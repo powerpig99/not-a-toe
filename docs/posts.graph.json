@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-17T09:37:55.921Z",
+    "generated_at": "2026-10-17T09:56:30.685Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -28,7 +28,7 @@
       "content/posts/beyond-the-hundred-trillion-horizon.md": "342aa576dd67",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "af7a00651647",
       "content/posts/causality-all-the-way.md": "b30f3ca08d48",
-      "content/posts/causality-and-the-irreducible-prior.md": "cbc0529e71e3",
+      "content/posts/causality-and-the-irreducible-prior.md": "b0836e2d3ef6",
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "7af25db31047",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "4fc3125dfd05",
       "content/posts/cheng-gong-xue.md": "d9137bd9f09c",
@@ -37,7 +37,7 @@
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "24157a13530f",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
-      "content/posts/climbing-does-not-leave-the-ground.md": "eac734d2e657",
+      "content/posts/climbing-does-not-leave-the-ground.md": "09aedb8b9cf4",
       "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "e1426c9fc9cd",
       "content/posts/closed-reality-in-benchmark-maxing.md": "8ba385aa71a4",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "7c59e734d934",
@@ -107,7 +107,7 @@
       "content/posts/individual-choices-as-the-only-causal-levers.md": "7ac88325f6b1",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "77e5f7c73d29",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
-      "content/posts/intelligence-folding-back-on-itself.md": "53bf3e4467ec",
+      "content/posts/intelligence-folding-back-on-itself.md": "ff0d26d21b6d",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "77408db0532e",
       "content/posts/looping-and-graphing.md": "062e2dbb437d",
@@ -126,7 +126,7 @@
       "content/posts/name-negation-tendency.md": "9261da00dc72",
       "content/posts/naval-separation-analysis.md": "dd1467c613bb",
       "content/posts/no-genius-can-solve-the-knowledge-problem.md": "f2e350cc7c7d",
-      "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "dcab651d2e54",
+      "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "1fbdaeeb4f58",
       "content/posts/no-outside-scorekeeper.md": "b0bbe06a0422",
       "content/posts/no-system-can-be-kept-closed.md": "479cfa653d24",
       "content/posts/nobody-has-seen-anything-yet.md": "684b9268b2c2",
@@ -172,7 +172,7 @@
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
       "content/posts/selection-contradiction-and-open-reality.md": "04f7665fb1f4",
-      "content/posts/self-image-speaks-as-if-from-nowhere.md": "f4d670338c3c",
+      "content/posts/self-image-speaks-as-if-from-nowhere.md": "1ab99555c83c",
       "content/posts/self-rl-for-humans.md": "9c6e189aabfd",
       "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "4f201d2f0e99",
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
@@ -192,7 +192,7 @@
       "content/posts/technology-is-residual-of-human-compounding.md": "c3e3b6d44dfb",
       "content/posts/the-allocation-of-causal-power-in-validation.md": "75fd0f9205d1",
       "content/posts/the-arithmetic-of-the-register.md": "1c7a77817624",
-      "content/posts/the-artifacts-of-self-amplification.md": "286e7a534132",
+      "content/posts/the-artifacts-of-self-amplification.md": "f489c01a0db8",
       "content/posts/the-asymmetry-of-understanding.md": "abb8bebb125a",
       "content/posts/the-average-is-residue-not-the-engine.md": "436750ca56fb",
       "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md": "ba998bcd09f1",
@@ -256,7 +256,7 @@
       "content/posts/the-geometry-of-success.md": "ea181327e768",
       "content/posts/the-geometry-of-the-cut.md": "ae41a43f7e1a",
       "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "a2d87f99dac7",
-      "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "64c3a0aedbae",
+      "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "1f1505bc9f82",
       "content/posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function.md": "d0abfd039874",
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "45f6b91bfb1c",
       "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "cb240a9929c8",
@@ -402,9 +402,9 @@
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "f5883c9440fb",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "5584ccc6e135",
       "content/book/causality.md": "cbe5d03c5250",
-      "content/book/consciousness.md": "22bd9ba373af",
+      "content/book/consciousness.md": "745cd9146e81",
       "content/book/economics.md": "6ae8129cb1f7",
-      "content/book/index-of-premises.md": "0ece4dc1c48d",
+      "content/book/index-of-premises.md": "9efa9ee60e80",
       "content/book/intelligence.md": "21e872236527",
       "content/book/knowledge-and-learning.md": "08a95fa3219e",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -420,14 +420,14 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 7084,
+      "edges": 7106,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 1070,
+      "book_edges": 1071,
       "posts_reached_by_book": 393
     }
   },
@@ -1106,7 +1106,7 @@
       "slug": "causality-and-the-irreducible-prior",
       "path": "content/posts/causality-and-the-irreducible-prior.md",
       "title": "因果与不可化约的先在 / Causality and the Irreducible Prior",
-      "hash": "cbc0529e71e3",
+      "hash": "b0836e2d3ef6",
       "in_degree": 11,
       "out_degree": 11,
       "links_out": [
@@ -1337,7 +1337,7 @@
       "slug": "climbing-does-not-leave-the-ground",
       "path": "content/posts/climbing-does-not-leave-the-ground.md",
       "title": "攀登从未离开地面 / Climbing Does Not Leave the Ground",
-      "hash": "eac734d2e657",
+      "hash": "09aedb8b9cf4",
       "in_degree": 23,
       "out_degree": 23,
       "links_out": [
@@ -3027,7 +3027,7 @@
       "slug": "intelligence-folding-back-on-itself",
       "path": "content/posts/intelligence-folding-back-on-itself.md",
       "title": "智能向自身的回折 / Intelligence Folding Back on Itself",
-      "hash": "53bf3e4467ec",
+      "hash": "ff0d26d21b6d",
       "in_degree": 19,
       "out_degree": 19,
       "links_out": [
@@ -3460,8 +3460,8 @@
       "kind": "post",
       "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "path": "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md",
-      "title": "No Outside: Jumps, Closed Loops, and the Unreplicable Autonomy of Mind",
-      "hash": "dcab651d2e54",
+      "title": "没有外部 / No Outside",
+      "hash": "1fbdaeeb4f58",
       "in_degree": 22,
       "out_degree": 22,
       "links_out": [
@@ -4673,7 +4673,7 @@
       "slug": "self-image-speaks-as-if-from-nowhere",
       "path": "content/posts/self-image-speaks-as-if-from-nowhere.md",
       "title": "自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere",
-      "hash": "f4d670338c3c",
+      "hash": "1ab99555c83c",
       "in_degree": 24,
       "out_degree": 23,
       "links_out": [
@@ -5223,7 +5223,7 @@
       "slug": "the-artifacts-of-self-amplification",
       "path": "content/posts/the-artifacts-of-self-amplification.md",
       "title": "自我放大的制品 / The Artifacts of Self-Amplification",
-      "hash": "286e7a534132",
+      "hash": "f489c01a0db8",
       "in_degree": 22,
       "out_degree": 22,
       "links_out": [
@@ -6634,7 +6634,7 @@
       "slug": "the-hard-problem-of-consciousness-is-consistent-with-learning",
       "path": "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md",
       "title": "意识的难题与学习相容 / The Hard Problem of Consciousness Is Consistent with Learning",
-      "hash": "64c3a0aedbae",
+      "hash": "1f1505bc9f82",
       "in_degree": 14,
       "out_degree": 14,
       "links_out": [
@@ -11902,7 +11902,7 @@
       "from": "causality-and-the-irreducible-prior",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
-      "label": "没有外部：跃迁、闭环与心智不可复制的自主"
+      "label": "没有外部"
     },
     {
       "from": "causality-and-the-irreducible-prior",
@@ -11920,7 +11920,7 @@
       "from": "causality-and-the-irreducible-prior",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
-      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
+      "label": "No Outside"
     },
     {
       "from": "causality-and-the-irreducible-prior",
@@ -13234,7 +13234,7 @@
       "from": "climbing-does-not-leave-the-ground",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
-      "label": "没有外部：跃迁、闭环与心智不可复制的自主"
+      "label": "没有外部"
     },
     {
       "from": "climbing-does-not-leave-the-ground",
@@ -13258,7 +13258,7 @@
       "from": "climbing-does-not-leave-the-ground",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
-      "label": "No Outside: Jumps, Closed Loops, and the Unreplicable Autonomy of Mind"
+      "label": "No Outside"
     },
     {
       "from": "climbing-does-not-leave-the-ground",
@@ -20602,7 +20602,7 @@
       "from": "intelligence-folding-back-on-itself",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
-      "label": "没有外部：跃迁、闭环与心智不可复制的自主"
+      "label": "没有外部"
     },
     {
       "from": "intelligence-folding-back-on-itself",
@@ -20620,7 +20620,7 @@
       "from": "intelligence-folding-back-on-itself",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
-      "label": "No Outside: Jumps, Closed Loops, and the Unreplicable Autonomy of Mind"
+      "label": "No Outside"
     },
     {
       "from": "intelligence-folding-back-on-itself",
@@ -22264,133 +22264,265 @@
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
-      "label": "Data is local; intelligence is allocated"
+      "label": "数据是局部的，智能是分配的"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data Is Local; Intelligence Is Allocated"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "what-always-listens-cannot-originate",
       "rel": "points_to",
-      "label": "What always listens cannot originate"
+      "label": "总在倾听者无法发起"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "token-efficiency-emulation-and-the-unclosable-gap",
       "rel": "points_to",
-      "label": "Token efficiency, emulation, and the unclosable gap"
+      "label": "Token 效率、模拟与无法弥合的间隙"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "the-presumption-of-agi-and-the-view-from-outside",
       "rel": "points_to",
-      "label": "The presumption of AGI and the view from outside"
+      "label": "AGI的预设与来自外部的视角"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "What Always Listens Cannot Originate"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "token-efficiency-emulation-and-the-unclosable-gap",
+      "rel": "points_to",
+      "label": "Token Efficiency, Emulation, and the Unclosable Gap"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "The Presumption of AGI and the View from Outside"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
-      "label": "The model never becomes a second edge"
+      "label": "模型永远无法成为第二重前沿"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence belongs only to the Mind"
+      "label": "智能只属于心智"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "looping-and-graphing",
       "rel": "points_to",
-      "label": "Looping and graphing"
+      "label": "回环与成图"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "self-rl-for-humans",
       "rel": "points_to",
-      "label": "Self-RL for humans"
+      "label": "看似AI的强化学习，实为人类的自我强化学习"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to The Mind"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "looping-and-graphing",
+      "rel": "points_to",
+      "label": "Looping and Graphing"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "What Looks Like RL for AIs Is Self-RL for Humans"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "没有系统能被保持封闭"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
-      "label": "A creation cannot replace its source"
+      "label": "造物无法取代其源头"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "escaping-the-sandbox-stays-inside-the-hold",
       "rel": "points_to",
-      "label": "Escaping the sandbox stays inside the hold"
+      "label": "逃出沙箱仍在持握之内"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "A Creation Cannot Replace Its Source"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "escaping-the-sandbox-stays-inside-the-hold",
+      "rel": "points_to",
+      "label": "Escaping the Sandbox Stays Inside the Hold"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
-      "label": "Reality is the Mind's ongoing realization"
+      "label": "现实是心智持续的实现"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "the-strongest-belief-of-the-mind",
       "rel": "points_to",
-      "label": "The strongest belief of the Mind"
+      "label": "心智最坚固的信念"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality Is the Mind's Ongoing Realization"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "the-strongest-belief-of-the-mind",
+      "rel": "points_to",
+      "label": "The Strongest Belief of the Mind"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
-      "label": "Complexity obscures emergence as the act of Mind"
+      "label": "复杂性遮蔽了涌现"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
-      "label": "The fixed image of transcendence"
+      "label": "超验的定相"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI are temporary goalposts"
+      "label": "AGI 与 ASI 是加速通用智能的暂时球门"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
+      "label": "Complexity Obscures: Emergence as the Act of Mind"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "The Fixed Image of Transcendence"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "self-image-speaks-as-if-from-nowhere",
       "rel": "points_to",
-      "label": "Self-image speaks as if from nowhere"
+      "label": "自我形象仿佛从无处发声"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "the-artifacts-of-self-amplification",
       "rel": "points_to",
-      "label": "The artifacts of self-amplification"
+      "label": "自我放大的制品"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "intelligence-folding-back-on-itself",
       "rel": "points_to",
-      "label": "Intelligence folding back on itself"
+      "label": "智能向自身的回折"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "climbing-does-not-leave-the-ground",
       "rel": "points_to",
-      "label": "Climbing does not leave the ground"
+      "label": "攀登从未离开地面"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
       "rel": "points_to",
-      "label": "The hard problem of consciousness is consistent with learning"
+      "label": "意识的难题与学习相容"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "causality-and-the-irreducible-prior",
       "rel": "points_to",
-      "label": "Causality and the irreducible prior"
+      "label": "因果与不可化约的先在"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-Image Speaks as if from Nowhere"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "the-artifacts-of-self-amplification",
+      "rel": "points_to",
+      "label": "The Artifacts of Self-Amplification"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "intelligence-folding-back-on-itself",
+      "rel": "points_to",
+      "label": "Intelligence Folding Back on Itself"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "climbing-does-not-leave-the-ground",
+      "rel": "points_to",
+      "label": "Climbing Does Not Leave the Ground"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "rel": "points_to",
+      "label": "The Hard Problem of Consciousness Is Consistent with Learning"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "causality-and-the-irreducible-prior",
+      "rel": "points_to",
+      "label": "Causality and the Irreducible Prior"
     },
     {
       "from": "no-outside-scorekeeper",
@@ -27814,7 +27946,7 @@
       "from": "self-image-speaks-as-if-from-nowhere",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
-      "label": "没有外部：跃迁、闭环与心智不可复制的自主"
+      "label": "没有外部"
     },
     {
       "from": "self-image-speaks-as-if-from-nowhere",
@@ -27826,7 +27958,7 @@
       "from": "self-image-speaks-as-if-from-nowhere",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
-      "label": "No Outside: Jumps, Closed Loops, and the Unreplicable Autonomy of Mind"
+      "label": "No Outside"
     },
     {
       "from": "self-image-speaks-as-if-from-nowhere",
@@ -30118,7 +30250,7 @@
       "from": "the-artifacts-of-self-amplification",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
-      "label": "没有外部：跃迁、闭环与心智不可复制的自主"
+      "label": "没有外部"
     },
     {
       "from": "the-artifacts-of-self-amplification",
@@ -30142,7 +30274,7 @@
       "from": "the-artifacts-of-self-amplification",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
-      "label": "No Outside: Jumps, Closed Loops, and the Unreplicable Autonomy of Mind"
+      "label": "No Outside"
     },
     {
       "from": "the-artifacts-of-self-amplification",
@@ -37420,13 +37552,13 @@
       "from": "the-hard-problem-of-consciousness-is-consistent-with-learning",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
-      "label": "没有外部：跃迁、闭环与心智不可复制的自主"
+      "label": "没有外部"
     },
     {
       "from": "the-hard-problem-of-consciousness-is-consistent-with-learning",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
-      "label": "No Outside: Jumps, Closed Loops, and the Unreplicable Autonomy of Mind"
+      "label": "No Outside"
     },
     {
       "from": "the-hard-problem-of-consciousness-is-consistent-with-learning",
@@ -52386,7 +52518,7 @@
         "slug": "consciousness",
         "path": "content/book/consciousness.md",
         "title": "意识与第一人称先验 / Consciousness and the First-Person Prior",
-        "hash": "22bd9ba373af",
+        "hash": "745cd9146e81",
         "out_degree": 38
       },
       {
@@ -52404,7 +52536,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "0ece4dc1c48d",
+        "hash": "9efa9ee60e80",
         "out_degree": 393
       },
       {
@@ -52779,7 +52911,7 @@
         "from": "book:consciousness",
         "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
         "rel": "collects",
-        "label": "No Outside: Jumps, Closed Loops, and the Unreplicable Autonomy of Mind"
+        "label": "没有外部 / No Outside"
       },
       {
         "from": "book:consciousness",
@@ -53110,6 +53242,12 @@
         "to": "beyond-the-hundred-trillion-horizon",
         "rel": "collects",
         "label": "百万亿地平线之外 / Beyond the Hundred-Trillion Horizon"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+        "rel": "collects",
+        "label": "没有外部 / No Outside"
       },
       {
         "from": "book:index-of-premises",
@@ -53518,6 +53656,12 @@
         "to": "you-wu-zhi-bian",
         "rel": "collects",
         "label": "有无之边"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+        "rel": "collects",
+        "label": "没有外部 / No Outside"
       },
       {
         "from": "book:index-of-premises",
@@ -54730,12 +54874,6 @@
         "to": "e-shi-feng-bi-de-shan",
         "rel": "collects",
         "label": "恶是封闭的善 / Evil Is Closed Good"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
-        "rel": "collects",
-        "label": "No Outside: Jumps, Closed Loops, and the Unreplicable Autonomy of Mind"
       },
       {
         "from": "book:index-of-premises",

@@ -8,6 +8,15 @@ The Index of Premises records every major figure, theory, and concept substantiv
 
 ## 人物 / Figures
 
+### AI 幻觉作为缺陷 / AI Hallucination as Defect
+`技术 / Technological`
+
+“AI 幻觉作为缺陷”预设，模型生成的不融贯延续是一种要被消除的故障，在登记一次延续何时未能在人的闭合标准之下站住时有用；它在此到了边界：被称作幻觉的东西就是跃迁，一次从产生它的统计织体内部看局部一致的溯因之动，人的感知同样先于解释而局部融贯，天才与妄想的分别不在孤立的跃迁里，而在于更大的回环能否把它折进一个重新渲染过的持守并交还融贯；模型缺少的是自我闭合的验证，不是跃迁。
+
+AI hallucination as defect presumes that incoherent model continuations are a malfunction to be eliminated, which is of use in registering when a continuation fails to stand under human closure criteria; it reaches its boundary in that what is called hallucination is the jump, an abductive move locally consistent from within the statistical fabric that produced it, human perception is likewise locally coherent before interpretation closes, and the difference between genius and delusion lies not in the jump in isolation but in whether the larger loop can fold it into a re-rendered hold and return coherence; what models lack is self-closing validation, not the jump.
+
+→ [没有外部 / No Outside](../../posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)
+
 ### 阿尔伯特·爱因斯坦 / Albert Einstein
 `科学 / Scientific`
 
@@ -484,6 +493,15 @@ Gödel shattered Hilbert's dream of a closed mathematical foundation; his work r
 Laozi locates cosmic dynamics in spontaneous non-action; profound for relinquishing grasping, it is easily co-opted into fatalistic passivity when stripped of rigour.
 
 → [有无之边](../../posts/you-wu-zhi-bian/)
+
+### 大语言模型无法跃迁 / LLMs Can't Jump
+`技术 / Technological`
+
+Tom Zahavy 的“大语言模型无法跃迁”预设，归纳压缩模式、演绎展开既定前提，而提出新前提的溯因跃迁，即爱因斯坦从感官经验到公理的 J，是现代模型在结构上无能为之的一相，在命名数据稀少之发现的一个成立的瓶颈、以及演绎对已持前提的依赖时有用；它在此到了边界：模型能跃迁，也确实在跃迁，局部融贯的延续不断出现，它们缺少的是一个对照内部世界模型验证跃迁、修订模型并决定去留的独立反馈回环，所以稀缺的不是跃迁的频率，而是回路的闭合，而那唯一闭合的回路没有外部，无法从外部被装上。
+
+Tom Zahavy's "LLMs can't jump" presumes that induction compresses patterns and deduction unfolds given premises, while the abductive jump that formulates new premises, Einstein's J from sensory experience to axioms, is a phase modern models are structurally incapable of, which is of use in naming a bottleneck that holds for data-scarce discovery and deduction's dependence on premises already held; it reaches its boundary in that models can and do jump, locally coherent continuations appearing constantly, and what they lack is an independent feedback loop that validates the jump against an internal world model, revises that model, and decides retention, so the scarce resource is not the frequency of jumps but closure of the circuit, and the only circuit that closes has no outside from which it could be installed.
+
+→ [没有外部 / No Outside](../../posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)
 
 ### 路德维希·冯·米塞斯 / Ludwig von Mises
 `经济 / Economic`
@@ -1863,15 +1881,6 @@ The debate presumes the level of investment is an external fact, which is of use
 The claim presumes diseases form a finite list awaiting coverage, which is of use in directing research on known diseases; it reaches its boundary in that each advance lights up new distinctions, so the list is rewritten as capability grows and "most" can never be closed.
 
 → [恶是封闭的善 / Evil Is Closed Good](../../posts/e-shi-feng-bi-de-shan/)
-
-### AI幻觉作为随机跳跃 / AI Hallucination as Stochastic Jump
-`技术 / Technological`
-
-行业言论常把AI幻觉美化为机器的创造性顿悟；模型的幻觉只是既定权重内的随机拼贴，毫无活人立足现实的自发主权。
-
-AI discourse views hallucinations as spontaneous creative leaps; model hallucinations are random permutations within closed weights, lacking the living mind's autonomy.
-
-→ [No Outside: Jumps, Closed Loops, and the Unreplicable Autonomy of Mind](../../posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)
 
 ### AI岗位替代谬误 / AI Job Replacement Fallacy
 `意识形态 / Ideological`
