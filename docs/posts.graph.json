@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-17T03:25:47.329Z",
+    "generated_at": "2026-10-17T03:38:24.974Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -107,7 +107,7 @@
       "content/posts/individual-choices-as-the-only-causal-levers.md": "7ac88325f6b1",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "77e5f7c73d29",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
-      "content/posts/intelligence-folding-back-on-itself.md": "bc1b6188ae66",
+      "content/posts/intelligence-folding-back-on-itself.md": "53bf3e4467ec",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "77408db0532e",
       "content/posts/looping-and-graphing.md": "062e2dbb437d",
@@ -3027,7 +3027,7 @@
       "slug": "intelligence-folding-back-on-itself",
       "path": "content/posts/intelligence-folding-back-on-itself.md",
       "title": "智能向自身的回折 / Intelligence Folding Back on Itself",
-      "hash": "bc1b6188ae66",
+      "hash": "53bf3e4467ec",
       "in_degree": 19,
       "out_degree": 19,
       "links_out": [
@@ -20212,7 +20212,7 @@
       "from": "intelligence-folding-back-on-itself",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI Are Temporary Goalposts"
+      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
     },
     {
       "from": "intelligence-folding-back-on-itself",
