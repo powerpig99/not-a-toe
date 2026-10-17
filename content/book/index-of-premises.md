@@ -4126,11 +4126,11 @@ Statism assumes legislation magically guarantees institutional safety; regulatio
 ### 管制作为非对称隐性税 / Regulatory Prohibition as Asymmetric Tax
 `经济 / Economic`
 
-贸易封锁预设法令能阻断前沿技术外溢；管辖禁令实则是扭曲资源配置的隐形税，反而庇护了受保护行业的低效。
+管制禁令预设一条规则能拦住它所针对的他人前进；它的边界在于，持守只拖慢把它当作地基的人、最重地落在最坚信封印的执行者身上，而针对已在视野中之结果写下的规则总在原因移动之后到来，前沿则以不接受它的人的步调推进；界限若随步伐重新渲染、由选择它的人持有，便仍是增密真实模式的工具。
 
-Protectionist trade bans presume legislative restrictions stop foreign technology diffusion; restrictions function as an asymmetric tax distorting capital and encouraging rent-seeking.
+Regulatory prohibition presumes that a rule can stop the advance it is aimed at; it reaches its boundary in that the hold slows only those who treat it as ground, falls most heavily on the enforcers who believe the seal hardest, and, written against effects already in view, arrives after the cause has shifted while the frontier advances at the pace of those who do not accept it; bounds re-rendered with the step and held by those who elect them remain instruments that densify real patterns.
 
-→ [Restriction Is a Selective Tax](../../posts/restriction-is-a-selective-tax/)
+→ [限制是选择性的税 / Restriction Is a Selective Tax](../../posts/restriction-is-a-selective-tax/)
 
 ### 机构实体化 / Reification of Institutions
 `哲学 / Philosophical`

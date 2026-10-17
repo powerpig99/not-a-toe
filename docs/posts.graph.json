@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-17T22:48:34.823Z",
+    "generated_at": "2026-10-17T23:36:37.316Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -169,7 +169,7 @@
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "f85879109b9b",
       "content/posts/residual-control-recedes-to-the-edge.md": "48dea51167fd",
       "content/posts/residual-individualism.md": "b3c7a0af86ff",
-      "content/posts/restriction-is-a-selective-tax.md": "41418edaaaad",
+      "content/posts/restriction-is-a-selective-tax.md": "9eb2991f975e",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
       "content/posts/selection-contradiction-and-open-reality.md": "04f7665fb1f4",
@@ -405,7 +405,7 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "745cd9146e81",
       "content/book/economics.md": "e488107cbd4f",
-      "content/book/index-of-premises.md": "b29c06660978",
+      "content/book/index-of-premises.md": "8efaf12a0569",
       "content/book/intelligence.md": "9528af4528a9",
       "content/book/knowledge-and-learning.md": "8c2cce815605",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -415,13 +415,13 @@
       "content/book/morality.md": "e521d5811053",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
-      "content/book/state-and-collective.md": "52908cb98984",
+      "content/book/state-and-collective.md": "92ec863fa18a",
       "content/book/success-and-the-self.md": "24179a1b74d7",
       "content/book/tools-and-progress.md": "2db21b3550ba"
     },
     "stats": {
       "posts": 394,
-      "edges": 7361,
+      "edges": 7379,
       "unique_directed": 4560,
       "missing_targets": 0,
       "one_way": 148,
@@ -4624,8 +4624,8 @@
       "kind": "post",
       "slug": "restriction-is-a-selective-tax",
       "path": "content/posts/restriction-is-a-selective-tax.md",
-      "title": "Restriction Is a Selective Tax",
-      "hash": "41418edaaaad",
+      "title": "限制是选择性的税 / Restriction Is a Selective Tax",
+      "hash": "9eb2991f975e",
       "in_degree": 18,
       "out_degree": 18,
       "links_out": [
@@ -28763,55 +28763,115 @@
       "from": "restriction-is-a-selective-tax",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "the allocation of causal power in validation"
+      "label": "验证中因果权能的分配"
     },
     {
       "from": "restriction-is-a-selective-tax",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
-      "label": "Hierarchy from individual difference"
+      "label": "来自个体差异的层级"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from Individual Difference"
     },
     {
       "from": "restriction-is-a-selective-tax",
       "to": "what-works-is-the-belief",
       "rel": "points_to",
-      "label": "What works is the belief"
+      "label": "起作用的是信念"
     },
     {
       "from": "restriction-is-a-selective-tax",
       "to": "the-price-of-closing-optionality",
       "rel": "points_to",
-      "label": "The price of closing optionality"
+      "label": "关闭选择权的代价"
     },
     {
       "from": "restriction-is-a-selective-tax",
       "to": "the-source-of-all-harm",
       "rel": "points_to",
-      "label": "The source of all harm"
+      "label": "一切伤害的根源"
     },
     {
       "from": "restriction-is-a-selective-tax",
       "to": "the-strongest-belief-of-the-mind",
       "rel": "points_to",
-      "label": "The strongest belief of the Mind"
+      "label": "心智最坚固的信念"
     },
     {
       "from": "restriction-is-a-selective-tax",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "What Works Is the Belief"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "the-price-of-closing-optionality",
+      "rel": "points_to",
+      "label": "The Price of Closing Optionality"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "the-source-of-all-harm",
+      "rel": "points_to",
+      "label": "The Source of All Harm"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "the-strongest-belief-of-the-mind",
+      "rel": "points_to",
+      "label": "The Strongest Belief of the Mind"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
     },
     {
       "from": "restriction-is-a-selective-tax",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
-      "label": "Symptom and cause in the narratives of progress"
+      "label": "进步叙事中的症候与原因"
     },
     {
       "from": "restriction-is-a-selective-tax",
       "to": "the-risk-is-the-belief-in-oversight-itself",
       "rel": "points_to",
-      "label": "The risk is the belief in oversight itself"
+      "label": "风险在于对监管本身的迷信"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "deceleration-is-the-drag-felt-when-accelerating",
+      "rel": "points_to",
+      "label": "减速是加速时感受到的阻力"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and Cause in the Narratives of Progress"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "The Risk Is the Belief in Oversight Itself"
     },
     {
       "from": "restriction-is-a-selective-tax",
@@ -28823,43 +28883,91 @@
       "from": "restriction-is-a-selective-tax",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
-      "label": "Sovereignty, belief, and the generation of regulatory structures"
+      "label": "主权、信念与规制结构的生成"
     },
     {
       "from": "restriction-is-a-selective-tax",
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
-      "label": "Public spending does not create capital"
+      "label": "公共支出不创造资本"
     },
     {
       "from": "restriction-is-a-selective-tax",
       "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "rel": "points_to",
-      "label": "The misallocation of cause"
+      "label": "财富转移政策与价格下限中的原因错置"
     },
     {
       "from": "restriction-is-a-selective-tax",
       "to": "the-risk-you-delegate-is-the-risk-you-create",
       "rel": "points_to",
-      "label": "The risk you delegate is the risk you create"
+      "label": "你委托的风险就是你创造的风险"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public Spending Does Not Create Capital"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "The Misallocation of Cause in Wealth-Transfer Policies and Price Floors"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "the-risk-you-delegate-is-the-risk-you-create",
+      "rel": "points_to",
+      "label": "The Risk You Delegate Is the Risk You Create"
     },
     {
       "from": "restriction-is-a-selective-tax",
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
-      "label": "Preference clusters and the language of judgment"
+      "label": "偏好聚类与评判语言"
     },
     {
       "from": "restriction-is-a-selective-tax",
       "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
       "rel": "points_to",
-      "label": "Advocating openness of others is a desire for closure of the self"
+      "label": "要求他人开放是对自我封闭的渴望"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "Preference Clusters and the Language of Judgment"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "rel": "points_to",
+      "label": "Advocating Openness of Others Is a Desire for Closure of the Self"
     },
     {
       "from": "restriction-is-a-selective-tax",
       "to": "the-real-lesson-from-the-consciousness-vector-paper",
       "rel": "points_to",
-      "label": "The real lesson from the consciousness vector paper"
+      "label": "意识向量论文的真正教训"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "ones-potential-as-threat-or-inspiration",
+      "rel": "points_to",
+      "label": "潜能作为威胁或启发"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "the-real-lesson-from-the-consciousness-vector-paper",
+      "rel": "points_to",
+      "label": "The Real Lesson from the Consciousness Vector Paper"
     },
     {
       "from": "restriction-is-a-selective-tax",
@@ -54091,7 +54199,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "b29c06660978",
+        "hash": "8efaf12a0569",
         "out_degree": 394
       },
       {
@@ -54181,7 +54289,7 @@
         "slug": "state-and-collective",
         "path": "content/book/state-and-collective.md",
         "title": "国家集体与权力的镜像 / The State, Collectives, and the Mirror of Power",
-        "hash": "52908cb98984",
+        "hash": "92ec863fa18a",
         "out_degree": 30
       },
       {
@@ -58060,7 +58168,7 @@
         "from": "book:index-of-premises",
         "to": "restriction-is-a-selective-tax",
         "rel": "collects",
-        "label": "Restriction Is a Selective Tax"
+        "label": "限制是选择性的税 / Restriction Is a Selective Tax"
       },
       {
         "from": "book:index-of-premises",
@@ -60196,7 +60304,7 @@
         "from": "book:state-and-collective",
         "to": "restriction-is-a-selective-tax",
         "rel": "collects",
-        "label": "Restriction Is a Selective Tax"
+        "label": "限制是选择性的税 / Restriction Is a Selective Tax"
       },
       {
         "from": "book:state-and-collective",
