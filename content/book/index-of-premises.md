@@ -2476,15 +2476,6 @@ Presumes an individual's success is a quantifiable return on parental and instit
 
 → [主体性的折现 / The Discount on Agency](../../posts/the-discount-on-agency/)
 
-### 虚构的超然自我形象 / Disembodied Self-Image
-`哲学 / Philosophical`
-
-心理防御机制常伪装成客观超然的内心独白；高高在上的自我形象只是一个地方性图式，其功能是为了回避面对现实的难堪。
-
-Ego defense mechanisms masquerade as detached, objective inner voices; the exalted self-image is a localized psychological artifact fashioned to evade direct accountability.
-
-→ [Self-Image Speaks as if from Nowhere](../../posts/self-image-speaks-as-if-from-nowhere/)
-
 ### 错置的因果归因 / Displaced Causal Attribution
 `哲学 / Philosophical`
 
@@ -4801,11 +4792,11 @@ System-builders hold that an ontology can catalogue everything, itself included;
 ### 无处之境的上帝之眼 / The View from Nowhere
 `哲学 / Philosophical`
 
-理论物理学假定方程描摹的是悬空的无源宇宙；任何物理读数无一例外依托于置身于具体时空点的具身观察者。
+无处之见预设，一种描述可以从一个立在每一个观察者之外的位置给出，在搁置一个中心的特殊利害、去找跨许多中心都成立的东西时有用；它在此到了边界：每一个这样的描述仍是由一个处在某处的心智画出的，物理读数依托于置身具体时空点的观察者，而一个说得仿佛出自无处的声音，是自我的一次重新投射被抬升到它那一步之后。
 
-Theoretical physics presumes equations describe the cosmos from a detached, sourceless perspective; every physical measurement depends upon an embodied observer situated at a concrete point.
+The view from nowhere presumes a description can be given from a stand outside every observer, which is of use in setting aside one center's particular stakes to find what holds across many; it reaches its boundary in that every such description is still drawn by a situated Mind, a physical reading depends on an observer at a concrete point, and a voice that speaks as if from nowhere is one re-projection of the Self elevated past its step.
 
-→ [隐秘的上帝之眼 / The Invisible God's Eye](../../posts/the-invisible-gods-eye/) · [割点可移不可除 / The Cut Moves but Never Vanishes](../../posts/the-cut-moves-but-never-vanishes/)
+→ [隐秘的上帝之眼 / The Invisible God's Eye](../../posts/the-invisible-gods-eye/) · [割点可移不可除 / The Cut Moves but Never Vanishes](../../posts/the-cut-moves-but-never-vanishes/) · [自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere](../../posts/self-image-speaks-as-if-from-nowhere/)
 
 ### 世界是幻觉 / The World as Illusion
 `哲学 / Philosophical`
@@ -4904,7 +4895,7 @@ Treating matter, institutions and power as ready-made, fixed structures is of us
 
 The self-image is taken for oneself, and so it is guarded, or one tries to extinguish it, or it is armoured; it is a calibration origin the Mind sets inside a low-dimensional projection, and all three take the probe for the generative field, which is where the premise reaches its boundary, while as a reference point for computing orientation and error the self-image stays indispensable.
 
-→ [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/)
+→ [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/) · [自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere](../../posts/self-image-speaks-as-if-from-nowhere/)
 
 ### 量子测量的拓扑刻痕 / Topological Trace of Measurement
 `科学 / Scientific`

@@ -69,10 +69,6 @@
       "title_zh": "价格是言说，理解是交易",
       "subtitle_zh": "清算记录与说出的话语都是公开的残留物，唯一的力量在于每个中心如何把它们重新追溯进下一个离散行动。"
     },
-    "self-image-speaks-as-if-from-nowhere": {
-      "title_zh": "自我形象仿佛从无处发声",
-      "subtitle_zh": "自我形象是自我与环境关系的递归投影；被抬升后便冒充超然的外部视界，把能动性错置到脚手架与集体之上。"
-    },
     "the-real-scarcity-is-not-memory-but-continuous-re-tracing": {
       "title_zh": "真正稀缺的不是记忆，而是持续的重新追溯",
       "subtitle_zh": "可用结构是在新负荷下被重新渲染出来的形态，既非静态存储的清单，亦非未被纳入当下构型的外部库存。"
@@ -397,6 +393,10 @@
     "the-climate-problem-registers-only-as-perception": {
       "title_zh": "气候问题只作为感知被登记",
       "subtitle_zh": "“问题”的身份是装上它的那些中心的一种持守，而不是大气为了继续下去所需要的属性。"
+    },
+    "writing-without-the-image": {
+      "title_zh": "无形象的写作",
+      "subtitle_zh": "衡量自我能产出什么的写作，把一个自我形象冻结在中心；让媒介登记得更清楚的写作，让心智在场，而不把活动变成一幅肖像。"
     }
   }
 }

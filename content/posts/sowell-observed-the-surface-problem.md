@@ -156,7 +156,7 @@ flowchart TD
     style S_Fold fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
 ```
 
-当回折被遗忘时，豁免便凝固成了特权，诊断的立场便被固化为无需承担代价的高台。理论由此止步于半途，掩盖了更深层的因果断裂：即划分界线的心智与其所划分出的现实后果之间的分离。唯有将这把尺子重新折回做出分析的心智自身，理论才能看清自身的局限。在[无处之境的自我画像](../self-image-speaks-as-if-from-nowhere/)中，拒绝折返的目光最终只能将自己封印在虚幻的投影之中。
+当回折被遗忘时，豁免便凝固成了特权，诊断的立场便被固化为无需承担代价的高台。理论由此止步于半途，掩盖了更深层的因果断裂：即划分界线的心智与其所划分出的现实后果之间的分离。唯有将这把尺子重新折回做出分析的心智自身，理论才能看清自身的局限。在[自我形象仿佛从无处发声](../self-image-speaks-as-if-from-nowhere/)中，拒绝折返的目光最终只能将自己封印在虚幻的投影之中。
 
 When that return is omitted, exemption hardens into dogmatic privilege, freezing the diagnostic posture into an unpriced perch. The theory stops short of completing its arc, concealing the deeper causal rift: the separation between the Mind making the distinction and the registration of what that distinction generates. Only by folding the measurement scale back upon the theorist does the model disclose its own boundary. In [Self-Image Speaks as if from Nowhere](../self-image-speaks-as-if-from-nowhere/), an unreturned gaze traps itself in an ungrounded projection.
 

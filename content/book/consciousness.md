@@ -23,7 +23,7 @@ The essays in this part confront the hard problem of consciousness, the evolutio
 - [Reality Is the Mind's Ongoing Realization](../../posts/reality-is-the-minds-ongoing-realization/)
 - [The Strongest Belief of the Mind](../../posts/the-strongest-belief-of-the-mind/)
 - [No Outside: Jumps, Closed Loops, and the Unreplicable Autonomy of Mind](../../posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)
-- [Self-Image Speaks as if from Nowhere](../../posts/self-image-speaks-as-if-from-nowhere/)
+- [自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere](../../posts/self-image-speaks-as-if-from-nowhere/)
 - [意识向量论文的真正教训 / The Real Lesson from the Consciousness Vector Paper](../../posts/the-real-lesson-from-the-consciousness-vector-paper/)
 - [共享意识是个体性的交集 / Shared Consciousness Is Intersecting Individualities](../../posts/shared-consciousness-is-intersecting-individualities/)
 - [悲观是乐观的阴影 / Pessimism Is the Shadow of Optimism](../../posts/pessimism-is-the-shadow-of-optimism/)
