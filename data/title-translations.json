@@ -226,10 +226,6 @@
       "title_zh": "当观察变成表演",
       "subtitle_zh": "一个关于别人的观察，只有作为第一人称的参照时才有力量；它一把自己包装成可携带的美德，就失去了这份力量。"
     },
-    "data-is-local-intelligence-is-allocated": {
-      "title_zh": "数据是局部的，智能是分配的",
-      "subtitle_zh": "信号、废料与智能，说的是心智划出的关系；聚合使痕迹更密，却并不挪走那一次划分。"
-    },
     "the-scaffolding-that-keeps-growing": {
       "title_zh": "持续生长的脚手架",
       "subtitle_zh": "敞开不是从一个完成的框里退后一步找回来的，它是让每一个框都保持未完成的那个条件。"
@@ -377,6 +373,10 @@
     "writing-without-the-image": {
       "title_zh": "无形象的写作",
       "subtitle_zh": "衡量自我能产出什么的写作，把一个自我形象冻结在中心；让媒介登记得更清楚的写作，让心智在场，而不把活动变成一幅肖像。"
+    },
+    "the-non-definitive-definition-of-intelligence": {
+      "title_zh": "智能的非定论定义",
+      "subtitle_zh": "我们在现实暂时封闭的切片里测量智能，好在开放的现实里更智能地探索，表达那无法被测量或定义的智能。"
     }
   }
 }

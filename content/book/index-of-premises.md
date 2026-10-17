@@ -215,6 +215,15 @@ Amodei's ten-fold acceleration holds for a list of known diseases, which is of u
 
 → [恶是封闭的善 / Evil Is Closed Good](../../posts/e-shi-feng-bi-de-shan/)
 
+### 数据墙 / The Data Wall
+`技术 / Technological`
+
+数据墙的说法预设，进步受数据所限，可用的训练文本是一份将被用尽的固定外部存量，在登记一个成立的约束，即有限的容量、有限的当下语料与有限的生成和评估带宽时有用；它在此到了边界：受约束不等于有界限，数据不是从无处到来的存量，而是人连续的生成，如今经由更密的器具被增压，进入训练的东西大多在别的持守下会被登记为糟粕，这证明的是质量从来是分配的关系，而要紧的，是仍在选择什么算数之边缘上的容量与融贯。
+
+The data wall presumes that progress is data bound, usable training text being a fixed external stock that will run out, which is of use in registering a constraint that holds, finite capacity, finite current corpora, and finite bandwidth of generation and evaluation; it reaches its boundary in that constrained is not bounded, data does not arrive from nowhere as a stock but is continuous human generation now supercharged through denser instruments, most of what enters training would register as slop under other holds, which shows quality was always a relation of allocation, and what matters is capacity and coherence at the edges that still choose what counts.
+
+→ [数据是局部的，智能是分配的 / Data Is Local; Intelligence Is Allocated](../../posts/data-is-local-intelligence-is-allocated/)
+
 ### 大卫·查尔默斯 / David Chalmers
 `哲学 / Philosophical`
 
@@ -745,6 +754,15 @@ Jobs demanded product perfection by rejecting conventional industry timelines; i
 Hameroff's treatment of understanding as an act outside rules, supplied by quantum objective reduction, is of use in bringing experience back into the physical discussion; it reaches its boundary in that, coherent within that ontology, it stops at one mind and does not ask how openness is demonstrated to another.
 
 → [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [另一种相干 / The Other Coherence](../../posts/the-other-coherence/)
+
+### 群体智能 / Swarm Intelligence
+`科学 / Scientific`
+
+群体智能预设，蚁群、神经网络这样的集体，由遵循简单局部规则的单元构成，自身具有作为系统属性的智能，在描述化学踪迹、招募与局部约束如何生成适应的、指向目标的行为时有用；它在此到了边界：观察握住的是拓扑，即互动的残余、强化的路径与招募的动态，集体让中心经由它而行动的媒介变密，却不把发起搬进媒介，而“智能”是又一个离散的动作分配给这些动态的地位，不是拓扑早已拥有的等级。
+
+Swarm intelligence presumes that collectives such as ant colonies and neural networks, built from units that follow simple local rules, possess intelligence as a system property, which is of use in describing how chemical trails, recruitment, and local constraints generate adaptive, goal-directed behavior; it reaches its boundary in that what observation holds is topology, interaction residue, reinforcement paths, and recruitment dynamics, the collective densifies the medium through which centers act without relocating initiation into it, and "intelligence" is a status a further discrete act allocates to those dynamics, not a grade the topology already owned.
+
+→ [数据是局部的，智能是分配的 / Data Is Local; Intelligence Is Allocated](../../posts/data-is-local-intelligence-is-allocated/)
 
 ### 托马斯·库恩 / Thomas Kuhn
 `哲学 / Philosophical`
@@ -2065,11 +2083,11 @@ Victim mentality presumes mind is a passive recipient of external forces; even c
 ### 大数据全知全能论 / Big Data Omniscience
 `技术 / Technological`
 
-集中式AI假定海量堆砌数据便能自发淬炼智慧；数据登记的只是局部的历史碎屑，智能却是灵活调配注意力关照当下的能力。
+大数据全知论预设，把足够多的数据汇集起来，智能与质量便会作为这份存量的属性浮现出来，在登记规律如何在汇总中留存、统计结构如何变得可见时有用；它在此到了边界：每一个信号首先是局部的，对产生它的中心价值很高，在几乎别处都是噪声，质量是材料与接收之持守之间的关系，汇总让残余变密，却不把发起搬进媒介，而一个系统只有在心智把智能的地位分配给它时才算智能。
 
-Centralized AI assumes aggregating mountains of raw data automates wisdom; data records local historical traces, whereas intelligence allocates attention to fresh relevance.
+Big data omniscience presumes that once enough data is gathered, intelligence and quality emerge as properties of the stock, which is of use in registering how regularities survive aggregation and statistical structure becomes visible; it reaches its boundary in that every signal is first local, high in value for the center that produced it and noise almost everywhere else, quality is a relation between material and the receiving hold, aggregation densifies residue without relocating initiation into the medium, and a system counts as intelligent only when a Mind allocates that status to it.
 
-→ [Data Is Local; Intelligence Is Allocated](../../posts/data-is-local-intelligence-is-allocated/)
+→ [数据是局部的，智能是分配的 / Data Is Local; Intelligence Is Allocated](../../posts/data-is-local-intelligence-is-allocated/)
 
 ### 菩萨誓愿 / Bodhisattva Vow
 `宗教 / Religious`
