@@ -1658,11 +1658,11 @@ Presumes moral duty is evenly distributed globally according to statistical util
 ### 乌托邦社会工程 / Utopian Social Engineering
 `意识形态 / Ideological`
 
-乌托邦意识形态预设一套完美的制度蓝图能消弭人间纷争；强行按图纸裁剪现实，必然走向动用专政手段抹杀异见的深渊。
+乌托邦社会工程预设，一个具体而融贯的善的理想可以立为所有人的标准，并由一份确定的秩序来实现，在一个心智私下珍视一种更好的构型、并把它作为邀请或范例供人自由拾取时有用；它在此到了边界：心智在目的与解释上非同一，这个元前提在挑战之下重申自己，所以理想一旦被抬升为每个心智须接受的尺度，便把每一个目的不同者的偏好目的计为缺陷，连共同的口号也留下余下的读法，强制把它们重新归类为不服从。
 
-Utopian ideologies presume an ideal social design will resolve all human discord; forcing reality to fit a pristine blueprint requires suppressing the diversity of actual minds.
+Utopian social engineering presumes that a concrete and coherent ideal of the good can be installed as the standard for all and realized as a determinate order, which is of use where a mind privately cherishes a better configuration and offers it as invitation or model for free uptake; it reaches its boundary in that minds are non-identical in ends and interpretation, a meta-premise that reaffirms itself under challenge, so the ideal, once elevated into the measure every Mind must accept, scores the preferred ends of every mind that differs as defects, and even shared slogans leave residual readings that enforcement reclassifies as non-compliance.
 
-→ [The Belief in Utopia Is the Path to Dystopia](../../posts/the-belief-in-utopia-is-the-path-to-dystopia/)
+→ [对乌托邦的信念是通往反乌托邦之路 / The Belief in Utopia Is the Path to Dystopia](../../posts/the-belief-in-utopia-is-the-path-to-dystopia/)
 
 ### 福利国家依赖困境 / Welfare State Dependency
 `经济 / Economic`
@@ -4977,15 +4977,6 @@ Universal salvation presumes enlightened teachers can rescue other souls; awaren
 Humanist slogans claim a homogeneous shared emotional core binds all people; conscious experience remains strictly first-person, making sharedness a constructed label.
 
 → [Shared Humanity Is Never Shared](../../posts/shared-humanity-is-never-shared/)
-
-### 乌托邦为清洗背书 / Utopian Moral Justification of Terror
-`意识形态 / Ideological`
-
-确信人间天堂可期使狂热分子将当下的残忍视为微小代价；对无限美好的许诺，反倒为消灭阻碍宏图的具体生命大开绿灯。
-
-Believing a paradise is achievable convinces reformers that present cruelty is a trivial price; infinite promised happiness licenses ruthless immediate terror against dissent.
-
-→ [The Belief in Utopia Is the Path to Dystopia](../../posts/the-belief-in-utopia-is-the-path-to-dystopia/)
 
 ### 以差异排名寻求认可 / Validation through Ranking of Differences
 `哲学 / Philosophical`

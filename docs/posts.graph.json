@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-17T08:38:55.414Z",
+    "generated_at": "2026-10-17T09:07:43.738Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -197,7 +197,7 @@
       "content/posts/the-average-is-residue-not-the-engine.md": "436750ca56fb",
       "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md": "ba998bcd09f1",
       "content/posts/the-bank-shot-and-the-magic-trick.md": "2f2534e90b66",
-      "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "c639024cd10a",
+      "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "724dd2818605",
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "b52ca2cdd064",
       "content/posts/the-blind-spot-of-the-frame.md": "23484e369bf2",
       "content/posts/the-boundary-crossing-of-choice.md": "795c21ece259",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "22bd9ba373af",
       "content/book/economics.md": "6ae8129cb1f7",
-      "content/book/index-of-premises.md": "7d85c451ec59",
+      "content/book/index-of-premises.md": "659dc8276d0f",
       "content/book/intelligence.md": "21e872236527",
       "content/book/knowledge-and-learning.md": "08a95fa3219e",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -414,20 +414,20 @@
       "content/book/morality.md": "af4f61303cff",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
-      "content/book/state-and-collective.md": "7ad34d65cf9d",
+      "content/book/state-and-collective.md": "41c374cc5308",
       "content/book/success-and-the-self.md": "e41f062f3ec6",
       "content/book/tools-and-progress.md": "2db21b3550ba"
     },
     "stats": {
       "posts": 393,
-      "edges": 7036,
+      "edges": 7059,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 1070,
+      "book_edges": 1069,
       "posts_reached_by_book": 393
     }
   },
@@ -5349,8 +5349,8 @@
       "kind": "post",
       "slug": "the-belief-in-utopia-is-the-path-to-dystopia",
       "path": "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md",
-      "title": "The Belief in Utopia Is the Path to Dystopia",
-      "hash": "c639024cd10a",
+      "title": "对乌托邦的信念是通往反乌托邦之路 / The Belief in Utopia Is the Path to Dystopia",
+      "hash": "724dd2818605",
       "in_degree": 23,
       "out_degree": 23,
       "links_out": [
@@ -30730,139 +30730,277 @@
       "from": "the-belief-in-utopia-is-the-path-to-dystopia",
       "to": "why-mathematics-can-never-be-solved",
       "rel": "points_to",
-      "label": "Why mathematics can never be solved"
+      "label": "为何数学永远解不完"
+    },
+    {
+      "from": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "Why Mathematics Can Never Be Solved"
     },
     {
       "from": "the-belief-in-utopia-is-the-path-to-dystopia",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
-      "label": "Complexity obscures: emergence as the act of Mind"
+      "label": "复杂性遮蔽了涌现"
+    },
+    {
+      "from": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
+      "label": "Complexity Obscures: Emergence as the Act of Mind"
     },
     {
       "from": "the-belief-in-utopia-is-the-path-to-dystopia",
       "to": "shared-humanity-is-never-shared",
       "rel": "points_to",
-      "label": "Shared humanity is never shared"
+      "label": "共同的人性从不共享"
     },
     {
       "from": "the-belief-in-utopia-is-the-path-to-dystopia",
       "to": "shared-consciousness-is-intersecting-individualities",
       "rel": "points_to",
-      "label": "Shared consciousness is intersecting individualities"
+      "label": "共享意识是个体性的交集"
     },
     {
       "from": "the-belief-in-utopia-is-the-path-to-dystopia",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
-      "label": "Hierarchy from individual difference"
+      "label": "来自个体差异的层级"
+    },
+    {
+      "from": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "to": "shared-humanity-is-never-shared",
+      "rel": "points_to",
+      "label": "Shared Humanity Is Never Shared"
+    },
+    {
+      "from": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "to": "shared-consciousness-is-intersecting-individualities",
+      "rel": "points_to",
+      "label": "Shared Consciousness Is Intersecting Individualities"
+    },
+    {
+      "from": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from Individual Difference"
     },
     {
       "from": "the-belief-in-utopia-is-the-path-to-dystopia",
       "to": "evil-as-the-minds-own-creation",
       "rel": "points_to",
-      "label": "Evil as the Mind’s own creation"
+      "label": "恶是心智自己的造物"
     },
     {
       "from": "the-belief-in-utopia-is-the-path-to-dystopia",
       "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "rel": "points_to",
-      "label": "Good and evil are the two sides of the coin and the cut"
+      "label": "善恶是硬币的两面与那一刀"
     },
     {
       "from": "the-belief-in-utopia-is-the-path-to-dystopia",
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
-      "label": "The fixed image of transcendence"
+      "label": "超验的定相"
+    },
+    {
+      "from": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "to": "evil-as-the-minds-own-creation",
+      "rel": "points_to",
+      "label": "Evil as the Mind's Own Creation"
+    },
+    {
+      "from": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "rel": "points_to",
+      "label": "Good and Evil Are the Two Sides of the Coin and the Cut"
+    },
+    {
+      "from": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "The Fixed Image of Transcendence"
     },
     {
       "from": "the-belief-in-utopia-is-the-path-to-dystopia",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
-      "label": "Externalized virtue becomes its opposite"
+      "label": "外化善意走向其反面"
     },
     {
       "from": "the-belief-in-utopia-is-the-path-to-dystopia",
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
-      "label": "Preference clusters and the language of judgment"
+      "label": "偏好聚类与评判语言"
     },
     {
       "from": "the-belief-in-utopia-is-the-path-to-dystopia",
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
-      "label": "Empowerment establishes the centralization of power"
+      "label": "赋权确立权力的集中"
+    },
+    {
+      "from": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized Virtue Becomes Its Opposite"
+    },
+    {
+      "from": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "Preference Clusters and the Language of Judgment"
+    },
+    {
+      "from": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "to": "empowerment-establishes-the-centralization-of-power",
+      "rel": "points_to",
+      "label": "Empowerment Establishes the Centralization of Power"
     },
     {
       "from": "the-belief-in-utopia-is-the-path-to-dystopia",
       "to": "price-as-utterance-understanding-as-trade",
       "rel": "points_to",
-      "label": "Price as utterance, understanding as trade"
+      "label": "价格是言说，理解是交易"
     },
     {
       "from": "the-belief-in-utopia-is-the-path-to-dystopia",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
-      "label": "The source of shared change"
+      "label": "共同改变的本源"
+    },
+    {
+      "from": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "Price as Utterance, Understanding as Trade"
+    },
+    {
+      "from": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "The Source of Shared Change"
     },
     {
       "from": "the-belief-in-utopia-is-the-path-to-dystopia",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
-      "label": "Sovereignty, belief, and the generation of regulatory structures"
+      "label": "主权、信念与规制结构的生成"
     },
     {
       "from": "the-belief-in-utopia-is-the-path-to-dystopia",
       "to": "the-risk-is-the-belief-in-oversight-itself",
       "rel": "points_to",
-      "label": "The risk is the belief in oversight itself"
+      "label": "风险在于对监管本身的迷信"
     },
     {
       "from": "the-belief-in-utopia-is-the-path-to-dystopia",
       "to": "the-imagining-of-ai-risk",
       "rel": "points_to",
-      "label": "The imagining of AI risk"
+      "label": "对 AI 风险的想象"
     },
     {
       "from": "the-belief-in-utopia-is-the-path-to-dystopia",
       "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "rel": "points_to",
-      "label": "Exceptionality, perception, and the self-limiting field of problems"
+      "label": "卓异、感知与自我设限的问题场域"
+    },
+    {
+      "from": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
+    },
+    {
+      "from": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "The Risk Is the Belief in Oversight Itself"
+    },
+    {
+      "from": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "to": "the-imagining-of-ai-risk",
+      "rel": "points_to",
+      "label": "The Imagining of AI Risk"
+    },
+    {
+      "from": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, Perception, and the Self-Limiting Field of Problems"
     },
     {
       "from": "the-belief-in-utopia-is-the-path-to-dystopia",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "the-belief-in-utopia-is-the-path-to-dystopia",
       "to": "the-question-that-installs-the-war",
       "rel": "points_to",
-      "label": "The question that installs the war"
+      "label": "安装战争的那个问题"
+    },
+    {
+      "from": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "to": "the-question-that-installs-the-war",
+      "rel": "points_to",
+      "label": "The Question That Installs the War"
     },
     {
       "from": "the-belief-in-utopia-is-the-path-to-dystopia",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "No Universal Salvation, Only Self-Deliverance"
+      "label": "没有普渡，只有自渡的无限可能"
     },
     {
       "from": "the-belief-in-utopia-is-the-path-to-dystopia",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
+    },
+    {
+      "from": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "the-belief-in-utopia-is-the-path-to-dystopia",
       "to": "the-source-of-all-harm",
       "rel": "points_to",
-      "label": "The source of all harm"
+      "label": "一切伤害的根源"
     },
     {
       "from": "the-belief-in-utopia-is-the-path-to-dystopia",
       "to": "the-utility-men-of-progress",
       "rel": "points_to",
-      "label": "The utility men of progress"
+      "label": "进步的多面手"
+    },
+    {
+      "from": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "to": "the-source-of-all-harm",
+      "rel": "points_to",
+      "label": "The Source of All Harm"
+    },
+    {
+      "from": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "to": "the-utility-men-of-progress",
+      "rel": "points_to",
+      "label": "The Utility Men of Progress"
     },
     {
       "from": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
@@ -52116,7 +52254,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "7d85c451ec59",
+        "hash": "659dc8276d0f",
         "out_degree": 393
       },
       {
@@ -52206,7 +52344,7 @@
         "slug": "state-and-collective",
         "path": "content/book/state-and-collective.md",
         "title": "国家集体与权力的镜像 / The State, Collectives, and the Mirror of Power",
-        "hash": "7ad34d65cf9d",
+        "hash": "41c374cc5308",
         "out_degree": 30
       },
       {
@@ -54291,7 +54429,7 @@
         "from": "book:index-of-premises",
         "to": "the-belief-in-utopia-is-the-path-to-dystopia",
         "rel": "collects",
-        "label": "The Belief in Utopia Is the Path to Dystopia"
+        "label": "对乌托邦的信念是通往反乌托邦之路 / The Belief in Utopia Is the Path to Dystopia"
       },
       {
         "from": "book:index-of-premises",
@@ -56677,12 +56815,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "the-belief-in-utopia-is-the-path-to-dystopia",
-        "rel": "collects",
-        "label": "The Belief in Utopia Is the Path to Dystopia"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "the-generative-contradiction",
         "rel": "collects",
         "label": "生成性的矛盾 / The Generative Contradiction"
@@ -58179,7 +58311,7 @@
         "from": "book:state-and-collective",
         "to": "the-belief-in-utopia-is-the-path-to-dystopia",
         "rel": "collects",
-        "label": "The Belief in Utopia Is the Path to Dystopia"
+        "label": "对乌托邦的信念是通往反乌托邦之路 / The Belief in Utopia Is the Path to Dystopia"
       },
       {
         "from": "book:state-and-collective",
