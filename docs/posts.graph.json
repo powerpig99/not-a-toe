@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-17T07:29:54.855Z",
+    "generated_at": "2026-10-17T08:38:55.414Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -358,7 +358,7 @@
       "content/posts/the-unexamined-critic.md": "752a0cbd970f",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "96d67d29d78d",
       "content/posts/the-unobservable-driver-of-learning.md": "309c64b033f1",
-      "content/posts/the-utility-men-of-progress.md": "f378543d8171",
+      "content/posts/the-utility-men-of-progress.md": "d48b5bc61d54",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "686bcbb6a5f7",
       "content/posts/the-velocity-of-visibility.md": "7a988e6f7355",
       "content/posts/the-walking-tangent-and-the-stumbling-sphere.md": "2e2205554d0d",
@@ -404,7 +404,7 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "22bd9ba373af",
       "content/book/economics.md": "6ae8129cb1f7",
-      "content/book/index-of-premises.md": "a20f3dc8dec8",
+      "content/book/index-of-premises.md": "7d85c451ec59",
       "content/book/intelligence.md": "21e872236527",
       "content/book/knowledge-and-learning.md": "08a95fa3219e",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -416,11 +416,11 @@
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "7ad34d65cf9d",
       "content/book/success-and-the-self.md": "e41f062f3ec6",
-      "content/book/tools-and-progress.md": "44ba14401b9a"
+      "content/book/tools-and-progress.md": "2db21b3550ba"
     },
     "stats": {
       "posts": 393,
-      "edges": 7019,
+      "edges": 7036,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
@@ -8910,8 +8910,8 @@
       "kind": "post",
       "slug": "the-utility-men-of-progress",
       "path": "content/posts/the-utility-men-of-progress.md",
-      "title": "The Utility Men of Progress",
-      "hash": "f378543d8171",
+      "title": "进步的多面手 / The Utility Men of Progress",
+      "hash": "d48b5bc61d54",
       "in_degree": 17,
       "out_degree": 17,
       "links_out": [
@@ -47680,49 +47680,109 @@
       "from": "the-utility-men-of-progress",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "the-utility-men-of-progress",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
-      "label": "Symptom and cause in the narratives of progress"
+      "label": "进步叙事中的症候与原因"
     },
     {
       "from": "the-utility-men-of-progress",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
-      "label": "The average is residue, not the engine"
+      "label": "平均值是残余，不是引擎"
+    },
+    {
+      "from": "the-utility-men-of-progress",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-utility-men-of-progress",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and Cause in the Narratives of Progress"
+    },
+    {
+      "from": "the-utility-men-of-progress",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "The Average Is Residue, Not the Engine"
     },
     {
       "from": "the-utility-men-of-progress",
       "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "rel": "points_to",
-      "label": "Exceptionality, perception, and the self-limiting field of problems"
+      "label": "卓异、感知与自我设限的问题场域"
+    },
+    {
+      "from": "the-utility-men-of-progress",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, Perception, and the Self-Limiting Field of Problems"
     },
     {
       "from": "the-utility-men-of-progress",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
-      "label": "Hierarchy from individual difference"
+      "label": "来自个体差异的层级"
     },
     {
       "from": "the-utility-men-of-progress",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "the-utility-men-of-progress",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from Individual Difference"
+    },
+    {
+      "from": "the-utility-men-of-progress",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "the-utility-men-of-progress",
       "to": "not-predicting-is-predicting-without-awareness",
       "rel": "points_to",
-      "label": "Not predicting is predicting without awareness"
+      "label": "不预测是没有觉察的预测"
+    },
+    {
+      "from": "the-utility-men-of-progress",
+      "to": "not-predicting-is-predicting-without-awareness",
+      "rel": "points_to",
+      "label": "Not Predicting Is Predicting Without Awareness"
     },
     {
       "from": "the-utility-men-of-progress",
       "to": "performative-hindsight-that-pretends-to-be-foresight",
       "rel": "points_to",
-      "label": "Performative hindsight that pretends to be foresight"
+      "label": "伪装成远见的表演性后见"
+    },
+    {
+      "from": "the-utility-men-of-progress",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
+      "label": "成功学"
+    },
+    {
+      "from": "the-utility-men-of-progress",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "共同改变的本源"
+    },
+    {
+      "from": "the-utility-men-of-progress",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "Performative Hindsight That Pretends to Be Foresight"
     },
     {
       "from": "the-utility-men-of-progress",
@@ -47734,49 +47794,91 @@
       "from": "the-utility-men-of-progress",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
-      "label": "The source of shared change"
+      "label": "The Source of Shared Change"
     },
     {
       "from": "the-utility-men-of-progress",
       "to": "having-more-is-never-the-cause",
       "rel": "points_to",
-      "label": "Having more is never the cause"
+      "label": "拥有更多从不是原因"
+    },
+    {
+      "from": "the-utility-men-of-progress",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having More Is Never the Cause"
     },
     {
       "from": "the-utility-men-of-progress",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "没有系统能被保持封闭"
     },
     {
       "from": "the-utility-men-of-progress",
       "to": "the-belief-in-utopia-is-the-path-to-dystopia",
       "rel": "points_to",
-      "label": "The belief in utopia is the path to dystopia"
+      "label": "对乌托邦的信念是通往反乌托邦之路"
     },
     {
       "from": "the-utility-men-of-progress",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
     },
     {
       "from": "the-utility-men-of-progress",
       "to": "closed-assumptions-squeeze-compounding-into-s-curves",
       "rel": "points_to",
-      "label": "Closed assumptions squeeze compounding into S-curves"
+      "label": "封闭的假设把复利挤成 S 曲线"
+    },
+    {
+      "from": "the-utility-men-of-progress",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "the-utility-men-of-progress",
+      "to": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "rel": "points_to",
+      "label": "The Belief in Utopia Is the Path to Dystopia"
+    },
+    {
+      "from": "the-utility-men-of-progress",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-utility-men-of-progress",
+      "to": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "rel": "points_to",
+      "label": "Closed Assumptions Squeeze Compounding into S-Curves"
     },
     {
       "from": "the-utility-men-of-progress",
       "to": "the-illusion-of-free-intelligence",
       "rel": "points_to",
-      "label": "The illusion of free intelligence"
+      "label": "免费智能的幻觉"
     },
     {
       "from": "the-utility-men-of-progress",
       "to": "the-reality-distortion-field-inverts-the-baseline",
       "rel": "points_to",
-      "label": "The reality distortion field inverts the baseline"
+      "label": "现实扭曲力场颠倒了基线"
+    },
+    {
+      "from": "the-utility-men-of-progress",
+      "to": "the-illusion-of-free-intelligence",
+      "rel": "points_to",
+      "label": "The Illusion of Free Intelligence"
+    },
+    {
+      "from": "the-utility-men-of-progress",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The Reality Distortion Field Inverts the Baseline"
     },
     {
       "from": "the-vector-and-the-puzzle-of-projections",
@@ -52014,7 +52116,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "a20f3dc8dec8",
+        "hash": "7d85c451ec59",
         "out_degree": 393
       },
       {
@@ -52122,7 +52224,7 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "44ba14401b9a",
+        "hash": "2db21b3550ba",
         "out_degree": 32
       }
     ],
@@ -53224,6 +53326,12 @@
         "to": "the-price-of-closing-optionality",
         "rel": "collects",
         "label": "关闭选择权的代价 / The Price of Closing Optionality"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-utility-men-of-progress",
+        "rel": "collects",
+        "label": "进步的多面手 / The Utility Men of Progress"
       },
       {
         "from": "book:index-of-premises",
@@ -56281,12 +56389,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "the-utility-men-of-progress",
-        "rel": "collects",
-        "label": "The Utility Men of Progress"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "the-illusion-of-knowing-and-the-geometry-of-amputation",
         "rel": "collects",
         "label": "以知为刃的截肢与解脱 / The Illusion of Knowing and the Geometry of Amputation"
@@ -58443,7 +58545,7 @@
         "from": "book:tools-and-progress",
         "to": "the-utility-men-of-progress",
         "rel": "collects",
-        "label": "The Utility Men of Progress"
+        "label": "进步的多面手 / The Utility Men of Progress"
       },
       {
         "from": "book:tools-and-progress",

@@ -611,6 +611,15 @@ Preempting unknown risk presumes that unknown risk is already a closed set of ca
 
 → [关闭选择权的代价 / The Price of Closing Optionality](../../posts/the-price-of-closing-optionality/)
 
+### 进步即共识的展开 / Progress as the Unfolding of Consensus
+`意识形态 / Ideological`
+
+“进步即共识的展开”预设，进步是一份共享共识的平滑展开，被吸收的成就是集体的智慧，在登记一项成就锁定之后变成人人可用的基础设施与标准时有用；它在此到了边界：发起在细薄而轮换的少数那里，多数是迟到的登记，不是共同作者，承认、抵抗与吸收是开放之场上的滞后，而把吸收了的残余当作场一直是引擎的证明，正是这次冻结。
+
+Progress as the unfolding of consensus presumes that advance is the smooth unfolding of a shared consensus and that absorbed achievement is collective wisdom, which is of use in registering how an achievement, once locked in, becomes infrastructure and standards available to everyone; it reaches its boundary in that initiation sits with thin, rotating minorities, the majority is delayed registration rather than a co-author, recognition, resistance, and absorption are lag on an open field, and taking the absorbed residue as proof that the field had been the engine is the freeze.
+
+→ [进步的多面手 / The Utility Men of Progress](../../posts/the-utility-men-of-progress/)
+
 ### 瑞·达利欧 / Ray Dalio
 `成功学 / Self-Help`
 
@@ -4563,15 +4572,6 @@ Taking talent, circumstance, opportunity or systems as destiny is of use in gaug
 Technocracy demands deferring decisions to credentialed specialists; expert findings provide domain-specific reference data, but cannot author value judgments for another center.
 
 → [Expertise as Reference, Not Replacement](../../posts/expertise-as-reference-not-replacement/)
-
-### 技术官僚功用阶层 / Technocratic Utility Class
-`哲学 / Philosophical`
-
-进步叙事将工程师与技术官僚奉为推动历史的无私卫士；前朝破局的功臣在掌握权柄后，极易为守卫旧有工具筑起阻碍新生的壁垒。
-
-Progress folklore views engineers and planners as selfless custodians of advancement; yesterday's agile problem-solvers calcify around incumbent tools, resisting new disruptions.
-
-→ [The Utility Men of Progress](../../posts/the-utility-men-of-progress/)
 
 ### 以知为刃的截肢机制 / The Amputation of Knowing
 `哲学 / Philosophical`
