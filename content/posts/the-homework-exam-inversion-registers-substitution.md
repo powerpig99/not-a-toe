@@ -144,9 +144,9 @@ flowchart TD
     style G fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-以上都还只是同一时刻的比较。研究追踪的是同一批学生，几个月里同一个人的考试分数也在下滑，这是另一半：不再被练习的技能日渐生疏，如前面所追溯的，那是选择替代的结果。两半都不需要工具对学生另外做什么，一半由测量的构成给出，一半由所选的关系给出。
+以上都还只是同一时刻的比较。研究追踪的是同一批学生，几个月里同一个人的考试分数也在下滑，这是另一半：不再被练习的技能日渐生疏，如前面所追溯的，那是选择替代的结果。两半都不需要工具对学生另外做什么，一半由测量的构成给出，一半由所选的关系给出。所选的那种关系，把分数放在它所记录的能力之前，正是越过学校、落到职业与学位上的同一种倒转：[作为职业的数学不是作为追求的数学](../math-as-a-career-is-not-math-as-a-pursuit/)追溯了，标记一旦被当得比它所记录的活动更实在，凡能更便宜地产出它的东西就顶替那项活动；模型解开一道论文题目，只有把论文当作职业的人才把它记成损失。
 
-All of this is still a comparison at one moment. The study follows the same students, and the same student's exam score also falls over the months; that is the other half: skills no longer exercised thin, as traced above, by the choice to substitute. Neither half needs the tool to do anything further to the student; one half comes from the composition of the measurement, the other from the relation chosen.
+All of this is still a comparison at one moment. The study follows the same students, and the same student's exam score also falls over the months; that is the other half: skills no longer exercised thin, as traced above, by the choice to substitute. Neither half needs the tool to do anything further to the student; one half comes from the composition of the measurement, the other from the relation chosen. That chosen relation, the score put before the capability it records, is the same reversal that runs past school into the career and the degree: [Math as a Career Is Not Math as a Pursuit](../math-as-a-career-is-not-math-as-a-pursuit/) traces how, once a marker is held as more substantial than the activity it records, whatever produces it more cheaply replaces that activity, and a model solving a thesis problem records as loss only for whoever held the thesis as the career.
 
 从来没有机会乘坐现代交通工具的人，平均而言脚力会比常坐车的人好。脚力的差别是真的，但它不是对出行能力的测量。谢天谢地，现实中没有人只靠两条腿走天下。
 

@@ -2888,7 +2888,7 @@ The model of general-purpose technology diffusion uses electrification and the c
 
 The claim that generative AI harms learning is of use in flagging the cost of substitutive use; it reaches its boundary in that it locates the cause in the tool, while homework scores include student plus tool and exams measure raw capability, so the gap registers instrument composition, selection and each student's chosen relation.
 
-→ [作业与考试的倒置折射出替代效应 / The Homework–Exam Inversion Registers Substitution](../../posts/the-homework-exam-inversion-registers-substitution/)
+→ [作业与考试的倒置折射出替代效应 / The Homework–Exam Inversion Registers Substitution](../../posts/the-homework-exam-inversion-registers-substitution/) · [作为职业的数学不是作为追求的数学 / Math as a Career Is Not Math as a Pursuit](../../posts/math-as-a-career-is-not-math-as-a-pursuit/)
 
 ### 自否定的生成性根据 / Generative Ground of Self-Negation
 `哲学 / Philosophical`
@@ -3113,7 +3113,7 @@ Whether told as benevolent guardianship or bureaucratic capture, institutional c
 
 Presumes institutional metrics measure genuine understanding; useful for credentialing, it inverts open inquiry into closed zero-sum compliance.
 
-→ [教育与科学的倒置 / The Inversion of Education and Science](../../posts/the-reversal-of-education-and-science/)
+→ [教育与科学的倒置 / The Inversion of Education and Science](../../posts/the-reversal-of-education-and-science/) · [作为职业的数学不是作为追求的数学 / Math as a Career Is Not Math as a Pursuit](../../posts/math-as-a-career-is-not-math-as-a-pursuit/)
 
 ### 决策与后果的制度性分离 / Institutional Separation of Decision and Consequence
 `经济 / Economic`
@@ -4580,7 +4580,7 @@ Presumes symbolic ideological harm carries equivalent causal claim to physiologi
 
 Sentimental ethics praises emotional sympathy as the peak of virtue; pity projects passive distress, substituting emotional indulgence for the clarity required to resolve causes.
 
-→ [Sympathy Is a Placeholder for Lack of Clarity](../../posts/sympathy-is-a-placeholder-for-lack-of-clarity/)
+→ [Sympathy Is a Placeholder for Lack of Clarity](../../posts/sympathy-is-a-placeholder-for-lack-of-clarity/) · [作为职业的数学不是作为追求的数学 / Math as a Career Is Not Math as a Pursuit](../../posts/math-as-a-career-is-not-math-as-a-pursuit/)
 
 ### 合成数据自我改进 / Synthetic Data Self-Improvement
 `技术 / Technological`
