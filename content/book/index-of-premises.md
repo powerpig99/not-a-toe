@@ -4621,11 +4621,11 @@ Taking talent, circumstance, opportunity or systems as destiny is of use in gaug
 ### 专家治国论权威 / Technocratic Expert Authority
 `哲学 / Philosophical`
 
-专家崇拜要求将决策权全盘交由持证权威；专业意见可作特定参考，却无法越俎代庖替具体的个体心智决断利弊。
+专家权威预设，从群体变密而来的发现可以替一个身体作决定；在群体残余变密成扩展可察之物的地图时，它有用；它的边界在于，没有哪个外部中心触及一个身体连续的第一人称之流，也没有哪个承担随之而来的代价，地图一旦被持为越过其那一步的权威，被读的就成了地图本身，而不是它本为帮着去读的信号，决定只在承受后果的那个中心作出。
 
-Technocracy demands deferring decisions to credentialed specialists; expert findings provide domain-specific reference data, but cannot author value judgments for another center.
+Expert authority presumes that findings densified from populations can decide for a body; it is of use where population residue becomes maps that widen what can be noticed, and it reaches its boundary where no external center has one body’s continuous first-person stream or bears the costs that follow, so a map held as authority past its step is read in place of the signal it was built to help read, while the decision is made only at the center that lives the consequences.
 
-→ [Expertise as Reference, Not Replacement](../../posts/expertise-as-reference-not-replacement/)
+→ [专家经验作为参考而非替代 / Expertise as Reference, Not Replacement](../../posts/expertise-as-reference-not-replacement/)
 
 ### 以知为刃的截肢机制 / The Amputation of Knowing
 `哲学 / Philosophical`

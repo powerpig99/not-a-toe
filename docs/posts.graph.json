@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-17T20:38:21.664Z",
+    "generated_at": "2026-10-17T21:27:49.574Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -52,7 +52,7 @@
       "content/posts/context-engineering-essay.md": "55bc0307c3d5",
       "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "07c48bc35eff",
       "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "b7b01bc6f1e2",
-      "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "2bdaef8e8573",
+      "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "bcfd90d98cfa",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "7dc94da22303",
       "content/posts/curiosity-has-no-final-form.md": "e5422a70910e",
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
@@ -73,7 +73,7 @@
       "content/posts/evil-as-projected-resistance.md": "acd5f06bc9da",
       "content/posts/evil-as-the-minds-own-creation.md": "a9c673ba9b78",
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "1650c2360801",
-      "content/posts/expertise-as-reference-not-replacement.md": "4f9116ea83a1",
+      "content/posts/expertise-as-reference-not-replacement.md": "f8b327557f8e",
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "7deaf3a290d0",
@@ -371,7 +371,7 @@
       "content/posts/time-is-causality-not-a-dimension.md": "53a16236f39d",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "6b95a39fdecb",
       "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "6d296ae60596",
-      "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "a41257ca3edb",
+      "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "6522fd795814",
       "content/posts/trusting-the-reader-is-the-last-overstep.md": "ca993bca4cc8",
       "content/posts/two-failures-of-trace.md": "b1672bec5b8e",
       "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "381d2968b3c2",
@@ -405,9 +405,9 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "745cd9146e81",
       "content/book/economics.md": "6ae8129cb1f7",
-      "content/book/index-of-premises.md": "87f4ea6c47e8",
+      "content/book/index-of-premises.md": "4514d71d644f",
       "content/book/intelligence.md": "9528af4528a9",
-      "content/book/knowledge-and-learning.md": "48c27dab2b11",
+      "content/book/knowledge-and-learning.md": "083c5ccc02d2",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "da0f22846972",
       "content/book/meaning-and-transcendence.md": "be7ba296cb80",
@@ -421,7 +421,7 @@
     },
     "stats": {
       "posts": 394,
-      "edges": 7314,
+      "edges": 7338,
       "unique_directed": 4560,
       "missing_targets": 0,
       "one_way": 148,
@@ -1727,7 +1727,7 @@
       "slug": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
       "path": "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md",
       "title": "错置的因果与心智编译器 / Misplaced Causality and the Mind's Compiler",
-      "hash": "2bdaef8e8573",
+      "hash": "bcfd90d98cfa",
       "in_degree": 11,
       "out_degree": 13,
       "links_out": [
@@ -2189,21 +2189,22 @@
       "kind": "post",
       "slug": "expertise-as-reference-not-replacement",
       "path": "content/posts/expertise-as-reference-not-replacement.md",
-      "title": "Expertise as Reference, Not Replacement",
-      "hash": "4f9116ea83a1",
+      "title": "专家经验作为参考而非替代 / Expertise as Reference, Not Replacement",
+      "hash": "f8b327557f8e",
       "in_degree": 23,
       "out_degree": 22,
       "links_out": [
         "the-reality-distortion-field-names-the-closed-map",
         "ownership-cost-freezes-lagged-averages-as-vehicle-property",
-        "mistaking-the-expression-for-the-intelligence",
         "closed-reality-in-benchmark-maxing",
+        "mistaking-the-expression-for-the-intelligence",
         "mei-you-pu-du-zhi-you-zi-du",
         "therapy-opens-the-feedback-loop",
+        "the-misallocation-of-agency",
         "ownership-and-self-worthiness",
         "individual-choices-as-the-only-causal-levers",
         "the-allocation-of-causal-power-in-validation",
-        "the-misallocation-of-agency",
+        "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
         "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
         "when-observation-becomes-performance",
         "liberation-rhetoric-begins-by-defining-captivity",
@@ -2214,8 +2215,7 @@
         "the-map-after-the-territory",
         "cheng-gong-xue",
         "preference-clusters-and-the-language-of-judgment",
-        "the-reversal-from-defensible-claim-to-dogma",
-        "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi"
+        "the-reversal-from-defensible-claim-to-dogma"
       ]
     },
     {
@@ -9145,7 +9145,7 @@
       "slug": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
       "path": "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md",
       "title": "投资决策的因果闭环 / The Causal Loop of Investment Decisions",
-      "hash": "a41257ca3edb",
+      "hash": "6522fd795814",
       "in_degree": 9,
       "out_degree": 9,
       "links_out": [
@@ -17447,55 +17447,85 @@
       "from": "expertise-as-reference-not-replacement",
       "to": "the-reality-distortion-field-names-the-closed-map",
       "rel": "points_to",
-      "label": "The reality distortion field names the closed map"
+      "label": "现实扭曲力场指认的是封闭的地图"
     },
     {
       "from": "expertise-as-reference-not-replacement",
       "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
       "rel": "points_to",
-      "label": "Ownership cost freezes lagged averages as vehicle property"
+      "label": "拥有成本把滞后的平均值冻结为车辆属性"
     },
     {
       "from": "expertise-as-reference-not-replacement",
-      "to": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-reality-distortion-field-names-the-closed-map",
       "rel": "points_to",
-      "label": "Mistaking the expression for the intelligence"
+      "label": "The Reality Distortion Field Names the Closed Map"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "rel": "points_to",
+      "label": "Ownership Cost Freezes Lagged Averages as Vehicle Property"
     },
     {
       "from": "expertise-as-reference-not-replacement",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "Closed reality in benchmark maxing"
+      "label": "基准刷榜中的封闭实存"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "错把表达当成智能"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the Expression for the Intelligence"
     },
     {
       "from": "expertise-as-reference-not-replacement",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "No Universal Salvation, Only Self-Deliverance"
+      "label": "没有普渡，只有自渡的无限可能"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
     },
     {
       "from": "expertise-as-reference-not-replacement",
       "to": "therapy-opens-the-feedback-loop",
       "rel": "points_to",
-      "label": "Therapy opens the feedback loop"
+      "label": "疗愈打开反馈回路"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "能动性的错配"
     },
     {
       "from": "expertise-as-reference-not-replacement",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "自我价值感与所有权"
     },
     {
       "from": "expertise-as-reference-not-replacement",
-      "to": "individual-choices-as-the-only-causal-levers",
+      "to": "therapy-opens-the-feedback-loop",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
-    },
-    {
-      "from": "expertise-as-reference-not-replacement",
-      "to": "the-allocation-of-causal-power-in-validation",
-      "rel": "points_to",
-      "label": "The allocation of causal power in validation"
+      "label": "Therapy Opens the Feedback Loop"
     },
     {
       "from": "expertise-as-reference-not-replacement",
@@ -17505,33 +17535,123 @@
     },
     {
       "from": "expertise-as-reference-not-replacement",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "验证中因果权能的分配"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "能动性的错配"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "The Misallocation of Agency"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "rel": "points_to",
+      "label": "错置的因果与心智编译器"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
       "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
       "rel": "points_to",
-      "label": "From Formal Myth to Logical Closure"
+      "label": "从形式迷思到逻辑闭环"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "rel": "points_to",
+      "label": "Misplaced Causality and the Mind’s Compiler"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "rel": "points_to",
+      "label": "From the Myth of Form to the Closed Loop of Logic"
     },
     {
       "from": "expertise-as-reference-not-replacement",
       "to": "when-observation-becomes-performance",
       "rel": "points_to",
-      "label": "When observation becomes performance"
+      "label": "当观察变成表演"
     },
     {
       "from": "expertise-as-reference-not-replacement",
       "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
-      "label": "Liberation rhetoric begins by defining captivity"
+      "label": "解放的言辞始于定义囚禁"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When Observation Becomes Performance"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "Liberation Rhetoric Begins by Defining Captivity"
     },
     {
       "from": "expertise-as-reference-not-replacement",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "The scaffolding we forget"
+      "label": "遗忘的脚手架"
     },
     {
       "from": "expertise-as-reference-not-replacement",
       "to": "the-paradox-of-fundamentals-is-the-unaware-switch-of-reference",
       "rel": "points_to",
-      "label": "The paradox of fundamentals is the unaware switch of reference"
+      "label": "基本面的悖论是参照的不自觉切换"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "rel": "points_to",
+      "label": "投资决策的因果闭环"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "the-paradox-of-fundamentals-is-the-unaware-switch-of-reference",
+      "rel": "points_to",
+      "label": "The Paradox of Fundamentals Is the Unaware Switch of Reference"
     },
     {
       "from": "expertise-as-reference-not-replacement",
@@ -17543,7 +17663,25 @@
       "from": "expertise-as-reference-not-replacement",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
-      "label": "Clarity isn’t a state you arrive at"
+      "label": "清晰不是抵达的终点，而是运动本身"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "the-map-after-the-territory",
+      "rel": "points_to",
+      "label": "行路之后的地图"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
+      "label": "成功学"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn’t a State You Arrive At. It’s the Movement Itself"
     },
     {
       "from": "expertise-as-reference-not-replacement",
@@ -17561,19 +17699,25 @@
       "from": "expertise-as-reference-not-replacement",
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
-      "label": "Preference clusters and the language of judgment"
+      "label": "偏好聚类与评判语言"
     },
     {
       "from": "expertise-as-reference-not-replacement",
       "to": "the-reversal-from-defensible-claim-to-dogma",
       "rel": "points_to",
-      "label": "The reversal from defensible claim to dogma"
+      "label": "从可辩护的主张到教条的反转"
     },
     {
       "from": "expertise-as-reference-not-replacement",
-      "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
-      "label": "Misplaced Causality and the Mind's Compiler"
+      "label": "Preference Clusters and the Language of Judgment"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "the-reversal-from-defensible-claim-to-dogma",
+      "rel": "points_to",
+      "label": "The Reversal from Defensible Claim to Dogma"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
@@ -53809,7 +53953,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "87f4ea6c47e8",
+        "hash": "4514d71d644f",
         "out_degree": 394
       },
       {
@@ -53827,7 +53971,7 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "48c27dab2b11",
+        "hash": "083c5ccc02d2",
         "out_degree": 34
       },
       {
@@ -58138,7 +58282,7 @@
         "from": "book:index-of-premises",
         "to": "expertise-as-reference-not-replacement",
         "rel": "collects",
-        "label": "Expertise as Reference, Not Replacement"
+        "label": "专家经验作为参考而非替代 / Expertise as Reference, Not Replacement"
       },
       {
         "from": "book:index-of-premises",
@@ -58972,7 +59116,7 @@
         "from": "book:knowledge-and-learning",
         "to": "expertise-as-reference-not-replacement",
         "rel": "collects",
-        "label": "Expertise as Reference, Not Replacement"
+        "label": "专家经验作为参考而非替代 / Expertise as Reference, Not Replacement"
       },
       {
         "from": "book:knowledge-and-learning",

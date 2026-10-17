@@ -23,7 +23,7 @@ These essays examine academic credentialism, the true advisory scope of expertis
 - [The Paradoxical Nature of Bystander Insights](../../posts/the-paradoxical-nature-of-bystander-insights/)
 - [Curiosity First: The Hidden Engine of Talent and Development](../../posts/curiosity-first-the-hidden-engine-of-talent-and-development/)
 - [Writing Without the Image](../../posts/writing-without-the-image/)
-- [Expertise as Reference, Not Replacement](../../posts/expertise-as-reference-not-replacement/)
+- [专家经验作为参考而非替代 / Expertise as Reference, Not Replacement](../../posts/expertise-as-reference-not-replacement/)
 - [信念如何真正改变 / How Belief Actually Changes](../../posts/how-belief-actually-changes/)
 - [从可辩护的主张到教条的反转 / The Reversal from Defensible Claim to Dogma](../../posts/the-reversal-from-defensible-claim-to-dogma/)
 - [读《中文哲学简史》有感 / Reflections on A Short History of Philosophy in Chinese](../../posts/du-zhongwen-zhexue-jianshi-you-gan/)
