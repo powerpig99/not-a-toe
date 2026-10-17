@@ -32,6 +32,9 @@ const filmsDir = path.join(scriptDir, 'assets', 'films');
 // The films of a post: data/youtube.json is the uploader's ledger, { videos: { <slug>: { en: { id }, zh: { id } } } }.
 const youtubeFile = path.join(scriptDir, 'data', 'youtube.json');
 const YOUTUBE = fs.existsSync(youtubeFile) ? (JSON.parse(fs.readFileSync(youtubeFile, 'utf8')).videos ?? {}) : {};
+// The deep dives of a post: data/spotify.json, { episodes: { <slug>: { en: { id }, zh: { id } } } }, Spotify episode ids.
+const spotifyFile = path.join(scriptDir, 'data', 'spotify.json');
+const SPOTIFY = fs.existsSync(spotifyFile) ? (JSON.parse(fs.readFileSync(spotifyFile, 'utf8')).episodes ?? {}) : {};
 const MEDIA_LANGS = [['zh', '中文'], ['en', 'English']];
 const appleTouchIconSource = path.join(scriptDir, 'assets', 'toe-bang.png');
 const styleFile = path.join(scriptDir, 'style.css');
@@ -1657,18 +1660,20 @@ ${renderAbout()}`;
   });
 }
 
-// The film and the infographic of a post, where it has them. The film is a player under the title that loads from
-// YouTube only when played; the infographic goes after the lead, before the first section. One language switch
-// sets both, follows the reader's browser language at first and remembers the reader's choice.
+// The film, the deep dive and the infographic of a post, where it has them. The film is a player under the title that
+// loads from YouTube only when played, and the deep dive one under it that loads from Spotify only when played; the
+// infographic goes after the lead, before the first section. One language switch sets all three, follows the reader's
+// browser language at first and remembers the reader's choice.
 function renderPostMedia(post) {
   const videos = MEDIA_LANGS.filter(([lang]) => YOUTUBE[post.slug]?.[lang]?.id).map(([lang, name]) => ({ lang, name, id: YOUTUBE[post.slug][lang].id }));
+  const episodes = MEDIA_LANGS.filter(([lang]) => SPOTIFY[post.slug]?.[lang]?.id).map(([lang, name]) => ({ lang, name, id: SPOTIFY[post.slug][lang].id }));
   const pictures = MEDIA_LANGS.filter(([lang]) => fs.existsSync(path.join(infographicsDir, `${post.slug}.${lang}.jpg`))).map(([lang, name]) => {
     const file = path.join(infographicsDir, `${post.slug}.${lang}.jpg`);
     return { lang, name, src: `${withBase(`infographics/${post.slug}.${lang}.jpg`)}?v=${crypto.createHash('sha256').update(fs.readFileSync(file)).digest('hex').slice(0, 10)}` };
   });
-  if (!videos.length && !pictures.length) return { videoHtml: '', body: post.htmlBody, script: '' };
+  if (!videos.length && !episodes.length && !pictures.length) return { videoHtml: '', body: post.htmlBody, script: '' };
 
-  const langs = MEDIA_LANGS.filter(([lang]) => videos.some((v) => v.lang === lang) || pictures.some((p) => p.lang === lang));
+  const langs = MEDIA_LANGS.filter(([lang]) => [videos, episodes, pictures].some((items) => items.some((x) => x.lang === lang)));
   const switchHtml = langs.length > 1 && !post.bilingual
     ? `<div class="media-lang" role="group" aria-label="Language">${langs.map(([lang, name]) => `<button type="button" data-media-lang="${lang}" aria-pressed="false">${name}</button>`).join('')}</div>`
     : '';
@@ -1684,25 +1689,31 @@ function renderPostMedia(post) {
   const frameHtml = live
     ? `<div class="video-frame live"><iframe data-live src="${own ? `${withBase(`films/jobs/${post.slug}/`)}?embed=1&amp;v=${filmV}` : `${withBase('films/lib/player.html')}?job=${encodeURIComponent(post.slug)}&amp;embed=1&amp;v=${filmV}`}" title="Film" loading="lazy" allow="autoplay; fullscreen" allowfullscreen></iframe></div>`
     : `<div class="video-frame" data-video ${data(videos, 'id')}><button type="button" class="video-play" aria-label="Play the film"><span class="video-play-mark" aria-hidden="true"></span><span class="video-play-label">视频讲解 · Film</span></button></div>`;
-  const videoHtml = videos.length || live
+  const film = videos.length || live;
+  const audioHtml = episodes.length
+    ? `<div class="audio-frame" data-audio ${data(episodes, 'id')}><button type="button" class="video-play" aria-label="Play the deep dive"><span class="video-play-mark" aria-hidden="true"></span><span class="video-play-label">深度解读 · Deep dive</span></button></div>
+        <p class="meta media-links">Spotify: ${episodes.map((e) => `<a href="https://open.spotify.com/episode/${escapeHtml(e.id)}" rel="noopener noreferrer">${e.name}</a>`).join(' · ')}</p>`
+    : '';
+  const videoHtml = film || episodes.length
     ? `<section class="post-media">
         ${switchHtml}
-        ${frameHtml}
-        ${videos.length ? '' : '<!-- no YouTube copy -->'}<p class="meta media-links"${videos.length ? '' : ' hidden'}>YouTube: ${videos.map((v) => `<a href="https://youtu.be/${escapeHtml(v.id)}" rel="noopener noreferrer">${v.name}</a>`).join(' · ')}</p>
+        ${film ? `${frameHtml}
+        ${videos.length ? '' : '<!-- no YouTube copy -->'}<p class="meta media-links"${videos.length ? '' : ' hidden'}>YouTube: ${videos.map((v) => `<a href="https://youtu.be/${escapeHtml(v.id)}" rel="noopener noreferrer">${v.name}</a>`).join(' · ')}</p>` : ''}
+        ${audioHtml}
       </section>`
     : '';
   const first = pictures.find((p) => p.lang === 'en') ?? pictures[0];
   const figureHtml = pictures.length
     ? (page
-      ? `<figure class="infographic" data-infographic data-page="${page}" ${data(pictures, 'src')}>${videos.length ? '' : switchHtml}<div class="infographic-frame"><iframe src="${page}&amp;lang=en" title="Infographic: ${escapeHtml(post.title)}" loading="lazy" scrolling="no"></iframe><button type="button" class="infographic-zoom" data-info-open aria-label="放大 · Zoom"></button></div><noscript><img src="${first.src}" alt="Infographic: ${escapeHtml(post.title)}" width="1600" height="1600"></noscript></figure>\n`
-      : `<figure class="infographic" data-infographic ${data(pictures, 'src')}>${videos.length ? '' : switchHtml}<a href="${first.src}"><img src="${first.src}" alt="Infographic: ${escapeHtml(post.title)}" width="1600" height="1600" loading="lazy" decoding="async"></a></figure>\n`)
+      ? `<figure class="infographic" data-infographic data-page="${page}" ${data(pictures, 'src')}>${videos.length || episodes.length ? '' : switchHtml}<div class="infographic-frame"><iframe src="${page}&amp;lang=en" title="Infographic: ${escapeHtml(post.title)}" loading="lazy" scrolling="no"></iframe><button type="button" class="infographic-zoom" data-info-open aria-label="放大 · Zoom"></button></div><noscript><img src="${first.src}" alt="Infographic: ${escapeHtml(post.title)}" width="1600" height="1600"></noscript></figure>\n`
+      : `<figure class="infographic" data-infographic ${data(pictures, 'src')}>${videos.length || episodes.length ? '' : switchHtml}<a href="${first.src}"><img src="${first.src}" alt="Infographic: ${escapeHtml(post.title)}" width="1600" height="1600" loading="lazy" decoding="async"></a></figure>\n`)
     : '';
   const at = post.htmlBody.search(/<h2[\s>]/);
   const body = figureHtml ? (at < 0 ? post.htmlBody + figureHtml : post.htmlBody.slice(0, at) + figureHtml + post.htmlBody.slice(at)) : post.htmlBody;
   const script = `
       <script>
         (function () {
-          var KEY = 'nat-media-lang', video = document.querySelector('[data-video]'), figure = document.querySelector('[data-infographic]'), live = document.querySelector('[data-live]');
+          var KEY = 'nat-media-lang', video = document.querySelector('[data-video]'), audio = document.querySelector('[data-audio]'), figure = document.querySelector('[data-infographic]'), live = document.querySelector('[data-live]');
           if (live) addEventListener('message', function (e) {
             if (e.source !== live.contentWindow || !e.data) return;
             // natFull: the film fills the window (where the browser has no page full screen), and gives it back
@@ -1713,16 +1724,22 @@ function renderPostMedia(post) {
           try { lang = localStorage.getItem(KEY); } catch (e) {}
           if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
           var has = function (el, l) { return el && el.getAttribute('data-' + l); };
-          if (!has(video, lang) && !has(figure, lang)) lang = lang === 'zh' ? 'en' : 'zh';
+          if (!has(video, lang) && !has(audio, lang) && !has(figure, lang)) lang = lang === 'zh' ? 'en' : 'zh';
           function play() {
             var id = has(video, lang) || has(video, lang === 'zh' ? 'en' : 'zh');
             video.innerHTML = '<iframe src="https://www.youtube-nocookie.com/embed/' + id + '?autoplay=1&rel=0" title="Film" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen loading="lazy"></iframe>';
             video.setAttribute('data-playing', '1');
           }
+          function listen() {
+            var id = has(audio, lang) || has(audio, lang === 'zh' ? 'en' : 'zh');
+            audio.innerHTML = '<iframe src="https://open.spotify.com/embed/episode/' + id + '?autoplay=1" title="Deep dive" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>';
+            audio.setAttribute('data-playing', '1');
+          }
           function set(l, keep) {
             lang = l;
             for (var i = 0; i < buttons.length; i++) buttons[i].setAttribute('aria-pressed', buttons[i].getAttribute('data-media-lang') === l ? 'true' : 'false');
             if (video && video.getAttribute('data-playing')) play();
+            if (audio && audio.getAttribute('data-playing')) listen();
             if (live && keep && live.contentWindow) live.contentWindow.postMessage({ natLang: l }, location.origin);
             var page = figure && figure.getAttribute('data-page'), pane = figure && figure.querySelector('iframe');
             if (page && pane) { if (pane.getAttribute('data-lang') !== l) { pane.setAttribute('data-lang', l); pane.src = page + '&lang=' + l; } }
@@ -1733,6 +1750,7 @@ function renderPostMedia(post) {
           // On a bilingual post the page's own language control sets the film and the infographic too.
           document.addEventListener('nat-lang', function (e) { if ((e.detail === 'zh' || e.detail === 'en') && e.detail !== lang) set(e.detail, true); });
           if (video) video.querySelector('.video-play').addEventListener('click', play);
+          if (audio) audio.querySelector('.video-play').addEventListener('click', listen);
           // The infographic page is laid out 1024 px square and scaled to the column, so its text stays text at any size.
           var holder = figure && figure.querySelector('.infographic-frame');
           if (holder) {
