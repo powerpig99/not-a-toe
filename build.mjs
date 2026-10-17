@@ -1660,9 +1660,9 @@ ${renderAbout()}`;
   });
 }
 
-// The film, the deep dive and the infographic of a post, where it has them. The film is a player under the title that
-// loads from YouTube only when played, and the deep dive one under it that loads from Spotify only when played; the
-// infographic goes after the lead, before the first section. One language switch sets all three, follows the reader's
+// The film, the deep dive and the infographic of a post, where it has them. The film is YouTube's player under the
+// title and the deep dive Spotify's compact player under it, both shown as the page loads; the infographic goes after
+// the lead, before the first section. One language switch sets all three, follows the reader's
 // browser language at first and remembers the reader's choice.
 function renderPostMedia(post) {
   const videos = MEDIA_LANGS.filter(([lang]) => YOUTUBE[post.slug]?.[lang]?.id).map(([lang, name]) => ({ lang, name, id: YOUTUBE[post.slug][lang].id }));
@@ -1688,10 +1688,10 @@ function renderPostMedia(post) {
   const data = (items, key) => items.map((x) => `data-${x.lang}="${escapeHtml(x[key])}"`).join(' ');
   const frameHtml = live
     ? `<div class="video-frame live"><iframe data-live src="${own ? `${withBase(`films/jobs/${post.slug}/`)}?embed=1&amp;v=${filmV}` : `${withBase('films/lib/player.html')}?job=${encodeURIComponent(post.slug)}&amp;embed=1&amp;v=${filmV}`}" title="Film" loading="lazy" allow="autoplay; fullscreen" allowfullscreen></iframe></div>`
-    : `<div class="video-frame" data-video ${data(videos, 'id')}><button type="button" class="video-play" aria-label="Play the film"><span class="video-play-mark" aria-hidden="true"></span><span class="video-play-label">视频讲解 · Film</span></button></div>`;
+    : `<div class="video-frame" data-video ${data(videos, 'id')}></div>`;
   const film = videos.length || live;
   const audioHtml = episodes.length
-    ? `<div class="audio-frame" data-audio ${data(episodes, 'id')}><button type="button" class="video-play" aria-label="Play the deep dive"><span class="video-play-mark" aria-hidden="true"></span><span class="video-play-label">深度解读 · Deep dive</span></button></div>
+    ? `<div class="audio-frame" data-audio ${data(episodes, 'id')}></div>
         <p class="meta media-links">Spotify: ${episodes.map((e) => `<a href="https://open.spotify.com/episode/${escapeHtml(e.id)}" rel="noopener noreferrer">${e.name}</a>`).join(' · ')}</p>`
     : '';
   const videoHtml = film || episodes.length
@@ -1725,21 +1725,20 @@ function renderPostMedia(post) {
           if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
           var has = function (el, l) { return el && el.getAttribute('data-' + l); };
           if (!has(video, lang) && !has(audio, lang) && !has(figure, lang)) lang = lang === 'zh' ? 'en' : 'zh';
-          function play() {
-            var id = has(video, lang) || has(video, lang === 'zh' ? 'en' : 'zh');
-            video.innerHTML = '<iframe src="https://www.youtube-nocookie.com/embed/' + id + '?autoplay=1&rel=0" title="Film" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen loading="lazy"></iframe>';
-            video.setAttribute('data-playing', '1');
+          // The film and the deep dive show their players as the page loads, in the chosen language.
+          function load(el, src) {
+            var id = has(el, lang) || has(el, lang === 'zh' ? 'en' : 'zh');
+            if (el.getAttribute('data-id') === id) return;
+            el.setAttribute('data-id', id);
+            el.innerHTML = src(id);
           }
-          function listen() {
-            var id = has(audio, lang) || has(audio, lang === 'zh' ? 'en' : 'zh');
-            audio.innerHTML = '<iframe src="https://open.spotify.com/embed/episode/' + id + '?autoplay=1" title="Deep dive" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>';
-            audio.setAttribute('data-playing', '1');
-          }
+          function play() { load(video, function (id) { return '<iframe src="https://www.youtube-nocookie.com/embed/' + id + '?rel=0" title="Film" allow="autoplay; encrypted-media; picture-in-picture; fullscreen" allowfullscreen loading="lazy"></iframe>'; }); }
+          function listen() { load(audio, function (id) { return '<iframe src="https://open.spotify.com/embed/episode/' + id + '" title="Deep dive" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>'; }); }
           function set(l, keep) {
             lang = l;
             for (var i = 0; i < buttons.length; i++) buttons[i].setAttribute('aria-pressed', buttons[i].getAttribute('data-media-lang') === l ? 'true' : 'false');
-            if (video && video.getAttribute('data-playing')) play();
-            if (audio && audio.getAttribute('data-playing')) listen();
+            if (video) play();
+            if (audio) listen();
             if (live && keep && live.contentWindow) live.contentWindow.postMessage({ natLang: l }, location.origin);
             var page = figure && figure.getAttribute('data-page'), pane = figure && figure.querySelector('iframe');
             if (page && pane) { if (pane.getAttribute('data-lang') !== l) { pane.setAttribute('data-lang', l); pane.src = page + '&lang=' + l; } }
@@ -1749,8 +1748,6 @@ function renderPostMedia(post) {
           for (var i = 0; i < buttons.length; i++) buttons[i].addEventListener('click', function () { set(this.getAttribute('data-media-lang'), true); });
           // On a bilingual post the page's own language control sets the film and the infographic too.
           document.addEventListener('nat-lang', function (e) { if ((e.detail === 'zh' || e.detail === 'en') && e.detail !== lang) set(e.detail, true); });
-          if (video) video.querySelector('.video-play').addEventListener('click', play);
-          if (audio) audio.querySelector('.video-play').addEventListener('click', listen);
           // The infographic page is laid out 1024 px square and scaled to the column, so its text stays text at any size.
           var holder = figure && figure.querySelector('.infographic-frame');
           if (holder) {
