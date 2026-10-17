@@ -200,7 +200,7 @@ That reliance undermines the broader dialectical posture. Assessments of which o
 
 ## 四、 边界而非驳斥 / 4. A Boundary, Not a Refutation
 
-这一切割并没有否认功能角色分析的用处。信息处理可以多重实现，这是工程与认知科学中经得起检验的观察；把一个系统描述为输入、输出与内部状态之间的关系网络，是设计、调试与预测时不可替代的[脚手架](../the-scaffolding-we-forget/)。在这一适用范围内，功能描述可以精确地比较两个系统做了什么，并据此指导构造与修正。[飞行类比并未触及心智](../the-flight-analogy-leaves-the-mind-untouched/)已经指出，局部功能在生物载体之外的成功复现是真实的工程成就；越界之处在于，把这一成功当作心智本身已被重构的证据。
+这一切割并没有否认功能角色分析的用处。信息处理可以多重实现，这是工程与认知科学中经得起检验的观察；把一个系统描述为输入、输出与内部状态之间的关系网络，是设计、调试与预测时不可替代的[脚手架](../the-scaffolding-we-forget/)。在这一适用范围内，功能描述可以精确地比较两个系统做了什么，并据此指导构造与修正。[飞行的类比碰不到心智](../the-flight-analogy-leaves-the-mind-untouched/)已经指出，局部功能在生物载体之外的成功复现是真实的工程成就；越界之处在于，把这一成功当作心智本身已被重构的证据。
 
 The cut does not deny the usefulness of functional role analysis. That information processing is multiply realizable is a well-tested observation in engineering and cognitive science; describing a system as a network of relations among inputs, outputs, and internal states is irreplaceable [scaffolding](../the-scaffolding-we-forget/) for design, debugging, and prediction. Within that range, functional description compares precisely what two systems do and guides their construction and repair. [The Flight Analogy Leaves the Mind Untouched](../the-flight-analogy-leaves-the-mind-untouched/) already noted that reproducing a local function outside its biological vehicle is a genuine engineering achievement; the overstep lies in treating that success as evidence that the Mind itself has been reconstituted.
 

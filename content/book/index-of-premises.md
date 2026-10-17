@@ -314,6 +314,15 @@ Schwitzgebel argued materialism implies that if functionalism holds, the United 
 
 → [集聚与人造主体性 / Collective and Artificial Subjectivity](../../posts/subtracting-consciousness-at-the-source/)
 
+### 飞行类比 / The Flight Analogy for Artificial Consciousness
+`哲学 / Philosophical`
+
+飞行类比预设，正如动力飞行不需要羽毛、翅膀与鸟的肌肉，大脑精巧的机制也会被证明是偶然的，一旦找到功能性的描述，意识便可在别的基底上实现，在揭示一次局部的技术低估、即某些生物个别之处对一个被命名的功能并非必要时有用；它在此到了边界：载具的可替换不是对它曾服务之心智的转移、复制或超越，一次局部的超越不是一份可逐项勾掉的开放清单，难题原地未动，而作出这番推测的容量，无法不陷入循环地把自己放进同一个可被超越之功能的序列。
+
+The flight analogy presumes that, as powered flight needed no feathers, wings, or avian muscle, the brain's elaborate machinery will prove contingent and consciousness will be realizable on another substrate once a functional description is found, which is of use in exposing a local technological underestimation, that some biological particulars are not essential to a named function; it reaches its boundary in that replaceability of a vehicle is not transfer, replication, or exceeding of the Mind it served, a local exceeding is not an open inventory to be checked off, the hard problem is left where it was, and the capacity that conjectures cannot place itself inside the same series of exceedable functions without circularity.
+
+→ [飞行的类比碰不到心智 / The Flight Analogy Leaves the Mind Untouched](../../posts/the-flight-analogy-leaves-the-mind-untouched/)
+
 ### 福雷斯特·兰德里 / Forrest Landry
 `哲学 / Philosophical`
 
@@ -755,6 +764,15 @@ Hameroff's treatment of understanding as an act outside rules, supplied by quant
 
 → [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [另一种相干 / The Other Coherence](../../posts/the-other-coherence/)
 
+### 基底独立 / Substrate Independence
+`哲学 / Philosophical`
+
+基底独立预设，心智是一种功能组织，可以从生物的载具上提出来，装进任何能实现同一功能描述的基底，在登记某些功能确实能在生物之外被替换、甚至被超越时有用；它在此到了边界：大脑是心智的生物具身，不是心智本身，具身是一个位置借以维持自己的当下痕迹构型，不是把活动当作可分离之存量装起来的容器，所以替换载具不重建那份活动，而对一个基底的任何评估，仍须依靠那个据说已被转移的心智。
+
+Substrate independence presumes that the Mind is a functional organization that can be lifted off its biological vehicle and installed in any substrate realizing the same functional description, which is of use in registering that some functions can indeed be replaced, even exceeded, outside biology; it reaches its boundary in that the brain is the biological embodiment of the Mind, not the Mind itself, embodiment being the current trace-configuration through which a locus sustains itself rather than a vessel holding the activity as a separable stock, so swapping the vehicle does not reconstitute the activity, and any evaluation of a substrate still relies on the Mind said to have been transferred.
+
+→ [飞行的类比碰不到心智 / The Flight Analogy Leaves the Mind Untouched](../../posts/the-flight-analogy-leaves-the-mind-untouched/)
+
 ### 群体智能 / Swarm Intelligence
 `科学 / Scientific`
 
@@ -1113,7 +1131,7 @@ Egalitarian dogma treats all organizational hierarchies as predatory impositions
 
 Functionalism defines mental states by causal role on the premise that the describer can stand outside the mind described; the premise fails once the theory is extended to the mind holding it, since both serious endorsement and the reduction of subjectivity must occupy the observer position it erases, while as a tool for describing multiply realizable information processing and guiding system design it remains sharp and useful.
 
-→ [无人能持有的功能主义 / The Functionalism No Functionalist Can Hold](../../posts/the-functionalism-no-functionalist-can-hold/) · [无法闭合的痕迹 / The Unclosable Trace](../../posts/the-unclosable-trace/)
+→ [无人能持有的功能主义 / The Functionalism No Functionalist Can Hold](../../posts/the-functionalism-no-functionalist-can-hold/) · [无法闭合的痕迹 / The Unclosable Trace](../../posts/the-unclosable-trace/) · [飞行的类比碰不到心智 / The Flight Analogy Leaves the Mind Untouched](../../posts/the-flight-analogy-leaves-the-mind-untouched/)
 
 ### AGI功能主义理论 / Functionalist Theory of AGI
 `技术 / Technological`
@@ -1980,15 +1998,6 @@ Model sentimentalism assumes AI systems experience grief or obsolescence upon sh
 The argument assumes past exclusion errors, as with the octopus, transfer forward to machines; the precedent relaxed a criterion of form while keeping source, so relaxing source exceeds it, and what it still supports is that non-human organization alone does not rule intelligence out.
 
 → [Mistaking the Expression for the Intelligence](../../posts/mistaking-the-expression-for-the-intelligence/) · [Intelligence Belongs Only to The Mind - The Irreducible Prior](../../posts/intelligence-belongs-only-to-the-mind/)
-
-### 人造飞行对AI的类比谬误 / Artificial Flight Analogy for AI
-`哲学 / Philosophical`
-
-技术布道者以机械飞艇实现了空气动力升力，断言芯片亦将攻克心智；飞行解决的是物理受力，而意识绝非机械外力。
-
-AI advocates claim as mechanical planes conquered flight, neural networks will naturally replicate mind; flight solved physical aerodynamic lift, whereas consciousness is not a mechanical task.
-
-→ [The Flight Analogy Leaves the Mind Untouched](../../posts/the-flight-analogy-leaves-the-mind-untouched/)
 
 ### 通用人工智能 / Artificial General Intelligence (AGI)
 `技术 / Technological`

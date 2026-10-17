@@ -354,10 +354,6 @@
       "title_zh": "重新审视反脆弱",
       "subtitle_zh": "症状在一种握持之下被登记；那握持并不是先于区分的实存结构。"
     },
-    "the-flight-analogy-leaves-the-mind-untouched": {
-      "title_zh": "飞行的类比碰不到心智",
-      "subtitle_zh": "在生物载具之外取得的局部成功，并不重建这些功能曾经服务的心智。"
-    },
     "fate-loves-irony-refined": {
       "title_zh": "命运偏爱反讽：生产创造自己的意识形态消费",
       "subtitle_zh": "供给创造自己的需求；在边际成本坍塌的时代，这条定律在重新解释商品的概念体系中得到反讽式的实现。"
@@ -377,6 +373,10 @@
     "the-non-definitive-definition-of-intelligence": {
       "title_zh": "智能的非定论定义",
       "subtitle_zh": "我们在现实暂时封闭的切片里测量智能，好在开放的现实里更智能地探索，表达那无法被测量或定义的智能。"
+    },
+    "the_analogy_trap": {
+      "title_zh": "类比的陷阱：共享的逻辑不是共享的结构",
+      "subtitle_zh": "类比之所以起作用，在于揭示两个领域之间共享的逻辑，它的力量恰恰在于它不映射的东西。"
     }
   }
 }

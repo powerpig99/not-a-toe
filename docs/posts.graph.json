@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-17T10:16:13.024Z",
+    "generated_at": "2026-10-17T10:37:16.148Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -238,14 +238,14 @@
       "content/posts/the-fallacy-of-post-success-parenting.md": "49cdad0d1952",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "c422640614eb",
       "content/posts/the-fixed-image-of-transcendence.md": "198bb79ed7e9",
-      "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "e8672622b459",
+      "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "4118b175c271",
       "content/posts/the-flywheel-of-the-mind.md": "41c27a04120a",
       "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "6d5b630b2c56",
       "content/posts/the-frame-that-conceals-improvement.md": "13c8f7c008fa",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "dde3f74f7d30",
       "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "e69b811fc985",
       "content/posts/the-freedom-of-will-to-deny-itself.md": "f90a8819ab4e",
-      "content/posts/the-functionalism-no-functionalist-can-hold.md": "0cb0a4998c97",
+      "content/posts/the-functionalism-no-functionalist-can-hold.md": "8725425d1195",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "99601f73e350",
       "content/posts/the-generative-contradiction.md": "3ed3376e769b",
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "7e70fb60c1b1",
@@ -404,8 +404,8 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "745cd9146e81",
       "content/book/economics.md": "6ae8129cb1f7",
-      "content/book/index-of-premises.md": "aae88e565cab",
-      "content/book/intelligence.md": "faa88a07afae",
+      "content/book/index-of-premises.md": "0ba462a7a911",
+      "content/book/intelligence.md": "02f9b1d891c7",
       "content/book/knowledge-and-learning.md": "08a95fa3219e",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "da0f22846972",
@@ -420,14 +420,14 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 7128,
+      "edges": 7139,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 1073,
+      "book_edges": 1075,
       "posts_reached_by_book": 393
     }
   },
@@ -6241,8 +6241,8 @@
       "kind": "post",
       "slug": "the-flight-analogy-leaves-the-mind-untouched",
       "path": "content/posts/the-flight-analogy-leaves-the-mind-untouched.md",
-      "title": "The Flight Analogy Leaves the Mind Untouched",
-      "hash": "e8672622b459",
+      "title": "飞行的类比碰不到心智 / The Flight Analogy Leaves the Mind Untouched",
+      "hash": "4118b175c271",
       "in_degree": 12,
       "out_degree": 11,
       "links_out": [
@@ -6395,7 +6395,7 @@
       "slug": "the-functionalism-no-functionalist-can-hold",
       "path": "content/posts/the-functionalism-no-functionalist-can-hold.md",
       "title": "无人能持有的功能主义 / The Functionalism No Functionalist Can Hold",
-      "hash": "0cb0a4998c97",
+      "hash": "8725425d1195",
       "in_degree": 11,
       "out_degree": 9,
       "links_out": [
@@ -35686,61 +35686,127 @@
       "from": "the-flight-analogy-leaves-the-mind-untouched",
       "to": "the-brain-does-not-backprop",
       "rel": "points_to",
-      "label": "The brain does not backprop, but propagates"
+      "label": "大脑不进行反向传播，而是正向传导"
+    },
+    {
+      "from": "the-flight-analogy-leaves-the-mind-untouched",
+      "to": "the-brain-does-not-backprop",
+      "rel": "points_to",
+      "label": "The Brain Does Not Backprop, but Propagates"
     },
     {
       "from": "the-flight-analogy-leaves-the-mind-untouched",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence belongs only to the Mind"
+      "label": "智能只属于心智"
     },
     {
       "from": "the-flight-analogy-leaves-the-mind-untouched",
       "to": "the-presumption-of-agi-and-the-view-from-outside",
       "rel": "points_to",
-      "label": "The presumption of AGI and the view from outside"
+      "label": "AGI的预设与来自外部的视角"
+    },
+    {
+      "from": "the-flight-analogy-leaves-the-mind-untouched",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to The Mind"
+    },
+    {
+      "from": "the-flight-analogy-leaves-the-mind-untouched",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "The Presumption of AGI and the View from Outside"
     },
     {
       "from": "the-flight-analogy-leaves-the-mind-untouched",
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
-      "label": "A creation cannot replace its source"
+      "label": "造物无法取代其源头"
     },
     {
       "from": "the-flight-analogy-leaves-the-mind-untouched",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
-      "label": "The model never becomes a second edge"
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "the-flight-analogy-leaves-the-mind-untouched",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "A Creation Cannot Replace Its Source"
+    },
+    {
+      "from": "the-flight-analogy-leaves-the-mind-untouched",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
     },
     {
       "from": "the-flight-analogy-leaves-the-mind-untouched",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
-      "label": "Complexity obscures emergence"
+      "label": "复杂性遮蔽了涌现"
     },
     {
       "from": "the-flight-analogy-leaves-the-mind-untouched",
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
-      "label": "Mistaking the expression for the intelligence"
+      "label": "错把表达当成智能"
+    },
+    {
+      "from": "the-flight-analogy-leaves-the-mind-untouched",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
+      "label": "Complexity Obscures: Emergence as the Act of Mind"
+    },
+    {
+      "from": "the-flight-analogy-leaves-the-mind-untouched",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the Expression for the Intelligence"
     },
     {
       "from": "the-flight-analogy-leaves-the-mind-untouched",
       "to": "two-failures-of-trace",
       "rel": "points_to",
-      "label": "Artifacts are expressions of intelligence, not intelligence itself"
+      "label": "器物是智能的表达，而非智能本身"
+    },
+    {
+      "from": "the-flight-analogy-leaves-the-mind-untouched",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself"
     },
     {
       "from": "the-flight-analogy-leaves-the-mind-untouched",
       "to": "the-real-lesson-from-the-consciousness-vector-paper",
       "rel": "points_to",
-      "label": "The real lesson from the consciousness vector paper"
+      "label": "意识向量论文的真正教训"
     },
     {
       "from": "the-flight-analogy-leaves-the-mind-untouched",
       "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
       "rel": "points_to",
-      "label": "The hard problem of consciousness is consistent with learning"
+      "label": "意识的难题与学习相容"
+    },
+    {
+      "from": "the-flight-analogy-leaves-the-mind-untouched",
+      "to": "the-functionalism-no-functionalist-can-hold",
+      "rel": "points_to",
+      "label": "无人能持有的功能主义"
+    },
+    {
+      "from": "the-flight-analogy-leaves-the-mind-untouched",
+      "to": "the-real-lesson-from-the-consciousness-vector-paper",
+      "rel": "points_to",
+      "label": "The Real Lesson from the Consciousness Vector Paper"
+    },
+    {
+      "from": "the-flight-analogy-leaves-the-mind-untouched",
+      "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "rel": "points_to",
+      "label": "The Hard Problem of Consciousness Is Consistent with Learning"
     },
     {
       "from": "the-flight-analogy-leaves-the-mind-untouched",
@@ -36394,7 +36460,7 @@
       "from": "the-functionalism-no-functionalist-can-hold",
       "to": "the-flight-analogy-leaves-the-mind-untouched",
       "rel": "points_to",
-      "label": "飞行类比并未触及心智"
+      "label": "飞行的类比碰不到心智"
     },
     {
       "from": "the-functionalism-no-functionalist-can-hold",
@@ -52668,7 +52734,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "aae88e565cab",
+        "hash": "0ba462a7a911",
         "out_degree": 393
       },
       {
@@ -52677,7 +52743,7 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "faa88a07afae",
+        "hash": "02f9b1d891c7",
         "out_degree": 47
       },
       {
@@ -53629,6 +53695,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-flight-analogy-leaves-the-mind-untouched",
+        "rel": "collects",
+        "label": "飞行的类比碰不到心智 / The Flight Analogy Leaves the Mind Untouched"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-three-shadows-of-the-cut",
         "rel": "collects",
         "label": "切分的三重影子 / The Three Shadows of the Cut"
@@ -53995,6 +54067,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-flight-analogy-leaves-the-mind-untouched",
+        "rel": "collects",
+        "label": "飞行的类比碰不到心智 / The Flight Analogy Leaves the Mind Untouched"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "data-is-local-intelligence-is-allocated",
         "rel": "collects",
         "label": "数据是局部的，智能是分配的 / Data Is Local; Intelligence Is Allocated"
@@ -54334,6 +54412,12 @@
         "to": "the-unclosable-trace",
         "rel": "collects",
         "label": "无法闭合的痕迹 / The Unclosable Trace"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-flight-analogy-leaves-the-mind-untouched",
+        "rel": "collects",
+        "label": "飞行的类比碰不到心智 / The Flight Analogy Leaves the Mind Untouched"
       },
       {
         "from": "book:index-of-premises",
@@ -55078,12 +55162,6 @@
         "to": "intelligence-belongs-only-to-the-mind",
         "rel": "collects",
         "label": "Intelligence Belongs Only to The Mind - The Irreducible Prior"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-flight-analogy-leaves-the-mind-untouched",
-        "rel": "collects",
-        "label": "The Flight Analogy Leaves the Mind Untouched"
       },
       {
         "from": "book:index-of-premises",
@@ -57615,7 +57693,7 @@
         "from": "book:intelligence",
         "to": "the-flight-analogy-leaves-the-mind-untouched",
         "rel": "collects",
-        "label": "The Flight Analogy Leaves the Mind Untouched"
+        "label": "飞行的类比碰不到心智 / The Flight Analogy Leaves the Mind Untouched"
       },
       {
         "from": "book:intelligence",
