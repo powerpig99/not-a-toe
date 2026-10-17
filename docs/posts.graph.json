@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-17T16:14:31.001Z",
+    "generated_at": "2026-10-17T16:58:41.752Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -178,7 +178,7 @@
       "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "4f201d2f0e99",
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "7cfea3a2001a",
-      "content/posts/shared-humanity-is-never-shared.md": "22c1be7732c9",
+      "content/posts/shared-humanity-is-never-shared.md": "e608879164b9",
       "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "c742acb86d86",
       "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "abcdead636a7",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
@@ -405,7 +405,7 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "745cd9146e81",
       "content/book/economics.md": "6ae8129cb1f7",
-      "content/book/index-of-premises.md": "9f7b7d7e8c2b",
+      "content/book/index-of-premises.md": "034dd3e2146d",
       "content/book/intelligence.md": "02f9b1d891c7",
       "content/book/knowledge-and-learning.md": "dc8655adf208",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -415,13 +415,13 @@
       "content/book/morality.md": "239fe35130e2",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
-      "content/book/state-and-collective.md": "165b6fc0eeaf",
+      "content/book/state-and-collective.md": "52908cb98984",
       "content/book/success-and-the-self.md": "24179a1b74d7",
       "content/book/tools-and-progress.md": "2db21b3550ba"
     },
     "stats": {
       "posts": 394,
-      "edges": 7220,
+      "edges": 7234,
       "unique_directed": 4560,
       "missing_targets": 0,
       "one_way": 148,
@@ -4823,8 +4823,8 @@
       "kind": "post",
       "slug": "shared-humanity-is-never-shared",
       "path": "content/posts/shared-humanity-is-never-shared.md",
-      "title": "Shared Humanity Is Never Shared",
-      "hash": "22c1be7732c9",
+      "title": "共同的人性从不共享 / Shared Humanity Is Never Shared",
+      "hash": "e608879164b9",
       "in_degree": 14,
       "out_degree": 14,
       "links_out": [
@@ -29051,85 +29051,169 @@
       "from": "shared-humanity-is-never-shared",
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
-      "label": "Reality is the Mind’s ongoing realization"
+      "label": "现实是心智持续的实现"
     },
     {
       "from": "shared-humanity-is-never-shared",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
-      "label": "The source of shared change"
+      "label": "共同改变的本源"
+    },
+    {
+      "from": "shared-humanity-is-never-shared",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality Is the Mind's Ongoing Realization"
+    },
+    {
+      "from": "shared-humanity-is-never-shared",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "The Source of Shared Change"
     },
     {
       "from": "shared-humanity-is-never-shared",
       "to": "no-genius-can-solve-the-knowledge-problem",
       "rel": "points_to",
-      "label": "No genius can solve the knowledge problem"
+      "label": "没有天才能够解决知识问题"
     },
     {
       "from": "shared-humanity-is-never-shared",
       "to": "price-as-utterance-understanding-as-trade",
       "rel": "points_to",
-      "label": "Price as utterance, understanding as trade"
+      "label": "价格是言说，理解是交易"
+    },
+    {
+      "from": "shared-humanity-is-never-shared",
+      "to": "no-genius-can-solve-the-knowledge-problem",
+      "rel": "points_to",
+      "label": "No Genius Can Solve the Knowledge Problem"
+    },
+    {
+      "from": "shared-humanity-is-never-shared",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "Price as Utterance, Understanding as Trade"
     },
     {
       "from": "shared-humanity-is-never-shared",
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
-      "label": "Preference clusters and the language of judgment"
+      "label": "偏好聚类与评判语言"
     },
     {
       "from": "shared-humanity-is-never-shared",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "No Universal Salvation, Only Self-Deliverance"
+      "label": "没有普渡，只有自渡的无限可能"
+    },
+    {
+      "from": "shared-humanity-is-never-shared",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "Preference Clusters and the Language of Judgment"
+    },
+    {
+      "from": "shared-humanity-is-never-shared",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
     },
     {
       "from": "shared-humanity-is-never-shared",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "shared-humanity-is-never-shared",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
-      "label": "Sovereignty, belief, and the generation of regulatory structures"
+      "label": "主权、信念与规制结构的生成"
     },
     {
       "from": "shared-humanity-is-never-shared",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
-      "label": "Externalized virtue becomes its opposite"
+      "label": "外化善意走向其反面"
     },
     {
       "from": "shared-humanity-is-never-shared",
       "to": "the-belief-in-utopia-is-the-path-to-dystopia",
       "rel": "points_to",
-      "label": "The belief in utopia is the path to dystopia"
+      "label": "对乌托邦的信念是通往反乌托邦之路"
     },
     {
       "from": "shared-humanity-is-never-shared",
       "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "rel": "points_to",
-      "label": "Exceptionality, perception, and the self-limiting field of problems"
+      "label": "卓异、感知与自我设限的问题场域"
+    },
+    {
+      "from": "shared-humanity-is-never-shared",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "shared-humanity-is-never-shared",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
+    },
+    {
+      "from": "shared-humanity-is-never-shared",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized Virtue Becomes Its Opposite"
+    },
+    {
+      "from": "shared-humanity-is-never-shared",
+      "to": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "rel": "points_to",
+      "label": "The Belief in Utopia Is the Path to Dystopia"
+    },
+    {
+      "from": "shared-humanity-is-never-shared",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, Perception, and the Self-Limiting Field of Problems"
     },
     {
       "from": "shared-humanity-is-never-shared",
       "to": "shared-consciousness-is-intersecting-individualities",
       "rel": "points_to",
-      "label": "Shared consciousness is intersecting individualities"
+      "label": "共享意识是个体性的交集"
     },
     {
       "from": "shared-humanity-is-never-shared",
       "to": "self-image-speaks-as-if-from-nowhere",
       "rel": "points_to",
-      "label": "Self-image speaks as if from nowhere"
+      "label": "自我形象仿佛从无处发声"
     },
     {
       "from": "shared-humanity-is-never-shared",
       "to": "the-real-lesson-from-the-consciousness-vector-paper",
       "rel": "points_to",
-      "label": "The real lesson from the consciousness vector paper"
+      "label": "意识向量论文的真正教训"
+    },
+    {
+      "from": "shared-humanity-is-never-shared",
+      "to": "shared-consciousness-is-intersecting-individualities",
+      "rel": "points_to",
+      "label": "Shared Consciousness Is Intersecting Individualities"
+    },
+    {
+      "from": "shared-humanity-is-never-shared",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-Image Speaks as if from Nowhere"
+    },
+    {
+      "from": "shared-humanity-is-never-shared",
+      "to": "the-real-lesson-from-the-consciousness-vector-paper",
+      "rel": "points_to",
+      "label": "The Real Lesson from the Consciousness Vector Paper"
     },
     {
       "from": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
@@ -53245,7 +53329,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "9f7b7d7e8c2b",
+        "hash": "034dd3e2146d",
         "out_degree": 394
       },
       {
@@ -53335,7 +53419,7 @@
         "slug": "state-and-collective",
         "path": "content/book/state-and-collective.md",
         "title": "国家集体与权力的镜像 / The State, Collectives, and the Mirror of Power",
-        "hash": "165b6fc0eeaf",
+        "hash": "52908cb98984",
         "out_degree": 30
       },
       {
@@ -57862,7 +57946,7 @@
         "from": "book:index-of-premises",
         "to": "shared-humanity-is-never-shared",
         "rel": "collects",
-        "label": "Shared Humanity Is Never Shared"
+        "label": "共同的人性从不共享 / Shared Humanity Is Never Shared"
       },
       {
         "from": "book:index-of-premises",
@@ -59356,7 +59440,7 @@
         "from": "book:state-and-collective",
         "to": "shared-humanity-is-never-shared",
         "rel": "collects",
-        "label": "Shared Humanity Is Never Shared"
+        "label": "共同的人性从不共享 / Shared Humanity Is Never Shared"
       },
       {
         "from": "book:state-and-collective",

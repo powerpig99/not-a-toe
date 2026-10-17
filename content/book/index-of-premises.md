@@ -5026,11 +5026,11 @@ Universal salvation presumes enlightened teachers can rescue other souls; awaren
 ### 抽象的共有普世人性 / Universal Shared Humanity Abstract
 `哲学 / Philosophical`
 
-人道口号宣称存在同质共享的人性基底；然而觉知体验必然属于第一人称，所谓共有只是事后贴上的抽象分类。
+共同人性的说法预设一个跨心智持有、个人只是在代表的人类实体，在描述诠释交叠之处协同如何成为可能时它仍有用；它的边界在于：每一份诠释留在维持它的所在，“共享”的标签是事后的，道德的“我们”在少得多的交叠上就能被援引，共识与制度是塑造代价却不带进一步依据的残余，而原因留在相继的个人选择里。
 
-Humanist slogans claim a homogeneous shared emotional core binds all people; conscious experience remains strictly first-person, making sharedness a constructed label.
+Shared humanity presumes a human substance held across Minds that individuals merely represent, and it stays useful for describing how coordination becomes possible where interpretations overlap; its boundary is that each interpretation stays at the locus that sustains it, the shared label is retrospective, the moral “we” can be invoked on far less overlap, consensus and institutions are residue that patterns costs with no further warrant, and cause stays with successive individual choices.
 
-→ [Shared Humanity Is Never Shared](../../posts/shared-humanity-is-never-shared/)
+→ [共同的人性从不共享 / Shared Humanity Is Never Shared](../../posts/shared-humanity-is-never-shared/)
 
 ### 以差异排名寻求认可 / Validation through Ranking of Differences
 `哲学 / Philosophical`
