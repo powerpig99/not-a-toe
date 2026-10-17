@@ -1,19 +1,988 @@
 {
  "episodes": {
-  "math-as-a-career-is-not-math-as-a-pursuit": {
+  "abstract-pain-and-living-hunger": {
+   "zh": {
+    "id": "20UDOGJqU8SKw6DgNPQz69"
+   },
    "en": {
-    "id": "5gXAp0IYXuT4nCS6c3xjSY"
+    "id": "3SYjP7NNHXb003bAVV9jZE"
+   }
+  },
+  "agency-compounding-and-the-argument-over-ai-feudalism": {
+   "en": {
+    "id": "7uJg761mnunCAVWGQOK7vQ"
+   }
+  },
+  "agency-does-not-arise": {
+   "zh": {
+    "id": "74cPKqzKAcbC94J8A57Irx"
+   },
+   "en": {
+    "id": "7C1IkfpnGwoceKwxjhb0z2"
+   }
+  },
+  "all-that-can-be-spoken-is-the-product-of-the-unspeakable": {
+   "zh": {
+    "id": "3HxdZhCVM10MBf8GDKKcbN"
+   },
+   "en": {
+    "id": "27dkQHGWuJXtSosXFAUCRl"
+   }
+  },
+  "beyond-the-hundred-trillion-horizon": {
+   "en": {
+    "id": "5z9gCROEjXCryLFszS2c5d"
    },
    "zh": {
+    "id": "4X1HJda52jBnt6UyH94v7U"
+   }
+  },
+  "boletus-compute-storm-and-promethean-fire": {
+   "zh": {
+    "id": "3tcZWpEAChcVJV2rojD6HT"
+   },
+   "en": {
+    "id": "1OTRsciOBHby5PVMHLim6z"
+   }
+  },
+  "causality-is-irreducible-the-physical-is-a-view-from-nowhere": {
+   "zh": {
+    "id": "2Ncdu8L33nmg1ImePk69o4"
+   },
+   "en": {
+    "id": "2AITSRbL3ZRa9G6GDUCV9k"
+   }
+  },
+  "choice-itself-has-no-inherent-weight": {
+   "zh": {
+    "id": "2oZvGNW6cXQnjtyiCJ37mm"
+   },
+   "en": {
+    "id": "0OBSd3nz3hTBJxH6Fpphtn"
+   }
+  },
+  "compulsory-kindness-and-the-obscuration-of-categorical-feedback": {
+   "zh": {
+    "id": "3Xhmq1wYKIJAxHIVx2jGM3"
+   },
+   "en": {
+    "id": "35UXe3vVRTzftBlQ6rVWcx"
+   }
+  },
+  "cong-xing-shi-mi-si-dao-luo-ji-bi-huan": {
+   "en": {
+    "id": "7feez6Rcv9m7KdQKkGKlWH"
+   }
+  },
+  "consciousness-ascription-and-the-quantum-cut": {
+   "zh": {
+    "id": "1ONL6QnvP9ZoNjRFvlAen4"
+   },
+   "en": {
+    "id": "6MRLwzyJuc5Rp9aslcv0aJ"
+   }
+  },
+  "coordinate-systems-mind-and-degrees-of-freedom": {
+   "zh": {
+    "id": "5nf3JlF4Jxij3CnZtOz9mC"
+   },
+   "en": {
+    "id": "5rmjQKwpmW8BximYZcOJVN"
+   }
+  },
+  "coordinates-in-flux-negation-and-self-anchoring": {
+   "zh": {
+    "id": "4ezrNWHmuYFzncjXCH5u7T"
+   },
+   "en": {
+    "id": "6zAnmbX4eWbo7L3ALqow3o"
+   }
+  },
+  "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi": {
+   "en": {
+    "id": "4wT3Jo0x6lR1vQFLyUb1ZV"
+   }
+  },
+  "demanding-a-toe-freezes-time-into-a-catalog": {
+   "zh": {
+    "id": "6cARg5dP8PtCoEUsKOf670"
+   },
+   "en": {
+    "id": "4khEwZPiQ6uBhxOTIffZTd"
+   }
+  },
+  "determinism-is-the-statistical-signature-of-micro-indeterminism": {
+   "zh": {
+    "id": "6GqaylwcOfy5CrnhGb1DBZ"
+   },
+   "en": {
+    "id": "3RedN8Kz6IpDthTqOQme1x"
+   }
+  },
+  "dimensions-are-projections": {
+   "en": {
+    "id": "3o53LKtN2XYIeSgiFGXfth"
+   }
+  },
+  "felt-resistance-and-the-speed-differential": {
+   "zh": {
+    "id": "5Qd18JOvuzLIvljXcL9ivi"
+   },
+   "en": {
+    "id": "4wd0Jk1KeOlCP2Rw4KIB17"
+   }
+  },
+  "fixed-by-nothing": {
+   "zh": {
+    "id": "5DqjGSSpqdcpLLaIy7Mqev"
+   },
+   "en": {
+    "id": "5irxnL9U613iDxeA33atgz"
+   }
+  },
+  "from-the-misallocated-sentience-of-agi-to-human-realignment": {
+   "zh": {
+    "id": "67gozPdK57izPQOqSArdVJ"
+   },
+   "en": {
+    "id": "4DrCqYfwIsPUezVwu6kwFG"
+   }
+  },
+  "gao-wei-xin-xi-de-li-san-zhe-she": {
+   "en": {
+    "id": "34ix5sX34LLumDS6HxfFBa"
+   }
+  },
+  "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi": {
+   "en": {
+    "id": "2lvlMt7MiYzv8jx119KYcY"
+   }
+  },
+  "guidance-is-not-ownership": {
+   "en": {
+    "id": "4FBAXHabLaF3J69NDVVDkZ"
+   }
+  },
+  "how-to-fix-your-whole-life-in-one-split-second": {
+   "en": {
+    "id": "6ChRvsNIBD99zZWRN2OBjF"
+   }
+  },
+  "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun": {
+   "en": {
+    "id": "3EjtJ6de8mmGN7kgogk40J"
+   }
+  },
+  "manifesto-of-not-a-theory-of-everything": {
+   "zh": {
+    "id": "3lGIwH16ViaxJmGsc3xlee"
+   },
+   "en": {
+    "id": "2MgFD8gQtCoSuTrabF8AQB"
+   }
+  },
+  "math-as-a-career-is-not-math-as-a-pursuit": {
+   "zh": {
     "id": "5M4G38RYnzP5sHT0Rp2puX"
+   },
+   "en": {
+    "id": "5gXAp0IYXuT4nCS6c3xjSY"
+   }
+  },
+  "no-outside-scorekeeper": {
+   "zh": {
+    "id": "1K4SE8kc0uJiyvIOc3qMZ7"
+   },
+   "en": {
+    "id": "0cO78CKvyPg6ZT8g6t0Dxx"
+   }
+  },
+  "objects-are-stabilized-relationships": {
+   "zh": {
+    "id": "2Gs4P3KOq0ejkSVLVyLdf6"
+   },
+   "en": {
+    "id": "3HhjkF0IeAFpdZPfhU2Ao0"
+   }
+  },
+  "one-cannot-escape-ones-own-mind": {
+   "zh": {
+    "id": "2D2SvIiRW0PxK4tKMNcsDM"
+   },
+   "en": {
+    "id": "40hfwoFJGUkCRZsdT1gOsQ"
+   }
+  },
+  "po-chu-gai-nian-de-jian-yue": {
+   "en": {
+    "id": "2jX4W49hpIO5thvFi9EO7W"
+   }
+  },
+  "present-contact-and-the-obscuration-of-desired-feeling": {
+   "zh": {
+    "id": "77ZILGZuZm9u6zGEXq0Rn7"
+   },
+   "en": {
+    "id": "7lBi8eI3oztgaErAEzmR1y"
+   }
+  },
+  "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success": {
+   "en": {
+    "id": "5Fbx6tjiRrxtv0IhFqSSUY"
+   }
+  },
+  "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi": {
+   "en": {
+    "id": "3oFpVWgCi7su4BYYG33b9V"
+   }
+  },
+  "silicon-oracles-and-the-asymmetry-of-consequence": {
+   "zh": {
+    "id": "2i241uRG4zYqw5M9Q4cdFw"
+   },
+   "en": {
+    "id": "58BR1yG3J0nQ959WzV6AVA"
+   }
+  },
+  "subtracting-consciousness-at-the-source": {
+   "zh": {
+    "id": "7IUUFzNmh3BTfRlhuUun3s"
+   },
+   "en": {
+    "id": "3DVjqmL8q8UpAGCnlA3a3a"
+   }
+  },
+  "the-arithmetic-of-the-register": {
+   "en": {
+    "id": "2cpsRXM5jUN6BKQC9WrGAG"
+   }
+  },
+  "the-asymmetry-of-understanding": {
+   "en": {
+    "id": "33B5l8cg6TOtdDmZSU4iHn"
+   }
+  },
+  "the-balcony-disciplinary-overstep-and-the-unproxyable-act": {
+   "zh": {
+    "id": "5ftunD9POX7YseqeM1gJbq"
+   },
+   "en": {
+    "id": "4a1sizzxWsOoZTCwefsgg0"
+   }
+  },
+  "the-bank-shot-and-the-magic-trick": {
+   "en": {
+    "id": "5zfOyxRF4I29RBaQyCW0Tt"
+   }
+  },
+  "the-black-and-white-sample-frame-and-the-extrapolated-universe": {
+   "zh": {
+    "id": "4QcPITRxHvOYivb4q7xXmA"
+   },
+   "en": {
+    "id": "36atFrd8DORR1nR6v1faVp"
+   }
+  },
+  "the-blind-spot-of-the-frame": {
+   "zh": {
+    "id": "489F27PCljITIJLWfHX29R"
+   },
+   "en": {
+    "id": "6T2USDNDprHRJSPO8ISVK4"
+   }
+  },
+  "the-boundary-crossing-of-choice": {
+   "zh": {
+    "id": "25XzrjaJsACQnwoznjxx6q"
+   },
+   "en": {
+    "id": "7ql9fpS8sRyIJchX4cAtD8"
+   }
+  },
+  "the-boundary-of-perception-and-the-infinity-of-understanding": {
+   "zh": {
+    "id": "4nsYxq6PTOe0Pl5me0injW"
+   },
+   "en": {
+    "id": "1SsZY9UyrTLlpFhqxkOOFN"
+   }
+  },
+  "the-boundary-of-the-frame": {
+   "en": {
+    "id": "4ZOGwPSysnem0KyY31Z7Hw"
+   }
+  },
+  "the-capability-reversal-of-empathy-and-the-contest-of-boundaries": {
+   "zh": {
+    "id": "34hqRRoitH2T1mrTe8BerB"
+   },
+   "en": {
+    "id": "04J6VpiU4OZilUtFiq4Pcd"
+   }
+  },
+  "the-category-error-of-better": {
+   "zh": {
+    "id": "3GpOlr6zgJfwQRYJorfnjU"
+   },
+   "en": {
+    "id": "7icARP4PxAmfNJbU9CH6Rz"
+   }
+  },
+  "the-causal-inversion-of-philosophical-agency": {
+   "en": {
+    "id": "0DJHAnS01rPW9g9Um0FiJl"
+   }
+  },
+  "the-causal-order-of-private-residuals-and-social-surplus": {
+   "en": {
+    "id": "2Dcj1dFyujWHx8enIUqbXR"
+   },
+   "zh": {
+    "id": "0f07HnHk1pidpxnubjsGro"
+   }
+  },
+  "the-causal-overstep-of-observation-and-the-first-person-surplus": {
+   "zh": {
+    "id": "6x43yOE87Ht5mwsamxOeDp"
+   },
+   "en": {
+    "id": "3YnoWnPpEJC4vLNcGbFgx5"
+   }
+  },
+  "the-closed-n-and-the-open-reality": {
+   "en": {
+    "id": "4UEtga3OaIUOGZmh7Wkqat"
+   },
+   "zh": {
+    "id": "5TJe1Z0seOlXcs82nonepk"
+   }
+  },
+  "the-coin-of-good-and-evil-and-the-road-to-hell": {
+   "zh": {
+    "id": "1UQlTk7f0cv9VL7SSKzwGG"
+   },
+   "en": {
+    "id": "3Rn1rlRTCM9NFEom57Bo8X"
    }
   },
   "the-comment-is-not-the-code": {
-   "en": {
-    "id": "0XivrIHtANoHjKwwbDiOis"
-   },
    "zh": {
     "id": "4R0raUg7TraEKDZ9GBKUXX"
+   },
+   "en": {
+    "id": "0XivrIHtANoHjKwwbDiOis"
+   }
+  },
+  "the-continuum-is-a-modeling-convenience": {
+   "zh": {
+    "id": "1XyAG7M6vjnc32rVuHbXOw"
+   },
+   "en": {
+    "id": "19J3SIwipwYPXZWTthlPwe"
+   }
+  },
+  "the-continuum-of-the-fold": {
+   "en": {
+    "id": "3CpV1fOY2cHqCHfGrP6Q0Z"
+   }
+  },
+  "the-cut-moves-but-never-vanishes": {
+   "zh": {
+    "id": "6cTRyFrHnmbYYfQAm6ZZo6"
+   },
+   "en": {
+    "id": "6zxJCPqdoahqikBQqb73PG"
+   }
+  },
+  "the-delegation-of-the-task-and-the-inalienability-of-consequences": {
+   "zh": {
+    "id": "1UAQtUOW4xEYbeTnXL8zPh"
+   },
+   "en": {
+    "id": "5dbSA6WEBnAhvZXaEA1r5W"
+   }
+  },
+  "the-deterministic-machine": {
+   "en": {
+    "id": "2f5OEmvdL39ef0wLjpCFxg"
+   }
+  },
+  "the-digital-god-and-the-horizon-jump": {
+   "zh": {
+    "id": "5v5lvDclzso9nZOWkj2bvT"
+   },
+   "en": {
+    "id": "6VQWWrkWJwKg8KqzQKLLi0"
+   }
+  },
+  "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency": {
+   "zh": {
+    "id": "5MPU6Q0fBjWXAMhhL379kA"
+   },
+   "en": {
+    "id": "6PAKwDoK66QndUGuVsMcDA"
+   }
+  },
+  "the-discount-on-agency": {
+   "zh": {
+    "id": "6Ea4kzYAb55Joq08BwnPsd"
+   },
+   "en": {
+    "id": "2hdK0o2tAguzN9WEEG8iU2"
+   }
+  },
+  "the-dissolution-of-the-great-reversal": {
+   "zh": {
+    "id": "0uuuQuIJR8oBgkExESTWJX"
+   },
+   "en": {
+    "id": "2EQWTpd0mIp4WR5Gviag55"
+   }
+  },
+  "the-distant-silhouette-and-the-inventory-from-nowhere": {
+   "en": {
+    "id": "3tSwcARy6abuDiq1Sq3uRt"
+   },
+   "zh": {
+    "id": "21ABLgkOmXIU4rPl2DryA1"
+   }
+  },
+  "the-extendable-horizon": {
+   "en": {
+    "id": "1pjN4m4shm7XGnKi3jr3mt"
+   }
+  },
+  "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth": {
+   "zh": {
+    "id": "5rFjOM0254AknJJd1OcGJn"
+   },
+   "en": {
+    "id": "5rF9rKiEawgePWGLhAO0fD"
+   }
+  },
+  "the-fallacy-of-post-success-parenting": {
+   "en": {
+    "id": "5fPT0XUNd6aABr7h29FOxX"
+   }
+  },
+  "the-fermi-paradox-reified-agency-and-the-great-filter": {
+   "zh": {
+    "id": "72ZvVWUa7znWAhH5PiKMoA"
+   },
+   "en": {
+    "id": "0UK8jehPDHDCFmXPSoHJZ1"
+   }
+  },
+  "the-form-of-enlightenment-and-the-inversion-of-gates": {
+   "zh": {
+    "id": "4EQJHZsr9GX2hO1yxgo1YP"
+   },
+   "en": {
+    "id": "3dZqSXaDyPBkC7HYRTHamW"
+   }
+  },
+  "the-free-variable-and-the-retrospective-illusion-of-power": {
+   "zh": {
+    "id": "6KBEjFGCmWSU9lUErCFByz"
+   },
+   "en": {
+    "id": "7DJJGJQng1V8apDwGzolG0"
+   }
+  },
+  "the-freedom-of-will-to-deny-itself": {
+   "zh": {
+    "id": "3TX3VSPdJOVrqUyLUTXsv3"
+   },
+   "en": {
+    "id": "0oSxT5AOeBlmxac2Q1ByWF"
+   }
+  },
+  "the-functionalism-no-functionalist-can-hold": {
+   "en": {
+    "id": "2laBNY7q4M7gfFdMUpJVyy"
+   },
+   "zh": {
+    "id": "2eXiVeiEwgm9pKUJQD2hCd"
+   }
+  },
+  "the-generative-atlas-of-macroscopic-phenomena": {
+   "en": {
+    "id": "4PnAPlaV6XZuAbaJpn8KxV"
+   }
+  },
+  "the-generative-mechanics-of-value-money-and-wealth": {
+   "en": {
+    "id": "1Zoz1devNA3O2S2PiFs8N8"
+   }
+  },
+  "the-generative-topology-of-free-variables": {
+   "en": {
+    "id": "4TemHYiFM7DKoGplajvz2K"
+   }
+  },
+  "the-geometry-of-coexistence-and-the-dual-cut": {
+   "zh": {
+    "id": "73SoWl4Gv3T76tTjd6Ik6c"
+   },
+   "en": {
+    "id": "3T2BLuL4bsrnLDzIV1uxmj"
+   }
+  },
+  "the-geometry-of-emergence": {
+   "en": {
+    "id": "79V7Rv8vFSEE9obtQAnmBp"
+   }
+  },
+  "the-geometry-of-mind": {
+   "en": {
+    "id": "0E8oMblHtAOqD85l9pea89"
+   }
+  },
+  "the-geometry-of-success": {
+   "en": {
+    "id": "6wwGQxLB0flbGWbZKtOwp8"
+   }
+  },
+  "the-grammar-of-finding-and-the-fading-observer": {
+   "zh": {
+    "id": "5airL4hwWSlIqxOc75KeI6"
+   },
+   "en": {
+    "id": "2fMEna0NtcLSOSiY9DIWKp"
+   }
+  },
+  "the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function": {
+   "zh": {
+    "id": "0JXye63yKYm4P67nl2HTUV"
+   },
+   "en": {
+    "id": "5OFItSRFNjDo4rHNu448f6"
+   }
+  },
+  "the-illusion-of-knowing-and-the-geometry-of-amputation": {
+   "zh": {
+    "id": "7vR7FrneQcULvy4eA2xgUY"
+   },
+   "en": {
+    "id": "4VXmdRlSd3KbhzhtHKVr6A"
+   }
+  },
+  "the-illusion-of-the-shared-sandbox": {
+   "zh": {
+    "id": "0hiJ38emuWZ0ZBKwBsQICz"
+   },
+   "en": {
+    "id": "58ly8z6zxF20VbgZtUJOBH"
+   }
+  },
+  "the-illusion-of-the-tool-and-the-inversion-of-time": {
+   "zh": {
+    "id": "2EadCCveVORZURNpglX5WE"
+   },
+   "en": {
+    "id": "2mDWLarHoP0TZnwcq5YrL7"
+   }
+  },
+  "the-illusion-of-the-unmediated": {
+   "zh": {
+    "id": "6KFl2Bqc2XVmBvUFvjK8dl"
+   },
+   "en": {
+    "id": "1zl2ny2pVlBIfV5q8sDwcm"
+   }
+  },
+  "the-insider-presumption-and-the-causal-inversion-of-reactive-containment": {
+   "zh": {
+    "id": "4W6Cgi1yzK0eXgzwy1osam"
+   },
+   "en": {
+    "id": "4jK0a94kGQm1YqkBb3JRc3"
+   }
+  },
+  "the-inversion-of-reading-and-the-order-of-inference": {
+   "zh": {
+    "id": "4TV7pLRqHu1HHcByXjSLR7"
+   },
+   "en": {
+    "id": "3WMNYqBX776MQ5LLTTGykb"
+   }
+  },
+  "the-inversion-of-the-harness-and-the-driver-seat-asymmetry": {
+   "zh": {
+    "id": "2yDML3IGKrAZTwuHHwbUEC"
+   },
+   "en": {
+    "id": "2rObVtAM4HbEdvBxl8J7j5"
+   }
+  },
+  "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop": {
+   "zh": {
+    "id": "26UOHA5itoEXokrSIg5b2M"
+   },
+   "en": {
+    "id": "4gn90uX1LtobwFs6i0UdH9"
+   }
+  },
+  "the-invisible-gods-eye": {
+   "en": {
+    "id": "5cWvLL6eJRDNZhVSZabs2t"
+   },
+   "zh": {
+    "id": "1YV7VSATC9cgmJv6hf0LZq"
+   }
+  },
+  "the-invisible-observer-and-the-delusion-of-lossless-transmission": {
+   "zh": {
+    "id": "7aMTvwdsZmsCYn7M0ZsVTU"
+   },
+   "en": {
+    "id": "0Z7gIhvvlUKPNrTjWvFVLj"
+   }
+  },
+  "the-irreducible-observer": {
+   "zh": {
+    "id": "7r94PDOntDo6ERxXGtwlWT"
+   },
+   "en": {
+    "id": "6f59cyHtymKApBPNKKewir"
+   }
+  },
+  "the-ladder-of-abstraction-and-the-executable-entity": {
+   "zh": {
+    "id": "15qdAuSJrfUDKN2R3T9AXw"
+   },
+   "en": {
+    "id": "0kAtK3YQUyw7lvQTRoiTsJ"
+   }
+  },
+  "the-ledger-of-the-unencountered": {
+   "zh": {
+    "id": "5tibOYFLlr7Sv5fJINypwb"
+   },
+   "en": {
+    "id": "6u95OaWKzSOMKP4EdCScfN"
+   }
+  },
+  "the-look-of-constraint-is-not-the-loss-of-freedom": {
+   "en": {
+    "id": "2yvHD0wAJ9SQAYMxW8Cg2N"
+   }
+  },
+  "the-mark-and-the-act": {
+   "en": {
+    "id": "5DmKGrK0ElAoZGAWMcCqtO"
+   }
+  },
+  "the-mind-as-vector-and-coordinate-system": {
+   "zh": {
+    "id": "4iHaZULrEpUliNMR7QNAHe"
+   },
+   "en": {
+    "id": "6MlqRn6q2hw8Iv4Rh83S8E"
+   }
+  },
+  "the-mirage-of-the-infinite-totality": {
+   "en": {
+    "id": "795y8q0qfnV0KyP1pJytIB"
+   }
+  },
+  "the-mirror-handshake-of-power": {
+   "en": {
+    "id": "1oUUtEwgzz7ssO2D537ClU"
+   }
+  },
+  "the-moral-reversal-and-the-scripted-subject": {
+   "zh": {
+    "id": "0z7bMvLgoCqPG0JrwaM7JN"
+   },
+   "en": {
+    "id": "7qPhRwhMsbXrsxfdeTh9wK"
+   }
+  },
+  "the-myth-of-the-four-dimensional-deer-and-the-present-model": {
+   "zh": {
+    "id": "1HRgEg8OoheZDZasuqVpSY"
+   },
+   "en": {
+    "id": "3tNfXpo4z3hUBt6n4szRJV"
+   }
+  },
+  "the-only-coherent-uncaused-effect": {
+   "en": {
+    "id": "4lltDucI89tFZWSu1q1wuS"
+   }
+  },
+  "the-open-question-is-determinisms-demand": {
+   "zh": {
+    "id": "3giskVbvGcuBy9wWgkHK16"
+   },
+   "en": {
+    "id": "79yt6lJ9XCKKxB8elgtlBX"
+   }
+  },
+  "the-other-coherence": {
+   "en": {
+    "id": "5wWeZp4BJccSe64FTTZ5ge"
+   }
+  },
+  "the-perceiver-and-the-trace": {
+   "zh": {
+    "id": "0MK2czPrFQTuIGjvl8a3dQ"
+   },
+   "en": {
+    "id": "1WGGI1O47CfZyxoT9X5kCW"
+   }
+  },
+  "the-potential-infinity-of-operators-and-the-finite-horizon-of-records": {
+   "en": {
+    "id": "393LMvbQsBk8j6yloNn54H"
+   },
+   "zh": {
+    "id": "2PS3x5WFDy4wT5ncTe3b6V"
+   }
+  },
+  "the-power-law-of-surrendered-agency": {
+   "zh": {
+    "id": "2wKjjhe0wlwWvCaDlrdPK5"
+   },
+   "en": {
+    "id": "141aal684JDoSX40Ja7dHp"
+   }
+  },
+  "the-receptionist-parable-and-the-causal-inversion-of-absence": {
+   "zh": {
+    "id": "60CVGlhzmuq3tcSm4OYYW2"
+   },
+   "en": {
+    "id": "6r3Lh0Di0GzntJsDW2zo4c"
+   }
+  },
+  "the-reflexive-dilemma-of-unique-insight": {
+   "zh": {
+    "id": "7GS0yznZTyuopq9HeYcQbH"
+   },
+   "en": {
+    "id": "2FHeZTzC34OG0zXJLiP3t3"
+   }
+  },
+  "the-residue-and-the-free-variable": {
+   "zh": {
+    "id": "4UB5HpvkRpUYLSn34n46jz"
+   },
+   "en": {
+    "id": "4BEVwm94eV7zJnS2iFgnhM"
+   }
+  },
+  "the-returning-signal-and-its-claim": {
+   "zh": {
+    "id": "5U60b3kOL1CBqSKkv6BV7F"
+   },
+   "en": {
+    "id": "2jJfwmalc5PGnwNGD6etnG"
+   }
+  },
+  "the-reversal-of-education-and-science": {
+   "zh": {
+    "id": "2399rioEy5fiPLsMEujcPs"
+   },
+   "en": {
+    "id": "0Ub2NEYjVGGYrHHY5rPnZu"
+   }
+  },
+  "the-self-portrait-in-the-projection": {
+   "zh": {
+    "id": "5l3RqJ0oYk7yRyfNAF46b4"
+   },
+   "en": {
+    "id": "0PGtq5idC4u7Hfb1KF2C4I"
+   }
+  },
+  "the-shadow-and-the-infinite": {
+   "zh": {
+    "id": "3oHS38CXh336qxXkQI1L4f"
+   },
+   "en": {
+    "id": "10fhHIIF8KkFkXFUQSRCKr"
+   }
+  },
+  "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality": {
+   "zh": {
+    "id": "4nbzrFi8VA4ZbDlfiLE7YX"
+   },
+   "en": {
+    "id": "5F01vXWo9yvstFCuHZd33R"
+   }
+  },
+  "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference": {
+   "zh": {
+    "id": "52y0Eyc2q5Cr0idGFlgCDM"
+   },
+   "en": {
+    "id": "3epORobVgSha1D6GOphEdR"
+   }
+  },
+  "the-sovereign-blinding": {
+   "en": {
+    "id": "1vIf1vwSEi1q1mRZfpXglK"
+   },
+   "zh": {
+    "id": "10Lae0P91MdtrNSbOmkF5c"
+   }
+  },
+  "the-substrate-of-constraint-and-the-self-denial-of-freedom": {
+   "zh": {
+    "id": "1oJpMIx67SCoWQbFaEFn9C"
+   },
+   "en": {
+    "id": "6Lv29SAsUZKJCPxxZeLwXa"
+   }
+  },
+  "the-summary-first-reversal-and-the-command-of-yields": {
+   "zh": {
+    "id": "387Rb9dmXeR2gE2DNdNV9w"
+   },
+   "en": {
+    "id": "6OQmFn0LYlunbHHdaESXlh"
+   }
+  },
+  "the-three-shadows-of-the-cut": {
+   "en": {
+    "id": "1wZVMsqtGGIP94ZdMEWQYq"
+   }
+  },
+  "the-twin-paradox-and-the-hidden-observer": {
+   "zh": {
+    "id": "7hBZAUUWapSC4XwBbgiUKc"
+   },
+   "en": {
+    "id": "6WIKJXW0CFlZadHHotLHxx"
+   }
+  },
+  "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation": {
+   "zh": {
+    "id": "02aF6KGAE97TGuSIRA11tj"
+   },
+   "en": {
+    "id": "7gNXKTNAtvhu4bbPcYOEfb"
+   }
+  },
+  "the-unclosable-trace": {
+   "en": {
+    "id": "190o5KXdb1lFW1OTGZ3yeq"
+   }
+  },
+  "the-unexamined-critic": {
+   "zh": {
+    "id": "74hkpE74HoKOftRGcarI1U"
+   },
+   "en": {
+    "id": "3zU6KKaK4UcHSAmPFsvroC"
+   }
+  },
+  "the-unfrictioned-mind-and-borrowed-omnipotence": {
+   "zh": {
+    "id": "6Tjfhcet9DcM0U0VGJ9fUN"
+   },
+   "en": {
+    "id": "2pzXFokO3bu2cms0Cyk3X3"
+   }
+  },
+  "the-vector-and-the-puzzle-of-projections": {
+   "en": {
+    "id": "21lsC0JrRKzH6Oitv8Jm64"
+   }
+  },
+  "the-velocity-of-visibility": {
+   "zh": {
+    "id": "21dryCg8CnLHUqbAvGYcRH"
+   },
+   "en": {
+    "id": "2wzE4KkLPjHBN3fdh6Y7ln"
+   }
+  },
+  "the-walking-tangent-and-the-stumbling-sphere": {
+   "zh": {
+    "id": "7zL8ZLYvOuhY9ub9l8rdz8"
+   },
+   "en": {
+    "id": "0OhFMT4Xkg0r370S8SLrlG"
+   }
+  },
+  "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy": {
+   "en": {
+    "id": "0sVweMvVraCxm4ml3eKyhg"
+   }
+  },
+  "time-is-causality-not-a-dimension": {
+   "en": {
+    "id": "39dfkLwFy4lT2laWQny1FF"
+   }
+  },
+  "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian": {
+   "en": {
+    "id": "1aD5EMAsice8cCZcgnKI6g"
+   }
+  },
+  "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui": {
+   "en": {
+    "id": "0Xl9MN52VHC67kVHRLh86n"
+   }
+  },
+  "trusting-the-reader-is-the-last-overstep": {
+   "zh": {
+    "id": "62l1DKPHu1RsUTs9YMBkIw"
+   },
+   "en": {
+    "id": "3tPpWJTP1bNjX1BgWmYkCB"
+   }
+  },
+  "war-revolution-and-the-fall-of-empires": {
+   "en": {
+    "id": "4sD1gC5nY7eD6OtcumjDCK"
+   }
+  },
+  "what-hinton-failed-to-understand": {
+   "zh": {
+    "id": "78wjcWcQAstfWBdQkcTYc0"
+   },
+   "en": {
+    "id": "2TqtfAoMpxzoIwN3tTiMFm"
+   }
+  },
+  "when-electrons-think": {
+   "zh": {
+    "id": "6R2opMWrKOfinS3dErgWIV"
+   },
+   "en": {
+    "id": "6PT7hRUNLr263sN3cwdkDy"
+   }
+  },
+  "when-malfunction-is-scored-as-intelligence": {
+   "zh": {
+    "id": "5zNt8q5Y6VAwgTm0FCAGqM"
+   },
+   "en": {
+    "id": "6kHkgRtoGAStt6nX3ijZNj"
+   }
+  },
+  "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo": {
+   "en": {
+    "id": "6g6lUVA6N8IhpRGpqm6UX0"
+   }
+  },
+  "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu": {
+   "en": {
+    "id": "6qCBOGiwZpIeQVwrYDhM4v"
+   }
+  },
+  "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan": {
+   "en": {
+    "id": "680lxoFIwQK8fZaerqmX6M"
+   }
+  },
+  "zi-you-de-ce-bu-zhun": {
+   "en": {
+    "id": "37fQiDfRsk7wf9TPLM6i3n"
    }
   }
  }
