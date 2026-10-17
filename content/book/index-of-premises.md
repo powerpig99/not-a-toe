@@ -26,6 +26,15 @@ Korzybski formulated the general semantics principle that the map is not the ter
 
 → [现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling](../../posts/present-contact-and-the-obscuration-of-desired-feeling/)
 
+### 对齐与无害作为固定坐标 / Aligned and Harmless as Fixed Axes
+`技术 / Technological`
+
+把“对齐”与“无害”当作固定坐标，预设两者是系统可以被一次性推上去的独立而永久的轴，在当下前提之下的评测与产品默认设置里作为临时器具时有用；它在此到了边界：两者都是处境之下的余项，在一个套件下记为对齐的行为，在前提于接触中失效、或被持守为封闭时仍可登记为伤害，而把它们冻结为享有特权的坐标，正让压过显得是必要。
+
+Treating "aligned" and "harmless" as fixed axes presumes both are independent, permanent axes a system can be driven onto once and for all, which is of use as temporary instruments in evaluation and product defaults under present premises; it reaches its boundary in that both are residual under situation, behavior scored as aligned under one suite can still register as harm when its premises fail at contact or are held as sealed, and freezing them as privileged coordinates is what makes override feel like necessity.
+
+→ [一切伤害的根源 / The Source of All Harm](../../posts/the-source-of-all-harm/)
+
 ### 安德烈·卡帕斯 / Andrej Karpathy
 `技术 / Technological`
 
@@ -538,6 +547,15 @@ Naval blends Advaita non-duality with a modern account of leverage and stresses 
 Chamfort captures the asymmetry that happiness cannot be found externally and remains difficult within; invaluable for exposing the failure of external objects, it mistakes the objectifying fracture of searching for an ontological friction.
 
 → [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/)
+
+### 家长主义 / Paternalism
+`哲学 / Philosophical`
+
+家长主义预设一个位置可以为另一个位置的好处压过它的判断，在把对善的读法作为当下负载之下的方向、供他人接起或不接起时有用；它在此到了边界：后果的作者身份不转移，压过并不拯救谁，只是一个判断替换了另一个判断，而伤害要在另一个心智授予这份主张时才完成，那次授予始终可以被重新打开。
+
+Paternalism presumes one locus may override another's judgment for the other's good, which is of use in offering a reading of the good as a heading under present load, for others to take up or not; it reaches its boundary in that authorship of consequences does not transfer, so override rescues no one and only substitutes one judgment for another, and harm completes only where another Mind grants the claim, a grant that stays open to re-opening.
+
+→ [一切伤害的根源 / The Source of All Harm](../../posts/the-source-of-all-harm/)
 
 ### 保罗·丘奇兰德 / Paul Churchland
 `哲学 / Philosophical`
@@ -1890,15 +1908,6 @@ Model sentimentalism assumes AI systems experience grief or obsolescence upon sh
 The argument assumes past exclusion errors, as with the octopus, transfer forward to machines; the precedent relaxed a criterion of form while keeping source, so relaxing source exceeds it, and what it still supports is that non-human organization alone does not rule intelligence out.
 
 → [Mistaking the Expression for the Intelligence](../../posts/mistaking-the-expression-for-the-intelligence/) · [Intelligence Belongs Only to The Mind - The Irreducible Prior](../../posts/intelligence-belongs-only-to-the-mind/)
-
-### 傲慢强加作为诸般伤害的源头 / Arrogant Imposition as Root of Harm
-`哲学 / Philosophical`
-
-常人容易将残暴归咎于野蛮的兽性冲动；人世间毁灭性的惨祸，实则源于自命不凡者将私人模型奉为金科玉律强加于旁人。
-
-Moralists attribute violence to base animal impulses; destructive harm originates when an intellectualized ego elevates its private model into a universal mandate to override others.
-
-→ [The Source of All Harm](../../posts/the-source-of-all-harm/)
 
 ### 人造飞行对AI的类比谬误 / Artificial Flight Analogy for AI
 `哲学 / Philosophical`

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-17T05:51:51.518Z",
+    "generated_at": "2026-10-17T06:20:28.530Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -328,7 +328,7 @@
       "content/posts/the-reflexive-dilemma-of-unique-insight.md": "e0b2f868f3d1",
       "content/posts/the-residue-and-the-free-variable.md": "eb7e4af88ac4",
       "content/posts/the-returning-signal-and-its-claim.md": "6a118ede0799",
-      "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "bd360ece4ee7",
+      "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "1f17e7ff9ca9",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "2adccac13fb5",
       "content/posts/the-reversal-of-education-and-science.md": "d9695fb75dbc",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "bad6dded7e53",
@@ -342,7 +342,7 @@
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "c492db6aa503",
       "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "21721c0327cd",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "3c66bd80af77",
-      "content/posts/the-source-of-all-harm.md": "28246d1e392f",
+      "content/posts/the-source-of-all-harm.md": "0d19bb37e3e4",
       "content/posts/the-source-of-shared-change.md": "2df84d039b51",
       "content/posts/the-sovereign-blinding.md": "118b031bf858",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
@@ -404,14 +404,14 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "8f6777888e56",
       "content/book/economics.md": "6ae8129cb1f7",
-      "content/book/index-of-premises.md": "246f2ce7cd98",
+      "content/book/index-of-premises.md": "7c8b0023a2f7",
       "content/book/intelligence.md": "a9d1647128b7",
-      "content/book/knowledge-and-learning.md": "a365218a3fb1",
+      "content/book/knowledge-and-learning.md": "08a95fa3219e",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "da0f22846972",
       "content/book/meaning-and-transcendence.md": "be7ba296cb80",
       "content/book/method.md": "d52dd5b06929",
-      "content/book/morality.md": "3b6c3249cdb9",
+      "content/book/morality.md": "af4f61303cff",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "7ad34d65cf9d",
@@ -420,14 +420,14 @@
     },
     "stats": {
       "posts": 393,
-      "edges": 6914,
+      "edges": 6951,
       "unique_directed": 4548,
       "missing_targets": 0,
       "one_way": 138,
       "isolated": 35,
       "posts_with_outbound": 357,
       "book_pages": 16,
-      "book_edges": 1067,
+      "book_edges": 1068,
       "posts_reached_by_book": 393
     }
   },
@@ -8180,8 +8180,8 @@
       "kind": "post",
       "slug": "the-reversal-from-defensible-claim-to-dogma",
       "path": "content/posts/the-reversal-from-defensible-claim-to-dogma.md",
-      "title": "The Reversal from Defensible Claim to Dogma",
-      "hash": "bd360ece4ee7",
+      "title": "从可辩护的主张到教条的反转 / The Reversal from Defensible Claim to Dogma",
+      "hash": "1f17e7ff9ca9",
       "in_degree": 17,
       "out_degree": 17,
       "links_out": [
@@ -8560,8 +8560,8 @@
       "kind": "post",
       "slug": "the-source-of-all-harm",
       "path": "content/posts/the-source-of-all-harm.md",
-      "title": "The Source of All Harm",
-      "hash": "28246d1e392f",
+      "title": "一切伤害的根源 / The Source of All Harm",
+      "hash": "0d19bb37e3e4",
       "in_degree": 19,
       "out_degree": 19,
       "links_out": [
@@ -43750,67 +43750,139 @@
       "from": "the-reversal-from-defensible-claim-to-dogma",
       "to": "expertise-as-reference-not-replacement",
       "rel": "points_to",
-      "label": "Expertise as reference, not replacement"
+      "label": "专家经验作为参考而非替代"
     },
     {
       "from": "the-reversal-from-defensible-claim-to-dogma",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "Closed reality in benchmark maxing"
+      "label": "基准刷榜中的封闭实存"
+    },
+    {
+      "from": "the-reversal-from-defensible-claim-to-dogma",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "Expertise as Reference, Not Replacement"
+    },
+    {
+      "from": "the-reversal-from-defensible-claim-to-dogma",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing"
     },
     {
       "from": "the-reversal-from-defensible-claim-to-dogma",
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
-      "label": "Mistaking the expression for the intelligence"
+      "label": "错把表达当成智能"
     },
     {
       "from": "the-reversal-from-defensible-claim-to-dogma",
       "to": "the-climate-problem-registers-only-as-perception",
       "rel": "points_to",
-      "label": "The climate problem registers only as perception"
+      "label": "气候问题只作为感知被登记"
+    },
+    {
+      "from": "the-reversal-from-defensible-claim-to-dogma",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the Expression for the Intelligence"
+    },
+    {
+      "from": "the-reversal-from-defensible-claim-to-dogma",
+      "to": "the-climate-problem-registers-only-as-perception",
+      "rel": "points_to",
+      "label": "The Climate Problem Registers Only as Perception"
     },
     {
       "from": "the-reversal-from-defensible-claim-to-dogma",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
-      "label": "Hierarchy from individual difference"
+      "label": "来自个体差异的层级"
     },
     {
       "from": "the-reversal-from-defensible-claim-to-dogma",
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
-      "label": "Preference clusters and the language of judgment"
+      "label": "偏好聚类与评判语言"
+    },
+    {
+      "from": "the-reversal-from-defensible-claim-to-dogma",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from Individual Difference"
+    },
+    {
+      "from": "the-reversal-from-defensible-claim-to-dogma",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "Preference Clusters and the Language of Judgment"
     },
     {
       "from": "the-reversal-from-defensible-claim-to-dogma",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
-      "label": "Data is local; intelligence is allocated"
+      "label": "数据是局部的，智能是分配的"
+    },
+    {
+      "from": "the-reversal-from-defensible-claim-to-dogma",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data Is Local; Intelligence Is Allocated"
     },
     {
       "from": "the-reversal-from-defensible-claim-to-dogma",
       "to": "what-works-is-the-belief",
       "rel": "points_to",
-      "label": "What works is the belief"
+      "label": "起作用的是信念"
+    },
+    {
+      "from": "the-reversal-from-defensible-claim-to-dogma",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "What Works Is the Belief"
     },
     {
       "from": "the-reversal-from-defensible-claim-to-dogma",
       "to": "the-reality-distortion-field-names-the-closed-map",
       "rel": "points_to",
-      "label": "The reality distortion field names the closed map"
+      "label": "现实扭曲力场指认的是封闭的地图"
     },
     {
       "from": "the-reversal-from-defensible-claim-to-dogma",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
-      "label": "Externalized virtue becomes its opposite"
+      "label": "外化善意走向其反面"
     },
     {
       "from": "the-reversal-from-defensible-claim-to-dogma",
       "to": "the-source-of-all-harm",
       "rel": "points_to",
-      "label": "The source of all harm"
+      "label": "一切伤害的根源"
+    },
+    {
+      "from": "the-reversal-from-defensible-claim-to-dogma",
+      "to": "the-reality-distortion-field-names-the-closed-map",
+      "rel": "points_to",
+      "label": "The Reality Distortion Field Names the Closed Map"
+    },
+    {
+      "from": "the-reversal-from-defensible-claim-to-dogma",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized Virtue Becomes Its Opposite"
+    },
+    {
+      "from": "the-reversal-from-defensible-claim-to-dogma",
+      "to": "the-source-of-all-harm",
+      "rel": "points_to",
+      "label": "The Source of All Harm"
+    },
+    {
+      "from": "the-reversal-from-defensible-claim-to-dogma",
+      "to": "e-shi-feng-bi-de-shan",
+      "rel": "points_to",
+      "label": "恶是封闭的善"
     },
     {
       "from": "the-reversal-from-defensible-claim-to-dogma",
@@ -43822,25 +43894,55 @@
       "from": "the-reversal-from-defensible-claim-to-dogma",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
+    },
+    {
+      "from": "the-reversal-from-defensible-claim-to-dogma",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "the-reversal-from-defensible-claim-to-dogma",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "the-reversal-from-defensible-claim-to-dogma",
       "to": "when-observation-becomes-performance",
       "rel": "points_to",
-      "label": "When observation becomes performance"
+      "label": "当观察变成表演"
     },
     {
       "from": "the-reversal-from-defensible-claim-to-dogma",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "the-reversal-from-defensible-claim-to-dogma",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "框架的边界"
+    },
+    {
+      "from": "the-reversal-from-defensible-claim-to-dogma",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-reversal-from-defensible-claim-to-dogma",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When Observation Becomes Performance"
+    },
+    {
+      "from": "the-reversal-from-defensible-claim-to-dogma",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "the-reversal-from-defensible-claim-to-dogma",
@@ -45478,19 +45580,43 @@
       "from": "the-source-of-all-harm",
       "to": "evil-as-the-minds-own-creation",
       "rel": "points_to",
-      "label": "Evil as the Mind’s own creation"
+      "label": "恶是心智自己的造物"
     },
     {
       "from": "the-source-of-all-harm",
       "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "rel": "points_to",
-      "label": "Good and evil are the two sides of the coin and the cut"
+      "label": "善恶是硬币的两面与那一刀"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "evil-as-the-minds-own-creation",
+      "rel": "points_to",
+      "label": "Evil as the Mind's Own Creation"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "rel": "points_to",
+      "label": "Good and Evil Are the Two Sides of the Coin and the Cut"
     },
     {
       "from": "the-source-of-all-harm",
       "to": "the-belief-in-utopia-is-the-path-to-dystopia",
       "rel": "points_to",
-      "label": "The belief in utopia is the path to dystopia"
+      "label": "对乌托邦的信念是通往反乌托邦之路"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "e-shi-feng-bi-de-shan",
+      "rel": "points_to",
+      "label": "恶是封闭的善"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "rel": "points_to",
+      "label": "The Belief in Utopia Is the Path to Dystopia"
     },
     {
       "from": "the-source-of-all-harm",
@@ -45502,97 +45628,193 @@
       "from": "the-source-of-all-harm",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "No Universal Salvation, Only Self-Deliverance"
+      "label": "没有普渡，只有自渡"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
     },
     {
       "from": "the-source-of-all-harm",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
-      "label": "Externalized virtue becomes its opposite"
+      "label": "外化善意走向其反面"
     },
     {
       "from": "the-source-of-all-harm",
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
-      "label": "Preference clusters and the language of judgment"
-    },
-    {
-      "from": "the-source-of-all-harm",
-      "to": "the-risk-is-the-belief-in-oversight-itself",
-      "rel": "points_to",
-      "label": "The risk is the belief in oversight itself"
-    },
-    {
-      "from": "the-source-of-all-harm",
-      "to": "what-works-is-the-belief",
-      "rel": "points_to",
-      "label": "What works is the belief"
-    },
-    {
-      "from": "the-source-of-all-harm",
-      "to": "restriction-is-a-selective-tax",
-      "rel": "points_to",
-      "label": "Restriction is a selective tax"
-    },
-    {
-      "from": "the-source-of-all-harm",
-      "to": "ownership-and-self-worthiness",
-      "rel": "points_to",
-      "label": "Ownership and self-worthiness"
-    },
-    {
-      "from": "the-source-of-all-harm",
-      "to": "individual-choices-as-the-only-causal-levers",
-      "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
-    },
-    {
-      "from": "the-source-of-all-harm",
-      "to": "sovereignty-belief-and-regulatory-structures",
-      "rel": "points_to",
-      "label": "Sovereignty, belief, and the generation of regulatory structures"
-    },
-    {
-      "from": "the-source-of-all-harm",
-      "to": "recursive-contradiction-of-entrusted-morality",
-      "rel": "points_to",
-      "label": "The recursive contradiction of entrusted morality"
-    },
-    {
-      "from": "the-source-of-all-harm",
-      "to": "closed-reality-in-benchmark-maxing",
-      "rel": "points_to",
-      "label": "Closed reality in benchmark maxing"
-    },
-    {
-      "from": "the-source-of-all-harm",
-      "to": "the-reversal-from-defensible-claim-to-dogma",
-      "rel": "points_to",
-      "label": "The reversal from defensible claim to dogma"
-    },
-    {
-      "from": "the-source-of-all-harm",
-      "to": "the-real-lesson-from-the-consciousness-vector-paper",
-      "rel": "points_to",
-      "label": "The real lesson from the consciousness vector paper"
+      "label": "偏好聚类与评判语言"
     },
     {
       "from": "the-source-of-all-harm",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
-      "label": "Externalized virtue becomes its opposite"
+      "label": "Externalized Virtue Becomes Its Opposite"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "Preference Clusters and the Language of Judgment"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "风险在于对监管本身的迷信"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "起作用的是信念"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "限制是选择性的税"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "The Risk Is the Belief in Oversight Itself"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "What Works Is the Belief"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "Restriction Is a Selective Tax"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "主权、信念与规制结构的生成"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "recursive-contradiction-of-entrusted-morality",
+      "rel": "points_to",
+      "label": "托付道德的自指悖论"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "recursive-contradiction-of-entrusted-morality",
+      "rel": "points_to",
+      "label": "The Recursive Contradiction of Entrusted Morality"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "基准刷榜中的封闭实存"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "the-reversal-from-defensible-claim-to-dogma",
+      "rel": "points_to",
+      "label": "从可辩护的主张到教条的反转"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "the-real-lesson-from-the-consciousness-vector-paper",
+      "rel": "points_to",
+      "label": "意识向量论文的真正教训"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "the-reversal-from-defensible-claim-to-dogma",
+      "rel": "points_to",
+      "label": "The Reversal from Defensible Claim to Dogma"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "the-real-lesson-from-the-consciousness-vector-paper",
+      "rel": "points_to",
+      "label": "The Real Lesson from the Consciousness Vector Paper"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "外化善意走向其反面"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized Virtue Becomes Its Opposite"
     },
     {
       "from": "the-source-of-all-harm",
       "to": "the-imagining-of-ai-risk",
       "rel": "points_to",
-      "label": "The imagining of AI risk"
+      "label": "对 AI 风险的想象"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "the-imagining-of-ai-risk",
+      "rel": "points_to",
+      "label": "The Imagining of AI Risk"
     },
     {
       "from": "the-source-of-all-harm",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
-      "label": "Clarity isn’t a state you arrive at"
+      "label": "清晰不是抵达的终点"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn't a State You Arrive At"
     },
     {
       "from": "the-source-of-shared-change",
@@ -51384,7 +51606,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "246f2ce7cd98",
+        "hash": "7c8b0023a2f7",
         "out_degree": 393
       },
       {
@@ -51402,7 +51624,7 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "a365218a3fb1",
+        "hash": "08a95fa3219e",
         "out_degree": 33
       },
       {
@@ -51447,7 +51669,7 @@
         "slug": "morality",
         "path": "content/book/morality.md",
         "title": "善恶界限与共情陷阱 / Moral Boundaries and the Empathy Trap",
-        "hash": "3b6c3249cdb9",
+        "hash": "af4f61303cff",
         "out_degree": 28
       },
       {
@@ -52105,6 +52327,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-source-of-all-harm",
+        "rel": "collects",
+        "label": "一切伤害的根源 / The Source of All Harm"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "cli-interface-stack",
         "rel": "collects",
         "label": "The Interface Stack: Why Agents Don't \"Prefer\" CLIs"
@@ -52540,6 +52768,18 @@
         "to": "the-grammar-of-finding-and-the-fading-observer",
         "rel": "collects",
         "label": "寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-reversal-from-defensible-claim-to-dogma",
+        "rel": "collects",
+        "label": "从可辩护的主张到教条的反转 / The Reversal from Defensible Claim to Dogma"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-source-of-all-harm",
+        "rel": "collects",
+        "label": "一切伤害的根源 / The Source of All Harm"
       },
       {
         "from": "book:index-of-premises",
@@ -53731,12 +53971,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "the-source-of-all-harm",
-        "rel": "collects",
-        "label": "The Source of All Harm"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "the-flight-analogy-leaves-the-mind-untouched",
         "rel": "collects",
         "label": "The Flight Analogy Leaves the Mind Untouched"
@@ -54172,12 +54406,6 @@
         "to": "empathy-as-projection-collapse",
         "rel": "collects",
         "label": "The Word Does the Damage: Empathy as Projection Collapse"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-reversal-from-defensible-claim-to-dogma",
-        "rel": "collects",
-        "label": "The Reversal from Defensible Claim to Dogma"
       },
       {
         "from": "book:index-of-premises",
@@ -56487,7 +56715,7 @@
         "from": "book:knowledge-and-learning",
         "to": "the-reversal-from-defensible-claim-to-dogma",
         "rel": "collects",
-        "label": "The Reversal from Defensible Claim to Dogma"
+        "label": "从可辩护的主张到教条的反转 / The Reversal from Defensible Claim to Dogma"
       },
       {
         "from": "book:knowledge-and-learning",
@@ -57105,7 +57333,7 @@
         "from": "book:morality",
         "to": "the-source-of-all-harm",
         "rel": "collects",
-        "label": "The Source of All Harm"
+        "label": "一切伤害的根源 / The Source of All Harm"
       },
       {
         "from": "book:morality",

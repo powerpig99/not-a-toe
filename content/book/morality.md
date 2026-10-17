@@ -26,7 +26,7 @@ These essays dissect victimhood scripts, suicidal empathy inversions, and the ab
 - [Advocating Openness of Others Is a Desire for Closure of the Self](../../posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self/)
 - [Good and Evil Are the Two Sides of the Coin and the Cut](../../posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut/)
 - [Externalized Virtue Becomes Its Opposite](../../posts/externalized-virtue-becomes-its-opposite/)
-- [The Source of All Harm](../../posts/the-source-of-all-harm/)
+- [一切伤害的根源 / The Source of All Harm](../../posts/the-source-of-all-harm/)
 - [道德语言稀释自由复利的反馈 / Moral Language Dilutes the Feedback That Scales Freedom](../../posts/moral-language-dilutes-the-feedback-that-scales-freedom/)
 - [最初的区分 / The Initial Distinction](../../posts/the-initial-distinction/)
 - [恶是封闭的善 / Evil Is Closed Good](../../posts/e-shi-feng-bi-de-shan/)
