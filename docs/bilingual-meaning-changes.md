@@ -1221,3 +1221,42 @@ The worker translated the settled English; Grok reviewed (18 points); Antigravit
 - [Grok 18; r2 not taken as written] Close: 以及每一个别的中心各自对那份区分所留下的可得残余的偏好 (各自 carries "of its own"; r2's split phrasing reads as two claims).
 - [r1/r2 not taken] Dashes (three places) restored to commas or parentheses.
 - Outside the post: worker's book listing bilingual and registry entry removed, kept. Index: 资源丰裕作为因果源头 / Resource Abundance as Cause restated as premise, boundary and use (the old text was a verdict); new 马太效应 / Matthew Effect (a commonly known concept the post's first section dissects). Stale Chinese anchors synced to the registry title 拥有更多从不是原因 in the-causal-order-of-private-residuals-and-social-surplus (2), the-discount-on-agency, beyond-the-hundred-trillion-horizon (were 拥有更多并非因由 / 从来不是原因), now that this post's title is settled.
+
+### open-vision-in-a-closed-arena (refine step, final call)
+
+The worker refined the English (source status in the lead, facts checked, "pure scaling" removed from the deprioritized paths); Grok reviewed (10 link checks, 19 points); Antigravity r1 (blind) and r2 (answered Grok). The worker's draft is the base; each hunk and point judged.
+- [Grok A1, A2; r2 reworded] Lead states both cuts (the open stance inside an arena that rewards enclosure; the talk's own holds) and lists five holds, monetization included, as instruments that close once exempted from re-tracing. r2's "installs five boundaries as exhaustive ground" not taken (it asserts the freeze the sections make conditional). r1/r2's "unconfirmed four-hour meeting" not taken: the transcript is unconfirmed, not the meeting. Meaning change.
+- [Grok B3, C9; r2 reworded] Stage model: "the lag appears" → "it closes when"; the talk presents the sequence as the order progress must pass through; "not as a betrayal of AGI" removed.
+- [Grok B4, E13; r2 reworded] Team: "an instrument, not a defect" → instrument that closes when held as the one interest exempt from re-tracing; What Works Is the Belief glossed in bans (its subtitle), with the membership claim stated as this post's own transfer.
+- [Grok C10, F18; r2 taken in substance] Compute: "the lag is not buying cards" removed; "every other difference reduced to that ledger's shadow" narrowed to the ledger as primary ground with the firm's architectural, algorithmic and organizational differences registering only relative to it. Meaning change.
+- [Grok B5; r2 reworded] Culture: the practices lean open; the hold is the configuration installed as the lasting cause. [Grok F16, F17] "Patterns in fast-growing organizations suggest" and "not a moral failure of founders" removed.
+- [Grok C7, C8; r2 reworded] Monetization: the by-product stance (declining enclosure as aim) and the causal chain to survival named as two axes; "the AGI path" → "the firm's own roadmap".
+- [Grok C11; r2 reworded] "strategically vulnerable" now marked as the enclosure playbook's way of asking the question.
+- [Grok E14; r2 taken in substance] RDF gloss: "Resistance is discrete acts..." no longer inside it; the acts continue without reinforcing the playbook and update the realized field past that map (RDF's own claim).
+- [Grok D12; r2 reworded] Release and restraint marked early as continuing from the firm's orientation, not a standard for other firms; the close adds where the inversion begins. [Grok E15] AGI gloss carries "because capability gain is that edge reinforcing itself".
+- [Grok F16; r2 taken] Foils removed: "This is not moral renunciation", "not generosity layered onto business", "not goodwill failing", "not a bug in the vision", "not a failure of the vision so much as".
+- [r1/r2 not taken] "Huawei Ascend co-development" (added specifics, unsourced); "a fraction" for the quarter price cut and the dropped sixfold and 800B (checked facts or worker-kept lines); "end-to-end native multimodality" (the source has multimodality as a component); r2's Preference Clusters gloss "demanding that competitors open" (the target's pair is stopping others from releasing and stopping others from stopping); register throughout ("inevitably", "sheer", "magically", "immutable absolute", "cogs").
+
+### open-vision-in-a-closed-arena (translate step, final call by the same session)
+
+The worker translated the settled English; Grok reviewed (26 points); Antigravity r1 (blind) and r2 (answered Grok). r2 is the base; each hunk and point judged.
+- [Grok 1; r2 not taken] "high-risk" not taken: the settled claim is size of what is at stake, so English stays "high-stakes" and the Chinese moves to 利害重大.
+- [Grok 2; r2 reworded] 多方参与: "a process with many parties taking part"; close "a scale on which many parties take part" ("multi-agent" read as the roadmap's agents stage).
+- [Grok 3; r2 reworded] Lead: two-part 而 sentence, verb "steering" (导向); "domain", not r2's "field", since 场 is the house term and the Chinese is 领域.
+- [Grok 4, 13; r2 taken] 一致 is "consistency" throughout (ties to Openness Is Consistency and the close); 凝聚 is "cohesion"/"cohesive".
+- [Grok 5; r2 taken] 增密 / densify where the act is densifying (prior, dependence, residue; 加密 and 密实 gone); "concentrates research attention" where the act is concentration.
+- [Grok 6, 7; r2 taken] "a finite exclusive share"; No System Can Be Kept Closed traces "the most intuitive face of incompleteness" (its subtitle). Meaning change in both languages.
+- [Grok 8, 9, 10, 15, 18, 20; r2 taken] "The real work" for 正事 with the gloss; "treated as"; "continual learning", "temporarily set aside, regarded as orthogonal or of lower priority"; "more option grants"; "half the time for free exploration"; "any configuration".
+- [Grok 11; r2 reworded] Test of the hold: "and the test is the field continuing past a map that was useful" / 而这种检验，就是场越过一张曾经有用的地图继续下去.
+- [Grok 12; r2 taken] English anchor is the benchmark post's full title.
+- [Grok 14; r2 taken] "Keeping the team stable"; the densifying stated before "it closes", as in the Chinese.
+- [Grok 16; r2 taken] Production gloss: "every further use inside the frame registers as subtraction from a finite stock"; hardware is "such a stock" (pool was this post's figure). Meaning change in both languages.
+- [Grok 17; r2 reworded] "the work each card can perform" / 能完成; 激活参数规模 / activated-parameter scales; 800B races "too large for the firm to research thoroughly" (r2's "research through to the bottom" not taken). r2's "differences the firm itself produces" not taken: 自己在做的 is "works on".
+- [Grok 19; r2 reworded] 形象滞后 / "Image lag" (corpus capitalization), keeping it apart from the months-behind lag of section 4.
+- [Grok 21, 22; r2 taken, one clause reworded] Monetization is the subject of 让企业保持可行 / "keeps the enterprise viable"; "refuses enclosure as the firm's aim, and that stance stays open"; "stalled," with a comma; "cash-flow backstops"; "bottom-line argument".
+- [Grok 23; r2 reworded] "The playbook of enclosure poses it as a question of strategic vulnerability" / 会把它问成一个战略脆弱的问题.
+- [Grok 24; not taken] "open-system values" kept; the Chinese becomes 价值观 to say the same (价值 is not number-marked; r2's "on the value of open systems" does not read).
+- [Grok 25; r2 taken] "Closed assumptions coexist with it" (并存), "hold" kept for 持守.
+- [Grok 26; r2 reworded] Preference Clusters frame "how open against closed turns into a verdict" → "traces the mechanism underneath" / 追溯了其下的机制; subtitle sentence and shared mechanism kept. Meaning change in both languages.
+- [r2 not taken] Em dashes (closure, fashion list, posture list, hold list) → commas or parentheses; the dash stays only inside the benchmark post's title.
+- Outside the post: worker's book listing bilingual and registry entry removed, kept. Index 封闭竞技场锁定 / Closed Market Arena Capture restated as premise, boundary and use (the old text was a verdict), kept. Stale English anchors "Open vision in a closed arena" in seven single-language posts left for their conversions.

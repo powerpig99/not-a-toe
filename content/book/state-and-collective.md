@@ -21,7 +21,7 @@ The essays here examine the cruelty of utopian visions, the machinery of war, an
 - [Sovereignty, Belief, and the Generation of Regulatory Structures](../../posts/sovereignty-belief-and-regulatory-structures/)
 - [What Works Is the Belief](../../posts/what-works-is-the-belief/)
 - [The Coordinator’s Category Error](../../posts/the-coordinators-category-error/)
-- [Open Vision in a Closed Arena](../../posts/open-vision-in-a-closed-arena/)
+- [封闭竞技场中的开放视野 / Open Vision in a Closed Arena](../../posts/open-vision-in-a-closed-arena/)
 - [风险在于对监管本身的迷信 / The Risk Is the Belief in Oversight Itself](../../posts/the-risk-is-the-belief-in-oversight-itself/)
 - [来自个体差异的层级 / Hierarchy from Individual Difference](../../posts/hierarchy-from-individual-difference/)
 - [共同改变的本源 / The Source of Shared Change](../../posts/the-source-of-shared-change/)

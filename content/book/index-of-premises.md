@@ -2245,11 +2245,11 @@ Perceiving climate as a problem presumes that problem-status is a property of th
 ### 封闭竞技场锁定 / Closed Market Arena Capture
 `经济 / Economic`
 
-风投神话声称颠覆式创新能打造开放均等的新赛道；受制于资本回报刚性，前沿技术容易在锁定用户后沦为封闭的垄断高墙。
+这种竞争观预设，在一个大机会里取胜就是拿下独占的份额、筑起封闭的护城河，它在解释资本密集、地缘与人才竞争的场为何不断把参与者压向圈占时有用；它在此到了边界：一个有限的独占份额，无法为一个持续越过任何一家公司持守的场奠基，圈占的企图会招来挑战者，而一家公司要以开放与克制行事，并不需要整个竞技场先变得开放，只要它自己的持守仍作为工具被重新追溯。
 
-Venture ideology claims visionary disruption creates open, egalitarian markets; competing inside venture finance channels innovation toward monopolistic arena capture.
+This view of competition presumes that winning a large opportunity means taking an exclusive share and building a closed moat, which is of use in explaining why a capital-intensive, geopolitical and talent-competitive field keeps pressing participants toward enclosure; it reaches its boundary in that a finite exclusive share cannot ground a field that continues past any one firm's hold, attempts at enclosure generate challengers, and a firm acting with openness and restraint does not need the whole arena to open first, only its own holds to stay instruments that are re-traced.
 
-→ [Open Vision in a Closed Arena](../../posts/open-vision-in-a-closed-arena/)
+→ [封闭竞技场中的开放视野 / Open Vision in a Closed Arena](../../posts/open-vision-in-a-closed-arena/)
 
 ### 闭卷考试衡量能力 / Closed-Book Examination as Measure of Capability
 `科学 / Scientific`
