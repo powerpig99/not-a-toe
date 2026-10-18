@@ -2236,11 +2236,11 @@ The saying that children are free and adults are constrained by reality describe
 ### 气候感知的模型化投射 / Climate Perception Modeling
 `科学 / Scientific`
 
-生态叙事将气候统计视作直接的道德审判；地球系统实为多变量物理演化，社会却容易通过滤镜挑选自己愿看的数据。
+把气候当作一个问题来感知，预设“问题”的身份是地球系统本身的属性，计分板上的残余直接映照行星的因果，在把注意力引向人类排放及其后果时有用；它在此到了边界：“问题”的身份是装上它的那些中心的持守，口号把科学本身保持敞开的时间、通量与未来之轴压缩成一张计分板，而一张对着开放之场计分的封闭计分板总会留下残余，喂养以管理它为业的角色。
 
-Ecological rhetoric treats climate statistics as direct moral verdicts; planetary dynamics are multi-variate physical systems that societies perceive through selective ideological lenses.
+Perceiving climate as a problem presumes that problem-status is a property of the earth system itself and that residual on the scoreboard maps planetary causation directly, which is of use in drawing attention to human emissions and their consequences; it reaches its boundary in that problem-status is a hold at the centers that install it, the slogan compresses the axes of time, flux and future that the science itself keeps open onto one scoreboard, and a closed scoreboard scored against an open field always leaves residual that feeds the roles built on managing it.
 
-→ [The Climate Problem Registers Only as Perception](../../posts/the-climate-problem-registers-only-as-perception/)
+→ [气候问题只作为感知被登记 / The Climate Problem Registers Only as Perception](../../posts/the-climate-problem-registers-only-as-perception/)
 
 ### 封闭竞技场锁定 / Closed Market Arena Capture
 `经济 / Economic`

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-18T10:57:36.133Z",
+    "generated_at": "2026-10-18T11:50:09.728Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -212,7 +212,7 @@
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "c57c3511aac6",
       "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "fbf5eec7b863",
       "content/posts/the-causal-overstep-of-observation-and-the-first-person-surplus.md": "6c191f9ad616",
-      "content/posts/the-climate-problem-registers-only-as-perception.md": "5ff8eff83763",
+      "content/posts/the-climate-problem-registers-only-as-perception.md": "db0233612f6e",
       "content/posts/the-closed-loop-of-representation.md": "633ffdcca70d",
       "content/posts/the-closed-n-and-the-open-reality.md": "cdca9be1b6fb",
       "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "fd790ca70240",
@@ -405,7 +405,7 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "f69ff208c9db",
       "content/book/economics.md": "e488107cbd4f",
-      "content/book/index-of-premises.md": "4c4027df5379",
+      "content/book/index-of-premises.md": "decaaf136f0e",
       "content/book/intelligence.md": "2de88c6c06f0",
       "content/book/knowledge-and-learning.md": "9d59b725338c",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -417,11 +417,11 @@
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "15238f5079bd",
       "content/book/success-and-the-self.md": "2a59654ea696",
-      "content/book/tools-and-progress.md": "bd64642f15de"
+      "content/book/tools-and-progress.md": "fb69203f8f75"
     },
     "stats": {
       "posts": 394,
-      "edges": 7603,
+      "edges": 7615,
       "unique_directed": 4561,
       "missing_targets": 0,
       "one_way": 147,
@@ -5673,8 +5673,8 @@
       "kind": "post",
       "slug": "the-climate-problem-registers-only-as-perception",
       "path": "content/posts/the-climate-problem-registers-only-as-perception.md",
-      "title": "The Climate Problem Registers Only as Perception",
-      "hash": "5ff8eff83763",
+      "title": "气候问题只作为感知被登记 / The Climate Problem Registers Only as Perception",
+      "hash": "db0233612f6e",
       "in_degree": 12,
       "out_degree": 12,
       "links_out": [
@@ -5685,11 +5685,11 @@
         "no-system-can-be-kept-closed",
         "clarity-isnt-a-state-you-arrive-at",
         "evil-as-the-minds-own-creation",
+        "the-reversal-from-defensible-claim-to-dogma",
         "the-question-that-installs-the-war",
         "the-risk-you-delegate-is-the-risk-you-create",
         "performative-hindsight-that-pretends-to-be-foresight",
-        "openness-is-consistency",
-        "the-reversal-from-defensible-claim-to-dogma"
+        "openness-is-consistency"
       ]
     },
     {
@@ -34596,73 +34596,145 @@
       "from": "the-climate-problem-registers-only-as-perception",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
-      "label": "The path drawn one step at a time"
+      "label": "一步一步绘制出的路径"
     },
     {
       "from": "the-climate-problem-registers-only-as-perception",
       "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "rel": "points_to",
-      "label": "Exceptionality, perception, and the self-limiting field of problems"
+      "label": "卓异、感知与自我设限的问题场域"
+    },
+    {
+      "from": "the-climate-problem-registers-only-as-perception",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "The Path Drawn One Step at a Time"
+    },
+    {
+      "from": "the-climate-problem-registers-only-as-perception",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, Perception, and the Self-Limiting Field of Problems"
     },
     {
       "from": "the-climate-problem-registers-only-as-perception",
       "to": "causality-all-the-way",
       "rel": "points_to",
-      "label": "Causality all the way"
+      "label": "因果贯穿始终"
+    },
+    {
+      "from": "the-climate-problem-registers-only-as-perception",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality All the Way"
     },
     {
       "from": "the-climate-problem-registers-only-as-perception",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "closed reality in benchmark maxing"
+      "label": "基准刷榜中的封闭实存"
+    },
+    {
+      "from": "the-climate-problem-registers-only-as-perception",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing"
     },
     {
       "from": "the-climate-problem-registers-only-as-perception",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "the-climate-problem-registers-only-as-perception",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
     },
     {
       "from": "the-climate-problem-registers-only-as-perception",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
-      "label": "clarity isn’t a state you arrive at"
+      "label": "清晰不是抵达的终点，而是运动本身"
+    },
+    {
+      "from": "the-climate-problem-registers-only-as-perception",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
     },
     {
       "from": "the-climate-problem-registers-only-as-perception",
       "to": "evil-as-the-minds-own-creation",
       "rel": "points_to",
-      "label": "evil as the Mind’s own creation"
+      "label": "恶是心智自己的造物"
     },
     {
       "from": "the-climate-problem-registers-only-as-perception",
-      "to": "the-question-that-installs-the-war",
+      "to": "evil-as-the-minds-own-creation",
       "rel": "points_to",
-      "label": "The question that installs the war"
-    },
-    {
-      "from": "the-climate-problem-registers-only-as-perception",
-      "to": "the-risk-you-delegate-is-the-risk-you-create",
-      "rel": "points_to",
-      "label": "The risk you delegate is the risk you create"
-    },
-    {
-      "from": "the-climate-problem-registers-only-as-perception",
-      "to": "performative-hindsight-that-pretends-to-be-foresight",
-      "rel": "points_to",
-      "label": "Performative hindsight that pretends to be foresight"
-    },
-    {
-      "from": "the-climate-problem-registers-only-as-perception",
-      "to": "openness-is-consistency",
-      "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "Evil as the Mind’s Own Creation"
     },
     {
       "from": "the-climate-problem-registers-only-as-perception",
       "to": "the-reversal-from-defensible-claim-to-dogma",
       "rel": "points_to",
-      "label": "The reversal from defensible claim to dogma"
+      "label": "从可辩护的主张到教条的反转"
+    },
+    {
+      "from": "the-climate-problem-registers-only-as-perception",
+      "to": "the-question-that-installs-the-war",
+      "rel": "points_to",
+      "label": "安装战争的那个问题"
+    },
+    {
+      "from": "the-climate-problem-registers-only-as-perception",
+      "to": "the-reversal-from-defensible-claim-to-dogma",
+      "rel": "points_to",
+      "label": "The Reversal from Defensible Claim to Dogma"
+    },
+    {
+      "from": "the-climate-problem-registers-only-as-perception",
+      "to": "the-question-that-installs-the-war",
+      "rel": "points_to",
+      "label": "The Question That Installs the War"
+    },
+    {
+      "from": "the-climate-problem-registers-only-as-perception",
+      "to": "the-risk-you-delegate-is-the-risk-you-create",
+      "rel": "points_to",
+      "label": "你委托的风险就是你创造的风险"
+    },
+    {
+      "from": "the-climate-problem-registers-only-as-perception",
+      "to": "the-risk-you-delegate-is-the-risk-you-create",
+      "rel": "points_to",
+      "label": "The Risk You Delegate Is the Risk You Create"
+    },
+    {
+      "from": "the-climate-problem-registers-only-as-perception",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "伪装成远见的表演性后见"
+    },
+    {
+      "from": "the-climate-problem-registers-only-as-perception",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "Performative Hindsight That Pretends to Be Foresight"
+    },
+    {
+      "from": "the-climate-problem-registers-only-as-perception",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "the-climate-problem-registers-only-as-perception",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "the-closed-loop-of-representation",
@@ -55544,7 +55616,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "4c4027df5379",
+        "hash": "decaaf136f0e",
         "out_degree": 394
       },
       {
@@ -55652,7 +55724,7 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "bd64642f15de",
+        "hash": "fb69203f8f75",
         "out_degree": 32
       }
     ],
@@ -58181,7 +58253,7 @@
         "from": "book:index-of-premises",
         "to": "the-climate-problem-registers-only-as-perception",
         "rel": "collects",
-        "label": "The Climate Problem Registers Only as Perception"
+        "label": "气候问题只作为感知被登记 / The Climate Problem Registers Only as Perception"
       },
       {
         "from": "book:index-of-premises",
@@ -62051,7 +62123,7 @@
         "from": "book:tools-and-progress",
         "to": "the-climate-problem-registers-only-as-perception",
         "rel": "collects",
-        "label": "The Climate Problem Registers Only as Perception"
+        "label": "气候问题只作为感知被登记 / The Climate Problem Registers Only as Perception"
       },
       {
         "from": "book:tools-and-progress",

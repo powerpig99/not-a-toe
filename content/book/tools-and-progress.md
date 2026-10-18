@@ -24,7 +24,7 @@ The essays here explore antifragility in engineering, the calm tension between S
 - [A New Deeper Look at Antifragility: Prosthesis, Not Driver](../../posts/a-new-deeper-look-at-antifragility/)
 - [A Living External Cortex: The Closest the Image Can Come](../../posts/a-living-external-cortex/)
 - [Whatever Is One Prompt Away](../../posts/whatever-is-one-prompt-away/)
-- [The Climate Problem Registers Only as Perception](../../posts/the-climate-problem-registers-only-as-perception/)
+- [气候问题只作为感知被登记 / The Climate Problem Registers Only as Perception](../../posts/the-climate-problem-registers-only-as-perception/)
 - [进步叙事中的症候与原因 / Symptom and Cause in the Narratives of Progress](../../posts/symptom-and-cause-in-the-narratives-of-progress/)
 - [进步的多面手 / The Utility Men of Progress](../../posts/the-utility-men-of-progress/)
 - [自我放大的制品 / The Artifacts of Self-Amplification](../../posts/the-artifacts-of-self-amplification/)
