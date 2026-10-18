@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-18T18:10:00.194Z",
+    "generated_at": "2026-10-18T19:03:29.089Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -221,7 +221,7 @@
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "3aed5a91fa9f",
       "content/posts/the-continuum-is-a-modeling-convenience.md": "2622676a6816",
       "content/posts/the-continuum-of-the-fold.md": "5eba96d44a83",
-      "content/posts/the-coordinators-category-error.md": "89f6110cc916",
+      "content/posts/the-coordinators-category-error.md": "be853b5f9ce9",
       "content/posts/the-cut-moves-but-never-vanishes.md": "2610f984cd07",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "3fa86a8cd1fa",
@@ -405,7 +405,7 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "f69ff208c9db",
       "content/book/economics.md": "5f09ac3fbf19",
-      "content/book/index-of-premises.md": "81a1a347044c",
+      "content/book/index-of-premises.md": "280ab347e6fe",
       "content/book/intelligence.md": "183aac2f9bc8",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -415,13 +415,13 @@
       "content/book/morality.md": "0024610ecad0",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
-      "content/book/state-and-collective.md": "efa5ab90eae2",
+      "content/book/state-and-collective.md": "ac12c411779e",
       "content/book/success-and-the-self.md": "2a59654ea696",
       "content/book/tools-and-progress.md": "c2d1c842f86a"
     },
     "stats": {
       "posts": 394,
-      "edges": 7744,
+      "edges": 7763,
       "unique_directed": 4561,
       "missing_targets": 0,
       "one_way": 147,
@@ -5850,8 +5850,8 @@
       "kind": "post",
       "slug": "the-coordinators-category-error",
       "path": "content/posts/the-coordinators-category-error.md",
-      "title": "The Coordinator’s Category Error",
-      "hash": "89f6110cc916",
+      "title": "协调者的范畴错误 / The Coordinator’s Category Error",
+      "hash": "be853b5f9ce9",
       "in_degree": 20,
       "out_degree": 19,
       "links_out": [
@@ -35862,73 +35862,151 @@
       "from": "the-coordinators-category-error",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "The scaffolding we forget"
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
     },
     {
       "from": "the-coordinators-category-error",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence belongs only to the Mind"
+      "label": "智能只属于心智"
     },
     {
       "from": "the-coordinators-category-error",
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
-      "label": "a creation cannot replace its source"
+      "label": "造物无法取代其源头"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to The Mind"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "A Creation Cannot Replace Its Source"
     },
     {
       "from": "the-coordinators-category-error",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "the-coordinators-category-error",
       "to": "the-misallocation-of-agency",
       "rel": "points_to",
-      "label": "The misallocation of agency"
+      "label": "能动性的错配"
     },
     {
       "from": "the-coordinators-category-error",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "No Universal Salvation, Only Self-Deliverance"
+      "label": "没有普渡，只有自渡的无限可能"
     },
     {
       "from": "the-coordinators-category-error",
       "to": "price-as-utterance-understanding-as-trade",
       "rel": "points_to",
-      "label": "Price as utterance, understanding as trade"
+      "label": "价格是言说，理解是交易"
     },
     {
       "from": "the-coordinators-category-error",
       "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "rel": "points_to",
-      "label": "Exceptionality, perception, and the self-limiting field of problems"
+      "label": "卓异、感知与自我设限的问题场域"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "The Misallocation of Agency"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "Price as Utterance, Understanding as Trade"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, Perception, and the Self-Limiting Field of Problems"
     },
     {
       "from": "the-coordinators-category-error",
       "to": "the-npc-impression-is-structural",
       "rel": "points_to",
-      "label": "The NPC impression is structural"
+      "label": "NPC 印象是结构性的"
     },
     {
       "from": "the-coordinators-category-error",
       "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
-      "label": "Liberation rhetoric begins by defining captivity"
+      "label": "解放的言辞始于定义囚禁"
     },
     {
       "from": "the-coordinators-category-error",
       "to": "help-is-half-the-problem",
       "rel": "points_to",
-      "label": "Help is half the problem"
+      "label": "帮助是问题的一半"
     },
     {
       "from": "the-coordinators-category-error",
       "to": "the-compassion-is-the-mechanism-of-obscuration",
       "rel": "points_to",
-      "label": "the compassion is the mechanism of obscuration"
+      "label": "慈悲即遮蔽的机制"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "moral-language-as-projection",
+      "rel": "points_to",
+      "label": "道德语言作为投影"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "the-npc-impression-is-structural",
+      "rel": "points_to",
+      "label": "The NPC Impression Is Structural, Not a Ranking of Minds"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "Liberation Rhetoric Begins by Defining Captivity"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "help-is-half-the-problem",
+      "rel": "points_to",
+      "label": "Help Is Half the Problem"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "the-compassion-is-the-mechanism-of-obscuration",
+      "rel": "points_to",
+      "label": "The Compassion Is the Mechanism of Obscuration"
     },
     {
       "from": "the-coordinators-category-error",
@@ -35940,7 +36018,19 @@
       "from": "the-coordinators-category-error",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "The allocation of causal power in validation"
+      "label": "验证中因果权能的分配"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "the-category-error-of-better",
+      "rel": "points_to",
+      "label": "「更好」的范畴谬误"
     },
     {
       "from": "the-coordinators-category-error",
@@ -35952,7 +36042,19 @@
       "from": "the-coordinators-category-error",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
-      "label": "The source of shared change"
+      "label": "共同改变的本源"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "The Source of Shared Change"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "进步叙事中的症候与原因"
     },
     {
       "from": "the-coordinators-category-error",
@@ -35964,13 +36066,25 @@
       "from": "the-coordinators-category-error",
       "to": "the-rational-choice-postulate-is-the-original-sin",
       "rel": "points_to",
-      "label": "The rational choice postulate is the original sin"
+      "label": "理性选择公设是原罪"
     },
     {
       "from": "the-coordinators-category-error",
       "to": "agency-relocated-into-the-formal-model",
       "rel": "points_to",
-      "label": "Agency relocated into the formal model"
+      "label": "能动性被转置入形式模型"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "The Rational Choice Postulate Is the Original Sin"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "agency-relocated-into-the-formal-model",
+      "rel": "points_to",
+      "label": "Agency Relocated into the Formal Model"
     },
     {
       "from": "the-cut-moves-but-never-vanishes",
@@ -56390,7 +56504,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "81a1a347044c",
+        "hash": "280ab347e6fe",
         "out_degree": 394
       },
       {
@@ -56480,7 +56594,7 @@
         "slug": "state-and-collective",
         "path": "content/book/state-and-collective.md",
         "title": "国家集体与权力的镜像 / The State, Collectives, and the Mirror of Power",
-        "hash": "efa5ab90eae2",
+        "hash": "ac12c411779e",
         "out_degree": 30
       },
       {
@@ -59151,12 +59265,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "the-coordinators-category-error",
-        "rel": "collects",
-        "label": "The Coordinator’s Category Error"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "the-mind-that-statistics-cannot-reveal",
         "rel": "collects",
         "label": "统计学无法揭示的心智 / The Mind That Statistics Cannot Reveal"
@@ -60768,6 +60876,12 @@
         "to": "expertise-as-reference-not-replacement",
         "rel": "collects",
         "label": "专家经验作为参考而非替代 / Expertise as Reference, Not Replacement"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-coordinators-category-error",
+        "rel": "collects",
+        "label": "协调者的范畴错误 / The Coordinator’s Category Error"
       },
       {
         "from": "book:index-of-premises",
@@ -62519,7 +62633,7 @@
         "from": "book:state-and-collective",
         "to": "the-coordinators-category-error",
         "rel": "collects",
-        "label": "The Coordinator’s Category Error"
+        "label": "协调者的范畴错误 / The Coordinator’s Category Error"
       },
       {
         "from": "book:state-and-collective",

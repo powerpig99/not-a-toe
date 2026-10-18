@@ -2404,15 +2404,6 @@ Context engineering presumes token window stuffing replicates shared understandi
 
 → [Context All the Way Down](../../posts/context-engineering-essay/)
 
-### 协调者的范畴错位 / Coordinator Category Error
-`经济 / Economic`
-
-科层规划预设自上而下的管理者创造了生产实效；协调者处理的是汇总图表，实际价值却诞生于基层的技术摩擦。
-
-Administrative planning presumes top-down managers author productive output; coordinators manage information maps, while actual production originates in ground-level technical friction.
-
-→ [The Coordinator’s Category Error](../../posts/the-coordinators-category-error/)
-
 ### 相关与因果 / Correlation and Causation
 `科学 / Scientific`
 
@@ -4590,6 +4581,15 @@ Taking talent, circumstance, opportunity or systems as destiny is of use in gaug
 Expert authority presumes that findings densified from populations can decide for a body; it is of use where population residue becomes maps that widen what can be noticed, and it reaches its boundary where no external center has one body’s continuous first-person stream or bears the costs that follow, so a map held as authority past its step is read in place of the signal it was built to help read, while the decision is made only at the center that lives the consequences.
 
 → [专家经验作为参考而非替代 / Expertise as Reference, Not Replacement](../../posts/expertise-as-reference-not-replacement/)
+
+### 技术解决主义 / Technological Solutionism
+`技术 / Technological`
+
+技术解决主义预设，社会与协调上的难题是有待技术补上的缺口，一个共享的、可验证的基底能把各方所缺的能动性与协调安装进去，它在说明更密的媒介如何合上信息的接缝、降低相互检视的成本时有用；它在此到了边界：协调早已作为每个中心的保留、同意与拒绝在运作，这种有界不是协议能分发或交还的稀缺之物，而把构建者自己的能动性分配到脚手架上、再读回为他人的欠缺，正是这份欠缺被维持的方式。
+
+Technological solutionism presumes that social and coordination problems are gaps for technology to fill, and that a shared, verifiable substrate can install the agency and coordination others lack, which is of use in describing how denser media close the seams in information and lower the cost of mutual inspection; it reaches its boundary in that coordination already operates as each center's withholding, assent and refusal, that boundedness is not a scarce good a protocol can distribute or return, and allocating the builders' own agency onto the scaffolding, then reading it back as a deficit in others, is how that deficit is sustained.
+
+→ [协调者的范畴错误 / The Coordinator’s Category Error](../../posts/the-coordinators-category-error/)
 
 ### 以知为刃的截肢机制 / The Amputation of Knowing
 `哲学 / Philosophical`
