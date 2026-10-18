@@ -2463,7 +2463,7 @@ Standardized education presumes knowledge consists of modular syllabi; it transm
 
 说“我这个人 Ego 太大”，看似向内反省，在承认一种性格倾向时有用；它在此到了边界：把当下拒绝改变归给一个固有的“Ego”实体，是隐性的外部归因，事实上每一刻只有打开或关闭接口的二元选择，刚性的自尊不是力量，而是认知位宽不足时的硬性封锁。
 
-Saying "I have too big an Ego" looks like looking inward and is of use in admitting a tendency of character; it reaches its boundary in that crediting a present refusal to change to a fixed "Ego" entity is hidden external attribution, when at each moment there is only the binary choice to open or close the interface, and rigid self-esteem is not strength but the hard lock of too little cognitive bandwidth.
+Saying "I have too big an Ego" looks like looking inward and is of use in admitting a tendency of character; it reaches its boundary in that crediting a present refusal to change to a fixed "Ego" entity is hidden external attribution, when at each moment there is only the binary choice to open or close the interface, and rigid self-esteem is not strength but the hard lock of too narrow a cognitive bit-width.
 
 → [自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution](../../posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/)
 

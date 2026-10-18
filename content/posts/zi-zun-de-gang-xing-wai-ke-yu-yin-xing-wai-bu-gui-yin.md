@@ -1,6 +1,6 @@
 # 自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution
 
-*把决策客体化为“大 Ego”，是为停滞造一块免责挡板，刚性的防御是位宽不足的封锁 / Calling live decisions a "big Ego" shields stagnation; rigid defence is a lock from too little bandwidth.*
+*把决策客体化为“大 Ego”，是为停滞造一块免责挡板，刚性的防御是位宽不足的封锁 / Calling live decisions a "big Ego" shields stagnation; rigid defence is a lock from too narrow a bit-width.*
 
 在日常的反思与人际沟通里，“我这个人 Ego 太大（自尊心太强）”常被当作一种很诚恳的自我剖析。很多人以为，只要公开承认自己有一个“大 Ego”，就等于完成了向内审视的关键第一步。
 
@@ -63,7 +63,7 @@ flowchart TD
     subgraph S_One["Choosing 1"]
         direction TB
         O1["Bear the dissonance, open the interface"]
-        O2["Calibrate the model, widen the bandwidth"]
+        O2["Calibrate the model, widen the bit-width"]
     end
     subgraph S_Zero["Choosing 0"]
         direction TB
@@ -92,11 +92,11 @@ Everyday experience holds a very common paradox: those who most strenuously show
 
 一种是高容错系统的开放，也就是真自信：一个人底层的心智模型有足够的计算位宽与结构韧性时，面对外部的否定、冲击或没料到的变量，不需要立刻拉响全面防御的警报，他有富余的带宽把这些异质的信息作为输入参数纳入推演；即使推演的结果证明自己原先的前提错了，系统也只需完成一次局部的参数更新，而不会让整个精神内核塌掉。另一种是低容错系统的刚性外壳，也就是“大 Ego”：一个心智模型的有效位宽很窄、内核很脆弱时，任何超出既定预设的外部扰动，都可能引起系统的单比特溢出，甚至死机与崩溃；为了保护这个摇摇欲坠的内核，系统就在最外层砌起一堵很高、很硬的刚性防火墙，用“强自尊”的姿态，把一切可能动摇底层假设的信息提前挡在外面。
 
-One is the openness of a high-tolerance system, which is real confidence: when a person's underlying mental model has enough computational bandwidth and structural resilience, facing outside negation, shock or an unforeseen variable needs no full alarm of defence at once, and there is spare bandwidth to take the foreign information in as input parameters for reasoning; even if the reasoning shows one's earlier premise was wrong, the system only needs one local update of parameters, and the whole inner core does not collapse. The other is the rigid shell of a low-tolerance system, which is the "big Ego": when a mental model's effective bandwidth is very narrow and its core very fragile, any outside disturbance beyond the set presumptions can cause a single-bit overflow in the system, even a freeze or crash; to protect this tottering core, the system builds a very high, very hard rigid firewall at its outermost layer, using the posture of "strong self-esteem" to keep out in advance all information that might shake its underlying assumptions.
+One is the openness of a high-tolerance system, which is real confidence: when a person's underlying mental model has enough computational bit-width and structural resilience, facing outside negation, shock or an unforeseen variable needs no full alarm of defence at once, and there is spare bandwidth to take the foreign information in as input parameters for reasoning; even if the reasoning shows one's earlier premise was wrong, the system only needs one local update of parameters, and the whole inner core does not collapse. The other is the rigid shell of a low-tolerance system, which is the "big Ego": when a mental model's effective bit-width is very narrow and its core very fragile, any outside disturbance beyond the set presumptions can cause a single-bit overflow in the system, even a freeze or crash; to protect this tottering core, the system builds a very high, very hard rigid firewall at its outermost layer, using the posture of "strong self-esteem" to keep out in advance all information that might shake its underlying assumptions.
 
 [自我形象仿佛从无处发声](../self-image-speaks-as-if-from-nowhere/)与[超越的定相](../the-fixed-image-of-transcendence/)揭示了这种防御守的是什么：拼命捍卫的，从来不是真实的自我，而是一张用来遮住内部带宽匮乏的“冻结的自我画像”。在投资里，刚性的自尊会拒绝为误差买单，[投资决策的因果闭环](../tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui/)说明了真正的自负盈亏。这种刚性的自尊从来不是力量的体现，恰恰是认知位宽严重不足时，系统本能采取的硬性封锁。
 
-[Self-Image Speaks as if from Nowhere](../self-image-speaks-as-if-from-nowhere/) and [The Fixed Image of Transcendence](../the-fixed-image-of-transcendence/) reveal what this defence guards: what is so fiercely defended is never the real self but a "frozen self-portrait" covering a shortage of inner bandwidth. In investing, rigid self-esteem refuses to pay for errors, and [The Causal Loop of Investment Decisions](../tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui/) shows what bearing one's own profit and loss really is. Such rigid self-esteem is never an expression of strength; it is precisely the hard lock a system instinctively applies when its cognitive bandwidth falls badly short.
+[Self-Image Speaks as if from Nowhere](../self-image-speaks-as-if-from-nowhere/) and [The Fixed Image of Transcendence](../the-fixed-image-of-transcendence/) reveal what this defence guards: what is so fiercely defended is never the real self but a "frozen self-portrait" covering a shortage of inner bandwidth. In investing, rigid self-esteem refuses to pay for errors, and [The Causal Loop of Investment Decisions](../tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui/) shows what bearing one's own profit and loss really is. Such rigid self-esteem is never an expression of strength; it is precisely the hard lock a system instinctively applies when its cognitive bit-width falls badly short.
 
 ## 三、 学科范式的遮蔽 / 3. How Disciplinary Paradigms Obscure
 
@@ -120,7 +120,7 @@ With the illusion behind the concept of "Ego" seen clearly, the path of cognitiv
 
 先是放下性格宿命论：承认并不存在任何外在于当下的“大 Ego”实体或性格宿命，那只是自己为逃避改变而发明出来的掩护。再是正视边界的张力：承认沟通中的卡壳、面对异见时的愤怒与抗拒，都是当下的心智系统碰到认知边界时真实的张力；[破除概念的僭越](../po-chu-gai-nian-de-jian-yue/)进一步把这种张力还原为控制论意义上的损失函数：负面情绪是一阶系统发出的高信噪比的脱节警报，若用二阶的理性对它施加道德审判，只会形成高压的堰塞湖，导致精神动力学的极端坍缩。最后是认领微观的选择权：直面那次不可剥夺的 0 与 1 的微观抉择，在感到被冒犯或不适的那一刻，主动放弃退回坚硬的外壳，也就是 0，选择向内校准参数、拓宽系统的位宽，也就是 1。
 
-First, setting down fatalism about character: acknowledging that there is no "big Ego" entity or destiny of character outside the present, only a cover invented to avoid change. Next, facing the tension at the boundary: acknowledging that getting stuck in conversation, and anger and resistance in the face of disagreement, are the real tension of the present mental system touching the boundary of its understanding; [Breaking the Overreach of Concepts](../po-chu-gai-nian-de-jian-yue/) further reduces this tension to a loss function in the cybernetic sense: negative emotion is a high signal-to-noise alarm of disconnection sent by the first-order system, and passing moral judgment on it with second-order reason only forms a high-pressure barrier lake and leads to an extreme collapse of psychic dynamics. Last, claiming the micro power of choice: facing the inalienable micro choice of 0 and 1, and in the moment of feeling offended or uncomfortable, actively declining to retreat into the hard shell, which is 0, and choosing to calibrate inward and widen the system's bandwidth, which is 1.
+First, setting down fatalism about character: acknowledging that there is no "big Ego" entity or destiny of character outside the present, only a cover invented to avoid change. Next, facing the tension at the boundary: acknowledging that getting stuck in conversation, and anger and resistance in the face of disagreement, are the real tension of the present mental system touching the boundary of its understanding; [Breaking the Overreach of Concepts](../po-chu-gai-nian-de-jian-yue/) further reduces this tension to a loss function in the cybernetic sense: negative emotion is a high signal-to-noise alarm of disconnection sent by the first-order system, and passing moral judgment on it with second-order reason only forms a high-pressure barrier lake and leads to an extreme collapse of psychic dynamics. Last, claiming the micro power of choice: facing the inalienable micro choice of 0 and 1, and in the moment of feeling offended or uncomfortable, actively declining to retreat into the hard shell, which is 0, and choosing to calibrate inward and widen the system's bit-width, which is 1.
 
 [个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)确立了行动的杠杆：剥掉一切概念的外衣，让心智直接与现实的因果反馈碰撞。只有在真实的试错与参数重塑中不断扩展认知的带宽，那堵僵硬的防御之墙才会自然瓦解，生出从容而坚固的内在自洽。心理学的标签也是一种权威的形式，[从形式迷思到逻辑闭环](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)说明了怎样剥离它，回到逻辑的闭环。
 
