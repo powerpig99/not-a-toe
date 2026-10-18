@@ -2857,11 +2857,11 @@ The model of general-purpose technology diffusion uses electrification and the c
 ### 生成式 AI 损害学习能力 / Generative AI Harms Learning
 `技术 / Technological`
 
-说生成式 AI 损害学习，在提醒替代式使用的代价时有用；它在此到了边界：它把原因放在工具上，而作业分数是学生加工具、考试只测原生能力，差距登记的是仪器的构成、选择效应与每个学生所择的关系。
+说生成式 AI 损害学习，在提醒替代式使用的代价时有用；它在此到了边界：它把原因放在工具上，而作业分数是学生加工具、考试只测原生能力，差距登记的是仪器的构成、选择效应与每个学生所择的关系；它又把一份不再在铺好的路上形成的残余读作能力本身的丧失，把旧的摩擦路径冻结成穷尽的课程，而那些路径仍作为可选的层级留在扩张的场中。
 
-The claim that generative AI harms learning is of use in flagging the cost of substitutive use; it reaches its boundary in that it locates the cause in the tool, while homework scores include student plus tool and exams measure raw capability, so the gap registers instrument composition, selection and each student's chosen relation.
+The claim that generative AI harms learning is of use in flagging the cost of substitutive use; it reaches its boundary in that it locates the cause in the tool, while homework scores include student plus tool and exams measure raw capability, so the gap registers instrument composition, selection and each student's chosen relation; and it reads a residue that no longer forms on the paved path as capacity lost as such, freezing the old frictional pathways as exhaustive curriculum while they remain in the expanding field as elective levels.
 
-→ [作业与考试的倒置折射出替代效应 / The Homework–Exam Inversion Registers Substitution](../../posts/the-homework-exam-inversion-registers-substitution/) · [作为职业的数学不是作为追求的数学 / Math as a Career Is Not Math as a Pursuit](../../posts/math-as-a-career-is-not-math-as-a-pursuit/)
+→ [作业与考试的倒置折射出替代效应 / The Homework–Exam Inversion Registers Substitution](../../posts/the-homework-exam-inversion-registers-substitution/) · [作为职业的数学不是作为追求的数学 / Math as a Career Is Not Math as a Pursuit](../../posts/math-as-a-career-is-not-math-as-a-pursuit/) · [一个提示词之遥 / Whatever Is One Prompt Away](../../posts/whatever-is-one-prompt-away/)
 
 ### 自否定的生成性根据 / Generative Ground of Self-Negation
 `哲学 / Philosophical`
@@ -3636,15 +3636,6 @@ Treating misalignment as an objective break is of use in pointing to consequence
 Substance metaphysics presumes isolated physical objects exist prior to relationships; objects are relatively stable relational nodes sustained across time by dynamic causal interactions.
 
 → [对象是被稳定化的关系 / Objects Are Stabilized Relationships](../../posts/objects-are-stabilized-relationships/)
-
-### 单次提示词壁垒幻觉 / One-Prompt Generation Fallacy
-`技术 / Technological`
-
-提示词文化假定掌握对话模板即可筑起持久壁垒；凡是一句简单提示就能调用的产出，都已失去长期的经济护城河。
-
-Prompt culture assumes mastering conversational templates creates lasting defensibility; whatever can be summoned with one generic prompt possesses zero sustainable economic moat.
-
-→ [Whatever Is One Prompt Away](../../posts/whatever-is-one-prompt-away/)
 
 ### 现实作为持续认知的显现 / Ongoing Realization of Reality
 `哲学 / Philosophical`

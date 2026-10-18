@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-18T17:24:12.755Z",
+    "generated_at": "2026-10-18T18:10:00.194Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -381,7 +381,7 @@
       "content/posts/what-hinton-failed-to-understand.md": "9d99ffa661dc",
       "content/posts/what-information-is.md": "7cd6825d3ad0",
       "content/posts/what-works-is-the-belief.md": "37b5d1183dd7",
-      "content/posts/whatever-is-one-prompt-away.md": "1f558b4ab069",
+      "content/posts/whatever-is-one-prompt-away.md": "71e278b0d349",
       "content/posts/when-abundance-looks-like-scarcity.md": "c3c272357465",
       "content/posts/when-electrons-think.md": "fbdd3178e8f3",
       "content/posts/when-malfunction-is-scored-as-intelligence.md": "ded5efb3c37b",
@@ -405,7 +405,7 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "f69ff208c9db",
       "content/book/economics.md": "5f09ac3fbf19",
-      "content/book/index-of-premises.md": "214a6b47b2dc",
+      "content/book/index-of-premises.md": "81a1a347044c",
       "content/book/intelligence.md": "183aac2f9bc8",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -417,11 +417,11 @@
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "efa5ab90eae2",
       "content/book/success-and-the-self.md": "2a59654ea696",
-      "content/book/tools-and-progress.md": "fb69203f8f75"
+      "content/book/tools-and-progress.md": "c2d1c842f86a"
     },
     "stats": {
       "posts": 394,
-      "edges": 7724,
+      "edges": 7744,
       "unique_directed": 4561,
       "missing_targets": 0,
       "one_way": 147,
@@ -9421,8 +9421,8 @@
       "kind": "post",
       "slug": "whatever-is-one-prompt-away",
       "path": "content/posts/whatever-is-one-prompt-away.md",
-      "title": "Whatever Is One Prompt Away",
-      "hash": "1f558b4ab069",
+      "title": "一个提示词之遥 / Whatever Is One Prompt Away",
+      "hash": "71e278b0d349",
       "in_degree": 20,
       "out_degree": 20,
       "links_out": [
@@ -9431,7 +9431,6 @@
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
         "closed-reality-in-benchmark-maxing",
         "why-mathematics-can-never-be-solved",
-        "the-homework-exam-inversion-registers-substitution",
         "empowerment-establishes-the-centralization-of-power",
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
@@ -9439,13 +9438,14 @@
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "the-flywheel-of-the-mind",
         "self-rl-for-humans",
+        "the-homework-exam-inversion-registers-substitution",
         "the-meaning-of-life-is-in-the-drafting",
         "production-consumption-and-the-minds-distinction",
-        "clarity-isnt-a-state-you-arrive-at",
+        "abstraction-boundaries-and-the-moving-edge-of-reality",
         "the-scaffolding-that-keeps-growing",
         "residual-control-recedes-to-the-edge",
         "the-illusion-of-free-intelligence",
-        "abstraction-boundaries-and-the-moving-edge-of-reality"
+        "clarity-isnt-a-state-you-arrive-at"
       ]
     },
     {
@@ -54078,121 +54078,241 @@
       "from": "whatever-is-one-prompt-away",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
-      "label": "the path drawn one step at a time"
+      "label": "一步一步绘制出的路径"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "The Path Drawn One Step at a Time"
     },
     {
       "from": "whatever-is-one-prompt-away",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "The scaffolding we forget"
+      "label": "遗忘的脚手架"
     },
     {
       "from": "whatever-is-one-prompt-away",
       "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "rel": "points_to",
-      "label": "The real scarcity is not memory, but continuous re-tracing"
+      "label": "真正稀缺的不是记忆，而是持续的重新追溯"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "rel": "points_to",
+      "label": "The Real Scarcity Is Not Memory, But Continuous Re-Tracing"
     },
     {
       "from": "whatever-is-one-prompt-away",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "closed reality in benchmark maxing"
+      "label": "基准刷榜中的封闭实存"
     },
     {
       "from": "whatever-is-one-prompt-away",
       "to": "why-mathematics-can-never-be-solved",
       "rel": "points_to",
-      "label": "why mathematics can never be solved"
+      "label": "为何数学永远解不完"
     },
     {
       "from": "whatever-is-one-prompt-away",
-      "to": "the-homework-exam-inversion-registers-substitution",
+      "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "The homework–exam inversion registers substitution"
+      "label": "Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "Why Mathematics Can Never Be Solved"
     },
     {
       "from": "whatever-is-one-prompt-away",
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
-      "label": "Empowerment establishes the centralization of power"
+      "label": "赋权确立权力的集中"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "empowerment-establishes-the-centralization-of-power",
+      "rel": "points_to",
+      "label": "Empowerment Establishes the Centralization of Power"
     },
     {
       "from": "whatever-is-one-prompt-away",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "没有系统能被保持封闭"
     },
     {
       "from": "whatever-is-one-prompt-away",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
     },
     {
       "from": "whatever-is-one-prompt-away",
       "to": "closed-assumptions-squeeze-compounding-into-s-curves",
       "rel": "points_to",
-      "label": "Closed assumptions squeeze compounding into S-curves"
+      "label": "封闭的假设把复利挤成 S 曲线"
     },
     {
       "from": "whatever-is-one-prompt-away",
       "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "rel": "points_to",
-      "label": "Curiosity First: The Hidden Engine of Talent and Development"
+      "label": "好奇先行"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "rel": "points_to",
+      "label": "Closed Assumptions Squeeze Compounding into S-Curves"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "rel": "points_to",
+      "label": "Curiosity First"
     },
     {
       "from": "whatever-is-one-prompt-away",
       "to": "the-flywheel-of-the-mind",
       "rel": "points_to",
-      "label": "the flywheel of the Mind"
+      "label": "心智的飞轮"
     },
     {
       "from": "whatever-is-one-prompt-away",
       "to": "self-rl-for-humans",
       "rel": "points_to",
-      "label": "Self-RL for humans"
+      "label": "看似AI的强化学习，实为人类的自我强化学习"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "the-flywheel-of-the-mind",
+      "rel": "points_to",
+      "label": "The Flywheel of the Mind"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "What Looks Like RL for AIs Is Self-RL for Humans"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "the-homework-exam-inversion-registers-substitution",
+      "rel": "points_to",
+      "label": "作业与考试的倒置折射出替代效应"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "the-homework-exam-inversion-registers-substitution",
+      "rel": "points_to",
+      "label": "The Homework–Exam Inversion Registers Substitution"
     },
     {
       "from": "whatever-is-one-prompt-away",
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
-      "label": "The meaning of life is in the drafting"
+      "label": "生命的意义在起草之中"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "the-meaning-of-life-is-in-the-drafting",
+      "rel": "points_to",
+      "label": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing"
     },
     {
       "from": "whatever-is-one-prompt-away",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, consumption, and the Mind’s distinction"
+      "label": "生产、消费与心智的区分"
     },
     {
       "from": "whatever-is-one-prompt-away",
-      "to": "clarity-isnt-a-state-you-arrive-at",
+      "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Clarity isn’t a state you arrive at"
-    },
-    {
-      "from": "whatever-is-one-prompt-away",
-      "to": "the-scaffolding-that-keeps-growing",
-      "rel": "points_to",
-      "label": "The scaffolding that keeps growing"
-    },
-    {
-      "from": "whatever-is-one-prompt-away",
-      "to": "residual-control-recedes-to-the-edge",
-      "rel": "points_to",
-      "label": "Residual control recedes to the edge"
-    },
-    {
-      "from": "whatever-is-one-prompt-away",
-      "to": "the-illusion-of-free-intelligence",
-      "rel": "points_to",
-      "label": "The illusion of free intelligence"
+      "label": "Production, Consumption, and the Mind’s Distinction"
     },
     {
       "from": "whatever-is-one-prompt-away",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, boundaries, and the moving edge of reality"
+      "label": "抽象、边界与现实的移动边缘"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "持续生长的脚手架"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "residual-control-recedes-to-the-edge",
+      "rel": "points_to",
+      "label": "要紧的控制迁往边缘"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "the-illusion-of-free-intelligence",
+      "rel": "points_to",
+      "label": "免费智能的幻觉"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "清晰不是抵达的终点，而是运动本身"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "rel": "points_to",
+      "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The Scaffolding That Keeps Growing"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "residual-control-recedes-to-the-edge",
+      "rel": "points_to",
+      "label": "Essential Control Moves to the Edge"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "the-illusion-of-free-intelligence",
+      "rel": "points_to",
+      "label": "The Illusion of Free Intelligence"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
     },
     {
       "from": "when-abundance-looks-like-scarcity",
@@ -56270,7 +56390,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "214a6b47b2dc",
+        "hash": "81a1a347044c",
         "out_degree": 394
       },
       {
@@ -56378,7 +56498,7 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "fb69203f8f75",
+        "hash": "c2d1c842f86a",
         "out_degree": 32
       }
     ],
@@ -59355,6 +59475,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "whatever-is-one-prompt-away",
+        "rel": "collects",
+        "label": "一个提示词之遥 / Whatever Is One Prompt Away"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "not-a-toe-rewrite",
         "rel": "collects",
         "label": "Not a ToE - Retraced"
@@ -59922,12 +60048,6 @@
         "to": "objects-are-stabilized-relationships",
         "rel": "collects",
         "label": "对象是被稳定化的关系 / Objects Are Stabilized Relationships"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "whatever-is-one-prompt-away",
-        "rel": "collects",
-        "label": "Whatever Is One Prompt Away"
       },
       {
         "from": "book:index-of-premises",
@@ -62795,7 +62915,7 @@
         "from": "book:tools-and-progress",
         "to": "whatever-is-one-prompt-away",
         "rel": "collects",
-        "label": "Whatever Is One Prompt Away"
+        "label": "一个提示词之遥 / Whatever Is One Prompt Away"
       },
       {
         "from": "book:tools-and-progress",
