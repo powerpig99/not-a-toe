@@ -1127,11 +1127,11 @@ Distilling formulas and principles from the successful after the fact is of use 
 ### 功能性社会层级论 / Functional Social Hierarchy
 `哲学 / Philosophical`
 
-均质化教条将一切社会层级均斥为压迫；现实中功能分工是不同个体能力与专注度差异在面对协作挑战时的自然沉淀。
+功能性的层级论预设，位次是能力差异遇上共同任务时沉淀下来的，它在解释差异如何在一种共同要求之下排成位置时有用；它在此到了边界：秩序属于许多人共同持有的那把尺，尺一换，秩序就换，它既不是从外部加在差异上的结构，也不是从外部落到一个较低位置上的原因。
 
-Egalitarian dogma treats all organizational hierarchies as predatory impositions; functional differentiation precipitates naturally as varying individual talents align with task demands.
+Functional hierarchy presumes that rank precipitates from differences in capacity meeting shared tasks, which is of use in explaining how difference orders into places under a common demand; it reaches its boundary in that the order belongs to the measure many hold in common and changes when the measure does, and it is neither a structure laid on difference from outside nor a cause arriving at a lower place from outside.
 
-→ [Hierarchy from Individual Difference](../../posts/hierarchy-from-individual-difference/)
+→ [来自个体差异的层级 / Hierarchy from Individual Difference](../../posts/hierarchy-from-individual-difference/)
 
 ### 心灵哲学功能主义 / Functionalism (Philosophy of Mind)
 `哲学 / Philosophical`
