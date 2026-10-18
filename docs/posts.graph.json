@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-18T00:22:01.622Z",
+    "generated_at": "2026-10-18T01:04:54.896Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -386,7 +386,7 @@
       "content/posts/when-electrons-think.md": "fbdd3178e8f3",
       "content/posts/when-malfunction-is-scored-as-intelligence.md": "ded5efb3c37b",
       "content/posts/when-need-stops-being-the-measure.md": "a4f550ad30d1",
-      "content/posts/when-observation-becomes-performance.md": "e505232d52ad",
+      "content/posts/when-observation-becomes-performance.md": "a406647c250a",
       "content/posts/when-the-effect-authors-the-frame.md": "42fba9798842",
       "content/posts/why-explanation-fails.md": "4bd98e24db9a",
       "content/posts/why-mathematics-can-never-be-solved.md": "fe8cd131b75d",
@@ -405,7 +405,7 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "745cd9146e81",
       "content/book/economics.md": "e488107cbd4f",
-      "content/book/index-of-premises.md": "f1434b4753ef",
+      "content/book/index-of-premises.md": "398db2d43b87",
       "content/book/intelligence.md": "9528af4528a9",
       "content/book/knowledge-and-learning.md": "8c2cce815605",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -416,12 +416,12 @@
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "e1080f2fc98f",
-      "content/book/success-and-the-self.md": "24179a1b74d7",
+      "content/book/success-and-the-self.md": "2a59654ea696",
       "content/book/tools-and-progress.md": "2db21b3550ba"
     },
     "stats": {
       "posts": 394,
-      "edges": 7403,
+      "edges": 7419,
       "unique_directed": 4560,
       "missing_targets": 0,
       "one_way": 148,
@@ -9520,8 +9520,8 @@
       "kind": "post",
       "slug": "when-observation-becomes-performance",
       "path": "content/posts/when-observation-becomes-performance.md",
-      "title": "When Observation Becomes Performance",
-      "hash": "e505232d52ad",
+      "title": "当观察变成表演 / When Observation Becomes Performance",
+      "hash": "a406647c250a",
       "in_degree": 16,
       "out_degree": 16,
       "links_out": [
@@ -9535,11 +9535,11 @@
         "writing-without-the-image",
         "performative-hindsight-that-pretends-to-be-foresight",
         "clarity-isnt-a-state-you-arrive-at",
-        "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
         "expertise-as-reference-not-replacement",
+        "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
         "the-reversal-from-defensible-claim-to-dogma",
-        "the-source-of-shared-change",
         "cheng-gong-xue",
+        "the-source-of-shared-change",
         "manifesto-of-not-a-theory-of-everything"
       ]
     },
@@ -52535,25 +52535,55 @@
       "from": "when-observation-becomes-performance",
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
-      "label": "The meaning of life is in the drafting"
+      "label": "生命的意义在起草之中"
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "the-meaning-of-life-is-in-the-drafting",
+      "rel": "points_to",
+      "label": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing"
     },
     {
       "from": "when-observation-becomes-performance",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "No Universal Salvation, Only Self-Deliverance"
+      "label": "没有普渡，只有自渡的无限可能"
     },
     {
       "from": "when-observation-becomes-performance",
       "to": "the-paradoxical-nature-of-bystander-insights",
       "rel": "points_to",
-      "label": "The paradoxical nature of bystander insights"
+      "label": "旁观者洞察的悖论"
     },
     {
       "from": "when-observation-becomes-performance",
       "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
-      "label": "Liberation rhetoric begins by defining captivity"
+      "label": "解放的言辞始于定义囚禁"
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "the-mark-and-the-act",
+      "rel": "points_to",
+      "label": "印迹与行动"
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "the-paradoxical-nature-of-bystander-insights",
+      "rel": "points_to",
+      "label": "The Paradoxical Nature of Bystander Insights"
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "Liberation Rhetoric Begins by Defining Captivity"
     },
     {
       "from": "when-observation-becomes-performance",
@@ -52565,61 +52595,127 @@
       "from": "when-observation-becomes-performance",
       "to": "rationality-never-travels-across-the-mind",
       "rel": "points_to",
-      "label": "Rationality never travels across the Mind"
+      "label": "理性从不跨越心智"
     },
     {
       "from": "when-observation-becomes-performance",
       "to": "two-failures-of-trace",
       "rel": "points_to",
-      "label": "artifacts as expressions of intelligence, not intelligence itself"
+      "label": "器物是智能的表达，而非智能本身"
     },
     {
       "from": "when-observation-becomes-performance",
       "to": "writing-without-the-image",
       "rel": "points_to",
-      "label": "Writing without the image"
+      "label": "无形象的写作"
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "rationality-never-travels-across-the-mind",
+      "rel": "points_to",
+      "label": "Rationality Never Travels Across the Mind"
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself"
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "writing-without-the-image",
+      "rel": "points_to",
+      "label": "Writing Without the Image"
     },
     {
       "from": "when-observation-becomes-performance",
       "to": "performative-hindsight-that-pretends-to-be-foresight",
       "rel": "points_to",
-      "label": "Performative hindsight that pretends to be foresight"
+      "label": "伪装成远见的表演性后见"
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "Performative Hindsight That Pretends to Be Foresight"
     },
     {
       "from": "when-observation-becomes-performance",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
-      "label": "Clarity isn’t a state you arrive at"
-    },
-    {
-      "from": "when-observation-becomes-performance",
-      "to": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
-      "rel": "points_to",
-      "label": "Stopping at Judgment: The Stray Path of Cognition"
+      "label": "清晰不是抵达的终点，而是运动本身"
     },
     {
       "from": "when-observation-becomes-performance",
       "to": "expertise-as-reference-not-replacement",
       "rel": "points_to",
-      "label": "Expertise as reference, not replacement"
+      "label": "专家经验作为参考而非替代"
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+      "rel": "points_to",
+      "label": "止步于评判，是认知的歧途"
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "Expertise as Reference, Not Replacement"
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+      "rel": "points_to",
+      "label": "Stopping at Judgment Is a Wrong Turn of Cognition"
     },
     {
       "from": "when-observation-becomes-performance",
       "to": "the-reversal-from-defensible-claim-to-dogma",
       "rel": "points_to",
-      "label": "The reversal from defensible claim to dogma"
+      "label": "从可辩护的主张到教条的反转"
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
+      "label": "成功学"
     },
     {
       "from": "when-observation-becomes-performance",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
-      "label": "The source of shared change"
+      "label": "共同改变的本源"
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "manifesto-of-not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "非万物之理"
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "the-reversal-from-defensible-claim-to-dogma",
+      "rel": "points_to",
+      "label": "The Reversal from Defensible Claim to Dogma"
     },
     {
       "from": "when-observation-becomes-performance",
       "to": "cheng-gong-xue",
       "rel": "points_to",
       "label": "Theories After Success"
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "The Source of Shared Change"
     },
     {
       "from": "when-observation-becomes-performance",
@@ -54343,7 +54439,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "f1434b4753ef",
+        "hash": "398db2d43b87",
         "out_degree": 394
       },
       {
@@ -54442,7 +54538,7 @@
         "slug": "success-and-the-self",
         "path": "content/book/success-and-the-self.md",
         "title": "成功学公式与自我重塑 / The Formula of Success and Self-Reconstruction",
-        "hash": "24179a1b74d7",
+        "hash": "2a59654ea696",
         "out_degree": 33
       },
       {
@@ -58078,7 +58174,7 @@
         "from": "book:index-of-premises",
         "to": "when-observation-becomes-performance",
         "rel": "collects",
-        "label": "When Observation Becomes Performance"
+        "label": "当观察变成表演 / When Observation Becomes Performance"
       },
       {
         "from": "book:index-of-premises",
@@ -60610,7 +60706,7 @@
         "from": "book:success-and-the-self",
         "to": "when-observation-becomes-performance",
         "rel": "collects",
-        "label": "When Observation Becomes Performance"
+        "label": "当观察变成表演 / When Observation Becomes Performance"
       },
       {
         "from": "book:success-and-the-self",

@@ -3826,14 +3826,14 @@ Claims conscious agency is an illusion determined by non-conscious chemistry; us
 
 → [自由意志的自否自由 / The Freedom of Will to Deny Itself](../../posts/the-freedom-of-will-to-deny-itself/)
 
-### 表演式自我量化 / Performative Self-Quantification
+### 表演式自我呈现 / Performative Self-Presentation
 `成功学 / Self-Help`
 
-自我量化预设记录打卡即可保持自律；一旦将私人记录公之于众，诚实的内省便容易异化为迎合看客的情绪表演。
+表演式的自我呈现预设，把私下的校准公开为一条公式或一份记录，就能把它的力量传给他人，它在留下可供他人拿起的残余时有用；它在此到了边界：校准只在第一人称发生，传过去的只有接收者在自身约束之下重建的残余，而把校准摆成已获得的美德，既把它保存过了它的那一步，也什么都没有传递。
 
-Self-help tracking assumes recording daily habits objectively improves discipline; broadcasting metrics converts private self-awareness into social theater, corrupting integrity.
+Performative self-presentation presumes that making a private calibration public, as a formula or a record, carries its force to others, which is of use in leaving residue others can take up; it reaches its boundary in that calibration happens only in the first person, what travels is residue the receiver rebuilds under its own constraints, and staging the calibration as attained virtue both preserves it past its step and transfers nothing.
 
-→ [When Observation Becomes Performance](../../posts/when-observation-becomes-performance/)
+→ [当观察变成表演 / When Observation Becomes Performance](../../posts/when-observation-becomes-performance/)
 
 ### 哲学能动性的因果倒错 / Philosophical Inversion of Agency
 `哲学 / Philosophical`
