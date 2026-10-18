@@ -22,7 +22,7 @@ The essays here examine the cruelty of utopian visions, the machinery of war, an
 - [What Works Is the Belief](../../posts/what-works-is-the-belief/)
 - [The Coordinator’s Category Error](../../posts/the-coordinators-category-error/)
 - [Open Vision in a Closed Arena](../../posts/open-vision-in-a-closed-arena/)
-- [The Risk Is the Belief in Oversight Itself](../../posts/the-risk-is-the-belief-in-oversight-itself/)
+- [风险在于对监管本身的迷信 / The Risk Is the Belief in Oversight Itself](../../posts/the-risk-is-the-belief-in-oversight-itself/)
 - [来自个体差异的层级 / Hierarchy from Individual Difference](../../posts/hierarchy-from-individual-difference/)
 - [共同改变的本源 / The Source of Shared Change](../../posts/the-source-of-shared-change/)
 - [限制是选择性的税 / Restriction Is a Selective Tax](../../posts/restriction-is-a-selective-tax/)

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-18T09:32:23.958Z",
+    "generated_at": "2026-10-18T10:21:47.915Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -332,7 +332,7 @@
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "e985de3894e5",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "7940d13c303b",
       "content/posts/the-reversal-of-education-and-science.md": "d9695fb75dbc",
-      "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "bad6dded7e53",
+      "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "2d09f85512fb",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "e4da611b6c1d",
       "content/posts/the-scaffolding-that-keeps-growing.md": "e1c61ea74805",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "96bcbd7b1d66",
@@ -405,7 +405,7 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "f69ff208c9db",
       "content/book/economics.md": "e488107cbd4f",
-      "content/book/index-of-premises.md": "5d6f61ae83e1",
+      "content/book/index-of-premises.md": "e3de2dc55a06",
       "content/book/intelligence.md": "2de88c6c06f0",
       "content/book/knowledge-and-learning.md": "9d59b725338c",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -415,13 +415,13 @@
       "content/book/morality.md": "e521d5811053",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
-      "content/book/state-and-collective.md": "66cecff20d0c",
+      "content/book/state-and-collective.md": "15238f5079bd",
       "content/book/success-and-the-self.md": "2a59654ea696",
       "content/book/tools-and-progress.md": "bd64642f15de"
     },
     "stats": {
       "posts": 394,
-      "edges": 7572,
+      "edges": 7593,
       "unique_directed": 4560,
       "missing_targets": 0,
       "one_way": 148,
@@ -8276,12 +8276,11 @@
       "kind": "post",
       "slug": "the-risk-is-the-belief-in-oversight-itself",
       "path": "content/posts/the-risk-is-the-belief-in-oversight-itself.md",
-      "title": "The Risk Is the Belief in Oversight Itself",
-      "hash": "bad6dded7e53",
+      "title": "风险在于对监管本身的迷信 / The Risk Is the Belief in Oversight Itself",
+      "hash": "2d09f85512fb",
       "in_degree": 20,
       "out_degree": 21,
       "links_out": [
-        "the-observational-cut-in-ai-debates",
         "closed-reality-in-benchmark-maxing",
         "intelligence-belongs-only-to-the-mind",
         "escaping-the-sandbox-stays-inside-the-hold",
@@ -8293,13 +8292,14 @@
         "sowell-observed-the-surface-problem",
         "externalized-virtue-becomes-its-opposite",
         "the-source-of-all-harm",
-        "openness-is-consistency",
         "e-shi-feng-bi-de-shan",
+        "openness-is-consistency",
         "the-question-that-installs-the-war",
         "agi-and-asi-are-temporary-goalposts",
         "the-reality-distortion-field-names-the-closed-map",
         "the-price-of-closing-optionality",
         "the-imagining-of-ai-risk",
+        "the-observational-cut-in-ai-debates",
         "the-belief-in-utopia-is-the-path-to-dystopia",
         "the-real-lesson-from-the-consciousness-vector-paper"
       ]
@@ -47295,129 +47295,255 @@
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
-      "to": "the-observational-cut-in-ai-debates",
+      "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "The observational cut in AI debates"
+      "label": "基准刷榜中的封闭实存"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "Closed reality in benchmark maxing"
+      "label": "Closed Reality in Benchmark Maxing"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence belongs only to the Mind"
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to The Mind"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
       "to": "escaping-the-sandbox-stays-inside-the-hold",
       "rel": "points_to",
-      "label": "Escaping the sandbox stays inside the hold"
+      "label": "逃出沙箱仍在持握之内"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "escaping-the-sandbox-stays-inside-the-hold",
+      "rel": "points_to",
+      "label": "Escaping the Sandbox Stays Inside the Hold"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
-      "label": "Mistaking the expression for the intelligence"
+      "label": "错把表达当成智能"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the Expression for the Intelligence"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
       "to": "what-works-is-the-belief",
       "rel": "points_to",
-      "label": "What works is the belief"
+      "label": "起作用的是信念"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
       "to": "restriction-is-a-selective-tax",
       "rel": "points_to",
-      "label": "Restriction is a selective tax"
+      "label": "限制是选择性的税"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
-      "label": "Sovereignty, belief, and the generation of regulatory structures"
+      "label": "主权、信念与规制结构的生成"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "What Works Is the Belief"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "Restriction Is a Selective Tax"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
       "to": "sowell-observed-the-surface-problem",
       "rel": "points_to",
-      "label": "Sowell observed the surface problem"
+      "label": "索维尔的表象洞察与根因之偏"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
-      "label": "Externalized virtue becomes its opposite"
+      "label": "外化善意走向其反面"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
       "to": "the-source-of-all-harm",
       "rel": "points_to",
-      "label": "The source of all harm"
-    },
-    {
-      "from": "the-risk-is-the-belief-in-oversight-itself",
-      "to": "openness-is-consistency",
-      "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "一切伤害的根源"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
       "to": "e-shi-feng-bi-de-shan",
       "rel": "points_to",
-      "label": "Evil as Dogmatized Good"
+      "label": "恶是封闭的善"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "sowell-observed-the-surface-problem",
+      "rel": "points_to",
+      "label": "Sowell Observed the Surface Problem"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized Virtue Becomes Its Opposite"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "the-source-of-all-harm",
+      "rel": "points_to",
+      "label": "The Source of All Harm"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "e-shi-feng-bi-de-shan",
+      "rel": "points_to",
+      "label": "Evil Is Closed Good"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
       "to": "the-question-that-installs-the-war",
       "rel": "points_to",
-      "label": "The question that installs the war"
+      "label": "安装战争的那个问题"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "the-question-that-installs-the-war",
+      "rel": "points_to",
+      "label": "The Question That Installs the War"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI are temporary goalposts"
+      "label": "AGI 与 ASI 是加速通用智能的暂时球门"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
       "to": "the-reality-distortion-field-names-the-closed-map",
       "rel": "points_to",
-      "label": "The reality distortion field names the closed map"
+      "label": "现实扭曲力场指认的是封闭的地图"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
       "to": "the-price-of-closing-optionality",
       "rel": "points_to",
-      "label": "The price of closing optionality"
+      "label": "关闭选择权的代价"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
       "to": "the-imagining-of-ai-risk",
       "rel": "points_to",
-      "label": "The imagining of AI risk"
+      "label": "对 AI 风险的想象"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "the-observational-cut-in-ai-debates",
+      "rel": "points_to",
+      "label": "AI 争论中的观察划界"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
       "to": "the-belief-in-utopia-is-the-path-to-dystopia",
       "rel": "points_to",
-      "label": "The belief in utopia is the path to dystopia"
+      "label": "对乌托邦的信念是通往反乌托邦之路"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
       "to": "the-real-lesson-from-the-consciousness-vector-paper",
       "rel": "points_to",
-      "label": "The real lesson from the consciousness vector paper"
+      "label": "意识向量论文的真正教训"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "the-reality-distortion-field-names-the-closed-map",
+      "rel": "points_to",
+      "label": "The Reality Distortion Field Names the Closed Map"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "the-price-of-closing-optionality",
+      "rel": "points_to",
+      "label": "The Price of Closing Optionality"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "the-imagining-of-ai-risk",
+      "rel": "points_to",
+      "label": "The Imagining of AI Risk"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "the-observational-cut-in-ai-debates",
+      "rel": "points_to",
+      "label": "The Observational Cut in AI Debates"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "rel": "points_to",
+      "label": "The Belief in Utopia Is the Path to Dystopia"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "the-real-lesson-from-the-consciousness-vector-paper",
+      "rel": "points_to",
+      "label": "The Real Lesson from the Consciousness Vector Paper"
     },
     {
       "from": "the-risk-you-delegate-is-the-risk-you-create",
@@ -55357,7 +55483,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "5d6f61ae83e1",
+        "hash": "e3de2dc55a06",
         "out_degree": 394
       },
       {
@@ -55447,7 +55573,7 @@
         "slug": "state-and-collective",
         "path": "content/book/state-and-collective.md",
         "title": "国家集体与权力的镜像 / The State, Collectives, and the Mirror of Power",
-        "hash": "66cecff20d0c",
+        "hash": "15238f5079bd",
         "out_degree": 30
       },
       {
@@ -59644,7 +59770,7 @@
         "from": "book:index-of-premises",
         "to": "the-risk-is-the-belief-in-oversight-itself",
         "rel": "collects",
-        "label": "The Risk Is the Belief in Oversight Itself"
+        "label": "风险在于对监管本身的迷信 / The Risk Is the Belief in Oversight Itself"
       },
       {
         "from": "book:index-of-premises",
@@ -61474,7 +61600,7 @@
         "from": "book:state-and-collective",
         "to": "the-risk-is-the-belief-in-oversight-itself",
         "rel": "collects",
-        "label": "The Risk Is the Belief in Oversight Itself"
+        "label": "风险在于对监管本身的迷信 / The Risk Is the Belief in Oversight Itself"
       },
       {
         "from": "book:state-and-collective",

@@ -4513,11 +4513,11 @@ The thesis assumes that the more a language is polished the more reliably it car
 ### 监管把关万能幻觉 / Supervisory Oversight Fallacy
 `意识形态 / Ideological`
 
-安全官僚制假定外部监管能确保系统万无一失；将警觉托付给审核委员会容易滋生懈怠，反而埋下脆弱隐患。
+预设以当下的威胁模型、基准与偏好数据为前提的监管能预先阻止未来的风险；在共同测试条件下测量并校正模型之间相似的错误，这些工具有用，但相关的错误是共同先验与共同证据之下的残余，不是架构的固定属性，一旦当下的监管前提被当作可能发生之事的边界、免于重新追溯，校正得越密，框架的不足就越登记不出来。
 
-Safety bureaucracy assumes external oversight guarantees systemic reliability; delegating vigilance to monitoring boards creates complacency, fostering fragile points of failure.
+Presumes that oversight built on present threat models, benchmarks and preference data can preempt future risk; its instruments are of use in measuring and correcting similar mistakes across models under shared test conditions, but correlated mistakes are residue of shared priors and shared evidence, not a fixed property of the architecture, and once present supervisory premises are taken as the boundary of what can occur and exempted from re-tracing, the denser the correction, the less the frame's inadequacy registers.
 
-→ [The Risk Is the Belief in Oversight Itself](../../posts/the-risk-is-the-belief-in-oversight-itself/)
+→ [风险在于对监管本身的迷信 / The Risk Is the Belief in Oversight Itself](../../posts/the-risk-is-the-belief-in-oversight-itself/)
 
 ### 承担后果的受力面积 / Surface Area for Consequence
 `技术 / Technological`
