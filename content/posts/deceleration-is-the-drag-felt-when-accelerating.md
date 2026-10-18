@@ -118,9 +118,9 @@ In physical systems, aerodynamic drag is resolved not by shouting at the atmosph
 2. **Incentives realign:** stakeholders who at first registered only disruption and friction begin to benefit from the new baseline of productivity.
 3. **Speed itself brings obsolescence:** operating in the faster state leaves earlier institutional objections without an object before the debates conclude.
 
-把减速稳定为长期的敌人，就短路了这条演化式的消散。它把双方锁进一场冻结的围城：挑战者要求无条件投降，介质则筑起更厚的防波堤。[持续生长的脚手架](../the-scaffolding-that-keeps-growing/)就是那次制度性的冻结：为管理摩擦而设的监督机制不断增殖，直到脚手架比它要支撑的结构还重。
+把减速稳定为长期的敌人，就短路了这条演化式的消散。它把双方锁进一场冻结的围城：挑战者要求无条件投降，介质则筑起更厚的防波堤。[持续生长的脚手架](../the-scaffolding-that-keeps-growing/)追溯这场围城之下的冻结：当前结构被保存的形象被持守为完成的，而结构本身仍在生长。
 
-Stabilizing deceleration into a permanent enemy short-circuits this evolutionary dissolution. It locks both sides into a frozen siege in which the challenger demands unconditional surrender and the medium builds thicker breakwaters. [The scaffolding that keeps growing](../the-scaffolding-that-keeps-growing/) is that institutional freeze: oversight mechanisms multiply to manage the friction until the scaffolding weighs more than the structure it was raised to support.
+Stabilizing deceleration into a permanent enemy short-circuits this evolutionary dissolution. It locks both sides into a frozen siege in which the challenger demands unconditional surrender and the medium builds thicker breakwaters. [The scaffolding that keeps growing](../the-scaffolding-that-keeps-growing/) traces the freeze beneath that siege: the preserved image of a current structure held as finished, while the structure itself keeps growing.
 
 ## 四、 阻力作为诊断的反馈 / 4. Resistance as Diagnostic Feedback
 

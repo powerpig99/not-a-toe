@@ -16,9 +16,9 @@ Common talk habitually breaks freedom into a hierarchy of developmental hurdles.
 
 In this familiar taxonomy, one must first reach "financial freedom" to unlock the capacity to choose; then "spiritual freedom" to see why one chooses; and finally "existential freedom" to face the inevitability of loss and death. Offered as a map of self-transcendence, it quietly manufactures an artificial distance between the individual and their own sovereignty. It installs an outside ledger of prerequisites, implying that freedom is a future reward reserved for those who have cleared the lower tiers.
 
-[超越的定相](../the-fixed-image-of-transcendence/)抓住的正是这个陷阱：把超越当作阶梯上一个遥远的里程碑，会把活着的行动者冻成一个永远的寻求者，把对抵达的表征错认作脚下的地基。[持续生长的脚手架](../the-scaffolding-that-keeps-growing/)追踪的是同一个结构上的错误：每当一个中间条件被加冕为自主的前提，管理性的脚手架就扩张一次，对能动性的承认就被无限期地推后。
+[超越的定相](../the-fixed-image-of-transcendence/)抓住的正是这个陷阱：把超越当作阶梯上一个遥远的里程碑，会把活着的行动者冻成一个永远的寻求者，把对抵达的表征错认作脚下的地基。[持续生长的脚手架](../the-scaffolding-that-keeps-growing/)从结构一侧追溯同一个错误：从一个被持守为完成的框架退后一步去寻找敞开，而敞开是让每个框架保持未完成的那份持续。
 
-[The Fixed Image of Transcendence](../the-fixed-image-of-transcendence/) captures this trap: treating transcendence as a distant milestone on a ladder freezes the living agent into a perpetual seeker, taking the representation of arrival for the ground beneath one's feet. [The Scaffolding That Keeps Growing](../the-scaffolding-that-keeps-growing/) tracks the same structural error: each time an intermediate condition is crowned as a prerequisite for autonomy, the administrative scaffold expands and the recognition of agency is postponed indefinitely.
+[The Fixed Image of Transcendence](../the-fixed-image-of-transcendence/) captures this trap: treating transcendence as a distant milestone on a ladder freezes the living agent into a perpetual seeker, taking the representation of arrival for the ground beneath one's feet. [The Scaffolding That Keeps Growing](../the-scaffolding-that-keeps-growing/) traces the same error from the side of structure: openness sought by stepping back from a frame held as finished, while openness is the continuing that keeps every frame unfinished.
 
 把自由当作一个结果去寻求，就是否认了朝它迈出的每一步，已经在运用所寻求的那份自由。
 

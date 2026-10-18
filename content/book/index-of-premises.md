@@ -4249,15 +4249,6 @@ Instrumental models must drop out of active focus to enable higher-order action;
 
 → [The Scaffolding We Forget](../../posts/the-scaffolding-we-forget/)
 
-### 支架增生肥大症 / Scaffolding Hypertrophy
-`哲学 / Philosophical`
-
-体制官僚化假定解决复杂问题必须不断追加管理条规；累叠的代偿支架掩盖了深层断裂，反使核心行动陷入瘫痪。
-
-Systemic bureaucracy assumes complex problems always require adding regulatory layers; accumulating compensatory scaffolding masks underlying defects and paralyses core movement.
-
-→ [The Scaffolding That Keeps Growing](../../posts/the-scaffolding-that-keeps-growing/)
-
 ### 公共标量投影 / Scalar Metric Projection
 `数学 / Mathematical`
 
@@ -4841,7 +4832,7 @@ System-builders hold that an ontology can catalogue everything, itself included;
 
 The view from nowhere presumes a description can be given from a stand outside every observer, which is of use in setting aside one center's particular stakes to find what holds across many; it reaches its boundary in that every such description is still drawn by a situated Mind, a physical reading depends on an observer at a concrete point, and a voice that speaks as if from nowhere is one re-projection of the Self elevated past its step.
 
-→ [隐秘的上帝之眼 / The Invisible God's Eye](../../posts/the-invisible-gods-eye/) · [割点可移不可除 / The Cut Moves but Never Vanishes](../../posts/the-cut-moves-but-never-vanishes/) · [自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere](../../posts/self-image-speaks-as-if-from-nowhere/)
+→ [隐秘的上帝之眼 / The Invisible God's Eye](../../posts/the-invisible-gods-eye/) · [割点可移不可除 / The Cut Moves but Never Vanishes](../../posts/the-cut-moves-but-never-vanishes/) · [自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere](../../posts/self-image-speaks-as-if-from-nowhere/) · [持续生长的脚手架 / The Scaffolding That Keeps Growing](../../posts/the-scaffolding-that-keeps-growing/)
 
 ### 世界是幻觉 / The World as Illusion
 `哲学 / Philosophical`
