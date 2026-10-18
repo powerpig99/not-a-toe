@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-18T10:21:47.915Z",
+    "generated_at": "2026-10-18T10:57:36.133Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -188,7 +188,7 @@
       "content/posts/stability-and-excess.md": "d3380355ad84",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "909c9d0b7fac",
       "content/posts/subtracting-consciousness-at-the-source.md": "eb988c747e6b",
-      "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "2e63440fe8c1",
+      "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "6c83b39b6e3f",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "8def0ea22390",
       "content/posts/technology-is-residual-of-human-compounding.md": "c3e3b6d44dfb",
       "content/posts/the-allocation-of-causal-power-in-validation.md": "75fd0f9205d1",
@@ -338,7 +338,7 @@
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "96bcbd7b1d66",
       "content/posts/the-scaffolding-we-forget.md": "beb887aa35d7",
       "content/posts/the-scaling-loop.md": "d0b0e395ca2c",
-      "content/posts/the-self-portrait-in-the-projection.md": "f4a97eba16ff",
+      "content/posts/the-self-portrait-in-the-projection.md": "0e75cd1a6cf2",
       "content/posts/the-shadow-and-the-infinite.md": "f857f118c0ae",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "c492db6aa503",
       "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "21721c0327cd",
@@ -405,14 +405,14 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "f69ff208c9db",
       "content/book/economics.md": "e488107cbd4f",
-      "content/book/index-of-premises.md": "e3de2dc55a06",
+      "content/book/index-of-premises.md": "4c4027df5379",
       "content/book/intelligence.md": "2de88c6c06f0",
       "content/book/knowledge-and-learning.md": "9d59b725338c",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "da0f22846972",
       "content/book/meaning-and-transcendence.md": "c1d2a4521033",
       "content/book/method.md": "4011489671aa",
-      "content/book/morality.md": "e521d5811053",
+      "content/book/morality.md": "0024610ecad0",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "15238f5079bd",
@@ -421,10 +421,10 @@
     },
     "stats": {
       "posts": 394,
-      "edges": 7593,
-      "unique_directed": 4560,
+      "edges": 7603,
+      "unique_directed": 4561,
       "missing_targets": 0,
-      "one_way": 148,
+      "one_way": 147,
       "isolated": 35,
       "posts_with_outbound": 358,
       "book_pages": 16,
@@ -3203,7 +3203,7 @@
       "path": "content/posts/math-as-a-career-is-not-math-as-a-pursuit.md",
       "title": "作为职业的数学不是作为追求的数学 / Math as a Career Is Not Math as a Pursuit",
       "hash": "295f0ae6bd95",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 11,
       "links_out": [
         "why-mathematics-can-never-be-solved",
@@ -5040,13 +5040,14 @@
       "kind": "post",
       "slug": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "path": "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md",
-      "title": "Sympathy Is a Placeholder for Lack of Clarity",
-      "hash": "2e63440fe8c1",
+      "title": "同情是缺乏清晰时的占位符 / Sympathy Is a Placeholder for Lack of Clarity",
+      "hash": "6c83b39b6e3f",
       "in_degree": 9,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "mei-you-pu-du-zhi-you-zi-du",
         "the-npc-impression-is-structural",
+        "math-as-a-career-is-not-math-as-a-pursuit",
         "empathy-as-projection-collapse",
         "emotional-support-as-causal-interference",
         "therapy-opens-the-feedback-loop",
@@ -8476,7 +8477,7 @@
       "slug": "the-self-portrait-in-the-projection",
       "path": "content/posts/the-self-portrait-in-the-projection.md",
       "title": "投射中的自画像 / The Self-Portrait in the Projection",
-      "hash": "f4a97eba16ff",
+      "hash": "0e75cd1a6cf2",
       "in_degree": 8,
       "out_degree": 8,
       "links_out": [
@@ -31103,49 +31104,109 @@
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "No Universal Salvation, Only Self-Deliverance"
+      "label": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。"
     },
     {
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "to": "the-npc-impression-is-structural",
       "rel": "points_to",
-      "label": "The NPC impression is structural"
+      "label": "NPC 印象是结构性的"
+    },
+    {
+      "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
+    },
+    {
+      "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
+      "to": "the-npc-impression-is-structural",
+      "rel": "points_to",
+      "label": "The NPC Impression Is Structural, Not a Ranking of Minds"
+    },
+    {
+      "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
+      "to": "math-as-a-career-is-not-math-as-a-pursuit",
+      "rel": "points_to",
+      "label": "作为职业的数学不是作为追求的数学"
+    },
+    {
+      "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
+      "to": "math-as-a-career-is-not-math-as-a-pursuit",
+      "rel": "points_to",
+      "label": "Math as a Career Is Not Math as a Pursuit"
     },
     {
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "to": "empathy-as-projection-collapse",
       "rel": "points_to",
-      "label": "The word does the damage: empathy as projection collapse"
+      "label": "词语造成伤害：共情是投射的坍缩"
+    },
+    {
+      "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
+      "to": "empathy-as-projection-collapse",
+      "rel": "points_to",
+      "label": "The Word Does the Damage: Empathy as Projection Collapse"
     },
     {
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "to": "emotional-support-as-causal-interference",
       "rel": "points_to",
-      "label": "Emotional support as causal interference"
+      "label": "情感支持作为因果干扰"
     },
     {
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "to": "therapy-opens-the-feedback-loop",
       "rel": "points_to",
-      "label": "Therapy opens the feedback loop"
+      "label": "疗愈打开反馈回路"
     },
     {
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "to": "guidance-is-not-ownership",
       "rel": "points_to",
-      "label": "Guidance Is Not Ownership: Agency, Biological Determinism, and the Feedback Loop of Parental Control"
+      "label": "引导不是占有"
+    },
+    {
+      "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
+      "to": "emotional-support-as-causal-interference",
+      "rel": "points_to",
+      "label": "Emotional Support as Causal Interference"
+    },
+    {
+      "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
+      "to": "therapy-opens-the-feedback-loop",
+      "rel": "points_to",
+      "label": "Therapy Opens the Feedback Loop"
+    },
+    {
+      "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
+      "to": "guidance-is-not-ownership",
+      "rel": "points_to",
+      "label": "Guidance Is Not Ownership"
     },
     {
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
-      "label": "Clarity isn’t a state you arrive at"
+      "label": "清晰不是抵达的终点，而是运动本身"
     },
     {
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
-      "label": "Reality is the Mind’s ongoing realization"
+      "label": "现实是心智持续的实现"
+    },
+    {
+      "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
+    },
+    {
+      "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality Is the Mind's Ongoing Realization"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
@@ -48383,7 +48444,7 @@
       "from": "the-self-portrait-in-the-projection",
       "to": "empathy-as-projection-collapse",
       "rel": "points_to",
-      "label": "作为投影崩溃的共情"
+      "label": "词语造成伤害：共情是投射的坍缩"
     },
     {
       "from": "the-self-portrait-in-the-projection",
@@ -55483,7 +55544,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "e3de2dc55a06",
+        "hash": "4c4027df5379",
         "out_degree": 394
       },
       {
@@ -55546,7 +55607,7 @@
         "slug": "morality",
         "path": "content/book/morality.md",
         "title": "善恶界限与共情陷阱 / Moral Boundaries and the Empathy Trap",
-        "hash": "e521d5811053",
+        "hash": "0024610ecad0",
         "out_degree": 28
       },
       {
@@ -59788,7 +59849,7 @@
         "from": "book:index-of-premises",
         "to": "sympathy-is-a-placeholder-for-lack-of-clarity",
         "rel": "collects",
-        "label": "Sympathy Is a Placeholder for Lack of Clarity"
+        "label": "同情是缺乏清晰时的占位符 / Sympathy Is a Placeholder for Lack of Clarity"
       },
       {
         "from": "book:index-of-premises",
@@ -61282,7 +61343,7 @@
         "from": "book:morality",
         "to": "sympathy-is-a-placeholder-for-lack-of-clarity",
         "rel": "collects",
-        "label": "Sympathy Is a Placeholder for Lack of Clarity"
+        "label": "同情是缺乏清晰时的占位符 / Sympathy Is a Placeholder for Lack of Clarity"
       },
       {
         "from": "book:morality",

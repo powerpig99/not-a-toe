@@ -159,10 +159,6 @@
     "clarity-isnt-a-state-you-arrive-at": {
       "title_zh": "清晰不是抵达的终点，而是运动本身"
     },
-    "sympathy-is-a-placeholder-for-lack-of-clarity": {
-      "title_zh": "同情是缺乏清晰时的占位符",
-      "subtitle_zh": "对另一个中心的痕迹作进一步区分的努力停住时所登记的情感反应，留在近的这一侧，从不证明那道屏障已被越过。"
-    },
     "the-scaffolding-we-forget": {
       "title_zh": "遗忘的脚手架",
       "subtitle_zh": "脚手架从递归中退出，下一次区分才能落地；这次退出一旦冻结成被保存的意象，能力就压在曾经成全移动的残余上。"
@@ -294,6 +290,10 @@
     "open-vision-in-a-closed-arena": {
       "title_zh": "封闭竞技场中的开放视野",
       "subtitle_zh": "开放系统的认识能组织一家公司，却封不住仍在奖励圈占的激励之场。"
+    },
+    "empathy-as-projection-collapse": {
+      "title_zh": "词语造成伤害：共情是投射的坍缩",
+      "subtitle_zh": "“共情”一词把至少三种正交的操作压缩进一个词里，麻烦从这次压缩开始，不在任何人的品格里，而在词语本身的几何里。"
     }
   }
 }

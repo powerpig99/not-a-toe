@@ -4540,11 +4540,11 @@ Presumes symbolic ideological harm carries equivalent causal claim to physiologi
 ### 同情作为明晰缺失的占位符 / Sympathy as Clarity Placeholder
 `哲学 / Philosophical`
 
-温情伦理将同情心颂扬为美德顶峰；怜悯常流于被动的情绪宣泄，以情感自恋替代了看清问题根由所需的明晰。
+把同情当作德性的顶峰，预设被感到的同情就是与他人内心的接触；这份感受作为暂时的信号、标出尚未完成之事时有用，它的边界在于他人只以痕迹到来：观察者在进一步的区分停住之处生成的感受一旦被当作接触的证据，敞开的观察便压缩成一个安慰性的标签，而清晰是继续下去的区分。
 
-Sentimental ethics praises emotional sympathy as the peak of virtue; pity projects passive distress, substituting emotional indulgence for the clarity required to resolve causes.
+Treating sympathy as the summit of virtue presumes that felt sympathy is contact with another's interior; the feeling is of use as a provisional signal marking what remains unfinished, and reaches its boundary in that others arrive only as traces: once the feeling the observer generates where further distinguishing stalls is taken as evidence of contact, open observation compresses into one consoling label, while clarity is the distinguishing that continues.
 
-→ [Sympathy Is a Placeholder for Lack of Clarity](../../posts/sympathy-is-a-placeholder-for-lack-of-clarity/) · [作为职业的数学不是作为追求的数学 / Math as a Career Is Not Math as a Pursuit](../../posts/math-as-a-career-is-not-math-as-a-pursuit/)
+→ [同情是缺乏清晰时的占位符 / Sympathy Is a Placeholder for Lack of Clarity](../../posts/sympathy-is-a-placeholder-for-lack-of-clarity/) · [作为职业的数学不是作为追求的数学 / Math as a Career Is Not Math as a Pursuit](../../posts/math-as-a-career-is-not-math-as-a-pursuit/)
 
 ### 合成数据自我改进 / Synthetic Data Self-Improvement
 `技术 / Technological`
