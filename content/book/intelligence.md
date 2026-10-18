@@ -38,7 +38,7 @@ The essays in this part dissect Geoffrey Hinton's cognitive leaps, the limits of
 - [A Creation Cannot Replace Its Source](../../posts/a-creation-cannot-replace-its-source/)
 - [The Model Never Becomes a Second Edge](../../posts/the-model-never-becomes-a-second-edge/)
 - [Escaping the Sandbox Stays Inside the Hold](../../posts/escaping-the-sandbox-stays-inside-the-hold/)
-- [Mistaking the Expression for the Intelligence](../../posts/mistaking-the-expression-for-the-intelligence/)
+- [错把表达当成智能 / Mistaking the Expression for the Intelligence](../../posts/mistaking-the-expression-for-the-intelligence/)
 - [超越的定相 / The Fixed Image of Transcendence](../../posts/the-fixed-image-of-transcendence/)
 - [AGI的预设与来自外部的视角 / The Presumption of AGI and the View from Outside](../../posts/the-presumption-of-agi-and-the-view-from-outside/)
 - [飞行的类比碰不到心智 / The Flight Analogy Leaves the Mind Untouched](../../posts/the-flight-analogy-leaves-the-mind-untouched/)

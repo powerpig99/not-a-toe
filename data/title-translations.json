@@ -89,10 +89,6 @@
       "title_zh": "看似AI的强化学习，实为人类的自我强化学习",
       "subtitle_zh": "规模只是更密介质的一个参数；强化的位点留在那些不断发起、评估并改向的中心。"
     },
-    "mistaking-the-expression-for-the-intelligence": {
-      "title_zh": "错把表达当成智能",
-      "subtitle_zh": "受控的表现是固定约束之下的残余；智能是划出、使用并修订约束的活动。"
-    },
     "the-allocation-of-causal-power-in-validation": {
       "title_zh": "验证中因果权能的分配",
       "subtitle_zh": "验证中的因果权能不是认可或其缺席的属性，而是心智从何处取得自身区分之延续的位点。"
@@ -278,6 +274,10 @@
     "empathy-as-projection-collapse": {
       "title_zh": "词语造成伤害：共情是投射的坍缩",
       "subtitle_zh": "“共情”一词把至少三种正交的操作压缩进一个词里，麻烦从这次压缩开始，不在任何人的品格里，而在词语本身的几何里。"
+    },
+    "the-loop-that-cant-see-itself": {
+      "title_zh": "看不见自身的回路",
+      "subtitle_zh": "自动化的话语在结构上是盲的：决定一切的那个变量，对观察不可见，因为观察把自己的延伸误当作来自外部的视角。"
     }
   }
 }

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-18T14:25:49.644Z",
+    "generated_at": "2026-10-18T15:17:19.110Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -120,7 +120,7 @@
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "3253deb787d2",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
-      "content/posts/mistaking-the-expression-for-the-intelligence.md": "793fa711b79f",
+      "content/posts/mistaking-the-expression-for-the-intelligence.md": "acb7485ee691",
       "content/posts/moral-language-as-projection.md": "980a9f624f21",
       "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "a515d6b3ff1c",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
@@ -405,8 +405,8 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "f69ff208c9db",
       "content/book/economics.md": "e488107cbd4f",
-      "content/book/index-of-premises.md": "e02c3fb17af5",
-      "content/book/intelligence.md": "2de88c6c06f0",
+      "content/book/index-of-premises.md": "e5ca067baa9d",
+      "content/book/intelligence.md": "183aac2f9bc8",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "da0f22846972",
@@ -421,14 +421,14 @@
     },
     "stats": {
       "posts": 394,
-      "edges": 7658,
+      "edges": 7694,
       "unique_directed": 4561,
       "missing_targets": 0,
       "one_way": 147,
       "isolated": 35,
       "posts_with_outbound": 358,
       "book_pages": 16,
-      "book_edges": 1085,
+      "book_edges": 1088,
       "posts_reached_by_book": 394
     }
   },
@@ -3335,8 +3335,8 @@
       "kind": "post",
       "slug": "mistaking-the-expression-for-the-intelligence",
       "path": "content/posts/mistaking-the-expression-for-the-intelligence.md",
-      "title": "Mistaking the Expression for the Intelligence",
-      "hash": "793fa711b79f",
+      "title": "错把表达当成智能 / Mistaking the Expression for the Intelligence",
+      "hash": "acb7485ee691",
       "in_degree": 34,
       "out_degree": 34,
       "links_out": [
@@ -3353,24 +3353,24 @@
         "closed-reality-in-benchmark-maxing",
         "intelligence-belongs-only-to-the-mind",
         "data-is-local-intelligence-is-allocated",
+        "the-presumption-of-agi-and-the-view-from-outside",
         "agi-and-asi-are-temporary-goalposts",
         "a-creation-cannot-replace-its-source",
         "the-model-never-becomes-a-second-edge",
         "causality-stays-at-the-edge-that-steers",
+        "intelligence-folding-back-on-itself",
         "the-fixed-image-of-transcendence",
         "the-loop-that-cant-see-itself",
         "self-rl-for-humans",
         "the-flywheel-of-the-mind",
         "cheng-gong-xue",
-        "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
         "expertise-as-reference-not-replacement",
         "the-reversal-from-defensible-claim-to-dogma",
-        "ontos-is-a-method-agent",
-        "the-risk-is-the-belief-in-oversight-itself",
-        "the-presumption-of-agi-and-the-view-from-outside",
+        "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
         "the-illusion-of-free-intelligence",
+        "the-risk-is-the-belief-in-oversight-itself",
         "self-image-speaks-as-if-from-nowhere",
-        "intelligence-folding-back-on-itself",
+        "ontos-is-a-method-agent",
         "the-hard-problem-of-consciousness-is-consistent-with-learning",
         "consciousness-never-appears-as-data-among-data",
         "boletus-compute-storm-and-promethean-fire"
@@ -22944,25 +22944,55 @@
       "from": "mistaking-the-expression-for-the-intelligence",
       "to": "the-homework-exam-inversion-registers-substitution",
       "rel": "points_to",
-      "label": "The homework–exam inversion registers substitution"
+      "label": "作业与考试的倒置折射出替代效应"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
       "to": "the-unobservable-driver-of-learning",
       "rel": "points_to",
-      "label": "The unobservable driver of learning"
+      "label": "学习中不可观测的驱动力"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
       "to": "two-failures-of-trace",
       "rel": "points_to",
-      "label": "Artifacts are expressions of intelligence, not intelligence itself"
+      "label": "器物是智能的表达，而非智能本身"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-homework-exam-inversion-registers-substitution",
+      "rel": "points_to",
+      "label": "The Homework–Exam Inversion Registers Substitution"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-unobservable-driver-of-learning",
+      "rel": "points_to",
+      "label": "The Unobservable Driver of Learning"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
       "to": "the-flight-analogy-leaves-the-mind-untouched",
       "rel": "points_to",
-      "label": "The flight analogy leaves the Mind untouched"
+      "label": "飞行的类比碰不到心智"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-perceiver-and-the-trace",
+      "rel": "points_to",
+      "label": "感知者与痕迹的不可坍缩"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-flight-analogy-leaves-the-mind-untouched",
+      "rel": "points_to",
+      "label": "The Flight Analogy Leaves the Mind Untouched"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
@@ -22974,19 +23004,43 @@
       "from": "mistaking-the-expression-for-the-intelligence",
       "to": "the-non-definitive-definition-of-intelligence",
       "rel": "points_to",
-      "label": "The non-definitive definition of intelligence"
+      "label": "智能的非定论定义"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
       "to": "you-cant-benchmark-the-fluid",
       "rel": "points_to",
-      "label": "You can't benchmark the fluid"
+      "label": "流动之物无法被基准衡量"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
       "to": "the-real-lesson-from-the-consciousness-vector-paper",
       "rel": "points_to",
-      "label": "The real lesson from the consciousness vector paper"
+      "label": "意识向量论文的真正教训"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-ladder-of-abstraction-and-the-executable-entity",
+      "rel": "points_to",
+      "label": "抽象的阶梯与可执行的实体"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-non-definitive-definition-of-intelligence",
+      "rel": "points_to",
+      "label": "The Non-Definitive Definition of Intelligence"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "you-cant-benchmark-the-fluid",
+      "rel": "points_to",
+      "label": "You Can't Benchmark the Fluid"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-real-lesson-from-the-consciousness-vector-paper",
+      "rel": "points_to",
+      "label": "The Real Lesson from the Consciousness Vector Paper"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
@@ -22998,49 +23052,127 @@
       "from": "mistaking-the-expression-for-the-intelligence",
       "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "rel": "points_to",
-      "label": "Curiosity first"
+      "label": "好奇先行"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "rel": "points_to",
+      "label": "Curiosity First"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "Closed reality in benchmark maxing"
+      "label": "基准刷榜中的封闭实存"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence belongs only to the Mind"
+      "label": "智能只属于心智"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
-      "label": "Data is local; intelligence is allocated"
+      "label": "数据是局部的，智能是分配的"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "AGI的预设与来自外部的视角"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to The Mind"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data Is Local; Intelligence Is Allocated"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "The Presumption of AGI and the View from Outside"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI are temporary goalposts"
+      "label": "AGI 与 ASI 是加速通用智能的暂时球门"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
-      "label": "A creation cannot replace its source"
+      "label": "造物无法取代其源头"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "A Creation Cannot Replace Its Source"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
-      "label": "The model never becomes a second edge"
+      "label": "模型永远无法成为第二重前沿"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
-      "label": "Causality stays at the edge that steers"
+      "label": "因果停留在掌舵的边缘"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "intelligence-folding-back-on-itself",
+      "rel": "points_to",
+      "label": "智能向自身的回折"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "超越的定相"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality Stays at the Edge That Steers"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "intelligence-folding-back-on-itself",
+      "rel": "points_to",
+      "label": "Intelligence Folding Back on Itself"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
@@ -23050,21 +23182,75 @@
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-flight-analogy-leaves-the-mind-untouched",
+      "rel": "points_to",
+      "label": "飞行的类比碰不到心智"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
       "to": "the-loop-that-cant-see-itself",
       "rel": "points_to",
-      "label": "The loop that can't see itself"
+      "label": "看不见自身的回路"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-flight-analogy-leaves-the-mind-untouched",
+      "rel": "points_to",
+      "label": "The Flight Analogy Leaves the Mind Untouched"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-loop-that-cant-see-itself",
+      "rel": "points_to",
+      "label": "The Loop That Can't See Itself"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
       "to": "self-rl-for-humans",
       "rel": "points_to",
-      "label": "Self-RL for humans"
+      "label": "看似AI的强化学习，实为人类的自我强化学习"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
       "to": "the-flywheel-of-the-mind",
       "rel": "points_to",
-      "label": "The flywheel of the Mind"
+      "label": "心智的飞轮"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "What Looks Like RL for AIs Is Self-RL for Humans"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-flywheel-of-the-mind",
+      "rel": "points_to",
+      "label": "The Flywheel of the Mind"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
+      "label": "成功学"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "专家经验作为参考而非替代"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-reversal-from-defensible-claim-to-dogma",
+      "rel": "points_to",
+      "label": "从可辩护的主张到教条的反转"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "rel": "points_to",
+      "label": "错置的因果与心智编译器"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
@@ -23074,69 +23260,99 @@
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "Expertise as Reference, Not Replacement"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-reversal-from-defensible-claim-to-dogma",
+      "rel": "points_to",
+      "label": "The Reversal from Defensible Claim to Dogma"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
       "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
       "rel": "points_to",
       "label": "Misplaced Causality and the Mind's Compiler"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
-      "to": "expertise-as-reference-not-replacement",
+      "to": "the-illusion-of-free-intelligence",
       "rel": "points_to",
-      "label": "Expertise as reference, not replacement"
-    },
-    {
-      "from": "mistaking-the-expression-for-the-intelligence",
-      "to": "the-reversal-from-defensible-claim-to-dogma",
-      "rel": "points_to",
-      "label": "The reversal from defensible claim to dogma"
-    },
-    {
-      "from": "mistaking-the-expression-for-the-intelligence",
-      "to": "ontos-is-a-method-agent",
-      "rel": "points_to",
-      "label": "Presenting Ontos as a method agent"
+      "label": "免费智能的幻觉"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
       "to": "the-risk-is-the-belief-in-oversight-itself",
       "rel": "points_to",
-      "label": "The risk is the belief in oversight itself"
-    },
-    {
-      "from": "mistaking-the-expression-for-the-intelligence",
-      "to": "the-presumption-of-agi-and-the-view-from-outside",
-      "rel": "points_to",
-      "label": "The presumption of AGI and the view from outside"
-    },
-    {
-      "from": "mistaking-the-expression-for-the-intelligence",
-      "to": "the-illusion-of-free-intelligence",
-      "rel": "points_to",
-      "label": "The illusion of free intelligence"
+      "label": "风险在于对监管本身的迷信"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
       "to": "self-image-speaks-as-if-from-nowhere",
       "rel": "points_to",
-      "label": "Self-image speaks as if from nowhere"
+      "label": "自我形象仿佛从无处发声"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
-      "to": "intelligence-folding-back-on-itself",
+      "to": "ontos-is-a-method-agent",
       "rel": "points_to",
-      "label": "Intelligence folding back on itself"
+      "label": "呈现Ontos，一个方法智能体"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-illusion-of-free-intelligence",
+      "rel": "points_to",
+      "label": "The Illusion of Free Intelligence"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "The Risk Is the Belief in Oversight Itself"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-Image Speaks as if from Nowhere"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "ontos-is-a-method-agent",
+      "rel": "points_to",
+      "label": "Presenting Ontos, a Method Agent"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
       "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
       "rel": "points_to",
-      "label": "The hard problem of consciousness is consistent with learning"
+      "label": "意识的难题与学习相容"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
-      "label": "Consciousness never appears as data among data"
+      "label": "意识从不作为数据出现在数据之中"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "boletus-compute-storm-and-promethean-fire",
+      "rel": "points_to",
+      "label": "牛肝菌、算力风暴与普罗米修斯的火"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "rel": "points_to",
+      "label": "The Hard Problem of Consciousness Is Consistent with Learning"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "Consciousness Never Appears as Data Among Data"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
@@ -55874,7 +56090,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "e02c3fb17af5",
+        "hash": "e5ca067baa9d",
         "out_degree": 394
       },
       {
@@ -55883,7 +56099,7 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "2de88c6c06f0",
+        "hash": "183aac2f9bc8",
         "out_degree": 48
       },
       {
@@ -57153,6 +57369,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "mistaking-the-expression-for-the-intelligence",
+        "rel": "collects",
+        "label": "错把表达当成智能 / Mistaking the Expression for the Intelligence"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
         "rel": "collects",
         "label": "笛卡尔的认识论跃迁与造神狂热 / The Cartesian Epistemic Leap and the Frenzy of Creation"
@@ -58319,7 +58541,7 @@
         "from": "book:index-of-premises",
         "to": "mistaking-the-expression-for-the-intelligence",
         "rel": "collects",
-        "label": "Mistaking the Expression for the Intelligence"
+        "label": "错把表达当成智能 / Mistaking the Expression for the Intelligence"
       },
       {
         "from": "book:index-of-premises",
@@ -58929,6 +59151,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "mistaking-the-expression-for-the-intelligence",
+        "rel": "collects",
+        "label": "错把表达当成智能 / Mistaking the Expression for the Intelligence"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-local-trap-of-technological-change",
         "rel": "collects",
         "label": "技术变革的局部陷阱 / The Local Trap of Technological Change"
@@ -58980,6 +59208,12 @@
         "to": "when-malfunction-is-scored-as-intelligence",
         "rel": "collects",
         "label": "失灵被记作聪明 / When Malfunction Is Scored as Intelligence"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "mistaking-the-expression-for-the-intelligence",
+        "rel": "collects",
+        "label": "错把表达当成智能 / Mistaking the Expression for the Intelligence"
       },
       {
         "from": "book:index-of-premises",
@@ -59225,7 +59459,7 @@
         "from": "book:index-of-premises",
         "to": "mistaking-the-expression-for-the-intelligence",
         "rel": "collects",
-        "label": "Mistaking the Expression for the Intelligence"
+        "label": "错把表达当成智能 / Mistaking the Expression for the Intelligence"
       },
       {
         "from": "book:index-of-premises",
@@ -60875,7 +61109,7 @@
         "from": "book:intelligence",
         "to": "mistaking-the-expression-for-the-intelligence",
         "rel": "collects",
-        "label": "Mistaking the Expression for the Intelligence"
+        "label": "错把表达当成智能 / Mistaking the Expression for the Intelligence"
       },
       {
         "from": "book:intelligence",

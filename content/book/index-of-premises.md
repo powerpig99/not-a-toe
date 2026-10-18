@@ -699,7 +699,7 @@ The phrase "reality distortion field" presumes that the mass picture is the fiel
 
 Recursive self-improvement presumes that a system able to improve itself becomes an independent initiator through an ever faster loop, which is of use in describing how longer coherent chains, intermediate revision, and self-proposed experiments speed execution; it reaches its boundary in that autonomy of execution raises the velocity of the loops without relocating their source, retain-or-discard is still deferred to the only circuit that closes on itself, and the openness each fold yields comes from the fold, not from the artifact.
 
-→ [自我放大的制品 / The Artifacts of Self-Amplification](../../posts/the-artifacts-of-self-amplification/)
+→ [自我放大的制品 / The Artifacts of Self-Amplification](../../posts/the-artifacts-of-self-amplification/) · [错把表达当成智能 / Mistaking the Expression for the Intelligence](../../posts/mistaking-the-expression-for-the-intelligence/)
 
 ### 勒内·笛卡尔 / René Descartes
 `哲学 / Philosophical`
@@ -1997,7 +1997,7 @@ Model sentimentalism assumes AI systems experience grief or obsolescence upon sh
 
 The argument assumes past exclusion errors, as with the octopus, transfer forward to machines; the precedent relaxed a criterion of form while keeping source, so relaxing source exceeds it, and what it still supports is that non-human organization alone does not rule intelligence out.
 
-→ [Mistaking the Expression for the Intelligence](../../posts/mistaking-the-expression-for-the-intelligence/) · [Intelligence Belongs Only to The Mind - The Irreducible Prior](../../posts/intelligence-belongs-only-to-the-mind/)
+→ [错把表达当成智能 / Mistaking the Expression for the Intelligence](../../posts/mistaking-the-expression-for-the-intelligence/) · [Intelligence Belongs Only to The Mind - The Irreducible Prior](../../posts/intelligence-belongs-only-to-the-mind/)
 
 ### 通用人工智能 / Artificial General Intelligence (AGI)
 `技术 / Technological`
@@ -2836,6 +2836,15 @@ Calling full acceptance of consequence radical presumes a milder baseline is neu
 
 → [道德语言稀释自由复利的反馈 / Moral Language Dilutes the Feedback That Scales Freedom](../../posts/moral-language-dilutes-the-feedback-that-scales-freedom/)
 
+### 一般智力因素 / General Intelligence Factor (g)
+`科学 / Scientific`
+
+心理测量学预设，各类认知测验的成绩共有一个一般因素g，IQ分数估计它，它预测许多领域里的学业与工作表现，在跨总体的选拔、安置与预测上有用，在它自己的发现中工作越复杂预测越强；它在此到了边界：题目登记的是在已经提出的问题上、按已经固定的标准所做的表现，跨总体的预测是一种关系，而不是一个人身上的活动，发现问题是什么、在旧标准失效时发明新标准的那个开放式活动，不在题目之中。
+
+Psychometrics presumes that scores across cognitive tests share a general factor, g, which IQ scores estimate and which predicts school and job performance across many domains, of use in selection, placement and prediction across a population, and in its own findings more strongly as work grows more complex; it reaches its boundary in that the items register performance on problems already posed under criteria already fixed, a prediction across a population is a relation rather than the activity in a person, and the open-ended activity of discovering what the problem is and inventing new criteria when the old ones fail is not among the items.
+
+→ [错把表达当成智能 / Mistaking the Expression for the Intelligence](../../posts/mistaking-the-expression-for-the-intelligence/)
+
 ### 通用技术扩散 / General-Purpose Technology Diffusion
 `技术 / Technological`
 
@@ -2897,7 +2906,7 @@ Holding one's own good as a completed coordinate is of use where action must be 
 
 Benchmark training assumes maxing score metrics equates to general competence; when a metric becomes the target, models exploit statistical artifacts rather than generalizing.
 
-→ [Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem](../../posts/closed-reality-in-benchmark-maxing/) · [失灵被记作聪明 / When Malfunction Is Scored as Intelligence](../../posts/when-malfunction-is-scored-as-intelligence/)
+→ [Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem](../../posts/closed-reality-in-benchmark-maxing/) · [失灵被记作聪明 / When Malfunction Is Scored as Intelligence](../../posts/when-malfunction-is-scored-as-intelligence/) · [错把表达当成智能 / Mistaking the Expression for the Intelligence](../../posts/mistaking-the-expression-for-the-intelligence/)
 
 ### 带护栏的 AI 辅导 / Guardrailed AI Tutors
 `技术 / Technological`
@@ -3235,11 +3244,11 @@ Linear substitution forecasting treats autonomy as the private car minus its ste
 ### 语言流畅度等同智能 / Linguistic Fluency as Intellect
 `技术 / Technological`
 
-拟人论将辞藻华丽等同于深刻理解；文本生成输出的是统计词元排布，与真正看清情境的觉知有着质的不同。
+这种读法预设，在定义清楚的领域里流畅的产出就是智能本身，在描述一件工具在受控条件下能表现得多好时有用；它在此到了边界：流畅是活动在固定约束之下留下的表达，画出、使用、修订并离开那些约束的活动不在表达之中，所以不论流畅出自人还是出自模型，把它读作智能，都是把残余当成了产生它的东西。
 
-Anthropomorphism equates eloquent prose with deep comprehension; text generation outputs statistical token patterns, remaining distinct from the conscious seeing that understands context.
+The reading presumes that fluent output inside well-defined domains is intelligence itself, which is of use in describing how well an instrument performs under controlled conditions; it reaches its boundary in that fluency is an expression the activity leaves under fixed constraints, the activity that draws, uses, revises and leaves those constraints is not in the expression, and so reading fluency as intelligence, from a person or from a model, takes the residue for what produced it.
 
-→ [Mistaking the Expression for the Intelligence](../../posts/mistaking-the-expression-for-the-intelligence/)
+→ [错把表达当成智能 / Mistaking the Expression for the Intelligence](../../posts/mistaking-the-expression-for-the-intelligence/)
 
 ### 意义的实时起草 / Live Drafting of Meaning
 `哲学 / Philosophical`
