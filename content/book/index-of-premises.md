@@ -2326,11 +2326,11 @@ The hold that reads "shared" as commonality presumes that shared consciousness, 
 ### 集体主义社会改良谬误 / Collective Social Reform Fallacy
 `哲学 / Philosophical`
 
-社会改良运动预设修改宏观律法便能重塑人性；风气的更迭唯有在具体的个体心智相继更新自身立身前提时，才真正生根。
+集体主义的社会改良预设，修改宏观的律法与制度就能改变共同的实在，它在为许多中心提供一套可供协调的可见程序时有用；它在此到了边界：共享的实在只是在每个中心登记的私人感知，共同的基础是这些登记交叠的残余，改变只始于一个心智与既定之物的私下协作，而残余是否落为共同的改变，不在任何发起者或制度的掌控之中。
 
-Sociopolitical activism presumes altering collective legislation changes human hearts; shared cultural shifts take root only as discrete individuals update their private premises.
+Collective social reform presumes that altering laws and institutions at large changes the shared reality, which is of use in giving many centers a visible procedure to coordinate on; it reaches its boundary in that shared reality is private perception registered at each center, common ground is the overlapping residue of those registrations, change begins only as one Mind's private work with what registers as given, and whether residue lands as shared change is under the control of no originator or institution.
 
-→ [The Source of Shared Change](../../posts/the-source-of-shared-change/)
+→ [共同改变的本源 / The Source of Shared Change](../../posts/the-source-of-shared-change/)
 
 ### 强求善意即为残暴 / Compulsory Kindness as Latent Cruelty
 `哲学 / Philosophical`

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-17T23:36:37.316Z",
+    "generated_at": "2026-10-18T00:22:01.622Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -344,7 +344,7 @@
       "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "21721c0327cd",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "3c66bd80af77",
       "content/posts/the-source-of-all-harm.md": "0d19bb37e3e4",
-      "content/posts/the-source-of-shared-change.md": "2df84d039b51",
+      "content/posts/the-source-of-shared-change.md": "4a0a0c0885e2",
       "content/posts/the-sovereign-blinding.md": "118b031bf858",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
       "content/posts/the-strongest-belief-of-the-mind.md": "94b16cab0478",
@@ -405,7 +405,7 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "745cd9146e81",
       "content/book/economics.md": "e488107cbd4f",
-      "content/book/index-of-premises.md": "8efaf12a0569",
+      "content/book/index-of-premises.md": "f1434b4753ef",
       "content/book/intelligence.md": "9528af4528a9",
       "content/book/knowledge-and-learning.md": "8c2cce815605",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -415,13 +415,13 @@
       "content/book/morality.md": "e521d5811053",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
-      "content/book/state-and-collective.md": "92ec863fa18a",
+      "content/book/state-and-collective.md": "e1080f2fc98f",
       "content/book/success-and-the-self.md": "24179a1b74d7",
       "content/book/tools-and-progress.md": "2db21b3550ba"
     },
     "stats": {
       "posts": 394,
-      "edges": 7379,
+      "edges": 7403,
       "unique_directed": 4560,
       "missing_targets": 0,
       "one_way": 148,
@@ -8616,8 +8616,8 @@
       "kind": "post",
       "slug": "the-source-of-shared-change",
       "path": "content/posts/the-source-of-shared-change.md",
-      "title": "The Source of Shared Change",
-      "hash": "2df84d039b51",
+      "title": "共同改变的本源 / The Source of Shared Change",
+      "hash": "4a0a0c0885e2",
       "in_degree": 24,
       "out_degree": 24,
       "links_out": [
@@ -48269,145 +48269,289 @@
       "from": "the-source-of-shared-change",
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
-      "label": "Reality is the Mind’s ongoing realization"
+      "label": "现实是心智持续的实现"
     },
     {
       "from": "the-source-of-shared-change",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "No Universal Salvation, Only Self-Deliverance"
+      "label": "没有普渡，只有自渡的无限可能"
     },
     {
       "from": "the-source-of-shared-change",
       "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
       "rel": "points_to",
-      "label": "Advocating openness of others is a desire for closure of the self"
+      "label": "要求他人开放是对自我封闭的渴望"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality Is the Mind’s Ongoing Realization"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "rel": "points_to",
+      "label": "Advocating Openness of Others Is a Desire for Closure of the Self"
     },
     {
       "from": "the-source-of-shared-change",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
-      "label": "The coordinator’s category error"
+      "label": "协调者的范畴错误"
     },
     {
       "from": "the-source-of-shared-change",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "the-source-of-shared-change",
       "to": "price-as-utterance-understanding-as-trade",
       "rel": "points_to",
-      "label": "Price as utterance, understanding as trade"
+      "label": "价格是言说，理解是交易"
     },
     {
       "from": "the-source-of-shared-change",
       "to": "shared-humanity-is-never-shared",
       "rel": "points_to",
-      "label": "Shared humanity is never shared"
+      "label": "共同的人性从不共享"
     },
     {
       "from": "the-source-of-shared-change",
       "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "rel": "points_to",
-      "label": "Exceptionality, perception, and the self-limiting field of problems"
+      "label": "卓异、感知与自我设限的问题场域"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "The Coordinator’s Category Error"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "Price as Utterance, Understanding as Trade"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "shared-humanity-is-never-shared",
+      "rel": "points_to",
+      "label": "Shared Humanity Is Never Shared"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, Perception, and the Self-Limiting Field of Problems"
     },
     {
       "from": "the-source-of-shared-change",
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
-      "label": "Empowerment establishes the centralization of power"
+      "label": "赋权确立权力的集中"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "empowerment-establishes-the-centralization-of-power",
+      "rel": "points_to",
+      "label": "Empowerment Establishes the Centralization of Power"
     },
     {
       "from": "the-source-of-shared-change",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
-      "label": "The path drawn one step at a time"
+      "label": "一步一步绘制出的路径"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "The Path Drawn One Step at a Time"
     },
     {
       "from": "the-source-of-shared-change",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
-      "label": "Symptom and cause in the narratives of progress"
+      "label": "进步叙事中的症候与原因"
     },
     {
       "from": "the-source-of-shared-change",
       "to": "performative-hindsight-that-pretends-to-be-foresight",
       "rel": "points_to",
-      "label": "Performative hindsight that pretends to be foresight"
+      "label": "伪装成远见的表演性后见"
     },
     {
       "from": "the-source-of-shared-change",
       "to": "the-utility-men-of-progress",
       "rel": "points_to",
-      "label": "The utility men of progress"
+      "label": "进步的多面手"
     },
     {
       "from": "the-source-of-shared-change",
       "to": "residual-individualism",
       "rel": "points_to",
-      "label": "Residual individualism"
+      "label": "剩余个人主义"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and Cause in the Narratives of Progress"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "Performative Hindsight That Pretends to Be Foresight"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "the-utility-men-of-progress",
+      "rel": "points_to",
+      "label": "The Utility Men of Progress"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "Residual Individualism"
     },
     {
       "from": "the-source-of-shared-change",
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
-      "label": "The meaning of life is in the drafting"
+      "label": "生命的意义在起草之中"
     },
     {
       "from": "the-source-of-shared-change",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "the-meaning-of-life-is-in-the-drafting",
+      "rel": "points_to",
+      "label": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "the-source-of-shared-change",
       "to": "how-to-fix-your-whole-life-in-one-split-second",
       "rel": "points_to",
-      "label": "How to fix your whole life in one split second"
+      "label": "如何在一瞬间修正你的整个人生"
     },
     {
       "from": "the-source-of-shared-change",
       "to": "when-observation-becomes-performance",
       "rel": "points_to",
-      "label": "When observation becomes performance"
+      "label": "当观察变成表演"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "how-to-fix-your-whole-life-in-one-split-second",
+      "rel": "points_to",
+      "label": "How to Fix Your Whole Life in One Split Second"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When Observation Becomes Performance"
     },
     {
       "from": "the-source-of-shared-change",
       "to": "the-paradoxical-nature-of-bystander-insights",
       "rel": "points_to",
-      "label": "The paradoxical nature of bystander insights"
+      "label": "旁观者洞察的悖论"
     },
     {
       "from": "the-source-of-shared-change",
       "to": "two-failures-of-trace",
       "rel": "points_to",
-      "label": "Two failures of trace"
+      "label": "器物是智能的表达，而非智能本身"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "the-paradoxical-nature-of-bystander-insights",
+      "rel": "points_to",
+      "label": "The Paradoxical Nature of Bystander Insights"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself"
     },
     {
       "from": "the-source-of-shared-change",
       "to": "how-belief-actually-changes",
       "rel": "points_to",
-      "label": "How belief actually changes"
+      "label": "信念如何真正改变"
     },
     {
       "from": "the-source-of-shared-change",
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
-      "label": "Preference clusters and the language of judgment"
+      "label": "偏好聚类与评判语言"
     },
     {
       "from": "the-source-of-shared-change",
       "to": "shared-consciousness-is-intersecting-individualities",
       "rel": "points_to",
-      "label": "Shared consciousness is intersecting individualities"
+      "label": "共享意识是个体性的交集"
     },
     {
       "from": "the-source-of-shared-change",
       "to": "the-belief-in-utopia-is-the-path-to-dystopia",
       "rel": "points_to",
-      "label": "The belief in utopia is the path to dystopia"
+      "label": "对乌托邦的信念是通往反乌托邦之路"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How Belief Actually Changes"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "Preference Clusters and the Language of Judgment"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "shared-consciousness-is-intersecting-individualities",
+      "rel": "points_to",
+      "label": "Shared Consciousness Is Intersecting Individualities"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "rel": "points_to",
+      "label": "The Belief in Utopia Is the Path to Dystopia"
     },
     {
       "from": "the-sovereign-blinding",
@@ -54199,7 +54343,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "8efaf12a0569",
+        "hash": "f1434b4753ef",
         "out_degree": 394
       },
       {
@@ -54289,7 +54433,7 @@
         "slug": "state-and-collective",
         "path": "content/book/state-and-collective.md",
         "title": "国家集体与权力的镜像 / The State, Collectives, and the Mirror of Power",
-        "hash": "92ec863fa18a",
+        "hash": "e1080f2fc98f",
         "out_degree": 30
       },
       {
@@ -56866,7 +57010,7 @@
         "from": "book:index-of-premises",
         "to": "the-source-of-shared-change",
         "rel": "collects",
-        "label": "The Source of Shared Change"
+        "label": "共同改变的本源 / The Source of Shared Change"
       },
       {
         "from": "book:index-of-premises",
@@ -60298,7 +60442,7 @@
         "from": "book:state-and-collective",
         "to": "the-source-of-shared-change",
         "rel": "collects",
-        "label": "The Source of Shared Change"
+        "label": "共同改变的本源 / The Source of Shared Change"
       },
       {
         "from": "book:state-and-collective",

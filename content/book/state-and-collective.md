@@ -24,7 +24,7 @@ The essays here examine the cruelty of utopian visions, the machinery of war, an
 - [Open Vision in a Closed Arena](../../posts/open-vision-in-a-closed-arena/)
 - [The Risk Is the Belief in Oversight Itself](../../posts/the-risk-is-the-belief-in-oversight-itself/)
 - [Hierarchy from Individual Difference](../../posts/hierarchy-from-individual-difference/)
-- [The Source of Shared Change](../../posts/the-source-of-shared-change/)
+- [共同改变的本源 / The Source of Shared Change](../../posts/the-source-of-shared-change/)
 - [限制是选择性的税 / Restriction Is a Selective Tax](../../posts/restriction-is-a-selective-tax/)
 - [共同的人性从不共享 / Shared Humanity Is Never Shared](../../posts/shared-humanity-is-never-shared/)
 - [赋权确立权力的集中 / Empowerment Establishes the Centralization of Power](../../posts/empowerment-establishes-the-centralization-of-power/)
