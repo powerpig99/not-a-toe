@@ -663,7 +663,7 @@ Preempting unknown risk presumes that unknown risk is already a closed set of ca
 
 Progress as the unfolding of consensus presumes that advance is the smooth unfolding of a shared consensus and that absorbed achievement is collective wisdom, which is of use in registering how an achievement, once locked in, becomes infrastructure and standards available to everyone; it reaches its boundary in that initiation sits with thin, rotating minorities, the majority is delayed registration rather than a co-author, recognition, resistance, and absorption are lag on an open field, and taking the absorbed residue as proof that the field had been the engine is the freeze.
 
-→ [进步的多面手 / The Utility Men of Progress](../../posts/the-utility-men-of-progress/)
+→ [进步的多面手 / The Utility Men of Progress](../../posts/the-utility-men-of-progress/) · [进步叙事中的症候与原因 / Symptom and Cause in the Narratives of Progress](../../posts/symptom-and-cause-in-the-narratives-of-progress/)
 
 ### 瑞·达利欧 / Ray Dalio
 `成功学 / Self-Help`
@@ -1748,11 +1748,11 @@ The welfare state assumes high taxation is the necessary, noble price of a suppo
 ### 辉格史观（必然进步论） / Whig Theory of History
 `意识形态 / Ideological`
 
-线性进步史观将技术繁荣视为历史的宿命必然；物质丰裕只是特定文化专注与制度的滞后体现，随时可能发生倒退。
+辉格史观预设历史沿一条通往进步的必然弧线展开，繁荣是这条弧线自己的产物，在回看时把一连串改进排成一条线索时有用；它在此到了边界：进步是一串由稀少的少数发起的离散行动，繁荣的指标与共同的情绪都是对这些行动的延迟登记，发起的所在一旦变稀，后来可登记的就更少，没有哪条弧线替它们发起。
 
-Linear progress narratives treat technological growth as history's inevitable arc; prosperity metrics are lagging symptoms of cultural commitments that can decay.
+The Whig theory of history presumes that history unfolds along an inevitable arc toward progress, with prosperity as that arc's own product, which is of use in lining up a run of improvements in retrospect; it reaches its boundary in that progress is a run of discrete acts initiated by thin minorities, prosperity figures and shared mood are delayed registrations of those acts, and when the initiating loci thin there is less to register later, since no arc initiates in their place.
 
-→ [Symptom and Cause in the Narratives of Progress](../../posts/symptom-and-cause-in-the-narratives-of-progress/)
+→ [进步叙事中的症候与原因 / Symptom and Cause in the Narratives of Progress](../../posts/symptom-and-cause-in-the-narratives-of-progress/)
 
 ### 米田引理的对偶结构 / Yoneda Lemma Duality
 `数学 / Mathematical`

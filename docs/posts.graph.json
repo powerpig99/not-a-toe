@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-18T05:22:21.612Z",
+    "generated_at": "2026-10-18T06:13:35.932Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -189,7 +189,7 @@
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "909c9d0b7fac",
       "content/posts/subtracting-consciousness-at-the-source.md": "eb988c747e6b",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "2e63440fe8c1",
-      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "0728908bdaaa",
+      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "8def0ea22390",
       "content/posts/technology-is-residual-of-human-compounding.md": "c3e3b6d44dfb",
       "content/posts/the-allocation-of-causal-power-in-validation.md": "75fd0f9205d1",
       "content/posts/the-arithmetic-of-the-register.md": "1c7a77817624",
@@ -405,7 +405,7 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "745cd9146e81",
       "content/book/economics.md": "e488107cbd4f",
-      "content/book/index-of-premises.md": "3992f1e4ba62",
+      "content/book/index-of-premises.md": "a5e6ece05355",
       "content/book/intelligence.md": "9528af4528a9",
       "content/book/knowledge-and-learning.md": "9d59b725338c",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -417,18 +417,18 @@
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "66cecff20d0c",
       "content/book/success-and-the-self.md": "2a59654ea696",
-      "content/book/tools-and-progress.md": "2db21b3550ba"
+      "content/book/tools-and-progress.md": "bd64642f15de"
     },
     "stats": {
       "posts": 394,
-      "edges": 7467,
+      "edges": 7499,
       "unique_directed": 4560,
       "missing_targets": 0,
       "one_way": 148,
       "isolated": 35,
       "posts_with_outbound": 358,
       "book_pages": 16,
-      "book_edges": 1081,
+      "book_edges": 1082,
       "posts_reached_by_book": 394
     }
   },
@@ -5060,8 +5060,8 @@
       "kind": "post",
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "path": "content/posts/symptom-and-cause-in-the-narratives-of-progress.md",
-      "title": "Symptom and Cause in the Narratives of Progress",
-      "hash": "0728908bdaaa",
+      "title": "进步叙事中的症候与原因 / Symptom and Cause in the Narratives of Progress",
+      "hash": "8def0ea22390",
       "in_degree": 32,
       "out_degree": 32,
       "links_out": [
@@ -5075,6 +5075,7 @@
         "residual-individualism",
         "production-consumption-and-the-minds-distinction",
         "performative-hindsight-that-pretends-to-be-foresight",
+        "the-invisible-first-move",
         "what-always-listens-cannot-originate",
         "sovereignty-belief-and-regulatory-structures",
         "public-spending-does-not-create-capital",
@@ -5095,8 +5096,7 @@
         "the-reality-distortion-field-inverts-the-baseline",
         "the-source-of-shared-change",
         "closed-assumptions-squeeze-compounding-into-s-curves",
-        "felt-resistance-and-the-speed-differential",
-        "the-invisible-first-move"
+        "felt-resistance-and-the-speed-differential"
       ]
     },
     {
@@ -31085,103 +31085,229 @@
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "when-the-effect-authors-the-frame",
       "rel": "points_to",
-      "label": "When the effect authors the frame"
+      "label": "当效果主宰了框架的叙事"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "when-the-effect-authors-the-frame",
+      "rel": "points_to",
+      "label": "When the Effect Authors the Frame"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "The allocation of causal power in validation"
+      "label": "验证中因果权能的分配"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
-      "label": "Hierarchy from individual difference"
+      "label": "来自个体差异的层级"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "rel": "points_to",
-      "label": "Exceptionality, perception, and the self-limiting field of problems"
+      "label": "卓异、感知与自我设限的问题场域"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "the-utility-men-of-progress",
       "rel": "points_to",
-      "label": "The utility men of progress"
+      "label": "进步的多面手"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
-      "label": "The average is residue, not the engine"
+      "label": "平均值是残余，不是引擎"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from Individual Difference"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, Perception, and the Self-Limiting Field of Problems"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "the-utility-men-of-progress",
+      "rel": "points_to",
+      "label": "The Utility Men of Progress"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "The Average Is Residue, Not the Engine"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "residual-individualism",
       "rel": "points_to",
-      "label": "Residual individualism"
+      "label": "剩余个人主义"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "Residual Individualism"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, consumption, and the Mind’s distinction"
+      "label": "生产、消费与心智的区分"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "performative-hindsight-that-pretends-to-be-foresight",
       "rel": "points_to",
-      "label": "Performative hindsight that pretends to be foresight"
+      "label": "伪装成远见的表演性后见"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "the-invisible-first-move",
+      "rel": "points_to",
+      "label": "看不见的第一步"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, Consumption, and the Mind’s Distinction"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "Performative Hindsight That Pretends to Be Foresight"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "the-invisible-first-move",
+      "rel": "points_to",
+      "label": "The Invisible First Move"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "what-always-listens-cannot-originate",
       "rel": "points_to",
-      "label": "What always listens cannot originate"
+      "label": "总在倾听者无法发起"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
-      "label": "Sovereignty, belief, and the generation of regulatory structures"
+      "label": "主权、信念与规制结构的生成"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "What Always Listens Cannot Originate"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
-      "label": "Public spending does not create capital"
+      "label": "公共支出不创造资本"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "rel": "points_to",
-      "label": "The misallocation of cause"
+      "label": "财富转移政策与价格下限中的原因错置"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
       "rel": "points_to",
-      "label": "The hours ranking freezes adequacy as one scoreboard"
+      "label": "工时排名把充足度冻结成一张记分牌"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
       "rel": "points_to",
-      "label": "Ownership cost freezes lagged averages as vehicle property"
+      "label": "拥有成本把滞后的平均值冻结为车辆属性"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
-      "label": "The coordinator’s category error"
+      "label": "协调者的范畴错误"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "政客是责任扩散的显性症状"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
+      "rel": "points_to",
+      "label": "一个可能的全自动交通未来的非定论预测"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public Spending Does Not Create Capital"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "The Misallocation of Cause in Wealth-Transfer Policies and Price Floors"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
+      "rel": "points_to",
+      "label": "The Hours Ranking Freezes Adequacy as One Scoreboard"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "rel": "points_to",
+      "label": "Ownership Cost Freezes Lagged Averages as Vehicle Property"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "The Coordinator’s Category Error"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
@@ -31199,25 +31325,55 @@
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "what-works-is-the-belief",
       "rel": "points_to",
-      "label": "What works is the belief"
+      "label": "起作用的是信念"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "restriction-is-a-selective-tax",
       "rel": "points_to",
-      "label": "Restriction is a selective tax"
+      "label": "限制是选择性的税"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "the-myth-of-population-collapse-explained",
       "rel": "points_to",
-      "label": "The myth of population collapse explained"
+      "label": "人口崩溃神话的拆解"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "pessimism-is-the-shadow-of-optimism",
       "rel": "points_to",
-      "label": "Pessimism is the shadow of optimism"
+      "label": "悲观是乐观的阴影"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "deceleration-is-the-drag-felt-when-accelerating",
+      "rel": "points_to",
+      "label": "减速是加速时感受到的阻力"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "What Works Is the Belief"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "Restriction Is a Selective Tax"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "The Myth of Population Collapse Explained"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism Is the Shadow of Optimism"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
@@ -31229,49 +31385,85 @@
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "order-surplus-and-the-moral-intercept",
       "rel": "points_to",
-      "label": "Order, surplus, and the moral intercept"
+      "label": "秩序、剩余与道德拦截"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "having-more-is-never-the-cause",
       "rel": "points_to",
-      "label": "Having more is never the cause"
+      "label": "拥有更多从不是原因"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "Order, Surplus, and the Moral Intercept"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having More Is Never the Cause"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "the-reality-distortion-field-names-the-closed-map",
       "rel": "points_to",
-      "label": "The reality distortion field names the closed map"
+      "label": "现实扭曲力场指认的是封闭的地图"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "the-reality-distortion-field-inverts-the-baseline",
       "rel": "points_to",
-      "label": "The reality distortion field inverts the baseline"
+      "label": "现实扭曲力场颠倒了基线"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "the-reality-distortion-field-names-the-closed-map",
+      "rel": "points_to",
+      "label": "The Reality Distortion Field Names the Closed Map"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The Reality Distortion Field Inverts the Baseline"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
-      "label": "The source of shared change"
+      "label": "共同改变的本源"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "closed-assumptions-squeeze-compounding-into-s-curves",
       "rel": "points_to",
-      "label": "Closed assumptions squeeze compounding into S-curves"
+      "label": "封闭的假设把复利挤成 S 曲线"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "felt-resistance-and-the-speed-differential",
+      "rel": "points_to",
+      "label": "阻力体感与速率差"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "The Source of Shared Change"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "rel": "points_to",
+      "label": "Closed Assumptions Squeeze Compounding into S-Curves"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "felt-resistance-and-the-speed-differential",
       "rel": "points_to",
       "label": "Felt Resistance and the Speed Differential"
-    },
-    {
-      "from": "symptom-and-cause-in-the-narratives-of-progress",
-      "to": "the-invisible-first-move",
-      "rel": "points_to",
-      "label": "The Invisible First Move"
     },
     {
       "from": "technology-is-residual-of-human-compounding",
@@ -54727,7 +54919,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "3992f1e4ba62",
+        "hash": "a5e6ece05355",
         "out_degree": 394
       },
       {
@@ -54835,7 +55027,7 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "2db21b3550ba",
+        "hash": "bd64642f15de",
         "out_degree": 32
       }
     ],
@@ -55976,6 +56168,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "symptom-and-cause-in-the-narratives-of-progress",
+        "rel": "collects",
+        "label": "进步叙事中的症候与原因 / Symptom and Cause in the Narratives of Progress"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "cheng-gong-xue",
         "rel": "collects",
         "label": "成功学 / Theories After Success"
@@ -56968,7 +57166,7 @@
         "from": "book:index-of-premises",
         "to": "symptom-and-cause-in-the-narratives-of-progress",
         "rel": "collects",
-        "label": "Symptom and Cause in the Narratives of Progress"
+        "label": "进步叙事中的症候与原因 / Symptom and Cause in the Narratives of Progress"
       },
       {
         "from": "book:index-of-premises",
@@ -61216,7 +61414,7 @@
         "from": "book:tools-and-progress",
         "to": "symptom-and-cause-in-the-narratives-of-progress",
         "rel": "collects",
-        "label": "Symptom and Cause in the Narratives of Progress"
+        "label": "进步叙事中的症候与原因 / Symptom and Cause in the Narratives of Progress"
       },
       {
         "from": "book:tools-and-progress",
