@@ -18,9 +18,9 @@ Self-distinguishing activity occurs, uncaused, unceasing. Call it the Mind: the 
 
 ## 二、 相对工资是先前条件的残余 / 2. Relative Wage Is Residue of Prior Conditions
 
-市场价格，包括工资，是相对的信号。一份工资之所以低，是相对于所涉劳动的边际产出，也相对于雇主与劳动者面对的机会成本。这种相对关系传递着信息：它显示稀缺、生产率的差别，以及获取技能、在地域间流动或改进流程的回报。正是这个信号本身，生出了弥合差距的激励。所以，低工资是先前条件的效果，而不是它们的原因。
+市场价格，包括工资，是相对的信号。一份工资之所以低，是相对于所涉劳动的边际产出，也相对于雇主与劳动者面对的机会成本。这种相对关系传递着信息：它显示稀缺、生产率的差别，以及获取技能、在地域间流动或改进流程的回报。每个中心对这个信号的解读，化为弥合差距的激励。所以，低工资是先前条件的效果，而不是它们的原因。
 
-Market prices, including wages, are relative signals. A wage is low relative to the marginal product of the labor in question and relative to the opportunity costs facing employers and workers. That relative relation transmits information: it reveals scarcity, productivity differentials, and the returns to skill acquisition, geographic mobility, or process innovation. The signal itself generates the incentives that close the gap. The low wage is therefore the effect of prior conditions, not their cause.
+Market prices, including wages, are relative signals. A wage is low relative to the marginal product of the labor in question and relative to the opportunity costs facing employers and workers. That relative relation transmits information: it reveals scarcity, productivity differentials, and the returns to skill acquisition, geographic mobility, or process innovation. Each center's reading of that signal issues in the incentives that close the gap. The low wage is therefore the effect of prior conditions, not their cause.
 
 只有一个个中心处接续的动作，才是因果的杠杆。总量、市场与政策是这些动作的残余，从来不是它们的共同作者。一份仍作为这个边缘的生产率之后果而落下的相对工资，让心智与自己的后果保持直接接触，回路因而闭合。选择用外部的补贴或法定的下限替代这种接触，便把延续挪了位置。
 
