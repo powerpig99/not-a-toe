@@ -1855,15 +1855,6 @@ The contest between acceleration and deceleration reads progress as a duel of tw
 
 → [减速是加速时感受到的阻力 / Deceleration Is the Drag Felt When Accelerating](../../posts/deceleration-is-the-drag-felt-when-accelerating/)
 
-### 功能性中空与消极虚空之辨 / Active Emptiness vs Passivity
-`哲学 / Philosophical`
-
-禁欲哲学将清净虚空视为修行终点；功能性中空实则是卸下重负的基底，其价值唯有在主动确立新的创造中得以彰显。
-
-Ascetic philosophy treats empty awareness as an end in itself; functional emptiness serves as unencumbered ground whose value is realized by authoring purposeful new distinctions.
-
-→ [Only If It Is Not Kept Empty](../../posts/only-if-it-is-not-kept-empty/)
-
 ### 实无穷（完成的整体） / Actual Infinity (Completed Totality)
 `数学 / Mathematical`
 
@@ -2087,7 +2078,7 @@ Bayesian updating on given traces is of use when its premises are re-examined; i
 
 Substantialist ontology treats Being as primary and Void as mere absence; Laozi demonstrates emptiness constitutes the functional space through which forms operate.
 
-→ [有无之边](../../posts/you-wu-zhi-bian/)
+→ [有无之边](../../posts/you-wu-zhi-bian/) · [只要它不被保持为空 / Only If It Is Not Kept Empty](../../posts/only-if-it-is-not-kept-empty/)
 
 ### 心智对自身被动性的盲信 / Belief in Passive Helplessness
 `哲学 / Philosophical`
@@ -3473,7 +3464,7 @@ Workflow automation treats agents as sequential task runners; a method agent enf
 
 Keeping the bowl near-empty and deferring every commitment is of use in guarding against mistaken predictions; it reaches its boundary in that usefulness comes from the relation of capacity and content, so permanent emptiness becomes a new constraint that narrows in advance the fullness that can emerge.
 
-→ [不预测是没有觉察的预测 / Not Predicting Is Predicting Without Awareness](../../posts/not-predicting-is-predicting-without-awareness/)
+→ [不预测是没有觉察的预测 / Not Predicting Is Predicting Without Awareness](../../posts/not-predicting-is-predicting-without-awareness/) · [只要它不被保持为空 / Only If It Is Not Kept Empty](../../posts/only-if-it-is-not-kept-empty/)
 
 ### 最低工资 / Minimum Wage
 `经济 / Economic`

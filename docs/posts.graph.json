@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-18T07:58:06.049Z",
+    "generated_at": "2026-10-18T08:44:59.594Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -140,7 +140,7 @@
       "content/posts/on-education.md": "acf5a581efd1",
       "content/posts/one-cannot-escape-ones-own-mind.md": "cb7f119c5157",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "dcc2fad90d4c",
-      "content/posts/only-if-it-is-not-kept-empty.md": "3d9516da5576",
+      "content/posts/only-if-it-is-not-kept-empty.md": "89ba621e0d4d",
       "content/posts/ontos-is-a-method-agent.md": "184d76ee3d3d",
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
       "content/posts/openness-is-consistency.md": "3549bf93979f",
@@ -405,13 +405,13 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "745cd9146e81",
       "content/book/economics.md": "e488107cbd4f",
-      "content/book/index-of-premises.md": "b82540bbea0c",
+      "content/book/index-of-premises.md": "6ce747b75ed3",
       "content/book/intelligence.md": "2de88c6c06f0",
       "content/book/knowledge-and-learning.md": "9d59b725338c",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "da0f22846972",
       "content/book/meaning-and-transcendence.md": "c1d2a4521033",
-      "content/book/method.md": "5829409dd56d",
+      "content/book/method.md": "4011489671aa",
       "content/book/morality.md": "e521d5811053",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
@@ -421,14 +421,14 @@
     },
     "stats": {
       "posts": 394,
-      "edges": 7545,
+      "edges": 7556,
       "unique_directed": 4560,
       "missing_targets": 0,
       "one_way": 148,
       "isolated": 35,
       "posts_with_outbound": 358,
       "book_pages": 16,
-      "book_edges": 1083,
+      "book_edges": 1084,
       "posts_reached_by_book": 394
     }
   },
@@ -3808,8 +3808,8 @@
       "kind": "post",
       "slug": "only-if-it-is-not-kept-empty",
       "path": "content/posts/only-if-it-is-not-kept-empty.md",
-      "title": "Only If It Is Not Kept Empty",
-      "hash": "3d9516da5576",
+      "title": "只要它不被保持为空 / Only If It Is Not Kept Empty",
+      "hash": "89ba621e0d4d",
       "in_degree": 11,
       "out_degree": 11,
       "links_out": [
@@ -3818,8 +3818,8 @@
         "no-system-can-be-kept-closed",
         "production-consumption-and-the-minds-distinction",
         "openness-is-consistency",
-        "pessimism-is-the-shadow-of-optimism",
         "closed-reality-in-the-pursuit-of-serendipity",
+        "pessimism-is-the-shadow-of-optimism",
         "not-predicting-is-predicting-without-awareness",
         "the-scaffolding-we-forget",
         "clarity-isnt-a-state-you-arrive-at",
@@ -25001,67 +25001,133 @@
       "from": "only-if-it-is-not-kept-empty",
       "to": "you-wu-zhi-bian",
       "rel": "points_to",
+      "label": "有无之边"
+    },
+    {
+      "from": "only-if-it-is-not-kept-empty",
+      "to": "you-wu-zhi-bian",
+      "rel": "points_to",
       "label": "The Edge of Being and Non-Being"
     },
     {
       "from": "only-if-it-is-not-kept-empty",
       "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "rel": "points_to",
-      "label": "The real scarcity is not memory, but continuous re-tracing"
+      "label": "真正稀缺的不是记忆，而是持续的重新追溯"
+    },
+    {
+      "from": "only-if-it-is-not-kept-empty",
+      "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "rel": "points_to",
+      "label": "The Real Scarcity Is Not Memory, But Continuous Re-Tracing"
     },
     {
       "from": "only-if-it-is-not-kept-empty",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "没有系统能被保持封闭"
     },
     {
       "from": "only-if-it-is-not-kept-empty",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, consumption, and the Mind’s distinction"
+      "label": "生产、消费与心智的区分"
+    },
+    {
+      "from": "only-if-it-is-not-kept-empty",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "only-if-it-is-not-kept-empty",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, Consumption, and the Mind’s Distinction"
     },
     {
       "from": "only-if-it-is-not-kept-empty",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
-    },
-    {
-      "from": "only-if-it-is-not-kept-empty",
-      "to": "pessimism-is-the-shadow-of-optimism",
-      "rel": "points_to",
-      "label": "Pessimism is the shadow of optimism"
+      "label": "开放即一致"
     },
     {
       "from": "only-if-it-is-not-kept-empty",
       "to": "closed-reality-in-the-pursuit-of-serendipity",
       "rel": "points_to",
-      "label": "Closed reality in the pursuit of serendipity"
+      "label": "追求机缘中的封闭现实"
+    },
+    {
+      "from": "only-if-it-is-not-kept-empty",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "悲观是乐观的阴影"
     },
     {
       "from": "only-if-it-is-not-kept-empty",
       "to": "not-predicting-is-predicting-without-awareness",
       "rel": "points_to",
-      "label": "Not predicting is predicting without awareness"
+      "label": "不预测是没有觉察的预测"
+    },
+    {
+      "from": "only-if-it-is-not-kept-empty",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "only-if-it-is-not-kept-empty",
+      "to": "closed-reality-in-the-pursuit-of-serendipity",
+      "rel": "points_to",
+      "label": "Closed Reality in the Pursuit of Serendipity"
+    },
+    {
+      "from": "only-if-it-is-not-kept-empty",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism Is the Shadow of Optimism"
+    },
+    {
+      "from": "only-if-it-is-not-kept-empty",
+      "to": "not-predicting-is-predicting-without-awareness",
+      "rel": "points_to",
+      "label": "Not Predicting Is Predicting Without Awareness"
     },
     {
       "from": "only-if-it-is-not-kept-empty",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "The scaffolding we forget"
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "only-if-it-is-not-kept-empty",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
     },
     {
       "from": "only-if-it-is-not-kept-empty",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
-      "label": "Clarity isn’t a state you arrive at"
+      "label": "清晰不是抵达的终点，而是运动本身"
     },
     {
       "from": "only-if-it-is-not-kept-empty",
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
-      "label": "The scaffolding that keeps growing"
+      "label": "持续生长的脚手架"
+    },
+    {
+      "from": "only-if-it-is-not-kept-empty",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
+    },
+    {
+      "from": "only-if-it-is-not-kept-empty",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The Scaffolding That Keeps Growing"
     },
     {
       "from": "ontos-is-a-method-agent",
@@ -55195,7 +55261,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "b82540bbea0c",
+        "hash": "6ce747b75ed3",
         "out_degree": 394
       },
       {
@@ -55249,7 +55315,7 @@
         "slug": "method",
         "path": "content/book/method.md",
         "title": "非万物之理 / Not a Theory of Everything",
-        "hash": "5829409dd56d",
+        "hash": "4011489671aa",
         "out_degree": 26
       },
       {
@@ -57524,12 +57590,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "only-if-it-is-not-kept-empty",
-        "rel": "collects",
-        "label": "Only If It Is Not Kept Empty"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
         "rel": "collects",
         "label": "潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought"
@@ -57719,6 +57779,12 @@
         "to": "you-wu-zhi-bian",
         "rel": "collects",
         "label": "有无之边"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "only-if-it-is-not-kept-empty",
+        "rel": "collects",
+        "label": "只要它不被保持为空 / Only If It Is Not Kept Empty"
       },
       {
         "from": "book:index-of-premises",
@@ -58685,6 +58751,12 @@
         "to": "not-predicting-is-predicting-without-awareness",
         "rel": "collects",
         "label": "不预测是没有觉察的预测 / Not Predicting Is Predicting Without Awareness"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "only-if-it-is-not-kept-empty",
+        "rel": "collects",
+        "label": "只要它不被保持为空 / Only If It Is Not Kept Empty"
       },
       {
         "from": "book:index-of-premises",
@@ -60844,7 +60916,7 @@
         "from": "book:method",
         "to": "only-if-it-is-not-kept-empty",
         "rel": "collects",
-        "label": "Only If It Is Not Kept Empty"
+        "label": "只要它不被保持为空 / Only If It Is Not Kept Empty"
       },
       {
         "from": "book:method",

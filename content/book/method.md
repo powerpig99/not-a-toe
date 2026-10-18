@@ -24,7 +24,7 @@ The essays collected in this part document the emergence and development of this
 - [Looping and Graphing: Mind as the Loop of Loops](../../posts/looping-and-graphing/)
 - [Artifacts Are Expressions of Intelligence, Not Intelligence Itself](../../posts/two-failures-of-trace/)
 - [Presenting Ontos: A Method Agent](../../posts/ontos-is-a-method-agent/)
-- [Only If It Is Not Kept Empty](../../posts/only-if-it-is-not-kept-empty/)
+- [只要它不被保持为空 / Only If It Is Not Kept Empty](../../posts/only-if-it-is-not-kept-empty/)
 - [持续生长的脚手架 / The Scaffolding That Keeps Growing](../../posts/the-scaffolding-that-keeps-growing/)
 - [印迹与行动 / The Mark and the Act](../../posts/the-mark-and-the-act/)
 - [切分的三重影子 / The Three Shadows of the Cut](../../posts/the-three-shadows-of-the-cut/)
