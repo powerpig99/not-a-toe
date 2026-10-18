@@ -1383,7 +1383,7 @@ Frameworks setting wages by decree lean on assumptions about market power and in
 
 Naive realism assumes observers share an unmediated scene, which is of use as the default starting point of everyday coordination; it reaches its boundary in that shared reality is high functional resonance among private projections, robust enough for action, navigation and language yet never identity of experience.
 
-→ [表征的闭环 / The Closed Loop of Representation](../../posts/the-closed-loop-of-representation/)
+→ [表征的闭环 / The Closed Loop of Representation](../../posts/the-closed-loop-of-representation/) · [心智最坚固的信念 / The Strongest Belief of the Mind](../../posts/the-strongest-belief-of-the-mind/)
 
 ### 消极功利主义（最小化可避免的苦难） / Negative Utilitarianism (Minimizing Avoidable Suffering)
 `哲学 / Philosophical`
@@ -2080,15 +2080,6 @@ Substantialist ontology treats Being as primary and Void as mere absence; Laozi 
 
 → [有无之边](../../posts/you-wu-zhi-bian/) · [只要它不被保持为空 / Only If It Is Not Kept Empty](../../posts/only-if-it-is-not-kept-empty/)
 
-### 心智对自身被动性的盲信 / Belief in Passive Helplessness
-`哲学 / Philosophical`
-
-受害者心态将心智视作外部推力的被动受体；即便声称无可奈何，这种无力感依然是心智自身正在持续维系的认定。
-
-Victim mentality presumes mind is a passive recipient of external forces; even claiming helplessness is an actively sustained stance authored and maintained by the mind itself.
-
-→ [The Strongest Belief of the Mind](../../posts/the-strongest-belief-of-the-mind/)
-
 ### 大数据全知全能论 / Big Data Omniscience
 `技术 / Technological`
 
@@ -2753,7 +2744,7 @@ Financial freedom assumes money is the precondition of acting freely; at scarcit
 
 The search for a first cause and ultimate foundation carries everything back to a starting point that needs no cause, which is of use in giving a line of reasoning a place to pause; it reaches its boundary in that causality cannot be proved without already using it, the hold on an ultimate ground compensates for that unclosable proof, and causal chains are traceable yet never exhausted, so every foundation stays provisional.
 
-→ [现实的边界 / The Boundary of Reality](../../posts/xian-shi-de-bian-jie/)
+→ [现实的边界 / The Boundary of Reality](../../posts/xian-shi-de-bian-jie/) · [心智最坚固的信念 / The Strongest Belief of the Mind](../../posts/the-strongest-belief-of-the-mind/)
 
 ### 固定不变的自我 / Fixed Essential Self
 `哲学 / Philosophical`

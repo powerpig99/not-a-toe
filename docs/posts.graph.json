@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-18T08:48:09.774Z",
+    "generated_at": "2026-10-18T09:32:23.958Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -347,7 +347,7 @@
       "content/posts/the-source-of-shared-change.md": "4a0a0c0885e2",
       "content/posts/the-sovereign-blinding.md": "118b031bf858",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
-      "content/posts/the-strongest-belief-of-the-mind.md": "94b16cab0478",
+      "content/posts/the-strongest-belief-of-the-mind.md": "08187325a18d",
       "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "466ba4f09356",
       "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "ad2f484fe9b0",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
@@ -403,9 +403,9 @@
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "46323a1926a8",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "5584ccc6e135",
       "content/book/causality.md": "cbe5d03c5250",
-      "content/book/consciousness.md": "745cd9146e81",
+      "content/book/consciousness.md": "f69ff208c9db",
       "content/book/economics.md": "e488107cbd4f",
-      "content/book/index-of-premises.md": "b65f6cd089bf",
+      "content/book/index-of-premises.md": "5d6f61ae83e1",
       "content/book/intelligence.md": "2de88c6c06f0",
       "content/book/knowledge-and-learning.md": "9d59b725338c",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -421,14 +421,14 @@
     },
     "stats": {
       "posts": 394,
-      "edges": 7556,
+      "edges": 7572,
       "unique_directed": 4560,
       "missing_targets": 0,
       "one_way": 148,
       "isolated": 35,
       "posts_with_outbound": 358,
       "book_pages": 16,
-      "book_edges": 1084,
+      "book_edges": 1085,
       "posts_reached_by_book": 394
     }
   },
@@ -8680,16 +8680,16 @@
       "kind": "post",
       "slug": "the-strongest-belief-of-the-mind",
       "path": "content/posts/the-strongest-belief-of-the-mind.md",
-      "title": "The Strongest Belief of the Mind",
-      "hash": "94b16cab0478",
+      "title": "心智最坚固的信念 / The Strongest Belief of the Mind",
+      "hash": "08187325a18d",
       "in_degree": 18,
       "out_degree": 18,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
-        "the-scaffolding-we-forget",
         "causality-all-the-way",
         "the-path-drawn-one-step-at-a-time",
         "the-meaning-of-life-is-in-the-drafting",
+        "the-scaffolding-we-forget",
         "the-allocation-of-causal-power-in-validation",
         "reality-is-the-minds-ongoing-realization",
         "openness-is-consistency",
@@ -49439,121 +49439,217 @@
       "from": "the-strongest-belief-of-the-mind",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence belongs only to the Mind"
+      "label": "智能只属于心智"
     },
     {
       "from": "the-strongest-belief-of-the-mind",
-      "to": "the-scaffolding-we-forget",
+      "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "The scaffolding we forget"
+      "label": "Intelligence Belongs Only to The Mind"
     },
     {
       "from": "the-strongest-belief-of-the-mind",
       "to": "causality-all-the-way",
       "rel": "points_to",
-      "label": "Causality all the way"
+      "label": "因果贯穿始终"
     },
     {
       "from": "the-strongest-belief-of-the-mind",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
-      "label": "The path drawn one step at a time"
+      "label": "一步一步绘制出的路径"
+    },
+    {
+      "from": "the-strongest-belief-of-the-mind",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality All the Way"
+    },
+    {
+      "from": "the-strongest-belief-of-the-mind",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "The Path Drawn One Step at a Time"
     },
     {
       "from": "the-strongest-belief-of-the-mind",
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
-      "label": "The meaning of life is in the drafting"
+      "label": "生命的意义在起草之中"
     },
     {
       "from": "the-strongest-belief-of-the-mind",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "The scaffolding we forget"
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "the-strongest-belief-of-the-mind",
+      "to": "the-meaning-of-life-is-in-the-drafting",
+      "rel": "points_to",
+      "label": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing"
+    },
+    {
+      "from": "the-strongest-belief-of-the-mind",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
     },
     {
       "from": "the-strongest-belief-of-the-mind",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "The allocation of causal power in validation"
+      "label": "验证中因果权能的分配"
     },
     {
       "from": "the-strongest-belief-of-the-mind",
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
-      "label": "Reality is the Mind’s ongoing realization"
+      "label": "现实是心智持续的实现"
+    },
+    {
+      "from": "the-strongest-belief-of-the-mind",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
+    },
+    {
+      "from": "the-strongest-belief-of-the-mind",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality Is the Mind's Ongoing Realization"
     },
     {
       "from": "the-strongest-belief-of-the-mind",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
     },
     {
       "from": "the-strongest-belief-of-the-mind",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "没有系统能被保持封闭"
     },
     {
       "from": "the-strongest-belief-of-the-mind",
       "to": "not-a-theory-of-everything",
       "rel": "points_to",
-      "label": "Not a theory of everything"
+      "label": "非万物之理"
+    },
+    {
+      "from": "the-strongest-belief-of-the-mind",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-strongest-belief-of-the-mind",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "the-strongest-belief-of-the-mind",
+      "to": "not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "Not a Theory of Everything"
     },
     {
       "from": "the-strongest-belief-of-the-mind",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
-      "label": "Data is local; intelligence is allocated"
+      "label": "数据是局部的，智能是分配的"
     },
     {
       "from": "the-strongest-belief-of-the-mind",
-      "to": "the-path-drawn-one-step-at-a-time",
+      "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
-      "label": "The path drawn one step at a time"
+      "label": "Data Is Local; Intelligence Is Allocated"
     },
     {
       "from": "the-strongest-belief-of-the-mind",
       "to": "the-reality-distortion-field-names-the-closed-map",
       "rel": "points_to",
-      "label": "The reality distortion field names the closed map"
+      "label": "现实扭曲力场指认的是封闭的地图"
+    },
+    {
+      "from": "the-strongest-belief-of-the-mind",
+      "to": "the-reality-distortion-field-names-the-closed-map",
+      "rel": "points_to",
+      "label": "The Reality Distortion Field Names the Closed Map"
     },
     {
       "from": "the-strongest-belief-of-the-mind",
       "to": "what-works-is-the-belief",
       "rel": "points_to",
-      "label": "What works is the belief"
+      "label": "起作用的是信念"
     },
     {
       "from": "the-strongest-belief-of-the-mind",
       "to": "restriction-is-a-selective-tax",
       "rel": "points_to",
-      "label": "Restriction is a selective tax"
+      "label": "限制是选择性的税"
+    },
+    {
+      "from": "the-strongest-belief-of-the-mind",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "What Works Is the Belief"
+    },
+    {
+      "from": "the-strongest-belief-of-the-mind",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "Restriction Is a Selective Tax"
     },
     {
       "from": "the-strongest-belief-of-the-mind",
       "to": "how-belief-actually-changes",
       "rel": "points_to",
-      "label": "How belief actually changes"
+      "label": "信念如何真正改变"
+    },
+    {
+      "from": "the-strongest-belief-of-the-mind",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How Belief Actually Changes"
     },
     {
       "from": "the-strongest-belief-of-the-mind",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
-      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
+      "label": "没有外部"
     },
     {
       "from": "the-strongest-belief-of-the-mind",
       "to": "closed-assumptions-squeeze-compounding-into-s-curves",
       "rel": "points_to",
-      "label": "Closed assumptions squeeze compounding into S-curves"
+      "label": "封闭的假设把复利挤成 S 曲线"
     },
     {
       "from": "the-strongest-belief-of-the-mind",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, boundaries, and the moving edge of reality"
+      "label": "抽象、边界与现实的移动边缘"
+    },
+    {
+      "from": "the-strongest-belief-of-the-mind",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No Outside"
+    },
+    {
+      "from": "the-strongest-belief-of-the-mind",
+      "to": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "rel": "points_to",
+      "label": "Closed Assumptions Squeeze Compounding into S-Curves"
+    },
+    {
+      "from": "the-strongest-belief-of-the-mind",
+      "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "rel": "points_to",
+      "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
     },
     {
       "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
@@ -55243,7 +55339,7 @@
         "slug": "consciousness",
         "path": "content/book/consciousness.md",
         "title": "意识与第一人称先验 / Consciousness and the First-Person Prior",
-        "hash": "745cd9146e81",
+        "hash": "f69ff208c9db",
         "out_degree": 38
       },
       {
@@ -55261,7 +55357,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "b65f6cd089bf",
+        "hash": "5d6f61ae83e1",
         "out_degree": 394
       },
       {
@@ -55630,7 +55726,7 @@
         "from": "book:consciousness",
         "to": "the-strongest-belief-of-the-mind",
         "rel": "collects",
-        "label": "The Strongest Belief of the Mind"
+        "label": "心智最坚固的信念 / The Strongest Belief of the Mind"
       },
       {
         "from": "book:consciousness",
@@ -57164,6 +57260,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-strongest-belief-of-the-mind",
+        "rel": "collects",
+        "label": "心智最坚固的信念 / The Strongest Belief of the Mind"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-initial-distinction",
         "rel": "collects",
         "label": "最初的区分 / The Initial Distinction"
@@ -57788,12 +57890,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "the-strongest-belief-of-the-mind",
-        "rel": "collects",
-        "label": "The Strongest Belief of the Mind"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "data-is-local-intelligence-is-allocated",
         "rel": "collects",
         "label": "数据是局部的，智能是分配的 / Data Is Local; Intelligence Is Allocated"
@@ -58241,6 +58337,12 @@
         "to": "xian-shi-de-bian-jie",
         "rel": "collects",
         "label": "现实的边界 / The Boundary of Reality"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-strongest-belief-of-the-mind",
+        "rel": "collects",
+        "label": "心智最坚固的信念 / The Strongest Belief of the Mind"
       },
       {
         "from": "book:index-of-premises",
