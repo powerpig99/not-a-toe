@@ -22,7 +22,7 @@ Calling the sense of stepping outside the Mind an "illusion" already occupies a 
 
 ## 二、 存下的肖像与活的偏移 / 2. The Stored Portrait and the Live Offset
 
-普通的自我形象与意识活的行为之间，要划一道区分。平常所说的自我，是一个被维护的对象：一个关于自己是谁的回溯模型，在被扰动之后不断修补，被认同，被防御性地保存。这让它天然地滞后，是一幅已经挂在墙上的、存好的肖像。许多被叫作内省的东西，只是检视那幅冻住的肖像，看一件完成的器物，而不是认知活的运动。[自我形象仿佛从无处发声](../self-image-speaks-as-if-from-nowhere/)与[超验的定相](../the-fixed-image-of-transcendence/)追溯了这幅被保存的形象怎样冒充源头，遮住不断重新描摹它的那个活跃的中心。
+普通的自我形象与意识活的行为之间，要划一道区分。平常所说的自我，是一个被维护的对象：一个关于自己是谁的回溯模型，在被扰动之后不断修补，被认同，被防御性地保存。这让它天然地滞后，是一幅已经挂在墙上的、存好的肖像。许多被叫作内省的东西，只是检视那幅冻住的肖像，看一件完成的器物，而不是认知活的运动。[自我形象仿佛从无处发声](../self-image-speaks-as-if-from-nowhere/)与[超越的定相](../the-fixed-image-of-transcendence/)追溯了这幅被保存的形象怎样冒充源头，遮住不断重新描摹它的那个活跃的中心。
 
 A distinction must be drawn between the ordinary self-image and the living act of consciousness. The self in the usual sense is a maintained object: a retrospective model of who one is, repaired after each disruption, identified with and defensively conserved. This makes it lag by nature, a stored portrait already hanging on the wall. Much of what is called introspection is only inspecting that frozen portrait, examining a finished artifact rather than the living movement of cognition. [Self-Image Speaks as if from Nowhere](../self-image-speaks-as-if-from-nowhere/) and [The Fixed Image of Transcendence](../the-fixed-image-of-transcendence/) trace how this conserved image passes itself off as the origin, hiding the active centre that keeps re-rendering it.
 

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-18T06:13:35.932Z",
+    "generated_at": "2026-10-18T07:06:09.989Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -53,8 +53,8 @@
       "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "07c48bc35eff",
       "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "b7b01bc6f1e2",
       "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "bcfd90d98cfa",
-      "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "8db86951330c",
-      "content/posts/curiosity-has-no-final-form.md": "e5422a70910e",
+      "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "788e4742c499",
+      "content/posts/curiosity-has-no-final-form.md": "e351dcb2d5ff",
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
       "content/posts/data-is-local-intelligence-is-allocated.md": "4c12f11f2435",
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "6eb20a08626e",
@@ -83,7 +83,7 @@
       "content/posts/fidelity-not-optimality.md": "7ed073d86a59",
       "content/posts/fixed-by-nothing.md": "b28fd3f1db94",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
-      "content/posts/freedom-as-ground.md": "37e561f949cc",
+      "content/posts/freedom-as-ground.md": "bee66cdaf256",
       "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "71812a697b3f",
       "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "0ea3bc80574b",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "49e11e207c1c",
@@ -98,7 +98,7 @@
       "content/posts/hassabis-frontier-agi-premise.md": "5c4fc62c8e77",
       "content/posts/having-more-is-never-the-cause.md": "4f88f0327c1b",
       "content/posts/help-is-half-the-problem.md": "f9e3b1859fbc",
-      "content/posts/hierarchy-from-individual-difference.md": "9cbc515df11b",
+      "content/posts/hierarchy-from-individual-difference.md": "2009502f8f3d",
       "content/posts/how-belief-actually-changes.md": "5bd4a1b82fa2",
       "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "b57804da421d",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
@@ -127,7 +127,7 @@
       "content/posts/name-negation-tendency.md": "9261da00dc72",
       "content/posts/naval-separation-analysis.md": "dd1467c613bb",
       "content/posts/no-genius-can-solve-the-knowledge-problem.md": "f2e350cc7c7d",
-      "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "1fbdaeeb4f58",
+      "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "0bf275143cdc",
       "content/posts/no-outside-scorekeeper.md": "b0bbe06a0422",
       "content/posts/no-system-can-be-kept-closed.md": "479cfa653d24",
       "content/posts/nobody-has-seen-anything-yet.md": "684b9268b2c2",
@@ -173,7 +173,7 @@
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
       "content/posts/selection-contradiction-and-open-reality.md": "04f7665fb1f4",
-      "content/posts/self-image-speaks-as-if-from-nowhere.md": "1ab99555c83c",
+      "content/posts/self-image-speaks-as-if-from-nowhere.md": "032fa562fdd8",
       "content/posts/self-rl-for-humans.md": "9c6e189aabfd",
       "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "4f201d2f0e99",
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
@@ -185,7 +185,7 @@
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "068bebe4646a",
       "content/posts/sovereignty-essay.md": "10d294546a2a",
       "content/posts/sowell-observed-the-surface-problem.md": "5dbc958d7157",
-      "content/posts/stability-and-excess.md": "ffa61cd205e2",
+      "content/posts/stability-and-excess.md": "d3380355ad84",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "909c9d0b7fac",
       "content/posts/subtracting-consciousness-at-the-source.md": "eb988c747e6b",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "2e63440fe8c1",
@@ -198,7 +198,7 @@
       "content/posts/the-average-is-residue-not-the-engine.md": "436750ca56fb",
       "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md": "ba998bcd09f1",
       "content/posts/the-bank-shot-and-the-magic-trick.md": "2f2534e90b66",
-      "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "97547be1fe48",
+      "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "07cf5d0bb5ac",
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "b52ca2cdd064",
       "content/posts/the-blind-spot-of-the-frame.md": "23484e369bf2",
       "content/posts/the-boundary-crossing-of-choice.md": "795c21ece259",
@@ -238,10 +238,10 @@
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "bcd662973452",
       "content/posts/the-fallacy-of-post-success-parenting.md": "3c761a9c4e3c",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "c422640614eb",
-      "content/posts/the-fixed-image-of-transcendence.md": "198bb79ed7e9",
+      "content/posts/the-fixed-image-of-transcendence.md": "3f4ccd3f6269",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "4118b175c271",
       "content/posts/the-flywheel-of-the-mind.md": "41c27a04120a",
-      "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "6d5b630b2c56",
+      "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "539507f9e7ff",
       "content/posts/the-frame-that-conceals-improvement.md": "13c8f7c008fa",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "dde3f74f7d30",
       "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "e69b811fc985",
@@ -316,7 +316,7 @@
       "content/posts/the-perceiver-and-the-trace.md": "0f2f19a2e04a",
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "39ba1ef8a7a3",
       "content/posts/the-power-law-of-surrendered-agency.md": "390d27c147c5",
-      "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "a38ebc7ae763",
+      "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "a2496d4cfe28",
       "content/posts/the-price-of-closing-optionality.md": "3ad717f12d55",
       "content/posts/the-question-that-installs-the-war.md": "6570c77251d5",
       "content/posts/the-ramble-within-the-ramble.md": "454a1407f39f",
@@ -394,23 +394,23 @@
       "content/posts/xian-shi-de-bian-jie.md": "62dfac083174",
       "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "67d7a9a386eb",
       "content/posts/you-cant-benchmark-the-fluid.md": "5e3f42fa5041",
-      "content/posts/you-tiao-jian-de-zi-you.md": "f25fdfec3ce2",
+      "content/posts/you-tiao-jian-de-zi-you.md": "d7c121819589",
       "content/posts/you-wu-zhi-bian.md": "70bb215a86a7",
       "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "914571f5e4e9",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "fbf15c433774",
       "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "edb2618d9902",
       "content/posts/zi-you-de-ce-bu-zhun.md": "9c0ed3a2d8d9",
-      "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "f5883c9440fb",
+      "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "046647cf062e",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "5584ccc6e135",
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "745cd9146e81",
       "content/book/economics.md": "e488107cbd4f",
-      "content/book/index-of-premises.md": "a5e6ece05355",
-      "content/book/intelligence.md": "9528af4528a9",
+      "content/book/index-of-premises.md": "861402143579",
+      "content/book/intelligence.md": "2de88c6c06f0",
       "content/book/knowledge-and-learning.md": "9d59b725338c",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "da0f22846972",
-      "content/book/meaning-and-transcendence.md": "be7ba296cb80",
+      "content/book/meaning-and-transcendence.md": "c1d2a4521033",
       "content/book/method.md": "d52dd5b06929",
       "content/book/morality.md": "e521d5811053",
       "content/book/physics.md": "26d82e9eb69f",
@@ -421,14 +421,14 @@
     },
     "stats": {
       "posts": 394,
-      "edges": 7499,
+      "edges": 7521,
       "unique_directed": 4560,
       "missing_targets": 0,
       "one_way": 148,
       "isolated": 35,
       "posts_with_outbound": 358,
       "book_pages": 16,
-      "book_edges": 1082,
+      "book_edges": 1083,
       "posts_reached_by_book": 394
     }
   },
@@ -1752,7 +1752,7 @@
       "slug": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "path": "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md",
       "title": "好奇先行 / Curiosity First",
-      "hash": "8db86951330c",
+      "hash": "788e4742c499",
       "in_degree": 20,
       "out_degree": 19,
       "links_out": [
@@ -1783,7 +1783,7 @@
       "slug": "curiosity-has-no-final-form",
       "path": "content/posts/curiosity-has-no-final-form.md",
       "title": "好奇没有最终的形态 / Curiosity Has No Final Form",
-      "hash": "e5422a70910e",
+      "hash": "e351dcb2d5ff",
       "in_degree": 12,
       "out_degree": 12,
       "links_out": [
@@ -2389,7 +2389,7 @@
       "slug": "freedom-as-ground",
       "path": "content/posts/freedom-as-ground.md",
       "title": "自由即地基 / Freedom as Ground",
-      "hash": "37e561f949cc",
+      "hash": "bee66cdaf256",
       "in_degree": 13,
       "out_degree": 13,
       "links_out": [
@@ -2693,7 +2693,7 @@
       "slug": "hierarchy-from-individual-difference",
       "path": "content/posts/hierarchy-from-individual-difference.md",
       "title": "来自个体差异的层级 / Hierarchy from Individual Difference",
-      "hash": "9cbc515df11b",
+      "hash": "2009502f8f3d",
       "in_degree": 30,
       "out_degree": 29,
       "links_out": [
@@ -3485,7 +3485,7 @@
       "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "path": "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md",
       "title": "没有外部 / No Outside",
-      "hash": "1fbdaeeb4f58",
+      "hash": "0bf275143cdc",
       "in_degree": 22,
       "out_degree": 22,
       "links_out": [
@@ -4697,7 +4697,7 @@
       "slug": "self-image-speaks-as-if-from-nowhere",
       "path": "content/posts/self-image-speaks-as-if-from-nowhere.md",
       "title": "自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere",
-      "hash": "1ab99555c83c",
+      "hash": "032fa562fdd8",
       "in_degree": 24,
       "out_degree": 23,
       "links_out": [
@@ -4976,7 +4976,7 @@
       "slug": "stability-and-excess",
       "path": "content/posts/stability-and-excess.md",
       "title": "稳定与溢出 / Stability and Excess",
-      "hash": "ffa61cd205e2",
+      "hash": "d3380355ad84",
       "in_degree": 10,
       "out_degree": 10,
       "links_out": [
@@ -5374,7 +5374,7 @@
       "slug": "the-belief-in-utopia-is-the-path-to-dystopia",
       "path": "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md",
       "title": "对乌托邦的信念是通往反乌托邦之路 / The Belief in Utopia Is the Path to Dystopia",
-      "hash": "97547be1fe48",
+      "hash": "07cf5d0bb5ac",
       "in_degree": 23,
       "out_degree": 23,
       "links_out": [
@@ -6231,8 +6231,8 @@
       "kind": "post",
       "slug": "the-fixed-image-of-transcendence",
       "path": "content/posts/the-fixed-image-of-transcendence.md",
-      "title": "The Fixed Image of Transcendence",
-      "hash": "198bb79ed7e9",
+      "title": "超越的定相 / The Fixed Image of Transcendence",
+      "hash": "3f4ccd3f6269",
       "in_degree": 23,
       "out_degree": 22,
       "links_out": [
@@ -6315,7 +6315,7 @@
       "slug": "the-form-of-enlightenment-and-the-inversion-of-gates",
       "path": "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md",
       "title": "开悟的相与门槛的倒置 / The Form of Enlightenment and the Inversion of Gates",
-      "hash": "6d5b630b2c56",
+      "hash": "539507f9e7ff",
       "in_degree": 4,
       "out_degree": 9,
       "links_out": [
@@ -7873,7 +7873,7 @@
       "slug": "the-presumption-of-agi-and-the-view-from-outside",
       "path": "content/posts/the-presumption-of-agi-and-the-view-from-outside.md",
       "title": "AGI的预设与来自外部的视角 / The Presumption of AGI and the View from Outside",
-      "hash": "a38ebc7ae763",
+      "hash": "a2496d4cfe28",
       "in_degree": 23,
       "out_degree": 23,
       "links_out": [
@@ -9715,7 +9715,7 @@
       "slug": "you-tiao-jian-de-zi-you",
       "path": "content/posts/you-tiao-jian-de-zi-you.md",
       "title": "有条件的自由 / Conditional Freedom",
-      "hash": "f25fdfec3ce2",
+      "hash": "d7c121819589",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -9848,7 +9848,7 @@
       "slug": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "path": "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md",
       "title": "自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution",
-      "hash": "f5883c9440fb",
+      "hash": "046647cf062e",
       "in_degree": 15,
       "out_degree": 15,
       "links_out": [
@@ -15569,7 +15569,7 @@
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
-      "label": "超验的定相"
+      "label": "超越的定相"
     },
     {
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
@@ -15677,7 +15677,7 @@
       "from": "curiosity-has-no-final-form",
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
-      "label": "超验的定相"
+      "label": "超越的定相"
     },
     {
       "from": "curiosity-has-no-final-form",
@@ -18521,7 +18521,7 @@
       "from": "freedom-as-ground",
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
-      "label": "超验的定相"
+      "label": "超越的定相"
     },
     {
       "from": "freedom-as-ground",
@@ -20027,7 +20027,7 @@
       "from": "hierarchy-from-individual-difference",
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
-      "label": "超验的定相"
+      "label": "超越的定相"
     },
     {
       "from": "hierarchy-from-individual-difference",
@@ -23681,7 +23681,7 @@
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
-      "label": "超验的定相"
+      "label": "超越的定相"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
@@ -29483,7 +29483,7 @@
       "from": "self-image-speaks-as-if-from-nowhere",
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
-      "label": "超验的定相"
+      "label": "超越的定相"
     },
     {
       "from": "self-image-speaks-as-if-from-nowhere",
@@ -30707,7 +30707,7 @@
       "from": "stability-and-excess",
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
-      "label": "超验的定相"
+      "label": "超越的定相"
     },
     {
       "from": "stability-and-excess",
@@ -32969,7 +32969,7 @@
       "from": "the-belief-in-utopia-is-the-path-to-dystopia",
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
-      "label": "超验的定相"
+      "label": "超越的定相"
     },
     {
       "from": "the-belief-in-utopia-is-the-path-to-dystopia",
@@ -37307,91 +37307,187 @@
       "from": "the-fixed-image-of-transcendence",
       "to": "curiosity-has-no-final-form",
       "rel": "points_to",
+      "label": "好奇没有最终的形态"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
+      "to": "curiosity-has-no-final-form",
+      "rel": "points_to",
       "label": "Curiosity Has No Final Form"
     },
     {
       "from": "the-fixed-image-of-transcendence",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence belongs only to The Mind"
+      "label": "智能只属于心智"
     },
     {
       "from": "the-fixed-image-of-transcendence",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI are temporary goalposts"
+      "label": "AGI 与 ASI 是加速通用智能的暂时球门"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to The Mind"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
     },
     {
       "from": "the-fixed-image-of-transcendence",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
-      "label": "The model never becomes a second edge"
+      "label": "模型永远无法成为第二重前沿"
     },
     {
       "from": "the-fixed-image-of-transcendence",
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
-      "label": "Mistaking the expression for the intelligence"
+      "label": "错把表达当成智能"
     },
     {
       "from": "the-fixed-image-of-transcendence",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
-      "label": "Hierarchy from individual difference"
+      "label": "来自个体差异的层级"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the Expression for the Intelligence"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from Individual Difference"
     },
     {
       "from": "the-fixed-image-of-transcendence",
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
-      "label": "A creation cannot replace its source"
+      "label": "造物无法取代其源头"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "A Creation Cannot Replace Its Source"
     },
     {
       "from": "the-fixed-image-of-transcendence",
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
-      "label": "The scaffolding that keeps growing"
+      "label": "持续生长的脚手架"
     },
     {
       "from": "the-fixed-image-of-transcendence",
       "to": "escaping-the-sandbox-stays-inside-the-hold",
       "rel": "points_to",
-      "label": "Escaping the sandbox stays inside the hold"
+      "label": "逃出沙箱仍在持握之内"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The Scaffolding That Keeps Growing"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
+      "to": "escaping-the-sandbox-stays-inside-the-hold",
+      "rel": "points_to",
+      "label": "Escaping the Sandbox Stays Inside the Hold"
     },
     {
       "from": "the-fixed-image-of-transcendence",
       "to": "self-image-speaks-as-if-from-nowhere",
       "rel": "points_to",
-      "label": "Self-image speaks as if from nowhere"
+      "label": "自我形象仿佛从无处发声"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-Image Speaks as if from Nowhere"
     },
     {
       "from": "the-fixed-image-of-transcendence",
       "to": "stability-and-excess",
       "rel": "points_to",
-      "label": "Stability and excess: consciousness, introspection, and the cut of observation"
+      "label": "稳定与溢出"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
+      "to": "stability-and-excess",
+      "rel": "points_to",
+      "label": "Stability and Excess"
     },
     {
       "from": "the-fixed-image-of-transcendence",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "Closed reality in benchmark maxing"
+      "label": "基准刷榜中的封闭实存"
     },
     {
       "from": "the-fixed-image-of-transcendence",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
     },
     {
       "from": "the-fixed-image-of-transcendence",
       "to": "performative-hindsight-that-pretends-to-be-foresight",
       "rel": "points_to",
-      "label": "Performative hindsight that pretends to be foresight"
+      "label": "伪装成远见的表演性后见"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "Performative Hindsight That Pretends to Be Foresight"
     },
     {
       "from": "the-fixed-image-of-transcendence",
       "to": "evil-as-the-minds-own-creation",
       "rel": "points_to",
-      "label": "Evil as the Mind’s own creation"
+      "label": "恶是心智自己的造物"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
+      "to": "evil-as-the-minds-own-creation",
+      "rel": "points_to",
+      "label": "Evil as the Mind’s Own Creation"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
+      "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "rel": "points_to",
+      "label": "自尊的刚性外壳与隐性外部归因"
     },
     {
       "from": "the-fixed-image-of-transcendence",
@@ -37403,25 +37499,61 @@
       "from": "the-fixed-image-of-transcendence",
       "to": "you-tiao-jian-de-zi-you",
       "rel": "points_to",
+      "label": "有条件的自由"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
+      "to": "you-tiao-jian-de-zi-you",
+      "rel": "points_to",
       "label": "Conditional Freedom"
     },
     {
       "from": "the-fixed-image-of-transcendence",
       "to": "the-presumption-of-agi-and-the-view-from-outside",
       "rel": "points_to",
-      "label": "The presumption of AGI and the view from outside"
+      "label": "AGI的预设与来自外部的视角"
     },
     {
       "from": "the-fixed-image-of-transcendence",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
-      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
+      "label": "没有外部"
     },
     {
       "from": "the-fixed-image-of-transcendence",
       "to": "the-belief-in-utopia-is-the-path-to-dystopia",
       "rel": "points_to",
-      "label": "The belief in utopia is the path to dystopia"
+      "label": "对乌托邦的信念是通往反乌托邦之路"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
+      "to": "freedom-as-ground",
+      "rel": "points_to",
+      "label": "自由即地基"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
+      "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "rel": "points_to",
+      "label": "好奇先行"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "The Presumption of AGI and the View from Outside"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No Outside"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
+      "to": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "rel": "points_to",
+      "label": "The Belief in Utopia Is the Path to Dystopia"
     },
     {
       "from": "the-fixed-image-of-transcendence",
@@ -37433,7 +37565,7 @@
       "from": "the-fixed-image-of-transcendence",
       "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "rel": "points_to",
-      "label": "Curiosity First: The Hidden Engine of Talent and Development"
+      "label": "Curiosity First"
     },
     {
       "from": "the-flight-analogy-leaves-the-mind-untouched",
@@ -37655,7 +37787,7 @@
       "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
-      "label": "超验的定相"
+      "label": "超越的定相"
     },
     {
       "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
@@ -45059,7 +45191,7 @@
       "from": "the-presumption-of-agi-and-the-view-from-outside",
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
-      "label": "超验的定相"
+      "label": "超越的定相"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
@@ -53927,7 +54059,7 @@
       "from": "you-tiao-jian-de-zi-you",
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
-      "label": "超验的定相"
+      "label": "超越的定相"
     },
     {
       "from": "you-tiao-jian-de-zi-you",
@@ -54689,7 +54821,7 @@
       "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
-      "label": "超验的定相"
+      "label": "超越的定相"
     },
     {
       "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
@@ -54919,7 +55051,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "a5e6ece05355",
+        "hash": "861402143579",
         "out_degree": 394
       },
       {
@@ -54928,8 +55060,8 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "9528af4528a9",
-        "out_degree": 47
+        "hash": "2de88c6c06f0",
+        "out_degree": 48
       },
       {
         "id": "book:knowledge-and-learning",
@@ -54964,8 +55096,8 @@
         "slug": "meaning-and-transcendence",
         "path": "content/book/meaning-and-transcendence.md",
         "title": "意义追寻与超越之境 / The Search for Meaning and Transcendence",
-        "hash": "be7ba296cb80",
-        "out_degree": 13
+        "hash": "c1d2a4521033",
+        "out_degree": 12
       },
       {
         "id": "book:method",
@@ -56270,6 +56402,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-fixed-image-of-transcendence",
+        "rel": "collects",
+        "label": "超越的定相 / The Fixed Image of Transcendence"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "data-is-local-intelligence-is-allocated",
         "rel": "collects",
         "label": "数据是局部的，智能是分配的 / Data Is Local; Intelligence Is Allocated"
@@ -57122,6 +57260,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-fixed-image-of-transcendence",
+        "rel": "collects",
+        "label": "超越的定相 / The Fixed Image of Transcendence"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-observational-cut-in-ai-debates",
         "rel": "collects",
         "label": "AI 争论中的观察划界 / The Observational Cut in AI Debates"
@@ -57893,12 +58037,6 @@
         "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
         "rel": "collects",
         "label": "个人选择、社会化与做自己 / Individual Choice, Socialization and Being Oneself"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-fixed-image-of-transcendence",
-        "rel": "collects",
-        "label": "The Fixed Image of Transcendence"
       },
       {
         "from": "book:index-of-premises",
@@ -59906,6 +60044,12 @@
       },
       {
         "from": "book:intelligence",
+        "to": "the-fixed-image-of-transcendence",
+        "rel": "collects",
+        "label": "超越的定相 / The Fixed Image of Transcendence"
+      },
+      {
+        "from": "book:intelligence",
         "to": "the-presumption-of-agi-and-the-view-from-outside",
         "rel": "collects",
         "label": "AGI的预设与来自外部的视角 / The Presumption of AGI and the View from Outside"
@@ -60449,12 +60593,6 @@
         "to": "the-meaning-of-life-is-in-the-drafting",
         "rel": "collects",
         "label": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing"
-      },
-      {
-        "from": "book:meaning-and-transcendence",
-        "to": "the-fixed-image-of-transcendence",
-        "rel": "collects",
-        "label": "The Fixed Image of Transcendence"
       },
       {
         "from": "book:meaning-and-transcendence",

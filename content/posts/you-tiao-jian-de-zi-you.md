@@ -38,7 +38,7 @@ The long piece Justin Sun published on social media and the dispute that followe
 
 ## 三、 冻结的画像：从神圣投射到怨恨的模具 / 3. The Frozen Portrait: From Sacred Projection to the Mould of Resentment
 
-这种把自由抵押给外部条件的认知机制，在亲密关系里更隐蔽。许多人所谓的“爱”，从一开始就不是对着那个会呼吸、会开口、有自己欲望与条件的活人，而是对着一张在心智里被提前冻结的“画像”。[超验的定相](../the-fixed-image-of-transcendence/)揭示了这种凝固：照片里的形象没有下一句不可预测的台词，所以可以被无限地投射。先有一张照片生成的完美形象，在零现实交互的前提下，爱就已经在主体的脑海里成立，成立的是一个自我投射模型的封闭自洽，[表征的闭环](../the-closed-loop-of-representation/)说明了这种闭环。
+这种把自由抵押给外部条件的认知机制，在亲密关系里更隐蔽。许多人所谓的“爱”，从一开始就不是对着那个会呼吸、会开口、有自己欲望与条件的活人，而是对着一张在心智里被提前冻结的“画像”。[超越的定相](../the-fixed-image-of-transcendence/)揭示了这种凝固：照片里的形象没有下一句不可预测的台词，所以可以被无限地投射。先有一张照片生成的完美形象，在零现实交互的前提下，爱就已经在主体的脑海里成立，成立的是一个自我投射模型的封闭自洽，[表征的闭环](../the-closed-loop-of-representation/)说明了这种闭环。
 
 This cognitive mechanism of mortgaging freedom to outside conditions is subtler in intimate relationships. What many call "love" is from the start directed not at the living person who breathes, speaks and has desires and conditions of their own, but at a "portrait" frozen in advance in the Mind. [The Fixed Image of Transcendence](../the-fixed-image-of-transcendence/) reveals this setting: the figure in a photograph has no unpredictable next line and so can be projected onto without limit. First a perfect figure generated from a photograph, and with zero real interaction, love already holds in the subject's mind, what holds being the closed consistency of a model of self-projection, as [The Closed Loop of Representation](../the-closed-loop-of-representation/) shows.
 

@@ -780,7 +780,7 @@ Hameroff's treatment of understanding as an act outside rules, supplied by quant
 
 Substrate independence presumes that the Mind is a functional organization that can be lifted off its biological vehicle and installed in any substrate realizing the same functional description, which is of use in registering that some functions can indeed be replaced, even exceeded, outside biology; it reaches its boundary in that the brain is the biological embodiment of the Mind, not the Mind itself, embodiment being the current trace-configuration through which a locus sustains itself rather than a vessel holding the activity as a separable stock, so swapping the vehicle does not reconstitute the activity, and any evaluation of a substrate still relies on the Mind said to have been transferred.
 
-→ [飞行的类比碰不到心智 / The Flight Analogy Leaves the Mind Untouched](../../posts/the-flight-analogy-leaves-the-mind-untouched/)
+→ [飞行的类比碰不到心智 / The Flight Analogy Leaves the Mind Untouched](../../posts/the-flight-analogy-leaves-the-mind-untouched/) · [超越的定相 / The Fixed Image of Transcendence](../../posts/the-fixed-image-of-transcendence/)
 
 ### 群体智能 / Swarm Intelligence
 `科学 / Scientific`
@@ -1689,7 +1689,7 @@ Technological determinism presumes technology is a force standing apart from hum
 
 Technological Singularity theory presumes that a compounding capability curve crosses a threshold past which the artifact improves itself beyond its source, which is of use in registering the acceleration felt at the frontier and in mobilizing effort; it reaches its boundary in that the threshold sits forever ahead of the edge that draws it, extrapolating a local curve keeps the image past its step, and denser scaffolding stays scaffolding steered by the Mind.
 
-→ [The Exponential and the Linear Eye](../../posts/Analysis_Adolescence_of_Technology/) · [自我放大的制品 / The Artifacts of Self-Amplification](../../posts/the-artifacts-of-self-amplification/)
+→ [The Exponential and the Linear Eye](../../posts/Analysis_Adolescence_of_Technology/) · [自我放大的制品 / The Artifacts of Self-Amplification](../../posts/the-artifacts-of-self-amplification/) · [超越的定相 / The Fixed Image of Transcendence](../../posts/the-fixed-image-of-transcendence/)
 
 ### 技术性失业 / Technological Unemployment
 `经济 / Economic`
@@ -2772,15 +2772,6 @@ The search for a first cause and ultimate foundation carries everything back to 
 Being oneself is read as keeping a sealed, unchanging self, which is of use in withstanding outside pressure and keeping one's choices continuous; it reaches its boundary in that the self is an acting subject renewed through discrete choices and feedback, and being oneself is the continual refreshing of one's edge of action.
 
 → [个人选择、社会化与做自己 / Individual Choice, Socialization and Being Oneself](../../posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao/)
-
-### 固化的开悟相 / Fixed Image of Enlightenment
-`宗教 / Religious`
-
-修行教派容易为解脱描画固定的神圣画像；执着于预设的开悟图景，反将对自由的向往异化为禁锢心智的思想牢笼。
-
-Spiritual seekers construct fixed mental images of liberation; clinging to a pre-conceived state of enlightenment converts the search for freedom into a rigid mental prison.
-
-→ [The Fixed Image of Transcendence](../../posts/the-fixed-image-of-transcendence/)
 
 ### 固定蛋糕（零和）思维 / Fixed-Pie (Zero-Sum) Thinking
 `经济 / Economic`

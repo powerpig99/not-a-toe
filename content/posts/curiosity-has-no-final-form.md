@@ -24,7 +24,7 @@ The category error occurs when the residue is taken for the ceiling of inquiry, 
 - **Gatekeeping legitimacy**: once a discipline is declared a final destination, it is no longer used as a tool for exploring the unknown; it is used as an evaluative filter to decide what qualifies as valid curiosity.
 - **Mistaking the map for the compass**: claiming that physics or philosophy is the final form of curiosity is like claiming that cartography is the final form of walking. The map records where distinguishing has already happened; it is not the living capacity to take the next step.
 
-[遗忘的脚手架](../the-scaffolding-we-forget/)追踪的正是这种脱落：脚手架为解决一个局部的协调问题而搭起，一旦稳定下来，观察者就把脚手架错认作场本身。[超验的定相](../the-fixed-image-of-transcendence/)诊断的是同一个陷阱：活的攀登被冻成一尊静止的偶像，一条敞开的轨迹被改成了一座保存起来的纪念碑。
+[遗忘的脚手架](../the-scaffolding-we-forget/)追踪的正是这种脱落：脚手架为解决一个局部的协调问题而搭起，一旦稳定下来，观察者就把脚手架错认作场本身。[超越的定相](../the-fixed-image-of-transcendence/)诊断的是同一个陷阱：活的攀登被冻成一尊静止的偶像，一条敞开的轨迹被改成了一座保存起来的纪念碑。
 
 [The Scaffolding We Forget](../the-scaffolding-we-forget/) tracks this drop-out: scaffolding is put up to solve a local problem of coordination, but once it stabilizes, observers take the scaffold for the field itself. [The Fixed Image of Transcendence](../the-fixed-image-of-transcendence/) diagnoses the same trap: the living climb is frozen into a static icon, and an open trajectory is turned into a preserved monument.
 
