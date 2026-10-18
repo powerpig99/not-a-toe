@@ -21,7 +21,7 @@ These essays examine academic credentialism, the true advisory scope of expertis
 - [The Ramble Within the Ramble](../../posts/the-ramble-within-the-ramble/)
 - [The Real Scarcity Is Not Memory, But Continuous Re-Tracing](../../posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing/)
 - [The Paradoxical Nature of Bystander Insights](../../posts/the-paradoxical-nature-of-bystander-insights/)
-- [Curiosity First: The Hidden Engine of Talent and Development](../../posts/curiosity-first-the-hidden-engine-of-talent-and-development/)
+- [好奇先行 / Curiosity First](../../posts/curiosity-first-the-hidden-engine-of-talent-and-development/)
 - [无形象的写作 / Writing Without the Image](../../posts/writing-without-the-image/)
 - [专家经验作为参考而非替代 / Expertise as Reference, Not Replacement](../../posts/expertise-as-reference-not-replacement/)
 - [信念如何真正改变 / How Belief Actually Changes](../../posts/how-belief-actually-changes/)

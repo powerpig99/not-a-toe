@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-18T04:33:57.559Z",
+    "generated_at": "2026-10-18T05:22:21.612Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -53,7 +53,7 @@
       "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "07c48bc35eff",
       "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "b7b01bc6f1e2",
       "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "bcfd90d98cfa",
-      "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "7dc94da22303",
+      "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "8db86951330c",
       "content/posts/curiosity-has-no-final-form.md": "e5422a70910e",
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
       "content/posts/data-is-local-intelligence-is-allocated.md": "4c12f11f2435",
@@ -236,7 +236,7 @@
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "09a58e05b701",
       "content/posts/the-extendable-horizon.md": "8608b4dd4c16",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "bcd662973452",
-      "content/posts/the-fallacy-of-post-success-parenting.md": "49cdad0d1952",
+      "content/posts/the-fallacy-of-post-success-parenting.md": "3c761a9c4e3c",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "c422640614eb",
       "content/posts/the-fixed-image-of-transcendence.md": "198bb79ed7e9",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "4118b175c271",
@@ -390,7 +390,7 @@
       "content/posts/when-the-effect-authors-the-frame.md": "42fba9798842",
       "content/posts/why-explanation-fails.md": "4bd98e24db9a",
       "content/posts/why-mathematics-can-never-be-solved.md": "fe8cd131b75d",
-      "content/posts/writing-without-the-image.md": "95d5b9194141",
+      "content/posts/writing-without-the-image.md": "11cc852e032a",
       "content/posts/xian-shi-de-bian-jie.md": "62dfac083174",
       "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "67d7a9a386eb",
       "content/posts/you-cant-benchmark-the-fluid.md": "5e3f42fa5041",
@@ -405,9 +405,9 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "745cd9146e81",
       "content/book/economics.md": "e488107cbd4f",
-      "content/book/index-of-premises.md": "1ba5b08506a3",
+      "content/book/index-of-premises.md": "3992f1e4ba62",
       "content/book/intelligence.md": "9528af4528a9",
-      "content/book/knowledge-and-learning.md": "8c2cce815605",
+      "content/book/knowledge-and-learning.md": "9d59b725338c",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "da0f22846972",
       "content/book/meaning-and-transcendence.md": "be7ba296cb80",
@@ -421,14 +421,14 @@
     },
     "stats": {
       "posts": 394,
-      "edges": 7448,
+      "edges": 7467,
       "unique_directed": 4560,
       "missing_targets": 0,
       "one_way": 148,
       "isolated": 35,
       "posts_with_outbound": 358,
       "book_pages": 16,
-      "book_edges": 1080,
+      "book_edges": 1081,
       "posts_reached_by_book": 394
     }
   },
@@ -1751,18 +1751,18 @@
       "kind": "post",
       "slug": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "path": "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md",
-      "title": "Curiosity First: The Hidden Engine of Talent and Development",
-      "hash": "7dc94da22303",
+      "title": "好奇先行 / Curiosity First",
+      "hash": "8db86951330c",
       "in_degree": 20,
       "out_degree": 19,
       "links_out": [
         "mistaking-the-expression-for-the-intelligence",
         "having-more-is-never-the-cause",
         "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+        "the-fallacy-of-post-success-parenting",
         "the-generative-mechanics-of-value-money-and-wealth",
         "performative-hindsight-that-pretends-to-be-foresight",
         "token-efficiency-emulation-and-the-unclosable-gap",
-        "the-fallacy-of-post-success-parenting",
         "ownership-and-self-worthiness",
         "failure-as-information",
         "individual-choices-as-the-only-causal-levers",
@@ -6190,7 +6190,7 @@
       "slug": "the-fallacy-of-post-success-parenting",
       "path": "content/posts/the-fallacy-of-post-success-parenting.md",
       "title": "成功之后的育儿谬误 / The Fallacy of Post-Success Parenting",
-      "hash": "49cdad0d1952",
+      "hash": "3c761a9c4e3c",
       "in_degree": 12,
       "out_degree": 12,
       "links_out": [
@@ -9627,7 +9627,7 @@
       "slug": "writing-without-the-image",
       "path": "content/posts/writing-without-the-image.md",
       "title": "无形象的写作 / Writing Without the Image",
-      "hash": "95d5b9194141",
+      "hash": "11cc852e032a",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -15443,103 +15443,217 @@
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
-      "label": "Mistaking the expression for the intelligence"
+      "label": "错把表达当成智能"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the Expression for the Intelligence"
     },
     {
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "to": "having-more-is-never-the-cause",
       "rel": "points_to",
-      "label": "Having more is never the cause"
+      "label": "拥有更多从不是原因"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having More Is Never the Cause"
     },
     {
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "rel": "points_to",
-      "label": "External Attribution: The Obstacle to Personal Growth"
-    },
-    {
-      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
-      "to": "the-generative-mechanics-of-value-money-and-wealth",
-      "rel": "points_to",
-      "label": "The Generative Mechanics of Value, Money, and Wealth: How Agency Is Misallocated from Living Capability to Static Claims"
-    },
-    {
-      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
-      "to": "performative-hindsight-that-pretends-to-be-foresight",
-      "rel": "points_to",
-      "label": "Performative hindsight that pretends to be foresight"
-    },
-    {
-      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
-      "to": "token-efficiency-emulation-and-the-unclosable-gap",
-      "rel": "points_to",
-      "label": "Token efficiency, emulation, and the unclosable gap"
+      "label": "外部归因是个人进步的障碍"
     },
     {
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "to": "the-fallacy-of-post-success-parenting",
       "rel": "points_to",
-      "label": "The Fallacy of Post-Success Parenting: Hindsight Bias, Path Cloning, and the Erasure of Generative Struggle"
+      "label": "成功之后的育儿谬误"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "the-generative-mechanics-of-value-money-and-wealth",
+      "rel": "points_to",
+      "label": "价值、货币与财富的生成机制"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "rel": "points_to",
+      "label": "External Attribution Is the Obstacle to Personal Growth"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "the-fallacy-of-post-success-parenting",
+      "rel": "points_to",
+      "label": "The Fallacy of Post-Success Parenting"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "the-generative-mechanics-of-value-money-and-wealth",
+      "rel": "points_to",
+      "label": "The Generative Mechanics of Value, Money, and Wealth"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "伪装成远见的表演性后见"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "Performative Hindsight That Pretends to Be Foresight"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "token-efficiency-emulation-and-the-unclosable-gap",
+      "rel": "points_to",
+      "label": "Token 效率、模拟与无法弥合的间隙"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "token-efficiency-emulation-and-the-unclosable-gap",
+      "rel": "points_to",
+      "label": "Token Efficiency, Emulation, and the Unclosable Gap"
     },
     {
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "自我价值感与所有权"
     },
     {
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "to": "failure-as-information",
       "rel": "points_to",
-      "label": "Failure as information"
+      "label": "失败即信息"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "failure-as-information",
+      "rel": "points_to",
+      "label": "Failure as Information"
     },
     {
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
     },
     {
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "to": "writing-without-the-image",
       "rel": "points_to",
-      "label": "Writing without the image"
+      "label": "无形象的写作"
     },
     {
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
-      "label": "The fixed image of transcendence"
+      "label": "超验的定相"
     },
     {
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "to": "self-rl-for-humans",
       "rel": "points_to",
-      "label": "Self-RL for humans"
+      "label": "看似AI的强化学习，实为人类的自我强化学习"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "writing-without-the-image",
+      "rel": "points_to",
+      "label": "Writing Without the Image"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "The Fixed Image of Transcendence"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "What Looks Like RL for AIs Is Self-RL for Humans"
     },
     {
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
-      "label": "The scaffolding that keeps growing"
+      "label": "持续生长的脚手架"
     },
     {
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "to": "whatever-is-one-prompt-away",
       "rel": "points_to",
-      "label": "Whatever is one prompt away"
+      "label": "一个提示词之遥"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The Scaffolding That Keeps Growing"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "whatever-is-one-prompt-away",
+      "rel": "points_to",
+      "label": "Whatever Is One Prompt Away"
     },
     {
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "to": "hardness-is-not-inherent-in-the-action",
       "rel": "points_to",
-      "label": "Hardness is not inherent in the action"
+      "label": "难度不在行动本身"
     },
     {
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "to": "the-generative-topology-of-free-variables",
       "rel": "points_to",
-      "label": "The Generative Topology of Free Variables: From Quantum Collapse to Institutional Dependency and Evolutionary Obsolescence"
+      "label": "自由变量的生成拓扑"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "hardness-is-not-inherent-in-the-action",
+      "rel": "points_to",
+      "label": "Hardness Is Not Inherent in the Action"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "the-generative-topology-of-free-variables",
+      "rel": "points_to",
+      "label": "The Generative Topology of Free Variables"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "curiosity-has-no-final-form",
+      "rel": "points_to",
+      "label": "好奇没有最终的形态"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "来自个体差异的层级"
     },
     {
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
@@ -15551,7 +15665,7 @@
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
-      "label": "Hierarchy from individual difference"
+      "label": "Hierarchy from Individual Difference"
     },
     {
       "from": "curiosity-has-no-final-form",
@@ -53165,7 +53279,7 @@
       "from": "writing-without-the-image",
       "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "rel": "points_to",
-      "label": "Curiosity First: The Hidden Engine of Talent and Development"
+      "label": "Curiosity First"
     },
     {
       "from": "writing-without-the-image",
@@ -54613,7 +54727,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "1ba5b08506a3",
+        "hash": "3992f1e4ba62",
         "out_degree": 394
       },
       {
@@ -54631,7 +54745,7 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "8c2cce815605",
+        "hash": "9d59b725338c",
         "out_degree": 34
       },
       {
@@ -57880,7 +57994,7 @@
         "from": "book:index-of-premises",
         "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
         "rel": "collects",
-        "label": "Curiosity First: The Hidden Engine of Talent and Development"
+        "label": "好奇先行 / Curiosity First"
       },
       {
         "from": "book:index-of-premises",
@@ -58940,6 +59054,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
+        "rel": "collects",
+        "label": "好奇先行 / Curiosity First"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "expertise-as-reference-not-replacement",
         "rel": "collects",
         "label": "专家经验作为参考而非替代 / Expertise as Reference, Not Replacement"
@@ -59764,7 +59884,7 @@
         "from": "book:knowledge-and-learning",
         "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
         "rel": "collects",
-        "label": "Curiosity First: The Hidden Engine of Talent and Development"
+        "label": "好奇先行 / Curiosity First"
       },
       {
         "from": "book:knowledge-and-learning",

@@ -3163,11 +3163,11 @@ The CLI-first view assumes terminal text is the purest channel for machine intel
 ### 自发好奇心作为原动力 / Intrinsic Curiosity as Engine
 `成功学 / Self-Help`
 
-教育学试图通过机械操练批量培养专才；持久的卓越实则由内生好奇心驱动，唯有求知欲能支撑心智深耕复杂领域。
+把内生好奇当作天赋的原动力，预设好奇是与天赋并列、能被激发也会耗尽的一股动力，在解释持久的投入为何胜过机械操练时有用；它在此到了边界：被测量为天赋的，正是好奇被追随、被吸收后复利出的残余，好奇不是天赋旁边的第二个原因，而这份残余一旦被当作在先，下一步就被引离产生它的回路。
 
-Pedagogy attempts to engineer talent through disciplined rote drills; sustained mastery is propelled by intrinsic curiosity, which navigates complex domains without extrinsic fatigue.
+Treating intrinsic curiosity as the engine of talent presumes a drive set beside talent, to be sparked or exhausted, which is of use in explaining why sustained engagement outlasts rote drill; it reaches its boundary in that what is measured as talent is the compounding residue of curiosity followed and absorbed, so curiosity is no second cause beside talent, and once that residue is taken as prior, the next act is turned away from the loop that produced it.
 
-→ [Curiosity First: The Hidden Engine of Talent and Development](../../posts/curiosity-first-the-hidden-engine-of-talent-and-development/)
+→ [好奇先行 / Curiosity First](../../posts/curiosity-first-the-hidden-engine-of-talent-and-development/)
 
 ### 逆向思维作为通用策略 / Inversion as Universal Strategy
 `成功学 / Self-Help`
@@ -4616,7 +4616,7 @@ Activism assumes patterns like regulations hold independent causal power, which 
 
 Taking talent, circumstance, opportunity or systems as destiny is of use in gauging where a path starts and how hard it is; it reaches its boundary in that these are only conditions, to be used, bypassed, waited out or even created, and once raised to decisive causes they become an insurmountable fate, while the lever stays in how what happens is interpreted and what is chosen now on that basis.
 
-→ [外部归因是个人进步的障碍 / External Attribution Is the Obstacle to Personal Growth](../../posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/) · [翻袋球与魔术戏法 / The Bank Shot and the Magic Trick](../../posts/the-bank-shot-and-the-magic-trick/)
+→ [外部归因是个人进步的障碍 / External Attribution Is the Obstacle to Personal Growth](../../posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/) · [翻袋球与魔术戏法 / The Bank Shot and the Magic Trick](../../posts/the-bank-shot-and-the-magic-trick/) · [好奇先行 / Curiosity First](../../posts/curiosity-first-the-hidden-engine-of-talent-and-development/)
 
 ### 专家治国论权威 / Technocratic Expert Authority
 `哲学 / Philosophical`
