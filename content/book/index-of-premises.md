@@ -2404,15 +2404,6 @@ Context engineering presumes token window stuffing replicates shared understandi
 
 → [Context All the Way Down](../../posts/context-engineering-essay/)
 
-### 持续溯源的前提审视力 / Continuous Re-Tracing Capacity
-`哲学 / Philosophical`
-
-信息存储论以为扩充数字记忆库即可守住知识；静态资料库若无存活的心智反复核验其底层前提，终会沦为僵死沉淀。
-
-Information storage assumes expanding digital memory solves knowledge retention; static archives turn inert unless living attention repeatedly re-traces and verifies foundational premises.
-
-→ [The Real Scarcity Is Not Memory, But Continuous Re-Tracing](../../posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing/)
-
 ### 协调者的范畴错位 / Coordinator Category Error
 `经济 / Economic`
 
@@ -4464,6 +4455,15 @@ The average presumes a stable population whose mean stands for what drives the p
 Algorithmic determinism presumes automated models take over system governance; causal power stays with the living mind choosing where, when, and how to query the machine.
 
 → [因果停留在掌舵的边缘 / Causality Stays at the Edge That Steers](../../posts/causality-stays-at-the-edge-that-steers/)
+
+### 记忆的仓库模型 / Storehouse Model of Memory
+`科学 / Scientific`
+
+仓库模型预设记忆是把知识单元存进库里、需要时再原样取出，它在区分记得与忘记、在权衡什么该背什么该查时有用；它在此到了边界：显现为记忆的是活动与自身残余的相遇，可用的结构靠在新负荷下被重新渲染而存续，存在头脑里的存量和放在外面的存量一样，在被重新追溯进当下的构型之前，都不塑造下一步。
+
+The storehouse model presumes that memory deposits units of knowledge in a store and retrieves them as they were, which is of use in telling remembering from forgetting and in weighing what to memorize against what to look up; it reaches its boundary in that what appears as memory is the activity meeting its own residue, usable structure persists by being re-rendered under new load, and an inventory kept in the head shapes the next step no more than one kept outside until it is re-traced into the present configuration.
+
+→ [真正稀缺的不是记忆，而是持续的重新追溯 / The Real Scarcity Is Not Memory, But Continuous Re-Tracing](../../posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing/)
 
 ### 结构性NPC错觉 / Structural NPC Illusion
 `哲学 / Philosophical`

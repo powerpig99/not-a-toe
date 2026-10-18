@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-18T12:35:24.229Z",
+    "generated_at": "2026-10-18T13:28:50.034Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -322,7 +322,7 @@
       "content/posts/the-ramble-within-the-ramble.md": "454a1407f39f",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "b5fc86b4bbec",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "96c58bcce729",
-      "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "74769516764d",
+      "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "b3d9f124e004",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "48a714b8f22c",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "be4597d289a8",
       "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "9c76b27b0f26",
@@ -405,9 +405,9 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "f69ff208c9db",
       "content/book/economics.md": "e488107cbd4f",
-      "content/book/index-of-premises.md": "0d12c40f977d",
+      "content/book/index-of-premises.md": "53be1ce3565b",
       "content/book/intelligence.md": "2de88c6c06f0",
-      "content/book/knowledge-and-learning.md": "9f77d961d3bb",
+      "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "da0f22846972",
       "content/book/meaning-and-transcendence.md": "c1d2a4521033",
@@ -421,7 +421,7 @@
     },
     "stats": {
       "posts": 394,
-      "edges": 7634,
+      "edges": 7649,
       "unique_directed": 4561,
       "missing_targets": 0,
       "one_way": 147,
@@ -8036,8 +8036,8 @@
       "kind": "post",
       "slug": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "path": "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md",
-      "title": "The Real Scarcity Is Not Memory, But Continuous Re-Tracing",
-      "hash": "74769516764d",
+      "title": "真正稀缺的不是记忆，而是持续的重新追溯 / The Real Scarcity Is Not Memory, But Continuous Re-Tracing",
+      "hash": "b3d9f124e004",
       "in_degree": 16,
       "out_degree": 15,
       "links_out": [
@@ -46308,67 +46308,157 @@
       "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "to": "looping-and-graphing",
       "rel": "points_to",
-      "label": "Looping and graphing"
+      "label": "回环与成图"
     },
     {
       "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "The scaffolding we forget"
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "to": "looping-and-graphing",
+      "rel": "points_to",
+      "label": "Looping and Graphing"
+    },
+    {
+      "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
     },
     {
       "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "to": "two-failures-of-trace",
       "rel": "points_to",
-      "label": "Artifacts are expressions of intelligence, not intelligence itself"
+      "label": "器物是智能的表达，而非智能本身"
     },
     {
       "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "to": "what-always-listens-cannot-originate",
       "rel": "points_to",
-      "label": "what always listens cannot originate"
+      "label": "总在倾听者无法发起"
+    },
+    {
+      "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself"
+    },
+    {
+      "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "What Always Listens Cannot Originate"
     },
     {
       "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "to": "whatever-is-one-prompt-away",
       "rel": "points_to",
-      "label": "whatever is one prompt away"
+      "label": "一个提示词之遥"
     },
     {
       "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "closed reality in benchmark maxing"
+      "label": "基准刷榜中的封闭实存"
+    },
+    {
+      "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "to": "whatever-is-one-prompt-away",
+      "rel": "points_to",
+      "label": "Whatever Is One Prompt Away"
+    },
+    {
+      "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing"
     },
     {
       "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "to": "the-ramble-within-the-ramble",
       "rel": "points_to",
-      "label": "The ramble within the ramble"
+      "label": "漫谈中的漫谈"
     },
     {
       "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "to": "token-efficiency-emulation-and-the-unclosable-gap",
       "rel": "points_to",
-      "label": "token efficiency, emulation, and the unclosable gap"
+      "label": "Token 效率、模拟与无法弥合的间隙"
     },
     {
       "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "to": "lossless-knowledge-of-an-open-field-is-incoherent",
       "rel": "points_to",
-      "label": "Lossless knowledge of an open field is incoherent"
+      "label": "开放场域中的无损知识不自洽"
     },
     {
       "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "to": "only-if-it-is-not-kept-empty",
       "rel": "points_to",
-      "label": "Only if it is not kept empty"
+      "label": "只要它不被保持为空"
+    },
+    {
+      "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "to": "the-ramble-within-the-ramble",
+      "rel": "points_to",
+      "label": "The Ramble Within the Ramble"
+    },
+    {
+      "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "to": "token-efficiency-emulation-and-the-unclosable-gap",
+      "rel": "points_to",
+      "label": "Token Efficiency, Emulation, and the Unclosable Gap"
+    },
+    {
+      "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "to": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "rel": "points_to",
+      "label": "Lossless Knowledge of an Open Field Is Incoherent"
+    },
+    {
+      "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "to": "only-if-it-is-not-kept-empty",
+      "rel": "points_to",
+      "label": "Only If It Is Not Kept Empty"
     },
     {
       "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "to": "causality-all-the-way",
       "rel": "points_to",
-      "label": "Causality all the way"
+      "label": "因果贯穿始终"
+    },
+    {
+      "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality All the Way"
+    },
+    {
+      "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "信息是什么"
+    },
+    {
+      "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "to": "the-flywheel-of-the-mind",
+      "rel": "points_to",
+      "label": "心智的飞轮"
+    },
+    {
+      "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "清晰不是抵达的终点，而是运动本身"
+    },
+    {
+      "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "to": "xian-shi-de-bian-jie",
+      "rel": "points_to",
+      "label": "现实的边界"
     },
     {
       "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
@@ -46380,13 +46470,13 @@
       "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "to": "the-flywheel-of-the-mind",
       "rel": "points_to",
-      "label": "The flywheel of the Mind"
+      "label": "The Flywheel of the Mind"
     },
     {
       "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
-      "label": "Clarity isn’t a state you arrive at"
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
     },
     {
       "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
@@ -55730,7 +55820,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "0d12c40f977d",
+        "hash": "53be1ce3565b",
         "out_degree": 394
       },
       {
@@ -55748,7 +55838,7 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "9f77d961d3bb",
+        "hash": "b9cb2e291918",
         "out_degree": 34
       },
       {
@@ -58485,12 +58575,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
-        "rel": "collects",
-        "label": "The Real Scarcity Is Not Memory, But Continuous Re-Tracing"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "the-coordinators-category-error",
         "rel": "collects",
         "label": "The Coordinator’s Category Error"
@@ -59979,6 +60063,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+        "rel": "collects",
+        "label": "真正稀缺的不是记忆，而是持续的重新追溯 / The Real Scarcity Is Not Memory, But Continuous Re-Tracing"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-npc-impression-is-structural",
         "rel": "collects",
         "label": "NPC 印象是结构性的 / The NPC Impression Is Structural, Not a Ranking of Minds"
@@ -60905,7 +60995,7 @@
         "from": "book:knowledge-and-learning",
         "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
         "rel": "collects",
-        "label": "The Real Scarcity Is Not Memory, But Continuous Re-Tracing"
+        "label": "真正稀缺的不是记忆，而是持续的重新追溯 / The Real Scarcity Is Not Memory, But Continuous Re-Tracing"
       },
       {
         "from": "book:knowledge-and-learning",
