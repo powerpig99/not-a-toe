@@ -20,7 +20,7 @@ These essays examine academic credentialism, the true advisory scope of expertis
 - [Performative Hindsight That Pretends to Be Foresight](../../posts/performative-hindsight-that-pretends-to-be-foresight/)
 - [The Ramble Within the Ramble](../../posts/the-ramble-within-the-ramble/)
 - [The Real Scarcity Is Not Memory, But Continuous Re-Tracing](../../posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing/)
-- [The Paradoxical Nature of Bystander Insights](../../posts/the-paradoxical-nature-of-bystander-insights/)
+- [旁观者洞察的悖论 / The Paradoxical Nature of Bystander Insights](../../posts/the-paradoxical-nature-of-bystander-insights/)
 - [好奇先行 / Curiosity First](../../posts/curiosity-first-the-hidden-engine-of-talent-and-development/)
 - [无形象的写作 / Writing Without the Image](../../posts/writing-without-the-image/)
 - [专家经验作为参考而非替代 / Expertise as Reference, Not Replacement](../../posts/expertise-as-reference-not-replacement/)

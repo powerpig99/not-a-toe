@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-18T11:50:09.728Z",
+    "generated_at": "2026-10-18T12:35:24.229Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -311,7 +311,7 @@
       "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "60c3d0411af1",
       "content/posts/the-other-coherence.md": "aaadb7bb7979",
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "ef81ddddf533",
-      "content/posts/the-paradoxical-nature-of-bystander-insights.md": "14756d6ea4b3",
+      "content/posts/the-paradoxical-nature-of-bystander-insights.md": "1fb34e11990f",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "0d757a4508ca",
       "content/posts/the-perceiver-and-the-trace.md": "0f2f19a2e04a",
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "39ba1ef8a7a3",
@@ -405,9 +405,9 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "f69ff208c9db",
       "content/book/economics.md": "e488107cbd4f",
-      "content/book/index-of-premises.md": "decaaf136f0e",
+      "content/book/index-of-premises.md": "0d12c40f977d",
       "content/book/intelligence.md": "2de88c6c06f0",
-      "content/book/knowledge-and-learning.md": "9d59b725338c",
+      "content/book/knowledge-and-learning.md": "9f77d961d3bb",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "da0f22846972",
       "content/book/meaning-and-transcendence.md": "c1d2a4521033",
@@ -421,7 +421,7 @@
     },
     "stats": {
       "posts": 394,
-      "edges": 7615,
+      "edges": 7634,
       "unique_directed": 4561,
       "missing_targets": 0,
       "one_way": 147,
@@ -7754,8 +7754,8 @@
       "kind": "post",
       "slug": "the-paradoxical-nature-of-bystander-insights",
       "path": "content/posts/the-paradoxical-nature-of-bystander-insights.md",
-      "title": "The Paradoxical Nature of Bystander Insights",
-      "hash": "14756d6ea4b3",
+      "title": "旁观者洞察的悖论 / The Paradoxical Nature of Bystander Insights",
+      "hash": "1fb34e11990f",
       "in_degree": 20,
       "out_degree": 19,
       "links_out": [
@@ -7765,8 +7765,8 @@
         "closed-reality-in-the-pursuit-of-serendipity",
         "closed-reality-in-benchmark-maxing",
         "production-consumption-and-the-minds-distinction",
-        "openness-is-consistency",
         "no-system-can-be-kept-closed",
+        "openness-is-consistency",
         "the-meaning-of-life-is-in-the-drafting",
         "the-frame-that-conceals-improvement",
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -44754,115 +44754,229 @@
       "from": "the-paradoxical-nature-of-bystander-insights",
       "to": "not-predicting-is-predicting-without-awareness",
       "rel": "points_to",
-      "label": "Not predicting is predicting without awareness"
+      "label": "不预测是没有觉察的预测"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "not-predicting-is-predicting-without-awareness",
+      "rel": "points_to",
+      "label": "Not Predicting Is Predicting Without Awareness"
     },
     {
       "from": "the-paradoxical-nature-of-bystander-insights",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
-      "label": "the path drawn one step at a time"
+      "label": "一步一步绘制出的路径"
     },
     {
       "from": "the-paradoxical-nature-of-bystander-insights",
       "to": "two-failures-of-trace",
       "rel": "points_to",
-      "label": "Artifacts are expressions of intelligence, not intelligence itself"
+      "label": "器物是智能的表达，而非智能本身"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "The Path Drawn One Step at a Time"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself"
     },
     {
       "from": "the-paradoxical-nature-of-bystander-insights",
       "to": "closed-reality-in-the-pursuit-of-serendipity",
       "rel": "points_to",
-      "label": "Closed reality in the pursuit of serendipity"
+      "label": "追求机缘中的封闭现实"
     },
     {
       "from": "the-paradoxical-nature-of-bystander-insights",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "Closed reality in benchmark maxing"
+      "label": "基准刷榜中的封闭实存"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "closed-reality-in-the-pursuit-of-serendipity",
+      "rel": "points_to",
+      "label": "Closed Reality in the Pursuit of Serendipity"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem"
     },
     {
       "from": "the-paradoxical-nature-of-bystander-insights",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, consumption, and the Mind’s distinction"
-    },
-    {
-      "from": "the-paradoxical-nature-of-bystander-insights",
-      "to": "openness-is-consistency",
-      "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "生产、消费与心智的区分"
     },
     {
       "from": "the-paradoxical-nature-of-bystander-insights",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, Consumption, and the Mind’s Distinction"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "the-paradoxical-nature-of-bystander-insights",
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
-      "label": "The meaning of life is in the drafting"
+      "label": "生命的意义在起草之中"
     },
     {
       "from": "the-paradoxical-nature-of-bystander-insights",
       "to": "the-frame-that-conceals-improvement",
       "rel": "points_to",
-      "label": "The frame that conceals improvement"
+      "label": "遮蔽进步的框架"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "the-meaning-of-life-is-in-the-drafting",
+      "rel": "points_to",
+      "label": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "the-frame-that-conceals-improvement",
+      "rel": "points_to",
+      "label": "The Frame That Conceals Improvement"
     },
     {
       "from": "the-paradoxical-nature-of-bystander-insights",
       "to": "performative-hindsight-that-pretends-to-be-foresight",
       "rel": "points_to",
-      "label": "Performative hindsight that pretends to be foresight"
+      "label": "伪装成远见的表演性后见"
     },
     {
       "from": "the-paradoxical-nature-of-bystander-insights",
       "to": "causality-all-the-way",
       "rel": "points_to",
-      "label": "Causality all the way"
+      "label": "因果贯穿始终"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "Performative Hindsight That Pretends to Be Foresight"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality All the Way"
     },
     {
       "from": "the-paradoxical-nature-of-bystander-insights",
       "to": "sowell-observed-the-surface-problem",
       "rel": "points_to",
-      "label": "Sowell observed the surface problem"
+      "label": "索维尔的表象洞察与根因之偏"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "sowell-observed-the-surface-problem",
+      "rel": "points_to",
+      "label": "Sowell Observed the Surface Problem"
     },
     {
       "from": "the-paradoxical-nature-of-bystander-insights",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "The scaffolding we forget"
+      "label": "遗忘的脚手架"
     },
     {
       "from": "the-paradoxical-nature-of-bystander-insights",
       "to": "when-observation-becomes-performance",
       "rel": "points_to",
-      "label": "When observation becomes performance"
+      "label": "当观察变成表演"
     },
     {
       "from": "the-paradoxical-nature-of-bystander-insights",
       "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
-      "label": "Liberation rhetoric begins by defining captivity"
+      "label": "解放的言辞始于定义囚禁"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When Observation Becomes Performance"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "Liberation Rhetoric Begins by Defining Captivity"
     },
     {
       "from": "the-paradoxical-nature-of-bystander-insights",
       "to": "the-unobservable-driver-of-learning",
       "rel": "points_to",
-      "label": "The unobservable driver of learning"
+      "label": "学习中不可观测的驱动力"
     },
     {
       "from": "the-paradoxical-nature-of-bystander-insights",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
-      "label": "The source of shared change"
+      "label": "共同改变的本源"
     },
     {
       "from": "the-paradoxical-nature-of-bystander-insights",
       "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "rel": "points_to",
-      "label": "Exceptionality, perception, and the self-limiting field of problems"
+      "label": "卓异、感知与自我设限的问题场域"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "the-unobservable-driver-of-learning",
+      "rel": "points_to",
+      "label": "The Unobservable Driver of Learning"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "The Source of Shared Change"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, Perception, and the Self-Limiting Field of Problems"
     },
     {
       "from": "the-path-drawn-one-step-at-a-time",
@@ -55616,7 +55730,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "decaaf136f0e",
+        "hash": "0d12c40f977d",
         "out_degree": 394
       },
       {
@@ -55634,7 +55748,7 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "9d59b725338c",
+        "hash": "9f77d961d3bb",
         "out_degree": 34
       },
       {
@@ -58199,7 +58313,7 @@
         "from": "book:index-of-premises",
         "to": "the-paradoxical-nature-of-bystander-insights",
         "rel": "collects",
-        "label": "The Paradoxical Nature of Bystander Insights"
+        "label": "旁观者洞察的悖论 / The Paradoxical Nature of Bystander Insights"
       },
       {
         "from": "book:index-of-premises",
@@ -60797,7 +60911,7 @@
         "from": "book:knowledge-and-learning",
         "to": "the-paradoxical-nature-of-bystander-insights",
         "rel": "collects",
-        "label": "The Paradoxical Nature of Bystander Insights"
+        "label": "旁观者洞察的悖论 / The Paradoxical Nature of Bystander Insights"
       },
       {
         "from": "book:knowledge-and-learning",

@@ -2155,11 +2155,11 @@ Presumes regulatory peer-review of algorithms prevents physical catastrophe; use
 ### 旁观者洞察悖论 / Bystander Insight Paradox
 `哲学 / Philosophical`
 
-袖手旁观者假定置身事外的中立能带来超拔洞见；因无需承担实际风险，精巧的纸上谈兵一遇现实摩擦便支离破碎。
+旁观者的洞察把一个站在生成行动之外的观察者所报告的二选一，当作活动本身的限度，在一道固定的界限之下揭示实际的摩擦与可预见的冲突时有用；它在此到了边界：比较必须固定一道界限，规则便把封闭的前提作为条件携带着，一旦丢掉这个条件，持守的算术就被读成工作本身的限度，旁观者的报告如此，事后对自己的解释亦然。
 
-Armchair analysis presumes disinterested neutrality confers superior insight; lacking operational risk, detached commentary produces elegant theories that shatter under friction.
+Bystander insight takes the either-or an observer reports from outside the generating act as a limit of the activity itself, which is of use in surfacing practical frictions and predictable collisions under a fixed bound; it reaches its boundary in that the comparison has to fix a bound, so the rule carries the closed premise as its condition, and once that condition drops, the arithmetic of the hold reads as a limit of the work itself, in an observer's report and in one's own hindsight alike.
 
-→ [The Paradoxical Nature of Bystander Insights](../../posts/the-paradoxical-nature-of-bystander-insights/)
+→ [旁观者洞察的悖论 / The Paradoxical Nature of Bystander Insights](../../posts/the-paradoxical-nature-of-bystander-insights/)
 
 ### 暂停 AI 的呼吁 / Calls to Pause AI
 `技术 / Technological`
