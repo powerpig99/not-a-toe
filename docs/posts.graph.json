@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-18T15:17:19.110Z",
+    "generated_at": "2026-10-18T16:39:37.968Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -25,7 +25,7 @@
       "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "fe1a6df798eb",
       "content/posts/amplification-paradox.md": "01c4553a7e11",
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
-      "content/posts/beyond-the-hundred-trillion-horizon.md": "342aa576dd67",
+      "content/posts/beyond-the-hundred-trillion-horizon.md": "3a79f48b23a9",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "af7a00651647",
       "content/posts/causality-all-the-way.md": "b30f3ca08d48",
       "content/posts/causality-and-the-irreducible-prior.md": "b0836e2d3ef6",
@@ -96,7 +96,7 @@
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "5e1f5d55d8c4",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
       "content/posts/hassabis-frontier-agi-premise.md": "5c4fc62c8e77",
-      "content/posts/having-more-is-never-the-cause.md": "4f88f0327c1b",
+      "content/posts/having-more-is-never-the-cause.md": "cf6fb47f5653",
       "content/posts/help-is-half-the-problem.md": "f9e3b1859fbc",
       "content/posts/hierarchy-from-individual-difference.md": "2009502f8f3d",
       "content/posts/how-belief-actually-changes.md": "5bd4a1b82fa2",
@@ -210,7 +210,7 @@
       "content/posts/the-category-error-of-better.md": "3720a667e30e",
       "content/posts/the-causal-inversion-of-partnership.md": "3e0b8b306740",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "c57c3511aac6",
-      "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "fbf5eec7b863",
+      "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "eeef620ba6fb",
       "content/posts/the-causal-overstep-of-observation-and-the-first-person-surplus.md": "6c191f9ad616",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "db0233612f6e",
       "content/posts/the-closed-loop-of-representation.md": "633ffdcca70d",
@@ -229,7 +229,7 @@
       "content/posts/the-deterministic-machine.md": "19a7586b9418",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "cefee228d49b",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "6bed3375defb",
-      "content/posts/the-discount-on-agency.md": "c8523c34eab4",
+      "content/posts/the-discount-on-agency.md": "7d8affe9031c",
       "content/posts/the-dissolution-of-the-great-reversal.md": "3ef5fa05ee7f",
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "cd6f36ce905c",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "fbc2f400c1b1",
@@ -404,8 +404,8 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "5584ccc6e135",
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "f69ff208c9db",
-      "content/book/economics.md": "e488107cbd4f",
-      "content/book/index-of-premises.md": "e5ca067baa9d",
+      "content/book/economics.md": "5f09ac3fbf19",
+      "content/book/index-of-premises.md": "6581123cd019",
       "content/book/intelligence.md": "183aac2f9bc8",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -421,14 +421,14 @@
     },
     "stats": {
       "posts": 394,
-      "edges": 7694,
+      "edges": 7715,
       "unique_directed": 4561,
       "missing_targets": 0,
       "one_way": 147,
       "isolated": 35,
       "posts_with_outbound": 358,
       "book_pages": 16,
-      "book_edges": 1088,
+      "book_edges": 1089,
       "posts_reached_by_book": 394
     }
   },
@@ -1022,7 +1022,7 @@
       "slug": "beyond-the-hundred-trillion-horizon",
       "path": "content/posts/beyond-the-hundred-trillion-horizon.md",
       "title": "百万亿地平线之外 / Beyond the Hundred-Trillion Horizon",
-      "hash": "342aa576dd67",
+      "hash": "3a79f48b23a9",
       "in_degree": 1,
       "out_degree": 5,
       "links_out": [
@@ -2637,27 +2637,27 @@
       "kind": "post",
       "slug": "having-more-is-never-the-cause",
       "path": "content/posts/having-more-is-never-the-cause.md",
-      "title": "Having More Is Never the Cause",
-      "hash": "4f88f0327c1b",
+      "title": "拥有更多从不是原因 / Having More Is Never the Cause",
+      "hash": "cf6fb47f5653",
       "in_degree": 22,
       "out_degree": 21,
       "links_out": [
         "not-predicting-is-predicting-without-awareness",
         "performative-hindsight-that-pretends-to-be-foresight",
         "individual-choices-as-the-only-causal-levers",
+        "the-allocation-of-causal-power-in-validation",
         "empowerment-establishes-the-centralization-of-power",
         "the-discount-on-agency",
-        "the-allocation-of-causal-power-in-validation",
         "public-spending-does-not-create-capital",
-        "the-myth-of-population-collapse-explained",
-        "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+        "the-causal-order-of-private-residuals-and-social-surplus",
         "price-as-utterance-understanding-as-trade",
+        "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+        "the-average-is-residue-not-the-engine",
+        "the-myth-of-population-collapse-explained",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "the-utility-men-of-progress",
-        "the-average-is-residue-not-the-engine",
         "symptom-and-cause-in-the-narratives-of-progress",
         "hierarchy-from-individual-difference",
-        "the-causal-order-of-private-residuals-and-social-surplus",
         "two-failures-of-trace",
         "ownership-and-self-worthiness",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
@@ -5638,7 +5638,7 @@
       "slug": "the-causal-order-of-private-residuals-and-social-surplus",
       "path": "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md",
       "title": "私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus",
-      "hash": "fbf5eec7b863",
+      "hash": "eeef620ba6fb",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -6034,7 +6034,7 @@
       "slug": "the-discount-on-agency",
       "path": "content/posts/the-discount-on-agency.md",
       "title": "主体性的折现 / The Discount on Agency",
-      "hash": "c8523c34eab4",
+      "hash": "7d8affe9031c",
       "in_degree": 9,
       "out_degree": 9,
       "links_out": [
@@ -11574,7 +11574,7 @@
       "from": "beyond-the-hundred-trillion-horizon",
       "to": "having-more-is-never-the-cause",
       "rel": "points_to",
-      "label": "拥有更多并非因由"
+      "label": "拥有更多从不是原因"
     },
     {
       "from": "beyond-the-hundred-trillion-horizon",
@@ -19650,25 +19650,67 @@
       "from": "having-more-is-never-the-cause",
       "to": "not-predicting-is-predicting-without-awareness",
       "rel": "points_to",
-      "label": "Not predicting is predicting without awareness"
+      "label": "不预测是没有觉察的预测"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "not-predicting-is-predicting-without-awareness",
+      "rel": "points_to",
+      "label": "Not Predicting Is Predicting Without Awareness"
     },
     {
       "from": "having-more-is-never-the-cause",
       "to": "performative-hindsight-that-pretends-to-be-foresight",
       "rel": "points_to",
-      "label": "Performative hindsight that pretends to be foresight"
+      "label": "伪装成远见的表演性后见"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "Performative Hindsight That Pretends to Be Foresight"
     },
     {
       "from": "having-more-is-never-the-cause",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "验证中因果权能的分配"
     },
     {
       "from": "having-more-is-never-the-cause",
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
-      "label": "Empowerment establishes the centralization of power"
+      "label": "赋权确立权力的集中"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "the-discount-on-agency",
+      "rel": "points_to",
+      "label": "主体性的折现"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "empowerment-establishes-the-centralization-of-power",
+      "rel": "points_to",
+      "label": "Empowerment Establishes the Centralization of Power"
     },
     {
       "from": "having-more-is-never-the-cause",
@@ -19678,51 +19720,105 @@
     },
     {
       "from": "having-more-is-never-the-cause",
-      "to": "the-allocation-of-causal-power-in-validation",
-      "rel": "points_to",
-      "label": "The allocation of causal power in validation"
-    },
-    {
-      "from": "having-more-is-never-the-cause",
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
-      "label": "Public spending does not create capital"
+      "label": "公共支出不创造资本"
     },
     {
       "from": "having-more-is-never-the-cause",
-      "to": "the-myth-of-population-collapse-explained",
+      "to": "the-causal-order-of-private-residuals-and-social-surplus",
       "rel": "points_to",
-      "label": "The myth of population collapse explained"
-    },
-    {
-      "from": "having-more-is-never-the-cause",
-      "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
-      "rel": "points_to",
-      "label": "Ownership cost freezes lagged averages as vehicle property"
+      "label": "私人残差与社会剩余的因果次序"
     },
     {
       "from": "having-more-is-never-the-cause",
       "to": "price-as-utterance-understanding-as-trade",
       "rel": "points_to",
-      "label": "Price as utterance, understanding as trade"
+      "label": "价格是言说，理解是交易"
     },
     {
       "from": "having-more-is-never-the-cause",
-      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
       "rel": "points_to",
-      "label": "Exceptionality, perception, and the self-limiting field of problems"
-    },
-    {
-      "from": "having-more-is-never-the-cause",
-      "to": "the-utility-men-of-progress",
-      "rel": "points_to",
-      "label": "The utility men of progress"
+      "label": "拥有成本把滞后的平均值冻结为车辆属性"
     },
     {
       "from": "having-more-is-never-the-cause",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
-      "label": "The average is residue, not the engine"
+      "label": "平均值是残余，不是引擎"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "人口崩溃神话的拆解"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public Spending Does Not Create Capital"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "the-causal-order-of-private-residuals-and-social-surplus",
+      "rel": "points_to",
+      "label": "The Causal Order of Private Residuals and Social Surplus"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "Price as Utterance, Understanding as Trade"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "rel": "points_to",
+      "label": "Ownership Cost Freezes Lagged Averages as Vehicle Property"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "The Average Is Residue, Not the Engine"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "The Myth of Population Collapse Explained"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "卓异、感知与自我设限的问题场域"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "the-utility-men-of-progress",
+      "rel": "points_to",
+      "label": "进步的多面手"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "进步叙事中的症候与原因"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, Perception, and the Self-Limiting Field of Problems"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "the-utility-men-of-progress",
+      "rel": "points_to",
+      "label": "The Utility Men of Progress"
     },
     {
       "from": "having-more-is-never-the-cause",
@@ -19734,37 +19830,67 @@
       "from": "having-more-is-never-the-cause",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
-      "label": "Hierarchy from individual difference"
+      "label": "来自个体差异的层级"
     },
     {
       "from": "having-more-is-never-the-cause",
-      "to": "the-causal-order-of-private-residuals-and-social-surplus",
+      "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
-      "label": "The Causal Order of Private Residuals and Social Surplus"
+      "label": "Hierarchy from Individual Difference"
     },
     {
       "from": "having-more-is-never-the-cause",
       "to": "two-failures-of-trace",
       "rel": "points_to",
-      "label": "Artifacts are expressions of intelligence, not intelligence itself"
+      "label": "器物是智能的表达，而非智能本身"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself"
     },
     {
       "from": "having-more-is-never-the-cause",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "自我价值感与所有权"
     },
     {
       "from": "having-more-is-never-the-cause",
       "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "rel": "points_to",
-      "label": "Curiosity first"
+      "label": "好奇先行"
     },
     {
       "from": "having-more-is-never-the-cause",
       "to": "the-flywheel-of-the-mind",
       "rel": "points_to",
-      "label": "The flywheel of the Mind"
+      "label": "心智的飞轮"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "rel": "points_to",
+      "label": "能动性、复利与 AI 封建之争"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "rel": "points_to",
+      "label": "Curiosity First"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "the-flywheel-of-the-mind",
+      "rel": "points_to",
+      "label": "The Flywheel of the Mind"
     },
     {
       "from": "having-more-is-never-the-cause",
@@ -34710,7 +34836,7 @@
       "from": "the-causal-order-of-private-residuals-and-social-surplus",
       "to": "having-more-is-never-the-cause",
       "rel": "points_to",
-      "label": "拥有更多并非因由"
+      "label": "拥有更多从不是原因"
     },
     {
       "from": "the-causal-order-of-private-residuals-and-social-surplus",
@@ -34758,7 +34884,7 @@
       "from": "the-causal-order-of-private-residuals-and-social-surplus",
       "to": "having-more-is-never-the-cause",
       "rel": "points_to",
-      "label": "拥有更多并非因由"
+      "label": "拥有更多从不是原因"
     },
     {
       "from": "the-causal-order-of-private-residuals-and-social-surplus",
@@ -36672,7 +36798,7 @@
       "from": "the-discount-on-agency",
       "to": "having-more-is-never-the-cause",
       "rel": "points_to",
-      "label": "拥有更多从来不是原因"
+      "label": "拥有更多从不是原因"
     },
     {
       "from": "the-discount-on-agency",
@@ -56081,7 +56207,7 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "e488107cbd4f",
+        "hash": "5f09ac3fbf19",
         "out_degree": 28
       },
       {
@@ -56090,7 +56216,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "e5ca067baa9d",
+        "hash": "6581123cd019",
         "out_degree": 394
       },
       {
@@ -56681,7 +56807,7 @@
         "from": "book:economics",
         "to": "having-more-is-never-the-cause",
         "rel": "collects",
-        "label": "Having More Is Never the Cause"
+        "label": "拥有更多从不是原因 / Having More Is Never the Cause"
       },
       {
         "from": "book:economics",
@@ -59577,6 +59703,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "having-more-is-never-the-cause",
+        "rel": "collects",
+        "label": "拥有更多从不是原因 / Having More Is Never the Cause"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "rel": "collects",
         "label": "卓异、感知与自我设限的问题场域 / Exceptionality, Perception, and the Self-Limiting Field of Problems"
@@ -60131,7 +60263,7 @@
         "from": "book:index-of-premises",
         "to": "having-more-is-never-the-cause",
         "rel": "collects",
-        "label": "Having More Is Never the Cause"
+        "label": "拥有更多从不是原因 / Having More Is Never the Cause"
       },
       {
         "from": "book:index-of-premises",

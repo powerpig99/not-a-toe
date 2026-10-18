@@ -3421,6 +3421,15 @@ Canonizing mathematics, physics and philosophy as the terminus of inquiry is of 
 
 → [好奇没有最终的形态 / Curiosity Has No Final Form](../../posts/curiosity-has-no-final-form/)
 
+### 马太效应 / Matthew Effect
+`科学 / Scientific`
+
+默顿借福音书中“凡有的，还要加给他”一节，为科学奖励体系里的一种现象取名马太效应：贡献相当时，著名的科学家得到的承认远多于不那么知名的人；它在描述累积优势如何在社会尺度上变得可读时有用；它在此到了边界：被记下的是先前的承认而不是工作在吸来功劳，那正是占有被冻结成原因的样子，而使优势复利的，是仍在进行的区分，以及每一个别的中心对可得残余的选取。
+
+Merton named the Matthew effect after the Gospel verse "to the one who has, more will be given", for the reward system of science, in which eminent scientists receive disproportionate recognition for contributions comparable to those of the lesser known, which is of use in describing how cumulative advantage becomes legible at social scale; it reaches its boundary in that what it records is prior recognition rather than the work drawing the credit, possession frozen as cause, while what compounds advantage is distinguishing still going on and each other center's election of the residue available to it.
+
+→ [拥有更多从不是原因 / Having More Is Never the Cause](../../posts/having-more-is-never-the-cause/)
+
 ### 精英主义卓异神话 / Meritocratic Exceptionalism
 `哲学 / Philosophical`
 
@@ -4144,11 +4153,11 @@ The premise takes hands-on ownership of the substrate stack as the primary seat 
 ### 资源丰裕作为因果源头 / Resource Abundance as Cause
 `哲学 / Philosophical`
 
-唯物叙事假定拥有丰厚资本是成功的源头；资本盈余实则是敏锐判别力与自律调配资源后沉淀下来的滞后迹象。
+这种叙事预设，拥有更多的资本、注意或资源，本身就是取得更多的原因，在描述可得性如何被定型、已经可见者为何持续得到最多注意时有用；它在此到了边界：拥有是先前一连串离散区分的当下渲染，只在那些动作继续时被更新、并保持可得供别的中心选取，一旦它们停下便变薄，所以把下一次偏好归给占有，是把渲染冻结成了它的作者。
 
-Materialist narratives assume having greater capital causes breakthrough success; capital surplus is the lagging residue of sovereign discernment and rigorous resource allocation.
+The narrative presumes that having more capital, attention or resources is itself the cause of gaining more, which is of use in describing how availability is patterned and why the already-visible keep receiving the most attention; it reaches its boundary in that having is the present rendering of successive discrete acts of distinguishing, renewed and kept available for other centers to elect only while those acts continue and thinning once they stop, so assigning the next preference to possession freezes the rendering as its author.
 
-→ [Having More Is Never the Cause](../../posts/having-more-is-never-the-cause/)
+→ [拥有更多从不是原因 / Having More Is Never the Cause](../../posts/having-more-is-never-the-cause/)
 
 ### 责任是附加的伦理要求 / Responsibility as Ethical Add-On
 `成功学 / Self-Help`

@@ -20,7 +20,7 @@ Drawing on Misesian and Hayekian insights on distributed knowledge, these essays
 - [Humans, Tokens, and the Scope of Valuation](../../posts/humans-tokens-and-the-scope-of-valuation/)
 - [Production, Consumption, and the Mind’s Distinction](../../posts/production-consumption-and-the-minds-distinction/)
 - [Better Than Free After the Checklist Closes](../../posts/better-than-free-after-the-checklist-closes/)
-- [Having More Is Never the Cause](../../posts/having-more-is-never-the-cause/)
+- [拥有更多从不是原因 / Having More Is Never the Cause](../../posts/having-more-is-never-the-cause/)
 - [价格是言说，理解是交易 / Price as Utterance, Understanding as Trade](../../posts/price-as-utterance-understanding-as-trade/)
 - [公共支出不创造资本 / Public Spending Does Not Create Capital](../../posts/public-spending-does-not-create-capital/)
 - [拥有成本把滞后的平均值冻结为车辆属性 / Ownership Cost Freezes Lagged Averages as Vehicle Property](../../posts/ownership-cost-freezes-lagged-averages-as-vehicle-property/)

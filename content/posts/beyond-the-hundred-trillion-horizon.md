@@ -546,7 +546,7 @@ When millions of independent selections interact, accumulating path dependence a
 
 ## 七、 真实财富与纸面求索权的终极分野 / 7. The Ultimate Divergence Between Real Wealth and Paper Claims
 
-这一辨析的最终落脚点，在于厘清金融资产估值与文明真实财富之间的鸿沟。在关于[拥有更多并非因由](../having-more-is-never-the-cause/)与[价值、货币与财富的生成机理](../the-generative-mechanics-of-value-money-and-wealth/)的研究中，核心洞察已经反复确立：企业的市值规模，归根结底只是一张针对未来现金流分配与经济地租的法定索取凭证，无论账户上的纸面数字多么惊人，它本身都无法直接转化为人类当下的消费与生存保障。
+这一辨析的最终落脚点，在于厘清金融资产估值与文明真实财富之间的鸿沟。在关于[拥有更多从不是原因](../having-more-is-never-the-cause/)与[价值、货币与财富的生成机理](../the-generative-mechanics-of-value-money-and-wealth/)的研究中，核心洞察已经反复确立：企业的市值规模，归根结底只是一张针对未来现金流分配与经济地租的法定索取凭证，无论账户上的纸面数字多么惊人，它本身都无法直接转化为人类当下的消费与生存保障。
 
 The final resolution of this inquiry rests upon distinguishing financial claim checks from real productive wealth. As articulated in [Having More Is Never the Cause](../having-more-is-never-the-cause/) and [The Generative Mechanics of Value, Money, and Wealth](../the-generative-mechanics-of-value-money-and-wealth/), a corporation's market capitalization is merely a legal claim check on anticipated future dividends and economic rents. Regardless of how astronomical paper equity values appear, financial valuations cannot be consumed directly.
 

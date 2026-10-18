@@ -12,7 +12,7 @@ A child who comes to believe that their future depends on a small investment by 
 
 When a prominent industrialist publicly celebrates how a 250-dollar investment per child yields a massive return on investment, modern philanthropy reveals its most insidious accounting mechanism. Within the standard logic of financial markets, return on investment measures the productive efficiency of capital itself; yet here, the numerator consists of an actual human being's subsequent decades of perseverance, judgment, labor, and cognitive struggle. For a negligible sum to register on a balance sheet as a thousand-fold dividend, the entire narrative apparatus must attribute all subsequent friction-bearing, skill acquisition, and existential choices to the initial check. The living mind is demoted from an uncaused origin of action into an interest-bearing asset in another's portfolio.
 
-这并非关于救助数额多少的争论。提供遮风避雨的住所、清洁水源、基础教育与医疗救助，只是拓宽了个体在世界中呼吸与生存的边界，并没有僭越主体性的领地。两者的分界线，在于是否试图去承销一个独立生命的建构过程：无论是直接赠予启动资金、包办第一套住房，还是提供持续的兜底补贴，这些安排都在向受助者暗示，人生沉重的因果链条已经被他人代为解决。芬兰每月向前十七岁未成年人发放约95欧元的儿童津贴，无论数额是否上调，都不会引发这种异化；引发异化的不是支票的大小，而是将支票描绘为决定未来的前提力量。正如我们在[拥有更多从来不是原因](../having-more-is-never-the-cause/)中所见，条件的丰裕从不自动带来能力的生成。
+这并非关于救助数额多少的争论。提供遮风避雨的住所、清洁水源、基础教育与医疗救助，只是拓宽了个体在世界中呼吸与生存的边界，并没有僭越主体性的领地。两者的分界线，在于是否试图去承销一个独立生命的建构过程：无论是直接赠予启动资金、包办第一套住房，还是提供持续的兜底补贴，这些安排都在向受助者暗示，人生沉重的因果链条已经被他人代为解决。芬兰每月向前十七岁未成年人发放约95欧元的儿童津贴，无论数额是否上调，都不会引发这种异化；引发异化的不是支票的大小，而是将支票描绘为决定未来的前提力量。正如我们在[拥有更多从不是原因](../having-more-is-never-the-cause/)中所见，条件的丰裕从不自动带来能力的生成。
 
 ```mermaid
 flowchart TD
