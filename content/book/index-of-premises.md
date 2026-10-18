@@ -3430,15 +3430,6 @@ Self-reflection and method have value; the posture of surveying the whole from o
 
 → [“知道自己不知道”是一种修辞假象 / Knowing That You Don't Know Is a Rhetorical Illusion](../../posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/)
 
-### 方法型智能体架构 / Method-Driven Agent Architecture
-`技术 / Technological`
-
-流程自动化将智能体视为按部就班的跑腿者；方法型智能体贯彻认识论约束，主动审视底层假设并纠正认知漂移。
-
-Workflow automation treats agents as sequential task runners; a method agent enforces epistemological constraints, actively challenging assumptions and catching cognitive drift.
-
-→ [Presenting Ontos: A Method Agent](../../posts/ontos-is-a-method-agent/)
-
 ### 极简主义与延迟承诺 / Minimalism and Deferred Commitment
 `成功学 / Self-Help`
 
@@ -4058,7 +4049,7 @@ Chain-of-thought distillation assumes compressed scratchpads replicate genuine r
 
 The reading of "emergent capability" presumes that the model has crossed a threshold, that the harness is a key unlocking powers already latent in the model, and that inner loops running on their own are a new kind of intelligence, which is of use in tracking that models and harnesses do raise reach and velocity; it reaches its boundary in that the model is denser residue of prior distinguishing, the harness is further acts of the only edge that steers, the inner loops still take their objectives, evaluation criteria, and judgment of what counts as progress from the outer loop, and what looks like the model becoming more capable is the Mind realizing more of the field through a finer map while refining that map in the same motion.
 
-→ [智能向自身的回折 / Intelligence Folding Back on Itself](../../posts/intelligence-folding-back-on-itself/)
+→ [智能向自身的回折 / Intelligence Folding Back on Itself](../../posts/intelligence-folding-back-on-itself/) · [呈现Ontos，一个方法智能体 / Presenting Ontos, a Method Agent](../../posts/ontos-is-a-method-agent/)
 
 ### 再分配作为授权 / Redistribution as Authorization
 `经济 / Economic`

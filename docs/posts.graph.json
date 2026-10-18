@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-18T13:28:50.034Z",
+    "generated_at": "2026-10-18T14:25:49.644Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -30,7 +30,7 @@
       "content/posts/causality-all-the-way.md": "b30f3ca08d48",
       "content/posts/causality-and-the-irreducible-prior.md": "b0836e2d3ef6",
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "7af25db31047",
-      "content/posts/causality-stays-at-the-edge-that-steers.md": "4fc3125dfd05",
+      "content/posts/causality-stays-at-the-edge-that-steers.md": "d3452a8ceeda",
       "content/posts/cheng-gong-xue.md": "d9137bd9f09c",
       "content/posts/choice-itself-has-no-inherent-weight.md": "192b31e8caf0",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
@@ -107,7 +107,7 @@
       "content/posts/individual-choices-as-the-only-causal-levers.md": "7ac88325f6b1",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "77e5f7c73d29",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
-      "content/posts/intelligence-folding-back-on-itself.md": "ff0d26d21b6d",
+      "content/posts/intelligence-folding-back-on-itself.md": "d88639701d01",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "77408db0532e",
       "content/posts/looping-and-graphing.md": "062e2dbb437d",
@@ -141,7 +141,7 @@
       "content/posts/one-cannot-escape-ones-own-mind.md": "cb7f119c5157",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "dcc2fad90d4c",
       "content/posts/only-if-it-is-not-kept-empty.md": "89ba621e0d4d",
-      "content/posts/ontos-is-a-method-agent.md": "184d76ee3d3d",
+      "content/posts/ontos-is-a-method-agent.md": "f1252b8695a2",
       "content/posts/open-vision-in-a-closed-arena.md": "480f576f3e0f",
       "content/posts/openness-is-consistency.md": "3549bf93979f",
       "content/posts/order-surplus-and-the-moral-intercept.md": "6af5409d3970",
@@ -405,13 +405,13 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "f69ff208c9db",
       "content/book/economics.md": "e488107cbd4f",
-      "content/book/index-of-premises.md": "53be1ce3565b",
+      "content/book/index-of-premises.md": "e02c3fb17af5",
       "content/book/intelligence.md": "2de88c6c06f0",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "da0f22846972",
       "content/book/meaning-and-transcendence.md": "c1d2a4521033",
-      "content/book/method.md": "4011489671aa",
+      "content/book/method.md": "e5aa8786df1c",
       "content/book/morality.md": "0024610ecad0",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
@@ -421,7 +421,7 @@
     },
     "stats": {
       "posts": 394,
-      "edges": 7649,
+      "edges": 7658,
       "unique_directed": 4561,
       "missing_targets": 0,
       "one_way": 147,
@@ -1160,7 +1160,7 @@
       "slug": "causality-stays-at-the-edge-that-steers",
       "path": "content/posts/causality-stays-at-the-edge-that-steers.md",
       "title": "因果停留在掌舵的边缘 / Causality Stays at the Edge That Steers",
-      "hash": "4fc3125dfd05",
+      "hash": "d3452a8ceeda",
       "in_degree": 38,
       "out_degree": 37,
       "links_out": [
@@ -3028,7 +3028,7 @@
       "slug": "intelligence-folding-back-on-itself",
       "path": "content/posts/intelligence-folding-back-on-itself.md",
       "title": "智能向自身的回折 / Intelligence Folding Back on Itself",
-      "hash": "ff0d26d21b6d",
+      "hash": "d88639701d01",
       "in_degree": 19,
       "out_degree": 19,
       "links_out": [
@@ -3831,8 +3831,8 @@
       "kind": "post",
       "slug": "ontos-is-a-method-agent",
       "path": "content/posts/ontos-is-a-method-agent.md",
-      "title": "Presenting Ontos: A Method Agent",
-      "hash": "184d76ee3d3d",
+      "title": "呈现Ontos，一个方法智能体 / Presenting Ontos, a Method Agent",
+      "hash": "f1252b8695a2",
       "in_degree": 9,
       "out_degree": 9,
       "links_out": [
@@ -12414,7 +12414,7 @@
       "from": "causality-stays-at-the-edge-that-steers",
       "to": "ontos-is-a-method-agent",
       "rel": "points_to",
-      "label": "Presenting Ontos: A Method Agent"
+      "label": "Presenting Ontos, a Method Agent"
     },
     {
       "from": "causality-stays-at-the-edge-that-steers",
@@ -21720,7 +21720,7 @@
       "from": "intelligence-folding-back-on-itself",
       "to": "ontos-is-a-method-agent",
       "rel": "points_to",
-      "label": "Presenting Ontos: A Method Agent"
+      "label": "Presenting Ontos, a Method Agent"
     },
     {
       "from": "intelligence-folding-back-on-itself",
@@ -25134,55 +25134,109 @@
       "from": "ontos-is-a-method-agent",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence belongs only to The Mind"
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "ontos-is-a-method-agent",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to The Mind"
     },
     {
       "from": "ontos-is-a-method-agent",
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
-      "label": "Mistaking the expression for the intelligence"
+      "label": "错把表达当成智能"
     },
     {
       "from": "ontos-is-a-method-agent",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
-      "label": "The model never becomes a second edge"
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "ontos-is-a-method-agent",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the Expression for the Intelligence"
+    },
+    {
+      "from": "ontos-is-a-method-agent",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
     },
     {
       "from": "ontos-is-a-method-agent",
       "to": "a-living-external-cortex",
       "rel": "points_to",
-      "label": "A living external cortex"
+      "label": "活的外部皮层"
+    },
+    {
+      "from": "ontos-is-a-method-agent",
+      "to": "a-living-external-cortex",
+      "rel": "points_to",
+      "label": "A Living External Cortex"
     },
     {
       "from": "ontos-is-a-method-agent",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "The scaffolding we forget"
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "ontos-is-a-method-agent",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
     },
     {
       "from": "ontos-is-a-method-agent",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "Closed reality in benchmark maxing"
+      "label": "基准刷榜中的封闭实存"
+    },
+    {
+      "from": "ontos-is-a-method-agent",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing"
     },
     {
       "from": "ontos-is-a-method-agent",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
-      "label": "Causality stays at the edge that steers"
+      "label": "因果停留在掌舵的边缘"
     },
     {
       "from": "ontos-is-a-method-agent",
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
-      "label": "A creation cannot replace its source"
+      "label": "造物无法取代其源头"
+    },
+    {
+      "from": "ontos-is-a-method-agent",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality Stays at the Edge That Steers"
+    },
+    {
+      "from": "ontos-is-a-method-agent",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "A Creation Cannot Replace Its Source"
     },
     {
       "from": "ontos-is-a-method-agent",
       "to": "intelligence-folding-back-on-itself",
       "rel": "points_to",
-      "label": "Intelligence folding back on itself"
+      "label": "智能向自身的回折"
+    },
+    {
+      "from": "ontos-is-a-method-agent",
+      "to": "intelligence-folding-back-on-itself",
+      "rel": "points_to",
+      "label": "Intelligence Folding Back on Itself"
     },
     {
       "from": "open-vision-in-a-closed-arena",
@@ -55820,7 +55874,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "53be1ce3565b",
+        "hash": "e02c3fb17af5",
         "out_degree": 394
       },
       {
@@ -55874,7 +55928,7 @@
         "slug": "method",
         "path": "content/book/method.md",
         "title": "非万物之理 / Not a Theory of Everything",
-        "hash": "4011489671aa",
+        "hash": "e5aa8786df1c",
         "out_degree": 26
       },
       {
@@ -59301,12 +59355,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "ontos-is-a-method-agent",
-        "rel": "collects",
-        "label": "Presenting Ontos: A Method Agent"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "not-predicting-is-predicting-without-awareness",
         "rel": "collects",
         "label": "不预测是没有觉察的预测 / Not Predicting Is Predicting Without Awareness"
@@ -59778,6 +59826,12 @@
         "to": "intelligence-folding-back-on-itself",
         "rel": "collects",
         "label": "智能向自身的回折 / Intelligence Folding Back on Itself"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "ontos-is-a-method-agent",
+        "rel": "collects",
+        "label": "呈现Ontos，一个方法智能体 / Presenting Ontos, a Method Agent"
       },
       {
         "from": "book:index-of-premises",
@@ -61475,7 +61529,7 @@
         "from": "book:method",
         "to": "ontos-is-a-method-agent",
         "rel": "collects",
-        "label": "Presenting Ontos: A Method Agent"
+        "label": "呈现Ontos，一个方法智能体 / Presenting Ontos, a Method Agent"
       },
       {
         "from": "book:method",
