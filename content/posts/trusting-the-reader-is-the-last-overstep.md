@@ -120,7 +120,7 @@ To say that early sensory change is fixed by the input and only later conceptual
 
 ## 三、 决定论让一切论证失去意义 / 3. Determinism Makes Every Argument Moot
 
-另一种反驳是诉诸决定论：只要给定定律与先前状态，一切后续状态都被固定，那么谁贡献了什么，可以从因果链里客观读出。可是，如果一切都可以被决定论地解释，那么这场论证本身也只是被预先决定的轨迹，“相关”与“不相关”的区分便无从由系统内部宣称。[无人能持有的功能主义](../the-functionalism-no-functionalist-can-hold/)里的困境在这里重演：持有这一立场的人，恰恰需要一个这一立场所否认的观察者。
+另一种反驳是诉诸决定论：只要给定定律与先前状态，一切后续状态都被固定，那么谁贡献了什么，可以从因果链里客观读出。可是，如果一切都可以被决定论地解释，那么这场论证本身也只是被预先决定的轨迹，“相关”与“不相关”的区分便无从由系统内部宣称。[功能主义者无法持有的功能主义](../the-functionalism-no-functionalist-can-hold/)里的困境在这里重演：持有这一立场的人，恰恰需要一个这一立场所否认的观察者。
 
 Another objection appeals to determinism: given the laws and the prior state, every later state is fixed, so who contributed what can be read off the causal chain objectively. But if everything can be explained deterministically, then this very argument is also a predetermined trajectory, and the distinction between "relevant" and "irrelevant" cannot be claimed from inside the system. The predicament of [The Functionalism No Functionalist Can Hold](../the-functionalism-no-functionalist-can-hold/) repeats here: whoever holds the position needs exactly the observer the position denies.
 

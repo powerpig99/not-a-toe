@@ -1140,7 +1140,7 @@ Functional hierarchy presumes that rank precipitates from differences in capacit
 
 Functionalism defines mental states by causal role on the premise that the describer can stand outside the mind described; the premise fails once the theory is extended to the mind holding it, since both serious endorsement and the reduction of subjectivity must occupy the observer position it erases, while as a tool for describing multiply realizable information processing and guiding system design it remains sharp and useful.
 
-→ [无人能持有的功能主义 / The Functionalism No Functionalist Can Hold](../../posts/the-functionalism-no-functionalist-can-hold/) · [无法闭合的痕迹 / The Unclosable Trace](../../posts/the-unclosable-trace/) · [飞行的类比碰不到心智 / The Flight Analogy Leaves the Mind Untouched](../../posts/the-flight-analogy-leaves-the-mind-untouched/)
+→ [功能主义者无法持有的功能主义 / The Functionalism No Functionalist Can Hold](../../posts/the-functionalism-no-functionalist-can-hold/) · [无法闭合的痕迹 / The Unclosable Trace](../../posts/the-unclosable-trace/) · [飞行的类比碰不到心智 / The Flight Analogy Leaves the Mind Untouched](../../posts/the-flight-analogy-leaves-the-mind-untouched/)
 
 ### AGI功能主义理论 / Functionalist Theory of AGI
 `技术 / Technological`

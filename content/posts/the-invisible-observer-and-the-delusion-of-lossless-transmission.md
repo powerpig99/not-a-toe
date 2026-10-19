@@ -26,6 +26,8 @@ This ostensibly profound ontological chasm is, upon closer inspection, merely a 
 
 The underlying motive driving cognitive institutions to maintain this artificial divide between spectator and actor is an obsession with lossless cross-mind transmission. In orthodox dogma, truth must be packaged as a standardized cargo capable of being replicated identically across diverse individuals, detached from the scene of its emergence. For mathematical equations, empirical laws, or moral edicts to land unaltered within alien minds, the architects of theory must sanitize every trace of embodied warmth. They must assure their audience that the observation is the unvarnished object itself, uncontaminated by the recorder's sensory acuity, instrumental precision, or inferential bias.
 
+要让这种无损传递的神话成立，观察者就必须被强行隐身。在科学论文的被动语态里，没有某人看见了指针偏转，只有指针被观察到偏转；在哲学体系的宏大建构中，没有思想者在特定语境下的痛苦求索，只有理念自发显现的逻辑必然。这种去主体化的修辞术成功制造了无损传递的假象，却在同时摧毁了理论自身的存在根基。正如我们在剖析[功能主义者无法持有的功能主义](../the-functionalism-no-functionalist-can-hold/)时所指出的，一套宣称能够客观解释所有心智机制的理论，却找不到任何一个活态心智能够容身其中。当观察者在理论内部悉数隐匿，整套叙事便失去了它的因果针脚，变成了一张无处安放、悬浮在虚空中的幽灵地图。
+
 ```mermaid
 flowchart TD
     subgraph S_delusion ["无损传递的自欺链条"]
@@ -48,8 +50,6 @@ flowchart TD
     style E fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style F fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
-
-要让这种无损传递的神话成立，观察者就必须被强行隐身。在科学论文的被动语态里，没有某人看见了指针偏转，只有指针被观察到偏转；在哲学体系的宏大建构中，没有思想者在特定语境下的痛苦求索，只有理念自发显现的逻辑必然。这种去主体化的修辞术成功制造了无损传递的假象，却在同时摧毁了理论自身的存在根基。正如我们在剖析[无人能持有的功能主义](../the-functionalism-no-functionalist-can-hold/)时所指出的，一套宣称能够客观解释所有心智机制的理论，却找不到任何一个活态心智能够容身其中。当观察者在理论内部悉数隐匿，整套叙事便失去了它的因果针脚，变成了一张无处安放、悬浮在虚空中的幽灵地图。
 
 To sustain the myth of lossless transmission, the observer must be rendered forcibly invisible. In the passive voice of scientific papers, no human gaze witnesses the needle deflect; instead, the deflection was simply observed. In the grand architecture of philosophical systems, the situated struggle of an embodied thinker is erased, replaced by the spontaneous self-unfolding of logical necessity. This rhetorical de-subjectification constructs the illusion of lossless transmission, yet simultaneously dynamites the ground beneath the theory itself. As we observed when dissecting [the functionalism no functionalist can hold](../the-functionalism-no-functionalist-can-hold/), a framework professing to account for all mental operations objectively cannot find a single living mind capable of occupying its vantage point. When the observer is vanished from within the model, the entire discourse loses its causal anchors, drifting as a spectral map suspended in a void.
 
@@ -86,6 +86,8 @@ Communication across distinct minds is inherently subject to topological distort
 
 The antidote to this impasse lies in recognizing the internal isomorphism uniting the observer and the act of observation. Epistemic institutions routinely categorize the observer as an operating agent and the observation as an extracted product, nurturing the fantasy that the product can be preserved intact while the agent is discarded. Yet these are not sequential links in a linear chain; like the law of causality and the first-person perspective, they constitute the two indivisible faces of a single cognitive coin.
 
+从正面审视，它是第一人称的具身体验，是观察者主动投掷注意力、与现实发生碰撞并承受阻力的主权历程；从反面审视，它显现为被度量、被记录并可在不同主体间达成统计不变性的观察产物。正如我们在剖析[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)时所阐述的，脱离了主权抉择的客体规律只是一纸空文，而脱离了客观阻力的主观抉择则沦为空想。试图保留观察而抹杀观察者，等同于妄图只要硬币的背面而削去它的正面。进一步地，正如在[寻觅的语法与淡出的观察者](../the-grammar-of-finding-and-the-fading-observer/)中所揭示的，两面的不可兼视源于观察朝向的几何排他性，并不意味着实在本体的断裂；观察者在开辟视界时的自然隐退，恰恰是其作为先验基底的证明，而非可以任意剔除的冗余。
+
 ```mermaid
 flowchart TD
     subgraph S_coin ["不可分割的一体两面"]
@@ -118,8 +120,6 @@ flowchart TD
     style CAUS fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style CALIB fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
-
-从正面审视，它是第一人称的具身体验，是观察者主动投掷注意力、与现实发生碰撞并承受阻力的主权历程；从反面审视，它显现为被度量、被记录并可在不同主体间达成统计不变性的观察产物。正如我们在剖析[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)时所阐述的，脱离了主权抉择的客体规律只是一纸空文，而脱离了客观阻力的主观抉择则沦为空想。试图保留观察而抹杀观察者，等同于妄图只要硬币的背面而削去它的正面。进一步地，正如在[寻觅的语法与淡出的观察者](../the-grammar-of-finding-and-the-fading-observer/)中所揭示的，两面的不可兼视源于观察朝向的几何排他性，并不意味着实在本体的断裂；观察者在开辟视界时的自然隐退，恰恰是其作为先验基底的证明，而非可以任意剔除的冗余。
 
 Viewed from the front, it is an embodied first-person encounter: the sovereign trajectory wherein an observer projects attention, collides with resistance, and absorbs friction. Viewed from the reverse, it manifests as the measured, recorded trace that achieves statistical invariance across observers. As articulated in our analysis of [the two-sided nature of sovereign choice and the objectification of observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/), an objective regularity severed from sovereign choice is a dead letter, while subjective volition divorced from objective resistance is mere daydreaming. Demanding observation while erasing the observer is identical to demanding the reverse of a coin while shaving away its obverse. Furthermore, as demonstrated in [The Grammar of Finding and the Fading Observer](../the-grammar-of-finding-and-the-fading-observer/), the impossibility of simultaneous capture stems from the geometric exclusivity of viewing orientations rather than an ontological fracture; the observer's natural fading as it opens the observational field proves its status as an enabling prior ground rather than an optional redundancy.
 

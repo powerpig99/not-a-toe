@@ -45,7 +45,7 @@ The essays in this part confront the hard problem of consciousness, the evolutio
 - [投射中的自画像 / The Self-Portrait in the Projection](../../posts/the-self-portrait-in-the-projection/)
 - [意识的魔术戏法与推断的非对称性 / The Sleight of Hand of Consciousness and the Asymmetry of Inference](../../posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference/)
 - [不可还原的观察者 / The Irreducible Observer](../../posts/the-irreducible-observer/)
-- [无人能持有的功能主义 / The Functionalism No Functionalist Can Hold](../../posts/the-functionalism-no-functionalist-can-hold/)
+- [功能主义者无法持有的功能主义 / The Functionalism No Functionalist Can Hold](../../posts/the-functionalism-no-functionalist-can-hold/)
 - [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/)
 - [框架的盲区 / The Blind Spot of the Frame](../../posts/the-blind-spot-of-the-frame/)
 - [现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling](../../posts/present-contact-and-the-obscuration-of-desired-feeling/)
