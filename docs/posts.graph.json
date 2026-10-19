@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-19T14:15:03.376Z",
+    "generated_at": "2026-10-19T14:48:22.910Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -144,7 +144,7 @@
       "content/posts/only-if-it-is-not-kept-empty.md": "89ba621e0d4d",
       "content/posts/ontos-is-a-method-agent.md": "f1252b8695a2",
       "content/posts/open-vision-in-a-closed-arena.md": "86f711861938",
-      "content/posts/openness-is-consistency.md": "3549bf93979f",
+      "content/posts/openness-is-consistency.md": "61d62cdf99f0",
       "content/posts/order-surplus-and-the-moral-intercept.md": "6af5409d3970",
       "content/posts/overfitting-as-the-follower-mode.md": "c2ebb1c4e1e2",
       "content/posts/ownership-and-self-worthiness.md": "f5ec65e92962",
@@ -412,7 +412,7 @@
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "09aa9b177e48",
       "content/book/meaning-and-transcendence.md": "c1d2a4521033",
-      "content/book/method.md": "e5aa8786df1c",
+      "content/book/method.md": "9ae1de0d35cf",
       "content/book/morality.md": "0024610ecad0",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
@@ -422,7 +422,7 @@
     },
     "stats": {
       "posts": 395,
-      "edges": 8098,
+      "edges": 8178,
       "unique_directed": 4612,
       "missing_targets": 0,
       "one_way": 168,
@@ -3909,8 +3909,8 @@
       "kind": "post",
       "slug": "openness-is-consistency",
       "path": "content/posts/openness-is-consistency.md",
-      "title": "Openness Is Consistency",
-      "hash": "3549bf93979f",
+      "title": "开放即一致 / Openness Is Consistency",
+      "hash": "61d62cdf99f0",
       "in_degree": 80,
       "out_degree": 80,
       "links_out": [
@@ -27418,13 +27418,43 @@
       "from": "openness-is-consistency",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
-      "label": "The path drawn one step at a time"
+      "label": "一步一步绘制出的路径"
     },
     {
       "from": "openness-is-consistency",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "intelligence belongs only to the Mind"
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "qian-yin-hou-guo",
+      "rel": "points_to",
+      "label": "前因，后果"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "rel": "points_to",
+      "label": "时间之箭的伪悖论与对称模拟的边界"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "xian-shi-de-bian-jie",
+      "rel": "points_to",
+      "label": "现实的边界"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "The Path Drawn One Step at a Time"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to The Mind"
     },
     {
       "from": "openness-is-consistency",
@@ -27448,31 +27478,73 @@
       "from": "openness-is-consistency",
       "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "rel": "points_to",
-      "label": "Good and evil are the two sides of the coin and the cut"
+      "label": "善恶是硬币的两面与那一刀"
     },
     {
       "from": "openness-is-consistency",
       "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "rel": "points_to",
-      "label": "Moral language dilutes the feedback that scales freedom"
+      "label": "道德语言稀释自由复利的反馈"
     },
     {
       "from": "openness-is-consistency",
       "to": "selection-contradiction-and-open-reality",
       "rel": "points_to",
-      "label": "Selection, contradiction, and open reality"
+      "label": "选择、矛盾与开放的现实"
     },
     {
       "from": "openness-is-consistency",
       "to": "dimensions-are-projections",
       "rel": "points_to",
-      "label": "Dimensions Are Projections: On Binary Hyperspace, Personal Growth, and Extended Intelligence"
+      "label": "维度即投影"
     },
     {
       "from": "openness-is-consistency",
       "to": "stability-and-excess",
       "rel": "points_to",
-      "label": "Stability and excess: consciousness, introspection, and the cut of observation"
+      "label": "稳定与溢出"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "rel": "points_to",
+      "label": "Good and Evil Are the Two Sides of the Coin and the Cut"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "rel": "points_to",
+      "label": "Moral Language Dilutes the Feedback That Scales Freedom"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "selection-contradiction-and-open-reality",
+      "rel": "points_to",
+      "label": "Selection, Contradiction, and Open Reality"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "dimensions-are-projections",
+      "rel": "points_to",
+      "label": "Dimensions Are Projections"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "stability-and-excess",
+      "rel": "points_to",
+      "label": "Stability and Excess"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "数字火箭、同行审查与因果闭环的稀释"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "风险在于对监管本身的迷信"
     },
     {
       "from": "openness-is-consistency",
@@ -27485,6 +27557,24 @@
       "to": "the-risk-is-the-belief-in-oversight-itself",
       "rel": "points_to",
       "label": "The Risk Is the Belief in Oversight Itself"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "非万物之理（因果的二重性）"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "“物理学才是定律”的障眼法"
     },
     {
       "from": "openness-is-consistency",
@@ -27508,7 +27598,25 @@
       "from": "openness-is-consistency",
       "to": "a-new-deeper-look-at-antifragility",
       "rel": "points_to",
-      "label": "Antifragility as prosthesis, not driver"
+      "label": "重新审视反脆弱"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "生产、消费与心智的区分"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "现实是心智持续的实现"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "a-new-deeper-look-at-antifragility",
+      "rel": "points_to",
+      "label": "A New Deeper Look at Antifragility: Prosthesis, Not Driver"
     },
     {
       "from": "openness-is-consistency",
@@ -27526,7 +27634,25 @@
       "from": "openness-is-consistency",
       "to": "the-brain-does-not-backprop",
       "rel": "points_to",
-      "label": "The brain does not backprop, but propagates"
+      "label": "大脑不进行反向传播，而是正向传导"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-closed-loop-of-representation",
+      "rel": "points_to",
+      "label": "表征的闭环"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "不可还原的观察者"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-brain-does-not-backprop",
+      "rel": "points_to",
+      "label": "The Brain Does Not Backprop, but Propagates"
     },
     {
       "from": "openness-is-consistency",
@@ -27539,6 +27665,24 @@
       "to": "the-irreducible-observer",
       "rel": "points_to",
       "label": "The Irreducible Observer"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "curiosity-has-no-final-form",
+      "rel": "points_to",
+      "label": "好奇没有最终的形态"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-non-definitive-definition-of-intelligence",
+      "rel": "points_to",
+      "label": "智能的非定论定义"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "信息是什么"
     },
     {
       "from": "openness-is-consistency",
@@ -27562,7 +27706,25 @@
       "from": "openness-is-consistency",
       "to": "what-cannot-be-kept",
       "rel": "points_to",
-      "label": "What cannot be kept"
+      "label": "留不住的"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "freedom-as-ground",
+      "rel": "points_to",
+      "label": "自由即地基"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "what-cannot-be-kept",
+      "rel": "points_to",
+      "label": "What Cannot Be Kept"
     },
     {
       "from": "openness-is-consistency",
@@ -27580,6 +27742,18 @@
       "from": "openness-is-consistency",
       "to": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
       "rel": "points_to",
+      "label": "一个可能的全自动交通未来的非定论预测"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "whatever-is-one-prompt-away",
+      "rel": "points_to",
+      "label": "一个提示词之遥"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
+      "rel": "points_to",
       "label": "Non-Definitive Forecast of a Possible Fully Autonomous Transportation Future"
     },
     {
@@ -27592,13 +27766,43 @@
       "from": "openness-is-consistency",
       "to": "self-rl-for-humans",
       "rel": "points_to",
-      "label": "Self-RL for humans"
+      "label": "看似AI的强化学习，实为人类的自我强化学习"
     },
     {
       "from": "openness-is-consistency",
       "to": "failure-as-information",
       "rel": "points_to",
-      "label": "Failure as information"
+      "label": "失败即信息"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "rel": "points_to",
+      "label": "笛卡尔的认识论跃迁与造神狂热"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "rel": "points_to",
+      "label": "造神的障眼法与隐秘阶序的说辞"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "AGI的预设与来自外部的视角"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "What Looks Like RL for AIs Is Self-RL for Humans"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "failure-as-information",
+      "rel": "points_to",
+      "label": "Failure as Information"
     },
     {
       "from": "openness-is-consistency",
@@ -27622,6 +27826,18 @@
       "from": "openness-is-consistency",
       "to": "evil-as-the-minds-own-creation",
       "rel": "points_to",
+      "label": "恶是心智自己的造物"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-name-revolution-files-a-life-as-evidence",
+      "rel": "points_to",
+      "label": "革命之名把生活收成证据"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "evil-as-the-minds-own-creation",
+      "rel": "points_to",
       "label": "Evil as the Mind’s Own Creation"
     },
     {
@@ -27634,13 +27850,31 @@
       "from": "openness-is-consistency",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
-      "label": "Clarity isn’t a state you arrive at"
+      "label": "清晰不是抵达的终点，而是运动本身"
     },
     {
       "from": "openness-is-consistency",
       "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "rel": "points_to",
-      "label": "Judging by Purpose: The Default State and Dynamic Leaps of Cognition"
+      "label": "目的性的评判与认知的缺省状态"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-vector-and-the-puzzle-of-projections",
+      "rel": "points_to",
+      "label": "向量与投影的迷局"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "rel": "points_to",
+      "label": "Judging by Purpose and the Default State of Cognition"
     },
     {
       "from": "openness-is-consistency",
@@ -27652,25 +27886,79 @@
       "from": "openness-is-consistency",
       "to": "the-paradox-of-fundamentals-is-the-unaware-switch-of-reference",
       "rel": "points_to",
-      "label": "The paradox of fundamentals is the unaware switch of reference"
+      "label": "基本面的悖论是参照的不自觉切换"
     },
     {
       "from": "openness-is-consistency",
       "to": "why-mathematics-can-never-be-solved",
       "rel": "points_to",
-      "label": "Why mathematics can never be solved"
+      "label": "为何数学永远解不完"
     },
     {
       "from": "openness-is-consistency",
       "to": "the-myth-of-population-collapse-explained",
       "rel": "points_to",
-      "label": "The myth of population collapse explained"
+      "label": "人口崩溃神话的拆解"
     },
     {
       "from": "openness-is-consistency",
       "to": "pessimism-is-the-shadow-of-optimism",
       "rel": "points_to",
-      "label": "Pessimism is the shadow of optimism"
+      "label": "悲观是乐观的阴影"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "e-shi-feng-bi-de-shan",
+      "rel": "points_to",
+      "label": "恶是封闭的善"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "zuo-jian-bu-shi-zi-fu",
+      "rel": "points_to",
+      "label": "作茧不是自缚"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "better-than-free-after-the-checklist-closes",
+      "rel": "points_to",
+      "label": "清单合上之后，胜过免费"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "基准刷榜中的封闭实存"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "closed-reality-in-the-pursuit-of-serendipity",
+      "rel": "points_to",
+      "label": "追求机缘中的封闭现实"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-paradox-of-fundamentals-is-the-unaware-switch-of-reference",
+      "rel": "points_to",
+      "label": "The Paradox of Fundamentals Is the Unaware Switch of Reference"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "Why Mathematics Can Never Be Solved"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "The Myth of Population Collapse Explained"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism Is the Shadow of Optimism"
     },
     {
       "from": "openness-is-consistency",
@@ -27682,7 +27970,7 @@
       "from": "openness-is-consistency",
       "to": "zuo-jian-bu-shi-zi-fu",
       "rel": "points_to",
-      "label": "Spin a Cocoon: Observation vs. Interpretation"
+      "label": "Spinning a Cocoon Is Not Binding Oneself"
     },
     {
       "from": "openness-is-consistency",
@@ -27694,7 +27982,7 @@
       "from": "openness-is-consistency",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem"
+      "label": "Closed Reality in Benchmark Maxing"
     },
     {
       "from": "openness-is-consistency",
@@ -27706,145 +27994,337 @@
       "from": "openness-is-consistency",
       "to": "open-vision-in-a-closed-arena",
       "rel": "points_to",
-      "label": "Open vision in a closed arena"
+      "label": "封闭竞技场中的开放视野"
     },
     {
       "from": "openness-is-consistency",
       "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
       "rel": "points_to",
-      "label": "Advocating openness of others is a desire for closure of the self"
+      "label": "要求他人开放是对自我封闭的渴望"
     },
     {
       "from": "openness-is-consistency",
       "to": "only-if-it-is-not-kept-empty",
       "rel": "points_to",
-      "label": "Only if it is not kept empty"
+      "label": "只要它不被保持为空"
     },
     {
       "from": "openness-is-consistency",
       "to": "the-strongest-belief-of-the-mind",
       "rel": "points_to",
-      "label": "The strongest belief of the Mind"
+      "label": "心智最坚固的信念"
     },
     {
       "from": "openness-is-consistency",
       "to": "how-belief-actually-changes",
       "rel": "points_to",
-      "label": "How belief actually changes"
+      "label": "信念如何真正改变"
     },
     {
       "from": "openness-is-consistency",
       "to": "the-climate-problem-registers-only-as-perception",
       "rel": "points_to",
-      "label": "The climate problem registers only as perception"
+      "label": "气候问题只作为感知被登记"
     },
     {
       "from": "openness-is-consistency",
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
-      "label": "The scaffolding that keeps growing"
+      "label": "持续生长的脚手架"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "open-vision-in-a-closed-arena",
+      "rel": "points_to",
+      "label": "Open Vision in a Closed Arena"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "rel": "points_to",
+      "label": "Advocating Openness of Others Is a Desire for Closure of the Self"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "only-if-it-is-not-kept-empty",
+      "rel": "points_to",
+      "label": "Only If It Is Not Kept Empty"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-strongest-belief-of-the-mind",
+      "rel": "points_to",
+      "label": "The Strongest Belief of the Mind"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How Belief Actually Changes"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-climate-problem-registers-only-as-perception",
+      "rel": "points_to",
+      "label": "The Climate Problem Registers Only as Perception"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The Scaffolding That Keeps Growing"
     },
     {
       "from": "openness-is-consistency",
       "to": "the-utility-men-of-progress",
       "rel": "points_to",
-      "label": "The utility men of progress"
+      "label": "进步的多面手"
     },
     {
       "from": "openness-is-consistency",
       "to": "the-artifacts-of-self-amplification",
       "rel": "points_to",
-      "label": "The artifacts of self-amplification"
+      "label": "自我放大的制品"
     },
     {
       "from": "openness-is-consistency",
       "to": "technology-is-residual-of-human-compounding",
       "rel": "points_to",
-      "label": "Technology is residual of human compounding"
+      "label": "技术是人类复利的残差"
     },
     {
       "from": "openness-is-consistency",
       "to": "the-reversal-from-defensible-claim-to-dogma",
       "rel": "points_to",
-      "label": "The reversal from defensible claim to dogma"
+      "label": "从可辩护的主张到教条的反转"
     },
     {
       "from": "openness-is-consistency",
       "to": "the-real-lesson-from-the-consciousness-vector-paper",
       "rel": "points_to",
-      "label": "The real lesson from the consciousness vector paper"
+      "label": "意识向量论文的真正教训"
     },
     {
       "from": "openness-is-consistency",
       "to": "closed-assumptions-squeeze-compounding-into-s-curves",
       "rel": "points_to",
-      "label": "Closed assumptions squeeze compounding into S-curves"
+      "label": "封闭的假设把复利挤成 S 曲线"
     },
     {
       "from": "openness-is-consistency",
       "to": "the-price-of-closing-optionality",
       "rel": "points_to",
-      "label": "The price of closing optionality"
+      "label": "关闭选择权的代价"
     },
     {
       "from": "openness-is-consistency",
       "to": "the-reality-distortion-field-inverts-the-baseline",
       "rel": "points_to",
-      "label": "The reality distortion field inverts the baseline"
+      "label": "现实扭曲力场颠倒了基线"
     },
     {
       "from": "openness-is-consistency",
       "to": "the-imagining-of-ai-risk",
       "rel": "points_to",
-      "label": "The imagining of AI risk"
+      "label": "对 AI 风险的想象"
     },
     {
       "from": "openness-is-consistency",
       "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
       "rel": "points_to",
-      "label": "The hard problem of consciousness is consistent with learning"
+      "label": "意识的难题与学习相容"
     },
     {
       "from": "openness-is-consistency",
       "to": "the-rational-choice-postulate-is-the-original-sin",
       "rel": "points_to",
-      "label": "The rational choice postulate is the original sin"
+      "label": "理性选择公设是原罪"
     },
     {
       "from": "openness-is-consistency",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
-      "label": "The average is residue, not the engine"
+      "label": "平均值是残余，不是引擎"
     },
     {
       "from": "openness-is-consistency",
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
-      "label": "Consciousness never appears as data among data"
+      "label": "意识从不作为数据出现在数据之中"
     },
     {
       "from": "openness-is-consistency",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, boundaries, and the moving edge of reality"
+      "label": "抽象、边界与现实的移动边缘"
     },
     {
       "from": "openness-is-consistency",
       "to": "hardware-locality-is-not-the-information-boundary",
       "rel": "points_to",
-      "label": "Hardware locality is not the information boundary"
+      "label": "硬件的本地性不是信息的边界"
     },
     {
       "from": "openness-is-consistency",
       "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "rel": "points_to",
-      "label": "Potential infinity and the temporary closures of mathematical thought"
+      "label": "潜无限与数学思维的暂时闭合"
     },
     {
       "from": "openness-is-consistency",
       "to": "the-initial-distinction",
       "rel": "points_to",
-      "label": "The initial distinction"
+      "label": "最初的区分"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "guan-yu-gui-yin",
+      "rel": "points_to",
+      "label": "关于归因"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "rel": "points_to",
+      "label": "论封闭系统、开放心智与证明的界限"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
+      "label": "复杂性遮蔽了涌现之为心智的行动"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "looping-and-graphing",
+      "rel": "points_to",
+      "label": "回环与成图"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-paradoxical-nature-of-bystander-insights",
+      "rel": "points_to",
+      "label": "旁观者洞察的悖论"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-reality-distortion-field-names-the-closed-map",
+      "rel": "points_to",
+      "label": "现实扭曲力场指认的是封闭的地图"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "起作用的是信念"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-utility-men-of-progress",
+      "rel": "points_to",
+      "label": "The Utility Men of Progress"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-artifacts-of-self-amplification",
+      "rel": "points_to",
+      "label": "The Artifacts of Self-Amplification"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "technology-is-residual-of-human-compounding",
+      "rel": "points_to",
+      "label": "Technology Is Residual of Human Compounding"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-reversal-from-defensible-claim-to-dogma",
+      "rel": "points_to",
+      "label": "The Reversal from Defensible Claim to Dogma"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-real-lesson-from-the-consciousness-vector-paper",
+      "rel": "points_to",
+      "label": "The Real Lesson from the Consciousness Vector Paper"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "rel": "points_to",
+      "label": "Closed Assumptions Squeeze Compounding into S-Curves"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-price-of-closing-optionality",
+      "rel": "points_to",
+      "label": "The Price of Closing Optionality"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The Reality Distortion Field Inverts the Baseline"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-imagining-of-ai-risk",
+      "rel": "points_to",
+      "label": "The Imagining of AI Risk"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "rel": "points_to",
+      "label": "The Hard Problem of Consciousness Is Consistent with Learning"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "The Rational Choice Postulate Is the Original Sin"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "The Average Is Residue, Not the Engine"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "Consciousness Never Appears as Data Among Data"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "rel": "points_to",
+      "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "hardware-locality-is-not-the-information-boundary",
+      "rel": "points_to",
+      "label": "Hardware Locality Is Not the Information Boundary"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "Potential Infinity and the Temporary Closures of Mathematical Thought"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-initial-distinction",
+      "rel": "points_to",
+      "label": "The Initial Distinction"
     },
     {
       "from": "openness-is-consistency",
@@ -27856,13 +28336,13 @@
       "from": "openness-is-consistency",
       "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "rel": "points_to",
-      "label": "On closed systems, open minds, and the limits of proof"
+      "label": "On Closed Systems, Open Minds, and the Limits of Proof"
     },
     {
       "from": "openness-is-consistency",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
-      "label": "Complexity Obscures: Emergence as the Act of Mind"
+      "label": "Complexity Obscures Emergence as the Act of Mind"
     },
     {
       "from": "openness-is-consistency",
@@ -58632,7 +59112,7 @@
         "slug": "method",
         "path": "content/book/method.md",
         "title": "非万物之理 / Not a Theory of Everything",
-        "hash": "e5aa8786df1c",
+        "hash": "9ae1de0d35cf",
         "out_degree": 26
       },
       {
@@ -64245,7 +64725,7 @@
         "from": "book:method",
         "to": "openness-is-consistency",
         "rel": "collects",
-        "label": "Openness Is Consistency"
+        "label": "开放即一致 / Openness Is Consistency"
       },
       {
         "from": "book:method",

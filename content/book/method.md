@@ -18,7 +18,7 @@ The essays collected in this part document the emergence and development of this
 - [Not a ToE - Retraced](../../posts/not-a-toe-rewrite/)
 - [Scaffolds or Specialized Contexts?](../../posts/scaffolds-or-specialized-contexts/)
 - [Extension and Shift](../../posts/extension-and-shift/)
-- [Openness Is Consistency](../../posts/openness-is-consistency/)
+- [开放即一致 / Openness Is Consistency](../../posts/openness-is-consistency/)
 - [The Scaffolding We Forget](../../posts/the-scaffolding-we-forget/)
 - [The Scaffolding We Forget: Local Models as Default](../../posts/the-scaffolding-we-forget-local-models-as-default/)
 - [Looping and Graphing: Mind as the Loop of Loops](../../posts/looping-and-graphing/)
