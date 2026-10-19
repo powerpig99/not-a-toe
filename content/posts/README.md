@@ -357,15 +357,15 @@ node scripts/export-absolute-md.mjs "$SLUG"
 3. [ ] Refine for mechanism language; fold any seed observation into the lead so the essay stands alone.
 4. [ ] Add relative cross-links as axis pointers; verify slugs exist (`node scripts/project-posts-graph.mjs` → `missing_targets` must stay 0).
 5. [ ] Cover: novel style per STYLES.md; **21:9** landscape (`1344×576`, Qwen-Image-2.1 MPS; 20:9 fallback); install; update STYLES.md.
-7. [ ] Neighbor reverse pointers **in the same ship** (two-way default). **Lattice consistency:** identify same-axis old claims that are now false, over-closed, or incomplete; nick or restore them in the old prose; regenerate posts graph.
-8. [ ] **Live Book Placement & Index of Premises:**
+6. [ ] Neighbor reverse pointers **in the same ship** (two-way default). **Lattice consistency:** identify same-axis old claims that are now false, over-closed, or incomplete; nick or restore them in the old prose; regenerate posts graph.
+7. [ ] **Live Book Placement & Index of Premises:**
    - Append post to the `## 篇目 / Essays` list of exactly one part in `content/book/<part>.md` (placed last in written order).
    - Add/extend substantive entries in `content/book/index-of-premises.md` (label chip from 8 families, bilingual premise sentences, `→` post link).
-9. [ ] **Preflight Automated Audits:**
+8. [ ] **Preflight Automated Audits:**
    - `python3 scripts/audit-post.py <slug>` → must return CLEAN PASS (verifies all 10 invariants including live-book placement).
    - `python3 scripts/audit-book.py` → must return CLEAN PASS (verifies whole book structure, written order, premise reach).
-10. [ ] **Ship:** preflight → commit/push (confirm before push) → `gh run watch` → live post (and cover) URL 200.
-11. [ ] **Export (required after live):** `node scripts/export-absolute-md.mjs <slug>` → `export/<slug>.md` ([`docs/export-for-substack.md`](../../docs/export-for-substack.md)). Paste into Substack / X is operator-only and may wait; generating the file does not.
+9. [ ] **Ship:** preflight → commit/push (confirm before push) → `gh run watch` → live post (and cover) URL 200.
+10. [ ] **Export (required after live):** `node scripts/export-absolute-md.mjs <slug>` → `export/<slug>.md` ([`docs/export-for-substack.md`](../../docs/export-for-substack.md)). Paste into Substack / X is operator-only and may wait; generating the file does not.
 
 ## After shipping
 
