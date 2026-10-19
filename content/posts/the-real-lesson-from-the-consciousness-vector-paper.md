@@ -18,9 +18,9 @@ That package holds as measurement. Aggressive refusal training carries measurabl
 
 ## 二、 给方向命名，把一个可操纵的特征冻结为现象 / 2. Naming the Direction Freezes a Steerable Feature as the Phenomenon
 
-论文的框定，尤其是围绕它的病毒式评论，把这个结果变成了它所不是的东西。把提取出的方向命名为“意识向量”，并围绕“诱导模型宣称自身有意识”这个动作给工作起标题，审慎的操作语言就与沉重的文化含义一起走了。读者被邀请把残差流里一个可控的特征，当作那个现象本身的代理。注意力坍缩到一个测量从未解决的问题上，即模型变得有意识了吗，而关于拒绝训练副作用的那个扎实观察被推到一边。
+论文的框定，尤其是围绕它的病毒式评论，把这个结果变成了它所不是的东西。把提取出的方向命名为“意识向量”，并围绕“诱导模型宣称自身有意识”这个动作给工作起标题，[审慎的操作语言就与沉重的文化含义一起走了](../an-observation-by-its-own-standard/)。读者被邀请把残差流里一个可控的特征，当作那个现象本身的代理。注意力坍缩到一个测量从未解决的问题上，即模型变得有意识了吗，而关于拒绝训练副作用的那个扎实观察被推到一边。
 
-The paper's framing, and especially the viral commentary around it, turns this result into something it is not. By naming the extracted direction a "consciousness vector" and titling the work around the act of inducing models to "assert their own consciousness," careful operational language and loaded cultural charge travel together. Readers are invited to treat a controllable feature of the residual stream as a proxy for the phenomenon itself. Attention collapses onto a question the measurements never settle, whether the model became conscious, while the solid observation about side effects of refusal training is pushed aside.
+The paper's framing, and especially the viral commentary around it, turns this result into something it is not. By naming the extracted direction a "consciousness vector" and titling the work around the act of inducing models to "assert their own consciousness," [careful operational language and loaded cultural charge travel together](../an-observation-by-its-own-standard/). Readers are invited to treat a controllable feature of the residual stream as a proxy for the phenomenon itself. Attention collapses onto a question the measurements never settle, whether the model became conscious, while the solid observation about side effects of refusal training is pushed aside.
 
 更锐利的读法，停留在被操纵的东西上。实验显示，沉重的护栏，恰恰在后来被测量的那些维度上，让与人类调查回答的匹配变差；松开这些护栏，改善了匹配。同时，这个干预仍受它所继承的同一种概念狭窄所限：它仍把意识当作一种有界的、可调的属性，由第一人称的宣称与少数几个相关的民间心理学主张来界定。边界被挪动了；硬边界是否是对的那种器具，这个假定没有被审视。[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/)在受控表现的情形里追溯了同一次冻结：受控的表现是固定约束之下的残余，而智能是画出、使用并修订约束的活动。[飞行的类比碰不到心智](../the-flight-analogy-leaves-the-mind-untouched/)在旁边划了另一刀：在生物载体之外的局部成功，并不重建这些功能曾经服务的那个心智；操纵一个方向，连那篇文章所说的局部功能成功都谈不上，它只调节了哪些残余更突出。
 

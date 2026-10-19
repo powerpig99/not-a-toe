@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-19T05:12:35.233Z",
+    "generated_at": "2026-10-19T05:15:39.691Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -47,7 +47,7 @@
       "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "cca7ab69ed23",
       "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "604c435b9dab",
       "content/posts/conscience-power-delegation.md": "d11e1672ae5d",
-      "content/posts/consciousness-ascription-and-the-quantum-cut.md": "f0b1af83a286",
+      "content/posts/consciousness-ascription-and-the-quantum-cut.md": "3109d35be0cb",
       "content/posts/consciousness-never-appears-as-data-among-data.md": "778649faf5f1",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
       "content/posts/context-engineering-essay.md": "55bc0307c3d5",
@@ -137,7 +137,7 @@
       "content/posts/not-a-toe-rewrite.md": "4f8f53b8f5bb",
       "content/posts/not-predicting-is-predicting-without-awareness.md": "8bfa5625bd35",
       "content/posts/objects-are-stabilized-relationships.md": "54def9af6a16",
-      "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "7006881dd9f9",
+      "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "c3d23fd8953b",
       "content/posts/on-education.md": "acf5a581efd1",
       "content/posts/one-cannot-escape-ones-own-mind.md": "cb7f119c5157",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "63a25d4f0593",
@@ -204,10 +204,10 @@
       "content/posts/the-blind-spot-of-the-frame.md": "23484e369bf2",
       "content/posts/the-boundary-crossing-of-choice.md": "795c21ece259",
       "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "3955e0d6eba0",
-      "content/posts/the-boundary-of-the-frame.md": "59046e294d3f",
+      "content/posts/the-boundary-of-the-frame.md": "669f9c015910",
       "content/posts/the-brain-does-not-backprop.md": "0fe20d66ae42",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "faeb12423e13",
-      "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "7e7fd663a54a",
+      "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "7db6b0e5042c",
       "content/posts/the-category-error-of-better.md": "3720a667e30e",
       "content/posts/the-causal-inversion-of-partnership.md": "3e0b8b306740",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "c57c3511aac6",
@@ -221,7 +221,7 @@
       "content/posts/the-comment-is-not-the-code.md": "1ee31f526434",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "3aed5a91fa9f",
       "content/posts/the-continuum-is-a-modeling-convenience.md": "2622676a6816",
-      "content/posts/the-continuum-of-the-fold.md": "5eba96d44a83",
+      "content/posts/the-continuum-of-the-fold.md": "100b5d1a0c6b",
       "content/posts/the-coordinators-category-error.md": "be853b5f9ce9",
       "content/posts/the-cut-moves-but-never-vanishes.md": "2610f984cd07",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
@@ -310,7 +310,7 @@
       "content/posts/the-only-coherent-uncaused-effect.md": "b8d494757a53",
       "content/posts/the-open-question-is-determinisms-demand.md": "f1804fe05d79",
       "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "60c3d0411af1",
-      "content/posts/the-other-coherence.md": "3a5e8d5c84b4",
+      "content/posts/the-other-coherence.md": "abda9ceb3fde",
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "ef81ddddf533",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "1fb34e11990f",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "0d757a4508ca",
@@ -322,7 +322,7 @@
       "content/posts/the-question-that-installs-the-war.md": "6570c77251d5",
       "content/posts/the-ramble-within-the-ramble.md": "454a1407f39f",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "b5fc86b4bbec",
-      "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "96c58bcce729",
+      "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "699ae21e7a6b",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "b3d9f124e004",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "48a714b8f22c",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "be4597d289a8",
@@ -330,7 +330,7 @@
       "content/posts/the-reflexive-dilemma-of-unique-insight.md": "e0b2f868f3d1",
       "content/posts/the-residue-and-the-free-variable.md": "eb7e4af88ac4",
       "content/posts/the-returning-signal-and-its-claim.md": "6a118ede0799",
-      "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "e985de3894e5",
+      "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "db56adc4b256",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "7940d13c303b",
       "content/posts/the-reversal-of-education-and-science.md": "d9695fb75dbc",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "2d09f85512fb",
@@ -356,7 +356,7 @@
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
       "content/posts/the-twin-paradox-and-the-hidden-observer.md": "1a3388db8649",
       "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "132e275da6fc",
-      "content/posts/the-unclosable-trace.md": "2358700feadb",
+      "content/posts/the-unclosable-trace.md": "06a750cc90b3",
       "content/posts/the-unexamined-critic.md": "1cda1a733555",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "96d67d29d78d",
       "content/posts/the-unobservable-driver-of-learning.md": "309c64b033f1",
@@ -422,10 +422,10 @@
     },
     "stats": {
       "posts": 395,
-      "edges": 7848,
-      "unique_directed": 4604,
+      "edges": 7866,
+      "unique_directed": 4613,
       "missing_targets": 0,
-      "one_way": 170,
+      "one_way": 167,
       "isolated": 35,
       "posts_with_outbound": 359,
       "book_pages": 16,
@@ -992,7 +992,7 @@
       "path": "content/posts/an-observation-by-its-own-standard.md",
       "title": "依其自身标准的观察 / An Observation by Its Own Standard",
       "hash": "c3c67e17cfb2",
-      "in_degree": 1,
+      "in_degree": 10,
       "out_degree": 9,
       "links_out": [
         "the-reversal-from-defensible-claim-to-dogma",
@@ -1641,10 +1641,11 @@
       "slug": "consciousness-ascription-and-the-quantum-cut",
       "path": "content/posts/consciousness-ascription-and-the-quantum-cut.md",
       "title": "意识归属与量子割点 / Consciousness Ascription and the Quantum Cut",
-      "hash": "f0b1af83a286",
+      "hash": "3109d35be0cb",
       "in_degree": 5,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
+        "an-observation-by-its-own-standard",
         "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
         "the-cut-moves-but-never-vanishes",
         "the-grammar-of-finding-and-the-fading-observer",
@@ -3764,13 +3765,14 @@
       "slug": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "path": "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md",
       "title": "论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof",
-      "hash": "7006881dd9f9",
+      "hash": "c3d23fd8953b",
       "in_degree": 9,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
         "the-other-coherence",
+        "an-observation-by-its-own-standard",
         "selection-contradiction-and-open-reality",
         "consciousness-never-appears-as-data-among-data",
         "what-cannot-be-kept",
@@ -5523,14 +5525,15 @@
       "slug": "the-boundary-of-the-frame",
       "path": "content/posts/the-boundary-of-the-frame.md",
       "title": "框架的边界 / The Boundary of the Frame",
-      "hash": "59046e294d3f",
+      "hash": "669f9c015910",
       "in_degree": 18,
-      "out_degree": 16,
+      "out_degree": 17,
       "links_out": [
         "what-information-is",
         "time-is-causality-not-a-dimension",
         "the-three-shadows-of-the-cut",
         "the-scaffolding-we-forget",
+        "an-observation-by-its-own-standard",
         "the-geometry-of-mind",
         "the-arithmetic-of-the-register",
         "the-mirage-of-the-infinite-totality",
@@ -5587,9 +5590,9 @@
       "slug": "the-cartesian-overstep-and-the-frenzy-of-creation",
       "path": "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md",
       "title": "笛卡尔的认识论跃迁与造神狂热 / The Cartesian Epistemic Leap and the Frenzy of Creation",
-      "hash": "7e7fd663a54a",
+      "hash": "7db6b0e5042c",
       "in_degree": 12,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "openness-is-consistency",
         "the-explanatory-trap-of-the-ordinary-perspective",
@@ -5597,6 +5600,7 @@
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+        "an-observation-by-its-own-standard",
         "subtracting-consciousness-at-the-source",
         "intelligence-belongs-only-to-the-mind",
         "the-cut-moves-but-never-vanishes",
@@ -5861,9 +5865,9 @@
       "slug": "the-continuum-of-the-fold",
       "path": "content/posts/the-continuum-of-the-fold.md",
       "title": "折叠的连续谱 / The Continuum of the Fold",
-      "hash": "5eba96d44a83",
+      "hash": "100b5d1a0c6b",
       "in_degree": 11,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "the-geometry-of-mind",
         "the-model-never-becomes-a-second-edge",
@@ -5872,6 +5876,7 @@
         "the-fermi-paradox-reified-agency-and-the-great-filter",
         "the-unclosable-trace",
         "the-vector-and-the-puzzle-of-projections",
+        "an-observation-by-its-own-standard",
         "the-extendable-horizon",
         "the-deterministic-machine",
         "the-generative-topology-of-free-variables",
@@ -7767,14 +7772,15 @@
       "slug": "the-other-coherence",
       "path": "content/posts/the-other-coherence.md",
       "title": "另一种相干 / The Other Coherence",
-      "hash": "3a5e8d5c84b4",
+      "hash": "abda9ceb3fde",
       "in_degree": 7,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "on-closed-systems-open-minds-and-the-limits-of-proof",
         "the-mirage-of-the-infinite-totality",
         "the-generative-atlas-of-macroscopic-phenomena",
         "the-three-shadows-of-the-cut",
+        "an-observation-by-its-own-standard",
         "the-generative-topology-of-free-variables",
         "the-geometry-of-emergence"
       ]
@@ -8057,12 +8063,13 @@
       "slug": "the-real-lesson-from-the-consciousness-vector-paper",
       "path": "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md",
       "title": "意识向量论文的真正教训 / The Real Lesson from the Consciousness Vector Paper",
-      "hash": "96c58bcce729",
+      "hash": "699ae21e7a6b",
       "in_degree": 16,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "what-works-is-the-belief",
         "restriction-is-a-selective-tax",
+        "an-observation-by-its-own-standard",
         "mistaking-the-expression-for-the-intelligence",
         "the-flight-analogy-leaves-the-mind-untouched",
         "intelligence-belongs-only-to-the-mind",
@@ -8254,9 +8261,9 @@
       "slug": "the-reversal-from-defensible-claim-to-dogma",
       "path": "content/posts/the-reversal-from-defensible-claim-to-dogma.md",
       "title": "从可辩护的主张到教条的反转 / The Reversal from Defensible Claim to Dogma",
-      "hash": "e985de3894e5",
+      "hash": "db56adc4b256",
       "in_degree": 18,
-      "out_degree": 17,
+      "out_degree": 18,
       "links_out": [
         "expertise-as-reference-not-replacement",
         "closed-reality-in-benchmark-maxing",
@@ -8265,6 +8272,7 @@
         "hierarchy-from-individual-difference",
         "preference-clusters-and-the-language-of-judgment",
         "data-is-local-intelligence-is-allocated",
+        "an-observation-by-its-own-standard",
         "what-works-is-the-belief",
         "the-reality-distortion-field-names-the-closed-map",
         "externalized-virtue-becomes-its-opposite",
@@ -8894,9 +8902,9 @@
       "slug": "the-unclosable-trace",
       "path": "content/posts/the-unclosable-trace.md",
       "title": "无法闭合的痕迹 / The Unclosable Trace",
-      "hash": "2358700feadb",
+      "hash": "06a750cc90b3",
       "in_degree": 10,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "the-geometry-of-mind",
         "no-system-can-be-kept-closed",
@@ -8905,6 +8913,7 @@
         "the-continuum-of-the-fold",
         "the-functionalism-no-functionalist-can-hold",
         "the-arithmetic-of-the-register",
+        "an-observation-by-its-own-standard",
         "the-hard-problem-of-consciousness-is-consistent-with-learning",
         "the-cut-moves-but-never-vanishes",
         "the-scaffolding-we-forget",
@@ -15012,9 +15021,21 @@
     },
     {
       "from": "consciousness-ascription-and-the-quantum-cut",
+      "to": "an-observation-by-its-own-standard",
+      "rel": "points_to",
+      "label": "外部观察者是否决定将该系统视为一个拥有自觉体验的主体"
+    },
+    {
+      "from": "consciousness-ascription-and-the-quantum-cut",
       "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "rel": "points_to",
       "label": "意识的魔术戏法与推断的非对称性"
+    },
+    {
+      "from": "consciousness-ascription-and-the-quantum-cut",
+      "to": "an-observation-by-its-own-standard",
+      "rel": "points_to",
+      "label": "whether an observer elects to treat the observed system as an experiencing subject"
     },
     {
       "from": "consciousness-ascription-and-the-quantum-cut",
@@ -25314,9 +25335,21 @@
     },
     {
       "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "to": "an-observation-by-its-own-standard",
+      "rel": "points_to",
+      "label": "任何形式的报告、神经相关物或行为证据"
+    },
+    {
+      "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "to": "selection-contradiction-and-open-reality",
       "rel": "points_to",
       "label": "选择、矛盾与开放的现实"
+    },
+    {
+      "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "to": "an-observation-by-its-own-standard",
+      "rel": "points_to",
+      "label": "any formal report, neural correlate or behavioral evidence"
     },
     {
       "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
@@ -34464,9 +34497,21 @@
     },
     {
       "from": "the-boundary-of-the-frame",
+      "to": "an-observation-by-its-own-standard",
+      "rel": "points_to",
+      "label": "被外推到它校准的范围之外"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "an-observation-by-its-own-standard",
+      "rel": "points_to",
+      "label": "extrapolated beyond the range it was calibrated for"
     },
     {
       "from": "the-boundary-of-the-frame",
@@ -34800,6 +34845,12 @@
     },
     {
       "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "an-observation-by-its-own-standard",
+      "rel": "points_to",
+      "label": "作为工程上的操作标准，这是一条有用的信号"
+    },
+    {
+      "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
       "to": "subtracting-consciousness-at-the-source",
       "rel": "points_to",
       "label": "集聚与人造主体性"
@@ -34827,6 +34878,12 @@
       "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
       "rel": "points_to",
       "label": "The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank"
+    },
+    {
+      "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "to": "an-observation-by-its-own-standard",
+      "rel": "points_to",
+      "label": "As an operational standard in engineering this is a useful signal"
     },
     {
       "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
@@ -36096,6 +36153,12 @@
     },
     {
       "from": "the-continuum-of-the-fold",
+      "to": "an-observation-by-its-own-standard",
+      "rel": "points_to",
+      "label": "从相似性类推出来的另一个人的内部"
+    },
+    {
+      "from": "the-continuum-of-the-fold",
       "to": "the-extendable-horizon",
       "rel": "points_to",
       "label": "可延展的地平线"
@@ -36105,6 +36168,12 @@
       "to": "the-vector-and-the-puzzle-of-projections",
       "rel": "points_to",
       "label": "The Vector and the Puzzle of Projections"
+    },
+    {
+      "from": "the-continuum-of-the-fold",
+      "to": "an-observation-by-its-own-standard",
+      "rel": "points_to",
+      "label": "the other's interior as inferred from similarity"
     },
     {
       "from": "the-continuum-of-the-fold",
@@ -45690,9 +45759,21 @@
     },
     {
       "from": "the-other-coherence",
+      "to": "an-observation-by-its-own-standard",
+      "rel": "points_to",
+      "label": "在神经科学的用处之内准确而有力"
+    },
+    {
+      "from": "the-other-coherence",
       "to": "the-generative-topology-of-free-variables",
       "rel": "points_to",
       "label": "自由变量的生成拓扑"
+    },
+    {
+      "from": "the-other-coherence",
+      "to": "an-observation-by-its-own-standard",
+      "rel": "points_to",
+      "label": "accurate and powerful within the use of neuroscience"
     },
     {
       "from": "the-other-coherence",
@@ -47172,6 +47253,18 @@
     },
     {
       "from": "the-real-lesson-from-the-consciousness-vector-paper",
+      "to": "an-observation-by-its-own-standard",
+      "rel": "points_to",
+      "label": "审慎的操作语言就与沉重的文化含义一起走了"
+    },
+    {
+      "from": "the-real-lesson-from-the-consciousness-vector-paper",
+      "to": "an-observation-by-its-own-standard",
+      "rel": "points_to",
+      "label": "careful operational language and loaded cultural charge travel together"
+    },
+    {
+      "from": "the-real-lesson-from-the-consciousness-vector-paper",
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
       "label": "错把表达当成智能"
@@ -48318,9 +48411,21 @@
     },
     {
       "from": "the-reversal-from-defensible-claim-to-dogma",
+      "to": "an-observation-by-its-own-standard",
+      "rel": "points_to",
+      "label": "比一条仍让假设可见的曲线传得更远"
+    },
+    {
+      "from": "the-reversal-from-defensible-claim-to-dogma",
       "to": "what-works-is-the-belief",
       "rel": "points_to",
       "label": "起作用的是信念"
+    },
+    {
+      "from": "the-reversal-from-defensible-claim-to-dogma",
+      "to": "an-observation-by-its-own-standard",
+      "rel": "points_to",
+      "label": "travels farther than the curve with its assumptions still visible"
     },
     {
       "from": "the-reversal-from-defensible-claim-to-dogma",
@@ -51843,6 +51948,18 @@
       "to": "the-arithmetic-of-the-register",
       "rel": "points_to",
       "label": "The Arithmetic of the Register"
+    },
+    {
+      "from": "the-unclosable-trace",
+      "to": "an-observation-by-its-own-standard",
+      "rel": "points_to",
+      "label": "神经科学不必迁就日常用语去切分大脑"
+    },
+    {
+      "from": "the-unclosable-trace",
+      "to": "an-observation-by-its-own-standard",
+      "rel": "points_to",
+      "label": "neuroscience need not carve the brain to fit everyday speech"
     },
     {
       "from": "the-unclosable-trace",
