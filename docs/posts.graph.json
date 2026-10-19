@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-19T16:52:25.112Z",
+    "generated_at": "2026-10-19T17:17:00.280Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -188,7 +188,7 @@
       "content/posts/sowell-observed-the-surface-problem.md": "5dbc958d7157",
       "content/posts/stability-and-excess.md": "d3380355ad84",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "909c9d0b7fac",
-      "content/posts/subtracting-consciousness-at-the-source.md": "eb988c747e6b",
+      "content/posts/subtracting-consciousness-at-the-source.md": "088695650203",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "6c83b39b6e3f",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "8def0ea22390",
       "content/posts/technology-is-residual-of-human-compounding.md": "c3e3b6d44dfb",
@@ -5054,7 +5054,7 @@
       "slug": "subtracting-consciousness-at-the-source",
       "path": "content/posts/subtracting-consciousness-at-the-source.md",
       "title": "集聚与人造主体性 / Collective and Artificial Subjectivity",
-      "hash": "eb988c747e6b",
+      "hash": "088695650203",
       "in_degree": 13,
       "out_degree": 12,
       "links_out": [
@@ -34168,7 +34168,7 @@
       "from": "subtracting-consciousness-at-the-source",
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
-      "label": "造物无法取代造物者"
+      "label": "造物无法取代其源头"
     },
     {
       "from": "subtracting-consciousness-at-the-source",
@@ -34186,7 +34186,7 @@
       "from": "subtracting-consciousness-at-the-source",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence Belongs Only to The Mind - The Irreducible Prior"
+      "label": "Intelligence Belongs Only to The Mind"
     },
     {
       "from": "subtracting-consciousness-at-the-source",
@@ -34210,7 +34210,7 @@
       "from": "subtracting-consciousness-at-the-source",
       "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "rel": "points_to",
-      "label": "因果不可化约，物理学是从无处而来的视角"
+      "label": "因果的自反性与物理的无源假定"
     },
     {
       "from": "subtracting-consciousness-at-the-source",
@@ -34246,13 +34246,13 @@
       "from": "subtracting-consciousness-at-the-source",
       "to": "agency-does-not-arise",
       "rel": "points_to",
-      "label": "Agency Does Not Arise: The Category Error of Emergence, Ingressed Latent Spaces, and the First-Person Prior"
+      "label": "Agency Does Not Arise"
     },
     {
       "from": "subtracting-consciousness-at-the-source",
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
-      "label": "The Delegation of the Task and the Inalienability of Consequences: Self-Objectification, Causal Inversion, and the Return of Sovereign Judgment"
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
     },
     {
       "from": "subtracting-consciousness-at-the-source",
