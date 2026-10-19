@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-19T12:10:24.886Z",
+    "generated_at": "2026-10-19T12:39:23.720Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -314,7 +314,7 @@
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "ef81ddddf533",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "1fb34e11990f",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "0d757a4508ca",
-      "content/posts/the-perceiver-and-the-trace.md": "28aa2835a4c0",
+      "content/posts/the-perceiver-and-the-trace.md": "15c15df70471",
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "d85a0ec01465",
       "content/posts/the-power-law-of-surrendered-agency.md": "390d27c147c5",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "a2496d4cfe28",
@@ -7874,7 +7874,7 @@
       "slug": "the-perceiver-and-the-trace",
       "path": "content/posts/the-perceiver-and-the-trace.md",
       "title": "感知者与痕迹的不可坍缩 / The Perceiver and the Trace Cannot Collapse",
-      "hash": "28aa2835a4c0",
+      "hash": "15c15df70471",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -46882,7 +46882,7 @@
       "from": "the-perceiver-and-the-trace",
       "to": "the-mind-that-statistics-cannot-reveal",
       "rel": "points_to",
-      "label": "统计无法呈现的心智"
+      "label": "统计学无法揭示的心智"
     },
     {
       "from": "the-perceiver-and-the-trace",
