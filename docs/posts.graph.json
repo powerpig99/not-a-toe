@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-19T15:19:58.481Z",
+    "generated_at": "2026-10-19T15:48:55.381Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -165,7 +165,7 @@
       "content/posts/qian-yin-hou-guo.md": "5e7319c649c6",
       "content/posts/rationality-never-travels-across-the-mind.md": "082e1416eae1",
       "content/posts/reality-doesnt-invoice-by-committee.md": "e577ce5f5f88",
-      "content/posts/reality-is-the-minds-ongoing-realization.md": "11ef91285e9b",
+      "content/posts/reality-is-the-minds-ongoing-realization.md": "a747a5b7de02",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "cd3ec066c2f8",
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "f85879109b9b",
       "content/posts/residual-control-recedes-to-the-edge.md": "48dea51167fd",
@@ -404,7 +404,7 @@
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "46323a1926a8",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "6b5c78c47928",
       "content/book/causality.md": "3d3c38ed55ed",
-      "content/book/consciousness.md": "c2ba8e219e12",
+      "content/book/consciousness.md": "f91f0d61c95c",
       "content/book/economics.md": "5f09ac3fbf19",
       "content/book/index-of-premises.md": "9685d8507d83",
       "content/book/intelligence.md": "11dd07441058",
@@ -422,7 +422,7 @@
     },
     "stats": {
       "posts": 395,
-      "edges": 8236,
+      "edges": 8261,
       "unique_directed": 4612,
       "missing_targets": 0,
       "one_way": 168,
@@ -4534,8 +4534,8 @@
       "kind": "post",
       "slug": "reality-is-the-minds-ongoing-realization",
       "path": "content/posts/reality-is-the-minds-ongoing-realization.md",
-      "title": "Reality Is the Mind's Ongoing Realization",
-      "hash": "11ef91285e9b",
+      "title": "现实是心智持续的实现 / Reality Is the Mind's Ongoing Realization",
+      "hash": "a747a5b7de02",
       "in_degree": 25,
       "out_degree": 25,
       "links_out": [
@@ -31516,13 +31516,43 @@
       "from": "reality-is-the-minds-ongoing-realization",
       "to": "the-question-that-installs-the-war",
       "rel": "points_to",
-      "label": "The question that installs the war"
+      "label": "安装战争的那个问题"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
       "to": "why-explanation-fails",
       "rel": "points_to",
-      "label": "why explanation fails"
+      "label": "解释为何失效"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "the-question-that-installs-the-war",
+      "rel": "points_to",
+      "label": "The Question That Installs the War"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "why-explanation-fails",
+      "rel": "points_to",
+      "label": "Why Explanation Fails"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "没有普度只有自度"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "the-closed-loop-of-representation",
+      "rel": "points_to",
+      "label": "表征的闭环"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "sympathy-is-a-placeholder-for-lack-of-clarity",
+      "rel": "points_to",
+      "label": "同情是缺乏清晰时的占位符"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
@@ -31540,127 +31570,247 @@
       "from": "reality-is-the-minds-ongoing-realization",
       "to": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "rel": "points_to",
-      "label": "Sympathy is a placeholder for lack of clarity"
+      "label": "Sympathy Is a Placeholder for Lack of Clarity"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence belongs only to the Mind"
+      "label": "智能只属于心智"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "The scaffolding we forget"
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to The Mind"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
       "to": "how-to-fix-your-whole-life-in-one-split-second",
       "rel": "points_to",
-      "label": "How to fix your whole life in one split second"
+      "label": "如何在一瞬间修正你的整个人生"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "no system can be kept closed"
+      "label": "没有系统能被保持封闭"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
       "to": "the-strongest-belief-of-the-mind",
       "rel": "points_to",
-      "label": "The strongest belief of the Mind"
+      "label": "心智最坚固的信念"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
-      "label": "Data is local; intelligence is allocated"
+      "label": "数据是局部的，智能是分配的"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
-      "label": "The scaffolding that keeps growing"
+      "label": "持续生长的脚手架"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "how-to-fix-your-whole-life-in-one-split-second",
+      "rel": "points_to",
+      "label": "How to Fix Your Whole Life in One Split Second"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "the-strongest-belief-of-the-mind",
+      "rel": "points_to",
+      "label": "The Strongest Belief of the Mind"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data Is Local; Intelligence Is Allocated"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The Scaffolding That Keeps Growing"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
-      "label": "The source of shared change"
+      "label": "共同改变的本源"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
       "to": "price-as-utterance-understanding-as-trade",
       "rel": "points_to",
-      "label": "Price as utterance, understanding as trade"
+      "label": "价格是言说，理解是交易"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
       "to": "shared-humanity-is-never-shared",
       "rel": "points_to",
-      "label": "Shared humanity is never shared"
+      "label": "共同的人性从不共享"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
       "to": "shared-consciousness-is-intersecting-individualities",
       "rel": "points_to",
-      "label": "Shared consciousness is intersecting individualities"
+      "label": "共享意识是个体性的交集"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "The Source of Shared Change"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "Price as Utterance, Understanding as Trade"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "shared-humanity-is-never-shared",
+      "rel": "points_to",
+      "label": "Shared Humanity Is Never Shared"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "shared-consciousness-is-intersecting-individualities",
+      "rel": "points_to",
+      "label": "Shared Consciousness Is Intersecting Individualities"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
-      "label": "The meaning of life is in the drafting"
+      "label": "生命的意义在起草之中"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "the-meaning-of-life-is-in-the-drafting",
+      "rel": "points_to",
+      "label": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
       "to": "how-belief-actually-changes",
       "rel": "points_to",
-      "label": "How belief actually changes"
+      "label": "信念如何真正改变"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How Belief Actually Changes"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
-      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
+      "label": "没有外部"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
       "to": "the-imagining-of-ai-risk",
       "rel": "points_to",
-      "label": "The imagining of AI risk"
+      "label": "对 AI 风险的想象"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
       "to": "intelligence-folding-back-on-itself",
       "rel": "points_to",
-      "label": "Intelligence folding back on itself"
+      "label": "智能向自身的回折"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
       "to": "climbing-does-not-leave-the-ground",
       "rel": "points_to",
-      "label": "Climbing does not leave the ground"
+      "label": "攀登从未离开地面"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
-      "label": "Consciousness never appears as data among data"
+      "label": "意识从不作为数据出现在数据之中"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
       "to": "causality-and-the-irreducible-prior",
       "rel": "points_to",
-      "label": "Causality and the irreducible prior"
+      "label": "因果与不可化约的先在"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No Outside"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "the-imagining-of-ai-risk",
+      "rel": "points_to",
+      "label": "The Imagining of AI Risk"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "intelligence-folding-back-on-itself",
+      "rel": "points_to",
+      "label": "Intelligence Folding Back on Itself"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "climbing-does-not-leave-the-ground",
+      "rel": "points_to",
+      "label": "Climbing Does Not Leave the Ground"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "Consciousness Never Appears as Data Among Data"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "causality-and-the-irreducible-prior",
+      "rel": "points_to",
+      "label": "Causality and the Irreducible Prior"
     },
     {
       "from": "recursive-contradiction-of-entrusted-morality",
@@ -59388,7 +59538,7 @@
         "slug": "consciousness",
         "path": "content/book/consciousness.md",
         "title": "意识与第一人称先验 / Consciousness and the First-Person Prior",
-        "hash": "c2ba8e219e12",
+        "hash": "f91f0d61c95c",
         "out_degree": 39
       },
       {
@@ -59769,7 +59919,7 @@
         "from": "book:consciousness",
         "to": "reality-is-the-minds-ongoing-realization",
         "rel": "collects",
-        "label": "Reality Is the Mind's Ongoing Realization"
+        "label": "现实是心智持续的实现 / Reality Is the Mind's Ongoing Realization"
       },
       {
         "from": "book:consciousness",
