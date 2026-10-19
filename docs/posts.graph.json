@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-18T19:03:29.089Z",
+    "generated_at": "2026-10-19T03:16:30.947Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -22,7 +22,7 @@
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "24615382c532",
       "content/posts/ai-as-augmentation.md": "a27a4ea86606",
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
-      "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "fe1a6df798eb",
+      "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "67468da824c1",
       "content/posts/amplification-paradox.md": "01c4553a7e11",
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
       "content/posts/beyond-the-hundred-trillion-horizon.md": "3a79f48b23a9",
@@ -31,7 +31,7 @@
       "content/posts/causality-and-the-irreducible-prior.md": "b0836e2d3ef6",
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "7af25db31047",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "d3452a8ceeda",
-      "content/posts/cheng-gong-xue.md": "d9137bd9f09c",
+      "content/posts/cheng-gong-xue.md": "a5a16fe66184",
       "content/posts/choice-itself-has-no-inherent-weight.md": "192b31e8caf0",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "24157a13530f",
@@ -44,7 +44,7 @@
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "454c1ba03b68",
       "content/posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback.md": "5d20d9b6a45c",
       "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "cca7ab69ed23",
-      "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "2214839a1db5",
+      "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "604c435b9dab",
       "content/posts/conscience-power-delegation.md": "d11e1672ae5d",
       "content/posts/consciousness-ascription-and-the-quantum-cut.md": "f0b1af83a286",
       "content/posts/consciousness-never-appears-as-data-among-data.md": "dff7279f27e5",
@@ -81,16 +81,16 @@
       "content/posts/fate-loves-irony-refined.md": "b81c7f96dfd5",
       "content/posts/felt-resistance-and-the-speed-differential.md": "067a958b2103",
       "content/posts/fidelity-not-optimality.md": "7ed073d86a59",
-      "content/posts/fixed-by-nothing.md": "b28fd3f1db94",
+      "content/posts/fixed-by-nothing.md": "ba159612fe3d",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
-      "content/posts/freedom-as-ground.md": "40c9a3294dd5",
+      "content/posts/freedom-as-ground.md": "650323e8cf45",
       "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "71812a697b3f",
       "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "0ea3bc80574b",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "49e11e207c1c",
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "90bc3f766d03",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "f86bd65d6d90",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
-      "content/posts/guan-yu-gui-yin.md": "0ab85cee9764",
+      "content/posts/guan-yu-gui-yin.md": "f02650c0ccb9",
       "content/posts/guidance-is-not-ownership.md": "7d51a8692137",
       "content/posts/hardness-is-not-inherent-in-the-action.md": "316eb567ee9c",
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "5e1f5d55d8c4",
@@ -111,13 +111,13 @@
       "content/posts/intelligence-traps-itself.md": "970895efed15",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "77408db0532e",
       "content/posts/looping-and-graphing.md": "062e2dbb437d",
-      "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "5350932aaa7c",
+      "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "34a2ec16b58d",
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "753fa98ec858",
       "content/posts/manifesto-of-not-a-theory-of-everything.md": "94310702e8a7",
       "content/posts/math-as-a-career-is-not-math-as-a-pursuit.md": "295f0ae6bd95",
       "content/posts/meaning-of-life-refined.md": "2157fd1da622",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "d4fb9ab26507",
-      "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "3253deb787d2",
+      "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "57fc51f7e01d",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "acb7485ee691",
@@ -136,10 +136,10 @@
       "content/posts/not-a-toe-rewrite.md": "4f8f53b8f5bb",
       "content/posts/not-predicting-is-predicting-without-awareness.md": "8bfa5625bd35",
       "content/posts/objects-are-stabilized-relationships.md": "54def9af6a16",
-      "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "225df52b0b69",
+      "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "7006881dd9f9",
       "content/posts/on-education.md": "acf5a581efd1",
       "content/posts/one-cannot-escape-ones-own-mind.md": "cb7f119c5157",
-      "content/posts/ones-potential-as-threat-or-inspiration.md": "dcc2fad90d4c",
+      "content/posts/ones-potential-as-threat-or-inspiration.md": "63a25d4f0593",
       "content/posts/only-if-it-is-not-kept-empty.md": "89ba621e0d4d",
       "content/posts/ontos-is-a-method-agent.md": "f1252b8695a2",
       "content/posts/open-vision-in-a-closed-arena.md": "86f711861938",
@@ -154,11 +154,11 @@
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/po-chu-gai-nian-de-jian-yue.md": "e21049e90be8",
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "c7ac0530aeff",
-      "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "8bec08ba7c40",
+      "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "278792287a04",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "df89e1c033a5",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "ba92992e9c52",
       "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "d87ddb2eef07",
-      "content/posts/price-as-utterance-understanding-as-trade.md": "f09b5278942b",
+      "content/posts/price-as-utterance-understanding-as-trade.md": "9bd86071eefb",
       "content/posts/production-consumption-and-the-minds-distinction.md": "fe7821b46812",
       "content/posts/public-spending-does-not-create-capital.md": "4ecd2dec23ca",
       "content/posts/qian-yin-hou-guo.md": "6e45c78bfc7c",
@@ -226,7 +226,7 @@
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "3fa86a8cd1fa",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
-      "content/posts/the-deterministic-machine.md": "19a7586b9418",
+      "content/posts/the-deterministic-machine.md": "7ba9e608ee16",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "cefee228d49b",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "6bed3375defb",
       "content/posts/the-discount-on-agency.md": "7d8affe9031c",
@@ -234,7 +234,7 @@
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "cd6f36ce905c",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "fbc2f400c1b1",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "09a58e05b701",
-      "content/posts/the-extendable-horizon.md": "8608b4dd4c16",
+      "content/posts/the-extendable-horizon.md": "b7c2185d0eca",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "bcd662973452",
       "content/posts/the-fallacy-of-post-success-parenting.md": "3c761a9c4e3c",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "c422640614eb",
@@ -244,7 +244,7 @@
       "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "539507f9e7ff",
       "content/posts/the-frame-that-conceals-improvement.md": "13c8f7c008fa",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "dde3f74f7d30",
-      "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "e69b811fc985",
+      "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "b789b14c20e1",
       "content/posts/the-freedom-of-will-to-deny-itself.md": "f90a8819ab4e",
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "8725425d1195",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "99601f73e350",
@@ -252,11 +252,11 @@
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "7e70fb60c1b1",
       "content/posts/the-generative-topology-of-free-variables.md": "bd4117e215d3",
       "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "15b9e01b6512",
-      "content/posts/the-geometry-of-emergence.md": "a969fe12c726",
-      "content/posts/the-geometry-of-mind.md": "5e64ee6befbf",
-      "content/posts/the-geometry-of-success.md": "ea181327e768",
+      "content/posts/the-geometry-of-emergence.md": "83486d0d6ee3",
+      "content/posts/the-geometry-of-mind.md": "a95e23e95963",
+      "content/posts/the-geometry-of-success.md": "720f46e5d2cd",
       "content/posts/the-geometry-of-the-cut.md": "ae41a43f7e1a",
-      "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "a2d87f99dac7",
+      "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "35bc5838d210",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "1f1505bc9f82",
       "content/posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function.md": "d0abfd039874",
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "db0930acf213",
@@ -279,7 +279,7 @@
       "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "8a005fc1644a",
       "content/posts/the-irreducible-observer.md": "ad01ade05654",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "247a3d936241",
-      "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "05aea2f69ed2",
+      "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "4fe558fc61a0",
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "6cfe5d5e68e6",
       "content/posts/the-ledger-of-the-unencountered.md": "8932d526bdcc",
       "content/posts/the-limitation-is-doing-work.md": "d9e53e47a265",
@@ -294,7 +294,7 @@
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "cec160d47946",
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "e5dfc5fb16e4",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "fd3f9916d247",
-      "content/posts/the-mirage-of-the-infinite-totality.md": "ed9e81aa570c",
+      "content/posts/the-mirage-of-the-infinite-totality.md": "591249e563df",
       "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "f89cd9fc108e",
       "content/posts/the-mirror-handshake-of-power.md": "d87437fc547d",
       "content/posts/the-misallocation-of-agency.md": "0da1123e67af",
@@ -309,7 +309,7 @@
       "content/posts/the-only-coherent-uncaused-effect.md": "b8d494757a53",
       "content/posts/the-open-question-is-determinisms-demand.md": "f1804fe05d79",
       "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "60c3d0411af1",
-      "content/posts/the-other-coherence.md": "aaadb7bb7979",
+      "content/posts/the-other-coherence.md": "3a5e8d5c84b4",
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "ef81ddddf533",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "1fb34e11990f",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "0d757a4508ca",
@@ -355,7 +355,7 @@
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
       "content/posts/the-twin-paradox-and-the-hidden-observer.md": "1a3388db8649",
       "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "132e275da6fc",
-      "content/posts/the-unclosable-trace.md": "bd17d2a04bd6",
+      "content/posts/the-unclosable-trace.md": "2358700feadb",
       "content/posts/the-unexamined-critic.md": "752a0cbd970f",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "96d67d29d78d",
       "content/posts/the-unobservable-driver-of-learning.md": "309c64b033f1",
@@ -368,9 +368,9 @@
       "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
       "content/posts/the_moving_ground.md": "24eaa9a68587",
       "content/posts/therapy-opens-the-feedback-loop.md": "36a05580cbc0",
-      "content/posts/time-is-causality-not-a-dimension.md": "53a16236f39d",
+      "content/posts/time-is-causality-not-a-dimension.md": "ecf2f20ee63e",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "6b95a39fdecb",
-      "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "6d296ae60596",
+      "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "25f3981fff6c",
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "6522fd795814",
       "content/posts/trusting-the-reader-is-the-last-overstep.md": "ca993bca4cc8",
       "content/posts/two-failures-of-trace.md": "b1672bec5b8e",
@@ -391,17 +391,17 @@
       "content/posts/why-explanation-fails.md": "4bd98e24db9a",
       "content/posts/why-mathematics-can-never-be-solved.md": "fe8cd131b75d",
       "content/posts/writing-without-the-image.md": "11cc852e032a",
-      "content/posts/xian-shi-de-bian-jie.md": "62dfac083174",
-      "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "67d7a9a386eb",
+      "content/posts/xian-shi-de-bian-jie.md": "6e6081ad0bfa",
+      "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "91d744d35225",
       "content/posts/you-cant-benchmark-the-fluid.md": "5e3f42fa5041",
       "content/posts/you-tiao-jian-de-zi-you.md": "d7c121819589",
       "content/posts/you-wu-zhi-bian.md": "70bb215a86a7",
       "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "914571f5e4e9",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "c32021c6e3ac",
-      "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "edb2618d9902",
+      "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "9fab7d190df4",
       "content/posts/zi-you-de-ce-bu-zhun.md": "9c0ed3a2d8d9",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "46323a1926a8",
-      "content/posts/zuo-jian-bu-shi-zi-fu.md": "5584ccc6e135",
+      "content/posts/zuo-jian-bu-shi-zi-fu.md": "6b5c78c47928",
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "f69ff208c9db",
       "content/book/economics.md": "5f09ac3fbf19",
@@ -421,10 +421,10 @@
     },
     "stats": {
       "posts": 394,
-      "edges": 7763,
-      "unique_directed": 4561,
+      "edges": 7828,
+      "unique_directed": 4594,
       "missing_targets": 0,
-      "one_way": 147,
+      "one_way": 162,
       "isolated": 35,
       "posts_with_outbound": 358,
       "book_pages": 16,
@@ -498,15 +498,15 @@
       "in_degree": 32
     },
     {
+      "slug": "complexity-obscures-emergence-as-the-act-of-mind",
+      "in_degree": 31
+    },
+    {
       "slug": "not-a-theory-of-everything",
       "in_degree": 31
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
-      "in_degree": 30
-    },
-    {
-      "slug": "complexity-obscures-emergence-as-the-act-of-mind",
       "in_degree": 30
     },
     {
@@ -951,10 +951,11 @@
       "slug": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
       "path": "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md",
       "title": "凡可言说皆不可言说之产物 / All That Can Be Spoken Is the Product of the Unspeakable",
-      "hash": "fe1a6df798eb",
-      "in_degree": 6,
-      "out_degree": 7,
+      "hash": "67468da824c1",
+      "in_degree": 7,
+      "out_degree": 8,
       "links_out": [
+        "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "one-cannot-escape-ones-own-mind",
         "agency-does-not-arise",
         "subtracting-consciousness-at-the-source",
@@ -1209,10 +1210,11 @@
       "slug": "cheng-gong-xue",
       "path": "content/posts/cheng-gong-xue.md",
       "title": "成功学 / Theories After Success",
-      "hash": "d9137bd9f09c",
-      "in_degree": 19,
-      "out_degree": 18,
+      "hash": "a5a16fe66184",
+      "in_degree": 20,
+      "out_degree": 19,
       "links_out": [
+        "the-free-variable-and-the-retrospective-illusion-of-power",
         "performative-hindsight-that-pretends-to-be-foresight",
         "the-bank-shot-and-the-magic-trick",
         "the-rational-choice-postulate-is-the-original-sin",
@@ -1486,7 +1488,7 @@
       "path": "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md",
       "title": "Complexity Obscures: Emergence as the Act of Mind",
       "hash": "454c1ba03b68",
-      "in_degree": 30,
+      "in_degree": 31,
       "out_degree": 30,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1573,9 +1575,9 @@
       "slug": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
       "path": "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md",
       "title": "从形式迷思到逻辑闭环 / From the Myth of Form to the Closed Loop of Logic",
-      "hash": "2214839a1db5",
-      "in_degree": 18,
-      "out_degree": 18,
+      "hash": "604c435b9dab",
+      "in_degree": 19,
+      "out_degree": 19,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
         "intelligence-belongs-only-to-the-mind",
@@ -1583,6 +1585,7 @@
         "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
         "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
         "expertise-as-reference-not-replacement",
+        "guan-yu-gui-yin",
         "the-scaffolding-that-keeps-growing",
         "no-system-can-be-kept-closed",
         "causality-all-the-way",
@@ -2358,10 +2361,11 @@
       "slug": "fixed-by-nothing",
       "path": "content/posts/fixed-by-nothing.md",
       "title": "没有固定者的固定 / Fixed by Nothing",
-      "hash": "b28fd3f1db94",
-      "in_degree": 8,
-      "out_degree": 8,
+      "hash": "ba159612fe3d",
+      "in_degree": 9,
+      "out_degree": 9,
       "links_out": [
+        "the-deterministic-machine",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "the-boundary-of-perception-and-the-infinity-of-understanding",
         "the-open-question-is-determinisms-demand",
@@ -2389,10 +2393,11 @@
       "slug": "freedom-as-ground",
       "path": "content/posts/freedom-as-ground.md",
       "title": "自由即地基 / Freedom as Ground",
-      "hash": "40c9a3294dd5",
-      "in_degree": 13,
-      "out_degree": 13,
+      "hash": "650323e8cf45",
+      "in_degree": 14,
+      "out_degree": 14,
       "links_out": [
+        "zuo-jian-bu-shi-zi-fu",
         "the-fixed-image-of-transcendence",
         "the-scaffolding-that-keeps-growing",
         "you-tiao-jian-de-zi-you",
@@ -2533,11 +2538,12 @@
       "slug": "guan-yu-gui-yin",
       "path": "content/posts/guan-yu-gui-yin.md",
       "title": "关于归因 / On Attribution",
-      "hash": "0ab85cee9764",
-      "in_degree": 10,
-      "out_degree": 10,
+      "hash": "f02650c0ccb9",
+      "in_degree": 11,
+      "out_degree": 11,
       "links_out": [
         "qian-yin-hou-guo",
+        "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
         "openness-is-consistency",
         "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
         "cheng-gong-xue",
@@ -3124,12 +3130,13 @@
       "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
       "path": "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md",
       "title": "Lossless Knowledge of an Open Field Is Incoherent",
-      "hash": "5350932aaa7c",
+      "hash": "34a2ec16b58d",
       "in_degree": 21,
-      "out_degree": 21,
+      "out_degree": 22,
       "links_out": [
         "the-knowledge-problem-and-the-illusion-of-delegation",
         "the-scaling-loop",
+        "what-information-is",
         "distillation-compression-agency",
         "intelligence-belongs-only-to-the-mind",
         "two-failures-of-trace",
@@ -3294,14 +3301,15 @@
       "slug": "mi-lv-shi-jie-guo-de-biao-xiang",
       "path": "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md",
       "title": "幂律是结果的表象 / Power Law Is the Surface of Outcomes",
-      "hash": "3253deb787d2",
-      "in_degree": 5,
-      "out_degree": 5,
+      "hash": "57fc51f7e01d",
+      "in_degree": 6,
+      "out_degree": 6,
       "links_out": [
         "qian-yin-hou-guo",
         "cheng-gong-xue",
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "the-average-is-residue-not-the-engine",
+        "the-extendable-horizon",
         "power-law-is-the-long-term-consequence-of-normal-distribution"
       ]
     },
@@ -3733,12 +3741,13 @@
       "slug": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "path": "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md",
       "title": "论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof",
-      "hash": "225df52b0b69",
-      "in_degree": 7,
-      "out_degree": 7,
+      "hash": "7006881dd9f9",
+      "in_degree": 9,
+      "out_degree": 8,
       "links_out": [
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
+        "the-other-coherence",
         "selection-contradiction-and-open-reality",
         "consciousness-never-appears-as-data-among-data",
         "what-cannot-be-kept",
@@ -3792,10 +3801,11 @@
       "slug": "ones-potential-as-threat-or-inspiration",
       "path": "content/posts/ones-potential-as-threat-or-inspiration.md",
       "title": "潜能作为威胁或启发 / One’s Potential as Threat or Inspiration",
-      "hash": "dcc2fad90d4c",
+      "hash": "63a25d4f0593",
       "in_degree": 5,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
+        "the-arithmetic-of-the-register",
         "hierarchy-from-individual-difference",
         "the-average-is-residue-not-the-engine",
         "moral-language-as-projection",
@@ -4241,10 +4251,11 @@
       "slug": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "path": "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md",
       "title": "潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought",
-      "hash": "8bec08ba7c40",
-      "in_degree": 13,
-      "out_degree": 11,
+      "hash": "278792287a04",
+      "in_degree": 15,
+      "out_degree": 12,
       "links_out": [
+        "the-mirage-of-the-infinite-totality",
         "the-scaffolding-we-forget",
         "selection-contradiction-and-open-reality",
         "no-system-can-be-kept-closed",
@@ -4265,7 +4276,7 @@
       "path": "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md",
       "title": "幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution",
       "hash": "df89e1c033a5",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 5,
       "links_out": [
         "ownership-and-self-worthiness",
@@ -4334,12 +4345,13 @@
       "slug": "price-as-utterance-understanding-as-trade",
       "path": "content/posts/price-as-utterance-understanding-as-trade.md",
       "title": "价格是言说，理解是交易 / Price as Utterance, Understanding as Trade",
-      "hash": "f09b5278942b",
-      "in_degree": 17,
-      "out_degree": 16,
+      "hash": "9bd86071eefb",
+      "in_degree": 18,
+      "out_degree": 17,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "having-more-is-never-the-cause",
+        "the-knowledge-problem-and-the-illusion-of-delegation",
         "what-works-is-the-belief",
         "causality-all-the-way",
         "rationality-never-travels-across-the-mind",
@@ -5225,7 +5237,7 @@
       "path": "content/posts/the-arithmetic-of-the-register.md",
       "title": "寄存器的算术 / The Arithmetic of the Register",
       "hash": "1c7a77817624",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 12,
       "links_out": [
         "dimensions-are-projections",
@@ -5553,7 +5565,7 @@
       "path": "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md",
       "title": "笛卡尔的认识论跃迁与造神狂热 / The Cartesian Epistemic Leap and the Frenzy of Creation",
       "hash": "7e7fd663a54a",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 13,
       "links_out": [
         "openness-is-consistency",
@@ -5961,11 +5973,12 @@
       "slug": "the-deterministic-machine",
       "path": "content/posts/the-deterministic-machine.md",
       "title": "决定论机器 / The Deterministic Machine",
-      "hash": "19a7586b9418",
-      "in_degree": 7,
-      "out_degree": 7,
+      "hash": "7ba9e608ee16",
+      "in_degree": 8,
+      "out_degree": 8,
       "links_out": [
         "the-continuum-of-the-fold",
+        "fixed-by-nothing",
         "the-geometry-of-mind",
         "the-scaffolding-we-forget",
         "the-unclosable-trace",
@@ -6143,9 +6156,9 @@
       "slug": "the-extendable-horizon",
       "path": "content/posts/the-extendable-horizon.md",
       "title": "可延展的地平线 / The Extendable Horizon",
-      "hash": "8608b4dd4c16",
-      "in_degree": 10,
-      "out_degree": 13,
+      "hash": "b7c2185d0eca",
+      "in_degree": 12,
+      "out_degree": 15,
       "links_out": [
         "the-arithmetic-of-the-register",
         "the-deterministic-machine",
@@ -6155,6 +6168,8 @@
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "the-closed-n-and-the-open-reality",
         "agency-compounding-and-the-argument-over-ai-feudalism",
+        "power-law-is-the-long-term-consequence-of-normal-distribution",
+        "mi-lv-shi-jie-guo-de-biao-xiang",
         "individual-choices-as-the-only-causal-levers",
         "zi-you-de-ce-bu-zhun",
         "cheng-gong-xue",
@@ -6374,10 +6389,11 @@
       "slug": "the-free-variable-and-the-retrospective-illusion-of-power",
       "path": "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md",
       "title": "隐性自由变量与权力的事后幻相 / The Invisible Free Variable and the Retrospective Illusion of Power",
-      "hash": "e69b811fc985",
-      "in_degree": 10,
-      "out_degree": 9,
+      "hash": "b789b14c20e1",
+      "in_degree": 11,
+      "out_degree": 10,
       "links_out": [
+        "cheng-gong-xue",
         "the-invisible-observer-and-the-delusion-of-lossless-transmission",
         "the-unfrictioned-mind-and-borrowed-omnipotence",
         "the-discount-on-agency",
@@ -6421,7 +6437,7 @@
       "path": "content/posts/the-functionalism-no-functionalist-can-hold.md",
       "title": "无人能持有的功能主义 / The Functionalism No Functionalist Can Hold",
       "hash": "8725425d1195",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 9,
       "links_out": [
         "the-freedom-of-will-to-deny-itself",
@@ -6551,10 +6567,11 @@
       "slug": "the-geometry-of-emergence",
       "path": "content/posts/the-geometry-of-emergence.md",
       "title": "涌现的几何学 / The Geometry of Emergence",
-      "hash": "a969fe12c726",
-      "in_degree": 4,
-      "out_degree": 5,
+      "hash": "83486d0d6ee3",
+      "in_degree": 5,
+      "out_degree": 6,
       "links_out": [
+        "complexity-obscures-emergence-as-the-act-of-mind",
         "the-cut-moves-but-never-vanishes",
         "the-three-shadows-of-the-cut",
         "the-other-coherence",
@@ -6568,13 +6585,14 @@
       "slug": "the-geometry-of-mind",
       "path": "content/posts/the-geometry-of-mind.md",
       "title": "心智的几何学 / The Geometry of Mind",
-      "hash": "5e64ee6befbf",
+      "hash": "a95e23e95963",
       "in_degree": 19,
-      "out_degree": 19,
+      "out_degree": 20,
       "links_out": [
         "the-boundary-of-the-frame",
         "time-is-causality-not-a-dimension",
         "the-unclosable-trace",
+        "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
         "the-mirage-of-the-infinite-totality",
         "the-generative-topology-of-free-variables",
         "dimensions-are-projections",
@@ -6599,12 +6617,13 @@
       "slug": "the-geometry-of-success",
       "path": "content/posts/the-geometry-of-success.md",
       "title": "成功的几何学 / The Geometry of Success",
-      "hash": "ea181327e768",
+      "hash": "720f46e5d2cd",
       "in_degree": 13,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "cheng-gong-xue",
         "the-generative-atlas-of-macroscopic-phenomena",
+        "the-extendable-horizon",
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "closed-reality-in-benchmark-maxing",
         "the-fallacy-of-post-success-parenting",
@@ -6638,10 +6657,11 @@
       "slug": "the-grammar-of-finding-and-the-fading-observer",
       "path": "content/posts/the-grammar-of-finding-and-the-fading-observer.md",
       "title": "寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer",
-      "hash": "a2d87f99dac7",
+      "hash": "35bc5838d210",
       "in_degree": 10,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
+        "on-closed-systems-open-minds-and-the-limits-of-proof",
         "the-irreducible-observer",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "the-invisible-observer-and-the-delusion-of-lossless-transmission",
@@ -6660,7 +6680,7 @@
       "path": "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md",
       "title": "意识的难题与学习相容 / The Hard Problem of Consciousness Is Consistent with Learning",
       "hash": "1f1505bc9f82",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 14,
       "links_out": [
         "openness-is-consistency",
@@ -7104,12 +7124,13 @@
       "slug": "the-knowledge-problem-and-the-illusion-of-delegation",
       "path": "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md",
       "title": "知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation",
-      "hash": "05aea2f69ed2",
-      "in_degree": 10,
-      "out_degree": 9,
+      "hash": "4fe558fc61a0",
+      "in_degree": 11,
+      "out_degree": 10,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
         "lossless-knowledge-of-an-open-field-is-incoherent",
+        "price-as-utterance-understanding-as-trade",
         "no-system-can-be-kept-closed",
         "the-receptionist-parable-and-the-causal-inversion-of-absence",
         "the-irreducible-prior-of-decision-and-consequence",
@@ -7377,12 +7398,14 @@
       "slug": "the-mirage-of-the-infinite-totality",
       "path": "content/posts/the-mirage-of-the-infinite-totality.md",
       "title": "无穷总体的海市蜃楼 / The Mirage of the Infinite Totality",
-      "hash": "ed9e81aa570c",
-      "in_degree": 4,
-      "out_degree": 4,
+      "hash": "591249e563df",
+      "in_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "the-geometry-of-mind",
         "the-other-coherence",
+        "why-mathematics-can-never-be-solved",
+        "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
         "the-bank-shot-and-the-magic-trick",
         "the-boundary-of-the-frame"
       ]
@@ -7560,7 +7583,7 @@
       "path": "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md",
       "title": "四维长鹿的幻象与当下的模型 / The Myth of the Four-Dimensional Deer and the Present Model",
       "hash": "971cce019879",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 5,
       "links_out": [
         "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
@@ -7721,10 +7744,11 @@
       "slug": "the-other-coherence",
       "path": "content/posts/the-other-coherence.md",
       "title": "另一种相干 / The Other Coherence",
-      "hash": "aaadb7bb7979",
-      "in_degree": 5,
-      "out_degree": 5,
+      "hash": "3a5e8d5c84b4",
+      "in_degree": 6,
+      "out_degree": 6,
       "links_out": [
+        "on-closed-systems-open-minds-and-the-limits-of-proof",
         "the-mirage-of-the-infinite-totality",
         "the-generative-atlas-of-macroscopic-phenomena",
         "the-three-shadows-of-the-cut",
@@ -8683,7 +8707,7 @@
       "path": "content/posts/the-strongest-belief-of-the-mind.md",
       "title": "心智最坚固的信念 / The Strongest Belief of the Mind",
       "hash": "08187325a18d",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 18,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -8847,15 +8871,18 @@
       "slug": "the-unclosable-trace",
       "path": "content/posts/the-unclosable-trace.md",
       "title": "无法闭合的痕迹 / The Unclosable Trace",
-      "hash": "bd17d2a04bd6",
+      "hash": "2358700feadb",
       "in_degree": 10,
-      "out_degree": 11,
+      "out_degree": 14,
       "links_out": [
         "the-geometry-of-mind",
         "no-system-can-be-kept-closed",
         "dimensions-are-projections",
+        "the-cartesian-overstep-and-the-frenzy-of-creation",
         "the-continuum-of-the-fold",
+        "the-functionalism-no-functionalist-can-hold",
         "the-arithmetic-of-the-register",
+        "the-hard-problem-of-consciousness-is-consistent-with-learning",
         "the-cut-moves-but-never-vanishes",
         "the-scaffolding-we-forget",
         "the-deterministic-machine",
@@ -9008,7 +9035,7 @@
       "path": "content/posts/the-walking-tangent-and-the-stumbling-sphere.md",
       "title": "切平面的行者与完美球面的踩空者 / The Walking Tangent and the Stumbling Sphere",
       "hash": "2e2205554d0d",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 8,
       "links_out": [
         "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
@@ -9069,11 +9096,12 @@
       "slug": "time-is-causality-not-a-dimension",
       "path": "content/posts/time-is-causality-not-a-dimension.md",
       "title": "时间是因果的不可逆方向与离散步长 / Time Is the Irreversible Direction and Discrete Step of Causality",
-      "hash": "53a16236f39d",
+      "hash": "ecf2f20ee63e",
       "in_degree": 12,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "dimensions-are-projections",
+        "the-myth-of-the-four-dimensional-deer-and-the-present-model",
         "the-geometry-of-emergence",
         "individual-choices-as-the-only-causal-levers",
         "the-black-and-white-sample-frame-and-the-extrapolated-universe",
@@ -9124,13 +9152,14 @@
       "slug": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
       "path": "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md",
       "title": "投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality",
-      "hash": "6d296ae60596",
+      "hash": "25f3981fff6c",
       "in_degree": 10,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "what-information-is",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "gao-wei-xin-xi-de-li-san-zhe-she",
+        "the-walking-tangent-and-the-stumbling-sphere",
         "complexity-obscures-emergence-as-the-act-of-mind",
         "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
         "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
@@ -9350,7 +9379,7 @@
       "path": "content/posts/what-information-is.md",
       "title": "信息是什么 / What Information Is",
       "hash": "7cd6825d3ad0",
-      "in_degree": 23,
+      "in_degree": 24,
       "out_degree": 23,
       "links_out": [
         "the-mark-and-the-act",
@@ -9595,7 +9624,7 @@
       "path": "content/posts/why-mathematics-can-never-be-solved.md",
       "title": "Why Mathematics Can Never Be Solved",
       "hash": "fe8cd131b75d",
-      "in_degree": 23,
+      "in_degree": 24,
       "out_degree": 22,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
@@ -9647,10 +9676,11 @@
       "slug": "xian-shi-de-bian-jie",
       "path": "content/posts/xian-shi-de-bian-jie.md",
       "title": "现实的边界 / The Boundary of Reality",
-      "hash": "62dfac083174",
+      "hash": "6e6081ad0bfa",
       "in_degree": 13,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
+        "the-strongest-belief-of-the-mind",
         "the-model-never-becomes-a-second-edge",
         "qian-yin-hou-guo",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
@@ -9672,12 +9702,13 @@
       "slug": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
       "path": "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md",
       "title": "涌现的伪因果 / The Pseudo-Causality of Emergence",
-      "hash": "67d7a9a386eb",
+      "hash": "91d744d35225",
       "in_degree": 15,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
         "the-mark-and-the-act",
+        "the-geometry-of-emergence",
         "individual-choices-as-the-only-causal-levers",
         "the-generative-atlas-of-macroscopic-phenomena",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
@@ -9791,10 +9822,11 @@
       "slug": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "path": "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md",
       "title": "自由变量的同构与先验主权 / The Isomorphism of Free Variables and Prior Sovereignty",
-      "hash": "edb2618d9902",
-      "in_degree": 16,
-      "out_degree": 16,
+      "hash": "9fab7d190df4",
+      "in_degree": 17,
+      "out_degree": 17,
       "links_out": [
+        "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
         "when-electrons-think",
         "what-information-is",
         "the-free-variable-and-the-retrospective-illusion-of-power",
@@ -9876,12 +9908,13 @@
       "slug": "zuo-jian-bu-shi-zi-fu",
       "path": "content/posts/zuo-jian-bu-shi-zi-fu.md",
       "title": "作茧不是自缚 / Spinning a Cocoon Is Not Binding Oneself",
-      "hash": "5584ccc6e135",
-      "in_degree": 6,
-      "out_degree": 6,
+      "hash": "6b5c78c47928",
+      "in_degree": 7,
+      "out_degree": 7,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "du-zhongwen-zhexue-jianshi-you-gan",
+        "freedom-as-ground",
         "the-path-drawn-one-step-at-a-time",
         "openness-is-consistency",
         "shared-consciousness-is-intersecting-individualities",
@@ -11338,6 +11371,18 @@
     },
     {
       "from": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+      "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "rel": "points_to",
+      "label": "模拟假说"
+    },
+    {
+      "from": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+      "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "rel": "points_to",
+      "label": "the simulation hypothesis"
+    },
+    {
+      "from": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
       "to": "one-cannot-escape-ones-own-mind",
       "rel": "points_to",
       "label": "无法逃逸的心智视界"
@@ -12703,6 +12748,18 @@
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
       "label": "A Creation Cannot Replace Its Source"
+    },
+    {
+      "from": "cheng-gong-xue",
+      "to": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "rel": "points_to",
+      "label": "极少数卓越者的事后经验"
+    },
+    {
+      "from": "cheng-gong-xue",
+      "to": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "rel": "points_to",
+      "label": "the retrospective experience of outlier achievers"
     },
     {
       "from": "cheng-gong-xue",
@@ -14662,6 +14719,12 @@
     },
     {
       "from": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "to": "guan-yu-gui-yin",
+      "rel": "points_to",
+      "label": "常被用成简单粗暴的攻击武器"
+    },
+    {
+      "from": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
       "label": "持续生长的脚手架"
@@ -14671,6 +14734,12 @@
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
       "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "to": "guan-yu-gui-yin",
+      "rel": "points_to",
+      "label": "often used in popular discussion as a crude weapon"
     },
     {
       "from": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
@@ -18412,6 +18481,18 @@
     },
     {
       "from": "fixed-by-nothing",
+      "to": "the-deterministic-machine",
+      "rel": "points_to",
+      "label": "拉普拉斯设想的那个知晓宇宙中一切力与一切位置的智者"
+    },
+    {
+      "from": "fixed-by-nothing",
+      "to": "the-deterministic-machine",
+      "rel": "points_to",
+      "label": "The intellect Laplace imagined"
+    },
+    {
+      "from": "fixed-by-nothing",
       "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "rel": "points_to",
       "label": "因果的自反性与物理的无源假定"
@@ -18517,6 +18598,18 @@
       "to": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
       "rel": "points_to",
       "label": "The Substrate of Constraint and the Self-Denial of Freedom"
+    },
+    {
+      "from": "freedom-as-ground",
+      "to": "zuo-jian-bu-shi-zi-fu",
+      "rel": "points_to",
+      "label": "常见的读法把它当作一场悲剧性的堕落"
+    },
+    {
+      "from": "freedom-as-ground",
+      "to": "zuo-jian-bu-shi-zi-fu",
+      "rel": "points_to",
+      "label": "The usual reading treats this as a tragic fall"
     },
     {
       "from": "freedom-as-ground",
@@ -19264,6 +19357,12 @@
     },
     {
       "from": "guan-yu-gui-yin",
+      "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "rel": "points_to",
+      "label": "波普尔证伪主义常被误用"
+    },
+    {
+      "from": "guan-yu-gui-yin",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "开放即一致"
@@ -19273,6 +19372,12 @@
       "to": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
       "rel": "points_to",
       "label": "选择看见而非搜寻影子"
+    },
+    {
+      "from": "guan-yu-gui-yin",
+      "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "rel": "points_to",
+      "label": "Popper's falsificationism is commonly misused"
     },
     {
       "from": "guan-yu-gui-yin",
@@ -22228,6 +22333,12 @@
     },
     {
       "from": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "Claude Shannon"
+    },
+    {
+      "from": "lossless-knowledge-of-an-open-field-is-incoherent",
       "to": "distillation-compression-agency",
       "rel": "points_to",
       "label": "Distillation chooses what to lose"
@@ -23041,6 +23152,18 @@
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
       "label": "The Average Is Residue, Not the Engine"
+    },
+    {
+      "from": "mi-lv-shi-jie-guo-de-biao-xiang",
+      "to": "the-extendable-horizon",
+      "rel": "points_to",
+      "label": "不同迭代速率在时间中的复利运作"
+    },
+    {
+      "from": "mi-lv-shi-jie-guo-de-biao-xiang",
+      "to": "the-extendable-horizon",
+      "rel": "points_to",
+      "label": "the compounding of different rates of iteration over time"
     },
     {
       "from": "mi-lv-shi-jie-guo-de-biao-xiang",
@@ -25036,6 +25159,18 @@
     },
     {
       "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "to": "the-other-coherence",
+      "rel": "points_to",
+      "label": "客观还原与微管"
+    },
+    {
+      "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "to": "the-other-coherence",
+      "rel": "points_to",
+      "label": "objective reduction and microtubules"
+    },
+    {
+      "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "to": "selection-contradiction-and-open-reality",
       "rel": "points_to",
       "label": "选择、矛盾与开放的现实"
@@ -25279,6 +25414,18 @@
       "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "rel": "points_to",
       "label": "The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation"
+    },
+    {
+      "from": "ones-potential-as-threat-or-inspiration",
+      "to": "the-arithmetic-of-the-register",
+      "rel": "points_to",
+      "label": "封闭、零和的现实假设"
+    },
+    {
+      "from": "ones-potential-as-threat-or-inspiration",
+      "to": "the-arithmetic-of-the-register",
+      "rel": "points_to",
+      "label": "a closed, zero-sum reality"
     },
     {
       "from": "ones-potential-as-threat-or-inspiration",
@@ -27622,6 +27769,18 @@
     },
     {
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "the-mirage-of-the-infinite-totality",
+      "rel": "points_to",
+      "label": "无限首先呈现为潜在的生成"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "the-mirage-of-the-infinite-totality",
+      "rel": "points_to",
+      "label": "Infinity presents itself first as potential"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "遗忘的脚手架"
@@ -28183,6 +28342,18 @@
       "to": "having-more-is-never-the-cause",
       "rel": "points_to",
       "label": "Having More Is Never the Cause"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "rel": "points_to",
+      "label": "哈耶克的图景"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "rel": "points_to",
+      "label": "Hayek’s picture of the price as a signal coordinating dispersed knowledge"
     },
     {
       "from": "price-as-utterance-understanding-as-trade",
@@ -36508,6 +36679,18 @@
     },
     {
       "from": "the-deterministic-machine",
+      "to": "fixed-by-nothing",
+      "rel": "points_to",
+      "label": "计算者得站在宇宙之外"
+    },
+    {
+      "from": "the-deterministic-machine",
+      "to": "fixed-by-nothing",
+      "rel": "points_to",
+      "label": "the calculator would have to stand outside it"
+    },
+    {
+      "from": "the-deterministic-machine",
       "to": "the-continuum-of-the-fold",
       "rel": "points_to",
       "label": "折叠的连续谱"
@@ -37654,9 +37837,27 @@
     },
     {
       "from": "the-extendable-horizon",
+      "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "rel": "points_to",
+      "label": "幂律分布"
+    },
+    {
+      "from": "the-extendable-horizon",
       "to": "agency-compounding-and-the-argument-over-ai-feudalism",
       "rel": "points_to",
       "label": "Agency, Compounding, and the Argument Over AI Feudalism"
+    },
+    {
+      "from": "the-extendable-horizon",
+      "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "rel": "points_to",
+      "label": "yields a power-law distribution"
+    },
+    {
+      "from": "the-extendable-horizon",
+      "to": "mi-lv-shi-jie-guo-de-biao-xiang",
+      "rel": "points_to",
+      "label": "分布是事后从第三人称读出来的沉淀"
     },
     {
       "from": "the-extendable-horizon",
@@ -37675,6 +37876,12 @@
       "to": "cheng-gong-xue",
       "rel": "points_to",
       "label": "成功学"
+    },
+    {
+      "from": "the-extendable-horizon",
+      "to": "mi-lv-shi-jie-guo-de-biao-xiang",
+      "rel": "points_to",
+      "label": "A distribution is sediment read off afterwards"
     },
     {
       "from": "the-extendable-horizon",
@@ -38782,6 +38989,18 @@
     },
     {
       "from": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
+      "label": "成功学"
+    },
+    {
+      "from": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
+      "label": "success literature"
+    },
+    {
+      "from": "the-free-variable-and-the-retrospective-illusion-of-power",
       "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
       "rel": "points_to",
       "label": "观察者的隐身与无损传递的妄念"
@@ -39760,6 +39979,18 @@
     },
     {
       "from": "the-geometry-of-emergence",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
+      "label": "涌现说的却是一个结果"
+    },
+    {
+      "from": "the-geometry-of-emergence",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
+      "label": "emergence names a result"
+    },
+    {
+      "from": "the-geometry-of-emergence",
       "to": "the-cut-moves-but-never-vanishes",
       "rel": "points_to",
       "label": "割点可移不可除"
@@ -39853,6 +40084,18 @@
       "to": "the-unclosable-trace",
       "rel": "points_to",
       "label": "The Unclosable Trace"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "在数学里有它的用处"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "has its use in mathematics"
     },
     {
       "from": "the-geometry-of-mind",
@@ -40066,9 +40309,21 @@
     },
     {
       "from": "the-geometry-of-success",
+      "to": "the-extendable-horizon",
+      "rel": "points_to",
+      "label": "而不是开出新的路"
+    },
+    {
+      "from": "the-geometry-of-success",
       "to": "the-generative-atlas-of-macroscopic-phenomena",
       "rel": "points_to",
       "label": "The Generative Atlas of Macroscopic Phenomena"
+    },
+    {
+      "from": "the-geometry-of-success",
+      "to": "the-extendable-horizon",
+      "rel": "points_to",
+      "label": "rather than opening new paths"
     },
     {
       "from": "the-geometry-of-success",
@@ -40225,6 +40480,18 @@
       "to": "the-explanatory-trap-of-the-ordinary-perspective",
       "rel": "points_to",
       "label": "The Explanatory Trap of the \"Ordinary Perspective\""
+    },
+    {
+      "from": "the-grammar-of-finding-and-the-fading-observer",
+      "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "rel": "points_to",
+      "label": "哥德尔的限制是否像约束形式系统那样约束心智"
+    },
+    {
+      "from": "the-grammar-of-finding-and-the-fading-observer",
+      "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "rel": "points_to",
+      "label": "whether Gödel's limits bind the Mind as they bind a formal system"
     },
     {
       "from": "the-grammar-of-finding-and-the-fading-observer",
@@ -42562,6 +42829,18 @@
     },
     {
       "from": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "相对稀缺信号"
+    },
+    {
+      "from": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "transmit signals of relative scarcity"
+    },
+    {
+      "from": "the-knowledge-problem-and-the-illusion-of-delegation",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
       "label": "没有系统能被保持封闭"
@@ -43573,6 +43852,30 @@
       "to": "the-other-coherence",
       "rel": "points_to",
       "label": "The Other Coherence"
+    },
+    {
+      "from": "the-mirage-of-the-infinite-totality",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "为公理系统提供形式上的一致"
+    },
+    {
+      "from": "the-mirage-of-the-infinite-totality",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "gives axiomatic systems formal consistency"
+    },
+    {
+      "from": "the-mirage-of-the-infinite-totality",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "完成的无穷从来不会作为一件对象被遇到"
+    },
+    {
+      "from": "the-mirage-of-the-infinite-totality",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "a completed infinity is never met as an object"
     },
     {
       "from": "the-mirage-of-the-infinite-totality",
@@ -45193,6 +45496,18 @@
       "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
       "rel": "points_to",
       "label": "The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank"
+    },
+    {
+      "from": "the-other-coherence",
+      "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "rel": "points_to",
+      "label": "协调客观还原"
+    },
+    {
+      "from": "the-other-coherence",
+      "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "rel": "points_to",
+      "label": "orchestrated objective reduction"
     },
     {
       "from": "the-other-coherence",
@@ -51340,6 +51655,18 @@
     },
     {
       "from": "the-unclosable-trace",
+      "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "rel": "points_to",
+      "label": "笛卡尔的“我思”"
+    },
+    {
+      "from": "the-unclosable-trace",
+      "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "rel": "points_to",
+      "label": "Descartes' cogito"
+    },
+    {
+      "from": "the-unclosable-trace",
       "to": "the-continuum-of-the-fold",
       "rel": "points_to",
       "label": "折叠的连续谱"
@@ -51352,9 +51679,21 @@
     },
     {
       "from": "the-unclosable-trace",
+      "to": "the-functionalism-no-functionalist-can-hold",
+      "rel": "points_to",
+      "label": "多重可实现性"
+    },
+    {
+      "from": "the-unclosable-trace",
       "to": "the-arithmetic-of-the-register",
       "rel": "points_to",
       "label": "寄存器的算术"
+    },
+    {
+      "from": "the-unclosable-trace",
+      "to": "the-functionalism-no-functionalist-can-hold",
+      "rel": "points_to",
+      "label": "multiple realizability"
     },
     {
       "from": "the-unclosable-trace",
@@ -51364,9 +51703,21 @@
     },
     {
       "from": "the-unclosable-trace",
+      "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "rel": "points_to",
+      "label": "解释缺口"
+    },
+    {
+      "from": "the-unclosable-trace",
       "to": "the-cut-moves-but-never-vanishes",
       "rel": "points_to",
       "label": "割点可移不可除"
+    },
+    {
+      "from": "the-unclosable-trace",
+      "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "rel": "points_to",
+      "label": "the explanatory gap"
     },
     {
       "from": "the-unclosable-trace",
@@ -52498,6 +52849,18 @@
     },
     {
       "from": "time-is-causality-not-a-dimension",
+      "to": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
+      "rel": "points_to",
+      "label": "静态块状宇宙的图景"
+    },
+    {
+      "from": "time-is-causality-not-a-dimension",
+      "to": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
+      "rel": "points_to",
+      "label": "the picture of the static block universe"
+    },
+    {
+      "from": "time-is-causality-not-a-dimension",
       "to": "the-geometry-of-emergence",
       "rel": "points_to",
       "label": "涌现的几何学"
@@ -52771,6 +53134,18 @@
       "to": "gao-wei-xin-xi-de-li-san-zhe-she",
       "rel": "points_to",
       "label": "The Discrete Refraction of High-Dimensional Information"
+    },
+    {
+      "from": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
+      "to": "the-walking-tangent-and-the-stumbling-sphere",
+      "rel": "points_to",
+      "label": "地平之说"
+    },
+    {
+      "from": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
+      "to": "the-walking-tangent-and-the-stumbling-sphere",
+      "rel": "points_to",
+      "label": "the flat-earth pictures of many ancient cultures"
     },
     {
       "from": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
@@ -55126,6 +55501,18 @@
     },
     {
       "from": "xian-shi-de-bian-jie",
+      "to": "the-strongest-belief-of-the-mind",
+      "rel": "points_to",
+      "label": "对第一因与终极的执念"
+    },
+    {
+      "from": "xian-shi-de-bian-jie",
+      "to": "the-strongest-belief-of-the-mind",
+      "rel": "points_to",
+      "label": "The hold on a first cause and an ultimate ground"
+    },
+    {
+      "from": "xian-shi-de-bian-jie",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "模型永远无法成为第二重前沿"
@@ -55306,6 +55693,12 @@
     },
     {
       "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "to": "the-geometry-of-emergence",
+      "rel": "points_to",
+      "label": "涌现的归因倒错"
+    },
+    {
+      "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "个体抉择是唯一的因果杠杆"
@@ -55315,6 +55708,12 @@
       "to": "the-generative-atlas-of-macroscopic-phenomena",
       "rel": "points_to",
       "label": "宏观现象的生成图谱"
+    },
+    {
+      "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "to": "the-geometry-of-emergence",
+      "rel": "points_to",
+      "label": "The misattribution of emergence"
     },
     {
       "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
@@ -55807,6 +56206,18 @@
       "to": "what-information-is",
       "rel": "points_to",
       "label": "What Information Is"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+      "rel": "points_to",
+      "label": "高维的超级计算机运行的数字程序"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+      "rel": "points_to",
+      "label": "a digital program running on a high-dimensional supercomputer"
     },
     {
       "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
@@ -56422,6 +56833,12 @@
     },
     {
       "from": "zuo-jian-bu-shi-zi-fu",
+      "to": "freedom-as-ground",
+      "rel": "points_to",
+      "label": "无往不在枷锁之中"
+    },
+    {
+      "from": "zuo-jian-bu-shi-zi-fu",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
       "label": "一步一步绘制出的路径"
@@ -56431,6 +56848,12 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "开放即一致"
+    },
+    {
+      "from": "zuo-jian-bu-shi-zi-fu",
+      "to": "freedom-as-ground",
+      "rel": "points_to",
+      "label": "everywhere in chains"
     },
     {
       "from": "zuo-jian-bu-shi-zi-fu",

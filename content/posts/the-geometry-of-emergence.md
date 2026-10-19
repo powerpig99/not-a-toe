@@ -2,9 +2,9 @@
 
 *涌现是不可观察者变为可观察者的过渡，与心智对分辨率的选择相耦合 / Emergence is the unobservable becoming observable, coupled with the Mind's choice of resolution.*
 
-“涌现”常被搬出来，好像这个词本身就解释了复杂的模式。在物理与哲学的讨论里，一个模式在更大的尺度上出现，涌现就被当作生成它的原因。涌现说的却是一个结果：被叫作涌现的，是不可观察者变为可观察者的那一次过渡，而它总与观察的心智对尺度的主动选择相耦合。
+“涌现”常被搬出来，好像这个词本身就解释了复杂的模式。在物理与哲学的讨论里，一个模式在更大的尺度上出现，涌现就被当作生成它的原因。[涌现说的却是一个结果](../complexity-obscures-emergence-as-the-act-of-mind/)：被叫作涌现的，是不可观察者变为可观察者的那一次过渡，而它总与观察的心智对尺度的主动选择相耦合。
 
-"Emergence" is often brought out as if the word itself explained complex patterns. In physical and philosophical discussion, a pattern appears at a larger scale and emergence is offered as the cause that generated it. Yet emergence names a result: what is called emergence is the crossing where the unobservable becomes observable, and it is always coupled with the observing Mind's active choice of scale.
+"Emergence" is often brought out as if the word itself explained complex patterns. In physical and philosophical discussion, a pattern appears at a larger scale and emergence is offered as the cause that generated it. Yet [emergence names a result](../complexity-obscures-emergence-as-the-act-of-mind/): what is called emergence is the crossing where the unobservable becomes observable, and it is always coupled with the observing Mind's active choice of scale.
 
 沿着一层层复杂性向下追原因，遇到的是一条不断开的链。一个社会是个体行动者的结构化构型，一个细胞是分子级联的精细构型，一个有意识的念头是神经转换的特定构型。如果下层的因果链由已经实现的东西决定，上层的描述也同样被决定。改变观察的粒度，是有意识地画一条新的边界：选择把哪些微观的变化整合为背景的不变量，把哪些宏观的规律提到焦点上来。一个确定的过程，换到更宽的宏观状态上重新描述，仍然是确定的。
 

@@ -8,9 +8,9 @@ As a thought experiment the simulation hypothesis is suggestive: reality can be 
 
 ## 一、 信息不需要一台主机 / 1. Information Needs No Host Machine
 
-数字物理学与模拟假说谈到世界由信息构成时，带着一个未经审视的定势：信息须寄居在某种硬件之上。这个直觉来自工程的经验，在人的技术实践里，数据的流转离不开芯片、电平的翻转、导线与机房。于是说到“物理世界的基础是信息”时，浮现的是一台规模宏大的超级计算机，在不可知的实验室里昼夜运行着模拟现实的代码。
+数字物理学与[模拟假说](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)谈到世界由信息构成时，带着一个未经审视的定势：信息须寄居在某种硬件之上。这个直觉来自工程的经验，在人的技术实践里，数据的流转离不开芯片、电平的翻转、导线与机房。于是说到“物理世界的基础是信息”时，浮现的是一台规模宏大的超级计算机，在不可知的实验室里昼夜运行着模拟现实的代码。
 
-When digital physics and the simulation hypothesis speak of the world as made of information, they carry an unexamined habit: information has to reside on some hardware. The intuition comes from engineering experience; in human technical practice the movement of data cannot do without chips, the switching of voltage levels, wires and server rooms. So when it is said that "the basis of the physical world is information," what comes to mind is a supercomputer of vast scale, running day and night in an unknowable laboratory the code that simulates reality.
+When digital physics and [the simulation hypothesis](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/) speak of the world as made of information, they carry an unexamined habit: information has to reside on some hardware. The intuition comes from engineering experience; in human technical practice the movement of data cannot do without chips, the switching of voltage levels, wires and server rooms. So when it is said that "the basis of the physical world is information," what comes to mind is a supercomputer of vast scale, running day and night in an unknowable laboratory the code that simulates reality.
 
 这个推论没有说明物理的来处，它以隐蔽的方式回到了机械唯物论。承载这个宇宙之信息的若仍是一套由晶体管、电源与主板构成的机器，那台机器的物理法则从何而来，它所在的宇宙是否又要另一台更高阶的机器来模拟？无限倒退由此展开：宏观物质实体的假定刚被放下，硬件又被立为先决条件。[无法逃逸的心智视界](../one-cannot-escape-ones-own-mind/)指明过这种心智面对自身模型时的倒置。
 

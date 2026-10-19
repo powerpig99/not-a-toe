@@ -2,9 +2,9 @@
 
 *神经元里的量子相位可以计时，一个经验的世界在敞开中维系为一体是另一层的事 / Quantum phase in a neuron can be timed; an experienced world holding together while open is another order.*
 
-关于生物中量子效应的争论，收敛到了一个测量上：一个温暖、潮湿的大脑，能否把一个量子相位保持得足够久，让它进入思维的时间尺度？罗杰·彭罗斯与斯图尔特·哈梅罗夫把协调客观还原放在神经元微管的这个尺度上。经典的反驳拿热退相干与细胞组织的温度和湿度相比，马克斯·泰格马克在 2000 年估算，在生理温度下退相干快得远远赶不上神经的时间。
+关于生物中量子效应的争论，收敛到了一个测量上：一个温暖、潮湿的大脑，能否把一个量子相位保持得足够久，让它进入思维的时间尺度？罗杰·彭罗斯与斯图尔特·哈梅罗夫把[协调客观还原](../on-closed-systems-open-minds-and-the-limits-of-proof/)放在神经元微管的这个尺度上。经典的反驳拿热退相干与细胞组织的温度和湿度相比，马克斯·泰格马克在 2000 年估算，在生理温度下退相干快得远远赶不上神经的时间。
 
-The debate over quantum effects in biology has converged on one measurement: can a warm, wet brain hold a quantum phase long enough for it to enter the timing of thought? Roger Penrose and Stuart Hameroff placed orchestrated objective reduction in neuronal microtubules at that scale. The classical rebuttal set thermal decoherence against the heat and wetness of cellular tissue, and Max Tegmark estimated in 2000 that at physiological temperature decoherence is far too fast to keep up with neural timing.
+The debate over quantum effects in biology has converged on one measurement: can a warm, wet brain hold a quantum phase long enough for it to enter the timing of thought? Roger Penrose and Stuart Hameroff placed [orchestrated objective reduction](../on-closed-systems-open-minds-and-the-limits-of-proof/) in neuronal microtubules at that scale. The classical rebuttal set thermal decoherence against the heat and wetness of cellular tissue, and Max Tegmark estimated in 2000 that at physiological temperature decoherence is far too fast to keep up with neural timing.
 
 较近的研究又把问题推开了一些。迈克尔·威斯特的实验室在 2024 年报告，一种稳定微管的药物让大鼠在麻醉下失去意识的时间推迟了大约一分钟；菲利普·库里安的团队报告，微管中大量色氨酸构成的网络有集体的超辐射行为。这场交锋问的是，某一种量子振幅之间的相位对齐能否在神经元里持续。那种对齐是一种相干；一个被经验的世界维系为一片连续的场，既保持一个稳定的场景，又对下一刻的到来保持可及，这是另一种相干。
 

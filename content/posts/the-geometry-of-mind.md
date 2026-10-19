@@ -18,9 +18,9 @@ To be self-contained, reality cannot be an object placed in an outside container
 
 ## 二、 无穷是潜能，不是总体 / 2. Infinity as Potential, Not Totality
 
-这个开放现实的无穷，也不是经典数学里那种完成了的、静止的总体。把无穷当作已经实现的、冻结的集合，康托尔的 ℵ₀，或者完整摆在抽象架子上的连续统，让渐近、极限与证明成为可能，在数学里有它的用处。它的边界在被当成现实的那一刻：那需要一个站在系统之外俯视的观察者，而在一个自身完备的现实里找不到外部的视点，计算与感知都只从内部发生。
+这个开放现实的无穷，也不是经典数学里那种完成了的、静止的总体。把无穷当作已经实现的、冻结的集合，康托尔的 ℵ₀，或者完整摆在抽象架子上的连续统，让渐近、极限与证明成为可能，[在数学里有它的用处](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/)。它的边界在被当成现实的那一刻：那需要一个站在系统之外俯视的观察者，而在一个自身完备的现实里找不到外部的视点，计算与感知都只从内部发生。
 
-The infinity of this open reality is not the finished, static totality of classical mathematics either. Treating infinity as an actualized, frozen set, Cantor's ℵ₀ or a continuum lying complete on an abstract shelf, makes asymptotics, limits and proofs possible, and has its use in mathematics. Its boundary is the moment it is taken for reality: that would need an observer looking down from outside the system, and in a self-contained reality no outside vantage is found; calculation and perception happen only from within.
+The infinity of this open reality is not the finished, static totality of classical mathematics either. Treating infinity as an actualized, frozen set, Cantor's ℵ₀ or a continuum lying complete on an abstract shelf, makes asymptotics, limits and proofs possible, and [has its use in mathematics](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/). Its boundary is the moment it is taken for reality: that would need an observer looking down from outside the system, and in a self-contained reality no outside vantage is found; calculation and perception happen only from within.
 
 [无穷总体的海市蜃楼](../the-mirage-of-the-infinite-totality/)：无穷不是成品库存的无穷积累，而是一种操作上的潜能，是边界不肯终止的那种结构。“开端”与“终结”不是钉在一把凌驾一切的时间尺两端的书挡，而是第一人称感知地平线的动态开口界限；就像地平线随观察者移动，起点与终点也是心智为了锚定当前坐标系而投射出的焦点。因为无穷是潜在的，而不是实现了的，未来的状态 E(t+1) 在系统把它算出来之前尚未渲染；决定论在这里到了边界，因为地平线一直对[互补的自由变量](../the-generative-topology-of-free-variables/)敞开。
 

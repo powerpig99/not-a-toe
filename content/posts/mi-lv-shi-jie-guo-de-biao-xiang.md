@@ -104,9 +104,9 @@ flowchart TD
 
 ## 五、 活动从未完成，起点可以被超越 / 5. The Activity Is Never Finished, and the Starting Point Can Be Surpassed
 
-要追踪的不是分布曲线本身，而是速率如何在具体的中心上持续产生。在各个中心上，起点可以被超越，是因为活动从未完成。在分析者那里，预设条件可以改变整理出的洞见，是因为贝叶斯更新从来不是中立的发现，而是操作者自己的区分在延伸。一旦把幂律从“客观规律”或“金科玉律”的位置上撤下来，它就只是它本来的样子：结果表象的统计规律。生成它的，始终是不同迭代速率在时间中的复利运作。
+要追踪的不是分布曲线本身，而是速率如何在具体的中心上持续产生。在各个中心上，起点可以被超越，是因为活动从未完成。在分析者那里，预设条件可以改变整理出的洞见，是因为贝叶斯更新从来不是中立的发现，而是操作者自己的区分在延伸。一旦把幂律从“客观规律”或“金科玉律”的位置上撤下来，它就只是它本来的样子：结果表象的统计规律。生成它的，始终是[不同迭代速率在时间中的复利运作](../the-extendable-horizon/)。
 
-What is to be tracked is not the distribution curve itself but how rates keep arising at particular centers. At the centers, the starting point can be surpassed because the activity is never finished. With the analyst, the preset conditions can change the insight the synthesis writes, because Bayesian updating is never neutral discovery but the operator's own distinctions extended. Once the power law is taken down from the place of "objective law" or "golden rule," it is just what it is: a statistical regularity of the surface of outcomes. What generates it is always the compounding of different rates of iteration over time.
+What is to be tracked is not the distribution curve itself but how rates keep arising at particular centers. At the centers, the starting point can be surpassed because the activity is never finished. With the analyst, the preset conditions can change the insight the synthesis writes, because Bayesian updating is never neutral discovery but the operator's own distinctions extended. Once the power law is taken down from the place of "objective law" or "golden rule," it is just what it is: a statistical regularity of the surface of outcomes. What generates it is always [the compounding of different rates of iteration over time](../the-extendable-horizon/).
 
 [幂律是正态分布的长期后果](../power-law-is-the-long-term-consequence-of-normal-distribution/)补的是短窗口的那一面：对数上近似正态的增量。那些增量经过足够多次相乘，才留下这里被放回结果位置的长窗口痕迹。
 

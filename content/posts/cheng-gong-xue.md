@@ -2,9 +2,9 @@
 
 *结果之后的整理，把幸存者重排成可携带的规则并当作引擎，产生他们的序列不在其中。 / After the outcome, survivors become portable rules offered as the engine; the sequence that produced them is left out.*
 
-中文里有一类被称为“成功学”的体裁：它将极少数卓越者的事后经验，包装成整洁、通用且可供批量复刻的原则、体系与流程。瑞·达利欧及其畅销书《原则》，便是当代商业语境中的典型代表。这类框架近乎完美地贴合了既成的卓越；然而面对充满未知负荷的真实世界，对于卓越究竟如何从无到有地再次生成，它们却始终保持沉默。
+中文里有一类被称为“成功学”的体裁：它将[极少数卓越者的事后经验](../the-free-variable-and-the-retrospective-illusion-of-power/)，包装成整洁、通用且可供批量复刻的原则、体系与流程。瑞·达利欧及其畅销书《原则》，便是当代商业语境中的典型代表。这类框架近乎完美地贴合了既成的卓越；然而面对充满未知负荷的真实世界，对于卓越究竟如何从无到有地再次生成，它们却始终保持沉默。
 
-In Chinese discourse, a distinct genre known as success literature—theories after success (*chenggongxue*)—packages the retrospective experience of outlier achievers into clean, mass-transferable principles, systems, and processes. Ray Dalio and his canonical book *Principles* offer a quintessential contemporary embodiment. These frameworks fit finished excellence with near-perfection; yet under the open load of an uncertain world, they remain silent on the causal mechanisms required to renew that excellence from scratch.
+In Chinese discourse, a distinct genre known as success literature—theories after success (*chenggongxue*)—packages [the retrospective experience of outlier achievers](../the-free-variable-and-the-retrospective-illusion-of-power/) into clean, mass-transferable principles, systems, and processes. Ray Dalio and his canonical book *Principles* offer a quintessential contemporary embodiment. These frameworks fit finished excellence with near-perfection; yet under the open load of an uncertain world, they remain silent on the causal mechanisms required to renew that excellence from scratch.
 
 ## 一、 原则重排的是观察到的结果 / 1. Principles Rearrange Observed Outcomes
 

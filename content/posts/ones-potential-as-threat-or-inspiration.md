@@ -2,9 +2,9 @@
 
 *封闭前提下，他人的上升读作损失；进步取决于多频繁地把潜能看作敞开的地平线 / Under a closed premise another’s rise reads as loss; progress turns on how often potential is met as open horizon.*
 
-在封闭、零和的现实假设之下，另一个人正在显现的潜能被登记为直接的威胁：从地位、安全与认可这份固定存量中减去的一份。推动人的能力、扩展现实边界的那些人，并不是一个固定的阶层；他们是更频繁地以非零和的取向运作的中心，把另一个人的卓越当作启发，而不是侵占。这个频率在一群人中下降时，意识形态便作为集体的症状出现，把共享的信念转成防御性的正统，去监管越出常规的能力。生成的杠杆始终在每个有心智的中心未受强迫的、每一刻的抉择里。
+在[封闭、零和的现实假设](../the-arithmetic-of-the-register/)之下，另一个人正在显现的潜能被登记为直接的威胁：从地位、安全与认可这份固定存量中减去的一份。推动人的能力、扩展现实边界的那些人，并不是一个固定的阶层；他们是更频繁地以非零和的取向运作的中心，把另一个人的卓越当作启发，而不是侵占。这个频率在一群人中下降时，意识形态便作为集体的症状出现，把共享的信念转成防御性的正统，去监管越出常规的能力。生成的杠杆始终在每个有心智的中心未受强迫的、每一刻的抉择里。
 
-Under the assumption of a closed, zero-sum reality, another person’s emerging potential registers as an immediate threat, a subtraction from a fixed stock of status, security and recognition. Those who advance human capability and extend the boundaries of reality are not a permanent caste; they are centers that act more often from a non-zero-sum orientation, taking another’s excellence as inspiration rather than encroachment. When this frequency falls across a group, ideologies appear as its collective symptom, turning shared beliefs into defensive orthodoxies that police outlier capacity. The generative lever stays in the uncoerced, moment-to-moment choice of each minded center.
+Under the assumption of [a closed, zero-sum reality](../the-arithmetic-of-the-register/), another person’s emerging potential registers as an immediate threat, a subtraction from a fixed stock of status, security and recognition. Those who advance human capability and extend the boundaries of reality are not a permanent caste; they are centers that act more often from a non-zero-sum orientation, taking another’s excellence as inspiration rather than encroachment. When this frequency falls across a group, ideologies appear as its collective symptom, turning shared beliefs into defensive orthodoxies that police outlier capacity. The generative lever stays in the uncoerced, moment-to-moment choice of each minded center.
 
 ## 一、 封闭的前提制造威胁 / 1. The Closed Premise Manufactures Threat
 

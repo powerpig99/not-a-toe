@@ -6,9 +6,9 @@
 
 In the intellectual edifice built to understand, explain and construct the world, there are three smallest free variables that seem to belong to physics, computation and cognition but echo one another closely at the causal floor: the quantum effect in physical models, wave-function collapse and discrete transitions; the bit in information theory and computing, the binary division into 0 and 1; and a person's micro free choice in the first-person present. In formal logic and the structure of derivation the three are highly isomorphic: each is a system completing, on a micro slice of time, one indivisible smallest discrete boundary out of a space of potential uncertainty.
 
-正因为这种结构上的契合，现代思想界与科技界衍生出很有诱惑力的“模拟假说”，以为世界是一台高维的超级计算机运行的数字程序。可只停在数学同构的表面，就会落进客体化的迷思：三者形式同构，在精度、自发性、准入机制与因果位阶上，却有一条清楚的从属阶梯。
+正因为这种结构上的契合，现代思想界与科技界衍生出很有诱惑力的“模拟假说”，以为世界是一台[高维的超级计算机运行的数字程序](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/)。可只停在数学同构的表面，就会落进客体化的迷思：三者形式同构，在精度、自发性、准入机制与因果位阶上，却有一条清楚的从属阶梯。
 
-Precisely because of this structural fit, modern thought and technology have produced the seductive "simulation hypothesis", the idea that the world is a digital program running on a high-dimensional supercomputer. Yet stopping at the surface of mathematical isomorphism falls into a myth of objectification: the three are formally isomorphic, but in precision, spontaneity, conditions of entry and causal rank there is a clear ladder of subordination.
+Precisely because of this structural fit, modern thought and technology have produced the seductive "simulation hypothesis", the idea that the world is [a digital program running on a high-dimensional supercomputer](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/). Yet stopping at the surface of mathematical isomorphism falls into a myth of objectification: the three are formally isomorphic, but in precision, spontaneity, conditions of entry and causal rank there is a clear ladder of subordination.
 
 ## 一、 三个自由变量的同构 / 1. The Isomorphism of Three Free Variables
 

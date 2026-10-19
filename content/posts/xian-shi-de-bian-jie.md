@@ -2,9 +2,9 @@
 
 *现实止于此刻觉知的边缘，语言滞后于它；因果可追溯，不可穷尽 / Reality ends at the edge of present awareness and language lags behind it; causality is traceable, never exhausted.*
 
-现实的边界不是外在客观世界的物理围栏，而是心智在此刻觉知所抵达的边缘；语言与理解则始终滞后于觉知的发生，两者从来不是同一道边界。因果与逻辑不是经验中的某种具体客体，而是觉知与区分得以成立的前提条件。对第一因与终极的执念，是对因果无法被穷尽证明的补偿；任何一刻，所站之处都是一段被照亮的因果片段，向两端延伸出无法闭合的深处。
+现实的边界不是外在客观世界的物理围栏，而是心智在此刻觉知所抵达的边缘；语言与理解则始终滞后于觉知的发生，两者从来不是同一道边界。因果与逻辑不是经验中的某种具体客体，而是觉知与区分得以成立的前提条件。[对第一因与终极的执念](../the-strongest-belief-of-the-mind/)，是对因果无法被穷尽证明的补偿；任何一刻，所站之处都是一段被照亮的因果片段，向两端延伸出无法闭合的深处。
 
-The boundary of reality is not a physical fence around an external, objective world; it is the edge that the Mind’s awareness reaches in this moment. Language and understanding always lag the occurrence of awareness, and the two are never the same boundary. Causality and logic are not some concrete object within experience; they are the preconditions for awareness and distinction to hold at all. The hold on a first cause and an ultimate ground compensates for the fact that causality can never be exhaustively proved; at any moment, where one stands is an illuminated fragment of causation, reaching at both ends into depths that never close.
+The boundary of reality is not a physical fence around an external, objective world; it is the edge that the Mind’s awareness reaches in this moment. Language and understanding always lag the occurrence of awareness, and the two are never the same boundary. Causality and logic are not some concrete object within experience; they are the preconditions for awareness and distinction to hold at all. [The hold on a first cause and an ultimate ground](../the-strongest-belief-of-the-mind/) compensates for the fact that causality can never be exhaustively proved; at any moment, where one stands is an illuminated fragment of causation, reaching at both ends into depths that never close.
 
 ## 一、 觉知与理解是两道不同步的边界 / 1. Awareness and Understanding Are Two Boundaries Out of Step
 

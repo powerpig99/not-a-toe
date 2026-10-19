@@ -20,7 +20,7 @@ Freedom is not a blank prior to any condition. Freedom is the capacity to keep m
 
 ## 三、 枷锁是拿现状对照一块不受痕迹约束的自由 / 3. Chains Compare the Present with a Freedom Unbound by Traces
 
-枷锁来自这次解读，不是来自作茧。把现状强调成限制，就像卢梭说的：无往不在枷锁之中。那是拿此刻正在经过的配置，去对照一个「本应不受痕迹约束」的自由。有限的位置上，轴线挤在一起，自由和限制就显得彼此对立。对立不是两个东西各自的性质，只是有限条件下的表现。界限本身既是这一次区分得以成立的边，也是下一次仍可再划的边；挤在一起时，同一条边被读成了自由的对面。现实也不是先封闭、再开放，它一直没有被封上，没有一个外面可以把场关掉。[一步一步绘制出的路径](../the-path-drawn-one-step-at-a-time/)讲的是同一种冻结：现状被冻成未经选择的前提，就戴上了一顶帽子，公理、定律、正道、第一原理、地基。[开放即一致](../openness-is-consistency/)讲的是同一种不封闭：有限的结构被强迫去为只会继续的东西奠基。
+枷锁来自这次解读，不是来自作茧。把现状强调成限制，就像卢梭说的：[无往不在枷锁之中](../freedom-as-ground/)。那是拿此刻正在经过的配置，去对照一个「本应不受痕迹约束」的自由。有限的位置上，轴线挤在一起，自由和限制就显得彼此对立。对立不是两个东西各自的性质，只是有限条件下的表现。界限本身既是这一次区分得以成立的边，也是下一次仍可再划的边；挤在一起时，同一条边被读成了自由的对面。现实也不是先封闭、再开放，它一直没有被封上，没有一个外面可以把场关掉。[一步一步绘制出的路径](../the-path-drawn-one-step-at-a-time/)讲的是同一种冻结：现状被冻成未经选择的前提，就戴上了一顶帽子，公理、定律、正道、第一原理、地基。[开放即一致](../openness-is-consistency/)讲的是同一种不封闭：有限的结构被强迫去为只会继续的东西奠基。
 
 ```mermaid
 flowchart TD
@@ -52,7 +52,7 @@ flowchart TD
     style B3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-The chains come from this reading, not from the cocoon. Stressing the present situation as a limit is what Rousseau said: everywhere in chains. That sets the configuration passing through this moment against a freedom that "ought to be unbound by traces". At a finite position the axes crowd together, and freedom and limit seem opposed. The opposition is not a property each of two things has; it is how things show under finite conditions. A boundary is at once the edge on which this distinction stands and the edge on which the next can still be drawn; when the axes crowd, the same edge is read as freedom's opposite. Nor is reality first closed and then open; it has never been sealed, and there is no outside from which the field could be shut. [The Path Drawn One Step at a Time](../the-path-drawn-one-step-at-a-time/) traces the same freeze: the present, frozen as an unchosen premise, puts on a hat, whether axiom, law, right path, first principle or ground. [Openness Is Consistency](../openness-is-consistency/) traces the same non-closure: a finite structure forced to ground what only continues.
+The chains come from this reading, not from the cocoon. Stressing the present situation as a limit is what Rousseau said: [everywhere in chains](../freedom-as-ground/). That sets the configuration passing through this moment against a freedom that "ought to be unbound by traces". At a finite position the axes crowd together, and freedom and limit seem opposed. The opposition is not a property each of two things has; it is how things show under finite conditions. A boundary is at once the edge on which this distinction stands and the edge on which the next can still be drawn; when the axes crowd, the same edge is read as freedom's opposite. Nor is reality first closed and then open; it has never been sealed, and there is no outside from which the field could be shut. [The Path Drawn One Step at a Time](../the-path-drawn-one-step-at-a-time/) traces the same freeze: the present, frozen as an unchosen premise, puts on a hat, whether axiom, law, right path, first principle or ground. [Openness Is Consistency](../openness-is-consistency/) traces the same non-closure: a finite structure forced to ground what only continues.
 
 ```mermaid
 flowchart TD

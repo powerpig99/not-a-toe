@@ -2,9 +2,9 @@
 
 *寻觅将领悟割裂为客体，观察者隐退于视野之外，却始终是不可还原的起始条件 / Finding turns realization into an object; the observer fades from view yet stays the irreducible starting condition*
 
-在自身内部难以寻得幸福，在其他地方则不可能寻得，这两半并非关于世界的两桩经验事实，而是出自观察的同一个结构特征。尚福尔的格言后被叔本华采用，它标出向外的一半：外部条件能提供契机、消除阻碍，却没有一样构成第一人称的领悟。向内的一半出于同样的缘由受挫：寻找一旦启动，便让寻觅者与被寻之物相隔，把不可割裂的领悟推到这道裂痕的另一侧。若问哥德尔的限制是否像约束形式系统那样约束心智，同一结构给出回答：心智被观察时，是；心智作为观察者时，否；这个问题本性上不可解决。
+在自身内部难以寻得幸福，在其他地方则不可能寻得，这两半并非关于世界的两桩经验事实，而是出自观察的同一个结构特征。尚福尔的格言后被叔本华采用，它标出向外的一半：外部条件能提供契机、消除阻碍，却没有一样构成第一人称的领悟。向内的一半出于同样的缘由受挫：寻找一旦启动，便让寻觅者与被寻之物相隔，把不可割裂的领悟推到这道裂痕的另一侧。若问[哥德尔的限制是否像约束形式系统那样约束心智](../on-closed-systems-open-minds-and-the-limits-of-proof/)，同一结构给出回答：心智被观察时，是；心智作为观察者时，否；这个问题本性上不可解决。
 
-Happiness is hard to find within oneself and impossible to find elsewhere, and both halves trace to one feature of observation rather than to two facts about the world. Chamfort's maxim, later adopted by Schopenhauer, marks the outward half: external conditions can supply occasions and remove obstacles, yet none of them constitutes a first-person realization. The inward half falters for the same reason, because finding installs a seeker apart from the sought and casts an undivided realization onto the far side of that split. Asked whether Gödel's limits bind the Mind as they bind a formal system, the same structure answers: yes when the Mind is observed, no when it is the observer, and the question is not resolvable by nature.
+Happiness is hard to find within oneself and impossible to find elsewhere, and both halves trace to one feature of observation rather than to two facts about the world. Chamfort's maxim, later adopted by Schopenhauer, marks the outward half: external conditions can supply occasions and remove obstacles, yet none of them constitutes a first-person realization. The inward half falters for the same reason, because finding installs a seeker apart from the sought and casts an undivided realization onto the far side of that split. Asked [whether Gödel's limits bind the Mind as they bind a formal system](../on-closed-systems-open-minds-and-the-limits-of-proof/), the same structure answers: yes when the Mind is observed, no when it is the observer, and the question is not resolvable by nature.
 
 ## 一、 寻觅的语法与幸福的不对称性 / 1. The Grammar of Finding and the Asymmetry of Happiness
 

@@ -32,9 +32,9 @@ Because the step cannot be zero, measurement meets a lower bound. Physics's Plan
 
 ## 三、 刷新的帧与选择 / 3. The Refreshed Frame and Choice
 
-最小的离散步长，用一幅图来说，是帧率的分辨率：现实在量子地平线上被渲染时的刷新速度。现实不像一卷早已录好、搁在永恒架子上的电影胶片，那是静态块状宇宙的图景；它在一刻接一刻地被渲染。普朗克尺度在这幅图里是渲染的最高分辨率与刷新率，敞开的潜能以这个离散的节拍越过量子边界，落成已实现的状态。
+最小的离散步长，用一幅图来说，是帧率的分辨率：现实在量子地平线上被渲染时的刷新速度。现实不像一卷早已录好、搁在永恒架子上的电影胶片，那是[静态块状宇宙的图景](../the-myth-of-the-four-dimensional-deer-and-the-present-model/)；它在一刻接一刻地被渲染。普朗克尺度在这幅图里是渲染的最高分辨率与刷新率，敞开的潜能以这个离散的节拍越过量子边界，落成已实现的状态。
 
-The minimal discrete step, put as a picture, is the resolution of a frame rate: the refresh speed at which reality is rendered at the quantum horizon. Reality is not a film reel already recorded and resting on an eternal shelf, which is the picture of the static block universe; it is rendered moment by moment. The Planck scale in this picture is the highest resolution and refresh rate of the rendering, the discrete cadence at which open potential crosses the quantum boundary and settles into realized states.
+The minimal discrete step, put as a picture, is the resolution of a frame rate: the refresh speed at which reality is rendered at the quantum horizon. Reality is not a film reel already recorded and resting on an eternal shelf, which is [the picture of the static block universe](../the-myth-of-the-four-dimensional-deer-and-the-present-model/); it is rendered moment by moment. The Planck scale in this picture is the highest resolution and refresh rate of the rendering, the discrete cadence at which open potential crosses the quantum boundary and settles into realized states.
 
 这个不为零的步长，正是选择所在之处。步长从不为零，就没有什么冻结：累积的过去给出结构上的约束与留存的痕迹，下一帧如何落定，在前沿处仍是敞开的。从第三人称的外部看，这一步被记作量子层面的落定，一次状态的转换；从第一人称的内部经历，同一次越过就是有意识的选择与活着的意向。量子的间隙与选择是同一件事的两面，哪一面在先，这里不作裁定，只说心智把选择注入这一步，[涌现的几何学](../the-geometry-of-emergence/)与[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)都从这里展开。
 

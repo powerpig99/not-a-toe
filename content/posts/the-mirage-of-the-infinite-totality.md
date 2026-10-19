@@ -72,13 +72,13 @@ The knowing that holds up is this: knowing both faces are there, and knowing the
 
 ## 二、 希尔伯特与亚里士多德 / 2. Hilbert and Aristotle
 
-希尔伯特在 1925 年的演讲《论无穷》里说出了同一条界线：无穷在数学中作为一个理念起作用，在思想里有其正当的位置，可它“在现实中无处可寻”。这句话常被读成对无穷的否认，放回语境里，它做的是一个精确的操作区分。完成的实无穷不出现在自然里，因为能遇到的只有已经发生的具体事件；在数学里，无穷是一个调节性的理念，为公理系统提供形式上的一致；在物理经验里，已登记的清单在任何一刻都有限，而继续接续的能力没有边界。
+希尔伯特在 1925 年的演讲《论无穷》里说出了同一条界线：无穷在数学中作为一个理念起作用，在思想里有其正当的位置，可它“在现实中无处可寻”。这句话常被读成对无穷的否认，放回语境里，它做的是一个精确的操作区分。完成的实无穷不出现在自然里，因为能遇到的只有已经发生的具体事件；在数学里，无穷是一个调节性的理念，[为公理系统提供形式上的一致](../why-mathematics-can-never-be-solved/)；在物理经验里，已登记的清单在任何一刻都有限，而继续接续的能力没有边界。
 
-Hilbert, in his 1925 lecture "On the Infinite", drew the same line: infinity works in mathematics as an idea and has its rightful place in thought, yet "the infinite is nowhere to be found in reality". The sentence is often read as a denial of infinity; put back in its context, it makes a precise operating distinction. Completed actual infinity does not appear in nature, because what can be met are only concrete events that have already occurred; in mathematics infinity is a regulative idea that gives axiomatic systems formal consistency; in physical experience the registered inventory is finite at any moment, while the capacity for further succession has no bound.
+Hilbert, in his 1925 lecture "On the Infinite", drew the same line: infinity works in mathematics as an idea and has its rightful place in thought, yet "the infinite is nowhere to be found in reality". The sentence is often read as a denial of infinity; put back in its context, it makes a precise operating distinction. Completed actual infinity does not appear in nature, because what can be met are only concrete events that have already occurred; in mathematics infinity is a regulative idea that [gives axiomatic systems formal consistency](../why-mathematics-can-never-be-solved/); in physical experience the registered inventory is finite at any moment, while the capacity for further succession has no bound.
 
-两千多年前，亚里士多德在《物理学》里立下了同一条原则：无限像一天或奥林匹克赛会那样存在，靠连续的、一个接一个的生成，一件事在另一件之后到来；它从不作为一个已经组装好的、同时在场的集合存在。潜能转为离散的现实，是一场不终止的推进；正因为这转化从不终止，完成的无穷从来不会作为一件对象被遇到。
+两千多年前，亚里士多德在《物理学》里立下了同一条原则：无限像一天或奥林匹克赛会那样存在，靠连续的、一个接一个的生成，一件事在另一件之后到来；它从不作为一个已经组装好的、同时在场的集合存在。潜能转为离散的现实，是一场不终止的推进；正因为这转化从不终止，[完成的无穷从来不会作为一件对象被遇到](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/)。
 
-More than two thousand years earlier, Aristotle set down the same principle in the Physics: the infinite exists the way a day or the Olympic games exists, through continuous generation, one event arriving after another; it never exists as an already assembled collection present all at once. The conversion of potential into discrete actuality is a progression without end; precisely because the conversion never ends, a completed infinity is never met as an object.
+More than two thousand years earlier, Aristotle set down the same principle in the Physics: the infinite exists the way a day or the Olympic games exists, through continuous generation, one event arriving after another; it never exists as an already assembled collection present all at once. The conversion of potential into discrete actuality is a progression without end; precisely because the conversion never ends, [a completed infinity is never met as an object](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/).
 
 ## 三、 因果与第一人称的地平线 / 3. Causality and the First-Person Horizon
 
