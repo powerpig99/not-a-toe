@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-19T07:21:18.772Z",
+    "generated_at": "2026-10-19T07:53:01.347Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -322,7 +322,7 @@
       "content/posts/the-question-that-installs-the-war.md": "6570c77251d5",
       "content/posts/the-ramble-within-the-ramble.md": "454a1407f39f",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "b5fc86b4bbec",
-      "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "699ae21e7a6b",
+      "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "d45f33553574",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "b3d9f124e004",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "48a714b8f22c",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "be4597d289a8",
@@ -8062,7 +8062,7 @@
       "slug": "the-real-lesson-from-the-consciousness-vector-paper",
       "path": "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md",
       "title": "意识向量论文的真正教训 / The Real Lesson from the Consciousness Vector Paper",
-      "hash": "699ae21e7a6b",
+      "hash": "d45f33553574",
       "in_degree": 16,
       "out_degree": 16,
       "links_out": [
@@ -47254,13 +47254,13 @@
       "from": "the-real-lesson-from-the-consciousness-vector-paper",
       "to": "an-observation-by-its-own-standard",
       "rel": "points_to",
-      "label": "审慎的操作语言就与沉重的文化含义一起走了"
+      "label": "这个名字就被带到了测量所依的标准之外"
     },
     {
       "from": "the-real-lesson-from-the-consciousness-vector-paper",
       "to": "an-observation-by-its-own-standard",
       "rel": "points_to",
-      "label": "careful operational language and loaded cultural charge travel together"
+      "label": "the name is carried past the standard the measurements hold under"
     },
     {
       "from": "the-real-lesson-from-the-consciousness-vector-paper",
