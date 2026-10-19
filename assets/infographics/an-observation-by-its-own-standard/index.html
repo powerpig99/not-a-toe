@@ -1,0 +1,98 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Infographic, picture by Nano Banana through Antigravity</title>
+<style>
+  @font-face { font-family: "Info Sans"; font-weight: 300 900; src: url("../fonts/info-sans.latin.woff2") format("woff2"); unicode-range: U+0000-024F, U+2000-206F, U+20A0-20CF, U+2190-21FF; }
+  @font-face { font-family: "Info Sans"; font-weight: 100 900; src: url("./info-sans.zh.woff2") format("woff2"); unicode-range: U+2E80-9FFF, U+3000-303F, U+FF00-FFEF; }
+  :root { --paper: #f3f1df; --blue: #1841ad; --coral: #e8473a; --plum: #5c1f58; --ink: #23264a; }
+  html, body { margin: 0; background: var(--paper); }
+  body { width: 1024px; height: 1024px; overflow: hidden; position: relative; color: var(--ink); font-family: "Info Sans", "Figtree", "Avenir Next", "Noto Sans CJK SC", sans-serif; }
+  .zh { font-family: "Info Sans", "Noto Sans CJK SC", "PingFang SC", sans-serif; }
+  svg.art { position: absolute; left: 0; top: 0; }
+  /* body text 21px CSS = 42px on the 2048 render = 11.1px when the image is shown 540px wide */
+  .pic { position: absolute; left: 232px; top: 236px; width: 560px; height: 560px; -webkit-mask-image: radial-gradient(closest-side, #000 84%, transparent 100%); mask-image: radial-gradient(closest-side, #000 84%, transparent 100%); }
+  .head { position: absolute; top: 22px; width: 472px; }
+  .head h2 { margin: 0 0 4px; font-size: 30px; line-height: 1.15; font-weight: 700; color: var(--c); }
+  .head p { margin: 0; font-size: 21px; line-height: 1.28; }
+  .zh .head p { line-height: 1.42; }
+  .head b, .call b { color: var(--c); font-weight: 700; }
+  .call { position: absolute; }
+  .call h3 { margin: 0 0 3px; font-size: 22px; line-height: 1.15; font-weight: 700; color: var(--c); }
+  .call p { margin: 0; font-size: 21px; line-height: 1.26; }
+  .zh .call p { line-height: 1.4; }
+  .call.l { text-align: right; }
+  .call p, .head p, .use p { text-wrap: pretty; } .call h3 { text-wrap: balance; }
+  .use { position: absolute; left: 20px; top: 774px; width: 984px; box-sizing: border-box; background: #e6e3f3; border-radius: 30px; padding: 8px 24px 9px; display: flex; gap: 16px; align-items: center; }
+  .use h3 { margin: 0; font-size: 22px; font-weight: 700; color: var(--blue); white-space: nowrap; }
+  .use p { margin: 0; font-size: 21px; line-height: 1.26; }
+  .zh .use p { line-height: 1.4; }
+  .banner { position: absolute; left: 0; top: 884px; width: 1024px; height: 140px; background: var(--blue); color: #fff; text-align: center; }
+  .banner h1 { margin: 12px 40px 4px; font-size: 30px; line-height: 1.2; font-weight: 700; }
+  .zh .banner h1 { letter-spacing: 0.06em; line-height: 1.4; margin-top: 8px; margin-bottom: 2px; }
+  .banner .claim { font-size: 21px; color: #ffb3a8; margin: 0 16px; line-height: 1.3; }
+  .banner .url { position: absolute; left: 0; right: 0; bottom: 7px; font: 17px "DejaVu Sans Mono", ui-monospace, monospace; color: #a9b6e8; }
+</style>
+</head>
+<body>
+<img class="pic" src="art.jpg" alt="">
+<svg class="art" width="1024" height="1024" viewBox="0 0 1024 1024"><g id="leads" fill="none" stroke="#23264a" stroke-width="1.6"></g></svg>
+
+<div class="head" style="left: 24px; --c: var(--blue)"><h2 data-k="h_belief"></h2><p data-k="belief"></p></div>
+<div class="head" style="left: 528px; --c: var(--coral)"><h2 data-k="h_stops"></h2><p data-k="stops"></p></div>
+
+<div class="call l" id="L1" style="left: 12px; top: 384px; width: 322px; --c: var(--blue)"><h3 data-k="c2h"></h3><p data-k="c2"></p></div>
+<div class="call l" id="L2" style="left: 12px; top: 500px; width: 322px; --c: var(--coral)"><h3 data-k="c6h"></h3><p data-k="c6"></p></div>
+<div class="call l" id="L3" style="left: 12px; top: 628px; width: 322px; --c: var(--plum)"><h3 data-k="c3h"></h3><p data-k="c3"></p></div>
+<div class="call" id="R1" style="left: 690px; top: 262px; width: 322px; --c: var(--blue)"><h3 data-k="c1h"></h3><p data-k="c1"></p></div>
+<div class="call" id="R2" style="left: 690px; top: 434px; width: 322px; --c: var(--plum)"><h3 data-k="c4h"></h3><p data-k="c4"></p></div>
+<div class="call" id="R3" style="left: 690px; top: 610px; width: 322px; --c: var(--coral)"><h3 data-k="c5h"></h3><p data-k="c5"></p></div>
+
+<div class="use"><h3 data-k="h_use"></h3><p data-k="use"></p></div>
+<div class="banner"><h1 data-k="title"></h1><div class="claim" data-k="claim"></div><div class="url">powerpig99.github.io/not-a-toe/posts/an-observation-by-its-own-standard/</div></div>
+
+<script>
+const S = {
+  en: {
+    h_belief: 'The belief', belief: 'A preprint records population activity in macaque face patches and prefrontal cortex switching about every 60 ms between representing one face and representing the other; one repost later: <b>“Humans alternate between conscious and unconscious states 15 times per second.”</b>',
+    h_stops: 'Where it stops', stops: 'That presumes an agreed standard of conscious states, and there is none; every standard on offer, a report, a likeness, a template, stays a standard, and <b>none is the consciousness it is used to sample.</b>',
+    c1h: 'One display, two faces', c1: 'A different face to each eye; the display, and the percept humans report for it, stay put.',
+    c2h: 'The alternation, as measurement', c2: 'Each face gets its solo code in turn. That holds as measurement.',
+    c3h: 'The report is human', c3: 'Fourteen humans pressed buttons. The monkeys did not report anything; they fixated for juice.',
+    c4h: 'Carried by likeness', c4: '“Conscious” names the face humans reported, carried to an animal that pressed nothing, then attached to the matching state.',
+    c5h: 'The rate belongs to the paradigm', c5: 'With a model built to find two states, 15 Hz is what this paradigm registers. Perceptual switches in rivalry: ~0.5 Hz.',
+    c6h: 'The label stayed', c6: 'Tsao withdrew the frame-rate reading herself. The label it rode on stayed.',
+    h_use: 'What stays usable', use: 'Put back in its standard, the finding loses nothing: a sharp result about how a population carries competing inputs. The return costs one clause: under binocular flash suppression, by this paradigm’s standard.',
+    title: 'An Observation by Its Own Standard', claim: 'The 15 Hz alternation holds under its own standard; carried past it, it is a claim the recordings never made.',
+  },
+  zh: {
+    h_belief: '信念', belief: '一篇预印本记录到：猕猴面孔区和前额叶皮层中的群体活动大约每 60 毫秒在表征一张面孔与表征另一张面孔之间切换一次；再经一次转发，它变成了<b>“人类每秒在有意识与无意识状态之间交替 15 次”</b>。',
+    h_stops: '止步之处', stops: '这预设了一个公认的意识状态标准，而这样的标准并不存在；一份报告、一种相似、一个模板，都仍然是一种标准，<b>没有一种就是它被用来取样的那个意识。</b>',
+    c1h: '一个显示，两张面孔', c1: '两眼各呈现一张不同面孔；显示<span style="white-space:nowrap">画面</span>，以及人类对它报告的知觉，都保持不变。',
+    c2h: '交替，作为测量', c2: '群体轮流给每张面孔单独呈现时的<span style="white-space:nowrap">编码</span>。这作为测量是成立的。',
+    c3h: '报告来自人类', c3: '十四名人类按键。猴子什么也没有报告。它们注视，是为了换取果汁。',
+    c4h: '凭相似被带过去', c4: '“有意识”指人类报告的那张面孔，被带到一只什么也没按的动物身上，再贴到相匹配的状态上。',
+    c5h: '速率属于范式', c5: '用一个专为找出两个状态而建的模型，15 Hz 是这个范式所登记的。双眼竞争中的知觉切换约 0.5 Hz。',
+    c6h: '标签留了下来', c6: '曹颖本人撤回了“帧率”的读法。这种读法所搭乘的标签留了下来。',
+    h_use: '仍然可用的部分', use: '放回它的标准之中，这一发现什么也不失去：一个关于群体如何承载相互竞争的输入的精确结果。回归付出一个限定的代价：“在双眼闪光抑制下，按这个范式的标准”。',
+    title: '依其自身标准的观察', claim: '15 Hz 的交替在它自己的标准之下成立；被带到这个标准之外，它就是记录从未作出的一项主张。',
+  },
+};
+const lang = new URLSearchParams(location.search).get('lang') === 'zh' ? 'zh' : 'en', W = S[lang];
+document.documentElement.lang = lang;
+document.body.classList.toggle('zh', lang === 'zh');
+for (const el of document.querySelectorAll('[data-k]')) el.innerHTML = W[el.dataset.k];
+const at = (x, y) => [Math.round(232 + x * 0.546875), Math.round(236 + y * 0.546875)];
+const from = (id) => { const el = document.getElementById(id), r = el.getBoundingClientRect(), h = el.querySelector('h3').getBoundingClientRect(); return el.classList.contains('l') ? [Math.round(r.right + 4), Math.round(h.top + h.height / 2)] : [Math.round(r.left - 4), Math.round(h.top + h.height / 2)]; };
+const lead = (id, p) => { const a = from(id), b = at(...p); return `<path d="M${a[0]} ${a[1]}L${b[0]} ${b[1]}"/><circle cx="${b[0]}" cy="${b[1]}" r="4" fill="#f3f1df"/>`; };
+document.getElementById('leads').innerHTML =
+  lead('L1', [232, 378]) +   // left end of the alternating ribbon
+  lead('L2', [318, 492]) +   // the blank tag
+  lead('L3', [300, 742]) +   // the human hand at the button box
+  lead('R1', [612, 200]) +   // the display with two faces
+  lead('R2', [735, 560]) +   // the macaque
+  lead('R3', [790, 780]);    // the stopwatch
+</script>
+</body>
+</html>
