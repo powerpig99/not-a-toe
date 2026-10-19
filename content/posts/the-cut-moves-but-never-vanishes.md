@@ -2,7 +2,7 @@
 
 *量子诠释之争，争的是观察者安放何处；一张从高处俯瞰各派诠释的地图，把上帝之眼又挂高了一层 / The dispute over quantum interpretations is a contest over where to place the observer; a map that surveys the interpretations from above places the God's eye one level higher*
 
-量子力学的数学形式体系以非凡的精度预测了实验读数，围绕其物理图景的学派争鸣却持续了整整一个世纪。每一种理论都在其适用尺度内提供了有用的认知脚手架，而当人们试图绘制一张超越所有视角的元图集来统一这些图景时，却不可避免地重蹈其所批评的那一步：站在无处去俯瞰所有视角。任何测量都依托于具身观察者与外部世界遭遇的宏观摩擦，而企图把观察者抹去或固化为静态坐标的做法，正好标定了理论失去普遍适用性的不完备性边界。
+量子力学的数学形式体系以非凡的精度预测了实验读数，围绕其物理图景的学派争鸣却持续了整整一个世纪。每一种理论都在其适用尺度内提供了有用的认知脚手架，而当人们试图绘制一份超越所有视角的元图集来统一这些图景时，却不可避免地重蹈其所批评的那一步：站在无处去俯瞰所有视角。任何测量都依托于具身观察者与外部世界遭遇的宏观摩擦，而企图把观察者抹去或固化为静态坐标的做法，正好标定了理论失去普遍适用性的不完备性边界。
 
 The mathematical formalism of quantum mechanics predicts experimental readings with extraordinary precision, yet debates surrounding its physical picture have persisted for a full century. Each interpretation provides a useful cognitive scaffold within its applicable domain, but attempts to construct a panoramic meta-atlas reconciling all viewpoints inevitably repeat the step they criticize: standing nowhere to survey every viewpoint. Every measurement depends upon the macroscopic friction between an embodied observer and the world, and any attempt to erase the observer or freeze them into a static coordinate marks the boundary of incompleteness where universal claims falter.
 
