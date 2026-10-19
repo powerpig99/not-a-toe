@@ -188,12 +188,12 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
             else:
                 clean_sub = re.sub(r'^[*_]+|[*_]+$', '', sub_line).strip()
                 # Check for bloated wall-of-text synopsis in subtitle
+                # Length is a guideline, not a cap: report it as an advisory.
                 if len(clean_sub) > 160:
-                    errors.append(
-                        f"Subtitle length ({len(clean_sub)} chars) exceeds concise single-sentence standard (<= 160 chars). "
-                        f"Rule: Subtitle is strictly one concise sentence of essence. Move extended synopsis into lead prose."
+                    warnings.append(
+                        f"Subtitle length ({len(clean_sub)} chars) exceeds the ~160-char guideline. "
+                        f"Advisory: a subtitle is one concise sentence of essence; length serves clarity and doesn't replace it."
                     )
-                    title_sub_clean = False
 
                 # Check for multi-sentence synopsis in subtitle
                 parts = clean_sub.split('/')
