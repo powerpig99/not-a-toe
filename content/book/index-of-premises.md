@@ -1379,11 +1379,11 @@ Frameworks setting wages by decree lean on assumptions about market power and in
 ### 朴素实在论 / Naive Realism
 `哲学 / Philosophical`
 
-朴素实在论假定观察者共享一个未经中介的场景，在日常协作中作为默认的出发点有用；它在此到了边界：共享的现实是私人投影之间很高的功能共振，足以支撑行动、导航与语言，却从不是经验的同一。
+朴素实在论假定观察者共享一个未经中介的场景，在日常协作中作为默认的出发点有用；它在此到了边界：共享的现实是私人投影之间很高的功能共振，足以支撑行动、导航与语言，却从不是经验的同一；场景一旦被当作未经中介，自己的看法便是场景本身，不同的看法只能是缺失，于是这个标签本身，从一个未加标注的立足点贴到一种看法上，正是它所命名之物的一个实例。
 
-Naive realism assumes observers share an unmediated scene, which is of use as the default starting point of everyday coordination; it reaches its boundary in that shared reality is high functional resonance among private projections, robust enough for action, navigation and language yet never identity of experience.
+Naive realism assumes observers share an unmediated scene, which is of use as the default starting point of everyday coordination; it reaches its boundary in that shared reality is high functional resonance among private projections, robust enough for action, navigation and language yet never identity of experience; taken as unmediated, the scene makes one's own view the scene itself and a differing view a lack, so the label itself, applied to a view from a stand left unmarked, is an instance of what it names.
 
-→ [表征的闭环 / The Closed Loop of Representation](../../posts/the-closed-loop-of-representation/) · [心智最坚固的信念 / The Strongest Belief of the Mind](../../posts/the-strongest-belief-of-the-mind/)
+→ [表征的闭环 / The Closed Loop of Representation](../../posts/the-closed-loop-of-representation/) · [心智最坚固的信念 / The Strongest Belief of the Mind](../../posts/the-strongest-belief-of-the-mind/) · [未经自我审视的批判者 / The Unexamined Critic](../../posts/the-unexamined-critic/)
 
 ### 消极功利主义（最小化可避免的苦难） / Negative Utilitarianism (Minimizing Avoidable Suffering)
 `哲学 / Philosophical`

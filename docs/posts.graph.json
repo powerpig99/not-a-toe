@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-19T03:16:30.947Z",
+    "generated_at": "2026-10-19T03:58:49.658Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -356,7 +356,7 @@
       "content/posts/the-twin-paradox-and-the-hidden-observer.md": "1a3388db8649",
       "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "132e275da6fc",
       "content/posts/the-unclosable-trace.md": "2358700feadb",
-      "content/posts/the-unexamined-critic.md": "752a0cbd970f",
+      "content/posts/the-unexamined-critic.md": "64b2476a91fa",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "96d67d29d78d",
       "content/posts/the-unobservable-driver-of-learning.md": "309c64b033f1",
       "content/posts/the-utility-men-of-progress.md": "d48b5bc61d54",
@@ -405,7 +405,7 @@
       "content/book/causality.md": "cbe5d03c5250",
       "content/book/consciousness.md": "f69ff208c9db",
       "content/book/economics.md": "5f09ac3fbf19",
-      "content/book/index-of-premises.md": "280ab347e6fe",
+      "content/book/index-of-premises.md": "01f0a038991c",
       "content/book/intelligence.md": "183aac2f9bc8",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -428,7 +428,7 @@
       "isolated": 35,
       "posts_with_outbound": 358,
       "book_pages": 16,
-      "book_edges": 1089,
+      "book_edges": 1090,
       "posts_reached_by_book": 394
     }
   },
@@ -8897,7 +8897,7 @@
       "slug": "the-unexamined-critic",
       "path": "content/posts/the-unexamined-critic.md",
       "title": "未经自我审视的批判者 / The Unexamined Critic",
-      "hash": "752a0cbd970f",
+      "hash": "64b2476a91fa",
       "in_degree": 3,
       "out_degree": 9,
       "links_out": [
@@ -56927,7 +56927,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "280ab347e6fe",
+        "hash": "01f0a038991c",
         "out_degree": 394
       },
       {
@@ -58839,6 +58839,12 @@
         "to": "the-strongest-belief-of-the-mind",
         "rel": "collects",
         "label": "心智最坚固的信念 / The Strongest Belief of the Mind"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-unexamined-critic",
+        "rel": "collects",
+        "label": "未经自我审视的批判者 / The Unexamined Critic"
       },
       {
         "from": "book:index-of-premises",
