@@ -22,9 +22,9 @@ Domains made of the Mind's many loci fail the criterion by construction. The loo
 
 ## 二、 负载理论的观察与不反观的层 / 2. Theory-Laden Observation and the Non-Reflexive Stratum
 
-观察负载着理论，这并不消解测量。它说的是，每一个数据到来时都已经在一种握持之下：坐标已经选定，结果已经被算作结果，前提没有说出来。物理数据在不同的主观感知之间更稳定，是因为在寻常的尺度上，物体既不在观察下改变行为，也不回看。例外是量子领域：在那里，握持的界限再也不能把区分保持为确定的，心智选择坐标的方式也不再是可有可无的背景。
+观察负载着理论，这并不消解测量。它说的是，[每一个数据到来时都已经在一种握持之下](../an-observation-by-its-own-standard/)：坐标已经选定，结果已经被算作结果，前提没有说出来。物理数据在不同的主观感知之间更稳定，是因为在寻常的尺度上，物体既不在观察下改变行为，也不回看。例外是量子领域：在那里，握持的界限再也不能把区分保持为确定的，心智选择坐标的方式也不再是可有可无的背景。
 
-That observations are theory-laden does not dissolve measurement. It says that every datum arrives already under a hold: coordinates chosen, outcomes counted as outcomes, premises left unstated. Physical data stay more stable across subjective perceptions because, at ordinary scales, objects neither change their behavior under observation nor look back. The exception is the quantum domain, where the bound of the hold can no longer keep distinctions apart as determinate, and the way the Mind selects coordinates is no longer optional background.
+That observations are theory-laden does not dissolve measurement. It says that [every datum arrives already under a hold](../an-observation-by-its-own-standard/): coordinates chosen, outcomes counted as outcomes, premises left unstated. Physical data stay more stable across subjective perceptions because, at ordinary scales, objects neither change their behavior under observation nor look back. The exception is the quantum domain, where the bound of the hold can no longer keep distinctions apart as determinate, and the way the Mind selects coordinates is no longer optional background.
 
 [复杂性遮蔽了涌现](../complexity-obscures-emergence-as-the-act-of-mind/)把这种几何完整地展开：所谓量子效应，是心智在当下握持的微观极限处，事后在滞后之下被重新归给对象，成了内在的不确定、坍缩或不连续。非决定论登记在边缘，决定论是观察作为残余握住的东西，落后一步。在“意识导致坍缩”“客观还原”和“纯粹退相干”之间的诠释余地，不是暂时缺少数据、等着最后一个实验来裁决，而是这条界限本身的性质：一个有意识的行动者如何在系统与观察者之间划下那一刀。数据不能单独决定诠释，因为诠释已经是那个把开放的潜在转成被登记的轨迹的、又一次离散的动作。
 
