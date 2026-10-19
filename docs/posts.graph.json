@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-19T06:19:23.899Z",
+    "generated_at": "2026-10-19T06:53:40.955Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -342,7 +342,7 @@
       "content/posts/the-self-portrait-in-the-projection.md": "0e75cd1a6cf2",
       "content/posts/the-shadow-and-the-infinite.md": "f857f118c0ae",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "c492db6aa503",
-      "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "21721c0327cd",
+      "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "4e0edfb6d50e",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "3c66bd80af77",
       "content/posts/the-source-of-all-harm.md": "0d19bb37e3e4",
       "content/posts/the-source-of-shared-change.md": "4a0a0c0885e2",
@@ -8599,7 +8599,7 @@
       "slug": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "path": "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md",
       "title": "意识的魔术戏法与推断的非对称性 / The Sleight of Hand of Consciousness and the Asymmetry of Inference",
-      "hash": "21721c0327cd",
+      "hash": "4e0edfb6d50e",
       "in_degree": 10,
       "out_degree": 9,
       "links_out": [
@@ -50213,13 +50213,13 @@
       "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "to": "abstract-pain-and-living-hunger",
       "rel": "points_to",
-      "label": "抽象痛苦与鲜活饥饿"
+      "label": "抽象的苦难与真实的饥饿"
     },
     {
       "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "to": "abstract-pain-and-living-hunger",
       "rel": "points_to",
-      "label": "abstract-pain-and-living-hunger"
+      "label": "Abstract Pain and Living Hunger"
     },
     {
       "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
@@ -50231,7 +50231,7 @@
       "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "to": "subtracting-consciousness-at-the-source",
       "rel": "points_to",
-      "label": "subtracting-consciousness-at-the-source"
+      "label": "Collective and Artificial Subjectivity"
     },
     {
       "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
@@ -50243,7 +50243,7 @@
       "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "to": "silicon-oracles-and-the-asymmetry-of-consequence",
       "rel": "points_to",
-      "label": "silicon-oracles-and-the-asymmetry-of-consequence"
+      "label": "Silicon Oracles and the Asymmetry of Consequence"
     },
     {
       "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
@@ -50255,7 +50255,7 @@
       "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
       "rel": "points_to",
-      "label": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank"
+      "label": "The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank"
     },
     {
       "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
@@ -50273,7 +50273,7 @@
       "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "to": "the-irreducible-observer",
       "rel": "points_to",
-      "label": "the-irreducible-observer"
+      "label": "The Irreducible Observer"
     },
     {
       "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
