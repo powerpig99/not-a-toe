@@ -1,6 +1,6 @@
 # 错把表达当成智能 / Mistaking the Expression for the Intelligence
 
-*受控的表现是固定约束下的残余；智能划出、使用、修订并离开约束 / Controlled performance is residue under a fixed constraint; intelligence draws, uses, revises and leaves the constraint.*
+*受控的表现是固定约束下的残余；智能划出、使用、修订并离开约束。 / Controlled performance is residue under a fixed constraint; intelligence draws, uses, revises and leaves the constraint.*
 
 打分、排名、编制与阅读考试和基准的人，常把智能等同于它在受控条件下产出的东西：标准化考试的高分，对形式问题的熟练掌握，在定义清楚的领域里的流畅。这些结果是表达，是活动在固定约束之下的痕迹，而不是活动本身。错误在于把表达认作与产生它的东西同一，把在预先搭好结构的游戏里的能力，等同于发明、修订并离开游戏的那个活动。同一种错误如今塑造着对人的心理测量、对机器的基准测试，以及递归自我改进的叙事；后者声称单靠扩大表达的规模就能弥合差距。
 
