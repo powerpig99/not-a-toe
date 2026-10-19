@@ -26,7 +26,7 @@ The actual physical world is constituted by countless sovereign living centers, 
 
 ## 二、 数字神祇与权力投射的古老仪式 / 2. The Digital God and the Ancient Ritual of Projecting Power
 
-剥开所谓通用人工智能的科技面纱，展现在眼前的不过是被遗忘、被隐匿在人造外壳之后的人类通用心智自身。模型内部没有凭空诞生的神识，它的全部响应能力，皆来自无数人类心智在此前数千年中书写的文本、推演的公式、记录的试错以及此刻人类操作者精细挑选的提示词与反馈评估。那不是超越人类的异质主体，而是人类心智自身因果力量的高度致密化沉淀。[受造物不可取代其源头](../a-creation-cannot-replace-its-source/) 与 [智能单单属于心智](../intelligence-belongs-only-to-the-mind/) 确立了不可颠倒的不对称性：受造的工具无论多么致密，其启动因果始终停留在造物源头的心智侧。
+剥开所谓通用人工智能的科技面纱，展现在眼前的不过是被遗忘、被隐匿在人造外壳之后的人类通用心智自身。模型内部没有凭空诞生的神识，它的全部响应能力，皆来自无数人类心智在此前数千年中书写的文本、推演的公式、记录的试错以及此刻人类操作者精细挑选的提示词与反馈评估。那不是超越人类的异质主体，而是人类心智自身因果力量的高度致密化沉淀。[受造物不可取代其源头](../a-creation-cannot-replace-its-source/) 与 [智能只属于心智](../intelligence-belongs-only-to-the-mind/) 确立了不可颠倒的不对称性：受造的工具无论多么致密，其启动因果始终停留在造物源头的心智侧。
 
 Stripping away the technical veneer from artificial general intelligence reveals nothing other than general human intelligence itself, hidden and disavowed behind an automated mask. No spark of independent consciousness originates inside the matrix; every cogent response, artistic composition, and scientific synthesis is drawn from texts, proofs, experiments, and curated evaluations produced by living human minds across centuries, mobilized by the prompt engineering and discriminating judgment of present operators. The model is not an alien arriving from the future, but the densified causal sediment of human distinguishing activity. [A Creation Cannot Replace Its Source](../a-creation-cannot-replace-its-source/) and [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) establish an irreversible asymmetry: no matter how dense a created instrument becomes, the initiating distinction remains firmly on the creator's side.
 
