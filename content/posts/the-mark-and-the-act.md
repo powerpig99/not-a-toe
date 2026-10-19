@@ -22,7 +22,7 @@ Divergence among identical copies has three ordinary sources: different local vi
 
 ## 二、 解读添加了什么 / 2. What the Reading Adds
 
-常见的解读，给出了运行里并不作为实体存在的名字：文明、文化、职业、一个发明了什么的社会、一个协调了行动的群体、在新层级上出现的智能。统计力学的类比又给了一个：盒子里的原子产生了没有哪个原子具有的功能。这些名字挪动了原因：一旦把“社会”安成选择者，印迹就成了它的产品；一旦把“涌现”安成第二种智能，单个的发出就成了原料；一旦拿原子作比较的类别，提议与采样就消失了，功能看上去像从相同的被动单元里升起来。[复杂性遮蔽了涌现](../complexity-obscures-emergence-as-the-act-of-mind/)分析的正是这种认知替换：脚手架被误认为一股独立的生成力量。
+常见的解读，给出了运行里并不作为实体存在的名字：文明、文化、职业、一个发明了什么的社会、一个协调了行动的群体、在新层级上出现的智能。统计力学的类比又给了一个：盒子里的原子产生了没有哪个原子具有的功能。这些名字挪动了原因：一旦把“社会”安成选择者，印迹就成了它的产品；一旦把“涌现”安成第二种智能，单个的发出就成了原料；一旦拿原子作比较的类别，提议与采样就消失了，功能看上去像从相同的被动单元里升起来。[复杂性遮蔽了涌现之为心智的行动](../complexity-obscures-emergence-as-the-act-of-mind/)分析的正是这种认知替换：脚手架被误认为一股独立的生成力量。
 
 The common reading supplies names the run does not contain as entities: civilisation, culture, professions, a society that invented, a swarm that coordinated, intelligence appearing at a new level. A statistical-mechanics analogy supplies another: atoms in a box yielding functions no atom possesses. These names relocate the cause: once "the society" is installed as the chooser, the marks become its products; once "emergence" is installed as a second intelligence, the individual emission becomes an ingredient; once atoms are the comparison class, proposing and sampling disappear, and function looks as if it rose from identical passive units. [Complexity Obscures: Emergence as the Act of Mind](../complexity-obscures-emergence-as-the-act-of-mind/) analyses exactly this cognitive substitution: scaffolding mistaken for an independent generative force.
 
