@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-19T17:22:53.252Z",
+    "generated_at": "2026-10-19T17:26:43.336Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -278,7 +278,7 @@
       "content/posts/the-invisible-first-move.md": "24e7e1373e4c",
       "content/posts/the-invisible-gods-eye.md": "9d59904eb1d4",
       "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "319c407dd166",
-      "content/posts/the-irreducible-observer.md": "138efd8ecb38",
+      "content/posts/the-irreducible-observer.md": "8bb8fd6612fa",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "247a3d936241",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "4fe558fc61a0",
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "6cfe5d5e68e6",
@@ -7105,7 +7105,7 @@
       "slug": "the-irreducible-observer",
       "path": "content/posts/the-irreducible-observer.md",
       "title": "不可还原的观察者 / The Irreducible Observer",
-      "hash": "138efd8ecb38",
+      "hash": "8bb8fd6612fa",
       "in_degree": 18,
       "out_degree": 16,
       "links_out": [
@@ -45130,7 +45130,7 @@
       "from": "the-irreducible-observer",
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
-      "label": "the-delegation-of-the-task-and-the-inalienability-of-consequences"
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
     },
     {
       "from": "the-irreducible-observer",
@@ -45142,7 +45142,7 @@
       "from": "the-irreducible-observer",
       "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
       "rel": "points_to",
-      "label": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop"
+      "label": "The Inversion of the Protocol and the Silencing of the Causal Loop"
     },
     {
       "from": "the-irreducible-observer",
@@ -45154,7 +45154,7 @@
       "from": "the-irreducible-observer",
       "to": "the-twin-paradox-and-the-hidden-observer",
       "rel": "points_to",
-      "label": "the-twin-paradox-and-the-hidden-observer"
+      "label": "The Twin Paradox and the Hidden Observer"
     },
     {
       "from": "the-irreducible-observer",
@@ -45220,7 +45220,7 @@
       "from": "the-irreducible-observer",
       "to": "the-boundary-crossing-of-choice",
       "rel": "points_to",
-      "label": "the-boundary-crossing-of-choice"
+      "label": "The Boundary Crossing of Choice"
     },
     {
       "from": "the-irreducible-observer",
@@ -45274,7 +45274,7 @@
       "from": "the-irreducible-observer",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "openness-is-consistency"
+      "label": "Openness Is Consistency"
     },
     {
       "from": "the-irreducible-observer",
@@ -45292,7 +45292,7 @@
       "from": "the-irreducible-observer",
       "to": "the-ledger-of-the-unencountered",
       "rel": "points_to",
-      "label": "the-ledger-of-the-unencountered"
+      "label": "The Ledger of the Unencountered"
     },
     {
       "from": "the-irreducible-observer",
