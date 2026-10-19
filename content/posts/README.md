@@ -29,8 +29,6 @@ content/posts/<slug>.md          # essay source (this folder)
 content/book/<part>.md           # live book part placement (assigned to exactly one part, placed last)
 content/book/index-of-premises.md # Index of Premises entry additions/extensions
 assets/covers/<slug>.jpg         # default 21:9 / 1344×576 (or 20:9 / 1280×576) via Qwen-Image-2.1
-notebooklm-auto/prompts/<slug>_zh.txt       # companion audio dialogue prompt (明理 & 雨涵, concise 2-4 opening turns, <8.5KB)
-notebooklm-auto/prompts/<slug>_video_zh.txt # companion video monologue prompt (full spoken script)
 export/<slug>.md                 # shared paste export: absolute-link markdown (gitignored)
 public/posts/<slug>/index.html   # site build output only (CI / local build.mjs)
 ```
@@ -359,7 +357,6 @@ node scripts/export-absolute-md.mjs "$SLUG"
 3. [ ] Refine for mechanism language; fold any seed observation into the lead so the essay stands alone.
 4. [ ] Add relative cross-links as axis pointers; verify slugs exist (`node scripts/project-posts-graph.mjs` → `missing_targets` must stay 0).
 5. [ ] Cover: novel style per STYLES.md; **21:9** landscape (`1344×576`, Qwen-Image-2.1 MPS; 20:9 fallback); install; update STYLES.md.
-6. [ ] Companion NotebookLM Prompts: Audio Dialogue (`notebooklm-auto/prompts/<slug>_zh.txt`, < 8.5 KB, 2–4 opening turns with canonical opening) and Video Monologue (`notebooklm-auto/prompts/<slug>_video_zh.txt`, full spoken script, ~9 KB).
 7. [ ] Neighbor reverse pointers **in the same ship** (two-way default). **Lattice consistency:** identify same-axis old claims that are now false, over-closed, or incomplete; nick or restore them in the old prose; regenerate posts graph.
 8. [ ] **Live Book Placement & Index of Premises:**
    - Append post to the `## 篇目 / Essays` list of exactly one part in `content/book/<part>.md` (placed last in written order).
