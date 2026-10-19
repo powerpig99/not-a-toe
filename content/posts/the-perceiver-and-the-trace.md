@@ -118,7 +118,7 @@ A deeper irony follows. The people most eager to locate consciousness in machine
 
 当推导受阻时，辩论者转而诉诸专业哲学家的权威，不过是在更高的抽象层面上复制了相同的错误。列举出一长串持怀疑态度或持不可知论的学者名字，仅仅是在公共空间中堆砌了更多的符号痕迹。这些名字、引文与论著标题，与模型生成的词元序列在本体上没有任何不同，它们依然需要一个在场的心智对其进行阅读与意义赋予。名单本身无法站上第一人称的现场，而正是这个现场，才使得所有关于意识的推断不再是空中楼阁。
 
-将学界声望或出版记录当成意识存在的证据，等同于在前提上就已经向还原论交出了阵地。这种举动默认了意识以及关于意识的真相，可以脱离体验发生的唯一现场，从某个遥远的第三人称审判席上予以裁决。正如在 [表达与智力的混淆](../mistaking-the-expression-for-the-intelligence/) 中所揭示的，将外部封装的合格表达当成能动智力本身，是认知上的严重错置。引用权威不仅没有缩小认识论的裂隙，反而在研究者与真实经验之间筑起了一道由引文构成的隔墙。权威的背书不过是痕迹的自我循环，它永远无法把印刷在纸面上的符号提升为具有主观体验的活物。
+将学界声望或出版记录当成意识存在的证据，等同于在前提上就已经向还原论交出了阵地。这种举动默认了意识以及关于意识的真相，可以脱离体验发生的唯一现场，从某个遥远的第三人称审判席上予以裁决。正如在 [错把表达当成智能](../mistaking-the-expression-for-the-intelligence/) 中所揭示的，将外部封装的合格表达当成能动智力本身，是认知上的严重错置。引用权威不仅没有缩小认识论的裂隙，反而在研究者与真实经验之间筑起了一道由引文构成的隔墙。权威的背书不过是痕迹的自我循环，它永远无法把印刷在纸面上的符号提升为具有主观体验的活物。
 
 Appeals to professional philosophical authority repeat the error at one remove. Producing lists of eminent scholars who declare the issue open merely stacks more public tokens onto the pile. Those names, citations, and journal papers are ontologically identical to model outputs: they remain passive marks requiring a living mind to read and interpret them. They cannot inhabit the first-person locus that alone makes cognitive inference valid. To treat institutional standing as empirical evidence is already to concede the core category error: the mistaken belief that consciousness, or the truth about it, can be adjudicated from outside the only site where it ever transpires.
 
