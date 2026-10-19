@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-19T03:58:49.658Z",
+    "generated_at": "2026-10-19T04:55:59.411Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -24,6 +24,7 @@
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
       "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "67468da824c1",
       "content/posts/amplification-paradox.md": "01c4553a7e11",
+      "content/posts/an-observation-by-its-own-standard.md": "c3c67e17cfb2",
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
       "content/posts/beyond-the-hundred-trillion-horizon.md": "3a79f48b23a9",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "af7a00651647",
@@ -403,9 +404,9 @@
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "46323a1926a8",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "6b5c78c47928",
       "content/book/causality.md": "cbe5d03c5250",
-      "content/book/consciousness.md": "f69ff208c9db",
+      "content/book/consciousness.md": "c2ba8e219e12",
       "content/book/economics.md": "5f09ac3fbf19",
-      "content/book/index-of-premises.md": "01f0a038991c",
+      "content/book/index-of-premises.md": "f17a22583fc3",
       "content/book/intelligence.md": "183aac2f9bc8",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -420,16 +421,16 @@
       "content/book/tools-and-progress.md": "c2d1c842f86a"
     },
     "stats": {
-      "posts": 394,
-      "edges": 7828,
-      "unique_directed": 4594,
+      "posts": 395,
+      "edges": 7846,
+      "unique_directed": 4603,
       "missing_targets": 0,
-      "one_way": 162,
+      "one_way": 171,
       "isolated": 35,
-      "posts_with_outbound": 358,
+      "posts_with_outbound": 359,
       "book_pages": 16,
-      "book_edges": 1090,
-      "posts_reached_by_book": 394
+      "book_edges": 1092,
+      "posts_reached_by_book": 395
     }
   },
   "hubs_in": [
@@ -982,6 +983,27 @@
         "the-homework-exam-inversion-registers-substitution",
         "studying-the-effect-of-ai-relocates-causality",
         "a-creation-cannot-replace-its-source"
+      ]
+    },
+    {
+      "id": "post:an-observation-by-its-own-standard",
+      "kind": "post",
+      "slug": "an-observation-by-its-own-standard",
+      "path": "content/posts/an-observation-by-its-own-standard.md",
+      "title": "依其自身标准的观察 / An Observation by Its Own Standard",
+      "hash": "c3c67e17cfb2",
+      "in_degree": 0,
+      "out_degree": 9,
+      "links_out": [
+        "the-reversal-from-defensible-claim-to-dogma",
+        "the-other-coherence",
+        "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+        "the-continuum-of-the-fold",
+        "consciousness-never-appears-as-data-among-data",
+        "the-cut-moves-but-never-vanishes",
+        "the-real-lesson-from-the-consciousness-vector-paper",
+        "consciousness-ascription-and-the-quantum-cut",
+        "the-boundary-of-the-frame"
       ]
     },
     {
@@ -1620,7 +1642,7 @@
       "path": "content/posts/consciousness-ascription-and-the-quantum-cut.md",
       "title": "意识归属与量子割点 / Consciousness Ascription and the Quantum Cut",
       "hash": "f0b1af83a286",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 5,
       "links_out": [
         "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
@@ -1637,7 +1659,7 @@
       "path": "content/posts/consciousness-never-appears-as-data-among-data.md",
       "title": "意识从不作为数据出现在数据之中 / Consciousness Never Appears as Data Among Data",
       "hash": "dff7279f27e5",
-      "in_degree": 23,
+      "in_degree": 24,
       "out_degree": 23,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
@@ -5501,7 +5523,7 @@
       "path": "content/posts/the-boundary-of-the-frame.md",
       "title": "框架的边界 / The Boundary of the Frame",
       "hash": "59046e294d3f",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 16,
       "links_out": [
         "what-information-is",
@@ -5839,7 +5861,7 @@
       "path": "content/posts/the-continuum-of-the-fold.md",
       "title": "折叠的连续谱 / The Continuum of the Fold",
       "hash": "5eba96d44a83",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 13,
       "links_out": [
         "the-geometry-of-mind",
@@ -5895,7 +5917,7 @@
       "path": "content/posts/the-cut-moves-but-never-vanishes.md",
       "title": "割点可移不可除 / The Cut Moves but Never Vanishes",
       "hash": "2610f984cd07",
-      "in_degree": 21,
+      "in_degree": 22,
       "out_degree": 5,
       "links_out": [
         "demanding-a-toe-freezes-time-into-a-catalog",
@@ -7745,7 +7767,7 @@
       "path": "content/posts/the-other-coherence.md",
       "title": "另一种相干 / The Other Coherence",
       "hash": "3a5e8d5c84b4",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 6,
       "links_out": [
         "on-closed-systems-open-minds-and-the-limits-of-proof",
@@ -8035,7 +8057,7 @@
       "path": "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md",
       "title": "意识向量论文的真正教训 / The Real Lesson from the Consciousness Vector Paper",
       "hash": "96c58bcce729",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 15,
       "links_out": [
         "what-works-is-the-belief",
@@ -8232,7 +8254,7 @@
       "path": "content/posts/the-reversal-from-defensible-claim-to-dogma.md",
       "title": "从可辩护的主张到教条的反转 / The Reversal from Defensible Claim to Dogma",
       "hash": "e985de3894e5",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 17,
       "links_out": [
         "expertise-as-reference-not-replacement",
@@ -8569,7 +8591,7 @@
       "path": "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md",
       "title": "意识的魔术戏法与推断的非对称性 / The Sleight of Hand of Consciousness and the Asymmetry of Inference",
       "hash": "21721c0327cd",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 9,
       "links_out": [
         "abstract-pain-and-living-hunger",
@@ -11518,6 +11540,114 @@
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
       "label": "A Creation Cannot Replace Its Source"
+    },
+    {
+      "from": "an-observation-by-its-own-standard",
+      "to": "the-reversal-from-defensible-claim-to-dogma",
+      "rel": "points_to",
+      "label": "随后这项观察便作为对一般意义上的意识的观察流传开去"
+    },
+    {
+      "from": "an-observation-by-its-own-standard",
+      "to": "the-reversal-from-defensible-claim-to-dogma",
+      "rel": "points_to",
+      "label": "the observation then travelled as an observation of consciousness in general"
+    },
+    {
+      "from": "an-observation-by-its-own-standard",
+      "to": "the-other-coherence",
+      "rel": "points_to",
+      "label": "一项发现，无需任何关于意识的字眼，就已有其价值"
+    },
+    {
+      "from": "an-observation-by-its-own-standard",
+      "to": "the-other-coherence",
+      "rel": "points_to",
+      "label": "a finding that needs no word about consciousness to be worth having"
+    },
+    {
+      "from": "an-observation-by-its-own-standard",
+      "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "rel": "points_to",
+      "label": "凭相似被带到另一种动物身上"
+    },
+    {
+      "from": "an-observation-by-its-own-standard",
+      "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "rel": "points_to",
+      "label": "carried to another animal by similarity"
+    },
+    {
+      "from": "an-observation-by-its-own-standard",
+      "to": "the-continuum-of-the-fold",
+      "rel": "points_to",
+      "label": "报告背后的知觉是推断出来的"
+    },
+    {
+      "from": "an-observation-by-its-own-standard",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "意识从不作为数据出现在数据之中"
+    },
+    {
+      "from": "an-observation-by-its-own-standard",
+      "to": "the-continuum-of-the-fold",
+      "rel": "points_to",
+      "label": "the percept behind it is inferred"
+    },
+    {
+      "from": "an-observation-by-its-own-standard",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "Consciousness Never Appears as Data Among Data"
+    },
+    {
+      "from": "an-observation-by-its-own-standard",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "这个速率是这个范式所登记的"
+    },
+    {
+      "from": "an-observation-by-its-own-standard",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "The rate is what this paradigm registers"
+    },
+    {
+      "from": "an-observation-by-its-own-standard",
+      "to": "the-real-lesson-from-the-consciousness-vector-paper",
+      "rel": "points_to",
+      "label": "意识向量论文的真正教训"
+    },
+    {
+      "from": "an-observation-by-its-own-standard",
+      "to": "consciousness-ascription-and-the-quantum-cut",
+      "rel": "points_to",
+      "label": "哪张面孔算作有意识的，是在记录之前，由范式据以验证的人类报告确定的"
+    },
+    {
+      "from": "an-observation-by-its-own-standard",
+      "to": "the-real-lesson-from-the-consciousness-vector-paper",
+      "rel": "points_to",
+      "label": "The Real Lesson from the Consciousness Vector Paper"
+    },
+    {
+      "from": "an-observation-by-its-own-standard",
+      "to": "consciousness-ascription-and-the-quantum-cut",
+      "rel": "points_to",
+      "label": "which face counts as conscious is fixed before the recordings"
+    },
+    {
+      "from": "an-observation-by-its-own-standard",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "框架的边界"
+    },
+    {
+      "from": "an-observation-by-its-own-standard",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "The Boundary of the Frame"
     },
     {
       "from": "better-than-free-after-the-checklist-closes",
@@ -56909,8 +57039,8 @@
         "slug": "consciousness",
         "path": "content/book/consciousness.md",
         "title": "意识与第一人称先验 / Consciousness and the First-Person Prior",
-        "hash": "f69ff208c9db",
-        "out_degree": 38
+        "hash": "c2ba8e219e12",
+        "out_degree": 39
       },
       {
         "id": "book:economics",
@@ -56927,8 +57057,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "01f0a038991c",
-        "out_degree": 394
+        "hash": "f17a22583fc3",
+        "out_degree": 395
       },
       {
         "id": "book:intelligence",
@@ -57465,6 +57595,12 @@
         "to": "consciousness-ascription-and-the-quantum-cut",
         "rel": "collects",
         "label": "意识归属与量子割点 / Consciousness Ascription and the Quantum Cut"
+      },
+      {
+        "from": "book:consciousness",
+        "to": "an-observation-by-its-own-standard",
+        "rel": "collects",
+        "label": "依其自身标准的观察 / An Observation by Its Own Standard"
       },
       {
         "from": "book:economics",
@@ -59673,6 +59809,12 @@
         "to": "consciousness-never-appears-as-data-among-data",
         "rel": "collects",
         "label": "意识从不作为数据出现在数据之中 / Consciousness Never Appears as Data Among Data"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "an-observation-by-its-own-standard",
+        "rel": "collects",
+        "label": "依其自身标准的观察 / An Observation by Its Own Standard"
       },
       {
         "from": "book:index-of-premises",

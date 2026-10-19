@@ -50,3 +50,4 @@ The essays in this part confront the hard problem of consciousness, the evolutio
 - [框架的盲区 / The Blind Spot of the Frame](../../posts/the-blind-spot-of-the-frame/)
 - [现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling](../../posts/present-contact-and-the-obscuration-of-desired-feeling/)
 - [意识归属与量子割点 / Consciousness Ascription and the Quantum Cut](../../posts/consciousness-ascription-and-the-quantum-cut/)
+- [依其自身标准的观察 / An Observation by Its Own Standard](../../posts/an-observation-by-its-own-standard/)

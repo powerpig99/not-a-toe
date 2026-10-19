@@ -2371,11 +2371,11 @@ Reifying awareness assumes mind is an asset that can be hoarded, preserved, or c
 ### 意识不能作为数据显现 / Consciousness Beyond Public Data
 `哲学 / Philosophical`
 
-经验物理主义预设意识能作为仪器中一个可观察的变量出现，在把必要条件与相关物描绘得越来越精细时有用；它在此到了边界：数据是结果，诠释一切读数的注视本身就是被研究的活动，相关物不会变成它所作为条件的那个私人登记。
+经验物理主义预设意识能作为仪器中一个可观察的变量出现，在把必要条件与相关物描绘得越来越精细时有用；它在此到了边界：数据是结果，诠释一切读数的注视本身就是被研究的活动，相关物不会变成它所作为条件的那个私人登记，而一个按某一范式的标准被称为有意识的状态，是在那里被命名的，不是被发现的，所以它的速率到那个标准为止。
 
-Empirical physicalism presumes consciousness can appear as an observable variable in an instrument, which is of use in mapping necessary conditions and correlates ever more finely; it reaches its boundary in that data are effects and the look interpreting every reading is the activity under study, so a correlate does not become the private registration it conditions.
+Empirical physicalism presumes consciousness can appear as an observable variable in an instrument, which is of use in mapping necessary conditions and correlates ever more finely; it reaches its boundary in that data are effects and the look interpreting every reading is the activity under study, so a correlate does not become the private registration it conditions, and a state called conscious by one paradigm's standard is named there, not found, so its rate goes no further than that standard.
 
-→ [意识从不作为数据出现在数据之中 / Consciousness Never Appears as Data Among Data](../../posts/consciousness-never-appears-as-data-among-data/)
+→ [意识从不作为数据出现在数据之中 / Consciousness Never Appears as Data Among Data](../../posts/consciousness-never-appears-as-data-among-data/) · [依其自身标准的观察 / An Observation by Its Own Standard](../../posts/an-observation-by-its-own-standard/)
 
 ### 共识决定现实裁决 / Consensus Reality Arbitration
 `哲学 / Philosophical`
