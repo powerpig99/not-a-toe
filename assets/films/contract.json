@@ -46,7 +46,7 @@
       { "id": "V2", "rule": "Assert; drop softeners and padding when the cut is structural.", "source": "content/posts/README.md:169" },
       { "id": "V3", "rule": "Negation differentiates. Never assertively negate a rival take; only a closed-reality assumption may be negated outright.", "source": "content/posts/README.md:170" },
       { "id": "V4", "rule": "Embody, never claim: do not teach, persuade, reassure or brand, and do not announce the stance.", "source": "content/posts/README.md:167" },
-      { "id": "V5", "rule": "No collective address and no lecturing down to the viewer.", "source": "notebooklm-auto/video_overview_directive_zh.md:33-34" },
+      { "id": "V5", "rule": "No collective address and no lecturing down to the viewer.", "source": "docs/film-rule-sources.md#V5" },
       { "id": "V6", "rule": "Will and agency belong only to living Minds; a model, market, system or tool never decides, wants, tries or acts.", "source": "AGENTS.md:65" },
       { "id": "V7", "rule": "Locate a theory's boundary; never show or call it refuted. Scaffolding strains at its limit, it does not shatter.", "source": "AGENTS.md:13" },
       { "id": "V8", "rule": "Matter is friction between model and reality, and an objective fact is an invariant across subjective cognitions; nothing on screen stands as the final, mind-independent truth.", "source": "AGENTS.md:66-67" },
@@ -60,7 +60,7 @@
       { "id": "V16", "rule": "Unicode maths only: no raw $ or LaTeX, no emoji, no markdown syntax on screen.", "source": "AGENTS.md:61" },
       { "id": "V17", "rule": "Zero banned zh words, in every string of a zh cut.", "source": "AGENTS.md:62-63" },
       { "id": "V18", "rule": "The only URL anywhere is the canonical post URL, trailing slash included.", "source": "AGENTS.md:17-23" },
-      { "id": "V19", "rule": "Rigorous, contemplative, spacious: no frantic pacing, flashy montage cuts or melodramatic score.", "source": "notebooklm-auto/video_overview_directive_en.md:47" }
+      { "id": "V19", "rule": "Rigorous, contemplative, spacious: no frantic pacing, flashy montage cuts or melodramatic score.", "source": "docs/film-rule-sources.md#V19" }
     ]
   },
   "end_card": { "url_template": "https://powerpig99.github.io/not-a-toe/posts/<slug>/", "hold_s": 3 },

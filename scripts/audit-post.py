@@ -17,8 +17,8 @@ Checks:
   5. Relative internal cross-links resolution (all ../slug/ exist; no absolute URLs)
   6. Banned words & essentialist cliches (advisory in context: barred where the prose describes or evaluates with them, allowed where they name the object)
   7. LaTeX syntax prohibition (0 $ or $$ math delimiters; currency $ before a digit allowed; Unicode math only)
-  8. Walkthrough structure & Spotify show notes (canonical live URL header, cover embed, Mermaid inventory, cuts, clean prompt code block, Spotify ZH & EN notes)
-  9. Companion NotebookLM prompt (Audio Dialogue canonical opening and concise bounds: 2-4 opening turns, < 8.5KB)
+  8. Walkthrough structure (canonical live URL header, cover embed, Mermaid inventory, cuts; no fake domains)
+  9. (Retired 2026-10-12: companion prompt checks removed)
   10. Mandatory companion cover art (assets/covers/<slug>.(jpg|png|webp) present, non-empty, and registered in STYLES.md)
 
 Usage:
@@ -39,19 +39,6 @@ BANNED_WORDS = [
     '某种意义上', '降维重构', '本质', '根本', '自始至终', '缰绳',
     '物理现实', '平庸', '物理意志'
 ]
-
-# Retired 2026-10-12: the companion NotebookLM prompt and the walkthrough's prompt and Spotify sections are no
-# longer deliverables (the audio and its show notes are made in studio/, see studio/library/workflow.md).
-# Set to False to require and check them again; while retired, a prompt file that is still present is not checked.
-NOTEBOOKLM_RETIRED = True
-
-REQUIRED_WALKTHROUGH_SECTIONS = [
-    ('Companion NotebookLM Prompt (Audio Dialogue)', ['Companion NotebookLM Prompt', 'Companion NotebookLM Prompts', 'NotebookLM Prompt', 'NotebookLM Prompts', 'Audio Dialogue', '语音对话']),
-    ('Spotify Podcast (ZH)', ['Spotify Podcast (ZH)', 'Spotify 播客（中文）']),
-    ('Spotify Podcast (EN)', ['Spotify Podcast (EN)', 'Spotify 播客（英文）']),
-]
-if NOTEBOOKLM_RETIRED:
-    REQUIRED_WALKTHROUGH_SECTIONS = []
 
 def get_image_size(file_path):
     """Pure-Python image dimension extraction for JPEG and PNG without external dependencies."""
@@ -573,16 +560,6 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
             w_content = None
 
         if w_content:
-            missing_sections = []
-            for section_name, patterns in REQUIRED_WALKTHROUGH_SECTIONS:
-                if not any(pat in w_content for pat in patterns):
-                    missing_sections.append(section_name)
-
-            if missing_sections:
-                warnings.append(f"Walkthrough missing required sections for: {missing_sections}")
-            else:
-                passes.append("Walkthrough section check")
-
             # Verify that Walkthrough header contains the canonical live post URL
             expected_canonical_url = f"https://powerpig99.github.io/not-a-toe/posts/{slug}/"
             top_header_text = w_content[:600]
@@ -591,135 +568,10 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
             else:
                 passes.append("Walkthrough header canonical URL check (clickable link present at top)")
 
-            # Verify that Companion NotebookLM Prompt in walkthrough is enclosed in one-click copiable code block
-            notebooklm_patterns = ['NotebookLM Prompt', 'NotebookLM Prompts', 'NotebookLM 提示词', 'Audio Dialogue', '语音对话']
-            nlm_found_pos = -1
-            for pat in notebooklm_patterns:
-                pos = w_content.find(pat)
-                if pos != -1:
-                    nlm_found_pos = pos
-                    break
-            if nlm_found_pos != -1:
-                next_header = re.search(r'\n##\s+', w_content[nlm_found_pos + 10:])
-                end_pos = (nlm_found_pos + 10 + next_header.start()) if next_header else len(w_content)
-                nlm_sec = w_content[nlm_found_pos:end_pos]
-                nlm_code_blocks = re.findall(r'```(?:[a-zA-Z0-9_-]+)?\s*\n(.*?)\n```', nlm_sec, re.DOTALL)
-                if len(nlm_code_blocks) < 1:
-                    errors.append(f"Walkthrough Companion NotebookLM Prompt missing prompt text enclosed in one-click copiable fenced code block. Rule: Prompt text must be provided as a complete copiable block.")
-                else:
-                    passes.append("Walkthrough Companion NotebookLM prompt one-click copiable code block check (Audio Dialogue prompt block present)")
-
-            # Verify that Spotify Podcast Show Notes (ZH & EN) are present, enclosed in fenced code blocks, and contain canonical URL
-            spotify_sections = [
-                ('Spotify Podcast (ZH)', ['Spotify Podcast (ZH)', 'Spotify 播客（中文）']),
-                ('Spotify Podcast (EN)', ['Spotify Podcast (EN)', 'Spotify 播客（英文）']),
-            ]
-            missing_url_spotify = []
-            missing_code_block_spotify = []
-            for name, patterns in spotify_sections:
-                found_pos = -1
-                for pat in patterns:
-                    pos = w_content.find(pat)
-                    if pos != -1:
-                        found_pos = pos
-                        break
-                if found_pos != -1:
-                    next_header = re.search(r'\n#{2,3}\s+', w_content[found_pos + 10:])
-                    end_pos = (found_pos + 10 + next_header.start()) if next_header else len(w_content)
-                    sec_text = w_content[found_pos:end_pos]
-                    if expected_canonical_url not in sec_text:
-                        missing_url_spotify.append(name)
-                    if not re.search(r'```(?:[a-zA-Z0-9_-]+)?\s*\n.*?\n```', sec_text, re.DOTALL):
-                        missing_code_block_spotify.append(name)
-
-            if missing_url_spotify:
-                errors.append(f"Walkthrough Spotify podcast show notes missing exact canonical live link ({expected_canonical_url}): {missing_url_spotify}. Must use exact URL with trailing slash.")
-            elif missing_code_block_spotify:
-                errors.append(f"Walkthrough Spotify podcast show notes missing one-click copiable fenced code block (```text ... ```): {missing_code_block_spotify}.")
-            else:
-                passes.append("Walkthrough Spotify Podcast Show Notes check (ZH & EN present, canonical URL included, fenced code blocks verified)")
-
-            # Banned words check in Chinese Spotify show notes
-            zh_pos = w_content.find('Spotify Podcast (ZH)')
-            if zh_pos == -1:
-                zh_pos = w_content.find('Spotify 播客（中文）')
-            if zh_pos != -1:
-                next_header = re.search(r'\n#{2,3}\s+', w_content[zh_pos + 10:])
-                end_pos = (zh_pos + 10 + next_header.start()) if next_header else len(w_content)
-                sec_text = w_content[zh_pos:end_pos]
-                banned_in_spotify = [w for w in BANNED_WORDS if w in sec_text]
-                if banned_in_spotify:
-                    warnings.append(f"Banned-list words in Walkthrough Spotify Podcast (ZH), check each names the object: {banned_in_spotify}")
-
             # Strictly prohibit any fake/hallucinated domain in walkthrough
             fake_walkthrough_domains = re.findall(r'https?://(?:www\.)?not-?a-?toe\.(?:org|com|net|io|ai|xyz)', w_content, re.IGNORECASE)
             if fake_walkthrough_domains:
                 errors.append(f"Fake/hallucinated domain detected in walkthrough ({fake_walkthrough_domains}). Canonical site is strictly: https://powerpig99.github.io/not-a-toe/")
-
-    # 8. Companion NotebookLM prompt audit
-    prompts_dir = root / 'notebooklm-auto' / 'prompts'
-    audio_prompt_file = prompts_dir / f"{slug}_zh.txt"
-    video_prompt_file = prompts_dir / f"{slug}_video_zh.txt"
-
-    prompt_missing = []
-    if not audio_prompt_file.is_file():
-        prompt_missing.append(f"notebooklm-auto/prompts/{slug}_zh.txt (Audio Dialogue)")
-
-    if NOTEBOOKLM_RETIRED:
-        pass
-    elif prompt_missing:
-        warnings.append(f"Missing companion NotebookLM prompt file: {prompt_missing}")
-    else:
-        # Check prompt files for banned words & raw $
-        prompt_files_to_check = [audio_prompt_file]
-        if video_prompt_file.is_file():
-            prompt_files_to_check.append(video_prompt_file)
-        prompt_banned = {}
-        for pf in prompt_files_to_check:
-            p_text = pf.read_text(encoding='utf-8')
-            for w in BANNED_WORDS:
-                if w in p_text:
-                    prompt_banned.setdefault(pf.name, []).append(w)
-            if '$' in p_text:
-                errors.append(f"Raw $ detected in prompt file {pf.name}")
-        if prompt_banned:
-            errors.append(f"Banned words detected in companion prompts: {prompt_banned}")
-        else:
-            passes.append("Companion NotebookLM prompt check (Audio Dialogue present and clean)")
-
-        # Verify standard schema: opening dialogue in audio prompt
-        audio_text = audio_prompt_file.read_text(encoding='utf-8')
-        schema_missing = []
-        if '角色与对话规范' not in audio_text:
-            schema_missing.append(f"{audio_prompt_file.name} missing '### [角色与对话规范]'")
-        if '核心议题清单' not in audio_text:
-            schema_missing.append(f"{audio_prompt_file.name} missing '### [核心议题清单]'")
-        if '正文对谈开场示例' not in audio_text:
-            schema_missing.append(f"{audio_prompt_file.name} missing '### [正文对谈开场示例]' (standard dialogue opening)")
-        else:
-            canonical_phrases = ['同一事实的两面', '脚手架', '非万物之理']
-            if not any(phrase in audio_text for phrase in canonical_phrases):
-                schema_missing.append(f"{audio_prompt_file.name} missing canonical Not-a-ToE opening on causality and first-person perspective ('同一事实的两面', '脚手架', or '非万物之理')")
-
-        if video_prompt_file.is_file():
-            video_text = video_prompt_file.read_text(encoding='utf-8')
-            if '正文文稿' not in video_text:
-                schema_missing.append(f"{video_prompt_file.name} missing '### [正文文稿]' (full monologue script)")
-
-        if schema_missing:
-            warnings.append(f"Companion prompt schema incomplete: {schema_missing}. Rule: Standard opening dialogue (with canonical Not-a-ToE opening on causality and first-person perspective) must be refined based on new analysis, but never deleted or omitted.")
-        else:
-            passes.append("Companion prompt schema check (Audio Canonical Opening Dialogue present)")
-
-        # Verify concise sizing bounds for audio dialogue prompt (must be opening sample of 2-4 turns, not a full transcript dump)
-        audio_bytes = len(audio_prompt_file.read_bytes())
-        dialogue_turns = len(re.findall(r'(?:\*\*明理\*\*|\*\*雨涵\*\*|明理：|雨涵：)', audio_text))
-        if dialogue_turns > 5:
-            errors.append(f"Audio prompt {audio_prompt_file.name} dialogue turns ({dialogue_turns}) exceed concise opening limit (rule: 2–4 turns; detected {dialogue_turns} turns). Do not dump full episode transcripts into the prompt.")
-        elif audio_bytes > 8500:
-            errors.append(f"Audio prompt {audio_prompt_file.name} size ({audio_bytes} bytes) exceeds concise threshold (rule: < 8.5KB). Keep dialogue to 2–4 opening turns.")
-        else:
-            passes.append(f"Companion audio prompt concise bounds check ({audio_bytes} bytes, {dialogue_turns} opening turns; complies with 2–4 turn, < 8.5KB standard)")
 
     # 9. Companion Cover Art audit
     covers_dir = root / 'assets' / 'covers'

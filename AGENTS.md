@@ -77,19 +77,7 @@ For every new or revised essay, the complete deliverable set consists of:
 - Registered in `assets/covers/STYLES.md` under both `Style families (used)` and the `Inventory` table as a living record of corpus diversity.
 
 ### 3. Companion NotebookLM Prompt — RETIRED (2026-10-12)
-No longer a deliverable; do not write one. The Deep Dive audio, its show notes, the infographic and the film for a post are made in the studio by `studio/library/workflow.md`. The retired text is kept below, commented out, in case it is ever wanted again.
-
-<!-- RETIRED 2026-10-12. Not in force.
-### 3. Companion NotebookLM Prompt (Chinese Only, Link-Free)
-Located in `notebooklm-auto/prompts/`:
-- **Audio Dialogue** (`notebooklm-auto/prompts/<slug>_zh.txt`): Deep dialogue between 明理 (engineering/systems reality) and 雨涵 (philosophy/cybernetics). Must contain three standard sections:
-  1. `### [角色与对话规范]` (Roles, core epistemological constraints, perspective division).
-  2. `### [核心议题清单]` (Structured topic outline).
-  3. `### [正文对谈开场示例]` (Strictly an **opening dialogue sample** of 2–4 concise turns, **NOT a full episode script or transcript dump**. Sized < 8.5 KB, typically 3–6 KB, 25–45 lines. Must begin with the canonical opening delivered by 明理: `大家好，欢迎来到非万物之理（Not a Theory of Everything）。`—providing the standard bilingual reference to the core term in both languages—summarizing that any theory is scaffolding, first-person perspective and causality are two sides of the same coin, neither closing the universe nor reactive rebellion, and stepping into living friction; followed by 雨涵's natural transition into the essay's core tension and 1–2 grounding turns, leaving NotebookLM to generate the rest of the dynamic discussion naturally from the topic checklist).
-  *Rule*: The canonical opening (`大家好，欢迎来到非万物之理（Not a Theory of Everything）。`) on causality and first-person perspective is refined based on the new analysis of each essay, but NEVER deleted or omitted. The opening sample must strictly stay within 2–4 dialogue turns to avoid prompt bloat.
-- **Video Monologue & Social Copies Retired**: Video monologue prompts (`<slug>_video_zh.txt`) and social promotional copies (WeChat Video Channels, X/Twitter) are no longer needed going forward.
-- **Rules**: Zero links (no markdown or HTML URLs), zero banned words, zero raw `$` symbols, prompt strictly concise (< 8.5 KB, 2–4 opening turns).
--->
+No longer a deliverable; do not write one. The Deep Dive audio, its show notes, the infographic and the film for a post are made in the studio by `studio/library/workflow.md`.
 
 ### 4. Walkthrough Document (`walkthrough.md`)
 Stored in the active conversation artifact directory, structured as:

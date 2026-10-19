@@ -1,8 +1,0 @@
-### [Short-Form Video Monologue Guidelines]
-* **Positioning and Tone**: A first-person philosophical monologue, calm, piercing, rich in frontier vision and causal weight. Hooking from "{{POST_HOOK_THEME}}", dissecting {{POST_CORE_ANALYSIS}}. Affirmative without being absolutist, improving rather than merely negating.
-* **Style**: Alternating concise rhythmic lines, progressive conceptual depth, zero academic jargon or preachiness.
-* **Core Narrative Arc**:
-{{POST_KEY_DIRECTIVES}}
-
-### [Spoken Script]
-{{POST_MONOLOGUE_SCRIPT}}

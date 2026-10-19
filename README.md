@@ -17,13 +17,12 @@ Guides (read these instead of re-deriving the workflow each time):
 2. Live Book Placement: Assign to exactly one part in `content/book/<part>.md` (placed last in written order); add or extend substantive entries in `content/book/index-of-premises.md` (label from 8 families, bilingual premise sentences, `→` link).
 3. Filename is the post slug and permalink (`/posts/<slug>/`).
 4. Cover image: place `assets/covers/<slug>.jpg` — ultra-wide **21:9** landscape (`1344×576`, Qwen-Image-2.1 MPS; 20:9 `1280×576` fallback). Content-driven novel artistic style registered in [`assets/covers/STYLES.md`](assets/covers/STYLES.md).
-5. Companion NotebookLM Prompts: Chinese Audio Dialogue (`< 8.5 KB`, 2–4 opening turns with canonical opening) and Video Monologue (compact spoken script, ~9 KB) under `notebooklm-auto/prompts/`.
-6. Use the drafting spec in [`docs/essay-format.md`](docs/essay-format.md) as **reference** for site scaffold. Full checklist + **refinement workflow** + **lattice consistency**: [`content/posts/README.md`](content/posts/README.md).
-7. Internal cross-links stay **relative** (`[title](../other-slug/)`).
-8. Preflight validation:
+5. Use the drafting spec in [`docs/essay-format.md`](docs/essay-format.md) as **reference** for site scaffold. Full checklist + **refinement workflow** + **lattice consistency**: [`content/posts/README.md`](content/posts/README.md).
+6. Internal cross-links stay **relative** (`[title](../other-slug/)`).
+7. Preflight validation:
    - `python3 scripts/audit-post.py <slug>` (CLEAN PASS across all 10 invariants).
    - `python3 scripts/audit-book.py` (CLEAN PASS for the live book).
-9. After live, **always generate** the absolute-markdown paste file for Substack / X Article (detail: [`docs/export-for-substack.md`](docs/export-for-substack.md)):
+8. After live, **always generate** the absolute-markdown paste file for Substack / X Article (detail: [`docs/export-for-substack.md`](docs/export-for-substack.md)):
 
 ```bash
 node scripts/export-absolute-md.mjs <slug>          # → export/<slug>.md (required after live)
@@ -36,7 +35,7 @@ CI builds and deploys Pages on push to `main`. **Push is not live** until Action
 Full ship checklist (preflight audits → reverse links → live book placement → push → `gh run watch` → live curl → **required** export generate): [`content/posts/README.md`](content/posts/README.md) § Ship checklist.
 
 ```bash
-git add content/posts/<slug>.md content/book/<part>.md content/book/index-of-premises.md assets/covers/<slug>.jpg assets/covers/STYLES.md notebooklm-auto/prompts/<slug>_zh.txt notebooklm-auto/prompts/<slug>_video_zh.txt
+git add content/posts/<slug>.md content/book/<part>.md content/book/index-of-premises.md assets/covers/<slug>.jpg assets/covers/STYLES.md
 git commit -m "Publish Post #XXX: <Title>"
 git push origin main
 gh run watch --exit-status
