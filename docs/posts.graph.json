@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-19T14:48:22.910Z",
+    "generated_at": "2026-10-19T15:19:58.481Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -130,7 +130,7 @@
       "content/posts/no-genius-can-solve-the-knowledge-problem.md": "e2b97b00140d",
       "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "54781c1f9a14",
       "content/posts/no-outside-scorekeeper.md": "b0bbe06a0422",
-      "content/posts/no-system-can-be-kept-closed.md": "479cfa653d24",
+      "content/posts/no-system-can-be-kept-closed.md": "196af386669f",
       "content/posts/nobody-has-seen-anything-yet.md": "684b9268b2c2",
       "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md": "50d45e2a7702",
       "content/posts/not-a-theory-of-everything.md": "fc0dcfeec14a",
@@ -410,7 +410,7 @@
       "content/book/intelligence.md": "11dd07441058",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
-      "content/book/mathematics.md": "09aa9b177e48",
+      "content/book/mathematics.md": "c814672588d5",
       "content/book/meaning-and-transcendence.md": "c1d2a4521033",
       "content/book/method.md": "9ae1de0d35cf",
       "content/book/morality.md": "0024610ecad0",
@@ -422,7 +422,7 @@
     },
     "stats": {
       "posts": 395,
-      "edges": 8178,
+      "edges": 8236,
       "unique_directed": 4612,
       "missing_targets": 0,
       "one_way": 168,
@@ -3569,8 +3569,8 @@
       "kind": "post",
       "slug": "no-system-can-be-kept-closed",
       "path": "content/posts/no-system-can-be-kept-closed.md",
-      "title": "No System Can Be Kept Closed",
-      "hash": "479cfa653d24",
+      "title": "没有系统能被保持封闭 / No System Can Be Kept Closed",
+      "hash": "196af386669f",
       "in_degree": 58,
       "out_degree": 58,
       "links_out": [
@@ -25888,7 +25888,25 @@
       "from": "no-system-can-be-kept-closed",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "起作用的是信念"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "whatever-is-one-prompt-away",
+      "rel": "points_to",
+      "label": "一个提示词之遥"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -25906,13 +25924,31 @@
       "from": "no-system-can-be-kept-closed",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence belongs only to the Mind"
+      "label": "智能只属于心智"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "dimensions-are-projections",
       "rel": "points_to",
-      "label": "Dimensions Are Projections: On Binary Hyperspace, Personal Growth, and Extended Intelligence"
+      "label": "维度即投影"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-twin-paradox-and-the-hidden-observer",
+      "rel": "points_to",
+      "label": "双生子佯谬与隐秘观察者"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to The Mind"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "dimensions-are-projections",
+      "rel": "points_to",
+      "label": "Dimensions Are Projections"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -25924,31 +25960,73 @@
       "from": "no-system-can-be-kept-closed",
       "to": "not-a-theory-of-everything",
       "rel": "points_to",
+      "label": "非万物之理（因果的二重性）"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-unclosable-trace",
+      "rel": "points_to",
+      "label": "无法闭合的痕迹"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "not-a-theory-of-everything",
+      "rel": "points_to",
       "label": "Not a Theory of Everything"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "the-unclosable-trace",
       "rel": "points_to",
-      "label": "The Unclosable Trace: Why Philosophy Cannot Be Inherited"
+      "label": "The Unclosable Trace"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production and consumption"
+      "label": "生产、消费与心智的区分"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
-      "label": "Complexity obscures: emergence as the act of Mind"
+      "label": "复杂性遮蔽了涌现之为心智的行动"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
-      "label": "Data is local; intelligence is allocated"
+      "label": "数据是局部的，智能是分配的"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "rel": "points_to",
+      "label": "开放场域中的无损知识不自洽"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-generative-atlas-of-macroscopic-phenomena",
+      "rel": "points_to",
+      "label": "宏观现象的生成图谱"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, Consumption, and the Mind’s Distinction"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
+      "label": "Complexity Obscures Emergence as the Act of Mind"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data Is Local; Intelligence Is Allocated"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -25960,7 +26038,19 @@
       "from": "no-system-can-be-kept-closed",
       "to": "the-generative-atlas-of-macroscopic-phenomena",
       "rel": "points_to",
-      "label": "The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction"
+      "label": "The Generative Atlas of Macroscopic Phenomena"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "现实是心智持续的实现"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "stability-and-excess",
+      "rel": "points_to",
+      "label": "稳定与溢出"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -25972,7 +26062,13 @@
       "from": "no-system-can-be-kept-closed",
       "to": "stability-and-excess",
       "rel": "points_to",
-      "label": "Stability and excess: consciousness, introspection, and the cut of observation"
+      "label": "Stability and Excess"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "rel": "points_to",
+      "label": "投资决策的因果闭环"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -25984,7 +26080,25 @@
       "from": "no-system-can-be-kept-closed",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
-      "label": "The path drawn one step at a time"
+      "label": "一步一步绘制出的路径"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-reality-distortion-field-names-the-closed-map",
+      "rel": "points_to",
+      "label": "现实扭曲力场指认的是封闭的地图"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "风险在于对监管本身的迷信"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "The Path Drawn One Step at a Time"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -26002,13 +26116,37 @@
       "from": "no-system-can-be-kept-closed",
       "to": "looping-and-graphing",
       "rel": "points_to",
+      "label": "回环与成图"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "looping-and-graphing",
+      "rel": "points_to",
       "label": "Looping and Graphing: Mind as the Loop of Loops"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "The scaffolding we forget"
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "超越的定相"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-non-definitive-definition-of-intelligence",
+      "rel": "points_to",
+      "label": "智能的非定论定义"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -26021,6 +26159,24 @@
       "to": "the-non-definitive-definition-of-intelligence",
       "rel": "points_to",
       "label": "The Non-Definitive Definition of Intelligence"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "du-zhongwen-zhexue-jianshi-you-gan",
+      "rel": "points_to",
+      "label": "读《中文哲学简史》有感"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "框架的边界"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-paradoxical-nature-of-bystander-insights",
+      "rel": "points_to",
+      "label": "旁观者洞察的悖论"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -26044,25 +26200,55 @@
       "from": "no-system-can-be-kept-closed",
       "to": "closed-reality-in-the-pursuit-of-serendipity",
       "rel": "points_to",
+      "label": "追求机缘中的封闭现实"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "closed-reality-in-the-pursuit-of-serendipity",
+      "rel": "points_to",
       "label": "Closed Reality in the Pursuit of Serendipity"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "the-knowledge-problem-and-the-illusion-of-delegation",
       "rel": "points_to",
-      "label": "The knowledge problem and the illusion of delegation"
+      "label": "知识问题与委托的幻觉"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
-      "label": "Clarity isn’t a state you arrive at"
+      "label": "清晰不是抵达的终点，而是运动本身"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "the-utility-men-of-progress",
       "rel": "points_to",
-      "label": "The utility men of progress"
+      "label": "进步的多面手"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "rel": "points_to",
+      "label": "从形式迷思到逻辑闭环"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "rel": "points_to",
+      "label": "The Knowledge Problem and the Illusion of Delegation"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-utility-men-of-progress",
+      "rel": "points_to",
+      "label": "The Utility Men of Progress"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -26074,151 +26260,313 @@
       "from": "no-system-can-be-kept-closed",
       "to": "pessimism-is-the-shadow-of-optimism",
       "rel": "points_to",
-      "label": "Pessimism is the shadow of optimism"
+      "label": "悲观是乐观的阴影"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "why-mathematics-can-never-be-solved",
       "rel": "points_to",
-      "label": "Why mathematics can never be solved"
+      "label": "为何数学永远解不完"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "escaping-the-sandbox-stays-inside-the-hold",
       "rel": "points_to",
-      "label": "Escaping the sandbox stays inside the hold"
+      "label": "逃出沙箱仍在持握之内"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "open-vision-in-a-closed-arena",
       "rel": "points_to",
-      "label": "Open vision in a closed arena"
+      "label": "封闭竞技场中的开放视野"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
-      "label": "Preference clusters and the language of judgment"
+      "label": "偏好聚类与评判语言"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "restriction-is-a-selective-tax",
       "rel": "points_to",
-      "label": "Restriction is a selective tax"
+      "label": "限制是选择性的税"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "only-if-it-is-not-kept-empty",
       "rel": "points_to",
-      "label": "Only if it is not kept empty"
+      "label": "只要它不被保持为空"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "the-climate-problem-registers-only-as-perception",
       "rel": "points_to",
-      "label": "The climate problem registers only as perception"
+      "label": "气候问题只作为感知被登记"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "the-strongest-belief-of-the-mind",
       "rel": "points_to",
-      "label": "The strongest belief of the Mind"
+      "label": "心智最坚固的信念"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
-      "label": "The scaffolding that keeps growing"
+      "label": "持续生长的脚手架"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism Is the Shadow of Optimism"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "Why Mathematics Can Never Be Solved"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "escaping-the-sandbox-stays-inside-the-hold",
+      "rel": "points_to",
+      "label": "Escaping the Sandbox Stays Inside the Hold"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "open-vision-in-a-closed-arena",
+      "rel": "points_to",
+      "label": "Open Vision in a Closed Arena"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "Preference Clusters and the Language of Judgment"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "Restriction Is a Selective Tax"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "only-if-it-is-not-kept-empty",
+      "rel": "points_to",
+      "label": "Only If It Is Not Kept Empty"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-climate-problem-registers-only-as-perception",
+      "rel": "points_to",
+      "label": "The Climate Problem Registers Only as Perception"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-strongest-belief-of-the-mind",
+      "rel": "points_to",
+      "label": "The Strongest Belief of the Mind"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The Scaffolding That Keeps Growing"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "the-presumption-of-agi-and-the-view-from-outside",
       "rel": "points_to",
-      "label": "The presumption of AGI and the view from outside"
+      "label": "AGI的预设与来自外部的视角"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
-      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
+      "label": "没有外部"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
       "rel": "points_to",
-      "label": "Advocating openness of others is a desire for closure of the self"
+      "label": "要求他人开放是对自我封闭的渴望"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "the-artifacts-of-self-amplification",
       "rel": "points_to",
-      "label": "The artifacts of self-amplification"
+      "label": "自我放大的制品"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "the-real-lesson-from-the-consciousness-vector-paper",
       "rel": "points_to",
-      "label": "The real lesson from the consciousness vector paper"
+      "label": "意识向量论文的真正教训"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "closed-assumptions-squeeze-compounding-into-s-curves",
       "rel": "points_to",
-      "label": "Closed assumptions squeeze compounding into S-curves"
+      "label": "封闭的假设把复利挤成 S 曲线"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "the-price-of-closing-optionality",
       "rel": "points_to",
-      "label": "The price of closing optionality"
+      "label": "关闭选择权的代价"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "hardware-locality-is-not-the-information-boundary",
       "rel": "points_to",
-      "label": "Hardware locality is not the information boundary"
+      "label": "硬件的本地性不是信息的边界"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "the-reality-distortion-field-inverts-the-baseline",
       "rel": "points_to",
-      "label": "The reality distortion field inverts the baseline"
+      "label": "现实扭曲力场颠倒了基线"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "the-imagining-of-ai-risk",
       "rel": "points_to",
-      "label": "The imagining of AI risk"
+      "label": "对 AI 风险的想象"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
       "rel": "points_to",
-      "label": "The hard problem of consciousness is consistent with learning"
+      "label": "意识的难题与学习相容"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
-      "label": "Consciousness never appears as data among data"
+      "label": "意识从不作为数据出现在数据之中"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, boundaries, and the moving edge of reality"
+      "label": "抽象、边界与现实的移动边缘"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "rel": "points_to",
-      "label": "Potential infinity and the temporary closures of mathematical thought"
+      "label": "潜无限与数学思维的暂时闭合"
     },
     {
       "from": "no-system-can-be-kept-closed",
       "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "rel": "points_to",
-      "label": "On closed systems, open minds, and the limits of proof"
+      "label": "论封闭系统、开放心智与证明的界限"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "better-than-free-after-the-checklist-closes",
+      "rel": "points_to",
+      "label": "清单合上之后，胜过免费"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "基准刷榜中的封闭实存"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "The Presumption of AGI and the View from Outside"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No Outside"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "rel": "points_to",
+      "label": "Advocating Openness of Others Is a Desire for Closure of the Self"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-artifacts-of-self-amplification",
+      "rel": "points_to",
+      "label": "The Artifacts of Self-Amplification"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-real-lesson-from-the-consciousness-vector-paper",
+      "rel": "points_to",
+      "label": "The Real Lesson from the Consciousness Vector Paper"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "rel": "points_to",
+      "label": "Closed Assumptions Squeeze Compounding into S-Curves"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-price-of-closing-optionality",
+      "rel": "points_to",
+      "label": "The Price of Closing Optionality"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "hardware-locality-is-not-the-information-boundary",
+      "rel": "points_to",
+      "label": "Hardware Locality Is Not the Information Boundary"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The Reality Distortion Field Inverts the Baseline"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-imagining-of-ai-risk",
+      "rel": "points_to",
+      "label": "The Imagining of AI Risk"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "rel": "points_to",
+      "label": "The Hard Problem of Consciousness Is Consistent with Learning"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "Consciousness Never Appears as Data Among Data"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "rel": "points_to",
+      "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "Potential Infinity and the Temporary Closures of Mathematical Thought"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "rel": "points_to",
+      "label": "On Closed Systems, Open Minds, and the Limits of Proof"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -26230,7 +26578,7 @@
       "from": "no-system-can-be-kept-closed",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem"
+      "label": "Closed Reality in Benchmark Maxing"
     },
     {
       "from": "nobody-has-seen-anything-yet",
@@ -59094,7 +59442,7 @@
         "slug": "mathematics",
         "path": "content/book/mathematics.md",
         "title": "数学与逻辑的边界 / The Boundaries of Mathematics and Logic",
-        "hash": "09aa9b177e48",
+        "hash": "c814672588d5",
         "out_degree": 20
       },
       {
@@ -64605,7 +64953,7 @@
         "from": "book:mathematics",
         "to": "no-system-can-be-kept-closed",
         "rel": "collects",
-        "label": "No System Can Be Kept Closed"
+        "label": "没有系统能被保持封闭 / No System Can Be Kept Closed"
       },
       {
         "from": "book:mathematics",

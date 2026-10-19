@@ -126,7 +126,7 @@
     },
     "no-system-can-be-kept-closed": {
       "title_zh": "没有系统能被保持封闭",
-      "subtitle_zh": "不完备最直观的一面是一位寄存器上的加法：运算在所持的范围内成立，而真的结果落在范围之外。"
+      "subtitle_zh": "不完备性最直观的一面，是加法之下的一位寄存器：运算在持守之内有效，而它的结果落在持守之外。"
     },
     "looping-and-graphing": {
       "title_zh": "回环与成图",
