@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-19T13:07:21.064Z",
+    "generated_at": "2026-10-19T13:46:10.083Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -26,11 +26,11 @@
       "content/posts/amplification-paradox.md": "01c4553a7e11",
       "content/posts/an-observation-by-its-own-standard.md": "c3c67e17cfb2",
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
-      "content/posts/beyond-the-hundred-trillion-horizon.md": "3a79f48b23a9",
+      "content/posts/beyond-the-hundred-trillion-horizon.md": "7092a6d76ade",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "af7a00651647",
       "content/posts/causality-all-the-way.md": "bba8516e8a15",
       "content/posts/causality-and-the-irreducible-prior.md": "b0836e2d3ef6",
-      "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "7af25db31047",
+      "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "9a04d0692bd0",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "14211a804d64",
       "content/posts/cheng-gong-xue.md": "a5a16fe66184",
       "content/posts/choice-itself-has-no-inherent-weight.md": "192b31e8caf0",
@@ -105,7 +105,7 @@
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "ac28f43f0e59",
       "content/posts/immortality-final.md": "df5d92452896",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "7ac88325f6b1",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "22a5ac299a3f",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "df5119d18fd1",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "e59a2399d66c",
@@ -114,7 +114,7 @@
       "content/posts/looping-and-graphing.md": "062e2dbb437d",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "34a2ec16b58d",
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "753fa98ec858",
-      "content/posts/manifesto-of-not-a-theory-of-everything.md": "94310702e8a7",
+      "content/posts/manifesto-of-not-a-theory-of-everything.md": "218bcf935275",
       "content/posts/math-as-a-career-is-not-math-as-a-pursuit.md": "295f0ae6bd95",
       "content/posts/meaning-of-life-refined.md": "2157fd1da622",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "d4fb9ab26507",
@@ -162,7 +162,7 @@
       "content/posts/price-as-utterance-understanding-as-trade.md": "9bd86071eefb",
       "content/posts/production-consumption-and-the-minds-distinction.md": "fe7821b46812",
       "content/posts/public-spending-does-not-create-capital.md": "4ecd2dec23ca",
-      "content/posts/qian-yin-hou-guo.md": "6e45c78bfc7c",
+      "content/posts/qian-yin-hou-guo.md": "5e7319c649c6",
       "content/posts/rationality-never-travels-across-the-mind.md": "082e1416eae1",
       "content/posts/reality-doesnt-invoice-by-committee.md": "e577ce5f5f88",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "11ef91285e9b",
@@ -225,16 +225,16 @@
       "content/posts/the-coordinators-category-error.md": "be853b5f9ce9",
       "content/posts/the-cut-moves-but-never-vanishes.md": "393f0fffe02c",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
-      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "3fa86a8cd1fa",
+      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "98555b9f2b03",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-deterministic-machine.md": "7ba9e608ee16",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "bbddfe893fca",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "6bed3375defb",
-      "content/posts/the-discount-on-agency.md": "7d8affe9031c",
+      "content/posts/the-discount-on-agency.md": "7f1324e7bcf7",
       "content/posts/the-dissolution-of-the-great-reversal.md": "3ef5fa05ee7f",
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "cd6f36ce905c",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "fbc2f400c1b1",
-      "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "09a58e05b701",
+      "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "d92e0af3077c",
       "content/posts/the-extendable-horizon.md": "b7c2185d0eca",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "bcd662973452",
       "content/posts/the-fallacy-of-post-success-parenting.md": "3c761a9c4e3c",
@@ -349,7 +349,7 @@
       "content/posts/the-sovereign-blinding.md": "118b031bf858",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
       "content/posts/the-strongest-belief-of-the-mind.md": "08187325a18d",
-      "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "466ba4f09356",
+      "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "aafc55f7b4d1",
       "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "ad2f484fe9b0",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
       "content/posts/the-three-shadows-of-the-cut.md": "7c447eb8391e",
@@ -359,7 +359,7 @@
       "content/posts/the-unclosable-trace.md": "06a750cc90b3",
       "content/posts/the-unexamined-critic.md": "1cda1a733555",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "96d67d29d78d",
-      "content/posts/the-unobservable-driver-of-learning.md": "7a2d7b20e268",
+      "content/posts/the-unobservable-driver-of-learning.md": "4e0d5c13e6f7",
       "content/posts/the-utility-men-of-progress.md": "d48b5bc61d54",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "686bcbb6a5f7",
       "content/posts/the-velocity-of-visibility.md": "7a988e6f7355",
@@ -403,7 +403,7 @@
       "content/posts/zi-you-de-ce-bu-zhun.md": "9c0ed3a2d8d9",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "46323a1926a8",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "6b5c78c47928",
-      "content/book/causality.md": "dd3ba2fd7426",
+      "content/book/causality.md": "3d3c38ed55ed",
       "content/book/consciousness.md": "c2ba8e219e12",
       "content/book/economics.md": "5f09ac3fbf19",
       "content/book/index-of-premises.md": "9685d8507d83",
@@ -422,7 +422,7 @@
     },
     "stats": {
       "posts": 395,
-      "edges": 8002,
+      "edges": 8098,
       "unique_directed": 4612,
       "missing_targets": 0,
       "one_way": 168,
@@ -1045,7 +1045,7 @@
       "slug": "beyond-the-hundred-trillion-horizon",
       "path": "content/posts/beyond-the-hundred-trillion-horizon.md",
       "title": "百万亿地平线之外 / Beyond the Hundred-Trillion Horizon",
-      "hash": "3a79f48b23a9",
+      "hash": "7092a6d76ade",
       "in_degree": 1,
       "out_degree": 5,
       "links_out": [
@@ -1153,7 +1153,7 @@
       "slug": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "path": "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md",
       "title": "因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere",
-      "hash": "7af25db31047",
+      "hash": "9a04d0692bd0",
       "in_degree": 19,
       "out_degree": 18,
       "links_out": [
@@ -2857,8 +2857,8 @@
       "kind": "post",
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
-      "title": "Individual Choices as the Only Causal Levers",
-      "hash": "7ac88325f6b1",
+      "title": "个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers",
+      "hash": "22a5ac299a3f",
       "in_degree": 100,
       "out_degree": 97,
       "links_out": [
@@ -3213,7 +3213,7 @@
       "slug": "manifesto-of-not-a-theory-of-everything",
       "path": "content/posts/manifesto-of-not-a-theory-of-everything.md",
       "title": "非万物之理 / Not a Theory of Everything",
-      "hash": "94310702e8a7",
+      "hash": "218bcf935275",
       "in_degree": 8,
       "out_degree": 8,
       "links_out": [
@@ -4474,7 +4474,7 @@
       "slug": "qian-yin-hou-guo",
       "path": "content/posts/qian-yin-hou-guo.md",
       "title": "前因，后果",
-      "hash": "6e45c78bfc7c",
+      "hash": "5e7319c649c6",
       "in_degree": 17,
       "out_degree": 17,
       "links_out": [
@@ -5949,7 +5949,7 @@
       "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences",
-      "hash": "3fa86a8cd1fa",
+      "hash": "98555b9f2b03",
       "in_degree": 30,
       "out_degree": 28,
       "links_out": [
@@ -6074,7 +6074,7 @@
       "slug": "the-discount-on-agency",
       "path": "content/posts/the-discount-on-agency.md",
       "title": "主体性的折现 / The Discount on Agency",
-      "hash": "7d8affe9031c",
+      "hash": "7f1324e7bcf7",
       "in_degree": 9,
       "out_degree": 9,
       "links_out": [
@@ -6154,7 +6154,7 @@
       "slug": "the-explanatory-trap-of-the-ordinary-perspective",
       "path": "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md",
       "title": "“普通人视角”的解释陷阱 / The Explanatory Trap of the \"Ordinary Perspective\"",
-      "hash": "09a58e05b701",
+      "hash": "d92e0af3077c",
       "in_degree": 17,
       "out_degree": 17,
       "links_out": [
@@ -8766,7 +8766,7 @@
       "slug": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
       "path": "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md",
       "title": "约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom",
-      "hash": "466ba4f09356",
+      "hash": "aafc55f7b4d1",
       "in_degree": 7,
       "out_degree": 6,
       "links_out": [
@@ -8969,7 +8969,7 @@
       "slug": "the-unobservable-driver-of-learning",
       "path": "content/posts/the-unobservable-driver-of-learning.md",
       "title": "学习中不可观测的驱动力 / The Unobservable Driver of Learning",
-      "hash": "7a2d7b20e268",
+      "hash": "4e0d5c13e6f7",
       "in_degree": 14,
       "out_degree": 14,
       "links_out": [
@@ -11734,7 +11734,7 @@
       "from": "beyond-the-hundred-trillion-horizon",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "个人选择作为唯一因果杠杆"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "beyond-the-hundred-trillion-horizon",
@@ -12616,7 +12616,7 @@
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "个体选择作为唯一的因果杠杆"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -21388,37 +21388,85 @@
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "the-homework-exam-inversion-registers-substitution",
       "rel": "points_to",
-      "label": "The homework–exam inversion registers substitution"
+      "label": "作业与考试的倒置折射出替代效应"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "studying-the-effect-of-ai-relocates-causality",
       "rel": "points_to",
-      "label": "Studying the effect of AI relocates causality"
+      "label": "研究AI效应重置了因果原点"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "the-unobservable-driver-of-learning",
       "rel": "points_to",
-      "label": "The unobservable driver of learning"
+      "label": "学习中不可观测的驱动力"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-homework-exam-inversion-registers-substitution",
+      "rel": "points_to",
+      "label": "The Homework–Exam Inversion Registers Substitution"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "studying-the-effect-of-ai-relocates-causality",
+      "rel": "points_to",
+      "label": "Studying the Effect of AI Relocates Causality"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-unobservable-driver-of-learning",
+      "rel": "points_to",
+      "label": "The Unobservable Driver of Learning"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "causality-all-the-way",
       "rel": "points_to",
-      "label": "Causality all the way"
+      "label": "因果贯穿始终"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
-      "label": "Causality stays at the edge that steers"
+      "label": "因果停留在掌舵的边缘"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "dimensions-are-projections",
       "rel": "points_to",
-      "label": "Dimensions Are Projections: On Binary Hyperspace, Personal Growth, and Extended Intelligence"
+      "label": "维度即投影"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-vector-and-the-puzzle-of-projections",
+      "rel": "points_to",
+      "label": "向量与投影的迷局"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "信息是什么"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality All the Way"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality Stays at the Edge That Steers"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "dimensions-are-projections",
+      "rel": "points_to",
+      "label": "Dimensions Are Projections"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -21436,7 +21484,25 @@
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "not-predicting-is-predicting-without-awareness",
       "rel": "points_to",
-      "label": "Not predicting is predicting without awareness"
+      "label": "不预测是没有觉察的预测"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "deceleration-is-the-drag-felt-when-accelerating",
+      "rel": "points_to",
+      "label": "减速是加速时感受到的阻力"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "felt-resistance-and-the-speed-differential",
+      "rel": "points_to",
+      "label": "阻力体感与速率差"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "not-predicting-is-predicting-without-awareness",
+      "rel": "points_to",
+      "label": "Not Predicting Is Predicting Without Awareness"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -21454,25 +21520,61 @@
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "the-irreducible-prior-of-decision-and-consequence",
       "rel": "points_to",
-      "label": "The irreducible prior of decision and consequence"
+      "label": "决策与后果的不可约先验"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
-      "label": "The source of shared change"
+      "label": "共同改变的本源"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "shared-humanity-is-never-shared",
       "rel": "points_to",
-      "label": "Shared humanity is never shared"
+      "label": "共同的人性从不共享"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "shared-consciousness-is-intersecting-individualities",
       "rel": "points_to",
-      "label": "Shared consciousness is intersecting individualities"
+      "label": "共享意识是个体性的交集"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "rel": "points_to",
+      "label": "笛卡尔的认识论跃迁与造神狂热"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-mark-and-the-act",
+      "rel": "points_to",
+      "label": "印迹与行动"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-irreducible-prior-of-decision-and-consequence",
+      "rel": "points_to",
+      "label": "The Irreducible Prior of Decision and Consequence"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "The Source of Shared Change"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "shared-humanity-is-never-shared",
+      "rel": "points_to",
+      "label": "Shared Humanity Is Never Shared"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "shared-consciousness-is-intersecting-individualities",
+      "rel": "points_to",
+      "label": "Shared Consciousness Is Intersecting Individualities"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -21485,6 +21587,24 @@
       "to": "the-mark-and-the-act",
       "rel": "points_to",
       "label": "The Mark and the Act"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "rel": "points_to",
+      "label": "自由变量的同构与先验主权"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "rel": "points_to",
+      "label": "调速者的幻觉与行动的活态摩擦"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "rel": "points_to",
+      "label": "自尊的刚性外壳与隐性外部归因"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -21508,6 +21628,18 @@
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "ones-potential-as-threat-or-inspiration",
       "rel": "points_to",
+      "label": "潜能作为威胁或启发"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-invisible-first-move",
+      "rel": "points_to",
+      "label": "看不见的第一步"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "ones-potential-as-threat-or-inspiration",
+      "rel": "points_to",
       "label": "One’s Potential as Threat or Inspiration"
     },
     {
@@ -21520,31 +21652,73 @@
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "The allocation of causal power in validation"
+      "label": "验证中因果权能的分配"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "having-more-is-never-the-cause",
       "rel": "points_to",
-      "label": "Having more is never the cause"
+      "label": "拥有更多从不是原因"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "the-utility-men-of-progress",
       "rel": "points_to",
-      "label": "The utility men of progress"
+      "label": "进步的多面手"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "guidance-is-not-ownership",
       "rel": "points_to",
-      "label": "Guidance Is Not Ownership: Agency, Biological Determinism, and the Feedback Loop of Parental Control"
+      "label": "引导不是占有"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-discount-on-agency",
+      "rel": "points_to",
+      "label": "主体性的折现"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having More Is Never the Cause"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-utility-men-of-progress",
+      "rel": "points_to",
+      "label": "The Utility Men of Progress"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "guidance-is-not-ownership",
+      "rel": "points_to",
+      "label": "Guidance Is Not Ownership"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "the-discount-on-agency",
       "rel": "points_to",
       "label": "The Discount on Agency"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
+      "rel": "points_to",
+      "label": "一个可能的全自动交通未来的非定论预测"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "框架的倒置与驾驶位的主权非对称"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -21557,6 +21731,24 @@
       "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "rel": "points_to",
       "label": "The Inversion of the Harness and the Sovereignty of the Driver's Seat"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-bank-shot-and-the-magic-trick",
+      "rel": "points_to",
+      "label": "翻袋球与魔术戏法"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-closed-loop-of-representation",
+      "rel": "points_to",
+      "label": "表征的闭环"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-illusion-of-knowing-and-the-geometry-of-amputation",
+      "rel": "points_to",
+      "label": "以知为刃的截肢与解脱"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -21580,19 +21772,49 @@
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, consumption, and the Mind’s distinction"
+      "label": "生产、消费与心智的区分"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "fate-loves-irony-refined",
       "rel": "points_to",
-      "label": "Fate loves irony"
+      "label": "命运偏爱反讽：生产创造自己的意识形态消费"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "the-myth-of-population-collapse-explained",
       "rel": "points_to",
-      "label": "The myth of population collapse explained"
+      "label": "人口崩溃神话的拆解"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "moral-language-as-projection",
+      "rel": "points_to",
+      "label": "道德语言作为投影"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "主权抉择的双面性与观察的客体化"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, Consumption, and the Mind’s Distinction"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "fate-loves-irony-refined",
+      "rel": "points_to",
+      "label": "Fate Loves Irony: Production Creates Its Own Ideological Consumption"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "The Myth of Population Collapse Explained"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -21610,7 +21832,31 @@
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "freedom-as-ground",
+      "rel": "points_to",
+      "label": "自由即地基"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "you-tiao-jian-de-zi-you",
+      "rel": "points_to",
+      "label": "有条件的自由"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "rel": "points_to",
+      "label": "约束基底与自由自否"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -21634,6 +21880,18 @@
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
+      "label": "任务的移交与后果的不可让渡"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "数字火箭、同行审查与因果闭环的稀释"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
       "label": "The Delegation of the Task and the Inalienability of Consequences"
     },
     {
@@ -21646,31 +21904,103 @@
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
       "rel": "points_to",
+      "label": "涌现的伪因果"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "价格是言说，理解是交易"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "总在倾听者无法发起"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "主权、信念与规制结构的生成"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "公共支出不创造资本"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "rel": "points_to",
+      "label": "投资决策的因果闭环"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "协调者的范畴错误"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "能动性的错配"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-causal-order-of-private-residuals-and-social-surplus",
+      "rel": "points_to",
+      "label": "私人残差与社会剩余的因果次序"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "卓异、感知与自我设限的问题场域"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "rel": "points_to",
+      "label": "好奇先行"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "curiosity-has-no-final-form",
+      "rel": "points_to",
+      "label": "好奇没有最终的形态"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "rel": "points_to",
       "label": "The Pseudo-Causality of Emergence"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "price-as-utterance-understanding-as-trade",
       "rel": "points_to",
-      "label": "Price as utterance, understanding as trade"
+      "label": "Price as Utterance, Understanding as Trade"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "what-always-listens-cannot-originate",
       "rel": "points_to",
-      "label": "What always listens cannot originate"
+      "label": "What Always Listens Cannot Originate"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
-      "label": "Sovereignty, belief, and the generation of regulatory structures"
+      "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
-      "label": "Public spending does not create capital"
+      "label": "Public Spending Does Not Create Capital"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -21682,13 +22012,13 @@
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
-      "label": "The coordinator’s category error"
+      "label": "The Coordinator’s Category Error"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "the-misallocation-of-agency",
       "rel": "points_to",
-      "label": "The misallocation of agency"
+      "label": "The Misallocation of Agency"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -21700,13 +22030,13 @@
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "rel": "points_to",
-      "label": "Exceptionality, perception, and the self-limiting field of problems"
+      "label": "Exceptionality, Perception, and the Self-Limiting Field of Problems"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "rel": "points_to",
-      "label": "Curiosity First: The Hidden Engine of Talent and Development"
+      "label": "Curiosity First"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -21718,37 +22048,91 @@
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "the-only-coherent-uncaused-effect",
       "rel": "points_to",
-      "label": "The only coherent uncaused effect"
+      "label": "唯一自洽的无因之果"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
-      "label": "Empowerment establishes the centralization of power"
+      "label": "赋权确立权力的集中"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "agency-relocated-into-the-formal-model",
       "rel": "points_to",
-      "label": "Agency relocated into the formal model"
+      "label": "能动性被转置入形式模型"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
-      "label": "Externalized virtue becomes its opposite"
+      "label": "外化善意走向其反面"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "the-source-of-all-harm",
       "rel": "points_to",
-      "label": "The source of all harm"
+      "label": "一切伤害的根源"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
-      "label": "Hierarchy from individual difference"
+      "label": "来自个体差异的层级"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "rel": "points_to",
+      "label": "因果的自反性与物理的无源假定"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "“物理学才是定律”的障眼法"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-generative-atlas-of-macroscopic-phenomena",
+      "rel": "points_to",
+      "label": "宏观现象的生成图谱"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-only-coherent-uncaused-effect",
+      "rel": "points_to",
+      "label": "The Only Coherent Uncaused Effect"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "empowerment-establishes-the-centralization-of-power",
+      "rel": "points_to",
+      "label": "Empowerment Establishes the Centralization of Power"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "agency-relocated-into-the-formal-model",
+      "rel": "points_to",
+      "label": "Agency Relocated into the Formal Model"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized Virtue Becomes Its Opposite"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-source-of-all-harm",
+      "rel": "points_to",
+      "label": "The Source of All Harm"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from Individual Difference"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -21766,13 +22150,61 @@
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "the-generative-atlas-of-macroscopic-phenomena",
       "rel": "points_to",
-      "label": "The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction"
+      "label": "The Generative Atlas of Macroscopic Phenomena"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "residual-individualism",
       "rel": "points_to",
-      "label": "Residual individualism"
+      "label": "剩余个人主义"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "政客是责任扩散的显性症状"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "du-zhongwen-zhexue-jianshi-you-gan",
+      "rel": "points_to",
+      "label": "读《中文哲学简史》有感"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "“普通人视角”的解释陷阱"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "zuo-jian-bu-shi-zi-fu",
+      "rel": "points_to",
+      "label": "作茧不是自缚"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "rel": "points_to",
+      "label": "外部归因是个人进步的障碍"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "rel": "points_to",
+      "label": "个人选择、社会化与做自己"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "rel": "points_to",
+      "label": "格物致知与信息复杂度"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "Residual Individualism"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -21796,19 +22228,19 @@
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "zuo-jian-bu-shi-zi-fu",
       "rel": "points_to",
-      "label": "Spin a Cocoon: Observation vs. Interpretation"
+      "label": "Spinning a Cocoon Is Not Binding Oneself"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "rel": "points_to",
-      "label": "External Attribution: The Obstacle to Personal Growth"
+      "label": "External Attribution Is the Obstacle to Personal Growth"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
       "rel": "points_to",
-      "label": "Individual Choice: The True Coordinates of Socialization and Being Oneself"
+      "label": "Individual Choice, Socialization and Being Oneself"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -21820,7 +22252,31 @@
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "manifesto-of-not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "非万物之理"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "qian-yin-hou-guo",
+      "rel": "points_to",
+      "label": "前因，后果"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "time-is-causality-not-a-dimension",
+      "rel": "points_to",
+      "label": "时间是因果的不可逆方向与离散步长"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -21844,6 +22300,24 @@
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
       "rel": "points_to",
+      "label": "从形式迷思到逻辑闭环"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "po-chu-gai-nian-de-jian-yue",
+      "rel": "points_to",
+      "label": "破除概念的僭越"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
+      "rel": "points_to",
+      "label": "投影的阶梯与因果的锚点"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "rel": "points_to",
       "label": "From the Myth of Form to the Closed Loop of Logic"
     },
     {
@@ -21862,91 +22336,199 @@
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "zi-you-de-ce-bu-zhun",
       "rel": "points_to",
+      "label": "自由的测不准"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "信念如何真正改变"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "hardness-is-not-inherent-in-the-action",
+      "rel": "points_to",
+      "label": "难度不在行动本身"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "专家经验作为参考而非替代"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "进步叙事中的症候与原因"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "悲观是乐观的阴影"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "偏好聚类与评判语言"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "rel": "points_to",
+      "label": "对乌托邦的信念是通往反乌托邦之路"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-illusion-of-free-intelligence",
+      "rel": "points_to",
+      "label": "免费智能的幻觉"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-reversal-from-defensible-claim-to-dogma",
+      "rel": "points_to",
+      "label": "从可辩护的主张到教条的反转"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "理性选择公设是原罪"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "财富转移政策与价格下限中的原因错置"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "technology-is-residual-of-human-compounding",
+      "rel": "points_to",
+      "label": "技术是人类复利的残差"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "平均值是残余，不是引擎"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "意识从不作为数据出现在数据之中"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
+      "label": "成功学"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "rel": "points_to",
+      "label": "目的性的评判与认知的缺省状态"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-mind-that-statistics-cannot-reveal",
+      "rel": "points_to",
+      "label": "统计学无法揭示的心智"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "zi-you-de-ce-bu-zhun",
+      "rel": "points_to",
       "label": "The Uncertainty of Freedom"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "how-belief-actually-changes",
       "rel": "points_to",
-      "label": "How belief actually changes"
+      "label": "How Belief Actually Changes"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "hardness-is-not-inherent-in-the-action",
       "rel": "points_to",
-      "label": "Hardness is not inherent in the action"
+      "label": "Hardness Is Not Inherent in the Action"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "expertise-as-reference-not-replacement",
       "rel": "points_to",
-      "label": "Expertise as reference, not replacement"
+      "label": "Expertise as Reference, Not Replacement"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
-      "label": "Symptom and cause in the narratives of progress"
+      "label": "Symptom and Cause in the Narratives of Progress"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "pessimism-is-the-shadow-of-optimism",
       "rel": "points_to",
-      "label": "Pessimism is the shadow of optimism"
+      "label": "Pessimism Is the Shadow of Optimism"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
-      "label": "Preference clusters and the language of judgment"
+      "label": "Preference Clusters and the Language of Judgment"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "the-belief-in-utopia-is-the-path-to-dystopia",
       "rel": "points_to",
-      "label": "The belief in utopia is the path to dystopia"
+      "label": "The Belief in Utopia Is the Path to Dystopia"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "the-illusion-of-free-intelligence",
       "rel": "points_to",
-      "label": "The illusion of free intelligence"
+      "label": "The Illusion of Free Intelligence"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "the-reversal-from-defensible-claim-to-dogma",
       "rel": "points_to",
-      "label": "The reversal from defensible claim to dogma"
+      "label": "The Reversal from Defensible Claim to Dogma"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "the-rational-choice-postulate-is-the-original-sin",
       "rel": "points_to",
-      "label": "The rational choice postulate is the original sin"
+      "label": "The Rational Choice Postulate Is the Original Sin"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "rel": "points_to",
-      "label": "The misallocation of cause"
+      "label": "The Misallocation of Cause in Wealth-Transfer Policies and Price Floors"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "technology-is-residual-of-human-compounding",
       "rel": "points_to",
-      "label": "Technology is residual of human compounding"
+      "label": "Technology Is Residual of Human Compounding"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
-      "label": "The average is residue, not the engine"
+      "label": "The Average Is Residue, Not the Engine"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
-      "label": "Consciousness never appears as data among data"
+      "label": "Consciousness Never Appears as Data Among Data"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -21958,13 +22540,7 @@
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "rel": "points_to",
-      "label": "Judging by Purpose: The Default State and Dynamic Leaps of Cognition"
-    },
-    {
-      "from": "individual-choices-as-the-only-causal-levers",
-      "to": "zi-you-de-ce-bu-zhun",
-      "rel": "points_to",
-      "label": "The Uncertainty of Freedom"
+      "label": "Judging by Purpose and the Default State of Cognition"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -23620,7 +24196,7 @@
       "from": "manifesto-of-not-a-theory-of-everything",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "个体选择作为唯一的因果杠杆"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "manifesto-of-not-a-theory-of-everything",
@@ -29956,7 +30532,7 @@
       "from": "qian-yin-hou-guo",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "个体选择作为唯一的因果杠杆"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "qian-yin-hou-guo",
@@ -37612,7 +38188,7 @@
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "个体选择作为唯一的因果杠杆"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -38224,7 +38800,7 @@
       "from": "the-discount-on-agency",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "个体选择作为唯一的因果杠杆"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "the-discount-on-agency",
@@ -38632,7 +39208,7 @@
       "from": "the-explanatory-trap-of-the-ordinary-perspective",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "个体抉择作为唯一的因果杠杆"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "the-explanatory-trap-of-the-ordinary-perspective",
@@ -52120,7 +52696,7 @@
       "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "个体抉择作为唯一的因果杠杆"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
@@ -53128,7 +53704,7 @@
       "from": "the-unobservable-driver-of-learning",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "个体选择作为唯一的因果杠杆"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "the-unobservable-driver-of-learning",
@@ -57975,7 +58551,7 @@
         "slug": "causality",
         "path": "content/book/causality.md",
         "title": "因果的内外视界 / Inner and Outer Horizons of Causality",
-        "hash": "dd3ba2fd7426",
+        "hash": "3d3c38ed55ed",
         "out_degree": 33
       },
       {
@@ -58161,7 +58737,7 @@
         "from": "book:causality",
         "to": "individual-choices-as-the-only-causal-levers",
         "rel": "collects",
-        "label": "Individual Choices as the Only Causal Levers"
+        "label": "个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers"
       },
       {
         "from": "book:causality",

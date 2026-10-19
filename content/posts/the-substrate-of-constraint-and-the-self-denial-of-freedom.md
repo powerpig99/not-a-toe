@@ -170,7 +170,7 @@ graph TD
 
 ## 四、 约束下的不变主权与因果手柄的收回 / 4. Invariant Sovereignty Under Constraints and the Reclaiming of the Causal Lever
 
-真正具有操作性的自由，从来不依赖于外部阻力的奇迹般消散。自由的核心特质在于它对于任何约束拓扑的高度不变性：无论身处的现实走廊多么狭窄，无论可动用的资源多么匮乏，只要第一人称觉知尚未熄灭，在每一个呼吸的当下挑选下一个微观行动的权能便始终完整无损。[个体抉择作为唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 表明，无论宏观系统如何庞大复杂，系统演进的真实动力源始终是微观主权在当下的离散扰动。自由不需要任何先决条件的批准，它是在任何给定地貌下依然可以向世界施加因果影响的底层能力。
+真正具有操作性的自由，从来不依赖于外部阻力的奇迹般消散。自由的核心特质在于它对于任何约束拓扑的高度不变性：无论身处的现实走廊多么狭窄，无论可动用的资源多么匮乏，只要第一人称觉知尚未熄灭，在每一个呼吸的当下挑选下一个微观行动的权能便始终完整无损。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 表明，无论宏观系统如何庞大复杂，系统演进的真实动力源始终是微观主权在当下的离散扰动。自由不需要任何先决条件的批准，它是在任何给定地貌下依然可以向世界施加因果影响的底层能力。
 
 Operative freedom never depends on the miraculous dissolution of exterior friction. Its distinguishing property is an invariance across arbitrary constraint topologies: no matter how narrow the situational corridor, no matter how scarce the immediate resources, as long as first-person awareness remains active, the capacity to select the next micro-action remains whole and uncompromised. As demonstrated in [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/), macroscopic systems and structural regularities derive their directional momentum from discrete microscopic choices occurring in the present. Freedom requires no validating sanction from preconditions; it is the baseline capacity to exert causal traction across whatever terrain presents itself.
 
