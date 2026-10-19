@@ -1997,7 +1997,7 @@ Model sentimentalism assumes AI systems experience grief or obsolescence upon sh
 
 The argument assumes past exclusion errors, as with the octopus, transfer forward to machines; the precedent relaxed a criterion of form while keeping source, so relaxing source exceeds it, and what it still supports is that non-human organization alone does not rule intelligence out.
 
-→ [错把表达当成智能 / Mistaking the Expression for the Intelligence](../../posts/mistaking-the-expression-for-the-intelligence/) · [Intelligence Belongs Only to The Mind - The Irreducible Prior](../../posts/intelligence-belongs-only-to-the-mind/)
+→ [错把表达当成智能 / Mistaking the Expression for the Intelligence](../../posts/mistaking-the-expression-for-the-intelligence/) · [Intelligence Belongs Only to The Mind](../../posts/intelligence-belongs-only-to-the-mind/)
 
 ### 通用人工智能 / Artificial General Intelligence (AGI)
 `技术 / Technological`
@@ -3113,7 +3113,7 @@ Crediting tools, teaching, or study design treats learning as done to the studen
 
 Computationalism presumes symbol manipulation constitutes genuine intellect; physical machines manipulate trace residue, while living intelligence initiates active distinction.
 
-→ [Intelligence Belongs Only to The Mind - The Irreducible Prior](../../posts/intelligence-belongs-only-to-the-mind/)
+→ [Intelligence Belongs Only to The Mind](../../posts/intelligence-belongs-only-to-the-mind/)
 
 ### 界面带宽本位论 / Interface Bandwidth Primacy
 `技术 / Technological`

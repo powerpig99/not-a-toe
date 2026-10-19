@@ -29,7 +29,7 @@ The essays in this part dissect Geoffrey Hinton's cognitive leaps, the limits of
 - [Overfitting as the Follower Mode](../../posts/overfitting-as-the-follower-mode/)
 - [The Catalog That Isn't There](../../posts/hassabis-frontier-agi-premise/)
 - [What Looks Like RL for AIs Is Self-RL for Humans](../../posts/self-rl-for-humans/)
-- [Intelligence Belongs Only to The Mind - The Irreducible Prior](../../posts/intelligence-belongs-only-to-the-mind/)
+- [Intelligence Belongs Only to The Mind](../../posts/intelligence-belongs-only-to-the-mind/)
 - [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../../posts/agi-and-asi-are-temporary-goalposts/)
 - [Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem](../../posts/closed-reality-in-benchmark-maxing/)
 - [The Non-Definitive Definition of Intelligence](../../posts/the-non-definitive-definition-of-intelligence/)
