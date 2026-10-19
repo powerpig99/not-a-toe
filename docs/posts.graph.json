@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-19T13:46:10.083Z",
+    "generated_at": "2026-10-19T14:15:03.376Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -321,7 +321,7 @@
       "content/posts/the-price-of-closing-optionality.md": "3ad717f12d55",
       "content/posts/the-question-that-installs-the-war.md": "6570c77251d5",
       "content/posts/the-ramble-within-the-ramble.md": "454a1407f39f",
-      "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "b5fc86b4bbec",
+      "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "dc17bda050e5",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "adad691debaa",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "b3d9f124e004",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "48a714b8f22c",
@@ -8031,7 +8031,7 @@
       "slug": "the-rational-choice-postulate-is-the-original-sin",
       "path": "content/posts/the-rational-choice-postulate-is-the-original-sin.md",
       "title": "理性选择公设是原罪 / The Rational Choice Postulate Is the Original Sin",
-      "hash": "b5fc86b4bbec",
+      "hash": "dc17bda050e5",
       "in_degree": 19,
       "out_degree": 19,
       "links_out": [
@@ -8051,9 +8051,9 @@
         "closed-reality-in-benchmark-maxing",
         "the-allocation-of-causal-power-in-validation",
         "openness-is-consistency",
-        "rationality-never-travels-across-the-mind",
         "consciousness-never-appears-as-data-among-data",
-        "cheng-gong-xue"
+        "cheng-gong-xue",
+        "rationality-never-travels-across-the-mind"
       ]
     },
     {
@@ -48550,7 +48550,7 @@
       "from": "the-rational-choice-postulate-is-the-original-sin",
       "to": "a-new-deeper-look-at-antifragility",
       "rel": "points_to",
-      "label": "A New Deeper Look at Antifragility"
+      "label": "A New Deeper Look at Antifragility: Prosthesis, Not Driver"
     },
     {
       "from": "the-rational-choice-postulate-is-the-original-sin",
@@ -48578,12 +48578,6 @@
     },
     {
       "from": "the-rational-choice-postulate-is-the-original-sin",
-      "to": "rationality-never-travels-across-the-mind",
-      "rel": "points_to",
-      "label": "理性从不跨越心智"
-    },
-    {
-      "from": "the-rational-choice-postulate-is-the-original-sin",
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
       "label": "意识从不作为数据出现在数据之中"
@@ -48596,15 +48590,15 @@
     },
     {
       "from": "the-rational-choice-postulate-is-the-original-sin",
-      "to": "openness-is-consistency",
+      "to": "rationality-never-travels-across-the-mind",
       "rel": "points_to",
-      "label": "Openness Is Consistency"
+      "label": "理性从不跨越心智"
     },
     {
       "from": "the-rational-choice-postulate-is-the-original-sin",
-      "to": "rationality-never-travels-across-the-mind",
+      "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Rationality Never Travels Across the Mind"
+      "label": "Openness Is Consistency"
     },
     {
       "from": "the-rational-choice-postulate-is-the-original-sin",
@@ -48617,6 +48611,12 @@
       "to": "cheng-gong-xue",
       "rel": "points_to",
       "label": "Theories After Success"
+    },
+    {
+      "from": "the-rational-choice-postulate-is-the-original-sin",
+      "to": "rationality-never-travels-across-the-mind",
+      "rel": "points_to",
+      "label": "Rationality Never Travels Across the Mind"
     },
     {
       "from": "the-real-lesson-from-the-consciousness-vector-paper",
