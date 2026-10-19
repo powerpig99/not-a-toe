@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-19T17:26:43.336Z",
+    "generated_at": "2026-10-19T17:57:03.508Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -359,7 +359,7 @@
       "content/posts/the-unclosable-trace.md": "06a750cc90b3",
       "content/posts/the-unexamined-critic.md": "1cda1a733555",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "96d67d29d78d",
-      "content/posts/the-unobservable-driver-of-learning.md": "4e0d5c13e6f7",
+      "content/posts/the-unobservable-driver-of-learning.md": "f4fc84bcab69",
       "content/posts/the-utility-men-of-progress.md": "d48b5bc61d54",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "686bcbb6a5f7",
       "content/posts/the-velocity-of-visibility.md": "7a988e6f7355",
@@ -8969,7 +8969,7 @@
       "slug": "the-unobservable-driver-of-learning",
       "path": "content/posts/the-unobservable-driver-of-learning.md",
       "title": "学习中不可观测的驱动力 / The Unobservable Driver of Learning",
-      "hash": "4e0d5c13e6f7",
+      "hash": "f4fc84bcab69",
       "in_degree": 14,
       "out_degree": 14,
       "links_out": [
@@ -54634,25 +54634,25 @@
       "from": "the-unobservable-driver-of-learning",
       "to": "the-homework-exam-inversion-registers-substitution",
       "rel": "points_to",
-      "label": "The homework–exam inversion registers substitution"
+      "label": "The Homework–Exam Inversion Registers Substitution"
     },
     {
       "from": "the-unobservable-driver-of-learning",
       "to": "studying-the-effect-of-ai-relocates-causality",
       "rel": "points_to",
-      "label": "Studying the effect of AI relocates causality"
+      "label": "Studying the Effect of AI Relocates Causality"
     },
     {
       "from": "the-unobservable-driver-of-learning",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "向外索取确认的因果倒置"
+      "label": "验证中因果权能的分配"
     },
     {
       "from": "the-unobservable-driver-of-learning",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "The allocation of causal power in validation"
+      "label": "The Allocation of Causal Power in Validation"
     },
     {
       "from": "the-unobservable-driver-of-learning",
@@ -54664,7 +54664,7 @@
       "from": "the-unobservable-driver-of-learning",
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
-      "label": "Mistaking the expression for the intelligence"
+      "label": "Mistaking the Expression for the Intelligence"
     },
     {
       "from": "the-unobservable-driver-of-learning",
@@ -54680,15 +54680,9 @@
     },
     {
       "from": "the-unobservable-driver-of-learning",
-      "to": "individual-choices-as-the-only-causal-levers",
-      "rel": "points_to",
-      "label": "个体抉择是唯一的因果杠杆"
-    },
-    {
-      "from": "the-unobservable-driver-of-learning",
       "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
       "rel": "points_to",
-      "label": "From Formal Myth to Logical Closure"
+      "label": "From the Myth of Form to the Closed Loop of Logic"
     },
     {
       "from": "the-unobservable-driver-of-learning",
@@ -54700,13 +54694,25 @@
       "from": "the-unobservable-driver-of-learning",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "the-unobservable-driver-of-learning",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
     },
     {
       "from": "the-unobservable-driver-of-learning",
       "to": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
       "rel": "points_to",
-      "label": "投资决策的因果闭环：从模型失效、系统负和到真自负盈亏"
+      "label": "投资决策的因果闭环"
+    },
+    {
+      "from": "the-unobservable-driver-of-learning",
+      "to": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "rel": "points_to",
+      "label": "The Causal Loop of Investment Decisions"
     },
     {
       "from": "the-unobservable-driver-of-learning",
@@ -54728,39 +54734,27 @@
     },
     {
       "from": "the-unobservable-driver-of-learning",
-      "to": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
-      "rel": "points_to",
-      "label": "The Causal Loop of Investment Decisions"
-    },
-    {
-      "from": "the-unobservable-driver-of-learning",
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
-      "label": "Consciousness never appears as data among data"
+      "label": "Consciousness Never Appears as Data Among Data"
     },
     {
       "from": "the-unobservable-driver-of-learning",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
-      "label": "The average is residue, not the engine"
+      "label": "The Average Is Residue, Not the Engine"
     },
     {
       "from": "the-unobservable-driver-of-learning",
       "to": "stability-and-excess",
       "rel": "points_to",
-      "label": "Stability and excess: consciousness, introspection, and the cut of observation"
+      "label": "Stability and Excess"
     },
     {
       "from": "the-unobservable-driver-of-learning",
       "to": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
       "rel": "points_to",
       "label": "止步于评判，是认知的歧途"
-    },
-    {
-      "from": "the-unobservable-driver-of-learning",
-      "to": "the-paradoxical-nature-of-bystander-insights",
-      "rel": "points_to",
-      "label": "旁观者洞察的悖论性质"
     },
     {
       "from": "the-unobservable-driver-of-learning",
@@ -54772,19 +54766,25 @@
       "from": "the-unobservable-driver-of-learning",
       "to": "the-paradoxical-nature-of-bystander-insights",
       "rel": "points_to",
-      "label": "The paradoxical nature of bystander insights"
+      "label": "旁观者洞察的悖论"
+    },
+    {
+      "from": "the-unobservable-driver-of-learning",
+      "to": "the-paradoxical-nature-of-bystander-insights",
+      "rel": "points_to",
+      "label": "The Paradoxical Nature of Bystander Insights"
     },
     {
       "from": "the-unobservable-driver-of-learning",
       "to": "the-npc-impression-is-structural",
       "rel": "points_to",
-      "label": "NPC印象是结构性的"
+      "label": "NPC 印象是结构性的"
     },
     {
       "from": "the-unobservable-driver-of-learning",
       "to": "the-npc-impression-is-structural",
       "rel": "points_to",
-      "label": "The NPC impression is structural"
+      "label": "The NPC Impression Is Structural, Not a Ranking of Minds"
     },
     {
       "from": "the-utility-men-of-progress",

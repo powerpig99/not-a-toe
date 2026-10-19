@@ -1,123 +1,87 @@
 # 学习中不可观测的驱动力 / The Unobservable Driver of Learning
 
-*观测只能记录下游的分数；驱动力永远在于因果权力被一再定位在何处。 / Observation holds only downstream scores; the driver is where causal power is successively located.*
+*观测只持有下游的分数；驱动力是因果权能被相继定位的地方。 / Observation holds only downstream scores; the driver is where causal power is successively located.*
 
----
+当学生获准在开卷测评中使用 AI 时，分数大幅上升，随后无辅助的期末考试成绩下降。表面的解读把工具看作既强大又危险的东西。每当教学、课程、方法或研究设计被当作学习的原因来计分时，便出现同一个表面。能力是所择关系的累积回路在分数中呈现的方式，而不是一种固定的禀赋；只有一次反身的回返，才定位那个注视无法持有的驱动力。
 
-当学生获准在开卷测评中使用 AI 时，分数显著跃升，而一旦脱离辅助进行期末闭卷测试，成绩则急剧下滑。表面化的解读将这一工具同时视作强大而危险的利器。当教学法、课程设置、训练方法或实验方案被直接当作学习的成因进行打分时，浮现出的也是同一层表象。能力是反复选择的关节点所构成的累积回路，而非某种既定的禀赋；唯有自指性的反思回归，才能定位那道外在目光无法捕捉的驱动之源。
+When students are allowed to use AI on open-book assessments, grades rise sharply and unaided finals then fall. The surface reading treats the tool as both powerful and dangerous. The same surface appears whenever instruction, curriculum, method, or study design is scored as the cause of learning. Ability is how the accumulated loop of chosen relation presents in the scores, not a fixed endowment; only a reflexive return locates the driver the look cannot hold.
 
----
+## 一、 分数登记工具的一个表面 / 1. The Scores Register a Surface of the Instrument
 
-When students are allowed to use AI on open-book assessments, grades rise sharply and unaided finals then fall. The surface reading treats the tool as both powerful and dangerous. The same surface appears whenever instruction, curriculum, method, or study design is scored as the cause of learning. Ability is the accumulated loop of chosen relation, not a fixed endowment; only a reflexive return locates the driver the look cannot hold.
+当学生获准在开卷测评中使用 AI 时，他们的分数大幅上升。据报道，在一门大型心理学导论课程中，班级平均分从通常的 85% 升到 95%。然而，当同一批学生后来在没有 AI 的情况下参加一场累积性的期末考试时，平均分降到 68%。这一模式与一些对照研究相符：在这些研究中，使用 AI 提高了练习期间的表现，并降低了之后无辅助的表现。
 
----
+When students are allowed to use AI on open-book assessments, their grades rise sharply. In one large introductory psychology course, as reported, the class average moved from a typical 85 percent to 95 percent. Yet when the same students later sat a cumulative final exam without AI, the average fell to 68 percent. The pattern matches controlled studies in which AI access raised performance during practice and lowered later unaided performance.
 
-## 一、 评分记录的仅是仪器的表象 / 1. The Scores Register a Surface of the Instrument
+[作业与考试的倒置折射出替代效应](../the-homework-exam-inversion-registers-substitution/)把这一模式追溯为每个分数所测量之物的组合：一个分数是原始能力加上工具，另一个分数只是原始能力。[研究AI效应重置了因果原点](../studying-the-effect-of-ai-relocates-causality/)在实验前提上追溯它：随机分配的使用权被当作自变量，相反姿态的平均值随后被命名为技术的一种属性。
 
-当学生获准在开卷测评中使用 AI 时，他们的分数显著提高。在一门大型心理学导论课程中，班级平均分从典型的 85% 跃升至 95%。然而，当这批学生随后参加没有 AI 辅助的期末统考时，平均分却暴跌至 68%。这一现象并非特例；它精确印证了诸多对照实验研究所揭示的规律：AI 在加速任务完成、大幅拉高即时表现指标的同时，也显著削弱了对知识的持久理解与沉淀。
+[The Homework–Exam Inversion Registers Substitution](../the-homework-exam-inversion-registers-substitution/) traces the pattern as a composition of what each score measures: one score is raw capability plus the tool, the other is raw capability only. [Studying the Effect of AI Relocates Causality](../studying-the-effect-of-ai-relocates-causality/) traces it at the experimental premise: randomized access treated as the independent variable, the average of opposed postures then named as a property of the technology.
 
-[作业与考试的倒置折射出替代效应](../the-homework-exam-inversion-registers-substitution/) 将这种模式展现为工具的叠加态：其中一个分数是原生能力加上外挂工具，另一个分数则纯粹是原生能力本身。[研究AI效应重置了因果原点](../studying-the-effect-of-ai-relocates-causality/) 在实验前提中就已暴露了同样的模式：获取工具的权限被视作自变量，两种截然相反的姿态所产生的均值随后被强行冠以“技术本身的固有属性”。
+表面的解读很直接：工具既强大又危险。进一步追溯，工具确实移动了分数，用它时高出十分，不用它时比通常的平均分低十七分；然而，它所抬高的分数，并不承载学习者自身动作所带来的进步。教学、课程与研究设计也以同样的方式被计分。
 
-表面化的解读简单直接：工具既强大又危险。但更深层的洞察揭示出，工具本身从来不是决定性的变量。教学方式、课程体系与学习方案的设计，也承受着这同一种因果权力的向外错配。
+The surface reading is straightforward: the tool is both powerful and dangerous. Traced further, the tool does move the scores, up ten points with it and seventeen below the usual average without it, yet the score it lifts does not carry the improvement of the learner's own acts. Instruction, curriculum, and study design are scored the same way.
 
----
+## 二、 被配置于外部的因果权能，把学习当作施加于人的事 / 2. Causal Power Allocated Outside Treats Learning as Done To
 
-When students are allowed to use AI on open-book assessments, their grades rise sharply. In one large introductory psychology course the class average moved from a typical 85 percent to 95 percent. Yet when the same students later sat a cumulative final exam without AI, the average fell to 68 percent. The pattern is not anomalous; it mirrors controlled research showing that AI accelerates task completion and inflates performance metrics while simultaneously reducing retained understanding.
+分数遗漏了因果权能被定位在哪里。若这种权能被配置给外部因素（AI 的有无、教学的质量、课程的结构），无论由谁配置，这一配置便把学习当作*施加于*个体的事，而不是*由*个体生成的事。一旦因果权能被置于人之外，生成着的活动便不再被当作提供下一步的东西。本应培养进步的过程，不再包含学习者自身的杠杆，即工具撤走之后，唯一使进步延续下去的那根杠杆。
 
-[The homework–exam inversion registers substitution](../the-homework-exam-inversion-registers-substitution/) is that pattern as composition of instruments: one score is raw capability plus the tool, the other is raw capability only. [Studying the effect of AI relocates causality](../studying-the-effect-of-ai-relocates-causality/) is the same pattern already at the experimental premise: access treated as the independent variable, the average of opposed postures then named as a property of the technology.
+What the scores leave out is where causal power is located. Where that power is allocated to external factors (the presence or absence of AI, the quality of instruction, the structure of the curriculum), whoever allocates it, the allocation treats learning as something done *to* the individual rather than something generated *by* the individual. Once causal power is placed outside the person, the generating activity is no longer treated as supplying the next step. The process that was supposed to cultivate improvement no longer includes the learner's own lever, the only one that carries the improvement over once the tool is gone.
 
-The surface reading is straightforward: the tool is both powerful and dangerous. A deeper reading reveals that the tool itself is never the decisive variable. Instruction, curriculum, and study design receive the same allocation.
+[验证中因果权能的分配](../the-allocation-of-causal-power-in-validation/)追溯哪一方被当作提供下一步的一方。在这里，学习的供给被当作来自工具、课堂或设计。
 
----
+[The Allocation of Causal Power in Validation](../the-allocation-of-causal-power-in-validation/) traces which side is treated as supplying the next step. Here the supply of learning is treated as arriving from the tool, the lesson, or the design.
 
-## 二、 因果权力向外配置把学习视作被动施加 / 2. Causal Power Allocated Outside Treats Learning as Done To
+## 三、 能力呈现所择关系的累积回路 / 3. Ability Presents Accumulated Loops of Chosen Relation
 
-决定性的变量永远在于：因果权力究竟被安置在何处。学生、教师、方案设计者以及随后的集体舆论解读常常陷入一个共同的错误——将这种因果权力配置给外部因素：AI 的存在与否、教学水平的优劣、课程结构的设计。这种配置将学习当成了对个体的一种“外在施加”（done *to*），而非由个体自发“生成”（generated *by*）的过程。一旦因果权力被置于人身之外，生成性的动作便不再被视作迈出下一步的动能源泉。那个本该培育心智进阶的过程，便就此剥离了唯一能够真正产生进步的杠杆。
+并不存在一种等待被测量的、固定的先天学习能力。显现为能力高低的东西，是一些态度与关系姿态的产物：个体的动作反复带着这些态度与姿态，朝向外部因素，也朝向这些姿态所产生的结果；它们被选择，在于每一个动作把它们作为一次区分划出，尽管大多数在不被看见的情况下运行。每一个关系动作都生成一个结果；每一个结果随后经由当时起作用的姿态被诠释，从而强化或削弱该姿态。若强化在运行，结果便是一个自我强化的反馈回路；在相继的周期中，这样的回路彼此分岔。回路是动作留下的痕迹，而能力是这一痕迹在分数中呈现的方式。学生之间可见的差异，被研究记录为稳定的特质；这些差异承载着不同回路的累积表达，以及每个学生在某一时刻所持有的有限痕迹。
 
-[向外索取确认的因果倒置](../the-allocation-of-causal-power-in-validation/) 持续追踪着究竟哪一方被视为提供下一步的源泉。在此处，学习的供给被误以为源自工具、讲授或体系设计。
+There is no fixed, innate learning capacity waiting to be measured. What appears as greater or lesser ability is the product of the attitudes and relational stances an individual's acts repeatedly carry toward external factors and toward the results those stances produce; they are chosen in that each act draws them as a distinction, though most run without being seen. Every act of relation generates a result; every result is then interpreted through the stance in force, reinforcing or weakening it. Where reinforcement runs, the outcome is a self-reinforcing feedback loop, and over successive cycles such loops diverge. The loop is the trace the acts leave, and ability is how that trace presents in the scores. The visible differences among students, which studies record as stable traits, carry the cumulative expression of distinct loops, alongside the finite traces each student holds at a given moment.
 
----
+[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/)追溯分数被当作活动的情形。在这里，分数被当作对已经在场的能力的排名，而不是被当作仍在运行的回路的残余。
 
-The decisive variable is where causal power is located. The common error — made by students, by teachers, by study designers, and by the collective interpretations that follow — is to allocate that power to external factors: the presence or absence of AI, the quality of instruction, the structure of the curriculum. This allocation treats learning as something done *to* the individual rather than something generated *by* the individual. Once causal power is placed outside the person, the generating activity is no longer treated as supplying the next step. The process that was supposed to cultivate improvement no longer includes the only lever that can produce it.
+[Mistaking the Expression for the Intelligence](../mistaking-the-expression-for-the-intelligence/) traces the score held as the activity. Here the score is treated as a ranking of capacity already present, rather than as residue of the loops still running.
 
-[The allocation of causal power in validation](../the-allocation-of-causal-power-in-validation/) tracks which side is treated as supplying the next step. Here the supply of learning is treated as arriving from the tool, the lesson, or the design.
+## 四、 外部归因交出杠杆 / 4. External Attribution Hands Away the Lever
 
----
+一个人越是一贯地把自身的能力（包括学习的能力）归因于外部因素，进步的驱动力便越彻底地被置于其外，而只有他本人才能拉动的那根杠杆，被当作别人的。若教师与制度层面的观察者主要从工具、方法或设计，而不是从学生自身的关系选择来诠释结果，提供给学生的解释便带着同一种外部归因；接受这些解释的学生，便以这种归因为模板塑造下一个动作。以支持之名到来的东西，使生成过程留在学习者的掌握之外。[从形式迷思到逻辑闭环](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)追溯这种外置的形式主义变体：把阅读形式仪式化（纸质对数字），以及倚仗名人之名作为认知防御，用外部的仪式取代学习者内部的参数更新，于是驱动力再一次被置于外部。工具可以让分数更锐利，却不能替代驱动力，正如[错置的因果与心智编译器](../cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi/)所追溯的。
 
-## 三、 能力是所择关系的累积回路 / 3. Ability Is Accumulated Loops of Chosen Relation
+The more consistently a person attributes their own capability, including the capacity to learn, to external factors, the more thoroughly the driver of improvement is placed outside them, and the lever only they can pull is treated as someone else's. Where teachers and institutional observers interpret outcomes primarily in terms of tools, methods, or designs rather than in terms of the student’s own relational choices, the explanations offered to the student carry the same external attribution, and a student who takes them up patterns the next act on it. What arrives as support keeps the generative process outside the learner’s reach. [From the Myth of Form to the Closed Loop of Logic](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/) traces the formalist variant of this placement outside: ritualizing reading formats (paper vs digital) and leaning on celebrity names for cognitive defense put external ceremony in place of the learner's internal parameter updates, so the driver is again placed outside. A tool can sharpen the scores but not stand in for the driver, as [Misplaced Causality and the Mind's Compiler](../cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi/) traces.
 
-根本不存在某种静待被度量的、固定的先天学习能力。表面上展现出的能力高低，本质上是个体面对外在要素以及这些立場所产生的结果时，所反复选择的态度与关系姿态的产物。每一次关系选择都会生成一个结果；而每一个结果又反过来通过同一种姿态被理解与诠释，从而强化或削弱这种姿态。其最终沉淀为一个自我强化的反馈闭环。在接续不断的循环周期中，这些回路逐渐分道扬镳。学生之间显露出的差异——被实证研究记录为稳定特质的差异——不过是不同反馈回路持续运行所累积的外在表达。
+[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)把驱动力的外置追溯到个体所持续的动作，每一个抉择都是它自己的杠杆：外化的解释是进一步的离散动作，它们重新安置了对抉择的登记。在这里，被重新安置的名称是学习本身。
 
-[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/) 指出了当分数被固化为活动本身时的认知冻结。在这里，分数被视作对既有能力的等级排序，而非对仍在运行的动态回路的余波沉淀。
+[Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) traces the placement of the driver outside to the acts individuals sustain, each choice its own lever: externalizing explanations are further discrete acts that relocate the registration of the choice. Here the relocated name is learning itself.
 
----
+## 五、 观察只持有下游的结果 / 5. Observation Holds Only Downstream Effects
 
-There is no fixed, innate learning capacity waiting to be measured. What appears as greater or lesser ability is the product of the attitudes and relational stances an individual repeatedly chooses toward external factors and toward the results those stances produce. Every choice of relation generates a result; every result is then interpreted through the same stance, reinforcing or weakening it. The outcome is a self-reinforcing feedback loop. Over successive cycles these loops diverge. The visible differences among students — differences that studies record as stable traits — are simply the cumulative expression of distinct loops.
+从观察的位置，人只能登记下游的现象：分数、完成的速度、脚手架撤除时表现的崩塌。这些是后果、结果、症状。驱动力（动作的相继，回路是其痕迹）并不出现在观察场之内。错误归因未被计入的代价也不出现在其中：回路在没有回返的情况下继续运行，于是自我生成的进步登记得越来越少。因此，由平均分与制度叙事搭建的语言，遮蔽了使用它的人声称要解释的东西。在投资中，为错置的原因付出代价者，是以自身动作安置了该原因的投资者，正如[投资决策的因果闭环](../tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui/)所追溯的；在学习中，学习者以同样的方式付出代价。
 
-[Mistaking the expression for the intelligence](../mistaking-the-expression-for-the-intelligence/) is that freeze when a score is held as the activity. Here the score is treated as a ranking of capacity already present, rather than as residue of the loops still running.
+From the position of observation one can register only downstream phenomena: the grades, the speed of completion, the collapse in performance when the scaffold is removed. These are consequences, effects, symptoms. The driver (the succession of acts, of which the loops are the trace) does not appear inside the observational field. Nor does the unaccounted cost of misattribution: loops that run on without the return, so that self-generated improvement registers less and less. Language built from averaged scores and institutional narratives therefore hides what those who use it claim to explain. In investing, the one who pays for a misplaced cause is the investor whose acts placed it, as [The Causal Loop of Investment Decisions](../tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui/) traces; in learning, the learner pays the same way.
 
----
+自我区分的活动发生着，无因，不息。称之为心智：已在进行中的观察者，它的每一个动作都是一次区分。观察持有结果；产生结果的原因仍领先一步。这个间隙是注视得以登记的方式：登记工具、登记教学、在事后登记自身。[意识从不作为数据出现在数据之中](../consciousness-never-appears-as-data-among-data/)在证据中追溯这一步之差：第三人称数据只持有公共的结果；要求生成着的活动出现在数据之中，这一要求把领先的边缘冻结为非反身层级中的一个对象。[平均值是残余，不是引擎](../the-average-is-residue-not-the-engine/)在这样的地方追溯它：某个人才回流率（回到本国的人才所占的比例），即许多选择在变化的筛选下的残余，被读作人才去向的引擎。驱动力一面持住一个形式，一面溢出它，[稳定与溢出](../stability-and-excess/)在意识中追溯这一点。
 
-## 四、 外部归因让渡了因果杠杆 / 4. External Attribution Hands Away the Lever
+Self-distinguishing activity occurs, uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Observation holds effect; the cause that produced it remains one step ahead. That gap is how the look registers at all: of tools, of instruction, of oneself in hindsight. [Consciousness Never Appears as Data Among Data](../consciousness-never-appears-as-data-among-data/) traces this one-step gap in evidence: third-person data hold only public effects; the demand that the generating activity appear among them freezes the leading edge as an object in a non-reflexive stratum. [The Average Is Residue, Not the Engine](../the-average-is-residue-not-the-engine/) traces it where a return-migration rate (the share of talent that comes back home), residue of many choices under changing selection, is read as the engine of where talent goes. The driver holds a form and exceeds it at once, which [Stability and Excess](../stability-and-excess/) traces in consciousness.
 
-一个人越是习惯性地将自身的能力（包括学习能力）归因于外在要素，他就越彻底地交出了自我精进的发动机。那个唯有他自己才能拉动的操纵杠杆，被拱手让渡。教师与体制层面的观察者往往进一步加剧了这种错配。当他们主要以工具、方法或教学设计而非以学生自身的关系选择来解读学习结果时，他们便将提供给学生的对齐范式塑造成了同一种外部归因。原本旨在提供支撑的援助，反倒让生成性过程彻底脱离了学习者的掌控。[从形式迷思到逻辑闭环](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/) 揭示了这种外部让渡的形式主义变体：将阅读媒介的仪式化（纸质书对抗电子书），以及诉诸名人权威作为认知防线，都是在用外部的宗教仪式替代内部参数的真实迭代。工具能让分数更精细，却替代不了驱动者，正如[错置的因果与心智编译器](../cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi/)所言。
+## 六、 反身回返定位驱动力 / 6. Reflexive Return Locates the Driver
 
-[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 是在社会伪装下对这一事实的重新确立：外在化的解释不过是进一步离散的动作，转移了对真实选择的原点记录。在此处，被置换的名词正是“学习”本身。
+定位驱动力需要一次反身的运动：每一个被观察到的结果，被反射回作出选择的那个人身上。这一自指把结果作为选择者自身动作的痕迹，安放在选择者身上；随后的选择仍领先这个结果一步。只要一个人仍处在纯粹观察者的位置上，把自己当作因果链之外的东西，生成过程便仍然隐藏着。回返作为进一步的离散动作，总是可得的；回返被作出的频率各有不同，而只有回返者登记这一点。评判他人的分数而不转回自身的动作，是[止步于评判，是认知的歧途](../zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu/)所追溯的那次转向。
 
----
+Locating the driver requires a reflexive movement: each observed effect is reflected back onto the one choosing. That self-reference places the effect on the chooser as the trace of their own act; the choosing that follows stays one step ahead of it. As long as one remains in the pure observer position, treating oneself as external to the causal chain, the generative process stays hidden. The return is always available as a further discrete act; what differs is how often it is made, and only the one returning registers that. Judging the scores of others without turning back to one's own acts is the turn that [Stopping at Judgment Is a Wrong Turn of Cognition](../zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu/) traces.
 
-The more consistently a person attributes their own capability, including the capacity to learn, to external factors, the more thoroughly they outsource the driver of improvement. The lever they alone can pull is handed away. Teachers and institutional observers often compound the allocation. When they interpret outcomes primarily in terms of tools, methods, or designs rather than in terms of the student’s own relational choices, they pattern the alignments available to the student toward the same external attribution. What arrives as support keeps the generative process outside the learner’s reach. [From Formal Myth to Logical Closure](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/) exposes the formalist variant of this outsourcing: ritualizing reading formats (paper vs digital) and leaning on celebrity names for cognitive defense substitutes external ceremony for internal parameter updates. A tool can sharpen the scores but not stand in for the driver, as [Misplaced Causality and the Mind's Compiler](../cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi/) argues.
+[旁观者洞察的悖论](../the-paradoxical-nature-of-bystander-insights/)在单一的观察之刀被保存为活动本体论的地方，追溯纯粹观察者的位置。在这里，那一刀是记分板；活动是产生了这些分数的选择。
 
-[Individual choices as the only causal levers](../individual-choices-as-the-only-causal-levers/) is that restore under social costume: externalizing explanations are further discrete acts that relocate the registration of the choice. Here the relocated name is learning itself.
+[The Paradoxical Nature of Bystander Insights](../the-paradoxical-nature-of-bystander-insights/) traces the pure observer position where a single observational cut is preserved as the ontology of the activity. Here the cut is the scoreboard; the activity is the choosing that produced the scores.
 
----
+## 七、 回返的频率，而非不平等的获取 / 7. Frequency of Return, Not Unequal Access
 
-## 五、 观察仅能捕捉下游效应 / 5. Observation Holds Only Downstream Effects
+若回返被频繁作出，因果权能便仍定位在人自身相继的选择之中，回路也由留下它的那些动作重新划出。若回返很少被作出，观察式的、外部的姿态便塑造下一个动作；即便表面指标可能暂时上升，自我生成的进步也登记得越来越少。这一差别不是一种固定的禀赋。它是这样一个累积结果：人回返到那向来属于自身的动作相继，有多频繁。
 
-站在第三人称观察者的立场上，人们只能记录下游的现象：分数、完成速度、撤除外在支架后表现的崩塌。这些皆是结果、效应与表象。真正的驱动力——接续的选择序列以及它们所缔造的回路——根本不会出现在观察视野之内。因果错配所带来的隐性代价同样不可见：即自发生成性进阶能力的渐进式衰竭。由平均分与体制叙事搭建起的集体语言，因此系统性地遮蔽了它声称要解释的一切。在投资中，驱动者就是为误差买单的人，[投资决策的因果闭环：从模型失效、系统负和到真自负盈亏](../tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui/)说明了这一点。
+Where the return is made often, causal power stays located in one's own successive choices, and the loop is redrawn from the acts that leave it. Where it is made seldom, the observational, external stance patterns the next act; self-generated improvement registers less and less even while surface metrics may temporarily rise. The difference is not a fixed endowment. It is the accumulated result of how often the return is made to the succession of acts that was always one's own.
 
-区分自身的动作时刻在自发展开——无因，无休。不妨称之为心智（Mind）：观察者早已在路上，其每一个动作都是一记切分。观察记录的是效应；而产生效应的成因永远领先一步。这一间隙正是目光得以记录一切的机制——无论是记录工具、记录教学，还是在事后审视自我。[意识从不作为数据出现在数据之中](../consciousness-never-appears-as-data-among-data/) 是这道滞后在实证伪装下的显现：第三人称数据只能持有公共效应；强求生成性活动现身于数据之中的企图，将移动的前沿冻结为了非自指层级中的客体。[平均值是残余，不是引擎](../the-average-is-residue-not-the-engine/) 揭示了同样的冻结：许多选择在变化的筛选下留下的回国率，被读作人才去向的引擎。驱动者同时守住一种形式又溢出它，[稳定与溢出](../stability-and-excess/)在意识中描述了这一点。
+[NPC 印象是结构性的](../the-npc-impression-is-structural/)在能动性中追溯这一频率：变量是下一个动作在未经重新审视时被先前痕迹塑造的频率，而不是内在是否在场。
 
----
+[The NPC Impression Is Structural, Not a Ranking of Minds](../the-npc-impression-is-structural/) traces this frequency in agency: what varies is how often the next act is patterned by prior traces without re-examination, not whether the interior is present.
 
-From the position of observation one can register only downstream phenomena: the grades, the speed of completion, the collapse in performance when the scaffold is removed. These are consequences, effects, symptoms. The actual driver — the succession of choices and the loops they create — does not appear inside the observational field. Nor does the unaccounted cost of misattribution: the progressive thinning of the capacity for self-generated improvement. Collective language, built from averaged scores and institutional narratives, therefore systematically obscures what it claims to explain. In investing the driver is the one who pays for the error, as [The Causal Loop of Investment Decisions](../tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui/) shows.
+## 八、 工具与设计仍是次生的残余 / 8. Tools and Designs Remain Secondary Residue
 
-Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Observation holds effect; the cause that produced it remains one step ahead. That gap is how the look registers at all — of tools, of instruction, of oneself in hindsight. [Consciousness never appears as data among data](../consciousness-never-appears-as-data-among-data/) is that lag under evidence costume: third-person data hold only public effects; the demand that the generating activity appear among them freezes the leading edge as an object in a non-reflexive stratum. [The average is residue, not the engine](../the-average-is-residue-not-the-engine/) is the same freeze when a return rate, residue of many choices under changing selection, is read as the engine of where talent goes. The driver holds a form and exceeds it at once, which [Stability and excess: consciousness, introspection, and the cut of observation](../stability-and-excess/) describes in consciousness.
+其余的一切（工具、教师、研究设计，以及建立在它们之上的诠释）仍是次生的。这些是在生成过程已在进行之后出现的外部描述。当它们被误认作过程本身时，便遮蔽了工具撤走之后进步赖以延续的唯一所在。开头的观察由此得出：工具从来不是全部的解释。遮蔽学习者那一份者，是习惯性地把因果权能配置到学习本身之外这一做法。
 
----
-
-## 六、 自指反思方能定位驱动源泉 / 6. Reflexive Return Locates the Driver
-
-要让真正的驱动力浮现于视野，必须发起一次自指性的反思折返。每一个被观察到的结果，都必须折射回做出选择的行动主体自身。唯有通过这种自我参照，结果背后的成因方能清晰可见。只要一个人依然固守在纯粹的观察者席位上，将自己置身于因果链条之外，生成性的演化过程就永远隐匿不显。这种折返动作永远可作为进一步的离散行动而存在。人与人之间的不同，仅在于每个人执行这一动作的频次。只评判他人的分数而不回到自己的驱动，正是[止步于评判，是认知的歧途](../zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu/)所说的歧途。
-
-[旁观者洞察的悖论性质](../the-paradoxical-nature-of-bystander-insights/) 描述了当单次观察切分被保留为活动本身的本体论时的目光。在此处，那个切分是计分牌；而活动本身，是生成了那些分数的抉择行动。
-
----
-
-To bring the driver into view requires a reflexive movement. Every observed effect must be reflected back onto the choosing agent itself. Only through that self-reference does the cause of the effect become visible. As long as one remains in the pure observer position, treating oneself as external to the causal chain, the generative process stays hidden. The return is always available as a further discrete act. What differs is how often each individual performs it. Judging the scores of others without turning back to one's own driver is the wrong turn [Stopping at Judgment Is a Wrong Turn of Cognition](../zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu/) names.
-
-[The paradoxical nature of bystander insights](../the-paradoxical-nature-of-bystander-insights/) is that look when a single observational cut is preserved as the ontology of the activity. Here the cut is the scoreboard; the activity is the choosing that produced the scores.
-
----
-
-## 七、 关键在反思的频次，而非资源的多寡 / 7. Frequency of Return, Not Unequal Access
-
-那些更频繁进行自指折返的人，始终将因果权力牢牢定位在自己接续的选择之中。他们不断从真正的源头重新生成反馈回路。而那些极少折返的人，则任由旁观者的外部姿态占据主导；即便表层指标可能在短期内上升，他们自我进阶的能力却在悄然流失。这种差异绝非不可更改的天赋资质。它纯粹是每个人在多大程度上、以多高频次夺回那本就属于自己的驱动权力的累积结果。
-
-[NPC印象是结构性的](../the-npc-impression-is-structural/) 是在主体性伪装下的这种频次表达：真正的差异在于下一步行动有多大程度只是沿着先前的痕迹机械展开而未经验察——而绝非内心世界是否存在。
-
----
-
-Those who return more often keep causal power located in their own successive choices. They continually regenerate the feedback loop from its true source. Those who return less often allow the observational, external stance to dominate; the capacity to improve slowly thins even while surface metrics may temporarily rise. The difference is not a fixed endowment. It is the accumulated result of how often each individual reclaims the driver that has always been theirs.
-
-[The NPC impression is structural](../the-npc-impression-is-structural/) is that frequency under agency costume: what varies is how often the next act is patterned by prior traces without re-examination — not whether the interior is present.
-
----
-
-## 八、 工具与设计终究只是次生残差 / 8. Tools and Designs Remain Secondary Residue
-
-其余的一切——工具、导师、课程实验、集体诠释——始终都是次生的。它们不过是生成性过程启动之后才浮现出的外在描述。当它们被误认作过程本身时，便掩盖了唯一能够真正催生进阶的本源。最初的洞察必然在此闭环：问题从来不在于工具。问题在于我们习惯性地将因果权力从学习本身抽离出去。
-
----
-
-Everything else — tools, teachers, study designs, collective interpretations — remains secondary. These are the external descriptions that arise once the generative process is already under way. When they are mistaken for the process itself, they hide the only place where improvement can actually be produced. The original insight follows with necessity: the problem was never the tools. The problem is the habitual allocation of causal power away from learning itself.
+Everything else (tools, teachers, study designs, and the interpretations built on them) remains secondary. These are the external descriptions that arise once the generative process is already under way. When they are mistaken for the process itself, they hide the one place from which improvement carries over once the tool is gone. The opening observation follows: the tools were never the whole account. What hides the learner's part is the habitual allocation of causal power away from learning itself.
