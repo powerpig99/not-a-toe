@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T20:35:44.316Z",
+    "generated_at": "2026-10-20T20:38:51.122Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -353,7 +353,7 @@
       "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "aafc55f7b4d1",
       "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "6ea537e91041",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
-      "content/posts/the-three-shadows-of-the-cut.md": "7c447eb8391e",
+      "content/posts/the-three-shadows-of-the-cut.md": "657c9b34c2cb",
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
       "content/posts/the-twin-paradox-and-the-hidden-observer.md": "f3bca3478db7",
       "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "15c184585b7d",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9644,
-      "unique_directed": 4819,
+      "edges": 9646,
+      "unique_directed": 4820,
       "missing_targets": 0,
-      "one_way": 339,
+      "one_way": 340,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 181
+      "in_degree": 182
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1076,7 +1076,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 181,
+      "in_degree": 182,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -9017,12 +9017,13 @@
       "slug": "the-three-shadows-of-the-cut",
       "path": "content/posts/the-three-shadows-of-the-cut.md",
       "title": "切分的三重影子 / The Three Shadows of the Cut",
-      "hash": "7c447eb8391e",
+      "hash": "657c9b34c2cb",
       "in_degree": 4,
-      "out_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "the-boundary-of-the-frame",
         "the-model-never-becomes-a-second-edge",
+        "beyond-the-projection",
         "the-other-coherence",
         "the-geometry-of-emergence"
       ]
@@ -61215,6 +61216,18 @@
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "the-three-shadows-of-the-cut",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-three-shadows-of-the-cut",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-three-shadows-of-the-cut",
