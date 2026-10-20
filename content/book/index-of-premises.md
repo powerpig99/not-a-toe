@@ -1644,7 +1644,7 @@ Special relativity establishes that time and space vary between relative referen
 
 Emergence narratives claim complex interactions spontaneously generate novel laws; macro-level emergence is the cognitive compression chosen by an observing mind.
 
-→ [Complexity Obscures Emergence as the Act of Mind](../../posts/complexity-obscures-emergence-as-the-act-of-mind/) · [涌现的几何学 / The Geometry of Emergence](../../posts/the-geometry-of-emergence/)
+→ [复杂性遮蔽了涌现之为心智的行动 / Complexity Obscures Emergence as the Act of Mind](../../posts/complexity-obscures-emergence-as-the-act-of-mind/) · [涌现的几何学 / The Geometry of Emergence](../../posts/the-geometry-of-emergence/)
 
 ### 斯多葛主义 / Stoicism
 `哲学 / Philosophical`

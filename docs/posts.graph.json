@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T12:30:35.629Z",
+    "generated_at": "2026-10-20T12:32:55.883Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -43,7 +43,7 @@
       "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "e1426c9fc9cd",
       "content/posts/closed-reality-in-benchmark-maxing.md": "d08874947c2e",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "7c59e734d934",
-      "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "71463c0db072",
+      "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "ef5144285a50",
       "content/posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback.md": "e1c59f1cd3e2",
       "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "cca7ab69ed23",
       "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "604c435b9dab",
@@ -407,11 +407,11 @@
       "content/book/causality.md": "8e1dd347f9fa",
       "content/book/consciousness.md": "84e10ab5f9aa",
       "content/book/economics.md": "0208ea9246ef",
-      "content/book/index-of-premises.md": "f67d1eb9673c",
+      "content/book/index-of-premises.md": "351904e4723d",
       "content/book/intelligence.md": "3798b4f048e6",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
-      "content/book/mathematics.md": "66fcb9366a1f",
+      "content/book/mathematics.md": "d3e02a13d8e7",
       "content/book/meaning-and-transcendence.md": "7a153f15ce09",
       "content/book/method.md": "2e640a1ee76b",
       "content/book/morality.md": "0024610ecad0",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 8791,
-      "unique_directed": 4654,
+      "edges": 8795,
+      "unique_directed": 4655,
       "missing_targets": 0,
-      "one_way": 180,
+      "one_way": 181,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -591,7 +591,7 @@
     },
     {
       "slug": "complexity-obscures-emergence-as-the-act-of-mind",
-      "out_degree": 30
+      "out_degree": 31
     },
     {
       "slug": "two-failures-of-trace",
@@ -1066,7 +1066,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 27,
+      "in_degree": 28,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1543,9 +1543,9 @@
       "slug": "complexity-obscures-emergence-as-the-act-of-mind",
       "path": "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md",
       "title": "复杂性遮蔽了涌现之为心智的行动 / Complexity Obscures Emergence as the Act of Mind",
-      "hash": "71463c0db072",
+      "hash": "ef5144285a50",
       "in_degree": 31,
-      "out_degree": 30,
+      "out_degree": 31,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-flight-analogy-leaves-the-mind-untouched",
@@ -1575,6 +1575,7 @@
         "the-artifacts-of-self-amplification",
         "intelligence-folding-back-on-itself",
         "consciousness-never-appears-as-data-among-data",
+        "beyond-the-projection",
         "a-living-external-cortex",
         "looping-and-graphing"
       ]
@@ -15521,7 +15522,7 @@
       "from": "complexity-obscures-emergence-as-the-act-of-mind",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence Belongs Only to The Mind"
+      "label": "Intelligence Belongs Only to the Mind"
     },
     {
       "from": "complexity-obscures-emergence-as-the-act-of-mind",
@@ -15587,7 +15588,7 @@
       "from": "complexity-obscures-emergence-as-the-act-of-mind",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, Consumption, and the Mind’s Distinction"
+      "label": "Production, Consumption, and the Mind's Distinction"
     },
     {
       "from": "complexity-obscures-emergence-as-the-act-of-mind",
@@ -15635,7 +15636,7 @@
       "from": "complexity-obscures-emergence-as-the-act-of-mind",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, Consumption, and the Mind’s Distinction"
+      "label": "Production, Consumption, and the Mind's Distinction"
     },
     {
       "from": "complexity-obscures-emergence-as-the-act-of-mind",
@@ -15813,18 +15814,6 @@
     },
     {
       "from": "complexity-obscures-emergence-as-the-act-of-mind",
-      "to": "a-living-external-cortex",
-      "rel": "points_to",
-      "label": "活的外部皮层"
-    },
-    {
-      "from": "complexity-obscures-emergence-as-the-act-of-mind",
-      "to": "looping-and-graphing",
-      "rel": "points_to",
-      "label": "回环与成图"
-    },
-    {
-      "from": "complexity-obscures-emergence-as-the-act-of-mind",
       "to": "the-mark-and-the-act",
       "rel": "points_to",
       "label": "The Mark and the Act"
@@ -15861,15 +15850,51 @@
     },
     {
       "from": "complexity-obscures-emergence-as-the-act-of-mind",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "complexity-obscures-emergence-as-the-act-of-mind",
+      "to": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "rel": "points_to",
+      "label": "开放场域中的无损知识不自洽"
+    },
+    {
+      "from": "complexity-obscures-emergence-as-the-act-of-mind",
       "to": "a-living-external-cortex",
       "rel": "points_to",
-      "label": "A Living External Cortex: The Closest the Image Can Come"
+      "label": "活的外部皮层"
     },
     {
       "from": "complexity-obscures-emergence-as-the-act-of-mind",
       "to": "looping-and-graphing",
       "rel": "points_to",
-      "label": "Looping and Graphing: Mind as the Loop of Loops"
+      "label": "回环与成图"
+    },
+    {
+      "from": "complexity-obscures-emergence-as-the-act-of-mind",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "complexity-obscures-emergence-as-the-act-of-mind",
+      "to": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "rel": "points_to",
+      "label": "Lossless Knowledge of an Open Field Is Incoherent"
+    },
+    {
+      "from": "complexity-obscures-emergence-as-the-act-of-mind",
+      "to": "a-living-external-cortex",
+      "rel": "points_to",
+      "label": "A Living External Cortex"
+    },
+    {
+      "from": "complexity-obscures-emergence-as-the-act-of-mind",
+      "to": "looping-and-graphing",
+      "rel": "points_to",
+      "label": "Looping and Graphing"
     },
     {
       "from": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
@@ -62791,7 +62816,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "f67d1eb9673c",
+        "hash": "351904e4723d",
         "out_degree": 396
       },
       {
@@ -62827,7 +62852,7 @@
         "slug": "mathematics",
         "path": "content/book/mathematics.md",
         "title": "数学与逻辑的边界 / The Boundaries of Mathematics and Logic",
-        "hash": "66fcb9366a1f",
+        "hash": "d3e02a13d8e7",
         "out_degree": 20
       },
       {
@@ -64972,7 +64997,7 @@
         "from": "book:index-of-premises",
         "to": "complexity-obscures-emergence-as-the-act-of-mind",
         "rel": "collects",
-        "label": "Complexity Obscures Emergence as the Act of Mind"
+        "label": "复杂性遮蔽了涌现之为心智的行动 / Complexity Obscures Emergence as the Act of Mind"
       },
       {
         "from": "book:index-of-premises",
@@ -68266,7 +68291,7 @@
         "from": "book:mathematics",
         "to": "complexity-obscures-emergence-as-the-act-of-mind",
         "rel": "collects",
-        "label": "Complexity Obscures Emergence as the Act of Mind"
+        "label": "复杂性遮蔽了涌现之为心智的行动 / Complexity Obscures Emergence as the Act of Mind"
       },
       {
         "from": "book:mathematics",
