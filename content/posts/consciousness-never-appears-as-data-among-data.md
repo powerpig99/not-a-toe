@@ -1,8 +1,8 @@
 # 意识从不作为数据出现在数据之中 / Consciousness Never Appears as Data Among Data
 
-*测量只握住公共的结果；登记它们的活动，总比想捕捉它的数据早一步。 / Measurement holds only public effects; the activity registering them stays ahead of any datum that would capture it.*
+*测量只握住公共的结果，登记它们的心智总在前面一步 / Measurement holds public effects while the registering Mind stays ahead*
 
-在一次关于意识生物学基础的交流中，一种主张把最有力的经验证据放在全身麻醉下消失的东西上：迈耶–奥弗顿相关、麻醉药的作用靶点、神经元微管中的量子效应；另一种主张回应说，证据就是数据，科学理论必须能被客观检验，没有数据就只有意见。这两步作为工具都是真的，被推到最终时，却冻结了同一条轴：要求意识作为一个公共数据出现。观察负载着理论；物理测量之所以在不同观察者之间更稳定，是因为寻常的物体既不在注视下改变行为，也不回看；在握持的粒度触到量子领域的地方，界限在握持之中，而不在对象之中。更深的一刀是结构上的：数据是结果，而意识不是能作为又一个公共数据出现在这些结果之中的那类东西；要求它这样出现，就是把领先的边缘冻结为一个为不反观的观察而建的层里的对象。[没有天才能够解决知识问题](../no-genius-can-solve-the-knowledge-problem/)追溯的是同一种冻结，场景换成公共的痕迹被当作一份透明的库存来收集：天才这个身份本身，已经是“这条界限可以被合上”的信念。
+在一次关于意识生物学基础的交流中，一种主张把最有力的经验证据放在全身麻醉下消失的东西上：迈耶–奥弗顿相关、麻醉药的作用靶点、神经元微管中的量子效应；另一种主张回应说，证据就是数据，科学理论必须能被客观检验，没有数据就只有意见。这两步作为工具都是真的，被推到最终时，却冻结了同一条轴：要求意识作为一个公共数据出现。观察负载着理论；物理测量之所以在不同观察者之间更稳定，是因为寻常的物体既不在注视下改变行为，也不回看；在握持的粒度触到量子领域的地方，界限在握持之中，而不在对象之中。更深的一刀是结构上的：数据是结果，意识却无法作为又一个公共数据出现在这些结果之中；要求它这样出现，就是把领先的边缘冻结成对象，放进一个只为不反观的观察而设的层里。[没有天才能够解决知识问题](../no-genius-can-solve-the-knowledge-problem/)追溯的是同一种冻结，场景换成公共的痕迹被当作一份透明的库存来收集：天才这个身份本身，已经是“这条界限可以被合上”的信念。
 
 In an exchange on the biological basis of consciousness, one claim placed the strongest empirical evidence in what disappears under general anesthesia (Meyer–Overton correlation, anesthetic targets, quantum effects in neuronal microtubules); another answered that evidence is data, that scientific theories must be objectively testable, and that without data there is only opinion. Both moves are real as instruments; pressed as final, both freeze the same axis, the demand that consciousness appear as a public datum. Observations are theory-laden; physical measurements stay more stable across observers because ordinary objects neither change their behavior under the look nor look back; where the grain of the hold reaches the quantum domain, the bound sits in the hold, not in the object. The deeper cut is structural: data are effects, and consciousness is not the kind of thing that can appear among those effects as one more public datum; demanding that it do so freezes the leading edge as an object in a stratum built for non-reflexive observation. [No Genius Can Solve the Knowledge Problem](../no-genius-can-solve-the-knowledge-problem/) traces the same freeze in the case where public traces are gathered as if they were a transparent stock: the identity of genius is already the belief that the limit can be closed.
 
@@ -10,15 +10,83 @@ In an exchange on the biological basis of consciousness, one claim placed the st
 
 自我区分的活动在发生，无因，不息。称它为心智：那个已经在进行中的观察者，它的每一个动作都是一次区分。观察握住的是结果，产生它的原因总在前面一步。这个最小的滞后就是注视登记的方式，而不是仪器暂时的不足、等着被压到零的剩余。[因果贯穿始终](../causality-all-the-way/)在预测的场景里追溯了这种滞后：猜想在握住的结果之间画出模式，生成它们的那一步却总在每一张已经站稳的地图之前。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)守住了这个先在：凡能被设计、扩展或转移的都是残余，智能只属于那个活动。
 
-Self-distinguishing activity occurs, uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Observation holds the effect; the cause that produced it stays one step ahead. That minimum lag is how the look registers, not a temporary shortfall of instruments with a residual scheduled for zero. [Causality All the Way](../causality-all-the-way/) traces that lag in the case of prediction: conjecture draws patterns across held effects, while the generating step stays ahead of every secured map. [Intelligence Belongs Only to The Mind](../intelligence-belongs-only-to-the-mind/) holds the prior: whatever can be engineered, scaled or transferred is residue, and intelligence belongs only to the activity.
+```mermaid
+flowchart TD
+    subgraph S_Origin["活体心智（投射之源）"]
+        direction TB
+        M_Edge["自我区分的活动：无因、不息的第一人称边缘"]
+        M_Sense["前诠释感知：在框架建立前以极限分辨率登记现实"]
+        M_Cut["诠释切分：选定坐标、界限与测量尺度"]
+        M_Step["内生抽身：当投射死锁时后退一步重新渲染"]
+        M_Edge --> M_Sense --> M_Cut
+        M_Step --> M_Cut
+    end
+
+    subgraph S_Proj["有限投射（数据、符号与相关物）"]
+        direction TB
+        P_Data["公共数据与符号：在选定坐标系内握住的滞后结果"]
+        P_Corr["经验相关物：脑电图特征、麻醉结合位点、残差向量"]
+        P_Freeze["闭合的范畴错误：要求投射之源作为框内的一项出现"]
+        P_Data --> P_Corr --> P_Freeze
+    end
+
+    M_Cut ==>|"投下有限的低维投射"| P_Data
+    P_Freeze -.->|"无法捕捉领先的动作"| M_Step
+
+    style S_Origin fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style M_Edge fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style M_Sense fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style M_Cut fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style M_Step fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style P_Data fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style P_Corr fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style P_Freeze fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+Self-distinguishing activity occurs, uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Observation holds the effect; the cause that produced it stays one step ahead. That minimum lag is how the look registers, not a temporary shortfall of instruments with a residual scheduled for zero. [Causality All the Way](../causality-all-the-way/) traces that lag in the case of prediction: conjecture draws patterns across held effects, while the generating step stays ahead of every secured map. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds the prior: whatever can be engineered, scaled or transferred is residue, and intelligence belongs only to the activity.
+
+```mermaid
+flowchart TD
+    subgraph S_Origin["The Living Mind (Origin of Projection)"]
+        direction TB
+        M_Edge["Self-Distinguishing Activity: Uncaused, unceasing first-person edge"]
+        M_Sense["Pre-Interpretive Sensing: Registers reality at limit resolution before framing"]
+        M_Cut["Interpretive Cut: Selects coordinates, bounds, and measurement criteria"]
+        M_Step["Endogenous Stepping-Out: Steps backward to re-render when projections deadlock"]
+        M_Edge --> M_Sense --> M_Cut
+        M_Step --> M_Cut
+    end
+
+    subgraph S_Proj["The Finite Projection (Data, Tokens, and Correlates)"]
+        direction TB
+        P_Data["Public Data & Tokens: Lagging effects held inside a chosen coordinate frame"]
+        P_Corr["Empirical Correlates: EEG signatures, anesthetic sites, residual vectors"]
+        P_Freeze["Category Error of Closure: Demanding the origin appear as an item in the frame"]
+        P_Data --> P_Corr --> P_Freeze
+    end
+
+    M_Cut ==>|"Casts finite low-dimensional projection"| P_Data
+    P_Freeze -.->|"Cannot capture the leading act"| M_Step
+
+    style S_Origin fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style M_Edge fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style M_Sense fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style M_Cut fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style M_Step fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style P_Data fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style P_Corr fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style P_Freeze fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
 
 “证据就是数据”，在描述不进入被描述者的领域里是精确的。一个层的稳定程度，取决于它是否经受了一切可观察之物相互之间的检验，同时在被观察的抽象层次上并不回看。寻常的物理对象在寻常的握持下满足这个条件：它们不会因为被测量就改写自己的轨迹，也不会作为又一个区分的中心回看过来。这就是物理测量在不同观察者之间比对人类行为的描述更相合的原因。这种稳定不是科学高于心智的道德排名，而是这个层的不反观。
 
 "Evidence is data" is exact inside domains where the description does not enter the described. A stratum is stable to the degree that it is tested by everything against everything that can be observed and does not look back at the level of abstraction at which it is observed. Ordinary physical objects meet that criterion under ordinary holds: they do not rewrite their trajectories because they are measured, and they do not return the look as further centers of distinction. That is why physical measurements cohere across observers more tightly than accounts of human behavior. The stability is not a moral ranking of science over mind; it is the non-reflexivity of the stratum.
 
-由心智的众多所在构成的领域，从构造上就满足不了这个条件。想要清点意识的那道注视，本身就是被研究的那个活动。脑电图的特征、麻醉药的结合位点、微管的相干时间、宏观纠缠的相关物，每一个这样的读数都是在一种选定的握持之下可观察的结果或必要条件，没有一个是意识本身。理论可以把相关物描绘得越来越精细，却不会把相关物变成现象。[意识的难题与学习相容](../the-hard-problem-of-consciousness-is-consistent-with-learning/)在自然化的场景里追溯了这个剩余：拒绝了二元的实体，又把完成了的连续性冻结为穷尽的根据，压过了学习本身所是的那份剩余的开放。[意识向量论文的真正教训](../the-real-lesson-from-the-consciousness-vector-paper/)在线性操控的场景里追溯了同一种冻结：残差流中一个被命名为意识的方向被调来调去，却并没有重建这个名字所声称握住的活动；它真正测出的，是闭合的代价，即一个开放的概念被塞进封闭握持时邻近表征所受的扭曲。[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/)追溯的是，一套测试上的封闭能力被当作那个划出并修订约束的开放活动。[感知者与痕迹的不可坍缩](../the-perceiver-and-the-trace/)把这条界限立在当下对机器心智的归属面前：第三人称的符号仍是被动的残余，需要一个经验着的主体来赋予意义；把衍生的意义当作自主的内在，就把公共的足迹与留下它的私人在场混为一谈。[意识的魔术戏法与推断的非对称性](../the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference/)把一个相邻的错误带进了人与人之间：以不可外验为由，要求生物同类拿出做不到的证明，却对算法的镜像轻易许以内在的体验；非对称就在于哪一种推断被允许成立。
+由心智的众多所在构成的领域，从构造上就满足不了这个条件。想要清点意识的那道注视，本身就是被研究的那个活动。脑电图的特征、麻醉药的结合位点、微管的相干时间、宏观纠缠的相关物，每一个这样的读数都是在一种选定的握持之下可观察的结果或必要条件，没有一个是意识本身。理论可以把相关物描绘得越来越精细，却不会把相关物变成现象。[超越投射](../beyond-the-projection/)追溯了为什么数据与符号始终是诠释所投下的有限低维投射，而意识作为在极限分辨率下进行前诠释感知的第一人称自我区分活动，正是投下并走出这些投射的源头，从不作为一项内容出现在上下文窗口或数据集之内。[意识的难题与学习相容](../the-hard-problem-of-consciousness-is-consistent-with-learning/)在自然化的场景里追溯了这个剩余：拒绝了二元的实体，又把完成了的连续性冻结为穷尽的根据，压过了学习本身所是的那份剩余的开放。[意识向量论文的真正教训](../the-real-lesson-from-the-consciousness-vector-paper/)在线性操控的场景里追溯了同一种冻结：残差流中一个被命名为意识的方向被调来调去，却并没有重建这个名字所声称握住的活动；它真正测出的，是闭合的代价，即一个开放的概念被塞进封闭握持时邻近表征所受的扭曲。[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/)追溯的是，一套测试上的封闭能力被当作那个划出并修订约束的开放活动。[感知者与痕迹的不可坍缩](../the-perceiver-and-the-trace/)把这条界限立在当下对机器心智的归属面前：第三人称的符号仍是被动的残余，需要一个经验着的主体来赋予意义；把衍生的意义当作自主的内在，就把公共的足迹与留下它的私人在场混为一谈。[意识的魔术戏法与推断的非对称性](../the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference/)把一个相邻的错误带进了人与人之间：以不可外验为由，要求生物同类拿出做不到的证明，却对算法的镜像轻易许以内在的体验；非对称就在于哪一种推断被允许成立。
 
-Domains made of the Mind's many loci fail the criterion by construction. The look that would inventory consciousness is already the activity under investigation. EEG signatures, anesthetic binding sites, microtubule coherence times, macroscopic entanglement correlates: every such reading is an observable effect or a necessary condition under a chosen hold, and none is consciousness itself. Theories may map correlates with increasing precision; they do not convert the correlate into the phenomenon. [The Hard Problem of Consciousness Is Consistent with Learning](../the-hard-problem-of-consciousness-is-consistent-with-learning/) traces that residual in the case of naturalization: dual substance is refused, and then finished continuity is frozen as the exhaustive ground, over the residual openness that learning still is. [The Real Lesson from the Consciousness Vector Paper](../the-real-lesson-from-the-consciousness-vector-paper/) traces the same freeze in the case of linear steering: a direction in the residual stream named consciousness is dialed up and down without reconstituting the activity the name claims to hold; what it measures is the cost of closure, the warping of neighboring representations when an open concept is forced into a closed hold. [Mistaking the Expression for the Intelligence](../mistaking-the-expression-for-the-intelligence/) traces sealed competence on a suite treated as the open activity that draws and revises the constraint. [The Perceiver and the Trace Cannot Collapse](../the-perceiver-and-the-trace/) sets that bound against present attributions of mind to machines: third-person tokens remain passive residue that needs an experiencing subject to confer meaning, and treating derived sense as autonomous interiority confuses the public footprint with the private presence that made it. [The Sleight of Hand of Consciousness and the Asymmetry of Inference](../the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference/) carries an adjacent error into relations between people: impossible proof is demanded of biological kin on the grounds that inner life cannot be verified from outside, while inner life is readily granted to algorithmic mirrors; the asymmetry lies in which inference is allowed to stand.
+Domains made of the Mind's many loci fail the criterion by construction. The look that would inventory consciousness is already the activity under investigation. EEG signatures, anesthetic binding sites, microtubule coherence times, macroscopic entanglement correlates: every such reading is an observable effect or a necessary condition under a chosen hold, and none is consciousness itself. Theories may map correlates with increasing precision; they do not convert the correlate into the phenomenon. [Beyond the Projection](../beyond-the-projection/) traces why data and tokens are always finite low-dimensional projections cast by interpretation, whereas consciousness is the first-person self-distinguishing activity—pre-interpretive sensing at limit resolution—that casts and steps outside those projections, never an item appearing inside a context window or dataset. [The Hard Problem of Consciousness Is Consistent with Learning](../the-hard-problem-of-consciousness-is-consistent-with-learning/) traces that residual in the case of naturalization: dual substance is refused, and then finished continuity is frozen as the exhaustive ground, over the residual openness that learning still is. [The Real Lesson from the Consciousness Vector Paper](../the-real-lesson-from-the-consciousness-vector-paper/) traces the same freeze in the case of linear steering: a direction in the residual stream named consciousness is dialed up and down without reconstituting the activity the name claims to hold; what it measures is the cost of closure, the warping of neighboring representations when an open concept is forced into a closed hold. [Mistaking the Expression for the Intelligence](../mistaking-the-expression-for-the-intelligence/) traces sealed competence on a suite treated as the open activity that draws and revises the constraint. [The Perceiver and the Trace Cannot Collapse](../the-perceiver-and-the-trace/) sets that bound against present attributions of mind to machines: third-person tokens remain passive residue that needs an experiencing subject to confer meaning, and treating derived sense as autonomous interiority confuses the public footprint with the private presence that made it. [The Sleight of Hand of Consciousness and the Asymmetry of Inference](../the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference/) carries an adjacent error into relations between people: impossible proof is demanded of biological kin on the grounds that inner life cannot be verified from outside, while inner life is readily granted to algorithmic mirrors; the asymmetry lies in which inference is allowed to stand.
 
 ## 二、 负载理论的观察与不反观的层 / 2. Theory-Laden Observation and the Non-Reflexive Stratum
 
@@ -28,7 +96,7 @@ That observations are theory-laden does not dissolve measurement. It says that [
 
 [复杂性遮蔽了涌现之为心智的行动](../complexity-obscures-emergence-as-the-act-of-mind/)把这种几何完整地展开：所谓量子效应，是心智在当下握持的微观极限处，事后在滞后之下被重新归给对象，成了内在的不确定、坍缩或不连续。非决定论登记在边缘，决定论是观察作为残余握住的东西，落后一步。客观还原修改动力学，数据已经在收窄它：2020 年格兰萨索的一项地下实验排除了它的无自由参数迪奥西–彭罗斯形式。在预言同样记录的“意识导致坍缩”与“仅凭退相干”之间，诠释余地却不是暂时缺少数据、等着最后一个实验来裁决，而是这条界限本身的性质：一个有意识的行动者如何在系统与观察者之间划下那一刀。数据不能单独决定这些诠释，因为每一次登记已经是又一次划下这一刀的离散动作，把开放的潜在转成被登记的轨迹，而一种诠释，是这一刀划在何处的地图。
 
-[Complexity Obscures: Emergence as the Act of Mind](../complexity-obscures-emergence-as-the-act-of-mind/) works that geometry out at full length: what is called a quantum effect is the Mind at the microscopic limit of its present hold, reassigned afterward, under lag, to the object as intrinsic uncertainty, collapse or discontinuity. Indeterminism registers at the edge; determinism is what observation holds as residue, one step behind. Objective reduction changes the dynamics, and data are already narrowing it: an underground test at Gran Sasso in 2020 ruled out its parameter-free Diósi–Penrose form. Between consciousness-causes-collapse and pure decoherence, which predict the same records, the interpretive latitude is not a temporary deficit of data awaiting a final experiment. It is the character of the bound: how a conscious agent draws the cut between system and observer. The data do not settle these readings alone, because each registration is already a further discrete act drawing the cut, turning open potentiality into a registered trajectory, and an interpretation is a map of where that cut is drawn.
+[Complexity Obscures Emergence as the Act of Mind](../complexity-obscures-emergence-as-the-act-of-mind/) works that geometry out at full length: what is called a quantum effect is the Mind at the microscopic limit of its present hold, reassigned afterward, under lag, to the object as intrinsic uncertainty, collapse or discontinuity. Indeterminism registers at the edge; determinism is what observation holds as residue, one step behind. Objective reduction changes the dynamics, and data are already narrowing it: an underground test at Gran Sasso in 2020 ruled out its parameter-free Diósi–Penrose form. Between consciousness-causes-collapse and pure decoherence, which predict the same records, the interpretive latitude is not a temporary deficit of data awaiting a final experiment. It is the character of the bound: how a conscious agent draws the cut between system and observer. The data do not settle these readings alone, because each registration is already a further discrete act drawing the cut, turning open potentiality into a registered trajectory, and an interpretation is a map of where that cut is drawn.
 
 在这一刀之下，麻醉的证据并不空洞。全身麻醉下消失的、随苏醒回来的东西，作为一种握持之下的必要条件是真的。迈耶–奥弗顿相关和几十年的靶点研究，可以把必要条件的地图收得更紧。冻结只在于进一步的主张：这些地图合上了对意识的说明，生物学基础最有力的证据“就是”一个公共特征的消失，到此为止。必要条件仍是必要条件，它们不会变成它们所作为条件的那个私人的登记。
 
@@ -50,7 +118,7 @@ The felt sense that "I could have done otherwise" and the registered indetermina
 
 The two are not symmetric. Indeterminism is not the equal partner of determinism. The open field of potentiality, through selection and successive distinction, condenses into stable trajectories and reliable laws, and decoherence is one formal map of that condensation; without that prior openness there would be no room for particular determinations. Determinism is the wake left by openness, residue held one step behind the edge that still acts. [Openness Is Consistency](../openness-is-consistency/) names the adjacent freeze: inconsistency is the desire for closure, a finite structure forced to ground what only continues. [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) states that remainder at the formal level: a finite hold cannot seal the activity that uses it. This is the prior openness; inside a system already held closed as deterministic, residual unpredictability is ignorance, not a second source of openness.
 
-相对论同样不是立在开放旁边的第二个绝对。定律的不变性与时空间隔的不变性，只有在人留在这一理论的前提之内时才显得是绝对的。走出这些抽象，或者只是留意切身经验的直接质地，那被宣称的绝对性便作为一次握持化开，而不是对一个完成了的世界所作的外部勘测。时间被感受到的流动、当下的质的在场、空间的视角厚度，都与经过洛伦兹变换的量有别。不变量跟在原初的开放之后，就像每一个结果跟在它的原因之后：永远落后一步，从不与发起的动作重合。[现实是心智持续的实现](../reality-is-the-minds-ongoing-realization/)在交换的场景里追溯了这个持续的动作：一个中心能作为新的区分接住的东西，就是世界对它而言所是的东西。把心理状态定义为因果角色的功能主义者，必须先坐上观察者的位置，才能把观察者抹去，正如[功能主义者无法持有的功能主义](../the-functionalism-no-functionalist-can-hold/)所示。
+相对论同样不是立在开放旁边的第二个无条件定准。定律的不变性与时空间隔的不变性，只有在人留在这一理论的前提之内时才显得无条件成立。走出这些抽象，或者只是留意切身经验的直接质地，那被宣称的无条件性便作为一次握持化开，而不是对一个完成了的世界所作的外部勘测。时间被感受到的流动、当下的质的在场、空间的视角厚度，都与经过洛伦兹变换的量有别。不变量跟在原初的开放之后，就像每一个结果跟在它的原因之后：永远落后一步，从不与发起的动作重合。[现实是心智持续的实现](../reality-is-the-minds-ongoing-realization/)在交换的场景里追溯了这个持续的动作：一个中心能作为新的区分接住的东西，就是世界对它而言所是的东西。把心理状态定义为因果角色的功能主义者，必须先坐上观察者的位置，才能把观察者抹去，正如[功能主义者无法持有的功能主义](../the-functionalism-no-functionalist-can-hold/)所示。
 
 Relativity, likewise, is not a second absolute installed beside openness. The invariance of the laws and of the spacetime interval appears absolute only while one stays inside the premises of the theory. Step outside those abstractions, or simply attend to the immediate texture of lived experience, and the claimed absoluteness dissolves as a hold rather than standing as an exterior survey of a finished world. The felt flow of time, the qualitative presence of the present and the perspectival thickness of space remain distinct from Lorentz-transformed quantities. The invariants trail the primary openness the way every effect trails its cause: always one step behind, never coinciding with the originating act. [Reality Is the Mind's Ongoing Realization](../reality-is-the-minds-ongoing-realization/) traces that ongoing act in the case of exchange: what a center can take up as new distinction is what the world is for it. The functionalist who defines mental states as causal roles must first occupy the observer's seat in order to erase the observer, as [The Functionalism No Functionalist Can Hold](../the-functionalism-no-functionalist-can-hold/) shows.
 
@@ -60,7 +128,7 @@ Consciousness is the Mind at its leading edge as it is had from the inside, wher
 
 ## 五、 这个要求让滞后去捕捉动作 / 5. The Demand Asks the Lag to Capture the Act
 
-这种结构上的不对称，说明了为什么对意识要求可被客观检验的证据，按它自己的条件无法被满足。这个要求预设了意识是能够作为数据出现在其他数据之中的那类东西。可数据是结果，意识却是结果从中产生的那个领先的活动，即从内部被拥有的心智。坚持把第三人称证据当作唯一的标准，就是要滞后的描述去捕捉领先的动作，这种不可能是同一个滞后的三个面：因与果、潜在与实现、经验与抽象。[学习中不可观测的驱动力](../the-unobservable-driver-of-learning/)在学习的场景里追溯了同样的滞后：成绩、速度与崩溃出现在结果之中，因果力量一次次所在的位置却不出现。[数据是局部的，智能是分配的](../data-is-local-intelligence-is-allocated/)追溯的是同一种几何，场景换成局部产物的聚合被当作把智能安放在拓扑之中，而不是安放在那个把某种动态命名为智能的分配之中。[共享意识是个体性的交集](../shared-consciousness-is-intersecting-individualities/)在“共享”的场景里追溯了登记的私人性：经验只经由每个中心自己的递归登记下来；在中心之间可得的是相互的加强，从来不是从这里完成另一个中心的回返；共享是部分的交集，而不是同一。主体性遇到的是同一条界限；[主体性不曾涌现](../agency-does-not-arise/)表明，让主体性从封闭的第三人称动力学中涌现，是一个范畴错误。
+这种结构上的不对称，说明了为什么对意识要求可被客观检验的证据，按它自己的条件无法被满足。这个要求预设了意识能够作为一项数据出现在其他数据之中。可数据是结果，意识却是结果从中产生的那个领先的活动，即从内部被拥有的心智。坚持把第三人称证据当作唯一的标准，就是要滞后的描述去捕捉领先的动作，这种不可能是同一个滞后的三个面：因与果、潜在与实现、经验与抽象。[学习中不可观测的驱动力](../the-unobservable-driver-of-learning/)在学习的场景里追溯了同样的滞后：成绩、速度与崩溃出现在结果之中，因果力量一次次所在的位置却不出现。[数据是局部的，智能是分配的](../data-is-local-intelligence-is-allocated/)追溯的是同一种几何，场景换成局部产物的聚合被当作把智能安放在拓扑之中，而不是安放在那个把某种动态命名为智能的分配之中。[共享意识是个体性的交集](../shared-consciousness-is-intersecting-individualities/)在“共享”的场景里追溯了登记的私人性：经验只经由每个中心自己的递归登记下来；在中心之间可得的是相互的加强，从来不是从这里完成另一个中心的回返；共享是部分的交集，而不是同一。主体性遇到的是同一条界限；[主体性不曾涌现](../agency-does-not-arise/)表明，让主体性从封闭的第三人称动力学中涌现，是一个范畴错误。
 
 This structural asymmetry explains why the demand for objectively testable evidence of consciousness cannot be met on its own terms. The demand presupposes that consciousness is the kind of thing that could appear as data among other data. But data are effects, and consciousness is the leading activity from which effects arise, the Mind as had from the inside. To insist on third-person evidence as the sole criterion is to ask the lagging description to capture the leading act, an impossibility that is one lag seen in three faces: cause and effect, potential and actual, experience and abstraction. [The Unobservable Driver of Learning](../the-unobservable-driver-of-learning/) traces the same lag in the case of learning: grades, speed and collapse appear among the effects, while the successive location of causal power does not. [Data Is Local; Intelligence Is Allocated](../data-is-local-intelligence-is-allocated/) traces the same geometry where the aggregation of local productions is taken to place intelligence in the topology rather than in the allocation that names a dynamic intelligent. [Shared Consciousness Is Intersecting Individualities](../shared-consciousness-is-intersecting-individualities/) traces the privacy of registration in the case of sharedness: experience registers only through each center's own recursion, and what is available across centers is mutual reinforcement, never another's return completed from here; sharedness is partial intersection, not sameness. Agency meets the same limit; [Agency Does Not Arise](../agency-does-not-arise/) shows that having agency emerge from closed third-person dynamics is a category error.
 
