@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T20:22:52.357Z",
+    "generated_at": "2026-10-20T20:25:56.042Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -196,7 +196,7 @@
       "content/posts/the-allocation-of-causal-power-in-validation.md": "f3c8e3c7b4a1",
       "content/posts/the-arithmetic-of-the-register.md": "86f3d0b75926",
       "content/posts/the-artifacts-of-self-amplification.md": "bf6f8b7e7e09",
-      "content/posts/the-asymmetry-of-understanding.md": "abb8bebb125a",
+      "content/posts/the-asymmetry-of-understanding.md": "9e3603147d4e",
       "content/posts/the-average-is-residue-not-the-engine.md": "34bdb8bd956e",
       "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md": "ba998bcd09f1",
       "content/posts/the-bank-shot-and-the-magic-trick.md": "2f2534e90b66",
@@ -329,7 +329,7 @@
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "da0c0cd6c3f8",
       "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "5d5ae354856a",
       "content/posts/the-reflexive-dilemma-of-unique-insight.md": "e0b2f868f3d1",
-      "content/posts/the-residue-and-the-free-variable.md": "eb7e4af88ac4",
+      "content/posts/the-residue-and-the-free-variable.md": "55bcd32620e5",
       "content/posts/the-returning-signal-and-its-claim.md": "b8be66b1e8f5",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "a8aa84581a70",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "7940d13c303b",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9614,
-      "unique_directed": 4811,
+      "edges": 9622,
+      "unique_directed": 4814,
       "missing_targets": 0,
-      "one_way": 333,
+      "one_way": 334,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 174
+      "in_degree": 176
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1075,7 +1075,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 174,
+      "in_degree": 176,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -5436,15 +5436,17 @@
       "slug": "the-asymmetry-of-understanding",
       "path": "content/posts/the-asymmetry-of-understanding.md",
       "title": "理解的非对称性 / The Asymmetry of Understanding",
-      "hash": "abb8bebb125a",
+      "hash": "9e3603147d4e",
       "in_degree": 6,
-      "out_degree": 5,
+      "out_degree": 7,
       "links_out": [
         "the-shadow-and-the-infinite",
         "the-invisible-observer-and-the-delusion-of-lossless-transmission",
-        "trusting-the-reader-is-the-last-overstep",
+        "the-returning-signal-and-its-claim",
         "the-reversal-of-education-and-science",
-        "the-capability-reversal-of-empathy-and-the-contest-of-boundaries"
+        "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+        "trusting-the-reader-is-the-last-overstep",
+        "beyond-the-projection"
       ]
     },
     {
@@ -8403,11 +8405,12 @@
       "slug": "the-residue-and-the-free-variable",
       "path": "content/posts/the-residue-and-the-free-variable.md",
       "title": "残余与自由变量 / The Residue and the Free Variable",
-      "hash": "eb7e4af88ac4",
+      "hash": "55bcd32620e5",
       "in_degree": 7,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
+        "beyond-the-projection",
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
         "fixed-by-nothing",
         "the-illusion-of-the-shared-sandbox",
@@ -8421,7 +8424,7 @@
       "path": "content/posts/the-returning-signal-and-its-claim.md",
       "title": "回返的信号与认领 / The Returning Signal and Its Claim",
       "hash": "b8be66b1e8f5",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 9,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
@@ -40270,15 +40273,15 @@
     },
     {
       "from": "the-asymmetry-of-understanding",
-      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
-      "rel": "points_to",
-      "label": "观察者的隐身与无损传递的妄念"
-    },
-    {
-      "from": "the-asymmetry-of-understanding",
       "to": "the-shadow-and-the-infinite",
       "rel": "points_to",
       "label": "The Shadow and the Infinite"
+    },
+    {
+      "from": "the-asymmetry-of-understanding",
+      "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "rel": "points_to",
+      "label": "观察者的隐身与无损传递的妄念"
     },
     {
       "from": "the-asymmetry-of-understanding",
@@ -40288,9 +40291,15 @@
     },
     {
       "from": "the-asymmetry-of-understanding",
-      "to": "trusting-the-reader-is-the-last-overstep",
+      "to": "the-returning-signal-and-its-claim",
       "rel": "points_to",
-      "label": "信任读者是最后的越界"
+      "label": "回返的信号与认领"
+    },
+    {
+      "from": "the-asymmetry-of-understanding",
+      "to": "the-returning-signal-and-its-claim",
+      "rel": "points_to",
+      "label": "The Returning Signal and Its Claim"
     },
     {
       "from": "the-asymmetry-of-understanding",
@@ -40300,9 +40309,27 @@
     },
     {
       "from": "the-asymmetry-of-understanding",
+      "to": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "rel": "points_to",
+      "label": "共情的能力倒错与边界的排序之争"
+    },
+    {
+      "from": "the-asymmetry-of-understanding",
       "to": "the-reversal-of-education-and-science",
       "rel": "points_to",
       "label": "The Inversion of Education and Science"
+    },
+    {
+      "from": "the-asymmetry-of-understanding",
+      "to": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "rel": "points_to",
+      "label": "The Capability Reversal of Empathy and the Contest of Boundaries"
+    },
+    {
+      "from": "the-asymmetry-of-understanding",
+      "to": "trusting-the-reader-is-the-last-overstep",
+      "rel": "points_to",
+      "label": "信任读者是最后的越界"
     },
     {
       "from": "the-asymmetry-of-understanding",
@@ -40312,15 +40339,15 @@
     },
     {
       "from": "the-asymmetry-of-understanding",
-      "to": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "to": "beyond-the-projection",
       "rel": "points_to",
-      "label": "共情的能力倒错与边界的排序之争"
+      "label": "超越投射"
     },
     {
       "from": "the-asymmetry-of-understanding",
-      "to": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "to": "beyond-the-projection",
       "rel": "points_to",
-      "label": "The Capability Reversal of Empathy and the Contest of Boundaries"
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-average-is-residue-not-the-engine",
@@ -57172,6 +57199,18 @@
     },
     {
       "from": "the-residue-and-the-free-variable",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-residue-and-the-free-variable",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-residue-and-the-free-variable",
       "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "rel": "points_to",
       "label": "确定性是微观不确定性的统计签名"
@@ -57196,21 +57235,33 @@
     },
     {
       "from": "the-residue-and-the-free-variable",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-residue-and-the-free-variable",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-residue-and-the-free-variable",
       "to": "the-illusion-of-the-shared-sandbox",
       "rel": "points_to",
       "label": "共享沙盒的幻象"
     },
     {
       "from": "the-residue-and-the-free-variable",
-      "to": "the-illusion-of-the-shared-sandbox",
-      "rel": "points_to",
-      "label": "The Illusion of the Shared Sandbox"
-    },
-    {
-      "from": "the-residue-and-the-free-variable",
       "to": "the-free-variable-and-the-retrospective-illusion-of-power",
       "rel": "points_to",
       "label": "隐性自由变量与权力的事后幻相"
+    },
+    {
+      "from": "the-residue-and-the-free-variable",
+      "to": "the-illusion-of-the-shared-sandbox",
+      "rel": "points_to",
+      "label": "The Illusion of the Shared Sandbox"
     },
     {
       "from": "the-residue-and-the-free-variable",
