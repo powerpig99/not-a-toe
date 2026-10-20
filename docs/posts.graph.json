@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T19:06:10.059Z",
+    "generated_at": "2026-10-20T19:12:16.391Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -169,7 +169,7 @@
       "content/posts/reality-is-the-minds-ongoing-realization.md": "366872eae4b8",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "cd3ec066c2f8",
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "f85879109b9b",
-      "content/posts/residual-control-recedes-to-the-edge.md": "48dea51167fd",
+      "content/posts/residual-control-recedes-to-the-edge.md": "2a58a4d8204b",
       "content/posts/residual-individualism.md": "b3c7a0af86ff",
       "content/posts/restriction-is-a-selective-tax.md": "9eb2991f975e",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9507,
-      "unique_directed": 4780,
+      "edges": 9511,
+      "unique_directed": 4781,
       "missing_targets": 0,
-      "one_way": 302,
+      "one_way": 303,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 147
+      "in_degree": 148
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1073,7 +1073,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 147,
+      "in_degree": 148,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -4700,10 +4700,11 @@
       "slug": "residual-control-recedes-to-the-edge",
       "path": "content/posts/residual-control-recedes-to-the-edge.md",
       "title": "要紧的控制迁往边缘 / Essential Control Moves to the Edge",
-      "hash": "48dea51167fd",
+      "hash": "2a58a4d8204b",
       "in_degree": 8,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
+        "beyond-the-projection",
         "causality-stays-at-the-edge-that-steers",
         "whatever-is-one-prompt-away",
         "ownership-and-self-worthiness",
@@ -35607,6 +35608,18 @@
     },
     {
       "from": "residual-control-recedes-to-the-edge",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "residual-control-recedes-to-the-edge",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "residual-control-recedes-to-the-edge",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
       "label": "因果停留在掌舵的边缘"
@@ -35628,6 +35641,18 @@
       "to": "whatever-is-one-prompt-away",
       "rel": "points_to",
       "label": "Whatever Is One Prompt Away"
+    },
+    {
+      "from": "residual-control-recedes-to-the-edge",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "residual-control-recedes-to-the-edge",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "residual-control-recedes-to-the-edge",
