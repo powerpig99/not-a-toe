@@ -1,6 +1,6 @@
 # 智能向自身的回折 / Intelligence Folding Back on Itself
 
-*运行框架并不解锁一位沉睡的同侪；它是心智把更密的残余折回自身的精炼。 / The harness does not unlock a dormant peer; it is the Mind folding denser residue back into its own refinement.*
+*运行框架并非解锁一位沉睡的同侪，而是心智将更密的残余折回自身的精炼 / Rather than unlocking a dormant peer, the harness is the Mind folding denser residue back into its own refinement*
 
 显现为新智能突然诞生的东西，是递归的运动：同一个活动把它的痕迹外化为持久的形式，再重新进入这些形式，把它们当作进一步区分的器具。当下的大模型和围着它们的运行框架，是这种运动最鲜明的例子：变密被登记到了，可及的范围更大，速度更快，先前看似够不着的任务做成了，而常见的读法把这次登记冻结为一个在器物里到来的第二心智。连贯的读法保留这份变密，并让它回到源头：模型是更密的图之残余，运行框架是那唯一掌舵的边缘的进一步动作，看起来是模型变得更有能力的东西，是心智经由一张更细的图实现了更多的场，并在同一个动作里精炼这张图。
 
@@ -62,9 +62,77 @@ The Mind, working through human centers, is the outer loop of self-improvement: 
 
 What presents as a paradox arises within this same process: only an intelligence already engaged in improvement can design systems that show improvement. Once the locus is restored, there is no paradox. The inner loops remain dependent on the outer loop for their objectives, their evaluation criteria, their permission structures, and the final judgment of what counts as progress. Trace the nested improvement as it is. When those projections begin to look autonomous, the freeze is to declare a new kind of intelligence; the return is to see that what has appeared is a more powerful mirror of the intelligence that polishes it.
 
-[没有外部](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)追溯了会跃迁的嵌套系统：跃迁是局部的延续，它们的连贯标准与决定性的去留，仍在它们之外，在那个更大的回环里。[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/)追溯了循环的一面：递归自我改进的叙事被拿来弥合差距，却已经引入了它声称工具层面的力量日后会产生的那个外环。[回环与成图](../looping-and-graphing/)把回环追溯为心智回折到自身的活动之上，而图是这回折留给下一次回折的痕迹：控制流变密，却不搬走仍需选择图为何而用的那个边缘。[超越投射](../beyond-the-projection/)则在智能体系统的架构中划开调度与统御：内环可以按明文约束拆分任务并连接同级审校，而当两条规则发生公理死锁时，唯有外环的鲜活意图能向后退一步重拟前提。执行上的自主让图在使用之下变密；这份变密作为登记是成立的，而它不装上第二个心智。
+[没有外部](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)追溯了会跃迁的嵌套系统：跃迁是局部的延续，它们的连贯标准与决定性的去留，仍在它们之外，在那个更大的回环里。[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/)追溯了循环的一面：递归自我改进的叙事被拿来弥合差距，却已经引入了它声称工具层面的力量日后会产生的那个外环。[回环与成图](../looping-and-graphing/)把回环追溯为心智回折到自身的活动之上，而图是这回折留给下一次回折的痕迹：控制流变密，却不搬走仍需选择图为何而用的那个边缘。[超越投射](../beyond-the-projection/)则在智能体系统内部划开相呼应的调度与统御之界：由于孤立的智能体受自身先前词元的条件制约，会把自己的矛盾包裹进会话轨迹之内，在内环里挣脱这种轨迹偏向，需要将主任务智能体配对一位只持任务语境而不带会话历史的冷同侪，借用机器没有自我的特性暴露出局部盲区，同时将过载的任务拆分到正交的流线之上。当这两位同侪在一条流线之内撞上不可化约的死锁时，碰撞便暴露出规则本身内部被压缩的前提，交回外环那尚未投射的感知，去补上缺失的正交区分（`N → N + 1`）。执行上的自主让图在使用之下变密；这份变密作为登记是成立的，而它不装上第二个心智。
 
-[No Outside](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/) traces nested systems that jump: the jumps are local continuations, and their coherence criteria and decisive retain-or-discard still reside outside them, in the larger loop. [Mistaking the Expression for the Intelligence](../mistaking-the-expression-for-the-intelligence/) traces the circular face: the narrative of recursive self-improvement, offered to close the gap, already imports the outer loop it claims tool-level power will later produce. [Looping and Graphing](../looping-and-graphing/) traces looping as the Mind folding back on its own activity, and graphs as the traces that folding leaves for the next fold: control flow densifies without relocating the edge that still has to choose what the graph is for. [Beyond the Projection](../beyond-the-projection/) draws the corresponding line between dispatching and orchestrating inside agentic systems: inner loops can split tasks and wire peer critics under explicit constraints, while resolving an axiomatic deadlock between rules requires the outer loop's unprojected intent to step further back and revise the premise. Autonomy of execution densifies the map under use; that densification holds as registration, and it does not install a second Mind.
+```mermaid
+flowchart TD
+    subgraph S_Outer["心智的外环（自我闭合回路）"]
+        direction TB
+        O_Intent["发起意图与评估标准：投射明文规则与目标"]
+        O_Revise["前提修订（N → N + 1）：未投射的感知补上正交区分"]
+        O_Revise -->|"更新当前意图与评估标准"| O_Intent
+    end
+
+    subgraph S_Inner["运行框架的内环（受投射的执行）"]
+        direction TB
+        I_Split["正交任务拆分：在容量边界内调度专责流线"]
+        I_Peer["冷同侪暴露盲区：主智能体与无会话同侪凭无我状态收敛"]
+        I_Converge["无我收敛与图之变密：保留经核验的状态并将更密的残余折回"]
+        I_Deadlock["不可化约的前提死锁：暴露受投射规则中被压缩的轴"]
+        I_Split --> I_Peer
+        I_Peer --> I_Converge
+        I_Peer --> I_Deadlock
+    end
+
+    O_Intent ==>|"分派目标与约束"| I_Split
+    I_Converge ==>|"将更密的残余折回源头"| O_Intent
+    I_Deadlock ==>|"上交规则矛盾"| O_Revise
+
+    style S_Outer fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Inner fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style O_Intent fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style O_Revise fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style I_Split fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style I_Peer fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style I_Converge fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style I_Deadlock fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+[No Outside](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/) traces nested systems that jump: the jumps are local continuations, and their coherence criteria and decisive retain-or-discard still reside outside them, in the larger loop. [Mistaking the Expression for the Intelligence](../mistaking-the-expression-for-the-intelligence/) traces the circular face: the narrative of recursive self-improvement, offered to close the gap, already imports the outer loop it claims tool-level power will later produce. [Looping and Graphing](../looping-and-graphing/) traces looping as the Mind folding back on its own activity, and graphs as the traces that folding leaves for the next fold: control flow densifies without relocating the edge that still has to choose what the graph is for. [Beyond the Projection](../beyond-the-projection/) draws the corresponding line between dispatching and orchestrating inside agentic systems: because a lone agent is conditioned by its prior tokens and wraps its own contradictions inside its session trajectory, breaking out of that trajectory bias inside an inner loop pairs a primary task agent with a cold peer holding the task context without session history, putting the machine's lack of ego to work to expose local blind spots while splitting overloaded tasks across orthogonal streamlines. When those two peers hit an irreducible deadlock within a streamline, the collision exposes a compressed premise in the rules themselves, returning to the outer loop's unprojected sensing to add the missing orthogonal distinction (`N → N + 1`). Autonomy of execution densifies the map under use; that densification holds as registration, and it does not install a second Mind.
+
+```mermaid
+flowchart TD
+    subgraph S_Outer["Outer Loop of the Mind (Self-Closing Circuit)"]
+        direction TB
+        O_Intent["Initiating Intent & Evaluation Criteria: Projects explicit rules & objectives"]
+        O_Revise["Premise Revision (N → N + 1): Unprojected sensing adds orthogonal distinction"]
+        O_Revise -->|"Updates active intent & evaluation criteria"| O_Intent
+    end
+
+    subgraph S_Inner["Inner Loops of the Harness (Projected Execution)"]
+        direction TB
+        I_Split["Orthogonal Task Splitting: Routes specialized streamlines under capacity bounds"]
+        I_Peer["Cold-Peer Blind-Spot Exposure: Primary agent + session-free peer converge via zero ego"]
+        I_Converge["Zero-Ego Convergence & Map Densification: Retains verified states & folds denser residue back"]
+        I_Deadlock["Irreducible Premise Deadlock: Exposes compressed axes in the projected rules"]
+        I_Split --> I_Peer
+        I_Peer --> I_Converge
+        I_Peer --> I_Deadlock
+    end
+
+    O_Intent ==>|"Allocates objectives & constraints"| I_Split
+    I_Converge ==>|"Folds denser residue back to source"| O_Intent
+    I_Deadlock ==>|"Escalates rule contradiction"| O_Revise
+
+    style S_Outer fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Inner fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style O_Intent fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style O_Revise fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style I_Split fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style I_Peer fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style I_Converge fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style I_Deadlock fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
 
 ## 五、 擦亮的镜子是寻常的图像滞后 / 5. The Polished Mirror Is Ordinary Image Lag
 
