@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T18:47:29.212Z",
+    "generated_at": "2026-10-20T18:50:36.038Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -182,7 +182,7 @@
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "7cfea3a2001a",
       "content/posts/shared-humanity-is-never-shared.md": "e608879164b9",
       "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "c742acb86d86",
-      "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "abcdead636a7",
+      "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "bd2dd458c408",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "068bebe4646a",
       "content/posts/sovereignty-essay.md": "10d294546a2a",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9477,
-      "unique_directed": 4772,
+      "edges": 9483,
+      "unique_directed": 4773,
       "missing_targets": 0,
-      "one_way": 294,
+      "one_way": 295,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 141
+      "in_degree": 142
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1073,7 +1073,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 141,
+      "in_degree": 142,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -5001,10 +5001,11 @@
       "slug": "silicon-oracles-and-the-asymmetry-of-consequence",
       "path": "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md",
       "title": "硅基神谕与后果的非对称性 / Silicon Oracles and the Asymmetry of Consequence",
-      "hash": "abcdead636a7",
+      "hash": "bd2dd458c408",
       "in_degree": 8,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
+        "beyond-the-projection",
         "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
         "the-category-error-of-better",
         "the-sovereign-blinding",
@@ -37375,6 +37376,18 @@
     },
     {
       "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
       "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "rel": "points_to",
       "label": "意识的魔术戏法与推断的非对称性"
@@ -37383,7 +37396,7 @@
       "from": "silicon-oracles-and-the-asymmetry-of-consequence",
       "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "rel": "points_to",
-      "label": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference"
+      "label": "The Sleight of Hand of Consciousness and the Asymmetry of Inference"
     },
     {
       "from": "silicon-oracles-and-the-asymmetry-of-consequence",
@@ -37435,6 +37448,18 @@
     },
     {
       "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的委派与后果的不可让渡性"
+    },
+    {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
       "to": "the-irreducible-observer",
       "rel": "points_to",
       "label": "不可化约的观察者"
@@ -37444,6 +37469,18 @@
       "to": "the-digital-god-and-the-horizon-jump",
       "rel": "points_to",
       "label": "数字上帝与视界跃迁"
+    },
+    {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "silicon-oracles-and-the-asymmetry-of-consequence",
@@ -37473,7 +37510,7 @@
       "from": "silicon-oracles-and-the-asymmetry-of-consequence",
       "to": "the-limitation-is-doing-work",
       "rel": "points_to",
-      "label": "The Limitation is Doing Work"
+      "label": "The Limitation Is Doing Work"
     },
     {
       "from": "silicon-oracles-and-the-asymmetry-of-consequence",

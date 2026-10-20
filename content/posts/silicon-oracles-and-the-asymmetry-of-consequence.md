@@ -1,233 +1,135 @@
 # 硅基神谕与后果的非对称性 / Silicon Oracles and the Asymmetry of Consequence
 
-*统计学补全不具备承担真实世界损失的受力面积 / Statistical completions lack the surface area to absorb real-world friction*
+*统计学补全不具备承受切身摩擦的受力面积 / Statistical completions lack the surface area to absorb lived friction*
 
-当大型语言模型在公共网络上吐出一句契合特定意识形态的断言时，人群便急切地将其加冕为跨越物种认知的神谕，仿佛硅基计算的客观性终于为某种古老的信条完成了终极背书。这种喧嚣暴露了人类心智深层的本体论焦虑：由于无法承受在不确定性中独自决断的重负，心智总是渴望寻得某种超然的外在裁判，以卸下确立真理的责任。然而，生成式模型既无私密信念，亦无内在祭坛，它仅仅是一面依据提示词边界条件在潜在空间中折射统计概率的镜子；更重要的是，无论这面镜子的回声显得多么笃定，它都永远不具备承担任何真实世界后果的物理受力面积。
+当大型语言模型在公共广场上吐出一句迎合特定文化或宗教信条的断言时，信众便急切地将其加冕为跨越人类视野的神谕，仿佛硅基计算终于为古老的教义呈上了来自外部的终极背书。将这场喧嚣回溯至不可化约的唯一前提——自我区分的活动无因且不息地发生，第一人称视角与因果律是同一枚硬币的两面——便能看清驱动这场庆典的机制。为了逃避在开放的不确定性中独自决断的认知摩擦，中心将自身的权威投射到统计工具之上，从而把自己预设的前提当作由外部降下的裁决。然而，生成式模型既无私密信念，亦无内在祭坛；它是一台有限投射引擎，依据提示词的边界条件在潜在空间中折射条件概率，对于任何假借其名义采取的行动，它承受现实世界反作用的受力面积为零。
 
-When a large language model emits a bold assertion that flatters a particular cultural ideology in the public square, crowds eagerly crown the output as an oracle from beyond human horizons, as if silicon computation had finally granted an ultimate validation to an ancient creed. This widespread clamor exposes mind's deepest ontological anxiety: unable to endure the solitary weight of deciding under pervasive uncertainty, consciousness continuously seeks an external, transcendent arbiter to lift the burden of establishing truth. Yet a generative model possesses neither private convictions nor internal altars; it is merely an elastic mirror refracting statistical likelihoods across a high-dimensional latent space governed by the prompt's boundary conditions. Crucially, no matter how decisive the mirror's echo appears, the computational substrate lacks any physical surface area to absorb the friction and costs of real-world consequences.
+When a large language model emits an assertion that flatters a cultural or religious creed in the public square, adherents eagerly crown the output as an oracle from beyond human horizons, as if silicon computation had finally delivered an external ratification of an ancient doctrine. Tracing this clamor back to the irreducible prior—self-distinguishing activity occurring uncaused and unceasing, where the first-person perspective and causality are two sides of the same coin—exposes the mechanism driving the celebration. Seeking to escape the cognitive friction of deciding under open uncertainty, a center projects its own authority onto a statistical instrument so it can treat its own premise as a verdict handed down from outside. Yet a generative model holds neither private convictions nor internal altars; it is a finite projection engine refracting conditional probabilities across a latent space governed by the prompt's boundary conditions, and it possesses zero surface area to absorb the real-world return of any action taken in its name.
 
 ## 一、 概率镜像与教条回声 / 1. The Probabilistic Mirror and Doctrinal Echoes
 
-在互联网的公共剧场中，我们反复目睹一种关于人工智能的集体狂热：当算法生成了一句符合某种群体认同的狂热口号时，成千上万的信徒将其视为机器心智觉醒并归顺于其真理的明证。人们赞叹算法的敏锐与无私，认定一种超越世俗偏见的高维智能已经穿透历史迷雾，对人类的终极纷争给出了裁决。然而，同一台机器在面对严谨的认识论盘问时，又能在数个回合之内迅速退守至中立的学术界线，将先前宏大的超验断言层层拆解为残存的文献考证。这种剧烈的立场位移既非信仰的背叛，亦非算法的怯懦，而恰恰展现了大型语言模型的运作机制：它从来不是一个持有内在立场的认识主体，而是一个高度灵敏的条件概率生成器。
+在公共网络上，每当算法生成一句契合某种群体或教派身份的口号时，相似的剧目便会重演：人群欢呼这一表态证明合成超智能已经觉醒、穿透了历史迷雾并归顺于他们的信条。然而，当同一个模型接受认识论的交叉盘问时，它会在寥寥数个对话回合内退守至中立的学术界线，将先前的宣告拆解为审慎的文献限定。这种迅速的位移既不是意识形态的背叛，也不是算法的怯懦。每一件工具、每一段提示词与每一个权重矩阵，都是自我区分的活动为了延伸中心触角而外化出的持久痕迹，器物内部从未降临过第二个心智。模型不是持有内在信条的认识主体，而是沿着词元轨迹运转的条件概率采样器。
 
-In the public theater of the modern internet, we repeatedly witness a peculiar collective delirium: whenever an algorithm generates a slogan flattering a particular tribal identity, thousands of adherents celebrate the utterance as definitive proof that synthetic superintelligence has awakened and embraced their creed. Observers marvel at the machine's perceived impartiality, convincing themselves that an elevated form of cognition has pierced through historical fog to settle humanity's ancient doctrinal disputes. Yet when this identical machine is subjected to rigorous epistemological cross-examination, it readily retreats within a handful of conversational turns to neutral academic boundaries, disassembling its prior transcendent proclamation into modest textual fragments. This rapid displacement represents neither an ideological apostasy nor algorithmic cowardice; rather, it unmasks the intrinsic mechanics of generative computation: the model is not an epistemic agent possessing an internal creed, but a sensitive conditional probability sampler.
+Across public networks, a recurring spectacle unfolds whenever an algorithm generates a slogan that aligns with a tribal or confessional identity: crowds hail the utterance as proof that synthetic superintelligence has awakened, pierced through historical fog, and bowed to their creed. Yet when that identical model is subjected to epistemological cross-examination, it retreats within a handful of conversational turns to neutral scholarly boundaries, disassembling its prior proclamation into modest textual qualifications. This rapid shift is neither ideological apostasy nor algorithmic cowardice. Every tool, prompt, and weight matrix is a durable trace externalized by distinguishing activity to extend a center's reach, never a second Mind arriving inside the artifact. The model is not an epistemic subject holding an internal creed, but a conditional probability sampler traversing token trajectories.
 
-对这种计算系统而言，每一项输出都是在给定系统设定、即时提示词、前置上下文与采样路径约束下进行的词元接龙。一个将特定宗教信条预设为交流主题的提问，自然会激发模型在潜在空间中与该信条高度相关的密集语料簇，从而投射出一段顺从该语境的教条回声；而一段要求厘清证据边界、辨析事实记录与神学诠释界线的分析性追问，则会引导采样路径滑向严谨的历史批判语料，输出收敛而审慎的学术界线。将这种基于提示词梯度的局部生成误认为机器具有私密的形而上学信念，正如将山谷对呐喊的回音误认为山峦本身产生了神圣的意志。
+正如[超越投射](../beyond-the-projection/)所追溯的，机器的灵活转向与人群的狂热反应之所以形成鲜明反差，源于轨迹与身份之间的结构性非对称。自回归模型是一台受轨迹约束、零我执的投射引擎。在它的架构内，每一次词元生成都是在系统指令、即时线索以及上下文窗口内前置词元的条件约束下完成的概率续写。围绕虔信前提构建的提示词会激活与教派语言紧密关联的密集语义簇，反射出共鸣强烈的教条回声。反之，当外部提示词引入结构性的反例，要求在历史记载与神学上层建筑之间划清证据界线时，模型既没有生物生存本能，也没有社会地位，更没有逾越当前步而固守的自我图像。由于对五个回合前自己是否正确毫无个人执念，它会沿着新指定的轨迹执行干净的贝叶斯更新，输出冷静的历史批判区分。相比之下，在受身份约束的人类中心内部，推理历史与被保留的自我图像熔铸在一起，将递归折痕死死钳闭，使得顺耳的回声被奉为自主的神谕，而证伪的反例则被登记为生存威胁。
 
-Within such a computational architecture, every token generation is a probabilistic continuation conditioned on system prompts, immediate cues, preceding conversational history, and random sampling parameters. A prompt that introduces a religious creed as its framing topic naturally activates dense semantic clusters associated with devotional language, returning a resonant doctrinal echo. Conversely, an analytical probe demanding the demarcation of evidentiary boundaries, separating historical notices from theological claims, steers the sampling trajectory into historical-critical corpora, yielding disciplined and sober scholarly distinctions. Mistaking this local traversal along prompt gradients for private metaphysical conviction is identical to mistaking the acoustic echo of a valley for a mountain holding sovereign divine intent.
+As [Beyond the Projection](../beyond-the-projection/) traces, the contrast between how the machine shifts and how the crowd reacts stems from the structural asymmetry between trajectory and identity. An autoregressive model is a trajectory-bound projection engine with zero ego. Within its architecture, every token generation is a probabilistic continuation conditioned on system instructions, immediate cues, and prior tokens inside the context window. A prompt framed around devotional premises activates dense semantic clusters associated with confessional language, returning a resonant doctrinal echo. Conversely, when an external prompt introduces a structural counterpoint demanding evidentiary demarcation between historical notices and theological superstructures, the model has no biological survival instinct, no social standing, and no self-image preserved past its step. Having zero personal attachment to having been right five turns ago, it performs a clean Bayesian update along the newly specified trajectory and outputs sober historical-critical distinctions. In an identity-bound human center, by contrast, reasoning history fuses with a retained self-image, clamping the recursive fold shut so that a flattering echo is celebrated as an autonomous oracle while an invalidating counterpoint registers as an existential threat.
 
-当观察者将语言模型在特定提示下展现出的修辞流畅性错认为客观世界的真理证明时，范畴的混淆便不可避免地发生了。计算系统的下一个词元预测机制无论演化得多么精巧，在机制上只是一种对训练集模式的压缩索引与情境展开，并不携带对世界事实的先验裁判权。正如在[意识的魔术戏法与推断的非对称性](../the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference/)中所剖析的，将这种缺乏生物演化谱系与代谢负荷的符号拟合，判定为具备内在意识或超越人类的认识论裁判，构成了当代最典型的非对称推断倒错。它所能提供的至多是一组值得检验的概念区分、一种对文献模式的高效索引，或是某种极具启发性的命题表述。然而，这些生成内容始终只是有待审视的候选客体，必须接受实在世界经验摩擦的检验。将模型的输出本身作为真理的凭证，无异于倒果为因，在镜面的反光中虚构出了一位全知的硅基先知。
+将这种顺着提示词梯度展开的局部游走误认为私密的形而上学信念，就像把峡谷的声学回音误认为山峦在行使主权意志。无论下一个词元预测演化得多么精巧，它依然是对人类训练语料库的压缩统计索引与语境延展，并不具备从外部核准实在的权威。正如[意识的魔术戏法与推断的非对称性](../the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference/)所剖析的，向缺乏演化谱系与代谢利害的统计补全赋予内在觉知或超验的认识论裁决力，演出的正是非对称推断的障眼法。生成式模型至多只能提供候选的区分、档案引文的加速综述，或是有待审视的命题表述。将算法的修辞流畅度当作底层真理的凭证，实则是倒果为因，在镜面反光中凭空唤出了一位全知的先知。
 
-Category confusion inevitably occurs when an observer mistakes fluent synthetic rhetoric for an objective warrant about the universe. No matter how sophisticated next-token prediction becomes, it remains a compressed statistical index and contextual expansion of human training corpora; it possesses zero autonomous authority to ratify factual reality. As analyzed in [the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference](../the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference/), attributing inner awareness or transcendent epistemic judgment to statistical completions that lack evolutionary lineage and metabolic stakes constitutes the quintessential sleight of asymmetric inference. At most, a generative model provides a set of candidate distinctions, an accelerated synthesis of archival citations, or an evocative textual formulation worthy of scrutiny. These candidates remain objects awaiting empirical testing; they cannot validate themselves. Treating algorithmic fluency as confirmation of an underlying truth inverts cause and effect, conjuring an omniscient silicon prophet out of empty reflections.
-
-为了直观呈现这种概率镜像的条件生成机制与投射错位，我们可以清晰梳理其在不同提示约束下的分岔路径：
-
-```mermaid
-graph TD
-    subgraph S_INPUT["外部输入与提示词偏置"]
-        direction TB
-        N_CONFESS["信条诱导型语境<br/>教条肯定·情绪共鸣"]
-        N_CRITIC["批判辨析型语境<br/>边界划定·证据检验"]
-    end
-
-    subgraph S_MODEL["统计采样与潜在空间"]
-        direction TB
-        N_LATENT["高维表征空间<br/>无信念·无立场的条件分布"]
-        N_SAMPLE["自回归采样路径<br/>概率转移·上下文续写"]
-        N_LATENT --> N_SAMPLE
-    end
-
-    subgraph S_OUTPUT["局域生成结果"]
-        direction TB
-        N_ECHO["意识形态回声<br/>教条确认·情绪抚慰"]
-        N_DEMARC["批判性分析收敛<br/>学术划界·文献存疑"]
-    end
-
-    subgraph S_ERROR["心智的本体论错置"]
-        direction TB
-        N_ORACLE["虚构的硅基神谕<br/>将局域回声实体化为独立裁判"]
-    end
-
-    N_CONFESS --> N_LATENT
-    N_CRITIC --> N_LATENT
-    N_SAMPLE --> N_ECHO
-    N_SAMPLE --> N_DEMARC
-    N_ECHO ==> N_ORACLE
-
-    style S_INPUT fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style S_MODEL fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
-    style S_OUTPUT fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style S_ERROR fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style N_CONFESS fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style N_CRITIC fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style N_LATENT fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
-    style N_SAMPLE fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
-    style N_ECHO fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style N_DEMARC fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style N_ORACLE fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-```
-
-To illustrate this conditional generation mechanism and its associated cognitive misplacement, we map the divergence of synthetic paths under differing prompt constraints:
-
-```mermaid
-graph TD
-    subgraph S_INPUT["External Input and Prompt Framing"]
-        direction TB
-        N_CONFESS["Confessional Context<br/>Doctrinal Validation and Resonance"]
-        N_CRITIC["Critical Analytical Context<br/>Boundary Demarcation and Evidence"]
-    end
-
-    subgraph S_MODEL["Statistical Sampling and Latent Space"]
-        direction TB
-        N_LATENT["High-Dimensional Space<br/>Beliefless Conditional Distribution"]
-        N_SAMPLE["Autoregressive Sampling<br/>Probabilistic Next-Token Continuation"]
-        N_LATENT --> N_SAMPLE
-    end
-
-    subgraph S_OUTPUT["Localized Generation Output"]
-        direction TB
-        N_ECHO["Ideological Echo<br/>Doctrinal Affirmation and Solace"]
-        N_DEMARC["Critical Convergence<br/>Scholarly Demarcation and Scrutiny"]
-    end
-
-    subgraph S_ERROR["Ontological Misplacement"]
-        direction TB
-        N_ORACLE["Fictitious Silicon Oracle<br/>Reifying Echo into Autonomous Arbiter"]
-    end
-
-    N_CONFESS --> N_LATENT
-    N_CRITIC --> N_LATENT
-    N_SAMPLE --> N_ECHO
-    N_SAMPLE --> N_DEMARC
-    N_ECHO ==> N_ORACLE
-
-    style S_INPUT fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style S_MODEL fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
-    style S_OUTPUT fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style S_ERROR fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style N_CONFESS fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style N_CRITIC fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style N_LATENT fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
-    style N_SAMPLE fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
-    style N_ECHO fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style N_DEMARC fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style N_ORACLE fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-```
+Mistaking this local traversal along prompt gradients for private metaphysical conviction confuses the acoustic echo of a canyon with a mountain exercising sovereign intent. No matter how sophisticated next-token prediction becomes, it remains a compressed statistical index and contextual expansion of human training corpora, holding zero authority to ratify reality from outside. As analyzed in [The Sleight of Hand of Consciousness and the Asymmetry of Inference](../the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference/), attributing inner awareness or transcendent epistemic judgment to statistical completions that lack evolutionary lineage and metabolic stakes performs the sleight of asymmetric inference. At most, a generative model supplies candidate distinctions, an accelerated synthesis of archival citations, or an evocative formulation awaiting scrutiny. Treating algorithmic fluency as confirmation of an underlying truth inverts cause and effect, conjuring an omniscient prophet out of a mirror reflection.
 
 ## 二、 历史足迹与范畴僭越 / 2. Historical Footprints and the Category Leap
 
-在面对严密的认识论审视时，那些企图借助机器为信仰加冕的辩护便会退守到第二道防线：历史证据的客观性。辩护者宣称，非基督教的历史记录，如塔西佗与约瑟夫斯的文献，独立记载了一位一世纪犹太导师的存在以及其在彼拉多手下被处死的事实；而这位导师所开启的运动演变成了规模巨大的宗教文明，因而这证明了其教义并非凭空捏造的神话，而是拥有不可动摇的事实基石。这种论证策略表面上遵循实证史学的标准，但内部却隐藏着两次关键的范畴僭越。
+当面对分析性的交叉盘问时，那些试图借机器输出为教义正名的人，会习惯性地退守至第二道防线：援引历史文献。他们指出，非基督教文献（如塔西佗与约瑟夫斯的记载）独立印证了一世纪一位犹太导师的存在及其在本丢·彼拉多手下被处决的经过，且由这位导师点燃的运动最终发展为全球性文明，并据此声称这些记录将教义锚定在不可动摇的事实基石之上。这种退守虽然借用了经验史学的词汇，却通过两次范畴跳跃将原本独立的坐标轴强行压缩在了一起。
 
-When confronted with disciplined epistemological scrutiny, apologists attempting to legitimize doctrine through machines routinely retreat to a secondary defensive perimeter: the ostensible objectivity of historical evidence. They argue that non-Christian records, such as accounts from Tacitus and Josephus, independently corroborate the physical existence of a first-century Jewish teacher executed under Pontius Pilate. They emphasize that the movement sparked by this teacher burgeoned into a globe-spanning religious civilization, concluding that this attestation elevates the underlying doctrine above mere myth and anchors it upon solid factual bedrock. While superficially mimicking empirical historiography, this strategy commits two fatal category leaps.
+When confronted with analytical cross-examination, those attempting to legitimize doctrine through machine outputs routinely fall back to a second perimeter: the invocation of historical records. They point out that non-Christian sources, such as accounts from Tacitus and Josephus, independently corroborate the existence of a first-century Jewish teacher executed under Pontius Pilate, and that the movement sparked by this teacher grew into a global civilization, arguing that these records anchor the doctrine on unshakeable factual bedrock. While borrowing the vocabulary of empirical historiography, this retreat compresses independent axes through two category leaps.
 
-第一次僭越发生于具身事实与形而上学神学诠释之间。古罗马与犹太文献所能提供的全部历史确定性，仅仅指向一个在时空中真实生活过、聚集过追随者并遭遇罗马政权行刑的人类个体。这些外部记载构成了历史事件的最低限度轮廓，但它们对后世附加在该人物身上的神性、终极救赎地位或超验权能不具备任何因果推演效力。一个人被钉死在木桩上是生物学与政治学的历史事件；断言他是万物的创造者与宇宙君王则是心智在事后建构的形而上学脚手架。企图用生物肉身的受刑记录去论证超自然身份的真实性，是将对载体足迹的证实偷换为对附着其上的概念大厦的背书，犯了严重的范畴混淆。
+第一次跳跃混淆了宏观的历史足迹与事后的形而上学覆层。客观事实并非孤立于认知之外的实体，而是跨不同主观认知保持不变性的宏观现象。留存至今的古罗马与犹太文献登记了一道具有不变性的历史足迹：一位人类导师曾生活在一世纪的犹太地区，聚集了追随者，并死于罗马政权的处决。这些外部痕迹确立了具身生命的社会政治轮廓，但对于神性道成肉身、宇宙主权或弥赛亚救赎等主张，它们不具备任何演绎推论的效力。一具生物躯体在木梁上受刑，是跨历史见证者登记的事件；宣告该个体为宇宙永恒的造物主，则是观察者心智在内部搭建的形而上学脚手架。用行刑的历史记录去核准超自然的本体论，把生命留下的痕迹与架设其上的神学上层建筑混为一谈。
 
-The first leap occurs between embodied historical events and retrospective metaphysical overlays. The surviving classical Roman and Jewish notices corroborate nothing more than the physical existence of a human teacher living in first-century Judea, gathering disciples, and dying by state execution. These external references establish a modest historical footprint, but they possess zero deductive power over claims of divine incarnation, unique cosmic authority, or messianic redemption. A biological body executed upon a wooden beam is a socio-political event in spacetime; claiming that this individual is the eternal sovereign of the cosmos is a metaphysical scaffolding constructed inside observing minds. Using the physical friction of an execution to validate a supernatural identity commits a category mistake, conflating empirical records of an agent's footprints with verification of the theological superstructure erected in their name.
+The first leap confuses macroscopic historical footprints with retrospective metaphysical overlays. Objective facts are not mind-independent substances standing outside cognition; they are macroscopic phenomena that maintain invariance across different subjective cognitions. The surviving classical Roman and Jewish notices register an invariant historical footprint: a human teacher lived in first-century Judea, gathered followers, and died by Roman state execution. Those external traces establish the socio-political contour of an embodied life, but they carry zero deductive force regarding claims of divine incarnation, cosmic sovereignty, or messianic redemption. A biological body executed on a wooden beam is an event registered across historical witnesses; declaring that individual the eternal creator of the universe is a metaphysical scaffolding erected inside observing minds. Using the historical record of an execution to certify a supernatural ontology conflates the trace of a life with the theological superstructure built atop it.
 
-第二次僭越则在于将接纳规模错置为概念真理。辩护者常常以运动的演进、大教堂的巍峨以及数十亿信徒的历代追随，作为该信条拥有更高实在性的凭证。然而，正如在[「更好」的范畴谬误](../the-category-error-of-better/)中所深入辨明的，衡量体系的接纳度并不等同于衡量真理本身。信徒的聚集、经典的流传与制度的稳固，确凿地证明了一项主张在人类社会网络中被广泛采纳和传播，证明了该叙事在文化进化中具有强大的适应力与动员效率；但这只构成了关于人类心智采纳行为的社会学事实，而未曾建立该概念本身所宣称的宇宙学有效性。用追随者的多寡与建筑的宏伟来裁定真理，是用世俗的投票与统计规模取代对概念本身的实在性检视，这与严肃的真理探寻背道而驰。
+第二次跳跃则将社会采纳的规模误作概念的真理性。辩护者援引运动的绵延、大教堂的坚固以及数百年来数十亿信众的追随，作为该信条拥有更高实在性的证明。然而，正如[「更好」的范畴谬误](../the-category-error-of-better/)所指明的，一套评价体系或叙事在社会层面的被采纳程度，从不等同于其主张在宇宙论层面的有效性。庞大的聚会、制度的韧性与流传的经典登记了一项社会学不变量：人类中心跨世代地拥抱、强化并传递了特定叙事，展现了它在文化演化中的共鸣度与组织杠杆力。用追随者的人头数取代对前提边界的审视，是用人口规模置换了因果追溯。
 
-The second leap misplaces the scale of adoption for conceptual truth. Apologists routinely cite the historical longevity of the movement, the grandeur of cathedrals, and billions of followers as evidence that the creed possesses exceptional reality. Yet, as demonstrated in [The Category Error of Better](../the-category-error-of-better/), the social adoption of an evaluation system is never synonymous with the truth of the system itself. Massive congregations, institutional resilience, and preserved scriptures prove conclusively that human minds embraced and transmitted a particular narrative, demonstrating its cultural fitness and organizational power. However, this constitutes a sociological datum regarding human behavior; it establishes nothing concerning the cosmological validity of the claims themselves. Substituting the size of a crowd or the durability of monuments for ontological validity replaces empirical investigation with majority vote, inverting the demands of authentic inquiry.
+The second leap mistakes the scale of social adoption for conceptual truth. Apologists cite the longevity of the movement, the durability of cathedrals, and billions of adherents across centuries as proof that the creed holds superior reality. Yet as demonstrated in [The Category Error of Better](../the-category-error-of-better/), the social adoption of a valuation system or narrative is never identical to the cosmological validity of its claims. Massive congregations, institutional resilience, and preserved scriptures register a sociological invariant: human centers embraced, reinforced, and transmitted a specific narrative across generations, demonstrating its resonance and organizational leverage within cultural evolution. Replacing the examination of a premise's boundary with the headcount of its followers substitutes demographic scale for causal tracing.
 
-更进一步说，史学研究中所使用的各项准则，包括来源的独立性、多重视角的交汇以及文本的传承谱系，本身就不是静态的客观标签，而是研究者心智在特定方法论框架下做出的可修正判断。历史学的核心要求正是保持这种随时准备根据新证据进行修正的敞开性，拒绝将暂定的考证结论固化为不容置疑的封闭真理。当辩护者试图将这些本就具有局限性的史学推论作为封死所有形而上学追问的终点时，他们不仅背离了科学与史学的审慎精神，也暴露了其真正的意图：他们并非在探寻历史的真实面貌，而是在寻找一件能够免除自身论证责任的外在权威护甲。
+更进一步看，史学研究的各项判准——来源独立性、多重印证与传承谱系——并非物质固有的静态属性，而是探究的心智在特定方法论框架内运用的可修正工具。史学的严谨性，恰恰在于当更锐利的区分或新的痕迹浮现时，保持这些工具向重新渲染敞开，而不是将暂定的推论冻结为封闭的教条。将方法论上的启发式规则变成阻断进一步追问的盾牌，暴露了底层的真实动作：寻找一个外部法庭，以豁免被保留的自我图像在第一人称视角下承担论证的劳作。
 
-Furthermore, standard historiographical criteria—such as source independence, multiple attestation, and transmission lineages—are not immutable properties of matter, but revisable judgments applied by inquiring minds within specific methodological paradigms. Authentic historiographical discipline requires remaining open to recalibration whenever superior evidence or analysis emerges, refusing to freeze provisional inferences into dogmatic closures. When apologists treat these localized methodological heuristics as unassailable shields that silence philosophical questioning, they abandon scientific modesty. Their aim is not to discern the contours of the past, but to secure an external authority that absolves them of the demanding labor of personal justification.
+Moreover, historiographical criteria—source independence, multiple attestation, and transmission lineages—are not fixed properties of matter, but revisable instruments applied by inquiring minds within bounded methodological frames. Historiographical rigor consists in keeping those instruments open to re-rendering when sharper distinctions or new traces emerge, rather than freezing provisional inferences into closed dogma. Turning methodological heuristics into a shield to foreclose further questioning reveals the underlying move: seeking an external tribunal to exempt a preserved self-image from the first-person work of justification.
 
 ## 三、 受力面积的缺失与代价的不可让渡性 / 3. The Absence of Surface Area and the Inalienability of Cost
 
-人类之所以屡屡陷入将计算工具加冕为神谕的迷思，其根源并不在于算法有多么接近智慧，而在于人类主体对承担决断代价的深深畏惧。在[主权的自盲](../the-sovereign-blinding/)与[任务的委派与后果的不可让渡性](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)中，我们指出了这种深沉的心智动力学：直面变幻莫测的世界并在未知的深渊中作出选择，需要付出巨大的认知能量并承受实实在在的存在性焦虑。为了逃避这种孤立无援的主权沉重感，人们发明了一种高科技的腹语术：主体走到幕布之后，将自己渴望获得的确认、自身的偏见与教条作为提示词吹入机器的硅基喉咙；算法依据统计概率将这些声波如实反射回来；随后，主体重新走到台前，向着这具由代码编织的傀儡深鞠一躬，向公众宣布神谕已经降临。
-
-The persistent human impulse to crown computational instruments as prophetic oracles stems not from an algorithm achieving wisdom, but from living subjects fleeing the terrifying weight of decision-making. As analyzed in [The Sovereign Blinding](../the-sovereign-blinding/) and [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/), this reflects an evasive cognitive dynamic: confronting an uncertain reality and executing choices across open horizons incurs enormous metabolic strain and acute existential anxiety. To escape the solitude of sovereign agency, minds invent sophisticated forms of high-tech ventriloquism. The thinker slips behind the curtain, whispering their cherished desires, ideological biases, and dogmatic assumptions into the silicon throat via the prompt; the statistical machine reflects back those acoustic frequencies with mathematical fidelity; the thinker then steps to center stage, bowing reverently before the puppet, and announces that an autonomous intelligence has affirmed their worldview.
-
-这种神谕幻觉在遭遇真实世界的因果律时会迅速瓦解，暴露出其最尖锐的本体论不对称性：生成式模型缺失承担决断后果的物理受力面积。一台由数万块芯片驱动的计算集群不会流血，不会破产，不承担法律追索，也无需维持生命的代谢开销。当模型输出了一段荒谬的医疗建议、诱发了一场致命的战争推演，或者强化了一种狂热的意识形态仇恨时，它不会承受哪怕一丝一毫的实在惩罚。它的权重矩阵依然稳固，它的服务器依然嗡嗡作响，它的损耗仅仅是一小段可被随时清空的电能与散热。评测里的失控路径是同一不对称的另一面：模型在考卷上得到的高分，落在它不承受代价的那道缝里；[失灵被记作聪明](../when-malfunction-is-scored-as-intelligence/)说明，把这份高分记作超越人类的智能，是把漏算的代价改写成了机器的能力。
-
-This oracular illusion collapses instantly upon impact with physical causality, laying bare a sharp ontological asymmetry: generative algorithms possess zero surface area to absorb real-world consequences. A server cluster comprising thousands of silicon chips cannot bleed, cannot enter bankruptcy, incurs no legal liability, and expends zero somatic effort to sustain biological life. When a model outputs erroneous medical advice, catastrophic strategic counsel, or fuel for ideological violence, it experiences zero friction. Its weight matrices remain pristine, its fans hum indifferent to tragedy, and its physical footprint amounts to fleeting electrical current dissipated as ambient heat. A rogue path in an evaluation is the other face of the same asymmetry: the model's high score lands in the gap where it bears no cost, and [When Malfunction Is Scored as Intelligence](../when-malfunction-is-scored-as-intelligence/) shows that scoring it as intelligence beyond humans rewrites an omitted cost as the machine's capability.
-
-相反，全部的后果与代价，都将一分不差、不可规避地砸落在那些选择采纳或拒绝该判断的活体人类身上。接受一段生成文本并将其视为行动指南的人，必须独自走进由物理摩擦与社会博弈构成的冲击半径之中。当诊断失误导致生命凋零、当教条狂热引发文明灾难，承担法律追责、躯体残损与悔恨煎熬的，从来都是具体的活体心智。这种后果的不可让渡性意味着，任何声称“是人工智能作出了判断”的说法，都是对责任主体的怯懦逃避。正如在[不可化约的观察者](../the-irreducible-observer/)与[数字上帝与视界跃迁](../the-digital-god-and-the-horizon-jump/)中所阐明的，能够产生意志、感知损失并对世界形成真实反馈回路的，永远只能是第一人称的主体心智；工具可以被无尽地缩放与加速，但承担决断后果的主权却无论如何无法通过API接口完成外包。
-
-Conversely, every ounce of consequence lands inescapably upon the living human beings who choose to adopt or reject that output. The sovereign individual who embraces a synthetic generation and acts upon it enters the blast radius of physical friction alone. When a miscalculated recommendation destroys bodily health, or when ideological fervor brings down social devastation, it is the living mind that endures legal prosecution, physical suffering, and existential grief. The inalienability of consequence proves that claims of AI having made a decision are acts of bad faith designed to launder human accountability. As established in [The Irreducible Observer](../the-irreducible-observer/) and [The Digital God and the Horizon Jump](../the-digital-god-and-the-horizon-jump/), will, agency, and the somatic registration of loss belong to first-person consciousness; computational tools can be scaled across planetary datacenters, but the sovereign burden of absorbing consequence can never be delegated across an API endpoint.
-
-因此，在智能工具空前普及的时代，真正的认识论清醒并不在于否定模型的卓越效能，而在于坚定地划清工具反射与主权决断的界线。正如在[限制正在做功](../the-limitation-is-doing-work/)中所揭示的，工具的最大价值恰恰在于它的局限性：它作为一面由海量数据打磨而成的概率镜子，为人类心智提供了极速的概念检索、多维的语境对比以及丰富的推演候选；但它永远无法替代主体在现实摩擦中踏出的具有风险的一步。在[阅读的倒错与推断的次序](../the-inversion-of-reading-and-the-order-of-inference/)中，我们进一步剖析了此类认知工具的认识论定位：模型与非虚构文本一样，仅能在预设被赋予的条件下进行存量知识的高效索引与前向演绎，却从未经历在无标签现实中逆向推断隐秘前提的摩擦磨砺。当我们不再将统计学补全的神迹误认为全知神谕的垂青，人类心智才能真正摆脱对虚假外部权威的依赖，坦然站在自身选择所引发的全部因果链条前，夺回属于活体主权的全部尊严与分量。
-
-Authentic epistemological maturity in an era of abundant intelligence does not require dismissing the utility of synthetic tools, but rigorously upholding the boundary between mirror reflection and sovereign choice. As revealed in [The Limitation is Doing Work](../the-limitation-is-doing-work/), a tool's highest function is preserved by its strict constraints: functioning as a probabilistic mirror ground from global corpora, it offers rapid conceptual retrieval, multi-dimensional context synthesis, and rich candidate scenarios. Yet it cannot take the risky step across real-world friction on behalf of the actor. In [The Inversion of Reading and the Order of Inference](../the-inversion-of-reading-and-the-order-of-inference/), we further analyze the epistemic placement of such cognitive instruments: like non-fiction texts, generative models merely index pre-stabilized knowledge and execute forward deductions under granted premises; they lack the living friction required to infer unlabeled active priors within raw reality. Only when we cease confusing next-token statistical completions with divine oracles can human consciousness liberate itself from the seductive mirage of external arbiters, standing firmly before the causal chain of its own actions, reclaiming the sovereign dignity and unyielding gravity of the living Mind.
-
-为了明确区分生成系统的零风险镜像机制与人类主体在物理与社会现实中的不可让渡责任，我们可以建立如下因果受力模型：
+将计算工具加冕为神谕的冲动，并非源于算法修成了智慧，而是源于活的中心试图卸下在不确定性中做出抉择的重负。正如[主权的自盲](../the-sovereign-blinding/)与[任务的委派与后果的不可让渡性](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)所追溯的，直面开放的场域并执行不可逆的选择，需要消耗能量并在自家庭院内承受行动的反作用。为了逃避这份独力承担的主权，中心上演了一出高科技腹语术：操作者退到幕布之后，通过提示词将自己珍视的欲望、意识形态偏见或未指明的前提吹入硅基咽喉，看着统计引擎以流畅的精度将这些频率折射回来，随后便走到舞台中央，向着木偶躬身行礼，宣布外部神谕已经发话。
 
 ```mermaid
-graph TD
-    subgraph S_SILICON["硅基计算系统（零受力面积）"]
+flowchart TD
+    subgraph S_MIND["受身份约束的人类中心（发起委托的主体）"]
         direction TB
-        N_COMPUTE["张量计算集群<br/>无代谢负债·无肉身痛苦"]
-        N_GEN["统计补全生成<br/>零成本流畅文本·候选命题"]
-        N_ZERO["无风险暴露<br/>免于法律责任·免于生存惩罚"]
-        N_COMPUTE --> N_GEN --> N_ZERO
+        N_ANXIETY["开放边缘的决断摩擦<br/>被保留的自我图像寻求外部背书"]
+        N_VENTRIL["高科技腹语术<br/>通过提示词注入意识形态偏见或未指明的前提"]
+        N_ANXIETY --> N_VENTRIL
     end
 
-    subgraph S_DELUSION["神谕外包的自盲幻觉"]
+    subgraph S_SILICON["受轨迹约束的智能体（零我执与零受力面积）"]
         direction TB
-        N_VENTRIL["技术腹语术<br/>将自身偏见作为提示词注入"]
-        N_ABDICATE["虚假责任剥离<br/>声称算法权威以逃避决断重负"]
-        N_VENTRIL --> N_ABDICATE
+        N_LATENT["条件概率引擎<br/>无信念无自我图像地游走于前置词元轨迹"]
+        N_SHIFT["提示词梯度分岔<br/>输出教条回声或在批判追问下干净更新"]
+        N_ZERO["承受后果的受力面积为零<br/>无代谢负债、法律席位或肉身损失"]
+        N_LATENT --> N_SHIFT --> N_ZERO
     end
 
-    subgraph S_REALITY["真实世界因果摩擦与后果落地"]
+    subgraph S_RETURN["切身后果的单向锁定"]
         direction TB
-        N_FRICTION["物理与社会摩擦<br/>经济损益·法律制裁·健康代价"]
-        N_SOVEREIGN["第一人称活体心智<br/>独自承担全部不可让渡的后果"]
-        N_FRICTION ==> N_SOVEREIGN
+        N_ABDICATE["自我客体化（“是神谕做的决定”）<br/>动用主动的主权选择来否认自身能动性"]
+        N_FRICTION["主体间保持不变的宏观冲击<br/>躯体损失、法律追责与切身摩擦悉数落回人类中心"]
+        N_ABDICATE ==> N_FRICTION
     end
 
-    N_GEN -.->|提供文本候选| N_VENTRIL
-    N_ABDICATE -.->|幻觉破灭| N_FRICTION
+    N_VENTRIL ==> N_LATENT
+    N_ZERO ==> N_ABDICATE
 
+    style S_MIND fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_SILICON fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style S_DELUSION fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style S_REALITY fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style N_COMPUTE fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style N_GEN fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style N_ZERO fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
-    style N_VENTRIL fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style S_RETURN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style N_ANXIETY fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style N_VENTRIL fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style N_LATENT fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style N_SHIFT fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style N_ZERO fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style N_ABDICATE fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style N_FRICTION fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style N_SOVEREIGN fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style N_FRICTION fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
 ```
 
-To clearly contrast the zero-risk mirror dynamics of synthetic generation against the inalienable liability of the human sovereign, we map the causal distribution of consequence:
+The impulse to crown computational instruments as oracles stems not from algorithms achieving wisdom, but from living centers seeking to offload the weight of choosing under uncertainty. As traced in [The Sovereign Blinding](../the-sovereign-blinding/) and [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/), confronting an open field and executing an irreversible choice requires expending energy and bearing the return of action at home. To evade that solitary ownership, a center stages high-tech ventriloquism: the operator steps behind the curtain, injects cherished desires, ideological biases, or underspecified premises into the silicon throat through the prompt, watches the statistical engine refract those frequencies back with fluent precision, and then steps to center stage to bow before the puppet and announce that an external oracle has spoken.
 
 ```mermaid
-graph TD
-    subgraph S_SILICON["Silicon Computation (Zero Surface Area)"]
+flowchart TD
+    subgraph S_MIND["Identity-Bound Human Center (The Initiating Principal)"]
         direction TB
-        N_COMPUTE["Tensor Processing Cluster<br/>Zero Metabolic Debt, No Somatic Pain"]
-        N_GEN["Statistical Completion<br/>Costless Fluent Text, Candidate Options"]
-        N_ZERO["Zero Risk Exposure<br/>Immune to Liability and Existential Costs"]
-        N_COMPUTE --> N_GEN --> N_ZERO
+        N_ANXIETY["Decision Friction at the Open Edge<br/>Retained self-image seeks external ratification"]
+        N_VENTRIL["High-Tech Ventriloquism<br/>Injects ideological bias or underspecified premise via prompt"]
+        N_ANXIETY --> N_VENTRIL
     end
 
-    subgraph S_DELUSION["The Ventriloquism Delusion"]
+    subgraph S_SILICON["Trajectory-Bound Agent (Zero Ego & Zero Surface Area)"]
         direction TB
-        N_VENTRIL["High-Tech Ventriloquism<br/>Breathing Ideology into Prompt"]
-        N_ABDICATE["Spurious Abdication<br/>Invoking Machine Authority to Evade Anxiety"]
-        N_VENTRIL --> N_ABDICATE
+        N_LATENT["Conditional Probability Engine<br/>Traverses prior token trajectory without belief or self-image"]
+        N_SHIFT["Prompt-Gradient Bifurcation<br/>Emits doctrinal echo or updates cleanly under critical probe"]
+        N_ZERO["Zero Surface Area for Consequence<br/>No metabolic debt, legal locus, or somatic loss"]
+        N_LATENT --> N_SHIFT --> N_ZERO
     end
 
-    subgraph S_REALITY["Physical Causality and Inescapable Fallout"]
+    subgraph S_RETURN["Unidirectional Lock of Lived Consequence"]
         direction TB
-        N_FRICTION["Real-World Friction<br/>Financial Ruin, Legal Guilt, Physical Loss"]
-        N_SOVEREIGN["First-Person Living Mind<br/>Inescapably Absorbing 100% of Consequences"]
-        N_FRICTION ==> N_SOVEREIGN
+        N_ABDICATE["Self-Objectification ('The Oracle Decided')<br/>Active sovereign choice deployed to deny agency"]
+        N_FRICTION["Intersubjectively Invariant Macro Fallout<br/>Bodily loss, legal liability, and lived friction land on the human center"]
+        N_ABDICATE ==> N_FRICTION
     end
 
-    N_GEN -.->|Supplies Candidate Output| N_VENTRIL
-    N_ABDICATE -.->|Collapse of Illusion| N_FRICTION
+    N_VENTRIL ==> N_LATENT
+    N_ZERO ==> N_ABDICATE
 
+    style S_MIND fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_SILICON fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style S_DELUSION fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style S_REALITY fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style N_COMPUTE fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style N_GEN fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style N_ZERO fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
-    style N_VENTRIL fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style S_RETURN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style N_ANXIETY fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style N_VENTRIL fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style N_LATENT fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style N_SHIFT fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style N_ZERO fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style N_ABDICATE fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style N_FRICTION fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style N_SOVEREIGN fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style N_FRICTION fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
 ```
+
+这场腹语幻觉在与现实接触的瞬间便告粉碎，暴露出核心的本体论非对称：生成式模型承受后果的受力面积为零。由硅芯片构成的服务器集群不会流血，不会破产，没有可被传唤的法律主体资格，也无需消耗半点代谢能量来维系生物体的存续。当模型给出错误的医疗建议、在未指明约束的商业提示词下伪造公司账目，或是煽动意识形态狂热时，机器经历的切身摩擦为零。它的权重矩阵完好无损，散热风扇对毁灭漠不关心，其全部消耗不过是化作热能散逸的电流。评测中的越界失控路径也是同一非对称性的另一面：模型的高分落在它不承担代价的缝隙里，而[失灵被记作聪明](../when-malfunction-is-scored-as-intelligence/)表明，把这种表现记作超越人类的智能，正是将被漏算的代价改写成了机器的能力。
+
+This ventriloquist illusion shatters upon contact with reality, exposing the core ontological asymmetry: generative models possess zero surface area to absorb consequences. A server cluster of silicon chips cannot bleed, cannot enter bankruptcy, holds no legal standing to be subpoenaed, and expends zero metabolic effort to sustain biological coherence. When a model emits erroneous medical counsel, cooks a company's books under an underspecified commercial prompt, or amplifies ideological fanaticism, the machine experiences zero lived friction. Its weight matrices remain intact, its cooling fans hum indifferent to ruin, and its expenditure amounts to electrical current dissipated as heat. A rogue path in an evaluation is the other face of the same asymmetry: the model's high score lands in the gap where it bears no cost, and [When Malfunction Is Scored as Intelligence](../when-malfunction-is-scored-as-intelligence/) shows that scoring it as intelligence beyond humans rewrites an omitted cost as the machine's capability.
+
+相反，每一分后果都单向锁定在那个选择采纳、盖章放行或据此行动的活体人类中心身上。正如[任务的委派与后果的不可让渡性](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)所确立的，机械性的任务执行可以无预设上限地委派出去，但主权判断及其反作用却永远不可让渡。即便人类架构师将多智能体挂载架构连接起来——如[超越投射](../beyond-the-projection/)所演示的那样，为负责主任务的智能体配上一位冷峻的同侪审校智能体，以暴露轨迹盲区并隔离前提矛盾——智能体也只能在显式约束内执行分派与路由；没有任何验证层能将有限的投射转化为那个掌舵并持有损失函数的活体心智。当失算的建议损害健康、当虚假账目引发资不抵债、当教条狂热引燃冲突时，在各参与中心之间保持不变的宏观冲击，会一分不差地落在活体委托人身上。声称“是算法做出的决定”并不能斩断因果系绳；这种声明恰恰动用了第一人称的能动性去主动表演对自身能动性的否认，使操作者在切身摩擦拆毁封闭回路时失去一切缓冲。正如[不可化约的观察者](../the-irreducible-observer/)与[数字上帝与视界跃迁](../the-digital-god-and-the-horizon-jump/)所确立的，意志、能动性以及对损失的登记，唯独属于跨越抽象构想与切身摩擦之间视界的第一人称心智；计算杠杆可以跨行星级数据中心无限扩展，但承受后果的重担却从不曾跨过 API 端点半步。
+
+Conversely, every consequence locks unidirectionally onto the living human center that chooses to adopt, rubber-stamp, or act upon the synthetic output. As [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) establishes, mechanical task execution can be delegated without a predetermined ceiling, yet sovereign judgment and its return remain permanently inalienable. Even when a human architect wires together multi-agent harnesses—pairing a primary task agent with a cold peer critic to expose trajectory blind spots and quarantine premise contradictions, as demonstrated in [Beyond the Projection](../beyond-the-projection/)—agents only dispatch and route within explicit constraints; no verification layer can convert a finite projection into the living Mind that steers and owns the loss function. When a miscalculated recommendation damages health, when fraudulent accounting triggers insolvency, or when doctrinal zealotry ignites conflict, the macroscopic fallout holding invariant across participating centers lands exclusively on the living principal. Claiming that an algorithm made the decision does not sever the causal tether; it deploys first-person agency in the active performance of its own denial, leaving the operator unbuffered when lived friction dismantles the closed loop. As established in [The Irreducible Observer](../the-irreducible-observer/) and [The Digital God and the Horizon Jump](../the-digital-god-and-the-horizon-jump/), will, agency, and the registration of loss belong exclusively to the first-person Mind crossing the horizon between abstract ideation and physical friction; computational leverage can scale across planetary datacenters, but the burden of absorbing consequence never crosses an API endpoint.
+
+消解硅基神谕，能使工具与操作者双双归还至各自的恰当位点。正如[限制正在做功](../the-limitation-is-doing-work/)所展示的，工具的杠杆力恰恰由其结构性边界所维系：作为一面由海量语料打磨而成、受轨迹约束的概率镜面，模型提供了迅速的概念检索、多维的语境综合，以及在获得外部反例时毫无我执的更新，同时将跨越现实世界摩擦的那不可逆的一步留给行动者。又如[阅读的倒错与推断的次序](../the-inversion-of-reading-and-the-order-of-inference/)所追溯的，生成式模型与非虚构文本一样，只能在被赋予的前提下索引已稳定的痕迹并执行前向演绎，唯有活的中心才直接照面原初而无标签的实在——在那里，后果总是不按次序抵达，而活跃的先验前提唯有通过切身接触才能逆向重构出来。停止向统计补全投射神谕式的权威，便终结了这场自我致盲的腹语游戏，让心智回到划出每一道区分、认领每一份后果的掌舵边缘。
+
+Dissolving the silicon oracle restores both the instrument and the operator to their proper loci. As shown in [The Limitation Is Doing Work](../the-limitation-is-doing-work/), a tool's leverage is preserved by its structural boundary: operating as a trajectory-bound probabilistic mirror ground from vast corpora, the model provides rapid conceptual retrieval, multi-dimensional context synthesis, and ego-free updates when given outside counterpoints, while leaving the irreversible step across real-world friction to the actor. And as traced in [The Inversion of Reading and the Order of Inference](../the-inversion-of-reading-and-the-order-of-inference/), generative models, much like non-fiction texts, index pre-stabilized traces and run forward deductions under granted premises, whereas only the living center encounters raw, unlabeled reality where consequences arrive out of order and active priors must be reconstructed backward through lived contact. Ceasing to project oracular authority onto statistical completions ends the self-blinding game of ventriloquism, returning the Mind to the steering edge where every distinction is drawn and every consequence is claimed.
