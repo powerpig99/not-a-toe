@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T18:05:20.031Z",
+    "generated_at": "2026-10-20T18:11:10.406Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -142,7 +142,7 @@
       "content/posts/on-education.md": "acf5a581efd1",
       "content/posts/one-cannot-escape-ones-own-mind.md": "1f282507aaf4",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "63a25d4f0593",
-      "content/posts/only-if-it-is-not-kept-empty.md": "89ba621e0d4d",
+      "content/posts/only-if-it-is-not-kept-empty.md": "ac0f449d6a9b",
       "content/posts/ontos-is-a-method-agent.md": "61ecab78faf8",
       "content/posts/open-vision-in-a-closed-arena.md": "86f711861938",
       "content/posts/openness-is-consistency.md": "19a79498bbd3",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9423,
-      "unique_directed": 4759,
+      "edges": 9425,
+      "unique_directed": 4760,
       "missing_targets": 0,
-      "one_way": 281,
+      "one_way": 282,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 128
+      "in_degree": 129
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1071,7 +1071,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 128,
+      "in_degree": 129,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -3919,12 +3919,13 @@
       "slug": "only-if-it-is-not-kept-empty",
       "path": "content/posts/only-if-it-is-not-kept-empty.md",
       "title": "只要它不被保持为空 / Only If It Is Not Kept Empty",
-      "hash": "89ba621e0d4d",
+      "hash": "ac0f449d6a9b",
       "in_degree": 11,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "you-wu-zhi-bian",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+        "beyond-the-projection",
         "no-system-can-be-kept-closed",
         "production-consumption-and-the-minds-distinction",
         "openness-is-consistency",
@@ -30174,6 +30175,12 @@
     },
     {
       "from": "only-if-it-is-not-kept-empty",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "only-if-it-is-not-kept-empty",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
       "label": "没有系统能被保持封闭"
@@ -30183,6 +30190,12 @@
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
       "label": "生产、消费与心智的区分"
+    },
+    {
+      "from": "only-if-it-is-not-kept-empty",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "only-if-it-is-not-kept-empty",
