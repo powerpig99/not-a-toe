@@ -10,7 +10,7 @@ Guides (read these instead of re-deriving the workflow each time):
 | Topic | Doc |
 |-------|-----|
 | Posts: structure, voice, cross-links, ship checklist | [`content/posts/README.md`](content/posts/README.md) |
-| Multi-bot authoring & 2-layer wave refinement | [`docs/wave-refinement-plan.md`](docs/wave-refinement-plan.md) |
+| Multi-bot authoring & N-layer sleep consolidation wave | [`docs/wave-refinement-plan.md`](docs/wave-refinement-plan.md) |
 | LLM markdown format (copy-paste prompt) | [`docs/essay-format.md`](docs/essay-format.md) |
 | Cover style differentiation | [`assets/covers/STYLES.md`](assets/covers/STYLES.md) |
 | Posts lattice (cross-link graph) | `node scripts/project-posts-graph.mjs` → [`docs/posts.graph.json`](docs/posts.graph.json) |

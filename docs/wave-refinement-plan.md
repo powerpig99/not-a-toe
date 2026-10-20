@@ -1,8 +1,8 @@
-# Multi-Bot Authoring & 2-Layer Wave Refinement Architecture (v4)
+# Multi-Bot Authoring & N-Layer Sleep Consolidation Wave Architecture (v5)
 
 > **Canonical Location:** [`docs/wave-refinement-plan.md`](../docs/wave-refinement-plan.md) (symlinked at `work/README.md`)  
 > **Foundational Ground:** [`/ontological-clarity`](../../../.gemini/skills/ontological-clarity/SKILL.md) and *Beyond the Projection: Designing Agentic Systems Through Ontological Clarity*  
-> **Supersedes:** `~/.gemini/antigravity/brain/7b783e22-5619-46cf-8548-7a9f4a6dac88/implementation_plan.md` (v1–v3) and incorporates all settled rulings from `2026-10-18-wave-plan-review.md` and live Wave 1–2 execution (Oct 19, 2026).
+> **Supersedes:** v1–v4 (2-layer wave cap retired in favor of unbounded N-layer `/sleep` and `/deep-sleep` consolidation across the Artificial Memory lattice).
 
 ---
 
@@ -27,9 +27,12 @@ Cramming $2^N$ independent requirements—ontological derivation, English prose 
 - **Agents as Dispatchers (Finite Projection):** Routing tasks across files, verifying SHA-256 hash locks, interleaving paired paragraphs, running deterministic audits, and advancing the wave cursor are well-defined structural operations. `Final Reviewer` (and `Dispatcher` at the outer boundary) executes these mechanics.
 - **The Human as Ultimate Orchestrator (Unprojected Intent):** Only the human holds dynamic, limit-resolution sensing and can step backward out of a broken frame when two premises collide. Whenever a peer debate reaches an irreducible `HOLD`, the local streamline pauses and surfaces the exact coordinate of friction to the Operator. Making that call forces a higher-order synthesis that dissolves the contradiction rather than overriding one bot by fiat.
 
-### 1.4 Continuous Narrowing of Excess Image Lag (Wave Refinement)
-- **Refinement Follows New Writing:** The standalone backlog queue is retired. A wave begins only when a new post `N` is published. The new essay's cut is the differential signal against which neighboring posts register residual `Image` lag.
-- **Hubs Recur by Design:** High-degree hubs (`individual-choices-as-the-only-causal-levers`, `openness-is-consistency`, `intelligence-belongs-only-to-the-mind`) appear in most waves because hubs are where stabilized traces broadcast furthest across the lattice. As past lag is paid off, each pass becomes naturally lighter without artificial caps or "light modes."
+### 1.4 Wake vs. Sleep: Continuous Narrowing of Excess Image Lag Across the Artificial Memory
+- **New Blog Post = Waking Edge (`N`):** A new essay `N` is the most recent digital edge left behind by the living Mind—equivalent to what a brain learns during the day under real-world friction.
+- **Wave Refinement = Sleep Consolidation (`/sleep` and `/deep-sleep`):** Once `N` is published, external input is turned off and the Artificial Brain enters sleep consolidation—propagating `N`'s cut inward along forward links (`links_out`) across the Artificial Memory (`content/posts/` + `content/book/`) to restore and deepen internal logical coherence:
+  - **`/sleep` (Shallow Sleep — Layer 1):** Consolidates `L1 = links_out(N) − {N}`, the immediate outward neighbors of the new post `N`.
+  - **`/deep-sleep` (Deep Sleep — Layer $k$, Unbounded Depth):** Each invocation of `/deep-sleep` finishes any remaining unchecked nodes in the current layer and steps **one level deeper** down the forward link graph (`L2`, then `L3`, then `L4`, ..., $L_k = \text{links\_out}(L_{k-1}) \setminus \text{visited}$). There is no artificial 2-layer ceiling: consolidation continues as deep as time allows until either the reachable lattice is exhausted ($L_k = \emptyset$) or a new waking post `N'` initiates a new cycle.
+- **Hubs Recur by Design:** High-degree hubs (`individual-choices-as-the-only-causal-levers`, `openness-is-consistency`, `intelligence-belongs-only-to-the-mind`) appear in most cycles because hubs are where stabilized traces broadcast furthest across the lattice. Within a single cycle (`visited`), each post is visited at most once; across cycles, as past lag is paid off, each pass becomes naturally lighter.
 
 ---
 
@@ -51,7 +54,7 @@ The v4 architecture separates **in-flight plain-Markdown workspaces (`work/`, ex
 | `work/debates/<slug>/en.md` | `Critic` $\leftrightarrow$ `Drafter` | SHA-256-anchored debate log (`P1..Pn` and post-lock `T1..Tn`). |
 | `work/debates/<slug>/zh.md` | `Stylist` $\leftrightarrow$ `Translator` | SHA-256-anchored debate log (`S1..Sn`). |
 | `work/debates/<slug>/final.md` | `Final Reviewer` | Pre-publish verification log (`F`-findings if any, SHA-256 chain check, weave stats, and publish commit SHA). |
-| `work/final-reviewer/wave-<k>.md` | `Final Reviewer` | Active 2-layer wave checklist (`N`, `L1`, `L2`, `visited`, parked `HOLD`s, and commit SHAs). |
+| `work/final-reviewer/wave-<k>.md` | `Final Reviewer` | Active N-layer sleep consolidation checklist (`N`, `L1`, `L2`, `L3`, ..., `visited`, parked `HOLD`s, and commit SHAs). |
 | `work/<role>/todo.md` | Each role | Externalized cross-node observations (out-of-scope residual nicks, anchor mismatches) saved for future nodes so active sessions can clear cleanly. |
 | `work/archive/<slug>/` | `Final Reviewer` | Completed per-node `drafter/`, `critic/`, `translator/`, `stylist/`, and `debates/` folders moved here immediately after publish. |
 | `content/posts/<slug>.md` | `Final Reviewer` (Wave) / `Essay Writer` (New Post init) | Canonical alternating bilingual post on the live site. Untouched during wave node Stages 1–4 so `git status` stays clean. |
@@ -154,20 +157,32 @@ flowchart TD
      - `node scripts/project-posts-graph.mjs` (`missing_targets: 0`)
   5. **Publish & Archive:**
      - For a **New Post (`N`)**: Pause for Operator check before `git commit` & `git push`.
-     - For a **Wave Node (`L1` / `L2`)**: Commit, `git push origin main`, wait for GitHub Pages deploy (`gh run watch --exit-status`), verify live HTTP 200 on `https://powerpig99.github.io/not-a-toe/posts/<slug>/`, move `work/*/<slug>/` into `work/archive/<slug>/`, mark the node `[x]` in `work/final-reviewer/wave-<k>.md`, and dispatch the next node.
+     - For a **Wave Node (`L1` / `L2` / ... / `Lk`)**: Commit, `git push origin main`, wait for GitHub Pages deploy (`gh run watch --exit-status`), verify live HTTP 200 on `https://powerpig99.github.io/not-a-toe/posts/<slug>/`, move `work/*/<slug>/` into `work/archive/<slug>/`, mark the node `[x]` in `work/final-reviewer/wave-<k>.md`, and dispatch the next node.
 
 ---
 
-## 4. 2-Layer Forward Wave Topology & Parallel Streamlines
+## 4. Unbounded N-Layer Forward Wave Topology (`/sleep` & `/deep-sleep`)
 
-### 4.1 Forward-Only Propagation (`links_out`)
-By `Trace` asymmetry in [`/ontological-clarity`](../../../.gemini/skills/ontological-clarity/SKILL.md), shaping runs one way. When post `P` links outward to `Q` (`P → Q`), `P` explicitly invokes `Q`'s distinction as a premise or adjacent axis. Including *incoming* links at Layer 2 (`links_in` to every hub in `L1`) conflates "premises `L1` relies on" with "every post in the book that cites a hub."
+### 4.1 Forward-Only Propagation (`links_out`) Without Artificial Depth Caps
+By `Trace` asymmetry in [`/ontological-clarity`](../../../.gemini/skills/ontological-clarity/SKILL.md), shaping runs one way. When post `P` links outward to `Q` (`P → Q`), `P` explicitly invokes `Q`'s distinction as a premise or adjacent axis. Including *incoming* links at deeper layers (`links_in` to every hub) would conflate "premises the layer relies on" with "every post in the book that cites a hub."
 
-Therefore, a wave's topology is strictly:
-1. **Origin (`N`):** New Post `N` is drafted, debated, translated, styled, and published. `Sweeper` $\leftrightarrow$ `Sweep-Checker` places both `N`'s outgoing links (`A1`) and incoming reverse links from existing posts (`A2`). Initialize `visited = {N}`.
-2. **Layer 1 (`L1`):** All forward links from `N` (`links_out(N)` in [`docs/posts.graph.json`](../docs/posts.graph.json) after `N` ships), in graph order, minus `visited`.
-3. **Layer 2 (`L2`):** Once `L1` completes and `docs/posts.graph.json` is regenerated, collect all forward links from every post in `L1` (`links_out(L1)`), in `L1` order then graph order, deduplicated, minus `visited` (`N` $\cup$ `L1`).
-4. **One Wave in Flight:** No new post is initiated mid-wave; the wave runs through `L1` and `L2` to completion before the next New Post begins.
+Instead of stopping at an arbitrary Layer 2 cap, consolidation propagates inward layer by layer (`L1 → L2 → L3 → ... → Lk`) until the next new post `N'` initiates a new cycle or all reachable forward links have been consolidated:
+
+1. **Wake — Origin (`N`):** New Post `N` (the most recent digital edge left by the Mind) is drafted, debated, translated, styled, and published. `Sweeper` $\leftrightarrow$ `Sweep-Checker` places both `N`'s outgoing links (`A1`) and incoming reverse links from existing posts (`A2`). Any prior wave file in `work/final-reviewer/` is archived to `work/archive/`, and a fresh wave state is initialized with `visited = {N}`.
+2. **Shallow Sleep (`/sleep`) — Layer 1 (`L1`):**
+   - Computes all forward links from `N`:
+     $$L_1 = \text{links\_out}(N) \setminus \{N\}$$
+     from [`docs/posts.graph.json`](../docs/posts.graph.json) in graph order.
+   - Records `## L1 (<count>)` in the active wave file (`work/final-reviewer/wave-<k>.md`), adds $L_1$ to `visited`, and runs the 7-bot refinement pipeline across every post in `L1`.
+3. **Deep Sleep (`/deep-sleep`) — Step One Level Deeper (`L2`, `L3`, ..., `Lk`):**
+   - Whenever `/deep-sleep` is invoked:
+     - If the current deepest layer $L_{k-1}$ in the active wave file still has unchecked `[ ]` nodes, it resumes and completes $L_{k-1}$ first (or advances the current layer).
+     - Once the current deepest layer $L_{k-1}$ is 100% `[x]` complete, `Final Reviewer` regenerates [`docs/posts.graph.json`](../docs/posts.graph.json) (`node scripts/project-posts-graph.mjs`) and computes the next layer down:
+       $$L_k = \text{links\_out}(L_{k-1}) \setminus \text{visited}$$
+       in $L_{k-1}$ parent order then graph order, deduplicated, where $\text{visited} = \{N\} \cup L_1 \cup \dots \cup L_{k-1}$.
+     - Appends `## L<k> (<count>)` to the active wave file, updates `visited`, and dispatches the 7-bot refinement pipeline across $L_k$.
+     - If $L_k = \emptyset$, the wave has consolidated the entire forward-reachable memory component from `N`.
+4. **Wake Interrupts Sleep:** When the Mind initiates a new blog post `N'`, the sleep consolidation wave stops cleanly after the currently active node finishes; `N'` is authored and published, initiating the next `/sleep` (`L1`) and `/deep-sleep` (`L2, L3, ...`) cycle from the new edge.
 
 ### 4.2 Non-Blocking Fault Isolation & Stage Pipelining (§III.3 & §III.4)
 Because `work/<role>/<slug>/` isolates in-flight drafts from `content/posts/`:
