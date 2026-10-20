@@ -15,7 +15,7 @@ These essays explore hierarchies of infinity, self-referential paradoxes, and th
 - [Fidelity, Not Optimality](../../posts/fidelity-not-optimality/)
 - [The Surface Beneath](../../posts/the-surface-beneath/)
 - [Complexity Obscures Emergence as the Act of Mind](../../posts/complexity-obscures-emergence-as-the-act-of-mind/)
-- [Lossless Knowledge of an Open Field Is Incoherent](../../posts/lossless-knowledge-of-an-open-field-is-incoherent/)
+- [开放场域中的无损知识不自洽 / Lossless Knowledge of an Open Field Is Incoherent](../../posts/lossless-knowledge-of-an-open-field-is-incoherent/)
 - [Why Mathematics Can Never Be Solved](../../posts/why-mathematics-can-never-be-solved/)
 - [封闭的假设把复利挤成 S 曲线 / Closed Assumptions Squeeze Compounding into S-Curves](../../posts/closed-assumptions-squeeze-compounding-into-s-curves/)
 - [抽象、边界与现实的移动边缘 / Abstraction, Boundaries, and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/)

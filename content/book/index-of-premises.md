@@ -177,7 +177,7 @@ Munger advocates mental models and avoiding unforced errors; peerless for capita
 
 Shannon defined information as the reduction of uncertainty in a communication channel and stated that the semantic aspects of communication are irrelevant to the engineering problem, which is of use in sizing channels and designing codes; it reaches its boundary in that channel entropy counts distinctions already made relative to an agreed partition, and carried over to open-ended meaning or to lossless knowledge of an open field it goes beyond the scope it set for itself.
 
-→ [Lossless Knowledge of an Open Field Is Incoherent](../../posts/lossless-knowledge-of-an-open-field-is-incoherent/) · [信息是什么 / What Information Is](../../posts/what-information-is/)
+→ [开放场域中的无损知识不自洽 / Lossless Knowledge of an Open Field Is Incoherent](../../posts/lossless-knowledge-of-an-open-field-is-incoherent/) · [信息是什么 / What Information Is](../../posts/what-information-is/)
 
 ### 科利·多克托罗 / Cory Doctorow
 `意识形态 / Ideological`
@@ -1347,7 +1347,7 @@ Logistic growth presumes that growth faces a natural carrying capacity K and tha
 
 Laplacian epistemology assumes complete state capture allows flawless future prediction; an open-ended generative field outstrips finite encoding, making complete capture impossible.
 
-→ [Lossless Knowledge of an Open Field Is Incoherent](../../posts/lossless-knowledge-of-an-open-field-is-incoherent/)
+→ [开放场域中的无损知识不自洽 / Lossless Knowledge of an Open Field Is Incoherent](../../posts/lossless-knowledge-of-an-open-field-is-incoherent/)
 
 ### 劳动总量固定谬误 / Lump of Labor Fallacy
 `经济 / Economic`
