@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T18:50:36.038Z",
+    "generated_at": "2026-10-20T18:51:40.960Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -271,7 +271,7 @@
       "content/posts/the-illusion-of-the-unmediated.md": "e034e7dc306c",
       "content/posts/the-imagining-of-ai-risk.md": "9997b9580810",
       "content/posts/the-initial-distinction.md": "264045ff9a7d",
-      "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md": "305d17fa1783",
+      "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md": "5055d175e3de",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
       "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "47a6ffb6ae17",
       "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "470eefc2ebed",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9483,
-      "unique_directed": 4773,
+      "edges": 9489,
+      "unique_directed": 4774,
       "missing_targets": 0,
-      "one_way": 295,
+      "one_way": 296,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 142
+      "in_degree": 143
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1073,7 +1073,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 142,
+      "in_degree": 143,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -7080,12 +7080,13 @@
       "slug": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
       "path": "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md",
       "title": "内部人假定与被动防护的因果倒置 / The Insider Presumption and the Causal Inversion of Reactive Containment",
-      "hash": "305d17fa1783",
+      "hash": "5055d175e3de",
       "in_degree": 2,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "a-creation-cannot-replace-its-source",
+        "beyond-the-projection",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-summary-first-reversal-and-the-command-of-yields",
@@ -49220,6 +49221,18 @@
     },
     {
       "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
       "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "rel": "points_to",
       "label": "框架的倒置与驾驶位的主权非对称"
@@ -49253,6 +49266,18 @@
       "to": "the-summary-first-reversal-and-the-command-of-yields",
       "rel": "points_to",
       "label": "Macro Parameters, Micro Choices, and the Command of Yields"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
@@ -49292,9 +49317,21 @@
     },
     {
       "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
       "to": "the-reflexive-dilemma-of-unique-insight",
       "rel": "points_to",
       "label": "独见者的自反困境与必然性的后验投射"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
