@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T16:24:14.733Z",
+    "generated_at": "2026-10-20T16:26:04.633Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -42,7 +42,7 @@
       "content/posts/climbing-does-not-leave-the-ground.md": "d9ca1acbfe95",
       "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "8bce8e0d1c10",
       "content/posts/closed-reality-in-benchmark-maxing.md": "d08874947c2e",
-      "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "7c59e734d934",
+      "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "989e5f110b45",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "ef5144285a50",
       "content/posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback.md": "e1c59f1cd3e2",
       "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "cca7ab69ed23",
@@ -407,7 +407,7 @@
       "content/book/causality.md": "c5ac49c16705",
       "content/book/consciousness.md": "84e10ab5f9aa",
       "content/book/economics.md": "0208ea9246ef",
-      "content/book/index-of-premises.md": "4415a516c828",
+      "content/book/index-of-premises.md": "7ea2d79251d6",
       "content/book/intelligence.md": "02d9fc8131b1",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -418,15 +418,15 @@
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "0520232eef96",
-      "content/book/success-and-the-self.md": "c884fe2b7f02",
+      "content/book/success-and-the-self.md": "9790413b85f6",
       "content/book/tools-and-progress.md": "f326c837af48"
     },
     "stats": {
       "posts": 396,
-      "edges": 9307,
-      "unique_directed": 4727,
+      "edges": 9324,
+      "unique_directed": 4728,
       "missing_targets": 0,
-      "one_way": 249,
+      "one_way": 250,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -441,7 +441,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 96
+      "in_degree": 97
     },
     {
       "slug": "openness-is-consistency",
@@ -1069,7 +1069,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 96,
+      "in_degree": 97,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1523,15 +1523,16 @@
       "kind": "post",
       "slug": "closed-reality-in-the-pursuit-of-serendipity",
       "path": "content/posts/closed-reality-in-the-pursuit-of-serendipity.md",
-      "title": "Closed Reality in the Pursuit of Serendipity",
-      "hash": "7c59e734d934",
+      "title": "追求机缘中的封闭现实 / Closed Reality in the Pursuit of Serendipity",
+      "hash": "989e5f110b45",
       "in_degree": 14,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "openness-is-consistency",
         "the-path-drawn-one-step-at-a-time",
         "no-system-can-be-kept-closed",
+        "beyond-the-projection",
         "not-predicting-is-predicting-without-awareness",
         "production-consumption-and-the-minds-distinction",
         "writing-without-the-image",
@@ -15732,91 +15733,193 @@
       "from": "closed-reality-in-the-pursuit-of-serendipity",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "Closed reality in benchmark maxing"
+      "label": "基准刷榜中的封闭实存"
     },
     {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
+    },
+    {
+      "from": "closed-reality-in-the-pursuit-of-serendipity",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing"
+    },
+    {
+      "from": "closed-reality-in-the-pursuit-of-serendipity",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
-      "label": "The path drawn one step at a time"
+      "label": "一步一步绘制出的路径"
+    },
+    {
+      "from": "closed-reality-in-the-pursuit-of-serendipity",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "The Path Drawn One Step at a Time"
     },
     {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "closed-reality-in-the-pursuit-of-serendipity",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "closed-reality-in-the-pursuit-of-serendipity",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "closed-reality-in-the-pursuit-of-serendipity",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
       "to": "not-predicting-is-predicting-without-awareness",
       "rel": "points_to",
-      "label": "Not predicting is predicting without awareness"
+      "label": "不预测是没有觉察的预测"
+    },
+    {
+      "from": "closed-reality-in-the-pursuit-of-serendipity",
+      "to": "not-predicting-is-predicting-without-awareness",
+      "rel": "points_to",
+      "label": "Not Predicting Is Predicting Without Awareness"
     },
     {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, consumption, and the Mind’s distinction"
+      "label": "生产、消费与心智的区分"
+    },
+    {
+      "from": "closed-reality-in-the-pursuit-of-serendipity",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, Consumption, and the Mind's Distinction"
     },
     {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
       "to": "writing-without-the-image",
       "rel": "points_to",
-      "label": "Writing without the image"
+      "label": "无形象的写作"
+    },
+    {
+      "from": "closed-reality-in-the-pursuit-of-serendipity",
+      "to": "writing-without-the-image",
+      "rel": "points_to",
+      "label": "Writing Without the Image"
     },
     {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "The scaffolding we forget"
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "closed-reality-in-the-pursuit-of-serendipity",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
     },
     {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
       "to": "only-if-it-is-not-kept-empty",
       "rel": "points_to",
-      "label": "Only if it is not kept empty"
+      "label": "只要它不被保持为空"
     },
     {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
       "to": "not-predicting-is-predicting-without-awareness",
       "rel": "points_to",
-      "label": "Not predicting is predicting without awareness"
+      "label": "不预测是没有觉察的预测"
+    },
+    {
+      "from": "closed-reality-in-the-pursuit-of-serendipity",
+      "to": "only-if-it-is-not-kept-empty",
+      "rel": "points_to",
+      "label": "Only If It Is Not Kept Empty"
+    },
+    {
+      "from": "closed-reality-in-the-pursuit-of-serendipity",
+      "to": "not-predicting-is-predicting-without-awareness",
+      "rel": "points_to",
+      "label": "Not Predicting Is Predicting Without Awareness"
     },
     {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
       "to": "a-new-deeper-look-at-antifragility",
       "rel": "points_to",
-      "label": "Antifragility as prosthesis, not driver"
+      "label": "重新审视反脆弱"
     },
     {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
       "to": "the-paradoxical-nature-of-bystander-insights",
       "rel": "points_to",
-      "label": "The paradoxical nature of bystander insights"
+      "label": "旁观者洞察的悖论"
     },
     {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
       "to": "the-reality-distortion-field-names-the-closed-map",
       "rel": "points_to",
-      "label": "The reality distortion field names the closed map"
+      "label": "现实扭曲力场指认的是封闭的地图"
+    },
+    {
+      "from": "closed-reality-in-the-pursuit-of-serendipity",
+      "to": "a-new-deeper-look-at-antifragility",
+      "rel": "points_to",
+      "label": "A New Deeper Look at Antifragility: Prosthesis, Not Driver"
+    },
+    {
+      "from": "closed-reality-in-the-pursuit-of-serendipity",
+      "to": "the-paradoxical-nature-of-bystander-insights",
+      "rel": "points_to",
+      "label": "The Paradoxical Nature of Bystander Insights"
+    },
+    {
+      "from": "closed-reality-in-the-pursuit-of-serendipity",
+      "to": "the-reality-distortion-field-names-the-closed-map",
+      "rel": "points_to",
+      "label": "The Reality Distortion Field Names the Closed Map"
     },
     {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
-      "label": "Clarity isn’t a state you arrive at"
+      "label": "清晰不是抵达的终点，而是运动本身"
     },
     {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
       "to": "open-vision-in-a-closed-arena",
       "rel": "points_to",
-      "label": "Open vision in a closed arena"
+      "label": "封闭竞技场中的开放视野"
+    },
+    {
+      "from": "closed-reality-in-the-pursuit-of-serendipity",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
+    },
+    {
+      "from": "closed-reality-in-the-pursuit-of-serendipity",
+      "to": "open-vision-in-a-closed-arena",
+      "rel": "points_to",
+      "label": "Open Vision in a Closed Arena"
     },
     {
       "from": "complexity-obscures-emergence-as-the-act-of-mind",
@@ -65960,7 +66063,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "4415a516c828",
+        "hash": "7ea2d79251d6",
         "out_degree": 396
       },
       {
@@ -66059,7 +66162,7 @@
         "slug": "success-and-the-self",
         "path": "content/book/success-and-the-self.md",
         "title": "成功学公式与自我重塑 / The Formula of Success and Self-Reconstruction",
-        "hash": "c884fe2b7f02",
+        "hash": "9790413b85f6",
         "out_degree": 33
       },
       {
@@ -69425,7 +69528,7 @@
         "from": "book:index-of-premises",
         "to": "closed-reality-in-the-pursuit-of-serendipity",
         "rel": "collects",
-        "label": "Closed Reality in the Pursuit of Serendipity"
+        "label": "追求机缘中的封闭现实 / Closed Reality in the Pursuit of Serendipity"
       },
       {
         "from": "book:index-of-premises",
@@ -72305,7 +72408,7 @@
         "from": "book:success-and-the-self",
         "to": "closed-reality-in-the-pursuit-of-serendipity",
         "rel": "collects",
-        "label": "Closed Reality in the Pursuit of Serendipity"
+        "label": "追求机缘中的封闭现实 / Closed Reality in the Pursuit of Serendipity"
       },
       {
         "from": "book:success-and-the-self",

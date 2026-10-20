@@ -19,7 +19,7 @@ These essays examine victimhood paralysis, shortcut delusions, and cognitive inv
 - [Dissolving Munger's "Dumb Competition"](../../posts/munger-dumb-competition-refined/)
 - [自我价值感与所有权 / Ownership and Self-Worthiness](../../posts/ownership-and-self-worthiness/)
 - [The Flywheel of the Mind](../../posts/the-flywheel-of-the-mind/)
-- [Closed Reality in the Pursuit of Serendipity](../../posts/closed-reality-in-the-pursuit-of-serendipity/)
+- [追求机缘中的封闭现实 / Closed Reality in the Pursuit of Serendipity](../../posts/closed-reality-in-the-pursuit-of-serendipity/)
 - [现实扭曲力场指认的是封闭的地图 / The Reality Distortion Field Names the Closed Map](../../posts/the-reality-distortion-field-names-the-closed-map/)
 - [Therapy Opens the Feedback Loop](../../posts/therapy-opens-the-feedback-loop/)
 - [当观察变成表演 / When Observation Becomes Performance](../../posts/when-observation-becomes-performance/)

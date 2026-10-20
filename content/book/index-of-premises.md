@@ -3356,7 +3356,7 @@ Taking a result whose path is unseen for a miracle, a gift or luck reads causali
 
 Life-hack culture assumes scheduling blank time automatically produces serendipity; real discovery demands venturing across unmapped terrain with alert perception.
 
-→ [Closed Reality in the Pursuit of Serendipity](../../posts/closed-reality-in-the-pursuit-of-serendipity/)
+→ [追求机缘中的封闭现实 / Closed Reality in the Pursuit of Serendipity](../../posts/closed-reality-in-the-pursuit-of-serendipity/)
 
 ### 刻痕与当下判别的区分 / Mark vs Discernment Act
 `哲学 / Philosophical`
