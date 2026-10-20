@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T19:40:09.551Z",
+    "generated_at": "2026-10-20T19:44:36.386Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -282,7 +282,7 @@
       "content/posts/the-irreducible-observer.md": "9d75e4557aa6",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "247a3d936241",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "90184550cd3a",
-      "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "6cfe5d5e68e6",
+      "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "2e492f075a1c",
       "content/posts/the-ledger-of-the-unencountered.md": "8932d526bdcc",
       "content/posts/the-limitation-is-doing-work.md": "d9e53e47a265",
       "content/posts/the-living-context.md": "2d1c878d63a5",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9539,
-      "unique_directed": 4790,
+      "edges": 9541,
+      "unique_directed": 4791,
       "missing_targets": 0,
-      "one_way": 312,
+      "one_way": 313,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 157
+      "in_degree": 158
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1073,7 +1073,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 157,
+      "in_degree": 158,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -7314,9 +7314,9 @@
       "slug": "the-ladder-of-abstraction-and-the-executable-entity",
       "path": "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md",
       "title": "抽象的阶梯与可执行的实体 / The Ladder of Abstraction and the Executable Entity",
-      "hash": "6cfe5d5e68e6",
+      "hash": "2e492f075a1c",
       "in_degree": 7,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "climbing-does-not-leave-the-ground",
         "po-chu-gai-nian-de-jian-yue",
@@ -7324,7 +7324,8 @@
         "boletus-compute-storm-and-promethean-fire",
         "the-model-never-becomes-a-second-edge",
         "mistaking-the-expression-for-the-intelligence",
-        "technology-is-residual-of-human-compounding"
+        "technology-is-residual-of-human-compounding",
+        "beyond-the-projection"
       ]
     },
     {
@@ -50581,15 +50582,15 @@
     },
     {
       "from": "the-ladder-of-abstraction-and-the-executable-entity",
-      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "to": "po-chu-gai-nian-de-jian-yue",
       "rel": "points_to",
-      "label": "“物理学才是定律”的障眼法"
+      "label": "Breaking the Overreach of Concepts"
     },
     {
       "from": "the-ladder-of-abstraction-and-the-executable-entity",
-      "to": "po-chu-gai-nian-de-jian-yue",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "rel": "points_to",
-      "label": "Overcoming the Usurpation of Concepts"
+      "label": "“物理学才是定律”的障眼法"
     },
     {
       "from": "the-ladder-of-abstraction-and-the-executable-entity",
@@ -50629,12 +50630,6 @@
     },
     {
       "from": "the-ladder-of-abstraction-and-the-executable-entity",
-      "to": "technology-is-residual-of-human-compounding",
-      "rel": "points_to",
-      "label": "技术是人类复利的残差"
-    },
-    {
-      "from": "the-ladder-of-abstraction-and-the-executable-entity",
       "to": "climbing-does-not-leave-the-ground",
       "rel": "points_to",
       "label": "Climbing Does Not Leave the Ground"
@@ -50655,7 +50650,25 @@
       "from": "the-ladder-of-abstraction-and-the-executable-entity",
       "to": "technology-is-residual-of-human-compounding",
       "rel": "points_to",
-      "label": "Technology is Residual of Human Compounding"
+      "label": "技术是人类复利的残差"
+    },
+    {
+      "from": "the-ladder-of-abstraction-and-the-executable-entity",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-ladder-of-abstraction-and-the-executable-entity",
+      "to": "technology-is-residual-of-human-compounding",
+      "rel": "points_to",
+      "label": "Technology Is Residual of Human Compounding"
+    },
+    {
+      "from": "the-ladder-of-abstraction-and-the-executable-entity",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-ledger-of-the-unencountered",
