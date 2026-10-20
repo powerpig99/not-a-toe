@@ -23,7 +23,7 @@ The essays in this part dissect Geoffrey Hinton's cognitive leaps, the limits of
 - [Context All the Way Down](../../posts/context-engineering-essay/)
 - [The Name-Negation Tendency](../../posts/name-negation-tendency/)
 - [The Collapsed Debate](../../posts/the-collapsed-debate/)
-- [Distillation Doesn't Compress — It Chooses What to Lose](../../posts/distillation-compression-agency/)
+- [蒸馏、压缩与能动性 / Distillation Chooses What to Lose](../../posts/distillation-compression-agency/)
 - [The Tightening Loop](../../posts/the-tightening-loop/)
 - [The Descent That Doesn't Know Where It's Going](../../posts/the-descent-that-doesnt-know-where-its-going/)
 - [Overfitting as the Follower Mode](../../posts/overfitting-as-the-follower-mode/)

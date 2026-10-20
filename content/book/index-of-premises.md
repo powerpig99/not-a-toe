@@ -3203,7 +3203,7 @@ Moral karma presumes past actions dictate future destiny via cosmic justice; cau
 
 Distillation treats model compression as transferring general reasoning into smaller networks; smaller models preserve high-density correlations while dropping long-tail reasoning.
 
-→ [Distillation Doesn't Compress — It Chooses What to Lose](../../posts/distillation-compression-agency/)
+→ [蒸馏、压缩与能动性 / Distillation Chooses What to Lose](../../posts/distillation-compression-agency/)
 
 ### 知识问题 / Knowledge Problem
 `经济 / Economic`
