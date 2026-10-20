@@ -7,10 +7,9 @@ Guides (read these instead of re-deriving the workflow each time):
 | Topic | Doc |
 |-------|-----|
 | Posts: structure, voice, cross-links, ship checklist | [`content/posts/README.md`](content/posts/README.md) |
+| Multi-bot authoring & 2-layer wave refinement | [`docs/wave-refinement-plan.md`](docs/wave-refinement-plan.md) |
 | LLM markdown format (copy-paste prompt) | [`docs/essay-format.md`](docs/essay-format.md) |
 | Cover style differentiation | [`assets/covers/STYLES.md`](assets/covers/STYLES.md) |
-| Paste export (Substack + X Article) | [`docs/export-for-substack.md`](docs/export-for-substack.md) (one absolute-markdown file) |
-| X Article API (parked) | [`docs/export-for-x-article.md`](docs/export-for-x-article.md) |
 | Local memory / sleep audit / graphs | [`docs/local-memory.md`](docs/local-memory.md) — trackers: `node scripts/project-local-graph.mjs`; posts lattice: `node scripts/project-posts-graph.mjs` |
 
 1. Add essays in `content/posts/<slug>.md` (bilingual `# Title`, italic single-sentence subtitle, alternating paragraphs, zero lists).
@@ -22,17 +21,12 @@ Guides (read these instead of re-deriving the workflow each time):
 7. Preflight validation:
    - `python3 scripts/audit-post.py <slug>` (CLEAN PASS across all 10 invariants).
    - `python3 scripts/audit-book.py` (CLEAN PASS for the live book).
-8. After live, **always generate** the absolute-markdown paste file for Substack / X Article (detail: [`docs/export-for-substack.md`](docs/export-for-substack.md)):
-
-```bash
-node scripts/export-absolute-md.mjs <slug>          # → export/<slug>.md (required after live)
-```
 
 ## Publish (default)
 
 CI builds and deploys Pages on push to `main`. **Push is not live** until Actions finishes and the post URL returns 200.
 
-Full ship checklist (preflight audits → reverse links → live book placement → push → `gh run watch` → live curl → **required** export generate): [`content/posts/README.md`](content/posts/README.md) § Ship checklist.
+Full ship checklist (preflight audits → reverse links → live book placement → push → `gh run watch` → live curl): [`content/posts/README.md`](content/posts/README.md) § Ship checklist.
 
 ```bash
 git add content/posts/<slug>.md content/book/<part>.md content/book/index-of-premises.md assets/covers/<slug>.jpg assets/covers/STYLES.md
@@ -40,7 +34,6 @@ git commit -m "Publish Post #XXX: <Title>"
 git push origin main
 gh run watch --exit-status
 curl -sI "https://powerpig99.github.io/not-a-toe/posts/<slug>/" | head -1
-node scripts/export-absolute-md.mjs <slug>   # required after live; paste is operator
 ```
 
 ## Local build (optional preflight)

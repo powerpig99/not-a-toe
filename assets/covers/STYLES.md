@@ -1,13 +1,11 @@
 # Cover styles
 
-Living inventory for essay covers in this folder. Filename = essay slug (`content/posts/<slug>.md` → `assets/covers/<slug>.jpg`). Default generator is local **Qwen-Image-2.1** (`python3 scripts/generate-cover.py <slug> --prompt "..."`). Install as landscape ultra-wide **21:9** JPEG at **1344×576** (or 20:9 at **1280×576**) — the shared aspect for site, Substack featured image, and X Article cover.
+Living inventory for essay covers in this folder. Filename = essay slug (`content/posts/<slug>.md` → `assets/covers/<slug>.jpg`). Default generator is local **Qwen-Image-2.1** (`python3 scripts/generate-cover.py <slug> --prompt "..."`). Install as landscape ultra-wide **21:9** JPEG at **1344×576** (or 20:9 at **1280×576**).
 
 | Related | Path |
 |---------|------|
 | Post authoring | [`content/posts/README.md`](../../content/posts/README.md) |
 | Local generator script | [`scripts/generate-cover.py`](../../scripts/generate-cover.py) |
-| Paste export (Substack + X Article) | [`docs/export-for-substack.md`](../../docs/export-for-substack.md) — one absolute-markdown file |
-| X Article API (parked) | [`docs/export-for-x-article.md`](../../docs/export-for-x-article.md) |
 | Local memory / sleep audit | [`docs/local-memory.md`](../../docs/local-memory.md) |
 
 ## Principle
@@ -49,7 +47,7 @@ Cream-linen / museum craft-table documentary stills (brass prop + paper + cool s
 | Rule | Detail |
 |---|---|
 | Default Generator | Local **Qwen-Image-2.1** pipeline (`python3 scripts/generate-cover.py <slug> --prompt "..."`) in `bfloat16` via Apple Silicon MPS. Auto-routes through project virtual environment. |
-| Aspect | Default: ultra-wide **21:9** landscape (`1344×576`, exact 21:9 integer multiple of 32). Compatible with **20:9** (`1280×576`). Site, Substack, and X Article share the same file at native ratio without forced crop. |
+| Aspect | Default: ultra-wide **21:9** landscape (`1344×576`, exact 21:9 integer multiple of 32). Compatible with **20:9** (`1280×576`). |
 | Size | Default **1344×576** (21:9) or **1280×576** (20:9). |
 | Text | Strictly none (no title, no logo, no legible captions/labels). |
 | Fit | Concept reads the essay’s cut; style is independent of other covers. |
@@ -689,5 +687,3 @@ Examples of non-still directions (illustrative only — invent, do not recycle a
 5. Generate at **20:9** when available (`aspect_ratio: "20:9"`); **16:9 as-is** is fine — no forced crop. Install as `assets/covers/<slug>.jpg`.
 6. Append the slug to Inventory and the family row (or add a new Style families row). On random reuse, append the slug to that family’s Covers cell.
 7. Operator drop supersedes agent-gen when provided (install + update STYLES only).
-
-Same asset is reused for Substack paste cover and X Article `cover_media` — do not maintain a second aspect-ratio set.

@@ -128,4 +128,4 @@ Always execute the complete verification sequence before finalizing:
 5. `node scripts/project-local-graph.mjs` — Updates local workspace graph tracker.
 6. `git add ... && git commit -m "Publish Post #XXX: <Title>" && git push origin main`.
 7. `gh run watch --exit-status` — Verifies GitHub Actions deployment succeeds.
-8. `curl -sI https://powerpig99.github.io/not-a-toe/posts/<slug>/` — Confirms live HTTP 200. (Note: Separate distribution export via `export-absolute-md.mjs` is retired as the corpus is maintained solely as a living book).
+8. `curl -sI https://powerpig99.github.io/not-a-toe/posts/<slug>/` — Confirms live HTTP 200.

@@ -45,7 +45,7 @@ Output rules (strict):
     - Objective facts: there are no mind-independent objective facts; "objective facts" are macroscopic phenomena that maintain invariance across different subjective cognitions.
     - Clean moralizing rhetoric: purge judgmental, patronizing, or moralizing language that presumes a God's-eye view. Maintain a rigorous first-person analytical perspective.
     - Banned words by context: never in the essay's own description or evaluation, allowed where they name a prevailing take as an object (`['纯粹', '绝对', '完全', '彻底', '绝不', '通常', '往往', '或许', '某种意义上', '降维重构', '本质', '根本', '自始至终', '缰绳', '物理现实', '平庸', '物理意志']`).
-22. Mathematical and symbolic notation: Do NOT use LaTeX syntax (`$` or `$$` as math delimiters; a currency sign before a figure, such as `$2.00`, is fine). `build.mjs`, Substack, and X do not parse LaTeX, leaving raw dollar signs and backslashes in the output. Always use clean Unicode mathematical symbols (e.g. `—∞ → +∞`, `ΔV + ΔE = 0`, `R_perceive = R_collapse`, `V₁ ⇌ V₂ ⇌ V₃ ⇌ V₁`, `(0 or 1)`), emphasis (`*V*`), or backticked code.
+22. Mathematical and symbolic notation: Do NOT use LaTeX syntax (`$` or `$$` as math delimiters; a currency sign before a figure, such as `$2.00`, is fine). `build.mjs` does not parse LaTeX, leaving raw dollar signs and backslashes in the output. Always use clean Unicode mathematical symbols (e.g. `—∞ → +∞`, `ΔV + ΔE = 0`, `R_perceive = R_collapse`, `V₁ ⇌ V₂ ⇌ V₃ ⇌ V₁`, `(0 or 1)`), emphasis (`*V*`), or backticked code.
 23. Companion NotebookLM Prompts: RETIRED (2026-10-12). No longer a deliverable; do not write them.
 24. Standard Walkthrough Contract:
     - Every post walkthrough must embed the visual artifact, describe the cover art style and concept, catalogue all dark-theme Mermaid diagrams with semantic coloring, articulate core epistemological cuts, report invariant diagnostic check results, and provide multi-platform publishing copies (Spotify Podcast ZH, Spotify Podcast EN, WeChat Video Channels [strictly requiring a punchy short title `<= 16` Chinese characters, concise caption, canonical live URL, and 3–5 `#话题` topic tags], and X/Twitter EN Only; all four platform copies must explicitly include the original essay live URL: `https://powerpig99.github.io/not-a-toe/posts/<slug>/`).
@@ -85,12 +85,11 @@ Full title / subtitle / lead jobs, refinement workflow, and anti-repetition chec
 - In **source** (`content/posts/`): `[axis name](../slug/)`.
 - Pointers only — restore an axis; do not restate the linked essay.
 - Living updates (same-slug revise, sleep neighbor pass) still use relative pointers only — no absolute site URLs, no frontmatter `related:` list. The posts graph is a projection of these links: `node scripts/project-posts-graph.mjs`.
-- For Substack / X Article paste, one absolute-link markdown export — see [`docs/export-for-substack.md`](export-for-substack.md).
 
 ## Optional Title Image
 
 Place a landscape cover at `assets/covers/<slug>.jpg` (or `.jpeg` / `.png` / `.webp`), matching the markdown filename without extension. 
-Default generator is local **Qwen-Image-2.1** (`python3 scripts/generate-cover.py <slug> --prompt "..."`), targeting ultra-wide **21:9** at **1344×576** (or 20:9 at **1280×576**). That aspect is the shared install for site title image, Substack featured image, and X Article `cover_media` — one file, three consumers. The build:
+Default generator is local **Qwen-Image-2.1** (`python3 scripts/generate-cover.py <slug> --prompt "..."`), targeting ultra-wide **21:9** at **1344×576** (or 20:9 at **1280×576**). The build:
 
 - copies it to `public/covers/`
 - renders it above the essay title

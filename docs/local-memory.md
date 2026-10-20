@@ -22,11 +22,9 @@ Manifest of operational `.md` files for this project. Temporary ground at projec
 | ID | Path | Owns |
 |----|------|------|
 | `posts` | [`content/posts/README.md`](../content/posts/README.md) | Authoring contract, refinement workflow (surgical; draft as ground), voice, cross-links, reverse links, lattice consistency (same-axis old claims, same ship), ship checklist |
+| `wave` | [`docs/wave-refinement-plan.md`](wave-refinement-plan.md) | Multi-bot authoring & 2-layer forward wave refinement architecture (v4) |
 | `format` | [`docs/essay-format.md`](essay-format.md) | Site scaffold reference + LLM copy-paste prompt (not absolute ground over operator draft) |
 | `book` | [`content/book/`](../content/book/) | Live book: preface, parts (held belief → premise boundary → essays in written order), Index of Premises. Membership and index links live only here as relative links; `PART_ORDER` in `build.mjs` orders parts; audit `python3 scripts/audit-book.py` |
-| `export` | [`docs/export-for-substack.md`](export-for-substack.md) | Shared absolute-markdown: **generate required after live** on ship; paste is operator-only |
-| `export-x` | [`docs/export-for-x-article.md`](export-for-x-article.md) | Points at shared export; Articles API parked |
-| `export-stub` | [`export/README.md`](../export/README.md) | Pointer only — not a second export guide |
 | `covers` | [`assets/covers/STYLES.md`](../assets/covers/STYLES.md) | Cover style families, inventory, differentiation rule |
 | `root` | [`README.md`](../README.md) | Index of guides + minimal authoring summary |
 | `local` | [`docs/local-memory.md`](local-memory.md) | This manifest + sleep audit steps |
@@ -68,8 +66,7 @@ Essay bodies under `content/posts/*.md` are **content**, not trackers — a livi
       - Is a **single pointer clause** enough? Only when the old claim still holds and only the new face needs naming. If the paragraph would summarize the seed, stop.
       - Broken `../slug/` → fix immediately (lint).
       - Skip reverse only when the neighbor genuinely has no shared axis (rare); note the skip. Isolation is exception, not default.
-   5. If prose changed and Substack/X will be updated by hand, re-export those surfaces (export trackers).
-   6. If any links changed, regenerate posts graph again.
+   5. If any links changed, regenerate posts graph again.
 7. **Regenerate tracker / skill graphs**
 
    ```bash

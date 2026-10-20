@@ -1,13 +1,12 @@
 # Posts — authoring contract
 
-Living guide for essays in this folder. Source of truth for site content lives here as `*.md`. Covers and Substack paste have their own trackers; this file is for writing, linking, and shipping the post itself. **Not a site post** — the build skips `README.md` (slug would otherwise be `/posts/README/`).
+Living guide for essays in this folder. Source of truth for site content lives here as `*.md`. Covers have their own tracker; this file is for writing, linking, and shipping the post itself. **Not a site post** — the build skips `README.md` (slug would otherwise be `/posts/README/`).
 
 | Related | Path |
 |---------|------|
+| Multi-bot authoring & 2-layer wave refinement | [`docs/wave-refinement-plan.md`](../../docs/wave-refinement-plan.md) |
 | Markdown format (LLM copy-paste) | [`docs/essay-format.md`](../../docs/essay-format.md) |
 | Cover style differentiation | [`assets/covers/STYLES.md`](../../assets/covers/STYLES.md) |
-| Paste export (Substack + X Article) | [`docs/export-for-substack.md`](../../docs/export-for-substack.md) (one absolute-markdown file) |
-| X Article API (parked) | [`docs/export-for-x-article.md`](../../docs/export-for-x-article.md) |
 | Local memory / sleep audit | [`docs/local-memory.md`](../../docs/local-memory.md) |
 | Posts lattice (cross-link graph) | `node scripts/project-posts-graph.mjs` → [`docs/posts.graph.json`](../../docs/posts.graph.json) |
 | Site authoring summary | [`README.md`](../../README.md) |
@@ -20,7 +19,7 @@ The collection forms the living body of **《非定论的心智指南》 / *A No
 
 The collection is an evolving living tracing — not a catalog of finished products. Each essay is a further discrete act in one field; a later cut re-traces earlier residue on the same axis. Same-slug revise when a newer cut clarifies an older face; prefer pointer updates over URL churn. Lattice consistency is that re-tracing, not maintenance of a sealed set. Relations live only as relative cross-links in prose — the posts graph is a disposable projection of those links, never a second inventory.
 
-One file per essay. Filename = **slug** = permalink path `/posts/<slug>/`. Edit only under `content/posts/`; never hand-edit `public/` or treat `export/` as source.
+One file per essay. Filename = **slug** = permalink path `/posts/<slug>/`. Edit only under `content/posts/`; never hand-edit `public/`.
 
 ## File layout
 
@@ -29,7 +28,6 @@ content/posts/<slug>.md          # essay source (this folder)
 content/book/<part>.md           # live book part placement (assigned to exactly one part, placed last)
 content/book/index-of-premises.md # Index of Premises entry additions/extensions
 assets/covers/<slug>.jpg         # default 21:9 / 1344×576 (or 20:9 / 1280×576) via Qwen-Image-2.1
-export/<slug>.md                 # shared paste export: absolute-link markdown (gitignored)
 public/posts/<slug>/index.html   # site build output only (CI / local build.mjs)
 ```
 
@@ -179,7 +177,7 @@ When the scale finds a residual and a nick is needed:
   [link text](../other-slug/)
   ```
 
-  Never put `https://powerpig99.github.io/not-a-toe/posts/...` in `content/posts/` — that is what the shared paste export projects for Substack / X Article.
+  Never put `https://powerpig99.github.io/not-a-toe/posts/...` in `content/posts/`.
 
 ## Cross-link checklist
 
@@ -221,13 +219,7 @@ Edges = relative `](../slug/)` links already in these files. Never hand-edit the
 
 ## Cover
 
-Optional but usual for new essays. **One file serves three surfaces:** this site, Substack featured image, and X Article cover media.
-
-| Surface | Role of the same file |
-|---------|------------------------|
-| Site | Title image + `og:image` / large Twitter card |
-| Substack | Upload as post cover / social image (prefer local re-upload) |
-| X Article | Upload same file as Article cover in the editor (paste path; API parked) |
+Optional but usual for new essays.
 
 1. Read [`assets/covers/STYLES.md`](../../assets/covers/STYLES.md). **Do not default to still life / craft-table stills** (recent lag). Prefer a **new** style family; if unused styles run thin, **randomly reuse** a used family — never converge on one fixed look.
 2. Generate landscape cover art using the default local pipeline: `python3 scripts/generate-cover.py <slug> --prompt "..."` at ultra-wide **21:9** (`1344×576`) or **20:9** (`1280×576`). Strictly zero text or logos. Automatically saved to `assets/covers/<slug>.jpg`.
@@ -240,10 +232,8 @@ Optional but usual for new essays. **One file serves three surfaces:** this site
 
 **One source:** `content/posts/<slug>.md` (+ cover under `assets/covers/`).  
 **Build lives on CI:** push → GitHub Actions runs `node build.mjs` → deploys Pages.  
-**Do not** commit `public/` or treat `export/` as canon (`export/` is gitignored).  
+**Do not** commit `public/`.  
 **Push ≠ live.** Source on `main` can be correct while Pages still serves the previous SHA. Do not claim published until the live URL returns 200.
-
-**“Finish the rest” means the full ship below** — not site-only. Generate the absolute-markdown paste file after live is **required** on every new or same-slug revised essay. **Paste** into Substack / X Article is operator-only and may wait; **generating** `export/<slug>.md` does not wait for that decision and is not optional for the agent.
 
 | Step | Required? | Who |
 |------|-----------|-----|
@@ -253,10 +243,6 @@ Optional but usual for new essays. **One file serves three surfaces:** this site
 | Reverse links on 1-hop neighbors (same ship) | Yes | Agent |
 | Lattice consistency on same-axis old essays (same ship) | Yes | Agent |
 | Commit / push / `gh run watch` / live 200 | Yes | Agent |
-| `node scripts/export-absolute-md.mjs <slug>` after live | **Yes** | Agent |
-| Paste into Substack / X Article + upload cover there | Operator | Operator only |
-
-Do **not** skip export generation because paste might not happen immediately. Do **not** treat “if posting” as license to omit the file. The file is the finish artifact; paste is a later operator act.
 
 ### 0. Live book placement
 
@@ -309,24 +295,7 @@ curl -sI "https://powerpig99.github.io/not-a-toe/covers/<slug>.jpg" | head -1
 
 404 with a green local build almost always means **deploy has not finished** (or never started) — not a broken essay. Re-check step 3; do not re-architect the post.
 
-### 5. Absolute-markdown export (required after live)
-
-```bash
-node scripts/export-absolute-md.mjs <slug>
-# → export/<slug>.md  (gitignored; same file for Substack and X Article body paste)
-```
-
-Run **once per ship** after the live URL returns 200 so absolute links resolve. Owner detail: [`docs/export-for-substack.md`](../../docs/export-for-substack.md).
-
-| Do | Do not |
-|----|--------|
-| Generate `export/<slug>.md` before claiming the ship finished | Skip generation because paste is “maybe later” |
-| Re-run after same-slug source edits that will be re-pasted | Commit `export/` or edit source to absolute links for editors |
-| Leave paste to the operator | Claim Substack/X is published without operator paste |
-
-**Operator paste** (not agent): open `export/<slug>.md` in a markdown previewer → copy from the **rendered** preview into Substack and/or X Article → upload cover from `assets/covers/<slug>.jpg` if used.
-
-### 6. Neighbor pointers and lattice consistency (same ship)
+### 5. Neighbor pointers and lattice consistency (same ship)
 
 For every outbound `](../other-slug/)`, add a reverse pointer on that neighbor in the **same** ship (two-way default). Pointer clause only.
 
@@ -346,8 +315,6 @@ git push origin main
 gh run watch --exit-status || { gh workflow run deploy.yml --ref main && gh run watch --exit-status; }
 curl -sI "https://powerpig99.github.io/not-a-toe/posts/${SLUG}/" | head -1
 curl -sI "https://powerpig99.github.io/not-a-toe/covers/${SLUG}.jpg" | head -1
-node scripts/export-absolute-md.mjs "$SLUG"
-# operator: paste export/$SLUG.md (rendered) + cover into Substack / X Article when ready
 ```
 
 ## New essay checklist
@@ -365,11 +332,9 @@ node scripts/export-absolute-md.mjs "$SLUG"
    - `python3 scripts/audit-post.py <slug>` → must return CLEAN PASS (verifies all 10 invariants including live-book placement).
    - `python3 scripts/audit-book.py` → must return CLEAN PASS (verifies whole book structure, written order, premise reach).
 9. [ ] **Ship:** preflight → commit/push (confirm before push) → `gh run watch` → live post (and cover) URL 200.
-10. [ ] **Export (required after live):** `node scripts/export-absolute-md.mjs <slug>` → `export/<slug>.md` ([`docs/export-for-substack.md`](../../docs/export-for-substack.md)). Paste into Substack / X is operator-only and may wait; generating the file does not.
 
 ## After shipping
 
 - Prefer not to rewrite published URLs/slugs; add a new post or revise in place under the same slug.
 - The collection stays a living tracing: same-slug revise when a newer cut clarifies an older face; do not treat a shipped URL as a finished product. Regenerate the posts graph after link changes.
-- After same-slug body or link edits that will be re-pasted externally: re-run `node scripts/export-absolute-md.mjs <slug>` so `export/` matches source.
 - Sleep (operator call) runs a leftover currency pass on seeds from `--diff` — see [`docs/local-memory.md`](../../docs/local-memory.md). Same-axis consistency of a new drop is ship-time, not sleep-time.

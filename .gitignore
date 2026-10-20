@@ -1,8 +1,6 @@
 public/
 __pycache__/
 .DS_Store
-export/*
-!export/README.md
 
 # Session resume graphs (bridge / sleep)
 memory/
