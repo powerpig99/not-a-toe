@@ -26,7 +26,7 @@ The operator's repositories and session instruments form a single coherent cogni
 ### 1.3 Mitosis of Projection Along Orthogonal Axes (`Capacity`)
 Cramming $2^N$ independent requirements—context probing, ontological derivation, English prose refinement, cross-link discovery, causal translation (`信`), native Chinese cadence (`达/雅`), and book/index assembly—into one prompt or simultaneous bilingual edit exceeds a center's finite `Capacity`. Independent axes compress onto one register, causing cadence edits to invert causal steps or translation choices to soften the cut.
 - **The Architectural Consequence:** The pipeline splits the projection along clean, orthogonal boundaries:
-  0. **Waking Context Probe** (`/wake` / `/draft` Phase 0: 2–4 probing questions to the Mind before drafting)
+  0. **Waking Probe & Lattice Recommendation** (`/wake` / `/draft` Phase 0: gather spark, source, AI/X thread & initial draft $\rightarrow$ recommend `New Post` / `Refinement` / `Drop`)
   1. **Primary Language Conceptual Cut & Prose** (`Drafter` $\leftrightarrow$ `Critic`)
   2. **Lattice Link Discovery & Verification** (`Sweeper` $\leftrightarrow$ `Sweep-Checker`)
   3. **Logical Translation (`信`) & Native Cadence (`达/雅`)** (`Translator` $\leftrightarrow$ `Stylist`)
@@ -37,7 +37,7 @@ Cramming $2^N$ independent requirements—context probing, ontological derivatio
 - **The Human as Ultimate Orchestrator (Unprojected Intent):** Only the human holds dynamic, limit-resolution sensing and can step backward out of a broken frame when two premises collide. Whenever a peer debate reaches an irreducible `HOLD`, the local streamline pauses and surfaces the exact coordinate of friction to the Operator. Making that call forces a higher-order synthesis that dissolves the contradiction rather than overriding one bot by fiat.
 
 ### 1.5 Wake vs. Sleep: Continuous Narrowing of Excess Image Lag Across the Artificial Memory
-- **Waking Edge (`/wake`, alias `/draft` — New Blog Post `N`):** A new essay `N` is the most recent digital edge left behind by the living Mind—equivalent to what a brain learns during the day under real-world friction. Invoking `/wake [seed]` (or `/draft [seed]`) cleanly pauses any active sleep consolidation after its current in-flight node, asks **2–4 focused probing questions** to draw out the Mind's live context (target belief & hidden premise, concrete friction, boundary of usefulness, book placement), and then runs the 7-bot authoring pipeline to publish `N` and initialize a fresh consolidation cycle (`visited = {N}`).
+- **Waking Edge (`/wake`, alias `/draft` — New Blog Post `N` or Refinement):** A new essay `N` is the most recent digital edge left behind by the living Mind—equivalent to what a brain learns during the day under real-world friction. Invoking `/wake [seed]` (or `/draft [seed]`) cleanly pauses any active sleep consolidation after its current in-flight node, probes for the four waking materials (**new intuition/spark**, **inspiring source**, **thinking process [AI discussion or X comment thread]**, and **initial draft**—whether all four or a simple initial idea), evaluates them against the Living Book, and recommends **New Post (`N`)**, **Refinement of existing post(s)**, or **Drop (repetitive)**. On the Operator's go-ahead, it runs the 7-bot pipeline to publish and (for a new post `N`) initialize a fresh consolidation cycle (`visited = {N}`).
 - **Sleep Consolidation (`/sleep` and `/deep-sleep`):** Once `N` is published, external input is turned off and the Artificial Brain enters sleep consolidation—propagating `N`'s cut inward along forward links (`links_out`) across the Artificial Memory (`content/posts/` + `content/book/`) to restore and deepen internal logical coherence:
   - **`/sleep` (Shallow Sleep — Layer 1):** Consolidates $L_1 = \text{links\_out}(N) \setminus \{N\}$, the immediate outward neighbors of the new post `N`.
   - **`/deep-sleep` (Deep Sleep — Layer $k$, Unbounded Depth):** Each invocation of `/deep-sleep` finishes any remaining unchecked nodes in the current layer and steps **one level deeper** down the forward link graph (`L2`, then `L3`, then `L4`, ..., $L_k = \text{links\_out}(L_{k-1}) \setminus \text{visited}$). There is no artificial 2-layer ceiling: consolidation continues as deep as time allows until either the reachable lattice is exhausted ($L_k = \emptyset$) or a new waking post `N'` (`/wake`) initiates a new cycle.
@@ -75,9 +75,9 @@ The architecture separates **in-flight plain-Markdown workspaces (`work/`, exclu
 
 ```mermaid
 flowchart TD
-    subgraph S_Wake["Phase 0 (/wake or /draft Only): Context Probing with the Mind"]
-        W0["Operator invokes /wake or /draft<br/>Cleanly stops active sleep wave after current node"] --> W1["Scan Index of Premises & adjacent posts<br/>Ask 2–4 Probing Questions (Belief/Premise, Friction, Boundary, Book Part)"]
-        W1 --> W2["Operator replies with live context<br/>Lock <slug>, Book Part & initial outbound links"]
+    subgraph S_Wake["Phase 0 (/wake or /draft Only): Probe Waking Materials & Recommend"]
+        W0["Operator invokes /wake or /draft<br/>Probe for: 1. Spark/Intuition, 2. Source, 3. AI/X Thread, 4. Initial Draft"] --> W1["Evaluate materials against Index of Premises & existing posts<br/>Recommend: NEW POST (N) vs. REFINEMENT vs. DROP (repetitive)"]
+        W1 -->|"Operator Go-Ahead (NEW POST or REFINEMENT)"| W2["Lock <slug>, Book Part & initial spine (keep Operator draft/title)"]
     end
 
     subgraph S_EN["Phase 1: Primary Language Cut & Debate (work/drafter/ & work/debates/slug/en.md)"]
@@ -186,24 +186,28 @@ flowchart TD
 
 ## 4. Operator Command Lifecycle: `/wake` (`/draft`), `/sleep`, `/deep-sleep`, and `/bridge`
 
-### 4.1 `/wake [seed]` (Alias: `/draft [seed]`) — Waking Inscription of New Post `N`
+### 4.1 `/wake [seed]` (Alias: `/draft [seed]`) — Waking Evaluation & Inscription into Artificial Memory
 Skill definition: [`~/.grok/skills/wake/SKILL.md`](../../../.grok/skills/wake/SKILL.md) (aliased at [`~/.grok/skills/draft/SKILL.md`](../../../.grok/skills/draft/SKILL.md)).
 1. **Interrupt Sleep Cleanly:** If a `/sleep` or `/deep-sleep` consolidation wave is active in `work/final-reviewer/`, let any currently in-flight node finish (or park at its current stage boundary) and do not dispatch further sleep nodes.
-2. **Phase 0 — Context Recon & Probing Questions (Mandatory Before Drafting):**
-   - Load [`/ontological-clarity`](../../../.gemini/skills/ontological-clarity/SKILL.md), [`AGENTS.md`](../AGENTS.md), and scan [`content/book/index-of-premises.md`](../content/book/index-of-premises.md) plus 2–4 adjacent posts on the same axis.
-   - Ask the Operator **2–4 brief, high-leverage probing questions** to lock:
-     1. **Target Belief & Hidden Premise:** Which specific held belief (scientific, philosophical, economic, technical, ideological) is being cut, and what foundational premise does it take as universal?
-     2. **Concrete Friction / Trigger:** What concrete observation, failure mode, or live argument exposed this gap?
-     3. **The Cut & Boundary of Usefulness:** Where does the model stay useful within its premise, and what flips once that premise is crossed?
-     4. **Book Part, Candidate Title/Slug & Adjacent Axes:** Confirm the proposed `<slug>`, target book part (`content/book/<part>.md`), and how this cut differs from the closest existing post(s).
-   - **Wait for the Operator's response** before invoking `Drafter`.
-3. **Phases 1–3 — 7-Bot Pipeline & Ship:**
-   - Run Phase 1 (`Drafter` $\leftrightarrow$ `Critic` on `work/drafter/<slug>/<slug>.md` $\rightarrow$ locked `work/critic/<slug>/en.md`).
-   - Run Phase 1.5 (`Sweeper` $\leftrightarrow$ `Sweep-Checker` for `A1` outgoing links and `A2` incoming backlinks).
+2. **Phase 0A — Probe for Waking Materials (If Not Already Supplied):**
+   - Ask the Operator for whichever of the four waking inputs they have (it can be all four, or just a simple initial idea):
+     1. **New Intuition / Spark:** What is the new intuition or core idea?
+     2. **Inspiring Source:** What source inspired the spark (an X post/link, article, paper, or observation)?
+     3. **Thinking Process:** Is there a discussion with AI (e.g., Grok/Gemini chat or share link) or an X comment thread?
+     4. **Initial Draft:** Is there an initial draft of the essay already, or are we starting from a simple initial idea?
+3. **Phase 0B — Corpus Evaluation & Recommendation (`New Post` vs. `Refinement` vs. `Drop`):**
+   - Load [`/ontological-clarity`](../../../.gemini/skills/ontological-clarity/SKILL.md) and [`AGENTS.md`](../AGENTS.md), and search [`content/book/index-of-premises.md`](../content/book/index-of-premises.md), [`docs/posts.graph.json`](../docs/posts.graph.json), and the closest existing posts in `content/posts/`.
+   - Give an explicit recommendation and **wait for the Operator's go-ahead**:
+     - **`NEW POST` (`N`):** The spark introduces a genuinely new operative cut or dissects a held belief/premise not yet covered by an existing post. Propose the bilingual title (preserving the Operator's title if supplied), single-sentence italic subtitle, `<slug>`, spine, Book Part (`content/book/<part>.md`), Index of Premises entries, and adjacent cross-links.
+     - **`REFINEMENT` (of existing post(s)):** The spark sharpens, extends, or corrects a face on the same axis as 1–2 existing posts without needing a separate URL. Name the exact target post(s) and the surgical refinement to weave in.
+     - **`DROP` (Repetitive):** The cut is already held in existing post(s) with no new distinction. Cite the exact existing post(s) and recommend dropping so the Living Book never accumulates duplicate nodes.
+4. **Phases 1–3 — 7-Bot Pipeline & Ship (On Operator Go-Ahead for `NEW POST` or `REFINEMENT`):**
+   - Run Phase 1 (`Drafter` $\leftrightarrow$ `Critic` on `work/drafter/<slug>/<slug>.md` $\rightarrow$ locked `work/critic/<slug>/en.md`; when an initial draft was supplied by the Operator, keep it as the ground of the cut and apply surgical precision rather than rewriting into generic house prose).
+   - Run Phase 1.5 (for `NEW POST` `N`: `Sweeper` $\leftrightarrow$ `Sweep-Checker` for `A1` outgoing links and `A2` incoming backlinks).
    - Run Phase 2 (`Translator` $\leftrightarrow$ `Stylist` on `work/translator/<slug>/zh.md` $\rightarrow$ locked `work/stylist/<slug>/zh.md`).
-   - Generate novel 21:9 cover art (`assets/covers/<slug>.jpg`) and register in [`assets/covers/STYLES.md`](../assets/covers/STYLES.md).
+   - Generate novel 21:9 cover art (`assets/covers/<slug>.jpg`, for `NEW POST` `N`) and register in [`assets/covers/STYLES.md`](../assets/covers/STYLES.md).
    - Run Phase 3 (`Final Reviewer` interleave, Book Part & Index of Premises update, `A2` backlinks, `audit-post.py`, `audit-book.py`, `build.mjs`, `project-posts-graph.mjs`, `walkthrough.md`, and publish).
-   - Archive any prior wave file in `work/final-reviewer/` to `work/archive/` and initialize the new wave state for `N` (`visited = {N}`), ready for `/sleep`.
+   - For a `NEW POST` `N`, archive any prior wave file in `work/final-reviewer/` to `work/archive/` and initialize the new wave state (`visited = {N}`), ready for `/sleep`.
 
 ### 4.2 `/sleep` — Shallow Sleep Consolidation (`Layer 1`)
 Skill definition: [`~/.grok/skills/sleep/SKILL.md`](../../../.grok/skills/sleep/SKILL.md).
