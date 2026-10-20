@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T12:50:29.671Z",
+    "generated_at": "2026-10-20T12:54:57.365Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -78,7 +78,7 @@
       "content/posts/expertise-as-reference-not-replacement.md": "f8b327557f8e",
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
-      "content/posts/externalized-virtue-becomes-its-opposite.md": "7deaf3a290d0",
+      "content/posts/externalized-virtue-becomes-its-opposite.md": "071a0ff47fd2",
       "content/posts/failure-as-information.md": "dac0fbefad5a",
       "content/posts/fate-loves-irony-refined.md": "b81c7f96dfd5",
       "content/posts/felt-resistance-and-the-speed-differential.md": "067a958b2103",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 8918,
-      "unique_directed": 4659,
+      "edges": 8920,
+      "unique_directed": 4660,
       "missing_targets": 0,
-      "one_way": 185,
+      "one_way": 186,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -497,7 +497,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 32
+      "in_degree": 33
     },
     {
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
@@ -1067,7 +1067,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 32,
+      "in_degree": 33,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -2310,9 +2310,9 @@
       "slug": "externalized-virtue-becomes-its-opposite",
       "path": "content/posts/externalized-virtue-becomes-its-opposite.md",
       "title": "外化善意走向其反面 / Externalized Virtue Becomes Its Opposite",
-      "hash": "7deaf3a290d0",
+      "hash": "071a0ff47fd2",
       "in_degree": 26,
-      "out_degree": 26,
+      "out_degree": 27,
       "links_out": [
         "evil-as-the-minds-own-creation",
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
@@ -2336,6 +2336,7 @@
         "ownership-and-self-worthiness",
         "moral-language-dilutes-the-feedback-that-scales-freedom",
         "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+        "beyond-the-projection",
         "clarity-isnt-a-state-you-arrive-at",
         "the-belief-in-utopia-is-the-path-to-dystopia",
         "the-source-of-all-harm",
@@ -19880,6 +19881,30 @@
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "rel": "points_to",
+      "label": "Moral Language Dilutes the Feedback That Scales Freedom"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+      "rel": "points_to",
+      "label": "Compulsory Kindness and the Obscuration of Categorical Feedback"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
       "label": "清晰不是抵达的终点，而是运动本身"
@@ -19904,21 +19929,9 @@
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
-      "to": "ownership-and-self-worthiness",
+      "to": "beyond-the-projection",
       "rel": "points_to",
-      "label": "Ownership and Self-Worthiness"
-    },
-    {
-      "from": "externalized-virtue-becomes-its-opposite",
-      "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
-      "rel": "points_to",
-      "label": "Moral Language Dilutes the Feedback That Scales Freedom"
-    },
-    {
-      "from": "externalized-virtue-becomes-its-opposite",
-      "to": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
-      "rel": "points_to",
-      "label": "Compulsory Kindness and the Obscuration of Categorical Feedback"
+      "label": "Beyond the Projection"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
