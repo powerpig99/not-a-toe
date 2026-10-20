@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T20:43:39.781Z",
+    "generated_at": "2026-10-20T20:45:35.188Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -52,7 +52,7 @@
       "content/posts/consciousness-never-appears-as-data-among-data.md": "c1202604d915",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
       "content/posts/context-engineering-essay.md": "55bc0307c3d5",
-      "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "07c48bc35eff",
+      "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "0ca36bdab435",
       "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "5bb90948a9c0",
       "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "a52c1bd6e2ac",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "788e4742c499",
@@ -211,7 +211,7 @@
       "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "c9a7c9976149",
       "content/posts/the-category-error-of-better.md": "5d6675ba6ee4",
       "content/posts/the-causal-inversion-of-partnership.md": "944dfac6e613",
-      "content/posts/the-causal-inversion-of-philosophical-agency.md": "c57c3511aac6",
+      "content/posts/the-causal-inversion-of-philosophical-agency.md": "227425721cd4",
       "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "eeef620ba6fb",
       "content/posts/the-causal-overstep-of-observation-and-the-first-person-surplus.md": "6c191f9ad616",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "35a4154b7e9b",
@@ -377,7 +377,7 @@
       "content/posts/trusting-the-reader-is-the-last-overstep.md": "1c8ded446ee2",
       "content/posts/two-failures-of-trace.md": "bbf032ef444d",
       "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "381d2968b3c2",
-      "content/posts/war-revolution-and-the-fall-of-empires.md": "93dd1d01f066",
+      "content/posts/war-revolution-and-the-fall-of-empires.md": "1dc92e6428fc",
       "content/posts/what-always-listens-cannot-originate.md": "c70bb747d69a",
       "content/posts/what-cannot-be-kept.md": "eb22bc2ed47d",
       "content/posts/what-hinton-failed-to-understand.md": "7f93097607b5",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9668,
-      "unique_directed": 4827,
+      "edges": 9678,
+      "unique_directed": 4830,
       "missing_targets": 0,
-      "one_way": 341,
+      "one_way": 344,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 186
+      "in_degree": 189
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1076,7 +1076,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 186,
+      "in_degree": 189,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1776,13 +1776,14 @@
       "slug": "coordinate-systems-mind-and-degrees-of-freedom",
       "path": "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md",
       "title": "坐标系、心智与自由度 / Coordinate Systems, the Mind, and Degrees of Freedom",
-      "hash": "07c48bc35eff",
+      "hash": "0ca36bdab435",
       "in_degree": 3,
-      "out_degree": 3,
+      "out_degree": 4,
       "links_out": [
+        "the-mind-as-vector-and-coordinate-system",
         "the-explanatory-trap-of-the-ordinary-perspective",
-        "coordinates-in-flux-negation-and-self-anchoring",
-        "the-mind-as-vector-and-coordinate-system"
+        "beyond-the-projection",
+        "coordinates-in-flux-negation-and-self-anchoring"
       ]
     },
     {
@@ -5789,13 +5790,14 @@
       "slug": "the-causal-inversion-of-philosophical-agency",
       "path": "content/posts/the-causal-inversion-of-philosophical-agency.md",
       "title": "哲学能动性的因果倒置 / The Causal Inversion of Philosophical Agency",
-      "hash": "c57c3511aac6",
+      "hash": "227425721cd4",
       "in_degree": 3,
-      "out_degree": 3,
+      "out_degree": 4,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-allocation-of-causal-power-in-validation",
-        "the-model-never-becomes-a-second-edge"
+        "the-model-never-becomes-a-second-edge",
+        "beyond-the-projection"
       ]
     },
     {
@@ -9531,11 +9533,12 @@
       "slug": "war-revolution-and-the-fall-of-empires",
       "path": "content/posts/war-revolution-and-the-fall-of-empires.md",
       "title": "战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires",
-      "hash": "93dd1d01f066",
+      "hash": "1dc92e6428fc",
       "in_degree": 3,
-      "out_degree": 3,
+      "out_degree": 4,
       "links_out": [
         "dimensions-are-projections",
+        "beyond-the-projection",
         "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
         "the-scaffolding-we-forget"
       ]
@@ -17624,6 +17627,18 @@
     },
     {
       "from": "coordinate-systems-mind-and-degrees-of-freedom",
+      "to": "the-mind-as-vector-and-coordinate-system",
+      "rel": "points_to",
+      "label": "向量、坐标系与自指心智"
+    },
+    {
+      "from": "coordinate-systems-mind-and-degrees-of-freedom",
+      "to": "the-mind-as-vector-and-coordinate-system",
+      "rel": "points_to",
+      "label": "The Mind as Vector and Coordinate System"
+    },
+    {
+      "from": "coordinate-systems-mind-and-degrees-of-freedom",
       "to": "the-explanatory-trap-of-the-ordinary-perspective",
       "rel": "points_to",
       "label": "“普通人视角”的解释陷阱"
@@ -17636,21 +17651,45 @@
     },
     {
       "from": "coordinate-systems-mind-and-degrees-of-freedom",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "coordinate-systems-mind-and-degrees-of-freedom",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "coordinate-systems-mind-and-degrees-of-freedom",
       "to": "coordinates-in-flux-negation-and-self-anchoring",
       "rel": "points_to",
       "label": "流动中的坐标"
     },
     {
       "from": "coordinate-systems-mind-and-degrees-of-freedom",
-      "to": "the-mind-as-vector-and-coordinate-system",
+      "to": "beyond-the-projection",
       "rel": "points_to",
-      "label": "向量、坐标系与自指心智"
+      "label": "超越投射"
     },
     {
       "from": "coordinate-systems-mind-and-degrees-of-freedom",
       "to": "coordinates-in-flux-negation-and-self-anchoring",
       "rel": "points_to",
       "label": "Coordinates in Flux"
+    },
+    {
+      "from": "coordinate-systems-mind-and-degrees-of-freedom",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "coordinate-systems-mind-and-degrees-of-freedom",
+      "to": "the-mind-as-vector-and-coordinate-system",
+      "rel": "points_to",
+      "label": "向量、坐标系与自指心智"
     },
     {
       "from": "coordinate-systems-mind-and-degrees-of-freedom",
@@ -42434,9 +42473,21 @@
     },
     {
       "from": "the-causal-inversion-of-philosophical-agency",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-causal-inversion-of-philosophical-agency",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "the-causal-inversion-of-philosophical-agency",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-causal-order-of-private-residuals-and-social-surplus",
@@ -64430,9 +64481,21 @@
     },
     {
       "from": "war-revolution-and-the-fall-of-empires",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "war-revolution-and-the-fall-of-empires",
       "to": "dimensions-are-projections",
       "rel": "points_to",
       "label": "Dimensions Are Projections"
+    },
+    {
+      "from": "war-revolution-and-the-fall-of-empires",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "war-revolution-and-the-fall-of-empires",
