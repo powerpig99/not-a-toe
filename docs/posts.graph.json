@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T20:33:25.034Z",
+    "generated_at": "2026-10-20T20:35:44.316Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -20,7 +20,7 @@
       "content/posts/agency-relocated-into-the-formal-model.md": "cda3c7b60e7e",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "07f79977b3e7",
-      "content/posts/ai-as-augmentation.md": "a27a4ea86606",
+      "content/posts/ai-as-augmentation.md": "644eca9050d4",
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
       "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "67468da824c1",
       "content/posts/amplification-paradox.md": "d810c1bc0e28",
@@ -270,7 +270,7 @@
       "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "d7384a29a960",
       "content/posts/the-illusion-of-the-unmediated.md": "28f4473900a5",
       "content/posts/the-imagining-of-ai-risk.md": "9997b9580810",
-      "content/posts/the-initial-distinction.md": "264045ff9a7d",
+      "content/posts/the-initial-distinction.md": "fb8bcede093f",
       "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md": "5055d175e3de",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
       "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "47a6ffb6ae17",
@@ -407,8 +407,8 @@
       "content/book/causality.md": "c5ac49c16705",
       "content/book/consciousness.md": "9646f214f789",
       "content/book/economics.md": "c863f3bd1a44",
-      "content/book/index-of-premises.md": "cbadaaf0e5ed",
-      "content/book/intelligence.md": "699abff1af69",
+      "content/book/index-of-premises.md": "8dc6ccda165c",
+      "content/book/intelligence.md": "dfcccbba6848",
       "content/book/knowledge-and-learning.md": "cca91fa2120f",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "0ae44b3e7554",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9634,
-      "unique_directed": 4817,
+      "edges": 9644,
+      "unique_directed": 4819,
       "missing_targets": 0,
-      "one_way": 337,
+      "one_way": 339,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 179
+      "in_degree": 181
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -934,12 +934,13 @@
       "kind": "post",
       "slug": "ai-as-augmentation",
       "path": "content/posts/ai-as-augmentation.md",
-      "title": "AI as Augmentation: Dissolving the \"Replacement\" Frame",
-      "hash": "a27a4ea86606",
+      "title": "AI 作为增强 / AI as Augmentation",
+      "hash": "644eca9050d4",
       "in_degree": 4,
-      "out_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
+        "beyond-the-projection",
         "what-always-listens-cannot-originate",
         "a-creation-cannot-replace-its-source",
         "the-ramble-within-the-ramble"
@@ -1075,7 +1076,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 179,
+      "in_degree": 181,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -7087,11 +7088,12 @@
       "slug": "the-initial-distinction",
       "path": "content/posts/the-initial-distinction.md",
       "title": "最初的区分 / The Initial Distinction",
-      "hash": "264045ff9a7d",
+      "hash": "fb8bcede093f",
       "in_degree": 5,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+        "beyond-the-projection",
         "how-belief-actually-changes",
         "du-zhongwen-zhexue-jianshi-you-gan",
         "help-is-half-the-problem",
@@ -12132,7 +12134,31 @@
       "from": "ai-as-augmentation",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "ai-as-augmentation",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
       "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "ai-as-augmentation",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "ai-as-augmentation",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "ai-as-augmentation",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "总在倾听者无法发起"
     },
     {
       "from": "ai-as-augmentation",
@@ -12144,7 +12170,19 @@
       "from": "ai-as-augmentation",
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
+      "label": "造物无法取代其源头"
+    },
+    {
+      "from": "ai-as-augmentation",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
       "label": "A Creation Cannot Replace Its Source"
+    },
+    {
+      "from": "ai-as-augmentation",
+      "to": "the-ramble-within-the-ramble",
+      "rel": "points_to",
+      "label": "漫谈中的漫谈"
     },
     {
       "from": "ai-as-augmentation",
@@ -49666,6 +49704,12 @@
     },
     {
       "from": "the-initial-distinction",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-initial-distinction",
       "to": "how-belief-actually-changes",
       "rel": "points_to",
       "label": "信念如何真正改变"
@@ -49675,6 +49719,12 @@
       "to": "du-zhongwen-zhexue-jianshi-you-gan",
       "rel": "points_to",
       "label": "读《中文哲学简史》有感"
+    },
+    {
+      "from": "the-initial-distinction",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-initial-distinction",
@@ -49711,6 +49761,18 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-initial-distinction",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-initial-distinction",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
@@ -68012,7 +68074,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "cbadaaf0e5ed",
+        "hash": "8dc6ccda165c",
         "out_degree": 396
       },
       {
@@ -68021,7 +68083,7 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "699abff1af69",
+        "hash": "dfcccbba6848",
         "out_degree": 48
       },
       {
@@ -70433,7 +70495,7 @@
         "from": "book:index-of-premises",
         "to": "ai-as-augmentation",
         "rel": "collects",
-        "label": "AI as Augmentation: Dissolving the \"Replacement\" Frame"
+        "label": "AI 作为增强 / AI as Augmentation"
       },
       {
         "from": "book:index-of-premises",
@@ -72959,7 +73021,7 @@
         "from": "book:intelligence",
         "to": "ai-as-augmentation",
         "rel": "collects",
-        "label": "AI as Augmentation: Dissolving the \"Replacement\" Frame"
+        "label": "AI 作为增强 / AI as Augmentation"
       },
       {
         "from": "book:intelligence",

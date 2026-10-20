@@ -1934,7 +1934,7 @@ The claim presumes diseases form a finite list awaiting coverage, which is of us
 
 The replacement frame presumes a fixed catalog of economic tasks; automation lowers friction and alters the problem frontier, expanding human coordination instead.
 
-→ [AI as Augmentation: Dissolving the "Replacement" Frame](../../posts/ai-as-augmentation/)
+→ [AI 作为增强 / AI as Augmentation](../../posts/ai-as-augmentation/)
 
 ### AI 监管能否跟上能力 / AI Regulation Keeping Pace with Capability
 `技术 / Technological`

@@ -18,7 +18,7 @@ The essays in this part dissect Geoffrey Hinton's cognitive leaps, the limits of
 - [The Moving Ground: On "Intelligent AI Delegation"](../../posts/the_moving_ground/)
 - [The Shadow Mistaken for the Object: Chollet's Intelligence Explosion Argument](../../posts/chollet-intelligence-explosion-analysis/)
 - [You Can't Benchmark the Fluid](../../posts/you-cant-benchmark-the-fluid/)
-- [AI as Augmentation: Dissolving the "Replacement" Frame](../../posts/ai-as-augmentation/)
+- [AI 作为增强 / AI as Augmentation](../../posts/ai-as-augmentation/)
 - [The Projection Called Claude: An Ontological Analysis of Anthropic's Constitution](../../posts/claudes-constitution-analysis/)
 - [Context All the Way Down](../../posts/context-engineering-essay/)
 - [The Name-Negation Tendency](../../posts/name-negation-tendency/)
