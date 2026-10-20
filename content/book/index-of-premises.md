@@ -2609,7 +2609,7 @@ Entrusting moral authority assumes external institutions can decide right from w
 
 Static knowledge modeling treats thoughts as stationary data structures; mind is the living recursive fold that navigates and reshapes its externalized representations.
 
-→ [Looping and Graphing: Mind as the Loop of Loops](../../posts/looping-and-graphing/)
+→ [回环与成图 / Looping and Graphing](../../posts/looping-and-graphing/)
 
 ### 恶作为客观力量 / Evil as Objective Force
 `哲学 / Philosophical`
