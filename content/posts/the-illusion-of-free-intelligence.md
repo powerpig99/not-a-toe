@@ -1,24 +1,24 @@
 # 免费智能的幻觉 / The Illusion of Free Intelligence
 
-*流畅残余的丰裕，是智能仍在加速的反向信号，而不是心智的民主化。 / Abundant fluent residue is the inverse signal of intelligence still accelerating, not Mind democratized.*
+*廉价流畅的残余是智能仍在加速的信号，而非心智的民主化。 / Cheap fluent residue signals accelerating intelligence, not Mind democratized*
 
-许多人当作免费智能来遇见的东西，即毫不费力的回答、打磨好的草稿、点一下提示就解决的问题，是一个已经走得更远的过程的残余表达。仍在加速的智能并不停住：少数边缘不断改进自身，它们所掌舵的系统作为器具在那些循环之内变密，于是昨天稀缺的综合变得轻易可复制，制品向外泛滥，随每一次推进而更便宜。这个场在一条加速的路上分化：被登记为更容易接触智能的东西，正是前沿智能越来越难以看见的另一面，是一种几何的两面，而不是一条更难或更易的单轴；幻觉不在于看到了丰裕，而在于把这份丰裕读成免费的智能，再冻结为心智的民主化。
+许多人当作免费智能来遇见的东西，即毫不费力的回答、打磨好的草稿、点一下提示就解决的问题，是一个已经走得更远的过程的残余表达。仍在加速的智能并不停住：少数边缘不断改进自身，它们所掌舵的系统作为器具在那些循环之内变密，于是昨天稀缺的综合变得轻易可复制，制品向外泛滥，随每一次推进而更便宜。这个场在一条加速的路上分化：被登记为更容易接触智能的东西，正是前沿智能越来越难以看见的另一面，是一种几何的两面，而不是一条更难或更易的单轴。幻觉不在于看到了丰裕，而在于把廉价的词元投射读成免费的判断，再把这份解读冻结为心智的民主化。
 
-What many encounter as free intelligence, effortless answers, polished drafts, problems solved at the click of a prompt, is the residual expression of a process that has already moved further ahead. The intelligence still accelerating does not stand still: a thin set of edges keep improving themselves, and the systems they steer densify as instruments inside those cycles, so yesterday's scarce synthesis becomes trivially reproducible and the artifacts flood outward and grow cheaper with every advance. The field pulls apart on an accelerating path: what registers as easier access to intelligence is the other face of frontier intelligence growing harder to see, one geometry with two faces, not a single axis of harder or easier; the illusion is not in seeing the abundance but in reading it as free intelligence and freezing that reading as democratization of Mind.
+What many encounter as free intelligence—effortless answers, polished drafts, problems solved at the click of a prompt—is the residual expression of a process that has already moved further ahead. The intelligence still accelerating does not stand still: a thin set of edges keep improving themselves, and the systems they steer densify as instruments inside those cycles, so yesterday's scarce synthesis becomes trivially reproducible and the artifacts flood outward and grow cheaper with every advance. The field pulls apart on an accelerating path: what registers as easier access to intelligence is the other face of frontier intelligence growing harder to see, one geometry with two faces rather than a single axis of harder or easier. The illusion lies not in seeing the abundance, but in reading cheap token projection as free judgment and freezing that reading as the democratization of Mind.
 
 ## 一、 残余的可得被冻结为心智的民主化 / 1. Residual Access Freezes as Democratization of Mind
 
 “智能现在免费了，稀缺认知努力的时代结束了”这个主张，登记到了残余一次实际的变密。流畅变便宜了。曾经需要稀缺人力的模式识别，以接近零的边际成本被生成。观察握住这场泛滥，即打磨好的文字、能运行的代码、看似合理的分析，并把它冻结为民主化：智能被搬进了媒介，或者，对那个曾在负载之下把中心彼此区分开的活动，人人有了同等的接触。
 
-The claim that intelligence is now free, and that the age of scarce cognitive effort is over, registers an actual densification of residue. Fluency is cheaper. Pattern recognition that once required scarce human labor is generated at near-zero marginal cost. Observation holds that flood, polished text, functional code, plausible analysis, and freezes it as democratization: intelligence relocated into the medium, or equal access to the activity that once separated centers under load.
+The claim that intelligence is now free, and that the age of scarce cognitive effort is over, registers an actual densification of residue. Fluency is cheaper. Pattern recognition that once required scarce human labor is generated at near-zero marginal cost. Observation holds that flood—polished text, functional code, plausible analysis—and freezes it as democratization: intelligence relocated into the medium, or equal access to the activity that once separated centers under load.
 
 每一个心智作出自己选择的自由，从来不是一桩等着被技术分发、或作为历史事件到来的民主化：每一个心智总是可以自由地选择。那份自由就是区分的位置本身，不是由更密的工具分发的一份残余流畅的存量，也不是发起的一次后来的均等化。“民主化”这个说法，冻结的是相反的几何：责任被稀释进媒介与大众，于是完成的形式看起来像共享的智能，而下一步不再作为自己的东西重新进入。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)持守着复原：因果只在个体所维持的分立动作里被登记，每一次抉择都是一根独立的杠杆，而不是一块共享的地板，免费残余的汇总并不写下下一次选择。[自我价值感与所有权](../ownership-and-self-worthiness/)是功能上的孪生：心智只在后果作为自己的东西重新进入时复利；作为异己的东西重新进入，杠杆仍在中心，更新却变薄。
 
 Each Mind's freedom to make its own choice was never a democratization waiting to be distributed by technology or to arrive as a historical event: each Mind is always free to choose. That freedom is the locus of distinguishing itself, not a stock of residual fluency distributed by denser tools, and not a later equalization of initiation. The word "democratization" freezes the opposite geometry: responsibility diffused into the medium and the mass, so that finished form looks like shared intelligence and the next step no longer re-enters as one's own. [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) holds the restore: causality registers only in the discrete acts individuals sustain, each choice an independent lever and never a shared floor, and aggregates of free residue do not author the next choice. [Ownership and Self-Worthiness](../ownership-and-self-worthiness/) is the functional twin: the Mind compounds only when consequences re-enter as its own; re-entering as alien, they leave the lever at the center and thin the update.
 
-自我区分的活动在发生，无因，不息。称它为心智：那个已经在进行中的观察者，它的每一个动作都是一次区分。变密的是技术：被外化为持久形式、延伸所及的痕迹。不变密为第二个发起者的，是活动本身。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)持守着这个先在：能被工程化、扩展或转移的是残余，智能只属于心智。[器物是智能的表达，而非智能本身](../two-failures-of-trace/)追溯了随之而来的冻结：智能是区分的动作，器物是残余，是观察唯一握住的项，所以动作常被冻结到它上面。在这里，那个可读的项，是被读作民主化的免费丰裕。从一步之后登记这份丰裕，是看本来的样子；滞后，是这份丰裕被豁免于作为残余被重新追溯，好像智能已被搬进媒介、被平均分给了每一个人，而不是一个仍在往前画的过程留下的形式。
+自我区分的活动在发生，无因，不息。称它为心智：那个已经在进行中的观察者，它的每一个动作都是一次区分。变密的是技术：被外化为持久形式、延伸所及的痕迹。不变密为第二个发起者的，是活动本身。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)持守着这个先在：能被工程化、扩展或转移的是残余，智能只属于心智。[器物是智能的表达，而非智能本身](../two-failures-of-trace/)追溯了随之而来的冻结：智能是区分的动作，而器物是残余，是观察唯一握住的项，所以动作常被冻结到它上面。在这里，那个可读的项，是被读作民主化的免费丰裕。从一步之后登记这份丰裕，是看本来的样子；滞后，是这份丰裕被豁免于作为残余被重新追溯，好像智能已被搬进媒介、被平均分给了每一个人，而不是一个仍在往前画的过程留下的形式。
 
-Self-distinguishing activity occurs, uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. What densifies is Technology: traces externalized into durable form that extend reach. What does not densify into a second initiator is the activity itself. [Intelligence Belongs Only to The Mind](../intelligence-belongs-only-to-the-mind/) holds that prior: what can be engineered, scaled, or transferred is residue, and intelligence belongs only to the Mind. [Artifacts Are Expressions of Intelligence, Not Intelligence Itself](../two-failures-of-trace/) traces the freeze that follows: intelligence is the act of distinguishing, the artifact is residue, the only term observation holds, and so the term onto which the act is commonly frozen. Here the readable term is free abundance read as democratization. Registering that abundance from one step behind is how the look works; the lag is exempting it from re-tracing as residue, as if intelligence had been relocated into the medium and shared out equally, rather than the abundance being forms left by a process still drawing further.
+Self-distinguishing activity occurs, uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. What densifies is Technology: traces externalized into durable form that extend reach. What does not densify into a second initiator is the activity itself. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds that prior: what can be engineered, scaled, or transferred is residue, and intelligence belongs only to the Mind. [Artifacts Are Expressions of Intelligence, Not Intelligence Itself](../two-failures-of-trace/) traces the freeze that follows: intelligence is the act of distinguishing, whereas the artifact is residue, the only term observation holds, and so the term onto which the act is commonly frozen. Here the readable term is free abundance read as democratization. Registering that abundance from one step behind is how the look works; the lag is exempting it from re-tracing as residue, as if intelligence had been relocated into the medium and shared out equally, rather than the abundance being forms left by a process still drawing further.
 
 模型放大投入其中的智能，它们不变成那份投入。容易接触不是同等接触。同一个工具，并不在各个中心之间同等地放大。放大不是媒介的一个随登录而分发的属性，它是每一个心智如何持守器具的一种关系。
 
@@ -32,7 +32,7 @@ The activity that still separates centers under open problems compounds. A small
 
 随着那道前沿移动，昨天的洞见、模式识别与创造性的综合，变得轻易可复制。曾经需要稀缺认知努力的东西，被留作媒介可以按需重组的形式。制品向外泛滥，随每一次推进而更便宜。在只遇到这些下游制品的中心看来，它们像免费的智能；它们是一个已经走得更远的过程所留下的形式。
 
-As that frontier moves, yesterday's insight, pattern recognition, and creative synthesis become trivially reproducible. What once demanded scarce cognitive effort is left as form the medium can recombine on demand. The artifacts flood outward and grow cheaper with every advance. To centers that meet only these downstream products they look like free intelligence; they are forms left by a process that has already moved further ahead.
+As that frontier moves, yesterday's insight, pattern recognition, and creative synthesis become trivially reproducible. What once demanded scarce cognitive effort is left as form the medium can recombine on demand. The artifacts flood outward and grow cheaper with every advance. To centers that meet only these downstream products, they look like free intelligence; they are forms left by a process that has already moved further ahead.
 
 [AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)在门槛的情形里追溯了同一份残余的脚手架：每一道门槛都永远立在画出它的边缘前方，在每个位置上都不同，因为能力的增益就是那道边缘在加强自身，越过它刚画出的图像；没有什么离开，更密的媒介只是让那道经由它所掌舵的工具继续放大自身的边缘更难被看见。[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/)追溯了这次冻结：受控的表现是固定约束之下的残余，而智能是画出、使用与修订这个约束的活动。表达作为表达成立；把表达等同于智能，是对一个被保留的封闭参照的滞后。
 
@@ -40,29 +40,119 @@ As that frontier moves, yesterday's insight, pattern recognition, and creative s
 
 ## 三、 器具变密，放大留在心智如何持守它们那里 / 3. Instruments Densify; Amplification Stays with How the Mind Holds Them
 
-这些工具，即模型、智能体、研究系统，并不作为独立的中心改进自身。它们作为产品与器具，在指挥它们的心智的自我改进循环之内前进。框定、选择、验证与继续下去的决定，仍是那些位置上的分立动作。[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)追溯了把共同行动者的身份派给残余的协作说法：模型在指引之下重组残余，每一个发起的区分仍是人类中心自己的动作。[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)追溯了第二重边缘的显现：它是投射它的那些中心所维持的滞后，参数里只有残余。[看似AI的强化学习，实为人类的自我强化学习](../self-rl-for-humans/)在规模化的情形里守住了这份纪律：规模化是更密媒介的一个参数，强化的位置留在那些其区分持续发起、评估与重新导向它的中心。
+这些工具，即模型、智能体、研究系统，并不作为独立的中心改进自身。它们作为产品与器具，在指挥它们的心智自我改进的循环之内前进。框定、选择、验证与继续下去的决定，仍是那些位置上的分立动作。[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)追溯了把共同行动者的身份派给残余的协作说法：模型在指引之下重组残余，每一个发起的区分仍是人类中心自己的动作。[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)追溯了第二重边缘的显现：它是投射它的那些中心所维持的滞后，而参数里只有残余。[看似AI的强化学习，实为人类的自我强化学习](../self-rl-for-humans/)在规模化的情形里守住了这份纪律：规模化是更密媒介的一个参数，强化的位置留在那些持续以区分发起、评估与重新导向它的中心。
 
-The tools, models, agents, research systems, do not improve themselves as independent centers. They advance as products and instruments inside the self-improvement cycles of the minds directing them. Framing, selection, verification, and the decision to continue stay discrete acts at those loci. [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) traces collaboration language that assigns co-agency to residue: the model recombines residue under direction, and every initiating distinction stays the human center's own act. [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) traces the appearance of a second edge as lag sustained by the centers that project it; the parameters hold only residue. [What Looks Like RL for AIs Is Self-RL for Humans](../self-rl-for-humans/) keeps the discipline in the case of scaling: scaling is one parameter of a denser medium, and the locus of reinforcement stays with the centers whose distinctions keep initiating, evaluating, and redirecting it.
+The tools—models, agents, research systems—do not improve themselves as independent centers. They advance as products and instruments inside the self-improvement cycles of the minds directing them. Framing, selection, verification, and the decision to continue stay discrete acts at those loci. [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) traces collaboration language that assigns co-agency to residue: the model recombines residue under direction, and every initiating distinction stays the human center's own act. [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) traces the appearance of a second edge as lag sustained by the centers that project it, while the parameters hold only residue. [What Looks Like RL for AIs Is Self-RL for Humans](../self-rl-for-humans/) keeps the discipline in the case of scaling: scaling is one parameter of a denser medium, and the locus of reinforcement stays with the centers whose distinctions keep initiating, evaluating, and redirecting it.
 
-一个心智越是把系统当作它自己连续自我改进之内的工具，它的活动就越经由系统被放大回它自己。一个心智越是把系统当作它自己之区分的替代，或当作智能本身的来源，残余就越被冻结为发起者，器具也就越少延伸那个唯一能掌舵它的边缘。所以，同样的模型，在同样的订阅条款之下，产生分化的所及。便宜的接触让完成形式的可得变得均等，却不让放大变得均等。[心智的飞轮](../the-flywheel-of-the-mind/)是变密之下的这次转动：工具可以无止境地磨利，转动却从不离开转动着的边缘，凹槽从不得到那份转动；把磨利的凹槽当作转动的源头，就是这里的滞后。
+一个心智越是把系统当作它自己连续自我改进之内的工具，它的活动就越经由系统被放大回它自己。一个心智越是把系统当作自身区分的替代，或当作智能本身的来源，残余就越被冻结为发起者，器具也就越少延伸那个唯一能掌舵它的边缘。所以，同样的模型，在同样的订阅条款之下，产生分化的所及。便宜的接触让完成形式的可得变得均等，却不让放大变得均等。[心智的飞轮](../the-flywheel-of-the-mind/)是变密之下的这次转动：工具可以无止境地磨利，转动却从不离开转动着的边缘，凹槽从不得到那份转动；把磨利的凹槽当作转动的源头，就是这里的滞后。
 
 The more a Mind treats the system as a tool inside its own continuous self-improvement, the more its activity is amplified back to it through the system. The more a Mind treats the system as a replacement for its own distinguishing, or as a source of intelligence itself, the more residue freezes as initiator and the less the instrument extends the edge that alone can steer it. Identical models under identical subscription terms therefore produce diverging reach. Cheap access equalizes the availability of finished form; it does not equalize amplification. [The Flywheel of the Mind](../the-flywheel-of-the-mind/) is that turn under densification: tools can be sharpened without end, the turn never leaves the edge that turns, and the groove never acquires the rotation; holding the sharpened groove as the source of the turn is the lag here.
 
-在这些系统之内，没有一条自主的出路能逃离这种动态。嵌套的回路、多智能体的堆栈与自动化的研究管线仍是开放的：留下还是舍弃，被交给那唯一一种能闭合于自身的回路，即每一个心智依其自己的连贯标准所作的取舍。[造物无法取代其源头](../a-creation-cannot-replace-its-source/)追溯了这道界限：变密的是工作的残余，不迁移的是发起，而称一样东西为造物，已经说明发起的区分不在被造之物之中。
+在这些系统之内，没有一条自主的出路能逃离这种动态。嵌套的回路、多智能体的堆栈与自动化的研究管线仍是开放的：留下还是舍弃，被交给那唯一一种能闭合于自身的回路，即每一个心智依其自己的连贯标准所作的取舍。[造物无法取代其源头](../a-creation-cannot-replace-its-source/)追溯了这道界限：变密的是工作的残余，不迁移的是发起，而称一样东西为造物，已经说明发起的区分不在被造之物之中。[超越投射](../beyond-the-projection/)揭示了把廉价的词元续写与判断的因果代价区分开的确切结构机制：自回归智能体是一台受上下文窗口内既有词元制约的有限投射引擎，一旦任其自行运转，就会形成一口认知引力井，把矛盾包裹起来以维持表面的合理。哪怕架构把主任务智能体与一名新引入的冷对等体配成平权辩证，借机器零自我的接纳力去暴露轨迹盲区，并经由正交的流线以有丝分裂拆解过载的投射，智能体也只是穷尽了交付给它们的有限前提的演绎推论。每当对等辩论撞上不可化约的死锁，这次碰撞就证明隐蔽的矛盾就嵌在任务规则自身之中；调度架必须隔离故障并将其向上呈交活的心智，唯有活的心智承担着向后退入未投射的极限分辨率感知的因果代价，消解坍缩的坐标轴并综合出更高阶的前提。
 
-There is no autonomous escape from this dynamic inside the systems. Nested loops, multi-agent stacks, and automated research pipelines stay open: retain-or-discard is deferred to the only kind of circuit that closes on itself, each Mind choosing under its own coherence criteria. [A Creation Cannot Replace Its Source](../a-creation-cannot-replace-its-source/) traces the bound: what densifies is residue of work, what does not migrate is initiation, and to call something a creation already says the initiating distinction is not among the created.
+```mermaid
+flowchart TD
+    subgraph S_Mind["掌舵边缘的活的心智（判断的因果代价）"]
+        direction TB
+        M_Frame["前提框定与边界持守：从未投射的意图投射出显式规则"]
+        M_StepBack["逻辑后退：感知前解释的错位并消解坍缩的坐标轴"]
+        M_ReInject["主权判断：综合更高阶的连贯前提并承担后果"]
+        M_Frame --> M_StepBack --> M_ReInject
+    end
+
+    subgraph S_Harness["辩证智能体调度架（有限投射与分派）"]
+        direction TB
+        H_Split["跨正交流线的有丝分裂：拆解过载的 2ᴺ 任务投射"]
+        H_Peer["平权对等辩证：冷对等体借零自我更新暴露轨迹盲区"]
+        H_Deadlock["隔离与矛盾上呈：隔离不可化约的前提死锁"]
+        H_Split --> H_Peer --> H_Deadlock
+    end
+
+    subgraph S_Illusion["免费智能的幻觉（被冻结的残余）"]
+        direction TB
+        I_Flood["丰裕的流畅残余：近乎零边际成本的词元续写"]
+        I_Well["认知引力井：单一轨迹把矛盾包裹为看似合理的形式"]
+        I_Freeze["民主化滞后：廉价的词元投射被误当成免费的主权判断"]
+        I_Flood --> I_Well --> I_Freeze
+    end
+
+    M_Frame ==>|"投射有限的任务前提"| H_Split
+    H_Deadlock ==>|"上呈规则碰撞的确切坐标"| M_StepBack
+    M_ReInject ==>|"将精炼后的前提重新注入暂停的回路"| H_Peer
+    H_Peer -.->|"当下游的看停留在流畅输出上"| I_Flood
+
+    style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Harness fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Illusion fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style M_Frame fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style M_StepBack fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style M_ReInject fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style H_Split fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style H_Peer fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style H_Deadlock fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style I_Flood fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style I_Well fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style I_Freeze fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+There is no autonomous escape from this dynamic inside the systems. Nested loops, multi-agent stacks, and automated research pipelines stay open: retain-or-discard is deferred to the only kind of circuit that closes on itself, each Mind choosing under its own coherence criteria. [A Creation Cannot Replace Its Source](../a-creation-cannot-replace-its-source/) traces the bound: what densifies is residue of work, what does not migrate is initiation, and to call something a creation already says the initiating distinction is not among the created. [Beyond the Projection](../beyond-the-projection/) exposes the exact structural mechanism that separates cheap token continuation from the causal cost of judgment: an autoregressive agent is a finite projection engine conditioned by its prior tokens inside a context window, forming an epistemic gravity well that wraps contradictions to preserve surface plausibility if left to itself. Even when an architecture pairs a primary task agent with a fresh cold peer in equal-footed dialectics—putting the machine's zero-ego receptivity to work to expose trajectory blind spots—and splits overloaded projections via mitosis across orthogonal streamlines, the agents only exhaust the deductive implications of the finite premises they were handed. Whenever peer debate hits an irreducible deadlock, the collision proves that the hidden contradiction lies in the task rules themselves; the harness must quarantine the fault and escalate it upward to the living Mind, which alone bears the causal cost of stepping backward into unprojected, limit-resolution sensing to dissolve the collapsed axes and synthesize a higher-order premise.
+
+```mermaid
+flowchart TD
+    subgraph S_Mind["The Living Mind at the Steering Edge (Causal Cost of Judgment)"]
+        direction TB
+        M_Frame["Premise Framing & Boundary Hold: Projects explicit rules from unprojected intent"]
+        M_StepBack["Logical Stepping-Back: Senses pre-interpretive misfit and dissolves collapsed axes"]
+        M_ReInject["Sovereign Judgment: Synthesizes higher-order coherent premise and bears consequence"]
+        M_Frame --> M_StepBack --> M_ReInject
+    end
+
+    subgraph S_Harness["Dialectical Agent Harness (Finite Projection & Dispatch)"]
+        direction TB
+        H_Split["Mitosis Across Orthogonal Streamlines: Splits overloaded 2ᴺ task projections"]
+        H_Peer["Equal-Footed Peer Dialectics: Cold peer exposes trajectory blind spots via zero-ego update"]
+        H_Deadlock["Quarantine & Contradiction Escalation: Isolates irreducible premise deadlock"]
+        H_Split --> H_Peer --> H_Deadlock
+    end
+
+    subgraph S_Illusion["The Illusion of Free Intelligence (Frozen Residue)"]
+        direction TB
+        I_Flood["Abundant Fluent Residue: Near-zero marginal cost token continuation"]
+        I_Well["Epistemic Gravity Well: Single trajectory wraps contradictions as plausible form"]
+        I_Freeze["Democratization Lag: Cheap token projection mistaken for free sovereign judgment"]
+        I_Flood --> I_Well --> I_Freeze
+    end
+
+    M_Frame ==>|"Projects finite task premises"| H_Split
+    H_Deadlock ==>|"Escalates exact coordinate of rule collision"| M_StepBack
+    M_ReInject ==>|"Re-injects refined premise into paused loop"| H_Peer
+    H_Peer -.->|"When downstream look stops at fluent output"| I_Flood
+
+    style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Harness fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Illusion fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style M_Frame fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style M_StepBack fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style M_ReInject fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style H_Split fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style H_Peer fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style H_Deadlock fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style I_Flood fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style I_Well fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style I_Freeze fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
 
 ## 四、 残余的容易是前沿不透明的另一面 / 4. Ease of Residue Is the Other Face of Frontier Opacity
 
 差别不在于区分单纯变难了，或单纯变容易了。智能及其制品在一条加速的路上分化：更多的形式变得便宜，更多的边缘拉得更远，它们之间打开更多的表面。被登记为免费智能的东西，即毫不费力的回答、接近零边际成本的流畅，是那条路的一面；另一面是，仍在复利的前沿智能，从丰裕的残余内部看去，越来越难以看见。感到的容易，并不是一个与前沿不透明分开的趋势；它是同一次加速，从仍在画着的边缘之后一步被登记。
 
-The difference is not that distinction is simply getting harder, or simply easier. Intelligence and its artifacts pull apart on an accelerating path: more forms become cheap, more edges pull further, more surfaces open between them. What registers as free intelligence, effortless answers, near-zero marginal fluency, is one face of that path; the other face is that frontier intelligence, still compounding, becomes harder to see from inside abundant residue. Perceived ease is not a separate trend from frontier opacity; it is the same acceleration registered from one step behind the edge that is still drawing.
+The difference is not that distinction is simply getting harder, or simply easier. Intelligence and its artifacts pull apart on an accelerating path: more forms become cheap, more edges pull further, more surfaces open between them. What registers as free intelligence—effortless answers, near-zero marginal fluency—is one face of that path; the other face is that frontier intelligence, still compounding, becomes harder to see from inside abundant residue. Perceived ease is not a separate trend from frontier opacity; it is the same acceleration registered from one step behind the edge that is still drawing.
 
 大多数中心只遇到丰裕的残余。停在完成形式上的看，把智能登记为免费而寻常；停在活的边缘上的看，把同一次变密登记为一个已经走开的过程的副产品。两种登记都不是对人的封闭排名。两者都是同一条路之下的负载：一个中心在多大程度上一直把更密的器具当作它自己连续自我改进的活的部件，又在多大程度上只把它们当作供应完成效果的便利引擎。[来自个体差异的层级](../hierarchy-from-individual-difference/)把排名追溯为彼此不同的个体在一个共享尺度上被计分时出现的东西；在这里，尺度是开放问题之下的所及，更密的器具扩大了不同的人持续如何选择的一致性得以显现的空间。[进步的多面手](../the-utility-men-of-progress/)追溯了同一种几何之下的暂时定向：进步是暂时的解题者反复的工作，承认、抵制与集体吸收，是对一个从不完成的开放之场的滞后；解题者轮换，稀少的发起与迟到的多数登记这一动态不变。[数据是局部的，智能是分配的](../data-is-local-intelligence-is-allocated/)在变密的汇总被当作已在存量里的质量时复原了这一刀：信号、糟粕与智能，命名的是心智所画出的关系，汇总让残余变密，却不搬动这份画出。[平均值是残余，不是引擎](../the-average-is-residue-not-the-engine/)在大众接触的情形里追溯了同一次冻结：百分比登记的是构成与筛选，决定性的边缘，在右尾稀少的实际人数那里；把接触的规模记为均等的发起，就是这次冻结。
 
 Most centers encounter only the abundant residue. The look that stays with finished form registers intelligence as free and common; the look that stays with the living edge registers the same densification as the byproduct of a process that has already moved on. Neither registration is a sealed ranking of persons. Both are load under the same path: how far a center keeps treating denser instruments as active components of its own continuous self-improvement, and how far it uses them only as convenience engines that supply finished effect. [Hierarchy from Individual Difference](../hierarchy-from-individual-difference/) traces ranking as what appears when individuals who differ are scored on a shared measure; here the measure is reach under open problems, and denser instruments enlarge the room in which the consistency of how different people keep choosing shows. [The Utility Men of Progress](../the-utility-men-of-progress/) traces temporary orientation under the same geometry: progress is the repeated work of temporary problem-solvers, and recognition, resistance, and collective absorption are lag on an open field that never finishes; the solvers rotate, while the dynamic of thin initiation and delayed majority registration stays the same. [Data Is Local; Intelligence Is Allocated](../data-is-local-intelligence-is-allocated/) restores the cut when the densified aggregate is treated as quality already in the stock: signal, slop, and intelligence name relations the Mind draws, and aggregation densifies residue without relocating that drawing. [The Average Is Residue, Not the Engine](../the-average-is-residue-not-the-engine/) traces the same freeze in the case of mass access: percentages register composition and selection, the decisive edge sits with a thin number in the right tail, and scoring the volume of access as equal initiation is the freeze.
 
-把工具当作自己循环之内的器具来持守的中心，留在它自己移动着的边缘上，并因那份持守被进一步放大。把它们当作替代、当作智能的来源、或只当作便利引擎来使用的中心，器具对它们的延伸就少；不使用它们的中心，则没有这份放大，仍在自己的边缘上。所及的分布由此被拉开，不是因为工具被扣下了，而是因为放大跟随持守。系统本身不提供离开这种拓扑的出口。它们仍是产生并掌舵它们的人的循环的放大器，放大到让它们保持为器具的那份持守的宽度。智能并没有变便宜，残余变便宜了。残余可得的容易与难以看见的前沿，是同一个反向。
+把工具当作自己循环之内的器具来持守的中心，留在它自己移动着的边缘上，并因那份持守被进一步放大。把它们当作替代、当作智能的来源、或只当作便利引擎来使用的中心，器具对它们的延伸就少；不使用它们的中心，则没有这份放大，仍在自己的边缘上。所及的分布由此被拉开，不是因为工具被扣下了，而是因为放大跟随持守。系统本身不提供离开这种拓扑的出口。它们仍是产生并掌舵它们的人类循环的放大器，放大到让它们保持为器具的那份持守的宽度。智能并没有变便宜，残余变便宜了。残余可得的容易与难以看见的前沿，是同一个反向。
 
 Centers that hold the tools as instruments inside their own cycle stay at their own moving edge and are amplified further by that hold. Centers that use them as replacement, as source of intelligence, or only as convenience engines are extended less by them; centers that do not use them stay at their own edge without that amplification. The distribution of reach stretches accordingly, not because the tool was withheld, but because amplification tracks the hold. The systems themselves offer no exit from that topology. They stay amplifiers of the human cycles that produce and steer them, to the width of the hold that keeps them instruments. Intelligence is not getting cheaper; residue is. The ease of residual access and the hard-to-see frontier are one inverse.
 

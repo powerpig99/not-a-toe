@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T13:50:35.537Z",
+    "generated_at": "2026-10-20T13:54:24.063Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -264,7 +264,7 @@
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "db0930acf213",
       "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "cb240a9929c8",
       "content/posts/the-illusion-of-distance-and-the-dual-ruler.md": "d915809609b6",
-      "content/posts/the-illusion-of-free-intelligence.md": "0e01e0921574",
+      "content/posts/the-illusion-of-free-intelligence.md": "96beae723cdd",
       "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "87c68cdf7df5",
       "content/posts/the-illusion-of-the-shared-sandbox.md": "744ed48a679b",
       "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "d7384a29a960",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9069,
-      "unique_directed": 4679,
+      "edges": 9071,
+      "unique_directed": 4680,
       "missing_targets": 0,
-      "one_way": 203,
+      "one_way": 204,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -465,7 +465,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 50
+      "in_degree": 51
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -1068,7 +1068,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 50,
+      "in_degree": 51,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -6869,9 +6869,9 @@
       "slug": "the-illusion-of-free-intelligence",
       "path": "content/posts/the-illusion-of-free-intelligence.md",
       "title": "免费智能的幻觉 / The Illusion of Free Intelligence",
-      "hash": "0e01e0921574",
+      "hash": "96beae723cdd",
       "in_degree": 22,
-      "out_degree": 22,
+      "out_degree": 23,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "ownership-and-self-worthiness",
@@ -6884,6 +6884,7 @@
         "self-rl-for-humans",
         "the-flywheel-of-the-mind",
         "a-creation-cannot-replace-its-source",
+        "beyond-the-projection",
         "hierarchy-from-individual-difference",
         "the-utility-men-of-progress",
         "data-is-local-intelligence-is-allocated",
@@ -46782,7 +46783,7 @@
       "from": "the-illusion-of-free-intelligence",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence Belongs Only to The Mind"
+      "label": "Intelligence Belongs Only to the Mind"
     },
     {
       "from": "the-illusion-of-free-intelligence",
@@ -46870,9 +46871,21 @@
     },
     {
       "from": "the-illusion-of-free-intelligence",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-illusion-of-free-intelligence",
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
       "label": "A Creation Cannot Replace Its Source"
+    },
+    {
+      "from": "the-illusion-of-free-intelligence",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-illusion-of-free-intelligence",
