@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T15:35:29.084Z",
+    "generated_at": "2026-10-20T15:41:45.544Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -279,7 +279,7 @@
       "content/posts/the-invisible-first-move.md": "24e7e1373e4c",
       "content/posts/the-invisible-gods-eye.md": "9d59904eb1d4",
       "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "319c407dd166",
-      "content/posts/the-irreducible-observer.md": "8bb8fd6612fa",
+      "content/posts/the-irreducible-observer.md": "9d75e4557aa6",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "247a3d936241",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "4fe558fc61a0",
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "6cfe5d5e68e6",
@@ -388,7 +388,7 @@
       "content/posts/when-electrons-think.md": "fbdd3178e8f3",
       "content/posts/when-malfunction-is-scored-as-intelligence.md": "ded5efb3c37b",
       "content/posts/when-need-stops-being-the-measure.md": "a4f550ad30d1",
-      "content/posts/when-observation-becomes-performance.md": "289c2f76896f",
+      "content/posts/when-observation-becomes-performance.md": "034e813ad8fd",
       "content/posts/when-the-effect-authors-the-frame.md": "42fba9798842",
       "content/posts/why-explanation-fails.md": "4bd98e24db9a",
       "content/posts/why-mathematics-can-never-be-solved.md": "1017f7f60c31",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9241,
-      "unique_directed": 4712,
+      "edges": 9245,
+      "unique_directed": 4714,
       "missing_targets": 0,
-      "one_way": 234,
+      "one_way": 236,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -441,7 +441,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 81
+      "in_degree": 83
     },
     {
       "slug": "openness-is-consistency",
@@ -1069,7 +1069,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 81,
+      "in_degree": 83,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -7189,11 +7189,10 @@
       "slug": "the-irreducible-observer",
       "path": "content/posts/the-irreducible-observer.md",
       "title": "不可还原的观察者 / The Irreducible Observer",
-      "hash": "8bb8fd6612fa",
+      "hash": "9d75e4557aa6",
       "in_degree": 18,
-      "out_degree": 16,
+      "out_degree": 17,
       "links_out": [
-        "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "the-twin-paradox-and-the-hidden-observer",
         "subtracting-consciousness-at-the-source",
@@ -7207,8 +7206,10 @@
         "the-grammar-of-finding-and-the-fading-observer",
         "the-ledger-of-the-unencountered",
         "the-category-error-of-better",
-        "silicon-oracles-and-the-asymmetry-of-consequence",
-        "abstract-pain-and-living-hunger"
+        "abstract-pain-and-living-hunger",
+        "beyond-the-projection",
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "silicon-oracles-and-the-asymmetry-of-consequence"
       ]
     },
     {
@@ -9694,9 +9695,9 @@
       "slug": "when-observation-becomes-performance",
       "path": "content/posts/when-observation-becomes-performance.md",
       "title": "当观察变成表演 / When Observation Becomes Performance",
-      "hash": "289c2f76896f",
+      "hash": "034e813ad8fd",
       "in_degree": 16,
-      "out_degree": 16,
+      "out_degree": 17,
       "links_out": [
         "the-meaning-of-life-is-in-the-drafting",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -9710,6 +9711,7 @@
         "clarity-isnt-a-state-you-arrive-at",
         "expertise-as-reference-not-replacement",
         "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+        "beyond-the-projection",
         "the-reversal-from-defensible-claim-to-dogma",
         "cheng-gong-xue",
         "the-source-of-shared-change",
@@ -48775,18 +48777,6 @@
     },
     {
       "from": "the-irreducible-observer",
-      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "rel": "points_to",
-      "label": "任务的委托与后果的不可让渡"
-    },
-    {
-      "from": "the-irreducible-observer",
-      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "rel": "points_to",
-      "label": "The Delegation of the Task and the Inalienability of Consequences"
-    },
-    {
-      "from": "the-irreducible-observer",
       "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
       "rel": "points_to",
       "label": "协议的倒置与因果回路的沉默"
@@ -48913,12 +48903,6 @@
     },
     {
       "from": "the-irreducible-observer",
-      "to": "silicon-oracles-and-the-asymmetry-of-consequence",
-      "rel": "points_to",
-      "label": "硅基神谕与后果的非对称性"
-    },
-    {
-      "from": "the-irreducible-observer",
       "to": "abstract-pain-and-living-hunger",
       "rel": "points_to",
       "label": "抽象的苦难与真实的饥饿"
@@ -48933,7 +48917,7 @@
       "from": "the-irreducible-observer",
       "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
       "rel": "points_to",
-      "label": "the invisible observer and the delusion of lossless transmission"
+      "label": "The Invisible Observer and the Delusion of Lossless Transmission"
     },
     {
       "from": "the-irreducible-observer",
@@ -48955,15 +48939,45 @@
     },
     {
       "from": "the-irreducible-observer",
-      "to": "silicon-oracles-and-the-asymmetry-of-consequence",
-      "rel": "points_to",
-      "label": "Silicon Oracles and the Asymmetry of Consequence"
-    },
-    {
-      "from": "the-irreducible-observer",
       "to": "abstract-pain-and-living-hunger",
       "rel": "points_to",
       "label": "Abstract Pain and Living Hunger"
+    },
+    {
+      "from": "the-irreducible-observer",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-irreducible-observer",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-irreducible-observer",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的委托与后果的不可让渡"
+    },
+    {
+      "from": "the-irreducible-observer",
+      "to": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "rel": "points_to",
+      "label": "硅基神谕与后果的非对称性"
+    },
+    {
+      "from": "the-irreducible-observer",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "the-irreducible-observer",
+      "to": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "rel": "points_to",
+      "label": "Silicon Oracles and the Asymmetry of Consequence"
     },
     {
       "from": "the-irreducible-prior-of-decision-and-consequence",
@@ -63592,6 +63606,18 @@
       "to": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
       "rel": "points_to",
       "label": "Stopping at Judgment Is a Wrong Turn of Cognition"
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "when-observation-becomes-performance",

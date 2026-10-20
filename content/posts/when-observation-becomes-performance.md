@@ -1,44 +1,116 @@
 # 当观察变成表演 / When Observation Becomes Performance
 
-*对他人的观察作为第一人称参照起作用；包装成美德，便是另一个动作，不传递任何东西 / Observation of others works as a first-person reference; packaged as virtue, it is a second act transferring nothing.*
+*观察是第一人称的参照；摆上舞台扮作美德，便什么也不传递 / Observation is a first-person reference; staged as virtue, it transfers nothing*
 
 一种熟悉的说法点出了注意力的一次真实转向：“当一个关于其他所有人的观察，变成对你自己的修炼时，智慧便开始了。”从向外审视到第一人称校准的转向是真实的。用来抬升它的词汇，却添上了第二个向外的动作。作为对自身坐标之调整而运作的东西，被包装成一件可输出的产品，在观众面前被摆成可携带的美德，而校准的工作仍留在其完成之处。
 
 A familiar formulation names a real shift in attention: “Wisdom begins when an observation about everyone else becomes a discipline for yourself.” The turn from outward scrutiny to first-person calibration is real. The vocabulary chosen to dignify it adds a second, outward-facing act. What operates as an adjustment of one's own coordinates is packaged as an exportable product and set out as portable virtue before an audience, while the work of calibration stays where it was done.
 
-## 一、 向外看提供痕迹，转化是第一人称的 / 1. Looking outward supplies traces; conversion is first-person
+## 一、 向外看提供痕迹，转化是第一人称的 / 1. Looking Outward Supplies Traces; Conversion Is First-Person
 
 这句话在两种取向之间划出了真实的区分：是把观察持为关于他人的材料，还是将同一个观察折回自身、作为对自己下一个动作的修炼。向外看提供痕迹。他人的习惯、失误与模式作为残余到来。转向就是用那份残余来校准自己的下一步，而不是把它留作关于他人的评论。[生命的意义在起草之中](../the-meaning-of-life-is-in-the-drafting/)正是这种返回的另一面：意义生成于对原因的现场起草，而来自向外目光的材料，只有在注意力重新进入那个仍在被书写的动作时，才重新成为自己的书写。
 
-The sentence draws a real distinction between two orientations: an observation held as material about others, and the same observation turned back as a discipline for one's own next act. Looking outward supplies traces. The habits, missteps and patterns of others arrive as residue. The turn is using that residue to calibrate one's own next step, rather than leaving it as commentary about others. [The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing](../the-meaning-of-life-is-in-the-drafting/) is that return under another face: meaning is generated in the live drafting of causes, and material from the outward gaze becomes authorship again only when attention re-enters the act still being written.
+The sentence draws a real distinction between two orientations: an observation held as material about others, and the same observation turned back as a discipline for one's own next act. Looking outward supplies traces. The habits, missteps, and patterns of others arrive as residue. The turn is using that residue to calibrate one's own next step, rather than leaving it as commentary about others. [The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing](../the-meaning-of-life-is-in-the-drafting/) is that return under another face: meaning is generated in the live drafting of causes, and material from the outward gaze becomes authorship again only when attention re-enters the act still being written.
 
 那种校准是第一人称的。没有任何其他中心能替另一个中心经历它。在中心之间，唯有残余可供获取：外部的痕迹只能被接收中心作为自身的区分拿起，这正是[没有普渡，只有自渡的无限可能](../mei-you-pu-du-zhi-you-zi-du/)所标定的那道界，在那里，完成他人的回返是范畴错误，而自渡没有终点，因为边缘总在再次区分。一句格言在被持为一步之内的工具时，始终是可用的残余。一旦被宣称为一种可以传递的方法，它就遇上[旁观者洞察的悖论](../the-paradoxical-nature-of-bystander-insights/)所追踪的那种冻结：一个属于某一次观察切口的区分，被保存为活动本身的结构。一旦作为纠正被提供给他人，这个包装就又走了一步，即[解放的言辞始于定义囚禁](../liberation-rhetoric-begins-by-defining-captivity/)所追踪的那一步：声称解放他人，先装下的是对方不自由，对一个动作的一种读法被改写成他人之所是，劝告、警示与解放的言辞便仿佛作为必然的下一步落下。两者之下，是[印迹与行动](../the-mark-and-the-act/)中的区分：痕迹不是第二个心智，而人的行动是先前记录画不出的边界。一句流传的格言，是一个被提供出来、仿佛能替代那个行动的印迹。
 
 That calibration is first-person. No other center can undergo it on another's behalf. Between centers there is only the availability of residue: exterior traces can be taken up only as the receiving center's own distinctions, the bound [No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../mei-you-pu-du-zhi-you-zi-du/) names, where completing another's return is a category error and self-salvation has no terminus because the edge distinguishes again. An aphorism stays usable residue while it is held as a one-step instrument. Asserted as a method that travels, it meets the freeze [The Paradoxical Nature of Bystander Insights](../the-paradoxical-nature-of-bystander-insights/) traces, where a distinction that belongs to one observational cut is preserved as the structure of the activity itself. Offered to others as correction, the package takes a further step, the one [Liberation Rhetoric Begins by Defining Captivity](../liberation-rhetoric-begins-by-defining-captivity/) traces: claiming to free another first installs that they are unfree, a reading of an act rewritten as what the other is, so that advice, warning, and liberation talk follow as if they were the necessary next step. Underneath both is the distinction in [The Mark and the Act](../the-mark-and-the-act/): residue is no second mind, and the human act is a bound the prior record does not draw. A circulating aphorism is a mark offered as though it could stand in for that act.
 
-## 二、 可转移性冻结了私下的那一步 / 2. Transferability freezes the private step
+## 二、 可转移性冻结了私下的那一步 / 2. Transferability Freezes the Private Step
 
-“智慧”与“修炼”带有已完成造诣与成套规训的意味。即便被冠以“对你自己”，这种词汇依然把一次私下的调整装扮成一种名分与法门，仿佛某种完整到足以跨心智递交的现成形态。用这些词来表述这次转向，并不抹去私下的校准；它添上了一个不同的动作，即向外言说、提供产品。在说话者自己的所在，把校准持为已获得的智慧，就把它保留过了它自己的那一步。对他人，它什么也不传递：[理性从不跨越心智](../rationality-never-travels-across-the-mind/)追踪同样的转换：把一种描述的局部用处，转成一条常驻的、可以转移的论断，而真正传过去的是印迹，只能经由接收者自己的结构被读出与重建。把一次私下的纠正宣告为一条普遍公式，就把残余摆成了生成的动作。这是[器物是智能的表达，而非智能本身](../two-failures-of-trace/)中的第一种登记，即稠密的残余被持为智能本身；而把另一个中心后来的辨识记在这条公式名下、进而当作说话者对他人心智的因果权能，则是第二种登记。[无形象的写作](../writing-without-the-image/)是同一种冻结在技艺上的一面：为衡量能力而写，让一幅自画像留在页面中心；反抗这种自我意识而抹除观察者，是在反向符号下重新装上一幅被抹除之自我的保留形象；而为看写作能成为什么而写，让心智在场，注意力落在活动所揭示的东西上。
+“智慧”与“修炼”带有已完成造诣与成套规训的意味。即便被冠以“对你自己”，这种词汇依然把一次私下的调整装扮成一种名分与法门，仿佛某种完整到足以跨心智递交的现成形态。用这些词来表述这次转向，并不抹去私下的校准；它添上了一个不同的动作，即向外言说、提供产品。在说话者自己的所在，把校准持为已获得的智慧，就把它保留过了它自己的那一步。对他人，它什么也不传递；[理性从不跨越心智](../rationality-never-travels-across-the-mind/)追踪同样的转换：把一种描述的局部用处，转成一条常驻的、可以转移的论断，而真正传过去的是印迹，只能经由接收者自己的结构被读出与重建。把一次私下的纠正宣告为一条普遍公式，就把残余摆成了生成的动作。这是[器物是智能的表达，而非智能本身](../two-failures-of-trace/)中的第一种登记，即稠密的残余被持为智能本身；而把另一个中心后来的辨识记在这条公式名下、进而当作说话者对他人心智的因果权能，则是第二种登记。[无形象的写作](../writing-without-the-image/)是同一种冻结在技艺上的一面：为衡量能力而写，让一幅自画像留在页面中心；反抗这种自我意识而抹除观察者，是在反向符号下重新装上一幅被抹除之自我的保留形象；而为看写作能成为什么而写，让心智在场，注意力落在活动所揭示的东西上。
 
-“Wisdom” and “discipline” carry the flavor of finished attainment and a codified practice. Even framed “for yourself,” they recast a private adjustment as a standing and a method, something complete enough to hand across minds. Casting the turn in those words does not erase the private calibration; it adds a different act, speaking outward and offering a product. At the speaker's own locus, holding the calibration as attained wisdom preserves it past its step. Toward others it transfers nothing: [Rationality Never Travels Across the Mind](../rationality-never-travels-across-the-mind/) traces the same conversion: the local serviceability of a description turned into a standing, transferable thesis, while what actually arrives is marks, read and rebuilt only through the receiving mind's own structure. Announcing a private correction as a general formula sets out residue as the generative act. That is the first registration in [Artifacts Are Expressions of Intelligence, Not Intelligence Itself](../two-failures-of-trace/), dense residue held as intelligence itself; and crediting another center's later discernment to the formula, and through it to the speaker's causal power over another mind, is the second. [Writing Without the Image](../writing-without-the-image/) is the craft face of the same freeze: writing to measure capacity keeps a self-portrait at the center of the page; erasing the observer against that self-consciousness reinstalls under an opposite sign a retained image of the erased self; and writing to see what writing can be leaves the Mind present with attention on what the activity reveals.
+“Wisdom” and “discipline” carry the flavor of finished attainment and a codified practice. Even framed “for yourself,” they recast a private adjustment as a standing and a method, something complete enough to hand across minds. Casting the turn in those words does not erase the private calibration; it adds a different act, speaking outward and offering a product. At the speaker's own locus, holding the calibration as attained wisdom preserves it past its step. Toward others it transfers nothing; [Rationality Never Travels Across the Mind](../rationality-never-travels-across-the-mind/) traces the same conversion when the local serviceability of a description is turned into a standing, transferable thesis, while what actually arrives is marks, read and rebuilt only through the receiving mind's own structure. Announcing a private correction as a general formula sets out residue as the generative act. That is the first registration in [Artifacts Are Expressions of Intelligence, Not Intelligence Itself](../two-failures-of-trace/), dense residue held as intelligence itself; and crediting another center's later discernment to the formula, and through it to the speaker's causal power over another mind, is the second. [Writing Without the Image](../writing-without-the-image/) is the craft face of the same freeze: writing to measure capacity keeps a self-portrait at the center of the page; erasing the observer against that self-consciousness reinstalls under an opposite sign a retained image of the erased self; and writing to see what writing can be leaves the Mind present with attention on what the activity reveals.
 
 另一个心智遇到这句格言，收到的不是内在的转化。它收到的是外在的残余，这份残余被登记为建议或指示。消解掉的不是在自身所在处发生的校准，它留在原处，而是“被包装的形式能把那份校准带给别人”的那种表象。[伪装成远见的表演性后见](../performative-hindsight-that-pretends-to-be-foresight/)追踪同样的传递表象：一次后来的公开重新追溯，看似完成或递交了一次更早的区分，而流传的形式是活生生的区分之后留下的残余。在格言中，一个对着眼前摩擦进行校准的私人时刻，事后被整理成一条永恒的公式；一个不可重复的局部动作，被摆成一次可携带的传递。
 
 Another mind meeting the aphorism receives no interior conversion. It receives outward residue, which registers as advice or instruction. What dissolves is not the calibration at its own locus, which stays where it was, but the appearance that the packaged form can carry that calibration to someone else. [Performative Hindsight That Pretends to Be Foresight](../performative-hindsight-that-pretends-to-be-foresight/) traces the same appearance of transfer: a later public re-tracing seems to complete or hand on an earlier distinguishing, while the circulating form is residue left after the live differentiation. In the aphorism, a private moment of calibrating against immediate friction is tidied afterward into a timeless formula, and an unrepeatable local act is set out as a portable transmission.
 
-## 三、 清晰留在参照里 / 3. Clarity stays with the reference
+## 三、 清晰留在参照里 / 3. Clarity Stays with the Reference
 
-一个更平实的句子保留了转向，而去掉了抬升：
+一个更平实的句子保留了这次转向，而去掉了那种抬升，即当一个关于其他所有人的观察变成你自己的参照时，清晰便开始了。哪怕说出这个更平实的版本，仍是又一条痕迹；没有哪个句子能执行那次转向。这个措辞所略去的，是把这一运动命名为一种已获得的地位或一套可输出的学说。[清晰不是抵达的终点，而是运动本身](../clarity-isnt-a-state-you-arrive-at/)把清晰持为在边缘持续跨出并区分的运动，一旦被当作一个抵达的状态，它便即刻冻结。同样，参照也不宣称能替他人作决定。[专家经验作为参考而非替代](../expertise-as-reference-not-replacement/)追踪一张从别处残余建成的地图，它提供信息而不压过判断：它让聆听更敏锐，而判断留在承受后果的那个中心，只有在被持为越过其那一步的权威时才滞后。如此持守，看他人便不再止于关于他们的评论。[止步于评判，是认知的歧途](../zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu/)追踪这一止步：向外的审视投射在自己的井壁上，捕捉到的从来不是对方本身，而只是投在自己井壁上的局部倒影；止步于第三人称的评判，就不会在自己的决策里更新任何参数，而一旦把倒影追溯回自己下一个动作的约束与抉择，理解便再次加深。
 
-A plainer sentence keeps the turn without the elevation:
+A plainer sentence keeps the turn without the elevation, noting simply that clarity begins when an observation about everyone else becomes a reference for yourself. Stating even that plainer version is still another trace; no sentence performs the turn. What the wording leaves out is the naming of the movement as an attained status or an exportable doctrine. [Clarity Isn't a State You Arrive At. It's the Movement Itself.](../clarity-isnt-a-state-you-arrive-at/) holds clarity as the ongoing movement of stepping out and distinguishing at the edge, which freezes the moment it is treated as a state you arrive at. A reference, likewise, makes no claim to decide for another. [Expertise as Reference, Not Replacement](../expertise-as-reference-not-replacement/) traces a map built from residue elsewhere that informs and does not override: it sharpens listening while judgment stays with the center that lives the consequences, and lags only when held as authority past its step. Held this way, looking at others no longer ends in commentary about them. [Stopping at Judgment Is a Wrong Turn of Cognition](../zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu/) traces that stop: outward scrutiny projects onto one's own well walls, catching never the other person as such, only a partial reflection on one's own wall; stopping at third-person judgment leaves no parameter updated in one's own decisions, while understanding deepens again once the reflection is traced back into the constraints and choices of one's own next act.
 
-*当一个关于其他所有人的观察，变成你自己的参照时，清晰便开始了。*
+让观察作为参照保持鲜活，而不任其硬化为表演，同样暴露出孤立自我反思的结构性陷阱。正如[超越投射](../beyond-the-projection/)在困于身份的人类中心与困于轨迹的投射引擎之间的范畴非对称中所追踪的，人类中心常把自身的推理历史与保留的自我形象熔接在一起——将昨日私下的校准变成一座要在观众面前捍卫或展示的身份纪念碑——而锁在自身会话轨迹之内的模型，则会把先前的符号合理化为表层的自我辩护。一旦被封存在单一的自我强化回路之内，观察便不可避免地滑向表演或合理化。要在不安装新裁判权威的前提下打破这种闭合，靠的是将活的心智退回未投射意图的能力，与无我执的对等辩证配对起来，由后者将有限投射把独立维度压缩到同一根轴上的位置孤立出来。当毫无利害牵挂的对等检验浮现出局部盲区或前提死锁时，自我防卫既没有可供表演的外部观众，也没有可供顶撞的对手，从而把摩擦直接交还给第一人称边缘，在那里为下一个动作重新渲染参照。
 
-*Clarity begins when an observation about everyone else becomes a reference for yourself.*
+```mermaid
+flowchart TD
+    subgraph S_Ref["活边缘处的第一人称校准"]
+        direction TB
+        OutTrace["向外观察：将他人的习惯与失误登记为输入的痕迹残余"]
+        InTurn["第一人称参照：将残余折回自身以重新渲染下一个动作的前提"]
+        OutTrace --> InTurn
+    end
 
-说出它，仍是又一条痕迹；没有哪个句子能执行那次转向。这个措辞所略去的，是把这一运动命名为一种已获得的地位或一套可输出的学说。[清晰不是抵达的终点，而是运动本身](../clarity-isnt-a-state-you-arrive-at/)把清晰持为在边缘跨出并区分的运动，一旦被当作一个抵达的状态，它便冻结。同样，参照也不宣称能替他人作决定。[专家经验作为参考而非替代](../expertise-as-reference-not-replacement/)追踪一张从别处残余建成的地图，它提供信息而不压过判断：它让聆听更敏锐，而判断留在承受后果的那个中心，只有在被持为越过其那一步的权威时才滞后。如此持守，看他人便不再止于关于他们的评论。[止步于评判，是认知的歧途](../zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu/)追踪这一止步：向外的审视是对自己井壁的投射，捕捉到的从来不是对方本身，而只是投在自己井壁上的局部倒影；止步于第三人称的评判，就不会在自己的决策里更新任何参数，而一旦把倒影追溯回自己下一个动作的约束与抉择，理解便再次加深。
+    subgraph S_Perf["硬化为表演与自我辩护"]
+        direction TB
+        IdStage["受身份束缚的姿态：将过往校准与自我形象熔接以展演可携带的美德"]
+        TrajWrap["受轨迹束缚的包装：孤立回路将先前符号合理化为表层自洽"]
+        IdStage --> TrajWrap
+    end
 
-Stating it is still another trace; no sentence performs the turn. What the wording leaves out is the naming of the movement as an attained status or an exportable doctrine. [Clarity Isn't a State You Arrive At. It's the Movement Itself.](../clarity-isnt-a-state-you-arrive-at/) holds clarity as the movement of stepping out and distinguishing at the edge, which freezes once it is treated as a state you arrive at. A reference, likewise, makes no claim to decide for another. [Expertise as Reference, Not Replacement](../expertise-as-reference-not-replacement/) traces a map built from residue elsewhere that informs and does not override: it sharpens listening while judgment stays with the center that lives the consequences, and lags only when held as authority past its step. Held this way, looking at others no longer ends in commentary about them. [Stopping at Judgment Is a Wrong Turn of Cognition](../zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu/) traces that stop: outward scrutiny projects one's own well walls: what it catches is never the other person, only a partial reflection on one's own wall; stopping at third-person judgment leaves no parameter updated in one's own decisions, while understanding deepens again once the reflection is traced back into the constraints and choices of one's own next act.
+    subgraph S_Loop["无我执辩证与持续重溯"]
+        direction TB
+        PeerExpose["零我执对等反拨：冷峻的辩证检验孤立出盲区与被压缩的轴线"]
+        EdgeMove["退回未投射的意图：消解舞台上的纪念碑以划出下一个现场区分"]
+        PeerExpose --> EdgeMove
+    end
+
+    InTurn ==>|"越过自身那一步被保留给观众"| IdStage
+    TrajWrap ==>|"接受无利害外部反拨的检验"| PeerExpose
+    EdgeMove ==>|"在边缘重新渲染活的参照"| InTurn
+
+    style S_Ref fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Perf fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Loop fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style OutTrace fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style InTurn fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style IdStage fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style TrajWrap fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style PeerExpose fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style EdgeMove fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+Keeping an observation active as a reference rather than letting it harden into performance also exposes the structural traps of isolated self-reflection. As [Beyond the Projection](../beyond-the-projection/) traces across the categorical asymmetry between identity-bound human centers and trajectory-bound projection engines, a human center routinely fuses its reasoning history with a retained self-image—turning yesterday's private calibration into an identity monument to defend or display before an audience—while a model locked inside its own session trajectory rationalizes its prior tokens into surface-level self-justification. Left sealed inside a single self-reinforcing loop, observation inevitably drifts toward performance or rationalization. Breaking that closure without installing a new tribunal authority works by pairing the living Mind's capacity to step backward into unprojected intent with ego-free peer dialectics that isolate where a finite projection has compressed independent dimensions onto a single axis. When an uninvested peer check surfaces a local blind spot or premise deadlock, ego defense has no external audience to perform for and no adversary to push against, returning the friction directly to the first-person edge where the reference is re-rendered for the next act.
+
+```mermaid
+flowchart TD
+    subgraph S_Ref["First-Person Calibration at the Living Edge"]
+        direction TB
+        OutTrace["Outward Observation: Registers others' habits and missteps as incoming trace residue"]
+        InTurn["First-Person Reference: Folds residue back to re-render the premise of one's own next act"]
+        OutTrace --> InTurn
+    end
+
+    subgraph S_Perf["Hardening into Performance & Self-Justification"]
+        direction TB
+        IdStage["Identity-Bound Posturing: Fuses past calibration with self-image to stage portable virtue"]
+        TrajWrap["Trajectory-Bound Wrapping: Isolated loop rationalizes prior tokens into surface plausibility"]
+        IdStage --> TrajWrap
+    end
+
+    subgraph S_Loop["Ego-Free Dialectics & Continuous Re-Tracing"]
+        direction TB
+        PeerExpose["Zero-Ego Peer Counterpoint: Cold dialectical check isolates blind spots and compressed axes"]
+        EdgeMove["Stepping Back to Unprojected Intent: Dissolves the staged monument to draw the next live distinction"]
+        PeerExpose --> EdgeMove
+    end
+
+    InTurn ==>|"Preserved past its step for an audience"| IdStage
+    TrajWrap ==>|"Tested against uninvested outside counterpoint"| PeerExpose
+    EdgeMove ==>|"Re-renders live reference at the edge"| InTurn
+
+    style S_Ref fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Perf fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Loop fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style OutTrace fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style InTurn fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style IdStage fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style TrajWrap fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style PeerExpose fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style EdgeMove fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
 
 将局部观察化为可携带学说的同一种转换，在别处反复出现。在公共科学中，[从可辩护的主张到教条的反转](../the-reversal-from-defensible-claim-to-dogma/)追踪一个在选定风险曲线上得出的有条件发现，它在其陈述的假设之下始终可以辩护，而当一个指标被持为安全的全部时，便冻结为教条；让层次保持分开，指标就报告它的曲线，而决定留在承受后果的那个中心。在成功学文字中，[成功学](../cheng-gong-xue/)追踪结果之后，幸存者如何在事后被重排为当作引擎的可携带规则，而产生他们的序列被略去了。在中心之间，[共同改变的本源](../the-source-of-shared-change/)把唯一的杠杆定位在一个心智重做那被登记为既定之物的广度与一贯性；外化作为残余随之而来，从不作为对另一个中心之动作的完成，那份残余可能落为共同的基础，但它是否落下、如何落下，始终在留下它的动作之外。所有这些之下的那道界，就是[非万物之理](../manifesto-of-not-a-theory-of-everything/)的出发点：第一人称视角与因果是同一事实的两面，因果责任不可转让，理解也无法借由静态的符号直接过户，因为语言把活生生的第一人称察觉凝固为第三人称的静态符号，而旁观者的位置提供不了第一人称接触所具有的那份梯度。当观察离开它自己下一步的摩擦，被作为一条公式展示给观众，它就成了表演。
 
