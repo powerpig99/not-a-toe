@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T13:28:50.403Z",
+    "generated_at": "2026-10-20T13:34:23.594Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -39,7 +39,7 @@
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "686562b607ec",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
-      "content/posts/climbing-does-not-leave-the-ground.md": "09aedb8b9cf4",
+      "content/posts/climbing-does-not-leave-the-ground.md": "d9ca1acbfe95",
       "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "8bce8e0d1c10",
       "content/posts/closed-reality-in-benchmark-maxing.md": "d08874947c2e",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "7c59e734d934",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9004,
-      "unique_directed": 4672,
+      "edges": 9008,
+      "unique_directed": 4674,
       "missing_targets": 0,
-      "one_way": 196,
+      "one_way": 198,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -465,7 +465,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 44
+      "in_degree": 45
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -500,12 +500,12 @@
       "in_degree": 33
     },
     {
-      "slug": "symptom-and-cause-in-the-narratives-of-progress",
+      "slug": "clarity-isnt-a-state-you-arrive-at",
       "in_degree": 32
     },
     {
-      "slug": "clarity-isnt-a-state-you-arrive-at",
-      "in_degree": 31
+      "slug": "symptom-and-cause-in-the-narratives-of-progress",
+      "in_degree": 32
     },
     {
       "slug": "complexity-obscures-emergence-as-the-act-of-mind",
@@ -1068,7 +1068,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 44,
+      "in_degree": 45,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1333,7 +1333,7 @@
       "path": "content/posts/clarity-isnt-a-state-you-arrive-at.md",
       "title": "清晰不是抵达的终点，而是运动本身 / Clarity Isn't a State You Arrive At. It's the Movement Itself.",
       "hash": "686562b607ec",
-      "in_degree": 31,
+      "in_degree": 32,
       "out_degree": 31,
       "links_out": [
         "why-mathematics-can-never-be-solved",
@@ -1397,9 +1397,9 @@
       "slug": "climbing-does-not-leave-the-ground",
       "path": "content/posts/climbing-does-not-leave-the-ground.md",
       "title": "攀登从未离开地面 / Climbing Does Not Leave the Ground",
-      "hash": "09aedb8b9cf4",
+      "hash": "d9ca1acbfe95",
       "in_degree": 23,
-      "out_degree": 23,
+      "out_degree": 25,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "two-failures-of-trace",
@@ -1409,6 +1409,7 @@
         "the-geometry-of-success",
         "the-scaffolding-we-forget",
         "the-model-never-becomes-a-second-edge",
+        "beyond-the-projection",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
         "a-creation-cannot-replace-its-source",
         "the-closed-loop-of-representation",
@@ -1419,6 +1420,7 @@
         "coordinates-in-flux-negation-and-self-anchoring",
         "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
         "the-scaffolding-that-keeps-growing",
+        "clarity-isnt-a-state-you-arrive-at",
         "reality-is-the-minds-ongoing-realization",
         "technology-is-residual-of-human-compounding",
         "causality-and-the-irreducible-prior",
@@ -14673,6 +14675,12 @@
     },
     {
       "from": "climbing-does-not-leave-the-ground",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "climbing-does-not-leave-the-ground",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
       "label": "没有外部"
@@ -14694,6 +14702,12 @@
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "climbing-does-not-leave-the-ground",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "climbing-does-not-leave-the-ground",
@@ -14793,6 +14807,12 @@
     },
     {
       "from": "climbing-does-not-leave-the-ground",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "清晰不是抵达的终点，而是运动本身"
+    },
+    {
+      "from": "climbing-does-not-leave-the-ground",
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
       "label": "现实是心智持续的实现"
@@ -14802,6 +14822,12 @@
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
       "label": "The Scaffolding That Keeps Growing"
+    },
+    {
+      "from": "climbing-does-not-leave-the-ground",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn't a State You Arrive At"
     },
     {
       "from": "climbing-does-not-leave-the-ground",
