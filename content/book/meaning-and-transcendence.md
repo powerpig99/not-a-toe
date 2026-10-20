@@ -18,7 +18,7 @@ The essays in this part examine theological projections, the mirage of physical 
 - [Separation Isn't the Disease](../../posts/naval-separation-analysis/)
 - [没有普渡，只有自渡的无限可能 / No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../../posts/mei-you-pu-du-zhi-you-zi-du/)
 - [有无之边](../../posts/you-wu-zhi-bian/)
-- [The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing](../../posts/the-meaning-of-life-is-in-the-drafting/)
+- [生命的意义在起草之中 / The Meaning of Life Is in the Drafting](../../posts/the-meaning-of-life-is-in-the-drafting/)
 - [自由的心智被声称保护它的东西取代 / The Free Mind Is Displaced by What Claims to Protect It](../../posts/the-free-mind-is-displaced-by-what-claims-to-protect-it/)
 - [无穷总体的海市蜃楼 / The Mirage of the Infinite Totality](../../posts/the-mirage-of-the-infinite-totality/)
 - [上帝的起源与“我们”的降维 / The Origin of God and the Flattening of "We"](../../posts/the-origin-of-god-and-the-flattening-of-we/)

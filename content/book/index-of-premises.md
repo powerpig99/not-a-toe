@@ -3257,7 +3257,7 @@ The reading presumes that fluent output inside well-defined domains is intellige
 
 Retrospective appraisal treats meaning as a score calculated at life's end; meaning is continuously generated in the living friction of committing to the next act.
 
-→ [The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing](../../posts/the-meaning-of-life-is-in-the-drafting/)
+→ [生命的意义在起草之中 / The Meaning of Life Is in the Drafting](../../posts/the-meaning-of-life-is-in-the-drafting/)
 
 ### 存活的外部皮层 / Living External Cortex
 `技术 / Technological`

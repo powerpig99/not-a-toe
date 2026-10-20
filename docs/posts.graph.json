@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T13:57:30.931Z",
+    "generated_at": "2026-10-20T14:01:23.603Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -293,7 +293,7 @@
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
       "content/posts/the-map-after-the-territory.md": "1a231ded3754",
       "content/posts/the-mark-and-the-act.md": "778190489f12",
-      "content/posts/the-meaning-of-life-is-in-the-drafting.md": "cec160d47946",
+      "content/posts/the-meaning-of-life-is-in-the-drafting.md": "9fde797d1966",
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "1cc729bed0a9",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "fd3f9916d247",
       "content/posts/the-mirage-of-the-infinite-totality.md": "591249e563df",
@@ -407,12 +407,12 @@
       "content/book/causality.md": "529bd18279d8",
       "content/book/consciousness.md": "84e10ab5f9aa",
       "content/book/economics.md": "0208ea9246ef",
-      "content/book/index-of-premises.md": "477665e0be93",
+      "content/book/index-of-premises.md": "31116b041f34",
       "content/book/intelligence.md": "4c5c52169bc9",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "0ae44b3e7554",
-      "content/book/meaning-and-transcendence.md": "7a153f15ce09",
+      "content/book/meaning-and-transcendence.md": "ce5168a72c34",
       "content/book/method.md": "4169cbe1157f",
       "content/book/morality.md": "0024610ecad0",
       "content/book/physics.md": "26d82e9eb69f",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9079,
-      "unique_directed": 4681,
+      "edges": 9103,
+      "unique_directed": 4682,
       "missing_targets": 0,
-      "one_way": 205,
+      "one_way": 206,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -461,7 +461,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 52
+      "in_degree": 53
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -1068,7 +1068,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 52,
+      "in_degree": 53,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -7415,10 +7415,10 @@
       "kind": "post",
       "slug": "the-meaning-of-life-is-in-the-drafting",
       "path": "content/posts/the-meaning-of-life-is-in-the-drafting.md",
-      "title": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing",
-      "hash": "cec160d47946",
+      "title": "生命的意义在起草之中 / The Meaning of Life Is in the Drafting",
+      "hash": "9fde797d1966",
       "in_degree": 22,
-      "out_degree": 22,
+      "out_degree": 23,
       "links_out": [
         "when-observation-becomes-performance",
         "the-path-drawn-one-step-at-a-time",
@@ -7428,6 +7428,7 @@
         "token-efficiency-emulation-and-the-unclosable-gap",
         "what-cannot-be-kept",
         "whatever-is-one-prompt-away",
+        "beyond-the-projection",
         "ownership-and-self-worthiness",
         "the-allocation-of-causal-power-in-validation",
         "meaning-of-life-refined",
@@ -49220,13 +49221,37 @@
       "from": "the-meaning-of-life-is-in-the-drafting",
       "to": "when-observation-becomes-performance",
       "rel": "points_to",
-      "label": "When observation becomes performance"
+      "label": "当观察变成表演"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When Observation Becomes Performance"
     },
     {
       "from": "the-meaning-of-life-is-in-the-drafting",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
-      "label": "the path drawn one step at a time"
+      "label": "一步一步绘制出的路径"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "the-map-after-the-territory",
+      "rel": "points_to",
+      "label": "行路之后的地图"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "du-zhongwen-zhexue-jianshi-you-gan",
+      "rel": "points_to",
+      "label": "读《中文哲学简史》有感"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "The Path Drawn One Step at a Time"
     },
     {
       "from": "the-meaning-of-life-is-in-the-drafting",
@@ -49244,7 +49269,19 @@
       "from": "the-meaning-of-life-is-in-the-drafting",
       "to": "writing-without-the-image",
       "rel": "points_to",
-      "label": "Writing without the image"
+      "label": "无形象的写作"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "token-efficiency-emulation-and-the-unclosable-gap",
+      "rel": "points_to",
+      "label": "Token 效率、模拟与无法弥合的间隙"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "writing-without-the-image",
+      "rel": "points_to",
+      "label": "Writing Without the Image"
     },
     {
       "from": "the-meaning-of-life-is-in-the-drafting",
@@ -49256,7 +49293,19 @@
       "from": "the-meaning-of-life-is-in-the-drafting",
       "to": "what-cannot-be-kept",
       "rel": "points_to",
-      "label": "what cannot be kept"
+      "label": "留不住的"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "whatever-is-one-prompt-away",
+      "rel": "points_to",
+      "label": "一个提示词之遥"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "what-cannot-be-kept",
+      "rel": "points_to",
+      "label": "What Cannot Be Kept"
     },
     {
       "from": "the-meaning-of-life-is-in-the-drafting",
@@ -49266,21 +49315,57 @@
     },
     {
       "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "the-meaning-of-life-is-in-the-drafting",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "The allocation of causal power in validation"
+      "label": "验证中因果权能的分配"
     },
     {
       "from": "the-meaning-of-life-is-in-the-drafting",
       "to": "meaning-of-life-refined",
       "rel": "points_to",
-      "label": "The structure of meaning"
+      "label": "意义的结构"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "非万物之理"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "meaning-of-life-refined",
+      "rel": "points_to",
+      "label": "The Structure of Meaning"
     },
     {
       "from": "the-meaning-of-life-is-in-the-drafting",
@@ -49292,13 +49377,31 @@
       "from": "the-meaning-of-life-is-in-the-drafting",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "No Universal Salvation, Only Self-Deliverance"
+      "label": "没有普渡，只有自渡的无限可能"
     },
     {
       "from": "the-meaning-of-life-is-in-the-drafting",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
-      "label": "The source of shared change"
+      "label": "共同改变的本源"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "better-than-free-after-the-checklist-closes",
+      "rel": "points_to",
+      "label": "清单合上之后，胜过免费"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "The Source of Shared Change"
     },
     {
       "from": "the-meaning-of-life-is-in-the-drafting",
@@ -49310,7 +49413,19 @@
       "from": "the-meaning-of-life-is-in-the-drafting",
       "to": "overfitting-as-the-follower-mode",
       "rel": "points_to",
-      "label": "overfitting as the follower mode"
+      "label": "过拟合作为追随者模式"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "伪装成远见的表演性后见"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "overfitting-as-the-follower-mode",
+      "rel": "points_to",
+      "label": "Overfitting as the Follower Mode"
     },
     {
       "from": "the-meaning-of-life-is-in-the-drafting",
@@ -49322,25 +49437,55 @@
       "from": "the-meaning-of-life-is-in-the-drafting",
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
-      "label": "Reality is the Mind's ongoing realization"
+      "label": "现实是心智持续的实现"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality Is the Mind's Ongoing Realization"
     },
     {
       "from": "the-meaning-of-life-is-in-the-drafting",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
-      "label": "Clarity isn't a state you arrive at"
+      "label": "清晰不是抵达的终点，而是运动本身"
     },
     {
       "from": "the-meaning-of-life-is-in-the-drafting",
       "to": "the-strongest-belief-of-the-mind",
       "rel": "points_to",
-      "label": "The strongest belief of the Mind"
+      "label": "心智最坚固的信念"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "the-paradoxical-nature-of-bystander-insights",
+      "rel": "points_to",
+      "label": "旁观者洞察的悖论"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "the-strongest-belief-of-the-mind",
+      "rel": "points_to",
+      "label": "The Strongest Belief of the Mind"
     },
     {
       "from": "the-meaning-of-life-is-in-the-drafting",
       "to": "the-paradoxical-nature-of-bystander-insights",
       "rel": "points_to",
       "label": "The Paradoxical Nature of Bystander Insights"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+      "rel": "points_to",
+      "label": "止步于评判，是认知的歧途"
     },
     {
       "from": "the-meaning-of-life-is-in-the-drafting",
@@ -64546,7 +64691,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "477665e0be93",
+        "hash": "31116b041f34",
         "out_degree": 396
       },
       {
@@ -64591,7 +64736,7 @@
         "slug": "meaning-and-transcendence",
         "path": "content/book/meaning-and-transcendence.md",
         "title": "意义追寻与超越之境 / The Search for Meaning and Transcendence",
-        "hash": "7a153f15ce09",
+        "hash": "ce5168a72c34",
         "out_degree": 12
       },
       {
@@ -67945,7 +68090,7 @@
         "from": "book:index-of-premises",
         "to": "the-meaning-of-life-is-in-the-drafting",
         "rel": "collects",
-        "label": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing"
+        "label": "生命的意义在起草之中 / The Meaning of Life Is in the Drafting"
       },
       {
         "from": "book:index-of-premises",
@@ -70165,7 +70310,7 @@
         "from": "book:meaning-and-transcendence",
         "to": "the-meaning-of-life-is-in-the-drafting",
         "rel": "collects",
-        "label": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing"
+        "label": "生命的意义在起草之中 / The Meaning of Life Is in the Drafting"
       },
       {
         "from": "book:meaning-and-transcendence",
