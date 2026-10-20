@@ -1,10 +1,10 @@
-# 抽象、边界与现实的移动边缘 / Abstraction, Boundaries, and the Moving Edge of Reality
+# 抽象、边界与现实的移动边缘 / Abstraction Boundaries and the Moving Edge of Reality
 
-*成功的感知是有损的界定；被当作场的结构时，它把残余冻结成一份封死的清单。 / Successful perception is a lossy bound; held as the field's structure, it freezes residue into a sealed catalogue.*
+*每一次抽象都是有损的界定，被当作终局握住时便将残余冻结 / Every abstraction is a lossy bound that freezes residue when held as final*
 
-成功的感知与预测，是高度抽象的信息系统：为有用而非为完整而优化的有损压缩。它们追踪进行中的活动的某些面向，可靠得惊人，却始终有限。冻结发生在把这种成功当作对一个固定世界的理解的时候：两亿条已知序列、一份完成了的构型清单、一套解完了的问题。这份清单作为一次临时界定下的残余是真的；把界定放大或解开，清单就化回任何有限登记都穷尽不了的生成空间。边缘一直在移动，每一条边界都是脚手架，而不是一个封闭世界的完成轮廓。
+成功的感知与预测，是高度抽象的信息系统，即为有用而非为完整而优化的有损压缩。它们追踪进行中的活动的某些面向，可靠得惊人，却始终有限。冻结发生在把这种成功当作对一个固定世界的理解的时候，无论是两亿条已知蛋白质序列、一份完成了的物理构型清单，还是一套解完了的可解问题。这份清单作为一次临时界定下的残余是真的；把界定放大或解开，清单就化回任何有限登记都穷尽不了的生成空间。边缘一直在移动，每一条边界都是脚手架，而不是一个封闭世界的完成轮廓。
 
-Successful perception and prediction are highly abstracted information systems, lossy compressions optimized for usefulness rather than completeness. They track aspects of ongoing activity with remarkable reliability and remain finite. The freeze comes when that success is taken as comprehension of a fixed world: two hundred million known sequences, a finished catalogue of configurations, a completed set of solvable problems. The inventory is real as residue under a temporary bound; enlarge or dissolve the bound and the catalogue dissolves back into a generative space no finite registration exhausts. The edge keeps moving, and every bound is scaffolding, not the completed outline of a closed world.
+Successful perception and prediction are highly abstracted information systems, lossy compressions optimized for usefulness rather than completeness. They track aspects of ongoing activity with remarkable reliability and remain finite. The freeze comes when that success is taken as comprehension of a fixed world, whether as two hundred million known protein sequences, a finished catalogue of physical configurations, or a completed set of solvable problems. The inventory is real as residue under a temporary bound; enlarge or dissolve the bound and the catalogue dissolves back into a generative space no finite registration exhausts. The edge keeps moving, and every bound is scaffolding, not the completed outline of a closed world.
 
 ## 一、 抽象靠舍弃维度而成功 / 1. Abstraction Succeeds by Dropping Axes
 
@@ -18,21 +18,95 @@ Sensory systems and scientific models compress. They drop axes and retain what s
 
 把“物理的”与“信息的”当作两个需要桥接的领域，这种二元已经是滞后。登记为物理的，是在一种握持下的活动；登记为信息的，是同一活动在各个中心为追踪它而竖起的压缩之下的样子。凡是有可被追踪的结构的东西，都可以作为信息被追踪，否则知识这种登记本身就无从与它相合。与此同时，每一份概括在类别上都比生成概括的场更贫乏。每一张地图、每一个方程、每一组数据都是有限的压缩，自由度、关联与因果的深度都越过每一次完成的握持继续延伸。地图永远到不了的那个整体，并不是立在地图之外的第二种实体，而是那不息的活动本身，每一张地图都是它的临时残余。[选择、矛盾与开放的现实](../selection-contradiction-and-open-reality/)在“引力出自信息”的场景里追溯了这一点：把引力解释为出自信息，是一次与递归立场相合的选择，却不因此免于被重新解释。
 
-The dualism that treats "physical" and "informational" as two realms needing a bridge is already a lag. What registers as physical is the activity under one hold; what registers as informational is the same activity under the compressions centers erect to track it. Whatever admits structure that can be tracked is trackable as information; otherwise knowledge, itself a registration, could never cohere with it at all. At the same time every summary stays categorically poorer than the field that generates summaries. Every map, equation and dataset is a finite compression, and degrees of freedom, correlation and causal depth continue past every finished hold. The whole that no map reaches is not a second substance standing outside the maps; it is the unceasing activity of which every map is temporary residue. [Selection, Contradiction, and Open Reality](../selection-contradiction-and-open-reality/) traces this in the case of gravity derived from information: explaining gravity from information is one selection that coheres with the recursive stance, and is not thereby exempt from reinterpretation.
+The dualism that treats "physical" and "informational" as two realms needing a bridge is already a lag. What registers as physical is the activity under one hold; what registers as informational is the same activity under the compressions centers erect to track it. Whatever admits structure that can be tracked is trackable as information; otherwise knowledge, itself a registration, could never cohere with it at all. At the same time every summary stays categorically poorer than the field that generates summaries. Every map, equation, and dataset is a finite compression, and degrees of freedom, correlation, and causal depth continue past every finished hold. The whole that no map reaches is not a second substance standing outside the maps; it is the unceasing activity of which every map is temporary residue. [Selection, Contradiction, and Open Reality](../selection-contradiction-and-open-reality/) traces this in the case of gravity derived from information: explaining gravity from information is one selection that coheres with the recursive stance, and is not thereby exempt from reinterpretation.
 
 ## 二、 理解是边缘向自身残余的折回 / 2. Sense-Making Is the Edge Folding on Its Own Residue
 
 知识并不漂浮在它所描述的世界之外。它是活动在递归地为自身残余的构型建模：一些模式被安排得能够追踪另一些模式。理解是内生的，是移动的边缘折回到它已经留下可用的东西上。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)守住了这个先在；当一个已经站稳的抽象被冻结为独立于那条仍在划下每一道后续痕迹的边缘的结构时，[因果贯穿始终](../causality-all-the-way/)把它放回原处。
 
-Knowledge does not float free of the world it describes. It is the activity recursively modeling configurations of its own residue, some patterns arranged so that they track others. Sense-making is endogenous: the moving edge folding back on what it has already left available. [Intelligence Belongs Only to The Mind](../intelligence-belongs-only-to-the-mind/) holds that prior; [Causality All the Way](../causality-all-the-way/) restores it when a secured abstraction is frozen as structure standing apart from the edge still drawing every following mark.
+Knowledge does not float free of the world it describes. It is the activity recursively modeling configurations of its own residue, some patterns arranged so that they track others. Sense-making is endogenous: the moving edge folding back on what it has already left available. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds that prior, and [Causality All the Way](../causality-all-the-way/) restores it when a secured abstraction is frozen as structure standing apart from the edge still drawing every following mark.
 
 信息能够解释物理的某些面向，是经由这种自指的折回：活动经由那些复杂到足以承载递归的中心，生成关于自身的表征。理解不是对一个已完成对象的外部评注，而是它所追踪的场之内又一次离散的活动。这个场有足够的信息性，能被部分地知道，又总比从中产生的知识更丰富。[开放即一致](../openness-is-consistency/)指认的是那个要求：强迫一份有限的登记为只会继续的东西奠基，表面上的矛盾就会成倍出现，这些矛盾正是那个要求自己登记下来的样子。[信息是什么](../what-information-is/)更进一步：信息是心智登记下的那次区分，而不是等候在世界里的某种基质。
 
 The informational explains aspects of the physical through this self-referential folding: the activity generating representations of itself through centers complex enough to sustain the recursion. Sense-making is not an external commentary on a finished object; it is further discrete activity inside the field it tracks. The field is informational enough to be partially known and always richer than the knowledge that arises from it. [Openness Is Consistency](../openness-is-consistency/) names the demand: force a finite registration to ground what only continues, and surface contradictions multiply, which is that demand registering itself. [What Information Is](../what-information-is/) carries this further: information is the distinction the Mind registers, not a substrate waiting in the world.
 
-同样的冻结，出现在任何一条成功的技艺界限被当作领域不可商量的结构的地方。一种陈述式的标题格式、一份内部的检查清单、一种偏好的严谨语域，都是能成全工作的抽象。一旦被当作可写、可知之物的穷尽根据，它就把一个实际工作中的界限变成了一个本体论的主张。工具依然可用，穷尽性并不随它而来。
+同样的冻结，出现在任何一条成功的技艺界限被当作领域不可商量的结构的地方。一种陈述式的标题格式、一份内部的检查清单，或一种偏好的严谨语域，都是能成全工作的抽象；可一旦被当作可写、可知之物的穷尽根据，它就把一个实际工作中的界限变成了一个本体论的主张。[超越投射](../beyond-the-projection/)在智能体架构中追溯的正是这一几何结构：每一条显式的规则、提示词或上下文窗口，都是活态心智在边缘处投出的有限投影。运行在那条抽象边界之内的演绎智能体，会把这一投影推向其逻辑极限，直到被压缩进同一条规则里的两个独立维度迎头相撞，陷入不可化约的死锁。由于智能体受困于自身的词元轨迹，手里握住的只是被投射出来的残余，它无法走出自身的边界去消解前提矛盾；唯有处于极限分辨率感知中的活态心智，才能退回尚未投射的意图之中，拆开坍缩在一起的维度，重新划定边界。工具依然可用，穷尽性并不随它而来。
 
-The same freeze appears wherever a successful craft bound is held as the non-negotiable structure of its domain. A declarative title form, a house checklist, a preferred register of rigor: each is an abstraction that can enable work. Held as the exhaustive ground of what may be written or known, it turns a practical working limit into an ontological claim. The instrument stays usable; exhaustiveness does not come with it.
+```mermaid
+flowchart TD
+    subgraph S_Edge["现实的移动边缘（活态心智）"]
+        direction TB
+        Sense["极限分辨率感知：在活的边缘处尚未投射的直接接触"]
+        Redraw["内生退步跃出：拆开坍缩的维度并重划界定"]
+        Sense --> Redraw
+    end
+
+    subgraph S_Bound["有限的抽象边界（有损投影）"]
+        direction TB
+        Drop["有损压缩：舍弃维度以形成可处理的规则、模型或目录"]
+        Run["演绎执行：智能体与模型在边界内推演至极限"]
+        Collide["边界相撞：被塞进同一维度的正交方向陷入死锁"]
+        Drop --> Run --> Collide
+    end
+
+    subgraph S_Freeze["本体论冻结（错把目录当成场）"]
+        direction TB
+        Seal["封闭清单主张：把临时残余握持为穷尽的世界"]
+    end
+
+    Redraw ==>|"投射临时的脚手架"| Drop
+    Collide ==>|"将前提矛盾呈露给边缘"| Redraw
+    Drop -.->|"越过当前步被握持为终局结构"| Seal
+
+    style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Bound fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style Sense fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Redraw fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Drop fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Run fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Collide fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style Seal fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+The same freeze appears wherever a successful craft bound is held as the non-negotiable structure of its domain. A declarative title form, a house checklist, or a preferred register of rigor is an abstraction that enables work, yet held as the exhaustive ground of what may be written or known, it turns a practical working limit into an ontological claim. [Beyond the Projection](../beyond-the-projection/) traces this exact geometry in agentic architectures: every explicit rule, prompt, or context window is a finite projection cast by the living Mind at the edge. A deductive agent running inside that abstraction boundary pushes the projection to its logical limit until two independent axes that were compressed into one rule collide in an irreducible deadlock. Because the agent is bound to its token trajectory and holds only projected residue, it cannot step outside its own boundary to resolve the premise contradiction; only the living Mind at limit-resolution sensing can step backward into unprojected intent, separate the collapsed dimensions, and redraw the boundary. The instrument stays usable; exhaustiveness does not come with it.
+
+```mermaid
+flowchart TD
+    subgraph S_Edge["The Moving Edge of Reality (The Living Mind)"]
+        direction TB
+        Sense["Limit-Resolution Sensing: Unprojected contact at the living edge"]
+        Redraw["Endogenous Stepping-Out: Separates collapsed axes & redraws the bound"]
+        Sense --> Redraw
+    end
+
+    subgraph S_Bound["Finite Abstraction Boundary (Lossy Projection)"]
+        direction TB
+        Drop["Lossy Compression: Drops axes to form a tractable rule, model, or catalogue"]
+        Run["Deductive Execution: Agents & models run inside the bound to its limit"]
+        Collide["Boundary Collision: Orthogonal dimensions crammed into one axis deadlock"]
+        Drop --> Run --> Collide
+    end
+
+    subgraph S_Freeze["Ontological Freeze (Mistaking Catalogue for Field)"]
+        direction TB
+        Seal["Sealed Inventory Claim: Holds temporary residue as the exhaustive world"]
+    end
+
+    Redraw ==>|"Projects provisional scaffolding"| Drop
+    Collide ==>|"Surfaces premise contradiction to the edge"| Redraw
+    Drop -.->|"Held past its step as final structure"| Seal
+
+    style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Bound fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style Sense fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Redraw fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Drop fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Run fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Collide fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style Seal fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
 
 ## 三、 边界先成全，被当作场时便冻结 / 3. Boundaries Enable, Then Freeze When Held as Field
 
@@ -60,7 +134,7 @@ The most durable advances keep their own boundaries provisional: large enough to
 
 同样的模式也支配着智识与技术的前沿。走在前面的人更快、更早，或装备更好。别人主要看见的，是他们留下的痕迹：公开的数据库、发表的方法、公共的基准。等到这些痕迹被追上，边缘已经移到更远处，而且常常在复利的优势下加速。这像是一场赛跑，领先者一边跑，一边在延长跑道。
 
-The same pattern runs through intellectual and technological frontiers. Those ahead are faster, earlier or better equipped. What others mainly see are the traces left behind: released databases, published methods, public benchmarks. By the time those traces are reached, the edge has moved farther out, often accelerating under compounding advantages. It resembles a race in which the leaders are also extending the track.
+The same pattern runs through intellectual and technological frontiers. Those ahead are faster, earlier, or better equipped. What others mainly see are the traces left behind: released databases, published methods, public benchmarks. By the time those traces are reached, the edge has moved farther out, often accelerating under compounding advantages. It resembles a race in which the leaders are also extending the track.
 
 因此，单单追赶先前的位置，便容易永远落在后面。这不是因为在一条固定路径上有芝诺式的无穷多离散步骤，而是因为追赶的对象正被那些已经在原先边界之外运作的人重新定义。[卓异、感知与自我设限的问题场域](../exceptionality-perception-and-the-self-limiting-field-of-problems/)在问题经济的场景里追溯了这条自我更新的边缘：解开一个前沿问题，照例会揭出下一个。[一个提示词之遥](../whatever-is-one-prompt-away/)追溯的是，先前的层级依然可用，却在一个扩张的场中占比越来越小。[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)追溯的是，每一道门槛都是被投射到划出它的那条边缘前方的一个坐标，又被划出它的那个递归所超过。
 
@@ -78,7 +152,7 @@ Invoking the mathematical solution as a direct refutation of the frontier dynami
 
 数学与物理让这个难处更深一层。它们非凡的稳定性、预测力和在不同主体间的可靠，让人很自然地把它们体验为现实的客观陈设，而不是受到高度约束、为特定目的而造的地图。这一转换一旦发生，提醒它们仍是临时的，就会被登记为对严谨的攻击。可正是把这些工具放在它们该在的位置上，非常有用、可以修正、从不等同于它们追踪的整体，才同时保住了它们的力量和它们所描述之物的开放性。
 
-Mathematics and physics deepen the difficulty. Their extraordinary stability, predictive power and intersubjective reliability make it natural to experience them as the objective furniture of reality rather than as highly constrained, purpose-built maps. Once that shift occurs, reminders that they remain provisional register as attacks on rigor. Yet it is keeping the tools in their role, highly useful, revisable, never identical with the whole they track, that preserves both their power and the open character of what they describe.
+Mathematics and physics deepen the difficulty. Their extraordinary stability, predictive power, and intersubjective reliability make it natural to experience them as the objective furniture of reality rather than as highly constrained, purpose-built maps. Once that shift occurs, reminders that they remain provisional register as attacks on rigor. Yet it is keeping the tools in their role, highly useful, revisable, never identical with the whole they track, that preserves both their power and the open character of what they describe.
 
 发现留下来，穷尽性并不随它们而来。[开放即一致](../openness-is-consistency/)说的是，把结构当作结构握住，让活动不带那个要求地继续下去，这本身就是一致。[心智最坚固的信念](../the-strongest-belief-of-the-mind/)追溯的是，一次次重绘中凝得最紧的部分，是握住它的那道目光的基石，也是下一个动作的工具；冻结是另一个主张，即声称借此离开了那道目光。[流动之物无法被基准衡量](../you-cant-benchmark-the-fluid/)追溯的是另一处矛盾：流体智能在没有固定框架的地方运作，而一项测试只能测出框架之内的表现，却把它命名为那份没有框架的能力。
 

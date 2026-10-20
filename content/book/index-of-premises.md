@@ -3374,7 +3374,7 @@ Reading the tools, machines and division of labour left by a swarm of agents as 
 
 Teleological planning assumes a pre-existing path waiting to be discovered; the trajectory exists only as the historical line traced by each discrete commitment.
 
-→ [The Path Drawn One Step at a Time](../../posts/the-path-drawn-one-step-at-a-time/)
+→ [一步一步绘制出的路径 / The Path Drawn One Step at a Time](../../posts/the-path-drawn-one-step-at-a-time/)
 
 ### 掌握形式模型扩展能动性 / Mastery of Formal Models Extends Agency
 `数学 / Mathematical`

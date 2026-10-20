@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T13:12:43.913Z",
+    "generated_at": "2026-10-20T13:18:06.696Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -13,7 +13,7 @@
       "content/posts/a-living-external-cortex.md": "8455bda81455",
       "content/posts/a-new-deeper-look-at-antifragility.md": "038c06ecede5",
       "content/posts/abstract-pain-and-living-hunger.md": "2e4f27bcaae8",
-      "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "8943c579dc0d",
+      "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "290f14f205cc",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "c2666cda8483",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "842babd14bbf",
       "content/posts/agency-does-not-arise.md": "be4298154380",
@@ -314,7 +314,7 @@
       "content/posts/the-other-coherence.md": "5975542f4901",
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "ef81ddddf533",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "1fb34e11990f",
-      "content/posts/the-path-drawn-one-step-at-a-time.md": "0d757a4508ca",
+      "content/posts/the-path-drawn-one-step-at-a-time.md": "e6f9de62ab2f",
       "content/posts/the-perceiver-and-the-trace.md": "15c15df70471",
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "d85a0ec01465",
       "content/posts/the-power-law-of-surrendered-agency.md": "390d27c147c5",
@@ -404,10 +404,10 @@
       "content/posts/zi-you-de-ce-bu-zhun.md": "9c0ed3a2d8d9",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "46323a1926a8",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "6b5c78c47928",
-      "content/book/causality.md": "8e1dd347f9fa",
+      "content/book/causality.md": "529bd18279d8",
       "content/book/consciousness.md": "84e10ab5f9aa",
       "content/book/economics.md": "0208ea9246ef",
-      "content/book/index-of-premises.md": "182ccd046b4d",
+      "content/book/index-of-premises.md": "e8458b4f43d3",
       "content/book/intelligence.md": "728830704d58",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 8962,
-      "unique_directed": 4666,
+      "edges": 8990,
+      "unique_directed": 4668,
       "missing_targets": 0,
-      "one_way": 192,
+      "one_way": 194,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -468,12 +468,12 @@
       "in_degree": 43
     },
     {
-      "slug": "the-allocation-of-causal-power-in-validation",
-      "in_degree": 40
+      "slug": "beyond-the-projection",
+      "in_degree": 41
     },
     {
-      "slug": "beyond-the-projection",
-      "in_degree": 39
+      "slug": "the-allocation-of-causal-power-in-validation",
+      "in_degree": 40
     },
     {
       "slug": "causality-stays-at-the-edge-that-steers",
@@ -744,10 +744,10 @@
       "kind": "post",
       "slug": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "path": "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md",
-      "title": "抽象、边界与现实的移动边缘 / Abstraction, Boundaries, and the Moving Edge of Reality",
-      "hash": "8943c579dc0d",
+      "title": "抽象、边界与现实的移动边缘 / Abstraction Boundaries and the Moving Edge of Reality",
+      "hash": "290f14f205cc",
       "in_degree": 24,
-      "out_degree": 24,
+      "out_degree": 25,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "lossless-knowledge-of-an-open-field-is-incoherent",
@@ -756,6 +756,7 @@
         "causality-all-the-way",
         "openness-is-consistency",
         "what-information-is",
+        "beyond-the-projection",
         "closed-reality-in-benchmark-maxing",
         "why-mathematics-can-never-be-solved",
         "no-system-can-be-kept-closed",
@@ -1067,7 +1068,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 39,
+      "in_degree": 41,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -7898,10 +7899,10 @@
       "kind": "post",
       "slug": "the-path-drawn-one-step-at-a-time",
       "path": "content/posts/the-path-drawn-one-step-at-a-time.md",
-      "title": "The Path Drawn One Step at a Time",
-      "hash": "0d757a4508ca",
+      "title": "一步一步绘制出的路径 / The Path Drawn One Step at a Time",
+      "hash": "e6f9de62ab2f",
       "in_degree": 24,
-      "out_degree": 24,
+      "out_degree": 25,
       "links_out": [
         "closed-reality-in-the-pursuit-of-serendipity",
         "production-consumption-and-the-minds-distinction",
@@ -7915,6 +7916,7 @@
         "the-reality-distortion-field-names-the-closed-map",
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
+        "beyond-the-projection",
         "the-non-definitive-definition-of-intelligence",
         "whatever-is-one-prompt-away",
         "pessimism-is-the-shadow-of-optimism",
@@ -10685,7 +10687,7 @@
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence Belongs Only to The Mind"
+      "label": "Intelligence Belongs Only to the Mind"
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
@@ -10716,6 +10718,18 @@
       "to": "what-information-is",
       "rel": "points_to",
       "label": "What Information Is"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "abstraction-boundaries-and-the-moving-edge-of-reality",
@@ -51743,13 +51757,37 @@
       "from": "the-path-drawn-one-step-at-a-time",
       "to": "closed-reality-in-the-pursuit-of-serendipity",
       "rel": "points_to",
+      "label": "追求机缘中的封闭现实"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "生产、消费与心智的区分"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "closed-reality-in-the-pursuit-of-serendipity",
+      "rel": "points_to",
       "label": "Closed Reality in the Pursuit of Serendipity"
     },
     {
       "from": "the-path-drawn-one-step-at-a-time",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, Consumption, and the Mind’s Distinction"
+      "label": "Production, Consumption, and the Mind's Distinction"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "伪装成远见的表演性后见"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "the-paradoxical-nature-of-bystander-insights",
+      "rel": "points_to",
+      "label": "旁观者洞察的悖论"
     },
     {
       "from": "the-path-drawn-one-step-at-a-time",
@@ -51767,7 +51805,25 @@
       "from": "the-path-drawn-one-step-at-a-time",
       "to": "zuo-jian-bu-shi-zi-fu",
       "rel": "points_to",
-      "label": "Spin a Cocoon: Observation vs. Interpretation"
+      "label": "作茧不是自缚"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "the-meaning-of-life-is-in-the-drafting",
+      "rel": "points_to",
+      "label": "生命的意义在起草之中"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "zuo-jian-bu-shi-zi-fu",
+      "rel": "points_to",
+      "label": "Spinning a Cocoon Is Not Binding Oneself"
     },
     {
       "from": "the-path-drawn-one-step-at-a-time",
@@ -51785,6 +51841,18 @@
       "from": "the-path-drawn-one-step-at-a-time",
       "to": "evil-as-the-minds-own-creation",
       "rel": "points_to",
+      "label": "恶是心智自己的造物"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "the-npc-impression-is-structural",
+      "rel": "points_to",
+      "label": "NPC 印象是结构性的"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "evil-as-the-minds-own-creation",
+      "rel": "points_to",
       "label": "Evil as the Mind’s Own Creation"
     },
     {
@@ -51797,7 +51865,31 @@
       "from": "the-path-drawn-one-step-at-a-time",
       "to": "the-reality-distortion-field-names-the-closed-map",
       "rel": "points_to",
+      "label": "现实扭曲力场指认的是封闭的地图"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "the-reality-distortion-field-names-the-closed-map",
+      "rel": "points_to",
       "label": "The Reality Distortion Field Names the Closed Map"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
     },
     {
       "from": "the-path-drawn-one-step-at-a-time",
@@ -51810,6 +51902,24 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "the-non-definitive-definition-of-intelligence",
+      "rel": "points_to",
+      "label": "智能的非定论定义"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "whatever-is-one-prompt-away",
+      "rel": "points_to",
+      "label": "一个提示词之遥"
     },
     {
       "from": "the-path-drawn-one-step-at-a-time",
@@ -51827,49 +51937,109 @@
       "from": "the-path-drawn-one-step-at-a-time",
       "to": "pessimism-is-the-shadow-of-optimism",
       "rel": "points_to",
-      "label": "Pessimism is the shadow of optimism"
+      "label": "悲观是乐观的阴影"
     },
     {
       "from": "the-path-drawn-one-step-at-a-time",
       "to": "qian-yin-hou-guo",
       "rel": "points_to",
-      "label": "Prior Cause, Subsequent Effect"
+      "label": "前因，后果"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism Is the Shadow of Optimism"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "qian-yin-hou-guo",
+      "rel": "points_to",
+      "label": "Cause Before, Effect After"
     },
     {
       "from": "the-path-drawn-one-step-at-a-time",
       "to": "the-strongest-belief-of-the-mind",
       "rel": "points_to",
-      "label": "The strongest belief of the Mind"
+      "label": "心智最坚固的信念"
     },
     {
       "from": "the-path-drawn-one-step-at-a-time",
       "to": "the-climate-problem-registers-only-as-perception",
       "rel": "points_to",
-      "label": "The climate problem registers only as perception"
+      "label": "气候问题只作为感知被登记"
     },
     {
       "from": "the-path-drawn-one-step-at-a-time",
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
-      "label": "The scaffolding that keeps growing"
+      "label": "持续生长的脚手架"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "the-strongest-belief-of-the-mind",
+      "rel": "points_to",
+      "label": "The Strongest Belief of the Mind"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "the-climate-problem-registers-only-as-perception",
+      "rel": "points_to",
+      "label": "The Climate Problem Registers Only as Perception"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The Scaffolding That Keeps Growing"
     },
     {
       "from": "the-path-drawn-one-step-at-a-time",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
-      "label": "The source of shared change"
+      "label": "共同改变的本源"
     },
     {
       "from": "the-path-drawn-one-step-at-a-time",
       "to": "how-belief-actually-changes",
       "rel": "points_to",
-      "label": "How belief actually changes"
+      "label": "信念如何真正改变"
     },
     {
       "from": "the-path-drawn-one-step-at-a-time",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, boundaries, and the moving edge of reality"
+      "label": "抽象、边界与现实的移动边缘"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "因果贯穿始终"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "非万物之理"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "The Source of Shared Change"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How Belief Actually Changes"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "rel": "points_to",
+      "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
     },
     {
       "from": "the-path-drawn-one-step-at-a-time",
@@ -63802,7 +63972,7 @@
         "slug": "causality",
         "path": "content/book/causality.md",
         "title": "因果的内外视界 / Inner and Outer Horizons of Causality",
-        "hash": "8e1dd347f9fa",
+        "hash": "529bd18279d8",
         "out_degree": 33
       },
       {
@@ -63829,7 +63999,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "182ccd046b4d",
+        "hash": "e8458b4f43d3",
         "out_degree": 396
       },
       {
@@ -63958,7 +64128,7 @@
         "from": "book:causality",
         "to": "the-path-drawn-one-step-at-a-time",
         "rel": "collects",
-        "label": "The Path Drawn One Step at a Time"
+        "label": "一步一步绘制出的路径 / The Path Drawn One Step at a Time"
       },
       {
         "from": "book:causality",
@@ -67306,7 +67476,7 @@
         "from": "book:index-of-premises",
         "to": "the-path-drawn-one-step-at-a-time",
         "rel": "collects",
-        "label": "The Path Drawn One Step at a Time"
+        "label": "一步一步绘制出的路径 / The Path Drawn One Step at a Time"
       },
       {
         "from": "book:index-of-premises",

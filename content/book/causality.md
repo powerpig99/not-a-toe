@@ -14,7 +14,7 @@ The essays here dissect reductionist denials of free will, showing how microscop
 
 - [The Risk You Delegate Is the Risk You Create](../../posts/the-risk-you-delegate-is-the-risk-you-create/)
 - [The Limitation Is Doing Work](../../posts/the-limitation-is-doing-work/)
-- [The Path Drawn One Step at a Time](../../posts/the-path-drawn-one-step-at-a-time/)
+- [一步一步绘制出的路径 / The Path Drawn One Step at a Time](../../posts/the-path-drawn-one-step-at-a-time/)
 - [验证中因果权能的分配 / The Allocation of Causal Power in Validation](../../posts/the-allocation-of-causal-power-in-validation/)
 - [因果停留在掌舵的边缘 / Causality Stays at the Edge That Steers](../../posts/causality-stays-at-the-edge-that-steers/)
 - [因果贯穿始终 / Causality All the Way](../../posts/causality-all-the-way/)
