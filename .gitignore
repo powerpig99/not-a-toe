@@ -2,7 +2,7 @@ public/
 __pycache__/
 .DS_Store
 
-# Session resume graphs (bridge / sleep)
+# Session resume graphs (bridge)
 memory/
 
 # Local harness + project knowledge leaf (not published)

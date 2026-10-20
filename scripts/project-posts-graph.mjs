@@ -4,7 +4,7 @@
  *
  * Source of truth for relations: relative markdown links in essay prose
  *   [text](../other-slug/)
- * Graph is disposable — never hand-edit. Regenerate after /sleep or link edits.
+ * Graph is disposable — never hand-edit. Regenerate after link edits.
  *
  * Usage:
  *   node scripts/project-posts-graph.mjs
@@ -402,5 +402,5 @@ if (stdout) {
     fs.writeFileSync(outMmd, toMermaid(graph));
     console.log(`Wrote ${path.relative(root, outMmd)}`);
   }
-  console.log('Projection only — regenerate after /sleep or link edits. Prose links are ground.');
+  console.log('Projection only — regenerate after link edits. Prose links are ground.');
 }
