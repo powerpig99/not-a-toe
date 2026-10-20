@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T12:54:57.365Z",
+    "generated_at": "2026-10-20T12:59:21.821Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -40,7 +40,7 @@
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
       "content/posts/climbing-does-not-leave-the-ground.md": "09aedb8b9cf4",
-      "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "e1426c9fc9cd",
+      "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "8bce8e0d1c10",
       "content/posts/closed-reality-in-benchmark-maxing.md": "d08874947c2e",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "7c59e734d934",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "ef5144285a50",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 8920,
-      "unique_directed": 4660,
+      "edges": 8922,
+      "unique_directed": 4661,
       "missing_targets": 0,
-      "one_way": 186,
+      "one_way": 187,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -488,15 +488,15 @@
       "in_degree": 35
     },
     {
+      "slug": "beyond-the-projection",
+      "in_degree": 34
+    },
+    {
       "slug": "mistaking-the-expression-for-the-intelligence",
       "in_degree": 34
     },
     {
       "slug": "a-creation-cannot-replace-its-source",
-      "in_degree": 33
-    },
-    {
-      "slug": "beyond-the-projection",
       "in_degree": 33
     },
     {
@@ -1067,7 +1067,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 33,
+      "in_degree": 34,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1431,9 +1431,9 @@
       "slug": "closed-assumptions-squeeze-compounding-into-s-curves",
       "path": "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md",
       "title": "封闭的假设把复利挤成 S 曲线 / Closed Assumptions Squeeze Compounding into S-Curves",
-      "hash": "e1426c9fc9cd",
+      "hash": "8bce8e0d1c10",
       "in_degree": 26,
-      "out_degree": 26,
+      "out_degree": 27,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "no-system-can-be-kept-closed",
@@ -1448,6 +1448,7 @@
         "the-price-of-closing-optionality",
         "what-works-is-the-belief",
         "the-utility-men-of-progress",
+        "beyond-the-projection",
         "the-scaffolding-that-keeps-growing",
         "symptom-and-cause-in-the-narratives-of-progress",
         "why-mathematics-can-never-be-solved",
@@ -14991,6 +14992,12 @@
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
       "label": "持续生长的脚手架"
@@ -15012,6 +15019,12 @@
       "to": "curiosity-has-no-final-form",
       "rel": "points_to",
       "label": "好奇没有最终的形态"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",

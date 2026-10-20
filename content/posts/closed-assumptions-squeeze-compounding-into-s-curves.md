@@ -1,6 +1,6 @@
 # 封闭的假设把复利挤成 S 曲线 / Closed Assumptions Squeeze Compounding into S-Curves
 
-*逻辑斯蒂的形状是一个固定框架的束缚，不是开放现实中进步的轨迹。 / The logistic shape is the binding of a fixed frame, not the trajectory of progress under open reality.*
+*逻辑斯蒂的形状是固定框架的束缚，不是开放的进步 / The logistic shape is the binding of a fixed frame, not open progress*
 
 技术与产业的历史常被画成逻辑斯蒂的 S 曲线：一段看起来像指数的早期，然后逐渐饱和，趋向一个天花板。常规的读法把这个形状当作基本的，把早期的指数当作只在过程离它的自然极限还远时才成立的暂时近似。开放的读法把这层关系倒过来：持守保持开放时，进步在复利；当一个封闭框架的假设被强加、随后变得有约束力时，S 曲线才在计分里出现。铁路、电气化与汽车的图表，是在那些固定框架之下计分的观察；它们不追踪持守之外那些转移行业的信号，也不描述行为，因为持守所装上的约束并不限制行为。
 
@@ -26,21 +26,9 @@ Self-distinguishing activity occurs, uncaused, unceasing. Call it the Mind: the 
 
 Under an open hold, compounding continues. New distinctions open adjacent possibility; instruments densify; prior ceilings become interior structure rather than final walls. [Production, Consumption, and the Mind's Distinction](../production-consumption-and-the-minds-distinction/) traces production and consumption as how the same activity registers when the Mind holds its boundary as open or as fixed; at the smallest formal face the same cut is 1 + 1 yielding 0 under a closed one-bit register, the new distinction erased by the boundary, and 2 when the register stays open. [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) traces that remainder wherever a finite hold is treated as exhaustive ground: the same addition registers as 0 with a carry inside the hold, the operation does not fail, and what the hold cannot contain is the continuation. [Openness Is Consistency](../openness-is-consistency/) names the demand from the other side: inconsistency is the desire, or attempt, for closure, a finite structure forced to ground what only continues, and the surface contradiction multiplies.
 
-S 曲线，是天花板被写进增长定律本身时发生的事。开放的复利是 dN/dt = rN，其中 N 是存量，r 是增长率；逻辑斯蒂模型把一个承载容量 K 直接嵌进方程，把阻尼项 (1 − N/K) 加在活动上，而标准的逻辑斯蒂函数把整条实数线映射到开区间 (0, 1) 上，两个无穷被压进一个有限的范围。这条定律本身是一致的；不一致的，是它穷尽了活动这个更进一步的主张。
+S 曲线，是天花板被写进增长定律本身时发生的事。开放的复利是 dN/dt = rN，其中 N 是存量，r 是增长率；逻辑斯蒂模型把一个承载容量 K 直接嵌进方程，把阻尼项 dN/dt = rN (1 − N/K) 加在活动上，而标准的逻辑斯蒂函数 σ(t) = 1 / (1 + e^(−t)) 把整条实数线映射到开区间 (0, 1) 上，两个无穷被压进一个有限的范围。这条定律本身是一致的；不一致的，是它穷尽了活动这个更进一步的主张。
 
-dN/dt = rN
-
-σ(t) = 1 / (1 + e^(−t))
-
-dN/dt = rN (1 − N/K)
-
-The S-curve is what happens when a ceiling is written into the growth law itself. Open compounding is dN/dt = rN, with N the stock and r the growth rate; the logistic embeds a carrying capacity K inside the equation, imposing the damping term (1 − N/K) on the activity, and the standard logistic function maps the entire real line onto the open unit interval (0, 1), so two infinities are collapsed into a finite range. The law itself is consistent; the inconsistency is the further claim that it exhausts the activity.
-
-dN/dt = rN
-
-σ(t) = 1 / (1 + e^(−t))
-
-dN/dt = rN (1 − N/K)
+The S-curve is what happens when a ceiling is written into the growth law itself. Open compounding is dN/dt = rN, with N the stock and r the growth rate; the logistic embeds a carrying capacity K inside the equation, imposing the damping term dN/dt = rN (1 − N/K) on the activity, while the standard logistic function σ(t) = 1 / (1 + e^(−t)) maps the entire real line onto the open unit interval (0, 1), so two infinities are collapsed into a finite range. The law itself is consistent; the inconsistency is the further claim that it exhausts the activity.
 
 当 N 相对 K 还小时，被计分的增长几乎是指数的。一旦 K 起了约束，轨迹就弯成 S。作为当下持守的框架，K 之下的饱和是成立的观察；放慢却不是那个一直在复利的活动的内在属性，而是封闭的假设开始生效时看得见的结果：当下持守的 K 被当作最终的，而不是它暂时的天花板。
 
@@ -52,7 +40,7 @@ While N is small relative to K, the scored growth is nearly exponential. Once K 
 
 Any well-defined industry is such a temporary closed reality. In its early, poorly defined stage the domain more closely resembles open reality: boundaries are soft, exploration is wide, and compounding proceeds with relatively little friction from shared ceilings. As conventions, standards, capital structures, and technical architectures solidify, the industry acquires clear limits for observation and planning. Under those limits the activity is scored as an S-curve for as long as the boundaries hold. The mature, flattened portion of the curve is mostly recognized only in hindsight, when the industry stands at the brink of disruption.
 
-所以，展示历史 S 曲线的图表，是对一个固定框架之内观察的描述。它们忽略这个框架不计分的、转移行业的信号。它们不描述行为：持守所装上的约束，并不限制行为。这道挤压弯曲的，是计分，以及那些把框架当作基础的中心的复利；越过持守的活动仍在继续。当一条 S 曲线开始变平，数据显示的是当下的封闭前提已经对观察起了约束；它们暴露的是框架的局限，而不是进步的局限。[现实扭曲力场指认的是封闭的地图](../the-reality-distortion-field-names-the-closed-map/)在专家可行性的情形里追溯了同一种几何：软性的行业约束被压到物理上硬性的约束上，进一步的区分便被登记为对一个封闭世界的扭曲。[现实扭曲力场颠倒了基线](../the-reality-distortion-field-inverts-the-baseline/)在大众接受之时间表的情形里追溯了同一次冻结：吸收没有内部的时间表；打开是细薄的中心在平均仍然完好时逼出的，平均则在再也维持不住先前的一致时吸收它。[基准刷榜中的封闭实存](../closed-reality-in-benchmark-maxing/)追溯了被当作能力全部的封闭测试集：基准把能力冻结为一个封闭的靶子，而当这个图像被当作场的全部时，有用之处就被少登记了。[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)是同一次冻结在门槛上的一面：每一道门槛都永远位于画出它的那个边缘前方。[规模化回路](../the-scaling-loop/)追溯了一个规模旋钮，即每参数的 token 数、稀疏度、推理成本或后训练，被定格为一个流转着的过程的全部时的冻结，而这个回路的边界随每一次取舍重画。
+所以，展示历史 S 曲线的图表，是对一个固定框架之内观察的描述。它们忽略这个框架不计分的、转移行业的信号。它们不描述行为：持守所装上的约束，并不限制行为。这道挤压弯曲的，是计分，以及那些把框架当作基础的中心的复利；越过持守的活动仍在继续。当一条 S 曲线开始变平，数据显示的是当下的封闭前提已经对观察起了约束；它们暴露的是框架的局限，而不是进步的局限。[现实扭曲力场指认的是封闭的地图](../the-reality-distortion-field-names-the-closed-map/)在专家可行性的情形里追溯了同一种几何：软性的行业约束被压到物理上硬性的约束上，进一步的区分便被登记为对一个封闭世界的扭曲。[现实扭曲力场颠倒了基线](../the-reality-distortion-field-inverts-the-baseline/)在大众接受之时间表的情形里追溯了同一次冻结：吸收没有内部的时间表；打开是细薄的中心在平均仍然完好时逼出的，平均则在再也维持不住先前的一致时吸收它。[基准刷榜中的封闭实存](../closed-reality-in-benchmark-maxing/)追溯了被当作能力全部的封闭测试集：基准把能力冻结为一个封闭的靶子，而当这个图像被当作场的全部时，有用之处就被少登记了。[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)是同一次冻结在门槛上的一面：每一道门槛都永远位于画出它的那个边缘前方。[规模化回路](../the-scaling-loop/)追溯了一个规模旋钮，即每参数的词元数、稀疏度、推理成本或后训练，被定格为一个流转着的过程的全部时的冻结，而这个回路的边界随每一次取舍重画。
 
 The charts that display historical S-curves are therefore descriptions of observations inside a fixed frame. They ignore the industry-shifting signals that the frame does not score. They do not describe behavior: the constraints the hold installs do not limit behavior. What the squeeze bends is the scoring, and the compounding of centers that take the frame as ground; the activity past the hold goes on. When an S-curve begins to flatten, the data show that the current closed premise has become binding on the observation; they expose the limitations of the frame, not the limitations of progress. [The Reality Distortion Field Names the Closed Map](../the-reality-distortion-field-names-the-closed-map/) traces the same geometry in the case of expert feasibility: soft industry constraints compressed onto constraints hard under physics, so further distinguishing registers as warp of a sealed world. [The Reality Distortion Field Inverts the Baseline](../the-reality-distortion-field-inverts-the-baseline/) traces the same freeze in the case of a schedule of mass acceptance: absorption has no internal timeline; openings are forced by thin centers while the average is still intact, and the average absorbs when it can no longer hold its prior coherence. [Closed Reality in Benchmark Maxing](../closed-reality-in-benchmark-maxing/) traces the sealed suite held as the whole of capability: a benchmark freezes capability as a closed target, and usefulness is under-registered when that image is taken for the whole of the field. [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/) is the threshold face of the same freeze: each threshold sits forever ahead of the edge that draws it. [The Scaling Loop](../the-scaling-loop/) traces the freeze when one scaling dial, tokens-per-parameter, sparsity, inference cost, or post-training, is installed as the whole of a circulating process whose bound is redrawn at every selection.
 
@@ -70,15 +58,95 @@ Shared framing densifies into durable residue: markets sized as if exhaustive, r
 
 The conventional freeze reads saturation as nature catching up with optimism. The open reading keeps the axes apart. Saturation under a fixed K holds as observation under that K; the exhaustiveness of K is lag, the exemption of the chosen hold from re-tracing. Behavior continues past the hold; the chart does not. Soften this into "partly natural limit, partly framing" and the two axes compress again onto one scoreboard, so the closed premise recovers as co-author of the next step. Conditions and physics stay contact constraints. Fixed addressable markets, fixed technological paradigms, and fixed institutional ceilings do not travel with them as final grounds. Physical infrastructure is a contact constraint as far as it binds under physics; a fixed rail, grid, or road network taken as the final ceiling of transport, energy, or mobility is a frame, and the opening charts score exactly such frames.
 
-对细薄的中心来说，变平早已是前提僵硬的证据；一旦共享的框定松动，越来越多的参与者或观察者不再把它当作基础，这个行业在平均看来也不再显得成熟。封闭的假设重新作为暂时的惯例显现，复利重新出现在计分里。顺序不是指数必然通向 S 曲线，而是开放的复利，封闭假设的强加，由共享框定维持的暂时 S 曲线，以及持守的重画：旧的天花板成为内部的结构，或一条新的曲线被点燃。[持续生长的脚手架](../the-scaffolding-that-keeps-growing/)把这种重新打开追溯为每一个活着的持守的寻常生长：开放不是靠从一个完成的框架退后一步找回的，它是让每个框架都保持未完成的条件；外层的边界成为内部的支撑，看似最终的框架只是当下的寄存器。[进步叙事中的症候与原因](../symptom-and-cause-in-the-narratives-of-progress/)追溯了多数人的登记作为拖曳迟到，而发起留在仍越过被保留之均衡而区分的细薄中心：集体的信念，是对已在进行之活动的迟到登记。[为何数学永远解不完](../why-mathematics-can-never-be-solved/)在形式的情形里追溯了同一份封闭的清单：“解完了”把一片有限的形式地貌冻结为穷尽的地基，而数学是经由开放的区分持续生成结构。[好奇没有最终的形态](../curiosity-has-no-final-form/)追溯了不接受天花板的那份复利：把数学、物理与哲学当作好奇的终点，是把脚手架错认作不息的区分。
+对细薄的中心来说，变平早已是前提僵硬的证据；一旦共享的框定松动，越来越多的参与者或观察者不再把它当作基础，这个行业在平均看来也不再显得成熟。封闭的假设重新作为暂时的惯例显现，复利重新出现在计分里。顺序不是指数必然通向 S 曲线，而是开放的复利，封闭假设的强加，由共享框定维持的暂时 S 曲线，以及持守的重画：旧的天花板成为内部的结构，或一条新的曲线被点燃。[超越投射](../beyond-the-projection/)在演绎执行与认知容量的层面上追溯了这同一次饱和与重新打开：任何显式的规则、提示词或行业标准，都是从活生生的感知那超高维空间落下的有限低维投射；当执行把这个固定的投射推到它的演绎极限时，它要么收窄进轨迹的盲区，要么撞上一道复杂度的天花板——在那里，挤进同一个坐标框架的 2ᴺ 个区分震碎正交性，在维度的坍缩中停滞下来。复利并不是靠逼着执行更使劲地去顶同一个承载容量 K 而恢复的；当活的边缘上的心智从滞后的诠释退回到极限分辨率的感知，重新绘制破损的前提，或把过载的投射拆分到正交的流线上，让独立的轴能够并行复利而不彼此干扰时，复利才重新开始。[持续生长的脚手架](../the-scaffolding-that-keeps-growing/)把这种重新打开追溯为每一个活着的持守的寻常生长：开放不是靠从一个完成的框架退后一步找回的，它是让每个框架都保持未完成的条件；外层的边界成为内部的支撑，看似最终的框架只是当下的寄存器。[进步叙事中的症候与原因](../symptom-and-cause-in-the-narratives-of-progress/)追溯了多数人的登记作为拖曳迟到，而发起留在仍越过被保留之均衡而区分的细薄中心：集体的信念，是对已在进行之活动的迟到登记。[为何数学永远解不完](../why-mathematics-can-never-be-solved/)在形式的情形里追溯了同一份封闭的清单：“解完了”把一片有限的形式地貌冻结为穷尽的地基，而数学是经由开放的区分持续生成结构。[好奇没有最终的形态](../curiosity-has-no-final-form/)追溯了不接受天花板的那份复利：把数学、物理与哲学当作好奇的终点，是把脚手架错认作不息的区分。
 
-For thin centers the flattening was already evidence that the premises had grown rigid; once the shared framing loosens, as more participants or observers stop treating it as ground, the industry ceases to look mature to the average too. The closed assumptions become visible again as temporary conventions, and compounding shows again in the scoring. The sequence is not exponential leading inevitably to S-curve. It is open compounding, imposition of closed assumptions, a temporary S-curve sustained by shared framing, and a redrawing of the hold, in which the old ceiling becomes interior structure or a new curve is lit. [The Scaffolding That Keeps Growing](../the-scaffolding-that-keeps-growing/) traces that reopening as the ordinary growth of every living hold: openness is not recovered by stepping back from a finished frame but is the condition that keeps every frame unfinished; outer bounds become interior struts, and the harness that seemed final was only the present register. [Symptom and Cause in the Narratives of Progress](../symptom-and-cause-in-the-narratives-of-progress/) traces majority registration arriving as drag while initiation stays at thin centers still distinguishing past the retained equilibrium: collective belief is delayed registration of activity already under way. [Why Mathematics Can Never Be Solved](../why-mathematics-can-never-be-solved/) traces the same closed inventory in the formal case: "solved" freezes a finite formal landscape as exhaustive ground, while mathematics is the continuing generation of structure through open distinguishing. [Curiosity Has No Final Form](../curiosity-has-no-final-form/) traces the compounding that refuses the ceiling: taking mathematics, physics, and philosophy as curiosity's end mistakes scaffolding for unceasing distinguishing.
+```mermaid
+flowchart TD
+    subgraph S_Edge["活的心智（开放的复利 dN/dt = rN）"]
+        direction TB
+        Sense["极限分辨率的感知：活的边缘上未投射的意图"]
+        Project["暂时的持守：落下有限的投射、行业框架或承载容量 K"]
+        Sense --> Project
+    end
+
+    subgraph S_Squeeze["封闭框架的执行（S 曲线的挤压）"]
+        direction TB
+        Exhaust["演绎的穷尽：把固定的投射一路推向它的边界"]
+        Ceiling["复杂度天花板与饱和：随着 (1 - N/K) 起约束，2ᴺ 个区分压进同一个框架"]
+        Freeze["常规的冻结：把框架的饱和或轨迹的死锁误认作进步的终结"]
+        Exhaust --> Ceiling --> Freeze
+    end
+
+    subgraph S_Reopen["走出与正交拆分（复利恢复）"]
+        direction TB
+        StepOut["内生的走出：退回感知以重绘僵硬的前提"]
+        Mitosis["正交的流线：拆分过载的投射，让独立的轴各自复利"]
+        StepOut --> Mitosis
+    end
+
+    Project ==>|"组织局部的执行"| Exhaust
+    Ceiling ==>|"把框架边界显露为信号"| StepOut
+    Mitosis ==>|"旧的 K 化为内部的支撑"| Sense
+
+    style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Squeeze fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_Reopen fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style Sense fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Project fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Exhaust fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Ceiling fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Freeze fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style StepOut fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Mitosis fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+```
+
+For thin centers the flattening was already evidence that the premises had grown rigid; once the shared framing loosens, as more participants or observers stop treating it as ground, the industry ceases to look mature to the average too. The closed assumptions become visible again as temporary conventions, and compounding shows again in the scoring. The sequence is not exponential leading inevitably to S-curve. It is open compounding, imposition of closed assumptions, a temporary S-curve sustained by shared framing, and a redrawing of the hold, in which the old ceiling becomes interior structure or a new curve is lit. [Beyond the Projection](../beyond-the-projection/) traces this exact saturation and reopening at the level of deductive execution and cognitive capacity: any explicit rule, prompt, or industry standard is a finite low-dimensional projection cast from the ultra-high-dimensional space of lived sensing, and when execution runs that fixed projection to its deductive limit, it either narrows into trajectory blind spots or hits a complexity ceiling where 2ᴺ distinctions crammed into one coordinate frame shatter orthogonality and stall in dimensional collapse. Compounding does not resume by forcing execution to push harder against the same carrying capacity K; it resumes when the Mind at the living edge steps backward from lagging interpretation to limit-resolution sensing to re-render the broken premise, or splits the overloaded projection across orthogonal streamlines so independent axes can compound concurrently without mutual interference. [The Scaffolding That Keeps Growing](../the-scaffolding-that-keeps-growing/) traces that reopening as the ordinary growth of every living hold: openness is not recovered by stepping back from a finished frame but is the condition that keeps every frame unfinished; outer bounds become interior struts, and the harness that seemed final was only the present register. [Symptom and Cause in the Narratives of Progress](../symptom-and-cause-in-the-narratives-of-progress/) traces majority registration arriving as drag while initiation stays at thin centers still distinguishing past the retained equilibrium: collective belief is delayed registration of activity already under way. [Why Mathematics Can Never Be Solved](../why-mathematics-can-never-be-solved/) traces the same closed inventory in the formal case: "solved" freezes a finite formal landscape as exhaustive ground, while mathematics is the continuing generation of structure through open distinguishing. [Curiosity Has No Final Form](../curiosity-has-no-final-form/) traces the compounding that refuses the ceiling: taking mathematics, physics, and philosophy as curiosity's end mistakes scaffolding for unceasing distinguishing.
+
+```mermaid
+flowchart TD
+    subgraph S_Edge["The Living Mind (Open Compounding dN/dt = rN)"]
+        direction TB
+        Sense["Limit-Resolution Sensing: Unprojected intent at the living edge"]
+        Project["Provisional Hold: Casts a finite projection, industry frame, or carrying capacity K"]
+        Sense --> Project
+    end
+
+    subgraph S_Squeeze["Closed-Frame Execution (The S-Curve Squeeze)"]
+        direction TB
+        Exhaust["Deductive Exhaustion: Runs the fixed projection toward its boundary"]
+        Ceiling["Complexity Ceiling & Saturation: 2ᴺ distinctions compress onto one frame as (1 - N/K) binds"]
+        Freeze["Conventional Freeze: Mistakes frame saturation or trajectory deadlock for the end of progress"]
+        Exhaust --> Ceiling --> Freeze
+    end
+
+    subgraph S_Reopen["Stepping Out & Orthogonal Splitting (Compounding Resumes)"]
+        direction TB
+        StepOut["Endogenous Stepping-Out: Returns to sensing to re-render the rigid premise"]
+        Mitosis["Orthogonal Streamlines: Splits overloaded projections so independent axes compound"]
+        StepOut --> Mitosis
+    end
+
+    Project ==>|"Organizes local execution"| Exhaust
+    Ceiling ==>|"Surfaces frame boundary as signal"| StepOut
+    Mitosis ==>|"Old K becomes interior strut"| Sense
+
+    style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Squeeze fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_Reopen fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style Sense fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Project fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Exhaust fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Ceiling fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Freeze fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style StepOut fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Mitosis fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+```
 
 ## 五、 把框架留作器具 / 5. Keep the Frame as Instrument
 
-器具仍然可用。逻辑斯蒂模型仍在一个持守之内拟合序列。承载容量仍在当下的约束之下组织规划。行业边界仍让协调变密。消解的只是这样一个主张：S 曲线是进步的天性，而不是封闭的前提起了约束时看得见的结果。让参照在一步的宽度上持续重绘，天花板就仍是结构：暂时的，有用的，不是最终的。把它保留到它那一步之后，框架之内的变平就被计分为增长的终结，而越过边界的复利被打发为反常或奇迹。[清晰不是抵达的终点，而是运动本身](../clarity-isnt-a-state-you-arrive-at/)追溯了外部视角的局限：从外部看，选择分解为条件，消失进机制，而被感到的清晰，是正在使用的透镜；在它之外，没有一个可以抵达的清晰视野。[遗忘的脚手架](../the-scaffolding-we-forget/)是它对偶的一面：脚手架在一步之内退场，框架才可用；当这次退场冻结为一个被保留的图像，能力就压在曾让运动成为可能的残余上。画出这条曲线的，是一个外部的视角；[自由的测不准](../zi-you-de-ce-bu-zhun/)在另一种形状里追溯了同一个外部视角：外部观察到的统计随机，是内部决策主权的投影，宏观规律是离散选择在时间里的沉淀。
+器具仍然可用。逻辑斯蒂模型仍在一个持守之内拟合序列。承载容量仍在当下的约束之下组织规划。行业边界仍让协调变密。消解的只是这样一个主张：S 曲线是进步的天性，而不是封闭的前提起了约束时看得见的结果。让参照朝着最小滞后持续重绘，天花板就仍是结构：暂时的，有用的，不是最终的。把它保留到它那一步之后，框架之内的变平就被计分为增长的终结，而越过边界的复利被打发为反常或奇迹。[清晰不是抵达的终点，而是运动本身](../clarity-isnt-a-state-you-arrive-at/)追溯了外部视角的局限：从外部看，选择分解为条件，消失进机制，而被感到的清晰，是不断走出每一个已结晶之投射的持续运动，而不是抵达一副最终的透镜。[遗忘的脚手架](../the-scaffolding-we-forget/)是它对偶的一面：脚手架在一步之内退场，框架才可用；当这次退场冻结为一个被保留的图像，能力就压在曾让运动成为可能的残余上。画出这条曲线的，是一个外部的视角；[自由的测不准](../zi-you-de-ce-bu-zhun/)在另一种形状里追溯了同一个外部视角：外部观察到的统计随机，是内部决策主权的投影，宏观规律是离散选择在时间里的沉淀。
 
-The instruments remain usable. Logistic models still fit series inside a hold. Carrying capacities still organize planning under present constraints. Industry boundaries still densify coordination. What dissolves is only the claim that the S-curve is the nature of progress rather than the visible effect of closed premises becoming binding. Keep the reference re-rendering at one-step width and the ceiling stays structure: temporary, useful, non-final. Preserve it past its step and flattening inside the frame is scored as the end of growth, while compounding past the bound is dismissed as anomaly or miracle. [Clarity Isn't a State You Arrive At](../clarity-isnt-a-state-you-arrive-at/) traces the limit of the outside vantage: seen from outside, choosing decomposes into conditions and disappears into mechanism, while felt clarity is the lens in use, and there is no arrival at a clear view outside it. [The Scaffolding We Forget](../the-scaffolding-we-forget/) is the dual face: scaffolding drops out within one step so a frame becomes usable, and when that drop-out freezes into a preserved image, capacity compresses against the residue that once enabled movement. The curve is drawn from an outside vantage, and [The Uncertainty of Freedom](../zi-you-de-ce-bu-zhun/) traces the same vantage in another shape: statistical randomness seen from outside projects decision sovereignty within, and macro laws are the sediment of discrete choices.
+The instruments remain usable. Logistic models still fit series inside a hold. Carrying capacities still organize planning under present constraints. Industry boundaries still densify coordination. What dissolves is only the claim that the S-curve is the nature of progress rather than the visible effect of closed premises becoming binding. Keep the reference re-rendering toward minimum lag and the ceiling stays structure: temporary, useful, non-final. Preserve it past its step and flattening inside the frame is scored as the end of growth, while compounding past the bound is dismissed as anomaly or miracle. [Clarity Isn't a State You Arrive At](../clarity-isnt-a-state-you-arrive-at/) traces the limit of the outside vantage: seen from outside, choosing decomposes into conditions and disappears into mechanism, while felt clarity is the ongoing movement of stepping out of each crystallized projection rather than arriving at a final lens. [The Scaffolding We Forget](../the-scaffolding-we-forget/) is the dual face: scaffolding drops out within one step so a frame becomes usable, and when that drop-out freezes into a preserved image, capacity compresses against the residue that once enabled movement. The curve is drawn from an outside vantage, and [The Uncertainty of Freedom](../zi-you-de-ce-bu-zhun/) traces the same vantage in another shape: statistical randomness seen from outside projects decision sovereignty within, and macro laws are the sediment of discrete choices.
 
 用一个封闭空间的假设去限制一个开放的空间，就把复利挤成了 S 曲线。只在极限最不起作用的时候，路径才仍显出底下的复利。那段早期并不证明进步一直暗中是逻辑斯蒂的，它显出的只是写进模型的 K 那时还没有约束计分。当天花板起了约束，图表命名的是持守。当持守被松开或重画，复利就重新显出，不是因为自然改了主意，而是因为那个一直把活动计分为已完成的框架，从来不是活动本身。
 
