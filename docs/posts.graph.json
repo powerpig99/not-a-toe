@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T19:12:16.391Z",
+    "generated_at": "2026-10-20T19:13:47.722Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -399,7 +399,7 @@
       "content/posts/you-tiao-jian-de-zi-you.md": "d7c121819589",
       "content/posts/you-wu-zhi-bian.md": "70bb215a86a7",
       "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "914571f5e4e9",
-      "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "c32021c6e3ac",
+      "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "96b4fe93950b",
       "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "b09f3b56a648",
       "content/posts/zi-you-de-ce-bu-zhun.md": "9c0ed3a2d8d9",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "46323a1926a8",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9511,
-      "unique_directed": 4781,
+      "edges": 9513,
+      "unique_directed": 4782,
       "missing_targets": 0,
-      "one_way": 303,
+      "one_way": 304,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 148
+      "in_degree": 149
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1073,7 +1073,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 148,
+      "in_degree": 149,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -10015,9 +10015,9 @@
       "slug": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
       "path": "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md",
       "title": "“知道自己不知道”是一种修辞假象 / Knowing That You Don't Know Is a Rhetorical Illusion",
-      "hash": "c32021c6e3ac",
+      "hash": "96b4fe93950b",
       "in_degree": 8,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "xian-shi-de-bian-jie",
@@ -10026,6 +10026,7 @@
         "the-scaffolding-that-keeps-growing",
         "curiosity-has-no-final-form",
         "intelligence-belongs-only-to-the-mind",
+        "beyond-the-projection",
         "token-efficiency-emulation-and-the-unclosable-gap"
       ]
     },
@@ -66496,9 +66497,21 @@
     },
     {
       "from": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
       "to": "token-efficiency-emulation-and-the-unclosable-gap",
       "rel": "points_to",
-      "label": "Token 效率、模拟与无法弥合的间隙"
+      "label": "词元效率、仿真与不可闭合的缝隙"
     },
     {
       "from": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
