@@ -1,6 +1,6 @@
 # 善恶是硬币的两面与那一刀 / Good and Evil Are the Two Sides of the Coin and the Cut
 
-*善与恶的两面，是让道德极性成为可得的那一刀的残余。 / The faces of good and evil are the residue of the cut that makes moral polarity available.*
+*善与恶是画出道德之轴的那一刀所留下的两面。 / Good and evil are the two faces left by the cut that draws a moral axis.*
 
 善与恶显现为在争斗中相持的两股对立力量；硬币命名的是它们的相互依存，每一面都需要另一面。先于任何一面的是那一刀，即一个离散动作：一个中心凭此画出一条道德的轴，由此让极性成为可得，而这个动作并不是对某个已经在场之物的观察。当那一刀被忘记，中心那幅自己为善的偏好图像被豁免于重新追溯、并被抬到其他中心之上，两极便被登记为发现，一个受保护的善的自我与一个必需的恶的他者；从这次冻结里，接连生出英雄的故事、对评判的许可，以及在后来叙事之下两面的轮换。描述在每一刀之后晚一步到来，不论那一刀是否被冻结，而这份滞后是言说运作的方式，不是冻结所产生的东西。
 
@@ -22,9 +22,9 @@ The cut is not an observation of good and evil already waiting in the world. It 
 
 ## 二、 善的自我许可了故事 / 2. The Good-Self Licenses the Story
 
-从冻结下来的划分里，熟悉的戏剧展开了。我们成为自己讲给自己听的故事，而在这些故事里，第一人称的位置被派作英雄，因为没有哪个中心从内部把自己当下的选择体验为恶；即便是为了一个遥远的地平线而拥抱的破坏，从内部看也仍是正当的。对自己之善的确信许可了评判：被定为必需之恶的他者，可以用故事所称的任何相称手段去对抗。对其他中心的伤害，在故事之内被登记为令人遗憾的必要，而这个辩护在内部是一致的。[外化善意走向其反面](../externalized-virtue-becomes-its-opposite/)追溯的是那份评判离开私人之场的那一步：一旦被当作对别人有权威，对自己道德可靠的确信与对异议者有所欠缺的确信便一同出现，成为一个依据，代表更大之善的主张，需要一个相对欠缺的陪衬。自由的顺从让持有者成为一个容器；善一旦冻结为不言自明，依据便已过期，权力却还在，而从被压过者那一面看，以善之名执行的东西，正是它声称要防止的那种侵犯。后来把英雄重新归类为恶人，让那笔交易仍未被审视，因为一个英雄堕落的故事，比审视自己的委托更干净，而下一个容器也就仍然可得。
+从冻结下来的划分里，熟悉的戏剧展开了。一个中心成为它讲给自己听的故事，而在这个故事里，第一人称的位置被派作英雄，因为没有哪个中心从内部把自己当下的选择体验为恶；即便是为了一个遥远的地平线而拥抱的破坏，从内部看也仍是正当的。对自己之善的确信许可了评判：被定为必需之恶的他者，可以用故事所称的任何相称手段去对抗。对其他中心的伤害，在故事之内被登记为令人遗憾的必要，而这个辩护在内部是一致的。[外化善意走向其反面](../externalized-virtue-becomes-its-opposite/)追溯的是那份评判离开私人之场的那一步：一旦被当作对别人有权威，对自己道德可靠的确信与对异议者有所欠缺的确信便一同出现，成为一个依据，代表更大之善的主张，需要一个相对欠缺的陪衬。自由的顺从让持有者成为一个容器；善一旦冻结为不言自明，依据便已过期，权力却还在，而从被压过者那一面看，以善之名执行的东西，正是它声称要防止的那种侵犯。后来把英雄重新归类为恶人，让那笔交易仍未被审视，因为一个英雄堕落的故事，比审视自己的委托更干净，而下一个容器也就仍然可得。
 
-From the frozen partition the familiar drama unfolds. We become the stories we tell ourselves, and in those stories the first-person position is cast as the hero, since no center experiences its own immediate choice as evil from within; even destruction embraced for a distant horizon stays justified from within. Certainty in one's own goodness licenses judgment: the other, fixed as necessary evil, can be opposed by whatever means the story calls proportionate. Harm to other centers registers inside the story as a regrettable necessity, and the justification is internally consistent. [Externalized Virtue Becomes Its Opposite](../externalized-virtue-becomes-its-opposite/) traces the step at which that judgment leaves the private field: treated as authoritative for others, the certainty of one's own moral reliability and the certainty of dissenters' deficiency appear together as one warrant, the claim to stand for the greater good needing a foil of relative deficiency. Free compliance makes the holder a vessel; once the good freezes as self-evident, the warrant has expired while the power remains, and from the face of those overridden, what is enforced in the name of the good is the very violation it claimed to prevent. The later reclassification of heroes as villains leaves that transaction unexamined, since the story of a corrupted hero is cleaner than examining one's own delegation, and the next vessel stays available.
+From the frozen partition the familiar drama unfolds. A center becomes the story it tells itself, and in that story the first-person position is cast as the hero, since no center experiences its own immediate choice as evil from within; even destruction embraced for a distant horizon stays justified from within. Certainty in one's own goodness licenses judgment: the other, fixed as necessary evil, can be opposed by whatever means the story calls proportionate. Harm to other centers registers inside the story as a regrettable necessity, and the justification is internally consistent. [Externalized Virtue Becomes Its Opposite](../externalized-virtue-becomes-its-opposite/) traces the step at which that judgment leaves the private field: treated as authoritative for others, the certainty of one's own moral reliability and the certainty of dissenters' deficiency appear together as one warrant, the claim to stand for the greater good needing a foil of relative deficiency. Free compliance makes the holder a vessel; once the good freezes as self-evident, the warrant has expired while the power remains, and from the face of those overridden, what is enforced in the name of the good is the very violation it claimed to prevent. The later reclassification of heroes as villains leaves that transaction unexamined, since the story of a corrupted hero is cleaner than examining one's own delegation, and the next vessel stays available.
 
 [安装战争的那个问题](../the-question-that-installs-the-war/)把这篇文章里的英雄与恶人，读作二元装扮之下的同一次制造，并把它自己的安装陈述为一个公共的言语动作：一叠只有差异的身份，加上给敌意计分的要求，预设了毫无共同地基，这是一个比字面上的战争更严格的前提，因为即便是字面上的战争也还留着某个共有的坐标；前提一旦被接受，在它之下的任何交换都是战争本身。放在它旁边，善对恶的记分牌还留着一条共有的道德之轴，那个问题一条也不留。[偏好聚类与评判语言](../preference-clusters-and-the-language-of-judgment/)给这些词定位：从一个共鸣的聚类内部看，不对齐已经被登记在一块对与错的记分牌上，那是另一个所在不重新追溯同一片场域时，对齐的偏好所发出的声音，而这份显现作为登记成立；“此刻这对我是对的”仍可以当作一步宽的罗盘来用，一旦被持为要求其他中心必须重新追溯同一份对齐的凭据，便不再能当罗盘用。[道德语言稀释自由复利的反馈](../moral-language-dilutes-the-feedback-that-scales-freedom/)发现评价覆层已经在个人的回路之内：善与恶、对与错、美德与恶习，隔在行动者与后果之间，让接纳变得片面，削弱了生成自由的回路，而即便是“此刻这对我是对的”，若被当作一道常设的屏风，而不是在那一步重新画出，也会让所有权无法闭合；抓住硬币的一面，就足以把背面的代价藏起来。
 
@@ -56,9 +56,87 @@ Conflict stays conflict. Acts of other centers stay at their generating centers.
 
 Language arrives after the fact. Every attempt to describe the cut, including the present one, can only register the trace left by the act. The act itself cannot be spoken while it is occurring; speech requires the cut to have already been made so that subject and object, speaker and spoken-of, can appear. Phenomenological and metaphysical vocabularies are later products of that same movement. They map the field the cut has opened; they do not reach the act that opens it.
 
-观察握住的是效果；产生它的原因始终在前面一步。“形而上学之‘元’”，就是对这份滞后的注意：每一个道德主张，每一个关于英雄与恶人的叙事，每一次对独立自存之区分的援引，都预设了一个已经从视野里退出的、在先的区分动作。这份滞后并不让朝向作废；冻结，是朝向忘记了这份滞后，把打开的场当作了地基。[开放即一致](../openness-is-consistency/)命名了那次闭合：不一致是对闭合的渴望或尝试，是让一个有限的结构去为只会延续的东西奠基，而被持为地基的二元账本，就是装扮起来的那次冻结，是那一刀退出之后、想从外部俯瞰善与恶的言说；作为账本被持守，作为在那一步画出的一个朝向，它保持一致。[最初的区分](../the-initial-distinction/)在理性的起点处找到同一份滞后：每一个理性起点的主张，都始于没有根据的一刀，后来的严谨既无法为它辩护，也无法消除它；在它的情形里，即便文本明确记下“我相信”，它所打开的场域事后仍被读作一个客观、理性的起点，仿佛那一刀从未发生。
+观察握住的是效果；产生它的原因始终在前面一步。“形而上学之‘元’”，就是对这份滞后的注意：每一个道德主张，每一个关于英雄与恶人的叙事，每一次对独立自存之区分的援引，都预设了一个已经从视野里退出的、在先的区分动作。这份滞后并不让朝向作废；冻结，是朝向忘记了这份滞后，把打开的场当作了地基。[超越投射](../beyond-the-projection/)追溯了一个人类中心的推演历史如何与身份焊死，围绕一幅保留下来的自我图像把递归折叠死死钳合，把下游投射切口的两侧误认作独立的本体实体，并将外部的证伪当作生存威胁；而退回到未经投射的活生生的边缘，则消解那根坍缩之轴。[开放即一致](../openness-is-consistency/)直接命名了那次闭合：不一致是对闭合的渴望或尝试，是让一个有限的结构去为只会延续的东西奠基，而被持为地基的二元账本，就是装扮起来的那次冻结，是那一刀退出之后、想从外部俯瞰善与恶的言说；作为账本被持守，作为在那一步画出的一个朝向并对重新渲染保持开放，它便保持一致。[最初的区分](../the-initial-distinction/)在理性的起点处找到同一份滞后：每一个理性起点的主张，都始于没有根据的一刀，后来的严谨既无法为它辩护，也无法消除它；在它的情形里，即便文本记下“我相信”，它所打开的场域事后仍被读作一个客观、理性的起点，仿佛那一刀从未发生。
 
-Observation holds effect; the cause that produced it remains one step ahead. The “meta of the metaphysical” is the noticing of this lag: every moral claim, every narrative of heroes and villains, and every appeal to free-standing distinctions presupposes a prior act of distinction that has already withdrawn from view. The lag does not void the heading; the freeze is the heading forgetting the lag, taking the opened field for ground. [Openness Is Consistency](../openness-is-consistency/) names that closure: inconsistency is the desire, or attempt, for closure, a finite structure forced to ground what only continues, and the dualistic ledger held as ground is that freeze in costume, speech that would survey good and evil from outside after the cut has withdrawn; held as a ledger, a heading drawn at the step, it stays consistent. [The Initial Distinction](../the-initial-distinction/) finds the same lag at the start of reason: every claim to a rational starting point begins with an ungrounded cut, which later rigor can neither justify nor eliminate, and in its case, even though the text records “I believe”, the field it opened is read afterward as an objective, rational starting point, as if the cut had never happened.
+```mermaid
+flowchart TD
+    subgraph S_Cut["活生生的那一刀（在痕迹前一步）"]
+        direction TB
+        C_Act["自我区分的活动：无因的边缘画出一条暂定的道德之轴"]
+        C_Two["同一枚硬币的两面：善与恶作为那一刀的残余一同生成"]
+        C_Act --> C_Two
+    end
+
+    subgraph S_Freeze["实体化的善恶二元（下游投射被冻结为地基）"]
+        direction TB
+        F_Ex["身份绑定的豁免：自己为善的偏好图像被豁免于重新追溯"]
+        F_Sub["本体实体的幻象：切口的两侧被误认作在先相争的力量"]
+        F_Rot["英雄与恶人的许可及轮换：被压过的中心将英雄的动作登记为恶"]
+        F_Ex --> F_Sub --> F_Rot
+    end
+
+    subgraph S_Open["开放即一致（在那一步将切口保持开放）"]
+        direction TB
+        O_Rel["放下为善的主张：认领返回的摩擦以重新渲染参照"]
+        O_Head["暂定的一步宽朝向：差异在切口之内成立而不闭合场域"]
+        O_Rel --> O_Head
+    end
+
+    C_Two ==>|"遗忘切口，投射折叠被钳合"| F_Ex
+    F_Rot ==>|"退回投射之外的边缘"| O_Rel
+
+    style S_Cut fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style C_Act fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style C_Two fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style F_Ex fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style F_Sub fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style F_Rot fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style O_Rel fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style O_Head fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+Observation holds effect; the cause that produced it remains one step ahead. The “meta of the metaphysical” is the noticing of this lag: every moral claim, every narrative of heroes and villains, and every appeal to free-standing distinctions presupposes a prior act of distinction that has already withdrawn from view. The lag does not void the heading; the freeze is the heading forgetting the lag, taking the opened field for ground. [Beyond the Projection](../beyond-the-projection/) traces how a human center's reasoning history fuses with identity to clamp the recursive fold shut around a retained self-image, mistaking the two sides of a downstream projection cut for independent ontological substances and treating outside invalidation as an existential threat, whereas stepping back to the unprojected living edge dissolves the collapsed axis. [Openness Is Consistency](../openness-is-consistency/) names that closure directly: inconsistency is the desire, or attempt, for closure, a finite structure forced to ground what only continues, and the dualistic ledger held as ground is that freeze in costume, speech that would survey good and evil from outside after the cut has withdrawn; held as a ledger, a heading drawn at the step and kept open to re-rendering, it stays consistent. [The Initial Distinction](../the-initial-distinction/) finds the same lag at the start of reason: every claim to a rational starting point begins with an ungrounded cut, which later rigor can neither justify nor eliminate, and in its case, even though the text records “I believe”, the field it opened is read afterward as an objective, rational starting point, as if the cut had never happened.
+
+```mermaid
+flowchart TD
+    subgraph S_Cut["The Living Cut (One Step Ahead of Trace)"]
+        direction TB
+        C_Act["Self-Distinguishing Activity: Uncaused edge drawing a provisional moral axis"]
+        C_Two["Two Faces of One Coin: Good and evil generated together as residue of the cut"]
+        C_Act --> C_Two
+    end
+
+    subgraph S_Freeze["Reified Moral Dualism (Downstream Projection Frozen as Ground)"]
+        direction TB
+        F_Ex["Identity-Bound Exemption: Preferred good-self image exempted from re-tracing"]
+        F_Sub["Ontological Substance Illusion: Two sides of the cut mistaken for prior contending forces"]
+        F_Rot["Hero-Villain License & Rotation: Overridden centers register the hero's act as evil"]
+        F_Ex --> F_Sub --> F_Rot
+    end
+
+    subgraph S_Open["Openness as Consistency (The Cut Held Open at the Step)"]
+        direction TB
+        O_Rel["Release of the Good-Self Claim: Returning friction claimed to re-render the reference"]
+        O_Head["Provisional One-Step Heading: Differences hold within the cut without closing the field"]
+        O_Rel --> O_Head
+    end
+
+    C_Two ==>|"Cut forgotten; projection clamped shut"| F_Ex
+    F_Rot ==>|"Stepping back beyond the projection"| O_Rel
+
+    style S_Cut fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style C_Act fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style C_Two fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style F_Ex fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style F_Sub fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style F_Rot fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style O_Rel fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style O_Head fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
 
 ## 六、 硬币标记的是那一刀之后的东西 / 6. The Coin Marks What Follows the Cut
 
