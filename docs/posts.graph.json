@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T14:45:05.961Z",
+    "generated_at": "2026-10-20T14:46:26.968Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -73,7 +73,7 @@
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "42e3f43c2c2d",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "acd5f06bc9da",
-      "content/posts/evil-as-the-minds-own-creation.md": "a9c673ba9b78",
+      "content/posts/evil-as-the-minds-own-creation.md": "d2930c115810",
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "0e71949f226c",
       "content/posts/expertise-as-reference-not-replacement.md": "8e148681a086",
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
@@ -407,14 +407,14 @@
       "content/book/causality.md": "529bd18279d8",
       "content/book/consciousness.md": "84e10ab5f9aa",
       "content/book/economics.md": "0208ea9246ef",
-      "content/book/index-of-premises.md": "1e6c6ed457b8",
+      "content/book/index-of-premises.md": "d36df57c68b9",
       "content/book/intelligence.md": "02d9fc8131b1",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "0ae44b3e7554",
       "content/book/meaning-and-transcendence.md": "ce5168a72c34",
       "content/book/method.md": "4169cbe1157f",
-      "content/book/morality.md": "0024610ecad0",
+      "content/book/morality.md": "166522199e9e",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "0520232eef96",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9155,
-      "unique_directed": 4695,
+      "edges": 9176,
+      "unique_directed": 4696,
       "missing_targets": 0,
-      "one_way": 217,
+      "one_way": 218,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -449,7 +449,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 65
+      "in_degree": 66
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -1068,7 +1068,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 65,
+      "in_degree": 66,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -2192,10 +2192,10 @@
       "kind": "post",
       "slug": "evil-as-the-minds-own-creation",
       "path": "content/posts/evil-as-the-minds-own-creation.md",
-      "title": "Evil as the Mind’s Own Creation",
-      "hash": "a9c673ba9b78",
+      "title": "恶是心智自己的造物 / Evil as the Mind's Own Creation",
+      "hash": "d2930c115810",
       "in_degree": 19,
-      "out_degree": 19,
+      "out_degree": 20,
       "links_out": [
         "self-image-speaks-as-if-from-nowhere",
         "the-path-drawn-one-step-at-a-time",
@@ -2207,9 +2207,10 @@
         "the-question-that-installs-the-war",
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
         "mei-you-pu-du-zhi-you-zi-du",
+        "beyond-the-projection",
+        "clarity-isnt-a-state-you-arrive-at",
         "openness-is-consistency",
         "ownership-and-self-worthiness",
-        "clarity-isnt-a-state-you-arrive-at",
         "how-belief-actually-changes",
         "the-climate-problem-registers-only-as-perception",
         "preference-clusters-and-the-language-of-judgment",
@@ -19078,37 +19079,79 @@
       "from": "evil-as-the-minds-own-creation",
       "to": "self-image-speaks-as-if-from-nowhere",
       "rel": "points_to",
-      "label": "Self-image speaks as if from nowhere"
+      "label": "自我形象仿佛从无处发声"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-Image Speaks as if from Nowhere"
     },
     {
       "from": "evil-as-the-minds-own-creation",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
-      "label": "The path drawn one step at a time"
+      "label": "一步一步绘制出的路径"
     },
     {
       "from": "evil-as-the-minds-own-creation",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
-      "label": "Hierarchy from individual difference"
+      "label": "来自个体差异的层级"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "The Path Drawn One Step at a Time"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from Individual Difference"
     },
     {
       "from": "evil-as-the-minds-own-creation",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
-      "label": "Externalized virtue becomes its opposite"
+      "label": "外化善意走向其反面"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized Virtue Becomes Its Opposite"
     },
     {
       "from": "evil-as-the-minds-own-creation",
       "to": "evil-as-projected-resistance",
       "rel": "points_to",
-      "label": "Evil as projected resistance"
+      "label": "恶是投射出的抗拒"
     },
     {
       "from": "evil-as-the-minds-own-creation",
       "to": "pessimism-is-the-shadow-of-optimism",
       "rel": "points_to",
-      "label": "Pessimism is the shadow of optimism"
+      "label": "悲观是乐观的阴影"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "超越的定相"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
+      "to": "evil-as-projected-resistance",
+      "rel": "points_to",
+      "label": "Evil as Projected Resistance"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism Is the Shadow of Optimism"
     },
     {
       "from": "evil-as-the-minds-own-creation",
@@ -19120,13 +19163,31 @@
       "from": "evil-as-the-minds-own-creation",
       "to": "the-question-that-installs-the-war",
       "rel": "points_to",
-      "label": "The question that installs the war"
+      "label": "安装战争的那个问题"
     },
     {
       "from": "evil-as-the-minds-own-creation",
       "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "rel": "points_to",
-      "label": "Good and evil are the two sides of the coin and the cut"
+      "label": "善恶是硬币的两面与那一刀"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
+      "to": "the-question-that-installs-the-war",
+      "rel": "points_to",
+      "label": "The Question That Installs the War"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
+      "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "rel": "points_to",
+      "label": "Good and Evil Are the Two Sides of the Coin and the Cut"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "没有普渡，只有自渡的无限可能"
     },
     {
       "from": "evil-as-the-minds-own-creation",
@@ -19136,51 +19197,117 @@
     },
     {
       "from": "evil-as-the-minds-own-creation",
-      "to": "openness-is-consistency",
+      "to": "beyond-the-projection",
       "rel": "points_to",
-      "label": "Openness is consistency"
-    },
-    {
-      "from": "evil-as-the-minds-own-creation",
-      "to": "ownership-and-self-worthiness",
-      "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "超越投射"
     },
     {
       "from": "evil-as-the-minds-own-creation",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
-      "label": "Clarity isn’t a state you arrive at"
+      "label": "清晰不是抵达的终点，而是运动本身"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn't a State You Arrive At"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "evil-as-the-minds-own-creation",
       "to": "how-belief-actually-changes",
       "rel": "points_to",
-      "label": "How belief actually changes"
+      "label": "信念如何真正改变"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How Belief Actually Changes"
     },
     {
       "from": "evil-as-the-minds-own-creation",
       "to": "the-climate-problem-registers-only-as-perception",
       "rel": "points_to",
-      "label": "The climate problem registers only as perception"
+      "label": "气候问题只作为感知被登记"
     },
     {
       "from": "evil-as-the-minds-own-creation",
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
-      "label": "Preference clusters and the language of judgment"
+      "label": "偏好聚类与评判语言"
     },
     {
       "from": "evil-as-the-minds-own-creation",
       "to": "the-belief-in-utopia-is-the-path-to-dystopia",
       "rel": "points_to",
-      "label": "The belief in utopia is the path to dystopia"
+      "label": "对乌托邦的信念是通往反乌托邦之路"
     },
     {
       "from": "evil-as-the-minds-own-creation",
       "to": "the-source-of-all-harm",
       "rel": "points_to",
-      "label": "The source of all harm"
+      "label": "一切伤害的根源"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
+      "to": "e-shi-feng-bi-de-shan",
+      "rel": "points_to",
+      "label": "恶是封闭的善"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
+      "to": "the-climate-problem-registers-only-as-perception",
+      "rel": "points_to",
+      "label": "The Climate Problem Registers Only as Perception"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "Preference Clusters and the Language of Judgment"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
+      "to": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "rel": "points_to",
+      "label": "The Belief in Utopia Is the Path to Dystopia"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
+      "to": "the-source-of-all-harm",
+      "rel": "points_to",
+      "label": "The Source of All Harm"
     },
     {
       "from": "evil-as-the-minds-own-creation",
@@ -65016,7 +65143,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "1e6c6ed457b8",
+        "hash": "d36df57c68b9",
         "out_degree": 396
       },
       {
@@ -65079,7 +65206,7 @@
         "slug": "morality",
         "path": "content/book/morality.md",
         "title": "善恶界限与共情陷阱 / Moral Boundaries and the Empathy Trap",
-        "hash": "0024610ecad0",
+        "hash": "166522199e9e",
         "out_degree": 28
       },
       {
@@ -67899,7 +68026,7 @@
         "from": "book:index-of-premises",
         "to": "evil-as-the-minds-own-creation",
         "rel": "collects",
-        "label": "Evil as the Mind’s Own Creation"
+        "label": "恶是心智自己的造物 / Evil as the Mind's Own Creation"
       },
       {
         "from": "book:index-of-premises",
@@ -70869,7 +70996,7 @@
         "from": "book:morality",
         "to": "evil-as-the-minds-own-creation",
         "rel": "collects",
-        "label": "Evil as the Mind’s Own Creation"
+        "label": "恶是心智自己的造物 / Evil as the Mind's Own Creation"
       },
       {
         "from": "book:morality",

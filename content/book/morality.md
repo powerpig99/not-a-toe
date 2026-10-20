@@ -19,7 +19,7 @@ These essays dissect victimhood scripts, suicidal empathy inversions, and the ab
 - [Evil as Projected Resistance](../../posts/evil-as-projected-resistance/)
 - [The Frame That Conceals Improvement](../../posts/the-frame-that-conceals-improvement/)
 - [Emotional Support as Causal Interference](../../posts/emotional-support-as-causal-interference/)
-- [Evil as the Mind’s Own Creation](../../posts/evil-as-the-minds-own-creation/)
+- [恶是心智自己的造物 / Evil as the Mind's Own Creation](../../posts/evil-as-the-minds-own-creation/)
 - [When Need Stops Being the Measure](../../posts/when-need-stops-being-the-measure/)
 - [同情是缺乏清晰时的占位符 / Sympathy Is a Placeholder for Lack of Clarity](../../posts/sympathy-is-a-placeholder-for-lack-of-clarity/)
 - [偏好聚类与评判语言 / Preference Clusters and the Language of Judgment](../../posts/preference-clusters-and-the-language-of-judgment/)

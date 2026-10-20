@@ -2564,7 +2564,7 @@ Presumes distance is an observer-independent metric interval; effective for geom
 
 Theological dogmas project evil as an invasive demonic entity; malice originates when a center stubbornly defends a rigid self-image against external correction.
 
-→ [Evil as the Mind’s Own Creation](../../posts/evil-as-the-minds-own-creation/)
+→ [恶是心智自己的造物 / Evil as the Mind's Own Creation](../../posts/evil-as-the-minds-own-creation/)
 
 ### 共情作为道德灵丹 / Empathy as Moral Panacea
 `哲学 / Philosophical`
