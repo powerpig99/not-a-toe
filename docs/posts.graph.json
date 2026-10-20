@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T15:03:39.986Z",
+    "generated_at": "2026-10-20T15:07:28.877Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -362,7 +362,7 @@
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "96d67d29d78d",
       "content/posts/the-unobservable-driver-of-learning.md": "f4fc84bcab69",
       "content/posts/the-utility-men-of-progress.md": "d48b5bc61d54",
-      "content/posts/the-vector-and-the-puzzle-of-projections.md": "686bcbb6a5f7",
+      "content/posts/the-vector-and-the-puzzle-of-projections.md": "ea895e5b3c28",
       "content/posts/the-velocity-of-visibility.md": "7a988e6f7355",
       "content/posts/the-walking-tangent-and-the-stumbling-sphere.md": "2e2205554d0d",
       "content/posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy.md": "0b676c49e3f4",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9194,
-      "unique_directed": 4702,
+      "edges": 9196,
+      "unique_directed": 4703,
       "missing_targets": 0,
-      "one_way": 224,
+      "one_way": 225,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -445,7 +445,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 72
+      "in_degree": 73
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -1068,7 +1068,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 72,
+      "in_degree": 73,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -9119,9 +9119,9 @@
       "slug": "the-vector-and-the-puzzle-of-projections",
       "path": "content/posts/the-vector-and-the-puzzle-of-projections.md",
       "title": "向量与投影的迷局 / The Vector and the Puzzle of Projections",
-      "hash": "686bcbb6a5f7",
+      "hash": "ea895e5b3c28",
       "in_degree": 19,
-      "out_degree": 18,
+      "out_degree": 19,
       "links_out": [
         "dimensions-are-projections",
         "the-boundary-of-the-frame",
@@ -9134,6 +9134,7 @@
         "the-generative-mechanics-of-value-money-and-wealth",
         "time-is-causality-not-a-dimension",
         "the-mind-as-vector-and-coordinate-system",
+        "beyond-the-projection",
         "the-bank-shot-and-the-magic-trick",
         "the-only-coherent-uncaused-effect",
         "individual-choices-as-the-only-causal-levers",
@@ -59855,7 +59856,7 @@
       "from": "the-vector-and-the-puzzle-of-projections",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "No Universal Salvation, Only Self-Deliverance"
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
     },
     {
       "from": "the-vector-and-the-puzzle-of-projections",
@@ -59937,9 +59938,21 @@
     },
     {
       "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
       "to": "the-mind-as-vector-and-coordinate-system",
       "rel": "points_to",
       "label": "The Mind as Vector and Coordinate System"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-vector-and-the-puzzle-of-projections",
