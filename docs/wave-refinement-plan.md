@@ -54,7 +54,7 @@ The architecture separates **in-flight plain-Markdown workspaces (`work/`, exclu
 | Path | Owner / Writer | Purpose |
 | :--- | :--- | :--- |
 | `work/drafter/<slug>/<slug>.md` | `Drafter` | Pure primary-language (EN, or ZH for Chinese-originals) Markdown draft/refinement, including Mermaid diagrams and relative `[title](../other-slug/)` links. |
-| `work/drafter/<slug>/notes.md` | `Drafter` | Context trace: probing answers (for `N`), linked posts read, Index of Premises entries checked, and refinement rationale. |
+| `work/drafter/<slug>/notes.md` | `Drafter` | Context trace: waking materials (spark, source, AI/X thread, initial draft), linked posts read, Index of Premises entries checked, and refinement rationale. |
 | `work/critic/<slug>/en.md` | `Critic` | Verbatim copy of the primary-language draft once all `P`-flags are closed, stamped with its SHA-256 hash. |
 | `work/sweeper/<date>.md` | `Sweeper` | Link proposals: `A1` (outgoing from `N`), `A2` (incoming to `N`), and `B` (other corpus pairs), with verbatim sentence & anchor verification. |
 | `work/sweep-checker/<date>.md` | `Sweep-Checker` | Independent verification (`PASS` / `FAIL`) of each link proposal in `work/sweeper/<date>.md`. |
@@ -76,8 +76,9 @@ The architecture separates **in-flight plain-Markdown workspaces (`work/`, exclu
 ```mermaid
 flowchart TD
     subgraph S_Wake["Phase 0 (/wake or /draft Only): Probe Waking Materials & Recommend"]
-        W0["Operator invokes /wake or /draft<br/>Probe for: 1. Spark/Intuition, 2. Source, 3. AI/X Thread, 4. Initial Draft"] --> W1["Evaluate materials against Index of Premises & existing posts<br/>Recommend: NEW POST (N) vs. REFINEMENT vs. DROP (repetitive)"]
-        W1 -->|"Operator Go-Ahead (NEW POST or REFINEMENT)"| W2["Lock <slug>, Book Part & initial spine (keep Operator draft/title)"]
+        W0["Operator invokes /wake or /draft<br/>Probe for: 1. Spark/Intuition, 2. Source, 3. AI/X Thread, 4. Initial Draft"] --> W1{"Evaluate against Index of Premises & existing posts<br/>Recommend: NEW POST (N) vs. REFINEMENT vs. DROP"}
+        W1 -->|"DROP (repetitive)"| W_Drop["Cite existing post(s) & stop cleanly"]
+        W1 -->|"Operator Go-Ahead: NEW POST (N) or REFINEMENT"| W2["Lock <slug>, Book Part & initial spine (keep Operator draft/title)"]
     end
 
     subgraph S_EN["Phase 1: Primary Language Cut & Debate (work/drafter/ & work/debates/slug/en.md)"]
@@ -121,7 +122,8 @@ flowchart TD
     style S_ZH fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Final fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style W0 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style W1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style W1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style W_Drop fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style W2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style B1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style B2 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
@@ -144,7 +146,7 @@ flowchart TD
 ### Role Specifications & Invariants
 
 #### Role 1 — `Drafter` (Primary Language Drafter / Refiner)
-- **Context Loaded:** [`/ontological-clarity`](../../../.gemini/skills/ontological-clarity/SKILL.md), [`AGENTS.md`](../AGENTS.md) (*Write in context, traced to premises*), the target post `content/posts/<slug>.md` (or the Operator's seed + Phase 0 probing answers for New Post `N`), the upstream post that triggered this wave step, the target post's linked neighbors, its [`content/book/index-of-premises.md`](../content/book/index-of-premises.md) entries, and its book chapter.
+- **Context Loaded:** [`/ontological-clarity`](../../../.gemini/skills/ontological-clarity/SKILL.md), [`AGENTS.md`](../AGENTS.md) (*Write in context, traced to premises*), the target post `content/posts/<slug>.md` (or the Operator's waking materials—spark, source, AI/X discussion thread, and initial draft—for `/wake`), the upstream post that triggered this wave step, the target post's linked neighbors, its [`content/book/index-of-premises.md`](../content/book/index-of-premises.md) entries, and its book chapter.
 - **Execution:** Writes or refines the pure English essay (or pure Chinese for the 3 Chinese-original posts) in `work/drafter/<slug>/<slug>.md`, recording its context trace in `work/drafter/<slug>/notes.md`. During a sleep wave, if the existing post already holds the upstream cut cleanly with zero internal inconsistency, factual error, or EN/ZH mismatch, `Drafter` may record a `no change` verdict with its trace and hand straight to `Critic` for cold verification.
 - **Debate Rule:** Replies `ACCEPT` (with exact replacement text and premise trace) or `COUNTER` (with premise trace) to each `P`-flag from `Critic` in `work/debates/<slug>/en.md`. Never closes a flag unilaterally.
 
@@ -179,7 +181,7 @@ flowchart TD
      - `node build.mjs`
      - `node scripts/project-posts-graph.mjs` (`missing_targets: 0`)
   5. **Publish & Archive:**
-     - For a **New Post (`N`)**: Present `walkthrough.md` and pause for Operator check (unless the Operator already authorized push), then `git commit` & `git push origin main`, verify live HTTP 200, archive `work/*/<slug>/` to `work/archive/<slug>/`, archive any previous wave file in `work/final-reviewer/`, and initialize the new wave state (`visited = {N}`).
+     - For a **Waking New Post (`N`) or Waking Refinement**: Present `walkthrough.md` (for `N`) and pause for Operator check (unless the Operator already authorized push), then `git commit` & `git push origin main`, verify live HTTP 200, archive `work/*/<slug>/` to `work/archive/<slug>/`, and (for a New Post `N`) archive any previous wave file in `work/final-reviewer/` and initialize the new wave state (`visited = {N}`).
      - For a **Sleep Wave Node (`L1` / `L2` / ... / `Lk`)**: Commit, `git push origin main`, wait for GitHub Pages deploy (`gh run watch --exit-status`), verify live HTTP 200 on `https://powerpig99.github.io/not-a-toe/posts/<slug>/`, move `work/*/<slug>/` into `work/archive/<slug>/`, mark the node `[x]` in `work/final-reviewer/wave-<k>.md`, and dispatch the next node.
 
 ---
