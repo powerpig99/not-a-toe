@@ -3194,7 +3194,7 @@ Causality demands that effect is distinct from cause and follows cause; collapsi
 
 Moral karma presumes past actions dictate future destiny via cosmic justice; causality manifests as the immediate causal weight of the next choice one authors.
 
-→ [前因，后果](../../posts/qian-yin-hou-guo/)
+→ [前因，后果 / Cause Before, Effect After](../../posts/qian-yin-hou-guo/)
 
 ### 知识蒸馏 / Knowledge Distillation
 `技术 / Technological`

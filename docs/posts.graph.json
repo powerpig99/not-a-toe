@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T15:27:12.894Z",
+    "generated_at": "2026-10-20T15:31:28.642Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -163,7 +163,7 @@
       "content/posts/price-as-utterance-understanding-as-trade.md": "9bd86071eefb",
       "content/posts/production-consumption-and-the-minds-distinction.md": "cde68bd7be5c",
       "content/posts/public-spending-does-not-create-capital.md": "4ecd2dec23ca",
-      "content/posts/qian-yin-hou-guo.md": "5e7319c649c6",
+      "content/posts/qian-yin-hou-guo.md": "fd87506ccc70",
       "content/posts/rationality-never-travels-across-the-mind.md": "082e1416eae1",
       "content/posts/reality-doesnt-invoice-by-committee.md": "e577ce5f5f88",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "366872eae4b8",
@@ -404,10 +404,10 @@
       "content/posts/zi-you-de-ce-bu-zhun.md": "9c0ed3a2d8d9",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "46323a1926a8",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "6b5c78c47928",
-      "content/book/causality.md": "529bd18279d8",
+      "content/book/causality.md": "c5ac49c16705",
       "content/book/consciousness.md": "84e10ab5f9aa",
       "content/book/economics.md": "0208ea9246ef",
-      "content/book/index-of-premises.md": "d36df57c68b9",
+      "content/book/index-of-premises.md": "e3b3c4f91399",
       "content/book/intelligence.md": "02d9fc8131b1",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9214,
-      "unique_directed": 4708,
+      "edges": 9235,
+      "unique_directed": 4710,
       "missing_targets": 0,
-      "one_way": 230,
+      "one_way": 232,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -445,7 +445,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 78
+      "in_degree": 79
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -508,11 +508,11 @@
       "in_degree": 32
     },
     {
-      "slug": "complexity-obscures-emergence-as-the-act-of-mind",
-      "in_degree": 31
+      "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "in_degree": 32
     },
     {
-      "slug": "not-a-theory-of-everything",
+      "slug": "complexity-obscures-emergence-as-the-act-of-mind",
       "in_degree": 31
     }
   ],
@@ -1069,7 +1069,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 78,
+      "in_degree": 79,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -4539,10 +4539,10 @@
       "kind": "post",
       "slug": "qian-yin-hou-guo",
       "path": "content/posts/qian-yin-hou-guo.md",
-      "title": "前因，后果",
-      "hash": "5e7319c649c6",
+      "title": "前因，后果 / Cause Before, Effect After",
+      "hash": "fd87506ccc70",
       "in_degree": 17,
-      "out_degree": 17,
+      "out_degree": 19,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "du-zhongwen-zhexue-jianshi-you-gan",
@@ -4550,7 +4550,9 @@
         "causality-all-the-way",
         "guan-yu-gui-yin",
         "the-irreducible-prior-of-decision-and-consequence",
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "individual-choices-as-the-only-causal-levers",
+        "beyond-the-projection",
         "why-mathematics-can-never-be-solved",
         "openness-is-consistency",
         "you-wu-zhi-bian",
@@ -6025,7 +6027,7 @@
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences",
       "hash": "cf80079a6070",
-      "in_degree": 31,
+      "in_degree": 32,
       "out_degree": 29,
       "links_out": [
         "the-summary-first-reversal-and-the-command-of-yields",
@@ -34169,13 +34171,31 @@
       "from": "qian-yin-hou-guo",
       "to": "the-bank-shot-and-the-magic-trick",
       "rel": "points_to",
-      "label": "加塞球与魔术戏法"
+      "label": "翻袋球与魔术戏法"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "The Path Drawn One Step at a Time"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "du-zhongwen-zhexue-jianshi-you-gan",
+      "rel": "points_to",
+      "label": "Reflections on A Short History of Philosophy in Chinese"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "the-bank-shot-and-the-magic-trick",
+      "rel": "points_to",
+      "label": "The Bank Shot and the Magic Trick"
     },
     {
       "from": "qian-yin-hou-guo",
       "to": "causality-all-the-way",
       "rel": "points_to",
-      "label": "彻头彻尾的因果律"
+      "label": "因果贯穿始终"
     },
     {
       "from": "qian-yin-hou-guo",
@@ -34191,21 +34211,81 @@
     },
     {
       "from": "qian-yin-hou-guo",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的移交与后果的不可让渡"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality All the Way"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "guan-yu-gui-yin",
+      "rel": "points_to",
+      "label": "On Attribution"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "the-irreducible-prior-of-decision-and-consequence",
+      "rel": "points_to",
+      "label": "The Irreducible Prior of Decision and Consequence"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "qian-yin-hou-guo",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "qian-yin-hou-guo",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "qian-yin-hou-guo",
       "to": "why-mathematics-can-never-be-solved",
       "rel": "points_to",
-      "label": "为何数学永远无法被彻底解答"
+      "label": "为何数学永远解不完"
     },
     {
       "from": "qian-yin-hou-guo",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "开放即一致"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "Why Mathematics Can Never Be Solved"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "qian-yin-hou-guo",
@@ -34221,15 +34301,39 @@
     },
     {
       "from": "qian-yin-hou-guo",
+      "to": "you-wu-zhi-bian",
+      "rel": "points_to",
+      "label": "The Edge of Being and Non-Being"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
+    },
+    {
+      "from": "qian-yin-hou-guo",
       "to": "xian-shi-de-bian-jie",
       "rel": "points_to",
       "label": "现实的边界"
     },
     {
       "from": "qian-yin-hou-guo",
+      "to": "xian-shi-de-bian-jie",
+      "rel": "points_to",
+      "label": "The Boundary of Reality"
+    },
+    {
+      "from": "qian-yin-hou-guo",
       "to": "performative-hindsight-that-pretends-to-be-foresight",
       "rel": "points_to",
-      "label": "伪装成前瞻的表演性后见之明"
+      "label": "伪装成远见的表演性后见"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "Performative Hindsight That Pretends to Be Foresight"
     },
     {
       "from": "qian-yin-hou-guo",
@@ -34239,9 +34343,21 @@
     },
     {
       "from": "qian-yin-hou-guo",
+      "to": "the-vector-and-the-puzzle-of-projections",
+      "rel": "points_to",
+      "label": "The Vector and the Puzzle of Projections"
+    },
+    {
+      "from": "qian-yin-hou-guo",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "没有普渡，只有自渡"
+      "label": "没有普渡，只有自渡的无限可能"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
     },
     {
       "from": "qian-yin-hou-guo",
@@ -34254,6 +34370,18 @@
       "to": "mi-lv-shi-jie-guo-de-biao-xiang",
       "rel": "points_to",
       "label": "幂律是结果的表象"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
+      "label": "Theories After Success"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "mi-lv-shi-jie-guo-de-biao-xiang",
+      "rel": "points_to",
+      "label": "Power Law Is the Surface of Outcomes"
     },
     {
       "from": "rationality-never-travels-across-the-mind",
@@ -65356,7 +65484,7 @@
         "slug": "causality",
         "path": "content/book/causality.md",
         "title": "因果的内外视界 / Inner and Outer Horizons of Causality",
-        "hash": "529bd18279d8",
+        "hash": "c5ac49c16705",
         "out_degree": 33
       },
       {
@@ -65383,7 +65511,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "d36df57c68b9",
+        "hash": "e3b3c4f91399",
         "out_degree": 396
       },
       {
@@ -65548,7 +65676,7 @@
         "from": "book:causality",
         "to": "qian-yin-hou-guo",
         "rel": "collects",
-        "label": "前因，后果"
+        "label": "前因，后果 / Cause Before, Effect After"
       },
       {
         "from": "book:causality",
@@ -68740,7 +68868,7 @@
         "from": "book:index-of-premises",
         "to": "qian-yin-hou-guo",
         "rel": "collects",
-        "label": "前因，后果"
+        "label": "前因，后果 / Cause Before, Effect After"
       },
       {
         "from": "book:index-of-premises",

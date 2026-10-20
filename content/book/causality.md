@@ -20,7 +20,7 @@ The essays here dissect reductionist denials of free will, showing how microscop
 - [因果贯穿始终 / Causality All the Way](../../posts/causality-all-the-way/)
 - [When the Effect Authors the Frame](../../posts/when-the-effect-authors-the-frame/)
 - [个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers](../../posts/individual-choices-as-the-only-causal-levers/)
-- [前因，后果](../../posts/qian-yin-hou-guo/)
+- [前因，后果 / Cause Before, Effect After](../../posts/qian-yin-hou-guo/)
 - [因果与不可化约的先在 / Causality and the Irreducible Prior](../../posts/causality-and-the-irreducible-prior/)
 - [关于归因 / On Attribution](../../posts/guan-yu-gui-yin/)
 - [决策与后果的不可约先验 / The Irreducible Prior of Decision and Consequence](../../posts/the-irreducible-prior-of-decision-and-consequence/)
