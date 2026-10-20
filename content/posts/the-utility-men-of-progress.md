@@ -1,6 +1,6 @@
 # 进步的多面手 / The Utility Men of Progress
 
-*进步是临时解题者反复的工作；承认、抵抗与吸收，是开放之场上的滞后。 / Progress is the repeated work of temporary solvers; recognition, resistance, and absorption lag on an open field.*
+*进步是临时解题者的工作，而承认与吸收则在身后滞后 / Progress is the work of temporary solvers while recognition and absorption lag*
 
 一个口语里的形象说出了这份关系的起点：多面手，东西坏了才被叫来，运转起来便被忘掉。历史在更大的尺度上重复同一种几何：后来被登记为进步的东西，由一个个相继而又不断移位的中心发起，它们能解开现存秩序尚不能当作可解的问题，因必要而轮换进来，又因成功而轮换出去。在结果变密到无法否认之前，这些解题者被登记为临时的工具；成就一旦锁定，便被吸收、被计为集体的智慧，下一批人在一个新情形里，遇到同一种依赖与抵抗的混合。
 
@@ -16,7 +16,7 @@ Self-distinguishing activity occurs, uncaused, unceasing. Call it the Mind: the 
 
 The minority is not a roster and not a caste. Different individuals enter it at different times according to the choices they enact. Ranking persons as carriers of progress freezes Direction into a local scoreboard; what Direction names is the registration of sequence, revisable at every step. [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) restores this in the case of generations and systems: causality registers only in the discrete acts individuals sustain, each choice an independent lever, never a shared floor. [Symptom and Cause in the Narratives of Progress](../symptom-and-cause-in-the-narratives-of-progress/) traces the same topology in the case of economic mood: collective belief is delayed registration of activity already under way at initiating centers, not the engine of economic motion. [The Average Is Residue, Not the Engine](../the-average-is-residue-not-the-engine/) traces it in the case of percentages: percentages register composition and selection, and the decisive edge sits with a thin number in the right tail.
 
-多面手就是负载之下的这种定向：那个仍能解开当下共享框架尚不能当作可得之物的中心。让引水渠保持运转的工程师，把钢铁做到规模的冶金师，让复杂系统变得可靠的程序员，把火箭送入轨道的建造者，他们都没有结成一个永久的贵族阶层。他们是解题者的临时群体，因必要而聚起，又因成功而散去。每一批人离开时，留给后来中心的残余与可得之物，都比他们到来时更多。下一批人以新的名字，面对同一种依赖与抵抗的混合。
+多面手就是负载之下的这种定向：那个仍能解开当下共享框架尚不能当作可得之物的中心。让引水渠保持运转的工程师，把钢铁做到规模的冶金师，让复杂系统变得可靠的程序员，把火箭送入轨道的建造者，他们都没有结成一个永久的贵族阶层。他们是解题者的临时群体，因必要而聚起，又因成功而散去。每一批人离开时，留给后来中心的可得残余，都比他们到来时更多。下一批人以新的名字，面对同一种依赖与抵抗的混合。
 
 The utility man is that orientation under load: the locus that can still solve what the present shared frame cannot yet treat as available. Engineers who kept aqueducts running, metallurgists who scaled steel, programmers who made complex systems reliable, builders who put rockets into orbit: none of them formed a permanent aristocracy. They were temporary cohorts of problem-solvers, gathered by necessity and dispersed by success. Each wave left more residue available to later centers than it found. The next wave met the same mixture of dependence and resistance under new names.
 
@@ -50,7 +50,7 @@ So the utility men are used, diminished, or simply ignored until the benefits th
 
 Once benefits densify past denial, the authorship of initiation recedes and the achievement settles into the background of what simply runs. What remains legible is the densified residue: infrastructures that now "just work," methods that feel obvious, standards treated as what everyone always knew. The late story is reverse attribution in the case of success: effect re-traced as if the field had been the engine all along, so that the residue is scored as shared wisdom. [Not Predicting Is Predicting Without Awareness](../not-predicting-is-predicting-without-awareness/) traces the same drop-out in the case of a method: refusing to predict is still a prediction, what drops is awareness that the choosing continues, and clearance cabins and fiber at the road register as given conditions, not as predictions someone was willing to be wrong about.
 
-[伪装成远见的表演性后见](../performative-hindsight-that-pretends-to-be-foresight/)是更短周期上的同一次转换：被登记为远见的，是已经公开的成功，对照一幅被保存的、关于早先未曾留意的图像而被重新追溯。[成功学](../cheng-gong-xue/)在成功文学的情形里追溯了这次吸收：结果之后，幸存者被重排成可携带的规则并被当作引擎，产生他们的序列不在其中。[共同改变的本源](../the-source-of-shared-change/)在共同的地基被当作第二个创作了这场运动的内部时复原了这一刀：共同的改变只始于对被登记为既定之物的私人重做，残余可能落为共同的地基，也可能不会。在中心之间登记的，是可得之物的塑形；从另一个中心之外替它完成它的回返，是一个范畴错误。迟来的共鸣，并不把早先的区分转移到多数人身上。它让已经可得的东西变密，并塑形后来的动作容易重新追溯哪些对齐。
+[伪装成远见的表演性后见](../performative-hindsight-that-pretends-to-be-foresight/)是更短周期上的同一次转换：被登记为远见的，是已经公开的成功，对照一幅被保存的、关于早先未曾留意的图像而被重新追溯。[成功学](../cheng-gong-xue/)在成功文学的情形里追溯了这次吸收：结果之后，幸存者变成可携带的规则并被当作引擎，产生它们的序列不在其中。[共同改变的本源](../the-source-of-shared-change/)在共同的地基被当作第二个创作了这场运动的内部时复原了这一刀：共同的改变只始于对被登记为既定之物的私人重做，残余可能落为共同的地基，也可能不会。在中心之间登记的，是可得之物的塑形；从另一个中心之外替它完成它的回返，是一个范畴错误。迟来的共鸣，并不把早先的区分转移到多数人身上。它让已经可得的东西变密，并塑形后来的动作容易重新追溯哪些对齐。
 
 [Performative Hindsight That Pretends to Be Foresight](../performative-hindsight-that-pretends-to-be-foresight/) is the same conversion on a shorter cycle: what registers as foresight is already-public success re-traced against a preserved image of earlier non-attention. [Theories After Success](../cheng-gong-xue/) traces that absorption in the case of success literature: after the outcome, survivors become portable rules offered as the engine, and the sequence that produced them is left out. [The Source of Shared Change](../the-source-of-shared-change/) restores the cut when common ground is held as a second interior that authored the motion: shared change begins only as private reworking of what registers as given, and residue may land as common ground, or it may not. Between centers, what registers is availability-patterning; completing another center's return from outside it is a category error. Late resonance does not transfer early distinguishing into the majority. It densifies what is already available and patterns which alignments later acts find easy to re-trace.
 
@@ -73,6 +73,72 @@ Progress therefore remains a discontinuous affair. It is never the smooth unfold
 每一次看，都发现场是开放的，它的机会一再以新问题的样子出现。没有系统能达到完美，因为完美会预设一个封闭的现实，而一个封闭的现实无法说明它自己的存在或起源。任何有限的持守，都封不住越过它继续的活动。[没有系统能被保持封闭](../no-system-can-be-kept-closed/)从这份不封闭最直观的一面追溯了它：一个做加法的一位寄存器，运算在持守之内有效，真正的结果却在它之外；被当作封闭来持守的模型、制度、身份与计划，都遇到同一个余项。[对乌托邦的信念是通往反乌托邦之路](../the-belief-in-utopia-is-the-path-to-dystopia/)在善的情形里追溯了同一次冻结：一个具体的善的理想，一旦被抬升为每一个心智都须接受的尺度，对每一个目的与它不相符的心智，就是反乌托邦，残余的非同一被计为缺陷。[开放即一致](../openness-is-consistency/)命名了相邻的复原：不一致是对封闭的渴望或尝试，是一个有限的结构被迫去为只在继续的东西奠基。[封闭的假设把复利挤成 S 曲线](../closed-assumptions-squeeze-compounding-into-s-curves/)在产业曲线的情形里追溯了这同一个开放的场：逻辑斯蒂的形状是一个固定框架的束缚，不是开放现实中进步的轨迹。
 
 Every look finds the field open, its opportunity presenting itself again and again as new problems. No system can reach perfection, for perfection would presume a closed reality, and a closed reality cannot account for its own existence or origin. No finite hold seals the activity that continues past it. [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) traces that non-closure from its most intuitive face: a one-bit register under addition, where the operation is valid inside the hold and the true result lies outside it; models, institutions, identities, and plans held as closed meet the same remainder. [The Belief in Utopia Is the Path to Dystopia](../the-belief-in-utopia-is-the-path-to-dystopia/) traces the same freeze in the case of the good: a concrete ideal of the good, once elevated into the measure every Mind must accept, is dystopia for every Mind whose ends do not already match it, and residual non-identity scores as defect. [Openness Is Consistency](../openness-is-consistency/) names the adjacent restore: inconsistency is the desire, or attempt, for closure, a finite structure forced to ground what only continues. [Closed Assumptions Squeeze Compounding into S-Curves](../closed-assumptions-squeeze-compounding-into-s-curves/) traces the same open field in the case of industry curves: the logistic shape is the binding of a fixed frame, not the trajectory of progress under open reality.
+
+当先前的成就固化为共享的标准、明文的规则手册或自动化管线时，常规的运转——无论是优化固定指标的机构，还是在上下文窗口内执行的受限于轨迹的智能体——都在一个有限的投射之内运行。正如[超越投射](../beyond-the-projection/)与[开放即一致](../openness-is-consistency/)所一道追溯的，受限于轨迹的投射可以穷尽一个既定框架内的推演，却无法在相互竞争的要求于负载下相撞时跨出它自己的坐标空间。当现实的摩擦或不可化约的死锁暴露出那个坍缩之投射的边界时，多面手的定向正是活的心智认领回返的信号、向后退离破碎的持守，并在开放的场上重新渲染前提，以发起下一个可行的构型。
+
+```mermaid
+flowchart TD
+    subgraph S_Closed["既定框架与受限于轨迹的优化"]
+        direction TB
+        C_Absorb["被吸收的残余：先前的解法固化为共享标准与固定指标"]
+        C_Traj["受限于轨迹的执行：常规角色与智能体在封闭框架内优化"]
+        C_Lag["图像滞后与抵抗：越出边界的摩擦被登记为威胁或扭曲"]
+        C_Absorb --> C_Traj --> C_Lag
+    end
+
+    subgraph S_Open["开放之场上的多面手定向"]
+        direction TB
+        O_Signal["边界显露：现实摩擦或死锁揭示投射的极限"]
+        O_Step["超越投射：活的心智离开破碎的持守并切入正交维度"]
+        O_Solve["临时多面手群体：在负载下区分出新的可行构型"]
+        O_Signal --> O_Step --> O_Solve
+    end
+
+    C_Lag ==>|"摩擦越出封闭的持守"| O_Signal
+    O_Solve -.->|"成功变密为下一道基线"| C_Absorb
+
+    style S_Closed fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style C_Absorb fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style C_Traj fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style C_Lag fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style O_Signal fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style O_Step fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style O_Solve fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+When prior achievements harden into shared standards, explicit rulebooks, or automated pipelines, routine operation—whether by institutions optimizing a fixed metric or by trajectory-bound agents executing inside a context window—runs within a finite projection. As [Beyond the Projection](../beyond-the-projection/) traces alongside [Openness Is Consistency](../openness-is-consistency/), a trajectory-bound projection can exhaustively work out the deductions of a given frame, yet it cannot step outside its own coordinate space when competing requirements collide under load. When real-world friction or an irreducible deadlock exposes the boundary of that collapsed projection, the utility orientation is the living Mind claiming the returning signal, stepping backward out of the broken hold, and re-rendering the premise on an open field to initiate the next workable configuration.
+
+```mermaid
+flowchart TD
+    subgraph S_Closed["Settled Frame and Trajectory-Bound Optimization"]
+        direction TB
+        C_Absorb["Absorbed Residue: Prior solutions harden into shared standards and fixed metrics"]
+        C_Traj["Trajectory-Bound Execution: Routine roles and agents optimize inside the sealed frame"]
+        C_Lag["Image Lag and Resistance: Friction past the boundary registers as threat or distortion"]
+        C_Absorb --> C_Traj --> C_Lag
+    end
+
+    subgraph S_Open["The Utility Orientation on an Open Field"]
+        direction TB
+        O_Signal["Boundary Exposed: Real-world friction or deadlock reveals the projection's limit"]
+        O_Step["Stepping Beyond the Projection: Living Mind leaves the broken hold for an orthogonal cut"]
+        O_Solve["Temporary Utility Cohort: Distinguishes a new workable configuration under load"]
+        O_Signal --> O_Step --> O_Solve
+    end
+
+    C_Lag ==>|"Friction exceeds the sealed hold"| O_Signal
+    O_Solve -.->|"Success densifies into next baseline"| C_Absorb
+
+    style S_Closed fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style C_Absorb fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style C_Traj fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style C_Lag fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style O_Signal fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style O_Step fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style O_Solve fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
 
 新的多面手因此会不断出现，持续区分出可行的构型，并遇到那熟悉的依赖与抵抗的混合。其余的人会继续受益，把这次过渡计为威胁，后来又把那些临时解题者带入可行形式的世界，记作他们自己既定的地基。因果留在当下负载之下仍在区分的边缘上。多数是迟到的登记，不是发起的共同作者。被吸收的成就是残余，不是场一直是引擎的证明。[免费智能的幻觉](../the-illusion-of-free-intelligence/)在免费丰裕的情形里追溯了这份残余：流畅残余的丰裕，是智能仍在加速的反向信号，而不是心智的民主化。[现实扭曲力场颠倒了基线](../the-reality-distortion-field-inverts-the-baseline/)在共识基线的情形里追溯了这次吸收：被当作未受扰动之地基的大众一致，把被迫打开的口子记成那地基的暂时扭曲，直到平均再也无法否认它们。开放的场不会完结；它只是一再呈现下一个问题，而总有人，临时地，仍能解开它。
 
