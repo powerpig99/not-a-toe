@@ -1,6 +1,6 @@
 # 理性选择公设是原罪 / The Rational Choice Postulate Is the Original Sin
 
-*齐一的一致被安装为地基，而选择只在私人的、暂时的前提之下继续。 / Uniform consistency is installed as foundation while choice continues only under private, provisional premises.*
+*齐一的一致被持为地基，而选择在私人前提的变动之下继续 / Uniform consistency held as ground while choice shifts under private premises*
 
 经济现象只发端于个体选择。每一次选择都是一次离散的行动，发生在那个心智那一刻可得的前提之下；这些前提是私人的、暂时的，在不同心智之间、在同一心智相继的时刻之间，从不全然相同。把理性选择公设持为地基，就把一个一致最大化的形式结构冻结为足够坚实、足以为加总、均衡定理与政策处方奠基的东西；生成选择的前提满足不了这一冻结，于是这套装置之内此后的每一个理论动作，都继承同一个错配：事后拟合优雅，预见力薄弱，在结果之间搜寻原因，而唯一的自变量被当作已经定下。把这个被继承的结构称为原罪：它不是对个人或学派的判决，而是一个单一的生成性错误的名字；装置里此后的每一个动作，都携带这个错误的逻辑后果。
 
@@ -22,9 +22,79 @@ No further entity exists behind the choice. Aggregates, prices, institutions and
 
 The rational choice postulate asserts that agents choose consistently so as to maximize a preference ordering under given constraints, and that this structure of consistency can serve as foundation for deriving market outcomes, equilibrium relations and policy prescriptions. Consistency here is not merely local coherence at the instant of choice. It is treated as stable enough, shared enough or representative enough to license aggregation and prediction.
 
-生成性的事实，即私人的、暂时的前提之下的选择，恰恰禁止这一许可。因为一个心智排序的方式本身就在它的前提之中，而前提在单个心智之内变动、在不同心智之间相异，所以公设所要求的形式结构，无法作为一种跨越行动者与时间而稳定、共享或有代表性的属性来维持。这一冻结是器具上的形象滞后：一套形式装置被理论家保留，越过了前提实际运作的那一步，于是私人的暂时性被登记为围绕一个坚实微观基础的噪声，而不是生成之场本身。软化为“近似一致”或“平均而言一致”，就晚一步重新安装了同一个要求：装置要迁移，仍需要一份剩余的齐一。
+生成性的事实，即私人的、暂时的前提之下的选择，恰恰禁止这一许可。因为一个心智排序的方式本身就在它的前提之中，而前提在单个心智之内变动、在不同心智之间相异，所以公设所要求的形式结构，无法作为一种跨越行动者与时间而稳定、共享或有代表性的属性来维持。受约束的最大化是一条在固定坐标之上运行的封闭推演轨迹；只有当偏好次序与约束条件已被投射并封存之后，它才能运行。相反，活的心智并不被锁在先前排序的轨迹之内：当物质或市场的摩擦对照被保留的参照而被登记时，选择者能够迈出破碎的框架，重新渲染前提本身。这一冻结是理论家器具上的形象滞后：一个有限的形式投射被保留，越过了前提实际运作与修订的那一步，于是私人的暂时性被登记为围绕一个坚实微观基础的噪声，而不是生成之场本身。软化为“近似一致”或“平均而言一致”，就晚一步重新安装了同一个要求：装置要迁移，仍需要一份剩余的齐一。
 
-The generating fact, choice under private, provisional premises, forbids exactly that license. Because the way a mind ranks is itself among its premises, and premises shift within a single mind and differ across minds, the formal structure the postulate requires cannot be maintained as a stable, shared or representative property across agents and time. The freeze is Image lag on the instrument: a formal apparatus a theorist retains past the step at which premises actually operate, so that private provisionality registers as noise around a solid micro-foundation rather than as the generative field itself. Softening into “approximately consistent” or “consistent on average” reinstalls the same demand one step later: a residual uniformity still required for the apparatus to travel.
+```mermaid
+flowchart TD
+    subgraph S_Open["活的心智：开放的前提修订与离散选择"]
+        direction TB
+        O_Edge["自我区分的活动：无因、不息的局部选择"]
+        O_Prem["私人而暂时的前提：被保留的价值、知识与预期参照"]
+        O_Step["内生的框架重置：迈出破碎的排序，重新渲染前提"]
+        O_Trace["公共的市场残余：留下的出清成交、价格与总量"]
+        O_Edge --> O_Prem --> O_Step --> O_Trace
+    end
+
+    subgraph S_Closed["理性选择公设：把封闭轨迹持为地基"]
+        direction TB
+        C_Freeze["地基性的冻结：偏好次序与约束被封存为给定坐标"]
+        C_Opt["推演式的优化轨迹：受约束的最大化被当作穷尽引擎"]
+        C_Avg["加总与均衡：集体症状除以人头数被提升为原因"]
+        C_Mis["被继承的错配：优雅的事后拟合伴随系统性的预见失效"]
+        C_Freeze --> C_Opt --> C_Avg --> C_Mis
+    end
+
+    O_Prem -.->|"豁免于修订并被冻结为齐一"| C_Freeze
+    C_Mis ==>|"释放作为地基的公设，回归回顾性器具"| O_Step
+
+    style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Closed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style O_Edge fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style O_Prem fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style O_Step fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style O_Trace fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style C_Freeze fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style C_Opt fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style C_Avg fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style C_Mis fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+The generating fact, choice under private, provisional premises, forbids exactly that license. Because the way a mind ranks is itself among its premises, and premises shift within a single mind and differ across minds, the formal structure the postulate requires cannot be maintained as a stable, shared or representative property across agents and time. Constrained maximization is a closed deductive trajectory over fixed coordinates; it can run only after the preference ordering and constraints have been projected and sealed. The living Mind, by contrast, is not locked inside the trajectory of its prior rankings: when physical or market friction registers against a retained reference, the chooser can step outside the broken frame and re-render the premise itself. The freeze is Image lag on the theorist's instrument: a finite formal projection retained past the step at which premises actually operate and revise, so that private provisionality registers as noise around a solid micro-foundation rather than as the generative field itself. Softening into “approximately consistent” or “consistent on average” reinstalls the same demand one step later: a residual uniformity still required for the apparatus to travel.
+
+```mermaid
+flowchart TD
+    subgraph S_Open["Living Mind: Open Premise Revision and Discrete Choice"]
+        direction TB
+        O_Edge["Self-Distinguishing Activity: Uncaused, unceasing choice at one locus"]
+        O_Prem["Private, Provisional Premises: Retained references of value, knowledge, and expectation"]
+        O_Step["Endogenous Frame Reset: Stepping outside a broken ranking to re-render the premise"]
+        O_Trace["Public Market Residue: Clearing prints, prices, and aggregates left behind"]
+        O_Edge --> O_Prem --> O_Step --> O_Trace
+    end
+
+    subgraph S_Closed["Rational Choice Postulate: Closed Trajectory Held as Ground"]
+        direction TB
+        C_Freeze["Foundational Freeze: Preference ordering and constraints sealed as given coordinates"]
+        C_Opt["Deductive Optimization Trajectory: Constrained maximization treated as exhaustive engine"]
+        C_Avg["Aggregation and Equilibrium: Collective symptom divided by headcount promoted to cause"]
+        C_Mis["Inherited Mismatch: Elegant post-hoc fit alongside systematic failure of foresight"]
+        C_Freeze --> C_Opt --> C_Avg --> C_Mis
+    end
+
+    O_Prem -.->|"Exempted from revision and frozen as uniform"| C_Freeze
+    C_Mis ==>|"Postulate released back to retrospective instrument"| O_Step
+
+    style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Closed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style O_Edge fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style O_Prem fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style O_Step fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style O_Trace fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style C_Freeze fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style C_Opt fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style C_Avg fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style C_Mis fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
 
 ## 三、 一切交换都经由相反的前提与暂时的重叠而出清 / 3. All Exchange Clears by Opposed Premises and Temporary Overlap
 
@@ -98,6 +168,6 @@ No additional psychological, historical or empirical assumptions are required fo
 
 Once the postulate is installed as the foundational axiom, every subsequent theoretical move, aggregation, equilibrium derivation, policy design or behavioral patching, inherits the original mismatch between the formal structure and the actual generative process. The mismatch is not contingent: every forward step carries it, and fails wherever premises move within its horizon. The repeated pattern of strong post-hoc fit and weak predictive or prescriptive power is what that mismatch produces. The mismatch is the logical consequence of beginning from an axiom the generating premises cannot meet.
 
-作为地基，公设不是一个偶尔误导的有用近似。它是原罪：理论家把它当作地基来建造，便把目光从唯一的自变量移开，到结果之间去搜寻因果关系。软化为“部分是微观基础，部分是剩余噪声”，就在私人前提与离散行动这条唯一继续着的序列旁边，安装了第二个原因。[开放即一致](../openness-is-consistency/)指认相邻的冻结：一个有限的结构被迫为只是继续着的东西奠基。在这里，这个有限的结构，是被持为一个经济体之穷尽微观基础的偏好与约束装置；而这个经济体只作为相继的选择而继续，这些选择所处的前提从不完成为共享的同一性。在相邻的领域中，同一种在结果之间的搜寻反复出现。[意识从不作为数据出现在数据之中](../consciousness-never-appears-as-data-among-data/)在证据的情形中追溯这种搜寻：测量只持有公共的结果，而登记这些结果的活动，始终领先于任何可能捕获它的数据。[成功学](../cheng-gong-xue/)在成功文学的情形中追溯廉价的回顾拟合：幸存者被重排成可携带的规则，被当作引擎提供出来，而产生他们的序列被留在外面。若一个心智释放作为地基的公设，装置便回归为一件器具：它可用于局部的回顾性重构，从不是向前迁移的地基，也不是下一个行动被封存的起源。[理性从不跨越心智](../rationality-never-travels-across-the-mind/)追溯这一诊断本身的界限：这一认识本身是持有它的那个心智处的一次重新诠释，而不是一套完好地到达别处的第二种可携带演算。若一个心智把公设持为地基，每一次改进便都仍是对症状更精致的描述，而独自产生这些症状的生成过程，留在装置所及之外；若这个心智释放公设，装置便重新成为使用它的心智手中的一件器具。
+作为地基，公设不是一个偶尔误导的有用近似。它是原罪：理论家把它当作地基来建造，便把目光从唯一的自变量移开，到结果之间去搜寻因果关系。软化为“部分是微观基础，部分是剩余噪声”，就在私人前提与离散行动这条唯一继续着的序列旁边，安装了第二个原因。[开放即一致](../openness-is-consistency/)指认相邻的冻结：一个有限的结构被迫为只是继续着的东西奠基。在这里，这个有限的结构，是被持为一个经济体之穷尽微观基础的偏好与约束装置；而这个经济体只作为相继的选择而继续，这些选择所处的前提从不完成为共享的同一性。[超越投射](../beyond-the-projection/)追溯一个形式投射为何无法取代作出选择的中心：推演引擎只在被给定的固定坐标之内运行轨迹，而活的心智先于言说便感知到摩擦，并从破碎的框架中退后一步，重新渲染前提本身。在相邻的领域中，同一种在结果之间的搜寻反复出现。[意识从不作为数据出现在数据之中](../consciousness-never-appears-as-data-among-data/)在证据的情形中追溯这种搜寻：测量只持有公共的结果，而登记这些结果的活动，始终领先于任何可能捕获它的数据。[成功学](../cheng-gong-xue/)在成功文学的情形中追溯廉价的回顾拟合：幸存者被重排成可携带的规则，被当作引擎提供出来，而产生他们的序列被留在外面。若一个心智释放作为地基的公设，装置便回归为一件器具：它可用于局部的回顾性重构，从不是向前迁移的地基，也不是下一个行动被封存的起源。[理性从不跨越心智](../rationality-never-travels-across-the-mind/)追溯这一诊断本身的界限：这一认识本身是持有它的那个心智处的一次重新诠释，而不是一套完好地到达别处的第二种可携带演算。若一个心智把公设持为地基，每一次改进便都仍是对症状更精致的描述，而独自产生这些症状的生成过程，留在装置所及之外；若这个心智释放公设，装置便重新成为使用它的心智手中的一件器具。
 
-As a foundation, the postulate is not a useful approximation that occasionally misleads. It is the original sin: building on it as foundation, a theorist looks away from the only independent variable and searches for causal relations among the effects. Softening into “part micro-foundation, part residual noise” installs a second cause beside the one sequence of private premise and discrete act that continues. [Openness Is Consistency](../openness-is-consistency/) names the adjacent freeze: a finite structure forced to ground what only continues. Here the finite structure is the preference-and-constraint apparatus held as exhaustive micro-foundation of an economy that continues only as successive choices under premises that never finish into shared identity. Across adjacent domains the same search among effects recurs. [Consciousness Never Appears as Data Among Data](../consciousness-never-appears-as-data-among-data/) traces that search in the case of evidence: measurement holds only public effects, and the activity registering them stays ahead of any datum that would capture it. [Theories After Success](../cheng-gong-xue/) traces cheap retrospective fit in the case of success literature: survivors rearranged into portable rules offered as the engine, while the sequence that produced them is left out. Where a mind releases the postulate as foundation, the apparatus returns to being an instrument, usable for local retrospective reconstruction, never a foundation that travels forward or the sealed origin of the next act. [Rationality Never Travels Across the Mind](../rationality-never-travels-across-the-mind/) traces the bound on this diagnosis itself: this recognition is itself a reinterpretation at the mind that holds it, not a second portable calculus that arrives intact elsewhere. Where a mind holds the postulate as foundation, every refinement stays a more sophisticated description of symptoms, and the generative process that alone produces them stays outside the apparatus's reach; where it releases the postulate, the apparatus is an instrument again in the hands of the mind that uses it.
+As a foundation, the postulate is not a useful approximation that occasionally misleads. It is the original sin: building on it as foundation, a theorist looks away from the only independent variable and searches for causal relations among the effects. Softening into “part micro-foundation, part residual noise” installs a second cause beside the one sequence of private premise and discrete act that continues. [Openness Is Consistency](../openness-is-consistency/) names the adjacent freeze: a finite structure forced to ground what only continues. Here the finite structure is the preference-and-constraint apparatus held as exhaustive micro-foundation of an economy that continues only as successive choices under premises that never finish into shared identity. [Beyond the Projection](../beyond-the-projection/) traces why a formal projection cannot substitute for the choosing center: a deductive engine runs a trajectory inside the fixed coordinates it was given, whereas the living Mind senses friction prior to articulation and steps backward out of a broken frame to re-render the premise itself. Across adjacent domains the same search among effects recurs. [Consciousness Never Appears as Data Among Data](../consciousness-never-appears-as-data-among-data/) traces that search in the case of evidence: measurement holds only public effects, and the activity registering them stays ahead of any datum that would capture it. [Theories After Success](../cheng-gong-xue/) traces cheap retrospective fit in the case of success literature: survivors rearranged into portable rules offered as the engine, while the sequence that produced them is left out. Where a mind releases the postulate as foundation, the apparatus returns to being an instrument, usable for local retrospective reconstruction, never a foundation that travels forward or the sealed origin of the next act. [Rationality Never Travels Across the Mind](../rationality-never-travels-across-the-mind/) traces the bound on this diagnosis itself: this recognition is itself a reinterpretation at the mind that holds it, not a second portable calculus that arrives intact elsewhere. Where a mind holds the postulate as foundation, every refinement stays a more sophisticated description of symptoms, and the generative process that alone produces them stays outside the apparatus's reach; where it releases the postulate, the apparatus is an instrument again in the hands of the mind that uses it.

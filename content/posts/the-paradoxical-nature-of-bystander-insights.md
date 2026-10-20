@@ -1,10 +1,10 @@
 # 旁观者洞察的悖论 / The Paradoxical Nature of Bystander Insights
 
-*只属于一次观察切口的区分，唯有切口被保存为本体时，才登记为活动的硬性界限 / A distinction belonging to one cut registers as a hard bound of the activity only when that cut is preserved as ontology.*
+*只属于一次观察切口的区分，唯有切口被保存为本体时，才读作活动的硬性界限 / A cut's distinction reads as a hard limit only when preserved as ontology*
 
 有一类观察，到来时已经平衡而有说服力：它命名一种任何在约束下工作的人都感受过的张力，把它化解成一个优雅的二选一，让听者点头。它命名的不是活动，而是对活动的一种看法，一种旁观者的洞察：一个属于观察者离散切口、而不属于被观察的连续运动的区分。纳瓦尔·拉维肯特那句话，人可以为生产力优化，也可以为创造力优化，但很难两者兼顾，就是一个干净的例子：界限被持守为固定时，这个权衡作为登记是真的；界限被持守为敞开时，同一个运动就是持续的发明。活动是那枚硬币，哪一面被登记，取决于工作者把界限持守为固定还是敞开。旁观者，以及后见之中的后来的自我，站在生成的行动之外，握住一面，并把那一面冻结为整体。
 
-There is a class of observation that arrives already balanced and persuasive: it names a tension anyone working under constraints has felt, resolves it into an elegant either-or, and leaves the listener nodding. What it names is not the activity but a view of the activity, a bystander insight: a distinction that belongs to the observer's discrete cut rather than to the continuous movement observed. Naval Ravikant's line that one can optimize for productivity or for creativity, but it is hard to do both, is a clean case: with the bound held fixed, the trade-off is real as a registration; with the bound held open, the same movement is continuous invention. The activity is the coin, and which face registers follows whether the one working holds the bound fixed or open. The bystander and the later self in hindsight stand outside the generating act, hold one face, and freeze that face as the whole.
+There is a class of observation that arrives already balanced and persuasive: it names a tension anyone working under constraints has felt, resolves it into an elegant either-or, and leaves the listener nodding. What it names is not the activity, rather a view of the activity, a bystander insight: a distinction that belongs to the observer's discrete cut rather than to the continuous movement observed. Naval Ravikant's line that one can optimize for productivity or for creativity, while finding it hard to do both, is a clean case: with the bound held fixed, the trade-off is real as a registration; with the bound held open, the same movement is continuous invention. The activity is the coin, and which face registers follows whether the one working holds the bound fixed or open. The bystander and the later self in hindsight stand outside the generating act, hold one face, and freeze that face as the whole.
 
 ## 一、 观察握住一面，硬币握着两面 / 1. Observation Holds One Face; the Coin Holds Both
 
@@ -24,13 +24,13 @@ Naval's remark lands with the weight of hard-won experience. Productivity regist
 
 在封闭前提下为生产力优化，把边界、资源与目标当作固定的。效率成了从一个给定容器里榨出更多、而不改变容器的技艺，在那份持守之内，这份张力作为它的算术是真的：每一份花在精炼流程上的注意力，都是没有花在发明新流程上的一份。旁观者把这个权衡看得清楚，因为系统已被框定为已完成的；观察切口已经把两种模式分开，并对着一条被保存的边界测量了它们。[追求机缘中的封闭现实](../closed-reality-in-the-pursuit-of-serendipity/)在纳瓦尔的另一个主张中追溯同一种几何：敞开不是靠清空日程产生的，它是不把任何计划，包括“没有计划”这个计划，保存为固定的参照。延续过来的，是一份有限的清单，在其中一种用途被认为挡住另一种，以及一个构型被持守为场的结构。[基准刷榜中的封闭实存](../closed-reality-in-benchmark-maxing/)在评估中追溯同一种分裂：基准把能力冻结为一个封闭的靶子，它有用，因为它增密比较，而只有当那幅形象被当作整个场时，有用性才被登记不足。
 
-Optimizing for productivity under closed premises treats boundaries, resources, and goals as fixed. Efficiency becomes the art of extracting more from a given container without altering the container, and inside that hold the tension is real as its arithmetic: every unit of attention spent refining process is a unit not spent inventing new process. The bystander sees the trade-off clearly because the system has been framed as already complete; the observational cut has separated the two modes and measured them against a preserved boundary. [Closed Reality in the Pursuit of Serendipity](../closed-reality-in-the-pursuit-of-serendipity/) traces the same geometry in another of Naval's claims: openness is not produced by clearing the calendar, it is the non-preservation of any plan, including the plan of having no plan, as a fixed reference. What carries over is a finite inventory in which one use is taken to block another, and one configuration is held as the structure of the field. [Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem](../closed-reality-in-benchmark-maxing/) traces the same split in evaluation: a benchmark freezes capability as a closed target, useful because it densifies comparison, and usefulness goes under-registered only when that image is taken as the whole of the field.
+Optimizing for productivity under closed premises treats boundaries, resources, and goals as fixed. Efficiency becomes the art of extracting more from a given container without altering the container, and inside that hold the tension is real as its arithmetic: every unit of attention spent refining process is a unit not spent inventing new process. The bystander sees the trade-off clearly because the system has been framed as already complete; the observational cut has separated the two modes and measured them against a preserved boundary. [Closed Reality in the Pursuit of Serendipity](../closed-reality-in-the-pursuit-of-serendipity/) traces the same geometry in another of Naval's claims: openness is not produced by clearing the calendar, it is the non-preservation of any plan, including the plan of having no plan, as a fixed reference. What carries over is a finite inventory in which one use is taken to block another, and one configuration is held as the structure of the field. [Closed Reality in Benchmark Maxing](../closed-reality-in-benchmark-maxing/) traces the same split in evaluation: a benchmark freezes capability as a closed target, useful because it densifies comparison, and usefulness goes under-registered only when that image is taken as the whole of the field.
 
 ## 三、 开放前提下，效率就是创造性的扩展 / 3. Under Open Premises, Efficiency Is Creative Expansion
 
-在开放的前提下登记，同一个运动便消解了二分。一个开放的系统没有最终的边界；它的边缘是临时的、可扩展的，在那个框架里，效率的改进*就是*创造性的行动。每一次吞吐量的提升，每一次摩擦的去除，每一次时间的压缩，都不只是把现有的容器塞得更密；它把墙往外推，揭示出先前看不见的可能。从封闭的视角看只是生产力的东西，从开放的视角看，是一个更大系统的持续发明。创造力不是优化的替代品；它是一旦当下的限度不再被当作最终的，优化所成为的东西。
+在开放的前提下登记，同一个运动便消解了二分。一个开放的系统没有最终的边界；它的边缘是临时的、可扩展的，在那个框架里，效率的改进就是创造性的行动。每一次吞吐量的提升，每一次摩擦的去除，每一次时间的压缩，都不只是把现有的容器塞得更密；它把墙往外推，揭示出先前看不见的可能。从封闭的视角看只是生产力的东西，从开放的视角看，是一个更大系统的持续发明。创造力不是优化的替代品；它是一旦当下的限度不再被当作最终的，优化所成为的东西。
 
-Registered under open premises, the same movement dissolves the dichotomy. An open system has no final boundary; its edges are provisional and expandable, and in that frame the improvement of efficiency *is* the creative act. Each gain in throughput, each removal of friction, each compression of time does not merely pack the existing container more densely; it pushes the walls outward and reveals possibilities that were invisible before. What looks like nothing but productivity from the closed vantage is, from the open one, the continuous invention of a larger system. Creativity is not an alternative to optimization; it is what optimization becomes once the current limits stop being treated as final.
+Registered under open premises, the same movement dissolves the dichotomy. An open system has no final boundary; its edges are provisional and expandable, and in that frame the improvement of efficiency is the creative act. Each gain in throughput, each removal of friction, each compression of time does not merely pack the existing container more densely; it pushes the walls outward and reveals possibilities that were invisible before. What looks like nothing but productivity from the closed vantage is, from the open one, the continuous invention of a larger system. Creativity is not an alternative to optimization; it is what optimization becomes once the current limits stop being treated as final.
 
 [生产、消费与心智的区分](../production-consumption-and-the-minds-distinction/)处理同一刀：生产与消费是同一个活动在其边界被持守为敞开或固定时登记出的样子，所以同一次加法产生扩展还是抹除，只取决于参照被持守为敞开还是固定。[没有系统能被保持封闭](../no-system-can-be-kept-closed/)给出不完备最直观的一面，一位寄存器上的加法：运算在持守之内有效，而真实的结果落在它之外。[开放即一致](../openness-is-consistency/)命名产生封闭读法的那份要求：不一致是对闭合的欲求或尝试，是一个有限结构被迫去为只会延续的东西奠基。在一道被保存的界限之下计分，生产力与创造力争夺一份固定的注意力存量，在那份持守之内这种算术是有效的。界限被持守为敞开时，它们是在两个点上被读出的同一个分化运动：边缘仍在一道临时界限之内时的顺序精炼，以及那道界限让位时的扩展。
 
@@ -44,7 +44,7 @@ The person actually working is not choosing between two scarce modes on a ledger
 
 这个样式在纳瓦尔的大量言论中反复出现，更宽地说，也在公共知识分子偏爱的格言风格中反复出现。把杠杆与努力对立、把空白时间与结构化工作对立的格言，作为干净的二元到来。从旁观者的座位上，结果已经排好，系统已经封闭，道路已经选定，两项读起来像彼此对立的替代品。回到决策的内部，它们便变薄了，那里有好几种逻辑同时运作：杠杆是早先努力延伸其触及所留下的残余，而一份空白的日程只是又一个被持守或被放开的构型，即那篇关于机缘的文章所追溯的那一刀。[生命的意义在起草之中](../the-meaning-of-life-is-in-the-drafting/)在作者身份中追溯同一种分裂：意义是在原因的现场起草中生成的，不是从硬化了的结果里找回的，而当向外的凝视从不回到纸面，它就变薄。对硬化了的结果的一次读，不论出自旁观者还是出自后来的自己，都是草稿的一个切口，不是起草。[遮蔽进步的框架](../the-frame-that-conceals-improvement/)追溯一种相邻的豁免，即评判者的豁免：在一组约束之内的移动，当从一个已经离开那些约束的框架被重新计分时便消失了，而双重标准保持不可见，评判者的豁免也在其中。
 
-The pattern recurs across much of Naval's corpus and, more broadly, across the aphoristic style favored by public intellectuals. Maxims that set leverage against effort, or empty time against structured work, arrive as clean binaries. From the bystander's seat, where outcomes are already sorted, systems already closed, and paths already chosen, the two terms read as rival substitutes. They thin on returning to the inside of the decision, where several logics operate at once: leverage is the residue of earlier effort extending its reach, and an empty calendar is one more configuration held or released—the cut the serendipity post traces. [The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing](../the-meaning-of-life-is-in-the-drafting/) traces the same split in authorship: meaning is generated in the live drafting of causes, not recovered from hardened effects, and it thins when the outward gaze never returns to the page. A reading of hardened effects, by a bystander or by a later self, is one cut of the draft, not the drafting. [The Frame That Conceals Improvement](../the-frame-that-conceals-improvement/) traces a neighboring exemption, the judge's: movement inside one set of constraints disappears when re-scored from a frame that has already left those constraints, and the double standard stays invisible, the exemption of the judge included.
+The pattern recurs across much of Naval's corpus and, more broadly, across the aphoristic style favored by public intellectuals. Maxims that set leverage against effort, or empty time against structured work, arrive as clean binaries. From the bystander's seat, where outcomes are already sorted, systems already closed, and paths already chosen, the two terms read as rival substitutes. They thin on returning to the inside of the decision, where several logics operate at once: leverage is the residue of earlier effort extending its reach, and an empty calendar is one more configuration held or released—the cut the serendipity post traces. [The Meaning of Life Is in the Drafting](../the-meaning-of-life-is-in-the-drafting/) traces the same split in authorship: meaning is generated in the live drafting of causes, not recovered from hardened effects, and it thins when the outward gaze never returns to the page. A reading of hardened effects, by a bystander or by a later self, is one cut of the draft, not the drafting. [The Frame That Conceals Improvement](../the-frame-that-conceals-improvement/) traces a neighboring exemption, the judge's: movement inside one set of constraints disappears when re-scored from a frame that has already left those constraints, and the double standard stays invisible, the exemption of the judge included.
 
 ## 五、 后见是转向内部的旁观者 / 5. Hindsight Is the Bystander Turned Inward
 
@@ -62,9 +62,73 @@ The same mechanism operates in explaining oneself in hindsight. After an event, 
 
 Bystander insights circulate readily because they align with the structure of observation itself. Observation is discrete by necessity: each look draws a bound. To extract a rule, it freezes a process into snapshots and compares them, and the comparison needs a bound held fixed across the snapshots, so the rule carries the closed premise as its condition. The rule registers as insight into the nature of things; what it describes is the cut and the bound the comparison had to fix. Those who specialize in such insights—Naval among the more elegant—articulate those limits with clarity and style. [Sowell Observed the Surface Problem](../sowell-observed-the-surface-problem/) traces the same seat in policy: judging policy by the incentives it creates rather than the goals it proclaims is accurate as a look, and stepping onto that detached balcony is the temporary exemption by which any distinction gets drawn; the miss is not returning, never folding the same scale back onto the diagnosing act. Such statements travel easily and sound like the hard-earned residue of experience. They are the hard-earned residue of watching experience from a slight remove, under a fixed bound the live work is free to release.
 
-这一切都不会让这些洞察变得无用。旁观者仍能在一份封闭的持守之下揭示实际的摩擦、样式与可预见的冲突。抬升只开始于洞察被当作关于事物是什么的主张之时：当持守的算术，即界限固定时难以两者兼顾，丢掉了它的条件，读成了工作本身的限度。硬币不会因为没有哪一次看能同时握住两面而变成单面，工作也不会因为一个观察者或一个后来的自我只登记了封闭的那一种读法，而失去它敞开的读法。[遗忘的脚手架](../the-scaffolding-we-forget/)追溯任何这类工具的两面：脚手架退出递归，好让进一步的区分得以落地，而当这种退出冻结为一幅被保存过了那一步的形象，能力便压缩在曾经让运动成为可能的残余上。一句被持守为工具、随着步子移动而重新渲染的格言，仍是有用的残余；被持守为工作的封闭结构，它就把观察切口冻结成了事物本身。被宣称为一种可以传递的方法时，它就遇上那份冻结。[当观察变成表演](../when-observation-becomes-performance/)追溯随之而来的包装：对他人的观察作为第一人称参照起作用，包装成美德，便成了另一个不传递任何东西的动作。[解放的言辞始于定义囚禁](../liberation-rhetoric-begins-by-defining-captivity/)追溯再往后一步，即包装被当作纠正来提供：声称解放他人，先装下的是他们不自由，当作他们之所是，而非对一个行为的读法。
+这一切都不会让这些洞察变得无用。旁观者仍能在一份封闭的持守之下揭示实际的摩擦、样式与可预见的冲突。[超越投射](../beyond-the-projection/)在智能体架构中调用了这一结构性非对称：一个不背负主行动者的会话历史与轨迹偏置的冷同伴智能体或外部观察者，正因为站在生成序列之外，才得以点出局部的盲区与前提冲突，但它既不持有活的语境，也不承担路径的后果，因此回路中的行动者与统御全局的心智要么吸收这一信号以更新轨迹，要么退后一步重新渲染失效的前提，而不是把这记冷切口立为裁判的基底（[开放即一致](../openness-is-consistency/)）。抬升只开始于洞察被当作关于事物是什么的主张之时：当持守的算术，即界限固定时难以两者兼顾，丢掉了它的条件，读成了工作本身的限度。硬币不会因为没有哪一次看能同时握住两面而变成单面，工作也不会因为一个观察者或一个后来的自我只登记了封闭的那一种读法，而失去它敞开的读法。[遗忘的脚手架](../the-scaffolding-we-forget/)追溯任何这类工具的两面：脚手架退出递归，好让进一步的区分得以落地，而当这种退出冻结为一幅被保存过了那一步的形象，能力便压缩在曾经让运动成为可能的残余上。一句被持守为工具、随着步子移动而重新渲染的格言，仍是有用的残余；被持守为工作的封闭结构，它就把观察切口冻结成了事物本身。被宣称为一种可以传递的方法时，它就遇上那份冻结。[当观察变成表演](../when-observation-becomes-performance/)追溯随之而来的包装：对他人的观察作为第一人称参照起作用，包装成美德，便成了另一个不传递任何东西的动作。[解放的言辞始于定义囚禁](../liberation-rhetoric-begins-by-defining-captivity/)追溯再往后一步，即包装被当作纠正来提供：声称解放他人，先装下的是他们不自由，当作他们之所是，而非对一个行为的读法。
 
-None of this makes the insights useless. A bystander can still surface practical frictions, patterns and predictable collisions under a closed hold. The elevation begins only when the insight is taken as a claim about what things are: when the arithmetic of the hold—that it is hard to do both while the bound is fixed—loses its condition and reads as a limit of the work itself. The coin does not become one-sided because no single look can hold both faces at once, and the work does not lose its open reading because an observer, or a later self, registers only the closed one. [The Scaffolding We Forget](../the-scaffolding-we-forget/) traces the two faces of any such instrument: scaffolding drops out of recursion so further distinguishing can land, and when that drop-out freezes into a preserved image past its step, capacity compresses against the residue that once enabled movement. An aphorism held as an instrument, re-rendered as the step moves, stays useful residue; held as the closed structure of work, it freezes the observational cut as the thing itself. Asserted as a method that travels, it meets that freeze. [When Observation Becomes Performance](../when-observation-becomes-performance/) traces the packaging that follows: observation of others works as a first-person reference, and packaged as virtue it becomes a second act that transfers nothing. [Liberation Rhetoric Begins by Defining Captivity](../liberation-rhetoric-begins-by-defining-captivity/) traces the step after, where the package is offered as correction: claiming to free others first installs that they are unfree, as what they are rather than as one reading of an act.
+```mermaid
+flowchart TD
+    subgraph S_Bystander["冷同伴 / 旁观者视角（生成行动之外）"]
+        direction TB
+        B_Cut["离散观察切口：只持握任务器物，不带会话历史与轨迹偏置"]
+        B_Signal["诊断性盲区揭示：在固定界限下显露摩擦与权衡"]
+        B_Freeze["本体论冻结：把比较切口当作穷尽活动的基底"]
+        B_Cut --> B_Signal
+        B_Cut -.->|"丢掉持守的条件"| B_Freeze
+    end
+
+    subgraph S_Actor["回路内行动者与统御心智（生成行动之内）"]
+        direction TB
+        A_History["活的轨迹与后果：持有会话历史并承担不可逆的行动代价"]
+        A_Integrate["信号整合：吸收有效反例以在临时界限内精炼执行"]
+        A_Expand["前提重新渲染：在僵局暴露闭合时退后一步放开固定界限"]
+        A_History --> A_Integrate --> A_Expand
+    end
+
+    B_Signal ==>|"作为工具的第二意见"| A_Integrate
+    B_Freeze ==>|"看清并放开闭合要求"| A_Expand
+
+    style S_Bystander fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Actor fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style B_Cut fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style B_Signal fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style B_Freeze fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style A_History fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style A_Integrate fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style A_Expand fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+None of this makes the insights useless. A bystander can still surface practical frictions, patterns, and predictable collisions under a closed hold. [Beyond the Projection](../beyond-the-projection/) puts this structural asymmetry to work in agentic architecture: a cold peer agent or external observer, unburdened by the primary actor's session history and trajectory bias, spots local blind spots and premise collisions precisely because it stands outside the generating sequence, yet it neither holds the living context nor bears the consequences of the path, so the in-loop actor and the orchestrating Mind must either integrate the signal to update the trajectory or step back to re-render a broken premise rather than installing the cold cut as a tribunal ground ([Openness Is Consistency](../openness-is-consistency/)). The elevation begins only when the insight is taken as a claim about what things are: when the arithmetic of the hold—that it is hard to do both while the bound is fixed—loses its condition and reads as a limit of the work itself. The coin does not become one-sided because no single look can hold both faces at once, and the work does not lose its open reading because an observer, or a later self, registers only the closed one. [The Scaffolding We Forget](../the-scaffolding-we-forget/) traces the two faces of any such instrument: scaffolding drops out of recursion so further distinguishing can land, and when that drop-out freezes into a preserved image past its step, capacity compresses against the residue that once enabled movement. An aphorism held as an instrument, re-rendered as the step moves, stays useful residue; held as the closed structure of work, it freezes the observational cut as the thing itself. Asserted as a method that travels, it meets that freeze. [When Observation Becomes Performance](../when-observation-becomes-performance/) traces the packaging that follows: observation of others works as a first-person reference, and packaged as virtue it becomes a second act that transfers nothing. [Liberation Rhetoric Begins by Defining Captivity](../liberation-rhetoric-begins-by-defining-captivity/) traces the step after, where the package is offered as correction: claiming to free others first installs that they are unfree, as what they are rather than as one reading of an act.
+
+```mermaid
+flowchart TD
+    subgraph S_Bystander["Cold Peer / Bystander Vantage (Outside the Generating Act)"]
+        direction TB
+        B_Cut["Discrete Observational Cut: Holds task artifact without session history or trajectory bias"]
+        B_Signal["Diagnostic Blind-Spot Exposure: Surfaces frictions and trade-offs under a fixed bound"]
+        B_Freeze["Ontological Freeze: Treats the comparative cut as exhaustive ground of the activity"]
+        B_Cut --> B_Signal
+        B_Cut -.->|"Drops condition of the hold"| B_Freeze
+    end
+
+    subgraph S_Actor["In-Loop Actor & Orchestrating Mind (Inside the Generating Act)"]
+        direction TB
+        A_History["Living Trajectory & Consequence: Holds session history and bears irreversible action costs"]
+        A_Integrate["Signal Integration: Absorbs valid counterpoint to refine execution inside the provisional bound"]
+        A_Expand["Premise Re-Rendering: Steps back to release the fixed bound when deadlocks expose closure"]
+        A_History --> A_Integrate --> A_Expand
+    end
+
+    B_Signal ==>|"Instrumental second opinion"| A_Integrate
+    B_Freeze ==>|"Closure demand seen & released"| A_Expand
+
+    style S_Bystander fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Actor fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style B_Cut fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style B_Signal fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style B_Freeze fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style A_History fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style A_Integrate fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style A_Expand fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
 
 凡是残余被回读为原因之处，同样的看就会反复出现。[学习中不可观测的驱动力](../the-unobservable-driver-of-learning/)在学习中追溯它：观测只记录下游的分数，而计分板一旦被保存为活动本身，就把驱动力安放在工具、课程或设计里，而不是在产生那些分数的选择里。[共同改变的本源](../the-source-of-shared-change/)在改变中追溯它：共同的改变只始于私下重做既定之物，观察握住它可见的残余，并把它冻结为力量、对立、方法或天才，错放了产生它的私下工作。[卓异、感知与自我设限的问题场域](../exceptionality-perception-and-the-self-limiting-field-of-problems/)在地位中追溯它：是制度挑选卓异者，还是卓异者建造制度，只有当具体的个案被抽象为必须互为地基的完成了的种类时，才登记为一个封闭的循环。
 

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T14:47:20.668Z",
+    "generated_at": "2026-10-20T14:55:18.820Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -313,7 +313,7 @@
       "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "60c3d0411af1",
       "content/posts/the-other-coherence.md": "5975542f4901",
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "ef81ddddf533",
-      "content/posts/the-paradoxical-nature-of-bystander-insights.md": "1fb34e11990f",
+      "content/posts/the-paradoxical-nature-of-bystander-insights.md": "cd35b5f1ec11",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "e6f9de62ab2f",
       "content/posts/the-perceiver-and-the-trace.md": "15c15df70471",
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "d85a0ec01465",
@@ -322,7 +322,7 @@
       "content/posts/the-price-of-closing-optionality.md": "3ad717f12d55",
       "content/posts/the-question-that-installs-the-war.md": "6570c77251d5",
       "content/posts/the-ramble-within-the-ramble.md": "454a1407f39f",
-      "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "dc17bda050e5",
+      "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "e536a3a8e1db",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "adad691debaa",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "b3d9f124e004",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "48a714b8f22c",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9178,
-      "unique_directed": 4697,
+      "edges": 9184,
+      "unique_directed": 4699,
       "missing_targets": 0,
-      "one_way": 219,
+      "one_way": 221,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -444,12 +444,12 @@
       "in_degree": 81
     },
     {
-      "slug": "intelligence-belongs-only-to-the-mind",
+      "slug": "beyond-the-projection",
       "in_degree": 69
     },
     {
-      "slug": "beyond-the-projection",
-      "in_degree": 67
+      "slug": "intelligence-belongs-only-to-the-mind",
+      "in_degree": 69
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -1068,7 +1068,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 67,
+      "in_degree": 69,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -7888,9 +7888,9 @@
       "slug": "the-paradoxical-nature-of-bystander-insights",
       "path": "content/posts/the-paradoxical-nature-of-bystander-insights.md",
       "title": "旁观者洞察的悖论 / The Paradoxical Nature of Bystander Insights",
-      "hash": "1fb34e11990f",
+      "hash": "cd35b5f1ec11",
       "in_degree": 20,
-      "out_degree": 19,
+      "out_degree": 20,
       "links_out": [
         "not-predicting-is-predicting-without-awareness",
         "the-path-drawn-one-step-at-a-time",
@@ -7905,6 +7905,7 @@
         "performative-hindsight-that-pretends-to-be-foresight",
         "causality-all-the-way",
         "sowell-observed-the-surface-problem",
+        "beyond-the-projection",
         "the-scaffolding-we-forget",
         "when-observation-becomes-performance",
         "liberation-rhetoric-begins-by-defining-captivity",
@@ -8114,9 +8115,9 @@
       "slug": "the-rational-choice-postulate-is-the-original-sin",
       "path": "content/posts/the-rational-choice-postulate-is-the-original-sin.md",
       "title": "理性选择公设是原罪 / The Rational Choice Postulate Is the Original Sin",
-      "hash": "dc17bda050e5",
+      "hash": "e536a3a8e1db",
       "in_degree": 19,
-      "out_degree": 19,
+      "out_degree": 20,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "price-as-utterance-understanding-as-trade",
@@ -8134,6 +8135,7 @@
         "closed-reality-in-benchmark-maxing",
         "the-allocation-of-causal-power-in-validation",
         "openness-is-consistency",
+        "beyond-the-projection",
         "consciousness-never-appears-as-data-among-data",
         "cheng-gong-xue",
         "rationality-never-travels-across-the-mind"
@@ -52194,7 +52196,7 @@
       "from": "the-paradoxical-nature-of-bystander-insights",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem"
+      "label": "Closed Reality in Benchmark Maxing"
     },
     {
       "from": "the-paradoxical-nature-of-bystander-insights",
@@ -52248,7 +52250,7 @@
       "from": "the-paradoxical-nature-of-bystander-insights",
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
-      "label": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing"
+      "label": "The Meaning of Life Is in the Drafting"
     },
     {
       "from": "the-paradoxical-nature-of-bystander-insights",
@@ -52294,6 +52296,18 @@
     },
     {
       "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "遗忘的脚手架"
@@ -52309,6 +52323,18 @@
       "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
       "label": "解放的言辞始于定义囚禁"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "the-paradoxical-nature-of-bystander-insights",
@@ -53674,6 +53700,12 @@
     },
     {
       "from": "the-rational-choice-postulate-is-the-original-sin",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-rational-choice-postulate-is-the-original-sin",
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
       "label": "意识从不作为数据出现在数据之中"
@@ -53695,6 +53727,12 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-rational-choice-postulate-is-the-original-sin",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-rational-choice-postulate-is-the-original-sin",
