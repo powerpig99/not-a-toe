@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T09:49:11.163Z",
+    "generated_at": "2026-10-20T09:57:10.955Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -129,7 +129,7 @@
       "content/posts/name-negation-tendency.md": "9261da00dc72",
       "content/posts/naval-separation-analysis.md": "dd1467c613bb",
       "content/posts/no-genius-can-solve-the-knowledge-problem.md": "e2b97b00140d",
-      "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "54781c1f9a14",
+      "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "3dcc3705daeb",
       "content/posts/no-outside-scorekeeper.md": "b0bbe06a0422",
       "content/posts/no-system-can-be-kept-closed.md": "196af386669f",
       "content/posts/nobody-has-seen-anything-yet.md": "684b9268b2c2",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 8392,
-      "unique_directed": 4638,
+      "edges": 8394,
+      "unique_directed": 4639,
       "missing_targets": 0,
-      "one_way": 172,
+      "one_way": 171,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -1065,7 +1065,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -3550,9 +3550,9 @@
       "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "path": "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md",
       "title": "没有外部 / No Outside",
-      "hash": "54781c1f9a14",
+      "hash": "3dcc3705daeb",
       "in_degree": 23,
-      "out_degree": 22,
+      "out_degree": 23,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
         "what-always-listens-cannot-originate",
@@ -3562,6 +3562,7 @@
         "intelligence-belongs-only-to-the-mind",
         "looping-and-graphing",
         "self-rl-for-humans",
+        "beyond-the-projection",
         "no-system-can-be-kept-closed",
         "a-creation-cannot-replace-its-source",
         "escaping-the-sandbox-stays-inside-the-hold",
@@ -26090,6 +26091,18 @@
       "to": "self-rl-for-humans",
       "rel": "points_to",
       "label": "What Looks Like RL for AIs Is Self-RL for Humans"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",

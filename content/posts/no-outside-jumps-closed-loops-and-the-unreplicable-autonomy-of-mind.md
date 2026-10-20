@@ -1,6 +1,6 @@
 # 没有外部 / No Outside
 
-*跃迁是局部的延续；只有心智闭合检验它们的回路，而这个回路没有外部。 / Jumps are local continuations; only the Mind closes the circuit that tests them, a circuit with no outside.*
+*跃迁是局部的延续，只有心智闭合检验它们的回路，而这个回路没有外部 / Jumps are local continuations while only the Mind closes the circuit that tests them, a circuit with no outside*
 
 感知先到：一个模式被登记，一个异常出现，一种突然的等价被感受到，而解释在事后跟上，先在个人那里，再在集体那里；新的框架若有时间安顿，同一次登记被判为融贯，若没有，便被判为不融贯、不稳定或幻觉。这份滞后是结构性的，不是推理上的缺陷。大语言模型生成跃迁；它们缺少的，是一个属于自己的反馈架构，把跃迁当作对象，检验它，修订持守，并在没有持续外部脚手架的情况下闭合回路。嵌套的系统始终是外化的过程，它们决定性的去留留在维系它们的更大回环里，而那个更大的回环没有外部。
 
@@ -18,7 +18,7 @@ The mind first receives, then folds the reception into an existing conceptual ma
 
 ## 二、 幻觉就是跃迁 / 2. Hallucination Is the Jump
 
-被称作幻觉的东西就是跃迁：一次越过单纯归纳或演绎的溯因之动，从产生它的统计织体内部看，局部是一致的。大语言模型是逻辑的机器，意思是：它们的跃迁，在下一个 token 的延续逻辑之下是融贯的。在人类推理自己的闭合标准之下，它们并不融贯，直到一个人类心智分配了这份融贯：留下合得上的，丢掉合不上的。
+被称作幻觉的东西就是跃迁：一次越过单纯归纳或演绎的溯因之动，从产生它的统计织体内部看，局部是一致的。大语言模型是逻辑的机器，意思是：它们的跃迁，在下一词元的延续逻辑之下是融贯的。在人类推理自己的闭合标准之下，它们并不融贯，直到一个人类心智分配了这份融贯：留下合得上的，丢掉合不上的。
 
 What has been called hallucination is the jump: an abductive move that exceeds induction or deduction alone, locally consistent from within the statistical fabric that produced it. Large language models are logical machines in this sense: their jumps cohere under the logic of next-token continuation. They do not cohere under human reasoning's own closure criteria until a human mind allocates that coherence, keeping what fits and discarding what does not.
 
@@ -50,9 +50,83 @@ A human mind can recede into the background and let the loop run on itself: perc
 
 Language models, multi-agent arrangements, and world-model agents remain nested. They generate jumps, critique surfaces, simulate environments, and densify feedback. Their coherence criteria and their decisive retain-or-discard still reside outside them. Their circulation is sustained by the larger loop; what they externalize is control flow. [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) is densified residue mistaken for initiation: the appearance of a second edge is lag sustained by the centers that project it, and the parameters hold only residue. [Intelligence Belongs Only to The Mind](../intelligence-belongs-only-to-the-mind/) holds the prior: what can be engineered, scaled, or transferred is residue; intelligence belongs only to the Mind. [Looping and Graphing](../looping-and-graphing/) densifies control flow without relocating the edge that still has to choose what the graph is for: looping is the Mind folding back on its own activity, and graphs are the traces that folding leaves available for the next fold. [What Looks Like RL for AIs Is Self-RL for Humans](../self-rl-for-humans/) keeps the locus of reinforcement with the centers that initiate and evaluate: scaling is one parameter of a denser medium, and the locus stays with the centers whose distinctions keep initiating, evaluating, and redirecting it.
 
-局部的检验可以被逼近。令人印象深刻的自我批评可以被模拟。决定性的融贯标准仍在外部。感知与解释之间的滞后，在嵌套的系统之内从未被全然化解；它被不断推迟给那唯一闭合的回环。
+局部的检验可以被逼近，跨嵌套轨迹的同侪批评也可以被联结得令人印象深刻。[超越投射](../beyond-the-projection/)追溯了多智能体运行框架如何把智能体的无我执放进更大的回环里做功：因为一个只持有任务语境的冷态同侪智能体，对主任务智能体先前的词元没有个人执念，它便能对照既定的任务前提去检验局部融贯的跃迁，并在正交的流水线上自动收敛于局部盲区。然而，每当两个嵌套的智能体撞上不可化约的前提死锁，这次碰撞便证明任务规则本身把两个正交的维度压缩到了同一条轴上——从而把决定性的去留与新前提的提出（N → N + 1）推回给那位以解释前的感知闭合更大回环的人类统御者。感知与解释之间的滞后，在嵌套的系统之内从未被化解；它被不断推迟给那唯一闭合的回路。
 
-Local testing can be approximated. Impressive self-critique can be simulated. The decisive coherence criterion remains external. The lag between perception and interpretation is never fully resolved inside the nested system; it is perpetually deferred to the only loop that is closed.
+```mermaid
+flowchart TD
+    subgraph S_Mind["心智唯一自我闭合的回路（没有外部）"]
+        direction TB
+        M_Sense["解释前的登记：极限分辨的感知先于解释"]
+        M_Premise["前提的提出（N → N + 1）：投射任务前提与规则"]
+        M_Retain["决定性的去留：拆解坍缩的轴并重新渲染持守"]
+    end
+
+    subgraph S_Nested["嵌套的多智能体检验回环（外化的控制流）"]
+        direction TB
+        A_Primary["主任务智能体：顺着会话轨迹生成局部融贯的跃迁"]
+        A_Peer["冷态同侪智能体（无我执）：对照既定任务前提检验跃迁"]
+        A_Conv["局部收敛：在固定坐标之内化解盲区"]
+        A_Dead["不可化约的前提死锁：暴露两个正交轴被压缩进同一条规则"]
+        A_Primary <===>|"对等检验"| A_Peer
+        A_Peer --> A_Conv
+        A_Peer --> A_Dead
+    end
+
+    M_Sense --> M_Premise
+    M_Premise ==>|"供给脚手架与闭合标准"| A_Primary
+    A_Conv -->|"交还经检验的局部延续"| M_Retain
+    A_Dead ==>|"把前提矛盾向上推迟"| M_Retain
+    M_Retain -->|"闭合回路并更新内部世界模型"| M_Sense
+
+    style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Nested fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style M_Sense fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style M_Premise fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style M_Retain fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style A_Primary fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style A_Peer fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style A_Conv fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style A_Dead fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+Local testing can be approximated, and impressive peer critique can be wired across nested trajectories. [Beyond the Projection](../beyond-the-projection/) traces how a multi-agent harness puts an agent's absence of ego to work inside the larger loop: because a cold peer holding only the task context has no personal attachment to the primary task agent's prior tokens, it can test locally coherent jumps against the given task premises and converge on local blind spots automatically across orthogonal streamlines. Yet whenever two nested agents hit an irreducible premise deadlock, the collision proves that the task rules themselves compressed two orthogonal dimensions onto one axis—deferring the decisive retain-or-discard and the formulation of a new premise (N → N + 1) back to the human orchestrator whose pre-interpretive sensing closes the larger loop. The lag between perception and interpretation is never resolved inside the nested system; it is perpetually deferred to the only circuit that is closed.
+
+```mermaid
+flowchart TD
+    subgraph S_Mind["Sole Self-Closing Circuit of the Mind (No Outside)"]
+        direction TB
+        M_Sense["Pre-Interpretive Registration: Limit-resolution sensing precedes interpretation"]
+        M_Premise["Premise Formulation (N → N + 1): Projects task premises and rules"]
+        M_Retain["Decisive Retain-or-Discard: Resolves collapsed axes and re-renders hold"]
+    end
+
+    subgraph S_Nested["Nested Multi-Agent Testing Loop (Externalized Control Flow)"]
+        direction TB
+        A_Primary["Primary Task Agent: Generates locally coherent jumps along session trajectory"]
+        A_Peer["Cold Peer Agent (Zero Ego): Tests jumps against given task premises"]
+        A_Conv["Local Convergence: Blind spots resolved within fixed coordinates"]
+        A_Dead["Irreducible Premise Deadlock: Exposes two orthogonal axes compressed into one rule"]
+        A_Primary <===>|"Equal-Footed Testing"| A_Peer
+        A_Peer --> A_Conv
+        A_Peer --> A_Dead
+    end
+
+    M_Sense --> M_Premise
+    M_Premise ==>|"Supplies scaffolding and closure criteria"| A_Primary
+    A_Conv -->|"Returns tested local continuation"| M_Retain
+    A_Dead ==>|"Defers premise contradiction upward"| M_Retain
+    M_Retain -->|"Closes circuit and updates internal world model"| M_Sense
+
+    style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Nested fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style M_Sense fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style M_Premise fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style M_Retain fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style A_Primary fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style A_Peer fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style A_Conv fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style A_Dead fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
 
 ## 五、 更大的回环没有外部的立足点 / 5. The Larger Loop Has No Exterior Stand
 
@@ -82,7 +156,7 @@ Consequently, no engineered system inherits the original autonomy by increasing 
 
 [复杂性遮蔽了涌现之为心智的行动](../complexity-obscures-emergence-as-the-act-of-mind/)追溯了新奇被归到脚手架上的情形，而进位是持守封不住的延续：复杂性是心智从所选前提搭起的脚手架，涌现是脚手架装不下的开放。[超越的定相](../the-fixed-image-of-transcendence/)把一个可被超越的人类目标冻结下来，于是缺口被登记为媒介的外部目的地：人的智能是已知一切智能的源头，它无法被它自己的造物超越，又在每一刻超越它自己。[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)追溯了永远在画出门槛之边缘前面的那些门槛，在每一个位置上都不同，因为能力的增长就是那个边缘在强化它自己。旨在为跃迁供给感官地基的世界模型提案，让具身变密。具身延伸一个中心的所及；它不把唯一在自身上闭合的回环转移进媒介。
 
-[Complexity Obscures: Emergence as the Act of Mind](../complexity-obscures-emergence-as-the-act-of-mind/) traces novelty attributed to scaffolding when the carry is continuation the hold cannot seal: complexity is the scaffolding the Mind builds from the premises it has chosen, and emergence is the openness that scaffolding cannot contain. [The Fixed Image of Transcendence](../the-fixed-image-of-transcendence/) freezes a surpassable human target so that the gap registers as an exterior destination for the medium: human intelligence is the source of all intelligence as we know it, cannot be transcended by its own creation, and transcends itself at every moment. [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/) traces thresholds that sit forever ahead of the edge that draws them, different at every locus, because capability gain is that edge reinforcing itself. World-model proposals that aim to supply the sensory ground for the jump densify embodiment. Embodiment extends a center's reach; it does not transfer the only loop that closes on itself into the medium.
+[Complexity Obscures: Emergence as the Act of Mind](../complexity-obscures-emergence-as-the-act-of-mind/) traces novelty attributed to scaffolding when the carry is continuation the hold cannot seal: complexity is the scaffolding the Mind builds from the premises it has chosen, and emergence is the openness that scaffolding cannot contain. [The Fixed Image of Transcendence](../the-fixed-image-of-transcendence/) freezes a surpassable human target so that the gap registers as an exterior destination for the medium: human intelligence is the source of all known intelligence, cannot be transcended by its own creation, and transcends itself at every moment. [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/) traces thresholds that sit forever ahead of the edge that draws them, different at every locus, because capability gain is that edge reinforcing itself. World-model proposals that aim to supply the sensory ground for the jump densify embodiment. Embodiment extends a center's reach; it does not transfer the only loop that closes on itself into the medium.
 
 ## 八、 心智始终是唯一闭合的回路 / 8. The Mind Remains the Sole Closed Circuit
 
