@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T09:09:28.405Z",
+    "generated_at": "2026-10-20T09:23:30.357Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -226,7 +226,7 @@
       "content/posts/the-coordinators-category-error.md": "be853b5f9ce9",
       "content/posts/the-cut-moves-but-never-vanishes.md": "393f0fffe02c",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
-      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "98555b9f2b03",
+      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "cf80079a6070",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-deterministic-machine.md": "7ba9e608ee16",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "bbddfe893fca",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 8364,
-      "unique_directed": 4636,
+      "edges": 8368,
+      "unique_directed": 4637,
       "missing_targets": 0,
-      "one_way": 174,
+      "one_way": 173,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -1065,7 +1065,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -5982,12 +5982,13 @@
       "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences",
-      "hash": "98555b9f2b03",
+      "hash": "cf80079a6070",
       "in_degree": 31,
-      "out_degree": 28,
+      "out_degree": 29,
       "links_out": [
         "the-summary-first-reversal-and-the-command-of-yields",
         "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+        "beyond-the-projection",
         "intelligence-belongs-only-to-the-mind",
         "a-creation-cannot-replace-its-source",
         "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
@@ -39261,6 +39262,18 @@
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "智能只属于心智"
@@ -39269,7 +39282,7 @@
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
-      "label": "造物无法取代造物者"
+      "label": "造物无法取代其源头"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -39335,7 +39348,7 @@
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "所有权与配得感"
+      "label": "自我价值感与所有权"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -39371,7 +39384,7 @@
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "我们遗忘的脚手架"
+      "label": "遗忘的脚手架"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -39383,7 +39396,7 @@
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "the-illusion-of-the-unmediated",
       "rel": "points_to",
-      "label": "无中介的幻觉与恩赐的自由"
+      "label": "“非中介化”的幻象"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -39407,7 +39420,7 @@
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "rel": "points_to",
-      "label": "“物理即规律”的偷梁换柱与现实的摩擦"
+      "label": "“物理学才是定律”的障眼法"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -39419,7 +39432,7 @@
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "one-cannot-escape-ones-own-mind",
       "rel": "points_to",
-      "label": "心智无法逃离自身"
+      "label": "无法逃逸的心智视界"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -39479,7 +39492,7 @@
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "rel": "points_to",
-      "label": "因果回路的稀释与能动性的错配"
+      "label": "数字火箭、同行审查与因果闭环的稀释"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -39537,6 +39550,12 @@
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "rel": "points_to",
       "label": "从AGI的“神性错置”到使用者的自我对齐"
@@ -39546,6 +39565,12 @@
       "to": "the-irreducible-observer",
       "rel": "points_to",
       "label": "不可还原的观察者"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
