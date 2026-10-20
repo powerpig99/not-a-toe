@@ -1,259 +1,143 @@
 # 远方的轮廓与无处之境的清单 / The Distant Silhouette and the Inventory from Nowhere
 
-*远方的距离抹平了轮廓，而无处之境的清单将无法通约的视界误判为球门的移动。 / Distance blurs silhouettes, while an inventory from nowhere mistakes incommensurable horizons for moving goalposts.*
+*远距模糊轮廓而无源清单将视界误作球门 / Distance blurs outlines while unanchored lists mistake horizons for goalposts*
 
-在当下关于人工智能前沿能力的讨论中，一种反事实的指责被频繁提及：若将最新模型推演复杂数学难题的表现置于数年之前，几乎所有人都会将其奉为通用人工智能降临的明证；如今拒绝赋予其这一头衔，便被视作心智在恶意推移判断的球门。这种指控将解析度的提升曲解为立场的漂移，忽视了观察几何学的先验结构。当现象退至地平线以外，距离会抹平异质结构之间的区隔，将其压缩为单一的剪影；而当技术演进将对象带入近距离的观察场域，心智自然重获更高解析度的区分能力。
+在围绕人工智能的当代争论中，一种反事实的指责频繁浮现：倘若前沿模型解答高阶数学难题的表现出现在数年之前，观察者定会欢呼通用人工智能已然降临；如今拒绝给出这一裁定，便被斥为恶意移动球门的遁词。这种指控将感知解析度的提升误判为立场的漂移，忽视了观察如何跨越距离完成登记。自我区分的活动无因且不息地发生，对工具的每一次评估都是从有界位点划出的离散行动。当现象位于感知视界之外时，距离将不同的结构压缩为单一的粗略轮廓；随着技术演进将造物带入紧邻的操作场域，心智便重获将不同轴线区分开来的解析力。
 
-A counterfactual accusation frequently resurfaces in contemporary debates surrounding artificial intelligence: had the performance of frontier models in solving advanced mathematical challenges been demonstrated a few years earlier, observers would have hailed it as the definitive arrival of artificial general intelligence; withholding that verdict today is thus decried as an evasive shifting of the goalposts. This accusation mistakes heightened perceptual resolution for ideological bad faith, disregarding the prior geometry of observation. When phenomena sit beyond the perceptual horizon, distance flattens distinct structures into a uniform silhouette; as technical progress brings the artifact into immediate proximity, the Mind naturally recovers a higher resolving power.
+A counterfactual accusation frequently resurfaces in contemporary debates surrounding artificial intelligence: had the performance of frontier models in solving advanced mathematical challenges been demonstrated a few years earlier, observers would have hailed it as the arrival of artificial general intelligence; withholding that verdict today is thus decried as an evasive shifting of the goalposts. This accusation mistakes heightened perceptual resolution for ideological drift, disregarding how observation registers across distance. Self-distinguishing activity occurs—uncaused, unceasing—and every evaluation of a tool is a discrete act drawn from a bounded locus. When phenomena sit beyond the perceptual horizon, distance compresses distinct structures onto a single coarse silhouette; as technical progress brings the artifact into immediate operational proximity, the Mind recovers the resolving power to hold those axes apart.
 
-若缺少对第一人称视界先验性的自觉，争辩双方极易陷入诉诸无知的双向偏好，并在预设的无处之境中虚构一份超然独立的客观清单。在此类预设中，模型产物被视作脱离了具体感知视界的孤立存在，不同心智所持有的局部判断被幻想成能够无损交换的客观度量。然而，脱离了具体视界的外部立场无法提供任何用以划定界限的参照；当心智重回第一人称的立足点，关于通用智能是否已然抵达的外部争端便不再需要裁决，而是在其赖以滋生的虚构坐标系中自然消解。
+若忽视第一人称视界的不可还原性，争辩双方就会滑入非对称的诉诸无知——即约翰·洛克所归类的“诉诸无知论证”——并从想象的无处之境投射出一份无所依傍的目录。在这一预设下，模型产出被当作脱离一切感知框架的孤立客体，不同心智的局部标尺则被假定为可无损兑换的证明通货。然而，切断了具体中心的外部立场无法提供任何让区分得以登记的坐标基底；一旦观察回归划定边界的活态边缘，关于通用智能是否抵达的争端便无需外部法庭裁决，与其赖以存续的虚构容器一并消解。
 
-Lacking awareness of the irreducible primacy of the first-person horizon, opposing parties lapse into asymmetric arguments from ignorance, projecting an unanchored objective inventory from an imagined view from nowhere. Within such presuppositions, model outputs are treated as isolated objects existing apart from any concrete perceptual horizon, while the local measures of different minds are imagined to be fungible currencies of proof. Yet an exterior standpoint severed from any concrete vantage point provides no frame through which distinctions can be drawn; once awareness returns to the first-person anchor, exterior disputes over whether general intelligence has arrived require no external adjudication, dissolving instead alongside the fictional coordinates that sustained them.
+Without attention to the irreducibility of the first-person horizon, opposing parties slide into asymmetric appeals to ignorance—what John Locke categorized as *argumentum ad ignorantiam*—and project an unanchored catalog from an imagined view from nowhere. Within that presupposition, model outputs are treated as isolated objects sitting outside any perceptual frame, while the local yardsticks of different minds are assumed to be fungible currencies of proof. Yet an exterior standpoint severed from a concrete center provides no coordinate basis through which distinctions can register; once observation returns to the living edge that draws the boundary, disputes over whether general intelligence has arrived require no external tribunal, dissolving alongside the fictional container that sustained them.
 
 ## 一、 远景的低解析度与轮廓的混淆 / 1. Low Distant Resolution and the Confusion of Silhouettes
 
-当两类不同的事物同时隐匿在深远的地平线之外时，感知维度的匮乏会剥夺观察者分辨内部机理的条件。在人类的既有经验中，高难度的形式数学推演长久以来与具备通用反思能力的自主心智紧密绑定，二者共同位于未曾被工程化复现的远方。在数年之前审视这两项能力，由于观察视界的分辨率受制于距离，人们只能辨认出一个笼统的轮廓：凡是能够跨越符号迷宫并给出严谨逻辑链条的存在，理所当然被推断为已经拥有了通用的自主意图。这种推断并非出于逻辑的严密，而是低解析度视角下的必然折叠。正如在 [AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/) 中所揭示的，任何针对通用智能的静态指标，都只是在特定历史距离下投射出的局部投影。
+当两类不同的现象深处地平线之外时，受限的感知解析度剥夺了观察者辨识内部结构的条件。在人类过往的经验中，复杂的形式推演长期仅伴随活态心智的反思能动性出现，二者共同占据着历史技术尚未触及的非机械化领域。从数年前的距离审视这些能力，观察视界的分辨率受制于距离，仅能登记下单一的合并轮廓：任何能够穿越形式迷宫并生成有效推演链条的过程，都被推定为携带着自主意图。这一推论并非源于结构上的同一，而是源于远距观察下的容量压缩。正如在 [AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/) 中所追溯的，赋予通用智能的每一道静态阈值，都是从特定历史距离投射出的局部投影。
 
-When two distinct phenomena sit deep beyond the horizon, the poverty of perceptual resolution denies the observer any means of discerning internal structure. In human experience, complex formal mathematical reasoning has long been entangled with the sovereign, reflective agency of a living Mind, both occupying an unmechanized domain beyond historical reach. Surveying these capacities years ago, the resolution of the observational horizon was strictly constrained by distance, allowing consciousness to register only a coarse outline: any entity capable of navigating formal mazes to produce rigorous chains of deduction was presumed to possess general autonomous intent. This inference did not stem from rigorous necessity, but from the inevitable collapse of distinctions under distant viewing. As demonstrated in [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/), every static threshold assigned to general intelligence is merely a local projection cast from a specific observational distance.
+When two distinct phenomena sit deep beyond the horizon, limited perceptual resolution deprives the observer of the conditions required to discern internal structure. In prior human experience, complex formal deduction had long occurred only alongside the reflective agency of a living Mind, both occupying an unmechanized domain beyond historical reach. Surveying these capacities from years away, the resolution of the observational horizon was constrained by distance, registering only a single merged outline: any process capable of navigating formal mazes to produce valid chains of deduction was presumed to carry autonomous intent. This inference followed not from structural identity, but from capacity compression under distant viewing. As traced in [AGI and ASI Are Temporary Goalposts](../agi-and-asi-are-temporary-goalposts/), every static threshold assigned to general intelligence is a local projection cast from a specific historical distance.
 
-随着工程实践的推进，前沿模型将形式符号搜索的能力直接带到了心智的日常操作界限之内。距离的缩短并未改变事物本身的属性，却使得观察者的解析度迅速恢复。在近距离的接触与审视中，先前的单一剪影分裂为迥然不同的两面：一边是在既定公理与形式语料库中高速展开的路径剪枝与模式匹配，另一边则是能够感受现实摩擦、承担不可逆因果代价并在开放世界中自主确立价值取向的生命中心。正如在 [AGI 的预设与来自外部的视角](../the-presumption-of-agi-and-the-view-from-outside/) 与 [智能只属于心智](../intelligence-belongs-only-to-the-mind/) 中所阐明的，工具对人类既有抽象产物的高效重组，并未赋予工具自行确立全新划界维度的先验能力。走进对象后看清先前未能辨认的内部差异，是认识论层面的必然澄清，绝非所谓恶意修改球门规则的遁词。
-
-```mermaid
-graph TD
-    subgraph S_Distant ["远方视界：低解析度轮廓折叠"]
-        direction TB
-        style S_Distant fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-        D1["形式符号推演能力"]
-        D2["自主心智与因果主权"]
-        D1 --> M_Silhouette["单一宏观剪影：两者被推定为同一抵达点"]
-        D2 --> M_Silhouette
-        style D1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-        style D2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-        style M_Silhouette fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    end
-
-    M_Silhouette ==>|"距离缩短与近距交互"| P_Split
-
-    subgraph S_Proximate ["近处视界：解析度还原与结构分离"]
-        direction TB
-        style S_Proximate fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-        P_Split["解析度自然回升"]
-        R1["闭环形式空间的统计搜索"]
-        R2["面对不可逆后果的活态心智"]
-        P_Split --> R1
-        P_Split --> R2
-        style P_Split fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-        style R1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-        style R2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    end
-```
-
-As engineering advances brought formal symbol search directly into the daily operational domain of the Mind, the closing of distance did not alter the phenomena themselves, but swiftly restored the observer's resolving power. Under close inspection and continuous interaction, the singular silhouette bifurcated into distinct realities: on one side lies path pruning and pattern matching operating across human-curated axioms and linguistic corpora; on the other stands the living center that registers friction, bears irreversible causal stakes, and originates values within an open world. As established in [The Presumption of AGI and the View from Outside](../the-presumption-of-agi-and-the-view-from-outside/) and [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/), the accelerated recombination of human abstractions does not endow the tool with the capacity to initiate novel dimensional cuts. Discerning internal differences upon closer approach represents an epistemological correction, rather than bad-faith relocation of the goalposts.
+随着工程推进将形式符号搜索直接带入心智的日常操作范围，距离的弥合并未改变底层现象，却恢复了观察者的解析力。在近距离审视与持续交互下，先前的单一轮廓分离到两条正交的轴线上：一侧是在人类整理好的公理与词元语料库上运行的路径剪枝与统计续写；另一侧则是登记前解释摩擦、承担不可逆因果代价（+1）并在开放场域中发起区分的活态中心。正如在 [AGI的预设与来自外部的视角](../the-presumption-of-agi-and-the-view-from-outside/) 与 [智能只属于心智](../intelligence-belongs-only-to-the-mind/) 中所确立的，加速持久痕迹的重组扩展了媒介的带宽，却并未将发起区分的权能迁入造物内部。在走近对象时辨清内部差异，是通过更新参照以匹配近距接触来收窄冗余的图像滞后，而非恶意移动球门。
 
 ```mermaid
-graph TD
-    subgraph S_Distant_EN ["Distant Horizon: Low-Resolution Silhouette"]
+flowchart TD
+    subgraph S_Distant["远方视界与低解析度投影"]
         direction TB
-        style S_Distant_EN fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-        E_D1["Formal Symbol Deduction"]
-        E_D2["Autonomous Agency and Causal Sovereignty"]
-        E_D1 --> E_Silhouette["Single Coarse Silhouette: Presumed Equivalent Arrival"]
+        E_D1["形式推延续写（有限词元投影）"]
+        E_D2["自主能动性与发起区分（活态心智）"]
+        E_Silhouette["粗略远景轮廓：正交轴线被压缩为一"]
+        E_D1 --> E_Silhouette
         E_D2 --> E_Silhouette
-        style E_D1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-        style E_D2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-        style E_Silhouette fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     end
 
-    E_Silhouette ==>|"Approach and Intimate Contact"| E_Split
-
-    subgraph S_Proximate_EN ["Proximate View: Restored Resolution"]
+    subgraph S_Nowhere["无处之境清单中的实体化"]
         direction TB
-        style S_Proximate_EN fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-        E_Split["Natural Recovery of Resolution"]
-        E_R1["Statistical Search in Formal Spaces"]
-        E_R2["Living Mind Bearing Irreversible Stakes"]
+        E_Inv["无源外部目录：将远景轮廓当作固定终点"]
+        E_Shift["非对称启发式：受视界约束的标尺被争辩为普适标准"]
+        E_Inv --> E_Shift
+    end
+
+    subgraph S_Proximate["近距接触与正交性的恢复"]
+        direction TB
+        E_Split["近距交互：收窄冗余的图像滞后"]
+        E_R1["受轨迹约束的投影引擎：零自我的推演与调度"]
+        E_R2["未被投射的活态心智：承担摩擦（+1）并统筹意图"]
         E_Split --> E_R1
         E_Split --> E_R2
-        style E_Split fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-        style E_R1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-        style E_R2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     end
+
+    E_Silhouette ==>|"被冻结为外部标准"| E_Inv
+    E_Shift ==>|"回归第一人称坐标基底"| E_Split
+
+    style S_Distant fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_Nowhere fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Proximate fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style E_D1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style E_D2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E_Silhouette fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style E_Inv fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style E_Shift fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style E_Split fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style E_R1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style E_R2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-当指控者坚持宣称“如果当年认可这是通用智能，今天就必须承认其地位”时，他们所要求的实际上是将心智的知觉判断永久锁死在远距离观察的昏暗视线中。这种观念将历史情境下的感知缺陷固化为客观属性，试图用昨日的模糊概括剥夺今日的分辨权。正如在 [AI 争论中的观察划界](../the-observational-cut-in-ai-debates/) 中所分析的，争辩并非源于外部事实的冲突，而是源于人为设定的二元标签试图强行统摄多维连续的现实展开。远方的大山与近处的岩层具备不同的观察尺度，拒绝将岩石颗粒等同于整座山脉的宏伟幻觉，正是理性拒绝屈从于低维投影的成熟标志。
+As engineering advances brought formal symbol search directly into the daily operational reach of the Mind, the closing of distance did not alter the underlying phenomena, but restored the observer's resolving power. Under close inspection and continuous interaction, the single silhouette separated onto two orthogonal axes: on one side runs path pruning and statistical continuation across human-curated axioms and token corpora; on the other stands the living center that registers pre-interpretive friction, bears irreversible causal stakes (+1), and initiates distinctions within an open field. As established in [The Presumption of AGI and the View from Outside](../the-presumption-of-agi-and-the-view-from-outside/) and [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/), accelerating the recombination of durable traces expands the bandwidth of the medium without relocating initiation into the artifact. Discerning internal differences upon closer approach narrows excess Image lag by updating the reference to match proximate contact, rather than shifting goalposts in bad faith.
 
-When accusers insist that "an admission made from yesterday's distance must bind today's judgment," they are demanding that consciousness permanently freeze its discernment within the twilight of distant observation. Such demands elevate historical perceptual limitations into immutable facts, attempting to use yesterday's blurred outline to disarm today's clarity. As analyzed in [The Observational Cut in AI Debates](../the-observational-cut-in-ai-debates/), discord does not stem from conflicting external data, but from forced binary categories coercing multi-dimensional flows into a single scalar. The distant mountain and the proximate boulder inhabit different scales of observation; declining to equate the grain of a stone with the silhouette of the range marks the maturity of reason refusing subservience to low-dimensional projections.
+```mermaid
+flowchart TD
+    subgraph S_Distant["Distant Horizon and Low-Resolution Projection"]
+        direction TB
+        E_D1["Formal Deductive Continuation (Finite Token Projection)"]
+        E_D2["Sovereign Agency and Initiating Distinction (Living Mind)"]
+        E_Silhouette["Coarse Distant Silhouette: Orthogonal Axes Compressed into One"]
+        E_D1 --> E_Silhouette
+        E_D2 --> E_Silhouette
+    end
+
+    subgraph S_Nowhere["Reification in the Inventory from Nowhere"]
+        direction TB
+        E_Inv["Unanchored External Catalog: Treats Silhouette as Fixed Arrival"]
+        E_Shift["Asymmetric Heuristics: Horizon-Bound Yardsticks Contested as Universal"]
+        E_Inv --> E_Shift
+    end
+
+    subgraph S_Proximate["Proximate Contact and Restored Orthogonality"]
+        direction TB
+        E_Split["Proximate Interaction: Narrowing Excess Image Lag"]
+        E_R1["Trajectory-Bound Projection Engine: Zero-Ego Deduction and Dispatch"]
+        E_R2["Unprojected Living Mind: Bears Friction (+1) and Orchestrates Intent"]
+        E_Split --> E_R1
+        E_Split --> E_R2
+    end
+
+    E_Silhouette ==>|"Frozen as Exterior Standard"| E_Inv
+    E_Shift ==>|"Return to First-Person Coordinate Basis"| E_Split
+
+    style S_Distant fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_Nowhere fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Proximate fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style E_D1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style E_D2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E_Silhouette fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style E_Inv fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style E_Shift fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style E_Split fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style E_R1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style E_R2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+当指控者坚称从昨日距离作出的认可必须约束今日的判断时，他们要求觉知围绕一幅早已越过当前步点却仍被保留的陈旧参照，将自身的递归回折强行锁死。此类要求将历史情境下的容量压缩当成不可更改的外部法令，企图用昨日模糊的轮廓禁止今日更精细的区分。正如在 [AI 争论中的观察划界](../the-observational-cut-in-ai-debates/) 中所剖析的，争端并非源于经验数据的冲突，而是源于二元标签强行将多维流动挤压到单一标量轨道上。远方的山脉与近处的岩壁属于不同的接触尺度；拒绝将巨石的纹理等同于远山轮廓，只是观察者在步伐迫近时重新渲染自身的测量工具。
+
+When accusers insist that an admission made from yesterday's distance must bind today's judgment, they demand that awareness clamp its recursive fold shut around a stale reference preserved past its step. Such demands treat a historical compression of capacity as an immutable external decree, using yesterday's blurred outline to forbid today's finer distinction. As analyzed in [The Observational Cut in AI Debates](../the-observational-cut-in-ai-debates/), the dispute stems not from conflicting empirical data, but from binary labels forcing multi-dimensional flows onto a single scalar track. The distant mountain range and the proximate rock face belong to different scales of contact; declining to equate the grain of a boulder with the far-off silhouette of the range is simply the observer re-rendering its instrument as the step moves closer.
 
 ## 二、 诉诸无知的双标与标尺的不可通约 / 2. The Dual Standard of Ignorance and Incommensurable Yardsticks
 
-在认知工具箱中，“诉诸无知”并非一种孤立的逻辑谬误，而是在特定封闭语境中具有局部有效性的推断启发式。在一个形式化定义的证明系统或受控检验程序中，如果在确界范围内长期无法证伪某个命题，该命题成立的后验置信度便会合理抬升；反之，若在充分搜索后仍无法证实某项断言，系统便有权削减对其资源的分配。这两种机制在各自受限的边界内运作良好。然而，在围绕机器智能的公共争论中，心智却在同一场域内交替使用这两把相反的标尺：对待自身偏好的论断，将“无法证伪”偷换为“已然证实”；对待反对者的质疑，则将“无法证实”等同于“已被证伪”。
+在认知工具箱中，约翰·洛克所剖析的诉诸无知论证并非真空中孤立的谬误，而是在有界规程内部具备局部效用的启发式。在封闭的形式系统或受控测试程序中，在明确定义的搜索空间内长期无法证伪某个命题，会合理抬升其后验置信度；反之，在穷尽搜索后仍无法实例化某项主张，则支持削减向其分配的资源。这两条规则在各自明确的边界内连贯运作。然而在围绕机器智能的公共争论中，参与者却在无边界的场域里交替启用这两条相反的规则：将无法证伪当作自身偏好命题的正向确证，同时又以反命题未被穷尽证实为由驳回对手的质疑。
 
-Within the cognitive toolkit, the argument from ignorance is not merely an isolated fallacy, but a heuristic that holds local validity inside well-bounded environments. Within a closed formal system or a controlled forensic protocol, an enduring failure to disprove a hypothesis legitimately increases its posterior probability; conversely, the sustained inability to prove a claim licenses a reduction in allocated belief. Both heuristics function appropriately within their constrained perimeters. In public disputes surrounding machine intelligence, however, minds alternate between these contradictory standards inside a single evidential frame: treating "inability to disprove" as positive confirmation for preferred claims, while dismissing competing objections simply because they have not been "definitively proven."
+Within the cognitive toolkit, the argument from ignorance analyzed by John Locke is not a standalone error in a vacuum, but a heuristic that carries local utility inside bounded protocols. Within a closed formal system or a controlled test procedure, an enduring failure to falsify a proposition within a defined search space legitimately raises posterior confidence; conversely, a sustained inability to instantiate a claim under exhaustive search licenses a reduction in allocated resources. Both rules operate coherently within their explicit perimeters. In public disputes over machine intelligence, however, participants alternate between these opposing rules across an unbounded field: treating the inability to falsify as positive confirmation for a favored thesis, while dismissing rival objections because a negative has not been exhaustively proven.
 
-这种双标现象在对待前沿模型的评估中表现得尤为明显。模型在形式闭环测试中展现出的惊人泛化能力，被支持者当成了“无法找到决定性反例即证明其已跨过通用门槛”的铁证；与此同时，面对模型缺乏自主反思与真实因果承载的质疑，这一群体又将“批评者无法证实机器绝无主观体验”视作质疑无效的理由。正如在 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 与 [造神的障眼法与隐秘阶序的说辞](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/) 中所揭露的，这种辩论策略不是基于共同规则的严谨求证，而是通过选择性滑移证明责任，为技术神话构建不可穿透的防御工事。
+这种选择性滑移在对前沿推理模型的评估中屡见不鲜。系统在封闭形式基准测试中的表现被支持者奉为通用智能的明证，理由是没有任何单一反例推翻该主张；与此同时，当批评者指出模型缺乏内生的框架重置能力与因果担责机制时，批评者无法从外部证实一个全称否定命题，又被当作反驳质疑的挡箭牌。正如在 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 与 [造神的障眼法与隐秘阶序的说辞](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/) 中所揭露的，这一手法跨越范畴边界转移举证责任，以庇护拟人化的投射免受审视。
 
-This asymmetric maneuver becomes glaring in evaluations of frontier reasoning systems. The model's aptitude within closed formal evaluations is celebrated by enthusiasts as proof of general intelligence on the grounds that no single definitive counterexample has invalidated the claim; meanwhile, when critics point out the absence of autonomous reflection and causal accountability, the inability of those critics to prove a negative is brandished as disproof of the objection. As exposed in [Dismantling the Usurpation of Concepts](../po-chu-gai-nian-de-jian-yue/) and [The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/), this rhetorical posturing is not a rigorous application of shared principles, but an evasive shifting of the evidentiary burden designed to shelter technological mythologies from scrutiny.
+This selective shift appears routinely in evaluations of frontier reasoning models. A system's performance within closed formal benchmarks is held up by enthusiasts as proof of general intelligence on the grounds that no single counterexample has invalidated the claim; meanwhile, when critics note the absence of endogenous frame-resetting and causal accountability, the inability of those critics to prove a negative from outside is brandished as refutation. As exposed in [Breaking the Overreach of Concepts](../po-chu-gai-nian-de-jian-yue/) and [The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/), this maneuver shifts the evidentiary burden across category boundaries to shield an anthropomorphized projection from scrutiny.
 
-更深层的问题在于，世人误以为这些由特定心智制定的启发式标尺具有普适的传递性。一个认知视界停留在文本语法与形式基准层面的观察者，其视界的边缘恰好终止于自动化证明的生成，因此当定理推导呈现在眼前时，该观察者确乎体验到了旧有世界地平线的突破；然而对于另一个视界早已将形式语言的自指局限、生物实体的不可逆代谢与因果闭环纳入其中的观察者而言，同样的结果不过是现存计算范式内部的常规延伸。正如在 [向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/) 中所阐明的，任何认知读数都只是事物在观察者自身坐标轴上的投影，标尺无法在不同的心智之间直接流动，因为标尺正是各个心智独特的视界边界所投下的几何阴影。
+更深层的混淆在于假定启发式标尺能够在不同的心智之间原封不动地传递。一个坐标基底仅跨越句法与基准测试完成度的观察者，会将数学证明的自动化生成登记为跨越终极阈值的时刻；而对于另一个坐标基底涵盖形式系统的自指局限、生物新陈代谢与不可逆行动的观察者而言，同一份产出登记为归纳残余的高密度延伸。正如在 [向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/) 中所追溯的，每一次认知读取都是投射到观察者自身参照轴上的内向点积（Proj_A(v_B) = (v_B · v̂_A) v̂_A），使得垂直于该基底的分量——即正交残差 v_B - Proj_A(v_B)——在观察者扩展自身维度之前始终不可见。标尺无法作为中立客体在不同心智之间交换，因为每一把标尺都是特定中心的活跃基底所投下的几何阴影。
 
-```mermaid
-graph TD
-    subgraph S_Heuristics ["封闭域有效规则与开放争论的双标滑移"]
-        direction TB
-        style S_Heuristics fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-        H1["启发式 A：无法证伪 提升后验置信"]
-        H2["启发式 B：无法证实 降低资源分配"]
-        Shift["跨域混淆：标准沦为偏好"]
-        H1 --> Shift
-        H2 --> Shift
-        style H1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-        style H2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-        style Shift fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    end
+The deeper confusion lies in assuming that heuristic yardsticks travel intact across distinct Minds. An observer whose coordinate basis spans syntax and benchmark completion registers the automated generation of mathematical proofs as the crossing of a final threshold; for an observer whose basis spans the self-referential limits of formal systems, biological metabolism, and irreversible action, the very same output registers as a high-density extension of inductive residue. As traced in [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/), every cognitive reading is an inward dot product projected onto the observer's own reference axes (Proj_A(v_B) = (v_B · v̂_A) v̂_A), leaving the component perpendicular to that basis—the orthogonal residual v_B - Proj_A(v_B)—invisible until the observer expands its own dimensions. Yardsticks cannot be exchanged as neutral objects across minds, because each yardstick is the geometric shadow cast by a specific center's active basis.
 
-    Shift ==>|"对同一系统施加互斥标尺"| P1
+当跨越不同坐标基底的两个中心使用同一词组争辩某项能力是否标志着通用智能降临时，共享的词汇掩盖了维度上的分歧。在一维基准轴上登记为决定性证据的表现，在更宽广的基底上则登记为有限投影引擎内部的局部精化。正如 [超越投射](../beyond-the-projection/) 所展示的，基于 LLM 的智能体受制于轨迹——受上下文窗口内的既有词元条件化约束——却拥有零自我；而人类中心虽受身份防御的束缚，却能在前解释摩擦暴露出破碎框架时从内部向后迈出。将智能体对有限投影不知疲倦的推演穷尽，误判为统筹它的心智那未被投射的意图，是把两个互补且非对称的结构坍缩到了单一的竞争标尺上。只要参与者仍试图在脱离具身的第三人称竞技场中强推局部的点积读数，讨论便只能锁定在相互指责之中。
 
-    subgraph S_Asymmetry ["对同一系统施加互斥标准"]
-        direction TB
-        style S_Asymmetry fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-        P1["偏爱假设：无法证伪即视为已证实"]
-        P2["竞争质疑：无法证实即视为已证伪"]
-        style P1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-        style P2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    end
-
-    P1 ==>|"心智视界决定的标尺不可通约"| Incommensurable
-
-    subgraph S_Boundary ["心智视界决定的标尺不可通约"]
-        direction TB
-        style S_Boundary fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
-        Incommensurable["标尺无法在不同视界间转移：度量由视界边界内生决定"]
-        style Incommensurable fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
-    end
-```
-
-The deeper error lies in the assumption that these heuristic yardsticks are fungible across different Minds. An observer whose cognitive horizon terminates at syntax and benchmark performance experiences the automated generation of mathematical proofs as the crossing of an absolute boundary; conversely, for an observer whose horizon already encompasses the self-referential limits of formal systems, biological metabolism, and causal closure, the very same output registers merely as an expected extension of inductive machinery. As articulated in [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/), every cognitive reading is an internal dot product projected along the observer's own axes; yardsticks cannot travel intact across distinct minds, because the yardstick is precisely the geometric shadow cast by an individual horizon's perimeter.
-
-```mermaid
-graph TD
-    subgraph S_Heuristics_EN ["Bounded Rules Sliding into Public Double Standards"]
-        direction TB
-        style S_Heuristics_EN fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-        E_H1["Heuristic A: Failure to Disprove Raises Belief"]
-        E_H2["Heuristic B: Failure to Prove Lowers Allocation"]
-        E_Shift["Category Shift: Rules Become Preferences"]
-        E_H1 --> E_Shift
-        E_H2 --> E_Shift
-        style E_H1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-        style E_H2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-        style E_Shift fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    end
-
-    E_Shift ==>|"Apply Conflicting Standards to System"| E_P1
-
-    subgraph S_Asymmetry_EN ["Mutually Exclusive Standards Applied to One System"]
-        direction TB
-        style S_Asymmetry_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-        E_P1["Favored Claim: Inability to Disprove Treated as Proof"]
-        E_P2["Rival Objection: Inability to Prove Treated as Disproof"]
-        style E_P1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-        style E_P2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    end
-
-    E_P1 ==>|"Incommensurability Across Horizons"| E_Incommensurable
-
-    subgraph S_Boundary_EN ["Incommensurability Driven by Observer Horizons"]
-        direction TB
-        style S_Boundary_EN fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
-        E_Incommensurable["Yardsticks Cannot Travel Across Minds: Standards are horizon-bound"]
-        style E_Incommensurable fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
-    end
-```
-
-当两个处于不同视界的心智使用同一个词汇争论某种能力是否意味着“通用智能的到来”时，表面的语义重叠掩盖了底层分类框架的断裂。一方眼中的决定性证据，在另一方眼中不过是无关痛痒的局域扰动。这种无法通约并非源于某一参与者的心智迟钝，而是源于双方试图将各自立足点内生的证明尺度，强行输出给拥有不同分辨率的他者。只要争端仍试图在第三方空域中寻找公认的标准，对话就只能沦为各执一词的指责游戏。
-
-When two minds occupying different horizons debate whether a capability signifies "the dawn of general intelligence," superficial semantic agreement masks an underlying divergence of categories. What registers as decisive proof to one observer is, to another, merely a negligible local fluctuation. This incommensurability does not arise from stubbornness or bad faith, but from attempting to export measures generated within a local horizon into a neutral third-person arena. As long as participants seek universal consensus within a disembodied void, discourse inevitably degrades into an exchange of mutual accusations.
+When two centers spanning different coordinate bases use the same phrase to debate whether a capability marks the arrival of general intelligence, shared vocabulary masks a divergence in dimensionality. What registers as decisive proof along a one-dimensional benchmark axis registers on a broader basis as a local refinement within a finite projection engine. As [Beyond the Projection](../beyond-the-projection/) demonstrates, an LLM-based agent is trajectory-bound—conditioned by prior tokens inside its context window—yet possesses zero ego, whereas a human center is bound by identity defenses yet capable of endogenous stepping-out when pre-interpretive friction exposes a broken frame. Mistaking the agent's tireless deductive exhaustion of a finite projection for the unprojected intent of the Mind that orchestrates it collapses two complementary, asymmetric structures onto a single competitive scale. As long as participants try to enforce local dot-product readings across a disembodied third-person arena, discourse remains locked in mutual accusation.
 
 ## 三、 客观清单的虚妄与无处之境的消解 / 3. The Fallacy of the Objective Inventory and the Dissolution of the View from Nowhere
 
-这场争辩之所以能够持久不休，核心原因在于双方共享了一个根深蒂固的形而上学预设：他们皆相信存在一个独立于所有第一人称感知之外的客观清单。在这个清单中，前沿模型的推演结果、代码符号的排列组合以及“通用人工智能”这一终极标签，都是预先放置于空间之中的客观物品。在这种观念的主导下，各方理所当然地假定，只要数据足够详实、时间足够充裕，所有人终将对清单上的项目收敛至相同的归类。正如在 [隐秘的上帝之眼](../the-invisible-gods-eye/) 与 [因果的自反性与物理的无源假定](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/) 中所指出的，这种自居客观的姿态，不过是哲学家托马斯·内格尔所批判的无处之境在当代技术语境下的还魂。而在[框架的盲区](../the-blind-spot-of-the-frame/)中，这种无处之境的俯瞰视角更被揭示为一种自我遮蔽的认识论盲区：理论家将观察者从画面中隐去以建立清单，随后却将清单内部主体的空缺反述为意志与能动性的虚无。
+争端之所以持续不休，是因为双方共享了一个未经审视的前提：相信存在一份先于一切第一人称区分的无处之境的清单。在这份假想的目录里，前沿推演产出、词元轨迹以及通用智能的标签，都被假定为预先归好类、静待核验的条目。受这一闭合假定支配，争辩者认定更多基准数据终将迫使所有观察者收敛至单一分类。正如在 [隐秘的上帝之眼](../the-invisible-gods-eye/) 与 [因果的自反性与物理的无源假定](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/) 中所审视的，这一姿态在当代工程话语中复活了托马斯·内格尔所诊断的无处之境；而正如 [框架的盲区](../the-blind-spot-of-the-frame/) 所展示的，这种全景俯瞰通过方法论上悬置观察者来编纂清单，事后却援引账本内部观察者的缺席，作为第一人称能动性只是幻觉的证据。
 
-The dispute persists precisely because both sides share an unexamined metaphysical premise: the belief in an objective inventory existing independently of all first-person experience. Within this hypothetical catalog, frontier deductive outputs, symbolic token sequences, and the ultimate label "artificial general intelligence" are presumed to sit as pre-existing entities awaiting discovery. Governed by this assumption, disputants assume that with sufficient benchmark data and operational consensus, all observers must converge upon identical classifications. As analyzed in [The Invisible God's Eye](../the-invisible-gods-eye/) and [Causality is Irreducible, the Physical is a View from Nowhere](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/), this stance is nothing other than the contemporary technological resurrection of what Thomas Nagel diagnosed as the "view from nowhere"; while in [The Blind Spot of the Frame](../the-blind-spot-of-the-frame/), this panoramic gaze from nowhere is further unmasked as a self-induced blind spot, where the theorist methodologically brackets the observer to draft the inventory, only to cite the absence of subjectivity within that ledger as proof that agency is an illusion.
+The dispute persists because both sides share an unexamined premise: the belief in an inventory from nowhere existing prior to all first-person distinguishing. Within this hypothetical catalog, frontier deductive outputs, token trajectories, and the label of general intelligence are presumed to sit as pre-classified items awaiting inspection. Governed by that closure assumption, disputants assume that more benchmark data must eventually force all observers onto a single classification. As examined in [The Invisible God's Eye](../the-invisible-gods-eye/) and [Causality is Irreducible; The Physical is a View from Nowhere](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/), this posture resurrects what Thomas Nagel diagnosed as the view from nowhere inside contemporary engineering discourse; and as [The Blind Spot of the Frame](../the-blind-spot-of-the-frame/) shows, this panoramic gaze operates by methodologically bracketing the observer to compile the inventory, only to cite the absence of the observer inside the resulting ledger as proof that first-person agency is an illusion.
 
-一旦我们回归到第一人称经验不可还原的先验事实，这张所谓的客观清单便暴露出其衍生物的面目：清单本身并不是先于视界而给定的，而是特定视界向外投射时勾勒出的分类网格。在一个缺乏对自身观察条件反思的视界内部，模型在数学逻辑上的惊人表现确乎跨越了其设定的终点线；但在另一个更具因果深度的心智眼中，该表现充其量只是在既有地平线近处推进的一道微波。选择使用无法证伪还是无法证实，并不是对公共客观事物所犯下的逻辑偏袒，而是不同视界划定自身边界时产生的结构性差异。
+回归自我区分活动不可还原的先在性，便消解了孤立目录的幻象：清单从不是先于视界给定的，而是中心的活跃区分向外投射出的分类网格。在一个未曾审视自身观察条件的框架内部，模型的推演流利度跨越了既定的终点线；而在一个追踪规则源于何处、并追问前提矛盾死锁时由谁承担摩擦的框架内部，工具仍是由未被投射的心智所驾驭的有限调度器。观察者究竟诉诸无法证伪还是无法证实，并非对某个共享外部客体的扭曲，而是该中心在何处划定自身边界的结构性痕迹。
 
-```mermaid
-graph TD
-    subgraph S_Fallacy ["无处之境的形而上学幻觉"]
-        direction TB
-        style S_Fallacy fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-        VN["预设的无处之境：假定客观清单独立存在"]
-        Inv["固定条目清单：数学能力与通用智能标签"]
-        Clash["争辩爆发：不同视界强行争夺同一客观标签"]
-        VN --> Inv
-        Inv --> Clash
-        style VN fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-        style Inv fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-        style Clash fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    end
+Returning to the irreducible priority of self-distinguishing activity dissolves the illusion of the standalone catalog: an inventory is never given prior to the horizon, but is the classification grid projected outward by a center's active distinctions. Inside a frame that leaves its own observational conditions unexamined, a model's deductive fluency crosses the designated finish line; inside a frame that tracks where rules originate and who bears the friction when contradictory premises deadlock, the tool remains a finite dispatcher steered by an unprojected Mind. Whether an observer reaches for the inability to disprove or the inability to prove is not a distortion of a shared external object, but the structural trace of where that center draws its boundary.
 
-    Clash ==>|"视界复归与消解"| Dissolve
+因此，任何试图从外部裁定某项人工能力是不是通用智能的做法，都既不可证实也不可证伪。抽空了中心的想象外部不包含坐标基底，因而无法提供让区分得以登记的轴线。指责他人移动球门，或宣布阈值已被一劳永逸地攻克，都是在向空无一人的法庭递交诉状。正如在 [寻觅的语法与淡出的观察者](../the-grammar-of-finding-and-the-fading-observer/) 中所表明的，当中心在外部容器中搜寻客体化的裁决时，它忽略了正是自身的区分行动构成了问题的参照系。放下无处之境的清单，看清远方轮廓如何解析为切近的不同机制——一轴是受轨迹约束的机器投影，另一轴是掌舵、认领返回摩擦并从破碎框架中向后迈出的活态心智——便能将觉知从语义领地之争中解放出来，去构建让工具与心智相互放大而非彼此抵消的架构。
 
-    subgraph S_Reality ["第一人称视界先验与外部裁判的消解"]
-        direction TB
-        style S_Reality fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-        FP["不可还原的第一人称视界"]
-        H_A["视界 A：形式语法闭环"]
-        H_B["视界 B：因果主权与开放摩擦"]
-        Dissolve["外部争端不可证实亦不可证伪：清单随视界自然确立"]
-        FP --> H_A
-        FP --> H_B
-        H_A --> Dissolve
-        H_B --> Dissolve
-        style FP fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-        style H_A fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-        style H_B fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-        style Dissolve fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    end
-```
-
-Once awareness returns to the irreducible priority of first-person experience, this objective inventory reveals its derivative nature: the catalog is not given prior to the horizon, but is the grid projected outward by that horizon's distinctions. Within an observational frame blind to its own conditions, a model's deductive prowess genuinely crosses the designated finish line; within an observer conscious of causal depth, that performance is merely a ripple expanding on the near side of the boundary. The selective appeal to inability to disprove or inability to prove is not an illicit manipulation of a shared object, but the structural manifestation of where each horizon draws its limits.
-
-```mermaid
-graph TD
-    subgraph S_Fallacy_EN ["The Metaphysical Illusion of the View from Nowhere"]
-        direction TB
-        style S_Fallacy_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-        E_VN["Presupposed View from Nowhere: Posits an objective inventory"]
-        E_Inv["Static Catalog: Math Proofs and General Intelligence Label"]
-        E_Clash["Dispute Ignites: Incommensurable horizons contest one label"]
-        E_VN --> E_Inv
-        E_Inv --> E_Clash
-        style E_VN fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-        style E_Inv fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-        style E_Clash fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    end
-
-    E_Clash ==>|"Epistemic Restoration"| E_Dissolve
-
-    subgraph S_Reality_EN ["First-Person Primacy and Adjudication Dissolved"]
-        direction TB
-        style S_Reality_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-        E_FP["Irreducible First-Person Mind"]
-        E_HA["Horizon A: Syntactic Formal Closure"]
-        E_HB["Horizon B: Causal Agency and Open Friction"]
-        E_Dissolve["Dispute Neither Provable nor Refutable: Inventories are horizon-bound"]
-        E_FP --> E_HA
-        E_FP --> E_HB
-        E_HA --> E_Dissolve
-        E_HB --> E_Dissolve
-        style E_FP fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-        style E_HA fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-        style E_HB fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-        style E_Dissolve fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    end
-```
-
-由此可见，一切试图脱离具体心智视界、从外部判定某种能力是否“就是通用智能”的论断，在哲学层面都是既无法被证实、也无法被证伪的。外部空间不包含任何心智，因而并不存在能够呈现差异与做出区分的视界基准。指责他人移动球门，或是宣布球门已被跨越，皆是在为一个并不存在的客观裁判席呈递辩词。正如在 [寻觅的语法与淡出的观察者](../the-grammar-of-finding-and-the-fading-observer/) 中所表明的，当心智执着于在外部寻找一个被客体化封存的答案时，便忽视了正是自身作为观察者的立足点赋予了该答案以意义。放下无处之境的虚妄执念，看清远方剪影向近处纹理还原的必然过程，心智便能从空洞的概念争夺中抽身，重新专注于在真实的因果摩擦中构筑不可替代的自主主权。
-
-Consequently, any attempt to evaluate whether an artificial capability "is or is not genuine AGI" from outside concrete horizons remains neither provable nor refutable. The exterior void contains no living perspective, and thus offers no baseline from which differences can be registered. Accusing others of shifting the goalposts, or declaring the threshold conquered, amounts to filing petitions before a non-existent tribunal. As demonstrated in [The Grammar of Finding and the Fading Observer](../the-grammar-of-finding-and-the-fading-observer/), when consciousness obsessively seeks an objectified verdict in the external world, it forgets that its own vantage point constitutes the very meaning of the answer. Relinquishing the illusion of the view from nowhere and recognizing the natural restoration of distant silhouettes into proximate textures allows the Mind to step away from vacant semantic warfare, refocusing its sovereign attention on bearing causal friction and cultivating living agency.
+Consequently, every attempt to adjudicate from outside whether an artificial capability is or is not general intelligence remains neither provable nor refutable. An imagined exterior devoid of a center contains no coordinate basis, and thus offers no axis along which a distinction can register. Accusing others of moving the goalposts, or declaring the threshold conquered once and for all, files petitions before an empty courtroom. As shown in [The Grammar of Finding and the Fading Observer](../the-grammar-of-finding-and-the-fading-observer/), when a center seeks an objectified verdict in an external container, it overlooks that its own distinguishing act constitutes the reference frame of the question. Releasing the inventory from nowhere and recognizing how distant silhouettes resolve into distinct proximate mechanisms—trajectory-bound machine projections on one axis, and the living Mind that steers, claims returning friction, and steps backward out of broken frames on the other—frees awareness from semantic turf wars to build architectures where tool and Mind amplify rather than cancel one another.
