@@ -3,14 +3,14 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T08:56:56.239Z",
+    "generated_at": "2026-10-20T09:09:28.405Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
     "sources": {
       "content/posts/Analysis_Adolescence_of_Technology.md": "c0b218c3747d",
       "content/posts/a-creation-cannot-replace-its-source.md": "862ad4195ca4",
-      "content/posts/a-living-external-cortex.md": "19f76ee2f4cf",
+      "content/posts/a-living-external-cortex.md": "8455bda81455",
       "content/posts/a-new-deeper-look-at-antifragility.md": "038c06ecede5",
       "content/posts/abstract-pain-and-living-hunger.md": "2e4f27bcaae8",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "8943c579dc0d",
@@ -27,7 +27,7 @@
       "content/posts/an-observation-by-its-own-standard.md": "c3c67e17cfb2",
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
       "content/posts/beyond-the-hundred-trillion-horizon.md": "7092a6d76ade",
-      "content/posts/beyond-the-projection.md": "15ba28672abe",
+      "content/posts/beyond-the-projection.md": "d02d491ba807",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "af7a00651647",
       "content/posts/causality-all-the-way.md": "bba8516e8a15",
       "content/posts/causality-and-the-irreducible-prior.md": "b0836e2d3ef6",
@@ -407,7 +407,7 @@
       "content/book/causality.md": "3d3c38ed55ed",
       "content/book/consciousness.md": "84e10ab5f9aa",
       "content/book/economics.md": "5f09ac3fbf19",
-      "content/book/index-of-premises.md": "ba143fe34690",
+      "content/book/index-of-premises.md": "874053e5d64f",
       "content/book/intelligence.md": "6654639edeb7",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -419,14 +419,14 @@
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "ac12c411779e",
       "content/book/success-and-the-self.md": "2a59654ea696",
-      "content/book/tools-and-progress.md": "4a259f504af9"
+      "content/book/tools-and-progress.md": "f326c837af48"
     },
     "stats": {
       "posts": 396,
-      "edges": 8356,
-      "unique_directed": 4635,
+      "edges": 8364,
+      "unique_directed": 4636,
       "missing_targets": 0,
-      "one_way": 175,
+      "one_way": 174,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -686,16 +686,17 @@
       "kind": "post",
       "slug": "a-living-external-cortex",
       "path": "content/posts/a-living-external-cortex.md",
-      "title": "A Living External Cortex: The Closest the Image Can Come",
-      "hash": "19f76ee2f4cf",
+      "title": "活的外部皮层 / A Living External Cortex",
+      "hash": "8455bda81455",
       "in_degree": 8,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "looping-and-graphing",
         "ontos-is-a-method-agent",
         "the-living-context",
         "token-efficiency-emulation-and-the-unclosable-gap",
+        "beyond-the-projection",
         "complexity-obscures-emergence-as-the-act-of-mind"
       ]
     },
@@ -1063,8 +1064,8 @@
       "slug": "beyond-the-projection",
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
-      "hash": "15ba28672abe",
-      "in_degree": 8,
+      "hash": "d02d491ba807",
+      "in_degree": 9,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -10186,37 +10187,85 @@
       "from": "a-living-external-cortex",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence belongs only to The Mind"
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "a-living-external-cortex",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
     },
     {
       "from": "a-living-external-cortex",
       "to": "looping-and-graphing",
       "rel": "points_to",
-      "label": "Looping and graphing"
+      "label": "回环与成图"
+    },
+    {
+      "from": "a-living-external-cortex",
+      "to": "looping-and-graphing",
+      "rel": "points_to",
+      "label": "Looping and Graphing"
     },
     {
       "from": "a-living-external-cortex",
       "to": "ontos-is-a-method-agent",
       "rel": "points_to",
-      "label": "Presenting Ontos"
+      "label": "呈现Ontos，一个方法智能体"
+    },
+    {
+      "from": "a-living-external-cortex",
+      "to": "ontos-is-a-method-agent",
+      "rel": "points_to",
+      "label": "Presenting Ontos, a Method Agent"
     },
     {
       "from": "a-living-external-cortex",
       "to": "the-living-context",
       "rel": "points_to",
-      "label": "the living context"
+      "label": "活的语境"
+    },
+    {
+      "from": "a-living-external-cortex",
+      "to": "the-living-context",
+      "rel": "points_to",
+      "label": "The Living Context"
     },
     {
       "from": "a-living-external-cortex",
       "to": "token-efficiency-emulation-and-the-unclosable-gap",
       "rel": "points_to",
-      "label": "token efficiency and the unclosable gap"
+      "label": "Token 效率、模拟与无法弥合的间隙"
+    },
+    {
+      "from": "a-living-external-cortex",
+      "to": "token-efficiency-emulation-and-the-unclosable-gap",
+      "rel": "points_to",
+      "label": "Token Efficiency, Emulation, and the Unclosable Gap"
+    },
+    {
+      "from": "a-living-external-cortex",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "a-living-external-cortex",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "a-living-external-cortex",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
-      "label": "Complexity obscures emergence"
+      "label": "复杂性遮蔽了涌现之为心智的行动"
+    },
+    {
+      "from": "a-living-external-cortex",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
+      "label": "Complexity Obscures Emergence as the Act of Mind"
     },
     {
       "from": "a-new-deeper-look-at-antifragility",
@@ -11908,7 +11957,7 @@
       "from": "beyond-the-projection",
       "to": "a-living-external-cortex",
       "rel": "points_to",
-      "label": "A Living External Cortex: The Closest the Image Can Come"
+      "label": "A Living External Cortex"
     },
     {
       "from": "beyond-the-projection",
@@ -60162,7 +60211,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "ba143fe34690",
+        "hash": "874053e5d64f",
         "out_degree": 396
       },
       {
@@ -60270,7 +60319,7 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "4a259f504af9",
+        "hash": "f326c837af48",
         "out_degree": 33
       }
     ],
@@ -63567,7 +63616,7 @@
         "from": "book:index-of-premises",
         "to": "a-living-external-cortex",
         "rel": "collects",
-        "label": "A Living External Cortex: The Closest the Image Can Come"
+        "label": "活的外部皮层 / A Living External Cortex"
       },
       {
         "from": "book:index-of-premises",
@@ -66723,7 +66772,7 @@
         "from": "book:tools-and-progress",
         "to": "a-living-external-cortex",
         "rel": "collects",
-        "label": "A Living External Cortex: The Closest the Image Can Come"
+        "label": "活的外部皮层 / A Living External Cortex"
       },
       {
         "from": "book:tools-and-progress",

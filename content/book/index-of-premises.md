@@ -3266,7 +3266,7 @@ Retrospective appraisal treats meaning as a score calculated at life's end; mean
 
 Second brain systems accumulate passive repositories of summarized text; a genuine external cortex maintains dynamic causal graphs that actively challenge and feed living thought.
 
-→ [A Living External Cortex: The Closest the Image Can Come](../../posts/a-living-external-cortex/)
+→ [活的外部皮层 / A Living External Cortex](../../posts/a-living-external-cortex/)
 
 ### 生命同源推断与器物投射 / Living Kinship vs Artifact Projection
 `科学 / Scientific`
