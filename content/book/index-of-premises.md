@@ -2870,7 +2870,7 @@ The claim that generative AI harms learning is of use in flagging the cost of su
 
 Formal systems treat contradictions as logical defects; living awareness continuously negates its prior models, generating fresh scaffolding without claiming static closure.
 
-→ [Not a ToE - Retraced](../../posts/not-a-toe-rewrite/)
+→ [非万物之理·重溯 / Not a ToE Retraced](../../posts/not-a-toe-rewrite/)
 
 ### 涌现的几何学认出 / Geometric Recognition of Emergence
 `科学 / Scientific`
