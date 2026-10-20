@@ -1,6 +1,6 @@
 # 无法闭合的痕迹 / The Unclosable Trace
 
-*哲学无法被继承，每一道区分都要由活着的心智重新划出 / Philosophy cannot be inherited, because every distinction has to be drawn again by a living Mind.*
+*哲学无法被继承，每一道区分都要由活着的心智重新划出 / Philosophy cannot be inherited when every distinction is drawn by a living Mind*
 
 每一种形式本体论都始于一次遗忘。它列出存在之物的清单，粒子、范畴、实体、约束变元，却悄悄擦去了在它们之间划线的那只手。把化石当成活物，形而上学便把现实当成一间等待最终编目的密室。可每一份自称完成的清单，都在编目者的位置上到了边界：划线的那只手不在清单里。认真为经验作一次账，得到的不是一份终极理论，而是一道无法闭合的痕迹，每一次认知都重新构成它要解释的那个宇宙。
 
@@ -34,9 +34,9 @@ Faced with the limits of a model, the intellect wants to step outside itself to 
 
 Logic cannot be proven by standing outside it, nor dismantled from somewhere beyond its reach, because any critique uses the very distinguishing and inference it sets out to question. Logic is not an empirical claim on trial; it is the court in which every trial is convened.
 
-所以完备落不了地。[没有系统能被保持封闭](../no-system-can-be-kept-closed/)：每当理论家写出一个包罗万象的体系，这次书写就添了一件新事实，理论本身的存在，以及持有它的那位活着的理论家。这件新事实又要被纳入，要求再画一道痕迹，后者又要求下一道。[维度即投影](../dimensions-are-projections/)里，这就是从 N 到 N + 1 的那一步，一步接一步。这个过程无法闭合：它不是一份会终止的清单，而是一串迭代，每一道痕迹都成为需要重新追溯的新材料。
+所以完备落不了地。[没有系统能被保持封闭](../no-system-can-be-kept-closed/)：每当理论家写出一个包罗万象的体系，这次书写就添了一件新事实，理论本身的存在，以及持有它的那位活着的理论家。这件新事实又要被纳入，要求再画一道痕迹，后者又要求下一道。[维度即投影](../dimensions-are-projections/)里，这就是从 N 到 N + 1 的那一步，一步接一步。即便这道痕迹由自动推演引擎来承载，[超越投射](../beyond-the-projection/)也指出了为何没有任何有限投射或词元轨迹能靠自己闭合回路：智能体只在既定规则与条件历史的坐标边界内运行，一旦正交的要求在有限框架内相撞并陷入死锁，唯有活着的心智才能退回未投射的意图，划出解开矛盾的第 N + 1 道区分。这个过程无法闭合：它不是一份会终止的清单，而是一串迭代，每一道痕迹都成为需要重新追溯的新材料。
 
-So completeness never lands. [No System Can Be Kept Closed](../no-system-can-be-kept-closed/): whenever a theorist writes an all-encompassing system, the writing adds a new fact, the existence of the theory itself and of the living theorist who holds it. That new fact has to be taken in, which calls for another trace, which calls for the next. In [Dimensions Are Projections](../dimensions-are-projections/) this is the step from N to N + 1, taken again and again. The process cannot close: it is not a list that terminates but an iteration in which every trace becomes fresh material to be traced again.
+So completeness never lands. [No System Can Be Kept Closed](../no-system-can-be-kept-closed/): whenever a theorist writes an all-encompassing system, the writing adds a new fact, the existence of the theory itself and of the living theorist who holds it. That new fact has to be taken in, which calls for another trace, which calls for the next. In [Dimensions Are Projections](../dimensions-are-projections/) this is the step from N to N + 1, taken again and again. Even when the trace is carried by an automated deduction engine, [Beyond the Projection](../beyond-the-projection/) shows why no finite projection or token trajectory can close the loop on its own: an agent runs strictly within the coordinate boundary of its given rules and conditioning history, so when orthogonal requirements collide and deadlock inside that finite frame, only the living Mind can step back into unprojected intent to draw the (N + 1)-th distinction that resolves the contradiction. The process cannot close: it is not a list that terminates but an iteration in which every trace becomes fresh material to be traced again.
 
 ## 三、 追溯经典的脚印 / 3. Tracing the Canonical Footprints
 
@@ -80,19 +80,20 @@ Chalmers saw one thing clearly: even if every third-person mechanical, neural an
 
 ```mermaid
 flowchart TD
-    subgraph S_Source["源头"]
+    subgraph S_Source["源头（未投射的活边缘）"]
         direction TB
-        L1["活的洞见：在边界上进行的哲学思考"]
+        L1["活的洞见：在边界上进行的哲学思考（步入新维度的区分）"]
     end
-    subgraph S_Cargo["学术货物"]
+    subgraph S_Cargo["学术与算法货物（有限投射）"]
         direction TB
-        L2["成文的学说：某某主义，某部文本"]
-        L3["建制里的教学：整理历史脚印的课程大纲"]
-        L4["学生的消费：背诵痕迹的痕迹"]
+        L2["成文的学说：某某主义、某部文本或显式规则集"]
+        L3["建制的编排：整理历史脚印的课程大纲或轨迹"]
+        L4["被动消费：背诵或自动续写痕迹的痕迹"]
     end
-    L1 ==>|"第一次离开：结晶"| L2
+    L1 ==>|"第一次离开：结晶为既有坐标"| L2
     L2 -->|"第二次离开：策展"| L3
     L3 -->|"第三次离开：被动接受"| L4
+    L4 -.->|"摩擦下的死锁呼唤活着的心智重新追溯"| L1
     style S_Source fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Cargo fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style L1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -105,19 +106,20 @@ This also explains why the institutional study of philosophy so often feels far 
 
 ```mermaid
 flowchart TD
-    subgraph S_Source["The source"]
+    subgraph S_Source["The Source (Unprojected Living Edge)"]
         direction TB
-        L1["Living insight: philosophizing at the boundary"]
+        L1["Living insight: philosophizing at the boundary (N → N + 1)"]
     end
-    subgraph S_Cargo["Academic cargo"]
+    subgraph S_Cargo["Academic & Algorithmic Cargo (Finite Projection)"]
         direction TB
-        L2["Codified doctrine: an ism, a text"]
-        L3["Institutional teaching: a syllabus curating historical footprints"]
-        L4["Student consumption: memorizing the trace of a trace"]
+        L2["Codified doctrine: an ism, a text, or an explicit rule set"]
+        L3["Institutional curation: a syllabus or trajectory of historical footprints"]
+        L4["Passive consumption: memorizing or autocompleting the trace of a trace"]
     end
-    L1 ==>|"First departure: crystallization"| L2
+    L1 ==>|"First departure: crystallization into N coordinates"| L2
     L2 -->|"Second departure: curation"| L3
     L3 -->|"Third departure: passive reception"| L4
+    L4 -.->|"Deadlock under friction calls for a living Mind to re-trace"| L1
     style S_Source fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Cargo fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style L1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -136,9 +138,9 @@ The fourth is the inversion of scaffolding. [The Scaffolding We Forget](../the-s
 
 ## 五、 活的追逐 / 5. The Living Chase
 
-与现实打交道，无法作为既定内容来教，只能作为一种姿态来实践。[没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/)：老师无法让切割在另一个意识里发生，文本也无法像往空杯里倒水那样把理解倒进去。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)：纸上的文字，在一个活着的心智亲自运行这道区分、拿自己的经验去检验边界、冒着走进矛盾的风险之前，一直是惰性的。
+与现实打交道，无法作为既定内容来教，只能作为一种姿态来实践。[没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/)：老师无法让切割在另一个意识里发生，文本也无法像往空杯里倒水那样把理解倒进去。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)：纸上的文字与语境窗口里的词元，在一个活着的心智亲自运行这道区分、拿自己的经验去检验边界、冒着走进矛盾的风险之前，一直是惰性的残余。
 
-Engaging with reality cannot be taught as settled content; it can only be practised as a stance. [No Universal Salvation, Only Self-Deliverance](../mei-you-pu-du-zhi-you-zi-du/): a teacher cannot make the cut happen in another consciousness, and a text cannot pour understanding in like water into an empty glass. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/): words on the page stay inert until a living mind runs the distinction itself, tests the boundaries against its own experience, and takes the risk of stepping into contradiction.
+Engaging with reality cannot be taught as settled content; it can only be practised as a stance. [No Universal Salvation, Only Self-Deliverance](../mei-you-pu-du-zhi-you-zi-du/): a teacher cannot make the cut happen in another consciousness, and a text cannot pour understanding in like water into an empty glass. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/): words on the page and tokens in a context window stay inert residue until a living Mind runs the distinction itself, tests the boundaries against its own experience, and takes the risk of stepping into contradiction.
 
 “非万物之理”并不打算建一座收罗一切存在的百科博物馆。心智画下的每一道痕迹都是暂时的，是一条有用的临时边界，照亮局部的结构，却从不冻结整体。让这道痕迹保持敞开的姿态，写在[非万物之理](../manifesto-of-not-a-theory-of-everything/)里。
 
