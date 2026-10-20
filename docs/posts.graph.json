@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T17:30:59.437Z",
+    "generated_at": "2026-10-20T17:32:32.516Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -297,7 +297,7 @@
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "1cc729bed0a9",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "fd3f9916d247",
       "content/posts/the-mirage-of-the-infinite-totality.md": "591249e563df",
-      "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "f89cd9fc108e",
+      "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "e91e8817edf2",
       "content/posts/the-mirror-handshake-of-power.md": "d87437fc547d",
       "content/posts/the-misallocation-of-agency.md": "1e59326959da",
       "content/posts/the-model-never-becomes-a-second-edge.md": "7710e4d64684",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9384,
-      "unique_directed": 4748,
+      "edges": 9386,
+      "unique_directed": 4749,
       "missing_targets": 0,
-      "one_way": 270,
+      "one_way": 271,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 117
+      "in_degree": 118
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1070,7 +1070,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 117,
+      "in_degree": 118,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -7555,15 +7555,16 @@
       "slug": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "path": "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md",
       "title": "时间之箭的伪悖论与对称模拟的边界 / The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation",
-      "hash": "f89cd9fc108e",
+      "hash": "e91e8817edf2",
       "in_degree": 12,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "choice-itself-has-no-inherent-weight",
         "agency-does-not-arise",
         "the-explanatory-trap-of-the-ordinary-perspective",
         "the-summary-first-reversal-and-the-command-of-yields",
         "openness-is-consistency",
+        "beyond-the-projection",
         "the-boundary-of-perception-and-the-infinity-of-understanding",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "the-myth-of-the-four-dimensional-deer-and-the-present-model",
@@ -51079,21 +51080,9 @@
     },
     {
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
-      "to": "openness-is-consistency",
-      "rel": "points_to",
-      "label": "开放即一致"
-    },
-    {
-      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
-      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
-      "rel": "points_to",
-      "label": "感知的界限与理解的无限"
-    },
-    {
-      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "to": "the-explanatory-trap-of-the-ordinary-perspective",
       "rel": "points_to",
-      "label": "The Explanatory Trap of the Ordinary Perspective"
+      "label": "The Explanatory Trap of the \"Ordinary Perspective\""
     },
     {
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
@@ -51105,7 +51094,31 @@
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "to": "openness-is-consistency",
       "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "rel": "points_to",
+      "label": "感知的界限与理解的无限"
+    },
+    {
+      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
       "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
@@ -51129,7 +51142,7 @@
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "rel": "points_to",
-      "label": "The Sleight of Hand in \"Physics Is the Law\" and the Friction of Reality"
+      "label": "The Sleight of Hand in \"Physics Is the Law\""
     },
     {
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
@@ -51169,15 +51182,15 @@
     },
     {
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
-      "to": "fixed-by-nothing",
-      "rel": "points_to",
-      "label": "没有固定者的固定"
-    },
-    {
-      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "to": "one-cannot-escape-ones-own-mind",
       "rel": "points_to",
       "label": "One Cannot Escape One's Own Mind"
+    },
+    {
+      "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "fixed-by-nothing",
+      "rel": "points_to",
+      "label": "没有固定者的固定"
     },
     {
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
