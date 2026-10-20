@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T15:13:25.757Z",
+    "generated_at": "2026-10-20T15:22:46.694Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -16,7 +16,7 @@
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "290f14f205cc",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "c2666cda8483",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "842babd14bbf",
-      "content/posts/agency-does-not-arise.md": "be4298154380",
+      "content/posts/agency-does-not-arise.md": "197fc86a6d73",
       "content/posts/agency-relocated-into-the-formal-model.md": "c961561b57a8",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "07f79977b3e7",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9204,
-      "unique_directed": 4705,
+      "edges": 9206,
+      "unique_directed": 4706,
       "missing_targets": 0,
-      "one_way": 227,
+      "one_way": 228,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -445,7 +445,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 75
+      "in_degree": 76
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -828,9 +828,9 @@
       "slug": "agency-does-not-arise",
       "path": "content/posts/agency-does-not-arise.md",
       "title": "主体性不曾涌现 / Agency Does Not Arise",
-      "hash": "be4298154380",
+      "hash": "197fc86a6d73",
       "in_degree": 19,
-      "out_degree": 17,
+      "out_degree": 18,
       "links_out": [
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
         "complexity-obscures-emergence-as-the-act-of-mind",
@@ -844,6 +844,7 @@
         "one-cannot-escape-ones-own-mind",
         "consciousness-never-appears-as-data-among-data",
         "zi-you-de-ce-bu-zhun",
+        "beyond-the-projection",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
@@ -1068,7 +1069,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 75,
+      "in_degree": 76,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -11252,7 +11253,7 @@
       "from": "agency-does-not-arise",
       "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
       "rel": "points_to",
-      "label": "涌现的伪因果与集体归因倒错"
+      "label": "涌现的伪因果"
     },
     {
       "from": "agency-does-not-arise",
@@ -11262,27 +11263,27 @@
     },
     {
       "from": "agency-does-not-arise",
+      "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "rel": "points_to",
+      "label": "The Pseudo-Causality of Emergence"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
+      "label": "Complexity Obscures Emergence as the Act of Mind"
+    },
+    {
+      "from": "agency-does-not-arise",
       "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "rel": "points_to",
-      "label": "决定论是微观非决定论的统计特征"
+      "label": "确定性是微观不确定性的统计签名"
     },
     {
       "from": "agency-does-not-arise",
       "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "rel": "points_to",
       "label": "时间之箭的伪悖论与对称模拟的边界"
-    },
-    {
-      "from": "agency-does-not-arise",
-      "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
-      "rel": "points_to",
-      "label": "Emergence as Pseudo-Causality and Collective Attribution Error"
-    },
-    {
-      "from": "agency-does-not-arise",
-      "to": "complexity-obscures-emergence-as-the-act-of-mind",
-      "rel": "points_to",
-      "label": "Complexity Obscures: Emergence as the Act of Mind"
     },
     {
       "from": "agency-does-not-arise",
@@ -11306,19 +11307,19 @@
       "from": "agency-does-not-arise",
       "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "rel": "points_to",
-      "label": "物理学不是律法，现实的摩擦才是"
+      "label": "“物理学才是定律”的障眼法"
     },
     {
       "from": "agency-does-not-arise",
       "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "rel": "points_to",
-      "label": "Isomorphism of Free Variables and A Priori Sovereignty"
+      "label": "The Isomorphism of Free Variables and Prior Sovereignty"
     },
     {
       "from": "agency-does-not-arise",
       "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "rel": "points_to",
-      "label": "Physics Is Not the Law, the Friction of Reality Is"
+      "label": "The Sleight of Hand in \"Physics Is the Law\""
     },
     {
       "from": "agency-does-not-arise",
@@ -11330,7 +11331,7 @@
       "from": "agency-does-not-arise",
       "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "rel": "points_to",
-      "label": "因果不可化约，物理学是从无处而来的视角"
+      "label": "因果的自反性与物理的无源假定"
     },
     {
       "from": "agency-does-not-arise",
@@ -11342,19 +11343,31 @@
       "from": "agency-does-not-arise",
       "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "rel": "points_to",
-      "label": "Causality Is Irreducible: The Physical Is a View from Nowhere"
+      "label": "Causality Is Irreducible; The Physical Is a View from Nowhere"
     },
     {
       "from": "agency-does-not-arise",
       "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
       "rel": "points_to",
-      "label": "笛卡尔的边界越界与造神狂热"
+      "label": "笛卡尔的认识论跃迁与造神狂热"
     },
     {
       "from": "agency-does-not-arise",
       "to": "one-cannot-escape-ones-own-mind",
       "rel": "points_to",
       "label": "无法逃逸的心智视界"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
+      "rel": "points_to",
+      "label": "The Cartesian Epistemic Leap and the Frenzy of Creation"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "one-cannot-escape-ones-own-mind",
+      "rel": "points_to",
+      "label": "One Cannot Escape One's Own Mind"
     },
     {
       "from": "agency-does-not-arise",
@@ -11370,18 +11383,6 @@
     },
     {
       "from": "agency-does-not-arise",
-      "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
-      "rel": "points_to",
-      "label": "The Cartesian Overstep and the Frenzy of Creation"
-    },
-    {
-      "from": "agency-does-not-arise",
-      "to": "one-cannot-escape-ones-own-mind",
-      "rel": "points_to",
-      "label": "One Cannot Escape One's Own Mind"
-    },
-    {
-      "from": "agency-does-not-arise",
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
       "label": "Consciousness Never Appears as Data Among Data"
@@ -11390,7 +11391,13 @@
       "from": "agency-does-not-arise",
       "to": "zi-you-de-ce-bu-zhun",
       "rel": "points_to",
-      "label": "The Uncertainty Principle of Freedom"
+      "label": "The Uncertainty of Freedom"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
     },
     {
       "from": "agency-does-not-arise",
@@ -11402,7 +11409,7 @@
       "from": "agency-does-not-arise",
       "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
       "rel": "points_to",
-      "label": "协议的反置与因果闭环的噤声"
+      "label": "规程的倒置与因果回路的消声"
     },
     {
       "from": "agency-does-not-arise",
@@ -11412,15 +11419,9 @@
     },
     {
       "from": "agency-does-not-arise",
-      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "to": "beyond-the-projection",
       "rel": "points_to",
-      "label": "感知的界限与理解的无限"
-    },
-    {
-      "from": "agency-does-not-arise",
-      "to": "subtracting-consciousness-at-the-source",
-      "rel": "points_to",
-      "label": "集聚与人造主体性"
+      "label": "Beyond the Projection"
     },
     {
       "from": "agency-does-not-arise",
@@ -11439,6 +11440,18 @@
       "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
       "rel": "points_to",
       "label": "All That Can Be Spoken Is the Product of the Unspeakable"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "rel": "points_to",
+      "label": "感知的界限与理解的无限"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "subtracting-consciousness-at-the-source",
+      "rel": "points_to",
+      "label": "集聚与人造主体性"
     },
     {
       "from": "agency-does-not-arise",
