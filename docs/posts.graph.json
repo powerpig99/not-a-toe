@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T16:45:44.182Z",
+    "generated_at": "2026-10-20T16:52:19.116Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -299,7 +299,7 @@
       "content/posts/the-mirage-of-the-infinite-totality.md": "591249e563df",
       "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "f89cd9fc108e",
       "content/posts/the-mirror-handshake-of-power.md": "d87437fc547d",
-      "content/posts/the-misallocation-of-agency.md": "0da1123e67af",
+      "content/posts/the-misallocation-of-agency.md": "1e59326959da",
       "content/posts/the-model-never-becomes-a-second-edge.md": "7710e4d64684",
       "content/posts/the-moral-reversal-and-the-scripted-subject.md": "a614ebfdfda8",
       "content/posts/the-myth-of-population-collapse-explained.md": "afe20651bc61",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9342,
-      "unique_directed": 4735,
+      "edges": 9344,
+      "unique_directed": 4736,
       "missing_targets": 0,
-      "one_way": 257,
+      "one_way": 258,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 104
+      "in_degree": 105
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1070,7 +1070,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 104,
+      "in_degree": 105,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -7584,9 +7584,9 @@
       "slug": "the-misallocation-of-agency",
       "path": "content/posts/the-misallocation-of-agency.md",
       "title": "能动性的错配 / The Misallocation of Agency",
-      "hash": "0da1123e67af",
+      "hash": "1e59326959da",
       "in_degree": 14,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "expertise-as-reference-not-replacement",
@@ -7595,6 +7595,7 @@
         "the-coordinators-category-error",
         "a-creation-cannot-replace-its-source",
         "the-mind-that-statistics-cannot-reveal",
+        "beyond-the-projection",
         "empowerment-establishes-the-centralization-of-power",
         "residual-individualism",
         "freedom-as-ground",
@@ -51014,7 +51015,7 @@
       "from": "the-misallocation-of-agency",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "Individual Choices as the Only Causal Levers"
     },
     {
       "from": "the-misallocation-of-agency",
@@ -51032,13 +51033,13 @@
       "from": "the-misallocation-of-agency",
       "to": "expertise-as-reference-not-replacement",
       "rel": "points_to",
-      "label": "Expertise as reference, not replacement"
+      "label": "Expertise as Reference, Not Replacement"
     },
     {
       "from": "the-misallocation-of-agency",
       "to": "what-always-listens-cannot-originate",
       "rel": "points_to",
-      "label": "What always listens cannot originate"
+      "label": "What Always Listens Cannot Originate"
     },
     {
       "from": "the-misallocation-of-agency",
@@ -51050,7 +51051,7 @@
       "from": "the-misallocation-of-agency",
       "to": "price-as-utterance-understanding-as-trade",
       "rel": "points_to",
-      "label": "Price as utterance, understanding as trade"
+      "label": "Price as Utterance, Understanding as Trade"
     },
     {
       "from": "the-misallocation-of-agency",
@@ -51074,19 +51075,31 @@
       "from": "the-misallocation-of-agency",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
-      "label": "The coordinator’s category error"
+      "label": "The Coordinator's Category Error"
     },
     {
       "from": "the-misallocation-of-agency",
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
-      "label": "A creation cannot replace its source"
+      "label": "A Creation Cannot Replace Its Source"
     },
     {
       "from": "the-misallocation-of-agency",
       "to": "the-mind-that-statistics-cannot-reveal",
       "rel": "points_to",
       "label": "The Mind That Statistics Cannot Reveal"
+    },
+    {
+      "from": "the-misallocation-of-agency",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-misallocation-of-agency",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-misallocation-of-agency",
@@ -51110,13 +51123,13 @@
       "from": "the-misallocation-of-agency",
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
-      "label": "Empowerment establishes the centralization of power"
+      "label": "Empowerment Establishes the Centralization of Power"
     },
     {
       "from": "the-misallocation-of-agency",
       "to": "residual-individualism",
       "rel": "points_to",
-      "label": "Residual individualism"
+      "label": "Residual Individualism"
     },
     {
       "from": "the-misallocation-of-agency",
@@ -51146,7 +51159,7 @@
       "from": "the-misallocation-of-agency",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
-      "label": "Causality stays at the edge that steers"
+      "label": "Causality Stays at the Edge That Steers"
     },
     {
       "from": "the-misallocation-of-agency",
