@@ -1554,7 +1554,7 @@ Rational choice theory presumes preference structures consistent and shared enou
 
 RL presumes an external reward function drives optimal policy convergence; machines optimize proxy scalar rewards, whereas humans retain sovereignty to redefine the reward function.
 
-→ [What Looks Like RL for AIs Is Self-RL for Humans](../../posts/self-rl-for-humans/)
+→ [看似AI的强化学习，实为人类的自我强化学习 / What Looks Like RL for AIs Is Self-RL for Humans](../../posts/self-rl-for-humans/)
 
 ### 时间之箭的可逆性伪悖论 / Reversibility Paradox of Time
 `科学 / Scientific`
@@ -3581,7 +3581,7 @@ Judgment language presumes that right and wrong are coordinates standing above a
 
 Language models simulate intentional dialogue by anticipating human queries; continuous reactive answering mirrors external prompts, lacking the sovereign capacity to initiate purpose.
 
-→ [What Always Listens Cannot Originate](../../posts/what-always-listens-cannot-originate/)
+→ [总在倾听者无法发起 / What Always Listens Cannot Originate](../../posts/what-always-listens-cannot-originate/)
 
 ### 非定论的智能界定 / Non-Definitive Intelligence
 `哲学 / Philosophical`
