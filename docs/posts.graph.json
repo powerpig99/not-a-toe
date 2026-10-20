@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T18:59:47.857Z",
+    "generated_at": "2026-10-20T19:00:46.840Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -190,7 +190,7 @@
       "content/posts/stability-and-excess.md": "be1572ece751",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "909c9d0b7fac",
       "content/posts/subtracting-consciousness-at-the-source.md": "6851328e4676",
-      "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "6c83b39b6e3f",
+      "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "a78981c24425",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "8def0ea22390",
       "content/posts/technology-is-residual-of-human-compounding.md": "94f3293d393b",
       "content/posts/the-allocation-of-causal-power-in-validation.md": "f3c8e3c7b4a1",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9501,
-      "unique_directed": 4778,
+      "edges": 9503,
+      "unique_directed": 4779,
       "missing_targets": 0,
-      "one_way": 300,
+      "one_way": 301,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 145
+      "in_degree": 146
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1073,7 +1073,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 145,
+      "in_degree": 146,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -5175,9 +5175,9 @@
       "slug": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "path": "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md",
       "title": "同情是缺乏清晰时的占位符 / Sympathy Is a Placeholder for Lack of Clarity",
-      "hash": "6c83b39b6e3f",
+      "hash": "a78981c24425",
       "in_degree": 9,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "mei-you-pu-du-zhi-you-zi-du",
         "the-npc-impression-is-structural",
@@ -5186,6 +5186,7 @@
         "emotional-support-as-causal-interference",
         "therapy-opens-the-feedback-loop",
         "guidance-is-not-ownership",
+        "beyond-the-projection",
         "clarity-isnt-a-state-you-arrive-at",
         "reality-is-the-minds-ongoing-realization"
       ]
@@ -38187,13 +38188,13 @@
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。"
+      "label": "没有普渡，只有自渡的无限可能"
     },
     {
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "to": "the-npc-impression-is-structural",
       "rel": "points_to",
-      "label": "NPC 印象是结构性的"
+      "label": "NPC 印象是结构性的，而非心智的排名"
     },
     {
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
@@ -38266,6 +38267,18 @@
       "to": "guidance-is-not-ownership",
       "rel": "points_to",
       "label": "Guidance Is Not Ownership"
+    },
+    {
+      "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
