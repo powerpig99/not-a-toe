@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T13:00:39.125Z",
+    "generated_at": "2026-10-20T13:04:26.139Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -166,7 +166,7 @@
       "content/posts/qian-yin-hou-guo.md": "5e7319c649c6",
       "content/posts/rationality-never-travels-across-the-mind.md": "082e1416eae1",
       "content/posts/reality-doesnt-invoice-by-committee.md": "e577ce5f5f88",
-      "content/posts/reality-is-the-minds-ongoing-realization.md": "a747a5b7de02",
+      "content/posts/reality-is-the-minds-ongoing-realization.md": "366872eae4b8",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "cd3ec066c2f8",
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "f85879109b9b",
       "content/posts/residual-control-recedes-to-the-edge.md": "48dea51167fd",
@@ -407,7 +407,7 @@
       "content/book/causality.md": "8e1dd347f9fa",
       "content/book/consciousness.md": "84e10ab5f9aa",
       "content/book/economics.md": "0208ea9246ef",
-      "content/book/index-of-premises.md": "1b99a7756f6d",
+      "content/book/index-of-premises.md": "182ccd046b4d",
       "content/book/intelligence.md": "728830704d58",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 8952,
-      "unique_directed": 4662,
+      "edges": 8954,
+      "unique_directed": 4663,
       "missing_targets": 0,
-      "one_way": 188,
+      "one_way": 189,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -481,7 +481,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 35
+      "in_degree": 36
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
@@ -1067,7 +1067,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 35,
+      "in_degree": 36,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -4587,9 +4587,9 @@
       "slug": "reality-is-the-minds-ongoing-realization",
       "path": "content/posts/reality-is-the-minds-ongoing-realization.md",
       "title": "现实是心智持续的实现 / Reality Is the Mind's Ongoing Realization",
-      "hash": "a747a5b7de02",
+      "hash": "366872eae4b8",
       "in_degree": 25,
-      "out_degree": 25,
+      "out_degree": 26,
       "links_out": [
         "the-question-that-installs-the-war",
         "why-explanation-fails",
@@ -4598,6 +4598,7 @@
         "sympathy-is-a-placeholder-for-lack-of-clarity",
         "intelligence-belongs-only-to-the-mind",
         "the-scaffolding-we-forget",
+        "beyond-the-projection",
         "how-to-fix-your-whole-life-in-one-split-second",
         "openness-is-consistency",
         "no-system-can-be-kept-closed",
@@ -34057,13 +34058,25 @@
       "from": "reality-is-the-minds-ongoing-realization",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence Belongs Only to The Mind"
+      "label": "Intelligence Belongs Only to the Mind"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "reality-is-the-minds-ongoing-realization",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
@@ -63765,7 +63778,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "1b99a7756f6d",
+        "hash": "182ccd046b4d",
         "out_degree": 396
       },
       {
@@ -67446,7 +67459,7 @@
         "from": "book:index-of-premises",
         "to": "reality-is-the-minds-ongoing-realization",
         "rel": "collects",
-        "label": "Reality Is the Mind's Ongoing Realization"
+        "label": "现实是心智持续的实现 / Reality Is the Mind's Ongoing Realization"
       },
       {
         "from": "book:index-of-premises",

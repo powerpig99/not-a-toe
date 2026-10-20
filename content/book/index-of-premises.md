@@ -3644,7 +3644,7 @@ Substance metaphysics presumes isolated physical objects exist prior to relation
 
 Naive realism treats reality as a prefabricated museum awaiting passive inspection; reality manifests dynamically as conscious centers encounter friction and draw fresh distinctions.
 
-→ [Reality Is the Mind's Ongoing Realization](../../posts/reality-is-the-minds-ongoing-realization/)
+→ [现实是心智持续的实现 / Reality Is the Mind's Ongoing Realization](../../posts/reality-is-the-minds-ongoing-realization/)
 
 ### 开放认识论的一致性 / Open Epistemic Consistency
 `哲学 / Philosophical`
