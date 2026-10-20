@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T16:26:04.633Z",
+    "generated_at": "2026-10-20T16:27:32.975Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -124,7 +124,7 @@
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "a52cffd96585",
       "content/posts/moral-language-as-projection.md": "980a9f624f21",
-      "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "a515d6b3ff1c",
+      "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "695143cf5cc4",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "9261da00dc72",
       "content/posts/naval-separation-analysis.md": "dd1467c613bb",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9324,
-      "unique_directed": 4728,
+      "edges": 9328,
+      "unique_directed": 4729,
       "missing_targets": 0,
-      "one_way": 250,
+      "one_way": 251,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -441,7 +441,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 97
+      "in_degree": 98
     },
     {
       "slug": "openness-is-consistency",
@@ -1069,7 +1069,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 97,
+      "in_degree": 98,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -3495,11 +3495,12 @@
       "slug": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "path": "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md",
       "title": "道德语言稀释自由复利的反馈 / Moral Language Dilutes the Feedback That Scales Freedom",
-      "hash": "a515d6b3ff1c",
+      "hash": "695143cf5cc4",
       "in_degree": 14,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "ownership-and-self-worthiness",
+        "beyond-the-projection",
         "how-to-fix-your-whole-life-in-one-split-second",
         "preference-clusters-and-the-language-of-judgment",
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
@@ -27497,9 +27498,21 @@
     },
     {
       "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "to": "how-to-fix-your-whole-life-in-one-split-second",
       "rel": "points_to",
       "label": "如何在一瞬间修正你的整个人生"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
@@ -27635,6 +27648,12 @@
     },
     {
       "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "to": "residual-individualism",
       "rel": "points_to",
       "label": "剩余个人主义"
@@ -27644,6 +27663,12 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness Is Consistency"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
