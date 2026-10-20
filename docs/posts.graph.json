@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T13:04:26.139Z",
+    "generated_at": "2026-10-20T13:08:24.904Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -74,7 +74,7 @@
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "acd5f06bc9da",
       "content/posts/evil-as-the-minds-own-creation.md": "a9c673ba9b78",
-      "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "1650c2360801",
+      "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "0e71949f226c",
       "content/posts/expertise-as-reference-not-replacement.md": "f8b327557f8e",
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
@@ -336,7 +336,7 @@
       "content/posts/the-reversal-of-education-and-science.md": "d9695fb75dbc",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "2d09f85512fb",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "e4da611b6c1d",
-      "content/posts/the-scaffolding-that-keeps-growing.md": "e1c61ea74805",
+      "content/posts/the-scaffolding-that-keeps-growing.md": "0270bdbc7b9a",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "96bcbd7b1d66",
       "content/posts/the-scaffolding-we-forget.md": "eaa9420f4956",
       "content/posts/the-scaling-loop.md": "d0b0e395ca2c",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 8954,
-      "unique_directed": 4663,
+      "edges": 8960,
+      "unique_directed": 4665,
       "missing_targets": 0,
-      "one_way": 189,
+      "one_way": 191,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -476,12 +476,12 @@
       "in_degree": 39
     },
     {
-      "slug": "causality-all-the-way",
-      "in_degree": 37
+      "slug": "beyond-the-projection",
+      "in_degree": 38
     },
     {
-      "slug": "beyond-the-projection",
-      "in_degree": 36
+      "slug": "causality-all-the-way",
+      "in_degree": 37
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
@@ -1067,7 +1067,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 36,
+      "in_degree": 38,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -2218,9 +2218,9 @@
       "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "path": "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md",
       "title": "卓异、感知与自我设限的问题场域 / Exceptionality, Perception, and the Self-Limiting Field of Problems",
-      "hash": "1650c2360801",
+      "hash": "0e71949f226c",
       "in_degree": 25,
-      "out_degree": 25,
+      "out_degree": 26,
       "links_out": [
         "causality-all-the-way",
         "causality-stays-at-the-edge-that-steers",
@@ -2237,6 +2237,7 @@
         "help-is-half-the-problem",
         "when-the-effect-authors-the-frame",
         "externalized-virtue-becomes-its-opposite",
+        "beyond-the-projection",
         "empowerment-establishes-the-centralization-of-power",
         "preference-clusters-and-the-language-of-judgment",
         "the-climate-problem-registers-only-as-perception",
@@ -8444,9 +8445,9 @@
       "slug": "the-scaffolding-that-keeps-growing",
       "path": "content/posts/the-scaffolding-that-keeps-growing.md",
       "title": "持续生长的脚手架 / The Scaffolding That Keeps Growing",
-      "hash": "e1c61ea74805",
+      "hash": "0270bdbc7b9a",
       "in_degree": 25,
-      "out_degree": 25,
+      "out_degree": 26,
       "links_out": [
         "openness-is-consistency",
         "the-scaffolding-we-forget",
@@ -8459,6 +8460,7 @@
         "whatever-is-one-prompt-away",
         "agi-and-asi-are-temporary-goalposts",
         "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
+        "beyond-the-projection",
         "why-mathematics-can-never-be-solved",
         "deceleration-is-the-drag-felt-when-accelerating",
         "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
@@ -19251,6 +19253,30 @@
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
       "label": "Externalized Virtue Becomes Its Opposite"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "因果停留在掌舵的边缘"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality Stays at the Edge That Steers"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
@@ -54758,7 +54784,7 @@
       "from": "the-scaffolding-that-keeps-growing",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
-      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
+      "label": "Clarity Isn't a State You Arrive At"
     },
     {
       "from": "the-scaffolding-that-keeps-growing",
@@ -54806,13 +54832,19 @@
       "from": "the-scaffolding-that-keeps-growing",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
+      "label": "AGI and ASI Are Temporary Goalposts"
     },
     {
       "from": "the-scaffolding-that-keeps-growing",
       "to": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
       "rel": "points_to",
       "label": "Knowing That You Don't Know Is a Rhetorical Illusion"
+    },
+    {
+      "from": "the-scaffolding-that-keeps-growing",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
     },
     {
       "from": "the-scaffolding-that-keeps-growing",
@@ -54825,6 +54857,12 @@
       "to": "deceleration-is-the-drag-felt-when-accelerating",
       "rel": "points_to",
       "label": "减速是加速时感受到的阻力"
+    },
+    {
+      "from": "the-scaffolding-that-keeps-growing",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-scaffolding-that-keeps-growing",

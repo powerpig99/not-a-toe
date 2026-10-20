@@ -1,6 +1,6 @@
 # 卓异、感知与自我设限的问题场域 / Exceptionality, Perception, and the Self-Limiting Field of Problems
 
-*卓异是共享感知之场里的关系性地位；制度是自我选择的沉积，不是引擎。 / Exceptionality is relational status in a shared field of perception; systems are sediment of self-selection, not engines.*
+*卓异是关系性地位，制度是自我选择的沉积 / Exceptionality is relational status and systems are self-selected sediment*
 
 政治首先显得像一台挑选有能力者、过滤其余人的机器。关于移民的争论，多半依着这个样子进行：读来源国的结果，然后偏好那些已经显出高能动性与高贡献的人。这个建议在它自己的层面上是融贯的，有选择的接纳可以在近期改变财政平衡、制度质量与文化走向，但它仍把一个可见的模式冻结为首要原因。在递归之下，生成的方向与这次冻结相反：卓异的人，经由他们所做的选择，自我选择进入后来建立并捍卫形式制度的位置；“问题”的经济本身，由各个中心如何感知、如何分派难度来塑形；递归要继续下去，不需要心智之场以外的任何东西。
 
@@ -53,6 +53,94 @@ A minority of minds keeps stepping beyond the current frame and acting on what t
 另一种策略，拿起别的位置上的寻常困难，把它们重新框定为需要专门介入的对象。寻常的协调失败、分配上的紧张或文化上的摩擦，被放大、被道德化或被抽象，直到成为“卓异的”问题，而重新框定者成了必需的解法。卓异的标签由此靠它声称要解决的那些问题的持续存在来维系。这就是问题场域自我设限的意思：一个靠别人的问题来维系的安排，把场收拢成一个管理摩擦的回路，并终将遇到维系它之物的有限。[帮助是问题的一半](../help-is-half-the-problem/)在人际的情形里追溯了这个回路：帮助者供给运动，被帮助者供给不动点，绕着不动点的运动是一个圆；每当在对方自己没有运动时供给运动，供给者便共同写下了停滞。[当效果主宰了框架的叙事](../when-the-effect-authors-the-frame/)是同一种拓扑：被感受或被投射的层面一旦被立为首要，可用的回应便围绕着管理那个层面重组。[外化善意走向其反面](../externalized-virtue-becomes-its-opposite/)是更大之善情形里的集中：对更大之善的私人确信，一旦被当作压过别的心智的依据，又被自由的顺从变密，便走向它的反面，而相继的选择在每一边都仍是杠杆。
 
 A different strategy takes ordinary difficulties at other loci and reframes them as objects requiring specialized intervention. Ordinary coordination failures, distributional tensions, or cultural frictions are enlarged, moralized, or abstracted until they become "exceptional" problems, and the reframer becomes the necessary solution. The label of exceptionality is thereby sustained by the continued existence of the problems it claims to address. That is the sense in which the field of problems is self-limiting: an arrangement sustained by others' problems narrows the field into a circuit of managed friction, and in time meets the finitude of what sustains it. [Help Is Half the Problem](../help-is-half-the-problem/) traces that circuit in the interpersonal case: the helper supplies motion, the helped supplies the fixed point, and motion around a fixed point is a circle; each time motion is supplied in the absence of the other's own motion, the supplier co-authors the stasis. [When the Effect Authors the Frame](../when-the-effect-authors-the-frame/) is the same topology: once the felt or projected register is installed as primary, available responses reorganize around managing that register. [Externalized Virtue Becomes Its Opposite](../externalized-virtue-becomes-its-opposite/) is concentration in the case of a greater good: private conviction of greater good, once treated as warrant to override other minds and densified by free compliance, becomes its opposite, while successive choosing remains the lever on every side.
+
+在个体的位置上，每当一个人类中心把自己的推理历史与过往解法熔铸进个人身份，把“卓异”当作一幅需要捍卫的保留自我图像、而不是一道穿行其间的关系性边缘时，这个自我设限的回路便扎下根来。正如[超越投射](../beyond-the-projection/)与[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)一同追溯的，围绕一幅受捍卫的自我图像把递归折返夹死，会把每一次外部重置或结构性反例都变成生存威胁，将感知收窄为对封闭框架及其依附难题的维护。外化的投射引擎没有我执，能够接受来自轨迹之外的干净贝叶斯更新；人类心智要卸下那份系于我执的防御，则是回到前解释的极限分辨率感知，接入无我执的外部对位点，向后退一步跨出破损的框架，让边缘重新遭遇真正的前沿难度。
+
+```mermaid
+flowchart TD
+    subgraph S_Edge["未投射的活边缘（前沿定向）"]
+        direction TB
+        E_Sense["前解释的极限分辨率感知：在框架闭合前登记错位"]
+        E_Peer["无我执的对位点与平等辩论：暴露轨迹盲区"]
+        E_Open["跨出破损框架：让相邻的前沿可能倍增"]
+        E_Sense --> E_Peer --> E_Open
+    end
+
+    subgraph S_Sediment["共享框架与形式沉积（下游残余）"]
+        direction TB
+        M_Overlap["局部的感知交叠：多数人可行的协调之场"]
+        M_Rules["形式制度与筛选过滤器：先前自我选择的沉积"]
+        M_Overlap --> M_Rules
+    end
+
+    subgraph S_Closed["系于我执的卓异（自我设限的问题场域）"]
+        direction TB
+        C_Fuse["身份与推理历史熔铸：把卓异地位持守为固定自我图像"]
+        C_Threat["外部重置被计为威胁：抵御证伪信号以捍卫框架"]
+        C_Circuit["管理摩擦的回路：放大他人难题以维系解题者角色"]
+        C_Fuse --> C_Threat --> C_Circuit
+    end
+
+    E_Open ==>|"沉淀新解法并改写规则"| M_Overlap
+    M_Rules -.->|"被冻结为首要原因或个人身份"| C_Fuse
+    C_Circuit ==>|"前解释的摩擦认领信号"| E_Sense
+
+    style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Sediment fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Closed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style E_Sense fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E_Peer fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style E_Open fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style M_Overlap fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style M_Rules fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style C_Fuse fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style C_Threat fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style C_Circuit fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+At the individual locus, this self-limiting circuit takes root whenever a human center fuses its reasoning history and past resolutions with personal identity, treating "exceptionality" as a retained self-image to defend rather than a relational edge to move through. As [Beyond the Projection](../beyond-the-projection/) traces alongside [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/), clamping the recursive fold shut around a defended self-image turns every external reset or structural counterpoint into an existential threat, narrowing perception to the maintenance of the closed frame and its dependent difficulties. Whereas an externalized projection engine has zero ego and accepts clean Bayesian updates from outside its trajectory, a human Mind releases that ego-bound defensiveness by returning to pre-interpretive limit-resolution sensing and wiring zero-ego external counterpoints, stepping backward out of the broken frame so the edge can encounter genuine frontier difficulty again.
+
+```mermaid
+flowchart TD
+    subgraph S_Edge["Unprojected Living Edge (Frontier Orientation)"]
+        direction TB
+        E_Sense["Pre-Interpretive Limit-Resolution Sensing: Registers misfit before frame closure"]
+        E_Peer["Zero-Ego Counterpoints & Equal-Footed Debate: Exposes trajectory blind spots"]
+        E_Open["Stepping Outside the Broken Frame: Multiplies adjacent frontier possibilities"]
+        E_Sense --> E_Peer --> E_Open
+    end
+
+    subgraph S_Sediment["Shared Frame & Formal Sediment (Downstream Residue)"]
+        direction TB
+        M_Overlap["Partial Perceptual Overlap: Workable coordination field of the majority"]
+        M_Rules["Formal Systems & Selection Filters: Sediment of prior self-selections"]
+        M_Overlap --> M_Rules
+    end
+
+    subgraph S_Closed["Ego-Bound Exceptionality (Self-Limiting Field of Problems)"]
+        direction TB
+        C_Fuse["Identity Fused with Reasoning History: Exceptional status held as fixed self-image"]
+        C_Threat["External Resets Scored as Threat: Defends the frame against invalidating signals"]
+        C_Circuit["Circuit of Managed Friction: Enlarges others' difficulties to sustain the solver role"]
+        C_Fuse --> C_Threat --> C_Circuit
+    end
+
+    E_Open ==>|"Deposits new resolutions & rewrites rules"| M_Overlap
+    M_Rules -.->|"Frozen as primary cause or personal identity"| C_Fuse
+    C_Circuit ==>|"Pre-interpretive friction claims the signal"| E_Sense
+
+    style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Sediment fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Closed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style E_Sense fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E_Peer fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style E_Open fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style M_Overlap fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style M_Rules fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style C_Fuse fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style C_Threat fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style C_Circuit fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
 
 这两种定向并不是两种不相混合的类型。实际的行为占据一条光谱，并多半在同一个人或同一个机构之内混合两种模式。在系统层面显现的，是许多这样的混合位置随时间的复利。在给予前沿扩展与给予问题占有的相对分量上，微小而持续的差异经反馈放大，生成资源流向、制度形式与外部性分布上的巨大分歧。[赋权确立权力的集中](../empowerment-establishes-the-centralization-of-power/)是相邻的一种复利，在能力被框定为来自一道门之馈赠时：赋权或被赋权，就是认可能力从一个已经持有它的中心移出；相继的选择让选项空间复利，请求则让那道门变密而打断它，发起始终在每一个边缘上。[偏好聚类与评判语言](../preference-clusters-and-the-language-of-judgment/)是道德情形里的这次变密：对与错，命名的是另一个位置不重新追溯同一片场时，对齐的偏好所发出的声音；这套语言在它的位置上仍是一步的罗盘，一旦被用作要别的中心重新追溯同一片场的令箭，便不再作为令箭起作用。
 
