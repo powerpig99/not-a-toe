@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T14:10:16.924Z",
+    "generated_at": "2026-10-20T14:16:16.874Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -255,7 +255,7 @@
       "content/posts/the-generative-topology-of-free-variables.md": "bd4117e215d3",
       "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "15b9e01b6512",
       "content/posts/the-geometry-of-emergence.md": "83486d0d6ee3",
-      "content/posts/the-geometry-of-mind.md": "a95e23e95963",
+      "content/posts/the-geometry-of-mind.md": "f120d7ed77ff",
       "content/posts/the-geometry-of-success.md": "720f46e5d2cd",
       "content/posts/the-geometry-of-the-cut.md": "ae41a43f7e1a",
       "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "8b4bd95500b8",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9109,
-      "unique_directed": 4685,
+      "edges": 9113,
+      "unique_directed": 4686,
       "missing_targets": 0,
-      "one_way": 209,
+      "one_way": 210,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -456,12 +456,12 @@
       "in_degree": 58
     },
     {
-      "slug": "the-model-never-becomes-a-second-edge",
+      "slug": "beyond-the-projection",
       "in_degree": 57
     },
     {
-      "slug": "beyond-the-projection",
-      "in_degree": 56
+      "slug": "the-model-never-becomes-a-second-edge",
+      "in_degree": 57
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -1068,7 +1068,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 56,
+      "in_degree": 57,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -6680,9 +6680,9 @@
       "slug": "the-geometry-of-mind",
       "path": "content/posts/the-geometry-of-mind.md",
       "title": "心智的几何学 / The Geometry of Mind",
-      "hash": "a95e23e95963",
+      "hash": "f120d7ed77ff",
       "in_degree": 19,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "the-boundary-of-the-frame",
         "time-is-causality-not-a-dimension",
@@ -6694,6 +6694,7 @@
         "the-mind-as-vector-and-coordinate-system",
         "the-extendable-horizon",
         "the-scaffolding-we-forget",
+        "beyond-the-projection",
         "the-continuum-is-a-modeling-convenience",
         "the-continuum-of-the-fold",
         "ownership-and-self-worthiness",
@@ -45852,13 +45853,13 @@
       "from": "the-geometry-of-mind",
       "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "rel": "points_to",
-      "label": "在数学里有它的用处"
+      "label": "潜无限与数学思维的暂时闭合"
     },
     {
       "from": "the-geometry-of-mind",
       "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "rel": "points_to",
-      "label": "has its use in mathematics"
+      "label": "Potential Infinity and the Temporary Closures of Mathematical Thought"
     },
     {
       "from": "the-geometry-of-mind",
@@ -45928,9 +45929,21 @@
     },
     {
       "from": "the-geometry-of-mind",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-geometry-of-mind",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-geometry-of-mind",
@@ -45978,7 +45991,7 @@
       "from": "the-geometry-of-mind",
       "to": "what-information-is",
       "rel": "points_to",
-      "label": "信息"
+      "label": "信息是什么"
     },
     {
       "from": "the-geometry-of-mind",
@@ -45990,13 +46003,13 @@
       "from": "the-geometry-of-mind",
       "to": "what-information-is",
       "rel": "points_to",
-      "label": "information"
+      "label": "What Information Is"
     },
     {
       "from": "the-geometry-of-mind",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "没有普渡，只有自渡"
+      "label": "没有普渡，只有自渡的无限可能"
     },
     {
       "from": "the-geometry-of-mind",
@@ -46018,6 +46031,18 @@
     },
     {
       "from": "the-geometry-of-mind",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-geometry-of-mind",
       "to": "the-only-coherent-uncaused-effect",
       "rel": "points_to",
       "label": "唯一自洽的无因之果"
@@ -46030,6 +46055,12 @@
     },
     {
       "from": "the-geometry-of-mind",
+      "to": "manifesto-of-not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "非万物之理"
+    },
+    {
+      "from": "the-geometry-of-mind",
       "to": "the-only-coherent-uncaused-effect",
       "rel": "points_to",
       "label": "The Only Coherent Uncaused Effect"
@@ -46039,12 +46070,6 @@
       "to": "the-arithmetic-of-the-register",
       "rel": "points_to",
       "label": "The Arithmetic of the Register"
-    },
-    {
-      "from": "the-geometry-of-mind",
-      "to": "manifesto-of-not-a-theory-of-everything",
-      "rel": "points_to",
-      "label": "非万物之理"
     },
     {
       "from": "the-geometry-of-mind",

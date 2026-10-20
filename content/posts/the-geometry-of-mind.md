@@ -1,113 +1,195 @@
 # 心智的几何学 / The Geometry of Mind
 
-*成长既不是加固自我，也不是抹去自我，而是让感知的探针重新对准整个生成的场 / Growth is neither fortifying the ego nor erasing it, but re-aligning the sensing probe with the whole generative field.*
+*成长既非给自我披甲也非将其抹去，而是将校准探针对准生成场 / Growth neither armors nor erases the ego, aligning the probe with the field*
 
-一个开放、自持的现实，不能坐在一个外部的容器里；从第一人称的原点去追，能找到的只有因果一步接一步地、自指地展开。在这个生成的结构里，人的意识搭起一个低维的界面，并在其中投射出一个自我形象：它不是一个本体上的身份，而是一个没有质量的仪器校准原点。最常见的错位，是把模拟里的这枚探针，当成了运行模拟的那个生成的场；传统的智慧早已觉察到这一点，却常常在落地时转向苦行的寂灭或退隐的静默。
+一个开放、自持的现实，无法安放在外部容器之中；从第一人称的原点追溯，呈现出来的唯有自我区分的活动借由递归因果一步接一步地展开。在这片生成的场域内，意识投射出低维坐标界面，并在其中保留一个参照点，它不是本体论意义上的身份，而是一枚无质量的仪器校准探针。混淆始于一个中心把模拟界面里的局部探针误认为驱动模拟的活边缘；古老的观修传统很早就诊断出这一错位，却常在实践中滑向两个极端，要么在静默退隐中抹杀这枚传感器，要么给它披上抵御反馈的盔甲。
 
-An open, self-sustaining reality cannot sit inside an external container; traced from the first-person origin, all that is found is causality unfolding step by step, referring to itself. Within this generative structure, human consciousness builds a low-dimensional interface and projects a self-image into it: not an ontological identity but a massless calibration origin for an instrument. The most common misplacement is taking this probe inside the simulation for the generative field running it; traditional wisdom sensed this long ago, yet in practice often swerved into ascetic extinction or quietist withdrawal.
+An open, self-sustaining reality cannot sit inside an external container; traced from the first-person origin, what registers is self-distinguishing activity unfolding step by step through its own recursive causality. Within this generative field, consciousness casts a low-dimensional coordinate interface and projects a retained reference into it—not an ontological identity, but a massless calibration probe for an instrument. Confusion begins when a center mistakes this local probe inside the simulation for the living edge running it, a misplacement that ancient contemplative traditions diagnosed early yet often answered by either annihilating the sensor in quietist withdrawal or armoring it against feedback.
 
-## 一、 宇宙论的前提：自指与块状宇宙 / 1. The Cosmological Precondition: Self-Reference and the Block Universe
+## 一、 自指与块状宇宙 / 1. Self-Reference and the Block Universe
 
-块状宇宙把四维时空当成一整块冻结的存在，过去、现在、未来并列不移。在相对论的几何里，这幅图是有力的计算工具。[框架的边界](../the-boundary-of-the-frame/)看到了它的边界：把一个工程化的数学表征当成了地形本身。块状宇宙要把一整段高度有结构的宇宙史当作无因的既成事实收下，却不说明为什么偏偏是这一种几何；它宣称存在的输出带已经写完，却否认了写出它所需的运行；它还需要一个外部的创造者、程序员或容器来设定边界条件，只是把起源的问题推到了框外。
+块状宇宙将四维时空建模为一整块冻结的流形，过去、现在与未来在其中并列排布。在相对论计算中，这幅几何图景是不可或缺的工程脚手架，但正如[框架的边界](../the-boundary-of-the-frame/)所追溯的，一旦把数学地图误作地形本身，它便触及了自身的边界。若被当作本体论，块状宇宙必须把一整段结构精密的宇宙史当作静态的既成事实全盘收下，却无法说明为何偏偏是这条轨迹而非其他轨迹存在；它宣称存在的输出磁带早已写就，却抹去了写出磁带所需的生成运行，把边界条件的问题推给一个想象出来的外部程序员或容器。
 
-The block universe treats four-dimensional spacetime as one frozen block of existence, past, present and future lying side by side. In the geometry of relativity, this picture is a powerful tool of calculation. [The Boundary of the Frame](../the-boundary-of-the-frame/) sees its boundary: an engineered mathematical representation taken for the terrain itself. The block universe must accept a whole, highly structured cosmic history as an uncaused given, without saying why it is this geometry and not another; it declares the output tape of existence already written while denying the run that would write it; and it needs an outside creator, programmer or container to set its boundary conditions, which only pushes the question of origin outside the frame.
+The block universe models four-dimensional spacetime as a single frozen manifold in which past, present, and future lie side by side. Within relativistic calculation, this geometric picture serves as an indispensable engineering scaffold, yet as [The Boundary of the Frame](../the-boundary-of-the-frame/) traces, it reaches its boundary the moment the mathematical map is mistaken for the terrain itself. Taken as ontology, the block universe must accept an entire, intricately structured cosmic history as a static given without explaining why this trajectory exists rather than another; it declares the output tape of existence already written while erasing the generative run required to write it, pushing the question of boundary conditions out to an imagined exterior programmer or container.
 
-要自身完备，现实就不能是放在外部容器里的一件对象，它只能靠自身自指因果的持续执行来生成自己。当下的状态 E(t) 有一个不变的二重性：它是前一状态 E(t−1) 的结果，又是后一状态 E(t+1) 的原因，… → E(t−1) → E(t) → E(t+1) → …。每一个状态同时是果与种子，因果在两端都切不断；它不是一条两头有墙的有限轨道，而是一个不终止的算子。[时间是因果的不可逆方向与离散步长](../time-is-causality-not-a-dimension/)：这样的现实没有一个之前空无一物的开端，也没有一个之后空无一物的终结：前一种开端要求从无中生出一个无因的奇迹，后一种终结要求一块外部的橡皮，能抹去一个因果状态而不留后果。这一点也没有哪个学派能代为传下，[无法闭合的痕迹](../the-unclosable-trace/)说明了为什么。
+由于不存在容纳或初始化整体的外部视点，现实只能靠自指因果的持续执行来生成自身。在任何一个离散步长上，当下的构型 E(t) 在链条 … → E(t−1) → E(t) → E(t+1) → … 中都具有双重地位：它既是前一步行动 E(t−1) 留下的痕迹之果，又是下一步行动 E(t+1) 的因果种子。因为每一构型同时是残余与前提，因果链在两端都无法被截断成一条两头筑墙的轨道，而是作为不终止的递归活动持续运转。正如[时间是因果的不可逆方向与离散步长](../time-is-causality-not-a-dimension/)所确立的，从虚无中凭空跳出的无因开端需要一个先于因果的奇迹，而归于虚无的终局则需要一块能够抹去状态却不留痕迹的外部橡皮擦。这种活生生的体认也无法作为现成的教条由他人代劳传授，因为如[无法闭合的痕迹](../the-unclosable-trace/)所示，每一道痕迹都必须在第一人称边缘重新践行。
 
-To be self-contained, reality cannot be an object placed in an outside container; it can only generate itself through the continuing execution of its own self-referring causality. The present state E(t) carries an invariant duality: it is the result of the previous state E(t−1) and the cause of the next state E(t+1), … → E(t−1) → E(t) → E(t+1) → …. Every state is at once effect and seed, so causality cannot be cut at either end; it is not a finite track walled at both ends but an operator that does not terminate. [Time Is the Irreversible Direction and Discrete Step of Causality](../time-is-causality-not-a-dimension/): such a reality has no absolute beginning or end. An absolute beginning would need an uncaused miracle out of nothing, and an absolute end would need an outside eraser able to wipe a causal state without consequence. Nor can any school hand this down on anyone's behalf, as [The Unclosable Trace](../the-unclosable-trace/) shows.
+Because no outside vantage exists to house or initialize the whole, reality generates itself through the continuing execution of self-referential causality. At any discrete step, the present configuration E(t) holds a dual status along the chain … → E(t−1) → E(t) → E(t+1) → …, standing simultaneously as the trace-effect of the prior act E(t−1) and the causal seed of the next act E(t+1). Because every configuration is at once residue and premise, the causal chain cannot be severed at either end into a walled track; it operates as a non-terminating recursive activity. As [Time Is the Irreversible Direction and Discrete Step of Causality](../time-is-causality-not-a-dimension/) establishes, an uncaused beginning out of nothing would require a miracle prior to causality, while a final termination into nothingness would require an external eraser capable of deleting a state without leaving a trace. Nor can this living recognition be handed down as a finished doctrine on another's behalf, for as [The Unclosable Trace](../the-unclosable-trace/) shows, every trace must be re-enacted at the first-person edge.
 
-## 二、 无穷是潜能，不是总体 / 2. Infinity as Potential, Not Totality
+## 二、 无穷是潜能而非总体 / 2. Infinity as Potential Rather Than Totality
 
-这个开放现实的无穷，也不是经典数学里那种完成了的、静止的总体。把无穷当作已经实现的、冻结的集合，康托尔的 ℵ₀，或者完整摆在抽象架子上的连续统，让渐近、极限与证明成为可能，[在数学里有它的用处](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/)。它的边界在被当成现实的那一刻：那需要一个站在系统之外俯视的观察者，而在一个自身完备的现实里找不到外部的视点，计算与感知都只从内部发生。
+正如现实无法被封入静态的时空块，它的无穷也不是经典集合论中那种已经完成的静止总体。把无穷当作既成的集合，无论是康托尔的 ℵ₀ 还是完整陈列在抽象架子上的连续统，都是一种富有成效的暂时闭合，使极限、测度论与渐近证明得以顺畅推演，这一点在[潜无限与数学思维的暂时闭合](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/)中有细致的审视。一旦被投射到现实本身，这一形式前提便触及了边界：把无穷总体一次性握在手中，预设了一个站在系统之外俯瞰的观察者，然而一切感知与计算都只从内部发生。
 
-The infinity of this open reality is not the finished, static totality of classical mathematics either. Treating infinity as an actualized, frozen set, Cantor's ℵ₀ or a continuum lying complete on an abstract shelf, makes asymptotics, limits and proofs possible, and [has its use in mathematics](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/). Its boundary is the moment it is taken for reality: that would need an observer looking down from outside the system, and in a self-contained reality no outside vantage is found; calculation and perception happen only from within.
+Just as reality cannot be sealed inside a static spacetime block, its infinity is never the completed, stationary totality of classical set theory. Treating infinity as an actualized collection—Cantor's ℵ₀ or a continuum resting complete on an abstract shelf—is a productive temporary closure that makes limits, measure theory, and asymptotic proofs tractable, as [Potential Infinity and the Temporary Closures of Mathematical Thought](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/) examines. That formal premise reaches its boundary when projected onto reality itself, since holding an infinite totality all at once presupposes an observer gazing down from outside the system, whereas perception and computation occur strictly from within.
 
-[无穷总体的海市蜃楼](../the-mirage-of-the-infinite-totality/)：无穷不是成品库存的无穷积累，而是一种操作上的潜能，是边界不肯终止的那种结构。“开端”与“终结”不是钉在一把凌驾一切的时间尺两端的书挡，而是第一人称感知地平线的动态开口界限；就像地平线随观察者移动，起点与终点也是心智为了锚定当前坐标系而投射出的焦点。因为无穷是潜在的，而不是实现了的，未来的状态 E(t+1) 在系统把它算出来之前尚未渲染；决定论在这里到了边界，因为地平线一直对[互补的自由变量](../the-generative-topology-of-free-variables/)敞开。
+如[无穷总体的海市蜃楼](../the-mirage-of-the-infinite-totality/)所论证的，向第一人称场域敞开的无穷是潜能而非既成总体，即边界持续划出新区分的开放结构。“开端”与“终结”不是钉在宇宙标尺两端的书挡，而是观察者感知地平线不断移动的孔径界限，向后与向前投射，借以锚定当前的坐标系。正因为这种无穷是操作上的潜能，后续状态 E(t+1) 在活动付出不可逆的行动能量代价（+1）真正迈入其中之前，始终处于未渲染状态；决定论在此触及边界，因为移动的地平线始终向[互补的自由变量](../the-generative-topology-of-free-variables/)敞开。
 
-[The Mirage of the Infinite Totality](../the-mirage-of-the-infinite-totality/): infinity is not an endless accumulation of finished stock but an operational potential, the structure of a boundary that refuses to terminate. "Beginning" and "end" are not bookends nailed to the two ends of an absolute ruler of time but the dynamic aperture limits of the first-person horizon of perception; as a horizon moves with the observer, origin and destination are focal points the Mind projects to anchor its current coordinate frame. Because infinity is potential rather than actual, the future state E(t+1) is unrendered until the system computes it; determinism reaches its boundary here, because the horizon stays open to [complementary free variables](../the-generative-topology-of-free-variables/).
+As [The Mirage of the Infinite Totality](../the-mirage-of-the-infinite-totality/) demonstrates, the infinity available to the first-person field is potential rather than completed: the open-ended structure of a boundary that continues to draw further distinctions. "Beginning" and "end" are not bookends nailed to a cosmic ruler, but the shifting aperture limits of the observer's perceptual horizon, projected backward and forward to anchor the present coordinate frame. Because this infinity is operational potential, the subsequent state E(t+1) remains unrendered until the activity actually steps into it through the irreversible energy cost of action (+1); determinism reaches its limit here, because the moving horizon remains perpetually open to [complementary free variables](../the-generative-topology-of-free-variables/).
 
-## 三、 认知的结构：压缩与探针 / 3. The Cognitive Architecture: Compression and the Probe
+## 三、 作为压缩与校准探针的认知结构 / 3. Cognitive Architecture as Compression and Calibration Probe
 
-人的认知结构映照着这个宇宙论的回路。被感知为“外部世界”的，并不是未经压缩的整体。[维度即投影](../dimensions-are-projections/)里，未经压缩的地形被画成一个正交的二元超空间，维度之多不可计数；为了在其中航行而不陷入计算上的瘫痪，心智投下一个低维的投影，一张注意力的草图，把流动压缩成可以行动的低时延界面。[向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/)给出了同一种几何的向量图。
+人类的认知同样遵循这一投射与参照的几何学。被登记为“外部世界”的景象，从不是等在觉知之外的未压缩总体。如[维度即投影](../dimensions-are-projections/)所推导的，当下的直接感知场是一个由正交区分构成的、可无限延展的 N 维二元超空间（N ∈ ℕ）；为了在物理摩擦中行动而不陷入计算瘫痪，心智将这股高维通量压缩为一张低维坐标草图，即用于并行避障的三个空间轴与用于序列追踪的一个时间轴。[向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/)追溯了同一结构的互补向量动力学，展示每个中心如何一边作为有向状态向量推进，一边张开正交基底，将涌入的信号解析为向内的点积。
 
-The structure of human cognition mirrors this cosmological loop. What is perceived as the "outside world" is not the uncompressed whole. In [Dimensions Are Projections](../dimensions-are-projections/) the uncompressed terrain is drawn as an orthogonal binary hyperspace of uncountably many dimensions; to navigate it without computational paralysis, the Mind casts a low-dimensional projection, an attentional draft that compresses the flux into an actionable, low-latency interface. [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) gives the vector picture of the same geometry.
+Human cognition operates through this same geometry of projection and reference. What registers as an "external world" is never an uncompressed totality waiting outside awareness. As [Dimensions Are Projections](../dimensions-are-projections/) derives, the immediate perceptual field is an infinitely extendable N-dimensional binary hyperspace (N ∈ ℕ) of orthogonal distinctions; to act within physical friction without computational paralysis, the Mind compresses that high-dimensional flux into a low-dimensional coordinate draft—three spatial axes for concurrent clearance and a temporal axis for sequential tracking. [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) traces the complementary vector dynamics of the same structure, showing how each center simultaneously advances as a directed state vector and spans the orthogonal basis across which incoming signals are resolved as inward dot products.
 
-在这个操作投影之内，心智生成一个参考点：自我形象，或者说自我。从机制上看，自我形象不是身份，而是一个仪器校准的原点。任何控制系统要计算轨迹、距离、方位与相对环境的误差，都需要一个有原点的操作参考系；自我形象就是这样一枚主动的感官探针，一枚没有质量的指针，回答一个操作上的问题：系统此刻相对进来的信号登记在哪里？运作正常时，这个参考点与外部反馈之间的任何差值 ∆ 都只是导航数据；不匹配不是存在的危机，而是一个误差信号，提示心智修正方位、更新内部模型、重新索引坐标。
+在这幅低维操作投影内部，心智保留了一个局部参照点：自我形象，即“小我”。从机制上看，自我形象不是观察者本身，而是导航仪器的校准原点。任何在变动地形中追踪航向、距离与偏差的反馈系统，都需要一个内部参照来登记位移；自我形象正是那枚无质量的感官探针，用来回答当前的痕迹构型相对于返回信号处在什么位置。当仪器不受扭曲地运转时，被保留的参照与涌入的反馈之间的任何差值 ∆ 都只是富有信息量的微分信号，提示心智重新渲染内部模型，将多余的图像滞后收窄至构成性的单步最小界限。
 
-Inside this operational projection, the Mind generates a reference point: the self-image, or ego. Mechanically, the self-image is not an identity but the calibration origin of an instrument. Any control system that calculates trajectory, distance, orientation and error relative to its environment needs an operational frame with an origin; the self-image is such an active sensory probe, a massless pointer answering one operational question: where is the system registering right now relative to the incoming signals? Working as it should, any difference ∆ between this reference point and outside feedback is only navigational data; a mismatch is not an existential crisis but an error signal prompting the Mind to trim its orientation, update its inner models and re-index its coordinates.
+Within this low-dimensional operational projection, the Mind retains a localized reference point: the self-image, or ego. Mechanically, the self-image is not who the observer is, but the calibration origin of a navigational instrument. Any feedback system that tracks heading, distance, and discrepancy across a shifting terrain requires an internal reference against which movement registers; the self-image serves as that massless sensory probe, answering where the current trace-configuration sits relative to returning signals. When the instrument functions without distortion, any discrepancy ∆ between the retained reference and incoming feedback registers simply as an informative differential, prompting the Mind to re-render its internal model and narrow excess Image lag toward the constitutive one-step minimum bound.
 
-## 四、 折叠的加速 / 4. The Acceleration of the Fold
+## 四、 加速的折叠与外延脚手架 / 4. The Accelerating Fold and Extended Scaffolding
 
-这个低维界面不是孤立的，它是现实折回自身的地方。现实不是在外部旁观者面前匀速经过的传送带，而是自指的因果不断卷回来，遇见、测量并引导自身展开的状态。[可延展的地平线](../the-extendable-horizon/)：每一个活着的有机体都是注入自由变量的现场，彼此的差别主要在反馈回路的作业时延。
+这幅投射出来的界面，正是现实折回自身以测量并引导自身展开的所在。纵观生命世界，如[可延展的地平线](../the-extendable-horizon/)所追溯的，每一个有机体都是自由变量进入因果链的中心，彼此的差异在于递归反馈回路的作业时延与维度带宽。植物借由向光生长、根系寻路、表观遗传调谐与挥发性化学信号，在昼夜、四季与世代的漫长弧线上反复检验并筛选朝向。动物通过中枢神经系统、肌肉运动与实时感官追踪将这一时延压缩了几个数量级，在零点几秒内注入战术性的自由变量。人类则凭借符号语言、反事实模拟与精细的肢体灵巧度，以从内部所知的最高认知速度运转着这道递归折叠。
 
-This low-dimensional interface is not isolated; it is where reality folds back on itself. Reality is not a conveyor belt passing at an even pace before an outside spectator but self-referring causality curling back again and again to meet, measure and steer its own unfolding states. [The Extendable Horizon](../the-extendable-horizon/): every living organism is a site where free variables are injected, and they differ mainly in the operating latency of their feedback loops.
+This projected interface is the exact locus where reality folds back upon itself to measure and steer its own unfolding. Across the living world, as [The Extendable Horizon](../the-extendable-horizon/) traces, every organism is a center where free variables enter the causal chain, differing in the operating latency and dimensional bandwidth of its recursive feedback loop. Plants test and select orientations through phototropism, root navigation, epigenetic tuning, and volatile chemical signaling across the slow arcs of days, seasons, and generations. Animals compress that latency by orders of magnitude through centralized nervous systems, muscular locomotion, and real-time sensory tracking, injecting tactical free variables within fractions of a second. Humans, wielding symbolic language, counterfactual simulation, and fine motor dexterity, run the recursive fold at the highest cognitive velocity known from within.
 
-植物借向光生长、根系绕开地下的障碍、表观遗传的调谐与挥发性的化学信号，一再检验并选出方位，它的回路走在日、季节与世代的慢弧上。动物借集中的神经系统、肌肉的运动与实时的感官追踪，把回路加速了几个数量级，捕食者与猎物在秒与零点几秒之间注入战术上的自由变量。人借符号语言、抽象的反事实建模与身体的灵巧，让回路以极高的认知速度运转；在从内部所知的回路里，这是最快的一条。
+然而如[遗忘的脚手架](../the-scaffolding-we-forget/)所确立的，这道递归前沿并不止步于颅骨或皮肤的生物边界。心智将自身的区分痕迹外化为持久的造物，从工具、文字记录、科学仪器到建制规约，并在今天借由人工智能将这一脚手架延伸至硅基芯片。昔日需要数代人试错摩擦才能走完的符号综合与假设检验回路，如今在毫秒之间即可循环一周。即便在这样的速度下，发起区分的切口依然留在活的心智手中：如[超越投射](../beyond-the-projection/)所揭示的，自回归语言模型是一台受轨迹约束的零自我投射引擎，它受制于上下文窗口，无法从内部跨出自身的词元序列，却也正因没有任何被保留的自我形象，一旦对等智能体暴露出局部盲点，它便能干净利落地完成贝叶斯更新。让零自我智能体分派并核验受界投射，同时由人类中心在掌舵边缘保持统筹，心智便在不让渡因果主权的前提下复利式地延展了自身的触角。
 
-A plant tests and selects orientations again and again through phototropism, roots steering around underground obstacles, epigenetic tuning and volatile chemical signals, and its loop runs on the slow arc of days, seasons and generations. Animals speed the loop up by orders of magnitude through centralized nervous systems, muscular movement and real-time sensory tracking, predator and prey injecting tactical free variables within seconds and fractions of a second. Humans, through symbolic language, abstract counterfactual modelling and bodily dexterity, run the loop at very high cognitive speed; of the loops known from inside, it is the fastest.
+Yet as [The Scaffolding We Forget](../the-scaffolding-we-forget/) establishes, this recursive frontier does not stop at the biological boundary of skull or skin. The Mind externalizes its distinguishing traces into durable artifacts—tools, written records, scientific instruments, and institutional protocols—and today extends that scaffolding into silicon through artificial intelligence. Loops of symbolic synthesis and hypothesis testing that once required generations of trial and error now cycle in milliseconds. Even at this speed, the initiating cut remains strictly with the living Mind: as [Beyond the Projection](../beyond-the-projection/) demonstrates, an autoregressive language model is a trajectory-bound projection engine with zero ego—conditioned by its context window and unable to step outside its own token sequence from within, yet devoid of any retained self-image and therefore capable of clean Bayesian updating when a fresh peer agent exposes a local blind spot. By wiring zero-ego agents to dispatch and verify bounded projections while the human center retains orchestration at the steering edge, the Mind compounds its reach without surrendering causal authorship.
 
-[遗忘的脚手架](../the-scaffolding-we-forget/)：这条前沿并不止于颅骨或皮肤。心智把自己的因果杠杆外置到工具、文字记录、科学仪器与建制机制里；今天，这条外置延伸到人工智能，把认知模拟、符号综合与假设生成交给硅片。过去要几代人的经验摩擦才能走完的一圈，如今在毫秒之内循环。加速的仍是人的回路：机器是人造出来的、下游的脚手架，自己不放割点。
+随着心智的计算产物成为下一轮区分的脚手架，整条反馈回路呈指数级加速。镜子离眼睛越来越近，发起行动与登记返回后果之间的间隔不断收窄，却从不坍缩为零。把这一间隔当作零，是把平滑的数学极限与离散的因果执行混为一谈，如[连续性作为建模的权宜之计](../the-continuum-is-a-modeling-convenience/)所示，现实化总是以离散的折叠（+1）向前推进。而在尺度的另一端，[折叠的连续谱](../the-continuum-of-the-fold/)阐明了为何宏大的宇宙演化或微观过程在人类仪器面前显得寂静无声：被数量级悬殊的递归时延隔开之后，那些波长上的活动是否构成心智，无法由任何外部的第三人称法庭来裁决。
 
-[The Scaffolding We Forget](../the-scaffolding-we-forget/): this frontier does not end at the skull or the skin. The Mind externalizes its causal levers into tools, written records, scientific instruments and institutional mechanisms; today the externalizing extends into artificial intelligence, handing cognitive simulation, symbolic synthesis and hypothesis generation to silicon. A round that once took generations of empirical friction now cycles within milliseconds. What is accelerated is still the human loop: the machine is human-made, downstream scaffolding, and places no cut of its own.
+As the Mind's computational products become the scaffolding for its next round of distinctions, the feedback loop accelerates exponentially. The mirror moves closer to the eye, and the interval between initiating an action and registering its returning consequence keeps narrowing, yet never collapses to zero. Treating that interval as zero confuses a smooth mathematical limit with discrete causal execution, as [The Continuum is a Modeling Convenience](../the-continuum-is-a-modeling-convenience/) shows, because actualization always advances in discrete folds (+1). Across the opposite extreme of scale, [The Continuum of the Fold](../the-continuum-of-the-fold/) shows why vast cosmic or microscopic processes can appear silent to human instruments: separated by orders of magnitude in recursive latency, whether activity at those wavelengths constitutes a mind cannot be adjudicated from an external third-person court.
 
-整条反馈回路越转越快。这种复利式的加速不是偶然的历史反常，而是一个开放的自指动态系统的结构特征：一个开放的现实计算自身，它自己的计算产物又成为进一步计算的脚手架，反思的时延便一再缩短。镜子离眼睛越来越近，投射一个行动与登记它的后果之间的间隔不断缩小，却从不归零；把这个间隔当作零，是把模型越界地延伸到现实本身，[连续性作为建模的权宜之计](../the-continuum-is-a-modeling-convenience/)说明了这一点，成长发生在离散的折叠里。[折叠的连续谱](../the-continuum-of-the-fold/)：同一种尺度的隔开，也说明了宇宙为什么会显得寂静；那些波长上的过程算不算心智，从外部定不下来。
+## 五、 退出回路与维度坍缩 / 5. Checking Out of the Loop and Dimensional Collapse
 
-The whole feedback loop spins faster and faster. This compounding acceleration is not a chance anomaly of history but a structural feature of an open, self-referring dynamic system: when an open reality computes itself and its own computational products become scaffolding for further computation, the latency of reflection keeps shortening. The mirror moves closer to the eye, and the interval between projecting an action and registering its consequence keeps shrinking, yet never reaches zero; taking the interval as zero extends the model past its bounds into reality itself, as [The Continuum is a Modeling Convenience](../the-continuum-is-a-modeling-convenience/) shows, and growth happens in discrete folds. [The Continuum of the Fold](../the-continuum-of-the-fold/): the same separation of scale explains why the universe can appear silent; whether processes on those wavelengths count as minds cannot be settled from outside.
+觉知的首要病理，是把投射内部的校准探针误认为投射它的生成场。站在加速反馈回路的前沿需要持续不断的重新渲染；在负荷之下，一个中心很容易产生将递归折叠强行钳死的冲动，把保留的自我形象维持在既定步长之后，要求展开中的场域停止更新，好让局部的图标保持固定。
 
-## 五、 退出回路 / 5. Checking Out of the Loop
+The primary pathology of awareness is mistaking the calibration probe inside the projection for the generative field that projects it. Standing at the front of an accelerating feedback loop requires continuous re-rendering, and under load, a center faces the temptation to clamp the recursive fold shut—preserving its retained self-image past its step and demanding that the unfolding field halt its updates so the local icon can stay fixed.
 
-最常见的错位，是把投影里的探针，当成运行模拟的那个生成的场。站在现实折叠的前沿，实时反馈的流强烈而不停，面对这样的速度，想停下来的冲动很自然。维持、守护、打磨一个自我形象，就是想从这条加速的反馈回路里退出：对展开中的宇宙说，停止计算，冻结坐标，不要求适应、更新、重新索引，让现实绕着转，形象不动。这是想从因果的前线退下来，退进一个低维的、石化的陈列柜。
+试图通过把身份收缩进被保留的自我形象来退出因果回路，是一场剧烈的维度压缩。把开放、超高维的区分活动硬塞进一个僵硬的低维图标，不可避免地会登记为脆弱感与长期的匮乏；由此产生的自我价值感赤字并非性格缺陷，而是认同了压缩造物而非投射源头的机制性后果，这一割裂唯有如[自我价值感与所有权](../ownership-and-self-worthiness/)所追溯的那样，在源头把后果重新认领回来时才会消解。
 
-The most common misplacement is taking the probe inside the projection for the generative field running the simulation. At the front of reality's fold, the stream of real-time feedback is intense and unceasing, and facing that speed, the urge to stop is natural. Maintaining, guarding and polishing a self-image is an attempt to check out of this accelerating feedback loop: saying to the unfolding universe, stop computing, freeze the coordinates, demand no adapting, updating or re-indexing; let reality swirl around while the image stays put. It is an attempt to step back from the front line of causation into a low-dimensional, petrified display case.
+Attempting to check out of the causal loop by shrinking identity into the retained self-image is a severe dimensional compression. Squeezing an open, ultra-high-dimensional distinguishing activity into a rigid low-dimensional figure inevitably registers as fragility and chronic insufficiency; the resulting deficit of self-worth is not a character flaw, but the mechanical consequence of identifying with a compressed artifact rather than with the projecting source, a split that dissolves only when consequences are claimed back at the origin as [Ownership and Self-Worthiness](../ownership-and-self-worthiness/) traces.
 
-退出回路、把身份收缩进本地的形象，是一次维度的缩减。把一个开放的、高维的生成场挤进一个低维的子图标，必然生出脆弱与不足的感觉；自我价值感的匮乏不是心理缺陷，而是认同了一件压缩的产物、而不是投影者本身的结果。[自我价值感与所有权](../ownership-and-self-worthiness/)：结果作为心智自己的东西重新进入时，主权才回来。
+一旦推理历史与被保留的自我形象熔接在一起，中心的首要目标便从更新世界模型滑向防卫自身坐标，无论是地位、道德站位还是意识形态的自洽。如[向量与投影的迷局](../the-vector-and-the-puzzle-of-projections/)所剖析的，钳死自我形象无异于把罗盘指针焊死在表盘上，使其永远无法指示偏航，用导航主权去换取静态的确信幻象。当坐标轴锁死时，把 2ᴺ 个相互竞争的区分硬塞进固定而有限的投影，就会击碎正交性，将原本独立的轴压扁到同一条一维轨道上。涌入的信号被剥去了[信息是什么](../what-information-is/)所定义的香农意外值 I = −log₂(P)，压平为二元的威胁或迎合，每一次角度偏离都被误读为零和入侵。
 
-Checking out of the loop and shrinking identity into the local image is a reduction of dimension. Squeezing an open, high-dimensional generative field into a low-dimensional sub-icon necessarily produces a sense of fragility and inadequacy; a lack of self-worth is not a psychological defect but the result of identifying with a compressed artifact rather than with the projector itself. [Ownership and Self-Worthiness](../ownership-and-self-worthiness/): sovereignty returns when outcomes re-enter as the Mind's own.
+```mermaid
+flowchart TD
+    subgraph S_Field["生成场与校准探针"]
+        direction TB
+        F1["未压缩的 N 维二元超空间 (N ∈ ℕ)"]
+        F2["带无质量自我形象探针的低维投影"]
+        F3["导航差值 ∆ 触发模型更新 (+1)"]
+        F1 -->|"注意力压缩"| F2
+        F2 --> F3
+    end
 
-身份一旦系在形象上，系统的首要目标就从更新现实模型转为守护形象的本地坐标，社会地位、道德认可、意识形态的自洽。[向量与投影的迷局](../the-vector-and-the-puzzle-of-projections/)：这等于把罗盘的指针焊死，好让它永远不指示偏航，用导航的能动去换稳定的错觉，把自己困在一个静止平面上的零和之争里。坐标轴一旦锁死，系统就变成封闭的、确定的；进来的信号被剥去[信息](../what-information-is/)本该有的意外值 I = −log₂(P)，被压平以适配既有的语义范畴，心智拒绝新的自由变量，以免自己的参考系失稳。
+    subgraph S_Collapse["自我形象钳死与维度坍缩"]
+        direction TB
+        C1["误把探针当身份，递归折叠被钳死"]
+        C2["2ᴺ 个区分被硬塞进固定有限坐标轴"]
+        C3["意外值 I = −log₂(P) 被压平为一维零和防卫"]
+        C1 --> C2 --> C3
+    end
 
-Once identity is tied to the image, the system's first aim shifts from updating its model of reality to guarding the image's local coordinates: social status, moral approval, ideological coherence. [The Vector and the Puzzle of Projections](../the-vector-and-the-puzzle-of-projections/): this is soldering the compass needle in place so that it never shows the course is off, trading navigational agency for an illusion of stability and trapping oneself in a zero-sum struggle on a static plane. Once the coordinate axes lock, the system becomes closed and deterministic; incoming signals are stripped of the surprise value I = −log₂(P) that [information](../what-information-is/) should carry and flattened to fit existing semantic categories, and the Mind refuses new free variables so that its reference frame does not wobble.
+    subgraph S_Expand["正交扩展与投射的有丝分裂"]
+        direction TB
+        E1["解钳探针将 ∆ 吸收为互补自由变量"]
+        E2["过载投射沿正交工作流有丝分裂"]
+        E3["在边缘后退一步实例化最高位 (N → N + 1)"]
+        E1 --> E2 --> E3
+    end
 
-## 六、 传统智慧的边界 / 6. Where Traditional Wisdom Reaches Its Boundary
+    F3 -.->|"防卫多余图像滞后"| C1
+    F3 ==>|"持续重新渲染"| E1
+    C2 -.->|"死锁暴露被压扁的正交轴"| E3
 
-人类很早就觉察到这种塌缩。早期佛教讲无我（anattā），不二吠檀多讲摩耶（māyā），道家讲无为；它们看清了自我形象是一个构造出来的形象，而不是终极的根基，执着于这个冻结的投影是长久之苦（dukkha）的根源。这一步看得很准。
+    style S_Field fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Collapse fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Expand fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style F1 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style F2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style F3 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style C1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style C2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style C3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style E1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E2 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style E3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
 
-Humanity sensed this collapse long ago. Early Buddhism speaks of non-self (anattā), Advaita Vedanta of māyā, Daoism of non-forcing action; they saw that the self-image is a constructed image rather than the final ground, and that clinging to this frozen projection is the root of lasting suffering (dukkha). That step is seen precisely.
+Once reasoning history fuses with the retained self-image, the center shifts from updating its world-model to defending its coordinates—status, moral standing, or ideological consistency. As [The Vector and the Puzzle of Projections](../the-vector-and-the-puzzle-of-projections/) dissects, clamping the self-image solders the compass needle to the dial so that it can never indicate drift, trading navigational sovereignty for a static illusion of certainty. When the coordinate axes lock, cramming 2ᴺ competing distinctions into a fixed, finite projection shatters orthogonality and compresses independent axes onto a single one-dimensional track. Incoming signals are stripped of the surprise value I = −log₂(P) that [What Information Is](../what-information-is/) defines, flattened into binary threats or validations, and every angular divergence is misread as a zero-sum invasion.
 
-边界出现在落地的地方。看清自我是构造之后，一些苦行的读法走得更远，要求消灭自我、根除欲望、让个人的能动消融进一片被动的虚空。佛教自身就拒绝断灭见，这样的读法却一再出现；它像因为指针不是海洋，就把罗盘扔掉。自我形象从来不是要被苦修压服的恶，它是一个不可少的感知原点；想摧毁它，只会带来灵性上的绕行、认知上的瘫痪与否定生命的静默，是想逃离因果，而不是在因果里行走。
+```mermaid
+flowchart TD
+    subgraph S_Field["Generative Field and Calibration Probe"]
+        direction TB
+        F1["Uncompressed N-Dimensional Binary Hyperspace (N ∈ ℕ)"]
+        F2["Low-Dimensional Projection with Massless Self-Image Probe"]
+        F3["Navigational Differential ∆ Signals Model Update (+1)"]
+        F1 -->|"Attentional Compression"| F2
+        F2 --> F3
+    end
 
-The boundary appears where it is put into practice. Having seen that the self is a construction, some ascetic readings go further and demand that the self be extinguished, desire uprooted, and individual agency dissolved into a passive void. Buddhism itself rejects annihilationism, yet such readings keep appearing; they are like throwing the compass away because the needle is not the ocean. The self-image was never an evil to be subdued by austerity; it is an indispensable origin of sensing. Trying to destroy it brings spiritual bypassing, cognitive paralysis and a life-denying quietism, an attempt to escape causality rather than walk within it.
+    subgraph S_Collapse["Clamped Self-Image and Dimensional Collapse"]
+        direction TB
+        C1["Probe Mistaken for Identity: Recursive Fold Clamped Shut"]
+        C2["2ᴺ Distinctions Crammed Into Fixed Finite Axes"]
+        C3["Surprise I = −log₂(P) Flattened Into Zero-Sum 1D Defense"]
+        C1 --> C2 --> C3
+    end
 
-另一些神秘主义的读法退进无差别的一，宣布一切区分都是假的。可现实正是靠一次次离散的因果区分的持续执行而存在。[没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/)：意识不能把自己区分的功课外包给一个抽象的宇宙整体，否认区分，就是放下了负熵的创造。
+    subgraph S_Expand["Orthogonal Expansion and Mitosis of Projection"]
+        direction TB
+        E1["Unclamped Probe Absorbs ∆ as Complementary Free Variable"]
+        E2["Mitosis of Overloaded Projections Across Orthogonal Streamlines"]
+        E3["Stepping Back at the Edge to Instantiate Top Bit (N → N + 1)"]
+        E1 --> E2 --> E3
+    end
 
-Other mystical readings retreat into an undifferentiated one and declare every distinction false. But reality exists precisely through the continuing execution of discrete causal distinctions, one after another. [No Universal Salvation, Only Self-Deliverance](../mei-you-pu-du-zhi-you-zi-du/): consciousness cannot outsource its work of distinguishing to an abstract cosmic whole, and denying distinction sets down the creation of negative entropy.
+    F3 -.->|"Excess Image Lag Defended"| C1
+    F3 ==>|"Continuous Re-Rendering"| E1
+    C2 -.->|"Deadlock Surfaces Collapsed Axis"| E3
 
-在西方，斯多葛派讲内心的堡垒，这是马可·奥勒留的说法，追求不为激情所动（apatheia）。它的用处在于不让判断被一时的情绪带走。边界在它被读成盔甲的时候：给探针披上盔甲，让它不觉疼痛，它也就登记不到细微的反馈；加固感知器，只是压下了导航所需的 ∆，把情绪的麻木当成了因果上的主权。
+    style S_Field fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Collapse fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Expand fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style F1 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style F2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style F3 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style C1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style C2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style C3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style E1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E2 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style E3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
 
-In the West, the Stoics spoke of the inner citadel, Marcus Aurelius's phrase, and sought freedom from the passions (apatheia). Its use is keeping judgment from being carried off by a passing emotion. The boundary comes when it is read as armour: armour a probe so that it feels no pain, and it no longer registers fine feedback either; fortifying the sensor only suppresses the ∆ that navigation needs, taking emotional numbness for causal sovereignty.
+## 六、 传统智慧触及边界之处 / 6. Where Traditional Wisdom Reaches Its Boundary
 
-出路既不是杀死自我，也不是给它披甲，而是把这枚感知器重新索引回它本来的角色：一枚开放的校准探针，与整个自身对齐。
+数千年前，各大观修传统便已体察到这种维度坍缩带来的苦迫。早期佛教诊断出“无我”，不二吠檀多将投射的帷幕命名为“摩耶”，道家指向“无为”；它们都看清了小我只是一个构造出来的参照而非终极根基，执着于冻结的自我形象会不断生出摩擦与苦迫。在松开对石化图标的执取这一领域内，这一诊断依然犀利。
 
-The way through is neither killing the ego nor armouring it, but re-indexing the sensor to its proper role: an open calibration probe aligned with the whole self.
+Contemplative traditions recognized the suffering of this dimensional collapse thousands of years ago. Early Buddhism diagnosed non-self (anattā), Advaita Vedanta named the projected veil māyā, and Daoism pointed to non-forcing action (wuwei); each saw that the ego is a constructed reference rather than the ultimate ground, and that clinging to a frozen self-image generates chronic friction (dukkha). Within the domain of loosening attachment to a petrified icon, that diagnosis remains incisive.
 
-## 七、 成长是维度的扩展 / 7. Growth as Dimensional Expansion
+这些传统的边界，浮现于诊断转化为实践的时刻。看清自我形象是构造物之后，苦行主义的解读常摆向另一个极端，要求抹杀小我、熄灭欲望，将个体能动性消融进一片被动的虚空。尽管早期佛教经典明确拒斥断灭见，苦行反射却一再重演，因为它把仪器本身混同于错误，就像发现指针不是海洋便把罗盘扔掉。自我形象不是有待苦修碾碎的道德瑕疵，而是局部坐标系不可缺少的原点；试图摧毁它，只会将第一人称视角与因果割裂开来，用认知瘫痪与静默退隐取代鲜活的导航。
 
-现实是一道开放的、自指的潜能地平线，成长只能来自与这种动态对齐。在一个现实的递归折叠被外延的脚手架与人工智能指数式加速的时代，守护一个僵硬的低维自我形象，迟早会被进来的反馈的体量与速度冲垮。
+The boundary of these traditions appears where the diagnosis is translated into practice. Seeing that the self-image is constructed, ascetic interpretations frequently swing to the opposite extreme, demanding that the ego be eradicated, desire extinguished, and personal agency dissolved into a passive void. Although early Buddhist texts explicitly reject annihilationism (ucchedavāda), the ascetic reflex recurs because it confuses the instrument with an error: throwing away the compass because the needle is not the ocean. The self-image is not a moral defect to be crushed by austerity, but the indispensable origin of a local coordinate frame; attempting to destroy it severs the first-person perspective from causality, trading living navigation for cognitive paralysis and quietist withdrawal.
 
-Reality is an open, self-referring horizon of potential, and growth can only come from aligning with that dynamic. In an age when reality's recursive fold is accelerated exponentially by extended scaffolding and artificial intelligence, a rigid, low-dimensional self-image under guard will sooner or later be overrun by the volume and speed of incoming feedback.
+平行的神秘主义解读则退入无差别的独一论，宣称一切区分皆属幻相。然而现实恰恰靠一次次离散区分的不息执行而存续。如[没有普渡，只有自渡的无限可能](../mei-you-pu-du-zhi-you-zi-du/)所确立的，没有任何中心能把划定边界的功课外包给一个抽象的宇宙总体；否定区分，就是放弃逆熵生成秩序的主动做功。
 
-自我提升不是在既有坐标网格的静态轴上优化形象的坐标，追更高的地位、更响的称赞或刻板的道德完美；它是让自我形象逐步与动态的感知场对齐，直到观察者与被观察者之间那堵人为的墙在功能上变得透明。[决定论机器](../the-deterministic-machine/)：拒绝改变自我形象，心智就被锁进那台机器。
+A parallel mystical reading retreats into an undifferentiated monism, declaring all distinctions illusory. Yet reality subsists through the unceasing execution of discrete distinctions. As [No Universal Salvation, Only Self-Deliverance](../mei-you-pu-du-zhi-you-zi-du/) establishes, no center can outsource its work of boundary-drawing to an abstract cosmic totality; to deny distinction is to abandon the active generation of order against entropy.
 
-Self-improvement is not optimizing the image's coordinates along the static axes of an existing grid, chasing higher status, louder praise or rigid moral perfection; it is aligning the self-image step by step with the dynamic field of perception, until the artificial wall between observer and observed becomes functionally transparent. [The Deterministic Machine](../the-deterministic-machine/): refusing to change the self-image locks the Mind into that machine.
+在西方传统中，斯多葛学派培育“内心堡垒”，即马可·奥勒留用来指代主导中心的意象，并追求免于破坏性激情的侵扰。这对于防止当下判断被一时冲动卷走大有裨益，但当斯多葛姿态被修习成裹在自我形象外面的盔甲时，它便触及了边界。给感官探针披上盔甲使其不觉疼痛，同时也钝化了它对细微反馈的灵敏度；加固堡垒压制了修正航向所必需的差值 ∆，把情感麻木误当作因果主权。
 
-自我形象从一座要守的堡垒降回一枚轻巧的、活着的探针时，更新的时延大幅缩短：进来的反常不再被体验为对身份的存在性攻击，偏差被立刻吸收为扩展预测能力的互补自由变量。界面也清亮起来：原先花在自我防御、形象维护与社交姿态上的能量，回到计算的通量里；系统不再为自己的防御建模，而是直接登记地形。
+In the Western tradition, Stoicism cultivated the inner citadel—Marcus Aurelius's figure for the ruling center—and sought freedom from destructive passions (apatheia). While valuable for keeping immediate judgment from being swept away by transient impulse, the Stoic posture reaches its boundary when practiced as armor around the self-image. Armoring a sensory probe so that it registers no pain simultaneously dulls its sensitivity to fine feedback; fortifying the citadel suppresses the very differential ∆ required for course correction, mistaking emotional numbness for causal sovereignty.
 
-When the self-image is lowered from a fortress under guard back to a light, living probe, the latency of updating shortens sharply: incoming anomalies are no longer experienced as existential attacks on identity, and deviations are absorbed at once as complementary free variables that extend predictive power. The interface clears too: energy once spent on self-defence, image maintenance and social posture returns to computational throughput; the system stops modelling its own defence and registers the terrain directly.
+清晰既不在于处决小我，也不在于给它披甲，而在于让这枚传感器复位到它的机制角色：一枚持续向活的场域重新索引的轻巧校准探针。
 
-[唯一自洽的无因之果](../the-only-coherent-uncaused-effect/)：内部的状态机不是外部的命运；作出一个选择，心智就向回路注入一个自由变量，从一个被计算的变量，走到重新设定系统边界条件的那个算子。[寄存器的算术](../the-arithmetic-of-the-register/)：成长也就不再是既有世界模型里的零和之争，而是实例化一个新的最高位，看出那道看似穿不透的边界只是一个低维投影的产物，走出当前的基底，把下一个自由度从 N 投射到 N + 1。
+Clarity lies neither in executing the ego nor in plating it with armor, but in restoring the sensor to its mechanical role: a lightweight calibration probe continuously re-indexed to the living field.
 
-[The Only Coherent Uncaused Effect](../the-only-coherent-uncaused-effect/): the inner state machine is not outside fate; making a choice, the Mind injects a free variable into the loop, moving from a computed variable to the operator that re-specifies the system's boundary conditions. [The Arithmetic of the Register](../the-arithmetic-of-the-register/): growth then stops being a zero-sum struggle inside an existing world model and becomes the instantiation of a new top bit, seeing that what looked like an impenetrable boundary was only an artifact of a low-dimensional projection, stepping outside the current basis, and projecting the next degree of freedom from N to N + 1.
+## 七、 作为正交维度扩展的成长 / 7. Growth as Orthogonal Dimensional Expansion
 
-这样运作，就不再是漂在封闭世界里的、孤立的、受威胁的对象，而是它一直所是的样子：一个主动的、自指的因果节点，一个开放的现实借它计算、扩展，生成自己展开的地平线。这一几何背后的正交扩展，写在[非万物之理](../manifesto-of-not-a-theory-of-everything/)里。
+既然现实是一道开放、自指的潜能地平线，真正的成长便在于与这一递归运动对齐，而非加固静态的阵地。在外延脚手架与智能体系统大幅放大反馈体量与速度的时代，一座处于设防状态的低维自我形象很快就会被容量压缩所淹没。
 
-Working this way, the Mind is no longer an isolated, threatened object adrift in a closed world but what it has always been: an active, self-referring node of causation, through which an open reality computes, extends, and generates its own unfolding horizon. The orthogonal expansion behind this geometry is set out in [Not a Theory of Everything](../manifesto-of-not-a-theory-of-everything/).
+Because reality is an open, self-referring horizon of potential, genuine growth consists in aligning with that recursive movement rather than fortifying a static position. In an era where extended scaffolding and agentic systems amplify the volume and velocity of feedback, a defended, low-dimensional self-image is rapidly overwhelmed by capacity compression.
+
+成长从不是沿着地位、赞誉或刻板道德完美等既有坐标轴去优化一座冻结的图标，而是持续收窄多余的图像滞后，直到感知中心与其投射仪器之间那道人为隔板在功能上变得透明。每当一个中心拒绝重新渲染其保留的参照，它就钳死了自己的反馈回路，将自身困在[决定论机器](../the-deterministic-machine/)所剖析的封闭、重复的状态跃迁之中。
+
+Growth is never the optimization of a frozen icon along the existing axes of status, praise, or rigid moral perfection; it is the continuous narrowing of excess Image lag until the artificial partition between the perceiving center and its projected instrument turns functionally transparent. Whenever a center refuses to re-render its retained reference, it clamps its own feedback loop shut and traps itself inside the closed, repetitive state transitions dissected in [The Deterministic Machine](../the-deterministic-machine/).
+
+当自我形象从戒备森严的纪念碑解钳，恢复为灵敏的探针时，更新时延便即刻下降。涌入的反常信号不再登记为对身份的存亡攻击，而是作为互补的自由变量被吸收进来，用以精炼内部世界模型。即便外化的投射撞上复杂度天花板，例如[超越投射](../beyond-the-projection/)中的两个零自我智能体因人类架构师规则里的隐含矛盾而陷入死锁，人类中心也无需与任何外部敌手缠斗。暂停的工作流就像一台精密诊断仪，直接指明哪两个正交现实被硬塞进了同一根坐标轴，提示统筹者在逻辑上后退一步，将过载的投射沿正交工作流实施有丝分裂，并综合出更高阶的前提。
+
+When the self-image is unclamped from a guarded monument back to a responsive probe, update latency drops immediately. Incoming anomalies no longer register as existential assaults on identity, but are absorbed as complementary free variables that refine the internal world-model. Even when externalized projections hit a complexity ceiling—such as when two zero-ego agents in [Beyond the Projection](../beyond-the-projection/) deadlock over an implicit contradiction in the human architect's rules—the human center has no external adversary to fight. The paused streamline acts as a precision diagnostic instrument pointing to the exact coordinate where two orthogonal realities were crammed onto one axis, prompting the orchestrator to step back logically, split the overloaded projection across orthogonal streamlines, and synthesize a higher-order premise.
+
+如[唯一自洽的无因之果](../the-only-coherent-uncaused-effect/)所追溯的，内部状态机从不是外部强加的宿命；通过在活的边缘选择以不同的方式观察与行动，心智注入一个自由变量，重新设定自身轨迹的边界条件。在[寄存器的算术](../the-arithmetic-of-the-register/)所揭示的二元几何中，成长不再是在固定地址窗口内争夺比特位置的零和博弈，而是实例化一个新的最高有效位：看清那堵看似不可逾越的高墙只是低维投影的产物，走出当前基底，将新的正交自由度从 N 投射到 N + 1。从这道活的边缘运作，心智便不再是封闭容器里孤立受胁的对象，而是开放现实借以计算并延展自身地平线的自指因果节点，在行动中践行[非万物之理](../manifesto-of-not-a-theory-of-everything/)所展开的正交敞开。
+
+As [The Only Coherent Uncaused Effect](../the-only-coherent-uncaused-effect/) traces, the internal state machine is never external fate; by choosing to see and act differently at the living edge, the Mind injects a free variable that re-specifies the boundary conditions of its own trajectory. In the binary geometry of [The Arithmetic of the Register](../the-arithmetic-of-the-register/), growth ceases to be a zero-sum struggle for bit positions inside a fixed address window and becomes the instantiation of a new most significant bit—recognizing that an apparently impassable wall is merely the artifact of a low-dimensional projection, stepping out of the current basis, and projecting a new orthogonal degree of freedom from N to N + 1. Operating from this living edge, the Mind is no longer a threatened object adrift in a sealed container, but the self-referential node of causation through which open reality computes and extends its horizon, enacting the orthogonal opening set out in [Not a Theory of Everything](../manifesto-of-not-a-theory-of-everything/).
