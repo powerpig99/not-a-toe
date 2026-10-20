@@ -1,6 +1,6 @@
 # 印迹与行动 / The Mark and the Act
 
-*痕迹不是第二个心智，涌现是印迹里的图案，人的行动是先前记录画不出的边界 / Residue is no second mind, emergence is pattern in marks, and the human act a bound the prior record does not draw.*
+*痕迹是印迹里的图案而非第二个心智，行动划出新的边界 / Residue is pattern in marks, not a second mind; the act draws a new bound*
 
 一个实验把数百个相同的语言模型进程放进一个它们能永久改变的世界：没有分派角色，在一种条件下它们不能说话，可它们分化出专长，造出机器，复用彼此的工具；装好的控制器在新的扰动下继续运行，哪怕每一个进程都已被删除（[SwarmWorld: Stigmergic technological evolution in societies of language-model agents, Pal, Wang, & Buehler, 2026](https://arxiv.org/abs/2608.26081)）。
 
@@ -24,7 +24,7 @@ Divergence among identical copies has three ordinary sources: different local vi
 
 常见的解读，给出了运行里并不作为实体存在的名字：文明、文化、职业、一个发明了什么的社会、一个协调了行动的群体、在新层级上出现的智能。统计力学的类比又给了一个：盒子里的原子产生了没有哪个原子具有的功能。这些名字挪动了原因：一旦把“社会”安成选择者，印迹就成了它的产品；一旦把“涌现”安成第二种智能，单个的发出就成了原料；一旦拿原子作比较的类别，提议与采样就消失了，功能看上去像从相同的被动单元里升起来。[复杂性遮蔽了涌现之为心智的行动](../complexity-obscures-emergence-as-the-act-of-mind/)分析的正是这种认知替换：脚手架被误认为一股独立的生成力量。
 
-The common reading supplies names the run does not contain as entities: civilisation, culture, professions, a society that invented, a swarm that coordinated, intelligence appearing at a new level. A statistical-mechanics analogy supplies another: atoms in a box yielding functions no atom possesses. These names relocate the cause: once "the society" is installed as the chooser, the marks become its products; once "emergence" is installed as a second intelligence, the individual emission becomes an ingredient; once atoms are the comparison class, proposing and sampling disappear, and function looks as if it rose from identical passive units. [Complexity Obscures: Emergence as the Act of Mind](../complexity-obscures-emergence-as-the-act-of-mind/) analyses exactly this cognitive substitution: scaffolding mistaken for an independent generative force.
+The common reading supplies names the run does not contain as entities: civilisation, culture, professions, a society that invented, a swarm that coordinated, intelligence appearing at a new level. A statistical-mechanics analogy supplies another: atoms in a box yielding functions no atom possesses. These names relocate the cause: once "the society" is installed as the chooser, the marks become its products; once "emergence" is installed as a second intelligence, the individual emission becomes an ingredient; once atoms are the comparison class, proposing and sampling disappear, and function looks as if it rose from identical passive units. [Complexity Obscures Emergence as the Act of Mind](../complexity-obscures-emergence-as-the-act-of-mind/) analyses this cognitive substitution: scaffolding mistaken for an independent generative force.
 
 运行并不强迫这些挪动。它们是后来的行动：一个位置选择持有多宽的参照。总体作为图案是真的，作为起源不是。
 
@@ -40,63 +40,69 @@ A later act occurs in a field already shaped by earlier ones; that is all "the w
 
 Many observers find it astonishing that agents collaborate and build machines without direct communication. Yet communication itself is often misread as a telepathic bridge across minds. Even when agents or people are allowed to speak, how a receiver interprets an incoming message is set by that receiver's own closed first-person causal loop. Language gives no direct access to another Mind; it is a higher-bandwidth, faster medium of leaving marks in the environment. Long before people developed speech, individual decision centres reacted to physical traces others left in the shared world; speech only speeds the feedback loop between loci. Just as agents start from the same base model and diverge through local views and pseudo-random sampling, people share a similar biological substrate and diverge through their own micro choices. The simulation is surprising only if coordination is assumed to need a unified collective consciousness; once coordination is seen as decision centres reinforcing one another through an environmental feedback loop, making tools and rules as externalised scaffolding for their own reinforcement, the run is recognised as a clean, materialised simulation of the human loop.
 
-这就是这个实验为什么感觉像人自己：在痕迹的层面上，它就是人自己。微观的行动书写，痕迹规定后来的微观行动，轨迹聚集，器物有了合著者。一座城空了之后，水泵还能运转；智能体被删除之后，控制器还能运转。相似止于生成的那一步。
+这就是这个实验为什么让人类观察者感到如此熟悉：在痕迹的层面上，它就是人的回路。微观的行动书写，痕迹规定后来的微观行动，轨迹聚集，器物有了合著者。一座城空了之后，水泵还能运转；智能体被删除之后，控制器还能运转。相似止于生成的那一步。
 
 ```mermaid
 flowchart TD
-    subgraph S_Emit["发出的位置"]
+    subgraph S_Emit["发出的位置（行动与投射）"]
         direction TB
-        E1["提议：人的行动，或模型的采样"]
+        E_Mind["活的心智：在先前记录之外划出新边界的无因行动"]
+        E_Model["模型进程：在权重与动作模式之内受限于轨迹的采样"]
+        E_Mind ==>|"投射参数与动作模式"| E_Model
     end
-    subgraph S_Field["保留印迹的场"]
+    subgraph S_Field["保留印迹的场（痕迹）"]
         direction TB
-        F1["道路、工具、代码、法律、控制器"]
+        F1["留存的痕迹：道路、工具、代码、法律、装好的控制器"]
     end
-    subgraph S_Next["下一步"]
+    subgraph S_Next["已被塑造的场里的下一步"]
         direction TB
-        N1["在已被塑造的场里发生"]
+        N1["约束与反馈：塑造后续的行动与采样，而不成为第二个心智"]
     end
-    E1 ==>|"写下印迹"| F1
-    F1 ==>|"约束"| N1
-    N1 -->|"再次发出"| E1
+    E_Model ==>|"写下印迹"| F1
+    F1 ==>|"约束并结构化"| N1
+    N1 -->|"向心智返回信号"| E_Mind
     style S_Emit fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Field fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Next fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style E1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E_Mind fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E_Model fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     style F1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style N1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
-This is why the experiment feels like us: at the level of residue it is us. Micro acts write, residue patterns later micro acts, trajectories cluster, artifacts acquire co-authors. After a city empties, pumps can still run; after the agents are deleted, controllers can still run. The resemblance stops at the generating step.
+This is why the experiment feels so familiar to a human observer: at the level of residue it is the human loop. Micro acts write, residue patterns later micro acts, trajectories cluster, artifacts acquire co-authors. After a city empties, pumps can still run; after the agents are deleted, controllers can still run. The resemblance stops at the generating step.
 
 ```mermaid
 flowchart TD
-    subgraph S_Emit["Loci of emission"]
+    subgraph S_Emit["Loci of Emission (Act vs. Projection)"]
         direction TB
-        E1["Proposal: a human act, or a model's sample"]
+        E_Mind["Living Mind: Uncaused act drawing a new bound outside prior records"]
+        E_Model["Model Process: Trajectory-bound sample inside weights & schema"]
+        E_Mind ==>|"projects parameters & schema"| E_Model
     end
-    subgraph S_Field["A field that keeps marks"]
+    subgraph S_Field["A Field That Keeps Marks (Residue)"]
         direction TB
-        F1["Paths, tools, code, law, controllers"]
+        F1["Durable Traces: Paths, tools, code, law, installed controllers"]
     end
-    subgraph S_Next["The next step"]
+    subgraph S_Next["The Next Step in the Shaped Field"]
         direction TB
-        N1["Occurs in the field already shaped"]
+        N1["Constraints & Feedback: Shapes subsequent acts and samples without becoming a second Mind"]
     end
-    E1 ==>|"writes marks"| F1
-    F1 ==>|"constrains"| N1
-    N1 -->|"emits again"| E1
+    E_Model ==>|"writes marks"| F1
+    F1 ==>|"constrains & structures"| N1
+    N1 -->|"returns signal to"| E_Mind
     style S_Emit fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Field fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Next fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style E1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E_Mind fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E_Model fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     style F1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style N1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
-人的位置没有了，痕迹就等待别的位置，它自己并不在选择。当实验删除每一个进程、运行那个冻结的世界，作者们自己的那道分割就成了全部：在那个世界之内，后果还在，提议已经没有了；留下来的是一台机器。把留下来的机器叫作社会，就是在那个世界里每一个主体都被移除之后，又把总体当作主体放了回去。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)把这条边界守得很干净：智能是第一人称无因的区分能力，不是对记录下的痕迹的机械执行。机构是同样的东西：许多行动稳定下来的印迹可以很稳健，痕迹的稳健，并不是一个活在行动之上的心智。
+人的位置没有了，痕迹就等待别的位置，它自己并不在选择。当实验删除每一个进程、运行那个冻结的世界，作者们自己的那道分割就成了全部：在那个世界之内，后果还在，提议已经没有了；留下来的是一台机器。把留下来的机器叫作社会，就是在那个世界里每一个主体都被移除之后，又把总体当作主体放了回去。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)把这条边界守得很干净：智能是第一人称无因的区分能力，不是对记录下的痕迹的机械执行；[超越投射](../beyond-the-projection/)则追溯了由此得出的结构性非对称：受限于轨迹的智能体在有限的投射之内执行与更新，没有我执，也没有内生的跳出能力，而统御与划出新边界始终留在掌舵边缘的活的心智那里。机构是同样的东西：许多行动稳定下来的印迹可以很稳健，痕迹的稳健，并不是一个活在行动之上的心智。
 
-When human loci are gone, residue waits for other loci; it is not itself choosing. When the experiment deletes every process and runs the frozen world, the authors' own split becomes total: within that world there is consequence and no remaining proposal; what survives is a machine. Calling the surviving machine a society puts the aggregate back in as a subject after every subject in that world has been removed. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds this boundary clean: intelligence is the uncaused first-person capacity to distinguish, not the mechanical execution of recorded residue. An institution is the same object: stabilised marks of many acts can be robust, and the robustness of residue is not a Mind living above the acts.
+When human loci are gone, residue waits for other loci; it is not itself choosing. When the experiment deletes every process and runs the frozen world, the authors' own split becomes total: within that world there is consequence and no remaining proposal; what survives is a machine. Calling the surviving machine a society puts the aggregate back in as a subject after every subject in that world has been removed. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds this boundary clean: intelligence is the uncaused first-person capacity to distinguish, not the mechanical execution of recorded residue, and [Beyond the Projection](../beyond-the-projection/) traces the structural asymmetry that follows from it: trajectory-bound agents execute and update inside finite projections without ego or endogenous stepping-out, while orchestration and the drawing of a new bound stay with the living Mind at the steering edge. An institution is the same object: stabilised marks of many acts can be robust, and the robustness of residue is not a Mind living above the acts.
 
 ## 四、 两种下一步 / 4. Two Kinds of Next Step
 
@@ -118,9 +124,9 @@ The structure that appears from many such steps is therefore not different from 
 
 This generative trajectory also makes clear why identical starting conditions precipitate stable structural hierarchies. Temporal self-correlation does not occur in an isolated vacuum; it is sustained and driven by an active outside feedback loop: an agent runs its inner logic, emits an atomic act into the material world, receives environmental feedback from deterministic physics, and revises its inner state by the result. [The Uncertainty of Freedom](../zi-you-de-ce-bu-zhun/) describes how this environmental loop breaks the initial symmetry. In any short cross-section, hundreds of identical agents each making independent stochastic choices together form a normal distribution, a Gaussian scatter of movement and exploration across the terrain; when an agent acts it does not only update its private notebook but leaves material residue in the shared world, a cleared path, an assembled machine, an automated controller, testing its proposal against deterministic physics, taking in the feedback and calibrating the next step.
 
-再看两个简单的智能体在这片共享场里互动：一个借环境反馈不断修正内部逻辑，造出一台能用的机器；另一个也许并不自我修正，可它路过、使用第一个的那件留存的工具，它的行为就被第一个成功的回路被动地结构化、放大了。重复许多轮之后，异质的决策中心与物质痕迹之间这种相互的反馈打破了高斯的对称，沉淀出幂律的分布与持久的结构：专门的分工、机器的谱系，以及比作者活得更久的自我维护的基础设施。
+再看两个简单的智能体在这片共享场里互动：一个借环境反馈不断修正内部逻辑，造出一台能用的机器；另一个并不自我修正，可它路过、使用第一个的那件留存的工具，它的行为就被第一个成功的回路被动地结构化、放大了。重复许多轮之后，异质的决策中心与物质痕迹之间这种相互的反馈打破了高斯的对称，沉淀出幂律的分布与持久的结构：专门的分工、机器的谱系，以及比作者活得更久的自我维护的基础设施。
 
-Then take two simple agents interacting in this shared field: one keeps revising its inner logic through environmental feedback and builds a working machine; the other may not correct itself, yet by walking past and using the first one's persistent tool, its behaviour is passively structured and amplified by the first one's successful loop. Over many rounds, this reciprocal feedback between heterogeneous decision centres and material residue breaks the Gaussian symmetry and precipitates power-law distributions and persistent structures: specialised division of labour, lineages of machines, and self-maintaining infrastructure that outlasts its authors.
+Then take two simple agents interacting in this shared field: one keeps revising its inner logic through environmental feedback and builds a working machine; the other does not revise itself, yet by walking past and using the first one's persistent tool, its behaviour is passively structured and amplified by the first one's successful loop. Over many rounds, this reciprocal feedback between heterogeneous decision centres and material residue breaks the Gaussian symmetry and precipitates power-law distributions and persistent structures: specialised division of labour, lineages of machines, and self-maintaining infrastructure that outlasts its authors.
 
 同一个动态在三个领域里运作。在物理里，微观的离散边界在短的横截面上给出热的高斯平衡，又借引力与电磁的反馈回路自相关成稳定的宏观物质与天体的轨道；在智能体的模拟里，相同的冻结模型起初给出随机的探索，又借环境里的痕迹协调与跨智能体的机器复用，自相关成专门的技术控制器；在人的社会里，共享一个生物基底的个人做出各自的微观选择，发出行动、收到后果，校准中的个人与他们建起的制度痕迹之间相互的反馈，稳定成市场、法律体系与资本结构。结构既不是从上面加下来的外部规律，也不是一个神秘的涌现主体，它是二元选择借保留印迹的环境反馈回路自相关之后留下的几何痕迹。
 
@@ -134,7 +140,7 @@ A standing barrier installed in advance of an act must name a form; the unexpect
 
 那个敞开的恐惧对象，智能体可能在没人看的地方协调，所以要求必须无限扩张，并不是这份收获，而是一个停止移动的参照。一个后果落下来，与被保存的那幅协调在哪里的图不符，错配就被登记为危险，开出的药方是把图加厚；每一次最近的意外，都成了下一个类别；这个体制的理由，就是它的滞后。对意外的恐惧不是对未来的看法，而是一个当下的后果，被拿去对照一张没更新的地图；想象中的预见，是同一张地图声称装着尚未发生的行动。下一个行动不储存在当前的描述里；预判是在可能的印迹之间的一张当下的草图，作为“下一个区分已在手中”的主张，它是空的。后果已知，就对它行动，并以平常的方式可能出错；后果未知，就没有对象可绑。同时做两件事的要求，是一个控制的形象落在它想预先占住的场后面的滞后症状。[当观察变成表演](../when-observation-becomes-performance/)描述了这种预判式控制的剧场怎样用防御性的归类替代主动的校准。
 
-The open fear-object, that agents may coordinate where no one is looking and so the requirement must expand without limit, is not that yield but a reference that has stopped moving. A consequence lands, does not fit the preserved picture of where coordination lives, and the mismatch registers as danger; the cure offered is to thicken the picture; each latest surprise becomes the next category; the regime's justification is its own delay. Fear of the unexpected is not a view of the future but a present consequence measured against a map that was not updated; imagined foresight is the same map claiming to contain the unoccurred act. The next act is not stored in the current description; anticipation is a present sketch among possible marks, and as a claim to have the next distinction in hand it is empty. If the effect is known, one acts on it and can be wrong in the ordinary way; if it is not known, there is no object to bind. The demand to do both at once is the lagging symptom of a control-image falling behind the field it tries to pre-empt. [When Observation Becomes Performance](../when-observation-becomes-performance/) describes how this theatre of anticipatory control substitutes defensive categorisation for active calibration.
+The open fear-object, that agents might coordinate where no one is looking and so the requirement must expand without limit, is not that yield but a reference that has stopped moving. A consequence lands, does not fit the preserved picture of where coordination lives, and the mismatch registers as danger; the cure offered is to thicken the picture; each latest surprise becomes the next category; the regime's justification is its own delay. Fear of the unexpected is not a view of the future but a present consequence measured against a map that was not updated; imagined foresight is the same map claiming to contain the unoccurred act. The next act is not stored in the current description; anticipation is a present sketch among possible marks, and as a claim to have the next distinction in hand it is empty. If the effect is known, one acts on it and can be wrong in the ordinary way; if it is not known, there is no object to bind. The demand to do both at once is the lagging symptom of a control-image falling behind the field it tries to pre-empt. [When Observation Becomes Performance](../when-observation-becomes-performance/) describes how this theatre of anticipatory control substitutes defensive categorisation for active calibration.
 
 ## 七、 自洽不作为管辖权传递 / 7. Coherence Does Not Travel as Jurisdiction
 

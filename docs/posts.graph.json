@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T15:41:45.544Z",
+    "generated_at": "2026-10-20T15:45:16.342Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -292,7 +292,7 @@
       "content/posts/the-loop-that-cant-see-itself.md": "9b03258725d1",
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
       "content/posts/the-map-after-the-territory.md": "1a231ded3754",
-      "content/posts/the-mark-and-the-act.md": "778190489f12",
+      "content/posts/the-mark-and-the-act.md": "1e6944042bba",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "9fde797d1966",
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "1cc729bed0a9",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "fd3f9916d247",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9245,
-      "unique_directed": 4714,
+      "edges": 9247,
+      "unique_directed": 4715,
       "missing_targets": 0,
-      "one_way": 236,
+      "one_way": 237,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -441,7 +441,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 83
+      "in_degree": 84
     },
     {
       "slug": "openness-is-consistency",
@@ -1069,7 +1069,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 83,
+      "in_degree": 84,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -7406,12 +7406,13 @@
       "slug": "the-mark-and-the-act",
       "path": "content/posts/the-mark-and-the-act.md",
       "title": "印迹与行动 / The Mark and the Act",
-      "hash": "778190489f12",
+      "hash": "1e6944042bba",
       "in_degree": 15,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "complexity-obscures-emergence-as-the-act-of-mind",
         "intelligence-belongs-only-to-the-mind",
+        "beyond-the-projection",
         "the-closed-loop-of-representation",
         "the-geometry-of-success",
         "zi-you-de-ce-bu-zhun",
@@ -49535,7 +49536,7 @@
       "from": "the-mark-and-the-act",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
-      "label": "Complexity Obscures: Emergence as the Act of Mind"
+      "label": "Complexity Obscures Emergence as the Act of Mind"
     },
     {
       "from": "the-mark-and-the-act",
@@ -49545,9 +49546,21 @@
     },
     {
       "from": "the-mark-and-the-act",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-mark-and-the-act",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-mark-and-the-act",
