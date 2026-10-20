@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T19:31:51.702Z",
+    "generated_at": "2026-10-20T19:34:52.907Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -95,7 +95,7 @@
       "content/posts/guan-yu-gui-yin.md": "bca54998a846",
       "content/posts/guidance-is-not-ownership.md": "7d51a8692137",
       "content/posts/hardness-is-not-inherent-in-the-action.md": "316eb567ee9c",
-      "content/posts/hardware-locality-is-not-the-information-boundary.md": "5e1f5d55d8c4",
+      "content/posts/hardware-locality-is-not-the-information-boundary.md": "13b7e7527a60",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
       "content/posts/hassabis-frontier-agi-premise.md": "5c4fc62c8e77",
       "content/posts/having-more-is-never-the-cause.md": "cf6fb47f5653",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9531,
-      "unique_directed": 4787,
+      "edges": 9535,
+      "unique_directed": 4788,
       "missing_targets": 0,
-      "one_way": 309,
+      "one_way": 310,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 154
+      "in_degree": 155
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1073,7 +1073,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 154,
+      "in_degree": 155,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -2690,13 +2690,14 @@
       "slug": "hardware-locality-is-not-the-information-boundary",
       "path": "content/posts/hardware-locality-is-not-the-information-boundary.md",
       "title": "硬件的本地性不是信息的边界 / Hardware Locality Is Not the Information Boundary",
-      "hash": "5e1f5d55d8c4",
+      "hash": "13b7e7527a60",
       "in_degree": 8,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "residual-control-recedes-to-the-edge",
         "the-scaffolding-we-forget-local-models-as-default",
         "causality-stays-at-the-edge-that-steers",
+        "beyond-the-projection",
         "data-is-local-intelligence-is-allocated",
         "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
         "sovereignty-belief-and-regulatory-structures",
@@ -22288,9 +22289,21 @@
     },
     {
       "from": "hardware-locality-is-not-the-information-boundary",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "hardware-locality-is-not-the-information-boundary",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
       "label": "Causality Stays at the Edge That Steers"
+    },
+    {
+      "from": "hardware-locality-is-not-the-information-boundary",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "hardware-locality-is-not-the-information-boundary",
@@ -22342,6 +22355,12 @@
     },
     {
       "from": "hardware-locality-is-not-the-information-boundary",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "hardware-locality-is-not-the-information-boundary",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
       "label": "No System Can Be Kept Closed"
@@ -22351,6 +22370,12 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness Is Consistency"
+    },
+    {
+      "from": "hardware-locality-is-not-the-information-boundary",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "hassabis-frontier-agi-premise",
