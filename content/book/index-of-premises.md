@@ -4598,7 +4598,7 @@ Expert authority presumes that findings densified from populations can decide fo
 
 Technological solutionism presumes that social and coordination problems are gaps for technology to fill, and that a shared, verifiable substrate can install the agency and coordination others lack, which is of use in describing how denser media close the seams in information and lower the cost of mutual inspection; it reaches its boundary in that coordination already operates as each center's withholding, assent and refusal, that boundedness is not a scarce good a protocol can distribute or return, and allocating the builders' own agency onto the scaffolding, then reading it back as a deficit in others, is how that deficit is sustained.
 
-→ [协调者的范畴错误 / The Coordinator’s Category Error](../../posts/the-coordinators-category-error/)
+→ [协调者的范畴错误 / The Coordinator's Category Error](../../posts/the-coordinators-category-error/)
 
 ### 以知为刃的截肢机制 / The Amputation of Knowing
 `哲学 / Philosophical`

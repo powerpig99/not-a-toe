@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T14:25:58.790Z",
+    "generated_at": "2026-10-20T14:27:13.443Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -223,7 +223,7 @@
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "3aed5a91fa9f",
       "content/posts/the-continuum-is-a-modeling-convenience.md": "2622676a6816",
       "content/posts/the-continuum-of-the-fold.md": "b54f1bd0b763",
-      "content/posts/the-coordinators-category-error.md": "be853b5f9ce9",
+      "content/posts/the-coordinators-category-error.md": "7aecdddc969b",
       "content/posts/the-cut-moves-but-never-vanishes.md": "393f0fffe02c",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "cf80079a6070",
@@ -407,7 +407,7 @@
       "content/book/causality.md": "529bd18279d8",
       "content/book/consciousness.md": "84e10ab5f9aa",
       "content/book/economics.md": "0208ea9246ef",
-      "content/book/index-of-premises.md": "2d26ffda1129",
+      "content/book/index-of-premises.md": "1e6c6ed457b8",
       "content/book/intelligence.md": "02d9fc8131b1",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -417,16 +417,16 @@
       "content/book/morality.md": "0024610ecad0",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
-      "content/book/state-and-collective.md": "2910cc1a33ce",
+      "content/book/state-and-collective.md": "0520232eef96",
       "content/book/success-and-the-self.md": "c884fe2b7f02",
       "content/book/tools-and-progress.md": "f326c837af48"
     },
     "stats": {
       "posts": 396,
-      "edges": 9141,
-      "unique_directed": 4689,
+      "edges": 9143,
+      "unique_directed": 4690,
       "missing_targets": 0,
-      "one_way": 213,
+      "one_way": 214,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -453,7 +453,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 60
+      "in_degree": 61
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -1068,7 +1068,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 60,
+      "in_degree": 61,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -5956,14 +5956,15 @@
       "kind": "post",
       "slug": "the-coordinators-category-error",
       "path": "content/posts/the-coordinators-category-error.md",
-      "title": "协调者的范畴错误 / The Coordinator’s Category Error",
-      "hash": "be853b5f9ce9",
+      "title": "协调者的范畴错误 / The Coordinator's Category Error",
+      "hash": "7aecdddc969b",
       "in_degree": 20,
-      "out_degree": 19,
+      "out_degree": 20,
       "links_out": [
         "the-scaffolding-we-forget",
         "intelligence-belongs-only-to-the-mind",
         "a-creation-cannot-replace-its-source",
+        "beyond-the-projection",
         "individual-choices-as-the-only-causal-levers",
         "the-misallocation-of-agency",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -41774,15 +41775,27 @@
     },
     {
       "from": "the-coordinators-category-error",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-coordinators-category-error",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence Belongs Only to The Mind"
+      "label": "Intelligence Belongs Only to the Mind"
     },
     {
       "from": "the-coordinators-category-error",
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
       "label": "A Creation Cannot Replace Its Source"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-coordinators-category-error",
@@ -64926,7 +64939,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "2d26ffda1129",
+        "hash": "1e6c6ed457b8",
         "out_degree": 396
       },
       {
@@ -65016,7 +65029,7 @@
         "slug": "state-and-collective",
         "path": "content/book/state-and-collective.md",
         "title": "国家集体与权力的镜像 / The State, Collectives, and the Mirror of Power",
-        "hash": "2910cc1a33ce",
+        "hash": "0520232eef96",
         "out_degree": 30
       },
       {
@@ -69327,7 +69340,7 @@
         "from": "book:index-of-premises",
         "to": "the-coordinators-category-error",
         "rel": "collects",
-        "label": "协调者的范畴错误 / The Coordinator’s Category Error"
+        "label": "协调者的范畴错误 / The Coordinator's Category Error"
       },
       {
         "from": "book:index-of-premises",
@@ -71097,7 +71110,7 @@
         "from": "book:state-and-collective",
         "to": "the-coordinators-category-error",
         "rel": "collects",
-        "label": "协调者的范畴错误 / The Coordinator’s Category Error"
+        "label": "协调者的范畴错误 / The Coordinator's Category Error"
       },
       {
         "from": "book:state-and-collective",
