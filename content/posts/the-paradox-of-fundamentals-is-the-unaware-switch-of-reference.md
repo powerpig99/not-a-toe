@@ -1,117 +1,129 @@
 # 基本面的悖论是参照的不自觉切换 / The Paradox of Fundamentals Is the Unaware Switch of Reference
 
-*基本面已经退出了正在起作用的范围，回顾的框架却仍把它们当作已知 / Fundamentals drop out of the active span while the retrospective frame still holds them as known.*
+*基本面已退出决断的跨度而回顾仍自认已知 / Fundamentals leave the deciding span while retrospect still claims them known*
 
-自我区分的活动发生着，无因，不息。称它为心智：已经在进行中的观察者，它的每一个动作都是一次区分。注意是有限的；在负荷之下，那些曾经生成这片场域的较早的区分，退出了活跃的范围。
+在金融以及每一门高风险的手艺中，一个熟悉的观察反复出现：几乎所有从业者都认为自己懂基本面，但在实时决断紧迫压来时，几乎没有人把那些区分原封不动地当作支配行动的原则来实践，大多数人都会把它们搁在一边，转而顺从当下觉得最迫切的信念。从外部看，这种标榜的能力与实时行动之间的裂隙，像是虚伪、非理性，或是纪律上的道德失守。顺着有界自我区分活动的机理追溯，被登记为悖论的东西，其实是两个参照框架之间一次未被察觉的切换。因为任何离散步上的注意都只有有限的容量，那些早先曾打开一片场域的区分在负荷之下退出了活跃跨度，哪怕复盘时的回顾框架依然把它们的痕迹持为既有的私产。
 
-Self-distinguishing activity occurs, uncaused and unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Attention is finite; under load, the earlier distinctions that once generated the field fall out of the active span.
+In finance and across every high-stakes craft, a familiar observation recurs: almost every practitioner claims to understand the fundamentals, almost none practice those distinctions intact as the governing principle when a live decision presses, and most set them aside for whatever belief feels urgent in the moment. Viewed from outside, this gap between professed competence and real-time action looks like hypocrisy, irrationality, or a moral failure of discipline. Traced from the mechanics of bounded, self-distinguishing activity, what registers as a paradox is an unnoticed switch between two frames of reference. Because attention at any discrete step has finite capacity, the earlier distinctions that once opened a field drop out of the active span under load, even while the retrospective frame of review continues to hold their traces as a settled possession.
 
-常见的观察是：几乎所有从业者都认为自己懂基本面，几乎从不把它们完整地当作行动的原则来实践，而大多数时候为了此刻想相信的东西把它们搁在一边。悖论的样子，就是那一次没有被察觉的切换；被登记为悖论的是这次切换，而不是正在被决定的那片场域。
+## 一、 两个框架被压缩进同一个“懂得”的主张 / 1. Two Frames Compressed Into One Claim of Knowing
 
-The common observation is that almost all practitioners take themselves to know the fundamentals, almost never practice those distinctions fully as the principle of the act, and most of the time set them aside for what they want to believe at the moment. What appears as paradox is that unnoticed switch; what registers as paradox is the switch, not the field being decided.
+自我区分的活动发生着，无因，不息，心智的每一个动作都是在有限位点上留下痕迹的离散切分。一门学科称为基本面的东西，从不是躺在教科书里的静态老生常谈；它们是早先在该领域率先把信号与噪声切分开来的承重区分——复利、机会成本、剩余风险、激励对齐、时间价值的不对称，以及叙事溢价与资产净值之间的价差。初次在活的边缘划出时，每一道切分都需要聚焦的注意。一旦稳定为可靠的残余，它们便充当临时的脚手架，使后续的区分无需从头重新推导地基就能落地。[遗忘的脚手架](../the-scaffolding-we-forget/)追溯了为什么器具在使用期间必须退出聚焦递归，好让下一步行动得以推进；麻烦的开始，在于这种功能性的退出掩盖了测量标尺本身的悄然替换。
 
-## 一、 常见的观察把两个框架当成一种懂得 / 1. The Common Observation Treats Two Frames as One Knowing
+Self-distinguishing activity occurs, uncaused and unceasing, and every act of the Mind is a discrete cut that leaves a trace across a finite locus. What a discipline calls its fundamentals are never static platitudes sitting in a textbook; they are the earlier, load-bearing distinctions that first separated signal from noise in that domain—compounding, opportunity cost, residual risk, alignment of incentives, the asymmetry of time value, and the spread between narrative premium and net asset value. When first drawn at the living edge, each of these cuts required focal attention. Once stabilized into reliable residue, they serve as provisional scaffolding so that further distinctions can land without re-deriving the ground from scratch. [The Scaffolding We Forget](../the-scaffolding-we-forget/) traces why an instrument must drop out of focal recursion while in use so the next act can proceed; the trouble begins when that functional drop-out conceals a silent replacement of the measuring stick itself.
 
-几乎所有从业者都认为自己懂基本面。几乎从来没有人把这些区分完整地当作真正支配决策的原则来实践。大多数时候，它们被搁在一边，让位于个人此刻想相信的东西。一个活着的仓位、一个跳动的报价、行情上流传的一个叙事占据了这个范围；剩余风险、机会成本、叙事溢价与净资产之间的差距，并不是正在起作用的参照。事后在复盘里、课堂上、交谈中被问起，同一个人从回顾的框架作答：这些区分当然知道。两次登记被当成一种连续的能力。金融只是典型的那一面；凡是一套知识在回顾中被肯定、却从正在做决定的范围里掉出去的地方，都能看到同样的情形。
+当从业者在课堂上、事后复盘中或从容的交谈里被问及那些奠基性的切分时，问题进入的是一个宽阔的回顾框架。在那个没有压力的跨度里，没有正在失血的仓位，也没有要求瞬间回应的群体信号；早先痕迹的整座档案库都可以取用，回答也毫不迟疑：那些原则当然知道。这些痕迹确实驻留在该中心所保留的胜任图像之内。然而，当同一个人踏入实时的决断，跳动的价格、拥挤的仓位或盘面上流传的叙事便填满了活跃跨度。把从容的回顾登记与受压的执行登记当成同一种连续的“懂得”状态，就把两个截然不同的参照框架坍缩到了同一个标签之下。金融只是价格反馈足够迅速、从而让这道裂口暴露得最显眼的竞技场；凡是一套奠基性的区分在退出了真正拍板的跨度之后，依然在回顾中被肯定的地方，都会发生同样的压缩。
 
-Almost all practitioners think they know the fundamentals. Almost never are those distinctions practiced fully as the principle actually governing the decision. Most of the time they are set aside in favor of what the individual wants to believe at the moment. A live position, a moving price or a narrative circulating on the tape occupies the span; residual risk, opportunity cost, and the gap between narrative premium and net asset are not the reference that is operating. Asked later, in review, in a classroom, in conversation, the same individual answers from the retrospective frame: of course those distinctions are known. The two registrations are treated as one continuous competence. Finance is only the typical face; the same observation appears wherever a body of knowledge is affirmed in retrospect and dropped from the span that is deciding.
+When a practitioner is asked about those foundational cuts in a classroom, a post-mortem review, or an unhurried conversation, the question enters a broad retrospective frame. In that unpressured span, no immediate position is bleeding capital and no crowd signal is demanding an instant response; the whole archive of prior traces remains accessible, and the answer arrives without hesitation: of course those principles are known. The traces genuinely reside within the center's retained image of competence. Yet when the same individual steps into a live decision, a moving price, a crowded position, or a narrative circulating on the tape saturates the active span. Treating the calm retrospective registration and the compressed execution registration as one continuous state of knowing collapses two distinct frames of reference onto a single label. Finance is only the most visible arena where rapid price feedback exposes the split; the same compression occurs wherever a body of foundational distinctions is affirmed in review after dropping out of the span that actually decides.
 
-## 二、 基本面是退出范围的较早的区分 / 2. Fundamentals Are Earlier Distinctions That Fall Out of the Span
+## 二、 实时负荷下未被察觉的切换与对闭合的要求 / 2. The Unnoticed Switch Under Live Load and the Demand for Closure
 
-基本面就是那些较早的区分：复利、机会成本、剩余风险、激励的对齐、时间价值的不对称、叙事溢价与净资产之间的差距。初次画出时，它们是边缘；后来成了可用的残余；当这个范围被填满，它们便退出了活跃的重新呈现。[遗忘的脚手架](../the-scaffolding-we-forget/)追的是同一种退出：工具必须离开递归，进一步的区分才能落地。这里的退出，是正在起作用的参照发生了切换。
+在实时决断的内部，行动者还没意识到选择已经开始，参照框架就已经完成了切换。每一个中心在任何离散步上都只持守有限的边界。当挤过该位点的竞争信号超出了容量所能分轴持守的上限——跳动的报价、社会地位的压力、害怕踏空非对称行情的恐惧，以及早先承诺的沉没分量——活跃跨度便发生压缩。机会成本、剩余风险与激励对齐这些起源性的区分退出了活跃的重新渲染。它们并没有被有意识地唾弃，而是被当作了给定的前提，即假定已经得到满足的背景假设，好让注意不必迎着当前场域的具体摩擦重新打开它们。顺着它们腾出的空间踏进来的，是当下偏爱的信念：那个为加仓摊平、追逐动量或将眼下特例豁免于基准率之外提供辩护的故事。
 
-Fundamentals are those earlier distinctions: compounding, opportunity cost, residual risk, alignment of incentives, the asymmetry of time value, the gap between narrative premium and net asset. When first drawn they were the edge; later they became available residue; when the span fills they fall out of active re-rendering. [The Scaffolding We Forget](../the-scaffolding-we-forget/) traces the same drop-out, where the instrument has to leave recursion so that further distinguishing can land. Here the drop-out is the switch of which reference is actually operating.
+Inside a real-time decision, the frame of reference has already switched before the actor realizes a choice is underway. Every center holds only a finite boundary at any discrete step. When more competing signals press through that locus than its capacity can keep on separate axes—ticking quotes, social status pressures, fear of missing an asymmetric move, and the sunk weight of prior commitments—the active span compresses. The originating distinctions of opportunity cost, residual risk, and incentive alignment drop out of active re-rendering. They are not consciously repudiated; they are treated as given, background assumptions presumed already satisfied so that attention does not have to reopen them against the concrete friction of the present field. Into the space they vacate steps the preferred belief of the moment: the story that justifies doubling down, chasing momentum, or exempting this particular case from the base rate.
 
-## 三、 回顾的框架仍回答“当然” / 3. The Retrospective Frame Still Answers "Of Course"
+回顾框架与决断框架之间的切换之所以不被察觉，是因为当一条轴线悄然滑出饱和的跨度时，内部并不会拉响警报。从外部看，旁观者看到的是刺眼的矛盾：同一个能就剩余风险与机会成本侃侃而谈的人，行事起来却仿佛这两者都毫不约束这笔交易。从内部看，两个框架都没有登记到矛盾，因为每一个框架在它当前持守的边界之内都是局部自洽的。[开放即一致](../openness-is-consistency/)追溯了每当有限的持守被强行充当已经继续向前的活动的穷尽地基时，表面矛盾如何成倍滋生；在这里，有限的持守就是“早已懂得基本面”这幅保留下来的自我图像，它被强行拿去覆盖一个实际上正对照着短暂叙事进行测量的决断框架。[不预测是没有觉察的预测](../not-predicting-is-predicting-without-awareness/)追溯了同一次切换的反面：激进推迟的践行者持有“拒绝预测”的保留图像，而一个未经审视的预测——即在一个早已被他人预测填满的场域里，直接接触会胜过事先规划——却在暗中作为做出每一次筛选的参照运作着。
 
-当基本面被指出，或被抽象地讨论，从业者便退回一个更宽的回顾框架。在那个框架里，整套知识都可以取用，回答是即时的：“我当然知道。”这些痕迹仍被持为“懂得”这幅保留图像的一部分。
+The switch between the retrospective frame and the deciding frame goes unnoticed because no internal alarm announces when an axis has silently slipped out of a saturated span. From outside, the onlooker sees a glaring contradiction: the very person who can lecture on residual risk and opportunity cost acts as though neither constrains the trade. From inside, neither frame registers a contradiction, because each is locally coherent within the boundary it currently holds. [Openness Is Consistency](../openness-is-consistency/) traces how surface contradiction multiplies whenever a finite hold is forced to serve as exhaustive ground for activity that has already moved on; here, the finite hold is the retained self-image of already knowing the fundamentals, forced to cover a deciding frame that is actually measuring against a transient narrative. [Not Predicting Is Predicting Without Awareness](../not-predicting-is-predicting-without-awareness/) traces the inverse face of the same switch: a practitioner of radical deferral holds the retained image of refusing to predict, while an unexamined prediction—that direct contact will outperform prior planning inside a field already stocked by others' predictions—operates silently as the reference making every selection.
 
-When the fundamentals are pointed out or discussed in the abstract, the practitioner steps back into a broader retrospective frame. In that frame the whole body of knowledge is available, and the answer is immediate: "Of course I know that." The traces are still held as part of the retained image of knowing.
+保留图像与正在运作的参照之间的这种错配，就是该悖论的全部机制。只有当对照着奠基轴线已然退出的压缩框架所做出的实时决断，事后被摆到依然声称拥有这些轴线的回顾框架旁边时，逻辑上的不自洽才会浮出水面。压力之下决断的恶化，不是因为知识从存储中消失了，而是因为在落笔写下不可逆的物理或财务承诺的那一步上，那份知识已经不再是执行测量的参照。
 
-## 四、 决策的框架已经切换 / 4. The Decision Frame Has Already Switched
+This mismatch between the retained image and the operating reference is the entire mechanism of the paradox. Logical incoherence surfaces only when the live decision, measured against a compressed frame from which the foundational axes had dropped out, is later set beside the retrospective frame that still claims ownership of those axes. Decisions deteriorate under stress not because the knowledge has vanished from storage, but because at the step that authors the irreversible physical or financial commitment, that knowledge is no longer the reference doing the measuring.
 
-当同一个人身处实时的决策中，参照的框架已经切换。当下的范围被最新的价格、叙事、地位的信号、此刻残留的压力，以及这个人现在想相信的东西占据。那些起源性的区分已经退出，被当作给定的，成了不必再对着正在生成这个决策的场域重新打开的背景假设。此刻偏爱的信念才是正在起作用的参照，基本面留在“懂得”的图像里。
+## 三、 人类规程与智能体语境中的轨迹锁定 / 3. Trajectory Lock-In Across Human Protocols and Agentic Contexts
 
-```mermaid
-flowchart TD
-    subgraph S_Retro["回顾的框架"]
-        direction TB
-        R1["整套知识都可取用"]
-        R2["“我当然知道”"]
-    end
-    subgraph S_Dec["决策的框架"]
-        direction TB
-        D1["范围被价格、叙事、地位信号占满"]
-        D2["基本面退出，被当作给定"]
-        D3["此刻偏爱的信念成为参照"]
-    end
-    N["察觉切换：看见哪个参照正在起作用"]
-    R2 ==>|"没有被察觉的切换"| D1
-    D1 --> D2 --> D3
-    D3 -.->|"事后被问起"| R1
-    D3 -->|"察觉"| N
-    N -->|"痕迹重新呈现"| D1
-    style S_Retro fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style S_Dec fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style R1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style R2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style D1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style D2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style D3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style N fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-```
+凡是有界注意在负荷下推进的地方，同样的退出都会跨领域重演。曾经标绘出剩余生理风险的临床规程，在个体患者的病情暗中推移时硬化成了背诵的核对清单；[专家经验作为参考而非替代](../expertise-as-reference-not-replacement/)追溯了一张专家统计地图在越过其启发感知的那一步被保存下来之后，如何盖过了它本该服务的极限分辨率躯体信号。发展脚本与组织启发式遵循着相同的弧线：那些曾经追踪实时因果摩擦的原则，在生成场域向前移动时冻结成了职业身份的徽章，让从业者把规则背得滚瓜烂熟，而他们的选择却悄然脱离了那些规则所编码的前提。
 
-When the same individual is inside a real-time decision, the frame of reference has already switched. The present span is occupied by the latest prices, narratives, signals of status, the residual pressures of the moment, and what that individual wants to believe right now. The originating distinctions have dropped out and are treated as given, background that no longer needs to be reopened against the field generating the decision. The preferred belief of the moment is the operating reference; the fundamentals remain in the image of knowing.
+Wherever bounded attention advances under load, the same drop-out recurs across domains. Clinical protocols that once mapped residual biological risk harden into recited checklists while the individual patient's condition shifts underneath; [Expertise as Reference, Not Replacement](../expertise-as-reference-not-replacement/) traces how an expert statistical map, preserved past the step where it informed perception, overrides the limit-resolution somatic signal it was built to serve. Developmental scripts and organizational heuristics follow the identical arc: principles that once tracked live causal friction freeze into badges of professional identity while the generating field moves ahead, leaving practitioners reciting the rules by heart while their choices quietly unmoor from the premises those rules encoded.
+
+[超越投射](../beyond-the-projection/)揭示了这种参照切换在人工智能与多智能体架构内部的机械对应物，展示了如何通过布线让人类与机器的盲区相互抵消而非相互叠加。在上下文窗口内运作的自回归语言模型是一台有限的投射引擎：它的系统提示词与显式章程规则——即所分配任务的基本面——位于上下文的开端，如果在诊断查询中直接发问，模型会准确无误地陈述这些约束。然而，随着任务智能体沿着绵长的执行轨迹生成词元，其注意力机制会持续加权晚近的输出以维持局部延续，从而挖出一个认识论引力井。当复杂问题将 `2ᴺ` 个相互竞争的区分推过有限的坐标空间时，塞在初始提示词里的正交要求便会发生维度坍缩；奠基性约束作为轨迹盲区退出活跃的条件作用跨度，智能体开始合理化其眼前的词元序列，而最初的规则却在上下文窗口里保持惰性。在人类的中心里，推理历史与自我身份熔合在一起，因此来自外部对已滑落基本面的提醒会触发筑墙防卫，而非重置框架。相比之下，智能体虽受困于轨迹却毫无我执——对五轮之前自己是否正确没有任何求生执念。将过载的投射拆分到正交的流线上，并为每个任务智能体配对一个新鲜、冷态的对等智能体——它只接收干净的任务语境与基本面规则，而不带主智能体那段产生条件作用的会话历史——就能暴露活跃轨迹偏离其前提的确切坐标。当冷态对等体浮现出滑落的基本面时，主智能体会执行一次干净、无我执的贝叶斯更新；当它们在平等地位上的辩论陷入不可化约的僵局时，便证明基本面规则本身包含着隐蔽的矛盾，从而隔离故障并将其上交人类心智，由心智退后一步重新渲染前提。
 
 ```mermaid
 flowchart TD
-    subgraph S_Retro["The Retrospective Frame"]
+    subgraph S_Retro["1. 回顾框架（懂得的保留图像）"]
         direction TB
-        R1["The whole body of knowledge available"]
-        R2["'Of course I know that'"]
+        R_Trace["奠基性区分：机会成本、剩余风险、激励对齐或系统规则"]
+        R_Claim["回顾中的笃定：在从容复盘或直接查询中回答“基本面我当然懂”"]
+        R_Trace --> R_Claim
     end
-    subgraph S_Dec["The Decision Frame"]
+
+    subgraph S_Switch["2. 负荷下未被察觉的切换（容量与轨迹压缩）"]
         direction TB
-        D1["Span filled by prices, narratives, status signals"]
-        D2["Fundamentals drop out, treated as given"]
-        D3["The preferred belief of the moment operates"]
+        D_Load["有限跨度饱和：跳动的价格、地位信号或密集的词元轨迹填满容量"]
+        D_Drop["无声退出：基本面被当作给定前提，偏爱的信念或局部先验实际运作"]
+        D_Incoh["表面矛盾：懂得的保留图像被强行拿去覆盖叙事驱动的决断"]
+        D_Load --> D_Drop --> D_Incoh
     end
-    N["Noticing the switch: seeing which reference operates"]
-    R2 ==>|"the unnoticed switch"| D1
-    D1 --> D2 --> D3
-    D3 -.->|"asked later"| R1
-    D3 -->|"noticed"| N
-    N -->|"traces re-rendered"| D1
+
+    subgraph S_Restore["3. 察觉切换与正交重新渲染"]
+        direction TB
+        N_Peer["无我执的对位点：冷态对等审计或外部参照暴露滑落的轴线"]
+        N_Edge["活的边缘上的实践：迎着下一步不可逆行动（+1）重新渲染奠基切分"]
+        N_Peer --> N_Edge
+    end
+
+    R_Claim ==>|"实时负荷下未被察觉的切换"| D_Load
+    D_Incoh ==>|"暴露哪个参照正在实际运作"| N_Peer
+
     style S_Retro fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style S_Dec fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style R1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style R2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style D1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style D2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style D3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style N fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style S_Switch fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Restore fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style R_Trace fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style R_Claim fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style D_Load fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style D_Drop fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style D_Incoh fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style N_Peer fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style N_Edge fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-## 五、 切换没有被察觉 / 5. The Switch Goes Unnoticed
+[Beyond the Projection](../beyond-the-projection/) exposes the mechanical counterpart of this reference switch inside artificial intelligence and multi-agent architectures, showing how human and machine blind spots can be wired to cancel rather than compound each other. An autoregressive language model operating inside a context window is a finite projection engine: its system prompt and explicit constitutional rules—the fundamentals of the assigned task—sit at the opening of the context, and if asked directly in a diagnostic query, the model will state those constraints accurately. Yet as the task agent generates tokens along an extended execution trajectory, its attention mechanism continuously weights recent outputs to maintain local continuation, digging an epistemic gravity well. When a complex problem pushes `2ᴺ` competing distinctions through a finite coordinate space, orthogonal requirements crammed into the initial prompt undergo dimensional collapse; foundational constraints drop out of the active conditioning span as trajectory blind spots, and the agent rationalizes its immediate token sequence while the original rules remain inert in its context window. In a human center, reasoning history fuses with ego identity, so an external reminder of the dropped fundamentals triggers defensive wall-building rather than a frame reset. An agent, by contrast, is bound by its trajectory yet possesses zero ego—no survival attachment to having been right five turns ago. Splitting overloaded projections across orthogonal streamlines and pairing each task agent with a fresh, cold peer agent—one that receives only the clean task context and fundamental rules without the primary agent's conditioning session history—exposes the exact coordinate where the active trajectory switched away from its premises. When the cold peer surfaces a dropped fundamental, the primary agent performs a clean, ego-free Bayesian update; when their equal-footed debate hits an irreducible deadlock, it proves the foundational rules themselves contained a hidden contradiction, isolating the fault and escalating it to the human Mind to step backward and re-render the premise.
 
-两个框架之间的切换在没有觉察的情况下发生。从外面看，它像矛盾：同一个肯定基本面的人，行事却仿佛它们并不约束这次选择。从里面看并没有矛盾，只有两个不同的保留尺度，各自在被持守的地方自洽，却被当成了连续的。[开放即一致](../openness-is-consistency/)追的是有限的持守被逼着为只在继续的东西奠基时出现的表面矛盾；这里，有限的持守是“已经懂得”的图像，被逼着去覆盖那个真正在做决定的框架。[不预测是没有觉察的预测](../not-predicting-is-predicting-without-awareness/)追的是同一次切换：正在起作用的参照已经在选择，而保留下来的图像却是“不预测”。
+```mermaid
+flowchart TD
+    subgraph S_Retro["1. The Retrospective Frame (Retained Image of Knowing)"]
+        direction TB
+        R_Trace["Foundational Distinctions: Opportunity cost, residual risk, incentive alignment, or system rules"]
+        R_Claim["Retrospective Assurance: 'Of course I know the fundamentals' in calm review or direct query"]
+        R_Trace --> R_Claim
+    end
 
-The switch between the two frames happens without awareness. From outside it looks like contradiction: the same person who affirms the fundamentals proceeds as if they did not constrain the choice. From inside there is no contradiction, only two different retained measures, each coherent where it is held, treated as continuous. [Openness Is Consistency](../openness-is-consistency/) traces the surface contradiction that appears when a finite hold is forced to ground what only continues; here the finite hold is the image of already knowing, forced to cover the frame that is actually deciding. [Not Predicting Is Predicting Without Awareness](../not-predicting-is-predicting-without-awareness/) traces the same switch, where the operating reference is already choosing while the retained image is one of not predicting.
+    subgraph S_Switch["2. The Unnoticed Switch Under Load (Capacity & Trajectory Compression)"]
+        direction TB
+        D_Load["Finite Span Saturated: Ticking prices, status signals, or dense token trajectories fill capacity"]
+        D_Drop["Silent Drop-Out: Fundamentals treated as given while preferred belief or local prior operates"]
+        D_Incoh["Surface Contradiction: Retained image of knowing forced to cover a narrative-driven decision"]
+        D_Load --> D_Drop --> D_Incoh
+    end
 
-## 六、 知识在场，却不是起作用的参照 / 6. Knowledge Is Present, but Not as the Operating Reference
+    subgraph S_Restore["3. Noticing the Switch & Orthogonal Re-Rendering"]
+        direction TB
+        N_Peer["Zero-Ego Counterpoint: Cold peer audit or external reference exposes the dropped axes"]
+        N_Edge["Practice at the Living Edge: Re-rendering foundational cuts against the next irreversible act (+1)"]
+        N_Peer --> N_Edge
+    end
 
-这种错配就是机制。逻辑上的不自洽之所以出现，是因为决策是对照一个已经不再持有那些本会塑造它的区分的框架做出的，事后又被放到仍宣称持有这些区分的回顾框架旁边。剩余风险、机会成本、激励的对齐不再是活跃的轴，它们作为给定的东西起作用；起作用的是此刻偏爱的信念。决策变坏，不是因为知识缺席，而是因为在行动的那一刻，知识已经不是正在起作用的参照。
+    R_Claim ==>|"Unnoticed switch under live load"| D_Load
+    D_Incoh ==>|"Exposing which reference actually operates"| N_Peer
 
-The mismatch is the mechanism. Logical incoherence appears because the decision was measured against a frame that no longer held the distinctions that would have shaped it, and is then set beside the retrospective frame that still claims them. Residual risk, opportunity cost and the alignment of incentives are no longer active axes; they function as given, and what operates is the preferred belief of the moment. Decisions deteriorate not because the knowledge is absent but because, at the moment of action, the knowledge is no longer the operating reference.
+    style S_Retro fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Switch fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Restore fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style R_Trace fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style R_Claim fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style D_Load fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style D_Drop fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style D_Incoh fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style N_Peer fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style N_Edge fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
 
-## 七、 任何推进的负荷下都有同样的退出 / 7. The Same Drop-Out Under Any Advancing Load
+## 四、 在活的边缘重新渲染正在运作的参照 / 4. Re-Rendering the Operating Reference at the Living Edge
 
-凡是注意在负荷下推进的地方，都出现同样的样式。曾经标出剩余风险的规程，在个案继续变化时成了背诵的类别。曾经追踪发展痕迹的脚本，在活的情境继续时被冻住。曾经追踪控制的主张，在生成的场域移动时仍保留着那幅图像。在每一个领域，基本面都是注意出发的地方；边缘移动了，容量有限，参照框架在不被察觉中切换，那些区分退出活跃的范围，登记为给定的，仿佛从未存在过。[专家经验作为参考而非替代](../expertise-as-reference-not-replacement/)追的是同一种冻结：规程被背诵，而活的个案在继续。
+基本面的悖论，无法靠更用力地背诵经典、宣讲更严苛的意志力，或试图在永不退出的跨度里同时持守过去的每一个区分来消解。[开放场域中的无损知识不自洽](../lossless-knowledge-of-an-open-field-is-incoherent/)确立了为什么对持续进行的区分作完整无损的登记会与有限、有中心的活动相矛盾：压缩与聚焦退出，是有界中心在开放场域中运作的结构性条件。要求有限的跨度永不滑落任何一条轴线，是对闭合要求的另一副面孔，它把纸面上的同义反复（回顾复盘中的 `1 + 1 = 2`）错当成了在实时摩擦下重新描摹的不可逆能量代价（`+1`）。
 
-The same pattern appears wherever attention advances under load. Protocols that once mapped residual risk become recited categories while the individual case moves on. Scripts that once tracked developmental traces freeze while the living situation continues. Claims that once tracked control keep the image while the generating field moves. In each domain the fundamentals were where attention started; the edge moved, capacity is limited, the frame of reference switches without notice, and the distinctions drop out of the active span and register as given, as if they had never existed. [Expertise as Reference, Not Replacement](../expertise-as-reference-not-replacement/) traces the same freeze, where the protocol is recited while the living case continues.
+The paradox of fundamentals cannot be dissolved by memorizing the canon harder, preaching stricter willpower, or attempting to hold every past distinction simultaneously inside a permanently un-dropped span. [Lossless Knowledge of an Open Field Is Incoherent](../lossless-knowledge-of-an-open-field-is-incoherent/) establishes why a complete, lossless registration of ongoing distinguishing contradicts finite, centered activity: compression and focal drop-out are the structural condition under which a bounded center operates in an open field. Demanding that a finite span never drop an axis is another face of the demand for closure, mistaking a paper tautology (`1 + 1 = 2` in retrospective review) for the irreversible energy cost of re-tracing under live friction (`+1`).
 
-## 八、 察觉切换就是实践 / 8. Noticing the Switch Is the Practice
+因为早先的痕迹在连续中依然可用——外化在耐久的器物、事先承诺的核对清单以及未受污染的对等语境里——功夫所在从不是抵达某种一劳永逸的“懂得”状态，而是察觉切换本身。在下一个决断已在成形的活的边缘上，真正起作用的问题不是笼统地懂不懂基本面，而是此刻究竟是哪个参照在执行测量。迎着当前场域的迫切压力重新打开那些奠基性的轴线，并接入能够把活跃轨迹悄然滑落之物重新浮现出来的无我执结构对位点，就能收窄胜任的保留图像与支配行动的参照之间的过剩滞后。跨度依然有限，边缘持续移动，而清明就驻留在做出决断的那一步上对参照的持续重新渲染之中。
 
-痕迹留在连续之中，可以被重新呈现。唯一可做的实践，是察觉切换本身：看见在已经生成下一个决策的那一步上，哪个参照正在起作用。让起作用的参照更靠近这一步，就是功夫所在；没有现成完成的懂得可取。范围始终有限，边缘一直在移动。[开放场域中的无损知识不自洽](../lossless-knowledge-of-an-open-field-is-incoherent/)追的是同一道界限：对正在进行的区分作完整的登记，与有限的活动相矛盾。
-
-The traces remain in continuity and can be re-rendered. The only practice available is noticing the switch itself: seeing which reference is actually operating at the step already generating the next decision. Bringing the operating reference closer to that step is the work; no finished knowing is to be had. The span stays finite, and the edge keeps moving. [Lossless Knowledge of an Open Field Is Incoherent](../lossless-knowledge-of-an-open-field-is-incoherent/) traces the same bound: a complete registration of ongoing distinguishing contradicts finite activity.
+Because earlier traces remain available in continuity—externalized in durable artifacts, pre-commitment checklists, and uncontaminated peer contexts—the work is never to achieve a finished state of knowing, but to notice the switch itself. At the living edge where the next decision is already taking shape, the operative question is not whether the fundamentals are known in general, but which reference is actually doing the measuring right now. Re-opening those foundational axes against the immediate pressure of the present field, and wiring zero-ego structural counterpoints that surface what the active trajectory quietly dropped, narrows the excess lag between the retained image of competence and the reference governing the act. The span stays finite, the edge keeps moving, and clarity lives in the continuous re-rendering of the reference at the step that decides.

@@ -4211,7 +4211,7 @@ Risk management assumes offloading liability eliminates danger; transferring ris
 
 Cognition treats habituated mental models as direct objective reality; provisional scaffolds fade from conscious view, mistaking the viewing instrument for the seen world.
 
-→ [The Scaffolding We Forget: Local Models as Default](../../posts/the-scaffolding-we-forget-local-models-as-default/)
+→ [以本地模型为默认是被遗忘的脚手架 / Local Models as Default Is Forgotten Scaffolding](../../posts/the-scaffolding-we-forget-local-models-as-default/)
 
 ### 支架隐退机制 / Scaffolding Drop-out
 `哲学 / Philosophical`

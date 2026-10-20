@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T20:31:37.069Z",
+    "generated_at": "2026-10-20T20:33:25.034Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -312,7 +312,7 @@
       "content/posts/the-open-question-is-determinisms-demand.md": "f1804fe05d79",
       "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "60c3d0411af1",
       "content/posts/the-other-coherence.md": "5975542f4901",
-      "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "ef81ddddf533",
+      "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "e1df3871bf9e",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "cd35b5f1ec11",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "e6f9de62ab2f",
       "content/posts/the-perceiver-and-the-trace.md": "78c29d040a22",
@@ -337,7 +337,7 @@
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "11a703d79fe3",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "e4da611b6c1d",
       "content/posts/the-scaffolding-that-keeps-growing.md": "0270bdbc7b9a",
-      "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "96bcbd7b1d66",
+      "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "6d4b89a607dc",
       "content/posts/the-scaffolding-we-forget.md": "eaa9420f4956",
       "content/posts/the-scaling-loop.md": "afc3fe3b87ec",
       "content/posts/the-self-portrait-in-the-projection.md": "0e75cd1a6cf2",
@@ -407,13 +407,13 @@
       "content/book/causality.md": "c5ac49c16705",
       "content/book/consciousness.md": "9646f214f789",
       "content/book/economics.md": "c863f3bd1a44",
-      "content/book/index-of-premises.md": "dfe959f93f74",
+      "content/book/index-of-premises.md": "cbadaaf0e5ed",
       "content/book/intelligence.md": "699abff1af69",
       "content/book/knowledge-and-learning.md": "cca91fa2120f",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "0ae44b3e7554",
       "content/book/meaning-and-transcendence.md": "ce5168a72c34",
-      "content/book/method.md": "f2a6093fe0db",
+      "content/book/method.md": "5956074739d2",
       "content/book/morality.md": "166522199e9e",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9626,
-      "unique_directed": 4815,
+      "edges": 9634,
+      "unique_directed": 4817,
       "missing_targets": 0,
-      "one_way": 335,
+      "one_way": 337,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 177
+      "in_degree": 179
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1075,7 +1075,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 177,
+      "in_degree": 179,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -7960,14 +7960,15 @@
       "slug": "the-paradox-of-fundamentals-is-the-unaware-switch-of-reference",
       "path": "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md",
       "title": "基本面的悖论是参照的不自觉切换 / The Paradox of Fundamentals Is the Unaware Switch of Reference",
-      "hash": "ef81ddddf533",
+      "hash": "e1df3871bf9e",
       "in_degree": 5,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "the-scaffolding-we-forget",
         "openness-is-consistency",
         "not-predicting-is-predicting-without-awareness",
         "expertise-as-reference-not-replacement",
+        "beyond-the-projection",
         "lossless-knowledge-of-an-open-field-is-incoherent"
       ]
     },
@@ -8684,14 +8685,15 @@
       "kind": "post",
       "slug": "the-scaffolding-we-forget-local-models-as-default",
       "path": "content/posts/the-scaffolding-we-forget-local-models-as-default.md",
-      "title": "The Scaffolding We Forget: Local Models as Default",
-      "hash": "96bcbd7b1d66",
+      "title": "以本地模型为默认是被遗忘的脚手架 / Local Models as Default Is Forgotten Scaffolding",
+      "hash": "6d4b89a607dc",
       "in_degree": 4,
-      "out_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "the-scaffolding-we-forget",
         "intelligence-belongs-only-to-the-mind",
         "self-rl-for-humans",
+        "beyond-the-projection",
         "hardware-locality-is-not-the-information-boundary"
       ]
     },
@@ -54290,6 +54292,18 @@
     },
     {
       "from": "the-paradox-of-fundamentals-is-the-unaware-switch-of-reference",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-paradox-of-fundamentals-is-the-unaware-switch-of-reference",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-paradox-of-fundamentals-is-the-unaware-switch-of-reference",
       "to": "lossless-knowledge-of-an-open-field-is-incoherent",
       "rel": "points_to",
       "label": "开放场域中的无损知识不自洽"
@@ -58468,25 +58482,61 @@
       "from": "the-scaffolding-we-forget-local-models-as-default",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "The scaffolding we forget"
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "the-scaffolding-we-forget-local-models-as-default",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
     },
     {
       "from": "the-scaffolding-we-forget-local-models-as-default",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence belongs only to the Mind"
+      "label": "智能只属于心智"
     },
     {
       "from": "the-scaffolding-we-forget-local-models-as-default",
       "to": "self-rl-for-humans",
       "rel": "points_to",
-      "label": "Self-RL for humans"
+      "label": "看似AI的强化学习，实为人类的自我强化学习"
+    },
+    {
+      "from": "the-scaffolding-we-forget-local-models-as-default",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "the-scaffolding-we-forget-local-models-as-default",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "What Looks Like RL for AIs Is Self-RL for Humans"
+    },
+    {
+      "from": "the-scaffolding-we-forget-local-models-as-default",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-scaffolding-we-forget-local-models-as-default",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-scaffolding-we-forget-local-models-as-default",
       "to": "hardware-locality-is-not-the-information-boundary",
       "rel": "points_to",
-      "label": "Hardware locality is not the information boundary"
+      "label": "硬件的本地性不是信息的边界"
+    },
+    {
+      "from": "the-scaffolding-we-forget-local-models-as-default",
+      "to": "hardware-locality-is-not-the-information-boundary",
+      "rel": "points_to",
+      "label": "Hardware Locality Is Not the Information Boundary"
     },
     {
       "from": "the-scaffolding-we-forget",
@@ -67962,7 +68012,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "dfe959f93f74",
+        "hash": "cbadaaf0e5ed",
         "out_degree": 396
       },
       {
@@ -68016,7 +68066,7 @@
         "slug": "method",
         "path": "content/book/method.md",
         "title": "非万物之理 / Not a Theory of Everything",
-        "hash": "f2a6093fe0db",
+        "hash": "5956074739d2",
         "out_degree": 26
       },
       {
@@ -72075,7 +72125,7 @@
         "from": "book:index-of-premises",
         "to": "the-scaffolding-we-forget-local-models-as-default",
         "rel": "collects",
-        "label": "The Scaffolding We Forget: Local Models as Default"
+        "label": "以本地模型为默认是被遗忘的脚手架 / Local Models as Default Is Forgotten Scaffolding"
       },
       {
         "from": "book:index-of-premises",
@@ -73665,7 +73715,7 @@
         "from": "book:method",
         "to": "the-scaffolding-we-forget-local-models-as-default",
         "rel": "collects",
-        "label": "The Scaffolding We Forget: Local Models as Default"
+        "label": "以本地模型为默认是被遗忘的脚手架 / Local Models as Default Is Forgotten Scaffolding"
       },
       {
         "from": "book:method",
