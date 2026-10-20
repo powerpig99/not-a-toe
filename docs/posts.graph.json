@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T20:00:19.658Z",
+    "generated_at": "2026-10-20T20:03:09.842Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -339,7 +339,7 @@
       "content/posts/the-scaffolding-that-keeps-growing.md": "0270bdbc7b9a",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "96bcbd7b1d66",
       "content/posts/the-scaffolding-we-forget.md": "eaa9420f4956",
-      "content/posts/the-scaling-loop.md": "d0b0e395ca2c",
+      "content/posts/the-scaling-loop.md": "afc3fe3b87ec",
       "content/posts/the-self-portrait-in-the-projection.md": "0e75cd1a6cf2",
       "content/posts/the-shadow-and-the-infinite.md": "f857f118c0ae",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "e2ac2e53d575",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9570,
-      "unique_directed": 4802,
+      "edges": 9574,
+      "unique_directed": 4803,
       "missing_targets": 0,
-      "one_way": 324,
+      "one_way": 325,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 165
+      "in_degree": 166
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1074,7 +1074,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 165,
+      "in_degree": 166,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -8691,15 +8691,16 @@
       "slug": "the-scaling-loop",
       "path": "content/posts/the-scaling-loop.md",
       "title": "规模化回路 / The Scaling Loop",
-      "hash": "d0b0e395ca2c",
+      "hash": "afc3fe3b87ec",
       "in_degree": 7,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "context-engineering-essay",
         "self-rl-for-humans",
         "data-is-local-intelligence-is-allocated",
         "closed-assumptions-squeeze-compounding-into-s-curves",
+        "beyond-the-projection",
         "the-flywheel-of-the-mind",
         "production-consumption-and-the-minds-distinction"
       ]
@@ -59043,7 +59044,7 @@
       "from": "the-scaling-loop",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
-      "label": "Data Is Local; Intelligence Is Allocated"
+      "label": "Data Is Local, Intelligence Is Allocated"
     },
     {
       "from": "the-scaling-loop",
@@ -59059,6 +59060,18 @@
     },
     {
       "from": "the-scaling-loop",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-scaling-loop",
+      "to": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "rel": "points_to",
+      "label": "开放场域中的无损知识不自洽"
+    },
+    {
+      "from": "the-scaling-loop",
       "to": "the-flywheel-of-the-mind",
       "rel": "points_to",
       "label": "心智的飞轮"
@@ -59068,6 +59081,18 @@
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
       "label": "生产、消费与心智的区分"
+    },
+    {
+      "from": "the-scaling-loop",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-scaling-loop",
+      "to": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "rel": "points_to",
+      "label": "Lossless Knowledge of an Open Field Is Incoherent"
     },
     {
       "from": "the-scaling-loop",
