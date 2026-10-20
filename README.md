@@ -1,5 +1,8 @@
 # Not a ToE
 
+> **非定论的心智指南 / A Non-Definitive Guide for the Mind** ([Live Book](https://powerpig99.github.io/not-a-toe/))  
+> **Role in the Architecture:** The Living Book (`content/posts/` + `content/book/`) is the **Artificial Memory** paired with the **Artificial Mind** ([Ontological Clarity](https://github.com/powerpig99/ontological-clarity)); as a project repository on disk, it is an instance of **Extended Memory**.
+
 ## Authoring contract
 
 Guides (read these instead of re-deriving the workflow each time):
