@@ -45,3 +45,4 @@ The essays here explore antifragility in engineering, the calm tension between S
 - [独见者的自反困境与必然性的后验投射 / The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity](../../posts/the-reflexive-dilemma-of-unique-insight/)
 - [内部人假定与被动防护的因果倒置 / The Insider Presumption and the Causal Inversion of Reactive Containment](../../posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment/)
 - [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/)
+- [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/)

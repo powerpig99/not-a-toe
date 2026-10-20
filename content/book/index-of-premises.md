@@ -3266,7 +3266,7 @@ Retrospective appraisal treats meaning as a score calculated at life's end; mean
 
 Second brain systems accumulate passive repositories of summarized text; a genuine external cortex maintains dynamic causal graphs that actively challenge and feed living thought.
 
-→ [活的外部皮层 / A Living External Cortex](../../posts/a-living-external-cortex/)
+→ [活的外部皮层 / A Living External Cortex](../../posts/a-living-external-cortex/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/)
 
 ### 生命同源推断与器物投射 / Living Kinship vs Artifact Projection
 `科学 / Scientific`
@@ -3905,7 +3905,7 @@ AI自主化叙事宣称统计模型已化身独立意志主体；模型只是聚
 
 AI autonomy narratives claim statistical models act as self-willing agents; models densify historical patterns, remaining dependent on human input for initiation.
 
-→ [模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge](../../posts/the-model-never-becomes-a-second-edge/)
+→ [模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge](../../posts/the-model-never-becomes-a-second-edge/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/)
 
 ### 优选自我模型的维系 / Preferred Self-Model Maintenance
 `哲学 / Philosophical`
@@ -4463,7 +4463,7 @@ Algorithmic determinism presumes automated models take over system governance; c
 
 The storehouse model presumes that memory deposits units of knowledge in a store and retrieves them as they were, which is of use in telling remembering from forgetting and in weighing what to memorize against what to look up; it reaches its boundary in that what appears as memory is the activity meeting its own residue, usable structure persists by being re-rendered under new load, and an inventory kept in the head shapes the next step no more than one kept outside until it is re-traced into the present configuration.
 
-→ [真正稀缺的不是记忆，而是持续的重新追溯 / The Real Scarcity Is Not Memory, But Continuous Re-Tracing](../../posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing/)
+→ [真正稀缺的不是记忆，而是持续的重新追溯 / The Real Scarcity Is Not Memory, But Continuous Re-Tracing](../../posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/)
 
 ### 结构性NPC错觉 / Structural NPC Illusion
 `哲学 / Philosophical`
@@ -5246,4 +5246,4 @@ Presumes the randomness in a model's sampler is indeterminism in the ontological
 
 Presumes that a single agent can self-correct within its own session trajectory or that a manager agent can assume overarching orchestration in place of the human; effective when scoped to explicit sub-task splitting, context routing, and dispatching equal-footed cold-peer debate loops, it reaches its boundary because a lone agent trapped in its token trajectory wraps its own contradiction, and a manager agent facing an axiomatic deadlock lacks access to unprojected living intent.
 
-→ [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/)
+→ [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/)
