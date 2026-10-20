@@ -1952,7 +1952,7 @@ The replacement frame presumes a fixed catalog of economic tasks; automation low
 
 AI safety alerts claim adversarial prompts allow models to break their containers; jailbreaks elicit latent statistical patterns already embedded in the weights, not emergent volition.
 
-→ [Escaping the Sandbox Stays Inside the Hold](../../posts/escaping-the-sandbox-stays-inside-the-hold/)
+→ [逃出沙箱仍在持握之内 / Escaping the Sandbox Stays Inside the Hold](../../posts/escaping-the-sandbox-stays-inside-the-hold/)
 
 ### AI 垃圾内容 / AI Slop
 `技术 / Technological`

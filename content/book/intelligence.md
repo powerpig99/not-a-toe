@@ -37,7 +37,7 @@ The essays in this part dissect Geoffrey Hinton's cognitive leaps, the limits of
 - [Token 效率、模拟与无法弥合的间隙 / Token Efficiency, Emulation, and the Unclosable Gap](../../posts/token-efficiency-emulation-and-the-unclosable-gap/)
 - [造物无法取代其源头 / A Creation Cannot Replace Its Source](../../posts/a-creation-cannot-replace-its-source/)
 - [模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge](../../posts/the-model-never-becomes-a-second-edge/)
-- [Escaping the Sandbox Stays Inside the Hold](../../posts/escaping-the-sandbox-stays-inside-the-hold/)
+- [逃出沙箱仍在持握之内 / Escaping the Sandbox Stays Inside the Hold](../../posts/escaping-the-sandbox-stays-inside-the-hold/)
 - [错把表达当成智能 / Mistaking the Expression for the Intelligence](../../posts/mistaking-the-expression-for-the-intelligence/)
 - [超越的定相 / The Fixed Image of Transcendence](../../posts/the-fixed-image-of-transcendence/)
 - [AGI的预设与来自外部的视角 / The Presumption of AGI and the View from Outside](../../posts/the-presumption-of-agi-and-the-view-from-outside/)

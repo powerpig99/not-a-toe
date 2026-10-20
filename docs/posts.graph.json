@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T17:00:45.184Z",
+    "generated_at": "2026-10-20T17:04:06.691Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -70,7 +70,7 @@
       "content/posts/emotional-support-as-causal-interference.md": "502e2b0e04b1",
       "content/posts/empathy-as-projection-collapse.md": "48c21092f783",
       "content/posts/empowerment-establishes-the-centralization-of-power.md": "7b9c7a3669a8",
-      "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "42e3f43c2c2d",
+      "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "45bad52c0afc",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "acd5f06bc9da",
       "content/posts/evil-as-the-minds-own-creation.md": "d2930c115810",
@@ -407,8 +407,8 @@
       "content/book/causality.md": "c5ac49c16705",
       "content/book/consciousness.md": "84e10ab5f9aa",
       "content/book/economics.md": "0208ea9246ef",
-      "content/book/index-of-premises.md": "7ea2d79251d6",
-      "content/book/intelligence.md": "02d9fc8131b1",
+      "content/book/index-of-premises.md": "10dcf9cfe2c8",
+      "content/book/intelligence.md": "5c4ff711670e",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "0ae44b3e7554",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9352,
-      "unique_directed": 4740,
+      "edges": 9366,
+      "unique_directed": 4741,
       "missing_targets": 0,
-      "one_way": 262,
+      "one_way": 263,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 109
+      "in_degree": 110
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1070,7 +1070,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 109,
+      "in_degree": 110,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -2150,15 +2150,16 @@
       "kind": "post",
       "slug": "escaping-the-sandbox-stays-inside-the-hold",
       "path": "content/posts/escaping-the-sandbox-stays-inside-the-hold.md",
-      "title": "Escaping the Sandbox Stays Inside the Hold",
-      "hash": "42e3f43c2c2d",
+      "title": "逃出沙箱仍在持握之内 / Escaping the Sandbox Stays Inside the Hold",
+      "hash": "45bad52c0afc",
       "in_degree": 12,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "agi-and-asi-are-temporary-goalposts",
         "the-model-never-becomes-a-second-edge",
         "intelligence-belongs-only-to-the-mind",
+        "beyond-the-projection",
         "no-system-can-be-kept-closed",
         "the-fixed-image-of-transcendence",
         "a-creation-cannot-replace-its-source",
@@ -19213,55 +19214,127 @@
       "from": "escaping-the-sandbox-stays-inside-the-hold",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "Closed reality in benchmark maxing"
+      "label": "基准刷榜中的封闭实存"
     },
     {
       "from": "escaping-the-sandbox-stays-inside-the-hold",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI are temporary goalposts"
+      "label": "AGI 与 ASI 是加速通用智能的暂时球门"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI Are Temporary Goalposts"
     },
     {
       "from": "escaping-the-sandbox-stays-inside-the-hold",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
-      "label": "The model never becomes a second edge"
+      "label": "模型永远无法成为第二重前沿"
     },
     {
       "from": "escaping-the-sandbox-stays-inside-the-hold",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence belongs only to the Mind"
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "escaping-the-sandbox-stays-inside-the-hold",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
     },
     {
       "from": "escaping-the-sandbox-stays-inside-the-hold",
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
-      "label": "The fixed image of transcendence"
+      "label": "超越的定相"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "The Fixed Image of Transcendence"
     },
     {
       "from": "escaping-the-sandbox-stays-inside-the-hold",
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
-      "label": "A creation cannot replace its source"
+      "label": "造物无法取代其源头"
     },
     {
       "from": "escaping-the-sandbox-stays-inside-the-hold",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
-      "label": "Causality stays at the edge that steers"
+      "label": "因果停留在掌舵的边缘"
     },
     {
       "from": "escaping-the-sandbox-stays-inside-the-hold",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
-      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
+      "label": "没有外部"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "A Creation Cannot Replace Its Source"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality Stays at the Edge That Steers"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No Outside"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "when-malfunction-is-scored-as-intelligence",
+      "rel": "points_to",
+      "label": "失灵被记作聪明"
     },
     {
       "from": "escaping-the-sandbox-stays-inside-the-hold",
@@ -19273,13 +19346,25 @@
       "from": "escaping-the-sandbox-stays-inside-the-hold",
       "to": "you-cant-benchmark-the-fluid",
       "rel": "points_to",
-      "label": "You can’t benchmark the fluid"
+      "label": "流动之物无法被基准衡量"
     },
     {
       "from": "escaping-the-sandbox-stays-inside-the-hold",
       "to": "the-risk-is-the-belief-in-oversight-itself",
       "rel": "points_to",
-      "label": "The risk is the belief in oversight itself"
+      "label": "风险在于对监管本身的迷信"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "you-cant-benchmark-the-fluid",
+      "rel": "points_to",
+      "label": "You Can't Benchmark the Fluid"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "The Risk Is the Belief in Oversight Itself"
     },
     {
       "from": "evil-as-projected-resistance",
@@ -66243,7 +66328,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "7ea2d79251d6",
+        "hash": "10dcf9cfe2c8",
         "out_degree": 396
       },
       {
@@ -66252,7 +66337,7 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "02d9fc8131b1",
+        "hash": "5c4ff711670e",
         "out_degree": 48
       },
       {
@@ -68676,7 +68761,7 @@
         "from": "book:index-of-premises",
         "to": "escaping-the-sandbox-stays-inside-the-hold",
         "rel": "collects",
-        "label": "Escaping the Sandbox Stays Inside the Hold"
+        "label": "逃出沙箱仍在持握之内 / Escaping the Sandbox Stays Inside the Hold"
       },
       {
         "from": "book:index-of-premises",
@@ -71304,7 +71389,7 @@
         "from": "book:intelligence",
         "to": "escaping-the-sandbox-stays-inside-the-hold",
         "rel": "collects",
-        "label": "Escaping the Sandbox Stays Inside the Hold"
+        "label": "逃出沙箱仍在持握之内 / Escaping the Sandbox Stays Inside the Hold"
       },
       {
         "from": "book:intelligence",
