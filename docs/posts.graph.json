@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T19:22:33.938Z",
+    "generated_at": "2026-10-20T19:25:00.752Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -351,7 +351,7 @@
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
       "content/posts/the-strongest-belief-of-the-mind.md": "a27fb2b6ea27",
       "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "aafc55f7b4d1",
-      "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "ad2f484fe9b0",
+      "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "6ea537e91041",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
       "content/posts/the-three-shadows-of-the-cut.md": "7c447eb8391e",
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9523,
-      "unique_directed": 4784,
+      "edges": 9525,
+      "unique_directed": 4785,
       "missing_targets": 0,
-      "one_way": 306,
+      "one_way": 307,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 151
+      "in_degree": 152
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1073,7 +1073,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 151,
+      "in_degree": 152,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -8951,15 +8951,16 @@
       "slug": "the-summary-first-reversal-and-the-command-of-yields",
       "path": "content/posts/the-summary-first-reversal-and-the-command-of-yields.md",
       "title": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相 / Macro Parameters, Micro Choices, and the Command of Yields",
-      "hash": "ad2f484fe9b0",
+      "hash": "6ea537e91041",
       "in_degree": 12,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "the-causal-inversion-of-partnership",
         "choice-itself-has-no-inherent-weight",
         "the-explanatory-trap-of-the-ordinary-perspective",
         "the-name-revolution-files-a-life-as-evidence",
         "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+        "beyond-the-projection",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-mind-as-vector-and-coordinate-system",
         "the-balcony-disciplinary-overstep-and-the-unproxyable-act"
@@ -60405,7 +60406,7 @@
       "from": "the-summary-first-reversal-and-the-command-of-yields",
       "to": "the-causal-inversion-of-partnership",
       "rel": "points_to",
-      "label": "合伙的因果倒置"
+      "label": "契约的因果倒置"
     },
     {
       "from": "the-summary-first-reversal-and-the-command-of-yields",
@@ -60417,13 +60418,13 @@
       "from": "the-summary-first-reversal-and-the-command-of-yields",
       "to": "choice-itself-has-no-inherent-weight",
       "rel": "points_to",
-      "label": "选择本身毫无重量"
+      "label": "抉择本身并不沉重"
     },
     {
       "from": "the-summary-first-reversal-and-the-command-of-yields",
       "to": "the-explanatory-trap-of-the-ordinary-perspective",
       "rel": "points_to",
-      "label": "宏观视角的解释陷阱"
+      "label": "“普通人视角”的解释陷阱"
     },
     {
       "from": "the-summary-first-reversal-and-the-command-of-yields",
@@ -60435,7 +60436,7 @@
       "from": "the-summary-first-reversal-and-the-command-of-yields",
       "to": "the-explanatory-trap-of-the-ordinary-perspective",
       "rel": "points_to",
-      "label": "The Explanatory Trap of the Ordinary Perspective"
+      "label": "The Explanatory Trap of the \"Ordinary Perspective\""
     },
     {
       "from": "the-summary-first-reversal-and-the-command-of-yields",
@@ -60447,7 +60448,7 @@
       "from": "the-summary-first-reversal-and-the-command-of-yields",
       "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "rel": "points_to",
-      "label": "时间之箭的幻相与模拟的边界"
+      "label": "时间之箭的伪悖论与对称模拟的边界"
     },
     {
       "from": "the-summary-first-reversal-and-the-command-of-yields",
@@ -60459,13 +60460,25 @@
       "from": "the-summary-first-reversal-and-the-command-of-yields",
       "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "rel": "points_to",
-      "label": "The Mirage of Time's Arrow and the Boundaries of Simulation"
+      "label": "The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation"
+    },
+    {
+      "from": "the-summary-first-reversal-and-the-command-of-yields",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-summary-first-reversal-and-the-command-of-yields",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-summary-first-reversal-and-the-command-of-yields",
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
-      "label": "任务的让渡与后果的不可让渡"
+      "label": "任务的移交与后果的不可让渡"
     },
     {
       "from": "the-summary-first-reversal-and-the-command-of-yields",
@@ -60477,7 +60490,7 @@
       "from": "the-summary-first-reversal-and-the-command-of-yields",
       "to": "the-mind-as-vector-and-coordinate-system",
       "rel": "points_to",
-      "label": "心智作为向量与坐标系"
+      "label": "向量、坐标系与自指心智"
     },
     {
       "from": "the-summary-first-reversal-and-the-command-of-yields",
