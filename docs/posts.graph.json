@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T15:59:59.959Z",
+    "generated_at": "2026-10-20T16:07:46.425Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -215,7 +215,7 @@
       "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "eeef620ba6fb",
       "content/posts/the-causal-overstep-of-observation-and-the-first-person-surplus.md": "6c191f9ad616",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "db0233612f6e",
-      "content/posts/the-closed-loop-of-representation.md": "633ffdcca70d",
+      "content/posts/the-closed-loop-of-representation.md": "7805c57d3aaa",
       "content/posts/the-closed-n-and-the-open-reality.md": "cdca9be1b6fb",
       "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "fd790ca70240",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9275,
-      "unique_directed": 4721,
+      "edges": 9279,
+      "unique_directed": 4722,
       "missing_targets": 0,
-      "one_way": 243,
+      "one_way": 244,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -441,7 +441,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 90
+      "in_degree": 91
     },
     {
       "slug": "openness-is-consistency",
@@ -1069,7 +1069,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 90,
+      "in_degree": 91,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -5815,9 +5815,9 @@
       "slug": "the-closed-loop-of-representation",
       "path": "content/posts/the-closed-loop-of-representation.md",
       "title": "表征的闭环 / The Closed Loop of Representation",
-      "hash": "633ffdcca70d",
+      "hash": "7805c57d3aaa",
       "in_degree": 14,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
         "what-information-is",
@@ -5828,6 +5828,7 @@
         "openness-is-consistency",
         "climbing-does-not-leave-the-ground",
         "the-mark-and-the-act",
+        "beyond-the-projection",
         "you-tiao-jian-de-zi-you",
         "the-freedom-of-will-to-deny-itself",
         "intelligence-belongs-only-to-the-mind",
@@ -41638,6 +41639,12 @@
     },
     {
       "from": "the-closed-loop-of-representation",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-closed-loop-of-representation",
       "to": "stability-and-excess",
       "rel": "points_to",
       "label": "Stability and Excess"
@@ -41659,6 +41666,12 @@
       "to": "the-mark-and-the-act",
       "rel": "points_to",
       "label": "The Mark and the Act"
+    },
+    {
+      "from": "the-closed-loop-of-representation",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-closed-loop-of-representation",
@@ -41692,6 +41705,12 @@
     },
     {
       "from": "the-closed-loop-of-representation",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-closed-loop-of-representation",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "个体抉择是唯一的因果杠杆"
@@ -41707,6 +41726,12 @@
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "the-closed-loop-of-representation",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-closed-loop-of-representation",
