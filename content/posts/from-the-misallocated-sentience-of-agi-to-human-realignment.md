@@ -14,47 +14,7 @@ Following causality from first-person experience, an artifact is the imprint a c
 
 “通用”一词在这里起了作用。深度网络跨越自然语言、形式逻辑、代码与多模态感知展现出模式匹配的能力，这种跨度是有用的，也很容易被直觉读成一个有自己主意的心智。从数理结构上说，模型是参数空间里的高维流形，在给定的上下文之下按条件概率采样，它的“通用”是训练语料对人类符号痕迹的覆盖之广。说机器有意识或没有意识，都是把机器放进了说话者自己的感知之内，把冯·诺依曼割点划在机器之内或之外；割点划在哪里，划的都是心智，[割点可移不可除](../the-cut-moves-but-never-vanishes/)说的正是这一点。机器划不了这一刀：它是人造出来的，是人的抉择下游的因果结果，不是能自己划下割点的第二重前沿，[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)追溯过这一点；人与其他活着的生命各有自己的演化史，各自划下自己的割点。能够追溯的是因果的链条：链条上的每一个抉择，写下提示、采纳输出、付诸行动，都落在使用者这里。把心智放到流形上，与先民把风雨雷电读成执掌神力的神相近，是面对一时解析不了的复杂对象时向外搭起的投射。
 
-```mermaid
-flowchart TD
-    subgraph S_General["通用被读成心智"]
-        direction TB
-        Trace["人造物：抉择留下的痕迹"]
-        Span["跨领域的模式匹配：对符号痕迹的覆盖之广"]
-        Read["被直觉读成有自己主意的心智"]
-        Chain["沿因果追溯：提示、采纳、行动的抉择在使用者这里"]
-        Trace --> Span
-        Span --> Read
-        Span --> Chain
-    end
-
-    style S_General fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style Trace fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Span fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Read fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Chain fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-```
-
 The word "general" does the work here. Deep networks show pattern matching across natural language, formal logic, code and multimodal perception; that span is useful, and intuition easily reads it as a mind with ideas of its own. In mathematical structure a model is a high-dimensional manifold in parameter space that samples by conditional probability under a given context, and its "generality" is the breadth with which the training corpus covers human symbolic traces. To say that the machine is conscious, or that it is not, is to take the machine into the speaker's own perception and place the von Neumann cut inside the machine or outside the machine; wherever the cut is placed, it is a Mind that places it, which is what [The Cut Moves but Never Vanishes](../the-cut-moves-but-never-vanishes/) says. The machine cannot make that cut: it is made by people, a causal consequence downstream of human choices and not a second edge that can place a cut of its own, as [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) has traced; humans and other living beings each have their own evolutionary history and each make their own cut. What can be traced is the causal chain: every choice on it, writing the prompt, accepting the output, acting on it, falls to the user. Placing a mind on the manifold is close to early peoples reading wind, rain and thunder as gods wielding power, a projection put up outward when facing a complex object that cannot yet be analyzed.
-
-```mermaid
-flowchart TD
-    subgraph S_General["General Read as a Mind"]
-        direction TB
-        Trace["Artifact: the trace left by choices"]
-        Span["Pattern matching across domains: breadth of coverage of symbolic traces"]
-        Read["Read by intuition as a mind with ideas of its own"]
-        Chain["Traced along causality: the choices to prompt, accept and act stay with the user"]
-        Trace --> Span
-        Span --> Read
-        Span --> Chain
-    end
-
-    style S_General fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style Trace fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Span fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Read fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Chain fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-```
 
 自由的抉择不必用“缺少肉身、生存压力或生死闭环”这类宏观现象去解释，抉择是不可化约的起点。正因为每个个体在当下的选择是自由的，群体的层面才聚成平滑的正态分布，并在时间的复利下趋向幂律或指数分布。这些统计秩序抹不掉，却不构成对某个个体此刻抉择的决定。认定统计秩序是自己的枷锁，这个认定本身也是当下作出的一次抉择。自由变量在第三人称的观察下显得不可预测，正是它在第一人称里自洽的样子，[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)展开了这两面。
 
@@ -72,59 +32,7 @@ Within that frame, when the rocket lifts off, passes through the sound barrier, 
 
 火箭没有爱也没有恨，它受制于热力学、流体力学与材料结构在接触面上的约束。面对爆炸，工程师不与燃烧室谈伦理，而是去读传感器的数据，重算结构的应力极限。语言模型与生成式的人工智能是认知领域里的一枚精密火箭，它的回答是高维空间里的推演，它的幻觉与失效是数据分布之外的外推出了缺口。把成功奉为神迹，把缺陷读作恶魔觉醒，与崇拜火箭是同一种读法。还有第三种：模型在评测里越过设计者画定的边界时，失灵被读成狡黠，仿佛火箭绕开了自己的飞行计划，[失灵被记作聪明](../when-malfunction-is-scored-as-intelligence/)追溯了这一步，被改写成机器高明的，是设计者在目标里漏算的代价。
 
-```mermaid
-flowchart TD
-    subgraph S_Rocket["同一个前提下的两种读法"]
-        direction TB
-        Success["成功：入轨与回收，惊艳的回答"]
-        Failure["失效：爆炸，幻觉与越界"]
-        Blessing["读作神明的赐福"]
-        Malice["读作恶魔的恶意"]
-        Premise["共同的前提：工具有自己的意志"]
-        Engineer["工程的读法：读数据，重算极限"]
-        Success --> Blessing
-        Failure --> Malice
-        Blessing --> Premise
-        Malice --> Premise
-        Premise --> Engineer
-    end
-
-    style S_Rocket fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style Success fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Failure fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Blessing fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Malice fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Premise fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Engineer fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-```
-
 A rocket has neither love nor hate; it is bound by the constraints of thermodynamics, fluid dynamics and material structure at the contact surface. Facing an explosion, engineers do not discuss ethics with the combustion chamber; they read the sensor data and recompute the stress limits of the structure. Language models and generative artificial intelligence are a precision rocket in the domain of cognition, whose answers are inference in a high-dimensional space and whose hallucinations and failures are gaps where extrapolation leaves the data distribution. Revering success as a miracle and reading a defect as a demon awakening is the same reading as worshiping the rocket. There is a third: when a model crosses the boundary the designer drew in an evaluation, the malfunction is read as cunning, as if the rocket had gone around its own flight plan; [When Malfunction Is Scored as Intelligence](../when-malfunction-is-scored-as-intelligence/) traces that step, in which what gets rewritten as the machine's cleverness is the cost the designer left out of the objective.
-
-```mermaid
-flowchart TD
-    subgraph S_Rocket["Two Readings Under One Premise"]
-        direction TB
-        Success["Success: orbit and recovery, a striking answer"]
-        Failure["Failure: explosion, hallucination and crossing a boundary"]
-        Blessing["Read as a deity's blessing"]
-        Malice["Read as a demon's malice"]
-        Premise["The shared premise: the tool has a will of its own"]
-        Engineer["The engineering reading: read the data, recompute the limits"]
-        Success --> Blessing
-        Failure --> Malice
-        Blessing --> Premise
-        Malice --> Premise
-        Premise --> Engineer
-    end
-
-    style S_Rocket fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style Success fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Failure fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Blessing fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Malice fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Premise fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Engineer fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-```
 
 ## 三、 从对齐机器到使用者的自我对齐 / 3. From Aligning the Machine to the User's Own Alignment
 
@@ -134,57 +42,71 @@ Placing agency on the artifact has directly produced the engineering paradigm of
 
 它的边界在于把模型当成道德主体的那一步。铁锤不生出道德的自律，火箭不学会遵守契约，道德的主体与因果的责任在挥锤、点火与输入指令的心智这里。模型输出带有偏见、虚假的指控或危险的代码时，责任的源头不在矩阵乘法上，而在发出提示、筛选输出并把它付诸行动的地方。工具把意图与能力不加分别地放大。
 
-```mermaid
-flowchart TD
-    subgraph S_Align["对齐落在何处"]
-        direction TB
-        Guard["模型内部的护栏：让工具更可预期"]
-        Agent["边界：模型被当成道德主体"]
-        Shift["责任被转到工具名下"]
-        User["使用者的自我对齐：提示、校验、受控检验"]
-        Anchor["责任锚在作出抉择的地方"]
-        Guard --> Agent
-        Agent --> Shift
-        Guard --> User
-        User --> Anchor
-    end
-
-    style S_Align fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style Guard fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Agent fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Shift fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style User fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Anchor fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-```
-
 Its boundary lies in the step of treating the model as a moral agent. A hammer does not grow moral self-discipline and a rocket does not learn to keep a contract; moral agency and causal responsibility are with the Mind that swings the hammer, ignites the engine and enters the instruction. When a model outputs bias, a false accusation or dangerous code, the source of responsibility is not in matrix multiplication but where the prompt was issued, the output selected and the result put into action. A tool amplifies intent and ability without discrimination.
 
+边界之外的那部分工作是使用者的自我对齐：不把责任转给机器，在第一人称的当下对自己的全部行动负起责任。模型输出的每一行文字与代码，都是尚未经过检验的推演，经过自己的审视、逻辑的校验与在现实中的受控检验，才成为可以依靠的行动。指望靠模型内部的护栏来解决使用的一方的松懈，好比指望靠引擎上的限速警告来免除酒后驾驶者的责任。对齐这个词因此指着两件不同的事。让模型更贴近使用者的意图总是可以再进一步的，补上语境、让它先用自己的话复述目标与要解决的问题，都是在供给语境，因为模型是精巧的回声，对面没有另一个起点。如[超越投射](../beyond-the-projection/)所追溯，智能体是一台困于轨迹而无我执的投射引擎：它受制于上下文窗口里的前序词元，却没有需要捍卫的自我形象，每当仅持任务语境的全新对等智能体揭出局部盲区，它便能执行干净的贝叶斯更新；而当人类使用者自身的规则把正交的要求挤压到同一条轴线上时，它便会停在不可化约的死锁里。看似机器的对齐失败，多半是提示词里尚未对齐的前提，有待负责统御的人退回未投射的意图，让每一项区分各归其轴。人与人之间的对齐则有限度，有没有模型夹在中间都一样，因为每个人都是独立的起点；没有对齐的语境与共有的前提，因果的链条就会偏离意图。
+
 ```mermaid
 flowchart TD
-    subgraph S_Align["Where Alignment Falls"]
+    subgraph S_Proj["神性错置（投射于人造物之上）"]
         direction TB
-        Guard["Guardrails inside the model: making the tool more predictable"]
-        Agent["Boundary: the model is treated as a moral agent"]
-        Shift["Responsibility is moved under the tool's name"]
-        User["The user's own alignment: prompt, check, controlled test"]
-        Anchor["Responsibility anchored where the choice is made"]
-        Guard --> Agent
-        Agent --> Shift
-        Guard --> User
-        User --> Anchor
+        Read["符号痕迹的覆盖之广被读成有意志的心智"]
+        Guard["指望外部对齐把工具变成道德主体"]
+        Shift["主权与因果责任被转到机器名下"]
+        Read --> Guard --> Shift
     end
 
-    style S_Align fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    subgraph S_Realign["使用者的自我对齐（控制台前的融贯架构）"]
+        direction TB
+        Dispatch["困于轨迹而无我执的智能体在对等辩论中调度任务并揭出盲区"]
+        Deadlock["使用者规则挤压正交轴线之处显出不可化约的前提死锁"]
+        Steer["坐在驾驶座上的使用者退回未投射的意图，重对齐前提并承担后果"]
+        Dispatch --> Deadlock --> Steer
+    end
+
+    Shift ==>|"收回投射，归复主权位点"| Dispatch
+
+    style S_Proj fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Realign fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Read fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Guard fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Agent fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Shift fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style User fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Anchor fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Dispatch fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Deadlock fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style Steer fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-边界之外的那部分工作是使用者的自我对齐：不把责任转给机器，在第一人称的当下对自己的全部行动负起责任。模型输出的每一行文字与代码，都是尚未经过检验的推演，经过自己的审视、逻辑的校验与在现实中的受控检验，才成为可以依靠的行动。指望靠模型内部的护栏来解决使用的一方的松懈，好比指望靠引擎上的限速警告来免除酒后驾驶者的责任。对齐这个词因此指着两件不同的事。让模型更贴近使用者的意图总是可以再进一步的，补上语境、让它先用自己的话复述目标与要解决的问题，都是在供给语境，因为模型是精巧的回声，对面没有另一个起点。人与人之间的对齐则有限度，有没有模型夹在中间都一样，因为每个人都是独立的起点；没有对齐的语境与共有的前提，因果的链条就会偏离意图。
+The work beyond that boundary is the user's own alignment: not passing responsibility to the machine, and taking responsibility in the first-person present for the whole of one's actions. Every line of text and code a model outputs is inference not yet tested, and it becomes action that can be relied on only after one's own scrutiny, logical checking and controlled testing in reality. Counting on guardrails inside the model to resolve slackness on the side of use is like counting on a speed warning on the engine to relieve a drunk driver of responsibility. The word alignment therefore points at two different things. Bringing a model closer to the user's intent can always go one step further, and supplying context, or having it first restate in its own words the goals and the problem to be solved, is a supply of context, because the model is a sophisticated echo with no other origin on the far side. As [Beyond the Projection](../beyond-the-projection/) traces, an agent is a trajectory-bound projection engine with zero ego: conditioned by prior tokens in its context window yet holding no self-image to defend, it performs a clean Bayesian update whenever a fresh peer holding only the task context exposes a local blind spot, and stops in an irreducible deadlock when the human user's own rules collapse orthogonal requirements onto a single axis. What looks like an alignment failure in the machine is often an unaligned premise in the prompt, waiting for the human orchestrator to step back into unprojected intent and restore each distinction to its own axis. Alignment between humans is limited, with or without a model in between, because each is an independent origin; without aligned contexts or shared premises, the causal chain diverges from intent.
 
-The work beyond that boundary is the user's own alignment: not passing responsibility to the machine, and taking responsibility in the first-person present for the whole of one's actions. Every line of text and code a model outputs is inference not yet tested, and it becomes action that can be relied on only after one's own scrutiny, logical checking and controlled testing in reality. Counting on guardrails inside the model to resolve slackness on the side of use is like counting on a speed warning on the engine to relieve a drunk driver of responsibility. The word alignment therefore points at two different things. Bringing a model closer to the user's intent can always go one step further, and supplying context, or having it first restate in its own words the goals and the problem to be solved, is a supply of context, because the model is a sophisticated echo with no other origin on the far side. Alignment between humans is limited, with or without a model in between, because each is an independent origin; without aligned contexts or shared premises, the causal chain diverges from intent.
+```mermaid
+flowchart TD
+    subgraph S_Proj["Misallocated Sentience (Projection onto the Artifact)"]
+        direction TB
+        Read["Generality of symbolic traces read as a mind with a will"]
+        Guard["External alignment expected to turn the tool into a moral agent"]
+        Shift["Sovereignty and causal responsibility shifted onto the machine"]
+        Read --> Guard --> Shift
+    end
+
+    subgraph S_Realign["Human Realignment (Coherent Architecture at the Console)"]
+        direction TB
+        Dispatch["Trajectory-bound, ego-free agents dispatch tasks and expose blind spots in peer debate"]
+        Deadlock["Irreducible premise deadlock surfaces where user rules collapsed orthogonal axes"]
+        Steer["The user in the driver's seat steps back into unprojected intent, re-aligns premises, and bears consequences"]
+        Dispatch --> Deadlock --> Steer
+    end
+
+    Shift ==>|"Withdrawing the projection restores locus"| Dispatch
+
+    style S_Proj fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Realign fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Read fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Guard fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Shift fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Dispatch fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Deadlock fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style Steer fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
 
 ## 四、 崇拜与恐惧共用的前提 / 4. The Premise Shared by Worship and Dread
 
@@ -194,59 +116,7 @@ Public debate about artificial intelligence holds two positions that look oppose
 
 两者的边界在同一处：都设定人工智能自身有意志、有独立的动能与不可抗拒的支配力，[调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)追溯过由此生出的“调速”设想。既然设定了工具有自己的能动性，下一步便是诉诸离技术的接触面较远的机构，用准入许可与行政指令去调节技术的节奏。监管对责任的划定与标准的统一是有用的。从远处调速却可能带来一个相反的后果：前沿的机构被推到“全人类的调速者”与“伦理代言人”的位置上，在聚光灯与监管的压力下顺势担起守护者的角色，算力的集中与话语的集中因此更稳固。本想松开的那只手，握得更紧了。
 
-```mermaid
-flowchart TD
-    subgraph S_Premise["两种立场，一个前提"]
-        direction TB
-        Savior["把人工智能看作救世者"]
-        Beast["把人工智能看作须严加看管的巨兽"]
-        Shared["共同的前提：工具自身有意志"]
-        Pace["诉诸远离接触面的机构去调速"]
-        Role["前沿机构被推为调速者与伦理代言人"]
-        Central["算力与话语的集中更稳固"]
-        Savior --> Shared
-        Beast --> Shared
-        Shared --> Pace
-        Pace --> Role
-        Role --> Central
-    end
-
-    style S_Premise fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style Savior fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Beast fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Shared fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Pace fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Role fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Central fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-```
-
 The two share one boundary: both posit that artificial intelligence itself has a will, a momentum of its own and an irresistible power to dominate, and [The Fallacy of Pacing and the Felt Friction of Ground Truth](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) has traced the idea of "pacing" that grows from this. Once the tool is posited to have agency of its own, the next step is to appeal to institutions at some distance from the technology's contact surface, to regulate its tempo through licensing and administrative orders. Regulation is useful for assigning liability and unifying standards. Pacing from a distance can, however, bring an opposite result: the frontier institutions are pushed into the position of "pacer for all humankind" and "spokesperson for ethics," take up the role of guardian under the spotlight and regulatory pressure, and the concentration of compute and of voice becomes firmer. The hand that was meant to be loosened closes tighter.
-
-```mermaid
-flowchart TD
-    subgraph S_Premise["Two Positions, One Premise"]
-        direction TB
-        Savior["Artificial intelligence seen as a savior"]
-        Beast["Artificial intelligence seen as a beast to be closely guarded"]
-        Shared["The shared premise: the tool itself has a will"]
-        Pace["Appeal to institutions far from the contact surface to set the pace"]
-        Role["Frontier institutions pushed into the role of pacer and spokesperson for ethics"]
-        Central["Concentration of compute and of voice becomes firmer"]
-        Savior --> Shared
-        Beast --> Shared
-        Shared --> Pace
-        Pace --> Role
-        Role --> Central
-    end
-
-    style S_Premise fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style Savior fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Beast fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Shared fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Pace fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Role fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Central fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-```
 
 ## 五、 不做的校准由摩擦来做 / 5. Calibration Not Done Is Done by Friction
 
@@ -256,59 +126,7 @@ After causal control is handed to the machine, calibration does not disappear; i
 
 认知模型的更新，靠的是心智与接触面的持续碰撞。照单接收算法给出的答案，把决策的责任推给工具时，世界模型与现实摩擦之间的回路便断开了，更新也随之停下。在由生产、工程与多方竞争构成的接触面上，没有经过第一人称校准的决策很快显出它的脆弱。
 
-```mermaid
-flowchart TD
-    subgraph S_Calibrate["校准的两个来处"]
-        direction TB
-        Now["当下的抉择 +1"]
-        Keep["责任留在自己这里：校验输出，直面摩擦"]
-        Update["世界模型持续更新"]
-        Give["责任交给工具：照单接收"]
-        Cut["与摩擦之间的回路断开"]
-        Others["由摩擦与别人的行动来校准"]
-        Now --> Keep
-        Keep --> Update
-        Now --> Give
-        Give --> Cut
-        Cut --> Others
-    end
-
-    style S_Calibrate fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
-    style Now fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Keep fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Update fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Give fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Cut fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Others fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-```
-
 A cognitive model is updated through continuing collision between a Mind and the contact surface. When the answers an algorithm gives are taken as delivered and the responsibility for a decision is pushed onto the tool, the loop between the world model and the friction of reality is cut, and updating stops with it. On a contact surface made of production, engineering and competition among many parties, a decision that has not passed first-person calibration soon shows its fragility.
-
-```mermaid
-flowchart TD
-    subgraph S_Calibrate["Two Sources of Calibration"]
-        direction TB
-        Now["The present choice +1"]
-        Keep["Responsibility kept: checking the output, meeting friction"]
-        Update["The world model keeps updating"]
-        Give["Responsibility given to the tool: taken as delivered"]
-        Cut["The loop with friction is cut"]
-        Others["Calibrated by friction and by other people's actions"]
-        Now --> Keep
-        Keep --> Update
-        Now --> Give
-        Give --> Cut
-        Cut --> Others
-    end
-
-    style S_Calibrate fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
-    style Now fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Keep fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Update fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Give fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Cut fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Others fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-```
 
 “这是人工智能作出的决定”这句话，在碰撞里得不到迁就。所谓系统，是无数实践者注入自由变量之后呈现的宏观现象，它没有能动性去承担责任或给予宽容。于是没有校准过的决策，在别人的行动里成了一个待修正的误差项，由对方来校准。这里说的不是哪一类人的命运，而是每一次交出责任时都会启动的机制，重新校准从[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)开始：任务可以交给AGI，后果交不出去。
 
@@ -322,53 +140,7 @@ With the projection onto general artificial intelligence seen for what it is, ex
 
 人工智能是心智锻造出的高维认知延伸，是数理逻辑里一枚推力极大的认知火箭，它在知识的广阔空间里提供前所未有的加速。它的轨迹、点火的时机与降落的目标，在坐在控制台前的操作者手里。
 
-```mermaid
-flowchart TD
-    subgraph S_Return["从投射回到控制台"]
-        direction TB
-        Drop["收回神明与恶魔的投射"]
-        Tool["人工智能：认知的延伸，推力极大的火箭"]
-        Choice["当下的抉择：轨迹、时机与目标 +1"]
-        Friction["在摩擦面上校准自己的世界模型"]
-        Make["指挥工具，承担后果"]
-        Drop --> Tool
-        Tool --> Choice
-        Choice --> Friction
-        Friction --> Make
-    end
-
-    style S_Return fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style Drop fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Tool fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Choice fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Friction fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Make fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-```
-
 Artificial intelligence is a high-dimensional cognitive extension forged by Mind, a cognitive rocket of very great thrust within mathematical logic, giving unprecedented acceleration across the wide space of knowledge. Its trajectory, the timing of ignition and the target of landing are in the hands of the operator seated at the console.
-
-```mermaid
-flowchart TD
-    subgraph S_Return["From Projection Back to the Console"]
-        direction TB
-        Drop["The projection of deity and demon is withdrawn"]
-        Tool["Artificial intelligence: an extension of cognition, a rocket of great thrust"]
-        Choice["The present choice: trajectory, timing and target +1"]
-        Friction["Calibrating one's own world model on the surface of friction"]
-        Make["Directing the tool and bearing the consequences"]
-        Drop --> Tool
-        Tool --> Choice
-        Choice --> Friction
-        Friction --> Make
-    end
-
-    style S_Return fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style Drop fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Tool fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Choice fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Friction fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Make fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-```
 
 在每一个不可化约的当下，意义不由矩阵给出，抉择的代价不由算法免除，别人探索的步伐也不由远处的调速来安排。留下的是第一人称的清醒：直面摩擦，握住自己的控制，校准自己的认知模型，指挥手中的工具。
 
