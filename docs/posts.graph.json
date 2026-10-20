@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T16:54:19.466Z",
+    "generated_at": "2026-10-20T17:00:45.184Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -56,7 +56,7 @@
       "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "b7b01bc6f1e2",
       "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "a52c1bd6e2ac",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "788e4742c499",
-      "content/posts/curiosity-has-no-final-form.md": "e351dcb2d5ff",
+      "content/posts/curiosity-has-no-final-form.md": "a2d12b2a8ba3",
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
       "content/posts/data-is-local-intelligence-is-allocated.md": "e9fdf03fc941",
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "5f788bf55578",
@@ -189,7 +189,7 @@
       "content/posts/sowell-observed-the-surface-problem.md": "5dbc958d7157",
       "content/posts/stability-and-excess.md": "d3380355ad84",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "909c9d0b7fac",
-      "content/posts/subtracting-consciousness-at-the-source.md": "088695650203",
+      "content/posts/subtracting-consciousness-at-the-source.md": "6851328e4676",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "6c83b39b6e3f",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "8def0ea22390",
       "content/posts/technology-is-residual-of-human-compounding.md": "94f3293d393b",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9348,
-      "unique_directed": 4738,
+      "edges": 9352,
+      "unique_directed": 4740,
       "missing_targets": 0,
-      "one_way": 260,
+      "one_way": 262,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 107
+      "in_degree": 109
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1070,7 +1070,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 107,
+      "in_degree": 109,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1858,9 +1858,9 @@
       "slug": "curiosity-has-no-final-form",
       "path": "content/posts/curiosity-has-no-final-form.md",
       "title": "好奇没有最终的形态 / Curiosity Has No Final Form",
-      "hash": "e351dcb2d5ff",
+      "hash": "a2d12b2a8ba3",
       "in_degree": 12,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "the-scaffolding-we-forget",
         "the-fixed-image-of-transcendence",
@@ -1870,6 +1870,7 @@
         "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
         "the-scaffolding-that-keeps-growing",
         "intelligence-belongs-only-to-the-mind",
+        "beyond-the-projection",
         "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
         "openness-is-consistency",
         "individual-choices-as-the-only-causal-levers",
@@ -5134,9 +5135,9 @@
       "slug": "subtracting-consciousness-at-the-source",
       "path": "content/posts/subtracting-consciousness-at-the-source.md",
       "title": "集聚与人造主体性 / Collective and Artificial Subjectivity",
-      "hash": "088695650203",
+      "hash": "6851328e4676",
       "in_degree": 13,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "consciousness-never-appears-as-data-among-data",
         "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
@@ -5144,6 +5145,7 @@
         "intelligence-belongs-only-to-the-mind",
         "a-creation-cannot-replace-its-source",
         "the-perceiver-and-the-trace",
+        "beyond-the-projection",
         "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "agency-does-not-arise",
@@ -17837,7 +17839,7 @@
       "from": "curiosity-has-no-final-form",
       "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "rel": "points_to",
-      "label": "Curiosity First: The Hidden Engine of Talent and Development"
+      "label": "Curiosity First"
     },
     {
       "from": "curiosity-has-no-final-form",
@@ -17865,6 +17867,12 @@
     },
     {
       "from": "curiosity-has-no-final-form",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "curiosity-has-no-final-form",
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
       "label": "The Scaffolding That Keeps Growing"
@@ -17874,6 +17882,12 @@
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "curiosity-has-no-final-form",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "curiosity-has-no-final-form",
@@ -37683,6 +37697,12 @@
     },
     {
       "from": "subtracting-consciousness-at-the-source",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "subtracting-consciousness-at-the-source",
       "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
       "rel": "points_to",
       "label": "凡可言说皆不可言说之产物"
@@ -37691,7 +37711,7 @@
       "from": "subtracting-consciousness-at-the-source",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence Belongs Only to The Mind"
+      "label": "Intelligence Belongs Only to the Mind"
     },
     {
       "from": "subtracting-consciousness-at-the-source",
@@ -37704,6 +37724,12 @@
       "to": "the-perceiver-and-the-trace",
       "rel": "points_to",
       "label": "The Perceiver and the Trace Cannot Collapse"
+    },
+    {
+      "from": "subtracting-consciousness-at-the-source",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "subtracting-consciousness-at-the-source",
@@ -37721,7 +37747,7 @@
       "from": "subtracting-consciousness-at-the-source",
       "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "rel": "points_to",
-      "label": "Causality is Irreducible; The Physical is a View from Nowhere"
+      "label": "Causality Is Irreducible; The Physical Is a View from Nowhere"
     },
     {
       "from": "subtracting-consciousness-at-the-source",
