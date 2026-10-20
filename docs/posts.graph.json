@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T14:16:16.874Z",
+    "generated_at": "2026-10-20T14:19:04.823Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -383,7 +383,7 @@
       "content/posts/what-hinton-failed-to-understand.md": "7f93097607b5",
       "content/posts/what-information-is.md": "e52bd8e70d39",
       "content/posts/what-works-is-the-belief.md": "ffaf3ba6158a",
-      "content/posts/whatever-is-one-prompt-away.md": "71e278b0d349",
+      "content/posts/whatever-is-one-prompt-away.md": "33f8e83e7b4b",
       "content/posts/when-abundance-looks-like-scarcity.md": "c3c272357465",
       "content/posts/when-electrons-think.md": "fbdd3178e8f3",
       "content/posts/when-malfunction-is-scored-as-intelligence.md": "ded5efb3c37b",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9113,
-      "unique_directed": 4686,
+      "edges": 9115,
+      "unique_directed": 4687,
       "missing_targets": 0,
-      "one_way": 210,
+      "one_way": 211,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -452,12 +452,12 @@
       "in_degree": 63
     },
     {
-      "slug": "no-system-can-be-kept-closed",
+      "slug": "beyond-the-projection",
       "in_degree": 58
     },
     {
-      "slug": "beyond-the-projection",
-      "in_degree": 57
+      "slug": "no-system-can-be-kept-closed",
+      "in_degree": 58
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
@@ -1068,7 +1068,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 57,
+      "in_degree": 58,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -9568,9 +9568,9 @@
       "slug": "whatever-is-one-prompt-away",
       "path": "content/posts/whatever-is-one-prompt-away.md",
       "title": "一个提示词之遥 / Whatever Is One Prompt Away",
-      "hash": "71e278b0d349",
+      "hash": "33f8e83e7b4b",
       "in_degree": 20,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "the-scaffolding-we-forget",
@@ -9586,6 +9586,7 @@
         "self-rl-for-humans",
         "the-homework-exam-inversion-registers-substitution",
         "the-meaning-of-life-is-in-the-drafting",
+        "beyond-the-projection",
         "production-consumption-and-the-minds-distinction",
         "abstraction-boundaries-and-the-moving-edge-of-reality",
         "the-scaffolding-that-keeps-growing",
@@ -62299,7 +62300,7 @@
       "from": "whatever-is-one-prompt-away",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem"
+      "label": "Closed Reality in Benchmark Maxing"
     },
     {
       "from": "whatever-is-one-prompt-away",
@@ -62417,6 +62418,18 @@
     },
     {
       "from": "whatever-is-one-prompt-away",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "whatever-is-one-prompt-away",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
       "label": "生产、消费与心智的区分"
@@ -62485,7 +62498,7 @@
       "from": "whatever-is-one-prompt-away",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
-      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
+      "label": "Clarity Isn't a State You Arrive At"
     },
     {
       "from": "when-abundance-looks-like-scarcity",
