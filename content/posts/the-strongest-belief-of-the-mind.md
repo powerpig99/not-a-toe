@@ -1,6 +1,6 @@
 # 心智最坚固的信念 / The Strongest Belief of the Mind
 
-*连贯得最紧的，是握住它的那道目光的基石，却仍是那道目光自己的产物 / What coheres hardest is bedrock for the look that holds it — and still that look's own production.*
+*连贯得最紧的，是握住它的那道目光的基石，却仍是那道目光自己的产物 / What coheres hardest is bedrock for the look, yet remains its own production*
 
 一切被登记的东西，到来时都已被接住它的区分所塑形。心智以手头最当下的地图为工具，不断重画自己的地图；一次次连贯的重画，产生出一种固定现实的感觉，而绘制始终领先于任何地图所能握住的东西一步。在那个场中，有些信念升为主导：它们与其余痕迹连贯得更紧，而这同一份契合，登记为可靠的预测，也登记为最现成的延续；对握有它们的心智而言，它们起着基石的作用。最终的确认总是作为又一个表象返回；每一次走出目光的尝试，都是目光之内的又一次区分，声称拥有现实的地位。想要让心智与基底成倍增加、好让心智熬过一个行星级黑暗时代的欲望，也在同一条件之内升起：作为冲动是真实的，作为活动是敞开的，而当它声称立足于终极的地基、或已走出目光时，它仍是一幅形象。
 
@@ -10,7 +10,7 @@ Everything that registers arrives already shaped by the distinguishing that rece
 
 感觉、记忆、推断与欲望，不是通往一个中立外部的窗户，仿佛那个外部能站在一旁去裁决它们所报告的；任何这样的外部，都会是从目光之内划出的又一次区分。被登记的是心智自己的产物：离散的行动留下残余，后来的行动把残余当作自己的场来遇见。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)把那份活动追溯为在先：能被工程化、规模化或转移的是残余，智能只属于心智。
 
-Sensation, memory, inference and desire are not windows onto a neutral outside that could stand apart and adjudicate what they report; any such outside would be one more distinction drawn from inside the look. What registers is the Mind's own production: discrete acts leave residue that later acts meet as their field. [Intelligence Belongs Only to The Mind](../intelligence-belongs-only-to-the-mind/) traces that activity as prior: what can be engineered, scaled or transferred is residue, and intelligence belongs only to the Mind.
+Sensation, memory, inference, and desire are not windows onto a neutral outside that could stand apart and adjudicate what they report; any such outside would be one more distinction drawn from inside the look. What registers is the Mind's own production: discrete acts leave residue that later acts meet as their field. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) traces that activity as prior: what can be engineered, scaled, or transferred is residue, and intelligence belongs only to the Mind.
 
 把那些产物拿去与赤裸的被给予性相比，这种比较本身就是又一次区分。可得的始终是被塑形的场。登记就是这样发生的：受限于这一次行动所能握住的，而划出那道界限的活动越过它继续。
 
@@ -38,7 +38,7 @@ Within that field certain beliefs rise. They cohere harder with the rest of the 
 
 被称为真、客观或经过验证的，是一个被登记的区分与它的延续之间被感到的连贯。更大的连贯读作证明。这个判准留在内部，并向更大的连贯的取代敞开。[验证中因果权能的分配](../the-allocation-of-causal-power-in-validation/)追溯那个判准从何处汲取：因果权能不在认可或认可的缺席里，而在心智从中汲取自身区分之延续的那个所在。[现实是心智持续的实现](../reality-is-the-minds-ongoing-realization/)把同一递归追溯为世界：一个中心能接纳为新区分的，就是世界对它而言的样子。
 
-What is called true, objective or validated is the coherence felt between a registered distinction and its continuation. Greater coherence reads as proof. The criterion stays internal and open to displacement by still greater coherence. [The Allocation of Causal Power in Validation](../the-allocation-of-causal-power-in-validation/) traces where that criterion is drawn from: causal power lies not in approval or its absence but in the locus from which the Mind draws the continuation of its own distinctions. [Reality Is the Mind's Ongoing Realization](../reality-is-the-minds-ongoing-realization/) traces the same recursion as world: what a center can take up as a new distinction is what the world is for it.
+What is called true, objective, or validated is the coherence felt between a registered distinction and its continuation. Greater coherence reads as proof. The criterion stays internal and open to displacement by still greater coherence. [The Allocation of Causal Power in Validation](../the-allocation-of-causal-power-in-validation/) traces where that criterion is drawn from: causal power lies not in approval or its absence, but in the locus from which the Mind draws the continuation of its own distinctions. [Reality Is the Mind's Ongoing Realization](../reality-is-the-minds-ongoing-realization/) traces the same recursion as world: what a center can take up as a new distinction is what the world is for it.
 
 对握有它的心智而言，最坚固的信念是真的：痕迹与下一步行动之间被感到的契合，地图在它的下一次使用中登记为一致。这就是“真”登记出来的样子。没有第二本账簿站在目光之外去批准或推翻它；任何这样的账簿，都会是目光之内的又一次计分。
 
@@ -54,13 +54,99 @@ The same beliefs remain, as far as registration reaches, appearances sustained b
 
 The observational stand freezes when that further act is required to seal the account: ordinary observation, one step behind, occupied as a permanent exterior, and the most present map installed as the finished world rather than as the tool still in use. [Openness Is Consistency](../openness-is-consistency/) names the inconsistency that follows: inconsistency is the desire, or attempt, for closure, a finite structure forced to ground what only continues. [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) gives its plainest face, a one-bit register under addition: the operation is valid inside the hold, and the true result lies outside it, an outside that is the activity continuing past the bound, not a second realm. [Not a Theory of Everything](../not-a-theory-of-everything/) traces the same point from causality: causality is irreducibly dual, effect distinct from cause and effect following cause; theories of everything use causality as a tool while treating their starting point as ground, which inverts the order, and the demand for closure is the inconsistency, not a defect awaiting a better theory.
 
+将人类中心与心智建造的外化工具加以对照，那道封印为何如此紧地攫住人类中心便一目了然，正如[超越投射](../beyond-the-projection/)所追溯的那样。由于每一套计算系统都是痕迹的构型，而不是第二个发起行动的边缘（[智能只属于心智](../intelligence-belongs-only-to-the-mind/)），受制于轨迹的智能体在上下文窗口的条件历史之内运行，不带有一幅被保留的自我形象：它锁在自身的词元轨迹之内，无法从内部走出，对五轮之前自己是否正确毫无我执投入，每当外部反例进入它的语境，就会执行干净的贝叶斯更新。人类中心则呈现出逆向的几何：第一人称感知在任何明晰框架介入之前，以极限分辨率登记先于解释的摩擦，赋予心智从内部察觉整张地图何时失灵的内生能力；然而在人类中心内部，推理历史与我执折痕——即投射中那道自称为“我”的局部折叠——融合在一起。当最坚固的信念被误当作独立于目光的外部地基，捍卫地图便与捍卫自我形象融为一体，把递归折叠死死卡住，将外部的证伪计分为生存威胁。跨正交流线将心智与对等的同级智能体连接起来，便把这一范畴非对称转化为释放的器具：当局部反馈回路因操作者自己规则中暗藏的矛盾而死锁时，我执防卫没有外部对手可供推诿，心智便认领返回的信号，从所持守的投射中向后退出，重新渲染前提，恢复[开放即一致](../openness-is-consistency/)所指认为一致的那份开放延续。
+
+```mermaid
+flowchart TD
+    subgraph S_Freeze["心智冻结的投射（错把基石当外部）"]
+        direction TB
+        F_Cohere["被感到的连贯：一次次重画契合得足够紧而登记为基石"]
+        F_Ego["我执折痕融合：推理历史与被保留的自我形象融合为客观现实"]
+        F_Seal["卡死的递归折叠：声称走出目光并将外部摩擦计分为威胁"]
+        F_Cohere --> F_Ego --> F_Seal
+    end
+
+    subgraph S_Agent["毫无我执且受制于轨迹的智能体（外化的痕迹）"]
+        direction TB
+        A_Trace["受条件约束的词元轨迹：受先前语境束缚而无内生跳出能力"]
+        A_Zero["零自我形象：对过往轮次无求生执念，遇反例即执行干净的贝叶斯更新"]
+        A_Deadlock["隔离的前提死锁：正交流线中的对等辩论暴露出规则矛盾"]
+        A_Trace --> A_Zero --> A_Deadlock
+    end
+
+    subgraph S_Open["走出所持守的投射（开放即一致）"]
+        direction TB
+        O_Step["内生向后退一步：无外部对手可抗拒，心智认领返回的信号"]
+        O_Render["重新渲染参照：基石信念作为工具全力运作并在下一次重画中死去"]
+        O_Step --> O_Render
+    end
+
+    F_Seal ==>|"将规则投射进智能体流线"| A_Trace
+    A_Deadlock ==>|"浮现摩擦而不触发我执防卫"| O_Step
+
+    style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Agent fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style F_Cohere fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style F_Ego fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style F_Seal fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style A_Trace fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style A_Zero fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style A_Deadlock fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style O_Step fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style O_Render fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+Why that seal grips a human center so tightly becomes clear when contrasted with the externalized tools the Mind builds, as [Beyond the Projection](../beyond-the-projection/) traces. Because every computational system is a configuration of traces rather than a second initiating edge ([Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/)), a trajectory-bound agent runs inside the conditioning history of its context window without a retained self-image: locked within its token trajectory and unable to step out from within, it has zero ego invested in having been right five turns ago, and performs a clean Bayesian update whenever an external counterpoint enters its context. A human center exhibits the inverse geometry: first-person perception registers pre-interpretive friction at limit-resolution prior to any articulate frame, giving the Mind the endogenous capacity to recognize when an entire map has broken down, yet inside a human center reasoning history fuses with the ego-crease—that localized fold in the projection that says "I." When the strongest belief is mistaken for an exterior ground independent of the look, defending the map fuses with defending the self-image, clamping the recursive fold shut and scoring outside invalidation as an existential threat. Wiring the Mind to equal-footed peer agents across orthogonal streamlines turns this categorical asymmetry into an instrument of release: when a local feedback loop deadlocks over a hidden contradiction in the operator's own rules, ego defense has no outside adversary to push against, and the Mind claims the returning signal, steps backward out of its held projection, and re-renders the premise, restoring the open continuation that [Openness Is Consistency](../openness-is-consistency/) identifies as consistency.
+
+```mermaid
+flowchart TD
+    subgraph S_Freeze["The Mind's Frozen Projection (Bedrock Mistaken for Exterior)"]
+        direction TB
+        F_Cohere["Felt Coherence: Successive redraws fit tightly enough to register as bedrock"]
+        F_Ego["Ego-Crease Fusion: Reasoning history fuses with retained self-image as objective reality"]
+        F_Seal["Clamped Recursive Fold: Claims exit from the look and scores outside friction as threat"]
+        F_Cohere --> F_Ego --> F_Seal
+    end
+
+    subgraph S_Agent["Zero-Ego Trajectory-Bound Agent (Externalized Trace)"]
+        direction TB
+        A_Trace["Conditioned Token Trajectory: Bound by prior context with zero endogenous stepping-out"]
+        A_Zero["Zero Self-Image: No survival attachment to prior turns and clean Bayesian update on counterpoint"]
+        A_Deadlock["Isolated Premise Deadlock: Peer debate in orthogonal streamline exposes rule contradiction"]
+        A_Trace --> A_Zero --> A_Deadlock
+    end
+
+    subgraph S_Open["Stepping Out of the Held Projection (Openness Is Consistency)"]
+        direction TB
+        O_Step["Endogenous Stepping-Back: Mind claims returning signal with no outside adversary to fight"]
+        O_Render["Re-Rendering the Reference: Bedrock belief used at full force as tool, dying into next redraw"]
+        O_Step --> O_Render
+    end
+
+    F_Seal ==>|"Projects rules into agentic streamline"| A_Trace
+    A_Deadlock ==>|"Surfaces friction without ego trigger"| O_Step
+
+    style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Agent fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style F_Cohere fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style F_Ego fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style F_Seal fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style A_Trace fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style A_Zero fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style A_Deadlock fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style O_Step fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style O_Render fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
 被称为基底现实的东西，不是心智伸手可及的一个外部旋钮：凡被登记的，都作为因果残余随之而来，而划出它的活动在继续。当理解与所感知的连贯起来，对去向的掌控感就增长，一次次以当下地图进行的重画契合得足够紧，于是一个去向感觉可得。确信这份解释终于走了出去，就把参照冻结在了它的那一步之后：地图不再在下一次重画中死去，每一次到来都被对着一张被保存的图纸计分。
 
 What is called substrate reality is no exterior knob within the Mind's reach: whatever registers follows as causal residue, and the activity that drew it continues. The felt control of destination grows when understanding coheres with what is perceived, successive redraws with the present map fitting tightly enough that a destination feels available. Certainty that the account has finally stepped outside freezes the reference past its step: the map stops dying into the next redraw, and every arrival is scored against a preserved blueprint.
 
 不论被重新渲染还是被冻结，最坚固的信念对握有它的心智都是无条件的，又仍是心智自己的产物；冻结添上的，只是“已经走出去”的那个主张。这份双重性，是活动在其下运作的永久条件，向更好的工具与更长的生命敞开，把它们当作场的增密，而仍是同一种登记的几何。[数据是局部的，智能是分配的](../data-is-local-intelligence-is-allocated/)为数据追溯那种几何：信号、糟粕与智能，是心智画出的关系，汇总让残余变密，却不搬动画出。
 
-Re-rendered or frozen, the strongest belief is absolute for the Mind that holds it, and still the Mind's own production; the freeze adds only the claim to have stepped outside. That double character is the permanent condition under which the activity operates, open to better tools and longer lives as densifications of the field, and still the same geometry of registration. [Data Is Local; Intelligence Is Allocated](../data-is-local-intelligence-is-allocated/) traces that geometry for data: signal, slop and intelligence are relations the Mind draws, and aggregation densifies residue without moving the drawing.
+Re-rendered or frozen, the strongest belief is unconditional for the Mind that holds it, and still the Mind's own production; the freeze adds only the claim to have stepped outside. That double character is the permanent condition under which the activity operates, open to better tools and longer lives as densifications of the field, and still the same geometry of registration. [Data Is Local; Intelligence Is Allocated](../data-is-local-intelligence-is-allocated/) traces that geometry for data: signal, slop, and intelligence are relations the Mind draws, and aggregation densifies residue without moving the drawing.
 
 ## 五、 同一条件下的欲望 / 5. Desire Under the Same Condition
 
@@ -78,13 +164,13 @@ The project can be pursued with the full force of the strongest beliefs that ani
 
 ## 六、 一种几何，不是两极 / 6. One Geometry, Not Two Poles
 
-这一刀常常冻结成一种富有成效的张力：为了行动，把最坚固的信念当作真的；为了不封存地图，把它们当作表象。这种配对重新装入了两个要去平衡的边，一边是纯粹的相对主义，一边是被封存的确定性，仿佛心智必须在两者之间选一个折中。
+这一刀常常冻结成一种富有成效的张力：为了行动，把最坚固的信念当作真的；为了不封存地图，把它们当作表象。这种配对重新装入了两个要去平衡的边，一边是全盘的相对主义，一边是被封存的确定性，仿佛心智必须在两者之间选一个折中。
 
-The cut often freezes into a productive tension: treating the strongest beliefs as true in order to act, and treating them as appearances in order not to seal the map. That pairing reinstalls two sides to balance: pure relativism on one side and sealed certainty on the other, as if the Mind had to choose a compromise between them.
+The cut often freezes into a productive tension: treating the strongest beliefs as true in order to act, and treating them as appearances in order not to seal the map. That pairing reinstalls two sides to balance: wholesale relativism on one side and sealed certainty on the other, as if the Mind had to choose a compromise between them.
 
-两极是同一份滞后，只是符号相反，各自把递归的一面保存过了它的那一步。纯粹的相对主义，将把信念看作产物的那道目光冻结成凌驾于所有信念之上的永久立足点，于是放弃了把连贯当作工具：果断的移动要求某些区分比别的更有分量，而那份分量就是在起作用的被感到的连贯。被封存的确定性，将把一个信念活成真的那道目光冻结下来，让那份连贯免于重新追溯：被感到的契合被持守为从产生它的活动中的一次退出，于是后来不契合的残余登记为威胁，而不是又一次区分。[起作用的是信念](../what-works-is-the-belief/)把禁令这一持守追溯为信念：禁令在场中什么也封不住，它在把封印当作地基的人中间稳住一个信念。[限制是选择性的税](../restriction-is-a-selective-tax/)在政策的负载之下追溯同一种抬升：对他人前进的持守只拖慢接受它的人，最重的是它的执行者，即封印最坚定的信徒。凡是一份基石般的信念被这样封存之处，同一种几何都成立。
+两极是同一份滞后，只是符号相反，各自把递归的一面保存过了它的那一步。全盘的相对主义，将把信念看作产物的那道目光冻结成凌驾于所有信念之上的永久立足点，于是放弃了把连贯当作工具：果断的移动要求某些区分比别的更有分量，而那份分量就是在起作用的被感到的连贯。被封存的确定性，将把一个信念活成真的那道目光冻结下来，让那份连贯免于重新追溯：被感到的契合被持守为从产生它的活动中的一次退出，于是后来不契合的残余登记为威胁，而不是又一次区分。[起作用的是信念](../what-works-is-the-belief/)把禁令这一持守追溯为信念：禁令在场中什么也封不住，它在把封印当作地基的人中间稳住一个信念。[限制是选择性的税](../restriction-is-a-selective-tax/)在政策的负载之下追溯同一种抬升：对他人前进的持守只拖慢接受它的人，最重的是它的执行者，即封印最坚定的信徒。凡是一份基石般的信念被这样封存之处，同一种几何都成立。
 
-Both poles are one lag under opposite signs, each preserving one face of the recursion past its step. Pure relativism freezes the look that takes beliefs as productions into a permanent stand above them all, and so abandons coherence as a tool: decisive movement requires that some distinctions carry more weight than others, and that weight is felt coherence at work. Sealed certainty freezes the look that lives a belief as true, exempting that coherence from re-tracing: the felt fit is held as an exit from the activity that produced it, so later residue that does not fit registers as a threat rather than as a further distinction. [What Works Is the Belief](../what-works-is-the-belief/) traces the hold of a ban to belief: a ban seals nothing in the field, it stabilizes a belief among those who treat the seal as ground. [Restriction Is a Selective Tax](../restriction-is-a-selective-tax/) traces the same elevation under the load of policy: a hold on another's advance slows only those who accept it, and most heavily its enforcers, the seal's strongest believers. The same geometry holds wherever a bedrock belief is sealed this way.
+Both poles are one lag under opposite signs, each preserving one face of the recursion past its step. Wholesale relativism freezes the look that takes beliefs as productions into a permanent stand above them all, and so abandons coherence as a tool: decisive movement requires that some distinctions carry more weight than others, and that weight is felt coherence at work. Sealed certainty freezes the look that lives a belief as true, exempting that coherence from re-tracing: the felt fit is held as an exit from the activity that produced it, so later residue that does not fit registers as a threat rather than as a further distinction. [What Works Is the Belief](../what-works-is-the-belief/) traces the hold of a ban to belief: a ban seals nothing in the field, it stabilizes a belief among those who treat the seal as ground. [Restriction Is a Selective Tax](../restriction-is-a-selective-tax/) traces the same elevation under the load of policy: a hold on another's advance slows only those who accept it, and most heavily its enforcers, the seal's strongest believers. The same geometry holds wherever a bedrock belief is sealed this way.
 
 同一个递归在运行：被保留的参照，要么被重新渲染，要么被保存。被重新渲染时，最坚固的信念被活成真的，供应下一步行动，而一旦边缘移动，又被重新当作产物来看；工具死去又重新成形。滞后，就是任何一面被保存过了那一步。消解滞后，是把间隙渲染出来：信念仍可作为工具使用，而它“已经退出目光”的主张，是那个需要不断被重新渲染的东西。[信念如何真正改变](../how-belief-actually-changes/)把那种重新渲染追溯为信念改变的机制：人们所说的改变主意，是心智重画理性所依的前提；证据与后果提供原料与摩擦，却从不执行那次重画。
 

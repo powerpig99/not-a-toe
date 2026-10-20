@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T14:56:01.462Z",
+    "generated_at": "2026-10-20T15:03:39.986Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -31,7 +31,7 @@
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "af7a00651647",
       "content/posts/causality-all-the-way.md": "27e8e145c237",
       "content/posts/causality-and-the-irreducible-prior.md": "b0836e2d3ef6",
-      "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "9a04d0692bd0",
+      "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "ce9436abbf24",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "31c5ca5fcc3f",
       "content/posts/cheng-gong-xue.md": "a5a16fe66184",
       "content/posts/choice-itself-has-no-inherent-weight.md": "192b31e8caf0",
@@ -349,7 +349,7 @@
       "content/posts/the-source-of-shared-change.md": "4a0a0c0885e2",
       "content/posts/the-sovereign-blinding.md": "118b031bf858",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
-      "content/posts/the-strongest-belief-of-the-mind.md": "08187325a18d",
+      "content/posts/the-strongest-belief-of-the-mind.md": "a27fb2b6ea27",
       "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "aafc55f7b4d1",
       "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "ad2f484fe9b0",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9186,
-      "unique_directed": 4700,
+      "edges": 9194,
+      "unique_directed": 4702,
       "missing_targets": 0,
-      "one_way": 222,
+      "one_way": 224,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -445,7 +445,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 70
+      "in_degree": 72
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -1068,7 +1068,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 70,
+      "in_degree": 72,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1186,9 +1186,9 @@
       "slug": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "path": "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md",
       "title": "因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere",
-      "hash": "9a04d0692bd0",
+      "hash": "ce9436abbf24",
       "in_degree": 19,
-      "out_degree": 18,
+      "out_degree": 19,
       "links_out": [
         "the-cut-moves-but-never-vanishes",
         "dimensions-are-projections",
@@ -1204,6 +1204,7 @@
         "the-distant-silhouette-and-the-inventory-from-nowhere",
         "the-model-never-becomes-a-second-edge",
         "the-twin-paradox-and-the-hidden-observer",
+        "beyond-the-projection",
         "individual-choices-as-the-only-causal-levers",
         "subtracting-consciousness-at-the-source",
         "agency-does-not-arise",
@@ -8828,9 +8829,9 @@
       "slug": "the-strongest-belief-of-the-mind",
       "path": "content/posts/the-strongest-belief-of-the-mind.md",
       "title": "心智最坚固的信念 / The Strongest Belief of the Mind",
-      "hash": "08187325a18d",
+      "hash": "a27fb2b6ea27",
       "in_degree": 19,
-      "out_degree": 18,
+      "out_degree": 19,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "causality-all-the-way",
@@ -8842,6 +8843,7 @@
         "openness-is-consistency",
         "no-system-can-be-kept-closed",
         "not-a-theory-of-everything",
+        "beyond-the-projection",
         "data-is-local-intelligence-is-allocated",
         "the-reality-distortion-field-names-the-closed-map",
         "what-works-is-the-belief",
@@ -13209,13 +13211,13 @@
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "to": "dimensions-are-projections",
       "rel": "points_to",
-      "label": "Dimensions are Projections"
+      "label": "Dimensions Are Projections"
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "to": "po-chu-gai-nian-de-jian-yue",
       "rel": "points_to",
-      "label": "Overcoming the Usurpation of Concepts"
+      "label": "Breaking the Overreach of Concepts"
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -13348,6 +13350,18 @@
       "to": "the-twin-paradox-and-the-hidden-observer",
       "rel": "points_to",
       "label": "The Twin Paradox and the Hidden Observer"
+    },
+    {
+      "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -58161,7 +58175,7 @@
       "from": "the-strongest-belief-of-the-mind",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence Belongs Only to The Mind"
+      "label": "Intelligence Belongs Only to the Mind"
     },
     {
       "from": "the-strongest-belief-of-the-mind",
@@ -58270,6 +58284,42 @@
       "to": "not-a-theory-of-everything",
       "rel": "points_to",
       "label": "Not a Theory of Everything"
+    },
+    {
+      "from": "the-strongest-belief-of-the-mind",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-strongest-belief-of-the-mind",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "the-strongest-belief-of-the-mind",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "the-strongest-belief-of-the-mind",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-strongest-belief-of-the-mind",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "the-strongest-belief-of-the-mind",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "the-strongest-belief-of-the-mind",
