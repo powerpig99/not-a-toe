@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T15:32:36.584Z",
+    "generated_at": "2026-10-20T15:35:29.084Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -323,7 +323,7 @@
       "content/posts/the-question-that-installs-the-war.md": "6570c77251d5",
       "content/posts/the-ramble-within-the-ramble.md": "454a1407f39f",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "e536a3a8e1db",
-      "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "adad691debaa",
+      "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "d46ea8578432",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "b3d9f124e004",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "56dda0f3f7ab",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "da0c0cd6c3f8",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9239,
-      "unique_directed": 4711,
+      "edges": 9241,
+      "unique_directed": 4712,
       "missing_targets": 0,
-      "one_way": 233,
+      "one_way": 234,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -440,12 +440,12 @@
       "in_degree": 100
     },
     {
-      "slug": "openness-is-consistency",
+      "slug": "beyond-the-projection",
       "in_degree": 81
     },
     {
-      "slug": "beyond-the-projection",
-      "in_degree": 80
+      "slug": "openness-is-consistency",
+      "in_degree": 81
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -1069,7 +1069,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 80,
+      "in_degree": 81,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -8153,9 +8153,9 @@
       "slug": "the-real-lesson-from-the-consciousness-vector-paper",
       "path": "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md",
       "title": "意识向量论文的真正教训 / The Real Lesson from the Consciousness Vector Paper",
-      "hash": "adad691debaa",
+      "hash": "d46ea8578432",
       "in_degree": 16,
-      "out_degree": 16,
+      "out_degree": 17,
       "links_out": [
         "what-works-is-the-belief",
         "restriction-is-a-selective-tax",
@@ -8164,6 +8164,7 @@
         "the-flight-analogy-leaves-the-mind-untouched",
         "intelligence-belongs-only-to-the-mind",
         "the-model-never-becomes-a-second-edge",
+        "beyond-the-projection",
         "shared-humanity-is-never-shared",
         "preference-clusters-and-the-language-of-judgment",
         "no-system-can-be-kept-closed",
@@ -54012,6 +54013,12 @@
     },
     {
       "from": "the-real-lesson-from-the-consciousness-vector-paper",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-real-lesson-from-the-consciousness-vector-paper",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "Intelligence Belongs Only to the Mind"
@@ -54021,6 +54028,12 @@
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "the-real-lesson-from-the-consciousness-vector-paper",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-real-lesson-from-the-consciousness-vector-paper",
