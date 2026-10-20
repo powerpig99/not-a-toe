@@ -4427,7 +4427,7 @@ Seeking static clarity presumes truth is a stable monument reached by peeling aw
 
 Software engineering assumes comprehensive specs can fully define system behavior; documentation only records the delta of unshared assumptions, resting on living context.
 
-→ [The Living Context](../../posts/the-living-context/)
+→ [活的语境 / The Living Context](../../posts/the-living-context/)
 
 ### 统计总量作为因果力量 / Statistical Aggregates as Causal Forces
 `科学 / Scientific`

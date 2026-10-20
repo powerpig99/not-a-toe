@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T20:45:35.188Z",
+    "generated_at": "2026-10-20T20:46:24.447Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -285,7 +285,7 @@
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "2e492f075a1c",
       "content/posts/the-ledger-of-the-unencountered.md": "8932d526bdcc",
       "content/posts/the-limitation-is-doing-work.md": "d9e53e47a265",
-      "content/posts/the-living-context.md": "2d1c878d63a5",
+      "content/posts/the-living-context.md": "b4a940ebc385",
       "content/posts/the-local-trap-of-technological-change.md": "64ebb0eae126",
       "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "9c43b9beb0a3",
       "content/posts/the-loop-accelerates.md": "774efc991390",
@@ -407,9 +407,9 @@
       "content/book/causality.md": "c5ac49c16705",
       "content/book/consciousness.md": "9646f214f789",
       "content/book/economics.md": "c863f3bd1a44",
-      "content/book/index-of-premises.md": "71f9a7094b04",
+      "content/book/index-of-premises.md": "a6773f32baa2",
       "content/book/intelligence.md": "dfcccbba6848",
-      "content/book/knowledge-and-learning.md": "cca91fa2120f",
+      "content/book/knowledge-and-learning.md": "8aaf853cf833",
       "content/book/life-and-statistics.md": "903bd0f56d99",
       "content/book/mathematics.md": "0ae44b3e7554",
       "content/book/meaning-and-transcendence.md": "ce5168a72c34",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9678,
-      "unique_directed": 4830,
+      "edges": 9682,
+      "unique_directed": 4831,
       "missing_targets": 0,
-      "one_way": 344,
+      "one_way": 345,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 189
+      "in_degree": 190
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1076,7 +1076,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 189,
+      "in_degree": 190,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -7390,13 +7390,14 @@
       "kind": "post",
       "slug": "the-living-context",
       "path": "content/posts/the-living-context.md",
-      "title": "The Living Context",
-      "hash": "2d1c878d63a5",
+      "title": "活的语境 / The Living Context",
+      "hash": "b4a940ebc385",
       "in_degree": 2,
-      "out_degree": 2,
+      "out_degree": 3,
       "links_out": [
         "a-living-external-cortex",
-        "looping-and-graphing"
+        "looping-and-graphing",
+        "beyond-the-projection"
       ]
     },
     {
@@ -51355,13 +51356,37 @@
       "from": "the-living-context",
       "to": "a-living-external-cortex",
       "rel": "points_to",
-      "label": "A Living External Cortex: The Closest the Image Can Come"
+      "label": "活的外部皮层"
+    },
+    {
+      "from": "the-living-context",
+      "to": "a-living-external-cortex",
+      "rel": "points_to",
+      "label": "A Living External Cortex"
     },
     {
       "from": "the-living-context",
       "to": "looping-and-graphing",
       "rel": "points_to",
-      "label": "Looping and Graphing: Mind as the Loop of Loops"
+      "label": "回环与成图"
+    },
+    {
+      "from": "the-living-context",
+      "to": "looping-and-graphing",
+      "rel": "points_to",
+      "label": "Looping and Graphing"
+    },
+    {
+      "from": "the-living-context",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-living-context",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-local-trap-of-technological-change",
@@ -68289,7 +68314,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "71f9a7094b04",
+        "hash": "a6773f32baa2",
         "out_degree": 396
       },
       {
@@ -68307,7 +68332,7 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "cca91fa2120f",
+        "hash": "8aaf853cf833",
         "out_degree": 34
       },
       {
@@ -72552,7 +72577,7 @@
         "from": "book:index-of-premises",
         "to": "the-living-context",
         "rel": "collects",
-        "label": "The Living Context"
+        "label": "活的语境 / The Living Context"
       },
       {
         "from": "book:index-of-premises",
@@ -73506,7 +73531,7 @@
         "from": "book:knowledge-and-learning",
         "to": "the-living-context",
         "rel": "collects",
-        "label": "The Living Context"
+        "label": "活的语境 / The Living Context"
       },
       {
         "from": "book:knowledge-and-learning",
