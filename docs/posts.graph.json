@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T17:43:35.611Z",
+    "generated_at": "2026-10-20T17:47:09.635Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -305,7 +305,7 @@
       "content/posts/the-myth-of-population-collapse-explained.md": "afe20651bc61",
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "971cce019879",
       "content/posts/the-name-revolution-files-a-life-as-evidence.md": "cb2cf97eb23c",
-      "content/posts/the-non-definitive-definition-of-intelligence.md": "99b5bd10ba18",
+      "content/posts/the-non-definitive-definition-of-intelligence.md": "b77b8bf0bc21",
       "content/posts/the-npc-impression-is-structural.md": "7b832f131db6",
       "content/posts/the-observational-cut-in-ai-debates.md": "4c40a00e0ba9",
       "content/posts/the-only-coherent-uncaused-effect.md": "b8d494757a53",
@@ -407,8 +407,8 @@
       "content/book/causality.md": "c5ac49c16705",
       "content/book/consciousness.md": "84e10ab5f9aa",
       "content/book/economics.md": "0208ea9246ef",
-      "content/book/index-of-premises.md": "10dcf9cfe2c8",
-      "content/book/intelligence.md": "5c4ff711670e",
+      "content/book/index-of-premises.md": "6d4e05fdc249",
+      "content/book/intelligence.md": "699abff1af69",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "0ae44b3e7554",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9392,
-      "unique_directed": 4752,
+      "edges": 9405,
+      "unique_directed": 4753,
       "missing_targets": 0,
-      "one_way": 274,
+      "one_way": 275,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 121
+      "in_degree": 122
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1070,7 +1070,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 121,
+      "in_degree": 122,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -7765,10 +7765,10 @@
       "kind": "post",
       "slug": "the-non-definitive-definition-of-intelligence",
       "path": "content/posts/the-non-definitive-definition-of-intelligence.md",
-      "title": "The Non-Definitive Definition of Intelligence",
-      "hash": "99b5bd10ba18",
+      "title": "智能的非定论定义 / The Non-Definitive Definition of Intelligence",
+      "hash": "b77b8bf0bc21",
       "in_degree": 11,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "you-cant-benchmark-the-fluid",
@@ -7779,6 +7779,7 @@
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
         "the-scaffolding-we-forget",
+        "beyond-the-projection",
         "data-is-local-intelligence-is-allocated",
         "mistaking-the-expression-for-the-intelligence"
       ]
@@ -52429,13 +52430,31 @@
       "from": "the-non-definitive-definition-of-intelligence",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "Closed reality in benchmark maxing"
+      "label": "基准刷榜中的封闭实存"
     },
     {
       "from": "the-non-definitive-definition-of-intelligence",
       "to": "you-cant-benchmark-the-fluid",
       "rel": "points_to",
-      "label": "You can't benchmark the fluid"
+      "label": "流动之物无法被基准衡量"
+    },
+    {
+      "from": "the-non-definitive-definition-of-intelligence",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing"
+    },
+    {
+      "from": "the-non-definitive-definition-of-intelligence",
+      "to": "you-cant-benchmark-the-fluid",
+      "rel": "points_to",
+      "label": "You Can't Benchmark the Fluid"
+    },
+    {
+      "from": "the-non-definitive-definition-of-intelligence",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "AGI的预设与来自外部的视角"
     },
     {
       "from": "the-non-definitive-definition-of-intelligence",
@@ -52447,31 +52466,67 @@
       "from": "the-non-definitive-definition-of-intelligence",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI are temporary goalposts"
+      "label": "AGI 与 ASI 是加速通用智能的暂时球门"
+    },
+    {
+      "from": "the-non-definitive-definition-of-intelligence",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI Are Temporary Goalposts"
     },
     {
       "from": "the-non-definitive-definition-of-intelligence",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
-      "label": "The path drawn one step at a time"
+      "label": "一步一步绘制出的路径"
+    },
+    {
+      "from": "the-non-definitive-definition-of-intelligence",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "The Path Drawn One Step at a Time"
     },
     {
       "from": "the-non-definitive-definition-of-intelligence",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "没有系统能被保持封闭"
     },
     {
       "from": "the-non-definitive-definition-of-intelligence",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
+    },
+    {
+      "from": "the-non-definitive-definition-of-intelligence",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "the-non-definitive-definition-of-intelligence",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "the-non-definitive-definition-of-intelligence",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence belongs only to the Mind"
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "the-non-definitive-definition-of-intelligence",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "the-non-definitive-definition-of-intelligence",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
     },
     {
       "from": "the-non-definitive-definition-of-intelligence",
@@ -52481,15 +52536,39 @@
     },
     {
       "from": "the-non-definitive-definition-of-intelligence",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-non-definitive-definition-of-intelligence",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-non-definitive-definition-of-intelligence",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
-      "label": "Data is local; intelligence is allocated"
+      "label": "数据是局部的，智能是分配的"
+    },
+    {
+      "from": "the-non-definitive-definition-of-intelligence",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data Is Local, Intelligence Is Allocated"
     },
     {
       "from": "the-non-definitive-definition-of-intelligence",
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
-      "label": "Mistaking the expression for the intelligence"
+      "label": "错把表达当成智能"
+    },
+    {
+      "from": "the-non-definitive-definition-of-intelligence",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the Expression for the Intelligence"
     },
     {
       "from": "the-npc-impression-is-structural",
@@ -66495,7 +66574,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "10dcf9cfe2c8",
+        "hash": "6d4e05fdc249",
         "out_degree": 396
       },
       {
@@ -66504,7 +66583,7 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "5c4ff711670e",
+        "hash": "699abff1af69",
         "out_degree": 48
       },
       {
@@ -70140,7 +70219,7 @@
         "from": "book:index-of-premises",
         "to": "the-non-definitive-definition-of-intelligence",
         "rel": "collects",
-        "label": "The Non-Definitive Definition of Intelligence"
+        "label": "智能的非定论定义 / The Non-Definitive Definition of Intelligence"
       },
       {
         "from": "book:index-of-premises",
@@ -71526,7 +71605,7 @@
         "from": "book:intelligence",
         "to": "the-non-definitive-definition-of-intelligence",
         "rel": "collects",
-        "label": "The Non-Definitive Definition of Intelligence"
+        "label": "智能的非定论定义 / The Non-Definitive Definition of Intelligence"
       },
       {
         "from": "book:intelligence",

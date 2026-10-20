@@ -32,7 +32,7 @@ The essays in this part dissect Geoffrey Hinton's cognitive leaps, the limits of
 - [Intelligence Belongs Only to The Mind](../../posts/intelligence-belongs-only-to-the-mind/)
 - [AGI 与 ASI 是加速通用智能的暂时球门 / AGI and ASI Are Temporary Goalposts](../../posts/agi-and-asi-are-temporary-goalposts/)
 - [基准刷榜中的封闭实存 / Closed Reality in Benchmark Maxing](../../posts/closed-reality-in-benchmark-maxing/)
-- [The Non-Definitive Definition of Intelligence](../../posts/the-non-definitive-definition-of-intelligence/)
+- [智能的非定论定义 / The Non-Definitive Definition of Intelligence](../../posts/the-non-definitive-definition-of-intelligence/)
 - [总在倾听者无法发起 / What Always Listens Cannot Originate](../../posts/what-always-listens-cannot-originate/)
 - [Token 效率、模拟与无法弥合的间隙 / Token Efficiency, Emulation, and the Unclosable Gap](../../posts/token-efficiency-emulation-and-the-unclosable-gap/)
 - [造物无法取代其源头 / A Creation Cannot Replace Its Source](../../posts/a-creation-cannot-replace-its-source/)

@@ -3590,7 +3590,7 @@ Language models simulate intentional dialogue by anticipating human queries; con
 
 Psychometrics and AI seek a permanent, universal formula for intelligence; every formal test captures only a temporary task slice, lagging behind open-ended human ingenuity.
 
-→ [The Non-Definitive Definition of Intelligence](../../posts/the-non-definitive-definition-of-intelligence/)
+→ [智能的非定论定义 / The Non-Definitive Definition of Intelligence](../../posts/the-non-definitive-definition-of-intelligence/)
 
 ### 非二元论对分离的病理化 / Non-Dual Separation Pathology
 `哲学 / Philosophical`
