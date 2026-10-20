@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T15:22:46.694Z",
+    "generated_at": "2026-10-20T15:24:07.013Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -205,7 +205,7 @@
       "content/posts/the-blind-spot-of-the-frame.md": "800c2e8eaedd",
       "content/posts/the-boundary-crossing-of-choice.md": "795c21ece259",
       "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "3955e0d6eba0",
-      "content/posts/the-boundary-of-the-frame.md": "dfd1bfd587a5",
+      "content/posts/the-boundary-of-the-frame.md": "48087ba79e07",
       "content/posts/the-brain-does-not-backprop.md": "0fe20d66ae42",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "faeb12423e13",
       "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "7db6b0e5042c",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9206,
-      "unique_directed": 4706,
+      "edges": 9208,
+      "unique_directed": 4707,
       "missing_targets": 0,
-      "one_way": 228,
+      "one_way": 229,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -445,7 +445,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 76
+      "in_degree": 77
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -1069,7 +1069,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 76,
+      "in_degree": 77,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -5598,9 +5598,9 @@
       "slug": "the-boundary-of-the-frame",
       "path": "content/posts/the-boundary-of-the-frame.md",
       "title": "框架的边界 / The Boundary of the Frame",
-      "hash": "dfd1bfd587a5",
+      "hash": "48087ba79e07",
       "in_degree": 18,
-      "out_degree": 17,
+      "out_degree": 18,
       "links_out": [
         "what-information-is",
         "time-is-causality-not-a-dimension",
@@ -5617,6 +5617,7 @@
         "causality-all-the-way",
         "intelligence-belongs-only-to-the-mind",
         "dimensions-are-projections",
+        "beyond-the-projection",
         "the-bank-shot-and-the-magic-trick",
         "the-vector-and-the-puzzle-of-projections"
       ]
@@ -40339,6 +40340,12 @@
     },
     {
       "from": "the-boundary-of-the-frame",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
       "to": "causality-all-the-way",
       "rel": "points_to",
       "label": "Causality All the Way"
@@ -40354,6 +40361,12 @@
       "to": "dimensions-are-projections",
       "rel": "points_to",
       "label": "Dimensions Are Projections"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-boundary-of-the-frame",
