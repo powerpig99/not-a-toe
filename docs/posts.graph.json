@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T15:07:28.877Z",
+    "generated_at": "2026-10-20T15:13:25.757Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -325,13 +325,13 @@
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "e536a3a8e1db",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "adad691debaa",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "b3d9f124e004",
-      "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "48a714b8f22c",
+      "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "56dda0f3f7ab",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "da0c0cd6c3f8",
       "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "9c76b27b0f26",
       "content/posts/the-reflexive-dilemma-of-unique-insight.md": "e0b2f868f3d1",
       "content/posts/the-residue-and-the-free-variable.md": "eb7e4af88ac4",
       "content/posts/the-returning-signal-and-its-claim.md": "b8be66b1e8f5",
-      "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "6bdbb17cb945",
+      "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "a8aa84581a70",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "7940d13c303b",
       "content/posts/the-reversal-of-education-and-science.md": "d9695fb75dbc",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "11a703d79fe3",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9196,
-      "unique_directed": 4703,
+      "edges": 9204,
+      "unique_directed": 4705,
       "missing_targets": 0,
-      "one_way": 225,
+      "one_way": 227,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -445,7 +445,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 73
+      "in_degree": 75
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -1068,7 +1068,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 73,
+      "in_degree": 75,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -8204,9 +8204,9 @@
       "slug": "the-reality-distortion-field-inverts-the-baseline",
       "path": "content/posts/the-reality-distortion-field-inverts-the-baseline.md",
       "title": "现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline",
-      "hash": "48a714b8f22c",
+      "hash": "56dda0f3f7ab",
       "in_degree": 18,
-      "out_degree": 18,
+      "out_degree": 19,
       "links_out": [
         "the-reality-distortion-field-names-the-closed-map",
         "how-belief-actually-changes",
@@ -8220,6 +8220,7 @@
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
+        "beyond-the-projection",
         "why-mathematics-can-never-be-solved",
         "a-new-deeper-look-at-antifragility",
         "the-price-of-closing-optionality",
@@ -8349,9 +8350,9 @@
       "slug": "the-reversal-from-defensible-claim-to-dogma",
       "path": "content/posts/the-reversal-from-defensible-claim-to-dogma.md",
       "title": "从可辩护的主张到教条的反转 / The Reversal from Defensible Claim to Dogma",
-      "hash": "6bdbb17cb945",
+      "hash": "a8aa84581a70",
       "in_degree": 18,
-      "out_degree": 18,
+      "out_degree": 19,
       "links_out": [
         "expertise-as-reference-not-replacement",
         "closed-reality-in-benchmark-maxing",
@@ -8367,6 +8368,7 @@
         "the-source-of-all-harm",
         "e-shi-feng-bi-de-shan",
         "openness-is-consistency",
+        "beyond-the-projection",
         "individual-choices-as-the-only-causal-levers",
         "when-observation-becomes-performance",
         "ownership-and-self-worthiness",
@@ -54292,6 +54294,12 @@
     },
     {
       "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
       "to": "why-mathematics-can-never-be-solved",
       "rel": "points_to",
       "label": "为何数学永远解不完"
@@ -54301,6 +54309,12 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-reality-distortion-field-inverts-the-baseline",
@@ -54318,7 +54332,7 @@
       "from": "the-reality-distortion-field-inverts-the-baseline",
       "to": "a-new-deeper-look-at-antifragility",
       "rel": "points_to",
-      "label": "A New Deeper Look at Antifragility"
+      "label": "A New Deeper Look at Antifragility: Prosthesis, Not Driver"
     },
     {
       "from": "the-reality-distortion-field-inverts-the-baseline",
@@ -54355,6 +54369,30 @@
       "to": "when-the-effect-authors-the-frame",
       "rel": "points_to",
       "label": "When the Effect Authors the Frame"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-reality-distortion-field-inverts-the-baseline",
@@ -55204,9 +55242,21 @@
     },
     {
       "from": "the-reversal-from-defensible-claim-to-dogma",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-reversal-from-defensible-claim-to-dogma",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-reversal-from-defensible-claim-to-dogma",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-reversal-from-defensible-claim-to-dogma",
