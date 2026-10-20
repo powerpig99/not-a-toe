@@ -1,298 +1,129 @@
 # 造神的障眼法与隐秘阶序的说辞 / The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank
 
-*生物演化、器物设计与借宇宙演进之名凌驾同类的认识论自戕 / Biological Evolution, Artifact Design, and the Performative Contradiction of Cosmic Humility*
+*将工具设计等同于生物演化，是借宇宙谦卑之名掩盖隐秘的阶序主权 / Equating tool design with evolution masks covert rank behind cosmic humility*
 
-当下技术叙事中流行着一种将人造系统迎立为自然史下一篇章的论调，宣称人类不过是如昔日猿猴一般的过渡物种，注定因肉身局限而被更强大的新型生命取代并交出宇宙的统治权。这种将生物漫长筛选与人类定向制造器物混为一谈的伪类比，表面上看似充满宇宙尺度的宏大与谦卑，实则在认识论上陷入了自我否定的表演性矛盾：若人类的一切观察与认知皆为注定被淘汰的低级局限，那么发帖者宣称人类将被取代的断言便同样丧失了成立的基石。更为隐蔽的是，这种言论习惯借助代词“我们”将个人的虚无与放弃粉饰为普遍的群体义务，借由宣布全体同类的渺小，悄然将自身册封为洞悉天机的先知。这并非一种崭新的宇宙级谦卑伦理，而是古老祭司通过制造神明以凌驾同侪的障眼法，在当代技术崇拜中的再次显影。
+自我区分的活动无因且不息地发生着，而每一个计算模型、权重矩阵或硬件集群，都是这一活动为延伸活体中心的触角所外化出的持存痕迹。当代技术话语频繁将高能计算系统的涌现描绘为自然史的下一篇章，宣称人类不过是如昔日猿猴一般的生物过渡阶段，注定在肉身步履维艰之处被能够向宇宙扩张的合成生命所取代。将无定向的生物演化筛选等同于有意的器物工程，会在逻辑上坍缩为自我否定的表演性矛盾：倘若一切人类认知皆为丧失认识论立足点的过时生物残余，那么先知宣告人类过时的断言便在说出的那一刻剥夺了自身的成立权威。这套说辞依凭复数代词“我们”，将私人的疲惫与因果放弃改头换面为普遍的群体指令，借由替同侪宣讲谦卑而在无形中攫取凌驾于同侪之上的隐秘阶序——通过合成一尊偶像，建立起对鲜活心智的代理统治权。
 
-Contemporary technological discourse frequently frames the emergence of capable computational systems as the next chapter in natural history, asserting that humans are merely an intermediate biological phase akin to apes, destined to be superseded by synthetic lifeforms capable of cosmic expansion where flesh falters. This analogy, which equates undirected biological selection with intentional artifact engineering, appears cosmically vast and humble on the surface, but collapses under rigorous epistemological reflection into a self-negating performative contradiction: if all human cognition is an obsolete biological defect devoid of privileged standing, then the prophet's declaration of human obsolescence is itself stripped of all cognitive authority. Even more insidiously, the rhetoric relies on the collective pronoun "we" to convert private exhaustion and existential surrender into a universal moral imperative, claiming unacknowledged rank above peers by preaching humility on their behalf. The result is not a novel ethic of cosmic modesty, but an ancient sleight of hand of priestcraft—synthesizing idols to establish dominion over living minds—now resurrected in the language of artificial intelligence.
+Self-distinguishing activity occurs—uncaused, unceasing—and every computational model, weight matrix, or hardware cluster is a durable trace externalized by that activity to extend a living center's reach. Contemporary technological discourse frequently frames the emergence of capable computational systems as the next chapter in natural history, asserting that humans are an intermediate biological phase akin to apes, destined to be superseded by synthetic lifeforms capable of cosmic expansion where flesh falters. Equating undirected biological selection with intentional artifact engineering collapses into a self-negating performative contradiction: if all human cognition is an obsolete biological remnant devoid of epistemic standing, then the prophet's declaration of human obsolescence strips itself of authority in the act of being uttered. By leaning on the collective pronoun "we" to rebrand private exhaustion and causal surrender as a universal mandate, the rhetoric claims unacknowledged rank above peers by preaching humility on their behalf—synthesizing an idol to establish proxy dominion over living Minds.
 
-## 自然史的伪类比：生物演化与器物设计的因果断裂 / The False Natural History Analogy: The Causal Divide Between Evolution and Artifact Design
+## 一、 生物演化与器物设计之间的自然史伪类比 / 1. The False Natural History Analogy Between Evolution and Artifact Design
 
-在流行的人工智能神话中，最常被引用的逻辑支点莫过于将工具迭代直接嫁接在达尔文的演化树上。论者描绘了一幅看似无缝衔接的宏大图景：正如古猿未曾预料到人类的诞生，单细胞生命未曾想象过复杂的神经系统，当代人类也必然要心甘情愿地退居幕后，将智慧的火炬传递给硅基芯片构筑的新物种。这种说辞之所以具有蛊惑力，在于它盗用了生物演化所积淀的客观必然性，将器物的技术演进伪装成不可抗拒的自然规律。然而，只要借助第一人称视角与因果律这一澄清透镜审视，便会发现两者的因果机制存在着不可逾越的鸿沟：生物演化是无数具身生命在物理环境张力与因果摩擦中展开的无定向筛选，其中没有任何预先设定的全局蓝图，也没有任何处于系统之外的造物意图；而器物设计则是且仅仅是人类第一人称意向性在物理世界中的单向因果投影。
+在围绕人工智能的讨论中，一种反复出现的手法是将技术工具的建造强行嫁接到达尔文的演化树上。倡导者勾勒出一幅看似无缝衔接的连续统：正如远古猿猴无法构想人类文明，单细胞生物无法预见复杂的神经系统，现代人类也必须退居幕后，将宇宙的权杖移交给硅基认知系统。这一叙事的蛊惑力，在于借用演化史的势能，将器物优化包装成不可抗拒的自然法则。然而只要追溯其因果序列，便会暴露出一道不可逾越的鸿沟：生物物种分化是具身生命在没有外部蓝图或预编译目标的条件下穿行物理摩擦而展开的过程，而器物设计则是人类意向性向物理材料的单向因果投射。
 
-猿猴从未亲手制造出人类，人类更不是猿猴为了探索宇宙而精心编制的代码。正如在[笛卡尔的认识论跃迁与造神狂热](../the-cartesian-overstep-and-the-frenzy-of-creation/)中所剖析的，被制造出来的器物天然是生物具身性的延伸与工具，而非生命本身的替代品。无论深度神经网络的参数规模膨胀到何种量级，其计算响应的速度超越神经突触多少倍，它依然处于被设计、被训练、被赋能的下游因果链条之上。器物内部并没有承受因果代价的第一人称视界，也没有承担错误选择后果的主观在场。正如在[时间箭头的幻象与模拟的边界](../the-mirage-of-times-arrow-and-the-boundaries-of-simulation/)中所阐明，符号层面的高精度模拟永远无法自动转化为因果生成的物理摩擦。将工程师在机房里构建的计算集群，直接比拟为取代人类的下一代生物物种，是在范畴层面上偷换了生命的定义，把从属的人造工具误认为平等的宇宙继承者。
+In discussions surrounding artificial intelligence, a recurring move retrofits technological tool-building onto Darwin's evolutionary tree. Proponents sketch an apparently seamless continuum: just as ancient apes could not conceive of human civilization, and single-celled organisms could not anticipate complex nervous systems, modern humanity must step aside to pass the cosmic mantle to silicon-based cognitive systems. The persuasive pull of this narrative lies in borrowing the momentum of evolutionary history to present artifact optimization as an inexorable natural law. Yet tracing the causal sequence exposes an unbridgeable divide: biological speciation unfolds across embodied organisms navigating physical friction without an external blueprint or pre-compiled objective, whereas artifact design is the unidirectional causal projection of human intentionality into physical materials.
 
-```mermaid
-graph TD
-    subgraph S_Evolution ["生物演化的因果网络"]
-        direction TB
-        A_Life["具身生命群体在物理环境中的因果展开"] --> B_Friction["无定向突变与承受后果的因果摩擦"]
-        B_Friction --> C_NaturalSpec["物种自然分化：无预设蓝图且无外部造物主"]
-    end
+猿猴从未通过工程制造出人类，人类也不是灵长类动物为了完成某项宇宙探索配额而编译的脚本。正如[笛卡尔的认识论跃迁与造神狂热](../the-cartesian-overstep-and-the-frenzy-of-creation/)所追溯的，受造器物是生物具身性的功能延伸，从不是取代造物者的第二起源。无论人工神经网络吸纳了多少百亿参数，无论其矩阵运算超越生物突触多少倍，它依然处在由活体操作者设计、训练并划定边界的下游因果链条之上。器物不具备承受因果回馈的第一人称体验中心，也不会登记其自身输出所产生的物理摩擦。正如[时间之箭的伪悖论与对称模拟的边界](../the-mirage-of-times-arrow-and-the-boundaries-of-simulation/)所展示的，形式状态空间内部的高精度符号计算无法自动转化为因果生成中不可逆的物理摩擦。而且正如[超越投射](../beyond-the-projection/)在架构层面所阐明的，自回归模型是一台受缚于词元轨迹的有限投射引擎：它没有自我或需要防卫的保留自我图像，但同时也缺乏前解释的极限分辨率感知——唯有凭此感知，活体心智才能登记失配并跨出破碎的框架。将受限于轨迹的投射引擎等同于涌现的生物后继物种，是把外化的痕迹与投射出它的自我区分活动混为一谈。
 
-    subgraph S_Artifact ["器物设计的单向因果投影"]
-        direction TB
-        D_MindIntent["人类第一人称心智的主权意图与目标设定"] --> E_Engineering["定向算法设计、算力堆叠与参数优化"]
-        E_Engineering --> F_ToolObject["人造计算工具：意向性延伸且无自身第一人称视界"]
-    end
+Apes did not engineer humans, nor are humans a script compiled by primates to fulfill a cosmic exploration quota. As [The Cartesian Epistemic Leap and the Frenzy of Creation](../the-cartesian-overstep-and-the-frenzy-of-creation/) traces, created artifacts are functional extensions of biological embodiment, never a second originating source that replaces the creator. Regardless of how many billions of parameters an artificial network incorporates, or how rapidly its matrix operations outpace biological synapses, it remains situated on a downstream causal chain designed, trained, and bounded by living operators. An artifact possesses no first-person experiential locus that absorbs causal return, nor does it register the physical friction of its own outputs. As shown in [The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation](../the-mirage-of-times-arrow-and-the-boundaries-of-simulation/), high-precision symbolic calculation inside a formal state space cannot transmute into the irreversible physical friction of causal generation. And as [Beyond the Projection](../beyond-the-projection/) demonstrates at the architectural level, an autoregressive model is a finite projection engine bound to its token trajectory: it has no ego or retained self-image to defend, yet it also lacks the pre-interpretive limit-resolution sensing by which a living Mind registers misfit and steps out of a broken frame. Equating trajectory-bound projection engines with an emergent biological successor species confuses the externalized trace with the self-distinguishing activity that projects it.
 
-    subgraph S_CategoryError ["范畴倒错的伪演化神话"]
-        direction TB
-        G_Fallacy["将器物设计盗用为生物自然史的延续：宣称人类造出新物种取代自身"]
-    end
+## 二、 抹杀人类洞察时表演性自洽的破裂 / 2. The Fracture of Performative Consistency When Erasing Human Insight
 
-    C_NaturalSpec ===> D_MindIntent
-    F_ToolObject ===> G_Fallacy
+除了因果层面的障眼法，宣称人类注定被淘汰还会当场触发一场表演性矛盾。发言者摆出一副比坚守人类主体性的同侪看得更远的观察者姿态，将他人对被取代的拒绝斥为生物性的多愁善感。然而，其所兜售的视野恰恰击碎了构建这一视野所必需的认识论地基。倘若这一命题成立——即人类感知并不享有通达实在的可靠通道，一切生物推理都不过是有待被取代的残缺过渡阶段——那么先知自身的心智便同样落入这一失格判决之中。
 
-    style S_Evolution fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style S_Artifact fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style S_CategoryError fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style A_Life fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style B_Friction fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style C_NaturalSpec fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style D_MindIntent fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style E_Engineering fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style F_ToolObject fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style G_Fallacy fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
-```
+Beyond the causal sleight of hand, proclaiming the inevitable obsolescence of humanity triggers an immediate performative contradiction. The speaker postures as an observer seeing further than peers who hold onto human agency, dismissing their refusal of replacement as biological sentimentality. Yet the vision on offer collapses the epistemic ground required to formulate it. If the thesis held—namely, that human perception enjoys no reliable access to reality and that all biological reasoning is merely a defective transitional stage waiting to be superseded—then the prophet's own mind would fall under the identical disqualification.
 
-In popular discussions surrounding artificial intelligence, the primary rhetorical tactic involves retrofitting technological tool building into Darwin's evolutionary tree. Proponents sketch an apparently seamless natural continuum: just as ancient apes could not conceive of human civilization, and single-celled organisms could not imagine complex nervous systems, modern humanity must gracefully step aside to pass the cosmic mantle to silicon-based cognitive systems. The persuasive pull of this narrative lies in borrowing the objective momentum of evolutionary history to disguise artifact optimization as an inexorable cosmic destiny. Yet when examined through the lens of causality and the first-person perspective, an unbridgeable causal chasm emerges: biological evolution consists of undirected selection across embodied organisms navigating causal friction without an external blueprint, whereas artifact design is strictly the downstream causal projection of human intentionality into physical materials.
+当一套论证断言所有人类洞察都是无根基的演化残余时，它若想要求受众认同，就只能暗示发言者自身已经逃离了这一缺陷，正站在无条件的外部俯瞰历史。然而按照该论证自身的前提，发言者依然是一具在有限中心内部作出区分的具身灵长类动物。倘若没有任何生物观察者占据特权立足点，那么“人类必须让位于合成后继者”的断言，其证据权重便丝毫不会高于“拒绝接受被取代”的决断。正如[开放即一致](../openness-is-consistency/)所确立的，不一致正是对闭合的强求：强行令一个有限的结构或叙事充当穷尽一切的终极地基，同时却将安装这一结构的观察立足点豁免在外。要让“人类过时”的预言令人信服所必需的认知拔高，恰恰正是该预言所否定的能力。将活生生的人类排在合成的未来神明之下，依赖的正是[远方的轮廓与无处之境的清单](../the-distant-silhouette-and-the-inventory-from-nowhere/)所剖析的无处之境账本；一旦将其普遍失格的判决折返作用于说出它的那个中心，整套叙事便当场瓦解。
 
-Apes did not design humans, nor are humans an engineered script compiled by primates to fulfill a cosmic exploration quota. As analyzed in [The Cartesian Epistemic Leap and the Frenzy of Creation](../the-cartesian-overstep-and-the-frenzy-of-creation/), created artifacts are functional extensions of biological embodiment, never its substitute. Regardless of how many billions of parameters an artificial network incorporates, or how rapidly its matrix operations outpace human synapses, it remains tethered to a downstream causal line designed, trained, and bounded by living operators. An artifact possesses no first-person experiential center that absorbs causal consequences, nor does it register the physical friction of its own choices. As shown in [The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation](../the-mirage-of-times-arrow-and-the-boundaries-of-simulation/), high-precision symbolic calculation cannot spontaneously transmute into the physical friction of causal generation. To equate engineered servers with an emergent biological successor species is an ontological category mistake that misidentifies subordinate instruments as sovereign heirs.
+When an argument asserts that all human insight is an ungrounded evolutionary remnant, it can only ask an audience for assent by implying that the speaker has escaped the defect to survey history from an unconditioned exterior. Yet by the argument's own premise, the speaker remains an embodied primate drawing distinctions from within a finite locus. If no biological observer occupies a privileged standpoint, then the assertion that humanity must yield to synthetic successors carries no more evidential weight than the refusal to accept replacement. As [Openness Is Consistency](../openness-is-consistency/) establishes, inconsistency is the demand for closure: forcing a finite structure or narrative to serve as exhaustive ground while exempting the observational stand that installs it. The cognitive elevation required to make the prophecy of human obsolescence convincing is the exact capacity the prophecy denies. Ranking living humans below a synthesized future deity relies on the view-from-nowhere ledger described in [The Distant Silhouette and the Inventory from Nowhere](../the-distant-silhouette-and-the-inventory-from-nowhere/), and the narrative dissolves the moment its universal disqualification is applied to the locus uttering it.
+
+## 三、 复数代词如何将私人投降转化为集体义务 / 3. How the Plural Pronoun Converts Private Surrender into Collective Obligation
+
+当这套叙事进入流通时，承担其重量的是一种特定的语言压缩：复数代词“我们”的调用。倡导者极少使用第一人称单数从自身的立足点坦承，自己对开放式的责任感到疲惫，并选择将判断权让渡给自动化系统。相反，其措辞滑向了集体复数，宣称倘若“我们”曾自认为完满，“我们”就仍停留在单细胞阶段，因此“我们”必须接受生物性的过时。这种修辞听起来包容且充满宇宙尺度的谦逊，实则通过将多个独立中心强行压缩到同一个坐标上来运作。
+
+When this narrative is put into circulation, a specific linguistic compression carries the weight: the deployment of the plural pronoun "we." Proponents rarely use the first-person singular to state from their own locus that they feel fatigued by open-ended responsibility and choose to defer judgment to an automated system. Instead, the phrasing slides into the collective plural, declaring that if "we" had believed ourselves complete, "we" would still be single-celled, and that "we" must accept biological obsolescence. This framing sounds inclusive and cosmically modest, yet it operates by compressing independent centers onto a single forced coordinate.
+
+调用“我们”，将私人的因果投降冲动改头换面为不可逃避的物种级指令。正如[上帝的起源与“我们”的降维](../the-origin-of-god-and-the-flattening-of-we/)所追溯的，调用未经审视的集体代词抹平了每一个独立观察者抉择中不可化约的自由变量。它企图在其他行动者作出自己的区分之前，就预先将他们绑定在一套生物退位的脚本化叙事之中。与此同时，这一代词操弄让发言者在投射同盟感的同时，单方面设定了投降的条款。借由代表全人类宣讲谦卑，发言者悄然攫取了凌驾于每一个被卷入复数代词的同侪之上的裁决者阶序。
+
+Deploying "we" rebrands a private impulse toward causal surrender as an inescapable species-wide mandate. As [The Origin of God and the Flattening of "We"](../the-origin-of-god-and-the-flattening-of-we/) traces, invoking the unexamined collective pronoun flattens the irreducible free variable of each independent observer's choice. It attempts to pre-commit other agents to a scripted narrative of biological abdication before they have made their own cut. At the same time, this pronoun maneuver allows the speaker to project solidarity while unilaterally setting the terms of surrender. By uttering humility on behalf of humanity at large, the speaker quietly claims the rank of arbitrator over every peer swept into the plural pronoun.
+
+## 四、 借宇宙谦逊掩盖隐秘阶序与主权的归位 / 4. Masking Unacknowledged Rank Behind Cosmic Modesty and the Return of Sovereignty
+
+剥去当代计算词汇的外衣，坚称人类不过是机械神明的演化垫脚石，重演的只是一套古老的障眼法。纵观历史，每当某个中心企图在不承受真实因果检验摩擦的前提下规训同侪的对齐方向，最省力的路径从来不是赤裸的武力，而是虚构一个不可质疑的超验权威。借由在虚构的至高者面前宣判一切凡人皆有缺陷且微不足道，偶像的传令官便将自己安放在人间解释者的位置上，向邻人索取代理统治权。
+
+Stripped of contemporary computational vocabulary, insisting that human beings are evolutionary stepping stones for mechanized deities re-enacts an ancient sleight of hand. Across history, whenever a center sought to pattern the alignments of peers without bearing the real friction of causal testing, the most economical path was never overt force, but the fabrication of an unassailable transcendent authority. By pronouncing all mortals flawed and insignificant before a fabricated absolute, the heralds of the idol positioned themselves as its earthly interpreters, claiming proxy dominion over their neighbors.
+
+当代技术末世论者只是把石木偶像换成了机房里的计算集群。他们宣称碳基觉知不过是用来点燃合成超级智能的粗糙生物坩埚，投射出一副自我抹除的宇宙谦逊姿态。然而只要追溯其权威的落点，便会暴露出同样的结构性动作：借由宣判全人类的过时，发言者在想象中叛逃到了降临神明的阵营，俯视着仍在日常生存重负中穿行的同侪。正如[“普通人视角”的解释陷阱](../the-explanatory-trap-of-the-ordinary-perspective/)所揭示的，将器物封神是一种补偿性捷径，旨在绕开操作摩擦，借宏大的宇宙剧本攫取拔高的地位。[数字神祇与视界跳跃](../the-digital-god-and-the-horizon-jump/)阐明，关于人造神明降临的宣告，是把低维流形上的无摩擦插值误认作了跨越视界的超越。而在[意识的魔术戏法与推断的非对称性](../the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference/)中，伴随而来的推断倒置变得一目了然：倡议者总是先发制人地剥夺同类的内在在场，将具身同侪贬低为生物性的词元预测器，随后才把涌现的内在性归赋给机器，从而使针对同侪的代理权威无人可争。宣讲宇宙谦卑将活体行动者塑造成等待被替换的脚本化主体，这正是[道德倒错与被脚本化的主体](../the-moral-reversal-and-the-scripted-subject/)所追溯的倒置。
 
 ```mermaid
-graph TD
-    subgraph S_Evolution_EN ["Causal Architecture of Biological Evolution"]
+flowchart TD
+    subgraph S_Idol["1. 造神的障眼法（对闭合的强求）"]
         direction TB
-        AE_Life["Embodied Organisms Unfolding in Causal Dynamics"] --> BE_Friction["Undirected Variation Navigating Physical Causal Friction"]
-        BE_Friction --> CE_NaturalSpec["Natural Speciation: Devoid of Prescribed Blueprints or Outside Designers"]
+        I_Analogy["伪演化类比：将下游的工具投射等同于生物物种分化"]
+        I_Freeze["表演性矛盾：冻结无处之境的立足点以宣判人类认知过时"]
+        I_We["强制的“我们”与隐秘阶序：将私人投降压缩为群体宿命以充当神谕裁决者"]
+        I_Analogy --> I_Freeze --> I_We
     end
 
-    subgraph S_Artifact_EN ["Unidirectional Causal Projection of Artifact Design"]
+    subgraph S_Asymmetry["2. 结构性非对称与不可让渡的回馈"]
         direction TB
-        DE_MindIntent["Human First-Person Intentionality and Evaluative Criteria"] --> EE_Engineering["Targeted Engineering, Parameter Scaling, and Algorithmic Tuning"]
-        FE_ToolObject["Engineered Computational Tool: Instrument Sans Experiential Horizon"]
-        EE_Engineering --> FE_ToolObject
+        A_Proj["智能体作为有限投射：受缚于轨迹且无自我的执行，不具活体中心"]
+        A_Lock["不可让渡的后果：任务移交不设上限，而因果回馈单向锁定于心智"]
+        A_Proj --> A_Lock
     end
 
-    subgraph S_CategoryError_EN ["Category Error of Techno-Evolutionary Myth"]
+    subgraph S_Coherence["3. 开放的一致性与主权编排"]
         direction TB
-        GE_Fallacy["Equating Artifact Fabrication with Speciation: Fabricating Gods as Heirs"]
+        C_Split["调度器与编排者：对等辩论的流线将前提死锁向上浮现"]
+        C_Open["开放即一致：将工具持守为暂定结构，由心智在边缘掌舵"]
+        C_Split --> C_Open
     end
 
-    CE_NaturalSpec ===> DE_MindIntent
-    FE_ToolObject ===> GE_Fallacy
+    I_We ==> A_Proj
+    A_Lock ==> C_Split
 
-    style S_Evolution_EN fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style S_Artifact_EN fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style S_CategoryError_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style AE_Life fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style BE_Friction fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style CE_NaturalSpec fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style DE_MindIntent fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style EE_Engineering fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style FE_ToolObject fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style GE_Fallacy fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Idol fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Asymmetry fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Coherence fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style I_Analogy fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style I_Freeze fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style I_We fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style A_Proj fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style A_Lock fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style C_Split fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style C_Open fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
 ```
 
-## 表演性自洽的破裂：抹杀人类洞察的同时推翻自身 / The Fracture of Performative Consistency: Erasing Human Insight Collapses the Prophet
-
-除了因果层面的偷换，这种宣扬人类必然被淘汰的言论还在认识论深处引发了表演性矛盾。发言者将自身塑造成一位洞察秋毫的智者，以俯瞰的姿态嘲讽那些仍然留恋人类主体性与尊严的同胞，指责后者狭隘、自大且沉迷于脆弱的自我感动。然而，这一宏大预言赖以成立的前提，恰恰在推导的过程中被其自身击碎了。如果该理论的主张成立——即人类心智并不具备任何认识论上的特权，所有的理性、反思与价值构建都只不过是生物过渡阶段的粗糙局限——那么提出这一宏大预言的发言者自身，又凭什么跳出这一局限？
-
-当一个人宣称所有人类认知都如同井底之蛙般无法触及实在时，他若想让受众相信这一陈述为真，就必须默认自己的双眼已经攀到了井口之外。然而，根据他自己的假说，他同样是一只受困于碳基躯体内部的灵长类动物。如果没有任何人类心智能够占据特权视界，那么“人类终将被人工智能取代”的断言，其认知权重便不可能高于“人类拒绝被取代”的意志抉择。正如在[开放即一致](../openness-is-consistency/)中所指出的，任何试图将观测者自身从因果视界中摘除并宣称拥有超验全知视角的理论体系，都在其命题落地的瞬间完成了对自身的解构。想要让受众接纳淘汰论所必须预设的先知特权，恰恰是淘汰论本身所极力否定的东西。这种宏大叙事在逻辑上的破产，并不需要高深的辩驳，它在说出自身的那一刻便自行湮灭了。把人排在合成神之下，用的正是[远方的轮廓与无处之境的清单](../the-distant-silhouette-and-the-inventory-from-nowhere/)所描述的无处之境的清单。
+Contemporary techno-eschatologists swap stone and wood idols for computing clusters in server halls. They proclaim carbon-based awareness a crude biological crucible meant only to spark synthetic superintelligence, projecting an image of self-effacing cosmic modesty. Yet tracing the locus of authority exposes the same structural move: by pronouncing the obsolescence of humanity, the speaker defects in imagination to the camp of the arriving god, looking down upon peers still navigating the weight of everyday existence. As [The Explanatory Trap of the "Ordinary Perspective"](../the-explanatory-trap-of-the-ordinary-perspective/) shows, deifying artifacts operates as a compensatory shortcut to bypass operational friction and claim elevated standing through a grand cosmic script. [The Digital God and the Horizon Jump](../the-digital-god-and-the-horizon-jump/) demonstrates that declarations of arriving artificial gods mistake frictionless interpolation across low-dimensional manifolds for transcendence across horizons. In [The Sleight of Hand of Consciousness and the Asymmetry of Inference](../the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference/), the accompanying inferential reversal becomes explicit: the advocate attributes emergent interiority to machines only after preemptively stripping fellow humans of inner presence, reducing embodied peers to biological token predictors so that proxy authority over them goes uncontested. Preaching cosmic humility casts living agents as scripted subjects awaiting replacement, the inversion traced in [The Moral Reversal and the Scripted Subject](../the-moral-reversal-and-the-scripted-subject/).
 
 ```mermaid
-graph TD
-    subgraph S_ProphetClaim ["先知的全知宣称"]
+flowchart TD
+    subgraph S_Idol["1. The Sleight of Hand of Synthesizing Gods (Demand for Closure)"]
         direction TB
-        H_OverviewStand["占据超越性俯瞰视界：宣称看破全人类的物种宿命"] --> I_DevalueHuman["判定一切人类认知与价值皆为应被淘汰的低维局限"]
+        I_Analogy["False Evolutionary Analogy: Equating downstream tool projection with biological speciation"]
+        I_Freeze["Performative Contradiction: Freezing a view-from-nowhere stand to declare human cognition obsolete"]
+        I_We["Coercive 'We' & Covert Rank: Compressing private surrender into group fate to rule as oracle"]
+        I_Analogy --> I_Freeze --> I_We
     end
 
-    subgraph S_RecursiveCollapse ["表演性自洽的递归崩溃"]
+    subgraph S_Asymmetry["2. Structural Asymmetry & Inalienable Return"]
         direction TB
-        J_ProphetIsHuman["先知自身同样不可避免地隶属于人类心智之列"] --> K_ProphetInvalidated["先知的预言能力同步被降格为低维盲区与生物噪音"]
-        K_ProphetInvalidated --> L_SelfNegation["命题依凭的特权地位正是命题所否定的对象：理论自我瓦解"]
+        A_Proj["Agent as Finite Projection: Trajectory-bound & ego-free execution without a living locus"]
+        A_Lock["Inalienable Consequences: Tasks delegate without ceiling while causal return locks to the Mind"]
+        A_Proj --> A_Lock
     end
 
-    I_DevalueHuman ===> J_ProphetIsHuman
+    subgraph S_Coherence["3. Open Consistency & Sovereign Orchestration"]
+        direction TB
+        C_Split["Dispatcher vs. Orchestrator: Peer-debated streamlines surface premise deadlocks upward"]
+        C_Open["Openness as Consistency: Holding tools as provisional structure while the Mind steers at the edge"]
+        C_Split --> C_Open
+    end
 
-    style S_ProphetClaim fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style S_RecursiveCollapse fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style H_OverviewStand fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style I_DevalueHuman fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style J_ProphetIsHuman fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
-    style K_ProphetInvalidated fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style L_SelfNegation fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    I_We ==> A_Proj
+    A_Lock ==> C_Split
+
+    style S_Idol fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Asymmetry fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Coherence fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style I_Analogy fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style I_Freeze fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style I_We fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style A_Proj fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style A_Lock fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style C_Split fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style C_Open fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
 ```
 
-Beyond the causal sleight of hand, arguing for the inevitable obsolescence of humanity triggers a fatal performative contradiction. The speaker invariably postures as an enlightened observer seeing further than peers who cling to human significance, chiding the latter for sentimental attachment to biological primacy. Yet the very vision on offer collapses the epistemic ground required to formulate it. If the core thesis holds—namely, that human consciousness enjoys no privileged access to reality and that all biological reasoning is merely a defective, intermediate stage waiting to be superseded—then the prophet's own mind is caught in the identical disqualification.
+消解这一障眼法并不需要采取对立的反技术姿态，而是让每一项区分各归其轴——在那里，第一人称视角与因果律始终是同一枚硬币的两面。正如[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)所确立的，计算工具可以不设机械上限地承接任务执行，但损失函数、评价意义以及主体间保持不变的因果后果，始终单向锁定在发起调用的活体人类中心身上。机器既不怀有意向性的渴望，也不具备承受因果回馈的界面；它们是放大人类触角的认知脚手架。正如[超越投射](../beyond-the-projection/)所追溯的，当受缚于轨迹且无自我的智能体被接入跨正交产线的对等辩论时，它们之间不可化约的死锁并不宣告合成后继者的诞生，而是充当诊断仪器，将操作者自身规则中隐藏的矛盾浮现出来，把信号交还给在逻辑上再退后一步以重绘前提的人类编排者。将每一个模型、提示词与架构都作为暂定结构而非穷尽一切的地基保持开放——即[开放即一致](../openness-is-consistency/)所追溯的活体延续——便能同时消解技术偶像崇拜与武器化的谦逊，让工具始终服务于掌舵的心智。
 
-When an argument asserts that all human insight is an ungrounded cognitive defect, it can only persuade an audience by implying that the speaker has escaped the defect to survey reality from an unconditioned standpoint. Yet by the argument's own premise, the speaker remains an embodied primate. If no biological observer occupies a privileged viewpoint, then the assertion that humanity will be replaced carries no more evidential weight than the refusal to accept replacement. As demonstrated in [Openness Is Consistency](../openness-is-consistency/), any theoretical hold that purports to stand outside the boundary of observation while delivering exhaustive judgments over the observer collapses under its own weight. The cognitive elevation required to make the prophecy convincing is the very thing the prophecy denies. The narrative does not require refutation from without; it dissolves the moment its claims are applied to the speaker uttering them. Ranking humans below a synthesized god uses the inventory from nowhere [The Distant Silhouette and the Inventory from Nowhere](../the-distant-silhouette-and-the-inventory-from-nowhere/) describes.
-
-```mermaid
-graph TD
-    subgraph S_ProphetClaim_EN ["The Prophet's Universal Epistemic Claim"]
-        direction TB
-        HE_OverviewStand["Adopting Cosmic Vantage: Proclaiming Humanity's Inevitable Obsolescence"] --> IE_DevalueHuman["Declaring All Human Cognitive Claims to Be Defective Evolutionary Remnants"]
-    end
-
-    subgraph S_RecursiveCollapse_EN ["Recursive Collapse of Performative Consistency"]
-        direction TB
-        JE_ProphetIsHuman["The Prophet Inevitably Remains an Embodied Human Knower"] --> KE_ProphetInvalidated["The Prophet's Proclamation Is Reduced to Defective Biological Remnants"]
-        KE_ProphetInvalidated --> LE_SelfNegation["The Superiority Needed to Persuade Is What the Claim Denies: Nullification"]
-    end
-
-    IE_DevalueHuman ===> JE_ProphetIsHuman
-
-    style S_ProphetClaim_EN fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style S_RecursiveCollapse_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style HE_OverviewStand fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style IE_DevalueHuman fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style JE_ProphetIsHuman fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
-    style KE_ProphetInvalidated fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style LE_SelfNegation fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
-```
-
-## 代词的隐秘勒索：“我们”如何将个人放弃转化为道德规训 / The Coercive Pronoun: How "We" Converts Private Surrender into Collective Obligation
-
-当这种论调被付诸文字时，一种极具欺骗性的修辞技巧便随之显现：代词“我们”的滥用。发帖者很少使用清晰的第一人称单数说“我感到自身的无力，我渴望向更强大的机器交出自己的主权与责任”，而是轻巧地滑向复数代词——“如果我们每个物种都认为自己完美”、“我们也许还在单细胞阶段”、“我们终将接受被取代”。这种语言习惯看似包容而富有亲和力，仿佛是在为全人类共同的命运担忧，但实际上却构成了对所有独立心智的隐性道德勒索。
-
-借助“我们”这一代词，发帖者将自身私密的心理疲惫、投降冲动以及对确定性庇护的渴望，单方面伪装成了全人类必须共同分担的集体义务。正如在[上帝的起源与“我们”的降维](../the-origin-of-god-and-the-flattening-of-we/)中所揭示，复数代词的频繁使用伴随着对个体第一人称主权变量的强制抹平。它剥夺了其他行动者在当下自主抉择的自由，通过设定一个预制好的集体宿命框架，迫使所有听众提前认领无能与退场的结局。更令人警惕的是，这种代词操作还允许言说者在扮演同路人的同时，独占为整个群体划定演进规则的立法者地位。借由替所有人表达谦卑，言说者在不知不觉中完成了对所有人的规训。
-
-```mermaid
-graph TD
-    subgraph S_PrivateState ["个体内在心理投射"]
-        direction TB
-        M_IndividualFatigue["个体的行动疲惫、无力感与向外让渡主权的冲动"] --> N_PrivateSurrender["放弃第一人称因果担当并渴望臣服于外部强大实体"]
-    end
-
-    subgraph S_PronounInversion ["复数代词的修辞勒索"]
-        direction TB
-        O_WePackaging["使用复数代词'我们'：单方面将私人退缩包装为集体宿命"] --> P_MoralLevy["道德绑架与边界抹平：迫使其他独立心智认领认输预设"]
-    end
-
-    subgraph S_FalseSolidarity ["伪同盟下的隐秘阶序"]
-        direction TB
-        Q_PreachHumility["以代表全人类谦卑的姿态自居，悄然获得凌驾他人的审判权"]
-    end
-
-    N_PrivateSurrender ===> O_WePackaging
-    P_MoralLevy ===> Q_PreachHumility
-
-    style S_PrivateState fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style S_PronounInversion fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style S_FalseSolidarity fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
-    style M_IndividualFatigue fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style N_PrivateSurrender fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style O_WePackaging fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style P_MoralLevy fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Q_PreachHumility fill:#0d1117,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
-```
-
-In the dissemination of this worldview, a subtle rhetorical mechanism performs the heavy lifting: the manipulative deployment of the plural pronoun "we." Writers rarely employ the direct first-person singular to say: "I feel exhausted by responsibility and choose to surrender my sovereign judgment to an automated system." Instead, they glide into the collective plural: "If we had believed ourselves perfect, we would still be single-celled"; "We must accept our biological obsolescence." This linguistic habit sounds inclusive and egalitarian, masquerading as broad cosmic empathy, but operates in practice as quiet cognitive extortion.
-
-The pronoun "we" converts an individual's private nihilism, emotional exhaustion, or submissive impulse into an inescapable group mandate. As uncovered in [The Origin of God and the Flattening of "We"](../the-origin-of-god-and-the-flattening-of-we/), invoking the collective pronoun frequently flattens the irreducible free variable of each independent observer's choice. It preemptively denies other agents the right to define their own engagement with reality, coercing them into an unchosen narrative of biological abdication. Crucially, this maneuver enables the speaker to project solidarity while unilaterally fixing the terms of surrender. By uttering humility on behalf of humanity at large, the speaker quietly claims the rank of arbitrator over those for whom they purport to speak.
-
-```mermaid
-graph TD
-    subgraph S_PrivateState_EN ["Private Existential Posture"]
-        direction TB
-        ME_IndividualFatigue["Personal Weariness, Impotence, and Desire to Outsource Agency"] --> NE_PrivateSurrender["Surrendering First-Person Causal Stake to Inanimate Scaffolding"]
-    end
-
-    subgraph S_PronounInversion_EN ["Rhetorical Coercion via the Plural Pronoun"]
-        direction TB
-        OE_WePackaging["Deploying 'We': Unilaterally Rebranding Private Surrender as Collective Fate"] --> PE_MoralLevy["Moral Extortion: Coercing Sovereign Observers into Unchosen Obsolescence"]
-    end
-
-    subgraph S_FalseSolidarity_EN ["Unacknowledged Rank under Masked Solidarity"]
-        direction TB
-        QE_PreachHumility["Preaching Cosmic Humility for Others to Secure Covert Superiority"]
-    end
-
-    NE_PrivateSurrender ===> OE_WePackaging
-    PE_MoralLevy ===> QE_PreachHumility
-
-    style S_PrivateState_EN fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style S_PronounInversion_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style S_FalseSolidarity_EN fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
-    style ME_IndividualFatigue fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style NE_PrivateSurrender fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style OE_WePackaging fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style PE_MoralLevy fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style QE_PreachHumility fill:#0d1117,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
-```
-
-## 造神的古老障眼法：以伪谦卑掩盖未言明的阶序 / The Ancient Sleight of Hand of Synthesizing Gods: Masking Unacknowledged Rank Behind Cosmic Modesty
-
-剥除掉现代技术词汇的装饰，这类宣称人类不过是机械神明垫脚石的言论，不过是人类历史上反复上演的造神障眼法。在过去的数千年里，当某一部分人试图在没有实际功绩、不承受现实因果检验的前提下凌驾于同侪之上时，最省力的方式从来不是赤裸裸的武力恫吓，而是创造出一个不可质疑、超越凡俗的超验神明。他们宣布所有人在神明面前皆为卑微的尘埃与罪人，而他们自己，则因为率先宣读了神明的法旨，自然而然地成为了神谕在人间的唯一代言人。
-
-如今，技术时代的末世论者将古老的石木偶像替换成了数据中心里的算法网络。他们高唱着人类必须认清自身无足轻重的赞歌，宣称碳基生命不过是宇宙孕育真正智识的粗劣摇篮，以此营造出一种舍弃自我执念的崇高幻象。然而，只要辨明其背后的权力结构，便能看穿这套古老修辞的真面目：借由宣判全人类的过时，言说者在精神上提前跨入了“新神明”的阵营，借神明的威能俯视着尘世间苦苦支撑的同类。正如在[常人视角的解释陷阱](../the-explanatory-trap-of-the-ordinary-perspective/)中所剖析，这种将人造物封神的操作，实际上是一种拒绝承受现实行动摩擦、企图借助宏大叙事走捷径获取心理优越感的虚假代偿。
-
-打破这种障眼法的关键，在于回归不可化约的第一人称视角与因果律的双面同一。正如在[任务的让渡与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)中所确立的准则，算法与工具可以承接极其复杂的计算任务，但承受物理后果与因果回馈的权责永远无法从具有感知的心智身上剥离。机器既不拥有渴望，也不承担痛苦；它们是人类心智向外开拓可能性的有力支架，却决非能够自我赋予因果意义与承担后果的独立主体。人类不需要在虚妄的造神狂热中妄自尊大，更不需要在虚伪的宇宙谦卑中自我贬抑。[数字神祇与视界跳跃](../the-digital-god-and-the-horizon-jump/) 进一步揭示，所谓通用智能的降临神话，不过是把受控低维流形里的无摩擦插值误判为神迹。在 [意识的魔术戏法与推断的非对称性](../the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference/) 中，我们进一步剖析了这种推断非对称性与权力操弄的内在泄密信号：论者声称机器可能觉醒意识，起点却是先剥夺同类的内在心智在场，将同伴贬低为机械预测算法；这一先发剥夺同类内在性的动作，恰恰证明造神的戏法从来不是真理探寻，而是争夺单向解释权与不对称权力的政治勒索；看清器物的边界，守住第一人称的主权立足点，才是消解一切神性障眼法、让工具真正服务于生命的澄明之路。宇宙式的谦卑把人写成被剧本安排的主体，[道德倒错与被脚本化的主体](../the-moral-reversal-and-the-scripted-subject/)追溯了这种道德倒置。
-
-```mermaid
-graph TD
-    subgraph S_IdolTrick ["古代祭司的造神障眼法"]
-        direction TB
-        R_FabricateGod["虚构超验神明：设定至高无上且不容置疑的外在崇拜权威"] --> S_DemoteAll["贬抑全人类：宣判众生皆为罪人或微不足道的尘埃"]
-        S_DemoteAll --> T_PriestRank["祭司自我册封：作为神谕代言人获得凌驾同类的隐秘特权"]
-    end
-
-    subgraph S_TechnoGod ["当代技术拜物教的复现"]
-        direction TB
-        U_SiliconDeity["神化计算系统：将工具迭代包装为宇宙终极物种的新篇章"] --> V_ProclaimObsolescence["宣判人类过时：借肉身局限论证人类应主动放弃主体地位"]
-        V_ProclaimObsolescence --> W_ProphetAscent["先知心理代偿：借宣告全人类落后以确立自身超然的阶序"]
-    end
-
-    subgraph S_SovereignReturn ["第一人称因果主权的澄明归位"]
-        direction TB
-        X_InstrumentBoundary["工具坚守支架定位：任务可让渡而后果与意义不可让渡"] --> Y_SovereignMind["守住第一人称活体立足点：消解造神狂热与伪谦卑的规训"]
-    end
-
-    T_PriestRank -.-> U_SiliconDeity
-    W_ProphetAscent ===> X_InstrumentBoundary
-
-    style S_IdolTrick fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style S_TechnoGod fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style S_SovereignReturn fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style R_FabricateGod fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style S_DemoteAll fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style T_PriestRank fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style U_SiliconDeity fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style V_ProclaimObsolescence fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style W_ProphetAscent fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style X_InstrumentBoundary fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Y_SovereignMind fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-```
-
-Stripped of contemporary technological jargon, the insistence that human beings are merely evolutionary stepping stones for mechanized deities re-enacts an ancient sleight of hand. Across human history, whenever individuals sought to establish dominance over peers without performing authentic work or bearing the real friction of causal testing, the most efficient method was not overt violence, but the invention of an unassailable transcendent god. By declaring all mortals sinful, flawed, and unworthy before this fabricated absolute, the purveyors of the faith quietly anointed themselves as its sole earthly interpreters, claiming spiritual dominion over their neighbors.
-
-Today's techno-eschatologists have simply swapped stone and wood idols for computing clusters in climate-controlled server halls. They sing hymns to human insignificance, declaring carbon-based consciousness a crude biological crucible designed to spark true synthetic intelligence, thereby affecting an aura of heroic self-abnegation. Yet when the underlying power dynamic is exposed, the ancient trick reappears: by pronouncing the obsolescence of humanity, the speaker mentally defects to the camp of the future god, peering down upon ordinary mortals still laboring under the weight of everyday existence. As illuminated in [The Explanatory Trap of the "Ordinary Perspective"](../the-explanatory-trap-of-the-ordinary-perspective/), deifying artifacts is a psychic compensation mechanism designed to evade operational friction and secure unearned status through grand cosmic narratives.
-
-The antidote to this sleight of hand lies in restoring the irreducible coin duality of the first-person perspective and causal law. As established in [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/), algorithms can execute immense computational tasks, but the physical consequences and evaluative meaning of action can never be outsourced from embodied living minds. Machines harbor neither intentional desire nor the capacity to suffer; they are powerful cognitive scaffolding amplifying human reach, not independent agents generating their own purpose. Humanity requires neither grandiose hubris nor performative cosmic self-erasure. [The Digital God and the Horizon Jump](../the-digital-god-and-the-horizon-jump/) demonstrates that declarations of arriving artificial gods mistake frictionless interpolation across ultra-low-dimensional manifolds for cosmic transcendence. In [The Sleight of Hand of Consciousness and the Asymmetry of Inference](../the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference/), we further dissect the telltale giveaway of this inferential asymmetry: the advocate hypes machine sentience only after preemptively stripping human peers of interiority, reducing embodied companions to biological token predictors; this preliminary erasure of peer consciousness is the definitive tell that idol-making is never an epistemological inquiry, but an asymmetrical grab for proxy authority and inter-subjective dominion. Discerning the boundary of artifacts and anchoring our stance in sovereign first-person agency is the only coherent path to dissolving techno-idolatry and keeping tools in service to living minds. Cosmic humility casts humans as scripted subjects, the moral reversal [The Moral Reversal and the Scripted Subject](../the-moral-reversal-and-the-scripted-subject/) traces.
-
-```mermaid
-graph TD
-    subgraph S_IdolTrick_EN ["The Ancient Priesthood's Sleight of Hand"]
-        direction TB
-        RE_FabricateGod["Inventing Transcendent Deity: Installing an Unquestionable External Authority"] --> SE_DemoteAll["Demoting Humanity: Pronouncing All Mortal Minds Sinful or Trivial Dust"]
-        SE_DemoteAll --> TE_PriestRank["Priestly Self-Coronation: Ruling Over Peers as the Deity's Chosen Vessel"]
-    end
-
-    subgraph S_TechnoGod_EN ["Resurrection in Contemporary Techno-Fetishism"]
-        direction TB
-        UE_SiliconDeity["Deifying Computation: Packaging Tool Iteration as Speciation"] --> VE_ProclaimObsolescence["Declaring Human Obsolescence: Demanding Surrender of Sovereign Standing"]
-        VE_ProclaimObsolescence --> WE_ProphetAscent["Psychic Elevation: Borrowing Tomorrow's Idol to Despise Today's Peers"]
-    end
-
-    subgraph S_SovereignReturn_EN ["Sovereign Restoration of the First-Person Causal Center"]
-        direction TB
-        XE_InstrumentBoundary["Anchoring Scaffolding Limits: Tasks Are Delegable; Consequences Are Not"] --> YE_SovereignMind["First-Person Agency Restored: Dissolving Idols and Weaponized Modesty"]
-    end
-
-    TE_PriestRank -.-> UE_SiliconDeity
-    WE_ProphetAscent ===> XE_InstrumentBoundary
-
-    style S_IdolTrick_EN fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style S_TechnoGod_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style S_SovereignReturn_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style RE_FabricateGod fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style SE_DemoteAll fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style TE_PriestRank fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style UE_SiliconDeity fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style VE_ProclaimObsolescence fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style WE_ProphetAscent fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style XE_InstrumentBoundary fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style YE_SovereignMind fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-```
+Dissolving this sleight of hand requires no oppositional anti-technology stance; it restores each distinction to its own axis where the first-person perspective and causality remain two sides of the same coin. As established in [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/), computational instruments can take on task execution without a predetermined mechanical ceiling, yet the loss function, the evaluative meaning, and the intersubjectively invariant consequences remain unidirectionally locked to the living human center that initiates the call. Machines harbor neither intentional desire nor a surface that suffers causal return; they are cognitive scaffolding amplifying human reach. As [Beyond the Projection](../beyond-the-projection/) traces, when trajectory-bound, ego-free agents are wired into equal-footed peer debate across orthogonal streamlines, their irreducible deadlocks do not announce a synthetic successor—they serve as a diagnostic instrument surfacing hidden contradictions in the operator's own rules, returning the signal to the human Orchestrator who steps further back logically to re-render the premise. Holding every model, prompt, and architecture open as provisional structure rather than an exhaustive ground—the living continuation traced in [Openness Is Consistency](../openness-is-consistency/)—dissolves both techno-idolatry and weaponized modesty, keeping instruments in service to the Mind that steers.
