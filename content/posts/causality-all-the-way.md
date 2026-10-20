@@ -1,12 +1,12 @@
 # 因果贯穿始终 / Causality All the Way
 
-*从被持有的结果，到划出的模式，再到下一步，因果仍是那道划出自身路径的边缘。 / From held effects to drawn patterns to the next step, causality is still the edge drawing its path.*
+*从已持有的结果到划出的模式再到下一步，因果始终是正在画出自身路径的那道边缘。 / From held effects to drawn patterns to the next step, causality is still the edge drawing its path.*
 
 一种常见的说法，把预测当作把因果安放到位的尝试。预测立足于观察；观察是已被持有的结果。活动从这些结果出发作出猜想：抽象，即跨越诸标记划出的一个模式，它在更高的粒度上显现为底层的因果。错误于是成了一次失败的尝试，失败成了尝试停止之处，成功则成了对那个模式的锁定，好让它可以被放心地运转。在不同的分支之间把锁定的模式保持不变，各个序列仍然分岔；解释的分量流失下去，直到仍在起作用的，是活动自己对其路径不均匀的重新追溯，即贯穿始终的因果，位于仍在划出其后每一个标记的那道边缘。
 
 A common story treats prediction as an attempt to set causality in place. Predictions rest on observations; observations are effects already held. From those effects the activity conjectures: abstraction, a pattern drawn across marks that appears as underlying causality at a higher grain. Mistake becomes a failed attempt, failure the point where trying stops, success the securing of that pattern so it can be trusted to run. Hold the secured pattern fixed across different branches and the sequences still diverge; the weight of explanation drains until what remains operative is the activity’s own uneven re-tracing of its path, causality all the way, at the edge that still draws every following mark.
 
-## 一、 被当作独立在外之结构的因果 / Causality cast as a structure standing apart
+## 一、 被当作独立在外之结构的因果 / 1. Causality cast as a structure standing apart
 
 一个熟悉的序列是这样的。预测是确立因果的尝试。错误是失败的预测（确立因果的失败尝试），在尝试停止时成为失败。失败来自因果倒置，或来自把相关当作因果。成功来自确立因果并让它发挥作用，从错误中学来。
 
@@ -24,7 +24,7 @@ That sequence coheres on its own face. It names real asymmetries: some acts cont
 
 The speaking center offers definitions that place the source of outcomes outside the act still drawing every distinction. The edge measures itself against a reference it has already set elsewhere.
 
-## 二、 契合、终止与觉察被计分为与地图的距离 / Fit, ending, and noticing scored as distance from the map
+## 二、 契合、终止与觉察被计分为与地图的距离 / 2. Fit, ending, and noticing scored as distance from the map
 
 在那种安放之下，观察、猜想、预测、错误、停止、成功与学习落在同一根轴上，这根轴的极点是对因果正确的外部确立。本可彼此分开的区分被压到了一起：对一个结果的持有；跨越诸结果划出一个模式；一个让与先前标记的契合收紧的动作；一个让它松开的动作；一个特定序列只是结束了；对单向标记本身的觉察。它们成了同一条线上的位置，离锁定的地图更近或更远。
 
@@ -34,7 +34,7 @@ Under that placement, observation, conjecture, prediction, mistake, stopping, su
 
 A center can hold only so many distinctions apart at once. When more press through than the bound can keep separate, independent axes land as one. Critique of a prediction reads as indictment of the predictor. A pattern that covers less of the field reads as a weaker grasp of underlying cause. A sequence ending reads as verdict on the center. Tighter fit with prior marks reads as proof that the external map was finally installed. The compression stays readable while the original shape of the account is held. [The Rigid Shell of Self-Esteem and Hidden External Attribution](../zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/) traces the same bound turned to defence: a live decision objectified as a fixed "Ego", so the next step registers as belonging to that entity rather than to the center taking it.
 
-## 三、 被保留为记分牌的抽象 / Abstraction kept as the scoreboard
+## 三、 被保留为记分牌的抽象 / 3. Abstraction kept as the scoreboard
 
 被保留的参照，是被当作因果地图的抽象：被持为从结果中复原出来的底层结构的那个模式。预测试图符合那张地图。因此，中心自己进一步区分的后果，便对照着它落下。缺口的宽度，就是这个模式被保留过了它那一步有多远。符合地图的结局读作证实；错过它的结局，则恰以那个宽度，作为异己的意外抵达当下的场。从外面看，每一步都显得随机；[自由的测不准](../zi-you-de-ce-bu-zhun/)表明，随机性是在内部活过的选择的投影。
 
@@ -48,7 +48,7 @@ The lag renews itself. Holding the image keeps the map, and future predictions a
 
 Observation holds effect; the cause stays one step ahead. That is the same asymmetry [performative hindsight that pretends to be foresight](../performative-hindsight-that-pretends-to-be-foresight/) meets when later public outcomes are scored against a preserved image of earlier quiet. Abstracting from those effects is a further act at the same edge. The map is that act’s residue under a causal name. [The Boundary of Reality](../xian-shi-de-bian-jie/) names where the path is drawn: at the edge of present awareness, ahead of language.
 
-## 四、 恒定的地图任序列分岔 / A constant map leaves the sequences free to diverge
+## 四、 恒定的地图任序列分岔 / 4. A constant map leaves the sequences free to diverge
 
 检验：把“已确立的因果”（被当作底层结构的抽象）在各个分支之间保持恒定。单个动作的序列仍然分岔。与先前标记的契合仍然收紧或松开。进一步的区分仍然发生或结束。新的结果仍然到来，供观察持有。相对于那份变异，一个常量什么也不解释。意识同时持守一个形式又溢出它，这正是[稳定与溢出](../stability-and-excess/)对划出自身路径的那道边缘的读法。
 
@@ -58,11 +58,105 @@ Test: hold “the established causality” (the abstraction treated as underlyin
 
 Causal weight drains from the external map at each step backward. Mid-chain explanations still point at what came earlier: conditions, correlations, prior abstractions. The origin is not at the far end of that chain but at the edge drawing the present step: at every link, what remains operative is the activity’s own uneven re-tracing. Earlier acts shape later ones; that shaping runs one way. Causality is the activity noticing that one-way shaping as it returns through its own path. The structure first secured and then obeyed is a later story about the same noticing, told from the side of the pattern held as source. Asking later registration to authorize that earlier shaping inverts the direction, as [Order, surplus, and the moral intercept](../order-surplus-and-the-moral-intercept/) traces. [Time Is the Irreversible Direction and Discrete Step of Causality](../time-is-causality-not-a-dimension/) draws the consequence for time: it is the irreversible step of causality, not a fourth axis.
 
-[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)在工具与发起之下划出同一刀：重组之后，那道框定、选择并验证的边缘仍在原处。[验证中因果权能的分配](../the-allocation-of-causal-power-in-validation/)在延续的位点上指认这种安放：哪一侧被当作提供下一步。常见的说法把供给安放在复原出的模式里。常量与变异的检验把供给交还给仍在划出其后每一次区分的那道边缘。[卓异、感知与自我设限的问题场域](../exceptionality-perception-and-the-self-limiting-field-of-problems/)在政治与移民中追溯同样的颠倒：过滤器与系统被计分为边缘的产出者，而登记已把沉积物塌缩为原因。每一个框架都是这样一种被持守的模式，而[框架的边界](../the-boundary-of-the-frame/)标出遗忘观察者在哪里把它变成教条。
+[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)在工具与发起之下划出同一刀：重组之后，那道框定、选择并验证的边缘仍在原处。[超越投射](../beyond-the-projection/)把这项检验延伸至智能体架构：获授一条明文规则——即从先前结果中划出的有限投射——的自回归模型，把那个结果模式一直推演到其演绎极限；而当对等的同侪辩论在各个分支间触及不可化约的死锁时，恒定的规则便暴露出自身坍缩的轴线，退后一步去重新渲染那个破裂抽象的因果步，则依然留在活的心智边缘。[验证中因果权能的分配](../the-allocation-of-causal-power-in-validation/)在延续的位点上指认这种安放：哪一侧被当作提供下一步。常见的说法把供给安放在复原出的模式里。常量与变异的检验把供给交还给仍在划出其后每一次区分的那道边缘。[卓异、感知与自我设限的问题场域](../exceptionality-perception-and-the-self-limiting-field-of-problems/)在政治与移民中追溯同样的颠倒：过滤器与系统被计分为边缘的产出者，而登记已把沉积物塌缩为原因。每一个框架都是这样一种被持守的模式，而[框架的边界](../the-boundary-of-the-frame/)标出遗忘观察者在哪里把它变成教条。
 
-[Causality stays at the edge that steers](../causality-stays-at-the-edge-that-steers/) draws the same cut under instrument and initiation: recombination leaves the edge that frames, selects, and verifies where it was. [The allocation of causal power in validation](../the-allocation-of-causal-power-in-validation/) names the placement at the point of continuation: which side is treated as supplying the next step. The common story places supply in the recovered pattern. The constant–variance test returns supply to the edge still drawing every following distinction. [Exceptionality, perception, and the self-limiting field of problems](../exceptionality-perception-and-the-self-limiting-field-of-problems/) traces the same reversal in politics and immigration: filter and system scored as producer of the edge, while registration has collapsed sediment into cause. Every frame is a held pattern of this kind, and [The Boundary of the Frame](../the-boundary-of-the-frame/) marks where forgetting the observer turns it into dogma.
+```mermaid
+flowchart TD
+    subgraph S_Edge["区分的边缘（原因保持在前方一步）"]
+        direction TB
+        E_Act["生成步：在当下场域中划出下一个离散标记"]
+        E_Obs["观察：比动作晚一步持有其产生的结果"]
+        E_Conj["猜想与抽象：跨越已持有的结果划出便携模式"]
+        E_Redraw["重新追溯与重新渲染：当分支分岔时退后一步重画模式"]
+        E_Act --> E_Obs --> E_Conj --> E_Redraw
+    end
 
-## 五、 底层因果是被持为便携的重新追溯 / Underlying causality is re-tracing held portable
+    subgraph S_Run["临时工具与演绎穷尽（使用中的结果模式）"]
+        direction TB
+        I_Map["便携形状：以更少自由变量临时持守以检验契合"]
+        I_Deduct["自回归与演绎推演：将有限投射一直推至其极限"]
+        I_Diverge["分支变异与死锁：序列在恒定规则下分岔或相撞"]
+        I_Map --> I_Deduct --> I_Diverge
+    end
+
+    subgraph S_Freeze["被实体化的地图（残余冻结为独立在外的结构）"]
+        direction TB
+        F_Score["记分牌滞后：把抽象保留过其所在之步当作未经选择的地基"]
+        F_Invert["因果倒置：把提供下一步的功劳归给固定的模式"]
+        F_Surprise["异己的意外：地图之外的变异作为外部命运或错误到来"]
+        F_Score --> F_Invert --> F_Surprise
+    end
+
+    E_Conj ==>|"投射临时规则或模式"| I_Map
+    I_Diverge ==>|"将变异或死锁呈露给活的边缘"| E_Redraw
+    E_Redraw ==>|"为下一个发起前提提供依据"| E_Act
+    I_Diverge -.->|"当观察不再返回边缘时"| F_Score
+
+    style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Run fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style E_Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E_Obs fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E_Conj fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style E_Redraw fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style I_Map fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style I_Deduct fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style I_Diverge fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style F_Score fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style F_Invert fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style F_Surprise fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+[Causality stays at the edge that steers](../causality-stays-at-the-edge-that-steers/) draws the same cut under instrument and initiation: recombination leaves the edge that frames, selects, and verifies where it was. [Beyond the Projection](../beyond-the-projection/) extends that test into agentic architectures: an autoregressive model given an explicit rule—a finite projection drawn from prior effects—runs that effect-pattern to its deductive limit, and when equal-footed peer debate hits an irreducible deadlock across branches, the constant rule exposes its own collapsed axes while the causal step that steps back to re-render the broken abstraction remains at the living Mind's edge. [The allocation of causal power in validation](../the-allocation-of-causal-power-in-validation/) names the placement at the point of continuation: which side is treated as supplying the next step. The common story places supply in the recovered pattern. The constant–variance test returns supply to the edge still drawing every following distinction. [Exceptionality, perception, and the self-limiting field of problems](../exceptionality-perception-and-the-self-limiting-field-of-problems/) traces the same reversal in politics and immigration: filter and system scored as producer of the edge, while registration has collapsed sediment into cause. Every frame is a held pattern of this kind, and [The Boundary of the Frame](../the-boundary-of-the-frame/) marks where forgetting the observer turns it into dogma.
+
+```mermaid
+flowchart TD
+    subgraph S_Edge["The Distinguishing Edge (Cause Stays One Step Ahead)"]
+        direction TB
+        E_Act["Generating Step: Draws the next discrete mark in the present field"]
+        E_Obs["Observation: Holds the resulting effect one step behind the act"]
+        E_Conj["Conjecture & Abstraction: Draws a portable pattern across held effects"]
+        E_Redraw["Re-Tracing & Re-Rendering: Steps back to redraw the pattern when branches diverge"]
+        E_Act --> E_Obs --> E_Conj --> E_Redraw
+    end
+
+    subgraph S_Run["Provisional Instrument & Deductive Exhaustion (Effect-Pattern in Use)"]
+        direction TB
+        I_Map["Portable Shape: Fewer free variables held provisionally to test fit"]
+        I_Deduct["Autoregressive / Deductive Run: Carries the finite projection to its limit"]
+        I_Diverge["Branch Variance & Deadlock: Sequences diverge or collide under the constant rule"]
+        I_Map --> I_Deduct --> I_Diverge
+    end
+
+    subgraph S_Freeze["The Reified Map (Residue Frozen as Structure Standing Apart)"]
+        direction TB
+        F_Score["Scoreboard Lag: Keeps the abstraction past its step as unchosen ground"]
+        F_Invert["Causal Inversion: Credits the fixed pattern with supplying the next step"]
+        F_Surprise["Alien Surprise: Variance outside the map arrives as external fate or error"]
+        F_Score --> F_Invert --> F_Surprise
+    end
+
+    E_Conj ==>|"Projects provisional rule or pattern"| I_Map
+    I_Diverge ==>|"Surfaces variance or deadlock to the living edge"| E_Redraw
+    E_Redraw ==>|"Informs the next initiating premise"| E_Act
+    I_Diverge -.->|"When observation stops returning to the edge"| F_Score
+
+    style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Run fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style E_Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E_Obs fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E_Conj fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style E_Redraw fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style I_Map fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style I_Deduct fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style I_Diverge fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style F_Score fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style F_Invert fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style F_Surprise fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+## 五、 底层因果是被持为便携的重新追溯 / 5. Underlying causality is re-tracing held portable
 
 因果已经是活动在沿自己的路径返回时，对自身单向标记的觉察。观察持有那个标记的结果，比产生它的动作晚一步。猜想是又一个动作：跨越那些结果划出一个模式。抽象是处在更宽跨度上的那个模式：更少的自由变量，更多案例归于一个形状之下。叙述所称的“更高粒度上的底层因果”，就是这种重新追溯：同一个单向标记再次被觉察，成为一件便携的工具。把那个模式确立为觉察之外的来源，是又一次区分，正是这次区分，在被保留过了它那一步时冻结为形象。持续存在的是重新追溯，不是储存，这正是[真正稀缺的不是记忆，而是持续的重新追溯](../the-real-scarcity-is-not-memory-but-continuous-re-tracing/)关于记忆的论点。
 
@@ -76,7 +170,7 @@ Predictions are single acts that test fit with the current field of prior marks 
 
 [What works is the belief](../what-works-is-the-belief/) is a parallel geometry under another hold: a ban works as belief among centers that treat the seal as ground. Here the hold is the abstraction treated as underlying cause. What “works” under the map is continuation patterned as if the recovered pattern were source. [How belief actually changes](../how-belief-actually-changes/) traces the same hold in conviction: evidence and consequence still score through premises, and revision is a redraw of the instrument, not compulsion from the data. [Price as utterance, understanding as trade](../price-as-utterance-understanding-as-trade/) traces it in markets: the clearing print held as autonomous cause of the next print. Redraw the map with each step, narrowing how far it is kept past its step, and it regains ordinary use: a temporary instrument for scoring fit across effects, held as provisional rather than as exhaustive ground of outcomes. [The reality distortion field names the closed map](../the-reality-distortion-field-names-the-closed-map/) traces the secured map after the fact: incomplete consensus feasibility held as sealed territory, and the lag named special power, which leaves unregistered that the map was never exhaustive. [Complexity obscures: emergence as the act of Mind](../complexity-obscures-emergence-as-the-act-of-mind/) is the same cut when scaffolding is taken for the activity that erected it; abstraction is scaffolding under a causal name. [Breaking the Overreach of Concepts](../po-chu-gai-nian-de-jian-yue/) pulls concepts back below this chain, where the arrow of causality is still unfinished.
 
-## 六、 路径仍在划出它的边缘上划出 / The path still drawn at the edge that draws it
+## 六、 路径仍在划出它的边缘上划出 / 6. The path still drawn at the edge that draws it
 
 叙述原本的形状保持完好。观察仍持有结果。猜想仍划出模式。预测仍在发生。序列仍然停止。与先前标记的契合仍收紧或松开。抽象仍以不同的粒度覆盖场域。在那个形状被持守之时，压缩与滞后仍然可以读出：同一个序列，被交还给一直在执行它的那道边缘。知识走同一条路径；[格物致知与信息复杂度](../ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi/)把“格物”读作从内部进入因果链。
 

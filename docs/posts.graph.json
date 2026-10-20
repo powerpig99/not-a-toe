@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T12:04:55.985Z",
+    "generated_at": "2026-10-20T12:12:37.932Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -29,7 +29,7 @@
       "content/posts/beyond-the-hundred-trillion-horizon.md": "7092a6d76ade",
       "content/posts/beyond-the-projection.md": "d02d491ba807",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "af7a00651647",
-      "content/posts/causality-all-the-way.md": "bba8516e8a15",
+      "content/posts/causality-all-the-way.md": "27e8e145c237",
       "content/posts/causality-and-the-irreducible-prior.md": "b0836e2d3ef6",
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "9a04d0692bd0",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "31c5ca5fcc3f",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 8639,
-      "unique_directed": 4648,
+      "edges": 8641,
+      "unique_directed": 4649,
       "missing_targets": 0,
-      "one_way": 174,
+      "one_way": 175,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -554,12 +554,12 @@
       "out_degree": 41
     },
     {
-      "slug": "causality-stays-at-the-edge-that-steers",
+      "slug": "causality-all-the-way",
       "out_degree": 38
     },
     {
-      "slug": "causality-all-the-way",
-      "out_degree": 37
+      "slug": "causality-stays-at-the-edge-that-steers",
+      "out_degree": 38
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
@@ -1065,7 +1065,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 21,
+      "in_degree": 22,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1110,9 +1110,9 @@
       "slug": "causality-all-the-way",
       "path": "content/posts/causality-all-the-way.md",
       "title": "因果贯穿始终 / Causality All the Way",
-      "hash": "bba8516e8a15",
+      "hash": "27e8e145c237",
       "in_degree": 37,
-      "out_degree": 37,
+      "out_degree": 38,
       "links_out": [
         "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
         "zi-you-de-ce-bu-zhun",
@@ -1124,6 +1124,7 @@
         "order-surplus-and-the-moral-intercept",
         "time-is-causality-not-a-dimension",
         "causality-stays-at-the-edge-that-steers",
+        "beyond-the-projection",
         "the-allocation-of-causal-power-in-validation",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "the-boundary-of-the-frame",
@@ -12267,6 +12268,12 @@
     },
     {
       "from": "causality-all-the-way",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "causality-all-the-way",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
       "label": "验证中因果权能的分配"
@@ -12288,6 +12295,12 @@
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
       "label": "Causality stays at the edge that steers"
+    },
+    {
+      "from": "causality-all-the-way",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "causality-all-the-way",
