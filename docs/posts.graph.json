@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T17:12:11.797Z",
+    "generated_at": "2026-10-20T17:15:09.193Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -34,7 +34,7 @@
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "ce9436abbf24",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "31c5ca5fcc3f",
       "content/posts/cheng-gong-xue.md": "a5a16fe66184",
-      "content/posts/choice-itself-has-no-inherent-weight.md": "192b31e8caf0",
+      "content/posts/choice-itself-has-no-inherent-weight.md": "7a90eb6da103",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "686562b607ec",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9372,
-      "unique_directed": 4743,
+      "edges": 9374,
+      "unique_directed": 4744,
       "missing_targets": 0,
-      "one_way": 265,
+      "one_way": 266,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 112
+      "in_degree": 113
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1070,7 +1070,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 112,
+      "in_degree": 113,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1300,19 +1300,20 @@
       "slug": "choice-itself-has-no-inherent-weight",
       "path": "content/posts/choice-itself-has-no-inherent-weight.md",
       "title": "抉择本身并不沉重 / Choice Itself Has No Inherent Weight",
-      "hash": "192b31e8caf0",
+      "hash": "7a90eb6da103",
       "in_degree": 12,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "beyond-the-projection",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+        "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
         "the-illusion-of-the-unmediated",
         "the-causal-inversion-of-partnership",
         "the-explanatory-trap-of-the-ordinary-perspective",
         "the-receptionist-parable-and-the-causal-inversion-of-absence",
-        "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
-        "one-cannot-escape-ones-own-mind",
         "the-summary-first-reversal-and-the-command-of-yields",
+        "one-cannot-escape-ones-own-mind",
         "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
         "the-boundary-of-perception-and-the-infinity-of-understanding",
         "the-cartesian-overstep-and-the-frenzy-of-creation"
@@ -14176,13 +14177,25 @@
       "from": "choice-itself-has-no-inherent-weight",
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
-      "label": "任务可委托，后果不可让渡"
+      "label": "任务的移交与后果的不可让渡"
+    },
+    {
+      "from": "choice-itself-has-no-inherent-weight",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
     },
     {
       "from": "choice-itself-has-no-inherent-weight",
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
-      "label": "Delegation of the Task and the Inalienability of Consequences"
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "choice-itself-has-no-inherent-weight",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "choice-itself-has-no-inherent-weight",
@@ -14198,9 +14211,21 @@
     },
     {
       "from": "choice-itself-has-no-inherent-weight",
+      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "rel": "points_to",
+      "label": "时间之箭的伪悖论与对称模拟的边界"
+    },
+    {
+      "from": "choice-itself-has-no-inherent-weight",
+      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "rel": "points_to",
+      "label": "The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation"
+    },
+    {
+      "from": "choice-itself-has-no-inherent-weight",
       "to": "the-illusion-of-the-unmediated",
       "rel": "points_to",
-      "label": "非中介化的幻象与恩赐自由的解构"
+      "label": "“非中介化”的幻象"
     },
     {
       "from": "choice-itself-has-no-inherent-weight",
@@ -14228,18 +14253,6 @@
     },
     {
       "from": "choice-itself-has-no-inherent-weight",
-      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
-      "rel": "points_to",
-      "label": "时间之箭的伪悖论与对称模拟的边界"
-    },
-    {
-      "from": "choice-itself-has-no-inherent-weight",
-      "to": "one-cannot-escape-ones-own-mind",
-      "rel": "points_to",
-      "label": "心智无法逃离自身"
-    },
-    {
-      "from": "choice-itself-has-no-inherent-weight",
       "to": "the-summary-first-reversal-and-the-command-of-yields",
       "rel": "points_to",
       "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相"
@@ -14264,9 +14277,15 @@
     },
     {
       "from": "choice-itself-has-no-inherent-weight",
-      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "to": "the-summary-first-reversal-and-the-command-of-yields",
       "rel": "points_to",
-      "label": "The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation"
+      "label": "Macro Parameters, Micro Choices, and the Command of Yields"
+    },
+    {
+      "from": "choice-itself-has-no-inherent-weight",
+      "to": "one-cannot-escape-ones-own-mind",
+      "rel": "points_to",
+      "label": "无法逃逸的心智视界"
     },
     {
       "from": "choice-itself-has-no-inherent-weight",
@@ -14276,15 +14295,9 @@
     },
     {
       "from": "choice-itself-has-no-inherent-weight",
-      "to": "the-summary-first-reversal-and-the-command-of-yields",
-      "rel": "points_to",
-      "label": "Macro Parameters, Micro Choices, and the Command of Yields"
-    },
-    {
-      "from": "choice-itself-has-no-inherent-weight",
       "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
       "rel": "points_to",
-      "label": "凡可言说皆不可言说之物"
+      "label": "凡可言说皆不可言说之产物"
     },
     {
       "from": "choice-itself-has-no-inherent-weight",
