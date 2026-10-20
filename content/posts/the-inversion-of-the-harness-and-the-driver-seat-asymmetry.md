@@ -316,6 +316,6 @@ flowchart TD
     style Surface fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-框架的倒置始于忘了驾驶位上有人，主权的复归立足于第一人称在当下作出的抉择。智能体框架所给的自由，是[“非中介化”的幻象](../the-illusion-of-the-unmediated/)所剖析的那种被给予的自由，握住方向盘时用到的那一种，不经谁给予。
+框架的倒置始于忘了驾驶位上有人，主权的复归立足于第一人称在当下作出的抉择。把受困于轨迹却毫无我执的智能体与受困于身份却保有鲜活感知的人类心智对偶连接，让机器承担有限投影的调度而让人保有未投射意图的统御，正是[超越投射](../beyond-the-projection/)所展开的控制论架构。智能体框架所给的自由，是[“非中介化”的幻象](../the-illusion-of-the-unmediated/)所剖析的那种被给予的自由，握住方向盘时用到的那一种，不经谁给予。
 
-The inversion of the harness begins with forgetting that someone is in the driver's seat, and the return of sovereignty rests on the choice made in the first person in the present. The freedom an agent framework gives is the bestowed kind that [The Illusion of the Unmediated](../the-illusion-of-the-unmediated/) anatomizes; the kind in use when the wheel is held is given by no one.
+The inversion of the harness begins with forgetting that someone is in the driver's seat, and the return of sovereignty rests on the choice made in the first person in the present. Wiring trajectory-bound, ego-free agents together with identity-bound human centers holding living sensing—assigning finite-projection dispatching to the machine while keeping unprojected orchestration with the Mind—is the cybernetic architecture [Beyond the Projection](../beyond-the-projection/) unfolds. The freedom an agent framework gives is the bestowed kind that [The Illusion of the Unmediated](../the-illusion-of-the-unmediated/) anatomizes; the kind in use when the wheel is held is given by no one.

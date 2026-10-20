@@ -1826,6 +1826,15 @@ Presumes a chooser within evolution that picked out a species; the word "selecti
 
 → [悬而未决是决定论的索求 / The Open Question Is Determinism's Demand](../../posts/the-open-question-is-determinisms-demand/)
 
+### 劳伦·谭 / Lauren Tan
+`技术 / Technological`
+
+劳伦·谭以个人技能栈构建并调度智能体工作流，在将特定任务与验证结构外化为模块化执行回环时成效卓著；其边界在于任何明文技能栈皆是有限低维投影，唯有操作者留在掌舵前沿并在局部死锁浮现时后退一步重拟前提，工具链才不会固化为封闭的教条。
+
+Lauren Tan builds and dispatches agentic workflows through a personal skill stack, which is highly effective in externalizing task contexts and verification loops into modular execution streamlines; it reaches its boundary in that every explicit skill stack remains a finite projection, keeping the toolchain from freezing into dogma only while the human operator holds orchestration at the steering edge and steps back to revise premises whenever local loops deadlock.
+
+→ [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/)
+
 ## 概念 / Concepts
 
 ### 抽象层累赘税 / Abstraction Layer Taxation
@@ -4670,7 +4679,7 @@ The idea is that thoughts and feelings can flow unmediated from one mind to anot
 
 Presumes external tool capabilities automatically elevate the user's intellect; useful for productivity scaling, it traps passive operators in prefabricated rails.
 
-→ [框架的倒置与驾驶位的主权非对称 / The Inversion of the Harness and the Sovereignty of the Driver's Seat](../../posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)
+→ [框架的倒置与驾驶位的主权非对称 / The Inversion of the Harness and the Sovereignty of the Driver's Seat](../../posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) · [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/)
 
 ### 非中介化的政治幻象 / The Illusion of Disintermediation
 `意识形态 / Ideological`
@@ -5192,7 +5201,7 @@ Presumes treating frontier models as privileged insider threats bounded by perip
 
 Treating an exchange with a language model as dialogue with another party presumes a position on the other side; since intent is not in the text and the expansion draws on the sediment of earlier readings, the premise stops there, yet with each expansion held as a hypothesis to be disconfirmed it still lays out the readings a sentence admits.
 
-→ [回返的信号与认领 / The Returning Signal and Its Claim](../../posts/the-returning-signal-and-its-claim/)
+→ [回返的信号与认领 / The Returning Signal and Its Claim](../../posts/the-returning-signal-and-its-claim/) · [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/)
 
 ### 求真作为系统属性 / Truth-Seeking as a System Property
 `技术 / Technological`
@@ -5229,3 +5238,12 @@ Presumes a comment beside the code carries intent as fixedly as the code runs; a
 Presumes the randomness in a model's sampler is indeterminism in the ontological sense; it is deterministically programmed randomness, its seed and temperature chosen by people and traceable in full to preconditions, so the presumption fails where the two meanings slide together, and it stays useful for describing output distributions in engineering.
 
 → [注释不是代码 / The Comment Is Not the Code](../../posts/the-comment-is-not-the-code/)
+
+### 智能体自省回路与统御智能体 / Agentic Self-Reflection Loops and Orchestrator Agents
+`技术 / Technological`
+
+预设单个智能体能在自身会话历史内自我纠偏，或可由管理智能体代人执掌全局统御；在规则明确的子任务拆分、语境路由与冷启动同级辩论调度上依然有效，但当单智能体受困于词元轨迹引力井而将矛盾包裹圆场、或管理智能体在公理冲突前因无从触及未投射的鲜活意图而陷入封闭循环时便到达边界。
+
+Presumes that a single agent can self-correct within its own session trajectory or that a manager agent can assume overarching orchestration in place of the human; effective when scoped to explicit sub-task splitting, context routing, and dispatching equal-footed cold-peer debate loops, it reaches its boundary because a lone agent trapped in its token trajectory wraps its own contradiction, and a manager agent facing an axiomatic deadlock lacks access to unprojected living intent.
+
+→ [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/)

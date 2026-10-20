@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-19T18:06:54.155Z",
+    "generated_at": "2026-10-20T06:31:45.210Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -27,6 +27,7 @@
       "content/posts/an-observation-by-its-own-standard.md": "c3c67e17cfb2",
       "content/posts/better-than-free-after-the-checklist-closes.md": "cd968b48e0f6",
       "content/posts/beyond-the-hundred-trillion-horizon.md": "7092a6d76ade",
+      "content/posts/beyond-the-projection.md": "15ba28672abe",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "af7a00651647",
       "content/posts/causality-all-the-way.md": "bba8516e8a15",
       "content/posts/causality-and-the-irreducible-prior.md": "b0836e2d3ef6",
@@ -108,7 +109,7 @@
       "content/posts/individual-choices-as-the-only-causal-levers.md": "22a5ac299a3f",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "df5119d18fd1",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
-      "content/posts/intelligence-folding-back-on-itself.md": "e59a2399d66c",
+      "content/posts/intelligence-folding-back-on-itself.md": "544ecca16b1d",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "77408db0532e",
       "content/posts/looping-and-graphing.md": "062e2dbb437d",
@@ -142,7 +143,7 @@
       "content/posts/one-cannot-escape-ones-own-mind.md": "455b3e394cb6",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "63a25d4f0593",
       "content/posts/only-if-it-is-not-kept-empty.md": "89ba621e0d4d",
-      "content/posts/ontos-is-a-method-agent.md": "f1252b8695a2",
+      "content/posts/ontos-is-a-method-agent.md": "d11ef3f77a66",
       "content/posts/open-vision-in-a-closed-arena.md": "86f711861938",
       "content/posts/openness-is-consistency.md": "61d62cdf99f0",
       "content/posts/order-surplus-and-the-moral-intercept.md": "6af5409d3970",
@@ -273,7 +274,7 @@
       "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md": "305d17fa1783",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
       "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "47a6ffb6ae17",
-      "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "6bb1ab2dad94",
+      "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "81998c70efe7",
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "5ccd04ebe2f8",
       "content/posts/the-invisible-first-move.md": "24e7e1373e4c",
       "content/posts/the-invisible-gods-eye.md": "9d59904eb1d4",
@@ -329,7 +330,7 @@
       "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "9c76b27b0f26",
       "content/posts/the-reflexive-dilemma-of-unique-insight.md": "e0b2f868f3d1",
       "content/posts/the-residue-and-the-free-variable.md": "eb7e4af88ac4",
-      "content/posts/the-returning-signal-and-its-claim.md": "6a118ede0799",
+      "content/posts/the-returning-signal-and-its-claim.md": "88ac1bdb2266",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "6bdbb17cb945",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "7940d13c303b",
       "content/posts/the-reversal-of-education-and-science.md": "d9695fb75dbc",
@@ -406,7 +407,7 @@
       "content/book/causality.md": "3d3c38ed55ed",
       "content/book/consciousness.md": "84e10ab5f9aa",
       "content/book/economics.md": "5f09ac3fbf19",
-      "content/book/index-of-premises.md": "9ea1bf306267",
+      "content/book/index-of-premises.md": "cd95022c4d0d",
       "content/book/intelligence.md": "11dd07441058",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -418,19 +419,19 @@
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "ac12c411779e",
       "content/book/success-and-the-self.md": "2a59654ea696",
-      "content/book/tools-and-progress.md": "c2d1c842f86a"
+      "content/book/tools-and-progress.md": "4a259f504af9"
     },
     "stats": {
-      "posts": 395,
-      "edges": 8261,
-      "unique_directed": 4612,
+      "posts": 396,
+      "edges": 8301,
+      "unique_directed": 4631,
       "missing_targets": 0,
-      "one_way": 168,
+      "one_way": 179,
       "isolated": 35,
-      "posts_with_outbound": 359,
+      "posts_with_outbound": 360,
       "book_pages": 16,
-      "book_edges": 1092,
-      "posts_reached_by_book": 395
+      "book_edges": 1097,
+      "posts_reached_by_book": 396
     }
   },
   "hubs_in": [
@@ -440,11 +441,11 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 80
+      "in_degree": 81
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 68
+      "in_degree": 69
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -456,7 +457,7 @@
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "in_degree": 56
+      "in_degree": 57
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -472,7 +473,7 @@
     },
     {
       "slug": "causality-stays-at-the-edge-that-steers",
-      "in_degree": 38
+      "in_degree": 39
     },
     {
       "slug": "causality-all-the-way",
@@ -499,6 +500,10 @@
       "in_degree": 32
     },
     {
+      "slug": "clarity-isnt-a-state-you-arrive-at",
+      "in_degree": 31
+    },
+    {
       "slug": "complexity-obscures-emergence-as-the-act-of-mind",
       "in_degree": 31
     },
@@ -507,12 +512,8 @@
       "in_degree": 31
     },
     {
-      "slug": "clarity-isnt-a-state-you-arrive-at",
-      "in_degree": 30
-    },
-    {
-      "slug": "hierarchy-from-individual-difference",
-      "in_degree": 30
+      "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "in_degree": 31
     }
   ],
   "hubs_out": [
@@ -687,7 +688,7 @@
       "path": "content/posts/a-living-external-cortex.md",
       "title": "A Living External Cortex: The Closest the Image Can Come",
       "hash": "19f76ee2f4cf",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 6,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1057,6 +1058,33 @@
       ]
     },
     {
+      "id": "post:beyond-the-projection",
+      "kind": "post",
+      "slug": "beyond-the-projection",
+      "path": "content/posts/beyond-the-projection.md",
+      "title": "超越投射 / Beyond the Projection",
+      "hash": "15ba28672abe",
+      "in_degree": 4,
+      "out_degree": 15,
+      "links_out": [
+        "intelligence-belongs-only-to-the-mind",
+        "ontos-is-a-method-agent",
+        "the-model-never-becomes-a-second-edge",
+        "the-returning-signal-and-its-claim",
+        "dimensions-are-projections",
+        "the-mind-as-vector-and-coordinate-system",
+        "a-living-external-cortex",
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+        "lossless-knowledge-of-an-open-field-is-incoherent",
+        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+        "intelligence-folding-back-on-itself",
+        "causality-stays-at-the-edge-that-steers",
+        "clarity-isnt-a-state-you-arrive-at",
+        "openness-is-consistency"
+      ]
+    },
+    {
       "id": "post:boletus-compute-storm-and-promethean-fire",
       "kind": "post",
       "slug": "boletus-compute-storm-and-promethean-fire",
@@ -1184,7 +1212,7 @@
       "path": "content/posts/causality-stays-at-the-edge-that-steers.md",
       "title": "因果停留在掌舵的边缘 / Causality Stays at the Edge That Steers",
       "hash": "14211a804d64",
-      "in_degree": 38,
+      "in_degree": 39,
       "out_degree": 37,
       "links_out": [
         "what-always-listens-cannot-originate",
@@ -1299,7 +1327,7 @@
       "path": "content/posts/clarity-isnt-a-state-you-arrive-at.md",
       "title": "Clarity Isn't a State You Arrive At. It's the Movement Itself.",
       "hash": "24157a13530f",
-      "in_degree": 30,
+      "in_degree": 31,
       "out_degree": 30,
       "links_out": [
         "why-mathematics-can-never-be-solved",
@@ -1939,7 +1967,7 @@
       "path": "content/posts/dimensions-are-projections.md",
       "title": "维度即投影 / Dimensions Are Projections",
       "hash": "74ce8777a33a",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 18,
       "links_out": [
         "not-a-toe-rewrite",
@@ -2968,7 +2996,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "智能只属于心智 / Intelligence Belongs Only to The Mind",
       "hash": "df5119d18fd1",
-      "in_degree": 68,
+      "in_degree": 69,
       "out_degree": 68,
       "links_out": [
         "curiosity-has-no-final-form",
@@ -3058,9 +3086,9 @@
       "slug": "intelligence-folding-back-on-itself",
       "path": "content/posts/intelligence-folding-back-on-itself.md",
       "title": "智能向自身的回折 / Intelligence Folding Back on Itself",
-      "hash": "e59a2399d66c",
-      "in_degree": 19,
-      "out_degree": 19,
+      "hash": "544ecca16b1d",
+      "in_degree": 20,
+      "out_degree": 20,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "two-failures-of-trace",
@@ -3077,6 +3105,7 @@
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
         "mistaking-the-expression-for-the-intelligence",
         "looping-and-graphing",
+        "beyond-the-projection",
         "the-scaffolding-that-keeps-growing",
         "the-flywheel-of-the-mind",
         "a-creation-cannot-replace-its-source",
@@ -3155,7 +3184,7 @@
       "path": "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md",
       "title": "Lossless Knowledge of an Open Field Is Incoherent",
       "hash": "34a2ec16b58d",
-      "in_degree": 21,
+      "in_degree": 22,
       "out_degree": 22,
       "links_out": [
         "the-knowledge-problem-and-the-illusion-of-delegation",
@@ -3518,7 +3547,7 @@
       "path": "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md",
       "title": "没有外部 / No Outside",
       "hash": "54781c1f9a14",
-      "in_degree": 22,
+      "in_degree": 23,
       "out_degree": 22,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
@@ -3867,9 +3896,9 @@
       "slug": "ontos-is-a-method-agent",
       "path": "content/posts/ontos-is-a-method-agent.md",
       "title": "呈现Ontos，一个方法智能体 / Presenting Ontos, a Method Agent",
-      "hash": "f1252b8695a2",
-      "in_degree": 9,
-      "out_degree": 9,
+      "hash": "d11ef3f77a66",
+      "in_degree": 10,
+      "out_degree": 10,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "mistaking-the-expression-for-the-intelligence",
@@ -3879,7 +3908,8 @@
         "closed-reality-in-benchmark-maxing",
         "causality-stays-at-the-edge-that-steers",
         "a-creation-cannot-replace-its-source",
-        "intelligence-folding-back-on-itself"
+        "intelligence-folding-back-on-itself",
+        "beyond-the-projection"
       ]
     },
     {
@@ -3911,7 +3941,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "开放即一致 / Openness Is Consistency",
       "hash": "61d62cdf99f0",
-      "in_degree": 80,
+      "in_degree": 81,
       "out_degree": 80,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -5950,7 +5980,7 @@
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences",
       "hash": "98555b9f2b03",
-      "in_degree": 30,
+      "in_degree": 31,
       "out_degree": 28,
       "links_out": [
         "the-summary-first-reversal-and-the-command-of-yields",
@@ -7002,9 +7032,9 @@
       "slug": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "path": "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md",
       "title": "框架的倒置与驾驶位的主权非对称 / The Inversion of the Harness and the Sovereignty of the Driver's Seat",
-      "hash": "6bb1ab2dad94",
-      "in_degree": 16,
-      "out_degree": 15,
+      "hash": "81998c70efe7",
+      "in_degree": 17,
+      "out_degree": 16,
       "links_out": [
         "the-scaffolding-we-forget",
         "intelligence-belongs-only-to-the-mind",
@@ -7020,6 +7050,7 @@
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "individual-choices-as-the-only-causal-levers",
         "mei-you-pu-du-zhi-you-zi-du",
+        "beyond-the-projection",
         "the-illusion-of-the-unmediated"
       ]
     },
@@ -7383,7 +7414,7 @@
       "path": "content/posts/the-mind-as-vector-and-coordinate-system.md",
       "title": "向量、坐标系与自指心智 / The Mind as Vector and Coordinate System",
       "hash": "e5dfc5fb16e4",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 12,
       "links_out": [
         "coordinates-in-flux-negation-and-self-anchoring",
@@ -7507,7 +7538,7 @@
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "The Model Never Becomes a Second Edge",
       "hash": "ce70498007ea",
-      "in_degree": 56,
+      "in_degree": 57,
       "out_degree": 45,
       "links_out": [
         "the-category-error-of-better",
@@ -8240,13 +8271,14 @@
       "slug": "the-returning-signal-and-its-claim",
       "path": "content/posts/the-returning-signal-and-its-claim.md",
       "title": "回返的信号与认领 / The Returning Signal and Its Claim",
-      "hash": "6a118ede0799",
-      "in_degree": 3,
-      "out_degree": 8,
+      "hash": "88ac1bdb2266",
+      "in_degree": 4,
+      "out_degree": 9,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
         "the-perceiver-and-the-trace",
         "a-living-external-cortex",
+        "beyond-the-projection",
         "the-asymmetry-of-understanding",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "causality-stays-at-the-edge-that-steers",
@@ -11777,6 +11809,198 @@
       "to": "the-generative-mechanics-of-value-money-and-wealth",
       "rel": "points_to",
       "label": "The Generative Mechanics of Value, Money, and Wealth"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "ontos-is-a-method-agent",
+      "rel": "points_to",
+      "label": "呈现Ontos，一个方法智能体"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to The Mind"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "ontos-is-a-method-agent",
+      "rel": "points_to",
+      "label": "Presenting Ontos, a Method Agent"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "the-returning-signal-and-its-claim",
+      "rel": "points_to",
+      "label": "回返的信号与认领"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "the-returning-signal-and-its-claim",
+      "rel": "points_to",
+      "label": "The Returning Signal and Its Claim"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "dimensions-are-projections",
+      "rel": "points_to",
+      "label": "维度即投影"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "the-mind-as-vector-and-coordinate-system",
+      "rel": "points_to",
+      "label": "向量、坐标系与自指心智"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "dimensions-are-projections",
+      "rel": "points_to",
+      "label": "Dimensions Are Projections"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "the-mind-as-vector-and-coordinate-system",
+      "rel": "points_to",
+      "label": "The Mind as Vector and Coordinate System"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "the-returning-signal-and-its-claim",
+      "rel": "points_to",
+      "label": "回返的信号与认领"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "the-returning-signal-and-its-claim",
+      "rel": "points_to",
+      "label": "The Returning Signal and Its Claim"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "a-living-external-cortex",
+      "rel": "points_to",
+      "label": "活的外部皮层"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "a-living-external-cortex",
+      "rel": "points_to",
+      "label": "A Living External Cortex: The Closest the Image Can Come"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的移交与后果的不可让渡"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "框架的倒置与驾驶位的主权非对称"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "The Inversion of the Harness and the Sovereignty of the Driver's Seat"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "rel": "points_to",
+      "label": "开放场域中的无损知识不自洽"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "rel": "points_to",
+      "label": "Lossless Knowledge of an Open Field Is Incoherent"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "没有外部"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "intelligence-folding-back-on-itself",
+      "rel": "points_to",
+      "label": "智能向自身的回折"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "因果停留在掌舵的边缘"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No Outside"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "intelligence-folding-back-on-itself",
+      "rel": "points_to",
+      "label": "Intelligence Folding Back on Itself"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality Stays at the Edge That Steers"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "清晰不是抵达的终点，而是运动本身"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "boletus-compute-storm-and-promethean-fire",
@@ -23528,6 +23752,12 @@
     },
     {
       "from": "intelligence-folding-back-on-itself",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "intelligence-folding-back-on-itself",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
       "label": "No Outside"
@@ -23543,6 +23773,12 @@
       "to": "looping-and-graphing",
       "rel": "points_to",
       "label": "Looping and Graphing"
+    },
+    {
+      "from": "intelligence-folding-back-on-itself",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "intelligence-folding-back-on-itself",
@@ -27638,9 +27874,21 @@
     },
     {
       "from": "ontos-is-a-method-agent",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "ontos-is-a-method-agent",
       "to": "intelligence-folding-back-on-itself",
       "rel": "points_to",
       "label": "Intelligence Folding Back on Itself"
+    },
+    {
+      "from": "ontos-is-a-method-agent",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "open-vision-in-a-closed-arena",
@@ -44780,9 +45028,21 @@
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "to": "the-illusion-of-the-unmediated",
       "rel": "points_to",
       "label": "“非中介化”的幻象"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
@@ -50624,6 +50884,12 @@
     },
     {
       "from": "the-returning-signal-and-its-claim",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-returning-signal-and-its-claim",
       "to": "the-asymmetry-of-understanding",
       "rel": "points_to",
       "label": "理解的非对称性"
@@ -50639,6 +50905,12 @@
       "to": "a-living-external-cortex",
       "rel": "points_to",
       "label": "A Living External Cortex"
+    },
+    {
+      "from": "the-returning-signal-and-its-claim",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-returning-signal-and-its-claim",
@@ -59556,8 +59828,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "9ea1bf306267",
-        "out_degree": 395
+        "hash": "cd95022c4d0d",
+        "out_degree": 396
       },
       {
         "id": "book:intelligence",
@@ -59664,8 +59936,8 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "c2d1c842f86a",
-        "out_degree": 32
+        "hash": "4a259f504af9",
+        "out_degree": 33
       }
     ],
     "edges": [
@@ -61891,6 +62163,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "beyond-the-projection",
+        "rel": "collects",
+        "label": "超越投射 / Beyond the Projection"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "simplicity-ultimate-sophistication",
         "rel": "collects",
         "label": "Simplicity Is the Ultimate Sophistication"
@@ -64009,6 +64287,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "beyond-the-projection",
+        "rel": "collects",
+        "label": "超越投射 / Beyond the Projection"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-illusion-of-the-unmediated",
         "rel": "collects",
         "label": "“非中介化”的幻象 / The Illusion of the Unmediated"
@@ -64417,6 +64701,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "beyond-the-projection",
+        "rel": "collects",
+        "label": "超越投射 / Beyond the Projection"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-returning-signal-and-its-claim",
         "rel": "collects",
         "label": "回返的信号与认领 / The Returning Signal and Its Claim"
@@ -64438,6 +64728,12 @@
         "to": "the-comment-is-not-the-code",
         "rel": "collects",
         "label": "注释不是代码 / The Comment Is Not the Code"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "beyond-the-projection",
+        "rel": "collects",
+        "label": "超越投射 / Beyond the Projection"
       },
       {
         "from": "book:intelligence",
@@ -66220,6 +66516,12 @@
         "to": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
         "rel": "collects",
         "label": "内部人假定与被动防护的因果倒置 / The Insider Presumption and the Causal Inversion of Reactive Containment"
+      },
+      {
+        "from": "book:tools-and-progress",
+        "to": "beyond-the-projection",
+        "rel": "collects",
+        "label": "超越投射 / Beyond the Projection"
       }
     ]
   }
