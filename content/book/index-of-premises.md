@@ -1988,7 +1988,7 @@ Folding all known sequences presumes the catalogue is the domain's full structur
 
 The paradox assumes tools act as neutral levellers; tools magnify initial cognitive intent, widening the divergence between sovereign judgment and mechanical mimicry.
 
-→ [The Amplification Paradox](../../posts/amplification-paradox/)
+→ [放大悖论 / The Amplification Paradox](../../posts/amplification-paradox/)
 
 ### 拟人化AI意识投射 / Anthropomorphic AI Projection
 `哲学 / Philosophical`

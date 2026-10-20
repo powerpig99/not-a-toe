@@ -12,7 +12,7 @@ The essays here explore antifragility in engineering, the calm tension between S
 
 ## 篇目 / Essays
 
-- [The Amplification Paradox](../../posts/amplification-paradox/)
+- [放大悖论 / The Amplification Paradox](../../posts/amplification-paradox/)
 - [The Exponential and the Linear Eye](../../posts/Analysis_Adolescence_of_Technology/)
 - [The Cybersecurity Arms Race: Categorical Perception Limits and Claim-Negation Coupling](../../posts/cybersecurity-arms-race/)
 - [Everything Is Changing, as Always](../../posts/everything-is-changing-as-always/)
