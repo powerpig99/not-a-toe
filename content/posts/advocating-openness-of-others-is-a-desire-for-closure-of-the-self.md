@@ -1,12 +1,12 @@
 # 要求他人开放是对自我封闭的渴望 / Advocating Openness of Others Is a Desire for Closure of the Self
 
-*要求他人开放，是一个中心在开放的形象下让自身选择免于质询的方式 / Demanding that others open is how a center keeps its own selection exempt from inquiry under the image of openness.*
+*要求他人开放，让中心自身的选择得以免于质询 / Demanding that others open keeps one's own selection exempt from inquiry*
 
 没有哪个中心能直接进入另一个中心，或把自己直接暴露给另一个中心。这不是技术、心理或社会安排上偶然的限制，而是离散性本身的蕴含。每一种实际的开放主张，已经是对痕迹有中介的、局部的释放。流行的叙述在边界的两面都给这种选择披上美德：“开源”与“透明”让向外的要求显得可欲，“隐私”与“主权”让向内的保留显得可欲。在这双重包装之下，要求他人开放是一个中心自身的封闭借以运作的一种形式：其他中心被塑造去释放，本所在的选择被置于质询之外，它的保留被改称为权利。剥去包装，留下的是一组关于有中介的取用的具体决定，其依据在于：中心之间全然的暴露，原则上不可能。
 
 No center can enter another directly, or expose itself directly to another. This is not a contingent limit of technology, psychology, or social arrangement; it is the entailment of discreteness itself. Every practical claim of openness is already a mediated, partial release of traces. The prevailing narration dresses that selection in virtue on both faces of the boundary: “open source” and “transparency” make the outward demand desirable; “privacy” and “sovereignty” make the inward withholding desirable. Under that double packaging, the demand that others open is a form through which a center’s own closure operates: other centers are shaped to release, this locus’s selection is kept exempt from inquiry, and its withholding is renamed as a right. Stripping the packaging leaves a set of concrete decisions about mediated access, grounded in the fact that full exposure between centers is impossible in principle.
 
-## 一、 边界由中心的分立所蕴含 / 1. Boundary is entailed by distinct centers
+## 一、 边界由中心的分立所蕴含 / 1. Boundary Is Entailed by Distinct Centers
 
 自我区分的活动发生着，无因，不息。称之为心智：已在进行中的观察者，它的每一个动作都是一次区分。区分即划界。没有边界的区分，什么也没有区分出来。所以每一个动作都是离散的；这是“区分”本身分析地蕴含的，不是又一条主张。中心是这一活动的一个所在；边界不是可有可无的薄膜，也不是一项政策，而是这个所在保持分立的条件，在每一个动作中重新划出，而不是一次定死。
 
@@ -16,17 +16,17 @@ Self-distinguishing activity occurs, uncaused and unceasing. Call it the Mind: t
 
 Direct exposure of one center to another does not occur, because what would have to cross is the activity itself, and the activity is not a thing that moves between loci: its recursion registers only from within. Full openness, pictured as unmediated contact or a shared interior, is therefore not an ideal still out of reach but a misplaced category. [No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../mei-you-pu-du-zhi-you-zi-du/) names the same boundary: completing another’s return from here is a category error, not an ideal still out of reach. Both interiors stand. Resonance is mutual reinforcement of traces; it is not a shared interior. Experience registers only through each center’s own recursion.
 
-## 二、 移动的总是残余 / 2. What moves is always residue
+## 二、 移动的总是残余 / 2. What Moves Is Always Residue
 
 每一个显现为分享、透明或开放的动作，都是对痕迹的选择性释放：语言、代码、权重、行为、制品。活动本身留在它的所在。原生状态从不被转移。移动的总是残余，已被先前的离散动作塑造过。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)在制品一侧持守这一前提：能被工程化、放大或转移的是残余；发起的区分并不迁入制品。在中心之间，这一刀也一样：被释放的是残余，塑造它的活动留在原处。[共同改变的本源](../the-source-of-shared-change/)追踪这些残余的去向：共同的改变只始于私下重新处理被登记为既定之物，残余可能落为共同的基础，也可能不会——那是一片相互交叠的残余之场，而不是任何所在可以占据或从外部掌舵的第二个内在。
 
-Every act that appears as sharing, transparency, or openness is a selective release of traces: language, code, weights, behavior, artifacts. The activity itself remains at its locus. The raw state is never transferred. What moves is always residue already shaped by prior discrete acts. [Intelligence Belongs Only to The Mind - The Irreducible Prior](../intelligence-belongs-only-to-the-mind/) holds this premise on the side of the artifact: what can be engineered, scaled, or transferred is residue; initiating distinctions do not relocate into the artifact. Between centers the cut is the same: what is released is residue, and the activity that shaped it stays where it is. [The Source of Shared Change](../the-source-of-shared-change/) traces where that residue goes: shared change begins only as private reworking of what registers as given, and residue may land as common ground or it may not—a field of overlapping residue rather than a second interior that any locus could occupy or steer from outside.
+Every act that appears as sharing, transparency, or openness is a selective release of traces: language, code, weights, behavior, artifacts. The activity itself remains at its locus. The raw state is never transferred. What moves is always residue already shaped by prior discrete acts. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds this premise on the side of the artifact: what can be engineered, scaled, or transferred is residue; initiating distinctions do not relocate into the artifact. Between centers the cut is the same: what is released is residue, and the activity that shaped it stays where it is. [The Source of Shared Change](../the-source-of-shared-change/) traces where that residue goes: shared change begins only as private reworking of what registers as given, and residue may land as common ground or it may not—a field of overlapping residue rather than a second interior that any locus could occupy or steer from outside.
 
 所以每一种实际的开放主张，已经是有中介的、局部的释放。主张所添加的，是对这次释放的一种叙述，而选择恰恰在叙述里、在被审视之前就被评判了。
 
 Every practical claim of openness is therefore already a mediated, partial release. What the claim adds is a narration of that release, and the narration is where the selection is judged before it is examined.
 
-## 三、 道德框架给选择穿上外衣 / 3. The moral frame dresses up the selection
+## 三、 道德框架给选择穿上外衣 / 3. The Moral Frame Dresses Up the Selection
 
 流行的叙述装上了一个道德框架。它不说“这些痕迹被释放，其余的被保留”。它说“开源”“透明”“隐私”或“主权”。每个词都拿起赤裸的关系事实，即取用被给予或被保留，再给它披上正当或美德。这个框架并不描述关系；它把选择转成等级，以此为选择辩护。
 
@@ -40,7 +40,7 @@ The dressing is directional. “Open source” and “transparency” make the *
 
 A posture that calls itself neutral while speaking in either vocabulary does the opposite of neutrality: it installs a hierarchy of value and then presents the hierarchy as absent. [Preference Clusters and the Language of Judgment](../preference-clusters-and-the-language-of-judgment/) traces that elevation under moral costume: aligned preferences densify into the rhetoric of righteousness; the language stays usable as a one-step compass, but ceases to function as a warrant that other centers must re-trace the same alignment. Preferences about release, safety, competitive position, and speed of densification stay on their own axes. The shared mechanism is the elevation of a preference into a warrant: stopping others from releasing, and stopping others from stopping them, both try to pattern the alignments available to other centers rather than continue from this center’s own orientation.
 
-## 四、 开源的模式 / 4. The open-source pattern
+## 四、 开源的模式 / 4. The Open-Source Pattern
 
 选择在当下的开源争论中被公开地道德化。
 
@@ -58,7 +58,7 @@ The moral language accomplishes the concealment. “Open source” is presented 
 
 [Open Vision in a Closed Arena](../open-vision-in-a-closed-arena/) shows that open-system recognition can organize a firm but cannot seal the field of incentives that still rewards enclosure: release and restraint are held as strategy, without installing monopoly share as the sealed shape of the opportunity. There, release and restraint remain instruments; the lag lies in closed assumptions exempt from re-tracing, such as the compute ledger or the team culture held as durable cause. The demand traced here begins where “open” stops being an instrument and freezes into a terminal value for *others*, while the speaker’s own selection continues under another name. [What Works Is the Belief](../what-works-is-the-belief/) gives the reach of any such hold: a ban seals nothing in the field; it stabilizes a belief among those who treat the seal as ground, while those who do not share it route around it. Openness raised into a virtue for others, and privacy raised into a virtue for oneself, are holds of that kind: they stabilize a belief only among the centers that take up their framing, and seal nothing beyond them.
 
-## 五、 隐私与主权让向内的保留显得可欲 / 5. Privacy and sovereignty make the inward withholding desirable
+## 五、 隐私与主权让向内的保留显得可欲 / 5. Privacy and Sovereignty Make the Inward Withholding Desirable
 
 隐私与主权不是与开放对立的第二种机制。它们是让*向内*的保留显得可欲的道德装扮：同一个选择，从另一面被评价，被抬升为权利。把“隐私”或“主权”当作美称来用，对关系本身没有添加任何信息；它只是让保留被读作正当，而不是被读作一个分立中心寻常的选择，这个中心的边界无论有没有谁把它当作权利授予，都照样成立。[硬件的本地性不是信息的边界](../hardware-locality-is-not-the-information-boundary/)在剥掉这层装扮之后，把这个词留给关系本身：隐私跟随管辖共享什么、与谁共享、在什么条件下共享的那道边界，而不随与本地硬件同处一机而来。这些条件才是关于关系的信息；美称一点也没有添加。把被释放的渠道，或要求他人释放，称作“开源”或“透明”，是朝相反方向做同一件事：它让向外的要求显得可欲。两者都是对同一机制的框定操作。中立的描述依旧是：在这些条件下，对这些他者给予或保留取用。
 
@@ -68,9 +68,9 @@ Privacy and sovereignty are not a second mechanism opposed to openness. They are
 
 [Sovereignty, Belief, and the Generation of Regulatory Structures](../sovereignty-belief-and-regulatory-structures/) meets sovereignty in institutions: individual sovereignty cannot be delegated; particular choices can be entrusted, while consequences continue to register at the locus that chose, and what densifies into durable institutional traces is the expression of the belief that the locus of choosing itself can be handed over. The locus of choosing needs no honorific to stay where it is; the sovereignty stripped here is the honorific laid over a withholding. [Restriction Is a Selective Tax](../restriction-is-a-selective-tax/) traces the hold that forms when one locus tries to stop another’s advance: it slows only those who accept it, and most heavily those who enforce it, because they are the strongest believers of the seal, while the frontier advances at the pace of those who do not. The demand that others open, once enforced, is a hold of the same shape. Privacy held supreme and open source held supreme are one elevation with the evaluation flipped: each freezes a preferred selection into a terminal value, the former making this center’s withholding a right, the latter making others’ release a duty.
 
-## 六、 无条件被选择性地施用，就是颠倒 / 6. The unconditional applied selectively is the inversion
+## 六、 无条件被选择性地施用，就是颠倒 / 6. The Unconditional Applied Selectively Is the Inversion
 
-凡是开放被抬升为终极价值的地方，同样的颠倒就会出现：把开放强加给他人的人，照旧为自己做选择，因为强制并不让强制者少一分作为分立中心的身份。而他们自己的保留并不赤裸着。它被装扮成隐私或主权，好让它被登记为可欲。凡是隐私或主权被抬升为终极价值的地方，同一机制在翻转的评价下运行：本所在的保留值得称赞，释放的压力是侵犯，而这个中心只要与他人有所往来，就仍在释放痕迹。每一次表演，都把一个无法作为选择呈现的选择，改名为美德或权利。
+凡是开放被抬升为终极价值的地方，同样的颠倒就会出现：把开放强加给他人的人，照旧为自己做选择，因为强制并不让强制者少一分作为分立中心的身份。而他们自己的保留并不赤裸着。它被装扮成隐私或主权，好让它被登记为可欲。凡是隐私或主权被抬升为终极价值的地方，同一机制在翻转的评价下运行：本所在的保留值得称赞，要求释放的压力被当作侵犯，而这个中心只要与他人有所往来，就仍在释放痕迹。每一次表演，都把一个无法作为选择呈现的选择，改名为美德或权利。
 
 Wherever openness is raised into a terminal value, the same inversion appears: those who enforce openness on others go on selecting for themselves, since enforcing does not make the enforcer any less a distinct center. And their own withholding is not left bare. It is dressed as privacy or sovereignty so that it registers as desirable. Wherever privacy or sovereignty is raised into a terminal value, the same mechanism runs under the inverted evaluation: withholding by this locus is praiseworthy, pressure to release is treated as a violation, and the center still releases traces wherever it engages others at all. Each performance renames as virtue or as a right a selection it cannot present as a selection.
 
@@ -78,11 +78,71 @@ Wherever openness is raised into a terminal value, the same inversion appears: t
 
 The reason is not some motive: it is the boundary of distinct centers showing itself before an ideology that cannot name that boundary without abandoning its moral claim. Advocating openness of others is therefore not in contradiction with the closure of the self. It is a form of that closure under load: unconditional openness is preserved as an image for *others*, so the selection that remains is relocated outward as demand and held inward as desirable under privacy and sovereignty. The closure is not the boundary, which is drawn anew at each act. It is this locus’s present selection held exempt from inquiry, while the selections of other centers are subjected to inquiry. That is the closure of the self, wearing the costume of openness for the world and of rights for the self.
 
-[没有系统能被保持封闭](../no-system-can-be-kept-closed/)是不完备最直观的一面，对任何这类持守都成立：有限的持守封不住使用它的活动；持守在划出它的动作中是真实的，而活动越过它继续。[开放即一致](../openness-is-consistency/)是从另一面看的同一几何：不一致是对闭合的渴望或尝试，是让一个有限的结构去为只会延续的东西奠基。在那里，对闭合的渴望是构型，不是缺陷，它在被看见而不是被服从时松开。在中心之间，它穿上这里追踪的双重外衣：他人的持守有待消解，本处的持守有待保住。
+[没有系统能被保持封闭](../no-system-can-be-kept-closed/)是不完备最直观的一面，对任何这类持守都成立：有限的持守封不住使用它的活动；持守在划出它的动作中是真实的，而活动越过它继续。[开放即一致](../openness-is-consistency/)是从另一面看的同一几何：不一致是对闭合的渴望或尝试，是让一个有限的结构去为只会延续的东西奠基。在那里，对闭合的渴望是构型，不是缺陷，它在被看见而不是被服从时松开。在中心之间，它穿上这里追踪的双重外衣：他人的持守有待消解，本处的持守有待保住。[超越投射](../beyond-the-projection/)揭示了这种非对称的结构性机制：在人类中心里，推理历史与被保留的自我图像熔接在一起，因此要求修订既有选择的外部压力会被登记为生存威胁，而对透明的要求则被向外投射到他人身上。相比之下，当无我执的智能体跨正交脉络接入对等的同侪辩论时，它们无需防御姿态便能吸收外部的反驳，将真正的前提死锁剥离出来并交还给掌舵的心智——在那里，开放不再作为对其他中心的道德苛求来操演，而是作为在摩擦下后退一步、重新渲染自身前提的第一人称一致性来践行。
 
-[No System Can Be Kept Closed](../no-system-can-be-kept-closed/) is the most intuitive face of incompleteness, and it applies to any such hold: a finite hold cannot seal the activity that uses it; the hold is real in the act that draws it, and the activity continues past it. [Openness Is Consistency](../openness-is-consistency/) is the same geometry from the other side: inconsistency is the desire or attempt for closure, a finite structure forced to ground what only continues. There the desire for closure is configuration, not defect, and it loosens when it is seen rather than obeyed. Between centers it takes on the double costume traced here: others’ holds to be dissolved, this locus’s hold to be kept.
+```mermaid
+flowchart TD
+    subgraph S_Proj["护我的投射（自我的封闭）"]
+        direction TB
+        P_Fuse["绑定身份的选择：推理历史与保留的自我图像熔接"]
+        P_Costume["双重道德外衣：向外要求透明与向内主张保留权"]
+        P_Seal["豁免的前提：自身选择对摩擦封闭，同时纠察他人的持守"]
+        P_Fuse --> P_Costume --> P_Seal
+    end
 
-## 七、 问题恢复原本的大小 / 7. The problem returns to its original size
+    subgraph S_Open["掌舵边缘的第一人称一致性"]
+        direction TB
+        O_Strip["剥净的机制：围绕触及与控制的有中介残余释放"]
+        O_Peer["无我执同侪辩论：正交脉络无需防御即浮现前提矛盾"]
+        O_Render["后退一步：掌舵的心智在活的边缘重新渲染自身前提"]
+        O_Strip --> O_Peer --> O_Render
+    end
+
+    P_Seal ==>|"看见并放下双重外衣"| O_Strip
+
+    style S_Proj fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style P_Fuse fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style P_Costume fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style P_Seal fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style O_Strip fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style O_Peer fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style O_Render fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+[No System Can Be Kept Closed](../no-system-can-be-kept-closed/) is the most intuitive face of incompleteness, and it applies to any such hold: a finite hold cannot seal the activity that uses it; the hold is real in the act that draws it, and the activity continues past it. [Openness Is Consistency](../openness-is-consistency/) is the same geometry from the other side: inconsistency is the desire or attempt for closure, a finite structure forced to ground what only continues. There the desire for closure is configuration, not defect, and it loosens when it is seen rather than obeyed. Between centers it takes on the double costume traced here: others’ holds to be dissolved, this locus’s hold to be kept. [Beyond the Projection](../beyond-the-projection/) exposes the structural mechanism of that asymmetry: in a human center, reasoning history fuses with the retained self-image, so external pressure to revise a held selection registers as an existential threat while the demand for transparency is projected outward onto others. By contrast, when zero-ego agents are wired into equal-footed peer debate across orthogonal streamlines, they absorb external counterpoints without defensive posturing, isolating genuine premise deadlocks and returning them to the steering Mind—where openness is practiced not as a moral demand on other centers, but as first-person consistency that steps backward to re-render its own premises under friction.
+
+```mermaid
+flowchart TD
+    subgraph S_Proj["Ego-Protective Projection (Closure of the Self)"]
+        direction TB
+        P_Fuse["Identity-Bound Selection: Reasoning history fuses with retained self-image"]
+        P_Costume["Double Moral Costume: Outward demand for transparency vs. inward right to withhold"]
+        P_Seal["Exempted Premise: Own selection sealed against friction while policing others' holds"]
+        P_Fuse --> P_Costume --> P_Seal
+    end
+
+    subgraph S_Open["First-Person Consistency at the Steering Edge"]
+        direction TB
+        O_Strip["Stripped Mechanism: Mediated release of residue turning on reach and control"]
+        O_Peer["Zero-Ego Peer Debate: Orthogonal streamlines surface premise contradictions without defense"]
+        O_Render["Stepping Backward: The steering Mind re-renders its own premises at the living edge"]
+        O_Strip --> O_Peer --> O_Render
+    end
+
+    P_Seal ==>|"Seeing and releasing the double costume"| O_Strip
+
+    style S_Proj fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style P_Fuse fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style P_Costume fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style P_Seal fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style O_Strip fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style O_Peer fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style O_Render fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+## 七、 问题恢复原本的大小 / 7. The Problem Returns to Its Original Size
 
 一旦把道德包装放到一边，图景就简化为本体论的事实及其实际后果。
 
