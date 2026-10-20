@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T16:08:46.174Z",
+    "generated_at": "2026-10-20T16:15:19.306Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -259,7 +259,7 @@
       "content/posts/the-geometry-of-success.md": "720f46e5d2cd",
       "content/posts/the-geometry-of-the-cut.md": "ae41a43f7e1a",
       "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "8b4bd95500b8",
-      "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "597da073549a",
+      "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "0722a4f48fdb",
       "content/posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function.md": "d0abfd039874",
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "db0930acf213",
       "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "cb240a9929c8",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9283,
-      "unique_directed": 4723,
+      "edges": 9285,
+      "unique_directed": 4724,
       "missing_targets": 0,
-      "one_way": 245,
+      "one_way": 246,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -441,7 +441,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 92
+      "in_degree": 93
     },
     {
       "slug": "openness-is-consistency",
@@ -1069,7 +1069,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 92,
+      "in_degree": 93,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -6792,9 +6792,9 @@
       "slug": "the-hard-problem-of-consciousness-is-consistent-with-learning",
       "path": "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md",
       "title": "意识的难题与学习相容 / The Hard Problem of Consciousness Is Consistent with Learning",
-      "hash": "597da073549a",
+      "hash": "0722a4f48fdb",
       "in_degree": 15,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "openness-is-consistency",
         "no-system-can-be-kept-closed",
@@ -6807,6 +6807,7 @@
         "what-cannot-be-kept",
         "token-efficiency-emulation-and-the-unclosable-gap",
         "clarity-isnt-a-state-you-arrive-at",
+        "beyond-the-projection",
         "causality-all-the-way",
         "the-presumption-of-agi-and-the-view-from-outside",
         "consciousness-never-appears-as-data-among-data"
@@ -47084,7 +47085,7 @@
       "from": "the-hard-problem-of-consciousness-is-consistent-with-learning",
       "to": "token-efficiency-emulation-and-the-unclosable-gap",
       "rel": "points_to",
-      "label": "Token 效率、模拟与无法弥合的间隙"
+      "label": "词元效率、模拟与无法弥合的间隙"
     },
     {
       "from": "the-hard-problem-of-consciousness-is-consistent-with-learning",
@@ -47109,6 +47110,18 @@
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
       "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
+    },
+    {
+      "from": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-hard-problem-of-consciousness-is-consistent-with-learning",
