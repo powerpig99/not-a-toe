@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T15:49:31.095Z",
+    "generated_at": "2026-10-20T15:52:27.501Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -236,7 +236,7 @@
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "cd6f36ce905c",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "fbc2f400c1b1",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "d92e0af3077c",
-      "content/posts/the-extendable-horizon.md": "b7c2185d0eca",
+      "content/posts/the-extendable-horizon.md": "dd7530fe02c3",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "bcd662973452",
       "content/posts/the-fallacy-of-post-success-parenting.md": "3c761a9c4e3c",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "760605280837",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9266,
-      "unique_directed": 4717,
+      "edges": 9268,
+      "unique_directed": 4718,
       "missing_targets": 0,
-      "one_way": 239,
+      "one_way": 240,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -441,7 +441,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 86
+      "in_degree": 87
     },
     {
       "slug": "openness-is-consistency",
@@ -1069,7 +1069,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 86,
+      "in_degree": 87,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -6264,9 +6264,9 @@
       "slug": "the-extendable-horizon",
       "path": "content/posts/the-extendable-horizon.md",
       "title": "可延展的地平线 / The Extendable Horizon",
-      "hash": "b7c2185d0eca",
+      "hash": "dd7530fe02c3",
       "in_degree": 12,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "the-arithmetic-of-the-register",
         "the-deterministic-machine",
@@ -6282,7 +6282,8 @@
         "zi-you-de-ce-bu-zhun",
         "cheng-gong-xue",
         "the-continuum-of-the-fold",
-        "dimensions-are-projections"
+        "dimensions-are-projections",
+        "beyond-the-projection"
       ]
     },
     {
@@ -44169,6 +44170,18 @@
       "to": "dimensions-are-projections",
       "rel": "points_to",
       "label": "Dimensions Are Projections"
+    },
+    {
+      "from": "the-extendable-horizon",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-extendable-horizon",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
