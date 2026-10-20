@@ -2375,7 +2375,7 @@ Picturing the Mind as a closed arena that receives only packaged contents, and s
 
 Reifying awareness assumes mind is an asset that can be hoarded, preserved, or captured; mind is the living locus of seeing, not an artifact to be possessed.
 
-→ [What Cannot Be Kept](../../posts/what-cannot-be-kept/) · [稳定与溢出 / Stability and Excess](../../posts/stability-and-excess/)
+→ [留不住的 / What Cannot Be Kept](../../posts/what-cannot-be-kept/) · [稳定与溢出 / Stability and Excess](../../posts/stability-and-excess/)
 
 ### 意识不能作为数据显现 / Consciousness Beyond Public Data
 `哲学 / Philosophical`

@@ -14,7 +14,7 @@ The essays in this part confront the hard problem of consciousness, the evolutio
 
 - [Tools as Active Extensions of Cognition](../../posts/extended-cognition-refined/)
 - [Perception and Perspective: The Collapse That Isn't There](../../posts/perception-perspective-refined/)
-- [What Cannot Be Kept](../../posts/what-cannot-be-kept/)
+- [留不住的 / What Cannot Be Kept](../../posts/what-cannot-be-kept/)
 - [The Maintenance Paradox](../../posts/the-maintenance-paradox/)
 - [Sensing Before Interpretation](../../posts/sensing-before-interpretation/)
 - [The Defining Seat](../../posts/the-defining-seat/)
