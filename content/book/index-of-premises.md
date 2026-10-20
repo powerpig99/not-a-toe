@@ -4220,7 +4220,7 @@ Cognition treats habituated mental models as direct objective reality; provision
 
 Instrumental models must drop out of active focus to enable higher-order action; when this drop-out solidifies, minds forget the scaffolding is an authored artifact.
 
-→ [The Scaffolding We Forget](../../posts/the-scaffolding-we-forget/)
+→ [遗忘的脚手架 / The Scaffolding We Forget](../../posts/the-scaffolding-we-forget/)
 
 ### 公共标量投影 / Scalar Metric Projection
 `数学 / Mathematical`

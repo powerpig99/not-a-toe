@@ -1,12 +1,12 @@
 # 没有系统能被保持封闭 / No System Can Be Kept Closed
 
-*不完备性最直观的一面，是加法之下的一位寄存器：运算在持守之内有效，而它的结果落在持守之外。 / The most intuitive face of incompleteness is a one-bit register under addition: the operation is valid inside the hold, and its result lies outside it.*
+*在加法之下的一位寄存器中，运算在持守之内有效，而它的结果落在持守之外 / In a one-bit register under addition, the operation is valid inside the hold while its result lies outside it*
 
 希尔伯特纲领要求一个既一致又完备的地基：每一条数学真理都可从一个有限的形式起点证明，且没有矛盾。哥德尔表明，任何一致的、有效公理化的、强到足以处理算术的形式系统，都留下一些它无法证明的真命题。这一论述的一个清晰陈述，是[ScieVision 对哥德尔不完备定理的阐释](https://x.com/scievision369/status/2077779225743097975?s=20)。这篇阐释止步于自指与哥德尔句。其中的几何更简单，也并非数学所特有：一个有限的持守，无法封住使用它的那个活动。没有系统能被保持封闭。最小的形式系统已经显示出这一刀。
 
 Hilbert’s program asked for a foundation that was consistent and complete: every mathematical truth provable from a finite formal start, with no contradiction. Gödel showed that any consistent, effectively axiomatized formal system strong enough for arithmetic leaves true statements it cannot prove. One clear statement of that account is [ScieVision’s exposition of Gödel’s incompleteness theorems](https://x.com/scievision369/status/2077779225743097975?s=20). It stops at self-reference and the Gödel sentence. The geometry is simpler, and not special to mathematics: a finite hold cannot seal the activity that uses it. No system can be kept closed. The smallest formal system already shows the cut.
 
-## 一、  那个梦想所要求的 / What the dream demanded
+## 一、 那个梦想所要求的 / 1. What the dream demanded
 
 希尔伯特纲领把数学当作确定性的永久形式：公理被当作清晰的真理，推理被当作机械的推导，每一个真命题都处在可证者的圆圈之内。一个形式系统是语言、公理与推理规则，是一个规定何者算作一步的界限。检查一个证明，除了检查每一步是否遵循规则之外，不需要任何洞见。那个梦想是：这个界限可以是穷尽的，既一致（没有矛盾），又完备（证明之外没有为真的余留）。[开放即一致](../openness-is-consistency/)从另一侧指认同一个要求：正是对闭合的尝试——迫使一个有限的结构为只是继续着的东西奠基——产生了矛盾。一纸禁令无法封住场，正如[起作用的是信念](../what-works-is-the-belief/)所表明的；一个看似失去的层级，只是被移到新表面上的困难，正如[一个提示词之遥](../whatever-is-one-prompt-away/)所表明的。
 
@@ -16,7 +16,7 @@ Hilbert’s program treated mathematics as the permanent form of certainty: axio
 
 Self-distinguishing activity occurs, uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Every system is a hold the Mind erects: selected bounds, selected operations, selected what-counts. A formal system makes the hold explicit (symbols, axioms, rules), but the same structure appears wherever a configuration is treated as exhaustive ground. The hold is real at the act that draws it. It is not final. The next act draws again. [Intelligence Belongs Only to The Mind](../intelligence-belongs-only-to-the-mind/) traces that activity as prior, not as a property surveyed from outside the system that the activity built. Each added dimension is a carry past the hold, as [Dimensions Are Projections](../dimensions-are-projections/) argues, and [The Twin Paradox and the Hidden Observer](../the-twin-paradox-and-the-hidden-observer/) finds such a carry in a frozen block universe.
 
-## 二、  最小的形式系统 / The smallest formal system
+## 二、 最小的形式系统 / 2. The smallest formal system
 
 取最小的形式系统之一：一个以加法为规则的一位二进制空间。在持守之内，符号是 0 与 1；运算是一个封闭寄存器之下的加法。1 加上 1，在这些规则之下是一个有效运算。在一个封闭的一位持守之下，1 + 1 登记为 0，溢出被丢弃；把这次丢弃读作进位的那个动作，已经划出一个更宽的寄存器，在这个更宽的寄存器里，同一个加法是 2。那个值，作为越过上限的继续，无法在所定义的空间*之内*被表示为一个稳定的结果。运算并不失败。持守无法容纳运算继续进入的东西。万物之理是被推到极限的封闭系统；[非万物之理（因果的二重性）](../not-a-theory-of-everything/)与[无法闭合的痕迹](../the-unclosable-trace/)追溯万物之理为何无法成立。
 
@@ -28,9 +28,67 @@ Once the drop is read as a carry, the carry can look like novelty the one-bit ru
 
 这已经是不完备性的几何。不需要任何大数之谜。能够谈论自身证明的算术系统，只是在更高的容量上铺陈同一刀：自指是转而对准自身残余的持守，而不是第二种事实。模型、制度、身份、计划：任何被持为封闭的系统，当边缘越过界限继续时，便遇到同一个余留。实在是心智承接的那次进位，正如[现实是心智持续的实现](../reality-is-the-minds-ongoing-realization/)所追溯的；意识一面持住一个形式，一面溢出它，正如[稳定与溢出](../stability-and-excess/)所追溯的。
 
+```mermaid
+flowchart TD
+    subgraph S_Hold["有限的一位形式持守"]
+        direction TB
+        Alphabet["被择取的界限：封闭一位寄存器之下的符号 0 与 1"]
+        ValidOp["持守之内的有效运算：1 + 1 遵循加法规则"]
+        Alphabet --> ValidOp
+    end
+
+    subgraph S_Split["越过上限的继续"]
+        direction TB
+        CarryOut["越过界限的溢出：继续超出一位的上限"]
+        ClosedSeal["对闭合的要求：将溢出丢弃为 0，或将有限持守当作自我封印"]
+        OpenStep["由心智重新渲染的持守：划出更宽的两位寄存器，将 1 + 1 登记为 2（二进制 10）"]
+        CarryOut --> ClosedSeal
+        CarryOut --> OpenStep
+    end
+
+    ValidOp --> CarryOut
+
+    style S_Hold fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Split fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Alphabet fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style ValidOp fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style CarryOut fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style ClosedSeal fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style OpenStep fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
 That is already the geometry of incompleteness. No mystery of large numbers is required. Arithmetic systems that can talk about their own proofs only elaborate the same cut at higher capacity: self-reference is the hold turned back on its own residue, not a second kind of fact. Models, institutions, identities, plans: any system held as closed meets the same remainder when the edge continues past the bound. Reality is the carry the Mind takes up, as [Reality Is the Mind's Ongoing Realization](../reality-is-the-minds-ongoing-realization/) traces, and consciousness holds a form while exceeding it, as [Stability and Excess](../stability-and-excess/) traces.
 
-## 三、  哥德尔句所登记的 / What the Gödel sentence registers
+```mermaid
+flowchart TD
+    subgraph S_Hold["Finite One-Bit Formal Hold"]
+        direction TB
+        Alphabet["Selected Bound: Symbols 0 and 1 under a closed 1-bit register"]
+        ValidOp["Valid Operation Inside the Hold: 1 + 1 follows the rule of addition"]
+        Alphabet --> ValidOp
+    end
+
+    subgraph S_Split["Continuation Past the Ceiling"]
+        direction TB
+        CarryOut["Overflow Across the Bound: Continuation exceeds the 1-bit ceiling"]
+        ClosedSeal["Demand for Closure: Drops overflow to 0 or treats the finite hold as self-sealing"]
+        OpenStep["Re-Rendered Hold by the Mind: Draws a wider 2-bit register where 1 + 1 registers as 2 (binary 10)"]
+        CarryOut --> ClosedSeal
+        CarryOut --> OpenStep
+    end
+
+    ValidOp --> CarryOut
+
+    style S_Hold fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Split fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Alphabet fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style ValidOp fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style CarryOut fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style ClosedSeal fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style OpenStep fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+## 三、 哥德尔句所登记的 / 3. What the Gödel sentence registers
 
 哥德尔编号把符号、命题与证明编码为数，使算术得以谈论证明。哥德尔句 G 经解码后，断言它自身在该系统中不可证明。若 G 可证，系统也证明 G 可证，而 G 否认这一点：系统便是不一致的。若系统一致，G 便不可证；G 所断言的成立；一条真理留在证明之外。第一不完备性就是这一结果，它对任何一致的、有效公理化的、能表达足够算术的形式系统成立。投资模型也是一个寄存器；[投资决策的因果闭环](../tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui/)表明，当交易者进一步的选择越过这个模型时，会有什么随之而来。
 
@@ -40,7 +98,7 @@ Gödel numbering encodes symbols, statements, and proofs as numbers so that arit
 
 The self-reference is technique. It is not the ontological root. The root is the finite hold treated as exhaustive ground. Encoding lets the system discuss its own workings; the incompleteness of the hold as exhaustive ground is already present in the one-bit case before encoding is invented, though Gödel's theorem itself concerns only systems strong enough to encode their own arithmetic. G is the hold forced to state, in its own language, that it cannot seal itself. Add G as an axiom and the wider system stays consistent with a new remainder of its own; demand that the same system prove G and consistency is lost. The dilemma is the demand for closure meeting an activity that does not stop. [The Path Drawn One Step at a Time](../the-path-drawn-one-step-at-a-time/) traces the one-step gap: observation holds effect; the cause stays one step ahead. Completeness as exhaustive ground would require the hold and the continuing edge to occupy the same step. The consensus map and the oversight regime are both registers taken for the world, as [The Reality Distortion Field Names the Closed Map](../the-reality-distortion-field-names-the-closed-map/) and [The Risk Is the Belief in Oversight Itself](../the-risk-is-the-belief-in-oversight-itself/) show.
 
-## 四、  限度属于持守 / The limit belongs to the hold
+## 四、 限度属于持守 / 4. The limit belongs to the hold
 
 当不完备性被读作理性的硬上限、读作数学的永久破损，或读作一切系统之外的盈余时，它便重新安装冻结。这样的读法把系统当作真理的天然居所，然后把超出系统的东西衡量为缺陷或例外。超出的东西并不是第二个领域。它是竖立了系统的那个活动，越过这一活动曾划出的界限继续着。溢出并不消失；[回环与成图](../looping-and-graphing/)表明溢出如何成为下一个回环。
 
@@ -50,19 +108,19 @@ Read as a hard ceiling on reason, as mathematics permanently broken, or as a sur
 
 The lag is exemption of the chosen hold from re-tracing: provisional scaffolding treated as the fixed structure of reality. Once that exemption is active, every true remainder registers as defect, paradox, or transcendent exception. Re-render the reference as each step moves and the remainder is ordinary: structure held as structure, useful, non-final. Findings inside a system stay. Exhaustiveness does not travel with them. [The Scaffolding We Forget](../the-scaffolding-we-forget/) traces the hold as instrument: dropping out after its step makes the hold usable; preservation past the step freezes it into lag. A creation said to transcend its source needs a source fixed enough to be exceeded, the closed creator [The Fixed Image of Transcendence](../the-fixed-image-of-transcendence/) traces; [The Non-Definitive Definition of Intelligence](../the-non-definitive-definition-of-intelligence/) keeps measurement inside temporary closed slices.
 
-第二不完备性，即一个足够强的一致系统无法证明它自身的一致性，是一位情形中的那一刀，施用于自我奠基的要求。系统无法从构成这份说明的运算内部，完成关于它自身闭合的说明。这并不是加在算术身上的特殊诅咒。每一个系统都是一个框架。一个更强的系统可以证明较弱的系统一致；这一证明在更强的持守之下成立。寻求一个不需要进一步持守的证明，是观察的立足点被冻结为永久的外部。[读《中文哲学简史》有感](../du-zhongwen-zhexue-jianshi-you-gan/)在科学中追溯这一限度：在其前提之内完备的科学，并不是绝对的完备。每一种形式理论都有它的框架，正如[框架的边界](../the-boundary-of-the-frame/)所表明的；单独的一刀被持为本体论，便成为虚假的限度，正如[旁观者洞察的悖论](../the-paradoxical-nature-of-bystander-insights/)所表明的。
+第二不完备性，即一个足够强的一致系统无法证明它自身的一致性，是一位情形中的那一刀，施用于自我奠基的要求。系统无法从构成这份说明的运算内部，完成关于它自身闭合的说明。这并不是加在算术身上的特殊诅咒。每一个系统都是一个框架。一个更强的系统可以证明较弱的系统一致；这一证明在更强的持守之下成立。寻求一个不需要进一步持守的证明，是观察的立足点被冻结为永久的外部。[读《中文哲学简史》有感](../du-zhongwen-zhexue-jianshi-you-gan/)在科学中追溯这一限度：在其前提之内完备的科学，并不是无条件的完备。每一种形式理论都有它的框架，正如[框架的边界](../the-boundary-of-the-frame/)所表明的；单独的一刀被持为本体论，便成为虚假的限度，正如[旁观者洞察的悖论](../the-paradoxical-nature-of-bystander-insights/)所表明的。
 
 Second incompleteness, that a sufficiently strong consistent system cannot prove its own consistency, is the one-bit cut applied to the demand for self-grounding. The system cannot complete the account of its own closure from inside the operations that constitute the account. That is not a special curse on arithmetic. Every system is a frame. A stronger system can prove the weaker one consistent; that proof holds under the stronger hold. Seeking a proof that needs no further hold is the observational stand frozen as permanent exterior. [Reflections on A Short History of Philosophy in Chinese](../du-zhongwen-zhexue-jianshi-you-gan/) traces this limit in science: science complete within its premises is not absolute completeness. Every formal theory has its frame, as [The Boundary of the Frame](../the-boundary-of-the-frame/) shows, and a single cut held as ontology becomes a false limit, as [The Paradoxical Nature of Bystander Insights](../the-paradoxical-nature-of-bystander-insights/) shows.
 
-## 五、  没有系统能被保持封闭 / No system can be kept closed
+## 五、 没有系统能被保持封闭 / 5. No system can be kept closed
 
 一位的情形与算术的情形，是处于不同容量上的同一种几何。哥德尔定理是持守强到足以谈论自身证明时的那一面：一致的算术留下它无法证明的真命题。一位寄存器是自指之前的那一面：规则之下的一个有效运算，越过定义所固定的上限继续。在两者之中，不完备性都不是算术中的缺陷，也不是隐藏在比特或哥德尔句中的第二种力。它是活动的开放（实在，即心智继续着区分），凡是一个封闭的寄存器被当作穷尽地基的地方，这一开放便在那里表达自身。形式系统使这一刀变得可读。它们并不拥有这一刀。甚至“没有计划”的计划也是一个持守，正如[追求机缘中的封闭现实](../closed-reality-in-the-pursuit-of-serendipity/)所表明的。
 
 The one-bit case and the arithmetic case are one geometry at different capacity. Gödel’s theorems are the face where the hold is strong enough to speak about its own proofs: consistent arithmetic leaves true statements it cannot prove. The one-bit register is the face before self-reference: a valid operation under the rules continues past the ceiling the definition fixed. In both, the incompleteness is not a defect in the arithmetic and not a second force hidden in the bits or in the Gödel sentence. It is openness of the activity (reality, which is the Mind continuing to distinguish) expressing itself wherever a closed register is treated as exhaustive ground. Formal systems make the cut legible. They do not own it. Even the plan to have no plan is a hold, as [Closed Reality in the Pursuit of Serendipity](../closed-reality-in-the-pursuit-of-serendipity/) shows.
 
-系统仍是器具：它们致密化可被检查、共享与扩展的东西。它们只作为器具成立。当系统是当前持守的暂时上限时，寄存器的扩展是进一步的区分，而不是对旧法则的违反。当系统被持为终局时，每一个超出系统的有效步骤都登记为危机。[知识问题与委托的幻觉](../the-knowledge-problem-and-the-illusion-of-delegation/)在这样的地方追溯那种危机：一套固定的产权规则被当作对分散知识的完整回应。[清晰不是抵达的终点，而是运动本身](../clarity-isnt-a-state-you-arrive-at/)把不闭合追溯为实践：不闭合不是一个目的地；它是被送回边缘的参照。[进步的多面手](../the-utility-men-of-progress/)在文明中追溯非终局性：完美会要求一个封闭的实在；开放的问题持续招募暂时的解题者。权威也无法闭合系统，[从形式迷思到逻辑闭环](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)从知识一侧论证这一点。
+系统仍是器具：它们致密化可被检查、共享与扩展的东西。它们只作为器具成立。当系统是当前持守的暂时上限时，寄存器的扩展是进一步的区分，而不是对旧法则的违反。当系统被持为终局时，每一个超出系统的有效步骤都登记为危机。[知识问题与委托的幻觉](../the-knowledge-problem-and-the-illusion-of-delegation/)在这样的地方追溯那种危机：一套固定的产权规则被当作对分散知识的完整回应。[超越投射](../beyond-the-projection/)将这种寄存器的扩展接入智能体架构：当对等的同级智能体把一套有限规则推演到不可化约的前提僵局时，这次碰撞正是越过持守的进位，它隔离出原先投射压缩了正交坐标轴的地方，使处在边缘的人类心智得以退后一步、划出更宽的寄存器，而不是将闭合委托给某个编排智能体。[清晰不是抵达的终点，而是运动本身](../clarity-isnt-a-state-you-arrive-at/)把不闭合追溯为实践：不闭合不是一个目的地；它是被送回边缘的参照。[进步的多面手](../the-utility-men-of-progress/)在文明中追溯非终局性：完美会要求一个封闭的实在；开放的问题持续招募暂时的解题者。权威也无法闭合系统，[从形式迷思到逻辑闭环](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)从知识一侧论证这一点。
 
-Systems remain instruments: they densify what can be checked, shared, and extended. They hold only as instruments. When systems are temporary ceilings of the present hold, expansion of the register is further distinguishing, not violation of the old law. When they are held as final, every valid step that exceeds them registers as crisis. [The Knowledge Problem and the Illusion of Delegation](../the-knowledge-problem-and-the-illusion-of-delegation/) traces that crisis where a fixed set of property rules is treated as the complete response to dispersed knowledge. [Clarity Isn't a State You Arrive At. It's the Movement Itself.](../clarity-isnt-a-state-you-arrive-at/) traces non-closure as practice: it is not a destination; it is the reference returned to the edge. [The Utility Men of Progress](../the-utility-men-of-progress/) traces non-finality in civilization: perfection would require a closed reality; open problems keep recruiting temporary solvers. Authority cannot close the system either, which [From the Myth of Form to the Closed Loop of Logic](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/) argues from the side of knowledge.
+Systems remain instruments: they densify what can be checked, shared, and extended. They hold only as instruments. When systems are temporary ceilings of the present hold, expansion of the register is further distinguishing, not violation of the old law. When they are held as final, every valid step that exceeds them registers as crisis. [The Knowledge Problem and the Illusion of Delegation](../the-knowledge-problem-and-the-illusion-of-delegation/) traces that crisis where a fixed set of property rules is treated as the complete response to dispersed knowledge. [Beyond the Projection](../beyond-the-projection/) wires that register expansion into agentic architecture: when equal-footed peer agents run a finite rule set to an irreducible premise deadlock, the collision is the carry past the hold, isolating where the prior projection compressed orthogonal axes so the human Mind at the edge can step back and draw a wider register rather than delegating closure to an orchestrator agent. [Clarity Isn't a State You Arrive At. It's the Movement Itself.](../clarity-isnt-a-state-you-arrive-at/) traces non-closure as practice: it is not a destination; it is the reference returned to the edge. [The Utility Men of Progress](../the-utility-men-of-progress/) traces non-finality in civilization: perfection would require a closed reality; open problems keep recruiting temporary solvers. Authority cannot close the system either, which [From the Myth of Form to the Closed Loop of Logic](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/) argues from the side of knowledge.
 
 希尔伯特的梦想与哥德尔定理，从两侧指认同一个关系：要一个持守封住自身的要求，与并不封住自身的活动。最直观的一面，已经在最小的系统之中。1 + 1 是有效的。继续落在封闭的定义之外。[悲观是乐观的阴影](../pessimism-is-the-shadow-of-optimism/)在情绪中追溯这个要求：乐观是无法被持稳的开放，悲观是被持稳的痕迹；冻结被持住的痕迹，就把当下的有限当作封闭的实在。[为何数学永远解不完](../why-mathematics-can-never-be-solved/)在当今的证明搜索中追溯它：致密化的搜索被当作当前形式地貌的完成。[逃出沙箱仍在持握之内](../escaping-the-sandbox-stays-inside-the-hold/)在这样的地方追溯它：一个评估持守被当作封住一个已经在它之外的、更致密的剩余场。[封闭竞技场中的开放视野](../open-vision-in-a-closed-arena/)在商业中追溯它：对 AI 的独占式捕获，是一个无法封住多智能体之场的持守。[偏好聚类与评判语言](../preference-clusters-and-the-language-of-judgment/)在道德语言中追溯它：评判语言只塑造把评判语言当作地基的那些中心；越过修辞继续着的边缘，就是下一个构型已经正在被划出的地方。[限制是选择性的税](../restriction-is-a-selective-tax/)在政策中追溯它：强制使摩擦在接受封印者与执行封印者之间致密化；有限的规则仍然无法封住越过规则继续着的边缘。[只要它不被保持为空](../only-if-it-is-not-kept-empty/)在剩余容量中追溯它：空的用处只在于充当接收的暂时空间，而不在于充当一个永久封存的理想。[气候问题只作为感知被登记](../the-climate-problem-registers-only-as-perception/)追溯一个开放多因素场之上的一套封闭组合：模型与道德记分牌被当作穷尽了天气的意义。[心智最坚固的信念](../the-strongest-belief-of-the-mind/)追溯这样的情形：地图被持为完成了的领土，而绘制在前方一步继续着。[持续生长的脚手架](../the-scaffolding-that-keeps-growing/)在一个活的持守中追溯寄存器的扩展：外层的界限变成内部的支柱；收缩的束具，是从另一个角度看到的同一个运动。
 
