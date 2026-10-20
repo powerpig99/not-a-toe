@@ -4049,7 +4049,7 @@ Analogical reasoning presumes shared structural metaphors imply identical mechan
 
 Chain-of-thought distillation assumes compressed scratchpads replicate genuine reasoning; models emulate the stylistic cadence of problem-solving without genuine epistemic discovery.
 
-→ [Token Efficiency, Emulation, and the Unclosable Gap](../../posts/token-efficiency-emulation-and-the-unclosable-gap/)
+→ [Token 效率、模拟与无法弥合的间隙 / Token Efficiency, Emulation, and the Unclosable Gap](../../posts/token-efficiency-emulation-and-the-unclosable-gap/)
 
 ### 运行框架解锁潜在能力 / The Harness Unlocks Latent Capability
 `技术 / Technological`

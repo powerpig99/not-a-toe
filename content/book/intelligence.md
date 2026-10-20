@@ -34,7 +34,7 @@ The essays in this part dissect Geoffrey Hinton's cognitive leaps, the limits of
 - [基准刷榜中的封闭实存 / Closed Reality in Benchmark Maxing](../../posts/closed-reality-in-benchmark-maxing/)
 - [The Non-Definitive Definition of Intelligence](../../posts/the-non-definitive-definition-of-intelligence/)
 - [总在倾听者无法发起 / What Always Listens Cannot Originate](../../posts/what-always-listens-cannot-originate/)
-- [Token Efficiency, Emulation, and the Unclosable Gap](../../posts/token-efficiency-emulation-and-the-unclosable-gap/)
+- [Token 效率、模拟与无法弥合的间隙 / Token Efficiency, Emulation, and the Unclosable Gap](../../posts/token-efficiency-emulation-and-the-unclosable-gap/)
 - [造物无法取代其源头 / A Creation Cannot Replace Its Source](../../posts/a-creation-cannot-replace-its-source/)
 - [模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge](../../posts/the-model-never-becomes-a-second-edge/)
 - [Escaping the Sandbox Stays Inside the Hold](../../posts/escaping-the-sandbox-stays-inside-the-hold/)
