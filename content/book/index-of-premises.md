@@ -4364,7 +4364,7 @@ AI取代人类的恐慌预设受造物可让创造它的源泉作废；工具由
 
 AI replacement fear presumes created instruments can obsolete their originating creator; tools inherit parameters from human intent, remaining subordinate to living agency.
 
-→ [A Creation Cannot Replace Its Source](../../posts/a-creation-cannot-replace-its-source/)
+→ [造物无法取代其源头 / A Creation Cannot Replace Its Source](../../posts/a-creation-cannot-replace-its-source/)
 
 ### 光速作为现实渲染率 / Speed of Light as Rendering Velocity
 `科学 / Scientific`

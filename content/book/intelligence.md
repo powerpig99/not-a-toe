@@ -35,7 +35,7 @@ The essays in this part dissect Geoffrey Hinton's cognitive leaps, the limits of
 - [The Non-Definitive Definition of Intelligence](../../posts/the-non-definitive-definition-of-intelligence/)
 - [What Always Listens Cannot Originate](../../posts/what-always-listens-cannot-originate/)
 - [Token Efficiency, Emulation, and the Unclosable Gap](../../posts/token-efficiency-emulation-and-the-unclosable-gap/)
-- [A Creation Cannot Replace Its Source](../../posts/a-creation-cannot-replace-its-source/)
+- [造物无法取代其源头 / A Creation Cannot Replace Its Source](../../posts/a-creation-cannot-replace-its-source/)
 - [模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge](../../posts/the-model-never-becomes-a-second-edge/)
 - [Escaping the Sandbox Stays Inside the Hold](../../posts/escaping-the-sandbox-stays-inside-the-hold/)
 - [错把表达当成智能 / Mistaking the Expression for the Intelligence](../../posts/mistaking-the-expression-for-the-intelligence/)

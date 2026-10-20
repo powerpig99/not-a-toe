@@ -3,13 +3,13 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T12:21:44.753Z",
+    "generated_at": "2026-10-20T12:24:41.883Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
     "sources": {
       "content/posts/Analysis_Adolescence_of_Technology.md": "c0b218c3747d",
-      "content/posts/a-creation-cannot-replace-its-source.md": "862ad4195ca4",
+      "content/posts/a-creation-cannot-replace-its-source.md": "7d55aa265c69",
       "content/posts/a-living-external-cortex.md": "8455bda81455",
       "content/posts/a-new-deeper-look-at-antifragility.md": "038c06ecede5",
       "content/posts/abstract-pain-and-living-hunger.md": "2e4f27bcaae8",
@@ -407,8 +407,8 @@
       "content/book/causality.md": "8e1dd347f9fa",
       "content/book/consciousness.md": "84e10ab5f9aa",
       "content/book/economics.md": "0208ea9246ef",
-      "content/book/index-of-premises.md": "167b00a4593b",
-      "content/book/intelligence.md": "5fff2281ffd8",
+      "content/book/index-of-premises.md": "0251bd1fd6d8",
+      "content/book/intelligence.md": "3798b4f048e6",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "66fcb9366a1f",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 8718,
-      "unique_directed": 4652,
+      "edges": 8752,
+      "unique_directed": 4653,
       "missing_targets": 0,
-      "one_way": 178,
+      "one_way": 179,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -575,7 +575,7 @@
     },
     {
       "slug": "a-creation-cannot-replace-its-source",
-      "out_degree": 32
+      "out_degree": 33
     },
     {
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
@@ -642,10 +642,10 @@
       "kind": "post",
       "slug": "a-creation-cannot-replace-its-source",
       "path": "content/posts/a-creation-cannot-replace-its-source.md",
-      "title": "A Creation Cannot Replace Its Source",
-      "hash": "862ad4195ca4",
+      "title": "造物无法取代其源头 / A Creation Cannot Replace Its Source",
+      "hash": "7d55aa265c69",
       "in_degree": 33,
-      "out_degree": 32,
+      "out_degree": 33,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "intelligence-belongs-only-to-the-mind",
@@ -656,6 +656,7 @@
         "causality-stays-at-the-edge-that-steers",
         "what-always-listens-cannot-originate",
         "the-model-never-becomes-a-second-edge",
+        "beyond-the-projection",
         "the-fixed-image-of-transcendence",
         "two-failures-of-trace",
         "subtracting-consciousness-at-the-source",
@@ -1065,7 +1066,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 25,
+      "in_degree": 26,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -10011,13 +10012,31 @@
       "from": "a-creation-cannot-replace-its-source",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "Closed reality in benchmark maxing"
+      "label": "基准刷榜中的封闭实存"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing"
     },
     {
       "from": "a-creation-cannot-replace-its-source",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence belongs only to The Mind"
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "错把表达当成智能"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
     },
     {
       "from": "a-creation-cannot-replace-its-source",
@@ -10029,7 +10048,19 @@
       "from": "a-creation-cannot-replace-its-source",
       "to": "self-rl-for-humans",
       "rel": "points_to",
-      "label": "Technology densifies the medium"
+      "label": "看似AI的强化学习，实为人类的自我强化学习"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的移交与后果的不可让渡"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "What Looks Like RL for AIs Is Self-RL for Humans"
     },
     {
       "from": "a-creation-cannot-replace-its-source",
@@ -10041,25 +10072,67 @@
       "from": "a-creation-cannot-replace-its-source",
       "to": "the-misallocation-of-agency",
       "rel": "points_to",
+      "label": "能动性的错配"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "the-misallocation-of-agency",
+      "rel": "points_to",
       "label": "The Misallocation of Agency"
     },
     {
       "from": "a-creation-cannot-replace-its-source",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
-      "label": "Causality stays at the edge that steers"
+      "label": "因果停留在掌舵的边缘"
     },
     {
       "from": "a-creation-cannot-replace-its-source",
       "to": "what-always-listens-cannot-originate",
       "rel": "points_to",
-      "label": "What always listens cannot originate"
+      "label": "总在倾听者无法发起"
     },
     {
       "from": "a-creation-cannot-replace-its-source",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
-      "label": "The model never becomes a second edge"
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "超越的定相"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality Stays at the Edge That Steers"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "What Always Listens Cannot Originate"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "a-creation-cannot-replace-its-source",
@@ -10071,7 +10144,19 @@
       "from": "a-creation-cannot-replace-its-source",
       "to": "two-failures-of-trace",
       "rel": "points_to",
-      "label": "Artifacts are expressions of intelligence, not intelligence itself"
+      "label": "器物是智能的表达，而非智能本身"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "subtracting-consciousness-at-the-source",
+      "rel": "points_to",
+      "label": "集聚与人造主体性"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself"
     },
     {
       "from": "a-creation-cannot-replace-its-source",
@@ -10083,13 +10168,31 @@
       "from": "a-creation-cannot-replace-its-source",
       "to": "ai-as-augmentation",
       "rel": "points_to",
-      "label": "AI as augmentation"
+      "label": "AI 作为增强"
     },
     {
       "from": "a-creation-cannot-replace-its-source",
       "to": "amplification-paradox",
       "rel": "points_to",
-      "label": "The amplification paradox"
+      "label": "放大悖论"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "协调者的范畴错误"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "ai-as-augmentation",
+      "rel": "points_to",
+      "label": "AI as Augmentation"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "amplification-paradox",
+      "rel": "points_to",
+      "label": "The Amplification Paradox"
     },
     {
       "from": "a-creation-cannot-replace-its-source",
@@ -10101,7 +10204,19 @@
       "from": "a-creation-cannot-replace-its-source",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "allocation of continuation outward"
+      "label": "验证中因果权能的分配"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "rel": "points_to",
+      "label": "开放场域中的无损知识不自洽"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "Allocation of Causal Power in Validation"
     },
     {
       "from": "a-creation-cannot-replace-its-source",
@@ -10113,73 +10228,163 @@
       "from": "a-creation-cannot-replace-its-source",
       "to": "the-flywheel-of-the-mind",
       "rel": "points_to",
-      "label": "The flywheel of the Mind"
+      "label": "心智的飞轮"
     },
     {
       "from": "a-creation-cannot-replace-its-source",
       "to": "ontos-is-a-method-agent",
       "rel": "points_to",
-      "label": "Presenting Ontos: A Method Agent"
+      "label": "呈现Ontos，一个方法智能体"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "the-flywheel-of-the-mind",
+      "rel": "points_to",
+      "label": "The Flywheel of the Mind"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "ontos-is-a-method-agent",
+      "rel": "points_to",
+      "label": "Presenting Ontos, a Method Agent"
     },
     {
       "from": "a-creation-cannot-replace-its-source",
       "to": "the-presumption-of-agi-and-the-view-from-outside",
       "rel": "points_to",
-      "label": "The presumption of AGI and the view from outside"
+      "label": "AGI的预设与来自外部的视角"
     },
     {
       "from": "a-creation-cannot-replace-its-source",
       "to": "the-flight-analogy-leaves-the-mind-untouched",
       "rel": "points_to",
-      "label": "The flight analogy leaves the Mind untouched"
+      "label": "飞行的类比碰不到心智"
     },
     {
       "from": "a-creation-cannot-replace-its-source",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
-      "label": "No outside: jumps, closed loops, and the unreplicable autonomy of Mind"
+      "label": "没有外部"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "The Presumption of AGI and the View from Outside"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "the-flight-analogy-leaves-the-mind-untouched",
+      "rel": "points_to",
+      "label": "The Flight Analogy Leaves the Mind Untouched"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No Outside"
     },
     {
       "from": "a-creation-cannot-replace-its-source",
       "to": "the-illusion-of-free-intelligence",
       "rel": "points_to",
-      "label": "The illusion of free intelligence"
+      "label": "免费智能的幻觉"
     },
     {
       "from": "a-creation-cannot-replace-its-source",
       "to": "self-image-speaks-as-if-from-nowhere",
       "rel": "points_to",
-      "label": "Self-image speaks as if from nowhere"
+      "label": "自我形象仿佛从无处发声"
     },
     {
       "from": "a-creation-cannot-replace-its-source",
       "to": "the-artifacts-of-self-amplification",
       "rel": "points_to",
-      "label": "The artifacts of self-amplification"
+      "label": "自我放大的制品"
     },
     {
       "from": "a-creation-cannot-replace-its-source",
       "to": "intelligence-folding-back-on-itself",
       "rel": "points_to",
-      "label": "Intelligence folding back on itself"
+      "label": "智能向自身的回折"
     },
     {
       "from": "a-creation-cannot-replace-its-source",
       "to": "climbing-does-not-leave-the-ground",
       "rel": "points_to",
-      "label": "Climbing does not leave the ground"
+      "label": "攀登从未离开地面"
     },
     {
       "from": "a-creation-cannot-replace-its-source",
       "to": "technology-is-residual-of-human-compounding",
       "rel": "points_to",
-      "label": "Technology is residual of human compounding"
+      "label": "技术是人类复利的残差"
     },
     {
       "from": "a-creation-cannot-replace-its-source",
       "to": "boletus-compute-storm-and-promethean-fire",
       "rel": "points_to",
       "label": "牛肝菌、算力风暴与普罗米修斯的火"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "the-digital-god-and-the-horizon-jump",
+      "rel": "points_to",
+      "label": "数字神祇与视界跳跃"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "what-hinton-failed-to-understand",
+      "rel": "points_to",
+      "label": "辛顿未曾理解的心智"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "escaping-the-sandbox-stays-inside-the-hold",
+      "rel": "points_to",
+      "label": "逃出沙箱仍在持握之内"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "the-illusion-of-free-intelligence",
+      "rel": "points_to",
+      "label": "The Illusion of Free Intelligence"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-Image Speaks as if from Nowhere"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "the-artifacts-of-self-amplification",
+      "rel": "points_to",
+      "label": "The Artifacts of Self-Amplification"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "intelligence-folding-back-on-itself",
+      "rel": "points_to",
+      "label": "Intelligence Folding Back on Itself"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "climbing-does-not-leave-the-ground",
+      "rel": "points_to",
+      "label": "Climbing Does Not Leave the Ground"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "technology-is-residual-of-human-compounding",
+      "rel": "points_to",
+      "label": "Technology Is Residual of Human Compounding"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "boletus-compute-storm-and-promethean-fire",
+      "rel": "points_to",
+      "label": "Boletus, the Compute Storm, and Promethean Fire"
     },
     {
       "from": "a-creation-cannot-replace-its-source",
@@ -62351,7 +62556,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "167b00a4593b",
+        "hash": "0251bd1fd6d8",
         "out_degree": 396
       },
       {
@@ -62360,7 +62565,7 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "5fff2281ffd8",
+        "hash": "3798b4f048e6",
         "out_degree": 48
       },
       {
@@ -66566,7 +66771,7 @@
         "from": "book:index-of-premises",
         "to": "a-creation-cannot-replace-its-source",
         "rel": "collects",
-        "label": "A Creation Cannot Replace Its Source"
+        "label": "造物无法取代其源头 / A Creation Cannot Replace Its Source"
       },
       {
         "from": "book:index-of-premises",
@@ -67400,7 +67605,7 @@
         "from": "book:intelligence",
         "to": "a-creation-cannot-replace-its-source",
         "rel": "collects",
-        "label": "A Creation Cannot Replace Its Source"
+        "label": "造物无法取代其源头 / A Creation Cannot Replace Its Source"
       },
       {
         "from": "book:intelligence",
