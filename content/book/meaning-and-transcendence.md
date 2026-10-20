@@ -16,7 +16,7 @@ The essays in this part examine theological projections, the mirage of physical 
 - [Immortality and the Two-Infinity Confusion](../../posts/immortality-final/)
 - [The Structure of Meaning](../../posts/meaning-of-life-refined/)
 - [Separation Isn't the Disease](../../posts/naval-separation-analysis/)
-- [普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。](../../posts/mei-you-pu-du-zhi-you-zi-du/)
+- [没有普渡，只有自渡的无限可能 / No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../../posts/mei-you-pu-du-zhi-you-zi-du/)
 - [有无之边](../../posts/you-wu-zhi-bian/)
 - [The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing](../../posts/the-meaning-of-life-is-in-the-drafting/)
 - [自由的心智被声称保护它的东西取代 / The Free Mind Is Displaced by What Claims to Protect It](../../posts/the-free-mind-is-displaced-by-what-claims-to-protect-it/)

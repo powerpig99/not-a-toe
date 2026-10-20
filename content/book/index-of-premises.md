@@ -2105,7 +2105,7 @@ Big data omniscience presumes that once enough data is gathered, intelligence an
 
 The Bodhisattva vow presumes deferring personal liberation until all beings are saved; useful for cultivating boundless compassion, it reifies an external world of others.
 
-→ [普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。](../../posts/mei-you-pu-du-zhi-you-zi-du/)
+→ [没有普渡，只有自渡的无限可能 / No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../../posts/mei-you-pu-du-zhi-you-zi-du/)
 
 ### 未历摩擦的心智与借来的全能 / Borrowed Omnipotence without Friction
 `成功学 / Self-Help`
@@ -2663,7 +2663,7 @@ The outside view assigns positive-sum agency to the few at the register's outerm
 
 Validation-seeking presumes external observers can certify inner reality; deferring judgment transfers causal sovereignty to others, locking the mind in reactive defense.
 
-→ [The Allocation of Causal Power in Validation](../../posts/the-allocation-of-causal-power-in-validation/)
+→ [验证中因果权能的分配 / The Allocation of Causal Power in Validation](../../posts/the-allocation-of-causal-power-in-validation/)
 
 ### 外部道德记账论 / Objective Moral Scorekeeping
 `意识形态 / Ideological`
@@ -4994,7 +4994,7 @@ Bearing one's own profit and loss keeps decision and final loss in one loop, of 
 
 Universal salvation presumes enlightened teachers can rescue other souls; awareness is strictly first-person, rendering liberation an act of personal awakening.
 
-→ [普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。](../../posts/mei-you-pu-du-zhi-you-zi-du/)
+→ [没有普渡，只有自渡的无限可能 / No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../../posts/mei-you-pu-du-zhi-you-zi-du/)
 
 ### 抽象的共有普世人性 / Universal Shared Humanity Abstract
 `哲学 / Philosophical`

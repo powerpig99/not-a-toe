@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T12:02:33.473Z",
+    "generated_at": "2026-10-20T12:04:55.985Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -118,7 +118,7 @@
       "content/posts/manifesto-of-not-a-theory-of-everything.md": "218bcf935275",
       "content/posts/math-as-a-career-is-not-math-as-a-pursuit.md": "295f0ae6bd95",
       "content/posts/meaning-of-life-refined.md": "2157fd1da622",
-      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "d4fb9ab26507",
+      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "110a7602de71",
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "57fc51f7e01d",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
@@ -193,7 +193,7 @@
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "6c83b39b6e3f",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "8def0ea22390",
       "content/posts/technology-is-residual-of-human-compounding.md": "c3e3b6d44dfb",
-      "content/posts/the-allocation-of-causal-power-in-validation.md": "ec83b4012453",
+      "content/posts/the-allocation-of-causal-power-in-validation.md": "f3c8e3c7b4a1",
       "content/posts/the-arithmetic-of-the-register.md": "1c7a77817624",
       "content/posts/the-artifacts-of-self-amplification.md": "c4cf6c315bd8",
       "content/posts/the-asymmetry-of-understanding.md": "abb8bebb125a",
@@ -404,15 +404,15 @@
       "content/posts/zi-you-de-ce-bu-zhun.md": "9c0ed3a2d8d9",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "46323a1926a8",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "6b5c78c47928",
-      "content/book/causality.md": "3d3c38ed55ed",
+      "content/book/causality.md": "8e1dd347f9fa",
       "content/book/consciousness.md": "84e10ab5f9aa",
       "content/book/economics.md": "5f09ac3fbf19",
-      "content/book/index-of-premises.md": "d5198041a1ac",
+      "content/book/index-of-premises.md": "44311c5b4c43",
       "content/book/intelligence.md": "6654639edeb7",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "66fcb9366a1f",
-      "content/book/meaning-and-transcendence.md": "c1d2a4521033",
+      "content/book/meaning-and-transcendence.md": "7a153f15ce09",
       "content/book/method.md": "fd31cb3cc090",
       "content/book/morality.md": "0024610ecad0",
       "content/book/physics.md": "26d82e9eb69f",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 8552,
-      "unique_directed": 4646,
+      "edges": 8639,
+      "unique_directed": 4648,
       "missing_targets": 0,
-      "one_way": 172,
+      "one_way": 174,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -547,11 +547,11 @@
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
-      "out_degree": 43
+      "out_degree": 44
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
-      "out_degree": 40
+      "out_degree": 41
     },
     {
       "slug": "causality-stays-at-the-edge-that-steers",
@@ -1065,7 +1065,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 19,
+      "in_degree": 21,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -3305,10 +3305,10 @@
       "kind": "post",
       "slug": "mei-you-pu-du-zhi-you-zi-du",
       "path": "content/posts/mei-you-pu-du-zhi-you-zi-du.md",
-      "title": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。",
-      "hash": "d4fb9ab26507",
+      "title": "没有普渡，只有自渡的无限可能 / No Universal Salvation, Only Boundless Possibilities of Self-Salvation",
+      "hash": "110a7602de71",
       "in_degree": 43,
-      "out_degree": 43,
+      "out_degree": 44,
       "links_out": [
         "when-the-effect-authors-the-frame",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
@@ -3352,7 +3352,8 @@
         "guan-yu-gui-yin",
         "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
         "causality-stays-at-the-edge-that-steers",
-        "the-inversion-of-the-harness-and-the-driver-seat-asymmetry"
+        "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+        "beyond-the-projection"
       ]
     },
     {
@@ -5249,10 +5250,10 @@
       "kind": "post",
       "slug": "the-allocation-of-causal-power-in-validation",
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
-      "title": "The Allocation of Causal Power in Validation",
-      "hash": "ec83b4012453",
+      "title": "验证中因果权能的分配 / The Allocation of Causal Power in Validation",
+      "hash": "f3c8e3c7b4a1",
       "in_degree": 40,
-      "out_degree": 40,
+      "out_degree": 41,
       "links_out": [
         "the-reality-distortion-field-names-the-closed-map",
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -5292,6 +5293,7 @@
         "agency-relocated-into-the-formal-model",
         "a-creation-cannot-replace-its-source",
         "the-model-never-becomes-a-second-edge",
+        "beyond-the-projection",
         "two-failures-of-trace",
         "what-always-listens-cannot-originate"
       ]
@@ -25093,6 +25095,12 @@
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "when-the-effect-authors-the-frame",
+      "rel": "points_to",
+      "label": "When the Effect Authors the Frame"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "rel": "points_to",
       "label": "“物理学才是定律”的障眼法"
@@ -25102,6 +25110,18 @@
       "to": "what-always-listens-cannot-originate",
       "rel": "points_to",
       "label": "总在倾听者无法发起"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "The Sleight of Hand in \"Physics Is the Law\""
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "What Always Listens Cannot Originate"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -25117,6 +25137,18 @@
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "the-npc-impression-is-structural",
+      "rel": "points_to",
+      "label": "The NPC Impression Is Structural, Not a Ranking of Minds"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "the-vector-and-the-puzzle-of-projections",
+      "rel": "points_to",
+      "label": "The Vector and the Puzzle of Projections"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
       "label": "生命的意义在起草之中"
@@ -25126,6 +25158,18 @@
       "to": "when-need-stops-being-the-measure",
       "rel": "points_to",
       "label": "当被需要不再是衡量"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "the-meaning-of-life-is-in-the-drafting",
+      "rel": "points_to",
+      "label": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "when-need-stops-being-the-measure",
+      "rel": "points_to",
+      "label": "When Need Stops Being the Measure"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -25141,6 +25185,18 @@
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "Digital Rockets, Peer Review, and the Dilution of the Causal Loop"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "how-to-fix-your-whole-life-in-one-split-second",
       "rel": "points_to",
       "label": "如何在一瞬间修正你的整个人生"
@@ -25150,6 +25206,18 @@
       "to": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
       "rel": "points_to",
       "label": "人生是一个持续的自我迭代过程"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "how-to-fix-your-whole-life-in-one-split-second",
+      "rel": "points_to",
+      "label": "How to Fix Your Whole Life in One Split Second"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+      "rel": "points_to",
+      "label": "Life as a Continuous Process of Self-Iteration"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -25177,6 +25245,30 @@
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "empowerment-establishes-the-centralization-of-power",
+      "rel": "points_to",
+      "label": "Empowerment Establishes the Centralization of Power"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "Politicians Are Visible Symptoms of Responsibility Diffusion"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "Liberation Rhetoric Begins by Defining Captivity"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "The Coordinator’s Category Error"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "rel": "points_to",
       "label": "同情是缺乏清晰时的占位符"
@@ -25197,7 +25289,7 @@
       "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "shared-humanity-is-never-shared",
       "rel": "points_to",
-      "label": "共享的人性从未被真正共享"
+      "label": "共同的人性从不共享"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -25213,6 +25305,42 @@
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "sympathy-is-a-placeholder-for-lack-of-clarity",
+      "rel": "points_to",
+      "label": "Sympathy Is a Placeholder for Lack of Clarity"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When Observation Becomes Performance"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "The Source of Shared Change"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "shared-humanity-is-never-shared",
+      "rel": "points_to",
+      "label": "Shared Humanity Is Never Shared"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "rel": "points_to",
+      "label": "Judging by Purpose and the Default State of Cognition"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "Performative Hindsight That Pretends to Be Foresight"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "not-a-theory-of-everything",
       "rel": "points_to",
       "label": "非万物之理（因果的二重性）"
@@ -25225,6 +25353,18 @@
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "Not a Theory of Everything"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "the-unclosable-trace",
+      "rel": "points_to",
+      "label": "The Unclosable Trace"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "freedom-as-ground",
       "rel": "points_to",
       "label": "自由即地基"
@@ -25234,6 +25374,18 @@
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
       "label": "现实是心智持续的实现"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "freedom-as-ground",
+      "rel": "points_to",
+      "label": "Freedom as Ground"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality Is the Mind's Ongoing Realization"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -25258,6 +25410,30 @@
       "to": "the-geometry-of-mind",
       "rel": "points_to",
       "label": "心智的几何学"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "rel": "points_to",
+      "label": "The Form of Enlightenment and the Inversion of Gates"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "qian-yin-hou-guo",
+      "rel": "points_to",
+      "label": "Cause Before, Effect After"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "evil-as-the-minds-own-creation",
+      "rel": "points_to",
+      "label": "Evil as the Mind’s Own Creation"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "the-geometry-of-mind",
+      "rel": "points_to",
+      "label": "The Geometry of Mind"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -25288,6 +25464,36 @@
       "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
       "rel": "points_to",
       "label": "要求他人开放是对自我封闭的渴望"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "the-bank-shot-and-the-magic-trick",
+      "rel": "points_to",
+      "label": "The Bank Shot and the Magic Trick"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "Expertise as Reference, Not Replacement"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "Preference Clusters and the Language of Judgment"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "rel": "points_to",
+      "label": "Good and Evil Are the Two Sides of the Coin and the Cut"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "rel": "points_to",
+      "label": "Advocating Openness of Others Is a Desire for Closure of the Self"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -25342,6 +25548,72 @@
       "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "rel": "points_to",
       "label": "框架的倒置与驾驶位的主权非对称"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "rel": "points_to",
+      "label": "The Belief in Utopia Is the Path to Dystopia"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "the-source-of-all-harm",
+      "rel": "points_to",
+      "label": "The Source of All Harm"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+      "rel": "points_to",
+      "label": "The Free Mind Is Displaced by What Claims to Protect It"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "Residual Individualism"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "sowell-observed-the-surface-problem",
+      "rel": "points_to",
+      "label": "Sowell Observed the Surface Problem"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "guan-yu-gui-yin",
+      "rel": "points_to",
+      "label": "On Attribution"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "rel": "points_to",
+      "label": "External Attribution Is the Obstacle to Personal Growth"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality Stays at the Edge That Steers"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "The Inversion of the Harness and the Sovereignty of the Driver's Seat"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "mi-lv-shi-jie-guo-de-biao-xiang",
@@ -36027,7 +36299,19 @@
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "the-reality-distortion-field-names-the-closed-map",
       "rel": "points_to",
+      "label": "现实扭曲力场指认的是封闭的地图"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "the-reality-distortion-field-names-the-closed-map",
+      "rel": "points_to",
       "label": "The Reality Distortion Field Names the Closed Map"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "伪装成远见的表演性后见"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
@@ -36039,7 +36323,31 @@
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "the-category-error-of-better",
       "rel": "points_to",
+      "label": "「更好」的范畴谬误"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "the-category-error-of-better",
+      "rel": "points_to",
       "label": "The Category Error of Better"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "秩序、剩余与道德拦截"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "悲观是乐观的阴影"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "the-causal-inversion-of-philosophical-agency",
+      "rel": "points_to",
+      "label": "哲学能动性的因果倒置"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
@@ -36063,7 +36371,25 @@
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
+      "label": "生产、消费与心智的区分"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
       "label": "Production, Consumption, and the Mind’s Distinction"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "进步叙事中的症候与原因"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "rel": "points_to",
+      "label": "隐性自由变量与权力的事后幻相"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
@@ -36081,7 +36407,25 @@
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
+      "label": "协调者的范畴错误"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
       "label": "The Coordinator’s Category Error"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "the-vector-and-the-puzzle-of-projections",
+      "rel": "points_to",
+      "label": "向量与投影的迷局"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "you-tiao-jian-de-zi-you",
+      "rel": "points_to",
+      "label": "有条件的自由"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
@@ -36094,6 +36438,48 @@
       "to": "you-tiao-jian-de-zi-you",
       "rel": "points_to",
       "label": "Conditional Freedom"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "the-homework-exam-inversion-registers-substitution",
+      "rel": "points_to",
+      "label": "作业与考试的倒置折射出替代效应"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "studying-the-effect-of-ai-relocates-causality",
+      "rel": "points_to",
+      "label": "研究AI效应重置了因果原点"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "the-unobservable-driver-of-learning",
+      "rel": "points_to",
+      "label": "学习中不可观测的驱动力"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "rel": "points_to",
+      "label": "对“AI 糟粕”的反感是反复出现的模式"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "the-generative-contradiction",
+      "rel": "points_to",
+      "label": "生成性的矛盾"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "因果贯穿始终"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "因果停留在掌舵的边缘"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
@@ -36141,6 +36527,18 @@
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
+      "label": "来自个体差异的层级"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
       "label": "Hierarchy from individual difference"
     },
     {
@@ -36153,6 +36551,18 @@
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "therapy-opens-the-feedback-loop",
       "rel": "points_to",
+      "label": "疗愈打开反馈回路"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "the-meaning-of-life-is-in-the-drafting",
+      "rel": "points_to",
+      "label": "生命的意义在起草之中"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "therapy-opens-the-feedback-loop",
+      "rel": "points_to",
       "label": "Therapy Opens the Feedback Loop"
     },
     {
@@ -36160,6 +36570,24 @@
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
       "label": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "empowerment-establishes-the-centralization-of-power",
+      "rel": "points_to",
+      "label": "赋权确立权力的集中"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "专家经验作为参考而非替代"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "the-ramble-within-the-ramble",
+      "rel": "points_to",
+      "label": "漫谈中的漫谈"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
@@ -36178,6 +36606,36 @@
       "to": "the-ramble-within-the-ramble",
       "rel": "points_to",
       "label": "The ramble within the ramble"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "拥有更多从不是原因"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "公共支出不创造资本"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "rel": "points_to",
+      "label": "拥有成本把滞后的平均值冻结为车辆属性"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "限制是选择性的税"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "偏好聚类与评判语言"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
@@ -36213,6 +36671,36 @@
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "the-strongest-belief-of-the-mind",
       "rel": "points_to",
+      "label": "心智最坚固的信念"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "信念如何真正改变"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "climbing-does-not-leave-the-ground",
+      "rel": "points_to",
+      "label": "攀登从未离开地面"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "理性选择公设是原罪"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "agency-relocated-into-the-formal-model",
+      "rel": "points_to",
+      "label": "能动性被转置入形式模型"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "the-strongest-belief-of-the-mind",
+      "rel": "points_to",
       "label": "The strongest belief of the Mind"
     },
     {
@@ -36243,6 +36731,36 @@
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
+      "label": "造物无法取代其源头"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "器物是智能的表达，而非智能本身"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "总在倾听者无法发起"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
       "label": "A Creation Cannot Replace Its Source"
     },
     {
@@ -36250,6 +36768,12 @@
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
@@ -61322,7 +61846,7 @@
         "slug": "causality",
         "path": "content/book/causality.md",
         "title": "因果的内外视界 / Inner and Outer Horizons of Causality",
-        "hash": "3d3c38ed55ed",
+        "hash": "8e1dd347f9fa",
         "out_degree": 33
       },
       {
@@ -61349,7 +61873,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "d5198041a1ac",
+        "hash": "44311c5b4c43",
         "out_degree": 396
       },
       {
@@ -61394,7 +61918,7 @@
         "slug": "meaning-and-transcendence",
         "path": "content/book/meaning-and-transcendence.md",
         "title": "意义追寻与超越之境 / The Search for Meaning and Transcendence",
-        "hash": "c1d2a4521033",
+        "hash": "7a153f15ce09",
         "out_degree": 12
       },
       {
@@ -61484,7 +62008,7 @@
         "from": "book:causality",
         "to": "the-allocation-of-causal-power-in-validation",
         "rel": "collects",
-        "label": "The Allocation of Causal Power in Validation"
+        "label": "验证中因果权能的分配 / The Allocation of Causal Power in Validation"
       },
       {
         "from": "book:causality",
@@ -63914,7 +64438,7 @@
         "from": "book:index-of-premises",
         "to": "mei-you-pu-du-zhi-you-zi-du",
         "rel": "collects",
-        "label": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。"
+        "label": "没有普渡，只有自渡的无限可能 / No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
       },
       {
         "from": "book:index-of-premises",
@@ -64298,7 +64822,7 @@
         "from": "book:index-of-premises",
         "to": "the-allocation-of-causal-power-in-validation",
         "rel": "collects",
-        "label": "The Allocation of Causal Power in Validation"
+        "label": "验证中因果权能的分配 / The Allocation of Causal Power in Validation"
       },
       {
         "from": "book:index-of-premises",
@@ -66044,7 +66568,7 @@
         "from": "book:index-of-premises",
         "to": "mei-you-pu-du-zhi-you-zi-du",
         "rel": "collects",
-        "label": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。"
+        "label": "没有普渡，只有自渡的无限可能 / No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
       },
       {
         "from": "book:index-of-premises",
@@ -66956,7 +67480,7 @@
         "from": "book:meaning-and-transcendence",
         "to": "mei-you-pu-du-zhi-you-zi-du",
         "rel": "collects",
-        "label": "普度众生，是没收回的分别心，是放不下的执念。没有普渡，只有自渡的无限可能。"
+        "label": "没有普渡，只有自渡的无限可能 / No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
       },
       {
         "from": "book:meaning-and-transcendence",
