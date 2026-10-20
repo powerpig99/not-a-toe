@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T17:23:20.645Z",
+    "generated_at": "2026-10-20T17:25:29.940Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -214,7 +214,7 @@
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "c57c3511aac6",
       "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "eeef620ba6fb",
       "content/posts/the-causal-overstep-of-observation-and-the-first-person-surplus.md": "6c191f9ad616",
-      "content/posts/the-climate-problem-registers-only-as-perception.md": "db0233612f6e",
+      "content/posts/the-climate-problem-registers-only-as-perception.md": "35a4154b7e9b",
       "content/posts/the-closed-loop-of-representation.md": "7805c57d3aaa",
       "content/posts/the-closed-n-and-the-open-reality.md": "cdca9be1b6fb",
       "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "fd790ca70240",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9378,
-      "unique_directed": 4746,
+      "edges": 9382,
+      "unique_directed": 4747,
       "missing_targets": 0,
-      "one_way": 268,
+      "one_way": 269,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 115
+      "in_degree": 116
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1070,7 +1070,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 115,
+      "in_degree": 116,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -5806,9 +5806,9 @@
       "slug": "the-climate-problem-registers-only-as-perception",
       "path": "content/posts/the-climate-problem-registers-only-as-perception.md",
       "title": "气候问题只作为感知被登记 / The Climate Problem Registers Only as Perception",
-      "hash": "db0233612f6e",
+      "hash": "35a4154b7e9b",
       "in_degree": 12,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
@@ -5821,7 +5821,8 @@
         "the-question-that-installs-the-war",
         "the-risk-you-delegate-is-the-risk-you-create",
         "performative-hindsight-that-pretends-to-be-foresight",
-        "openness-is-consistency"
+        "openness-is-consistency",
+        "beyond-the-projection"
       ]
     },
     {
@@ -41939,9 +41940,33 @@
     },
     {
       "from": "the-climate-problem-registers-only-as-perception",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-climate-problem-registers-only-as-perception",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "清晰不是抵达的终点，而是运动本身"
+    },
+    {
+      "from": "the-climate-problem-registers-only-as-perception",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-climate-problem-registers-only-as-perception",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-climate-problem-registers-only-as-perception",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
     },
     {
       "from": "the-closed-loop-of-representation",

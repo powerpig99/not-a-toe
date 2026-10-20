@@ -1,6 +1,6 @@
 # 气候问题只作为感知被登记 / The Climate Problem Registers Only as Perception
 
-*“问题”的身份是那些装上它的中心的持守，不是大气继续下去所需的属性 / Problem-status is a hold at the centers that install it, not a property the atmosphere needs in order to continue.*
+*“问题”的身份是某个中心处的感知持守，而不是地球本身的属性 / Problem-status is a perceptual hold at a center, not a property of the earth*
 
 作为“气候问题”流传的东西，不是地球系统等待被认出的固有特征；它是一次离散的感知持守，在其中，天气、冰盖动力学、大气气体、模型模拟与政策指令被压缩到一张单一的计分板上，而这张计分板被物化为处境本身的结构。不论这份持守是否被维持，大气、海洋与行星气候的深远历史，都在广大的相互作用的动态中继续。装上这份感知持守，并不会穷尽或封闭这个场。相反，它让一幅道德化的自我形象，以及一套解决方案的经济变密，这套经济穿着科学的词汇，结构上却依赖一份不被了结的残余失配。这样一来，这个打包把科学探究在经验接触之下保持敞开的那些轴关死，让解决方案的提供者朝向维持“问题”的身份，而不是在完成时卸下自己的职权。
 
@@ -26,17 +26,17 @@ The conceptual package does not migrate into the atmosphere. Those who decline t
 
 The slogan "the science is simple: emit less carbon, and the rest is cooperation" takes the outcome of three cognitive compressions and freezes it as completed knowledge. None of these compressions represents the working method of climate science as an empirical inquiry; each is what the public slogan imposes upon that inquiry.
 
-**时间的压缩。**行星气候在整个地球历史中不断变化，跨越远早于工业文明的各个时代。气候科学通过古气候记录考察这条谱系，并通过辐射强迫的物理，而不只是通过相关性，把近来的变暖归因于人类影响，主要是温室气体。公共口号保留了这一归因，却丢掉了它的框架：它把敞开的时间序列压缩成工业化之后薄薄的一片，在其中主导项成了唯一的项，于是科学本身所量化的其他强迫，不再出现在公共计分板上。[因果贯穿始终](../causality-all-the-way/)维持这份约束：从持有的结果，到划出的模式，再到下一步，因果仍是画出它路径的活的边缘，而抽象是在每一步中被重新描摹的工具，不是事先批准了那一步的外部蓝图。
+第一种是时间的压缩。行星气候在整个地球历史中不断变化，跨越远早于工业文明的各个时代。气候科学通过古气候记录考察这条谱系，并通过辐射强迫的物理，而不只是通过相关性，把近来的变暖归因于人类影响，主要是温室气体。公共口号保留了这一归因，却丢掉了它的框架：它把敞开的时间序列压缩成工业化之后薄薄的一片，在其中主导项成了唯一的项，于是科学本身所量化的其他强迫，不再出现在公共计分板上。[因果贯穿始终](../causality-all-the-way/)维持这份约束：从持有的结果，到划出的模式，再到下一步，因果仍是画出它路径的活的边缘，而抽象是在每一步中被重新描摹的工具，不是事先批准了那一步的外部蓝图。
 
-**Temporal compression.** Planetary climate has continuously shifted throughout terrestrial history, across epochs long preceding industrial civilization. Climate science investigates this lineage through paleoclimate records, and attributes recent warming to human influence, chiefly greenhouse gases, through the physics of radiative forcing rather than correlation alone. The public slogan keeps that attribution and drops its frame: it compresses the open temporal sequence into a thin post-industrial slice in which the dominant term becomes the only term, so that other forcings that the science itself quantifies no longer appear on the public scoreboard. [Causality All the Way](../causality-all-the-way/) maintains this discipline: from held effects to drawn patterns to the next step, causality remains the living edge drawing its path, while abstraction is an instrument redrawn with the step rather than an exterior blueprint that authorized the step in advance.
+The first is temporal compression. Planetary climate has continuously shifted throughout terrestrial history, across epochs long preceding industrial civilization. Climate science investigates this lineage through paleoclimate records, and attributes recent warming to human influence, chiefly greenhouse gases, through the physics of radiative forcing rather than correlation alone. The public slogan keeps that attribution and drops its frame: it compresses the open temporal sequence into a thin post-industrial slice in which the dominant term becomes the only term, so that other forcings that the science itself quantifies no longer appear on the public scoreboard. [Causality All the Way](../causality-all-the-way/) maintains this discipline: from held effects to drawn patterns to the next step, causality remains the living edge drawing its path, while abstraction is an instrument redrawn with the step rather than an exterior blueprint that authorized the step in advance.
 
-**活动的压缩。**“人类活动”与“地球系统响应”在公共账本上被简化为选定的碳排放项。诸如陆地碳吸收与生物圈变绿这样的生物物理通量，从那份核算中脱落，而人类回应的广阔谱系——农业上的适应、地方性的防护、指定碳指标之外的技术替代——被当作无关，或作为无法重新打开指标的脚注到来。于是一份局部的账本被持守为整体的账本。[基准刷榜中的封闭实存](../closed-reality-in-benchmark-maxing/)追溯同一种几何：基准把能力冻结为一个封闭的靶子，封闭指标上的残余可以被推向零，而开放负载下的失败却在扩大，只要分数被当作整个场，有用性就被登记不足。
+第二种是活动的压缩。“人类活动”与“地球系统响应”二者在公共账本上都被简化为选定的碳排放项。诸如陆地碳吸收与生物圈变绿这样的生物物理通量，从那份核算中脱落，而人类回应的广阔谱系——农业上的适应、地方性的防护、指定碳指标之外的技术替代——被当作无关，或作为无法重新打开指标的脚注到来。于是一份局部的账本被持守为整体的账本。[基准刷榜中的封闭实存](../closed-reality-in-benchmark-maxing/)追溯同一种几何：基准把能力冻结为一个封闭的靶子，封闭指标上的残余可以被推向零，而开放负载下的失败却在扩大，只要分数被当作整个场，有用性就被登记不足。
 
-**Activity compression.** "Human activity" and "earth system response" are reduced to selected carbon emission terms on the public ledger. Biophysical fluxes such as terrestrial carbon uptake and biospheric greening drop out of that accounting, while the vast spectrum of human responses—agricultural adaptations, localized defenses, and technological substitutions outside the designated carbon metrics—is treated as irrelevant or arrives as footnotes that cannot reopen the metric. A partial ledger is thus held as the ledger of the whole. [Closed Reality in Benchmark Maxing](../closed-reality-in-benchmark-maxing/) traces the same geometry: a benchmark freezes capability into a closed target, residual on the closed metric can be driven toward zero while failure under open load widens, and usefulness is under-registered whenever the score is taken as the whole field.
+The second is activity compression. Both "human activity" and "earth system response" are reduced to selected carbon emission terms on the public ledger. Biophysical fluxes such as terrestrial carbon uptake and biospheric greening drop out of that accounting, while the vast spectrum of human responses—agricultural adaptations, localized defenses, and technological substitutions outside the designated carbon metrics—is treated as irrelevant or arrives as footnotes that cannot reopen the metric. A partial ledger is thus held as the ledger of the whole. [Closed Reality in Benchmark Maxing](../closed-reality-in-benchmark-maxing/) traces the same geometry: a benchmark freezes capability into a closed target, residual on the closed metric can be driven toward zero while failure under open load widens, and usefulness is under-registered whenever the score is taken as the whole field.
 
-**未来的压缩。**数值预估本身是带有不确定范围的条件情景，建模者自己也明确记录了这一点。然而，被普及的打包把一条单一的模拟轨迹保存为必须到来的未来，把当下的观测对着那份固定的预期计分，于是任何偏离都登记为人类服从的失败，而不是预测构造的滞后。模拟取代了世界。[没有系统能被保持封闭](../no-system-can-be-kept-closed/)给出它最直观的一面，即一位寄存器上的加法：运算在持守之内有效，而真实的结果落在它之外。一个气候模型作为计算的工具运作，在它声明的假设之内有效；崩坏发生在预估被持守为最终的现实之时，仿佛开放的行星之场已被模型的边界穷尽。
+第三种是未来的压缩。数值预估本身是带有不确定范围的条件情景，建模者自己也明确记录了这一点。然而，被普及的打包把一条单一的模拟轨迹保存为必须到来的未来，把当下的观测对着那份固定的预期计分，于是任何偏离都登记为人类服从的失败，而不是预测构造的滞后。模拟取代了世界。[没有系统能被保持封闭](../no-system-can-be-kept-closed/)给出它最直观的一面，即一位寄存器上的加法：运算在持守之内有效，而真实的结果落在它之外。一个气候模型作为计算的工具运作，在它声明的假设之内有效；崩坏发生在预估被持守为最终的现实之时，仿佛开放的行星之场已被模型的边界穷尽。
 
-**Future compression.** Numerical projections are inherently conditional scenarios accompanied by uncertainty ranges, as modelers themselves explicitly document. The popularized package, however, preserves a single simulated trajectory as the future that must arrive, scoring present observations against that fixed expectation so that any divergence registers as a failure of human compliance rather than lag in the predictive construct. The simulation is substituted for the world. [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) gives this its most intuitive face, a one-bit register under addition: the operation is valid inside the hold, and the true result lies outside it. A climate model functions as an instrument of calculation, valid within its stated assumptions; the breakdown occurs when the projection is held as final reality, as if the open planetary field were exhausted by the model's boundaries.
+The third is future compression. Numerical projections are inherently conditional scenarios accompanied by uncertainty ranges, as modelers themselves explicitly document. The popularized package, however, preserves a single simulated trajectory as the future that must arrive, scoring present observations against that fixed expectation so that any divergence registers as a failure of human compliance rather than lag in the predictive construct. The simulation is substituted for the world. [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) gives this its most intuitive face, a one-bit register under addition: the operation is valid inside the hold, and the true result lies outside it. A climate model functions as an instrument of calculation, valid within its stated assumptions; the breakdown occurs when the projection is held as final reality, as if the open planetary field were exhausted by the model's boundaries.
 
 这些压缩都不需要欺骗或恶意。在认知与制度的负载之下，独立的轴自然地塌缩成一个单一的道德—科学坐标，而一旦合并，这个塌缩了的坐标感觉就像直接的发现。那种感觉是一副封闭镜片的内部清晰——[清晰不是抵达的终点，而是运动本身](../clarity-isnt-a-state-you-arrive-at/)所命名的结构：在一副正在起作用的镜片之内，感受到的确信与实际正确无法区分，镜片过滤了场却将结果呈现为现实，相反的证据不被登记为经验的摩擦，反被登记为恶意、怯懦或表演。
 
@@ -110,9 +110,71 @@ The solution ecosystem therefore does not sit outside cognitive and institutiona
 
 The same cognitive compression recurs wherever an open generative field is forced into a single governing object and subsequently narrated as if that object were the ultimate origin. In popular cosmological retellings, the observable universe is collapsed conceptually into a dimensionless point presented as the physical beginning, even though theoretical physics marks the mathematical singularity as the precise threshold where its own equations cease to apply. Similarly, climate physics quantifies forcings across many scales and names carbon dioxide the principal control knob among them; popular crisis narratives keep the knob and drop the field, so that industrial emissions become the sole governing cause and carbon accounting the mandatory story that must be told about the meaning of weather. In both cases, what circulates in public culture as settled fact is the collapsed coordinate system rather than the discipline's own awareness of its boundaries.
 
-[开放即一致](../openness-is-consistency/)从互补的视角阐明这份要求：不一致是对闭合的渴望或尝试——强迫一个有限的结构去为只会延续的东西奠基。作为问题的气候，正是那份对闭合的渴望，穿上了生存紧迫的衣裳。那份紧迫作为持有这个心智模型的中心所经验到的认知负荷是真的。然而穿上这件外衣，并不会把形象变成地球的因果地图。
+[开放即一致](../openness-is-consistency/)从互补的视角阐明这份要求：不一致是对闭合的渴望或尝试——强迫一个有限的结构去为只会延续的东西奠基。作为问题的气候，正是那份对闭合的渴望，穿上了生存紧迫的衣裳。正如[超越投射](../beyond-the-projection/)所追溯的，任何显式的模型、规则手册或模拟，都是从活生生的感知那超高维之场中切出的下游低维投射；一旦被留在自身的条件化轨迹之内，投射引擎就会把反常包裹起来以维持表面的貌似合理，而受困于身份的人类中心则会把自己的推理历史与一幅被保留的自我形象熔接在一起，将外部的证伪当作生存威胁隔绝在外。把一套行星气候叙事物化为无处之处的视角，便把这两种闭合锁在了一起：它错把下游的感知投射当成活的心智那敞开的反馈回路，将镜片夹死在[清晰不是抵达的终点，而是运动本身](../clarity-isnt-a-state-you-arrive-at/)所追溯的虚假抵达之中，而不是让跨独立之轴的经验失配把信号传回边缘以重新渲染前提。那份紧迫作为持有这个心智模型的中心所经验到的认知负荷是真的。然而穿上这件外衣，并不会把投射出的形象变成地球的因果地图。
 
-[Openness Is Consistency](../openness-is-consistency/) articulates this demand from a complementary vantage: inconsistency is the desire, or attempt, for closure—a finite structure forced to ground what only continues. Climate-as-problem is precisely that desire for closure dressed in the garment of existential urgency. That urgency is real as cognitive load experienced by centers holding that mental model. Yet wearing that dress does not turn the image into the earth's causal map.
+```mermaid
+flowchart TD
+    subgraph S_Open["活的心智的开放反馈回路（开放即一致）"]
+        direction TB
+        O_Field["多轴经验接触：古气候、辐射强迫、生物圈与适应"]
+        O_Proj["下游感知投射：有条件模型与碳指标被持为工具"]
+        O_ReRender["退后一步重新渲染：跨独立之轴的失配更新前提"]
+        O_Field --> O_Proj --> O_ReRender
+    end
+
+    subgraph S_Closed["被物化的无处之处打包（冻结的感知持守）"]
+        direction TB
+        C_Comp["三重压缩：时间、活动与未来塌缩到一张计分板"]
+        C_Ego["绑定身份的守护者持守：封闭镜片错把确信感当既定现实"]
+        C_Loop["自我维持的残余回路：未退役的失配喂养制度职权"]
+        C_Comp --> C_Ego --> C_Loop
+    end
+
+    O_Proj ==>|"越过生成之步被物化为穷尽的地基"| C_Comp
+    C_Loop ==>|"恢复独立之轴以消解闭合"| O_ReRender
+
+    style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Closed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style O_Field fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style O_Proj fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style O_ReRender fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style C_Comp fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style C_Ego fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style C_Loop fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+[Openness Is Consistency](../openness-is-consistency/) articulates this demand from a complementary vantage: inconsistency is the desire, or attempt, for closure—a finite structure forced to ground what only continues. Climate-as-problem is precisely that desire for closure dressed in the garment of existential urgency. As [Beyond the Projection](../beyond-the-projection/) traces, any explicit model, rulebook, or simulation is a downstream low-dimensional projection cut from the ultra-high-dimensional field of lived sensing; left inside its own conditioning trajectory, a projection engine wraps anomalies to preserve surface plausibility, while an identity-bound human center fuses its reasoning history with a retained self-image and walls off external invalidation as an existential threat. Reifying a planetary climate narrative as a view-from-nowhere locks both closures together: it mistakes a downstream perceptual projection for the living Mind's open feedback loop, clamping the lens shut in the false arrival traced in [Clarity Isn't a State You Arrive At. It's the Movement Itself.](../clarity-isnt-a-state-you-arrive-at/) rather than letting empirical misfits across independent axes return the signal to the edge to re-render the premise. That urgency is real as cognitive load experienced by centers holding that mental model. Yet wearing that dress does not turn the projected image into the earth's causal map.
+
+```mermaid
+flowchart TD
+    subgraph S_Open["The Living Mind's Open Feedback Loop (Openness Is Consistency)"]
+        direction TB
+        O_Field["Multi-Axis Empirical Contact: Paleoclimate, radiative forcing, biosphere, and adaptation"]
+        O_Proj["Downstream Perceptual Projection: Conditional models and carbon metrics held as instruments"]
+        O_ReRender["Stepping Back to Re-Render: Misfits across independent axes update the premise"]
+        O_Field --> O_Proj --> O_ReRender
+    end
+
+    subgraph S_Closed["Reified View-from-Nowhere Package (Frozen Perceptual Hold)"]
+        direction TB
+        C_Comp["Threefold Compression: Time, activity, and future collapsed onto one scoreboard"]
+        C_Ego["Identity-Bound Steward Hold: Enclosed lens mistakes felt certainty for settled reality"]
+        C_Loop["Self-Sustaining Residual Loop: Unretired mismatch feeds institutional mandates"]
+        C_Comp --> C_Ego --> C_Loop
+    end
+
+    O_Proj ==>|"Reified past its step as exhaustive ground"| C_Comp
+    C_Loop ==>|"Dissolved by restoring independent axes"| O_ReRender
+
+    style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Closed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style O_Field fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style O_Proj fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style O_ReRender fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style C_Comp fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style C_Ego fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style C_Loop fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
 
 ## 七、 让计分板持续重新渲染 / 7. Keep the Scoreboard Re-rendering
 
