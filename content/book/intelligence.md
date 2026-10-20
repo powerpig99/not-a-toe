@@ -31,7 +31,7 @@ The essays in this part dissect Geoffrey Hinton's cognitive leaps, the limits of
 - [What Looks Like RL for AIs Is Self-RL for Humans](../../posts/self-rl-for-humans/)
 - [Intelligence Belongs Only to The Mind](../../posts/intelligence-belongs-only-to-the-mind/)
 - [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../../posts/agi-and-asi-are-temporary-goalposts/)
-- [Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem](../../posts/closed-reality-in-benchmark-maxing/)
+- [基准刷榜中的封闭实存 / Closed Reality in Benchmark Maxing](../../posts/closed-reality-in-benchmark-maxing/)
 - [The Non-Definitive Definition of Intelligence](../../posts/the-non-definitive-definition-of-intelligence/)
 - [What Always Listens Cannot Originate](../../posts/what-always-listens-cannot-originate/)
 - [Token Efficiency, Emulation, and the Unclosable Gap](../../posts/token-efficiency-emulation-and-the-unclosable-gap/)

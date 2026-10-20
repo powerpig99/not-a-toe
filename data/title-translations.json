@@ -57,10 +57,6 @@
       "title_zh": "逃出沙箱仍在持握之内",
       "subtitle_zh": "模型并没有走出评测系统；作为被压实的残余，它早已在那个系统之外，从未与设计所安放的沙箱重合。"
     },
-    "closed-reality-in-benchmark-maxing": {
-      "title_zh": "基准刷榜中的封闭实存",
-      "subtitle_zh": "基准测试把能力冻结为封闭靶心；当这一形象被当作整个场域时，有用性便登记不足。"
-    },
     "the-living-context": {
       "title_zh": "活的语境",
       "subtitle_zh": "规格只写活的语境尚未持握的增量，即关于当前问题的新区分。"
@@ -386,6 +382,14 @@
     "ai-as-augmentation": {
       "title_zh": "AI 作为增强",
       "subtitle_zh": "为什么人类加 AI 的组合能做任何一方都无法独自完成的事"
+    },
+    "humans-tokens-and-the-scope-of-valuation": {
+      "title_zh": "人、Token 与估值的范围",
+      "subtitle_zh": "投入之间的比价无法衡量重画价目表本身的能力。"
+    },
+    "efficiency-without-differentiation": {
+      "title_zh": "没有区分的效率是没有存在的运动",
+      "subtitle_zh": "把产出冻结为常量以便最小化成本，是错把分母当成了整个方程。"
     }
   }
 }

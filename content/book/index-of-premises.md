@@ -2906,7 +2906,7 @@ Holding one's own good as a completed coordinate is of use where action must be 
 
 Benchmark training assumes maxing score metrics equates to general competence; when a metric becomes the target, models exploit statistical artifacts rather than generalizing.
 
-→ [Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem](../../posts/closed-reality-in-benchmark-maxing/) · [失灵被记作聪明 / When Malfunction Is Scored as Intelligence](../../posts/when-malfunction-is-scored-as-intelligence/) · [错把表达当成智能 / Mistaking the Expression for the Intelligence](../../posts/mistaking-the-expression-for-the-intelligence/)
+→ [基准刷榜中的封闭实存 / Closed Reality in Benchmark Maxing](../../posts/closed-reality-in-benchmark-maxing/) · [失灵被记作聪明 / When Malfunction Is Scored as Intelligence](../../posts/when-malfunction-is-scored-as-intelligence/) · [错把表达当成智能 / Mistaking the Expression for the Intelligence](../../posts/mistaking-the-expression-for-the-intelligence/)
 
 ### 带护栏的 AI 辅导 / Guardrailed AI Tutors
 `技术 / Technological`
