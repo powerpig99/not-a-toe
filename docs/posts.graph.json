@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T13:34:23.594Z",
+    "generated_at": "2026-10-20T13:37:32.553Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -154,7 +154,7 @@
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "951836df1a89",
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "617f2e3f8622",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
-      "content/posts/po-chu-gai-nian-de-jian-yue.md": "e21049e90be8",
+      "content/posts/po-chu-gai-nian-de-jian-yue.md": "dcb8a899f2e5",
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "c7ac0530aeff",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "278792287a04",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "df89e1c033a5",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9008,
-      "unique_directed": 4674,
+      "edges": 9010,
+      "unique_directed": 4675,
       "missing_targets": 0,
-      "one_way": 198,
+      "one_way": 199,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -465,7 +465,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 45
+      "in_degree": 46
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -1068,7 +1068,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 45,
+      "in_degree": 46,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -4270,9 +4270,9 @@
       "slug": "po-chu-gai-nian-de-jian-yue",
       "path": "content/posts/po-chu-gai-nian-de-jian-yue.md",
       "title": "破除概念的僭越 / Breaking the Overreach of Concepts",
-      "hash": "e21049e90be8",
+      "hash": "dcb8a899f2e5",
       "in_degree": 25,
-      "out_degree": 23,
+      "out_degree": 24,
       "links_out": [
         "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
         "the-arithmetic-of-the-register",
@@ -4293,6 +4293,7 @@
         "the-mind-as-vector-and-coordinate-system",
         "the-scaffolding-we-forget",
         "the-ladder-of-abstraction-and-the-executable-entity",
+        "beyond-the-projection",
         "the-illusion-of-knowing-and-the-geometry-of-amputation",
         "the-distant-silhouette-and-the-inventory-from-nowhere",
         "boletus-compute-storm-and-promethean-fire",
@@ -32255,6 +32256,12 @@
     },
     {
       "from": "po-chu-gai-nian-de-jian-yue",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "po-chu-gai-nian-de-jian-yue",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "The Scaffolding We Forget"
@@ -32264,6 +32271,12 @@
       "to": "the-ladder-of-abstraction-and-the-executable-entity",
       "rel": "points_to",
       "label": "The Ladder of Abstraction and the Executable Entity"
+    },
+    {
+      "from": "po-chu-gai-nian-de-jian-yue",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "po-chu-gai-nian-de-jian-yue",
