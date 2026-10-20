@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T19:34:52.907Z",
+    "generated_at": "2026-10-20T19:35:54.478Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -174,7 +174,7 @@
       "content/posts/restriction-is-a-selective-tax.md": "9eb2991f975e",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
-      "content/posts/selection-contradiction-and-open-reality.md": "a0dac4b65457",
+      "content/posts/selection-contradiction-and-open-reality.md": "b8f1683a325c",
       "content/posts/self-image-speaks-as-if-from-nowhere.md": "f3abd1a87418",
       "content/posts/self-rl-for-humans.md": "3f658d9508d2",
       "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "4f201d2f0e99",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9535,
-      "unique_directed": 4788,
+      "edges": 9537,
+      "unique_directed": 4789,
       "missing_targets": 0,
-      "one_way": 310,
+      "one_way": 311,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 155
+      "in_degree": 156
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1073,7 +1073,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 155,
+      "in_degree": 156,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -4810,9 +4810,9 @@
       "slug": "selection-contradiction-and-open-reality",
       "path": "content/posts/selection-contradiction-and-open-reality.md",
       "title": "选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality",
-      "hash": "a0dac4b65457",
+      "hash": "b8f1683a325c",
       "in_degree": 8,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "abstraction-boundaries-and-the-moving-edge-of-reality",
         "causality-and-the-irreducible-prior",
@@ -4820,6 +4820,7 @@
         "nobody-has-seen-anything-yet",
         "the-generative-contradiction",
         "openness-is-consistency",
+        "beyond-the-projection",
         "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
         "on-closed-systems-open-minds-and-the-limits-of-proof"
       ]
@@ -36337,7 +36338,7 @@
       "from": "selection-contradiction-and-open-reality",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
-      "label": "Complexity Obscures"
+      "label": "Complexity Obscures Emergence as the Act of Mind"
     },
     {
       "from": "selection-contradiction-and-open-reality",
@@ -36365,9 +36366,21 @@
     },
     {
       "from": "selection-contradiction-and-open-reality",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "selection-contradiction-and-open-reality",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness Is Consistency"
+    },
+    {
+      "from": "selection-contradiction-and-open-reality",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "selection-contradiction-and-open-reality",
