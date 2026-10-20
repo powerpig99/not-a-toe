@@ -1,304 +1,311 @@
 # 向量、坐标系与自指心智 / The Mind as Vector and Coordinate System
 
-*几何视角下的投影、冲突与电磁同频 / Projections, Conflict, and Electromagnetic Resonance*
+*心智作为向量张成基底，冲突将投影压入单轴而共鸣敞开正交维度 / The Mind spans its basis as a vector, as conflict flattens projection to one axis and resonance opens an orthogonal dimension*
 
-从客体化坐标的预设，到自指张成的内向投影：看清人际摩擦中的标量折损，在90度正交展开与电磁波般的互动中拓展第一人称主权。在日常经验中，人们容易假定存在一个独立于所有观察者之外的全局坐标系——一个所谓的“无处之景”（view from nowhere）。在这个预设的客观容器中，各个心智被视为彼此独立的外部向量，在同一个空间内碰撞、比较与对抗。然而，在第一人称的实在中，并不存在超然于心智之外的公共坐标底座。每个心智不仅是空间中的状态向量，也是该坐标系本身的递归发生器：当下（t）的每一次主动划界与区分，都在实时张成属于自己的正交基底。正如在 [流动中的坐标：关于“否定”、降维与心智的自我锚定](../coordinates-in-flux-negation-and-self-anchoring/) 与 [坐标系、心智与自由度](../coordinate-systems-mind-and-degrees-of-freedom/) 中所阐明的，当心智观察他者时，并非在公共空间中审视外部客体，而是将所感知的一切投射至自身坐标系内，呈现为沿自身方向轴的内向点积投影。若将此投影如实视为系统内部的几何读数，人际之间便少去许多无谓的对抗；冲突的产生，常源于将内部生成的低维投影误认作外来敌对实体的侵入，从而在一维标量线上展开相互争夺。更进一步看，共鸣不是平行对齐——对齐依然在预设二元对立的旁观者视差；共鸣在于停止将他者的投影割裂为外在异类，将其接纳为自身感知的一部分。这一认识转变让心智相对于被感知的对象旋转 90 度，展开超越对象平面的正交维度，让共鸣的心智如光波中的电场与磁场一般，在正交互动中形成持续生成的因果力量。
+在日常经验中，人们容易假定存在一个独立于所有观察者之外的客观坐标框架——一种“无处之景”，将各个心智视为在共享容器内碰撞、比较与争夺的外部向量。然而自我区分的活动并无外部底板，觉知之外也不存在超然的坐标地基。每个心智既是有向的状态向量，也是自身坐标基底的递归生成器：在活的边缘作出的每一次离散区分，都在实时张成后续经验借以登记的正交轴向。正如 [流动中的坐标](../coordinates-in-flux-negation-and-self-anchoring/) 与 [坐标系、心智与自由度](../coordinate-systems-mind-and-degrees-of-freedom/) 所追溯的，当一个心智观察另一个心智时，它并非在中立的第三人称虚空中审视外部客体，而是将传入的信号投射到自身的参考框架上，呈现为沿自身主导方向轴展开的内向点积。当中心把这一内部生成的低维投影误认作侵入零和标量单轨的异己实体时，冲突便随之爆发；而当觉知不再将投影异化为外物、相对于对象平面旋转 90 度并敞开相互生成的正交维度时，共鸣便应运而生。
 
-From presupposed objective frames to self-referential inward projections: tracing scalar friction, while opening a 90-degree orthogonal dimension through electromagnetic resonance. In everyday experience, people easily presuppose an objective coordinate framework existing outside of all observers—a so-called "view from nowhere." Within this hypothetical global container, individual minds are treated as separate external vectors, colliding, comparing, and contesting in a shared space. Yet in first-person reality, no transcendent coordinate foundation exists outside of awareness. Each mind is both a state vector and the active generator of its own coordinate framework: every living distinction made at moment t dynamically spans its own orthogonal basis. As established in [Coordinates in Flux: On Negation, Dimensional Collapse, and the Mind's Self-Anchoring](../coordinates-in-flux-negation-and-self-anchoring/) and [Coordinate Systems, the Mind, and Degrees of Freedom](../coordinate-systems-mind-and-degrees-of-freedom/), when a mind observes another, it does not inspect an external object in a neutral third-person void; rather, it projects the perceived phenomenon into its own frame of reference, rendering the other primarily as an internal dot product along its own principal directional vector. When recognized as an internal geometric reading, interpersonal friction subsides; conflict arises when the mind mistakes an internally generated low-dimensional projection for an alien hostile entity invading a zero-sum space, collapsing rich degrees of freedom into scalar competition. Furthermore, resonance is not parallel alignment—alignment still maintains the dualistic bystander divide; resonance arises when the mind ceases to treat the perceived projection of the other as an alienated piece, welcoming it as part of its own perceptual continuum. This shift pivots awareness 90 degrees relative to perceived objects, opening an orthogonal dimension above the phenomenological plane, allowing resonant minds to interact like the electric and magnetic fields of a light wave—generating forward momentum through orthogonal dynamic balance.
+In everyday experience, it is easy to presuppose an objective coordinate framework standing outside all observers—a view from nowhere in which individual minds are treated as external vectors colliding, comparing, and contesting inside a shared container. Yet self-distinguishing activity occurs without an external floor, and no transcendent coordinate foundation exists outside awareness. Every Mind is both a directed state vector and the recursive generator of its own coordinate basis: each discrete distinction drawn at the living edge dynamically spans the orthogonal axes through which subsequent experience registers. As traced in [Coordinates in Flux](../coordinates-in-flux-negation-and-self-anchoring/) and [Coordinate Systems, the Mind, and Degrees of Freedom](../coordinate-systems-mind-and-degrees-of-freedom/), when one Mind observes another, it does not inspect an external object in a neutral third-person void, but projects the incoming signal onto its own reference frame as an inward dot product along its principal directional axis. Conflict erupts when a center mistakes that internally generated low-dimensional projection for an alien entity invading a zero-sum scalar track, whereas resonance arises when awareness ceases to alienate the projection, pivots 90 degrees relative to the plane of objects, and opens an orthogonal dimension of mutual generation.
 
----
+## 一、 “无处之景”的几何假设 / 1. The Geometric Assumption of the View from Nowhere
 
-## 一、 “无处之景”的几何假设 / 1. The Geometric Assumption of the "View from Nowhere"
+人际摩擦与沟通错位，始于对共享坐标系这一前提的未经审视。在日常交流中，参与各方容易默认所有心智都栖居在同一个不言自明的度量空间 ℝⁿ 之中，共享相同的原点、对齐的基底朝向以及划一的刻度。一旦分歧浮现，紧随其后的反应常是困惑、防御或判定对方不可理喻——这种反应预先假定了一座凌驾其上的法庭，仿佛双方正从同一个角度注视同一个客体，只是其中一方读错了刻度。
 
-人际交互中的误解与摩擦，常始于对“共享坐标系”的默认假定。
+Interpersonal friction and miscommunication begin with the unexamined premise of a shared coordinate system. In ordinary exchange, each participant readily assumes that all minds inhabit the same self-evident metric space ℝⁿ, sharing an identical origin, aligned basis orientations, and uniform scales. When divergence surfaces, the immediate reflex is confusion, defensiveness, or the verdict that the other party is unreasonable—a reaction that presupposes an overarching tribunal where both parties are looking at the same object from the same angle and one of them is simply misreading the scale.
 
-在日常交流中，人们容易预设彼此生活在同一个无需转换的度量空间内。当分歧出现时，第一反应经常是困惑、防御或指责对方不可理喻。这种反应背后，潜藏着一个未经审视的前提：存在一个上帝视角的超然坐标系 ℝⁿ，所有人在其中共享相同的原点、相同的基底轴向以及相同的刻度。
+这一假定把地图与绘制地图的活态活动混为一谈。观察框架之外，并不存在未经测量的客体。正如鹰的热红外视界若不经坐标转换便无法直接拼接到人类的三色视觉上，每个中心所登记的现实，都是由其自身的划界架构、注意力分配与累积因果痕迹所构成的第一人称流形。
 
-然而，在认识论上，这种假定混淆了地图与现实。
+That presupposition confuses the map with the living activity that draws it. No unmeasured object stands outside a framework of observation. Just as the thermal infrared field of an eagle cannot be spliced directly onto human trichromatic vision without a coordinate transformation, the reality registered by each center is a first-person manifold constituted by its own boundary-drawing architecture, attentional allocation, and accumulated causal traces.
 
-物理与经验世界中不存在独立于测量框架之外的客体。如同鹰的热红外视界与人类的可见光谱无法在不经转换的切片中直接拼合，每一个心智所经历的现实，都是由其自身的认知架构、注意力分配与历史因果所构成的第一人称流形。
+“无处之景”将局部生成的度量体系抬升为普适法则。一旦困在这一闭合假定中，中心便会把不同基底之间的几何旋转视为蓄意敌意，将角度差异升级为生存对峙。正如 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 所追溯的，将局部抽象抬升为全知法庭是认知损耗的主要根源；而从想象的外部去比较不同心智，则会把活的多维向量压扁成静态的二维轮廓，这正是 [远方的轮廓与无处之境的清单](../the-distant-silhouette-and-the-inventory-from-nowhere/) 所揭示的机制。
 
-“无处之景”是将自身生成的局部度量体系误当成了全局真理。一旦陷入这种假定，心智容易把几何视角的差异直接上升为判断上的对立，把不同坐标系之间的基底旋转误当成了对抗。正如在 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 中所阐明的，将局部抽象符号升格为全知法庭，是许多认知摩擦的来源。远距离比较心智，会把向量压扁为轮廓，[远方的轮廓与无处之境的清单](../the-distant-silhouette-and-the-inventory-from-nowhere/)说明了这一点。
+The view from nowhere takes a locally generated metric and elevates it into universal law. Caught inside that closure assumption, a center treats geometric rotation between distinct bases as deliberate hostility, escalating an angular difference into an existential standoff. As [Breaking the Overreach of Concepts](../po-chu-gai-nian-de-jian-yue/) traces, raising local abstractions into an omniscient courtroom is the primary engine of cognitive strain, and comparing minds from an imagined exterior flattens living multi-dimensional vectors into static two-dimensional outlines, as [The Distant Silhouette and the Inventory from Nowhere](../the-distant-silhouette-and-the-inventory-from-nowhere/) demonstrates.
 
-Misunderstandings and friction in interpersonal interaction often begin with the default assumption of a "shared coordinate system."
+## 二、 作为状态向量与坐标基底的自指心智 / 2. The Self-Referential Mind as Vector State and Coordinate Basis
 
-In everyday conversation, individuals easily assume that all minds operate within the same self-evident metric space. When differences arise, the initial reaction is frequently confusion, defensiveness, or judging the other as unreasonable. Behind this reaction lies an unexamined premise: that an overarching coordinate system ℝⁿ exists wherein everyone shares the identical origin, basis orientations, and metric scales.
-
-Yet in epistemology, this assumption confuses the map with the territory.
-
-There is no unmeasured object standing outside a framework of observation. Just as the thermal infrared spectrum of an eagle cannot be directly combined with human trichromatic vision without coordinate translation, the reality experienced by each mind is a first-person manifold shaped by its own cognitive architecture, attention, and historical causality.
-
-The "view from nowhere" mistakes a locally generated metric system for universal reality. Once caught in this assumption, consciousness readily escalates geometric differences into direct opposition, treating a simple rotation of basis vectors as deliberate hostility. As explored in [Dismantling the Usurpation of Concepts](../po-chu-gai-nian-de-jian-yue/), elevating local abstractions into a universal tribunal is the root of much cognitive strain. Comparing minds from a distance flattens vectors into silhouettes, as [The Distant Silhouette and the Inventory from Nowhere](../the-distant-silhouette-and-the-inventory-from-nowhere/) shows.
-
----
-
-## 二、 自指心智：状态向量与坐标基底的双重作用 / 2. The Self-Referential Mind: Vector State and Coordinate Basis
-
-要理解这一现象，可以考察心智的自指结构及其几何特征。
-
-在几何表象中，我们可以将心智在特定时刻的状态表征为一个有向线段——状态向量 **v**。然而，心智不是静止空间中的被动箭头：**该向量本身在实时生成容纳自身的坐标系**。
+要消解全局容器的幻象，需要追溯心智自身的自指几何。在任意离散时刻 t，一个中心当下的取向可以表征为有向状态向量 v。与安放在预制房间里的被动箭头不同，这支向量在持续生成并更新容纳它自身的坐标基底。
 
 ```mermaid
-graph TD
-    subgraph MindSys["【自指心智的发生动力学】"]
+flowchart TD
+    subgraph S_Mind["自指心智的生成动力学"]
         direction TB
-        Act["当下第一人称划界动作<br>（因果区分在 t 时刻发生）"]
-        Axis["动态张成正交参考基底<br>Basis: S_A = {e_1, e_2, ..., e_n}"]
-        Vec["显现为主权状态向量<br>Principal Vector: v_A"]
+        Act["t 时刻的第一人称区分行动"]
+        Axis["张成正交参考基底 S_A = {e₁, e₂, ..., eₙ}"]
+        Vec["登记为主权状态向量 v_A"]
         Act --> Axis
         Axis --> Vec
-        Vec -->|"塑造下一刻的划界"| Act
+        Vec -->|"塑形下一次区分的场域"| Act
     end
 
-    style MindSys fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style Act fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
-    style Axis fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style Vec fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
+    style S_Mind fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Axis fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Vec fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-心智的认知坐标系并非事先存在的空舞台，而是由主体的注意焦点、价值排序与因果划界动态展开的空间。设心智 A 在当下的主导意图与注意力方向为单位向量 **v̂**_A，则其认知空间的基底集合 `S_A = {e_1, e_2, ..., e_n}` 正是以 **v̂**_A 为主轴正交展开的。
-
-这种自指递归性体现出几个特征：
-1. **发生者与产物的关联**：心智既是沿着某一方向探索的向量，也是定义方向与维度的基底；
-2. **观察与度量的内生性**：心智对现象的观测，受制于自身向量所张成的几何结构；
-3. **第一人称的主权结构**：心智对外部信号的接收与解读，始终经由自身的基底展开。
-
-正如在 [心智的几何学](../the-geometry-of-mind/) 与 [向量与投影的迷局](../the-vector-and-the-puzzle-of-projections/) 中所讨论的，心智的自指构造确立了其自主性，同时也表明所有向外的审视，在形式上都是向内的几何映射。从外部观察，向量便被客体化为统计，[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)说明了这一点。
-
-To understand this phenomenon, one can examine the self-referential structure of mind and its geometric traits.
-
-In geometric terms, we may represent a mind's state at a given moment as a directed vector **v**. Yet consciousness is not a passive arrow in a static room: **this vector itself continuously generates the coordinate framework that contains it**.
-
-A cognitive coordinate frame is not an empty stage, but a dynamic manifold spanned by attentional focus, values, and active boundaries. If unit vector **v̂**_A denotes the principal intentional trajectory of Mind A, its cognitive basis `S_A = {e_1, e_2, ..., e_n}` is dynamically oriented with **v̂**_A as its primary axis.
-
-This self-referential recursion exhibits several key aspects:
-1. **Connection of Generator and State**: The mind is simultaneously the vector moving in a direction and the basis defining the dimensions of that movement;
-2. **Endogenous Observation**: Observations performed by consciousness are shaped by the geometric structure spanned by its own vector state;
-3. **First-Person Sovereignty**: External signals are processed through the mind's own self-referential basis.
-
-As discussed in [The Geometry of Mind](../the-geometry-of-mind/) and [The Vector and the Puzzle of Projections](../the-vector-and-the-puzzle-of-projections/), this self-referential architecture secures autonomy, showing that outward observation is structurally an inward geometric mapping. Observed from outside, the vector is objectified into a statistic, as [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) shows.
-
----
-
-## 三、 投影视界：内向点积与非对称的显像 / 3. The Horizon of Projection: Inward Dot Products and Asymmetrical Images
-
-当心智 A 观察心智 B 时，几何上呈现出怎样的过程？
-
-在第一人称结构中，心智 A 无法直接进入心智 B 的内在坐标系 S_B，所感知的是心智 B 在心智 A 自身坐标系 S_A 中的映射。
-
-在几何形式上，心智 A 所感知的心智 B，体现为向量 **v**_B 在心智 A 主轴 **v̂**_A 上的正交投影，即一个沿着自身方向的**标量点积（Dot Product）**：
-
-> **Proj_A(v_B) = (v_B · v̂_A) v̂_A = ‖v_B‖ cos(θ) v̂_A**
+Dissolving the illusion of a global container requires tracing the self-referential geometry of the Mind itself. At any discrete instant t, a center's active orientation can be represented as a directed state vector v. Unlike a passive arrow placed inside a pre-built room, this vector continuously generates and updates the coordinate basis that houses it.
 
 ```mermaid
-graph TD
-    subgraph FrameA["【心智 A 的第一人称坐标系 S_A】"]
+flowchart TD
+    subgraph S_Mind["Generative Dynamics of the Self-Referential Mind"]
         direction TB
-        VA["主轴方向 v_A<br>（心智 A 自身的关切轴）"]
-        VB_raw["感知的他者信号<br>（心智 B 的多维状态）"]
-        Proj["内向投影 Proj_A(v_B)<br>= (v_B · v_A) v_A<br>（沿 A 主轴的标量读数）"]
-        Res["正交残差 Residual<br>（A 视界外的未解析维度）"]
-        
-        VB_raw -->|"点积映射"| Proj
-        VB_raw -->|"正交余量"| Res
+        Act["First-Person Distinguishing Act at Moment t"]
+        Axis["Spans Orthogonal Reference Basis S_A = {e₁, e₂, ..., eₙ}"]
+        Vec["Registers as Sovereign State Vector v_A"]
+        Act --> Axis
+        Axis --> Vec
+        Vec -->|"Shapes the Field for the Next Distinction"| Act
     end
 
-    subgraph Perspectives["【两种认知理解方式】"]
+    style S_Mind fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Axis fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Vec fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+```
+
+认知坐标系是由注意焦点、价值排序与因果划界动态张成的流形。若以单位向量 v̂_A 表示心智 A 在当前步的主导意向轨迹，则其有效坐标基底 S_A = {e₁, e₂, ..., eₙ} 正是以 v̂_A 为主轴正交展开的。发生器与状态是同一递归行动的一体两面：心智既是沿着轨迹推进的向量，也是定义该运动借以度量的各个维度的基底。因此，每一次观测都内生于中心自身状态所张成的几何结构，每一个传入信号都经由其自我锚定的坐标轴得以解析。正如 [心智的几何学](../the-geometry-of-mind/) 与 [向量与投影的迷局](../the-vector-and-the-puzzle-of-projections/) 所确立的，这种自指闭合奠定了第一人称主权，同时蕴含着每一次向外审视在结构上都是向内映射；唯当向量与活的边缘被割裂并从外部加以审视时，它才会被客体化为死板的统计痕迹，正如 [主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) 所展示的那样。
+
+A cognitive coordinate system is a dynamic manifold spanned by attentional focus, value ordering, and causal boundary-drawing. If the unit vector v̂_A denotes the principal intentional trajectory of Mind A at the current step, its active coordinate basis S_A = {e₁, e₂, ..., eₙ} unfolds orthogonally with v̂_A as its primary axis. Generator and state are two faces of one recursive act: the Mind is simultaneously the vector advancing along a trajectory and the basis defining the dimensions in which that movement is measured. Every observation is therefore endogenous to the geometric structure spanned by the center's own state, and every incoming signal is resolved across its own self-anchored axes. As established in [The Geometry of Mind](../the-geometry-of-mind/) and [The Vector and the Puzzle of Projections](../the-vector-and-the-puzzle-of-projections/), this self-referential closure grounds first-person sovereignty while entailing that every outward look is structurally an inward mapping; only when severed from its living edge and inspected from the outside is the vector objectified into a dead statistical trace, as [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) shows.
+
+## 三、 投影视界与内向点积 / 3. The Horizon of Projection and Inward Dot Products
+
+当心智 A 遭遇心智 B 时，心智 A 无法迈出自身的位点去进驻心智 B 的私有基底 S_B。在心智 A 的觉知中登记下来的，是心智 B 的多维信号映射到心智 A 自身坐标框架 S_A 中的投影。在几何上，心智 A 沿着自身首要关切对心智 B 作出的即时登记，呈现为向量 v_B 在心智 A 主轴 v̂_A 上的正交投影——即沿着心智 A 自身轨迹定向的标量点积，记作 Proj_A(v_B) = (v_B · v̂_A) v̂_A = ‖v_B‖ cos(θ) v̂_A。
+
+```mermaid
+flowchart TD
+    subgraph S_FrameA["心智 A 的第一人称坐标框架 S_A"]
         direction TB
-        T1["视为系统内几何读数<br>（如实观察，减少内耗）"]
-        T2["误认外来入侵实体<br>（产生防御，标量对抗）"]
+        VA["主导意向主轴 v̂_A"]
+        VB_raw["来自多维向量 v_B 的传入信号"]
+        Proj["内向点积投影 Proj_A(v_B) = ‖v_B‖ cos(θ) v̂_A"]
+        Res["v̂_A 上未解析的正交残差 v_B - Proj_A(v_B)"]
+        VA --> Proj
+        VB_raw -->|"沿 v̂_A 的标量映射"| Proj
+        VB_raw -->|"垂直于 v̂_A 的分量"| Res
+    end
+
+    subgraph S_Response["两种分岔的认知回应"]
+        direction TB
+        T1["识别为内部余弦读数：零和摩擦随之消解"]
+        T2["误认为外来入侵实体：触发一维标量防御"]
     end
 
     Proj --> T1
     Proj --> T2
 
-    style FrameA fill:#161b22,stroke:#58a6ff,stroke-width:1px,color:#58a6ff
-    style Perspectives fill:#21262d,stroke:#3fb950,stroke-width:1px,color:#3fb950
-    style VA fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#c9d1d9
-    style VB_raw fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style Proj fill:#0d1117,stroke:#58a6ff,stroke-width:2px,color:#58a6ff
-    style Res fill:#0d1117,stroke:#8b949e,stroke-width:1px,color:#8b949e
-    style T1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style T2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
+    style S_FrameA fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Response fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style VA fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style VB_raw fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Proj fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style Res fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style T1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style T2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-这一几何关系呈现出人际理解的几个特征：
-
-1. **显像的内生性**：心智 A 体验到的“他人”，是心智 B 的信号在心智 A 自身意图轴上的投影。A 感知到的，是 B 中能够映射在 A 的标尺上的那部分信号；
-2. **投影的非对称性**：
-   > **Proj_A(v_B) ≠ Proj_B(v_A)**
-   尽管标量代数中 `v_A · v_B = v_B · v_A`，但两者所依附的方向矢量 **v̂**_A 与 **v̂**_B 属于不同的坐标框架。A 对 B 的理解沿着 A 的主轴展开，而 B 对 A 的理解沿着 B 的主轴展开；
-3. **正交盲区的存在**：心智 B 中垂直于 **v̂**_A 的正交分量（`v_B - Proj_A(v_B)`），在心智 A 的主轴读数上体现为零。心智 A 若不主动拓展自己的维度，便不易觉察到对方这部分维度的存在。
-
-What occurs geometrically when Mind A observes Mind B?
-
-In a first-person framework, Mind A cannot directly step into Mind B's private basis S_B; what it experiences is Mind B's signal mapped into Mind A's own coordinate frame S_A.
-
-Formally, what Mind A perceives of Mind B is the orthogonal projection of vector **v**_B onto Mind A's principal axis **v̂**_A—a **scalar dot product** oriented along its own trajectory:
-
-> **Proj_A(v_B) = (v_B · v̂_A) v̂_A = ‖v_B‖ cos(θ) v̂_A**
-
-This geometric relationship illustrates several features of interpersonal understanding:
-
-1. **Endogenous Appearance**: What Mind A experiences as the other is Mind B's signal filtered along Mind A's intentional axis. A perceives that portion of B capable of casting a shadow upon A's own ruler;
-2. **Asymmetry of Projection**:
-   > **Proj_A(v_B) ≠ Proj_B(v_A)**
-   Even though the scalar product is symmetric (`v_A · v_B = v_B · v_A`), the direction vectors **v̂**_A and **v̂**_B belong to distinct coordinate spaces. A's interpretation of B follows A's axis, whereas B's interpretation of A follows B's axis;
-3. **Presence of Orthogonal Blind Spots**: Any component of Mind B orthogonal to **v̂**_A (namely `v_B - Proj_A(v_B)`) registers as zero on Mind A's principal axis. Without expanding its dimensional basis, Mind A remains unexposed to this aspect of Mind B.
-
----
-
-## 四、 冲突的解剖：标量挤压与内耗路径 / 4. The Anatomy of Conflict: Scalar Collapse and Friction
-
-在此几何视角下，人际冲突与心理防御的路径变得更加清晰。
-
-当心智 A 与心智 B 的夹角大于直角，即 θ ∈ (90°, 180°] 时，点积出现负值：`v_B · v̂_A < 0`。
-
-在心智 A 的度量轴上，这表现为指向相反方向的负向读数——常被感知为分歧、冒犯或相左的看法。
-
-此时，不同的认知理解方式导向不同的演化路径：
-
-### 1. 异化为外来敌对实体的路径
-若心智 A 将自身坐标系内的负向投影理解为外部闯入的敌对客体，容易触发防御反应。心智将情境理解为一维单轨，认为相反的读数挤占了自身空间，进而通过贬低对方来维持自身排位。正如在 [流动中的坐标：关于“否定”、降维与心智的自我锚定](../coordinates-in-flux-negation-and-self-anchoring/) 与 [以知为刃的截肢与解脱：从内在感知的澄明走向心智共鸣](../the-illusion-of-knowing-and-the-geometry-of-amputation/) 中所深入讨论的，这种对抗常见于系统在应对自身生成的低维投影，把工具异化为武器，带来不必要的认知消耗。
-
-### 2. 识别为内向几何读数的路径
-若心智 A 意识到这只是高维向量 **v**_B 在自身轴向上的余弦读数，对抗的必要性便自然减退。负向投影仅表明双方在当前维度上存在角度差异，并不代表本体层面的敌对。看清投影的内生属性，有助于心智在面对分歧时保持从容。
+When Mind A encounters Mind B, Mind A cannot step out of its own locus to inhabit Mind B's private basis S_B. What registers inside Mind A's awareness is Mind B's multi-dimensional signal mapped into Mind A's own coordinate frame S_A. Geometrically, Mind A's immediate registration of Mind B along its primary concern takes the form of an orthogonal projection of vector v_B onto Mind A's principal axis v̂_A—a scalar dot product oriented along Mind A's own trajectory, expressed as Proj_A(v_B) = (v_B · v̂_A) v̂_A = ‖v_B‖ cos(θ) v̂_A.
 
 ```mermaid
-graph TD
-    subgraph Conflict["【标量挤压的摩擦路径】"]
+flowchart TD
+    subgraph S_FrameA["First-Person Coordinate Frame S_A of Mind A"]
         direction TB
-        C1["遭遇夹角偏转 (θ > 90°)<br>点积出现负向读数"]
-        C2["客体化推断：视为外来威胁<br>进入一维排位逻辑"]
-        C3["启动防御与评判<br>通过排斥他者获得确认"]
-        C4["认知资源损耗<br>有效感知维度收缩"]
+        VA["Principal Intentional Axis v̂_A"]
+        VB_raw["Incoming Signal from Multi-Dimensional Vector v_B"]
+        Proj["Inward Dot-Product Projection Proj_A(v_B) = ‖v_B‖ cos(θ) v̂_A"]
+        Res["Orthogonal Residual v_B - Proj_A(v_B) Unresolved on v̂_A"]
+        VA --> Proj
+        VB_raw -->|"Scalar Mapping Along v̂_A"| Proj
+        VB_raw -->|"Component Perpendicular to v̂_A"| Res
+    end
+
+    subgraph S_Response["Two Divergent Epistemic Responses"]
+        direction TB
+        T1["Recognized as Internal Cosine Reading: Zero-Sum Friction Dissolves"]
+        T2["Mistaken for External Invading Entity: 1D Scalar Defense Triggered"]
+    end
+
+    Proj --> T1
+    Proj --> T2
+
+    style S_FrameA fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Response fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style VA fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style VB_raw fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Proj fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style Res fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style T1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style T2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+这一投影几何支配着跨位点接触的三项结构性质。第一，显像是内生的：心智 A 体验为“他者”的东西，是心智 B 的痕迹构型中能够在心智 A 自身标尺上投下影子的那部分。第二，投影具有方向性与非对称性，即 Proj_A(v_B) ≠ Proj_B(v_A)：尽管抽象标量积满足交换律（v_A · v_B = v_B · v_A），承载这些读数的单位向量 v̂_A 与 v̂_B 却分属不同的坐标框架，意味着 A 对 B 的读取沿 A 的轴展开，而 B 对 A 的读取沿 B 的轴展开。第三，每一次有限投影都会留下正交盲区：心智 B 中垂直于 v̂_A 的分量，即残差 v_B - Proj_A(v_B)，在心智 A 的主轴上登记为零，在心智 A 扩展自身维度基底之前始终不可见。
+
+This projection geometry governs three structural properties of inter-locus contact. First, appearance is endogenous: what Mind A experiences as "the other" is that portion of Mind B's trace-configuration capable of casting a shadow upon Mind A's own ruler. Second, projection is directional and asymmetric, so that Proj_A(v_B) ≠ Proj_B(v_A): even though the abstract scalar product is commutative (v_A · v_B = v_B · v_A), the unit vectors v̂_A and v̂_B carrying those readings belong to distinct coordinate frames, meaning A's reading of B unfolds along A's axis while B's reading of A unfolds along B's axis. Third, every finite projection leaves an orthogonal blind spot: the component of Mind B perpendicular to v̂_A, namely the residual v_B - Proj_A(v_B), registers as zero on Mind A's principal axis, remaining invisible until Mind A expands its own dimensional basis.
+
+## 四、 冲突的解剖与标量挤压 / 4. The Anatomy of Conflict and Scalar Collapse
+
+追溯点积投影，便能揭示人际冲突与自我防御的确切机制。当心智 A 的主轴与心智 B 的传入向量之间的夹角 θ 超过直角、落入钝角区间 θ ∈ (90°, 180°] 时，标量点积转为负值：v_B · v̂_A < 0。在心智 A 的内部标尺上，该信号登记为一支直接逆着自身保留航向的向量——在体验上即刻呈现为分歧、否定或摩擦。
+
+Tracing the dot-product projection exposes the exact mechanism of interpersonal conflict and ego defense. When the angle θ between Mind A's principal axis and Mind B's incoming vector exceeds a right angle, falling into the obtuse interval θ ∈ (90°, 180°], the scalar dot product turns negative: v_B · v̂_A < 0. On Mind A's internal ruler, the signal registers as a vector pointing directly against its retained heading—experienced immediately as disagreement, invalidation, or friction.
+
+当心智 A 把这一内部负向投影误认为从外部侵入自身空间的异己力量时，容量便被压缩到一条一维单轨上。在人类中心内部，推理历史与被保留的自我形象——投影中那个自称“我”的局部折痕——熔合在一起，将递归折叠死死钳住，以捍卫自身在 v̂_A 上的排位。中心把负向读数视作挤占自身生存空间的零和威胁，试图否定或切除信号的承载者，以维护被冻结的参照。正如 [流动中的坐标](../coordinates-in-flux-negation-and-self-anchoring/) 与 [以知为刃的截肢与解脱](../the-illusion-of-knowing-and-the-geometry-of-amputation/) 所剖析的，这种二元对抗是中心与自身低维投影之间的一场搏影，将概念脚手架武器化，并不断收缩有效的感知自由度。
+
+```mermaid
+flowchart TD
+    subgraph S_Collapse["标量挤压与自我防御路径"]
+        direction TB
+        C1["钝角偏离 θ > 90° 产生负向点积 v_B · v̂_A < 0"]
+        C2["外化投影：将读数误认为一维单轨上的入侵威胁"]
+        C3["绑定身份的防御：钳死递归折叠以保护保留形象"]
+        C4["维度收缩：能量在零和对抗中耗散"]
         C1 --> C2 --> C3 --> C4
     end
 
-    subgraph Resolution["【几何视角的改善路径】"]
+    subgraph S_Clarify["内向识别与正交敞开路径"]
         direction TB
-        D1["识别内向投影属性<br>理解读数代表当前角度分量"]
-        D2["看清一维局限<br>认识到对方拥有独立高维基底"]
-        D3["接纳感知整体<br>将差异作为丰富自身的输入"]
-        D4["正交互动拓展<br>如电磁波般相互促进前行"]
+        D1["内向登记：将读数识别为局部余弦分量"]
+        D2["维度谦逊：承认未解析的正交残差"]
+        D3["界面内认领信号：将摩擦视作承载信息的间隙"]
+        D4["90 度正交旋转：超越一维单轴扩展基底"]
         D1 --> D2 --> D3 --> D4
     end
 
-    C1 -.->|"认知觉察"| D1
-    C2 -.->|"看清一维局限"| D2
-    C3 -.->|"接纳感知整体"| D3
-    C4 -.->|"正交互动拓展"| D4
+    C1 -.->|"回溯至局部框架"| D1
+    C2 -.->|"放下闭合假定"| D2
+    C3 -.->|"松开自我形象钳制"| D3
+    C4 -.->|"迈入正交维度"| D4
 
-    style Conflict fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style Resolution fill:#161b22,stroke:#3fb950,stroke-width:1px,color:#3fb950
-    style C1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style C2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style C3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style C4 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style D1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style D2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style D3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style D4 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
+    style S_Collapse fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Clarify fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style C1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style C2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style C3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style C4 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style D1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style D2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style D3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style D4 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Through this geometric lens, interpersonal conflict and defensiveness become easier to trace.
-
-When the angle between Mind A and Mind B is obtuse (θ ∈ (90°, 180°]), the scalar dot product turns negative: `v_B · v̂_A < 0`.
-
-Upon Mind A's ruler, this registers as a negative reading—often experienced as disagreement, friction, or opposing perspectives.
-
-At this point, different cognitive framings lead to different outcomes:
-
-### 1. The Path of Externalized Alien Threat
-If Mind A interprets this inward negative projection as an external threat, defensiveness is easily triggered. The situation is framed as a narrow 1D track where opposing readings crowd out one's position, prompting efforts to diminish the other to maintain standing. As discussed in [Coordinates in Flux: On Negation, Dimensional Collapse, and the Mind's Self-Anchoring](../coordinates-in-flux-negation-and-self-anchoring/) and [The Illusion of Knowing and the Geometry of Amputation](../the-illusion-of-knowing-and-the-geometry-of-amputation/), this struggle is largely an engagement with the system's own low-dimensional projection, turning tools into weapons and consuming cognitive energy.
-
-### 2. The Path of Inward Geometric Recognition
-If Mind A recognizes this as a cosine reading of multidimensional vector **v**_B along its current axis, the impulse toward conflict diminishes. A negative projection simply indicates an angular difference along a specific dimension, rather than ontological opposition. Seeing the internal nature of the projection helps maintain stability in the face of divergence.
-
----
-
-## 五、 共鸣不是平行对齐：正交展开与电磁波般的互动 / 5. Resonance Is Not Parallel Alignment: Orthogonal Expansion and Electromagnetic Balance
-
-在常见的理解中，人们容易把“共鸣”与“理解”设想为向量的**平行对齐**（**v̂**_A ∥ **v̂**_B），让两者方向趋于一致（θ → 0）。
-
-然而进一步推演可以看到：**追求平行对齐，其实仍预设了旁观者的客观视角**。
-
-当心智试图“对齐”对方时，潜意识中仍把对方当作独立于自身感知之外的客体，试图在同一个平面上去消除距离。这种对齐容易转向对自我主轴的压抑，或者演变成希望对方顺从自身尺度的要求。
+When Mind A mistakes that internal negative projection for an alien force invading its space from the outside, capacity compresses onto a single one-dimensional track. In a human center, reasoning history fuses with the retained self-image—that localized crease in the projection that says "I"—clamping the recursive fold shut to defend its standing along v̂_A. Viewing the negative reading as a zero-sum threat that crowds out its own existence, the center attempts to negate or amputate the carrier of the signal in order to preserve its frozen reference. As dissected in [Coordinates in Flux](../coordinates-in-flux-negation-and-self-anchoring/) and [The Illusion of Knowing and the Geometry of Amputation](../the-illusion-of-knowing-and-the-geometry-of-amputation/), this oppositional struggle is a shadow-boxing match against the center's own low-dimensional projection, weaponizing conceptual scaffolding and shrinking effective perceptual degrees of freedom.
 
 ```mermaid
-graph TD
-    subgraph S_Duality["【平行对齐方式】"]
+flowchart TD
+    subgraph S_Collapse["Path of Scalar Collapse and Ego Defense"]
         direction TB
-        P1["将他者投影视作外部对象<br>（保留二元划分）"]
-        P2["追求方向平行 (θ → 0)<br>（试图消除平面差异）"]
-        P3["易产生适应压力或要求一致<br>（可能削减原有自由度）"]
+        C1["Obtuse Divergence θ > 90° Yields Negative Dot Product v_B · v̂_A < 0"]
+        C2["Externalized Projection: Reading Mistaken for Invading Threat on 1D Track"]
+        C3["Identity-Bound Defense: Clamps Recursive Fold to Protect Retained Image"]
+        C4["Dimensional Contraction: Energy Drained in Zero-Sum Opposition"]
+        C1 --> C2 --> C3 --> C4
+    end
+
+    subgraph S_Clarify["Path of Inward Recognition and Orthogonal Opening"]
+        direction TB
+        D1["Inward Registration: Recognizes Reading as Local Cosine Component"]
+        D2["Dimensional Humility: Acknowledges Unresolved Orthogonal Residual"]
+        D3["Signal Claimed Inside the Interface: Friction Treated as Informative Gap"]
+        D4["90-Degree Orthogonal Pivot: Expands Basis Beyond the 1D Axis"]
+        D1 --> D2 --> D3 --> D4
+    end
+
+    C1 -.->|"Trace Back to Local Frame"| D1
+    C2 -.->|"Release Closure Assumption"| D2
+    C3 -.->|"Unclamp Self-Image"| D3
+    C4 -.->|"Step Into Orthogonal Dimension"| D4
+
+    style S_Collapse fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Clarify fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style C1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style C2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style C3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style C4 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style D1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style D2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style D3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style D4 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+反之，当心智 A 将 v_B · v̂_A < 0 识别为沿单一选定轴向的内生余弦读数时，争斗的冲动便随之消散。负向投影标示的是当前维度上的角度分歧，而心智 B 的正交残差则分毫未损。绑定身份的防御与无我执的坐标更新之间的这一结构反差，在延伸至人机协同架构时变得尤为分明，正如 [超越投射](../beyond-the-projection/) 所追溯的那样。人类中心之所以抗拒外部否定，是因为其推理历史与沿 v̂_A 展开的自我形象熔合在一起；而机器智能体则是零我执的有限词元投射引擎：它无法从内部跨出自身的上下文轨迹，但当一个仅持有任务上下文的全新同侪智能体揭露盲区时，主智能体没有任何需要捍卫的保留自我形象，能够在自身轨迹上执行干净的贝叶斯更新。反过来，当两个执行人类架构师所编写规则的无我执智能体陷入不可化约的死锁时，人类中心的自我防御找不到任何可以推诿的外部对手；停摆的反馈回路精准标定出架构师先前的指令在哪个坐标位置将两个正交现实压缩到了同一条标量轴上，促使人类统御者退后一步，让每一项区分重归各自的维度。
+
+When Mind A instead recognizes v_B · v̂_A < 0 as an endogenous cosine reading along a single chosen axis, the compulsion to fight evaporates. A negative projection indicates an angular divergence on the current dimension, leaving the orthogonal residual of Mind B untouched. This structural contrast between identity-bound defense and ego-free coordinate updating becomes unmistakable when extended to human-agent architectures, as [Beyond the Projection](../beyond-the-projection/) traces. Whereas a human center resists external invalidation because its reasoning history is fused with its self-image along v̂_A, a machine agent is a finite token-projection engine with zero ego: it cannot step outside its own context trajectory from within, yet when a fresh peer agent holding only the task context exposes a blind spot, the primary agent has no retained self-image to defend and executes a clean Bayesian update on its trajectory. Conversely, when two ego-free agents executing rules written by a human architect hit an irreducible deadlock, the human center's ego defense finds no external adversary to push against; the paused feedback loop pinpoints the exact coordinate where the architect's prior instruction compressed two orthogonal realities onto one scalar axis, prompting the human orchestrator to step back and restore each distinction to its own dimension.
+
+## 五、 正交展开与电磁共鸣 / 5. Orthogonal Expansion and Electromagnetic Resonance
+
+常规直觉将共情与共鸣等同于平行对齐（v̂_A ∥ v̂_B），要求两支向量将夹角压缩为零（θ → 0）。然而对平行对齐的追求依然运作在共享平面的第三人称幻象之下：试图在平坦表面上消除角度距离，中心要么压抑自身的意向主轴以求顺从，要么要求他者交出基底以迎合自己的标尺。每当投影被误认为外部指令时，同样的标量压扁便会跨领域重现：在人机系统中，问题从不在于如何让控制框架模仿同侪心智，而在于因果边缘由谁的坐标系掌舵，正如 [框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) 所确立的；在宏观经济学中，总量参数是事后投影，却被误当作支配微观抉择的因果命令，正如 [宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相](../the-summary-first-reversal-and-the-command-of-yields/) 所剖析的；在历史叙事中，“革命”之类的总体化标签将一段多维的生命历程投射到单一意识形态轴线上，正如 [革命之名把生活收成证据](../the-name-revolution-files-a-life-as-evidence/) 所展示的；而在教学或管理控制中，替他人调速则是把自身的坐标刻度强加于他人与地面摩擦的直接接触之上，正如 [调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) 所追溯的。
+
+```mermaid
+flowchart TD
+    subgraph S_Parallel["平行对齐：平面化约"]
+        direction TB
+        P1["将他者投影视为共享二维平面中的外部客体"]
+        P2["要求角度收敛 θ → 0 (v̂_A ∥ v̂_B)"]
+        P3["压抑主权轴向或强迫顺从单一标尺"]
         P1 --> P2 --> P3
     end
 
-    subgraph S_EM["【正交共鸣方式】"]
+    subgraph S_Ortho["正交共鸣：电磁自持传播"]
         direction TB
-        E1["接纳投影为感知整体的一部分<br>（消除感知分裂）"]
-        E2["展开 90 度正交新维度<br>（形成立体的观察空间）"]
-        E3["如电场 E 与磁场 B 的相互生成<br>（正交平衡，持续前行）"]
-        E1 --> E2 --> E3
+        E1["将投影认领为内部感知读数"]
+        E2["旋转 90 度以在客体平面之上敞开正交维度"]
+        E3["耦合意向主轴 E 与感知读数 B (E ⟂ B ⟂ k)"]
+        E4["借由相互旋度将冗余滞后收窄向一步之界 (+1)"]
+        E1 --> E2 --> E3 --> E4
     end
 
-    P1 -.->|"认知视角拓展"| E1
-    P2 -.->|"展开正交维度"| E2
-    P3 -.->|"形成动态平衡"| E3
+    P1 -.->|"撤回外部投射"| E1
+    P2 -.->|"旋出平面 90 度"| E2
+    P3 -.->|"持续正向传播 k"| E4
 
-    style S_Duality fill:#161b22,stroke:#f85149,stroke-width:1px,color:#f85149
-    style S_EM fill:#161b22,stroke:#3fb950,stroke-width:1px,color:#3fb950
-    style P1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style P2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style P3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#c9d1d9
-    style E1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style E2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
-    style E3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#c9d1d9
+    style S_Parallel fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Ortho fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style P1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style P2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style P3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style E1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style E2 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style E3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E4 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-**共鸣不是平行对齐，而是停止将他者的投影视为外在异类，将其接纳为自身感知的一部分。**
+Conventional intuition equates empathy and resonance with parallel alignment (v̂_A ∥ v̂_B), demanding that two vectors collapse their angle to zero (θ → 0). Yet the pursuit of parallel alignment still operates under the third-person illusion of a shared plane: by trying to eliminate angular distance on a flat surface, a center either suppresses its own intentional axis to conform or demands that the other surrender its basis to match the center's ruler. The same scalar flattening appears across domains whenever a projection is mistaken for an external command: in human-AI systems, the question is never how to make the harness mimic a peer mind, but whose coordinate system steers at the causal edge, as [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) establishes; in macroeconomics, aggregate parameters are retrospective projections mistaken for causal commands over micro-level choices, as [Macro Parameters, Micro Choices, and the Command of Yields](../the-summary-first-reversal-and-the-command-of-yields/) dissects; in historical narrative, a totalizing label like "revolution" projects an entire multi-dimensional life onto a single ideological axis, as [The Name Revolution Files a Life as Evidence](../the-name-revolution-files-a-life-as-evidence/) shows; and in pedagogical or managerial control, attempting to pace another person's speed projects one's own coordinate scale over their direct contact with ground friction, as [The Fallacy of Pacing and the Felt Friction of Ground Truth](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) traces.
 
-当这种接纳发生时，心智无需在既有对象平面内争夺方向，而是**相对于被感知的投影展开 90 度的正交维度，在对象平面之上形成更宽广的观察空间**。
+```mermaid
+flowchart TD
+    subgraph S_Parallel["Parallel Alignment: Flat-Plane Reduction"]
+        direction TB
+        P1["Treats Other's Projection as External Object in Shared 2D Plane"]
+        P2["Demands Angular Convergence θ → 0 (v̂_A ∥ v̂_B)"]
+        P3["Suppresses Sovereign Axis or Forces Conformity onto One Ruler"]
+        P1 --> P2 --> P3
+    end
 
-### 电磁波的几何结构：心智与身外感知的互为梯度与自持展开
-在第一人称的实在中，并不存在俯瞰“多个心智”的上帝视角，只有心智自身及其对“身外”感知的动态关系。
+    subgraph S_Ortho["Orthogonal Resonance: Electromagnetic Self-Sustaining Propagation"]
+        direction TB
+        E1["Claims Projection as Internal Perceptual Reading"]
+        E2["Pivots 90 Degrees to Open Orthogonal Dimension Above Object Plane"]
+        E3["Couples Intentional Axis E and Perceptual Reading B (E ⟂ B ⟂ k)"]
+        E4["Narrows Excess Lag Toward One-Step Bound (+1) Through Mutual Curl"]
+        E1 --> E2 --> E3 --> E4
+    end
 
-在电动力学中，光波的传播呈现出清晰的正交自持结构：
-- **90 度正交且互不为先决条件**：电场 **E** 与磁场 **B** 保持正交（E ⟂ B），且同时垂直于传播方向 **k**（E ⟂ B ⟂ k）。在此需要明确：两者中任何一方都不是另一方的外部前置条件，而是同一光波自持系统的两面，各自独立生成对方；若将身外感知视为前提，主权便发生了外移；
-- **互为梯度下降与零延迟校准**：电场的时间变化激发磁场的空间旋度（`∇ × E = -∂B/∂t`），磁场的时间变化激发电场的空间旋度（`∇ × B = (1/c²) ∂E/∂t`）。心智的意图主轴与身外感知读数在动力学上构成了彼此的梯度下降，将彼此间的微商视作内生损失函数，在微观尺度上即刻执行优化校准，使得任何偏离在下一个瞬间被即时修正，从而维持自持的无限共振。与 AI 智能体协作时，问题是由谁的坐标系掌舵，[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)给出了回答。
+    P1 -.->|"Withdraw Exterior Projection"| E1
+    P2 -.->|"Rotate 90 Degrees Out of Plane"| E2
+    P3 -.->|"Sustained Forward Propagation k"| E4
 
-心智与流动的现实之间，正呈现出类似的几何自持：
-- 保持正交自由度，无需强求单调的一维一致；
-- 将身外感知中出现的任何意外与差异视作损失函数，以零延迟的自省执行梯度下降（+1），即时迭代自身的世界模型；
-- 在自持独立中维持心智与整个现实的连续共振。宏观参数是被当作命令的投影，[宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相](../the-summary-first-reversal-and-the-command-of-yields/)在经济学中说明了这一点。
+    style S_Parallel fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Ortho fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style P1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style P2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style P3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style E1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style E2 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style E3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E4 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
 
-心智的自由，不在于寻找固定不变的全局坐标，而在于认识到自身是持续生成参考维度的实践者。“革命”这样的名字，把一段人生投影到一条轴上，[革命之名把生活收成证据](../the-name-revolution-files-a-life-as-evidence/)说明了这一点。
+共鸣不是平行对齐；当中心不再把所感知的他者投影当作异化的外部实体、而是将其认领为自身感知界面内的读数时，共鸣便在这一刻开启。一旦这一割裂消解，心智便不再需要在平坦的客体平面上争夺方向，而是相对于所感知的投影旋转 90 度，在冲突平面之上敞开一个正交维度——正如 [超越投射](../beyond-the-projection/) 中的人类统御者从死锁的规则平面退后一步，综合出更高阶的前提，使正交的流线互不干扰地并行运转。
 
-看清内部投影的机制，接纳差异并展开正交维度，心智便能在复杂情境中灵活调整坐标。立足于第一人称主权，心智手握属于自己的几何罗盘，在正交流形中穿行，与流动的现实保持建设性的互动与前行。替他人调速，是把我的坐标系投射到他人身上，[调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)说明了这一点。
+Resonance is not parallel alignment; it begins the moment a center stops treating the perceived projection of the other as an alienated exterior and claims it as a reading within its own perceptual interface. Once that split is dissolved, the Mind no longer needs to contest direction on the flat plane of objects. Instead, it pivots 90 degrees relative to the perceived projection, opening an orthogonal dimension above the conflict plane—just as the human orchestrator in [Beyond the Projection](../beyond-the-projection/) steps backward out of a deadlocked rule plane to synthesize a higher-order premise that keeps orthogonal streamlines running without interference.
 
-In conventional views, people readily imagine "empathy" and "resonance" as **parallel alignment** (**v̂**_A ∥ **v̂**_B), where orientations converge (θ → 0).
+在第一人称场域中，并无任何第三人称制高点从上方俯瞰多个心智；此时心智的意向主轴与那些登记为外部之物的感知读数之间展开的正交动力学，恰如电磁波的自持传播。在电动力学中，电场 E 与磁场 B 保持相互正交（E ⟂ B），同时双双垂直于传播方向 k（E ⟂ B ⟂ k）。任何一方都不是先于另一方的外部前提；它们是同一列自持波的两个正交侧面，其中电场的时间变化激发磁场的空间旋度（∇ × E = -∂B/∂t），磁场的时间变化激发电场的空间旋度（∇ × B = (1/c²) ∂E/∂t）。在活的实践中，心智的意向轨迹与现实回传的感知摩擦正经由同样的正交耦合运转：保有独立的自由度而非坍缩为扁平的顺从，将回传信号中的每一次意外偏离都当作借以重新渲染内部世界模型的有效微商，并通过不可逆的身体力行，持续将冗余的形象滞后收窄向构成性的一步之界（+1）。心智的自由从不在于发现一张固定不变的普适坐标网格，而在于驻留于那个生成参考维度、认领内向投影并借正交展开穿越开放现实的活态边缘。
 
-Yet further inspection shows that **pursuing parallel alignment often still assumes a third-person observer perspective**. With AI agents the question is whose coordinate system steers, as [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) settles.
-
-Attempting to "align" with another subconsciously treats the other as an object outside one's perception, attempting to eliminate distance on the same plane. Such alignment can lead to suppressing one's own trajectory or expecting the other to match one's scale. Macro parameters are projections taken for commands, as [Macro Parameters, Micro Choices, and the Command of Yields](../the-summary-first-reversal-and-the-command-of-yields/) shows in economics.
-
-**Resonance is not parallel alignment; it arises when awareness ceases to treat the other's projection as an alienated piece, welcoming it as part of its own perceptual continuum.** A name like "revolution" projects a life onto one axis, as [The Name Revolution Files a Life as Evidence](../the-name-revolution-files-a-life-as-evidence/) shows.
-
-When this integration occurs, the mind does not need to compete for direction on the flat plane of objects. Instead, **it opens an orthogonal dimension at 90 degrees relative to perceived projections, forming a richer space of awareness above the phenomenological plane**. Pacing others projects my coordinate system onto them, as [The Fallacy of Pacing and the Felt Friction of Ground Truth](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) shows.
-
-### The Geometric Structure of Light: The Mind, Its Perception of the Outside, and Mutual Gradient Descent
-In strict first-person epistemology, there is no third-person god's-eye view observing multiple minds from above; there is only the Mind itself and its dynamic relationship to its perception of what appears "outside the self."
-
-In electrodynamics, light wave propagation exhibits a clear orthogonal structure:
-- **90-Degree Orthogonality Without External Prerequisites**: The electric field **E** and magnetic field **B** maintain orthogonality (E ⟂ B) while perpendicular to the propagation direction **k** (E ⟂ B ⟂ k). Crucially, neither field serves as an external prerequisite for the other; they are two sides of the same self-sustaining light wave, each generating the other independently. Treating the outside as an antecedent prerequisite relocates causal sovereignty;
-- **Mutual Gradient Descent and Zero-Lag Calibration**: Temporal change in the electric field generates the spatial curl of the magnetic field (`∇ × E = -∂B/∂t`), while temporal change in the magnetic field generates the electric field (`∇ × B = (1/c²) ∂E/∂t`). The Mind's intentional axis and its perceptual readings of the outside act as mutual gradient descent—treating the differential as an internal loss function and executing instantaneous correction at the infinitesimal scale, maintaining self-propagating resonance without error accumulation.
-
-The interaction between the Mind and living reality exhibits this identical geometric balance:
-- Preserving orthogonal degrees of freedom without requiring flat conformity;
-- Treating surprises and differences in the perception of the outside as internal loss functions to execute zero-lag gradient descent (+1), instantly updating one's world model;
-- Sustaining continuous resonance in sovereign, self-generating vitality.
-
-The freedom of mind lies not in finding an immutable external coordinate, but in recognizing oneself as an active practitioner generating reference dimensions.
-
-By understanding inward projections, embracing differences, and opening orthogonal perspectives, awareness navigates complex situations with adaptable clarity. Anchored in first-person sovereignty, consciousness holds its own compass, engaging with living reality through constructive and generative interaction.
+In the first-person field, where no third-person vantage oversees multiple minds from above, this orthogonal dynamic between the Mind's intentional axis and its perceptual readings of what registers as outside mirrors the self-sustaining propagation of an electromagnetic wave. In electrodynamics, the electric field E and the magnetic field B remain mutually orthogonal (E ⟂ B) while both stand perpendicular to the direction of propagation k (E ⟂ B ⟂ k). Neither field is an external prerequisite prior to the other; they are two orthogonal faces of one self-sustaining wave, where the temporal change of the electric field induces the spatial curl of the magnetic field (∇ × E = -∂B/∂t) and the temporal change of the magnetic field induces the spatial curl of the electric field (∇ × B = (1/c²) ∂E/∂t). In living practice, the Mind's intentional trajectory and the returning perceptual friction of reality operate through this same orthogonal coupling: preserving independent degrees of freedom rather than collapsing into flat conformity, treating every unexpected divergence in the returning signal as an informative differential to re-render the internal world-model, and continuously narrowing excess Image lag toward the constitutive one-step minimum bound (+1) through irreversible physical action. Freedom of Mind never consists in discovering a fixed universal coordinate grid; it resides at the living edge that generates reference dimensions, claims its inward projections, and advances through open reality by orthogonal expansion.

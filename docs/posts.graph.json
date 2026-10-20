@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T08:38:34.145Z",
+    "generated_at": "2026-10-20T08:56:56.239Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -294,7 +294,7 @@
       "content/posts/the-map-after-the-territory.md": "1a231ded3754",
       "content/posts/the-mark-and-the-act.md": "778190489f12",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "cec160d47946",
-      "content/posts/the-mind-as-vector-and-coordinate-system.md": "e5dfc5fb16e4",
+      "content/posts/the-mind-as-vector-and-coordinate-system.md": "1cc729bed0a9",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "fd3f9916d247",
       "content/posts/the-mirage-of-the-infinite-totality.md": "591249e563df",
       "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "f89cd9fc108e",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 8352,
-      "unique_directed": 4634,
+      "edges": 8356,
+      "unique_directed": 4635,
       "missing_targets": 0,
-      "one_way": 176,
+      "one_way": 175,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -1064,7 +1064,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "15ba28672abe",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -7415,9 +7415,9 @@
       "slug": "the-mind-as-vector-and-coordinate-system",
       "path": "content/posts/the-mind-as-vector-and-coordinate-system.md",
       "title": "向量、坐标系与自指心智 / The Mind as Vector and Coordinate System",
-      "hash": "e5dfc5fb16e4",
+      "hash": "1cc729bed0a9",
       "in_degree": 16,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "coordinates-in-flux-negation-and-self-anchoring",
         "coordinate-systems-mind-and-degrees-of-freedom",
@@ -7427,6 +7427,7 @@
         "the-vector-and-the-puzzle-of-projections",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "the-illusion-of-knowing-and-the-geometry-of-amputation",
+        "beyond-the-projection",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "the-summary-first-reversal-and-the-command-of-yields",
         "the-name-revolution-files-a-life-as-evidence",
@@ -46461,7 +46462,7 @@
       "from": "the-mind-as-vector-and-coordinate-system",
       "to": "coordinates-in-flux-negation-and-self-anchoring",
       "rel": "points_to",
-      "label": "流动中的坐标：关于“否定”、降维与心智的自我锚定"
+      "label": "流动中的坐标"
     },
     {
       "from": "the-mind-as-vector-and-coordinate-system",
@@ -46473,7 +46474,7 @@
       "from": "the-mind-as-vector-and-coordinate-system",
       "to": "coordinates-in-flux-negation-and-self-anchoring",
       "rel": "points_to",
-      "label": "Coordinates in Flux: On Negation, Dimensional Collapse, and the Mind's Self-Anchoring"
+      "label": "Coordinates in Flux"
     },
     {
       "from": "the-mind-as-vector-and-coordinate-system",
@@ -46497,7 +46498,7 @@
       "from": "the-mind-as-vector-and-coordinate-system",
       "to": "po-chu-gai-nian-de-jian-yue",
       "rel": "points_to",
-      "label": "Dismantling the Usurpation of Concepts"
+      "label": "Breaking the Overreach of Concepts"
     },
     {
       "from": "the-mind-as-vector-and-coordinate-system",
@@ -46545,25 +46546,37 @@
       "from": "the-mind-as-vector-and-coordinate-system",
       "to": "coordinates-in-flux-negation-and-self-anchoring",
       "rel": "points_to",
-      "label": "流动中的坐标：关于“否定”、降维与心智的自我锚定"
+      "label": "流动中的坐标"
     },
     {
       "from": "the-mind-as-vector-and-coordinate-system",
       "to": "the-illusion-of-knowing-and-the-geometry-of-amputation",
       "rel": "points_to",
-      "label": "以知为刃的截肢与解脱：从内在感知的澄明走向心智共鸣"
+      "label": "以知为刃的截肢与解脱"
     },
     {
       "from": "the-mind-as-vector-and-coordinate-system",
       "to": "coordinates-in-flux-negation-and-self-anchoring",
       "rel": "points_to",
-      "label": "Coordinates in Flux: On Negation, Dimensional Collapse, and the Mind's Self-Anchoring"
+      "label": "Coordinates in Flux"
     },
     {
       "from": "the-mind-as-vector-and-coordinate-system",
       "to": "the-illusion-of-knowing-and-the-geometry-of-amputation",
       "rel": "points_to",
       "label": "The Illusion of Knowing and the Geometry of Amputation"
+    },
+    {
+      "from": "the-mind-as-vector-and-coordinate-system",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-mind-as-vector-and-coordinate-system",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-mind-as-vector-and-coordinate-system",
@@ -46612,6 +46625,18 @@
       "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "rel": "points_to",
       "label": "The Fallacy of Pacing and the Felt Friction of Ground Truth"
+    },
+    {
+      "from": "the-mind-as-vector-and-coordinate-system",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-mind-as-vector-and-coordinate-system",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-mind-that-statistics-cannot-reveal",
