@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T20:13:16.027Z",
+    "generated_at": "2026-10-20T20:15:51.821Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -219,7 +219,7 @@
       "content/posts/the-closed-n-and-the-open-reality.md": "cdca9be1b6fb",
       "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "fd790ca70240",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
-      "content/posts/the-comment-is-not-the-code.md": "1ee31f526434",
+      "content/posts/the-comment-is-not-the-code.md": "8e17d5f4ad0e",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "3aed5a91fa9f",
       "content/posts/the-continuum-is-a-modeling-convenience.md": "179297f25408",
       "content/posts/the-continuum-of-the-fold.md": "acdea360c003",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9600,
-      "unique_directed": 4807,
+      "edges": 9602,
+      "unique_directed": 4808,
       "missing_targets": 0,
-      "one_way": 329,
+      "one_way": 330,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 170
+      "in_degree": 171
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1074,7 +1074,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 170,
+      "in_degree": 171,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -5933,15 +5933,16 @@
       "slug": "the-comment-is-not-the-code",
       "path": "content/posts/the-comment-is-not-the-code.md",
       "title": "注释不是代码 / The Comment Is Not the Code",
-      "hash": "1ee31f526434",
+      "hash": "8e17d5f4ad0e",
       "in_degree": 2,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "trusting-the-reader-is-the-last-overstep",
         "the-illusion-of-distance-and-the-dual-ruler",
         "the-model-never-becomes-a-second-edge",
         "the-residue-and-the-free-variable",
         "individual-choices-as-the-only-causal-levers",
+        "beyond-the-projection",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences"
       ]
     },
@@ -42972,15 +42973,27 @@
     },
     {
       "from": "the-comment-is-not-the-code",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-comment-is-not-the-code",
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
       "label": "任务的移交与后果的不可让渡"
     },
     {
       "from": "the-comment-is-not-the-code",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-comment-is-not-the-code",
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
-      "label": "the delegation of the task and the inalienability of consequences"
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
     },
     {
       "from": "the-compassion-is-the-mechanism-of-obscuration",
