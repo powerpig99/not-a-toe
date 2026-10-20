@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T14:39:24.229Z",
+    "generated_at": "2026-10-20T14:45:05.961Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -101,7 +101,7 @@
       "content/posts/having-more-is-never-the-cause.md": "cf6fb47f5653",
       "content/posts/help-is-half-the-problem.md": "f9e3b1859fbc",
       "content/posts/hierarchy-from-individual-difference.md": "2009502f8f3d",
-      "content/posts/how-belief-actually-changes.md": "5bd4a1b82fa2",
+      "content/posts/how-belief-actually-changes.md": "69035a97e94a",
       "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "b57804da421d",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "ac28f43f0e59",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9153,
-      "unique_directed": 4694,
+      "edges": 9155,
+      "unique_directed": 4695,
       "missing_targets": 0,
-      "one_way": 216,
+      "one_way": 217,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -449,7 +449,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 64
+      "in_degree": 65
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -1068,7 +1068,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 64,
+      "in_degree": 65,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -2811,9 +2811,9 @@
       "slug": "how-belief-actually-changes",
       "path": "content/posts/how-belief-actually-changes.md",
       "title": "信念如何真正改变 / How Belief Actually Changes",
-      "hash": "5bd4a1b82fa2",
+      "hash": "69035a97e94a",
       "in_degree": 19,
-      "out_degree": 19,
+      "out_degree": 20,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "the-strongest-belief-of-the-mind",
@@ -2826,6 +2826,7 @@
         "when-the-effect-authors-the-frame",
         "how-to-fix-your-whole-life-in-one-split-second",
         "openness-is-consistency",
+        "beyond-the-projection",
         "evil-as-the-minds-own-creation",
         "externalized-virtue-becomes-its-opposite",
         "the-allocation-of-causal-power-in-validation",
@@ -22447,9 +22448,21 @@
     },
     {
       "from": "how-belief-actually-changes",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "how-belief-actually-changes",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness Is Consistency"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "how-belief-actually-changes",

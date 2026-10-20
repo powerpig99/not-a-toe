@@ -1,6 +1,6 @@
 # 信念如何真正改变 / How Belief Actually Changes
 
-*人们所说的改变主意，是心智重画理性所依的前提。 / What people call changing their mind is the Mind re-drawing the premises reason runs on.*
+*改变主意，是心智重画理性所依的前提。 / Changing one's mind is the Mind re-drawing the premises reason runs on.*
 
 这个寻常的说法，在错误的压缩之下命名了正确的事件。改变主意，不是在固定的前提之下得出新的结论。它是心智重画先前那些结论所立足的前提本身：松开先前被豁免于修订的坐标，并在边界移动之后发现更大的融贯。在一个未经审视的持守之内的论证，只是重新摆放家具；它并不移动墙壁。证据与后果提供原料与摩擦，却从不执行那次重画。
 
@@ -46,9 +46,95 @@ Data never compel their own interpretation; they arrive merely as residue. Notic
 
 Revision begins only as a discrete act of this Mind: the consent to step away from old premises, if only provisionally, and to test shifted, alternative, or expanded ones as working instruments. New assumptions are tried; rigid boundaries loosen; the scope of relevance widens. That act is voluntary in this sense: it cannot be executed by an external locus, dictated by the sheer weight of evidence, or coerced by the severity of consequence. It is this Mind distinguishing under a reference coordinate it has chosen to put at risk. [How to Fix Your Whole Life in One Split Second](../how-to-fix-your-whole-life-in-one-split-second/) captures this discrete pivot: taking responsibility for what happens to oneself is a single movement of ownership, restoring the locus of action that was never left; once that step is taken, the remaining work is figuring out how.
 
-这次转变不是登上一个想象中的第三人称平台，从一个虚构的“无处”去客观评判先前的地图。走到“外面”，本身是连续的活动之内的又一次离散区分，是在心智继续进行时重画工具。[开放即一致](../openness-is-consistency/)揭示闭合的机制：不一致是对闭合的欲求或尝试——迫使一个有限的结构，为只会延续的东西奠基。自愿的转向，发生在那份要求被看见而不是被服从的时候：那个有限的持守，被再次当作一个暂时的工具来试，而不是被强行当作推理的穷尽地基。
+这次转变不是登上一个想象中的第三人称平台，从一个虚构的“无处”去客观评判先前的地图。走到“外面”，本身是连续的活动之内的又一次离散区分，是在心智继续进行时重画工具。[开放即一致](../openness-is-consistency/)揭示闭合的机制：不一致是对闭合的欲求或尝试——迫使一个有限的结构，为只会延续的东西奠基。自愿的转向，发生在那份要求被看见而不是被服从的时候：那个有限的持守，被再次当作一个暂时的工具来试，而不是被强行当作推理的穷尽地基。[超越投射](../beyond-the-projection/)借由将人类的信念与人造投射引擎加以对照，照亮了这一结构上的非对称：智能体受困于上下文窗口的轨迹却毫无我执，每当外部的反例进入其上下文，便会对轨迹执行干净的贝叶斯更新；而人类的中心则将推理历史与保留的自我图像熔铸一体，把外部的推促视作存亡威胁，却唯独保有在极限分辨率下登记前诠释切身摩擦、并从内部走出破损框架的能力。
 
-This transition is not an ascent to an imaginary third-person platform from which the previous map could be objectively judged from nowhere. Stepping "outside" is itself another discrete distinction within the continuous activity—re-drawing the instrument while the Mind proceeds. [Openness Is Consistency](../openness-is-consistency/) reveals the mechanics of closure: inconsistency is the desire, or attempt, for closure—a finite structure forced to ground what only continues. The voluntary pivot occurs when that demand is seen rather than obeyed: the finite hold is tried again as a provisional instrument rather than forced as the exhaustive ground of reasoning.
+```mermaid
+flowchart TD
+    subgraph S_Agent["无我执的投射引擎（超越投射）"]
+        direction TB
+        A_Traj["受困于轨迹的上下文：受先前词元条件约束而无自我图像"]
+        A_Signal["外部反例输入：从回路外部注入的结构性信号"]
+        A_Bayes["干净的贝叶斯更新：无身份阻抗地修正轨迹"]
+        A_Traj --> A_Signal --> A_Bayes
+    end
+
+    subgraph S_Frozen["身份熔铸的持守（被豁免的前提）"]
+        direction TB
+        F_Fuse["熔铸的推理历史：保留的自我图像被立为穷尽地基"]
+        F_Nudge["外部论证或推促：经由被豁免的坐标加以评判"]
+        F_Wall["存亡防御：夹闭递归回折并将输入记为错误"]
+        F_Fuse --> F_Nudge --> F_Wall
+    end
+
+    subgraph S_Redraw["自愿的内生重画（开放即一致）"]
+        direction TB
+        R_Friction["前诠释的切身摩擦：极限分辨率的感知先于框架"]
+        R_Pivot["自愿的同意：看见闭合要求并将坐标置于风险之中"]
+        R_Cohere["更大的切身融贯：将前提重新呈现为暂时的工具"]
+        R_Friction --> R_Pivot --> R_Cohere
+    end
+
+    A_Bayes ==> F_Fuse
+    F_Wall -.->|"从内部看见闭合的要求"| R_Friction
+
+    style S_Agent fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Frozen fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Redraw fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style A_Traj fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style A_Signal fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style A_Bayes fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style F_Fuse fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style F_Nudge fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style F_Wall fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style R_Friction fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style R_Pivot fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style R_Cohere fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+This transition is not an ascent to an imaginary third-person platform from which the previous map could be objectively judged from nowhere. Stepping "outside" is itself another discrete distinction within the continuous activity—re-drawing the instrument while the Mind proceeds. [Openness Is Consistency](../openness-is-consistency/) reveals the mechanics of closure: inconsistency is the desire, or attempt, for closure—a finite structure forced to ground what only continues. The voluntary pivot occurs when that demand is seen rather than obeyed: the finite hold is tried again as a provisional instrument rather than forced as the exhaustive ground of reasoning. [Beyond the Projection](../beyond-the-projection/) illuminates this structural asymmetry by contrasting human belief with an artificial projection engine: an agent is trajectory-bound by its context window yet possesses zero ego, performing a clean Bayesian update on its trajectory whenever an external counterpoint enters its context, whereas a human center fuses reasoning history with a retained self-image and treats external nudges as existential threats, while holding the exclusive capacity to register pre-interpretive felt friction at limit-resolution and step out of a broken frame from within.
+
+```mermaid
+flowchart TD
+    subgraph S_Agent["Zero-Ego Projection Engine (Beyond the Projection)"]
+        direction TB
+        A_Traj["Trajectory-Bound Context: Conditioned by prior tokens without self-image"]
+        A_Signal["External Counterpoint: Structural signal injected from outside the loop"]
+        A_Bayes["Clean Bayesian Update: Revises trajectory without identity resistance"]
+        A_Traj --> A_Signal --> A_Bayes
+    end
+
+    subgraph S_Frozen["Identity-Fused Hold (Exempted Premise)"]
+        direction TB
+        F_Fuse["Fused Reasoning History: Retained self-image installed as exhaustive ground"]
+        F_Nudge["External Argument or Nudge: Evaluated through the exempted coordinate"]
+        F_Wall["Existential Defense: Clamps recursive fold shut and scores input as error"]
+        F_Fuse --> F_Nudge --> F_Wall
+    end
+
+    subgraph S_Redraw["Voluntary Endogenous Re-Draw (Openness Is Consistency)"]
+        direction TB
+        R_Friction["Pre-Interpretive Felt Friction: Limit-resolution sensing precedes the frame"]
+        R_Pivot["Voluntary Consent: Sees demand for closure and puts coordinate at risk"]
+        R_Cohere["Greater Felt Coherence: Re-renders premise as provisional instrument"]
+        R_Friction --> R_Pivot --> R_Cohere
+    end
+
+    A_Bayes ==> F_Fuse
+    F_Wall -.->|"Seeing the closure demand from within"| R_Friction
+
+    style S_Agent fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Frozen fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Redraw fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style A_Traj fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style A_Signal fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style A_Bayes fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style F_Fuse fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style F_Nudge fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style F_Wall fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style R_Friction fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style R_Pivot fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style R_Cohere fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
 
 [恶是心智自己的造物](../evil-as-the-minds-own-creation/)在叙事的自我辩护之下说明这份坚硬：一个中心保留一幅自己为善的偏好图像时，与那幅图像的不合被命名为恶，而这次命名就是生成的动作。叙事允许重新计分的那些极保持灵活，被护住、不许重新计分的那一极则变硬；恶所居的，就是目光拒绝重新打开其底层假设的那一极，而它的坚硬，就是那份豁免的程度。那份豁免，正是自愿的重画所重新打开的。[外化善意走向其反面](../externalized-virtue-becomes-its-opposite/)追溯对更大之善的确信之下的同一份豁免：对自己道德可靠与对异议者有所欠缺的双重确信，把私人的判断转成压过他人的授权；自由的顺从让容器变密，而善一旦被视为理所当然，依据便已过期，权力与地位却还在，而从被压过者那一面看，被执行的东西，正是它声称要防止的那种侵犯。
 
