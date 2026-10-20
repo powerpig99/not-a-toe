@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T18:37:36.660Z",
+    "generated_at": "2026-10-20T18:39:20.630Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -144,7 +144,7 @@
       "content/posts/ones-potential-as-threat-or-inspiration.md": "63a25d4f0593",
       "content/posts/only-if-it-is-not-kept-empty.md": "ac0f449d6a9b",
       "content/posts/ontos-is-a-method-agent.md": "61ecab78faf8",
-      "content/posts/open-vision-in-a-closed-arena.md": "86f711861938",
+      "content/posts/open-vision-in-a-closed-arena.md": "c348a235e225",
       "content/posts/openness-is-consistency.md": "19a79498bbd3",
       "content/posts/order-surplus-and-the-moral-intercept.md": "6af5409d3970",
       "content/posts/overfitting-as-the-follower-mode.md": "c2ebb1c4e1e2",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9469,
-      "unique_directed": 4769,
+      "edges": 9473,
+      "unique_directed": 4770,
       "missing_targets": 0,
-      "one_way": 291,
+      "one_way": 292,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 138
+      "in_degree": 139
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1072,7 +1072,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 138,
+      "in_degree": 139,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -3969,14 +3969,15 @@
       "slug": "open-vision-in-a-closed-arena",
       "path": "content/posts/open-vision-in-a-closed-arena.md",
       "title": "封闭竞技场中的开放视野 / Open Vision in a Closed Arena",
-      "hash": "86f711861938",
+      "hash": "c348a235e225",
       "in_degree": 10,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
         "agi-and-asi-are-temporary-goalposts",
         "closed-reality-in-benchmark-maxing",
+        "beyond-the-projection",
         "what-works-is-the-belief",
         "production-consumption-and-the-minds-distinction",
         "closed-reality-in-the-pursuit-of-serendipity",
@@ -30570,13 +30571,25 @@
       "from": "open-vision-in-a-closed-arena",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
+      "label": "AGI and ASI Are Temporary Goalposts"
     },
     {
       "from": "open-vision-in-a-closed-arena",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem"
+      "label": "Closed Reality in Benchmark Maxing"
+    },
+    {
+      "from": "open-vision-in-a-closed-arena",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "open-vision-in-a-closed-arena",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "open-vision-in-a-closed-arena",
@@ -30600,7 +30613,7 @@
       "from": "open-vision-in-a-closed-arena",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, Consumption, and the Mind’s Distinction"
+      "label": "Production, Consumption, and the Mind's Distinction"
     },
     {
       "from": "open-vision-in-a-closed-arena",
@@ -30610,9 +30623,21 @@
     },
     {
       "from": "open-vision-in-a-closed-arena",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "open-vision-in-a-closed-arena",
       "to": "closed-reality-in-the-pursuit-of-serendipity",
       "rel": "points_to",
       "label": "Closed Reality in the Pursuit of Serendipity"
+    },
+    {
+      "from": "open-vision-in-a-closed-arena",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "open-vision-in-a-closed-arena",
