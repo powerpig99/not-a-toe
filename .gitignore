@@ -5,7 +5,10 @@ __pycache__/
 # Session resume graphs (bridge)
 memory/
 
-# Local harness + project knowledge leaf (not published)
+# Local harness + project knowledge leaf + media studio (not published)
 .claude/
 .grok/
+work/
+studio/
+
 
