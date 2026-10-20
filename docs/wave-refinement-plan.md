@@ -186,7 +186,7 @@ flowchart TD
   5. **Publish & Prune Transient Workspace (Tracked Paths Only in `git add`):**
      - Never pass gitignored paths (`work/` or `public/`) to `git add` (which exits with code `1`); stage only tracked canonical paths (`content/posts/`, `content/book/`, `data/`, `assets/`).
      - For a **Waking New Post (`N`) or Waking Refinement**: Present `walkthrough.md` (for `N`) and pause for Operator check (unless the Operator already authorized push), then `git commit` & `git push origin main`, verify live HTTP 200, delete `work/<slug>/` (`rm -rf work/<slug>`), and (for a New Post `N`) overwrite `work/wave.md` with the fresh wave state (`visited = {N}`), ready for `/sleep` to weave `N` into `L1`.
-     - For a **Sleep Wave Node Batch (`L1` / `L2` / ... / `Lk`)**: Commit all nodes completed in the batch, `git push origin main`, wait for GitHub Pages deploy (`gh run watch --exit-status`), verify live HTTP 200 on `https://powerpig99.github.io/not-a-toe/posts/<slug>/`, delete `work/<slug>/` (`rm -rf work/<slug>`), mark the nodes `[x]` in `work/wave.md`, and dispatch the next window.
+     - For a **Sleep Wave Node Batch (`L1` / `L2` / ... / `Lk`)**: Commit all nodes completed in the batch, `git push origin main`, wait for GitHub Pages deploy (`gh run watch $(gh run list --limit 1 --json databaseId --jq '.[0].databaseId') --exit-status`), verify live HTTP 200 on `https://powerpig99.github.io/not-a-toe/posts/<slug>/`, delete `work/<slug>/` (`rm -rf work/<slug>`), mark the nodes `[x]` in `work/wave.md`, and dispatch the next window.
 
 ---
 

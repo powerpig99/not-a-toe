@@ -138,5 +138,5 @@ Always execute the complete verification sequence before finalizing:
 3. `node build.mjs` — Compiles the static site into `public/`.
 4. `node scripts/project-posts-graph.mjs` — Re-projects lattice graph; ensures `missing_targets: 0`.
 5. `git add ... && git commit -m "Publish Post #XXX: <Title>" && git push origin main`.
-6. `gh run watch --exit-status` — Verifies GitHub Actions deployment succeeds.
+6. `gh run watch $(gh run list --limit 1 --json databaseId --jq '.[0].databaseId') --exit-status` — Verifies GitHub Actions deployment succeeds (passing the explicit run ID so `gh run watch` never blocks on an interactive run selector).
 7. `curl -sI https://powerpig99.github.io/not-a-toe/posts/<slug>/` — Confirms live HTTP 200.
