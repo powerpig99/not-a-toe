@@ -3,14 +3,14 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T23:09:01.796Z",
+    "generated_at": "2026-10-20T23:38:42.126Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
     "sources": {
       "content/posts/Analysis_Adolescence_of_Technology.md": "c0b218c3747d",
       "content/posts/a-creation-cannot-replace-its-source.md": "7d55aa265c69",
-      "content/posts/a-living-external-cortex.md": "8455bda81455",
+      "content/posts/a-living-external-cortex.md": "d620e21cddfc",
       "content/posts/a-new-deeper-look-at-antifragility.md": "a51cf4a49a6f",
       "content/posts/abstract-pain-and-living-hunger.md": "2e4f27bcaae8",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "290f14f205cc",
@@ -27,7 +27,7 @@
       "content/posts/an-observation-by-its-own-standard.md": "c3c67e17cfb2",
       "content/posts/better-than-free-after-the-checklist-closes.md": "62d821839a0e",
       "content/posts/beyond-the-hundred-trillion-horizon.md": "7092a6d76ade",
-      "content/posts/beyond-the-projection.md": "d02d491ba807",
+      "content/posts/beyond-the-projection.md": "77fe2468ff0d",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "6799cb961062",
       "content/posts/causality-all-the-way.md": "27e8e145c237",
       "content/posts/causality-and-the-irreducible-prior.md": "1a4210565cc0",
@@ -107,13 +107,13 @@
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "ac28f43f0e59",
       "content/posts/immortality-final.md": "df5d92452896",
       "content/posts/individual-choices-as-the-only-causal-levers.md": "73394d411e94",
-      "content/posts/intelligence-belongs-only-to-the-mind.md": "a4d561808671",
+      "content/posts/intelligence-belongs-only-to-the-mind.md": "425497acb31b",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "282c3fca9a7f",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "77408db0532e",
-      "content/posts/looping-and-graphing.md": "93427e2b843c",
-      "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "3d1ce9d759b0",
+      "content/posts/looping-and-graphing.md": "81007251f9d4",
+      "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "edbfa0fe5c9b",
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "753fa98ec858",
       "content/posts/manifesto-of-not-a-theory-of-everything.md": "218bcf935275",
       "content/posts/math-as-a-career-is-not-math-as-a-pursuit.md": "295f0ae6bd95",
@@ -285,7 +285,7 @@
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "2e492f075a1c",
       "content/posts/the-ledger-of-the-unencountered.md": "8932d526bdcc",
       "content/posts/the-limitation-is-doing-work.md": "d9e53e47a265",
-      "content/posts/the-living-context.md": "b4a940ebc385",
+      "content/posts/the-living-context.md": "0603cd0d3ea2",
       "content/posts/the-local-trap-of-technological-change.md": "64ebb0eae126",
       "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "9c43b9beb0a3",
       "content/posts/the-loop-accelerates.md": "774efc991390",
@@ -300,7 +300,7 @@
       "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "e91e8817edf2",
       "content/posts/the-mirror-handshake-of-power.md": "d87437fc547d",
       "content/posts/the-misallocation-of-agency.md": "1e59326959da",
-      "content/posts/the-model-never-becomes-a-second-edge.md": "7710e4d64684",
+      "content/posts/the-model-never-becomes-a-second-edge.md": "e05347b86c6c",
       "content/posts/the-moral-reversal-and-the-scripted-subject.md": "a614ebfdfda8",
       "content/posts/the-myth-of-population-collapse-explained.md": "afe20651bc61",
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "971cce019879",
@@ -324,7 +324,7 @@
       "content/posts/the-ramble-within-the-ramble.md": "d74212281de3",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "e536a3a8e1db",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "d46ea8578432",
-      "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "685a03d380f1",
+      "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "8c4f283b8657",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "56dda0f3f7ab",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "da0c0cd6c3f8",
       "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "5d5ae354856a",
@@ -424,10 +424,10 @@
     },
     "stats": {
       "posts": 397,
-      "edges": 9706,
-      "unique_directed": 4841,
+      "edges": 9722,
+      "unique_directed": 4849,
       "missing_targets": 0,
-      "one_way": 355,
+      "one_way": 347,
       "isolated": 35,
       "posts_with_outbound": 361,
       "book_pages": 16,
@@ -528,7 +528,7 @@
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "out_degree": 69
+      "out_degree": 70
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -544,7 +544,7 @@
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "out_degree": 46
+      "out_degree": 47
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -689,14 +689,15 @@
       "slug": "a-living-external-cortex",
       "path": "content/posts/a-living-external-cortex.md",
       "title": "活的外部皮层 / A Living External Cortex",
-      "hash": "8455bda81455",
+      "hash": "d620e21cddfc",
       "in_degree": 9,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "looping-and-graphing",
         "ontos-is-a-method-agent",
         "the-living-context",
+        "your-codebase-is-memory",
         "token-efficiency-emulation-and-the-unclosable-gap",
         "beyond-the-projection",
         "complexity-obscures-emergence-as-the-act-of-mind"
@@ -1076,9 +1077,9 @@
       "slug": "beyond-the-projection",
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
-      "hash": "d02d491ba807",
+      "hash": "77fe2468ff0d",
       "in_degree": 193,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "ontos-is-a-method-agent",
@@ -1086,6 +1087,7 @@
         "the-returning-signal-and-its-claim",
         "dimensions-are-projections",
         "the-mind-as-vector-and-coordinate-system",
+        "your-codebase-is-memory",
         "a-living-external-cortex",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
@@ -3047,9 +3049,9 @@
       "slug": "intelligence-belongs-only-to-the-mind",
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "智能只属于心智 / Intelligence Belongs Only to the Mind",
-      "hash": "a4d561808671",
+      "hash": "425497acb31b",
       "in_degree": 72,
-      "out_degree": 69,
+      "out_degree": 70,
       "links_out": [
         "curiosity-has-no-final-form",
         "why-mathematics-can-never-be-solved",
@@ -3069,6 +3071,7 @@
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "production-consumption-and-the-minds-distinction",
         "reality-is-the-minds-ongoing-realization",
         "what-information-is",
@@ -3209,9 +3212,9 @@
       "slug": "looping-and-graphing",
       "path": "content/posts/looping-and-graphing.md",
       "title": "回环与成图 / Looping and Graphing",
-      "hash": "93427e2b843c",
+      "hash": "81007251f9d4",
       "in_degree": 16,
-      "out_degree": 16,
+      "out_degree": 17,
       "links_out": [
         "self-rl-for-humans",
         "intelligence-belongs-only-to-the-mind",
@@ -3219,6 +3222,7 @@
         "token-efficiency-emulation-and-the-unclosable-gap",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
         "the-flywheel-of-the-mind",
+        "your-codebase-is-memory",
         "complexity-obscures-emergence-as-the-act-of-mind",
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
@@ -3237,9 +3241,9 @@
       "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
       "path": "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md",
       "title": "开放场域中的无损知识不自洽 / Lossless Knowledge of an Open Field Is Incoherent",
-      "hash": "3d1ce9d759b0",
+      "hash": "edbfa0fe5c9b",
       "in_degree": 24,
-      "out_degree": 23,
+      "out_degree": 24,
       "links_out": [
         "the-knowledge-problem-and-the-illusion-of-delegation",
         "the-scaling-loop",
@@ -3257,6 +3261,7 @@
         "token-efficiency-emulation-and-the-unclosable-gap",
         "causality-stays-at-the-edge-that-steers",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "clarity-isnt-a-state-you-arrive-at",
         "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
         "xian-shi-de-bian-jie",
@@ -7394,13 +7399,14 @@
       "slug": "the-living-context",
       "path": "content/posts/the-living-context.md",
       "title": "活的语境 / The Living Context",
-      "hash": "b4a940ebc385",
+      "hash": "0603cd0d3ea2",
       "in_degree": 3,
-      "out_degree": 3,
+      "out_degree": 4,
       "links_out": [
         "a-living-external-cortex",
         "looping-and-graphing",
-        "beyond-the-projection"
+        "beyond-the-projection",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -7682,10 +7688,11 @@
       "slug": "the-model-never-becomes-a-second-edge",
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge",
-      "hash": "7710e4d64684",
+      "hash": "e05347b86c6c",
       "in_degree": 59,
-      "out_degree": 46,
+      "out_degree": 47,
       "links_out": [
+        "your-codebase-is-memory",
         "the-category-error-of-better",
         "intelligence-belongs-only-to-the-mind",
         "how-to-fix-your-whole-life-in-one-split-second",
@@ -8281,9 +8288,9 @@
       "slug": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "path": "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md",
       "title": "真正稀缺的不是记忆，而是持续的重新追溯 / The Real Scarcity Is Not Memory, But Continuous Re-Tracing",
-      "hash": "685a03d380f1",
+      "hash": "8c4f283b8657",
       "in_degree": 17,
-      "out_degree": 16,
+      "out_degree": 17,
       "links_out": [
         "looping-and-graphing",
         "the-scaffolding-we-forget",
@@ -8295,6 +8302,7 @@
         "token-efficiency-emulation-and-the-unclosable-gap",
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "only-if-it-is-not-kept-empty",
+        "your-codebase-is-memory",
         "beyond-the-projection",
         "causality-all-the-way",
         "what-information-is",
@@ -10047,7 +10055,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 0,
+      "in_degree": 8,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -10652,6 +10660,18 @@
       "to": "the-living-context",
       "rel": "points_to",
       "label": "The Living Context"
+    },
+    {
+      "from": "a-living-external-cortex",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "a-living-external-cortex",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "a-living-external-cortex",
@@ -12791,6 +12811,12 @@
     },
     {
       "from": "beyond-the-projection",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "beyond-the-projection",
       "to": "dimensions-are-projections",
       "rel": "points_to",
       "label": "Dimensions Are Projections"
@@ -12800,6 +12826,12 @@
       "to": "the-mind-as-vector-and-coordinate-system",
       "rel": "points_to",
       "label": "The Mind as Vector and Coordinate System"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "beyond-the-projection",
@@ -25009,7 +25041,7 @@
       "from": "intelligence-belongs-only-to-the-mind",
       "to": "the-scaffolding-we-forget-local-models-as-default",
       "rel": "points_to",
-      "label": "我们遗忘的脚手架：以本地模型为默认"
+      "label": "以本地模型为默认是被遗忘的脚手架"
     },
     {
       "from": "intelligence-belongs-only-to-the-mind",
@@ -25021,7 +25053,7 @@
       "from": "intelligence-belongs-only-to-the-mind",
       "to": "the-scaffolding-we-forget-local-models-as-default",
       "rel": "points_to",
-      "label": "The Scaffolding We Forget: Local Models as Default"
+      "label": "Local Models as Default Is Forgotten Scaffolding"
     },
     {
       "from": "intelligence-belongs-only-to-the-mind",
@@ -25105,7 +25137,7 @@
       "from": "intelligence-belongs-only-to-the-mind",
       "to": "the-npc-impression-is-structural",
       "rel": "points_to",
-      "label": "NPC 印象是结构性的"
+      "label": "NPC 印象是结构性的，而非心智的排名"
     },
     {
       "from": "intelligence-belongs-only-to-the-mind",
@@ -25157,9 +25189,15 @@
     },
     {
       "from": "intelligence-belongs-only-to-the-mind",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "intelligence-belongs-only-to-the-mind",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
-      "label": "The Coordinator’s Category Error"
+      "label": "The Coordinator's Category Error"
     },
     {
       "from": "intelligence-belongs-only-to-the-mind",
@@ -25178,6 +25216,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "intelligence-belongs-only-to-the-mind",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "intelligence-belongs-only-to-the-mind",
@@ -25201,7 +25245,7 @@
       "from": "intelligence-belongs-only-to-the-mind",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, Consumption, and the Mind’s Distinction"
+      "label": "Production, Consumption, and the Mind's Distinction"
     },
     {
       "from": "intelligence-belongs-only-to-the-mind",
@@ -25309,7 +25353,7 @@
       "from": "intelligence-belongs-only-to-the-mind",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem"
+      "label": "Closed Reality in Benchmark Maxing"
     },
     {
       "from": "intelligence-belongs-only-to-the-mind",
@@ -25369,7 +25413,7 @@
       "from": "intelligence-belongs-only-to-the-mind",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
+      "label": "AGI and ASI Are Temporary Goalposts"
     },
     {
       "from": "intelligence-belongs-only-to-the-mind",
@@ -25387,7 +25431,7 @@
       "from": "intelligence-belongs-only-to-the-mind",
       "to": "not-a-theory-of-everything",
       "rel": "points_to",
-      "label": "非万物之理（因果的二重性）"
+      "label": "非万物之理"
     },
     {
       "from": "intelligence-belongs-only-to-the-mind",
@@ -25525,7 +25569,7 @@
       "from": "intelligence-belongs-only-to-the-mind",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
-      "label": "Data Is Local; Intelligence Is Allocated"
+      "label": "Data Is Local, Intelligence Is Allocated"
     },
     {
       "from": "intelligence-belongs-only-to-the-mind",
@@ -25723,7 +25767,7 @@
       "from": "intelligence-belongs-only-to-the-mind",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
+      "label": "Abstraction Boundaries and the Moving Edge of Reality"
     },
     {
       "from": "intelligence-belongs-only-to-the-mind",
@@ -25765,13 +25809,13 @@
       "from": "intelligence-belongs-only-to-the-mind",
       "to": "a-living-external-cortex",
       "rel": "points_to",
-      "label": "A Living External Cortex: The Closest the Image Can Come"
+      "label": "A Living External Cortex"
     },
     {
       "from": "intelligence-belongs-only-to-the-mind",
       "to": "looping-and-graphing",
       "rel": "points_to",
-      "label": "Looping and Graphing: Mind as the Loop of Loops"
+      "label": "Looping and Graphing"
     },
     {
       "from": "intelligence-belongs-only-to-the-mind",
@@ -26297,6 +26341,18 @@
     },
     {
       "from": "looping-and-graphing",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "looping-and-graphing",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "looping-and-graphing",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
       "label": "复杂性遮蔽了涌现之为心智的行动"
@@ -26606,6 +26662,18 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "lossless-knowledge-of-an-open-field-is-incoherent",
@@ -51460,6 +51528,18 @@
       "label": "Beyond the Projection"
     },
     {
+      "from": "the-living-context",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-living-context",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
       "from": "the-local-trap-of-technological-change",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
@@ -52781,9 +52861,21 @@
     },
     {
       "from": "the-model-never-becomes-a-second-edge",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
       "to": "the-category-error-of-better",
       "rel": "points_to",
       "label": "「更好」的范畴谬误"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-model-never-becomes-a-second-edge",
@@ -56663,9 +56755,21 @@
     },
     {
       "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "超越投射"
+    },
+    {
+      "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",

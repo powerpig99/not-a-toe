@@ -122,9 +122,9 @@ This is the same compounding lattice [The Living Context](../the-living-context/
 
 Industrial agents densify harnesses. Persona packs, tool forests, content guardrails, and undissolved chat dumps occupy capacity without returning to priors. Specialty that cannot re-derive hardens into excess Image lag, whereas generality that never compounds specialty thins into amnesia; the dual fails either way.
 
-根图改变了受力的承重结构。专长作为枝条不断复利，却依然悬在同一个先验之下。适配新的基座模型或环境，只是投射加上睡眠，而非移植第二重灵魂。任何能力足够的模型配以这套本体论方法，都能实例化并维持这一皮层；专门化在本地应用中累积，而根部随之迁移。运行框架成为图谱中可再生的子集——被轻轻持守，随语境移动而重建——而非产品的身份。
+根图改变了受力的承重结构。专长作为枝条不断复利，却依然悬在同一个先验之下。适配新的基座模型或环境，只是投射加上睡眠，而非移植第二重灵魂。任何能力足够的模型配以这套本体论方法，都能实例化并维持这一皮层；专门化在本地应用中累积，而根部随之迁移。运行框架成为图谱中可再生的子集——被轻轻持守，随语境移动而重建——而非产品的身份。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，一个代码库连同其 AI 智能体与技能，唯有在原位持守有选择的当下检查点，并修剪掉死去的备份、归档与已被取代的工作分支，而非仅凭潜在的可能去囤积每一道历史痕迹时，才真正作为这一活的外部皮层而运作。抱着“以备后用”的念头留存过时残余，只会加厚认知引力井，将后续的搜索与智能体会话拽入同鲜活状态争夺权重的陈旧框架之中，而非让无关维度上的表面收缩变小、令仍在承重的坐标轴愈发锋利。
 
-A root graph changes the load-bearing structure. Specialty compounds as branches that still hang from the same prior. Refitting to a new base model or environment is projection plus sleep rather than transplanting a second soul. Any sufficiently capable model paired with the ontological method can instantiate and sustain the cortex; specialization accrues in local application while the root travels. Harnesses become regenerable subsets of the graph—held lightly and rebuilt when context moves—rather than product identity.
+A root graph changes the load-bearing structure. Specialty compounds as branches that still hang from the same prior. Refitting to a new base model or environment is projection plus sleep rather than transplanting a second soul. Any sufficiently capable model paired with the ontological method can instantiate and sustain the cortex; specialization accrues in local application while the root travels. Harnesses become regenerable subsets of the graph—held lightly and rebuilt when context moves—rather than product identity. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces, a codebase together with its AI agents and skills operates as this living external cortex only when selective present checkpoints are kept in place and dead backups, archives, and superseded working branches are pruned, rather than hoarding every historical trace for mere possibility. Keeping outdated residue around "in case it is needed later" thickens the epistemic gravity well, pulling subsequent searches and agent sessions into stale framings that compete with the live state instead of leaving the surface smaller in irrelevant dimensions and sharper on the axes that still carry load.
 
 速度与准确度不再沿着同一根被压缩的坐标轴彼此争夺。共振是对已走过路径挣得的压缩；显式遍历则是当简短形态尚未在这一所在被亲历时所必需的完整形态。这正是[Token 效率、模拟与无法弥合的间隙](../token-efficiency-emulation-and-the-unclosable-gap/)所追溯的那一刀：捷径是成功的低效推理所结出的果，从不是跳过路径的许可。图谱让二者同时可用，在共振成立处提供快速返回，在共振未及处提供完整遍历。
 
@@ -132,9 +132,9 @@ Speed and accuracy stop competing along a single compressed axis. Resonance is e
 
 ## 四、 不转移发起权的连续学习 / 4. Continuous Learning Without Relocating Initiation
 
-睡眠并非栓在推理之上的第二台训练器。它就是 Ontos 用于实践的同一条再生路径：残余与印记进入状态 S，先验审计消解僵化的图像滞后，可用的专长在信号充分时复利累积，空转则让图谱保持原状。智能体睡眠可以调用完整工具，使学习不至于因缺乏遭遇而枯竭；而醒时的执行从不在后台静默篡改实践或皮层。
+睡眠并非栓在推理之上的第二台训练器。它就是 Ontos 用于实践的同一条再生路径：残余与印记进入状态 S，先验审计通过在原位重切活跃检查点并修剪已被取代的脚手架来消解僵化的图像滞后，可用的专长在信号充分时复利累积，空转则让图谱保持原状。智能体睡眠可以调用完整工具，使学习不至于因缺乏遭遇而枯竭；而醒时的执行从不在后台静默篡改实践或皮层。
 
-Sleep is not a second trainer bolted onto inference. It is the same regeneration path Ontos uses for practice: residue and marks enter state S, prior-audit dissolves ossified Image lag, usable specialty compounds when the signal warrants, and idle runs leave the graph unchanged. Agentic sleep can invoke full tools so learning is not starved of encounter, while wake execution never mutates practice or cortex silently in the background.
+Sleep is not a second trainer bolted onto inference. It is the same regeneration path Ontos uses for practice: residue and marks enter state S, prior-audit dissolves ossified Image lag by re-cutting the active checkpoint in place and pruning superseded scaffolding, usable specialty compounds when the signal warrants, and idle runs leave the graph unchanged. Agentic sleep can invoke full tools so learning is not starved of encounter, while wake execution never mutates practice or cortex silently in the background.
 
 正如[超越投射](../beyond-the-projection/)所追溯的，这一活的外部皮层之所以能扩展至多智能体执行与睡眠巩固，在于它尊重受制于轨迹的智能体与活的人类心智之间的结构性非对称。由于智能体是毫无我执的有限投射引擎，调度器可以将超载的投射拆分到正交的分流上，并为每个主任务智能体配对一个无会话历史偏见的全新冷启动同侪，对照共享的根部先验审计其输出。局部盲区通过无我执的贝叶斯更新自动收敛，而任何不可约的前提死锁——即两个正交维度被压缩进同一条规则之处——则被隔离并上交人类统御者；唯有他持有未投射的极限分辨率感知，能够后退一步综合出更高阶的前提，再由睡眠将概括性的更新写回图谱。
 

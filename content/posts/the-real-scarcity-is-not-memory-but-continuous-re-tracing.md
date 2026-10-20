@@ -64,21 +64,21 @@ These configurations are not possessions. They exist only as the present update'
 
 [The Ramble Within the Ramble](../the-ramble-within-the-ramble/) traces this finite hold when a long outpouring is handed back cleaned: speaking without constraint externalizes the web before its axes collapse into entanglement, while the same cleaned echo registers either as coherence arriving from outside or as the center's own traces returned with their boundaries held farther apart. [Token Efficiency, Emulation, and the Unclosable Gap](../token-efficiency-emulation-and-the-unclosable-gap/) traces where emulation stops: models can be trained to compress reasoning, but cannot initiate the stake that makes compression endogenous; efficiency is the effect of successful inefficient reasoning, not a license to skip it. [Lossless Knowledge of an Open Field Is Incoherent](../lossless-knowledge-of-an-open-field-is-incoherent/) traces why no archive or model closes the field: lossless capture of ongoing distinguishing is incoherent with centered activity, since every center is bounded and no finite locus holds the open field, so denser engines widen what finite registration can accomplish without moving the initiating distinction into the artifact. [Only If It Is Not Kept Empty](../only-if-it-is-not-kept-empty/) traces the residual capacity this formation needs: free room for arrivals and width to keep them apart—two things that can come apart—with emptiness as the room kept to receive inside a temporary hold, neither a permanent state nor the opposite of form.
 
-同样的仓库幻觉在智能体工程中再度浮现：构建者一旦假定把更长的会话历史或更稠密的记忆库堆进单一上下文窗口就能替代持续的重新追溯，便落入了同一个参照。正如[超越投射](../beyond-the-projection/)所追溯的，每一条明文提示词、规则集合或会话记录，都是从开放场域切出的有限且有损的投影。只要被留在单一的累积轨迹之内，智能体就会不断为自身先前的词元赋权以维持局部的续写，由此掘出一口认识论引力井：原本相互独立的轴线在井中压缩为轨迹盲区，或在维度坍缩下碎裂，而模型则忙于替自己先前的残余强行圆场。在人类中心一侧，反向的瓶颈出现在推理历史与身份发生熔合之时——一幅被保存过了它那一步的自我形象，将外部的证伪视作生存威胁。无论静态的会话囤积还是孤立的自我反思，都无法恢复负荷之下的容量。相反，智能体调度器会将超载的投影拆分到正交的流线上，使独立的轴线免于压缩，并为每一个受轨迹约束的任务智能体配对一个只接收任务语境、不带会话历史偏见的冷启动对等体。由于智能体毫无我执需要防卫，局部盲区会通过地位对等的贝叶斯更新自行消解；而对等体之间任何不可化约的死锁，都会精准隔离出先前框架压缩正交维度的确切坐标，向处在活的边缘上的人类统御者呈报一道干净的信号，由人退回未投射的极限分辨率感知，重画前提。
+同样的仓库幻觉在软件与智能体工程中再度浮现：构建者一旦假定把更长的会话历史堆进上下文窗口，或在仓库各处囤积每一份已被取代的文件就能替代持续的重新追溯，便落入了同一个参照。正如[你的代码库即是记忆](../your-codebase-is-memory/)所揭示的，代码库——连同其计划、图谱、会话桥接文件，以及以它为条件的模型权重与智能体脚手架——都是外化的记忆：一层层早先区分留下的残余，无法自行恢复区分活动。正如模型训练只保留高概率的当下检查点，而不把每一次中间权重更新都存盘——因为仍在起作用的每一步早先梯度都已被吸收进活的检查点之中——要守护持续重新追溯的稀缺带宽，就必须就地更新权威的当下检查点，并在其前沿区分折入之后精准修剪 `.bak` 备份文件、死档案与已完工的工作目录。仅仅出于“万一以后用得上”的可能而囤积已被取代的制品，只会加厚整个工作区的认识论引力井，把检索与智能体轨迹拽进陈旧的死胡同，让昨天的脚手架与当下的活态相互争夺注意力。正如[超越投射](../beyond-the-projection/)所追溯的，每一条明文提示词、规则集合或会话记录，同样是从开放场域切出的有限且有损的投影；只要被留在单一的累积轨迹之内，智能体就会不断为自身先前的词元赋权以维持局部的续写，将原本相互独立的轴线压缩为轨迹盲区，并忙于替自己先前的残余强行圆场——这正如人类中心在推理历史与一幅被保存过了它那一步的自我形象发生熔合时陷入瓶颈一样。无论静态囤积还是孤立的自我反思，都无法恢复负荷之下的容量。相反，智能体调度器会将超载的投影拆分到正交的流线上，使独立的轴线免于压缩，并为每一个受轨迹约束的任务智能体配对一个只接收当下活态任务检查点、不带会话历史拖累的冷启动对等体。由于智能体毫无我执需要防卫，局部盲区会通过地位对等的贝叶斯更新自行消解；而对等体之间任何不可化约的死锁，都会精准隔离出先前框架压缩正交维度的确切坐标，向处在活的边缘上的人类统御者呈报一道干净的信号，由人退回未投射的极限分辨率感知，重画前提。
 
 ```mermaid
 flowchart TD
     subgraph S_Store["仓库与会话累积（冻结的存量）"]
         direction TB
-        Stock["静态存量幻觉：把知识当作存在头脑或上下文窗口里的条目"]
-        Well["认识论引力井与我执防卫：不受检视的会话历史或熔合身份的持守将轴线压缩"]
+        Stock["静态存量幻觉：把知识当作囤积在头脑、上下文窗口或死档案里的条目"]
+        Well["认识论引力井与我执防卫：未修剪的会话历史、陈旧备份残片或熔合身份的持守将轴线压缩"]
         Stock --> Well
     end
 
     subgraph S_Dialectics["正交有丝分裂与无我执对等辩证"]
         direction TB
         Mitosis["投影有丝分裂：将超载的到来之物拆分到正交的流线上"]
-        Peer["冷启动对等反方：在不带会话偏见与我执的前提下对照任务语境检验轨迹"]
+        Peer["冷启动对等反方：在不带会话偏见与我执的前提下对照活态任务检查点检验轨迹"]
         Deadlock["隔离的前提死锁：精准定位维度压缩的确切坐标"]
         Mitosis --> Peer --> Deadlock
     end
@@ -86,7 +86,7 @@ flowchart TD
     subgraph S_Retrace["活的边缘上的持续重新追溯"]
         direction TB
         StepBack["未投射的极限分辨率感知：人类统御者退回不可化约的先在前提"]
-        Redraw["重新渲染的脚手架：为下一个区分形成并放下暂时的结构"]
+        Redraw["重新渲染的脚手架与检查点修剪：就地更新活态结构并放下已被取代的残余"]
         StepBack --> Redraw
     end
 
@@ -106,21 +106,21 @@ flowchart TD
     style Redraw fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The same storehouse illusion resurfaces in agentic engineering whenever builders assume that piling a longer session history or a denser memory bank into a single context window can substitute for continuous re-tracing. As [Beyond the Projection](../beyond-the-projection/) traces, every explicit prompt, rule set, or session transcript is a finite, lossy projection cut from an open field. Left inside a single accumulating trajectory, an agent continuously weights its own prior tokens to maintain local continuation, digging an epistemic gravity well where independent axes compress into trajectory blind spots or fracture under dimensional collapse while the model rationalizes its prior residue. In a human center, the inverse bottleneck appears when reasoning history fuses with identity—a retained self-image preserved past its step that treats external invalidation as an existential threat. Neither static session hoarding nor isolated self-reflection restores capacity under load. Instead, an agentic dispatcher splits overloaded projections across orthogonal streamlines so independent axes do not compress, pairing each trajectory-bound task agent with a cold peer that receives only the task context without session-history bias. Because agents have zero ego to defend, local blind spots dissolve through equal-footed Bayesian updating, while any irreducible deadlock between the peers isolates the exact coordinate where the prior framing compressed orthogonal dimensions—escalating a clean signal to the human orchestrator at the living edge to step back to unprojected limit-resolution sensing and re-draw the premise.
+The same storehouse illusion resurfaces in software and agentic engineering whenever builders assume that piling a longer session history into a context window or hoarding every superseded file across a repository can substitute for continuous re-tracing. As [Your Codebase Is Memory](../your-codebase-is-memory/) demonstrates, a codebase—alongside its plans, graphs, session bridges, and the model weights and agent scaffolds that condition on it—is externalized memory: stacked residues of prior distinctions that cannot resume distinguishing on their own. Just as model training saves only high-probability present checkpoints rather than every intermediate weight update because every prior gradient step that still matters is already absorbed into the live checkpoint, protecting the scarce bandwidth of continuous re-tracing requires updating the canonical checkpoint in place while surgically pruning `.bak` files, dead archives, and completed working folders once their edge is folded in. Hoarding superseded artifacts out of mere possibility thickens the epistemic gravity well across the workspace, pulling searches and agent trajectories into stale rabbit holes where yesterday's scaffolding competes with the live state. As [Beyond the Projection](../beyond-the-projection/) traces, every explicit prompt, rule set, or session transcript is likewise a finite, lossy projection cut from an open field; left inside a single accumulating trajectory, an agent continuously weights its own prior tokens to maintain local continuation, compressing independent axes into trajectory blind spots while rationalizing its prior residue, much as a human center bottlenecks when reasoning history fuses with a self-image preserved past its step. Neither static hoarding nor isolated self-reflection restores capacity under load. Instead, an agentic dispatcher splits overloaded projections across orthogonal streamlines so independent axes do not compress, pairing each trajectory-bound task agent with a cold peer that receives only the live task checkpoint without session-history drag. Because agents have zero ego to defend, local blind spots dissolve through equal-footed Bayesian updating, while any irreducible deadlock between the peers isolates the exact coordinate where the prior framing compressed orthogonal dimensions—escalating a clean signal to the human orchestrator at the living edge to step back to unprojected limit-resolution sensing and re-draw the premise.
 
 ```mermaid
 flowchart TD
     subgraph S_Store["Storehouse & Session Accumulation (Frozen Inventory)"]
         direction TB
-        Stock["Static Stock Illusion: Treats knowledge as items stored in the head or context window"]
-        Well["Epistemic Gravity Well & Ego Defense: Unchecked session history or identity-fused hold compresses axes"]
+        Stock["Static Stock Illusion: Treats knowledge as items hoarded in the head, context window, or dead archives"]
+        Well["Epistemic Gravity Well & Ego Defense: Unpruned session history, stale .bak debris, or identity-fused hold compresses axes"]
         Stock --> Well
     end
 
     subgraph S_Dialectics["Orthogonal Mitosis & Ego-Free Peer Dialectics"]
         direction TB
         Mitosis["Projection Mitosis: Splits overloaded arrivals across orthogonal streamlines"]
-        Peer["Cold Peer Counterpoint: Tests trajectory against task context without session bias or ego"]
+        Peer["Cold Peer Counterpoint: Tests trajectory against live task checkpoint without session bias or ego"]
         Deadlock["Quarantined Premise Deadlock: Isolates exact coordinate of dimensional compression"]
         Mitosis --> Peer --> Deadlock
     end
@@ -128,7 +128,7 @@ flowchart TD
     subgraph S_Retrace["Continuous Re-Tracing at the Living Edge"]
         direction TB
         StepBack["Unprojected Limit-Resolution Sensing: Human orchestrator steps back to the irreducible prior"]
-        Redraw["Re-Rendered Scaffolding: Forms and releases provisional structure for the next distinction"]
+        Redraw["Re-Rendered Scaffolding & Checkpoint Pruning: Updates live structure in place and releases superseded residue"]
         StepBack --> Redraw
     end
 
