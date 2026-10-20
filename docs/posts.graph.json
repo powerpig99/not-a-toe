@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T12:59:21.821Z",
+    "generated_at": "2026-10-20T13:00:39.125Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -382,7 +382,7 @@
       "content/posts/what-cannot-be-kept.md": "54489c87b990",
       "content/posts/what-hinton-failed-to-understand.md": "7f93097607b5",
       "content/posts/what-information-is.md": "7cd6825d3ad0",
-      "content/posts/what-works-is-the-belief.md": "37b5d1183dd7",
+      "content/posts/what-works-is-the-belief.md": "ffaf3ba6158a",
       "content/posts/whatever-is-one-prompt-away.md": "71e278b0d349",
       "content/posts/when-abundance-looks-like-scarcity.md": "c3c272357465",
       "content/posts/when-electrons-think.md": "fbdd3178e8f3",
@@ -407,7 +407,7 @@
       "content/book/causality.md": "8e1dd347f9fa",
       "content/book/consciousness.md": "84e10ab5f9aa",
       "content/book/economics.md": "0208ea9246ef",
-      "content/book/index-of-premises.md": "7e4b7c9b4741",
+      "content/book/index-of-premises.md": "1b99a7756f6d",
       "content/book/intelligence.md": "728830704d58",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -417,16 +417,16 @@
       "content/book/morality.md": "0024610ecad0",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
-      "content/book/state-and-collective.md": "ac12c411779e",
+      "content/book/state-and-collective.md": "2910cc1a33ce",
       "content/book/success-and-the-self.md": "3ca8a126e068",
       "content/book/tools-and-progress.md": "f326c837af48"
     },
     "stats": {
       "posts": 396,
-      "edges": 8922,
-      "unique_directed": 4661,
+      "edges": 8952,
+      "unique_directed": 4662,
       "missing_targets": 0,
-      "one_way": 187,
+      "one_way": 188,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -480,16 +480,16 @@
       "in_degree": 37
     },
     {
+      "slug": "beyond-the-projection",
+      "in_degree": 35
+    },
+    {
       "slug": "closed-reality-in-benchmark-maxing",
       "in_degree": 35
     },
     {
       "slug": "production-consumption-and-the-minds-distinction",
       "in_degree": 35
-    },
-    {
-      "slug": "beyond-the-projection",
-      "in_degree": 34
     },
     {
       "slug": "mistaking-the-expression-for-the-intelligence",
@@ -1067,7 +1067,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 34,
+      "in_degree": 35,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -9505,36 +9505,37 @@
       "kind": "post",
       "slug": "what-works-is-the-belief",
       "path": "content/posts/what-works-is-the-belief.md",
-      "title": "What Works Is the Belief",
-      "hash": "37b5d1183dd7",
+      "title": "起作用的是信念 / What Works Is the Belief",
+      "hash": "ffaf3ba6158a",
       "in_degree": 26,
-      "out_degree": 26,
+      "out_degree": 27,
       "links_out": [
         "sovereignty-belief-and-regulatory-structures",
+        "the-strongest-belief-of-the-mind",
+        "hardness-is-not-inherent-in-the-action",
         "the-source-of-all-harm",
+        "preference-clusters-and-the-language-of-judgment",
+        "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
         "price-as-utterance-understanding-as-trade",
+        "ownership-cost-freezes-lagged-averages-as-vehicle-property",
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
+        "beyond-the-projection",
+        "the-real-lesson-from-the-consciousness-vector-paper",
+        "restriction-is-a-selective-tax",
         "the-risk-you-delegate-is-the-risk-you-create",
         "open-vision-in-a-closed-arena",
-        "name-negation-tendency",
-        "what-cannot-be-kept",
-        "clarity-isnt-a-state-you-arrive-at",
-        "hardness-is-not-inherent-in-the-action",
-        "the-reality-distortion-field-names-the-closed-map",
-        "the-reality-distortion-field-inverts-the-baseline",
-        "ownership-cost-freezes-lagged-averages-as-vehicle-property",
         "the-risk-is-the-belief-in-oversight-itself",
-        "restriction-is-a-selective-tax",
-        "the-strongest-belief-of-the-mind",
-        "symptom-and-cause-in-the-narratives-of-progress",
-        "preference-clusters-and-the-language-of-judgment",
-        "the-reversal-from-defensible-claim-to-dogma",
-        "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
-        "the-real-lesson-from-the-consciousness-vector-paper",
-        "closed-assumptions-squeeze-compounding-into-s-curves",
+        "name-negation-tendency",
         "the-price-of-closing-optionality",
         "the-imagining-of-ai-risk",
+        "the-reality-distortion-field-names-the-closed-map",
+        "the-reality-distortion-field-inverts-the-baseline",
+        "closed-assumptions-squeeze-compounding-into-s-curves",
+        "symptom-and-cause-in-the-narratives-of-progress",
+        "the-reversal-from-defensible-claim-to-dogma",
+        "what-cannot-be-kept",
+        "clarity-isnt-a-state-you-arrive-at",
         "causality-all-the-way"
       ]
     },
@@ -61068,37 +61069,181 @@
       "from": "what-works-is-the-belief",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
-      "label": "Sovereignty, belief, and the generation of regulatory structures"
+      "label": "主权、信念与规制结构的生成"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "the-strongest-belief-of-the-mind",
+      "rel": "points_to",
+      "label": "心智最坚固的信念"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "hardness-is-not-inherent-in-the-action",
+      "rel": "points_to",
+      "label": "难度不在行动本身"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "the-strongest-belief-of-the-mind",
+      "rel": "points_to",
+      "label": "The Strongest Belief of the Mind"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "hardness-is-not-inherent-in-the-action",
+      "rel": "points_to",
+      "label": "Hardness Is Not Inherent in the Action"
     },
     {
       "from": "what-works-is-the-belief",
       "to": "the-source-of-all-harm",
       "rel": "points_to",
-      "label": "The source of all harm"
+      "label": "一切伤害的根源"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "偏好聚类与评判语言"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "rel": "points_to",
+      "label": "要求他人开放是对自我封闭的渴望"
     },
     {
       "from": "what-works-is-the-belief",
       "to": "price-as-utterance-understanding-as-trade",
       "rel": "points_to",
-      "label": "Price as utterance, understanding as trade"
+      "label": "价格是言说，理解是交易"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "rel": "points_to",
+      "label": "拥有成本把滞后的平均值冻结为车辆属性"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "the-source-of-all-harm",
+      "rel": "points_to",
+      "label": "The Source of All Harm"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "Preference Clusters and the Language of Judgment"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "rel": "points_to",
+      "label": "Advocating Openness of Others Is a Desire for Closure of the Self"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "Price as Utterance, Understanding as Trade"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "rel": "points_to",
+      "label": "Ownership Cost Freezes Lagged Averages as Vehicle Property"
     },
     {
       "from": "what-works-is-the-belief",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "没有系统能被保持封闭"
     },
     {
       "from": "what-works-is-the-belief",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "the-real-lesson-from-the-consciousness-vector-paper",
+      "rel": "points_to",
+      "label": "意识向量论文的真正教训"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "the-real-lesson-from-the-consciousness-vector-paper",
+      "rel": "points_to",
+      "label": "The Real Lesson from the Consciousness Vector Paper"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "限制是选择性的税"
     },
     {
       "from": "what-works-is-the-belief",
       "to": "the-risk-you-delegate-is-the-risk-you-create",
       "rel": "points_to",
-      "label": "The risk you delegate is the risk you create"
+      "label": "你委托的风险就是你创造的风险"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "open-vision-in-a-closed-arena",
+      "rel": "points_to",
+      "label": "封闭竞技场中的开放视野"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "风险在于对监管本身的迷信"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "Restriction Is a Selective Tax"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "the-risk-you-delegate-is-the-risk-you-create",
+      "rel": "points_to",
+      "label": "The Risk You Delegate Is the Risk You Create"
     },
     {
       "from": "what-works-is-the-belief",
@@ -61108,111 +61253,147 @@
     },
     {
       "from": "what-works-is-the-belief",
-      "to": "name-negation-tendency",
-      "rel": "points_to",
-      "label": "Name-negation tendency"
-    },
-    {
-      "from": "what-works-is-the-belief",
-      "to": "what-cannot-be-kept",
-      "rel": "points_to",
-      "label": "What cannot be kept"
-    },
-    {
-      "from": "what-works-is-the-belief",
-      "to": "clarity-isnt-a-state-you-arrive-at",
-      "rel": "points_to",
-      "label": "Clarity isn’t a state you arrive at"
-    },
-    {
-      "from": "what-works-is-the-belief",
-      "to": "hardness-is-not-inherent-in-the-action",
-      "rel": "points_to",
-      "label": "Hardness is not inherent in the action"
-    },
-    {
-      "from": "what-works-is-the-belief",
-      "to": "the-reality-distortion-field-names-the-closed-map",
-      "rel": "points_to",
-      "label": "The reality distortion field names the closed map"
-    },
-    {
-      "from": "what-works-is-the-belief",
-      "to": "the-reality-distortion-field-inverts-the-baseline",
-      "rel": "points_to",
-      "label": "The reality distortion field inverts the baseline"
-    },
-    {
-      "from": "what-works-is-the-belief",
-      "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
-      "rel": "points_to",
-      "label": "Ownership cost freezes lagged averages as vehicle property"
-    },
-    {
-      "from": "what-works-is-the-belief",
       "to": "the-risk-is-the-belief-in-oversight-itself",
       "rel": "points_to",
-      "label": "The risk is the belief in oversight itself"
+      "label": "The Risk Is the Belief in Oversight Itself"
     },
     {
       "from": "what-works-is-the-belief",
-      "to": "restriction-is-a-selective-tax",
+      "to": "name-negation-tendency",
       "rel": "points_to",
-      "label": "Restriction is a selective tax"
-    },
-    {
-      "from": "what-works-is-the-belief",
-      "to": "the-strongest-belief-of-the-mind",
-      "rel": "points_to",
-      "label": "The strongest belief of the Mind"
-    },
-    {
-      "from": "what-works-is-the-belief",
-      "to": "symptom-and-cause-in-the-narratives-of-progress",
-      "rel": "points_to",
-      "label": "Symptom and cause in the narratives of progress"
-    },
-    {
-      "from": "what-works-is-the-belief",
-      "to": "preference-clusters-and-the-language-of-judgment",
-      "rel": "points_to",
-      "label": "Preference clusters and the language of judgment"
-    },
-    {
-      "from": "what-works-is-the-belief",
-      "to": "the-reversal-from-defensible-claim-to-dogma",
-      "rel": "points_to",
-      "label": "The reversal from defensible claim to dogma"
-    },
-    {
-      "from": "what-works-is-the-belief",
-      "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
-      "rel": "points_to",
-      "label": "Advocating openness of others is a desire for closure of the self"
-    },
-    {
-      "from": "what-works-is-the-belief",
-      "to": "the-real-lesson-from-the-consciousness-vector-paper",
-      "rel": "points_to",
-      "label": "The real lesson from the consciousness vector paper"
-    },
-    {
-      "from": "what-works-is-the-belief",
-      "to": "closed-assumptions-squeeze-compounding-into-s-curves",
-      "rel": "points_to",
-      "label": "Closed assumptions squeeze compounding into S-curves"
+      "label": "名称背反倾向"
     },
     {
       "from": "what-works-is-the-belief",
       "to": "the-price-of-closing-optionality",
       "rel": "points_to",
-      "label": "The price of closing optionality"
+      "label": "关闭选择权的代价"
     },
     {
       "from": "what-works-is-the-belief",
       "to": "the-imagining-of-ai-risk",
       "rel": "points_to",
-      "label": "The imagining of AI risk"
+      "label": "对 AI 风险的想象"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "name-negation-tendency",
+      "rel": "points_to",
+      "label": "The Name-Negation Tendency"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "the-price-of-closing-optionality",
+      "rel": "points_to",
+      "label": "The Price of Closing Optionality"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "the-imagining-of-ai-risk",
+      "rel": "points_to",
+      "label": "The Imagining of AI Risk"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "the-reality-distortion-field-names-the-closed-map",
+      "rel": "points_to",
+      "label": "现实扭曲力场指认的是封闭的地图"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "现实扭曲力场颠倒了基线"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "rel": "points_to",
+      "label": "封闭的假设把复利挤成 S 曲线"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "进步叙事中的症候与原因"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "the-reversal-from-defensible-claim-to-dogma",
+      "rel": "points_to",
+      "label": "从可辩护的主张到教条的反转"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "the-reality-distortion-field-names-the-closed-map",
+      "rel": "points_to",
+      "label": "The Reality Distortion Field Names the Closed Map"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The Reality Distortion Field Inverts the Baseline"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "rel": "points_to",
+      "label": "Closed Assumptions Squeeze Compounding into S-Curves"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and Cause in the Narratives of Progress"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "the-reversal-from-defensible-claim-to-dogma",
+      "rel": "points_to",
+      "label": "The Reversal from Defensible Claim to Dogma"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "what-cannot-be-kept",
+      "rel": "points_to",
+      "label": "留不住的"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "what-cannot-be-kept",
+      "rel": "points_to",
+      "label": "What Cannot Be Kept"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "清晰不是抵达的终点，而是运动本身"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "因果贯穿始终"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "what-works-is-the-belief",
@@ -63584,7 +63765,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "7e4b7c9b4741",
+        "hash": "1b99a7756f6d",
         "out_degree": 396
       },
       {
@@ -63674,7 +63855,7 @@
         "slug": "state-and-collective",
         "path": "content/book/state-and-collective.md",
         "title": "国家集体与权力的镜像 / The State, Collectives, and the Mirror of Power",
-        "hash": "ac12c411779e",
+        "hash": "2910cc1a33ce",
         "out_degree": 30
       },
       {
@@ -67277,7 +67458,7 @@
         "from": "book:index-of-premises",
         "to": "what-works-is-the-belief",
         "rel": "collects",
-        "label": "What Works Is the Belief"
+        "label": "起作用的是信念 / What Works Is the Belief"
       },
       {
         "from": "book:index-of-premises",
@@ -69749,7 +69930,7 @@
         "from": "book:state-and-collective",
         "to": "what-works-is-the-belief",
         "rel": "collects",
-        "label": "What Works Is the Belief"
+        "label": "起作用的是信念 / What Works Is the Belief"
       },
       {
         "from": "book:state-and-collective",

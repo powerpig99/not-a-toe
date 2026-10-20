@@ -3662,7 +3662,7 @@ Formalists define consistency as a sealed, contradiction-free axiom set; living 
 
 Legal prohibitions assume a statute physically prevents illicit activity; laws work only by stabilizing an ideological consensus that alters subjective cost calculations.
 
-→ [What Works Is the Belief](../../posts/what-works-is-the-belief/)
+→ [起作用的是信念 / What Works Is the Belief](../../posts/what-works-is-the-belief/)
 
 ### 乐观与悲观的钟摆极性 / Optimism-Pessimism Polarity
 `哲学 / Philosophical`

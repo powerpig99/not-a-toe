@@ -164,10 +164,6 @@
       "title_zh": "我们遗忘的脚手架：以本地模型为默认",
       "subtitle_zh": "一种能力被登记为开放；其上竖起一个确定的默认；竖起的过程隐去，默认便被登记为情境本身所指示的东西。"
     },
-    "what-works-is-the-belief": {
-      "title_zh": "起作用的是信念",
-      "subtitle_zh": "一道禁令在场域里什么也封不住；它稳定的是那些把封印当作根据的人所持的信念。"
-    },
     "you-cant-benchmark-the-fluid": {
       "title_zh": "流动之物无法被基准衡量",
       "subtitle_zh": "肖莱设计 ARC 来衡量流体智能，它的矛盾不在技术，而在结构。"
@@ -366,6 +362,10 @@
     "conscience-power-delegation": {
       "title_zh": "良知、委托与管辖权错位",
       "subtitle_zh": "权力在每个尺度上运作，但唯有在发出行动的局部边缘才保有良知的原创判断。"
+    },
+    "name-negation-tendency": {
+      "title_zh": "名称背反倾向",
+      "subtitle_zh": "一个名称越是公开标榜某种状态，其内部运作便越朝相反的方向滑向反面。"
     }
   }
 }
