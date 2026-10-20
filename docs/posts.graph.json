@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T18:03:08.325Z",
+    "generated_at": "2026-10-20T18:04:09.934Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -234,7 +234,7 @@
       "content/posts/the-discount-on-agency.md": "7f1324e7bcf7",
       "content/posts/the-dissolution-of-the-great-reversal.md": "3ef5fa05ee7f",
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "dc533f257799",
-      "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "fbc2f400c1b1",
+      "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "a5364440b315",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "d92e0af3077c",
       "content/posts/the-extendable-horizon.md": "dd7530fe02c3",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "143d4bdc7d01",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9417,
-      "unique_directed": 4757,
+      "edges": 9419,
+      "unique_directed": 4758,
       "missing_targets": 0,
-      "one_way": 279,
+      "one_way": 280,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 126
+      "in_degree": 127
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1071,7 +1071,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 126,
+      "in_degree": 127,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -6236,12 +6236,13 @@
       "slug": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "path": "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md",
       "title": "对“AI 糟粕”的反感是反复出现的模式 / The Distaste for “AI Slop” Is a Recurring Pattern",
-      "hash": "fbc2f400c1b1",
+      "hash": "a5364440b315",
       "in_degree": 11,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
         "causality-stays-at-the-edge-that-steers",
+        "beyond-the-projection",
         "the-frame-that-conceals-improvement",
         "self-image-speaks-as-if-from-nowhere",
         "data-is-local-intelligence-is-allocated",
@@ -44202,13 +44203,25 @@
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "The allocation of causal power in validation"
+      "label": "The Allocation of Causal Power in Validation"
     },
     {
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
-      "label": "Causality stays at the edge that steers"
+      "label": "Causality Stays at the Edge That Steers"
+    },
+    {
+      "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
@@ -44220,7 +44233,7 @@
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "to": "the-frame-that-conceals-improvement",
       "rel": "points_to",
-      "label": "The frame that conceals improvement"
+      "label": "The Frame That Conceals Improvement"
     },
     {
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
@@ -44232,7 +44245,7 @@
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "to": "self-image-speaks-as-if-from-nowhere",
       "rel": "points_to",
-      "label": "Self-image speaks as if from nowhere"
+      "label": "Self-Image Speaks as if from Nowhere"
     },
     {
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
@@ -44256,19 +44269,19 @@
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
-      "label": "Data is local; intelligence is allocated"
+      "label": "Data Is Local, Intelligence Is Allocated"
     },
     {
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "to": "the-limitation-is-doing-work",
       "rel": "points_to",
-      "label": "The limitation is doing work"
+      "label": "The Limitation Is Doing Work"
     },
     {
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "to": "the-question-that-installs-the-war",
       "rel": "points_to",
-      "label": "The question that installs the war"
+      "label": "The Question That Installs the War"
     },
     {
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
@@ -44286,13 +44299,13 @@
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "to": "climbing-does-not-leave-the-ground",
       "rel": "points_to",
-      "label": "Climbing does not leave the ground"
+      "label": "Climbing Does Not Leave the Ground"
     },
     {
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "to": "technology-is-residual-of-human-compounding",
       "rel": "points_to",
-      "label": "Technology is residual of human compounding"
+      "label": "Technology Is Residual of Human Compounding"
     },
     {
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
@@ -44310,13 +44323,13 @@
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "to": "the-generative-contradiction",
       "rel": "points_to",
-      "label": "The generative contradiction"
+      "label": "The Generative Contradiction"
     },
     {
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
-      "label": "Preference clusters and the language of judgment"
+      "label": "Preference Clusters and the Language of Judgment"
     },
     {
       "from": "the-explanatory-trap-of-the-ordinary-perspective",
