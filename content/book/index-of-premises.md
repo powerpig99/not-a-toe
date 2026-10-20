@@ -762,7 +762,7 @@ Selective immigration presumes that a filter which reads source-country outcomes
 
 Jobs demanded product perfection by rejecting conventional industry timelines; inspiring for product craft, mythologizing his methods blinds followers to technical realities.
 
-→ [The Reality Distortion Field Names the Closed Map](../../posts/the-reality-distortion-field-names-the-closed-map/)
+→ [现实扭曲力场指认的是封闭的地图 / The Reality Distortion Field Names the Closed Map](../../posts/the-reality-distortion-field-names-the-closed-map/)
 
 ### 斯图尔特·哈梅罗夫 / Stuart Hameroff
 `科学 / Scientific`
@@ -4031,7 +4031,7 @@ The statement holds in a specific sense, naming the causal friction felt in conc
 
 Business hagiography attributes heroic willpower to bending physical reality; the phenomenon dismantles artificial institutional inertia, operating strictly within physical law.
 
-→ [The Reality Distortion Field Names the Closed Map](../../posts/the-reality-distortion-field-names-the-closed-map/)
+→ [现实扭曲力场指认的是封闭的地图 / The Reality Distortion Field Names the Closed Map](../../posts/the-reality-distortion-field-names-the-closed-map/)
 
 ### 类比推理 / Reasoning by Analogy
 `哲学 / Philosophical`

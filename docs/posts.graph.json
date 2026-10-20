@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T13:37:32.553Z",
+    "generated_at": "2026-10-20T13:39:33.368Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -326,7 +326,7 @@
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "adad691debaa",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "b3d9f124e004",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "48a714b8f22c",
-      "content/posts/the-reality-distortion-field-names-the-closed-map.md": "be4597d289a8",
+      "content/posts/the-reality-distortion-field-names-the-closed-map.md": "da0c0cd6c3f8",
       "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "9c76b27b0f26",
       "content/posts/the-reflexive-dilemma-of-unique-insight.md": "e0b2f868f3d1",
       "content/posts/the-residue-and-the-free-variable.md": "eb7e4af88ac4",
@@ -407,7 +407,7 @@
       "content/book/causality.md": "529bd18279d8",
       "content/book/consciousness.md": "84e10ab5f9aa",
       "content/book/economics.md": "0208ea9246ef",
-      "content/book/index-of-premises.md": "e8458b4f43d3",
+      "content/book/index-of-premises.md": "9e2b682a89d7",
       "content/book/intelligence.md": "728830704d58",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -418,15 +418,15 @@
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "2910cc1a33ce",
-      "content/book/success-and-the-self.md": "3ca8a126e068",
+      "content/book/success-and-the-self.md": "c884fe2b7f02",
       "content/book/tools-and-progress.md": "f326c837af48"
     },
     "stats": {
       "posts": 396,
-      "edges": 9010,
-      "unique_directed": 4675,
+      "edges": 9035,
+      "unique_directed": 4676,
       "missing_targets": 0,
-      "one_way": 199,
+      "one_way": 200,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -465,7 +465,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 46
+      "in_degree": 47
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -1068,7 +1068,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 46,
+      "in_degree": 47,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -8214,10 +8214,10 @@
       "kind": "post",
       "slug": "the-reality-distortion-field-names-the-closed-map",
       "path": "content/posts/the-reality-distortion-field-names-the-closed-map.md",
-      "title": "The Reality Distortion Field Names the Closed Map",
-      "hash": "be4597d289a8",
+      "title": "现实扭曲力场指认的是封闭的地图 / The Reality Distortion Field Names the Closed Map",
+      "hash": "da0c0cd6c3f8",
       "in_degree": 23,
-      "out_degree": 23,
+      "out_degree": 24,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "no-system-can-be-kept-closed",
@@ -8229,6 +8229,7 @@
         "the-allocation-of-causal-power-in-validation",
         "openness-is-consistency",
         "the-scaffolding-we-forget",
+        "beyond-the-projection",
         "failure-as-information",
         "reality-doesnt-invoice-by-committee",
         "what-works-is-the-belief",
@@ -53762,25 +53763,55 @@
       "from": "the-reality-distortion-field-names-the-closed-map",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
-      "label": "The path drawn one step at a time"
+      "label": "一步一步绘制出的路径"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "The Path Drawn One Step at a Time"
     },
     {
       "from": "the-reality-distortion-field-names-the-closed-map",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
-      "label": "No system can be kept closed"
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
     },
     {
       "from": "the-reality-distortion-field-names-the-closed-map",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "Closed reality in benchmark maxing"
+      "label": "基准刷榜中的封闭实存"
     },
     {
       "from": "the-reality-distortion-field-names-the-closed-map",
       "to": "closed-reality-in-the-pursuit-of-serendipity",
       "rel": "points_to",
-      "label": "Closed reality in the pursuit of serendipity"
+      "label": "追求机缘中的封闭现实"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "风险在于对监管本身的迷信"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "closed-reality-in-the-pursuit-of-serendipity",
+      "rel": "points_to",
+      "label": "Closed Reality in the Pursuit of Serendipity"
     },
     {
       "from": "the-reality-distortion-field-names-the-closed-map",
@@ -53792,103 +53823,223 @@
       "from": "the-reality-distortion-field-names-the-closed-map",
       "to": "causality-all-the-way",
       "rel": "points_to",
-      "label": "Causality all the way"
+      "label": "因果贯穿始终"
     },
     {
       "from": "the-reality-distortion-field-names-the-closed-map",
       "to": "performative-hindsight-that-pretends-to-be-foresight",
       "rel": "points_to",
-      "label": "Performative hindsight that pretends to be foresight"
+      "label": "伪装成远见的表演性后见"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "Causality All the Way"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "Performative Hindsight That Pretends to Be Foresight"
     },
     {
       "from": "the-reality-distortion-field-names-the-closed-map",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "The allocation of causal power in validation"
+      "label": "验证中因果权能的分配"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
     },
     {
       "from": "the-reality-distortion-field-names-the-closed-map",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
     },
     {
       "from": "the-reality-distortion-field-names-the-closed-map",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "The scaffolding we forget"
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-reality-distortion-field-names-the-closed-map",
       "to": "failure-as-information",
       "rel": "points_to",
-      "label": "Failure as information"
+      "label": "失败即信息"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "failure-as-information",
+      "rel": "points_to",
+      "label": "Failure as Information"
     },
     {
       "from": "the-reality-distortion-field-names-the-closed-map",
       "to": "reality-doesnt-invoice-by-committee",
       "rel": "points_to",
-      "label": "Reality doesn’t invoice by committee"
+      "label": "现实不按委员会开账单"
     },
     {
       "from": "the-reality-distortion-field-names-the-closed-map",
       "to": "what-works-is-the-belief",
       "rel": "points_to",
-      "label": "What works is the belief"
+      "label": "起作用的是信念"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "reality-doesnt-invoice-by-committee",
+      "rel": "points_to",
+      "label": "Reality Doesn't Invoice by Committee"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "What Works Is the Belief"
     },
     {
       "from": "the-reality-distortion-field-names-the-closed-map",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
-      "label": "Causality stays at the edge that steers"
+      "label": "因果停留在掌舵的边缘"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality Stays at the Edge That Steers"
     },
     {
       "from": "the-reality-distortion-field-names-the-closed-map",
       "to": "expertise-as-reference-not-replacement",
       "rel": "points_to",
-      "label": "Expertise as reference, not replacement"
+      "label": "专家经验作为参考而非替代"
     },
     {
       "from": "the-reality-distortion-field-names-the-closed-map",
       "to": "the-reversal-from-defensible-claim-to-dogma",
       "rel": "points_to",
-      "label": "The reversal from defensible claim to dogma"
+      "label": "从可辩护的主张到教条的反转"
     },
     {
       "from": "the-reality-distortion-field-names-the-closed-map",
       "to": "open-vision-in-a-closed-arena",
       "rel": "points_to",
-      "label": "Open vision in a closed arena"
+      "label": "封闭竞技场中的开放视野"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "Expertise as Reference, Not Replacement"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "the-reversal-from-defensible-claim-to-dogma",
+      "rel": "points_to",
+      "label": "The Reversal from Defensible Claim to Dogma"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "open-vision-in-a-closed-arena",
+      "rel": "points_to",
+      "label": "Open Vision in a Closed Arena"
     },
     {
       "from": "the-reality-distortion-field-names-the-closed-map",
       "to": "the-strongest-belief-of-the-mind",
       "rel": "points_to",
-      "label": "The strongest belief of the Mind"
+      "label": "心智最坚固的信念"
     },
     {
       "from": "the-reality-distortion-field-names-the-closed-map",
       "to": "closed-assumptions-squeeze-compounding-into-s-curves",
       "rel": "points_to",
-      "label": "Closed assumptions squeeze compounding into S-curves"
+      "label": "封闭的假设把复利挤成 S 曲线"
     },
     {
       "from": "the-reality-distortion-field-names-the-closed-map",
       "to": "the-price-of-closing-optionality",
       "rel": "points_to",
-      "label": "The price of closing optionality"
+      "label": "关闭选择权的代价"
     },
     {
       "from": "the-reality-distortion-field-names-the-closed-map",
       "to": "the-reality-distortion-field-inverts-the-baseline",
       "rel": "points_to",
-      "label": "The reality distortion field inverts the baseline"
+      "label": "现实扭曲力场颠倒了基线"
     },
     {
       "from": "the-reality-distortion-field-names-the-closed-map",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, boundaries, and the moving edge of reality"
+      "label": "抽象、边界与现实的移动边缘"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "进步叙事中的症候与原因"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "the-strongest-belief-of-the-mind",
+      "rel": "points_to",
+      "label": "The Strongest Belief of the Mind"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "rel": "points_to",
+      "label": "Closed Assumptions Squeeze Compounding into S-Curves"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "the-price-of-closing-optionality",
+      "rel": "points_to",
+      "label": "The Price of Closing Optionality"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The Reality Distortion Field Inverts the Baseline"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "rel": "points_to",
+      "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
     },
     {
       "from": "the-reality-distortion-field-names-the-closed-map",
@@ -64126,7 +64277,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "e8458b4f43d3",
+        "hash": "9e2b682a89d7",
         "out_degree": 396
       },
       {
@@ -64225,7 +64376,7 @@
         "slug": "success-and-the-self",
         "path": "content/book/success-and-the-self.md",
         "title": "成功学公式与自我重塑 / The Formula of Success and Self-Reconstruction",
-        "hash": "3ca8a126e068",
+        "hash": "c884fe2b7f02",
         "out_degree": 33
       },
       {
@@ -65467,7 +65618,7 @@
         "from": "book:index-of-premises",
         "to": "the-reality-distortion-field-names-the-closed-map",
         "rel": "collects",
-        "label": "The Reality Distortion Field Names the Closed Map"
+        "label": "现实扭曲力场指认的是封闭的地图 / The Reality Distortion Field Names the Closed Map"
       },
       {
         "from": "book:index-of-premises",
@@ -68101,7 +68252,7 @@
         "from": "book:index-of-premises",
         "to": "the-reality-distortion-field-names-the-closed-map",
         "rel": "collects",
-        "label": "The Reality Distortion Field Names the Closed Map"
+        "label": "现实扭曲力场指认的是封闭的地图 / The Reality Distortion Field Names the Closed Map"
       },
       {
         "from": "book:index-of-premises",
@@ -70477,7 +70628,7 @@
         "from": "book:success-and-the-self",
         "to": "the-reality-distortion-field-names-the-closed-map",
         "rel": "collects",
-        "label": "The Reality Distortion Field Names the Closed Map"
+        "label": "现实扭曲力场指认的是封闭的地图 / The Reality Distortion Field Names the Closed Map"
       },
       {
         "from": "book:success-and-the-self",
