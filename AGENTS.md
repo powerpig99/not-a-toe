@@ -125,7 +125,6 @@ Always execute the complete verification sequence before finalizing:
 2. **Reverse Linking & Prose Refinement** — Establish backlinks and refine surrounding narrative prose in key referenced essays; verify modified essays pass repository invariants.
 3. `node build.mjs` — Compiles the static site into `public/`.
 4. `node scripts/project-posts-graph.mjs` — Re-projects lattice graph; ensures `missing_targets: 0`.
-5. `node scripts/project-local-graph.mjs` — Updates local workspace graph tracker.
-6. `git add ... && git commit -m "Publish Post #XXX: <Title>" && git push origin main`.
-7. `gh run watch --exit-status` — Verifies GitHub Actions deployment succeeds.
-8. `curl -sI https://powerpig99.github.io/not-a-toe/posts/<slug>/` — Confirms live HTTP 200.
+5. `git add ... && git commit -m "Publish Post #XXX: <Title>" && git push origin main`.
+6. `gh run watch --exit-status` — Verifies GitHub Actions deployment succeeds.
+7. `curl -sI https://powerpig99.github.io/not-a-toe/posts/<slug>/` — Confirms live HTTP 200.

@@ -10,7 +10,7 @@ Guides (read these instead of re-deriving the workflow each time):
 | Multi-bot authoring & 2-layer wave refinement | [`docs/wave-refinement-plan.md`](docs/wave-refinement-plan.md) |
 | LLM markdown format (copy-paste prompt) | [`docs/essay-format.md`](docs/essay-format.md) |
 | Cover style differentiation | [`assets/covers/STYLES.md`](assets/covers/STYLES.md) |
-| Local memory / sleep audit / graphs | [`docs/local-memory.md`](docs/local-memory.md) — trackers: `node scripts/project-local-graph.mjs`; posts lattice: `node scripts/project-posts-graph.mjs` |
+| Posts lattice (cross-link graph) | `node scripts/project-posts-graph.mjs` → [`docs/posts.graph.json`](docs/posts.graph.json) |
 
 1. Add essays in `content/posts/<slug>.md` (bilingual `# Title`, italic single-sentence subtitle, alternating paragraphs, zero lists).
 2. Live Book Placement: Assign to exactly one part in `content/book/<part>.md` (placed last in written order); add or extend substantive entries in `content/book/index-of-premises.md` (label from 8 families, bilingual premise sentences, `→` link).

@@ -6,7 +6,6 @@ Living inventory for essay covers in this folder. Filename = essay slug (`conten
 |---------|------|
 | Post authoring | [`content/posts/README.md`](../../content/posts/README.md) |
 | Local generator script | [`scripts/generate-cover.py`](../../scripts/generate-cover.py) |
-| Local memory / sleep audit | [`docs/local-memory.md`](../../docs/local-memory.md) |
 
 ## Principle
 

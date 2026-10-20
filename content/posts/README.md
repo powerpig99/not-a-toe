@@ -7,7 +7,6 @@ Living guide for essays in this folder. Source of truth for site content lives h
 | Multi-bot authoring & 2-layer wave refinement | [`docs/wave-refinement-plan.md`](../../docs/wave-refinement-plan.md) |
 | Markdown format (LLM copy-paste) | [`docs/essay-format.md`](../../docs/essay-format.md) |
 | Cover style differentiation | [`assets/covers/STYLES.md`](../../assets/covers/STYLES.md) |
-| Local memory / sleep audit | [`docs/local-memory.md`](../../docs/local-memory.md) |
 | Posts lattice (cross-link graph) | `node scripts/project-posts-graph.mjs` → [`docs/posts.graph.json`](../../docs/posts.graph.json) |
 | Site authoring summary | [`README.md`](../../README.md) |
 
@@ -185,7 +184,7 @@ When the scale finds a residual and a nick is needed:
 2. One pointer per cut is enough; avoid a laundry list in one paragraph.
 3. Verify the target file exists: `content/posts/<slug>.md`.
 4. After adding links, re-read: if a paragraph only exists to summarize another essay, delete the summary and keep the pointer.
-5. After shipping a new or revised post, **always** update **reverse links** on 1-hop neighbors (two-way is default). For each outbound `](../other-slug/)`, open that neighbor and add a single pointer clause back to this slug where the same geometry appears — see [`docs/local-memory.md`](../../docs/local-memory.md) posts lattice. Pointer only; do not restate this essay.
+5. After shipping a new or revised post, **always** update **reverse links** on 1-hop neighbors (two-way is default). For each outbound `](../other-slug/)`, open that neighbor and add a single pointer clause back to this slug where the same geometry appears. Pointer only; do not restate this essay.
 
 ## Lattice consistency (same ship)
 
@@ -299,7 +298,7 @@ curl -sI "https://powerpig99.github.io/not-a-toe/covers/<slug>.jpg" | head -1
 
 For every outbound `](../other-slug/)`, add a reverse pointer on that neighbor in the **same** ship (two-way default). Pointer clause only.
 
-Then run **Lattice consistency**: name the new cut; search same-axis old prose; nick inconsistent or over-closed claims; restore incomplete same-axis bounds in the old sentence. A pointer is not a substitute for that nick. `/sleep` currency pass is a leftover catch — see [`docs/local-memory.md`](../../docs/local-memory.md).
+Then run **Lattice consistency**: name the new cut; search same-axis old prose; nick inconsistent or over-closed claims; restore incomplete same-axis bounds in the old sentence. A pointer is not a substitute for that nick.
 
 Regenerate the posts graph after either kind of edit.
 
@@ -337,4 +336,3 @@ curl -sI "https://powerpig99.github.io/not-a-toe/covers/${SLUG}.jpg" | head -1
 
 - Prefer not to rewrite published URLs/slugs; add a new post or revise in place under the same slug.
 - The collection stays a living tracing: same-slug revise when a newer cut clarifies an older face; do not treat a shipped URL as a finished product. Regenerate the posts graph after link changes.
-- Sleep (operator call) runs a leftover currency pass on seeds from `--diff` — see [`docs/local-memory.md`](../../docs/local-memory.md). Same-axis consistency of a new drop is ship-time, not sleep-time.

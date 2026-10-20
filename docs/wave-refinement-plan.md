@@ -90,7 +90,7 @@ flowchart TD
     end
 
     subgraph S_Final["Phase 3: Cryptographic Gate, Assembly & Publish (content/posts/slug.md)"]
-        LockZH --> B5["Role 7: Final Reviewer (Assembler & Wave Dispatcher)<br/>1. Verifies SHA-256 chain across debates/en.md & zh.md (bounces F-flags if mismatch)<br/>2. Interleaves locked EN + ZH into content/posts/slug.md<br/>3. Syncs Book Part, Index of Premises, title-translations.json & inbound anchors<br/>4. Runs audit-post.py, audit-book.py, build.mjs, project-posts-graph.mjs, project-local-graph.mjs<br/>5. Commits, pushes, verifies live HTTP 200, archives work/*/slug/ → work/archive/slug/"]
+        LockZH --> B5["Role 7: Final Reviewer (Assembler & Wave Dispatcher)<br/>1. Verifies SHA-256 chain across debates/en.md & zh.md (bounces F-flags if mismatch)<br/>2. Interleaves locked EN + ZH into content/posts/slug.md<br/>3. Syncs Book Part, Index of Premises, title-translations.json & inbound anchors<br/>4. Runs audit-post.py, audit-book.py, build.mjs, project-posts-graph.mjs<br/>5. Commits, pushes, verifies live HTTP 200, archives work/*/slug/ → work/archive/slug/"]
     end
 
     style S_Sweep fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
@@ -152,7 +152,6 @@ flowchart TD
      - `python3 scripts/audit-book.py` (must return `CLEAN PASS` or intentional `PASSED WITH ADVISORIES`)
      - `node build.mjs`
      - `node scripts/project-posts-graph.mjs` (`missing_targets: 0`)
-     - `node scripts/project-local-graph.mjs`
   5. **Publish & Archive:**
      - For a **New Post (`N`)**: Pause for Operator check before `git commit` & `git push`.
      - For a **Wave Node (`L1` / `L2`)**: Commit, `git push origin main`, wait for GitHub Pages deploy (`gh run watch --exit-status`), verify live HTTP 200 on `https://powerpig99.github.io/not-a-toe/posts/<slug>/`, move `work/*/<slug>/` into `work/archive/<slug>/`, mark the node `[x]` in `work/final-reviewer/wave-<k>.md`, and dispatch the next node.
