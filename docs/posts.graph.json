@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T19:25:00.752Z",
+    "generated_at": "2026-10-20T19:25:57.190Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -265,7 +265,7 @@
       "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "cb240a9929c8",
       "content/posts/the-illusion-of-distance-and-the-dual-ruler.md": "d915809609b6",
       "content/posts/the-illusion-of-free-intelligence.md": "96beae723cdd",
-      "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "87c68cdf7df5",
+      "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "86e7c04f71bd",
       "content/posts/the-illusion-of-the-shared-sandbox.md": "744ed48a679b",
       "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "d7384a29a960",
       "content/posts/the-illusion-of-the-unmediated.md": "e034e7dc306c",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9525,
-      "unique_directed": 4785,
+      "edges": 9529,
+      "unique_directed": 4786,
       "missing_targets": 0,
-      "one_way": 307,
+      "one_way": 308,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 152
+      "in_degree": 153
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1073,7 +1073,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 152,
+      "in_degree": 153,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -6967,9 +6967,9 @@
       "slug": "the-illusion-of-knowing-and-the-geometry-of-amputation",
       "path": "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md",
       "title": "以知为刃的截肢与解脱 / The Illusion of Knowing and the Geometry of Amputation",
-      "hash": "87c68cdf7df5",
+      "hash": "86e7c04f71bd",
       "in_degree": 8,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "individual-choices-as-the-only-causal-levers",
@@ -6978,7 +6978,8 @@
         "po-chu-gai-nian-de-jian-yue",
         "the-mind-as-vector-and-coordinate-system",
         "coordinates-in-flux-negation-and-self-anchoring",
-        "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth"
+        "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+        "beyond-the-projection"
       ]
     },
     {
@@ -48845,6 +48846,30 @@
       "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "rel": "points_to",
       "label": "The Fallacy of Pacing and the Felt Friction of Ground Truth"
+    },
+    {
+      "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
+      "to": "the-mind-as-vector-and-coordinate-system",
+      "rel": "points_to",
+      "label": "向量、坐标系与自指心智"
+    },
+    {
+      "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
+      "to": "the-mind-as-vector-and-coordinate-system",
+      "rel": "points_to",
+      "label": "The Mind as Vector and Coordinate System"
     },
     {
       "from": "the-illusion-of-the-shared-sandbox",
