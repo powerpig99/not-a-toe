@@ -240,7 +240,7 @@ Chalmers divides consciousness into easy problems open to functional explanation
 
 Hilbert championed the formal axiomatic closure of all mathematics; his foundational quest propelled modern logic, while his belief in total solvability was refuted.
 
-→ [Why Mathematics Can Never Be Solved](../../posts/why-mathematics-can-never-be-solved/) · [无穷总体的海市蜃楼 / The Mirage of the Infinite Totality](../../posts/the-mirage-of-the-infinite-totality/)
+→ [为何数学永远解不完 / Why Mathematics Can Never Be Solved](../../posts/why-mathematics-can-never-be-solved/) · [无穷总体的海市蜃楼 / The Mirage of the Infinite Totality](../../posts/the-mirage-of-the-infinite-totality/)
 
 ### 大卫·森拉 / David Senra
 `成功学 / Self-Help`
@@ -1221,7 +1221,7 @@ The uncertainty principle bounds the precision with which conjugate micro variab
 
 Hilbert proposed that all mathematical truths could be completely and consistently formalized; Gödel proved formal mathematics is unclosable, forever generating unprovable truths.
 
-→ [Why Mathematics Can Never Be Solved](../../posts/why-mathematics-can-never-be-solved/)
+→ [为何数学永远解不完 / Why Mathematics Can Never Be Solved](../../posts/why-mathematics-can-never-be-solved/)
 
 ### 内在形而上学 / Immanent Metaphysics
 `哲学 / Philosophical`
