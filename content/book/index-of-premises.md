@@ -501,7 +501,7 @@ Weierstrass formalized rigorous limits and discovered continuous nowhere-differe
 
 Kelly catalogues post-scarcity value drivers in networked economics; visionary for internet dynamics, his taxonomy risks becoming formulaic when applied without live context.
 
-→ [Better Than Free After the Checklist Closes](../../posts/better-than-free-after-the-checklist-closes/)
+→ [清单合上之后，胜过免费 / Better Than Free After the Checklist Closes](../../posts/better-than-free-after-the-checklist-closes/)
 
 ### 库尔特·哥德尔 / Kurt Gödel
 `数学 / Mathematical`
@@ -1167,7 +1167,7 @@ Equilibrium analysis assumes agents' internal maps of value and risk are interch
 
 Digital economics notes free copies shift value to qualities like authenticity and immediacy; cataloguing the eight values fails once the checklist becomes another commodity.
 
-→ [Better Than Free After the Checklist Closes](../../posts/better-than-free-after-the-checklist-closes/)
+→ [清单合上之后，胜过免费 / Better Than Free After the Checklist Closes](../../posts/better-than-free-after-the-checklist-closes/)
 
 ### 梯度下降法 / Gradient Descent
 `技术 / Technological`

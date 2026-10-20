@@ -19,7 +19,7 @@ Drawing on Misesian and Hayekian insights on distributed knowledge, these essays
 - [The Measurement Lag](../../posts/intelligence-crisis-response/)
 - [Humans, Tokens, and the Scope of Valuation](../../posts/humans-tokens-and-the-scope-of-valuation/)
 - [生产、消费与心智的区分 / Production, Consumption, and the Mind's Distinction](../../posts/production-consumption-and-the-minds-distinction/)
-- [Better Than Free After the Checklist Closes](../../posts/better-than-free-after-the-checklist-closes/)
+- [清单合上之后，胜过免费 / Better Than Free After the Checklist Closes](../../posts/better-than-free-after-the-checklist-closes/)
 - [拥有更多从不是原因 / Having More Is Never the Cause](../../posts/having-more-is-never-the-cause/)
 - [价格是言说，理解是交易 / Price as Utterance, Understanding as Trade](../../posts/price-as-utterance-understanding-as-trade/)
 - [公共支出不创造资本 / Public Spending Does Not Create Capital](../../posts/public-spending-does-not-create-capital/)
