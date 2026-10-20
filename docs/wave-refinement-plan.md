@@ -65,9 +65,11 @@ Placing in-flight single-language drafts or intermediate research/planning artif
 | `work/plan/<task-id>/residuals-vN.md` | `Evaluator` | Neutral, falsifiable external research questions written by `Evaluator` at the end of Round 2 when `SCOUT` items remain for Cycle $N+1$. |
 | `work/plan/<task-id>/final-plan.md` | `Evaluator` (or Operator on `HOLD`) | Promoted from `plan-vN.md` by `Evaluator` upon `EVALUATOR: confirmed`; the **only** artifact read by `Task Dispatcher`. |
 | `work/todo.md` | Any role | Out-of-scope cross-node or cross-subtask observations saved for future nodes so active contexts stay clean. |
-| `work/archive/<slug>/` | `Dispatcher` | Completed `work/<slug>/` folders (and retired `wave-*.md` or `plan/` ledgers) moved here after completion. |
 | `memory/bridges/<id>.md` | `/bridge`, `/resume-bridge`, `/retire` | Ephemeral Working Memory across session clears (`Next` + `Traces` with priors named; deleted upon `/retire`). |
 | `content/posts/<slug>.md` | `Dispatcher` / `Assembler` | Canonical alternating bilingual post on the live site. Untouched during Stages 1–2 so `git status` stays clean until Stage 3 assembly. |
+
+> **Why Transient Workspaces Are Deleted, Not Archived (Checkpoints vs. Weight-Update History):**
+> Just as neural network training saves current checkpoints rather than hoarding every historical gradient step, persistence in `/ontological-clarity` is re-tracing in the present configuration—nothing is stored outside the current rendering. Once a post refinement (`work/<slug>/`) or planning task (`work/plan/<task-id>/`) is absorbed into canonical source (`content/posts/*.md`, `content/book/*.md`, or project code, replicated to GitHub `origin/main`), its intermediate drafts, debates, and superseded `wave.md` files are **deleted (`rm -rf`)**, never archived into `work/archive/` or `.bak` folders out of mere possibility. Keeping dead intermediate history creates epistemic rabbit holes for future searches instead of sharpening the living present.
 
 ---
 
@@ -105,7 +107,7 @@ flowchart TD
     end
 
     subgraph S_Final["Stage 3: Deterministic Assembly, Audits, Publish & Sleep Dispatch"]
-        LockZH --> B5["Dispatcher / Assembler<br/>1. Verify zero open flags in debate-en.md & debate-zh.md<br/>2. Interleave locked en.md + zh.md into content/posts/slug.md<br/>3. Sync Book Part, Index of Premises, title-translations.json & incoming anchors<br/>4. Run audit-post.py, audit-book.py, build.mjs, project-posts-graph.mjs<br/>5. Commit (tracked paths only), push, verify live HTTP 200, archive work/slug/"]
+        LockZH --> B5["Dispatcher / Assembler<br/>1. Verify zero open flags in debate-en.md & debate-zh.md<br/>2. Interleave locked en.md + zh.md into content/posts/slug.md<br/>3. Sync Book Part, Index of Premises, title-translations.json & incoming anchors<br/>4. Run audit-post.py, audit-book.py, build.mjs, project-posts-graph.mjs<br/>5. Commit (tracked paths only), push, verify live HTTP 200, delete work/slug/"]
         B5 -->|"After New Post N"| Sleep1["/sleep: Shallow Sleep<br/>Consolidate L1 = links_out(N) - {N}"]
         Sleep1 -->|"After L1 completes"| SleepK["/deep-sleep: Deep Sleep<br/>Re-project graph & compute Lk = links_out(L_{k-1}) - visited<br/>Repeats L2 → L3 → ... → Lk until next /wake"]
         Sleep1 -.->|"Each node in L1"| B1
@@ -181,10 +183,10 @@ flowchart TD
      - `python3 scripts/audit-book.py` (uses `git log --reverse -M` so historical slug renames preserve their original creation date; passes on `CLEAN PASS`, or on `PASSED WITH ADVISORIES` when each advisory is causally verified in context).
      - `node build.mjs`
      - `node scripts/project-posts-graph.mjs` (`missing_targets: 0`)
-  5. **Publish & Archive (Tracked Paths Only in `git add`):**
+  5. **Publish & Prune Transient Workspace (Tracked Paths Only in `git add`):**
      - Never pass gitignored paths (`work/` or `public/`) to `git add` (which exits with code `1`); stage only tracked canonical paths (`content/posts/`, `content/book/`, `data/`, `assets/`).
-     - For a **Waking New Post (`N`) or Waking Refinement**: Present `walkthrough.md` (for `N`) and pause for Operator check (unless the Operator already authorized push), then `git commit` & `git push origin main`, verify live HTTP 200, archive `work/<slug>/` to `work/archive/<slug>/`, and (for a New Post `N`) archive any previous `work/wave.md` to `work/archive/` and initialize the new wave state (`visited = {N}`), ready for `/sleep` to weave `N` into `L1`.
-     - For a **Sleep Wave Node Batch (`L1` / `L2` / ... / `Lk`)**: Commit all nodes completed in the batch, `git push origin main`, wait for GitHub Pages deploy (`gh run watch --exit-status`), verify live HTTP 200 on `https://powerpig99.github.io/not-a-toe/posts/<slug>/`, move `work/<slug>/` into `work/archive/<slug>/wave-<m>/`, mark the nodes `[x]` in `work/wave.md`, and dispatch the next window.
+     - For a **Waking New Post (`N`) or Waking Refinement**: Present `walkthrough.md` (for `N`) and pause for Operator check (unless the Operator already authorized push), then `git commit` & `git push origin main`, verify live HTTP 200, delete `work/<slug>/` (`rm -rf work/<slug>`), and (for a New Post `N`) overwrite `work/wave.md` with the fresh wave state (`visited = {N}`), ready for `/sleep` to weave `N` into `L1`.
+     - For a **Sleep Wave Node Batch (`L1` / `L2` / ... / `Lk`)**: Commit all nodes completed in the batch, `git push origin main`, wait for GitHub Pages deploy (`gh run watch --exit-status`), verify live HTTP 200 on `https://powerpig99.github.io/not-a-toe/posts/<slug>/`, delete `work/<slug>/` (`rm -rf work/<slug>`), mark the nodes `[x]` in `work/wave.md`, and dispatch the next window.
 
 ---
 
@@ -209,7 +211,7 @@ flowchart TD
    - Run Stage 2 (`Translator` $\leftrightarrow$ `Stylist` on `work/<slug>/zh.md`).
    - Generate novel 21:9 cover art (`assets/covers/<slug>.jpg`, for `NEW POST` `N`) and register in [`assets/covers/STYLES.md`](../assets/covers/STYLES.md).
    - Run Stage 3 (interleave, Book Part & Index of Premises update, `audit-post.py --walkthrough <path>`, `audit-book.py`, `build.mjs`, `project-posts-graph.mjs`, `walkthrough.md`, and publish; any immediate backlink woven into 1–2 prior essays during `/wake` passes through Stages 1–2 peer review, while full 1-hop consolidation across all outbound neighbors runs in `/sleep`).
-   - For a `NEW POST` `N`, archive any prior `work/wave.md` to `work/archive/` and initialize `work/wave.md` (`visited = {N}`), ready for `/sleep`.
+   - For a `NEW POST` `N`, overwrite `work/wave.md` (`visited = {N}`), ready for `/sleep`.
 
 ### 4.2 `/sleep` — Shallow Sleep Consolidation (`Layer 1`)
 - By `Trace` asymmetry in `/ontological-clarity`, shaping runs one way. When post `P` links outward to `Q` (`P → Q`), `P` explicitly invokes `Q`'s distinction as a premise or adjacent axis.
@@ -344,6 +346,7 @@ flowchart TD
   - **Bounded Vertical Recursion (`max_depth`, default `2`):** For any subtask marked `needs_research: true` in `final-plan.md`, if current recursion depth $d < \text{max\_depth}$ (default `max_depth = 2`, overridable by the Operator), `Task Dispatcher` recurses the full Planning Cycle (`Planner` → `Scouter` → `Evaluator`) in an isolated child directory `work/plan/<task-id>/<subtask-id>/` with zero parent session history leaking downward. If $d == \text{max\_depth}$ and a child plan still requests further subtask research recursion, `Task Dispatcher` pauses that branch and escalates to the Operator.
   - For subtasks marked `needs_research: false`, `Task Dispatcher` dispatches them directly to execution in isolated worker contexts (or to Stages 1–3 of the canonical pipeline when the subtask is prose).
   - Cross-subtask observations are appended as one-line facts to `work/todo.md` and dropped from active session contexts.
+  - Once all subtasks in `final-plan.md` are executed and verified in the canonical project files, `Task Dispatcher` deletes `work/plan/<task-id>/` (`rm -rf work/plan/<task-id>`) so intermediate planning/research/debate trajectories do not linger as stale rabbit holes.
 
 | Canonical Element | Integration with Orthogonal Planning Cycle (Section 6) |
 | :--- | :--- |
