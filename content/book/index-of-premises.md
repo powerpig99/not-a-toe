@@ -2681,7 +2681,7 @@ Presumes that virtue, vice, and the costs of choice are objectively calibrated b
 
 Formalist writing pedagogy demands polished structure from the outset; externalizing unstructured thoughts unburdens finite working memory, allowing genuine conceptual patterns to surface.
 
-→ [The Ramble Within the Ramble](../../posts/the-ramble-within-the-ramble/)
+→ [漫谈中的漫谈 / The Ramble Within the Ramble](../../posts/the-ramble-within-the-ramble/)
 
 ### 外部给定的人生目标 / Externally Given Life Goals
 `成功学 / Self-Help`

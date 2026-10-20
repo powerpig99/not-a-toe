@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T18:21:15.728Z",
+    "generated_at": "2026-10-20T18:24:03.637Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -321,7 +321,7 @@
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "eb3b9b608975",
       "content/posts/the-price-of-closing-optionality.md": "fcdef4c1033e",
       "content/posts/the-question-that-installs-the-war.md": "6570c77251d5",
-      "content/posts/the-ramble-within-the-ramble.md": "454a1407f39f",
+      "content/posts/the-ramble-within-the-ramble.md": "d74212281de3",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "e536a3a8e1db",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "d46ea8578432",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "685a03d380f1",
@@ -407,9 +407,9 @@
       "content/book/causality.md": "c5ac49c16705",
       "content/book/consciousness.md": "84e10ab5f9aa",
       "content/book/economics.md": "c863f3bd1a44",
-      "content/book/index-of-premises.md": "998ff453e71c",
+      "content/book/index-of-premises.md": "14c6540485bd",
       "content/book/intelligence.md": "699abff1af69",
-      "content/book/knowledge-and-learning.md": "b9cb2e291918",
+      "content/book/knowledge-and-learning.md": "cca91fa2120f",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "0ae44b3e7554",
       "content/book/meaning-and-transcendence.md": "ce5168a72c34",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9443,
-      "unique_directed": 4764,
+      "edges": 9455,
+      "unique_directed": 4765,
       "missing_targets": 0,
-      "one_way": 286,
+      "one_way": 287,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 133
+      "in_degree": 134
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1072,7 +1072,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 133,
+      "in_degree": 134,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -8144,14 +8144,15 @@
       "kind": "post",
       "slug": "the-ramble-within-the-ramble",
       "path": "content/posts/the-ramble-within-the-ramble.md",
-      "title": "The Ramble Within the Ramble",
-      "hash": "454a1407f39f",
+      "title": "漫谈中的漫谈 / The Ramble Within the Ramble",
+      "hash": "d74212281de3",
       "in_degree": 10,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
         "the-model-never-becomes-a-second-edge",
         "what-always-listens-cannot-originate",
+        "beyond-the-projection",
         "causality-stays-at-the-edge-that-steers",
         "the-allocation-of-causal-power-in-validation",
         "ownership-and-self-worthiness",
@@ -54799,61 +54800,133 @@
       "from": "the-ramble-within-the-ramble",
       "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "rel": "points_to",
+      "label": "真正稀缺的不是记忆，而是持续的重新追溯"
+    },
+    {
+      "from": "the-ramble-within-the-ramble",
+      "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "rel": "points_to",
       "label": "The Real Scarcity Is Not Memory, But Continuous Re-Tracing"
     },
     {
       "from": "the-ramble-within-the-ramble",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
-      "label": "technology as densified residue"
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "the-ramble-within-the-ramble",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
     },
     {
       "from": "the-ramble-within-the-ramble",
       "to": "what-always-listens-cannot-originate",
       "rel": "points_to",
-      "label": "what always listens cannot originate"
+      "label": "总在倾听者无法发起"
+    },
+    {
+      "from": "the-ramble-within-the-ramble",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "What Always Listens Cannot Originate"
+    },
+    {
+      "from": "the-ramble-within-the-ramble",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
     },
     {
       "from": "the-ramble-within-the-ramble",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
-      "label": "Causality stays at the edge that steers"
+      "label": "因果停留在掌舵的边缘"
+    },
+    {
+      "from": "the-ramble-within-the-ramble",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-ramble-within-the-ramble",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality Stays at the Edge That Steers"
     },
     {
       "from": "the-ramble-within-the-ramble",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "The allocation of causal power in validation"
+      "label": "验证中因果权能的分配"
+    },
+    {
+      "from": "the-ramble-within-the-ramble",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
     },
     {
       "from": "the-ramble-within-the-ramble",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "power thins through disuse of the update at the edge that still has to take every next step"
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "the-ramble-within-the-ramble",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "the-ramble-within-the-ramble",
       "to": "ai-as-augmentation",
       "rel": "points_to",
-      "label": "AI as augmentation"
+      "label": "AI 作为增强"
+    },
+    {
+      "from": "the-ramble-within-the-ramble",
+      "to": "ai-as-augmentation",
+      "rel": "points_to",
+      "label": "AI as Augmentation"
     },
     {
       "from": "the-ramble-within-the-ramble",
       "to": "amplification-paradox",
       "rel": "points_to",
-      "label": "The amplification paradox"
+      "label": "放大悖论"
     },
     {
       "from": "the-ramble-within-the-ramble",
       "to": "two-failures-of-trace",
       "rel": "points_to",
-      "label": "Artifacts are expressions of intelligence, not intelligence itself"
+      "label": "器物是智能的表达，而非智能本身"
+    },
+    {
+      "from": "the-ramble-within-the-ramble",
+      "to": "amplification-paradox",
+      "rel": "points_to",
+      "label": "The Amplification Paradox"
+    },
+    {
+      "from": "the-ramble-within-the-ramble",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself"
     },
     {
       "from": "the-ramble-within-the-ramble",
       "to": "why-mathematics-can-never-be-solved",
       "rel": "points_to",
-      "label": "Why mathematics can never be solved"
+      "label": "为何数学永远解不完"
+    },
+    {
+      "from": "the-ramble-within-the-ramble",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "Why Mathematics Can Never Be Solved"
     },
     {
       "from": "the-rational-choice-postulate-is-the-original-sin",
@@ -66813,7 +66886,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "998ff453e71c",
+        "hash": "14c6540485bd",
         "out_degree": 396
       },
       {
@@ -66831,7 +66904,7 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "b9cb2e291918",
+        "hash": "cca91fa2120f",
         "out_degree": 34
       },
       {
@@ -69774,7 +69847,7 @@
         "from": "book:index-of-premises",
         "to": "the-ramble-within-the-ramble",
         "rel": "collects",
-        "label": "The Ramble Within the Ramble"
+        "label": "漫谈中的漫谈 / The Ramble Within the Ramble"
       },
       {
         "from": "book:index-of-premises",
@@ -72048,7 +72121,7 @@
         "from": "book:knowledge-and-learning",
         "to": "the-ramble-within-the-ramble",
         "rel": "collects",
-        "label": "The Ramble Within the Ramble"
+        "label": "漫谈中的漫谈 / The Ramble Within the Ramble"
       },
       {
         "from": "book:knowledge-and-learning",
