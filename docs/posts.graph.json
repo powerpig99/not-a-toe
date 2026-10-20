@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T20:19:22.067Z",
+    "generated_at": "2026-10-20T20:21:01.343Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -133,7 +133,7 @@
       "content/posts/no-outside-scorekeeper.md": "3e211e6f29bb",
       "content/posts/no-system-can-be-kept-closed.md": "9983d1520593",
       "content/posts/nobody-has-seen-anything-yet.md": "684b9268b2c2",
-      "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md": "50d45e2a7702",
+      "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md": "c864052d34e7",
       "content/posts/not-a-theory-of-everything.md": "c1d90200d322",
       "content/posts/not-a-toe-rewrite.md": "4f8f53b8f5bb",
       "content/posts/not-predicting-is-predicting-without-awareness.md": "8bfa5625bd35",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9610,
-      "unique_directed": 4809,
+      "edges": 9612,
+      "unique_directed": 4810,
       "missing_targets": 0,
-      "one_way": 331,
+      "one_way": 332,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 172
+      "in_degree": 173
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1075,7 +1075,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 172,
+      "in_degree": 173,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -3740,14 +3740,15 @@
       "slug": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
       "path": "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md",
       "title": "一个可能的全自动交通未来的非定论预测 / Non-Definitive Forecast of a Possible Fully Autonomous Transportation Future",
-      "hash": "50d45e2a7702",
+      "hash": "c864052d34e7",
       "in_degree": 6,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "the-scaffolding-we-forget",
         "the-price-of-closing-optionality",
         "the-local-trap-of-technological-change",
         "symptom-and-cause-in-the-narratives-of-progress",
+        "beyond-the-projection",
         "individual-choices-as-the-only-causal-levers",
         "openness-is-consistency"
       ]
@@ -29528,9 +29529,21 @@
     },
     {
       "from": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
       "label": "Symptom and Cause in the Narratives of Progress"
+    },
+    {
+      "from": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
