@@ -65,10 +65,6 @@
       "title_zh": "基准刷榜中的封闭实存",
       "subtitle_zh": "基准测试把能力冻结为封闭靶心；当这一形象被当作整个场域时，有用性便登记不足。"
     },
-    "the-model-never-becomes-a-second-edge": {
-      "title_zh": "模型永远无法成为第二重前沿",
-      "subtitle_zh": "第二重前沿的表象是投射它的中心所维持的滞后；参数里只有残余。"
-    },
     "intelligence-belongs-only-to-the-mind": {
       "title_zh": "智能只属于心智",
       "subtitle_zh": "能被工程化、规模化或转移的，是残余；智能只属于心智，不可化约的先在。"
@@ -413,6 +409,10 @@
     },
     "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu": {
       "title_zh": "止步于评判，是认知的歧途"
+    },
+    "ai-as-augmentation": {
+      "title_zh": "AI 作为增强",
+      "subtitle_zh": "为什么人类加 AI 的组合能做任何一方都无法独自完成的事"
     }
   }
 }

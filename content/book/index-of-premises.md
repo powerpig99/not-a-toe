@@ -3905,7 +3905,7 @@ AI自主化叙事宣称统计模型已化身独立意志主体；模型只是聚
 
 AI autonomy narratives claim statistical models act as self-willing agents; models densify historical patterns, remaining dependent on human input for initiation.
 
-→ [The Model Never Becomes a Second Edge](../../posts/the-model-never-becomes-a-second-edge/)
+→ [模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge](../../posts/the-model-never-becomes-a-second-edge/)
 
 ### 优选自我模型的维系 / Preferred Self-Model Maintenance
 `哲学 / Philosophical`
@@ -5129,7 +5129,7 @@ Its premise assumes that a geometric model boasting a broader domain of macrosco
 
 Its premise assumes that a static, standalone reality exists independently beyond first-person perception waiting for theories to discover; it obscures the fact that physics is merely the macroscopic observable phenomenon produced when cognitive models experience friction against perception, conflating human interpretation with an unverifiable ontology.
 
-→ [切平面的行者与完美球面的踩空者 / The Walking Tangent and the Stumbling Sphere](../../posts/the-walking-tangent-and-the-stumbling-sphere/) · [The Model Never Becomes a Second Edge](../../posts/the-model-never-becomes-a-second-edge/)
+→ [切平面的行者与完美球面的踩空者 / The Walking Tangent and the Stumbling Sphere](../../posts/the-walking-tangent-and-the-stumbling-sphere/) · [模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge](../../posts/the-model-never-becomes-a-second-edge/)
  
 ### 冯·诺依曼割点 / The von Neumann Cut
 `科学 / Scientific`
