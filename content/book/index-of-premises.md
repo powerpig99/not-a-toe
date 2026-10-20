@@ -4418,7 +4418,7 @@ Delegation models assume fixed task boundaries between humans and machines; depl
 
 Seeking static clarity presumes truth is a stable monument reached by peeling away distortions; seeing remains the movement of continual friction with reality.
 
-→ [Clarity Isn't a State You Arrive At. It's the Movement Itself.](../../posts/clarity-isnt-a-state-you-arrive-at/)
+→ [清晰不是抵达的终点，而是运动本身 / Clarity Isn't a State You Arrive At. It's the Movement Itself.](../../posts/clarity-isnt-a-state-you-arrive-at/)
 
 ### 静态规格书谬误 / Static Specification Fallacy
 `技术 / Technological`

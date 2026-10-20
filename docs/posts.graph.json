@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T10:17:17.482Z",
+    "generated_at": "2026-10-20T10:29:28.009Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -36,7 +36,7 @@
       "content/posts/cheng-gong-xue.md": "a5a16fe66184",
       "content/posts/choice-itself-has-no-inherent-weight.md": "192b31e8caf0",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
-      "content/posts/clarity-isnt-a-state-you-arrive-at.md": "24157a13530f",
+      "content/posts/clarity-isnt-a-state-you-arrive-at.md": "686562b607ec",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
       "content/posts/climbing-does-not-leave-the-ground.md": "09aedb8b9cf4",
@@ -407,13 +407,13 @@
       "content/book/causality.md": "3d3c38ed55ed",
       "content/book/consciousness.md": "84e10ab5f9aa",
       "content/book/economics.md": "5f09ac3fbf19",
-      "content/book/index-of-premises.md": "10c95cd007ea",
+      "content/book/index-of-premises.md": "6af2da589680",
       "content/book/intelligence.md": "6654639edeb7",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "66fcb9366a1f",
       "content/book/meaning-and-transcendence.md": "c1d2a4521033",
-      "content/book/method.md": "9ae1de0d35cf",
+      "content/book/method.md": "f63c52e316f5",
       "content/book/morality.md": "0024610ecad0",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 8396,
-      "unique_directed": 4640,
+      "edges": 8428,
+      "unique_directed": 4641,
       "missing_targets": 0,
-      "one_way": 170,
+      "one_way": 169,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -582,12 +582,12 @@
       "out_degree": 32
     },
     {
-      "slug": "not-a-theory-of-everything",
+      "slug": "clarity-isnt-a-state-you-arrive-at",
       "out_degree": 31
     },
     {
-      "slug": "clarity-isnt-a-state-you-arrive-at",
-      "out_degree": 30
+      "slug": "not-a-theory-of-everything",
+      "out_degree": 31
     },
     {
       "slug": "complexity-obscures-emergence-as-the-act-of-mind",
@@ -1065,7 +1065,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1327,10 +1327,10 @@
       "kind": "post",
       "slug": "clarity-isnt-a-state-you-arrive-at",
       "path": "content/posts/clarity-isnt-a-state-you-arrive-at.md",
-      "title": "Clarity Isn't a State You Arrive At. It's the Movement Itself.",
-      "hash": "24157a13530f",
+      "title": "清晰不是抵达的终点，而是运动本身 / Clarity Isn't a State You Arrive At. It's the Movement Itself.",
+      "hash": "686562b607ec",
       "in_degree": 31,
-      "out_degree": 30,
+      "out_degree": 31,
       "links_out": [
         "why-mathematics-can-never-be-solved",
         "the-npc-impression-is-structural",
@@ -1342,6 +1342,7 @@
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
         "the-scaffolding-we-forget",
         "lossless-knowledge-of-an-open-field-is-incoherent",
+        "beyond-the-projection",
         "evil-as-the-minds-own-creation",
         "sympathy-is-a-placeholder-for-lack-of-clarity",
         "only-if-it-is-not-kept-empty",
@@ -13779,13 +13780,37 @@
       "from": "clarity-isnt-a-state-you-arrive-at",
       "to": "why-mathematics-can-never-be-solved",
       "rel": "points_to",
+      "label": "为何数学永远解不完"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
       "label": "Why Mathematics Can Never Be Solved"
     },
     {
       "from": "clarity-isnt-a-state-you-arrive-at",
       "to": "the-npc-impression-is-structural",
       "rel": "points_to",
+      "label": "NPC 印象是结构性的"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "the-npc-impression-is-structural",
+      "rel": "points_to",
       "label": "The NPC Impression Is Structural, Not a Ranking of Minds"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "起作用的是信念"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "whatever-is-one-prompt-away",
+      "rel": "points_to",
+      "label": "一个提示词之遥"
     },
     {
       "from": "clarity-isnt-a-state-you-arrive-at",
@@ -13803,7 +13828,19 @@
       "from": "clarity-isnt-a-state-you-arrive-at",
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
+      "label": "生命的意义在起草之中"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "the-meaning-of-life-is-in-the-drafting",
+      "rel": "points_to",
       "label": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "token-efficiency-emulation-and-the-unclosable-gap",
+      "rel": "points_to",
+      "label": "Token 效率、模拟与无法弥合的间隙"
     },
     {
       "from": "clarity-isnt-a-state-you-arrive-at",
@@ -13815,7 +13852,25 @@
       "from": "clarity-isnt-a-state-you-arrive-at",
       "to": "not-a-theory-of-everything",
       "rel": "points_to",
+      "label": "非万物之理（因果的二重性）"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "not-a-theory-of-everything",
+      "rel": "points_to",
       "label": "Not a Theory of Everything"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "rel": "points_to",
+      "label": "真正稀缺的不是记忆，而是持续的重新追溯"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "遗忘的脚手架"
     },
     {
       "from": "clarity-isnt-a-state-you-arrive-at",
@@ -13833,7 +13888,31 @@
       "from": "clarity-isnt-a-state-you-arrive-at",
       "to": "lossless-knowledge-of-an-open-field-is-incoherent",
       "rel": "points_to",
+      "label": "开放场域中的无损知识不自洽"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "rel": "points_to",
       "label": "Lossless Knowledge of an Open Field Is Incoherent"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "evil-as-the-minds-own-creation",
+      "rel": "points_to",
+      "label": "恶是心智自己的造物"
     },
     {
       "from": "clarity-isnt-a-state-you-arrive-at",
@@ -13845,25 +13924,61 @@
       "from": "clarity-isnt-a-state-you-arrive-at",
       "to": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "rel": "points_to",
-      "label": "Sympathy is a placeholder for lack of clarity"
+      "label": "同情是缺乏清晰时的占位符"
     },
     {
       "from": "clarity-isnt-a-state-you-arrive-at",
       "to": "only-if-it-is-not-kept-empty",
       "rel": "points_to",
-      "label": "Only if it is not kept empty"
+      "label": "只要它不被保持为空"
     },
     {
       "from": "clarity-isnt-a-state-you-arrive-at",
       "to": "the-climate-problem-registers-only-as-perception",
       "rel": "points_to",
-      "label": "The climate problem registers only as perception"
+      "label": "气候问题只作为感知被登记"
     },
     {
       "from": "clarity-isnt-a-state-you-arrive-at",
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
-      "label": "The scaffolding that keeps growing"
+      "label": "持续生长的脚手架"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "sympathy-is-a-placeholder-for-lack-of-clarity",
+      "rel": "points_to",
+      "label": "Sympathy Is a Placeholder for Lack of Clarity"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "only-if-it-is-not-kept-empty",
+      "rel": "points_to",
+      "label": "Only If It Is Not Kept Empty"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "the-climate-problem-registers-only-as-perception",
+      "rel": "points_to",
+      "label": "The Climate Problem Registers Only as Perception"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The Scaffolding That Keeps Growing"
     },
     {
       "from": "clarity-isnt-a-state-you-arrive-at",
@@ -13881,49 +13996,109 @@
       "from": "clarity-isnt-a-state-you-arrive-at",
       "to": "expertise-as-reference-not-replacement",
       "rel": "points_to",
-      "label": "Expertise as reference, not replacement"
+      "label": "专家经验作为参考而非替代"
     },
     {
       "from": "clarity-isnt-a-state-you-arrive-at",
       "to": "when-observation-becomes-performance",
       "rel": "points_to",
-      "label": "When observation becomes performance"
+      "label": "当观察变成表演"
     },
     {
       "from": "clarity-isnt-a-state-you-arrive-at",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
-      "label": "Externalized virtue becomes its opposite"
+      "label": "外化善意走向其反面"
     },
     {
       "from": "clarity-isnt-a-state-you-arrive-at",
       "to": "the-source-of-all-harm",
       "rel": "points_to",
-      "label": "The source of all harm"
+      "label": "一切伤害的根源"
     },
     {
       "from": "clarity-isnt-a-state-you-arrive-at",
       "to": "writing-without-the-image",
       "rel": "points_to",
-      "label": "Writing without the image"
+      "label": "无形象的写作"
     },
     {
       "from": "clarity-isnt-a-state-you-arrive-at",
       "to": "the-real-lesson-from-the-consciousness-vector-paper",
       "rel": "points_to",
-      "label": "The real lesson from the consciousness vector paper"
+      "label": "意识向量论文的真正教训"
     },
     {
       "from": "clarity-isnt-a-state-you-arrive-at",
       "to": "closed-assumptions-squeeze-compounding-into-s-curves",
       "rel": "points_to",
-      "label": "Closed assumptions squeeze compounding into S-curves"
+      "label": "封闭的假设把复利挤成 S 曲线"
     },
     {
       "from": "clarity-isnt-a-state-you-arrive-at",
       "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
       "rel": "points_to",
-      "label": "The hard problem of consciousness is consistent with learning"
+      "label": "意识的难题与学习相容"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "closed-reality-in-the-pursuit-of-serendipity",
+      "rel": "points_to",
+      "label": "追求机缘中的封闭现实"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "生产、消费与心智的区分"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "Expertise as Reference, Not Replacement"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When Observation Becomes Performance"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized Virtue Becomes Its Opposite"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "the-source-of-all-harm",
+      "rel": "points_to",
+      "label": "The Source of All Harm"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "writing-without-the-image",
+      "rel": "points_to",
+      "label": "Writing Without the Image"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "the-real-lesson-from-the-consciousness-vector-paper",
+      "rel": "points_to",
+      "label": "The Real Lesson from the Consciousness Vector Paper"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "rel": "points_to",
+      "label": "Closed Assumptions Squeeze Compounding into S-Curves"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
+      "rel": "points_to",
+      "label": "The Hard Problem of Consciousness Is Consistent with Learning"
     },
     {
       "from": "clarity-isnt-a-state-you-arrive-at",
@@ -13941,13 +14116,31 @@
       "from": "clarity-isnt-a-state-you-arrive-at",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, boundaries, and the moving edge of reality"
+      "label": "抽象、边界与现实的移动边缘"
     },
     {
       "from": "clarity-isnt-a-state-you-arrive-at",
       "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "rel": "points_to",
-      "label": "Potential infinity and the temporary closures of mathematical thought"
+      "label": "潜无限与数学思维的暂时闭合"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "qian-yin-hou-guo",
+      "rel": "points_to",
+      "label": "前因，后果"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "rel": "points_to",
+      "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
+    },
+    {
+      "from": "clarity-isnt-a-state-you-arrive-at",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "Potential Infinity and the Temporary Closures of Mathematical Thought"
     },
     {
       "from": "clarity-isnt-a-state-you-arrive-at",
@@ -60407,7 +60600,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "10c95cd007ea",
+        "hash": "6af2da589680",
         "out_degree": 396
       },
       {
@@ -60461,7 +60654,7 @@
         "slug": "method",
         "path": "content/book/method.md",
         "title": "非万物之理 / Not a Theory of Everything",
-        "hash": "9ae1de0d35cf",
+        "hash": "f63c52e316f5",
         "out_degree": 26
       },
       {
@@ -64664,7 +64857,7 @@
         "from": "book:index-of-premises",
         "to": "clarity-isnt-a-state-you-arrive-at",
         "rel": "collects",
-        "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
+        "label": "清晰不是抵达的终点，而是运动本身 / Clarity Isn't a State You Arrive At. It's the Movement Itself."
       },
       {
         "from": "book:index-of-premises",
@@ -66068,7 +66261,7 @@
         "from": "book:method",
         "to": "clarity-isnt-a-state-you-arrive-at",
         "rel": "collects",
-        "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
+        "label": "清晰不是抵达的终点，而是运动本身 / Clarity Isn't a State You Arrive At. It's the Movement Itself."
       },
       {
         "from": "book:method",
