@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T20:15:51.821Z",
+    "generated_at": "2026-10-20T20:19:22.067Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -11,7 +11,7 @@
       "content/posts/Analysis_Adolescence_of_Technology.md": "c0b218c3747d",
       "content/posts/a-creation-cannot-replace-its-source.md": "7d55aa265c69",
       "content/posts/a-living-external-cortex.md": "8455bda81455",
-      "content/posts/a-new-deeper-look-at-antifragility.md": "038c06ecede5",
+      "content/posts/a-new-deeper-look-at-antifragility.md": "a51cf4a49a6f",
       "content/posts/abstract-pain-and-living-hunger.md": "2e4f27bcaae8",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "290f14f205cc",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "184d47222192",
@@ -407,7 +407,7 @@
       "content/book/causality.md": "c5ac49c16705",
       "content/book/consciousness.md": "9646f214f789",
       "content/book/economics.md": "c863f3bd1a44",
-      "content/book/index-of-premises.md": "31dfbfd32cdd",
+      "content/book/index-of-premises.md": "dfe959f93f74",
       "content/book/intelligence.md": "699abff1af69",
       "content/book/knowledge-and-learning.md": "cca91fa2120f",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -419,14 +419,14 @@
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "0520232eef96",
       "content/book/success-and-the-self.md": "9790413b85f6",
-      "content/book/tools-and-progress.md": "76fb9570f8fd"
+      "content/book/tools-and-progress.md": "4b50a3100259"
     },
     "stats": {
       "posts": 396,
-      "edges": 9602,
-      "unique_directed": 4808,
+      "edges": 9610,
+      "unique_directed": 4809,
       "missing_targets": 0,
-      "one_way": 330,
+      "one_way": 331,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 171
+      "in_degree": 172
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -706,14 +706,15 @@
       "kind": "post",
       "slug": "a-new-deeper-look-at-antifragility",
       "path": "content/posts/a-new-deeper-look-at-antifragility.md",
-      "title": "A New Deeper Look at Antifragility: Prosthesis, Not Driver",
-      "hash": "038c06ecede5",
+      "title": "重新审视反脆弱 / A New Deeper Look at Antifragility",
+      "hash": "a51cf4a49a6f",
       "in_degree": 6,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "the-unfrictioned-mind-and-borrowed-omnipotence",
         "openness-is-consistency",
+        "beyond-the-projection",
         "the-reality-distortion-field-inverts-the-baseline",
         "the-rational-choice-postulate-is-the-original-sin",
         "closed-reality-in-the-pursuit-of-serendipity"
@@ -1074,7 +1075,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 171,
+      "in_degree": 172,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -10647,7 +10648,19 @@
       "from": "a-new-deeper-look-at-antifragility",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, Consumption, and the Mind’s Distinction"
+      "label": "生产、消费与心智的区分"
+    },
+    {
+      "from": "a-new-deeper-look-at-antifragility",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, Consumption, and the Mind's Distinction"
+    },
+    {
+      "from": "a-new-deeper-look-at-antifragility",
+      "to": "the-unfrictioned-mind-and-borrowed-omnipotence",
+      "rel": "points_to",
+      "label": "未历摩擦的心智与借来的全能"
     },
     {
       "from": "a-new-deeper-look-at-antifragility",
@@ -10659,19 +10672,55 @@
       "from": "a-new-deeper-look-at-antifragility",
       "to": "openness-is-consistency",
       "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "a-new-deeper-look-at-antifragility",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
       "label": "Openness Is Consistency"
+    },
+    {
+      "from": "a-new-deeper-look-at-antifragility",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "a-new-deeper-look-at-antifragility",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "a-new-deeper-look-at-antifragility",
       "to": "the-reality-distortion-field-inverts-the-baseline",
       "rel": "points_to",
-      "label": "The reality distortion field inverts the baseline"
+      "label": "现实扭曲力场颠倒了基线"
     },
     {
       "from": "a-new-deeper-look-at-antifragility",
       "to": "the-rational-choice-postulate-is-the-original-sin",
       "rel": "points_to",
-      "label": "The rational choice postulate is the original sin"
+      "label": "理性选择公设是原罪"
+    },
+    {
+      "from": "a-new-deeper-look-at-antifragility",
+      "to": "closed-reality-in-the-pursuit-of-serendipity",
+      "rel": "points_to",
+      "label": "追求机缘中的封闭现实"
+    },
+    {
+      "from": "a-new-deeper-look-at-antifragility",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The Reality Distortion Field Inverts the Baseline"
+    },
+    {
+      "from": "a-new-deeper-look-at-antifragility",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "The Rational Choice Postulate Is the Original Sin"
     },
     {
       "from": "a-new-deeper-look-at-antifragility",
@@ -67811,7 +67860,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "31dfbfd32cdd",
+        "hash": "dfe959f93f74",
         "out_degree": 396
       },
       {
@@ -67919,7 +67968,7 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "76fb9570f8fd",
+        "hash": "4b50a3100259",
         "out_degree": 33
       }
     ],
@@ -68996,7 +69045,7 @@
         "from": "book:index-of-premises",
         "to": "a-new-deeper-look-at-antifragility",
         "rel": "collects",
-        "label": "A New Deeper Look at Antifragility: Prosthesis, Not Driver"
+        "label": "重新审视反脆弱 / A New Deeper Look at Antifragility"
       },
       {
         "from": "book:index-of-premises",
@@ -69290,7 +69339,7 @@
         "from": "book:index-of-premises",
         "to": "a-new-deeper-look-at-antifragility",
         "rel": "collects",
-        "label": "A New Deeper Look at Antifragility: Prosthesis, Not Driver"
+        "label": "重新审视反脆弱 / A New Deeper Look at Antifragility"
       },
       {
         "from": "book:index-of-premises",
@@ -74366,7 +74415,7 @@
         "from": "book:tools-and-progress",
         "to": "a-new-deeper-look-at-antifragility",
         "rel": "collects",
-        "label": "A New Deeper Look at Antifragility: Prosthesis, Not Driver"
+        "label": "重新审视反脆弱 / A New Deeper Look at Antifragility"
       },
       {
         "from": "book:tools-and-progress",

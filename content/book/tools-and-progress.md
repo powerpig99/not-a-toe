@@ -21,7 +21,7 @@ The essays here explore antifragility in engineering, the calm tension between S
 - [The Interface Stack: Why Agents Don't "Prefer" CLIs](../../posts/cli-interface-stack/)
 - [The Platform Doesn't Drift — It Completes](../../posts/platform-decision-capture/)
 - [The Loop Accelerates](../../posts/the-loop-accelerates/)
-- [A New Deeper Look at Antifragility: Prosthesis, Not Driver](../../posts/a-new-deeper-look-at-antifragility/)
+- [重新审视反脆弱 / A New Deeper Look at Antifragility](../../posts/a-new-deeper-look-at-antifragility/)
 - [活的外部皮层 / A Living External Cortex](../../posts/a-living-external-cortex/)
 - [一个提示词之遥 / Whatever Is One Prompt Away](../../posts/whatever-is-one-prompt-away/)
 - [气候问题只作为感知被登记 / The Climate Problem Registers Only as Perception](../../posts/the-climate-problem-registers-only-as-perception/)

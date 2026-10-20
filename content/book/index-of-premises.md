@@ -582,7 +582,7 @@ Levin demonstrated developmental bioelectric agency across scales; groundbreakin
 
 Taleb formalizes convex payoffs under uncertainty; invaluable for risk engineering, his polemical posture overextends convex heuristics into domains requiring precision.
 
-→ [A New Deeper Look at Antifragility: Prosthesis, Not Driver](../../posts/a-new-deeper-look-at-antifragility/)
+→ [重新审视反脆弱 / A New Deeper Look at Antifragility](../../posts/a-new-deeper-look-at-antifragility/)
 
 ### 纳瓦尔·拉维肯特 / Naval Ravikant
 `成功学 / Self-Help`
@@ -915,7 +915,7 @@ Animism attributes consciousness to rivers, mountains and forests; it registers,
 
 Antifragility presumes that systems can be designed to gain from shock and volatility, which is of use within survivable thresholds and as a local instrument for fat-tailed shocks; it reaches its boundary in that symptoms register under a hold and the hold is not the structure prior to distinguishing, so raising the statistical pattern into a general prescription converts an externally forced, non-predeterminable process into a property engineered in advance and assumes a future bounded enough to prepare for.
 
-→ [A New Deeper Look at Antifragility: Prosthesis, Not Driver](../../posts/a-new-deeper-look-at-antifragility/) · [现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/)
+→ [重新审视反脆弱 / A New Deeper Look at Antifragility](../../posts/a-new-deeper-look-at-antifragility/) · [现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/)
 
 ### 大脑反向传播假说 / Backpropagation in the Brain
 `科学 / Scientific`
