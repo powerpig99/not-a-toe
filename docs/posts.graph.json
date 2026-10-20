@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T08:07:36.800Z",
+    "generated_at": "2026-10-20T08:38:34.145Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -62,7 +62,7 @@
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "5f788bf55578",
       "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "ccb4b3e58dea",
       "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "4fdac1ab3e30",
-      "content/posts/dimensions-are-projections.md": "74ce8777a33a",
+      "content/posts/dimensions-are-projections.md": "63944447c30b",
       "content/posts/distillation-compression-agency.md": "60354a08e758",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "1b67e9d4ce82",
       "content/posts/e-shi-feng-bi-de-shan.md": "e02379f1e36c",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 8350,
-      "unique_directed": 4633,
+      "edges": 8352,
+      "unique_directed": 4634,
       "missing_targets": 0,
-      "one_way": 177,
+      "one_way": 176,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -1064,7 +1064,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "15ba28672abe",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1966,9 +1966,9 @@
       "slug": "dimensions-are-projections",
       "path": "content/posts/dimensions-are-projections.md",
       "title": "维度即投影 / Dimensions Are Projections",
-      "hash": "74ce8777a33a",
+      "hash": "63944447c30b",
       "in_degree": 18,
-      "out_degree": 18,
+      "out_degree": 19,
       "links_out": [
         "not-a-toe-rewrite",
         "what-information-is",
@@ -1984,6 +1984,7 @@
         "the-arithmetic-of-the-register",
         "war-revolution-and-the-fall-of-empires",
         "the-twin-paradox-and-the-hidden-observer",
+        "beyond-the-projection",
         "the-model-never-becomes-a-second-edge",
         "the-vector-and-the-puzzle-of-projections",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -17397,6 +17398,18 @@
       "to": "the-twin-paradox-and-the-hidden-observer",
       "rel": "points_to",
       "label": "The Twin Paradox and the Hidden Observer"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "dimensions-are-projections",
