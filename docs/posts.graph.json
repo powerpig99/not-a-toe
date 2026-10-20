@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T18:11:10.406Z",
+    "generated_at": "2026-10-20T18:13:10.967Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -92,7 +92,7 @@
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "1dda87ac659f",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "25587f1da276",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
-      "content/posts/guan-yu-gui-yin.md": "f02650c0ccb9",
+      "content/posts/guan-yu-gui-yin.md": "bca54998a846",
       "content/posts/guidance-is-not-ownership.md": "7d51a8692137",
       "content/posts/hardness-is-not-inherent-in-the-action.md": "316eb567ee9c",
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "5e1f5d55d8c4",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9425,
-      "unique_directed": 4760,
+      "edges": 9427,
+      "unique_directed": 4761,
       "missing_targets": 0,
-      "one_way": 282,
+      "one_way": 283,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 129
+      "in_degree": 130
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1071,7 +1071,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 129,
+      "in_degree": 130,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -2623,13 +2623,14 @@
       "slug": "guan-yu-gui-yin",
       "path": "content/posts/guan-yu-gui-yin.md",
       "title": "关于归因 / On Attribution",
-      "hash": "f02650c0ccb9",
+      "hash": "bca54998a846",
       "in_degree": 11,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "qian-yin-hou-guo",
         "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
         "openness-is-consistency",
+        "beyond-the-projection",
         "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
         "cheng-gong-xue",
         "ownership-and-self-worthiness",
@@ -21781,9 +21782,21 @@
     },
     {
       "from": "guan-yu-gui-yin",
+      "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "rel": "points_to",
+      "label": "Popper's falsificationism is commonly misused"
+    },
+    {
+      "from": "guan-yu-gui-yin",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "开放即一致"
+    },
+    {
+      "from": "guan-yu-gui-yin",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
     },
     {
       "from": "guan-yu-gui-yin",
@@ -21793,15 +21806,15 @@
     },
     {
       "from": "guan-yu-gui-yin",
-      "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
-      "rel": "points_to",
-      "label": "Popper's falsificationism is commonly misused"
-    },
-    {
-      "from": "guan-yu-gui-yin",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness Is Consistency"
+    },
+    {
+      "from": "guan-yu-gui-yin",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "guan-yu-gui-yin",

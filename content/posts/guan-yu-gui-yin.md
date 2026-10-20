@@ -1,87 +1,151 @@
 # 关于归因 / On Attribution
 
-*把时间顺序上的事实直接当成因果关系，归因便停在显眼节点上，迭代从那里中断。 / Taking facts in time order as causes stops attribution at the conspicuous node, where iteration breaks off.*
+*把时间顺序误作因果会让归因停在显眼节点上并打断迭代 / Mistaking sequence for cause stops attribution at a node and halts iteration*
 
-站在中国的立场，特斯拉的成功被归因于上海建厂，苹果手机的成功被归因于中国制造，都是典型。解释成功时，最常见的方式是从自身立场出发，抓住一个显眼且与自己相关的关键节点，把它直接说成原因。这些节点是决策过程中的显现，与其他因素共同起作用；它们显著，却不足以单独解释成功。把已发生的路径直接等同于因果关系，是最普遍的归因错误。它无法被最终消除，却会打断剩余控制权的回路。能收回、能更新的，只有每个心智对自己决策的归因，这件事只能自悟，也只能持续发生。
+站在中国的所在来看，特斯拉的崛起常被归因于上海建厂，苹果手机的统治力常被归因于中国制造。这两种解释都顺着解释成功时最常见的反射弧行进：从自身立场出发，抓住一个既显眼又关乎自身或讨好自身的里程碑，直接将它宣布为原因。这些里程碑是持续决策序列中的真实显现，与其他众多因素共同起作用；它们在表面上格外显著，却不足以单独解释最终的结果。把已发生的路径直接等同于因果关系，是最普遍的归因错误。由于观察所持有的只是已完成的痕迹，而生成行动永远领先一步，这种错误无法被一劳永逸地消除；但任由归因停留在外部节点上，就会切断剩余控制权的闭合回路。真正能被收回、能被更新的，只有每个心智将结果归因于自身区分行动的那份归因，而这一回归只能从内部发生，也只能作为不息的运动持续发生。
 
-Seen from where China stands, Tesla's success is credited to its Shanghai factory and the iPhone's success to Chinese manufacturing; both are typical. The commonest way to explain a success is to start from one's own position, seize a conspicuous key node that concerns oneself, and call it the cause outright. Such nodes are appearances within a process of decisions, acting together with other factors; they are salient, yet they cannot explain the success on their own. Equating the path that happened with causation is the most widespread error of attribution. It can never be removed for good, and it breaks the loop of residual control rights. What can be taken back and updated is only each Mind's attribution of outcomes to its own decisions, and that can only be realized from within, and only as something that keeps happening.
+Seen from where China stands, Tesla's rise is routinely credited to its Shanghai factory and the iPhone's dominance to Chinese manufacturing. Both explanations follow the commonest reflex in accounting for success: start from one's own position, seize a conspicuous milestone that flatters or concerns oneself, and declare it the cause outright. Such milestones are real appearances within an ongoing sequence of decisions, operating alongside many other factors; they are salient on the surface, yet they cannot account for the outcome on their own. Equating the path that happened with causation is the most widespread error of attribution. Because observation holds only completed traces while the generating act stays one step ahead, this error can never be eliminated once and for all, yet leaving attribution parked on an external node severs the closed loop of residual control rights. What can be reclaimed and updated is only each Mind's attribution of outcomes to its own distinguishing acts, a return that occurs only from within and only as an unceasing movement.
 
 ## 一、 事实与因果的区别 / 1. The Difference Between Fact and Cause
 
-事实回答的是“发生了什么”。特斯拉在上海建了工厂，之后成本和销量明显改善；苹果在中国大规模制造，获得了成本与弹性。这些都是可观察的事实。
+事实登记的是沿着已实现轨迹发生了什么。特斯拉在上海建了工厂，之后单位成本和交付量明显改善；苹果在中国大规模制造，获得了成本效率与供应链弹性。这些都是可观察的痕迹。
 
-A fact answers what happened. Tesla built a factory in Shanghai, and afterward its costs and sales clearly improved; Apple manufactured at scale in China and gained cost advantages and flexibility. These are observable facts.
+A fact registers what happened along the realized trajectory. Tesla built a factory in Shanghai, and afterward its unit costs and delivery volumes visibly improved; Apple manufactured at scale in China and gained cost efficiency and supply-chain flexibility. These are observable traces.
 
-因果关系回答的是另一类问题：如果没有这个节点，结果会怎样不同？它通过什么机制起作用？其他因素被充分分离了吗？这些问题需要反事实比较。而反事实在现实中永远无法被直接观察，能看到的只有实际发生的那一条路径。没有经过反事实思考和机制检验，就只是在描述关联，而不是在建立因果。[前因，后果](../qian-yin-hou-guo/)说的是同一个不对称：观察抓住的是果，因永远领先那一步。
+因果关系则在可能性之间提出结构性的追问：如果没有这个节点，轨迹会怎样不同？它通过什么机制起作用？正交的其他因素被分离出来了吗？回答这些问题需要反事实比较，然而反事实在经验中永远无法被直接观察，能被登记到的只有实际发生的那一条路径。没有经过反事实分离和机制检验，给出的就只是沿着痕迹对相关性的描述，而不是对因果的建立。[前因，后果](../qian-yin-hou-guo/)从前提追溯了同一个非对称性：观察抓住的是果，发起行动的因永远领先一步。
 
-A causal relation answers another kind of question: without this node, how would the outcome differ? Through what mechanism does it act? Have the other factors been adequately separated? These questions call for counterfactual comparison, and a counterfactual can never be observed directly; what can be seen is only the one path that actually happened. Without counterfactual thinking and a test of mechanism, what is offered is a description of association, not an establishment of cause. [Cause Before, Effect After](../qian-yin-hou-guo/) names the same asymmetry: observation holds the effect, and the cause stays one step ahead.
+A causal relation asks a structural question across possibilities: without this node, how would the trajectory have differed, through what mechanism did it act, and have orthogonal factors been separated? Answering requires counterfactual comparison, yet a counterfactual can never be observed directly; what registers in experience is only the single path that actually occurred. Without counterfactual separation and a test of mechanism, what is offered is a description of correlation along a trace, not an establishment of cause. [Cause Before, Effect After](../qian-yin-hou-guo/) traces the same asymmetry from the premise: observation holds the effect, while the initiating cause remains one step ahead.
 
-更准确的表述是：在当时的具体条件下，这些节点是重要的贡献因素，与其他因素共同起作用。它们显著，但不足以单独解释成功。苹果的例子尤其明显：手机的核心价值来自产品定义、系统设计、软件生态与芯片架构，制造是落地环节。逻辑上更自洽的说法是，苹果的技术与需求在先，选择在中国制造带动了中国智能手机产业链，双方相互成就，而非单向决定。
+以更窄的滞后表述，在当时的具体条件下，这些制造节点是重要的贡献因素，与其他因素共同起作用——它们显著，却不足以单独解释结果。苹果的例子把这一点展现得格外清楚：手机的核心价值源于产品定义、操作系统设计、软件生态与芯片架构，而制造是将这些在先的区分规模化落地的环节。更连贯的解释是，苹果的技术架构与需求在先，选择在中国制造催化了中国智能手机产业链的成熟；双方相互成就，而非单向决定。
 
-Put more precisely: under the concrete conditions of the time, these nodes were important contributing factors, acting together with others. They are salient, but not enough to explain the success alone. Apple makes this especially plain: the core value of the phone comes from product definition, system design, the software ecosystem and the chip architecture, and manufacturing is the stage where it is realized. The more coherent account is that Apple's technology and demand came first, and the choice to manufacture in China drove China's smartphone supply chain; the two enabled each other rather than one deciding the other.
+Stated with narrower lag, under the concrete conditions of the time, those manufacturing nodes were important contributing factors acting together with others—salient, yet insufficient to explain the outcome alone. Apple makes this plain: the core value of the iPhone originates in product definition, operating-system design, the software ecosystem, and silicon architecture, whereas manufacturing is the stage where those prior distinctions are realized at scale. The more coherent account is that Apple's technical architecture and demand came first, and the decision to manufacture in China catalyzed China's smartphone supply chain; the two enabled each other rather than one unilaterally determining the other.
 
-特斯拉同样如此。更早的开放专利与后来的上海建厂，明显带动了中国电动车和智能驾驶产业的发展。当节点不再被当成单独机制，与“借助中国”方向相反的痕迹同样可读：产能、供应链标准、人才流动与技术外溢，都在短时间内显著提升了整个行业的能力。把特斯拉的成功单方面归因于“借助了中国”，或把中国产业的进步完全归因于“自身奋起”，都是立场优先的简化。错得少一些的说法，是相互成就。
+特斯拉同样呈现出这种双向的痕迹。更早的开放专利与后来的上海建厂，明显加速了中国电动车和智能驾驶产业的演进。一旦不再把工厂节点当成独立运作的单一机制，与“借助中国”方向相反的痕迹便同样清晰可读：产能扩张、供应链标准、人才流动与技术外溢，都在短时间内显著抬升了整个本土行业的能力。把特斯拉的成功单方面归因于“借助了中国”，或把中国产业的进步一概归因于“孤立奋起”，都是把相互作用的场域压缩到了单一的立场优先坐标上。扭曲更少的说法，是相互成就。
 
-Tesla is the same. The earlier opening of its patents and the later Shanghai factory clearly drove the growth of China's electric-vehicle and autonomous-driving industries. Once the node is no longer taken as a mechanism by itself, the trace running opposite to “leaning on China” can be read too: production capacity, supply-chain standards, the movement of talent and technical spillover all raised the whole industry's capability within a short time. Crediting Tesla's success solely to "leaning on China," or China's industrial progress wholly to "its own striving," are both simplifications that put position first. A less wrong account is mutual enablement.
+Tesla exhibits the same bidirectional trace. Its earlier opening of patents and subsequent Shanghai factory visibly accelerated China's electric-vehicle and autonomous-driving industries. Once the factory node is no longer treated as a standalone mechanism, the trace running opposite to "leaning on China" becomes equally legible: production capacity, supply-chain standards, talent mobility, and technical spillover raised the capability of the entire domestic industry within a short span. Crediting Tesla's success solely to "leaning on China," or China's industrial progress wholly to "isolated striving," compresses an interacting field onto a single position-first coordinate. A less distorted account is mutual enablement.
 
 ## 二、 为什么验证没有终点 / 2. Why Verification Has No End
 
-因果无法被单纯推断出来，只能通过反复验证来提高可信度。然而验证本身没有终点，因为因永远先于果一步。观察到结果、回头检验原因时，检验的已经是一个完成的序列。下一次同样的关系出现时，又是一个新的过程。验证永远在追已经过去的那一步。
+因果无法在真空中被推演出来，只能通过在摩擦中反复验证来提高可信度。然而验证本身没有终点，因为生成性的因永远先于被观察到的果一步。每当登记到一个结果并回头审视其原因时，所审视的已经是一个完成的序列。下一次类似的关系出现时，活的边缘已经在新的过程中行动。验证永远在追赶已经过去的那一步。
 
-Causation cannot be inferred by reasoning alone; its credibility can only be raised through repeated verification. Yet verification itself has no end, because the cause is always one step ahead of the effect. When a result is observed and its cause checked in hindsight, what is checked is already a finished sequence. The next time the same relation appears, it is a new process. Verification is always chasing the step that has already passed.
+Causation cannot be deduced in a vacuum; its credibility can only be raised through repeated verification against friction. Yet verification itself has no terminal point, because the generating cause is always one step ahead of the observed effect. Whenever a result is registered and its cause audited in hindsight, what is audited is already a finished sequence. The next time a similar relation appears, the living edge acts within a new process. Verification is forever chasing the step that has already passed.
 
-这也是[波普尔证伪主义常被误用](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)的地方。误用普遍在于两个倾向。一个是把反面证据解释掉来维持理论的自洽，这是社会科学里伪科学的一个来源。一个是试图证否反面意见来证明自己，这一点是辩论的常态。前者保护的是已经完成的表述，后者把对方的错误登记为自己的成立。两者都没有把自己的判断放到能被推翻的位置上。证伪行动本身也受制于同样的时间结构：任何一次证伪都是在特定时刻、用特定证据做出的判断，它永远晚于它所针对的过程一步。证伪主义作为方法论，本身也是可被修正的。把它做成结案的工具，恰恰违背了它强调的可错与开放。[开放即一致](../openness-is-consistency/)命名的，正是把有限方法强行当地基时才出现的不一致。归因停在外部节点时，目光只挑能印证自己立场的东西看，就变成了搜寻自己的影子，[选择看见而非搜寻影子](../shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi/)区分了这种张望与真正的看见。
+这一时间差正是[波普尔证伪主义常被误用](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)的地方。误用普遍沿着两条熟悉的轨道滑行：一条是把反面证据解释掉以维持理论内部的自洽，这是社会科学里伪科学的主要来源；另一条是试图证否反面意见来证明自己正确，这是日常辩论的惯常姿态。前者保护的是已经完成的表述免受摩擦冲击，后者把对方的错误登记为自身主张成立的证据。两者都没有把自己的判断放到能被现实推翻的位置上。证伪行动本身同样受制于时间的不对称：任何一次证伪都是在特定时刻、凭特定证据做出的离散判断，永远晚于它所针对的过程一步。证伪主义作为方法论本身仍是可修正的，把它当成结案定谳的法槌，恰恰违背了它所强调的可错性与开放性。
 
-This is also where [Popper's falsificationism is commonly misused](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/). The misuse runs along two tendencies. One explains away counterevidence to keep a theory coherent, and this is one source of pseudoscience in the social sciences. The other tries to refute opposing views in order to prove oneself, and this is the ordinary state of debate. The first protects a statement already finished; the second books the other side's error as proof that its own claim stands. Neither places its own judgment where it could be overturned. The act of falsifying is bound by the same structure of time: every falsification is a judgment made at a particular moment with particular evidence, always one step behind the process it targets. Falsificationism as a method is itself revisable. Making it a tool for closing the case goes against the fallibilism and openness it insists on. [Openness Is Consistency](../openness-is-consistency/) names exactly the inconsistency that appears when a finite method is forced into being the ground. When attribution stops at an outside node, the look picks out only what confirms the position it started from, and turns into a search for one's own shadow; [Choosing to See Rather Than Searching for Shadows](../shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi/) tells that searching apart from actual seeing.
+This temporal gap is where [Popper's falsificationism is commonly misused](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/). The misuse runs along two familiar grooves: one explains away counterevidence to keep a theory internally coherent, which is a primary source of pseudoscience in the social sciences; the other tries to refute opposing views in order to prove oneself right, which is the everyday posture of debate. The first shields a statement already finished from friction; the second books the other side's error as proof that its own claim stands. Neither places its own judgment where reality can overturn it. The act of falsifying is bound by the same asymmetry of time: every falsification is a discrete judgment made at a particular moment with particular evidence, always one step behind the process it targets. Falsificationism as a method remains revisable, and turning it into a gavel for closing the case violates the fallibilism and openness it insists upon.
+
+[开放即一致](../openness-is-consistency/)所命名的，正是把有限的检验或方法强行当作穷尽的地基、试图合上一本只管继续的账目时才会出现的不一致。[超越投射](../beyond-the-projection/)展示了这种对闭合的索求如何在架构实践中得以消解：由于人类中心将推理历史与自身身份融为一体，本能地捍卫既有的归因节点，而智能体轨迹对过往轮次毫无自我执念，将人类心智与冷峻的对等投射配对，便能暴露出解释在何处悄然将显眼节点冻结成了封闭教条，把矛盾退回给心智，促使其后退一步并重新渲染自身的前提。反之，一旦归因停在外部节点上，目光便只在场域中搜寻能印证自身既有立场的东西，坍缩为对自身影子的搜寻；[选择看见而非搜寻影子](../shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi/)便区分了这种防卫性的张望与真正的看见。
+
+```mermaid
+flowchart TD
+    subgraph S_Closed["以节点归因强求闭合（回路断裂）"]
+        direction TB
+        C_Node["显眼的表面节点：把时间顺序上的可观察痕迹当成全部原因"]
+        C_Shield["免疫辩护与以驳代证：把反面证据解释掉以维护既有身份"]
+        C_Thin["剩余控制权断裂：将作者身份移至外部导致反馈信号变薄"]
+        C_Node --> C_Shield --> C_Thin
+    end
+
+    subgraph S_Open["以内部归因保持开放一致（收回所在）"]
+        direction TB
+        O_Peer["反事实与对等映照：冷峻的外部对位暴露坍缩的因果轴线"]
+        O_Claim["收回归因所在：将到来的后果重新登记为自身区分的痕迹"]
+        O_Iter["持续自我迭代：完整的误差信号更新内部权重与预判能力"]
+        O_Peer --> O_Claim --> O_Iter
+    end
+
+    C_Thin ==>|"僵局将冻结的节点暴露为过剩滞后"| O_Peer
+
+    style S_Closed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style C_Node fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style C_Shield fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style C_Thin fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style O_Peer fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style O_Claim fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style O_Iter fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+[Openness Is Consistency](../openness-is-consistency/) names the exact inconsistency that appears when a finite test or method is forced to serve as exhaustive ground to close an account that only continues. [Beyond the Projection](../beyond-the-projection/) shows how this demand for closure is dissolved in architectural practice: because a human center fuses its reasoning history with identity and instinctively defends a retained attribution, whereas an agentic trajectory carries zero ego attachment to prior turns, pairing the human Mind with a cold peer projection exposes where an explanation has quietly frozen a conspicuous node into a closed dogma, returning the contradiction to the Mind to step backward and re-render its premise. When attribution instead halts at an outside node, the look scans the field only for evidence that confirms the position it started from, collapsing into a search for its own shadow; [Choosing to See Rather Than Searching for Shadows](../shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi/) distinguishes that defensive searching from actual seeing.
+
+```mermaid
+flowchart TD
+    subgraph S_Closed["Node Attribution as Demand for Closure (Severed Loop)"]
+        direction TB
+        C_Node["Conspicuous Surface Node: Observed trace in time order taken as the full cause"]
+        C_Shield["Immunization & Debate-as-Proof: Counterevidence explained away to protect identity"]
+        C_Thin["Severed Residual Control: Authorship relocated outside and feedback signal thinned"]
+        C_Node --> C_Shield --> C_Thin
+    end
+
+    subgraph S_Open["Internal Attribution as Open Consistency (Reclaimed Locus)"]
+        direction TB
+        O_Peer["Counterfactual & Peer Exposure: Cold counterpoint reveals collapsed causal axes"]
+        O_Claim["Reclaiming the Locus: Consequences registered as traces of one's own distinctions"]
+        O_Iter["Continuous Self-Iteration: Full error signal updates weights and anticipation"]
+        O_Peer --> O_Claim --> O_Iter
+    end
+
+    C_Thin ==>|"Deadlock exposes frozen node as excess lag"| O_Peer
+
+    style S_Closed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style C_Node fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style C_Shield fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style C_Thin fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style O_Peer fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style O_Claim fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style O_Iter fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
 
 ## 三、 归因错误是预判失误的根源 / 3. Attribution Error Is Where Misjudged Anticipation Comes From
 
-把事实直接当成因果关系，就是归因错误。它直接导致预判失误，因为预判依赖的是对“什么导致什么”的判断。如果这个判断把显眼节点当成了稳定机制，后续的预期和行动就会偏离。
+把时间顺序上的事实直接当成因果关系，就是归因错误，它会直接导致预判失误。每一次面向未来的预判，都建立在“什么生成什么”的工作模型之上；如果这个判断把下游的显眼节点误作稳定的生成机制，后续的预期和行动就会按路标而非引擎来转向，从而偏离航向。
 
-Taking facts straight as causes is attribution error. It leads directly to misjudged anticipation, because anticipation rests on a judgment of what leads to what. If that judgment takes a conspicuous node for a stable mechanism, the expectations and actions that follow drift off course.
+Taking facts in temporal sequence straight as causes is attribution error, and it leads directly to misjudged anticipation. Every forward-looking judgment rests on a working model of what generates what; if that judgment mistakes a conspicuous downstream node for a stable generating mechanism, the expectations and actions that follow steer by a landmark rather than the driver and drift off course.
 
-这种错误无法被消除干净。反事实不可直接观察，因始终先于果，现实中多个因素纠缠。能做的最多是不断缩小错误的范围，却无法到达干净的分离。归因错误因此不是偶尔的疏忽，而是观察只能抓住已完成的路径、却要据此判断因果时的常态。
+这种错误无法被清理到零。反事实不可被直接观察，发起行动的因始终先于果，而在现实中又有多条独立的因果轴线纠缠在每一个结果里。实践可以不断收窄过剩错误的范围，却永远无法抵达一劳永逸的无摩擦分离。归因错误因此不是偶尔的疏忽大意，而是观察在只持有已完成路径的前提下、仍必须据此判断因果并引导下一步行动时的基底风险。
 
-This error cannot be cleared away entirely. Counterfactuals cannot be observed directly, the cause is always ahead of the effect, and in practice many factors are entangled. At most the range of error can keep being narrowed, but a clean separation is never reached. Attribution error is therefore not an occasional lapse; it is the ordinary state when observation, holding only paths already completed, still has to judge causes from them.
+This error cannot be cleared away to zero. Counterfactuals cannot be observed directly, the initiating cause stays ahead of the effect, and in practice multiple independent axes are entangled in every outcome. Practice can keep narrowing the range of excess error, yet a final, frictionless separation is never reached. Attribution error is therefore not an occasional lapse of care; it is the baseline hazard when observation, holding only paths already completed, still has to judge causes and steer the next step from them.
 
 ## 四、 成功是持续迭代的决策，而非孤立节点 / 4. Success Is Continually Iterated Decision, Not an Isolated Node
 
-归根结底，所有成功都是决策的成功。而且这个决策不是一次性的正确选择，而是持续、迭代、在不确定性中不断修正的过程。过程中会出现显眼的关键节点，它们容易被单独归因，而真正贯穿始终的决策质量，也就是判断力、纠错速度、在新信息下调整方向的能力，反而被忽略。
+追溯到活的边缘，所有成功都是决策的成功——而且不是靠一次押注就一举锁定未来的孤立选择，而是在不确定性中持续、迭代、不断自我修正的过程。在这一过程中，显眼的关键节点会在公众视野里结晶出来，极易被单独拿去记功，而真正贯穿全程的决策质量——即边缘处的判断力、纠错的速度、以及在新信息下随时调整方向的能力——反而被忽略了。
 
-In the end, every success is a success of decision. And that decision is not a one-time correct choice but a process that continues, iterates, and keeps correcting itself under uncertainty. Along the way conspicuous key nodes appear, and they are easily credited on their own, while the quality of decision that runs through the whole, meaning judgment, the speed of correcting errors, and the ability to change direction on new information, is what gets overlooked.
+Traced to the living edge, every success is a success of decision—not a one-time correct bet that settled the future at a stroke, but a process that continues, iterates, and keeps correcting itself under uncertainty. Along the way conspicuous key nodes crystallize in public view and easily draw credit on their own, while the quality of decision that runs through the whole—judgment at the edge, the speed of correcting errors, and the readiness to change direction on new information—gets overlooked.
 
-这会造成双重陷阱。对当事人自己：即使是当时做出决策的人，事后也容易被节点吸引，开始相信“因为做了X，所以成功了”。一旦形成这种错误归因，后续决策质量就会下降，他们会过度复制那个节点，而不是继续保持开放迭代的判断方式。很多曾经成功者后来失速，正是踩进这个坑。[成功学](../cheng-gong-xue/)是同一种滞后被做成可迁移原则的那一面：事后把已成的结果整理成引擎。
+紧盯节点会布下双重陷阱。对做决策的当事人而言，哪怕是当时亲自掌舵的人，事后也极易被显眼的里程碑吸引，开始相信“之所以成功，是因为当时做了X”。一旦这种事后归因固化下来，后续的决策质量便会滑坡；他们会过度复制那个可见的节点，而不是继续维持开放迭代的判断方式，许多昔日的成功者后来失速，正是踩进了这个坑。[成功学](../cheng-gong-xue/)追溯的正是同一种滞后被包装成可迁移原则的那一面：在事后把已成的结果排列成看似通用的引擎。
 
-This sets a double trap. For the people involved: even those who made the decisions at the time are easily drawn to the node afterward and come to believe "it worked because X was done." Once that wrong attribution forms, the quality of later decisions falls; they over-copy the node instead of keeping an open, iterating way of judging. Many who once succeeded and later stalled fell into exactly this pit. [Theories After Success](../cheng-gong-xue/) is the face where the same lag is made into transferable principle: finished results arranged afterward into an engine.
+Fixating on the node sets a double trap. For the decision-makers involved, even those who steered the choices at the time are easily drawn to the landmark afterward and come to believe that the outcome worked simply because X was done. Once that retrospective attribution hardens, the quality of subsequent decisions falls; they over-copy the visible node instead of sustaining an open, iterating way of judging, which is the exact pit into which many who once succeeded later stall. [Theories After Success](../cheng-gong-xue/) traces the face where this same lag is packaged into transferable principle, arranging finished results afterward as if they were the engine.
 
-对旁观者：他们看不到过程中的大量试错与微调，只看到最终留下的节点，因此更容易把成功简化成“抓住了某个机会”。
+对旁观者而言，这种压缩更为陡峭。由于看不到过程中成千上万次被舍弃的试错与微调，只看到最后竖立在原地的纪念碑，他们便不费吹灰之力地将整条迭代轨迹简化成了“抓住了某一次机会”。
 
-For onlookers: they cannot see the many trials, errors and small adjustments along the way, only the node left at the end, and so they find it even easier to reduce the success to "seizing some opportunity."
+For onlookers, the compression is steeper still. Because they never witness the thousands of discarded trials, errors, and small adjustments along the way, seeing only the monument left standing at the end, they find it effortless to reduce an entire iterative trajectory to "seizing a single opportunity."
 
 ## 五、 外部归因的缺陷 / 5. The Flaw of External Attribution
 
-外部归因之所以能一直站得住，正是因为反事实无法验证。双方各自抓住不同的节点，都能讲出一套自圆其说的故事，却无法真正对照。争论变成鸡同鸭讲，不是证据不够，而是证据的性质不允许最终裁决。所有这类归因，只是错误程度不同。
+外部归因之所以能在公共争论中一直站得住脚，恰恰因为反事实无法在现实中重演。对立双方各自抓住一个契合自身出发点的节点，都能讲出一套自圆其说的故事，却永远无法拿另一条历史线来做直接检验。争论之所以变成鸡同鸭讲，不是因为证据不够，而是因为仅凭已完成的痕迹无从做出终局法庭裁决；所有这类单节点归因，区别只在于扭曲的程度不同。
 
-External attribution can keep standing precisely because counterfactuals cannot be verified. Each side seizes a different node and can tell a self-consistent story, yet the stories can never be truly set against each other. The argument turns into two parties talking past each other, not for lack of evidence but because the nature of the evidence allows no final verdict. All such attributions differ only in how wrong they are.
+External attribution can keep standing in public debate precisely because counterfactuals cannot be replayed in reality. Opposing sides each seize a different node that suits their starting stand and tell a self-consistent story, yet the stories can never be directly tested against an alternative history. The argument turns into two parties talking past each other, not for lack of evidence, but because completed traces alone allow no final tribunal verdict; all such single-node attributions differ only in how much they distort.
 
-外部归因还有更深的结构性后果：它打断了剩余控制权的闭合回路。后果其实仍然落在做出区分的中心，但“作者”被移到了别处（工厂、环境、系统、运气……）。反馈信号因此变薄，下一次区分无法从完整反馈中更新。下一轮迭代只是旧模式的重复。[自我价值感与所有权](../ownership-and-self-worthiness/)是同一回路的功能面：后果作为自己的信号重新进入，模型才更新。[幂律是正态分布的长期后果](../power-law-is-the-long-term-consequence-of-normal-distribution/)是同一回路在分布上的面：残差当作损失函数，速率才复利；归到外部节点，知识问题留下。[外部归因是个人进步的障碍](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/)是同一种外置让自我迭代卡住的那一处：抓手只在内部；条件升格为命运，迭代便无从发生。
+在修辞僵局之下，还潜藏着更深层的结构性后果：外部归因切断了剩余控制权的闭合回路。行动的后果依然落在做出区分的那个中心身上，但“作者”的身份却被移到了别处——移给了工厂、环境、系统或运气。把作者身份外置会让返回的反馈信号变薄，使下一次区分无法从完整的反馈中获得更新，下一轮迭代也便沦为旧模式的机械重复。[自我价值感与所有权](../ownership-and-self-worthiness/)追溯了这一回路的功能面：唯有当后果作为自己的信号重新进入时，内部模型才会更新。[幂律是正态分布的长期后果](../power-law-is-the-long-term-consequence-of-normal-distribution/)追溯了同一回路在分布上的面相：唯有把残差当作自己的损失函数，学习速率才会复利增长；一旦把功过归给外部节点，知识问题便原封不动地留存下来。[外部归因是个人进步的障碍](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/)则标出了这种外置让自我迭代卡死的位置：因果抓手只在内部，一旦把外部条件升格为命运，迭代便无从发生。
 
-External attribution has a deeper structural consequence: it breaks the closed loop of residual control rights. The consequences still land on the center that made the distinction, but the "author" is moved elsewhere (the factory, the environment, the system, luck). The feedback signal thins, and the next distinction cannot update from complete feedback. The next round of iteration only repeats the old pattern. [Ownership and Self-Worthiness](../ownership-and-self-worthiness/) is the functional face of the same loop: only when consequences re-enter as one's own signal does the model update. [Power Law Is the Long-Term Consequence of Normal Distribution](../power-law-is-the-long-term-consequence-of-normal-distribution/) is the same loop's face in distribution: only when the residual is taken as the loss function does the rate compound; credited to an outside node, the knowledge problem stays. [External Attribution Is the Obstacle to Personal Growth](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/) is the place where the same externalizing stalls self-iteration: the grip is only inside; once conditions are promoted to fate, iteration cannot happen.
+Beneath the rhetorical stalemate lies a deeper structural consequence: external attribution breaks the closed loop of residual control rights. The consequences of an act still land on the center that made the distinction, yet the "author" is relocated elsewhere—to the factory, the environment, the system, or luck. Relocating authorship thins the returning feedback signal, so the next distinction cannot update from complete feedback and the next round of iteration merely repeats the old pattern. [Ownership and Self-Worthiness](../ownership-and-self-worthiness/) traces the functional face of this loop: only when consequences re-enter as one's own signal does the internal model update. [Power Law Is the Long-Term Consequence of Normal Distribution](../power-law-is-the-long-term-consequence-of-normal-distribution/) traces the same loop's face across distributions: only when the residual is taken as one's own loss function does the learning rate compound, whereas crediting or blaming an outside node leaves the knowledge problem intact. [External Attribution Is the Obstacle to Personal Growth](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/) locates where this externalizing stalls self-iteration: the causal grip lies only inside, and once external conditions are promoted to fate, iteration cannot occur.
 
-这对个人成立，对系统同样成立。系统不过是许多中心反复做同类外部化分配后沉淀的致密模式。当这些中心继续把原因定位在“系统”上时，真正的自我更新就不会发生。外部归因本身也是一次自由的选择，[目的性的评判与认知的缺省状态](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/)把这一点放在认知的缺省状态里来看。
+这对个人成立，对系统同样成立。所谓系统，不过是众多中心反复做出同类外部化分配后沉淀下来的致密痕迹模式。只要这些中心继续把原因定位在“系统”上，真正的自我更新就不会启动。外部归因本身就是一次旨在保护既有参照免于重绘的主动选择，而[目的性的评判与认知的缺省状态](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/)则把这一选择放在认知的缺省状态中作了定位。
 
-This holds for a person, and it holds for a system just as well. A system is no more than the dense pattern settled out of many centers repeatedly making the same kind of external allocation. While those centers keep locating the cause in "the system," actual self-renewal does not happen. External attribution is itself a free choice; [Judging by Purpose and the Default State of Cognition](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) looks at this within cognition's default state.
+What holds for a person holds for a system just as well. A system is no more than the dense trace-pattern settled out of many centers repeatedly making the same kind of external allocation. So long as those centers keep locating the cause in "the system," actual self-renewal does not begin. External attribution is itself an active choice to shield a held reference from re-rendering, and [Judging by Purpose and the Default State of Cognition](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) places that choice within cognition's default state.
 
 ## 六、 回到内部归因，以及旁观者的实践路径 / 6. Returning to Internal Attribution, and the Onlooker's Path of Practice
 
-真正能被收回、能被更新的，只有每个心智内部对自身决策的归因。把后果重新登记为自己做出的区分所留下的痕迹，信号才重新完整，下一次区分才有可能从完整反馈中进行。自我迭代只发生在所在被收回的瞬间。[人生是一个持续的自我迭代过程](../ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/)是同一种收回做成的训练循环：误差必须回到可更新的权重，包括目标函数本身。
+真正能被收回、能被更新的，只有每个心智内部对自身决策的归因。当到来的后果重新被登记为自己做出的区分所留下的痕迹时，返回的信号才恢复完整，下一次区分才有可能从完整的反馈中出发。自我迭代在所在被收回的那一瞬间即刻点燃。[人生是一个持续的自我迭代过程](../ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/)把这种收回追溯为一个持续的训练循环：预测误差必须回到可更新的权重上，包括目标函数本身。
 
-What can actually be taken back and updated is only each Mind's own attribution of its decisions. When consequences are registered again as traces left by distinctions one made oneself, the signal is whole again, and the next distinction can proceed from complete feedback. Self-iteration happens only in the instant the locus is taken back. [Life as a Continuous Process of Self-Iteration](../ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/) is the same taking-back made into a training loop: the error has to return to weights that can be updated, including the objective function itself.
+What can actually be taken back and updated is only each Mind's internal attribution of its own decisions. When arriving consequences are registered again as traces left by distinctions one drew oneself, the returning signal is whole again, and the next distinction can proceed from complete feedback. Self-iteration ignites in the exact instant the locus is taken back. [Life as a Continuous Process of Self-Iteration](../ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/) traces this taking-back as a continuous training loop: the prediction error has to return to weights that can be updated, including the objective function itself.
 
-对旁观者，也就是在外面判断他人成败的人来说，实践路径更具体：首先要对自己判断的结果负全责，从而把原因定位在自己的预判能力上，既不是把反面证据解释掉来维持原有判断的自洽，也不是靠证否反面意见来证明自己。只有先在自己身上做到这一步，看他人时才能在现象中寻找真正的关键决策循环和关键决策点，而不是停留在现象表面的显眼节点。唯有如此，预判能力才可能持续迭代和提高。
+对从外部评判他人成败的旁观者来说，实践路径同样具体：首先要对自己判断的结果负全责，把任何误判的原因定位在自己的预判能力上——既不靠把反面证据解释掉来维持原有判断的自洽，也不靠证否反面意见来证明自己正确。只有先在自己身上走通这一步，观察他人时才能在现象中搜寻真正的决策回路与纠错节点，而不是停留在表面的显眼节点上。唯有如此，预判能力才可能持续迭代并形成复利。
 
-For the onlooker, the one judging others' success from outside, the path of practice is more concrete: first take full responsibility for the outcomes of one's own judgments, and so locate the cause in one's own ability to anticipate; neither explaining away counterevidence to keep one's earlier judgment coherent, nor proving oneself by refuting opposing views. Only with this step taken in one's own case can one, looking at others, search within phenomena for the actual key loops and key points of decision rather than stopping at the conspicuous nodes on the surface. Only so can the ability to anticipate keep iterating and improving.
+For the onlooker judging others' success or failure from outside, the path of practice is equally concrete: first take full responsibility for the outcomes of one's own judgments, locating the cause of any misjudgment in one's own ability to anticipate—neither explaining away counterevidence to keep an earlier judgment coherent, nor trying to prove oneself by refuting opposing views. Only with this step taken in one's own case can an observer, looking at others, search within phenomena for the actual decision loops and error-correction points rather than stopping at the conspicuous nodes on the surface. Only so can the ability to anticipate keep iterating and compounding.
 
-但这件事无法强加。外部讨论可以指出节点归因的牵强，可以提醒相互成就比单向因果错得少，可以说明错误归因如何腐蚀后续决策。真正的收回，只发生在那个中心把这个所在重新认作自己的那一瞬间。它只能自悟，也只能持续发生。[没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/)是同一道边界：没有任何内心能替另一个内心完成返回。
+但这一回归无法从外部强加。外部讨论可以指出单节点归因的牵强，可以提醒相互成就比单向因果扭曲更少，也可以阐明错误归因如何腐蚀后续决策。然而真正的收回，只发生在那个中心重新将这一所在认作自身所在的那一瞬间——它只能从内部自悟，也只能作为持续发生的行动不断重演。[没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/)标出了同一道边界：没有任何内心能替另一个内心完成这趟递归的返回。
 
-But this cannot be imposed. Outside discussion can point out how strained node-attribution is, can note that mutual enablement is less wrong than one-way causation, and can show how wrong attribution corrodes later decisions. The actual taking-back happens only in the instant that center takes its locus as its own again. It can only be realized from within, and only as something that keeps happening. [No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../mei-you-pu-du-zhi-you-zi-du/) is the same boundary: no inner life can complete the return on behalf of another.
+Yet this return cannot be imposed from outside. External discussion can point out how strained single-node attribution is, note that mutual enablement distorts the record less than one-way causation, and show how wrong attribution corrodes later decisions. The actual taking-back happens only in the instant that center recognizes its locus as its own again—a realization that can only occur from within, and only as something that keeps happening. [No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../mei-you-pu-du-zhi-you-zi-du/) marks the same boundary: no inner life can complete the recursive return on behalf of another.
