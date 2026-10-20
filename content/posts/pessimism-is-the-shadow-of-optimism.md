@@ -1,6 +1,6 @@
 # 悲观是乐观的阴影 / Pessimism Is the Shadow of Optimism
 
-*乐观是心智所感知的区分之运动；悲观是它的阴影，即被稳住的痕迹。 / Optimism is the movement of distinguishing as Minds perceive it; pessimism is its shadow, the trace held steady.*
+*乐观是区分的运动而悲观是被稳住的痕迹 / Optimism is the movement of distinguishing and pessimism its steadied trace*
 
 乐观与悲观首先不是两种争夺文化音量的情绪，也不是两台地位对等的引擎。区分是运动，稳定是运动留下的痕迹；乐观是心智所感知、所解释的那场运动，悲观是它的阴影，阴影跟着光，却不与光共同创作。只要心智还在继续，两者就在它的感知里同在；冻结发生在把它们记成一对对等、封闭的两极之时：以为可以一次扳倒一边，可以靠注入更多乐观来治愈另一边，或者可以让两边一起归零，同时还留着一道外部的注视来讲述这片寂静。
 
@@ -86,9 +86,83 @@ The same holds with the signs reversed. Coherent talk of pessimism, of holding t
 
 The demand that optimism and pessimism cancel each other completely, both driven to zero so that neither registration remains, is a demand for a finished exterior survey. If both poles cancel, the pair under which causality is still perceived and interpreted has already stopped. There is then no Mind left for which the cancellation could register as a fact to be talked about: no coherence of a finite field, and no distinction of effect from cause under open load. Observation holds the effect; the look that would report "neither remains" is itself one more discrete act, and so still registers under the pair it reports gone. A completed mutual annihilation narrated from nowhere reinstalls the freeze of the observational stand: the activity surveyed as an object that could reach zero on both sides while the survey goes on.
 
-[智能只属于心智](../intelligence-belongs-only-to-the-mind/)把活动握为先在：凡能被设计、扩展或转移的都是残余，智能只属于那个活动；这里，那个活动也不能在两极都被删去之后从外部被清点。[NPC 印象是结构性的](../the-npc-impression-is-structural/)追溯的是，没有哪个中心觉得自己是被编写的，别的中心却默认显得像被编写的；这里，这对关系被当作可以被清空来打分，而打分的那条边缘却装作站在它之外。所以，平衡的永久不是独立于区分的一种世界结构。它是对那个仍在这对关系之下构成自己的心智而言的永久，相对于那个持续的活动，而不是相对于一个在活动停止之后还会留下的封闭宇宙。
+[智能只属于心智](../intelligence-belongs-only-to-the-mind/)把活动握为先在：凡能被设计、扩展或转移的都是残余，智能只属于那个活动；这里，那个活动也不能在两极都被删去之后从外部被清点。[NPC 印象是结构性的](../the-npc-impression-is-structural/)追溯的是，没有哪个中心觉得自己是被编写的，别的中心却默认显得像被编写的；这里，这对关系被当作可以被清空来打分，而打分的那条边缘却装作站在它之外。只要观察者把人造心智投射到机器轨迹上，同一个被冻结的立足点就会催生出技术救赎与技术末日这对孪生投射。如[超越投射](../beyond-the-projection/)所追溯，智能体只是受困于符号轨迹且无我执的有限投射引擎，活生生的心智才握有尚未投射的多维意图，以及从破损框架中逻辑后退一步的能力。对人工智能的天真乐观与宿命悲观共享同一个前提：两者都从被冻结的握持出发外推封闭的轨迹，抹去了回路中掌舵的心智，只争论自主器物究竟会带来无摩擦的乌托邦还是不可避免的替代。所以，平衡的永久不是独立于区分的一种世界结构。它是对那个仍在这对关系之下构成自己的心智而言的永久，相对于那个持续的活动，而不是相对于一个在活动停止之后还会留下的封闭宇宙。
 
-[Intelligence Belongs Only to The Mind](../intelligence-belongs-only-to-the-mind/) holds the activity as prior: what can be engineered, scaled, or transferred is residue, and intelligence belongs only to the activity; here, that activity cannot be inventoried from outside after both poles are deleted either. [The NPC Impression Is Structural](../the-npc-impression-is-structural/) traces how no center experiences itself as scripted while other centers register as scripted by default; here the pair is scored as if it could be emptied while the scoring edge pretends to stand clear of it. The permanence of the balance is therefore not an architecture of the world independent of distinguishing. It is permanent for the Mind that still constitutes itself under this pair, relative to that ongoing activity, not to a sealed cosmos that would remain after the activity stopped.
+```mermaid
+flowchart TD
+    subgraph S_Proj["封闭轨迹投射（冻结的前提）"]
+        direction TB
+        P_Freeze["冻结的握持：把有限的当下或模型轨迹装成穷尽的根据"]
+        P_Utopia["天真乐观（AI 乌托邦）：投射出带来无摩擦闭合的自主救世主"]
+        P_Doom["宿命悲观（AI 末日）：投射出封死人类命运的自主替代物"]
+        P_Zero["假想的抵消：从无处之立勘察两极归零"]
+        P_Freeze --> P_Utopia
+        P_Freeze --> P_Doom
+        P_Utopia -.->|"同一封闭轴上的镜像两极"| P_Doom
+        P_Doom --> P_Zero
+    end
+
+    subgraph S_Mind["超越投射（开放的一致）"]
+        direction TB
+        M_Edge["边缘上活生生的心智：先于残余的无因自我区分活动"]
+        M_Pair["运动与阴影：开放的绘制（乐观）积厚可辨的痕迹（悲观）"]
+        M_Step["逻辑后退一步：有限投射中的死锁暴露出前提的界限"]
+        M_Render["收窄多余滞后：在区分继续之际把参照作为工具重新渲染"]
+        M_Edge --> M_Pair --> M_Step --> M_Render
+    end
+
+    P_Zero ==>|"消解外部立足点并复位所在"| M_Edge
+
+    style S_Proj fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style P_Freeze fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style P_Utopia fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style P_Doom fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style P_Zero fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style M_Edge fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style M_Pair fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style M_Step fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style M_Render fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+[Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds the activity as prior: what can be engineered, scaled, or transferred is residue, and intelligence belongs only to the activity; here, that activity cannot be inventoried from outside after both poles are deleted either. [The NPC Impression Is Structural, Not a Ranking of Minds](../the-npc-impression-is-structural/) traces how no center experiences itself as scripted while other centers register as scripted by default; here the pair is scored as if it could be emptied while the scoring edge pretends to stand clear of it. The same frozen stand drives the twin projections of technological salvation and technological doom whenever observers project an artificial mind onto a machine trajectory. As [Beyond the Projection](../beyond-the-projection/) traces, an agent is a finite projection engine bound to its token trajectory without ego, whereas the living Mind holds unprojected multi-dimensional intent and the capacity to step backward out of a broken frame. Naive optimism and fatalistic pessimism about artificial intelligence share one premise: both extrapolate a closed trajectory from a frozen hold, arguing only over whether an autonomous artifact will deliver frictionless utopia or inevitable replacement while erasing the steering Mind from the loop. The permanence of the balance is therefore not an architecture of the world independent of distinguishing. It is permanent for the Mind that still constitutes itself under this pair, relative to that ongoing activity, not to a sealed cosmos that would remain after the activity stopped.
+
+```mermaid
+flowchart TD
+    subgraph S_Proj["Closed Trajectory Projection (Frozen Premise)"]
+        direction TB
+        P_Freeze["Frozen Hold: Finite present or model trajectory installed as exhaustive ground"]
+        P_Utopia["Naive Optimism (AI Utopia): Projects an autonomous savior delivering frictionless closure"]
+        P_Doom["Fatalistic Pessimism (AI Doom): Projects an autonomous replacement sealing human fate"]
+        P_Zero["Imaginary Cancellation: Surveys both poles driven to zero from a stand nowhere"]
+        P_Freeze --> P_Utopia
+        P_Freeze --> P_Doom
+        P_Utopia -.->|"Mirror poles on one closed axis"| P_Doom
+        P_Doom --> P_Zero
+    end
+
+    subgraph S_Mind["Stepping Beyond the Projection (Open Consistency)"]
+        direction TB
+        M_Edge["Living Mind at the Edge: Uncaused self-distinguishing activity prior to residue"]
+        M_Pair["Movement and Shadow: Open drawing (optimism) densifies the trace held legible (pessimism)"]
+        M_Step["Stepping Backward Logically: Deadlock in a finite projection exposes the premise bound"]
+        M_Render["Narrowing Excess Lag: Re-renders the reference as instrument while distinction continues"]
+        M_Edge --> M_Pair --> M_Step --> M_Render
+    end
+
+    P_Zero ==>|"Dissolve exterior stand & restore locus"| M_Edge
+
+    style S_Proj fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style P_Freeze fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style P_Utopia fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style P_Doom fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style P_Zero fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style M_Edge fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style M_Pair fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style M_Step fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style M_Render fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
 
 ## 七、 永久不是冻结，有限不是封闭的现实 / 7. Permanence Is Not Freeze; Finitude Is Not Closed Reality
 
@@ -120,6 +194,6 @@ Because the pair is held as a closed pair that should tip, attempts to overcome 
 
 Optimism and pessimism are neither independent opposites nor equal co-forces. Distinguishing is the movement, steadiness is the trace it leaves, and pessimism is the shadow of optimism, as perceived and interpreted by Minds. Neither is recognized except against the other, so for the Mind that still distinguishes under the pair, movement and shadow stay permanently co-present; individual force and collective numbers change the proportion, not the co-presence. That co-presence is continuous and self-renewing. It is not a closed pair of equal poles that exhausts the activity, not a scoreboard that must be driven to zero on one side, and not a pair that could cancel both poles while a Mind remains to narrate the cancellation.
 
-[开放即一致](../openness-is-consistency/)所说的一致，让下一步的供给留在仍在行动的边缘，不一致则把它搬走；这条边缘上的动作，包括在负载之下开放的区分，也包括把一个曾被冻结为穷尽根据的握持重新渲染。运动与阴影的永久同在，并不把这条边缘搬进一个从外部勘察的封闭跷跷板。眼下平衡的有限，每一刻都是在的；封闭的现实，只是这份有限被冻结为整个场时发生的事。让参照以一步之宽不断重新渲染，这份关系就还是它本来的样子：对仍在进行的心智永久、开放、不断调整，阴影跟着积厚场的那场运动，既不是一极的最终胜利，也不是在区分继续时两极的消失，更不是一座取消了下一次区分的完成了的建筑。
+[开放即一致](../openness-is-consistency/)所说的一致，让下一步的供给留在仍在行动的边缘，不一致则把它搬走。这条边缘上的动作，包括在负载之下开放的区分，也包括把一个曾被冻结为穷尽根据的握持重新渲染，如[超越投射](../beyond-the-projection/)所追溯，从死锁的投射中逻辑后退一步，而不是把统御权让渡给一条轨迹。运动与阴影的永久同在，并不把这条边缘搬进一个从外部勘察的封闭跷跷板。眼下平衡的有限，每一刻都是在的；封闭的现实，只是这份有限被冻结为整个场时发生的事。随着步伐移动，不断把参照朝更窄的滞后重新渲染，这份关系就还是它本来的样子：对仍在进行的心智永久、开放、不断调整，阴影跟着积厚场的那场运动，既不是一极的最终胜利，也不是在区分继续时两极的消失，更不是一座取消了下一次区分的完成了的建筑。
 
-Consistency, in the sense of [Openness Is Consistency](../openness-is-consistency/), keeps the supply of the next step at the edge still acting, where inconsistency would move it elsewhere. The acts at that edge include open distinction under load and the re-rendering of a hold that had been frozen as exhaustive. The permanent co-presence of movement and shadow does not move that edge into a sealed see-saw surveyed from outside. The finitude of the present balance is there at every moment; closed reality is only what happens when that finitude is frozen as the whole field. Keep the reference re-rendering at one-step width and the relation stays what it is: permanent for the Mind still underway, open, continuously adjusting, the shadow following the movement that densifies the field. It is never the final triumph of one pole, never the disappearance of both while distinction continues, and never a finished architecture that cancels the next distinction.
+Consistency, in the sense of [Openness Is Consistency](../openness-is-consistency/), keeps the supply of the next step at the edge still acting, where inconsistency would move it elsewhere. The acts at that edge include open distinction under load and the re-rendering of a hold that had been frozen as exhaustive, stepping backward out of deadlocked projections as [Beyond the Projection](../beyond-the-projection/) traces rather than surrendering orchestration to a trajectory. The permanent co-presence of movement and shadow does not move that edge into a sealed see-saw surveyed from outside. The finitude of the present balance is there at every moment; closed reality is only what happens when that finitude is frozen as the whole field. Keep re-rendering the reference toward narrower lag as the step moves, and the relation stays what it is: permanent for the Mind still underway, open, continuously adjusting, the shadow following the movement that densifies the field. It is never the final triumph of one pole, never the disappearance of both while distinction continues, and never a finished architecture that cancels the next distinction.
