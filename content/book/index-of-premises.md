@@ -2015,7 +2015,7 @@ AGI 叙事把比肩人类智能设为一条固定的终点线，在为能力的�
 
 AGI narratives set parity with human intelligence as a fixed finish line, which is of use in marking stages of capability's progress; it reaches its boundary in that each benchmark crossed moves the reference forward, so the threshold is a receding horizon rather than a state that can be arrived at.
 
-→ [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../../posts/agi-and-asi-are-temporary-goalposts/) · [AI 争论中的观察划界 / The Observational Cut in AI Debates](../../posts/the-observational-cut-in-ai-debates/) · [维度即投影 / Dimensions Are Projections](../../posts/dimensions-are-projections/)
+→ [AGI 与 ASI 是加速通用智能的暂时球门 / AGI and ASI Are Temporary Goalposts](../../posts/agi-and-asi-are-temporary-goalposts/) · [AI 争论中的观察划界 / The Observational Cut in AI Debates](../../posts/the-observational-cut-in-ai-debates/) · [维度即投影 / Dimensions Are Projections](../../posts/dimensions-are-projections/)
 
 ### 通用人工智能奇点神话 / Artificial General Intelligence Singularity
 `技术 / Technological`

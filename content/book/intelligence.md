@@ -30,7 +30,7 @@ The essays in this part dissect Geoffrey Hinton's cognitive leaps, the limits of
 - [The Catalog That Isn't There](../../posts/hassabis-frontier-agi-premise/)
 - [看似AI的强化学习，实为人类的自我强化学习 / What Looks Like RL for AIs Is Self-RL for Humans](../../posts/self-rl-for-humans/)
 - [Intelligence Belongs Only to The Mind](../../posts/intelligence-belongs-only-to-the-mind/)
-- [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../../posts/agi-and-asi-are-temporary-goalposts/)
+- [AGI 与 ASI 是加速通用智能的暂时球门 / AGI and ASI Are Temporary Goalposts](../../posts/agi-and-asi-are-temporary-goalposts/)
 - [基准刷榜中的封闭实存 / Closed Reality in Benchmark Maxing](../../posts/closed-reality-in-benchmark-maxing/)
 - [The Non-Definitive Definition of Intelligence](../../posts/the-non-definitive-definition-of-intelligence/)
 - [总在倾听者无法发起 / What Always Listens Cannot Originate](../../posts/what-always-listens-cannot-originate/)
