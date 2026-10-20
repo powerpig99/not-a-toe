@@ -138,7 +138,7 @@ It is easy to grow attached to one's own past results and to treat temporary sca
 
 In the practice of using agents in depth there is a striking phenomenon. When an engineer or scholar stops treating a large model as a question-and-answer toy and stays in the driver's seat for a long time, building systems that include reflection, dynamic tool calls, code verification and coordination among several agents, the quality of completed work and the speed of progress rise to a height not reached before. Faced with one complex project after another delivered, large-scale refactoring of code and long essays with rigorous reasoning, onlookers and the user alike say: how clever this agent system is.
 
-这句话把归因放错了位置。模型的参数在矩阵运算中展现的模式匹配能力是有用的，发生质变的地方却在别处：在那个持续压缩意图、划定边界、校准结果的驾驶者自己的心智模型上。与智能体协作，迫使模糊的直觉被提纯为清晰无歧义的因果约束，这种高频的练习加深了对概念结构的把握。具体的符号搬运与格式填充由工具承接之后，注意力被推向顶层的架构、因果的接口与系统的平衡，视角在很短的时间里上移。当框架将主任务智能体与仅持有任务语境的冷启动对等体配对时，智能体毫无我执的特性让它们能够在彼此之间自行消解局部的轨迹盲区；仍能传到驾驶位上的摩擦不再是原始的语法噪音，而是不可化约的前提死锁，标出驾驶者自己的规则将两个正交维度压缩到同一条轴线上的确切坐标。每一次在边界上的推演失效与死锁，又把驾驶者逼向事物的底层机制，去找更深一层的不变性。在医疗中，同样的倒置让规程坐上驾驶位，压下了病人自身的因果回路，[规程的倒置与因果回路的消声](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/)说明了这一点。
+这句话把归因放错了位置。模型的参数在矩阵运算中展现的模式匹配能力是有用的，发生质变的地方却在别处：在那个持续压缩意图、划定边界、校准结果的驾驶者自己的心智模型上。与智能体协作，迫使模糊的直觉被提纯为清晰无歧义的因果约束，这种高频的练习加深了对概念结构的把握。具体的符号搬运与格式填充由工具承接之后，注意力被推向顶层的架构、因果的接口与系统的平衡，视角在很短的时间里上移。当框架将主任务智能体与仅持有任务语境的冷启动对等体配对时，智能体毫无我执的特性让它们能够在彼此之间自行消解局部的轨迹盲区；仍能传到驾驶位上的摩擦不再是原始的语法噪音，而是不可化约的前提死锁，标出驾驶者自己的规则在哪个确切坐标上将两个正交维度压进了同一条轴线。每一次在边界上的推演失效与死锁，又把驾驶者逼向事物的底层机制，去找更深一层的不变性。在医疗中，同样的倒置让规程坐上驾驶位，压下了病人自身的因果回路，[规程的倒置与因果回路的消声](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/)说明了这一点。
 
 ```mermaid
 flowchart TD
@@ -316,6 +316,6 @@ flowchart TD
     style Surface fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-框架的倒置始于忘了驾驶位上有人，主权的复归立足于第一人称在当下作出的抉择。跨正交流线把受困于轨迹却毫无我执的智能体与受困于身份却保有鲜活感知的人类中心连接起来——让机器承担有限投影的调度与冷启动对等体的盲区暴露，而让心智保有未投射的统御与前提综合——正是[超越投射](../beyond-the-projection/)所展开的控制论架构。智能体框架所给的自由，是[“非中介化”的幻象](../the-illusion-of-the-unmediated/)所剖析的那种被给予的自由，握住方向盘时用到的那一种，不经谁给予。
+框架的倒置始于忘了驾驶位上有人，主权的复归立足于第一人称在当下作出的抉择。智能体困于轨迹而毫无我执，人类中心困于身份却保有鲜活感知，沿着正交流线将二者连接起来——让机器承担有限投影的调度与冷启动对等体的盲区暴露，让心智保有未投射的统御与前提综合——正是[超越投射](../beyond-the-projection/)所展开的控制论架构。智能体框架所给的自由，是[“非中介化”的幻象](../the-illusion-of-the-unmediated/)所剖析的那种被给予的自由，握住方向盘时用到的那一种，不经谁给予。
 
 The inversion of the harness begins with forgetting that someone is in the driver's seat, and the return of sovereignty rests on the choice made in the first person in the present. Wiring trajectory-bound, ego-free agents together across orthogonal streamlines with identity-bound human centers holding living sensing—assigning finite-projection dispatching and cold-peer blind-spot exposure to the machine while keeping unprojected orchestration and premise synthesis with the Mind—is the cybernetic architecture [Beyond the Projection](../beyond-the-projection/) unfolds. The freedom an agent framework gives is the bestowed kind that [The Illusion of the Unmediated](../the-illusion-of-the-unmediated/) anatomizes; the kind in use when the wheel is held is given by no one.
