@@ -22,7 +22,7 @@ The essays collected in this part document the emergence and development of this
 - [遗忘的脚手架 / The Scaffolding We Forget](../../posts/the-scaffolding-we-forget/)
 - [The Scaffolding We Forget: Local Models as Default](../../posts/the-scaffolding-we-forget-local-models-as-default/)
 - [Looping and Graphing: Mind as the Loop of Loops](../../posts/looping-and-graphing/)
-- [Artifacts Are Expressions of Intelligence, Not Intelligence Itself](../../posts/two-failures-of-trace/)
+- [器物是智能的表达，而非智能本身 / Artifacts Are Expressions of Intelligence, Not Intelligence Itself](../../posts/two-failures-of-trace/)
 - [呈现Ontos，一个方法智能体 / Presenting Ontos, a Method Agent](../../posts/ontos-is-a-method-agent/)
 - [只要它不被保持为空 / Only If It Is Not Kept Empty](../../posts/only-if-it-is-not-kept-empty/)
 - [持续生长的脚手架 / The Scaffolding That Keeps Growing](../../posts/the-scaffolding-that-keeps-growing/)

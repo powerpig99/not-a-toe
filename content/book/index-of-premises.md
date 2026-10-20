@@ -2717,7 +2717,7 @@ Reading failure as a verdict on the self is of use in keeping the weight of an o
 
 Structural analysis conflates active living discernment with recorded traces; freezing the act into dead sediment obscures the dynamic center that generated it.
 
-→ [Artifacts Are Expressions of Intelligence, Not Intelligence Itself](../../posts/two-failures-of-trace/)
+→ [器物是智能的表达，而非智能本身 / Artifacts Are Expressions of Intelligence, Not Intelligence Itself](../../posts/two-failures-of-trace/)
 
 ### 财务自由 / Financial Freedom
 `成功学 / Self-Help`
