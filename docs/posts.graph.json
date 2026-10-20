@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T15:52:27.501Z",
+    "generated_at": "2026-10-20T15:59:59.959Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -140,7 +140,7 @@
       "content/posts/objects-are-stabilized-relationships.md": "54def9af6a16",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "c3d23fd8953b",
       "content/posts/on-education.md": "acf5a581efd1",
-      "content/posts/one-cannot-escape-ones-own-mind.md": "455b3e394cb6",
+      "content/posts/one-cannot-escape-ones-own-mind.md": "1f282507aaf4",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "63a25d4f0593",
       "content/posts/only-if-it-is-not-kept-empty.md": "89ba621e0d4d",
       "content/posts/ontos-is-a-method-agent.md": "61ecab78faf8",
@@ -302,7 +302,7 @@
       "content/posts/the-misallocation-of-agency.md": "0da1123e67af",
       "content/posts/the-model-never-becomes-a-second-edge.md": "7710e4d64684",
       "content/posts/the-moral-reversal-and-the-scripted-subject.md": "a614ebfdfda8",
-      "content/posts/the-myth-of-population-collapse-explained.md": "891609ded049",
+      "content/posts/the-myth-of-population-collapse-explained.md": "afe20651bc61",
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "971cce019879",
       "content/posts/the-name-revolution-files-a-life-as-evidence.md": "cb2cf97eb23c",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "99b5bd10ba18",
@@ -324,7 +324,7 @@
       "content/posts/the-ramble-within-the-ramble.md": "454a1407f39f",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "e536a3a8e1db",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "d46ea8578432",
-      "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "b3d9f124e004",
+      "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "685a03d380f1",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "56dda0f3f7ab",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "da0c0cd6c3f8",
       "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "9c76b27b0f26",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9268,
-      "unique_directed": 4718,
+      "edges": 9275,
+      "unique_directed": 4721,
       "missing_targets": 0,
-      "one_way": 240,
+      "one_way": 243,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -441,7 +441,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 87
+      "in_degree": 90
     },
     {
       "slug": "openness-is-consistency",
@@ -1069,7 +1069,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 87,
+      "in_degree": 90,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -3860,9 +3860,9 @@
       "slug": "one-cannot-escape-ones-own-mind",
       "path": "content/posts/one-cannot-escape-ones-own-mind.md",
       "title": "无法逃逸的心智视界 / One Cannot Escape One's Own Mind",
-      "hash": "455b3e394cb6",
+      "hash": "1f282507aaf4",
       "in_degree": 15,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "subtracting-consciousness-at-the-source",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -3871,6 +3871,7 @@
         "the-explanatory-trap-of-the-ordinary-perspective",
         "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "beyond-the-projection",
         "choice-itself-has-no-inherent-weight",
         "what-hinton-failed-to-understand",
         "the-causal-inversion-of-partnership",
@@ -7673,9 +7674,9 @@
       "slug": "the-myth-of-population-collapse-explained",
       "path": "content/posts/the-myth-of-population-collapse-explained.md",
       "title": "人口崩溃神话的拆解 / The Myth of Population Collapse Explained",
-      "hash": "891609ded049",
+      "hash": "afe20651bc61",
       "in_degree": 15,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "public-spending-does-not-create-capital",
         "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
@@ -7691,7 +7692,8 @@
         "when-abundance-looks-like-scarcity",
         "hierarchy-from-individual-difference",
         "having-more-is-never-the-cause",
-        "openness-is-consistency"
+        "openness-is-consistency",
+        "beyond-the-projection"
       ]
     },
     {
@@ -8186,9 +8188,9 @@
       "slug": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "path": "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md",
       "title": "真正稀缺的不是记忆，而是持续的重新追溯 / The Real Scarcity Is Not Memory, But Continuous Re-Tracing",
-      "hash": "b3d9f124e004",
+      "hash": "685a03d380f1",
       "in_degree": 16,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "looping-and-graphing",
         "the-scaffolding-we-forget",
@@ -8200,6 +8202,7 @@
         "token-efficiency-emulation-and-the-unclosable-gap",
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "only-if-it-is-not-kept-empty",
+        "beyond-the-projection",
         "causality-all-the-way",
         "what-information-is",
         "the-flywheel-of-the-mind",
@@ -29509,6 +29512,12 @@
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
+      "to": "subtracting-consciousness-at-the-source",
+      "rel": "points_to",
+      "label": "Collective and Artificial Subjectivity"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
       "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "rel": "points_to",
       "label": "因果的自反性与物理的无源假定"
@@ -29523,25 +29532,25 @@
       "from": "one-cannot-escape-ones-own-mind",
       "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "rel": "points_to",
-      "label": "“物理即规律”的戏法、形式模型与现实的摩擦"
-    },
-    {
-      "from": "one-cannot-escape-ones-own-mind",
-      "to": "the-shadow-and-the-infinite",
-      "rel": "points_to",
-      "label": "阴影与无限：低维投影、确定性假象与人类冲突的根源"
+      "label": "“物理学才是定律”的障眼法"
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
       "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "rel": "points_to",
-      "label": "The Sleight of Hand in \"Physics Is the Law\": Formal Models, Statutory Command, and the Friction of Reality"
+      "label": "The Sleight of Hand in \"Physics Is the Law\""
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
       "to": "the-shadow-and-the-infinite",
       "rel": "points_to",
-      "label": "The Shadow and the Infinite: Low-Dimensional Projections, the Deterministic Illusion, and the Genesis of Conflict"
+      "label": "阴影与无限"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "the-shadow-and-the-infinite",
+      "rel": "points_to",
+      "label": "The Shadow and the Infinite"
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
@@ -29563,9 +29572,21 @@
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
+      "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+      "rel": "points_to",
+      "label": "All That Can Be Spoken Is the Product of the Unspeakable"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
       "label": "任务的移交与后果的不可让渡"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
@@ -29578,6 +29599,30 @@
       "to": "what-hinton-failed-to-understand",
       "rel": "points_to",
       "label": "辛顿未曾理解的心智"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "choice-itself-has-no-inherent-weight",
+      "rel": "points_to",
+      "label": "Choice Itself Has No Inherent Weight"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "what-hinton-failed-to-understand",
+      "rel": "points_to",
+      "label": "What Hinton Failed to Understand"
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
@@ -29602,42 +29647,6 @@
       "to": "trusting-the-reader-is-the-last-overstep",
       "rel": "points_to",
       "label": "信任读者是最后的越界"
-    },
-    {
-      "from": "one-cannot-escape-ones-own-mind",
-      "to": "agency-does-not-arise",
-      "rel": "points_to",
-      "label": "能动性从不涌现：涌现的范畴错误、潜空间侵入与第一人称先验"
-    },
-    {
-      "from": "one-cannot-escape-ones-own-mind",
-      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
-      "rel": "points_to",
-      "label": "时间之箭的伪悖论与对称模拟的边界"
-    },
-    {
-      "from": "one-cannot-escape-ones-own-mind",
-      "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
-      "rel": "points_to",
-      "label": "All That Can Be Spoken Is the Product of the Unspeakable"
-    },
-    {
-      "from": "one-cannot-escape-ones-own-mind",
-      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "rel": "points_to",
-      "label": "The Delegation of the Task and the Inalienability of Consequences"
-    },
-    {
-      "from": "one-cannot-escape-ones-own-mind",
-      "to": "choice-itself-has-no-inherent-weight",
-      "rel": "points_to",
-      "label": "Choice Itself Has No Inherent Weight"
-    },
-    {
-      "from": "one-cannot-escape-ones-own-mind",
-      "to": "what-hinton-failed-to-understand",
-      "rel": "points_to",
-      "label": "What Hinton Failed to Understand"
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
@@ -29667,7 +29676,19 @@
       "from": "one-cannot-escape-ones-own-mind",
       "to": "agency-does-not-arise",
       "rel": "points_to",
-      "label": "Agency Does Not Arise: The Category Error of Emergence, Ingressed Latent Spaces, and the First-Person Prior"
+      "label": "主体性不曾涌现"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "rel": "points_to",
+      "label": "时间之箭的伪悖论与对称模拟的边界"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "agency-does-not-arise",
+      "rel": "points_to",
+      "label": "Agency Does Not Arise"
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
@@ -51583,9 +51604,21 @@
     },
     {
       "from": "the-myth-of-population-collapse-explained",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
@@ -54406,6 +54439,18 @@
       "to": "only-if-it-is-not-kept-empty",
       "rel": "points_to",
       "label": "Only If It Is Not Kept Empty"
+    },
+    {
+      "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",

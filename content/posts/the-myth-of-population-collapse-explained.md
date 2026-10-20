@@ -1,6 +1,6 @@
 # 人口崩溃神话的拆解 / The Myth of Population Collapse Explained
 
-*生育率下降，登记的是盈余之下取代了能动展示的转移强化。 / Falling fertility registers transfers reinforced in place of demonstrated agency under surplus.*
+*生育率下降，登记的是压过能动展示的转移强化。 / Falling fertility registers transfers reinforced over demonstrated agency.*
 
 富裕的社会一再登记到人口的下降；神话在于把它读成技术或资源造成的偶然，读成一个永久的终局，而它是延续被安放的位置发生了移动的结果。一个从事生产的少数，产出了足以抵补别处短缺而有余的盈余；要求系统性财富转移的政治与文化压力随之而来，它是结果，而不是首要的原因。转移一旦确立，就强化了产生它的那份信念，这就是大众的强化学习；在代际的时间里，这个模式作为选择起作用，直到剩余的高能动，或后果的硬性回返，重建盈余与面向未来得以可能的条件。
 
@@ -32,7 +32,7 @@ The underlying registration is zero-sum. Treating the output of the productive m
 
 ## 三、 能动是被展示的，不是可转移的资产 / 3. Agency Is Demonstrated; It Is Not a Transferable Asset
 
-转移给长远的东西标上了短期的价格，从而让问题叠加。自立不是一份可以转移的存量。能动不能像财富或信息那样被传递；它必须由一代人展示出来，再由下一代通过观察、练习和后果去主动地学。所以，给孩子一个更好的未来，不是递交资源，甚至不是递交现成的能力，而是在真实的约束之下，把称职的行动展示给他们看。[自我价值感与所有权](../ownership-and-self-worthiness/)是它在一个所在上的一面：只有当后果作为自己的回来时，模型才会复利。支持一旦弥漫开来，让后果像国家的天气一样落下、无人认领，就在文明的带宽上削薄了这个回路。
+转移给长远的东西标上了短期的价格，从而让问题叠加。自立不是一份可以转移的存量。能动不能像财富或信息那样被传递；它必须由一代人展示出来，再由下一代通过观察、练习和后果去主动地学。所以，给孩子一个更好的未来，不是递交资源，甚至不是递交现成的能力，而是在真实的约束之下，把称职的行动展示给他们看。[自我价值感与所有权](../ownership-and-self-worthiness/)是它在一个所在上的一面：只有当后果作为自己的回来时，心智才会复利。支持一旦弥漫开来，让后果像国家的天气一样落下、无人认领，就在文明的带宽上削薄了这个回路。
 
 Transfers compound the problem by placing a short-term price on long-term goods. Self-reliance is not a transferable stock. Agency cannot be transmitted like wealth or information; it must be demonstrated by one generation and actively learned by the next through observation, practice, and consequence. A better future for children is therefore not the delivery of resources, or even of ready-made capacities, but the demonstration of competent action under actual constraints, where the next generation can see it. [Ownership and Self-Worthiness](../ownership-and-self-worthiness/) is the face at one locus: the Mind compounds only when consequences re-enter as its own. Support diffused until consequences land like the weather of the state, unowned, thins that loop at civilizational bandwidth.
 
@@ -66,6 +66,66 @@ The minority is not a fixed roster. Different individuals qualify at different t
 
 The decline is not permanent. Selection continues until the residual population is increasingly composed of those who preserved high agency or who are forced to confront the consequences of its absence. Either way, through the unbroken demonstration of self-reliance or through the hard lessons that restore it, the demographic trend reverses. High-agency groups expand relative to the rest, rebuilding a sufficient core of confidence in self-reliance. The cycle that began when surplus invited redistribution, and that operated as the reinforcement learning of the masses, ends for a time with the restoration of the conditions that made surplus possible.
 
-逆转的，不是一种从外部设计出来的集体心情，也不是一次对高生育率的永久抵达。逆转的，是被保留之参照的宽度：延续回到那条仍得在真实约束之下抉择的边缘，展示重新成为下一代借以学习的媒介，而把生产的产出当作固定池子的形象被放开，创造才能再次被登记为扩张，而不是一份有待瓜分的固定存量。[开放即一致](../openness-is-consistency/)把结构作为结构来握，不让它冻结；把转移的框当作人口下降的穷尽解法，就是生育情形下的那种冻结。放开，并不意味着一夜之间删掉制度。它让参照回到下一个分立动作仍在被画出的地方，包括把孩子带进一个这条边缘仍指望凭自己的工作去改善的世界的那个动作。
+逆转的，不是一种从外部设计出来的集体心情，也不是一次对高生育率的永久抵达。逆转的，是被保留之参照的宽度：延续回到那条仍得在真实约束之下抉择的边缘，展示重新成为下一代借以学习的媒介，而把生产的产出当作固定池子的形象被放开，创造才能再次被登记为扩张，而不是一份有待瓜分的固定存量。把当下的人口曲线外推为永久的崩溃，是把由奖励外置能动的得失结构所投出的一道有限投射，误当成了穷尽现实的基底。[开放即一致](../openness-is-consistency/)把结构作为结构来握，不让它冻结；把转移的框当作人口下降的穷尽解法，就是生育情形下的那种冻结。[超越投射](../beyond-the-projection/)追溯了为什么在封闭轨迹之内被推到极限的有限投射，无法从内部解开自身前提的矛盾：用更大的转移去回应出生率的下降，仍锁在转移轨迹的引力井里；而活的边缘走出破损的框，在认领后果的地方重新呈现前提。放开，并不意味着一夜之间删掉制度。它让参照回到下一个分立动作仍在被画出的地方，包括把孩子带进一个这条边缘仍指望凭自己的工作去改善的世界的那个动作。
 
-What reverses is not a collective mood engineered from outside, and not a permanent arrival at high fertility. What reverses is the width of the retained reference: continuation returned to the edge that still has to choose under actual constraints, demonstration restored as the medium through which the next generation learns, and the image of productive output as a fixed pool released, so that creation can register again as expansion rather than as a fixed stock to be divided. [Openness Is Consistency](../openness-is-consistency/) holds structure as structure, without freeze; the transfer frame held as the exhaustive solution to demographic decline is that freeze in the case of fertility. Release does not delete institutions overnight. It returns the reference to where the next discrete act is still drawn, including the act of bringing children into a world this edge still expects to improve by its own work.
+```mermaid
+flowchart TD
+    subgraph S_Proj["封闭的人口投射（错把有限轨迹当基底）"]
+        direction TB
+        P_Surplus["盈余与转移框架：生产的残余被重新分配，取代了能动的展示"]
+        P_RL["大众的强化学习：得失结构奖励依赖，削薄局部的发起"]
+        P_Extrap["外推的崩溃神话：迟到的生育指标被投射为永久终局，并喂入更多转移"]
+        P_Surplus --> P_RL --> P_Extrap
+    end
+
+    subgraph S_Open["超越投射的开放现实（未投射的边缘与代际选择）"]
+        direction TB
+        O_Filter["代际选择的筛子：差异化生育让仍在展示能动的中心复利"]
+        O_StepOut["走出破损的框架：剩余能动与硬性后果打破转移的引力井"]
+        O_Restore["延续所在的复位：参照回到在真实约束下建造与抉择的活的边缘"]
+        O_Filter --> O_StepOut --> O_Restore
+    end
+
+    P_Extrap ==>|"转移回路触及生物与财政边界"| O_Filter
+
+    style S_Proj fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style P_Surplus fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style P_RL fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style P_Extrap fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style O_Filter fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style O_StepOut fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style O_Restore fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+What reverses is not a collective mood engineered from outside, and not a permanent arrival at high fertility. What reverses is the width of the retained reference: continuation returned to the edge that still has to choose under actual constraints, demonstration restored as the medium through which the next generation learns, and the image of productive output as a fixed pool released, so that creation can register again as expansion rather than as a fixed stock to be divided. Extrapolating a current demographic curve into permanent collapse mistakes a finite projection, cast by a payoff structure that rewards externalized agency, for an exhaustive ground of reality. [Openness Is Consistency](../openness-is-consistency/) holds structure as structure, without freeze; the transfer frame held as the exhaustive solution to demographic decline is that freeze in the case of fertility. [Beyond the Projection](../beyond-the-projection/) traces why a finite projection pushed to its limit inside a closed trajectory cannot resolve the contradiction of its own premise from within: answering falling birth rates with still larger transfers stays locked inside the gravity well of the transfer trajectory, whereas the living edge steps outside the broken frame and re-renders the premise where consequences are claimed. Release does not delete institutions overnight. It returns the reference to where the next discrete act is still drawn, including the act of bringing children into a world this edge still expects to improve by its own work.
+
+```mermaid
+flowchart TD
+    subgraph S_Proj["Closed Demographic Projection (Finite Trajectory Mistaken for Ground)"]
+        direction TB
+        P_Surplus["Surplus & Transfer Frame: Productive residue reallocated in place of demonstrated agency"]
+        P_RL["Reinforcement Learning of the Masses: Payoffs reward dependency and thin local initiation"]
+        P_Extrap["Extrapolated Collapse Myth: Delayed fertility metric projected as permanent terminus and fed more transfers"]
+        P_Surplus --> P_RL --> P_Extrap
+    end
+
+    subgraph S_Open["Open Reality Beyond the Projection (Unprojected Edge & Generational Selection)"]
+        direction TB
+        O_Filter["Generational Selection Filter: Differential reproduction compounds centers that still demonstrate agency"]
+        O_StepOut["Stepping Outside the Broken Frame: Residual agency and hard consequences break the transfer gravity well"]
+        O_Restore["Restored Locus of Continuation: Reference returns to the living edge that builds and chooses under real constraints"]
+        O_Filter --> O_StepOut --> O_Restore
+    end
+
+    P_Extrap ==>|"Transfer loop hits biological & fiscal boundary"| O_Filter
+
+    style S_Proj fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style P_Surplus fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style P_RL fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style P_Extrap fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style O_Filter fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style O_StepOut fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style O_Restore fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
