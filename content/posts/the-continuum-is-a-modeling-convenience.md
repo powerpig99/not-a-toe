@@ -1,10 +1,10 @@
 # 连续性作为建模的权宜之计 / The Continuum is a Modeling Convenience
 
-*从 dx、不完备性到折叠的节律 / dx, Incompleteness, and the Tempos of the Fold*
+*令 dx 归零让形式模型得以闭合，而因果在当下的折叠里展开 / Setting dx to zero closes formal models while causality unfolds in the fold*
 
 微积分里的 dx 从不为零，足够小时被当作零来处理，这是让数学得以闭合的建模便利。所经验的连续，来自因果在逻辑上的连贯，最小的步长小到可以忽略。把 dx 等同于零并把这一步推到现实本身，是数学的越界：处处连续而处处不可导的函数、自指的悖论与不完备性，都在标出这条边界，而它们常被归为“病态的例外”，现实则被要求去合乎模型。拆掉这层闭合之后留下的，是作为敞开进程的因果，与当下一瞬里反思、想象与理性这三重节律的折叠。
 
-The dx of the calculus is never zero and is treated as zero when small enough, a modeling convenience that lets the mathematics close. The continuity experienced comes from the logical coherence of causality, with the smallest step small enough to be ignored. Equating dx with zero and carrying that step over to reality itself is where mathematics oversteps: functions continuous everywhere and differentiable nowhere, the paradoxes of self-reference and incompleteness all mark this boundary, yet they are commonly filed as "pathological exceptions" while reality is required to fit the model. What remains once this closure is taken down is causality as an open process, and the fold, within the present instant, of the three tempos of reflection, imagination and reasoning.
+The dx of the calculus is never zero and is treated as zero when small enough, a modeling convenience that lets the mathematics close. The continuity experienced comes from the logical coherence of causality, with the smallest step small enough to be ignored. Equating dx with zero and carrying that step over to reality itself is where mathematics oversteps: functions continuous everywhere and differentiable nowhere, the paradoxes of self-reference, and incompleteness all mark this boundary, yet they are commonly filed as "pathological exceptions" while reality is required to fit the model. What remains once this closure is taken down is causality as an open process, and the fold, within the present instant, of the three tempos of reflection, imagination, and reasoning.
 
 ## 一、 dx 从不为零 / 1. dx Is Never Zero
 
@@ -14,7 +14,7 @@ The formalism of the calculus holds a plain observation: the element dx is never
 
 符号怎样推演，底下的事实不变：dx 若等于零，分母便不成立，运动、变化与变化率失去定义的基准，运动之所以可能，在于有一个非零的时间与空间的跨度。为了让代数闭合，求得切线的斜率与确定的积分，那个仍有微小间距的因果步长被声明为“在极限处等于零”。这是让数学形式得以闭合而采取的建模便利，不是对现实的一项发现。
 
-However the symbols are worked, the fact underneath does not change: were dx equal to zero, the denominator would not hold, and motion, change and rate of change would lose the basis of their definition; motion is possible because there is a non-zero span of time and space. To let the algebra close and yield the slope of a tangent and a definite integral, the causal step that still has a small interval is declared "equal to zero at the limit." This is a modeling convenience adopted so that the mathematical form can close, not a finding about reality.
+However the symbols are worked, the fact underneath does not change: were dx equal to zero, the denominator would not hold, and motion, change, and rate of change would lose the basis of their definition; motion is possible because there is a non-zero span of time and space. To let the algebra close and yield the slope of a tangent and a definite integral, the causal step that still has a small interval is declared "equal to zero at the limit." This is a modeling convenience adopted so that the mathematical form can close, not a finding about reality.
 
 连续性由此有两层。所经验的连续，来自因果在逻辑上的连贯，那个离散而不可逆的步长（+1）小到可以忽略。把它等同于零，并把平滑无缝的连续统当作现实预先存在的底座，则是把便利推过了它的范围。
 
@@ -24,7 +24,7 @@ Continuity thus has two layers. The continuity experienced comes from the logica
 
 几个世纪里，数学家怀着一个没有审视过的信念：一条曲线只要连续，把局部放得足够大，令 dx 足够小，它就会展平为一条光滑的切线。高斯、安培与拉格朗日都把“连续函数处处可导”看作理所当然的几何直觉。
 
-For centuries mathematicians held a belief that had not been examined: if a curve is continuous, then with the local view enlarged enough and dx made small enough, it will flatten into a smooth tangent. Gauss, Ampère and Lagrange all took "a continuous function is differentiable everywhere" for a self-evident geometric intuition.
+For centuries mathematicians held a belief that had not been examined: if a curve is continuous, then with the local view enlarged enough and dx made small enough, it will flatten into a smooth tangent. Gauss, Ampère, and Lagrange all took "a continuous function is differentiable everywhere" for a self-evident geometric intuition.
 
 1872 年，卡尔·魏尔施特拉斯构造出一个处处连续、处处不可导的函数。不论把观察的窗口缩到多小，它都不趋近于一条平直的线，每一次放大露出的是更多层嵌套的锯齿与褶皱，割线的斜率一直在震荡，导数在任何一点上都不存在。后来的泛函分析经由贝尔纲定理说明，在全部连续函数构成的空间里，处处不可导的函数是典型的情形，教科书里那些平滑可微的曲线是为了代数上的可处理而挑出来的少数。
 
@@ -56,85 +56,15 @@ The same move does not stop at mathematics and logic. In general relativity a "s
 
 “意识可以被机器建模”的设想走的是相近的一步。心智在清醒的经验里造出了离散的形式逻辑、数学定理与图灵机的符号，这些模型对研究认知是有用的。边界出现在次序被倒过来的时候：既然心智能推导出机械的逻辑，心智便被断定为一台图灵机。[因果的自反性与物理的无源假定](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/)说明，计算是在已经固化的符号痕迹上作确定的或概率的转移，是抉择留下的痕迹的再排列，它也受哥德尔的不完备性所限。当第一人称的经验、意识的统一与抉择在布尔逻辑里找不到时，一种回应是宣布主观意识是大脑给自己造的幻觉。这里被责怪的是现实：为了保住模型的全能，进行一切科学观察的前提，那个直接在场的第一人称经验，被说成了不存在。
 
-The idea that "consciousness can be modeled by a machine" takes a similar step. A Mind, in waking experience, made discrete formal logic, mathematical theorems and the symbols of the Turing machine, and these models are useful for studying cognition. The boundary appears when the order is reversed: since a Mind can derive mechanical logic, the Mind is concluded to be a Turing machine. [Causality is Irreducible; The Physical is a View from Nowhere](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/) shows that computation makes determinate or probabilistic transitions over symbolic traces already fixed, a rearranging of traces left by choices, and it too is bound by Gödel's incompleteness. When first-person experience, the unity of consciousness and choice are not found in Boolean logic, one response is to declare subjective consciousness an illusion the brain makes for itself. What gets blamed here is reality: to keep the model all-capable, the precondition of every scientific observation, the first-person experience that is directly present, is said not to exist.
+The idea that "consciousness can be modeled by a machine" takes a similar step. A Mind, in waking experience, made discrete formal logic, mathematical theorems, and the symbols of the Turing machine, and these models are useful for studying cognition. The boundary appears when the order is reversed: since a Mind can derive mechanical logic, the Mind is concluded to be a Turing machine. [Causality is Irreducible; The Physical is a View from Nowhere](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/) shows that computation makes determinate or probabilistic transitions over symbolic traces already fixed, a rearranging of traces left by choices, and it too is bound by Gödel's incompleteness. When first-person experience, the unity of consciousness, and choice are not found in Boolean logic, one response is to declare subjective consciousness an illusion the brain makes for itself. What gets blamed here is reality: to keep the model all-capable, the precondition of every scientific observation, the first-person experience that is directly present, is said not to exist.
 
 大众文化里的“技术奇点”把外推又推了一步。算力、参数规模与模型性能的指数曲线画在坐标纸上，平滑的外推线伸向无穷，图上那条陡直的渐近线被称为奇点，机器在那里无休止地自我迭代。在纸上画出无限陡的斜率不耗能量，在现实里，算力的跃升遇到量子隧穿的极限、芯片的散热、电网的承载与数据的耗尽，那个不为零的因果间隙（dx ≠ 0）一直都在。堆叠更多的运算层与词元便会在越过某个点时“忽然生出自我意识”的想法，则是把痕迹的搬运当成了抉择的发生。
 
-The "technological singularity" of popular culture pushes extrapolation a step further. Exponential curves of compute, parameter count and model performance are drawn on graph paper, the smooth line of extrapolation runs toward infinity, and the sheer asymptote on the chart is called the singularity, where machines iterate on themselves without end. Drawing an infinitely steep slope on paper costs no energy; in reality the rise of compute meets the limit of quantum tunneling, the heat of chips, the capacity of the grid and the exhaustion of data, and the causal interval that is not zero (dx ≠ 0) is there throughout. The notion that stacking more layers of computation and more tokens will, on crossing some point, "suddenly give rise to self-awareness" takes the moving of traces for the occurrence of choice.
+The "technological singularity" of popular culture pushes extrapolation a step further. Exponential curves of compute, parameter count, and model performance are drawn on graph paper, the smooth line of extrapolation runs toward infinity, and the sheer asymptote on the chart is called the singularity, where machines iterate on themselves without end. Drawing an infinitely steep slope on paper costs no energy; in reality the rise of compute meets the limit of quantum tunneling, the heat of chips, the capacity of the grid, and the exhaustion of data, and the causal interval that is not zero (dx ≠ 0) is there throughout. The notion that stacking more layers of computation and more tokens will, on crossing some point, "suddenly give rise to self-awareness" takes the moving of traces for the occurrence of choice.
 
 这些情形共有一个结构。科学与技术是心智为理解现实、在摩擦里导航而造的探索工具与临时支架。把它当作工具时，支架的断处，不论是魏尔施特拉斯的函数、哥德尔的命题、物理的奇点还是机器建模意识的界限，准确地标出了旧工具的边界，指向一个正交的新维度。把它当作最终的真理时，溢出框架的现实便被要求让路：第一人称的经验被称为神经的幻觉，面对困境的抉择因不合效用的公式被称为认知偏差，痛苦、勇气与意义被说成多巴胺的波动，活着的人面对机器说自己不过是注定被淘汰的生物网络，遇到迷茫时不再听自己在世界里得到的反馈，而去比对量表与推荐。现实与模型相冲突时，被责怪的是现实。
 
-```mermaid
-flowchart TD
-    subgraph S_Scaffold["支架的断处被读成事物"]
-        direction TB
-        Act["第一人称的介入：不为零的因果步长 +1"]
-        Tool["心智造出临时的支架：连续统、公理、符号"]
-        Forget["忘了支架是事后凝成的痕迹"]
-        Math["数学：不可导的函数与不完备性被归为例外"]
-        Physics["物理：除零之处被读成实体"]
-        MindModel["心智的模型：装不进的经验被称为幻觉"]
-        Curve["外推的曲线：渐近线被称为奇点"]
-        Blame["模型与现实相冲突时，被责怪的是现实"]
-        Act --> Tool
-        Tool --> Forget
-        Forget --> Math
-        Forget --> Physics
-        Forget --> MindModel
-        Forget --> Curve
-        Math --> Blame
-        Physics --> Blame
-        MindModel --> Blame
-        Curve --> Blame
-    end
-
-    style S_Scaffold fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Tool fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Forget fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Math fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Physics fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style MindModel fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Curve fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Blame fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-```
-
-These cases share one structure. Science and technology are tools of exploration and temporary scaffolding that a Mind makes in order to understand reality and navigate within friction. Taken as a tool, the place where the scaffolding breaks, be it Weierstrass's function, Gödel's proposition, the singularity of physics or the limit of modeling consciousness by machine, marks the boundary of the old tool exactly and points to a new, orthogonal dimension. Taken as final truth, the reality that overflows the frame is asked to give way: first-person experience is called a neural illusion, a choice made in difficulty is called a cognitive bias for not fitting the formula of utility, pain, courage and meaning are described as fluctuations of dopamine, the living say before the machine that they are only biological networks bound to be superseded, and in confusion one no longer listens to the feedback one's own life returns in the world and turns to scales and recommendations for comparison. When reality and model conflict, what gets blamed is reality.
-
-```mermaid
-flowchart TD
-    subgraph S_Scaffold["Where the Scaffolding Breaks, Read as the Thing"]
-        direction TB
-        Act["First-person involvement: a causal step that is not zero +1"]
-        Tool["A Mind makes temporary scaffolding: continuum, axioms, symbols"]
-        Forget["Forgetting that scaffolding is a trace congealed afterward"]
-        Math["Mathematics: nowhere-differentiable functions and incompleteness filed as exceptions"]
-        Physics["Physics: the division by zero read as an entity"]
-        MindModel["Models of mind: experience that does not fit is called illusion"]
-        Curve["Extrapolated curves: the asymptote is called the singularity"]
-        Blame["When model and reality conflict, what gets blamed is reality"]
-        Act --> Tool
-        Tool --> Forget
-        Forget --> Math
-        Forget --> Physics
-        Forget --> MindModel
-        Forget --> Curve
-        Math --> Blame
-        Physics --> Blame
-        MindModel --> Blame
-        Curve --> Blame
-    end
-
-    style S_Scaffold fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Tool fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Forget fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Math fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Physics fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style MindModel fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Curve fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Blame fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-```
+These cases share one structure. Science and technology are tools of exploration and temporary scaffolding that a Mind makes in order to understand reality and navigate within friction. Taken as a tool, the place where the scaffolding breaks, be it Weierstrass's function, Gödel's proposition, the singularity of physics, or the limit of modeling consciousness by machine, marks the boundary of the old tool exactly and points to a new, orthogonal dimension. Taken as final truth, the reality that overflows the frame is asked to give way: first-person experience is called a neural illusion, a choice made in difficulty is called a cognitive bias for not fitting the formula of utility, pain, courage, and meaning are described as fluctuations of dopamine, the living say before the machine that they are only biological networks bound to be superseded, and in confusion one no longer listens to the feedback one's own life returns in the world and turns to scales and recommendations for comparison. When reality and model conflict, what gets blamed is reality.
 
 ## 五、 敞开的因果与当下的一瞬 / 5. Open Causality and the Present Instant
 
@@ -144,57 +74,17 @@ When the posits of closure are taken down layer by layer, what remains is not an
 
 从第一人称出发，找不到一个跳出时间的位置，能把过去、现在与未来的整条因果链像画卷一样卷起封存，离开观察者视界的“客观物理闭环”是一种无源之见。所谓连续，由此是当下的一瞬为了让刚刚完成的一步与尚未闭合的下一步彼此协调而作的努力，它就是因果在逻辑上的连贯。这个当下的切片对每一个心智而言都是唯一而不可替代的，[折叠的连续谱](../the-continuum-of-the-fold/)说明，因果与第一人称视角是同一枚硬币的两面，是不可还原的前提。被亲历的现实，是心智在它所栖的唯一时刻里持续对自身作意义建构的活动。
 
-```mermaid
-flowchart TD
-    subgraph S_Present["当下的两重身份"]
-        direction TB
-        Before["刚刚完成的一步：已经发生之事的沉淀"]
-        Now["当下：最新的结果，也是下一步的原因 +1"]
-        After["尚未闭合的下一步：敞开的可能"]
-        Coherent["连续：让前后两步彼此协调的连贯"]
-        Before --> Now
-        Now --> After
-        Now --> Coherent
-    end
-
-    style S_Present fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style Before fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Now fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style After fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
-    style Coherent fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-```
-
-Starting from the first person, no position outside time is found from which the whole causal chain of past, present and future could be rolled up and sealed like a scroll, and an "objective physical closure" detached from the observer's horizon is a view from nowhere. What is called continuity is thus the effort the present instant makes to bring the step just completed and the next step not yet closed into accord with each other; it is the logical coherence of causality. This slice of the present is unique and irreplaceable for each Mind, and [The Continuum of the Fold](../the-continuum-of-the-fold/) shows that causality and the first-person perspective are two faces of one coin, the irreducible prior. Reality as lived is the activity of a Mind continuing to make sense of itself in the only moment it dwells in.
-
-```mermaid
-flowchart TD
-    subgraph S_Present["The Double Identity of the Present"]
-        direction TB
-        Before["The step just completed: the sediment of what has happened"]
-        Now["The present: the latest result and the cause of the next step +1"]
-        After["The next step not yet closed: open possibility"]
-        Coherent["Continuity: the coherence that brings the two steps into accord"]
-        Before --> Now
-        Now --> After
-        Now --> Coherent
-    end
-
-    style S_Present fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style Before fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Now fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style After fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
-    style Coherent fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-```
+Starting from the first person, no position outside time is found from which the whole causal chain of past, present, and future could be rolled up and sealed like a scroll, and an "objective physical closure" detached from the observer's horizon is a view from nowhere. What is called continuity is thus the effort the present instant makes to bring the step just completed and the next step not yet closed into accord with each other; it is the logical coherence of causality. This slice of the present is unique and irreplaceable for each Mind, and [The Continuum of the Fold](../the-continuum-of-the-fold/) shows that causality and the first-person perspective are two faces of one coin, the irreducible prior. Reality as lived is the activity of a Mind continuing to make sense of itself in the only moment it dwells in.
 
 ## 六、 折叠的三重节律 / 6. The Three Tempos of the Fold
 
 在经典的认识论里，理性、想象与反思被分成互不相属的机能，康德把感性、知性与理性列为层级，笛卡尔把理性放在最高处。这种划分对整理认知的类型是有用的，它盖住的是认知流动的样子。面对现实的意义建构在被表述为“理性的推理”之前，先显现为想象，想象展开之前，先显现为反思。三者是同一个折叠在时间里的不同节律。
 
-In classical epistemology reasoning, imagination and reflection are divided into faculties that do not belong to one another; Kant ranked sensibility, understanding and reason in tiers, and Descartes placed reason highest. The division is useful for sorting types of cognition, and what it covers over is how cognition flows. Before the making of sense in the face of reality is stated as "rational inference," it first appears as imagination, and before imagination unfolds, it first appears as reflection. The three are different tempos, in time, of one and the same fold.
+In classical epistemology reasoning, imagination, and reflection are divided into faculties that do not belong to one another; Kant ranked sensibility, understanding, and reason in tiers, and Descartes placed reason highest. The division is useful for sorting types of cognition, and what it covers over is how cognition flows. Before the making of sense in the face of reality is stated as "rational inference," it first appears as imagination, and before imagination unfolds, it first appears as reflection. The three are different tempos, in time, of one and the same fold.
 
 反思是回溯的慢节律。现实在第一人称的当下先向内回卷，检视刚刚发生的区分：脚踩在泥里感到粗粝与下陷，心智觉出阻力、误差与损耗，反思是对刚刚划下的那道因果刻痕的承受与度量。想象是探寻的跃动节律。接住刚发生的既定之事后，折叠的前端转向仍然敞开的可能，心智在未知视界的边缘向前试探，勾出没有算过的路径，[心智的几何学](../the-geometry-of-mind/)把它说成心智在正交维度上的主动延展。理性是晶化的稳态节律。反思量过的沉淀与想象试过的前沿须在当下协调成行动时，折叠把它们结构化为符号、规律与推演的链条，理性是为了让刚完成的一步与将迈出的一步保持因果上的连贯而凝成的形式支架。
 
-Reflection is the slow tempo of looking back. Reality, in the first-person present, first curls inward and examines the distinction that has just occurred: a foot set in mud feels coarseness and sinking, a Mind senses resistance, error and loss, and reflection is the bearing and measuring of the causal mark just cut. Imagination is the leaping tempo of searching. Having taken in what has just become settled, the leading edge of the fold turns toward possibilities still open; a Mind probes forward at the edge of the unknown horizon and sketches paths not yet computed, which [The Geometry of Mind](../the-geometry-of-mind/) describes as a Mind's active extension along an orthogonal dimension. Reasoning is the steady tempo of crystallizing. When the sediment that reflection has measured and the frontier that imagination has tried must be brought into accord as action in the present, the fold structures them into symbols, regularities and chains of inference; reasoning is the formal scaffolding that congeals so that the step just completed and the step about to be taken keep their causal coherence.
+Reflection is the slow tempo of looking back. Reality, in the first-person present, first curls inward and examines the distinction that has just occurred: a foot set in mud feels coarseness and sinking, a Mind senses resistance, error, and loss, and reflection is the bearing and measuring of the causal mark just cut. Imagination is the leaping tempo of searching. Having taken in what has just become settled, the leading edge of the fold turns toward possibilities still open; a Mind probes forward at the edge of the unknown horizon and sketches paths not yet computed, which [The Geometry of Mind](../the-geometry-of-mind/) describes as a Mind's active extension along an orthogonal dimension. Reasoning is the steady tempo of crystallizing. When the sediment that reflection has measured and the frontier that imagination has tried must be brought into accord as action in the present, the fold structures them into symbols, regularities, and chains of inference; reasoning is the formal scaffolding that congeals so that the step just completed and the step about to be taken keep their causal coherence.
 
 ## 七、 前提的遗忘与矛盾的出现 / 7. The Forgetting of Premises and the Appearance of Contradiction
 
@@ -204,58 +94,94 @@ With the tempos of the fold seen clearly, where each "axiom" and "premise" of a 
 
 心智以否定的方式对待这个过程，即忘掉折叠这个动作本身，略过折叠所需的时间跨度与摩擦时，矛盾便出现。这是前提的遗忘：前提被孤立地抽出来，仿佛生来就立在生成它的因果之流以外，因果之间那个非零的微元 dx 被设想为已经闭合，前提被设想为可以自证自足。正是那个被略过的最小间隙（dx ≠ 0），让任何前提都没有自足。[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)与[寄存器的算术](../the-arithmetic-of-the-register/)说明，形式化是事后的产物，它的闭包是从它自己容纳不了、也生成不了的运动那里借来的。
 
-```mermaid
-flowchart TD
-    subgraph S_Fold["一个折叠的三重节律"]
-        direction TB
-        Reflect["反思：回卷于刚刚发生的区分"]
-        Imagine["想象：转向仍然敞开的可能"]
-        Reason["理性：把两者凝成形式的支架"]
-        Given["把某一次切片定住，称为既定前提"]
-        Forgot["忘掉折叠的动作与它所需的间隙"]
-        Contra["前提显得自足，矛盾由此出现"]
-        Reflect --> Imagine
-        Imagine --> Reason
-        Reason --> Given
-        Given --> Forgot
-        Forgot --> Contra
-    end
-
-    style S_Fold fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
-    style Reflect fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Imagine fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
-    style Reason fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Given fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Forgot fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Contra fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-```
-
 When a Mind treats this process negatively, that is, forgets the act of folding itself and passes over the span of time and the friction the fold requires, contradiction appears. This is the forgetting of premises: a premise is drawn out in isolation as though it had stood from birth outside the causal stream that generated it, the non-zero element dx between cause and effect is imagined already closed, and the premise is imagined able to prove and sustain itself. It is that smallest interval passed over (dx ≠ 0) that leaves no premise self-sufficient. [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) and [The Arithmetic of the Register](../the-arithmetic-of-the-register/) show that formalization is a product made afterward, and that its closure is borrowed from a movement it can neither contain nor generate.
 
+[超越投射](../beyond-the-projection/)进一步追溯了同一条边界如何塑造智能体系统的设计。每一段显式的提示词、系统规则或模型权重，都是从先前的折叠里凝结出的有限投射：这种有用的支架把那个活的间距当作已经闭合，将亲历意图中彼此独立的维度压缩到有限的坐标上。自回归智能体是一台困于轨迹、没有我执的投射引擎：当两个被压缩的维度发生碰撞时，若将它独自留在单一的上下文窗口内，它会用表面的合理性把矛盾包裹起来；若将它与一个独立的同侪置于对等的辩论中，它便会在局部盲区上利落地更新，并在既定前提发生冲突的那个坐标处进入死锁。由于任何有限投射都无法跳出自身的公理去跨越那个非零的间距（dx ≠ 0），智能体可以调度并分流正交的作业线，而唯有栖居在未被投射的当下一瞬里的活的心智，即统御者，才能接管被上报的死锁，经由反思与想象向后退一步，综合出更高阶的前提。
+
 ```mermaid
 flowchart TD
-    subgraph S_Fold["Three Tempos of One Fold"]
+    subgraph S_Fold["当下的折叠：敞开的因果与三重节律（微元非零）"]
         direction TB
-        Reflect["Reflection: curling back on the distinction just made"]
-        Imagine["Imagination: turning toward possibilities still open"]
-        Reason["Reasoning: congealing the two into formal scaffolding"]
-        Given["One slice is fixed and called the given"]
-        Forgot["The act of folding and the interval it needs are forgotten"]
-        Contra["The premise seems self-sufficient, and contradiction appears"]
-        Reflect --> Imagine
-        Imagine --> Reason
-        Reason --> Given
-        Given --> Forgot
-        Forgot --> Contra
+        Reflect["反思：回卷于刚刚划下的因果刻痕（前一步的沉淀）"]
+        Imagine["想象：顺着正交维度探寻敞开的可能（下一步的伸展）"]
+        Reason["理性：凝结形式支架以维持前后两步的因果连贯"]
+        Reflect --> Imagine --> Reason
     end
 
-    style S_Fold fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    subgraph S_Proj["建模的便利：凝结的前提与有限的投射"]
+        direction TB
+        Given["定住切片：令微元归零以使代数、公理或提示词得以闭合"]
+        Agent["困于轨迹的执行：形式系统与无我执的智能体穷尽投射"]
+        Given --> Agent
+    end
+
+    subgraph S_Split["在边界处：遗忘折叠与统御回归"]
+        direction TB
+        Forget["遗忘前提：模型撕裂时投射出第二重前沿或责怪现实"]
+        Deadlock["诊断性上报：对等的同侪辩论隔离出前提的矛盾"]
+        Steer["活的统御者：心智在当下接管信号并重新渲染规则"]
+        Deadlock --> Steer
+    end
+
+    Reason ==>|"外化为持久痕迹"| Given
+    Agent ==>|"把微元归零误作现实"| Forget
+    Agent ==>|"把裂口读作边界信号"| Deadlock
+
+    style S_Fold fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Split fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style Reflect fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Imagine fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     style Reason fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Given fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Forgot fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Contra fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Agent fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Forget fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Deadlock fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Steer fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+[Beyond the Projection](../beyond-the-projection/) traces how this same boundary governs the design of agentic systems. Every explicit prompt, system rule, or model weight is a finite projection congealed from a prior fold—useful scaffolding that compresses independent dimensions of lived intent onto finite coordinates by treating the living interval as closed. An autoregressive agent is a trajectory-bound projection engine with zero ego: left alone inside a single context window when two compressed dimensions collide, it wraps the contradiction in surface plausibility; paired with a fresh peer in equal-footed debate, it updates cleanly on local blind spots and deadlocks at the exact coordinate where the given premises conflict. Because no finite projection can step outside its own axioms to bridge the non-zero interval (dx ≠ 0), an agent can dispatch and route orthogonal streamlines, while only the living Mind—the Orchestrator dwelling in the unprojected present instant—can claim the escalated deadlock, step backward through reflection and imagination, and synthesize a higher-order premise.
+
+```mermaid
+flowchart TD
+    subgraph S_Fold["The Present Fold: Open Causality & Three Tempos (dx ≠ 0)"]
+        direction TB
+        Reflect["Reflection: Curling back on the causal mark just cut (t−1 sediment)"]
+        Imagine["Imagination: Probing open possibilities along orthogonal dimensions (t+1)"]
+        Reason["Reasoning: Congealing formal scaffolding to keep steps in causal accord"]
+        Reflect --> Imagine --> Reason
+    end
+
+    subgraph S_Proj["Modeling Convenience: Congealed Premise & Finite Projection"]
+        direction TB
+        Given["Fixing the Slice: Setting dx = 0 so algebra, axioms, or prompts can close"]
+        Agent["Trajectory-Bound Execution: Formal systems & zero-ego agents exhaust the projection"]
+        Given --> Agent
+    end
+
+    subgraph S_Split["At the Boundary: Forgetting the Fold vs. Orchestrating the Return"]
+        direction TB
+        Forget["Forgetting the Premise: Projecting a second edge or blaming reality when models tear"]
+        Deadlock["Diagnostic Escalation: Equal-footed peer debate quarantines the premise contradiction"]
+        Steer["Living Orchestrator: The Mind claims the signal in the present and re-renders the rule"]
+        Deadlock --> Steer
+    end
+
+    Reason ==>|"Externalizes durable trace"| Given
+    Agent ==>|"When dx = 0 is mistaken for reality"| Forget
+    Agent ==>|"When the tear is read as boundary signal"| Deadlock
+
+    style S_Fold fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Split fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style Reflect fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Imagine fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style Reason fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Given fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Agent fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Forget fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Deadlock fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Steer fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
 ## 八、 在不闭合的间距里前行 / 8. Going On Within the Interval That Does Not Close
@@ -266,4 +192,4 @@ Seeing that the dx of the calculus is not zero takes nothing from the fineness o
 
 每一个具体的早晨迈出那一步时（+1），不需要先等一个囊括一切的终极公式，也不需要在纸面的符号闭环里得到担保。正因为那个微观的因果间距没有被任何公理体系封住，第一人称的心智才在一次次的反思、想象与决断里，把这个未完的世界继续推向敞开的未来。
 
-In taking that step on each particular morning (+1), there is no need first to wait for a final formula that includes everything, nor to be vouched for within a closed loop of symbols on paper. Precisely because that microscopic causal interval has not been sealed by any axiomatic system, a first-person Mind, through reflection, imagination and decision time after time, keeps pushing this unfinished world on toward an open future.
+In taking that step on each particular morning (+1), there is no need first to wait for a final formula that includes everything, nor to be vouched for within a closed loop of symbols on paper. Precisely because that microscopic causal interval has not been sealed by any axiomatic system, a first-person Mind, through reflection, imagination, and decision time after time, keeps pushing this unfinished world on toward an open future.
