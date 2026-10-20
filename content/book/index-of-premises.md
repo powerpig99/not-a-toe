@@ -3950,7 +3950,7 @@ Private property keeps the residual claim with the one who decides, which is of 
 
 Economics treats production and consumption as separate spheres; both represent symmetrical phases of a mind allocating energy to transform constraints.
 
-→ [Production, Consumption, and the Mind’s Distinction](../../posts/production-consumption-and-the-minds-distinction/)
+→ [生产、消费与心智的区分 / Production, Consumption, and the Mind's Distinction](../../posts/production-consumption-and-the-minds-distinction/)
 
 ### AI 的内在风险 / Inherent AI Risk
 `技术 / Technological`

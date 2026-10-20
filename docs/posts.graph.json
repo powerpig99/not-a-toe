@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T12:15:34.955Z",
+    "generated_at": "2026-10-20T12:17:56.156Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -161,7 +161,7 @@
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "ba92992e9c52",
       "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "d87ddb2eef07",
       "content/posts/price-as-utterance-understanding-as-trade.md": "9bd86071eefb",
-      "content/posts/production-consumption-and-the-minds-distinction.md": "fe7821b46812",
+      "content/posts/production-consumption-and-the-minds-distinction.md": "cde68bd7be5c",
       "content/posts/public-spending-does-not-create-capital.md": "4ecd2dec23ca",
       "content/posts/qian-yin-hou-guo.md": "5e7319c649c6",
       "content/posts/rationality-never-travels-across-the-mind.md": "082e1416eae1",
@@ -406,8 +406,8 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "6b5c78c47928",
       "content/book/causality.md": "8e1dd347f9fa",
       "content/book/consciousness.md": "84e10ab5f9aa",
-      "content/book/economics.md": "5f09ac3fbf19",
-      "content/book/index-of-premises.md": "84f3b5100f2e",
+      "content/book/economics.md": "0208ea9246ef",
+      "content/book/index-of-premises.md": "167b00a4593b",
       "content/book/intelligence.md": "5fff2281ffd8",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 8679,
-      "unique_directed": 4650,
+      "edges": 8716,
+      "unique_directed": 4651,
       "missing_targets": 0,
-      "one_way": 176,
+      "one_way": 177,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -567,7 +567,7 @@
     },
     {
       "slug": "production-consumption-and-the-minds-distinction",
-      "out_degree": 35
+      "out_degree": 36
     },
     {
       "slug": "mistaking-the-expression-for-the-intelligence",
@@ -1065,7 +1065,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 23,
+      "in_degree": 24,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -4442,10 +4442,10 @@
       "kind": "post",
       "slug": "production-consumption-and-the-minds-distinction",
       "path": "content/posts/production-consumption-and-the-minds-distinction.md",
-      "title": "Production, Consumption, and the Mind’s Distinction",
-      "hash": "fe7821b46812",
+      "title": "生产、消费与心智的区分 / Production, Consumption, and the Mind's Distinction",
+      "hash": "cde68bd7be5c",
       "in_degree": 35,
-      "out_degree": 35,
+      "out_degree": 36,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -4453,6 +4453,7 @@
         "a-new-deeper-look-at-antifragility",
         "closed-reality-in-the-pursuit-of-serendipity",
         "no-system-can-be-kept-closed",
+        "beyond-the-projection",
         "whatever-is-one-prompt-away",
         "humans-tokens-and-the-scope-of-valuation",
         "efficiency-without-differentiation",
@@ -32485,25 +32486,55 @@
       "from": "production-consumption-and-the-minds-distinction",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is consistency"
+      "label": "开放即一致"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence belongs only to the Mind"
+      "label": "智能只属于心智"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
-      "label": "the path drawn one step at a time"
+      "label": "一步一步绘制出的路径"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "The Path Drawn One Step at a Time"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "a-new-deeper-look-at-antifragility",
       "rel": "points_to",
-      "label": "Antifragility as prosthesis, not driver"
+      "label": "重新审视反脆弱"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "closed-reality-in-the-pursuit-of-serendipity",
+      "rel": "points_to",
+      "label": "追求机缘中的封闭现实"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "a-new-deeper-look-at-antifragility",
+      "rel": "points_to",
+      "label": "A New Deeper Look at Antifragility: Prosthesis, Not Driver"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
@@ -32515,25 +32546,67 @@
       "from": "production-consumption-and-the-minds-distinction",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
       "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "whatever-is-one-prompt-away",
       "rel": "points_to",
-      "label": "Whatever is one prompt away"
+      "label": "一个提示词之遥"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "humans-tokens-and-the-scope-of-valuation",
       "rel": "points_to",
-      "label": "Humans, tokens, and the scope of valuation"
+      "label": "人、Token 与估值的范围"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "efficiency-without-differentiation",
       "rel": "points_to",
-      "label": "efficiency without differentiation"
+      "label": "没有区分的效率是没有存在的运动"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "the-generative-mechanics-of-value-money-and-wealth",
+      "rel": "points_to",
+      "label": "价值、货币与财富的生成机制"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "whatever-is-one-prompt-away",
+      "rel": "points_to",
+      "label": "Whatever Is One Prompt Away"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "humans-tokens-and-the-scope-of-valuation",
+      "rel": "points_to",
+      "label": "Humans, Tokens, and the Scope of Valuation"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "efficiency-without-differentiation",
+      "rel": "points_to",
+      "label": "Efficiency Without Differentiation Is Movement Without Existence"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
@@ -32545,67 +32618,139 @@
       "from": "production-consumption-and-the-minds-distinction",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "The allocation of causal power in validation"
+      "label": "验证中因果权能的分配"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "order-surplus-and-the-moral-intercept",
       "rel": "points_to",
-      "label": "Order, surplus, and the moral intercept"
+      "label": "秩序、剩余与道德拦截"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "Order, Surplus, and the Moral Intercept"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "fate-loves-irony-refined",
       "rel": "points_to",
-      "label": "Fate loves irony"
+      "label": "命运偏爱反讽：生产创造自己的意识形态消费"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
-      "label": "Public spending does not create capital"
+      "label": "公共支出不创造资本"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "rel": "points_to",
-      "label": "The misallocation of cause"
+      "label": "财富转移政策与价格下限中的原因错置"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "fate-loves-irony-refined",
+      "rel": "points_to",
+      "label": "Fate Loves Irony: Production Creates Its Own Ideological Consumption"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public Spending Does Not Create Capital"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "The Misallocation of Cause in Wealth-Transfer Policies and Price Floors"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "residual-individualism",
       "rel": "points_to",
-      "label": "Residual individualism"
+      "label": "剩余个人主义"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "self-rl-for-humans",
       "rel": "points_to",
-      "label": "Self-RL for humans"
+      "label": "看似AI的强化学习，实为人类的自我强化学习"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "rel": "points_to",
-      "label": "Exceptionality, perception, and the self-limiting field of problems"
+      "label": "卓异、感知与自我设限的问题场域"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "the-myth-of-population-collapse-explained",
       "rel": "points_to",
-      "label": "The myth of population collapse explained"
+      "label": "人口崩溃神话的拆解"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "pessimism-is-the-shadow-of-optimism",
       "rel": "points_to",
-      "label": "Pessimism is the shadow of optimism"
+      "label": "悲观是乐观的阴影"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "非万物之理（因果的二重性）"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "Residual Individualism"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "What Looks Like RL for AIs Is Self-RL for Humans"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, Perception, and the Self-Limiting Field of Problems"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "The Myth of Population Collapse Explained"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism Is the Shadow of Optimism"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
@@ -32617,73 +32762,151 @@
       "from": "production-consumption-and-the-minds-distinction",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
-      "label": "Data is local; intelligence is allocated"
+      "label": "数据是局部的，智能是分配的"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "the-scaling-loop",
       "rel": "points_to",
-      "label": "The scaling loop"
+      "label": "规模化回路"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data Is Local; Intelligence Is Allocated"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "the-scaling-loop",
+      "rel": "points_to",
+      "label": "The Scaling Loop"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
-      "label": "Clarity isn’t a state you arrive at"
+      "label": "清晰不是抵达的终点，而是运动本身"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
-      "label": "Complexity Obscures: Emergence as the Act of Mind"
+      "label": "复杂性遮蔽了涌现之为心智的行动"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "complexity-obscures-emergence-as-the-act-of-mind",
+      "rel": "points_to",
+      "label": "Complexity Obscures Emergence as the Act of Mind"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "the-paradoxical-nature-of-bystander-insights",
       "rel": "points_to",
-      "label": "The paradoxical nature of bystander insights"
+      "label": "旁观者洞察的悖论"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "open-vision-in-a-closed-arena",
       "rel": "points_to",
-      "label": "Open vision in a closed arena"
+      "label": "封闭竞技场中的开放视野"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "only-if-it-is-not-kept-empty",
       "rel": "points_to",
-      "label": "Only if it is not kept empty"
+      "label": "只要它不被保持为空"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
-      "label": "Symptom and cause in the narratives of progress"
+      "label": "进步叙事中的症候与原因"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "the-illusion-of-free-intelligence",
       "rel": "points_to",
-      "label": "The illusion of free intelligence"
+      "label": "免费智能的幻觉"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "closed-assumptions-squeeze-compounding-into-s-curves",
       "rel": "points_to",
-      "label": "Closed assumptions squeeze compounding into S-curves"
+      "label": "封闭的假设把复利挤成 S 曲线"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "technology-is-residual-of-human-compounding",
       "rel": "points_to",
-      "label": "Technology is residual of human compounding"
+      "label": "技术是人类复利的残差"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, boundaries, and the moving edge of reality"
+      "label": "抽象、边界与现实的移动边缘"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "the-paradoxical-nature-of-bystander-insights",
+      "rel": "points_to",
+      "label": "The Paradoxical Nature of Bystander Insights"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "open-vision-in-a-closed-arena",
+      "rel": "points_to",
+      "label": "Open Vision in a Closed Arena"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "only-if-it-is-not-kept-empty",
+      "rel": "points_to",
+      "label": "Only If It Is Not Kept Empty"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and Cause in the Narratives of Progress"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "the-illusion-of-free-intelligence",
+      "rel": "points_to",
+      "label": "The Illusion of Free Intelligence"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "rel": "points_to",
+      "label": "Closed Assumptions Squeeze Compounding into S-Curves"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "technology-is-residual-of-human-compounding",
+      "rel": "points_to",
+      "label": "Technology Is Residual of Human Compounding"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "rel": "points_to",
+      "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
@@ -62106,7 +62329,7 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "5f09ac3fbf19",
+        "hash": "0208ea9246ef",
         "out_degree": 28
       },
       {
@@ -62115,7 +62338,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "84f3b5100f2e",
+        "hash": "167b00a4593b",
         "out_degree": 396
       },
       {
@@ -62700,7 +62923,7 @@
         "from": "book:economics",
         "to": "production-consumption-and-the-minds-distinction",
         "rel": "collects",
-        "label": "Production, Consumption, and the Mind’s Distinction"
+        "label": "生产、消费与心智的区分 / Production, Consumption, and the Mind's Distinction"
       },
       {
         "from": "book:economics",
@@ -66024,7 +66247,7 @@
         "from": "book:index-of-premises",
         "to": "production-consumption-and-the-minds-distinction",
         "rel": "collects",
-        "label": "Production, Consumption, and the Mind’s Distinction"
+        "label": "生产、消费与心智的区分 / Production, Consumption, and the Mind's Distinction"
       },
       {
         "from": "book:index-of-premises",
