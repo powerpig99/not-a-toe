@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T19:48:41.021Z",
+    "generated_at": "2026-10-20T19:53:43.098Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -28,7 +28,7 @@
       "content/posts/better-than-free-after-the-checklist-closes.md": "62d821839a0e",
       "content/posts/beyond-the-hundred-trillion-horizon.md": "7092a6d76ade",
       "content/posts/beyond-the-projection.md": "d02d491ba807",
-      "content/posts/boletus-compute-storm-and-promethean-fire.md": "af7a00651647",
+      "content/posts/boletus-compute-storm-and-promethean-fire.md": "6799cb961062",
       "content/posts/causality-all-the-way.md": "27e8e145c237",
       "content/posts/causality-and-the-irreducible-prior.md": "1a4210565cc0",
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "ce9436abbf24",
@@ -130,7 +130,7 @@
       "content/posts/naval-separation-analysis.md": "dd1467c613bb",
       "content/posts/no-genius-can-solve-the-knowledge-problem.md": "e2b97b00140d",
       "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "3dcc3705daeb",
-      "content/posts/no-outside-scorekeeper.md": "b0bbe06a0422",
+      "content/posts/no-outside-scorekeeper.md": "3e211e6f29bb",
       "content/posts/no-system-can-be-kept-closed.md": "9983d1520593",
       "content/posts/nobody-has-seen-anything-yet.md": "684b9268b2c2",
       "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md": "50d45e2a7702",
@@ -315,7 +315,7 @@
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "ef81ddddf533",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "cd35b5f1ec11",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "e6f9de62ab2f",
-      "content/posts/the-perceiver-and-the-trace.md": "15c15df70471",
+      "content/posts/the-perceiver-and-the-trace.md": "78c29d040a22",
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "d85a0ec01465",
       "content/posts/the-power-law-of-surrendered-agency.md": "390d27c147c5",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "eb3b9b608975",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9552,
-      "unique_directed": 4793,
+      "edges": 9566,
+      "unique_directed": 4800,
       "missing_targets": 0,
-      "one_way": 315,
+      "one_way": 322,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,11 +437,11 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 160
+      "in_degree": 163
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 100
+      "in_degree": 101
     },
     {
       "slug": "openness-is-consistency",
@@ -449,7 +449,7 @@
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 69
+      "in_degree": 70
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -465,19 +465,19 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "in_degree": 52
+      "in_degree": 53
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
       "in_degree": 43
     },
     {
-      "slug": "the-allocation-of-causal-power-in-validation",
+      "slug": "causality-stays-at-the-edge-that-steers",
       "in_degree": 40
     },
     {
-      "slug": "causality-stays-at-the-edge-that-steers",
-      "in_degree": 39
+      "slug": "the-allocation-of-causal-power-in-validation",
+      "in_degree": 40
     },
     {
       "slug": "causality-all-the-way",
@@ -1074,7 +1074,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 160,
+      "in_degree": 163,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1100,16 +1100,18 @@
       "slug": "boletus-compute-storm-and-promethean-fire",
       "path": "content/posts/boletus-compute-storm-and-promethean-fire.md",
       "title": "牛肝菌、算力风暴与普罗米修斯的火 / Boletus, the Compute Storm, and Promethean Fire",
-      "hash": "af7a00651647",
+      "hash": "6799cb961062",
       "in_degree": 7,
-      "out_degree": 7,
+      "out_degree": 9,
       "links_out": [
+        "intelligence-belongs-only-to-the-mind",
         "a-creation-cannot-replace-its-source",
         "po-chu-gai-nian-de-jian-yue",
         "the-digital-god-and-the-horizon-jump",
         "causality-stays-at-the-edge-that-steers",
         "mistaking-the-expression-for-the-intelligence",
         "the-model-never-becomes-a-second-edge",
+        "beyond-the-projection",
         "the-ladder-of-abstraction-and-the-executable-entity"
       ]
     },
@@ -1225,7 +1227,7 @@
       "path": "content/posts/causality-stays-at-the-edge-that-steers.md",
       "title": "因果停留在掌舵的边缘 / Causality Stays at the Edge That Steers",
       "hash": "31c5ca5fcc3f",
-      "in_degree": 39,
+      "in_degree": 40,
       "out_degree": 38,
       "links_out": [
         "what-always-listens-cannot-originate",
@@ -2930,7 +2932,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers",
       "hash": "73394d411e94",
-      "in_degree": 100,
+      "in_degree": 101,
       "out_degree": 98,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -3040,7 +3042,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "智能只属于心智 / Intelligence Belongs Only to the Mind",
       "hash": "a4d561808671",
-      "in_degree": 69,
+      "in_degree": 70,
       "out_degree": 69,
       "links_out": [
         "curiosity-has-no-final-form",
@@ -3631,16 +3633,19 @@
       "slug": "no-outside-scorekeeper",
       "path": "content/posts/no-outside-scorekeeper.md",
       "title": "没有外部记账员 / No Outside Scorekeeper",
-      "hash": "b0bbe06a0422",
+      "hash": "3e211e6f29bb",
       "in_degree": 7,
-      "out_degree": 7,
+      "out_degree": 10,
       "links_out": [
         "the-ledger-of-the-unencountered",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+        "individual-choices-as-the-only-causal-levers",
         "the-coin-of-good-and-evil-and-the-road-to-hell",
+        "ownership-and-self-worthiness",
         "when-malfunction-is-scored-as-intelligence",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "beyond-the-projection",
         "the-closed-n-and-the-open-reality"
       ]
     },
@@ -4131,7 +4136,7 @@
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "自我价值感与所有权 / Ownership and Self-Worthiness",
       "hash": "0e6ba13b3abd",
-      "in_degree": 52,
+      "in_degree": 53,
       "out_degree": 52,
       "links_out": [
         "the-meaning-of-life-is-in-the-drafting",
@@ -8031,12 +8036,14 @@
       "slug": "the-perceiver-and-the-trace",
       "path": "content/posts/the-perceiver-and-the-trace.md",
       "title": "感知者与痕迹的不可坍缩 / The Perceiver and the Trace Cannot Collapse",
-      "hash": "15c15df70471",
+      "hash": "78c29d040a22",
       "in_degree": 7,
-      "out_degree": 7,
+      "out_degree": 9,
       "links_out": [
         "consciousness-never-appears-as-data-among-data",
         "subtracting-consciousness-at-the-source",
+        "beyond-the-projection",
+        "causality-stays-at-the-edge-that-steers",
         "the-mind-that-statistics-cannot-reveal",
         "the-returning-signal-and-its-claim",
         "mistaking-the-expression-for-the-intelligence",
@@ -12778,21 +12785,33 @@
     },
     {
       "from": "boletus-compute-storm-and-promethean-fire",
-      "to": "a-creation-cannot-replace-its-source",
+      "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "制品永远无法取代其渊源"
+      "label": "智能只属于心智"
     },
     {
       "from": "boletus-compute-storm-and-promethean-fire",
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
-      "label": "a creation cannot replace its source"
+      "label": "造物无法取代其源头"
+    },
+    {
+      "from": "boletus-compute-storm-and-promethean-fire",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "boletus-compute-storm-and-promethean-fire",
+      "to": "a-creation-cannot-replace-its-source",
+      "rel": "points_to",
+      "label": "A Creation Cannot Replace Its Source"
     },
     {
       "from": "boletus-compute-storm-and-promethean-fire",
       "to": "po-chu-gai-nian-de-jian-yue",
       "rel": "points_to",
-      "label": "心智脱离实体后的纯粹概念"
+      "label": "破除概念的僭越"
     },
     {
       "from": "boletus-compute-storm-and-promethean-fire",
@@ -12804,7 +12823,7 @@
       "from": "boletus-compute-storm-and-promethean-fire",
       "to": "po-chu-gai-nian-de-jian-yue",
       "rel": "points_to",
-      "label": "pure concepts severed from physical friction"
+      "label": "Breaking the Overreach of Concepts"
     },
     {
       "from": "boletus-compute-storm-and-promethean-fire",
@@ -12816,13 +12835,13 @@
       "from": "boletus-compute-storm-and-promethean-fire",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
-      "label": "因果始终留在操舵的前沿"
+      "label": "因果停留在掌舵的边缘"
     },
     {
       "from": "boletus-compute-storm-and-promethean-fire",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
-      "label": "causality stays at the edge that steers"
+      "label": "Causality Stays at the Edge That Steers"
     },
     {
       "from": "boletus-compute-storm-and-promethean-fire",
@@ -12838,21 +12857,33 @@
     },
     {
       "from": "boletus-compute-storm-and-promethean-fire",
-      "to": "the-ladder-of-abstraction-and-the-executable-entity",
+      "to": "beyond-the-projection",
       "rel": "points_to",
-      "label": "抽象的阶梯与可执行的实体"
+      "label": "超越投射"
     },
     {
       "from": "boletus-compute-storm-and-promethean-fire",
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
-      "label": "mistaking the expression for the intelligence"
+      "label": "Mistaking the Expression for the Intelligence"
     },
     {
       "from": "boletus-compute-storm-and-promethean-fire",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
-      "label": "The model never becomes a second edge"
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "boletus-compute-storm-and-promethean-fire",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "boletus-compute-storm-and-promethean-fire",
+      "to": "the-ladder-of-abstraction-and-the-executable-entity",
+      "rel": "points_to",
+      "label": "抽象的阶梯与可执行的实体"
     },
     {
       "from": "boletus-compute-storm-and-promethean-fire",
@@ -28584,7 +28615,13 @@
       "from": "no-outside-scorekeeper",
       "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
       "rel": "points_to",
-      "label": "看不见的观察者与无损传输的妄念"
+      "label": "观察者的隐身与无损传递的妄念"
+    },
+    {
+      "from": "no-outside-scorekeeper",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "no-outside-scorekeeper",
@@ -28600,6 +28637,12 @@
     },
     {
       "from": "no-outside-scorekeeper",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "no-outside-scorekeeper",
       "to": "the-coin-of-good-and-evil-and-the-road-to-hell",
       "rel": "points_to",
       "label": "善恶硬币与通往地狱的善意之路"
@@ -28612,9 +28655,21 @@
     },
     {
       "from": "no-outside-scorekeeper",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "no-outside-scorekeeper",
       "to": "when-malfunction-is-scored-as-intelligence",
       "rel": "points_to",
       "label": "失灵被记作聪明"
+    },
+    {
+      "from": "no-outside-scorekeeper",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "no-outside-scorekeeper",
@@ -28633,6 +28688,18 @@
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
       "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "no-outside-scorekeeper",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "no-outside-scorekeeper",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "no-outside-scorekeeper",
@@ -54556,9 +54623,33 @@
     },
     {
       "from": "the-perceiver-and-the-trace",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-perceiver-and-the-trace",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "因果停留在掌舵的边缘"
+    },
+    {
+      "from": "the-perceiver-and-the-trace",
       "to": "subtracting-consciousness-at-the-source",
       "rel": "points_to",
       "label": "Collective and Artificial Subjectivity"
+    },
+    {
+      "from": "the-perceiver-and-the-trace",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-perceiver-and-the-trace",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality Stays at the Edge That Steers"
     },
     {
       "from": "the-perceiver-and-the-trace",
