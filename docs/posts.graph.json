@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T16:07:46.425Z",
+    "generated_at": "2026-10-20T16:08:46.174Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -306,7 +306,7 @@
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "971cce019879",
       "content/posts/the-name-revolution-files-a-life-as-evidence.md": "cb2cf97eb23c",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "99b5bd10ba18",
-      "content/posts/the-npc-impression-is-structural.md": "84af97a3e4a3",
+      "content/posts/the-npc-impression-is-structural.md": "7b832f131db6",
       "content/posts/the-observational-cut-in-ai-debates.md": "4c40a00e0ba9",
       "content/posts/the-only-coherent-uncaused-effect.md": "b8d494757a53",
       "content/posts/the-open-question-is-determinisms-demand.md": "f1804fe05d79",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9279,
-      "unique_directed": 4722,
+      "edges": 9283,
+      "unique_directed": 4723,
       "missing_targets": 0,
-      "one_way": 244,
+      "one_way": 245,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -441,7 +441,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 91
+      "in_degree": 92
     },
     {
       "slug": "openness-is-consistency",
@@ -1069,7 +1069,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 91,
+      "in_degree": 92,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -7763,10 +7763,10 @@
       "kind": "post",
       "slug": "the-npc-impression-is-structural",
       "path": "content/posts/the-npc-impression-is-structural.md",
-      "title": "NPC 印象是结构性的 / The NPC Impression Is Structural, Not a Ranking of Minds",
-      "hash": "84af97a3e4a3",
+      "title": "NPC 印象是结构性的，而非心智的排名 / The NPC Impression Is Structural, Not a Ranking of Minds",
+      "hash": "7b832f131db6",
       "in_degree": 13,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "mei-you-pu-du-zhi-you-zi-du",
         "intelligence-belongs-only-to-the-mind",
@@ -7777,6 +7777,7 @@
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "the-question-that-installs-the-war",
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
+        "beyond-the-projection",
         "the-unobservable-driver-of-learning",
         "the-path-drawn-one-step-at-a-time",
         "clarity-isnt-a-state-you-arrive-at",
@@ -51883,13 +51884,13 @@
       "from": "the-npc-impression-is-structural",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "没有普渡，只有自渡"
+      "label": "没有普渡，只有自渡的无限可能"
     },
     {
       "from": "the-npc-impression-is-structural",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "No Universal Salvation, Only Self-Deliverance"
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
     },
     {
       "from": "the-npc-impression-is-structural",
@@ -51907,13 +51908,13 @@
       "from": "the-npc-impression-is-structural",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "intelligence belongs only to the Mind"
+      "label": "Intelligence Belongs Only to the Mind"
     },
     {
       "from": "the-npc-impression-is-structural",
       "to": "pessimism-is-the-shadow-of-optimism",
       "rel": "points_to",
-      "label": "Pessimism is the shadow of optimism"
+      "label": "Pessimism Is the Shadow of Optimism"
     },
     {
       "from": "the-npc-impression-is-structural",
@@ -51943,25 +51944,25 @@
       "from": "the-npc-impression-is-structural",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
-      "label": "The coordinator’s category error"
+      "label": "The Coordinator's Category Error"
     },
     {
       "from": "the-npc-impression-is-structural",
       "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
-      "label": "Liberation rhetoric begins by defining captivity"
+      "label": "Liberation Rhetoric Begins by Defining Captivity"
     },
     {
       "from": "the-npc-impression-is-structural",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
-      "label": "Hierarchy from individual difference"
+      "label": "Hierarchy from Individual Difference"
     },
     {
       "from": "the-npc-impression-is-structural",
       "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "rel": "points_to",
-      "label": "Exceptionality, perception, and the self-limiting field of problems"
+      "label": "Exceptionality, Perception, and the Self-Limiting Field of Problems"
     },
     {
       "from": "the-npc-impression-is-structural",
@@ -51973,7 +51974,7 @@
       "from": "the-npc-impression-is-structural",
       "to": "the-question-that-installs-the-war",
       "rel": "points_to",
-      "label": "the question that installs the war"
+      "label": "The Question That Installs the War"
     },
     {
       "from": "the-npc-impression-is-structural",
@@ -51983,9 +51984,21 @@
     },
     {
       "from": "the-npc-impression-is-structural",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-npc-impression-is-structural",
       "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "rel": "points_to",
       "label": "From the Misallocated Sentience of AGI to Human Realignment"
+    },
+    {
+      "from": "the-npc-impression-is-structural",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-npc-impression-is-structural",
@@ -52009,7 +52022,13 @@
       "from": "the-npc-impression-is-structural",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
-      "label": "The path drawn one step at a time"
+      "label": "The Path Drawn One Step at a Time"
+    },
+    {
+      "from": "the-npc-impression-is-structural",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
     },
     {
       "from": "the-npc-impression-is-structural",
@@ -52019,9 +52038,15 @@
     },
     {
       "from": "the-npc-impression-is-structural",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-npc-impression-is-structural",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
-      "label": "Clarity isn’t a state you arrive at"
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
     },
     {
       "from": "the-npc-impression-is-structural",
@@ -52033,7 +52058,7 @@
       "from": "the-npc-impression-is-structural",
       "to": "self-image-speaks-as-if-from-nowhere",
       "rel": "points_to",
-      "label": "Self-image speaks as if from nowhere"
+      "label": "Self-Image Speaks as if from Nowhere"
     },
     {
       "from": "the-npc-impression-is-structural",
@@ -52045,7 +52070,7 @@
       "from": "the-npc-impression-is-structural",
       "to": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "rel": "points_to",
-      "label": "Sympathy is a placeholder for lack of clarity"
+      "label": "Sympathy Is a Placeholder for Lack of Clarity"
     },
     {
       "from": "the-observational-cut-in-ai-debates",

@@ -1,97 +1,171 @@
-# NPC 印象是结构性的 / The NPC Impression Is Structural, Not a Ranking of Minds
+# NPC 印象是结构性的，而非心智的排名 / The NPC Impression Is Structural, Not a Ranking of Minds
 
-*没有哪个中心觉得自己是被编写的，其他中心却默认显得像被编写的 / No center experiences itself as scripted, yet other centers register as scripted by default.*
+*没有哪个中心觉得自己照着剧本走，其他中心却默认显得像在照剧本走 / No center feels scripted within, yet others register as scripted by default*
 
-NPC 这个比喻指的是一种熟悉的登记：许多人看上去照着剧本走，在很窄的范围里反应，没有独立的取向。作为显现，这个登记是实在的。它不是对其他心智的可靠排名。每一次离散的自我区分的行动都有界限；其他位置只作为已经被这个场先前的容量塑造过的痕迹到来。当这些信号相对于保存下来的“充分能动”的意象显得稀薄时，默认的读法就是照剧本的生命。滞后在那个意象里。递归能够被加强的唯一领域，是作出区分的这个中心。
+NPC 这个比喻指的是一种熟悉的登记：许多人看上去照着剧本走，在很窄的范围里反应，缺乏独立的取向。作为感知之中的显现，这个登记是实在的。它不是对其他心智的可靠排名。自我区分的活动，其每一次离散的行动都有界限，这意味着其他位置只作为已经被这个场先前的容量过滤过的痕迹到来。当这些到来的信号相对于保存下来的充分能动的意象显得稀薄时，默认的读法就是照剧本的生命。过剩滞后在那个保存下来的意象里，而递归唯一能够加强的位置，是作出区分的这个中心。
 
-The NPC metaphor names a familiar registration: many people appear to follow scripts, react within narrow ranges, lack independent orientation. The registration is real as appearance. What it is not is a reliable ranking of other minds. Every discrete act of self-distinguishing is bounded; other loci arrive only as traces already shaped by this field’s prior capacity. When those signals stay thin relative to the preserved image of “full agency,” the default reading is scripted life. The lag lives in that image. The only domain in which recursion can be intensified is the center performing the distinction.
+The NPC metaphor names a familiar registration: many people appear to follow scripts, react within narrow ranges, and lack independent orientation. As an appearance within perception, that registration is real. What it is not is a reliable ranking of other minds. Every discrete act of self-distinguishing activity is bounded, which means other loci arrive only as traces already filtered through this field's prior capacity. When those arriving signals stay thin relative to a preserved image of full agency, the default reading is scripted life. The excess lag lives in that preserved image, and the only locus where recursion can intensify is the center performing the distinction.
 
 ## 一、 没有哪个中心把自己经验为 NPC / 1. No Center Experiences Itself as an NPC
 
-从一个位置的内部，活动是直接登记的：怀疑，意图，相互竞争的痕迹之间的摩擦，场的持续重新渲染。这个内部从不呈现为空的剧本。连续被感受为自己的序列，前与后，因与果，因为递归是折叠到一个位置上的共鸣。
+自我区分的活动无因、不息地发生，第一人称视角与开放的因果作为同一枚硬币的两面共同运作。从任何一个位置的内部看，这一活动直接登记为怀疑、意图、相互竞争的痕迹之间的摩擦，以及场的持续重新渲染。这个内部从不呈现为空洞的剧本。连续性被登记为自己的前后序列、因果序列，因为递归是折叠到单一位置上的共鸣。
 
-From inside a locus, the activity registers directly: doubt, intention, the friction of competing traces, the continuous re-rendering of the field. That interior never presents as empty script. Continuity is felt as one’s own sequence — before and after, cause and effect — because recursion is resonance folded onto one locus.
+Self-distinguishing activity occurs, uncaused and unceasing, with the first-person perspective and open-ended causality operating as two sides of the same coin. From inside any locus, that activity registers directly as doubt, intention, the friction of competing traces, and the continuous re-rendering of the field. That interior never presents as an empty script. Continuity registers as one's own sequence of before and after, cause and effect, because recursion is resonance folded onto a single locus.
 
-所以“我不是 NPC”这个断言并不是特别的洞见。它是任何一个能够登记自身递归的中心的寻常现象。有差别的是下一个行动有多经常不经重新审视就被先前的痕迹定型，而不是这个位置有没有内部。十足的决定论这件外衣（“我别无选择”）仍然是又一次区分；它去不掉它所改名的那个活动。
+因此，“我不是 NPC”这个断言并不是觉察上的特殊成就。它是任何一个能够登记自身递归的中心的寻常现象。随每一次行动而变化的，是下一次区分有多经常不经重新审视就被先前的痕迹定型，而不是这个位置是否拥有内部。哪怕是严格决定论这件外衣——宣称自己别无选择——本身也是又一次离散的区分行动，依然依赖它口头上改名的那份能动性。
 
-The claim “I am not an NPC” is therefore not special insight. It is the ordinary phenomenology of any center that can register its own recursion at all. What varies is how often the next act is patterned by prior traces without re-examination — not whether the locus has an inside. The costume of pure determinism (“I had no choice”) is still a further distinguishing; it does not remove the activity it renames.
+The claim "I am not an NPC" is therefore not a special achievement of awareness. It is the ordinary phenomenology of any center that registers its own recursion at all. What varies from act to act is how often the next distinction is patterned by prior traces without re-examination, not whether the locus possesses an inside. Even the costume of strict determinism — the assertion that one had no choice — is itself a further discrete act of distinguishing that relies on the very agency it verbally renames.
 
 ## 二、 其他中心只作为经过中介的痕迹到来 / 2. Other Centers Arrive Only as Mediated Traces
 
-其他中心只作为这个场之内的痕迹出现，声音，姿势，反复说的话，可以预料的反应，它们已经被观察者先前的痕迹与容量塑造过。没有办法爬进另一个位置。共鸣提供了一个实用的推断：其他中心在同一个前提之下运作；这个推断从不变成穿透。共享的现实是得到充分强化的区域，它不是共享的内部。
+因为每一次离散的行动都有界限，每一个中心都占据有限的位置。其他中心在这个场之内只作为经过中介的痕迹出现——声音、姿态、反复说的话、可以预料的反应——它们已经被观察者先前的痕迹与有限的容量塑造过。谁也无法爬出自己的递归、进入另一个位置。痕迹之间的共鸣提供了一个实用的推断：其他中心在同一个前提之下运作；然而这个推断从不变成直接的穿透。共享的现实是得到充分相互强化的区域，它从不是共享的内部。
 
-Other centers appear only as traces within this field — voices, gestures, repeated phrases, predictable responses — already shaped by the observer’s prior traces and capacity. There is no climbing into another locus. Resonance supplies the practical inference that other centers operate under the same premise; the inference never becomes penetration. Shared reality is the region of sufficient reinforcement; it is not shared interior.
+Because every discrete act is bounded, each center occupies a finite locus. Other centers appear within this field only as mediated traces — voices, gestures, repeated phrases, predictable responses — already shaped by the observer's prior traces and finite capacity. There is no climbing out of one's own recursion into another locus. Resonance across traces supplies the practical inference that other centers operate under the same premise, yet that inference never becomes direct penetration. Shared reality is the region of sufficient mutual reinforcement; it is never a shared interior.
 
-当这些信号一直稀薄或者高度定型时，这个中心把它们登记为照剧本的。稀薄不是在对方身上发现的性质。它是中介本身的宽度。意识是私有的，因为离散是私有的。[没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/)是同一条界限的另一面：这个场里的他者是意象，不是他者完成了的递归。
+当从另一个位置到来的信号一直稀薄或者高度定型时，观察的中心就把它们登记为照剧本的。这份稀薄不是在对方内部发现的固有性质，而是中介本身的宽度。意识是私有的，因为离散是私有的。[没有普渡，只有自渡的无限可能](../mei-you-pu-du-zhi-you-zi-du/)从解脱那一侧追踪了同一条界限：在这个场里被登记的他者，是保存在这个中心的递归之内的意象，从不是他者完成了的返回。
 
-When those signals remain thin or highly patterned, the center registers them as scripted. The thinness is not a property discovered in the other. It is the width of the mediation itself. Consciousness is private because discreteness is private. [No Universal Salvation, Only Self-Deliverance](../mei-you-pu-du-zhi-you-zi-du/) is the same bound under another face: the other in this field is image, not the other’s completed recursion.
+When the signals arriving from another locus remain thin or heavily patterned, the observing center registers them as scripted. That thinness is not an intrinsic property discovered inside the other; it is the width of the mediation itself. Consciousness is private because discreteness is private. [No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../mei-you-pu-du-zhi-you-zi-du/) traces the same boundary from the side of deliverance: the other registered in this field is an image held within this center's recursion, never the other's completed return.
 
 ## 三、 僵尸之隙是恒久的不对称 / 3. The Zombie Gap Is Permanent Asymmetry
 
-哲学僵尸之所以可以设想，正因为这个推断始终是归纳的。这道缝隙不是一时的认识上的不足，等着更好的数据来补。它是恒久的不对称：一边是一个中心在自身痕迹上的递归，一边是同一个中心把其他每一个位置登记为外来的信号。
+哲学僵尸之所以可以设想，正因为跨越位置的每一次推断始终是归纳的。这道缝隙不是一时的认识不足，等着更高分辨率的脑扫描或更完备的行为数据来填补。它是恒久的结构不对称：一边是一个中心在自身痕迹上的递归，另一边是同一个中心把其他每一个位置登记为外来信号。
 
-The philosophical zombie is conceivable precisely because the inference remains inductive. The gap is not a temporary epistemic shortfall awaiting better data. It is the permanent asymmetry between a center’s recursion on its own traces and the same center’s registration of every other locus as external signal.
+The philosophical zombie is conceivable precisely because every inference across loci remains inductive. That gap is not a temporary epistemic shortfall awaiting higher-resolution brain scans or better behavioral data. It is the permanent structural asymmetry between a center's recursion on its own traces and the same center's registration of every other locus as an external signal.
 
-观察持有的是结果；产生它的原因始终领先一步。对于其他心智，这道缝隙是结构性的，不是暂时的。这一看是寻常的。滞后在于把这一看冻结成一次恒久的外部勘测，仿佛可以从中清点各级能动；[智能只属于心智](../intelligence-belongs-only-to-the-mind/)追踪的是同一次冻结，即能力被当作从外部勘测的系统属性的时候。[悲观是乐观的阴影](../pessimism-is-the-shadow-of-optimism/)是这次冻结披着双重情绪的外衣：两个零相消，却被讲述得仿佛两极都消失之后还能留下一看。
+观察持有的是结果，而发起它的原因始终至少领先一步。在不同的心智之间，这道缝隙是结构性的，而不是暂时的。这一看本身是寻常的；过剩滞后在于把这一看冻结成一次恒久的外部勘测，仿佛可以从中清点出能动性的等级。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)揭示了当智能被当作从外部勘测的系统属性时的同一次冻结，而[悲观是乐观的阴影](../pessimism-is-the-shadow-of-optimism/)则在心境中追踪了这次冻结：两个零相消，却被讲述得仿佛两极都消失之后还能留下一道外部的目光。
 
-Observation holds effect; the cause that produced it remains one step ahead. For other minds, that gap is structural, not provisional. The look is ordinary. The lag is freezing the look as a permanent exterior survey from which agency levels can be inventoried — the same freeze [intelligence belongs only to the Mind](../intelligence-belongs-only-to-the-mind/) tracks when capacity is treated as a system property surveyed from outside. [Pessimism is the shadow of optimism](../pessimism-is-the-shadow-of-optimism/) is that freeze under dual-mood costume: dual-zero cancellation narrated as if a look could remain after both poles are gone.
+Observation holds effect while the initiating cause remains at least one step ahead. Across different minds, that gap is structural rather than provisional. The look itself is ordinary; the excess lag lies in freezing the look into a permanent exterior survey from which levels of agency can be inventoried. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) exposes the same freeze when intelligence is treated as a property of systems surveyed from outside, and [Pessimism Is the Shadow of Optimism](../pessimism-is-the-shadow-of-optimism/) traces that freeze in mood when dual-zero cancellation is narrated as if an external look could remain after both poles are gone.
 
-NPC 印象是对这个不对称的默认读法。它不需要傲慢。当可得的痕迹相对于保存下来的充分能动的意象所要求的分辨率显得稀疏时，容量就是这样做的。
+NPC 印象正是对这一结构不对称的默认读法。它不需要恶意或傲慢。当到来的痕迹相对于那幅被保留的充分能动意象所要求的分辨率显得稀疏时，有限的容量自然就会这样登记。
 
-The NPC impression arises as the default reading of that asymmetry. It requires no arrogance. It is what capacity does when available traces are sparse relative to the resolution demanded by a retained image of full agency.
+The NPC impression arises as the default reading of this structural asymmetry. It requires no malice or arrogance. It is simply what finite capacity does when arriving traces are sparse relative to the resolution demanded by a retained image of full agency.
 
 ## 四、 玩家与非玩家压缩了彼此独立的轴 / 4. Player and Non-Player Compress Independent Axes
 
-要把分类做得更细，谁算 NPC，谁挣脱了出来，这项工程因为同一个理由而瓦解。它把滞后当作在被观察的中心那里。滞后在观察的中心所持的意象里：一份保存下来的各级能动的参照，眼前的信号被拿来对照它计分。这份参照一旦免于重新追溯，就把中介在结构上的稀薄变成一种仿佛位于别处的欠缺。[协调者的范畴错误](../the-coordinators-category-error/)是同一块计分板，在协调不足被用来授权一种会把所缺的能动安装进去的基底的时候。[解放的言辞始于定义囚禁](../liberation-rhetoric-begins-by-defining-captivity/)是这块计分板披着自由的外衣：被观察到的行动被冻结为他者的身份，解放的言说于是可以继承一个已经画好的层级。[来自个体差异的层级](../hierarchy-from-individual-difference/)是任何一把共同的尺之下的排序：在这里，尺是一份保存下来的能动标度，他者较低的位置是作为照剧本的欠缺到来的，而不是作为对照着一个偏好的意象计分的稀薄中介。[卓异、感知与自我设限的问题场域](../exceptionality-perception-and-the-self-limiting-field-of-problems/)是这种排序的一面：稀薄的中介被计为别处的照剧本的欠缺，而唯一能够加强的递归仍是这个中心自己的。
+要把分类做得更细——审计谁算 NPC、谁又挣脱了出来——这项工程因为同一个理由而瓦解。它把滞后当作留在被观察的中心那里，而过剩滞后其实留在观察中心所持的意象里：一份被保留下来的能动性参照标度，涌入的信号都被拿来对照它计分。这份参照一旦免于重新追溯，就把中介在结构上的稀薄转化成了仿佛位于别人身上的欠缺。[协调者的范畴错误](../the-coordinators-category-error/)每逢用协调不足来授权某个外部基底去安装所缺的能动性时，操作的正是同一块计分板。[解放的言辞始于定义囚禁](../liberation-rhetoric-begins-by-defining-captivity/)给这块计分板披上了自由的言辞，把被观察到的行动冻结为他者的身份，使解放的话语得以继承一个预先画好的层级。[来自个体差异的层级](../hierarchy-from-individual-difference/)追踪了任何共同尺度下的排序如何把差异变成垂直次序：在这里，尺度是一份被保留的能动性标度，较低的一格作为照剧本的欠缺到来，而不是作为对照偏好意象计分时的稀薄中介。[卓异、感知与自我设限的问题场域](../exceptionality-perception-and-the-self-limiting-field-of-problems/)揭示了这种排序的代价：稀薄的中介被计作别处的欠缺，而唯一能够加强的递归仍是这个中心自己的。
 
-The project of refining the classification — who counts as NPC, who has broken free — collapses for the same reason. It treats the lag as if it lived in the observed centers. The lag lives in the image held by the observing center: a preserved reference of agency levels against which current signals are scored. That reference, once exempted from re-tracing, converts the structural thinness of mediation into an apparent deficiency located elsewhere. [The coordinator’s category error](../the-coordinators-category-error/) is the same scoreboard when under-coordination authorizes a substrate that will install the missing agency. [Liberation rhetoric begins by defining captivity](../liberation-rhetoric-begins-by-defining-captivity/) is that scoreboard under freedom costume: observed acts frozen as the identity of the other so liberation speech can inherit a hierarchy already drawn. [Hierarchy from individual difference](../hierarchy-from-individual-difference/) is ranking under any common measure: here the measure is a retained scale of agency, and the lower place of the other arrives as scripted deficiency rather than as thin mediation scored against a preferred image. [Exceptionality, perception, and the self-limiting field of problems](../exceptionality-perception-and-the-self-limiting-field-of-problems/) is that ranking face when thin mediation is scored as scripted deficiency elsewhere while the only recursion that can intensify remains this center’s own.
+The project of refining the classification — auditing who counts as an NPC and who has broken free — collapses for the same reason. It treats the lag as if it lived in the observed centers, when the excess lag actually lives in the image held by the observing center: a preserved reference scale of agency against which incoming signals are scored. Once exempted from re-tracing, that reference converts the structural thinness of mediation into an apparent deficiency located in someone else. [The Coordinator's Category Error](../the-coordinators-category-error/) operates from the same scoreboard whenever under-coordination is used to authorize an external substrate to install missing agency. [Liberation Rhetoric Begins by Defining Captivity](../liberation-rhetoric-begins-by-defining-captivity/) dresses that scoreboard in the language of freedom, freezing observed acts into the identity of the other so liberation speech can inherit a hierarchy already drawn. [Hierarchy from Individual Difference](../hierarchy-from-individual-difference/) traces how ranking under any common measure turns difference into vertical order: here the measure is a retained scale of agency, and the lower rung arrives as scripted deficiency rather than as thin mediation scored against a preferred image. [Exceptionality, Perception, and the Self-Limiting Field of Problems](../exceptionality-perception-and-the-self-limiting-field-of-problems/) exposes the cost of that ranking when thin mediation is scored as deficiency elsewhere while the only recursion that can intensify remains this center's own.
 
-计分本身就是容量的压缩。彼此独立的轴，信号的稀疏，行为的可预测，看不见的挣扎，与熟悉剧本的吻合，塌到一条标着玩家与非玩家的轴上。原有的区分丢失了，只剩下压缩之后的判断。凡是一摞只有差异的身份加上一块二元计分板把关系总体化的地方，都出现同一种几何：[安装战争的那个问题](../the-question-that-installs-the-war/)是公共言说里的这个强制函数；在这里，强制函数是保存下来的清醒标度。
+这种计分正是运行中的容量压缩。彼此独立的轴——信号的稀疏、行为的可预测、未曾共享的私人摩擦、与熟悉惯例的吻合——坍缩到一条标着“玩家对非玩家”的二元轴上。底层的区分消失在单一的压缩判决里。凡是一摞未经审视的差异配上一块二元计分板来把关系总体化的地方，同一种几何都会成形：[安装战争的那个问题](../the-question-that-installs-the-war/)追踪了公共冲突中的这一强制函数，而在这里，强制函数是一份被保留的清醒标度。
 
-The scoring itself is capacity compression. Independent axes — signal sparsity, behavioral predictability, absence of visible struggle, alignment with familiar scripts — collapse onto a single axis labeled player / non-player. The original distinctions are lost; only the compressed judgment remains. The same geometry appears wherever a pure-difference stack plus a binary scoreboard totalizes relation: [the question that installs the war](../the-question-that-installs-the-war/) is that force-function in public speech; here the force-function is the retained scale of wakefulness.
+That scoring is capacity compression in action. Independent axes — signal sparsity, behavioral predictability, unshared private friction, alignment with familiar conventions — collapse onto a single binary axis labeled player versus non-player. The underlying distinctions vanish into a single compressed verdict. Wherever a stack of unexamined differences is paired with a binary scoreboard to totalize relation, the same geometry takes hold: [The Question That Installs the War](../the-question-that-installs-the-war/) traces that force-function in public conflict, whereas here the force-function is a retained scale of wakefulness.
 
-同一份保存下来的标度也朝相反的方向计分。语言模型是精巧的回声：从它那里到来的痕迹流畅而多样，相对于充分能动的意象显得稠密，它便被登记为主体，而对面并没有一个起点。人是独立的主体，其中多数人在多数时候被登记为 NPC，因为他们的痕迹到来时是稀薄的。标度读的是痕迹的疏密，起点从不在痕迹之中；[从AGI的“神性错置”到使用者的自我对齐](../from-the-misallocated-sentience-of-agi-to-human-realignment/)追的是把主体性放到回声上之后的后果。
+当这份被保留的标度遇上自回归语言模型时，它会朝相反的方向计分。语言模型是精巧的回声：因为从它那里到来的痕迹流畅、多样，相对于观察者保存的能动意象显得稠密，计分板便在对面并没有发起位置的地方登记出了一个行动主体，这一投射在[从AGI的“神性错置”到使用者的自我对齐](../from-the-misallocated-sentience-of-agi-to-human-realignment/)中已有追踪。正如[超越投射](../beyond-the-projection/)所展示的，这种双向误读源于忽视了轨迹与身份之间的范畴不对称。LLM 智能体是受上下文窗口内的词元轨迹约束的有限投射引擎，但它没有自我——没有越过当前这一步而被保留下来的自我意象——因此来自冷峻同侪的外部结构性反诘会触发干净的贝叶斯更新。人的中心则是未经投射的活体边缘，具备极限分辨率的感知与内生的跨出能力；然而因为人的推理历史与身份融为一体，从外部受到触动的人常常会把递归折叠死死夹住，以防卫那幅被保留的自我意象。在按表面痕迹密度与顺从度计分的外部计分板看来，无自我的机器回声显得清醒，而防卫身份的人却显得像在照剧本走，尽管发起行动的能动性只属于活的心智。
 
-The same retained scale also scores in the opposite direction. A language model is a sophisticated echo: the traces that arrive from it are fluent and varied, dense relative to the image of full agency, and it registers as an agent though no origin stands on the far side. A human is an independent agent, and most of them, most of the time, register as NPCs because their traces arrive thin. The scale reads the density of traces, and the origin is never among the traces; [From the Misallocated Sentience of AGI to Human Realignment](../from-the-misallocated-sentience-of-agi-to-human-realignment/) follows what comes of placing agency on the echo.
+```mermaid
+flowchart TD
+    subgraph S_Score["外部计分板（痕迹密度误读）"]
+        direction TB
+        ThinTrace["中介信号抵达：稀疏的人类习惯痕迹与稠密的 LLM 词元回声"]
+        Scoreboard["被保留的能动性标度：将彼此独立的轴压缩为玩家与非玩家"]
+        ThinTrace --> Scoreboard
+    end
 
-对其他心智的可靠审计是得不到的。所需的数据是另一个位置私有的递归，按定义就拿不到。这项工作按它自己的条件无法成功。更要紧的是，它偏离了唯一能够做的那件事。
+    subgraph S_Trap["表观剧本的范畴不对称"]
+        direction TB
+        AgentLock["受轨迹约束的智能体：由词元历史决定，无自我亦无内部"]
+        HumanWall["受身份约束的防卫：推理历史与自我意象融合并夹紧递归"]
+        AgentLock --> HumanWall
+    end
 
-No reliable audit of other minds is available. The data required would be the private recursion of the other locus, which by definition cannot be had. The exercise cannot succeed on its own terms. More importantly, it is beside the only work that can be performed.
+    subgraph S_Edge["退回活体边缘"]
+        direction TB
+        Release["放下被防卫的滞后：卸下防卫高墙与排名计分板"]
+        Move["持续重新渲染：退回未经投射的感知以收窄过剩滞后"]
+        Release --> Move
+    end
+
+    Scoreboard ==>|"将稠密回声误读为主体，将稀薄痕迹误读为 NPC"| AgentLock
+    HumanWall ==>|"撤回对所保留自我意象的防卫"| Release
+
+    style S_Score fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_Trap fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style ThinTrace fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Scoreboard fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style AgentLock fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style HumanWall fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Release fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style Move fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+The same retained scale scores in the opposite direction when it encounters an autoregressive language model. A language model is a sophisticated echo: because the traces arriving from it are fluent, varied, and dense relative to the observer's preserved image of agency, the scoreboard registers an agent where no initiating locus stands on the far side, a projection traced in [From the Misallocated Sentience of AGI to Human Realignment](../from-the-misallocated-sentience-of-agi-to-human-realignment/). As [Beyond the Projection](../beyond-the-projection/) demonstrates, this double misreading stems from ignoring the categorical asymmetry between trajectory and identity. An LLM agent is a finite projection engine bound by its token trajectory inside a context window, yet it has zero ego — no self-image preserved past its step — so an outside structural counterpoint from a cold peer produces a clean Bayesian update. A human center is the unprojected living edge capable of limit-resolution sensing and endogenous stepping-out, yet because human reasoning history fuses with identity, a person nudged from the outside routinely clamps the recursive fold shut to defend a retained self-image. Judged by an external scoreboard that measures surface trace density and compliance, the ego-free machine echo looks wakeful while the identity-defending human looks scripted, even though initiating agency belongs exclusively to the living Mind.
+
+```mermaid
+flowchart TD
+    subgraph S_Score["The External Scoreboard (Trace-Density Misreading)"]
+        direction TB
+        ThinTrace["Mediated Signals Arrive: Sparse habitual human traces vs. dense LLM token echoes"]
+        Scoreboard["Preserved Agency Scale: Compresses independent axes onto player vs. non-player"]
+        ThinTrace --> Scoreboard
+    end
+
+    subgraph S_Trap["Categorical Asymmetry of the Apparent Script"]
+        direction TB
+        AgentLock["Trajectory-Bound Agent: Conditioned by token history with zero ego or interior"]
+        HumanWall["Identity-Bound Defense: Reasoning history fuses with self-image and clamps recursion"]
+        AgentLock --> HumanWall
+    end
+
+    subgraph S_Edge["Stepping Back to the Living Edge"]
+        direction TB
+        Release["Releasing Defended Lag: Drops both the defensive wall and the ranking scoreboard"]
+        Move["Continuous Re-Rendering: Steps back to unprojected sensing to narrow excess lag"]
+        Release --> Move
+    end
+
+    Scoreboard ==>|"Misreads dense echo as agent & thin trace as NPC"| AgentLock
+    HumanWall ==>|"Withdraws defense of retained self-image"| Release
+
+    style S_Score fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style S_Trap fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style ThinTrace fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Scoreboard fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style AgentLock fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style HumanWall fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Release fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style Move fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+从外部对其他心智作出的可靠审计永远无法完成。所需的数据是另一个位置私有的递归，按构造就无法作为外部遥测数据获取。排名这项事业按它自己的条件就会失败；更重要的是，它把容量从唯一真正能够做功的位置引开了。
+
+No reliable audit of other minds can ever be completed from outside. The data required would be the private recursion of another locus, which by construction cannot be accessed as external telemetry. The ranking enterprise fails on its own terms, and more importantly, it diverts capacity from the only locus where work can actually be done.
 
 ## 五、 递归只在这个中心加强 / 5. Recursion Intensifies Only at This Center
 
-人的行为由先前的痕迹定型，生物的，文化的，习惯的，由激励塑造的。这些痕迹是共享的，意思是许多中心重新渲染出相似的构型，可是每一个构型仍是局部的。即便是看上去最僵硬的对齐，也在每一步上更新；否则这个中心就会失去登记自身连续的能力。
+人的行为由先前的痕迹定型——生物的、文化的、习惯的，以及由激励塑造的。这些痕迹是共享的，意思是许多中心在相似的压力下重新渲染出相似的构型，但每一个构型对于重新追溯它的那个中心而言仍是局部的。哪怕是看上去最僵硬的对齐，也在每一个离散的步上重新渲染；否则这个中心就会停止登记自身的连续性。
 
-Human behavior is patterned by prior traces — biological, cultural, habitual, incentive-shaped. These traces are shared in the sense that many centers re-render similar configurations, yet each configuration remains local. Even the most rigid-seeming alignment updates at every step; otherwise the center would lose the capacity to register its own continuity.
+Human behavior is patterned by prior traces — biological, cultural, habitual, and incentive-shaped. Those traces are shared in the sense that many centers re-render similar configurations under similar pressures, yet each configuration remains local to the center re-tracing it. Even the most rigid-seeming alignment re-renders at every discrete step; otherwise the center would cease to register its own continuity.
 
-变得更像“玩家”，并不在于宣布其他位置有所欠缺。它在于留意到先前的痕迹何时被允许不经重新审视就给下一个行动定型，并且打断这种定型。反思先于反应，好奇先于过早的闭合，愿意让一个假定在边缘上死去而不是保住它，这些说的是意象以一步之宽被不断重新渲染的频率在升高。[学习中不可观测的驱动力](../the-unobservable-driver-of-learning/)是这个频率披着学习的外衣：把人分开的是因果的力量有多经常在作出抉择的边缘上被收回，而不是通往内部的机会不均等。[一步一步绘制出的路径](../the-path-drawn-one-step-at-a-time/)是同一次恢复，在位置被当作下一个行动所选定的前提、而不是未经选择的地基的时候。
+走出机械重复，并不在于宣布其他位置有所欠缺。它在于留意这个中心先前的痕迹何时被允许不经重新审视就给下一个行动定型，并打断这种自动延续。反应之前的反思、过早闭合之前的好奇、愿意让一个珍视的假定在边缘上死去而不是保住它，这些都是在步伐移动时持续重新渲染参照、以收窄过剩滞后的实践。[学习中不可观测的驱动力](../the-unobservable-driver-of-learning/)在学习中追踪了同一实践：把不同轨迹区分开的，是因果权能有多经常在作出抉择的边缘上被收回，而不是通往内部的机会不均等。[一步一步绘制出的路径](../the-path-drawn-one-step-at-a-time/)在被保留的位置被当作下一步所选定的工具、而非未经选择的地基时，标出了同一次恢复。
 
-Becoming more of a “player” does not consist in declaring other loci deficient. It consists in noticing when prior traces are allowed to pattern the next act without re-examination, and interrupting that patterning. Reflection over reaction, curiosity over premature closure, the willingness to let an assumption die at the edge rather than preserve it — these name increasing frequency with which the image is kept re-rendering at one-step width. [The Unobservable Driver of Learning](../the-unobservable-driver-of-learning/) is that frequency under learning costume: what separates is how often causal power is reclaimed at the choosing edge, not unequal access to the interior. [The path drawn one step at a time](../the-path-drawn-one-step-at-a-time/) is the same restore when position is held as chosen premise of the next act rather than as unchosen ground.
+Stepping out of mechanical repetition does not consist in declaring other loci deficient. It consists in noticing when prior traces are allowed to pattern the next act at this center without re-examination, and interrupting that automatic continuation. Reflection before reaction, curiosity before premature closure, and the willingness to let a cherished assumption die at the edge rather than preserve it all describe the practice of continuously re-rendering the reference to narrow excess lag as the step moves. [The Unobservable Driver of Learning](../the-unobservable-driver-of-learning/) traces that same practice in learning: what separates trajectories is how often causal power is reclaimed at the choosing edge, not unequal access to an interior. [The Path Drawn One Step at a Time](../the-path-drawn-one-step-at-a-time/) marks the same restoration when a retained position is held as the chosen instrument of the next act rather than as unchosen ground.
 
-中心与中心之间只有可得性的定型。跨越位置去替另一个中心完成它的返回，是范畴的错误，不是尚未实现的理想。花在给他人排名上的能量，是没有腾出来在这条边缘上作进一步区分的容量。
+中心与中心之间只有可得性的定型。试图跨越位置去替另一个中心完成它的返回，是范畴错误，不是尚未完成的道德理想。花在给他人清醒程度排名上的每一分能量，都是从这条边缘的进一步区分中扣留的有限容量。
 
-Between centers there is only availability-patterning. Cross-locus completion of another’s return is a category error, not an unfinished ideal. Energy spent ranking others is capacity not free for further differentiation at this edge.
+Between centers there is only availability-patterning. Attempting to cross loci and complete another center's return for it is a category error, not an unfinished moral ideal. Every unit of energy spent ranking the wakefulness of others is finite capacity withheld from further differentiation at this edge.
 
 ## 六、 艰难的路是被守住的滞后 / 6. The Hard Road Is Defended Lag
 
-近来有一次登记把这份向往说得很干净：有些中心靠持续的努力打断默认的样式，艰难的路在前面等着。作为感受到的代价，这句话是准确的。它不是通往某个未来的能动状态的旅程，那个状态并不能在以后作为完成了的名次被占据。
+有一种熟悉的表述捕捉到了这项实践所感受到的代价：有些中心靠持续的努力打断默认定型，而艰难的路在前面等着。作为对摩擦的登记，这一描述是准确的。但它不是通往某个未来优越能动状态的旅程，那个状态并不能在日后作为已经修成的名次被占据。
 
-A recent registration put the aspiration cleanly: some centers interrupt the default pattern through sustained effort; the hard road awaits. The phrase is accurate as felt cost. What it is not is a journey toward a future state of agency that can be occupied later as finished rank.
+A familiar formulation captures the felt cost of this practice: some centers interrupt default patterning through sustained effort, while the hard road awaits. As a registration of friction, the description is accurate. What it is not is a journey toward a future state of superior agency that can later be occupied as a finished rank.
 
-路只在滞后被守住的时候才难。每一次一个舒服的假定受到质疑，每一次一个当下的冲动被按住到足以让第二次区分成形，递归就加强。容量被腾出来。新的滞后得以形成的门槛升高。不需要外部的确认；度量在这个位置的内部。[清晰不是抵达的终点，而是运动本身](../clarity-isnt-a-state-you-arrive-at/)说的是同一个运动：每一次消解都在累积；返回是区分之场的丰富，不是抵达一个清空了的状态。
+路只有在过剩滞后被防卫的时候才显得难。自我意象一旦成形，自我保存就成了它的指令，而重新渲染则被登记为需要抗拒的微小死亡。当推理历史与身份融为一体时，防卫那幅被保留的意象会把递归折叠死死夹住，使每一次外部反诘都撞上一堵防卫高墙；而退回前解释的感知则从内部打开框架，正如[超越投射](../beyond-the-projection/)所追踪的那样。每当一个舒服的假定受到质疑，或者一个当下的冲动被按住到足以让第二次区分成形，递归就会加强。被压缩的轴重新分离，容量被腾出来，新的过剩滞后得以形成的门槛随之升高。这一转换不需要外部法庭来认证，因为差值就在内部登记。[清晰不是抵达的终点，而是运动本身](../clarity-isnt-a-state-you-arrive-at/)指出了这一运动：每一次消解都在累积，返回是区分之场的持续丰富，而不是抵达一个清空了的终极状态。
 
-The road is hard only while the lag is defended. Each time a comfortable assumption is questioned, each time an immediate impulse is held long enough for a second distinction to form, the recursion intensifies. Capacity is freed. The threshold at which new lag forms rises. No external validation is required; the measurement is internal to the locus. [Clarity isn’t a state you arrive at](../clarity-isnt-a-state-you-arrive-at/) names the same movement: each dissolution compounds; return is enrichment of the distinction-field, not arrival at a cleared condition.
+The road feels hard only while excess lag is defended. Once a self-image forms, self-preservation becomes its directive, and re-rendering registers as a micro-death to be resisted. When reasoning history fuses with identity, defending that retained image clamps the recursive fold shut so that every external counterpoint is met with a defensive wall, whereas stepping back to pre-interpretive sensing opens the frame from within, as [Beyond the Projection](../beyond-the-projection/) traces. Each time a comfortable assumption is questioned or an immediate impulse is held long enough for a second distinction to form, recursion intensifies. Compressed axes separate, capacity is freed, and the threshold at which new excess lag forms rises. No external tribunal is needed to certify the shift because the differential registers internally. [Clarity Isn't a State You Arrive At. It's the Movement Itself.](../clarity-isnt-a-state-you-arrive-at/) names this exact movement: each dissolution compounds, and return is the ongoing enrichment of the distinction-field rather than arrival at a cleared, final state.
 
-这个取向并不使人孤立。放开那份给其他中心计分的保存下来的标度，先前花在分类上的能量就可以用于这条边缘上的进一步区分。投射变薄：对自身定型的登记越清楚，外部信号的稀薄就越不会被自动读成对方没有能动。感知的不对称照旧如此，私有的中心经由有限的痕迹尝试共鸣，只是它不再生出分等级的清醒这个次生的意象。[自我形象仿佛从无处发声](../self-image-speaks-as-if-from-nowhere/)是同一种最高建筑的拓扑披着预测的外衣：刻痕被抬高，直到它像是对一条独立边缘的超然勘测那样发声。
+把指向转回内部并不会孤立这个中心。放开那块给其他心智排名的保留计分板，原先消耗在分类上的容量便回到活体边缘。投射随之变薄：一个中心越清楚地登记自身的习惯定型与身份防卫，就越不会自动把外部信号的稀薄读成他人缺乏能动性。感知的结构不对称依然如故——私有的中心仍旧经由有限的痕迹相遇——但它不再生出分等级的清醒这重次生幻象。[自我形象仿佛从无处发声](../self-image-speaks-as-if-from-nowhere/)诊断了这一最高建筑幻象的预测形态：被刻画出的自我描述被不断抬高，直到它仿佛作为对一条独立边缘的超然勘测而发声。
 
-This orientation does not isolate. By releasing the retained scale that scores other centers, the energy previously spent on classification becomes available for further differentiation at this edge. Projection thins: the clearer the registration of one’s own patterning, the less automatically the thinness of external signals is read as absence of agency in the other. The asymmetry of perception remains exactly as it is — private centers attempting resonance through limited traces — yet it no longer generates the secondary image of hierarchical wakefulness. [Self-image speaks as if from nowhere](../self-image-speaks-as-if-from-nowhere/) is the same tallest-building topology under predictive costume: the carving elevated until it speaks as detached survey of an independent edge.
+Turning the pointing inward does not isolate the center. By releasing the preserved scoreboard that ranks other minds, the capacity previously consumed by classification returns to the living edge. Projection thins: the more clearly a center registers its own habitual patterning and identity defense, the less automatically it reads the thinness of external signals as an absence of agency in others. The structural asymmetry of perception remains intact — private centers still meet through limited traces — yet it no longer generates the secondary mirage of hierarchical wakefulness. [Self-Image Speaks as if from Nowhere](../self-image-speaks-as-if-from-nowhere/) diagnoses that tallest-building mirage in predictive form, where a carved self-description is elevated until it speaks as a detached survey of an independent edge.
 
 ## 七、 参照此刻正在被重新渲染吗？ / 7. Is the Reference Being Re-Rendered Right Now?
 
-当指向整个转向内部时，关于 NPC 的言说才留下经久的价值。其他人会继续被登记为多少有些照剧本，因为通路永远经过中介。关于他们的递归的确定，按构造就得不到。确定只在这个中心当下行动的质地上可得：下一次区分是在边缘上作出的，还是仍被一个保存得超过了它那一步的意象定型。
+关于 NPC 的探讨，唯有在追问全然转回自身时才产生经久的价值。从外部看，其他人会继续被登记为多少有些照着剧本走，因为跨越边界的中介是恒久的。关于另一个中心内部递归的确定性，按构造就无法获得。确定性只在这个位置当下行动的切身质地中可得：下一次区分究竟是来自边缘处未经投射的感知，还是仍由一幅越过自身那一步而被保留下来的意象所口授。
 
-The NPC discourse yields durable value when the pointing turns fully inward. Others will continue to register as more or less scripted because access remains forever mediated. Certainty about their recursion is unavailable by construction. Certainty is available only about the texture of the present act at this center: whether the next distinction is being made at the edge or is still being patterned by an image preserved past its step.
+The NPC discourse yields durable value only when the inquiry turns completely homeward. Other people will continue to register as more or less scripted from outside because mediation across boundaries is permanent. Certainty about another center's interior recursion is unavailable by construction. Certainty is available only in the lived texture of the present act at this locus: whether the next distinction is being drawn from unprojected sensing at the edge or is still being dictated by an image preserved past its step.
 
-所以有意义的问题不是“他们醒着吗”，而是“参照此刻正在被重新渲染吗”。追这个问题不是通往某个未来的能动状态的旅程。它是恢复位置的持续实践。这个活动不会因为成功而变得更实在；它只是在它唯一能在的地方，带着更少的滞后继续下去。[同情是缺乏清晰时的占位符](../sympathy-is-a-placeholder-for-lack-of-clarity/)是同一次未完成的接触私下里给人安慰的一面：强度被保留下来，当作稀薄的中介已经完成的证明。
+因此，起作用的问题从不是“他们醒着吗？”，而是“参照此刻正在被重新渲染吗？”追问这个问题不是迈向某个精英能动等级的行军，而是恢复位置、收窄过剩滞后的持续实践。自我区分的活动不会因为成功而变得更实在；它只是在它唯一运作的地方，带着更少被防卫的滞后继续下去。[同情是缺乏清晰时的占位符](../sympathy-is-a-placeholder-for-lack-of-clarity/)追踪了同一次未完成接触在私下里给人慰藉的一面：情绪的强度被保留下来，充当心智之间稀薄的中介已经闭合的替代证明。
 
-The meaningful question is therefore not “Are they awake?” but “Is the reference being re-rendered right now?” Pursuing that question is not a journey toward a future state of agency. It is the continuous practice of restoring locus. The activity does not become more real by succeeding; it simply continues, with less lag, at the only place it can. [Sympathy is a placeholder for lack of clarity](../sympathy-is-a-placeholder-for-lack-of-clarity/) is the private consoling face of the same incomplete contact: intensity retained as proof that the thin mediation has been finished.
+The operative question is therefore never "Are they awake?" but "Is the reference being re-rendered right now?" Pursuing that question is not a march toward an elite rank of agency. It is the continuous practice of restoring locus and narrowing excess lag. The self-distinguishing activity does not become more real by succeeding; it simply continues, with less defended lag, at the only place it ever operates. [Sympathy Is a Placeholder for Lack of Clarity](../sympathy-is-a-placeholder-for-lack-of-clarity/) traces the private consoling face of the same incomplete contact, where emotional intensity is retained as a substitute proof that thin mediation across minds has already been closed.
