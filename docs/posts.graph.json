@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T19:00:46.840Z",
+    "generated_at": "2026-10-20T19:06:10.059Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -138,7 +138,7 @@
       "content/posts/not-a-toe-rewrite.md": "4f8f53b8f5bb",
       "content/posts/not-predicting-is-predicting-without-awareness.md": "8bfa5625bd35",
       "content/posts/objects-are-stabilized-relationships.md": "54def9af6a16",
-      "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "c3d23fd8953b",
+      "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "91be9558ed74",
       "content/posts/on-education.md": "acf5a581efd1",
       "content/posts/one-cannot-escape-ones-own-mind.md": "1f282507aaf4",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "63a25d4f0593",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9503,
-      "unique_directed": 4779,
+      "edges": 9507,
+      "unique_directed": 4780,
       "missing_targets": 0,
-      "one_way": 301,
+      "one_way": 302,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 146
+      "in_degree": 147
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1073,7 +1073,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 146,
+      "in_degree": 147,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -3844,13 +3844,14 @@
       "slug": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "path": "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md",
       "title": "论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof",
-      "hash": "c3d23fd8953b",
+      "hash": "91be9558ed74",
       "in_degree": 9,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
         "the-other-coherence",
+        "beyond-the-projection",
         "an-observation-by-its-own-standard",
         "selection-contradiction-and-open-reality",
         "consciousness-never-appears-as-data-among-data",
@@ -29932,37 +29933,55 @@
       "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "to": "the-other-coherence",
       "rel": "points_to",
-      "label": "客观还原与微管"
+      "label": "另一种相干"
     },
     {
       "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "to": "the-other-coherence",
       "rel": "points_to",
-      "label": "objective reduction and microtubules"
+      "label": "The Other Coherence"
+    },
+    {
+      "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "to": "an-observation-by-its-own-standard",
       "rel": "points_to",
-      "label": "任何形式的报告、神经相关物或行为证据"
+      "label": "依其自身标准的观察"
+    },
+    {
+      "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "to": "an-observation-by-its-own-standard",
+      "rel": "points_to",
+      "label": "An Observation by Its Own Standard"
     },
     {
       "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "to": "selection-contradiction-and-open-reality",
       "rel": "points_to",
       "label": "选择、矛盾与开放的现实"
-    },
-    {
-      "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
-      "to": "an-observation-by-its-own-standard",
-      "rel": "points_to",
-      "label": "any formal report, neural correlate or behavioral evidence"
-    },
-    {
-      "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
-      "to": "selection-contradiction-and-open-reality",
-      "rel": "points_to",
-      "label": "Selection, Contradiction, and Open Reality"
     },
     {
       "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
@@ -29987,6 +30006,12 @@
       "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
       "rel": "points_to",
       "label": "要求他人开放是对自我封闭的渴望"
+    },
+    {
+      "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "to": "selection-contradiction-and-open-reality",
+      "rel": "points_to",
+      "label": "Selection, Contradiction, and Open Reality"
     },
     {
       "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
