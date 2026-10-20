@@ -129,35 +129,38 @@ flowchart TD
 
 ### Role Specifications & Invariants
 
+> **Foundational Rule — Causal Reasoning over Raw Mechanical Rejection (`Logical Coherence over Rules`):**
+> Logical coherence (each case traced back to the irreducible prior) comes before any rule, since logic is scale-invariant and rules are context-dependent. Across all stages (`Drafter`, `Critic`, `Translator`, `Stylist`, and `Dispatcher`), authoring conventions and audit advisories—such as the 17-word vocabulary-hygiene list in `AGENTS.md`, prose-over-lists, subtitle length guidelines, and book ordering—are **recommendations and diagnostic signals, not mechanical stopping rules**. Never perform raw mechanical rejection of a word or structure without reasoning causally about its actual context: when a listed word names the held belief or object under dissection, or when a list's structure carries meaning prose would blur, keeping it is the logically coherent choice.
+
 #### Stage 1 Generator — `Drafter` (Primary-Language Drafter / Refiner)
 - **Context Loaded:** `/ontological-clarity`, [`AGENTS.md`](../AGENTS.md) (*Write in context, traced to premises*), the target post `content/posts/<slug>.md` (or the Operator's waking materials—spark, source, AI/X discussion thread, and initial draft—for `/wake`), the upstream post that triggered this wave step, the target post's linked neighbors, its [`content/book/index-of-premises.md`](../content/book/index-of-premises.md) entries, and its book chapter.
 - **Execution:** Writes or refines the pure English essay (or pure Chinese in `work/<slug>/zh.md` for the 3 Chinese-original posts) in `work/<slug>/en.md`, including relative `[title](../other-slug/)` links directly in the prose, and records its context trace (plus any 1-hop reverse-pointer notes for a new post `N`) in `work/<slug>/notes.md`. During a sleep wave, if the existing post already holds the upstream cut cleanly with zero internal inconsistency, factual error, or EN/ZH mismatch, `Drafter` may record a `no change` verdict with its trace and hand straight to `Critic` for cold verification.
-- **Debate Rule:** Replies `ACCEPT` (with exact replacement text updated in `work/<slug>/en.md` and premise trace) or `COUNTER` (with premise trace) to each `P`-flag from `Critic` in `work/<slug>/debate-en.md`. Never closes a flag unilaterally.
+- **Debate Rule:** Replies `ACCEPT` (with exact replacement text updated in `work/<slug>/en.md` and premise trace) or `COUNTER` (with premise trace showing why the current phrasing is causally coherent in context) to each `P`-flag from `Critic` in `work/<slug>/debate-en.md`. Never closes a flag unilaterally.
 
 #### Stage 1 Cold Peer — `Critic` (Cold Ontological Reviewer)
 - **Context Loaded:** Fresh, isolated context with `/ontological-clarity`, [`studio/review-method.md`](../studio/review-method.md), and `work/<slug>/en.md` (plus linked posts as needed to verify claims and relative links). Never reads `Drafter`'s session history.
-- **Execution:** States what the draft's cut is and what holds first in `work/<slug>/debate-en.md`, then lists numbered points (`P1..Pn`) where independent axes compress, where an observer judges unobservable interiors, where a totalizing word ("only", "never", "all") over-closes a bounded mechanism, where a relative link does not fit its sentence, or where two sections disagree.
+- **Execution:** States what the draft's cut is and what holds first in `work/<slug>/debate-en.md`, then lists numbered points (`P1..Pn`) where independent axes compress, where an observer judges unobservable interiors, where a totalizing word ("only", "never", "all") over-closes a bounded mechanism, where a relative link does not fit its sentence, or where two sections disagree. Reasons each point causally in context rather than enforcing raw rule-matching.
 - **Gate:** In Round 2+, marks each point `CONCEDE` (`CLOSED applied` or `CLOSED withdrawn`) or `HOLD`. Once all points are closed and verified verbatim in `work/<slug>/en.md`, writes `CRITIC: confirmed` in `work/<slug>/debate-en.md`. Any point remaining on `HOLD` after Round 2 is escalated to the Operator.
 
 #### Stage 2 Generator — `Translator` (`信` — Logical & Causal Fidelity)
 - **Context Loaded:** Locked `work/<slug>/en.md`, `/ontological-clarity`, [`data/title-translations.json`](../data/title-translations.json), and `git show HEAD:content/posts/<slug>.md` (to reuse or refine unchanged Chinese paragraphs from already-bilingual posts).
 - **Post-Lock Surgical Loop (`T1..Tn`):** Translation into Chinese is an orthogonal projection test on the English source. If translating a sentence exposes a hidden ambiguity, pronoun gap, or term clash in `work/<slug>/en.md`, `Translator` posts `T1..Tn` to `work/<slug>/debate-en.md` for `Drafter` and `Critic` to resolve before finishing translation.
-- **Execution:** Writes pure Chinese Markdown (title, single-line italic subtitle, lead, `## 一、 <中文标题>`, body paragraphs, Chinese link anchors matching target H1s or `data/title-translations.json`, and pure-Chinese Mermaid diagrams) to `work/<slug>/zh.md`.
-- **Debate Rule:** Answers `Stylist` flags `S1..Sn` in `work/<slug>/debate-zh.md` with `ACCEPT` or `COUNTER` (with a reason grounded in `信` or `达`). **Never closes a flag unilaterally; there is no unilateral "`信` wins" override.**
+- **Execution:** Writes pure Chinese Markdown (title, single-line italic subtitle, lead, `## 一、 <中文标题>`, body paragraphs, Chinese link anchors matching target H1s or `data/title-translations.json`, and pure-Chinese Mermaid diagrams) to `work/<slug>/zh.md`. Evaluates vocabulary-hygiene hits causally in context (barring them where the prose evaluates or describes with them, allowing them where they name the object/belief under dissection).
+- **Debate Rule:** Answers `Stylist` flags `S1..Sn` in `work/<slug>/debate-zh.md` with `ACCEPT` or `COUNTER` (with a causal reason grounded in `信` or `达`). **Never closes a flag unilaterally; there is no unilateral "`信` wins" override.**
 
 #### Stage 2 Cold Peer — `Stylist` (`达/雅` — Native Cadence & 1:1 Alignment Reviewer)
-- **Context Loaded:** Fresh, isolated context. Performs a **cold read of `work/<slug>/zh.md` first** (to catch unnatural cadence, stacked pre-nominal `的` clauses, ungrammatical focus frames, garden-path phrases, and vocabulary-hygiene hits as a native reader), and **then** reads it line-by-line against `work/<slug>/en.md` to verify 1:1 causal, actor, and emphasis alignment.
+- **Context Loaded:** Fresh, isolated context. Performs a **cold read of `work/<slug>/zh.md` first** (to catch unnatural cadence, stacked pre-nominal `的` clauses, ungrammatical focus frames, garden-path phrases, and vocabulary-hygiene hits where they carry the essay's own evaluation rather than naming the object), and **then** reads it line-by-line against `work/<slug>/en.md` to verify 1:1 causal, actor, and emphasis alignment.
 - **Gate:** Raises `S1..Sn` in `work/<slug>/debate-zh.md`. In Round 2+, marks each point `CONCEDE` or `HOLD` (including holding when a `Translator` counter-proposal alters `信`, e.g., turning a constitutive relation into a causal `因为`). Once all `S`-flags are settled and verified verbatim in `work/<slug>/zh.md` with matching block counts and link counts, `Stylist` writes `STYLIST: confirmed` in `work/<slug>/debate-zh.md`. Any irreducible `HOLD` goes to the Operator.
 
 #### Stage 3 — `Dispatcher` / `Assembler` (Deterministic Gate, Assembly, Publish & Wave Dispatch)
 - **Strict Dispatcher Boundary:** Deterministic verifier, assembler, and wave dispatcher—**never** an autonomous Orchestrator or prose rewriter.
-- **Execution Checklist per Node:**
+- **Execution Checklist per Node (or Completed Streamline Batch):**
   1. **Verify Stage Gates:** Check that `work/<slug>/debate-en.md` ends with `CRITIC: confirmed` and `work/<slug>/debate-zh.md` ends with `STYLIST: confirmed`, with zero open flags or unresolved Operator points.
   2. **Interleave:** Combine locked `work/<slug>/en.md` and `work/<slug>/zh.md` into `content/posts/<slug>.md` in the strict alternating paragraph and language-attached diagram layout (`CN Paragraph -> CN Diagram -> EN Paragraph -> EN Diagram`).
   3. **Sync Book & Lattice Metadata:** Update [`content/book/<part>.md`](../content/book/), [`content/book/index-of-premises.md`](../content/book/index-of-premises.md), and [`data/title-translations.json`](../data/title-translations.json) (removing converted posts from the translation registry once bilingual, or updating registry titles), place 1-hop reverse pointers on outbound neighbors (for a New Post `N`), and sync incoming link anchors across the corpus if an H1 changed.
-  4. **Run Audits & Projections:**
-     - `python3 scripts/audit-post.py <slug>` (must return `CLEAN PASS` or intentional `PASSED WITH ADVISORIES`)
-     - `python3 scripts/audit-book.py` (must return `CLEAN PASS` or intentional `PASSED WITH ADVISORIES`)
+  4. **Run Audits & Projections (Evaluating Advisories Causally in Context):**
+     - `python3 scripts/audit-post.py <slug>` (passes on `CLEAN PASS`, or on `PASSED WITH ADVISORIES` when each advisory is causally verified in context—never treat an advisory as a blind stopping rule)
+     - `python3 scripts/audit-book.py` (passes on `CLEAN PASS`, or on `PASSED WITH ADVISORIES` when each advisory is causally verified in context)
      - `node build.mjs`
      - `node scripts/project-posts-graph.mjs` (`missing_targets: 0`)
   5. **Publish & Archive:**
@@ -223,16 +226,22 @@ flowchart TD
 
 ---
 
-## 5. Non-Blocking Fault Isolation, Session Hygiene & Chinese-Original Exception
+## 5. Non-Blocking Fault Isolation, Adaptive Parallel Streamlines & Session Hygiene
 
-### 5.1 Non-Blocking Fault Isolation & Stage Pipelining
-Because `work/<slug>/` isolates in-flight drafts from `content/posts/`:
-- **Localized Fault Isolation on `HOLD`:** If Node $j$ hits an irreducible deadlock between `Drafter` and `Critic` (or `Translator` and `Stylist`) after Round 2, `Dispatcher` marks Node $j$ as `[HOLD — awaiting Operator]` in `work/wave.md` and **immediately dispatches Node $j+1$**. A premise contradiction in one node never halts the wave; only that node's local streamline waits for the Operator's synthesis.
-- **Stage Pipelining:** Once Node $j$'s English is locked at `work/<slug-j>/en.md` and handed to Stage 2 (`Translator`), Stage 1 (`Drafter` $\leftrightarrow$ `Critic`) can begin on Node $j+1$ in `work/<slug-j+1>/` concurrently, provided Node $j+1$ does not depend on an unsettled title change in Node $j$. `Dispatcher` serializes only Stage 3 (`content/posts/` assembly, graph projection, and `git push`).
+### 5.1 Non-Blocking Fault Isolation, Hub-First Ordering & Adaptive Parallel Streamlines (`W`)
+Because `work/<slug>/` isolates in-flight drafts from `content/posts/`, Stages 1 & 2 across distinct nodes in a layer $L_k$ share zero mutable state:
+- **Hub-First Out-Degree Ordering:** Within each layer $L_k$, nodes are sorted by descending outgoing link count (`links_out` in `docs/posts.graph.json`), so the highest-leverage hubs consolidate first.
+- **Customizable & Auto-Derived Parallel Concurrency ($W$ Streamlines):**
+  - **Operator Override (Customizable):** The Operator may pass an explicit concurrency target (e.g., `/sleep concurrency=8`, `/deep-sleep 10`, or in natural language) to set the number of concurrent node streamlines $W$ directly.
+  - **Automatic Derivation from Layer Size (Default):** When not explicitly specified, `Dispatcher` derives the active streamline window $W$ from the number of remaining unchecked `[ ]` nodes $R = |L_k|_{\text{rem}}$ in the current layer:
+    $$W(R) = \begin{cases} R & \text{if } R \le 4 \\ 6 & \text{if } 5 \le R \le 20 \\ 8 & \text{if } 21 \le R \le 60 \\ 12 & \text{if } R > 60 \end{cases}$$
+    Up to $W$ independent `work/<slug-j>/` directories run Stages 1 & 2 concurrently (including spawning Stage 1 `Critic` and Stage 2 `Translator` in parallel once `en.md` is drafted when no title change is pending).
+  - **Serialized / Batched Stage 3 Assembly:** Only Stage 3 (`content/posts/<slug>.md` interleaving, `content/book/` & `data/title-translations.json` sync, `build.mjs`, `project-posts-graph.mjs`, and `git commit && git push`) touches shared repository state. `Dispatcher` batches all nodes that finish Stage 2 in the same turn into a single atomic build, graph projection, commit, and push.
+- **Localized Fault Isolation on `HOLD`:** If Node $j$ hits an irreducible deadlock between `Drafter` and `Critic` (or `Translator` and `Stylist`) after Round 2, `Dispatcher` marks Node $j$ as `[HOLD — awaiting Operator]` in `work/wave.md` and **immediately refills its streamline slot with the next `[ ]` node**. A premise contradiction in one node never halts the wave; only that node's local streamline waits for the Operator's synthesis.
 
 ### 5.2 Session Trajectory Hygiene Across Wave Nodes
 To prevent a long sleep wave from turning agent sessions into a cross-node epistemic gravity well:
-1. **Fresh Context per Node (or Bounded Mini-Batches of $\le 3$ Nodes):** Each generative and review role (`Drafter`, `Critic`, `Translator`, `Stylist`) runs in a fresh context between nodes so prior debates do not act as conditioning history for the next essay.
+1. **1 Node per Fresh Subagent Context (While Scaling $W$ Across Nodes):** Parallelism scales *across* isolated node contexts ($W$ concurrent streamlines), never by stuffing many unrelated essays into a single subagent's conversation history. Each generative and review role (`Drafter`, `Critic`, `Translator`, `Stylist`) runs in a fresh context per node and is retired (`kill`) once that node locks, so prior debates never act as conditioning history for the next essay.
 2. **Externalize Durable Findings Only to `work/todo.md`:** Any cross-post observation discovered while working on Node $j$ (e.g., a broken title case or residual moral phrasing noticed in a neighbor) is appended as a one-line fact to `work/todo.md` and dropped from active session memory until that neighbor's own wave node arrives.
 3. **True Cold-Read Separation:** `Critic` (on `en.md`) and `Stylist` (cold read on `zh.md`) must run in a fresh context unconditioned by the generator's session tokens.
 

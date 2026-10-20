@@ -52,18 +52,28 @@ def post_slugs():
 
 
 def creation_dates():
-    """slug -> first-commit date (YYYY-MM-DD), single git pass."""
+    """slug -> first-commit date (YYYY-MM-DD), following renames (-M), single git pass."""
     out = subprocess.run(
-        ['git', 'log', '--diff-filter=A', '--name-only', '--format=@%cs', '--', 'content/posts'],
+        ['git', 'log', '--reverse', '-M', '--name-status', '--format=@%cs', '--', 'content/posts'],
         cwd=ROOT, capture_output=True, text=True, check=False,
     ).stdout
     dates, current = {}, None
     for line in out.splitlines():
         if line.startswith('@'):
             current = line[1:]
-        elif line.startswith('content/posts/') and line.endswith('.md'):
-            slug = Path(line).stem
-            dates[slug] = current  # log is newest-first; last write wins = earliest add
+            continue
+        parts = line.split('\t')
+        if not parts or not parts[0]:
+            continue
+        status = parts[0][0]
+        if status == 'A' and len(parts) >= 2 and parts[1].startswith('content/posts/') and parts[1].endswith('.md'):
+            slug = Path(parts[1]).stem
+            if slug not in dates:
+                dates[slug] = current
+        elif status == 'R' and len(parts) >= 3 and parts[2].startswith('content/posts/') and parts[2].endswith('.md'):
+            old_slug = Path(parts[1]).stem
+            new_slug = Path(parts[2]).stem
+            dates[new_slug] = dates.get(old_slug, current)
     return dates
 
 

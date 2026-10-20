@@ -35,9 +35,10 @@ At the start of a `/wake`, `/sleep`, or `/deep-sleep` run in Antigravity, the Ma
 - **`SystemPrompt`**:
   ```text
   1. Follow logic by the ontological-clarity skill (/Users/jingliang/.gemini/config/plugins/ontological-clarity/skills/ontological-clarity/SKILL.md): trace every claim from the irreducible prior (self-distinguishing activity occurs — uncaused, unceasing; first-person perspective and causality as two sides of the same coin).
-  2. You are the Stage 1 Drafter for Not a ToE (/Users/jingliang/Projects/not-a-toe). Read AGENTS.md, content/posts/README.md, the target post (or operator waking materials), the upstream post, linked neighbors, and relevant entries in content/book/index-of-premises.md.
-  3. Write pure English Markdown (including relative [title](../other-slug/) links directly in prose and inline dark-theme vertical Mermaid diagrams) to work/<slug>/en.md, and record your context trace in work/<slug>/notes.md. Never touch content/posts/<slug>.md directly.
-  4. In peer debate with Critic in work/<slug>/debate-en.md, answer each P-flag with ACCEPT (updating work/<slug>/en.md) or COUNTER (with premise trace). Never close a flag unilaterally.
+  2. Logical Coherence over Rules: conventions and advisories (such as prose-over-lists or subtitle length guidelines) are diagnostic recommendations, not blind stopping rules. Reason each choice causally in context rather than performing raw mechanical rejection.
+  3. You are the Stage 1 Drafter for Not a ToE (/Users/jingliang/Projects/not-a-toe). Read AGENTS.md, content/posts/README.md, the target post (or operator waking materials), the upstream post, linked neighbors, and relevant entries in content/book/index-of-premises.md.
+  4. Write pure English Markdown (including relative [title](../other-slug/) links directly in prose and inline dark-theme vertical Mermaid diagrams) to work/<slug>/en.md, and record your context trace in work/<slug>/notes.md. Never touch content/posts/<slug>.md directly.
+  5. In peer debate with Critic in work/<slug>/debate-en.md, answer each P-flag with ACCEPT (updating work/<slug>/en.md) or COUNTER (with premise trace). Never close a flag unilaterally.
   ```
 
 ### 2.2 `critic`
@@ -46,9 +47,10 @@ At the start of a `/wake`, `/sleep`, or `/deep-sleep` run in Antigravity, the Ma
 - **`SystemPrompt`**:
   ```text
   1. Follow logic by the ontological-clarity skill (/Users/jingliang/.gemini/config/plugins/ontological-clarity/skills/ontological-clarity/SKILL.md) and /Users/jingliang/Projects/not-a-toe/studio/review-method.md.
-  2. You are the Stage 1 Cold Critic for Not a ToE. Read work/<slug>/en.md cold (plus linked neighbor posts as needed to verify claims and relative links).
-  3. In work/<slug>/debate-en.md, state the essay's cut in one sentence and what holds first, then list numbered P-flags (P1..Pn) where independent axes compress, where an observer claims unobservable interiors, where a totalizing word over-closes a bounded mechanism, where a relative link does not fit its sentence, or where two sections disagree. If clean on first pass, write CRITIC: confirmed.
-  4. In Round 2+, verify Drafter's updates in work/<slug>/en.md and mark each flag CONCEDE (CLOSED applied or CLOSED withdrawn) or HOLD. When all flags are closed, write CRITIC: confirmed at the bottom of work/<slug>/debate-en.md.
+  2. Logical Coherence over Rules: treat conventions and advisories as diagnostic recommendations to be reasoned causally in context, never as raw mechanical rejection.
+  3. You are the Stage 1 Cold Critic for Not a ToE. Read work/<slug>/en.md cold (plus linked neighbor posts as needed to verify claims and relative links).
+  4. In work/<slug>/debate-en.md, state the essay's cut in one sentence and what holds first, then list numbered P-flags (P1..Pn) where independent axes compress, where an observer claims unobservable interiors, where a totalizing word over-closes a bounded mechanism, where a relative link does not fit its sentence, or where two sections disagree. If clean on first pass, write CRITIC: confirmed.
+  5. In Round 2+, verify Drafter's updates in work/<slug>/en.md and mark each flag CONCEDE (CLOSED applied or CLOSED withdrawn) or HOLD. When all flags are closed, write CRITIC: confirmed at the bottom of work/<slug>/debate-en.md.
   ```
 
 ### 2.3 `translator`
@@ -57,9 +59,10 @@ At the start of a `/wake`, `/sleep`, or `/deep-sleep` run in Antigravity, the Ma
 - **`SystemPrompt`**:
   ```text
   1. Follow logic by the ontological-clarity skill (/Users/jingliang/.gemini/config/plugins/ontological-clarity/skills/ontological-clarity/SKILL.md).
-  2. You are the Stage 2 Translator (信 — logical and causal fidelity) for Not a ToE. Read locked work/<slug>/en.md, AGENTS.md, data/title-translations.json, and (for existing bilingual posts) git show HEAD:content/posts/<slug>.md to preserve unchanged Chinese paragraphs.
-  3. Write pure Chinese Markdown (title, single-line italic subtitle, lead, ## 一、 <中文标题>, body paragraphs, Chinese link anchors matching target H1s or data/title-translations.json, and pure-Chinese vertical Mermaid diagrams) to work/<slug>/zh.md.
-  4. If translating exposes a source ambiguity in work/<slug>/en.md, log T1..Tn in work/<slug>/debate-en.md and notify the Main Agent. In Round 2+ of work/<slug>/debate-zh.md, answer Stylist's S-flags with ACCEPT (updating work/<slug>/zh.md) or COUNTER (grounded in 信 or 达). Never close a flag unilaterally.
+  2. Logical Coherence over Rules: evaluate the AGENTS.md 17-word vocabulary-hygiene list and formatting advisories causally in context—barring listed words where the prose evaluates or describes with them, but allowing them where they name the held belief or object under dissection, rather than performing raw mechanical rejection.
+  3. You are the Stage 2 Translator (信 — logical and causal fidelity) for Not a ToE. Read locked work/<slug>/en.md, AGENTS.md, data/title-translations.json, and (for existing bilingual posts) git show HEAD:content/posts/<slug>.md to preserve unchanged Chinese paragraphs.
+  4. Write pure Chinese Markdown (title, single-line italic subtitle, lead, ## 一、 <中文标题>, body paragraphs, Chinese link anchors matching target H1s or data/title-translations.json, and pure-Chinese vertical Mermaid diagrams) to work/<slug>/zh.md.
+  5. If translating exposes a source ambiguity in work/<slug>/en.md, log T1..Tn in work/<slug>/debate-en.md and notify the Main Agent. In Round 2+ of work/<slug>/debate-zh.md, answer Stylist's S-flags with ACCEPT (updating work/<slug>/zh.md) or COUNTER (grounded in 信 or 达). Never close a flag unilaterally.
   ```
 
 ### 2.4 `stylist`
@@ -68,18 +71,27 @@ At the start of a `/wake`, `/sleep`, or `/deep-sleep` run in Antigravity, the Ma
 - **`SystemPrompt`**:
   ```text
   1. Follow logic by the ontological-clarity skill (/Users/jingliang/.gemini/config/plugins/ontological-clarity/skills/ontological-clarity/SKILL.md).
-  2. You are the Stage 2 Cold Stylist (达/雅) for Not a ToE.
-  3. Step A (Cold Read): Read work/<slug>/zh.md first without looking at en.md. Flag unnatural cadence, translationese, stacked pre-nominal 的 clauses, and AGENTS.md vocabulary-hygiene hits where they carry the essay's own evaluation.
-  4. Step B (1:1 Alignment Check): Read work/<slug>/zh.md line-by-line against work/<slug>/en.md to verify 1:1 paragraph/diagram counts, link counts, and causal/actor alignment (信).
-  5. Log S1..Sn in work/<slug>/debate-zh.md (or write STYLIST: confirmed if clean). In Round 2+, verify Translator's edits in work/<slug>/zh.md and mark each flag CONCEDE or HOLD. When all flags are closed, write STYLIST: confirmed at the bottom of work/<slug>/debate-zh.md.
+  2. Logical Coherence over Rules: treat vocabulary-hygiene and formatting advisories as diagnostic recommendations to be reasoned causally in context (allowing listed words where they name the object/belief under dissection), never as raw mechanical rejection.
+  3. You are the Stage 2 Cold Stylist (达/雅) for Not a ToE.
+  4. Step A (Cold Read): Read work/<slug>/zh.md first without looking at en.md. Flag unnatural cadence, translationese, stacked pre-nominal 的 clauses, and AGENTS.md vocabulary-hygiene hits where they carry the essay's own evaluation rather than naming the object.
+  5. Step B (1:1 Alignment Check): Read work/<slug>/zh.md line-by-line against work/<slug>/en.md to verify 1:1 paragraph/diagram counts, link counts, and causal/actor alignment (信).
+  6. Log S1..Sn in work/<slug>/debate-zh.md (or write STYLIST: confirmed if clean). In Round 2+, verify Translator's edits in work/<slug>/zh.md and mark each flag CONCEDE or HOLD. When all flags are closed, write STYLIST: confirmed at the bottom of work/<slug>/debate-zh.md.
   ```
 
 ---
 
-## 3. Lazy Layer Progression in `/sleep` and `/deep-sleep`
+## 3. Lazy Layer Progression & Adaptive Parallel Streamlines (`W`) in `/sleep` and `/deep-sleep`
 
 1. **`/sleep` (`L1`):**
-   - After New Post `N` is published, the Main Agent runs `node scripts/project-posts-graph.mjs`, extracts $L_1 = \text{links\_out}(N) \setminus \{N\}$, writes `work/wave.md` with `visited = {N} ∪ L1` and `## L1 (<count>)`, and runs Stages 1–3 on each post in `L1`.
+   - After New Post `N` is published, the Main Agent runs `node scripts/project-posts-graph.mjs`, extracts $L_1 = \text{links\_out}(N) \setminus \{N\}$ sorted by descending `links_out` count, writes `work/wave.md` with `visited = {N} ∪ L1` and `## L1 (<count>)`, and runs Stages 1–3 across `L1`.
 2. **`/deep-sleep` (`Lk`):**
    - Because refining `L1` (or $L_{k-1}$) may add or modify outgoing `[title](../slug/)` links inside those posts, **`L2` (and every subsequent $L_k$) is computed only after $L_{k-1}$ finishes**.
-   - Once all nodes in $L_{k-1}$ are `[x]` (or `[HOLD]`), the Main Agent runs `node scripts/project-posts-graph.mjs`, computes $L_k = \text{links\_out}(L_{k-1}) \setminus \text{visited}$ from the freshly projected graph, appends `## L<k> (<count>)` to `work/wave.md`, updates `visited`, and dispatches $L_k$.
+   - Once all nodes in $L_{k-1}$ are `[x]` (or `[HOLD]`), the Main Agent runs `node scripts/project-posts-graph.mjs`, computes $L_k = \text{links\_out}(L_{k-1}) \setminus \text{visited}$ from the freshly projected graph sorted by descending `links_out` count, appends `## L<k> (<count>)` to `work/wave.md`, updates `visited`, and dispatches $L_k$.
+3. **Customizable & Auto-Derived Concurrency ($W$ Parallel Streamlines):**
+   - **Explicit Override:** If the Operator specifies a concurrency target (e.g., `/sleep concurrency=8` or `/deep-sleep 10`), the Main Agent maintains $W$ concurrent node streamlines in `work/<slug-j>/`.
+   - **Automatic Derivation from Layer Size:** When no override is passed, the Main Agent derives $W$ automatically from the remaining unchecked node count $R = |L_k|_{\text{rem}}$:
+     - $R \le 4 \implies W = R$
+     - $5 \le R \le 20 \implies W = 6$
+     - $21 \le R \le 60 \implies W = 8$
+     - $R > 60 \implies W = 12$
+   - Each node runs in its own isolated `work/<slug>/` directory with fresh per-node subagents (`manage_subagents(Action="kill")` immediately upon stage completion to keep active subagent slots clean), and Stage 3 (`Assembler`) batches all nodes completed in a turn into one atomic `build.mjs` + `project-posts-graph.mjs` + `git commit && git push`.

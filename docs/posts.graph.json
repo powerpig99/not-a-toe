@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T20:49:41.372Z",
+    "generated_at": "2026-10-20T21:13:23.320Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -405,13 +405,13 @@
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "46323a1926a8",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "4537ed736e3a",
       "content/book/causality.md": "c5ac49c16705",
-      "content/book/consciousness.md": "9646f214f789",
+      "content/book/consciousness.md": "d8595aa6097d",
       "content/book/economics.md": "c863f3bd1a44",
       "content/book/index-of-premises.md": "58837de339f0",
       "content/book/intelligence.md": "8530f0e466c0",
       "content/book/knowledge-and-learning.md": "8aaf853cf833",
       "content/book/life-and-statistics.md": "903bd0f56d99",
-      "content/book/mathematics.md": "0ae44b3e7554",
+      "content/book/mathematics.md": "511585102871",
       "content/book/meaning-and-transcendence.md": "ce5168a72c34",
       "content/book/method.md": "6246e4ef1096",
       "content/book/morality.md": "166522199e9e",
@@ -68346,7 +68346,7 @@
         "slug": "consciousness",
         "path": "content/book/consciousness.md",
         "title": "意识与第一人称先验 / Consciousness and the First-Person Prior",
-        "hash": "9646f214f789",
+        "hash": "d8595aa6097d",
         "out_degree": 39
       },
       {
@@ -68400,7 +68400,7 @@
         "slug": "mathematics",
         "path": "content/book/mathematics.md",
         "title": "数学与逻辑的边界 / The Boundaries of Mathematics and Logic",
-        "hash": "0ae44b3e7554",
+        "hash": "511585102871",
         "out_degree": 20
       },
       {
@@ -68863,15 +68863,15 @@
       },
       {
         "from": "book:consciousness",
-        "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
-        "rel": "collects",
-        "label": "意识的魔术戏法与推断的非对称性 / The Sleight of Hand of Consciousness and the Asymmetry of Inference"
-      },
-      {
-        "from": "book:consciousness",
         "to": "the-irreducible-observer",
         "rel": "collects",
         "label": "不可还原的观察者 / The Irreducible Observer"
+      },
+      {
+        "from": "book:consciousness",
+        "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+        "rel": "collects",
+        "label": "意识的魔术戏法与推断的非对称性 / The Sleight of Hand of Consciousness and the Asymmetry of Inference"
       },
       {
         "from": "book:consciousness",
@@ -73843,6 +73843,12 @@
       },
       {
         "from": "book:mathematics",
+        "to": "no-system-can-be-kept-closed",
+        "rel": "collects",
+        "label": "没有系统能被保持封闭 / No System Can Be Kept Closed"
+      },
+      {
+        "from": "book:mathematics",
         "to": "lossless-knowledge-of-an-open-field-is-incoherent",
         "rel": "collects",
         "label": "开放场域中的无损知识不自洽 / Lossless Knowledge of an Open Field Is Incoherent"
@@ -73915,6 +73921,12 @@
       },
       {
         "from": "book:mathematics",
+        "to": "the-vector-and-the-puzzle-of-projections",
+        "rel": "collects",
+        "label": "向量与投影的迷局 / The Vector and the Puzzle of Projections"
+      },
+      {
+        "from": "book:mathematics",
         "to": "the-continuum-is-a-modeling-convenience",
         "rel": "collects",
         "label": "连续性作为建模的权宜之计 / The Continuum is a Modeling Convenience"
@@ -73930,18 +73942,6 @@
         "to": "the-geometry-of-coexistence-and-the-dual-cut",
         "rel": "collects",
         "label": "共存的几何学 / The Geometry of Coexistence"
-      },
-      {
-        "from": "book:mathematics",
-        "to": "no-system-can-be-kept-closed",
-        "rel": "collects",
-        "label": "没有系统能被保持封闭 / No System Can Be Kept Closed"
-      },
-      {
-        "from": "book:mathematics",
-        "to": "the-vector-and-the-puzzle-of-projections",
-        "rel": "collects",
-        "label": "向量与投影的迷局 / The Vector and the Puzzle of Projections"
       },
       {
         "from": "book:meaning-and-transcendence",
