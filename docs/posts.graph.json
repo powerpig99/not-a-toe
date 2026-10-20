@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T13:47:05.967Z",
+    "generated_at": "2026-10-20T13:50:35.537Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -58,7 +58,7 @@
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "788e4742c499",
       "content/posts/curiosity-has-no-final-form.md": "e351dcb2d5ff",
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
-      "content/posts/data-is-local-intelligence-is-allocated.md": "8d336b0e9da3",
+      "content/posts/data-is-local-intelligence-is-allocated.md": "e9fdf03fc941",
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "5f788bf55578",
       "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "ccb4b3e58dea",
       "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "4fdac1ab3e30",
@@ -407,8 +407,8 @@
       "content/book/causality.md": "529bd18279d8",
       "content/book/consciousness.md": "84e10ab5f9aa",
       "content/book/economics.md": "0208ea9246ef",
-      "content/book/index-of-premises.md": "455e5f2322fa",
-      "content/book/intelligence.md": "728830704d58",
+      "content/book/index-of-premises.md": "477665e0be93",
+      "content/book/intelligence.md": "4c5c52169bc9",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
       "content/book/mathematics.md": "0ae44b3e7554",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9067,
-      "unique_directed": 4678,
+      "edges": 9069,
+      "unique_directed": 4679,
       "missing_targets": 0,
-      "one_way": 202,
+      "one_way": 203,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -465,7 +465,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 49
+      "in_degree": 50
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -1068,7 +1068,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 49,
+      "in_degree": 50,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1885,10 +1885,10 @@
       "kind": "post",
       "slug": "data-is-local-intelligence-is-allocated",
       "path": "content/posts/data-is-local-intelligence-is-allocated.md",
-      "title": "数据是局部的，智能是分配的 / Data Is Local; Intelligence Is Allocated",
-      "hash": "8d336b0e9da3",
+      "title": "数据是局部的，智能是分配的 / Data Is Local, Intelligence Is Allocated",
+      "hash": "e9fdf03fc941",
       "in_degree": 22,
-      "out_degree": 22,
+      "out_degree": 23,
       "links_out": [
         "preference-clusters-and-the-language-of-judgment",
         "hierarchy-from-individual-difference",
@@ -1899,15 +1899,16 @@
         "intelligence-belongs-only-to-the-mind",
         "mistaking-the-expression-for-the-intelligence",
         "the-non-definitive-definition-of-intelligence",
+        "beyond-the-projection",
         "production-consumption-and-the-minds-distinction",
         "no-system-can-be-kept-closed",
         "the-scaling-loop",
         "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+        "hardware-locality-is-not-the-information-boundary",
+        "the-reversal-from-defensible-claim-to-dogma",
         "reality-is-the-minds-ongoing-realization",
         "the-strongest-belief-of-the-mind",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
-        "hardware-locality-is-not-the-information-boundary",
-        "the-reversal-from-defensible-claim-to-dogma",
         "the-illusion-of-free-intelligence",
         "self-image-speaks-as-if-from-nowhere",
         "consciousness-never-appears-as-data-among-data",
@@ -17771,7 +17772,7 @@
       "from": "data-is-local-intelligence-is-allocated",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence Belongs Only to The Mind"
+      "label": "Intelligence Belongs Only to the Mind"
     },
     {
       "from": "data-is-local-intelligence-is-allocated",
@@ -17784,6 +17785,18 @@
       "to": "the-non-definitive-definition-of-intelligence",
       "rel": "points_to",
       "label": "The Non-Definitive Definition of Intelligence"
+    },
+    {
+      "from": "data-is-local-intelligence-is-allocated",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "data-is-local-intelligence-is-allocated",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "data-is-local-intelligence-is-allocated",
@@ -17829,9 +17842,33 @@
     },
     {
       "from": "data-is-local-intelligence-is-allocated",
+      "to": "hardware-locality-is-not-the-information-boundary",
+      "rel": "points_to",
+      "label": "硬件的本地性不是信息的边界"
+    },
+    {
+      "from": "data-is-local-intelligence-is-allocated",
+      "to": "the-reversal-from-defensible-claim-to-dogma",
+      "rel": "points_to",
+      "label": "从可辩护的主张到教条的反转"
+    },
+    {
+      "from": "data-is-local-intelligence-is-allocated",
       "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
       "rel": "points_to",
       "label": "Ownership Cost Freezes Lagged Averages as Vehicle Property"
+    },
+    {
+      "from": "data-is-local-intelligence-is-allocated",
+      "to": "hardware-locality-is-not-the-information-boundary",
+      "rel": "points_to",
+      "label": "Hardware Locality Is Not the Information Boundary"
+    },
+    {
+      "from": "data-is-local-intelligence-is-allocated",
+      "to": "the-reversal-from-defensible-claim-to-dogma",
+      "rel": "points_to",
+      "label": "The Reversal from Defensible Claim to Dogma"
     },
     {
       "from": "data-is-local-intelligence-is-allocated",
@@ -17871,18 +17908,6 @@
     },
     {
       "from": "data-is-local-intelligence-is-allocated",
-      "to": "hardware-locality-is-not-the-information-boundary",
-      "rel": "points_to",
-      "label": "硬件的本地性不是信息的边界"
-    },
-    {
-      "from": "data-is-local-intelligence-is-allocated",
-      "to": "the-reversal-from-defensible-claim-to-dogma",
-      "rel": "points_to",
-      "label": "从可辩护的主张到教条的反转"
-    },
-    {
-      "from": "data-is-local-intelligence-is-allocated",
       "to": "the-illusion-of-free-intelligence",
       "rel": "points_to",
       "label": "免费智能的幻觉"
@@ -17904,18 +17929,6 @@
       "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
       "rel": "points_to",
       "label": "从形式迷思到逻辑闭环"
-    },
-    {
-      "from": "data-is-local-intelligence-is-allocated",
-      "to": "hardware-locality-is-not-the-information-boundary",
-      "rel": "points_to",
-      "label": "Hardware Locality Is Not the Information Boundary"
-    },
-    {
-      "from": "data-is-local-intelligence-is-allocated",
-      "to": "the-reversal-from-defensible-claim-to-dogma",
-      "rel": "points_to",
-      "label": "The Reversal from Defensible Claim to Dogma"
     },
     {
       "from": "data-is-local-intelligence-is-allocated",
@@ -64471,7 +64484,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "455e5f2322fa",
+        "hash": "477665e0be93",
         "out_degree": 396
       },
       {
@@ -64480,7 +64493,7 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "728830704d58",
+        "hash": "4c5c52169bc9",
         "out_degree": 48
       },
       {
@@ -65344,7 +65357,7 @@
         "from": "book:index-of-premises",
         "to": "data-is-local-intelligence-is-allocated",
         "rel": "collects",
-        "label": "数据是局部的，智能是分配的 / Data Is Local; Intelligence Is Allocated"
+        "label": "数据是局部的，智能是分配的 / Data Is Local, Intelligence Is Allocated"
       },
       {
         "from": "book:index-of-premises",
@@ -65842,7 +65855,7 @@
         "from": "book:index-of-premises",
         "to": "data-is-local-intelligence-is-allocated",
         "rel": "collects",
-        "label": "数据是局部的，智能是分配的 / Data Is Local; Intelligence Is Allocated"
+        "label": "数据是局部的，智能是分配的 / Data Is Local, Intelligence Is Allocated"
       },
       {
         "from": "book:index-of-premises",
@@ -67030,7 +67043,7 @@
         "from": "book:index-of-premises",
         "to": "data-is-local-intelligence-is-allocated",
         "rel": "collects",
-        "label": "数据是局部的，智能是分配的 / Data Is Local; Intelligence Is Allocated"
+        "label": "数据是局部的，智能是分配的 / Data Is Local, Intelligence Is Allocated"
       },
       {
         "from": "book:index-of-premises",
@@ -69562,7 +69575,7 @@
         "from": "book:intelligence",
         "to": "data-is-local-intelligence-is-allocated",
         "rel": "collects",
-        "label": "数据是局部的，智能是分配的 / Data Is Local; Intelligence Is Allocated"
+        "label": "数据是局部的，智能是分配的 / Data Is Local, Intelligence Is Allocated"
       },
       {
         "from": "book:intelligence",

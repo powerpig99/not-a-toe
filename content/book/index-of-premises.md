@@ -222,7 +222,7 @@ Amodei's ten-fold acceleration holds for a list of known diseases, which is of u
 
 The data wall presumes that progress is data bound, usable training text being a fixed external stock that will run out, which is of use in registering a constraint that holds, finite capacity, finite current corpora, and finite bandwidth of generation and evaluation; it reaches its boundary in that constrained is not bounded, data does not arrive from nowhere as a stock but is continuous human generation now supercharged through denser instruments, most of what enters training would register as slop under other holds, which shows quality was always a relation of allocation, and what matters is capacity and coherence at the edges that still choose what counts.
 
-→ [数据是局部的，智能是分配的 / Data Is Local; Intelligence Is Allocated](../../posts/data-is-local-intelligence-is-allocated/)
+→ [数据是局部的，智能是分配的 / Data Is Local, Intelligence Is Allocated](../../posts/data-is-local-intelligence-is-allocated/)
 
 ### 大卫·查尔默斯 / David Chalmers
 `哲学 / Philosophical`
@@ -789,7 +789,7 @@ Substrate independence presumes that the Mind is a functional organization that 
 
 Swarm intelligence presumes that collectives such as ant colonies and neural networks, built from units that follow simple local rules, possess intelligence as a system property, which is of use in describing how chemical trails, recruitment, and local constraints generate adaptive, goal-directed behavior; it reaches its boundary in that what observation holds is topology, interaction residue, reinforcement paths, and recruitment dynamics, the collective densifies the medium through which centers act without relocating initiation into it, and "intelligence" is a status a further discrete act allocates to those dynamics, not a grade the topology already owned.
 
-→ [数据是局部的，智能是分配的 / Data Is Local; Intelligence Is Allocated](../../posts/data-is-local-intelligence-is-allocated/)
+→ [数据是局部的，智能是分配的 / Data Is Local, Intelligence Is Allocated](../../posts/data-is-local-intelligence-is-allocated/)
 
 ### 托马斯·库恩 / Thomas Kuhn
 `哲学 / Philosophical`
@@ -2096,7 +2096,7 @@ Substantialist ontology treats Being as primary and Void as mere absence; Laozi 
 
 Big data omniscience presumes that once enough data is gathered, intelligence and quality emerge as properties of the stock, which is of use in registering how regularities survive aggregation and statistical structure becomes visible; it reaches its boundary in that every signal is first local, high in value for the center that produced it and noise almost everywhere else, quality is a relation between material and the receiving hold, aggregation densifies residue without relocating initiation into the medium, and a system counts as intelligent only when a Mind allocates that status to it.
 
-→ [数据是局部的，智能是分配的 / Data Is Local; Intelligence Is Allocated](../../posts/data-is-local-intelligence-is-allocated/)
+→ [数据是局部的，智能是分配的 / Data Is Local, Intelligence Is Allocated](../../posts/data-is-local-intelligence-is-allocated/)
 
 ### 菩萨誓愿 / Bodhisattva Vow
 `宗教 / Religious`

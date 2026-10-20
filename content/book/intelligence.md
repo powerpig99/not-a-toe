@@ -42,7 +42,7 @@ The essays in this part dissect Geoffrey Hinton's cognitive leaps, the limits of
 - [超越的定相 / The Fixed Image of Transcendence](../../posts/the-fixed-image-of-transcendence/)
 - [AGI的预设与来自外部的视角 / The Presumption of AGI and the View from Outside](../../posts/the-presumption-of-agi-and-the-view-from-outside/)
 - [飞行的类比碰不到心智 / The Flight Analogy Leaves the Mind Untouched](../../posts/the-flight-analogy-leaves-the-mind-untouched/)
-- [数据是局部的，智能是分配的 / Data Is Local; Intelligence Is Allocated](../../posts/data-is-local-intelligence-is-allocated/)
+- [数据是局部的，智能是分配的 / Data Is Local, Intelligence Is Allocated](../../posts/data-is-local-intelligence-is-allocated/)
 - [免费智能的幻觉 / The Illusion of Free Intelligence](../../posts/the-illusion-of-free-intelligence/)
 - [对 AI 风险的想象 / The Imagining of AI Risk](../../posts/the-imagining-of-ai-risk/)
 - [智能向自身的回折 / Intelligence Folding Back on Itself](../../posts/intelligence-folding-back-on-itself/)
