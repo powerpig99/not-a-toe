@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T14:01:23.603Z",
+    "generated_at": "2026-10-20T14:04:24.556Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -75,7 +75,7 @@
       "content/posts/evil-as-projected-resistance.md": "acd5f06bc9da",
       "content/posts/evil-as-the-minds-own-creation.md": "a9c673ba9b78",
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "0e71949f226c",
-      "content/posts/expertise-as-reference-not-replacement.md": "f8b327557f8e",
+      "content/posts/expertise-as-reference-not-replacement.md": "8e148681a086",
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "071a0ff47fd2",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9103,
-      "unique_directed": 4682,
+      "edges": 9105,
+      "unique_directed": 4683,
       "missing_targets": 0,
-      "one_way": 206,
+      "one_way": 207,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -461,7 +461,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 53
+      "in_degree": 54
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -1068,7 +1068,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 53,
+      "in_degree": 54,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -2261,9 +2261,9 @@
       "slug": "expertise-as-reference-not-replacement",
       "path": "content/posts/expertise-as-reference-not-replacement.md",
       "title": "专家经验作为参考而非替代 / Expertise as Reference, Not Replacement",
-      "hash": "f8b327557f8e",
+      "hash": "8e148681a086",
       "in_degree": 23,
-      "out_degree": 22,
+      "out_degree": 23,
       "links_out": [
         "the-reality-distortion-field-names-the-closed-map",
         "ownership-cost-freezes-lagged-averages-as-vehicle-property",
@@ -2283,6 +2283,7 @@
         "the-paradox-of-fundamentals-is-the-unaware-switch-of-reference",
         "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
         "clarity-isnt-a-state-you-arrive-at",
+        "beyond-the-projection",
         "the-map-after-the-territory",
         "cheng-gong-xue",
         "preference-clusters-and-the-language-of-judgment",
@@ -19623,7 +19624,7 @@
       "from": "expertise-as-reference-not-replacement",
       "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
       "rel": "points_to",
-      "label": "Misplaced Causality and the Mind’s Compiler"
+      "label": "Misplaced Causality and the Mind's Compiler"
     },
     {
       "from": "expertise-as-reference-not-replacement",
@@ -19699,6 +19700,24 @@
     },
     {
       "from": "expertise-as-reference-not-replacement",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn't a State You Arrive At"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
       "to": "the-map-after-the-territory",
       "rel": "points_to",
       "label": "行路之后的地图"
@@ -19708,12 +19727,6 @@
       "to": "cheng-gong-xue",
       "rel": "points_to",
       "label": "成功学"
-    },
-    {
-      "from": "expertise-as-reference-not-replacement",
-      "to": "clarity-isnt-a-state-you-arrive-at",
-      "rel": "points_to",
-      "label": "Clarity Isn’t a State You Arrive At. It’s the Movement Itself"
     },
     {
       "from": "expertise-as-reference-not-replacement",
