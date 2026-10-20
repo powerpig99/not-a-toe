@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T14:06:23.044Z",
+    "generated_at": "2026-10-20T14:10:16.924Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -334,7 +334,7 @@
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "6bdbb17cb945",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "7940d13c303b",
       "content/posts/the-reversal-of-education-and-science.md": "d9695fb75dbc",
-      "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "2d09f85512fb",
+      "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "11a703d79fe3",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "e4da611b6c1d",
       "content/posts/the-scaffolding-that-keeps-growing.md": "0270bdbc7b9a",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "96bcbd7b1d66",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9107,
-      "unique_directed": 4684,
+      "edges": 9109,
+      "unique_directed": 4685,
       "missing_targets": 0,
-      "one_way": 208,
+      "one_way": 209,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -461,7 +461,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 55
+      "in_degree": 56
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -1068,7 +1068,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 55,
+      "in_degree": 56,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -8409,9 +8409,9 @@
       "slug": "the-risk-is-the-belief-in-oversight-itself",
       "path": "content/posts/the-risk-is-the-belief-in-oversight-itself.md",
       "title": "风险在于对监管本身的迷信 / The Risk Is the Belief in Oversight Itself",
-      "hash": "2d09f85512fb",
+      "hash": "11a703d79fe3",
       "in_degree": 20,
-      "out_degree": 21,
+      "out_degree": 22,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "intelligence-belongs-only-to-the-mind",
@@ -8427,6 +8427,7 @@
         "e-shi-feng-bi-de-shan",
         "openness-is-consistency",
         "the-question-that-installs-the-war",
+        "beyond-the-projection",
         "agi-and-asi-are-temporary-goalposts",
         "the-reality-distortion-field-names-the-closed-map",
         "the-price-of-closing-optionality",
@@ -55169,7 +55170,7 @@
       "from": "the-risk-is-the-belief-in-oversight-itself",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence Belongs Only to The Mind"
+      "label": "Intelligence Belongs Only to the Mind"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
@@ -55314,6 +55315,18 @@
       "to": "the-question-that-installs-the-war",
       "rel": "points_to",
       "label": "The Question That Installs the War"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
