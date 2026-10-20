@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T14:34:33.808Z",
+    "generated_at": "2026-10-20T14:39:24.229Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -230,7 +230,7 @@
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-deterministic-machine.md": "7ba9e608ee16",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "bbddfe893fca",
-      "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "6bed3375defb",
+      "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "74cb658c21aa",
       "content/posts/the-discount-on-agency.md": "7f1324e7bcf7",
       "content/posts/the-dissolution-of-the-great-reversal.md": "3ef5fa05ee7f",
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "cd6f36ce905c",
@@ -356,7 +356,7 @@
       "content/posts/the-three-shadows-of-the-cut.md": "7c447eb8391e",
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
       "content/posts/the-twin-paradox-and-the-hidden-observer.md": "1a3388db8649",
-      "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "132e275da6fc",
+      "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "15c184585b7d",
       "content/posts/the-unclosable-trace.md": "06a750cc90b3",
       "content/posts/the-unexamined-critic.md": "1cda1a733555",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "96d67d29d78d",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9147,
-      "unique_directed": 4691,
+      "edges": 9153,
+      "unique_directed": 4694,
       "missing_targets": 0,
-      "one_way": 215,
+      "one_way": 216,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -448,12 +448,12 @@
       "in_degree": 69
     },
     {
-      "slug": "the-scaffolding-we-forget",
-      "in_degree": 63
+      "slug": "beyond-the-projection",
+      "in_degree": 64
     },
     {
-      "slug": "beyond-the-projection",
-      "in_degree": 62
+      "slug": "the-scaffolding-we-forget",
+      "in_degree": 63
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -1068,7 +1068,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 62,
+      "in_degree": 64,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -6113,9 +6113,9 @@
       "slug": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "path": "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md",
       "title": "数字火箭、同行审查与因果闭环的稀释 / Digital Rockets, Peer Review, and the Dilution of the Causal Loop",
-      "hash": "6bed3375defb",
+      "hash": "74cb658c21aa",
       "in_degree": 19,
-      "out_degree": 19,
+      "out_degree": 21,
       "links_out": [
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
@@ -6126,6 +6126,8 @@
         "moral-language-dilutes-the-feedback-that-scales-freedom",
         "choice-itself-has-no-inherent-weight",
         "the-causal-inversion-of-partnership",
+        "beyond-the-projection",
+        "the-returning-signal-and-its-claim",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
         "the-cut-moves-but-never-vanishes",
         "the-model-never-becomes-a-second-edge",
@@ -8321,7 +8323,7 @@
       "path": "content/posts/the-returning-signal-and-its-claim.md",
       "title": "回返的信号与认领 / The Returning Signal and Its Claim",
       "hash": "b8be66b1e8f5",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 9,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
@@ -8954,9 +8956,9 @@
       "slug": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "path": "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md",
       "title": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation",
-      "hash": "132e275da6fc",
+      "hash": "15c184585b7d",
       "in_degree": 20,
-      "out_degree": 19,
+      "out_degree": 20,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
@@ -8975,6 +8977,7 @@
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
         "the-illusion-of-knowing-and-the-geometry-of-amputation",
         "the-mind-as-vector-and-coordinate-system",
+        "beyond-the-projection",
         "the-boundary-crossing-of-choice",
         "the-cartesian-overstep-and-the-frenzy-of-creation"
       ]
@@ -42808,6 +42811,30 @@
     },
     {
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "the-returning-signal-and-its-claim",
+      "rel": "points_to",
+      "label": "回返的信号与认领"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "the-returning-signal-and-its-claim",
+      "rel": "points_to",
+      "label": "The Returning Signal and Its Claim"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "rel": "points_to",
       "label": "调速者的幻觉与行动的活态摩擦"
@@ -58726,6 +58753,12 @@
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "to": "the-boundary-crossing-of-choice",
       "rel": "points_to",
       "label": "抉择的跨界"
@@ -58741,6 +58774,12 @@
       "to": "the-mind-as-vector-and-coordinate-system",
       "rel": "points_to",
       "label": "The Mind as Vector and Coordinate System"
+    },
+    {
+      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",

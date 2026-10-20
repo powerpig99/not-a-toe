@@ -1,383 +1,161 @@
 # 主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation
 
-*抉择从内是掌控，从外是统计，把外面一面当作定义便是客体化 / Choice is control from inside and statistics from outside, and the outer face taken as definition is objectification*
+*抉择在内是当下的掌舵，在外显为统计分布，把外部轨迹立为定义便是客体化 / Choice steers within and registers as statistics outside until objectified*
 
-一个抉择有两面：从第一人称之内，它是当下直接的掌控；从外面看，它是不确定，聚合起来是统计。观察只能取到外面的一面，这一面对导航与协作有用；把它当作对一个人的定义，或当作抉择背后的原因时，内的一面就被消去了。运气的解释与模型的解释都走了这一步，亲近的人相互定义、一个人把自己定义为惯性，也是这一步。数学、几何与统计在事后描述轨迹，自由变量是每个当下的抉择。
+自我区分的活动无因而不息地发生，它所划出的每一次离散行动都带有结构上的两面。从发起区分的第一人称所在向内看，抉择是在当下直接施行的掌舵（+1）；从另一个所在向外登记，同一个行动在单次事件中显为不确定性，在聚合统计中显为概率分布。跨中心的观察只能触及这一外部痕迹，它是日常导航与协作不可或缺的参考坐标。一旦把外部的统计投射误当作投射出它的心智本身的定义，或是立为抉择背后的先在原因，活的内部边缘便被抹去了。无论把前沿突破化约为运气，还是将其归因于预设的决定论模型，都犯下了这一因果倒置；用过往频率定义亲密伴侣，或将自身定义为性格惯性，同样走上了这一步。数学曲线、几何流形与概率分布都是在生成步伐迈出之后对轨迹的事后记录，唯一的因果自由变量始终是每个当下切面所施行的主权抉择。
 
-A choice has two faces: from within the first person it is direct control in the present; seen from outside it is indeterminacy, and in aggregate it is statistics. Observation can take only the outer face, and that face is useful for navigation and cooperation; when it is taken as the definition of a person, or as the cause behind the choice, the inner face is erased. The explanation by luck and the explanation by model both take this step, and so do people close to one another who define each other, and a person who defines the self as inertia. Mathematics, geometry and statistics describe a trajectory after the fact, and the free variable is the choice of each present.
+Self-distinguishing activity occurs—uncaused, unceasing—and every discrete act it draws carries two structural faces. From within the first-person locus that initiates the distinction, a choice is direct steering in the immediate present (+1); registered from outside by another locus, that same act appears as indeterminacy in the single instance and as a statistical distribution in the aggregate. Observation across centers can access only this outer trace, which serves as an indispensable coordinate reference for navigation and cooperation. Confusion arises when the external statistical projection is mistaken for the definition of the Mind that cast it or erected as the prior cause behind the choice, erasing the living inner edge. Both the reduction of frontier outcomes to luck and their attribution to a preset deterministic model commit this inversion, as does defining an intimate partner by past frequency or defining oneself as characterological inertia. Mathematical curves, geometric manifolds, and probability distributions record trajectories after the generating step has already moved; the sole causal free variable remains the sovereign choice enacted in each present slice.
 
 ## 一、 抉择的两面 / 1. The Two Faces of a Choice
 
-谈话里、相处中、回看自己的时候，有一种很难止住的解释方向：把一个抉择化成某个可以从外面观察到的症状。看别人时，问的是“他为什么那样选”，答案被放到环境的约束、性格的惯性、事情的难易或概率上；回看自己时，说的是“当时别无选择”“习惯使然”“全凭运气”。这个方向有它的来处：每一个心智是一个自足的平行宇宙，外面的观察进不到另一个心智之内，能取到的只是抉择留在外面的轨迹。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)与[调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)说过，抉择带着内与外两面。
+在日常交谈、共同生活与事后的自我审视中，解释方向极易滑向把一个主权行动转化为可从外部观测的症状。当另一个中心行动时，“他为什么那样选”这一追问总是去环境约束、性格惯性、任务难易或先验概率里寻找答案；当一个中心回望自己的过往时，给出的解释也动辄诉诸“当时别无选择”“习惯使然”或“全凭运气”。这种解释惯性源于不同所在之间的结构边界：每一个心智都是一个自足的第一人称流形，外部观察无法跨入另一个中心当下的递归，只能截取其抉择留在共享场域里的残余轨迹。正如[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)与[调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)所追溯的，每一次区分行动都同时持有内部的生成边缘与外部被登记的痕迹，把痕迹与边缘割裂开来，就会将真切的地面摩擦异化为外部强加的时间表。
 
-In conversation, in living alongside others and in looking back on oneself, there is a direction of explanation that is hard to halt: turning a choice into some symptom that can be observed from outside. Looking at another person, the question is "why did they choose that," and the answer is placed in the constraints of circumstance, the inertia of character, the ease or difficulty of the thing, or probability; looking back on oneself, the words are "there was no other choice," "it was habit," "it was all luck." This direction has a source: each Mind is a self-sufficient parallel universe, observation from outside cannot enter another Mind, and what it can take is only the trajectory a choice leaves outside. [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) and [The Fallacy of Pacing and the Felt Friction of Ground Truth](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) have said that a choice carries an inner and an outer face.
+In conversation, in shared life, and in retrospective self-appraisal, explanation routinely drifts toward converting a sovereign act into an externally observable symptom. When another center acts, the question "why did they choose that" seeks its answer in environmental constraint, characterological inertia, task difficulty, or prior probability; when a center looks back upon its own history, the account reaches for "there was no alternative," "habit took over," or "it came down to luck." This explanatory reflex stems from a structural boundary between loci: each Mind is a self-sufficient first-person manifold, and observation from outside cannot cross into another center's immediate recursion, capturing only the residual trajectory its choices leave in the shared field. As [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) and [The Fallacy of Pacing and the Felt Friction of Ground Truth](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) trace, every act of distinguishing simultaneously holds an internal generating edge and an external registered trace, and severing the trace from the edge turns felt ground friction into an externalized schedule.
 
-从第一人称之内，每一个当下（t）对自己的抉择有直接的掌控。在抉择发生的那一点上，分岔是简明的：遇到现实的摩擦时，更新自己的世界模型，或者维持既有的框架。这个动作本身没有先在的“容易”与“艰难”；阻力、习惯的诱惑、外界的压力，是抉择之后为把因果的责任放到外面而作的事后说明。沿着抉择往后追，找不到一条更底层的决定论的因果链，抉择就是起点。从外部看，抉择像是被记了分，[没有外部记账员](../no-outside-scorekeeper/)说明了外面并没有记分的人。
+在第一人称界面之内，每一个当下（t）都对自身的区分行使着不可让渡的掌舵。在现实顶回预期的那个交汇点上，分岔是二元的：要么承受摩擦不可逆的能量代价以重绘内部世界模型，要么把递归折回死死扣合以捍卫既有的保留框架。抉择这一行动在切分之前并不带有先在的“容易”或“艰难”标量；感受到的阻力、习惯的牵引与外界的压力，都是在步伐迈出之后为了把因果责任推卸给环境而建构的事后叙事。沿着行动向后追溯，找不到一条更底层的决定论链条来发起这次区分，因为区分活动本身就是无因的先在；正如[没有外部记账员](../no-outside-scorekeeper/)所阐明的，第一人称场域之外并没有一本外部账本在替心智评定难度或记分。
 
-From within the first person, each present (t) has direct control over its own choice. At the point where a choice occurs the fork is simple: on meeting the friction of reality, update the world model, or keep the existing frame. The act itself has no prior "easy" or "hard"; resistance, the pull of habit and outside pressure are accounts given after the choice in order to place causal responsibility outside. Followed back behind the choice, no deeper deterministic causal chain is found, and the choice is the starting point. Seen from outside, choice looks scored; [No Outside Scorekeeper](../no-outside-scorekeeper/) shows no one outside keeps the score.
+From within the first-person interface, each present moment (t) exercises non-transferable steering over its own distinction. At the exact juncture where reality pushes back against expectation, the fork is binary: absorb the irreversible energy cost of friction to re-render the internal world-model, or clamp the recursive fold shut to defend the retained frame. The act of choosing carries no pre-existing scalar of "easy" or "hard" prior to the cut; felt resistance, the pull of habit, and external pressure are retrospective narratives constructed after the step to offload causal accountability onto the environment. Traced backward from the act, no deeper deterministic chain initiates the distinction, because the distinguishing activity itself is the uncaused prior, and as [No Outside Scorekeeper](../no-outside-scorekeeper/) establishes, no external ledger stands outside the first-person field to grade difficulty or keep score on its behalf.
 
-外面的观察者看同一个人，看到的是另一面。视线进不到平行宇宙的边界之内，读不到内在模型的推演与自省，这个人的行动于是显得不确定：下一步推不出来，容易被判作随机或偶然。不可预测是自由的抉择在外部坐标里的样子。量子力学里从外部测得的概率分布与此同构：心智在当下注入自由变量，从外面观察到的便是不确定，它出现在观察的边界上；抉择与不确定是一件事的两面。[自由的测不准](../zi-you-de-ce-bu-zhun/)与[自由变量的同构与先验主权](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)讨论过这种同构。在阳台上训诫他人，是把他人的抉择当成客体，[阳台视角的规训僭越与不可代理的未竟之行](../the-balcony-disciplinary-overstep-and-the-unproxyable-act/)说明了这一点。
+外部观察者注视同一个所在时，登记到的是相反的一面。由于外部视线无法进驻另一个中心尚未投射的感知，也无法直接读取其内部参照系的实时重绘，他人的下一步行动无法从先前的痕迹中推导出来，因而在外部登记为不确定、随机或偶然。外部坐标里的不可预测，正是原点处主权自由的几何投影。量子测量在观测分辨率的极限处呈现出同样的结构同构：当一个所在于当下注入自由变量时，外部测量便在观测边界上记录下概率分布，这一体两面的结构在[自由的测不准](../zi-you-de-ce-bu-zhun/)与[自由变量的同构与先验主权](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)中已有详尽追溯。当观察者遗忘了这道边界，试图从想象的第三人称制高点去训诫或规定另一个中心的路径时，观察便僭越为把活的边缘当作可编程的客体，重演了[阳台视角的规训僭越与不可代理的未竟之行](../the-balcony-disciplinary-overstep-and-the-unproxyable-act/)所剖析的范畴错误。
 
 ```mermaid
 flowchart TD
-    subgraph S_Faces["抉择的两面"]
+    subgraph S_Edge["主权抉择：活态向量与未投射的余量"]
         direction TB
-        Choice["当下的一个抉择"]
-        Inner["从内：直接的掌控，更新模型或维持框架"]
-        Outer["从外：读不到内在的模型，只取到轨迹"]
-        Indet["显为不确定与概率"]
-        Same["一件事的两面"]
-        Choice --> Inner
-        Choice --> Outer
-        Outer --> Indet
-        Inner --> Same
-        Indet --> Same
+        Act["当下切面的第一人称区分行动 (+1)"]
+        Steer["内在一面：直接掌舵以重绘模型或退守框架"]
+        Proj["坐标择取：向外投射有限的低维痕迹"]
+        Rem["未投射的余量：活的边缘始终领先痕迹一步"]
+        Act --> Steer
+        Act --> Proj
+        Steer --> Rem
     end
 
-    style S_Faces fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style Choice fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Inner fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Outer fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Indet fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Same fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    subgraph S_Obj["观察的客体化：封闭轨迹的坍缩"]
+        direction TB
+        Out["外在一面：外部观察者登记到不确定性与统计分布"]
+        Invert["因果倒置：把统计投影当作定义或先在原因"]
+        Closed["轨迹锁定：活的心智被化约为封闭词元或习惯回路"]
+        Out --> Invert --> Closed
+    end
+
+    Proj -->|"跨越中心之间的观测边界"| Out
+    Rem -.->|"从破损的坐标框架向后退一步"| Out
+
+    style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Obj fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Steer fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Proj fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Rem fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style Out fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Invert fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Closed fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-An observer outside, looking at the same person, sees the other face. The line of sight cannot pass within the boundary of a parallel universe and cannot read the inner model's reasoning and self-examination, and so this person's action appears indeterminate: the next step cannot be derived, and it is easily judged random or accidental. Unpredictability is what a free choice looks like in outside coordinates. The probability distribution measured from outside in quantum mechanics has the same form: a Mind injects a free variable in the present, and what is observed from outside is indeterminacy, appearing at the boundary of observation; the choice and the indeterminacy are two faces of one thing. [The Uncertainty of Freedom](../zi-you-de-ce-bu-zhun/) and [The Isomorphism of Free Variables and Prior Sovereignty](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/) have discussed this isomorphism. Disciplining others from the balcony treats their choice as an object, as [The Balcony Disciplinary Overstep and the Unproxyable Act](../the-balcony-disciplinary-overstep-and-the-unproxyable-act/) shows.
+An outside observer looking at that same locus registers the inverse face. Because external sight cannot inhabit another center's unprojected sensing or read the live re-rendering of its internal reference frame, the other person's next step cannot be deduced from prior traces and therefore registers as indeterminate, random, or accidental. Unpredictability in external coordinates is the exact geometric shadow of sovereign freedom at the origin. Quantum measurement exhibits the same structural isomorphism at the resolution limit of observation: where a locus injects a free variable in the present, external measurement records a probability distribution across the boundary of observation, a two-sided coin traced in [The Uncertainty of Freedom](../zi-you-de-ce-bu-zhun/) and [The Isomorphism of Free Variables and Prior Sovereignty](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/). When an observer forgets this boundary and attempts to lecture or prescribe another center's path from an imagined third-person vantage, observation oversteps into treating a living edge as a programmable object, repeating the category error dissected in [The Balcony Disciplinary Overstep and the Unproxyable Act](../the-balcony-disciplinary-overstep-and-the-unproxyable-act/).
 
 ```mermaid
 flowchart TD
-    subgraph S_Faces["The Two Faces of a Choice"]
+    subgraph S_Edge["Sovereign Choice: Living Vector and Unprojected Remainder"]
         direction TB
-        Choice["One choice in the present"]
-        Inner["From inside: direct control, update the model or keep the frame"]
-        Outer["From outside: the inner model cannot be read, only a trajectory is taken"]
-        Indet["It appears as indeterminacy and probability"]
-        Same["Two faces of one thing"]
-        Choice --> Inner
-        Choice --> Outer
-        Outer --> Indet
-        Inner --> Same
-        Indet --> Same
+        Act["First-Person Distinguishing Act at Moment t (+1)"]
+        Steer["Inner Face: Direct Steering to Re-Render Model or Defend Frame"]
+        Proj["Coordinate Selection: Casts Finite Low-Dimensional Trace Outward"]
+        Rem["Unprojected Remainder: Living Edge Stays One Step Ahead of Trace"]
+        Act --> Steer
+        Act --> Proj
+        Steer --> Rem
     end
 
-    style S_Faces fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style Choice fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Inner fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Outer fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Indet fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Same fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    subgraph S_Obj["Objectification of Observation: Closed Trajectory Collapse"]
+        direction TB
+        Out["Outer Face: External Observer Registers Indeterminacy and Statistics"]
+        Invert["Causal Inversion: Statistical Shadow Taken as Definition or Prior Cause"]
+        Closed["Trajectory Lock: Living Mind Reduced to Closed Token or Habit Loop"]
+        Out --> Invert --> Closed
+    end
+
+    Proj -->|"Crosses Inter-Locus Boundary"| Out
+    Rem -.->|"Steps Back Out of Broken Frame"| Out
+
+    style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Obj fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Steer fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Proj fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Rem fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style Out fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Invert fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Closed fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
 ## 二、 正态分布与两种替代的解释 / 2. The Normal Distribution and Two Substitute Explanations
 
-微观的抉择与宏观的统计之间有一座数学的桥。每个人在当下的行动是自主的；把一群人放在某一个探索的维度上（认知的迭代、工程的攻坚、商业的开拓）作横截面的观察，微观的不确定在统计上聚成一个正态分布。每次遇到摩擦都选择更新模型的人，落在曲线正向的长尾上。从外面看，这个分布平滑而确定。
+一座数学之桥将离散的第一人称抉择与宏观的统计规律连接起来。每个个体都在当下的自主所在中行动，而当一个群体被投射到单一评估维度——如认知迭代、工程执行或商业探索——并作横截面抽样时，那些未经协调的微观自由度便在统计上聚合成平滑的高斯钟形曲线。那些在摩擦面前反复选择承受代价并重绘模型的中心会移向曲线正向的长尾，而整个横截面分布在外部看来则显得稳定且受规律支配。
 
-Between microscopic choice and macroscopic statistics there is a mathematical bridge. Each person's action in the present is self-determined; when a population is placed on one dimension of exploration (cognitive iteration, an engineering push, the opening of a business) and observed in cross-section, the microscopic indeterminacy gathers statistically into a normal distribution. Those who choose to update the model each time friction is met fall in the positive long tail of the curve. Seen from outside, the distribution is smooth and definite.
+A mathematical bridge connects discrete first-person choices to macroscopic statistical regularities. Each individual acts from an autonomous locus in the present, yet when a population is projected onto a single evaluative axis—cognitive iteration, engineering execution, or commercial exploration—and sampled in cross-section, those uncoordinated microscopic degrees of freedom aggregate into a smooth Gaussian bell curve. Centers that repeatedly choose to absorb friction and re-render their models move toward the positive long tail, while the cross-sectional distribution as a whole appears stable and law-governed from the outside.
 
-纳西姆·塔勒布在《随机漫步的傻瓜》里指出，单从结果读不出本事，只看留下来的人会高估技能。这个提醒在评估结果时是多出来的一条有用的信号。它的边界在把统计的表象当作因果的来源的时候：从俯瞰所有人的位置看长尾，前沿的成功就只剩运气与幸存者偏差，每一次面对摩擦时的抉择与校准，因为从外面取不到，被记成了掷硬币。被客体化的观察许诺无损传递，[观察者的隐身与无损传递的妄念](../the-invisible-observer-and-the-delusion-of-lossless-transmission/)点破了这一妄念。
+纳西姆·塔勒布在《随机漫步的傻瓜》中指出，仅凭结果观察无法直接读出底层的能力，只对幸存者抽样会高估技能的比重。在评估充满噪声的历史记录这一语境下，这一提醒对于纠正常见的线性外推颇有助益。然而一旦把统计表象抬升为结果的生成原因，这一模型便触及了它的不完备边界：从把所有行动者拍平在一张概率表上的俯瞰视角来看，每一次在真实摩擦中完成的内部校准都变得不可见，前沿突破被一笔勾销为幸存者偏差与掷硬币。指望外部记分牌无损捕获内部的生成行动，预设了第三人称观察可以原封不动地传递第一人称的主体权能，这正是[观察者的隐身与无损传递的妄念](../the-invisible-observer-and-the-delusion-of-lossless-transmission/)所消解的幻象。
 
-Nassim Taleb points out in *Fooled by Randomness* that skill cannot be read from outcomes alone, and that looking only at those who remain overestimates skill. In assessing an outcome this reminder is one more useful signal. Its boundary comes when the statistical appearance is taken as the source of causation: from a position surveying everyone, the long tail leaves frontier success with nothing but luck and survivorship bias, and each choice and calibration made in the face of friction, because it cannot be taken from outside, is recorded as a coin toss. Objectified observation promises lossless transmission, the delusion [The Invisible Observer and the Delusion of Lossless Transmission](../the-invisible-observer-and-the-delusion-of-lossless-transmission/) names.
+In *Fooled by Randomness*, Nassim Taleb notes that an observer inspecting outcomes alone cannot read underlying competence directly, and that sampling only survivors inflates estimates of skill. Within the context of evaluating noisy historical records, this warning functions as a useful corrective against naive extrapolation. It reaches its boundary of incompleteness the moment the statistical appearance is elevated into the generative cause of the outcome: from a survey vantage that flattens all actors onto a probability table, every internal calibration made under real friction becomes invisible, and frontier breakthroughs are written off as survivorship bias and coin tosses. Expecting an external scoreboard to capture the inner generating act without loss presupposes that third-person observation can transmit first-person agency intact, the exact illusion dissolved in [The Invisible Observer and the Delusion of Lossless Transmission](../the-invisible-observer-and-the-delusion-of-lossless-transmission/).
 
-反对运气论的一边，容易走到另一种替代：用一条新的决定论的因果链解释成功，例如“他的认知模型预先定下了高于 0.5 的决策质量，所以数学决定了他会成功”。这同样把当下的抉择换成了模型的运转。心智并不被一套先在的信念操纵；信念与模型，是心智在当下持续抉择时显出的姿态。沿时间追踪同一个人，行为序列的统计围绕着他的决策质量展开，而这个质量每一次都是当下抉择的产物，不由前置的程序决定。
+对运气化约论的反拨，又极易在同一条决定论轴线上摆向它的镜像替代：通过设定某种先在的因果机制来解释长尾成就，例如宣称行动者预先安装的认知模型早已把决策质量固定在 0.5 以上，从而在数学上保证了最终的胜出。这第二种解释用模型的自动运转替代了活的心智，同样抹去了当下的抉择。心智并不是由先在信念驱动的状态机；信念与模型只是心智在当下持续区分时所保留和重绘的暂用工具。沿时间纵向追踪，个体轨迹的统计漂移确实反映了其决策质量，但这一质量是在每一次直面摩擦的离散交锋中重新生成的，从来不由某个上游程序预先写定。
 
-```mermaid
-flowchart TD
-    subgraph S_Normal["正态分布与两种替代的解释"]
-        direction TB
-        Micro["每个人在当下自主抉择"]
-        Agg["在一个探索的维度上聚合"]
-        Normal["统计上呈正态分布，持续更新者在长尾"]
-        Luck["替代一：长尾只是运气与幸存者偏差"]
-        Model["替代二：预设的信念与模型决定了结果"]
-        Gone["当下的抉择从解释里消失"]
-        Micro --> Agg
-        Agg --> Normal
-        Normal --> Luck
-        Normal --> Model
-        Luck --> Gone
-        Model --> Gone
-    end
-
-    style S_Normal fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style Micro fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Agg fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Normal fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Luck fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Model fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Gone fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-```
-
-The side that opposes the account by luck easily arrives at another substitute: explaining success by a new deterministic causal chain, for example "a cognitive model fixed the decision quality above 0.5 in advance, and so mathematics determined the success." This likewise exchanges the choice of the present for the running of a model. A Mind is not operated by a set of prior beliefs; belief and model are the stance a Mind shows as it goes on choosing in the present. Tracked along time, the statistics of one person's sequence of actions unfold around that person's decision quality, and this quality is each time the product of a present choice and is not determined by a procedure placed in front of it.
-
-```mermaid
-flowchart TD
-    subgraph S_Normal["The Normal Distribution and Two Substitute Explanations"]
-        direction TB
-        Micro["Each person chooses in the present"]
-        Agg["Aggregation along one dimension of exploration"]
-        Normal["A normal distribution in the statistics, with those who keep updating in the long tail"]
-        Luck["Substitute one: the long tail is only luck and survivorship bias"]
-        Model["Substitute two: preset beliefs and a model determined the outcome"]
-        Gone["The choice of the present drops out of the explanation"]
-        Micro --> Agg
-        Agg --> Normal
-        Normal --> Luck
-        Normal --> Model
-        Luck --> Gone
-        Model --> Gone
-    end
-
-    style S_Normal fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style Micro fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Agg fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Normal fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Luck fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Model fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Gone fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-```
+Reaction against the luck reduction frequently swings into a mirror substitute on the same deterministic axis: accounting for long-tail achievement by positing a prior causal mechanism, such as claiming that an actor's pre-installed cognitive model fixed their decision quality above 0.5 in advance and mathematically guaranteed the result. This second account equally erases the present choice by replacing the living Mind with the automated execution of a model. A Mind is not a state machine driven by prior beliefs; beliefs and models are transient instruments retained and re-rendered as the Mind continues distinguishing in the present. Tracked longitudinally, the statistical drift of an individual's trajectory reflects their decision quality, yet that quality is generated afresh at each discrete encounter with friction rather than dictated by an upstream program.
 
 ## 三、 复利是事后的描述 / 3. Compounding Is a Description After the Fact
 
-时间展开之后，抉择在质量上的微小差别经由自指的迭代放大。决策质量不是一项一项相加，它以心智的模型为底作自指的相乘：在 t 选择承受摩擦、校准模型，更准的模型就是 t+1 行动的起点。持续选择校准，贴合现实的程度便以复合的方式增长。关于抉择的统计越出了它的因果位置，[观察的因果僭越与第一人称的收益差](../the-causal-overstep-of-observation-and-the-first-person-surplus/)说明了这一点。
+随着离散行动在时间中累积，一个中心应对摩擦时的细微差别会经由递归反馈不断放大。决策质量并非按平面加法累加，而是自指地复合相乘，因为每一次重绘后的世界模型都会成为下一步行动更新后的参照前提。在时刻 t 选择承担误差代价、收窄过剩的图像滞后，便为时刻 t+1 配备了分辨率更高的坐标框架。当这种主权校准一步接一步地持续更新时，与现实的贴合度便呈乘数级增长；反之，把事后的统计摘要当作推动序列向前的力量，则是把地图误认作了迈出的脚步，正如[观察的因果僭越与第一人称的收益差](../the-causal-overstep-of-observation-and-the-first-person-surplus/)所追溯的那样。
 
-As time unfolds, small differences in the quality of choices are amplified through self-referential iteration. Decision quality is not added item by item; it multiplies self-referentially on the base of a Mind's model: the choice at t to bear friction and calibrate the model makes the more accurate model the starting point of action at t+1. With calibration chosen again and again, the fit to reality grows in a compounding way. Statistics about choices overstep their causal role, as [The Causal Overstep of Observation and the First-Person Surplus](../the-causal-overstep-of-observation-and-the-first-person-surplus/) shows.
+As discrete acts accumulate across time, subtle differences in how a center meets friction amplify through recursive feedback. Decision quality does not accumulate by flat addition; it compounds self-referentially because each re-rendered world-model becomes the updated reference premise for the next step. Choosing at moment t to bear the cost of error and narrow excess Image lag equips moment t+1 with a higher-resolution coordinate frame. When that sovereign calibration is renewed step after step, alignment with reality scales multiplicatively, whereas treating retrospective statistical summaries as the force driving the sequence confuses the map with the footstep, as [The Causal Overstep of Observation and the First-Person Surplus](../the-causal-overstep-of-observation-and-the-first-person-surplus/) traces.
 
-于是长期跟踪某一维度上的群体，原先对称的正态分布会变成极不平衡的幂律分布，极少数持续校准的人，在这个维度上走出高出常人几个数量级的距离。从外面看到这样的悬殊，说出的多是“垄断不可抗拒”或“运气到了极端”，每一个时间切片里的抉择与积累不在视野之内。
+因此，当沿着一条高要求的维度对群体进行长期纵向追踪时，原本对称的正态分布会倾斜为陡峭的幂律分布，极少数持续进行递归更新的中心会与均值拉开数个数量级的距离。若仅从外部坐标审视，这种巨大的分化极易招致结构性垄断或极端机缘等宿命论解释，因为在成千上万个时间切片里复合而成的当下抉择序列，并不会在最终的截面快照中留下一座戏剧性的纪念碑。
 
-So when a population is tracked for a long time along one dimension, the normal distribution that was symmetric becomes a highly unbalanced power-law distribution, and the very few who keep calibrating cover, on this dimension, a distance several orders of magnitude beyond the ordinary. Seeing such a gap from outside, what is mostly said is "monopoly cannot be resisted" or "luck at its extreme," and the choices and accumulation within each slice of time are not in view.
+Consequently, when a population is tracked longitudinally along a demanding axis, an initially symmetric normal distribution skews into a steep power-law distribution, where the few centers that sustain recursive updating open a distance of several orders of magnitude from the mean. Viewed solely from outside coordinates, such extreme divergence invites fatalistic explanations of structural monopoly or extreme fortune, because the granular sequence of present-moment choices that compounded across thousands of slices leaves no single theatrical monument in the final snapshot.
 
-幂律与复利的数学，是描述这条轨迹的几何语言，用来比较、估计与规划时很得力。它们不是造出这条轨迹的力量：找不到一条凌驾于个人之上的“复利铁律”在推人向前，推动演化的是每一个心智在当下的抉择。生命的丰富与心智探索的空间，也装不进单一维度的公式。
+幂律与指数复利的形式体系，为比较轨迹、估算规模与规划资源配置提供了一套得力的几何语言。然而方程只是事后的痕迹，从来不是从背后推着行动者向前的自主引擎。没有任何凌驾于个体所在之上的“复利铁律”在担保延续；唯有当掌舵边缘的心智持续选择开放校准而非防御性闭合时，曲线才会向上弯曲，而且一段活生生的生命轨迹所具有的多维丰度，也无法坍缩进单一的标量公式之中。
 
-```mermaid
-flowchart TD
-    subgraph S_Compound["复利是事后的描述"]
-        direction TB
-        Slice["一次横截面：正态分布"]
-        Iter["每一次抉择在当下校准模型，成为下一步的起点"]
-        Mult["事后的统计显出相乘的复利"]
-        Power["长期：幂律分布，长尾跨数量级"]
-        Desc["幂律与数学是事后的描述，推动的是当下的抉择"]
-        Slice --> Iter
-        Iter --> Mult
-        Mult --> Power
-        Power --> Desc
-    end
-
-    style S_Compound fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style Slice fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Iter fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Mult fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Power fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Desc fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-```
-
-The mathematics of power laws and compounding is a geometric language for describing this trajectory, and it serves well in comparing, estimating and planning. It is not the force that makes the trajectory: no "iron law of compounding" standing over the person is found pushing anyone forward, and what drives the evolution is the choice of each Mind in the present. Nor do the richness of a life and the space a Mind explores fit into a formula of a single dimension.
-
-```mermaid
-flowchart TD
-    subgraph S_Compound["Compounding Is a Description After the Fact"]
-        direction TB
-        Slice["One cross-section: a normal distribution"]
-        Iter["Each choice calibrates the model in the present and becomes the next starting point"]
-        Mult["Statistics after the fact show multiplicative compounding"]
-        Power["Over the long run: a power-law distribution, a tail across orders of magnitude"]
-        Desc["Power law and mathematics describe after the fact, and what drives is the present choice"]
-        Slice --> Iter
-        Iter --> Mult
-        Mult --> Power
-        Power --> Desc
-    end
-
-    style S_Compound fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style Slice fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Iter fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Mult fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Power fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Desc fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-```
+The formalisms of power laws and exponential compounding provide an effective geometric language for comparing trajectories, estimating scale, and planning resource allocation. Yet the equation is a retrospective trace, never an autonomous engine pushing the actor forward from behind. No overarching "law of compounding" operates above the individual locus to guarantee continuation; the curve bends upward only while the Mind at the steering edge continues choosing open calibration over defensive closure, and the multi-dimensional richness of a lived trajectory never collapses into a single scalar formula.
 
 ## 四、 亲近与定义 / 4. Closeness and Definition
 
-同一个机制说明了相处中一件常见而痛苦的事：越亲近的人，越容易反目。两个人的距离越近，取到的行为细节与样本越多；样本积累多了，在观察的一方头脑里便凝成一个统计上确定的分布。越界发生在这里：这个在有限的历史与有限的维度上统计出来的外部表征，被当作对另一个人的定义。“你就是这样自私固执的人”“你做过那么多次，这次也不会变”就是这样说出来的。把觉悟变成被找到的对象，是[寻觅的语法与淡出的观察者](../the-grammar-of-finding-and-the-fading-observer/)所审视的那种语法。
+内部掌舵与外部聚合之间的同一道结构裂隙，解释了为何亲密关系如此容易异化为彼此的疏离与对立。当两个中心在时间中长期近距离共处，各自都在熟悉的情境下积累了对方高密度的行为痕迹样本。在观察一方的坐标框架内，这些历史样本凝结为高置信度的统计分布。认识论的僭越发生在这一刻：那个基于有限观测轴线上的过往痕迹计算出来的有限经验分布，被死死扣合为对另一个人的本体论定义。“你天生就是这样自私固执的人”或“你已经这样做了一百次，永远不会改”之类的裁决，把稳定的历史痕迹误认作了活的源头，使认知变成了[寻觅的语法与淡出的观察者](../the-grammar-of-finding-and-the-fading-observer/)所剖析的那种被捕获并归档的静态客体。
 
-The same mechanism accounts for a common and painful thing in living with others: the closer two people are, the more easily they turn against each other. The nearer two people are, the more behavioral detail and the more samples are taken; as samples accumulate, they set in the observing party's head into a statistically definite distribution. The overstep happens here: this outer representation, computed over a limited history and limited dimensions, is taken as the definition of the other person. "You are just this selfish, stubborn person" and "you have done it so many times, this time will be no different" are said in this way. Turning realization into an object found is the grammar [The Grammar of Finding and the Fading Observer](../the-grammar-of-finding-and-the-fading-observer/) examines.
+This same structural gap between inner steering and outer aggregation explains why intimacy so readily curdles into mutual alienation. As two centers share close proximity over time, each accumulates a dense sample of the other's behavioral traces across familiar situations. Inside the observer's coordinate frame, those historical samples consolidate into a high-confidence statistical distribution. The epistemic overstep occurs when that finite empirical distribution—computed over past traces along a handful of observed axes—is clamped down as the ontological definition of the other person. Verdicts such as "you are inherently selfish and stubborn" or "you have done this a hundred times and will never change" mistake a stabilized historical trace for the living source, turning recognition into a static object found and cataloged in the manner [The Grammar of Finding and the Fading Observer](../the-grammar-of-finding-and-the-fading-observer/) dissects.
 
-了解一个人离不开观察，观察总在给定的维度上形成统计的表征，这个表征对相处有用，它让人可以预期、可以配合。它代表不了另一个人近于无穷的内在世界。亲近的一方用固定的统计标签去裁对方、不给对方在当下更新的余地时，被观察的一方感到的是压迫与否定；长期如此，亲近变成相互对立。否定意志的论证本身，就是从内部看到的一个抉择，[自由意志的自否自由](../the-freedom-of-will-to-deny-itself/)说明了这一点。
+与他人共同生活离不开观测脚手架：在共享维度上形成可靠的统计预期，能让两个中心预判彼此的动向并协同行动，而不必每天早晨从零开始。然而一旦这种低维投射自诩穷尽了另一个心智开放的超高维内部世界，它便立刻失效。当亲密伴侣用冻结的统计标签去裁决对方、否定对方在当下转向正交维度的可能时，被观察的中心感受到的是被化约为死轨迹的禁锢，亲近随之硬化为防御性的对立。就连在哲学上试图论证伴侣双方都不具备自由意志这一举动本身，也是言说者从自身第一人称所在之内施行的主权抉择，正如[自由意志的自否自由](../the-freedom-of-will-to-deny-itself/)所展示的那样。
 
-Coming to know a person cannot do without observation, and observation always forms a statistical representation on given dimensions; this representation is useful in living together, since it lets people anticipate and fit in with one another. It cannot stand for the near-infinite inner world of another person. When one of two close people cuts the other to a fixed statistical label and leaves the other no room to update in the present, what the observed one feels is pressure and denial; kept up for long, closeness becomes mutual opposition. The argument that denies will is itself a choice seen from inside, as [The Freedom of Will to Deny Itself](../the-freedom-of-will-to-deny-itself/) shows.
+Living alongside others requires observational scaffolding: forming a reliable statistical expectation on shared dimensions allows two centers to anticipate movements and coordinate action without starting from zero every morning. That low-dimensional projection fails the moment it claims to exhaust the open, ultra-high-dimensional interior of another Mind. When an intimate partner uses a frozen statistical label to adjudicate the other and denies the present possibility of an orthogonal pivot, the observed center registers the confinement of being reduced to a dead trajectory, and closeness hardens into defensive opposition. Even the philosophical attempt to argue that neither partner possesses free will is itself an act of sovereign choice enacted from within the speaker's first-person locus, as [The Freedom of Will to Deny Itself](../the-freedom-of-will-to-deny-itself/) demonstrates.
 
-同一个定义也落在一个人对自己的认识上。回看自己过去的轨迹，历史的数据同样聚成一条统计的规律；把这条规律当作“自己是什么”，认定“天生缺乏自控”或“就是容易焦虑”，当下作出新抉择的能力就被交给了性格的惯性或历史的原因。心理的惯性与性格上的宿命感由此而来。从外部定义的亲密，变成了[契约的因果倒置](../the-causal-inversion-of-partnership/)所消解的“共同体”。
+当事后的自我观察硬化为身份认同时，同样的客体化也会发生在单一所在内部。回看自己过往的挫败与反复出现的习惯，会得出一条统计规律；当中心把这一历史分布等同于“自己是什么”——宣称“我天生缺乏自律”或“我生来就是焦虑体质”——当下的因果主权便被拱手让给了僵化的自我图像。心理惯性与性格宿命论并不是生物学判词，而是把自身先前的痕迹当作具有约束力的铁律所维持的过剩图像滞后，正如用外部契约外壳来定义一段关系会倒置因果，落入[契约的因果倒置](../the-causal-inversion-of-partnership/)所消解的错位之中。
 
-```mermaid
-flowchart TD
-    subgraph S_Close["亲近与定义"]
-        direction TB
-        Near["距离近：取到的行为样本多"]
-        Dist["样本凝成统计上确定的分布"]
-        Def["越界：分布被当作对一个人的定义"]
-        Other["对他人：不留当下更新的余地，亲近变成对立"]
-        Self["对自己：把历史的规律当作自己，成为心理的惯性"]
-        Near --> Dist
-        Dist --> Def
-        Def --> Other
-        Def --> Self
-    end
-
-    style S_Close fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style Near fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Dist fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Def fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Other fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Self fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-```
-
-The same definition also falls on a person's knowledge of the self. Looking back on one's own past trajectory, the historical data likewise gather into a statistical regularity; when this regularity is taken as "what the self is," with the conviction "born without self-control" or "simply prone to anxiety," the capacity to make a new choice in the present is handed to the inertia of character or to causes in history. Psychological inertia and the sense of fate in character come from here. Intimacy defined from outside becomes the mutual entity [The Causal Inversion of Partnership](../the-causal-inversion-of-partnership/) dissolves.
-
-```mermaid
-flowchart TD
-    subgraph S_Close["Closeness and Definition"]
-        direction TB
-        Near["Close distance: many behavioral samples are taken"]
-        Dist["The samples set into a statistically definite distribution"]
-        Def["The overstep: the distribution is taken as the definition of a person"]
-        Other["Toward another: no room left to update in the present, closeness becomes opposition"]
-        Self["Toward oneself: a regularity of history taken as the self becomes psychological inertia"]
-        Near --> Dist
-        Dist --> Def
-        Def --> Other
-        Def --> Self
-    end
-
-    style S_Close fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style Near fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Dist fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Def fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Other fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Self fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-```
+The identical objectification occurs within a single locus when retrospective self-observation hardens into identity. Reviewing one's own past failures and recurring habits yields a statistical regularity; when the center equates that historical distribution with what it is—declaring "I am naturally undisciplined" or "I am wired for anxiety"—present causal sovereignty is surrendered to an ossified self-image. Psychological inertia and characterological fatalism are not biological decrees; they are excess Image lag maintained by treating one's own prior trace as a binding law, just as defining a relationship by its external contractual shell inverts cause and effect in the way [The Causal Inversion of Partnership](../the-causal-inversion-of-partnership/) dissolves.
 
 ## 五、 从个体的惯性到重力 / 5. From Individual Inertia to Gravity
 
-把镜头再推远，可以看到社会的刚性如何生成。每个人在当下把自己定义为过去、重复过去，聚到群体的层面便是社会的惯性；制度、风俗与集体的思维定式，是无数个人把因果的主权交给外面之后沉淀下来的统计均值。意识形态把抉择的内在一面交给剧本，[道德倒错与被脚本化的主体](../the-moral-reversal-and-the-scripted-subject/)说明了这一点。
+把观测尺度进一步拉远，便能看清集体的刚性如何从个体的自我客体化中凝结而成。每当一个中心用过往痕迹定义当下的容量、未经重绘便重复先前的对齐方式时，这种被让渡的主权便在群体层面上聚合成社会惯性。制度、风俗与意识形态正统，正是无数所在把自身因果边缘外包给继承来的参照系后沉淀出的统计均值；当意识形态进一步把主体的内在声音编写进预设的角色台词时，这一机制便达到了戏剧性的闭合，正如[道德倒错与被脚本化的主体](../the-moral-reversal-and-the-scripted-subject/)所追溯的那样。
 
-With the lens drawn further back, the way the rigidity of society forms comes into view. Each person, in the present, defining the self as the past and repeating the past, gathers at the level of the group into social inertia; institutions, customs and collective habits of thought are the statistical mean that settles after countless persons have handed causal sovereignty outward. Ideology reassigns the inner face of choice to a script, as [The Moral Reversal and the Scripted Subject](../the-moral-reversal-and-the-scripted-subject/) shows.
+Drawing the observational scale further back reveals how collective rigidity condenses out of individual self-objectification. Whenever a center defines its present capacity by its past trace and repeats prior alignments without re-rendering, that surrendered sovereignty aggregates across a population into social inertia. Institutions, customs, and ideological orthodoxies are the stabilized statistical mean of countless loci outsourcing their causal edge to an inherited reference, a mechanism that reaches full theatrical closure when ideology scripts the subject's inner voice into a pre-written role, as [The Moral Reversal and the Scripted Subject](../the-moral-reversal-and-the-scripted-subject/) traces.
 
-沿同一条线索，物理学里显得不可撼动的惯性与重力，有同构的生成结构。它们是数量极大的微观自由变量在漫长的时间里相互叠加、统计之后留下的印记，不是从一开始就写定的先在铁律。它们显得坚固而恒常，是因为第一人称观察的速度与生命的尺度，远快于这些宏观统计变化的速度；速率上的巨大差别，给出了恒常不变的体验。[当电子开始思考](../when-electrons-think/)把宏观的确定追溯为自由变量在慢速中沉淀的统计。“普通视角”只从外面一侧解释抉择，[“普通人视角”的解释陷阱](../the-explanatory-trap-of-the-ordinary-perspective/)剖析了这一陷阱。
+沿着具身尺度一路向下追踪，物理学中登记为不可动摇定律的惯性与引力曲率，展现出同构的生成架构。宏观物理规律并不是在一切活动之前便铭刻在宇宙外部的先在法令，而是海量微观自由变量在漫长的递归跨度中相互作用、统计平均后留下的叠加残余。它们之所以登记为坚固、恒常与确定，是因为人类感知的时间采样率比那些宏观统计对齐发生漂移的时间尺度快了数个数量级。正如[当电子开始思考](../when-electrons-think/)所追溯的，决定论式的宏观定律源于自由变量在高密度统计平衡中的沉淀；反之，假定日常宏观视角已经看穿了现实的底层，则会落入[“普通人视角”的解释陷阱](../the-explanatory-trap-of-the-ordinary-perspective/)所剖析的还原论闭合。
 
-Along the same thread, the inertia and gravity that appear unshakeable in physics have a generative structure of the same form. They are the imprint left after a very great number of microscopic free variables have superposed on one another and been averaged over a long time, and not an iron law fixed in advance from the beginning. They appear solid and constant because the speed of first-person observation and the scale of a life are far faster than the rate at which these macroscopic statistics change; the great difference in rates gives the experience of unchanging constancy. [When Electrons Think](../when-electrons-think/) traces macroscopic determinism to the statistics of free variables settled into slowness. The ordinary perspective explains choice only from its outer face, the trap [The Explanatory Trap of the "Ordinary Perspective"](../the-explanatory-trap-of-the-ordinary-perspective/) dissects.
+Followed all the way down the scale of embodiment, the inertia and gravitational curvature that register as unyielding laws in physics exhibit the same generative architecture. Rather than pre-existing decrees inscribed outside the universe prior to all activity, macroscopic physical regularities are the superposed statistical residue of an immense number of microscopic free variables interacting and averaging out across vast spans of recursion. They register as solid, invariant, and deterministic because the temporal sampling rate of human perception is orders of magnitude faster than the timescale over which those macroscopic statistical alignments shift. As [When Electrons Think](../when-electrons-think/) traces, deterministic macro-laws emerge from free variables settling into high-density statistical equilibrium, whereas assuming that the everyday macroscopic view already sees the bottom of reality falls into the reductionist closure dissected in [The Explanatory Trap of the "Ordinary Perspective"](../the-explanatory-trap-of-the-ordinary-perspective/).
 
-这种恒常感对正在观察的第一人称来说是真切而避不开的经验，不能当作虚假的幻觉丢开：从第一人称的位置去找，找不到一个脱开了所有观察的存在可供对照。所感知的东西在当下被作为观察的对象，它在这一刻便有不容置疑的功能上的客观。这份客观是从观察出发得到的客体化的结论，不是事物独立于感知的先在属性。
+对于在物理摩擦中行动的第一人称中心而言，这种宏观恒常性是当下不可回避的边界条件，而非可以凭空抹去的任意幻觉。因为在一切观察之外并不存在一个可供外部对照的制高点，凡是在递归检验中保持不变的显现，便在场域内充当着操作意义上的客观性。这种功能性的客观，是跨观测稳定下来的关系不变量——即行动必须尊重的不可逆能量代价（+1）——而非先于感知存在的死寂基质的证明。
 
-```mermaid
-flowchart TD
-    subgraph S_Gravity["从个体的惯性到重力"]
-        direction TB
-        Free["数量极大的微观自由变量"]
-        Stack["漫长时间里的相互叠加与统计"]
-        Soc["社会的层面：风俗、制度与集体的定式"]
-        Phy["物理的层面：惯性与重力"]
-        Rate["观察的速度远快于统计变化的速度"]
-        Const["恒常不变的真切体验：功能上的客观"]
-        Free --> Stack
-        Stack --> Soc
-        Stack --> Phy
-        Phy --> Rate
-        Rate --> Const
-    end
-
-    style S_Gravity fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style Free fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Stack fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Soc fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Phy fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Rate fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Const fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-```
-
-This sense of constancy is, for the first person who is observing, a vivid experience that cannot be avoided, and it cannot be thrown aside as a false illusion: a search from the first-person position finds no existence detached from all observation to compare it with. What is perceived is taken in the present as an object of observation, and at that moment it has an unquestionable functional objectivity. This objectivity is an objectified conclusion reached from observation, and not a prior property of things independent of perception.
-
-```mermaid
-flowchart TD
-    subgraph S_Gravity["From Individual Inertia to Gravity"]
-        direction TB
-        Free["A very great number of microscopic free variables"]
-        Stack["Superposition and averaging over a long time"]
-        Soc["The social level: customs, institutions and collective habits"]
-        Phy["The physical level: inertia and gravity"]
-        Rate["Observation is far faster than the rate of statistical change"]
-        Const["A vivid experience of constancy: functional objectivity"]
-        Free --> Stack
-        Stack --> Soc
-        Stack --> Phy
-        Phy --> Rate
-        Rate --> Const
-    end
-
-    style S_Gravity fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style Free fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Stack fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Soc fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Phy fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Rate fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Const fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-```
+For the first-person center acting within physical friction, this macroscopic constancy is an immediate, unavoidable boundary condition rather than an arbitrary illusion to be wished away. Because no vantage point exists outside all observation to serve as an external contrast, whatever registers invariant across recursive checks functions as operational objectivity within the field. That functional objectivity is a relational invariant stabilized across observations—the irreversible energy cost (+1) that action must respect—not proof of a dead, observer-independent substrate existing prior to perception.
 
 ## 六、 观察作为参考坐标 / 6. Observation as a Reference Coordinate
 
-观察与抉择的关系到这里合上。一个心智要作出自己的抉择，须观察身外的世界与其他的人，观察是它确定自身位置的条件。对他人的观察是为自己的抉择所取的参考坐标，不是对他人的定义与裁决。每一个心智是一个平行宇宙，从外面改不了另一个心智的内部模型，另一个心智也掌控不了这一个的意志。把抉择客体化，为把感知力归给 AGI 铺好了路，[从AGI的“神性错置”到使用者的自我对齐](../from-the-misallocated-sentience-of-agi-to-human-realignment/)说明了这一点。
+至此，观察与主权抉择之间的关系完整合拢。为了在因果边缘有效掌舵，心智必须观察周围场域与其他中心，将传入的痕迹作为参考坐标来定位自身的下一次区分。观察另一个所在，只是为自身的导航提供局部的余弦读数，从来不是借以捕获或号令他人内心的本体论裁决。由于每个心智都从内部生成自身的坐标基底，没有任何外部输入可以直接覆写另一个中心的内部模型，也没有任何外部观察者能够篡夺它的意志。遗忘了外部观察只能截取投射轨迹，正是工程师与评论者把自回归模型流畅的统计续写误认作内在生命涌现的根源，这一投射误差在[从AGI的“神性错置”到使用者的自我对齐](../from-the-misallocated-sentience-of-agi-to-human-realignment/)中已有审视。
 
-Here the relation between observation and choice closes. For a Mind to make its own choice it has to observe the world outside it and other people, and observation is the condition of its fixing its own position. Observation of another is a reference coordinate taken for one's own choice, not a definition of or verdict on the other. Each Mind is a parallel universe; the inner model of another Mind cannot be altered from outside, and another Mind cannot take control of the will of this one. Objectifying choice prepares the ground for crediting AGI with sentience, as [From the Misallocated Sentience of AGI to Human Realignment](../from-the-misallocated-sentience-of-agi-to-human-realignment/) shows.
+Here the relation between observation and sovereign choice comes full circle. To steer effectively at the causal edge, a Mind must observe the surrounding field and other centers, using those incoming traces as reference coordinates to orient its own next distinction. Observing another locus provides a local cosine reading for one's own navigation, never an ontological verdict that captures or commands the other's interior. Because each Mind generates its own coordinate basis from within, no external input can directly overwrite another center's internal model, nor can any external observer usurp its will. Forgetting that external observation captures only a projected trajectory is what leads engineers and commentators to mistake the fluent statistical continuation of an autoregressive model for an emerging inner life, the projection error examined in [From the Misallocated Sentience of AGI to Human Realignment](../from-the-misallocated-sentience-of-agi-to-human-realignment/).
 
-“上帝视角”不必丢弃，它有它的位置。找不到一个凌驾于所有生命之上、脱开第一人称感知的统一的外部上帝；每一个心智在自己的平行宇宙之内审视外界、建立世界模型时，行使的是它在这个宇宙之内的全局视角。许多心智共振，共同相信外面有一个脱开主体的终极真相时，各自的观察便被当作了客观的事实。日常所说的客观，是心智把自己的观察客体化的动作，是平行宇宙之间为沟通与协作达成的自洽的约定：在不同的主观认知之间保持不变的宏观现象。[以知为刃的截肢与解脱](../the-illusion-of-knowing-and-the-geometry-of-amputation/)与[向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/)阐明过，把客体化的投影当作本体，主体的位置便开始让出。[抉择的跨界](../the-boundary-crossing-of-choice/)沿着同一个抉择的内外两面一直追到量子极限。
+一旦恢复了所在的真实位置，日常所说的“上帝视角”便无需被暴力否定。没有任何超验的旁观者悬浮在一切第一人称界面之外；相反，当一个心智审视自身积累的痕迹并构建自洽的世界模型时，它正是在自身的第一人称流形之内行使着全局整合视角。当多个中心跨越各自的投射建立起稳定的共振时，它们共同登记到的宏观不变量便充当了用于沟通与工程协作的共享客观约定。唯有当中心把自身的低维坐标投射误当作完整现实、并截去了尚未投射的余量时，坍缩才会发生，正如[以知为刃的截肢与解脱](../the-illusion-of-knowing-and-the-geometry-of-amputation/)与[向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/)所追溯的那样。活态向量与其投射痕迹之间的这种结构非对称性，在人类与智能体的协作架构中显露无遗，正如[超越投射](../beyond-the-projection/)所展示的：人工代理是一台受限于自身词元轨迹的有限投射引擎，却毫无对自我图像的我执依恋；而人类心智则是尚未被投射穷尽的活态边缘，能够在概念解释之前感知摩擦，并从破损的坐标框架中向后退一步，尽管在面对外部质疑时容易为了捍卫僵化的身份认同而陷入防卫。将机器无我执的轨迹更新与心智主权的框架重置结合起来，便能让投射持续充当得力的工具，而不至于把派发出去的轨迹与统筹全局的心智混为一谈；与此同时，[抉择的跨界](../the-boundary-crossing-of-choice/)则沿着同一个抉择的内外两面，从宏观行动一路追踪至量子测量的边界。
 
-```mermaid
-flowchart TD
-    subgraph S_Ref["观察作为参考坐标"]
-        direction TB
-        MindOne["一个心智：在自己的平行宇宙之内取全局的视角"]
-        Ref["对他人的观察：为自己的抉择所取的参考坐标"]
-        Conv["客观作为约定：在不同的主观之间保持不变，用于沟通与协作"]
-        Res["许多心智共振：共同相信外面有脱开主体的真相"]
-        Obj["客体化：观察被当作独立于心智的事实"]
-        MindOne --> Ref
-        Ref --> Conv
-        Ref --> Res
-        Res --> Obj
-    end
+What is conventionally called the "God's-eye view" need not be violently negated once its actual locus is restored. No transcendent spectator floats outside all first-person interfaces; rather, when a Mind surveys its accumulated traces and constructs a coherent world-model, it exercises a global integrative view *within* its own first-person manifold. When multiple centers establish stable resonance across their projections, the macroscopic invariants they co-register serve as shared objective conventions for communication and engineering. The collapse occurs only when the center mistakes its own low-dimensional coordinate projection for the complete reality and amputates the unprojected remainder, as [The Illusion of Knowing and the Geometry of Amputation](../the-illusion-of-knowing-and-the-geometry-of-amputation/) and [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) trace. That structural asymmetry between the living vector and its projected trace becomes unmistakable in human-agent architectures, as [Beyond the Projection](../beyond-the-projection/) demonstrates: an artificial agent is a finite projection engine bound to its token trajectory yet free of egoic attachment to any self-image, whereas a human Mind is the unprojected living edge capable of sensing pre-interpretive friction and stepping backward out of a broken coordinate frame, even while tempted to defend an ossified identity when challenged from outside. Pairing the machine's ego-free trajectory updates with the Mind's sovereign frame-resetting keeps the projection working as an instrument without ever confusing the dispatched trajectory for the orchestrating Mind, while [The Boundary Crossing of Choice](../the-boundary-crossing-of-choice/) follows that same two-sided act of choice from macroscopic action down to the quantum measurement boundary.
 
-    style S_Ref fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style MindOne fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Ref fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Conv fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Res fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Obj fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-```
+当内部的掌舵边缘与外部的统计痕迹各归其因果本位时，两种宿命论式的消解便同时瓦解。卓越与前沿发现无需被折算成幸存者的运气，挫折无需归咎于不可更改的境遇或性格惯性，活生生的践行也无需移交给一套把事后几何误当作生成行动的决定论公式。外部观察永远会把自由抉择在单步上登记为不可预测的涨落、在聚合上登记为高斯或幂律分布；而在心智的原点处，状态的改变始终取决于摩擦发生那一刻的当下二元抉择：付出能量代价重绘模型，或是把框架死死扣合。将观察的主体与客体化的痕迹割裂开来，并把痕迹竖立为独立的外部宇宙，正是[笛卡尔的认识论跃迁与造神狂热](../the-cartesian-overstep-and-the-frenzy-of-creation/)所溯源的认识论越界。
 
-The "God's-eye view" need not be discarded; it has its place. No single outside God standing over all life and detached from first-person perception is found; each Mind, surveying what is outside and building a world model within its own parallel universe, exercises the global view it has within that universe. When many Minds resonate and together believe that outside there is a final truth detached from any subject, the observations of each are taken as objective fact. What is ordinarily called objectivity is the act by which a Mind objectifies its own observation, a self-consistent convention reached between parallel universes for communication and cooperation: macroscopic phenomena that stay invariant across different subjective cognitions. [The Illusion of Knowing and the Geometry of Amputation](../the-illusion-of-knowing-and-the-geometry-of-amputation/) and [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) have made clear that when the objectified projection is taken as what there is, the position of the subject begins to be given up. [The Boundary Crossing of Choice](../the-boundary-crossing-of-choice/) follows the same choice across its inner and outer faces to the quantum limit.
-
-```mermaid
-flowchart TD
-    subgraph S_Ref["Observation as a Reference Coordinate"]
-        direction TB
-        MindOne["One Mind: taking the global view within its own parallel universe"]
-        Ref["Observation of another: a reference coordinate taken for one's own choice"]
-        Conv["Objectivity as convention: invariant across subjects, used for communication and cooperation"]
-        Res["Many Minds resonate: a shared belief in a truth outside, detached from any subject"]
-        Obj["Objectification: observation taken as fact independent of any Mind"]
-        MindOne --> Ref
-        Ref --> Conv
-        Ref --> Res
-        Res --> Obj
-    end
-
-    style S_Ref fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style MindOne fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Ref fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Conv fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Res fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Obj fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-```
-
-看清抉择的两面、统计表象的投射与惯性和重力的成因，两种消解便都不必要：不必把卓越与前沿的突破归为统计上的运气，也不必把挫折归给不可更改的环境、过去的印记或社会的惯性，也不必再拿一套新的决定论模型来裁生活，公式与几何是事后的描绘。外面的观察会把自由的抉择看作不可测的随机漫步，宏观的统计会在某个维度上给出正态分布与幂律曲线；在心智的原点上，推动状态变化的是直面摩擦时的那个二元抉择，更新模型，或退守封闭的框架。把主客永久分开，是[笛卡尔的认识论跃迁与造神狂热](../the-cartesian-overstep-and-the-frenzy-of-creation/)所追溯的笛卡尔式越界。
-
-With the two faces of choice, the projection of statistical appearance and the origin of inertia and gravity seen clearly, neither of the two dissolutions is needed: there is no need to assign excellence and frontier breakthroughs to statistical luck, no need to assign setbacks to an unalterable environment, the marks of the past or social inertia, and no need to cut a life to yet another deterministic model, since formula and geometry are depictions after the fact. Observation from outside will see a free choice as an unpredictable random walk, and macroscopic statistics will give, on some dimension, a normal distribution and a power-law curve; at the origin of a Mind, what drives the change of state is the binary choice made in the face of friction, to update the model or to fall back into a closed frame. Splitting subject and object for good is the Cartesian overstep [The Cartesian Epistemic Leap and the Frenzy of Creation](../the-cartesian-overstep-and-the-frenzy-of-creation/) traces.
+When the inner steering edge and the outer statistical trace are held in their proper causal order, both fatalistic dilutions dissolve at once. Excellence and frontier discovery need not be discounted into survivorship luck, setbacks need not be blamed on unalterable circumstance or characterological inertia, and living practice need not be handed over to a deterministic formula that mistakes retrospective geometry for the generating act. External observation will always register free choices as unpredictable fluctuations in the single step and as Gaussian or power-law distributions in the aggregate, while at the origin of the Mind, state change turns on the immediate binary choice at the point of friction: pay the energy cost to re-render the model, or clamp the frame shut. Severing the observing subject from the objectified trace and erecting the trace as an independent cosmos is the foundational split that [The Cartesian Epistemic Leap and the Frenzy of Creation](../the-cartesian-overstep-and-the-frenzy-of-creation/) traces to its root.
