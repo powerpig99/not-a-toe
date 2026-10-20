@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T16:19:38.551Z",
+    "generated_at": "2026-10-20T16:24:14.733Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -393,7 +393,7 @@
       "content/posts/why-explanation-fails.md": "4bd98e24db9a",
       "content/posts/why-mathematics-can-never-be-solved.md": "1017f7f60c31",
       "content/posts/writing-without-the-image.md": "11cc852e032a",
-      "content/posts/xian-shi-de-bian-jie.md": "6e6081ad0bfa",
+      "content/posts/xian-shi-de-bian-jie.md": "ae55999c31e6",
       "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "8f1c010c5bfd",
       "content/posts/you-cant-benchmark-the-fluid.md": "5e3f42fa5041",
       "content/posts/you-tiao-jian-de-zi-you.md": "d7c121819589",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9303,
-      "unique_directed": 4726,
+      "edges": 9307,
+      "unique_directed": 4727,
       "missing_targets": 0,
-      "one_way": 248,
+      "one_way": 249,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -441,7 +441,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 95
+      "in_degree": 96
     },
     {
       "slug": "openness-is-consistency",
@@ -1069,7 +1069,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 95,
+      "in_degree": 96,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -9834,13 +9834,14 @@
       "slug": "xian-shi-de-bian-jie",
       "path": "content/posts/xian-shi-de-bian-jie.md",
       "title": "现实的边界 / The Boundary of Reality",
-      "hash": "6e6081ad0bfa",
+      "hash": "ae55999c31e6",
       "in_degree": 13,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "the-strongest-belief-of-the-mind",
-        "the-model-never-becomes-a-second-edge",
         "qian-yin-hou-guo",
+        "the-model-never-becomes-a-second-edge",
+        "beyond-the-projection",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
         "not-a-theory-of-everything",
         "causality-all-the-way",
@@ -64511,19 +64512,13 @@
       "from": "xian-shi-de-bian-jie",
       "to": "the-strongest-belief-of-the-mind",
       "rel": "points_to",
-      "label": "对第一因与终极的执念"
+      "label": "心智最坚固的信念"
     },
     {
       "from": "xian-shi-de-bian-jie",
       "to": "the-strongest-belief-of-the-mind",
       "rel": "points_to",
-      "label": "The hold on a first cause and an ultimate ground"
-    },
-    {
-      "from": "xian-shi-de-bian-jie",
-      "to": "the-model-never-becomes-a-second-edge",
-      "rel": "points_to",
-      "label": "模型永远无法成为第二重前沿"
+      "label": "The Strongest Belief of the Mind"
     },
     {
       "from": "xian-shi-de-bian-jie",
@@ -64535,13 +64530,31 @@
       "from": "xian-shi-de-bian-jie",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
-      "label": "The Model Never Becomes a Second Edge"
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "xian-shi-de-bian-jie",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
     },
     {
       "from": "xian-shi-de-bian-jie",
       "to": "qian-yin-hou-guo",
       "rel": "points_to",
       "label": "Cause Before, Effect After"
+    },
+    {
+      "from": "xian-shi-de-bian-jie",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "xian-shi-de-bian-jie",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "xian-shi-de-bian-jie",
@@ -64559,7 +64572,7 @@
       "from": "xian-shi-de-bian-jie",
       "to": "not-a-theory-of-everything",
       "rel": "points_to",
-      "label": "非万物之理（因果的二重性）"
+      "label": "非万物之理"
     },
     {
       "from": "xian-shi-de-bian-jie",
@@ -64589,7 +64602,7 @@
       "from": "xian-shi-de-bian-jie",
       "to": "manifesto-of-not-a-theory-of-everything",
       "rel": "points_to",
-      "label": "Not a Theory of Everything manifesto"
+      "label": "Not a Theory of Everything"
     },
     {
       "from": "xian-shi-de-bian-jie",
@@ -64637,7 +64650,7 @@
       "from": "xian-shi-de-bian-jie",
       "to": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
       "rel": "points_to",
-      "label": "Knowing That You Don’t Know Is a Rhetorical Illusion"
+      "label": "Knowing That You Don't Know Is a Rhetorical Illusion"
     },
     {
       "from": "xian-shi-de-bian-jie",
@@ -64650,6 +64663,12 @@
       "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "rel": "points_to",
       "label": "目的性的评判与认知的缺省状态"
+    },
+    {
+      "from": "xian-shi-de-bian-jie",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
     },
     {
       "from": "xian-shi-de-bian-jie",
@@ -64668,6 +64687,12 @@
       "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "rel": "points_to",
       "label": "Judging by Purpose and the Default State of Cognition"
+    },
+    {
+      "from": "xian-shi-de-bian-jie",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "xian-shi-de-bian-jie",

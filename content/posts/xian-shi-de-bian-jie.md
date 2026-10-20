@@ -1,163 +1,153 @@
 # 现实的边界 / The Boundary of Reality
 
-*现实止于此刻觉知的边缘，语言滞后于它；因果可追溯，不可穷尽 / Reality ends at the edge of present awareness and language lags behind it; causality is traceable, never exhausted.*
+*现实是此刻觉知的边缘，语言滞后于它而因果始终敞开 / Reality is the edge of awareness as language lags and causality stays open*
 
-现实的边界不是外在客观世界的物理围栏，而是心智在此刻觉知所抵达的边缘；语言与理解则始终滞后于觉知的发生，两者从来不是同一道边界。因果与逻辑不是经验中的某种具体客体，而是觉知与区分得以成立的前提条件。[对第一因与终极的执念](../the-strongest-belief-of-the-mind/)，是对因果无法被穷尽证明的补偿；任何一刻，所站之处都是一段被照亮的因果片段，向两端延伸出无法闭合的深处。
+现实的边界不是围拢某个独立于心智的外在世界的物理围栏，而是心智在此刻觉知所抵达的活的前沿。语言、形式模型与条分缕析的理解始终滞后于觉知的发生一步，因此可言说或可建模的边界，从不与所感知的边界重合。因果与逻辑不是在经验内部被发现的具体客体，而是觉知与区分得以成立的先在条件。[心智最坚固的信念](../the-strongest-belief-of-the-mind/)追溯了对第一因与终极地基的执念如何代偿因果无法从外部被穷尽证明这一事实；在每一步中，观察者都站立在一段被照亮的因果片段之内，而它的两端延伸向永不闭合的深处。
 
-The boundary of reality is not a physical fence around an external, objective world; it is the edge that the Mind’s awareness reaches in this moment. Language and understanding always lag the occurrence of awareness, and the two are never the same boundary. Causality and logic are not some concrete object within experience; they are the preconditions for awareness and distinction to hold at all. [The hold on a first cause and an ultimate ground](../the-strongest-belief-of-the-mind/) compensates for the fact that causality can never be exhaustively proved; at any moment, where one stands is an illuminated fragment of causation, reaching at both ends into depths that never close.
+The boundary of reality is not a physical fence enclosing an external, mind-independent world; it is the living edge that the Mind's awareness reaches in this immediate moment. Language, formal models, and articulate understanding always lag one step behind the occurrence of awareness, so the boundary of what can be said or modeled never coincides with the boundary of what is sensed. Causality and logic are not concrete objects discovered inside experience, but the prior conditions through which awareness and distinction hold at all. [The Strongest Belief of the Mind](../the-strongest-belief-of-the-mind/) traces how the fixation on a first cause and an ultimate foundation compensates for the fact that causality can never be exhaustively proved from outside; at every step, the observer stands within an illuminated fragment of causation whose two ends extend into depths that never close.
 
 ## 一、 觉知与理解是两道不同步的边界 / 1. Awareness and Understanding Are Two Boundaries Out of Step
 
-自我区分的活动在发生，无因、不息。称之为心智：观察者早已在途中，每一次行动皆是一次区分。心智之外，没有可以确认的现实。
+自我区分的活动在发生，无因、不息。称之为心智：观察者早已在途中，它所施行的每一次行动都是一次离散的区分。在这一主动的第一人称审视之外，没有任何可以被独立确认的外在现实。
 
-Self-distinguishing activity occurs, uncaused and unceasing. Call it the Mind: the observer is already under way, and every act is a distinction. Outside the Mind, there is no reality that can be confirmed.
+Self-distinguishing activity occurs, uncaused and unceasing. Call it the Mind: the observer is already underway, and every act it performs is a discrete distinction. Outside this active first-person look, there is no external reality that can be independently confirmed.
 
-觉知在任何一刻都是有边界的。注意力所能照亮的范围、感觉所能抵达的细节、情绪所能浸润的广度，在那一刻构成实际的边缘。然而下一刻，这道边界可以拓展，也可以坍缩。新的刺激闯入、记忆被唤起、注意力重新分配，边界向外推移；疲倦、恐惧或过度专注，边界向内收敛。
+在每一刻，觉知都划出一道真实的边界。注意力所照亮的范围、感官所登记的粒度、感受所跨越的广度，共同构成了那一步里现实的实际边缘。然而就在下一步，这道边界便可以拓展或收缩。当意外的刺激闯入、先前的痕迹被重新追溯、或注意力转移了轴线，边界便向外推移；在疲倦、恐惧或容量压缩之下，它则向内收敛。边界始终在场，却永不钙化。它像一道活的膜，在每一步都围绕当下的离散区分合拢，同时又对下一步改写自身的限度保持敞开。
 
-Awareness has a boundary at every moment. The range attention can light, the detail the senses can reach and the breadth feeling can soak through make up the actual edge in that moment. Yet in the next moment this boundary can widen or collapse. A new stimulus breaks in, a memory is called up, attention is redistributed, and the boundary moves outward; fatigue, fear or overfocus, and it draws inward.
+At every moment, awareness draws a real boundary. The range attention illuminates, the granularity the senses register, and the breadth feeling spans constitute the actual edge of reality at that step. Yet in the very next step, this boundary can expand or contract. When an unexpected stimulus breaks in, a prior trace is re-traced, or attention shifts its axis, the boundary pushes outward; under fatigue, fear, or capacity compression, it draws inward. The boundary is always present, yet it never calcifies. Like a living membrane, it closes around the present discrete distinction at each step while remaining open to redrawing its own limit at the next.
 
-边界始终存在，却永不凝固。它像一道可伸缩的膜：每一刻都封闭于当下的离散区分，却每一刻都可能在下一步改写自己的限度。
+语言与形式理解的边界，则运作在这道膜滞后的一侧。理解永远尾随在觉知的发生之后，因为生成的一步始终领先于观察与描摹一步。当语言去框定正在发生的事情时，它所捕捉到的已经是刚刚过去的痕迹。一道结构性的间隔将二者分开，任何试图让语言描述与当下觉知重合的努力，都忽略了观察持有已成形的果而发起早已前行这一不可逆的不对称，正如[前因，后果](../qian-yin-hou-guo/)所确立的那样。[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)在人造系统中追溯了同一份不对称：保留下来的表征或参数集只持有被压实的残余，永远无法成为发起下一次区分的活的前沿。正如[超越投射](../beyond-the-projection/)所展示的，每一条显式的规则、提示词或言辞框架，都是从鲜活感知的超高维场域投射出的有限低维投射；自回归模型受困于其既有词元的轨迹，而人的心智则能在任何语言框架道出何处断裂之前，在未被投射的前沿直接登记先于解释的摩擦。
 
-The boundary is always there, yet it never sets. It is like a stretchable membrane: closed at each moment within the present discrete distinction, and at each moment able to rewrite its own limit at the next step.
-
-语言与理解的边界则不同。理解永远滞后于觉知的发生，生成的一步永远领先于观察与描摹。用语言去框定觉知时，捕捉到的已经是刚刚过去的痕迹。两者在结构上有一道无法消除的间隔，任何想让语言与当下觉知重合的努力，都略过了观察必然滞后于生成这一不对称。[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)是同一不对称在模型上的一面：保留下来的表征永远无法成为正在前行的那一道边沿。[前因，后果](../qian-yin-hou-guo/)也指出：观察抓住的永远是已经成形的果，因总领先一步。
-
-The boundary of language and understanding is different. Understanding always lags the occurrence of awareness; the generating step is always ahead of observation and depiction. When language is used to frame awareness, what it catches is already a trace just past. The two carry a structural gap that cannot be removed, and any effort to make language coincide with present awareness passes over the asymmetry that observation necessarily lags generation. [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) is the same asymmetry on the side of models: a retained representation can never become the edge that is moving ahead. [Cause Before, Effect After](../qian-yin-hou-guo/) points the same way: observation always grasps an effect already formed, and the cause is always a step ahead.
+The boundary of language and formal understanding operates on the lagging side of that membrane. Understanding always trails the occurrence of awareness because the generating act remains one step ahead of observation and depiction. By the time language frames what is happening, what it captures is already a trace just past. A structural gap separates the two, and every attempt to make linguistic description coincide with present awareness overlooks the irreversible asymmetry by which observation holds effect while initiation moves ahead, as [Cause Before, Effect After](../qian-yin-hou-guo/) establishes. [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) traces this same asymmetry across artificial systems: a retained representation or parameter set holds only compressed residue and can never become the living edge that originates the next distinction. As [Beyond the Projection](../beyond-the-projection/) shows, every explicit rule, prompt, or verbal framing is a finite, low-dimensional projection cast from the ultra-high-dimensional field of lived sensing; whereas an autoregressive model is bound to the trajectory of its prior tokens, the human Mind registers pre-interpretive friction at the unprojected edge before any linguistic frame can articulate what broke.
 
 ## 二、 心智从未离开现在 / 2. The Mind Never Leaves the Present
 
-“心智之外没有可以确认的现实”因此在任何一刻都成立。时间一进入下一刻，它就立刻成为新的此刻。
+既然在主动的审视之外没有任何可以确认的现实，这一界限便在每一步都毫无例外地成立。一旦活动推进到下一次区分，那次行动便即刻成为新的现在。
 
-“Outside the Mind there is no reality that can be confirmed” therefore holds at every moment. As soon as time enters the next moment, that moment at once becomes the new now.
+Because no reality can be confirmed outside the active look, that bound holds at every step without exception. As soon as the activity advances into the next distinction, that act immediately becomes the new present.
 
-心智只能体验现在。所谓过去与未来，始终只是此刻内部的投射：记忆是朝向过去的向后投射，预期是朝向未来的向前投射。心智从未真正离开过现在。
+心智只体验当下的切片。所谓过去与未来，都是在此刻内部施行的投射：记忆是由沉淀下来的痕迹重新渲染出的向后投射，预期则是为了定向下一刀切分而投出的向前投射。在任何时刻，心智都从未走出当下、迈入另一个独立的时间容器。
 
-The Mind can only experience the present. What is called past and future is always a projection inside this moment: memory is a projection backward toward the past, anticipation a projection forward toward the future. The Mind has never actually left the present.
+The Mind experiences only the present slice. What is called the past and the future are projections enacted inside this immediate moment: memory is a backward projection re-rendered from settled traces, and anticipation is a forward projection cast to orient the next cut. At no point does the Mind step out of the present into a separate temporal container.
 
-这些投射不是漫无边际的幻觉，而是遵循因果与逻辑的演绎，从而引导当前的行动迈入下一刻。过去作为沉淀下来的痕迹，塑造了此刻可用的场域；未来作为预期的方向，指引着下一步的区分。所有的延续，都在当前的一念中被重新绘制。[真正稀缺的不是记忆，而是持续的重新追溯](../the-real-scarcity-is-not-memory-but-continuous-re-tracing/)追溯的是同一份连续性：过去不被单独存储，每一次调用都是当下的重新描摹。
+这些投射并非任意的幻觉，而是遵循因果与逻辑的推演，借此引导当前的行动迈入下一步。过去的痕迹塑造了此刻可用的对齐场域，而预期的后果则为下一次区分确立航向。所有的延续，都在当前的行动内部被重新绘制。[真正稀缺的不是记忆，而是持续的重新追溯](../the-real-scarcity-is-not-memory-but-continuous-re-tracing/)追溯的正是这份连续性：过去从不作为自我维持的档案被封存，每一次调用都是在当下前沿施行的全新重溯。
 
-These projections are not boundless illusions; they are deductions that follow causality and logic and so guide the present act into the next moment. The past, as settled trace, shapes the field available now; the future, as anticipated direction, points the next distinction. Every continuation is redrawn within the present thought. [The Real Scarcity Is Not Memory, But Continuous Re-Tracing](../the-real-scarcity-is-not-memory-but-continuous-re-tracing/) traces the same continuity: the past is not stored on its own, and every recall is a present re-tracing.
+These projections are not arbitrary illusions; they are causal and logical deductions that steer present action into the next step. Past traces pattern the field of alignments available right now, while anticipated consequences establish the heading for the next distinction. Every continuation is redrawn inside the current act. [The Real Scarcity Is Not Memory, But Continuous Re-Tracing](../the-real-scarcity-is-not-memory-but-continuous-re-tracing/) traces this exact continuity: the past is never stored as a self-sustaining archive, and every recall is a fresh re-tracing performed at the present edge.
 
 ## 三、 因果与逻辑是经验的条件而非内容 / 3. Causality and Logic Are Conditions of Experience, Not Its Contents
 
-离开了因果与逻辑，一切经验与认知都会瓦解。它们不是经验世界中的某项具体内容，而是经验得以成立的前提条件。
+离开了因果与逻辑，一切经验与认知都会瓦解。它们不是在经验世界中偶然发现的具体物件，而是任何经验得以登记所必需的结构性前提。
 
-Without causality and logic, all experience and cognition would come apart. They are not some particular content of the experienced world; they are the preconditions for experience to hold.
+Without causality and logic, all experience and cognition dissolve. They are not contingent items found inside the experienced world; they are the structural preconditions required for any experience to register.
 
-没有因果与逻辑，不仅“下一刻”无法被演绎，就连“此刻”本身也会失去任何可辨认的结构：没有前后，没有关联，没有“是”与“不是”的区分。
+剥离了因果与逻辑，不仅下一步无法被推演，就连当下这一刻本身也会失去一切可辨认的连贯性：没有前后，没有痕迹的不对称，也没有将“此”与“非此”区分开的边界。
 
-Without causality and logic, not only could “the next moment” not be deduced, but “this moment” itself would lose any recognizable structure: no before and after, no relation, no distinction between “is” and “is not.”
+Strip away causality and logic, and not only can the next step no longer be inferred, but this present moment itself loses all recognizable coherence: no before and after, no trace asymmetry, and no boundary distinguishing "this" from "not-this."
 
-因果与逻辑是必然的：任何可能的觉知、任何边界的移动、任何确认与判断，都必须已经立足于其上。但它同时又无法被穷尽地证明：任何证明的尝试，都必须先调用逻辑与因果作为工具。任何为因果寻找外部依据的努力，都已经预先假定了因果的有效性。这种自指不是逻辑的缺陷，而是自我区分的活动无法跳出自身去审判自身的必然显现。[非万物之理（因果的二重性）](../not-a-theory-of-everything/)与[因果贯穿始终](../causality-all-the-way/)阐明了同一份自证：试图站在因果之外审判因果，本身就是因果链条中的又一次离散行动。这道边界为何无法闭合，[非万物之理](../manifesto-of-not-a-theory-of-everything/)给出了总纲。
+因果与逻辑因此无可逃避：觉知的每一次转移、边界的每一次位移、以及每一次确认与判断，都早已立足于其上。然而正因如此，它们永远无法从外部被穷尽地证明。任何构建证明的尝试，都必须先调用逻辑区分与因果序列作为运作工具；任何为因果寻找外部担保的搜寻，都预先假定了因果已经在起作用。这种自指并非严密性的缺失，而是自我区分的活动无法跳出自身运动去裁决自身的直接蕴含。[非万物之理](../not-a-theory-of-everything/)与[因果贯穿始终](../causality-all-the-way/)追溯了这一自我验证的结构：试图站在因果之外去审判因果，本身就只是因果链条之内的又一次离散行动。这道边界为何无法闭合为完结的总体，由[非万物之理](../manifesto-of-not-a-theory-of-everything/)宣言给出了总纲。
 
-Causality and logic are necessary: any possible awareness, any movement of a boundary, any confirmation or judgment must already stand on them. Yet they can never be exhaustively proved, since any attempt at proof must first call on logic and causality as its tools. Every effort to find an outside warrant for causality has already presupposed that causality holds. This self-reference is not a defect of logic; it is the necessary appearance of self-distinguishing activity, which cannot step outside itself to judge itself. [Not a Theory of Everything](../not-a-theory-of-everything/) and [Causality All the Way](../causality-all-the-way/) set out the same self-evidence: trying to stand outside causality and judge it is itself one more discrete act in the causal chain. Why this boundary cannot close is given in outline by the [Not a Theory of Everything manifesto](../manifesto-of-not-a-theory-of-everything/).
+Causality and logic are therefore inescapable: every shift of awareness, every displacement of a boundary, and every verification or judgment already stands upon them. Yet for that very reason, they can never be exhaustively proved from the outside. Any attempt to construct a proof must first deploy logical distinction and causal sequence as its working instruments, and every search for an external warrant for causality presupposes that causality is already operative. This self-reference is not a failure of rigor; it is the direct entailment of self-distinguishing activity, which cannot step outside its own movement to adjudicate itself. [Not a Theory of Everything](../not-a-theory-of-everything/) and [Causality All the Way](../causality-all-the-way/) trace this self-verifying structure: attempting to stand outside causality to judge it is simply one more discrete act within the causal chain. Why this boundary cannot close into a finished totality is set out in outline by the [Not a Theory of Everything](../manifesto-of-not-a-theory-of-everything/) manifesto.
 
 ## 四、 对终极的执念是对无法证明的补偿 / 4. The Hold on the Ultimate Compensates for What Cannot Be Proved
 
-于是，对第一因与终极的执念显出了它从何而来。
+一旦看清这一结构，对第一因与终极地基的执念便显露了它的确切机制。
 
-So the hold on a first cause and the ultimate shows where it comes from.
+Once this structure is clear, the fixation on a first cause and an ultimate foundation shows its exact mechanism.
 
-寻找不可动摇的终极地基或第一因的热切，正来自因果证明在形式上永远无法自我闭合。越是无法在经验证据中把那个必然的前提钉死，就越急于为它安放一个崇高、永恒、不容置疑的终极位置。语言落后于觉知，概念一旦越过自己的位置便遮住边界，[破除概念的僭越](../po-chu-gai-nian-de-jian-yue/)对此有所剖析。
+急切地想要安装一块不可动摇的形而上学基石，正源于因果的形式证明永远无法在自身之上闭合。越是无法把那个先在条件当成诸客体中的一件经验客体钉死，理性便越是焦虑地竖起一座崇高、永恒、不容置疑的终极宝座来安放它。由于语言滞后于觉知，一个被保留到运作步之后的观念便会硬化为遮蔽移动边界的偶像，正如[破除概念的僭越](../po-chu-gai-nian-de-jian-yue/)所剖析的那样。
 
-The eagerness to find an unshakeable ultimate ground or first cause comes precisely from the fact that a proof of causality can never close on itself in form. The less that necessary premise can be pinned down by empirical evidence, the more urgently it is given a lofty, eternal, unquestionable final seat. Language falls behind awareness, and a concept that oversteps its place hides the boundary, as [Breaking the Overreach of Concepts](../po-chu-gai-nian-de-jian-yue/) dissects.
+The urgency to install an unshakeable metaphysical bedrock arises precisely because a formal proof of causality can never close upon itself. The less that prior condition can be pinned down as an empirical object among objects, the more anxiously reason erects a lofty, eternal, unquestionable final seat to house it. Because language lags behind awareness, a concept preserved past its working step hardens into an idol that obscures the moving boundary, as [Breaking the Overreach of Concepts](../po-chu-gai-nian-de-jian-yue/) dissects.
 
-第一因与终极不是客观的发现，而是补偿，是对理性求而不得的代偿。看清这一点，就会明白：为无法证明的前提寻找最终命题与形而上学的终点，本身就是同一种执念的又一次循环。[开放即一致](../openness-is-consistency/)显出同一份执念：把有限的结构强行封为自足的终极地基，反而造成系统的不一致。[为何数学永远解不完](../why-mathematics-can-never-be-solved/)也指出同一道形式边界：任何试图包含自身证明的封闭系统，都通向未竟的开放。把未知描成一块封闭的圆盘，就假装触到了边界，[“知道自己不知道”是一种修辞假象](../zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/)揭示了这种假象。
+第一因与终极地基并非客观的发现，而是代偿性的投射，是用一座静态的纪念碑去顶替形式推演无法抵达的闭合的图像滞后。为无法证明的前提寻找终极命题或形而上学终点，只是同一份执念的又一次打转。[开放即一致](../openness-is-consistency/)揭示了这一确切机制：强迫一个有限的结构充当自足的终极地基，恰恰会制造出它原本想要防止的系统性不一致；而将结构保持为可修订的工具，则能让持续进行的区分保持一致。[为何数学永远解不完](../why-mathematics-can-never-be-solved/)在公理推演中追溯了同一道形式边界：任何丰富到足以折回自身的封闭系统，都会敞开为无法被证明的余项。把未知画成紧挨着当前知识圆圈之外的一块整齐、有界的圆盘，是假装从外部视角俯瞰边界，正是[“知道自己不知道”是一种修辞假象](../zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/)所消解的修辞障眼法。
 
 ```mermaid
 flowchart TD
-    subgraph S_Now["此刻"]
+    subgraph S_Edge["当下觉知的活前沿"]
         direction TB
-        N1["觉知的边缘"]
-        N2["记忆：向后的投射"]
-        N3["预期：向前的投射"]
+        E1["无因的自我区分活动（因果与逻辑的先在条件）"]
+        E2["此刻的弹性边界（先于解释的摩擦与当下投射）"]
+        E1 --> E2
     end
-    subgraph S_Lag["滞后的一侧"]
+
+    subgraph S_Proj["语言与有限投射的滞后边界"]
         direction TB
-        L1["语言与理解"]
-        L2["刚刚过去的痕迹"]
+        P1["条分缕析的语言与模型（落后前沿一步的压实残余）"]
+        P2["有限框架的边界（容量有界下无损捕获失效）"]
+        P1 --> P2
     end
-    subgraph S_Ground["前提"]
+
+    subgraph S_Resp["不可闭合边界处的两种回应"]
         direction TB
-        G1["因果与逻辑"]
-        G2["证明须先调用自身"]
+        R_Close["代偿性闭合（强立第一因、终极地基或第二重前沿）"]
+        R_Open["开放的一致（从死锁投射退后一步以重新渲染前提）"]
+        R_Close -.->|"层出不穷的矛盾显露"| R_Open
     end
-    X["对终极地基的执念"]
-    G1 --> N1
-    N1 --> N2
-    N1 --> N3
-    N1 -->|"滞后"| L1 --> L2
-    G1 --> G2
-    G2 -.->|"无法闭合"| G1
-    G2 -.->|"补偿"| X
-    style S_Now fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style S_Lag fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style S_Ground fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
-    style N1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style N2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style N3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style L1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style L2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style G1 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
-    style G2 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
-    style X fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+
+    E2 ==>|"外化并滞后一步"| P1
+    P2 ==>|"索求终极完结"| R_Close
+    P2 ==>|"将摩擦登记为信号"| R_Open
+
+    style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Resp fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style E1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style P1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style P2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style R_Close fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style R_Open fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-A first cause and the ultimate are not objective discoveries but compensation, a stand-in for what reason seeks and cannot reach. Once this is seen, it becomes clear that looking for a final proposition and a metaphysical endpoint for a premise that cannot be proved is itself one more turn of the same hold. [Openness Is Consistency](../openness-is-consistency/) shows the same hold: forcing a finite structure into a self-sufficient final ground produces the very inconsistency of the system. [Why Mathematics Can Never Be Solved](../why-mathematics-can-never-be-solved/) points to the same formal boundary: any closed system that tries to contain its own proof leads into an unfinished openness. Drawing the unknown as a closed disk pretends to touch the boundary, the illusion that [Knowing That You Don’t Know Is a Rhetorical Illusion](../zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/) exposes.
+A first cause and an ultimate ground are not objective discoveries; they are compensatory projections—Image lag substituting a static monument for a closure that formal deduction cannot reach. Searching for a terminal proposition or a metaphysical endpoint to ground an unprovable premise is simply another turn of the same fixation. [Openness Is Consistency](../openness-is-consistency/) exposes this exact mechanism: forcing a finite structure to serve as a self-sufficient final ground generates the very systemic inconsistency it was meant to prevent, whereas holding structure open as a revisable instrument keeps ongoing differentiation consistent. [Why Mathematics Can Never Be Solved](../why-mathematics-can-never-be-solved/) traces the same formal boundary in axiomatic deduction, where any closed system rich enough to fold back on itself opens into unprovable remainder. Drawing the unknown as a neat, bounded disk just outside the circle of current knowledge pretends to survey the boundary from an exterior vantage, the rhetorical sleight of hand that [Knowing That You Don't Know Is a Rhetorical Illusion](../zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/) dissolves.
 
 ```mermaid
 flowchart TD
-    subgraph S_Now["This Moment"]
+    subgraph S_Edge["Living Edge of Present Awareness"]
         direction TB
-        N1["The edge of awareness"]
-        N2["Memory: projection backward"]
-        N3["Anticipation: projection forward"]
+        E1["Uncaused Self-Distinguishing Activity (Prior Condition of Causality and Logic)"]
+        E2["Elastic Boundary of Now (Pre-Interpretive Friction and Present Projections)"]
+        E1 --> E2
     end
-    subgraph S_Lag["The Lagging Side"]
+
+    subgraph S_Proj["Lagging Boundary of Language and Finite Projections"]
         direction TB
-        L1["Language and understanding"]
-        L2["Traces just past"]
+        P1["Articulate Language and Models (Compressed Residue One Step Behind the Edge)"]
+        P2["Boundary of Finite Framing (Lossless Capture Fails Under Bounded Capacity)"]
+        P1 --> P2
     end
-    subgraph S_Ground["The Precondition"]
+
+    subgraph S_Resp["Two Responses at the Unclosable Boundary"]
         direction TB
-        G1["Causality and logic"]
-        G2["Any proof must first use them"]
+        R_Close["Compensatory Closure (Forcing a First Cause, Ultimate Ground, or Second Edge)"]
+        R_Open["Open Consistency (Stepping Back from Deadlocked Projections to Re-Render the Premise)"]
+        R_Close -.->|"Multiplying Contradictions Exposed"| R_Open
     end
-    X["The hold on an ultimate ground"]
-    G1 --> N1
-    N1 --> N2
-    N1 --> N3
-    N1 -->|"lags"| L1 --> L2
-    G1 --> G2
-    G2 -.->|"cannot close"| G1
-    G2 -.->|"compensation"| X
-    style S_Now fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style S_Lag fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style S_Ground fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
-    style N1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style N2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style N3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style L1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style L2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style G1 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
-    style G2 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
-    style X fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+
+    E2 ==>|"Externalizes and Lags One Step"| P1
+    P2 ==>|"Demands Finality"| R_Close
+    P2 ==>|"Registers Friction as Signal"| R_Open
+
+    style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Resp fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style E1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style P1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style P2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style R_Close fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style R_Open fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
 ## 五、 可追溯却不可穷尽的片段 / 5. A Fragment Traceable but Never Exhausted
 
-凡是被看见、被理解的事物，都带着“更前”的痕迹。每一个原因背后都有更深的原因，每一层解释之上都可以再推出一层背景。
+凡是被看见、被理解的事物，都早已带着先前行动的痕迹。在每一个被辨认出的原因背后，都躺着更深的条件痕迹；在每一层解释之上，都可以再划出一层背景框架。
 
-Whatever is seen and understood carries the trace of an “earlier.” Behind every cause there is a deeper cause, and above every layer of explanation another layer of background can be derived.
+Whatever is seen and understood already carries the trace of an earlier act. Behind every identified cause lies a deeper conditioning trace, and above every layer of explanation another background framing can be drawn.
 
-追溯是可能的，穷尽却不可能。这不是人的认知能力暂时的局限，而是理解自身的先验结构：理解就是把某个对象置入因果之网，而一旦置入，因果链条便向前与向后无限延伸，永不闭合。
+追溯始终可能，穷尽链条则不可能。这并非人类带宽暂时的短缺、只待一台更大的计算器来填补，而是理解本身的构成性几何：理解一个显现，就是将它安放在因果之网中；而一旦安放，因果链条便向后延伸进先前的痕迹、向前延伸进随后的效果，没有终点的闭合。
 
-Tracing is possible; exhausting is not. This is not a temporary limit of human cognitive capacity but the a priori structure of understanding itself: to understand is to place an object in the web of causation, and once placed, the causal chain extends without end forward and backward, never closing.
+Tracing is always possible; exhausting the chain is not. This is not a temporary shortfall of human bandwidth awaiting a larger calculator, but the constitutive geometry of understanding itself: to understand an appearance is to place it within the web of causation, and once placed, the causal chain extends without terminal closure backward into prior traces and forward into subsequent effects.
 
-任何一刻，所站之处都是某一截被照亮的理解片段，而片段的两端，都隐入尚未抵达、也无法抵达的深处。
+在每一刻，一个中心所站立之处，都是一段被照亮的理解片段，而它的两端隐入尚未抵达、在结构上也无法作为完结总体而抵达的深处。[开放场域中的无损知识不自洽](../lossless-knowledge-of-an-open-field-is-incoherent/)论证了为何这片开放场域容不下穷尽的无损捕获：每一个中心与每一个外化的压缩器都在有界容量下运作，使得任何登记在构造上都是局部且有损的。当一个中心把自己当下有限的感知或建模边界误认作密封的总体时，闭合便取代了探询：在人际互动中，心智把局部框架当成穷尽的全局，退入作为低成本防御的目的性评判，正如[目的性的评判与认知的缺省状态](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/)所追溯的那样；在人造系统中，孤立的轨迹受缚智能体把矛盾包裹在自身的认识论引力井内部，直到正交的同侪辩论将死锁浮出水面并交还给人的心智去重新渲染前提，正如[超越投射](../beyond-the-projection/)所展示的那样。可追溯却不可穷尽，因果赋予心智推演与行动的支点，同时释去了对终极闭合的索求，使现实边界上的每一道约束都成为自主行动的运作轮廓，正如[自由即地基](../freedom-as-ground/)所确立的那样。
 
-At any moment, where one stands is a lit fragment of understanding, and both ends of the fragment recede into depths not yet reached and not reachable.
-
-可追溯，却不可穷尽：这是因果给予心智的赠予，使认知、推演与行动成为可能；也是它给出的最深的界限，让心智放下对终极闭合的期待，持续在当下的边沿上清醒地区分与前行。[开放场域中的无损知识不自洽](../lossless-knowledge-of-an-open-field-is-incoherent/)追溯的是同一片无尽的场：在开放的场域中，无损而穷尽的认知在结构上自相矛盾。[目的性的评判与认知的缺省状态](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/)把这道认知的边界落到人际互动中的防御上：心智容易把当下有限的感知边界直接等同于系统的封闭，于是落为对外的评判，一种省力的防御。现实的边界上，约束只是自由行动时的轮廓，[自由即地基](../freedom-as-ground/)说明了这一点。
-
-Traceable but never exhausted: this is the gift causality gives the Mind, making cognition, inference and action possible; it is also the deepest limit it sets, asking the Mind to let go of the expectation of final closure and to keep distinguishing and moving on, awake, at the present edge. [Lossless Knowledge of an Open Field Is Incoherent](../lossless-knowledge-of-an-open-field-is-incoherent/) traces the same endless field: in an open field, lossless and exhaustive knowledge contradicts itself in structure. [Judging by Purpose and the Default State of Cognition](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) brings this cognitive boundary down to defense in human interaction: the Mind easily takes its present, limited boundary of perception for the closure of the system, and so settles into judging what is outside, an economical defense. At the boundary of reality, constraint is only the outline of free action, as [Freedom as Ground](../freedom-as-ground/) shows.
+At every moment, where a center stands is an illuminated fragment of understanding whose two ends recede into depths not yet reached and structurally unreachable as a completed whole. [Lossless Knowledge of an Open Field Is Incoherent](../lossless-knowledge-of-an-open-field-is-incoherent/) demonstrates why this open field admits no exhaustive, lossless capture: every center and every externalized compressor operates under bounded capacity, rendering any registration partial and lossy by construction. When a center mistakes its present, finite boundary of perception or modeling for a sealed totality, closure replaces inquiry: in human interaction, the mind treats its local frame as exhaustive and defaults to purposeful judgment as a low-cost defense, as [Judging by Purpose and the Default State of Cognition](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) traces; in artificial systems, a lone trajectory-bound agent wraps contradictions inside its epistemic gravity well until orthogonal peer debate surfaces the deadlock and returns it to the human Mind to re-render the premise, as [Beyond the Projection](../beyond-the-projection/) shows. Traceable yet never exhausted, causality grants the Mind the leverage to infer and act while releasing the demand for final closure—leaving every constraint at the boundary of reality as the working outline of sovereign action, as [Freedom as Ground](../freedom-as-ground/) establishes.
