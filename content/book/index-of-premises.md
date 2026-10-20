@@ -357,7 +357,7 @@ Hayek's argument that dispersed knowledge cannot be monopolized by planning is o
 
 Hinton pioneered deep learning architectures modeled after neural intuitions; brilliant for engineering models, his insistence on biological backprop mistakes technical artifact for flesh.
 
-→ [The Brain Does Not Backprop, but Propagates](../../posts/the-brain-does-not-backprop/) · [辛顿未曾理解的心智 / What Hinton Failed to Understand](../../posts/what-hinton-failed-to-understand/)
+→ [大脑不进行反向传播，而是正向传导 / The Brain Does Not Backprop, but Propagates](../../posts/the-brain-does-not-backprop/) · [辛顿未曾理解的心智 / What Hinton Failed to Understand](../../posts/what-hinton-failed-to-understand/)
 
 ### 以更大之善为压过的依据 / The Greater Good as Warrant to Override
 `哲学 / Philosophical`
@@ -924,7 +924,7 @@ Antifragility presumes that systems can be designed to gain from shock and volat
 
 Backpropagation posits biological learning computes global error gradients backward; brain tissue operates via forward local plasticity without symmetric weight transport.
 
-→ [The Brain Does Not Backprop, but Propagates](../../posts/the-brain-does-not-backprop/)
+→ [大脑不进行反向传播，而是正向传导 / The Brain Does Not Backprop, but Propagates](../../posts/the-brain-does-not-backprop/)
 
 ### 大过滤器假说 / The Great Filter Hypothesis
 `科学 / Scientific`
