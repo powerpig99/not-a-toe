@@ -2357,7 +2357,7 @@ Intellectualism ranks the conceptual model above felt experience and treats erro
 
 Validation cultures treat self-worth as a reward earned through external praise; sovereign stability emerges from directly owning the causal consequences of one's choices.
 
-→ [Ownership and Self-Worthiness](../../posts/ownership-and-self-worthiness/)
+→ [自我价值感与所有权 / Ownership and Self-Worthiness](../../posts/ownership-and-self-worthiness/)
 
 ### 意识即幻觉论 / Consciousness as Illusion
 `哲学 / Philosophical`

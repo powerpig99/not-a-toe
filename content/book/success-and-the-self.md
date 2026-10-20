@@ -17,7 +17,7 @@ These essays examine victimhood paralysis, shortcut delusions, and cognitive inv
 - [The Illegible Compound — Retraced](../../posts/the_illegible_compound_retraced/)
 - [Winners/Losers: The Transmutation Frame](../../posts/huberman-winners-losers/)
 - [Dissolving Munger's "Dumb Competition"](../../posts/munger-dumb-competition-refined/)
-- [Ownership and Self-Worthiness](../../posts/ownership-and-self-worthiness/)
+- [自我价值感与所有权 / Ownership and Self-Worthiness](../../posts/ownership-and-self-worthiness/)
 - [The Flywheel of the Mind](../../posts/the-flywheel-of-the-mind/)
 - [Closed Reality in the Pursuit of Serendipity](../../posts/closed-reality-in-the-pursuit-of-serendipity/)
 - [The Reality Distortion Field Names the Closed Map](../../posts/the-reality-distortion-field-names-the-closed-map/)

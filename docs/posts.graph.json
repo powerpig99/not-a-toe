@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T11:55:18.563Z",
+    "generated_at": "2026-10-20T12:02:33.473Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -148,7 +148,7 @@
       "content/posts/openness-is-consistency.md": "19a79498bbd3",
       "content/posts/order-surplus-and-the-moral-intercept.md": "6af5409d3970",
       "content/posts/overfitting-as-the-follower-mode.md": "c2ebb1c4e1e2",
-      "content/posts/ownership-and-self-worthiness.md": "f5ec65e92962",
+      "content/posts/ownership-and-self-worthiness.md": "0e6ba13b3abd",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "5b46760873d0",
       "content/posts/perception-perspective-refined.md": "e05973d21de9",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "951836df1a89",
@@ -407,7 +407,7 @@
       "content/book/causality.md": "3d3c38ed55ed",
       "content/book/consciousness.md": "84e10ab5f9aa",
       "content/book/economics.md": "5f09ac3fbf19",
-      "content/book/index-of-premises.md": "5d53fe31bfea",
+      "content/book/index-of-premises.md": "d5198041a1ac",
       "content/book/intelligence.md": "6654639edeb7",
       "content/book/knowledge-and-learning.md": "b9cb2e291918",
       "content/book/life-and-statistics.md": "607fbb67569d",
@@ -418,15 +418,15 @@
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "beeec0b1d73b",
       "content/book/state-and-collective.md": "ac12c411779e",
-      "content/book/success-and-the-self.md": "2a59654ea696",
+      "content/book/success-and-the-self.md": "3ca8a126e068",
       "content/book/tools-and-progress.md": "f326c837af48"
     },
     "stats": {
       "posts": 396,
-      "edges": 8499,
-      "unique_directed": 4645,
+      "edges": 8552,
+      "unique_directed": 4646,
       "missing_targets": 0,
-      "one_way": 171,
+      "one_way": 172,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -539,7 +539,7 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "out_degree": 51
+      "out_degree": 52
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
@@ -1065,7 +1065,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -4081,10 +4081,10 @@
       "kind": "post",
       "slug": "ownership-and-self-worthiness",
       "path": "content/posts/ownership-and-self-worthiness.md",
-      "title": "Ownership and Self-Worthiness",
-      "hash": "f5ec65e92962",
+      "title": "自我价值感与所有权 / Ownership and Self-Worthiness",
+      "hash": "0e6ba13b3abd",
       "in_degree": 52,
-      "out_degree": 51,
+      "out_degree": 52,
       "links_out": [
         "the-meaning-of-life-is-in-the-drafting",
         "when-need-stops-being-the-measure",
@@ -4106,6 +4106,7 @@
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
         "the-model-never-becomes-a-second-edge",
         "the-ramble-within-the-ramble",
+        "beyond-the-projection",
         "the-generative-contradiction",
         "the-generative-topology-of-free-variables",
         "the-only-coherent-uncaused-effect",
@@ -29630,6 +29631,18 @@
       "from": "ownership-and-self-worthiness",
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
+      "label": "生命的意义在起草之中"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "when-need-stops-being-the-measure",
+      "rel": "points_to",
+      "label": "当被需要不再是衡量"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "the-meaning-of-life-is-in-the-drafting",
+      "rel": "points_to",
       "label": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing"
     },
     {
@@ -29642,19 +29655,73 @@
       "from": "ownership-and-self-worthiness",
       "to": "failure-as-information",
       "rel": "points_to",
-      "label": "Failure as information"
+      "label": "失败即信息"
     },
     {
       "from": "ownership-and-self-worthiness",
       "to": "order-surplus-and-the-moral-intercept",
       "rel": "points_to",
-      "label": "Order, surplus, and the moral intercept"
+      "label": "秩序、剩余与道德拦截"
     },
     {
       "from": "ownership-and-self-worthiness",
       "to": "the-irreducible-prior-of-decision-and-consequence",
       "rel": "points_to",
-      "label": "The irreducible prior of decision and consequence"
+      "label": "决策与后果的不可约先验"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "failure-as-information",
+      "rel": "points_to",
+      "label": "Failure as Information"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "Order, Surplus, and the Moral Intercept"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "the-irreducible-prior-of-decision-and-consequence",
+      "rel": "points_to",
+      "label": "The Irreducible Prior of Decision and Consequence"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "rel": "points_to",
+      "label": "幂律是正态分布的长期后果"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "sowell-observed-the-surface-problem",
+      "rel": "points_to",
+      "label": "索维尔的表象洞察与根因之偏"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "residual-control-recedes-to-the-edge",
+      "rel": "points_to",
+      "label": "要紧的控制迁往边缘"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "guan-yu-gui-yin",
+      "rel": "points_to",
+      "label": "关于归因"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "拥有更多从不是原因"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "the-generative-mechanics-of-value-money-and-wealth",
+      "rel": "points_to",
+      "label": "价值、货币与财富的生成机制"
     },
     {
       "from": "ownership-and-self-worthiness",
@@ -29666,13 +29733,13 @@
       "from": "ownership-and-self-worthiness",
       "to": "sowell-observed-the-surface-problem",
       "rel": "points_to",
-      "label": "Sowell observed the surface problem"
+      "label": "Sowell Observed the Surface Problem"
     },
     {
       "from": "ownership-and-self-worthiness",
       "to": "residual-control-recedes-to-the-edge",
       "rel": "points_to",
-      "label": "Residual control recedes to the edge"
+      "label": "Residual Control Recedes to the Edge"
     },
     {
       "from": "ownership-and-self-worthiness",
@@ -29696,7 +29763,25 @@
       "from": "ownership-and-self-worthiness",
       "to": "you-tiao-jian-de-zi-you",
       "rel": "points_to",
+      "label": "有条件的自由"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "you-tiao-jian-de-zi-you",
+      "rel": "points_to",
       "label": "Conditional Freedom"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "token-efficiency-emulation-and-the-unclosable-gap",
+      "rel": "points_to",
+      "label": "Token 效率、模拟与无法弥合的间隙"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "总在倾听者无法发起"
     },
     {
       "from": "ownership-and-self-worthiness",
@@ -29709,6 +29794,30 @@
       "to": "what-always-listens-cannot-originate",
       "rel": "points_to",
       "label": "What Always Listens Cannot Originate"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "“物理学才是定律”的障眼法"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "the-vector-and-the-puzzle-of-projections",
+      "rel": "points_to",
+      "label": "向量与投影的迷局"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的移交与后果的不可让渡"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "数字火箭、同行审查与因果闭环的稀释"
     },
     {
       "from": "ownership-and-self-worthiness",
@@ -29738,6 +29847,24 @@
       "from": "ownership-and-self-worthiness",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "the-ramble-within-the-ramble",
+      "rel": "points_to",
+      "label": "漫谈中的漫谈"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
       "label": "The Model Never Becomes a Second Edge"
     },
     {
@@ -29748,9 +29875,33 @@
     },
     {
       "from": "ownership-and-self-worthiness",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
       "to": "the-generative-contradiction",
       "rel": "points_to",
-      "label": "The generative contradiction"
+      "label": "生成性的矛盾"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "the-generative-topology-of-free-variables",
+      "rel": "points_to",
+      "label": "自由变量的生成拓扑"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "the-only-coherent-uncaused-effect",
+      "rel": "points_to",
+      "label": "唯一自洽的无因之果"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "the-generative-contradiction",
+      "rel": "points_to",
+      "label": "The Generative Contradiction"
     },
     {
       "from": "ownership-and-self-worthiness",
@@ -29768,73 +29919,157 @@
       "from": "ownership-and-self-worthiness",
       "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "rel": "points_to",
+      "label": "自尊的刚性外壳与隐性外部归因"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "rel": "points_to",
       "label": "The Rigid Shell of Self-Esteem and Covert External Attribution"
     },
     {
       "from": "ownership-and-self-worthiness",
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
-      "label": "Empowerment establishes the centralization of power"
+      "label": "赋权确立权力的集中"
     },
     {
       "from": "ownership-and-self-worthiness",
       "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
-      "label": "Liberation rhetoric begins by defining captivity"
+      "label": "解放的言辞始于定义囚禁"
     },
     {
       "from": "ownership-and-self-worthiness",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
-      "label": "Externalized virtue becomes its opposite"
+      "label": "外化善意走向其反面"
     },
     {
       "from": "ownership-and-self-worthiness",
       "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "rel": "points_to",
-      "label": "Moral language dilutes the feedback that scales freedom"
+      "label": "道德语言稀释自由复利的反馈"
     },
     {
       "from": "ownership-and-self-worthiness",
       "to": "the-source-of-all-harm",
       "rel": "points_to",
-      "label": "The source of all harm"
+      "label": "一切伤害的根源"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "empowerment-establishes-the-centralization-of-power",
+      "rel": "points_to",
+      "label": "Empowerment Establishes the Centralization of Power"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "Liberation Rhetoric Begins by Defining Captivity"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized Virtue Becomes Its Opposite"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "rel": "points_to",
+      "label": "Moral Language Dilutes the Feedback That Scales Freedom"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "the-source-of-all-harm",
+      "rel": "points_to",
+      "label": "The Source of All Harm"
     },
     {
       "from": "ownership-and-self-worthiness",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "ownership-and-self-worthiness",
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
-      "label": "Public spending does not create capital"
+      "label": "公共支出不创造资本"
     },
     {
       "from": "ownership-and-self-worthiness",
       "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "rel": "points_to",
-      "label": "Politicians appear as visible symptoms of responsibility diffusion"
+      "label": "政客是责任扩散的显性症状"
     },
     {
       "from": "ownership-and-self-worthiness",
       "to": "the-myth-of-population-collapse-explained",
       "rel": "points_to",
-      "label": "The myth of population collapse explained"
+      "label": "人口崩溃神话的拆解"
     },
     {
       "from": "ownership-and-self-worthiness",
       "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "rel": "points_to",
-      "label": "Curiosity first"
+      "label": "好奇先行"
     },
     {
       "from": "ownership-and-self-worthiness",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
-      "label": "Hierarchy from individual difference"
+      "label": "来自个体差异的层级"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "guidance-is-not-ownership",
+      "rel": "points_to",
+      "label": "引导不是占有"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "the-fallacy-of-post-success-parenting",
+      "rel": "points_to",
+      "label": "成功之后的育儿谬误"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public Spending Does Not Create Capital"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "Politicians Appear as Visible Symptoms of Responsibility Diffusion"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "The Myth of Population Collapse Explained"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "rel": "points_to",
+      "label": "Curiosity First"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from Individual Difference"
     },
     {
       "from": "ownership-and-self-worthiness",
@@ -29852,6 +30087,18 @@
       "from": "ownership-and-self-worthiness",
       "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
       "rel": "points_to",
+      "label": "个人选择、社会化与做自己"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "zi-you-de-ce-bu-zhun",
+      "rel": "points_to",
+      "label": "自由的测不准"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "rel": "points_to",
       "label": "Individual Choice: The True Coordinates of Socialization and Being Oneself"
     },
     {
@@ -29864,67 +30111,139 @@
       "from": "ownership-and-self-worthiness",
       "to": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
       "rel": "points_to",
+      "label": "自我价值、反向财富转移与过去成功的陷阱"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "how-to-fix-your-whole-life-in-one-split-second",
+      "rel": "points_to",
+      "label": "如何在一瞬间修正你的整个人生"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "专家经验作为参考而非替代"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "财富转移政策与价格下限中的原因错置"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
+      "rel": "points_to",
       "label": "Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success"
     },
     {
       "from": "ownership-and-self-worthiness",
       "to": "how-to-fix-your-whole-life-in-one-split-second",
       "rel": "points_to",
-      "label": "How to fix your whole life in one split second"
+      "label": "How to Fix Your Whole Life in One Split Second"
     },
     {
       "from": "ownership-and-self-worthiness",
       "to": "expertise-as-reference-not-replacement",
       "rel": "points_to",
-      "label": "Expertise as reference, not replacement"
+      "label": "Expertise as Reference, Not Replacement"
     },
     {
       "from": "ownership-and-self-worthiness",
       "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "rel": "points_to",
-      "label": "The misallocation of cause"
+      "label": "The Misallocation of Cause"
     },
     {
       "from": "ownership-and-self-worthiness",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
-      "label": "The source of shared change"
+      "label": "共同改变的本源"
     },
     {
       "from": "ownership-and-self-worthiness",
       "to": "the-belief-in-utopia-is-the-path-to-dystopia",
       "rel": "points_to",
-      "label": "The belief in utopia is the path to dystopia"
+      "label": "对乌托邦的信念是通往反乌托邦之路"
     },
     {
       "from": "ownership-and-self-worthiness",
       "to": "the-utility-men-of-progress",
       "rel": "points_to",
-      "label": "The utility men of progress"
+      "label": "进步的多面手"
     },
     {
       "from": "ownership-and-self-worthiness",
       "to": "the-illusion-of-free-intelligence",
       "rel": "points_to",
-      "label": "The illusion of free intelligence"
+      "label": "免费智能的幻觉"
     },
     {
       "from": "ownership-and-self-worthiness",
       "to": "the-artifacts-of-self-amplification",
       "rel": "points_to",
-      "label": "The artifacts of self-amplification"
+      "label": "自我放大的制品"
     },
     {
       "from": "ownership-and-self-worthiness",
       "to": "the-reversal-from-defensible-claim-to-dogma",
       "rel": "points_to",
-      "label": "The reversal from defensible claim to dogma"
+      "label": "从可辩护的主张到教条的反转"
     },
     {
       "from": "ownership-and-self-worthiness",
       "to": "evil-as-the-minds-own-creation",
       "rel": "points_to",
-      "label": "Evil as the Mind’s Own Creation"
+      "label": "恶是心智自己的造物"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "the-geometry-of-mind",
+      "rel": "points_to",
+      "label": "心智的几何学"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "The Source of Shared Change"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "rel": "points_to",
+      "label": "The Belief in Utopia Is the Path to Dystopia"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "the-utility-men-of-progress",
+      "rel": "points_to",
+      "label": "The Utility Men of Progress"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "the-illusion-of-free-intelligence",
+      "rel": "points_to",
+      "label": "The Illusion of Free Intelligence"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "the-artifacts-of-self-amplification",
+      "rel": "points_to",
+      "label": "The Artifacts of Self-Amplification"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "the-reversal-from-defensible-claim-to-dogma",
+      "rel": "points_to",
+      "label": "The Reversal from Defensible Claim to Dogma"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "evil-as-the-minds-own-creation",
+      "rel": "points_to",
+      "label": "Evil as the Mind's Own Creation"
     },
     {
       "from": "ownership-and-self-worthiness",
@@ -61030,7 +61349,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "5d53fe31bfea",
+        "hash": "d5198041a1ac",
         "out_degree": 396
       },
       {
@@ -61129,7 +61448,7 @@
         "slug": "success-and-the-self",
         "path": "content/book/success-and-the-self.md",
         "title": "成功学公式与自我重塑 / The Formula of Success and Self-Reconstruction",
-        "hash": "2a59654ea696",
+        "hash": "3ca8a126e068",
         "out_degree": 33
       },
       {
@@ -63763,7 +64082,7 @@
         "from": "book:index-of-premises",
         "to": "ownership-and-self-worthiness",
         "rel": "collects",
-        "label": "Ownership and Self-Worthiness"
+        "label": "自我价值感与所有权 / Ownership and Self-Worthiness"
       },
       {
         "from": "book:index-of-premises",
@@ -67363,7 +67682,7 @@
         "from": "book:success-and-the-self",
         "to": "ownership-and-self-worthiness",
         "rel": "collects",
-        "label": "Ownership and Self-Worthiness"
+        "label": "自我价值感与所有权 / Ownership and Self-Worthiness"
       },
       {
         "from": "book:success-and-the-self",
