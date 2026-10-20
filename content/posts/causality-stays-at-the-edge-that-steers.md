@@ -1,6 +1,6 @@
 # 因果停留在掌舵的边缘 / Causality Stays at the Edge That Steers
 
-*模型在指引下重组残余，每一个发起的数学区分仍是人类中心自己的行动 / The model recombines residue under direction; every initiating mathematical distinction remains the human center’s own act*
+*模型在指引下重组残余，每一个发起的数学区分仍是人类中心自己的行动 / The model recombines residue under direction, and each initiating mathematical distinction stays the human center’s act*
 
 一个前沿模型为一则久悬未决的猜想找到了反例，这样的断言把发现冻结进了介质。模型是技术，即为延伸所及而组装起来的、持久外化的痕迹，不是第二个位点。提示、设定框架、掌舵、挑选、解读与验证，都是人类边缘上的离散行动；协作的说法保留了一个过时的参照，使这些行动的后果显得像是从别处到来。消解之后恢复的是单一的位点：没有第二个中心出现。
 
@@ -44,9 +44,93 @@ When a mathematician works with the model, the chain of mathematical distinguish
 
 The framing of the problem — what would count as a counterexample, which class of maps to probe, which formalization to trust — is a discrete act at that edge. The construction of prompts, the choice of successive queries, the rejection of dead ends, and the redirection of search are further discrete acts. Selection among candidates is a distinction. Interpretation of an expression into a mathematical object is a distinction. Verification — checking invertibility, degree conditions, algebraic identity, or the formal status of a claimed counterexample — is a distinction. Recognition that a result is significant, and the decision to treat it as solution rather than noise, are distinctions.
 
-模型在这一指引之下重组残余的痕迹。它不贡献自主的框架，不贡献独立的洞见，也不贡献无须人类边缘把结果纳入自身递归便可闭合的验证。表面上的“发现”，是人类中心在登记它自己的下一个行动，这个行动由它延伸进仪器的痕迹所塑造。[器物是智能的表达，而非智能本身](../two-failures-of-trace/) 是同一种冻结落在“创造”的双重负载之下：观察持有产物；行动领先一步，却惯常被冻结到产物上。[呈现Ontos，一个方法智能体](../ontos-is-a-method-agent/) 是我自己的一次尝试：造一件把因果留在这一边缘的工具。
+模型在这一指引之下重组残余的痕迹。它不贡献自主的框架，不贡献独立的洞见，也不贡献无须人类边缘把结果纳入自身递归便可闭合的验证。即便一套架构把任务智能体与全新的冷启动对等体配对以暴露轨迹盲区，并将死锁隔离进正交流线，如 [超越投射](../beyond-the-projection/) 所追溯的那样，两个智能体也只是穷尽被赋予它们的有限前提的蕴含；当它们的对等辩论撞上不可化约的死锁时，只是把那些规则中暗藏的矛盾呈报回人类边缘，而在那里，感知先于解释的错位并修订前提，仍是人类中心自己的行动。表面上的“发现”，是人类中心在登记它自己的下一个行动，这个行动由它延伸进仪器的痕迹所塑造。[器物是智能的表达，而非智能本身](../two-failures-of-trace/) 是同一种冻结落在“创造”的双重负载之下：观察持有产物；行动领先一步，却惯常被冻结到产物上。[呈现Ontos，一个方法智能体](../ontos-is-a-method-agent/) 是我自己的一次尝试：造一件把因果留在这一边缘的工具。
 
-The model recombines residual traces under that direction. It contributes no autonomous framing, no independent insight, no verification that closes without the human edge taking the result into its own recursion. The apparent “discovery” is the human center registering its own next act, shaped by the traces it has extended into the instrument. [Artifacts are expressions of intelligence, not intelligence itself](../two-failures-of-trace/) is the same freeze under the dual load of *creation*: observation holds product; the act is one step ahead and routinely frozen onto the product. [Presenting Ontos, a Method Agent](../ontos-is-a-method-agent/) is my own attempt to build a tool that keeps causality at this edge.
+```mermaid
+flowchart TD
+    subgraph S_Edge["掌舵的人类边缘（唯一的因果位点）"]
+        direction TB
+        E_Frame["设定框架与选定前提：界定问题、映射类别与形式规则"]
+        E_Steer["迭代掌舵与挑选：转向查询、舍弃死路、读取死锁"]
+        E_Verify["解读与验证：将候选表达式登记为数学对象并闭合核验"]
+        E_Frame --> E_Steer --> E_Verify
+    end
+
+    subgraph S_Inst["仪器与重组回路（外化的痕迹基底）"]
+        direction TB
+        I_Recomb["高带宽重组：激活既往的代数片段与证明模式"]
+        I_Peer["对等核查搜索与形式证书：穷尽有限前提并核验所陈述的各步"]
+        I_Signal["回返的输出或隔离的死锁：候选表达式或暴露出的规则矛盾"]
+        I_Recomb --> I_Peer --> I_Signal
+    end
+
+    subgraph S_Freeze["协作滞后与冻结的断言（停止回返的观察）"]
+        direction TB
+        F_Lag["观察者保留过时参照：把流畅残余或智能体框架当作第二个中心"]
+        F_Mis["错配的发起：观察者把‘模型找到了它’或‘AI协作’记为合著者"]
+        F_Lag --> F_Mis
+    end
+
+    E_Frame ==>|"投射有限规则与搜索方向"| I_Recomb
+    I_Signal ==>|"回返候选结果或摩擦信号供边缘接手"| E_Steer
+    I_Signal -.->|"当观察在离边缘一步之遥处停止回返"| F_Lag
+
+    style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Inst fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style E_Frame fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E_Steer fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E_Verify fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style I_Recomb fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style I_Peer fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style I_Signal fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style F_Lag fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style F_Mis fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
+
+The model recombines residual traces under that direction. It contributes no autonomous framing, no independent insight, no verification that closes without the human edge taking the result into its own recursion. Even when an architecture pairs a task agent with a fresh cold peer to expose trajectory blind spots and isolates deadlocks into orthogonal streamlines, as [Beyond the Projection](../beyond-the-projection/) traces, the two agents only exhaust the implications of the finite premise they were handed; when their peer debate hits an irreducible deadlock, it surfaces a hidden contradiction in those rules back to the human edge, where sensing the pre-interpretive misfit and revising the premise remains the human center’s own act. The apparent “discovery” is the human center registering its own next act, shaped by the traces it has extended into the instrument. [Artifacts are expressions of intelligence, not intelligence itself](../two-failures-of-trace/) is the same freeze under the dual load of *creation*: observation holds product; the act is one step ahead and routinely frozen onto the product. [Presenting Ontos, a Method Agent](../ontos-is-a-method-agent/) is my own attempt to build a tool that keeps causality at this edge.
+
+```mermaid
+flowchart TD
+    subgraph S_Edge["Steering Human Edge (Single Locus of Causality)"]
+        direction TB
+        E_Frame["Framing & Premise Selection: Defines problem, map class, and formal rules"]
+        E_Steer["Iterative Steering & Selection: Redirects queries, drops dead ends, reads deadlocks"]
+        E_Verify["Interpretation & Verification: Registers candidate as mathematical object and closes check"]
+        E_Frame --> E_Steer --> E_Verify
+    end
+
+    subgraph S_Inst["Instrument & Recombination Loop (Extended Trace Substrate)"]
+        direction TB
+        I_Recomb["High-Bandwidth Recombination: Activates prior algebraic fragments and proof patterns"]
+        I_Peer["Peer-Checked Search & Formal Certificates: Exhausts finite premises and checks stated steps"]
+        I_Signal["Returned Output or Isolated Deadlock: Candidate expression or exposed rule contradiction"]
+        I_Recomb --> I_Peer --> I_Signal
+    end
+
+    subgraph S_Freeze["Collaboration Lag & Frozen Claim (Observation Stopped Returning)"]
+        direction TB
+        F_Lag["Observer Preserves Stale Reference: Treats fluent residue or co-agent harness as a second center"]
+        F_Mis["Misallocated Initiation: Observer credits 'the model found it' or 'AI collaboration' as co-author"]
+        F_Lag --> F_Mis
+    end
+
+    E_Frame ==>|"Projects finite rules and search direction"| I_Recomb
+    I_Signal ==>|"Returns candidate or friction signal for uptake"| E_Steer
+    I_Signal -.->|"When observation stops returning one step past the edge"| F_Lag
+
+    style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Inst fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style E_Frame fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E_Steer fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E_Verify fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style I_Recomb fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style I_Peer fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style I_Signal fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style F_Lag fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style F_Mis fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
 
 中心与中心之间只有可得性的成形。模型连第二个中心都不是。把它当作替数学家完成回返，是双重的范畴错误：先把介质当作位点，再仿佛残余能够完成递归。[没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/) 为其他位点指出了这条界限；这里的界限更严：并没有另一个位点可供完成。[牛肝菌、算力风暴与普罗米修斯的火](../boletus-compute-storm-and-promethean-fire/) 从北欧的林地上遇见同一场算力风暴，在那里，火仍属于携火的那只手。
 
