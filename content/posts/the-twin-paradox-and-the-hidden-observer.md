@@ -1,10 +1,10 @@
 # 双生子佯谬与隐秘观察者 / The Twin Paradox and the Hidden Observer
 
-*把时间画成一根轴，画图的位置就成了没有写进图里的观察者 / Drawing time as an axis makes the place the drawing is done from an observer left out of the picture*
+*把时间画成一根轴，画图的观察者就被留在了图外 / Drawing time as an axis leaves the observer who drew it out of the picture*
 
 相对论以光速为尺、以整个宇宙为参照，把钟与光信号之间的相对关系保存得极为精确，卫星授时、引力透镜与水星进动都靠它算准。它的边界在读图的方式上：时间被画成四维几何中的一根轴之后，比较两条世界线长短的那个位置站在图外，却没有被写进图里。双生子重逢时握住的是同一个当下，两只钟读数的不同是两个振子各自经历的记录。大爆炸与热寂是同一张图向后与向前的外推，属于投影出的时间；从第一人称的位置去找，找到的只有当下。
 
-Relativity takes the speed of light as its ruler and the whole cosmos as its reference, and it preserves the relations between clocks and light signals with great precision; satellite timing, gravitational lensing and the perihelion of Mercury are all computed by it. Its boundary lies in how the picture is read: once time is drawn as an axis in a four-dimensional geometry, the place from which two worldlines are compared stands outside the picture and is not written into it. Reunited twins clasp hands in one present, and the difference between two clock readings is the record of what each oscillator went through. The Big Bang and heat death are the same picture extrapolated backward and forward, and they belong to projected time; a search from the first-person position finds only the present.
+Relativity takes the speed of light as its ruler and the whole cosmos as its reference, and it preserves the relations between clocks and light signals with great precision; satellite timing, gravitational lensing, and the perihelion of Mercury are all computed by it. Its boundary lies in how the picture is read: once time is drawn as an axis in a four-dimensional geometry, the place from which two worldlines are compared stands outside the picture and is not written into it. Reunited twins clasp hands in one present, and the difference between two clock readings is the record of what each oscillator went through. The Big Bang and heat death are the same picture extrapolated backward and forward, and they belong to projected time; a search from the first-person position finds only the present.
 
 ## 一、 只有两个人的宇宙 / 1. A Universe of Two
 
@@ -18,57 +18,11 @@ The principle of relativity says that all inertial motion is relative, and that 
 
 这个回答底下有一个未被审视的前提，换一个问法它就露出来：如果宇宙里只有这两个人呢？设想一个虚空的宇宙，没有地球，没有星系，没有微波背景辐射，只有两名各在密封舱里的观察者，两人相互远离，随后相互靠近。从哥哥的位置看，弟弟的飞船离去、喷火、转向、返回；从弟弟的位置看，哥哥的飞船离去，自己的引擎产生推力，哥哥返回。
 
-Beneath this reply sits an unexamined premise, and another way of asking brings it out: what if the universe held only these two? Picture an empty universe with no Earth, no galaxies and no microwave background, only two observers, each in a sealed cabin, who move apart and then move together. From the elder twin's position, the younger twin's ship leaves, fires, turns and returns; from the younger twin's position, the elder twin's ship leaves, the younger twin's own engine produces thrust, and the elder twin returns.
+Beneath this reply sits an unexamined premise, and another way of asking brings it out: what if the universe held only these two? Picture an empty universe with no Earth, no galaxies, and no microwave background, only two observers, each in a sealed cabin, who move apart and then move together. From the elder twin's position, the younger twin's ship leaves, fires, turns, and returns; from the younger twin's position, the elder twin's ship leaves, the younger twin's own engine produces thrust, and the elder twin returns.
 
 在只有两体的系统里，运动是两者之间的关系。没有第三个参照物时，找不到哪一条判据能把“静止”给其中一方而不给另一方；说一方“真正加速了”、另一方“保持静止”，要靠系统之外的背景。这个思想实验之所以得出“一方比另一方老得快”的确定结论，是因为叙述在没有言明的地方把整个宇宙当作了一座不动的舞台。
 
-```mermaid
-flowchart TD
-    subgraph S_Two["两人宇宙里的对称与舞台"]
-        direction TB
-        Two["只有两名观察者：运动是两者之间的关系"]
-        Sym["双方的叙述对称：对方离去又返回"]
-        Answer["标准的回答：掉头的加速打破对称"]
-        Stage["未言明的前提：整个宇宙被当作不动的舞台"]
-        Verdict["确定的结论：一方比另一方老得快"]
-        Two --> Sym
-        Sym --> Answer
-        Answer --> Stage
-        Stage --> Verdict
-    end
-
-    style S_Two fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style Two fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Sym fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Answer fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Stage fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Verdict fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-```
-
 In a system of only two bodies, motion is a relation between the two. With no third reference, no criterion can be found that gives "at rest" to one of them and withholds it from the other; to say that one "really accelerated" while the other "stayed still" leans on a background outside the system. The thought experiment reaches its definite conclusion, that one ages faster than the other, because the account, at a place it does not state, takes the whole cosmos as a stage that does not move.
-
-```mermaid
-flowchart TD
-    subgraph S_Two["Symmetry and the Stage in a Universe of Two"]
-        direction TB
-        Two["Only two observers: motion is a relation between them"]
-        Sym["The two accounts are symmetric: the other leaves and returns"]
-        Answer["The standard reply: turnaround acceleration breaks the symmetry"]
-        Stage["The unstated premise: the whole cosmos taken as an unmoving stage"]
-        Verdict["The definite conclusion: one ages faster than the other"]
-        Two --> Sym
-        Sym --> Answer
-        Answer --> Stage
-        Stage --> Verdict
-    end
-
-    style S_Two fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style Two fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Sym fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Answer fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Stage fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Verdict fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-```
 
 ## 二、 没有被写进图里的观察者 / 2. The Observer Left Out of the Picture
 
@@ -82,59 +36,13 @@ That position is the hidden observer. [Causality is Irreducible; The Physical is
 
 这里有两套标准并用。对外的说法是宇宙里没有特权基准，运动是观察者之间对等的关系；解释佯谬时用的却是一个外部的固定参照，第三人称的俯瞰盖过了第一人称之间的对称。佯谬出在这一步替换上，沿着两个人各自的因果去追，找不到矛盾。[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)指出过同样的次序：先设一个中立的公共沙盒，再把两个独立的因果中心放进预先画好的标尺里，于是量具的形状被读成了宇宙的属性。观察者可以从图里移到图外，却移不掉，[割点可移不可除](../the-cut-moves-but-never-vanishes/)说的正是这一点。
 
-```mermaid
-flowchart TD
-    subgraph S_Hidden["没有被写进图里的观察者"]
-        direction TB
-        Claim["宣称的前提：运动是对等的关系，没有特权参考系"]
-        Borrow["未言明的一步：借遥远的星系与引力场作不动的基准"]
-        Outside["宇宙之外的位置：俯瞰并比较两条画好的世界线"]
-        Left["这个位置没有被写进图里"]
-        Meet["握手：两个人在同一个当下相遇"]
-        Claim --> Borrow
-        Borrow --> Outside
-        Outside --> Left
-        Left -.->|"盖住"| Meet
-    end
-
-    style S_Hidden fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style Claim fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Borrow fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Outside fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Left fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Meet fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-```
-
 Two standards are in use here together. The outward statement is that the cosmos holds no privileged benchmark and that motion is an equal relation between observers; the explanation of the paradox uses an external fixed reference, and a third-person survey covers over the symmetry between first persons. The paradox arises at this substitution; followed along the causality of each of the two, no contradiction is found. [The Illusion of the Shared Sandbox](../the-illusion-of-the-shared-sandbox/) has pointed to the same order: a neutral public sandbox is posited first, two independent causal centers are then placed inside a ruler drawn in advance, and the shape of the measuring tool is read as a property of the cosmos. The observer can be moved from inside the picture to outside it and cannot be removed, which is what [The Cut Moves but Never Vanishes](../the-cut-moves-but-never-vanishes/) says.
-
-```mermaid
-flowchart TD
-    subgraph S_Hidden["The Observer Left Out of the Picture"]
-        direction TB
-        Claim["The stated premise: motion is an equal relation, no privileged frame"]
-        Borrow["The unstated step: distant galaxies and fields borrowed as a fixed benchmark"]
-        Outside["A position outside the cosmos: surveying and comparing two drawn worldlines"]
-        Left["This position is not written into the picture"]
-        Meet["The handshake: two people meet in one present"]
-        Claim --> Borrow
-        Borrow --> Outside
-        Outside --> Left
-        Left -.->|"covers over"| Meet
-    end
-
-    style S_Hidden fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style Claim fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Borrow fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Outside fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Left fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Meet fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-```
 
 ## 三、 时间作为投影参数 / 3. Time as a Projection Parameter
 
 解释之所以在这里打转，可以追到模型里的一个假定：静态的宇宙。在闵可夫斯基时空几何里，时间被空间化为第四个维度，宇宙的全部发生被压成一个已经完成的四维时空块；过去、现在与未来像书页一样并排，一个人的一生被画成一条静止的世界线。
 
-That explanation keeps circling here can be traced to one assumption in the model: a static universe. In the geometry of Minkowski spacetime, time is spatialized into a fourth dimension, and all that occurs in the cosmos is pressed into a four-dimensional block already finished; past, present and future lie side by side like the pages of a book, and a life is drawn as a worldline at rest.
+That explanation keeps circling here can be traced to one assumption in the model: a static universe. In the geometry of Minkowski spacetime, time is spatialized into a fourth dimension, and all that occurs in the cosmos is pressed into a four-dimensional block already finished; past, present, and future lie side by side like the pages of a book, and a life is drawn as a worldline at rest.
 
 面对这个几何体，计算者站在它的外面，沿两条世界线对原时做积分，发现弯折的那条累积的数值小于直的那条，于是说：远航的弟弟更年轻，他到了未来。这个推论把坐标上的投影参数读成了活的因果时间。
 
@@ -142,61 +50,95 @@ Facing this geometric body, the one who calculates stands outside it, integrates
 
 时空块的可信感来自对当下的冻结与再投影。直接经验到的只有当下这一个切片，好比电影胶片上的一格；它扎在最直接的经验里，所以显得可信。接下来的操作是把这一格冻结，在数学上拉伸、再投影成一个四维的体。在拉伸出来的静态几何体里，可以画任意的曲线，并把其中任何一条称为世界线；度规张量、联络、测地线方程，这些工具都是在这张投影出的画布上记账。
 
-The credibility of the block comes from freezing the present and projecting it again. Only this one slice of the present is directly experienced, like a single frame on a strip of film; it is rooted in the most immediate experience, and so it seems credible. The next operation freezes this frame and, in mathematics, stretches and re-projects it into a four-dimensional body. Inside the stretched static body any curve can be drawn and any one of them called a worldline; metric tensors, connections and geodesic equations are all bookkeeping done on this projected canvas.
+The credibility of the block comes from freezing the present and projecting it again. Only this one slice of the present is directly experienced, like a single frame on a strip of film; it is rooted in the most immediate experience, and so it seems credible. The next operation freezes this frame and, in mathematics, stretches and re-projects it into a four-dimensional body. Inside the stretched static body any curve can be drawn and any one of them called a worldline; metric tensors, connections, and geodesic equations are all bookkeeping done on this projected canvas.
 
-洛伦兹变换里的时间坐标 t 是一件记账工具，用来在不同的观测框架之间对齐读数。[维度即投影](../dimensions-are-projections/)指出，维度是心智用来压缩关系的方式，不是可以走进去的长廊。把静态几何体里不同线条的度规长度之差读成身体的年轻与衰老，是把地图读成了疆域。
+洛伦兹变换里的时间坐标 t 是一件记账工具，用来在不同的观测框架之间对齐读数。[维度即投影](../dimensions-are-projections/)指出，维度是心智用来压缩关系的方式，不是可以走进去的长廊，而要把任何一个 N 维坐标空间界定为已经完成的对象，都离不开一个站在其坐标轴之外的第 N + 1 维观察点。[超越投射](../beyond-the-projection/)在有限的投射引擎与未被投射的心智之间追溯了同一道结构边界：形式的轨迹或演绎模型在固定坐标窗口的规则之内运行，无法跨出自己正在计算的序列；因此，当两个彼此正交的事实——这里是两体关系的对称性与切换参考系的不对称切分——被压进同一个低维流形时，演绎就会浮现出表面上的佯谬，唯有退回那个画出网格、落下切分的未被投射的第一人称观察者，佯谬才能消解。把静态几何体里不同线条的度规长度之差读成身体的年轻与衰老，是把地图读成了疆域。
 
-The time coordinate t in the Lorentz transformation is a bookkeeping tool for aligning readings across different frames of observation. [Dimensions Are Projections](../dimensions-are-projections/) points out that a dimension is a way the Mind compresses relations, not a corridor that can be walked into. To read the difference in metric length between lines in a static geometric body as the youth and aging of a body is to read the map as the territory.
+```mermaid
+flowchart TD
+    subgraph S_Edge["未被投射的第一人称边缘（更高一维的观察点）"]
+        direction TB
+        E_Now["不可分割的当下：原点处不停息的因果展开与活生生的感知"]
+        E_Cut["隐秘观察者：画出坐标网格，落下切换参考系的切分"]
+        E_Now --> E_Cut
+    end
+
+    subgraph S_Block["四维闵可夫斯基投影（压缩的坐标时空块）"]
+        direction TB
+        B_Freeze["被冻结的当下切片：在数学上拉伸为静态的四维流形"]
+        B_Lines["画出的世界线：沿直线与折线对原时积分"]
+        B_Clash["维度压缩：对称的两体关系与外部基准被挤在同一根轴上"]
+        B_Freeze --> B_Lines
+        B_Lines --> B_Clash
+    end
+
+    subgraph S_Read["重逢时的两种读法"]
+        direction TB
+        R_Paradox["字面读法（错把地图当疆域）：折线被读成穿行到了未来"]
+        R_Dissolve["超越投射：共处同一个当下，钟表偏差被读作振子里程"]
+    end
+
+    E_Cut ==>|"把时间投影为第四根空间化坐标轴（隐去观察者）"| B_Freeze
+    B_Clash ==>|"把投影实体化，还是复原观察者的位置"| R_Paradox
+    B_Clash ==>|"把隐秘观察者写回图里"| R_Dissolve
+
+    style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Block fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Read fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style E_Now fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E_Cut fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style B_Freeze fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style B_Lines fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style B_Clash fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style R_Paradox fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style R_Dissolve fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
+
+The time coordinate t in the Lorentz transformation is a bookkeeping tool for aligning readings across different frames of observation. [Dimensions Are Projections](../dimensions-are-projections/) points out that a dimension is a way the Mind compresses relations, not a corridor that can be walked into, and that bounding any N-dimensional coordinate space as a finished object always requires an (N + 1)-th vantage standing outside its axes. [Beyond the Projection](../beyond-the-projection/) traces this same structural boundary between finite projection engines and the unprojected Mind: a formal trajectory or deductive model runs inside the rules of its fixed coordinate window and cannot step outside the sequence it is computing, so when two orthogonal realities—here, symmetric two-body relation and an asymmetric frame-switching cut—are compressed onto one reduced manifold, the deduction surfaces an apparent paradox that can only be dissolved by stepping back to the unprojected first-person observer who drew the grid and placed the cut. To read the difference in metric length between lines in a static geometric body as the youth and aging of a body is to read the map as the territory.
+
+```mermaid
+flowchart TD
+    subgraph S_Edge["The Unprojected First-Person Edge (N + 1 Vantage)"]
+        direction TB
+        E_Now["Indivisible Present: Unceasing causal unfolding and live sensing at the origin"]
+        E_Cut["Hidden Observer: Draws the coordinate grid and places the frame-switching cut"]
+        E_Now --> E_Cut
+    end
+
+    subgraph S_Block["The 4D Minkowski Projection (Compressed Coordinate Block)"]
+        direction TB
+        B_Freeze["Frozen Present Slice: Stretched mathematically into a static 4D manifold"]
+        B_Lines["Drawn Worldlines: Proper time integrated along straight and bent curves"]
+        B_Clash["Dimensional Compression: Symmetric relation and external benchmark crammed onto one axis"]
+        B_Freeze --> B_Lines
+        B_Lines --> B_Clash
+    end
+
+    subgraph S_Read["Two Readings at Reunion"]
+        direction TB
+        R_Paradox["Literal Reading (Map as Territory): Bent curve read as travelling into the future"]
+        R_Dissolve["Stepping Beyond the Projection: One shared present, clock offset read as oscillator mileage"]
+    end
+
+    E_Cut ==>|"Projects time as a 4th spatialized axis (omitting the observer)"| B_Freeze
+    B_Clash ==>|"Reification vs. restoration of the observer's locus"| R_Paradox
+    B_Clash ==>|"Writing the hidden observer back into the picture"| R_Dissolve
+
+    style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Block fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Read fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style E_Now fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E_Cut fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style B_Freeze fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style B_Lines fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style B_Clash fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style R_Paradox fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style R_Dissolve fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
 
 从第一人称的位置去找，找不到一块预先铺好、供人穿行的时空块，找到的是由因果展开的当下，一步接着一步，不可逆。[索求万物理论是在将当下冻结为清单](../demanding-a-toe-freezes-time-into-a-catalog/)说过，把时间还原成一根几何轴，是先在头脑里取消了时间的生成，把活着的展开做成一份清单。没有谁在时间维度上领先或落后；两个观察者无论怎样运动，重聚时共有的是同一个当下，时间膨胀是模型沿静态时间轴投影时出现的坐标形变。冻结的块状宇宙，是被外推成宇宙的取样框，[黑白采样帧与外推宇宙](../the-black-and-white-sample-frame-and-the-extrapolated-universe/)说明了这一点。
 
-```mermaid
-flowchart TD
-    subgraph S_Param["从当下的一格到一条世界线"]
-        direction TB
-        Present["当下的一格：直接经验到的切片"]
-        Freeze["冻结这一格，在数学上拉伸为四维的体"]
-        Lines["在体里画线，称作世界线"]
-        Length["沿线积分：两条线的度规长度不同"]
-        Read["长度之差被读成年轻与衰老"]
-        Present --> Freeze
-        Freeze --> Lines
-        Lines --> Length
-        Length --> Read
-    end
-
-    style S_Param fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style Present fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Freeze fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Lines fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Length fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Read fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-```
-
 A search from the first-person position finds no block laid out in advance to be travelled through; it finds a present unfolded by causality, one step after another, irreversible. [Demanding a Theory of Everything Freezes Time into a Catalog](../demanding-a-toe-freezes-time-into-a-catalog/) has said that reducing time to a geometric axis first cancels, in the head, the generation of time and turns a living unfolding into a catalog. No one is ahead or behind along a time dimension; however two observers move, what they share on meeting again is one present, and time dilation is the coordinate deformation that appears when a model projects along a static time axis. The frozen block universe is the sample frame extrapolated into a cosmos, as [The Black-and-White Sample Frame and the Extrapolated Universe](../the-black-and-white-sample-frame-and-the-extrapolated-universe/) shows.
-
-```mermaid
-flowchart TD
-    subgraph S_Param["From One Frame of the Present to a Worldline"]
-        direction TB
-        Present["One frame of the present: the slice directly experienced"]
-        Freeze["The frame is frozen and stretched in mathematics into a four-dimensional body"]
-        Lines["Lines are drawn in the body and called worldlines"]
-        Length["Integration along the lines: two lines differ in metric length"]
-        Read["The difference in length is read as youth and aging"]
-        Present --> Freeze
-        Freeze --> Lines
-        Lines --> Length
-        Length --> Read
-    end
-
-    style S_Param fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style Present fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Freeze fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Lines fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Length fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Read fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-```
 
 ## 四、 钟是振子，读数是里程 / 4. A Clock Is an Oscillator and Its Reading Is Mileage
 
@@ -214,75 +156,21 @@ Nor do the atomic clocks of the experiments sit in a void of only two bodies; th
 
 里程表是同一种记录。两辆车从同一地点出发，走过不同的路面，最后停进同一个车库，一辆车的里程表上英里数较少。没有人会说这辆车到了未来的车库；两辆车并排停在此时此地，读数之差记下的是齿轮在不同路况下转过的圈数。
 
-An odometer is a record of the same kind. Two cars leave from one place, cross different ground and end up parked in one garage, and one odometer shows fewer miles. No one would say that this car has arrived in a garage of the future; the two cars stand side by side here and now, and the difference in readings records the turns the gears made under different road conditions.
+An odometer is a record of the same kind. Two cars leave from one place, cross different ground, and end up parked in one garage, and one odometer shows fewer miles. No one would say that this car has arrived in a garage of the future; the two cars stand side by side here and now, and the difference in readings records the turns the gears made under different road conditions.
 
 [时间是因果的不可逆方向与离散步长](../time-is-causality-not-a-dimension/)说，时间是因果的方向与步长。重逢的原子钟显示的那一点秒数之差，是两个振子在不同环境里留下的印记，是经历的记录，不是穿过时空长廊的凭证。
 
-```mermaid
-flowchart TD
-    subgraph S_Clock["钟是振子，读数是里程"]
-        direction TB
-        Start["同一起点：两只钟，或两辆车，初始状态相同"]
-        PathGround["一只留在地面：引力势与运动平稳"]
-        PathAway["一只远行：有加减速，引力势不同"]
-        Garage["同一个终点：并排放在同一张桌上，同一个当下"]
-        Diff["读数不同：各自累积的循环次数不同"]
-        Odo["钟是里程表，记下的是经历"]
-        Start --> PathGround
-        Start --> PathAway
-        PathGround --> Garage
-        PathAway --> Garage
-        Garage --> Diff
-        Diff --> Odo
-    end
-
-    style S_Clock fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style Start fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style PathGround fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style PathAway fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Garage fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Diff fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Odo fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-```
-
 [Time Is the Irreversible Direction and Discrete Step of Causality](../time-is-causality-not-a-dimension/) says that time is the direction and the step of causality. The small difference in seconds shown by reunited atomic clocks is the mark left on two oscillators by different surroundings, a record of what was gone through and not a ticket for passage down a corridor of spacetime.
-
-```mermaid
-flowchart TD
-    subgraph S_Clock["A Clock Is an Oscillator and Its Reading Is Mileage"]
-        direction TB
-        Start["One starting point: two clocks, or two cars, in the same initial state"]
-        PathGround["One stays on the ground: steady potential and motion"]
-        PathAway["One travels: acceleration and deceleration, a different potential"]
-        Garage["One end point: side by side on one table, in one present"]
-        Diff["The readings differ: each has accumulated a different number of cycles"]
-        Odo["A clock is an odometer and records what was gone through"]
-        Start --> PathGround
-        Start --> PathAway
-        PathGround --> Garage
-        PathAway --> Garage
-        Garage --> Diff
-        Diff --> Odo
-    end
-
-    style S_Clock fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style Start fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style PathGround fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style PathAway fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Garage fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Diff fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Odo fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-```
 
 ## 五、 握手发生在同一个当下 / 5. The Handshake Happens in One Present
 
 远航的弟弟回来，走下飞船，向留在原地的哥哥伸出手，这时发生了一件朴素的事：两个人握住了对方的手。
 
-The travelling twin comes back, steps down from the ship and holds out a hand to the twin who stayed, and at this moment a plain thing happens: the two take each other's hand.
+The travelling twin comes back, steps down from the ship, and holds out a hand to the twin who stayed, and at this moment a plain thing happens: the two take each other's hand.
 
 握手发生在同一个不可分割的当下。哥哥不在弟弟的过去，弟弟不在哥哥的未来。假如时间是一条可以各自滑到不同位置的几何长廊，处在不同时间坐标上的两个人就碰不到对方；两人能够对视、交谈、交换触觉的信号，说明谁也没有离开过共有的那个当下。
 
-The handshake happens in one indivisible present. The elder twin is not in the younger twin's past, and the younger is not in the elder's future. If time were a geometric corridor along which each could slide to a different place, two people at different time coordinates could not touch; that the two can look at each other, speak and exchange the signals of touch shows that neither ever left the present they share.
+The handshake happens in one indivisible present. The elder twin is not in the younger twin's past, and the younger is not in the elder's future. If time were a geometric corridor along which each could slide to a different place, two people at different time coordinates could not touch; that the two can look at each other, speak, and exchange the signals of touch shows that neither ever left the present they share.
 
 只要两个人各自渲染现实的节律没有断，两段旅程里活过的感受就是同一种：弟弟看着舱里的钟一秒一秒地跳，感到自己的心一下一下地搏动；哥哥看着地面的钟一秒一秒地跳，同样感到自己生命的节律。
 
@@ -290,55 +178,7 @@ So long as the rhythm at which each of the two renders reality is unbroken, what
 
 “弟弟只过了几天，哥哥过了一生”这个戏剧化的推论，建立在对光速常数与时空坐标轴的投影的字面读法上。只要分离期间弟弟的身体没有受到足以破坏生物大分子的应力，他的细胞更替与新陈代谢就按自身的因果步长进行；重逢时，兄弟二人在同一个世界里共有同步的当下。倒着读一条轨迹会藏起自由变量，在物理中如此，在权力中也如此，[隐性自由变量与权力的事后幻相](../the-free-variable-and-the-retrospective-illusion-of-power/)说明了这一点。
 
-```mermaid
-flowchart TD
-    subgraph S_Hand["握手发生在同一个当下"]
-        direction TB
-        Depart["起点：兄弟二人在同一处分开"]
-        Earth["哥哥：在地面的环境里，按自身的节律生活"]
-        Ship["弟弟：在飞船的环境里，按自身的节律生活"]
-        Hand["握手：同一个不可分割的当下"]
-        Neither["谁也不在对方的过去或未来"]
-        Depart --> Earth
-        Depart --> Ship
-        Earth --> Hand
-        Ship --> Hand
-        Hand --> Neither
-    end
-
-    style S_Hand fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style Depart fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Earth fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Ship fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Hand fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Neither fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-```
-
 The dramatic inference that "the younger twin lived a few days while the elder lived a lifetime" rests on a literal reading of the projection of the light-speed constant and the coordinate axes of spacetime. So long as, during the separation, the younger twin's body met no stress great enough to break down its biological macromolecules, the renewal of cells and the metabolism went on at their own causal step; at the reunion the two brothers share a synchronous present in one world. Reading a trajectory backward hides the free variable, in physics as in power, as [The Invisible Free Variable and the Retrospective Illusion of Power](../the-free-variable-and-the-retrospective-illusion-of-power/) shows.
-
-```mermaid
-flowchart TD
-    subgraph S_Hand["The Handshake Happens in One Present"]
-        direction TB
-        Depart["The start: the two brothers part at one place"]
-        Earth["The elder: living at an own rhythm in the surroundings of the ground"]
-        Ship["The younger: living at an own rhythm in the surroundings of the ship"]
-        Hand["The handshake: one indivisible present"]
-        Neither["Neither is in the other's past or future"]
-        Depart --> Earth
-        Depart --> Ship
-        Earth --> Hand
-        Ship --> Hand
-        Hand --> Neither
-    end
-
-    style S_Hand fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style Depart fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Earth fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Ship fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Hand fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Neither fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-```
 
 ## 六、 一格胶片的前推与后推 / 6. One Frame Run Backward and Forward
 
@@ -348,11 +188,11 @@ Moving the view from the two-body thought experiment to the whole cosmos, the sa
 
 标准的图景同时用着两套模型。热力学与演化的宇宙学说，宇宙在一百三十八亿年前从一个低熵的起点开始，随后膨胀、冷却、形成结构，最后趋向熵最大的平衡，这是一个由状态的更新构成的过程。相对论的时空几何说，时空是一个四维的伪黎曼流形，过去、现在与未来以几何的形式并存于其中。
 
-The standard picture uses two models at once. Thermodynamics and evolutionary cosmology say that the cosmos began 13.8 billion years ago from a low-entropy starting point, then expanded, cooled and formed structure, and tends in the end toward the equilibrium of maximum entropy, which is a process made of updates of state. The spacetime geometry of relativity says that spacetime is a four-dimensional pseudo-Riemannian manifold in which past, present and future coexist as geometry.
+The standard picture uses two models at once. Thermodynamics and evolutionary cosmology say that the cosmos began 13.8 billion years ago from a low-entropy starting point, then expanded, cooled, and formed structure, and tends in the end toward the equilibrium of maximum entropy, which is a process made of updates of state. The spacetime geometry of relativity says that spacetime is a four-dimensional pseudo-Riemannian manifold in which past, present, and future coexist as geometry.
 
 两者放不到一起。一个静态的四维几何体内部没有开端，没有演变，也没有终结。若宇宙整体是一个已经画好的时空块，说它在“膨胀”或“变冷”，就要在块的外面再引入一个供它变化的时间；若时间只是块内一根空间化的坐标轴，大爆炸就不是引出后续的源头，而是这张四维地图的底边，热寂也不是正在逼近的未来，而是地图的顶边。
 
-The two cannot be put together. Inside a static four-dimensional geometric body there is no beginning, no evolving and no ending. If the cosmos as a whole is a block already drawn, then to say that it "expands" or "cools" requires a further time outside the block for it to change in; if time is only a spatialized coordinate axis inside the block, the Big Bang is not a source that brings forth what follows but the bottom edge of this four-dimensional map, and heat death is not an approaching future but the top edge of the map.
+The two cannot be put together. Inside a static four-dimensional geometric body there is no beginning, no evolving, and no ending. If the cosmos as a whole is a block already drawn, then to say that it "expands" or "cools" requires a further time outside the block for it to change in; if time is only a spatialized coordinate axis inside the block, the Big Bang is not a source that brings forth what follows but the bottom edge of this four-dimensional map, and heat death is not an approaching future but the top edge of the map.
 
 一部正在放映的电影与一格胶片的缩放，可以把这件事说清楚。活过的时间像放映：放映机每走一格，状态就不可逆地更新一次，每一格都由当下的因果交互生成。标准宇宙学模型的做法，相当于从放映机上取下当前的一格，也就是此刻在局域观测到的星系间距与红移，把它当作整部电影的规律。
 
@@ -364,55 +204,7 @@ The pixels in this frame are moving apart from one another, and so the geometric
 
 大爆炸与热寂属于投影出的时间：它们是一格静止的画面向后缩到原点、向前放到极远时得到的两端，放映本身不在这张画面里。投影出的时间不是活过的时间。
 
-```mermaid
-flowchart TD
-    subgraph S_Frame["一格胶片的前推与后推"]
-        direction TB
-        Proj["放映：因果的前沿，一格一格在当下生成"]
-        Frame["取下一格：当前观测到的星系间距与红移"]
-        Back["向后推到原点：像素挤进一点，称作大爆炸奇点"]
-        Fwd["向前推到极远：像素稀薄至空，称作热寂"]
-        Ends["两端属于投影出的时间，放映不在画面里"]
-        Proj --> Frame
-        Frame --> Back
-        Frame --> Fwd
-        Back --> Ends
-        Fwd --> Ends
-    end
-
-    style S_Frame fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
-    style Proj fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Frame fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Back fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Fwd fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Ends fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-```
-
 The Big Bang and heat death belong to projected time: they are the two ends obtained when one still image is shrunk backward to an origin and enlarged forward to the far extreme, and the projection itself is not in the image. Projected time is not lived time.
-
-```mermaid
-flowchart TD
-    subgraph S_Frame["One Frame Run Backward and Forward"]
-        direction TB
-        Proj["Projection: the causal frontier, generated frame by frame in the present"]
-        Frame["One frame taken off: the galactic separations and redshifts now observed"]
-        Back["Run backward to the origin: pixels squeezed into a point, called the Big Bang singularity"]
-        Fwd["Run forward to the far extreme: pixels thinned to nothing, called heat death"]
-        Ends["Both ends belong to projected time, and the projection is not in the image"]
-        Proj --> Frame
-        Frame --> Back
-        Frame --> Fwd
-        Back --> Ends
-        Fwd --> Ends
-    end
-
-    style S_Frame fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
-    style Proj fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Frame fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Back fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Fwd fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Ends fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-```
 
 ## 七、 无限多条路径 / 7. Infinitely Many Paths
 
@@ -426,79 +218,9 @@ On the textbook reading, the observer along the first path accumulates fifty yea
 
 教科书里的双生子，是这无限多条路径里只取两条的特例。画在静态坐标纸上的许多条曲线，用度规量出长短之后，被想成许多条并存而流速各异的时间之河。重逢的那一点不是许多条河汇入的水池，它就是此时此地不可分割的当下；各人在同一个当下里一步一步地到达，图上路径长度的差别是投影的算术余数。被藏在图外的那个观察者，正是[不可还原的观察者](../the-irreducible-observer/)所说的不可还原者。
 
-```mermaid
-flowchart TD
-    subgraph S_Paths["无限多条路径与一个重逢"]
-        direction TB
-        Origin["出发：同一个因果起点"]
-        PathOne["路径一：积分得五十年"]
-        PathTwo["路径二：积分得五年"]
-        PathThree["路径三：积分得两天"]
-        PathMore["路径四：积分得十分钟，如此以至无穷"]
-        Room["重逢：同一个房间，同一个当下"]
-        Rivers["字面的读法：许多条流速各异的时间之河汇于一点"]
-        Rem["从握手的位置：一个当下，长度之差是图上的余数"]
-        Origin --> PathOne
-        Origin --> PathTwo
-        Origin --> PathThree
-        Origin --> PathMore
-        PathOne --> Room
-        PathTwo --> Room
-        PathThree --> Room
-        PathMore --> Room
-        Room --> Rivers
-        Room --> Rem
-    end
-
-    style S_Paths fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style Origin fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style PathOne fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style PathTwo fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style PathThree fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style PathMore fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Room fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Rivers fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Rem fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-```
-
 The twins of the textbook are the special case in which only two of these infinitely many paths are taken. Many curves drawn on static coordinate paper, once their lengths are measured with the metric, are imagined as many rivers of time existing together and flowing at different rates. The point of reunion is not a pool into which many rivers run; it is the indivisible present, here and now. Each arrives step by step within one present, and the difference in path length on the picture is the arithmetic remainder of the projection. The observer hidden outside the picture is the irreducible one of [The Irreducible Observer](../the-irreducible-observer/).
 
-```mermaid
-flowchart TD
-    subgraph S_Paths["Infinitely Many Paths and One Reunion"]
-        direction TB
-        Origin["Departure: one causal starting point"]
-        PathOne["Path one: the integral gives fifty years"]
-        PathTwo["Path two: the integral gives five years"]
-        PathThree["Path three: the integral gives two days"]
-        PathMore["Path four: the integral gives ten minutes, and so on without end"]
-        Room["Reunion: one room, one present"]
-        Rivers["The literal reading: many rivers of time at different rates meeting at a point"]
-        Rem["From the handshake: one present, and the difference in length is a remainder on the picture"]
-        Origin --> PathOne
-        Origin --> PathTwo
-        Origin --> PathThree
-        Origin --> PathMore
-        PathOne --> Room
-        PathTwo --> Room
-        PathThree --> Room
-        PathMore --> Room
-        Room --> Rivers
-        Room --> Rem
-    end
-
-    style S_Paths fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style Origin fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style PathOne fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style PathTwo fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style PathThree fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style PathMore fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Room fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Rivers fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Rem fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-```
-
-## 八、 切线、双锚与地图 / 8. The Tangent, the Two Anchors and the Map
+## 八、 切线、双锚与地图 / 8. The Tangent, the Two Anchors, and the Map
 
 静态的四维模型为什么这样可信？一部分答案在观测的窗口里。在日常感知的尺度上，周围的环境极为稳定：宏观物体的速度远小于光速，微观的涨落被统计的平均盖住。在这个狭窄的窗口里，世界被体验成一个近于静止的容器。
 
@@ -514,73 +236,21 @@ The model agrees with observation so well because of local linear approximation.
 
 相对论的用处在两个测量基准上。狭义相对论的锚是光速。测量的一条通则是：用系统里传播最快的信号去标定较慢的现象；若基准比系统内部的运动慢，比它快的因果事件就无从约束。狭义相对论把因果传递的上限定为测量中的不变量，由此搭起一张覆盖一切次光速运动的测度之网。广义相对论的锚是整个宇宙：它以度规 gμν 与能动张量 Tμν 的全域分布为背景，一旦以整个宇宙为参照，其中的每一颗星体、每一束光与每一个振子，都得到精确的相对位置与几何关系。
 
-The use of relativity lies in two benchmarks of measurement. The anchor of special relativity is the speed of light. A general rule of measurement is to calibrate slower phenomena with the fastest signal that propagates in a system; if the benchmark is slower than the motion inside the system, causal events faster than it cannot be bounded. Special relativity sets the upper limit of causal transmission as the invariant of measurement and from it builds a net of measure that covers all motion below the speed of light. The anchor of general relativity is the whole cosmos: it takes the global distribution of the metric gμν and the stress-energy tensor Tμν as its background, and once the whole cosmos is the reference, every star, every ray of light and every oscillator within it receives an exact relative position and geometric relation.
+The use of relativity lies in two benchmarks of measurement. The anchor of special relativity is the speed of light. A general rule of measurement is to calibrate slower phenomena with the fastest signal that propagates in a system; if the benchmark is slower than the motion inside the system, causal events faster than it cannot be bounded. Special relativity sets the upper limit of causal transmission as the invariant of measurement and from it builds a net of measure that covers all motion below the speed of light. The anchor of general relativity is the whole cosmos: it takes the global distribution of the metric gμν and the stress-energy tensor Tμν as its background, and once the whole cosmos is the reference, every star, every ray of light, and every oscillator within it receives an exact relative position and geometric relation.
 
 理论与世界的关系，像二维地图与三维地球的关系。把球面画到平面上，几何畸变在数学上免不了：墨卡托投影里，两极被拉伸到无穷，格陵兰岛看上去比整个非洲还大。这不妨碍它是一张极为精确的航海图，航海所需的方位角、恒向线与相对的陆地坐标，都被投影严格地保存下来，水手凭它横渡风暴，准确进港。
 
-The relation of theory to world is like the relation of a two-dimensional map to the three-dimensional Earth. When a sphere is drawn on a plane, geometric distortion is mathematically unavoidable: in the Mercator projection the poles are stretched to infinity and Greenland looks larger than the whole of Africa. This does not keep it from being a very exact nautical chart; the bearings, rhumb lines and relative coordinates of land that navigation needs are all strictly preserved by the projection, and with it a sailor crosses storms and makes port accurately.
+The relation of theory to world is like the relation of a two-dimensional map to the three-dimensional Earth. When a sphere is drawn on a plane, geometric distortion is mathematically unavoidable: in the Mercator projection the poles are stretched to infinity and Greenland looks larger than the whole of Africa. This does not keep it from being a very exact nautical chart; the bearings, rhumb lines, and relative coordinates of land that navigation needs are all strictly preserved by the projection, and with it a sailor crosses storms and makes port accurately.
 
 相对论的时空模型是这样一张高度保真的工程地图。它以光速与整个宇宙为基准，把因果的展开投影到四维的坐标网格里，精确地保存了振子与光信号之间的相对关系，水星进动、引力透镜与 GPS 授时的校准都靠它。
 
-The spacetime model of relativity is an engineering map of this kind, of high fidelity. With the speed of light and the whole cosmos as benchmarks, it projects the unfolding of causality onto a four-dimensional coordinate grid and preserves exactly the relations between oscillators and light signals; the perihelion of Mercury, gravitational lensing and the calibration of GPS timing all depend on it.
+The spacetime model of relativity is an engineering map of this kind, of high fidelity. With the speed of light and the whole cosmos as benchmarks, it projects the unfolding of causality onto a four-dimensional coordinate grid and preserves exactly the relations between oscillators and light signals; the perihelion of Mercury, gravitational lensing, and the calibration of GPS timing all depend on it.
 
 航海的人不会指着墨卡托地图上被拉到无穷的北极，说地球在北极有一道无限延伸的冰墙。对四维的图纸，同一种读法却很常见：投影角度造成的世界线长度之差，被读成远航的弟弟到了未来；缩回原点的那一个点，被读成宇宙的开端；扩散到极限的空白边缘，被读成宇宙的终结。图上的畸变在这里被读成了宇宙的历史。
 
-```mermaid
-flowchart TD
-    subgraph S_Map["地图保存的与地图带来的"]
-        direction TB
-        Living["因果的展开：在当下一步一步生成"]
-        Chart["工程地图：以光速与整个宇宙为锚的四维坐标网格"]
-        Keep["保存下来的：振子与光信号之间的相对关系，可用于导航与授时"]
-        Distort["投影带来的畸变：世界线长度之差，原点的一点，极远的空白"]
-        Nav["航海者的读法：用图导航，不说北极有冰墙"]
-        Lit["字面的读法：到了未来，始于一点，终于热寂"]
-        Living --> Chart
-        Chart --> Keep
-        Chart --> Distort
-        Distort --> Nav
-        Distort --> Lit
-    end
-
-    style S_Map fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style Living fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Chart fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Keep fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Distort fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Nav fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Lit fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-```
-
 One who navigates does not point at the North Pole stretched to infinity on a Mercator chart and say that the Earth has a wall of ice extending without end at the pole. With the four-dimensional chart the same kind of reading is common: the difference in worldline length produced by the angle of projection is read as the travelling twin having arrived in the future; the single point shrunk back to the origin is read as the beginning of the cosmos; the blank edge spread out to the limit is read as its end. Here the distortions on the chart are read as the history of the cosmos.
 
-```mermaid
-flowchart TD
-    subgraph S_Map["What the Map Preserves and What the Map Brings"]
-        direction TB
-        Living["The unfolding of causality: generated step by step in the present"]
-        Chart["The engineering map: a four-dimensional grid anchored to light speed and the whole cosmos"]
-        Keep["What is preserved: relations between oscillators and light signals, usable for navigation and timing"]
-        Distort["Distortions brought by projection: differing worldline lengths, a point at the origin, a blank far edge"]
-        Nav["The navigator's reading: steer by the chart, claim no wall of ice at the pole"]
-        Lit["The literal reading: arrival in the future, a beginning at a point, an end in heat death"]
-        Living --> Chart
-        Chart --> Keep
-        Chart --> Distort
-        Distort --> Nav
-        Distort --> Lit
-    end
-
-    style S_Map fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style Living fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Chart fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Keep fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Distort fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Nav fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Lit fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-```
-
-## 九、 一句话底下的几幅图像 / 9. Several Pictures under One Phrase
+## 九、 一句话底下的几幅图像 / 9. Several Pictures Under One Phrase
 
 站在不做推导的位置上，“时间膨胀”与“穿越时空”的可信来自标签：不推黎曼几何、不解场方程的时候，接过来的是冠着爱因斯坦名字、被称作“既定科学”的词。
 
@@ -592,69 +262,11 @@ From a position where no derivation is done, the credibility of "time dilation" 
 
 几幅互不相通的图像，对外用的是同一句话：“时间膨胀早已被严密证实。”这句话让论文得以发表、协作得以进行，这是它的用处；图像之间的分歧留在了这句话的底下。[从形式迷思到逻辑闭环](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)指出，权威的背书代替不了第一人称的逻辑闭环；标签可以作为多出来的一条信号，被当作结论时，推导就停在了它那里。
 
-```mermaid
-flowchart TD
-    subgraph S_Phrase["一句话底下的几幅图像"]
-        direction TB
-        PicOne["图像一：掉头的加速打破对称"]
-        PicTwo["图像二：加速无关，第三只惯性钟即可"]
-        PicThree["图像三：同时性平面的跳变"]
-        PicFour["图像四：测地线长度的数学事实"]
-        Phrase["同一句话：时间膨胀已被证实"]
-        Use["用处：让协作得以进行，作为多出来的一条信号"]
-        Bound["边界：被当作结论时，推导停在标签上"]
-        PicOne --> Phrase
-        PicTwo --> Phrase
-        PicThree --> Phrase
-        PicFour --> Phrase
-        Phrase --> Use
-        Phrase --> Bound
-    end
-
-    style S_Phrase fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style PicOne fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style PicTwo fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style PicThree fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style PicFour fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Phrase fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Use fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Bound fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-```
-
 Several pictures that do not connect with one another use one sentence outwardly: "time dilation has long been rigorously confirmed." The sentence lets papers be published and cooperation go on, which is its use; the divergence between the pictures stays beneath it. [From the Myth of Form to the Closed Loop of Logic](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/) points out that the endorsement of authority cannot stand in for a first-person closed loop of logic; a label can serve as one more signal, and when it is taken as the conclusion, derivation stops at it.
-
-```mermaid
-flowchart TD
-    subgraph S_Phrase["Several Pictures under One Phrase"]
-        direction TB
-        PicOne["Picture one: turnaround acceleration breaks the symmetry"]
-        PicTwo["Picture two: acceleration is beside the point, a third inertial clock suffices"]
-        PicThree["Picture three: the jump of the plane of simultaneity"]
-        PicFour["Picture four: a mathematical fact about geodesic length"]
-        Phrase["One sentence: time dilation has been confirmed"]
-        Use["Use: it lets cooperation go on and serves as one more signal"]
-        Bound["Boundary: taken as the conclusion, derivation stops at the label"]
-        PicOne --> Phrase
-        PicTwo --> Phrase
-        PicThree --> Phrase
-        PicFour --> Phrase
-        Phrase --> Use
-        Phrase --> Bound
-    end
-
-    style S_Phrase fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style PicOne fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style PicTwo fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style PicThree fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style PicFour fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style Phrase fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style Use fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style Bound fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-```
 
 把一个在局域有效的模型当作整个宇宙的图景，与把地面当作平面是同一种结构。盖一栋房子、规划一座城市、修一条路时，把地面看作二维平面，准确而且高效；把这种局部的有效外推成“整个地球是一张平的盘”，就越过了它的边界。四维时空块也是这样：在局域的观测窗口里，把参考系之间的读数偏差投影为坐标时间，是方便的计算工具；据此说宇宙是一个静态的时空块、时间的流逝是幻觉、人可以到未来去，就是同一步外推。
 
-Taking a model that is valid locally as the picture of the whole cosmos has the same structure as taking the ground for a plane. In building a house, planning a city or laying a road, treating the ground as a two-dimensional plane is accurate and efficient; extrapolating this local validity into "the whole Earth is a flat disc" goes past its boundary. The four-dimensional block is the same: within a local window of observation, projecting the offsets in readings between frames as coordinate time is a convenient tool of calculation; to say on that basis that the cosmos is a static block, that the passing of time is an illusion and that a person can go to the future is the same step of extrapolation.
+Taking a model that is valid locally as the picture of the whole cosmos has the same structure as taking the ground for a plane. In building a house, planning a city, or laying a road, treating the ground as a two-dimensional plane is accurate and efficient; extrapolating this local validity into "the whole Earth is a flat disc" goes past its boundary. The four-dimensional block is the same: within a local window of observation, projecting the offsets in readings between frames as coordinate time is a convenient tool of calculation; to say on that basis that the cosmos is a static block, that the passing of time is an illusion, and that a person can go to the future is the same step of extrapolation.
 
 把两体的相对运动读成时间的不对称流逝，是在图外安放了一个未言明的俯瞰位置之后才出现的困局。[因果贯穿始终](../causality-all-the-way/)说过，定律与方程是心智建立的投影工具，展开各种可能的因果前沿只在第一人称的当下。
 
