@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T17:34:48.721Z",
+    "generated_at": "2026-10-20T17:40:06.148Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -229,7 +229,7 @@
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "cf80079a6070",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-deterministic-machine.md": "7ba9e608ee16",
-      "content/posts/the-digital-god-and-the-horizon-jump.md": "bbddfe893fca",
+      "content/posts/the-digital-god-and-the-horizon-jump.md": "97362847c13e",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "74cb658c21aa",
       "content/posts/the-discount-on-agency.md": "7f1324e7bcf7",
       "content/posts/the-dissolution-of-the-great-reversal.md": "3ef5fa05ee7f",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9388,
-      "unique_directed": 4750,
+      "edges": 9390,
+      "unique_directed": 4751,
       "missing_targets": 0,
-      "one_way": 272,
+      "one_way": 273,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 119
+      "in_degree": 120
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1070,7 +1070,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 119,
+      "in_degree": 120,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -6119,14 +6119,15 @@
       "slug": "the-digital-god-and-the-horizon-jump",
       "path": "content/posts/the-digital-god-and-the-horizon-jump.md",
       "title": "数字神祇与视界跳跃 / The Digital God and the Horizon Jump",
-      "hash": "bbddfe893fca",
+      "hash": "97362847c13e",
       "in_degree": 12,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "agi-and-asi-are-temporary-goalposts",
         "a-creation-cannot-replace-its-source",
         "intelligence-belongs-only-to-the-mind",
+        "beyond-the-projection",
         "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
         "the-boundary-crossing-of-choice",
         "causality-stays-at-the-edge-that-steers",
@@ -43545,6 +43546,18 @@
     },
     {
       "from": "the-digital-god-and-the-horizon-jump",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
       "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
       "rel": "points_to",
       "label": "造神戏法与未言明的位阶"
@@ -43595,7 +43608,7 @@
       "from": "the-digital-god-and-the-horizon-jump",
       "to": "amplification-paradox",
       "rel": "points_to",
-      "label": "放大器悖论"
+      "label": "放大悖论"
     },
     {
       "from": "the-digital-god-and-the-horizon-jump",
