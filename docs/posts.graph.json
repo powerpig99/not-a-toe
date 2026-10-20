@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T19:35:54.478Z",
+    "generated_at": "2026-10-20T19:40:09.551Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -295,7 +295,7 @@
       "content/posts/the-mark-and-the-act.md": "1e6944042bba",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "9fde797d1966",
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "1cc729bed0a9",
-      "content/posts/the-mind-that-statistics-cannot-reveal.md": "fd3f9916d247",
+      "content/posts/the-mind-that-statistics-cannot-reveal.md": "06f1b473faaf",
       "content/posts/the-mirage-of-the-infinite-totality.md": "591249e563df",
       "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "e91e8817edf2",
       "content/posts/the-mirror-handshake-of-power.md": "d87437fc547d",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9537,
-      "unique_directed": 4789,
+      "edges": 9539,
+      "unique_directed": 4790,
       "missing_targets": 0,
-      "one_way": 311,
+      "one_way": 312,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 156
+      "in_degree": 157
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1073,7 +1073,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 156,
+      "in_degree": 157,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -7550,9 +7550,9 @@
       "slug": "the-mind-that-statistics-cannot-reveal",
       "path": "content/posts/the-mind-that-statistics-cannot-reveal.md",
       "title": "统计学无法揭示的心智 / The Mind That Statistics Cannot Reveal",
-      "hash": "fd3f9916d247",
+      "hash": "06f1b473faaf",
       "in_degree": 7,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "the-average-is-residue-not-the-engine",
         "individual-choices-as-the-only-causal-levers",
@@ -7560,6 +7560,7 @@
         "the-misallocation-of-agency",
         "the-perceiver-and-the-trace",
         "intelligence-belongs-only-to-the-mind",
+        "beyond-the-projection",
         "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng"
       ]
     },
@@ -51572,7 +51573,7 @@
       "from": "the-mind-that-statistics-cannot-reveal",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
-      "label": "The average is residue, not the engine"
+      "label": "The Average Is Residue, Not the Engine"
     },
     {
       "from": "the-mind-that-statistics-cannot-reveal",
@@ -51584,7 +51585,7 @@
       "from": "the-mind-that-statistics-cannot-reveal",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "Individual Choices as the Only Causal Levers"
     },
     {
       "from": "the-mind-that-statistics-cannot-reveal",
@@ -51614,7 +51615,7 @@
       "from": "the-mind-that-statistics-cannot-reveal",
       "to": "the-misallocation-of-agency",
       "rel": "points_to",
-      "label": "The misallocation of agency"
+      "label": "The Misallocation of Agency"
     },
     {
       "from": "the-mind-that-statistics-cannot-reveal",
@@ -51630,6 +51631,12 @@
     },
     {
       "from": "the-mind-that-statistics-cannot-reveal",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-mind-that-statistics-cannot-reveal",
       "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "rel": "points_to",
       "label": "目的性的评判与认知的缺省状态"
@@ -51638,7 +51645,13 @@
       "from": "the-mind-that-statistics-cannot-reveal",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence belongs only to The Mind"
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "the-mind-that-statistics-cannot-reveal",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-mind-that-statistics-cannot-reveal",
