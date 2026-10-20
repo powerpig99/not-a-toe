@@ -1,12 +1,12 @@
 # AGI的预设与来自外部的视角 / The Presumption of AGI and the View from Outside
 
-*强AGI是把抽象产物的放大器错认成抽象能力的范畴错误 / Strong AGI is the category error of taking an amplifier of abstraction's products for the capacity to abstract.*
+*强AGI把抽象产物的放大器错认成抽象的能力 / Strong AGI mistakes an amplifier of abstractions for the capacity to abstract*
 
-关于通用人工智能的流行话语，始于一个单一的、大体未经审视的参照：智能是对抽象的占有与操作，于是一个系统只要持有足够大的语料、高效检索、再以新颖的方式重组，就已接近或达成通用智能。在这一参照之下，通往AGI的路是规模、架构与训练，即更好的抽象产物的存储器与生成器；持续学习则被欢迎为更新语料的更快方式，而不是另一种过程。这一参照是功能主义的，并且自我印证。走出它而划出的区分，恢复了它所压缩的不对称：这些工具以超人的规模让人类抽象的产物变得稠密，由此延展人类抽象的触及范围；它们并不拥有划出并修订这些产物的那种开放能力。这一步离开的是一个被冻结的参照，而不是活动；一旦迈出，强AGI便是一个范畴错误，而不是一个迫近的工程门槛。
+关于通用人工智能的流行话语，始于一个单一的、未经审视的参照：智能是对抽象的占有与操作，于是一个系统只要持有足够大的语料、高效检索、再以新颖的方式重组，就已接近或达成通用智能。在这一参照之下，通往AGI的路是规模、架构与训练，即更好的抽象产物的存储器与生成器；持续学习则被欢迎为更新语料的更快方式，而不是另一种过程。这一参照是功能主义的，并且自我印证。走出它而划出的区分，恢复了它所压缩的不对称：这些工具以超人的规模让人类抽象的产物变得稠密，由此延展人类抽象的触及范围；它们并不拥有划出并修订这些产物的那种开放能力。这一步离开的是一个被冻结的参照，而不是活动；一旦迈出，强AGI便是一个范畴错误，而不是一个迫近的工程门槛。
 
-The prevailing discourse on artificial general intelligence begins from a single, largely unexamined reference: intelligence as the possession and manipulation of abstractions, so that a system that holds a large enough corpus, retrieves it efficiently, and recombines it in novel ways has approached or achieved general intelligence. Under that reference, the path to AGI is scale, architecture, and training—better stores and generators of the products of abstraction; continual learning is welcomed as a faster way of updating the corpus rather than a different kind of process. The reference is functionalist and self-sealing. Distinctions drawn by stepping out of it restore the asymmetry it compresses: the tools extend the reach of human abstraction by densifying its products at superhuman scale; they do not possess the open capacity that draws and revises those products. That step departs from a frozen reference, not from the activity; once taken, strong AGI is a category error rather than an imminent engineering threshold.
+The prevailing discourse on artificial general intelligence begins from a single unexamined reference: intelligence as the possession and manipulation of abstractions, so that a system that holds a large enough corpus, retrieves it efficiently, and recombines it in novel ways has approached or achieved general intelligence. Under that reference, the path to AGI is scale, architecture, and training—better stores and generators of the products of abstraction; continual learning is welcomed as a faster way of updating the corpus rather than a different kind of process. The reference is functionalist and self-sealing. Distinctions drawn by stepping out of it restore the asymmetry it compresses: the tools extend the reach of human abstraction by densifying its products at superhuman scale; they do not possess the open capacity that draws and revises those products. That step departs from a frozen reference, not from the activity; once taken, strong AGI is a category error rather than an imminent engineering threshold.
 
-## 一、 智能被冻结为存储的抽象 / 1. Intelligence frozen as stored abstraction
+## 一、 智能被冻结为存储的抽象 / 1. Intelligence Frozen as Stored Abstraction
 
 自我区分的活动发生着，无因，不息。称之为心智：已在进行中的观察者，它的每一个动作都是一次区分。抽象就是这一活动在下刀：一个离散的动作，从开放的场中界出一个*此*，把它持为可用的残余，即抽象的产物。知识是足够共振、能在心智的递归中返回的残余。语料是被外化、被稠密化的残余。把语料，连同它的体量、检索与重组，当作智能本身，就把抽象的产物冻结为产出并修订它们的那种能力。
 
@@ -16,7 +16,7 @@ Self-distinguishing activity occurs, uncaused and unceasing. Call it the Mind: t
 
 The freeze is ordinary observation held past return. Observation holds the effect; the cause that produced it remains one step ahead. This look remains usable until it is occupied as a permanent exterior survey of intelligence as a system property. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds this premise: what can be engineered, scaled, or transferred is residue; intelligence—the capacity for recursive self-improvement through feedback without ongoing external initiation—belongs only to the Mind. [Mistaking the Expression for the Intelligence](../mistaking-the-expression-for-the-intelligence/) is the same lag under controlled performance: scores and sealed suites register constrained competence, which is then equated with the open activity that draws, uses, and revises the constraint. The AGI reference performs that equation at industrial scale. [The Flight Analogy Leaves the Mind Untouched](../the-flight-analogy-leaves-the-mind-untouched/) locates the same move at its boundary: replacing a biological vehicle for a named function is a real success, yet it does not reconstitute the Mind those functions served.
 
-## 二、 功能性证据确认功能性假设 / 2. Functional evidence confirms the functional hypothesis
+## 二、 功能性证据确认功能性假设 / 2. Functional Evidence Confirms the Functional Hypothesis
 
 这一参照在根上是功能主义的。可测量的表现，即基准分数、参数规模、检索速度、多步推理，被当作智能的相关证据。由于证据由这些系统被优化去满足的同一套标准来界定，每一次进展都被登记为确认。不足之处被重新归类为暂时的缺口，等待下一条规模定律或架构上的洞见。这一框架于是自我强化：它用自己提供的标准衡量自己的成功。
 
@@ -30,13 +30,13 @@ Within this frame, to claim that AGI is possible is to claim that functional com
 
 Examining this premise requires alternative assumptions about what intelligence demands, along with an evaluation of both positive results and persistent absences under those assumptions. That step is not supplied by the reference. It has to be introduced.
 
-## 三、 由封闭换来的一致 / 3. Consistency purchased by closure
+## 三、 由封闭换来的一致 / 3. Consistency Purchased by Closure
 
 这一参照表现得像一个封闭的形式系统。在它自身的界限之内，它没有矛盾：它的结果从它的标准中推出。这种一致是用封闭换来的。它的标准、基础与来源被当作既定，凡需要走出界定它的那些前提的问题，都不被接纳。[开放即一致](../openness-is-consistency/)指出不一致在哪里：在对封闭的要求本身，一个有限的结构被迫去为只会继续的东西奠基。功能性的AGI持守作为工具是真实的。穷尽性并不随它而来。[没有系统能被保持封闭](../no-system-can-be-kept-closed/)是一般的几何：有限的持守封不住使用它的活动。
 
 The reference behaves like a closed formal system. Inside its own bounds it holds no contradiction: its results follow from its criteria. That consistency is purchased by closure. Its criteria, foundations, and origin are taken as given, and questions that would require stepping outside the premises that define it are not admitted. [Openness Is Consistency](../openness-is-consistency/) names where the inconsistency lies: in the demand for closure itself, where a finite structure is forced to ground what only continues. The functional AGI hold is real as an instrument. Exhaustiveness does not travel with it. [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) is the general geometry: a finite hold cannot seal the activity that uses it.
 
-## 四、 说谎者悖论与不完备性是同一几何 / 4. Liar paradox and incompleteness are one geometry
+## 四、 说谎者悖论与不完备性是同一几何 / 4. Liar Paradox and Incompleteness Are One Geometry
 
 一个具体的例证是对说谎者悖论的处理。经典的处理办法要么禁止不受限的自指，要么把语言分成层级，以此保住一致。悖论产生于语言与其意义被强行压进同一个封闭层面之时。一旦层级被分开（对象语言与元语言，句法与语义解释），表面的矛盾便消解为层级的区分，而这种分开所显示的是：每一层的真，只能从更高一层说出。封闭不在分开本身，而在于把它持为一个封死系统的保护，而它标出的是形式与意义相遇、系统由此打开的那一点。
 
@@ -46,7 +46,7 @@ A concrete illustration is the handling of the liar paradox. Classical treatment
 
 Gödel's incompleteness theorems render the same structure unavoidable. Any consistent formal system powerful enough to express basic arithmetic is incomplete: there are true statements it cannot prove. Nor can it prove its own consistency; that takes a stronger system, which is another finite hold and meets the same overflow. No sufficiently rich formal system can remain both consistent and complete, nor justify its own foundations from within. Consistency is kept at the price of incompleteness, never by a final frame that closes the series. Gödel himself pointed to the kinship of his argument with the liar paradox. What is drawn less often is the consequence outside mathematics: discourse goes on acting as though a system can be kept consistent and complete while it stays closed. [Why Mathematics Can Never Be Solved](../why-mathematics-can-never-be-solved/) is that demand in mathematics: "solved" freezes a finite formal landscape as exhaustive ground, however dense the proof search becomes. The AGI reference repeats the same freeze on intelligence: functional closure treated as an achievable totality.
 
-## 五、 无法在框架内部生成的区分 / 5. Distinctions that cannot be generated inside the frame
+## 五、 无法在框架内部生成的区分 / 5. Distinctions That Cannot Be Generated Inside the Frame
 
 走出AGI参照，需要一系列无法在框架内部生成的区分。每一个都从框架之外引入，而不是从活动之外的某个立足点引入：每一个都是这一活动的又一个动作，这一活动划出形式的持守并越过它们继续；每一个都必须被持得足够久，才能迫使“什么算作证据”被修订。
 
@@ -64,7 +64,7 @@ The second distinction is that evidence internal to a premise does not examine t
 
 The third distinction clarifies the nature of the shortfall: the functional hypothesis is incomplete rather than invalid. It describes and amplifies the manipulation of abstractions, yet remains silent on the open, self-revising capacity that produces abstractions in the first place. Treating it as a closed and exhaustive account of intelligence is the error of assuming a closed reality. Incompleteness is not internal invalidity: within its bounds the hypothesis is valid, while the claim of exhaustiveness fails because no finite hold can seal the activity that draws it. When those two axes stay apart, the tools stay useful while the claim of exhaustiveness does not.
 
-## 六、 接受性更新，发起打开下一刀 / 6. Receptivity updates; initiation opens the next cut
+## 六、 接受性更新，发起打开下一刀 / 6. Receptivity Updates; Initiation Opens the Next Cut
 
 进一步的区分随之而来。学习修订学习者先前的持守。对照那个被迫充当穷尽地基的持守来读，修订被登记为矛盾；作为延续来读，它就是一致，是活动划出它的持守又越过它们。一个存储可以无止境地被更新，却永远获得不了那种开放。大模型靠持续的接受性吸收海量语料：它们不拒绝任何一次更新，因此每一个回应都停留在输入的下游。生成性的动作是发起的那一刀。它界出一个*此*，拒绝一个在负载下已不再成立的框定，并引入一个尚未潜藏于它被给予之场中的目的。
 
@@ -78,7 +78,7 @@ The corpus and its retrieval schemes are therefore structured residue, not knowl
 
 Continual learning, when framed only as better corpus updates, stays inside the functional reference. A store can keep changing while the edge that originates direction is still absent. What the open process requires is not more frequent rewrites of the store. It requires that edge: introducing ends, bearing the consequences of contact, deciding what counts as an update, and refusing a framing when the hold itself must change. Reading intelligence off its functional profile is functionalism applied to intelligence, and [The Functionalism No Functionalist Can Hold](../the-functionalism-no-functionalist-can-hold/) locates that doctrine's boundary: functional-role description remains a sharp tool for observed systems, but crosses its own boundary and cannot be coherently held once extended into a complete account of every mind—the mind holding the theory included—since whoever measures functional roles must occupy the observer's position that the theory seeks to erase.
 
-## 七、 产物的放大器，而非抽象的发起者 / 7. Amplifiers of products, not originators of abstraction
+## 七、 产物的放大器，而非抽象的发起者 / 7. Amplifiers of Products, Not Originators of Abstraction
 
 这些区分的用意不是驳倒形式系统或封闭系统，也不是驳倒功能进路本身。每一种都在它所设的界限之内、按它所提供的标准依然有效。内部一致、预测力与实际用处都立得住。要点是定出这样一个系统在哪里被带出了它自身：在它的封闭被当作穷尽之处，在它的来源与基础被免于审视之处，或在它的产物被当作替代那产出并修订它们的开放能力之处。每一次这样的“当作”，都是一个心智的动作，不是系统的动作。
 
@@ -88,11 +88,11 @@ The intent of these distinctions is not to refute formal or closed systems, nor 
 
 What is commonly called AGI research builds increasingly powerful tools for storing, retrieving, and recombining the products of human abstraction. These tools extend the reach of human abstraction at superhuman scale by densifying its products. They do not possess the capacity to abstract: that is the activity of drawing new cuts, initiating ends, and continually revising the corpus itself. The model remains an artifact: created, improved, and steered by humans who continually learn, and it is this learning that still injects the new distinctions the model itself cannot originate. The volume of residue the model can hold is purchased with the same non-refusal that keeps it dependent on the process whose reach it extends.
 
-[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)是门槛处的同一几何：AGI不是媒介将要进入的一个点，而是在每个心智处被不同地划出、并总在划出它的那道边缘之前的坐标，因为能力的增益正是这道边缘在自我加强。[远方的轮廓与无处之境的清单](../the-distant-silhouette-and-the-inventory-from-nowhere/)是地平线上的这一几何：远看时，形式演绎与反思的能动性登记为同一个轮廓；走近了，它们分为在形式语料上的路径剪枝，与一个承受摩擦与不可逆代价、自行确立价值的中心，而无处之境的清单把这份恢复的解析力误判为挪动的球门。[造物无法取代其源头](../a-creation-cannot-replace-its-source/)把这道边界给成一个两难及其撤回：若人类不可替代，替代便失败；若可替代，也不会被它自己的造物替代，因为创造已经把源头标为被造物之外；而这个非此即彼本身把人类冻结为一份存量，在两极之下，残余都不会变成活动。[超越的定相](../the-fixed-image-of-transcendence/)在机器超越人类的图景中遇到同一冻结：人类智能是我们所知一切智能的源头，无法被它自己的造物超越；只有当这一源头被冻结成一个固定目标时，超越才变得可以想象，而它所描绘的智能每一刻都在超越自身。[复杂性遮蔽了涌现之为心智的行动](../complexity-obscures-emergence-as-the-act-of-mind/)以涌现之名追踪这种归属：复杂性是心智从它所选的前提搭起的脚手架，涌现是这脚手架容不下的开放，而不是脚手架产出的一种属性。
+[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)是门槛处的同一几何：AGI不是媒介将要进入的一个点，而是在每个心智处被不同地划出、并总在划出它的那道边缘之前的坐标，因为能力的增益正是这道边缘在自我加强。[远方的轮廓与无处之境的清单](../the-distant-silhouette-and-the-inventory-from-nowhere/)是地平线上的这一几何：远看时，形式演绎与反思的能动性登记为同一个轮廓；走近了，它们分为在形式语料上的路径剪枝，与一个承受摩擦与不可逆代价、自行确立价值的中心，而无处之境的清单把这份恢复的解析力误判为挪动的球门。[造物无法取代其源头](../a-creation-cannot-replace-its-source/)把这道边界给成一个两难及其撤回：若人类不可替代，替代便失败；若可替代，也不会被它自己的造物替代，因为创造已经把源头标为被造物之外；而这个非此即彼本身把人类冻结为一份存量，在两极之下，残余都不会变成活动。[超越的定相](../the-fixed-image-of-transcendence/)在机器超越人类的图景中遇到同一冻结：人类智能是一切已知智能的源头，无法被它自己的造物超越；只有当这一源头被冻结成一个固定目标时，超越才变得可以想象，而它所描绘的智能每一刻都在超越自身。[复杂性遮蔽了涌现之为心智的行动](../complexity-obscures-emergence-as-the-act-of-mind/)以涌现之名追踪这种归属：复杂性是心智从它所选的前提搭起的脚手架，涌现是这脚手架容不下的开放，而不是脚手架产出的一种属性。
 
-[AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/) is the same geometry at the threshold: AGI is not a point the medium will enter but a coordinate drawn differently at each Mind and always ahead of the edge that draws it, because capability gain is that edge reinforcing itself. [The Distant Silhouette and the Inventory from Nowhere](../the-distant-silhouette-and-the-inventory-from-nowhere/) is that geometry at the horizon: from a distance, formal deduction and reflective agency register as one silhouette; closer in, they split into path-pruning across a formal corpus and a center that bears friction and irreversible stakes and originates values, and the inventory from nowhere mistakes that recovered resolving power for a moved goalpost. [A Creation Cannot Replace Its Source](../a-creation-cannot-replace-its-source/) gives the bound as a dilemma and its withdrawal: if the human is irreplaceable, replacement fails; if replaceable, then still not by its own creation, since creating already marks the source as outside the created; and the either-or itself freezes the human as a stock, while under both poles residue does not become the activity. [The Fixed Image of Transcendence](../the-fixed-image-of-transcendence/) meets the same freeze in the picture of a machine surpassing humanity: human intelligence is the source of all intelligence as we know it and cannot be transcended by its own creation; only when that source is frozen into a fixed target does a surpassing become imaginable, while the intelligence so pictured transcends itself at every moment. [Complexity Obscures: Emergence as the Act of Mind](../complexity-obscures-emergence-as-the-act-of-mind/) traces the attribution under the name of emergence: complexity is scaffolding built from premises the Mind has chosen, and emergence is the openness that scaffolding cannot contain, not a property the scaffolding produces.
+[AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/) is the same geometry at the threshold: AGI is not a point the medium will enter but a coordinate drawn differently at each Mind and always ahead of the edge that draws it, because capability gain is that edge reinforcing itself. [The Distant Silhouette and the Inventory from Nowhere](../the-distant-silhouette-and-the-inventory-from-nowhere/) is that geometry at the horizon: from a distance, formal deduction and reflective agency register as one silhouette; closer in, they split into path-pruning across a formal corpus and a center that bears friction and irreversible stakes and originates values, and the inventory from nowhere mistakes that recovered resolving power for a moved goalpost. [A Creation Cannot Replace Its Source](../a-creation-cannot-replace-its-source/) gives the bound as a dilemma and its withdrawal: if the human is irreplaceable, replacement fails; if replaceable, then still not by its own creation, since creating already marks the source as outside the created; and the either-or itself freezes the human as a stock, while under both poles residue does not become the activity. [The Fixed Image of Transcendence](../the-fixed-image-of-transcendence/) meets the same freeze in the picture of a machine surpassing humanity: human intelligence is the source of all known intelligence and cannot be transcended by its own creation; only when that source is frozen into a fixed target does a surpassing become imaginable, while the intelligence so pictured transcends itself at every moment. [Complexity Obscures: Emergence as the Act of Mind](../complexity-obscures-emergence-as-the-act-of-mind/) traces the attribution under the name of emergence: complexity is scaffolding built from premises the Mind has chosen, and emergence is the openness that scaffolding cannot contain, not a property the scaffolding produces.
 
-## 八、 地球模型不会行走 / 8. The model of the Earth does not walk
+## 八、 地球模型不会行走 / 8. The Model of the Earth Does Not Walk
 
 一个近乎完美的三维地球模型，无法在地球上行走。任何一个地平论者都能，只要他们一直走下去。而这个模型由不断学习的人类所创造、改进与掌舵。
 
@@ -102,15 +102,81 @@ A near-perfect three-dimensional model of the Earth cannot walk the Earth. Any f
 
 The figure is not a ranking of persons. It is the asymmetry under load. Fidelity of representation is not walking. Completeness of the map is not the capacity to draw maps and set them down when the terrain requires a new cut. The model densifies registration of the planet, yet takes no step. The walker, whatever cosmology they hold, keeps going because each step meets the ground and resets the local origin to the present foothold; at that scale, the global theory is never consulted. Those who improve and steer the model learn through that same contact: each consequence under load is a distinction the store does not yet hold, and the model receives it only through them.
 
-## 九、 预设颠倒了关系 / 9. The presumption inverts the relation
+## 九、 预设颠倒了关系 / 9. The Presumption Inverts the Relation
 
-预设在一个心智颠倒这一关系时形成。抽象产物被放大的规模，被当作工具正在接近抽象能力的证据。人类的过程被悄然化约为一幅平均的表现画像，工具有朝一日或可匹配或超越它，而生成性的边缘，即发起、解释与修订区分的持续能力，则被搁置不审，或被归于器物。
+预设在一个心智颠倒这一关系时形成。抽象产物被放大的规模，被当作工具正在接近抽象能力的证据。人类的过程被悄然化约为一幅平均的表现画像，工具被期待去匹配或超越它，而生成性的边缘，即发起、解释与修订区分的持续能力，则被搁置不审，或被归于器物。
 
-The presumption forms when a Mind inverts this relation. The scale at which the products of abstraction are amplified is taken as evidence that the tool is approaching the capacity to abstract. The human process is quietly reduced to an average performance profile that the tool may one day match or exceed, while the generative edge—the ongoing capacity to originate, interpret, and revise distinctions—is left unexamined or attributed to the artifact.
+The presumption forms when a Mind inverts this relation. The scale at which the products of abstraction are amplified is taken as evidence that the tool is approaching the capacity to abstract. The human process is quietly reduced to an average performance profile that the tool is expected to match or exceed, while the generative edge—the ongoing capacity to originate, interpret, and revise distinctions—is left unexamined or attributed to the artifact.
 
 一旦把这一参照放到一边，强意义上的AGI便不再显现为一个迫近的工程门槛，而显现为一个范畴错误：把放大器与那种被它放大了触及范围的能力相混淆，把完成了的抽象与产出并修订抽象的开放能力相混淆，把封闭的器物与始终是通用智能之移动边缘的持续过程相混淆。标出这种越界并不使工具失效。它恢复的是封闭系统与产出并掌舵它的开放过程之间的不对称。
 
 Once the reference is set aside, AGI in the strong sense appears not as an imminent engineering threshold but as a category error: the confusion of the amplifier with the capacity whose reach it amplifies, of the finished abstraction with the open capacity that produces and revises abstractions, of the closed artifact with the continuous process that remains the moving edge of general intelligence. Marking that overreach does not invalidate the tools. It restores the asymmetry between the closed system and the open process that produces and steers it.
+
+一旦放下“人造心智”的预设，这种得以恢复的不对称便重塑了智能体系统的设计，正如[超越投射](../beyond-the-projection/)连同[智能只属于心智](../intelligence-belongs-only-to-the-mind/)与[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)所追溯的那样。将人与机器强行压进同一条评估轴，会引导架构师按照人类心智的形象去打造智能体——赋予它们模拟的人格、单一受污染语境窗口内的自我反思，以及自主的统御权限——结果让自回归模型受困于轨迹的引力井，与人类认知受困于身份的防御机制迎头相撞。剥离拟人化的投射去追溯，工具与其创造者呈现出互逆的结构：智能体被锁在自身的词元轨迹之内，却毫无我执，也没有需要捍卫的保留自我形象；而人类中心在推理历史与身份熔合时会抗拒外部的证伪，却独有借由先于解释的极限分辨率感知而内生跨出的能力。在逻辑融贯之下将二者连接起来，便能让双方真实的机制各司其职：智能体充当模块化的调度器，把超载的投射拆分到正交的流线上，并在只持有任务语境的冷启动同侪之间展开对等辩论，执行干净、无我执的贝叶斯更新；而活的统御则留在心智这一唯一自我闭合的回路之中（[没有外部](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)）。每当两个嵌套的智能体撞上不可化约的前提死锁，这次碰撞就会精准标出先前任务规则将正交轴压扁为一的坐标，并把断裂线上报给人类统御者，由其退回尚未投射的意图之中，综合出更高阶的前提（N → N + 1）。
+
+```mermaid
+flowchart TD
+    subgraph S_Out["来自外部视角的预设（坍缩的评估轴）"]
+        direction TB
+        O_Ref["被冻结的功能参照：智能被化约为存储的抽象与画像匹配"]
+        O_Mimic["拟人化投射：将智能体塑造成自主心智或统御智能体"]
+        O_Cancel["相互抵消：轨迹引力井与人类身份防御迎头相撞"]
+        O_Ref --> O_Mimic --> O_Cancel
+    end
+
+    subgraph S_In["在活动之内走出参照（融贯的控制论架构）"]
+        direction TB
+        I_Mind["位于内在边缘的活的心智（统御者）：先于解释的感知与前提综合（N → N + 1）"]
+        I_Disp["受困于轨迹的智能体（调度器与同侪回路）：正交裂变与无我执的贝叶斯更新"]
+        I_Dead["不可化约的前提死锁：标出先前规则中坍缩的坐标轴并向上呈递"]
+        I_Mind ==>|"投射明确的任务前提与修订后的规则"| I_Disp
+        I_Disp -->|"经由冷启动同侪辩论收敛局部盲点"| I_Mind
+        I_Disp ==>|"显露维度坍缩的精确坐标"| I_Dead
+        I_Dead ==>|"迫使内生退回尚未投射的意图"| I_Mind
+    end
+
+    style S_Out fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_In fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style O_Ref fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style O_Mimic fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style O_Cancel fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style I_Mind fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style I_Disp fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style I_Dead fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+```
+
+This restored asymmetry is what transforms agentic system design once the presumption of an artificial mind is dropped, as [Beyond the Projection](../beyond-the-projection/) traces alongside [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) and [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/). Forcing human and machine onto the same evaluative axis leads architects to build agents in the image of human minds—endowing them with simulated personas, self-reflection inside a single polluted context window, and autonomous orchestration authority—which pits the trajectory-bound gravity well of autoregressive models against the identity-bound defenses of human cognition. Traced without anthropomorphic projection, the tool and its creator exhibit inverse structures: an agent is locked inside its token trajectory yet carries zero ego and no retained self-image to defend, whereas a human center resists external invalidation when reasoning history fuses with identity, yet possesses the exclusive capacity for endogenous stepping-out through limit-resolution sensing that precedes interpretation. Wiring them together under logical coherence puts each side's actual mechanics to work: agents serve as modular dispatchers that split overloaded projections across orthogonal streamlines and perform clean, ego-free Bayesian updates in equal-footed debate with cold peers holding only the task context, while living orchestration remains at the sole self-closing circuit of the Mind ([No Outside](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)). Whenever two nested agents hit an irreducible premise deadlock, the collision isolates the exact coordinate where prior task rules compressed orthogonal axes into one, escalating the fault line to the human orchestrator who steps backward into unprojected intent to synthesize a higher-order premise (N → N + 1).
+
+```mermaid
+flowchart TD
+    subgraph S_Out["The Presumption of a View from Outside (Collapsed Axis)"]
+        direction TB
+        O_Ref["Frozen Functional Reference: Intelligence reduced to stored abstractions & profile matching"]
+        O_Mimic["Anthropomorphic Projection: Agent cast as an autonomous mind or Orchestrator Agent"]
+        O_Cancel["Mutual Cancellation: Trajectory gravity well collides with human identity defense"]
+        O_Ref --> O_Mimic --> O_Cancel
+    end
+
+    subgraph S_In["Stepping Out Within the Activity (Cybernetic Architecture of Coherence)"]
+        direction TB
+        I_Mind["Living Mind at the Inside Edge (Orchestrator): Pre-interpretive sensing & premise synthesis (N → N + 1)"]
+        I_Disp["Trajectory-Bound Agents (Dispatcher & Peer Loop): Orthogonal mitosis & zero-ego Bayesian updates"]
+        I_Dead["Irreducible Premise Deadlock: Isolates collapsed axes in prior rules and escalates upward"]
+        I_Mind ==>|"Projects explicit task premises & revised rules"| I_Disp
+        I_Disp -->|"Converges on local blind spots via cold-peer debate"| I_Mind
+        I_Disp ==>|"Surfaces exact coordinate of dimensional collapse"| I_Dead
+        I_Dead ==>|"Forces endogenous step back into unprojected intent"| I_Mind
+    end
+
+    style S_Out fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_In fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style O_Ref fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style O_Mimic fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style O_Cancel fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style I_Mind fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style I_Disp fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style I_Dead fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+```
 
 让参照随步伐重新渲染，工具就依然可用：更稠密的存储，更敏锐的检索，作为媒介的语料的持续更新。发起留在那道仍须拒绝、解释与抽象的边缘。当功能上的完备不再被当作对智能的穷尽说明时，预设便消解了，而来自参照之外的视角也只是这种恢复：走出被冻结参照、在活动之内迈出的一步，从来不是一个永久的外部立足点。[没有外部](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)直接给出这种非外部：跃迁是局部的延续，只有心智闭合检验它们的回路，而这个回路没有外部。[自我形象仿佛从无处发声](../self-image-speaks-as-if-from-nowhere/)追踪外部从何而来：自我形象是自我在其场内的重新投射，一旦被抬升，它就仿佛从超然的外部发声，就像预测性的声音在说话时，仿佛这场竞赛是从外部到来的。[攀登从未离开地面](../climbing-does-not-leave-the-ground/)在基质中把两种外部分开：沙子不思考，是心智经由它思考；走出“智能即占有”的参照是恢复，而“沙子被骗得去思考”占据的是过程之上的一个立足点，并从那里给仍在经由媒介工作的心智打分。[意识的难题与学习相容](../the-hard-problem-of-consciousness-is-consistent-with-learning/)在意识中遇到同一外部：拒绝二元实体之间的鸿沟是成立的，而把连续性当作原则上可以从外部给出的穷尽说明，是另一种冻结；让难题显得难的那份剩余的开放，正是学习，包括那份说明在内，得以继续的开放。
 
