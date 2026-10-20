@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T17:53:20.403Z",
+    "generated_at": "2026-10-20T17:54:55.411Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -17,7 +17,7 @@
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "184d47222192",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "842babd14bbf",
       "content/posts/agency-does-not-arise.md": "197fc86a6d73",
-      "content/posts/agency-relocated-into-the-formal-model.md": "c961561b57a8",
+      "content/posts/agency-relocated-into-the-formal-model.md": "cda3c7b60e7e",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "07f79977b3e7",
       "content/posts/ai-as-augmentation.md": "a27a4ea86606",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9409,
-      "unique_directed": 4755,
+      "edges": 9411,
+      "unique_directed": 4756,
       "missing_targets": 0,
-      "one_way": 277,
+      "one_way": 278,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 124
+      "in_degree": 125
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -859,14 +859,15 @@
       "slug": "agency-relocated-into-the-formal-model",
       "path": "content/posts/agency-relocated-into-the-formal-model.md",
       "title": "能动性被转置入形式模型 / Agency Relocated into the Formal Model",
-      "hash": "c961561b57a8",
+      "hash": "cda3c7b60e7e",
       "in_degree": 11,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "liberation-rhetoric-begins-by-defining-captivity",
         "empowerment-establishes-the-centralization-of-power",
         "the-coordinators-category-error",
         "the-model-never-becomes-a-second-edge",
+        "beyond-the-projection",
         "individual-choices-as-the-only-causal-levers",
         "the-rational-choice-postulate-is-the-original-sin",
         "the-average-is-residue-not-the-engine",
@@ -1070,7 +1071,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 124,
+      "in_degree": 125,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -11542,13 +11543,13 @@
       "from": "agency-relocated-into-the-formal-model",
       "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
-      "label": "Liberation rhetoric begins by defining captivity"
+      "label": "Liberation Rhetoric Begins by Defining Captivity"
     },
     {
       "from": "agency-relocated-into-the-formal-model",
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
-      "label": "Empowerment establishes the centralization of power"
+      "label": "Empowerment Establishes the Centralization of Power"
     },
     {
       "from": "agency-relocated-into-the-formal-model",
@@ -11564,15 +11565,27 @@
     },
     {
       "from": "agency-relocated-into-the-formal-model",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "agency-relocated-into-the-formal-model",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
-      "label": "The coordinator’s category error"
+      "label": "The Coordinator's Category Error"
     },
     {
       "from": "agency-relocated-into-the-formal-model",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
-      "label": "The model never becomes a second edge"
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "agency-relocated-into-the-formal-model",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "agency-relocated-into-the-formal-model",
@@ -11590,13 +11603,13 @@
       "from": "agency-relocated-into-the-formal-model",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "Individual Choices as the Only Causal Levers"
     },
     {
       "from": "agency-relocated-into-the-formal-model",
       "to": "the-rational-choice-postulate-is-the-original-sin",
       "rel": "points_to",
-      "label": "The rational choice postulate is the original sin"
+      "label": "The Rational Choice Postulate Is the Original Sin"
     },
     {
       "from": "agency-relocated-into-the-formal-model",
@@ -11614,7 +11627,7 @@
       "from": "agency-relocated-into-the-formal-model",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
-      "label": "The average is residue, not the engine"
+      "label": "The Average Is Residue, Not the Engine"
     },
     {
       "from": "agency-relocated-into-the-formal-model",
@@ -11644,13 +11657,13 @@
       "from": "agency-relocated-into-the-formal-model",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "The scaffolding we forget"
+      "label": "The Scaffolding We Forget"
     },
     {
       "from": "agency-relocated-into-the-formal-model",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "The allocation of causal power in validation"
+      "label": "The Allocation of Causal Power in Validation"
     },
     {
       "from": "agency-relocated-into-the-formal-model",
