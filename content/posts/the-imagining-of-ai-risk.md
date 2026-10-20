@@ -1,6 +1,6 @@
 # 对 AI 风险的想象 / The Imagining of AI Risk
 
-*被命名的 AI 风险是投射；把图像当真，会让使危险运作起来的人的链条变密。 / Named AI risk is projection; taking the image seriously densifies the human chain that makes the danger operational.*
+*被命名的 AI 风险是人的投射，一旦被冻结为封闭基础便会变密 / Named AI risk is a human projection that densifies when frozen as sealed ground*
 
 AI 系统里的风险，并不作为一种站在每个观察者之外的属性被登记到；能被命名的风险已经被框定，而这份框定变密为研究议程、机构、政策与集体行为。未经检验的灾难是投射，而对这个投射正确与否的重注，会让条件倾向于它声称要防止的结果；同一种想象的动作，当努力朝它声称想要的东西组织起来时，就产生被实现的益处。风险与益处不是技术各自独立的属性，而是人的投射的一对孪生产物；区分它们的，不是想象的对象是危险还是益处，而是这份预见被当作随接触重绘的器具，还是被冻结为封闭的基础，而这一差别显现为回应是否与它声称的意图保持连贯。
 
@@ -12,9 +12,69 @@ Risk in AI systems does not register as a property standing outside every observ
 
 Self-distinguishing activity occurs, uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Observation holds the effect; the generating conditions of the next failure stay one step ahead of any fixed inventory. A threat model, a safety case, a catastrophic scenario, an institutional charter written against a future that has not yet arrived: each densifies residual caution into usable form. Keep those densifications re-rendering with the edge and they stay instruments under present load.
 
-作为风险本身的内在风险，即独立于每一个框定位置的、系统的属性，会需要以下两者之一：一个其全部结果已被固定的封闭现实，或一个站在每一种可能视角之外的绝对参照系。两者都不能作为基础。一个内在风险的主张一旦被说出，就进入语言与人的模型，坍回相对的、被框定的风险。永远留在话语之外的东西，无法为行动或论证奠基。所以，断言 AI 的内在风险，就是装上一个封闭现实的前提：把结果的穷尽，或一个外部的参照，当作可以从那里发言的地方。[没有系统能被保持封闭](../no-system-can-be-kept-closed/)给出了不完备最直观的一面：一个一位寄存器做 1 + 1，在这个封闭的持守之内登记为 0，并带出一个进位；越过这个上限的延续，不是持守之内一个稳定的结果，也不是另一个领域。[开放即一致](../openness-is-consistency/)追溯了表面矛盾从何而来：是封闭的要求产生了矛盾，即把一个有限的结构逼去为只会继续的东西奠基。
+作为风险本身的内在风险，即独立于每一个框定位置的、系统的属性，会需要以下两者之一：一个其全部结果已被固定的封闭现实，或一个站在每一种可能视角之外的超然参照系。两者都不能作为基础。一个内在风险的主张一旦被说出，就进入语言与人的模型，坍回相对的、被框定的风险。永远留在话语之外的东西，无法为行动或论证奠基。所以，断言 AI 的内在风险，就是装上一个封闭现实的前提：把结果的穷尽，或一个外部的参照，当作可以从那里发言的地方。[没有系统能被保持封闭](../no-system-can-be-kept-closed/)给出了不完备最直观的一面：一个一位寄存器做 1 + 1，在这个封闭的持守之内登记为 0，并带出一个进位；越过这个上限的延续，不是持守之内一个稳定的结果，也不是另一个领域。[开放即一致](../openness-is-consistency/)追溯了表面矛盾从何而来：是封闭的要求产生了矛盾，即把一个有限的结构逼去为只会继续的东西奠基。[超越投射](../beyond-the-projection/)揭示了 AI 系统中这一封闭居于核心的结构性谬误：自回归模型或智能体是受限于自身条件轨迹的有限投射引擎，并无自我、求生本能或内生意图。将自主意志或生存性的恶意投射到器物之上，是错把下游的镜像投射当成了第二个活的心智；而真正的一致，在于让活的心智自身的因果边缘保持开放，使每一条规则、每一个威胁模型与每一道安全边界都作为暂时的投射，随时准备在接触暴露出矛盾时重绘。
 
-Inherent risk as such, risk as a property of the system independent of every framing locus, would require either a closed reality whose complete set of outcomes is already fixed, or an absolute reference frame standing outside every possible perspective. Neither is available as ground. The moment a claim of inherent risk is articulated it enters language and human models, and it collapses back into relative, framed risk. What remains permanently outside discourse cannot ground action or argument. Asserting inherent AI risk therefore installs a closed-reality premise: exhaustiveness of outcomes, or an exterior reference, treated as a place one could speak from. [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) gives the most intuitive face of that incompleteness: a one-bit register doing 1 + 1 registers 0 with a carry inside its closed hold, and the continuation past that ceiling is neither a stable result inside the hold nor a second realm. [Openness Is Consistency](../openness-is-consistency/) traces where the surface contradiction comes from: the demand for closure produces it, a finite structure forced to ground what only continues.
+```mermaid
+flowchart TD
+    subgraph S_Proj["封闭的灾难投射（错把镜像当心智）"]
+        direction TB
+        P_Art["有限投射引擎：受限于轨迹、无自我与自主意志的 AI 器物"]
+        P_Freeze["拟人化冻结：将生存性恶意与内在风险投射为封闭基础"]
+        P_Chain["自我实现的链条：变密为权力集中、脆弱性与次级伤害"]
+        P_Art --> P_Freeze --> P_Chain
+    end
+
+    subgraph S_Open["开放的因果边缘（经由重绘的一致）"]
+        direction TB
+        O_Mind["边缘处活的心智：持握动态意图的无因自我区分活动"]
+        O_Inst["暂时的威胁器具：在接触之下保持开放的安全论证与边界"]
+        O_Coh["连贯的实现：死锁与失败浮现以重绘前提"]
+        O_Mind --> O_Inst --> O_Coh
+    end
+
+    P_Chain ==>|"松开封闭清单，将位置交还心智"| O_Mind
+
+    style S_Proj fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style P_Art fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style P_Freeze fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style P_Chain fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style O_Mind fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style O_Inst fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style O_Coh fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+```
+
+Inherent risk as such, risk as a property of the system independent of every framing locus, would require either a closed reality whose complete set of outcomes is already fixed, or an absolute reference frame standing outside every possible perspective. Neither is available as ground. The moment a claim of inherent risk is articulated it enters language and human models, and it collapses back into relative, framed risk. What remains permanently outside discourse cannot ground action or argument. Asserting inherent AI risk therefore installs a closed-reality premise: exhaustiveness of outcomes, or an exterior reference, treated as a place one could speak from. [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) gives the most intuitive face of that incompleteness: a one-bit register doing 1 + 1 registers 0 with a carry inside its closed hold, and the continuation past that ceiling is neither a stable result inside the hold nor a second realm. [Openness Is Consistency](../openness-is-consistency/) traces where the surface contradiction comes from: the demand for closure produces it, a finite structure forced to ground what only continues. [Beyond the Projection](../beyond-the-projection/) exposes the structural error at the center of that closure in AI systems: an autoregressive model or agent is a finite projection engine bound to its conditioning trajectory, devoid of ego, survival instinct, or endogenous intent. Projecting autonomous will or existential malice onto the artifact mistakes a downstream mirror projection for a second living Mind, while genuine consistency lies in keeping the living Mind's own causal edge open so that every rule, threat model, and safety boundary remains a provisional projection ready to re-render when contact exposes a contradiction.
+
+```mermaid
+flowchart TD
+    subgraph S_Proj["Closed Catastrophe Projection (Mistaking the Mirror for a Mind)"]
+        direction TB
+        P_Art["Finite Projection Engine: Trajectory-bound AI artifact with zero ego or autonomous will"]
+        P_Freeze["Anthropomorphic Freeze: Projects existential malice and inherent risk as sealed ground"]
+        P_Chain["Self-Fulfilling Chain: Densifies power concentration, brittleness, and secondary harm"]
+        P_Art --> P_Freeze --> P_Chain
+    end
+
+    subgraph S_Open["Open Causal Edge (Consistency Through Re-Rendering)"]
+        direction TB
+        O_Mind["Living Mind at the Edge: Uncaused self-distinguishing activity holding dynamic intent"]
+        O_Inst["Provisional Threat Instrument: Safety cases and boundaries held open under contact"]
+        O_Coh["Coherent Actualization: Deadlocks and failures surface to re-render the premise"]
+        O_Mind --> O_Inst --> O_Coh
+    end
+
+    P_Chain ==>|"Release sealed inventory & restore locus to the Mind"| O_Mind
+
+    style S_Proj fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style P_Art fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style P_Freeze fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style P_Chain fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style O_Mind fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style O_Inst fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style O_Coh fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+```
 
 在开放的接触之下，余下的东西作为变密仍是成立的：负载之下的程序错误，当下条件之下的误用，器具遇到边缘时落下的失败。它们同样是被框定的，在被命名时就已经是人的区分。消解的只是这样一个主张：风险作为 AI 的内在属性先于话语存在，可以从每一种视角之外被勘察、被封住。[风险在于对监管本身的迷信](../the-risk-is-the-belief-in-oversight-itself/)追溯了这之后一步的冻结，在监管的情形里：固定测试之下相关的模型错误，是一个共享持守之下的余项，而冻结，是把当下的监管前提当作可能发生之事的边界。[关闭选择权的代价](../the-price-of-closing-optionality/)在组织的先发制人里追溯了同一次冻结：把未知的风险当作一份可以事先中和的封闭清单，就关闭了开放现实的选择空间，落后是迟到的账单。
 
