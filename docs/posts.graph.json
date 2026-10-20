@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T18:41:43.797Z",
+    "generated_at": "2026-10-20T18:47:29.212Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -304,7 +304,7 @@
       "content/posts/the-moral-reversal-and-the-scripted-subject.md": "a614ebfdfda8",
       "content/posts/the-myth-of-population-collapse-explained.md": "afe20651bc61",
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "971cce019879",
-      "content/posts/the-name-revolution-files-a-life-as-evidence.md": "cb2cf97eb23c",
+      "content/posts/the-name-revolution-files-a-life-as-evidence.md": "99805d2b130f",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "b77b8bf0bc21",
       "content/posts/the-npc-impression-is-structural.md": "7b832f131db6",
       "content/posts/the-observational-cut-in-ai-debates.md": "4c40a00e0ba9",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9475,
-      "unique_directed": 4771,
+      "edges": 9477,
+      "unique_directed": 4772,
       "missing_targets": 0,
-      "one_way": 293,
+      "one_way": 294,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 140
+      "in_degree": 141
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1073,7 +1073,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 140,
+      "in_degree": 141,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -7761,9 +7761,9 @@
       "slug": "the-name-revolution-files-a-life-as-evidence",
       "path": "content/posts/the-name-revolution-files-a-life-as-evidence.md",
       "title": "革命之名把生活收成证据 / The Name Revolution Files a Life as Evidence",
-      "hash": "cb2cf97eb23c",
+      "hash": "99805d2b130f",
       "in_degree": 9,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "the-mind-as-vector-and-coordinate-system",
         "the-moral-reversal-and-the-scripted-subject",
@@ -7771,6 +7771,7 @@
         "sovereignty-belief-and-regulatory-structures",
         "liberation-rhetoric-begins-by-defining-captivity",
         "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
+        "beyond-the-projection",
         "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
         "openness-is-consistency",
         "the-summary-first-reversal-and-the-command-of-yields"
@@ -52652,7 +52653,7 @@
       "from": "the-name-revolution-files-a-life-as-evidence",
       "to": "the-mind-as-vector-and-coordinate-system",
       "rel": "points_to",
-      "label": "心智作为向量与坐标系"
+      "label": "向量、坐标系与自指心智"
     },
     {
       "from": "the-name-revolution-files-a-life-as-evidence",
@@ -52676,7 +52677,7 @@
       "from": "the-name-revolution-files-a-life-as-evidence",
       "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
       "rel": "points_to",
-      "label": "个人选择、社会化与做自己的真正坐标"
+      "label": "个人选择、社会化与做自己"
     },
     {
       "from": "the-name-revolution-files-a-life-as-evidence",
@@ -52700,7 +52701,7 @@
       "from": "the-name-revolution-files-a-life-as-evidence",
       "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
       "rel": "points_to",
-      "label": "The Coordinate of Socialization and Being Oneself"
+      "label": "Individual Choice, Socialization and Being Oneself"
     },
     {
       "from": "the-name-revolution-files-a-life-as-evidence",
@@ -52719,6 +52720,18 @@
       "to": "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
       "rel": "points_to",
       "label": "The Balcony Disciplinary Overstep and the Unproxyable Act"
+    },
+    {
+      "from": "the-name-revolution-files-a-life-as-evidence",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-name-revolution-files-a-life-as-evidence",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "the-name-revolution-files-a-life-as-evidence",
@@ -52742,13 +52755,13 @@
       "from": "the-name-revolution-files-a-life-as-evidence",
       "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "rel": "points_to",
-      "label": "External Attribution is an Obstacle to Personal Progress"
+      "label": "External Attribution Is the Obstacle to Personal Growth"
     },
     {
       "from": "the-name-revolution-files-a-life-as-evidence",
       "to": "openness-is-consistency",
       "rel": "points_to",
-      "label": "Openness is Consistency"
+      "label": "Openness Is Consistency"
     },
     {
       "from": "the-name-revolution-files-a-life-as-evidence",
