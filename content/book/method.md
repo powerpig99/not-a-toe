@@ -12,7 +12,7 @@ The essays collected in this part document the emergence and development of this
 
 ## 篇目 / Essays
 
-- [Not a Theory of Everything](../../posts/not-a-theory-of-everything/)
+- [非万物之理 / Not a Theory of Everything](../../posts/not-a-theory-of-everything/)
 - [清晰不是抵达的终点，而是运动本身 / Clarity Isn't a State You Arrive At. It's the Movement Itself.](../../posts/clarity-isnt-a-state-you-arrive-at/)
 - [What Happens When an AI Performs a Framework Instead of Operating From It](../../posts/grok-420-framework-drift/)
 - [Not a ToE - Retraced](../../posts/not-a-toe-rewrite/)

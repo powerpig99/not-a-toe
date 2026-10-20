@@ -1716,7 +1716,7 @@ The hard problem presumes a gap between subjective experience and physical proce
 
 Theories of Everything seek a closed equation explaining all phenomena; causality fundamentally requires an irreducible asymmetry between prior cause and distinct effect.
 
-→ [Not a Theory of Everything](../../posts/not-a-theory-of-everything/)
+→ [非万物之理 / Not a Theory of Everything](../../posts/not-a-theory-of-everything/)
 
 ### 功利主义抽象道德账本 / Utilitarian Moral Ledger
 `哲学 / Philosophical`
@@ -3185,7 +3185,7 @@ Knowing the fundamentals is assumed to make them govern decisions, which is of u
 
 Causality demands that effect is distinct from cause and follows cause; collapsing them into static unified self-containment destroys the possibility of physical change.
 
-→ [Not a Theory of Everything](../../posts/not-a-theory-of-everything/)
+→ [非万物之理 / Not a Theory of Everything](../../posts/not-a-theory-of-everything/)
 
 ### 前因后果报应论 / Karmic Retribution (Qian Yin Hou Guo)
 `宗教 / Religious`
