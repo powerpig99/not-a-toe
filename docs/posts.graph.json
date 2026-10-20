@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-20T16:40:09.980Z",
+    "generated_at": "2026-10-20T16:43:37.110Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -102,7 +102,7 @@
       "content/posts/help-is-half-the-problem.md": "f9e3b1859fbc",
       "content/posts/hierarchy-from-individual-difference.md": "2009502f8f3d",
       "content/posts/how-belief-actually-changes.md": "69035a97e94a",
-      "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "b57804da421d",
+      "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "02abaa7de191",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "ac28f43f0e59",
       "content/posts/immortality-final.md": "df5d92452896",
@@ -423,10 +423,10 @@
     },
     "stats": {
       "posts": 396,
-      "edges": 9336,
-      "unique_directed": 4733,
+      "edges": 9340,
+      "unique_directed": 4734,
       "missing_targets": 0,
-      "one_way": 255,
+      "one_way": 256,
       "isolated": 35,
       "posts_with_outbound": 360,
       "book_pages": 16,
@@ -437,7 +437,7 @@
   "hubs_in": [
     {
       "slug": "beyond-the-projection",
-      "in_degree": 102
+      "in_degree": 103
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1070,7 +1070,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "d02d491ba807",
-      "in_degree": 102,
+      "in_degree": 103,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -2851,9 +2851,9 @@
       "slug": "how-to-fix-your-whole-life-in-one-split-second",
       "path": "content/posts/how-to-fix-your-whole-life-in-one-split-second.md",
       "title": "如何在一瞬间修正你的整个人生 / How to Fix Your Whole Life in One Split Second",
-      "hash": "b57804da421d",
+      "hash": "02abaa7de191",
       "in_degree": 13,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "ownership-and-self-worthiness",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
@@ -2861,6 +2861,7 @@
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
         "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+        "beyond-the-projection",
         "the-generative-contradiction",
         "how-belief-actually-changes",
         "the-source-of-shared-change",
@@ -22914,7 +22915,7 @@
       "from": "how-to-fix-your-whole-life-in-one-split-second",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "how-to-fix-your-whole-life-in-one-split-second",
@@ -22938,7 +22939,7 @@
       "from": "how-to-fix-your-whole-life-in-one-split-second",
       "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "rel": "points_to",
-      "label": "Moral language dilutes the feedback that scales freedom"
+      "label": "Moral Language Dilutes the Feedback That Scales Freedom"
     },
     {
       "from": "how-to-fix-your-whole-life-in-one-split-second",
@@ -22972,15 +22973,21 @@
     },
     {
       "from": "how-to-fix-your-whole-life-in-one-split-second",
-      "to": "the-generative-contradiction",
+      "to": "beyond-the-projection",
       "rel": "points_to",
-      "label": "生成性的矛盾"
+      "label": "超越投射"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "how-to-fix-your-whole-life-in-one-split-second",
       "to": "the-generative-contradiction",
       "rel": "points_to",
-      "label": "The generative contradiction"
+      "label": "生成性的矛盾"
     },
     {
       "from": "how-to-fix-your-whole-life-in-one-split-second",
@@ -23002,15 +23009,21 @@
     },
     {
       "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "the-generative-contradiction",
+      "rel": "points_to",
+      "label": "The Generative Contradiction"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
       "to": "how-belief-actually-changes",
       "rel": "points_to",
-      "label": "How belief actually changes"
+      "label": "How Belief Actually Changes"
     },
     {
       "from": "how-to-fix-your-whole-life-in-one-split-second",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
-      "label": "The source of shared change"
+      "label": "The Source of Shared Change"
     },
     {
       "from": "how-to-fix-your-whole-life-in-one-split-second",
@@ -23026,21 +23039,33 @@
     },
     {
       "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "没有普渡，只有自渡"
+      "label": "没有普渡，只有自渡的无限可能"
     },
     {
       "from": "how-to-fix-your-whole-life-in-one-split-second",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
-      "label": "The model never becomes a second edge"
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "how-to-fix-your-whole-life-in-one-split-second",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "No Universal Salvation, Only Self-Deliverance"
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
     },
     {
       "from": "how-to-fix-your-whole-life-in-one-split-second",
@@ -23052,7 +23077,7 @@
       "from": "how-to-fix-your-whole-life-in-one-split-second",
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
-      "label": "Reality is the Mind’s ongoing realization"
+      "label": "Reality Is the Mind's Ongoing Realization"
     },
     {
       "from": "humans-tokens-and-the-scope-of-valuation",
