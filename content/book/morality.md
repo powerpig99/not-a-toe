@@ -13,7 +13,7 @@ These essays dissect victimhood scripts, suicidal empathy inversions, and the ab
 ## 篇目 / Essays
 
 - [The Compassion Is the Mechanism of Obscuration](../../posts/the-compassion-is-the-mechanism-of-obscuration/)
-- [Help Is Half the Problem](../../posts/help-is-half-the-problem/)
+- [帮助是问题的一半 / Help Is Half the Problem](../../posts/help-is-half-the-problem/)
 - [The Recursive Contradiction of Entrusted Morality](../../posts/recursive-contradiction-of-entrusted-morality/)
 - [The Word Does the Damage: Empathy as Projection Collapse](../../posts/empathy-as-projection-collapse/)
 - [Evil as Projected Resistance](../../posts/evil-as-projected-resistance/)

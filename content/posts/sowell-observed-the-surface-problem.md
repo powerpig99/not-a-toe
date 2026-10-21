@@ -1,8 +1,8 @@
 # 索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem
 
-*问题无法跨越心智被统筹解决，个体始终独自承担全部后果。 / Problems cannot be solved across minds; individuals bear the full consequences of their actions.*
+*问题无法跨越心智代为解决，个体始终独自承担行为的全部后果。 / Problems cannot be solved across minds; individuals bear the full consequences of their actions.*
 
-托马斯·索维尔指出，评估经济政策应当依据其实际激发的激励，而非宣称的目标。这一洞察在表象层面上极为精准，但真正的因果错配并非始于政策的细节设计，而是始于一个更深层的隐秘信念：即认为问题可以跨越心智被统筹解决。任何试图通过优化外部激励来纠正他人的制度设计，都在重新初始化一个置身事外的旁观者席位。事实上不存在任何系统性的统筹解法，个体始终在独自承担降临到自身之上的全部后果，而唯一的解脱在于自身心智对自身决策后果的如实确认。
+托马斯·索维尔指出，评估经济政策应当依据其实际激发的激励，而非宣称的目标。这一洞察在表象层面上固然准确，但困惑并非源于政策设计，而是始于一个更深层的前置信念：即认为问题可以跨越心智代为解决。任何试图通过优化激励来系统性纠偏的制度设计，都在重新启用它原本试图诊断的那个外部旁观席位。世上不存在系统性的统筹解法；个体始终独自承担落到自身之上的全部后果，而真正的主权只需这一心智如实担起自身轨迹的责任。
 
 Thomas Sowell observed that economic policies must be judged by the incentives they create rather than the goals they proclaim. While accurate on the surface, the confusion does not originate in policy design, but in a deeper foundational premise: the belief that problems can be solved across Minds. Any systematic corrective aimed at engineering better incentives reinitiates the very exterior vantage point it purports to diagnose. There is no systemic resolution; individuals always bear the full consequences happening to them, and authentic sovereignty requires only this Mind accepting responsibility for its own trajectory.
 
@@ -74,7 +74,7 @@ Yet capturing incentive distortions does not reach the primary root. Pointing ou
 
 ## 二、 跨越心智解决问题的虚妄前提 / 2. The Fallacy of Solving Problems Across Minds
 
-真正的因果错位源于一个前置信念：即坚信问题可以跨越心智被解决，认为某一个心智能够替其他心智解决生存问题，或者自身的问题可以被他人的顶层设计所消解。这种信念在认知中植入了一道虚假的界线，使得决策者自以为能够将做决定的行动与承受后果的物理事实分离开来。
+真正的因果错位源于一个前置信念：即坚信问题可以跨越心智代为解决——认为某一个心智能够替其他心智化解生存困境，或者自身的难题可以由外部设计替自己消解。这种信念在认知中植入了一道人为的界线，使得行动者自以为能够将做决定的位置与承受后果的位置分离开来。
 
 That deeper confusion begins with a foundational belief: that problems can be solved across Minds—that one Mind can resolve the existential dilemmas of others, or have its own challenges neatly dissolved by external design. That belief installs an artificial division in perception, convincing actors that the locus of decision can be severed from the locus of consequence.
 
@@ -156,16 +156,16 @@ flowchart TD
     style S_Fold fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
 ```
 
-当回折被遗忘时，豁免便凝固成了特权，诊断的立场便被固化为无需承担代价的高台。理论由此止步于半途，掩盖了更深层的因果断裂：即划分界线的心智与其所划分出的现实后果之间的分离。唯有将这把尺子重新折回做出分析的心智自身，理论才能看清自身的局限。在[自我形象仿佛从无处发声](../self-image-speaks-as-if-from-nowhere/)中，拒绝折返的目光最终只能将自己封印在虚幻的投影之中。
+当折返被遗漏时，豁免便凝固成独断的特权，将诊断姿态冻结在无需付出代价的高台之上。理论由此止步于半途，掩盖了更深层的因果裂隙：做出区分的心智，与这一区分所产生的后果之显现，被割裂在了两处。唯有将这把测量标尺重新折回做出分析的心智自身，模型才能显露自身的边界。在[自我形象仿佛从无处发声](../self-image-speaks-as-if-from-nowhere/)中，拒绝折返的目光最终只能将自己困在无根的投影之中。
 
 When that return is omitted, exemption hardens into dogmatic privilege, freezing the diagnostic posture into an unpriced perch. The theory stops short of completing its arc, concealing the deeper causal rift: the separation between the Mind making the distinction and the registration of what that distinction generates. Only by folding the measurement scale back upon the theorist does the model disclose its own boundary. In [Self-Image Speaks as if from Nowhere](../self-image-speaks-as-if-from-nowhere/), an unreturned gaze traps itself in an ungrounded projection.
 
 ## 五、 不存在系统性解法 / 5. There Is No Systematic Solution
 
-认识到这一边界并不意味着能够设计出更完美的方案。不存在任何系统性的统筹解法——既不存在一套没有扭曲的激励机制，也不存在一种能够迫使所有心智诚实承担后果的制度安排。任何试图在全社会推行这种安排的努力，都只是在新一层包装下重蹈跨心智治理的覆辙。
+认识到这一边界并不意味着能够设计出更完美的方案。不存在任何系统性的统筹解法——既不存在一套没有扭曲的激励机制，也不存在一种能够迫使所有心智诚实承担后果的制度安排。正如[你的代码库即是记忆](../your-codebase-is-memory/)在成文器物与脚手架中所追溯的，任何规则或激励的排布都只是既有区分留下的残余形态：它可以约束表层，却无从成为发起下一次区分或承担其代价的第二个中心。任何试图在全社会推行这种安排的努力，都只是在新一层包装下重蹈跨心智治理的覆辙。
 
-Recognizing this boundary does not yield a utopian blueprint. There is no systemic solution—no magically calibrated incentive grid, and no bureaucratic mechanism that could compel other Minds to shoulder their destinies. Any attempt to mandate such outcomes collectively merely reinitiates the hubris of solving across Minds under a fresh guise.
+Recognizing this boundary does not yield a utopian blueprint. There is no systemic solution—no magically calibrated incentive grid, and no bureaucratic mechanism that could compel other Minds to shoulder their destinies. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces across codified artifacts and scaffolds, any arrangement of rules or incentives is only residual shape left by prior distinctions; it can constrain a surface, yet it never becomes a second center that initiates the next distinction or bears its cost. Any attempt to mandate such outcomes collectively merely reinitiates the hubris of solving across Minds under a fresh guise.
 
-真正切实可行的路径，唯有这一特定心智对自己决策后果的主动确认。这种确认并不是在创造承受，个体无论是否承认，都在分秒不差地承受着发生在自身之上的所有后果。逃避与推诿仅仅是在转移视线，真实的负荷分毫未减。如实确认是对既定事实的清醒领悟，唯有如此，下一个抉择才能建立在没有伪饰的真实信号之上。[政客是责任扩散的显性症状](../politicians-appear-as-visible-symptoms-of-responsibility-diffusion/)揭示了推诿无法转移负荷；[剩余个人主义](../residual-individualism/)指明集体方案会重新引入外部化；而[知识问题与委托的幻觉](../the-knowledge-problem-and-the-illusion-of-delegation/)提醒我们，任何制度形式都无法逾越知识分散的刚性边界。
+真正切实可行的路径，唯有这一特定心智对自己决策后果的主动确认。这种确认并不是在创造承受，个体无论是否承认，都在分秒不差地承受着发生在自身之上的所有后果。逃避与推诿仅仅是在转移视线，真实的负荷分毫未减。如实确认是对既定事实的清醒领悟，唯有如此，下一个抉择才能建立在没有伪饰的真实信号之上。[政客是责任扩散的显性症状](../politicians-appear-as-visible-symptoms-of-responsibility-diffusion/)揭示了推诿无法转移负荷；[剩余个人主义](../residual-individualism/)指明集体方案会重新引入外部化；而[知识问题与委托的幻觉](../the-knowledge-problem-and-the-illusion-of-delegation/)则表明，委托关系从未转移最终的因果账本。
 
 What remains authentic is this specific Mind accepting responsibility for the consequences of its own decisions. Acceptance does not manufacture the bearing; individuals already carry the entire consequences landing upon them, regardless of mental consent. Evasion merely relocates perception, while the physical load remains immovable. Acceptance is registration of what is already the case, allowing the next decision to be calibrated against undistorted signals. [Politicians Are Visible Symptoms of Responsibility Diffusion](../politicians-appear-as-visible-symptoms-of-responsibility-diffusion/) proves that blame shifts the look rather than the load; [Residual Individualism](../residual-individualism/) warns against turning insight into collective coercion; and [The Knowledge Problem and the Illusion of Delegation](../the-knowledge-problem-and-the-illusion-of-delegation/) shows that delegation never transfers the ultimate causal ledger.

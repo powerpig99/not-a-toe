@@ -3743,7 +3743,7 @@ Defending accumulated wealth, prestige and tools as the source of power is of us
 
 Unilateral helping assumes intervention resolves suffering; by displacing the recipient's agency, it frequently manufactures chronic helplessness and moral entitlement.
 
-→ [Help Is Half the Problem](../../posts/help-is-half-the-problem/)
+→ [帮助是问题的一半 / Help Is Half the Problem](../../posts/help-is-half-the-problem/)
 
 ### 感知者与痕迹的不可坍缩 / Perceiver versus Trace Duality
 `哲学 / Philosophical`
@@ -4841,7 +4841,7 @@ Declaring the world an illusion is of use in loosening an attachment to dogmatic
 
 Therapy dogma treats counseling as passive trauma excavation; effective intervention functions by opening frozen cognitive loops to real-time environmental correction.
 
-→ [Therapy Opens the Feedback Loop](../../posts/therapy-opens-the-feedback-loop/)
+→ [疗愈打开反馈回路 / Therapy Opens the Feedback Loop](../../posts/therapy-opens-the-feedback-loop/)
 
 ### 疗愈性认同神话 / Therapeutic Validation as Panacea
 `成功学 / Self-Help`

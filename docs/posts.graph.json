@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T05:37:27.384Z",
+    "generated_at": "2026-10-21T05:48:01.583Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -99,7 +99,7 @@
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
       "content/posts/hassabis-frontier-agi-premise.md": "5c4fc62c8e77",
       "content/posts/having-more-is-never-the-cause.md": "fff7b1e393f6",
-      "content/posts/help-is-half-the-problem.md": "f9e3b1859fbc",
+      "content/posts/help-is-half-the-problem.md": "b370c85eb106",
       "content/posts/hierarchy-from-individual-difference.md": "69e9c1301745",
       "content/posts/how-belief-actually-changes.md": "c5fe5bd1c82a",
       "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "9c200c5c4e2a",
@@ -123,14 +123,14 @@
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "d8bf71b9fe17",
-      "content/posts/moral-language-as-projection.md": "980a9f624f21",
+      "content/posts/moral-language-as-projection.md": "ec504bfff397",
       "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "d9edaff34fdb",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "9261da00dc72",
       "content/posts/naval-separation-analysis.md": "dd1467c613bb",
       "content/posts/no-genius-can-solve-the-knowledge-problem.md": "e2b97b00140d",
       "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "aee9e6979b9f",
-      "content/posts/no-outside-scorekeeper.md": "3e211e6f29bb",
+      "content/posts/no-outside-scorekeeper.md": "6d9499826830",
       "content/posts/no-system-can-be-kept-closed.md": "cb636c5e6b60",
       "content/posts/nobody-has-seen-anything-yet.md": "684b9268b2c2",
       "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md": "c864052d34e7",
@@ -138,7 +138,7 @@
       "content/posts/not-a-toe-rewrite.md": "5d3abd405e41",
       "content/posts/not-predicting-is-predicting-without-awareness.md": "750dd47f6c5b",
       "content/posts/objects-are-stabilized-relationships.md": "54def9af6a16",
-      "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "91be9558ed74",
+      "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "e155f3d0f778",
       "content/posts/on-education.md": "acf5a581efd1",
       "content/posts/one-cannot-escape-ones-own-mind.md": "474dad0e12f2",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "63a25d4f0593",
@@ -182,15 +182,15 @@
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "effb27d0037a",
       "content/posts/shared-humanity-is-never-shared.md": "667dd03af694",
       "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "c742acb86d86",
-      "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "bd2dd458c408",
+      "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "6e6001066898",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "2a91f58a7d13",
       "content/posts/sovereignty-essay.md": "10d294546a2a",
-      "content/posts/sowell-observed-the-surface-problem.md": "5dbc958d7157",
+      "content/posts/sowell-observed-the-surface-problem.md": "6a0b158cce39",
       "content/posts/stability-and-excess.md": "25b813029b34",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "a5ed80a2c8d3",
       "content/posts/subtracting-consciousness-at-the-source.md": "df1242fc6ba9",
-      "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "a78981c24425",
+      "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "479475155344",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "5f0985544543",
       "content/posts/technology-is-residual-of-human-compounding.md": "1576031b77f7",
       "content/posts/the-allocation-of-causal-power-in-validation.md": "5a0728cdace1",
@@ -246,13 +246,13 @@
       "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "539507f9e7ff",
       "content/posts/the-frame-that-conceals-improvement.md": "13c8f7c008fa",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "dde3f74f7d30",
-      "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "b789b14c20e1",
+      "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "bda6d94ef25c",
       "content/posts/the-freedom-of-will-to-deny-itself.md": "a083f19c6708",
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "dde04cb94bf5",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "b280bd7da641",
       "content/posts/the-generative-contradiction.md": "807d28667277",
-      "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "7e70fb60c1b1",
-      "content/posts/the-generative-topology-of-free-variables.md": "bd4117e215d3",
+      "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "85b7537a168f",
+      "content/posts/the-generative-topology-of-free-variables.md": "baffb2e6acd8",
       "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "15b9e01b6512",
       "content/posts/the-geometry-of-emergence.md": "83486d0d6ee3",
       "content/posts/the-geometry-of-mind.md": "3d0ba4f53d48",
@@ -369,10 +369,10 @@
       "content/posts/the_analogy_trap.md": "3fba4bdc48b2",
       "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
       "content/posts/the_moving_ground.md": "24eaa9a68587",
-      "content/posts/therapy-opens-the-feedback-loop.md": "36a05580cbc0",
+      "content/posts/therapy-opens-the-feedback-loop.md": "fef94840ad77",
       "content/posts/time-is-causality-not-a-dimension.md": "bcd28712180f",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "d6e816ab5ba2",
-      "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "18f15c8e56b1",
+      "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "3f4bec91103c",
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "6522fd795814",
       "content/posts/trusting-the-reader-is-the-last-overstep.md": "1c8ded446ee2",
       "content/posts/two-failures-of-trace.md": "df2bfb498afc",
@@ -408,26 +408,26 @@
       "content/book/causality.md": "477893ec526b",
       "content/book/consciousness.md": "d8595aa6097d",
       "content/book/economics.md": "c863f3bd1a44",
-      "content/book/index-of-premises.md": "e9aca31c1933",
+      "content/book/index-of-premises.md": "0f2a08d0033f",
       "content/book/intelligence.md": "8530f0e466c0",
       "content/book/knowledge-and-learning.md": "51d92651b2ed",
       "content/book/life-and-statistics.md": "903bd0f56d99",
       "content/book/mathematics.md": "511585102871",
       "content/book/meaning-and-transcendence.md": "ce5168a72c34",
       "content/book/method.md": "6246e4ef1096",
-      "content/book/morality.md": "166522199e9e",
+      "content/book/morality.md": "71b3ff6176b6",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "d0065384016a",
       "content/book/state-and-collective.md": "7d0cb00e0e55",
-      "content/book/success-and-the-self.md": "9790413b85f6",
+      "content/book/success-and-the-self.md": "8795aa2cb585",
       "content/book/tools-and-progress.md": "bc3d12468c14"
     },
     "stats": {
       "posts": 397,
-      "edges": 10166,
-      "unique_directed": 5041,
+      "edges": 10211,
+      "unique_directed": 5053,
       "missing_targets": 0,
-      "one_way": 541,
+      "one_way": 553,
       "isolated": 35,
       "posts_with_outbound": 361,
       "book_pages": 16,
@@ -438,7 +438,7 @@
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 200
+      "in_degree": 212
     },
     {
       "slug": "beyond-the-projection",
@@ -2824,16 +2824,17 @@
       "kind": "post",
       "slug": "help-is-half-the-problem",
       "path": "content/posts/help-is-half-the-problem.md",
-      "title": "Help Is Half the Problem",
-      "hash": "f9e3b1859fbc",
+      "title": "帮助是问题的一半 / Help Is Half the Problem",
+      "hash": "b370c85eb106",
       "in_degree": 10,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "the-myth-of-population-collapse-explained",
         "when-need-stops-being-the-measure",
         "therapy-opens-the-feedback-loop",
         "the-discount-on-agency",
         "the-unfrictioned-mind-and-borrowed-omnipotence",
+        "your-codebase-is-memory",
         "the-initial-distinction",
         "liberation-rhetoric-begins-by-defining-captivity",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
@@ -3559,15 +3560,16 @@
       "slug": "moral-language-as-projection",
       "path": "content/posts/moral-language-as-projection.md",
       "title": "道德语言作为投影 / Moral Language as Projection",
-      "hash": "980a9f624f21",
+      "hash": "ec504bfff397",
       "in_degree": 10,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "ones-potential-as-threat-or-inspiration",
         "sovereignty-belief-and-regulatory-structures",
         "order-surplus-and-the-moral-intercept",
         "the-misallocation-of-agency",
         "the-coordinators-category-error",
+        "your-codebase-is-memory",
         "deceleration-is-the-drag-felt-when-accelerating",
         "the-closed-loop-of-representation",
         "the-self-portrait-in-the-projection",
@@ -3700,9 +3702,9 @@
       "slug": "no-outside-scorekeeper",
       "path": "content/posts/no-outside-scorekeeper.md",
       "title": "没有外部记账员 / No Outside Scorekeeper",
-      "hash": "3e211e6f29bb",
+      "hash": "6d9499826830",
       "in_degree": 7,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "the-ledger-of-the-unencountered",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
@@ -3713,6 +3715,7 @@
         "when-malfunction-is-scored-as-intelligence",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "the-closed-n-and-the-open-reality"
       ]
     },
@@ -3924,14 +3927,15 @@
       "slug": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "path": "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md",
       "title": "论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof",
-      "hash": "91be9558ed74",
+      "hash": "e155f3d0f778",
       "in_degree": 9,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
         "the-other-coherence",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "an-observation-by-its-own-standard",
         "selection-contradiction-and-open-reality",
         "consciousness-never-appears-as-data-among-data",
@@ -5109,10 +5113,11 @@
       "slug": "silicon-oracles-and-the-asymmetry-of-consequence",
       "path": "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md",
       "title": "硅基神谕与后果的非对称性 / Silicon Oracles and the Asymmetry of Consequence",
-      "hash": "bd2dd458c408",
+      "hash": "6e6001066898",
       "in_degree": 8,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
+        "your-codebase-is-memory",
         "beyond-the-projection",
         "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
         "the-category-error-of-better",
@@ -5195,9 +5200,9 @@
       "slug": "sowell-observed-the-surface-problem",
       "path": "content/posts/sowell-observed-the-surface-problem.md",
       "title": "索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem",
-      "hash": "5dbc958d7157",
+      "hash": "6a0b158cce39",
       "in_degree": 11,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "mei-you-pu-du-zhi-you-zi-du",
         "ownership-and-self-worthiness",
@@ -5206,6 +5211,7 @@
         "no-genius-can-solve-the-knowledge-problem",
         "the-paradoxical-nature-of-bystander-insights",
         "self-image-speaks-as-if-from-nowhere",
+        "your-codebase-is-memory",
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "residual-individualism",
         "the-knowledge-problem-and-the-illusion-of-delegation"
@@ -5287,9 +5293,9 @@
       "slug": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "path": "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md",
       "title": "同情是缺乏清晰时的占位符 / Sympathy Is a Placeholder for Lack of Clarity",
-      "hash": "a78981c24425",
+      "hash": "479475155344",
       "in_degree": 9,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "mei-you-pu-du-zhi-you-zi-du",
         "the-npc-impression-is-structural",
@@ -5299,6 +5305,7 @@
         "therapy-opens-the-feedback-loop",
         "guidance-is-not-ownership",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "clarity-isnt-a-state-you-arrive-at",
         "reality-is-the-minds-ongoing-realization"
       ]
@@ -6687,15 +6694,16 @@
       "slug": "the-free-variable-and-the-retrospective-illusion-of-power",
       "path": "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md",
       "title": "隐性自由变量与权力的事后幻相 / The Invisible Free Variable and the Retrospective Illusion of Power",
-      "hash": "b789b14c20e1",
+      "hash": "bda6d94ef25c",
       "in_degree": 11,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "cheng-gong-xue",
         "the-invisible-observer-and-the-delusion-of-lossless-transmission",
         "the-unfrictioned-mind-and-borrowed-omnipotence",
         "the-discount-on-agency",
         "the-receptionist-parable-and-the-causal-inversion-of-absence",
+        "your-codebase-is-memory",
         "the-mirror-handshake-of-power",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "the-residue-and-the-free-variable",
@@ -6807,11 +6815,12 @@
       "slug": "the-generative-mechanics-of-value-money-and-wealth",
       "path": "content/posts/the-generative-mechanics-of-value-money-and-wealth.md",
       "title": "价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth",
-      "hash": "7e70fb60c1b1",
+      "hash": "85b7537a168f",
       "in_degree": 11,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
+        "your-codebase-is-memory",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "ownership-and-self-worthiness",
         "agency-compounding-and-the-argument-over-ai-feudalism",
@@ -6829,9 +6838,9 @@
       "slug": "the-generative-topology-of-free-variables",
       "path": "content/posts/the-generative-topology-of-free-variables.md",
       "title": "自由变量的生成拓扑 / The Generative Topology of Free Variables",
-      "hash": "bd4117e215d3",
+      "hash": "baffb2e6acd8",
       "in_degree": 9,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "the-generative-atlas-of-macroscopic-phenomena",
         "the-only-coherent-uncaused-effect",
@@ -6842,7 +6851,8 @@
         "the-other-coherence",
         "agency-compounding-and-the-argument-over-ai-feudalism",
         "residual-individualism",
-        "the-free-mind-is-displaced-by-what-claims-to-protect-it"
+        "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -9500,15 +9510,16 @@
       "kind": "post",
       "slug": "therapy-opens-the-feedback-loop",
       "path": "content/posts/therapy-opens-the-feedback-loop.md",
-      "title": "Therapy Opens the Feedback Loop",
-      "hash": "36a05580cbc0",
+      "title": "疗愈打开反馈回路 / Therapy Opens the Feedback Loop",
+      "hash": "fef94840ad77",
       "in_degree": 11,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "when-the-effect-authors-the-frame",
         "emotional-support-as-causal-interference",
         "sympathy-is-a-placeholder-for-lack-of-clarity",
         "the-allocation-of-causal-power-in-validation",
+        "your-codebase-is-memory",
         "moral-language-dilutes-the-feedback-that-scales-freedom",
         "help-is-half-the-problem",
         "self-rl-for-humans",
@@ -9584,9 +9595,9 @@
       "slug": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
       "path": "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md",
       "title": "投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality",
-      "hash": "18f15c8e56b1",
+      "hash": "3f4bec91103c",
       "in_degree": 10,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "what-information-is",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
@@ -9598,7 +9609,8 @@
         "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
         "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
-        "individual-choices-as-the-only-causal-levers"
+        "individual-choices-as-the-only-causal-levers",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -10243,7 +10255,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 200,
+      "in_degree": 212,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -23709,7 +23721,19 @@
       "from": "help-is-half-the-problem",
       "to": "the-myth-of-population-collapse-explained",
       "rel": "points_to",
-      "label": "The myth of population collapse explained"
+      "label": "人口崩溃神话的拆解"
+    },
+    {
+      "from": "help-is-half-the-problem",
+      "to": "when-need-stops-being-the-measure",
+      "rel": "points_to",
+      "label": "当被需要不再是衡量"
+    },
+    {
+      "from": "help-is-half-the-problem",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "The Myth of Population Collapse Explained"
     },
     {
       "from": "help-is-half-the-problem",
@@ -23721,7 +23745,19 @@
       "from": "help-is-half-the-problem",
       "to": "therapy-opens-the-feedback-loop",
       "rel": "points_to",
-      "label": "Therapy opens the feedback loop"
+      "label": "疗愈打开反馈回路"
+    },
+    {
+      "from": "help-is-half-the-problem",
+      "to": "therapy-opens-the-feedback-loop",
+      "rel": "points_to",
+      "label": "Therapy Opens the Feedback Loop"
+    },
+    {
+      "from": "help-is-half-the-problem",
+      "to": "the-discount-on-agency",
+      "rel": "points_to",
+      "label": "主体性的折现"
     },
     {
       "from": "help-is-half-the-problem",
@@ -23733,31 +23769,79 @@
       "from": "help-is-half-the-problem",
       "to": "the-unfrictioned-mind-and-borrowed-omnipotence",
       "rel": "points_to",
+      "label": "未历摩擦的心智与借来的全能"
+    },
+    {
+      "from": "help-is-half-the-problem",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "help-is-half-the-problem",
+      "to": "the-unfrictioned-mind-and-borrowed-omnipotence",
+      "rel": "points_to",
       "label": "The Unfrictioned Mind and Borrowed Omnipotence"
+    },
+    {
+      "from": "help-is-half-the-problem",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "help-is-half-the-problem",
       "to": "the-initial-distinction",
       "rel": "points_to",
-      "label": "The initial distinction"
+      "label": "最初的区分"
     },
     {
       "from": "help-is-half-the-problem",
       "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
-      "label": "Liberation rhetoric begins by defining captivity"
+      "label": "解放的言辞始于定义囚禁"
     },
     {
       "from": "help-is-half-the-problem",
       "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "rel": "points_to",
-      "label": "Exceptionality, perception, and the self-limiting field of problems"
+      "label": "卓异、感知与自我设限的问题场域"
+    },
+    {
+      "from": "help-is-half-the-problem",
+      "to": "the-initial-distinction",
+      "rel": "points_to",
+      "label": "The Initial Distinction"
+    },
+    {
+      "from": "help-is-half-the-problem",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "Liberation Rhetoric Begins by Defining Captivity"
+    },
+    {
+      "from": "help-is-half-the-problem",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, Perception, and the Self-Limiting Field of Problems"
     },
     {
       "from": "help-is-half-the-problem",
       "to": "when-the-effect-authors-the-frame",
       "rel": "points_to",
-      "label": "When the effect authors the frame"
+      "label": "当效果主宰了框架的叙事"
+    },
+    {
+      "from": "help-is-half-the-problem",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "协调者的范畴错误"
+    },
+    {
+      "from": "help-is-half-the-problem",
+      "to": "when-the-effect-authors-the-frame",
+      "rel": "points_to",
+      "label": "When the Effect Authors the Frame"
     },
     {
       "from": "help-is-half-the-problem",
@@ -29089,6 +29173,12 @@
     },
     {
       "from": "moral-language-as-projection",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "moral-language-as-projection",
       "to": "the-misallocation-of-agency",
       "rel": "points_to",
       "label": "The Misallocation of Agency"
@@ -29098,6 +29188,12 @@
       "to": "the-coordinators-category-error",
       "rel": "points_to",
       "label": "The Coordinator's Category Error"
+    },
+    {
+      "from": "moral-language-as-projection",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "moral-language-as-projection",
@@ -29842,6 +29938,18 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "no-outside-scorekeeper",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "no-outside-scorekeeper",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "no-outside-scorekeeper",
@@ -31375,9 +31483,21 @@
     },
     {
       "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "开放即一致"
+    },
+    {
+      "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
@@ -39289,6 +39409,18 @@
     },
     {
       "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "超越投射"
@@ -39859,6 +39991,18 @@
     },
     {
       "from": "sowell-observed-the-surface-problem",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "sowell-observed-the-surface-problem",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "sowell-observed-the-surface-problem",
       "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "rel": "points_to",
       "label": "政客是责任扩散的显性症状"
@@ -40393,9 +40537,21 @@
     },
     {
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
@@ -48805,6 +48961,12 @@
     },
     {
       "from": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-free-variable-and-the-retrospective-illusion-of-power",
       "to": "the-discount-on-agency",
       "rel": "points_to",
       "label": "The Discount on Agency"
@@ -48814,6 +48976,12 @@
       "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
       "rel": "points_to",
       "label": "The Receptionist Parable and the Causal Inversion of Absence"
+    },
+    {
+      "from": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-free-variable-and-the-retrospective-illusion-of-power",
@@ -49501,6 +49669,18 @@
     },
     {
       "from": "the-generative-mechanics-of-value-money-and-wealth",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-generative-mechanics-of-value-money-and-wealth",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-generative-mechanics-of-value-money-and-wealth",
       "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "rel": "points_to",
       "label": "好奇先行"
@@ -49726,6 +49906,18 @@
       "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
       "rel": "points_to",
       "label": "The Free Mind Is Displaced by What Claims to Protect It"
+    },
+    {
+      "from": "the-generative-topology-of-free-variables",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-generative-topology-of-free-variables",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-geometry-of-coexistence-and-the-dual-cut",
@@ -65799,67 +65991,145 @@
       "from": "therapy-opens-the-feedback-loop",
       "to": "when-the-effect-authors-the-frame",
       "rel": "points_to",
-      "label": "When the effect authors the frame"
+      "label": "当效果主宰了框架的叙事"
     },
     {
       "from": "therapy-opens-the-feedback-loop",
       "to": "emotional-support-as-causal-interference",
       "rel": "points_to",
-      "label": "Emotional support as causal interference"
+      "label": "情感支持作为因果干扰"
     },
     {
       "from": "therapy-opens-the-feedback-loop",
       "to": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "rel": "points_to",
-      "label": "Sympathy is a placeholder for lack of clarity"
+      "label": "同情是缺乏清晰时的占位符"
+    },
+    {
+      "from": "therapy-opens-the-feedback-loop",
+      "to": "when-the-effect-authors-the-frame",
+      "rel": "points_to",
+      "label": "When the Effect Authors the Frame"
+    },
+    {
+      "from": "therapy-opens-the-feedback-loop",
+      "to": "emotional-support-as-causal-interference",
+      "rel": "points_to",
+      "label": "Emotional Support as Causal Interference"
+    },
+    {
+      "from": "therapy-opens-the-feedback-loop",
+      "to": "sympathy-is-a-placeholder-for-lack-of-clarity",
+      "rel": "points_to",
+      "label": "Sympathy Is a Placeholder for Lack of Clarity"
     },
     {
       "from": "therapy-opens-the-feedback-loop",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "The allocation of causal power in validation"
+      "label": "验证中因果权能的分配"
+    },
+    {
+      "from": "therapy-opens-the-feedback-loop",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
+    },
+    {
+      "from": "therapy-opens-the-feedback-loop",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
     },
     {
       "from": "therapy-opens-the-feedback-loop",
       "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "rel": "points_to",
-      "label": "Moral language dilutes the feedback that scales freedom"
+      "label": "道德语言稀释自由复利的反馈"
+    },
+    {
+      "from": "therapy-opens-the-feedback-loop",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "therapy-opens-the-feedback-loop",
+      "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "rel": "points_to",
+      "label": "Moral Language Dilutes the Feedback That Scales Freedom"
     },
     {
       "from": "therapy-opens-the-feedback-loop",
       "to": "help-is-half-the-problem",
       "rel": "points_to",
-      "label": "Help is half the problem"
+      "label": "帮助是问题的一半"
+    },
+    {
+      "from": "therapy-opens-the-feedback-loop",
+      "to": "help-is-half-the-problem",
+      "rel": "points_to",
+      "label": "Help Is Half the Problem"
     },
     {
       "from": "therapy-opens-the-feedback-loop",
       "to": "self-rl-for-humans",
       "rel": "points_to",
-      "label": "Self-RL for humans"
+      "label": "看似AI的强化学习，实为人类的自我强化学习"
     },
     {
       "from": "therapy-opens-the-feedback-loop",
       "to": "failure-as-information",
       "rel": "points_to",
-      "label": "Failure as information"
+      "label": "失败即信息"
+    },
+    {
+      "from": "therapy-opens-the-feedback-loop",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "Self-RL for Humans"
+    },
+    {
+      "from": "therapy-opens-the-feedback-loop",
+      "to": "failure-as-information",
+      "rel": "points_to",
+      "label": "Failure as Information"
     },
     {
       "from": "therapy-opens-the-feedback-loop",
       "to": "when-need-stops-being-the-measure",
       "rel": "points_to",
-      "label": "When need stops being the measure"
+      "label": "当被需要不再是衡量"
+    },
+    {
+      "from": "therapy-opens-the-feedback-loop",
+      "to": "when-need-stops-being-the-measure",
+      "rel": "points_to",
+      "label": "When Need Stops Being the Measure"
     },
     {
       "from": "therapy-opens-the-feedback-loop",
       "to": "expertise-as-reference-not-replacement",
       "rel": "points_to",
-      "label": "Expertise as reference, not replacement"
+      "label": "专家经验作为参考而非替代"
     },
     {
       "from": "therapy-opens-the-feedback-loop",
       "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "rel": "points_to",
-      "label": "The misallocation of cause"
+      "label": "财富转移政策与价格下限中的原因错置"
+    },
+    {
+      "from": "therapy-opens-the-feedback-loop",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "Expertise as Reference, Not Replacement"
+    },
+    {
+      "from": "therapy-opens-the-feedback-loop",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "The Reversal of Causality in Wealth Transfer Policies and Price Floors"
     },
     {
       "from": "time-is-causality-not-a-dimension",
@@ -66436,6 +66706,18 @@
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
@@ -71441,7 +71723,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "e9aca31c1933",
+        "hash": "0f2a08d0033f",
         "out_degree": 397
       },
       {
@@ -71504,7 +71786,7 @@
         "slug": "morality",
         "path": "content/book/morality.md",
         "title": "善恶界限与共情陷阱 / Moral Boundaries and the Empathy Trap",
-        "hash": "166522199e9e",
+        "hash": "71b3ff6176b6",
         "out_degree": 28
       },
       {
@@ -71540,7 +71822,7 @@
         "slug": "success-and-the-self",
         "path": "content/book/success-and-the-self.md",
         "title": "成功学公式与自我重塑 / The Formula of Success and Self-Reconstruction",
-        "hash": "9790413b85f6",
+        "hash": "8795aa2cb585",
         "out_degree": 33
       },
       {
@@ -75200,7 +75482,7 @@
         "from": "book:index-of-premises",
         "to": "help-is-half-the-problem",
         "rel": "collects",
-        "label": "Help Is Half the Problem"
+        "label": "帮助是问题的一半 / Help Is Half the Problem"
       },
       {
         "from": "book:index-of-premises",
@@ -76046,7 +76328,7 @@
         "from": "book:index-of-premises",
         "to": "therapy-opens-the-feedback-loop",
         "rel": "collects",
-        "label": "Therapy Opens the Feedback Loop"
+        "label": "疗愈打开反馈回路 / Therapy Opens the Feedback Loop"
       },
       {
         "from": "book:index-of-premises",
@@ -77282,7 +77564,7 @@
         "from": "book:morality",
         "to": "help-is-half-the-problem",
         "rel": "collects",
-        "label": "Help Is Half the Problem"
+        "label": "帮助是问题的一半 / Help Is Half the Problem"
       },
       {
         "from": "book:morality",
@@ -77834,7 +78116,7 @@
         "from": "book:success-and-the-self",
         "to": "therapy-opens-the-feedback-loop",
         "rel": "collects",
-        "label": "Therapy Opens the Feedback Loop"
+        "label": "疗愈打开反馈回路 / Therapy Opens the Feedback Loop"
       },
       {
         "from": "book:success-and-the-self",
