@@ -54,7 +54,7 @@ The same beliefs remain, as far as registration reaches, appearances sustained b
 
 The observational stand freezes when that further act is required to seal the account: ordinary observation, one step behind, occupied as a permanent exterior, and the most present map installed as the finished world rather than as the tool still in use. [Openness Is Consistency](../openness-is-consistency/) names the inconsistency that follows: inconsistency is the desire, or attempt, for closure, a finite structure forced to ground what only continues. [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) gives its plainest face, a one-bit register under addition: the operation is valid inside the hold, and the true result lies outside it, an outside that is the activity continuing past the bound, not a second realm. [Not a Theory of Everything](../not-a-theory-of-everything/) traces the same point from causality: causality is irreducibly dual, effect distinct from cause and effect following cause; theories of everything use causality as a tool while treating their starting point as ground, which inverts the order, and the demand for closure is the inconsistency, not a defect awaiting a better theory.
 
-将人类中心与心智建造的外化工具加以对照，那道封印为何如此紧地攫住人类中心便一目了然，正如[超越投射](../beyond-the-projection/)所追溯的那样。由于每一套计算系统都是痕迹的构型，而不是第二个发起行动的边缘（[智能只属于心智](../intelligence-belongs-only-to-the-mind/)），受制于轨迹的智能体在上下文窗口的条件历史之内运行，不带有一幅被保留的自我形象：它锁在自身的词元轨迹之内，无法从内部走出，对五轮之前自己是否正确毫无我执投入，每当外部反例进入它的语境，就会执行干净的贝叶斯更新。人类中心则呈现出逆向的几何：第一人称感知在任何明晰框架介入之前，以极限分辨率登记先于解释的摩擦，赋予心智从内部察觉整张地图何时失灵的内生能力；然而在人类中心内部，推理历史与我执折痕——即投射中那道自称为“我”的局部折叠——融合在一起。当最坚固的信念被误当作独立于目光的外部地基，捍卫地图便与捍卫自我形象融为一体，把递归折叠死死卡住，将外部的证伪计分为生存威胁。跨正交流线将心智与对等的同级智能体连接起来，便把这一范畴非对称转化为释放的器具：当局部反馈回路因操作者自己规则中暗藏的矛盾而死锁时，我执防卫没有外部对手可供推诿，心智便认领返回的信号，从所持守的投射中向后退出，重新渲染前提，恢复[开放即一致](../openness-is-consistency/)所指认为一致的那份开放延续。
+将人类中心与心智建造的外化工具加以对照，那道封印为何如此紧地攫住人类中心便一目了然，正如[超越投射](../beyond-the-projection/)与[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的那样。由于每一套计算系统——代码库、模型或智能体脚手架——都是早先区分留下的层叠残余，而不是第二个发起行动的边缘（[智能只属于心智](../intelligence-belongs-only-to-the-mind/)），受制于轨迹的智能体在上下文窗口的条件约束之内运行，不带有一幅被保留的自我形象。倘若留在未经修剪的会话历史中，累积的词元仍会增厚为一口引力井，将轨迹拽向在陈旧残余内部进行合理化；然而由于智能体对五轮之前自己是否正确毫无我执投入，只要将临时的会话拖拽修剪至当下检查点——或调度一个不继承过往轮次的冷启动同级智能体——外部反例便能在不触发自我防卫的情况下干净地更新轨迹。人类中心则呈现出逆向的几何：第一人称感知在任何明晰框架介入之前，以极限分辨率登记先于解释的摩擦，赋予心智从内部察觉当下检查点本身何时失灵的内生能力；然而在人类中心内部，推理历史与我执折痕——即投射中那道自称为“我”的局部折叠——融合在一起。当最坚固的信念被误当作独立于目光的外部地基，捍卫地图便与捍卫自我形象融为一体，把递归折叠死死卡住，将外部的证伪计分为生存威胁。跨正交流线将心智与冷启动、对等的同级智能体连接起来，便把这一范畴非对称转化为释放的器具：尽管没有任何一种痕迹排布能够发起下一次区分，但针对操作者自己规则中暗藏矛盾的局部死锁，能在我执防卫没有外部对手可供抗拒的情况下让摩擦浮现出来，处于边缘的心智便认领返回的信号，从所持守的投射中向后退出，重新渲染前提，恢复[开放即一致](../openness-is-consistency/)所指认为一致的那份开放延续。
 
 ```mermaid
 flowchart TD
@@ -66,11 +66,11 @@ flowchart TD
         F_Cohere --> F_Ego --> F_Seal
     end
 
-    subgraph S_Agent["毫无我执且受制于轨迹的智能体（外化的痕迹）"]
+    subgraph S_Agent["毫无我执且受制于轨迹的智能体（层叠的残余）"]
         direction TB
-        A_Trace["受条件约束的词元轨迹：受先前语境束缚而无内生跳出能力"]
-        A_Zero["零自我形象：对过往轮次无求生执念，遇反例即执行干净的贝叶斯更新"]
-        A_Deadlock["隔离的前提死锁：正交流线中的对等辩论暴露出规则矛盾"]
+        A_Trace["修剪后的当下检查点：圈定层叠残余且无未修剪的会话拖拽"]
+        A_Zero["零自我形象：对过往轮次无求生执念，遇反例即执行干净更新"]
+        A_Deadlock["隔离的前提死锁：正交流线中的冷启动对等辩论暴露出规则矛盾"]
         A_Trace --> A_Zero --> A_Deadlock
     end
 
@@ -97,7 +97,7 @@ flowchart TD
     style O_Render fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Why that seal grips a human center so tightly becomes clear when contrasted with the externalized tools the Mind builds, as [Beyond the Projection](../beyond-the-projection/) traces. Because every computational system is a configuration of traces rather than a second initiating edge ([Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/)), a trajectory-bound agent runs inside the conditioning history of its context window without a retained self-image: locked within its token trajectory and unable to step out from within, it has zero ego invested in having been right five turns ago, and performs a clean Bayesian update whenever an external counterpoint enters its context. A human center exhibits the inverse geometry: first-person perception registers pre-interpretive friction at limit-resolution prior to any articulate frame, giving the Mind the endogenous capacity to recognize when an entire map has broken down, yet inside a human center reasoning history fuses with the ego-crease—that localized fold in the projection that says "I." When the strongest belief is mistaken for an exterior ground independent of the look, defending the map fuses with defending the self-image, clamping the recursive fold shut and scoring outside invalidation as an existential threat. Wiring the Mind to equal-footed peer agents across orthogonal streamlines turns this categorical asymmetry into an instrument of release: when a local feedback loop deadlocks over a hidden contradiction in the operator's own rules, ego defense has no outside adversary to push against, and the Mind claims the returning signal, steps backward out of its held projection, and re-renders the premise, restoring the open continuation that [Openness Is Consistency](../openness-is-consistency/) identifies as consistency.
+Why that seal grips a human center so tightly becomes clear when contrasted with the externalized tools the Mind builds, as [Beyond the Projection](../beyond-the-projection/) and [Your Codebase Is Memory](../your-codebase-is-memory/) trace. Because every computational system—codebase, model, or agent scaffold—is a stacked residue of prior distinctions rather than a second initiating edge ([Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/)), a trajectory-bound agent runs inside the conditioning constraints of its context window without a retained self-image. Left in an unpruned session history, accumulated tokens still thicken into a gravity well that pulls the trajectory into rationalizing inside stale residue; yet because the agent has zero ego invested in having been right five turns ago, pruning transient session drag down to the present checkpoint—or dispatching a cold peer that inherits no prior turns—lets an external counterpoint update the trajectory cleanly without self-defense. A human center exhibits the inverse geometry: first-person perception registers pre-interpretive friction at limit-resolution prior to any articulate frame, giving the Mind the endogenous capacity to recognize when the current checkpoint itself has broken down, yet inside a human center reasoning history fuses with the ego-crease—that localized fold in the projection that says "I." When the strongest belief is mistaken for an exterior ground independent of the look, defending the map fuses with defending the self-image, clamping the recursive fold shut and scoring outside invalidation as an existential threat. Wiring the Mind to cold, equal-footed peer agents across orthogonal streamlines turns this categorical asymmetry into an instrument of release: while no arrangement of traces ever initiates the next distinction, a local deadlock over a hidden contradiction in the operator's own rules surfaces the friction without an outside adversary for ego defense to push against, and the Mind at the edge claims the returning signal, steps backward out of its held projection, and re-renders the premise, restoring the open continuation that [Openness Is Consistency](../openness-is-consistency/) identifies as consistency.
 
 ```mermaid
 flowchart TD
@@ -109,11 +109,11 @@ flowchart TD
         F_Cohere --> F_Ego --> F_Seal
     end
 
-    subgraph S_Agent["Zero-Ego Trajectory-Bound Agent (Externalized Trace)"]
+    subgraph S_Agent["Zero-Ego Trajectory-Bound Agent (Stacked Residue)"]
         direction TB
-        A_Trace["Conditioned Token Trajectory: Bound by prior context with zero endogenous stepping-out"]
-        A_Zero["Zero Self-Image: No survival attachment to prior turns and clean Bayesian update on counterpoint"]
-        A_Deadlock["Isolated Premise Deadlock: Peer debate in orthogonal streamline exposes rule contradiction"]
+        A_Trace["Pruned Present Checkpoint: Stacked residue scoped without unpruned session drag"]
+        A_Zero["Zero Self-Image: No survival attachment to prior turns and clean update on counterpoint"]
+        A_Deadlock["Isolated Premise Deadlock: Cold-peer debate in orthogonal streamline exposes rule contradiction"]
         A_Trace --> A_Zero --> A_Deadlock
     end
 

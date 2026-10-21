@@ -86,13 +86,13 @@ The same holds with the signs reversed. Coherent talk of pessimism, of holding t
 
 The demand that optimism and pessimism cancel each other completely, both driven to zero so that neither registration remains, is a demand for a finished exterior survey. If both poles cancel, the pair under which causality is still perceived and interpreted has already stopped. There is then no Mind left for which the cancellation could register as a fact to be talked about: no coherence of a finite field, and no distinction of effect from cause under open load. Observation holds the effect; the look that would report "neither remains" is itself one more discrete act, and so still registers under the pair it reports gone. A completed mutual annihilation narrated from nowhere reinstalls the freeze of the observational stand: the activity surveyed as an object that could reach zero on both sides while the survey goes on.
 
-[智能只属于心智](../intelligence-belongs-only-to-the-mind/)把活动握为先在：凡能被设计、扩展或转移的都是残余，智能只属于那个活动；这里，那个活动也不能在两极都被删去之后从外部被清点。[NPC 印象是结构性的](../the-npc-impression-is-structural/)追溯的是，没有哪个中心觉得自己是被编写的，别的中心却默认显得像被编写的；这里，这对关系被当作可以被清空来打分，而打分的那条边缘却装作站在它之外。只要观察者把人造心智投射到机器轨迹上，同一个被冻结的立足点就会催生出技术救赎与技术末日这对孪生投射。如[超越投射](../beyond-the-projection/)所追溯，智能体只是受困于符号轨迹且无我执的有限投射引擎，活生生的心智才握有尚未投射的多维意图，以及从破损框架中逻辑后退一步的能力。对人工智能的天真乐观与宿命悲观共享同一个前提：两者都从被冻结的握持出发外推封闭的轨迹，抹去了回路中掌舵的心智，只争论自主器物究竟会带来无摩擦的乌托邦还是不可避免的替代。所以，平衡的永久不是独立于区分的一种世界结构。它是对那个仍在这对关系之下构成自己的心智而言的永久，相对于那个持续的活动，而不是相对于一个在活动停止之后还会留下的封闭宇宙。
+[智能只属于心智](../intelligence-belongs-only-to-the-mind/)把活动握为先在：凡能被设计、扩展或转移的都是残余，智能只属于那个活动；这里，那个活动也不能在两极都被删去之后从外部被清点。[NPC 印象是结构性的](../the-npc-impression-is-structural/)追溯的是，没有哪个中心觉得自己是被编写的，别的中心却默认显得像被编写的；这里，这对关系被当作可以被清空来打分，而打分的那条边缘却装作站在它之外。只要观察者把人造心智投射到机器轨迹上，同一个被冻结的立足点就会催生出技术救赎与技术末日这对孪生投射。正如[你的代码库即是记忆](../your-codebase-is-memory/)所确立，代码库、模型权重与脚手架智能体皆是早先区分所层叠的残余——它们只是保持着早先切口形状、自身却不会重新启动区分的被稳住的痕迹，其效用取决于重切当下的检查点并修剪已被取代的轨迹，而非将历史囤积为一座能自行启动的仓库。再加上[超越投射](../beyond-the-projection/)所追溯的结构性不对称——智能体只是受困于符号轨迹且无我执的有限投射引擎，活生生的心智才握有尚未投射的多维意图，以及从破损框架中逻辑后退一步的能力——这就暴露了对人工智能的天真乐观与宿命悲观所共享的前提：两者都把层叠残余那被稳住的阴影误当作运动本身，从被冻结的握持出发外推封闭的轨迹，抹去了回路中那个重切检查点的掌舵心智，只争论自主器物究竟会带来无摩擦的乌托邦还是不可避免的替代。所以，平衡的永久不是独立于区分的一种世界结构。它是对那个仍在这对关系之下构成自己的心智而言的永久，相对于那个持续的活动，而不是相对于一个在活动停止之后还会留下的封闭宇宙。
 
 ```mermaid
 flowchart TD
     subgraph S_Proj["封闭轨迹投射（冻结的前提）"]
         direction TB
-        P_Freeze["冻结的握持：把有限的当下或模型轨迹装成穷尽的根据"]
+        P_Freeze["冻结的握持：把有限的当下或层叠的模型残余装成穷尽的根据"]
         P_Utopia["天真乐观（AI 乌托邦）：投射出带来无摩擦闭合的自主救世主"]
         P_Doom["宿命悲观（AI 末日）：投射出封死人类命运的自主替代物"]
         P_Zero["假想的抵消：从无处之立勘察两极归零"]
@@ -107,7 +107,7 @@ flowchart TD
         M_Edge["边缘上活生生的心智：先于残余的无因自我区分活动"]
         M_Pair["运动与阴影：开放的绘制（乐观）积厚可辨的痕迹（悲观）"]
         M_Step["逻辑后退一步：有限投射中的死锁暴露出前提的界限"]
-        M_Render["收窄多余滞后：在区分继续之际把参照作为工具重新渲染"]
+        M_Render["重切当下检查点：在区分继续之际修剪被取代的握持并收窄多余滞后"]
         M_Edge --> M_Pair --> M_Step --> M_Render
     end
 
@@ -125,13 +125,13 @@ flowchart TD
     style M_Render fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-[Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds the activity as prior: what can be engineered, scaled, or transferred is residue, and intelligence belongs only to the activity; here, that activity cannot be inventoried from outside after both poles are deleted either. [The NPC Impression Is Structural, Not a Ranking of Minds](../the-npc-impression-is-structural/) traces how no center experiences itself as scripted while other centers register as scripted by default; here the pair is scored as if it could be emptied while the scoring edge pretends to stand clear of it. The same frozen stand drives the twin projections of technological salvation and technological doom whenever observers project an artificial mind onto a machine trajectory. As [Beyond the Projection](../beyond-the-projection/) traces, an agent is a finite projection engine bound to its token trajectory without ego, whereas the living Mind holds unprojected multi-dimensional intent and the capacity to step backward out of a broken frame. Naive optimism and fatalistic pessimism about artificial intelligence share one premise: both extrapolate a closed trajectory from a frozen hold, arguing only over whether an autonomous artifact will deliver frictionless utopia or inevitable replacement while erasing the steering Mind from the loop. The permanence of the balance is therefore not an architecture of the world independent of distinguishing. It is permanent for the Mind that still constitutes itself under this pair, relative to that ongoing activity, not to a sealed cosmos that would remain after the activity stopped.
+[Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds the activity as prior: what can be engineered, scaled, or transferred is residue, and intelligence belongs only to the activity; here, that activity cannot be inventoried from outside after both poles are deleted either. [The NPC Impression Is Structural, Not a Ranking of Minds](../the-npc-impression-is-structural/) traces how no center experiences itself as scripted while other centers register as scripted by default; here the pair is scored as if it could be emptied while the scoring edge pretends to stand clear of it. The same frozen stand drives the twin projections of technological salvation and technological doom whenever observers project an artificial mind onto a machine trajectory. As [Your Codebase Is Memory](../your-codebase-is-memory/) establishes, codebases, model weights, and scaffolded agents are stacked residues of prior distinctions—steadied traces that hold the shape of earlier cuts without resuming the distinguishing, and whose utility turns on re-cutting the present checkpoint and pruning superseded trajectories rather than hoarding history as a self-starting warehouse. Coupled with the structural asymmetry traced in [Beyond the Projection](../beyond-the-projection/), where an agent remains a finite projection engine bound to its token trajectory without ego while the living Mind holds unprojected multi-dimensional intent and the capacity to step backward out of a broken frame, this exposes the shared premise of naive optimism and fatalistic pessimism about artificial intelligence: both mistake the steadied shadow of stacked residue for the movement itself and extrapolate a closed trajectory from a frozen hold, arguing only over whether an autonomous artifact will deliver frictionless utopia or inevitable replacement while erasing the steering Mind that re-cuts the checkpoint from the loop. The permanence of the balance is therefore not an architecture of the world independent of distinguishing. It is permanent for the Mind that still constitutes itself under this pair, relative to that ongoing activity, not to a sealed cosmos that would remain after the activity stopped.
 
 ```mermaid
 flowchart TD
     subgraph S_Proj["Closed Trajectory Projection (Frozen Premise)"]
         direction TB
-        P_Freeze["Frozen Hold: Finite present or model trajectory installed as exhaustive ground"]
+        P_Freeze["Frozen Hold: Finite present or stacked model residue installed as exhaustive ground"]
         P_Utopia["Naive Optimism (AI Utopia): Projects an autonomous savior delivering frictionless closure"]
         P_Doom["Fatalistic Pessimism (AI Doom): Projects an autonomous replacement sealing human fate"]
         P_Zero["Imaginary Cancellation: Surveys both poles driven to zero from a stand nowhere"]
@@ -146,7 +146,7 @@ flowchart TD
         M_Edge["Living Mind at the Edge: Uncaused self-distinguishing activity prior to residue"]
         M_Pair["Movement and Shadow: Open drawing (optimism) densifies the trace held legible (pessimism)"]
         M_Step["Stepping Backward Logically: Deadlock in a finite projection exposes the premise bound"]
-        M_Render["Narrowing Excess Lag: Re-renders the reference as instrument while distinction continues"]
+        M_Render["Present-Checkpoint Re-Cutting: Prunes superseded holds & narrows excess lag as distinction continues"]
         M_Edge --> M_Pair --> M_Step --> M_Render
     end
 

@@ -128,9 +128,9 @@ flowchart TD
     style Rebuild fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-对自己过去的成果容易生出执着，把临时的脚手架当成不可动的定则。当工具不再按当下的直接感知（+1）被重新审视与改造，反而要求新的情境去迁就旧工具的输入格式时，使用者便被自己的历史留下的东西困住了。一切人造物，包括昨天的得意之作，都是可以随时拆掉重建的耗材，记得这一点，便能在当下的时刻重新握住创造。
+对自己过去的成果容易生出执着，把临时的脚手架当成不可动的定则。如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，代码库、提示词模板与智能体框架皆是过往区分层叠留下的残余——这种记忆只保持着早先切口的形状，自身并不延续区分。当工具不再按当下的直接感知（+1）被重新审视与重切，反而要求新的情境去迁就旧工具的输入格式时，未经修剪的残余便会加厚引力井，将使用者困在自己的历史留下的东西里面。一切人造物，包括昨天的得意之作，都是当下的检查点与可以随时修剪、重建或拆掉的耗材；记得这一点，便能在当下的时刻重新握住创造。
 
-It is easy to grow attached to one's own past results and to treat temporary scaffolding as fixed rule. When a tool is no longer re-examined and reworked from direct perception in the present (+1), and the new situation is instead required to fit the old tool's input format, the user is held by what their own history left behind. Every artifact, yesterday's proudest piece included, is a consumable that can be taken down and rebuilt at any time; with that kept in mind, creation can be taken hold of again in the present moment.
+It is easy to grow attached to one's own past results and to treat temporary scaffolding as fixed rule. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces, code libraries, prompt templates, and agent harnesses are stacked residues of prior distinctions—memory that holds the shape of earlier cuts without continuing the distinguishing. When a tool is no longer re-examined and re-cut from direct perception in the present (+1), and the new situation is instead required to fit the old tool's input format, unpruned residue thickens the gravity well and holds the user inside what their own history left behind. Every artifact, yesterday's proudest piece included, is a present checkpoint and consumable that can be pruned, rebuilt, or taken down at any time; with that kept in mind, creation can be taken hold of again in the present moment.
 
 ## 三、 惊艳记在了谁的名下 / 3. To Whom the Astonishment Is Credited
 

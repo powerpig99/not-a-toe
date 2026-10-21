@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T02:44:56.795Z",
+    "generated_at": "2026-10-21T02:55:54.448Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -31,7 +31,7 @@
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "6799cb961062",
       "content/posts/causality-all-the-way.md": "1b0d5716f61a",
       "content/posts/causality-and-the-irreducible-prior.md": "1a4210565cc0",
-      "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "ce9436abbf24",
+      "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "315e72100b1f",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "0dd35886e208",
       "content/posts/cheng-gong-xue.md": "a5a16fe66184",
       "content/posts/choice-itself-has-no-inherent-weight.md": "7a90eb6da103",
@@ -46,7 +46,7 @@
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "a99435a82fbe",
       "content/posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback.md": "e1c59f1cd3e2",
       "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "6f18c2d12a67",
-      "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "b40e831e432f",
+      "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "591b48069747",
       "content/posts/conscience-power-delegation.md": "d11e1672ae5d",
       "content/posts/consciousness-ascription-and-the-quantum-cut.md": "a85a62bb5f42",
       "content/posts/consciousness-never-appears-as-data-among-data.md": "35adbc5ab9f0",
@@ -62,7 +62,7 @@
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "5f788bf55578",
       "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "ccb4b3e58dea",
       "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "4fdac1ab3e30",
-      "content/posts/dimensions-are-projections.md": "63944447c30b",
+      "content/posts/dimensions-are-projections.md": "4e5cf6607b3f",
       "content/posts/distillation-compression-agency.md": "c67459d797f5",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "1b67e9d4ce82",
       "content/posts/e-shi-feng-bi-de-shan.md": "df2ef3e17c0a",
@@ -109,7 +109,7 @@
       "content/posts/individual-choices-as-the-only-causal-levers.md": "73394d411e94",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "425497acb31b",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
-      "content/posts/intelligence-folding-back-on-itself.md": "282c3fca9a7f",
+      "content/posts/intelligence-folding-back-on-itself.md": "5ce8b84ddfd0",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "77408db0532e",
       "content/posts/looping-and-graphing.md": "81007251f9d4",
@@ -152,7 +152,7 @@
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "5b46760873d0",
       "content/posts/perception-perspective-refined.md": "e05973d21de9",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "951836df1a89",
-      "content/posts/pessimism-is-the-shadow-of-optimism.md": "ded4699bb795",
+      "content/posts/pessimism-is-the-shadow-of-optimism.md": "4c53ac6aa52d",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/po-chu-gai-nian-de-jian-yue.md": "9e0e605cb8a2",
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "c7ac0530aeff",
@@ -192,7 +192,7 @@
       "content/posts/subtracting-consciousness-at-the-source.md": "6851328e4676",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "a78981c24425",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "8def0ea22390",
-      "content/posts/technology-is-residual-of-human-compounding.md": "94f3293d393b",
+      "content/posts/technology-is-residual-of-human-compounding.md": "1576031b77f7",
       "content/posts/the-allocation-of-causal-power-in-validation.md": "5a0728cdace1",
       "content/posts/the-arithmetic-of-the-register.md": "86f3d0b75926",
       "content/posts/the-artifacts-of-self-amplification.md": "5688d3f7e71b",
@@ -205,7 +205,7 @@
       "content/posts/the-blind-spot-of-the-frame.md": "800c2e8eaedd",
       "content/posts/the-boundary-crossing-of-choice.md": "795c21ece259",
       "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "3955e0d6eba0",
-      "content/posts/the-boundary-of-the-frame.md": "48087ba79e07",
+      "content/posts/the-boundary-of-the-frame.md": "6e148e2a6922",
       "content/posts/the-brain-does-not-backprop.md": "4f5c7d0c354c",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "faeb12423e13",
       "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "c9a7c9976149",
@@ -223,7 +223,7 @@
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "3aed5a91fa9f",
       "content/posts/the-continuum-is-a-modeling-convenience.md": "179297f25408",
       "content/posts/the-continuum-of-the-fold.md": "acdea360c003",
-      "content/posts/the-coordinators-category-error.md": "7aecdddc969b",
+      "content/posts/the-coordinators-category-error.md": "849cdeef9512",
       "content/posts/the-cut-moves-but-never-vanishes.md": "393f0fffe02c",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "611d8684bdd6",
@@ -274,7 +274,7 @@
       "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md": "5055d175e3de",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
       "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "ff9d15b95978",
-      "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "470eefc2ebed",
+      "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "bec4cd8c5f9b",
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "42c9505259d0",
       "content/posts/the-invisible-first-move.md": "24e7e1373e4c",
       "content/posts/the-invisible-gods-eye.md": "a985d9e0b0a3",
@@ -292,7 +292,7 @@
       "content/posts/the-loop-that-cant-see-itself.md": "9b03258725d1",
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
       "content/posts/the-map-after-the-territory.md": "1a231ded3754",
-      "content/posts/the-mark-and-the-act.md": "1e6944042bba",
+      "content/posts/the-mark-and-the-act.md": "c564f60f2ed7",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "9fde797d1966",
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "1cc729bed0a9",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "06f1b473faaf",
@@ -323,7 +323,7 @@
       "content/posts/the-question-that-installs-the-war.md": "6570c77251d5",
       "content/posts/the-ramble-within-the-ramble.md": "d74212281de3",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "e536a3a8e1db",
-      "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "d46ea8578432",
+      "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "f4beffd39c0c",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "8c4f283b8657",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "56dda0f3f7ab",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "da0c0cd6c3f8",
@@ -349,7 +349,7 @@
       "content/posts/the-source-of-shared-change.md": "4a0a0c0885e2",
       "content/posts/the-sovereign-blinding.md": "118b031bf858",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
-      "content/posts/the-strongest-belief-of-the-mind.md": "a27fb2b6ea27",
+      "content/posts/the-strongest-belief-of-the-mind.md": "ee7cbb6eb4a6",
       "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "aafc55f7b4d1",
       "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "6ea537e91041",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
@@ -424,10 +424,10 @@
     },
     "stats": {
       "posts": 397,
-      "edges": 9782,
-      "unique_directed": 4885,
+      "edges": 9806,
+      "unique_directed": 4897,
       "missing_targets": 0,
-      "one_way": 383,
+      "one_way": 395,
       "isolated": 35,
       "posts_with_outbound": 361,
       "book_pages": 16,
@@ -465,12 +465,12 @@
       "in_degree": 58
     },
     {
-      "slug": "ownership-and-self-worthiness",
-      "in_degree": 53
+      "slug": "your-codebase-is-memory",
+      "in_degree": 56
     },
     {
-      "slug": "your-codebase-is-memory",
-      "in_degree": 44
+      "slug": "ownership-and-self-worthiness",
+      "in_degree": 53
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -1204,9 +1204,9 @@
       "slug": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "path": "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md",
       "title": "因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere",
-      "hash": "ce9436abbf24",
+      "hash": "315e72100b1f",
       "in_degree": 19,
-      "out_degree": 19,
+      "out_degree": 20,
       "links_out": [
         "the-cut-moves-but-never-vanishes",
         "dimensions-are-projections",
@@ -1223,6 +1223,7 @@
         "the-model-never-becomes-a-second-edge",
         "the-twin-paradox-and-the-hidden-observer",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "individual-choices-as-the-only-causal-levers",
         "subtracting-consciousness-at-the-source",
         "agency-does-not-arise",
@@ -1664,9 +1665,9 @@
       "slug": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
       "path": "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md",
       "title": "从形式迷思到逻辑闭环 / From the Myth of Form to the Closed Loop of Logic",
-      "hash": "b40e831e432f",
+      "hash": "591b48069747",
       "in_degree": 19,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
         "intelligence-belongs-only-to-the-mind",
@@ -1683,6 +1684,7 @@
         "the-twin-paradox-and-the-hidden-observer",
         "the-vector-and-the-puzzle-of-projections",
         "zi-you-de-ce-bu-zhun",
+        "your-codebase-is-memory",
         "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
         "the-unobservable-driver-of-learning",
         "individual-choices-as-the-only-causal-levers",
@@ -2014,9 +2016,9 @@
       "slug": "dimensions-are-projections",
       "path": "content/posts/dimensions-are-projections.md",
       "title": "维度即投影 / Dimensions Are Projections",
-      "hash": "63944447c30b",
+      "hash": "4e5cf6607b3f",
       "in_degree": 18,
-      "out_degree": 19,
+      "out_degree": 20,
       "links_out": [
         "not-a-toe-rewrite",
         "what-information-is",
@@ -2034,6 +2036,7 @@
         "the-twin-paradox-and-the-hidden-observer",
         "beyond-the-projection",
         "the-model-never-becomes-a-second-edge",
+        "your-codebase-is-memory",
         "the-vector-and-the-puzzle-of-projections",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "the-unclosable-trace"
@@ -3153,9 +3156,9 @@
       "slug": "intelligence-folding-back-on-itself",
       "path": "content/posts/intelligence-folding-back-on-itself.md",
       "title": "智能向自身的回折 / Intelligence Folding Back on Itself",
-      "hash": "282c3fca9a7f",
+      "hash": "5ce8b84ddfd0",
       "in_degree": 20,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "two-failures-of-trace",
@@ -3173,6 +3176,7 @@
         "mistaking-the-expression-for-the-intelligence",
         "looping-and-graphing",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "the-scaffolding-that-keeps-growing",
         "the-flywheel-of-the-mind",
         "a-creation-cannot-replace-its-source",
@@ -4296,9 +4300,9 @@
       "slug": "pessimism-is-the-shadow-of-optimism",
       "path": "content/posts/pessimism-is-the-shadow-of-optimism.md",
       "title": "悲观是乐观的阴影 / Pessimism Is the Shadow of Optimism",
-      "hash": "ded4699bb795",
+      "hash": "4c53ac6aa52d",
       "in_degree": 19,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "causality-all-the-way",
         "the-path-drawn-one-step-at-a-time",
@@ -4316,6 +4320,7 @@
         "what-always-listens-cannot-originate",
         "intelligence-belongs-only-to-the-mind",
         "the-npc-impression-is-structural",
+        "your-codebase-is-memory",
         "beyond-the-projection",
         "only-if-it-is-not-kept-empty",
         "when-the-effect-authors-the-frame",
@@ -5288,9 +5293,9 @@
       "slug": "technology-is-residual-of-human-compounding",
       "path": "content/posts/technology-is-residual-of-human-compounding.md",
       "title": "技术是人类复利的残差 / Technology Is Residual of Human Compounding",
-      "hash": "94f3293d393b",
+      "hash": "1576031b77f7",
       "in_degree": 18,
-      "out_degree": 19,
+      "out_degree": 20,
       "links_out": [
         "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
         "intelligence-belongs-only-to-the-mind",
@@ -5310,6 +5315,7 @@
         "causality-stays-at-the-edge-that-steers",
         "residual-control-recedes-to-the-edge",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "the-ladder-of-abstraction-and-the-executable-entity"
       ]
     },
@@ -5680,9 +5686,9 @@
       "slug": "the-boundary-of-the-frame",
       "path": "content/posts/the-boundary-of-the-frame.md",
       "title": "框架的边界 / The Boundary of the Frame",
-      "hash": "48087ba79e07",
+      "hash": "6e148e2a6922",
       "in_degree": 18,
-      "out_degree": 18,
+      "out_degree": 19,
       "links_out": [
         "what-information-is",
         "time-is-causality-not-a-dimension",
@@ -5692,6 +5698,7 @@
         "the-geometry-of-mind",
         "the-arithmetic-of-the-register",
         "the-mirage-of-the-infinite-totality",
+        "your-codebase-is-memory",
         "the-reversal-from-defensible-claim-to-dogma",
         "no-system-can-be-kept-closed",
         "the-only-coherent-uncaused-effect",
@@ -6056,10 +6063,11 @@
       "slug": "the-coordinators-category-error",
       "path": "content/posts/the-coordinators-category-error.md",
       "title": "协调者的范畴错误 / The Coordinator's Category Error",
-      "hash": "7aecdddc969b",
+      "hash": "849cdeef9512",
       "in_degree": 20,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
+        "your-codebase-is-memory",
         "the-scaffolding-we-forget",
         "intelligence-belongs-only-to-the-mind",
         "a-creation-cannot-replace-its-source",
@@ -7195,9 +7203,9 @@
       "slug": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "path": "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md",
       "title": "框架的倒置与驾驶位的主权非对称 / The Inversion of the Harness and the Sovereignty of the Driver's Seat",
-      "hash": "470eefc2ebed",
+      "hash": "bec4cd8c5f9b",
       "in_degree": 18,
-      "out_degree": 16,
+      "out_degree": 17,
       "links_out": [
         "the-scaffolding-we-forget",
         "intelligence-belongs-only-to-the-mind",
@@ -7206,6 +7214,7 @@
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
         "coordinates-in-flux-negation-and-self-anchoring",
         "the-mind-as-vector-and-coordinate-system",
+        "your-codebase-is-memory",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
         "the-illusion-of-the-tool-and-the-inversion-of-time",
@@ -7524,11 +7533,12 @@
       "slug": "the-mark-and-the-act",
       "path": "content/posts/the-mark-and-the-act.md",
       "title": "印迹与行动 / The Mark and the Act",
-      "hash": "1e6944042bba",
+      "hash": "c564f60f2ed7",
       "in_degree": 15,
-      "out_degree": 16,
+      "out_degree": 17,
       "links_out": [
         "complexity-obscures-emergence-as-the-act-of-mind",
+        "your-codebase-is-memory",
         "intelligence-belongs-only-to-the-mind",
         "beyond-the-projection",
         "the-closed-loop-of-representation",
@@ -8287,9 +8297,9 @@
       "slug": "the-real-lesson-from-the-consciousness-vector-paper",
       "path": "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md",
       "title": "意识向量论文的真正教训 / The Real Lesson from the Consciousness Vector Paper",
-      "hash": "d46ea8578432",
+      "hash": "f4beffd39c0c",
       "in_degree": 16,
-      "out_degree": 17,
+      "out_degree": 18,
       "links_out": [
         "what-works-is-the-belief",
         "restriction-is-a-selective-tax",
@@ -8305,6 +8315,7 @@
         "openness-is-consistency",
         "the-risk-is-the-belief-in-oversight-itself",
         "the-source-of-all-harm",
+        "your-codebase-is-memory",
         "clarity-isnt-a-state-you-arrive-at",
         "the-hard-problem-of-consciousness-is-consistent-with-learning",
         "consciousness-never-appears-as-data-among-data"
@@ -8980,9 +8991,9 @@
       "slug": "the-strongest-belief-of-the-mind",
       "path": "content/posts/the-strongest-belief-of-the-mind.md",
       "title": "心智最坚固的信念 / The Strongest Belief of the Mind",
-      "hash": "a27fb2b6ea27",
+      "hash": "ee7cbb6eb4a6",
       "in_degree": 19,
-      "out_degree": 19,
+      "out_degree": 20,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "causality-all-the-way",
@@ -8995,6 +9006,7 @@
         "no-system-can-be-kept-closed",
         "not-a-theory-of-everything",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "data-is-local-intelligence-is-allocated",
         "the-reality-distortion-field-names-the-closed-map",
         "what-works-is-the-belief",
@@ -10091,7 +10103,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 44,
+      "in_degree": 56,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -13921,9 +13933,21 @@
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -17383,6 +17407,12 @@
     },
     {
       "from": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
       "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "rel": "points_to",
       "label": "自尊的刚性外壳与隐性外部归因"
@@ -17392,6 +17422,12 @@
       "to": "the-unobservable-driver-of-learning",
       "rel": "points_to",
       "label": "学习中不可观测的驱动力"
+    },
+    {
+      "from": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
@@ -19369,9 +19405,21 @@
     },
     {
       "from": "dimensions-are-projections",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "dimensions-are-projections",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "dimensions-are-projections",
@@ -26173,6 +26221,12 @@
     },
     {
       "from": "intelligence-folding-back-on-itself",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "intelligence-folding-back-on-itself",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
       "label": "No Outside"
@@ -26194,6 +26248,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "intelligence-folding-back-on-itself",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "intelligence-folding-back-on-itself",
@@ -33673,6 +33733,12 @@
     },
     {
       "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "超越投射"
@@ -33688,6 +33754,12 @@
       "to": "the-npc-impression-is-structural",
       "rel": "points_to",
       "label": "The NPC Impression Is Structural, Not a Ranking of Minds"
+    },
+    {
+      "from": "pessimism-is-the-shadow-of-optimism",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "pessimism-is-the-shadow-of-optimism",
@@ -39793,9 +39865,21 @@
     },
     {
       "from": "technology-is-residual-of-human-compounding",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "technology-is-residual-of-human-compounding",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "technology-is-residual-of-human-compounding",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "technology-is-residual-of-human-compounding",
@@ -42115,6 +42199,18 @@
     },
     {
       "from": "the-boundary-of-the-frame",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
       "to": "the-reversal-from-defensible-claim-to-dogma",
       "rel": "points_to",
       "label": "从可辩护的主张到教条的反转"
@@ -43987,9 +44083,21 @@
     },
     {
       "from": "the-coordinators-category-error",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-coordinators-category-error",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "遗忘的脚手架"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-coordinators-category-error",
@@ -50623,6 +50731,18 @@
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
       "rel": "points_to",
       "label": "规程的倒置与因果回路的消声"
@@ -51994,6 +52114,18 @@
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
       "label": "Complexity Obscures Emergence as the Act of Mind"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-mark-and-the-act",
@@ -56899,6 +57031,12 @@
     },
     {
       "from": "the-real-lesson-from-the-consciousness-vector-paper",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-real-lesson-from-the-consciousness-vector-paper",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
       "label": "清晰不是抵达的终点，而是运动本身"
@@ -56914,6 +57052,12 @@
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
       "label": "意识从不作为数据出现在数据之中"
+    },
+    {
+      "from": "the-real-lesson-from-the-consciousness-vector-paper",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-real-lesson-from-the-consciousness-vector-paper",
@@ -61543,6 +61687,12 @@
     },
     {
       "from": "the-strongest-belief-of-the-mind",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-strongest-belief-of-the-mind",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "智能只属于心智"
@@ -61558,6 +61708,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-strongest-belief-of-the-mind",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-strongest-belief-of-the-mind",

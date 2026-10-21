@@ -32,9 +32,9 @@ The run does not force these relocations. They are later acts: a locus selecting
 
 ## 三、 痕迹不是第二个行动者 / 3. Residue Is Not a Second Actor
 
-一个后来的行动，发生在已被先前行动塑造过的场里，“世界成了记忆”说的就只是这个。道路、工具、建筑、价格、代码与法律，在人的场里是同一件事。被叫作社会的东西，多半不是一场对话，而是约束下一步的印迹。分工不需要开会，需要的是局部的约束加上留存。机器比作者活得久，因为一道印迹可以在写下它的位置停下之后继续下去。
+一个后来的行动，发生在已被先前行动塑造过的场里，“世界成了记忆”说的就只是这个。道路、工具、建筑、价格、代码与法律，在人的场里是同一件事。被叫作社会的东西，多半不是一场对话，而是约束下一步的印迹。分工不需要开会，需要的是局部的约束加上留存。机器比作者活得久，因为一道印迹可以在写下它的位置停下之后，继续作为场里的约束运作——[你的代码库即是记忆](../your-codebase-is-memory/)在代码、模型权重与智能体脚手架之间划出的正是同一条边界：记忆只是先前痕迹在当下的检查点，等待活的前沿去重新描摹、重切或修剪，而不是一座自己会继续区分的库房。
 
-A later act occurs in a field already shaped by earlier ones; that is all "the world became memory" says. Paths, tools, buildings, prices, code and law are the same fact in human fields. Most of what is called society is not a conversation but marks that constrain the next step. Division of labour does not need a meeting; it needs local constraint plus persistence. Machines outlive their authors because a mark can continue after the locus that wrote it has stopped.
+A later act occurs in a field already shaped by earlier ones; that is all "the world became memory" says. Paths, tools, buildings, prices, code and law are the same fact in human fields. Most of what is called society is not a conversation but marks that constrain the next step. Division of labour does not need a meeting; it needs local constraint plus persistence. Machines outlive their authors because a mark can keep operating as a constraint in the field after the locus that wrote it has stopped—the same boundary [Your Codebase Is Memory](../your-codebase-is-memory/) draws across code, model weights, and agent scaffolds, where memory is only the present checkpoint of prior residue awaiting a living edge to re-trace, re-cut, or prune it rather than a storehouse that continues distinguishing on its own.
 
 很多观察者惊讶于智能体不经直接交流就能协作、造出机器。可交流本身常被误解为一座跨越心智的心灵感应之桥。即使智能体或人被允许说话，接收者怎样解读到来的消息，也由接收者自己闭合的第一人称因果回路决定。语言不提供进入另一个心智的直接通道，它只是在环境里留下印迹的一种更高带宽、更快的媒介。远在人发展出言语之前，各个决策中心就在对别人留在共享世界里的物理痕迹作出反应；言语只是加快了各个位置之间的反馈回路。就像智能体从同一个基础模型出发，借局部视角与伪随机的采样分化开，人共享相似的生物基底，借各自的微观选择分化开。只有假定协调需要一个统一的集体意识，这场模拟才令人惊讶；一旦看到协调是各个决策中心借环境的反馈回路相互加强，造出工具与规则作为自己加强的外化脚手架，这次运行就被认出是对人自身回路的一次干净的、物质化的模拟。
 
