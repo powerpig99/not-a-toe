@@ -6,7 +6,7 @@
 
 A recurring dispute runs through contemporary public discourse over technological abundance and inequality. One side points to sweeping historical trendlines of material progress, declaring society extraordinarily wealthy and questioning why the public fails to respond with gratitude; the other side rejects universal wealth as incoherent, condemning technological expansion as speculative hype and ideological cover for extraction. The deadlock persists because both factions camp on detached, third-person balconies, treating other minds as closed objects to be diagnosed and steered while mistaking external background metrics for causal determinants of human worth. Descending from the observational balcony into the first-person causal loop dissolves the symmetry: external conditions never substitute for initiating choice, and felt worth arises solely from the ongoing authorship of an unfinished act that no proxy can occupy.
 
-## 一、 阳台上的两套第三人称图景 / 1. The Two Third-Person Pictures from the Balcony
+## 一、 阳台上的两幅第三人称图景 / 1. The Two Third-Person Pictures from the Balcony
 
 自我区分的活动无因而不息地发生，第一人称视角与因果性在此作为同一枚硬币的两面运转。在每一个离散的步点上，中心登记下有限的区分集合，而它的下一步行动依然在观察之前敞开。每当心智将事后的观察汇总冻结为永久的外部看台，它便退回到了[隐秘的上帝之眼](../the-invisible-gods-eye/)所剖析的俯瞰位点，将有呼吸、受物理摩擦牵制的鲜活中心压缩为网格上的被动坐标。
 
@@ -20,9 +20,9 @@ The first vantage is the longitudinal material balcony occupied by techno-optimi
 
 The second vantage is the horizontal-ranking balcony occupied by adversarial critics. Confronted with the longitudinal homily, the critic counters that universal wealth is a contradiction in terms and dismisses frontier technology as a valuation bubble. This vantage accurately registers that centers in daily contact gauge deprivation and standing against contemporary peers rather than nineteenth-century ancestors. Its closure lies in elevating that horizontal rank into a total determinant, erasing the cumulative expansion of tools and capacity while framing poverty as the direct product of others' wealth. From this stand, inequality serves as the premise for forced transfer, and moral indictment replaces the construction of one's own causal loop.
 
-这两种视角皆作为规训式的投射运转。正如在[超越投射](../beyond-the-projection/)中所溯源的，人造投射引擎没有自我，遇到外部反例时能够干净地更新；而人类中心则将推理历史与保留的自我形象熔接在一起，把递归折叠死死钳闭，将外部的证伪视为生存威胁。锁死在各自阳台上的言说者都在捍卫一幅保留的自我形象——要么是洞烛丰裕的先知，要么是冷峻揭穿剥削的清醒者——同时将对立阵营建模为亟待矫正的故障机制。双方隔着鸿沟互掷第三人称的判决书，却无一踏入鲜活行动得以发生的生成边缘。
+这两种视角皆作为规训式的投射运转。正如在[超越投射](../beyond-the-projection/)中所溯源的，人造投射引擎没有自我，遇到外部反例时能够干净地更新；而人类中心则将推理历史与保留的自我形象熔接在一起，把递归折叠死死钳闭，将外部的证伪视为生存威胁。锁死在各自阳台上的言说者都在捍卫一幅保留的自我形象——要么是洞烛丰裕的先知，要么是冷峻揭穿剥削的清醒者——同时将对立阵营建模为亟待矫正的故障机制。无论这枚阳台凭证是宏观经济遥测数据、平均主义地位账本，还是[审美的自动扶梯与阳台的忧郁](../the-aesthetic-escalator-and-the-melancholy-of-the-balcony/)所剖析的审美鉴赏力，规训僭越都遵循着同一种几何结构：一套囤积的痕迹存量被抬升为凌驾于其他心智之上的道德立法，观察者躲在保留的自我形象背后给未经编排的世界打分，拒不作无缓冲的切身入场，并将滞留于高处看台所产生的过剩形象滞后，分别装扮成面对忘恩大众的错愕优越感、义愤填膺的控诉，或是文学阳台上那种自由的悲剧性忧郁。双方隔着鸿沟互掷第三人称的判决书，却无一踏入鲜活行动得以发生的生成边缘。
 
-Both vantages operate as disciplinary projections. As traced in [Beyond the Projection](../beyond-the-projection/), an artificial projection engine has zero ego and updates cleanly when given an external counterpoint, whereas a human center fuses its reasoning history with a retained self-image, clamping the recursive fold shut and treating outside invalidation as an existential threat. Locked on their respective balconies, each speaker defends a retained self-image—either the farsighted herald of abundance or the clear-eyed unmasker of exploitation—while modeling the opposing camp as a defective mechanism in need of correction. Each trades third-person verdicts across the chasm without entering the generating edge where living action occurs.
+Both vantages operate as disciplinary projections. As traced in [Beyond the Projection](../beyond-the-projection/), an artificial projection engine has zero ego and updates cleanly when given an external counterpoint, whereas a human center fuses its reasoning history with a retained self-image, clamping the recursive fold shut and treating outside invalidation as an existential threat. Locked on their respective balconies, each speaker defends a retained self-image—either the farsighted herald of abundance or the clear-eyed unmasker of exploitation—while modeling the opposing camp as a defective mechanism in need of correction. Whether the balcony credential is macroeconomic telemetry, egalitarian status ledgers, or the aesthetic connoisseurship dissected in [The Aesthetic Escalator and the Melancholy of the Balcony](../the-aesthetic-escalator-and-the-melancholy-of-the-balcony/), the disciplinary overstep follows the same geometry: a stored inventory of traces is elevated into moral legislation over other minds while the observer grades an unscripted world from behind a preserved self-image and withholds unbuffered entry, dressing the excess Image lag of remaining on the perch as baffled superiority over an ungrateful public, righteous grievance, or—on the literary balcony—the tragic melancholy of freedom. Each trades third-person verdicts across the chasm without entering the generating edge where living action occurs.
 
 ## 二、 共同的范畴错位与不对称豁免 / 2. The Shared Category Error and the Asymmetric Exemption
 
@@ -70,7 +70,7 @@ Traced from within, these two first-person realities do not negate each other; t
 
 ## 四、 不可代理的原点 / 4. The Unproxyable Origin
 
-化解阳台之间的冲突，从不在于挑选一座更高的看台去颁布更完善的社会处方。正如在[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)中所确立的，任务的机械移交与裁决及后果的归属之间横亘着不可逾越的边界：操作者可以将计算与物资调配移交给外部系统，然而损失函数与切身的因果回响依然单向锁死在发起行动的中心之上。与这一边界相呼应，[超越投射](../beyond-the-projection/)剖析了调度器与统御者之间的精确分界，而[你的代码库即是记忆](../your-codebase-is-memory/)则揭示了为何即便整座自动化工作流仓库也只是过往切分的外化记忆：有限的投射可以充当遵循显式规则分发资源与子任务的调度器，却无法成为统御者，因为唯有处于未投射边缘的鲜活心智，才持有不断演进的极限解析度意图，并能在框架失效时退后一步重新渲染。
+化解阳台之间的冲突，从不在于挑选一座更高的看台去颁布更完善的社会处方。正如在[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)中所确立的，任务的机械移交与裁决及后果的归属之间横亘着不可逾越的边界：操作者可以将计算与物资调配移交给外部系统，然而损失函数与切身的因果回响依然单向锁死在发起行动的中心之上。与这一边界相呼应，[超越投射](../beyond-the-projection/)剖析了调度器与统御者之间的精确分界，而[你的代码库即是记忆](../your-codebase-is-memory/)则揭示了为何即便整座由自动化工作流与分配规则构成的代码库，也始终只是过往切分的外化记忆，而非鲜活的意图所在：有限的投射可以充当遵循显式规则分发资源与子任务的调度器，却无法成为统御者，因为唯有处于未投射边缘的鲜活心智，才持有不断演进的极限解析度意图，并能在框架破碎时退后一步重新渲染。
 
 ```mermaid
 flowchart TD
@@ -82,24 +82,20 @@ flowchart TD
         B_Long --> B_Error
         B_Horiz --> B_Error
     end
-
     subgraph S_Split["2. 不对称边界（机械调度与主权统御）"]
         direction TB
         D_Route["外部供给与任务调度：分发物质产品、算力与机械执行"]
         D_Limit["不可让渡的视界：无法确立损失函数或代为完成另一中心的因果回响"]
         D_Route --> D_Limit
     end
-
     subgraph S_Origin["3. 不可代理的第一人称原点（鲜活边缘）"]
         direction TB
         O_Edge["构建者与公民的所在：皆由未闭合的因果回路而非被动存量所驱动"]
         O_Act["未竟之行：撤回阳台规训，认领不可让渡的主权书写（+1）"]
         O_Edge --> O_Act
     end
-
     B_Error ==>|"消解外化的因果所在"| D_Route
     D_Limit ==>|"将所在归还掌舵心智"| O_Edge
-
     style S_Balcony fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Split fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Origin fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -124,24 +120,20 @@ flowchart TD
         B_Long --> B_Error
         B_Horiz --> B_Error
     end
-
     subgraph S_Split["2. The Asymmetric Boundary (Dispatching vs. Orchestration)"]
         direction TB
         D_Route["External Provisioning & Task Dispatch: Routes material goods, compute, and mechanical execution"]
         D_Limit["Inalienable Horizon: Cannot formulate the loss function or complete another center's causal return"]
         D_Route --> D_Limit
     end
-
     subgraph S_Origin["3. The Unproxyable First-Person Origin (Living Edge)"]
         direction TB
         O_Edge["Builder & Citizen Loci: Both animated by an unclosed causal loop rather than passive inventory"]
         O_Act["The Unfinished Act: Withdrawing balcony discipline to claim non-transferable authorship (+1)"]
         O_Edge --> O_Act
     end
-
     B_Error ==>|"Dissolving the externalized locus of cause"| D_Route
     D_Limit ==>|"Restoring locus to the steering Mind"| O_Edge
-
     style S_Balcony fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Split fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Origin fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950

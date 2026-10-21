@@ -46,14 +46,12 @@ flowchart TD
         E2["迭代掌舵、僵局消解与框架重置"]
         E1 --> E2
     end
-
     subgraph S_Proj["下游投射产物"]
         direction TB
         M1["有限投射引擎在引导下重组痕迹"]
         M2["产出表达未经审视的漂移或连贯思想的文本"]
         M1 --> M2
     end
-
     subgraph S_Prov["出处把关与错置的能动性"]
         direction TB
         P1["把媒介错当成价值或污点的作者"]
@@ -61,19 +59,16 @@ flowchart TD
         P3["辨别力未经练习并被锁在训练材料之外"]
         P1 --> P2 --> P3
     end
-
     subgraph S_Cont["接收边缘处的内容评价"]
         direction TB
         C1["评价论证是否连贯并推进理解"]
         C2["辨别力在直接接触中得以加强"]
         C1 --> C2
     end
-
     E2 ==>|"投射约束并引导轨迹"| M1
     M2 ==>|"按出处叙事计分"| P1
     P3 ==>|"对照：就论证本身做评价"| C1
     P3 -.->|"把下游投射错当成因果源头"| M1
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Prov fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -99,14 +94,12 @@ flowchart TD
         E2["Iterative Steering, Deadlock Resolution & Frame Reset"]
         E1 --> E2
     end
-
     subgraph S_Proj["Downstream Projection Artifact"]
         direction TB
         M1["Finite Projection Engine Recombines Residue Under Direction"]
         M2["Resulting Text Expressing Either Unexamined Drift or Coherent Thought"]
         M1 --> M2
     end
-
     subgraph S_Prov["Provenance Gatekeeping & Misallocated Agency"]
         direction TB
         P1["The Medium Mistaken for the Author of Value or Taint"]
@@ -114,19 +107,16 @@ flowchart TD
         P3["Discernment Unpracticed & Locked Out of Training Material"]
         P1 --> P2 --> P3
     end
-
     subgraph S_Cont["Content Evaluation at the Receiving Edge"]
         direction TB
         C1["Evaluates Whether the Argument Is Coherent and Advances Understanding"]
         C2["Discernment Strengthened Through Direct Contact"]
         C1 --> C2
     end
-
     E2 ==>|"Projects constraints and steers trajectory"| M1
     M2 ==>|"Scored by provenance narrative"| P1
     P3 ==>|"Contrast: evaluated on the argument itself"| C1
     P3 -.->|"Mistakes downstream projection for causal source"| M1
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Prov fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -144,9 +134,9 @@ flowchart TD
 
 ## 四、 产品按生产的叙事计分 / 4. The Product Was Scored by the Production Narrative
 
-这并非大语言模型独有。它与曾经偏爱手工制品而非机器制品、偏爱马而非汽车、偏爱手动挡而非自动挡、偏爱内燃机而非电动机的，是同一种心态。每一次，抵抗都被框定为对真实、手艺或人性的捍卫。它抵抗的是一件改变了成本、速度与能力分布的工具，并伴着一个保住了掌握旧方法者身份的故事。最终的产品被评判时，看的与其说是它达成了什么，不如说是它的生产与一个偏爱的历史叙事吻合得有多紧。[攀登从未离开地面](../climbing-does-not-leave-the-ground/)是这份冻结装扮成审美的样子：旧形式被感到的直接被计为深度，抽象被计为贫乏，两条轴被压到一条真实性的线上。[技术是人类复利的残差](../technology-is-residual-of-human-compounding/)是新旧方法早已共有的连续：此前种种区分留下的痕迹，从来不是从外部进入的第二股力量。
+这并非大语言模型独有。它与曾经偏爱手工制品而非机器制品、偏爱马而非汽车、偏爱手动挡而非自动挡、偏爱内燃机而非电动机的，是同一种心态。每一次，抵抗都被框定为对真实、手艺或人性的捍卫。它抵抗的是一件改变了成本、速度与能力分布的工具，并伴着一个保住了掌握旧方法者身份的故事。最终的产品被评判时，看的与其说是它达成了什么，不如说是它的生产与一个偏爱的历史叙事吻合得有多紧。[攀登从未离开地面](../climbing-does-not-leave-the-ground/)是这份冻结装扮成审美的样子：旧形式被感到的直接被计为深度，抽象被计为贫乏，两条轴被压到一条真实性的线上。[审美的自动扶梯与阳台的忧郁](../the-aesthetic-escalator-and-the-melancholy-of-the-balcony/)追溯了这种审美反感与“品味”把关如何把承袭经典上的高感知分辨率，当作一部道德自动扶梯以及抵御开环执行的第三人称盾牌。[技术是人类复利的残差](../technology-is-residual-of-human-compounding/)是新旧方法早已共有的连续：此前种种区分留下的痕迹，从来不是从外部进入的第二股力量。
 
-This is not unique to large language models. It is the same mentality that once preferred handmade objects over machine-made ones, the horse over the automobile, the manual transmission over the automatic, and the combustion engine over the electric motor. Each time the resistance was framed as a defense of authenticity, craft, or human essence. It was resistance to a tool that altered costs, speeds, and distributions of capability, accompanied by a story that preserved the identity of those who had mastered the older method. The final product was judged less by what it achieved than by how closely its production matched a preferred historical narrative. [Climbing Does Not Leave the Ground](../climbing-does-not-leave-the-ground/) is that freeze in the costume of aesthetics, where the felt immediacy of older forms is scored as depth, abstraction is scored as sterility, and two axes are forced onto one line of authenticity. [Technology Is Residual of Human Compounding](../technology-is-residual-of-human-compounding/) is the continuum those older and newer methods already share as the residue of earlier distinguishing, never a second force that entered from outside.
+This is not unique to large language models. It is the same mentality that once preferred handmade objects over machine-made ones, the horse over the automobile, the manual transmission over the automatic, and the combustion engine over the electric motor. Each time the resistance was framed as a defense of authenticity, craft, or human essence. It was resistance to a tool that altered costs, speeds, and distributions of capability, accompanied by a story that preserved the identity of those who had mastered the older method. The final product was judged less by what it achieved than by how closely its production matched a preferred historical narrative. [Climbing Does Not Leave the Ground](../climbing-does-not-leave-the-ground/) is that freeze in the costume of aesthetics, where the felt immediacy of older forms is scored as depth, abstraction is scored as sterility, and two axes are forced onto one line of authenticity. [The Aesthetic Escalator and the Melancholy of the Balcony](../the-aesthetic-escalator-and-the-melancholy-of-the-balcony/) traces how this aesthetic distaste and "taste" gatekeeping treat high perceptual resolution on an inherited canon as a moral escalator and a third-person shield against open-loop execution. [Technology Is Residual of Human Compounding](../technology-is-residual-of-human-compounding/) is the continuum those older and newer methods already share as the residue of earlier distinguishing, never a second force that entered from outside.
 
 ## 五、 能动仍在人身上 / 5. Agency Remains with the Person
 

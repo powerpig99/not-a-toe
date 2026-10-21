@@ -8,9 +8,9 @@ Happiness is hard to find within oneself and impossible to find elsewhere, and b
 
 ## 一、 寻觅的语法与幸福的不对称性 / 1. The Grammar of Finding and the Asymmetry of Happiness
 
-追问幸福居于何处时，寻找便陷入日常语言搭成的空间迷宫。尚福尔指出，在外部世界找寻幸福是绝无可能的，而在自身内部寻觅则很难。这种不对称性之所以成立，首先在于外部环境属于第三人称可观测实体的领域。不论财富、声望、舒适或地位如何堆叠，它们所展现的都是客体属性的组合。任何作为客体被登记的事物，都替代不了登记它的那份领悟。因此，将幸福寄托于外部占有，从结构上注定是一场无解的追逐，因为客体永远无法蜕变为观察着的心智当下的领悟。
+追问幸福居于何处时，寻找便陷入日常语言搭成的空间迷宫。尚福尔指出，在外部世界找寻幸福是绝无可能的，而在自身内部寻觅则很难。这种不对称性之所以成立，首先在于外部环境属于第三人称可观测实体的领域。不论财富、声望、舒适或地位如何堆叠，它们所展现的都是客体属性的组合。任何作为客体被登记的事物，都替代不了登记它的那份领悟。因此，将幸福寄托于外部占有，从结构上注定是一场无解的追逐，因为客体永远无法蜕变为观察着的心智当下的领悟。哪怕所积累的是雅致的文化熏陶，正如[审美的自动扶梯与阳台的忧郁](../the-aesthetic-escalator-and-the-melancholy-of-the-balcony/)所剖析的，把“健全的品味”或“道德的明晰”当作借由审美积累而发现的预存自动扶梯，依然遮蔽了在当下边缘仍须付出的具体判断，使鉴赏者滞留于第三人称的阳台上——在那里，客体化的审视本身便排除了幸福。
 
-The search for where happiness resides stumbles into a spatial labyrinth that ordinary language builds. Chamfort observed that finding happiness outside oneself is impossible, while finding it within is very difficult. The outward half holds because external circumstances belong to the domain of third-person observables. However wealth, acclaim, comfort, or status accumulate, they present configurations of objects. Nothing that registers as an object substitutes for the realization that registers it, so pinning fulfillment to external acquisition is a structural impossibility: no object turns into the immediate realization of the observing Mind.
+The search for where happiness resides stumbles into a spatial labyrinth that ordinary language builds. Chamfort observed that finding happiness outside oneself is impossible, while finding it within is very difficult. The outward half holds because external circumstances belong to the domain of third-person observables. However wealth, acclaim, comfort, or status accumulate, they present configurations of objects. Nothing that registers as an object substitutes for the realization that registers it, so pinning fulfillment to external acquisition is a structural impossibility: no object turns into the immediate realization of the observing Mind. Even when what is accumulated is refined cultural exposure, treating "sound taste" or "moral clarity" as a pre-existing escalator discovered through aesthetic accumulation—as dissected in [The Aesthetic Escalator and the Melancholy of the Balcony](../the-aesthetic-escalator-and-the-melancholy-of-the-balcony/)—hides the concrete judgment that must still be paid at the edge, leaving the connoisseur stranded on a third-person balcony where the objectifying audit itself precludes happiness.
 
 然而，当注意力听从这一劝告转向内心时，寻觅却打开了第二重困境。寻找这一动词，深植于主体对分离客体的探测语法。一旦寻觅转向内心、寻找某种名为幸福的心理状态，目光便分裂为一个巡视的姿态和一份被巡视的感受。无论它找到的是瞬时的愉悦、宁静的冥想心境还是自我肯定的情绪，它所找到的都是又一片被物化的切片。内向探索的困境之所以被感知为艰难而非不可能，是因为每当巡视姿态短暂地消退、落入一种不再分成审视者与被审视者的安宁时，心智便顺着语言的习惯，把这次消退称作一次找到。这种语词归因的错位催着寻找更用力，而每一次用力，都重新撕开它本想弥合的那道裂痕。正如在探讨[不可还原的观察者](../the-irreducible-observer/)时所揭示的，观察者一旦将自身作为对象打量，它所把握的是被观测的数据，观察则仍作为基底在运行。
 
@@ -32,9 +32,7 @@ graph TD
         U1["活态第一人称区分：尚未分出审视者"]
         style U1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     end
-
     U1 ==>|"执行客体化操作：确立审视焦点"| O1
-
     subgraph S_Split ["客体化割裂与寻觅困境"]
         direction TB
         style S_Split fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -57,9 +55,7 @@ graph TD
         U1["Living First-Person Distinguishing: No Inspector Set Apart Yet"]
         style U1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     end
-
     U1 ==>|"Enacting Objectification: Fixing an Inspection Focus"| O1
-
     subgraph S_Split ["The Objectifying Split and the Impasse of Finding"]
         direction TB
         style S_Split fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -88,9 +84,7 @@ graph TD
         C["区分不息：一次一面"]
         style C fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
     end
-
     C ==>|"视线朝向选择：排他性投影"| F1
-
     subgraph S_Orientations ["排他性显现机制"]
         direction TB
         style S_Orientations fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -112,9 +106,7 @@ graph TD
         C["Distinguishing, Unceasing: One Face at a Time"]
         style C fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
     end
-
     C ==>|"Orientation of Gaze: Exclusive Projection"| F1
-
     subgraph S_Orientations ["Exclusive Display Mechanics"]
         direction TB
         style S_Orientations fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -152,9 +144,7 @@ graph TD
         style P1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
         style P2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     end
-
     P2 ==>|"消解客体化执念：认出先验基底"| R1
-
     subgraph S_Resolution ["先验几何的澄明理解"]
         direction TB
         style S_Resolution fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -162,7 +152,7 @@ graph TD
         R2 --> R3["淡出非消除：第一人称视界不可还原"]
         style R1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
         style R2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-        style R3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+        style R3 fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
     end
 ```
 
@@ -182,9 +172,7 @@ graph TD
         style P1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
         style P2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     end
-
     P2 ==>|"Dissolving Objectification: Recognizing the Prior Ground"| R1
-
     subgraph S_Resolution ["Geometric Clarity of the Prior Vantage"]
         direction TB
         style S_Resolution fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -192,7 +180,7 @@ graph TD
         R2 --> R3["Fading Is Not Erasure: Irreducible Horizon"]
         style R1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
         style R2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-        style R3 fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
+        style R3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     end
 ```
 

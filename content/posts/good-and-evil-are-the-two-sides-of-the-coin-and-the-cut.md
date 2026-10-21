@@ -2,7 +2,7 @@
 
 *善与恶是画出道德之轴的那一刀所留下的两面。 / Good and evil are the two faces left by the cut that draws a moral axis.*
 
-善与恶显现为在争斗中相持的两股对立力量；硬币命名的是它们的相互依存，每一面都需要另一面。先于任何一面的是那一刀，即一个离散动作：一个中心凭此画出一条道德的轴，由此让极性成为可得，而这个动作并不是对某个已经在场之物的观察。当那一刀被忘记，中心那幅自己为善的偏好图像被豁免于重新追溯、并被抬到其他中心之上，两极便被登记为发现，一个受保护的善的自我与一个必需的恶的他者；从这次冻结里，接连生出英雄的故事、对评判的许可，以及在后来叙事之下两面的轮换。描述在每一刀之后晚一步到来，不论那一刀是否被冻结，而这份滞后是言说运作的方式，不是冻结所产生的东西。
+善与恶显现为在争斗中相持的两股对立力量；硬币命名的是它们的相互依存，每一面都需要另一面。先于任何一面的是那一刀，即一个离散动作：一个中心凭此画出一条道德的轴，由此让极性可得，而这个动作并不是对某个已经在场之物的观察。当那一刀被忘记，中心那幅自己为善的偏好图像被豁免于重新追溯、并被抬到其他中心之上，两极便被登记为一项发现：一个受保护的善的自我，与一个必需的恶的他者；从这次冻结里，接连生出英雄的故事、对评判的许可，以及在后来叙事之下两面的轮换。描述在每一刀之后晚一步到来，不论那一刀是否被冻结，而这份滞后是言说运作的方式，不是冻结所产生的东西。
 
 Good and evil present themselves as opposing forces locked in struggle; the coin names their interdependence, each face requiring the other. Prior to either face is the cut, the discrete act by which a center draws a moral axis and so makes the polarity available, and that act is not observation of something already present. When the cut is forgotten, and the center's preferred image of itself as good is exempted from re-tracing and elevated over other centers, the poles register as discovery, a protected good-self and a necessary evil-other; from that freeze follow the hero story, the licensing of judgment, and the rotation of faces under later narrative. Description arrives one step behind every cut, frozen or not, and that lag is how speech works rather than something the freeze produces.
 
@@ -12,7 +12,7 @@ Good and evil present themselves as opposing forces locked in struggle; the coin
 
 Self-distinguishing activity occurs, uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. To distinguish is to bound. Each center is a locus of this activity, and moral polarity is a bound a center draws under a dualistic measure: one axis, two poles, the center that draws it occupying one seat.
 
-那一刀不是对早已等在世界里的善与恶的观察。它是在每一步被重新画出的那个动作，由此善与恶才作为一个朝向而可得。冻结发生在那一刀被忘记、中心那幅自己为善的偏好图像被豁免于重新追溯、并被抬到其他中心之上的时候；于是两极显得不言自明。冻结下来的中心把其中一边当作自己天然的家，那个融贯、有理、良善的内部，再把对照的那一极投射为阻碍、腐坏或威胁。那一极是必需的：没有它，冻结下来的善的自我便没有轮廓。这份需要在这片场之内被满足，靠的是一幅他者的图像，而错在把那幅图像当成另一个中心，于是一个在它自己所在上登记的心智，被当作冻结的自我所需要的那个恶的一极来对待。
+那一刀不是对早已等在世界里的善与恶的观察。它是在每一步被重新画出的那个动作，由此善与恶才作为一个朝向而可得。冻结发生在那一刀被忘记、中心那幅自己为善的偏好图像被豁免于重新追溯、并被抬到其他中心之上的时候；于是两极显得不言自明。冻结下来的中心把其中一边当作自己天然的家，那个融贯、有理、良善的内部，再把对照的那一极投射为阻碍、腐坏或威胁。那一极是必需的：没有它，冻结下来的善的自我便没有轮廓。这份需要在这片场之内被满足，靠的是一幅他者的图像，而错在把那幅图像当成另一个中心，于是一个在自身所在上登记的心智，便被当成了冻结自我所需的那个恶的一极。
 
 The cut is not an observation of good and evil already waiting in the world. It is the act, redrawn at each step, that makes them available as a heading in the first place. The freeze comes when the cut is forgotten and the center's preferred image of itself as good is exempted from re-tracing and elevated over other centers; then the poles appear self-evident. The frozen center takes one side as its natural home, the coherent good interior, in the right, and projects the contrasting pole as obstruction, corruption, or threat. That pole is required: without it the frozen good-self has no contour. The requirement is met inside this field by an image of the other, and the error is taking that image for another center, so that a Mind registering at its own locus is treated as the evil pole the frozen self needs.
 
@@ -22,21 +22,21 @@ The cut is not an observation of good and evil already waiting in the world. It 
 
 ## 二、 善的自我许可了故事 / 2. The Good-Self Licenses the Story
 
-从冻结下来的划分里，熟悉的戏剧展开了。一个中心成为它讲给自己听的故事，而在这个故事里，第一人称的位置被派作英雄，因为没有哪个中心从内部把自己当下的选择体验为恶；即便是为了一个遥远的地平线而拥抱的破坏，从内部看也仍是正当的。对自己之善的确信许可了评判：被定为必需之恶的他者，可以用故事所称的任何相称手段去对抗。对其他中心的伤害，在故事之内被登记为令人遗憾的必要，而这个辩护在内部是一致的。[外化善意走向其反面](../externalized-virtue-becomes-its-opposite/)追溯的是那份评判离开私人之场的那一步：一旦被当作对别人有权威，对自己道德可靠的确信与对异议者有所欠缺的确信便一同出现，成为一个依据，代表更大之善的主张，需要一个相对欠缺的陪衬。自由的顺从让持有者成为一个容器；善一旦冻结为不言自明，依据便已过期，权力却还在，而从被压过者那一面看，以善之名执行的东西，正是它声称要防止的那种侵犯。后来把英雄重新归类为恶人，让那笔交易仍未被审视，因为一个英雄堕落的故事，比审视自己的委托更干净，而下一个容器也就仍然可得。
+从冻结下来的划分里，熟悉的戏剧展开了。一个中心成为它讲给自己听的故事，而在这个故事里，第一人称的位置被派作英雄，因为没有哪个中心从内部把自己当下的选择体验为恶；即便是为了一个遥远的地平线而拥抱的破坏，从内部看也仍是正当的。对自己之善的确信许可了评判：被定为必需之恶的他者，可以用故事所称的任何相称手段去对抗。对其他中心的伤害，在故事之内被登记为令人遗憾的必要，而这个辩护在内部是一致的。[外化善意走向其反面](../externalized-virtue-becomes-its-opposite/)追溯的是那份评判离开私人之场的那一步：一旦被当作对别人有权威，对自己道德可靠的确信与对异议者有所欠缺的确信便一同出现，成为同一个依据：代表更大之善的主张，需要一个相对欠缺的陪衬。自由的顺从让持有者成为一个容器；善一旦冻结为不言自明，依据便已过期，权力却还在，而从被压过者那一面看，以善之名执行的东西，正是它声称要防止的那种侵犯。后来把英雄重新归类为恶人，让那笔交易仍未被审视，因为一个英雄堕落的故事，比审视自己的委托更干净，而下一个容器也就仍然可得。
 
 From the frozen partition the familiar drama unfolds. A center becomes the story it tells itself, and in that story the first-person position is cast as the hero, since no center experiences its own immediate choice as evil from within; even destruction embraced for a distant horizon stays justified from within. Certainty in one's own goodness licenses judgment: the other, fixed as necessary evil, can be opposed by whatever means the story calls proportionate. Harm to other centers registers inside the story as a regrettable necessity, and the justification is internally consistent. [Externalized Virtue Becomes Its Opposite](../externalized-virtue-becomes-its-opposite/) traces the step at which that judgment leaves the private field: treated as authoritative for others, the certainty of one's own moral reliability and the certainty of dissenters' deficiency appear together as one warrant, the claim to stand for the greater good needing a foil of relative deficiency. Free compliance makes the holder a vessel; once the good freezes as self-evident, the warrant has expired while the power remains, and from the face of those overridden, what is enforced in the name of the good is the very violation it claimed to prevent. The later reclassification of heroes as villains leaves that transaction unexamined, since the story of a corrupted hero is cleaner than examining one's own delegation, and the next vessel stays available.
 
-[安装战争的那个问题](../the-question-that-installs-the-war/)把这篇文章里的英雄与恶人，读作二元装扮之下的同一次制造，并把它自己的安装陈述为一个公共的言语动作：一叠只有差异的身份，加上给敌意计分的要求，预设了毫无共同地基，这是一个比字面上的战争更严格的前提，因为即便是字面上的战争也还留着某个共有的坐标；前提一旦被接受，在它之下的任何交换都是战争本身。放在它旁边，善对恶的记分牌还留着一条共有的道德之轴，那个问题一条也不留。[偏好聚类与评判语言](../preference-clusters-and-the-language-of-judgment/)给这些词定位：从一个共鸣的聚类内部看，不对齐已经被登记在一块对与错的记分牌上，那是另一个所在不重新追溯同一片场域时，对齐的偏好所发出的声音，而这份显现作为登记成立；“此刻这对我是对的”仍可以当作一步宽的罗盘来用，一旦被持为要求其他中心必须重新追溯同一份对齐的凭据，便不再能当罗盘用。[道德语言稀释自由复利的反馈](../moral-language-dilutes-the-feedback-that-scales-freedom/)发现评价覆层已经在个人的回路之内：善与恶、对与错、美德与恶习，隔在行动者与后果之间，让接纳变得片面，削弱了生成自由的回路，而即便是“此刻这对我是对的”，若被当作一道常设的屏风，而不是在那一步重新画出，也会让所有权无法闭合；抓住硬币的一面，就足以把背面的代价藏起来。
+[安装战争的那个问题](../the-question-that-installs-the-war/)把这篇文章里的英雄与恶人，读作二元装扮之下的同一次制造，并将它所剖析的那次安装陈述为一桩公共的言语动作：一叠只有差异的身份，加上给敌意计分的要求，预设了毫无共同地基，这是一个比字面上的战争更严格的前提，因为即便是字面上的战争也还留着某个共有的坐标；前提一旦被接受，在它之下的任何交换都是战争本身。放在它旁边，善对恶的记分牌还留着一条共有的道德之轴，那个问题一条也不留。[偏好聚类与评判语言](../preference-clusters-and-the-language-of-judgment/)给这些词定位：从一个共鸣的聚类内部看，不对齐已经被登记在一块对与错的记分牌上，那是另一个所在不重新追溯同一片场域时，对齐的偏好所发出的声音，而这份显现作为登记成立；“此刻这对我是对的”仍可以当作一步宽的罗盘来用，一旦被持为要求其他中心必须重新追溯同一份对齐的凭据，便不再能当罗盘用。[道德语言稀释自由复利的反馈](../moral-language-dilutes-the-feedback-that-scales-freedom/)指出这层评价覆层早已处在个人的回路之内：善与恶、对与错、美德与恶习，隔在行动者与后果之间，让接纳变得片面，削弱了生成自由的回路，而即便是“此刻这对我是对的”，若被当作一道常设的屏风，而不是在那一步重新画出，也会让所有权无法闭合；抓住硬币的一面，就足以把背面的代价藏起来。[审美的自动扶梯与阳台的忧郁](../the-aesthetic-escalator-and-the-melancholy-of-the-balcony/)追溯了存储的审美修养被焊到道德之轴上时的同一次压缩：把“健全的品味”等同于“清晰的道德观点”，会将保留下来的偏好典范抬到其他中心之上、化作法庭，同时它的评价屏风在抽离的阳台上阻尼了自由那无缓冲的反馈回路，而所保留图像的过量滞后便在那里被登记为忧郁。
 
-[The Question That Installs the War](../the-question-that-installs-the-war/) reads this post's hero and villain as the same manufacture under dualistic costume, and states its own install as a public speech act: a pure-difference identity stack plus a demand to score enmity assumes no common ground at all, a premise stricter than literal war, since even literal war keeps some shared coordinate; once the premise is accepted, any exchange under it is war itself. Set beside it, the good-versus-evil scoreboard still keeps one shared moral axis, and that question keeps none. [Preference Clusters and the Language of Judgment](../preference-clusters-and-the-language-of-judgment/) locates the words: from inside a resonant cluster, misalignment already registers on a scoreboard of right versus wrong, the sound aligned preferences make when another locus does not re-trace the same field, and that appearance holds as registration; “this is right for me now” stays usable as a one-step compass, and stops working as one when held as a warrant that other centers must re-trace the same alignment. [Moral Language Dilutes the Feedback That Scales Freedom](../moral-language-dilutes-the-feedback-that-scales-freedom/) finds the evaluative overlay already inside the personal loop: good and evil, right and wrong, virtue and vice stand between agent and consequence, make acceptance partial and damp the loop that generates freedom, and even “this is right for me now”, kept as a standing screen instead of redrawn at the step, keeps ownership from closing; seizing one face of the coin is enough to hide the costs on the reverse.
+[The Question That Installs the War](../the-question-that-installs-the-war/) reads this post's hero and villain as the same manufacture under dualistic costume, and states its own install as a public speech act: a pure-difference identity stack plus a demand to score enmity assumes no common ground at all, a premise stricter than literal war, since even literal war keeps some shared coordinate; once the premise is accepted, any exchange under it is war itself. Set beside it, the good-versus-evil scoreboard still keeps one shared moral axis, and that question keeps none. [Preference Clusters and the Language of Judgment](../preference-clusters-and-the-language-of-judgment/) locates the words: from inside a resonant cluster, misalignment already registers on a scoreboard of right versus wrong, the sound aligned preferences make when another locus does not re-trace the same field, and that appearance holds as registration; “this is right for me now” stays usable as a one-step compass, and stops working as one when held as a warrant that other centers must re-trace the same alignment. [Moral Language Dilutes the Feedback That Scales Freedom](../moral-language-dilutes-the-feedback-that-scales-freedom/) finds the evaluative overlay already inside the personal loop: good and evil, right and wrong, virtue and vice stand between agent and consequence, make acceptance partial and damp the loop that generates freedom, and even “this is right for me now”, kept as a standing screen instead of redrawn at the step, keeps ownership from closing; seizing one face of the coin is enough to hide the costs on the reverse. [The Aesthetic Escalator and the Melancholy of the Balcony](../the-aesthetic-escalator-and-the-melancholy-of-the-balcony/) traces this same compression when stored aesthetic refinement is welded onto the moral axis: equating “sound taste” with “sharp moral focus” elevates a retained preference canon into a tribunal over other centers while its evaluative screen damps the unbuffered feedback loop of freedom from a detached balcony, where the excess lag of the preserved image registers as melancholy.
 
 ## 三、 另一面是另一个中心的登记 / 3. The Opposite Face Is the Other Center's Registration
 
-英雄的故事登记为保护的东西，在被压过的中心上，被登记为英雄声称要抵抗的那种恶本身。在那里，英雄演出的是那个中心的叙事分派给恶人的角色。没有哪个座位能同时握住两面：行动者呈现一面，接受者从另一个坐标登记，而哪一份登记都不是对一串从外面俯瞰到的事件的重新描述。这次碰撞不需要自觉的恶意。它只需要每一个中心忘记自己的那一刀，于是它画出的两极被登记为找到的。
+在英雄故事里被登记为保护的东西，到了被压过的中心那里，登记下来的正是英雄声称要抵抗的那种恶本身。在那里，英雄演出的是那个中心的叙事分派给恶人的角色。没有哪个座位能同时握住两面：行动者呈现一面，接受者从另一个坐标登记，而哪一份登记都不是对一串从外面俯瞰到的事件的重新描述。这次碰撞不需要自觉的恶意。它只需要每一个中心忘记自己的那一刀，于是它画出的两极被登记为找到的。
 
 What the hero's story registers as protection is registered, at the overridden center, as the very evil the hero claimed to resist. There the hero performs the role that center's narrative assigns to the villain. No seat holds both faces at once: the actor presents one face, the recipient registers from the other coordinate, and neither registration is a redescription of a sequence surveyed from outside. The collision requires no conscious malice. It requires only that each center forget its own cut, so that the poles it drew register as found.
 
-每一个所在都比自己的动作晚一步登记它；这一步的间隔，是任何登记的运作方式。冻结叠在这个间隔之上：一幅必需之善的偏好自我图像，被豁免于重新追溯，并被抬到其他中心之上，于是在二元之下被计分的后果，被登记为外部威胁的证实。不需要任何独立的恶之实体。每一个中心所保留的图像，创作出那对照的一极，再把它遇到的另一个中心动作的残余，当作证实。后来，其他的中心，或者同一个中心在累积的代价之下重新追溯自己的前提时，可能把英雄重新归类为恶人；两面对调了，为它们计分的那个二元却留在原处，未被审视。
+每一个所在都比自己的动作晚一步登记它；这一步的间隔，是任何登记的运作方式。冻结叠在这个间隔之上：一幅必需之善的偏好自我图像，被豁免于重新追溯，并被抬到其他中心之上，于是在二元之下被计分的后果，被登记为外部威胁的证实。不需要任何独立的恶之实体。每一个中心所保留的图像，写下那对照的一极，再把所遇见的另一中心动作的残余当作证实。后来，其他的中心，或者同一个中心在累积的代价之下重新追溯自己的前提时，可能把英雄重新归类为恶人；两面对调了，为它们计分的那个二元却留在原处，未被审视。
 
 Each locus registers its own act one step behind it; that interval is how any registration works. The freeze is laid over this interval: a preferred self-image of necessary good is exempted from re-tracing and elevated over other centers, so that consequences scored under the dual register as confirmation of an external threat. No independent evil-substance is required. Each center's preserved image authors the contrasting pole, then meets the residue of another center's acts as confirmation. Later, other centers, or the same center re-tracing its premises under accumulated costs, may reclassify the hero as villain; the faces swap while the dual that scores them stays in place, unexamined.
 
@@ -46,7 +46,7 @@ Each locus registers its own act one step behind it; that interval is how any re
 
 This is not to say that differences in harm, intention, or consequence are illusory, nor that any action can be redescribed into its opposite at will: the opposite face registered at the overridden center is that center's own registration, not a redescription available from anywhere. Such assertions would install another fixed reference and repeat the same partitioning at a higher level. The differences hold *within* the perception that has already performed the cut. What there is to examine is the origin of the polarity itself. A center does not first encounter good and evil as given apart from its own cut and then choose sides; its own cut draws the heading under which those differences register.
 
-冲突仍是冲突。其他中心的动作仍留在生成它们的中心。冻结所制造之物，透过滞后的图像来看，并不是其他中心之动作的存在，而是那个二元的捆绑：把那些动作总体化为恶，把自我总体化为必须回应它们的必需之善；这份捆绑把恶的一极，这片场里的一幅图像，当成了另一个中心。[没有普渡，只有自渡的无限可能](../mei-you-pu-du-zhi-you-zi-du/)在这类错误转为善意之处命名了它：普度众生把内心里的“他人”当成了他人的内心；两者都在原处，图像在这片场里，他人的内心在它自己的所在，而因为没有哪个内心能完成另一个内心的返回，这个错是一个范畴错误，不是一个尚未完成的理想。
+冲突仍是冲突。其他中心的动作仍留在生成它们的中心。冻结所制造之物，透过滞后的图像来看，并不是其他中心之动作的存在，而是那个二元的捆绑：把那些动作总体化为恶，把自我总体化为必须回应它们的必需之善；这份捆绑把恶的一极——这片场里的一幅图像——当成了另一个中心。[没有普渡，只有自渡的无限可能](../mei-you-pu-du-zhi-you-zi-du/)在这类错误转为善意之处命名了它：普度众生把内心里的“他人”当成了他人的内心；两者都在原处，图像在这片场里，他人的内心在它自己的所在，而因为没有哪个内心能完成另一个内心的返回，这个错是一个范畴错误，不是一个尚未完成的理想。
 
 Conflict stays conflict. Acts of other centers stay at their generating centers. What the freeze manufactures, seen through the lagged image, is not the existence of other centers' acts, but the dualistic binding that totalizes them as evil and the self as the necessary good that must answer them; the binding takes the evil pole, an image in this field, for another center. [No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../mei-you-pu-du-zhi-you-zi-du/) names that kind of error where it turns benevolent: universal salvation takes the “other” within one's own interior for the other's interior; both stay in place, the image in this field and the other's interior at its own locus, and since no interior completes another's return, the error is a category error, not an unfinished ideal.
 
@@ -66,7 +66,6 @@ flowchart TD
         C_Two["同一枚硬币的两面：善与恶作为那一刀的残余一同生成"]
         C_Act --> C_Two
     end
-
     subgraph S_Freeze["实体化的善恶二元（下游投射被冻结为地基）"]
         direction TB
         F_Ex["身份绑定的豁免：自己为善的偏好图像被豁免于重新追溯"]
@@ -74,17 +73,14 @@ flowchart TD
         F_Rot["英雄与恶人的许可及轮换：被压过的中心将英雄的动作登记为恶"]
         F_Ex --> F_Sub --> F_Rot
     end
-
     subgraph S_Open["开放即一致（在那一步将切口保持开放）"]
         direction TB
         O_Rel["放下为善的主张：认领返回的摩擦以重新渲染参照"]
         O_Head["暂定的一步宽朝向：差异在切口之内成立而不闭合场域"]
         O_Rel --> O_Head
     end
-
     C_Two ==>|"遗忘切口，投射折叠被钳合"| F_Ex
     F_Rot ==>|"退回投射之外的边缘"| O_Rel
-
     style S_Cut fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -107,7 +103,6 @@ flowchart TD
         C_Two["Two Faces of One Coin: Good and evil generated together as residue of the cut"]
         C_Act --> C_Two
     end
-
     subgraph S_Freeze["Reified Moral Dualism (Downstream Projection Frozen as Ground)"]
         direction TB
         F_Ex["Identity-Bound Exemption: Preferred good-self image exempted from re-tracing"]
@@ -115,17 +110,14 @@ flowchart TD
         F_Rot["Hero-Villain License & Rotation: Overridden centers register the hero's act as evil"]
         F_Ex --> F_Sub --> F_Rot
     end
-
     subgraph S_Open["Openness as Consistency (The Cut Held Open at the Step)"]
         direction TB
         O_Rel["Release of the Good-Self Claim: Returning friction claimed to re-render the reference"]
         O_Head["Provisional One-Step Heading: Differences hold within the cut without closing the field"]
         O_Rel --> O_Head
     end
-
     C_Two ==>|"Cut forgotten; projection clamped shut"| F_Ex
     F_Rot ==>|"Stepping back beyond the projection"| O_Rel
-
     style S_Cut fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -140,7 +132,7 @@ flowchart TD
 
 ## 六、 硬币标记的是那一刀之后的东西 / 6. The Coin Marks What Follows the Cut
 
-所以，硬币不是一幅最终的图像，而是对那一刀之后的相互依存的一个暂定标记。尽语言所能地把这件事说清楚，就是同时承认这个标记的用处与它次一级的地位。两面还在；争斗继续；对把二元持为地基的人，那些辩护仍保有它们的力量。可以被指向、却从不在指向中被捕获的，是让两面得以可能的那个无声的运作。
+所以，硬币不是一幅最终的图像，而是对那一刀之后相互依存关系的暂定标记。尽语言所能地把这件事说清楚，就是同时承认这个标记的用处与它次一级的地位。两面还在；争斗继续；对把二元持为地基的人，那些辩护仍保有它们的力量。可以被指向、却从不在指向中被捕获的，是让两面得以可能的那个无声的运作。
 
 The coin, then, is not a final image but a provisional marker for the interdependence that follows the cut. To articulate the matter as clearly as language allows is to acknowledge both the use of the marker and its secondary status. The faces remain; the struggle continues; for those who hold the dual as ground, the justifications retain their force. What can be pointed to, without ever being captured in the pointing, is the silent operation that makes the faces possible at all.
 
