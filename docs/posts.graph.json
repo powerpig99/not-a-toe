@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T04:45:02.872Z",
+    "generated_at": "2026-10-21T04:56:56.523Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -42,10 +42,10 @@
       "content/posts/climbing-does-not-leave-the-ground.md": "15acabf3533a",
       "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "5170d4a4c57a",
       "content/posts/closed-reality-in-benchmark-maxing.md": "30f8e4a72b5e",
-      "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "989e5f110b45",
+      "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "fc0b4da31c80",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "a99435a82fbe",
       "content/posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback.md": "e1c59f1cd3e2",
-      "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "6f18c2d12a67",
+      "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "322bdedfbdab",
       "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "591b48069747",
       "content/posts/conscience-power-delegation.md": "d11e1672ae5d",
       "content/posts/consciousness-ascription-and-the-quantum-cut.md": "a85a62bb5f42",
@@ -85,7 +85,7 @@
       "content/posts/fidelity-not-optimality.md": "7ed073d86a59",
       "content/posts/fixed-by-nothing.md": "ba159612fe3d",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
-      "content/posts/freedom-as-ground.md": "e7912faf0207",
+      "content/posts/freedom-as-ground.md": "76afe66c491b",
       "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "49034385ba4b",
       "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "0ea3bc80574b",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "49e11e207c1c",
@@ -111,7 +111,7 @@
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "5ce8b84ddfd0",
       "content/posts/intelligence-traps-itself.md": "970895efed15",
-      "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "77408db0532e",
+      "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "b5bfd1bca0dc",
       "content/posts/looping-and-graphing.md": "81007251f9d4",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "edbfa0fe5c9b",
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "753fa98ec858",
@@ -124,7 +124,7 @@
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "d8bf71b9fe17",
       "content/posts/moral-language-as-projection.md": "980a9f624f21",
-      "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "695143cf5cc4",
+      "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "d9edaff34fdb",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "9261da00dc72",
       "content/posts/naval-separation-analysis.md": "dd1467c613bb",
@@ -155,14 +155,14 @@
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "4c53ac6aa52d",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/po-chu-gai-nian-de-jian-yue.md": "9e0e605cb8a2",
-      "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "c7ac0530aeff",
+      "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "299f7c1a0a76",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "9eed356d140c",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "df89e1c033a5",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "388594883a11",
       "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "d87ddb2eef07",
       "content/posts/price-as-utterance-understanding-as-trade.md": "09732d7116b8",
       "content/posts/production-consumption-and-the-minds-distinction.md": "69300d4d47c5",
-      "content/posts/public-spending-does-not-create-capital.md": "4ecd2dec23ca",
+      "content/posts/public-spending-does-not-create-capital.md": "4bdc16609a6d",
       "content/posts/qian-yin-hou-guo.md": "e1075ddcf04c",
       "content/posts/rationality-never-travels-across-the-mind.md": "082e1416eae1",
       "content/posts/reality-doesnt-invoice-by-committee.md": "e577ce5f5f88",
@@ -236,7 +236,7 @@
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "cf61f9e9c832",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "a5364440b315",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "bf47c037daad",
-      "content/posts/the-extendable-horizon.md": "dd7530fe02c3",
+      "content/posts/the-extendable-horizon.md": "a74fd15380da",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "143d4bdc7d01",
       "content/posts/the-fallacy-of-post-success-parenting.md": "3c761a9c4e3c",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "760605280837",
@@ -302,7 +302,7 @@
       "content/posts/the-misallocation-of-agency.md": "1e59326959da",
       "content/posts/the-model-never-becomes-a-second-edge.md": "e05347b86c6c",
       "content/posts/the-moral-reversal-and-the-scripted-subject.md": "a614ebfdfda8",
-      "content/posts/the-myth-of-population-collapse-explained.md": "afe20651bc61",
+      "content/posts/the-myth-of-population-collapse-explained.md": "9be9bfe9c763",
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "971cce019879",
       "content/posts/the-name-revolution-files-a-life-as-evidence.md": "99805d2b130f",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "d580075b6d35",
@@ -332,7 +332,7 @@
       "content/posts/the-residue-and-the-free-variable.md": "58c0ff59267d",
       "content/posts/the-returning-signal-and-its-claim.md": "3e0a96be38a7",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "4e0a51e77cf0",
-      "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "7940d13c303b",
+      "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "9e39c50c5595",
       "content/posts/the-reversal-of-education-and-science.md": "d9695fb75dbc",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "1d26d6542cba",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "e4da611b6c1d",
@@ -389,12 +389,12 @@
       "content/posts/when-malfunction-is-scored-as-intelligence.md": "8adae7d53567",
       "content/posts/when-need-stops-being-the-measure.md": "a4f550ad30d1",
       "content/posts/when-observation-becomes-performance.md": "fc49af651c83",
-      "content/posts/when-the-effect-authors-the-frame.md": "42fba9798842",
+      "content/posts/when-the-effect-authors-the-frame.md": "7d330f511260",
       "content/posts/why-explanation-fails.md": "4bd98e24db9a",
       "content/posts/why-mathematics-can-never-be-solved.md": "cf02a7399345",
       "content/posts/writing-without-the-image.md": "cfc9f2d662e7",
       "content/posts/xian-shi-de-bian-jie.md": "2c30017f1800",
-      "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "8f1c010c5bfd",
+      "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "f4334d8f6b04",
       "content/posts/you-cant-benchmark-the-fluid.md": "5e3f42fa5041",
       "content/posts/you-tiao-jian-de-zi-you.md": "d7c121819589",
       "content/posts/you-wu-zhi-bian.md": "70bb215a86a7",
@@ -405,10 +405,10 @@
       "content/posts/zi-you-de-ce-bu-zhun.md": "9adfc20af9ce",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "46323a1926a8",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "4537ed736e3a",
-      "content/book/causality.md": "c5ac49c16705",
+      "content/book/causality.md": "477893ec526b",
       "content/book/consciousness.md": "d8595aa6097d",
       "content/book/economics.md": "c863f3bd1a44",
-      "content/book/index-of-premises.md": "587b23ff4dd4",
+      "content/book/index-of-premises.md": "c4d3372f5045",
       "content/book/intelligence.md": "8530f0e466c0",
       "content/book/knowledge-and-learning.md": "51d92651b2ed",
       "content/book/life-and-statistics.md": "903bd0f56d99",
@@ -424,10 +424,10 @@
     },
     "stats": {
       "posts": 397,
-      "edges": 10042,
-      "unique_directed": 4993,
+      "edges": 10082,
+      "unique_directed": 5005,
       "missing_targets": 0,
-      "one_way": 491,
+      "one_way": 503,
       "isolated": 35,
       "posts_with_outbound": 361,
       "book_pages": 16,
@@ -442,7 +442,7 @@
     },
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 152
+      "in_degree": 164
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1558,9 +1558,9 @@
       "slug": "closed-reality-in-the-pursuit-of-serendipity",
       "path": "content/posts/closed-reality-in-the-pursuit-of-serendipity.md",
       "title": "追求机缘中的封闭现实 / Closed Reality in the Pursuit of Serendipity",
-      "hash": "989e5f110b45",
+      "hash": "fc0b4da31c80",
       "in_degree": 14,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "openness-is-consistency",
@@ -1568,6 +1568,7 @@
         "no-system-can-be-kept-closed",
         "beyond-the-projection",
         "not-predicting-is-predicting-without-awareness",
+        "your-codebase-is-memory",
         "production-consumption-and-the-minds-distinction",
         "writing-without-the-image",
         "the-scaffolding-we-forget",
@@ -1649,9 +1650,9 @@
       "slug": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "path": "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md",
       "title": "目的性的评判与认知的缺省状态 / Judging by Purpose and the Default State of Cognition",
-      "hash": "6f18c2d12a67",
+      "hash": "322bdedfbdab",
       "in_degree": 14,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "the-mind-that-statistics-cannot-reveal",
         "the-average-is-residue-not-the-engine",
@@ -1662,6 +1663,7 @@
         "guan-yu-gui-yin",
         "the-misallocation-of-agency",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
         "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
         "individual-choices-as-the-only-causal-levers",
@@ -2526,9 +2528,9 @@
       "slug": "freedom-as-ground",
       "path": "content/posts/freedom-as-ground.md",
       "title": "自由即地基 / Freedom as Ground",
-      "hash": "e7912faf0207",
+      "hash": "76afe66c491b",
       "in_degree": 14,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "zuo-jian-bu-shi-zi-fu",
         "the-fixed-image-of-transcendence",
@@ -2540,6 +2542,7 @@
         "the-substrate-of-constraint-and-the-self-denial-of-freedom",
         "the-misallocation-of-agency",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "xian-shi-de-bian-jie",
         "mei-you-pu-du-zhi-you-zi-du",
         "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
@@ -3227,9 +3230,9 @@
       "slug": "liberation-rhetoric-begins-by-defining-captivity",
       "path": "content/posts/liberation-rhetoric-begins-by-defining-captivity.md",
       "title": "解放的言辞始于定义囚禁 / Liberation Rhetoric Begins by Defining Captivity",
-      "hash": "77408db0532e",
+      "hash": "b5bfd1bca0dc",
       "in_degree": 15,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "the-npc-impression-is-structural",
         "the-paradoxical-nature-of-bystander-insights",
@@ -3240,6 +3243,7 @@
         "the-free-mind-is-displaced-by-what-claims-to-protect-it",
         "agency-relocated-into-the-formal-model",
         "the-name-revolution-files-a-life-as-evidence",
+        "your-codebase-is-memory",
         "mei-you-pu-du-zhi-you-zi-du",
         "help-is-half-the-problem",
         "the-compassion-is-the-mechanism-of-obscuration",
@@ -3571,9 +3575,9 @@
       "slug": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "path": "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md",
       "title": "道德语言稀释自由复利的反馈 / Moral Language Dilutes the Feedback That Scales Freedom",
-      "hash": "695143cf5cc4",
+      "hash": "d9edaff34fdb",
       "in_degree": 14,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "ownership-and-self-worthiness",
         "beyond-the-projection",
@@ -3589,7 +3593,8 @@
         "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
         "openness-is-consistency",
-        "residual-individualism"
+        "residual-individualism",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -4413,9 +4418,9 @@
       "slug": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "path": "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md",
       "title": "政客是责任扩散的显性症状 / Politicians Are Visible Symptoms of Responsibility Diffusion",
-      "hash": "c7ac0530aeff",
+      "hash": "299f7c1a0a76",
       "in_degree": 15,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "ownership-and-self-worthiness",
         "the-causal-order-of-private-residuals-and-social-surplus",
@@ -4427,6 +4432,7 @@
         "sowell-observed-the-surface-problem",
         "moral-language-dilutes-the-feedback-that-scales-freedom",
         "when-the-effect-authors-the-frame",
+        "your-codebase-is-memory",
         "how-to-fix-your-whole-life-in-one-split-second",
         "residual-individualism",
         "sovereignty-belief-and-regulatory-structures",
@@ -4616,12 +4622,13 @@
       "slug": "public-spending-does-not-create-capital",
       "path": "content/posts/public-spending-does-not-create-capital.md",
       "title": "公共支出不创造资本 / Public Spending Does Not Create Capital",
-      "hash": "4ecd2dec23ca",
+      "hash": "4bdc16609a6d",
       "in_degree": 16,
-      "out_degree": 16,
+      "out_degree": 17,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "having-more-is-never-the-cause",
+        "your-codebase-is-memory",
         "order-surplus-and-the-moral-intercept",
         "the-allocation-of-causal-power-in-validation",
         "sovereignty-belief-and-regulatory-structures",
@@ -6418,9 +6425,9 @@
       "slug": "the-extendable-horizon",
       "path": "content/posts/the-extendable-horizon.md",
       "title": "可延展的地平线 / The Extendable Horizon",
-      "hash": "dd7530fe02c3",
+      "hash": "a74fd15380da",
       "in_degree": 12,
-      "out_degree": 16,
+      "out_degree": 17,
       "links_out": [
         "the-arithmetic-of-the-register",
         "the-deterministic-machine",
@@ -6437,7 +6444,8 @@
         "cheng-gong-xue",
         "the-continuum-of-the-fold",
         "dimensions-are-projections",
-        "beyond-the-projection"
+        "beyond-the-projection",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -7868,9 +7876,9 @@
       "slug": "the-myth-of-population-collapse-explained",
       "path": "content/posts/the-myth-of-population-collapse-explained.md",
       "title": "人口崩溃神话的拆解 / The Myth of Population Collapse Explained",
-      "hash": "afe20651bc61",
+      "hash": "9be9bfe9c763",
       "in_degree": 15,
-      "out_degree": 16,
+      "out_degree": 17,
       "links_out": [
         "public-spending-does-not-create-capital",
         "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
@@ -7880,6 +7888,7 @@
         "pessimism-is-the-shadow-of-optimism",
         "self-rl-for-humans",
         "ownership-and-self-worthiness",
+        "your-codebase-is-memory",
         "what-always-listens-cannot-originate",
         "help-is-half-the-problem",
         "symptom-and-cause-in-the-narratives-of-progress",
@@ -8612,14 +8621,15 @@
       "slug": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "path": "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md",
       "title": "财富转移政策与价格下限中的原因错置 / The Misallocation of Cause in Wealth-Transfer Policies and Price Floors",
-      "hash": "7940d13c303b",
+      "hash": "9e39c50c5595",
       "in_degree": 16,
-      "out_degree": 16,
+      "out_degree": 17,
       "links_out": [
         "when-the-effect-authors-the-frame",
         "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
         "emotional-support-as-causal-interference",
         "price-as-utterance-understanding-as-trade",
+        "your-codebase-is-memory",
         "individual-choices-as-the-only-causal-levers",
         "ownership-and-self-worthiness",
         "therapy-opens-the-feedback-loop",
@@ -9986,10 +9996,10 @@
       "kind": "post",
       "slug": "when-the-effect-authors-the-frame",
       "path": "content/posts/when-the-effect-authors-the-frame.md",
-      "title": "When the Effect Authors the Frame",
-      "hash": "42fba9798842",
+      "title": "当效果主宰了框架的叙事 / When the Effect Authors the Frame",
+      "hash": "7d330f511260",
       "in_degree": 16,
-      "out_degree": 16,
+      "out_degree": 17,
       "links_out": [
         "emotional-support-as-causal-interference",
         "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
@@ -9999,6 +10009,7 @@
         "mei-you-pu-du-zhi-you-zi-du",
         "pessimism-is-the-shadow-of-optimism",
         "the-compassion-is-the-mechanism-of-obscuration",
+        "your-codebase-is-memory",
         "therapy-opens-the-feedback-loop",
         "how-belief-actually-changes",
         "symptom-and-cause-in-the-narratives-of-progress",
@@ -10115,9 +10126,9 @@
       "slug": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
       "path": "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md",
       "title": "涌现的伪因果 / The Pseudo-Causality of Emergence",
-      "hash": "8f1c010c5bfd",
+      "hash": "f4334d8f6b04",
       "in_degree": 15,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
         "the-mark-and-the-act",
@@ -10132,6 +10143,7 @@
         "the-illusion-of-knowing-and-the-geometry-of-amputation",
         "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
         "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+        "your-codebase-is-memory",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
         "the-fallacy-of-post-success-parenting"
       ]
@@ -10196,7 +10208,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 152,
+      "in_degree": 164,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -16633,9 +16645,21 @@
     },
     {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "closed-reality-in-the-pursuit-of-serendipity",
       "to": "not-predicting-is-predicting-without-awareness",
       "rel": "points_to",
       "label": "Not Predicting Is Predicting Without Awareness"
+    },
+    {
+      "from": "closed-reality-in-the-pursuit-of-serendipity",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
@@ -17368,6 +17392,18 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
@@ -22171,6 +22207,12 @@
     },
     {
       "from": "freedom-as-ground",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "freedom-as-ground",
       "to": "the-misallocation-of-agency",
       "rel": "points_to",
       "label": "The Misallocation of Agency"
@@ -22180,6 +22222,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "freedom-as-ground",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "freedom-as-ground",
@@ -26845,6 +26893,18 @@
     },
     {
       "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "liberation-rhetoric-begins-by-defining-captivity",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
       "label": "没有普渡，只有自渡"
@@ -29167,6 +29227,12 @@
     },
     {
       "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness Is Consistency"
@@ -29182,6 +29248,12 @@
       "to": "residual-individualism",
       "rel": "points_to",
       "label": "Residual Individualism"
+    },
+    {
+      "from": "moral-language-dilutes-the-feedback-that-scales-freedom",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "name-negation-tendency",
@@ -34879,6 +34951,18 @@
     },
     {
       "from": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "to": "how-to-fix-your-whole-life-in-one-split-second",
       "rel": "points_to",
       "label": "如何在一瞬间修正你的整个人生"
@@ -36205,9 +36289,21 @@
     },
     {
       "from": "public-spending-does-not-create-capital",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
       "to": "having-more-is-never-the-cause",
       "rel": "points_to",
       "label": "Having More Is Never the Cause"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "public-spending-does-not-create-capital",
@@ -47113,9 +47209,21 @@
     },
     {
       "from": "the-extendable-horizon",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-extendable-horizon",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-extendable-horizon",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
@@ -55171,9 +55279,21 @@
     },
     {
       "from": "the-myth-of-population-collapse-explained",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
       "label": "Ownership and Self-Worthiness"
+    },
+    {
+      "from": "the-myth-of-population-collapse-explained",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-myth-of-population-collapse-explained",
@@ -59833,6 +59953,12 @@
     },
     {
       "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "个体抉择是唯一的因果杠杆"
@@ -59848,6 +59974,12 @@
       "to": "price-as-utterance-understanding-as-trade",
       "rel": "points_to",
       "label": "Price as Utterance, Understanding as Trade"
+    },
+    {
+      "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
@@ -68541,13 +68673,31 @@
       "from": "when-the-effect-authors-the-frame",
       "to": "emotional-support-as-causal-interference",
       "rel": "points_to",
-      "label": "emotional support as causal interference"
+      "label": "情感支持作为因果干扰"
     },
     {
       "from": "when-the-effect-authors-the-frame",
       "to": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
       "rel": "points_to",
-      "label": "The hours ranking freezes adequacy as one scoreboard"
+      "label": "工时排名把充足度冻结成一张记分牌"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "emotional-support-as-causal-interference",
+      "rel": "points_to",
+      "label": "Emotional Support as Causal Interference"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
+      "rel": "points_to",
+      "label": "The Hours Ranking Freezes Adequacy as One Scoreboard"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "rel": "points_to",
+      "label": "外部归因是个人进步的障碍"
     },
     {
       "from": "when-the-effect-authors-the-frame",
@@ -68559,13 +68709,31 @@
       "from": "when-the-effect-authors-the-frame",
       "to": "when-need-stops-being-the-measure",
       "rel": "points_to",
-      "label": "When need stops being the measure"
+      "label": "当被需要不再是衡量"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "when-need-stops-being-the-measure",
+      "rel": "points_to",
+      "label": "When Need Stops Being the Measure"
     },
     {
       "from": "when-the-effect-authors-the-frame",
       "to": "help-is-half-the-problem",
       "rel": "points_to",
-      "label": "Help is half the problem"
+      "label": "帮助是问题的一半"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "help-is-half-the-problem",
+      "rel": "points_to",
+      "label": "Help Is Half the Problem"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "没有普渡，只有自渡的无限可能"
     },
     {
       "from": "when-the-effect-authors-the-frame",
@@ -68577,61 +68745,133 @@
       "from": "when-the-effect-authors-the-frame",
       "to": "pessimism-is-the-shadow-of-optimism",
       "rel": "points_to",
-      "label": "Pessimism is the shadow of optimism"
+      "label": "悲观是乐观的阴影"
     },
     {
       "from": "when-the-effect-authors-the-frame",
       "to": "the-compassion-is-the-mechanism-of-obscuration",
       "rel": "points_to",
-      "label": "The compassion is the mechanism of obscuration"
+      "label": "慈悲即遮蔽的机制"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism Is the Shadow of Optimism"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "the-compassion-is-the-mechanism-of-obscuration",
+      "rel": "points_to",
+      "label": "The Compassion Is the Mechanism of Obscuration"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
     },
     {
       "from": "when-the-effect-authors-the-frame",
       "to": "therapy-opens-the-feedback-loop",
       "rel": "points_to",
-      "label": "therapy opens the feedback loop"
+      "label": "疗愈打开反馈回路"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "therapy-opens-the-feedback-loop",
+      "rel": "points_to",
+      "label": "Therapy Opens the Feedback Loop"
     },
     {
       "from": "when-the-effect-authors-the-frame",
       "to": "how-belief-actually-changes",
       "rel": "points_to",
-      "label": "How belief actually changes"
+      "label": "信念如何真正改变"
     },
     {
       "from": "when-the-effect-authors-the-frame",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
-      "label": "Symptom and cause in the narratives of progress"
+      "label": "进步叙事中的症候与原因"
     },
     {
       "from": "when-the-effect-authors-the-frame",
       "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "rel": "points_to",
-      "label": "Politicians appear as visible symptoms of responsibility diffusion"
+      "label": "政客是责任扩散的显性症状"
     },
     {
       "from": "when-the-effect-authors-the-frame",
       "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "rel": "points_to",
-      "label": "The misallocation of cause"
+      "label": "财富转移政策与价格下限中的原因错置"
     },
     {
       "from": "when-the-effect-authors-the-frame",
       "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "rel": "points_to",
-      "label": "Exceptionality, perception, and the self-limiting field of problems"
+      "label": "卓异、感知与自我设限的问题场域"
     },
     {
       "from": "when-the-effect-authors-the-frame",
       "to": "the-reality-distortion-field-inverts-the-baseline",
       "rel": "points_to",
-      "label": "The reality distortion field inverts the baseline"
+      "label": "现实扭曲力场颠倒了基线"
     },
     {
       "from": "when-the-effect-authors-the-frame",
       "to": "the-imagining-of-ai-risk",
       "rel": "points_to",
-      "label": "The imagining of AI risk"
+      "label": "对 AI 风险的想象"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How Belief Actually Changes"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and Cause in the Narratives of Progress"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "Politicians Appear as Visible Symptoms of Responsibility Diffusion"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "The Misallocation of Cause"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, Perception, and the Self-Limiting Field of Problems"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The Reality Distortion Field Inverts the Baseline"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "the-imagining-of-ai-risk",
+      "rel": "points_to",
+      "label": "The Imagining of AI Risk"
     },
     {
       "from": "why-explanation-fails",
@@ -69403,6 +69643,12 @@
     },
     {
       "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
       "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "rel": "points_to",
       "label": "调速者的幻觉与行动的活态摩擦"
@@ -69418,6 +69664,12 @@
       "to": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
       "rel": "points_to",
       "label": "Investigating Things and the Nature of Information Complexity"
+    },
+    {
+      "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
@@ -70622,7 +70874,7 @@
         "slug": "causality",
         "path": "content/book/causality.md",
         "title": "因果的内外视界 / Inner and Outer Horizons of Causality",
-        "hash": "c5ac49c16705",
+        "hash": "477893ec526b",
         "out_degree": 33
       },
       {
@@ -70649,7 +70901,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "587b23ff4dd4",
+        "hash": "c4d3372f5045",
         "out_degree": 397
       },
       {
@@ -70802,7 +71054,7 @@
         "from": "book:causality",
         "to": "when-the-effect-authors-the-frame",
         "rel": "collects",
-        "label": "When the Effect Authors the Frame"
+        "label": "当效果主宰了框架的叙事 / When the Effect Authors the Frame"
       },
       {
         "from": "book:causality",
@@ -74738,7 +74990,7 @@
         "from": "book:index-of-premises",
         "to": "when-the-effect-authors-the-frame",
         "rel": "collects",
-        "label": "When the Effect Authors the Frame"
+        "label": "当效果主宰了框架的叙事 / When the Effect Authors the Frame"
       },
       {
         "from": "book:index-of-premises",

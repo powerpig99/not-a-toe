@@ -4166,7 +4166,7 @@ Treating responsibility as an ethical demand added to action is of use in recall
 
 Empirical observation assumes minds gather evidence before forming conclusions; adopting an emotionally charged outcome reorganizes perception to interpret all incoming data as proof.
 
-→ [When the Effect Authors the Frame](../../posts/when-the-effect-authors-the-frame/)
+→ [当效果主宰了框架的叙事 / When the Effect Authors the Frame](../../posts/when-the-effect-authors-the-frame/)
 
 ### 事后战略天才神话 / Retrospective Strategic Mastermind
 `经济 / Economic`

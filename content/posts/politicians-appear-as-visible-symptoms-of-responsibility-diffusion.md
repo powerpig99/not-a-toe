@@ -14,6 +14,8 @@ Ownership is residual control: the capacity to direct resources toward ends one 
 
 桑德斯写道（中译）：
 
+Sanders writes:
+
 > 我对不到一千名亿万富翁征收的 5% 财富税，可筹得超过 4.4 万亿美元，用来：
 >
 > 给一个四口之家的劳动家庭 12,000 美元  
@@ -23,8 +25,6 @@ Ownership is residual control: the capacity to direct resources toward ends one 
 > 规定教师最低年薪 60,000 美元
 >
 > 让我们把它办成。
-
-Sanders writes:
 
 > My 5% wealth tax on less than 1,000 billionaires would raise over 4.4 trillion dollars to:
 >
@@ -74,9 +74,9 @@ The consequence is already full. Attribution does not subtract from it. What thi
 
 Perceived undesirability is registration against a preferred Image. The perceived sharing of that perception is further registration: resonance treated as warrant. Together they arrive as license to cast blame onto other individuals or onto things held outside one’s own choices. The license presents itself as ordinary. [When the Effect Authors the Frame](../when-the-effect-authors-the-frame/) is that topology when the felt register is granted causal priority, and available responses reorganize around managing it. Here the managed register is undesirability, and the sharedness of the feeling is taken as the measure that authorizes the next act.
 
-这时回望过来的，政客、系统、某样东西，是这份外置本身的影子成了形。能动性被放到了做决定的心智之外；这次分配稠密成认领者与模式；它们如今又作为残余的表面作者回来，而那份残余正是这次分配早已产生的。那个“别处”，是目光自己的残余，到来时有多陌生，鸿沟就有多宽。
+这时回望过来的，政客、系统、某样东西，是这份外置本身的影子成了形。能动性被放到了做决定的心智之外；这次分配稠密成认领者与模式；它们如今又作为残余的表面作者回来，而那份残余正是这次分配早已产生的。正如[你的代码库即是记忆](../your-codebase-is-memory/)在层叠造物间所追溯的那样，公共纲领、竞选口号与法令档案是由稳定痕迹外置而成的代码库：它们留存着先前切分的形状，把个体心智扩散出去的分配映照回来，自身并不发起因果能动性。那个“别处”，是目光自己的残余，到来时有多陌生，鸿沟就有多宽。
 
-What then stares back, the politician, the system, the thing, is the shadow of the externalization itself, materialized. Agency was located outside the deciding Mind; that allocation densified into claimants and patterns; those now return as the apparent authors of the residue that the allocation already produced. The elsewhere is the look’s own residue, arriving as alien as the gap is wide.
+What then stares back, the politician, the system, the thing, is the shadow of the externalization itself, materialized. Agency was located outside the deciding Mind; that allocation densified into claimants and patterns; those now return as the apparent authors of the residue that the allocation already produced. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces across stacked artifacts, public platforms, campaign slogans, and statutory archives form an externalized codebase of stabilized traces that holds the shape of prior cuts and mirrors back the diffused allocations of individual minds rather than originating causal agency on its own. The elsewhere is the look’s own residue, arriving as alien as the gap is wide.
 
 每一次进一步的推诿，都是进一步的分配。这个动作的残余，又作为下一份许可回来。循环就是这种自我更新，而不是第二台引擎。
 

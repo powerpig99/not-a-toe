@@ -140,9 +140,9 @@ The judgments and attitudes presented by others register as environmental parame
 
 Across the evolution and interplay of any system, the sole dynamic independent variable is the individual center's choice at the living edge.
 
-没有任何外部原因、环境刺激或统计均值能代中心切下这一刀。外部归因在群体层面上之所以显得如此普遍，反映的只是低阻力的习惯在事后从外部汇总时，更容易在样本上累积成均值的统计表象。
+没有任何外部原因、环境刺激或统计均值能代中心切下这一刀。外部归因在群体层面上之所以显得如此普遍，反映的只是低阻力的习惯在事后从外部汇总时，更容易在样本上累积成均值的统计表象。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，认知的缺省状态如同未经修剪的外化记忆代码库，靠既往区分留下的缓存检查点运转，在累积残余不断加厚的引力井内自圆其说，直到活的心智登记到摩擦并启动睡眠整合式的重溯，重新切开当下的边界。
 
-No external cause, environmental stimulus, or statistical mean can make that cut on the center's behalf. That external attribution appears so prevalent at the population level reflects only how low-resistance habits, when tallied from the outside after the fact, accumulate into the statistical appearance of a mean.
+No external cause, environmental stimulus, or statistical mean can make that cut on the center's behalf. That external attribution appears so prevalent at the population level reflects only how low-resistance habits, when tallied from the outside after the fact, accumulate into the statistical appearance of a mean. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces, the default state of cognition—like an unpruned codebase of externalized memory—runs on cached checkpoints of prior distinctions, rationalizing inside the thickened gravity well of accumulated residue until the living Mind registers friction and initiates a sleep-consolidation re-trace to re-cut the present boundary.
 
 然而均值附近的密集聚拢，从不曾强迫任何中心困守其中。
 

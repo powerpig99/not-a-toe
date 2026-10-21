@@ -18,7 +18,7 @@ The essays here dissect reductionist denials of free will, showing how microscop
 - [验证中因果权能的分配 / The Allocation of Causal Power in Validation](../../posts/the-allocation-of-causal-power-in-validation/)
 - [因果停留在掌舵的边缘 / Causality Stays at the Edge That Steers](../../posts/causality-stays-at-the-edge-that-steers/)
 - [因果贯穿始终 / Causality All the Way](../../posts/causality-all-the-way/)
-- [When the Effect Authors the Frame](../../posts/when-the-effect-authors-the-frame/)
+- [当效果主宰了框架的叙事 / When the Effect Authors the Frame](../../posts/when-the-effect-authors-the-frame/)
 - [个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers](../../posts/individual-choices-as-the-only-causal-levers/)
 - [前因，后果 / Cause Before, Effect After](../../posts/qian-yin-hou-guo/)
 - [因果与不可化约的先在 / Causality and the Irreducible Prior](../../posts/causality-and-the-irreducible-prior/)
