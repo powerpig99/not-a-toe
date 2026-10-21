@@ -24,7 +24,7 @@ History makes the failure of this premise concrete. Von Neumann's formal argumen
 
 ## 三、 行为经济学为先验加上条件 / 3. Behavioral Economics Conditions the Prior
 
-行为经济学与这个理论先验处在一种特定的关系里。它把标准的理性选择装置当作组织结构，在其上做一连串贝叶斯更新。观察到的偏离——损失厌恶、概率加权、现时偏差、公平约束——被吸收为修正后的参数或附加的项。先验从未被挑战，它只是被加上条件，好让后验模型在描述上更贴合。结果是一套精炼过的演算，仍然留在原来的优化框架之内。这种调整改善了局部的可解释性，对预测力的改善有限。那套被当作可移植的演算，仍被当作对能动的描述。智能体社会之间传递的是印迹，不是理性，正如[印迹与行动](../the-mark-and-the-act/)所示。
+行为经济学与这个理论先验处在一种特定的关系里。它把标准的理性选择装置当作组织结构，在其上做一连串贝叶斯更新。观察到的偏离——损失厌恶、概率加权、现时偏差、公平约束——被吸收为修正后的参数或附加的项。先验从未被挑战，它只是被加上条件，好让后验模型在描述上更贴合。结果是一套精炼过的演算，仍然留在原来的优化框架之内。这种调整改善了局部的可解释性，对预测力的改善有限。那套被当作可移植的演算，仍被当作对能动的描述。智能体社会之间传递的是印迹，不是理性，正如[印迹与行动](../the-mark-and-the-act/)与[你的代码库即是记忆](../your-codebase-is-memory/)所示：共享的代码库或协议传递的只是外化的痕迹，而重新追溯与决断的鲜活行动，则不可化约地留在每个心智内部。
 
 ```mermaid
 flowchart TD
@@ -49,7 +49,7 @@ flowchart TD
     style P3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-Behavioral economics stands in a particular relationship to this theoretical prior. It treats the standard rational-choice apparatus as the organizing structure and performs a sequence of Bayesian updates upon it. Observed departures—loss aversion, probability weighting, present bias and fairness constraints—are absorbed as revised parameters or additional terms. The prior is never challenged; it is conditioned so that the posterior model yields improved descriptive fit. The result is a refined calculus that remains inside the original optimization framework. The adjustment improves local explainability with limited improvement in predictive power. The portable calculus remains the description of agency. Agent societies pass marks between them, not rationality, as [The Mark and the Act](../the-mark-and-the-act/) shows.
+Behavioral economics stands in a particular relationship to this theoretical prior. It treats the standard rational-choice apparatus as the organizing structure and performs a sequence of Bayesian updates upon it. Observed departures—loss aversion, probability weighting, present bias and fairness constraints—are absorbed as revised parameters or additional terms. The prior is never challenged; it is conditioned so that the posterior model yields improved descriptive fit. The result is a refined calculus that remains inside the original optimization framework. The adjustment improves local explainability with limited improvement in predictive power. The portable calculus remains the description of agency. Yet across any exchange of agents, what moves between loci is marks rather than rationality, as [The Mark and the Act](../the-mark-and-the-act/) and [Your Codebase Is Memory](../your-codebase-is-memory/) trace: a shared repository or protocol transmits externalized traces, while the live act of re-tracing and deciding stays irreducibly at the steering edge inside each mind.
 
 ```mermaid
 flowchart TD

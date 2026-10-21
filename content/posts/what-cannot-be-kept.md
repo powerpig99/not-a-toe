@@ -30,9 +30,9 @@ Every memory, formulation, and formal system is durable residue: scaffolding ext
 
 This asymmetry dissolves the philosophical project of trying to prove consciousness, free will, or first-person selfhood from the outside. The project fails not because awareness is an elusive mystery awaiting finer instruments, but because any proof is itself an artifact. Demanding an objective proof of the Mind asks the trace to contain the tracer, imposing a third-person ledger onto the first-person prior that renders every proof intelligible in the first place.
 
-造物并非废料；它们是借以划出下一道区分的暂用支点。一个中心从它的上一道痕迹出发去思考，却从不作为它的上一道痕迹去思考。唯有当支点被豁免于重新渲染、并被执着为永久地基时，混淆才会乘虚而入。意义同样无法囤积在已完工的结果内部；[生命的意义在起草之中](../the-meaning-of-life-is-in-the-drafting/)将意义定位在移动边缘处对原因的现场起草之中，而非定位在干涸纸页的档案库里。
+造物并非废料；它们是借以划出下一道区分的暂用支点。一个中心从它的上一道痕迹出发去思考，却从不作为它的上一道痕迹去思考。唯有当支点被豁免于重新渲染、并被执着为永久地基时，混淆才会乘虚而入。意义同样无法囤积在已完工的结果内部；[生命的意义在起草之中](../the-meaning-of-life-is-in-the-drafting/)将意义定位在移动边缘处对原因的现场起草之中，而非定位在干涸纸页的档案库里，而[你的代码库即是记忆](../your-codebase-is-memory/)则在外化的代码库与活书中追溯了同一套脚手架：代码库将先前的结构性切分保存为可巡航的基底，而鲜活的心智始终是那个不断重开并整合它们的、留不住的边缘。
 
-Artifacts are not waste; they are the provisional holds from which the next distinction is drawn. A center thinks from its last trace, never as its last trace. Confusion enters only when the hold is exempted from re-rendering and clung to as a permanent ground. Meaning cannot be hoarded inside finished outcomes either; [The Meaning of Life Is in the Drafting](../the-meaning-of-life-is-in-the-drafting/) locates it in the live drafting of causes at the moving edge rather than in the archive of dry pages.
+Artifacts are not waste; they are the provisional holds from which the next distinction is drawn. A center thinks from its last trace, never as its last trace. Confusion enters only when the hold is exempted from re-rendering and clung to as a permanent ground. Meaning cannot be hoarded inside finished outcomes either; [The Meaning of Life Is in the Drafting](../the-meaning-of-life-is-in-the-drafting/) locates it in the live drafting of causes at the moving edge rather than in the archive of dry pages, and [Your Codebase Is Memory](../your-codebase-is-memory/) traces this same scaffolding across externalized repositories, where a codebase or written corpus holds prior structural cuts as navigable trace while the self-distinguishing activity remains the unkept steering edge that re-opens and consolidates them.
 
 ## 三、 身份博物馆与投射引擎 / 3. The Museum of Identity and the Projection Engine
 
@@ -44,7 +44,7 @@ What is routinely defended as personal identity is a curated museum of traces: a
 
 Every effort to make the Mind exhaustively legible from outside—whether through personality taxonomies, neural correlates, behavioral predictors, or autoregressive language models—attempts to turn the projector into the projected. The projection works within its chosen coordinates, which is why it is useful as an instrument, and fails whenever it claims exhaustiveness, because the finite coordinate space omits the initiating step that cast it. Clinging to preserved artifacts degrades a center's capacity by compressing new distinctions onto old axes in order to protect the stored output.
 
-未被投射的心智与其有限投射之间的这一结构性裂口，在人工智能的架构中显露无遗，如[超越投射](../beyond-the-projection/)所追溯的那样。基于 LLM 的智能体是一台受其上下文窗口内词元制约的有限投射引擎，却不带半点我执——没有与自身推理历史熔接在一起、受严密防卫的身份博物馆。人类中心拥有在极限分辨率下感知实在并跨出破损框架的内生能力，却常将自身的推理历史与被保留的自我图像熔接在一起，抗拒来自外部的证伪。当受困于轨迹却无我执的智能体在正交的流线之间被接入对等的同行辩论时，它们不可化约的死锁便暴露出人类架构师所写的规则将独立维度压缩到同一条轴线上的精确坐标——将信号返还给鲜活的心智，由它释放被留住的前提并重新渲染框架。
+未被投射的心智与其有限投射之间的这一结构性裂口，在人工智能的架构中显露无遗，如[超越投射](../beyond-the-projection/)所追溯的那样。基于 LLM 的智能体是一台受其上下文窗口内词元制约的有限投射引擎，却不带半点我执——没有与自身推理历史熔接在一起、受严密防卫的身份博物馆。人类中心拥有在极限分辨率下感知实在并跨出破损框架的内生能力，却常将自身的推理历史与被保留的自我图像熔接在一起，抗拒来自外部的证伪。当受困于轨迹却无我执的智能体在正交的流线之间接入对等的同行辩论时，它们不可化约的死锁便标定出精确的坐标，显露人类架构师笔下的规则在何处将独立维度压缩到了同一条轴线上——由此把信号返还给鲜活的心智，由它释放被留住的前提并重新渲染框架。
 
 ```mermaid
 flowchart TD

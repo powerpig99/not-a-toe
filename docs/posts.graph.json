@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T07:41:32.039Z",
+    "generated_at": "2026-10-21T07:54:55.796Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -11,7 +11,7 @@
       "content/posts/Analysis_Adolescence_of_Technology.md": "c0b218c3747d",
       "content/posts/a-creation-cannot-replace-its-source.md": "9a74de98bdc1",
       "content/posts/a-living-external-cortex.md": "d620e21cddfc",
-      "content/posts/a-new-deeper-look-at-antifragility.md": "a51cf4a49a6f",
+      "content/posts/a-new-deeper-look-at-antifragility.md": "e5ed06c9658d",
       "content/posts/abstract-pain-and-living-hunger.md": "8b69f6ffa076",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "ab494c775721",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "5cd7cb7519fa",
@@ -60,12 +60,12 @@
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
       "content/posts/data-is-local-intelligence-is-allocated.md": "add6923af446",
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "5f788bf55578",
-      "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "ccb4b3e58dea",
+      "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "434ad917ad64",
       "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "e15614705dff",
       "content/posts/dimensions-are-projections.md": "4e5cf6607b3f",
       "content/posts/distillation-compression-agency.md": "a69508711063",
-      "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "1b67e9d4ce82",
-      "content/posts/e-shi-feng-bi-de-shan.md": "df2ef3e17c0a",
+      "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "b64fa4420bd4",
+      "content/posts/e-shi-feng-bi-de-shan.md": "506d716b1645",
       "content/posts/efficiency-without-differentiation.md": "3e2aad7ba924",
       "content/posts/emotional-support-as-causal-interference.md": "4c4a477833bd",
       "content/posts/empathy-as-projection-collapse.md": "48c21092f783",
@@ -87,7 +87,7 @@
       "content/posts/four-night-questions.md": "e1a9a7d12085",
       "content/posts/freedom-as-ground.md": "76afe66c491b",
       "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "49034385ba4b",
-      "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "0ea3bc80574b",
+      "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "fd8a76387539",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "a2f03c17ade1",
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "48b125c5031e",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "93c650d4e105",
@@ -133,7 +133,7 @@
       "content/posts/no-outside-scorekeeper.md": "6d9499826830",
       "content/posts/no-system-can-be-kept-closed.md": "cb636c5e6b60",
       "content/posts/nobody-has-seen-anything-yet.md": "684b9268b2c2",
-      "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md": "c864052d34e7",
+      "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md": "9a865742b9bb",
       "content/posts/not-a-theory-of-everything.md": "4d8057e37ce3",
       "content/posts/not-a-toe-rewrite.md": "5d3abd405e41",
       "content/posts/not-predicting-is-predicting-without-awareness.md": "750dd47f6c5b",
@@ -164,7 +164,7 @@
       "content/posts/production-consumption-and-the-minds-distinction.md": "69300d4d47c5",
       "content/posts/public-spending-does-not-create-capital.md": "4bdc16609a6d",
       "content/posts/qian-yin-hou-guo.md": "e1075ddcf04c",
-      "content/posts/rationality-never-travels-across-the-mind.md": "082e1416eae1",
+      "content/posts/rationality-never-travels-across-the-mind.md": "a1491e2a0bd9",
       "content/posts/reality-doesnt-invoice-by-committee.md": "e577ce5f5f88",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "6602a836102e",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "cd3ec066c2f8",
@@ -340,7 +340,7 @@
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "728ed78cb1f9",
       "content/posts/the-scaffolding-we-forget.md": "dcb1dbc7b64f",
       "content/posts/the-scaling-loop.md": "01f561084635",
-      "content/posts/the-self-portrait-in-the-projection.md": "0e75cd1a6cf2",
+      "content/posts/the-self-portrait-in-the-projection.md": "27746027176f",
       "content/posts/the-shadow-and-the-infinite.md": "f857f118c0ae",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "9dc84d6394f6",
       "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "1dbcf1da600a",
@@ -379,7 +379,7 @@
       "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "1a6b64a4d111",
       "content/posts/war-revolution-and-the-fall-of-empires.md": "1dc92e6428fc",
       "content/posts/what-always-listens-cannot-originate.md": "74d4cf0a4058",
-      "content/posts/what-cannot-be-kept.md": "eb22bc2ed47d",
+      "content/posts/what-cannot-be-kept.md": "230c81faa1f9",
       "content/posts/what-hinton-failed-to-understand.md": "7f93097607b5",
       "content/posts/what-information-is.md": "db25cf6703e1",
       "content/posts/what-works-is-the-belief.md": "38b7c3f217e1",
@@ -392,19 +392,19 @@
       "content/posts/when-the-effect-authors-the-frame.md": "7d330f511260",
       "content/posts/why-explanation-fails.md": "4bd98e24db9a",
       "content/posts/why-mathematics-can-never-be-solved.md": "cf02a7399345",
-      "content/posts/writing-without-the-image.md": "cfc9f2d662e7",
+      "content/posts/writing-without-the-image.md": "e3d031867578",
       "content/posts/xian-shi-de-bian-jie.md": "2c30017f1800",
       "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "f4334d8f6b04",
       "content/posts/you-cant-benchmark-the-fluid.md": "5e3f42fa5041",
       "content/posts/you-tiao-jian-de-zi-you.md": "d7c121819589",
       "content/posts/you-wu-zhi-bian.md": "70bb215a86a7",
       "content/posts/your-codebase-is-memory.md": "4a4689dd4a10",
-      "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "914571f5e4e9",
+      "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "59220f9cdf84",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "f1f3cd0266ec",
       "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "f23cfe1f4ca3",
       "content/posts/zi-you-de-ce-bu-zhun.md": "9adfc20af9ce",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "c0c80009ca9d",
-      "content/posts/zuo-jian-bu-shi-zi-fu.md": "4537ed736e3a",
+      "content/posts/zuo-jian-bu-shi-zi-fu.md": "ac686192b927",
       "content/book/causality.md": "477893ec526b",
       "content/book/consciousness.md": "d8595aa6097d",
       "content/book/economics.md": "c863f3bd1a44",
@@ -424,10 +424,10 @@
     },
     "stats": {
       "posts": 397,
-      "edges": 10283,
-      "unique_directed": 5080,
+      "edges": 10307,
+      "unique_directed": 5092,
       "missing_targets": 0,
-      "one_way": 598,
+      "one_way": 610,
       "isolated": 35,
       "posts_with_outbound": 361,
       "book_pages": 16,
@@ -438,7 +438,7 @@
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 248
+      "in_degree": 260
     },
     {
       "slug": "beyond-the-projection",
@@ -710,14 +710,15 @@
       "slug": "a-new-deeper-look-at-antifragility",
       "path": "content/posts/a-new-deeper-look-at-antifragility.md",
       "title": "重新审视反脆弱 / A New Deeper Look at Antifragility",
-      "hash": "a51cf4a49a6f",
+      "hash": "e5ed06c9658d",
       "in_degree": 6,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "the-unfrictioned-mind-and-borrowed-omnipotence",
         "openness-is-consistency",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "the-reality-distortion-field-inverts-the-baseline",
         "the-rational-choice-postulate-is-the-original-sin",
         "closed-reality-in-the-pursuit-of-serendipity"
@@ -1998,9 +1999,9 @@
       "slug": "demanding-a-toe-freezes-time-into-a-catalog",
       "path": "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md",
       "title": "索求万物理论是在将当下冻结为清单 / Demanding a Theory of Everything Freezes Time into a Catalog",
-      "hash": "ccb4b3e58dea",
+      "hash": "434ad917ad64",
       "in_degree": 7,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "the-cut-moves-but-never-vanishes",
         "the-twin-paradox-and-the-hidden-observer",
@@ -2008,6 +2009,7 @@
         "the-continuum-is-a-modeling-convenience",
         "time-is-causality-not-a-dimension",
         "the-illusion-of-the-shared-sandbox",
+        "your-codebase-is-memory",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality"
       ]
     },
@@ -2086,11 +2088,12 @@
       "slug": "du-zhongwen-zhexue-jianshi-you-gan",
       "path": "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md",
       "title": "读《中文哲学简史》有感 / Reflections on A Short History of Philosophy in Chinese",
-      "hash": "1b67e9d4ce82",
+      "hash": "b64fa4420bd4",
       "in_degree": 7,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "qian-yin-hou-guo",
+        "your-codebase-is-memory",
         "the-meaning-of-life-is-in-the-drafting",
         "the-scaffolding-we-forget",
         "no-system-can-be-kept-closed",
@@ -2105,9 +2108,9 @@
       "slug": "e-shi-feng-bi-de-shan",
       "path": "content/posts/e-shi-feng-bi-de-shan.md",
       "title": "恶是封闭的善 / Evil Is Closed Good",
-      "hash": "df2ef3e17c0a",
+      "hash": "506d716b1645",
       "in_degree": 6,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
         "openness-is-consistency",
@@ -2115,6 +2118,7 @@
         "the-source-of-all-harm",
         "the-risk-is-the-belief-in-oversight-itself",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "evil-as-the-minds-own-creation"
       ]
     },
@@ -2590,14 +2594,15 @@
       "slug": "gao-wei-xin-xi-de-li-san-zhe-she",
       "path": "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md",
       "title": "高维信息的离散折射与认知分层 / The Discrete Refraction of High-Dimensional Information",
-      "hash": "0ea3bc80574b",
+      "hash": "fd8a76387539",
       "in_degree": 7,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "what-information-is",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
         "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
+        "your-codebase-is-memory",
         "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
         "trusting-the-reader-is-the-last-overstep",
         "the-geometry-of-success"
@@ -3822,15 +3827,16 @@
       "slug": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
       "path": "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md",
       "title": "一个可能的全自动交通未来的非定论预测 / Non-Definitive Forecast of a Possible Fully Autonomous Transportation Future",
-      "hash": "c864052d34e7",
+      "hash": "9a865742b9bb",
       "in_degree": 6,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "the-scaffolding-we-forget",
         "the-price-of-closing-optionality",
         "the-local-trap-of-technological-change",
         "symptom-and-cause-in-the-narratives-of-progress",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "individual-choices-as-the-only-causal-levers",
         "openness-is-consistency"
       ]
@@ -4709,14 +4715,15 @@
       "slug": "rationality-never-travels-across-the-mind",
       "path": "content/posts/rationality-never-travels-across-the-mind.md",
       "title": "理性从不跨越心智 / Rationality Never Travels Across the Mind",
-      "hash": "082e1416eae1",
+      "hash": "a1491e2a0bd9",
       "in_degree": 7,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "the-rational-choice-postulate-is-the-original-sin",
         "price-as-utterance-understanding-as-trade",
         "trusting-the-reader-is-the-last-overstep",
         "the-mark-and-the-act",
+        "your-codebase-is-memory",
         "self-image-speaks-as-if-from-nowhere",
         "when-observation-becomes-performance",
         "the-self-portrait-in-the-projection"
@@ -8944,9 +8951,9 @@
       "slug": "the-self-portrait-in-the-projection",
       "path": "content/posts/the-self-portrait-in-the-projection.md",
       "title": "投射中的自画像 / The Self-Portrait in the Projection",
-      "hash": "0e75cd1a6cf2",
+      "hash": "27746027176f",
       "in_degree": 8,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "moral-language-as-projection",
         "empathy-as-projection-collapse",
@@ -8955,7 +8962,8 @@
         "rationality-never-travels-across-the-mind",
         "the-discount-on-agency",
         "the-unfrictioned-mind-and-borrowed-omnipotence",
-        "what-hinton-failed-to-understand"
+        "what-hinton-failed-to-understand",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -9827,13 +9835,14 @@
       "slug": "what-cannot-be-kept",
       "path": "content/posts/what-cannot-be-kept.md",
       "title": "留不住的 / What Cannot Be Kept",
-      "hash": "eb22bc2ed47d",
+      "hash": "230c81faa1f9",
       "in_degree": 7,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "what-works-is-the-belief",
         "better-than-free-after-the-checklist-closes",
         "the-meaning-of-life-is-in-the-drafting",
+        "your-codebase-is-memory",
         "beyond-the-projection",
         "not-a-theory-of-everything",
         "the-hard-problem-of-consciousness-is-consistent-with-learning",
@@ -10152,15 +10161,16 @@
       "slug": "writing-without-the-image",
       "path": "content/posts/writing-without-the-image.md",
       "title": "无形象的写作 / Writing Without the Image",
-      "hash": "cfc9f2d662e7",
+      "hash": "e3d031867578",
       "in_degree": 7,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "when-observation-becomes-performance",
         "closed-reality-in-the-pursuit-of-serendipity",
         "the-meaning-of-life-is-in-the-drafting",
         "two-failures-of-trace",
+        "your-codebase-is-memory",
         "clarity-isnt-a-state-you-arrive-at",
         "beyond-the-projection",
         "self-image-speaks-as-if-from-nowhere"
@@ -10282,7 +10292,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 248,
+      "in_degree": 260,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -10301,9 +10311,9 @@
       "slug": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
       "path": "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md",
       "title": "止步于评判，是认知的歧途 / Stopping at Judgment Is a Wrong Turn of Cognition",
-      "hash": "914571f5e4e9",
+      "hash": "59220f9cdf84",
       "in_degree": 8,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
         "when-observation-becomes-performance",
@@ -10312,6 +10322,7 @@
         "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
         "the-meaning-of-life-is-in-the-drafting",
         "the-unobservable-driver-of-learning",
+        "your-codebase-is-memory",
         "the-mark-and-the-act"
       ]
     },
@@ -10432,9 +10443,9 @@
       "slug": "zuo-jian-bu-shi-zi-fu",
       "path": "content/posts/zuo-jian-bu-shi-zi-fu.md",
       "title": "作茧不是自缚 / Spinning a Cocoon Is Not Binding Oneself",
-      "hash": "4537ed736e3a",
+      "hash": "ac686192b927",
       "in_degree": 7,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "du-zhongwen-zhexue-jianshi-you-gan",
@@ -10442,6 +10453,7 @@
         "the-path-drawn-one-step-at-a-time",
         "openness-is-consistency",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "shared-consciousness-is-intersecting-individualities",
         "you-wu-zhi-bian"
       ]
@@ -10996,9 +11008,21 @@
     },
     {
       "from": "a-new-deeper-look-at-antifragility",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "a-new-deeper-look-at-antifragility",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "a-new-deeper-look-at-antifragility",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "a-new-deeper-look-at-antifragility",
@@ -19534,9 +19558,21 @@
     },
     {
       "from": "demanding-a-toe-freezes-time-into-a-catalog",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "demanding-a-toe-freezes-time-into-a-catalog",
       "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "rel": "points_to",
       "label": "“物理学才是定律”的障眼法"
+    },
+    {
+      "from": "demanding-a-toe-freezes-time-into-a-catalog",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "demanding-a-toe-freezes-time-into-a-catalog",
@@ -19960,9 +19996,21 @@
     },
     {
       "from": "du-zhongwen-zhexue-jianshi-you-gan",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "du-zhongwen-zhexue-jianshi-you-gan",
       "to": "qian-yin-hou-guo",
       "rel": "points_to",
       "label": "Cause Before, Effect After"
+    },
+    {
+      "from": "du-zhongwen-zhexue-jianshi-you-gan",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "du-zhongwen-zhexue-jianshi-you-gan",
@@ -20104,9 +20152,21 @@
     },
     {
       "from": "e-shi-feng-bi-de-shan",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "e-shi-feng-bi-de-shan",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "e-shi-feng-bi-de-shan",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "e-shi-feng-bi-de-shan",
@@ -22720,6 +22780,12 @@
     },
     {
       "from": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "gao-wei-xin-xi-de-li-san-zhe-she",
       "to": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
       "rel": "points_to",
       "label": "路口的转向与地平说的行动悖论"
@@ -22735,6 +22801,12 @@
       "to": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
       "rel": "points_to",
       "label": "The Ladder of Projections and the Anchor of Causality"
+    },
+    {
+      "from": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "gao-wei-xin-xi-de-li-san-zhe-she",
@@ -30964,6 +31036,12 @@
     },
     {
       "from": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
       "label": "Symptom and Cause in the Narratives of Progress"
@@ -30973,6 +31051,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
@@ -37258,9 +37342,21 @@
     },
     {
       "from": "rationality-never-travels-across-the-mind",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "rationality-never-travels-across-the-mind",
       "to": "the-mark-and-the-act",
       "rel": "points_to",
       "label": "The Mark and the Act"
+    },
+    {
+      "from": "rationality-never-travels-across-the-mind",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "rationality-never-travels-across-the-mind",
@@ -62950,6 +63046,12 @@
     },
     {
       "from": "the-self-portrait-in-the-projection",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-self-portrait-in-the-projection",
       "to": "the-unfrictioned-mind-and-borrowed-omnipotence",
       "rel": "points_to",
       "label": "The Unfrictioned Mind and Borrowed Omnipotence"
@@ -62959,6 +63061,12 @@
       "to": "what-hinton-failed-to-understand",
       "rel": "points_to",
       "label": "What Hinton Failed to Understand"
+    },
+    {
+      "from": "the-self-portrait-in-the-projection",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-shadow-and-the-infinite",
@@ -68488,9 +68596,21 @@
     },
     {
       "from": "what-cannot-be-kept",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "what-cannot-be-kept",
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
       "label": "The Meaning of Life Is in the Drafting"
+    },
+    {
+      "from": "what-cannot-be-kept",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "what-cannot-be-kept",
@@ -70510,9 +70630,21 @@
     },
     {
       "from": "writing-without-the-image",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "writing-without-the-image",
       "to": "two-failures-of-trace",
       "rel": "points_to",
       "label": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself"
+    },
+    {
+      "from": "writing-without-the-image",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "writing-without-the-image",
@@ -71272,6 +71404,12 @@
     },
     {
       "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
       "to": "the-mark-and-the-act",
       "rel": "points_to",
       "label": "印迹与行动"
@@ -71287,6 +71425,12 @@
       "to": "the-unobservable-driver-of-learning",
       "rel": "points_to",
       "label": "The Unobservable Driver of Learning"
+    },
+    {
+      "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
@@ -72106,6 +72250,12 @@
     },
     {
       "from": "zuo-jian-bu-shi-zi-fu",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "zuo-jian-bu-shi-zi-fu",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
       "label": "The Path Drawn One Step at a Time"
@@ -72121,6 +72271,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "zuo-jian-bu-shi-zi-fu",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "zuo-jian-bu-shi-zi-fu",
