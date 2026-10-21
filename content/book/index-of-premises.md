@@ -51,7 +51,7 @@ Treating "aligned" and "harmless" as fixed axes presumes both are independent, p
 
 Karpathy popularizes the view that CLIs represent the native environment for agents; useful as an engineering heuristic, it conflates legacy Unix conventions with optimal state representation.
 
-→ [The Interface Stack: Why Agents Don't "Prefer" CLIs](../../posts/cli-interface-stack/)
+→ [界面栈与命令行基底 / The Interface Stack](../../posts/cli-interface-stack/)
 
 ### 安德鲁·布斯塔曼特 / Andrew Bustamante
 `成功学 / Self-Help`
@@ -303,7 +303,7 @@ Epistemic humility presumes that cultivating receptivity to unknown knowledge in
 
 Raymond treats software engineering as an enduring craft expanding across abstraction layers; valid against automation panic, while understating shifts in interface mastery.
 
-→ [AI Won't Kill Software Engineering—It Will Expand It](../../posts/ai-wont-kill-software-engineering/)
+→ [AI 不会终结软件工程，而是将其扩展 / AI Won't Kill Software Engineering, It Will Expand It](../../posts/ai-wont-kill-software-engineering/)
 
 ### 埃里克·施维茨格贝尔 / Eric Schwitzgebel
 `哲学 / Philosophical`
@@ -339,7 +339,7 @@ Landry puts first-person process first, rejects the closed cosmic container and 
 
 Chollet insists intelligence is tied to human environmental priors; useful against recursive explosion myths, it understates open-ended algorithmic generalization.
 
-→ [The Shadow Mistaken for the Object: Chollet's Intelligence Explosion Argument](../../posts/chollet-intelligence-explosion-analysis/)
+→ [被误认作实体的阴影 / The Shadow Mistaken for the Object](../../posts/chollet-intelligence-explosion-analysis/)
 
 ### 弗里德里希·哈耶克 / Friedrich Hayek
 `经济 / Economic`
@@ -681,7 +681,7 @@ Dalio’s Principles assume process and idea meritocracy drive results, which is
 
 Kurzweil posits exponential law as history's primary driver; useful for tracking hardware density, it conflates substrate acceleration with conscious agency.
 
-→ [The Exponential and the Linear Eye](../../posts/Analysis_Adolescence_of_Technology/)
+→ [指数级进程与线性之眼 / The Exponential and the Linear Eye](../../posts/Analysis_Adolescence_of_Technology/)
 
 ### 现实扭曲力场 / Reality Distortion Field
 `成功学 / Self-Help`
@@ -1005,7 +1005,7 @@ Claims complex functional competence naturally supersedes conscious comprehensio
 
 Constitutional AI presumes ethics can be operationalized via declarative principles; effective for safety guardrails, it externalizes sovereign moral judgment into static text.
 
-→ [The Projection Called Claude: An Ontological Analysis of Anthropic's Constitution](../../posts/claudes-constitution-analysis/)
+→ [名为 Claude 的投射 / The Projection Called Claude](../../posts/claudes-constitution-analysis/)
 
 ### 批判理性主义 / Critical Rationalism
 `哲学 / Philosophical`
@@ -1266,7 +1266,7 @@ Institutional explanation presumes good institutions produce capable people, whi
 
 Jevons paradox shows efficiency gains lower unit resource costs and trigger elastic demand; useful for market scaling, though blind to qualitative role redefinitions.
 
-→ [AI Won't Kill Software Engineering—It Will Expand It](../../posts/ai-wont-kill-software-engineering/)
+→ [AI 不会终结软件工程，而是将其扩展 / AI Won't Kill Software Engineering, It Will Expand It](../../posts/ai-wont-kill-software-engineering/)
 
 ### 凯恩斯财政乘数理论 / Keynesian Fiscal Multiplier
 `经济 / Economic`
@@ -1410,7 +1410,7 @@ The Kaplan and Chinchilla scaling laws treat existing artifacts as a given corpu
 
 The theorem proves uniform algorithm parity over all mathematically possible functions; strictly true in formal bounds, it misleads when applied to physics-constrained real worlds.
 
-→ [The Shadow Mistaken for the Object: Chollet's Intelligence Explosion Argument](../../posts/chollet-intelligence-explosion-analysis/)
+→ [被误认作实体的阴影 / The Shadow Mistaken for the Object](../../posts/chollet-intelligence-explosion-analysis/)
 
 ### 正态分布 / Normal Distribution
 `科学 / Scientific`
@@ -1689,7 +1689,7 @@ Technological determinism presumes technology is a force standing apart from hum
 
 Technological Singularity theory presumes that a compounding capability curve crosses a threshold past which the artifact improves itself beyond its source, which is of use in registering the acceleration felt at the frontier and in mobilizing effort; it reaches its boundary in that the threshold sits forever ahead of the edge that draws it, extrapolating a local curve keeps the image past its step, and denser scaffolding stays scaffolding steered by the Mind.
 
-→ [The Exponential and the Linear Eye](../../posts/Analysis_Adolescence_of_Technology/) · [自我放大的制品 / The Artifacts of Self-Amplification](../../posts/the-artifacts-of-self-amplification/) · [超越的定相 / The Fixed Image of Transcendence](../../posts/the-fixed-image-of-transcendence/)
+→ [指数级进程与线性之眼 / The Exponential and the Linear Eye](../../posts/Analysis_Adolescence_of_Technology/) · [自我放大的制品 / The Artifacts of Self-Amplification](../../posts/the-artifacts-of-self-amplification/) · [超越的定相 / The Fixed Image of Transcendence](../../posts/the-fixed-image-of-transcendence/)
 
 ### 技术性失业 / Technological Unemployment
 `经济 / Economic`
@@ -2537,7 +2537,7 @@ Psychological projection blames immediate external triggers for inner anxiety; e
 
 Disruption rhetoric treats current technological acceleration as unprecedented; this obscures the perennial invariant that living minds must continuously adapt to shifting tools.
 
-→ [Everything Is Changing, as Always](../../posts/everything-is-changing-as-always/)
+→ [万物一如既往地流变 / Everything Is Changing, as Always](../../posts/everything-is-changing-as-always/)
 
 ### 抉择与规律的双面同构 / Dual Nature of Choice and Regularity
 `科学 / Scientific`
@@ -3131,7 +3131,7 @@ Computationalism presumes symbol manipulation constitutes genuine intellect; phy
 
 The CLI-first view assumes terminal text is the purest channel for machine intelligence; interface suitability depends on state mutability and token efficiency, not text nostalgia.
 
-→ [The Interface Stack: Why Agents Don't "Prefer" CLIs](../../posts/cli-interface-stack/)
+→ [界面栈与命令行基底 / The Interface Stack](../../posts/cli-interface-stack/)
 
 ### 自发好奇心作为原动力 / Intrinsic Curiosity as Engine
 `成功学 / Self-Help`
@@ -4103,7 +4103,7 @@ Regulatory prohibition presumes that a rule can stop the advance it is aimed at;
 
 Reifying institutions presumes organizations have independent consciousness and will; they are shared constraints through which sovereign individuals coordinate.
 
-→ [Constraints Are Ground: The Individual as Platform](../../posts/constraints_are_ground/)
+→ [约束即基底与作为平台的个体 / Constraints Are Ground](../../posts/constraints_are_ground/)
 
 ### 伴侣关系的客体化实体 / Reification of Partnership
 `哲学 / Philosophical`
@@ -4868,7 +4868,7 @@ Taking observation as the end, looking outward to search for shadows that confir
 
 Security defense metrics treat threat elimination as objective; commercially, organizations survive by managing persistent threats, creating an ongoing arms race.
 
-→ [The Cybersecurity Arms Race: Categorical Perception Limits and Claim-Negation Coupling](../../posts/cybersecurity-arms-race/)
+→ [网络安全军备竞赛与感知范畴边界 / The Cybersecurity Arms Race](../../posts/cybersecurity-arms-race/)
 
 ### 时间即不可逆因果 / Time as Irreversible Causality
 `科学 / Scientific`

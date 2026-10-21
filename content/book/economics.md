@@ -13,7 +13,7 @@ Drawing on Misesian and Hayekian insights on distributed knowledge, these essays
 ## 篇目 / Essays
 
 - [没有区分的效率是没有存在的运动 / Efficiency Without Differentiation Is Movement Without Existence](../../posts/efficiency-without-differentiation/)
-- [AI Won't Kill Software Engineering—It Will Expand It](../../posts/ai-wont-kill-software-engineering/)
+- [AI 不会终结软件工程，而是将其扩展 / AI Won't Kill Software Engineering, It Will Expand It](../../posts/ai-wont-kill-software-engineering/)
 - [生产创造自己的意识形态消费 / Production Creates Its Own Ideological Consumption](../../posts/fate-loves-irony-refined/)
 - [当丰裕看起来像稀缺 / When Abundance Looks Like Scarcity](../../posts/when-abundance-looks-like-scarcity/)
 - [The Measurement Lag](../../posts/intelligence-crisis-response/)

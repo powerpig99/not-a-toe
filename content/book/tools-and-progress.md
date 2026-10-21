@@ -13,12 +13,12 @@ The essays here explore antifragility in engineering, the calm tension between S
 ## 篇目 / Essays
 
 - [放大悖论 / The Amplification Paradox](../../posts/amplification-paradox/)
-- [The Exponential and the Linear Eye](../../posts/Analysis_Adolescence_of_Technology/)
-- [The Cybersecurity Arms Race: Categorical Perception Limits and Claim-Negation Coupling](../../posts/cybersecurity-arms-race/)
-- [Everything Is Changing, as Always](../../posts/everything-is-changing-as-always/)
+- [指数级进程与线性之眼 / The Exponential and the Linear Eye](../../posts/Analysis_Adolescence_of_Technology/)
+- [网络安全军备竞赛与感知范畴边界 / The Cybersecurity Arms Race](../../posts/cybersecurity-arms-race/)
+- [万物一如既往地流变 / Everything Is Changing, as Always](../../posts/everything-is-changing-as-always/)
 - [还没有人见过任何东西 / Nobody Has Seen Anything Yet](../../posts/nobody-has-seen-anything-yet/)
 - [Simplicity Is the Ultimate Sophistication](../../posts/simplicity-ultimate-sophistication/)
-- [The Interface Stack: Why Agents Don't "Prefer" CLIs](../../posts/cli-interface-stack/)
+- [界面栈与命令行基底 / The Interface Stack](../../posts/cli-interface-stack/)
 - [The Platform Doesn't Drift — It Completes](../../posts/platform-decision-capture/)
 - [The Loop Accelerates](../../posts/the-loop-accelerates/)
 - [重新审视反脆弱 / A New Deeper Look at Antifragility](../../posts/a-new-deeper-look-at-antifragility/)

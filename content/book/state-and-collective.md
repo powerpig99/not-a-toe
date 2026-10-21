@@ -12,7 +12,7 @@ The essays here examine the cruelty of utopian visions, the machinery of war, an
 
 ## 篇目 / Essays
 
-- [Constraints Are Ground: The Individual as Platform](../../posts/constraints_are_ground/)
+- [约束即基底与作为平台的个体 / Constraints Are Ground](../../posts/constraints_are_ground/)
 - [Mises on the State: Ontological Clarity Analysis](../../posts/mises-state-analysis/)
 - [臣服作为错位的主权 / Surrender as Misaligned Sovereignty](../../posts/sovereignty-essay/)
 - [现实不按委员会开账单 / Reality Doesn't Invoice by Committee](../../posts/reality-doesnt-invoice-by-committee/)
