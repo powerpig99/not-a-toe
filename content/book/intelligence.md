@@ -13,8 +13,8 @@ The essays in this part dissect Geoffrey Hinton's cognitive leaps, the limits of
 ## 篇目 / Essays
 
 - [Agents in the Long Game of AI — Through the Ontological Clarity Framework](../../posts/agents_leia_ontological_clarity/)
-- [The Einstein Test and the AGI Category Error](../../posts/hassabis-einstein-test/)
-- [Intelligence Is the Thing Most Likely to Trap Itself](../../posts/intelligence-traps-itself/)
+- [爱因斯坦测试与通用人工智能的范畴谬误 / The Einstein Test and the AGI Category Error](../../posts/hassabis-einstein-test/)
+- [智能最容易困住的正是它自己 / Intelligence Is the Thing Most Likely to Trap Itself](../../posts/intelligence-traps-itself/)
 - [The Moving Ground: On "Intelligent AI Delegation"](../../posts/the_moving_ground/)
 - [被误认作实体的阴影 / The Shadow Mistaken for the Object](../../posts/chollet-intelligence-explosion-analysis/)
 - [流动之物无法被基准衡量 / You Can't Benchmark the Fluid](../../posts/you-cant-benchmark-the-fluid/)

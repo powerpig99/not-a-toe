@@ -17,7 +17,7 @@ The essays collected in this part document the emergence and development of this
 - [What Happens When an AI Performs a Framework Instead of Operating From It](../../posts/grok-420-framework-drift/)
 - [非万物之理·重溯 / Not a ToE Retraced](../../posts/not-a-toe-rewrite/)
 - [Scaffolds or Specialized Contexts?](../../posts/scaffolds-or-specialized-contexts/)
-- [Extension and Shift](../../posts/extension-and-shift/)
+- [框内延伸与维度跃迁 / Extension and Shift](../../posts/extension-and-shift/)
 - [开放即一致 / Openness Is Consistency](../../posts/openness-is-consistency/)
 - [遗忘的脚手架 / The Scaffolding We Forget](../../posts/the-scaffolding-we-forget/)
 - [以本地模型为默认是被遗忘的脚手架 / Local Models as Default Is Forgotten Scaffolding](../../posts/the-scaffolding-we-forget-local-models-as-default/)

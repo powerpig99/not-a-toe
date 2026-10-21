@@ -16,7 +16,7 @@ Drawing on Misesian and Hayekian insights on distributed knowledge, these essays
 - [AI 不会终结软件工程，而是将其扩展 / AI Won't Kill Software Engineering, It Will Expand It](../../posts/ai-wont-kill-software-engineering/)
 - [生产创造自己的意识形态消费 / Production Creates Its Own Ideological Consumption](../../posts/fate-loves-irony-refined/)
 - [当丰裕看起来像稀缺 / When Abundance Looks Like Scarcity](../../posts/when-abundance-looks-like-scarcity/)
-- [The Measurement Lag](../../posts/intelligence-crisis-response/)
+- [度量时滞与智能成本通缩 / The Measurement Lag](../../posts/intelligence-crisis-response/)
 - [人、Token 与估值的范围 / Humans, Tokens, and the Scope of Valuation](../../posts/humans-tokens-and-the-scope-of-valuation/)
 - [生产、消费与心智的区分 / Production, Consumption, and the Mind's Distinction](../../posts/production-consumption-and-the-minds-distinction/)
 - [清单合上之后，胜过免费 / Better Than Free After the Checklist Closes](../../posts/better-than-free-after-the-checklist-closes/)

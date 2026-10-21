@@ -12,7 +12,7 @@ The essays in this part confront the hard problem of consciousness, the evolutio
 
 ## 篇目 / Essays
 
-- [Tools as Active Extensions of Cognition](../../posts/extended-cognition-refined/)
+- [作为认知主动延伸的工具 / Tools as Active Extensions of Cognition](../../posts/extended-cognition-refined/)
 - [感知与视角并不存在的坍缩 / Perception and Perspective Without Collapse](../../posts/perception-perspective-refined/)
 - [留不住的 / What Cannot Be Kept](../../posts/what-cannot-be-kept/)
 - [The Maintenance Paradox](../../posts/the-maintenance-paradox/)

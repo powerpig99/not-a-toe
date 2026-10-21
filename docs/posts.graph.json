@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T10:32:32.811Z",
+    "generated_at": "2026-10-21T10:42:41.301Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -76,8 +76,8 @@
       "content/posts/evil-as-the-minds-own-creation.md": "9685bf8b4713",
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "8b82853392d4",
       "content/posts/expertise-as-reference-not-replacement.md": "630ec556bab5",
-      "content/posts/extended-cognition-refined.md": "629878bd2e31",
-      "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
+      "content/posts/extended-cognition-refined.md": "d6ebbdaa006f",
+      "content/posts/extension-and-shift.md": "695ce6937cad",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "d465dbb1da43",
       "content/posts/failure-as-information.md": "98ca1f79bd34",
       "content/posts/fate-loves-irony-refined.md": "4173eb2feff2",
@@ -96,21 +96,21 @@
       "content/posts/guidance-is-not-ownership.md": "ad110e0b12b6",
       "content/posts/hardness-is-not-inherent-in-the-action.md": "a3edf37fad3f",
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "4ca9797d5e48",
-      "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
+      "content/posts/hassabis-einstein-test.md": "c3e564187351",
       "content/posts/hassabis-frontier-agi-premise.md": "5bb4aad4ec8f",
       "content/posts/having-more-is-never-the-cause.md": "fff7b1e393f6",
       "content/posts/help-is-half-the-problem.md": "b370c85eb106",
       "content/posts/hierarchy-from-individual-difference.md": "69e9c1301745",
       "content/posts/how-belief-actually-changes.md": "c5fe5bd1c82a",
       "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "9c200c5c4e2a",
-      "content/posts/huberman-winners-losers.md": "5322cfc13553",
+      "content/posts/huberman-winners-losers.md": "52edd6aa4959",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "2740c5400321",
       "content/posts/immortality-final.md": "2bbeb6b8ed55",
       "content/posts/individual-choices-as-the-only-causal-levers.md": "35b065ab09af",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "425497acb31b",
-      "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
+      "content/posts/intelligence-crisis-response.md": "c0480704b362",
       "content/posts/intelligence-folding-back-on-itself.md": "5ce8b84ddfd0",
-      "content/posts/intelligence-traps-itself.md": "970895efed15",
+      "content/posts/intelligence-traps-itself.md": "e9dd405ccf3c",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "b5bfd1bca0dc",
       "content/posts/looping-and-graphing.md": "81007251f9d4",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "edbfa0fe5c9b",
@@ -121,11 +121,11 @@
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "02c235243d39",
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "9a326be23d1c",
       "content/posts/minimizing-path.md": "90053fab1dbc",
-      "content/posts/mises-state-analysis.md": "2a385ffa4bce",
+      "content/posts/mises-state-analysis.md": "fe24d656c147",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "d8bf71b9fe17",
       "content/posts/moral-language-as-projection.md": "ec504bfff397",
       "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "d9edaff34fdb",
-      "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
+      "content/posts/munger-dumb-competition-refined.md": "b8ee8259c34d",
       "content/posts/name-negation-tendency.md": "a67cfac7fc95",
       "content/posts/naval-separation-analysis.md": "19901cd6d9bb",
       "content/posts/no-genius-can-solve-the-knowledge-problem.md": "b3abbe0744cc",
@@ -338,7 +338,7 @@
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "7a0ec6232ce8",
       "content/posts/the-scaffolding-that-keeps-growing.md": "8fddf91966e8",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "728ed78cb1f9",
-      "content/posts/the-scaffolding-we-forget.md": "c99cbff64a06",
+      "content/posts/the-scaffolding-we-forget.md": "4a90638461c5",
       "content/posts/the-scaling-loop.md": "01f561084635",
       "content/posts/the-self-portrait-in-the-projection.md": "53e4a8649ae8",
       "content/posts/the-shadow-and-the-infinite.md": "c39730290699",
@@ -406,30 +406,30 @@
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "c0c80009ca9d",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "ac686192b927",
       "content/book/causality.md": "58084f9648d2",
-      "content/book/consciousness.md": "70239de45f33",
-      "content/book/economics.md": "5262f159b549",
-      "content/book/index-of-premises.md": "e086f54740b8",
-      "content/book/intelligence.md": "73b57d85528d",
+      "content/book/consciousness.md": "199aa8f55c7c",
+      "content/book/economics.md": "91d63f3f8af4",
+      "content/book/index-of-premises.md": "a0715bd322eb",
+      "content/book/intelligence.md": "e8b4ca4b4a69",
       "content/book/knowledge-and-learning.md": "fc593b62b093",
       "content/book/life-and-statistics.md": "903bd0f56d99",
       "content/book/mathematics.md": "322ac308b378",
       "content/book/meaning-and-transcendence.md": "a851650b120c",
-      "content/book/method.md": "6246e4ef1096",
+      "content/book/method.md": "a86ce4301e29",
       "content/book/morality.md": "aaee6cdba130",
       "content/book/physics.md": "7c86d385a9f8",
       "content/book/preface.md": "d0065384016a",
-      "content/book/state-and-collective.md": "55c889d197f2",
-      "content/book/success-and-the-self.md": "8795aa2cb585",
+      "content/book/state-and-collective.md": "5e8b762efc78",
+      "content/book/success-and-the-self.md": "f19aad8c22f2",
       "content/book/tools-and-progress.md": "9bebcce9c9c8"
     },
     "stats": {
       "posts": 397,
-      "edges": 10650,
-      "unique_directed": 5224,
+      "edges": 10718,
+      "unique_directed": 5258,
       "missing_targets": 0,
-      "one_way": 732,
-      "isolated": 26,
-      "posts_with_outbound": 371,
+      "one_way": 760,
+      "isolated": 18,
+      "posts_with_outbound": 379,
       "book_pages": 16,
       "book_edges": 1104,
       "posts_reached_by_book": 397
@@ -438,15 +438,15 @@
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 369
+      "in_degree": 377
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 193
+      "in_degree": 194
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 102
+      "in_degree": 104
     },
     {
       "slug": "openness-is-consistency",
@@ -454,15 +454,15 @@
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 73
+      "in_degree": 75
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 64
+      "in_degree": 65
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "in_degree": 60
+      "in_degree": 61
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -505,12 +505,12 @@
       "in_degree": 33
     },
     {
-      "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "slug": "clarity-isnt-a-state-you-arrive-at",
       "in_degree": 33
     },
     {
-      "slug": "clarity-isnt-a-state-you-arrive-at",
-      "in_degree": 32
+      "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "in_degree": 33
     },
     {
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
@@ -532,7 +532,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "out_degree": 67
+      "out_degree": 68
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -602,16 +602,8 @@
   "missing": [],
   "orphans": [
     "agents_leia_ontological_clarity",
-    "extended-cognition-refined",
-    "extension-and-shift",
     "four-night-questions",
     "grok-420-framework-drift",
-    "hassabis-einstein-test",
-    "huberman-winners-losers",
-    "intelligence-crisis-response",
-    "intelligence-traps-itself",
-    "mises-state-analysis",
-    "munger-dumb-competition-refined",
     "platform-decision-capture",
     "scaffolds-or-specialized-contexts",
     "school_essay_final",
@@ -898,7 +890,7 @@
       "path": "content/posts/agi-and-asi-are-temporary-goalposts.md",
       "title": "AGI 与 ASI 是加速通用智能的暂时球门 / AGI and ASI Are Temporary Goalposts",
       "hash": "4d7f22ced380",
-      "in_degree": 26,
+      "in_degree": 27,
       "out_degree": 28,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -956,7 +948,7 @@
       "path": "content/posts/ai-wont-kill-software-engineering.md",
       "title": "AI 不会终结软件工程，而是将其扩展 / AI Won't Kill Software Engineering, It Will Expand It",
       "hash": "c91ee4108c07",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 3,
       "links_out": [
         "when-abundance-looks-like-scarcity",
@@ -1093,7 +1085,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "77fe2468ff0d",
-      "in_degree": 193,
+      "in_degree": 194,
       "out_degree": 16,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1302,7 +1294,7 @@
       "path": "content/posts/cheng-gong-xue.md",
       "title": "成功学 / Theories After Success",
       "hash": "ac78a83205fd",
-      "in_degree": 20,
+      "in_degree": 22,
       "out_degree": 20,
       "links_out": [
         "the-free-variable-and-the-retrospective-illusion-of-power",
@@ -1375,7 +1367,7 @@
       "path": "content/posts/clarity-isnt-a-state-you-arrive-at.md",
       "title": "清晰不是抵达的终点，而是运动本身 / Clarity Isn't a State You Arrive At. It's the Movement Itself.",
       "hash": "bf246a72a1cb",
-      "in_degree": 32,
+      "in_degree": 33,
       "out_degree": 32,
       "links_out": [
         "why-mathematics-can-never-be-solved",
@@ -2402,22 +2394,34 @@
       "kind": "post",
       "slug": "extended-cognition-refined",
       "path": "content/posts/extended-cognition-refined.md",
-      "title": "Tools as Active Extensions of Cognition",
-      "hash": "629878bd2e31",
-      "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "title": "作为认知主动延伸的工具 / Tools as Active Extensions of Cognition",
+      "hash": "d6ebbdaa006f",
+      "in_degree": 4,
+      "out_degree": 4,
+      "links_out": [
+        "the-scaffolding-we-forget",
+        "extension-and-shift",
+        "your-codebase-is-memory",
+        "intelligence-belongs-only-to-the-mind"
+      ]
     },
     {
       "id": "post:extension-and-shift",
       "kind": "post",
       "slug": "extension-and-shift",
       "path": "content/posts/extension-and-shift.md",
-      "title": "Extension and Shift",
-      "hash": "dfa0a09b9b5a",
-      "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "title": "框内延伸与维度跃迁 / Extension and Shift",
+      "hash": "695ce6937cad",
+      "in_degree": 2,
+      "out_degree": 6,
+      "links_out": [
+        "beyond-the-projection",
+        "extended-cognition-refined",
+        "hassabis-einstein-test",
+        "intelligence-traps-itself",
+        "munger-dumb-competition-refined",
+        "your-codebase-is-memory"
+      ]
     },
     {
       "id": "post:externalized-virtue-becomes-its-opposite",
@@ -2817,11 +2821,17 @@
       "kind": "post",
       "slug": "hassabis-einstein-test",
       "path": "content/posts/hassabis-einstein-test.md",
-      "title": "The Einstein Test and the AGI Category Error",
-      "hash": "2f47eea4a045",
-      "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "title": "爱因斯坦测试与通用人工智能的范畴谬误 / The Einstein Test and the AGI Category Error",
+      "hash": "c3e564187351",
+      "in_degree": 1,
+      "out_degree": 5,
+      "links_out": [
+        "agi-and-asi-are-temporary-goalposts",
+        "extension-and-shift",
+        "intelligence-crisis-response",
+        "intelligence-belongs-only-to-the-mind",
+        "your-codebase-is-memory"
+      ]
     },
     {
       "id": "post:hassabis-frontier-agi-premise",
@@ -3002,11 +3012,16 @@
       "kind": "post",
       "slug": "huberman-winners-losers",
       "path": "content/posts/huberman-winners-losers.md",
-      "title": "Winners/Losers: The Transmutation Frame",
-      "hash": "5322cfc13553",
-      "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "title": "赢家与输家的转化框架 / Winners and Losers in the Transmutation Frame",
+      "hash": "52edd6aa4959",
+      "in_degree": 1,
+      "out_degree": 4,
+      "links_out": [
+        "extended-cognition-refined",
+        "individual-choices-as-the-only-causal-levers",
+        "your-codebase-is-memory",
+        "cheng-gong-xue"
+      ]
     },
     {
       "id": "post:humans-tokens-and-the-scope-of-valuation",
@@ -3044,7 +3059,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers",
       "hash": "35b065ab09af",
-      "in_degree": 102,
+      "in_degree": 104,
       "out_degree": 99,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -3155,7 +3170,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "智能只属于心智 / Intelligence Belongs Only to the Mind",
       "hash": "425497acb31b",
-      "in_degree": 73,
+      "in_degree": 75,
       "out_degree": 70,
       "links_out": [
         "curiosity-has-no-final-form",
@@ -3235,11 +3250,17 @@
       "kind": "post",
       "slug": "intelligence-crisis-response",
       "path": "content/posts/intelligence-crisis-response.md",
-      "title": "The Measurement Lag",
-      "hash": "8b52c36028b8",
-      "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "title": "度量时滞与智能成本通缩 / The Measurement Lag",
+      "hash": "c0480704b362",
+      "in_degree": 1,
+      "out_degree": 5,
+      "links_out": [
+        "ai-wont-kill-software-engineering",
+        "your-codebase-is-memory",
+        "when-abundance-looks-like-scarcity",
+        "mises-state-analysis",
+        "huberman-winners-losers"
+      ]
     },
     {
       "id": "post:intelligence-folding-back-on-itself",
@@ -3279,11 +3300,15 @@
       "kind": "post",
       "slug": "intelligence-traps-itself",
       "path": "content/posts/intelligence-traps-itself.md",
-      "title": "Intelligence Is the Thing Most Likely to Trap Itself",
-      "hash": "970895efed15",
-      "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "title": "智能最容易困住的正是它自己 / Intelligence Is the Thing Most Likely to Trap Itself",
+      "hash": "e9dd405ccf3c",
+      "in_degree": 1,
+      "out_degree": 3,
+      "links_out": [
+        "clarity-isnt-a-state-you-arrive-at",
+        "your-codebase-is-memory",
+        "the-model-never-becomes-a-second-edge"
+      ]
     },
     {
       "id": "post:liberation-rhetoric-begins-by-defining-captivity",
@@ -3560,11 +3585,15 @@
       "kind": "post",
       "slug": "mises-state-analysis",
       "path": "content/posts/mises-state-analysis.md",
-      "title": "Mises on the State: Ontological Clarity Analysis",
-      "hash": "2a385ffa4bce",
-      "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "title": "米塞斯论国家与强制力的向量和 / Mises on the State and the Vector Sum of Coercion",
+      "hash": "fe24d656c147",
+      "in_degree": 1,
+      "out_degree": 3,
+      "links_out": [
+        "war-revolution-and-the-fall-of-empires",
+        "individual-choices-as-the-only-causal-levers",
+        "your-codebase-is-memory"
+      ]
     },
     {
       "id": "post:mistaking-the-expression-for-the-intelligence",
@@ -3670,11 +3699,15 @@
       "kind": "post",
       "slug": "munger-dumb-competition-refined",
       "path": "content/posts/munger-dumb-competition-refined.md",
-      "title": "Dissolving Munger's \"Dumb Competition\"",
-      "hash": "e042c155c0bd",
-      "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "title": "消解芒格的愚蠢竞争论 / Dissolving Munger's Dumb Competition",
+      "hash": "b8ee8259c34d",
+      "in_degree": 1,
+      "out_degree": 3,
+      "links_out": [
+        "your-codebase-is-memory",
+        "extended-cognition-refined",
+        "cheng-gong-xue"
+      ]
     },
     {
       "id": "post:name-negation-tendency",
@@ -7969,7 +8002,7 @@
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge",
       "hash": "e05347b86c6c",
-      "in_degree": 60,
+      "in_degree": 61,
       "out_degree": 47,
       "links_out": [
         "your-codebase-is-memory",
@@ -8945,9 +8978,9 @@
       "slug": "the-scaffolding-we-forget",
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "遗忘的脚手架 / The Scaffolding We Forget",
-      "hash": "c99cbff64a06",
-      "in_degree": 64,
-      "out_degree": 67,
+      "hash": "4a90638461c5",
+      "in_degree": 65,
+      "out_degree": 68,
       "links_out": [
         "the-extendable-horizon",
         "the-geometry-of-mind",
@@ -8995,6 +9028,7 @@
         "your-codebase-is-memory",
         "everything-is-changing-as-always",
         "cli-interface-stack",
+        "extended-cognition-refined",
         "curiosity-has-no-final-form",
         "why-mathematics-can-never-be-solved",
         "what-information-is",
@@ -9903,7 +9937,7 @@
       "path": "content/posts/war-revolution-and-the-fall-of-empires.md",
       "title": "战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires",
       "hash": "e34d11fdc25d",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 5,
       "links_out": [
         "dimensions-are-projections",
@@ -10112,7 +10146,7 @@
       "path": "content/posts/when-abundance-looks-like-scarcity.md",
       "title": "当丰裕看起来像稀缺 / When Abundance Looks Like Scarcity",
       "hash": "8ffe214e39a4",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 4,
       "links_out": [
         "residual-individualism",
@@ -10425,7 +10459,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 369,
+      "in_degree": 377,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -22234,6 +22268,126 @@
       "label": "The Reversal from Defensible Claim to Dogma"
     },
     {
+      "from": "extended-cognition-refined",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "我们遗忘的脚手架"
+    },
+    {
+      "from": "extended-cognition-refined",
+      "to": "extension-and-shift",
+      "rel": "points_to",
+      "label": "框内延伸与维度跃迁"
+    },
+    {
+      "from": "extended-cognition-refined",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "extended-cognition-refined",
+      "to": "extension-and-shift",
+      "rel": "points_to",
+      "label": "Extension and Shift"
+    },
+    {
+      "from": "extended-cognition-refined",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "extended-cognition-refined",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "extended-cognition-refined",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "extended-cognition-refined",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "extension-and-shift",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "extension-and-shift",
+      "to": "extended-cognition-refined",
+      "rel": "points_to",
+      "label": "作为认知主动延伸的工具"
+    },
+    {
+      "from": "extension-and-shift",
+      "to": "hassabis-einstein-test",
+      "rel": "points_to",
+      "label": "爱因斯坦测试与通用人工智能的范畴谬误"
+    },
+    {
+      "from": "extension-and-shift",
+      "to": "intelligence-traps-itself",
+      "rel": "points_to",
+      "label": "智能最容易困住的正是它自己"
+    },
+    {
+      "from": "extension-and-shift",
+      "to": "munger-dumb-competition-refined",
+      "rel": "points_to",
+      "label": "消解芒格的愚蠢竞争论"
+    },
+    {
+      "from": "extension-and-shift",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "extension-and-shift",
+      "to": "extended-cognition-refined",
+      "rel": "points_to",
+      "label": "Tools as Active Extensions of Cognition"
+    },
+    {
+      "from": "extension-and-shift",
+      "to": "hassabis-einstein-test",
+      "rel": "points_to",
+      "label": "The Einstein Test and the AGI Category Error"
+    },
+    {
+      "from": "extension-and-shift",
+      "to": "intelligence-traps-itself",
+      "rel": "points_to",
+      "label": "Intelligence Is the Thing Most Likely to Trap Itself"
+    },
+    {
+      "from": "extension-and-shift",
+      "to": "munger-dumb-competition-refined",
+      "rel": "points_to",
+      "label": "Dissolving Munger's Dumb Competition"
+    },
+    {
+      "from": "extension-and-shift",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "extension-and-shift",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
       "from": "externalized-virtue-becomes-its-opposite",
       "to": "evil-as-the-minds-own-creation",
       "rel": "points_to",
@@ -24406,6 +24560,66 @@
       "label": "Your Codebase Is Memory"
     },
     {
+      "from": "hassabis-einstein-test",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI 与 ASI 是加速通用智能的暂时球门"
+    },
+    {
+      "from": "hassabis-einstein-test",
+      "to": "extension-and-shift",
+      "rel": "points_to",
+      "label": "框内延伸与维度跃迁"
+    },
+    {
+      "from": "hassabis-einstein-test",
+      "to": "intelligence-crisis-response",
+      "rel": "points_to",
+      "label": "度量时滞与智能成本通缩"
+    },
+    {
+      "from": "hassabis-einstein-test",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
+    },
+    {
+      "from": "hassabis-einstein-test",
+      "to": "extension-and-shift",
+      "rel": "points_to",
+      "label": "Extension and Shift"
+    },
+    {
+      "from": "hassabis-einstein-test",
+      "to": "intelligence-crisis-response",
+      "rel": "points_to",
+      "label": "The Measurement Lag"
+    },
+    {
+      "from": "hassabis-einstein-test",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "hassabis-einstein-test",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "hassabis-einstein-test",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "hassabis-einstein-test",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
       "from": "hassabis-frontier-agi-premise",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
@@ -25640,6 +25854,54 @@
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
       "label": "Reality Is the Mind's Ongoing Realization"
+    },
+    {
+      "from": "huberman-winners-losers",
+      "to": "extended-cognition-refined",
+      "rel": "points_to",
+      "label": "作为认知主动延伸的工具"
+    },
+    {
+      "from": "huberman-winners-losers",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "huberman-winners-losers",
+      "to": "extended-cognition-refined",
+      "rel": "points_to",
+      "label": "Tools as Active Extensions of Cognition"
+    },
+    {
+      "from": "huberman-winners-losers",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "huberman-winners-losers",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "huberman-winners-losers",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "huberman-winners-losers",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
+      "label": "成功学"
+    },
+    {
+      "from": "huberman-winners-losers",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
+      "label": "Theories After Success"
     },
     {
       "from": "humans-tokens-and-the-scope-of-valuation",
@@ -27730,6 +27992,66 @@
       "label": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself"
     },
     {
+      "from": "intelligence-crisis-response",
+      "to": "ai-wont-kill-software-engineering",
+      "rel": "points_to",
+      "label": "AI 不会终结软件工程，而是将其扩展"
+    },
+    {
+      "from": "intelligence-crisis-response",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "intelligence-crisis-response",
+      "to": "ai-wont-kill-software-engineering",
+      "rel": "points_to",
+      "label": "AI Won't Kill Software Engineering, It Will Expand It"
+    },
+    {
+      "from": "intelligence-crisis-response",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "intelligence-crisis-response",
+      "to": "when-abundance-looks-like-scarcity",
+      "rel": "points_to",
+      "label": "当丰裕看似稀缺"
+    },
+    {
+      "from": "intelligence-crisis-response",
+      "to": "mises-state-analysis",
+      "rel": "points_to",
+      "label": "米塞斯论国家与强制力的向量和"
+    },
+    {
+      "from": "intelligence-crisis-response",
+      "to": "huberman-winners-losers",
+      "rel": "points_to",
+      "label": "赢家与输家的转化框架"
+    },
+    {
+      "from": "intelligence-crisis-response",
+      "to": "when-abundance-looks-like-scarcity",
+      "rel": "points_to",
+      "label": "When Abundance Looks Like Scarcity"
+    },
+    {
+      "from": "intelligence-crisis-response",
+      "to": "mises-state-analysis",
+      "rel": "points_to",
+      "label": "Mises on the State and the Vector Sum of Coercion"
+    },
+    {
+      "from": "intelligence-crisis-response",
+      "to": "huberman-winners-losers",
+      "rel": "points_to",
+      "label": "Winners and Losers in the Transmutation Frame"
+    },
+    {
       "from": "intelligence-folding-back-on-itself",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
@@ -27992,6 +28314,42 @@
       "to": "climbing-does-not-leave-the-ground",
       "rel": "points_to",
       "label": "Climbing Does Not Leave the Ground"
+    },
+    {
+      "from": "intelligence-traps-itself",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "清晰不是抵达的终点，而是运动本身"
+    },
+    {
+      "from": "intelligence-traps-itself",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
+    },
+    {
+      "from": "intelligence-traps-itself",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "intelligence-traps-itself",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永不成为第二道边缘"
+    },
+    {
+      "from": "intelligence-traps-itself",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "intelligence-traps-itself",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
     },
     {
       "from": "liberation-rhetoric-begins-by-defining-captivity",
@@ -29794,6 +30152,42 @@
       "label": "The Surface Beneath"
     },
     {
+      "from": "mises-state-analysis",
+      "to": "war-revolution-and-the-fall-of-empires",
+      "rel": "points_to",
+      "label": "战争、革命与帝国的衰落"
+    },
+    {
+      "from": "mises-state-analysis",
+      "to": "war-revolution-and-the-fall-of-empires",
+      "rel": "points_to",
+      "label": "War, Revolution, and the Fall of Empires"
+    },
+    {
+      "from": "mises-state-analysis",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "mises-state-analysis",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "mises-state-analysis",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "mises-state-analysis",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
       "from": "mistaking-the-expression-for-the-intelligence",
       "to": "the-homework-exam-inversion-registers-substitution",
       "rel": "points_to",
@@ -30572,6 +30966,42 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "munger-dumb-competition-refined",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "munger-dumb-competition-refined",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "munger-dumb-competition-refined",
+      "to": "extended-cognition-refined",
+      "rel": "points_to",
+      "label": "作为认知主动延伸的工具"
+    },
+    {
+      "from": "munger-dumb-competition-refined",
+      "to": "extended-cognition-refined",
+      "rel": "points_to",
+      "label": "Tools as Active Extensions of Cognition"
+    },
+    {
+      "from": "munger-dumb-competition-refined",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
+      "label": "成功学"
+    },
+    {
+      "from": "munger-dumb-competition-refined",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
+      "label": "Theories After Success"
     },
     {
       "from": "name-negation-tendency",
@@ -64391,6 +64821,12 @@
     },
     {
       "from": "the-scaffolding-we-forget",
+      "to": "extended-cognition-refined",
+      "rel": "points_to",
+      "label": "作为认知主动延伸的工具"
+    },
+    {
+      "from": "the-scaffolding-we-forget",
       "to": "curiosity-has-no-final-form",
       "rel": "points_to",
       "label": "好奇没有最终的形态"
@@ -64442,6 +64878,12 @@
       "to": "cli-interface-stack",
       "rel": "points_to",
       "label": "The Interface Stack"
+    },
+    {
+      "from": "the-scaffolding-we-forget",
+      "to": "extended-cognition-refined",
+      "rel": "points_to",
+      "label": "Tools as Active Extensions of Cognition"
     },
     {
       "from": "the-scaffolding-we-forget",
@@ -74511,7 +74953,7 @@
         "slug": "consciousness",
         "path": "content/book/consciousness.md",
         "title": "意识与第一人称先验 / Consciousness and the First-Person Prior",
-        "hash": "70239de45f33",
+        "hash": "199aa8f55c7c",
         "out_degree": 39
       },
       {
@@ -74520,7 +74962,7 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "5262f159b549",
+        "hash": "91d63f3f8af4",
         "out_degree": 28
       },
       {
@@ -74529,7 +74971,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "e086f54740b8",
+        "hash": "a0715bd322eb",
         "out_degree": 397
       },
       {
@@ -74538,7 +74980,7 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "73b57d85528d",
+        "hash": "e8b4ca4b4a69",
         "out_degree": 48
       },
       {
@@ -74583,7 +75025,7 @@
         "slug": "method",
         "path": "content/book/method.md",
         "title": "非万物之理 / Not a Theory of Everything",
-        "hash": "6246e4ef1096",
+        "hash": "a86ce4301e29",
         "out_degree": 26
       },
       {
@@ -74619,7 +75061,7 @@
         "slug": "state-and-collective",
         "path": "content/book/state-and-collective.md",
         "title": "国家集体与权力的镜像 / The State, Collectives, and the Mirror of Power",
-        "hash": "55c889d197f2",
+        "hash": "5e8b762efc78",
         "out_degree": 30
       },
       {
@@ -74628,7 +75070,7 @@
         "slug": "success-and-the-self",
         "path": "content/book/success-and-the-self.md",
         "title": "成功学公式与自我重塑 / The Formula of Success and Self-Reconstruction",
-        "hash": "8795aa2cb585",
+        "hash": "f19aad8c22f2",
         "out_degree": 33
       },
       {
@@ -74844,7 +75286,7 @@
         "from": "book:consciousness",
         "to": "extended-cognition-refined",
         "rel": "collects",
-        "label": "Tools as Active Extensions of Cognition"
+        "label": "作为认知主动延伸的工具 / Tools as Active Extensions of Cognition"
       },
       {
         "from": "book:consciousness",
@@ -75102,7 +75544,7 @@
         "from": "book:economics",
         "to": "intelligence-crisis-response",
         "rel": "collects",
-        "label": "The Measurement Lag"
+        "label": "度量时滞与智能成本通缩 / The Measurement Lag"
       },
       {
         "from": "book:economics",
@@ -75288,13 +75730,13 @@
         "from": "book:index-of-premises",
         "to": "huberman-winners-losers",
         "rel": "collects",
-        "label": "Winners/Losers: The Transmutation Frame"
+        "label": "赢家与输家的转化框架 / Winners and Losers in the Transmutation Frame"
       },
       {
         "from": "book:index-of-premises",
         "to": "extended-cognition-refined",
         "rel": "collects",
-        "label": "Tools as Active Extensions of Cognition"
+        "label": "作为认知主动延伸的工具 / Tools as Active Extensions of Cognition"
       },
       {
         "from": "book:index-of-premises",
@@ -75360,7 +75802,7 @@
         "from": "book:index-of-premises",
         "to": "munger-dumb-competition-refined",
         "rel": "collects",
-        "label": "Dissolving Munger's \"Dumb Competition\""
+        "label": "消解芒格的愚蠢竞争论 / Dissolving Munger's Dumb Competition"
       },
       {
         "from": "book:index-of-premises",
@@ -75438,7 +75880,7 @@
         "from": "book:index-of-premises",
         "to": "hassabis-einstein-test",
         "rel": "collects",
-        "label": "The Einstein Test and the AGI Category Error"
+        "label": "爱因斯坦测试与通用人工智能的范畴谬误 / The Einstein Test and the AGI Category Error"
       },
       {
         "from": "book:index-of-premises",
@@ -75684,7 +76126,7 @@
         "from": "book:index-of-premises",
         "to": "mises-state-analysis",
         "rel": "collects",
-        "label": "Mises on the State: Ontological Clarity Analysis"
+        "label": "米塞斯论国家与强制力的向量和 / Mises on the State and the Vector Sum of Coercion"
       },
       {
         "from": "book:index-of-premises",
@@ -76104,13 +76546,13 @@
         "from": "book:index-of-premises",
         "to": "huberman-winners-losers",
         "rel": "collects",
-        "label": "Winners/Losers: The Transmutation Frame"
+        "label": "赢家与输家的转化框架 / Winners and Losers in the Transmutation Frame"
       },
       {
         "from": "book:index-of-premises",
         "to": "intelligence-traps-itself",
         "rel": "collects",
-        "label": "Intelligence Is the Thing Most Likely to Trap Itself"
+        "label": "智能最容易困住的正是它自己 / Intelligence Is the Thing Most Likely to Trap Itself"
       },
       {
         "from": "book:index-of-premises",
@@ -76146,7 +76588,7 @@
         "from": "book:index-of-premises",
         "to": "extended-cognition-refined",
         "rel": "collects",
-        "label": "Tools as Active Extensions of Cognition"
+        "label": "作为认知主动延伸的工具 / Tools as Active Extensions of Cognition"
       },
       {
         "from": "book:index-of-premises",
@@ -76578,7 +77020,7 @@
         "from": "book:index-of-premises",
         "to": "mises-state-analysis",
         "rel": "collects",
-        "label": "Mises on the State: Ontological Clarity Analysis"
+        "label": "米塞斯论国家与强制力的向量和 / Mises on the State and the Vector Sum of Coercion"
       },
       {
         "from": "book:index-of-premises",
@@ -77148,7 +77590,7 @@
         "from": "book:index-of-premises",
         "to": "intelligence-crisis-response",
         "rel": "collects",
-        "label": "The Measurement Lag"
+        "label": "度量时滞与智能成本通缩 / The Measurement Lag"
       },
       {
         "from": "book:index-of-premises",
@@ -77856,7 +78298,7 @@
         "from": "book:index-of-premises",
         "to": "munger-dumb-competition-refined",
         "rel": "collects",
-        "label": "Dissolving Munger's \"Dumb Competition\""
+        "label": "消解芒格的愚蠢竞争论 / Dissolving Munger's Dumb Competition"
       },
       {
         "from": "book:index-of-premises",
@@ -78270,7 +78712,7 @@
         "from": "book:index-of-premises",
         "to": "extension-and-shift",
         "rel": "collects",
-        "label": "Extension and Shift"
+        "label": "框内延伸与维度跃迁 / Extension and Shift"
       },
       {
         "from": "book:index-of-premises",
@@ -78990,7 +79432,7 @@
         "from": "book:index-of-premises",
         "to": "hassabis-einstein-test",
         "rel": "collects",
-        "label": "The Einstein Test and the AGI Category Error"
+        "label": "爱因斯坦测试与通用人工智能的范畴谬误 / The Einstein Test and the AGI Category Error"
       },
       {
         "from": "book:index-of-premises",
@@ -79470,13 +79912,13 @@
         "from": "book:intelligence",
         "to": "hassabis-einstein-test",
         "rel": "collects",
-        "label": "The Einstein Test and the AGI Category Error"
+        "label": "爱因斯坦测试与通用人工智能的范畴谬误 / The Einstein Test and the AGI Category Error"
       },
       {
         "from": "book:intelligence",
         "to": "intelligence-traps-itself",
         "rel": "collects",
-        "label": "Intelligence Is the Thing Most Likely to Trap Itself"
+        "label": "智能最容易困住的正是它自己 / Intelligence Is the Thing Most Likely to Trap Itself"
       },
       {
         "from": "book:intelligence",
@@ -80238,7 +80680,7 @@
         "from": "book:method",
         "to": "extension-and-shift",
         "rel": "collects",
-        "label": "Extension and Shift"
+        "label": "框内延伸与维度跃迁 / Extension and Shift"
       },
       {
         "from": "book:method",
@@ -80694,7 +81136,7 @@
         "from": "book:state-and-collective",
         "to": "mises-state-analysis",
         "rel": "collects",
-        "label": "Mises on the State: Ontological Clarity Analysis"
+        "label": "米塞斯论国家与强制力的向量和 / Mises on the State and the Vector Sum of Coercion"
       },
       {
         "from": "book:state-and-collective",
@@ -80886,13 +81328,13 @@
         "from": "book:success-and-the-self",
         "to": "huberman-winners-losers",
         "rel": "collects",
-        "label": "Winners/Losers: The Transmutation Frame"
+        "label": "赢家与输家的转化框架 / Winners and Losers in the Transmutation Frame"
       },
       {
         "from": "book:success-and-the-self",
         "to": "munger-dumb-competition-refined",
         "rel": "collects",
-        "label": "Dissolving Munger's \"Dumb Competition\""
+        "label": "消解芒格的愚蠢竞争论 / Dissolving Munger's Dumb Competition"
       },
       {
         "from": "book:success-and-the-self",

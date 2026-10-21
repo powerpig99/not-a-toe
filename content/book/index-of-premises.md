@@ -78,7 +78,7 @@ Maddison reconstructed the thousand-fold expansion of the civilizational denomin
 
 Huberman maps human drive onto neurochemical protocols; invaluable for biological maintenance, it reduces sovereign purpose to mechanistic dopamine management.
 
-→ [Winners/Losers: The Transmutation Frame](../../posts/huberman-winners-losers/)
+→ [赢家与输家的转化框架 / Winners and Losers in the Transmutation Frame](../../posts/huberman-winners-losers/)
 
 ### 安迪·克拉克 / Andy Clark
 `哲学 / Philosophical`
@@ -87,7 +87,7 @@ Huberman maps human drive onto neurochemical protocols; invaluable for biologica
 
 Clark treats cognitive boundaries as fluid organism-tool assemblies; fruitful for cybernetics, it risks dissolving sovereign agency into passive feedback loops.
 
-→ [Tools as Active Extensions of Cognition](../../posts/extended-cognition-refined/)
+→ [作为认知主动延伸的工具 / Tools as Active Extensions of Cognition](../../posts/extended-cognition-refined/)
 
 ### 亚里士多德 / Aristotle
 `哲学 / Philosophical`
@@ -168,7 +168,7 @@ Chaos theory formalizes sensitive dependence and the limits of prediction, which
 
 Munger advocates mental models and avoiding unforced errors; peerless for capital preservation, it remains conservative when navigating unmapped, high-variance frontiers.
 
-→ [Dissolving Munger's "Dumb Competition"](../../posts/munger-dumb-competition-refined/)
+→ [消解芒格的愚蠢竞争论 / Dissolving Munger's Dumb Competition](../../posts/munger-dumb-competition-refined/)
 
 ### 克劳德·香农 / Claude Shannon
 `数学 / Mathematical`
@@ -258,7 +258,7 @@ Senra distills the journeys of historical titans into reusable mental models and
 
 Hassabis proposes discovering novel physics as the benchmark for AGI; useful as an engineering moonshot, it confuses hypothesis testing with paradigm-generating friction.
 
-→ [The Einstein Test and the AGI Category Error](../../posts/hassabis-einstein-test/)
+→ [爱因斯坦测试与通用人工智能的范畴谬误 / The Einstein Test and the AGI Category Error](../../posts/hassabis-einstein-test/)
 
 ### 智能的民主化 / Democratization of Intelligence
 `技术 / Technological`
@@ -537,7 +537,7 @@ Tom Zahavy's "LLMs can't jump" presumes that induction compresses patterns and d
 
 Mises deduces economics from human action axioms; brilliant for dismantling socialist calculation, it struggles where non-rational power asserts itself over market logic.
 
-→ [Mises on the State: Ontological Clarity Analysis](../../posts/mises-state-analysis/)
+→ [米塞斯论国家与强制力的向量和 / Mises on the State and the Vector Sum of Coercion](../../posts/mises-state-analysis/)
 
 ### 路德维希·维特根斯坦 / Ludwig Wittgenstein
 `哲学 / Philosophical`
@@ -1023,7 +1023,7 @@ Critical elimination can discard what follows from a distinction, which is of us
 
 Neurobiological framing treats dopamine as the causal origin of achievement; neurochemistry registers metabolic readiness, whereas value choice belongs to living intent.
 
-→ [Winners/Losers: The Transmutation Frame](../../posts/huberman-winners-losers/)
+→ [赢家与输家的转化框架 / Winners and Losers in the Transmutation Frame](../../posts/huberman-winners-losers/)
 
 ### 达克效应反转 / Dunning-Kruger Inversion
 `科学 / Scientific`
@@ -1032,7 +1032,7 @@ Neurobiological framing treats dopamine as the causal origin of achievement; neu
 
 The Dunning-Kruger framework tracks incompetence overconfidence; at high capability, intelligence constructs sophisticated rationalizations, making internal errors harder to pierce.
 
-→ [Intelligence Is the Thing Most Likely to Trap Itself](../../posts/intelligence-traps-itself/)
+→ [智能最容易困住的正是它自己 / Intelligence Is the Thing Most Likely to Trap Itself](../../posts/intelligence-traps-itself/)
 
 ### 达克效应 / Dunning–Kruger Effect
 `科学 / Scientific`
@@ -1077,7 +1077,7 @@ Expected utility theory treats one coherent preference structure as interpersona
 
 Extended cognition argues external artifacts form part of the mind; useful for analyzing computational scaffolds, it blurs the boundary of conscious first-person awareness.
 
-→ [Tools as Active Extensions of Cognition](../../posts/extended-cognition-refined/) · [维度即投影 / Dimensions Are Projections](../../posts/dimensions-are-projections/)
+→ [作为认知主动延伸的工具 / Tools as Active Extensions of Cognition](../../posts/extended-cognition-refined/) · [维度即投影 / Dimensions Are Projections](../../posts/dimensions-are-projections/)
 
 ### 证伪主义 / Falsificationism
 `哲学 / Philosophical`
@@ -1509,7 +1509,7 @@ The power law is of use in describing the shape of outcomes within an observatio
 
 Praxeology presumes purposeful human action underlies economic value; invaluable against mechanical aggregates, it brackets biological and institutional coercion.
 
-→ [Mises on the State: Ontological Clarity Analysis](../../posts/mises-state-analysis/)
+→ [米塞斯论国家与强制力的向量和 / Mises on the State and the Vector Sum of Coercion](../../posts/mises-state-analysis/)
 
 ### 最小作用量原理 / Principle of Least Action
 `科学 / Scientific`
@@ -2186,7 +2186,7 @@ Calls to pause AI take slowing down as a guard against risk, which is of use in 
 
 Macroeconomic statistics assume technological productivity shows up immediately in margins; institutional inertia and retraining delay the visible accounting payoff.
 
-→ [The Measurement Lag](../../posts/intelligence-crisis-response/)
+→ [度量时滞与智能成本通缩 / The Measurement Lag](../../posts/intelligence-crisis-response/)
 
 ### 「更好」的客观化范畴谬误 / Category Error of Better
 `哲学 / Philosophical`
@@ -3149,7 +3149,7 @@ Treating intrinsic curiosity as the engine of talent presumes a drive set beside
 
 Inversion assumes avoiding failure modes automatically surfaces success; useful in closed games, it produces paralysis in open-ended creative undertakings.
 
-→ [Dissolving Munger's "Dumb Competition"](../../posts/munger-dumb-competition-refined/)
+→ [消解芒格的愚蠢竞争论 / Dissolving Munger's Dumb Competition](../../posts/munger-dumb-competition-refined/)
 
 ### 隐性自由变量 / Invisible Free Variable
 `科学 / Scientific`
@@ -3716,7 +3716,7 @@ Hailing a Phase 3 readout as hope arriving overnight is of use in making a thres
 
 Epistemologies conflate refining existing premises with genuine discovery; increasing precision on a flawed axis compounds error until an orthogonal frame shift occurs.
 
-→ [Extension and Shift](../../posts/extension-and-shift/)
+→ [框内延伸与维度跃迁 / Extension and Shift](../../posts/extension-and-shift/)
 
 ### 沉重抉择的认知重负 / Paralysis of Heavy Choice
 `成功学 / Self-Help`
@@ -4661,7 +4661,7 @@ Presumes good can be isolated and maximized as a standalone cosmic entity; usefu
 
 The test assumes genuine scientific insight is an optimization problem over hypotheses; revolutionary insight requires re-evaluating foundational premises, not merely searching state spaces.
 
-→ [The Einstein Test and the AGI Category Error](../../posts/hassabis-einstein-test/)
+→ [爱因斯坦测试与通用人工智能的范畴谬误 / The Einstein Test and the AGI Category Error](../../posts/hassabis-einstein-test/)
 
 ### 心智之间的直接沟通 / Direct Communication Between Minds
 `哲学 / Philosophical`

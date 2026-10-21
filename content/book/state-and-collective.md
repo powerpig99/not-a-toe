@@ -13,7 +13,7 @@ The essays here examine the cruelty of utopian visions, the machinery of war, an
 ## 篇目 / Essays
 
 - [约束即基底与作为平台的个体 / Constraints Are Ground](../../posts/constraints_are_ground/)
-- [Mises on the State: Ontological Clarity Analysis](../../posts/mises-state-analysis/)
+- [米塞斯论国家与强制力的向量和 / Mises on the State and the Vector Sum of Coercion](../../posts/mises-state-analysis/)
 - [臣服作为错位的主权 / Surrender as Misaligned Sovereignty](../../posts/sovereignty-essay/)
 - [现实不按委员会开账单 / Reality Doesn't Invoice by Committee](../../posts/reality-doesnt-invoice-by-committee/)
 - [良知、委托与管辖权错位 / Conscience, Delegation, and the Jurisdiction Error](../../posts/conscience-power-delegation/)
