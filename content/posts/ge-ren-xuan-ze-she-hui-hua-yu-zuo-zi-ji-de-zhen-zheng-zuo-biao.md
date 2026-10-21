@@ -24,15 +24,9 @@ Every social phenomenon, traced back far enough, begins in concrete individual c
 
 A common reading is that socialization is "enough individuals making similar choices over a long time". Seen from the side of the choosing, it runs the other way: **the apparent structure of society holds steady mostly not because individuals converge, but because great numbers of individuals form a self-reinforcing feedback loop in complementary ways.**
 
-这种互补的反馈主要以两种形式运行：
+这种互补的反馈主要以两种形式运行。第一种是补偿式互补，利己的选择与利他的选择相互补偿，激进的探索与保守的守序相互分工；一种选择模式留下的外部性或亏欠，被另一种互补的选择吸收、兜底，在统计层面呈现为代谢的稳态。第二种是对抗式互补，刚性的制度与反抗它的社会行动之间相互拉锯；反抗本身也是既有系统反馈控制的一部分，双方在对抗中相互依存，共同维系了这一社会形态的表面框架。[革命之名把生活收成证据](../the-name-revolution-files-a-life-as-evidence/)揭示了这种互补如何被书名预先植入：一旦一个人的下一步被命名为“私人革命”，既有秩序便已成了句子的主语，随后的推介不过是把这个主语归档为旧印象的新证据。
 
-This complementary feedback runs mainly in two forms:
-
-1. **补偿式互补**：利己的选择与利他的选择相互补偿，激进的探索与保守的守序相互分工。一种选择模式留下的外部性或亏欠，被另一种互补的选择吸收、兜底，在统计层面呈现为代谢的稳态。
-2. **对抗式互补**：刚性的制度与反抗它的社会行动之间相互拉锯。反抗本身也是既有系统反馈控制的一部分，双方在对抗中相互依存，共同维系了这一社会形态的表面框架。[革命之名把生活收成证据](../the-name-revolution-files-a-life-as-evidence/)展示了这种互补被书名提前装上的一面：一个人的下一步被称作私人革命之后，秩序就已经是句子的主语，随后的推荐把这个主语收成旧印象的新证据。
-
-1. **Compensating complementarity**: self-interested choices and altruistic choices compensate each other, and radical exploring and conservative keeping of order divide the work between them. The externality or debt one pattern of choice leaves behind is absorbed and underwritten by a complementary choice, and at the statistical level this shows as a metabolic steady state.
-2. **Adversarial complementarity**: a rigid institution and the social action that resists it pull against each other. The resistance is itself part of the existing system's feedback control; the two sides depend on each other in the contest and together keep up the surface frame of that social form. [The Name Revolution Files a Life as Evidence](../the-name-revolution-files-a-life-as-evidence/) shows the face of this complementarity that a book's title installs in advance: once a person's next step is called a private revolution, the order is already the subject of the sentence, and the recommendation that follows files that subject as new evidence for an old impression.
+This complementary feedback runs mainly in two forms. First is compensating complementarity, where self-interested choices and altruistic choices compensate each other, and radical exploring and conservative keeping of order divide the work between them; the externality or debt one pattern of choice leaves behind is absorbed and underwritten by a complementary choice, and at the statistical level this shows as a metabolic steady state. Second is adversarial complementarity, where a rigid institution and the social action that resists it pull against each other; the resistance is itself part of the existing system's feedback control, so the two sides depend on each other in the contest and together keep up the surface frame of that social form. [The Name Revolution Files a Life as Evidence](../the-name-revolution-files-a-life-as-evidence/) shows the face of this complementarity that a book's title installs in advance: once a person's next step is called a private revolution, the order is already the subject of the sentence, and the recommendation that follows files that subject as new evidence for an old impression.
 
 [自由即地基](../freedom-as-ground/)把社会契约追溯到同一处：社会契约是无数个体以各种互补方式自由交互留下的集体轨迹；它既是后来者做新选择时的参考地形，也是每一个行动都要承担其后果的背景。
 
@@ -110,15 +104,9 @@ flowchart TD
     style M1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-看不清这种互补回路的因果，两极的应对都会陷入被动：
+看不清这种互补回路的因果，两极的应对都会陷入被动。在孤立对抗的一极（“我只管做自己，不管社会怎样”），人把反抗当作做自己，没有注意到激烈的对抗恰好补上了系统预留的对抗角色，仍旧被锁在旧回路的重力场里，遇到阻力时容易把阻力读成社会对自由的扼杀；而从选择者的位置看，摩擦只是当前的选择与既有痕迹场之间的失配，因果的源头与调整的杠杆一直在自己这一边。在全盘迎合的一极（“融入规则，借规则为自己谋利”），人主动钻进既有回路充当螺丝钉，把适应规则变成在存量利益里的相互争夺，把他人当成可以消耗的资源，压缩了他人的边界，也把自己的生命力锁在零和博弈的窄道里。
 
-Without seeing the causation of these complementary loops, the responses at both poles fall into passivity:
-
-- **孤立对抗的一极**（“我只管做自己，不管社会怎样”）：把反抗当作做自己，没有注意到激烈的对抗可能恰好补上了系统预留的对抗角色，仍旧被锁在旧回路的重力场里；遇到阻力时，容易把阻力读成社会对自由的扼杀。从选择者的位置看，摩擦只是当前的选择与既有痕迹场之间的失配，因果的源头与调整的杠杆一直在自己这一边。
-- **全盘迎合的一极**（“融入规则，借规则为自己谋利”）：主动钻进既有回路充当螺丝钉，把适应规则变成在存量利益里的相互争夺。这样做把他人当成可以消耗的资源，压缩了他人的边界，也把自己的生命力锁在零和博弈的窄道里。
-
-- **The pole of isolated defiance** ("I just do me, whatever society does"): taking resistance for being oneself, without noticing that fierce opposition may fill exactly the adversarial role the system has kept open, so that one stays locked in the gravity field of the old loop; meeting resistance, it is easy to read the resistance as society strangling freedom. From where the chooser stands, the friction is only a mismatch between the present choice and the existing field of traces, and the source of causation and the lever of adjustment have been on one's own side all along.
-- **The pole of wholesale accommodation** ("blend into the rules and use them for one's own gain"): actively boring into the existing loop to serve as one of its screws, turning adaptation to the rules into a contest over a fixed stock of interests. This treats others as resources to be used up, narrows their boundaries, and locks one's own vitality into the narrow lane of the zero-sum game.
+Without seeing the causation of these complementary loops, the responses at both poles fall into passivity. At the pole of isolated defiance ("I just do me, whatever society does"), one takes resistance for being oneself without noticing that fierce opposition may fill the exact adversarial role the system has kept open, staying locked in the gravity field of the old loop and reading friction as society strangling freedom; yet from where the chooser stands, the friction is only a mismatch between the present choice and the existing field of traces, and the source of causation and the lever of adjustment have been on one's own side all along. At the pole of wholesale accommodation ("blend into the rules and use them for one's own gain"), one actively bores into the existing loop to serve as one of its screws, turning adaptation to the rules into a contest over a fixed stock of interests that treats others as resources to be used up, narrows their boundaries, and locks one's own vitality into the narrow lane of the zero-sum game.
 
 这两极不是两类人，而是同一个心智在不同的处境下都可能经过的位置；两者都把因果的源头放在自己之外，一个向外对抗，一个向外依附。
 
@@ -152,9 +140,9 @@ Along the dimension of time, every mainstream social phenomenon the eye can obse
 
 Someone always first makes discrete choices and explorations in an edge direction others have not yet noticed; these new traces spread and resonate by degrees, and only when most people have at last adapted and formed a consensus do they harden into the "social norm" the public takes for granted.
 
-把“适应既有的社会规范”当成人生的终极目标，等于主动把自己锚定在历史进程滞后的尾端，处在被动受力的位置。反过来，尽可能向前看，看到那些尚未被充分格式化的前沿方向，此时所做的一切首先是在拓展自己的认知与行动边界；同时，这些探索作为新的高共振痕迹注入场中，成为后来者落脚的基石。[持续生长的脚手架](../the-scaffolding-that-keeps-growing/)写出了这种生长的规律：边缘先动，痕迹后至；改善自己与推动社会，是同一个活动在不同时间尺度上的展开。社会规律只是个体抉择在时间中的沉淀，[自由的测不准](../zi-you-de-ce-bu-zhun/)从统计的一侧讲清了这一点。
+把“适应既有的社会规范”当成人生的终极目标，等于主动把自己锚定在历史进程滞后的尾端，处在被动受力的位置。反过来，尽可能向前看，看到那些尚未被充分格式化的前沿方向，此时所做的一切首先是在拓展自己的认知与行动边界；同时，这些探索作为新的高共振痕迹注入场中，成为后来者落脚的基石。[持续生长的脚手架](../the-scaffolding-that-keeps-growing/)与[你的代码库即是记忆](../your-codebase-is-memory/)写出了这种生长的规律：清醒的边缘先动，铭刻的痕迹后至，因此改善自己与推进共享的记忆晶格，是同一个活动在不同时间尺度上的展开。社会规律只是个体抉择在时间中的沉淀，[自由的测不准](../zi-you-de-ce-bu-zhun/)从统计的一侧讲清了这一点。
 
-Making "adapting to the existing social norms" the final goal of a life amounts to anchoring oneself at the lagging tail of history's course, in the position of being moved by forces rather than moving. Conversely, looking as far ahead as one can, to the frontier directions not yet fully formatted, everything done there first widens one's own boundaries of understanding and action; at the same time these explorations enter the field as new, highly resonant traces and become footholds for those who come later. [The Scaffolding That Keeps Growing](../the-scaffolding-that-keeps-growing/) sets out the pattern of this growth: the edge moves first, the traces arrive after; improving oneself and moving society forward are one activity unfolding on different scales of time. Social regularities are only the sediment of individual choices over time, as [The Uncertainty of Freedom](../zi-you-de-ce-bu-zhun/) makes clear from the statistical side.
+Making "adapting to the existing social norms" the final goal of a life amounts to anchoring oneself at the lagging tail of history's course, in the position of being moved by forces rather than moving. Conversely, looking as far ahead as one can, to the frontier directions not yet fully formatted, everything done there first widens one's own boundaries of understanding and action; at the same time these explorations enter the field as new, highly resonant traces and become footholds for those who come later. [The Scaffolding That Keeps Growing](../the-scaffolding-that-keeps-growing/) and [Your Codebase Is Memory](../your-codebase-is-memory/) trace this exact asymmetry between the living cut and its externalized residue: just as a codebase or scaffolding is memory inscribed and consolidated after the waking edge has already discriminated, social norms are stabilized traces that trail behind the live choices that generated them, so renewing one's own edge and reshaping the shared lattice are one activity unfolding across scales of time. Social regularities are only the sediment of individual choices over time, as [The Uncertainty of Freedom](../zi-you-de-ce-bu-zhun/) makes clear from the statistical side.
 
 ## 四、 做自己的真正坐标，在痕迹场中持续更新 / 4. The True Coordinates of Being Oneself, Renewed in the Trace Field
 
@@ -162,7 +150,7 @@ Making "adapting to the existing social norms" the final goal of a life amounts 
 
 Socialization has never been an outside command to be blindly obeyed or resisted; it is only a description of the present density of the field of traces.
 
-“做自己”也不是刻舟求剑式地守住某一道旧的刻痕。并不存在一个可以被静态封装、不可更改的“不变自我”。自我是在持续做出离散选择、承受反馈、不断迭代之中更新的行动主体；对正从校园步入更广阔天地的学生与年轻人来说，尤其如此。
+“做自己”也不是刻舟求剑式地守住某一道旧的刻痕。世上没有一个可以静态封装、永不更改的“不变自我”。自我是在持续做出离散选择、承受反馈、不断迭代之中更新的行动主体；对正从校园步入更广阔天地的学生与年轻人来说，尤其如此。
 
 Nor is "being oneself" guarding some old notch cut in the side of a moving boat. There is no "unchanging self" that can be statically sealed and never altered. The self is an acting subject renewed in the ongoing making of discrete choices, bearing of feedback and iteration; for students and young people stepping from campus into a wider world, this holds all the more.
 

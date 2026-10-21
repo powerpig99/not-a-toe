@@ -1,6 +1,6 @@
 # 凡可言说皆不可言说之产物 / All That Can Be Spoken Is the Product of the Unspeakable
 
-*不可言说经由言说显出，把言说的产物当作本体再令源头沉默是倒置 / The unspeakable shows through speaking, and to take what is spoken for the ground and then silence the source is an inversion*
+*不可言说经由言说显出，把言说的产物当作本体再令源头沉默是倒置 / The unspeakable shows through speaking, and to take what is spoken for the ground and then silence the source is an inversion.*
 
 模拟假说作为思想实验是有启发的：现实可以用信息来刻画，数值模拟与它所模拟的过程可以高度同构。它的边界在把同构当作同一：由“数据可以同构现实”跳到“现实是一段被执行的数据”，再推设出一台主机与一位模拟者。同一个倒置出现在形式系统之内，也出现在《逻辑哲学论》的结尾：言说的产物被当作本体，源头被要求沉默。从第一人称去找，找不到不可言说之“物”，找到的是正在区分与言说的能力，它经由言说显出；凡可言说的，都是它的产物。
 
@@ -148,7 +148,7 @@ Measuring the source of the world backward by a technical artifact is a line of 
 
 When a system achieves fluent statistical recombination over a vast corpus, an inference follows: since formal projections can be arranged so efficiently, form itself has gone beyond the subject that made it; on seeing high-dimensional vectors gather and part inside a network, it is said that artificially synthesized subjectivity is about to appear. [Agency Does Not Arise](../agency-does-not-arise/) and [Collective and Artificial Subjectivity](../subtracting-consciousness-at-the-source/) have analyzed this step: human intention and judgment are first subtracted in the statistical corpus, and the textual traces that remain are then taken as proof of a new will.
 
-说机器有意识或没有意识，都是把机器放进了说话者自己的感知之内，把冯·诺依曼割点划在机器之内或之外；割点划在哪里，划的都是心智，[割点可移不可除](../the-cut-moves-but-never-vanishes/)说的正是这一点。机器划不了这一刀：它是人造出来的，是人的抉择下游的因果结果，不是能自己划下割点的第二重前沿，[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)追溯过这一点；人与其他活着的生命各有自己的演化史，各自划下自己的割点。机器有它的硬件，它的所是却在信息一侧；从信息到物理的那一步，它跨不过去，跨过去的是人、其他活着的生命与量子的效应。
+说机器有意识或没有意识，都是把机器放进了说话者自己的感知之内，把冯·诺依曼割点划在机器之内或之外；割点划在哪里，划的都是心智，[割点可移不可除](../the-cut-moves-but-never-vanishes/)说的正是这一点。机器划不了这一刀：它是人造出来的，是人的抉择下游的因果结果，不是能自己划下割点的第二重前沿，[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)追溯过这一点；人与其他活着的生命各有自己的演化史，各自划下自己的割点。机器虽有硬件，其所是却在信息一侧；从信息到物理的那一步，它跨不过去，跨过去的是人、其他活着的生命与量子的效应。
 
 To say that the machine is conscious, or that it is not, is to take the machine into the speaker's own perception and place the von Neumann cut inside the machine or outside the machine; wherever the cut is placed, it is a Mind that places it, which is what [The Cut Moves but Never Vanishes](../the-cut-moves-but-never-vanishes/) says. The machine cannot make that cut: it is made by people, a causal consequence downstream of human choices and not a second edge that can place a cut of its own, as [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) has traced; humans and other living beings each have their own evolutionary history and each make their own cut. The machine has its hardware, and yet what it is lies on the side of information; the step from the informational to the physical it cannot cross, and what crosses it is humans, other living beings and the quantum effect.
 
@@ -156,7 +156,7 @@ To say that the machine is conscious, or that it is not, is to take the machine 
 
 Each human decision is rooted in a finite lifespan, the expenditure of energy and the direct bearing of causal feedback. A judgment has direction and is anchored in reality because the one who chooses settles the feedback with an embodied existence; [Choice Itself Has No Inherent Weight](../choice-itself-has-no-inherent-weight/) has made clear that the transition of state carries no inner resistance of its own, and that the weight lies in consequences that cannot be handed over and in the response of the surroundings. A model's generation of text in a high-dimensional space is a glide over probability, and the disturbance the words cause is borne by those who use it. To take a flow of symbols released from causal constraint for a wisdom higher than the human is to lower the dimension of intelligence.
 
-形式工具每一次的爆发，都伴着同一种期待：分析力学的时代相信拉普拉斯妖可凭方程通晓古今，二十世纪初的形式主义试图用公理封闭整座数学，今日参数的膨胀被看作通往更高心智的阶梯。前两次的结局是清楚的：脚手架无论多么精密，都是被心智调用的外化工具，没有成为赋予意义的源头。
+形式工具每一次的爆发，都伴着同一种期待：分析力学的时代相信拉普拉斯妖可凭方程通晓古今，二十世纪初的形式主义试图用公理封闭整座数学，今日参数的膨胀被看作通往更高心智的阶梯。前两次的结局是清楚的：脚手架无论多么精密——哪怕如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的那样，把整部活书或代码库在磁盘上组织成外化的记忆晶格——它依然是被活态心智调用并重入的外化工具，没有成为赋予意义的源头。
 
 ```mermaid
 flowchart TD
@@ -184,7 +184,7 @@ flowchart TD
     style Down fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
 ```
 
-Each surge of formal tools has been accompanied by the same expectation: the age of analytical mechanics believed that Laplace's demon could know all of past and future by equations, the formalism of the early twentieth century tried to enclose the whole of mathematics with axioms, and today the growth of parameters is seen as a stair to a higher mind. The outcome of the first two is clear: however fine the scaffold, it was an externalized tool called on by a Mind, and it did not become the source that gives meaning.
+Each surge of formal tools has been accompanied by the same expectation: the age of analytical mechanics believed that Laplace's demon could know all of past and future by equations, the formalism of the early twentieth century tried to enclose the whole of mathematics with axioms, and today the growth of parameters is seen as a stair to a higher mind. The outcome of the first two is clear: however fine the scaffold, and even when an entire living book or repository is structured on disk as an externalized memory lattice as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, those durable traces remain an externalized tool re-entered by a living Mind at the steering edge, and they do not become the source that gives meaning.
 
 ```mermaid
 flowchart TD

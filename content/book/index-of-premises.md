@@ -3851,7 +3851,7 @@ Presumes population averages dictate individual physiological optimization; nece
 
 Sentimental culture equates love with dependency and mutual helplessness; authentic care flourishes when two autonomous centers meet beyond compulsive need.
 
-→ [When Need Stops Being the Measure](../../posts/when-need-stops-being-the-measure/)
+→ [当被需要不再是尺度 / When Need Stops Being the Measure](../../posts/when-need-stops-being-the-measure/)
 
 ### 富足育儿的成因错位 / Post-Success Parenting Fallacy
 `成功学 / Self-Help`

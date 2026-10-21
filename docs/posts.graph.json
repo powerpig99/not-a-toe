@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T07:24:35.578Z",
+    "generated_at": "2026-10-21T07:41:32.039Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -12,7 +12,7 @@
       "content/posts/a-creation-cannot-replace-its-source.md": "9a74de98bdc1",
       "content/posts/a-living-external-cortex.md": "d620e21cddfc",
       "content/posts/a-new-deeper-look-at-antifragility.md": "a51cf4a49a6f",
-      "content/posts/abstract-pain-and-living-hunger.md": "2e4f27bcaae8",
+      "content/posts/abstract-pain-and-living-hunger.md": "8b69f6ffa076",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "ab494c775721",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "5cd7cb7519fa",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "ec3480fb850e",
@@ -22,7 +22,7 @@
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "4d7f22ced380",
       "content/posts/ai-as-augmentation.md": "f0a8c8f069ef",
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
-      "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "67468da824c1",
+      "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "d1389d688b79",
       "content/posts/amplification-paradox.md": "a275c141a687",
       "content/posts/an-observation-by-its-own-standard.md": "1d44b8371330",
       "content/posts/better-than-free-after-the-checklist-closes.md": "d39b1b10df08",
@@ -61,7 +61,7 @@
       "content/posts/data-is-local-intelligence-is-allocated.md": "add6923af446",
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "5f788bf55578",
       "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "ccb4b3e58dea",
-      "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "4fdac1ab3e30",
+      "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "e15614705dff",
       "content/posts/dimensions-are-projections.md": "4e5cf6607b3f",
       "content/posts/distillation-compression-agency.md": "a69508711063",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "1b67e9d4ce82",
@@ -81,14 +81,14 @@
       "content/posts/externalized-virtue-becomes-its-opposite.md": "d465dbb1da43",
       "content/posts/failure-as-information.md": "98ca1f79bd34",
       "content/posts/fate-loves-irony-refined.md": "b81c7f96dfd5",
-      "content/posts/felt-resistance-and-the-speed-differential.md": "067a958b2103",
+      "content/posts/felt-resistance-and-the-speed-differential.md": "7c688ab6bc0e",
       "content/posts/fidelity-not-optimality.md": "7ed073d86a59",
       "content/posts/fixed-by-nothing.md": "9f5437174a82",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
       "content/posts/freedom-as-ground.md": "76afe66c491b",
       "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "49034385ba4b",
       "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "0ea3bc80574b",
-      "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "49e11e207c1c",
+      "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "a2f03c17ade1",
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "48b125c5031e",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "93c650d4e105",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
@@ -115,7 +115,7 @@
       "content/posts/looping-and-graphing.md": "81007251f9d4",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "edbfa0fe5c9b",
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "d7b5f20a6f6a",
-      "content/posts/manifesto-of-not-a-theory-of-everything.md": "218bcf935275",
+      "content/posts/manifesto-of-not-a-theory-of-everything.md": "5b88319c7739",
       "content/posts/math-as-a-career-is-not-math-as-a-pursuit.md": "295f0ae6bd95",
       "content/posts/meaning-of-life-refined.md": "2157fd1da622",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "02c235243d39",
@@ -181,14 +181,14 @@
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "effb27d0037a",
       "content/posts/shared-humanity-is-never-shared.md": "667dd03af694",
-      "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "c742acb86d86",
+      "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "94134cb1fdd7",
       "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "6e6001066898",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "2a91f58a7d13",
       "content/posts/sovereignty-essay.md": "10d294546a2a",
       "content/posts/sowell-observed-the-surface-problem.md": "6a0b158cce39",
       "content/posts/stability-and-excess.md": "25b813029b34",
-      "content/posts/studying-the-effect-of-ai-relocates-causality.md": "a5ed80a2c8d3",
+      "content/posts/studying-the-effect-of-ai-relocates-causality.md": "48fed4ebc465",
       "content/posts/subtracting-consciousness-at-the-source.md": "df1242fc6ba9",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "479475155344",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "5f0985544543",
@@ -202,7 +202,7 @@
       "content/posts/the-bank-shot-and-the-magic-trick.md": "fc402ee12141",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "2dba3585eee1",
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "b52ca2cdd064",
-      "content/posts/the-blind-spot-of-the-frame.md": "800c2e8eaedd",
+      "content/posts/the-blind-spot-of-the-frame.md": "58380de3c7fd",
       "content/posts/the-boundary-crossing-of-choice.md": "795c21ece259",
       "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "2f3a0106f008",
       "content/posts/the-boundary-of-the-frame.md": "6e148e2a6922",
@@ -216,7 +216,7 @@
       "content/posts/the-causal-overstep-of-observation-and-the-first-person-surplus.md": "6c191f9ad616",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "0d5b45a35c75",
       "content/posts/the-closed-loop-of-representation.md": "659ee6fdc53f",
-      "content/posts/the-closed-n-and-the-open-reality.md": "cdca9be1b6fb",
+      "content/posts/the-closed-n-and-the-open-reality.md": "69b0afc8a6d7",
       "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "fd790ca70240",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
       "content/posts/the-comment-is-not-the-code.md": "8e17d5f4ad0e",
@@ -228,7 +228,7 @@
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "611d8684bdd6",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
-      "content/posts/the-deterministic-machine.md": "7ba9e608ee16",
+      "content/posts/the-deterministic-machine.md": "fbf2680f40d1",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "0dc8080b8644",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "84960aa9f76c",
       "content/posts/the-discount-on-agency.md": "754aac28467d",
@@ -387,7 +387,7 @@
       "content/posts/when-abundance-looks-like-scarcity.md": "c3c272357465",
       "content/posts/when-electrons-think.md": "fbdd3178e8f3",
       "content/posts/when-malfunction-is-scored-as-intelligence.md": "8adae7d53567",
-      "content/posts/when-need-stops-being-the-measure.md": "a4f550ad30d1",
+      "content/posts/when-need-stops-being-the-measure.md": "d751b4079d88",
       "content/posts/when-observation-becomes-performance.md": "fc49af651c83",
       "content/posts/when-the-effect-authors-the-frame.md": "7d330f511260",
       "content/posts/why-explanation-fails.md": "4bd98e24db9a",
@@ -408,14 +408,14 @@
       "content/book/causality.md": "477893ec526b",
       "content/book/consciousness.md": "d8595aa6097d",
       "content/book/economics.md": "c863f3bd1a44",
-      "content/book/index-of-premises.md": "fd183a644b8f",
+      "content/book/index-of-premises.md": "0e32ddba22f8",
       "content/book/intelligence.md": "8530f0e466c0",
       "content/book/knowledge-and-learning.md": "51d92651b2ed",
       "content/book/life-and-statistics.md": "903bd0f56d99",
       "content/book/mathematics.md": "511585102871",
       "content/book/meaning-and-transcendence.md": "ce5168a72c34",
       "content/book/method.md": "6246e4ef1096",
-      "content/book/morality.md": "f9ec3b11ce49",
+      "content/book/morality.md": "e3bbc3de8dcd",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "d0065384016a",
       "content/book/state-and-collective.md": "7d0cb00e0e55",
@@ -424,10 +424,10 @@
     },
     "stats": {
       "posts": 397,
-      "edges": 10268,
-      "unique_directed": 5077,
+      "edges": 10283,
+      "unique_directed": 5080,
       "missing_targets": 0,
-      "one_way": 577,
+      "one_way": 598,
       "isolated": 35,
       "posts_with_outbound": 361,
       "book_pages": 16,
@@ -438,7 +438,7 @@
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 236
+      "in_degree": 248
     },
     {
       "slug": "beyond-the-projection",
@@ -458,7 +458,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 63
+      "in_degree": 62
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
@@ -470,11 +470,11 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "in_degree": 53
+      "in_degree": 52
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
-      "in_degree": 43
+      "in_degree": 42
     },
     {
       "slug": "causality-stays-at-the-edge-that-steers",
@@ -729,12 +729,13 @@
       "slug": "abstract-pain-and-living-hunger",
       "path": "content/posts/abstract-pain-and-living-hunger.md",
       "title": "抽象的苦难与真实的饥饿 / Abstract Pain and Living Hunger",
-      "hash": "2e4f27bcaae8",
+      "hash": "8b69f6ffa076",
       "in_degree": 8,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "the-ledger-of-the-unencountered",
         "the-arithmetic-of-the-register",
+        "your-codebase-is-memory",
         "agency-relocated-into-the-formal-model",
         "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
         "the-causal-order-of-private-residuals-and-social-surplus",
@@ -973,9 +974,9 @@
       "slug": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
       "path": "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md",
       "title": "凡可言说皆不可言说之产物 / All That Can Be Spoken Is the Product of the Unspeakable",
-      "hash": "67468da824c1",
+      "hash": "d1389d688b79",
       "in_degree": 7,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "one-cannot-escape-ones-own-mind",
@@ -984,6 +985,7 @@
         "the-cut-moves-but-never-vanishes",
         "the-model-never-becomes-a-second-edge",
         "choice-itself-has-no-inherent-weight",
+        "your-codebase-is-memory",
         "the-potential-infinity-of-operators-and-the-finite-horizon-of-records"
       ]
     },
@@ -2015,9 +2017,9 @@
       "slug": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "path": "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md",
       "title": "确定性是微观不确定性的统计签名 / Determinism is the Statistical Signature of Micro-Indeterminism",
-      "hash": "4fdac1ab3e30",
+      "hash": "e15614705dff",
       "in_degree": 10,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "the-explanatory-trap-of-the-ordinary-perspective",
         "fixed-by-nothing",
@@ -2026,7 +2028,8 @@
         "when-electrons-think",
         "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
         "the-illusion-of-the-shared-sandbox",
-        "the-residue-and-the-free-variable"
+        "the-residue-and-the-free-variable",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -2137,7 +2140,7 @@
       "path": "content/posts/emotional-support-as-causal-interference.md",
       "title": "作为因果干扰的情感支持 / Emotional Support as Causal Interference",
       "hash": "4c4a477833bd",
-      "in_degree": 9,
+      "in_degree": 8,
       "out_degree": 10,
       "links_out": [
         "your-codebase-is-memory",
@@ -2466,14 +2469,15 @@
       "slug": "felt-resistance-and-the-speed-differential",
       "path": "content/posts/felt-resistance-and-the-speed-differential.md",
       "title": "阻力体感与速率差 / Felt Resistance and the Speed Differential",
-      "hash": "067a958b2103",
+      "hash": "7c688ab6bc0e",
       "in_degree": 9,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "pessimism-is-the-shadow-of-optimism",
         "deceleration-is-the-drag-felt-when-accelerating",
         "symptom-and-cause-in-the-narratives-of-progress",
         "individual-choices-as-the-only-causal-levers",
+        "your-codebase-is-memory",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
         "the-reflexive-dilemma-of-unique-insight",
         "the-causal-overstep-of-observation-and-the-first-person-surplus",
@@ -2605,15 +2609,16 @@
       "slug": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
       "path": "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md",
       "title": "个人选择、社会化与做自己 / Individual Choice, Socialization and Being Oneself",
-      "hash": "49e11e207c1c",
+      "hash": "a2f03c17ade1",
       "in_degree": 8,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "the-name-revolution-files-a-life-as-evidence",
         "freedom-as-ground",
         "individual-choices-as-the-only-causal-levers",
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
         "the-scaffolding-that-keeps-growing",
+        "your-codebase-is-memory",
         "zi-you-de-ce-bu-zhun",
         "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
         "ownership-and-self-worthiness"
@@ -2832,7 +2837,7 @@
       "path": "content/posts/help-is-half-the-problem.md",
       "title": "帮助是问题的一半 / Help Is Half the Problem",
       "hash": "b370c85eb106",
-      "in_degree": 10,
+      "in_degree": 9,
       "out_degree": 11,
       "links_out": [
         "the-myth-of-population-collapse-explained",
@@ -3361,9 +3366,9 @@
       "slug": "manifesto-of-not-a-theory-of-everything",
       "path": "content/posts/manifesto-of-not-a-theory-of-everything.md",
       "title": "非万物之理 / Not a Theory of Everything",
-      "hash": "218bcf935275",
+      "hash": "5b88319c7739",
       "in_degree": 8,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "the-arithmetic-of-the-register",
         "the-geometry-of-mind",
@@ -3372,6 +3377,7 @@
         "the-generative-atlas-of-macroscopic-phenomena",
         "po-chu-gai-nian-de-jian-yue",
         "the-unclosable-trace",
+        "your-codebase-is-memory",
         "when-observation-becomes-performance"
       ]
     },
@@ -3419,7 +3425,7 @@
       "path": "content/posts/mei-you-pu-du-zhi-you-zi-du.md",
       "title": "没有普渡，只有自渡的无限可能 / No Universal Salvation, Only Boundless Possibilities of Self-Salvation",
       "hash": "02c235243d39",
-      "in_degree": 43,
+      "in_degree": 42,
       "out_degree": 45,
       "links_out": [
         "when-the-effect-authors-the-frame",
@@ -4183,7 +4189,7 @@
       "path": "content/posts/order-surplus-and-the-moral-intercept.md",
       "title": "秩序、剩余与道德拦截 / Order, Surplus, and the Moral Intercept",
       "hash": "7cb3a1c5111c",
-      "in_degree": 13,
+      "in_degree": 12,
       "out_degree": 14,
       "links_out": [
         "symptom-and-cause-in-the-narratives-of-progress",
@@ -4224,7 +4230,7 @@
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "自我价值感与所有权 / Ownership and Self-Worthiness",
       "hash": "dfb40cb50651",
-      "in_degree": 53,
+      "in_degree": 52,
       "out_degree": 53,
       "links_out": [
         "the-meaning-of-life-is-in-the-drafting",
@@ -4289,7 +4295,7 @@
       "path": "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md",
       "title": "拥有成本把滞后的平均值冻结为车辆属性 / Ownership Cost Freezes Lagged Averages as Vehicle Property",
       "hash": "ccfe0b71ff75",
-      "in_degree": 9,
+      "in_degree": 8,
       "out_degree": 10,
       "links_out": [
         "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
@@ -5101,9 +5107,9 @@
       "slug": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
       "path": "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md",
       "title": "选择看见而非搜寻影子 / Choosing to See Rather Than Searching for Shadows",
-      "hash": "c742acb86d86",
+      "hash": "94134cb1fdd7",
       "in_degree": 8,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "the-mark-and-the-act",
         "climbing-does-not-leave-the-ground",
@@ -5112,7 +5118,8 @@
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
         "the-scaffolding-we-forget",
-        "guan-yu-gui-yin"
+        "guan-yu-gui-yin",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -5255,14 +5262,15 @@
       "slug": "studying-the-effect-of-ai-relocates-causality",
       "path": "content/posts/studying-the-effect-of-ai-relocates-causality.md",
       "title": "研究AI效应重置了因果原点 / Studying the Effect of AI Relocates Causality",
-      "hash": "a5ed80a2c8d3",
+      "hash": "48fed4ebc465",
       "in_degree": 8,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
         "amplification-paradox",
         "causality-stays-at-the-edge-that-steers",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "the-allocation-of-causal-power-in-validation",
         "the-rational-choice-postulate-is-the-original-sin",
         "individual-choices-as-the-only-causal-levers",
@@ -5706,14 +5714,15 @@
       "slug": "the-blind-spot-of-the-frame",
       "path": "content/posts/the-blind-spot-of-the-frame.md",
       "title": "框架的盲区 / The Blind Spot of the Frame",
-      "hash": "800c2e8eaedd",
+      "hash": "58380de3c7fd",
       "in_degree": 3,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "the-distant-silhouette-and-the-inventory-from-nowhere",
         "the-grammar-of-finding-and-the-fading-observer",
         "the-cut-moves-but-never-vanishes",
         "the-irreducible-observer",
+        "your-codebase-is-memory",
         "agency-does-not-arise",
         "the-substrate-of-constraint-and-the-self-denial-of-freedom",
         "the-functionalism-no-functionalist-can-hold",
@@ -6020,12 +6029,13 @@
       "slug": "the-closed-n-and-the-open-reality",
       "path": "content/posts/the-closed-n-and-the-open-reality.md",
       "title": "闭合的N与开放的现实 / The Closed N and the Open Reality",
-      "hash": "cdca9be1b6fb",
+      "hash": "69b0afc8a6d7",
       "in_degree": 10,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "the-category-error-of-better",
         "demanding-a-toe-freezes-time-into-a-catalog",
+        "your-codebase-is-memory",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "the-boundary-of-the-frame",
         "the-extendable-horizon",
@@ -6266,11 +6276,12 @@
       "slug": "the-deterministic-machine",
       "path": "content/posts/the-deterministic-machine.md",
       "title": "决定论机器 / The Deterministic Machine",
-      "hash": "7ba9e608ee16",
+      "hash": "fbf2680f40d1",
       "in_degree": 8,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "the-continuum-of-the-fold",
+        "your-codebase-is-memory",
         "fixed-by-nothing",
         "the-geometry-of-mind",
         "the-scaffolding-we-forget",
@@ -8818,7 +8829,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "遗忘的脚手架 / The Scaffolding We Forget",
       "hash": "dcb1dbc7b64f",
-      "in_degree": 63,
+      "in_degree": 62,
       "out_degree": 65,
       "links_out": [
         "the-extendable-horizon",
@@ -9535,7 +9546,7 @@
       "path": "content/posts/therapy-opens-the-feedback-loop.md",
       "title": "疗愈打开反馈回路 / Therapy Opens the Feedback Loop",
       "hash": "fef94840ad77",
-      "in_degree": 11,
+      "in_degree": 10,
       "out_degree": 12,
       "links_out": [
         "when-the-effect-authors-the-frame",
@@ -10016,20 +10027,12 @@
       "kind": "post",
       "slug": "when-need-stops-being-the-measure",
       "path": "content/posts/when-need-stops-being-the-measure.md",
-      "title": "When Need Stops Being the Measure",
-      "hash": "a4f550ad30d1",
+      "title": "当被需要不再是尺度 / When Need Stops Being the Measure",
+      "hash": "d751b4079d88",
       "in_degree": 9,
-      "out_degree": 9,
+      "out_degree": 1,
       "links_out": [
-        "emotional-support-as-causal-interference",
-        "ownership-and-self-worthiness",
-        "the-scaffolding-we-forget",
-        "therapy-opens-the-feedback-loop",
-        "help-is-half-the-problem",
-        "mei-you-pu-du-zhi-you-zi-du",
-        "order-surplus-and-the-moral-intercept",
-        "when-the-effect-authors-the-frame",
-        "ownership-cost-freezes-lagged-averages-as-vehicle-property"
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -10069,7 +10072,7 @@
       "path": "content/posts/when-the-effect-authors-the-frame.md",
       "title": "当效果主宰了框架的叙事 / When the Effect Authors the Frame",
       "hash": "7d330f511260",
-      "in_degree": 16,
+      "in_degree": 15,
       "out_degree": 17,
       "links_out": [
         "emotional-support-as-causal-interference",
@@ -10279,7 +10282,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 236,
+      "in_degree": 248,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -11053,9 +11056,21 @@
     },
     {
       "from": "abstract-pain-and-living-hunger",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "abstract-pain-and-living-hunger",
       "to": "the-arithmetic-of-the-register",
       "rel": "points_to",
       "label": "The Arithmetic of the Register"
+    },
+    {
+      "from": "abstract-pain-and-living-hunger",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "abstract-pain-and-living-hunger",
@@ -12652,6 +12667,18 @@
       "to": "choice-itself-has-no-inherent-weight",
       "rel": "points_to",
       "label": "Choice Itself Has No Inherent Weight"
+    },
+    {
+      "from": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
@@ -19621,9 +19648,21 @@
     },
     {
       "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "to": "the-residue-and-the-free-variable",
       "rel": "points_to",
       "label": "The Residue and the Free Variable"
+    },
+    {
+      "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "dimensions-are-projections",
@@ -22087,6 +22126,12 @@
     },
     {
       "from": "felt-resistance-and-the-speed-differential",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "felt-resistance-and-the-speed-differential",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
       "label": "Symptom and Cause in the Narratives of Progress"
@@ -22096,6 +22141,12 @@
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "felt-resistance-and-the-speed-differential",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "felt-resistance-and-the-speed-differential",
@@ -22771,6 +22822,12 @@
     },
     {
       "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
       "to": "zi-you-de-ce-bu-zhun",
       "rel": "points_to",
       "label": "自由的测不准"
@@ -22780,6 +22837,12 @@
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
       "label": "The Scaffolding That Keeps Growing"
+    },
+    {
+      "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
@@ -28003,12 +28066,6 @@
     },
     {
       "from": "manifesto-of-not-a-theory-of-everything",
-      "to": "the-generative-atlas-of-macroscopic-phenomena",
-      "rel": "points_to",
-      "label": "宏观现象的生成图谱"
-    },
-    {
-      "from": "manifesto-of-not-a-theory-of-everything",
       "to": "xian-shi-de-bian-jie",
       "rel": "points_to",
       "label": "The Boundary of Reality"
@@ -28023,7 +28080,13 @@
       "from": "manifesto-of-not-a-theory-of-everything",
       "to": "the-generative-atlas-of-macroscopic-phenomena",
       "rel": "points_to",
-      "label": "The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction"
+      "label": "宏观现象的生成图谱"
+    },
+    {
+      "from": "manifesto-of-not-a-theory-of-everything",
+      "to": "the-generative-atlas-of-macroscopic-phenomena",
+      "rel": "points_to",
+      "label": "The Generative Atlas of Macroscopic Phenomena"
     },
     {
       "from": "manifesto-of-not-a-theory-of-everything",
@@ -28035,25 +28098,37 @@
       "from": "manifesto-of-not-a-theory-of-everything",
       "to": "po-chu-gai-nian-de-jian-yue",
       "rel": "points_to",
-      "label": "Overcoming the Usurpation of Concepts"
+      "label": "Breaking the Overreach of Concepts"
     },
     {
       "from": "manifesto-of-not-a-theory-of-everything",
       "to": "the-unclosable-trace",
       "rel": "points_to",
-      "label": "未决之地的未竟之迹"
+      "label": "无法闭合的痕迹"
     },
     {
       "from": "manifesto-of-not-a-theory-of-everything",
-      "to": "when-observation-becomes-performance",
+      "to": "your-codebase-is-memory",
       "rel": "points_to",
-      "label": "当观察沦为表演"
+      "label": "你的代码库即是记忆"
     },
     {
       "from": "manifesto-of-not-a-theory-of-everything",
       "to": "the-unclosable-trace",
       "rel": "points_to",
       "label": "The Unclosable Trace"
+    },
+    {
+      "from": "manifesto-of-not-a-theory-of-everything",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "manifesto-of-not-a-theory-of-everything",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "当观察沦为表演"
     },
     {
       "from": "manifesto-of-not-a-theory-of-everything",
@@ -39571,6 +39646,12 @@
     },
     {
       "from": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "The Scaffolding We Forget"
@@ -39580,6 +39661,12 @@
       "to": "guan-yu-gui-yin",
       "rel": "points_to",
       "label": "On Attribution"
+    },
+    {
+      "from": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "silicon-oracles-and-the-asymmetry-of-consequence",
@@ -40399,9 +40486,21 @@
     },
     {
       "from": "studying-the-effect-of-ai-relocates-causality",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "studying-the-effect-of-ai-relocates-causality",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "studying-the-effect-of-ai-relocates-causality",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "studying-the-effect-of-ai-relocates-causality",
@@ -43387,6 +43486,12 @@
     },
     {
       "from": "the-blind-spot-of-the-frame",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-blind-spot-of-the-frame",
       "to": "the-grammar-of-finding-and-the-fading-observer",
       "rel": "points_to",
       "label": "The Grammar of Finding and the Fading Observer"
@@ -43402,6 +43507,12 @@
       "to": "the-irreducible-observer",
       "rel": "points_to",
       "label": "The Irreducible Observer"
+    },
+    {
+      "from": "the-blind-spot-of-the-frame",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-blind-spot-of-the-frame",
@@ -45163,9 +45274,21 @@
     },
     {
       "from": "the-closed-n-and-the-open-reality",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-closed-n-and-the-open-reality",
       "to": "demanding-a-toe-freezes-time-into-a-catalog",
       "rel": "points_to",
       "label": "Demanding a Theory of Everything Freezes Time into a Catalog"
+    },
+    {
+      "from": "the-closed-n-and-the-open-reality",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-closed-n-and-the-open-reality",
@@ -46426,6 +46549,18 @@
       "to": "the-continuum-of-the-fold",
       "rel": "points_to",
       "label": "The Continuum of the Fold"
+    },
+    {
+      "from": "the-deterministic-machine",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-deterministic-machine",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-deterministic-machine",
@@ -69577,57 +69712,15 @@
     },
     {
       "from": "when-need-stops-being-the-measure",
-      "to": "emotional-support-as-causal-interference",
+      "to": "your-codebase-is-memory",
       "rel": "points_to",
-      "label": "emotional support as causal interference"
+      "label": "你的代码库即是记忆"
     },
     {
       "from": "when-need-stops-being-the-measure",
-      "to": "ownership-and-self-worthiness",
+      "to": "your-codebase-is-memory",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
-    },
-    {
-      "from": "when-need-stops-being-the-measure",
-      "to": "the-scaffolding-we-forget",
-      "rel": "points_to",
-      "label": "the scaffolding we forget"
-    },
-    {
-      "from": "when-need-stops-being-the-measure",
-      "to": "therapy-opens-the-feedback-loop",
-      "rel": "points_to",
-      "label": "Therapy opens the feedback loop"
-    },
-    {
-      "from": "when-need-stops-being-the-measure",
-      "to": "help-is-half-the-problem",
-      "rel": "points_to",
-      "label": "Help is half the problem"
-    },
-    {
-      "from": "when-need-stops-being-the-measure",
-      "to": "mei-you-pu-du-zhi-you-zi-du",
-      "rel": "points_to",
-      "label": "No Universal Salvation, Only Self-Deliverance"
-    },
-    {
-      "from": "when-need-stops-being-the-measure",
-      "to": "order-surplus-and-the-moral-intercept",
-      "rel": "points_to",
-      "label": "Order, surplus, and the moral intercept"
-    },
-    {
-      "from": "when-need-stops-being-the-measure",
-      "to": "when-the-effect-authors-the-frame",
-      "rel": "points_to",
-      "label": "When the Effect Authors the Frame"
-    },
-    {
-      "from": "when-need-stops-being-the-measure",
-      "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
-      "rel": "points_to",
-      "label": "Ownership cost freezes lagged averages as vehicle property"
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "when-observation-becomes-performance",
@@ -72089,7 +72182,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "fd183a644b8f",
+        "hash": "0e32ddba22f8",
         "out_degree": 397
       },
       {
@@ -72152,7 +72245,7 @@
         "slug": "morality",
         "path": "content/book/morality.md",
         "title": "善恶界限与共情陷阱 / Moral Boundaries and the Empathy Trap",
-        "hash": "f9ec3b11ce49",
+        "hash": "e3bbc3de8dcd",
         "out_degree": 28
       },
       {
@@ -75938,7 +76031,7 @@
         "from": "book:index-of-premises",
         "to": "when-need-stops-being-the-measure",
         "rel": "collects",
-        "label": "When Need Stops Being the Measure"
+        "label": "当被需要不再是尺度 / When Need Stops Being the Measure"
       },
       {
         "from": "book:index-of-premises",
@@ -77972,7 +78065,7 @@
         "from": "book:morality",
         "to": "when-need-stops-being-the-measure",
         "rel": "collects",
-        "label": "When Need Stops Being the Measure"
+        "label": "当被需要不再是尺度 / When Need Stops Being the Measure"
       },
       {
         "from": "book:morality",

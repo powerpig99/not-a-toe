@@ -2,154 +2,122 @@
 
 *感知、诠释，与未完的现实。 / Sensing, interpreting, and an ongoing reality.*
 
----
-
-## 序言：立足点 / Preamble: The Ground
-
 所谓的“非万物之理”（`not-a-toe`），即是确认第一人称视界与因果是同一事实的两面：现实始终由心智在当下感知为一组有限的区分，而因果则是其向过去与未来无限展开的潜能，所能理解的一切理论与存在图景皆由此投射而出。
-
-正因这种展开永不闭合，这里的全部含义无法被任何静态定义所穷尽，只能在持续的描摹中去体会。
 
 `not-a-toe` (Not a Theory of Everything) is the recognition that the first-person perspective and causality are two sides of the same coin: reality is always perceived by the mind in the present as a finite collection of distinctions, while causality is the open potential extending endlessly into past and future, projecting all theories and existence within comprehension.
 
-Because this unfolding never closes, its meaning can never be captured by a static definition, and can only be realized through ongoing tracing.
+正因这种展开永不闭合，这里的全部含义无法被任何静态定义所穷尽，只能在持续的描摹中去体会。
 
----
+Because this unfolding never closes, its meaning can never be captured by a static definition, and can only be realized through ongoing tracing.
 
 ## 一、 开放的潜能与正交维度 / 1. Open Potentiality and Orthogonal Dimensions
 
 将现实打包为封闭容器的企图，把活生生的存在当作了已经完工的成品。
 
-与既有观念针锋相对的对抗，往往依然共享着同一个一维坐标轴。当一个人把全副精力放在反驳与否定上时，他的认知其实完全寄生在被他反对的靶子之上。
+Any attempt to package reality into a closed box treats living existence as a finished product.
+
+与既有观念针锋相对的对抗，依然共享着同一个一维坐标轴。当一个人把全副精力放在反驳与否定上时，他的认知便寄生在所反对的靶子之上。
+
+Opposition that defines itself against an existing theory shares the exact same one-dimensional axis. When energy is poured into refutation, cognition remains parasitic on the target it seeks to deny.
 
 “非”并不是反抗，而是正交。
 
-在几何学中，两个正交维度的内积为零。正交意味着开辟新的自由度，它不需要否定旧轴的有效性：
-* 引入“高度”，丝毫不妨碍“长度”与“宽度”；
-* 探索微观量子的分布，与宏观桥梁上的牛顿力学并行不悖；
-* 觉察形式理性的边界，正如 [寄存器的算术](../the-arithmetic-of-the-register/) 与 [心智的几何学](../the-geometry-of-mind/) 所呈现的，最高有效位（MSB）的点亮直接投射向未曾渲染的自由度，不需要拆毁任何低位数值。
+"Not" is not opposition; it is orthogonality.
+
+在几何学中，两个正交维度的内积为零。正交意味着开辟新的自由度，它不需要否定旧轴的有效性：引入“高度”丝毫不妨碍“长度”与“宽度”；探索微观量子的分布与宏观桥梁上的牛顿力学并行不悖；觉察形式理性的边界，正如 [寄存器的算术](../the-arithmetic-of-the-register/) 与 [心智的几何学](../the-geometry-of-mind/) 所呈现的，最高有效位（MSB）的点亮直接投射向未曾渲染的自由度，不需要拆毁任何低位数值。
+
+In geometry, the inner product of orthogonal axes is zero. Orthogonality means opening a new degree of freedom without needing to invalidate the existing axes: introducing "height" leaves "length" and "width" intact; exploring quantum distributions coexists naturally with Newtonian mechanics on a suspension bridge; and recognizing the boundaries of formal reason, as articulated in [The Arithmetic of the Register](../the-arithmetic-of-the-register/) and [The Geometry of Mind](../the-geometry-of-mind/), instantiates a new Most Significant Bit that projects into previously unrendered degrees of freedom without needing to dismantle the lower bits.
 
 所有的科学理论、数学模型与哲学概念，都是心智在行进中搭建的脚手架。在适用的范围内，它们精确有效；遇到现实摩擦的边界时，便自然放下，迈入新的维度。
 
-Any attempt to package reality into a closed box treats living existence as a finished product.
-
-Opposition that defines itself against an existing theory usually shares the exact same one-dimensional axis. When energy is poured into refutation, cognition remains parasitic on the target it seeks to deny.
-
-"Not" is not opposition; it is orthogonality.
-
-In geometry, the inner product of orthogonal axes is zero. Orthogonality means opening a new degree of freedom without needing to invalidate the existing axes:
-* Introducing "height" leaves "length" and "width" completely intact;
-* Exploring quantum distributions coexists naturally with Newtonian mechanics on a suspension bridge;
-* Recognizing the boundaries of formal reason, as articulated in [The Arithmetic of the Register](../the-arithmetic-of-the-register/) and [The Geometry of Mind](../the-geometry-of-mind/), instantiates a new Most Significant Bit that projects into previously unrendered degrees of freedom, without needing to dismantle the lower bits.
-
 Scientific theories, mathematical models, and philosophical categories are useful scaffolding built by the mind in motion. Within their range of applicability, they are effective tools; where they meet the boundary of real friction, the mind sets them down and steps into a new dimension.
-
----
 
 ## 二、 区分的必然与自构的闭环 / 2. Unavoidable Differentiation and Self-Constructed Closure
 
 生命依托区分而运转。
 
-只要感知在流动、时间在推进，心智就在每一个瞬间识别差异：冷与热、动与静、选择这一步或是那一步。区分是意识与信息存在的物理机制，生命借此保持对环境的敏锐。
-
-然而，闭环、单极归因与零和竞争，则是心智在区分之上追加的构型：
-* **封闭假定**：将自己划定的局部边界，视作现实的整体；
-* **单极归因**：偏执地要求世间万物必须折算为同一种事物——全都是粒子、全都是金钱、全都是权力；
-* **零和竞争**：在假定封闭的单一尺度上，将任何差异都体验为生存空间的挤压。
-
-区分是现实的呼吸，是不断前行的探索；而闭环是将高维度的生命活动折叠进一维的竞技场。现实本身始终是无限开放的。
-
 Life operates through differentiation.
+
+只要感知在流动、时间在推进，心智就在每一个瞬间识别差异：冷与热、动与静、选择这一步或是那一步。区分是意识与信息存在的运行机制，生命借此保持对环境的敏锐。
 
 As long as perception flows and time advances, the mind distinguishes at every moment: cold or hot, movement or rest, taking this step or that one. Differentiation is the physical mechanism of awareness and information; life relies on it to remain responsive to reality.
 
-In contrast, closure, monistic reduction, and zero-sum competition are configurations the mind layers on top of differentiation:
-* **Closure**: Treating a locally drawn boundary as the entirety of reality;
-* **Monistic Reduction**: Demanding that all phenomena collapse into a single variable—all is particles, all is money, or all is power;
-* **Zero-Sum Framing**: Operating on a closed, singular scale where every difference is experienced as territorial crowding.
+然而，闭环、单极归因与零和竞争，则是心智在区分之上追加的构型：封闭假定将自己划定的局部边界视作现实的整体；单极归因偏执地要求世间万物折算为同一种事物，全都是粒子、全都是金钱，或是全都是权力；零和竞争则在假定封闭的单一尺度上，将任何差异都体验为生存空间的挤压。
+
+In contrast, closure, monistic reduction, and zero-sum competition are configurations the mind layers on top of differentiation: closure treats a locally drawn boundary as the entirety of reality; monistic reduction demands that all phenomena collapse into a single variable—all is particles, all is money, or all is power; and zero-sum framing operates on a closed, singular scale where every difference is experienced as territorial crowding.
+
+区分是现实的呼吸，是不断前行的探索；而闭环是将高维度的生命活动折叠进一维的竞技场。现实本身始终是无限开放的。
 
 Differentiation is reality breathing—an open, ongoing process. Closure collapses high-dimensional life onto a single competitive line. Reality itself remains open.
-
----
 
 ## 三、 始于心智，留于心智，终于心智 / 3. Starts with the Mind, Stays within the Mind, Ends with the Mind
 
 不幸又万幸，万事始于心智，留于心智，终于心智。
 
+Unfortunately and fortunately, everything starts with the mind, stays within the mind, and ends with the mind.
+
 不幸的是，第一人称界面无法撤销，因果责任不可转让。心智无法跳出自身的界面去获得一个脱离观察者的全知视角，所有的焦虑、恐惧与精神内耗，都是心智在自身界面上的投影；没有任何终极理论或外部权威能够代替心智去承担抉择的后果，哪怕是盲从，那份服从依然是心智在当下亲手执行的选择。
+
+Unfortunately, the first-person interface is irrevocable and causal responsibility cannot be transferred. The mind cannot step outside its own interface to attain an unobserved, omniscient vantage point; all dread, anxiety, and inner turmoil are projections reverberating within its own canvas. No ultimate theory or external authority can live a life on one's behalf; even blind surrender remains a choice executed by this mind in the immediate present.
 
 万幸的是，正因为一切始于心智并留于心智，主权的立足点便始终在自己手中。正如 [现实的边界](../xian-shi-de-bian-jie/) 与 [个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/) 所呈现的：既然概念的藩篱与心造的牢房全由心智的投影所维系，那么一旦看清符号与实在的区别，不再向脑内的残影称臣，心智便立刻在当下重获自由。
 
-世间所有认知上的不连贯，皆源于将第一人称视界与因果律强行割裂：要么虚构一种脱离观察者的客观机械钟表，陷入决定论与大一统的狂妄；要么虚构一种脱离物理摩擦的主观意念，陷入唯心幻觉与元情绪内耗。一旦两者合一，一切分裂便在当下复归连贯。[宏观现象的生成图谱](../the-generative-atlas-of-macroscopic-phenomena/)描绘了这同一条因果如何从量子、比特一直延伸到人的抉择。
+Fortunately, because everything starts and remains within the mind, sovereignty rests in one's own hands. As shown in [The Boundary of Reality](../xian-shi-de-bian-jie/) and [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/), since conceptual barriers and mental cages are sustained solely by the mind's own projections, the moment one stops kneeling before conceptual shadows, the mind reclaims its freedom in the immediate present.
 
-Unfortunately and fortunately, everything starts with the mind, stays within the mind, and ends with the mind.
+世间所有认知上的不连贯，皆源于将第一人称视界与因果律强行割裂：要么虚构一种脱离观察者的客观机械钟表，陷入决定论与大一统的狂妄；要么虚构一种脱离现实摩擦的主观意念，陷入唯心幻觉与元情绪内耗。一旦两者合一，一切分裂便在当下复归连贯。[宏观现象的生成图谱](../the-generative-atlas-of-macroscopic-phenomena/)描绘了这同一条因果如何从量子、比特一直延伸到人的抉择。
 
-Unfortunately, because the first-person interface is irrevocable and causal responsibility cannot be transferred. The mind cannot step outside its own interface to attain an unobserved, omniscient vantage point; all dread, anxiety, and inner turmoil are projections reverberating within its own canvas. No ultimate theory or external authority can live a life on one's behalf; even blind surrender remains a choice executed by this mind in the immediate present.
-
-Fortunately, because everything starts and remains within the mind, sovereignty rests entirely in one's own hands. As shown in [The Boundary of Reality](../xian-shi-de-bian-jie/) and [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/): since conceptual barriers and mental cages are sustained solely by the mind's own projections, the moment one stops kneeling before conceptual shadows, the mind reclaims its freedom in the immediate present.
-
-All incoherence is created by the separation of the first-person perspective from causality: either imagining an objective mechanism devoid of an observer, falling into determinism and the hubris of a closed Theory of Everything; or imagining a subjective will unmoored from physical friction, falling into solipsism and meta-emotional turmoil. Once held as one, coherence restores itself in the immediate present. [The Generative Atlas of Macroscopic Phenomena: From Quantum, Bit, to Human Choice under Logical Interaction](../the-generative-atlas-of-macroscopic-phenomena/) maps how this one causality runs from quantum to bit to human choice.
-
----
+All incoherence is created by the separation of the first-person perspective from causality: either imagining an objective mechanism devoid of an observer, falling into determinism and the hubris of a closed Theory of Everything; or imagining a subjective will unmoored from physical friction, falling into solipsism and meta-emotional turmoil. Once held as one, coherence restores itself in the immediate present. [The Generative Atlas of Macroscopic Phenomena](../the-generative-atlas-of-macroscopic-phenomena/) maps how this one causality runs from quantum to bit to human choice.
 
 ## 四、 纸面上的 1+1 与现实中的 +1 / 4. The Formula 1 + 1 = 2 vs. The Physical Act +1
 
-符号系统与物理行动之间存在着本质的鸿沟。
+符号系统与具身行动之间存在着结构性的鸿沟。
 
-纸面上的 `1 + 1 = 2` 是一道对称、静止、零能耗的逻辑等式。在符号体系内，推演可以在瞬间完成，无需克服阻力，亦无需承担物理后果。
+A structural gulf separates symbolic systems from physical action.
 
-物理现实中的 `+1`，则是一次单向、不可逆的因果介入。它必须由肉身耗费能量、穿过摩擦，并承担真实世界的不确定性。
-
-在起点的 `1` 上反复推演，无法替代现实中那一步的迈出。正如 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 所剖析的，认知是通过与粗粝现实的接触来校准的：拉起渔网发现全是碎屑，便倒掉碎屑，调整动作，再次撒网。将每一次阻力与偏差视作现实反馈的一阶损失（Loss），在具体的生活中执行当下的那个 `+1`。
-
-A fundamental gulf separates symbolic systems from physical action.
+纸面上的 `1 + 1 = 2` 是一道对称、静止、零能耗的逻辑等式。在符号体系内，推演可以在瞬间完成，无需克服阻力，亦无需承担实际后果。
 
 On paper, `1 + 1 = 2` is a static, symmetric, zero-cost tautology. Within symbolic space, deductions resolve instantaneously, requiring no energy and bearing no physical consequence.
 
+具身因果中的 `+1`，则是一次单向、不可逆的因果介入。它必须由肉身耗费能量、穿过摩擦，并承担真实世界的不确定性。
+
 In physical causality, however, `+1` is a unidirectional, irreversible intervention. It requires expending biological energy, navigating friction, and absorbing the unpredictability of the living world.
 
-Endless mental calculation at the starting point `1` cannot substitute for taking the step. As examined in [Overcoming the Usurpation of Concepts](../po-chu-gai-nian-de-jian-yue/), understanding is calibrated through friction with the coarse world: dragging up debris in a net simply means clearing the net, adjusting posture, and casting again. Treating friction and error as primary loss signals from reality, the body executes the immediate `+1`.
+在起点的 `1` 上反复推演，无法替代现实中那一步的迈出。正如 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 所剖析的，认知是通过与粗粝现实的接触来校准的：拉起渔网发现全是碎屑，便倒掉碎屑，调整动作，再次撒网。将每一次阻力与偏差视作现实反馈的一阶损失信号，在具体的生活中执行当下的那个 `+1`。
 
----
+Endless mental calculation at the starting point `1` cannot substitute for taking the step. As examined in [Breaking the Overreach of Concepts](../po-chu-gai-nian-de-jian-yue/), understanding is calibrated through friction with the coarse world: dragging up debris in a net simply means clearing the net, adjusting posture, and casting again. Treating friction and error as primary loss signals from reality, the body executes the immediate `+1`.
 
 ## 五、 语言的凝固与观察的距离 / 5. The Fixation of Language and the Distance of Observation
 
-智慧无法通过静态的符号直接过户。
+智慧无法通过静态的符号直接过户，这源于两重条件。
 
-这一现象源于两重物理现实：
+Understanding cannot be transferred as an inert commodity, and this rests on two conditions.
 
-其一，语言将动态的第一人称相变，凝固为第三人称的静态符号。当鲜活的体悟被赋予固定的名词，词语便容易在流传中脱离原本的语境，沉淀为僵硬的教条。正如 [未决之地的未竟之迹](../the-unclosable-trace/) 所论证的，留存的文字仅是退潮后的印记，无法替代当下正在发生的直接体验。
+其一，语言将动态的第一人称相变，凝固为第三人称的静态符号。当鲜活的体悟被赋予固定的名词，词语便容易在流传中脱离原本的语境，沉淀为僵硬的教条。正如 [无法闭合的痕迹](../the-unclosable-trace/) 与 [你的代码库即是记忆](../your-codebase-is-memory/) 所论证的，留存在磁盘上的文字是清醒心智留下的外化记忆晶格；它能为下一次重入提供定向坐标，却无法替代当下正在发生的直接体验。
 
-其二，旁观者的位置缺乏改变内在认知的梯度。正如 [当观察沦为表演](../when-observation-becomes-performance/) 所探讨的：仅在看台上审视与分析，并不产生更新神经连接的物理摩擦。如同在岸上观察他人游泳无法让自身学会换气，真正的理解依赖于第一人称直接承受现实的撞击与调校。
+First, language condenses dynamic first-person experience into static third-person tokens. When living insight is labeled with fixed words, the terms detach from their context and harden into rigid artifacts. As explored in [The Unclosable Trace](../the-unclosable-trace/) and [Your Codebase Is Memory](../your-codebase-is-memory/), preserved text on disk functions as an externalized memory lattice left by a waking Mind; it patterns the traces available to the next pass, yet it never carries the self-distinguishing activity of the steering edge occurring in the present moment.
+
+其二，旁观者的位置缺乏改变内在认知的梯度。正如 [当观察沦为表演](../when-observation-becomes-performance/) 所探讨的，仅在看台上审视与分析，并不产生更新神经连接的具身摩擦。如同在岸上观察他人游泳无法让自身学会换气，真正的理解依赖于第一人称直接承受现实的撞击与调校。
+
+Second, the position of a spectator lacks the gradient required to rewire internal cognition. As discussed in [When Observation Becomes Performance](../when-observation-becomes-performance/), analyzing from a safe distance generates no direct physical friction. Just as watching someone swim from the shore never teaches one's own body to breathe in water, genuine understanding requires first-person contact with reality's feedback.
 
 每一种理解都必须在具体的肉身中重新发生，由第一人称直接面对现实的反馈，形成真实的因果回路。
 
-Understanding cannot be transferred as an inert commodity.
-
-This rests on two conditions:
-
-First, language condenses dynamic first-person experience into static third-person tokens. When living insight is labeled with fixed words, the terms readily detach from their context and harden into rigid artifacts. As explored in [The Unclosable Trace](../the-unclosable-trace/), preserved text is merely dried silt left by a receding tide; it cannot substitute for awareness occurring in the present moment.
-
-Second, the position of a spectator lacks the gradient required to rewire internal cognition. As discussed in [When Observation Becomes Performance](../when-observation-becomes-performance/): analyzing from a safe distance generates no direct physical friction. Just as watching someone swim from the shore never teaches one's own body to breathe in water, genuine understanding requires first-person contact with reality's feedback.
-
 Each understanding must be compiled afresh within a living body, completing its own causal loop through direct encounter.
-
----
 
 ## 六、 持续描摹 / 6. Keep Tracing
 
 既不试图证明，亦不试图反驳。
 
-主流的公共言说往往陷入单维空间内的角力：要么证明自身的优越，要么证伪他人的主张。这种争斗预设了一个固定维度的舞台，将探索变成了表演。
+Neither trying to prove, nor trying to disprove.
+
+主流的公共言说常陷入单维空间内的角力：要么证明自身的优越，要么证伪他人的主张。这种争斗预设了一个固定维度的舞台，将探索变成了表演。
+
+Prevailing discourse traps itself in single-axis wrestling: either proving oneself or disproving others. That competition assumes a fixed-dimensional stage, turning living inquiry into performance.
 
 更真实的路径，是在现实的摩擦中生活，而不是去表演它。
 
-这个心智在行进，在感知，在诠释，并在具体的日常中拉出新的正交维度。每一次描摹，都是对当下一刻粗粝现实的真实记录。现实始终在继续展开，而描摹也就如此安静地持续进行。
-
-Neither trying to prove, nor trying to disprove.
-
-Prevailing discourse often traps itself in single-axis wrestling: either proving oneself or disproving others. That competition assumes a fixed-dimensional stage, turning living inquiry into performance.
-
 The more honest path is to live within friction, rather than perform it.
+
+这个心智在行进，在感知，在诠释，并在具体的日常中拉出新的正交维度。每一次描摹，都是对当下一刻粗粝现实的真实记录。现实始终在继续展开，而描摹也就如此安静地持续进行。
 
 This mind moves, senses, interprets, and opens new orthogonal dimensions in concrete daily life. Each trace is an honest record of contact with coarse reality. Reality continues to unfold, and tracing continues quietly alongside it.

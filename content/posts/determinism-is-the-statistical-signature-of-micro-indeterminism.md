@@ -50,7 +50,7 @@ This is one path by which determinism appears: it divides the individual away ho
 
 ## 四、 投射的镜像：自洽的强加与时间跨度上的不自洽 / 4. The Mirror of Projection: Imposing Coherence and Projecting Uncertainty
 
-由此可以看到形而上学决定论与量子不确定性之间的一种认识论对称：**决定论是我们把自己心智内部的自洽强加（imposition）在客体之上的结果，而不是客体自身的本性；不确定性则是我们在跨越时间（across time）时所感应到的不自洽，被投射（project）为观察到的“客观随机”。**
+由此可以看到形而上学决定论与量子不确定性之间的一种认识论对称：**决定论是我们把自己心智内部的自洽强加在客体之上的结果，而不是客体自身的本性；不确定性则是我们在跨越时间时所感应到的不自洽，被投射为观察到的“客观随机”。**
 
 Here an epistemic symmetry between metaphysical determinism and quantum indeterminacy comes into view: **determinism is our imposition of our own internal coherence onto the object, not an inherent nature of the object; and indeterminism is our sensed incoherence across time, projected outward as observed "objective randomness."**
 
@@ -72,7 +72,7 @@ The inversion comes at the next step. Having enjoyed the benefits of imposed coh
 
 需要澄清的是，这场倒错是心智自己的闭环：始于心智，运转于心智，也终结于心智。这不是统计学或统计学家的过错。统计学与大数定律是精巧、诚实的认知脚手架，它们在数学上如实记录了群体聚合后的几何轮廓。倒错出在心智把这套统计数据当成了形而上学的律令：它对自身内部的因果递进做了一次外部归因，把为平复认知摩擦而强加的平滑秩序误认成客观的宇宙天道，然后在自己画出的图表面前缴械。**统计数据对我们个体的选择自由没有支配权，除非我们主动把自己的选择权让渡给它。**
 
-It needs to be made clear that this inversion is the mind's own loop: it begins in the mind, runs in the mind, and ends in the mind. It is not the fault of statistics or of statisticians. Statistics and the law of large numbers are ingenious and honest cognitive scaffolding; mathematically, they faithfully record the geometric outline of aggregated populations. The inversion lies in the mind treating those statistics as metaphysical law: it performs an external attribution on its own internal causal progression, mistakes the smooth order it imposed to settle cognitive friction for an objective cosmic decree, and then surrenders before the chart it drew itself. **The statistics has no power over our individual freedom of choice unless we surrender our choice to it.**
+It needs to be made clear that this inversion is the mind's own loop: it begins in the mind, runs in the mind, and ends in the mind. It is not the fault of statistics or of statisticians. Statistics and the law of large numbers are ingenious and honest cognitive scaffolding; mathematically, they faithfully record the geometric outline of aggregated populations. The inversion lies in the mind treating those statistics as metaphysical law: it performs an external attribution on its own internal causal progression, mistakes the smooth order it imposed to settle cognitive friction for an objective cosmic decree, and then surrenders before the chart it drew itself. **Statistics have no power over our individual freedom of choice unless we surrender our choice to them.**
 
 ## 五、 终结大一统的幻象：重回不可逆的行动现场（`+1`） / 5. Dissolving the Idol: Returning to the Irreversible Step (`+1`)
 
@@ -84,6 +84,6 @@ Put these together and the earlier theoretical fog lifts. What we call the physi
 
 The world is not a clockwork whose script was written long ago; it is an open field carried forward by countless first-person causal origins. In every concrete present, the Theory of Everything's vision of all things sealed by an ultimate formula falls short: no macroscopic equation and no detailed statistical model has any purchase on the specific decision you are about to make here and now. A statistical model can accurately predict the overall distribution of a hundred million people's choices, yet it cannot decide for you, here, now. A deterministic world shared by all is the sandbox [The Illusion of the Shared Sandbox](../the-illusion-of-the-shared-sandbox/) dissolves.
 
-那一刻的决定权，握在你的第一人称视界之中。在你的内部，这次决断是内在自洽的；在外部观察中，它是一次未被写进剧本的微观跃迁。而正是这一步，一次承担代价、打破惯性、向封闭系统注入新变量并推进因果的介入（`+1`）（参见 [残余与自由变量](../the-residue-and-the-free-variable/)），让现实拒绝闭合为一张代数清单，始终保持为一个开放的宇宙。
+那一刻的决定权，握在你的第一人称视界之中。在你的内部，这次决断是内在自洽的；在外部观察中，它是一次未被写进剧本的微观跃迁。而正是这一步——一次承担代价、打破惯性、向封闭系统注入新变量并推进因果的介入（`+1`；参见[残余与自由变量](../the-residue-and-the-free-variable/)与[你的代码库即是记忆](../your-codebase-is-memory/)，哪怕结构最严密的外化记忆晶格，也在等待清醒边缘当下的鲜活切分）——让现实拒绝闭合为一张代数清单，始终保持为一个开放的宇宙。
 
-The authority of that moment rests within your first-person horizon. Inside you, the decision is internally coherent; to outside observation, it is a microscopic transition that was never written into the script. And it is precisely this step, an intervention that bears its cost, breaks inertia, injects a new variable into a bound system, and carries causality forward (`+1`) (see [The Residue and the Free Variable](../the-residue-and-the-free-variable/)), that keeps reality from closing into an algebraic catalog and holds it open as a universe still underway.
+The authority of that moment rests within your first-person horizon. Inside you, the decision is internally coherent; to outside observation, it is a microscopic transition that was never written into the script. As [The Residue and the Free Variable](../the-residue-and-the-free-variable/) and [Your Codebase Is Memory](../your-codebase-is-memory/) trace from the side of externalized records—where even the most structured memory lattice on disk remains inert residue until the waking edge makes its next live cut—it is this irreversible step (`+1`), bearing its cost, breaking inertia, and injecting a new variable into a bound system, that keeps reality from closing into an algebraic catalog and holds it open as a universe still underway.
