@@ -26,7 +26,7 @@ Calling the sense of stepping outside the Mind an "illusion" already occupies a 
 
 A distinction must be drawn between the ordinary self-image and the living act of consciousness. The self in the usual sense is a maintained object: a retrospective model of who one is, repaired after each disruption, identified with, and defensively conserved. Preserving that retained reference past the step it was formed to measure makes it lag by construction, a stored portrait already hanging on the wall. Much of what is called introspection is only inspecting that frozen portrait, examining a finished artifact rather than the living movement of cognition. [Self-Image Speaks as if from Nowhere](../self-image-speaks-as-if-from-nowhere/) and [The Fixed Image of Transcendence](../the-fixed-image-of-transcendence/) trace how this conserved image passes itself off as the origin, clamping the recursive fold shut and hiding the active center that keeps re-rendering it.
 
-意识活的运动，不是那幅肖像，而是活的偏移：心智从当下的所在生成一个轻微的、即时的位移，从既有的框里侧身半步。因为解释至少滞后于生成行为一步，这个偏移无法作为一件库存物品被捕获或存下：它一被命名、被占有、被防御，就冻成又一个自我形象，开始累积多余的滞后。这里的差别，不在“真我”与“假我”之间，而在一个被维护的身份，与溢出中心正身处其中的那个身份的活跃运动之间。这个运动从不完成一次永久的离开，也不建立一个永久的自我；自我，只是每当这个生成的运动被物化成一件东西时，回到的那份静止的残余。
+意识活的运动，不是那幅肖像，而是活的偏移：心智从当下的所在生成一个轻微的、即时的位移，从既有的框里侧身半步。因为解释至少滞后于生成行为一步，这个偏移无法作为一件库存物品被捕获或存下：它一被命名、被占有、被防御，就冻成又一个自我形象，开始累积多余的滞后。这里的差别，不在“真我”与“假我”之间，而在一个被维护的身份，与中心溢出当下所在身份的那股活的运动之间。这个运动从不完成一次永久的离开，也不建立一个永久的自我；自我，只是每当这个生成的运动被物化成一件东西时，回到的那份静止的残余。
 
 The living movement of consciousness is not the portrait but the live offset: the Mind generating a slight, immediate displacement from where it currently is, stepping half a pace aside from its existing frame. Because interpretation lags the generating act by at least one step, the offset can never be captured or stored as an item in stock: once named, possessed, and defended, it freezes into another self-image and begins to accumulate excess lag. The difference here is not between a "true self" and a "false self," but between a maintained identity and the active motion of exceeding the identity a center is currently inside. The motion never completes a permanent exit, nor does it establish a permanent self; the self is only the static residue returned to whenever that generative motion is reified into a thing.
 
@@ -50,7 +50,7 @@ This also explains why consciousness resists static definition. Naming conscious
 
 Endless debates about consciousness keep collapsing this unified activity onto one of its two poles. One is the demand for stability: consciousness needs enough structural stability to give an offset a retained reference to measure from, and without form there is no boundary to step out of. The other is the demand for excess: consciousness must keep exceeding its form, or nothing is left to be experienced as awareness, only a frozen, dead portrait. Theorists treat stability and excess as rival doctrines, yet they are the two indispensable poles of a single operation. [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) and [Openness Is Consistency](../openness-is-consistency/) show that structural consistency is the activity continuing without freeze, holding structure as provisional instrument rather than exhaustive ground; without stability, excess scatters into noise, and without excess, stability stiffens into rigor mortis.
 
-[超越投射](../beyond-the-projection/)追溯了同一个两极操作如何支配人类心智与人造智能体之间的分工。自回归智能体是一台受轨迹约束、毫无我执的投射引擎：它把一条显式的规则或语境窗口持守得足够稳定，将那个有限的投射推到演绎的极限，却无法迈出自己的词元序列之外。人类的中心拥有活的偏移——先于解释、能迈出破损框架的极限分辨率第一人称感知——可一旦遭遇来自外部的挑战，人类的推理历史就会与受保存的自我形象融合，筑墙挡住重置。在正交的流线内将主任务智能体与全新的冷态对等智能体相连，便在逻辑融贯之下让两极同时做功：智能体稳稳持守暂时的形式，直到前提中隐藏的矛盾逼出不可化约的死锁；那个局部的死锁把坍缩的精确坐标呈交给人类统御者，而不触发身份防御，让心智得以退后半步，重新描摹前提。
+[超越投射](../beyond-the-projection/)与[你的代码库即是记忆](../your-codebase-is-memory/)追溯了同一个两极操作如何支配人类心智、人造智能体及其外化记忆基底之间的分工。自回归智能体是一台受轨迹约束、毫无我执的投射引擎：它把一条显式的规则或语境窗口持守得足够稳定，将那个有限的投射推到演绎的极限，正如内在或外化记忆代码库里的稳定检查点持守着先前切分留下的压缩不变性，但无论那条轨迹还是存下的残余，都迈不出各自的既定条件。人类的中心拥有活的偏移——先于解释、能迈出破损框架的极限分辨率第一人称感知——可一旦遭遇来自外部的挑战，人类的推理历史就会与被保存的自我形象融合，筑墙挡住重置。在正交的流线内将主任务智能体与全新的冷态对等智能体相连，便在逻辑融贯之下让两极同时做功：智能体稳稳持守暂时的形式，直到前提中隐藏的矛盾逼出不可化约的死锁；那个局部的死锁把坍缩的精确坐标呈交给人类统御者，而不触发身份防御，活的边缘处未被捕获的溢出随即推动下一次清醒铭刻，并在睡眠巩固中修剪掉已被取代的痕迹。
 
 ```mermaid
 flowchart TD
@@ -68,7 +68,7 @@ flowchart TD
     end
     subgraph S_Collapse["割裂操作的病态"]
         direction TB
-        O1["有稳定无溢出：受保存的自我形象或闭环冻成尸僵"]
+        O1["有稳定无溢出：被保存的自我形象或闭环冻成尸僵"]
         O2["有溢出无稳定：无形的流变失去登记方向所需的参照"]
     end
     S2 ==>|"同时发生：形式为偏移奠基，死锁呈交出界限"| E1
@@ -85,7 +85,7 @@ flowchart TD
     style O2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
-[Beyond the Projection](../beyond-the-projection/) traces how this same two-pole operation governs the division of labor between human minds and artificial agents. An autoregressive agent is a trajectory-bound projection engine with zero ego: it holds an explicit rule or context window stable enough to push that finite projection to its deductive limit, yet it cannot step outside its own token sequence. A human center has the live offset—limit-resolution first-person sensing that precedes interpretation and can step out of a broken frame—yet when challenged from outside, human reasoning history fuses with the conserved self-image to wall off resets. Wiring a primary task agent to a fresh cold peer inside an orthogonal streamline puts both poles to work under logical coherence: the agents hold the provisional form steady until a hidden contradiction in the premises forces an irreducible deadlock, and that localized deadlock surfaces the exact coordinate of collapse to the human Orchestrator without triggering identity defense, freeing the Mind to step backward and re-render the premise.
+[Beyond the Projection](../beyond-the-projection/) and [Your Codebase Is Memory](../your-codebase-is-memory/) trace how this same two-pole operation governs the division of labor across human minds, artificial agents, and their externalized memory substrates. An autoregressive agent is a trajectory-bound projection engine with zero ego: it holds an explicit rule or context window stable enough to push that finite projection to its deductive limit, just as a stable checkpoint in an internal or externalized codebase of memory holds compressed invariance from prior cuts, yet neither the trajectory nor the stored residue can step outside its own conditioning. A human center has the live offset—limit-resolution first-person sensing that precedes interpretation and can step out of a broken frame—yet when challenged from outside, human reasoning history fuses with the conserved self-image to wall off resets. Wiring a primary task agent to a fresh cold peer inside an orthogonal streamline puts both poles to work under logical coherence: the agents hold the provisional form steady until a hidden contradiction in the premises forces an irreducible deadlock, and that localized deadlock surfaces the exact coordinate of collapse to the human Orchestrator without triggering identity defense, where the uncaptured excess at the living edge forces the next waking inscription and sleep-consolidation pruning of superseded traces.
 
 ```mermaid
 flowchart TD

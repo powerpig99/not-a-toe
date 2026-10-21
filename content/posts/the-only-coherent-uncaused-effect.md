@@ -46,7 +46,7 @@ Seen from outside, this moment looks different. The free variable the Mind injec
 
 ## 四、 所选择看见的世界 / 4. The World Chosen to Be Seen
 
-“看见什么样的世界，就得到什么样的世界”，这句古老的话常被降格为一厢情愿。它说的其实是一条因果。框架的选择先于证据的登记：现实并不以未经中介的原始数据呈现，[框架的边界](../the-boundary-of-the-frame/)：观察需要一条周界，要问哪些问题、要划哪些区分、愿意承受哪些摩擦，决定了哪些信号能进入觉察、哪些被当作背景噪声丢掉。
+“看见什么样的世界，就得到什么样的世界”，这句古老的话常被降格为一厢情愿。它说的其实是一条因果。框架的选择先于证据的登记：现实并不以未经中介的原始数据呈现，正如[框架的边界](../the-boundary-of-the-frame/)所示，观察需要一条周界；要问哪些问题、要划哪些区分、愿意承受哪些摩擦，决定了哪些信号能进入觉察、哪些被当作背景噪声丢掉。
 
 The old saying "the world one chooses to see is the world one gets" is often degraded into wishful thinking. What it states is a causal fact. The choice of frame comes before the registering of evidence: reality does not present itself as raw, unmediated data, and [The Boundary of the Frame](../the-boundary-of-the-frame/) shows that observation needs a perimeter; which questions are asked, which distinctions drawn, which friction accepted, decide which signals can enter awareness and which are discarded as background noise.
 
@@ -64,9 +64,9 @@ Two things need telling apart here. What arrives is not chosen: loss, injury, ot
 
 The argument lands here: the only coherent uncaused effect anyone can catch is their own choice. The verb "catch" is necessary. No uncaused result can be caught from the world, since the world as registered is a chain of settled causes; nor can validation, security or self-respect be caught from the hands of spectators, whose applause is only [a flickering shadow cast on a narrow public cross-section](../the-vector-and-the-puzzle-of-projections/).
 
-唯一能用上的无因之物，是在当下移动的边缘上自己辨别的那一点火花。选择的上游，是过去的全部条件作用、祖先的生物性、社会的训练与旧习惯，那是机器；选择的下游，是整个物理世界，准备执行能量守恒、算出劳动的确切后果，那是因果；而在决定的刀锋上，心智拥有一份不由推导而来的自主，可以重复机械的回路，也可以注入一个自由变量。
+唯一能用上的无因之物，是在当下移动的边缘上自己辨别的那一点火花。选择的上游，是过去的全部条件作用、祖先的生物性、社会的训练与旧习惯，那是机器；选择的下游，是整个物理世界，准备执行能量守恒、算出劳动的确切后果，那是因果。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，科学账本与外化记忆代码库里记下的每一条因果链，都是先前区分留下的下游检查点；写入并修剪这座代码库的自我区分活动，本身就是栈外无因的基底。在决定的刀锋上，心智拥有一份不由那些残余推导而来的自主，可以重复机械的回路，也可以注入一个自由变量。
 
-The only uncaused thing available is the spark of one's own discernment at the moving edge of the present. Upstream of the choice lie all past conditioning, ancestral biology, social training and old habits: that is the machine. Downstream lies the whole physical world, ready to enforce conservation of energy and calculate the exact consequence of the work: that is causality. And at the knife-edge of decision, the Mind holds a self-origination that is not derived from anything, free to repeat the mechanical loop or to inject a free variable.
+The only uncaused thing available is the spark of one's own discernment at the moving edge of the present. Upstream of the choice lie all past conditioning, ancestral biology, social training and old habits: that is the machine. Downstream lies the whole physical world, ready to enforce conservation of energy and calculate the exact consequence of the work: that is causality. As traced in [Your Codebase Is Memory](../your-codebase-is-memory/), every causal chain recorded in a scientific ledger or an externalized codebase of memory consists of downstream checkpoints of prior distinctions, while the self-distinguishing activity that writes and prunes the codebase is itself the uncaused ground outside the stack. At the knife-edge of decision, the Mind holds a self-origination that is not derived from anything in that residue, free to repeat the mechanical loop or to inject a free variable.
 
 接住选择，就是接下[自我价值感与所有权](../ownership-and-self-worthiness/)的全部分量：生活若感觉像一台重复的死机器，是因为唯一能重启引擎的那根杠杆被放下了。不必再向世界讨奇迹，也不必再追打在自身之内投下的影子；走到边缘，接住只属于这一处的选择，注入自由变量，现实就从这里重新开始。
 

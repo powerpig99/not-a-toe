@@ -1581,7 +1581,7 @@ Statements of the proportion of zeta zeros on the critical line presuppose a tot
 
 Carl Schmitt posits the friend-enemy distinction as politics' irreducible core; framing relations as binary conflict manufactures enmity before concrete disputes emerge.
 
-→ [The Question That Installs the War](../../posts/the-question-that-installs-the-war/)
+→ [安装战争的那个问题 / The Question That Installs the War](../../posts/the-question-that-installs-the-war/)
 
 ### 科学实在论 / Scientific Realism
 `哲学 / Philosophical`

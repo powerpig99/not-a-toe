@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T05:22:39.370Z",
+    "generated_at": "2026-10-21T05:37:27.384Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -79,7 +79,7 @@
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "d465dbb1da43",
-      "content/posts/failure-as-information.md": "12f99bcf0075",
+      "content/posts/failure-as-information.md": "98ca1f79bd34",
       "content/posts/fate-loves-irony-refined.md": "b81c7f96dfd5",
       "content/posts/felt-resistance-and-the-speed-differential.md": "067a958b2103",
       "content/posts/fidelity-not-optimality.md": "7ed073d86a59",
@@ -89,7 +89,7 @@
       "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "49034385ba4b",
       "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "0ea3bc80574b",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "49e11e207c1c",
-      "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "1dda87ac659f",
+      "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "48b125c5031e",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "93c650d4e105",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/guan-yu-gui-yin.md": "579cd9cb8530",
@@ -136,7 +136,7 @@
       "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md": "c864052d34e7",
       "content/posts/not-a-theory-of-everything.md": "4d8057e37ce3",
       "content/posts/not-a-toe-rewrite.md": "5d3abd405e41",
-      "content/posts/not-predicting-is-predicting-without-awareness.md": "8bfa5625bd35",
+      "content/posts/not-predicting-is-predicting-without-awareness.md": "750dd47f6c5b",
       "content/posts/objects-are-stabilized-relationships.md": "54def9af6a16",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "91be9558ed74",
       "content/posts/on-education.md": "acf5a581efd1",
@@ -144,7 +144,7 @@
       "content/posts/ones-potential-as-threat-or-inspiration.md": "63a25d4f0593",
       "content/posts/only-if-it-is-not-kept-empty.md": "1d2b22dc949c",
       "content/posts/ontos-is-a-method-agent.md": "25df0d4d161c",
-      "content/posts/open-vision-in-a-closed-arena.md": "c348a235e225",
+      "content/posts/open-vision-in-a-closed-arena.md": "98c32fc1001d",
       "content/posts/openness-is-consistency.md": "75ba5238a649",
       "content/posts/order-surplus-and-the-moral-intercept.md": "7cb3a1c5111c",
       "content/posts/overfitting-as-the-follower-mode.md": "c2ebb1c4e1e2",
@@ -187,7 +187,7 @@
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "2a91f58a7d13",
       "content/posts/sovereignty-essay.md": "10d294546a2a",
       "content/posts/sowell-observed-the-surface-problem.md": "5dbc958d7157",
-      "content/posts/stability-and-excess.md": "be1572ece751",
+      "content/posts/stability-and-excess.md": "25b813029b34",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "a5ed80a2c8d3",
       "content/posts/subtracting-consciousness-at-the-source.md": "df1242fc6ba9",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "a78981c24425",
@@ -237,8 +237,8 @@
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "b4175ca28f51",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "bf47c037daad",
       "content/posts/the-extendable-horizon.md": "a74fd15380da",
-      "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "143d4bdc7d01",
-      "content/posts/the-fallacy-of-post-success-parenting.md": "3c761a9c4e3c",
+      "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "58465caf6ed6",
+      "content/posts/the-fallacy-of-post-success-parenting.md": "7f1aaf099f4f",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "760605280837",
       "content/posts/the-fixed-image-of-transcendence.md": "582a2dc98e15",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "5b211b913d03",
@@ -261,7 +261,7 @@
       "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "8b4bd95500b8",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "18ddaac771bf",
       "content/posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function.md": "d0abfd039874",
-      "content/posts/the-homework-exam-inversion-registers-substitution.md": "a1a0f35154ee",
+      "content/posts/the-homework-exam-inversion-registers-substitution.md": "13b646bb8cfd",
       "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "cb240a9929c8",
       "content/posts/the-illusion-of-distance-and-the-dual-ruler.md": "d915809609b6",
       "content/posts/the-illusion-of-free-intelligence.md": "0b76898e8f30",
@@ -275,7 +275,7 @@
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
       "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "5db081fa7c26",
       "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "bec4cd8c5f9b",
-      "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "42c9505259d0",
+      "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "60f354d84985",
       "content/posts/the-invisible-first-move.md": "24e7e1373e4c",
       "content/posts/the-invisible-gods-eye.md": "a985d9e0b0a3",
       "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "319c407dd166",
@@ -308,7 +308,7 @@
       "content/posts/the-non-definitive-definition-of-intelligence.md": "d580075b6d35",
       "content/posts/the-npc-impression-is-structural.md": "42db1320fcc9",
       "content/posts/the-observational-cut-in-ai-debates.md": "4c40a00e0ba9",
-      "content/posts/the-only-coherent-uncaused-effect.md": "b8d494757a53",
+      "content/posts/the-only-coherent-uncaused-effect.md": "8e828e808896",
       "content/posts/the-open-question-is-determinisms-demand.md": "f1804fe05d79",
       "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "60c3d0411af1",
       "content/posts/the-other-coherence.md": "5975542f4901",
@@ -320,7 +320,7 @@
       "content/posts/the-power-law-of-surrendered-agency.md": "390d27c147c5",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "8c22e4938a6e",
       "content/posts/the-price-of-closing-optionality.md": "ce68a21742d8",
-      "content/posts/the-question-that-installs-the-war.md": "6570c77251d5",
+      "content/posts/the-question-that-installs-the-war.md": "1a354ebce802",
       "content/posts/the-ramble-within-the-ramble.md": "57566038f9e7",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "f5acf4cd7e1f",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "f4beffd39c0c",
@@ -344,7 +344,7 @@
       "content/posts/the-shadow-and-the-infinite.md": "f857f118c0ae",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "9dc84d6394f6",
       "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "8ac27b54bcdc",
-      "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "19ba2db4ce61",
+      "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "c2d1d681f444",
       "content/posts/the-source-of-all-harm.md": "20891d9d52cf",
       "content/posts/the-source-of-shared-change.md": "6b3787d81f18",
       "content/posts/the-sovereign-blinding.md": "118b031bf858",
@@ -408,7 +408,7 @@
       "content/book/causality.md": "477893ec526b",
       "content/book/consciousness.md": "d8595aa6097d",
       "content/book/economics.md": "c863f3bd1a44",
-      "content/book/index-of-premises.md": "c4d3372f5045",
+      "content/book/index-of-premises.md": "e9aca31c1933",
       "content/book/intelligence.md": "8530f0e466c0",
       "content/book/knowledge-and-learning.md": "51d92651b2ed",
       "content/book/life-and-statistics.md": "903bd0f56d99",
@@ -418,16 +418,16 @@
       "content/book/morality.md": "166522199e9e",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "d0065384016a",
-      "content/book/state-and-collective.md": "1ea11f39eeca",
+      "content/book/state-and-collective.md": "7d0cb00e0e55",
       "content/book/success-and-the-self.md": "9790413b85f6",
       "content/book/tools-and-progress.md": "bc3d12468c14"
     },
     "stats": {
       "posts": 397,
-      "edges": 10129,
-      "unique_directed": 5028,
+      "edges": 10166,
+      "unique_directed": 5041,
       "missing_targets": 0,
-      "one_way": 528,
+      "one_way": 541,
       "isolated": 35,
       "posts_with_outbound": 361,
       "book_pages": 16,
@@ -437,12 +437,12 @@
   },
   "hubs_in": [
     {
-      "slug": "beyond-the-projection",
-      "in_degree": 193
+      "slug": "your-codebase-is-memory",
+      "in_degree": 200
     },
     {
-      "slug": "your-codebase-is-memory",
-      "in_degree": 188
+      "slug": "beyond-the-projection",
+      "in_degree": 193
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -2422,12 +2422,13 @@
       "slug": "failure-as-information",
       "path": "content/posts/failure-as-information.md",
       "title": "失败即信息 / Failure as Information",
-      "hash": "12f99bcf0075",
+      "hash": "98ca1f79bd34",
       "in_degree": 10,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "hardness-is-not-inherent-in-the-action",
         "openness-is-consistency",
+        "your-codebase-is-memory",
         "beyond-the-projection",
         "ownership-and-self-worthiness",
         "deceleration-is-the-drag-felt-when-accelerating",
@@ -2620,14 +2621,15 @@
       "slug": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
       "path": "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md",
       "title": "格物致知与信息复杂度 / Investigating Things and the Nature of Information Complexity",
-      "hash": "1dda87ac659f",
+      "hash": "48b125c5031e",
       "in_degree": 11,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
         "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
         "the-closed-loop-of-representation",
         "what-information-is",
+        "your-codebase-is-memory",
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
         "complexity-obscures-emergence-as-the-act-of-mind",
         "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
@@ -3884,9 +3886,9 @@
       "slug": "not-predicting-is-predicting-without-awareness",
       "path": "content/posts/not-predicting-is-predicting-without-awareness.md",
       "title": "不预测是没有觉察的预测 / Not Predicting Is Predicting Without Awareness",
-      "hash": "8bfa5625bd35",
+      "hash": "750dd47f6c5b",
       "in_degree": 11,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "causality-all-the-way",
         "technology-is-residual-of-human-compounding",
@@ -3896,6 +3898,7 @@
         "the-paradoxical-nature-of-bystander-insights",
         "only-if-it-is-not-kept-empty",
         "closed-reality-in-the-pursuit-of-serendipity",
+        "your-codebase-is-memory",
         "the-scaffolding-we-forget",
         "the-paradox-of-fundamentals-is-the-unaware-switch-of-reference",
         "the-invisible-first-move"
@@ -4051,15 +4054,16 @@
       "slug": "open-vision-in-a-closed-arena",
       "path": "content/posts/open-vision-in-a-closed-arena.md",
       "title": "封闭竞技场中的开放视野 / Open Vision in a Closed Arena",
-      "hash": "c348a235e225",
+      "hash": "98c32fc1001d",
       "in_degree": 10,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
         "agi-and-asi-are-temporary-goalposts",
         "closed-reality-in-benchmark-maxing",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "what-works-is-the-belief",
         "production-consumption-and-the-minds-distinction",
         "closed-reality-in-the-pursuit-of-serendipity",
@@ -5213,9 +5217,9 @@
       "slug": "stability-and-excess",
       "path": "content/posts/stability-and-excess.md",
       "title": "稳定与溢出 / Stability and Excess",
-      "hash": "be1572ece751",
+      "hash": "25b813029b34",
       "in_degree": 10,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "the-closed-loop-of-representation",
         "self-image-speaks-as-if-from-nowhere",
@@ -5224,6 +5228,7 @@
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "causality-all-the-way",
         "the-scaffolding-that-keeps-growing",
         "the-unobservable-driver-of-learning",
@@ -5747,7 +5752,7 @@
       "path": "content/posts/the-boundary-of-the-frame.md",
       "title": "框架的边界 / The Boundary of the Frame",
       "hash": "6e148e2a6922",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 19,
       "links_out": [
         "what-information-is",
@@ -6467,9 +6472,9 @@
       "slug": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "path": "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md",
       "title": "调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth",
-      "hash": "143d4bdc7d01",
+      "hash": "58465caf6ed6",
       "in_degree": 12,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "the-illusion-of-knowing-and-the-geometry-of-amputation",
         "the-mind-as-vector-and-coordinate-system",
@@ -6479,6 +6484,7 @@
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "when-malfunction-is-scored-as-intelligence",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "felt-resistance-and-the-speed-differential",
         "individual-choices-as-the-only-causal-levers",
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
@@ -6491,13 +6497,14 @@
       "slug": "the-fallacy-of-post-success-parenting",
       "path": "content/posts/the-fallacy-of-post-success-parenting.md",
       "title": "成功之后的育儿谬误 / The Fallacy of Post-Success Parenting",
-      "hash": "3c761a9c4e3c",
+      "hash": "7f1aaf099f4f",
       "in_degree": 12,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "the-generative-atlas-of-macroscopic-phenomena",
         "the-geometry-of-success",
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+        "your-codebase-is-memory",
         "guidance-is-not-ownership",
         "on-education",
         "emotional-support-as-causal-interference",
@@ -7017,14 +7024,15 @@
       "slug": "the-homework-exam-inversion-registers-substitution",
       "path": "content/posts/the-homework-exam-inversion-registers-substitution.md",
       "title": "作业与考试的倒置折射出替代效应 / The Homework–Exam Inversion Registers Substitution",
-      "hash": "a1a0f35154ee",
+      "hash": "13b646bb8cfd",
       "in_degree": 11,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "mistaking-the-expression-for-the-intelligence",
         "beyond-the-projection",
         "causality-stays-at-the-edge-that-steers",
         "the-allocation-of-causal-power-in-validation",
+        "your-codebase-is-memory",
         "amplification-paradox",
         "token-efficiency-emulation-and-the-unclosable-gap",
         "closed-reality-in-benchmark-maxing",
@@ -7314,9 +7322,9 @@
       "slug": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
       "path": "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md",
       "title": "规程的倒置与因果回路的消声 / The Inversion of the Protocol and the Silencing of the Causal Loop",
-      "hash": "42c9505259d0",
+      "hash": "60f354d84985",
       "in_degree": 10,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "the-causal-inversion-of-partnership",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
@@ -7325,6 +7333,7 @@
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "beyond-the-projection",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "your-codebase-is-memory",
         "the-cartesian-overstep-and-the-frenzy-of-creation",
         "the-illusion-of-the-unmediated",
         "the-explanatory-trap-of-the-ordinary-perspective",
@@ -8032,9 +8041,9 @@
       "slug": "the-only-coherent-uncaused-effect",
       "path": "content/posts/the-only-coherent-uncaused-effect.md",
       "title": "唯一自洽的无因之果 / The Only Coherent Uncaused Effect",
-      "hash": "b8d494757a53",
+      "hash": "8e828e808896",
       "in_degree": 10,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "the-generative-mechanics-of-value-money-and-wealth",
         "the-arithmetic-of-the-register",
@@ -8046,6 +8055,7 @@
         "the-cut-moves-but-never-vanishes",
         "the-boundary-of-the-frame",
         "individual-choices-as-the-only-causal-levers",
+        "your-codebase-is-memory",
         "ownership-and-self-worthiness"
       ]
     },
@@ -8315,15 +8325,17 @@
       "kind": "post",
       "slug": "the-question-that-installs-the-war",
       "path": "content/posts/the-question-that-installs-the-war.md",
-      "title": "The Question That Installs the War",
-      "hash": "6570c77251d5",
+      "title": "安装战争的那个问题 / The Question That Installs the War",
+      "hash": "1a354ebce802",
       "in_degree": 11,
-      "out_degree": 11,
+      "out_degree": 13,
       "links_out": [
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
         "externalized-virtue-becomes-its-opposite",
         "the-npc-impression-is-structural",
+        "the-boundary-of-the-frame",
         "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+        "your-codebase-is-memory",
         "reality-is-the-minds-ongoing-realization",
         "the-observational-cut-in-ai-debates",
         "the-climate-problem-registers-only-as-perception",
@@ -8981,9 +8993,9 @@
       "slug": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
       "path": "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md",
       "title": "造神的障眼法与隐秘阶序的说辞 / The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank",
-      "hash": "19ba2db4ce61",
+      "hash": "c2d1d681f444",
       "in_degree": 10,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "the-cartesian-overstep-and-the-frenzy-of-creation",
         "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
@@ -8991,6 +9003,7 @@
         "openness-is-consistency",
         "the-distant-silhouette-and-the-inventory-from-nowhere",
         "the-origin-of-god-and-the-flattening-of-we",
+        "your-codebase-is-memory",
         "the-explanatory-trap-of-the-ordinary-perspective",
         "the-digital-god-and-the-horizon-jump",
         "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
@@ -10230,7 +10243,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 188,
+      "in_degree": 200,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -21756,9 +21769,21 @@
     },
     {
       "from": "failure-as-information",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "failure-as-information",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness Is Consistency"
+    },
+    {
+      "from": "failure-as-information",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "failure-as-information",
@@ -22692,9 +22717,21 @@
     },
     {
       "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
       "to": "what-information-is",
       "rel": "points_to",
       "label": "What Information Is"
+    },
+    {
+      "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
@@ -31212,9 +31249,21 @@
     },
     {
       "from": "not-predicting-is-predicting-without-awareness",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "not-predicting-is-predicting-without-awareness",
       "to": "closed-reality-in-the-pursuit-of-serendipity",
       "rel": "points_to",
       "label": "Closed Reality in the Pursuit of Serendipity"
+    },
+    {
+      "from": "not-predicting-is-predicting-without-awareness",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "not-predicting-is-predicting-without-awareness",
@@ -32040,9 +32089,21 @@
     },
     {
       "from": "open-vision-in-a-closed-arena",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "open-vision-in-a-closed-arena",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "open-vision-in-a-closed-arena",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "open-vision-in-a-closed-arena",
@@ -39912,9 +39973,21 @@
     },
     {
       "from": "stability-and-excess",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "stability-and-excess",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "stability-and-excess",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "stability-and-excess",
@@ -47502,6 +47575,12 @@
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
@@ -47511,6 +47590,12 @@
       "to": "the-mind-as-vector-and-coordinate-system",
       "rel": "points_to",
       "label": "The Mind as Vector and Coordinate System"
+    },
+    {
+      "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
@@ -47607,6 +47692,18 @@
       "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
       "rel": "points_to",
       "label": "The Pseudo-Causality of Emergence"
+    },
+    {
+      "from": "the-fallacy-of-post-success-parenting",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-fallacy-of-post-success-parenting",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-fallacy-of-post-success-parenting",
@@ -50610,9 +50707,21 @@
     },
     {
       "from": "the-homework-exam-inversion-registers-substitution",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-homework-exam-inversion-registers-substitution",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
       "label": "The Allocation of Causal Power in Validation"
+    },
+    {
+      "from": "the-homework-exam-inversion-registers-substitution",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-homework-exam-inversion-registers-substitution",
@@ -52329,6 +52438,18 @@
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
       "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
@@ -56370,6 +56491,18 @@
     },
     {
       "from": "the-only-coherent-uncaused-effect",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-only-coherent-uncaused-effect",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-only-coherent-uncaused-effect",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
       "label": "自我价值感与所有权"
@@ -57992,13 +58125,31 @@
       "from": "the-question-that-installs-the-war",
       "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "rel": "points_to",
-      "label": "Good and evil are the two sides of the coin and the cut"
+      "label": "善恶是硬币的两面与那一刀"
     },
     {
       "from": "the-question-that-installs-the-war",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
-      "label": "Externalized virtue becomes its opposite"
+      "label": "外化善意走向其反面"
+    },
+    {
+      "from": "the-question-that-installs-the-war",
+      "to": "the-npc-impression-is-structural",
+      "rel": "points_to",
+      "label": "NPC 印象是结构性的，而非心智的排名"
+    },
+    {
+      "from": "the-question-that-installs-the-war",
+      "to": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "rel": "points_to",
+      "label": "Good and Evil Are the Two Sides of the Coin and the Cut"
+    },
+    {
+      "from": "the-question-that-installs-the-war",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "Externalized Virtue Becomes Its Opposite"
     },
     {
       "from": "the-question-that-installs-the-war",
@@ -58008,45 +58159,117 @@
     },
     {
       "from": "the-question-that-installs-the-war",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "框架的边界"
+    },
+    {
+      "from": "the-question-that-installs-the-war",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "The Boundary of the Frame"
+    },
+    {
+      "from": "the-question-that-installs-the-war",
+      "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "rel": "points_to",
+      "label": "对“AI 糟粕”的反感是反复出现的模式"
+    },
+    {
+      "from": "the-question-that-installs-the-war",
       "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "rel": "points_to",
       "label": "the distaste for “AI slop”"
     },
     {
       "from": "the-question-that-installs-the-war",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-question-that-installs-the-war",
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
-      "label": "Reality is the Mind's ongoing realization"
+      "label": "现实是心智持续的实现"
+    },
+    {
+      "from": "the-question-that-installs-the-war",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-question-that-installs-the-war",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality Is the Mind's Ongoing Realization"
     },
     {
       "from": "the-question-that-installs-the-war",
       "to": "the-observational-cut-in-ai-debates",
       "rel": "points_to",
-      "label": "The observational cut in AI debates"
+      "label": "AI 争论中的观察划界"
+    },
+    {
+      "from": "the-question-that-installs-the-war",
+      "to": "the-observational-cut-in-ai-debates",
+      "rel": "points_to",
+      "label": "The Observational Cut in AI Debates"
     },
     {
       "from": "the-question-that-installs-the-war",
       "to": "the-climate-problem-registers-only-as-perception",
       "rel": "points_to",
-      "label": "The climate problem registers only as perception"
+      "label": "气候问题只作为感知被登记"
     },
     {
       "from": "the-question-that-installs-the-war",
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
-      "label": "Preference clusters and the language of judgment"
+      "label": "偏好聚类与评判语言"
     },
     {
       "from": "the-question-that-installs-the-war",
       "to": "the-belief-in-utopia-is-the-path-to-dystopia",
       "rel": "points_to",
-      "label": "The belief in utopia is the path to dystopia"
+      "label": "对乌托邦的信念是通往反乌托邦之路"
+    },
+    {
+      "from": "the-question-that-installs-the-war",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "风险在于对监管本身的迷信"
+    },
+    {
+      "from": "the-question-that-installs-the-war",
+      "to": "the-climate-problem-registers-only-as-perception",
+      "rel": "points_to",
+      "label": "The Climate Problem Registers Only as Perception"
+    },
+    {
+      "from": "the-question-that-installs-the-war",
+      "to": "preference-clusters-and-the-language-of-judgment",
+      "rel": "points_to",
+      "label": "Preference Clusters and the Language of Judgment"
+    },
+    {
+      "from": "the-question-that-installs-the-war",
+      "to": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "rel": "points_to",
+      "label": "The Belief in Utopia Is the Path to Dystopia"
     },
     {
       "from": "the-question-that-installs-the-war",
       "to": "the-risk-is-the-belief-in-oversight-itself",
       "rel": "points_to",
       "label": "The Risk Is the Belief in Oversight Itself"
+    },
+    {
+      "from": "the-question-that-installs-the-war",
+      "to": "evil-as-the-minds-own-creation",
+      "rel": "points_to",
+      "label": "恶是心智自己的造物"
     },
     {
       "from": "the-question-that-installs-the-war",
@@ -62595,6 +62818,18 @@
       "to": "the-origin-of-god-and-the-flattening-of-we",
       "rel": "points_to",
       "label": "The Origin of God and the Flattening of \"We\""
+    },
+    {
+      "from": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
@@ -71206,7 +71441,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "c4d3372f5045",
+        "hash": "e9aca31c1933",
         "out_degree": 397
       },
       {
@@ -71296,7 +71531,7 @@
         "slug": "state-and-collective",
         "path": "content/book/state-and-collective.md",
         "title": "国家集体与权力的镜像 / The State, Collectives, and the Mirror of Power",
-        "hash": "1ea11f39eeca",
+        "hash": "7d0cb00e0e55",
         "out_degree": 30
       },
       {
@@ -73327,7 +73562,7 @@
         "from": "book:index-of-premises",
         "to": "the-question-that-installs-the-war",
         "rel": "collects",
-        "label": "The Question That Installs the War"
+        "label": "安装战争的那个问题 / The Question That Installs the War"
       },
       {
         "from": "book:index-of-premises",
@@ -77395,7 +77630,7 @@
         "from": "book:state-and-collective",
         "to": "the-question-that-installs-the-war",
         "rel": "collects",
-        "label": "The Question That Installs the War"
+        "label": "安装战争的那个问题 / The Question That Installs the War"
       },
       {
         "from": "book:state-and-collective",

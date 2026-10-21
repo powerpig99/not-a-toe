@@ -36,7 +36,7 @@ The method is not only a selection among others' artifacts. The very freedom to 
 
 Others keep predicting. Cabins are still manufactured. Fiber is still laid. Appliances, books and clearance sales continue because other Minds keep filling while outcomes remain open. The method of not predicting draws on an economy that has not adopted the same maxim.
 
-他自己早先的预测，也在同一片场中复利。CD Baby 是在独立音乐人会不会想要一家商店仍未可知时建起来的；还有那些书，一串公开的事迹，如今被别的中心读作成功。时间、钱，以及一群会问“房子建得怎么样了”的读者，并不是坐在方法旁边的第二台引擎，而是早先预测的果实，它们重新进入，成了让推迟负担得起、让故事流传的那片场。[拥有更多从不是原因](../having-more-is-never-the-cause/)讲的是同一种回返：拥有只命名当前的呈现，不是一股独立的、会奖赏更多供给的力量。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)讲的是同一种单向的塑造：更早的行为塑造后来的行为能栖身的地方，却不会挪动下一根杠杆。
+他自己早先的预测，也在同一片场中复利。CD Baby 是在独立音乐人会不会想要一家商店仍未可知时建起来的；还有那些书，一串公开的事迹，如今被别的中心读作成功。时间、钱，以及一群会问“房子建得怎么样了”的读者，并不是坐在方法旁边的第二台引擎，而是早先预测的果实，它们重新进入，成了让推迟负担得起、让故事流传的那片场。[拥有更多从不是原因](../having-more-is-never-the-cause/)讲的是同一种回返：拥有只命名当前的呈现，并不是一股会奖赏更多供给的独立力量。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)讲的是同一种单向的塑造：更早的行为塑造后来的行为能栖身的地方，却不会挪动下一根杠杆。
 
 His own previous predictions compound in the same field. CD Baby, built while it was still open whether independent musicians would want a store; books; a public sequence other centers now read as success. Time, money and an audience that asks how the house is going are not a second engine sitting beside the method. They are fruit of earlier predicting, re-entering as the field in which deferral is affordable and the story circulates. [Having More Is Never the Cause](../having-more-is-never-the-cause/) traces the same return: possession names the current rendering, not an independent force that awards further supply. [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) is the same one-way shaping: earlier acts pattern what later acts can inhabit; they do not relocate the next lever.
 
@@ -52,7 +52,7 @@ The Mind does not stop choosing. It changes the style of its choosing. Effortful
 
 ## 五、 永久近乎空，收窄了可能的充盈 / 5. Permanent Near-Emptiness Narrows Possible Fullness
 
-空碗的意象，同时抓住了这种立场的力量与局限。空之所以有用，是因为它造出了容量。用处从不只在空里，它来自容量与内容之间的关系：碗之所以有价值，恰恰因为它能空，*也*因为它能被盛满。当碗被刻意地、作为永久的方法保持在近乎空的状态，可能的充盈的范围就被预先收窄了。起初是防范错误预测的东西，成了新的约束。空只在暂时时有用；被当作更可取的永久方法保持下来，它就是一个被保留得超过了自己那一步的状态，也就是滞后。[只要它不被保持为空](../only-if-it-is-not-kept-empty/)完整地追溯了这份剩余容量的两面。
+空碗的意象，同时抓住了这种立场的力量与局限。空之所以有用，是因为它造出了容量。用处从不只在空里，它来自容量与内容之间的关系：碗之所以有价值，恰恰因为它能空，*也*因为它能被盛满。当碗被刻意地、作为永久的方法保持在近乎空的状态，可能充盈的范围就被预先收窄了。起初是防范错误预测的东西，成了新的约束。空只在暂时时有用；被当作更可取的永久方法保持下来，它就是一个被保留得超过了自己那一步的状态，也就是滞后。[只要它不被保持为空](../only-if-it-is-not-kept-empty/)完整地追溯了这份剩余容量的两面。
 
 The empty-bowl image captures both the power and the limit of this stance. Emptiness is useful because it creates capacity. Usefulness is never located in emptiness alone; it arises from the relationship between capacity and content, the bowl being valuable precisely because it can be empty *and* because it can be filled. When the bowl is deliberately kept near-empty as a permanent method, the range of possible fullness is narrowed in advance. What began as protection against wrong predictions becomes a new constraint. Emptiness serves only while it is temporary; held as a preferred permanent method, it is a state preserved past its step, which is lag. [Only If It Is Not Kept Empty](../only-if-it-is-not-kept-empty/) traces both faces of that residual capacity in full.
 
@@ -62,9 +62,9 @@ In Sivers' case the rigorous deferral safeguards against certain errors while co
 
 ## 六、 空着的日程是同一种倒置 / 6. The Empty Calendar Is the Same Inversion
 
-同样的倒置，也出现在纳瓦尔·拉维肯特对空日程与最少承诺的强调里。两者都正确地注意到了多数人忽略的那一面，开放、可选性、不执着，然后在那一面住得如此之深，另一面几乎看不见了。原本的智慧被倒转成对另一些能力的选择性无知，充盈、持续的承诺、大胆的临时预测，而这些恰恰是多数人用得过度的。永久停在硬币空的那一面，就成了一次未经审视的预测：空总是最好的。[追求机缘中的封闭现实](../closed-reality-in-the-pursuit-of-serendipity/)讲的是把空白的时间装成开放之因时的那种冻结：没有计划的计划，被豁免于其他每一个计划都要接受的重新追溯。
+同样的倒置，也出现在纳瓦尔·拉维肯特对空日程与最少承诺的强调里。两者都正确地注意到了多数人忽略的那一面，开放、可选性、不执着，然后在那一面住得如此之深，另一面几乎看不见了。原本的智慧被倒转成对另一些能力的选择性无知，充盈、持续的承诺、大胆的临时预测，而这些恰恰是多数人用得过度的。永久停在硬币空的那一面，就成了一次未经审视的预测：空总是最好的。[追求机缘中的封闭现实](../closed-reality-in-the-pursuit-of-serendipity/)讲的是把空白的时间装成开放之因时的那种冻结：没有计划的计划，被豁免于其他每一个计划都要接受的重新追溯。[你的代码库即是记忆](../your-codebase-is-memory/)追溯的则是这期间照常运转的东西：自称不预测，不过是把内在或外化记忆代码库中未经审视的默认检查点直接向未来执行下去，同时将这一前提遮蔽在有意识的审视与修剪之外。
 
-The same inversion appears in Naval Ravikant's emphasis on the empty calendar and minimal commitments. Both correctly notice the side most people neglect, openness, optionality and non-attachment, and then inhabit it so thoroughly that the opposite side becomes nearly invisible. The original wisdom is inverted into a selective ignorance of the very capacities, fullness, sustained commitment and bold provisional prediction, that most people overuse. Staying permanently on the empty face of the coin turns into an unexamined prediction that emptiness will always serve best. [Closed Reality in the Pursuit of Serendipity](../closed-reality-in-the-pursuit-of-serendipity/) is that freeze when blank time is installed as the cause of openness: the plan of having no plan exempted from the same re-tracing demanded of every other plan.
+The same inversion appears in Naval Ravikant's emphasis on the empty calendar and minimal commitments. Both correctly notice the side most people neglect, openness, optionality and non-attachment, and then inhabit it so thoroughly that the opposite side becomes nearly invisible. The original wisdom is inverted into a selective ignorance of the very capacities, fullness, sustained commitment and bold provisional prediction, that most people overuse. Staying permanently on the empty face of the coin turns into an unexamined prediction that emptiness will always serve best. [Closed Reality in the Pursuit of Serendipity](../closed-reality-in-the-pursuit-of-serendipity/) is that freeze when blank time is installed as the cause of openness: the plan of having no plan exempted from the same re-tracing demanded of every other plan. [Your Codebase Is Memory](../your-codebase-is-memory/) traces what runs in the meantime: claiming not to predict simply executes the unexamined default checkpoint of one's internal or externalized codebase of memory forward into the future while shielding that premise from conscious inspection and pruning.
 
 ## 七、 痕迹被记作不言自明的自由 / 7. Traces Register as Self-Evident Freedom
 
@@ -72,7 +72,7 @@ The same inversion appears in Naval Ravikant's emphasis on the empty calendar an
 
 Self-distinguishing activity occurs, uncaused and unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Observation holds effect; the cause that produced it remains one step ahead.
 
-西弗斯的写作，多半记下的是这个过程完成了的痕迹。小屋、户外的系统、干净的原则，在纸面上呈现为一个自由的人最自然的动作。大体没有说出的，是产出这些痕迹的持续而高分辨率的选择，是永久近乎空对后续可能所施加的限制，是每一样添加的形式早已是别人的预测，是推迟的自由乃是仍在进行的预测的果实，别人仍在继续的，以及他自己已被读作成功的。因为掌控早已近乎全面，这条路被呈现为不言自明。读者只收到硬币的一面：看得见的自由明亮，安静的编排与对充盈的自我限制大多留在阴影里。[遗忘的脚手架](../the-scaffolding-we-forget/)讲的就是这种退场：建造从递归中离开，世界于是看起来就是它本来的样子。在这里，建造是那份选择、是做出菜单的别人的预测、是让推迟负担得起的先前的预测；显现出来的世界，是那栋不可能是别样的房子。
+西弗斯的写作，多半记下的是这个过程完成了的痕迹。小屋、户外的系统、干净的原则，在纸面上呈现为一个自由的人最自然的动作。大体没有说出的，是产出这些痕迹的持续而高分辨率的选择，是永久近乎空对后续可能所施加的限制，是每一样添加的形式早已是别人的预测，是推迟的自由本身就是持续预测结出的果实——包括别人仍在继续的预测，以及他自己早已被读作成功的预测。因为掌控早已近乎全面，这条路被呈现为不言自明。读者只收到硬币的一面：看得见的自由明亮，安静的编排与对充盈的自我限制大多留在阴影里。[遗忘的脚手架](../the-scaffolding-we-forget/)讲的就是这种退场：建造从递归中离开，世界于是看起来就是它本来的样子。在这里，建造就是那份持续的选择、那些备好选项的他人预测，以及那些让推迟负担得起的早先预测；显现出来的世界，是那栋不可能是别样的房子。
 
 ```mermaid
 flowchart TD
@@ -146,6 +146,6 @@ Intent and awareness cannot be proven across the boundary of another mind. What 
 
 ## 九、 看似的不完整，在于诠释的那一层 / 9. Apparent Incompleteness Lives in the Interpretive Layer
 
-现实登记为连贯而开放的。看似的不完整，产生于诠释的那一层，它在完整的运动不可见时形成。在那道间隙里，观察与诠释分开，无法被强行调和。痕迹显现，被描述的自由显现；持续的选择、自我限制的空、塑造了可用之场的别人的预测，以及让这份自由可得的先前的预测（别人仍在继续的，他自己已被读作成功的），都可以被推断出来。这些都不必被抬到诠释之上。[看不见的第一步](../the-invisible-first-move/)追溯的是这种推迟在竞争中的后果：等到清楚了才去预测，就注定了早动的人已在复利中积下无法逾越的优势。
+现实登记为连贯而开放的。看似的不完整，产生于诠释的那一层，它在完整的运动不可见时形成。在那道间隙里，观察与诠释分开，无法被强行调和。痕迹显现出来，所描绘的自由也显现出来；至于持续的选择、自我设限的空、塑造了可用之场的他人预测，以及让这份自由得以成行的早先预测（无论是别人仍在继续的，还是他自己已被读作成功的），则都可以由此推断出来。这些都不必被抬到诠释之上。[看不见的第一步](../the-invisible-first-move/)追溯的是这种推迟在竞争中的后果：等到清楚了才去预测，就注定了早动的人已在复利中积下无法逾越的优势。
 
 Reality registers as coherent and open. Apparent incompleteness arises in the interpretive layer that forms when the complete movement is not available to view. In that gap, observation and interpretation diverge and cannot be forced into reconciliation. The traces appear; the described freedom appears. The continuous choosing, the self-limiting emptiness, the others' predictions that patterned the available field, and the prior predicting (others' still continuing and his own already read as success) that made the freedom available can be inferred. None of these need be elevated beyond interpretation. [The Invisible First Move](../the-invisible-first-move/) tracks the competitive consequence of this deferral: waiting for clarity before predicting guarantees that early movers have already compounded an insurmountable advantage.
