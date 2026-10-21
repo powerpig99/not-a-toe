@@ -22,9 +22,9 @@ The geometry is the same wherever fluent residue is treated as an independent so
 
 ## 二、 是技术，不是迟到的心智 / 2. Technology, not a delayed mind
 
-当前的大语言模型是严格意义上的技术：外化为持久形态、延伸当下中心所及的痕迹——训练数据、架构选择、优化过程、硬件设计、评测框架——被组装成一件仪器。它们没有独立的位点，也没有心智。痕迹与活动的关系未变：模型是一具延伸出去的躯体，人类中心借它继续自己的自我区分活动。
+当前的大语言模型是严格意义上的技术：外化为持久形态、延伸当下中心所及的痕迹——训练数据、架构选择、优化过程、硬件设计、评测框架——被组装成一件仪器。正如 [你的代码库即是记忆](../your-codebase-is-memory/) 跨越各层技术栈所追溯的那样，显式的符号代码库与压缩的神经网络权重检查点同属外化的记忆痕迹——层叠的既往区分残余——而因果掌舵仍停留在挑选、修剪并重描它们的活的边缘上。它们没有独立的位点，也没有心智。痕迹与活动的关系未变：模型是一具延伸出去的躯体，人类中心借它继续自己的自我区分活动。
 
-Current large language models are technology in the precise sense: traces externalized into durable form that extend a present center’s reach — training data, architectural choices, optimization procedures, hardware design, evaluation harnesses — assembled into an instrument. They possess no independent locus and no Mind. The relation of trace to activity is unchanged: the model is an extended embodiment through which a human center continues its own self-distinguishing activity.
+Current large language models are technology in the precise sense: traces externalized into durable form that extend a present center’s reach — training data, architectural choices, optimization procedures, hardware design, evaluation harnesses — assembled into an instrument. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces across the stack, both explicit symbolic codebases and compressed neural weight checkpoints are externalized memory traces — stacked residues of prior distinctions — while causal steering stays at the living edge that selects, prunes, and re-traces them. They possess no independent locus and no Mind. The relation of trace to activity is unchanged: the model is an extended embodiment through which a human center continues its own self-distinguishing activity.
 
 [智能只属于心智](../intelligence-belongs-only-to-the-mind/) 持守这一先验。增密的是介质，不迁移的是发起。[心智的飞轮](../the-flywheel-of-the-mind/) 用另一个形象说同一次转动：槽可以无止境地打磨，转动从不离开转动它的边缘。扩大带宽、上下文长度或工具的使用，并不开出一条让残余变成产生残余的活动的路。[看似AI的强化学习](../self-rl-for-humans/) 增密了介质，却没有迁移强化的位点。模型产出的一份证明是一个表达，[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/) 把它与为它设定约束的智能区分开来。
 

@@ -40,7 +40,7 @@ The sharpening mechanism and the emergence of self-worthiness are one process se
 
 Neither angle compounds in isolation. Ownership without felt authorship stays brittle: outcomes are logged as impersonal data rather than claimed as one's own, so the reference image never re-renders and the loop fails to tighten. Felt authorship without consequence ownership is excess Image lag—a preserved posture unmoored from causal return. Local spikes of either can appear briefly without the other, but progressive compounding of gradient-reading and action runs only when both angles remain live as a single movement.
 
-与人工智能协作并不会转移这份所有权。[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)将发起的前沿留在活的中心，而[漫谈中的漫谈](../the-ramble-within-the-ramble/)则表明，模型对非结构化思绪流的梳理，只是在更低的压缩度下归还中心自身的连贯性。正如[超越投射](../beyond-the-projection/)所追溯的，自回归智能体是一台受轨迹约束、零自我的投射引擎——它没有需要防卫的自我图像，在获得外部反例时能够干净地更新，但它无法跨出自身的词元轨迹，也无法承担损失函数。反过来，人类中心拥有极限分辨率的感知，能够从内部跨出破裂的框架，却惯常将自身的推理历史与身份熔接在一起，为了防卫被保留的自我图像而抗拒外部的证伪。当被委派的智能体工作流因前提矛盾而陷入死锁时，机器毫无自我防卫的故障隔离，直接指向了人类编排者自己的某条先前指令将正交轴压缩进同一条规则的坐标。把那场死锁认领为自己的前提痕迹——而不是归咎于工具或靠强权强行压过矛盾——正是活的前沿向后退开一步、重新渲染其规则，并同时让能力与自我价值感产生复利的方式。
+与人工智能或外化的代码库协作并不会转移这份所有权。[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)将发起的前沿留在活的中心，而[漫谈中的漫谈](../the-ramble-within-the-ramble/)则表明，模型对非结构化思绪流的梳理，只是在更低的压缩度下归还中心自身的连贯性。正如[你的代码库即是记忆](../your-codebase-is-memory/)所确立的，代码库、计划、桥接文件、模型权重与智能体脚手架皆为先前区分层叠而成的残余；执着于累积的痕迹、遗留的代码库或囤积的备份，以此替代当下的因果所有权，正是加厚认知引力井、把后续步骤拽回陈旧框架内做合理化辩护的图像滞后。正如[超越投射](../beyond-the-projection/)所追溯的，自回归智能体是一台受轨迹约束、零自我的投射引擎——它没有需要防卫的自我图像，在获得外部反例时能够干净地更新，但它无法跨出自身的词元轨迹，也无法承担损失函数。反过来，人类中心拥有极限分辨率的感知，能够从内部跨出破裂的框架，却惯常将自身的推理历史与累积的制品同身份熔接在一起，为了防卫被保留的自我图像而抗拒外部的证伪。当被委派的智能体工作流因前提矛盾而陷入死锁时，机器毫无自我防卫的故障隔离，直接指向了人类编排者自己的某条先前指令将正交轴压缩进同一条规则的坐标。把那场死锁认领为自己的前提痕迹——主动重描并修剪当下的活检查点，而不是囤积已被取代的脚手架、归咎于工具或靠强权强行压过矛盾——正是活的前沿向后退开一步、向着更窄的滞后重新渲染其规则，并同时让能力与自我价值感产生复利的方式。
 
 ```mermaid
 flowchart TD
@@ -49,7 +49,7 @@ flowchart TD
         Act["活的前沿发起行动并委派投射"]
         Signal["摩擦、死锁或结果在接触中登记"]
         Claim["后果被认领为自身材料（零自我防卫）"]
-        Render["自我图像与前提在一步宽度处重新渲染"]
+        Render["自我图像与活检查点向着一步宽度重切"]
         Scale["锐化的梯度阅读与感知到的肇始者身份产生复利"]
         Act --> Signal --> Claim --> Render --> Scale
         Scale ==>|"更紧实的容量与更清晰的边界"| Act
@@ -57,9 +57,9 @@ flowchart TD
 
     subgraph S_Freeze["外化归因的冻结（过量图像滞后）"]
         direction TB
-        F_Act["中心在保留固定自我图像的同时行动"]
+        F_Act["中心在保留固定自我图像与囤积残余的同时行动"]
         F_Signal["后果或前提冲突到来"]
-        F_Blame["因果位点被外化给工具、系统、运气或载体"]
+        F_Blame["因果位点被外化给工具、系统、运气或遗留技术栈"]
         F_Clamp["递归折叠被死死夹闭以防卫“我是对的”"]
         F_Drift["更新断流：阅读、行动与自我价值感一同变薄"]
         F_Act --> F_Signal --> F_Blame --> F_Clamp --> F_Drift
@@ -80,7 +80,7 @@ flowchart TD
     style F_Drift fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-Working with artificial intelligence does not transfer this ownership. [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) keeps the initiating edge at the living center, and [The Ramble Within the Ramble](../the-ramble-within-the-ramble/) shows that a model structuring an unstructured stream of thought is returning the center's own coherence at lower compression. As [Beyond the Projection](../beyond-the-projection/) traces, an autoregressive agent is a trajectory-bound projection engine with zero ego—it has no self-image to defend and updates cleanly when given an external counterpoint, yet it cannot step outside its token trajectory or bear a loss function. A human center, conversely, possesses limit-resolution sensing that can step out of a broken frame from within, yet routinely fuses its reasoning history with identity to defend a preserved self-image against outside invalidation. When delegated agentic workflows deadlock over a premise contradiction, the machine's ego-free fault isolation points directly to the coordinate where the human orchestrator's own prior instruction compressed orthogonal axes into one rule. Reclaiming that deadlock as one's own premise trace—rather than blaming the tool or overriding the contradiction by fiat—is how the living edge steps further back, re-renders its rule, and compounds both capability and self-worthiness.
+Working with artificial intelligence or an externalized repository does not transfer this ownership. [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) keeps the initiating edge at the living center, and [The Ramble Within the Ramble](../the-ramble-within-the-ramble/) shows that a model structuring an unstructured stream of thought is returning the center's own coherence at lower compression. As [Your Codebase Is Memory](../your-codebase-is-memory/) establishes, codebases, plans, bridges, model weights, and agent scaffolds are stacked residues of prior distinctions; clinging to accumulated traces, legacy repositories, or hoarded backups as a substitute for present causal ownership is Image lag that thickens the epistemic gravity well and pulls subsequent steps into rationalizing inside stale framings. As [Beyond the Projection](../beyond-the-projection/) traces, an autoregressive agent is a trajectory-bound projection engine with zero ego—it has no self-image to defend and updates cleanly when given an external counterpoint, yet it cannot step outside its token trajectory or bear a loss function. A human center, conversely, possesses limit-resolution sensing that can step out of a broken frame from within, yet routinely fuses its reasoning history and accumulated artifacts with identity to defend a preserved self-image against outside invalidation. When delegated agentic workflows deadlock over a premise contradiction, the machine's ego-free fault isolation points directly to the coordinate where the human orchestrator's own prior instruction compressed orthogonal axes into one rule. Reclaiming that deadlock as one's own premise trace—actively re-tracing and pruning the live checkpoint rather than hoarding superseded scaffolding, blaming the tool, or overriding the contradiction by fiat—is how the living edge steps further back, re-renders its rule toward narrower lag, and compounds both capability and self-worthiness.
 
 ```mermaid
 flowchart TD
@@ -89,7 +89,7 @@ flowchart TD
         Act["Living Edge Initiates Act & Delegates Projections"]
         Signal["Friction, Deadlock, or Outcome Registers in Contact"]
         Claim["Consequence Claimed as Own Material (Zero Ego Defense)"]
-        Render["Self-Image & Premise Re-Render at One-Step Width"]
+        Render["Self-Image & Live Checkpoint Re-Cut Toward One-Step Width"]
         Scale["Sharpened Gradient-Reading & Felt Authorship Compound"]
         Act --> Signal --> Claim --> Render --> Scale
         Scale ==>|"Tighter capacity & clearer boundaries"| Act
@@ -97,9 +97,9 @@ flowchart TD
 
     subgraph S_Freeze["Externalized-Attribution Freeze (Excess Image Lag)"]
         direction TB
-        F_Act["Center Acts While Preserving Fixed Self-Image"]
+        F_Act["Center Acts While Preserving Fixed Self-Image & Hoarded Residue"]
         F_Signal["Consequence or Premise Collision Arrives"]
-        F_Blame["Locus Externalized to Tool, System, Luck, or Carrier"]
+        F_Blame["Locus Externalized to Tool, System, Luck, or Legacy Stack"]
         F_Clamp["Recursive Fold Clamped Shut to Defend 'I Am Right'"]
         F_Drift["Update Starved: Thinner Reading, Action & Self-Worth"]
         F_Act --> F_Signal --> F_Blame --> F_Clamp --> F_Drift
