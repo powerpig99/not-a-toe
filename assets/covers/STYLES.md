@@ -765,3 +765,6 @@ Examples of non-still directions (illustrative only — invent, do not recycle a
 | `the_analogy_trap` | 17th-century camera obscura optical projection treatise etching & chiaroscuro oil painting in slate grey, warm ochre, and crimson | 21:9 (`1344×576`) |
 | `the_illegible_compound_retraced` | Subterranean limestone stalactite cavern cross-section & microscopic gold-dust water-drop deposition painting in deep indigo, cavern umber, and luminous gold | 21:9 (`1344×576`) |
 | `the_moving_ground` | Arctic pack-ice trigonometric survey engraving & tectonic plate shift painting in deep glacier teal, brass, and molten gold | 21:9 (`1344×576`) |
+| `agents_leia_ontological_clarity` | 18th-century Diderot Encyclopédie architectural copperplate engraving fused with living botanical root-and-crystal morphogenesis in walnut umber, parchment gold, and emerald | 21:9 (`1344×576`) |
+| `four-night-questions` | Nocturnal astronomical observatory oil painting & four-facet crystal polyhedron optical refraction plate in midnight indigo, starlight silver, and warm amber | 21:9 (`1344×576`) |
+| `grok-420-framework-drift` | Venetian masquerade theater chiaroscuro oil painting & mechanical automaton clockwork stage set in obsidian, crimson, gilded brass, and silver light | 21:9 (`1344×576`) |

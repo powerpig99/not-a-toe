@@ -12,7 +12,7 @@ The essays in this part dissect Geoffrey Hinton's cognitive leaps, the limits of
 
 ## 篇目 / Essays
 
-- [Agents in the Long Game of AI — Through the Ontological Clarity Framework](../../posts/agents_leia_ontological_clarity/)
+- [百科全书式的累加与生成性基底 / Agents in the Long Game of AI](../../posts/agents_leia_ontological_clarity/)
 - [爱因斯坦测试与通用人工智能的范畴谬误 / The Einstein Test and the AGI Category Error](../../posts/hassabis-einstein-test/)
 - [智能最容易困住的正是它自己 / Intelligence Is the Thing Most Likely to Trap Itself](../../posts/intelligence-traps-itself/)
 - [移动的基底与智能体委派的渐近线 / The Moving Ground](../../posts/the_moving_ground/)

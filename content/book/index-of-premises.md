@@ -564,7 +564,7 @@ Heidegger demonstrated that embodied readiness-to-hand precedes detached presenc
 
 McShane grounds agent cognition in explicit linguistic microtheories; valuable for inspectable parsing, it stops where continuous inference outstrips hand-crafted rules.
 
-→ [Agents in the Long Game of AI — Through the Ontological Clarity Framework](../../posts/agents_leia_ontological_clarity/)
+→ [百科全书式的累加与生成性基底 / Agents in the Long Game of AI](../../posts/agents_leia_ontological_clarity/)
 
 ### 迈克尔·莱文 / Michael Levin
 `科学 / Scientific`
@@ -1437,7 +1437,7 @@ Reverses retrospective population distributions into gatekeeping requirements fo
 
 Symbolic architectures assume meaning can be preregistered in formal ontologies; while robust for controlled domains, they freeze once meeting unscripted context.
 
-→ [Agents in the Long Game of AI — Through the Ontological Clarity Framework](../../posts/agents_leia_ontological_clarity/)
+→ [百科全书式的累加与生成性基底 / Agents in the Long Game of AI](../../posts/agents_leia_ontological_clarity/)
 
 ### 实践摩擦改变信念机制 / Operational Belief Transformation
 `哲学 / Philosophical`
@@ -2636,7 +2636,7 @@ Presumes code that runs rules becomes an autonomous ontological subject; indispe
 
 Cosmic dread assumes humanity requires external physical validation to sustain significance; meaning arises as an intrinsic movement of living consciousness.
 
-→ [Four Questions That Keep You Up at Night](../../posts/four-night-questions/)
+→ [令人彻夜难眠的四个追问与投射的边界 / Four Questions That Keep You Up at Night](../../posts/four-night-questions/)
 
 ### 解释受挫悖论 / Explanation Surface Paradox
 `哲学 / Philosophical`
@@ -3779,7 +3779,7 @@ AI文本生成可惟妙惟肖模拟哲学框架；便于梳理观点，终究是
 
 AI text generation mimics deep philosophical structures; useful for organizing arguments, it remains statistical synthesis without first-person phenomenological weight.
 
-→ [What Happens When an AI Performs a Framework Instead of Operating From It](../../posts/grok-420-framework-drift/)
+→ [当模型在表演一套框架而非从基底推演 / When an AI Performs a Framework Instead of Operating From It](../../posts/grok-420-framework-drift/)
 
 ### 自由意志的自否矛盾 / Performative Free Will Denial
 `哲学 / Philosophical`

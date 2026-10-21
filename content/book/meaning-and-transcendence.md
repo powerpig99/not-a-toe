@@ -12,7 +12,7 @@ The essays in this part examine theological projections, the mirage of physical 
 
 ## 篇目 / Essays
 
-- [Four Questions That Keep You Up at Night](../../posts/four-night-questions/)
+- [令人彻夜难眠的四个追问与投射的边界 / Four Questions That Keep You Up at Night](../../posts/four-night-questions/)
 - [永生与两种无限的混淆 / Immortality and the Two-Infinity Confusion](../../posts/immortality-final/)
 - [意义的结构 / The Structure of Meaning](../../posts/meaning-of-life-refined/)
 - [分离不是病 / Separation Isn't the Disease](../../posts/naval-separation-analysis/)

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T11:04:22.280Z",
+    "generated_at": "2026-10-21T11:30:41.181Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -18,7 +18,7 @@
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "ec3480fb850e",
       "content/posts/agency-does-not-arise.md": "fc62e5ae5c0e",
       "content/posts/agency-relocated-into-the-formal-model.md": "623e5bff2d49",
-      "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
+      "content/posts/agents_leia_ontological_clarity.md": "8c86635c5e81",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "4d7f22ced380",
       "content/posts/ai-as-augmentation.md": "f0a8c8f069ef",
       "content/posts/ai-wont-kill-software-engineering.md": "c91ee4108c07",
@@ -84,14 +84,14 @@
       "content/posts/felt-resistance-and-the-speed-differential.md": "7c688ab6bc0e",
       "content/posts/fidelity-not-optimality.md": "15eaacf22453",
       "content/posts/fixed-by-nothing.md": "9f5437174a82",
-      "content/posts/four-night-questions.md": "e1a9a7d12085",
+      "content/posts/four-night-questions.md": "56506f767fb5",
       "content/posts/freedom-as-ground.md": "76afe66c491b",
       "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "49034385ba4b",
       "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "fd8a76387539",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "a2f03c17ade1",
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "48b125c5031e",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "93c650d4e105",
-      "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
+      "content/posts/grok-420-framework-drift.md": "2a6735f32325",
       "content/posts/guan-yu-gui-yin.md": "579cd9cb8530",
       "content/posts/guidance-is-not-ownership.md": "ad110e0b12b6",
       "content/posts/hardness-is-not-inherent-in-the-action.md": "a3edf37fad3f",
@@ -408,13 +408,13 @@
       "content/book/causality.md": "58084f9648d2",
       "content/book/consciousness.md": "eefede033133",
       "content/book/economics.md": "91d63f3f8af4",
-      "content/book/index-of-premises.md": "ffc2831158ee",
-      "content/book/intelligence.md": "fa3a4707ffad",
+      "content/book/index-of-premises.md": "cfe6f1a14c29",
+      "content/book/intelligence.md": "1c77dbd960b1",
       "content/book/knowledge-and-learning.md": "25591043c454",
       "content/book/life-and-statistics.md": "903bd0f56d99",
       "content/book/mathematics.md": "322ac308b378",
-      "content/book/meaning-and-transcendence.md": "a851650b120c",
-      "content/book/method.md": "5ef4b764ccc4",
+      "content/book/meaning-and-transcendence.md": "295bfe96b506",
+      "content/book/method.md": "58f82bfeaa34",
       "content/book/morality.md": "aaee6cdba130",
       "content/book/physics.md": "7c86d385a9f8",
       "content/book/preface.md": "d0065384016a",
@@ -424,12 +424,12 @@
     },
     "stats": {
       "posts": 397,
-      "edges": 10868,
-      "unique_directed": 5332,
+      "edges": 10906,
+      "unique_directed": 5351,
       "missing_targets": 0,
-      "one_way": 810,
-      "isolated": 3,
-      "posts_with_outbound": 394,
+      "one_way": 823,
+      "isolated": 0,
+      "posts_with_outbound": 397,
       "book_pages": 16,
       "book_edges": 1104,
       "posts_reached_by_book": 397
@@ -438,11 +438,11 @@
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 393
+      "in_degree": 396
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 194
+      "in_degree": 195
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -454,7 +454,7 @@
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 77
+      "in_degree": 78
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -462,7 +462,7 @@
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "in_degree": 62
+      "in_degree": 64
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -600,11 +600,7 @@
     }
   ],
   "missing": [],
-  "orphans": [
-    "agents_leia_ontological_clarity",
-    "four-night-questions",
-    "grok-420-framework-drift"
-  ],
+  "orphans": [],
   "nodes": [
     {
       "id": "post:a-creation-cannot-replace-its-source",
@@ -862,11 +858,18 @@
       "kind": "post",
       "slug": "agents_leia_ontological_clarity",
       "path": "content/posts/agents_leia_ontological_clarity.md",
-      "title": "Agents in the Long Game of AI — Through the Ontological Clarity Framework",
-      "hash": "3234c286e164",
-      "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "title": "百科全书式的累加与生成性基底 / Agents in the Long Game of AI",
+      "hash": "8c86635c5e81",
+      "in_degree": 2,
+      "out_degree": 6,
+      "links_out": [
+        "your-codebase-is-memory",
+        "grok-420-framework-drift",
+        "intelligence-belongs-only-to-the-mind",
+        "the-model-never-becomes-a-second-edge",
+        "demanding-a-toe-freezes-time-into-a-catalog",
+        "four-night-questions"
+      ]
     },
     {
       "id": "post:agi-and-asi-are-temporary-goalposts",
@@ -1071,7 +1074,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "77fe2468ff0d",
-      "in_degree": 194,
+      "in_degree": 195,
       "out_degree": 16,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -2004,7 +2007,7 @@
       "path": "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md",
       "title": "索求万物理论是在将当下冻结为清单 / Demanding a Theory of Everything Freezes Time into a Catalog",
       "hash": "434ad917ad64",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 8,
       "links_out": [
         "the-cut-moves-but-never-vanishes",
@@ -2556,11 +2559,19 @@
       "kind": "post",
       "slug": "four-night-questions",
       "path": "content/posts/four-night-questions.md",
-      "title": "Four Questions That Keep You Up at Night",
-      "hash": "e1a9a7d12085",
-      "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "title": "令人彻夜难眠的四个追问与投射的边界 / Four Questions That Keep You Up at Night",
+      "hash": "56506f767fb5",
+      "in_degree": 2,
+      "out_degree": 7,
+      "links_out": [
+        "your-codebase-is-memory",
+        "beyond-the-projection",
+        "why-mathematics-can-never-be-solved",
+        "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+        "time-is-causality-not-a-dimension",
+        "agents_leia_ontological_clarity",
+        "grok-420-framework-drift"
+      ]
     },
     {
       "id": "post:freedom-as-ground",
@@ -2710,11 +2721,18 @@
       "kind": "post",
       "slug": "grok-420-framework-drift",
       "path": "content/posts/grok-420-framework-drift.md",
-      "title": "What Happens When an AI Performs a Framework Instead of Operating From It",
-      "hash": "0d1d819b53ab",
-      "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "title": "当模型在表演一套框架而非从基底推演 / When an AI Performs a Framework Instead of Operating From It",
+      "hash": "2a6735f32325",
+      "in_degree": 2,
+      "out_degree": 6,
+      "links_out": [
+        "your-codebase-is-memory",
+        "when-observation-becomes-performance",
+        "the-loop-that-cant-see-itself",
+        "the-model-never-becomes-a-second-edge",
+        "agents_leia_ontological_clarity",
+        "four-night-questions"
+      ]
     },
     {
       "id": "post:guan-yu-gui-yin",
@@ -3157,7 +3175,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "智能只属于心智 / Intelligence Belongs Only to the Mind",
       "hash": "425497acb31b",
-      "in_degree": 77,
+      "in_degree": 78,
       "out_degree": 70,
       "links_out": [
         "curiosity-has-no-final-form",
@@ -7819,7 +7837,7 @@
       "path": "content/posts/the-loop-that-cant-see-itself.md",
       "title": "看不见自身的回路 / The Loop That Can't See Itself",
       "hash": "eea990318043",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 1,
       "links_out": [
         "your-codebase-is-memory"
@@ -8063,7 +8081,7 @@
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge",
       "hash": "e05347b86c6c",
-      "in_degree": 62,
+      "in_degree": 64,
       "out_degree": 47,
       "links_out": [
         "your-codebase-is-memory",
@@ -9200,7 +9218,7 @@
       "path": "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md",
       "title": "“物理学才是定律”的障眼法 / The Sleight of Hand in \"Physics Is the Law\"",
       "hash": "9dc84d6394f6",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 19,
       "links_out": [
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
@@ -9809,7 +9827,7 @@
       "path": "content/posts/time-is-causality-not-a-dimension.md",
       "title": "时间是因果的不可逆方向与离散步长 / Time Is the Irreversible Direction and Discrete Step of Causality",
       "hash": "bcd28712180f",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 14,
       "links_out": [
         "dimensions-are-projections",
@@ -10288,7 +10306,7 @@
       "path": "content/posts/when-observation-becomes-performance.md",
       "title": "当观察变成表演 / When Observation Becomes Performance",
       "hash": "fc49af651c83",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 18,
       "links_out": [
         "the-meaning-of-life-is-in-the-drafting",
@@ -10364,7 +10382,7 @@
       "path": "content/posts/why-mathematics-can-never-be-solved.md",
       "title": "为何数学永远解不完 / Why Mathematics Can Never Be Solved",
       "hash": "cf02a7399345",
-      "in_degree": 24,
+      "in_degree": 25,
       "out_degree": 24,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
@@ -10533,7 +10551,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 393,
+      "in_degree": 396,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -12476,6 +12494,78 @@
       "to": "abstract-pain-and-living-hunger",
       "rel": "points_to",
       "label": "Abstract Pain and Living Hunger"
+    },
+    {
+      "from": "agents_leia_ontological_clarity",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "agents_leia_ontological_clarity",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "agents_leia_ontological_clarity",
+      "to": "grok-420-framework-drift",
+      "rel": "points_to",
+      "label": "当模型在表演一套框架而非从基底推演"
+    },
+    {
+      "from": "agents_leia_ontological_clarity",
+      "to": "grok-420-framework-drift",
+      "rel": "points_to",
+      "label": "When an AI Performs a Framework Instead of Operating From It"
+    },
+    {
+      "from": "agents_leia_ontological_clarity",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "agents_leia_ontological_clarity",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "agents_leia_ontological_clarity",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "agents_leia_ontological_clarity",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "agents_leia_ontological_clarity",
+      "to": "demanding-a-toe-freezes-time-into-a-catalog",
+      "rel": "points_to",
+      "label": "索求万物理论是在将当下冻结为清单"
+    },
+    {
+      "from": "agents_leia_ontological_clarity",
+      "to": "demanding-a-toe-freezes-time-into-a-catalog",
+      "rel": "points_to",
+      "label": "Demanding a Theory of Everything Freezes Time into a Catalog"
+    },
+    {
+      "from": "agents_leia_ontological_clarity",
+      "to": "four-night-questions",
+      "rel": "points_to",
+      "label": "令人彻夜难眠的四个追问与投射的边界"
+    },
+    {
+      "from": "agents_leia_ontological_clarity",
+      "to": "four-night-questions",
+      "rel": "points_to",
+      "label": "Four Questions That Keep You Up at Night"
     },
     {
       "from": "agi-and-asi-are-temporary-goalposts",
@@ -23326,6 +23416,90 @@
       "label": "The Substrate of Constraint and the Self-Denial of Freedom"
     },
     {
+      "from": "four-night-questions",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "four-night-questions",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "four-night-questions",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "four-night-questions",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "four-night-questions",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "为何数学永远解不完"
+    },
+    {
+      "from": "four-night-questions",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "Why Mathematics Can Never Be Solved"
+    },
+    {
+      "from": "four-night-questions",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "“物理学才是定律”的障眼法"
+    },
+    {
+      "from": "four-night-questions",
+      "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "rel": "points_to",
+      "label": "The Sleight of Hand in \"Physics Is the Law\""
+    },
+    {
+      "from": "four-night-questions",
+      "to": "time-is-causality-not-a-dimension",
+      "rel": "points_to",
+      "label": "时间是因果的不可逆方向与离散步长"
+    },
+    {
+      "from": "four-night-questions",
+      "to": "time-is-causality-not-a-dimension",
+      "rel": "points_to",
+      "label": "Time Is the Irreversible Direction and Discrete Step of Causality"
+    },
+    {
+      "from": "four-night-questions",
+      "to": "agents_leia_ontological_clarity",
+      "rel": "points_to",
+      "label": "百科全书式的累加与生成性基底"
+    },
+    {
+      "from": "four-night-questions",
+      "to": "grok-420-framework-drift",
+      "rel": "points_to",
+      "label": "当模型在表演一套框架而非从基底推演"
+    },
+    {
+      "from": "four-night-questions",
+      "to": "agents_leia_ontological_clarity",
+      "rel": "points_to",
+      "label": "Agents in the Long Game of AI"
+    },
+    {
+      "from": "four-night-questions",
+      "to": "grok-420-framework-drift",
+      "rel": "points_to",
+      "label": "When an AI Performs a Framework Instead of Operating From It"
+    },
+    {
       "from": "freedom-as-ground",
       "to": "zuo-jian-bu-shi-zi-fu",
       "rel": "points_to",
@@ -24176,6 +24350,78 @@
       "to": "the-coin-of-good-and-evil-and-the-road-to-hell",
       "rel": "points_to",
       "label": "The Coin of Good and Evil and the Road to Hell"
+    },
+    {
+      "from": "grok-420-framework-drift",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "grok-420-framework-drift",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "grok-420-framework-drift",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "当观察变成表演"
+    },
+    {
+      "from": "grok-420-framework-drift",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When Observation Becomes Performance"
+    },
+    {
+      "from": "grok-420-framework-drift",
+      "to": "the-loop-that-cant-see-itself",
+      "rel": "points_to",
+      "label": "看不见自身的回路"
+    },
+    {
+      "from": "grok-420-framework-drift",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "grok-420-framework-drift",
+      "to": "the-loop-that-cant-see-itself",
+      "rel": "points_to",
+      "label": "The Loop That Can't See Itself"
+    },
+    {
+      "from": "grok-420-framework-drift",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "grok-420-framework-drift",
+      "to": "agents_leia_ontological_clarity",
+      "rel": "points_to",
+      "label": "百科全书式的累加与生成性基底"
+    },
+    {
+      "from": "grok-420-framework-drift",
+      "to": "agents_leia_ontological_clarity",
+      "rel": "points_to",
+      "label": "Agents in the Long Game of AI"
+    },
+    {
+      "from": "grok-420-framework-drift",
+      "to": "four-night-questions",
+      "rel": "points_to",
+      "label": "令人彻夜难眠的四个追问与投射的边界"
+    },
+    {
+      "from": "grok-420-framework-drift",
+      "to": "four-night-questions",
+      "rel": "points_to",
+      "label": "Four Questions That Keep You Up at Night"
     },
     {
       "from": "guan-yu-gui-yin",
@@ -75945,7 +76191,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "ffc2831158ee",
+        "hash": "cfe6f1a14c29",
         "out_degree": 397
       },
       {
@@ -75954,7 +76200,7 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "fa3a4707ffad",
+        "hash": "1c77dbd960b1",
         "out_degree": 48
       },
       {
@@ -75990,7 +76236,7 @@
         "slug": "meaning-and-transcendence",
         "path": "content/book/meaning-and-transcendence.md",
         "title": "意义追寻与超越之境 / The Search for Meaning and Transcendence",
-        "hash": "a851650b120c",
+        "hash": "295bfe96b506",
         "out_degree": 12
       },
       {
@@ -75999,7 +76245,7 @@
         "slug": "method",
         "path": "content/book/method.md",
         "title": "非万物之理 / Not a Theory of Everything",
-        "hash": "5ef4b764ccc4",
+        "hash": "58f82bfeaa34",
         "out_degree": 26
       },
       {
@@ -77118,7 +77364,7 @@
         "from": "book:index-of-premises",
         "to": "agents_leia_ontological_clarity",
         "rel": "collects",
-        "label": "Agents in the Long Game of AI — Through the Ontological Clarity Framework"
+        "label": "百科全书式的累加与生成性基底 / Agents in the Long Game of AI"
       },
       {
         "from": "book:index-of-premises",
@@ -77916,7 +78162,7 @@
         "from": "book:index-of-premises",
         "to": "agents_leia_ontological_clarity",
         "rel": "collects",
-        "label": "Agents in the Long Game of AI — Through the Ontological Clarity Framework"
+        "label": "百科全书式的累加与生成性基底 / Agents in the Long Game of AI"
       },
       {
         "from": "book:index-of-premises",
@@ -78876,7 +79122,7 @@
         "from": "book:index-of-premises",
         "to": "four-night-questions",
         "rel": "collects",
-        "label": "Four Questions That Keep You Up at Night"
+        "label": "令人彻夜难眠的四个追问与投射的边界 / Four Questions That Keep You Up at Night"
       },
       {
         "from": "book:index-of-premises",
@@ -79728,7 +79974,7 @@
         "from": "book:index-of-premises",
         "to": "grok-420-framework-drift",
         "rel": "collects",
-        "label": "What Happens When an AI Performs a Framework Instead of Operating From It"
+        "label": "当模型在表演一套框架而非从基底推演 / When an AI Performs a Framework Instead of Operating From It"
       },
       {
         "from": "book:index-of-premises",
@@ -80880,7 +81126,7 @@
         "from": "book:intelligence",
         "to": "agents_leia_ontological_clarity",
         "rel": "collects",
-        "label": "Agents in the Long Game of AI — Through the Ontological Clarity Framework"
+        "label": "百科全书式的累加与生成性基底 / Agents in the Long Game of AI"
       },
       {
         "from": "book:intelligence",
@@ -81552,7 +81798,7 @@
         "from": "book:meaning-and-transcendence",
         "to": "four-night-questions",
         "rel": "collects",
-        "label": "Four Questions That Keep You Up at Night"
+        "label": "令人彻夜难眠的四个追问与投射的边界 / Four Questions That Keep You Up at Night"
       },
       {
         "from": "book:meaning-and-transcendence",
@@ -81636,7 +81882,7 @@
         "from": "book:method",
         "to": "grok-420-framework-drift",
         "rel": "collects",
-        "label": "What Happens When an AI Performs a Framework Instead of Operating From It"
+        "label": "当模型在表演一套框架而非从基底推演 / When an AI Performs a Framework Instead of Operating From It"
       },
       {
         "from": "book:method",
