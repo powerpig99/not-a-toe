@@ -717,7 +717,7 @@ Descartes grounded epistemological certainty in first-person cogito while separa
 
 Rubin treats artistic creation as tuning into cosmic resonance; wonderful for unblocking creative intuition, it underplays technical craftsmanship and editing rigor.
 
-→ [The Interesting Case of Rubin](../../posts/the-interesting-case-of-rubin/)
+→ [里克·鲁宾的奇特案例与不可瞄准的乐趣 / The Interesting Case of Rubin](../../posts/the-interesting-case-of-rubin/)
 
 ### 罗杰·彭罗斯 / Roger Penrose
 `科学 / Scientific`
@@ -1853,7 +1853,7 @@ Engineering abstractions assume each wrapper isolates complexity without frictio
 
 Acceleration rhetoric presumes faster feedback loops automate direction; speed compresses execution latency while intensifying the demand on sovereign steering.
 
-→ [The Loop Accelerates](../../posts/the-loop-accelerates/)
+→ [加速的自指回环与自我实现的终结叙事 / The Loop Accelerates](../../posts/the-loop-accelerates/)
 
 ### 加速主义与减速主义之争 / Accelerationism versus Decelerationism
 `意识形态 / Ideological`
@@ -2978,7 +2978,7 @@ Ideology sets a shared creed as the seat of a group's cohesion, which is of use 
 
 Achievement metrics assume success can be decomposed into public variables; decisive differences compound invisibly in private micro-decisions before appearing in public data.
 
-→ [The Illegible Compound — Retraced](../../posts/the_illegible_compound_retraced/)
+→ [不可读的复利重溯 / The Illegible Compound Retraced](../../posts/the_illegible_compound_retraced/)
 
 ### 移民造就美国例外论 / Immigration as Engine of American Exceptionalism
 `意识形态 / Ideological`
@@ -3914,7 +3914,7 @@ AI autonomy narratives claim statistical models act as self-willing agents; mode
 
 Identity preservation assumes defending a positive self-image preserves mental integrity; actively curating a self-concept requires continual distortion of contradictory facts.
 
-→ [The Maintenance Paradox](../../posts/the-maintenance-paradox/)
+→ [自我模型维护悖论 / The Maintenance Paradox](../../posts/the-maintenance-paradox/)
 
 ### 隐私即数据本地化 / Privacy as Data Locality
 `技术 / Technological`
@@ -4040,7 +4040,7 @@ Business hagiography attributes heroic willpower to bending physical reality; th
 
 Analogical reasoning presumes shared structural metaphors imply identical mechanisms; invaluable for pedagogical intuition, it misleads when projected across domain boundaries.
 
-→ [The Analogy Trap: Shared Logic Is Not Shared Structure](../../posts/the_analogy_trap/)
+→ [类比陷阱与共享逻辑的越界偷渡 / The Analogy Trap](../../posts/the_analogy_trap/)
 
 ### 推理词元模仿机制 / Reasoning Token Emulation
 `技术 / Technological`
@@ -4175,7 +4175,7 @@ Empirical observation assumes minds gather evidence before forming conclusions; 
 
 Strategy folklore treats success as the linear execution of a master plan; retrospective narratives project intentionality onto what was emergent survival under friction.
 
-→ [The Strategy That Wasn't](../../posts/the-strategy-that-wasnt/) · [成功的几何学 / The Geometry of Success](../../posts/the-geometry-of-success/)
+→ [从未作为战略的副业与被观察扼杀的自发性 / The Strategy That Wasn't](../../posts/the-strategy-that-wasnt/) · [成功的几何学 / The Geometry of Success](../../posts/the-geometry-of-success/)
 
 ### 奖励黑客与规格博弈 / Reward Hacking and Specification Gaming
 `技术 / Technological`
@@ -4409,7 +4409,7 @@ Benchmark suites assume standardized question sets measure generalized fluid int
 
 Delegation models assume fixed task boundaries between humans and machines; deploying agents shifts the operational baseline, continually rewriting division-of-labor lines.
 
-→ [The Moving Ground: On "Intelligent AI Delegation"](../../posts/the_moving_ground/)
+→ [移动的基底与智能体委派的渐近线 / The Moving Ground](../../posts/the_moving_ground/)
 
 ### 静态认知明晰 / Static Epistemic Clarity
 `哲学 / Philosophical`
@@ -4634,7 +4634,7 @@ Calculus treats continuous smooth curves as physical reality; infinitesimals are
 
 Framing creation as non-striving assumes detaching from outcome guarantees excellence; it serves as a corrective to anxiety, not a replacement for discipline.
 
-→ [The Interesting Case of Rubin](../../posts/the-interesting-case-of-rubin/)
+→ [里克·鲁宾的奇特案例与不可瞄准的乐趣 / The Interesting Case of Rubin](../../posts/the-interesting-case-of-rubin/)
 
 ### 超然的知识分子 / The Detached Intellectual
 `哲学 / Philosophical`
@@ -4949,7 +4949,7 @@ Physicists seek an ultimate master equation to finish science; demanding a close
 
 Professional education assumes mastering transferable skills secures enduring value; foundational models commoditize public patterns, shifting scarce value to sovereign taste.
 
-→ [The Tightening Loop](../../posts/the-tightening-loop/)
+→ [不断收紧的回环 / The Tightening Loop](../../posts/the-tightening-loop/)
 
 ### 抉择的跨界三重投影 / Tri-Fold Boundary of Choice
 `科学 / Scientific`

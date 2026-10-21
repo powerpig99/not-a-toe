@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T10:51:24.635Z",
+    "generated_at": "2026-10-21T11:04:22.280Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -272,7 +272,7 @@
       "content/posts/the-imagining-of-ai-risk.md": "06a93ab32a22",
       "content/posts/the-initial-distinction.md": "597771bb1303",
       "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md": "17c508560e06",
-      "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
+      "content/posts/the-interesting-case-of-rubin.md": "7e8d008c3655",
       "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "5db081fa7c26",
       "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "bec4cd8c5f9b",
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "60f354d84985",
@@ -288,9 +288,9 @@
       "content/posts/the-living-context.md": "0603cd0d3ea2",
       "content/posts/the-local-trap-of-technological-change.md": "90573245bd77",
       "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "5dfdcb05cf02",
-      "content/posts/the-loop-accelerates.md": "774efc991390",
+      "content/posts/the-loop-accelerates.md": "60608a02a0ed",
       "content/posts/the-loop-that-cant-see-itself.md": "eea990318043",
-      "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
+      "content/posts/the-maintenance-paradox.md": "9f5f02a63d0f",
       "content/posts/the-map-after-the-territory.md": "7c4c6f4b27cf",
       "content/posts/the-mark-and-the-act.md": "c564f60f2ed7",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "71b2a3b0537b",
@@ -348,13 +348,13 @@
       "content/posts/the-source-of-all-harm.md": "20891d9d52cf",
       "content/posts/the-source-of-shared-change.md": "6b3787d81f18",
       "content/posts/the-sovereign-blinding.md": "910f8642f278",
-      "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
+      "content/posts/the-strategy-that-wasnt.md": "619408944139",
       "content/posts/the-strongest-belief-of-the-mind.md": "ee7cbb6eb4a6",
       "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "530bc4b6e7d1",
       "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "c663c4a8107a",
       "content/posts/the-surface-beneath.md": "a33fe2b8831f",
       "content/posts/the-three-shadows-of-the-cut.md": "dddbde671cad",
-      "content/posts/the-tightening-loop.md": "a83145dbfb3d",
+      "content/posts/the-tightening-loop.md": "6b930ea11d02",
       "content/posts/the-twin-paradox-and-the-hidden-observer.md": "ff11efe3625a",
       "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "065bbf648c6e",
       "content/posts/the-unclosable-trace.md": "f4ad7fa5724b",
@@ -366,9 +366,9 @@
       "content/posts/the-velocity-of-visibility.md": "55e3bb3d48fa",
       "content/posts/the-walking-tangent-and-the-stumbling-sphere.md": "6dd94a8b5246",
       "content/posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy.md": "fe2f0c8e0815",
-      "content/posts/the_analogy_trap.md": "3fba4bdc48b2",
-      "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
-      "content/posts/the_moving_ground.md": "24eaa9a68587",
+      "content/posts/the_analogy_trap.md": "feb15579f1d0",
+      "content/posts/the_illegible_compound_retraced.md": "2564d83e131c",
+      "content/posts/the_moving_ground.md": "22cf2f89ec6d",
       "content/posts/therapy-opens-the-feedback-loop.md": "fef94840ad77",
       "content/posts/time-is-causality-not-a-dimension.md": "bcd28712180f",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "d6e816ab5ba2",
@@ -406,11 +406,11 @@
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "c0c80009ca9d",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "ac686192b927",
       "content/book/causality.md": "58084f9648d2",
-      "content/book/consciousness.md": "077d4429e325",
+      "content/book/consciousness.md": "eefede033133",
       "content/book/economics.md": "91d63f3f8af4",
-      "content/book/index-of-premises.md": "58fcdf49ce39",
-      "content/book/intelligence.md": "19193ae56906",
-      "content/book/knowledge-and-learning.md": "997145394b29",
+      "content/book/index-of-premises.md": "ffc2831158ee",
+      "content/book/intelligence.md": "fa3a4707ffad",
+      "content/book/knowledge-and-learning.md": "25591043c454",
       "content/book/life-and-statistics.md": "903bd0f56d99",
       "content/book/mathematics.md": "322ac308b378",
       "content/book/meaning-and-transcendence.md": "a851650b120c",
@@ -419,17 +419,17 @@
       "content/book/physics.md": "7c86d385a9f8",
       "content/book/preface.md": "d0065384016a",
       "content/book/state-and-collective.md": "5e8b762efc78",
-      "content/book/success-and-the-self.md": "f19aad8c22f2",
-      "content/book/tools-and-progress.md": "bd0b51965461"
+      "content/book/success-and-the-self.md": "b2b79c60d19d",
+      "content/book/tools-and-progress.md": "0527ff30bec7"
     },
     "stats": {
       "posts": 397,
-      "edges": 10784,
-      "unique_directed": 5291,
+      "edges": 10868,
+      "unique_directed": 5332,
       "missing_targets": 0,
-      "one_way": 785,
-      "isolated": 10,
-      "posts_with_outbound": 387,
+      "one_way": 810,
+      "isolated": 3,
+      "posts_with_outbound": 394,
       "book_pages": 16,
       "book_edges": 1104,
       "posts_reached_by_book": 397
@@ -438,7 +438,7 @@
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 385
+      "in_degree": 393
     },
     {
       "slug": "beyond-the-projection",
@@ -446,7 +446,7 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 104
+      "in_degree": 105
     },
     {
       "slug": "openness-is-consistency",
@@ -458,7 +458,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 66
+      "in_degree": 67
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
@@ -567,12 +567,12 @@
       "out_degree": 38
     },
     {
-      "slug": "production-consumption-and-the-minds-distinction",
+      "slug": "mistaking-the-expression-for-the-intelligence",
       "out_degree": 37
     },
     {
-      "slug": "mistaking-the-expression-for-the-intelligence",
-      "out_degree": 36
+      "slug": "production-consumption-and-the-minds-distinction",
+      "out_degree": 37
     },
     {
       "slug": "a-creation-cannot-replace-its-source",
@@ -580,7 +580,7 @@
     },
     {
       "slug": "not-a-theory-of-everything",
-      "out_degree": 33
+      "out_degree": 34
     },
     {
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
@@ -603,14 +603,7 @@
   "orphans": [
     "agents_leia_ontological_clarity",
     "four-night-questions",
-    "grok-420-framework-drift",
-    "the-interesting-case-of-rubin",
-    "the-loop-accelerates",
-    "the-maintenance-paradox",
-    "the-strategy-that-wasnt",
-    "the-tightening-loop",
-    "the_illegible_compound_retraced",
-    "the_moving_ground"
+    "grok-420-framework-drift"
   ],
   "nodes": [
     {
@@ -941,10 +934,11 @@
       "title": "AI 不会终结软件工程，而是将其扩展 / AI Won't Kill Software Engineering, It Will Expand It",
       "hash": "c91ee4108c07",
       "in_degree": 3,
-      "out_degree": 3,
+      "out_degree": 4,
       "links_out": [
         "when-abundance-looks-like-scarcity",
         "cli-interface-stack",
+        "constraints_are_ground",
         "your-codebase-is-memory"
       ]
     },
@@ -1019,7 +1013,7 @@
       "path": "content/posts/Analysis_Adolescence_of_Technology.md",
       "title": "指数级进程与线性之眼 / The Exponential and the Linear Eye",
       "hash": "17ccf2b9ca9a",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 4,
       "links_out": [
         "the-artifacts-of-self-amplification",
@@ -1345,10 +1339,11 @@
       "title": "被误认作实体的阴影 / The Shadow Mistaken for the Object",
       "hash": "c8c3e191336b",
       "in_degree": 2,
-      "out_degree": 3,
+      "out_degree": 4,
       "links_out": [
         "your-codebase-is-memory",
         "intelligence-belongs-only-to-the-mind",
+        "Analysis_Adolescence_of_Technology",
         "ai-wont-kill-software-engineering"
       ]
     },
@@ -1786,7 +1781,7 @@
       "path": "content/posts/constraints_are_ground.md",
       "title": "约束即基底与作为平台的个体 / Constraints Are Ground",
       "hash": "851ee44653bf",
-      "in_degree": 0,
+      "in_degree": 4,
       "out_degree": 2,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -2404,7 +2399,7 @@
       "path": "content/posts/extension-and-shift.md",
       "title": "框内延伸与维度跃迁 / Extension and Shift",
       "hash": "695ce6937cad",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 6,
       "links_out": [
         "beyond-the-projection",
@@ -3006,7 +3001,7 @@
       "path": "content/posts/huberman-winners-losers.md",
       "title": "赢家与输家的转化框架 / Winners and Losers in the Transmutation Frame",
       "hash": "52edd6aa4959",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 4,
       "links_out": [
         "extended-cognition-refined",
@@ -3051,7 +3046,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers",
       "hash": "35b065ab09af",
-      "in_degree": 104,
+      "in_degree": 105,
       "out_degree": 99,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -3580,9 +3575,10 @@
       "title": "米塞斯论国家与强制力的向量和 / Mises on the State and the Vector Sum of Coercion",
       "hash": "fe24d656c147",
       "in_degree": 1,
-      "out_degree": 3,
+      "out_degree": 4,
       "links_out": [
         "war-revolution-and-the-fall-of-empires",
+        "constraints_are_ground",
         "individual-choices-as-the-only-causal-levers",
         "your-codebase-is-memory"
       ]
@@ -3595,7 +3591,7 @@
       "title": "错把表达当成智能 / Mistaking the Expression for the Intelligence",
       "hash": "d8bf71b9fe17",
       "in_degree": 34,
-      "out_degree": 36,
+      "out_degree": 37,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
         "the-unobservable-driver-of-learning",
@@ -3620,6 +3616,7 @@
         "your-codebase-is-memory",
         "the-fixed-image-of-transcendence",
         "the-loop-that-cant-see-itself",
+        "the_analogy_trap",
         "self-rl-for-humans",
         "the-flywheel-of-the-mind",
         "cheng-gong-xue",
@@ -3921,7 +3918,7 @@
       "title": "非万物之理 / Not a Theory of Everything",
       "hash": "4d8057e37ce3",
       "in_degree": 31,
-      "out_degree": 33,
+      "out_degree": 34,
       "links_out": [
         "not-a-toe-rewrite",
         "intelligence-belongs-only-to-the-mind",
@@ -3952,6 +3949,7 @@
         "evil-as-projected-resistance",
         "recursive-contradiction-of-entrusted-morality",
         "fixed-by-nothing",
+        "constraints_are_ground",
         "the-limitation-is-doing-work",
         "the-meaning-of-life-is-in-the-drafting",
         "the-strongest-belief-of-the-mind",
@@ -4482,10 +4480,11 @@
       "title": "平台并未漂移，它只是走到了终点 / The Platform Doesn't Drift, It Completes",
       "hash": "c1ce0036119a",
       "in_degree": 3,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "cli-interface-stack",
         "scaffolds-or-specialized-contexts",
+        "school_essay_final",
         "the-collapsed-debate",
         "sensing-before-interpretation",
         "your-codebase-is-memory",
@@ -5019,7 +5018,7 @@
       "path": "content/posts/school_essay_final.md",
       "title": "人工智能为何正在暴露现代学校教育的致命缺陷 / Why AI Is Exposing the Fatal Flaw in Modern Schooling",
       "hash": "3aa3b258724e",
-      "in_degree": 0,
+      "in_degree": 2,
       "out_degree": 3,
       "links_out": [
         "on-education",
@@ -5526,13 +5525,16 @@
       "kind": "post",
       "slug": "the_analogy_trap",
       "path": "content/posts/the_analogy_trap.md",
-      "title": "The Analogy Trap: Shared Logic Is Not Shared Structure",
-      "hash": "3fba4bdc48b2",
-      "in_degree": 0,
-      "out_degree": 2,
+      "title": "类比陷阱与共享逻辑的越界偷渡 / The Analogy Trap",
+      "hash": "feb15579f1d0",
+      "in_degree": 5,
+      "out_degree": 5,
       "links_out": [
+        "your-codebase-is-memory",
+        "the_illegible_compound_retraced",
         "the-coordinators-category-error",
-        "the-flight-analogy-leaves-the-mind-untouched"
+        "the-flight-analogy-leaves-the-mind-untouched",
+        "the-maintenance-paradox"
       ]
     },
     {
@@ -5540,22 +5542,34 @@
       "kind": "post",
       "slug": "the_illegible_compound_retraced",
       "path": "content/posts/the_illegible_compound_retraced.md",
-      "title": "The Illegible Compound — Retraced",
-      "hash": "326e7d862c3a",
-      "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "title": "不可读的复利重溯 / The Illegible Compound Retraced",
+      "hash": "2564d83e131c",
+      "in_degree": 2,
+      "out_degree": 5,
+      "links_out": [
+        "your-codebase-is-memory",
+        "the_analogy_trap",
+        "the-strategy-that-wasnt",
+        "the-maintenance-paradox",
+        "the-interesting-case-of-rubin"
+      ]
     },
     {
       "id": "post:the_moving_ground",
       "kind": "post",
       "slug": "the_moving_ground",
       "path": "content/posts/the_moving_ground.md",
-      "title": "The Moving Ground: On \"Intelligent AI Delegation\"",
-      "hash": "24eaa9a68587",
-      "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "title": "移动的基底与智能体委派的渐近线 / The Moving Ground",
+      "hash": "22cf2f89ec6d",
+      "in_degree": 1,
+      "out_degree": 5,
+      "links_out": [
+        "your-codebase-is-memory",
+        "the-tightening-loop",
+        "the_analogy_trap",
+        "the_illegible_compound_retraced",
+        "the-loop-accelerates"
+      ]
     },
     {
       "id": "post:the-allocation-of-causal-power-in-validation",
@@ -6298,7 +6312,7 @@
       "title": "协调者的范畴错误 / The Coordinator's Category Error",
       "hash": "849cdeef9512",
       "in_degree": 20,
-      "out_degree": 21,
+      "out_degree": 22,
       "links_out": [
         "your-codebase-is-memory",
         "the-scaffolding-we-forget",
@@ -6318,6 +6332,7 @@
         "the-allocation-of-causal-power-in-validation",
         "the-category-error-of-better",
         "the-source-of-shared-change",
+        "the_analogy_trap",
         "symptom-and-cause-in-the-narratives-of-progress",
         "the-rational-choice-postulate-is-the-original-sin",
         "agency-relocated-into-the-formal-model"
@@ -6753,8 +6768,9 @@
       "title": "飞行的类比碰不到心智 / The Flight Analogy Leaves the Mind Untouched",
       "hash": "5b211b913d03",
       "in_degree": 12,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
+        "the_analogy_trap",
         "the-brain-does-not-backprop",
         "intelligence-belongs-only-to-the-mind",
         "the-presumption-of-agi-and-the-view-from-outside",
@@ -7459,11 +7475,16 @@
       "kind": "post",
       "slug": "the-interesting-case-of-rubin",
       "path": "content/posts/the-interesting-case-of-rubin.md",
-      "title": "The Interesting Case of Rubin",
-      "hash": "46935f511909",
-      "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "title": "里克·鲁宾的奇特案例与不可瞄准的乐趣 / The Interesting Case of Rubin",
+      "hash": "7e8d008c3655",
+      "in_degree": 3,
+      "out_degree": 4,
+      "links_out": [
+        "extension-and-shift",
+        "the-strategy-that-wasnt",
+        "the-maintenance-paradox",
+        "your-codebase-is-memory"
+      ]
     },
     {
       "id": "post:the-inversion-of-reading-and-the-order-of-inference",
@@ -7781,11 +7802,15 @@
       "kind": "post",
       "slug": "the-loop-accelerates",
       "path": "content/posts/the-loop-accelerates.md",
-      "title": "The Loop Accelerates",
-      "hash": "774efc991390",
-      "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "title": "加速的自指回环与自我实现的终结叙事 / The Loop Accelerates",
+      "hash": "60608a02a0ed",
+      "in_degree": 2,
+      "out_degree": 3,
+      "links_out": [
+        "school_essay_final",
+        "the-tightening-loop",
+        "your-codebase-is-memory"
+      ]
     },
     {
       "id": "post:the-loop-that-cant-see-itself",
@@ -7805,11 +7830,15 @@
       "kind": "post",
       "slug": "the-maintenance-paradox",
       "path": "content/posts/the-maintenance-paradox.md",
-      "title": "The Maintenance Paradox",
-      "hash": "ce4e99e877d2",
-      "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "title": "自我模型维护悖论 / The Maintenance Paradox",
+      "hash": "9f5f02a63d0f",
+      "in_degree": 4,
+      "out_degree": 3,
+      "links_out": [
+        "huberman-winners-losers",
+        "the-interesting-case-of-rubin",
+        "your-codebase-is-memory"
+      ]
     },
     {
       "id": "post:the-map-after-the-territory",
@@ -9011,7 +9040,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "遗忘的脚手架 / The Scaffolding We Forget",
       "hash": "ce403e66da40",
-      "in_degree": 66,
+      "in_degree": 67,
       "out_degree": 69,
       "links_out": [
         "the-extendable-horizon",
@@ -9334,11 +9363,16 @@
       "kind": "post",
       "slug": "the-strategy-that-wasnt",
       "path": "content/posts/the-strategy-that-wasnt.md",
-      "title": "The Strategy That Wasn't",
-      "hash": "21fb161d9e5e",
-      "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "title": "从未作为战略的副业与被观察扼杀的自发性 / The Strategy That Wasn't",
+      "hash": "619408944139",
+      "in_degree": 3,
+      "out_degree": 4,
+      "links_out": [
+        "constraints_are_ground",
+        "individual-choices-as-the-only-causal-levers",
+        "the-maintenance-paradox",
+        "your-codebase-is-memory"
+      ]
     },
     {
       "id": "post:the-strongest-belief-of-the-mind",
@@ -9451,11 +9485,18 @@
       "kind": "post",
       "slug": "the-tightening-loop",
       "path": "content/posts/the-tightening-loop.md",
-      "title": "The Tightening Loop",
-      "hash": "a83145dbfb3d",
-      "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "title": "不断收紧的回环 / The Tightening Loop",
+      "hash": "6b930ea11d02",
+      "in_degree": 2,
+      "out_degree": 6,
+      "links_out": [
+        "your-codebase-is-memory",
+        "the-scaffolding-we-forget",
+        "the_moving_ground",
+        "the-loop-accelerates",
+        "the-interesting-case-of-rubin",
+        "the-strategy-that-wasnt"
+      ]
     },
     {
       "id": "post:the-twin-paradox-and-the-hidden-observer",
@@ -10492,7 +10533,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 385,
+      "in_degree": 393,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -12870,6 +12911,12 @@
     },
     {
       "from": "ai-wont-kill-software-engineering",
+      "to": "constraints_are_ground",
+      "rel": "points_to",
+      "label": "约束即基底与作为平台的个体"
+    },
+    {
+      "from": "ai-wont-kill-software-engineering",
       "to": "when-abundance-looks-like-scarcity",
       "rel": "points_to",
       "label": "When Abundance Looks Like Scarcity"
@@ -12879,6 +12926,12 @@
       "to": "cli-interface-stack",
       "rel": "points_to",
       "label": "The Interface Stack"
+    },
+    {
+      "from": "ai-wont-kill-software-engineering",
+      "to": "constraints_are_ground",
+      "rel": "points_to",
+      "label": "Constraints Are Ground"
     },
     {
       "from": "ai-wont-kill-software-engineering",
@@ -15552,6 +15605,12 @@
     },
     {
       "from": "chollet-intelligence-explosion-analysis",
+      "to": "Analysis_Adolescence_of_Technology",
+      "rel": "points_to",
+      "label": "指数级进程与线性之眼"
+    },
+    {
+      "from": "chollet-intelligence-explosion-analysis",
       "to": "ai-wont-kill-software-engineering",
       "rel": "points_to",
       "label": "AI 不会终结软件工程，而是将其扩展"
@@ -15561,6 +15620,12 @@
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "chollet-intelligence-explosion-analysis",
+      "to": "Analysis_Adolescence_of_Technology",
+      "rel": "points_to",
+      "label": "The Exponential and the Linear Eye"
     },
     {
       "from": "chollet-intelligence-explosion-analysis",
@@ -30192,9 +30257,21 @@
     },
     {
       "from": "mises-state-analysis",
+      "to": "constraints_are_ground",
+      "rel": "points_to",
+      "label": "约束即基底与作为平台的个体"
+    },
+    {
+      "from": "mises-state-analysis",
       "to": "war-revolution-and-the-fall-of-empires",
       "rel": "points_to",
       "label": "War, Revolution, and the Fall of Empires"
+    },
+    {
+      "from": "mises-state-analysis",
+      "to": "constraints_are_ground",
+      "rel": "points_to",
+      "label": "Constraints Are Ground"
     },
     {
       "from": "mises-state-analysis",
@@ -30498,6 +30575,12 @@
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the_analogy_trap",
+      "rel": "points_to",
+      "label": "类比的陷阱：共享的逻辑不是共享的结构"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
       "to": "the-flight-analogy-leaves-the-mind-untouched",
       "rel": "points_to",
       "label": "The Flight Analogy Leaves the Mind Untouched"
@@ -30507,6 +30590,12 @@
       "to": "the-loop-that-cant-see-itself",
       "rel": "points_to",
       "label": "The Loop That Can't See Itself"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the_analogy_trap",
+      "rel": "points_to",
+      "label": "The Analogy Trap: Shared Logic Is Not Shared Structure"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
@@ -32826,9 +32915,21 @@
     },
     {
       "from": "not-a-theory-of-everything",
+      "to": "constraints_are_ground",
+      "rel": "points_to",
+      "label": "约束即地基：作为平台的个体"
+    },
+    {
+      "from": "not-a-theory-of-everything",
       "to": "the-limitation-is-doing-work",
       "rel": "points_to",
       "label": "限制正在做功"
+    },
+    {
+      "from": "not-a-theory-of-everything",
+      "to": "constraints_are_ground",
+      "rel": "points_to",
+      "label": "Constraints Are Ground: The Individual as Platform"
     },
     {
       "from": "not-a-theory-of-everything",
@@ -36570,6 +36671,12 @@
     },
     {
       "from": "platform-decision-capture",
+      "to": "school_essay_final",
+      "rel": "points_to",
+      "label": "人工智能为何正在暴露现代学校教育的致命缺陷"
+    },
+    {
+      "from": "platform-decision-capture",
       "to": "the-collapsed-debate",
       "rel": "points_to",
       "label": "坍缩的辩论与正交的生存风险轴"
@@ -36591,6 +36698,12 @@
       "to": "scaffolds-or-specialized-contexts",
       "rel": "points_to",
       "label": "Scaffolds or Specialized Contexts"
+    },
+    {
+      "from": "platform-decision-capture",
+      "to": "school_essay_final",
+      "rel": "points_to",
+      "label": "Why AI Is Exposing the Fatal Flaw in Modern Schooling"
     },
     {
       "from": "platform-decision-capture",
@@ -48180,9 +48293,21 @@
     },
     {
       "from": "the-coordinators-category-error",
+      "to": "the_analogy_trap",
+      "rel": "points_to",
+      "label": "类比的陷阱：共享的逻辑不是共享的结构"
+    },
+    {
+      "from": "the-coordinators-category-error",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
       "label": "The Source of Shared Change"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "the_analogy_trap",
+      "rel": "points_to",
+      "label": "The Analogy Trap: Shared Logic Is Not Shared Structure"
     },
     {
       "from": "the-coordinators-category-error",
@@ -50919,6 +51044,18 @@
       "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "rel": "points_to",
       "label": "Curiosity First"
+    },
+    {
+      "from": "the-flight-analogy-leaves-the-mind-untouched",
+      "to": "the_analogy_trap",
+      "rel": "points_to",
+      "label": "类比的陷阱：共享的逻辑不是共享的结构"
+    },
+    {
+      "from": "the-flight-analogy-leaves-the-mind-untouched",
+      "to": "the_analogy_trap",
+      "rel": "points_to",
+      "label": "The Analogy Trap: Shared Logic Is Not Shared Structure"
     },
     {
       "from": "the-flight-analogy-leaves-the-mind-untouched",
@@ -55109,6 +55246,54 @@
       "label": "The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity"
     },
     {
+      "from": "the-interesting-case-of-rubin",
+      "to": "extension-and-shift",
+      "rel": "points_to",
+      "label": "框内延伸与维度跃迁"
+    },
+    {
+      "from": "the-interesting-case-of-rubin",
+      "to": "the-strategy-that-wasnt",
+      "rel": "points_to",
+      "label": "从未作为战略的副业与被观察扼杀的自发性"
+    },
+    {
+      "from": "the-interesting-case-of-rubin",
+      "to": "extension-and-shift",
+      "rel": "points_to",
+      "label": "Extension and Shift"
+    },
+    {
+      "from": "the-interesting-case-of-rubin",
+      "to": "the-strategy-that-wasnt",
+      "rel": "points_to",
+      "label": "The Strategy That Wasn't"
+    },
+    {
+      "from": "the-interesting-case-of-rubin",
+      "to": "the-maintenance-paradox",
+      "rel": "points_to",
+      "label": "自我模型维护悖论"
+    },
+    {
+      "from": "the-interesting-case-of-rubin",
+      "to": "the-maintenance-paradox",
+      "rel": "points_to",
+      "label": "The Maintenance Paradox"
+    },
+    {
+      "from": "the-interesting-case-of-rubin",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-interesting-case-of-rubin",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
       "from": "the-inversion-of-reading-and-the-order-of-inference",
       "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
       "rel": "points_to",
@@ -56753,6 +56938,42 @@
       "label": "Your Codebase Is Memory"
     },
     {
+      "from": "the-loop-accelerates",
+      "to": "school_essay_final",
+      "rel": "points_to",
+      "label": "人工智能为何正在暴露现代学校教育的致命缺陷"
+    },
+    {
+      "from": "the-loop-accelerates",
+      "to": "the-tightening-loop",
+      "rel": "points_to",
+      "label": "不断收紧的回环"
+    },
+    {
+      "from": "the-loop-accelerates",
+      "to": "school_essay_final",
+      "rel": "points_to",
+      "label": "Why AI Is Exposing the Fatal Flaw in Modern Schooling"
+    },
+    {
+      "from": "the-loop-accelerates",
+      "to": "the-tightening-loop",
+      "rel": "points_to",
+      "label": "The Tightening Loop"
+    },
+    {
+      "from": "the-loop-accelerates",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-loop-accelerates",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
       "from": "the-loop-that-cant-see-itself",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
@@ -56760,6 +56981,42 @@
     },
     {
       "from": "the-loop-that-cant-see-itself",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-maintenance-paradox",
+      "to": "huberman-winners-losers",
+      "rel": "points_to",
+      "label": "赢家与输家的转化框架"
+    },
+    {
+      "from": "the-maintenance-paradox",
+      "to": "the-interesting-case-of-rubin",
+      "rel": "points_to",
+      "label": "里克·鲁宾的奇特案例与不可瞄准的乐趣"
+    },
+    {
+      "from": "the-maintenance-paradox",
+      "to": "huberman-winners-losers",
+      "rel": "points_to",
+      "label": "Winners and Losers in the Transmutation Frame"
+    },
+    {
+      "from": "the-maintenance-paradox",
+      "to": "the-interesting-case-of-rubin",
+      "rel": "points_to",
+      "label": "The Interesting Case of Rubin"
+    },
+    {
+      "from": "the-maintenance-paradox",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-maintenance-paradox",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
@@ -67037,6 +67294,54 @@
       "label": "Silicon Oracles and the Asymmetry of Consequence"
     },
     {
+      "from": "the-strategy-that-wasnt",
+      "to": "constraints_are_ground",
+      "rel": "points_to",
+      "label": "约束即基底与作为平台的个体"
+    },
+    {
+      "from": "the-strategy-that-wasnt",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "the-strategy-that-wasnt",
+      "to": "constraints_are_ground",
+      "rel": "points_to",
+      "label": "Constraints Are Ground"
+    },
+    {
+      "from": "the-strategy-that-wasnt",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-strategy-that-wasnt",
+      "to": "the-maintenance-paradox",
+      "rel": "points_to",
+      "label": "自我模型维护悖论"
+    },
+    {
+      "from": "the-strategy-that-wasnt",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-strategy-that-wasnt",
+      "to": "the-maintenance-paradox",
+      "rel": "points_to",
+      "label": "The Maintenance Paradox"
+    },
+    {
+      "from": "the-strategy-that-wasnt",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
       "from": "the-strongest-belief-of-the-mind",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
@@ -67611,6 +67916,78 @@
       "to": "the-geometry-of-emergence",
       "rel": "points_to",
       "label": "The Geometry of Emergence"
+    },
+    {
+      "from": "the-tightening-loop",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-tightening-loop",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-tightening-loop",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "被我们遗忘的脚手架"
+    },
+    {
+      "from": "the-tightening-loop",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "the-tightening-loop",
+      "to": "the_moving_ground",
+      "rel": "points_to",
+      "label": "移动的基底与智能体委派的渐近线"
+    },
+    {
+      "from": "the-tightening-loop",
+      "to": "the_moving_ground",
+      "rel": "points_to",
+      "label": "The Moving Ground"
+    },
+    {
+      "from": "the-tightening-loop",
+      "to": "the-loop-accelerates",
+      "rel": "points_to",
+      "label": "加速的自指回环与自我实现的终结叙事"
+    },
+    {
+      "from": "the-tightening-loop",
+      "to": "the-loop-accelerates",
+      "rel": "points_to",
+      "label": "The Loop Accelerates"
+    },
+    {
+      "from": "the-tightening-loop",
+      "to": "the-interesting-case-of-rubin",
+      "rel": "points_to",
+      "label": "里克·鲁宾的奇特案例与不可瞄准的乐趣"
+    },
+    {
+      "from": "the-tightening-loop",
+      "to": "the-strategy-that-wasnt",
+      "rel": "points_to",
+      "label": "从未作为战略的副业与被观察扼杀的自发性"
+    },
+    {
+      "from": "the-tightening-loop",
+      "to": "the-interesting-case-of-rubin",
+      "rel": "points_to",
+      "label": "The Interesting Case of Rubin"
+    },
+    {
+      "from": "the-tightening-loop",
+      "to": "the-strategy-that-wasnt",
+      "rel": "points_to",
+      "label": "The Strategy That Wasn't"
     },
     {
       "from": "the-twin-paradox-and-the-hidden-observer",
@@ -69414,15 +69791,183 @@
     },
     {
       "from": "the_analogy_trap",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the_analogy_trap",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the_analogy_trap",
+      "to": "the_illegible_compound_retraced",
+      "rel": "points_to",
+      "label": "不可读的复利重溯"
+    },
+    {
+      "from": "the_analogy_trap",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
-      "label": "The coordinator’s category error"
+      "label": "协调者的范畴谬误"
+    },
+    {
+      "from": "the_analogy_trap",
+      "to": "the_illegible_compound_retraced",
+      "rel": "points_to",
+      "label": "The Illegible Compound Retraced"
+    },
+    {
+      "from": "the_analogy_trap",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "The Coordinator's Category Error"
     },
     {
       "from": "the_analogy_trap",
       "to": "the-flight-analogy-leaves-the-mind-untouched",
       "rel": "points_to",
-      "label": "The flight analogy leaves the Mind untouched"
+      "label": "飞行类比未触及心智"
+    },
+    {
+      "from": "the_analogy_trap",
+      "to": "the-flight-analogy-leaves-the-mind-untouched",
+      "rel": "points_to",
+      "label": "The Flight Analogy Leaves the Mind Untouched"
+    },
+    {
+      "from": "the_analogy_trap",
+      "to": "the-maintenance-paradox",
+      "rel": "points_to",
+      "label": "自我模型维护悖论"
+    },
+    {
+      "from": "the_analogy_trap",
+      "to": "the-maintenance-paradox",
+      "rel": "points_to",
+      "label": "The Maintenance Paradox"
+    },
+    {
+      "from": "the_illegible_compound_retraced",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the_illegible_compound_retraced",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the_illegible_compound_retraced",
+      "to": "the_analogy_trap",
+      "rel": "points_to",
+      "label": "类比陷阱与共享逻辑的越界偷渡"
+    },
+    {
+      "from": "the_illegible_compound_retraced",
+      "to": "the_analogy_trap",
+      "rel": "points_to",
+      "label": "The Analogy Trap"
+    },
+    {
+      "from": "the_illegible_compound_retraced",
+      "to": "the-strategy-that-wasnt",
+      "rel": "points_to",
+      "label": "从未作为战略的副业与被观察扼杀的自发性"
+    },
+    {
+      "from": "the_illegible_compound_retraced",
+      "to": "the-strategy-that-wasnt",
+      "rel": "points_to",
+      "label": "The Strategy That Wasn't"
+    },
+    {
+      "from": "the_illegible_compound_retraced",
+      "to": "the-maintenance-paradox",
+      "rel": "points_to",
+      "label": "自我模型维护悖论"
+    },
+    {
+      "from": "the_illegible_compound_retraced",
+      "to": "the-maintenance-paradox",
+      "rel": "points_to",
+      "label": "The Maintenance Paradox"
+    },
+    {
+      "from": "the_illegible_compound_retraced",
+      "to": "the-interesting-case-of-rubin",
+      "rel": "points_to",
+      "label": "里克·鲁宾的奇特案例与不可瞄准的乐趣"
+    },
+    {
+      "from": "the_illegible_compound_retraced",
+      "to": "the-interesting-case-of-rubin",
+      "rel": "points_to",
+      "label": "The Interesting Case of Rubin"
+    },
+    {
+      "from": "the_moving_ground",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the_moving_ground",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the_moving_ground",
+      "to": "the-tightening-loop",
+      "rel": "points_to",
+      "label": "不断收紧的回环"
+    },
+    {
+      "from": "the_moving_ground",
+      "to": "the-tightening-loop",
+      "rel": "points_to",
+      "label": "The Tightening Loop"
+    },
+    {
+      "from": "the_moving_ground",
+      "to": "the_analogy_trap",
+      "rel": "points_to",
+      "label": "类比陷阱与共享逻辑的越界偷渡"
+    },
+    {
+      "from": "the_moving_ground",
+      "to": "the_analogy_trap",
+      "rel": "points_to",
+      "label": "The Analogy Trap"
+    },
+    {
+      "from": "the_moving_ground",
+      "to": "the_illegible_compound_retraced",
+      "rel": "points_to",
+      "label": "不可读的复利重溯"
+    },
+    {
+      "from": "the_moving_ground",
+      "to": "the_illegible_compound_retraced",
+      "rel": "points_to",
+      "label": "The Illegible Compound Retraced"
+    },
+    {
+      "from": "the_moving_ground",
+      "to": "the-loop-accelerates",
+      "rel": "points_to",
+      "label": "加速的自指回环与自我实现的终结叙事"
+    },
+    {
+      "from": "the_moving_ground",
+      "to": "the-loop-accelerates",
+      "rel": "points_to",
+      "label": "The Loop Accelerates"
     },
     {
       "from": "therapy-opens-the-feedback-loop",
@@ -75382,7 +75927,7 @@
         "slug": "consciousness",
         "path": "content/book/consciousness.md",
         "title": "意识与第一人称先验 / Consciousness and the First-Person Prior",
-        "hash": "077d4429e325",
+        "hash": "eefede033133",
         "out_degree": 39
       },
       {
@@ -75400,7 +75945,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "58fcdf49ce39",
+        "hash": "ffc2831158ee",
         "out_degree": 397
       },
       {
@@ -75409,7 +75954,7 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "19193ae56906",
+        "hash": "fa3a4707ffad",
         "out_degree": 48
       },
       {
@@ -75418,7 +75963,7 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "997145394b29",
+        "hash": "25591043c454",
         "out_degree": 34
       },
       {
@@ -75499,7 +76044,7 @@
         "slug": "success-and-the-self",
         "path": "content/book/success-and-the-self.md",
         "title": "成功学公式与自我重塑 / The Formula of Success and Self-Reconstruction",
-        "hash": "f19aad8c22f2",
+        "hash": "b2b79c60d19d",
         "out_degree": 33
       },
       {
@@ -75508,7 +76053,7 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "bd0b51965461",
+        "hash": "0527ff30bec7",
         "out_degree": 34
       }
     ],
@@ -75733,7 +76278,7 @@
         "from": "book:consciousness",
         "to": "the-maintenance-paradox",
         "rel": "collects",
-        "label": "The Maintenance Paradox"
+        "label": "自我模型维护悖论 / The Maintenance Paradox"
       },
       {
         "from": "book:consciousness",
@@ -76705,7 +77250,7 @@
         "from": "book:index-of-premises",
         "to": "the-interesting-case-of-rubin",
         "rel": "collects",
-        "label": "The Interesting Case of Rubin"
+        "label": "里克·鲁宾的奇特案例与不可瞄准的乐趣 / The Interesting Case of Rubin"
       },
       {
         "from": "book:index-of-premises",
@@ -77749,7 +78294,7 @@
         "from": "book:index-of-premises",
         "to": "the-loop-accelerates",
         "rel": "collects",
-        "label": "The Loop Accelerates"
+        "label": "加速的自指回环与自我实现的终结叙事 / The Loop Accelerates"
       },
       {
         "from": "book:index-of-premises",
@@ -78595,7 +79140,7 @@
         "from": "book:index-of-premises",
         "to": "the_illegible_compound_retraced",
         "rel": "collects",
-        "label": "The Illegible Compound — Retraced"
+        "label": "不可读的复利重溯 / The Illegible Compound Retraced"
       },
       {
         "from": "book:index-of-premises",
@@ -79297,7 +79842,7 @@
         "from": "book:index-of-premises",
         "to": "the-maintenance-paradox",
         "rel": "collects",
-        "label": "The Maintenance Paradox"
+        "label": "自我模型维护悖论 / The Maintenance Paradox"
       },
       {
         "from": "book:index-of-premises",
@@ -79393,7 +79938,7 @@
         "from": "book:index-of-premises",
         "to": "the_analogy_trap",
         "rel": "collects",
-        "label": "The Analogy Trap: Shared Logic Is Not Shared Structure"
+        "label": "类比陷阱与共享逻辑的越界偷渡 / The Analogy Trap"
       },
       {
         "from": "book:index-of-premises",
@@ -79495,7 +80040,7 @@
         "from": "book:index-of-premises",
         "to": "the-strategy-that-wasnt",
         "rel": "collects",
-        "label": "The Strategy That Wasn't"
+        "label": "从未作为战略的副业与被观察扼杀的自发性 / The Strategy That Wasn't"
       },
       {
         "from": "book:index-of-premises",
@@ -79663,7 +80208,7 @@
         "from": "book:index-of-premises",
         "to": "the_moving_ground",
         "rel": "collects",
-        "label": "The Moving Ground: On \"Intelligent AI Delegation\""
+        "label": "移动的基底与智能体委派的渐近线 / The Moving Ground"
       },
       {
         "from": "book:index-of-premises",
@@ -79843,7 +80388,7 @@
         "from": "book:index-of-premises",
         "to": "the-interesting-case-of-rubin",
         "rel": "collects",
-        "label": "The Interesting Case of Rubin"
+        "label": "里克·鲁宾的奇特案例与不可瞄准的乐趣 / The Interesting Case of Rubin"
       },
       {
         "from": "book:index-of-premises",
@@ -80083,7 +80628,7 @@
         "from": "book:index-of-premises",
         "to": "the-tightening-loop",
         "rel": "collects",
-        "label": "The Tightening Loop"
+        "label": "不断收紧的回环 / The Tightening Loop"
       },
       {
         "from": "book:index-of-premises",
@@ -80353,7 +80898,7 @@
         "from": "book:intelligence",
         "to": "the_moving_ground",
         "rel": "collects",
-        "label": "The Moving Ground: On \"Intelligent AI Delegation\""
+        "label": "移动的基底与智能体委派的渐近线 / The Moving Ground"
       },
       {
         "from": "book:intelligence",
@@ -80407,7 +80952,7 @@
         "from": "book:intelligence",
         "to": "the-tightening-loop",
         "rel": "collects",
-        "label": "The Tightening Loop"
+        "label": "不断收紧的回环 / The Tightening Loop"
       },
       {
         "from": "book:intelligence",
@@ -80623,7 +81168,7 @@
         "from": "book:knowledge-and-learning",
         "to": "the_analogy_trap",
         "rel": "collects",
-        "label": "The Analogy Trap: Shared Logic Is Not Shared Structure"
+        "label": "类比陷阱与共享逻辑的越界偷渡 / The Analogy Trap"
       },
       {
         "from": "book:knowledge-and-learning",
@@ -81739,19 +82284,19 @@
         "from": "book:success-and-the-self",
         "to": "the-strategy-that-wasnt",
         "rel": "collects",
-        "label": "The Strategy That Wasn't"
+        "label": "从未作为战略的副业与被观察扼杀的自发性 / The Strategy That Wasn't"
       },
       {
         "from": "book:success-and-the-self",
         "to": "the-interesting-case-of-rubin",
         "rel": "collects",
-        "label": "The Interesting Case of Rubin"
+        "label": "里克·鲁宾的奇特案例与不可瞄准的乐趣 / The Interesting Case of Rubin"
       },
       {
         "from": "book:success-and-the-self",
         "to": "the_illegible_compound_retraced",
         "rel": "collects",
-        "label": "The Illegible Compound — Retraced"
+        "label": "不可读的复利重溯 / The Illegible Compound Retraced"
       },
       {
         "from": "book:success-and-the-self",
@@ -81985,7 +82530,7 @@
         "from": "book:tools-and-progress",
         "to": "the-loop-accelerates",
         "rel": "collects",
-        "label": "The Loop Accelerates"
+        "label": "加速的自指回环与自我实现的终结叙事 / The Loop Accelerates"
       },
       {
         "from": "book:tools-and-progress",

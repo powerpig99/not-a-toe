@@ -15,7 +15,7 @@ The essays in this part confront the hard problem of consciousness, the evolutio
 - [作为认知主动延伸的工具 / Tools as Active Extensions of Cognition](../../posts/extended-cognition-refined/)
 - [感知与视角并不存在的坍缩 / Perception and Perspective Without Collapse](../../posts/perception-perspective-refined/)
 - [留不住的 / What Cannot Be Kept](../../posts/what-cannot-be-kept/)
-- [The Maintenance Paradox](../../posts/the-maintenance-paradox/)
+- [自我模型维护悖论 / The Maintenance Paradox](../../posts/the-maintenance-paradox/)
 - [先于解释的感知 / Sensing Before Interpretation](../../posts/sensing-before-interpretation/)
 - [定义者的席位与离地的幻觉 / The Defining Seat](../../posts/the-defining-seat/)
 - [看不见自身的回路 / The Loop That Can't See Itself](../../posts/the-loop-that-cant-see-itself/)

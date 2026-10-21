@@ -757,3 +757,11 @@ Examples of non-still directions (illustrative only — invent, do not recycle a
 | `the-collapsed-debate` | Bauhaus constructivist stereometric sculpture & dark-room photogram | Three orthogonal light rods (blue, green, crimson) casting a tangled knot shadow on a flat screen | Obsidian void, cobalt blue, emerald, crimson |
 | `the-defining-seat` | Baroque theatrical stage-machinery engraving & chiaroscuro oil | Two gilded judge thrones on cranes facing a tall mirror while bolted to the same stone floor | Velvet umber, gilded bronze, mirror silver |
 | `the-descent-that-doesnt-know-where-its-going` | Song-dynasty mist-mountain ink landscape & gold contour inlay | Traveler with amber lantern crystallizing gold topographic contours underfoot step by step | Dark silk ink, warm amber, gold & silver inlay |
+| `the-interesting-case-of-rubin` | Warm analog reel-to-reel magnetic tape studio oil painting & wabi-sabi cedar woodgrain with gold-leaf acoustic wave lithography | 21:9 (`1344×576`) |
+| `the-loop-accelerates` | Futurist bronze flywheel dynamo etching & long-exposure stroboscopic light-trail photography in obsidian, copper ember, and electric gold | 21:9 (`1344×576`) |
+| `the-maintenance-paradox` | Flemish Renaissance vanitas oil painting & cracked porcelain kintsugi scaffolding cross-section in deep umber, vermilion lacquer, and daylight gold | 21:9 (`1344×576`) |
+| `the-strategy-that-wasnt` | Botanical glass-terrarium copperplate etching juxtaposed with wild bioluminescent forest floor painting in moss green, brass, and glowing amber | 21:9 (`1344×576`) |
+| `the-tightening-loop` | Precision watchmaker tourbillon hairspring macro-engraving fused with deep-space gravitational-wave interferometry in obsidian, sapphire blue, and incandescent gold | 21:9 (`1344×576`) |
+| `the_analogy_trap` | 17th-century camera obscura optical projection treatise etching & chiaroscuro oil painting in slate grey, warm ochre, and crimson | 21:9 (`1344×576`) |
+| `the_illegible_compound_retraced` | Subterranean limestone stalactite cavern cross-section & microscopic gold-dust water-drop deposition painting in deep indigo, cavern umber, and luminous gold | 21:9 (`1344×576`) |
+| `the_moving_ground` | Arctic pack-ice trigonometric survey engraving & tectonic plate shift painting in deep glacier teal, brass, and molten gold | 21:9 (`1344×576`) |

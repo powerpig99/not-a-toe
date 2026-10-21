@@ -12,9 +12,9 @@ These essays examine victimhood paralysis, shortcut delusions, and cognitive inv
 
 ## 篇目 / Essays
 
-- [The Strategy That Wasn't](../../posts/the-strategy-that-wasnt/)
-- [The Interesting Case of Rubin](../../posts/the-interesting-case-of-rubin/)
-- [The Illegible Compound — Retraced](../../posts/the_illegible_compound_retraced/)
+- [从未作为战略的副业与被观察扼杀的自发性 / The Strategy That Wasn't](../../posts/the-strategy-that-wasnt/)
+- [里克·鲁宾的奇特案例与不可瞄准的乐趣 / The Interesting Case of Rubin](../../posts/the-interesting-case-of-rubin/)
+- [不可读的复利重溯 / The Illegible Compound Retraced](../../posts/the_illegible_compound_retraced/)
 - [赢家与输家的转化框架 / Winners and Losers in the Transmutation Frame](../../posts/huberman-winners-losers/)
 - [消解芒格的愚蠢竞争论 / Dissolving Munger's Dumb Competition](../../posts/munger-dumb-competition-refined/)
 - [自我价值感与所有权 / Ownership and Self-Worthiness](../../posts/ownership-and-self-worthiness/)

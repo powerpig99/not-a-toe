@@ -58,11 +58,11 @@ function hrefToSlug(href) {
   }
   const cleaned = href.split('#')[0].trim();
   // Standard form: ../slug/ or ../slug
-  let m = cleaned.match(/^\.\.\/([a-z0-9][a-z0-9-]*)\/?$/i);
-  if (m) return m[1].toLowerCase();
+  let m = cleaned.match(/^\.\.\/([A-Za-z0-9][A-Za-z0-9_-]*)\/?$/);
+  if (m) return m[1];
   // Alternate: ../slug.md
-  m = cleaned.match(/^\.\.\/([a-z0-9][a-z0-9-]*)\.md$/i);
-  if (m) return m[1].toLowerCase();
+  m = cleaned.match(/^\.\.\/([A-Za-z0-9][A-Za-z0-9_-]*)\.md$/);
+  if (m) return m[1];
   return null;
 }
 
