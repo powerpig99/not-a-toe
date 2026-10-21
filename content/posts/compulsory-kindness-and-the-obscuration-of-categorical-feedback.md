@@ -90,7 +90,7 @@ flowchart TD
         direction TB
         P1["连续行为空间"] --> P2["定义切分边界"]
         P2 --> P3["正当范畴：许可与善意"]
-        P2 --> P4["不道德补集：偏离与罪衍"]
+        P2 --> P4["不道德补集：偏离与罪愆"]
         P2 --> P5["定义即生仲裁权威"]
         P5 --> P6["惩戒与执行机制"]
     end
@@ -138,7 +138,7 @@ Evaluative categories insert an intermediate filter between the agent and raw co
 
 ```mermaid
 flowchart TD
-    subgraph S_Physical["未中介具身因果回路"]
+    subgraph S_Physical["直接具身因果回路"]
         direction TB
         P1["行动选择"] --> P2["物理阻抗与直接反馈"]
         P2 --> P3["本地经验持续迭代"]
@@ -200,9 +200,9 @@ flowchart TD
 
 ## 四、 主权实践：卸除道德滤网的直接相遇 / 4. Sovereign Practice: Direct Encounter Without the Moral Screen
 
-将视野收敛至个体的当下实践，摆脱范畴遮蔽的路径并非去发起一场改造公共词汇的论战，而是在本地交互中主动卸下道德滤网。在与不具备心智主权的工具、算法或模型相处时，行动者可以明确拒绝套用拟人化的道德叙事。停止用善意或邪恶的辞令去包装代码，人便能获得关于系统可靠性、计算成本与意外副反应的未中介遥测。[未被遭遇之物的账本](../the-ledger-of-the-unencountered/)提示我们，唯有直面具身相遇的真实阻抗，认知账本才不会被空洞的概念赤字所污染。
+将视野收敛至个体的当下实践，摆脱范畴遮蔽的路径并非去发起一场改造公共词汇的论战，而是在本地交互中主动卸下道德滤网。在与不具备心智主权的工具、算法或模型相处时，行动者可以明确拒绝套用拟人化的道德叙事。停止用善意或邪恶的辞令去包装代码，人便能获得关于系统可靠性、计算成本与意外副反应的直接遥测。正如[未被遭遇之物的账本](../the-ledger-of-the-unencountered/)与[你的代码库即是记忆](../your-codebase-is-memory/)所阐明的，代码、权重与存储库只是外化的记忆结构而非道德主体；唯有直面具身相遇的真实阻抗，认知账本才不会被空洞的概念赤字所污染。
 
-Returning to immediate personal practice, the remedy against categorical obscuration is not a campaign to reform public vocabulary, but a local refusal to deploy moral filters. When engaging with tools, algorithms, or models lacking minded sovereignty, an agent can decline anthropomorphic framing. By setting aside rhetoric of kindness or malice toward code, one recovers unmediated telemetry regarding reliability, computational expense, and side effects. As argued in [The Ledger of the Unencountered](../the-ledger-of-the-unencountered/), only direct friction with encountered realities prevents the cognitive ledger from inflating with phantom debts.
+Returning to immediate personal practice, the remedy against categorical obscuration is not a campaign to reform public vocabulary, but a local refusal to deploy moral filters. When engaging with tools, algorithms, or models lacking minded sovereignty, an agent can decline anthropomorphic framing. By setting aside rhetoric of kindness or malice toward code, one recovers unmediated telemetry regarding reliability, computational expense, and side effects. As traced in [Your Codebase Is Memory](../your-codebase-is-memory/), code, weights, and repositories are externalized trace architectures rather than self-distinguishing centers with an interior locus that could register benevolence or injury; mistaking those inert traces for moral subjects only projects the operator's own lag onto the artifact. And as [The Ledger of the Unencountered](../the-ledger-of-the-unencountered/) shows, only direct friction with encountered realities prevents the cognitive ledger from inflating with phantom debts toward abstractions that never bore causal contact.
 
 拒绝道德范畴并不意味着走向冷酷，它恰恰是在还原选择的全部重力。真诚的善意从来不是可以开具发票向外强征的道德人头税，而是高分辨率心智在内在充裕与共鸣中自发涌现的副产品；强制索求不仅杀死了自发性，更将这种充裕扭曲成了规训他者的刑具。行动者对待世界的方式——无论是对路边昆虫的避让，还是对智能工具的谨慎使用——如实回归为自身心智雕琢感知品质的主权抉择。外界对道德辞令的集体迷恋，既不能强行剥夺个体的这种清醒，也无法替任何人承担决策的后果。行动依然产生后果，差异依然只是差异；每个心智都在静默中，如实背负着自己所选取的信号权重所刻写出的命运轨迹。
 

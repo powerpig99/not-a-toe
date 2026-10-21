@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T08:57:31.037Z",
+    "generated_at": "2026-10-21T09:07:41.652Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -44,7 +44,7 @@
       "content/posts/closed-reality-in-benchmark-maxing.md": "30f8e4a72b5e",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "fc0b4da31c80",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "a99435a82fbe",
-      "content/posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback.md": "e1c59f1cd3e2",
+      "content/posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback.md": "2469406459fc",
       "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "322bdedfbdab",
       "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "591b48069747",
       "content/posts/conscience-power-delegation.md": "4dfadce8ba14",
@@ -59,7 +59,7 @@
       "content/posts/curiosity-has-no-final-form.md": "e59b53bce77e",
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
       "content/posts/data-is-local-intelligence-is-allocated.md": "add6923af446",
-      "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "5f788bf55578",
+      "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "6ef0fd1e62bc",
       "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "434ad917ad64",
       "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "e15614705dff",
       "content/posts/dimensions-are-projections.md": "4e5cf6607b3f",
@@ -116,7 +116,7 @@
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "edbfa0fe5c9b",
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "d7b5f20a6f6a",
       "content/posts/manifesto-of-not-a-theory-of-everything.md": "5b88319c7739",
-      "content/posts/math-as-a-career-is-not-math-as-a-pursuit.md": "295f0ae6bd95",
+      "content/posts/math-as-a-career-is-not-math-as-a-pursuit.md": "1a1944105695",
       "content/posts/meaning-of-life-refined.md": "1ae50e3e9204",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "02c235243d39",
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "57fc51f7e01d",
@@ -207,12 +207,12 @@
       "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "2f3a0106f008",
       "content/posts/the-boundary-of-the-frame.md": "6e148e2a6922",
       "content/posts/the-brain-does-not-backprop.md": "31ffd822909f",
-      "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "faeb12423e13",
+      "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "6e9576ea4bf5",
       "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "85a75f91e6a5",
       "content/posts/the-category-error-of-better.md": "e75bf338d63e",
       "content/posts/the-causal-inversion-of-partnership.md": "8217dad43956",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "8449097ffbc1",
-      "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "eeef620ba6fb",
+      "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "2d6fb2761270",
       "content/posts/the-causal-overstep-of-observation-and-the-first-person-surplus.md": "6c191f9ad616",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "0d5b45a35c75",
       "content/posts/the-closed-loop-of-representation.md": "659ee6fdc53f",
@@ -243,9 +243,9 @@
       "content/posts/the-fixed-image-of-transcendence.md": "582a2dc98e15",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "5b211b913d03",
       "content/posts/the-flywheel-of-the-mind.md": "6404a8949c52",
-      "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "539507f9e7ff",
+      "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "ec15da6f1cf3",
       "content/posts/the-frame-that-conceals-improvement.md": "6fbcef6b9c4c",
-      "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "dde3f74f7d30",
+      "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "38f50ac90bab",
       "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "bda6d94ef25c",
       "content/posts/the-freedom-of-will-to-deny-itself.md": "a083f19c6708",
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "91420ed7e85a",
@@ -262,7 +262,7 @@
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "18ddaac771bf",
       "content/posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function.md": "d0abfd039874",
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "13b646bb8cfd",
-      "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "cb240a9929c8",
+      "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "6d4b7faef53e",
       "content/posts/the-illusion-of-distance-and-the-dual-ruler.md": "d915809609b6",
       "content/posts/the-illusion-of-free-intelligence.md": "0b76898e8f30",
       "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "0200bfbf3fa5",
@@ -309,7 +309,7 @@
       "content/posts/the-npc-impression-is-structural.md": "42db1320fcc9",
       "content/posts/the-observational-cut-in-ai-debates.md": "67d1a12b9dca",
       "content/posts/the-only-coherent-uncaused-effect.md": "8e828e808896",
-      "content/posts/the-open-question-is-determinisms-demand.md": "f1804fe05d79",
+      "content/posts/the-open-question-is-determinisms-demand.md": "80597e04a05d",
       "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "60c3d0411af1",
       "content/posts/the-other-coherence.md": "8dac9149aa79",
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "431ce25c2506",
@@ -328,7 +328,7 @@
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "7efd08cd840c",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "fd5975fa9bb2",
       "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "ad7483982bf1",
-      "content/posts/the-reflexive-dilemma-of-unique-insight.md": "e0b2f868f3d1",
+      "content/posts/the-reflexive-dilemma-of-unique-insight.md": "4e3a2ae77041",
       "content/posts/the-residue-and-the-free-variable.md": "58c0ff59267d",
       "content/posts/the-returning-signal-and-its-claim.md": "3e0a96be38a7",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "4e0a51e77cf0",
@@ -359,7 +359,7 @@
       "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "065bbf648c6e",
       "content/posts/the-unclosable-trace.md": "f4ad7fa5724b",
       "content/posts/the-unexamined-critic.md": "275248d10d31",
-      "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "96d67d29d78d",
+      "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "d9b856250467",
       "content/posts/the-unobservable-driver-of-learning.md": "16338781295d",
       "content/posts/the-utility-men-of-progress.md": "74816f95d229",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "778ea3bc6eea",
@@ -374,7 +374,7 @@
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "d6e816ab5ba2",
       "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "3f4bec91103c",
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "de89125d75c0",
-      "content/posts/trusting-the-reader-is-the-last-overstep.md": "1c8ded446ee2",
+      "content/posts/trusting-the-reader-is-the-last-overstep.md": "fb810cc29e0d",
       "content/posts/two-failures-of-trace.md": "df2bfb498afc",
       "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "1a6b64a4d111",
       "content/posts/war-revolution-and-the-fall-of-empires.md": "e34d11fdc25d",
@@ -424,10 +424,10 @@
     },
     "stats": {
       "posts": 397,
-      "edges": 10484,
-      "unique_directed": 5146,
+      "edges": 10508,
+      "unique_directed": 5158,
       "missing_targets": 0,
-      "one_way": 664,
+      "one_way": 676,
       "isolated": 35,
       "posts_with_outbound": 362,
       "book_pages": 16,
@@ -438,7 +438,7 @@
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 314
+      "in_degree": 326
     },
     {
       "slug": "beyond-the-projection",
@@ -1635,9 +1635,9 @@
       "slug": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
       "path": "content/posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback.md",
       "title": "强求善意的残暴与范畴反馈的因果遮蔽 / Compulsory Kindness and the Obscuration of Categorical Feedback",
-      "hash": "e1c59f1cd3e2",
+      "hash": "2469406459fc",
       "in_degree": 2,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "subtracting-consciousness-at-the-source",
         "externalized-virtue-becomes-its-opposite",
@@ -1646,7 +1646,8 @@
         "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
         "moral-language-dilutes-the-feedback-that-scales-freedom",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
-        "the-ledger-of-the-unencountered"
+        "the-ledger-of-the-unencountered",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -1982,15 +1983,16 @@
       "slug": "deceleration-is-the-drag-felt-when-accelerating",
       "path": "content/posts/deceleration-is-the-drag-felt-when-accelerating.md",
       "title": "减速是加速时感受到的阻力 / Deceleration Is the Drag Felt When Accelerating",
-      "hash": "5f788bf55578",
+      "hash": "6ef0fd1e62bc",
       "in_degree": 8,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "symptom-and-cause-in-the-narratives-of-progress",
         "moral-language-as-projection",
         "felt-resistance-and-the-speed-differential",
         "restriction-is-a-selective-tax",
         "the-scaffolding-that-keeps-growing",
+        "your-codebase-is-memory",
         "failure-as-information",
         "the-local-trap-of-technological-change",
         "individual-choices-as-the-only-causal-levers"
@@ -3402,9 +3404,9 @@
       "slug": "math-as-a-career-is-not-math-as-a-pursuit",
       "path": "content/posts/math-as-a-career-is-not-math-as-a-pursuit.md",
       "title": "作为职业的数学不是作为追求的数学 / Math as a Career Is Not Math as a Pursuit",
-      "hash": "295f0ae6bd95",
+      "hash": "1a1944105695",
       "in_degree": 2,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "why-mathematics-can-never-be-solved",
         "the-model-never-becomes-a-second-edge",
@@ -3416,7 +3418,8 @@
         "the-homework-exam-inversion-registers-substitution",
         "studying-the-effect-of-ai-relocates-causality",
         "expertise-as-reference-not-replacement",
-        "felt-resistance-and-the-speed-differential"
+        "felt-resistance-and-the-speed-differential",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -5856,9 +5859,9 @@
       "slug": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
       "path": "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md",
       "title": "共情的能力倒错与边界的排序之争 / The Capability Reversal of Empathy and the Contest of Boundaries",
-      "hash": "faeb12423e13",
+      "hash": "6e9576ea4bf5",
       "in_degree": 8,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "the-asymmetry-of-understanding",
         "the-receptionist-parable-and-the-causal-inversion-of-absence",
@@ -5867,7 +5870,8 @@
         "abstract-pain-and-living-hunger",
         "the-explanatory-trap-of-the-ordinary-perspective",
         "the-mirror-handshake-of-power",
-        "the-causal-inversion-of-partnership"
+        "the-causal-inversion-of-partnership",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -5971,9 +5975,9 @@
       "slug": "the-causal-order-of-private-residuals-and-social-surplus",
       "path": "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md",
       "title": "私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus",
-      "hash": "eeef620ba6fb",
+      "hash": "2d6fb2761270",
       "in_degree": 7,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "having-more-is-never-the-cause",
         "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
@@ -5981,7 +5985,8 @@
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "abstract-pain-and-living-hunger",
         "beyond-the-hundred-trillion-horizon",
-        "individual-choices-as-the-only-causal-levers"
+        "individual-choices-as-the-only-causal-levers",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -6692,9 +6697,9 @@
       "slug": "the-form-of-enlightenment-and-the-inversion-of-gates",
       "path": "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md",
       "title": "开悟的相与门槛的倒置 / The Form of Enlightenment and the Inversion of Gates",
-      "hash": "539507f9e7ff",
+      "hash": "ec15da6f1cf3",
       "in_degree": 4,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "the-fixed-image-of-transcendence",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -6704,7 +6709,8 @@
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "the-free-mind-is-displaced-by-what-claims-to-protect-it",
         "present-contact-and-the-obscuration-of-desired-feeling",
-        "all-that-can-be-spoken-is-the-product-of-the-unspeakable"
+        "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -6731,9 +6737,9 @@
       "slug": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
       "path": "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md",
       "title": "自由的心智被声称保护它的东西取代 / The Free Mind Is Displaced by What Claims to Protect It",
-      "hash": "dde3f74f7d30",
+      "hash": "38f50ac90bab",
       "in_degree": 8,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "the-generative-topology-of-free-variables",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -6742,7 +6748,8 @@
         "shared-consciousness-is-intersecting-individualities",
         "the-form-of-enlightenment-and-the-inversion-of-gates",
         "residual-individualism",
-        "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy"
+        "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -7120,9 +7127,9 @@
       "slug": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
       "path": "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md",
       "title": "工时排名把充足度冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard",
-      "hash": "cb240a9929c8",
+      "hash": "6d4b7faef53e",
       "in_degree": 7,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "ownership-cost-freezes-lagged-averages-as-vehicle-property",
         "the-average-is-residue-not-the-engine",
@@ -7130,7 +7137,8 @@
         "when-the-effect-authors-the-frame",
         "symptom-and-cause-in-the-narratives-of-progress",
         "residual-individualism",
-        "the-observational-cut-in-ai-debates"
+        "the-observational-cut-in-ai-debates",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -8154,9 +8162,9 @@
       "slug": "the-open-question-is-determinisms-demand",
       "path": "content/posts/the-open-question-is-determinisms-demand.md",
       "title": "悬而未决是决定论的索求 / The Open Question Is Determinism's Demand",
-      "hash": "f1804fe05d79",
+      "hash": "80597e04a05d",
       "in_degree": 2,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "agency-does-not-arise",
         "the-model-never-becomes-a-second-edge",
@@ -8165,6 +8173,7 @@
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
         "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
         "the-residue-and-the-free-variable",
+        "your-codebase-is-memory",
         "the-geometry-of-coexistence-and-the-dual-cut"
       ]
     },
@@ -8650,9 +8659,9 @@
       "slug": "the-reflexive-dilemma-of-unique-insight",
       "path": "content/posts/the-reflexive-dilemma-of-unique-insight.md",
       "title": "独见者的自反困境与必然性的后验投射 / The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity",
-      "hash": "e0b2f868f3d1",
+      "hash": "4e3a2ae77041",
       "in_degree": 3,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "the-free-variable-and-the-retrospective-illusion-of-power",
         "the-walking-tangent-and-the-stumbling-sphere",
@@ -8661,7 +8670,8 @@
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
         "the-unfrictioned-mind-and-borrowed-omnipotence",
         "the-knowledge-problem-and-the-illusion-of-delegation",
-        "the-delegation-of-the-task-and-the-inalienability-of-consequences"
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -9438,9 +9448,9 @@
       "slug": "the-unfrictioned-mind-and-borrowed-omnipotence",
       "path": "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md",
       "title": "未历摩擦的心智与借来的全能 / The Unfrictioned Mind and Borrowed Omnipotence",
-      "hash": "96d67d29d78d",
+      "hash": "d9b856250467",
       "in_degree": 8,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "the-self-portrait-in-the-projection",
         "help-is-half-the-problem",
@@ -9449,7 +9459,8 @@
         "a-new-deeper-look-at-antifragility",
         "empowerment-establishes-the-centralization-of-power",
         "the-free-variable-and-the-retrospective-illusion-of-power",
-        "the-reflexive-dilemma-of-unique-insight"
+        "the-reflexive-dilemma-of-unique-insight",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -9731,9 +9742,9 @@
       "slug": "trusting-the-reader-is-the-last-overstep",
       "path": "content/posts/trusting-the-reader-is-the-last-overstep.md",
       "title": "信任读者是最后的越界 / Trusting the Reader Is the Last Overstep",
-      "hash": "1c8ded446ee2",
+      "hash": "fb810cc29e0d",
       "in_degree": 6,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "rationality-never-travels-across-the-mind",
         "price-as-utterance-understanding-as-trade",
@@ -9746,7 +9757,8 @@
         "one-cannot-escape-ones-own-mind",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
         "the-comment-is-not-the-code",
-        "gao-wei-xin-xi-de-li-san-zhe-she"
+        "gao-wei-xin-xi-de-li-san-zhe-she",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -10347,7 +10359,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 314,
+      "in_degree": 326,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -17483,6 +17495,18 @@
     },
     {
       "from": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
       "to": "the-ledger-of-the-unencountered",
       "rel": "points_to",
       "label": "The Ledger of the Unencountered"
@@ -19547,9 +19571,21 @@
     },
     {
       "from": "deceleration-is-the-drag-felt-when-accelerating",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "deceleration-is-the-drag-felt-when-accelerating",
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
       "label": "The scaffolding that keeps growing"
+    },
+    {
+      "from": "deceleration-is-the-drag-felt-when-accelerating",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "deceleration-is-the-drag-felt-when-accelerating",
@@ -28631,9 +28667,21 @@
     },
     {
       "from": "math-as-a-career-is-not-math-as-a-pursuit",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "math-as-a-career-is-not-math-as-a-pursuit",
       "to": "felt-resistance-and-the-speed-differential",
       "rel": "points_to",
       "label": "Felt Resistance and the Speed Differential"
+    },
+    {
+      "from": "math-as-a-career-is-not-math-as-a-pursuit",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "meaning-of-life-refined",
@@ -44729,18 +44777,6 @@
     },
     {
       "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
-      "to": "the-moral-reversal-and-the-scripted-subject",
-      "rel": "points_to",
-      "label": "道德倒错与被脚本化的主体"
-    },
-    {
-      "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
-      "to": "abstract-pain-and-living-hunger",
-      "rel": "points_to",
-      "label": "抽象的苦难与真实的饥饿"
-    },
-    {
-      "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
       "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
       "rel": "points_to",
       "label": "The Receptionist Parable and the Causal Inversion of Absence"
@@ -44750,6 +44786,18 @@
       "to": "the-freedom-of-will-to-deny-itself",
       "rel": "points_to",
       "label": "The Freedom of Will to Deny Itself"
+    },
+    {
+      "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "to": "the-moral-reversal-and-the-scripted-subject",
+      "rel": "points_to",
+      "label": "道德倒错与被脚本化的主体"
+    },
+    {
+      "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "to": "abstract-pain-and-living-hunger",
+      "rel": "points_to",
+      "label": "抽象的苦难与真实的饥饿"
     },
     {
       "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
@@ -44789,6 +44837,12 @@
     },
     {
       "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
       "to": "the-mirror-handshake-of-power",
       "rel": "points_to",
       "label": "The Mirror Handshake of Power"
@@ -44798,6 +44852,12 @@
       "to": "the-causal-inversion-of-partnership",
       "rel": "points_to",
       "label": "The Causal Inversion of Partnership"
+    },
+    {
+      "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
@@ -45467,9 +45527,21 @@
     },
     {
       "from": "the-causal-order-of-private-residuals-and-social-surplus",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-causal-order-of-private-residuals-and-social-surplus",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-causal-order-of-private-residuals-and-social-surplus",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-causal-overstep-of-observation-and-the-first-person-surplus",
@@ -49823,9 +49895,21 @@
     },
     {
       "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
       "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
       "rel": "points_to",
       "label": "All That Can Be Spoken Is the Product of the Unspeakable"
+    },
+    {
+      "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-frame-that-conceals-improvement",
@@ -49979,6 +50063,12 @@
     },
     {
       "from": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
       "to": "the-form-of-enlightenment-and-the-inversion-of-gates",
       "rel": "points_to",
       "label": "The Form of Enlightenment and the Inversion of Gates"
@@ -49994,6 +50084,12 @@
       "to": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
       "rel": "points_to",
       "label": "The Welfare State Illusion"
+    },
+    {
+      "from": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-free-variable-and-the-retrospective-illusion-of-power",
@@ -52235,9 +52331,21 @@
     },
     {
       "from": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
       "to": "the-observational-cut-in-ai-debates",
       "rel": "points_to",
       "label": "The observational cut in AI debates"
+    },
+    {
+      "from": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-illusion-of-distance-and-the-dual-ruler",
@@ -58133,6 +58241,12 @@
     },
     {
       "from": "the-open-question-is-determinisms-demand",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-open-question-is-determinisms-demand",
       "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
       "rel": "points_to",
       "label": "All That Can Be Spoken Is the Product of the Unspeakable"
@@ -58142,6 +58256,12 @@
       "to": "the-residue-and-the-free-variable",
       "rel": "points_to",
       "label": "The Residue and the Free Variable"
+    },
+    {
+      "from": "the-open-question-is-determinisms-demand",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-open-question-is-determinisms-demand",
@@ -61493,6 +61613,12 @@
     },
     {
       "from": "the-reflexive-dilemma-of-unique-insight",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-reflexive-dilemma-of-unique-insight",
       "to": "the-knowledge-problem-and-the-illusion-of-delegation",
       "rel": "points_to",
       "label": "The Knowledge Problem and the Illusion of Delegation"
@@ -61502,6 +61628,12 @@
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
       "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "the-reflexive-dilemma-of-unique-insight",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-residue-and-the-free-variable",
@@ -66617,6 +66749,12 @@
     },
     {
       "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
       "to": "the-free-variable-and-the-retrospective-illusion-of-power",
       "rel": "points_to",
       "label": "The Invisible Free Variable and the Retrospective Illusion of Power"
@@ -66626,6 +66764,12 @@
       "to": "the-reflexive-dilemma-of-unique-insight",
       "rel": "points_to",
       "label": "The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity"
+    },
+    {
+      "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-unobservable-driver-of-learning",
@@ -68507,9 +68651,21 @@
     },
     {
       "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
       "to": "gao-wei-xin-xi-de-li-san-zhe-she",
       "rel": "points_to",
       "label": "The Discrete Refraction of High-Dimensional Information"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "two-failures-of-trace",

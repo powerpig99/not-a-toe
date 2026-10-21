@@ -1,8 +1,8 @@
 # 减速是加速时感受到的阻力 / Deceleration Is the Drag Felt When Accelerating
 
-*减速不是对抗进步的独立力量，而是速度带来的阻力，被当作敌人时才稳定下来 / Deceleration is not a force opposing progress but drag made by velocity, stabilized only when fought as an enemy.*
+*减速并非对抗进步的独立力量，而是速度生出的阻力，唯被视作敌人时才固化 / Deceleration is not a force opposing progress but drag made by velocity, stabilized only when fought as an enemy.*
 
-把文明与技术的进步框定为加速与减速两种意识形态的对决，是一个范畴错误。减速不是站在战场对面、自行生成的独立力量；它是加速本身穿过既有介质时产生的反作用阻力。这份阻力一旦被实体化为一个本体上的敌人，加速的物体就会张大自己的截面去与介质搏斗，把一时的摩擦稳定成长期的对立制度。有纪律的回应把阻力认作诊断的信息：既证明速度已经达到，也邀请把船体修得更流线。
+把文明与技术的进步框定为加速与减速两种意识形态的对决，是一个范畴错误。减速不是站在战场对面、自行生成的独立力量；它是加速本身穿过既有介质时产生的反作用阻力。这份阻力一旦被实体化为一个本体上的敌人，加速的物体就会撑大迎风截面去与介质搏斗，把一时的摩擦固化成长期的对立制度。有纪律的回应把阻力认作诊断信息：既印证速度已经达到，也提示何处仍需将船体打磨得更加流线。
 
 Framing civilizational and technological progress as an ideological duel between acceleration and deceleration is a category error. Deceleration is not an independent, self-originating force standing across a battlefield; it is the reactive drag that acceleration itself generates as it moves through an existing medium. When that resistance is reified into an ontological enemy, the accelerating body widens its cross-section to fight the medium, stabilizing passing friction into lasting institutions of opposition. The disciplined response takes drag as diagnostic information: evidence that velocity has been reached, and an invitation to streamline the hull.
 
@@ -26,11 +26,11 @@ The instrument needle moves because the vehicle is accelerating. Misreading this
 
 The deeper distortion begins when drag is treated as the primary problem to conquer rather than as a natural reaction to be streamlined.
 
-把减速人格化为一套连贯的敌对意识形态，认定长期的敌人、恶意的联盟与必须在战斗中击败的道德缺陷，摩擦就被稳定在原处。本可以只是一层短暂的气流剪切层的东西，被授予了正式的制度边界、政治身份与坚固的堡垒。放慢的呼声多以道德语言出现，[道德语言作为投影](../moral-language-as-projection/)把这种语言读作从封闭现实出发的投影。
+把减速人格化为一套连贯的敌对意识形态，认定长期的敌人、恶意的联盟与必须在战斗中击败的道德缺陷，摩擦就被固定在原处。原本只是一道短暂掠过的气流剪切层，却被赋予了正式的制度边界、政治身份与坚固的堡垒。放慢的呼声多以道德语言出现，[道德语言作为投影](../moral-language-as-projection/)把这种语言读作从封闭现实出发的投影。
 
 Personifying deceleration as a coherent adversarial ideology, with permanent enemies, malicious coalitions and moral deficits to be defeated in battle, holds the friction in place. What could have stayed a passing aerodynamic shear layer is granted formal institutional borders, political identities and entrenched battlements. Calls to slow down arrive mostly in moral language, which [Moral Language as Projection](../moral-language-as-projection/) reads as projection from a closed reality.
 
-“对抗减速”的姿态本身就扩大了运动物体的迎风面积。本该投入引擎效率与外形塑造的能量，被转去打诊断式的论战，向周围的空气发动文化战争。载具慢下来，不是因为介质无法穿越，而是因为它长出了巨大的附肢去与风角力。[阻力体感与速率差](../felt-resistance-and-the-speed-differential/)把这次因果倒置说得更清楚：被感到的阻力，是前进中的能力与滞后的适应之间速率差的成比例的感受。把生成的资源抽去争辩周围的怀疑，压平了未采用者赶上来的私人激励，反而固化了那些表演性战斗所哀叹的滞后。[限制是选择性的税](../restriction-is-a-selective-tax/)追溯了同一个动态：监管与限制的屏障不是无法穿越的石墙，而是选择性的摩擦，惩罚宽大的迎风面，放过专注、流线的流动。
+“对抗减速”的姿态本身就扩大了运动物体的迎风面积。本该投入引擎效率与外形塑造的能量，被转去打诊断式的论战，向周围的空气发动文化战争。载具慢下来，不是因为介质无法穿越，而是因为它长出了巨大的附肢去与风角力。[阻力体感与速率差](../felt-resistance-and-the-speed-differential/)把这次因果倒置说得更清楚：所感到的阻力，与推进的能力同滞后的适应之间的速率差成正比。将生成性的资源抽调去同四周的怀疑论战，抹平了未采用者主动跟进的内在激励，反而固化了那些姿态性交锋所哀叹的滞后。[限制是选择性的税](../restriction-is-a-selective-tax/)追溯了同一个动态：监管与限制的屏障不是无法穿越的石墙，而是选择性的摩擦，惩罚宽大的迎风面，放过专注、流线的流动。
 
 ```mermaid
 flowchart TD
@@ -106,21 +106,13 @@ flowchart TD
 
 ## 三、 阻力在速度与能力中消散 / 3. Drag Dissolves Through Velocity and Competence
 
-在物理系统里，空气阻力不是靠对大气喊叫来解决的，而是靠持续的外形改进与持续的推力。在人的系统里，阻力的自然消散循着一个确定的次序：
+在物理系统里，空气阻力不是靠对大气喊叫来解决的，而是靠持续的外形改进与持续的推力。在人的系统里，阻力的自然消散循着一个确定的次序：首先，能力降低采用成本，随着能力成熟，那些曾让谨慎显得正当的实际风险与不确定性随之下降，防御姿态变得昂贵而多余；继而，激励重新对齐，起初只登记到扰动与摩擦的相关方，开始从新的生产力基线中获益；最终，速度本身带来淘汰，更快状态下的运作在争论结束之前就让此前的制度性异议失去了对象。
 
-In physical systems, aerodynamic drag is resolved not by shouting at the atmosphere but by continuous refinement of shape and sustained thrust. In human systems, the natural dissolution of drag follows a definite sequence:
+In physical systems, aerodynamic drag is resolved not by shouting at the atmosphere but by continuous refinement of shape and sustained thrust. In human systems, the natural dissolution of drag follows a definite sequence: first, competence lowers adoption costs as capabilities mature, reducing the concrete risks and uncertainties that made caution legitimate until defensive posturing becomes expensive and redundant; next, incentives realign as stakeholders who at first registered only disruption and friction begin to benefit from the new baseline of productivity; finally, speed itself brings obsolescence, because operating in the faster state leaves earlier institutional objections without an object before the debates even conclude.
 
-1. **能力降低采用成本：** 随着能力成熟，那些让谨慎显得正当的实际风险与不确定性下降，防御的姿态变得昂贵而多余。
-2. **激励重新对齐：** 起初只登记到扰动与摩擦的相关方，开始从新的生产力基线中获益。
-3. **速度本身带来淘汰：** 更快状态下的运作，在争论结束之前就让此前的制度性异议失去了对象。
+把减速稳定为长期的敌人，就短路了这条演化式的消散。它把双方锁进一场冻结的围城：挑战者要求无条件投降，介质则筑起更厚的防波堤。[持续生长的脚手架](../the-scaffolding-that-keeps-growing/)与[你的代码库即是记忆](../your-codebase-is-memory/)共同追溯了这场围城之下的冻结：把当前结构所保存的形象或外化记忆库当作完工的丰碑来固守，而活的结构本身仍在掌舵的边缘持续生长。
 
-1. **Competence lowers adoption costs:** as capabilities mature, the actual risks and uncertainties that made caution legitimate decline, and defensive posturing becomes expensive and redundant.
-2. **Incentives realign:** stakeholders who at first registered only disruption and friction begin to benefit from the new baseline of productivity.
-3. **Speed itself brings obsolescence:** operating in the faster state leaves earlier institutional objections without an object before the debates conclude.
-
-把减速稳定为长期的敌人，就短路了这条演化式的消散。它把双方锁进一场冻结的围城：挑战者要求无条件投降，介质则筑起更厚的防波堤。[持续生长的脚手架](../the-scaffolding-that-keeps-growing/)追溯这场围城之下的冻结：当前结构被保存的形象被持守为完成的，而结构本身仍在生长。
-
-Stabilizing deceleration into a permanent enemy short-circuits this evolutionary dissolution. It locks both sides into a frozen siege in which the challenger demands unconditional surrender and the medium builds thicker breakwaters. [The scaffolding that keeps growing](../the-scaffolding-that-keeps-growing/) traces the freeze beneath that siege: the preserved image of a current structure held as finished, while the structure itself keeps growing.
+Stabilizing deceleration into a permanent enemy short-circuits this evolutionary dissolution. It locks both sides into a frozen siege in which the challenger demands unconditional surrender and the medium builds thicker breakwaters. [The scaffolding that keeps growing](../the-scaffolding-that-keeps-growing/) traces the freeze beneath that siege: treating a transitional structure as a finished monument while the living work keeps growing past its frame. [Your Codebase Is Memory](../your-codebase-is-memory/) locates the same asymmetry between externalized traces and the live steering edge: legacy institutions, regulations, and codebases are accumulated memory traces from earlier passes that cannot update themselves, so fighting them as sovereign opponents mistakes inert sediment for a rival will instead of refactoring the hull and moving through.
 
 ## 四、 阻力作为诊断的反馈 / 4. Resistance as Diagnostic Feedback
 
@@ -136,6 +128,6 @@ The presence of drag is the clearest signal that real change is under way. An en
 
 The strategic task is neither to deny the drag nor to reify it into a sacred war, but to treat resistance as unfiltered feedback: a sensor reading that measures current speed and shows where the vehicle is still blunt, turbulent or poorly coupled to reality. [Failure as information](../failure-as-information/) sets out this discipline: friction and collision are not moral verdicts but precise data for the next iteration. [The Local Trap of Technological Change](../the-local-trap-of-technological-change/) applies this diagnostic to technological revolutions: the sluggishness of the legacy base is the hydrodynamic friction of complementary capital, not evidence of stagnation.
 
-剩下的，是让油门开着，改进外形，降低系数。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)仍是掌舵唯一的所在：进步一次一个流线的抉择地继续，不理会身后留下的湍流。
+剩下的，是让油门开着，改进几何外形，降低阻力系数。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)仍是掌舵唯一的所在：进步在每一次简练流线的抉择中向前推进，无需理会身后留下的湍流。
 
 What remains is to keep the throttle open, refine the geometry and reduce the coefficient. [Individual choices as the only causal levers](../individual-choices-as-the-only-causal-levers/) stays the sole site of steering: progress continues one streamlined choice at a time, indifferent to the turbulence left in its wake.

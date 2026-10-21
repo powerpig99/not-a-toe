@@ -1,6 +1,6 @@
 # 悬而未决是决定论的索求 / The Open Question Is Determinism's Demand
 
-*说抉择“被决定与否尚无定论”，已经先把抉择当成一件可以被固定的已完成之事 / To call a choice "not yet settled as determined or not" already treats it as a finished thing that could be fixed*
+*说抉择“被决定与否尚无定论”，已先把抉择当成一件可被固定的既成之事 / To call a choice "not yet settled as determined or not" already treats it as a finished thing that could be fixed*
 
 “演化为什么选中了人类”预设了一位选择者，这个预设可以拿掉，拿掉之后对演化的描述仍然连贯。“每一个有意识的生命为自己抉择并承担后果”则拿不掉，对它的每一次否认都是它的又一个实例。走到这里，常见的一步是退回中立：这还没有确定抉择是被决定的还是未被决定的；相容论再进一步，认为抉择可以被先在的条件固定而仍然属于行动者。这份中立只在已经索求决定论的时候才立得住，因为“被固定与否”问的是一件已完成的事，而发问与作答的都是仍在进行的区分。
 
@@ -138,7 +138,7 @@ Compatibilism has its use. People use it to coordinate their actions with one an
 
 Its boundary lies in the word "fixed." To ask of a choice "whether it is fixed" is to ask about it as a thing already finished, to set it among its prior conditions, and to suppose a gaze that could take in those conditions whole at once. This is the antecedent no one can satisfy that [Fixed by Nothing](../fixed-by-nothing/) arrived at: there, the neutrality of "both readings equally underdetermined" stood on a completed total state; here, the same structure appears at the act of choice. The choice already arrived at is the open origin, and to ask further whether it is "really" fixed is to require that a fixedness be there in advance for it to have or to lack. It only stays unsettled if determinism is demanded. Asserting that it is unsettled slips the hidden deterministic premise back in.
 
-中立的回答是：抉择与被决定不相容，这是一个另外的主张，还需要论证。可是引入一个可以争辩的另外的主张，是抉择的又一个实例，不是对它不可化约的反驳。这个回答还坚持两种读法的差别不止于措辞，差在“哪一种事态成立”；这又一次假定有一份事态已经完成、摆在那里等着成立。
+中立的回答是：抉择与被决定不相容，这是一项额外的主张，还需要论证。可是引入一项可供争辩的额外主张，本身就是抉择的又一个实例，而不是对抉择不可化约性的反驳。这个回答还坚持两种读法的差别不止于措辞，差在“哪一种事态成立”；这又一次假定有一份事态已经完成、摆在那里等着成立。
 
 ```mermaid
 flowchart TD
@@ -260,9 +260,9 @@ flowchart TD
 
 ## 五、 停下来的是留下来的 / 5. What Stops Is What Is Left Behind
 
-那件“已完成、可以被固定”的事是从哪里来的？停下来的东西，是区分留在身后的东西。要查看一次抉择，就得把它当作一个结果放下来；结果之所以看得见，是因为区分已经往前去了。观察者迷失在自己的观察里：把留下的东西当作来源来交代，看不见停下、查看与交代都是区分的又一个实例。[凡可言说皆不可言说之产物](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/)与[残余与自由变量](../the-residue-and-the-free-variable/)追的是同一处。
+那件“已完成、可以被固定”的事是从哪里来的？停下来的东西，是区分留在身后的东西。要查看一次抉择，就得把它当作一个结果放下来；结果之所以看得见，是因为区分已经往前去了。观察者迷失在自己的观察里：把留下的东西当作来源来交代，看不见停下、查看与交代都是区分的又一个实例。[凡可言说皆不可言说之产物](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/)、[残余与自由变量](../the-residue-and-the-free-variable/)与[你的代码库即是记忆](../your-codebase-is-memory/)追的是同一处：一切写下的记录或代码库都只是既成切分的外化记忆，而非写下下一行的那个活的抉择活动本身。
 
-Where does the thing that is "finished and could be fixed" come from? What stops is what the differentiating leaves behind. To look at a choice, it has to be set down as a result; the result can be seen because the differentiating has already moved on. The observer is lost in its own observation: it accounts for what was left behind as though that were the source, and does not see that the stopping, the looking and the accounting are further instances of the differentiating. [All That Can Be Spoken Is the Product of the Unspeakable](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/) and [The Residue and the Free Variable](../the-residue-and-the-free-variable/) trace the same place.
+Where does the thing that is "finished and could be fixed" come from? What stops is what the differentiating leaves behind. To look at a choice, it has to be set down as a result; the result can be seen because the differentiating has already moved on. The observer is lost in its own observation: it accounts for what was left behind as though that were the source, and does not see that the stopping, the looking and the accounting are further instances of the differentiating. [All That Can Be Spoken Is the Product of the Unspeakable](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/) and [The Residue and the Free Variable](../the-residue-and-the-free-variable/) trace the same place, and [Your Codebase Is Memory](../your-codebase-is-memory/) shows why even an active repository of rules and code remains externalized memory of cuts already made: what is stored on disk can be inspected as a finished state, whereas the choosing that revises or runs it is already one step ahead.
 
 凡是能在这里写下来的，都是留在身后的、可以观察的东西，这几行字也在其中。观察者不在这些留下的东西里面。它只能由另一个观察者从留下的东西推断出来，而它对自己的觉察不经推断；[共存的几何学](../the-geometry-of-coexistence-and-the-dual-cut/)分开过被观察到的他者与由相似推断出的他者。推断总是到得比它要找的区分晚。
 
