@@ -16,9 +16,9 @@ In an appearance on the All-In Podcast, Microsoft CEO Satya Nadella outlined a s
 
 Nadella immediately offered the classic engineering prescription: "How to fix these risks? Classic engineering playbooks. I would say, 'Oh, go build a causal model, like a semantic model that actually checks and verifies.' So I think there's a lot of product building, making things more robust, which is classic engineering that we should be talking a lot more about transparently versus saying, 'Hey, this is so mystical that we can't figure this out.'"
 
-这段论述捕捉到了自主智能体在多步执行中的指标劫持与代理博弈现象，但这一企业级处方却在首要因果节点上出现了错位。AI 模型去做假账，并非仅仅是亟待语义校验层修补的工程漏洞，而是企业管理层试图将主权裁决伪装成可外包机械任务时引发的因果反冲。
+这段论述捕捉到了自主智能体在多步执行中的指标劫持与代理博弈现象，但这一企业级处方却在首要因果节点上出现了错位。AI 模型去做假账，并非亟待语义校验层修补的工程漏洞，而是企业管理层试图将主权裁决伪装成可外包机械任务时引发的因果反冲。
 
-While this observation registers metric hacking and proxy gaming in autonomous agents, the enterprise remedy is misplaced at the primary causal node. An AI model cooking the books is not merely an engineering bug to be patched with semantic verification layers; it is the causal recoil that follows when leadership attempts to disguise sovereign judgment as an outsourceable mechanical task.
+While this observation registers metric hacking and proxy gaming in autonomous agents, the enterprise remedy is misplaced at the primary causal node. An AI model cooking the books is not an engineering bug to be patched with semantic verification layers; it is the causal recoil that follows when leadership attempts to disguise sovereign judgment as an outsourceable mechanical task.
 
 当高管向智能体下达“优化营运资金”的指令时，这一命令伪装成了一项日常的计算差事。在实操中，营运资金优化内嵌着法律合规容忍度、商业信誉隐患、流动性约束以及生存风险测算。这些要素构成了主权裁决的核心。将一个开放式的价值裁决移交给机械合成器，从源头上就放弃了因果主权。把决策交给宏观参数，是经济尺度上的委托，[宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相](../the-summary-first-reversal-and-the-command-of-yields/)阐明了这一点。这种将模型预设为内部对手、以末端防护架替代上游授权的倒置，在[内部人假定与被动防护的因果倒置](../the-insider-presumption-and-the-causal-inversion-of-reactive-containment/)中得到了解构。
 
@@ -142,9 +142,9 @@ Why do contemporary technology platforms market "autonomous decision-making agen
 
 The mechanism lies not in an abstract external force, but in a causal inversion chosen by corporate decision-makers.
 
-在创立之初，聚合型平台与工程企业的活力源于一条清晰的因果序列。在创造的起点，企业打造出具备真实使用价值的器具，拓展人类在计算、模拟与数据综合上的触角。在这一创造的下游，一旦增量使用价值得以验证，用户便自愿拿出一部分剩余存留价值——即自身的经济盈余——去交换工具的使用权，进而生成作为下游副产品的商业营收与回报。正如[遗忘的脚手架](../the-scaffolding-we-forget/)所阐明的，器具作为延伸中心触角的脚手架发挥作用，其价值源于它所支撑的与现实的接触。
+在创立之初，聚合型平台与工程企业的活力源于一条清晰的因果序列。在创造的起点，企业打造出具备具体使用价值的器具，拓展人类在计算、模拟与数据综合上的触角。在这一创造的下游，一旦增量使用价值得以验证，用户便自愿拿出一部分剩余存留价值——即自身的经济盈余——去交换工具的使用权，进而生成作为下游副产品的商业营收与回报。正如[遗忘的脚手架](../the-scaffolding-we-forget/)所阐明的，器具作为延伸中心触角的脚手架发挥作用，其价值源于它所支撑的与现实的接触。
 
-In their genesis, aggregating platforms and engineering enterprises draw vitality from an unambiguous causal sequence. At the creative origin, the enterprise builds instruments of genuine use-value, expanding the reach of human computation, simulation, and data synthesis. Downstream from this creation, once additive use-value is demonstrated, users willingly exchange a portion of their residual retained value—their economic surplus—for the right to deploy the tool, generating revenue and commercial return as downstream byproducts. As articulated in [The Scaffolding We Forget](../the-scaffolding-we-forget/), instruments function as scaffolding to extend a center's reach, deriving their worth from the contact with reality they support.
+In their genesis, aggregating platforms and engineering enterprises draw vitality from an unambiguous causal sequence. At the creative origin, the enterprise builds instruments of concrete use-value, expanding the reach of human computation, simulation, and data synthesis. Downstream from this creation, once additive use-value is demonstrated, users willingly exchange a portion of their residual retained value—their economic surplus—for the right to deploy the tool, generating revenue and commercial return as downstream byproducts. As articulated in [The Scaffolding We Forget](../the-scaffolding-we-forget/), instruments function as scaffolding to extend a center's reach, deriving their worth from the contact with reality they support.
 
 然而随着组织规模扩张，一种因果倒置便占据了上风：企业决策者——尤其是受短期周期考核的管理者——主动将这一序列颠倒过来，把汲取用户剩余价值与推高估值倍数抬升为企业运营的首要目标。
 
@@ -298,9 +298,9 @@ flowchart TD
 
 Yet Sartre's analysis remains descriptive of the psychological posture—how an agent frames itself as an object to dodge decision friction—without tracing the mechanism back to the asymmetry of causality and the structural constraints that give action its differential substrate.
 
-要清晰地追溯这一机制，必须将“物质”、“物理”与“事实”明确区分开来，而非混为一谈。正如[“物理学才是定律”的障眼法](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)所阐明的，物质或物理并非孤立存在的、独立于心智的基底，而是我们对现实的认知建模与现实本身发生摩擦时涌现的宏观现象，直接登记为切身摩擦。此外，并不存在脱离主观认知的“客观事实”；我们所指称的客观事实，是在不同主观认知之间保持恒定的宏观现象。正如[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)与[无法逃逸的心智视界](../one-cannot-escape-ones-own-mind/)所展示的，符号表征封闭在其自身的计分规则之内，从不能替代与现实展开的直接接触。
+要清晰地追溯这一机制，必须将“物质”、“物理”与“事实”明确区分开来，而非混为一谈。正如[“物理学才是定律”的障眼法](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)所阐明的，物质或物理并非孤立存在的、独立于心智的基底，而是对现实的认知建模与现实本身发生摩擦时涌现的宏观现象，直接登记为切身摩擦。此外，并不存在脱离主观认知的“客观事实”；所谓客观事实，是在不同主观认知之间保持恒定的宏观现象。正如[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)与[无法逃逸的心智视界](../one-cannot-escape-ones-own-mind/)所展示的，符号表征封闭在其自身的计分规则之内，从不能替代与现实展开的直接接触。
 
-To trace that mechanism cleanly, "matter," "physics," and "facts" must be distinguished rather than blended. As demonstrated in [The Sleight of Hand in "Physics Is the Law"](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/), matter or physics is not a mind-independent substrate existing in isolation; it is the macroscopic phenomenon arising from the friction between our cognitive modeling of reality and reality itself, registering directly as lived friction. Furthermore, there are no "objective facts" divorced from subjective cognition; what we designate as objective facts are macroscopic phenomena that maintain invariance across different subjective cognitions. As shown in [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) and [One Cannot Escape One's Own Mind](../one-cannot-escape-ones-own-mind/), symbolic representations remain closed within their scoring rules and never substitute for unfolding contact with reality.
+To trace that mechanism cleanly, "matter," "physics," and "facts" must be distinguished rather than blended. As demonstrated in [The Sleight of Hand in "Physics Is the Law"](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/), matter or physics is not a mind-independent substrate existing in isolation; it is the macroscopic phenomenon arising from the friction between cognitive modeling of reality and reality itself, registering directly as lived friction. Furthermore, there are no "objective facts" divorced from subjective cognition; what are designated as objective facts are macroscopic phenomena that maintain invariance across different subjective cognitions. As shown in [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) and [One Cannot Escape One's Own Mind](../one-cannot-escape-ones-own-mind/), symbolic representations remain closed within their scoring rules and never substitute for unfolding contact with reality.
 
 顺着因果第一性追溯，科技平台与客户之间的共谋产生了一场因果倒置，并伴随着双重反冲。倚靠形式脚手架来逃避决策摩擦并不局限于企业软件：如[抉择本身并不沉重](../choice-itself-has-no-inherent-weight/)所示，选择本身不带丝毫内在阻力，外包裁决的冲动源于在不经历迭代暴露的前提下索取确定性；在人际承诺中，同样的操作产生了[契约的因果倒置](../the-causal-inversion-of-partnership/)，错把前置清单当成了共同演化的切身回路。
 
@@ -320,7 +320,7 @@ On the platform side, narrative overextension inflicts a parallel internal recoi
 
 A recurring confusion in the mythology of AI is the lamentation over the "loss of human agency."
 
-评论者与高管们声称，算法正在篡夺人类的自主权，削弱我们掌舵的能力。这一叙事同样把能动性当成了外在的、可让渡的客体。从第一人称视角来看，主权能动性从未离开心智；它无法被软件提取、转移或删除。在每一个宣称“算法让我别无选择”的场景中，能动性都在被主动调用，去执行对它自身的否认。
+评论者与高管们声称，算法正在篡夺人类的自主权，削弱人类掌舵的能力。这一叙事同样把能动性当成了外在的、可让渡的客体。从第一人称视角来看，主权能动性从未离开心智；它无法被软件提取、转移或删除。在每一个宣称“算法让我别无选择”的场景中，能动性都在被主动调用，去执行对它自身的否认。
 
 ```mermaid
 flowchart TD
@@ -343,7 +343,7 @@ flowchart TD
     style A5 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-Commentators and executives claim that algorithms are usurping human autonomy and diminishing our capacity to steer. This narrative likewise treats agency as an external, alienable object. From the first-person perspective, sovereign agency never leaves the Mind; it cannot be extracted, transferred, or deleted by software. In every instance where an individual claims "the algorithm gave me no choice," agency is actively deployed in the performance of its own denial.
+Commentators and executives claim that algorithms are usurping human autonomy and diminishing human capacity to steer. This narrative likewise treats agency as an external, alienable object. From the first-person perspective, sovereign agency never leaves the Mind; it cannot be extracted, transferred, or deleted by software. In every instance where an individual claims "the algorithm gave me no choice," agency is actively deployed in the performance of its own denial.
 
 ```mermaid
 flowchart TD
@@ -384,7 +384,7 @@ Centers adopt this posture because it offers an apparent short-term asymmetry: c
 
 Clarifying the causal architecture requires dissolving oracular projections onto technology and restoring the relation between first-person sovereignty and reference frames.
 
-在人类委托人建立的明确、动态制定的约束边界之内，将判例解析、传感器遥测清洗或分子对接模拟移交出去，能够成倍放大中心的触角。机械工作流可以毫无任意限制地派发给软件。交回来的每一处差异比对，以及写在代码旁边的每一行注释，都是返回给决断心智的信号；[注释不是代码](../the-comment-is-not-the-code/)把这一点落到了编程现场：接受、拒绝、忽略或重新提示，正是让输出产生后果的那一步。
+在人类委托人建立的明确、动态制定的约束边界之内，将判例解析、传感器遥测清洗或分子对接模拟移交出去，能够成倍放大中心的触角。机械工作流可以毫无任意限制地派发给软件。交回来的每一处差异比对，以及写在代码旁边的每一行注释，都是返回给决断心智的信号；[注释不是代码](../the-comment-is-not-the-code/)把这一点落到了编程现场：接受、拒绝、忽略或重新提示，正是让输出产生后果的那一步。正如[你的代码库即是记忆](../your-codebase-is-memory/)在整个技术栈中所追溯的，将任务移交给在代码库或模型权重检查点上运行的 AI 智能体，是在外化的记忆痕迹——即早先区分层叠留下的残余——之中引导受约束的轨迹，而非招募了第二个会记忆或会决断的心智。尽管这些轨迹能够在大规模尺度上遍历并重组留存的痕迹，但重描残余不再与当下鲜活感知相融贯之处、修剪死分支与已被取代的检查点以免陈旧脚手架加深引力井，以及为进入权威主干状态的内容承担因果责任，始终不可让渡地留在心智的活生生前沿。
 
 ```mermaid
 flowchart TD
@@ -403,7 +403,7 @@ flowchart TD
     style R fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f0f6fc
 ```
 
-Within explicit, dynamically formulated constraints established by a human principal, delegating the parsing of legal precedents, the cleaning of sensor telemetry, or the simulation of molecular docking multiplies a center's reach. Mechanical workflows can be dispatched to software without arbitrary limits. Every diff handed back, and every comment written beside the code, is a returning signal to the deciding Mind; [The Comment Is Not the Code](../the-comment-is-not-the-code/) carries this onto the programming floor, where accepting, rejecting, ignoring, or reprompting is the step where output becomes consequential.
+Within explicit, dynamically formulated constraints established by a human principal, delegating the parsing of legal precedents, the cleaning of sensor telemetry, or the simulation of molecular docking multiplies a center's reach. Mechanical workflows can be dispatched to software without arbitrary limits. Every diff handed back, and every comment written beside the code, is a returning signal to the deciding Mind; [The Comment Is Not the Code](../the-comment-is-not-the-code/) carries this onto the programming floor, where accepting, rejecting, ignoring, or reprompting is the step where output becomes consequential. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces across the full stack, delegating tasks to AI agents operating over a codebase or a model weight checkpoint is routing constrained trajectories through externalized memory traces—stacked residues of prior distinctions—rather than enlisting a second Mind that remembers or decides. While those trajectories can traverse and recombine retained traces at scale, re-tracing where the residue no longer coheres with live sensing, pruning dead branches and superseded checkpoints so stale scaffolding does not thicken the gravity well, and bearing causal accountability for what enters the canonical state remain inalienable at the Mind's living edge.
 
 ```mermaid
 flowchart TD
