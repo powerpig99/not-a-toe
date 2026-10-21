@@ -30,9 +30,9 @@ This double tempo is the signature general-purpose technologies have shown again
 
 When electric dynamos were introduced in the 1880s, factories did not modernize at once. Most manufacturing stayed anchored to steam power for four decades, because using electricity meant re-architecting factory layouts from vertical multi-storey shafts to horizontal single-storey assembly lines. When digital computers emerged in the 1950s, decades passed before aggregate productivity statistics registered their effect, the well-known Solow paradox, because business processes had to be rebuilt around digital databases. Steam power, the internal combustion engine and telecommunications followed the same curve.
 
-在每一个历史实例里，前沿都迅速拉开，而旧底盘需要几十年的互补资本投入来重新配置。人类制度在物质与社会上的摩擦，并不会因为底层的数学或软件加速了就自动消失。[技术是人类复利的残差](../technology-is-residual-of-human-compounding/)追踪的正是这条规律：工具是人类先前迭代外化的沉积，可它们的采用，仍受个人中心重新渲染自身运作模型的能力所限。
+在每一个历史实例里，前沿都迅速拉开，而旧底盘需要几十年的互补资本投入来重新配置。人类制度在物质与社会上的摩擦，并不会因为底层的数学或软件加速了就自动消失。[技术是人类复利的残差](../technology-is-residual-of-human-compounding/)追踪的正是这条规律：工具是人类先前迭代外化的沉积，而正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，组织规程与软件代码库都是过往切分凝结而成的记忆痕迹，而非能够自我更新的行动体，因此将新工具扩散至旧底盘的过程，始终受制于鲜活心智在运作边缘重新渲染那份累积记忆的容量。
 
-In each historical instance the frontier pulled ahead fast, while the legacy base needed decades of complementary capital investment to reconfigure. The physical and social friction of human institutions does not vanish automatically because the underlying mathematics or software has sped up. [Technology Is Residual of Human Compounding](../technology-is-residual-of-human-compounding/) tracks this regularity: tools are the externalized sediment of earlier human iteration, but their adoption stays bounded by the capacity of individual centres to re-render their operating models.
+In each historical instance the frontier pulled ahead fast, while the legacy base needed decades of complementary capital investment to reconfigure. The physical and social friction of human institutions does not vanish automatically because the underlying mathematics or software has sped up. [Technology Is Residual of Human Compounding](../technology-is-residual-of-human-compounding/) tracks this regularity: tools are the externalized sediment of earlier human iteration, and because organizational procedures and software repositories are crystallized memory traces of past cuts rather than self-updating agents, as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, diffusing a new tool across the legacy base stays bounded by the capacity of living minds to re-render that accumulated memory at the operating edge.
 
 ## 三、 局部样本的陷阱，过度乐观与过度悲观 / 3. The Local Sample Trap, Over-Optimism and Over-Pessimism
 
@@ -40,12 +40,7 @@ In each historical instance the frontier pulled ahead fast, while the legacy bas
 
 What obscures this predictable bifurcation is a recurring cognitive slip: the local sample trap.
 
-人类观察者自然地从自己身边的局部环境去概括，于是出现两种相互对照的错觉：
-
-Human observers naturally generalize from their immediate local environment, which produces two contrasting illusions:
-
-- **前沿的错觉**：沉浸在工具快速突破里的技术人员或早期采用者，每天都体验到指数式的速度，并把这份局部的步调投射到整个文明上，预言立刻发生的、全经济范围的剧变与突然的全面替代。
-- **旧底盘的错觉**：在受严格监管或变化缓慢的行业里工作的员工或管理者，看到自己的日常运营没有变化，便断定新技术是被炒作的空头产品，低估了前沿上安静的复利积累。
+人类观察者自然地从自己身边的局部环境去概括，于是出现两种相互对照的错觉。在前沿的错觉中，沉浸在工具快速突破里的技术人员或早期采用者，每天都体验到指数式的速度，并把这份局部的步调投射到整个文明上，预言立刻发生的、全经济范围的剧变与突然的全面替代。在旧底盘的错觉中，在受严格监管或变化缓慢的行业里工作的员工或管理者，看到自己的日常运营没有变化，便断定新技术是被炒作的空头产品，低估了前沿上安静的复利积累。
 
 ```mermaid
 flowchart TD
@@ -79,8 +74,7 @@ flowchart TD
     style T2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-- **The frontier illusion**: the technologist or early adopter immersed in rapid tool breakthroughs experiences exponential speed every day and projects that local pace onto the whole civilization, forecasting immediate, economy-wide upheaval and sudden total replacement.
-- **The legacy illusion**: the worker or manager in a heavily regulated or slow-moving sector sees daily operations unchanged and concludes that the new technology is overhyped vapourware, underestimating the quiet, compounding accumulation at the frontier.
+Human observers naturally generalize from their immediate local environment, which produces two contrasting illusions. In the frontier illusion, the technologist or early adopter immersed in rapid tool breakthroughs experiences exponential speed every day and projects that local pace onto the whole civilization, forecasting immediate, economy-wide upheaval and sudden total replacement. In the legacy illusion, the worker or manager in a heavily regulated or slow-moving sector sees daily operations unchanged and concludes that the new technology is overhyped vapourware, underestimating the quiet, compounding accumulation at the frontier.
 
 ```mermaid
 flowchart TD
@@ -124,17 +118,9 @@ Media coverage deepens this polarization by alternating between breathtaking cap
 
 Seeing this clearly calls for neither panic at total disruption nor reactionary complacency.
 
-技术力量的传播，作为一种持续的结构性分裂运作，可以从三处看清：
+技术力量的传播，作为一种持续的结构性分裂在三个相连的维度上运作。首先，前沿的价值是增量：前沿创造新的领域，扩大社会总容量的速度，远快于它减去现有岗位的速度。其次，扩散受制于互补资本：重新训练人的习惯、重新设计组织、更新法律框架，以生物与社会的速度推进，而不是以算力的速度。最后，减速是诊断性的阻力：快速变化的技术所遇到的制度犹豫与迟缓，不是恶意的破坏，而是高惯性介质自然的流体阻力。[减速是加速时感受到的阻力](../deceleration-is-the-drag-felt-when-accelerating/)描绘了这份物理：阻力随速度的平方增长，它是诊断性的传感数据，指出哪里仍需要互补的脚手架。
 
-The propagation of technological power works as a persistent structural split, visible in three places:
-
-1. **前沿的价值是增量**：前沿创造新的领域，扩大社会总容量的速度，远快于它减去现有岗位的速度。
-2. **扩散受制于互补资本**：重新训练人的习惯、重新设计组织、更新法律框架，以生物与社会的速度推进，而不是以算力的速度。
-3. **减速是诊断性的阻力**：快速变化的技术所遇到的制度犹豫与迟缓，不是恶意的破坏，而是高惯性介质自然的流体阻力。[减速是加速时感受到的阻力](../deceleration-is-the-drag-felt-when-accelerating/)描绘了这份物理：阻力随速度的平方增长，它是诊断性的传感数据，指出哪里仍需要互补的脚手架。
-
-1. **Frontier value is additive**: the frontier creates new domains, expanding total social capacity far faster than it subtracts existing jobs.
-2. **Diffusion is bound to complementary capital**: retraining human habits, redesigning organizations and updating legal frameworks move at biological and social speeds, not at the speed of compute.
-3. **Deceleration is diagnostic drag**: the institutional hesitation and slowness that fast-moving technologies meet are not malicious sabotage but the natural hydrodynamic resistance of a high-inertia medium. [Deceleration Is the Drag Felt When Accelerating](../deceleration-is-the-drag-felt-when-accelerating/) maps this physics: drag grows with the square of speed, serving as diagnostic sensor data for where complementary scaffolding is still needed.
+The propagation of technological power works as a persistent structural split across three linked dimensions. First, frontier value is additive: the frontier creates new domains, expanding total social capacity far faster than it subtracts existing jobs. Second, diffusion is bound to complementary capital: retraining human habits, redesigning organizations and updating legal frameworks move at biological and social speeds, not at the speed of compute. Third, deceleration is diagnostic drag: the institutional hesitation and slowness that fast-moving technologies meet are not malicious sabotage but the natural hydrodynamic resistance of a high-inertia medium. [Deceleration Is the Drag Felt When Accelerating](../deceleration-is-the-drag-felt-when-accelerating/) maps this physics: drag grows with the square of speed, serving as diagnostic sensor data for where complementary scaffolding is still needed.
 
 认出局部的陷阱，视角就恢复了。前沿会继续它陡峭的上升，在边缘生成大量新的财富与能力，而旧底盘通过耐心的、跨越几十年的过渡去适应。[一个可能的全自动交通未来的非定论预测](../non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future/)说明了这种非线性的扩张：用旧汽车的销量单位去量自动驾驶车队，会错过新被激活的出行需求那一个数量级的扩张。避开局部陷阱的心智，既不害怕瞬间的过时，也不否认前沿；它只是把注意力放在复利真正发生的活的边缘上。
 

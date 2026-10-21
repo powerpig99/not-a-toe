@@ -1,67 +1,151 @@
-# The Compassion Is the Mechanism of Obscuration
+# 慈悲即遮蔽的机制 / The Compassion Is the Mechanism of Obscuration
 
-Mark Cuban observes there are too many charities and not enough charity. Michael Dell replies with Charity 2.0: direct giving to children's investment accounts, zero overhead, measurable societal ROI. The exchange is instructive—not for what it resolves, but for what it renders invisible. Both speakers diagnose inefficiency. Neither questions the structure that produces it. The moral frame—compassion for those in need—is doing exactly the work it appears to be doing: sustaining itself, and the problem it claims to solve.
+*只诊断慈善的低效而不追问其结构，慈悲的道德框架便维持着它声称要解决的依赖。 / Diagnosing charity's inefficiency without questioning its structure sustains the dependency it claims to cure.*
 
-## The Projection
+马克·库班指出，如今慈善机构太多而真正的慈善不够。迈克尔·戴尔则以“慈善 2.0”回应：直接向儿童投资账户注资、零管理成本、可量化的社会投资回报。这场对话的启示不在于它解决了什么，而在于它让什么变得不可见。两位发言者都在诊断运作层面的低效，却都不追问产生这种低效的结构。对困顿者怀抱慈悲的道德框架，正在执行它表面上所做的事：维持它自身，连同它声称要解决的问题一起维持下去。
 
-Charity operates along at least three distinct projections that get collapsed into one:
+Mark Cuban observes that there are too many charities and not enough charity. Michael Dell replies with Charity 2.0: direct giving to children's investment accounts, zero overhead, and measurable societal return on investment. The exchange is instructive not for what it resolves, but for what it renders invisible. Both speakers diagnose operational inefficiency while neither questions the structure that produces it. The moral frame of compassion for those in need is doing the work it appears to be doing: sustaining itself, along with the problem it claims to solve.
 
-**Resource transfer.** Goods, capital, or services move from those who have more to those who have less. This is the projection most easily mistaken for a neutral act—as though resources simply change location without encoding anything about the agencies involved.
+## 一、 投射的坍缩 / 1. The Projection
 
-**Identity construction.** The donor becomes generous. The organization becomes purposeful. The recipient becomes needy. These identities do not precede the charitable act—they are produced by it. The relationship manufactures its own participants.
+慈善沿着至少三个不同的投射维度运作，而这三个维度被坍缩成了同一个东西。第一重是资源转移：物资、资本或服务从拥有较多者流向拥有较少者；这一投射极易被误认为中立之举，仿佛资源只是变换了位置，而没有对所涉主体的能动性编码任何信息。第二重是身份建构：捐赠者变得慷慨，机构变得有使命感，受助者变得困顿；这些身份并非先于慈善行为存在，而是由这一行为本身生产出来的——这段关系制造了它自己的参与者。第三重是道德架构：整套安排被包裹在一种使审视显得残忍的语言之中，于是质疑慈善就成了质疑助人、成了暴露自己冷漠无情，从而将整个框架密封起来，免疫于检视。
 
-**Moral architecture.** The entire arrangement is wrapped in language that makes examination feel like cruelty. To question charity is to question helping. To question helping is to reveal oneself as someone who doesn't care. The frame is self-sealing.
+Charity operates across three distinct axes of projection that collapse into one. First is resource transfer: goods, capital, or services move from those who have more to those who have less, a projection easily mistaken for a neutral act as though resources simply change location without encoding anything about the agencies involved. Second is identity construction: the donor becomes generous, the organization becomes purposeful, and the recipient becomes needy; these identities do not precede the charitable act but are produced by it as the relationship manufactures its own participants. Third is moral architecture: the entire arrangement is wrapped in language that makes examination feel like cruelty, so that to question charity is to question helping and to reveal oneself as someone who does not care, sealing the frame against inspection.
 
-These three projections operate on different axes. Collapsing them—treating them as one thing called "charity"—generates the confusion that Cuban senses but cannot locate.
+这三重投射在各自独立的轴向上运作。将它们坍缩在一起、当作名为“慈善”的单一事物来对待，便产生了库班在管理成本激增中所感知到、却无法从结构上定位的困惑。
 
-## The Structural Dependency
+These three projections operate on distinct axes. Collapsing them and treating them as one single thing called "charity" generates the confusion that Cuban senses in the proliferation of overhead but cannot locate structurally.
 
-The charitable relationship requires an asymmetry: one party possesses what the other lacks. This is not a condition the relationship aims to eliminate. It is the condition the relationship needs in order to exist.
+## 二、 结构性依赖 / 2. The Structural Dependency
 
-This is not conspiracy. It is geometry. A structure that depends on a gap does not close the gap. It maintains sufficient gap to sustain itself while producing enough visible activity to appear as though gap-closing is underway. The overhead Cuban complains about—the competing organizations, the duplicated effort, the administrative bloat—is not a bug in the system. It is the system operating exactly as its structure demands. Each organization needs the problem. Each needs its version of the problem to be the one that justifies its particular existence.
+慈善关系要求一种不对称性：一方拥有另一方所匮乏之物。这种不对称并非该关系旨在消除的状况，而是该关系赖以存在的条件。
 
-Dell's optimization—zero overhead, direct transfer—does not escape this. It refines the delivery mechanism while deepening the dependency. Now the child's financial trajectory is seeded by an external agent's decision. The donor selects a zip code, a school district, a child. The child receives resources they did not generate through any feedback loop of their own. The "societal ROI" Dell celebrates is measured by whether the child produces outcomes legible to the donor's framework: graduation, homeownership, business formation. The child's life becomes a return on someone else's investment.
+The charitable relationship requires an asymmetry in which one party possesses what the other lacks. This asymmetry is not a condition the relationship aims to eliminate; it is the condition the relationship needs in order to exist.
 
-## The Agency Problem
+这是几何结构使然，而非阴谋。一个仰赖落差而存续的结构不会去弥合落差；它会维持足以自我延续的落差，同时制造足够多的可见活动，使其看起来似乎正在弥合落差。库班所抱怨的管理成本——相互竞争的机构、重复的投入、行政的膨胀——并不是系统的故障，而是系统正按其结构的要求在运转。每个机构都需要这个问题，且各自都需要一套属于自己版本的问题，用来证明自身特定存在的合理性。
 
-Here is what the moral frame sustains by sustaining itself:
+This is geometry rather than conspiracy. A structure that depends on a gap does not close the gap; it maintains sufficient gap to sustain itself while producing enough visible activity to appear as though gap-closing is underway. The overhead Cuban complains about—the competing organizations, the duplicated effort, the administrative bloat—is not a bug in the system, but the system operating as its structure demands. Each organization needs the problem, and each needs its version of the problem to justify its particular existence.
 
-Self-correction requires a closed loop. An agent acts, encounters consequences, reads the signal, adjusts. The signal must be generated by the agent's own action and received by the same agent. This is how systems learn. This is how organisms develop. This is how agency operates.
+戴尔提出的零管理成本与直接转账优化并未逃出这一几何结构；它精简了输送机制，却加深了依赖。如今，孩子的财务轨迹由外部主体的决策播下种子：捐赠者选定邮政编码、选定学区、选定孩子，而孩子接收到的资源并非通过自身任何反馈回路生成。戴尔所称颂的社会回报，是以孩子是否产出了捐赠者框架所能读取的结果——毕业、置业、创业——来衡量的，从而将孩子的人生变成了他人投资的回报。
 
-Charity intervenes at the consequence stage. It alleviates the signal before it can be read. The agent's action no longer produces its natural feedback. In its place is a different signal entirely: *someone helped you*. This signal carries information—but not about the agent's own action-consequence relationship. It carries information about dependency. It says: the locus of correction is elsewhere.
+Dell's optimization of zero overhead and direct transfer does not escape this geometry; it refines the delivery mechanism while deepening the dependency. Now the child's financial trajectory is seeded by an external agent's decision: the donor selects a zip code, a school district, and a child, and the child receives resources they did not generate through any feedback loop of their own. The societal return Dell celebrates is measured by whether the child produces outcomes legible to the donor's framework—graduation, homeownership, business formation—turning the child's life into a return on someone else's investment.
 
-This is not neutral. It is anti-informational with respect to agency. The recipient loses access to the very feedback that would enable the self-correction charity claims to support. The more effectively charity alleviates symptoms, the more thoroughly it disrupts the corrective loop. [Liberation rhetoric begins by defining captivity](../liberation-rhetoric-begins-by-defining-captivity/) is the same displacement under freedom costume: continuation allocated to the speaker’s verdict while the lever of self-definition stays only at the edge that continues.
+## 三、 主体性问题 / 3. The Agency Problem
 
-## Why Upgrades Exacerbate
+道德框架通过自我维持所延续的，是对自我纠偏的打断。自我纠偏需要一个闭合回路：主体行动、遭遇后果、读取信号并作出调整。这一信号必须由主体自身的行动产生，并由同一主体接收；系统由此学习，有机体由此发育，主体性也由此运作。
 
-Cuban wants fewer, better charities. Dell wants no-overhead direct giving. Both are upgrades within the same architecture. But the upgrades are not aimed at solving the problem better. They are aimed at replacing the previous solution—and to replace it, the new version must do better at the structure's core function: sustaining itself.
+```mermaid
+flowchart TD
+    subgraph S_Loop["无缓冲的第一人称反馈回路"]
+        direction TB
+        Act["主体在鲜活边缘行动（+1）"]
+        Signal["直接后果作为误差信号返回"]
+        Update["内部校准与能力生长"]
+        Act --> Signal --> Update
+    end
 
-A charity that sustains itself more effectively necessarily sustains the problem more effectively. These are not separate outcomes. They are the same operation. The selection pressure on charitable structures is not toward better outcomes for recipients. It is toward durability of the structure itself. What survives is what perpetuates. What perpetuates is what maintains the conditions of its own necessity.
+    subgraph S_Charity["坍缩的慈善干预"]
+        direction TB
+        Intercept["外部转移截获后果信号"]
+        Msg["替代信号：纠偏的位点在别处"]
+        Moral["自我封闭的道德框架：慈悲遮蔽依赖"]
+        Persist["持续的失能为进一步干预提供正当性"]
+        Intercept --> Msg --> Moral --> Persist
+    end
 
-Dell's version outcompetes Cuban's not because kids do better but because it is harder to argue against, harder to see through, harder to dismantle. Zero overhead. Direct transfer. Measurable ROI. Every feature that makes it look more efficient is a feature that makes it more durable—more self-sustaining. The efficiency *is* the improved self-perpetuation. The apparent progress toward solving the problem is actually progress toward making the problem-sustaining structure more resilient.
+    Act -.->|"信号尚未被读取，症状已被缓解"| Intercept
 
-Each version of charity that "works better" produces stronger evidence that external intervention generates better outcomes than the recipient's own agency would have. Each success story simultaneously proves that *they needed you*. This proof is the one thing the structure cannot allow to expire, because it is the structure's justification for existing. And with each upgrade, the proof becomes more convincing—not because the help is more effective, but because the structure's capacity to frame its own persistence as success has improved.
+    style S_Loop fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Charity fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Signal fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Update fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Intercept fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Msg fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Moral fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style Persist fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
 
-## The Moral Frame as Load-Bearing Structure
+What the moral frame sustains by sustaining itself is the interruption of self-correction. Self-correction requires a closed loop in which an agent acts, encounters consequences, reads the signal, and adjusts. That signal must be generated by the agent's own action and received by the same agent; this is how systems learn, how organisms develop, and how agency operates.
 
-Compassion is not incidental to this arrangement. It is the mechanism by which the arrangement sustains itself.
+```mermaid
+flowchart TD
+    subgraph S_Loop["Unbuffered First-Person Feedback Loop"]
+        direction TB
+        Act["Agent Acts at the Living Edge (+1)"]
+        Signal["Direct Consequence Returns as Error Signal"]
+        Update["Internal Calibration & Growing Capability"]
+        Act --> Signal --> Update
+    end
 
-To trace the agency-disrupting mechanism of charity is to encounter immediate resistance: *But people are suffering. Children need help. You would let them go without?* This response is not an argument. It is the moral frame doing its structural work—converting mechanistic analysis into apparent cruelty, making the questioner the problem rather than the structure being questioned.
+    subgraph S_Charity["Collapsed Charitable Intervention"]
+        direction TB
+        Intercept["External Transfer Intercepts Consequence Signal"]
+        Msg["Replacement Signal: Locus of Correction Is Elsewhere"]
+        Moral["Self-Sealing Moral Frame: Compassion Obscures Dependency"]
+        Persist["Perpetuated Incapacity Justifies Further Intervention"]
+        Intercept --> Msg --> Moral --> Persist
+    end
 
-This is why the structure depends on compassion. Remove it—describe charity as resource transfer with its actual feedback consequences—and the structure becomes visible as what it is: a power arrangement that sustains itself through the incapacity of its recipients. No one would fund that. So it is never described that way. Compassion is the narrative layer that makes the mechanism tolerable, even admirable, even mandatory.
+    Act -.->|"Symptom alleviated before signal is read"| Intercept
 
-The word "charity" itself performs the collapse. It fuses the mechanical act (resource transfer) with the moral frame (compassion) so thoroughly that separating them feels like an act of violence. But the separation is not violence. It is clarity. The projections can be distinguished—but not made independent. Each carries traces of the others, because all three emerge from the same self-referential act between agencies. What changes with distinction is not independence but visibility: the interference pattern becomes legible. Compassion that reverses cause and effect breaks the dual [Not a Theory of Everything](../not-a-theory-of-everything/) sets out.
+    style S_Loop fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Charity fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Signal fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Update fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Intercept fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Msg fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Moral fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style Persist fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+```
 
-## What Dissolves
+慈善在后果阶段介入，在信号被读取之前就将其缓解。主体的行动不再产生其原本的反馈；取而代之抵达的是另一个截然不同的信号——别人帮了你。这一替代信号所携带的信息无关主体自身的“行动—后果”关联，而是关乎依赖：它宣告纠偏的位点在别处。
 
-Every transfer is an act between agencies, and the act itself encodes a model of the other—positions them, reconfigures the relationship, carries information about who has and who lacks. The surplus that enables the transfer is itself a product of one agency's self-referential operation: feedback loops that generated asymmetric outcomes. When that surplus enters another agency's loop, it is not "resources moving." It is one agency's pattern inserting itself into another's. The structure does not begin at the organizational layer. It begins at the first unit of transfer.
+Charity intervenes at the consequence stage, alleviating the signal before it can be read. The agent's action no longer produces its natural feedback; in its place arrives a different signal altogether—that someone else helped you. This replacement signal carries information not about the agent's own action-consequence relationship, but about dependency, announcing that the locus of correction lies elsewhere.
 
-Charity is not a transaction that completes. It is a relationship that reproduces itself. The completion would be the recipient's full agency—at which point the charitable relationship has no function, the donor has no identity, the organization has no purpose. The structure's own logic prevents the outcome it advertises.
+对于主体性而言，这种干预是反信息的。受助者失去了通往反馈的入口，而唯有那种反馈才能促成慈善声称要支持的自我纠偏；慈善缓解症状越有效，它对纠偏回路的阻断就越深入。[解放修辞始于定义囚禁](../liberation-rhetoric-begins-by-defining-captivity/)追踪了披着解放外衣的同一种错位：延续被分配给了发言者的裁决，而自我定义的支点却只留在那个不断延续的边缘上。
 
-The dissolution is not "charity is bad." That is negation, which preserves the frame. The dissolution is: *the concept of charity collapses three distinct projections into one, and the collapse itself generates the problem that charity then claims to address.* Separate the projections, and each can operate on its own terms—but without the illusion that any of them is neutral. The agency problem is not a feature of the structure built on top of transfer. It is present in the transfer itself, because transfer between agents is always self-referential: an act that simultaneously expresses one agency and inscribes a reading of another. The coordinator's urge to install agency in others is compassion working as obscuration, as [The Coordinator’s Category Error](../the-coordinators-category-error/) shows.
+This intervention is anti-informational with respect to agency. The recipient loses access to the feedback that would enable the self-correction charity claims to support, and the more effectively charity alleviates symptoms, the more thoroughly it disrupts the corrective loop. [Liberation Rhetoric Begins by Defining Captivity](../liberation-rhetoric-begins-by-defining-captivity/) traces the same displacement in emancipatory dress: continuation is allocated to the speaker's verdict while the lever of self-definition stays only at the edge that continues.
 
-Whether that reading can ever avoid constructing the helplessness it perceives is the question the moral frame exists to prevent. Once the felt register is primary, every response manages it, as [When the Effect Authors the Frame](../when-the-effect-authors-the-frame/) describes.
+## 四、 为何升级反而加剧问题 / 4. Why Upgrades Exacerbate
 
----
+库班想要更少、更好的慈善机构，戴尔想要零管理成本的直接捐赠。两者都是同一架构内部的升级，其指向并非更好地解决问题，而是替换上一代解决方案——而要完成替换，新版本就必须更持久地履行该结构自我维持的核心功能。
 
-*The problem solves itself when there is no need to solve it from outside.*
+Cuban wants fewer, better charities, and Dell wants no-overhead direct giving. Both are upgrades within the same architecture, aimed not at solving the problem better but at replacing the previous solution—and to replace it, the new version must perform the structure's core function of sustaining itself even more durably.
+
+一个能更有效地自我维持的慈善机制，也能更有效地维持问题本身；这两者不是彼此独立的结果，而是同一个运作。慈善结构所承受的选择压力指向结构自身的耐久度，而非受助者的自主性：留存下来的是那些自我延续的机制，而自我延续的机制正是那些维持自身存在之必要条件的机制。
+
+A charity that sustains itself more effectively sustains the problem more effectively; these are not separate outcomes, but the same operation. The selection pressure on charitable structures is toward the durability of the structure itself rather than the autonomy of recipients: what survives is what perpetuates, and what perpetuates is what maintains the conditions of its own necessity.
+
+戴尔的版本之所以比库班的版本更具竞争力，不是因为孩子们变得更具主权，而是因为它更难被反驳、更难被看穿、也更难被拆解。零管理成本、直接转账与可量化的投资回报，使这套安排更加稳固且更能自我维持。每一个成功案例都在同时证明受助者需要捐赠者；随着每一次升级，这一证明都变得更有说服力，因为该结构将自身的持续存在包装为成功的能力提升了。
+
+Dell's version outcompetes Cuban's not because children become more sovereign, but because it is harder to argue against, harder to see through, and harder to dismantle. Zero overhead, direct transfer, and measurable return on investment make the arrangement more durable and self-sustaining. Each success story simultaneously proves that the recipients needed the donor, and with each upgrade that proof grows more convincing because the structure's capacity to frame its own persistence as success has improved.
+
+## 五、 作为承重结构的道德框架 / 5. The Moral Frame as Load-Bearing Structure
+
+慈悲在这一安排中并非附带之物，而是整套安排借以自我维持的承重机制。一旦追踪慈善阻断主体性的机制，立刻就会触发“人们正在受苦、孩子们需要帮助”的反驳。这种反应并非论证，而是道德框架正在履行其结构性职能——将机制分析转化为表面上的残忍，使提问者变成问题所在，从而掩护被追问的结构本身。
+
+Compassion is not incidental to this arrangement; it is the load-bearing mechanism by which the arrangement sustains itself. Tracing the agency-disrupting mechanism of charity immediately triggers the objection that people are suffering and children need help. That response is not an argument; it is the moral frame doing its structural work, converting mechanistic analysis into apparent cruelty and making the questioner the problem rather than the structure being questioned.
+
+倘若剥离慈悲的叙事——仅按其实际的反馈后果，将慈善描述为资源转移——这套安排就会显露出真面目：一种依靠受助者的失能来维持自身的权力关系。由于没有人会心甘情愿地为这样一种描述出资，慈悲便充当了使这一机制显得崇高且不可推卸的叙事层。
+
+Remove the narrative of compassion—describe charity simply as resource transfer with its actual feedback consequences—and the arrangement becomes visible as a power relation that sustains itself through the incapacity of its recipients. Because no one would willingly fund that description, compassion serves as the narrative layer that makes the mechanism admirable and mandatory.
+
+“慈善”一词完成了这种坍缩：它将资源转移的机械行为与慈悲的道德框架熔铸得如此紧密，以至于将二者剥离开来听上去像是一场暴力。然而将二者剥离并非暴力，而是澄明。这三重投射皆涌现自不同主体之间同一个自指行动，对它们加以区分，才能让其干涉图样变得清晰可读。倒果为因的慈悲，打断了[非万物之理](../not-a-theory-of-everything/)所阐明的因果序列。
+
+The word "charity" performs the collapse by fusing the mechanical act of resource transfer with the moral frame of compassion so tightly that separating them feels like an act of violence. Yet separating them is clarity rather than violence. All three projections emerge from the same self-referential act between agencies, and distinguishing them makes their interference pattern legible. Compassion that reverses cause and effect breaks the causal sequence that [Not a Theory of Everything](../not-a-theory-of-everything/) sets out.
+
+## 六、 什么随之消解 / 6. What Dissolves
+
+每一次转移都是主体之间的行动，都会在其中编码对另一方的模型、为其定位，并刻录下谁拥有、谁匮乏的记录。正如[你的代码库即是记忆](../your-codebase-is-memory/)所确立的，任何外化器物或累积盈余，都是生成它的既有反馈回路所留下的结晶痕迹，而非自我纠偏的鲜活边缘本身；当这一盈余取代受助者自身的后果信号而进入其回路时，从转移的第一个单位起，它就把捐赠者过往的模式导入了受助者的轨迹之中。
+
+Every transfer is an act between agencies that encodes a model of the other, positioning them and inscribing a record of who has and who lacks. As [Your Codebase Is Memory](../your-codebase-is-memory/) establishes, any externalized artifact or accumulated surplus is the crystallized trace of the prior feedback loops that generated it, never the living edge of self-correction itself; when that surplus enters another agency's loop in place of its own consequence signal, it imports the donor's past pattern into the recipient's trajectory from the very first unit of transfer.
+
+慈善不是一笔会走向完结的交易，而是一段不断自我再生产的关系。完结意味着受助者获得完整的主体性，而一旦到达那一点，慈善关系便失去功能，捐赠者失去身份，机构也失去使命。这一结构自身的逻辑，阻止了它所宣扬的结果。
+
+Charity is not a transaction that completes; it is a relationship that reproduces itself. Completion would mean the recipient's full agency, at which point the charitable relationship has no function, the donor has no identity, and the organization has no purpose. The structure's own logic prevents the outcome it advertises.
+
+消解并非作出“慈善是坏事”的否定——那仍会保留原有的道德框架。消解在于看清：“慈善”这一概念将三重不同的投射坍缩为一，而这一坍缩本身制造了慈善声称要解决的依赖。将这三重投射分离开来，便剥去了“转移可以中立”的幻象，并如[协调者的范畴谬误](../the-coordinators-category-error/)所示，暴露出协调者企图在他人身上安装主体性的冲动，正是作为遮蔽机制在运作的慈悲。一旦把感受层面的体验置于首位，每一次回应就都在管理感受而非因果回路，正如[当结果成为框架的作者](../when-the-effect-authors-the-frame/)所揭示的那样；当不再需要从外部去替另一个中心解决其回路时，这一问题便随之消解。
+
+The dissolution is not the negation that charity is bad, which would preserve the moral frame. The dissolution is recognizing that the concept of charity collapses three distinct projections into one, and that the collapse itself generates the dependency charity claims to address. Separating the projections strips away the illusion that any transfer is neutral, exposing the coordinator's urge to install agency in others as compassion working as obscuration, as [The Coordinator's Category Error](../the-coordinators-category-error/) shows. Once the felt register is made primary, every response manages the feeling rather than the causal loop, as [When the Effect Authors the Frame](../when-the-effect-authors-the-frame/) describes; the problem dissolves when there is no longer a need to solve another center's loop from outside.

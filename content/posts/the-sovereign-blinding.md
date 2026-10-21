@@ -186,9 +186,9 @@ flowchart TD
     style Covered fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-一张粗糙、模糊而多留白的地图，没有人把它当成大地。拿着一张手绘的草图在荒野里走，须不时抬头，用自己的眼睛辨山川的走势，用自己的脚试泥泞的深浅。一台超高分辨率的投影仪把地图上的每一座山渲染得纤毫毕现时，眼睛便停在屏幕上，不再抬头看天，不再低头踩土。模型复刻的是纸面上留下的划痕。一座图书馆的检索目录索引了全部的书，目录仍是目录。
+一张粗糙、模糊而多留白的地图，没有人把它当成大地。拿着一张手绘的草图在荒野里走，须不时抬头，用自己的眼睛辨山川的走势，用自己的脚试泥泞的深浅。一台超高分辨率的投影仪把地图上的每一座山渲染得纤毫毕现时，眼睛便停在屏幕上，不再抬头看天，不再低头踩土。模型复刻的是纸面上留下的划痕；正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，外化的语料库或代码库只是保存过往符号切分的记忆库，并非活着的观察者。一座图书馆的检索目录索引了全部的书，目录仍是目录。
 
-A map that is rough, blurred and full of blanks is taken by no one for the land. Walking through wilderness with a hand-drawn sketch, one has to look up now and then, reading the lie of the mountains with one's own eyes and testing the depth of the mud with one's own feet. When a projector of very high resolution renders every mountain on the map in the finest detail, the eyes stay on the screen and no longer look up at the sky or down at the ground. What a model reproduces is the marks left on paper. A library's catalog may index every book, and the catalog is still a catalog.
+A map that is rough, blurred and full of blanks is taken by no one for the land. Walking through wilderness with a hand-drawn sketch, one has to look up now and then, reading the lie of the mountains with one's own eyes and testing the depth of the mud with one's own feet. When a projector of very high resolution renders every mountain on the map in the finest detail, the eyes stay on the screen and no longer look up at the sky or down at the ground. What a model reproduces is the residue of prior distinctions left on paper: as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, an externalized corpus or codebase is a structured archive of past cuts that extends reach only while a living mind at the steering edge reads and judges it, never a second observer looking back at the land. A library's catalog may index every book, and the catalog is still a catalog.
 
 ## 四、 更高效的博弈与对探索的误认 / 4. A More Efficient Game Taken for Exploration
 

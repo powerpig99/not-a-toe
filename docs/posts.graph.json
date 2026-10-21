@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T08:24:10.841Z",
+    "generated_at": "2026-10-21T08:37:29.938Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -52,7 +52,7 @@
       "content/posts/consciousness-never-appears-as-data-among-data.md": "35adbc5ab9f0",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
       "content/posts/context-engineering-essay.md": "55bc0307c3d5",
-      "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "0ca36bdab435",
+      "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "a358b53b91b0",
       "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "b3e99a733b19",
       "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "1629917a17b9",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "de3299fb5449",
@@ -177,7 +177,7 @@
       "content/posts/selection-contradiction-and-open-reality.md": "74fbecb78715",
       "content/posts/self-image-speaks-as-if-from-nowhere.md": "4222603f103d",
       "content/posts/self-rl-for-humans.md": "da8444ae39c6",
-      "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "4f201d2f0e99",
+      "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "703f7c53b9da",
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "effb27d0037a",
       "content/posts/shared-humanity-is-never-shared.md": "667dd03af694",
@@ -206,7 +206,7 @@
       "content/posts/the-boundary-crossing-of-choice.md": "5725ac2013bd",
       "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "2f3a0106f008",
       "content/posts/the-boundary-of-the-frame.md": "6e148e2a6922",
-      "content/posts/the-brain-does-not-backprop.md": "4f5c7d0c354c",
+      "content/posts/the-brain-does-not-backprop.md": "31ffd822909f",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "faeb12423e13",
       "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "85a75f91e6a5",
       "content/posts/the-category-error-of-better.md": "e75bf338d63e",
@@ -220,11 +220,11 @@
       "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "fd790ca70240",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
       "content/posts/the-comment-is-not-the-code.md": "b81fc5a01b5a",
-      "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "3aed5a91fa9f",
+      "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "9e53487d8960",
       "content/posts/the-continuum-is-a-modeling-convenience.md": "3c2e3fff1d21",
       "content/posts/the-continuum-of-the-fold.md": "bc2ed3454dd0",
       "content/posts/the-coordinators-category-error.md": "849cdeef9512",
-      "content/posts/the-cut-moves-but-never-vanishes.md": "393f0fffe02c",
+      "content/posts/the-cut-moves-but-never-vanishes.md": "e61a8aa0715d",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "611d8684bdd6",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
@@ -244,7 +244,7 @@
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "5b211b913d03",
       "content/posts/the-flywheel-of-the-mind.md": "6404a8949c52",
       "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "539507f9e7ff",
-      "content/posts/the-frame-that-conceals-improvement.md": "13c8f7c008fa",
+      "content/posts/the-frame-that-conceals-improvement.md": "6fbcef6b9c4c",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "dde3f74f7d30",
       "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "bda6d94ef25c",
       "content/posts/the-freedom-of-will-to-deny-itself.md": "a083f19c6708",
@@ -267,7 +267,7 @@
       "content/posts/the-illusion-of-free-intelligence.md": "0b76898e8f30",
       "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "0200bfbf3fa5",
       "content/posts/the-illusion-of-the-shared-sandbox.md": "f20e733d6ceb",
-      "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "b7b2393f3606",
+      "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "c5acd4b281e2",
       "content/posts/the-illusion-of-the-unmediated.md": "a5c1d555a98a",
       "content/posts/the-imagining-of-ai-risk.md": "06a93ab32a22",
       "content/posts/the-initial-distinction.md": "597771bb1303",
@@ -286,7 +286,7 @@
       "content/posts/the-ledger-of-the-unencountered.md": "7cc479153e27",
       "content/posts/the-limitation-is-doing-work.md": "d9e53e47a265",
       "content/posts/the-living-context.md": "0603cd0d3ea2",
-      "content/posts/the-local-trap-of-technological-change.md": "64ebb0eae126",
+      "content/posts/the-local-trap-of-technological-change.md": "90573245bd77",
       "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "9c43b9beb0a3",
       "content/posts/the-loop-accelerates.md": "774efc991390",
       "content/posts/the-loop-that-cant-see-itself.md": "9b03258725d1",
@@ -303,7 +303,7 @@
       "content/posts/the-model-never-becomes-a-second-edge.md": "e05347b86c6c",
       "content/posts/the-moral-reversal-and-the-scripted-subject.md": "a614ebfdfda8",
       "content/posts/the-myth-of-population-collapse-explained.md": "9be9bfe9c763",
-      "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "971cce019879",
+      "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "db6546734668",
       "content/posts/the-name-revolution-files-a-life-as-evidence.md": "0005b5557300",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "d580075b6d35",
       "content/posts/the-npc-impression-is-structural.md": "42db1320fcc9",
@@ -347,7 +347,7 @@
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "c2d1d681f444",
       "content/posts/the-source-of-all-harm.md": "20891d9d52cf",
       "content/posts/the-source-of-shared-change.md": "6b3787d81f18",
-      "content/posts/the-sovereign-blinding.md": "118b031bf858",
+      "content/posts/the-sovereign-blinding.md": "910f8642f278",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
       "content/posts/the-strongest-belief-of-the-mind.md": "ee7cbb6eb4a6",
       "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "aafc55f7b4d1",
@@ -377,10 +377,10 @@
       "content/posts/trusting-the-reader-is-the-last-overstep.md": "1c8ded446ee2",
       "content/posts/two-failures-of-trace.md": "df2bfb498afc",
       "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "1a6b64a4d111",
-      "content/posts/war-revolution-and-the-fall-of-empires.md": "1dc92e6428fc",
+      "content/posts/war-revolution-and-the-fall-of-empires.md": "e34d11fdc25d",
       "content/posts/what-always-listens-cannot-originate.md": "74d4cf0a4058",
       "content/posts/what-cannot-be-kept.md": "230c81faa1f9",
-      "content/posts/what-hinton-failed-to-understand.md": "7f93097607b5",
+      "content/posts/what-hinton-failed-to-understand.md": "bf5b94815318",
       "content/posts/what-information-is.md": "db25cf6703e1",
       "content/posts/what-works-is-the-belief.md": "38b7c3f217e1",
       "content/posts/whatever-is-one-prompt-away.md": "2a70052b8308",
@@ -408,14 +408,14 @@
       "content/book/causality.md": "cedfa893014c",
       "content/book/consciousness.md": "d8595aa6097d",
       "content/book/economics.md": "c254ddfa5803",
-      "content/book/index-of-premises.md": "7c664904fd5e",
+      "content/book/index-of-premises.md": "bf6c338c5d91",
       "content/book/intelligence.md": "f896d0850c32",
       "content/book/knowledge-and-learning.md": "51d92651b2ed",
       "content/book/life-and-statistics.md": "903bd0f56d99",
       "content/book/mathematics.md": "511585102871",
       "content/book/meaning-and-transcendence.md": "ce5168a72c34",
       "content/book/method.md": "6246e4ef1096",
-      "content/book/morality.md": "b3a00cdd3e35",
+      "content/book/morality.md": "54c8e4f605b9",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "d0065384016a",
       "content/book/state-and-collective.md": "7d0cb00e0e55",
@@ -424,10 +424,10 @@
     },
     "stats": {
       "posts": 397,
-      "edges": 10379,
-      "unique_directed": 5116,
+      "edges": 10412,
+      "unique_directed": 5128,
       "missing_targets": 0,
-      "one_way": 634,
+      "one_way": 646,
       "isolated": 35,
       "posts_with_outbound": 361,
       "book_pages": 16,
@@ -438,7 +438,7 @@
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 284
+      "in_degree": 296
     },
     {
       "slug": "beyond-the-projection",
@@ -1809,13 +1809,14 @@
       "slug": "coordinate-systems-mind-and-degrees-of-freedom",
       "path": "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md",
       "title": "坐标系、心智与自由度 / Coordinate Systems, the Mind, and Degrees of Freedom",
-      "hash": "0ca36bdab435",
+      "hash": "a358b53b91b0",
       "in_degree": 3,
-      "out_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "the-mind-as-vector-and-coordinate-system",
         "the-explanatory-trap-of-the-ordinary-perspective",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "coordinates-in-flux-negation-and-self-anchoring"
       ]
     },
@@ -5038,14 +5039,15 @@
       "slug": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
       "path": "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md",
       "title": "自我价值、反向财富转移与过去成功的陷阱 / Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success",
-      "hash": "4f201d2f0e99",
+      "hash": "703f7c53b9da",
       "in_degree": 5,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "the-generative-mechanics-of-value-money-and-wealth",
         "ownership-and-self-worthiness",
         "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
         "empowerment-establishes-the-centralization-of-power",
+        "your-codebase-is-memory",
         "war-revolution-and-the-fall-of-empires"
       ]
     },
@@ -5823,14 +5825,15 @@
       "slug": "the-brain-does-not-backprop",
       "path": "content/posts/the-brain-does-not-backprop.md",
       "title": "大脑不进行反向传播，而是正向传导 / The Brain Does Not Backprop, but Propagates",
-      "hash": "4f5c7d0c354c",
+      "hash": "31ffd822909f",
       "in_degree": 4,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
         "openness-is-consistency",
         "beyond-the-projection",
         "not-a-theory-of-everything",
+        "your-codebase-is-memory",
         "the-flight-analogy-leaves-the-mind-untouched"
       ]
     },
@@ -6114,13 +6117,14 @@
       "kind": "post",
       "slug": "the-compassion-is-the-mechanism-of-obscuration",
       "path": "content/posts/the-compassion-is-the-mechanism-of-obscuration.md",
-      "title": "The Compassion Is the Mechanism of Obscuration",
-      "hash": "3aed5a91fa9f",
+      "title": "慈悲即遮蔽的机制 / The Compassion Is the Mechanism of Obscuration",
+      "hash": "9e53487d8960",
       "in_degree": 4,
-      "out_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "liberation-rhetoric-begins-by-defining-captivity",
         "not-a-theory-of-everything",
+        "your-codebase-is-memory",
         "the-coordinators-category-error",
         "when-the-effect-authors-the-frame"
       ]
@@ -6212,13 +6216,14 @@
       "slug": "the-cut-moves-but-never-vanishes",
       "path": "content/posts/the-cut-moves-but-never-vanishes.md",
       "title": "割点可移不可除 / The Cut Moves but Never Vanishes",
-      "hash": "393f0fffe02c",
+      "hash": "e61a8aa0715d",
       "in_degree": 22,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "demanding-a-toe-freezes-time-into-a-catalog",
         "consciousness-ascription-and-the-quantum-cut",
         "the-invisible-gods-eye",
+        "your-codebase-is-memory",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "the-potential-infinity-of-operators-and-the-finite-horizon-of-records"
       ]
@@ -6694,14 +6699,15 @@
       "kind": "post",
       "slug": "the-frame-that-conceals-improvement",
       "path": "content/posts/the-frame-that-conceals-improvement.md",
-      "title": "The Frame That Conceals Improvement",
-      "hash": "13c8f7c008fa",
+      "title": "遮蔽进步的框架 / The Frame That Conceals Improvement",
+      "hash": "6fbcef6b9c4c",
       "in_degree": 5,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
         "hierarchy-from-individual-difference",
         "performative-hindsight-that-pretends-to-be-foresight",
+        "your-codebase-is-memory",
         "the-paradoxical-nature-of-bystander-insights",
         "closed-reality-in-benchmark-maxing"
       ]
@@ -7216,15 +7222,16 @@
       "slug": "the-illusion-of-the-tool-and-the-inversion-of-time",
       "path": "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md",
       "title": "工具的幻觉与时间的倒置 / The Illusion of the Tool and the Inversion of Time",
-      "hash": "b7b2393f3606",
+      "hash": "c5acd4b281e2",
       "in_degree": 1,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "beyond-the-projection",
         "the-continuum-is-a-modeling-convenience",
         "time-is-causality-not-a-dimension",
-        "the-dissolution-of-the-great-reversal"
+        "the-dissolution-of-the-great-reversal",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -7606,12 +7613,13 @@
       "slug": "the-local-trap-of-technological-change",
       "path": "content/posts/the-local-trap-of-technological-change.md",
       "title": "技术变革的局部陷阱 / The Local Trap of Technological Change",
-      "hash": "64ebb0eae126",
+      "hash": "90573245bd77",
       "in_degree": 5,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "the-average-is-residue-not-the-engine",
         "technology-is-residual-of-human-compounding",
+        "your-codebase-is-memory",
         "the-illusion-of-free-intelligence",
         "deceleration-is-the-drag-felt-when-accelerating",
         "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future"
@@ -7993,14 +8001,15 @@
       "slug": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
       "path": "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md",
       "title": "四维长鹿的幻象与当下的模型 / The Myth of the Four-Dimensional Deer and the Present Model",
-      "hash": "971cce019879",
+      "hash": "db6546734668",
       "in_degree": 6,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
         "the-twin-paradox-and-the-hidden-observer",
         "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
         "the-shadow-and-the-infinite",
+        "your-codebase-is-memory",
         "the-scaffolding-we-forget"
       ]
     },
@@ -9158,13 +9167,14 @@
       "slug": "the-sovereign-blinding",
       "path": "content/posts/the-sovereign-blinding.md",
       "title": "自愿的致盲 / The Sovereign Blinding",
-      "hash": "118b031bf858",
+      "hash": "910f8642f278",
       "in_degree": 2,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "the-cut-moves-but-never-vanishes",
         "the-model-never-becomes-a-second-edge",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+        "your-codebase-is-memory",
         "how-to-fix-your-whole-life-in-one-split-second",
         "silicon-oracles-and-the-asymmetry-of-consequence"
       ]
@@ -9800,12 +9810,13 @@
       "slug": "war-revolution-and-the-fall-of-empires",
       "path": "content/posts/war-revolution-and-the-fall-of-empires.md",
       "title": "战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires",
-      "hash": "1dc92e6428fc",
+      "hash": "e34d11fdc25d",
       "in_degree": 3,
-      "out_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "dimensions-are-projections",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
         "the-scaffolding-we-forget"
       ]
@@ -9878,11 +9889,12 @@
       "slug": "what-hinton-failed-to-understand",
       "path": "content/posts/what-hinton-failed-to-understand.md",
       "title": "辛顿未曾理解的心智 / What Hinton Failed to Understand",
-      "hash": "7f93097607b5",
+      "hash": "bf5b94815318",
       "in_degree": 5,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "a-creation-cannot-replace-its-source",
+        "your-codebase-is-memory",
         "the-self-portrait-in-the-projection",
         "one-cannot-escape-ones-own-mind",
         "the-irreducible-observer",
@@ -10316,7 +10328,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 284,
+      "in_degree": 296,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -18340,9 +18352,21 @@
     },
     {
       "from": "coordinate-systems-mind-and-degrees-of-freedom",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "coordinate-systems-mind-and-degrees-of-freedom",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "coordinate-systems-mind-and-degrees-of-freedom",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "coordinate-systems-mind-and-degrees-of-freedom",
@@ -39448,6 +39472,18 @@
     },
     {
       "from": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
       "to": "war-revolution-and-the-fall-of-empires",
       "rel": "points_to",
       "label": "战争、革命与帝国的衰落"
@@ -44338,6 +44374,18 @@
     },
     {
       "from": "the-brain-does-not-backprop",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-brain-does-not-backprop",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-brain-does-not-backprop",
       "to": "the-flight-analogy-leaves-the-mind-untouched",
       "rel": "points_to",
       "label": "飞行的类比碰不到心智"
@@ -45828,7 +45876,19 @@
       "from": "the-compassion-is-the-mechanism-of-obscuration",
       "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
-      "label": "Liberation rhetoric begins by defining captivity"
+      "label": "解放修辞始于定义囚禁"
+    },
+    {
+      "from": "the-compassion-is-the-mechanism-of-obscuration",
+      "to": "liberation-rhetoric-begins-by-defining-captivity",
+      "rel": "points_to",
+      "label": "Liberation Rhetoric Begins by Defining Captivity"
+    },
+    {
+      "from": "the-compassion-is-the-mechanism-of-obscuration",
+      "to": "not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "非万物之理"
     },
     {
       "from": "the-compassion-is-the-mechanism-of-obscuration",
@@ -45838,9 +45898,33 @@
     },
     {
       "from": "the-compassion-is-the-mechanism-of-obscuration",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-compassion-is-the-mechanism-of-obscuration",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-compassion-is-the-mechanism-of-obscuration",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
-      "label": "The Coordinator’s Category Error"
+      "label": "协调者的范畴谬误"
+    },
+    {
+      "from": "the-compassion-is-the-mechanism-of-obscuration",
+      "to": "when-the-effect-authors-the-frame",
+      "rel": "points_to",
+      "label": "当结果成为框架的作者"
+    },
+    {
+      "from": "the-compassion-is-the-mechanism-of-obscuration",
+      "to": "the-coordinators-category-error",
+      "rel": "points_to",
+      "label": "The Coordinator's Category Error"
     },
     {
       "from": "the-compassion-is-the-mechanism-of-obscuration",
@@ -46438,9 +46522,21 @@
     },
     {
       "from": "the-cut-moves-but-never-vanishes",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-cut-moves-but-never-vanishes",
       "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "rel": "points_to",
       "label": "因果的自反性与物理的无源假定"
+    },
+    {
+      "from": "the-cut-moves-but-never-vanishes",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-cut-moves-but-never-vanishes",
@@ -49428,13 +49524,31 @@
       "from": "the-frame-that-conceals-improvement",
       "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "rel": "points_to",
-      "label": "The distaste for “AI slop” is no different from the recurring historical pattern"
+      "label": "对“AI垃圾”的反感与反复出现的历史模式并无二致"
+    },
+    {
+      "from": "the-frame-that-conceals-improvement",
+      "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "rel": "points_to",
+      "label": "The Distaste for \"AI Slop\" Is No Different from the Recurring Historical Pattern"
     },
     {
       "from": "the-frame-that-conceals-improvement",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
-      "label": "Hierarchy from individual difference"
+      "label": "从个体差异中涌现的层级"
+    },
+    {
+      "from": "the-frame-that-conceals-improvement",
+      "to": "performative-hindsight-that-pretends-to-be-foresight",
+      "rel": "points_to",
+      "label": "假装成远见的表演性事后诸葛亮"
+    },
+    {
+      "from": "the-frame-that-conceals-improvement",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from Individual Difference"
     },
     {
       "from": "the-frame-that-conceals-improvement",
@@ -49444,15 +49558,39 @@
     },
     {
       "from": "the-frame-that-conceals-improvement",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-frame-that-conceals-improvement",
       "to": "the-paradoxical-nature-of-bystander-insights",
       "rel": "points_to",
-      "label": "The paradoxical nature of bystander insights"
+      "label": "旁观者洞见的悖论性"
     },
     {
       "from": "the-frame-that-conceals-improvement",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem"
+      "label": "基准刷榜中的封闭实存"
+    },
+    {
+      "from": "the-frame-that-conceals-improvement",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-frame-that-conceals-improvement",
+      "to": "the-paradoxical-nature-of-bystander-insights",
+      "rel": "points_to",
+      "label": "The Paradoxical Nature of Bystander Insights"
+    },
+    {
+      "from": "the-frame-that-conceals-improvement",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing"
     },
     {
       "from": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
@@ -52456,6 +52594,12 @@
     },
     {
       "from": "the-illusion-of-the-tool-and-the-inversion-of-time",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-illusion-of-the-tool-and-the-inversion-of-time",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
@@ -52465,6 +52609,12 @@
       "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "rel": "points_to",
       "label": "The Inversion of the Harness and the Sovereignty of the Driver's Seat"
+    },
+    {
+      "from": "the-illusion-of-the-tool-and-the-inversion-of-time",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-illusion-of-the-unmediated",
@@ -54508,9 +54658,21 @@
     },
     {
       "from": "the-local-trap-of-technological-change",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-local-trap-of-technological-change",
       "to": "technology-is-residual-of-human-compounding",
       "rel": "points_to",
       "label": "Technology Is Residual of Human Compounding"
+    },
+    {
+      "from": "the-local-trap-of-technological-change",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-local-trap-of-technological-change",
@@ -56758,18 +56920,6 @@
     },
     {
       "from": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
-      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
-      "rel": "points_to",
-      "label": "潜无限与数学思维的暂时闭合"
-    },
-    {
-      "from": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
-      "to": "the-shadow-and-the-infinite",
-      "rel": "points_to",
-      "label": "阴影与无限：低维投影、确定性假象与人类冲突的根源"
-    },
-    {
-      "from": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
       "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "rel": "points_to",
       "label": "The Mirage of Time's Arrow and the Boundaries of Simulation"
@@ -56784,13 +56934,37 @@
       "from": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
       "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "rel": "points_to",
+      "label": "潜无限与数学思维的暂时闭合"
+    },
+    {
+      "from": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
+      "to": "the-shadow-and-the-infinite",
+      "rel": "points_to",
+      "label": "阴影与无限"
+    },
+    {
+      "from": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
       "label": "Potential Infinity and the Temporary Closures of Mathematical Thought"
     },
     {
       "from": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
       "to": "the-shadow-and-the-infinite",
       "rel": "points_to",
-      "label": "The Shadow and the Infinite: Low-Dimensional Projections, the Illusion of Certainty, and the Roots of Human Conflict"
+      "label": "The Shadow and the Infinite"
+    },
+    {
+      "from": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
@@ -64666,6 +64840,18 @@
     },
     {
       "from": "the-sovereign-blinding",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-sovereign-blinding",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-sovereign-blinding",
       "to": "how-to-fix-your-whole-life-in-one-split-second",
       "rel": "points_to",
       "label": "如何在一瞬间修正你的整个人生"
@@ -68590,6 +68776,18 @@
     },
     {
       "from": "war-revolution-and-the-fall-of-empires",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "war-revolution-and-the-fall-of-empires",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "war-revolution-and-the-fall-of-empires",
       "to": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
       "rel": "points_to",
       "label": "自我价值、反向财富转移与过去成功的陷阱"
@@ -69076,9 +69274,21 @@
     },
     {
       "from": "what-hinton-failed-to-understand",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "what-hinton-failed-to-understand",
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
       "label": "A Creation Cannot Replace Its Source"
+    },
+    {
+      "from": "what-hinton-failed-to-understand",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "what-hinton-failed-to-understand",
@@ -72794,7 +73004,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "7c664904fd5e",
+        "hash": "bf6c338c5d91",
         "out_degree": 397
       },
       {
@@ -72857,7 +73067,7 @@
         "slug": "morality",
         "path": "content/book/morality.md",
         "title": "善恶界限与共情陷阱 / Moral Boundaries and the Empathy Trap",
-        "hash": "b3a00cdd3e35",
+        "hash": "54c8e4f605b9",
         "out_degree": 28
       },
       {
@@ -76091,7 +76301,7 @@
         "from": "book:index-of-premises",
         "to": "the-compassion-is-the-mechanism-of-obscuration",
         "rel": "collects",
-        "label": "The Compassion Is the Mechanism of Obscuration"
+        "label": "慈悲即遮蔽的机制 / The Compassion Is the Mechanism of Obscuration"
       },
       {
         "from": "book:index-of-premises",
@@ -76391,7 +76601,7 @@
         "from": "book:index-of-premises",
         "to": "the-frame-that-conceals-improvement",
         "rel": "collects",
-        "label": "The Frame That Conceals Improvement"
+        "label": "遮蔽进步的框架 / The Frame That Conceals Improvement"
       },
       {
         "from": "book:index-of-premises",
@@ -78629,7 +78839,7 @@
         "from": "book:morality",
         "to": "the-compassion-is-the-mechanism-of-obscuration",
         "rel": "collects",
-        "label": "The Compassion Is the Mechanism of Obscuration"
+        "label": "慈悲即遮蔽的机制 / The Compassion Is the Mechanism of Obscuration"
       },
       {
         "from": "book:morality",
@@ -78659,7 +78869,7 @@
         "from": "book:morality",
         "to": "the-frame-that-conceals-improvement",
         "rel": "collects",
-        "label": "The Frame That Conceals Improvement"
+        "label": "遮蔽进步的框架 / The Frame That Conceals Improvement"
       },
       {
         "from": "book:morality",

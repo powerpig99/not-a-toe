@@ -26,7 +26,7 @@ flowchart TD
     end
     subgraph S_Locus["单一治理位点上的容量压缩"]
         direction TB
-        L1["规模扩张：指数级区分被压进单一有限坐标空间"]
+        L1["规模扩张：2ᴺ 重区分被压进单一有限坐标空间"]
         L2["绑定身份的防卫：制度的自我形象被豁免于再校准"]
         L1 --> L2
     end
@@ -138,13 +138,13 @@ This progression exposes the structural convergence of trajectory lock and ident
 
 Historiography works as a system of retrospective benchmarks. Stored lessons, such as avoiding imperial overstretch, preventing war on several fronts, or protecting the reserve currency, become static distributions against which living actions are scored. When present events fail to match the benchmark, they are read either as a failure to heed history or as proof that the present is unprecedented; both readings keep the benchmark as the primary measure. As records, these lessons are of use, setting down past patterns accurately; taken as templates for present action, they reach their boundary.
 
-这种回溯的朝向带出几种反复出现的变形。一种是陈旧的模板：用遥远的类比去读当下，比如“这是 1914 年”“这是 1938 年”或“这是罗马帝国晚期”，把活的复杂硬塞进历史的重播。第二种是聚合体的实体化：民族、国家与经济体被当作会做选择、会衰落、会吸取教训的自主行动者，遮住了那些以行动生成这些模式的具体的人。第三种是道德的外化：受害、集体罪责与历史天命的类别，被叠在因果序列之上，把情绪上的确定误作操作上的清晰。第四种是能动性的二分：史家在“伟人”独一无二的意志与非人的系统力量之间来回摆动。能动性其实成比例地变化：行动在直接的朝向引导下、受历史痕迹的拖累很小的时候，能动性高；行动被继承来的惯例主导的时候，能动性低。这是同一个心智在不同时刻所处的状态，不是两种人。
+这种回溯的朝向带出几种反复出现的变形。一种是陈旧的模板：用遥远的类比去读当下，比如“这是 1914 年”“这是 1938 年”或“这是罗马帝国晚期”，把活的复杂硬塞进历史的重播。第二种是聚合体的实体化：民族、国家与经济体被当作会做选择、会衰落、会吸取教训的自主行动者，遮住了那些以行动生成这些模式的具体的人。第三种是道德的外化：受害、集体罪责与历史天命的类别，被叠在因果序列之上，把情绪上的确定误作操作上的清晰。第四种是能动性的二分：史家在“伟人”独一无二的意志与非人的系统力量之间来回摆动。事实上，能动性随滞后而变化：当行动在当下边缘受直接朝向引导、几乎不受历史痕迹拖累时，能动性就高；当行动被继承来的惯例主导时，能动性就低。这是同一个心智在不同时刻所处的状态，不是两种人。
 
-This retrospective orientation brings recurring distortions. One is the stale template: reading the present through distant analogies, such as "this is 1914," "this is 1938," or "this is the late Roman Empire," forcing living complexity into historical reruns. Another is the reification of aggregates: nations, states, and economies treated as autonomous agents that choose, decline, or learn lessons, hiding the concrete people whose actions generate the patterns. A third is moral externalization: categories of victimhood, collective guilt, and historical destiny laid over causal sequences, mistaking emotional certainty for operational clarity. And a fourth is the split of agency: historians swing between the singular will of "great individuals" and impersonal systemic forces. Agency in fact varies in proportion: it is high when action is guided by direct orientation with little drag from historical traces, and low when action is dominated by inherited routine. These are states one Mind is in at different moments, not two kinds of people.
+This retrospective orientation brings recurring distortions. One is the stale template: reading the present through distant analogies, such as "this is 1914," "this is 1938," or "this is the late Roman Empire," forcing living complexity into historical reruns. Another is the reification of aggregates: nations, states, and economies treated as autonomous agents that choose, decline, or learn lessons, hiding the concrete people whose actions generate the patterns. A third is moral externalization: categories of victimhood, collective guilt, and historical destiny laid over causal sequences, mistaking emotional certainty for operational clarity. And a fourth is the split of agency: historians swing between the singular will of "great individuals" and impersonal systemic forces. Instead, agency varies with lag: it is high when action is guided by direct orientation at the present edge with minimal drag from historical traces, and low when action is dominated by inherited routine. These are states one Mind is in at different moments, not two kinds of people.
 
-历史的建议之所以落空，是因为过去的条件不可能原样重现。档案可以作为参照带进来；改变能力的理解，发生在承担后果的即时反馈里，而不是在对档案的被动察看里。
+历史的建议之所以落空，是因为过去的条件不可能原样重现。历史档案正是[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的那种外化记忆：一座保存着先前区分所留结晶痕迹的贮藏库，可以作为参照来查阅，却不具备决定下一次切分的第一人称边缘。真正锻造能力的校准，只发生在活的边缘上承担后果的即时反馈里，从不发生在对库存记录的被动审视中。
 
-Historical advice falls short because past conditions cannot be replicated as they were. Archives can be brought in as reference; the understanding that changes capability happens in immediate, consequence-bearing feedback, not in the passive inspection of archives.
+Historical advice falls short because past conditions cannot be replicated as they were. An archive is externalized memory in the exact sense [Your Codebase Is Memory](../your-codebase-is-memory/) traces: a repository of crystallized traces left by earlier distinctions that can be consulted as reference, but holds no first-person edge to decide the next cut. The calibration that builds capability happens only in immediate, consequence-bearing feedback at the living edge, never in the passive inspection of stored records.
 
 ## 五、 活的对齐的四个立足点 / 5. Four Footings of Living Alignment
 

@@ -49,7 +49,7 @@ flowchart TD
         direction TB
         P_Hold["外加目标：预先固定的外部目标或损失函数"]
         P_Pass["区室化调节：框架内的顶树突信号或权重更新"]
-        P_Limit["投射边界：在持守内部优化轨迹而无内生跳出能力"]
+        P_Limit["投射边界：在所设持守内部优化轨迹，无内生跳出能力"]
         P_Hold --> P_Pass --> P_Limit
     end
 
@@ -132,9 +132,9 @@ This boundary between optimizing inside a fixed frame and stepping out of the fr
 
 In first-person experience, observation holds the effect while the cause that produced it remains one step ahead. The sensed gradient is that exact differential: cause distinct from effect and effect following cause registered as trace asymmetry through recursion, where direction is felt directly as the gap between the retained reference position and what has just returned from action. Propagation is irreducibly forward—the Mind continuing through its embodiment along that sensed difference—rather than the reverse delivery of an error calculated from a terminal target fixed in advance. This sensed gradient is the lived registration of the two joint conditions of causality that [Not a Theory of Everything](../not-a-theory-of-everything/) derives: because every effect is bounded away from its prior cause while following it in directed succession, reality remains open at the leading edge and cannot be sealed into a backward-computing clockwork.
 
-把大脑保存为智能的完整所在，便冻结了观察的立足点。组织中所记录到的神经机制，是运动中的具身滞后一步的痕迹残余。当观察者把那份外在的勘测当作常设的立足点来占据，把所记录的机制当作行动自足的发起者，而不是重绘参照图像以便下一步行动以收窄的滞后继续推进时，多余的滞后便产生了。
+把大脑保存为智能的完整所在，便冻结了观察的立足点。组织中所记录到的神经机制，是运动中的具身滞后一步的痕迹残余，正如[你的代码库即是记忆](../your-codebase-is-memory/)所示，无论是生物神经印迹还是外化的代码库，都只储存先前的状态转移，从不发起活的切分。当观察者把那份外在的勘测当作常设的立足点来占据，把所记录的机制当作行动自足的发起者，而不是重绘参照图像以便下一步行动以收窄的滞后继续推进时，多余的滞后便产生了。
 
-Preserving the brain as the complete site of intelligence freezes the observational stand. Neural mechanisms recorded in tissue are the one-step-old trace residue of embodiment in motion. Excess lag arises when the observer occupies that exterior survey as a permanent stand, treating the recorded mechanisms as the self-sufficient initiator of action rather than re-rendering the reference image so the next act can proceed with narrowed lag.
+Preserving the brain as the complete site of intelligence freezes the observational stand. Neural mechanisms recorded in tissue are the one-step-old trace residue of embodiment in motion; whether a trace is held in biological synapses or in an externalized repository, as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, it retains prior distinctions without initiating the living cut at the steering edge. Excess lag arises when the observer occupies that exterior survey as a permanent stand, treating the recorded mechanisms as the self-sufficient initiator of action rather than re-rendering the reference image so the next act can proceed with narrowed lag.
 
 ## 五、 每一种将心智等同于过程的等式都始于认同之后 / 5. Every Equation of Mind with Process Begins After Identification
 
@@ -142,6 +142,6 @@ Preserving the brain as the complete site of intelligence freezes the observatio
 
 Every theoretical account that equates the Mind with processes inside its embodiment begins after the identification of Mind with form has already been enacted. Within that temporary hold, neuroscience can describe with high precision how apical dendrite signals modulate synaptic plasticity once a behavioral objective has been fixed. What that internal description can never recover is the prior sensing that precedes and enables the fixing of any objective, because that very sensing is what permitted the embodiment to be isolated as a laboratory arena in the first place.
 
-大脑依然是心智的生物具身，而心智从不化约为它所认同的形态。自我区分的活动作为所感差异的正向传导继续进行，借由那些其局部可塑性可被实验测量的神经结构来表达自身。当工程争论把针对某项有界、被命名功能的生物载具替换误认为对使用载具的活的心智的重建时，[飞行的类比碰不到心智](../the-flight-analogy-leaves-the-mind-untouched/)做出了同样的操作性切分。
+大脑依然是心智的生物具身，而心智从不化约为它所认同的形态。自我区分的活动作为所感差异的正向传导继续进行，借由局部可塑性可被实验测量的神经结构表达自身。当工程争论把替换某项有界命名功能的生物载具，误认为重建了使用载具的活心智时，[飞行的类比碰不到心智](../the-flight-analogy-leaves-the-mind-untouched/)做出了同样的操作性切分。
 
 The brain remains the Mind's biological embodiment, and the Mind never reduces to the form with which it identifies. Self-distinguishing activity continues as the forward propagation of sensed difference, expressing itself through the very neural structures whose local plasticity an experiment can measure. [The Flight Analogy Leaves the Mind Untouched](../the-flight-analogy-leaves-the-mind-untouched/) makes the same operative cut when engineering debates mistake the replacement of a biological vehicle for a bounded, named function as the reconstitution of the living Mind that uses vehicles.

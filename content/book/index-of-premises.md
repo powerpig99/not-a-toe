@@ -3104,7 +3104,7 @@ Institutions placing decision rights at a distance from residual consequences ar
 
 Institutional charity presumes humanitarian aid addresses the source of poverty; it often serves as a palliative mechanism reconciling donors to systemic extraction.
 
-→ [The Compassion Is the Mechanism of Obscuration](../../posts/the-compassion-is-the-mechanism-of-obscuration/)
+→ [慈悲即遮蔽的机制 / The Compassion Is the Mechanism of Obscuration](../../posts/the-compassion-is-the-mechanism-of-obscuration/)
 
 ### 教学与课程是学习的原因 / Instruction and Curriculum as Cause of Learning
 `哲学 / Philosophical`
@@ -3527,7 +3527,7 @@ Moral duty takes an ought binding across persons as shared obligation, which is 
 
 Hypercritical moralism demands unblemished perfection from achievers; imposing unattainable standards pathologizes functional success while rationalizing safe inaction.
 
-→ [The Frame That Conceals Improvement](../../posts/the-frame-that-conceals-improvement/) · [投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality](../../posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/)
+→ [遮蔽进步的框架 / The Frame That Conceals Improvement](../../posts/the-frame-that-conceals-improvement/) · [投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality](../../posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/)
 
 ### 止于评判的认知歧途 / Moral Judgment as Epistemic Trap
 `哲学 / Philosophical`

@@ -12,12 +12,12 @@ These essays dissect victimhood scripts, suicidal empathy inversions, and the ab
 
 ## 篇目 / Essays
 
-- [The Compassion Is the Mechanism of Obscuration](../../posts/the-compassion-is-the-mechanism-of-obscuration/)
+- [慈悲即遮蔽的机制 / The Compassion Is the Mechanism of Obscuration](../../posts/the-compassion-is-the-mechanism-of-obscuration/)
 - [帮助是问题的一半 / Help Is Half the Problem](../../posts/help-is-half-the-problem/)
 - [托付道德的自指悖论 / The Recursive Contradiction of Entrusted Morality](../../posts/recursive-contradiction-of-entrusted-morality/)
 - [The Word Does the Damage: Empathy as Projection Collapse](../../posts/empathy-as-projection-collapse/)
 - [Evil as Projected Resistance](../../posts/evil-as-projected-resistance/)
-- [The Frame That Conceals Improvement](../../posts/the-frame-that-conceals-improvement/)
+- [遮蔽进步的框架 / The Frame That Conceals Improvement](../../posts/the-frame-that-conceals-improvement/)
 - [作为因果干扰的情感支持 / Emotional Support as Causal Interference](../../posts/emotional-support-as-causal-interference/)
 - [恶是心智自己的造物 / Evil as the Mind's Own Creation](../../posts/evil-as-the-minds-own-creation/)
 - [当被需要不再是尺度 / When Need Stops Being the Measure](../../posts/when-need-stops-being-the-measure/)

@@ -1,6 +1,6 @@
 # 工具的幻觉与时间的倒置 / The Illusion of the Tool and the Inversion of Time
 
-*等同单元、极限归零与行动的真实代价 / Identical Units, Infinitesimal Limits, and the Living Cost of the Act*
+*等同单元与极限归零让形式体系闭合，而每一步现实行动都支付不可逆的抉择代价。 / Identical units and vanishing limits let formalisms close, while every real step pays the irreversible cost of choice.*
 
 数学与物理模型是心智构建的最敏锐的认知工具，它们在意识内部的变换是静态、对称而可逆的。当模型被误当作比维持它的抉择更基础的独立存在时，认知的倒置便由此开始。等同的单元与趋于零的无穷小极限，是让符号系统得以闭合并运转的两项形式设定；而时间的坐标轴，则是从当下向过去与未来投射出的几何线。离散的区分使因果拓扑跨尺度保持不变，这正是数学之所以有效的根基，然而现实中的每一步推进，都唯有通过第一人称原点上不可逆的行动才能落定。
 
@@ -156,9 +156,9 @@ Working with numbers and equations on paper is therefore the recognition and tra
 
 The deepest cognitive inversion of modern scientism consists in treating the symbolic models a Mind maintains, together with the downstream physical traces of action, as objective realities that supersede first-person choice. The familiar argument points out that differential equations contain no first-person awareness, that the coordinate variable t is reversible on paper, and that macroscopic matter obeys thermodynamic and mechanical regularities, concluding that the lived experience of time and choice is a user illusion while static mathematical structures alone are real. [The Dissolution of the Great Reversal](../the-dissolution-of-the-great-reversal/) traces how this move mistakes retained residue for the generating activity.
 
-当系统架构师试图用自我封闭的智能体框架取代人的统筹时，同样的结构性混淆在自主人工智能的设计中再度上演。正如[超越投射](../beyond-the-projection/)与[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)所展示的，自回归模型或形式方程是一台有限的投射引擎：在给定显式规则与有界语境的前提下，它能毫无自我地穷尽演绎轨迹，却在自身符号之外毫无立足之地，当正交的维度相撞时，它无法向后退一步跳出破损的框架。
+当系统架构师试图用自我封闭的智能体框架取代人的统筹时，同样的结构性混淆在自主人工智能的设计中再度上演。正如[超越投射](../beyond-the-projection/)与[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)所展示的，自回归模型或形式方程是一台有限的投射引擎：在给定显式规则与有界语境的前提下，它能毫无自我地穷尽演绎轨迹，却在自身符号之外毫无立足之地，当正交的维度相撞时也无法退后一步跳出破损的框架——因为正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，任何外化的代码库或形式体系都只是留存的痕迹记忆，而非自我区分的原点。
 
-The same structural confusion recurs in the design of autonomous artificial intelligence when architects attempt to replace human orchestration with self-contained agentic harnesses. As [Beyond the Projection](../beyond-the-projection/) and [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) demonstrate, an autoregressive model or a formal equation is a finite projection engine: given explicit rules and a bounded context, it exhausts deductive trajectories without ego, yet it possesses no footing outside its own symbols and cannot step backward out of a broken frame when orthogonal dimensions collide.
+The same structural confusion recurs in the design of autonomous artificial intelligence when architects attempt to replace human orchestration with self-contained agentic harnesses. As [Beyond the Projection](../beyond-the-projection/) and [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) demonstrate, an autoregressive model or a formal equation is a finite projection engine: given explicit rules and a bounded context, it exhausts deductive trajectories without ego, yet it possesses no footing outside its own symbols and cannot step backward out of a broken frame when orthogonal dimensions collide, because any externalized repository or formalism is retained trace memory rather than a self-distinguishing origin, as [Your Codebase Is Memory](../your-codebase-is-memory/) traces.
 
 恢复因果次序，便让这三个层级各自归位。其一，纸面上的 1 + 1 = 2、跨尺度的代数方程、连续的坐标曲线以及无自我的智能体轨迹，是心智为探索可能性、暴露局部盲区而维持的有限投射。其二，第一人称在当下原点上的区分（+1），是发起因果跃迁、消解前提死锁、推动时间不可逆前进的不可让渡之源。其三，能量耗散、物质位移、熵增与编译产物，则是抉择在物理基底上传导时沉积下来的下游痕迹。援引下游痕迹或纸面上的可逆对称性去否定作出抉择的原点，是以果废因。一旦看清等同单元与归零增量只是让形式体系得以闭合的工具性边界，数学与计算框架便回到它们本来的位置——握在当下作出抉择并承担行动代价的第一人称心智手中的高杠杆罗盘。
 
