@@ -1,4 +1,4 @@
-# 潜能作为威胁或启发
+# 潜能作为威胁或启发 / One’s Potential as Threat or Inspiration
 
 *封闭前提下他人的上升读作损失；进步系于多频繁把潜能视作敞开的地平线 / Under a closed premise another’s rise reads as loss; progress turns on how often potential is met as open horizon.*
 

@@ -1,4 +1,4 @@
-# 底层表面 / The Surface Beneath / 底层表面 / The Surface Beneath
+# 底层表面 / The Surface Beneath
 
 *离散枚举与梯度下降是不同粒度上的投射，而人类感知端负责选择并跨越吸引盆地。 / Enumeration and gradient descent formalize different grains, while human sensing selects and exits the basin.*
 

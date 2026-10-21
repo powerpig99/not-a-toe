@@ -1,4 +1,4 @@
-# 意识归属与量子割点
+# 意识归属与量子割点 / Consciousness Ascription and the Quantum Cut
 
 *参数链条与波函数皆无内在终点，割点对他者不增实体，对自身却是一切之源 / Continuous chains lack internal termini; the cut adds nothing to others, yet is the source of all for the observer*
 

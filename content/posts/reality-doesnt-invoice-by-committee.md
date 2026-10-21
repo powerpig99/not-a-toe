@@ -1,4 +1,4 @@
-# 现实不按委员会开账单 / Reality Doesn't Invoice by Committee / 现实不按委员会开账单 / Reality Doesn't Invoice by Committee
+# 现实不按委员会开账单 / Reality Doesn't Invoice by Committee
 
 *语言流利度与执行力压入同一表象时，叙事便替代行动，直至有人出手结账。 / When fluency and capacity collapse onto one institutional metric, narration displaces action until someone moves.*
 

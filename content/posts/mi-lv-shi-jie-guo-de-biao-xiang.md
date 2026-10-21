@@ -1,4 +1,4 @@
-# 幂律是结果的表象
+# 幂律是结果的表象 / Power Law Is the Surface of Outcomes
 
 *幂律是已经发生的结果在一个观测窗口里的聚合形状，不是生成它的活动 / A power law is the aggregate shape of outcomes already produced in a window, not the activity generating them.*
 

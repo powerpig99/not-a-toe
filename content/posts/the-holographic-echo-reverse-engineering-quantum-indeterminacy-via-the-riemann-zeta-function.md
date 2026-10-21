@@ -76,9 +76,63 @@ The same holds for the element dx. The uncertainty relation Δx · Δp ≥ ħ/2 
 
 The Riemann Hypothesis is thus the compression of an idealized limit. Having posited that infinity can be reached and that dx can vanish smoothly, mathematics draws the picture of equilibrium that infinitely many fluctuating degrees of freedom form at the limit.
 
-非平凡零点排在 Re(s) = 1/2 上，是因为只有在这个位置，一个保持酉性的谱才能无损地投出来。测量停在有限的步长上，到不了实无穷，黎曼猜想因此是一张地图，画的是视界不断外推时过程所指的方向。地图在它的设定之内可靠，边界出现在它被当作一个已经走遍的整体的时候。临界线上零点所占比例的下界，也是在这样的闭合之内可靠，[潜无限与数学思维的暂时闭合](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/)展开了这一点。
+非平凡零点排在 Re(s) = 1/2 上，是因为只有在这个位置，一个保持酉性的谱才能无损地投出来。测量停在有限的步长上，到不了实无穷，黎曼猜想因此是一张地图，画的是视界不断外推时过程所指的方向。地图在它的设定之内可靠，边界出现在它被当作一个已经走遍的整体的时候。临界线上零点所占比例的下界，也是在这样的闭合之内可靠，[潜无限与数学思维的暂时闭合](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/)展开了这一点。同样地，无论是形式数论写下的渐近定理，还是[你的代码库即是记忆](../your-codebase-is-memory/)所剖析的外部化代码库与活书架构，被封存在记录里的始终是既往区分层叠留下的有限残余检查点；检查点让下一步计算得以稳固推进，但推进视界的那一刀始终留在记录之外的当下心智手中。
 
-The non-trivial zeros line up on Re(s) = 1/2 because only at that position can a spectrum that stays unitary be projected without loss. Measurement stops at finite steps and does not arrive at actual infinity, so the Riemann Hypothesis is a map, drawing the direction in which the process points as the horizon is pushed ever outward. The map is reliable inside its posit, and its boundary appears when it is taken for a whole that has already been surveyed. The lower bounds on the proportion of zeros on the critical line are likewise reliable inside such a closure, as [Potential Infinity and the Temporary Closures of Mathematical Thought](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/) lays out.
+```mermaid
+flowchart TD
+    subgraph S_Open["第一人称潜无限：开放的生成边缘"]
+        direction TB
+        Edge["当下心智的抉择 (+1)：视界逐次外推而无末项"]
+        Fluct["离散的测量与涨落：每次采样皆停在有限步长"]
+        Edge --> Fluct
+    end
+
+    subgraph S_Comp["数学的渐近压缩：实无穷工作设定"]
+        direction TB
+        Posit["设定极限已完成：∑ n⁻ˢ 闭合求值且 dx 平滑趋零"]
+        Line["临界线 Re(s) = 1/2：酉性谱无损投影的对称中轴"]
+        Posit --> Line
+    end
+
+    Fluct ==>|"括起残余开放性，沉淀为有限残余检查点"| Posit
+    Line ==>|"作为地图指明外推方向，不封闭探索者的下一步"| Edge
+
+    style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Comp fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style Edge fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Fluct fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style Posit fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Line fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+```
+
+The non-trivial zeros line up on Re(s) = 1/2 because only at that position can a spectrum that stays unitary be projected without loss. Measurement stops at finite steps and does not arrive at actual infinity, so the Riemann Hypothesis is a map, drawing the direction in which the process points as the horizon is pushed ever outward. The map is reliable inside its posit, and its boundary appears when it is taken for a whole that has already been surveyed. The lower bounds on the proportion of zeros on the critical line are likewise reliable inside such a closure, as [Potential Infinity and the Temporary Closures of Mathematical Thought](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/) lays out. In the same way, whether in an asymptotic theorem of formal number theory or in the externalized codebase and living book examined in [Your Codebase Is Memory](../your-codebase-is-memory/), what is fixed inside the record is always a finite checkpoint of stacked prior residues; the checkpoint gives subsequent derivation firm footing, while the cut that pushes the horizon further remains with the living Mind outside the archive.
+
+```mermaid
+flowchart TD
+    subgraph S_Open["First-Person Potential Infinity: The Open Generative Edge"]
+        direction TB
+        Edge["Present Choice of the Mind (+1): Horizon pushed step by step without a final term"]
+        Fluct["Discrete Measurements & Fluctuations: Every sample stops at a finite step"]
+        Edge --> Fluct
+    end
+
+    subgraph S_Comp["Asymptotic Compression in Mathematics: Actual-Infinity Posit"]
+        direction TB
+        Posit["Posit the Limit as Complete: ∑ n⁻ˢ evaluated & dx vanishes smoothly"]
+        Line["Critical Line Re(s) = 1/2: Symmetry axis of unitary lossless projection"]
+        Posit --> Line
+    end
+
+    Fluct ==>|"Brackets residual openness into a finite checkpoint"| Posit
+    Line ==>|"Maps the direction of extrapolation without sealing the next step"| Edge
+
+    style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Comp fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style Edge fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Fluct fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style Posit fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Line fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+```
 
 ## 六、 潜无限与整体 / 6. Potential Infinity and Totality
 

@@ -1,4 +1,4 @@
-# 约束基底与自由自否
+# 约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom
 
 *痛苦源于给自由施加先决条件，而自由恰是在任何约束下皆可行动的主权。 / Suffering stems from conditioning freedom on outcomes; freedom is sovereign action under constraints.*
 

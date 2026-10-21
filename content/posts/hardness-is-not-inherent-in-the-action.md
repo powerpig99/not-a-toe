@@ -1,4 +1,4 @@
-# 难度不在行动本身
+# 难度不在行动本身 / Hardness Is Not Inherent in the Action
 
 *难与易不是行动的属性，而是对行动所需与所得的假设属性。 / Hardness and ease are not properties of action but of assumptions about what an action requires and yields.*
 

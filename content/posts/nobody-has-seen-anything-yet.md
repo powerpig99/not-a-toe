@@ -1,4 +1,4 @@
-# 还没有人见过任何东西 / Nobody Has Seen Anything Yet / 还没有人见过任何东西 / Nobody Has Seen Anything Yet
+# 还没有人见过任何东西 / Nobody Has Seen Anything Yet
 
 *随着迭代周期压缩，把极限感知实现为区分的速率拉开差距，轨迹随之发生相位分离。 / As iteration cycles compress and actualization rates diverge, trajectories undergo phase separation.*
 

@@ -1,4 +1,4 @@
-# 臣服作为错位的主权 / Surrender as Misaligned Sovereignty / 臣服作为错位的主权 / Surrender as Misaligned Sovereignty
+# 臣服作为错位的主权 / Surrender as Misaligned Sovereignty
 
 *主权在每次选择中重演；臣服是在代理轴上行使主权，却期待在自由轴上收获结果。 / Sovereignty is enacted in every choice; surrender exercises it on a proxy axis while expecting freedom.*
 

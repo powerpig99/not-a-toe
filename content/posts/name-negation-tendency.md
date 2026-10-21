@@ -1,4 +1,4 @@
-# 名称背反倾向 / The Name-Negation Tendency / 名称背反倾向 / The Name-Negation Tendency
+# 名称背反倾向 / The Name-Negation Tendency
 
 *把否定某种弊端的初衷凝固为身份名称，利害碰撞便会推着机构滑向该反面吸引子。 / When a founding negation hardens into an identity name, institutional collisions pull it toward that attractor.*
 

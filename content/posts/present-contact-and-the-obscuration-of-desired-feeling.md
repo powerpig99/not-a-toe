@@ -1,4 +1,4 @@
-# 现成接触的因果先验与期望感受的倒置遮蔽
+# 现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling
 
 *前置期望感受会隔断当下接触，第三人称汇总指标的篡位则遮蔽生成之源 / Demanding desired affect as prerequisite severs present registration; aggregate metrics usurp the generative locus*
 

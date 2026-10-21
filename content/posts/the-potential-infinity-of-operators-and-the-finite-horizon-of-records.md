@@ -1,4 +1,4 @@
-# 算符的潜无限与记录的有限边界
+# 算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records
 
 *波函数是复现干涉的相位编码，而非已被穷尽的实存全称 / The wave function encodes phase for interference rather than an exhausted physical totality*
 

@@ -1,4 +1,4 @@
-# 观察的因果僭越与第一人称的收益差
+# 观察的因果僭越与第一人称的收益差 / The Causal Overstep of Observation and the First-Person Surplus
 
 *群体统计记录既成选择的残余，行动开启只取决于第一人称对收益与摩擦的权衡 / Population statistics record completed residue; action ignites solely in the first-person surplus over friction*
 

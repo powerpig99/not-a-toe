@@ -1,4 +1,4 @@
-# 道德倒错与被脚本化的主体
+# 道德倒错与被脚本化的主体 / The Moral Reversal and the Scripted Subject
 
 *将内在体验的因果权让渡给对立群体，是意识形态借受难者幻影篡夺主权行动的起点。 / Reassigning causal authorship of inner states is how ideology usurps sovereign action behind a staged victim.*
 

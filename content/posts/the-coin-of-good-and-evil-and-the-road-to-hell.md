@@ -1,4 +1,4 @@
-# 善恶硬币与通往地狱的善意之路
+# 善恶硬币与通往地狱的善意之路 / The Coin of Good and Evil and the Road to Hell
 
 *地狱是天堂的对拓镜像，唯在第一人称的张力中硬币才不至坍缩为教条。 / Hell is the antipodal mirror of heaven; only in first-person tension does the coin refuse to collapse into dogma.*
 

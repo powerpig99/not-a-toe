@@ -1,4 +1,4 @@
-# 共情的投射坍缩 / Empathy as Projection Collapse / 共情的投射坍缩 / Empathy as Projection Collapse
+# 共情的投射坍缩 / Empathy as Projection Collapse
 
 *“共情”将拓宽、信号与义务压上同一轴，公共坐标便筛出信号而略去拓宽。 / When empathy compresses widening, signaling, and obligation onto one axis, public coordinates select for signaling.*
 

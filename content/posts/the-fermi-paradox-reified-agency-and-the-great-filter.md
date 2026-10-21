@@ -1,4 +1,4 @@
-# 费米悖论、主体性错配与大过滤器的投射
+# 费米悖论、主体性错配与大过滤器的投射 / The Fermi Paradox, Reified Agency, and the Projection of the Great Filter
 
 *文明无意志；视大过滤器为集体失败即实体化聚合选择 / A civilization has no will; reading the Great Filter as collective failure reifies aggregate choices into a phantom subject.*
 

@@ -1,4 +1,4 @@
-# 当电子开始思考
+# 当电子开始思考 / When Electrons Think
 
 *光速是现实被渲染的速率，确定性是自由变量在慢速中沉淀的统计 / The speed of light as the rate at which reality is rendered, and determinism as free variables settled into slowness*
 
@@ -142,9 +142,9 @@ flowchart TD
     style Law fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
 ```
 
-日常世界的确定与规律由此得到一种说明。天体的轨道可以用牛顿引力算到秒，炮弹的落点可以被经典力学预测，这些计算在它们的范围内可靠。按这里的读法，可靠的缘由不在于有一套无人在场的机械法则在统治，而在于宏观物体是微观关系沉淀出的慢速结构，演进的速度远慢于登记的刷新。
+日常世界的确定与规律由此得到一种说明。天体的轨道可以用牛顿引力算到秒，炮弹的落点可以被经典力学预测，这些计算在它们的范围内可靠。按这里的读法，可靠的缘由不在于有一套无人在场的机械法则在统治，而在于宏观物体是微观关系沉淀出的慢速结构，演进的速度远慢于登记的刷新，正如[可见性的速度差](../the-velocity-of-visibility/)从感知采样的奈奎斯特边界切入所追踪的那样。
 
-The determinacy and regularity of the everyday world get one account from this. The orbits of celestial bodies can be computed to the second with Newtonian gravity, and where a shell lands can be predicted by classical mechanics; these calculations are reliable within their range. On the reading here, the reason for that reliability is not that a mechanical law rules with no one present, but that macroscopic objects are slow structures settled out of microscopic relationships, evolving far more slowly than registering refreshes.
+The determinacy and regularity of the everyday world get one account from this. The orbits of celestial bodies can be computed to the second with Newtonian gravity, and where a shell lands can be predicted by classical mechanics; these calculations are reliable within their range. On the reading here, the reason for that reliability is not that a mechanical law rules with no one present, but that macroscopic objects are slow structures settled out of microscopic relationships, evolving far more slowly than registering refreshes, as [The Velocity of Visibility](../the-velocity-of-visibility/) traces through the Nyquist sampling horizon of perception.
 
 ## 三、 不确定性与自由变量是同一件事的两面 / 3. Indeterminacy and the Free Variable as Two Faces of One Thing
 

@@ -1,4 +1,4 @@
-# 最小化路径 / The Minimizing Path / 最小化路径 / The Minimizing Path
+# 最小化路径 / The Minimizing Path
 
 *当构建成本趋零，前置规约随之消解，瓶颈全数汇聚于第一人称对失配的感知。 / As construction cost approaches zero, upfront specification dissolves and the bottleneck concentrates at sensing.*
 

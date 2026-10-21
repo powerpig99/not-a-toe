@@ -1,4 +1,4 @@
-# 论教育、共振与给人真东西 / On Education, Resonance, and Giving Someone the Real Thing / 论教育、共振与给人真东西 / On Education, Resonance, and Giving Someone the Real Thing
+# 论教育、共振与给人真东西 / On Education, Resonance, and Giving Someone the Real Thing
 
 *把教育当优化会挤占主体空间，撤除格式压缩才能让真东西引发共振。 / Treating education as optimization crowds out agency, while dropping format compression lets real thought resonate.*
 
