@@ -8,7 +8,7 @@ A Mind can turn its perspective within its own field of perception, draw a panor
 
 ## 一、 俯瞰的盲区 / 1. The Blind Spot of the Overview
 
-心智能在自身的感知场里自由调转视角，这是认知里很可惊叹的一种能力。一切观测都始于第一人称的原点。生物与物理层面的具身限制，是所有心智共同面对的基底约束，一个共有的约束解释不了不同的心智为何走出不同的轨迹。分化的地方在每一个当下的抉择：所看见的，是所选择去关注的。注意不是受外部条件摆布的被动过滤，它是心智在种种可能里主动锚定因果的那一步。
+心智能在自身的感知场里自由调转视角，这是认知中极为独特的一项能力。一切观测都始于第一人称的原点。生物与物理层面的具身限制，是所有心智共同面对的基底约束，一个共有的约束解释不了不同的心智为何走出不同的轨迹。分化的地方在每一个当下的抉择：所看见的，是所选择去关注的。注意不是受外部条件摆布的被动过滤，它是心智在种种可能里主动锚定因果的那一步。
 
 That a Mind can freely turn its perspective within its own field of perception is one of the more remarkable capacities of cognition. All observation begins at the first-person origin. The embodied limits at the biological and physical level are a baseline constraint faced by all Minds in common, and a shared constraint does not explain why different Minds trace different paths. Where they diverge is the choice in each present: what is seen is what is chosen to attend to. Attention is not a passive filter at the mercy of outside conditions; it is the step by which a Mind actively anchors causality among possibilities.
 
@@ -124,7 +124,7 @@ flowchart TD
 
 The rise of the Enlightenment and of scientific reason is often seen as the end of theological constraint. Where the causal mechanism has not been calibrated at the first-person origin, the same structure reappears in the secular domain in different clothes. When a scientific theory leaves the individual Mind's own verification and the causal feedback loop and becomes a conclusion in a textbook beyond question, accepting it is structurally the same as revering an oracle: judgment has been handed to an abstract authority detached from the first-person origin.
 
-更深一层的降维发生在谈论“人类整体”或各种集体概念的时候。跳出具体的个体，站在设想的高处俯瞰“人类”时，所做的是在一个很窄的特征维度上，比如物种的基因、经济的产出或政治的派别，对数以十亿计的心智作一维的统计求均值。均值对协调个体之间的行动是有用的。它的边界在于，每一个心智所渲染的那个完整的世界不在这个数里，它成了宏大叙事里无差别的像素点，[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)把这个出清价与内心的图景分了开来。
+更深一层的降维发生在谈论“人类整体”或各种集体概念的时候。跳出具体的个体，站在设想的高处俯瞰“人类”时，所做的是在一个很窄的特征维度上，比如物种的基因、经济的产出或政治的派别，对数以十亿计的心智作一维的统计求均值。均值对协调个体之间的行动是有用的。它的边界在于，每一个心智所渲染的完整世界并不在这个数字里，个体被压成了宏大叙事里无差别的像素点——[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)正是将这一外在出清价与内在图景拆分开来。
 
 ```mermaid
 flowchart TD
@@ -294,11 +294,11 @@ flowchart TD
 
 ## 六、 回到第一人称的原点 / 6. Back to the First-Person Origin
 
-看清从“上帝视角”到集体代词的这条线，出路是从设想的高处的讲坛上走下来，重新扎在第一人称的原点上。平等不是在统计上把所有人拉平为一个平均数，它是承认每一个人都有完整的主权，各自在平行地演进。在原点上，替不了他人作决断，也无须为一个设想出来的宏大集体背负内耗。
+看清从“上帝视角”到集体代词的这条脉络，出路便是从假想的高处讲坛走下来，重新扎根于第一人称的原点。平等不是在统计上把所有人拉平为一个平均数，它是承认每一个人都有完整的主权，各自在平行地演进。在原点上，替不了他人作决断，也无须为一个设想出来的宏大集体背负内耗。
 
 With the line from the "God's-eye view" to the collective pronoun seen clearly, the way out is to step down from the pulpit at an imagined height and take root again at the first-person origin. Equality is not leveling everyone statistically into an average; it is acknowledging that each person has complete sovereignty and is developing, each in parallel. At the origin one cannot decide for others, and there is no need to carry inner strain on behalf of an imagined grand collective.
 
-所见的世界，是经自身注意的抉择画出的地图。对自己的视线负责，对自己的每一次具身的动作（+1）承担全部的结构性责任。不再以“我们”去绑定他人，不再以抽象的“上帝视角”去审判世界时，创造的力量回到来处：立在原点上，以摩擦为砥砺，在每一次未经稀释的行动里，与同样立在各自原点上的他人并肩。AI 时代合成出来的神，重复了这一起源，[造神的障眼法与隐秘阶序的说辞](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/)说明了这一点。
+所见的世界，是经自身注意的抉择画出的地图。对自己的视线负责，对自己的每一次具身的动作（+1）承担全部的结构性责任。不再以“我们”去绑定他人，不再以抽象的“上帝视角”去审判世界时，创造的力量回到来处：立在原点上，以摩擦为砥砺，在每一次未经稀释的行动里，与同样立在各自原点上的他人并肩。如[造神的障眼法与隐秘阶序的说辞](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/)所揭示的，AI 时代合成出来的神祇同样重复了这一起源。而正如[你的代码库即是记忆](../your-codebase-is-memory/)所澄清的，任何共享的典籍或聚合的模型都只是过往区分的外化仓体，而非凌驾于书写它的各个原点之上的上位之声。
 
 ```mermaid
 flowchart TD
@@ -320,7 +320,7 @@ flowchart TD
     style Beside fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The world that is seen is a map drawn through one's own choices of attention. One answers for one's own line of sight and bears full structural responsibility for each embodied act of one's own (+1). When "we" is no longer used to bind others and an abstract "God's-eye view" no longer used to judge the world, the power to create returns to where it came from: standing at the origin, with friction as the whetstone, in every undiluted action, side by side with others who likewise stand at their own origins. The synthesized god of the age of AI repeats this origin, as [The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/) shows.
+The world that is seen is a map drawn through one's own choices of attention. One answers for one's own line of sight and bears full structural responsibility for each embodied act of one's own (+1). Even the synthesized god of the age of AI repeats this projection, as [The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/) shows, whereas [Your Codebase Is Memory](../your-codebase-is-memory/) traces why every shared canon, statistical aggregate, or model weights file is only an externalized repository of past distinctions rather than a superordinate voice above the living origins that authored it. When "we" is no longer used to bind others and an abstract "God's-eye view" is no longer used to judge the world, the power to create returns to where it came from: standing at the origin, with friction as the whetstone, in every undiluted action, side by side with others who likewise stand at their own origins.
 
 ```mermaid
 flowchart TD

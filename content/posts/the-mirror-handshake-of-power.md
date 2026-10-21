@@ -12,7 +12,7 @@ Power is commonly pictured as a chain running from the one in control into the c
 
 Seeing power as a solid force applied from outside inward is one of the most widespread pictures: the ruler commands and the subject obeys, the strong control and the weak are dominated. Power here resembles an invisible chain, one end in the controller's hand and the other threaded into the mind of the ruled. The picture works well at the macroscopic scale; it predicts how crowds behave, and law and sociology run on it.
 
-它的边界在单次抉择上。从第一人称的原点出发，找不到一条让别人的指令代为执行抉择的缆绳。君主、官僚体系、神权或算法，都只能改变面前的代价，掂量代价并作出下一步（+1）的仍在原点。被称为“外在权力”的，是两个各自作出的互补抉择彼此咬合：一方选择让渡并服从，一方选择认领并发令。这就是镜像握手。事后从座位上读出的权力，藏起了自由变量，[隐性自由变量与权力的事后幻相](../the-free-variable-and-the-retrospective-illusion-of-power/)说明了这一点。
+它的边界在单次抉择上。从第一人称的原点出发，找不到一条让别人的指令代为执行抉择的缆绳。君主、官僚体系、神权或算法，都只能改变面前的代价，掂量代价并作出下一步（+1）的仍在原点。被称为“外在权力”的，是两个各自作出的互补抉择彼此咬合：一方选择让渡并服从，一方选择认领并发令。这就是镜像握手。如[隐性自由变量与权力的事后幻相](../the-free-variable-and-the-retrospective-illusion-of-power/)所剖析的，事后从交椅上倒推出来的权力，恰恰藏起了当时那个活的自由变量。
 
 ```mermaid
 flowchart TD
@@ -250,7 +250,7 @@ Pointing out these mechanisms is not for judging altruism, centralization or mar
 
 Sacrificial altruism absorbs the other's error signal in one direction, and the one being helped stops adjusting. Political centralization gathers handed-over vectors through preferential attachment, and the distribution of connections follows a power law, P(k) ~ k⁻ᵞ. Market lock-in raises the cost of switching through network effects, and the surrounding paths narrow. Interpersonal deadlock is two strongly coupled oscillators, each tying the change of its state to the other. What the four share is an external routing inserted between action and feedback.
 
-于是这些结构的差别归结为反馈回路的形状。在直接闭合的回路里，行动撞上摩擦，后果不经中介衰减地回到原点，判断得以校准，学习保持陡峭。在经由代理的回路里，行动的后果被国家、施救者、党派或平台过滤、吸收或转移。代理让一个人做到独自做不到的事，分工与委托都靠它；它的边界在于误差信号不再回到作出抉择的地方，调整停下，整个系统的拖累增加。放弃自卫的共情，延续了这次握手，[共情的能力倒错与边界的排序之争](../the-capability-reversal-of-empathy-and-the-contest-of-boundaries/)说明了这一点。
+于是这些结构的差别归结为反馈回路的形状。在直接闭合的回路里，行动撞上摩擦，后果不经中介衰减地回到原点，判断得以校准，学习保持陡峭。在经由代理的回路里，行动的后果被国家、施救者、党派或平台过滤、吸收或转移。代理让一个人做到独自做不到的事，分工与委托都靠它；它的边界在于误差信号不再回到作出抉择的地方，调整停下，整个系统的拖累增加。如[共情的能力倒错与边界的排序之争](../the-capability-reversal-of-empathy-and-the-contest-of-boundaries/)所揭示的，放弃自卫的共情正是把这记握手一路延续了下去。
 
 ```mermaid
 flowchart TD
@@ -354,6 +354,6 @@ flowchart TD
 
 On the technical dimension this means facing the errors and the regularities directly; on the dimension of the team, returning to the other the place of bearing their consequences; on the dimension of values, taking back one's own thinking and judging; on the personal dimension, taking whatever is met as the starting point of one's own causality.
 
-当耦合系数回到零，不再向外投出期待，也不认领外来的绑定，伸来的那只手便握不到东西。代价并不因此消失，摩擦仍在，而它此刻直接回到原点，成为校准的来源。此后重新作为一个自由变量行动，以摩擦为师，走自己的轨迹（+1）。
+当耦合系数回到零，不再向外投出期待，也不认领外来的绑定，伸来的那只手便握不到东西。代价并不因此消失，摩擦仍在，而它此刻直接回到原点，成为校准的来源。行动者由此重新作为一个自由变量出手，以摩擦为师，走出自己的轨迹（+1）。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，期待与绑定的旧脚本只是存留的记忆痕迹；一旦第一人称的活态前沿停止重新执行它们，它们对下一步便再无抓手。
 
-When the coupling coefficient is back at zero, with no expectations cast outward and no bindings accepted from outside, the reaching hand finds nothing to hold. The costs do not vanish for that; the friction remains, and it now returns directly to the origin and becomes the source of calibration. What acts is again a free variable, with friction as the teacher, on a trajectory of its own (+1).
+When the coupling coefficient is back at zero, with no expectations cast outward and no bindings accepted from outside, the reaching hand finds nothing to hold. The costs do not vanish for that; the friction remains, and it now returns directly to the origin and becomes the source of calibration. Because entrenched scripts of expectation and obligation are only externalized traces of prior handshakes rather than a living force—just as [Your Codebase Is Memory](../your-codebase-is-memory/) separates stored memory traces from the steering mind—the moment the first-person edge stops re-executing them, what acts is again a free variable, with friction as the teacher, on a trajectory of its own (+1).

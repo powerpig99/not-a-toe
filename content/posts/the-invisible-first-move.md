@@ -112,7 +112,7 @@ The prescription to "wait until the path is clear" is not merely a suboptimal st
 
 Clarity is not a weather that descends on an industry of its own accord. Clarity is the by-product left after someone has already gone into the fog, borne the risk of ambiguity and established empirical proof of a viable path.
 
-在投入之前要求明朗，等于放下了让超越成为可能的两种能力：一是自主的区分，在共识批准之前认出结构上的杠杆的眼光；二是未经验证的坚持，在没有社会确认、外部补贴或公众喝彩的情况下，维持严谨复利的能动性。
+在投入之前要求明朗，等于放下了让超越成为可能的两种能力：一是自主的区分，在共识批准之前认出结构杠杆的眼光；二是未经验证的坚持，在没有社会确认、外部补贴或公众喝彩的情况下，维持严谨复利的能动性。
 
 Demanding clarity before committing sets down the two capacities that make overtaking possible: autonomous distinction, the foresight to recognize structural leverage before consensus ratifies it; and unvalidated endurance, the agency to sustain rigorous compounding without social confirmation, outside subsidy or public cheering.
 
@@ -134,6 +134,6 @@ Passive observation delivers only the visible aftermath: the finished product, t
 
 In fast-moving fields like artificial intelligence, this error is costly. The organizations and individuals that lead the coming decades are not necessarily today's loudest or best-capitalized. They are the quiet centres that have already committed to a higher-leverage technical premise and are iterating efficiently from a position of apparent disadvantage.
 
-真正的教训无法从回顾里提取出来。它要在有心智的前沿上被活出来，在那里信号微弱，外部的许可缺席，第一步要在黑暗中划下。后来者从来没有晚到；他们只是在任何人想到去看之前很久就开始移动了，所以[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)。
+真正的教训无法从回顾里提取出来。它要在有心智的前沿上被活出来，在那里信号微弱，外部的许可缺席，第一步要在黑暗中划下。后来者从来没有晚到；他们只是在任何人想到去看之前很久就开始移动了，所以[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)。事后出现在公共回顾里的，只是已成之步的提交档案；如[你的代码库即是记忆](../your-codebase-is-memory/)所指出的，外化的痕迹只在活的前沿迈出那一步之后，才记下轨迹。
 
-The real lesson cannot be extracted from retrospectives. It has to be lived at the minded edge, where the signal is faint, outside permission is absent, and the first move has to be drawn in the dark. The latecomer was never late; they simply started moving long before anyone thought to look, which is why [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/).
+The real lesson cannot be extracted from retrospectives, because what public history inspects—much like the committed repository in [Your Codebase Is Memory](../your-codebase-is-memory/)—is only the externalized trace left after the living edge has already stepped. That edge has to be lived in the first person, where the signal is faint, outside permission is absent, and the first move is drawn in the dark. The latecomer was never late; they started moving long before anyone thought to look, demonstrating [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) before the scoreboard ever registered a shift.

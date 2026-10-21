@@ -294,7 +294,7 @@ flowchart TD
 
 The way is a return to direct presence at the first-person origin. With the recognition that the origin of experience was never left, the illusion of distance dissolves. The ruler returns to its use in exploring the unknown, making works and navigating for oneself, and no longer serves as a scepter for disciplining others; shared returns to the complementarity among distinct individuals and is no longer a homogenizing mold; automatic returns to the spontaneous choice of each present and is no longer a gear already set.
 
-在这样的几何里，人与人之间的协作不需要一只设想的居高临下之眼来统筹，它靠各个心智在世界里的自主对齐与直接连接。每一把尺在自己手里量，每一份差异在协作的网络里起作用；守住自身的原点，因果在自由变量的相互作用里继续展开。
+在这样的几何里，人与人之间的协作不需要一只设想的居高临下之眼来统筹，它靠各个心智在世界里的自主对齐与直接连接。每一把尺在自己手里量，每一份差异在协作的网络里起作用；守住自身的原点，因果在自由变量的相互作用里继续展开。共享的协议、指标与外化记录，如[你的代码库即是记忆](../your-codebase-is-memory/)所追寻的，是过往切分留下的公共基底，而读取并更新它们的活判断，仍在各自原点的手里。
 
 ```mermaid
 flowchart TD
@@ -319,7 +319,7 @@ flowchart TD
     style Coord fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-In such a geometry, cooperation among people needs no imagined eye from above to direct it; it rests on the autonomous alignment and direct connection of each Mind in the world. Each ruler measures in its own hand, and each difference does its work in the network of cooperation; with one's own origin kept, causality goes on unfolding in the interaction of free variables.
+In such a geometry, cooperation among people needs no imagined eye from above to direct it; it rests on the autonomous alignment and direct connection of each Mind in the world. Each ruler measures in its own hand, and each difference does its work in the network of cooperation; even when rulers and agreements are externalized into shared protocols and records—where [Your Codebase Is Memory](../your-codebase-is-memory/) locates the durable trace of prior cuts—they remain instruments held and updated at each living origin, so causality goes on unfolding in the interaction of free variables.
 
 ```mermaid
 flowchart TD

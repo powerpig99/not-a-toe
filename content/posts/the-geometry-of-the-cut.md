@@ -87,7 +87,7 @@ flowchart TD
     style Quotient fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-Starting from irreducible first-person perception, Self and World are not two entities to be measured separately; they are one phenomenon unfolding self-referentially in two directions. What is called the "world out there" is the part of an inner state cast outward and shown on the perceptual canvas. What is called the "self-image" is the curvature left when the same beam of perception folds back and catches itself. Perception is therefore a two-way self-referential projection: outward it appears as an open world, inward as an image of body and mind. Borrowing the language of topology as scaffolding, identifying each outward point with its inward counterpart yields one connected quotient space, M / ~. In a partnership, the mutual entity is the world taken as cause, the inversion [The Causal Inversion of Partnership](../the-causal-inversion-of-partnership/) undoes.
+Starting from irreducible first-person perception, Self and World are not two entities to be measured separately; they are one phenomenon unfolding self-referentially in two directions. What is called the "world out there" is the part of an inner state cast outward and shown on the perceptual canvas. What is called the "self-image" is the curvature left when the same beam of perception folds back and catches itself. Perception is therefore a two-way self-referential projection: outward it appears as an open world, inward as an image of body and mind. Borrowing the language of topology as scaffolding, identifying each outward point with its inward counterpart yields one connected quotient space, M / ~. When that outward projection is reified in a relationship—treating the shared partnership as an external entity that causes one's state—it produces the inversion [The Causal Inversion of Partnership](../the-causal-inversion-of-partnership/) dissolves.
 
 ```mermaid
 flowchart TD
@@ -334,6 +334,6 @@ flowchart TD
     style Reshape fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-这里没有先后，也没有排队。针对自身与针对世界的两种说教可以一并放下，旁观自己的位置也可以放下，留下的是站在原点上对当下的处境承担全部的结构性责任。以摩擦为师，在每一次未经稀释的行动里，校准与行动是同一件事。
+这里没有先后，也没有排队。针对自身与针对世界的两种说教可以一并放下，旁观自己的位置也可以放下，留下的是站在原点上对当下的处境承担全部的结构性责任。以摩擦为师，在每一次未经稀释的行动里，校准与行动是同一件事。过往切分留下的概念与记录，如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，也只是外化的记忆，等待着活的原点去承受下一步的摩擦。
 
-There is no sequence here and no queue. Both sermons can be set down, the one aimed at the self and the one aimed at the world, along with the position of watching oneself from outside; what remains is standing at the origin with full structural responsibility for the present situation. With friction as the teacher, in every undiluted action, calibrating and acting are one and the same.
+There is no sequence here and no queue. Both sermons can be set down, the one aimed at the self and the one aimed at the world, along with the third-person posture of policing oneself from outside; as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, every rulebook, moral record, or conceptual map retained from prior cuts is only externalized memory, inert until a living origin steps into the friction of the next commit. What remains is standing at that origin with full structural responsibility for the present situation: with friction as the teacher, in every undiluted action, calibrating the self and reshaping the world are one and the same stroke.

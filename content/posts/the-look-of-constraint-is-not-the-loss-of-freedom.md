@@ -1,6 +1,6 @@
 # 约束的样子不是自由的失去 / The Look of Constraint Is Not the Loss of Freedom
 
-*看上去的约束，是把能动性向后分配去守护历史的痕迹，而不是向前延展地平线 / Apparent constraint is agency pointed backward at defending past traces rather than forward at widening the horizon.*
+*看上去的约束，是能动性向后守护过往痕迹，而非向前延展地平线 / Apparent constraint is agency pointed backward at defending past traces rather than forward at widening the horizon.*
 
 孩子看上去自由，成年人看上去受约束。作为经验的表面，这个对照是真的；关于它的常见说法，却把因果倒了过来。当代文化里有一句流行的格言，把这个可见的表面当作必然的机制：孩子从无边、纯净的自由开始，撞上世界，学到现实有界限，于是把那个打了折扣的样子叫作成年人。在这幅浪漫化的图里，自由被安放在起点，作为与生俱来的形而上盈余；对约束的认识被说成它消失的原因；变老成了这份丧失的悲剧名称。
 
@@ -8,7 +8,7 @@ Children look free; adults look constrained. As an empirical surface the contras
 
 在这句格言底下，运行着一个不同的控制论序列。
 
-Beneath the saying, a different cybernetic sequence is running.
+Beneath the saying, a different causal sequence is running.
 
 ## 一、 敞开的开端 / 1. The Open Start
 
@@ -114,6 +114,6 @@ This is the very inversion the saying attributes to the adults it observes. The 
 
 Beneath the poetic phrasing, what happens is more exact: a small opening spread, a living locus of distinction, environments that write state transitions and compound over time, common gradients that recapture the middle into shared basins, a widespread habit of pointing agency at what is already written rather than into the next expansion, and a description that copies that habit by taking the resulting symptom for the generating engine. The phenomenon is an active misallocation of agency; the traditional explanation is the same misallocation re-enacted in language.
 
-长大不是自由被没收，而是因果杠杆的累积。孩子有一块空着的寄存器，杠杆很小；成年人有大量累积的机器。这套机器成为自我施加的牢笼，还是一台创造的引擎，不由年龄、社会或时间的流逝决定，而由心智在当下的移动前沿上把能动性指向哪里决定。
+长大不是自由被没收，而是因果杠杆的累积。孩子有一块空着的寄存器，杠杆很小；成年人有大量累积的机器。这套机器成为自我施加的牢笼，还是一台创造的引擎，不由年龄、社会或时间的流逝决定，而由心智在当下的移动前沿上把能动性指向哪里决定。正因为[你的代码库即是记忆](../your-codebase-is-memory/)，这套累积的机器只是过往承诺的外化存放处，不是劫持主权的看守，下一次提交一直向活的前沿敞开。
 
-Growing up is not the confiscation of freedom; it is the accumulation of causal leverage. A child has an empty register with little leverage; an adult has a great deal of accumulated machinery. Whether that machinery becomes a self-imposed prison or an engine of creation is decided not by age, society or the passing of time but by where the Mind points its agency at the moving edge of the present.
+Growing up is not the confiscation of freedom; it is the accumulation of causal leverage. A child has an empty register with little leverage; an adult has a great deal of accumulated machinery—like the externalized repository of prior cuts traced in [Your Codebase Is Memory](../your-codebase-is-memory/), where past commitments sit as callable structure rather than a sovereign captor. Whether that machinery becomes a self-imposed prison or an engine of creation is decided not by age, society or the passing of time, but by where the Mind points its agency at the moving edge of the present.

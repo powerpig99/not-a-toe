@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T09:14:25.675Z",
+    "generated_at": "2026-10-21T09:26:04.539Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -137,7 +137,7 @@
       "content/posts/not-a-theory-of-everything.md": "4d8057e37ce3",
       "content/posts/not-a-toe-rewrite.md": "99150d84dc27",
       "content/posts/not-predicting-is-predicting-without-awareness.md": "750dd47f6c5b",
-      "content/posts/objects-are-stabilized-relationships.md": "54def9af6a16",
+      "content/posts/objects-are-stabilized-relationships.md": "01d114dde3a7",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "e155f3d0f778",
       "content/posts/on-education.md": "acf5a581efd1",
       "content/posts/one-cannot-escape-ones-own-mind.md": "474dad0e12f2",
@@ -232,7 +232,7 @@
       "content/posts/the-digital-god-and-the-horizon-jump.md": "0dc8080b8644",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "84960aa9f76c",
       "content/posts/the-discount-on-agency.md": "754aac28467d",
-      "content/posts/the-dissolution-of-the-great-reversal.md": "3ef5fa05ee7f",
+      "content/posts/the-dissolution-of-the-great-reversal.md": "afb2ae4a969c",
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "cf61f9e9c832",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "b4175ca28f51",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "bf47c037daad",
@@ -257,13 +257,13 @@
       "content/posts/the-geometry-of-emergence.md": "a42d5b545360",
       "content/posts/the-geometry-of-mind.md": "3d0ba4f53d48",
       "content/posts/the-geometry-of-success.md": "546c4a0dba71",
-      "content/posts/the-geometry-of-the-cut.md": "ae41a43f7e1a",
+      "content/posts/the-geometry-of-the-cut.md": "6e088e0cb25d",
       "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "8f767f4e3415",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "18ddaac771bf",
       "content/posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function.md": "d0abfd039874",
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "13b646bb8cfd",
       "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "6d4b7faef53e",
-      "content/posts/the-illusion-of-distance-and-the-dual-ruler.md": "d915809609b6",
+      "content/posts/the-illusion-of-distance-and-the-dual-ruler.md": "6232766ba174",
       "content/posts/the-illusion-of-free-intelligence.md": "0b76898e8f30",
       "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "0200bfbf3fa5",
       "content/posts/the-illusion-of-the-shared-sandbox.md": "f20e733d6ceb",
@@ -276,7 +276,7 @@
       "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "5db081fa7c26",
       "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "bec4cd8c5f9b",
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "60f354d84985",
-      "content/posts/the-invisible-first-move.md": "24e7e1373e4c",
+      "content/posts/the-invisible-first-move.md": "2903f23cc112",
       "content/posts/the-invisible-gods-eye.md": "2cd4107ca030",
       "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "056a21f2e1a9",
       "content/posts/the-irreducible-observer.md": "128d5b8534dd",
@@ -287,18 +287,18 @@
       "content/posts/the-limitation-is-doing-work.md": "0775ab533348",
       "content/posts/the-living-context.md": "0603cd0d3ea2",
       "content/posts/the-local-trap-of-technological-change.md": "90573245bd77",
-      "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "9c43b9beb0a3",
+      "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "5dfdcb05cf02",
       "content/posts/the-loop-accelerates.md": "774efc991390",
       "content/posts/the-loop-that-cant-see-itself.md": "eea990318043",
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
-      "content/posts/the-map-after-the-territory.md": "1a231ded3754",
+      "content/posts/the-map-after-the-territory.md": "7c4c6f4b27cf",
       "content/posts/the-mark-and-the-act.md": "c564f60f2ed7",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "71b2a3b0537b",
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "92606376f487",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "db7cf6705972",
       "content/posts/the-mirage-of-the-infinite-totality.md": "af31e57b481f",
       "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "dacbb91b8d8d",
-      "content/posts/the-mirror-handshake-of-power.md": "d87437fc547d",
+      "content/posts/the-mirror-handshake-of-power.md": "3b6d7afb72bc",
       "content/posts/the-misallocation-of-agency.md": "b921b7fb3528",
       "content/posts/the-model-never-becomes-a-second-edge.md": "e05347b86c6c",
       "content/posts/the-moral-reversal-and-the-scripted-subject.md": "6f43ecd291e1",
@@ -310,14 +310,14 @@
       "content/posts/the-observational-cut-in-ai-debates.md": "67d1a12b9dca",
       "content/posts/the-only-coherent-uncaused-effect.md": "8e828e808896",
       "content/posts/the-open-question-is-determinisms-demand.md": "80597e04a05d",
-      "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "60c3d0411af1",
+      "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "dc29182803e7",
       "content/posts/the-other-coherence.md": "8dac9149aa79",
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "431ce25c2506",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "a9f8094d00b3",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "48c1bddc846f",
       "content/posts/the-perceiver-and-the-trace.md": "12ca1c236bca",
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "5df00a578126",
-      "content/posts/the-power-law-of-surrendered-agency.md": "390d27c147c5",
+      "content/posts/the-power-law-of-surrendered-agency.md": "4a2576b3519f",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "8c22e4938a6e",
       "content/posts/the-price-of-closing-optionality.md": "ce68a21742d8",
       "content/posts/the-question-that-installs-the-war.md": "1a354ebce802",
@@ -333,7 +333,7 @@
       "content/posts/the-returning-signal-and-its-claim.md": "3e0a96be38a7",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "4e0a51e77cf0",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "9e39c50c5595",
-      "content/posts/the-reversal-of-education-and-science.md": "d9695fb75dbc",
+      "content/posts/the-reversal-of-education-and-science.md": "6bc635c24685",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "1d26d6542cba",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "7a0ec6232ce8",
       "content/posts/the-scaffolding-that-keeps-growing.md": "8fddf91966e8",
@@ -424,10 +424,10 @@
     },
     "stats": {
       "posts": 397,
-      "edges": 10532,
-      "unique_directed": 5170,
+      "edges": 10554,
+      "unique_directed": 5181,
       "missing_targets": 0,
-      "one_way": 688,
+      "one_way": 699,
       "isolated": 35,
       "posts_with_outbound": 362,
       "book_pages": 16,
@@ -438,7 +438,7 @@
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 338
+      "in_degree": 349
     },
     {
       "slug": "beyond-the-projection",
@@ -3951,12 +3951,13 @@
       "slug": "objects-are-stabilized-relationships",
       "path": "content/posts/objects-are-stabilized-relationships.md",
       "title": "对象是被稳定化的关系 / Objects Are Stabilized Relationships",
-      "hash": "54def9af6a16",
+      "hash": "01d114dde3a7",
       "in_degree": 3,
-      "out_degree": 2,
+      "out_degree": 3,
       "links_out": [
         "when-electrons-think",
-        "the-invisible-gods-eye"
+        "the-invisible-gods-eye",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -6425,11 +6426,12 @@
       "slug": "the-dissolution-of-the-great-reversal",
       "path": "content/posts/the-dissolution-of-the-great-reversal.md",
       "title": "大倒置的消解 / The Dissolution of the Great Reversal",
-      "hash": "3ef5fa05ee7f",
+      "hash": "afb2ae4a969c",
       "in_degree": 2,
-      "out_degree": 1,
+      "out_degree": 2,
       "links_out": [
-        "coordinates-in-flux-negation-and-self-anchoring"
+        "coordinates-in-flux-negation-and-self-anchoring",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -7030,13 +7032,14 @@
       "slug": "the-geometry-of-the-cut",
       "path": "content/posts/the-geometry-of-the-cut.md",
       "title": "切分的几何学 / The Geometry of the Cut",
-      "hash": "ae41a43f7e1a",
+      "hash": "6e088e0cb25d",
       "in_degree": 2,
-      "out_degree": 3,
+      "out_degree": 4,
       "links_out": [
         "the-causal-inversion-of-partnership",
         "the-continuum-is-a-modeling-convenience",
-        "the-explanatory-trap-of-the-ordinary-perspective"
+        "the-explanatory-trap-of-the-ordinary-perspective",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -7155,14 +7158,15 @@
       "slug": "the-illusion-of-distance-and-the-dual-ruler",
       "path": "content/posts/the-illusion-of-distance-and-the-dual-ruler.md",
       "title": "距离的幻觉与尺度的双向投影 / The Illusion of Distance and the Dual Projections of the Ruler",
-      "hash": "d915809609b6",
+      "hash": "6232766ba174",
       "in_degree": 2,
-      "out_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "the-cut-moves-but-never-vanishes",
         "the-illusion-of-the-shared-sandbox",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-        "the-geometry-of-coexistence-and-the-dual-cut"
+        "the-geometry-of-coexistence-and-the-dual-cut",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -7440,14 +7444,15 @@
       "slug": "the-invisible-first-move",
       "path": "content/posts/the-invisible-first-move.md",
       "title": "看不见的第一步 / The Invisible First Move",
-      "hash": "24e7e1373e4c",
+      "hash": "2903f23cc112",
       "in_degree": 4,
-      "out_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "symptom-and-cause-in-the-narratives-of-progress",
         "the-average-is-residue-not-the-engine",
         "not-predicting-is-predicting-without-awareness",
-        "individual-choices-as-the-only-causal-levers"
+        "individual-choices-as-the-only-causal-levers",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -7661,14 +7666,15 @@
       "slug": "the-look-of-constraint-is-not-the-loss-of-freedom",
       "path": "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md",
       "title": "约束的样子不是自由的失去 / The Look of Constraint Is Not the Loss of Freedom",
-      "hash": "9c43b9beb0a3",
+      "hash": "5dfdcb05cf02",
       "in_degree": 4,
-      "out_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "the-bank-shot-and-the-magic-trick",
         "the-average-is-residue-not-the-engine",
         "the-fallacy-of-post-success-parenting",
-        "the-substrate-of-constraint-and-the-self-denial-of-freedom"
+        "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -7712,14 +7718,15 @@
       "slug": "the-map-after-the-territory",
       "path": "content/posts/the-map-after-the-territory.md",
       "title": "行路之后的地图 / The Map After the Territory",
-      "hash": "1a231ded3754",
+      "hash": "7c4c6f4b27cf",
       "in_degree": 4,
-      "out_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "cheng-gong-xue",
         "how-belief-actually-changes",
         "the-meaning-of-life-is-in-the-drafting",
-        "expertise-as-reference-not-replacement"
+        "expertise-as-reference-not-replacement",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -7885,12 +7892,13 @@
       "slug": "the-mirror-handshake-of-power",
       "path": "content/posts/the-mirror-handshake-of-power.md",
       "title": "权力的镜像握手 / The Mirror Handshake of Power",
-      "hash": "d87437fc547d",
+      "hash": "3b6d7afb72bc",
       "in_degree": 3,
-      "out_degree": 2,
+      "out_degree": 3,
       "links_out": [
         "the-free-variable-and-the-retrospective-illusion-of-power",
-        "the-capability-reversal-of-empathy-and-the-contest-of-boundaries"
+        "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -8192,12 +8200,13 @@
       "slug": "the-origin-of-god-and-the-flattening-of-we",
       "path": "content/posts/the-origin-of-god-and-the-flattening-of-we.md",
       "title": "上帝的起源与“我们”的降维 / The Origin of God and the Flattening of \"We\"",
-      "hash": "60c3d0411af1",
+      "hash": "dc29182803e7",
       "in_degree": 1,
-      "out_degree": 2,
+      "out_degree": 3,
       "links_out": [
         "the-illusion-of-the-shared-sandbox",
-        "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank"
+        "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -8357,13 +8366,14 @@
       "slug": "the-power-law-of-surrendered-agency",
       "path": "content/posts/the-power-law-of-surrendered-agency.md",
       "title": "让渡主权的幂律法则 / The Power-Law of Surrendered Agency",
-      "hash": "390d27c147c5",
+      "hash": "4a2576b3519f",
       "in_degree": 2,
-      "out_degree": 3,
+      "out_degree": 4,
       "links_out": [
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
         "the-mirror-handshake-of-power",
-        "the-causal-overstep-of-observation-and-the-first-person-surplus"
+        "the-causal-overstep-of-observation-and-the-first-person-surplus",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -8792,12 +8802,13 @@
       "slug": "the-reversal-of-education-and-science",
       "path": "content/posts/the-reversal-of-education-and-science.md",
       "title": "教育与科学的倒置 / The Inversion of Education and Science",
-      "hash": "d9695fb75dbc",
+      "hash": "6bc635c24685",
       "in_degree": 3,
-      "out_degree": 2,
+      "out_degree": 3,
       "links_out": [
         "the-shadow-and-the-infinite",
-        "the-asymmetry-of-understanding"
+        "the-asymmetry-of-understanding",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -10371,7 +10382,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 338,
+      "in_degree": 349,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -32200,6 +32211,18 @@
       "label": "The Invisible God's Eye"
     },
     {
+      "from": "objects-are-stabilized-relationships",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "objects-are-stabilized-relationships",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
       "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
@@ -48100,6 +48123,18 @@
       "label": "Coordinates in Flux"
     },
     {
+      "from": "the-dissolution-of-the-great-reversal",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-dissolution-of-the-great-reversal",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
       "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
@@ -51844,6 +51879,18 @@
       "label": "The Explanatory Trap of the \"Ordinary Perspective\""
     },
     {
+      "from": "the-geometry-of-the-cut",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-geometry-of-the-cut",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
       "from": "the-grammar-of-finding-and-the-fading-observer",
       "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "rel": "points_to",
@@ -52502,6 +52549,18 @@
       "to": "the-geometry-of-coexistence-and-the-dual-cut",
       "rel": "points_to",
       "label": "The Geometry of Coexistence"
+    },
+    {
+      "from": "the-illusion-of-distance-and-the-dual-ruler",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-illusion-of-distance-and-the-dual-ruler",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-illusion-of-free-intelligence",
@@ -54167,6 +54226,18 @@
     },
     {
       "from": "the-invisible-first-move",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-invisible-first-move",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-invisible-first-move",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual Choices as the Only Causal Levers"
@@ -55312,6 +55383,18 @@
       "label": "The Substrate of Constraint and the Self-Denial of Freedom"
     },
     {
+      "from": "the-look-of-constraint-is-not-the-loss-of-freedom",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-look-of-constraint-is-not-the-loss-of-freedom",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
       "from": "the-loop-that-cant-see-itself",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
@@ -55367,9 +55450,21 @@
     },
     {
       "from": "the-map-after-the-territory",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-map-after-the-territory",
       "to": "expertise-as-reference-not-replacement",
       "rel": "points_to",
       "label": "Expertise as reference, not replacement"
+    },
+    {
+      "from": "the-map-after-the-territory",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-mark-and-the-act",
@@ -56438,6 +56533,18 @@
       "to": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
       "rel": "points_to",
       "label": "The Capability Reversal of Empathy and the Contest of Boundaries"
+    },
+    {
+      "from": "the-mirror-handshake-of-power",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-mirror-handshake-of-power",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-misallocation-of-agency",
@@ -58415,9 +58522,21 @@
     },
     {
       "from": "the-origin-of-god-and-the-flattening-of-we",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-origin-of-god-and-the-flattening-of-we",
       "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
       "rel": "points_to",
       "label": "The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank"
+    },
+    {
+      "from": "the-origin-of-god-and-the-flattening-of-we",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-other-coherence",
@@ -59414,6 +59533,18 @@
       "to": "the-causal-overstep-of-observation-and-the-first-person-surplus",
       "rel": "points_to",
       "label": "The Causal Overstep of Observation and the First-Person Surplus"
+    },
+    {
+      "from": "the-power-law-of-surrendered-agency",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-power-law-of-surrendered-agency",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
@@ -62435,12 +62566,6 @@
     },
     {
       "from": "the-reversal-of-education-and-science",
-      "to": "the-asymmetry-of-understanding",
-      "rel": "points_to",
-      "label": "理解的非对称性"
-    },
-    {
-      "from": "the-reversal-of-education-and-science",
       "to": "the-shadow-and-the-infinite",
       "rel": "points_to",
       "label": "The Shadow and the Infinite"
@@ -62449,7 +62574,25 @@
       "from": "the-reversal-of-education-and-science",
       "to": "the-asymmetry-of-understanding",
       "rel": "points_to",
+      "label": "理解的非对称性"
+    },
+    {
+      "from": "the-reversal-of-education-and-science",
+      "to": "the-asymmetry-of-understanding",
+      "rel": "points_to",
       "label": "The Asymmetry of Understanding"
+    },
+    {
+      "from": "the-reversal-of-education-and-science",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-reversal-of-education-and-science",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",

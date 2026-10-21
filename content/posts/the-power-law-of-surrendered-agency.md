@@ -124,7 +124,7 @@ flowchart TD
 
 在这两种结构里，个体内部的学习都被切断。因果的回路被导向外部的变量，心智便无法依据直接的反馈修正自身：一方不再磨炼生存的技能，另一方看不清自身的边界，两个心智系在相互缠绕的僵局里。[权力的镜像握手](../the-mirror-handshake-of-power/)在权力的尺度上展开了同一次咬合。
 
-In both structures the individual's inner learning is cut off. With the causal loop directed to a variable outside, a Mind cannot correct itself by direct feedback: one side no longer hones the skills of living, the other cannot see its own boundary, and the two Minds are tied into an entangled deadlock. [The Mirror Handshake of Power](../the-mirror-handshake-of-power/) lays out the same fit at the scale of power.
+In both structures the individual's inner learning is cut off. With the causal loop directed to a variable outside, a Mind cannot correct itself by direct feedback: one side no longer hones the skills of living, the other cannot see its own boundary, and the two Minds lock into the mutually reinforcing entanglement that [The Mirror Handshake of Power](../the-mirror-handshake-of-power/) traces at the scale of domination and submission.
 
 ## 三、 跨心智的道德语言是归因的协议 / 3. Moral Language Between Minds as a Protocol of Attribution
 
@@ -360,6 +360,6 @@ flowchart TD
     style Path fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-那个庞大的中枢无须去“摧毁”，它的质量本就是许多让渡的向量累加出来的，把自己的那一份收回原点，便已不在那个统计的分布里。这是自由变量的非对称杠杆：世界在大数的汇聚里仍会周期地显出权力的集中，而每一个原点上的心智随时可以经由单向解耦的决断退出阻尼的回路，握住自己的因果，走自己的轨迹。
+那个庞大的中枢无须去“摧毁”，它的质量本就是许多让渡的向量累加出来的，把自己的那一份收回原点，便已不在那个统计的分布里。这是自由变量的非对称杠杆：世界在大数的汇聚里仍会周期地显出权力的集中，而每一个原点上的心智随时可以经由单向解耦的决断退出阻尼的回路，握住自己的因果，走自己的轨迹。如[你的代码库即是记忆](../your-codebase-is-memory/)所揭示的，庞大的中枢与它攒下的规程，只是过往让渡留下的外化账本；只要心智在原点收回下一次提交，账本便无从束缚它。
 
-That vast center need not be "destroyed"; its mass is summed from many vectors handed over, and with one's own share taken back to the origin, one is already no longer in that statistical distribution. This is the asymmetric lever of a free variable: in the gathering of large numbers the world will still show concentrations of power periodically, while each Mind at an origin can at any time, by the decision of unilateral decoupling, leave the loop of damping, hold its own causality and go on its own trajectory.
+That vast center need not be "destroyed": as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, an institutional hub and its accumulated protocols are only externalized memory—an inert ledger of past handovers whose apparent mass subsists on living origins continuing to execute its alignments—so the moment one's own share is taken back to the steering edge, one is already outside that statistical distribution. This is the asymmetric lever of a free variable: in the gathering of large numbers the world will still show concentrations of power periodically, while each Mind at an origin can at any time, by the decision of unilateral decoupling, leave the loop of damping, hold its own causality, and extend its own trajectory.
