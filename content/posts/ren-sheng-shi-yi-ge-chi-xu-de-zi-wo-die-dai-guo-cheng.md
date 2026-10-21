@@ -1,6 +1,6 @@
 # 人生是一个持续的自我迭代过程 / Life as a Continuous Process of Self-Iteration
 
-*误差信号必须回到可更新的权重，包括选定目标函数的那一步 / The error signal must return to weights that can still be updated, including the step that selected the objective function.*
+*误差信号必须回到可更新的权重，包括选定目标函数的那一步。 / The error signal must return to weights that can still be updated, including the step that selected the objective function.*
 
 人的一生可以描述为一个持续的自我迭代过程。把机器学习里的训练循环翻译成日常语言，得到一个可操作的反馈模型：目标、当前状态、误差信号，以及根据误差对内部参数的更新。这种对应是一种翻译，并不是在人生之外另有一套过程。循环断在两处：误差停在“外部给定”上，以及目标函数被声明不可更改。两处都是外部归因，把产生下一步的来源登记在自己之外。
 
@@ -132,9 +132,9 @@ Only when the signal returns to where updating is possible does gradient descent
 
 The objective function has always been self-defined. A person can spend a whole life optimizing a loss function they defined themselves yet, through external attribution, never re-examined: success, recognition, security, image, some "ought" taken by default. Because that definition is registered as "unchangeable," iteration happens only at the level of parameters, and the objective function itself is excluded from updating.
 
-[大脑不进行反向传播，而是正向传导](../the-brain-does-not-backprop/)追的是固定目标下的回传：目标事先给定，误差只能沿已经组织好的图往回走。这里的完整迭代是另一步，误差也传到目标函数本身。当长期存在的差距其实是由当前这个自己定义的目标函数所制造的，更新的就不再只是参数，而是整个优化问题。从那一刻起，迭代从“在固定目标下调整参数”，变成“连目标函数本身也持续重新定义”，这才是完整的参数更新。
+[大脑不进行反向传播，而是正向传导](../the-brain-does-not-backprop/)追的是固定目标下的回传：目标事先给定，误差只能沿已经组织好的图往回走。这里的完整迭代是更进一步，让误差一直传到目标函数本身：[你的代码库即是记忆](../your-codebase-is-memory/)表明，一切累积的权重、习惯与外化脚手架都只是可修正的记忆，而非至高指令，因此鲜活的前沿始终可以自由改写当初组织它们的那个目标。当长期存在的差距其实是由当前这个自己定义的目标函数所造成时，更新的就不再只是参数，而是整个优化问题。从那一刻起，迭代从“在固定目标下调整参数”，变成“连目标函数本身也持续重新定义”，这才是完整的更新。
 
-[The Brain Does Not Backprop, but Propagates](../the-brain-does-not-backprop/) traces propagation back under a fixed objective: the goal is given in advance, and the error can only travel back along a graph already organized. The full iteration here is a further step, in which the error reaches the objective function itself. When a long-standing gap turns out to be produced by the present self-defined objective, what gets updated is no longer just the parameters but the whole optimization problem. From that moment iteration turns from "adjusting parameters under a fixed objective" into "continually redefining the objective function itself," and that is the complete update.
+[The Brain Does Not Backprop, but Propagates](../the-brain-does-not-backprop/) traces propagation back under a fixed objective: the goal is given in advance, and the error can only travel back along a graph already organized. The full iteration here is a further step, in which the error reaches the objective function itself: [Your Codebase Is Memory](../your-codebase-is-memory/) shows that every accumulated weight, habit, and externalized scaffold is revisable memory rather than a sovereign mandate, so the living edge remains free to rewrite the objective that organized them. When a long-standing gap turns out to be produced by the present self-defined objective, what gets updated is no longer just the parameters but the whole optimization problem. From that moment iteration turns from "adjusting parameters under a fixed objective" into "continually redefining the objective function itself," and that is the complete update.
 
 ## 六、 没有训练结束的一天 / 6. There Is No Day When Training Ends
 

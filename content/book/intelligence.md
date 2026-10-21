@@ -17,7 +17,7 @@ The essays in this part dissect Geoffrey Hinton's cognitive leaps, the limits of
 - [Intelligence Is the Thing Most Likely to Trap Itself](../../posts/intelligence-traps-itself/)
 - [The Moving Ground: On "Intelligent AI Delegation"](../../posts/the_moving_ground/)
 - [The Shadow Mistaken for the Object: Chollet's Intelligence Explosion Argument](../../posts/chollet-intelligence-explosion-analysis/)
-- [You Can't Benchmark the Fluid](../../posts/you-cant-benchmark-the-fluid/)
+- [流动之物无法被基准衡量 / You Can't Benchmark the Fluid](../../posts/you-cant-benchmark-the-fluid/)
 - [AI 作为增强 / AI as Augmentation](../../posts/ai-as-augmentation/)
 - [The Projection Called Claude: An Ontological Analysis of Anthropic's Constitution](../../posts/claudes-constitution-analysis/)
 - [Context All the Way Down](../../posts/context-engineering-essay/)

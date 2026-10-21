@@ -14,7 +14,7 @@ Drawing on Misesian and Hayekian insights on distributed knowledge, these essays
 
 - [Efficiency Without Differentiation Is Movement Without Existence](../../posts/efficiency-without-differentiation/)
 - [AI Won't Kill Software Engineering—It Will Expand It](../../posts/ai-wont-kill-software-engineering/)
-- [Fate Loves Irony: Production Creates Its Own Ideological Consumption](../../posts/fate-loves-irony-refined/)
+- [生产创造自己的意识形态消费 / Production Creates Its Own Ideological Consumption](../../posts/fate-loves-irony-refined/)
 - [When Abundance Looks Like Scarcity](../../posts/when-abundance-looks-like-scarcity/)
 - [The Measurement Lag](../../posts/intelligence-crisis-response/)
 - [Humans, Tokens, and the Scope of Valuation](../../posts/humans-tokens-and-the-scope-of-valuation/)

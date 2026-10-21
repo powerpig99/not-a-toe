@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T08:10:02.468Z",
+    "generated_at": "2026-10-21T08:24:10.841Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -80,7 +80,7 @@
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "d465dbb1da43",
       "content/posts/failure-as-information.md": "98ca1f79bd34",
-      "content/posts/fate-loves-irony-refined.md": "b81c7f96dfd5",
+      "content/posts/fate-loves-irony-refined.md": "4173eb2feff2",
       "content/posts/felt-resistance-and-the-speed-differential.md": "7c688ab6bc0e",
       "content/posts/fidelity-not-optimality.md": "7ed073d86a59",
       "content/posts/fixed-by-nothing.md": "9f5437174a82",
@@ -157,7 +157,7 @@
       "content/posts/po-chu-gai-nian-de-jian-yue.md": "9e0e605cb8a2",
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "299f7c1a0a76",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "9eed356d140c",
-      "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "df89e1c033a5",
+      "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "ecf75d7d8689",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "388594883a11",
       "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "d87ddb2eef07",
       "content/posts/price-as-utterance-understanding-as-trade.md": "09732d7116b8",
@@ -168,7 +168,7 @@
       "content/posts/reality-doesnt-invoice-by-committee.md": "e577ce5f5f88",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "6602a836102e",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "f5b5bfd04362",
-      "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "f85879109b9b",
+      "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "26be0b89022e",
       "content/posts/residual-control-recedes-to-the-edge.md": "9870cbc6f3a4",
       "content/posts/residual-individualism.md": "445518af80f8",
       "content/posts/restriction-is-a-selective-tax.md": "c6a8d3b34966",
@@ -201,7 +201,7 @@
       "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md": "7079fc4d9f85",
       "content/posts/the-bank-shot-and-the-magic-trick.md": "fc402ee12141",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "2dba3585eee1",
-      "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "b52ca2cdd064",
+      "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "181a1e9ba371",
       "content/posts/the-blind-spot-of-the-frame.md": "58380de3c7fd",
       "content/posts/the-boundary-crossing-of-choice.md": "5725ac2013bd",
       "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "2f3a0106f008",
@@ -254,7 +254,7 @@
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "85b7537a168f",
       "content/posts/the-generative-topology-of-free-variables.md": "baffb2e6acd8",
       "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "15b9e01b6512",
-      "content/posts/the-geometry-of-emergence.md": "83486d0d6ee3",
+      "content/posts/the-geometry-of-emergence.md": "a42d5b545360",
       "content/posts/the-geometry-of-mind.md": "3d0ba4f53d48",
       "content/posts/the-geometry-of-success.md": "546c4a0dba71",
       "content/posts/the-geometry-of-the-cut.md": "ae41a43f7e1a",
@@ -270,7 +270,7 @@
       "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "b7b2393f3606",
       "content/posts/the-illusion-of-the-unmediated.md": "a5c1d555a98a",
       "content/posts/the-imagining-of-ai-risk.md": "06a93ab32a22",
-      "content/posts/the-initial-distinction.md": "fb8bcede093f",
+      "content/posts/the-initial-distinction.md": "597771bb1303",
       "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md": "17c508560e06",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
       "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "5db081fa7c26",
@@ -280,10 +280,10 @@
       "content/posts/the-invisible-gods-eye.md": "2cd4107ca030",
       "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "056a21f2e1a9",
       "content/posts/the-irreducible-observer.md": "128d5b8534dd",
-      "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "247a3d936241",
+      "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "883cbb67e220",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "ff064e746f65",
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "e2c53537d905",
-      "content/posts/the-ledger-of-the-unencountered.md": "8932d526bdcc",
+      "content/posts/the-ledger-of-the-unencountered.md": "7cc479153e27",
       "content/posts/the-limitation-is-doing-work.md": "d9e53e47a265",
       "content/posts/the-living-context.md": "0603cd0d3ea2",
       "content/posts/the-local-trap-of-technological-change.md": "64ebb0eae126",
@@ -296,7 +296,7 @@
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "71b2a3b0537b",
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "92606376f487",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "db7cf6705972",
-      "content/posts/the-mirage-of-the-infinite-totality.md": "591249e563df",
+      "content/posts/the-mirage-of-the-infinite-totality.md": "af31e57b481f",
       "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "dacbb91b8d8d",
       "content/posts/the-mirror-handshake-of-power.md": "d87437fc547d",
       "content/posts/the-misallocation-of-agency.md": "b921b7fb3528",
@@ -307,7 +307,7 @@
       "content/posts/the-name-revolution-files-a-life-as-evidence.md": "0005b5557300",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "d580075b6d35",
       "content/posts/the-npc-impression-is-structural.md": "42db1320fcc9",
-      "content/posts/the-observational-cut-in-ai-debates.md": "4c40a00e0ba9",
+      "content/posts/the-observational-cut-in-ai-debates.md": "67d1a12b9dca",
       "content/posts/the-only-coherent-uncaused-effect.md": "8e828e808896",
       "content/posts/the-open-question-is-determinisms-demand.md": "f1804fe05d79",
       "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "60c3d0411af1",
@@ -341,7 +341,7 @@
       "content/posts/the-scaffolding-we-forget.md": "dcb1dbc7b64f",
       "content/posts/the-scaling-loop.md": "01f561084635",
       "content/posts/the-self-portrait-in-the-projection.md": "27746027176f",
-      "content/posts/the-shadow-and-the-infinite.md": "f857f118c0ae",
+      "content/posts/the-shadow-and-the-infinite.md": "c39730290699",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "9dc84d6394f6",
       "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "1dbcf1da600a",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "c2d1d681f444",
@@ -395,7 +395,7 @@
       "content/posts/writing-without-the-image.md": "e3d031867578",
       "content/posts/xian-shi-de-bian-jie.md": "2c30017f1800",
       "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "f4334d8f6b04",
-      "content/posts/you-cant-benchmark-the-fluid.md": "5e3f42fa5041",
+      "content/posts/you-cant-benchmark-the-fluid.md": "1bebd37668bc",
       "content/posts/you-tiao-jian-de-zi-you.md": "951537534f9e",
       "content/posts/you-wu-zhi-bian.md": "70bb215a86a7",
       "content/posts/your-codebase-is-memory.md": "4a4689dd4a10",
@@ -407,9 +407,9 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "ac686192b927",
       "content/book/causality.md": "cedfa893014c",
       "content/book/consciousness.md": "d8595aa6097d",
-      "content/book/economics.md": "c863f3bd1a44",
-      "content/book/index-of-premises.md": "d3803c5ef5d9",
-      "content/book/intelligence.md": "8530f0e466c0",
+      "content/book/economics.md": "c254ddfa5803",
+      "content/book/index-of-premises.md": "7c664904fd5e",
+      "content/book/intelligence.md": "f896d0850c32",
       "content/book/knowledge-and-learning.md": "51d92651b2ed",
       "content/book/life-and-statistics.md": "903bd0f56d99",
       "content/book/mathematics.md": "511585102871",
@@ -424,10 +424,10 @@
     },
     "stats": {
       "posts": 397,
-      "edges": 10344,
-      "unique_directed": 5104,
+      "edges": 10379,
+      "unique_directed": 5116,
       "missing_targets": 0,
-      "one_way": 622,
+      "one_way": 634,
       "isolated": 35,
       "posts_with_outbound": 361,
       "book_pages": 16,
@@ -438,7 +438,7 @@
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 272
+      "in_degree": 284
     },
     {
       "slug": "beyond-the-projection",
@@ -2455,11 +2455,12 @@
       "kind": "post",
       "slug": "fate-loves-irony-refined",
       "path": "content/posts/fate-loves-irony-refined.md",
-      "title": "Fate Loves Irony: Production Creates Its Own Ideological Consumption",
-      "hash": "b81c7f96dfd5",
+      "title": "生产创造自己的意识形态消费 / Production Creates Its Own Ideological Consumption",
+      "hash": "4173eb2feff2",
       "in_degree": 5,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
+        "your-codebase-is-memory",
         "individual-choices-as-the-only-causal-levers",
         "public-spending-does-not-create-capital",
         "the-myth-of-population-collapse-explained",
@@ -4505,15 +4506,16 @@
       "slug": "power-law-is-the-long-term-consequence-of-normal-distribution",
       "path": "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md",
       "title": "幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution",
-      "hash": "df89e1c033a5",
+      "hash": "ecf75d7d8689",
       "in_degree": 6,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "ownership-and-self-worthiness",
         "failure-as-information",
         "guan-yu-gui-yin",
         "mi-lv-shi-jie-guo-de-biao-xiang",
-        "closed-assumptions-squeeze-compounding-into-s-curves"
+        "closed-assumptions-squeeze-compounding-into-s-curves",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -4807,15 +4809,16 @@
       "slug": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
       "path": "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md",
       "title": "人生是一个持续的自我迭代过程 / Life as a Continuous Process of Self-Iteration",
-      "hash": "f85879109b9b",
+      "hash": "26be0b89022e",
       "in_degree": 5,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "how-to-fix-your-whole-life-in-one-split-second",
         "guan-yu-gui-yin",
         "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
         "mei-you-pu-du-zhi-you-zi-du",
-        "the-brain-does-not-backprop"
+        "the-brain-does-not-backprop",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -5707,16 +5710,17 @@
       "slug": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
       "path": "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md",
       "title": "黑白采样帧与外推宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe",
-      "hash": "b52ca2cdd064",
+      "hash": "181a1e9ba371",
       "in_degree": 6,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "the-twin-paradox-and-the-hidden-observer",
         "the-illusion-of-the-shared-sandbox",
         "time-is-causality-not-a-dimension",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "the-continuum-is-a-modeling-convenience",
-        "when-electrons-think"
+        "when-electrons-think",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -6913,15 +6917,16 @@
       "slug": "the-geometry-of-emergence",
       "path": "content/posts/the-geometry-of-emergence.md",
       "title": "涌现的几何学 / The Geometry of Emergence",
-      "hash": "83486d0d6ee3",
+      "hash": "a42d5b545360",
       "in_degree": 5,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "complexity-obscures-emergence-as-the-act-of-mind",
         "the-cut-moves-but-never-vanishes",
         "the-three-shadows-of-the-cut",
         "the-other-coherence",
         "the-generative-atlas-of-macroscopic-phenomena",
+        "your-codebase-is-memory",
         "time-is-causality-not-a-dimension"
       ]
     },
@@ -7274,16 +7279,17 @@
       "slug": "the-initial-distinction",
       "path": "content/posts/the-initial-distinction.md",
       "title": "最初的区分 / The Initial Distinction",
-      "hash": "fb8bcede093f",
+      "hash": "597771bb1303",
       "in_degree": 5,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
         "beyond-the-projection",
         "how-belief-actually-changes",
         "du-zhongwen-zhexue-jianshi-you-gan",
         "help-is-half-the-problem",
-        "openness-is-consistency"
+        "openness-is-consistency",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -7486,15 +7492,16 @@
       "slug": "the-irreducible-prior-of-decision-and-consequence",
       "path": "content/posts/the-irreducible-prior-of-decision-and-consequence.md",
       "title": "决策与后果的不可约先验 / The Irreducible Prior of Decision and Consequence",
-      "hash": "247a3d936241",
+      "hash": "883cbb67e220",
       "in_degree": 7,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "ownership-and-self-worthiness",
         "qian-yin-hou-guo",
         "sowell-observed-the-surface-problem",
         "the-knowledge-problem-and-the-illusion-of-delegation",
         "individual-choices-as-the-only-causal-levers",
+        "your-codebase-is-memory",
         "public-spending-does-not-create-capital"
       ]
     },
@@ -7549,13 +7556,14 @@
       "slug": "the-ledger-of-the-unencountered",
       "path": "content/posts/the-ledger-of-the-unencountered.md",
       "title": "未被遭遇之物的账本 / The Ledger of the Unencountered",
-      "hash": "8932d526bdcc",
+      "hash": "7cc479153e27",
       "in_degree": 7,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "the-irreducible-observer",
         "no-outside-scorekeeper",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+        "your-codebase-is-memory",
         "the-category-error-of-better",
         "agency-relocated-into-the-formal-model",
         "abstract-pain-and-living-hunger"
@@ -7792,16 +7800,17 @@
       "slug": "the-mirage-of-the-infinite-totality",
       "path": "content/posts/the-mirage-of-the-infinite-totality.md",
       "title": "无穷总体的海市蜃楼 / The Mirage of the Infinite Totality",
-      "hash": "591249e563df",
+      "hash": "af31e57b481f",
       "in_degree": 5,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "the-geometry-of-mind",
         "the-other-coherence",
         "why-mathematics-can-never-be-solved",
         "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
         "the-bank-shot-and-the-magic-trick",
-        "the-boundary-of-the-frame"
+        "the-boundary-of-the-frame",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -8077,14 +8086,15 @@
       "slug": "the-observational-cut-in-ai-debates",
       "path": "content/posts/the-observational-cut-in-ai-debates.md",
       "title": "AI 争论中的观察划界 / The Observational Cut in AI Debates",
-      "hash": "4c40a00e0ba9",
+      "hash": "67d1a12b9dca",
       "in_degree": 6,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "the-question-that-installs-the-war",
         "why-explanation-fails",
         "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
         "the-risk-is-the-belief-in-oversight-itself",
+        "your-codebase-is-memory",
         "agi-and-asi-are-temporary-goalposts",
         "the-distant-silhouette-and-the-inventory-from-nowhere"
       ]
@@ -8982,11 +8992,12 @@
       "slug": "the-shadow-and-the-infinite",
       "path": "content/posts/the-shadow-and-the-infinite.md",
       "title": "阴影与无限 / The Shadow and the Infinite",
-      "hash": "f857f118c0ae",
+      "hash": "c39730290699",
       "in_degree": 6,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "the-asymmetry-of-understanding",
+        "your-codebase-is-memory",
         "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
         "the-invisible-gods-eye",
         "the-reversal-of-education-and-science",
@@ -10248,11 +10259,12 @@
       "kind": "post",
       "slug": "you-cant-benchmark-the-fluid",
       "path": "content/posts/you-cant-benchmark-the-fluid.md",
-      "title": "You Can't Benchmark the Fluid",
-      "hash": "5e3f42fa5041",
+      "title": "流动之物无法被基准衡量 / You Can't Benchmark the Fluid",
+      "hash": "1bebd37668bc",
       "in_degree": 6,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
+        "your-codebase-is-memory",
         "why-mathematics-can-never-be-solved",
         "the-non-definitive-definition-of-intelligence",
         "escaping-the-sandbox-stays-inside-the-hold",
@@ -10304,7 +10316,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 272,
+      "in_degree": 284,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -22132,6 +22144,24 @@
     },
     {
       "from": "fate-loves-irony-refined",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "fate-loves-irony-refined",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "fate-loves-irony-refined",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "fate-loves-irony-refined",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual Choices as the Only Causal Levers"
@@ -22140,25 +22170,49 @@
       "from": "fate-loves-irony-refined",
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
-      "label": "Public spending does not create capital"
+      "label": "公共支出不创造资本"
     },
     {
       "from": "fate-loves-irony-refined",
       "to": "the-myth-of-population-collapse-explained",
       "rel": "points_to",
-      "label": "The myth of population collapse explained"
+      "label": "人口崩溃神话的拆解"
     },
     {
       "from": "fate-loves-irony-refined",
       "to": "pessimism-is-the-shadow-of-optimism",
       "rel": "points_to",
-      "label": "Pessimism is the shadow of optimism"
+      "label": "悲观是乐观的阴影"
+    },
+    {
+      "from": "fate-loves-irony-refined",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public Spending Does Not Create Capital"
+    },
+    {
+      "from": "fate-loves-irony-refined",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "The Myth of Population Collapse Explained"
+    },
+    {
+      "from": "fate-loves-irony-refined",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism Is the Shadow of Optimism"
     },
     {
       "from": "fate-loves-irony-refined",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, Consumption, and the Mind’s Distinction"
+      "label": "生产、消费与心智的区分"
+    },
+    {
+      "from": "fate-loves-irony-refined",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, Consumption, and the Mind's Distinction"
     },
     {
       "from": "felt-resistance-and-the-speed-differential",
@@ -35859,6 +35913,18 @@
       "label": "Closed Assumptions Squeeze Compounding into S-Curves"
     },
     {
+      "from": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
@@ -37888,9 +37954,21 @@
     },
     {
       "from": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
       "to": "the-brain-does-not-backprop",
       "rel": "points_to",
       "label": "The Brain Does Not Backprop, but Propagates"
+    },
+    {
+      "from": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "residual-control-recedes-to-the-edge",
@@ -43645,6 +43723,18 @@
       "to": "when-electrons-think",
       "rel": "points_to",
       "label": "When Electrons Think"
+    },
+    {
+      "from": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-blind-spot-of-the-frame",
@@ -50602,6 +50692,18 @@
     },
     {
       "from": "the-geometry-of-emergence",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-geometry-of-emergence",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-geometry-of-emergence",
       "to": "time-is-causality-not-a-dimension",
       "rel": "points_to",
       "label": "时间是因果的不可逆方向与离散步长"
@@ -52744,9 +52846,21 @@
     },
     {
       "from": "the-initial-distinction",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-initial-distinction",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-initial-distinction",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
@@ -53908,6 +54022,12 @@
     },
     {
       "from": "the-irreducible-prior-of-decision-and-consequence",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-irreducible-prior-of-decision-and-consequence",
       "to": "sowell-observed-the-surface-problem",
       "rel": "points_to",
       "label": "Sowell Observed the Surface Problem"
@@ -53923,6 +54043,12 @@
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-irreducible-prior-of-decision-and-consequence",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-irreducible-prior-of-decision-and-consequence",
@@ -54228,7 +54354,7 @@
       "from": "the-ledger-of-the-unencountered",
       "to": "the-irreducible-observer",
       "rel": "points_to",
-      "label": "the-irreducible-observer"
+      "label": "The Irreducible Observer"
     },
     {
       "from": "the-ledger-of-the-unencountered",
@@ -54244,9 +54370,21 @@
     },
     {
       "from": "the-ledger-of-the-unencountered",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-ledger-of-the-unencountered",
       "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
       "rel": "points_to",
-      "label": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop"
+      "label": "The Inversion of the Protocol and the Silencing of the Causal Loop"
+    },
+    {
+      "from": "the-ledger-of-the-unencountered",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-ledger-of-the-unencountered",
@@ -55369,6 +55507,18 @@
       "to": "the-boundary-of-the-frame",
       "rel": "points_to",
       "label": "The Boundary of the Frame"
+    },
+    {
+      "from": "the-mirage-of-the-infinite-totality",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-mirage-of-the-infinite-totality",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
@@ -57196,6 +57346,12 @@
     },
     {
       "from": "the-observational-cut-in-ai-debates",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-observational-cut-in-ai-debates",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
       "label": "AGI 与 ASI 是加速通用智能的暂时球门"
@@ -57205,6 +57361,12 @@
       "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
       "rel": "points_to",
       "label": "远方的轮廓与无处之境的清单"
+    },
+    {
+      "from": "the-observational-cut-in-ai-debates",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-observational-cut-in-ai-debates",
@@ -63286,15 +63448,27 @@
     },
     {
       "from": "the-shadow-and-the-infinite",
-      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "your-codebase-is-memory",
       "rel": "points_to",
-      "label": "潜在无限与数学思维的暂态闭合"
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-shadow-and-the-infinite",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-shadow-and-the-infinite",
       "to": "the-asymmetry-of-understanding",
       "rel": "points_to",
       "label": "The Asymmetry of Understanding"
+    },
+    {
+      "from": "the-shadow-and-the-infinite",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "潜在无限与数学思维的暂态闭合"
     },
     {
       "from": "the-shadow-and-the-infinite",
@@ -63310,15 +63484,15 @@
     },
     {
       "from": "the-shadow-and-the-infinite",
-      "to": "the-reversal-of-education-and-science",
-      "rel": "points_to",
-      "label": "教育与科学的倒置"
-    },
-    {
-      "from": "the-shadow-and-the-infinite",
       "to": "the-invisible-gods-eye",
       "rel": "points_to",
       "label": "The Invisible God's Eye"
+    },
+    {
+      "from": "the-shadow-and-the-infinite",
+      "to": "the-reversal-of-education-and-science",
+      "rel": "points_to",
+      "label": "教育与科学的倒置"
     },
     {
       "from": "the-shadow-and-the-infinite",
@@ -71314,9 +71488,33 @@
     },
     {
       "from": "you-cant-benchmark-the-fluid",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "you-cant-benchmark-the-fluid",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "you-cant-benchmark-the-fluid",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "为何数学永远解不完"
+    },
+    {
+      "from": "you-cant-benchmark-the-fluid",
       "to": "why-mathematics-can-never-be-solved",
       "rel": "points_to",
       "label": "Why Mathematics Can Never Be Solved"
+    },
+    {
+      "from": "you-cant-benchmark-the-fluid",
+      "to": "the-non-definitive-definition-of-intelligence",
+      "rel": "points_to",
+      "label": "智能的非定论定义"
     },
     {
       "from": "you-cant-benchmark-the-fluid",
@@ -71328,25 +71526,49 @@
       "from": "you-cant-benchmark-the-fluid",
       "to": "escaping-the-sandbox-stays-inside-the-hold",
       "rel": "points_to",
-      "label": "Escaping the sandbox stays inside the hold"
+      "label": "逃出沙箱仍在持握之内"
     },
     {
       "from": "you-cant-benchmark-the-fluid",
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
-      "label": "Mistaking the expression for the intelligence"
+      "label": "错把表达当成智能"
     },
     {
       "from": "you-cant-benchmark-the-fluid",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, boundaries, and the moving edge of reality"
+      "label": "抽象、边界与现实的移动边缘"
     },
     {
       "from": "you-cant-benchmark-the-fluid",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem"
+      "label": "基准刷榜中的封闭实存"
+    },
+    {
+      "from": "you-cant-benchmark-the-fluid",
+      "to": "escaping-the-sandbox-stays-inside-the-hold",
+      "rel": "points_to",
+      "label": "Escaping the Sandbox Stays Inside the Hold"
+    },
+    {
+      "from": "you-cant-benchmark-the-fluid",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the Expression for the Intelligence"
+    },
+    {
+      "from": "you-cant-benchmark-the-fluid",
+      "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "rel": "points_to",
+      "label": "Abstraction Boundaries and the Moving Edge of Reality"
+    },
+    {
+      "from": "you-cant-benchmark-the-fluid",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing"
     },
     {
       "from": "you-tiao-jian-de-zi-you",
@@ -72563,7 +72785,7 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "c863f3bd1a44",
+        "hash": "c254ddfa5803",
         "out_degree": 28
       },
       {
@@ -72572,7 +72794,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "d3803c5ef5d9",
+        "hash": "7c664904fd5e",
         "out_degree": 397
       },
       {
@@ -72581,7 +72803,7 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "8530f0e466c0",
+        "hash": "f896d0850c32",
         "out_degree": 48
       },
       {
@@ -73133,7 +73355,7 @@
         "from": "book:economics",
         "to": "fate-loves-irony-refined",
         "rel": "collects",
-        "label": "Fate Loves Irony: Production Creates Its Own Ideological Consumption"
+        "label": "生产创造自己的意识形态消费 / Production Creates Its Own Ideological Consumption"
       },
       {
         "from": "book:economics",
@@ -74651,7 +74873,7 @@
         "from": "book:index-of-premises",
         "to": "fate-loves-irony-refined",
         "rel": "collects",
-        "label": "Fate Loves Irony: Production Creates Its Own Ideological Consumption"
+        "label": "生产创造自己的意识形态消费 / Production Creates Its Own Ideological Consumption"
       },
       {
         "from": "book:index-of-premises",
@@ -76823,7 +77045,7 @@
         "from": "book:index-of-premises",
         "to": "you-cant-benchmark-the-fluid",
         "rel": "collects",
-        "label": "You Can't Benchmark the Fluid"
+        "label": "流动之物无法被基准衡量 / You Can't Benchmark the Fluid"
       },
       {
         "from": "book:index-of-premises",
@@ -77537,7 +77759,7 @@
         "from": "book:intelligence",
         "to": "you-cant-benchmark-the-fluid",
         "rel": "collects",
-        "label": "You Can't Benchmark the Fluid"
+        "label": "流动之物无法被基准衡量 / You Can't Benchmark the Fluid"
       },
       {
         "from": "book:intelligence",

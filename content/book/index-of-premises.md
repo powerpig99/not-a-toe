@@ -1536,7 +1536,7 @@ Epistemology questions whether one can prove others possess consciousness; the p
 
 Economic narratives assume production serves survival needs; once basic goods reach abundance, economies manufacture ideological narratives to absorb surplus energy.
 
-→ [Fate Loves Irony: Production Creates Its Own Ideological Consumption](../../posts/fate-loves-irony-refined/)
+→ [生产创造自己的意识形态消费 / Production Creates Its Own Ideological Consumption](../../posts/fate-loves-irony-refined/)
 
 ### 理性选择理论 / Rational Choice Theory
 `经济 / Economic`
@@ -4400,7 +4400,7 @@ The demand that the state protect rights entrusts the guarantee of freedom to a 
 
 Benchmark suites assume standardized question sets measure generalized fluid intellect; static tests measure pattern match against historical distributions.
 
-→ [You Can't Benchmark the Fluid](../../posts/you-cant-benchmark-the-fluid/) · [独见者的自反困境与必然性的后验投射 / The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity](../../posts/the-reflexive-dilemma-of-unique-insight/)
+→ [流动之物无法被基准衡量 / You Can't Benchmark the Fluid](../../posts/you-cant-benchmark-the-fluid/) · [独见者的自反困境与必然性的后验投射 / The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity](../../posts/the-reflexive-dilemma-of-unique-insight/)
 
 ### 静态AI代理分工框架 / Static AI Delegation Frame
 `技术 / Technological`

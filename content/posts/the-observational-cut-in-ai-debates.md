@@ -26,7 +26,7 @@ What then gets called debate is a further hold: the cut creates the coordinates,
 
 Price trajectories of frontier models move on several scales at once. Inference costs fall while the marginal cost of the next training run that advances the frontier can rise. A reading that privileges the inference segment registers "cheaper"; a reading that privileges the frontier-training segment registers "more expensive."
 
-同样的划界在推理内部重复。单位成本可以下降而总支出上升，因为更便宜的单位把可触及的市场扩大了相近的倍数：采用增加，用量增加，即使一个 token 或一次调用的价格下降，推理的总支出仍可增加。偏重单价的读法登记为“更便宜”，偏重总支出的读法登记为“更贵”。两种移动都在同一个序列里；二元只在先选定一段、再选定一个计量单位当作整体之后才出现。
+同样的划界在推理内部重复。单位成本可以下降而总支出上升，因为更便宜的单位把可触及的市场扩大了相近的倍数：采用增加，用量增加，即使单个词元或单次调用的价格下降，推理的总支出仍可增加。偏重单价的读法登记为“更便宜”，偏重总支出的读法登记为“更贵”。两种移动都在同一个序列里；二元只在先选定一段、再选定一个计量单位当作整体之后才出现。
 
 The same cut repeats inside inference. Unit cost can drop while total spend rises, because the cheaper unit expands the addressable market by a similar factor: adoption rises, volume rises, and aggregate inference spending can increase even as the price of a token or a call falls. A reading that privileges unit price registers "cheaper"; a reading that privileges total spend registers "more expensive." Both movements are in the same sequence. The binary appears only after one segment, and then one unit of account, has been selected as the whole.
 
@@ -46,7 +46,7 @@ The same cut repeats in how an organization is related to the use. Where AI is h
 
 The distance between frontier and open-source systems is multidimensional: latency, reliability under distribution shift, specialized capability, cost structure, surface for governance. Movement on any one dimension can occur while others stay stable or reverse. Treating the distance as a single scalar that either shrinks or widens compresses those dimensions into one axis, and progress or regression on that scalar becomes the only legible claim.
 
-同样的划界在观察者所站的位置上重复。对一个自己的视野已经落在前沿之后的观察者来说，原始的前沿与仍在追赶它的那些系统都落在地平线之外，两者登记为一样，差距看起来已经闭合。对一个跟得上原始前沿的观察者来说，差距一目了然。对一个把自己持为最前沿的观察者来说，其余所有人都登记为正在落后。缩小与扩大不是关于同一段距离的两个事实，而是同一种观看的三个站位，每一个都把自己的地平线当成了整个场域。
+同样的划界在观察者所站的位置上重复。对自身视野已经落在前沿之后的观察者来说，原始的前沿与仍在追赶它的那些系统都落在地平线之外，两者登记为一样，差距看起来已经闭合。对一个跟得上原始前沿的观察者来说，差距一目了然。对一个把自己持为最前沿的观察者来说，其余所有人都登记为正在落后。缩小与扩大不是关于同一段距离的两个事实，而是同一种观看的三个站位，每一个都把自己的地平线当成了整个场域。
 
 The same cut repeats in where the observer stands. For an observer whose own horizon already lies behind the frontier, both the raw frontier and those still trying to catch it lie beyond the horizon; the two register as the same, and the gap appears closed. For an observer keeping up with the raw frontier, the gap is obvious. For an observer that holds itself as the forefront, everyone else registers as falling behind. Shrink and widen are not two facts about one distance; they are three standpoints of the same look, each treating its own horizon as the whole field.
 
@@ -80,7 +80,7 @@ The demand to detect and regulate others arises from a look that is already behi
 
 Capability thresholds labeled AGI or ASI are continuous distributions measured against a retained reference that itself keeps moving. "In sight" and "unachievable" name the width of the gap at a given step, not two possible states of an external trajectory.
 
-这个配对取决于那个定义性的能力是否被持为固定。若它被持为超出当前能力、却又固定不动的东西，加速的能力由这种持法本身就会达到并超过它：清单静止，而序列在复利。若它被持为后退的地平线，同样的加速就永远到不了：每一次增益都把清单画得更远。地平线在后退。临近与不可及不是对同一条终点线的两种预测，而是对清单的两种持有，固定或后退，被当成了一场关于抵达的争论。[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)追的是装扮成门槛的那份后退的清单：每一个定义都永远处在画出它的那道边缘之前。[远方的轮廓与无处之境的清单](../the-distant-silhouette-and-the-inventory-from-nowhere/)追的是装扮成距离的同一份清单：距离把不同的结构模糊成一条轮廓，而靠近时恢复的分辨率，被误判为挪动了球门。
+这个配对取决于那个定义性的能力是否被持为固定。若它被持为超出当前能力、却又固定不动的东西，加速的能力由这种持法本身就会达到并超过它：清单静止，而序列在复利，因为正如[你的代码库即是记忆](../your-codebase-is-memory/)所揭示的，任何既定的基准或规格清单都只是过往区分留下的外化记忆。若它被持为后退的地平线，同样的加速就永远到不了：每一次增益都把清单画得更远。地平线在后退。临近与不可及不是对同一条终点线的两种预测，而是对清单的两种持有，固定或后退，被当成了一场关于抵达的争论。[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)追的是装扮成门槛的那份后退的清单：每一个定义都永远处在画出它的那道边缘之前。[远方的轮廓与无处之境的清单](../the-distant-silhouette-and-the-inventory-from-nowhere/)追的是装扮成距离的同一份清单：距离把不同的结构模糊成一条轮廓，而靠近时恢复的分辨率，被误判为挪动了球门。
 
 ```mermaid
 flowchart TD
@@ -106,7 +106,7 @@ flowchart TD
     style Open fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The pairing depends on whether the defining capability is held as fixed. Held as something beyond present ability and yet fixed, it is reached and surpassed by accelerating capability by the way it is held: the inventory stays still while the sequence compounds. Held as a receding horizon, it is never arrived at by the same acceleration: each gain redraws the inventory farther out. The horizon recedes. Near and unreachable are not two forecasts of one finish line; they are two holdings of the inventory, fixed or receding, treated as a debate about arrival. [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/) traces that receding inventory dressed as a threshold: each definition sits forever ahead of the edge that draws it. [The Distant Silhouette and the Inventory from Nowhere](../the-distant-silhouette-and-the-inventory-from-nowhere/) traces the same inventory dressed as distance: distance blurs distinct structures into a single contour, and the resolution restored by proximity is misjudged as moving the goalposts.
+The pairing depends on whether the defining capability is held as fixed. Held as something beyond present ability and yet fixed, it is reached and surpassed by accelerating capability by the way it is held: because [Your Codebase Is Memory](../your-codebase-is-memory/)—every benchmark, specification, or codebase is an externalized residue of distinctions already drawn—the fixed inventory stays still while the self-distinguishing sequence at the steering edge compounds past it. Held as a receding horizon, it is never arrived at by the same acceleration: each gain redraws the inventory farther out. The horizon recedes. Near and unreachable are not two forecasts of one finish line; they are two holdings of the inventory, fixed or receding, treated as a debate about arrival. [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/) traces that receding inventory dressed as a threshold: each definition sits forever ahead of the edge that draws it. [The Distant Silhouette and the Inventory from Nowhere](../the-distant-silhouette-and-the-inventory-from-nowhere/) traces the same inventory dressed as distance: distance blurs distinct structures into a single contour, and the resolution restored by proximity is misjudged as moving the goalposts.
 
 ```mermaid
 flowchart TD

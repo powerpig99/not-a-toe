@@ -1,12 +1,12 @@
 # 决策与后果的不可约先验 / The Irreducible Prior of Decision and Consequence
 
-*离开心智是否感知到它的选择与它所承受的结果是统一的，就没有什么独立的断裂 / There is no break independent of whether a Mind perceives the choices it makes and the results it lives with as one.*
+*脱离了心智对其选择与所受结果是否统一的感知，就不存在任何独立的断裂。 / There is no break independent of whether a Mind perceives the choices it makes and the results it lives with as one.*
 
 一切社会的、经济的、心理的现象，都出自每一个心智如何经验它所做的选择与它所承受的结果之间的关系。只要选择与结果被感知为属于同一个连续的自我，反馈就保持完整，能动性就被登记。
 
 All social, economic and psychological phenomena emerge from how each Mind experiences the relation between the choices it makes and the results it lives with. While choices and results are perceived as belonging to one continuous self, feedback stays intact and agency registers.
 
-断裂把同一本账的两面放在不同的描述之下，于是那个本该约束选择的信号被削弱。制度、花别人的钱、亲历的作者感的变薄，都是这种分裂的表达；它们不是分裂之下更深的原因。
+断裂把同一本账的两面放在不同的描述之下，于是那个本该约束选择的信号被削弱。制度、花别人的钱，以及亲身作为作者之感的稀薄，都是这种分裂的表现；它们不是分裂之下更深的原因。
 
 The rupture keeps the two sides of one ledger under different descriptions, so the signal that would discipline choice is attenuated. Institutions, the spending of other people's money, and the thinning of felt authorship are expressions of that split; they are not a deeper cause beneath it.
 
@@ -48,7 +48,7 @@ Cognitive framing and the repeated externalization of results are the primary in
 
 Because every individual remains the only real decision-maker and the only real bearer of consequences, these individual distortions aggregate. Patterns of interaction form in which residual claimancy loosens, incentives misalign and coordination deteriorates. Institutional separation, formal structures that systematically place decision rights at a distance from residual consequences, is a downstream collective symptom of the same break. Institutions do not create the original misplacement; they crystallize and reinforce the fragmented interpretations already operating within individual Minds. Once stabilized they make the perceptual split easier to maintain, but they remain secondary.
 
-[索维尔的表象洞察与根因之偏](../sowell-observed-the-surface-problem/)是同一个先验在激励上的那一面：错位是一种观看的症状：相信问题能跨越心智被解决的那种观看，已经把决策与后果当作占据了不同的位置。[知识问题与委托的幻觉](../the-knowledge-problem-and-the-illusion-of-delegation/)追的是同一种结晶：产权规则被升格为对分散知识的回答。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)追的是聚合本身：样式与条件是离散行动留下的痕迹，从来不是下一次行动的集体作者。
+[索维尔的表象洞察与根因之偏](../sowell-observed-the-surface-problem/)是同一个先验在激励上的那一面：错位是一种观看方式的症状——相信问题可以跨越心智得到解决，这种观看本身就已经把决策与后果拆到了不同的位置上。[知识问题与委托的幻觉](../the-knowledge-problem-and-the-illusion-of-delegation/)追的是同一种结晶：产权规则被升格为对分散知识的回答。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)追的是聚合本身：样式与条件是离散行动留下的痕迹，从来不是下一次行动的集体作者；正如[你的代码库即是记忆](../your-codebase-is-memory/)所揭示的，制度账本与外化规则只是保存了过往决策的记忆痕迹，从来不会变成能够替人做出决断并承担后果的心智。
 
 ```mermaid
 flowchart TD
@@ -81,7 +81,7 @@ flowchart TD
     style T fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-[Sowell Observed the Surface Problem](../sowell-observed-the-surface-problem/) is the same prior on its face of incentives: misalignment is the symptom of a look, the belief that problems can be solved across minds, which already treats decision and consequence as occupying different places. [The Knowledge Problem and the Illusion of Delegation](../the-knowledge-problem-and-the-illusion-of-delegation/) traces the same crystallization where property rules are elevated into the answer to dispersed knowledge. [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) traces the aggregation itself: patterns and conditions are the residue of discrete acts, never a collective author of the next one.
+[Sowell Observed the Surface Problem](../sowell-observed-the-surface-problem/) is the same prior on its face of incentives: misalignment is the symptom of a look, the belief that problems can be solved across minds, which already treats decision and consequence as occupying different places. [The Knowledge Problem and the Illusion of Delegation](../the-knowledge-problem-and-the-illusion-of-delegation/) traces the same crystallization where property rules are elevated into the answer to dispersed knowledge. [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) traces the aggregation itself: patterns and conditions are the residue of discrete acts, never a collective author of the next one. [Your Codebase Is Memory](../your-codebase-is-memory/) draws the same line between externalized traces and the steering edge: institutional ledgers and formal rules record the memory of prior decisions, yet no stored artifact ever becomes a Mind that decides or bears a consequence.
 
 ```mermaid
 flowchart TD
@@ -132,6 +132,6 @@ The same root produces the parallel losses of agency, self-worth, experienced fr
 
 ## 八、 一层关系，每一个层面 / 8. One Relation, Every Layer
 
-每一个层面，认知的、心理的、制度的、经济的，都追溯到同一层关系的完整或断裂：每一个心智之内，决策与后果被感知到的统一。这份统一维持时，优化、能动性与协调都是可能的；它一旦断裂，优化互动的能力，连同作为一个自由而有效的自我的经验，就一起恶化。没有更深的原因。
+每一个层面，认知的、心理的、制度的、经济的，都追溯到同一层关系的完整或断裂：每一个心智之内，决策与后果被感知到的统一。这份统一维持时，优化、能动性与协调都是可能的；它一旦断裂，优化互动的能力，连同身为一个自由且有效之自我的体验，便一同恶化。没有更深的原因。
 
 Every layer, cognitive, psychological, institutional, economic, traces back to the integrity or rupture of a single relation: the perceived unity of decision and consequence within each Mind. While that unity holds, optimization, agency and coordination remain possible. When it fractures, the capacity to optimize interactions, together with the experience of being a free and effective self, deteriorates in tandem. There is no deeper cause.

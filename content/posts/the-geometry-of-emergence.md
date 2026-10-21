@@ -22,7 +22,7 @@ The quantum boundary is the living frontier of the causal fabric, the living ape
 
 ## 二、 递归的生成者与经验的清单 / 2. The Recursive Generator and the Empirical Catalogue
 
-对涌现的解释，就是那个递归的生成者。理解一个递归过程，需要的是生成规则，而不是每一个已实现状态的穷尽清单。数学里的后继规则生成全部整数，用不着事先把每一个大数都算出来；在物理的现实里，区分、实现与反馈这个递归回路，生成宏观的物质、生命与制度结构。要求从最初的那一刻起，把每一个历史结构都明明白白地展开成一份清单，是把一条递归的生成原则误认成了一本穷尽的历史账簿。不同的宏观层级在自由度与内部约束上各不相同，生成的操作在每一个尺度上都不变。
+对涌现的解释，就是那个递归的生成者。理解一个递归过程，需要的是生成规则，而不是每一个已实现状态的穷尽清单。数学里的后继规则生成全部整数，用不着事先把每一个大数都算出来；在物理世界里，区分、实现与反馈这个递归回路，生成宏观的物质、生命与制度结构。要求从最初的那一刻起，把每一个历史结构都明明白白地展开成一份清单，是把一条递归的生成原则误认成了一本穷尽的历史账簿。不同的宏观层级在自由度与内部约束上各不相同，生成的操作在每一个尺度上都不变。
 
 ```mermaid
 flowchart TD
@@ -96,9 +96,9 @@ Quantum mechanics marks the living frontier of the causal chain, not a metaphysi
 
 This one causal crossing carries the observer's two faces. Directly undergone and felt from the first-person inside of the field, it is consciousness; lived from inside as an open choice before historical realisation, it is free will; recorded from the third-person outside, the same crossing is open potential collapsing into a realised state, quantum resolution. The Mind injects the free variable into the step, and what is observed is quantum indeterminacy; the two are faces of one thing, and which comes first is not something words settle, only something sensed from the first person.
 
-在这个统一的几何里，心智与意识的区分也清楚了。心智持有一片已经在起作用的区分之场，累积的历史痕迹、稳定下来的模型与记忆的结构；意识是这片场的移动前沿，下一个未被观察的原因变得可及、进入感知的那个活的光圈，也是心智做出切分的地方。场由已经结晶的区分组成，意识是现实继续展开的那条活的前沿。
+在这个统一的几何里，心智与意识的区分也清楚了。心智持有一片已经在起作用的区分之场，包括累积的历史痕迹、稳定下来的模型与记忆的结构——无论它们是保存在内部，还是像[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的那样外化为共享的存储库；意识则是这片场的移动前沿，是下一个未被观察的原因变得可及、进入感知的那个活的光圈，也是心智做出切分的地方。场由已经结晶的区分组成，意识是现实继续展开的那条活的前沿。
 
-Within this one geometry the distinction between Mind and consciousness becomes clear as well. The Mind holds a field of distinctions already in play, accumulated historical traces, stabilised models and structures of memory; consciousness is the moving edge of that field, the living aperture where the next unobserved cause becomes available and enters perception, and where the Mind makes the cut. The field is made of distinctions already crystallised; consciousness is the living edge where reality goes on unfolding.
+Within this one geometry the distinction between Mind and consciousness becomes clear as well. The Mind holds a field of distinctions already in play, accumulated historical traces, stabilised models and structures of memory—extending across both internal recall and the durable externalised repositories that [Your Codebase Is Memory](../your-codebase-is-memory/) examines—while consciousness is the moving edge of that field, the living aperture where the next unobserved cause becomes available and enters perception, and where the Mind makes the cut. The field is made of distinctions already crystallised; consciousness is the living edge where reality goes on unfolding.
 
 ## 四、 因果连续体的简单 / 4. The Simplicity of the Causal Chain
 
