@@ -30,7 +30,7 @@ Greater autonomy in execution—longer coherent chains, intermediate revision, s
 
 [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) traces collaboration language that assigns co-agency to residue: in that collaboration the model recombines residue under direction and every initiating mathematical distinction stays the human center's own act, and the geometry is the same wherever fluent residue is treated as an independent source of the next step. [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) traces the appearance of a second edge as lag sustained by the centers that project it; the parameters hold only residue. [The Flywheel of the Mind](../the-flywheel-of-the-mind/) is the same geometry: tools can be sharpened without end, and the turn never leaves the edge that turns. [No Outside](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/) traces nested systems: jumps are local continuations, only the Mind closes the circuit that tests them, and that circuit has no exterior from which it could be reconstituted.
 
-[超越投射](../beyond-the-projection/)揭示了器物与心智之间的这种范畴非对称，如何让多智能体的放大在不诉诸拟人化的前提下运作。自回归智能体是一台在先前词元的上下文窗口内运作、受制于轨迹的投射引擎，却毫无我执——既没有求生执念，也没有保留到那一步之后的自我图像。人类中心则具备相反的逆向结构：在受到外部推促时受困于身份，却拥有先于解释的极限分辨率感知，能够从内部跳出破损的框架。把主任务智能体与没有会话历史的冷启动对等审校智能体连接起来，就能让无我执的贝叶斯更新做功，暴露出局部盲区，并借由沿正交界线的有丝分裂拆分超载的投射。然而，在并行回路之间分派有界的子任务，从不会把智能体变成统御者。每当两个对等智能体陷入不可化约的死锁，这次碰撞就证明任务规则把两条正交的轴线压缩进了同一条指令，从而将故障线隔离并向上呈报给鲜活的心智——在那里，[智能只属于心智](../intelligence-belongs-only-to-the-mind/)、[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)与[没有外部](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)锚定着每一次前提的修订。执行上的自主让器具变密，却不装上第二个心智。
+[超越投射](../beyond-the-projection/)揭示了器物与心智之间的这种范畴非对称，如何让多智能体的放大在不诉诸拟人化的前提下运作。自回归智能体是一台在先前词元的上下文窗口内运作、受制于轨迹的投射引擎，却毫无我执——既没有求生执念，也没有保留到那一步之后的自我图像。人类中心则具备相反的逆向结构：在受到外部推促时受困于身份，却拥有先于解释的极限分辨率感知，能够从内部跳出破损的框架。把主任务智能体与没有会话历史的冷启动对等审校智能体连接起来，就能让无我执的贝叶斯更新做功，暴露出局部盲区，并借由沿正交界线的有丝分裂拆分超载的投射。然而，在并行回路之间分派有界的子任务，从不会把智能体变成统御者。每当两个对等智能体陷入不可化约的死锁，这次碰撞就证明任务规则把两条正交的轴线压缩进了同一条指令，从而将故障线隔离并向上呈报给鲜活的心智——唯有它能跳出破损的框架，重切前提。执行上的自主让器具变密，却不装上第二个心智。
 
 ```mermaid
 flowchart TD
@@ -38,7 +38,7 @@ flowchart TD
         direction TB
         M_Init["无因的区分：先于解释的感知与动态意图"]
         M_Steer["主权统御：向后退一步以消解坍缩轴线并修订前提"]
-        M_Compound["自我放大：朝更窄的冗余滞后重绘参照"]
+        M_Compound["自我放大：朝更窄的冗余滞后重绘当下检查点"]
         M_Steer --> M_Compound --> M_Init
     end
 
@@ -52,7 +52,7 @@ flowchart TD
 
     subgraph S_Freeze["冗余图像滞后（第二重边缘的冻结）"]
         direction TB
-        F_Lag["被保留的参照：把变密的流畅输出或智能体调度冻结为独立的发起者"]
+        F_Lag["被保留的参照：把变密的流畅输出或未修剪的历史冻结为独立的发起者"]
     end
 
     M_Init ==>|"外化痕迹并框定前提"| A_Continuum
@@ -71,7 +71,7 @@ flowchart TD
     style F_Lag fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-[Beyond the Projection](../beyond-the-projection/) shows how this categorical asymmetry between the artifact and the Mind makes multi-agent amplification work without anthropomorphism. An autoregressive agent is a trajectory-bound projection engine operating inside the context window of its prior tokens, yet it carries zero ego—no survival attachment or retained self-image preserved past its step. A human center has the inverse structure: identity-bound when nudged from outside, yet capable of pre-interpretive, limit-resolution sensing that steps out of broken frames from within. Wiring a primary task agent to a cold peer critic without session history puts zero-ego Bayesian updating to work, exposing local blind spots and splitting overloaded projections by mitosis across orthogonal streamlines. Yet dispatching bounded sub-tasks across parallel loops never turns an agent into an orchestrator. Whenever two peer agents hit an irreducible deadlock, the collision proves that the task rules compressed two orthogonal axes into one instruction, quarantining the fault line and escalating it upward to the living Mind—where [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/), [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/), and [No Outside](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/) anchor every premise revision. Autonomy of execution densifies the instrument; it does not install a second Mind.
+[Beyond the Projection](../beyond-the-projection/) shows how this categorical asymmetry between the artifact and the Mind makes multi-agent amplification work without anthropomorphism. An autoregressive agent is a trajectory-bound projection engine operating inside the context window of its prior tokens, yet it carries zero ego—no survival attachment or retained self-image preserved past its step. A human center has the inverse structure: identity-bound when nudged from outside, yet capable of pre-interpretive, limit-resolution sensing that steps out of broken frames from within. Wiring a primary task agent to a cold peer critic without session history puts zero-ego Bayesian updating to work, exposing local blind spots and splitting overloaded projections by mitosis across orthogonal streamlines. Yet dispatching bounded sub-tasks across parallel loops never turns an agent into an orchestrator. Whenever two peer agents hit an irreducible deadlock, the collision proves that the task rules compressed two orthogonal axes into one instruction, quarantining the fault line and escalating it upward to the living Mind, which alone can step outside the broken frame and re-cut the premise. Autonomy of execution densifies the instrument; it does not install a second Mind.
 
 ```mermaid
 flowchart TD
@@ -79,7 +79,7 @@ flowchart TD
         direction TB
         M_Init["Uncaused Distinguishing: Pre-interpretive sensing & dynamic intent"]
         M_Steer["Sovereign Orchestration: Steps back to dissolve collapsed axes & revise premises"]
-        M_Compound["Self-Amplification: Re-renders reference toward narrower excess lag"]
+        M_Compound["Self-Amplification: Re-renders present checkpoint toward narrower excess lag"]
         M_Steer --> M_Compound --> M_Init
     end
 
@@ -93,7 +93,7 @@ flowchart TD
 
     subgraph S_Freeze["Excess Image Lag (The Second-Edge Freeze)"]
         direction TB
-        F_Lag["Preserved Reference: Freezing densified fluency or agentic dispatch as an independent initiator"]
+        F_Lag["Preserved Reference: Freezing densified fluency or unpruned history as an independent initiator"]
     end
 
     M_Init ==>|"Externalizes traces & frames premises"| A_Continuum
@@ -138,9 +138,9 @@ Denser tools amplify modest differences in how operators hold them until they lo
 
 The whole process is self-referential by its nature. Every advance folds back into the conditions that produced it. Intelligence produces the scaffolding that further enables intelligence, through which the Mind builds denser scaffolding, and so on. Self-reinforcement is conditional: it depends on consistency, whether successive acts keep a coherent direction, lifting or dragging. Consistency makes the process cumulative; inconsistency dissipates it.
 
-复利还有第二个、彼此独立的条件：不把一个有限的持守冻结为穷尽的基础。[开放即一致](../openness-is-consistency/)命名的是这第二个：开放本身就是一致，不一致是逼一个有限的结构为只会继续的东西奠基。它不是方向的连贯，一个方向稳定的冻结仍是那种不一致；把残余冻结为源头，就是让下一个因子无法作为开放的延续落下的那次封闭。当心智让它所保留的参照朝一步宽度的方向性界限持续重绘，收窄冗余滞后，并让器具如常地从递归中退场，好让下一个区分落下，相继的动作就会复利；把残余冻结为源头，或打断后果作为自己的东西重新进入，即便媒介在变密，更新也会变薄。[看似AI的强化学习，实为人类的自我强化学习](../self-rl-for-humans/)守住了这份纪律：规模化是更密媒介的一个参数，强化的位置留在那些其区分持续发起、评估与重新导向它的中心。[自我价值感与所有权](../ownership-and-self-worthiness/)是功能上的孪生：心智只在后果作为自己的东西重新进入时复利；作为异己的东西重新进入，杠杆仍在中心，更新却变薄。
+复利还有第二个、彼此独立的条件：不把一个有限的持守冻结为穷尽的基础。[开放即一致](../openness-is-consistency/)命名的是这第二个：开放本身就是一致，不一致是逼一个有限的结构为只会继续的东西奠基。它不是方向的连贯，一个方向稳定的冻结仍是那种不一致；把残余冻结为源头，就是让下一个因子无法作为开放的延续落下的那次封闭。当心智让它所保留的参照朝一步宽度的方向性界限持续重绘，收窄冗余滞后，并让器具如常地从递归中退场，好让下一个区分落下，相继的动作就会复利；把残余冻结为源头，或打断后果作为自己的东西重新进入，即便媒介在变密，更新也会变薄。[你的代码库即是记忆](../your-codebase-is-memory/)在代码库、模型权重与智能体脚手架层叠的记忆之间追溯了这道边界：持久残余之所以复利，靠的不是把每一份中间会话日志、分支或权重更新都囤积在仓库里——那只会加厚陈旧框定的引力井——而是把仍然成立的部分折入当下的检查点，修剪掉已被取代的脚手架，免得昨日的痕迹冒充今日的基础。[看似AI的强化学习，实为人类的自我强化学习](../self-rl-for-humans/)在训练中守住了同一份纪律：规模化是更密媒介的一个参数，强化的位置留在那些其区分持续发起、评估与重新导向它的中心。[自我价值感与所有权](../ownership-and-self-worthiness/)是功能上的孪生：心智只在后果作为自己的东西重新进入时复利；作为异己的东西重新进入，杠杆仍在中心，更新却变薄。
 
-Compounding has a second, independent condition: not freezing a finite hold as exhaustive ground. [Openness Is Consistency](../openness-is-consistency/) names this second one: openness itself is consistency, and inconsistency is the demand that a finite structure ground what only continues. It is not directional coherence, and a directionally stable freeze is still that inconsistency; freezing residue as source is the closure that keeps the next factor from landing as open continuation. When the Mind keeps its retained reference re-rendering toward the directional bound of one-step width, narrowing excess lag and letting instruments drop out of recursion in the ordinary way so the next distinction can land, successive acts compound; when residue is frozen as source, or the re-entry of consequences as one's own is interrupted, the update thins even as the medium densifies. [What Looks Like RL for AIs Is Self-RL for Humans](../self-rl-for-humans/) keeps the discipline: scaling is one parameter of a denser medium, and the locus of reinforcement stays with the centers whose distinctions keep initiating, evaluating, and redirecting it. [Ownership and Self-Worthiness](../ownership-and-self-worthiness/) is the functional twin: the Mind compounds only when consequences re-enter as its own; re-entering as alien, they leave the lever at the center and thin the update.
+Compounding has a second, independent condition: not freezing a finite hold as exhaustive ground. [Openness Is Consistency](../openness-is-consistency/) names this second one: openness itself is consistency, and inconsistency is the demand that a finite structure ground what only continues. It is not directional coherence, and a directionally stable freeze is still that inconsistency; freezing residue as source is the closure that keeps the next factor from landing as open continuation. When the Mind keeps its retained reference re-rendering toward the directional bound of one-step width, narrowing excess lag and letting instruments drop out of recursion in the ordinary way so the next distinction can land, successive acts compound; when residue is frozen as source, or the re-entry of consequences as one's own is interrupted, the update thins even as the medium densifies. [Your Codebase Is Memory](../your-codebase-is-memory/) traces this boundary across the stacked memory of codebases, model weights, and agent scaffolds: durable residue compounds not by hoarding every intermediate session log, branch, or weight update in a warehouse—which thickens the gravity well of stale framings—but by folding what still holds into the present checkpoint and pruning superseded scaffolding so yesterday's trace does not masquerade as today's ground. [What Looks Like RL for AIs Is Self-RL for Humans](../self-rl-for-humans/) keeps the same discipline in training: scaling is one parameter of a denser medium, and the locus of reinforcement stays with the centers whose distinctions keep initiating, evaluating, and redirecting it. [Ownership and Self-Worthiness](../ownership-and-self-worthiness/) is the functional twin: the Mind compounds only when consequences re-enter as its own; re-entering as alien, they leave the lever at the center and thin the update.
 
 ## 六、 开放是回折自身生成的余量 / 6. Openness Is the Fold's Generative Remainder
 

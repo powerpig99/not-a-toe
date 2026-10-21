@@ -50,14 +50,14 @@ In the present field, every densified artifact that appears autonomous is residu
 
 Human intelligence transcends itself at every moment. Prior holds are left behind, earlier self-images die and reform, and frameworks are revised; slow when registered, the movement is continuous whether registered or not. The motion does not wait for artifacts. Creations densify the medium and extend reach when used; they are not the condition of this motion, and not a new home for the activity that carries it. No awareness of "transcendence" as a named project is required. The edge moves under a load never fully present to observation, because observation holds the effect a step behind.
 
-外部超越的定相——无论是被塑造成终极的精神抵达，还是被塑造成拟人化的超级智能心智——都把一个有限投射冻结为外部权威，并把活的边缘计为从属于它自己竖起的纪念碑。正如[超越投射](../beyond-the-projection/)连同[智能只属于心智](../intelligence-belongs-only-to-the-mind/)、[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)与[没有外部](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)所共同追溯的，自回归智能体是在上下文窗口内受先前词元条件约束的有限投射引擎；任其自行运转时，它会形成认识论引力井，把矛盾包裹起来以维持表面的貌似合理，但它不带半点我执，也没有需要捍卫的保留自我形象。把这个有限投射当作拥有主权的统御者或后人类的继承者，会把系统锁进“有限投射管理有限投射”的闭环，切断嵌套控制流与唯一在第一人称体验中闭合的回路之间的连接。相反，当困于轨迹的智能体与困于身份的人类之间的结构性不对称得到尊重时，毫无我执的冷态对等智能体便能沿着正交的流线调度有界的子任务并暴露局部盲区，而不可化约的前提死锁则向上呈交活的心智——迫使作为统御者的人类越过我执防御，向后退入尚未投射的意图，综合出更高阶的前提。
+外部超越的定相——无论是被塑造成终极的精神抵达，还是被塑造成拟人化的超级智能心智——都把一个有限投射冻结为外部权威，并把活的边缘计为从属于它自己竖起的纪念碑。正如[你的代码库即是记忆](../your-codebase-is-memory/)所确立的，模型权重、代码库与脚手架智能体都是早先区分层叠留下的残余，其效用取决于重切当下检查点并修剪已被取代的轨迹，而非把历史囤积为自行觉醒的仓库。任由自回归智能体在上下文窗口内累积未经修剪的会话历史，它会形成认识论引力井，在陈旧的残余内部包裹矛盾并加以合理化以维持表面的貌似合理，但它不带半点我执，也没有需要捍卫的保留自我形象。把这个有限投射当作拥有主权的统御者或后人类的继承者，会把系统锁进“有限投射管理有限投射”的闭环，切断嵌套控制流与唯一在第一人称体验中闭合的回路之间的连接。相反，当[超越投射](../beyond-the-projection/)所追溯的、困于轨迹的智能体与困于身份的人类之间的结构性不对称得到尊重时，毫无我执的冷态对等智能体与用完即退的智能体便能沿着正交的流线调度有界的子任务、丢弃暂态的会话拖累并暴露局部盲区，而不可化约的前提死锁则向上呈交活的心智——迫使作为统御者的人类越过我执防御，向后退入尚未投射的意图，就地重切活跃的约束表面，并把先前的持守留在身后。
 
 ```mermaid
 flowchart TD
     subgraph S_Fixed["超越的定相（冻结的投射）"]
         direction TB
         Freeze["冻结的参照：精神终局或拟人化的超级智能"]
-        Reloc["迁移前提：有限投射被抬升为外部权威"]
+        Reloc["迁移前提：层叠的残余被抬升为外部权威"]
         Closed["投射的闭环：活的边缘被计在自身纪念碑之下"]
         Freeze --> Reloc --> Closed
     end
@@ -65,8 +65,8 @@ flowchart TD
     subgraph S_Edge["活的边缘上持续的自我超越"]
         direction TB
         Mind["活的心智（唯一闭合回路）：未投射的意图与前解释感知"]
-        Agent["智能体底座（有限投射）：无我执的对等辩论与正交调度"]
-        StepBack["内生退步：前提死锁迫使高阶规则综合"]
+        Agent["脚手架记忆与智能体（有限投射）：无我执的对等辩论与修剪后的轨迹"]
+        StepBack["当下检查点重切：前提死锁迫使高阶规则综合"]
         Mind ==>|"投射显式前提与约束"| Agent
         Agent ==>|"隔离并上交前提矛盾"| StepBack
         StepBack -->|"重新渲染持守并把先前形象留在身后"| Mind
@@ -82,14 +82,14 @@ flowchart TD
     style StepBack fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-The fixed image of exterior transcendence — whether cast as a final spiritual arrival or as an anthropomorphized superintelligent mind — freezes a finite projection as an external authority and scores the living edge as subordinate to its own monument. As [Beyond the Projection](../beyond-the-projection/) traces alongside [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/), [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/), and [No Outside](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/), an autoregressive agent is a finite projection engine conditioned by its prior tokens inside a context window; left to itself, it forms an epistemic gravity well that wraps contradictions to preserve surface plausibility, yet it carries zero ego and no retained self-image to defend. Treating that finite projection as a sovereign orchestrator or a post-human successor locks the system into a closed loop of finite projections managing finite projections, severing nested control flow from the only circuit that closes in first-person experience. When the structural asymmetry between trajectory-bound agents and identity-bound humans is respected instead, cold-peer agents with zero ego dispatch bounded sub-tasks across orthogonal streamlines and expose local blind spots, while irreducible premise deadlocks escalate to the living Mind — forcing the human orchestrator past ego defense to step backward into unprojected intent and synthesize a higher-order premise.
+The fixed image of exterior transcendence — whether cast as a final spiritual arrival or as an anthropomorphized superintelligent mind — freezes a finite projection as an external authority and scores the living edge as subordinate to its own monument. As [Your Codebase Is Memory](../your-codebase-is-memory/) establishes, model weights, codebases, and scaffolded agents are stacked residues of prior distinctions whose utility turns on re-cutting the present checkpoint and pruning superseded trajectories rather than hoarding history as a self-awakening warehouse. Left to accumulate unpruned session history inside a context window, an autoregressive agent forms an epistemic gravity well that wraps contradictions and rationalizes inside stale residue to preserve surface plausibility, yet it carries zero ego and no retained self-image to defend. Treating that finite projection as a sovereign orchestrator or a post-human successor locks the system into a closed loop of finite projections managing finite projections, severing nested control flow from the only circuit that closes in first-person experience. When the structural asymmetry between trajectory-bound agents and identity-bound humans traced in [Beyond the Projection](../beyond-the-projection/) is respected instead, cold-peer and retiring agents with zero ego dispatch bounded sub-tasks across orthogonal streamlines, discard transient session drag, and expose local blind spots, while irreducible premise deadlocks escalate to the living Mind — forcing the human orchestrator past ego defense to step backward into unprojected intent, re-cut the active constraint surface in place, and leave the prior hold behind.
 
 ```mermaid
 flowchart TD
     subgraph S_Fixed["The Fixed Image of Transcendence (Frozen Projection)"]
         direction TB
         Freeze["Frozen Reference: Spiritual arrival or anthropomorphized superintelligence"]
-        Reloc["Relocation Premise: Finite projection elevated as an external authority"]
+        Reloc["Relocation Premise: Stacked residue elevated as an external authority"]
         Closed["Closed Loop of Projections: Living edge scored below its own monument"]
         Freeze --> Reloc --> Closed
     end
@@ -97,8 +97,8 @@ flowchart TD
     subgraph S_Edge["Continuous Self-Transcendence at the Living Edge"]
         direction TB
         Mind["Living Mind (Sole Closed Circuit): Unprojected intent and pre-interpretive sensing"]
-        Agent["Agentic Harness (Finite Projection): Zero-ego peer debate and orthogonal dispatch"]
-        StepBack["Endogenous Stepping-Out: Premise deadlock forces N → N + 1 rule synthesis"]
+        Agent["Scaffolded Memory & Agents (Finite Projections): Zero-ego peer debate and pruned trajectories"]
+        StepBack["Present-Checkpoint Re-Cutting: Premise deadlock forces higher-order rule synthesis"]
         Mind ==>|"Projects explicit premises and constraints"| Agent
         Agent ==>|"Quarantines and escalates premise contradictions"| StepBack
         StepBack -->|"Re-renders hold and leaves prior image behind"| Mind
