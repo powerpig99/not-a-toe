@@ -1,4 +1,4 @@
-# 当电子开始思考 / When Electrons Think
+# 当电子开始思考
 
 *光速是现实被渲染的速率，确定性是自由变量在慢速中沉淀的统计 / The speed of light as the rate at which reality is rendered, and determinism as free variables settled into slowness*
 
@@ -396,6 +396,6 @@ flowchart TD
 
 What a theory of everything seeks is an equation from which everything follows with no observing Mind present. Every theory is useful within its range, and the boundary of this demand lies in the position it posits: it has to be written from outside the universe. It is like analyzing the molecular structure of a television's casing in the hope of deriving the ending of tonight's play on the screen; the analysis of the casing is accurate, and the play is not in it.
 
-现实因此不像一卷早已印好的静止胶片，它更像一部正在放映的电影。光速标出感知的响应前沿，微观的不确定是抉择留在描述里的那一面，宏观的沉稳秩序是行动脚下的地面。测量者同时是参与者，意义不必等一个最终的理论来授予：在每一个不可化约的当下，在每一次面对未知的决断里，新的一帧正在被渲染出来（+1）。
+现实因此不像一卷早已印好的静止胶片，它更像一部正在放映的电影。光速标出感知的响应前沿，微观的不确定是抉择留在描述里的那一面，宏观的沉稳秩序是行动脚下的地面。正如[你的代码库即是记忆](../your-codebase-is-memory/)对一切外化的形式体系与代码库所作的追溯，既成的账本只存放已经渲染出来的旧帧，而测量者同时是参与者，意义不必等一个最终的理论来授予：在每一个不可化约的当下，在每一次面对未知的决断里，新的一帧正在被渲染出来（+1）。
 
-Reality is therefore unlike a reel of film printed long ago and lying still; it is more like a film now being shown. The speed of light marks the responding front of perception, microscopic indeterminacy is the face choice leaves in the description, and the steady macroscopic order is the ground under action. The one who measures is at once a participant, and meaning need not wait to be conferred by a final theory: in every irreducible present, in every decision made facing the unknown, a new frame is being rendered (+1).
+Reality is therefore unlike a reel of film printed long ago and lying still; it is more like a film now being shown. The speed of light marks the responding front of perception, microscopic indeterminacy is the face choice leaves in the description, and the steady macroscopic order is the ground under action. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces across every externalized formalization and codebase, the recorded ledger stores only the frames already rendered; the one who measures is at once a participant at the steering edge, and meaning need not wait to be conferred by a final theory, because in every irreducible present—in every decision made facing the unknown—a new frame is being rendered (+1).

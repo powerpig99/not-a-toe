@@ -1,8 +1,8 @@
-# 潜能作为威胁或启发 / One’s Potential as Threat or Inspiration
+# 潜能作为威胁或启发
 
-*封闭前提下，他人的上升读作损失；进步取决于多频繁地把潜能看作敞开的地平线 / Under a closed premise another’s rise reads as loss; progress turns on how often potential is met as open horizon.*
+*封闭前提下他人的上升读作损失；进步系于多频繁把潜能视作敞开的地平线 / Under a closed premise another’s rise reads as loss; progress turns on how often potential is met as open horizon.*
 
-在[封闭、零和的现实假设](../the-arithmetic-of-the-register/)之下，另一个人正在显现的潜能被登记为直接的威胁：从地位、安全与认可这份固定存量中减去的一份。推动人的能力、扩展现实边界的那些人，并不是一个固定的阶层；他们是更频繁地以非零和的取向运作的中心，把另一个人的卓越当作启发，而不是侵占。这个频率在一群人中下降时，意识形态便作为集体的症状出现，把共享的信念转成防御性的正统，去监管越出常规的能力。生成的杠杆始终在每个有心智的中心未受强迫的、每一刻的抉择里。
+在[封闭、零和的现实假设](../the-arithmetic-of-the-register/)之下，另一个人正在显现的潜能被登记为直接的威胁：从地位、安全与认可这份固定存量中减去的一份。推动人的能力、扩展现实边界的那些人，并不是一个固定的阶层；他们是更频繁地以非零和的取向运作的中心，把另一个人的卓越当作启发，而不是侵占。这个频率在一群人中下降时，意识形态便作为集体的症状出现，把共享的信念转成防御性的正统，去监管越出常规的能力。生成的杠杆始终握在每个心智中心未受强迫的当刻抉择里。
 
 Under the assumption of [a closed, zero-sum reality](../the-arithmetic-of-the-register/), another person’s emerging potential registers as an immediate threat, a subtraction from a fixed stock of status, security and recognition. Those who advance human capability and extend the boundaries of reality are not a permanent caste; they are centers that act more often from a non-zero-sum orientation, taking another’s excellence as inspiration rather than encroachment. When this frequency falls across a group, ideologies appear as its collective symptom, turning shared beliefs into defensive orthodoxies that police outlier capacity. The generative lever stays in the uncoerced, moment-to-moment choice of each minded center.
 
@@ -26,15 +26,9 @@ A social environment drifts into this defensive equilibrium because it is cognit
 
 The line between the generative edge and the defensive posture is not a split between fixed castes or moral categories; it runs between positions one Mind passes through at different moments.
 
-没有谁对零和的惊慌免疫，也没有谁全然不能进入非零和的共鸣。区分各条轨迹的，是每种姿态出现的频率：
+没有谁对零和的惊慌免疫，也没有谁全然不能进入非零和的共鸣。区分各条轨迹的，是每种姿态出现的频率：在防御的回路里，一个中心在把他人的卓越读作威胁的时刻，把稀缺的能力花在遏制、比较与维持人为的天花板上，注意力绑在压制他人上，自己也就被拖住了；在生成的回路里，一个中心在把他人的突破看作可能性之证据的时刻，把能力投向自己的下一个区分，他人的前进由此成了一份证据，表明前沿比此前绘出的更宽。
 
-No one is immune to zero-sum alarm, and no one is incapable of non-zero-sum resonance. What separates trajectories is how often each stance is taken:
-
-- **防御的回路：** 一个中心在把他人的卓越读作威胁的时刻，把稀缺的能力花在遏制、比较与维持人为的天花板上。注意力被绑在压制他人上，自己也就被拖住了。
-- **生成的回路：** 一个中心在把他人的突破看作可能性之证据的时刻，把能力投向自己的下一个区分。他人的前进成了一份证据：前沿比此前绘出的更宽。
-
-- **The defensive loop:** In the moments a center reads another’s excellence as a threat, it spends its scarce capacity on containment, comparison and the upkeep of artificial ceilings. Attention bound to holding others down holds the center back too.
-- **The generative loop:** In the moments a center sees another’s breakthrough as evidence of what is possible, it turns its capacity toward its own next distinction. Another’s advance becomes evidence that the frontier is wider than it was mapped.
+No one is immune to zero-sum alarm, and no one is incapable of non-zero-sum resonance. What separates trajectories is how often each stance is taken: in the defensive loop, the moments a center reads another’s excellence as a threat spend scarce capacity on containment, comparison, and the upkeep of artificial ceilings, so attention bound to holding others down holds the center back too; in the generative loop, the moments a center sees another’s breakthrough as evidence of what is possible turn capacity toward its own next distinction, reading another’s advance as proof that the frontier is wider than it was mapped.
 
 进步在这些离散的迭代中复利累积。一个人把潜能当作启发的频率提高，私人的能力便复利增长；一张中心网络里的总频率上升，共享的现实边界便向外扩展。[平均值是残余，不是引擎](../the-average-is-residue-not-the-engine/)反映的正是这种频率分布：文明的推进由极端正向离群者的复利速度承载，而不是由大众的均衡承载。
 
@@ -134,7 +128,7 @@ Collectivist doctrines carry out this containment openly, through state mandates
 
 ## 四、 扩展现实的边界 / 4. Extending the Boundary of Reality
 
-对他人潜能的取向，是每个有心智的中心在每一步都可得的、未受强迫的离散抉择。
+如何面对他人的潜能，是每个心智中心在每一步皆可自主作出的离散抉择。
 
 The orientation toward another’s potential is an uncoerced, discrete choice open to every minded center at every step.
 
@@ -142,6 +136,6 @@ The orientation toward another’s potential is an uncoerced, discrete choice op
 
 It needs no institutional charter, no outside subsidy and no collective consensus. It is an act of direct self-recognition: noticing whether attention is contracting into comparison or widening into inspiration, and taking the generative move.
 
-在反复的练习中，这种姿态在个体中心之内自我倍增。内在的频率外化为可触及的工作、有纪律的手艺与新的协作。随之而来的集体推进，从来不是一份设计出来的社会蓝图的产物；它是个体心智把他人的潜能当作罗盘而不是牢笼时，自发累积的算术。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)仍是不变的地基：现实的边界只向选择走过它的中心让开。
+在反复的练习中，这种姿态在个体中心之内自我倍增。内在的频率外化为可触及的工作、有纪律的手艺与新的协作。随之而来的集体推进，从来不是一份设计出来的社会蓝图的产物；它是个体心智把他人的潜能当作罗盘而不是牢笼时，自发累积的算术。正如[你的代码库即是记忆](../your-codebase-is-memory/)所展示的，他人的突破与留存的代码库皆是外化的记忆脚手架，唯有在重溯而非防范中才能拓宽自身的地平线；[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)仍是不变的地基，现实的边界只向选择走过它的中心让开。
 
-Through repeated practice, this posture multiplies itself within the individual center. The inner frequency comes out as tangible work, disciplined craft and new coordination. The collective advance that follows is never the product of an engineered social blueprint; it is the spontaneous arithmetic of individual Minds treating the potential of others as a compass rather than a cage. [Individual choices as the only causal levers](../individual-choices-as-the-only-causal-levers/) stays the invariant ground: the boundary of reality gives way only to the centers that choose to walk past it.
+Through repeated practice, this posture multiplies itself within the individual center. The inner frequency comes out as tangible work, disciplined craft and new coordination. Because [Your Codebase Is Memory](../your-codebase-is-memory/)—every repository, tool, and breakthrough another mind leaves behind is an externalized trace awaiting a living edge to re-trace it—meeting another’s advance as open scaffolding rather than territorial encroachment immediately compounds what one’s own center can distinguish next. The collective advance that follows is never the product of an engineered social blueprint; it is the spontaneous arithmetic of individual Minds treating the potential of others as a compass rather than a cage. [Individual choices as the only causal levers](../individual-choices-as-the-only-causal-levers/) stays the invariant ground, and the boundary of reality gives way only to the centers that choose to walk past it.

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T09:07:41.652Z",
+    "generated_at": "2026-10-21T09:14:25.675Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -48,7 +48,7 @@
       "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "322bdedfbdab",
       "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "591b48069747",
       "content/posts/conscience-power-delegation.md": "4dfadce8ba14",
-      "content/posts/consciousness-ascription-and-the-quantum-cut.md": "a85a62bb5f42",
+      "content/posts/consciousness-ascription-and-the-quantum-cut.md": "7db48359a716",
       "content/posts/consciousness-never-appears-as-data-among-data.md": "35adbc5ab9f0",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
       "content/posts/context-engineering-essay.md": "cbc94ceb8dc4",
@@ -94,7 +94,7 @@
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/guan-yu-gui-yin.md": "579cd9cb8530",
       "content/posts/guidance-is-not-ownership.md": "ad110e0b12b6",
-      "content/posts/hardness-is-not-inherent-in-the-action.md": "316eb567ee9c",
+      "content/posts/hardness-is-not-inherent-in-the-action.md": "867d3626f1bb",
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "4ca9797d5e48",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
       "content/posts/hassabis-frontier-agi-premise.md": "5bb4aad4ec8f",
@@ -119,7 +119,7 @@
       "content/posts/math-as-a-career-is-not-math-as-a-pursuit.md": "1a1944105695",
       "content/posts/meaning-of-life-refined.md": "1ae50e3e9204",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "02c235243d39",
-      "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "57fc51f7e01d",
+      "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "cf14c819fdac",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "d8bf71b9fe17",
@@ -141,7 +141,7 @@
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "e155f3d0f778",
       "content/posts/on-education.md": "acf5a581efd1",
       "content/posts/one-cannot-escape-ones-own-mind.md": "474dad0e12f2",
-      "content/posts/ones-potential-as-threat-or-inspiration.md": "63a25d4f0593",
+      "content/posts/ones-potential-as-threat-or-inspiration.md": "3ffea599eadb",
       "content/posts/only-if-it-is-not-kept-empty.md": "1d2b22dc949c",
       "content/posts/ontos-is-a-method-agent.md": "25df0d4d161c",
       "content/posts/open-vision-in-a-closed-arena.md": "98c32fc1001d",
@@ -159,7 +159,7 @@
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "9eed356d140c",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "ecf75d7d8689",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "388594883a11",
-      "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "d87ddb2eef07",
+      "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "1edca04ae89a",
       "content/posts/price-as-utterance-understanding-as-trade.md": "09732d7116b8",
       "content/posts/production-consumption-and-the-minds-distinction.md": "69300d4d47c5",
       "content/posts/public-spending-does-not-create-capital.md": "4bdc16609a6d",
@@ -213,11 +213,11 @@
       "content/posts/the-causal-inversion-of-partnership.md": "8217dad43956",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "8449097ffbc1",
       "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "2d6fb2761270",
-      "content/posts/the-causal-overstep-of-observation-and-the-first-person-surplus.md": "6c191f9ad616",
+      "content/posts/the-causal-overstep-of-observation-and-the-first-person-surplus.md": "96db9de37641",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "0d5b45a35c75",
       "content/posts/the-closed-loop-of-representation.md": "659ee6fdc53f",
       "content/posts/the-closed-n-and-the-open-reality.md": "69b0afc8a6d7",
-      "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "fd790ca70240",
+      "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "963439dc2512",
       "content/posts/the-collapsed-debate.md": "70fd73306062",
       "content/posts/the-comment-is-not-the-code.md": "b81fc5a01b5a",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "9e53487d8960",
@@ -239,7 +239,7 @@
       "content/posts/the-extendable-horizon.md": "a74fd15380da",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "58465caf6ed6",
       "content/posts/the-fallacy-of-post-success-parenting.md": "7f1aaf099f4f",
-      "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "760605280837",
+      "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "d0595ed488b6",
       "content/posts/the-fixed-image-of-transcendence.md": "582a2dc98e15",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "5b211b913d03",
       "content/posts/the-flywheel-of-the-mind.md": "6404a8949c52",
@@ -301,7 +301,7 @@
       "content/posts/the-mirror-handshake-of-power.md": "d87437fc547d",
       "content/posts/the-misallocation-of-agency.md": "b921b7fb3528",
       "content/posts/the-model-never-becomes-a-second-edge.md": "e05347b86c6c",
-      "content/posts/the-moral-reversal-and-the-scripted-subject.md": "a614ebfdfda8",
+      "content/posts/the-moral-reversal-and-the-scripted-subject.md": "6f43ecd291e1",
       "content/posts/the-myth-of-population-collapse-explained.md": "9be9bfe9c763",
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "db6546734668",
       "content/posts/the-name-revolution-files-a-life-as-evidence.md": "0005b5557300",
@@ -316,7 +316,7 @@
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "a9f8094d00b3",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "48c1bddc846f",
       "content/posts/the-perceiver-and-the-trace.md": "12ca1c236bca",
-      "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "d85a0ec01465",
+      "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "5df00a578126",
       "content/posts/the-power-law-of-surrendered-agency.md": "390d27c147c5",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "8c22e4938a6e",
       "content/posts/the-price-of-closing-optionality.md": "ce68a21742d8",
@@ -350,7 +350,7 @@
       "content/posts/the-sovereign-blinding.md": "910f8642f278",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
       "content/posts/the-strongest-belief-of-the-mind.md": "ee7cbb6eb4a6",
-      "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "aafc55f7b4d1",
+      "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "5c88cee96bdf",
       "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "c663c4a8107a",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
       "content/posts/the-three-shadows-of-the-cut.md": "dddbde671cad",
@@ -385,7 +385,7 @@
       "content/posts/what-works-is-the-belief.md": "38b7c3f217e1",
       "content/posts/whatever-is-one-prompt-away.md": "2a70052b8308",
       "content/posts/when-abundance-looks-like-scarcity.md": "8ffe214e39a4",
-      "content/posts/when-electrons-think.md": "fbdd3178e8f3",
+      "content/posts/when-electrons-think.md": "6f4bc4713d60",
       "content/posts/when-malfunction-is-scored-as-intelligence.md": "8adae7d53567",
       "content/posts/when-need-stops-being-the-measure.md": "d751b4079d88",
       "content/posts/when-observation-becomes-performance.md": "fc49af651c83",
@@ -424,10 +424,10 @@
     },
     "stats": {
       "posts": 397,
-      "edges": 10508,
-      "unique_directed": 5158,
+      "edges": 10532,
+      "unique_directed": 5170,
       "missing_targets": 0,
-      "one_way": 676,
+      "one_way": 688,
       "isolated": 35,
       "posts_with_outbound": 362,
       "book_pages": 16,
@@ -438,7 +438,7 @@
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 326
+      "in_degree": 338
     },
     {
       "slug": "beyond-the-projection",
@@ -1730,16 +1730,17 @@
       "kind": "post",
       "slug": "consciousness-ascription-and-the-quantum-cut",
       "path": "content/posts/consciousness-ascription-and-the-quantum-cut.md",
-      "title": "意识归属与量子割点 / Consciousness Ascription and the Quantum Cut",
-      "hash": "a85a62bb5f42",
+      "title": "意识归属与量子割点",
+      "hash": "7db48359a716",
       "in_degree": 5,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "an-observation-by-its-own-standard",
         "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
         "the-cut-moves-but-never-vanishes",
         "the-grammar-of-finding-and-the-fading-observer",
         "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+        "your-codebase-is-memory",
         "the-fermi-paradox-reified-agency-and-the-great-filter"
       ]
     },
@@ -2751,16 +2752,17 @@
       "kind": "post",
       "slug": "hardness-is-not-inherent-in-the-action",
       "path": "content/posts/hardness-is-not-inherent-in-the-action.md",
-      "title": "难度不在行动本身 / Hardness Is Not Inherent in the Action",
-      "hash": "316eb567ee9c",
+      "title": "难度不在行动本身",
+      "hash": "867d3626f1bb",
       "in_degree": 5,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "how-belief-actually-changes",
         "failure-as-information",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "individual-choices-as-the-only-causal-levers",
-        "what-works-is-the-belief"
+        "what-works-is-the-belief",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -3499,17 +3501,18 @@
       "kind": "post",
       "slug": "mi-lv-shi-jie-guo-de-biao-xiang",
       "path": "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md",
-      "title": "幂律是结果的表象 / Power Law Is the Surface of Outcomes",
-      "hash": "57fc51f7e01d",
+      "title": "幂律是结果的表象",
+      "hash": "cf14c819fdac",
       "in_degree": 6,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "qian-yin-hou-guo",
         "cheng-gong-xue",
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "the-average-is-residue-not-the-engine",
         "the-extendable-horizon",
-        "power-law-is-the-long-term-consequence-of-normal-distribution"
+        "power-law-is-the-long-term-consequence-of-normal-distribution",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -4026,16 +4029,17 @@
       "kind": "post",
       "slug": "ones-potential-as-threat-or-inspiration",
       "path": "content/posts/ones-potential-as-threat-or-inspiration.md",
-      "title": "潜能作为威胁或启发 / One’s Potential as Threat or Inspiration",
-      "hash": "63a25d4f0593",
+      "title": "潜能作为威胁或启发",
+      "hash": "3ffea599eadb",
       "in_degree": 5,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "the-arithmetic-of-the-register",
         "hierarchy-from-individual-difference",
         "the-average-is-residue-not-the-engine",
         "moral-language-as-projection",
         "restriction-is-a-selective-tax",
+        "your-codebase-is-memory",
         "individual-choices-as-the-only-causal-levers"
       ]
     },
@@ -4578,15 +4582,16 @@
       "kind": "post",
       "slug": "present-contact-and-the-obscuration-of-desired-feeling",
       "path": "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md",
-      "title": "现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling",
-      "hash": "d87ddb2eef07",
+      "title": "现成接触的因果先验与期望感受的倒置遮蔽",
+      "hash": "1edca04ae89a",
       "in_degree": 2,
-      "out_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "the-grammar-of-finding-and-the-fading-observer",
         "the-form-of-enlightenment-and-the-inversion-of-gates",
         "the-summary-first-reversal-and-the-command-of-yields",
-        "the-irreducible-observer"
+        "the-irreducible-observer",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -5994,16 +5999,17 @@
       "kind": "post",
       "slug": "the-causal-overstep-of-observation-and-the-first-person-surplus",
       "path": "content/posts/the-causal-overstep-of-observation-and-the-first-person-surplus.md",
-      "title": "观察的因果僭越与第一人称的收益差 / The Causal Overstep of Observation and the First-Person Surplus",
-      "hash": "6c191f9ad616",
+      "title": "观察的因果僭越与第一人称的收益差",
+      "hash": "96db9de37641",
       "in_degree": 5,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "felt-resistance-and-the-speed-differential",
         "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
         "the-power-law-of-surrendered-agency",
-        "the-closed-n-and-the-open-reality"
+        "the-closed-n-and-the-open-reality",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -6086,17 +6092,18 @@
       "kind": "post",
       "slug": "the-coin-of-good-and-evil-and-the-road-to-hell",
       "path": "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md",
-      "title": "善恶硬币与通往地狱的善意之路 / The Coin of Good and Evil and the Road to Hell",
-      "hash": "fd790ca70240",
+      "title": "善恶硬币与通往地狱的善意之路",
+      "hash": "963439dc2512",
       "in_degree": 7,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
         "the-boundary-crossing-of-choice",
         "the-perceiver-and-the-trace",
         "the-moral-reversal-and-the-scripted-subject",
         "no-outside-scorekeeper",
-        "moral-language-dilutes-the-feedback-that-scales-freedom"
+        "moral-language-dilutes-the-feedback-that-scales-freedom",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -6589,17 +6596,18 @@
       "kind": "post",
       "slug": "the-fermi-paradox-reified-agency-and-the-great-filter",
       "path": "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md",
-      "title": "费米悖论、主体性错配与大过滤器的投射 / The Fermi Paradox, Reified Agency, and the Projection of the Great Filter",
-      "hash": "760605280837",
+      "title": "费米悖论、主体性错配与大过滤器的投射",
+      "hash": "d0595ed488b6",
       "in_degree": 2,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "the-misallocation-of-agency",
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
         "residual-individualism",
         "consciousness-ascription-and-the-quantum-cut",
         "the-continuum-of-the-fold",
-        "the-vector-and-the-puzzle-of-projections"
+        "the-vector-and-the-puzzle-of-projections",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -7976,10 +7984,10 @@
       "kind": "post",
       "slug": "the-moral-reversal-and-the-scripted-subject",
       "path": "content/posts/the-moral-reversal-and-the-scripted-subject.md",
-      "title": "道德倒错与被脚本化的主体 / The Moral Reversal and the Scripted Subject",
-      "hash": "a614ebfdfda8",
+      "title": "道德倒错与被脚本化的主体",
+      "hash": "6f43ecd291e1",
       "in_degree": 7,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "the-name-revolution-files-a-life-as-evidence",
         "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
@@ -7987,7 +7995,8 @@
         "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
         "the-coin-of-good-and-evil-and-the-road-to-hell",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-        "the-receptionist-parable-and-the-causal-inversion-of-absence"
+        "the-receptionist-parable-and-the-causal-inversion-of-absence",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -8328,17 +8337,18 @@
       "kind": "post",
       "slug": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
       "path": "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md",
-      "title": "算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records",
-      "hash": "d85a0ec01465",
+      "title": "算符的潜无限与记录的有限边界",
+      "hash": "5df00a578126",
       "in_degree": 4,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "objects-are-stabilized-relationships",
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
         "the-cut-moves-but-never-vanishes",
         "consciousness-ascription-and-the-quantum-cut",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
-        "potential-infinity-and-the-temporary-closures-of-mathematical-thought"
+        "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -9253,17 +9263,18 @@
       "kind": "post",
       "slug": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
       "path": "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md",
-      "title": "约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom",
-      "hash": "aafc55f7b4d1",
+      "title": "约束基底与自由自否",
+      "hash": "5c88cee96bdf",
       "in_degree": 7,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "the-look-of-constraint-is-not-the-loss-of-freedom",
         "you-tiao-jian-de-zi-you",
         "freedom-as-ground",
         "the-freedom-of-will-to-deny-itself",
         "fixed-by-nothing",
-        "individual-choices-as-the-only-causal-levers"
+        "individual-choices-as-the-only-causal-levers",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -10062,16 +10073,17 @@
       "kind": "post",
       "slug": "when-electrons-think",
       "path": "content/posts/when-electrons-think.md",
-      "title": "当电子开始思考 / When Electrons Think",
-      "hash": "fbdd3178e8f3",
+      "title": "当电子开始思考",
+      "hash": "6f4bc4713d60",
       "in_degree": 7,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "objects-are-stabilized-relationships",
         "the-black-and-white-sample-frame-and-the-extrapolated-universe",
         "the-cut-moves-but-never-vanishes",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
-        "determinism-is-the-statistical-signature-of-micro-indeterminism"
+        "determinism-is-the-statistical-signature-of-micro-indeterminism",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -10359,7 +10371,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 326,
+      "in_degree": 338,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -18047,6 +18059,12 @@
     },
     {
       "from": "consciousness-ascription-and-the-quantum-cut",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "consciousness-ascription-and-the-quantum-cut",
       "to": "the-fermi-paradox-reified-agency-and-the-great-filter",
       "rel": "points_to",
       "label": "费米悖论、主体性错配与大过滤器的投射"
@@ -18056,6 +18074,12 @@
       "to": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
       "rel": "points_to",
       "label": "The Potential Infinity of Operators and the Finite Horizon of Records"
+    },
+    {
+      "from": "consciousness-ascription-and-the-quantum-cut",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "consciousness-ascription-and-the-quantum-cut",
@@ -23855,9 +23879,21 @@
     },
     {
       "from": "hardness-is-not-inherent-in-the-action",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "hardness-is-not-inherent-in-the-action",
       "to": "what-works-is-the-belief",
       "rel": "points_to",
       "label": "What Works Is the Belief"
+    },
+    {
+      "from": "hardness-is-not-inherent-in-the-action",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "hardware-locality-is-not-the-information-boundary",
@@ -29327,9 +29363,21 @@
     },
     {
       "from": "mi-lv-shi-jie-guo-de-biao-xiang",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "mi-lv-shi-jie-guo-de-biao-xiang",
       "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
       "rel": "points_to",
       "label": "Power Law Is the Long-Term Consequence of Normal Distribution"
+    },
+    {
+      "from": "mi-lv-shi-jie-guo-de-biao-xiang",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "minimizing-path",
@@ -32573,9 +32621,21 @@
     },
     {
       "from": "ones-potential-as-threat-or-inspiration",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "ones-potential-as-threat-or-inspiration",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "ones-potential-as-threat-or-inspiration",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "ones-potential-as-threat-or-inspiration",
@@ -36662,6 +36722,18 @@
       "to": "the-irreducible-observer",
       "rel": "points_to",
       "label": "The Irreducible Observer"
+    },
+    {
+      "from": "present-contact-and-the-obscuration-of-desired-feeling",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "present-contact-and-the-obscuration-of-desired-feeling",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "price-as-utterance-understanding-as-trade",
@@ -45599,9 +45671,21 @@
     },
     {
       "from": "the-causal-overstep-of-observation-and-the-first-person-surplus",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-causal-overstep-of-observation-and-the-first-person-surplus",
       "to": "the-closed-n-and-the-open-reality",
       "rel": "points_to",
       "label": "The Closed N and the Open Reality"
+    },
+    {
+      "from": "the-causal-overstep-of-observation-and-the-first-person-surplus",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-climate-problem-registers-only-as-perception",
@@ -46127,15 +46211,15 @@
     },
     {
       "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
-      "to": "no-outside-scorekeeper",
-      "rel": "points_to",
-      "label": "没有外部记账员"
-    },
-    {
-      "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
       "to": "the-moral-reversal-and-the-scripted-subject",
       "rel": "points_to",
       "label": "The Moral Reversal and the Scripted Subject"
+    },
+    {
+      "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "to": "no-outside-scorekeeper",
+      "rel": "points_to",
+      "label": "没有外部记账员"
     },
     {
       "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
@@ -46148,6 +46232,18 @@
       "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "rel": "points_to",
       "label": "道德语言稀释自由复利的反馈"
+    },
+    {
+      "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-coin-of-good-and-evil-and-the-road-to-hell",
@@ -49154,6 +49250,18 @@
       "to": "the-vector-and-the-puzzle-of-projections",
       "rel": "points_to",
       "label": "The Vector and the Puzzle of Projections"
+    },
+    {
+      "from": "the-fermi-paradox-reified-agency-and-the-great-filter",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-fermi-paradox-reified-agency-and-the-great-filter",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-fixed-image-of-transcendence",
@@ -57095,15 +57203,15 @@
     },
     {
       "from": "the-moral-reversal-and-the-scripted-subject",
-      "to": "the-freedom-of-will-to-deny-itself",
-      "rel": "points_to",
-      "label": "自由意志的自否自由"
-    },
-    {
-      "from": "the-moral-reversal-and-the-scripted-subject",
       "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
       "rel": "points_to",
       "label": "The Sleight of Hand of Synthesizing Gods and Unacknowledged Rank"
+    },
+    {
+      "from": "the-moral-reversal-and-the-scripted-subject",
+      "to": "the-freedom-of-will-to-deny-itself",
+      "rel": "points_to",
+      "label": "自由意志的自否自由"
     },
     {
       "from": "the-moral-reversal-and-the-scripted-subject",
@@ -57119,15 +57227,15 @@
     },
     {
       "from": "the-moral-reversal-and-the-scripted-subject",
-      "to": "the-coin-of-good-and-evil-and-the-road-to-hell",
-      "rel": "points_to",
-      "label": "善恶硬币与通往地狱的善意之路"
-    },
-    {
-      "from": "the-moral-reversal-and-the-scripted-subject",
       "to": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
       "rel": "points_to",
       "label": "The Capability Reversal of Empathy and the Contest of Boundaries"
+    },
+    {
+      "from": "the-moral-reversal-and-the-scripted-subject",
+      "to": "the-coin-of-good-and-evil-and-the-road-to-hell",
+      "rel": "points_to",
+      "label": "善恶硬币与通往地狱的善意之路"
     },
     {
       "from": "the-moral-reversal-and-the-scripted-subject",
@@ -57143,12 +57251,6 @@
     },
     {
       "from": "the-moral-reversal-and-the-scripted-subject",
-      "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
-      "rel": "points_to",
-      "label": "前台的寓言与缺席的因果倒置"
-    },
-    {
-      "from": "the-moral-reversal-and-the-scripted-subject",
       "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "rel": "points_to",
       "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
@@ -57157,7 +57259,25 @@
       "from": "the-moral-reversal-and-the-scripted-subject",
       "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
       "rel": "points_to",
+      "label": "前台的寓言与缺席的因果倒置"
+    },
+    {
+      "from": "the-moral-reversal-and-the-scripted-subject",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-moral-reversal-and-the-scripted-subject",
+      "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "rel": "points_to",
       "label": "The Receptionist Parable and the Causal Inversion of Absence"
+    },
+    {
+      "from": "the-moral-reversal-and-the-scripted-subject",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-myth-of-population-collapse-explained",
@@ -59246,6 +59366,18 @@
       "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "rel": "points_to",
       "label": "Potential Infinity and the Temporary Closures of Mathematical Thought"
+    },
+    {
+      "from": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-power-law-of-surrendered-agency",
@@ -65663,15 +65795,15 @@
     },
     {
       "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
-      "to": "fixed-by-nothing",
-      "rel": "points_to",
-      "label": "没有固定者的固定"
-    },
-    {
-      "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
       "to": "the-freedom-of-will-to-deny-itself",
       "rel": "points_to",
       "label": "The Freedom of Will to Deny Itself"
+    },
+    {
+      "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "to": "fixed-by-nothing",
+      "rel": "points_to",
+      "label": "没有固定者的固定"
     },
     {
       "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
@@ -65690,6 +65822,18 @@
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-summary-first-reversal-and-the-command-of-yields",
@@ -70874,6 +71018,18 @@
       "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "rel": "points_to",
       "label": "Determinism is the Statistical Signature of Micro-Indeterminism"
+    },
+    {
+      "from": "when-electrons-think",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "when-electrons-think",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "when-malfunction-is-scored-as-intelligence",

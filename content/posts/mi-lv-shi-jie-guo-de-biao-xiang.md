@@ -1,4 +1,4 @@
-# 幂律是结果的表象 / Power Law Is the Surface of Outcomes
+# 幂律是结果的表象
 
 *幂律是已经发生的结果在一个观测窗口里的聚合形状，不是生成它的活动 / A power law is the aggregate shape of outcomes already produced in a window, not the activity generating them.*
 
@@ -108,6 +108,6 @@ flowchart TD
 
 What is to be tracked is not the distribution curve itself but how rates keep arising at particular centers. At the centers, the starting point can be surpassed because the activity is never finished. With the analyst, the preset conditions can change the insight the synthesis writes, because Bayesian updating is never neutral discovery but the operator's own distinctions extended. Once the power law is taken down from the place of "objective law" or "golden rule," it is just what it is: a statistical regularity of the surface of outcomes. What generates it is always [the compounding of different rates of iteration over time](../the-extendable-horizon/).
 
-[幂律是正态分布的长期后果](../power-law-is-the-long-term-consequence-of-normal-distribution/)补的是短窗口的那一面：对数上近似正态的增量。那些增量经过足够多次相乘，才留下这里被放回结果位置的长窗口痕迹。
+[幂律是正态分布的长期后果](../power-law-is-the-long-term-consequence-of-normal-distribution/)补的是短窗口的那一面：对数上近似正态的增量。那些增量经过足够多次相乘，才留下这里被放回结果位置的长窗口痕迹——正如[你的代码库即是记忆](../your-codebase-is-memory/)将一切累积痕迹的外化存储归还到记录记忆的位置，而非将其当作驱动下一步的鲜活引擎。
 
-[Power Law Is the Long-Term Consequence of Normal Distribution](../power-law-is-the-long-term-consequence-of-normal-distribution/) supplies the short-window face: increments approximately normal in the logarithm. Multiplied enough times, those increments leave the long-window trace that this post returns to its place as outcome.
+[Power Law Is the Long-Term Consequence of Normal Distribution](../power-law-is-the-long-term-consequence-of-normal-distribution/) supplies the short-window face of this compounding: increments that remain approximately normal in the logarithm multiply across successive steps into the long-window tail that this essay returns to its place as outcome. Whether those accumulated traces take the form of a ninety-year market ledger, a software repository, or the thousand-document archive fed into an AI synthesis, [Your Codebase Is Memory](../your-codebase-is-memory/) locates what every externalized record shares: it is stored memory of cuts already made, never the self-distinguishing activity at the steering edge that generates the next rate of return.
