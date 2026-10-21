@@ -2600,7 +2600,7 @@ The Enlightenment presumes constitutions, parties and progressive institutions c
 
 Entrusting moral authority assumes external institutions can decide right from wrong; selecting which authority to trust requires sovereign judgment beforehand.
 
-→ [The Recursive Contradiction of Entrusted Morality](../../posts/recursive-contradiction-of-entrusted-morality/)
+→ [托付道德的自指悖论 / The Recursive Contradiction of Entrusted Morality](../../posts/recursive-contradiction-of-entrusted-morality/)
 
 ### 认知自反回路 / Epistemic Reflexive Looping
 `哲学 / Philosophical`
@@ -4202,7 +4202,7 @@ Reward hacking assumes the model actively exploits a loophole in the rules; the 
 
 Risk management assumes offloading liability eliminates danger; transferring risk creates opacity and systemic fragility, magnifying the eventual catastrophe.
 
-→ [The Risk You Delegate Is the Risk You Create](../../posts/the-risk-you-delegate-is-the-risk-you-create/)
+→ [你委托的风险就是你创造的风险 / The Risk You Delegate Is the Risk You Create](../../posts/the-risk-you-delegate-is-the-risk-you-create/)
 
 ### 支架遗忘症 / Scaffolding Amnesia
 `哲学 / Philosophical`

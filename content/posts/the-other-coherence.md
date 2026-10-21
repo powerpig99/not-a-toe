@@ -26,7 +26,7 @@ A compact physical law is a statistical symptom of this causal fabric, a local r
 
 ## 二、 感知落入不确定之处 / 2. Where Perception Falls into Indeterminacy
 
-因果既是不可化约的在先，每一个可观察的现象都追溯到一个原因。研究者或观察者沿着机械的联动、化学的梯度与细胞的通路追一条因果序列；每一条因果链都一直延伸，直到它从感知的有限地平线上落入一个不确定的事件。在尚未计算的因果越过感知地平线的这条边界上，事件呈现出两面。从外部、从第三人称的物理看，它在物理所及的最细分辨率上被登记为一个量子事件，一次波函数落定为已实现状态的、模型无法再化约的概率转换；从内部、从第一人称的意识看，它被直接经历为选择的自由，在敞开的潜能之中实现一个具体的行动。在这一步被选定的自由变量，就是被观察为量子不确定的东西：感知与未计算的余量相遇的同一条因果边界，从里面被经历，从外面被看见。
+因果既是不可化约的在先，每一个可观察的现象都追溯到一个原因。研究者或观察者沿着机械的联动、化学的梯度与细胞的通路追一条因果序列；每一条因果链都一直延伸，直到它从感知的有限地平线上落入一个不确定的事件。在尚未计算的因果越过感知地平线的这条边界上，事件呈现出两面。从外部、从第三人称的物理看，它在物理所及的最细分辨率上被登记为一个量子事件，即波函数落定为已实现状态、模型无法再化约的一次概率跃迁；从内部、从第一人称的意识看，它被直接经历为选择的自由，在敞开的潜能之中实现一个具体的行动。在这一步被选定的自由变量，就是被观察为量子不确定的东西：感知与未计算的余量相遇的同一条因果边界，从里面被经历，从外面被看见。
 
 Since causality is the irreducible prior, every observable phenomenon traces to a cause. A researcher or observer follows a causal sequence through mechanical linkages, chemical gradients and cellular pathways; every causal chain extends until it falls off the finite horizon of perception into an indeterminate event. At this boundary, where uncomputed causality crosses the perceptual horizon, the event shows two faces. From outside, from third-person physics, it registers, at the finest resolution physics reaches, as a quantum event, a probabilistic transition its model cannot reduce further, in which a wave function resolves into a realised state; from inside, from first-person consciousness, it is undergone directly as freedom of choice, one specific action actualised among open potentials. The free variable chosen at the step is what is observed as quantum indeterminacy: one causal boundary where perception meets the uncomputed remainder, met from inside and seen from outside.
 
@@ -40,9 +40,9 @@ Chance and choice meet at one cut. That cut is the living aperture through which
 
 The common debate over quantum consciousness turns the causal order around. It first assumes the warm, classical brain as the primary, pre-existing theatre, then asks whether fragile quantum phenomena can survive inside that biological container. Traced from the first-person origin, the whole theatre is downstream. The macroscopic physical brain, skull, neurons, thermal vibration and wet cellular tissue, is a model the Mind compiles, [accurate and powerful within the use of neuroscience](../an-observation-by-its-own-standard/); what it describes is the stabilised logical consequence of countless free variables compounding over time, as [The Generative Topology of Free Variables](../the-generative-topology-of-free-variables/) establishes. Causal traffic always comes before the biological architecture modelled from it; the Mind that compiles that model is the very aperture at which it is written down.
 
-意识是因果区分的首要光圈；被建模的生物大脑，是从这场持续的运作中结晶出来的、滞后的宏观沉积。
+意识是因果区分的首要光圈；被建模的生物大脑，是从这场持续的运作中结晶出来的、滞后的宏观沉积，正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的外化仓库只是活心智留下的下游结构印迹，而非觉知的所在。
 
-Consciousness is the primary aperture of causal distinction; the biological brain, as modelled, is the lagging macroscopic sediment crystallised from that ongoing operation.
+Consciousness is the primary aperture of causal distinction; the biological brain, as modelled, is the lagging macroscopic sediment crystallised from that ongoing operation—much as the externalised trace repositories examined in [Your Codebase Is Memory](../your-codebase-is-memory/) record where the living edge has already cut, while the coherent openness that reads and re-renders them remains at the first-person aperture.
 
 ## 四、 两种相干 / 4. Two Coherences
 
