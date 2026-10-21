@@ -476,6 +476,15 @@ Von Neumann's case for a nuclear first strike followed rigorously from the model
 
 → [理性从不跨越心智 / Rationality Never Travels Across the Mind](../../posts/rationality-never-travels-across-the-mind/)
 
+### 约瑟夫·布罗茨基 / Joseph Brodsky
+`哲学 / Philosophical`
+
+布罗茨基在诺贝尔演说中预设个人的审美经验越丰富，其品味就越健全、道德观点就越清晰、人也就越自由，只是未必幸福；在面对极权体制千篇一律的官方宣传与意识形态套话时，磨砺私人的审美辨别力作为拒绝复刻集体模板的局部抵抗确有其用，但当这一防御姿态被外推为单调递增的普遍阶梯、将囤积的审美库存混同于活的判断力、把感知分辨率坍缩成裁决他人的道德法庭、用评价滤网阻尼扩展自由的无缓冲反馈回路、并把第三人称阳台上过量的图像滞后误认作自由的悲情代价时便到达边界。
+
+Brodsky's Nobel lecture presumes that richer aesthetic experience automatically produces sounder taste, sharper moral focus, and greater freedom—though not necessarily happiness—which held as a local posture of resistance when private aesthetic discrimination refused the monolithic kitsch of totalitarian state propaganda; it reaches its boundary when extrapolated into a monotonic escalator that mistakes stored aesthetic inventory for live judgment, collapses perceptual resolution into a moral tribunal over other minds, damps the unbuffered feedback loop of freedom with evaluative screens, and misreads the excess Image lag of a detached balcony inspector as the tragic price of liberty.
+
+→ [审美的自动扶梯与阳台的忧郁 / The Aesthetic Escalator and the Melancholy of the Balcony](../../posts/the-aesthetic-escalator-and-the-melancholy-of-the-balcony/)
+
 ### 卡尔·波普尔 / Karl Popper
 `哲学 / Philosophical`
 
@@ -2771,7 +2780,7 @@ Presumes physical equations prescribe what reality must do; foundational for cal
 
 Prescribing a standard form for learning and citing masters' names to back one's views is of use in offering references and lowering the cost of starting; it reaches its boundary in that a physical channel is not cognitive computation, a name cannot vouch for truth, theory is a tool with boundaries of condition to be neither deified nor overturned wholesale by one counterexample, and logic and the first person are the two premises from which understanding starts, so that once causality is set straight the unity of knowing and acting is simply the system's output.
 
-→ [从形式迷思到逻辑闭环 / From the Myth of Form to the Closed Loop of Logic](../../posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)
+→ [从形式迷思到逻辑闭环 / From the Myth of Form to the Closed Loop of Logic](../../posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan/) · [审美的自动扶梯与阳台的忧郁 / The Aesthetic Escalator and the Melancholy of the Balcony](../../posts/the-aesthetic-escalator-and-the-melancholy-of-the-balcony/)
 
 ### 初衷异化倾向 / Founding Mission Drift
 `意识形态 / Ideological`
@@ -5255,4 +5264,4 @@ Presumes that a single agent can self-correct within its own session trajectory 
 
 Presumes that decades of accumulated practical judgment and taste form a stable stock that AI automatically revalues and amplifies once execution and ready answers become cheap; useful in registering that cheap candidate generation shifts leverage toward question selection and failure-mode discernment, it reaches its boundary in that historical accumulation formed around the very bottlenecks AI now compresses turns into a residual trajectory pointing at vanished constraints once the frontier moves, leaving only the habit of treating one's prior models as provisional and falsifying hypotheses at the current edge transferable.
 
-→ [判断力不是可囤积的存量 / Judgment Is Not a Stock](../../posts/judgment-is-not-a-stock/)
+→ [判断力不是可囤积的存量 / Judgment Is Not a Stock](../../posts/judgment-is-not-a-stock/) · [审美的自动扶梯与阳台的忧郁 / The Aesthetic Escalator and the Melancholy of the Balcony](../../posts/the-aesthetic-escalator-and-the-melancholy-of-the-balcony/)

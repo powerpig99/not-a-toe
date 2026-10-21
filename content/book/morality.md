@@ -40,3 +40,4 @@ The essays here trace how externalized virtue turns into its opposite, how emoti
 - [抽象的苦难与真实的饥饿 / Abstract Pain and Living Hunger](../../posts/abstract-pain-and-living-hunger/)
 - [没有外部记账员 / No Outside Scorekeeper](../../posts/no-outside-scorekeeper/)
 - [强求善意的残暴与范畴反馈的因果遮蔽 / Compulsory Kindness and the Obscuration of Categorical Feedback](../../posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback/)
+- [审美的自动扶梯与阳台的忧郁 / The Aesthetic Escalator and the Melancholy of the Balcony](../../posts/the-aesthetic-escalator-and-the-melancholy-of-the-balcony/)
