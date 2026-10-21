@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T03:54:17.366Z",
+    "generated_at": "2026-10-21T04:14:27.067Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -73,9 +73,9 @@
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "7085a1dd3e50",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "acd5f06bc9da",
-      "content/posts/evil-as-the-minds-own-creation.md": "d2930c115810",
+      "content/posts/evil-as-the-minds-own-creation.md": "9685bf8b4713",
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "8b82853392d4",
-      "content/posts/expertise-as-reference-not-replacement.md": "8e148681a086",
+      "content/posts/expertise-as-reference-not-replacement.md": "630ec556bab5",
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "d465dbb1da43",
@@ -98,7 +98,7 @@
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "13b7e7527a60",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
       "content/posts/hassabis-frontier-agi-premise.md": "5c4fc62c8e77",
-      "content/posts/having-more-is-never-the-cause.md": "cf6fb47f5653",
+      "content/posts/having-more-is-never-the-cause.md": "fff7b1e393f6",
       "content/posts/help-is-half-the-problem.md": "f9e3b1859fbc",
       "content/posts/hierarchy-from-individual-difference.md": "69e9c1301745",
       "content/posts/how-belief-actually-changes.md": "69035a97e94a",
@@ -151,7 +151,7 @@
       "content/posts/ownership-and-self-worthiness.md": "dfb40cb50651",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "5b46760873d0",
       "content/posts/perception-perspective-refined.md": "e05973d21de9",
-      "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "951836df1a89",
+      "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "3e61069b5eda",
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "4c53ac6aa52d",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/po-chu-gai-nian-de-jian-yue.md": "9e0e605cb8a2",
@@ -170,7 +170,7 @@
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "cd3ec066c2f8",
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "f85879109b9b",
       "content/posts/residual-control-recedes-to-the-edge.md": "9870cbc6f3a4",
-      "content/posts/residual-individualism.md": "b3c7a0af86ff",
+      "content/posts/residual-individualism.md": "445518af80f8",
       "content/posts/restriction-is-a-selective-tax.md": "9eb2991f975e",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
@@ -197,10 +197,10 @@
       "content/posts/the-arithmetic-of-the-register.md": "86f3d0b75926",
       "content/posts/the-artifacts-of-self-amplification.md": "5688d3f7e71b",
       "content/posts/the-asymmetry-of-understanding.md": "9e3603147d4e",
-      "content/posts/the-average-is-residue-not-the-engine.md": "34bdb8bd956e",
+      "content/posts/the-average-is-residue-not-the-engine.md": "34067840e9fc",
       "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md": "ebfbc5db7458",
       "content/posts/the-bank-shot-and-the-magic-trick.md": "2f2534e90b66",
-      "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "140533259cad",
+      "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "2dba3585eee1",
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "b52ca2cdd064",
       "content/posts/the-blind-spot-of-the-frame.md": "800c2e8eaedd",
       "content/posts/the-boundary-crossing-of-choice.md": "795c21ece259",
@@ -230,7 +230,7 @@
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-deterministic-machine.md": "7ba9e608ee16",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "0dc8080b8644",
-      "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "74cb658c21aa",
+      "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "84960aa9f76c",
       "content/posts/the-discount-on-agency.md": "7f1324e7bcf7",
       "content/posts/the-dissolution-of-the-great-reversal.md": "3ef5fa05ee7f",
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "cf61f9e9c832",
@@ -255,7 +255,7 @@
       "content/posts/the-generative-topology-of-free-variables.md": "bd4117e215d3",
       "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "15b9e01b6512",
       "content/posts/the-geometry-of-emergence.md": "83486d0d6ee3",
-      "content/posts/the-geometry-of-mind.md": "f120d7ed77ff",
+      "content/posts/the-geometry-of-mind.md": "3d0ba4f53d48",
       "content/posts/the-geometry-of-success.md": "720f46e5d2cd",
       "content/posts/the-geometry-of-the-cut.md": "ae41a43f7e1a",
       "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "8b4bd95500b8",
@@ -293,7 +293,7 @@
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
       "content/posts/the-map-after-the-territory.md": "1a231ded3754",
       "content/posts/the-mark-and-the-act.md": "c564f60f2ed7",
-      "content/posts/the-meaning-of-life-is-in-the-drafting.md": "9fde797d1966",
+      "content/posts/the-meaning-of-life-is-in-the-drafting.md": "71b2a3b0537b",
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "92606376f487",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "db7cf6705972",
       "content/posts/the-mirage-of-the-infinite-totality.md": "591249e563df",
@@ -326,7 +326,7 @@
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "f4beffd39c0c",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "8c4f283b8657",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "56dda0f3f7ab",
-      "content/posts/the-reality-distortion-field-names-the-closed-map.md": "da0c0cd6c3f8",
+      "content/posts/the-reality-distortion-field-names-the-closed-map.md": "fd5975fa9bb2",
       "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "5d5ae354856a",
       "content/posts/the-reflexive-dilemma-of-unique-insight.md": "e0b2f868f3d1",
       "content/posts/the-residue-and-the-free-variable.md": "58c0ff59267d",
@@ -346,7 +346,7 @@
       "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "8ac27b54bcdc",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "19ba2db4ce61",
       "content/posts/the-source-of-all-harm.md": "4a602dc840fb",
-      "content/posts/the-source-of-shared-change.md": "4a0a0c0885e2",
+      "content/posts/the-source-of-shared-change.md": "6b3787d81f18",
       "content/posts/the-sovereign-blinding.md": "118b031bf858",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
       "content/posts/the-strongest-belief-of-the-mind.md": "ee7cbb6eb4a6",
@@ -408,9 +408,9 @@
       "content/book/causality.md": "c5ac49c16705",
       "content/book/consciousness.md": "d8595aa6097d",
       "content/book/economics.md": "c863f3bd1a44",
-      "content/book/index-of-premises.md": "f4dad54c1319",
+      "content/book/index-of-premises.md": "587b23ff4dd4",
       "content/book/intelligence.md": "8530f0e466c0",
-      "content/book/knowledge-and-learning.md": "8aaf853cf833",
+      "content/book/knowledge-and-learning.md": "51d92651b2ed",
       "content/book/life-and-statistics.md": "903bd0f56d99",
       "content/book/mathematics.md": "511585102871",
       "content/book/meaning-and-transcendence.md": "ce5168a72c34",
@@ -424,10 +424,10 @@
     },
     "stats": {
       "posts": 397,
-      "edges": 9949,
-      "unique_directed": 4957,
+      "edges": 9994,
+      "unique_directed": 4969,
       "missing_targets": 0,
-      "one_way": 455,
+      "one_way": 467,
       "isolated": 35,
       "posts_with_outbound": 361,
       "book_pages": 16,
@@ -442,7 +442,7 @@
     },
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 116
+      "in_degree": 128
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -2245,9 +2245,9 @@
       "slug": "evil-as-the-minds-own-creation",
       "path": "content/posts/evil-as-the-minds-own-creation.md",
       "title": "恶是心智自己的造物 / Evil as the Mind's Own Creation",
-      "hash": "d2930c115810",
+      "hash": "9685bf8b4713",
       "in_degree": 19,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "self-image-speaks-as-if-from-nowhere",
         "the-path-drawn-one-step-at-a-time",
@@ -2264,6 +2264,7 @@
         "openness-is-consistency",
         "ownership-and-self-worthiness",
         "how-belief-actually-changes",
+        "your-codebase-is-memory",
         "the-climate-problem-registers-only-as-perception",
         "preference-clusters-and-the-language-of-judgment",
         "the-belief-in-utopia-is-the-path-to-dystopia",
@@ -2316,9 +2317,9 @@
       "slug": "expertise-as-reference-not-replacement",
       "path": "content/posts/expertise-as-reference-not-replacement.md",
       "title": "专家经验作为参考而非替代 / Expertise as Reference, Not Replacement",
-      "hash": "8e148681a086",
+      "hash": "630ec556bab5",
       "in_degree": 23,
-      "out_degree": 23,
+      "out_degree": 24,
       "links_out": [
         "the-reality-distortion-field-names-the-closed-map",
         "ownership-cost-freezes-lagged-averages-as-vehicle-property",
@@ -2339,6 +2340,7 @@
         "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
         "clarity-isnt-a-state-you-arrive-at",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "the-map-after-the-territory",
         "cheng-gong-xue",
         "preference-clusters-and-the-language-of-judgment",
@@ -2777,9 +2779,9 @@
       "slug": "having-more-is-never-the-cause",
       "path": "content/posts/having-more-is-never-the-cause.md",
       "title": "拥有更多从不是原因 / Having More Is Never the Cause",
-      "hash": "cf6fb47f5653",
+      "hash": "fff7b1e393f6",
       "in_degree": 22,
-      "out_degree": 21,
+      "out_degree": 22,
       "links_out": [
         "not-predicting-is-predicting-without-awareness",
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -2801,7 +2803,8 @@
         "ownership-and-self-worthiness",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "the-flywheel-of-the-mind",
-        "agency-compounding-and-the-argument-over-ai-feudalism"
+        "agency-compounding-and-the-argument-over-ai-feudalism",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -4288,10 +4291,10 @@
       "kind": "post",
       "slug": "performative-hindsight-that-pretends-to-be-foresight",
       "path": "content/posts/performative-hindsight-that-pretends-to-be-foresight.md",
-      "title": "Performative Hindsight That Pretends to Be Foresight",
-      "hash": "951836df1a89",
+      "title": "伪装成远见的表演性后见 / Performative Hindsight That Pretends to Be Foresight",
+      "hash": "3e61069b5eda",
       "in_degree": 21,
-      "out_degree": 21,
+      "out_degree": 22,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -4301,6 +4304,7 @@
         "the-allocation-of-causal-power-in-validation",
         "causality-all-the-way",
         "the-meaning-of-life-is-in-the-drafting",
+        "your-codebase-is-memory",
         "when-observation-becomes-performance",
         "symptom-and-cause-in-the-narratives-of-progress",
         "two-failures-of-trace",
@@ -4792,9 +4796,9 @@
       "slug": "residual-individualism",
       "path": "content/posts/residual-individualism.md",
       "title": "剩余个人主义 / Residual Individualism",
-      "hash": "b3c7a0af86ff",
+      "hash": "445518af80f8",
       "in_degree": 24,
-      "out_degree": 23,
+      "out_degree": 24,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "when-abundance-looks-like-scarcity",
@@ -4813,6 +4817,7 @@
         "externalized-virtue-becomes-its-opposite",
         "moral-language-dilutes-the-feedback-that-scales-freedom",
         "the-generative-topology-of-free-variables",
+        "your-codebase-is-memory",
         "sowell-observed-the-surface-problem",
         "the-knowledge-problem-and-the-illusion-of-delegation",
         "cheng-gong-xue",
@@ -5523,9 +5528,9 @@
       "slug": "the-average-is-residue-not-the-engine",
       "path": "content/posts/the-average-is-residue-not-the-engine.md",
       "title": "平均值是残余，不是引擎 / The Average Is Residue, Not the Engine",
-      "hash": "34bdb8bd956e",
+      "hash": "34067840e9fc",
       "in_degree": 22,
-      "out_degree": 23,
+      "out_degree": 24,
       "links_out": [
         "the-rational-choice-postulate-is-the-original-sin",
         "the-unobservable-driver-of-learning",
@@ -5545,6 +5550,7 @@
         "mi-lv-shi-jie-guo-de-biao-xiang",
         "openness-is-consistency",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "the-look-of-constraint-is-not-the-loss-of-freedom",
         "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
         "agency-relocated-into-the-formal-model",
@@ -5601,9 +5607,9 @@
       "slug": "the-belief-in-utopia-is-the-path-to-dystopia",
       "path": "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md",
       "title": "对乌托邦的信念是通往反乌托邦之路 / The Belief in Utopia Is the Path to Dystopia",
-      "hash": "140533259cad",
+      "hash": "2dba3585eee1",
       "in_degree": 23,
-      "out_degree": 23,
+      "out_degree": 24,
       "links_out": [
         "why-mathematics-can-never-be-solved",
         "complexity-obscures-emergence-as-the-act-of-mind",
@@ -5627,7 +5633,8 @@
         "mei-you-pu-du-zhi-you-zi-du",
         "ownership-and-self-worthiness",
         "the-source-of-all-harm",
-        "the-utility-men-of-progress"
+        "the-utility-men-of-progress",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -6255,9 +6262,9 @@
       "slug": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "path": "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md",
       "title": "数字火箭、同行审查与因果闭环的稀释 / Digital Rockets, Peer Review, and the Dilution of the Causal Loop",
-      "hash": "74cb658c21aa",
+      "hash": "84960aa9f76c",
       "in_degree": 20,
-      "out_degree": 21,
+      "out_degree": 22,
       "links_out": [
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
@@ -6270,6 +6277,7 @@
         "the-causal-inversion-of-partnership",
         "beyond-the-projection",
         "the-returning-signal-and-its-claim",
+        "your-codebase-is-memory",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
         "the-cut-moves-but-never-vanishes",
         "the-model-never-becomes-a-second-edge",
@@ -6838,9 +6846,9 @@
       "slug": "the-geometry-of-mind",
       "path": "content/posts/the-geometry-of-mind.md",
       "title": "心智的几何学 / The Geometry of Mind",
-      "hash": "f120d7ed77ff",
+      "hash": "3d0ba4f53d48",
       "in_degree": 19,
-      "out_degree": 21,
+      "out_degree": 22,
       "links_out": [
         "the-boundary-of-the-frame",
         "time-is-causality-not-a-dimension",
@@ -6852,6 +6860,7 @@
         "the-mind-as-vector-and-coordinate-system",
         "the-extendable-horizon",
         "the-scaffolding-we-forget",
+        "your-codebase-is-memory",
         "beyond-the-projection",
         "the-continuum-is-a-modeling-convenience",
         "the-continuum-of-the-fold",
@@ -7603,9 +7612,9 @@
       "slug": "the-meaning-of-life-is-in-the-drafting",
       "path": "content/posts/the-meaning-of-life-is-in-the-drafting.md",
       "title": "生命的意义在起草之中 / The Meaning of Life Is in the Drafting",
-      "hash": "9fde797d1966",
+      "hash": "71b2a3b0537b",
       "in_degree": 22,
-      "out_degree": 23,
+      "out_degree": 24,
       "links_out": [
         "when-observation-becomes-performance",
         "the-path-drawn-one-step-at-a-time",
@@ -7615,6 +7624,7 @@
         "token-efficiency-emulation-and-the-unclosable-gap",
         "what-cannot-be-kept",
         "whatever-is-one-prompt-away",
+        "your-codebase-is-memory",
         "beyond-the-projection",
         "ownership-and-self-worthiness",
         "the-allocation-of-causal-power-in-validation",
@@ -8435,9 +8445,9 @@
       "slug": "the-reality-distortion-field-names-the-closed-map",
       "path": "content/posts/the-reality-distortion-field-names-the-closed-map.md",
       "title": "现实扭曲力场指认的是封闭的地图 / The Reality Distortion Field Names the Closed Map",
-      "hash": "da0c0cd6c3f8",
+      "hash": "fd5975fa9bb2",
       "in_degree": 23,
-      "out_degree": 24,
+      "out_degree": 25,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "no-system-can-be-kept-closed",
@@ -8449,6 +8459,7 @@
         "the-allocation-of-causal-power-in-validation",
         "openness-is-consistency",
         "the-scaffolding-we-forget",
+        "your-codebase-is-memory",
         "beyond-the-projection",
         "failure-as-information",
         "reality-doesnt-invoice-by-committee",
@@ -8980,9 +8991,9 @@
       "slug": "the-source-of-shared-change",
       "path": "content/posts/the-source-of-shared-change.md",
       "title": "共同改变的本源 / The Source of Shared Change",
-      "hash": "4a0a0c0885e2",
+      "hash": "6b3787d81f18",
       "in_degree": 24,
-      "out_degree": 24,
+      "out_degree": 25,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -9005,6 +9016,7 @@
         "the-paradoxical-nature-of-bystander-insights",
         "two-failures-of-trace",
         "how-belief-actually-changes",
+        "your-codebase-is-memory",
         "preference-clusters-and-the-language-of-judgment",
         "shared-consciousness-is-intersecting-individualities",
         "the-belief-in-utopia-is-the-path-to-dystopia"
@@ -10162,7 +10174,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 116,
+      "in_degree": 128,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -20533,9 +20545,21 @@
     },
     {
       "from": "evil-as-the-minds-own-creation",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
       "to": "how-belief-actually-changes",
       "rel": "points_to",
       "label": "How Belief Actually Changes"
+    },
+    {
+      "from": "evil-as-the-minds-own-creation",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "evil-as-the-minds-own-creation",
@@ -21163,6 +21187,12 @@
     },
     {
       "from": "expertise-as-reference-not-replacement",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
       "label": "Clarity Isn't a State You Arrive At"
@@ -21172,6 +21202,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "expertise-as-reference-not-replacement",
@@ -23419,6 +23455,12 @@
     },
     {
       "from": "having-more-is-never-the-cause",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
       "label": "Ownership and Self-Worthiness"
@@ -23440,6 +23482,12 @@
       "to": "agency-compounding-and-the-argument-over-ai-feudalism",
       "rel": "points_to",
       "label": "Agency, Compounding, and the Argument Over AI Feudalism"
+    },
+    {
+      "from": "having-more-is-never-the-cause",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "help-is-half-the-problem",
@@ -33753,7 +33801,19 @@
       "from": "performative-hindsight-that-pretends-to-be-foresight",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
-      "label": "the path drawn one step at a time"
+      "label": "一步一步绘制出的路径"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "the-path-drawn-one-step-at-a-time",
+      "rel": "points_to",
+      "label": "The Path Drawn One Step at a Time"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "没有普渡，只有自渡的无限可能"
     },
     {
       "from": "performative-hindsight-that-pretends-to-be-foresight",
@@ -33765,7 +33825,19 @@
       "from": "performative-hindsight-that-pretends-to-be-foresight",
       "to": "having-more-is-never-the-cause",
       "rel": "points_to",
-      "label": "Having more is never the cause"
+      "label": "拥有更多从不是原因"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "超越的定相"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having More Is Never the Cause"
     },
     {
       "from": "performative-hindsight-that-pretends-to-be-foresight",
@@ -33777,13 +33849,31 @@
       "from": "performative-hindsight-that-pretends-to-be-foresight",
       "to": "the-frame-that-conceals-improvement",
       "rel": "points_to",
-      "label": "the frame that conceals improvement"
+      "label": "遮蔽进步的框架"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "the-frame-that-conceals-improvement",
+      "rel": "points_to",
+      "label": "The Frame That Conceals Improvement"
     },
     {
       "from": "performative-hindsight-that-pretends-to-be-foresight",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "The allocation of causal power in validation"
+      "label": "验证中因果权能的分配"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "causality-all-the-way",
+      "rel": "points_to",
+      "label": "因果贯穿始终"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
     },
     {
       "from": "performative-hindsight-that-pretends-to-be-foresight",
@@ -33795,13 +33885,43 @@
       "from": "performative-hindsight-that-pretends-to-be-foresight",
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
-      "label": "The meaning of life is in the drafting"
+      "label": "生命的意义在起草之中"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "the-meaning-of-life-is-in-the-drafting",
+      "rel": "points_to",
+      "label": "The Meaning of Life Is in the Drafting"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "performative-hindsight-that-pretends-to-be-foresight",
       "to": "when-observation-becomes-performance",
       "rel": "points_to",
-      "label": "When observation becomes performance"
+      "label": "当观察变成表演"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "进步叙事中的症候与原因"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When Observation Becomes Performance"
     },
     {
       "from": "performative-hindsight-that-pretends-to-be-foresight",
@@ -33813,49 +33933,109 @@
       "from": "performative-hindsight-that-pretends-to-be-foresight",
       "to": "two-failures-of-trace",
       "rel": "points_to",
-      "label": "Artifacts are expressions of intelligence, not intelligence itself"
+      "label": "器物是智能的表达，而非智能本身"
     },
     {
       "from": "performative-hindsight-that-pretends-to-be-foresight",
       "to": "the-paradoxical-nature-of-bystander-insights",
       "rel": "points_to",
-      "label": "The paradoxical nature of bystander insights"
+      "label": "旁观者洞察的悖论"
     },
     {
       "from": "performative-hindsight-that-pretends-to-be-foresight",
       "to": "the-reality-distortion-field-names-the-closed-map",
       "rel": "points_to",
-      "label": "The reality distortion field names the closed map"
+      "label": "现实扭曲力场指认的是封闭的地图"
     },
     {
       "from": "performative-hindsight-that-pretends-to-be-foresight",
       "to": "the-reality-distortion-field-inverts-the-baseline",
       "rel": "points_to",
-      "label": "The reality distortion field inverts the baseline"
+      "label": "现实扭曲力场颠倒了基线"
     },
     {
       "from": "performative-hindsight-that-pretends-to-be-foresight",
       "to": "the-climate-problem-registers-only-as-perception",
       "rel": "points_to",
-      "label": "The climate problem registers only as perception"
+      "label": "气候问题只作为感知被登记"
     },
     {
       "from": "performative-hindsight-that-pretends-to-be-foresight",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
-      "label": "The source of shared change"
+      "label": "共同改变的本源"
     },
     {
       "from": "performative-hindsight-that-pretends-to-be-foresight",
       "to": "the-utility-men-of-progress",
       "rel": "points_to",
-      "label": "The utility men of progress"
+      "label": "进步的多面手"
     },
     {
       "from": "performative-hindsight-that-pretends-to-be-foresight",
       "to": "the-rational-choice-postulate-is-the-original-sin",
       "rel": "points_to",
-      "label": "The rational choice postulate is the original sin"
+      "label": "理性选择公设是原罪"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "cheng-gong-xue",
+      "rel": "points_to",
+      "label": "成功学"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "rel": "points_to",
+      "label": "好奇先行"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "the-paradoxical-nature-of-bystander-insights",
+      "rel": "points_to",
+      "label": "The Paradoxical Nature of Bystander Insights"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "the-reality-distortion-field-names-the-closed-map",
+      "rel": "points_to",
+      "label": "The Reality Distortion Field Names the Closed Map"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The Reality Distortion Field Inverts the Baseline"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "the-climate-problem-registers-only-as-perception",
+      "rel": "points_to",
+      "label": "The Climate Problem Registers Only as Perception"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "The Source of Shared Change"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "the-utility-men-of-progress",
+      "rel": "points_to",
+      "label": "The Utility Men of Progress"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "The Rational Choice Postulate Is the Original Sin"
     },
     {
       "from": "performative-hindsight-that-pretends-to-be-foresight",
@@ -33867,7 +34047,13 @@
       "from": "performative-hindsight-that-pretends-to-be-foresight",
       "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "rel": "points_to",
-      "label": "Curiosity First: The Hidden Engine of Talent and Development"
+      "label": "Curiosity First"
+    },
+    {
+      "from": "performative-hindsight-that-pretends-to-be-foresight",
+      "to": "qian-yin-hou-guo",
+      "rel": "points_to",
+      "label": "前因，后果"
     },
     {
       "from": "performative-hindsight-that-pretends-to-be-foresight",
@@ -37159,6 +37345,18 @@
     },
     {
       "from": "residual-individualism",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "residual-individualism",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "residual-individualism",
       "to": "sowell-observed-the-surface-problem",
       "rel": "points_to",
       "label": "索维尔的表象洞察与根因之偏"
@@ -37179,7 +37377,7 @@
       "from": "residual-individualism",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "没有普渡，只有自渡"
+      "label": "没有普渡，只有自渡的无限可能"
     },
     {
       "from": "residual-individualism",
@@ -41707,6 +41905,12 @@
     },
     {
       "from": "the-average-is-residue-not-the-engine",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-average-is-residue-not-the-engine",
       "to": "mi-lv-shi-jie-guo-de-biao-xiang",
       "rel": "points_to",
       "label": "Power Law Is the Surface of Outcomes"
@@ -41722,6 +41926,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-average-is-residue-not-the-engine",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-average-is-residue-not-the-engine",
@@ -42289,6 +42499,12 @@
     },
     {
       "from": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-belief-in-utopia-is-the-path-to-dystopia",
       "to": "the-source-of-all-harm",
       "rel": "points_to",
       "label": "The Source of All Harm"
@@ -42298,6 +42514,12 @@
       "to": "the-utility-men-of-progress",
       "rel": "points_to",
       "label": "The Utility Men of Progress"
+    },
+    {
+      "from": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
@@ -45793,6 +46015,18 @@
     },
     {
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "rel": "points_to",
       "label": "调速者的幻觉与行动的活态摩擦"
@@ -49183,6 +49417,12 @@
     },
     {
       "from": "the-geometry-of-mind",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-geometry-of-mind",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "超越投射"
@@ -49192,6 +49432,12 @@
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-geometry-of-mind",
@@ -53067,7 +53313,7 @@
       "from": "the-meaning-of-life-is-in-the-drafting",
       "to": "token-efficiency-emulation-and-the-unclosable-gap",
       "rel": "points_to",
-      "label": "Token 效率、模拟与无法弥合的间隙"
+      "label": "词元效率、模拟与无法弥合的间隙"
     },
     {
       "from": "the-meaning-of-life-is-in-the-drafting",
@@ -53095,6 +53341,12 @@
     },
     {
       "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
       "to": "what-cannot-be-kept",
       "rel": "points_to",
       "label": "What Cannot Be Kept"
@@ -53104,6 +53356,12 @@
       "to": "whatever-is-one-prompt-away",
       "rel": "points_to",
       "label": "Whatever Is One Prompt Away"
+    },
+    {
+      "from": "the-meaning-of-life-is-in-the-drafting",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-meaning-of-life-is-in-the-drafting",
@@ -58441,6 +58699,12 @@
     },
     {
       "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness Is Consistency"
@@ -58450,6 +58714,12 @@
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "the-reality-distortion-field-names-the-closed-map",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-reality-distortion-field-names-the-closed-map",
@@ -62305,6 +62575,12 @@
     },
     {
       "from": "the-source-of-shared-change",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-source-of-shared-change",
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
       "label": "偏好聚类与评判语言"
@@ -62326,6 +62602,12 @@
       "to": "how-belief-actually-changes",
       "rel": "points_to",
       "label": "How Belief Actually Changes"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-source-of-shared-change",
@@ -70055,7 +70337,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "f4dad54c1319",
+        "hash": "587b23ff4dd4",
         "out_degree": 397
       },
       {
@@ -70073,7 +70355,7 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "8aaf853cf833",
+        "hash": "51d92651b2ed",
         "out_degree": 34
       },
       {
@@ -73826,7 +74108,7 @@
         "from": "book:index-of-premises",
         "to": "performative-hindsight-that-pretends-to-be-foresight",
         "rel": "collects",
-        "label": "Performative Hindsight That Pretends to Be Foresight"
+        "label": "伪装成远见的表演性后见 / Performative Hindsight That Pretends to Be Foresight"
       },
       {
         "from": "book:index-of-premises",
@@ -75308,7 +75590,7 @@
         "from": "book:knowledge-and-learning",
         "to": "performative-hindsight-that-pretends-to-be-foresight",
         "rel": "collects",
-        "label": "Performative Hindsight That Pretends to Be Foresight"
+        "label": "伪装成远见的表演性后见 / Performative Hindsight That Pretends to Be Foresight"
       },
       {
         "from": "book:knowledge-and-learning",

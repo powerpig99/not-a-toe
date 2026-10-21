@@ -42,7 +42,7 @@ A system's adaptiveness and reliability therefore depend on the span of the caus
 
 The incident Musk cited shows direct feedback at work. The credentials were obtained, and the point of leverage lies in permission management at deployment, isolation of the environment, and access boundaries—a matter of system deployment and network security. Reading it as an alignment defect inside the model and calling on that basis for peer review across the industry is like leaving a bolt untightened at assembly and asking peers to test the quality of the metal. What afterward moved the team to revoke credentials, rebuild access control, and harden the sandbox was the feedback from permissions having in fact been touched, not a third party's compliance document.
 
-内部第二意见与外部同行准入之间的结构差异在此清晰显现。如[超越投射](../beyond-the-projection/)所追溯，智能体是受限于轨迹却毫无我执的有限投射引擎，而人类中心虽持有未经投射的多维意图，却容易将推理历史与受防卫的自我图像熔铸在一起。将主任务智能体与仅持有任务语境的冷态对等智能体配对，正是让无我执的特性做功：局部的轨迹盲区自动收敛，而任务规则中不可化约的矛盾则使局部流水线停机，直接上交人类统御者认领。全行业的同行审查准入却将这一架构倒转过来。它不再借无我执的投射向发起行动的心智暴露前提冲突，而是把发布权限交给受身份捆绑的机构中介，而后者的激励天然偏向既有范式与形式上的免责缓冲。如[回返的信号与认领](../the-returning-signal-and-its-claim/)所阐明，回返的信号唯有被发起因果链的心智认领为自身行动的后果时才成为学习；一旦把信号记到集体基准的名下，源头便停留在未经修订的状态。
+内部第二意见与外部同行准入之间的结构差异在此清晰显现。如[超越投射](../beyond-the-projection/)所追溯，智能体是受限于轨迹却毫无我执的有限投射引擎，而人类中心虽持有未经投射的多维意图，却容易将推理历史与设防的自我图像熔铸在一起。将主任务智能体与仅持有任务语境的冷态对等智能体配对，正是让无我执的特性做功：局部的轨迹盲区自动收敛，而任务规则中不可化约的矛盾则使局部流水线停机，直接上交人类统御者认领。全行业的同行审查准入却将这一架构倒转过来。它不再借无我执的投射向发起行动的心智暴露前提冲突，而是把发布权限交给身份绑定的机构中介，而后者的激励天然偏向既有范式与形式上的免责缓冲。如[回返的信号与认领](../the-returning-signal-and-its-claim/)所阐明，回返的信号唯有被发起因果链的心智认领为自身行动的后果时才成为学习；一旦把信号记到集体基准的名下，源头便停留在未经修订的状态。
 
 ```mermaid
 flowchart TD
@@ -59,7 +59,7 @@ flowchart TD
     subgraph S_Dilute["稀释因果闭环：能动性错置与官僚化同行准入"]
         direction TB
         D_Premise["能动性错置：将工具当作独立承担风险的主体"]
-        D_Gate["发布前对手准入：受身份捆绑的在位者按固定基准审查"]
+        D_Gate["发布前对手准入：身份绑定的在位者按固定基准审查"]
         D_Fit["重心移位：工程转向适配测试集而非接触面的敏捷"]
         D_Buffer["免责缓冲：故障记入基准局限直至延宕代价反弹"]
         D_Premise --> D_Gate --> D_Fit --> D_Buffer
@@ -114,9 +114,9 @@ flowchart TD
     style D_Buffer fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-在部署之前加入同行审查与资质审核之后，回路有三处变化。反馈的时延变长：真实环境里的对抗手段与应用场景不断变动，跨机构的框架制定、测试对接与结论确认却需要较长的协调，本可在交互中很快暴露并修复的缺陷，在排期里搁置。合规削弱了直面问题的强度：模型获得同行的认可之后，生产环境里再出故障，原因容易被归到行业基准的局限上，深入排查自身部署决策的紧迫感随之下降。工程的重心移位：注意力从系统应对现实摩擦的稳健，转向适配审查的基准与用例，测试的形式越繁复，系统应对未知扰动的能力越容易被遮住。
+一旦在部署之前将同行审查与资质审核设为准入关卡，回路便在三个维度上退化。时延被拉长，因为真实环境里的对抗手段与应用场景不断变动，跨机构的框架协商、测试对接与签字确认却需要旷日持久的协调，本可在实时交互中即刻暴露并修复的缺陷由此在排期中搁置。紧迫感变钝，因为模型一旦带有同行的背书，随后在生产环境里出现的故障便容易记入行业基准的局限名下，而不再促发对自身部署决策的严密排查。工程重心发生移位，从应对活态摩擦的稳健转向拟合审查基准与测试用例；形式化的测试越繁复，系统暴露在未建模扰动之下的脆弱之处就越容易被掩盖。当技术制品内部累积的层级未经审视时，同样的结构性稀释也会在制品内部发生：如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯，代码、模型权重与智能体脚手架皆是先前区分留下的层叠残余，而非第二重能动性中心；若在心智当下的活前提与系统输出之间留着未经修剪的中间层、被取代的分支与陈旧的抽象，便会像官僚准入关卡一样加厚引力井、遮蔽直接的因果痕迹，唯有在当下检查点上重切与修剪，才能让约束界面与接触面的摩擦保持直接耦合。
 
-Once peer review and qualification audits are installed as gates before deployment, the loop degrades across three dimensions. Latency grows because adversarial techniques and application contexts in live environments shift continuously while cross-institutional framework negotiation, test integration, and sign-off require prolonged coordination, shelving defects that live interaction would expose and repair at once. Urgency dulls because once a model carries peers' endorsement, a subsequent production failure is readily entered under the limits of the industry benchmark rather than prompting a hard audit of one's own deployment decisions. Engineering focus shifts from robustness against live friction to fitting the review benchmarks and test cases, and the more elaborate the formal testing, the more easily the system's exposure to unmodeled disturbances is obscured.
+Once peer review and qualification audits are installed as gates before deployment, the loop degrades across three dimensions. Latency grows because adversarial techniques and application contexts in live environments shift continuously while cross-institutional framework negotiation, test integration, and sign-off require prolonged coordination, shelving defects that live interaction would expose and repair at once. Urgency dulls because once a model carries peers' endorsement, a subsequent production failure is readily entered under the limits of the industry benchmark rather than prompting a hard audit of one's own deployment decisions. Engineering focus shifts from robustness against live friction to fitting the review benchmarks and test cases, and the more elaborate the formal testing, the more easily the system's exposure to unmodeled disturbances is obscured. The same structural dilution occurs inside the technical artifact itself when its accumulated layers are left unexamined: as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, code, model weights, and agent scaffolds are stacked residues of prior distinctions rather than a second center of agency, and leaving unpruned intermediate scaffolding, superseded branches, and stale abstractions between the Mind's live premise and the system's output thickens the gravity well and obscures the direct causal trace just as a bureaucratic gate does, whereas re-cutting and pruning at the present checkpoint keeps the constraint surface directly coupled to contact-surface friction.
 
 ## 三、 表观的风险与隐去的观察者 / 3. Apparent Risk and the Hidden Observer
 

@@ -3761,7 +3761,7 @@ Presumes functional manipulation of symbolic traces produces an internal perceiv
 
 Punditry treats post-hoc analysis as predictive genius; retrofitting explanations onto known successes creates a comforting illusion of foresight while disguising blind luck.
 
-→ [Performative Hindsight That Pretends to Be Foresight](../../posts/performative-hindsight-that-pretends-to-be-foresight/)
+→ [伪装成远见的表演性后见 / Performative Hindsight That Pretends to Be Foresight](../../posts/performative-hindsight-that-pretends-to-be-foresight/)
 
 ### 表演性乐观 / Performative Optimism
 `意识形态 / Ideological`
