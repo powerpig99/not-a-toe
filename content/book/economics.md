@@ -12,12 +12,12 @@ Drawing on Misesian and Hayekian insights on distributed knowledge, these essays
 
 ## 篇目 / Essays
 
-- [Efficiency Without Differentiation Is Movement Without Existence](../../posts/efficiency-without-differentiation/)
+- [没有区分的效率是没有存在的运动 / Efficiency Without Differentiation Is Movement Without Existence](../../posts/efficiency-without-differentiation/)
 - [AI Won't Kill Software Engineering—It Will Expand It](../../posts/ai-wont-kill-software-engineering/)
 - [生产创造自己的意识形态消费 / Production Creates Its Own Ideological Consumption](../../posts/fate-loves-irony-refined/)
-- [When Abundance Looks Like Scarcity](../../posts/when-abundance-looks-like-scarcity/)
+- [当丰裕看起来像稀缺 / When Abundance Looks Like Scarcity](../../posts/when-abundance-looks-like-scarcity/)
 - [The Measurement Lag](../../posts/intelligence-crisis-response/)
-- [Humans, Tokens, and the Scope of Valuation](../../posts/humans-tokens-and-the-scope-of-valuation/)
+- [人、Token 与估值的范围 / Humans, Tokens, and the Scope of Valuation](../../posts/humans-tokens-and-the-scope-of-valuation/)
 - [生产、消费与心智的区分 / Production, Consumption, and the Mind's Distinction](../../posts/production-consumption-and-the-minds-distinction/)
 - [清单合上之后，胜过免费 / Better Than Free After the Checklist Closes](../../posts/better-than-free-after-the-checklist-closes/)
 - [拥有更多从不是原因 / Having More Is Never the Cause](../../posts/having-more-is-never-the-cause/)

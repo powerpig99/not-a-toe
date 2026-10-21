@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T08:37:29.938Z",
+    "generated_at": "2026-10-21T08:56:15.269Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -66,13 +66,13 @@
       "content/posts/distillation-compression-agency.md": "a69508711063",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "b64fa4420bd4",
       "content/posts/e-shi-feng-bi-de-shan.md": "506d716b1645",
-      "content/posts/efficiency-without-differentiation.md": "3e2aad7ba924",
+      "content/posts/efficiency-without-differentiation.md": "3240d0296338",
       "content/posts/emotional-support-as-causal-interference.md": "4c4a477833bd",
       "content/posts/empathy-as-projection-collapse.md": "48c21092f783",
       "content/posts/empowerment-establishes-the-centralization-of-power.md": "88f2c8ef1bd8",
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "7085a1dd3e50",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
-      "content/posts/evil-as-projected-resistance.md": "acd5f06bc9da",
+      "content/posts/evil-as-projected-resistance.md": "d0174318bc94",
       "content/posts/evil-as-the-minds-own-creation.md": "9685bf8b4713",
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "8b82853392d4",
       "content/posts/expertise-as-reference-not-replacement.md": "630ec556bab5",
@@ -82,7 +82,7 @@
       "content/posts/failure-as-information.md": "98ca1f79bd34",
       "content/posts/fate-loves-irony-refined.md": "4173eb2feff2",
       "content/posts/felt-resistance-and-the-speed-differential.md": "7c688ab6bc0e",
-      "content/posts/fidelity-not-optimality.md": "7ed073d86a59",
+      "content/posts/fidelity-not-optimality.md": "15eaacf22453",
       "content/posts/fixed-by-nothing.md": "9f5437174a82",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
       "content/posts/freedom-as-ground.md": "76afe66c491b",
@@ -97,14 +97,14 @@
       "content/posts/hardness-is-not-inherent-in-the-action.md": "316eb567ee9c",
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "4ca9797d5e48",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
-      "content/posts/hassabis-frontier-agi-premise.md": "5c4fc62c8e77",
+      "content/posts/hassabis-frontier-agi-premise.md": "5bb4aad4ec8f",
       "content/posts/having-more-is-never-the-cause.md": "fff7b1e393f6",
       "content/posts/help-is-half-the-problem.md": "b370c85eb106",
       "content/posts/hierarchy-from-individual-difference.md": "69e9c1301745",
       "content/posts/how-belief-actually-changes.md": "c5fe5bd1c82a",
       "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "9c200c5c4e2a",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
-      "content/posts/humans-tokens-and-the-scope-of-valuation.md": "ac28f43f0e59",
+      "content/posts/humans-tokens-and-the-scope-of-valuation.md": "2740c5400321",
       "content/posts/immortality-final.md": "df5d92452896",
       "content/posts/individual-choices-as-the-only-causal-levers.md": "35b065ab09af",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "425497acb31b",
@@ -117,7 +117,7 @@
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "d7b5f20a6f6a",
       "content/posts/manifesto-of-not-a-theory-of-everything.md": "5b88319c7739",
       "content/posts/math-as-a-career-is-not-math-as-a-pursuit.md": "295f0ae6bd95",
-      "content/posts/meaning-of-life-refined.md": "2157fd1da622",
+      "content/posts/meaning-of-life-refined.md": "1ae50e3e9204",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "02c235243d39",
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "57fc51f7e01d",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
@@ -135,7 +135,7 @@
       "content/posts/nobody-has-seen-anything-yet.md": "684b9268b2c2",
       "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md": "9a865742b9bb",
       "content/posts/not-a-theory-of-everything.md": "4d8057e37ce3",
-      "content/posts/not-a-toe-rewrite.md": "5d3abd405e41",
+      "content/posts/not-a-toe-rewrite.md": "99150d84dc27",
       "content/posts/not-predicting-is-predicting-without-awareness.md": "750dd47f6c5b",
       "content/posts/objects-are-stabilized-relationships.md": "54def9af6a16",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "e155f3d0f778",
@@ -147,7 +147,7 @@
       "content/posts/open-vision-in-a-closed-arena.md": "98c32fc1001d",
       "content/posts/openness-is-consistency.md": "75ba5238a649",
       "content/posts/order-surplus-and-the-moral-intercept.md": "7cb3a1c5111c",
-      "content/posts/overfitting-as-the-follower-mode.md": "c2ebb1c4e1e2",
+      "content/posts/overfitting-as-the-follower-mode.md": "0456d9f85a5c",
       "content/posts/ownership-and-self-worthiness.md": "dfb40cb50651",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "ccfe0b71ff75",
       "content/posts/perception-perspective-refined.md": "e05973d21de9",
@@ -284,7 +284,7 @@
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "ff064e746f65",
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "e2c53537d905",
       "content/posts/the-ledger-of-the-unencountered.md": "7cc479153e27",
-      "content/posts/the-limitation-is-doing-work.md": "d9e53e47a265",
+      "content/posts/the-limitation-is-doing-work.md": "0775ab533348",
       "content/posts/the-living-context.md": "0603cd0d3ea2",
       "content/posts/the-local-trap-of-technological-change.md": "90573245bd77",
       "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "9c43b9beb0a3",
@@ -384,20 +384,20 @@
       "content/posts/what-information-is.md": "db25cf6703e1",
       "content/posts/what-works-is-the-belief.md": "38b7c3f217e1",
       "content/posts/whatever-is-one-prompt-away.md": "2a70052b8308",
-      "content/posts/when-abundance-looks-like-scarcity.md": "c3c272357465",
+      "content/posts/when-abundance-looks-like-scarcity.md": "8ffe214e39a4",
       "content/posts/when-electrons-think.md": "fbdd3178e8f3",
       "content/posts/when-malfunction-is-scored-as-intelligence.md": "8adae7d53567",
       "content/posts/when-need-stops-being-the-measure.md": "d751b4079d88",
       "content/posts/when-observation-becomes-performance.md": "fc49af651c83",
       "content/posts/when-the-effect-authors-the-frame.md": "7d330f511260",
-      "content/posts/why-explanation-fails.md": "4bd98e24db9a",
+      "content/posts/why-explanation-fails.md": "7983bb8f8771",
       "content/posts/why-mathematics-can-never-be-solved.md": "cf02a7399345",
       "content/posts/writing-without-the-image.md": "e3d031867578",
       "content/posts/xian-shi-de-bian-jie.md": "2c30017f1800",
       "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "f4334d8f6b04",
       "content/posts/you-cant-benchmark-the-fluid.md": "1bebd37668bc",
       "content/posts/you-tiao-jian-de-zi-you.md": "951537534f9e",
-      "content/posts/you-wu-zhi-bian.md": "70bb215a86a7",
+      "content/posts/you-wu-zhi-bian.md": "de3cca5f81ee",
       "content/posts/your-codebase-is-memory.md": "4a4689dd4a10",
       "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "59220f9cdf84",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "f1f3cd0266ec",
@@ -405,17 +405,17 @@
       "content/posts/zi-you-de-ce-bu-zhun.md": "9adfc20af9ce",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "c0c80009ca9d",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "ac686192b927",
-      "content/book/causality.md": "cedfa893014c",
+      "content/book/causality.md": "58084f9648d2",
       "content/book/consciousness.md": "d8595aa6097d",
-      "content/book/economics.md": "c254ddfa5803",
-      "content/book/index-of-premises.md": "bf6c338c5d91",
-      "content/book/intelligence.md": "f896d0850c32",
-      "content/book/knowledge-and-learning.md": "51d92651b2ed",
+      "content/book/economics.md": "fd4de04be804",
+      "content/book/index-of-premises.md": "e659a91bf992",
+      "content/book/intelligence.md": "f910d80b65a2",
+      "content/book/knowledge-and-learning.md": "fd2f184ec9fe",
       "content/book/life-and-statistics.md": "903bd0f56d99",
-      "content/book/mathematics.md": "511585102871",
-      "content/book/meaning-and-transcendence.md": "ce5168a72c34",
+      "content/book/mathematics.md": "b3a02f0cdea3",
+      "content/book/meaning-and-transcendence.md": "e4eff0a16926",
       "content/book/method.md": "6246e4ef1096",
-      "content/book/morality.md": "54c8e4f605b9",
+      "content/book/morality.md": "fa8a9103175f",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "d0065384016a",
       "content/book/state-and-collective.md": "7d0cb00e0e55",
@@ -424,10 +424,10 @@
     },
     "stats": {
       "posts": 397,
-      "edges": 10412,
-      "unique_directed": 5128,
+      "edges": 10467,
+      "unique_directed": 5140,
       "missing_targets": 0,
-      "one_way": 646,
+      "one_way": 658,
       "isolated": 35,
       "posts_with_outbound": 361,
       "book_pages": 16,
@@ -438,7 +438,7 @@
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 296
+      "in_degree": 308
     },
     {
       "slug": "beyond-the-projection",
@@ -2128,11 +2128,12 @@
       "kind": "post",
       "slug": "efficiency-without-differentiation",
       "path": "content/posts/efficiency-without-differentiation.md",
-      "title": "Efficiency Without Differentiation Is Movement Without Existence",
-      "hash": "3e2aad7ba924",
+      "title": "没有区分的效率是没有存在的运动 / Efficiency Without Differentiation Is Movement Without Existence",
+      "hash": "3240d0296338",
       "in_degree": 3,
-      "out_degree": 3,
+      "out_degree": 4,
       "links_out": [
+        "your-codebase-is-memory",
         "better-than-free-after-the-checklist-closes",
         "production-consumption-and-the-minds-distinction",
         "token-efficiency-emulation-and-the-unclosable-gap"
@@ -2248,11 +2249,12 @@
       "kind": "post",
       "slug": "evil-as-projected-resistance",
       "path": "content/posts/evil-as-projected-resistance.md",
-      "title": "Evil as Projected Resistance",
-      "hash": "acd5f06bc9da",
+      "title": "恶是投射出的抗拒 / Evil as Projected Resistance",
+      "hash": "d0174318bc94",
       "in_degree": 2,
-      "out_degree": 2,
+      "out_degree": 3,
       "links_out": [
+        "your-codebase-is-memory",
         "not-a-theory-of-everything",
         "evil-as-the-minds-own-creation"
       ]
@@ -2495,13 +2497,14 @@
       "kind": "post",
       "slug": "fidelity-not-optimality",
       "path": "content/posts/fidelity-not-optimality.md",
-      "title": "Fidelity, Not Optimality",
-      "hash": "7ed073d86a59",
+      "title": "保真度而非最优化 / Fidelity, Not Optimality",
+      "hash": "15eaacf22453",
       "in_degree": 3,
-      "out_degree": 3,
+      "out_degree": 4,
       "links_out": [
         "minimizing-path",
         "the-category-error-of-better",
+        "your-codebase-is-memory",
         "the-surface-beneath"
       ]
     },
@@ -2794,11 +2797,12 @@
       "kind": "post",
       "slug": "hassabis-frontier-agi-premise",
       "path": "content/posts/hassabis-frontier-agi-premise.md",
-      "title": "The Catalog That Isn't There",
-      "hash": "5c4fc62c8e77",
+      "title": "并不存在的目录 / The Catalog That Isn't There",
+      "hash": "5bb4aad4ec8f",
       "in_degree": 2,
-      "out_degree": 2,
+      "out_degree": 3,
       "links_out": [
+        "your-codebase-is-memory",
         "agi-and-asi-are-temporary-goalposts",
         "sovereignty-belief-and-regulatory-structures"
       ]
@@ -2978,11 +2982,12 @@
       "kind": "post",
       "slug": "humans-tokens-and-the-scope-of-valuation",
       "path": "content/posts/humans-tokens-and-the-scope-of-valuation.md",
-      "title": "Humans, Tokens, and the Scope of Valuation",
-      "hash": "ac28f43f0e59",
+      "title": "人、Token 与估值的范围 / Humans, Tokens, and the Scope of Valuation",
+      "hash": "2740c5400321",
       "in_degree": 2,
-      "out_degree": 2,
+      "out_degree": 3,
       "links_out": [
+        "your-codebase-is-memory",
         "production-consumption-and-the-minds-distinction",
         "token-efficiency-emulation-and-the-unclosable-gap"
       ]
@@ -3416,12 +3421,13 @@
       "kind": "post",
       "slug": "meaning-of-life-refined",
       "path": "content/posts/meaning-of-life-refined.md",
-      "title": "The Structure of Meaning",
-      "hash": "2157fd1da622",
+      "title": "意义的结构 / The Structure of Meaning",
+      "hash": "1ae50e3e9204",
       "in_degree": 2,
-      "out_degree": 2,
+      "out_degree": 3,
       "links_out": [
         "not-a-theory-of-everything",
+        "your-codebase-is-memory",
         "the-meaning-of-life-is-in-the-drafting"
       ]
     },
@@ -3895,12 +3901,13 @@
       "slug": "not-a-toe-rewrite",
       "path": "content/posts/not-a-toe-rewrite.md",
       "title": "非万物之理·重溯 / Not a ToE Retraced",
-      "hash": "5d3abd405e41",
+      "hash": "99150d84dc27",
       "in_degree": 2,
-      "out_degree": 3,
+      "out_degree": 4,
       "links_out": [
         "dimensions-are-projections",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "not-a-theory-of-everything"
       ]
     },
@@ -4222,12 +4229,13 @@
       "kind": "post",
       "slug": "overfitting-as-the-follower-mode",
       "path": "content/posts/overfitting-as-the-follower-mode.md",
-      "title": "Overfitting as the Follower Mode",
-      "hash": "c2ebb1c4e1e2",
+      "title": "过拟合作为追随者模式 / Overfitting as the Follower Mode",
+      "hash": "0456d9f85a5c",
       "in_degree": 3,
-      "out_degree": 3,
+      "out_degree": 4,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
+        "your-codebase-is-memory",
         "the-meaning-of-life-is-in-the-drafting",
         "better-than-free-after-the-checklist-closes"
       ]
@@ -7581,12 +7589,13 @@
       "kind": "post",
       "slug": "the-limitation-is-doing-work",
       "path": "content/posts/the-limitation-is-doing-work.md",
-      "title": "The Limitation Is Doing Work",
-      "hash": "d9e53e47a265",
+      "title": "限制正在做功 / The Limitation Is Doing Work",
+      "hash": "0775ab533348",
       "in_degree": 3,
-      "out_degree": 3,
+      "out_degree": 4,
       "links_out": [
         "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+        "your-codebase-is-memory",
         "silicon-oracles-and-the-asymmetry-of-consequence",
         "not-a-theory-of-everything"
       ]
@@ -10018,12 +10027,13 @@
       "kind": "post",
       "slug": "when-abundance-looks-like-scarcity",
       "path": "content/posts/when-abundance-looks-like-scarcity.md",
-      "title": "When Abundance Looks Like Scarcity",
-      "hash": "c3c272357465",
+      "title": "当丰裕看起来像稀缺 / When Abundance Looks Like Scarcity",
+      "hash": "8ffe214e39a4",
       "in_degree": 3,
-      "out_degree": 3,
+      "out_degree": 4,
       "links_out": [
         "residual-individualism",
+        "your-codebase-is-memory",
         "the-myth-of-population-collapse-explained",
         "better-than-free-after-the-checklist-closes"
       ]
@@ -10142,12 +10152,13 @@
       "kind": "post",
       "slug": "why-explanation-fails",
       "path": "content/posts/why-explanation-fails.md",
-      "title": "Why Explanation Fails",
-      "hash": "4bd98e24db9a",
+      "title": "解释为何失效 / Why Explanation Fails",
+      "hash": "7983bb8f8771",
       "in_degree": 4,
-      "out_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
+        "your-codebase-is-memory",
         "how-belief-actually-changes",
         "the-observational-cut-in-ai-debates",
         "not-a-theory-of-everything"
@@ -10310,13 +10321,14 @@
       "kind": "post",
       "slug": "you-wu-zhi-bian",
       "path": "content/posts/you-wu-zhi-bian.md",
-      "title": "有无之边",
-      "hash": "70bb215a86a7",
+      "title": "有无之边 / The Edge of Being and Non-Being",
+      "hash": "de3cca5f81ee",
       "in_degree": 4,
-      "out_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "zuo-jian-bu-shi-zi-fu",
         "only-if-it-is-not-kept-empty",
+        "your-codebase-is-memory",
         "qian-yin-hou-guo",
         "not-a-theory-of-everything"
       ]
@@ -10328,7 +10340,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 296,
+      "in_degree": 308,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -20230,6 +20242,24 @@
     },
     {
       "from": "efficiency-without-differentiation",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "efficiency-without-differentiation",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "efficiency-without-differentiation",
+      "to": "better-than-free-after-the-checklist-closes",
+      "rel": "points_to",
+      "label": "清单合上之后，胜过免费"
+    },
+    {
+      "from": "efficiency-without-differentiation",
       "to": "better-than-free-after-the-checklist-closes",
       "rel": "points_to",
       "label": "Better Than Free After the Checklist Closes"
@@ -20238,7 +20268,19 @@
       "from": "efficiency-without-differentiation",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, Consumption, and the Mind’s Distinction"
+      "label": "生产、消费与心智的区分"
+    },
+    {
+      "from": "efficiency-without-differentiation",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, Consumption, and the Mind's Distinction"
+    },
+    {
+      "from": "efficiency-without-differentiation",
+      "to": "token-efficiency-emulation-and-the-unclosable-gap",
+      "rel": "points_to",
+      "label": "Token 效率、模拟与无法弥合的间隙"
     },
     {
       "from": "efficiency-without-differentiation",
@@ -20788,6 +20830,24 @@
     },
     {
       "from": "evil-as-projected-resistance",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "evil-as-projected-resistance",
+      "to": "not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "非万物之理"
+    },
+    {
+      "from": "evil-as-projected-resistance",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "evil-as-projected-resistance",
       "to": "not-a-theory-of-everything",
       "rel": "points_to",
       "label": "Not a Theory of Everything"
@@ -20796,7 +20856,13 @@
       "from": "evil-as-projected-resistance",
       "to": "evil-as-the-minds-own-creation",
       "rel": "points_to",
-      "label": "Evil as the Mind’s Own Creation"
+      "label": "恶是心智自己的造物"
+    },
+    {
+      "from": "evil-as-projected-resistance",
+      "to": "evil-as-the-minds-own-creation",
+      "rel": "points_to",
+      "label": "Evil as the Mind's Own Creation"
     },
     {
       "from": "evil-as-the-minds-own-creation",
@@ -22350,13 +22416,43 @@
       "from": "fidelity-not-optimality",
       "to": "minimizing-path",
       "rel": "points_to",
+      "label": "最小化路径"
+    },
+    {
+      "from": "fidelity-not-optimality",
+      "to": "minimizing-path",
+      "rel": "points_to",
       "label": "The Minimizing Path"
     },
     {
       "from": "fidelity-not-optimality",
       "to": "the-category-error-of-better",
       "rel": "points_to",
+      "label": "「更好」的范畴谬误"
+    },
+    {
+      "from": "fidelity-not-optimality",
+      "to": "the-category-error-of-better",
+      "rel": "points_to",
       "label": "The Category Error of Better"
+    },
+    {
+      "from": "fidelity-not-optimality",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "fidelity-not-optimality",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "fidelity-not-optimality",
+      "to": "the-surface-beneath",
+      "rel": "points_to",
+      "label": "底层表面"
     },
     {
       "from": "fidelity-not-optimality",
@@ -23818,9 +23914,33 @@
     },
     {
       "from": "hassabis-frontier-agi-premise",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "hassabis-frontier-agi-premise",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI 与 ASI 是加速通用智能的暂时球门"
+    },
+    {
+      "from": "hassabis-frontier-agi-premise",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "hassabis-frontier-agi-premise",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
       "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
+    },
+    {
+      "from": "hassabis-frontier-agi-premise",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "主权、信念与规制结构的生成"
     },
     {
       "from": "hassabis-frontier-agi-premise",
@@ -25030,9 +25150,33 @@
     },
     {
       "from": "humans-tokens-and-the-scope-of-valuation",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "humans-tokens-and-the-scope-of-valuation",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "humans-tokens-and-the-scope-of-valuation",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, Consumption, and the Mind’s Distinction"
+      "label": "生产、消费与心智的区分"
+    },
+    {
+      "from": "humans-tokens-and-the-scope-of-valuation",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, Consumption, and the Mind's Distinction"
+    },
+    {
+      "from": "humans-tokens-and-the-scope-of-valuation",
+      "to": "token-efficiency-emulation-and-the-unclosable-gap",
+      "rel": "points_to",
+      "label": "Token 效率、模拟与无法弥合的间隙"
     },
     {
       "from": "humans-tokens-and-the-scope-of-valuation",
@@ -28434,7 +28578,31 @@
       "from": "meaning-of-life-refined",
       "to": "not-a-theory-of-everything",
       "rel": "points_to",
+      "label": "非万物之理"
+    },
+    {
+      "from": "meaning-of-life-refined",
+      "to": "not-a-theory-of-everything",
+      "rel": "points_to",
       "label": "Not a Theory of Everything"
+    },
+    {
+      "from": "meaning-of-life-refined",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "meaning-of-life-refined",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "meaning-of-life-refined",
+      "to": "the-meaning-of-life-is-in-the-drafting",
+      "rel": "points_to",
+      "label": "生命的意义在起草之中"
     },
     {
       "from": "meaning-of-life-refined",
@@ -31666,6 +31834,18 @@
     },
     {
       "from": "not-a-toe-rewrite",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "not-a-toe-rewrite",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "not-a-toe-rewrite",
       "to": "not-a-theory-of-everything",
       "rel": "points_to",
       "label": "非万物之理"
@@ -33876,13 +34056,43 @@
       "from": "overfitting-as-the-follower-mode",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
-      "label": "Closed Reality in Benchmark Maxing — You Can't Overfit an Open Problem"
+      "label": "基准刷榜中的封闭实存"
+    },
+    {
+      "from": "overfitting-as-the-follower-mode",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing"
+    },
+    {
+      "from": "overfitting-as-the-follower-mode",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "overfitting-as-the-follower-mode",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "overfitting-as-the-follower-mode",
+      "to": "the-meaning-of-life-is-in-the-drafting",
+      "rel": "points_to",
+      "label": "生命的意义在起草之中"
     },
     {
       "from": "overfitting-as-the-follower-mode",
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
       "label": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing"
+    },
+    {
+      "from": "overfitting-as-the-follower-mode",
+      "to": "better-than-free-after-the-checklist-closes",
+      "rel": "points_to",
+      "label": "清单合上之后，胜过免费"
     },
     {
       "from": "overfitting-as-the-follower-mode",
@@ -54576,13 +54786,43 @@
       "from": "the-limitation-is-doing-work",
       "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "rel": "points_to",
-      "label": "The distaste for “AI slop” is no different from the recurring historical pattern"
+      "label": "对“AI 糟粕”的反感是反复出现的模式"
+    },
+    {
+      "from": "the-limitation-is-doing-work",
+      "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "rel": "points_to",
+      "label": "The Distaste for \"AI Slop\" Is No Different from the Recurring Historical Pattern"
+    },
+    {
+      "from": "the-limitation-is-doing-work",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-limitation-is-doing-work",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-limitation-is-doing-work",
+      "to": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "rel": "points_to",
+      "label": "硅基神谕与后果的非对称性"
     },
     {
       "from": "the-limitation-is-doing-work",
       "to": "silicon-oracles-and-the-asymmetry-of-consequence",
       "rel": "points_to",
       "label": "Silicon Oracles and the Asymmetry of Consequence"
+    },
+    {
+      "from": "the-limitation-is-doing-work",
+      "to": "not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "非万物之理"
     },
     {
       "from": "the-limitation-is-doing-work",
@@ -70266,13 +70506,43 @@
       "from": "when-abundance-looks-like-scarcity",
       "to": "residual-individualism",
       "rel": "points_to",
-      "label": "Residual individualism"
+      "label": "剩余个人主义"
+    },
+    {
+      "from": "when-abundance-looks-like-scarcity",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "Residual Individualism"
+    },
+    {
+      "from": "when-abundance-looks-like-scarcity",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "when-abundance-looks-like-scarcity",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "when-abundance-looks-like-scarcity",
       "to": "the-myth-of-population-collapse-explained",
       "rel": "points_to",
-      "label": "The myth of population collapse explained"
+      "label": "人口崩溃神话的拆解"
+    },
+    {
+      "from": "when-abundance-looks-like-scarcity",
+      "to": "better-than-free-after-the-checklist-closes",
+      "rel": "points_to",
+      "label": "清单合上之后，胜过免费"
+    },
+    {
+      "from": "when-abundance-looks-like-scarcity",
+      "to": "the-myth-of-population-collapse-explained",
+      "rel": "points_to",
+      "label": "The Myth of Population Collapse Explained"
     },
     {
       "from": "when-abundance-looks-like-scarcity",
@@ -70872,19 +71142,55 @@
       "from": "why-explanation-fails",
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
-      "label": "Reality is the Mind's ongoing realization"
+      "label": "现实是心智持续的实现"
+    },
+    {
+      "from": "why-explanation-fails",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality Is the Mind's Ongoing Realization"
+    },
+    {
+      "from": "why-explanation-fails",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "why-explanation-fails",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "why-explanation-fails",
       "to": "how-belief-actually-changes",
       "rel": "points_to",
-      "label": "How belief actually changes"
+      "label": "信念如何真正改变"
     },
     {
       "from": "why-explanation-fails",
       "to": "the-observational-cut-in-ai-debates",
       "rel": "points_to",
-      "label": "The observational cut in AI debates"
+      "label": "AI 争论中的观察划界"
+    },
+    {
+      "from": "why-explanation-fails",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How Belief Actually Changes"
+    },
+    {
+      "from": "why-explanation-fails",
+      "to": "the-observational-cut-in-ai-debates",
+      "rel": "points_to",
+      "label": "The Observational Cut in AI Debates"
+    },
+    {
+      "from": "why-explanation-fails",
+      "to": "not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "非万物之理"
     },
     {
       "from": "why-explanation-fails",
@@ -71884,9 +72190,33 @@
     },
     {
       "from": "you-wu-zhi-bian",
+      "to": "zuo-jian-bu-shi-zi-fu",
+      "rel": "points_to",
+      "label": "Spinning a Cocoon Is Not Binding Oneself"
+    },
+    {
+      "from": "you-wu-zhi-bian",
       "to": "only-if-it-is-not-kept-empty",
       "rel": "points_to",
       "label": "只要它不被保持为空"
+    },
+    {
+      "from": "you-wu-zhi-bian",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "you-wu-zhi-bian",
+      "to": "only-if-it-is-not-kept-empty",
+      "rel": "points_to",
+      "label": "Only If It Is Not Kept Empty"
+    },
+    {
+      "from": "you-wu-zhi-bian",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "you-wu-zhi-bian",
@@ -71896,9 +72226,21 @@
     },
     {
       "from": "you-wu-zhi-bian",
+      "to": "qian-yin-hou-guo",
+      "rel": "points_to",
+      "label": "Cause Before, Effect After"
+    },
+    {
+      "from": "you-wu-zhi-bian",
       "to": "not-a-theory-of-everything",
       "rel": "points_to",
-      "label": "非万物之理（因果的二重性）"
+      "label": "非万物之理"
+    },
+    {
+      "from": "you-wu-zhi-bian",
+      "to": "not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "Not a Theory of Everything"
     },
     {
       "from": "your-codebase-is-memory",
@@ -72977,7 +73319,7 @@
         "slug": "causality",
         "path": "content/book/causality.md",
         "title": "因果的内外视界 / Inner and Outer Horizons of Causality",
-        "hash": "cedfa893014c",
+        "hash": "58084f9648d2",
         "out_degree": 33
       },
       {
@@ -72995,7 +73337,7 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "c254ddfa5803",
+        "hash": "fd4de04be804",
         "out_degree": 28
       },
       {
@@ -73004,7 +73346,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "bf6c338c5d91",
+        "hash": "e659a91bf992",
         "out_degree": 397
       },
       {
@@ -73013,7 +73355,7 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "f896d0850c32",
+        "hash": "f910d80b65a2",
         "out_degree": 48
       },
       {
@@ -73022,7 +73364,7 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "51d92651b2ed",
+        "hash": "fd2f184ec9fe",
         "out_degree": 34
       },
       {
@@ -73040,7 +73382,7 @@
         "slug": "mathematics",
         "path": "content/book/mathematics.md",
         "title": "数学与逻辑的边界 / The Boundaries of Mathematics and Logic",
-        "hash": "511585102871",
+        "hash": "b3a02f0cdea3",
         "out_degree": 20
       },
       {
@@ -73049,7 +73391,7 @@
         "slug": "meaning-and-transcendence",
         "path": "content/book/meaning-and-transcendence.md",
         "title": "意义追寻与超越之境 / The Search for Meaning and Transcendence",
-        "hash": "ce5168a72c34",
+        "hash": "e4eff0a16926",
         "out_degree": 12
       },
       {
@@ -73067,7 +73409,7 @@
         "slug": "morality",
         "path": "content/book/morality.md",
         "title": "善恶界限与共情陷阱 / Moral Boundaries and the Empathy Trap",
-        "hash": "54c8e4f605b9",
+        "hash": "fa8a9103175f",
         "out_degree": 28
       },
       {
@@ -73127,7 +73469,7 @@
         "from": "book:causality",
         "to": "the-limitation-is-doing-work",
         "rel": "collects",
-        "label": "The Limitation Is Doing Work"
+        "label": "限制正在做功 / The Limitation Is Doing Work"
       },
       {
         "from": "book:causality",
@@ -73553,7 +73895,7 @@
         "from": "book:economics",
         "to": "efficiency-without-differentiation",
         "rel": "collects",
-        "label": "Efficiency Without Differentiation Is Movement Without Existence"
+        "label": "没有区分的效率是没有存在的运动 / Efficiency Without Differentiation Is Movement Without Existence"
       },
       {
         "from": "book:economics",
@@ -73571,7 +73913,7 @@
         "from": "book:economics",
         "to": "when-abundance-looks-like-scarcity",
         "rel": "collects",
-        "label": "When Abundance Looks Like Scarcity"
+        "label": "当丰裕看起来像稀缺 / When Abundance Looks Like Scarcity"
       },
       {
         "from": "book:economics",
@@ -73583,7 +73925,7 @@
         "from": "book:economics",
         "to": "humans-tokens-and-the-scope-of-valuation",
         "rel": "collects",
-        "label": "Humans, Tokens, and the Scope of Valuation"
+        "label": "人、Token 与估值的范围 / Humans, Tokens, and the Scope of Valuation"
       },
       {
         "from": "book:economics",
@@ -74147,7 +74489,7 @@
         "from": "book:index-of-premises",
         "to": "you-wu-zhi-bian",
         "rel": "collects",
-        "label": "有无之边"
+        "label": "有无之边 / The Edge of Being and Non-Being"
       },
       {
         "from": "book:index-of-premises",
@@ -74465,7 +74807,7 @@
         "from": "book:index-of-premises",
         "to": "overfitting-as-the-follower-mode",
         "rel": "collects",
-        "label": "Overfitting as the Follower Mode"
+        "label": "过拟合作为追随者模式 / Overfitting as the Follower Mode"
       },
       {
         "from": "book:index-of-premises",
@@ -74897,7 +75239,7 @@
         "from": "book:index-of-premises",
         "to": "when-abundance-looks-like-scarcity",
         "rel": "collects",
-        "label": "When Abundance Looks Like Scarcity"
+        "label": "当丰裕看起来像稀缺 / When Abundance Looks Like Scarcity"
       },
       {
         "from": "book:index-of-premises",
@@ -75551,7 +75893,7 @@
         "from": "book:index-of-premises",
         "to": "you-wu-zhi-bian",
         "rel": "collects",
-        "label": "有无之边"
+        "label": "有无之边 / The Edge of Being and Non-Being"
       },
       {
         "from": "book:index-of-premises",
@@ -75779,7 +76121,7 @@
         "from": "book:index-of-premises",
         "to": "the-limitation-is-doing-work",
         "rel": "collects",
-        "label": "The Limitation Is Doing Work"
+        "label": "限制正在做功 / The Limitation Is Doing Work"
       },
       {
         "from": "book:index-of-premises",
@@ -75797,7 +76139,7 @@
         "from": "book:index-of-premises",
         "to": "efficiency-without-differentiation",
         "rel": "collects",
-        "label": "Efficiency Without Differentiation Is Movement Without Existence"
+        "label": "没有区分的效率是没有存在的运动 / Efficiency Without Differentiation Is Movement Without Existence"
       },
       {
         "from": "book:index-of-premises",
@@ -75923,7 +76265,7 @@
         "from": "book:index-of-premises",
         "to": "evil-as-projected-resistance",
         "rel": "collects",
-        "label": "Evil as Projected Resistance"
+        "label": "恶是投射出的抗拒 / Evil as Projected Resistance"
       },
       {
         "from": "book:index-of-premises",
@@ -75941,7 +76283,7 @@
         "from": "book:index-of-premises",
         "to": "why-explanation-fails",
         "rel": "collects",
-        "label": "Why Explanation Fails"
+        "label": "解释为何失效 / Why Explanation Fails"
       },
       {
         "from": "book:index-of-premises",
@@ -76073,7 +76415,7 @@
         "from": "book:index-of-premises",
         "to": "hassabis-frontier-agi-premise",
         "rel": "collects",
-        "label": "The Catalog That Isn't There"
+        "label": "并不存在的目录 / The Catalog That Isn't There"
       },
       {
         "from": "book:index-of-premises",
@@ -76127,7 +76469,7 @@
         "from": "book:index-of-premises",
         "to": "fidelity-not-optimality",
         "rel": "collects",
-        "label": "Fidelity, Not Optimality"
+        "label": "保真度而非最优化 / Fidelity, Not Optimality"
       },
       {
         "from": "book:index-of-premises",
@@ -76673,7 +77015,7 @@
         "from": "book:index-of-premises",
         "to": "meaning-of-life-refined",
         "rel": "collects",
-        "label": "The Structure of Meaning"
+        "label": "意义的结构 / The Structure of Meaning"
       },
       {
         "from": "book:index-of-premises",
@@ -77639,7 +77981,7 @@
         "from": "book:index-of-premises",
         "to": "humans-tokens-and-the-scope-of-valuation",
         "rel": "collects",
-        "label": "Humans, Tokens, and the Scope of Valuation"
+        "label": "人、Token 与估值的范围 / Humans, Tokens, and the Scope of Valuation"
       },
       {
         "from": "book:index-of-premises",
@@ -78023,13 +78365,13 @@
         "from": "book:intelligence",
         "to": "overfitting-as-the-follower-mode",
         "rel": "collects",
-        "label": "Overfitting as the Follower Mode"
+        "label": "过拟合作为追随者模式 / Overfitting as the Follower Mode"
       },
       {
         "from": "book:intelligence",
         "to": "hassabis-frontier-agi-premise",
         "rel": "collects",
-        "label": "The Catalog That Isn't There"
+        "label": "并不存在的目录 / The Catalog That Isn't There"
       },
       {
         "from": "book:intelligence",
@@ -78251,7 +78593,7 @@
         "from": "book:knowledge-and-learning",
         "to": "why-explanation-fails",
         "rel": "collects",
-        "label": "Why Explanation Fails"
+        "label": "解释为何失效 / Why Explanation Fails"
       },
       {
         "from": "book:knowledge-and-learning",
@@ -78491,7 +78833,7 @@
         "from": "book:mathematics",
         "to": "fidelity-not-optimality",
         "rel": "collects",
-        "label": "Fidelity, Not Optimality"
+        "label": "保真度而非最优化 / Fidelity, Not Optimality"
       },
       {
         "from": "book:mathematics",
@@ -78623,7 +78965,7 @@
         "from": "book:meaning-and-transcendence",
         "to": "meaning-of-life-refined",
         "rel": "collects",
-        "label": "The Structure of Meaning"
+        "label": "意义的结构 / The Structure of Meaning"
       },
       {
         "from": "book:meaning-and-transcendence",
@@ -78641,7 +78983,7 @@
         "from": "book:meaning-and-transcendence",
         "to": "you-wu-zhi-bian",
         "rel": "collects",
-        "label": "有无之边"
+        "label": "有无之边 / The Edge of Being and Non-Being"
       },
       {
         "from": "book:meaning-and-transcendence",
@@ -78863,7 +79205,7 @@
         "from": "book:morality",
         "to": "evil-as-projected-resistance",
         "rel": "collects",
-        "label": "Evil as Projected Resistance"
+        "label": "恶是投射出的抗拒 / Evil as Projected Resistance"
       },
       {
         "from": "book:morality",

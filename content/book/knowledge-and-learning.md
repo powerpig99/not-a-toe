@@ -16,7 +16,7 @@ These essays examine academic credentialism, the true advisory scope of expertis
 - [Why AI Is Exposing the Fatal Flaw in Modern Schooling](../../posts/school_essay_final/)
 - [On Education, Resonance, and Giving Someone the Real Thing](../../posts/on-education/)
 - [活的语境 / The Living Context](../../posts/the-living-context/)
-- [Why Explanation Fails](../../posts/why-explanation-fails/)
+- [解释为何失效 / Why Explanation Fails](../../posts/why-explanation-fails/)
 - [伪装成远见的表演性后见 / Performative Hindsight That Pretends to Be Foresight](../../posts/performative-hindsight-that-pretends-to-be-foresight/)
 - [漫谈中的漫谈 / The Ramble Within the Ramble](../../posts/the-ramble-within-the-ramble/)
 - [真正稀缺的不是记忆，而是持续的重新追溯 / The Real Scarcity Is Not Memory, But Continuous Re-Tracing](../../posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing/)

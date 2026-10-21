@@ -519,7 +519,7 @@ Gödel shattered Hilbert's dream of a closed mathematical foundation; his work r
 
 Laozi locates cosmic dynamics in spontaneous non-action; profound for relinquishing grasping, it is easily co-opted into fatalistic passivity when stripped of rigour.
 
-→ [有无之边](../../posts/you-wu-zhi-bian/)
+→ [有无之边 / The Edge of Being and Non-Being](../../posts/you-wu-zhi-bian/)
 
 ### 大语言模型无法跃迁 / LLMs Can't Jump
 `技术 / Technological`
@@ -888,7 +888,7 @@ AI extinction arguments treat superintelligence as an uncontrollable cosmic even
 
 Overfitting treats dense memorization of training sets as generalized wisdom; high fidelity to past distributions collapses predictive capability on shifting frontiers.
 
-→ [Overfitting as the Follower Mode](../../posts/overfitting-as-the-follower-mode/)
+→ [过拟合作为追随者模式 / Overfitting as the Follower Mode](../../posts/overfitting-as-the-follower-mode/)
 
 ### 无我 / Anattā (Non-Self)
 `宗教 / Religious`
@@ -1356,7 +1356,7 @@ Laplacian epistemology assumes complete state capture allows flawless future pre
 
 The fallacy presumes there is a fixed quantum of useful work in an economy; automating established clerical tasks frees coordination energy for newly imaginable problems.
 
-→ [When Abundance Looks Like Scarcity](../../posts/when-abundance-looks-like-scarcity/)
+→ [当丰裕看起来像稀缺 / When Abundance Looks Like Scarcity](../../posts/when-abundance-looks-like-scarcity/)
 
 ### 现代投资组合理论 / Modern Portfolio Theory
 `经济 / Economic`
@@ -2087,7 +2087,7 @@ Bayesian updating on given traces is of use when its premises are re-examined; i
 
 Substantialist ontology treats Being as primary and Void as mere absence; Laozi demonstrates emptiness constitutes the functional space through which forms operate.
 
-→ [有无之边](../../posts/you-wu-zhi-bian/) · [只要它不被保持为空 / Only If It Is Not Kept Empty](../../posts/only-if-it-is-not-kept-empty/)
+→ [有无之边 / The Edge of Being and Non-Being](../../posts/you-wu-zhi-bian/) · [只要它不被保持为空 / Only If It Is Not Kept Empty](../../posts/only-if-it-is-not-kept-empty/)
 
 ### 大数据全知全能论 / Big Data Omniscience
 `技术 / Technological`
@@ -2402,7 +2402,7 @@ Committee governance assumes social agreement dictates functional viability; phy
 
 Technological hubris views constraints as defects to be erased; structural boundaries define the geometry through which energy, form, and agency become coherent.
 
-→ [The Limitation Is Doing Work](../../posts/the-limitation-is-doing-work/)
+→ [限制正在做功 / The Limitation Is Doing Work](../../posts/the-limitation-is-doing-work/)
 
 ### 上下文工程 / Context Engineering
 `技术 / Technological`
@@ -2429,7 +2429,7 @@ The caution that correlation does not imply causation separates a pattern from i
 
 Optimizing cost in isolation assumes output value remains invariant; stripping away differentiation leaves empty throughput without market pricing power.
 
-→ [Efficiency Without Differentiation Is Movement Without Existence](../../posts/efficiency-without-differentiation/)
+→ [没有区分的效率是没有存在的运动 / Efficiency Without Differentiation Is Movement Without Existence](../../posts/efficiency-without-differentiation/)
 
 ### 课程标准化 / Curriculum Standardization
 `意识形态 / Ideological`
@@ -2618,7 +2618,7 @@ Static knowledge modeling treats thoughts as stationary data structures; mind is
 
 Moral realism presumes evil is an autonomous metaphysical poison; evil is the cognitive label assigned to friction when external reality resists subjective desire.
 
-→ [Evil as Projected Resistance](../../posts/evil-as-projected-resistance/)
+→ [恶是投射出的抗拒 / Evil as Projected Resistance](../../posts/evil-as-projected-resistance/)
 
 ### 可执行实体的本体论跃迁 / Executable Entity Leap
 `技术 / Technological`
@@ -2645,7 +2645,7 @@ Cosmic dread assumes humanity requires external physical validation to sustain s
 
 Communicative idealism presumes disagreements stem from insufficient explanation; articulating reasons broadens the lexical surface area for an unaligned partner to attack.
 
-→ [Why Explanation Fails](../../posts/why-explanation-fails/)
+→ [解释为何失效 / Why Explanation Fails](../../posts/why-explanation-fails/)
 
 ### 坐标决定能动性 / Coordinate Determines Agency
 `意识形态 / Ideological`
@@ -2825,7 +2825,7 @@ Imagining freedom as a blank prior to all conditions is of use in recalling that
 
 Frontier AGI framings assume accumulating enough specialized benchmark capabilities yields mind; assembling technical inventory extends tools without authoring sovereign will.
 
-→ [The Catalog That Isn't There](../../posts/hassabis-frontier-agi-premise/)
+→ [并不存在的目录 / The Catalog That Isn't There](../../posts/hassabis-frontier-agi-premise/)
 
 ### 全盘担责是极端立场 / Full Responsibility as Radical
 `哲学 / Philosophical`
@@ -2888,7 +2888,7 @@ Treating "emergence" as the cause that generates complex patterns is of use in n
 
 Optimization assumes a complete loss function captures real-world success; formal minima overfit to specified metrics, while living systems demand open-ended fidelity.
 
-→ [Fidelity, Not Optimality](../../posts/fidelity-not-optimality/)
+→ [保真度而非最优化 / Fidelity, Not Optimality](../../posts/fidelity-not-optimality/)
 
 ### 善作为完成的坐标（道德教条） / Good as a Completed Coordinate (Moral Dogmatism)
 `哲学 / Philosophical`
@@ -3617,7 +3617,7 @@ Dogmatic philosophy promises a closed system explaining all existence; Not-a-ToE
 
 Seeking an objective meaning assumes meaning is a discovered treasure outside awareness; meaning is the irreducible enactment of distinction by living consciousness.
 
-→ [The Structure of Meaning](../../posts/meaning-of-life-refined/)
+→ [意义的结构 / The Structure of Meaning](../../posts/meaning-of-life-refined/)
 
 ### 客观性 / Objectivity
 `哲学 / Philosophical`
@@ -4886,7 +4886,7 @@ Time is modelled as a fourth coordinate of the same form as length, width and de
 
 Techno-economic models price cognitive labor by processed tokens; machine tokens execute fixed-width pattern matching, while human value originates in sovereign appraisal.
 
-→ [Humans, Tokens, and the Scope of Valuation](../../posts/humans-tokens-and-the-scope-of-valuation/)
+→ [人、Token 与估值的范围 / Humans, Tokens, and the Scope of Valuation](../../posts/humans-tokens-and-the-scope-of-valuation/)
 
 ### “目的性太强”的标签 / Too Goal-Driven as a Label
 `成功学 / Self-Help`

@@ -28,28 +28,11 @@
     "on-education": {
       "title_zh": "论教育、共振与给人真东西"
     },
-    "the-limitation-is-doing-work": {
-      "title_zh": "限制正在做功",
-      "subtitle_zh": "把某物标为“AI 生成”，否认了使 AI 成为可能的东西，也否认了其间的差别。"
-    },
     "nobody-has-seen-anything-yet": {
       "title_zh": "还没有人见过任何东西"
     },
     "context-engineering-essay": {
       "title_zh": "层层皆是语境"
-    },
-    "you-wu-zhi-bian": {
-      "title_en": "The Edge of Being and Non-Being"
-    },
-    "hassabis-frontier-agi-premise": {
-      "title_zh": "并不存在的目录",
-      "subtitle_zh": "一个心智替自己所见的世界发言，把那个世界投向未来，并用一种试图替其他心智现在或将来所见的世界发言的语言来陈述。"
-    },
-    "why-explanation-fails": {
-      "title_zh": "解释为何失效"
-    },
-    "when-abundance-looks-like-scarcity": {
-      "title_zh": "当丰裕看起来像稀缺"
     },
     "the-scaffolding-we-forget-local-models-as-default": {
       "title_zh": "我们遗忘的脚手架：以本地模型为默认",
@@ -154,24 +137,19 @@
     "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu": {
       "title_zh": "止步于评判，是认知的歧途"
     },
-    "humans-tokens-and-the-scope-of-valuation": {
-      "title_zh": "人、Token 与估值的范围",
-      "subtitle_zh": "投入之间的比价无法衡量重画价目表本身的能力。"
-    },
-    "efficiency-without-differentiation": {
-      "title_zh": "没有区分的效率是没有存在的运动",
-      "subtitle_zh": "把产出冻结为常量以便最小化成本，是错把分母当成了整个方程。"
-    },
     "conscience-power-delegation": {
       "title_zh": "良知、委托与管辖权错位",
       "subtitle_zh": "权力在每个尺度上运作，但唯有在发出行动的局部边缘才保有良知的原创判断。"
     },
-    "evil-as-projected-resistance": {
-      "title_zh": "恶是投射出的抗拒"
-    },
     "name-negation-tendency": {
       "title_zh": "名称背反倾向",
       "subtitle_zh": "一个名称越是公开标榜某种状态，其内部运作便越朝相反的方向滑向反面。"
+    },
+    "minimizing-path": {
+      "title_zh": "最小化路径"
+    },
+    "the-surface-beneath": {
+      "title_zh": "底层表面"
     }
   }
 }

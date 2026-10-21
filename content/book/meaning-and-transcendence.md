@@ -14,10 +14,10 @@ The essays in this part examine theological projections, the mirage of physical 
 
 - [Four Questions That Keep You Up at Night](../../posts/four-night-questions/)
 - [Immortality and the Two-Infinity Confusion](../../posts/immortality-final/)
-- [The Structure of Meaning](../../posts/meaning-of-life-refined/)
+- [意义的结构 / The Structure of Meaning](../../posts/meaning-of-life-refined/)
 - [Separation Isn't the Disease](../../posts/naval-separation-analysis/)
 - [没有普渡，只有自渡的无限可能 / No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../../posts/mei-you-pu-du-zhi-you-zi-du/)
-- [有无之边](../../posts/you-wu-zhi-bian/)
+- [有无之边 / The Edge of Being and Non-Being](../../posts/you-wu-zhi-bian/)
 - [生命的意义在起草之中 / The Meaning of Life Is in the Drafting](../../posts/the-meaning-of-life-is-in-the-drafting/)
 - [自由的心智被声称保护它的东西取代 / The Free Mind Is Displaced by What Claims to Protect It](../../posts/the-free-mind-is-displaced-by-what-claims-to-protect-it/)
 - [无穷总体的海市蜃楼 / The Mirage of the Infinite Totality](../../posts/the-mirage-of-the-infinite-totality/)
