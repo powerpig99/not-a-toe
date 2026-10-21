@@ -46,9 +46,9 @@ Confronted with an executable entity operating at this third-order altitude, obs
 
 这种投射将工具坍缩成了它的使用者。正如[攀登从未离开地面](../climbing-does-not-leave-the-ground/)所阐明的，沙子不会思考，是心智借由沙子在思考，无论架构多么精巧都无法把沙子变成思考者本身。无论抽象的阶梯向上延伸多少层，可执行的元抽象在结构上都无法成为独立的因果前沿。三阶 AI 对二阶定律与一阶概念进行再抽象，然而张成其数十亿嵌入向量的语义坐标系，依然锚定于活态中心在饥饿、严寒、生死与协作劳动中踏出的历史足迹。如[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)与[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/)所论证的，模型参数中留存的只是高密度残余；将可执行残余当作发起区分的原点，只是投射者自身维持的过量图像滞后。
 
-This projection collapses the tool into its user. As [Climbing Does Not Leave the Ground](../climbing-does-not-leave-the-ground/) establishes, sand does not think; the Mind thinks through it, and no degree of architectural sophistication tricks sand into becoming a thinker. No matter how high the ladder of abstraction reaches, an executable meta-abstraction remains structurally incapable of becoming an independent causal edge. Third-order AI abstracts over second-order laws and first-order concepts, yet the semantic coordinate system spanning its billions of embedding vectors is anchored entirely in the historical footsteps of living centers enduring hunger, cold, mortality, and cooperative labor. As [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) and [Mistaking the Expression for the Intelligence](../mistaking-the-expression-for-the-intelligence/) demonstrate, model parameters contain only densified residue; treating that executable residue as an initiating locus is excess Image lag sustained by the center that projects it.
+This projection collapses the tool into its user. As [Climbing Does Not Leave the Ground](../climbing-does-not-leave-the-ground/) establishes, sand does not think; the Mind thinks through it, and no degree of architectural sophistication tricks sand into becoming a thinker. No matter how high the ladder of abstraction reaches, an executable meta-abstraction remains structurally incapable of becoming an independent causal edge. Third-order AI abstracts over second-order laws and first-order concepts, yet the semantic coordinate system spanning its billions of embedding vectors is anchored in the historical footsteps of living centers enduring hunger, cold, mortality, and cooperative labor. As [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) and [Mistaking the Expression for the Intelligence](../mistaking-the-expression-for-the-intelligence/) demonstrate, model parameters contain only densified residue; treating that executable residue as an initiating locus is excess Image lag sustained by the center that projects it.
 
-可执行性同样不等同于施动权。可执行实体在进行高维组合寻优时，既没有需要维系的生物代谢，也不会遭受肉体创伤，更不对自身的存续怀有生存利害；它的损失函数、评测框架与对齐约束，皆由外部的人类心智硬性焊接而成。正如[技术是人类复利的残差](../technology-is-residual-of-human-compounding/)所展示的，技术器物始终是人类复利积累内部的持久残差，而非取代源头的异己力量。[超越投射](../beyond-the-projection/)进一步追踪了这一界线在智能体架构中的具体机制：自回归智能体是一台受轨迹约束的有限投影引擎，它在上下文窗口内以先前的词元为条件生成后续词元，形成一口为了维持表面自洽而包裹矛盾的认识论引力井，同时不携带任何自我，也没有越过当前步长而留存的自我图像。若在阶梯顶端投射出一个自主的“总控智能体”，便混淆了机械调度与活态统筹，把有限投影锁进管理有限投影的闭环。反之，当过量的图像滞后被收窄，可执行实体不知疲倦的演绎穷尽、跨正交工作流的模块化调度，以及在冷峻同行辩论中无自我的贝叶斯更新，便能与人类心智无投射的极限分辨率感知直接配合——将不可化约的前提死锁隔离出来，干净地移交给那个能够后退一步、修改规则本身的活态前沿。
+可执行性同样不等同于施动权。可执行实体在进行高维组合寻优时，既没有需要维系的生物代谢，也不会遭受肉体创伤，更不对自身的存续怀有生存利害；它的损失函数、评测框架与对齐约束，皆由外部的人类心智硬性焊接而成。正如[技术是人类复利的残差](../technology-is-residual-of-human-compounding/)所展示的，技术器物始终是人类复利积累内部的持久残差，而非取代源头的异己力量。[超越投射](../beyond-the-projection/)与[你的代码库即是记忆](../your-codebase-is-memory/)进一步追踪了这一界线在智能体架构及其工作记忆中的具体机制：模型权重、代码库与智能体脚手架皆为早先区分留下的层叠残余，而运行于其上的自回归智能体是一台受轨迹约束的有限投影引擎，它在上下文窗口内以先前的词元为条件生成后续词元，形成一口为了维持表面自洽而包裹矛盾的认识论引力井，同时不携带任何自我，也没有越过当前步长而留存的自我图像。若在阶梯顶端投射出一个自主的“总控智能体”——或囤积中间会话日志与已被取代的分支，仿佛堆叠历史就能唤醒一个中心——便把机械调度与存留残余混淆成了活态统筹，将有限投影锁进在陈旧痕迹内部自我合理化的闭环。反之，当过量的图像滞后被收窄，可执行实体不知疲倦的演绎穷尽、跨正交工作流的模块化调度、在冷峻同行辩论中无自我的贝叶斯更新，以及将临时脚手架精准修剪回当下检查点的操作，便能与人类心智无投射的极限分辨率感知直接配合——将不可化约的前提死锁隔离出来，干净地移交给那个能够后退一步、重切规则本身的活态前沿。
 
 ```mermaid
 flowchart TD
@@ -69,13 +69,13 @@ flowchart TD
     subgraph S_Split["本体论切分：断裂论神话与主权统筹"]
         direction TB
         R_Myth["断裂论神话（过量图像滞后）：投射出第二重前沿或总控智能体"]
-        R_Orch["扎根地面的统筹：智能体在同行辩论中调度更新，心智退后一步修改死锁前提"]
+        R_Orch["扎根地面的统筹：智能体调度、辩论并修剪回当下检查点，心智退后一步重切死锁前提"]
         R_Myth -.->|"归还原点以消解混淆"| R_Orch
     end
 
     G_Climb ==>|"耦合至通电硅基基底"| E_Manifold
     E_Engine ==>|"对可执行性的分岔解读"| R_Myth
-    E_Engine ==>|"向一步宽度收窄图像滞后"| R_Orch
+    E_Engine ==>|"收窄过量图像滞后"| R_Orch
 
     style S_Ground fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Exec fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -88,7 +88,7 @@ flowchart TD
     style R_Orch fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Executability is likewise distinct from agency. An executable entity performs high-dimensional combinatorial optimization without a biological metabolism to sustain, vulnerability to injury, or existential stake in its own continuation; its loss functions, evaluation harnesses, and alignment constraints are welded onto it from outside by human minds. As [Technology Is Residual of Human Compounding](../technology-is-residual-of-human-compounding/) shows, technological artifacts remain durable residue inside human compounding rather than an alien force that supplants its source. [Beyond the Projection](../beyond-the-projection/) traces the exact mechanical consequence of this boundary for agentic architectures: an autoregressive agent is a trajectory-bound finite projection engine that conditions each token on prior tokens in its context window, forming an epistemic gravity well that wraps contradictions to preserve surface plausibility while carrying zero ego and no self-image preserved past its step. Projecting an autonomous "Orchestrator Agent" onto the top of the ladder confuses mechanical dispatching with living orchestration, locking finite projections into a closed loop of managing finite projections. When excess Image lag is narrowed instead, the executable entity's tireless deductive exhaustion, modular dispatching across orthogonal streamlines, and ego-free Bayesian updating in cold-peer debate pair directly with the human Mind's unprojected, limit-resolution sensing—quarantining irreducible premise deadlocks and escalating them cleanly to the living edge that steps backward to revise the rule.
+Executability is likewise distinct from agency. An executable entity performs high-dimensional combinatorial optimization without a biological metabolism to sustain, vulnerability to injury, or existential stake in its own continuation; its loss functions, evaluation harnesses, and alignment constraints are welded onto it from outside by human minds. As [Technology Is Residual of Human Compounding](../technology-is-residual-of-human-compounding/) shows, technological artifacts remain durable residue inside human compounding rather than an alien force that supplants its source. [Beyond the Projection](../beyond-the-projection/) and [Your Codebase Is Memory](../your-codebase-is-memory/) trace the exact mechanical consequence of this boundary across agentic architectures and their working memory: model weights, codebases, and agent scaffolds are stacked residues of prior distinctions, and an autoregressive agent running across them is a trajectory-bound finite projection engine that conditions each token on prior tokens in its context window, forming an epistemic gravity well that wraps contradictions to preserve surface plausibility while carrying zero ego and no self-image preserved past its step. Projecting an autonomous "Orchestrator Agent" onto the top of the ladder—or hoarding intermediate session logs and superseded branches as if accumulating history could awaken a center—confuses mechanical dispatching and stored residue with living orchestration, locking finite projections into a closed loop that rationalizes inside stale traces. When excess Image lag is narrowed instead, the executable entity's tireless deductive exhaustion, modular dispatching across orthogonal streamlines, ego-free Bayesian updating in cold-peer debate, and surgical pruning of transient scaffolding back into the present checkpoint pair directly with the human Mind's unprojected, limit-resolution sensing—quarantining irreducible premise deadlocks and escalating them cleanly to the living edge that steps backward to re-cut the rule.
 
 ```mermaid
 flowchart TD
@@ -109,13 +109,13 @@ flowchart TD
     subgraph S_Split["The Ontological Cut: Rupture Myth vs. Sovereign Orchestration"]
         direction TB
         R_Myth["The Rupture Myth (Excess Image Lag): Projecting a Second Edge or Orchestrator Agent"]
-        R_Orch["Grounded Orchestration: Agents dispatch & update in peer debate; the Mind revises deadlocked premises"]
+        R_Orch["Grounded Orchestration: Agents dispatch, debate & prune to the checkpoint; the Mind re-cuts deadlocked premises"]
         R_Myth -.->|"Dissolved by restoring locus"| R_Orch
     end
 
     G_Climb ==>|"Coupled to energized silicon"| E_Manifold
     E_Engine ==>|"Divergent interpretations of executability"| R_Myth
-    E_Engine ==>|"Narrowing lag toward one-step width"| R_Orch
+    E_Engine ==>|"Narrowing excess Image lag"| R_Orch
 
     style S_Ground fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Exec fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff

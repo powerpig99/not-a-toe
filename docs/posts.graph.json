@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T03:18:32.347Z",
+    "generated_at": "2026-10-21T03:28:20.919Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -15,7 +15,7 @@
       "content/posts/abstract-pain-and-living-hunger.md": "2e4f27bcaae8",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "ab494c775721",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "5cd7cb7519fa",
-      "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "40a22da0781b",
+      "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "ec3480fb850e",
       "content/posts/agency-does-not-arise.md": "197fc86a6d73",
       "content/posts/agency-relocated-into-the-formal-model.md": "623e5bff2d49",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
@@ -28,7 +28,7 @@
       "content/posts/better-than-free-after-the-checklist-closes.md": "d39b1b10df08",
       "content/posts/beyond-the-hundred-trillion-horizon.md": "7092a6d76ade",
       "content/posts/beyond-the-projection.md": "77fe2468ff0d",
-      "content/posts/boletus-compute-storm-and-promethean-fire.md": "6799cb961062",
+      "content/posts/boletus-compute-storm-and-promethean-fire.md": "e09e90b435e6",
       "content/posts/causality-all-the-way.md": "1b0d5716f61a",
       "content/posts/causality-and-the-irreducible-prior.md": "b7567896ebac",
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "315e72100b1f",
@@ -143,7 +143,7 @@
       "content/posts/one-cannot-escape-ones-own-mind.md": "1f282507aaf4",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "63a25d4f0593",
       "content/posts/only-if-it-is-not-kept-empty.md": "1d2b22dc949c",
-      "content/posts/ontos-is-a-method-agent.md": "61ecab78faf8",
+      "content/posts/ontos-is-a-method-agent.md": "25df0d4d161c",
       "content/posts/open-vision-in-a-closed-arena.md": "c348a235e225",
       "content/posts/openness-is-consistency.md": "75ba5238a649",
       "content/posts/order-surplus-and-the-moral-intercept.md": "6af5409d3970",
@@ -169,7 +169,7 @@
       "content/posts/reality-is-the-minds-ongoing-realization.md": "6602a836102e",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "cd3ec066c2f8",
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "f85879109b9b",
-      "content/posts/residual-control-recedes-to-the-edge.md": "2a58a4d8204b",
+      "content/posts/residual-control-recedes-to-the-edge.md": "9870cbc6f3a4",
       "content/posts/residual-individualism.md": "b3c7a0af86ff",
       "content/posts/restriction-is-a-selective-tax.md": "9eb2991f975e",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
@@ -209,7 +209,7 @@
       "content/posts/the-brain-does-not-backprop.md": "4f5c7d0c354c",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "faeb12423e13",
       "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "85a75f91e6a5",
-      "content/posts/the-category-error-of-better.md": "5d6675ba6ee4",
+      "content/posts/the-category-error-of-better.md": "e75bf338d63e",
       "content/posts/the-causal-inversion-of-partnership.md": "944dfac6e613",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "227425721cd4",
       "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "eeef620ba6fb",
@@ -281,8 +281,8 @@
       "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "319c407dd166",
       "content/posts/the-irreducible-observer.md": "9d75e4557aa6",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "247a3d936241",
-      "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "90184550cd3a",
-      "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "2e492f075a1c",
+      "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "ff064e746f65",
+      "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "e2c53537d905",
       "content/posts/the-ledger-of-the-unencountered.md": "8932d526bdcc",
       "content/posts/the-limitation-is-doing-work.md": "d9e53e47a265",
       "content/posts/the-living-context.md": "0603cd0d3ea2",
@@ -295,7 +295,7 @@
       "content/posts/the-mark-and-the-act.md": "c564f60f2ed7",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "9fde797d1966",
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "92606376f487",
-      "content/posts/the-mind-that-statistics-cannot-reveal.md": "06f1b473faaf",
+      "content/posts/the-mind-that-statistics-cannot-reveal.md": "db7cf6705972",
       "content/posts/the-mirage-of-the-infinite-totality.md": "591249e563df",
       "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "e91e8817edf2",
       "content/posts/the-mirror-handshake-of-power.md": "d87437fc547d",
@@ -321,7 +321,7 @@
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "8c22e4938a6e",
       "content/posts/the-price-of-closing-optionality.md": "fcdef4c1033e",
       "content/posts/the-question-that-installs-the-war.md": "6570c77251d5",
-      "content/posts/the-ramble-within-the-ramble.md": "d74212281de3",
+      "content/posts/the-ramble-within-the-ramble.md": "57566038f9e7",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "e536a3a8e1db",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "f4beffd39c0c",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "8c4f283b8657",
@@ -330,7 +330,7 @@
       "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "5d5ae354856a",
       "content/posts/the-reflexive-dilemma-of-unique-insight.md": "e0b2f868f3d1",
       "content/posts/the-residue-and-the-free-variable.md": "55bcd32620e5",
-      "content/posts/the-returning-signal-and-its-claim.md": "b8be66b1e8f5",
+      "content/posts/the-returning-signal-and-its-claim.md": "3e0a96be38a7",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "a8aa84581a70",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "7940d13c303b",
       "content/posts/the-reversal-of-education-and-science.md": "d9695fb75dbc",
@@ -364,7 +364,7 @@
       "content/posts/the-utility-men-of-progress.md": "6ff83cd93602",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "ea895e5b3c28",
       "content/posts/the-velocity-of-visibility.md": "7a988e6f7355",
-      "content/posts/the-walking-tangent-and-the-stumbling-sphere.md": "ad570b73dc87",
+      "content/posts/the-walking-tangent-and-the-stumbling-sphere.md": "6dd94a8b5246",
       "content/posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy.md": "0b676c49e3f4",
       "content/posts/the_analogy_trap.md": "3fba4bdc48b2",
       "content/posts/the_illegible_compound_retraced.md": "326e7d862c3a",
@@ -400,7 +400,7 @@
       "content/posts/you-wu-zhi-bian.md": "70bb215a86a7",
       "content/posts/your-codebase-is-memory.md": "4a4689dd4a10",
       "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "914571f5e4e9",
-      "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "96b4fe93950b",
+      "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "f1f3cd0266ec",
       "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "b09f3b56a648",
       "content/posts/zi-you-de-ce-bu-zhun.md": "9c0ed3a2d8d9",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "46323a1926a8",
@@ -424,10 +424,10 @@
     },
     "stats": {
       "posts": 397,
-      "edges": 9852,
-      "unique_directed": 4921,
+      "edges": 9874,
+      "unique_directed": 4933,
       "missing_targets": 0,
-      "one_way": 419,
+      "one_way": 431,
       "isolated": 35,
       "posts_with_outbound": 361,
       "book_pages": 16,
@@ -445,12 +445,12 @@
       "in_degree": 101
     },
     {
-      "slug": "openness-is-consistency",
-      "in_degree": 81
+      "slug": "your-codebase-is-memory",
+      "in_degree": 92
     },
     {
-      "slug": "your-codebase-is-memory",
-      "in_degree": 80
+      "slug": "openness-is-consistency",
+      "in_degree": 81
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -814,9 +814,9 @@
       "slug": "agency-compounding-and-the-argument-over-ai-feudalism",
       "path": "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md",
       "title": "能动性、复利与 AI 封建之争 / Agency, Compounding, and the Argument Over AI Feudalism",
-      "hash": "40a22da0781b",
+      "hash": "ec3480fb850e",
       "in_degree": 9,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "beyond-the-projection",
         "intelligence-belongs-only-to-the-mind",
@@ -827,6 +827,7 @@
         "causality-all-the-way",
         "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+        "your-codebase-is-memory",
         "the-extendable-horizon"
       ]
     },
@@ -1111,9 +1112,9 @@
       "slug": "boletus-compute-storm-and-promethean-fire",
       "path": "content/posts/boletus-compute-storm-and-promethean-fire.md",
       "title": "牛肝菌、算力风暴与普罗米修斯的火 / Boletus, the Compute Storm, and Promethean Fire",
-      "hash": "6799cb961062",
+      "hash": "e09e90b435e6",
       "in_degree": 7,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "a-creation-cannot-replace-its-source",
@@ -1123,6 +1124,7 @@
         "mistaking-the-expression-for-the-intelligence",
         "the-model-never-becomes-a-second-edge",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "the-ladder-of-abstraction-and-the-executable-entity"
       ]
     },
@@ -3999,14 +4001,15 @@
       "slug": "ontos-is-a-method-agent",
       "path": "content/posts/ontos-is-a-method-agent.md",
       "title": "呈现Ontos，一个方法智能体 / Presenting Ontos, a Method Agent",
-      "hash": "61ecab78faf8",
+      "hash": "25df0d4d161c",
       "in_degree": 10,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "mistaking-the-expression-for-the-intelligence",
         "the-model-never-becomes-a-second-edge",
         "a-living-external-cortex",
+        "your-codebase-is-memory",
         "the-scaffolding-we-forget",
         "closed-reality-in-benchmark-maxing",
         "causality-stays-at-the-edge-that-steers",
@@ -4757,11 +4760,12 @@
       "slug": "residual-control-recedes-to-the-edge",
       "path": "content/posts/residual-control-recedes-to-the-edge.md",
       "title": "要紧的控制迁往边缘 / Essential Control Moves to the Edge",
-      "hash": "2a58a4d8204b",
+      "hash": "9870cbc6f3a4",
       "in_degree": 8,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "causality-stays-at-the-edge-that-steers",
         "whatever-is-one-prompt-away",
         "ownership-and-self-worthiness",
@@ -5794,9 +5798,9 @@
       "slug": "the-category-error-of-better",
       "path": "content/posts/the-category-error-of-better.md",
       "title": "「更好」的范畴谬误 / The Category Error of Better",
-      "hash": "5d6675ba6ee4",
+      "hash": "e75bf338d63e",
       "in_degree": 10,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "the-irreducible-observer",
         "the-allocation-of-causal-power-in-validation",
@@ -5804,6 +5808,7 @@
         "the-model-never-becomes-a-second-edge",
         "beyond-the-projection",
         "fidelity-not-optimality",
+        "your-codebase-is-memory",
         "the-ledger-of-the-unencountered",
         "the-coordinators-category-error",
         "silicon-oracles-and-the-asymmetry-of-consequence",
@@ -7378,9 +7383,9 @@
       "slug": "the-knowledge-problem-and-the-illusion-of-delegation",
       "path": "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md",
       "title": "知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation",
-      "hash": "90184550cd3a",
+      "hash": "ff064e746f65",
       "in_degree": 11,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
         "lossless-knowledge-of-an-open-field-is-incoherent",
@@ -7392,6 +7397,7 @@
         "sovereignty-belief-and-regulatory-structures",
         "sowell-observed-the-surface-problem",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "your-codebase-is-memory",
         "residual-individualism"
       ]
     },
@@ -7401,9 +7407,9 @@
       "slug": "the-ladder-of-abstraction-and-the-executable-entity",
       "path": "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md",
       "title": "抽象的阶梯与可执行的实体 / The Ladder of Abstraction and the Executable Entity",
-      "hash": "2e492f075a1c",
+      "hash": "e2c53537d905",
       "in_degree": 7,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "climbing-does-not-leave-the-ground",
         "po-chu-gai-nian-de-jian-yue",
@@ -7412,7 +7418,8 @@
         "the-model-never-becomes-a-second-edge",
         "mistaking-the-expression-for-the-intelligence",
         "technology-is-residual-of-human-compounding",
-        "beyond-the-projection"
+        "beyond-the-projection",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -7642,15 +7649,16 @@
       "slug": "the-mind-that-statistics-cannot-reveal",
       "path": "content/posts/the-mind-that-statistics-cannot-reveal.md",
       "title": "统计学无法揭示的心智 / The Mind That Statistics Cannot Reveal",
-      "hash": "06f1b473faaf",
+      "hash": "db7cf6705972",
       "in_degree": 7,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "the-average-is-residue-not-the-engine",
         "individual-choices-as-the-only-causal-levers",
         "the-self-portrait-in-the-projection",
         "the-misallocation-of-agency",
         "the-perceiver-and-the-trace",
+        "your-codebase-is-memory",
         "intelligence-belongs-only-to-the-mind",
         "beyond-the-projection",
         "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng"
@@ -8264,12 +8272,13 @@
       "slug": "the-ramble-within-the-ramble",
       "path": "content/posts/the-ramble-within-the-ramble.md",
       "title": "漫谈中的漫谈 / The Ramble Within the Ramble",
-      "hash": "d74212281de3",
+      "hash": "57566038f9e7",
       "in_degree": 10,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
         "the-model-never-becomes-a-second-edge",
+        "your-codebase-is-memory",
         "what-always-listens-cannot-originate",
         "beyond-the-projection",
         "causality-stays-at-the-edge-that-steers",
@@ -8505,15 +8514,16 @@
       "slug": "the-returning-signal-and-its-claim",
       "path": "content/posts/the-returning-signal-and-its-claim.md",
       "title": "回返的信号与认领 / The Returning Signal and Its Claim",
-      "hash": "b8be66b1e8f5",
+      "hash": "3e0a96be38a7",
       "in_degree": 6,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
         "the-perceiver-and-the-trace",
         "a-living-external-cortex",
         "beyond-the-projection",
         "the-asymmetry-of-understanding",
+        "your-codebase-is-memory",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "causality-stays-at-the-edge-that-steers",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
@@ -9352,9 +9362,9 @@
       "slug": "the-walking-tangent-and-the-stumbling-sphere",
       "path": "content/posts/the-walking-tangent-and-the-stumbling-sphere.md",
       "title": "切平面的行者与完美球面的踩空者 / The Walking Tangent and the Stumbling Sphere",
-      "hash": "ad570b73dc87",
+      "hash": "6dd94a8b5246",
       "in_degree": 5,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
         "the-mind-as-vector-and-coordinate-system",
@@ -9364,6 +9374,7 @@
         "po-chu-gai-nian-de-jian-yue",
         "the-model-never-becomes-a-second-edge",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "the-geometry-of-success"
       ]
     },
@@ -10127,7 +10138,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 80,
+      "in_degree": 92,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -10166,9 +10177,9 @@
       "slug": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
       "path": "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md",
       "title": "“知道自己不知道”是一种修辞假象 / Knowing That You Don't Know Is a Rhetorical Illusion",
-      "hash": "96b4fe93950b",
+      "hash": "f1f3cd0266ec",
       "in_degree": 8,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "xian-shi-de-bian-jie",
@@ -10178,7 +10189,8 @@
         "curiosity-has-no-final-form",
         "intelligence-belongs-only-to-the-mind",
         "beyond-the-projection",
-        "token-efficiency-emulation-and-the-unclosable-gap"
+        "token-efficiency-emulation-and-the-unclosable-gap",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -11584,6 +11596,18 @@
       "to": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
       "rel": "points_to",
       "label": "The Welfare State Illusion"
+    },
+    {
+      "from": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "agency-compounding-and-the-argument-over-ai-feudalism",
@@ -13192,6 +13216,18 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "boletus-compute-storm-and-promethean-fire",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "boletus-compute-storm-and-promethean-fire",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "boletus-compute-storm-and-promethean-fire",
@@ -31441,9 +31477,21 @@
     },
     {
       "from": "ontos-is-a-method-agent",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "ontos-is-a-method-agent",
       "to": "a-living-external-cortex",
       "rel": "points_to",
       "label": "A Living External Cortex"
+    },
+    {
+      "from": "ontos-is-a-method-agent",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "ontos-is-a-method-agent",
@@ -36637,9 +36685,21 @@
     },
     {
       "from": "residual-control-recedes-to-the-edge",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "residual-control-recedes-to-the-edge",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "residual-control-recedes-to-the-edge",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "residual-control-recedes-to-the-edge",
@@ -42919,9 +42979,21 @@
     },
     {
       "from": "the-category-error-of-better",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-category-error-of-better",
       "to": "the-ledger-of-the-unencountered",
       "rel": "points_to",
       "label": "未被遭遇之物的账本"
+    },
+    {
+      "from": "the-category-error-of-better",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-category-error-of-better",
@@ -51919,6 +51991,12 @@
     },
     {
       "from": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-knowledge-problem-and-the-illusion-of-delegation",
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
       "label": "The Delegation of the Task and the Inalienability of Consequences"
@@ -51928,6 +52006,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-knowledge-problem-and-the-illusion-of-delegation",
@@ -52039,6 +52123,12 @@
     },
     {
       "from": "the-ladder-of-abstraction-and-the-executable-entity",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-ladder-of-abstraction-and-the-executable-entity",
       "to": "technology-is-residual-of-human-compounding",
       "rel": "points_to",
       "label": "Technology Is Residual of Human Compounding"
@@ -52048,6 +52138,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-ladder-of-abstraction-and-the-executable-entity",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-ledger-of-the-unencountered",
@@ -53074,6 +53170,18 @@
       "to": "the-perceiver-and-the-trace",
       "rel": "points_to",
       "label": "The Perceiver and the Trace Cannot Collapse"
+    },
+    {
+      "from": "the-mind-that-statistics-cannot-reveal",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-mind-that-statistics-cannot-reveal",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-mind-that-statistics-cannot-reveal",
@@ -56773,9 +56881,21 @@
     },
     {
       "from": "the-ramble-within-the-ramble",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-ramble-within-the-ramble",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "the-ramble-within-the-ramble",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-ramble-within-the-ramble",
@@ -58492,6 +58612,18 @@
       "to": "the-asymmetry-of-understanding",
       "rel": "points_to",
       "label": "The Asymmetry of Understanding"
+    },
+    {
+      "from": "the-returning-signal-and-its-claim",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-returning-signal-and-its-claim",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-returning-signal-and-its-claim",
@@ -63889,6 +64021,12 @@
     },
     {
       "from": "the-walking-tangent-and-the-stumbling-sphere",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-walking-tangent-and-the-stumbling-sphere",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "The Model Never Becomes a Second Edge"
@@ -63898,6 +64036,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-walking-tangent-and-the-stumbling-sphere",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-walking-tangent-and-the-stumbling-sphere",
@@ -68695,15 +68839,15 @@
     },
     {
       "from": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
-      "to": "what-information-is",
+      "to": "your-codebase-is-memory",
       "rel": "points_to",
-      "label": "信息是什么"
+      "label": "你的代码库即是记忆"
     },
     {
       "from": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
-      "to": "what-information-is",
+      "to": "your-codebase-is-memory",
       "rel": "points_to",
-      "label": "What Information Is"
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
