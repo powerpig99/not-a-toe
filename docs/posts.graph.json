@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T10:42:41.301Z",
+    "generated_at": "2026-10-21T10:51:24.635Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -153,7 +153,7 @@
       "content/posts/perception-perspective-refined.md": "d9484330c5b9",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "3e61069b5eda",
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "4c53ac6aa52d",
-      "content/posts/platform-decision-capture.md": "1ef2e061ead1",
+      "content/posts/platform-decision-capture.md": "c1ce0036119a",
       "content/posts/po-chu-gai-nian-de-jian-yue.md": "9e0e605cb8a2",
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "299f7c1a0a76",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "65faca346857",
@@ -172,18 +172,18 @@
       "content/posts/residual-control-recedes-to-the-edge.md": "9870cbc6f3a4",
       "content/posts/residual-individualism.md": "445518af80f8",
       "content/posts/restriction-is-a-selective-tax.md": "c6a8d3b34966",
-      "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
-      "content/posts/school_essay_final.md": "7805457b6ae2",
+      "content/posts/scaffolds-or-specialized-contexts.md": "f17b46f726ad",
+      "content/posts/school_essay_final.md": "3aa3b258724e",
       "content/posts/selection-contradiction-and-open-reality.md": "74fbecb78715",
       "content/posts/self-image-speaks-as-if-from-nowhere.md": "4222603f103d",
       "content/posts/self-rl-for-humans.md": "da8444ae39c6",
       "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "703f7c53b9da",
-      "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
+      "content/posts/sensing-before-interpretation.md": "e85a0b081114",
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "effb27d0037a",
       "content/posts/shared-humanity-is-never-shared.md": "667dd03af694",
       "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "94134cb1fdd7",
       "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "6e6001066898",
-      "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
+      "content/posts/simplicity-ultimate-sophistication.md": "90ac1690ba33",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "2a91f58a7d13",
       "content/posts/sovereignty-essay.md": "bdc7dfc589b0",
       "content/posts/sowell-observed-the-surface-problem.md": "6a0b158cce39",
@@ -218,16 +218,16 @@
       "content/posts/the-closed-loop-of-representation.md": "659ee6fdc53f",
       "content/posts/the-closed-n-and-the-open-reality.md": "69b0afc8a6d7",
       "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "f1a9b1e12ab7",
-      "content/posts/the-collapsed-debate.md": "70fd73306062",
+      "content/posts/the-collapsed-debate.md": "f43a0321747b",
       "content/posts/the-comment-is-not-the-code.md": "b81fc5a01b5a",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "9e53487d8960",
       "content/posts/the-continuum-is-a-modeling-convenience.md": "3c2e3fff1d21",
       "content/posts/the-continuum-of-the-fold.md": "bc2ed3454dd0",
       "content/posts/the-coordinators-category-error.md": "849cdeef9512",
       "content/posts/the-cut-moves-but-never-vanishes.md": "e61a8aa0715d",
-      "content/posts/the-defining-seat.md": "6c9a5b6b9658",
+      "content/posts/the-defining-seat.md": "439193457772",
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "611d8684bdd6",
-      "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
+      "content/posts/the-descent-that-doesnt-know-where-its-going.md": "787b77d025c1",
       "content/posts/the-deterministic-machine.md": "fbf2680f40d1",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "0dc8080b8644",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "84960aa9f76c",
@@ -338,7 +338,7 @@
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "7a0ec6232ce8",
       "content/posts/the-scaffolding-that-keeps-growing.md": "8fddf91966e8",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "728ed78cb1f9",
-      "content/posts/the-scaffolding-we-forget.md": "4a90638461c5",
+      "content/posts/the-scaffolding-we-forget.md": "ce403e66da40",
       "content/posts/the-scaling-loop.md": "01f561084635",
       "content/posts/the-self-portrait-in-the-projection.md": "53e4a8649ae8",
       "content/posts/the-shadow-and-the-infinite.md": "c39730290699",
@@ -406,30 +406,30 @@
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "c0c80009ca9d",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "ac686192b927",
       "content/book/causality.md": "58084f9648d2",
-      "content/book/consciousness.md": "199aa8f55c7c",
+      "content/book/consciousness.md": "077d4429e325",
       "content/book/economics.md": "91d63f3f8af4",
-      "content/book/index-of-premises.md": "a0715bd322eb",
-      "content/book/intelligence.md": "e8b4ca4b4a69",
-      "content/book/knowledge-and-learning.md": "fc593b62b093",
+      "content/book/index-of-premises.md": "58fcdf49ce39",
+      "content/book/intelligence.md": "19193ae56906",
+      "content/book/knowledge-and-learning.md": "997145394b29",
       "content/book/life-and-statistics.md": "903bd0f56d99",
       "content/book/mathematics.md": "322ac308b378",
       "content/book/meaning-and-transcendence.md": "a851650b120c",
-      "content/book/method.md": "a86ce4301e29",
+      "content/book/method.md": "5ef4b764ccc4",
       "content/book/morality.md": "aaee6cdba130",
       "content/book/physics.md": "7c86d385a9f8",
       "content/book/preface.md": "d0065384016a",
       "content/book/state-and-collective.md": "5e8b762efc78",
       "content/book/success-and-the-self.md": "f19aad8c22f2",
-      "content/book/tools-and-progress.md": "9bebcce9c9c8"
+      "content/book/tools-and-progress.md": "bd0b51965461"
     },
     "stats": {
       "posts": 397,
-      "edges": 10718,
-      "unique_directed": 5258,
+      "edges": 10784,
+      "unique_directed": 5291,
       "missing_targets": 0,
-      "one_way": 760,
-      "isolated": 18,
-      "posts_with_outbound": 379,
+      "one_way": 785,
+      "isolated": 10,
+      "posts_with_outbound": 387,
       "book_pages": 16,
       "book_edges": 1104,
       "posts_reached_by_book": 397
@@ -438,7 +438,7 @@
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 377
+      "in_degree": 385
     },
     {
       "slug": "beyond-the-projection",
@@ -454,15 +454,15 @@
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 75
+      "in_degree": 77
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 65
+      "in_degree": 66
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "in_degree": 61
+      "in_degree": 62
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -532,7 +532,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "out_degree": 68
+      "out_degree": 69
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -604,14 +604,6 @@
     "agents_leia_ontological_clarity",
     "four-night-questions",
     "grok-420-framework-drift",
-    "platform-decision-capture",
-    "scaffolds-or-specialized-contexts",
-    "school_essay_final",
-    "sensing-before-interpretation",
-    "simplicity-ultimate-sophistication",
-    "the-collapsed-debate",
-    "the-defining-seat",
-    "the-descent-that-doesnt-know-where-its-going",
     "the-interesting-case-of-rubin",
     "the-loop-accelerates",
     "the-maintenance-paradox",
@@ -1352,7 +1344,7 @@
       "path": "content/posts/chollet-intelligence-explosion-analysis.md",
       "title": "被误认作实体的阴影 / The Shadow Mistaken for the Object",
       "hash": "c8c3e191336b",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 3,
       "links_out": [
         "your-codebase-is-memory",
@@ -1411,7 +1403,7 @@
       "path": "content/posts/claudes-constitution-analysis.md",
       "title": "名为 Claude 的投射 / The Projection Called Claude",
       "hash": "23c8705be222",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 2,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
@@ -1425,7 +1417,7 @@
       "path": "content/posts/cli-interface-stack.md",
       "title": "界面栈与命令行基底 / The Interface Stack",
       "hash": "8ce49c41c258",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 4,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -2257,7 +2249,7 @@
       "path": "content/posts/everything-is-changing-as-always.md",
       "title": "万物一如既往地流变 / Everything Is Changing, as Always",
       "hash": "ef77f674af21",
-      "in_degree": 2,
+      "in_degree": 4,
       "out_degree": 4,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -3170,7 +3162,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "智能只属于心智 / Intelligence Belongs Only to the Mind",
       "hash": "425497acb31b",
-      "in_degree": 75,
+      "in_degree": 77,
       "out_degree": 70,
       "links_out": [
         "curiosity-has-no-final-form",
@@ -3302,7 +3294,7 @@
       "path": "content/posts/intelligence-traps-itself.md",
       "title": "智能最容易困住的正是它自己 / Intelligence Is the Thing Most Likely to Trap Itself",
       "hash": "e9dd405ccf3c",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 3,
       "links_out": [
         "clarity-isnt-a-state-you-arrive-at",
@@ -4051,7 +4043,7 @@
       "path": "content/posts/on-education.md",
       "title": "论教育、共振与给人真东西 / On Education, Resonance, and Giving Someone the Real Thing",
       "hash": "99c1e2f8be6e",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 2,
       "links_out": [
         "the-fallacy-of-post-success-parenting",
@@ -4487,11 +4479,18 @@
       "kind": "post",
       "slug": "platform-decision-capture",
       "path": "content/posts/platform-decision-capture.md",
-      "title": "The Platform Doesn't Drift — It Completes",
-      "hash": "1ef2e061ead1",
-      "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "title": "平台并未漂移，它只是走到了终点 / The Platform Doesn't Drift, It Completes",
+      "hash": "c1ce0036119a",
+      "in_degree": 3,
+      "out_degree": 6,
+      "links_out": [
+        "cli-interface-stack",
+        "scaffolds-or-specialized-contexts",
+        "the-collapsed-debate",
+        "sensing-before-interpretation",
+        "your-codebase-is-memory",
+        "simplicity-ultimate-sophistication"
+      ]
     },
     {
       "id": "post:po-chu-gai-nian-de-jian-yue",
@@ -5002,22 +5001,31 @@
       "kind": "post",
       "slug": "scaffolds-or-specialized-contexts",
       "path": "content/posts/scaffolds-or-specialized-contexts.md",
-      "title": "Scaffolds or Specialized Contexts?",
-      "hash": "fb0705d100f4",
-      "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "title": "是脚手架还是特化语境 / Scaffolds or Specialized Contexts",
+      "hash": "f17b46f726ad",
+      "in_degree": 2,
+      "out_degree": 4,
+      "links_out": [
+        "the-scaffolding-we-forget",
+        "platform-decision-capture",
+        "your-codebase-is-memory",
+        "simplicity-ultimate-sophistication"
+      ]
     },
     {
       "id": "post:school_essay_final",
       "kind": "post",
       "slug": "school_essay_final",
       "path": "content/posts/school_essay_final.md",
-      "title": "Why AI Is Exposing the Fatal Flaw in Modern Schooling",
-      "hash": "7805457b6ae2",
+      "title": "人工智能为何正在暴露现代学校教育的致命缺陷 / Why AI Is Exposing the Fatal Flaw in Modern Schooling",
+      "hash": "3aa3b258724e",
       "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "out_degree": 3,
+      "links_out": [
+        "on-education",
+        "your-codebase-is-memory",
+        "platform-decision-capture"
+      ]
     },
     {
       "id": "post:selection-contradiction-and-open-reality",
@@ -5142,11 +5150,15 @@
       "kind": "post",
       "slug": "sensing-before-interpretation",
       "path": "content/posts/sensing-before-interpretation.md",
-      "title": "Sensing Before Interpretation",
-      "hash": "3a0e8a0a84ab",
-      "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "title": "先于解释的感知 / Sensing Before Interpretation",
+      "hash": "e85a0b081114",
+      "in_degree": 2,
+      "out_degree": 3,
+      "links_out": [
+        "the-descent-that-doesnt-know-where-its-going",
+        "everything-is-changing-as-always",
+        "your-codebase-is-memory"
+      ]
     },
     {
       "id": "post:shared-consciousness-is-intersecting-individualities",
@@ -5250,11 +5262,16 @@
       "kind": "post",
       "slug": "simplicity-ultimate-sophistication",
       "path": "content/posts/simplicity-ultimate-sophistication.md",
-      "title": "Simplicity Is the Ultimate Sophistication",
-      "hash": "243d6f919997",
-      "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "title": "至简即至繁 / Simplicity Is the Ultimate Sophistication",
+      "hash": "90ac1690ba33",
+      "in_degree": 2,
+      "out_degree": 4,
+      "links_out": [
+        "intelligence-belongs-only-to-the-mind",
+        "your-codebase-is-memory",
+        "everything-is-changing-as-always",
+        "scaffolds-or-specialized-contexts"
+      ]
     },
     {
       "id": "post:sovereignty-belief-and-regulatory-structures",
@@ -6177,11 +6194,16 @@
       "kind": "post",
       "slug": "the-collapsed-debate",
       "path": "content/posts/the-collapsed-debate.md",
-      "title": "The Collapsed Debate",
-      "hash": "70fd73306062",
-      "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "title": "坍缩的辩论与正交的生存风险轴 / The Collapsed Debate",
+      "hash": "f43a0321747b",
+      "in_degree": 2,
+      "out_degree": 4,
+      "links_out": [
+        "intelligence-belongs-only-to-the-mind",
+        "the-defining-seat",
+        "the-model-never-becomes-a-second-edge",
+        "your-codebase-is-memory"
+      ]
     },
     {
       "id": "post:the-comment-is-not-the-code",
@@ -6324,11 +6346,16 @@
       "kind": "post",
       "slug": "the-defining-seat",
       "path": "content/posts/the-defining-seat.md",
-      "title": "The Defining Seat",
-      "hash": "6c9a5b6b9658",
-      "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "title": "定义者的席位与离地的幻觉 / The Defining Seat",
+      "hash": "439193457772",
+      "in_degree": 1,
+      "out_degree": 4,
+      "links_out": [
+        "claudes-constitution-analysis",
+        "the-collapsed-debate",
+        "intelligence-traps-itself",
+        "your-codebase-is-memory"
+      ]
     },
     {
       "id": "post:the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -6377,11 +6404,16 @@
       "kind": "post",
       "slug": "the-descent-that-doesnt-know-where-its-going",
       "path": "content/posts/the-descent-that-doesnt-know-where-its-going.md",
-      "title": "The Descent That Doesn't Know Where It's Going",
-      "hash": "4d795766af5a",
-      "in_degree": 0,
-      "out_degree": 0,
-      "links_out": []
+      "title": "不知去向何方的梯度下降 / The Descent That Doesn't Know Where It's Going",
+      "hash": "787b77d025c1",
+      "in_degree": 1,
+      "out_degree": 4,
+      "links_out": [
+        "sensing-before-interpretation",
+        "chollet-intelligence-explosion-analysis",
+        "the-irreducible-observer",
+        "your-codebase-is-memory"
+      ]
     },
     {
       "id": "post:the-deterministic-machine",
@@ -7571,7 +7603,7 @@
       "path": "content/posts/the-irreducible-observer.md",
       "title": "不可还原的观察者 / The Irreducible Observer",
       "hash": "128d5b8534dd",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 18,
       "links_out": [
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
@@ -8002,7 +8034,7 @@
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge",
       "hash": "e05347b86c6c",
-      "in_degree": 61,
+      "in_degree": 62,
       "out_degree": 47,
       "links_out": [
         "your-codebase-is-memory",
@@ -8978,9 +9010,9 @@
       "slug": "the-scaffolding-we-forget",
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "遗忘的脚手架 / The Scaffolding We Forget",
-      "hash": "4a90638461c5",
-      "in_degree": 65,
-      "out_degree": 68,
+      "hash": "ce403e66da40",
+      "in_degree": 66,
+      "out_degree": 69,
       "links_out": [
         "the-extendable-horizon",
         "the-geometry-of-mind",
@@ -9029,6 +9061,7 @@
         "everything-is-changing-as-always",
         "cli-interface-stack",
         "extended-cognition-refined",
+        "platform-decision-capture",
         "curiosity-has-no-final-form",
         "why-mathematics-can-never-be-solved",
         "what-information-is",
@@ -10459,7 +10492,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 377,
+      "in_degree": 385,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -36524,6 +36557,78 @@
       "label": "Beyond the Projection"
     },
     {
+      "from": "platform-decision-capture",
+      "to": "cli-interface-stack",
+      "rel": "points_to",
+      "label": "界面栈与命令行基底"
+    },
+    {
+      "from": "platform-decision-capture",
+      "to": "scaffolds-or-specialized-contexts",
+      "rel": "points_to",
+      "label": "是脚手架还是特化语境"
+    },
+    {
+      "from": "platform-decision-capture",
+      "to": "the-collapsed-debate",
+      "rel": "points_to",
+      "label": "坍缩的辩论与正交的生存风险轴"
+    },
+    {
+      "from": "platform-decision-capture",
+      "to": "sensing-before-interpretation",
+      "rel": "points_to",
+      "label": "先于解释的感知"
+    },
+    {
+      "from": "platform-decision-capture",
+      "to": "cli-interface-stack",
+      "rel": "points_to",
+      "label": "The Interface Stack"
+    },
+    {
+      "from": "platform-decision-capture",
+      "to": "scaffolds-or-specialized-contexts",
+      "rel": "points_to",
+      "label": "Scaffolds or Specialized Contexts"
+    },
+    {
+      "from": "platform-decision-capture",
+      "to": "the-collapsed-debate",
+      "rel": "points_to",
+      "label": "The Collapsed Debate"
+    },
+    {
+      "from": "platform-decision-capture",
+      "to": "sensing-before-interpretation",
+      "rel": "points_to",
+      "label": "Sensing Before Interpretation"
+    },
+    {
+      "from": "platform-decision-capture",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "platform-decision-capture",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "platform-decision-capture",
+      "to": "simplicity-ultimate-sophistication",
+      "rel": "points_to",
+      "label": "至简即至繁"
+    },
+    {
+      "from": "platform-decision-capture",
+      "to": "simplicity-ultimate-sophistication",
+      "rel": "points_to",
+      "label": "Simplicity Is the Ultimate Sophistication"
+    },
+    {
       "from": "po-chu-gai-nian-de-jian-yue",
       "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
       "rel": "points_to",
@@ -39992,6 +40097,90 @@
       "label": "One’s Potential as Threat or Inspiration"
     },
     {
+      "from": "scaffolds-or-specialized-contexts",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "我们遗忘的脚手架"
+    },
+    {
+      "from": "scaffolds-or-specialized-contexts",
+      "to": "platform-decision-capture",
+      "rel": "points_to",
+      "label": "平台并未漂移，它只是走到了终点"
+    },
+    {
+      "from": "scaffolds-or-specialized-contexts",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "scaffolds-or-specialized-contexts",
+      "to": "platform-decision-capture",
+      "rel": "points_to",
+      "label": "The Platform Doesn't Drift, It Completes"
+    },
+    {
+      "from": "scaffolds-or-specialized-contexts",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "scaffolds-or-specialized-contexts",
+      "to": "simplicity-ultimate-sophistication",
+      "rel": "points_to",
+      "label": "至简即至繁"
+    },
+    {
+      "from": "scaffolds-or-specialized-contexts",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "scaffolds-or-specialized-contexts",
+      "to": "simplicity-ultimate-sophistication",
+      "rel": "points_to",
+      "label": "Simplicity Is the Ultimate Sophistication"
+    },
+    {
+      "from": "school_essay_final",
+      "to": "on-education",
+      "rel": "points_to",
+      "label": "论教育"
+    },
+    {
+      "from": "school_essay_final",
+      "to": "on-education",
+      "rel": "points_to",
+      "label": "On Education"
+    },
+    {
+      "from": "school_essay_final",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "school_essay_final",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "school_essay_final",
+      "to": "platform-decision-capture",
+      "rel": "points_to",
+      "label": "平台并未漂移，它只是走到了终点"
+    },
+    {
+      "from": "school_essay_final",
+      "to": "platform-decision-capture",
+      "rel": "points_to",
+      "label": "The Platform Doesn't Drift, It Completes"
+    },
+    {
       "from": "selection-contradiction-and-open-reality",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
@@ -40844,6 +41033,42 @@
       "label": "War, Revolution, and the Fall of Empires"
     },
     {
+      "from": "sensing-before-interpretation",
+      "to": "the-descent-that-doesnt-know-where-its-going",
+      "rel": "points_to",
+      "label": "不知去向何方的梯度下降"
+    },
+    {
+      "from": "sensing-before-interpretation",
+      "to": "everything-is-changing-as-always",
+      "rel": "points_to",
+      "label": "万物一如既往地流变"
+    },
+    {
+      "from": "sensing-before-interpretation",
+      "to": "the-descent-that-doesnt-know-where-its-going",
+      "rel": "points_to",
+      "label": "The Descent That Doesn't Know Where It's Going"
+    },
+    {
+      "from": "sensing-before-interpretation",
+      "to": "everything-is-changing-as-always",
+      "rel": "points_to",
+      "label": "Everything Is Changing, as Always"
+    },
+    {
+      "from": "sensing-before-interpretation",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "sensing-before-interpretation",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
       "from": "shared-consciousness-is-intersecting-individualities",
       "to": "shared-humanity-is-never-shared",
       "rel": "points_to",
@@ -41454,6 +41679,54 @@
       "to": "the-inversion-of-reading-and-the-order-of-inference",
       "rel": "points_to",
       "label": "The Inversion of Reading and the Order of Inference"
+    },
+    {
+      "from": "simplicity-ultimate-sophistication",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "simplicity-ultimate-sophistication",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "simplicity-ultimate-sophistication",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "simplicity-ultimate-sophistication",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "simplicity-ultimate-sophistication",
+      "to": "everything-is-changing-as-always",
+      "rel": "points_to",
+      "label": "万物一如既往地流变"
+    },
+    {
+      "from": "simplicity-ultimate-sophistication",
+      "to": "scaffolds-or-specialized-contexts",
+      "rel": "points_to",
+      "label": "是脚手架还是特化语境"
+    },
+    {
+      "from": "simplicity-ultimate-sophistication",
+      "to": "everything-is-changing-as-always",
+      "rel": "points_to",
+      "label": "Everything Is Changing, as Always"
+    },
+    {
+      "from": "simplicity-ultimate-sophistication",
+      "to": "scaffolds-or-specialized-contexts",
+      "rel": "points_to",
+      "label": "Scaffolds or Specialized Contexts"
     },
     {
       "from": "sovereignty-belief-and-regulatory-structures",
@@ -47192,6 +47465,54 @@
       "label": "Moral Language Dilutes the Feedback That Scales Freedom"
     },
     {
+      "from": "the-collapsed-debate",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "the-collapsed-debate",
+      "to": "the-defining-seat",
+      "rel": "points_to",
+      "label": "定义者的席位与离地的幻觉"
+    },
+    {
+      "from": "the-collapsed-debate",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "the-collapsed-debate",
+      "to": "the-defining-seat",
+      "rel": "points_to",
+      "label": "The Defining Seat"
+    },
+    {
+      "from": "the-collapsed-debate",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永不成为第二道边缘"
+    },
+    {
+      "from": "the-collapsed-debate",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-collapsed-debate",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "the-collapsed-debate",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
       "from": "the-comment-is-not-the-code",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
@@ -47984,6 +48305,54 @@
       "label": "The Potential Infinity of Operators and the Finite Horizon of Records"
     },
     {
+      "from": "the-defining-seat",
+      "to": "claudes-constitution-analysis",
+      "rel": "points_to",
+      "label": "名为 Claude 的投射"
+    },
+    {
+      "from": "the-defining-seat",
+      "to": "claudes-constitution-analysis",
+      "rel": "points_to",
+      "label": "The Projection Called Claude"
+    },
+    {
+      "from": "the-defining-seat",
+      "to": "the-collapsed-debate",
+      "rel": "points_to",
+      "label": "坍缩的辩论与正交的生存风险轴"
+    },
+    {
+      "from": "the-defining-seat",
+      "to": "intelligence-traps-itself",
+      "rel": "points_to",
+      "label": "智能最容易困住的正是它自己"
+    },
+    {
+      "from": "the-defining-seat",
+      "to": "the-collapsed-debate",
+      "rel": "points_to",
+      "label": "The Collapsed Debate"
+    },
+    {
+      "from": "the-defining-seat",
+      "to": "intelligence-traps-itself",
+      "rel": "points_to",
+      "label": "Intelligence Is the Thing Most Likely to Trap Itself"
+    },
+    {
+      "from": "the-defining-seat",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-defining-seat",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "the-summary-first-reversal-and-the-command-of-yields",
       "rel": "points_to",
@@ -48354,6 +48723,54 @@
       "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
       "rel": "points_to",
       "label": "The Receptionist Parable and the Causal Inversion of Absence"
+    },
+    {
+      "from": "the-descent-that-doesnt-know-where-its-going",
+      "to": "sensing-before-interpretation",
+      "rel": "points_to",
+      "label": "先于解释的感知"
+    },
+    {
+      "from": "the-descent-that-doesnt-know-where-its-going",
+      "to": "chollet-intelligence-explosion-analysis",
+      "rel": "points_to",
+      "label": "被误认作实体的阴影"
+    },
+    {
+      "from": "the-descent-that-doesnt-know-where-its-going",
+      "to": "sensing-before-interpretation",
+      "rel": "points_to",
+      "label": "Sensing Before Interpretation"
+    },
+    {
+      "from": "the-descent-that-doesnt-know-where-its-going",
+      "to": "chollet-intelligence-explosion-analysis",
+      "rel": "points_to",
+      "label": "The Shadow Mistaken for the Object"
+    },
+    {
+      "from": "the-descent-that-doesnt-know-where-its-going",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "不可还原的观察者"
+    },
+    {
+      "from": "the-descent-that-doesnt-know-where-its-going",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-descent-that-doesnt-know-where-its-going",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "The Irreducible Observer"
+    },
+    {
+      "from": "the-descent-that-doesnt-know-where-its-going",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-deterministic-machine",
@@ -64827,6 +65244,12 @@
     },
     {
       "from": "the-scaffolding-we-forget",
+      "to": "platform-decision-capture",
+      "rel": "points_to",
+      "label": "平台并未漂移，它只是走到了终点"
+    },
+    {
+      "from": "the-scaffolding-we-forget",
       "to": "curiosity-has-no-final-form",
       "rel": "points_to",
       "label": "好奇没有最终的形态"
@@ -64884,6 +65307,12 @@
       "to": "extended-cognition-refined",
       "rel": "points_to",
       "label": "Tools as Active Extensions of Cognition"
+    },
+    {
+      "from": "the-scaffolding-we-forget",
+      "to": "platform-decision-capture",
+      "rel": "points_to",
+      "label": "The Platform Doesn't Drift, It Completes"
     },
     {
       "from": "the-scaffolding-we-forget",
@@ -74953,7 +75382,7 @@
         "slug": "consciousness",
         "path": "content/book/consciousness.md",
         "title": "意识与第一人称先验 / Consciousness and the First-Person Prior",
-        "hash": "199aa8f55c7c",
+        "hash": "077d4429e325",
         "out_degree": 39
       },
       {
@@ -74971,7 +75400,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "a0715bd322eb",
+        "hash": "58fcdf49ce39",
         "out_degree": 397
       },
       {
@@ -74980,7 +75409,7 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "e8b4ca4b4a69",
+        "hash": "19193ae56906",
         "out_degree": 48
       },
       {
@@ -74989,7 +75418,7 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "fc593b62b093",
+        "hash": "997145394b29",
         "out_degree": 34
       },
       {
@@ -75025,7 +75454,7 @@
         "slug": "method",
         "path": "content/book/method.md",
         "title": "非万物之理 / Not a Theory of Everything",
-        "hash": "a86ce4301e29",
+        "hash": "5ef4b764ccc4",
         "out_degree": 26
       },
       {
@@ -75079,7 +75508,7 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "9bebcce9c9c8",
+        "hash": "bd0b51965461",
         "out_degree": 34
       }
     ],
@@ -75310,13 +75739,13 @@
         "from": "book:consciousness",
         "to": "sensing-before-interpretation",
         "rel": "collects",
-        "label": "Sensing Before Interpretation"
+        "label": "先于解释的感知 / Sensing Before Interpretation"
       },
       {
         "from": "book:consciousness",
         "to": "the-defining-seat",
         "rel": "collects",
-        "label": "The Defining Seat"
+        "label": "定义者的席位与离地的幻觉 / The Defining Seat"
       },
       {
         "from": "book:consciousness",
@@ -75820,7 +76249,7 @@
         "from": "book:index-of-premises",
         "to": "platform-decision-capture",
         "rel": "collects",
-        "label": "The Platform Doesn't Drift — It Completes"
+        "label": "平台并未漂移，它只是走到了终点 / The Platform Doesn't Drift, It Completes"
       },
       {
         "from": "book:index-of-premises",
@@ -76426,7 +76855,7 @@
         "from": "book:index-of-premises",
         "to": "the-collapsed-debate",
         "rel": "collects",
-        "label": "The Collapsed Debate"
+        "label": "坍缩的辩论与正交的生存风险轴 / The Collapsed Debate"
       },
       {
         "from": "book:index-of-premises",
@@ -76708,7 +77137,7 @@
         "from": "book:index-of-premises",
         "to": "the-descent-that-doesnt-know-where-its-going",
         "rel": "collects",
-        "label": "The Descent That Doesn't Know Where It's Going"
+        "label": "不知去向何方的梯度下降 / The Descent That Doesn't Know Where It's Going"
       },
       {
         "from": "book:index-of-premises",
@@ -76984,7 +77413,7 @@
         "from": "book:index-of-premises",
         "to": "platform-decision-capture",
         "rel": "collects",
-        "label": "The Platform Doesn't Drift — It Completes"
+        "label": "平台并未漂移，它只是走到了终点 / The Platform Doesn't Drift, It Completes"
       },
       {
         "from": "book:index-of-premises",
@@ -77314,7 +77743,7 @@
         "from": "book:index-of-premises",
         "to": "simplicity-ultimate-sophistication",
         "rel": "collects",
-        "label": "Simplicity Is the Ultimate Sophistication"
+        "label": "至简即至繁 / Simplicity Is the Ultimate Sophistication"
       },
       {
         "from": "book:index-of-premises",
@@ -77434,7 +77863,7 @@
         "from": "book:index-of-premises",
         "to": "the-defining-seat",
         "rel": "collects",
-        "label": "The Defining Seat"
+        "label": "定义者的席位与离地的幻觉 / The Defining Seat"
       },
       {
         "from": "book:index-of-premises",
@@ -77662,7 +78091,7 @@
         "from": "book:index-of-premises",
         "to": "scaffolds-or-specialized-contexts",
         "rel": "collects",
-        "label": "Scaffolds or Specialized Contexts?"
+        "label": "是脚手架还是特化语境 / Scaffolds or Specialized Contexts"
       },
       {
         "from": "book:index-of-premises",
@@ -77944,7 +78373,7 @@
         "from": "book:index-of-premises",
         "to": "school_essay_final",
         "rel": "collects",
-        "label": "Why AI Is Exposing the Fatal Flaw in Modern Schooling"
+        "label": "人工智能为何正在暴露现代学校教育的致命缺陷 / Why AI Is Exposing the Fatal Flaw in Modern Schooling"
       },
       {
         "from": "book:index-of-premises",
@@ -78946,7 +79375,7 @@
         "from": "book:index-of-premises",
         "to": "sensing-before-interpretation",
         "rel": "collects",
-        "label": "Sensing Before Interpretation"
+        "label": "先于解释的感知 / Sensing Before Interpretation"
       },
       {
         "from": "book:index-of-premises",
@@ -79966,7 +80395,7 @@
         "from": "book:intelligence",
         "to": "the-collapsed-debate",
         "rel": "collects",
-        "label": "The Collapsed Debate"
+        "label": "坍缩的辩论与正交的生存风险轴 / The Collapsed Debate"
       },
       {
         "from": "book:intelligence",
@@ -79984,7 +80413,7 @@
         "from": "book:intelligence",
         "to": "the-descent-that-doesnt-know-where-its-going",
         "rel": "collects",
-        "label": "The Descent That Doesn't Know Where It's Going"
+        "label": "不知去向何方的梯度下降 / The Descent That Doesn't Know Where It's Going"
       },
       {
         "from": "book:intelligence",
@@ -80200,7 +80629,7 @@
         "from": "book:knowledge-and-learning",
         "to": "school_essay_final",
         "rel": "collects",
-        "label": "Why AI Is Exposing the Fatal Flaw in Modern Schooling"
+        "label": "人工智能为何正在暴露现代学校教育的致命缺陷 / Why AI Is Exposing the Fatal Flaw in Modern Schooling"
       },
       {
         "from": "book:knowledge-and-learning",
@@ -80674,7 +81103,7 @@
         "from": "book:method",
         "to": "scaffolds-or-specialized-contexts",
         "rel": "collects",
-        "label": "Scaffolds or Specialized Contexts?"
+        "label": "是脚手架还是特化语境 / Scaffolds or Specialized Contexts"
       },
       {
         "from": "book:method",
@@ -81538,7 +81967,7 @@
         "from": "book:tools-and-progress",
         "to": "simplicity-ultimate-sophistication",
         "rel": "collects",
-        "label": "Simplicity Is the Ultimate Sophistication"
+        "label": "至简即至繁 / Simplicity Is the Ultimate Sophistication"
       },
       {
         "from": "book:tools-and-progress",
@@ -81550,7 +81979,7 @@
         "from": "book:tools-and-progress",
         "to": "platform-decision-capture",
         "rel": "collects",
-        "label": "The Platform Doesn't Drift — It Completes"
+        "label": "平台并未漂移，它只是走到了终点 / The Platform Doesn't Drift, It Completes"
       },
       {
         "from": "book:tools-and-progress",

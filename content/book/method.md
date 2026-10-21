@@ -16,7 +16,7 @@ The essays collected in this part document the emergence and development of this
 - [清晰不是抵达的终点，而是运动本身 / Clarity Isn't a State You Arrive At. It's the Movement Itself.](../../posts/clarity-isnt-a-state-you-arrive-at/)
 - [What Happens When an AI Performs a Framework Instead of Operating From It](../../posts/grok-420-framework-drift/)
 - [非万物之理·重溯 / Not a ToE Retraced](../../posts/not-a-toe-rewrite/)
-- [Scaffolds or Specialized Contexts?](../../posts/scaffolds-or-specialized-contexts/)
+- [是脚手架还是特化语境 / Scaffolds or Specialized Contexts](../../posts/scaffolds-or-specialized-contexts/)
 - [框内延伸与维度跃迁 / Extension and Shift](../../posts/extension-and-shift/)
 - [开放即一致 / Openness Is Consistency](../../posts/openness-is-consistency/)
 - [遗忘的脚手架 / The Scaffolding We Forget](../../posts/the-scaffolding-we-forget/)

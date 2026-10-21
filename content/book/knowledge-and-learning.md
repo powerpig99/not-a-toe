@@ -13,7 +13,7 @@ These essays examine academic credentialism, the true advisory scope of expertis
 ## 篇目 / Essays
 
 - [The Analogy Trap: Shared Logic Is Not Shared Structure](../../posts/the_analogy_trap/)
-- [Why AI Is Exposing the Fatal Flaw in Modern Schooling](../../posts/school_essay_final/)
+- [人工智能为何正在暴露现代学校教育的致命缺陷 / Why AI Is Exposing the Fatal Flaw in Modern Schooling](../../posts/school_essay_final/)
 - [论教育、共振与给人真东西 / On Education, Resonance, and Giving Someone the Real Thing](../../posts/on-education/)
 - [活的语境 / The Living Context](../../posts/the-living-context/)
 - [解释为何失效 / Why Explanation Fails](../../posts/why-explanation-fails/)

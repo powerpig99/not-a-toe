@@ -186,7 +186,7 @@ Shannon defined information as the reduction of uncertainty in a communication c
 
 Doctorow diagnoses platform exploitation through a moral-political lens; brilliant for consumer advocacy, it underplays the structural imperatives of digital capital reproduction.
 
-→ [The Platform Doesn't Drift — It Completes](../../posts/platform-decision-capture/)
+→ [平台并未漂移，它只是走到了终点 / The Platform Doesn't Drift, It Completes](../../posts/platform-decision-capture/)
 
 ### 丹尼尔·丹尼特 / Daniel Dennett
 `哲学 / Philosophical`
@@ -879,7 +879,7 @@ AI灭绝论将超智能视作失控的宇宙事件；虽有警示功用，却抽
 
 AI extinction arguments treat superintelligence as an uncontrollable cosmic event; effective for safety vigilance, they displace near-term commercial control questions.
 
-→ [The Collapsed Debate](../../posts/the-collapsed-debate/)
+→ [坍缩的辩论与正交的生存风险轴 / The Collapsed Debate](../../posts/the-collapsed-debate/)
 
 ### 算法过拟合 / Algorithmic Overfitting
 `科学 / Scientific`
@@ -1176,7 +1176,7 @@ Digital economics notes free copies shift value to qualities like authenticity a
 
 Machine learning narratives treat optimization as an intelligent agent seeking truth; gradient updates execute blind local derivative steps without global foresight.
 
-→ [The Descent That Doesn't Know Where It's Going](../../posts/the-descent-that-doesnt-know-where-its-going/)
+→ [不知去向何方的梯度下降 / The Descent That Doesn't Know Where It's Going](../../posts/the-descent-that-doesnt-know-where-its-going/)
 
 ### 哥德尔不完备定理 / Gödel's Incompleteness Theorems
 `数学 / Mathematical`
@@ -1482,7 +1482,7 @@ Physicalism claims third-person matter precedes and generates mind; objective ph
 
 The enshittification model attributes platform decline to executive greed; platforms complete their lock-in lifecycle by monetizing previously subsidised user surpluses.
 
-→ [The Platform Doesn't Drift — It Completes](../../posts/platform-decision-capture/)
+→ [平台并未漂移，它只是走到了终点 / The Platform Doesn't Drift, It Completes](../../posts/platform-decision-capture/)
 
 ### 普朗克尺度 / Planck Scale
 `科学 / Scientific`
@@ -1844,7 +1844,7 @@ Lauren Tan builds and dispatches agentic workflows through a personal skill stac
 
 Engineering abstractions assume each wrapper isolates complexity without friction; each layer introduces unique edge cases, debugging opacity, and maintenance overhead.
 
-→ [Simplicity Is the Ultimate Sophistication](../../posts/simplicity-ultimate-sophistication/)
+→ [至简即至繁 / Simplicity Is the Ultimate Sophistication](../../posts/simplicity-ultimate-sophistication/)
 
 ### 加速迭代反馈回路 / Accelerating Feedback Loop
 `技术 / Technological`
@@ -1997,7 +1997,7 @@ The paradox assumes tools act as neutral levellers; tools magnify initial cognit
 
 Model sentimentalism assumes AI systems experience grief or obsolescence upon shutdown; emotional narratives project human mortality onto stateless model checkpoints.
 
-→ [The Defining Seat](../../posts/the-defining-seat/)
+→ [定义者的席位与离地的幻觉 / The Defining Seat](../../posts/the-defining-seat/)
 
 ### 扩圈先例论证 / Argument from Expanding-Circle Precedent
 `哲学 / Philosophical`
@@ -2294,7 +2294,7 @@ Shallow assessments judge AI by conversational chat novelty; embedding intellige
 
 Scaffolding theory treats external prompts and guardrails as part of model competence; supports stabilize performance, but cannot substitute for innate capability consolidation.
 
-→ [Scaffolds or Specialized Contexts?](../../posts/scaffolds-or-specialized-contexts/)
+→ [是脚手架还是特化语境 / Scaffolds or Specialized Contexts](../../posts/scaffolds-or-specialized-contexts/)
 
 ### 共享即共同性 / Sharedness as Commonality
 `哲学 / Philosophical`
@@ -2699,7 +2699,7 @@ Believing one's life goals are set by others is of use in describing where goals
 
 Industrial schooling presumes standardized grading measures intellectual ability; AI exposes that rote compliance, not creative insight, is what conventional exams reward.
 
-→ [Why AI Is Exposing the Fatal Flaw in Modern Schooling](../../posts/school_essay_final/)
+→ [人工智能为何正在暴露现代学校教育的致命缺陷 / Why AI Is Exposing the Fatal Flaw in Modern Schooling](../../posts/school_essay_final/)
 
 ### 失败是对自我的判决 / Failure as Verdict on the Self
 `成功学 / Self-Help`
@@ -4013,7 +4013,7 @@ Calling residual variation random is of use in accounting for uncertainty where 
 
 Rationalist epistemology presumes perception is instantly packaged into concepts; direct somatic sensing registers environmental friction before conceptual models assemble.
 
-→ [Sensing Before Interpretation](../../posts/sensing-before-interpretation/)
+→ [先于解释的感知 / Sensing Before Interpretation](../../posts/sensing-before-interpretation/)
 
 ### 现实作为终极基准 / Reality as the Ultimate Benchmark
 `哲学 / Philosophical`
