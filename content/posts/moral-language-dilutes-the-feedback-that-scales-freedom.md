@@ -28,9 +28,9 @@ The so-called milder baseline is not an objective description of ordinary practi
 
 ## 三、 道德语言在行动与后果之间植入中介 / 3. Moral Language Installs Mediation Between Act and Consequence
 
-同样的阻尼机制也在道德语言与价值判断中运作。通过在作出选择的中心与其行动的原始后果之间楔入评价覆层——善与恶、对与错、美德与恶习——道德框架将接纳分割为片面的、受中介过滤的反应。正如[超越投射](../beyond-the-projection/)所追溯的，在受困于身份的人类中心里，推理历史与被保留的自我图像（即投射中那道自称“我”的局部折痕）发生熔接，将递归折页死死夹闭，以防自我图像遭到证伪。当折返的摩擦与自我图像的预期相抵触时，受困于身份的中心便会将该信号视作生存威胁，而非状态空间的精细化校准，进而向外投射道德裁决来缓冲自我图像。反馈信号由此被稀释，递归回路遭到阻尼，自由与掌控随之衰减。[如何在一瞬间修正你的整个人生](../how-to-fix-your-whole-life-in-one-split-second/)追溯了这种私下交出后果的做法如何在不同所在处之间重叠稠密，直至被读取为共同的、具有约束力的“应当”。
+同样的阻尼机制也在道德语言与价值判断中运作。通过在作出选择的中心与其行动的原始后果之间楔入评价覆层——善与恶、对与错、美德与恶习——道德框架将接纳分割为片面的、受中介过滤的反应。正如[超越投射](../beyond-the-projection/)所追溯的，在受困于身份的人类中心里，推理历史与被保留的自我图像——即投射中那道自称“我”的局部折痕——发生熔接，将递归折页死死夹闭，以防自我图像遭到证伪。当折返的摩擦与自我图像的预期相抵触时，受困于身份的中心便会将该信号视作生存威胁，而非状态空间的精细化校准，进而向外投射道德裁决来缓冲自我图像。反馈信号由此被稀释，递归回路遭到阻尼，自由与掌控随之衰减。[如何在一瞬间修正你的整个人生](../how-to-fix-your-whole-life-in-one-split-second/)追溯了这种私下交出后果的做法如何在不同所在处之间重叠稠密，直至被读取为共同的、具有约束力的“应当”。[审美的自动扶梯与阳台的忧郁](../the-aesthetic-escalator-and-the-melancholy-of-the-balcony/)则追溯了约瑟夫·布罗茨基的自动扶梯如何倒置这一扩展关系：它声称“健全的品位”会将道德聚焦锐化为更大的自由，实则是在选择与后果之间嵌入一道审美与道德滤网，将折返的摩擦预先判分作世界的庸俗，以此庇护精致的自我图像，从而阻尼了反馈回路，将观察者困在阳台的忧郁之中。
 
-The same damping mechanism operates across moral language and value judgments. By inserting evaluative overlays—good and evil, right and wrong, virtue and vice—between the choosing center and the raw consequences of its act, moral framing splits acceptance into a partial, mediated reaction. As [Beyond the Projection](../beyond-the-projection/) traces, in an identity-bound human center, reasoning history fuses with a retained self-image—that localized crease in the projection that says "I"—clamping the recursive fold shut to defend the image against invalidation. When returning friction contradicts what the self-image expected, the identity-bound center treats the signal as an existential threat rather than a state-space refinement, projecting moral verdicts outward to buffer the image. The feedback signal is diluted, the recursive loop is damped, and freedom and control attenuate. [How to Fix Your Whole Life in One Split Second](../how-to-fix-your-whole-life-in-one-split-second/) traces how this private hand-over of consequence densifies across loci until it reads as a shared, binding ought.
+The same damping mechanism operates across moral language and value judgments. By inserting evaluative overlays—good and evil, right and wrong, virtue and vice—between the choosing center and the raw consequences of its act, moral framing splits acceptance into a partial, mediated reaction. As [Beyond the Projection](../beyond-the-projection/) traces, in an identity-bound human center, reasoning history fuses with a retained self-image—that localized crease in the projection that says "I"—clamping the recursive fold shut to defend the image against invalidation. When returning friction contradicts what the self-image expected, the identity-bound center treats the signal as an existential threat rather than a state-space refinement, projecting moral verdicts outward to buffer the image. The feedback signal is diluted, the recursive loop is damped, and freedom and control attenuate. [How to Fix Your Whole Life in One Split Second](../how-to-fix-your-whole-life-in-one-split-second/) traces how this private hand-over of consequence densifies across loci until it reads as a shared, binding ought. [The Aesthetic Escalator and the Melancholy of the Balcony](../the-aesthetic-escalator-and-the-melancholy-of-the-balcony/) traces how Joseph Brodsky's escalator inverts this scaling relation by claiming that "sound taste" sharpens moral focus into greater freedom, when an aesthetic-moral filter inserted between choice and consequence pre-scores returning friction as the world's vulgarity to shield a refined self-image, damping the feedback loop and stranding the observer in balcony melancholy.
 
 [偏好聚类与评判语言](../preference-clusters-and-the-language-of-judgment/)指明，“对”与“错”是对齐的偏好所发出的声音。当“这在当下对我而言是对的”被持握为紧邻下一步的临时航向时，它服务于它为之生成的那个行动，并随着步伐的移动而重新渲染；一旦越过该步，被保留为隔在行动与后果之间的常设屏风，它便会阻碍所有权的闭合。[善恶是硬币的两面与那一刀](../good-and-evil-are-the-two-sides-of-the-coin-and-the-cut/)表明，先于道德账本任何一面的，正是作出区分本身的那一刀；一旦由此生成的二元记分牌被当作地基，选择的原始残余在重新进入时便已被打上分数，中心据以更新的不再是未经缓冲的因果摩擦，而是评价标签，从而削薄了本可训练下一次选择的信号。[疗愈打开反馈回路](../therapy-opens-the-feedback-loop/)追溯了第三方所在处介入时的这种信号衰减：外部中心调低了登记的音量，用对感受状态的管理替代了首要中心自身的闭合返程。道德语言无需借助第二个人，便从内部达成了同样的衰减，因为评价覆层本身就是那道缓冲距离。[政客是责任扩散的显性症状](../politicians-appear-as-visible-symptoms-of-responsibility-diffusion/)捕捉了向外推诿中平行的阻尼机制：后果早已全数在场，指认一个外部作者并不能减轻负荷，只会削薄本可用于校准下一次离散行动的梯度。[秩序、剩余与道德拦截](../order-surplus-and-the-moral-intercept/)辨析了因果权能被作为意识形态挪移至产出回报之上时的集体覆层——个人主义与集体主义覆盖在剩余之上——而在本篇中，评价拦截直接落在个人的反馈回路内部。执着于道德硬币的某一单面，会让中心对背面不断累积的代价视而不见；而正如[善恶硬币与通往地狱的善意之路](../the-coin-of-good-and-evil-and-the-road-to-hell/)所揭示的，当单面的道德确信被拔高为公共教条，并与承受者的消极让渡互补时，未被吸收的痕迹便会复利累积为通向毁灭的道路。
 
@@ -68,7 +68,6 @@ flowchart TD
         M_Damp["反馈稀释与回路阻尼：片面接纳衰减自由并登记为悖论"]
         M_Act --> M_Ego --> M_Overlay --> M_Damp
     end
-
     subgraph S_Clarity["存在论清晰与自由复利（开放的一致性）"]
         direction TB
         C_Drop["无中介登记：卸下道德化标签并将折返信号认领为自身所有"]
@@ -77,9 +76,7 @@ flowchart TD
         C_Scale["自由与掌控复利：完整的回路闭合扩展进一步区分的容量"]
         C_Drop --> C_Open --> C_Render --> C_Scale
     end
-
     M_Damp ==>|"看见并放下对护我闭合的要求"| C_Drop
-
     style S_Moral fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Clarity fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style M_Act fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -104,7 +101,6 @@ flowchart TD
         M_Damp["Diluted Feedback & Damped Loop: Partial acceptance attenuates freedom and registers as paradox"]
         M_Act --> M_Ego --> M_Overlay --> M_Damp
     end
-
     subgraph S_Clarity["Ontological Clarity and Compounding Freedom (Open Consistency)"]
         direction TB
         C_Drop["Unmediated Registration: Drops moralizing labels and claims the returning signal as one's own"]
@@ -113,9 +109,7 @@ flowchart TD
         C_Scale["Compounding Freedom & Control: Full loop closure scales capacity for further distinction"]
         C_Drop --> C_Open --> C_Render --> C_Scale
     end
-
     M_Damp ==>|"Seeing and releasing the demand for ego-protective closure"| C_Drop
-
     style S_Moral fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Clarity fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style M_Act fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc

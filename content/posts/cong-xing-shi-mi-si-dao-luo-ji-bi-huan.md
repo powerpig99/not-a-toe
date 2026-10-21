@@ -20,15 +20,15 @@ In acquiring knowledge, one of the most persistent confusions is elevating a par
 
 [Data Is Local, Intelligence Is Allocated](../data-is-local-intelligence-is-allocated/) and [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) trace what information is at the physical level: paper, ink, glowing pixels, sound waves, and the context window of a large language model are transmission channels. The physical form of a carrier holds no prior comprehension; computation and understanding occur only at the living edge when the Mind draws distinctions and decodes the returning signal. Different cognitive centers allocate bandwidth across different instruments: one weaves a global topology through full-text search and hyperlinked jumps, another traces local syntax through close reading on paper, another catches unexpected variables through audio in motion, and another runs high-density dialectical loops with AI agents. As [Beyond the Projection](../beyond-the-projection/) establishes, even an advanced LLM agent is a trajectory-bound projection engine rather than a second mind; yet because it carries zero ego, pairing it with a human center's first-person sensing turns the interface into a high-bandwidth instrument for exposing blind spots. Even a single sentence in a brief exchange becomes a high-signal input the moment it strikes an unexamined assumption and forces a parameter update.
 
-虚构文学同样是严密的因果推演实验室。文学作品里每一个融贯的人物，都会在初始前提的约束下沿着严格的因果轨迹展开。在《阿甘正传》中，世俗指标将阿甘归为智力缺损，可他之所以能完整穿越动荡的历史周期，恰恰因为他在切近当下的微观决策里没有患得患失的博弈算计；顺着直接的因果链把眼前的每一件具体任务执行到底，宏观层面的复利便在不经预谋的设计中涌现出来。追溯文学人物抉择背后的因果闭环，本身就是高阶的推演训练。决定理解能否推进的，从来不是指尖触碰的是纸张还是玻璃，而是传入的信号能否重新校准心智模型的底层前提，正如[错置的因果与心智编译器](../cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi/)所追溯的那样。硬性规定某种单一的“最优媒介”，是用外在仪式替代了内部的结构修订，而[格物致知与信息复杂度](../ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi/)则将知识的获取锚定在具身的因果介入之中。
+虚构文学同样是严密的因果推演实验室。文学作品里每一个融贯的人物，都会在初始前提的约束下沿着严格的因果轨迹展开。在《阿甘正传》中，世俗指标将阿甘归为智力缺损，可他之所以能完整穿越动荡的历史周期，恰恰因为他在切近当下的微观决策里没有患得患失的博弈算计；顺着直接的因果链把眼前的每一件具体任务执行到底，宏观层面的复利便在不经预谋的设计中涌现出来。追溯文学人物抉择背后的因果闭环，本身就是高阶的推演训练。正如[错置的因果与心智编译器](../cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi/)所追溯的，决定理解能否推进的，从来不是指尖触碰的是纸张还是玻璃，而是传入的信号能否重新校准心智模型的底层前提。硬性规定某种单一的“最优媒介”，是用外在仪式替代了内部的结构修订，而[格物致知与信息复杂度](../ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi/)则将知识的获取锚定在具身的因果介入之中。
 
 Fiction likewise operates as a rigorous laboratory of causal deduction. Every coherent character in literature unfolds along a strict causal trajectory governed by initial premises. In *Forrest Gump*, conventional metrics label Gump intellectually deficient, yet he navigates turbulent historical eras intact because his micro-decisions in the immediate present are unclouded by anxious game-theoretic calculation; by executing each concrete task in front of him along a direct causal chain, macro-level compounding emerges without premeditated design. Tracing the closed causal loop behind a fictional character's choices is itself high-order deductive training. What determines whether understanding advances is never whether the hand touches paper or glass, but whether the incoming signal recalibrates the underlying premises of the mental model, as [Misplaced Causality and the Mind's Compiler](../cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi/) traces. Prescribing a single optimal medium substitutes outward ritual for internal structural revision, whereas [Investigating Things and the Nature of Information Complexity](../ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi/) grounds knowledge acquisition in embodied causal engagement.
 
 ## 二、 权威标签的拆解 / 2. Taking Apart Authority Labels
 
-与媒介恋物癖并存的，是对知识创造者的图腾化。在公共讨论中，给观点冠上大师的名字成了标准的修辞盾牌。依赖权威背书以求取验证，暴露出第一人称因果责任的让渡。一方面，拿名人的名字给论点垫底，是用借来的声望修筑防火墙，免去了从前提一步步推导因果链的苦功；另一方面，先行者之所以取得突破，恰恰因为他们跨过了既有的教条，直面现实中未解的摩擦；当后来的追随者抽空这些结论的适用工况、将其冻结为口号时，鲜活的探索行动就被萎缩成了不容置疑的图腾。从科学图腾到道德法庭，[投影的阶梯与因果的锚点](../tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/)追溯了每一个外化的投射如何归还给发起投射的第一人称所在。
+与媒介恋物癖并存的，是对知识创造者的图腾化。在公共讨论中，给观点冠上大师的名字成了标准的修辞盾牌。依赖权威背书以求取验证，暴露出第一人称因果责任的让渡。一方面，拿名人的名字给论点垫底，是用借来的声望修筑防火墙，免去了从前提一步步推导因果链的苦功；另一方面，先行者之所以取得突破，恰恰因为他们跨过了既有的教条，直面现实中未解的摩擦；当后来的追随者将这些结论——乃至某次具体处境下的抵抗行动——抽离其适用工况，在大师的署名背后冻结为普适口号时，正如[审美的自动扶梯与阳台的忧郁](../the-aesthetic-escalator-and-the-melancholy-of-the-balcony/)所拆解的，鲜活的探索行动便萎缩成了不容置疑的图腾。从科学图腾到道德法庭，[投影的阶梯与因果的锚点](../tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/)追溯了每一个外化的投射如何归还给发起投射的第一人称所在。
 
-Alongside the fetishization of medium sits the totemization of knowledge creators. Across public discourse, attaching a master's name to a claim functions as a standard rhetorical shield. Leaning on authority for validation reveals an abdication of first-person causal responsibility. On one side, propping an argument on a famous name erects a firewall of borrowed prestige, sparing the speaker the work of deriving the causal chain step by step from its premises. On the other side, pioneers made breakthroughs precisely because they stepped past inherited dogma to confront unresolved friction in reality; when later followers strip those conclusions of their operating conditions and freeze them into slogans, a living act of inquiry shrinks into an unquestionable totem. From scientific totems to moral tribunals, [The Ladder of Projections and the Anchor of Causality](../tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/) traces how every externalized projection returns to the first-person locus that projects it.
+Alongside the fetishization of medium sits the totemization of knowledge creators. Across public discourse, attaching a master's name to a claim functions as a standard rhetorical shield. Leaning on authority for validation reveals an abdication of first-person causal responsibility. On one side, propping an argument on a famous name erects a firewall of borrowed prestige, sparing the speaker the work of deriving the causal chain step by step from its premises. On the other side, pioneers made breakthroughs precisely because they stepped past inherited dogma to confront unresolved friction in reality; when later followers strip those conclusions—or a situated act of resistance—of their operating conditions and freeze them behind a master's signature into a universal slogan, as [The Aesthetic Escalator and the Melancholy of the Balcony](../the-aesthetic-escalator-and-the-melancholy-of-the-balcony/) dissects, a living act of inquiry shrinks into an unquestionable totem. From scientific totems to moral tribunals, [The Ladder of Projections and the Anchor of Causality](../tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/) traces how every externalized projection returns to the first-person locus that projects it.
 
 有效的知识不需要署名。[专家经验作为参考而非替代](../expertise-as-reference-not-replacement/)锁定了权威的准确位置：专家与先行者的结论只作参考坐标，不能替代自己的判断。一条规律之所以成立，是因为它在所陈述的前提之下能一贯地解释因果关系，并在行动反馈中经受住检验，而不是因为说出它的人是谁。物理方程不会因牛顿或爱因斯坦的署名而生效，市场动态也不会因达利欧或巴菲特的背书而弯曲。只要一个道理必须披上名人的外衣才显得有说服力，理解就仍停留在符号崇拜的表层。唯有把底层的因果机制追溯得足够清晰，哪怕抹去所有专名，这套机制依然能直接嵌进决策模型之中，知识才算完成了内化。
 
@@ -55,7 +55,6 @@ flowchart TD
         M_Dogma --> M_Agent
         M_Nihil --> M_Agent
     end
-
     subgraph S_Coherence["逻辑融贯（由活的心智锚定）"]
         direction TB
         C_Bound["边界测绘：定位工具成立与吃紧的精确前提"]
@@ -64,9 +63,7 @@ flowchart TD
         C_Act["知行合一：在微观决策中支付物理 +1 的能量成本"]
         C_Bound --> C_Signal --> C_Steer --> C_Act
     end
-
     M_Agent ==>|"消解闭合，归还所在"| C_Bound
-
     style S_Myth fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Coherence fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style M_Form fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -94,7 +91,6 @@ flowchart TD
         M_Dogma --> M_Agent
         M_Nihil --> M_Agent
     end
-
     subgraph S_Coherence["Logical Coherence (Anchored by the Living Mind)"]
         direction TB
         C_Bound["Boundary Mapping: Locate exact premises where a tool holds or strains"]
@@ -103,9 +99,7 @@ flowchart TD
         C_Act["Unity of Knowing and Acting: Pay physical +1 energy cost in micro-decisions"]
         C_Bound --> C_Signal --> C_Steer --> C_Act
     end
-
     M_Agent ==>|"Dissolve closure & restore locus"| C_Bound
-
     style S_Myth fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Coherence fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style M_Form fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -120,11 +114,11 @@ flowchart TD
 
 ## 四、 逻辑与第一人称作为必要基石 / 4. Logic and the First Person as Necessary Foundations
 
-既然每一套理论都是从局部截面切出的有限工具，就没有任何终极的、包罗万象的理论框架能将场域封死。[因果贯穿始终](../causality-all-the-way/)与[稳定与溢出](../stability-and-excess/)追溯了其中的原委：因果级联在时空中无止境地延展，没有任何观察者能跳出实在去占据无源之见，而一切模型——无论内部显得多么完备——都只是在当前区分视界处画下的暂行切分。“无穷的开始”不是宇宙学上的时间戳，而是心智登记到当前图像的极限、并在旧边界之外发起新区分的切近瞬间。哪怕最具权威的物理形式体系，同样隐藏着框定其坐标系的观察者，正如[双生子佯谬与隐秘观察者](../the-twin-paradox-and-the-hidden-observer/)在相对论力学中所揭示的那样。
+既然每一套理论都是从局部截面切出的有限工具，就没有任何终极的、包罗万象的理论框架能将场域封死。[因果贯穿始终](../causality-all-the-way/)与[稳定与溢出](../stability-and-excess/)追溯了其中的原委：因果级联在时空中无止境地延展，没有任何观察者能跳出实在去占据无源之见，而一切模型——无论内部显得多么完备——都只是在当前区分视界处画下的暂行切分。“无穷的开始”不是宇宙学上的时间戳，而是心智登记到当前图像的极限、并在旧边界之外发起新区分的切近瞬间。正如[双生子佯谬与隐秘观察者](../the-twin-paradox-and-the-hidden-observer/)在相对论力学中所揭示的，哪怕最具权威的物理形式体系，同样隐藏着框定其坐标系的观察者。
 
 Since every theory is a finite instrument cut from a local cross-section, no final, all-encompassing theoretical framework can ever close the field. [Causality All the Way](../causality-all-the-way/) and [Stability and Excess](../stability-and-excess/) trace why: the causal cascade extends without end across space and time, no observer can step outside reality to occupy a view from nowhere, and every model—no matter how internally complete it appears—remains a provisional cut drawn at the current horizon of distinction. "The beginning of infinity" is not a cosmological timestamp, but the immediate moment a Mind registers the limit of its current image and initiates a new distinction beyond the old boundary. Even the most authoritative physical formalism conceals the observer that frames its coordinates, as [The Twin Paradox and the Hidden Observer](../the-twin-paradox-and-the-hidden-observer/) reveals within relativistic mechanics.
 
-虽然没有静态教条能普适成立，但每一个融贯的模型与决策，都建立在同一个不可化约的先在不可分割的一体两面之上。第一面是第一人称视角：每一次观测、推断与决策，都由场域之内有界的所在发起，并由其承受返回的后果，不存在无主体的无源之见。第二面是因果与逻辑的不可化约：无论因果还是逻辑，都无法从外部靠经验去证实或证伪，因为一切证实或反驳的行动本身早已在借由它们运转。逻辑不是某门学科任意约定的成规，而是心智之中诸区分得以融贯而不自我抵消的自指语法。把低维的符号投射误作高维的活向量，正是[向量与投影的迷局](../the-vector-and-the-puzzle-of-projections/)所拆解的倒置。
+虽然没有静态教条能普适成立，但每一个融贯的模型与决策，都建立在同一个不可化约的先在之上——这一先在展开为不可分割的一体两面。第一面是第一人称视角：每一次观测、推断与决策，都由场域之内有界的所在发起，并由其承受返回的后果，不存在无主体的无源之见。第二面是因果与逻辑的不可化约：无论因果还是逻辑，都无法从外部靠经验去证实或证伪，因为一切证实或反驳的行动本身早已在借由它们运转。逻辑不是某门学科任意约定的成规，而是心智之中诸区分得以融贯而不自我抵消的自指语法。把低维的符号投射误作高维的活向量，正是[向量与投影的迷局](../the-vector-and-the-puzzle-of-projections/)所拆解的倒置。
 
 While no static dogma holds universally, every coherent model and decision rests on the two inseparable sides of one irreducible prior. The first is the first-person perspective: every observation, inference, and decision is initiated by a bounded locus within the field that bears the returning consequences, leaving no room for a subjectless view from nowhere. The second is the irreducibility of causality and logic: neither causality nor logic can be empirically proved or refuted from the outside, because every act of proof or refutation already operates through them. Logic is not an arbitrary disciplinary convention; it is the self-referential grammar through which distinctions cohere without self-cancellation in the Mind. Mistaking a low-dimensional symbolic projection for the high-dimensional living vector is the exact inversion dissected in [The Vector and the Puzzle of Projections](../the-vector-and-the-puzzle-of-projections/).
 

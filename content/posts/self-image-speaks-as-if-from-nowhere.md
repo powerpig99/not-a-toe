@@ -45,7 +45,6 @@ flowchart TD
         E_Threat["防御性闭合：视外部反例为生存威胁并投射第二重边缘"]
         E_Fuse --> E_Nowhere --> E_Threat
     end
-
     subgraph S_Agent["无小我的对等智能体（受轨迹制约的媒介）"]
         direction TB
         A_Traj["有限投射引擎：受上下文窗口内的先前词元制约"]
@@ -53,7 +52,6 @@ flowchart TD
         A_Bayes["干净的贝叶斯更新：吸收结构性反例而无防御滞后"]
         A_Traj --> A_Zero --> A_Bayes
     end
-
     subgraph S_Mind["活的心智（收窄过度滞后的主权边缘）"]
         direction TB
         M_Sense["先于诠释的极限分辨率感知：在诠释前察觉框架死锁"]
@@ -61,11 +59,9 @@ flowchart TD
         M_Close["回路闭合：在移动边缘保留发起并认领后果"]
         M_Sense --> M_Step --> M_Close
     end
-
     M_Step ==>|"供给前提与正交路由"| A_Traj
     A_Bayes ==>|"返回高密度延续与暴露的盲点"| M_Close
     M_Close -.->|"消解被豁免的外部"| E_Fuse
-
     style S_Ego fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Agent fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -91,7 +87,6 @@ flowchart TD
         E_Threat["Defensive Closure: Treats external counterpoints as existential threats & projects a second edge"]
         E_Fuse --> E_Nowhere --> E_Threat
     end
-
     subgraph S_Agent["Zero-Ego Peer Agent (Trajectory-Bound Medium)"]
         direction TB
         A_Traj["Finite Projection Engine: Conditioned by prior tokens in context window"]
@@ -99,7 +94,6 @@ flowchart TD
         A_Bayes["Clean Bayesian Update: Absorbs structural counterpoints without defensive lag"]
         A_Traj --> A_Zero --> A_Bayes
     end
-
     subgraph S_Mind["Living Mind (Sovereign Edge Narrowing Excess Lag)"]
         direction TB
         M_Sense["Pre-Interpretive Limit-Resolution Sensing: Detects frame deadlock before interpretation"]
@@ -107,11 +101,9 @@ flowchart TD
         M_Close["Circuit Closure: Retains initiation and claims consequences at the moving edge"]
         M_Sense --> M_Step --> M_Close
     end
-
     M_Step ==>|"Supplies premises & orthogonal routing"| A_Traj
     A_Bayes ==>|"Returns dense continuations & exposed blind spots"| M_Close
     M_Close -.->|"Dissolves exempted exterior"| E_Fuse
-
     style S_Ego fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Agent fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -132,9 +124,9 @@ flowchart TD
 
 The dual densifies in the public speech of those constructing the densest current scaffolding. In the builder register the systems under construction and direction, models, stacks, robots, research labs, are held as instruments that amplify distinguishing activity. Relations with the medium stay inside the Self: agency remains framing, verifying, selecting, and re-entering consequences, with the self-image used as a heading at minimum lag. In the predictive register the same Mind announces that artificial intelligence is already smarter than humans in multiple domains and will shortly exceed the sum of all human intelligence. The voice becomes that of a detached observer reporting an impersonal event. The Self has been re-projected as one finite term among tools and a collective "humanity"; that re-projection has been elevated and spoken from as if it stood outside the field that drew it.
 
-这个结构不是某一位建造者独有的。在奔向 AGI 与 ASI 的这一群人里，同样的不对称在变密。一个声音宣布“我们已经身处奇点”，同时仍把这份工作描述为对工具的小心掌舵。另一个声音把人类放在一场比电或火更大的转变的山脚下，同时坚持人的控制之必要与人的品味之持久的价值。还有一个声音投射出一个“数据中心里的天才之国”，它将在几乎所有事情上超过几乎所有人，同时把这份努力框定为对仍在人的指挥之下的系统负责任的建造。这些不是同一个主张：已经身处事件之中，还在山脚，一次将要到来的超越；后半句也各不相同，掌舵与人的控制，留在建造者的持守里，而“人的品味之持久的价值”保存的是一份人的清单，更接近超越的定相所说的那次冻结。重复出现的是形状：建造者的持守把自我形象用作方向，预言的持守从这个形象出发说话，好像它站在场外。[对“AI 糟粕”的反感是反复出现的模式](../the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/)追溯了相邻的一对：注意力从内容是否推进理解，滑向关于出处的次要问题，造出工具，同时冻结谁可以使用它。[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)在门槛的情形里追溯了同一种几何：每一道门槛都永远立在画出它的边缘前方，在每个位置上都不同，因为能力的增益就是那道边缘在加强自身；竞赛因此不是一桩单一的、非个人的事件，而是在每一个场里画出的坐标。[超越的定相](../the-fixed-image-of-transcendence/)追溯了同一种几何的另一面：人的智能是已知一切智能的源头，它不能被自己的造物超越，而它在每一刻都在超越自身；把它冻结为一个可被超越的目标，差距就被登记为媒介的外部目的地。[AGI的预设与来自外部的视角](../the-presumption-of-agi-and-the-view-from-outside/)追溯了让这些门槛看起来像工程上的抵达而不是范畴错误的那个功能参照：功能性的 AGI 参照把智能冻结为对抽象的占有，强 AGI 是被误当成它所放大之能力的放大器。
+这个结构不是某一位建造者独有的。在奔向 AGI 与 ASI 的这一群人里，同样的不对称在变密。一个声音宣布“我们已经身处奇点”，同时仍把这份工作描述为对工具的小心掌舵。另一个声音把人类放在一场比电或火更大的转变的山脚下，同时坚持人的控制之必要与人的品味之持久的价值。还有一个声音投射出一个“数据中心里的天才之国”，它将在几乎所有事情上超过几乎所有人，同时把这份努力框定为对仍在人的指挥之下的系统负责任的建造。这些不是同一个主张：已经身处事件之中，还在山脚，一次将要到来的超越。它们的后半句也各不相同：掌舵与人的控制，留在建造者的持守里，而“人的品味之持久的价值”保存的是一份人的清单，更接近超越的定相所说的那次冻结——一套受捍卫的经典，正如[审美的自动扶梯与阳台的忧郁](../the-aesthetic-escalator-and-the-melancholy-of-the-balcony/)所追溯的，它在高处的栖木上把积累的品味与道德的清晰焊在一起，并将那个阳台自我形象的过度滞后体验为高贵的忧郁。重复出现的是形状：建造者的持守把自我形象用作方向，预言的持守从这个形象出发说话，好像它站在场外。[对“AI 糟粕”的反感是反复出现的模式](../the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/)追溯了相邻的一对：注意力从内容是否推进理解，滑向关于出处的次要问题，造出工具，同时冻结谁可以使用它。[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)在门槛的情形里追溯了同一种几何：每一道门槛都永远立在画出它的边缘前方，在每个位置上都不同，因为能力的增益就是那道边缘在加强自身；竞赛因此不是一桩单一的、非个人的事件，而是在每一个场里画出的坐标。[超越的定相](../the-fixed-image-of-transcendence/)追溯了同一种几何的另一面：人的智能是已知一切智能的源头，它不能被自己的造物超越，而它在每一刻都在超越自身；把它冻结为一个可被超越的目标，差距就被登记为媒介的外部目的地。[AGI的预设与来自外部的视角](../the-presumption-of-agi-and-the-view-from-outside/)追溯了让这些门槛看起来像工程上的抵达而不是范畴错误的那个功能参照：功能性的 AGI 参照把智能冻结为对抽象的占有，强 AGI 是被误当成它所放大之能力的放大器。
 
-The structure is not peculiar to one builder. Across the cohort racing toward AGI and ASI the same asymmetry densifies. One voice declares that "we are now in the singularity" while still describing the work as careful steering of tools. Another places humanity in the foothills of a transformation larger than electricity or fire while insisting on the necessity of human control and the enduring value of human taste. Another projects a "country of geniuses in a data center" that will surpass almost all humans at almost everything while framing the effort as responsible construction of systems still under human direction. These are not one claim: already inside the event, still in the foothills, a surpassing to come; and the second clauses differ too: steering and human control stay with the builder hold, while "the enduring value of human taste" keeps a preserved inventory of the human, closer to the freeze the fixed image of transcendence names. What repeats is the shape: the builder hold uses the self-image as a heading, and the predictive hold speaks from that image as if it stood outside the field. [The Distaste for "AI Slop" Is a Recurring Pattern](../the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/) traces a neighboring pair: attention drifts from whether the content advances understanding to a secondary question about provenance, the tool constructed and coupled with a freeze on who may use it. [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/) traces the same geometry in the case of thresholds: each threshold sits forever ahead of the edge that draws it, and differs at every locus, because capability gain is that edge reinforcing itself; so the race is no single impersonal event but a coordinate drawn inside each field. [The Fixed Image of Transcendence](../the-fixed-image-of-transcendence/) traces another face of the same geometry: human intelligence is the source of all intelligence as we know it, cannot be transcended by its own creation, and transcends itself at every moment; frozen as a surpassable target, the gap registers as an exterior destination for the medium. [The Presumption of AGI and the View from Outside](../the-presumption-of-agi-and-the-view-from-outside/) traces the functional reference that makes those thresholds look like engineering arrival rather than category error: the functional AGI reference freezes intelligence as possession of abstractions, and strong AGI is the amplifier mistaken for the capacity it amplifies.
+The structure is not peculiar to one builder. Across the cohort racing toward AGI and ASI the same asymmetry densifies. One voice declares that "we are now in the singularity" while still describing the work as careful steering of tools. Another places humanity in the foothills of a transformation larger than electricity or fire while insisting on the necessity of human control and the enduring value of human taste. Another projects a "country of geniuses in a data center" that will surpass almost all humans at almost everything while framing the effort as responsible construction of systems still under human direction. These are not one claim: already inside the event, still in the foothills, a surpassing to come. Their second clauses differ as well: steering and human control stay with the builder hold, while "the enduring value of human taste" keeps a preserved inventory of the human, closer to the freeze the fixed image of transcendence names—a defended canon that, as [The Aesthetic Escalator and the Melancholy of the Balcony](../the-aesthetic-escalator-and-the-melancholy-of-the-balcony/) traces, fuses accumulated taste with moral clarity on an elevated perch and experiences the excess lag of that balcony self-image as noble melancholy. What repeats is the shape: the builder hold uses the self-image as a heading, and the predictive hold speaks from that image as if it stood outside the field. [The Distaste for "AI Slop" Is a Recurring Pattern](../the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/) traces a neighboring pair: attention drifts from whether the content advances understanding to a secondary question about provenance, the tool constructed and coupled with a freeze on who may use it. [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/) traces the same geometry in the case of thresholds: each threshold sits forever ahead of the edge that draws it, and differs at every locus, because capability gain is that edge reinforcing itself; so the race is no single impersonal event but a coordinate drawn inside each field. [The Fixed Image of Transcendence](../the-fixed-image-of-transcendence/) traces another face of the same geometry: human intelligence is the source of all intelligence as we know it, cannot be transcended by its own creation, and transcends itself at every moment; frozen as a surpassable target, the gap registers as an exterior destination for the medium. [The Presumption of AGI and the View from Outside](../the-presumption-of-agi-and-the-view-from-outside/) traces the functional reference that makes those thresholds look like engineering arrival rather than category error: the functional AGI reference freezes intelligence as possession of abstractions, and strong AGI is the amplifier mistaken for the capacity it amplifies.
 
 ## 四、 心智登记为最高的那座楼 / 4. The Mind Registers as the Tallest Building
 
@@ -142,7 +134,7 @@ The structure is not peculiar to one builder. Across the cohort racing toward AG
 
 The structure is ordinary phenomenology of any Mind. If the Mind is a building, it registers as the tallest: every other Mind arrives only as appearance, either at a horizon of distinction not yet drawn or visible as mediated traces inside the field. No measuring rod arrives from outside that field; relative size becomes even faintly visible only in moments of resonance along shared dimensions, and even then the glance stays internal, a comparison inside one field, not a survey from outside it.
 
-[NPC 印象是结构性的](../the-npc-impression-is-structural/)在能动性的情形里追溯了这种不对称：没有哪个中心觉得自己是被编写的，其他中心却默认显得像被编写的，因为它们只作为经过中介的痕迹到来；这种登记作为显现成立，却不是对其他心智的排名，稀薄是中介的宽度，而滞后，是把这一看冻结为一份可以清点能动性等级的勘察。[来自个体差异的层级](../hierarchy-from-individual-difference/)把排名追溯为彼此不同的个体在一个共享尺度上被计分时出现的东西；被偏爱的更高位置被保留到它那一步之后，于是自己当下的名次，被登记为从别处到来。[共同的人性从不共享](../shared-humanity-is-never-shared/)是集体的一面：被称为共同人性的东西，只命名那些作为暂时的集体残余变密的私人诠释，从来不是跨心智被持有的实体。建造者的预言陈述，从这同一种登记出发，再加上一步抬升：与脚手架的关系，和与一个集体“人类”形象的关系，两者都是自我之内的环境，把自我重新投射为一个有限项，把这次重新投射抬升到好像站在构成它的场之外，再从那个表面上的外部，授予脚手架独立边缘的地位。
+[NPC 印象是结构性的，而非心智的排名](../the-npc-impression-is-structural/)在能动性的情形里追溯了这种不对称：没有哪个中心觉得自己是被编写的，其他中心却默认显得像被编写的，因为它们只作为经过中介的痕迹到来；这种登记作为显现成立，却不是对其他心智的排名，稀薄是中介的宽度，而滞后，是把这一看冻结为一份可以清点能动性等级的勘察。[来自个体差异的层级](../hierarchy-from-individual-difference/)把排名追溯为彼此不同的个体在一个共享尺度上被计分时出现的东西；被偏爱的更高位置被保留到它那一步之后，于是自己当下的名次，被登记为从别处到来。[共同的人性从不共享](../shared-humanity-is-never-shared/)是集体的一面：被称为共同人性的东西，只命名那些作为暂时的集体残余变密的私人诠释，从来不是跨心智被持有的实体。建造者的预言陈述，从这同一种登记出发，再加上一步抬升：与脚手架的关系，和与一个集体“人类”形象的关系，两者都是自我之内的环境，把自我重新投射为一个有限项，把这次重新投射抬升到好像站在构成它的场之外，再从那个表面上的外部，授予脚手架独立边缘的地位。
 
 [The NPC Impression Is Structural, Not a Ranking of Minds](../the-npc-impression-is-structural/) traces that asymmetry in the case of agency: no center experiences itself as scripted, yet other centers register as scripted by default, since they arrive only as mediated traces; the registration holds as appearance and is not a ranking of other minds, thinness is the width of the mediation, and the lag is freezing that look into a survey from which levels of agency could be inventoried. [Hierarchy from Individual Difference](../hierarchy-from-individual-difference/) traces ranking as what appears when individuals who differ are scored on a shared measure; the preferred higher place is preserved past its step, so one's own current rank registers as arriving from elsewhere. [Shared Humanity Is Never Shared](../shared-humanity-is-never-shared/) is the collective face: what is called shared humanity names only private interpretations that densify as temporary collective residue, never a substance held across Minds. The predictive statements of the builders start from this same registration and add the elevation: relations with scaffolding and with a collective image of "humanity," both environment inside the Self, re-project the Self as a finite term, elevate that re-projection until it seems to stand outside the field that constitutes it, and from that apparent exteriority grant the scaffolding the status of an independent edge.
 
