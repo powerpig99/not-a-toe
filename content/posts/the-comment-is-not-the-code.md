@@ -12,7 +12,7 @@ A comment is the writer's living context at the moment of writing, compressed in
 
 A developer writing a function and its comment makes two choices at once, each conditioned by everything held at that moment: what is known about the upstream API, which bug was just fought, which parts feel obvious and which feel fragile, who is imagined reading next. From that, the sentence comes out: *"retry here because the upstream API drops the first request after a cold start."* To the writer, comment and code register as aligned, because both issue from the same priors. From where the writer stands the gap does not register, because the writer supplies the unwritten context from memory at every glance.
 
-赋予这句话意义的东西留在了文本之外：那次冷启动事故，供应商没写进文档的行为，重试只是临时措施的假定。这些是先验，不是字句。注释是那份鲜活语境被压缩、放出的结果，是指向一个意图的符号性指称。正因为[你的代码库即是记忆](../your-codebase-is-memory/)——一座由已提交代码与随附文字构成的外化晶格，其中存下的每一行都等待着活的心智重新进入——一旦放出，注释便不再替写作者承载任何东西；任何展开都是读者完成的重建。期待放出去的文本还能保住写作者的理解，正是[信任读者是最后的越界](../trusting-the-reader-is-the-last-overstep/)所追踪的那种越界。写作者一旦登记到这句话将在自己不具备的先验下被重建，就会把原本靠记忆补上的东西多写出来一些；可离手的，仍是一份压缩。
+赋予这句话意义的东西留在了文本之外：那次冷启动事故，供应商没写进文档的行为，重试只是临时措施的假定。这些是先验，不是字句。注释是那份鲜活语境被压缩、放出的结果，是指向一个意图的符号性指称。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追踪的，代码仓库是一座由已提交代码与随附文字构成的外化晶格，其中存下的每一行都等待着活的心智重新进入：一旦放入这座晶格，注释便不再替写作者承载任何东西，任何展开都是读者完成的重建。期待放出去的文本还能保住写作者的理解，正是[信任读者是最后的越界](../trusting-the-reader-is-the-last-overstep/)所追踪的那种越界。写作者一旦登记到这句话将在自己不具备的先验下被重建，就会把原本靠记忆补上的东西多写出来一些；可离手的，仍是一份压缩。
 
 What gave the sentence its meaning stays outside the text: the cold-start incident, the vendor's undocumented behavior, the assumption that the retry is temporary. Those were priors, not words. The comment is that living context compressed and released, a symbolic reference to an intent. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces, a repository is an externalized lattice of committed code and accompanying prose where every stored line awaits re-entry by an active Mind: once released into that lattice, the comment carries nothing further on the writer's behalf, and any unpacking is a rebuild performed by a reader. Expecting the released text to keep its understanding is the overstep [Trusting the Reader Is the Last Overstep](../trusting-the-reader-is-the-last-overstep/) traces. A writer who registers that the sentence will be rebuilt under priors the writer lacks writes out more of what memory would otherwise supply, and what leaves the hand is still a compression.
 
@@ -44,7 +44,7 @@ An AI coding agent asked to clean up the function meets the same sentence. One a
 
 For the human reader, the trace stops at the preconditions of the choice. Knowledge of the API, history with this repository, time pressure, the last incident: all of it bears on what happens next, and none of it makes the choice. Two moments alike in every condition, borrowed for the point, are alike only as the Mind comparing them registers them, and in either moment the reader trusts the comment, deletes it, or checks the API, with the conditions picking none of these. The choice is made at the moment of choosing, in the Mind working on the file, as the [only independent variable](../individual-choices-as-the-only-causal-levers/).
 
-人的抉择在智能体因果链的起点进入，经由数据、提示和运行外壳；又在运行途中的每一次干预处进入：批准或拒绝一次工具调用，打断，用一句关于供应商修复的话去引导，把变更日志加进上下文，从三个建议补丁里取用一个。每一次干预都为其下游的一切重设前置条件。正如[超越投射](../beyond-the-projection/)所追踪的，智能体是一部受限于词元轨迹且毫无我执的有限投射引擎；将主编码智能体与只持有任务语境的冷启动同侪配对，便会暴露出主运行过程在哪里盲目依赖了过时的注释，并将文字说明与可执行契约之间的矛盾隔离为局部死锁。然而，任何同侪回路或校验层都无法把有限投射变成那个掌舵的鲜活心智。到了终点，删掉重试的那处编辑停在差异里，直到有人接受它、拒绝它、搁置它，或者重新提示，只有经由这个抉择，它才产生后果。正如[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)所指出的，无论有多少任务被移交出去，合并的后果始终留在取用它的心智那里。
+人的抉择在智能体因果链的起点进入，经由数据、提示和运行外壳；又在运行途中的每一次干预处进入：批准或拒绝一次工具调用，打断，用一句关于供应商修复的话去引导，把变更日志加进上下文，从三个建议补丁里取用一个。每一次干预都为其下游的一切重设前置条件。正如[超越投射](../beyond-the-projection/)所追踪的，智能体是一部受限于词元轨迹且毫无我执的有限投射引擎；将主编码智能体与只持有任务语境的冷启动同侪配对，便会暴露出主运行过程在哪里盲目依赖了过时的注释，并将文字说明与可执行契约之间的矛盾隔离为局部死锁。[按需语境将融贯保持在一步](../on-demand-contexts-keep-coherence-at-one-step/)将这一切分扩展至多步流水线：即便冷审校者签发了定稿制品，并在双方工作语境丢弃之前记录其 `sha256` 哈希值以供加密交接，这份经签发的制品与哈希值也依然只是供下一步重新追溯的可读残余，从不是自行授权的检验。任何同侪回路、校验层或加密签发，都无法把有限投射变成那个掌舵的鲜活心智。到了终点，删掉重试的那处编辑停在差异里，直到有人接受它、拒绝它、搁置它，或者重新提示，只有经由这个抉择，它才产生后果。正如[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)所指出的，无论有多少任务被移交出去，合并的后果始终留在取用它的心智那里。
 
 ```mermaid
 flowchart TD
@@ -54,17 +54,17 @@ flowchart TD
     C_REF["放出的注释与任务外壳<br/>（压缩后的符号性投射）"]
     W_PRI --> C_REF
   end
-  subgraph S_RUN["2. 智能体运行与同侪校验（有限投射引擎）"]
+  subgraph S_RUN["2. 智能体运行与冷同侪签发（有限投射引擎）"]
     direction TB
     A_TRJ["主智能体的重新组合<br/>（签名之内受轨迹约束）"]
     P_CHK["冷启动同侪与途中干预<br/>（暴露过时注释 / 隔离死锁）"]
-    DIFF["交回的差异<br/>（提议，可运行的信号）"]
+    DIFF["交回的差异与签发哈希交接<br/>（定稿残余，可运行的信号）"]
     A_TRJ --> P_CHK
     P_CHK --> DIFF
   end
   subgraph S_END["3. 主权持有与不可让渡的后果"]
     direction TB
-    H_SIG["作为信号持有：对照 API 检验并执行"]
+    H_SIG["作为信号持有：重新追溯、对照 API 检验并执行"]
     H_AUT["作为权威持有：顶替检验"]
     CONS["不可让渡的后果落在做决定的心智上"]
     H_SIG --> CONS
@@ -86,7 +86,7 @@ flowchart TD
   style CONS fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Human choice enters the agent's chain at its start, through the data, the prompt, and the harness, and again at each intervention along the run: approving or declining a tool call, interrupting, steering with a sentence about the vendor's fix, adding the changelog to the context, taking up one of three suggested patches. Each intervention resets the preconditions for everything downstream of it. As [Beyond the Projection](../beyond-the-projection/) traces, an agent is a finite projection engine bound by its token trajectory and devoid of ego; pairing a primary coding agent with a cold peer holding only the task context exposes where the primary run leaned blindly on a stale comment, and isolates any contradiction between the prose note and the executable contract into a localized deadlock. Yet no peer loop or verification layer can turn a finite projection into the living Mind that steers. At the end, the edit that removes the retry sits in a diff until a human accepts it, rejects it, ignores it, or reprompts, and only through that choice does it become consequential. The consequence of the merge stays with the Mind that took it up, however much of the task was handed off, as [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) holds.
+Human choice enters the agent's chain at its start, through the data, the prompt, and the harness, and again at each intervention along the run: approving or declining a tool call, interrupting, steering with a sentence about the vendor's fix, adding the changelog to the context, taking up one of three suggested patches. Each intervention resets the preconditions for everything downstream of it. As [Beyond the Projection](../beyond-the-projection/) traces, an agent is a finite projection engine bound by its token trajectory and devoid of ego; pairing a primary coding agent with a cold peer holding only the task context exposes where the primary run leaned blindly on a stale comment, and isolates any contradiction between the prose note and the executable contract into a localized deadlock. [On-Demand Contexts Keep Coherence at One Step](../on-demand-contexts-keep-coherence-at-one-step/) scales that cut across a multi-step pipeline: even when a cold critic signs off on a finished artifact and records its `sha256` for cryptographic handoff before both working contexts drop, the signed artifact and hash remain legible residue for the next step to re-trace, never a self-authorizing check. No peer loop, verification layer, or cryptographic sign-off can turn a finite projection into the living Mind that steers. At the end, the edit that removes the retry sits in a diff until a human accepts it, rejects it, ignores it, or reprompts, and only through that choice does it become consequential. The consequence of the merge stays with the Mind that took it up, however much of the task was handed off, as [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) holds.
 
 ```mermaid
 flowchart TD
@@ -96,17 +96,17 @@ flowchart TD
     C_REF["Released Comment & Task Harness<br/>(Compressed Symbolic Projection)"]
     W_PRI --> C_REF
   end
-  subgraph S_RUN["2. Agent Run & Peer Check (Finite Projection Engine)"]
+  subgraph S_RUN["2. Agent Run & Cold-Peer Sign-Off (Finite Projection Engine)"]
     direction TB
     A_TRJ["Primary Agent Recombination<br/>(Trajectory-Bound Within Signature)"]
     P_CHK["Cold Peer & Mid-Run Intervention<br/>(Exposes Stale Comment / Isolates Deadlock)"]
-    DIFF["Returned Diff<br/>(Proposal, Runnable Signal)"]
+    DIFF["Returned Diff & Signed sha256 Handoff<br/>(Finished Residue, Runnable Signal)"]
     A_TRJ --> P_CHK
     P_CHK --> DIFF
   end
   subgraph S_END["3. Sovereign Holding & Inalienable Consequence"]
     direction TB
-    H_SIG["Held as Signal: Checked Against API & Executed"]
+    H_SIG["Held as Signal: Re-Traced, Checked Against API & Executed"]
     H_AUT["Held as Authority: Replaces the Check"]
     CONS["Inalienable Consequence Lands on the Deciding Mind"]
     H_SIG --> CONS
@@ -128,9 +128,9 @@ flowchart TD
   style CONS fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-差异和注释在一点上相同，在另一点上不同。在被取用之前，差异和注释一样，是交给做决定的心智的又一道痕迹；它供人重建的，是签名之内的一个重新组合。和注释不同的是，差异就是代码：它可以运行，而运行它就是检验的一部分。作为信号持有，它为抉择提供信息，在落地之前被运行、阅读、测试。作为权威持有，因为是智能体产出的就接受，它便顶替了检验，把那句注释未经检验的意图换个新名字带了下去。
+差异和注释在一点上相同，在另一点上不同。在被取用之前，差异和注释一样，是交给做决定的心智的又一道痕迹；它供人重建的，是签名之内的一个重新组合。和注释不同的是，差异就是代码：它可以运行，而运行它就是检验的一部分。作为信号持有，它为抉择提供信息，在落地之前被运行、阅读、测试。作为权威持有，因为是智能体产出的、或是因为流水线同侪签发了它的哈希值就接受，它便顶替了检验，把那句注释未经检验的意图换个新名字带了下去。
 
-The diff and the comment are alike in one respect and differ in another. Until taken up, the diff is one more trace for the deciding Mind, as the comment is; what it offers to rebuild is a recombination within the signature. Unlike the comment, the diff is code: it can be run, and running it is part of the check. Held as signal, it informs the choice and gets run, read, and tested before it lands. Held as authority, accepted because the agent produced it, it stands in for the check and carries the note's unchecked intent forward under a newer name.
+The diff and the comment are alike in one respect and differ in another. Until taken up, the diff is one more trace for the deciding Mind, as the comment is; what it offers to rebuild is a recombination within the signature. Unlike the comment, the diff is code: it can be run, and running it is part of the check. Held as signal, it informs the choice and gets run, read, and tested before it lands. Held as authority, accepted because the agent produced it or because a pipeline peer signed off its hash, it stands in for the check and carries the note's unchecked intent forward under a newer name.
 
 ## 四、 信号为检验提供信息，权威则顶替检验 / 4. Signal Informs the Check, Authority Replaces It
 

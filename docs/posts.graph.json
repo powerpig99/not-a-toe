@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T17:30:35.788Z",
+    "generated_at": "2026-10-21T18:48:56.619Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -27,7 +27,7 @@
       "content/posts/an-observation-by-its-own-standard.md": "1d44b8371330",
       "content/posts/better-than-free-after-the-checklist-closes.md": "d39b1b10df08",
       "content/posts/beyond-the-hundred-trillion-horizon.md": "9258f29df286",
-      "content/posts/beyond-the-projection.md": "77fe2468ff0d",
+      "content/posts/beyond-the-projection.md": "8aa49cc778c2",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "e09e90b435e6",
       "content/posts/causality-all-the-way.md": "1b0d5716f61a",
       "content/posts/causality-and-the-irreducible-prior.md": "b7567896ebac",
@@ -222,14 +222,14 @@
       "content/posts/the-closed-n-and-the-open-reality.md": "69b0afc8a6d7",
       "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "f1a9b1e12ab7",
       "content/posts/the-collapsed-debate.md": "f43a0321747b",
-      "content/posts/the-comment-is-not-the-code.md": "b81fc5a01b5a",
+      "content/posts/the-comment-is-not-the-code.md": "8b4827e5d742",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "9e53487d8960",
       "content/posts/the-continuum-is-a-modeling-convenience.md": "3c2e3fff1d21",
       "content/posts/the-continuum-of-the-fold.md": "bc2ed3454dd0",
       "content/posts/the-coordinators-category-error.md": "849cdeef9512",
       "content/posts/the-cut-moves-but-never-vanishes.md": "e61a8aa0715d",
       "content/posts/the-defining-seat.md": "439193457772",
-      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "611d8684bdd6",
+      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "abbc6e9528c4",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "787b77d025c1",
       "content/posts/the-deterministic-machine.md": "fbf2680f40d1",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "0dc8080b8644",
@@ -381,7 +381,7 @@
       "content/posts/two-failures-of-trace.md": "df2bfb498afc",
       "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "1a6b64a4d111",
       "content/posts/war-revolution-and-the-fall-of-empires.md": "e34d11fdc25d",
-      "content/posts/what-always-listens-cannot-originate.md": "74d4cf0a4058",
+      "content/posts/what-always-listens-cannot-originate.md": "db0fa8ce809c",
       "content/posts/what-cannot-be-kept.md": "230c81faa1f9",
       "content/posts/what-hinton-failed-to-understand.md": "bf5b94815318",
       "content/posts/what-information-is.md": "db25cf6703e1",
@@ -401,7 +401,7 @@
       "content/posts/you-cant-benchmark-the-fluid.md": "1bebd37668bc",
       "content/posts/you-tiao-jian-de-zi-you.md": "951537534f9e",
       "content/posts/you-wu-zhi-bian.md": "de3cca5f81ee",
-      "content/posts/your-codebase-is-memory.md": "26228ae3c962",
+      "content/posts/your-codebase-is-memory.md": "3c419bcfbe42",
       "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "59220f9cdf84",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "f1f3cd0266ec",
       "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "f23cfe1f4ca3",
@@ -427,10 +427,10 @@
     },
     "stats": {
       "posts": 400,
-      "edges": 11000,
-      "unique_directed": 5396,
+      "edges": 11010,
+      "unique_directed": 5401,
       "missing_targets": 0,
-      "one_way": 828,
+      "one_way": 823,
       "isolated": 0,
       "posts_with_outbound": 400,
       "book_pages": 16,
@@ -1076,9 +1076,9 @@
       "slug": "beyond-the-projection",
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
-      "hash": "77fe2468ff0d",
+      "hash": "8aa49cc778c2",
       "in_degree": 196,
-      "out_degree": 16,
+      "out_degree": 17,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "ontos-is-a-method-agent",
@@ -1087,6 +1087,7 @@
         "dimensions-are-projections",
         "the-mind-as-vector-and-coordinate-system",
         "your-codebase-is-memory",
+        "on-demand-contexts-keep-coherence-at-one-step",
         "a-living-external-cortex",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
@@ -4088,7 +4089,7 @@
       "path": "content/posts/on-demand-contexts-keep-coherence-at-one-step.md",
       "title": "按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step",
       "hash": "84245e24b0d3",
-      "in_degree": 0,
+      "in_degree": 5,
       "out_degree": 5,
       "links_out": [
         "your-codebase-is-memory",
@@ -6319,9 +6320,9 @@
       "slug": "the-comment-is-not-the-code",
       "path": "content/posts/the-comment-is-not-the-code.md",
       "title": "注释不是代码 / The Comment Is Not the Code",
-      "hash": "b81fc5a01b5a",
+      "hash": "8b4827e5d742",
       "in_degree": 3,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "your-codebase-is-memory",
         "trusting-the-reader-is-the-last-overstep",
@@ -6330,6 +6331,7 @@
         "the-residue-and-the-free-variable",
         "individual-choices-as-the-only-causal-levers",
         "beyond-the-projection",
+        "on-demand-contexts-keep-coherence-at-one-step",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences"
       ]
     },
@@ -6472,9 +6474,9 @@
       "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences",
-      "hash": "611d8684bdd6",
+      "hash": "abbc6e9528c4",
       "in_degree": 34,
-      "out_degree": 30,
+      "out_degree": 31,
       "links_out": [
         "the-summary-first-reversal-and-the-command-of-yields",
         "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
@@ -6503,6 +6505,7 @@
         "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
         "the-comment-is-not-the-code",
         "your-codebase-is-memory",
+        "on-demand-contexts-keep-coherence-at-one-step",
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
         "the-irreducible-observer",
         "the-receptionist-parable-and-the-causal-inversion-of-absence"
@@ -10128,9 +10131,9 @@
       "slug": "what-always-listens-cannot-originate",
       "path": "content/posts/what-always-listens-cannot-originate.md",
       "title": "总在倾听者无法发起 / What Always Listens Cannot Originate",
-      "hash": "74d4cf0a4058",
+      "hash": "db0fa8ce809c",
       "in_degree": 28,
-      "out_degree": 29,
+      "out_degree": 30,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "two-failures-of-trace",
@@ -10158,6 +10161,7 @@
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
         "the-ramble-within-the-ramble",
         "the-misallocation-of-agency",
+        "on-demand-contexts-keep-coherence-at-one-step",
         "symptom-and-cause-in-the-narratives-of-progress",
         "residual-individualism",
         "causality-stays-at-the-edge-that-steers"
@@ -10633,9 +10637,9 @@
       "slug": "your-codebase-is-memory",
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
-      "hash": "26228ae3c962",
+      "hash": "3c419bcfbe42",
       "in_degree": 398,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-model-never-becomes-a-second-edge",
@@ -10643,6 +10647,7 @@
         "the-living-context",
         "a-living-external-cortex",
         "beyond-the-projection",
+        "on-demand-contexts-keep-coherence-at-one-step",
         "looping-and-graphing",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
         "judgment-is-not-a-stock"
@@ -13778,6 +13783,18 @@
       "to": "the-returning-signal-and-its-claim",
       "rel": "points_to",
       "label": "The Returning Signal and Its Claim"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "on-demand-contexts-keep-coherence-at-one-step",
+      "rel": "points_to",
+      "label": "按需语境将融贯保持在一步"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "on-demand-contexts-keep-coherence-at-one-step",
+      "rel": "points_to",
+      "label": "On-Demand Contexts Keep Coherence at One Step"
     },
     {
       "from": "beyond-the-projection",
@@ -48503,6 +48520,12 @@
     },
     {
       "from": "the-comment-is-not-the-code",
+      "to": "on-demand-contexts-keep-coherence-at-one-step",
+      "rel": "points_to",
+      "label": "按需语境将融贯保持在一步"
+    },
+    {
+      "from": "the-comment-is-not-the-code",
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
       "label": "任务的移交与后果的不可让渡"
@@ -48512,6 +48535,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-comment-is-not-the-code",
+      "to": "on-demand-contexts-keep-coherence-at-one-step",
+      "rel": "points_to",
+      "label": "On-Demand Contexts Keep Coherence at One Step"
     },
     {
       "from": "the-comment-is-not-the-code",
@@ -49607,6 +49636,12 @@
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "on-demand-contexts-keep-coherence-at-one-step",
+      "rel": "points_to",
+      "label": "按需语境将融贯保持在一步"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "rel": "points_to",
       "label": "从AGI的“神性错置”到使用者的自我对齐"
@@ -49622,6 +49657,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "on-demand-contexts-keep-coherence-at-one-step",
+      "rel": "points_to",
+      "label": "On-Demand Contexts Keep Coherence at One Step"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -72799,7 +72840,7 @@
       "from": "what-always-listens-cannot-originate",
       "to": "ai-as-augmentation",
       "rel": "points_to",
-      "label": "AI as Augmentation: Dissolving the \"Replacement\" Frame"
+      "label": "AI as Augmentation"
     },
     {
       "from": "what-always-listens-cannot-originate",
@@ -72821,6 +72862,12 @@
     },
     {
       "from": "what-always-listens-cannot-originate",
+      "to": "on-demand-contexts-keep-coherence-at-one-step",
+      "rel": "points_to",
+      "label": "按需语境将融贯保持在一步"
+    },
+    {
+      "from": "what-always-listens-cannot-originate",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
       "label": "进步叙事中的症候与原因"
@@ -72836,6 +72883,12 @@
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
       "label": "因果停留在掌舵的边缘"
+    },
+    {
+      "from": "what-always-listens-cannot-originate",
+      "to": "on-demand-contexts-keep-coherence-at-one-step",
+      "rel": "points_to",
+      "label": "On-Demand Contexts Keep Coherence at One Step"
     },
     {
       "from": "what-always-listens-cannot-originate",
@@ -75779,6 +75832,12 @@
     },
     {
       "from": "your-codebase-is-memory",
+      "to": "on-demand-contexts-keep-coherence-at-one-step",
+      "rel": "points_to",
+      "label": "按需语境将融贯保持在一步"
+    },
+    {
+      "from": "your-codebase-is-memory",
       "to": "the-living-context",
       "rel": "points_to",
       "label": "The Living Context"
@@ -75794,6 +75853,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "your-codebase-is-memory",
+      "to": "on-demand-contexts-keep-coherence-at-one-step",
+      "rel": "points_to",
+      "label": "On-Demand Contexts Keep Coherence at One Step"
     },
     {
       "from": "your-codebase-is-memory",
