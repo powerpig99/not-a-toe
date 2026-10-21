@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T07:03:51.083Z",
+    "generated_at": "2026-10-21T07:24:35.578Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -204,7 +204,7 @@
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "b52ca2cdd064",
       "content/posts/the-blind-spot-of-the-frame.md": "800c2e8eaedd",
       "content/posts/the-boundary-crossing-of-choice.md": "795c21ece259",
-      "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "3955e0d6eba0",
+      "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "2f3a0106f008",
       "content/posts/the-boundary-of-the-frame.md": "6e148e2a6922",
       "content/posts/the-brain-does-not-backprop.md": "4f5c7d0c354c",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "faeb12423e13",
@@ -231,7 +231,7 @@
       "content/posts/the-deterministic-machine.md": "7ba9e608ee16",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "0dc8080b8644",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "84960aa9f76c",
-      "content/posts/the-discount-on-agency.md": "7f1324e7bcf7",
+      "content/posts/the-discount-on-agency.md": "754aac28467d",
       "content/posts/the-dissolution-of-the-great-reversal.md": "3ef5fa05ee7f",
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "cf61f9e9c832",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "b4175ca28f51",
@@ -248,9 +248,9 @@
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "dde3f74f7d30",
       "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "bda6d94ef25c",
       "content/posts/the-freedom-of-will-to-deny-itself.md": "a083f19c6708",
-      "content/posts/the-functionalism-no-functionalist-can-hold.md": "dde04cb94bf5",
+      "content/posts/the-functionalism-no-functionalist-can-hold.md": "91420ed7e85a",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "b280bd7da641",
-      "content/posts/the-generative-contradiction.md": "807d28667277",
+      "content/posts/the-generative-contradiction.md": "a5a375e40b33",
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "85b7537a168f",
       "content/posts/the-generative-topology-of-free-variables.md": "baffb2e6acd8",
       "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "15b9e01b6512",
@@ -265,8 +265,8 @@
       "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "cb240a9929c8",
       "content/posts/the-illusion-of-distance-and-the-dual-ruler.md": "d915809609b6",
       "content/posts/the-illusion-of-free-intelligence.md": "0b76898e8f30",
-      "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "86e7c04f71bd",
-      "content/posts/the-illusion-of-the-shared-sandbox.md": "744ed48a679b",
+      "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "0200bfbf3fa5",
+      "content/posts/the-illusion-of-the-shared-sandbox.md": "f20e733d6ceb",
       "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "b7b2393f3606",
       "content/posts/the-illusion-of-the-unmediated.md": "28f4473900a5",
       "content/posts/the-imagining-of-ai-risk.md": "06a93ab32a22",
@@ -278,7 +278,7 @@
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "60f354d84985",
       "content/posts/the-invisible-first-move.md": "24e7e1373e4c",
       "content/posts/the-invisible-gods-eye.md": "a985d9e0b0a3",
-      "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "319c407dd166",
+      "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "056a21f2e1a9",
       "content/posts/the-irreducible-observer.md": "128d5b8534dd",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "247a3d936241",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "ff064e746f65",
@@ -315,7 +315,7 @@
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "431ce25c2506",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "a9f8094d00b3",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "48c1bddc846f",
-      "content/posts/the-perceiver-and-the-trace.md": "78c29d040a22",
+      "content/posts/the-perceiver-and-the-trace.md": "12ca1c236bca",
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "d85a0ec01465",
       "content/posts/the-power-law-of-surrendered-agency.md": "390d27c147c5",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "8c22e4938a6e",
@@ -343,7 +343,7 @@
       "content/posts/the-self-portrait-in-the-projection.md": "0e75cd1a6cf2",
       "content/posts/the-shadow-and-the-infinite.md": "f857f118c0ae",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "9dc84d6394f6",
-      "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "8ac27b54bcdc",
+      "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "1dbcf1da600a",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "c2d1d681f444",
       "content/posts/the-source-of-all-harm.md": "20891d9d52cf",
       "content/posts/the-source-of-shared-change.md": "6b3787d81f18",
@@ -351,14 +351,14 @@
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
       "content/posts/the-strongest-belief-of-the-mind.md": "ee7cbb6eb4a6",
       "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "aafc55f7b4d1",
-      "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "6ea537e91041",
+      "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "c663c4a8107a",
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
       "content/posts/the-three-shadows-of-the-cut.md": "dddbde671cad",
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
       "content/posts/the-twin-paradox-and-the-hidden-observer.md": "ff11efe3625a",
       "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "065bbf648c6e",
       "content/posts/the-unclosable-trace.md": "f4ad7fa5724b",
-      "content/posts/the-unexamined-critic.md": "1cda1a733555",
+      "content/posts/the-unexamined-critic.md": "275248d10d31",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "96d67d29d78d",
       "content/posts/the-unobservable-driver-of-learning.md": "16338781295d",
       "content/posts/the-utility-men-of-progress.md": "74816f95d229",
@@ -373,7 +373,7 @@
       "content/posts/time-is-causality-not-a-dimension.md": "bcd28712180f",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "d6e816ab5ba2",
       "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "3f4bec91103c",
-      "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "6522fd795814",
+      "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "de89125d75c0",
       "content/posts/trusting-the-reader-is-the-last-overstep.md": "1c8ded446ee2",
       "content/posts/two-failures-of-trace.md": "df2bfb498afc",
       "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "1a6b64a4d111",
@@ -424,10 +424,10 @@
     },
     "stats": {
       "posts": 397,
-      "edges": 10244,
-      "unique_directed": 5065,
+      "edges": 10268,
+      "unique_directed": 5077,
       "missing_targets": 0,
-      "one_way": 565,
+      "one_way": 577,
       "isolated": 35,
       "posts_with_outbound": 361,
       "book_pages": 16,
@@ -438,7 +438,7 @@
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 224
+      "in_degree": 236
     },
     {
       "slug": "beyond-the-projection",
@@ -5745,9 +5745,9 @@
       "slug": "the-boundary-of-perception-and-the-infinity-of-understanding",
       "path": "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md",
       "title": "感知的界限与理解的无限 / The Boundary of Perception and the Infinity of Understanding",
-      "hash": "3955e0d6eba0",
+      "hash": "2f3a0106f008",
       "in_degree": 8,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "choice-itself-has-no-inherent-weight",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -5757,7 +5757,8 @@
         "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
         "the-explanatory-trap-of-the-ordinary-perspective",
         "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
-        "abstract-pain-and-living-hunger"
+        "abstract-pain-and-living-hunger",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -6344,15 +6345,16 @@
       "slug": "the-discount-on-agency",
       "path": "content/posts/the-discount-on-agency.md",
       "title": "主体性的折现 / The Discount on Agency",
-      "hash": "7f1324e7bcf7",
+      "hash": "754aac28467d",
       "in_degree": 9,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "having-more-is-never-the-cause",
         "empowerment-establishes-the-centralization-of-power",
         "help-is-half-the-problem",
         "externalized-virtue-becomes-its-opposite",
         "individual-choices-as-the-only-causal-levers",
+        "your-codebase-is-memory",
         "the-self-portrait-in-the-projection",
         "the-digital-god-and-the-horizon-jump",
         "the-unfrictioned-mind-and-borrowed-omnipotence",
@@ -6750,9 +6752,9 @@
       "slug": "the-functionalism-no-functionalist-can-hold",
       "path": "content/posts/the-functionalism-no-functionalist-can-hold.md",
       "title": "功能主义者无法持有的功能主义 / The Functionalism No Functionalist Can Hold",
-      "hash": "dde04cb94bf5",
+      "hash": "91420ed7e85a",
       "in_degree": 12,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "the-freedom-of-will-to-deny-itself",
         "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
@@ -6762,7 +6764,8 @@
         "the-scaffolding-we-forget",
         "the-flight-analogy-leaves-the-mind-untouched",
         "the-presumption-of-agi-and-the-view-from-outside",
-        "the-invisible-observer-and-the-delusion-of-lossless-transmission"
+        "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -6802,14 +6805,15 @@
       "slug": "the-generative-contradiction",
       "path": "content/posts/the-generative-contradiction.md",
       "title": "生成性的矛盾 / The Generative Contradiction",
-      "hash": "807d28667277",
+      "hash": "a5a375e40b33",
       "in_degree": 8,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "hierarchy-from-individual-difference",
         "the-allocation-of-causal-power-in-validation",
         "causality-stays-at-the-edge-that-steers",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
         "ownership-and-self-worthiness",
         "selection-contradiction-and-open-reality",
@@ -7139,9 +7143,9 @@
       "slug": "the-illusion-of-knowing-and-the-geometry-of-amputation",
       "path": "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md",
       "title": "以知为刃的截肢与解脱 / The Illusion of Knowing and the Geometry of Amputation",
-      "hash": "86e7c04f71bd",
+      "hash": "0200bfbf3fa5",
       "in_degree": 8,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "individual-choices-as-the-only-causal-levers",
@@ -7151,7 +7155,8 @@
         "the-mind-as-vector-and-coordinate-system",
         "coordinates-in-flux-negation-and-self-anchoring",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
-        "beyond-the-projection"
+        "beyond-the-projection",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -7160,9 +7165,9 @@
       "slug": "the-illusion-of-the-shared-sandbox",
       "path": "content/posts/the-illusion-of-the-shared-sandbox.md",
       "title": "共享沙盒的幻象 / The Illusion of the Shared Sandbox",
-      "hash": "744ed48a679b",
+      "hash": "f20e733d6ceb",
       "in_degree": 11,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "the-causal-inversion-of-partnership",
         "the-twin-paradox-and-the-hidden-observer",
@@ -7170,6 +7175,7 @@
         "po-chu-gai-nian-de-jian-yue",
         "price-as-utterance-understanding-as-trade",
         "demanding-a-toe-freezes-time-into-a-catalog",
+        "your-codebase-is-memory",
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
         "the-black-and-white-sample-frame-and-the-extrapolated-universe",
         "the-residue-and-the-free-variable"
@@ -7402,9 +7408,9 @@
       "slug": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
       "path": "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md",
       "title": "观察者的隐身与无损传递的妄念 / The Invisible Observer and the Delusion of Lossless Transmission",
-      "hash": "319c407dd166",
+      "hash": "056a21f2e1a9",
       "in_degree": 10,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "the-free-variable-and-the-retrospective-illusion-of-power",
         "the-irreducible-observer",
@@ -7414,7 +7420,8 @@
         "the-grammar-of-finding-and-the-fading-observer",
         "no-outside-scorekeeper",
         "the-inversion-of-reading-and-the-order-of-inference",
-        "trusting-the-reader-is-the-last-overstep"
+        "trusting-the-reader-is-the-last-overstep",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -8229,13 +8236,14 @@
       "slug": "the-perceiver-and-the-trace",
       "path": "content/posts/the-perceiver-and-the-trace.md",
       "title": "感知者与痕迹的不可坍缩 / The Perceiver and the Trace Cannot Collapse",
-      "hash": "78c29d040a22",
+      "hash": "12ca1c236bca",
       "in_degree": 7,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "consciousness-never-appears-as-data-among-data",
         "subtracting-consciousness-at-the-source",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "causality-stays-at-the-edge-that-steers",
         "the-mind-that-statistics-cannot-reveal",
         "the-returning-signal-and-its-claim",
@@ -8994,12 +9002,13 @@
       "slug": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "path": "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md",
       "title": "意识的魔术戏法与推断的非对称性 / The Sleight of Hand of Consciousness and the Asymmetry of Inference",
-      "hash": "8ac27b54bcdc",
+      "hash": "1dbcf1da600a",
       "in_degree": 10,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "abstract-pain-and-living-hunger",
         "subtracting-consciousness-at-the-source",
+        "your-codebase-is-memory",
         "silicon-oracles-and-the-asymmetry-of-consequence",
         "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
         "the-irreducible-observer",
@@ -9187,9 +9196,9 @@
       "slug": "the-summary-first-reversal-and-the-command-of-yields",
       "path": "content/posts/the-summary-first-reversal-and-the-command-of-yields.md",
       "title": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相 / Macro Parameters, Micro Choices, and the Command of Yields",
-      "hash": "6ea537e91041",
+      "hash": "c663c4a8107a",
       "in_degree": 12,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "the-causal-inversion-of-partnership",
         "choice-itself-has-no-inherent-weight",
@@ -9197,6 +9206,7 @@
         "the-name-revolution-files-a-life-as-evidence",
         "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-mind-as-vector-and-coordinate-system",
         "the-balcony-disciplinary-overstep-and-the-unproxyable-act"
@@ -9340,9 +9350,9 @@
       "slug": "the-unexamined-critic",
       "path": "content/posts/the-unexamined-critic.md",
       "title": "未经自我审视的批判者 / The Unexamined Critic",
-      "hash": "1cda1a733555",
+      "hash": "275248d10d31",
       "in_degree": 3,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "po-chu-gai-nian-de-jian-yue",
         "the-inversion-of-reading-and-the-order-of-inference",
@@ -9352,7 +9362,8 @@
         "the-invisible-gods-eye",
         "the-walking-tangent-and-the-stumbling-sphere",
         "the-mind-as-vector-and-coordinate-system",
-        "the-closed-n-and-the-open-reality"
+        "the-closed-n-and-the-open-reality",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -9631,9 +9642,9 @@
       "slug": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
       "path": "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md",
       "title": "投资决策的因果闭环 / The Causal Loop of Investment Decisions",
-      "hash": "6522fd795814",
+      "hash": "de89125d75c0",
       "in_degree": 9,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "no-system-can-be-kept-closed",
         "individual-choices-as-the-only-causal-levers",
@@ -9643,6 +9654,7 @@
         "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
         "the-unobservable-driver-of-learning",
         "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+        "your-codebase-is-memory",
         "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian"
       ]
     },
@@ -10267,7 +10279,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 224,
+      "in_degree": 236,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -43632,6 +43644,18 @@
       "label": "Abstract Pain and Living Hunger"
     },
     {
+      "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
       "from": "the-boundary-of-the-frame",
       "to": "what-information-is",
       "rel": "points_to",
@@ -46987,9 +47011,21 @@
     },
     {
       "from": "the-discount-on-agency",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-discount-on-agency",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-discount-on-agency",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-discount-on-agency",
@@ -49459,6 +49495,12 @@
     },
     {
       "from": "the-functionalism-no-functionalist-can-hold",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-functionalism-no-functionalist-can-hold",
       "to": "the-presumption-of-agi-and-the-view-from-outside",
       "rel": "points_to",
       "label": "The Presumption of AGI and the View from Outside"
@@ -49468,6 +49510,12 @@
       "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
       "rel": "points_to",
       "label": "The Invisible Observer and the Delusion of Lossless Transmission"
+    },
+    {
+      "from": "the-functionalism-no-functionalist-can-hold",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-generative-atlas-of-macroscopic-phenomena",
@@ -49747,6 +49795,12 @@
     },
     {
       "from": "the-generative-contradiction",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-generative-contradiction",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
       "label": "Causality stays at the edge that steers"
@@ -49756,6 +49810,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-generative-contradiction",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-generative-contradiction",
@@ -51721,9 +51781,21 @@
     },
     {
       "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
@@ -51805,9 +51877,21 @@
     },
     {
       "from": "the-illusion-of-the-shared-sandbox",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-illusion-of-the-shared-sandbox",
       "to": "demanding-a-toe-freezes-time-into-a-catalog",
       "rel": "points_to",
       "label": "Demanding a Theory of Everything Freezes Time into a Catalog"
+    },
+    {
+      "from": "the-illusion-of-the-shared-sandbox",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-illusion-of-the-shared-sandbox",
@@ -53079,7 +53163,7 @@
       "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
       "to": "the-free-variable-and-the-retrospective-illusion-of-power",
       "rel": "points_to",
-      "label": "the invisible free variable and the retrospective illusion of power"
+      "label": "The Invisible Free Variable and the Retrospective Illusion of Power"
     },
     {
       "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
@@ -53103,7 +53187,7 @@
       "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
       "to": "the-functionalism-no-functionalist-can-hold",
       "rel": "points_to",
-      "label": "the functionalism no functionalist can hold"
+      "label": "The Functionalism No Functionalist Can Hold"
     },
     {
       "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
@@ -53133,7 +53217,7 @@
       "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
       "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "rel": "points_to",
-      "label": "the two-sided nature of sovereign choice and the objectification of observation"
+      "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
     },
     {
       "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
@@ -53167,15 +53251,27 @@
     },
     {
       "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
       "to": "the-inversion-of-reading-and-the-order-of-inference",
       "rel": "points_to",
-      "label": "the inversion of reading and the order of inference"
+      "label": "The Inversion of Reading and the Order of Inference"
     },
     {
       "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
       "to": "trusting-the-reader-is-the-last-overstep",
       "rel": "points_to",
       "label": "Trusting the Reader Is the Last Overstep"
+    },
+    {
+      "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-irreducible-observer",
@@ -57793,6 +57889,12 @@
     },
     {
       "from": "the-perceiver-and-the-trace",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-perceiver-and-the-trace",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
       "label": "因果停留在掌舵的边缘"
@@ -57808,6 +57910,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-perceiver-and-the-trace",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-perceiver-and-the-trace",
@@ -63061,9 +63169,21 @@
     },
     {
       "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "to": "subtracting-consciousness-at-the-source",
       "rel": "points_to",
       "label": "Collective and Artificial Subjectivity"
+    },
+    {
+      "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
@@ -64345,9 +64465,21 @@
     },
     {
       "from": "the-summary-first-reversal-and-the-command-of-yields",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-summary-first-reversal-and-the-command-of-yields",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-summary-first-reversal-and-the-command-of-yields",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-summary-first-reversal-and-the-command-of-yields",
@@ -65215,6 +65347,12 @@
     },
     {
       "from": "the-unexamined-critic",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-unexamined-critic",
       "to": "the-mind-as-vector-and-coordinate-system",
       "rel": "points_to",
       "label": "The Mind as Vector and Coordinate System"
@@ -65224,6 +65362,12 @@
       "to": "the-closed-n-and-the-open-reality",
       "rel": "points_to",
       "label": "The Closed N and the Open Reality"
+    },
+    {
+      "from": "the-unexamined-critic",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
@@ -67021,9 +67165,21 @@
     },
     {
       "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
       "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
       "rel": "points_to",
       "label": "Misplaced Causality and the Mind's Compiler"
+    },
+    {
+      "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",

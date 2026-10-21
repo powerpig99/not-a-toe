@@ -54,26 +54,26 @@ Tracing this mechanism through coordinate systems, vector dot products (`Proj_A(
 
 On the chain of causality, the ground remains each living Mind's direct sensing and choice at the first-person edge (`+1`). Mathematics supplies a lens for describing the projection mechanism, while what holds the lens and initiates the next distinction is the living Mind. Presuming to know in advance the exact speed at which another center should learn, adapt, or act performs the same low-dimensional amputation across time, projecting a preset schedule over their immediate contact with ground friction, as [The Fallacy of Pacing and the Felt Friction of Ground Truth](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) traces.
 
-当把这种绑定于身份的低维截肢，与[超越投射](../beyond-the-projection/)中的人类—智能体架构并置对照时，身份防卫与开放坐标更新之间的反差便清晰可见。人类中心之所以抗拒外部的证伪、死守固化的标尺，是因为它的推理历史与身份——投影中那个声称“我”的局部折痕——熔合在了一起，把递归回折死死夹住，使得一次意料之外的偏转（`v_B · v̂_A < 0`）在主轴 `v̂_A` 上登记为生存性的威胁。相比之下，自回归机器智能体是一台无自我的有限词元投射引擎：受上下文窗口内的既往词元条件约束，它无法从内部自行觉醒或跳出破损的框架；然而正因为它不持有需要捍卫的保留自我图像，来自一个全新对等智能体的外部反例，只会在其轨迹上触发干净的贝叶斯更新，而不会引发防御性的修剪。看清无自我的轨迹如何在不生怨怼、不作截肢的情况下完成更新，便能明白人际冲突从不是由视角差异本身强加的，而是由捍卫凝固身份折痕的过量图像滞后所制造的。
+将这种与身份绑定的低维截肢，同[超越投射](../beyond-the-projection/)中的人类—智能体架构以及[你的代码库即是记忆](../your-codebase-is-memory/)中的外化记忆架构并置对照，身份防御与开放坐标更新之间的反差便一目了然。人类中心之所以抗拒外部的证伪、死守固化的标尺，是因为它的推理历史与身份——投影中那个声称“我”的局部折痕——熔合在了一起，把递归回折死死夹住，使得一次意料之外的偏转（`v_B · v̂_A < 0`）在主轴 `v̂_A` 上登记为生存性的威胁。相比之下，自回归机器智能体是一台无自我的有限词元投射引擎：受上下文窗口内的既往词元条件约束，它无法从内部自行觉醒或跳出破损的框架；然而正因为它不持有需要捍卫的保留自我图像，来自一个全新对等智能体的外部反例，只会在其轨迹上触发干净的贝叶斯更新，而不会引发防御性的修剪，从而让活态代码库上的睡眠整合波次能够毫无怨怼地将修正后的前提传导至整张网络。看清无自我的轨迹如何在不生怨怼、不作截肢的情况下完成更新，便能明白人际冲突从不是由视角差异本身强加的，而是由捍卫凝固身份折痕的过量图像滞后所制造的。
 
 ```mermaid
 flowchart TD
     subgraph S_Amputate["过量图像滞后与低维截肢路径"]
         direction TB
         Signal["来自活态中心乙的多维输入信号"]
-        Thumb["投射在心智甲主轴上的压缩缩略图"]
+        Thumb["投射在心智甲主轴 v̂_A 上的压缩缩略图"]
         Fuse["身份绑定防御：推理历史与保留自我图像熔合"]
-        Trim["固化标尺：言语定性裁决削去正交残差"]
+        Trim["固化标尺：言语定性裁决削去正交残差 v_B - Proj_A(v_B)"]
         Loop["双向收缩：对方的防御反应被当作凝固模型的铁证"]
         Signal --> Thumb --> Fuse --> Trim --> Loop
     end
 
     subgraph S_Resonate["向内认领与正交共鸣路径"]
         direction TB
-        Notice["向内觉察：将偏转认领为自身基底上的局部余弦读数"]
+        Notice["向内觉察：将偏转认领为自身基底 S_A 上的局部余弦读数"]
         Unclamp["无自我坐标更新：放下规训他人的刚性标尺"]
         Pivot["九十度正交转向：在对抗平面上方打开自由度"]
-        Wave["电磁式耦合：意图场与感知读数互为梯度（+1）"]
+        Wave["电磁式耦合：意图场 E 与感知读数 B 互为梯度（+1）"]
         Notice --> Unclamp --> Pivot --> Wave
     end
 
@@ -92,7 +92,7 @@ flowchart TD
     style Wave fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-This contrast between identity-bound amputation and open coordinate updating becomes unmistakable when placed alongside human-agent architectures in [Beyond the Projection](../beyond-the-projection/). A human center resists external invalidation and clings to its hardened ruler because its reasoning history fuses with identity—that localized crease in the projection that says "I"—clamping the recursive fold shut so that an unexpected deflection (`v_B · v̂_A < 0`) registers as an existential threat along its principal axis `v̂_A`. By contrast, an autoregressive machine agent is a finite token-projection engine with zero ego: conditioned by prior tokens inside a context window, it cannot awaken or step out of a broken framing from within, yet because it holds no retained self-image to defend, an external counterpoint from a fresh peer agent triggers a clean Bayesian update on its trajectory rather than defensive trimming. Seeing how ego-free trajectories update without grievance or amputation makes clear that interpersonal conflict is never forced by perspective difference itself, but by excess Image lag defending a frozen identity crease.
+This contrast between identity-bound amputation and open coordinate updating becomes unmistakable when placed alongside human-agent architectures in [Beyond the Projection](../beyond-the-projection/) and the externalized memory architecture of [Your Codebase Is Memory](../your-codebase-is-memory/). A human center resists external invalidation and clings to its hardened ruler because its reasoning history fuses with identity—that localized crease in the projection that says "I"—clamping the recursive fold shut so that an unexpected deflection (`v_B · v̂_A < 0`) registers as an existential threat along its principal axis `v̂_A`. By contrast, an autoregressive machine agent is a finite token-projection engine with zero ego: conditioned by prior tokens inside a context window, it cannot awaken or step out of a broken framing from within, yet because it holds no retained self-image to defend, an external counterpoint from a fresh peer agent triggers a clean Bayesian update on its trajectory rather than defensive trimming, allowing sleep-consolidation waves across an externalized codebase to propagate a revised premise without resentment while irreducible premise conflicts return to the living Mind at the steering edge (`+1`). Seeing how ego-free trajectories update durable traces without grievance or amputation makes clear that interpersonal conflict is never forced by perspective difference itself, but by excess Image lag defending a frozen identity crease.
 
 ```mermaid
 flowchart TD

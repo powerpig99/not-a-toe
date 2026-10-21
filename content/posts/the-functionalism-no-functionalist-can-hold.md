@@ -8,11 +8,11 @@ Functionalism defines mental states exclusively by their causal roles, the syste
 
 ## 一、 认真持有需要一个主体 / 1. Serious Holding Requires a Subject
 
-认真的认可，不是一种学说能够独自拥有的属性。它是一种认知立场，只有当某个主体例示相关角色时才存在：在不同选项之间作出辨别，持续回应反驳，并把这一观点当作约束后续判断的东西。一套学说并不认真持有它自身，正如一张地图并不阅读它自身。功能主义提供评估任何此类立场所依据的判据。当这些判据被应用于声称认真对待该理论的主体时，它们按自身的尺度，把这份认可本身归为不认真：它们把持有描述为一种角色模式，而遗漏了划出并权衡这一模式的那个动作。一旦认真被还原为一组输入输出关系，可由任何足够复杂的组织结构实现，这一说明便计入模式，而不再计入划出模式的持有者。
+认真的认可，不是一种学说能够独自拥有的属性。它是一种认知立场，只有当某个主体例示相关角色时才存在：在不同选项之间作出辨别，持续回应反驳，并把这一观点当作约束后续判断的东西。一套学说并不认真持有它自身，正如一张地图并不阅读它自身。功能主义给出了评估任何此类立场的判据。当这些判据被用于声称认真对待该理论的主体时，它们按自身的尺度，把这份认可本身归为不认真：它们把持有描述为一种角色模式，却漏掉了划出并权衡这一模式的那个动作。一旦“认真”被还原为任何足够复杂的组织结构都能实现的一组输入输出关系，这套说明便只把模式算在内，不再把划出模式的持有者算在内。
 
 Serious endorsement is not a property a doctrine can possess on its own. It is a cognitive stance that exists only when a subject instantiates the relevant roles: discriminating alternatives, remaining responsive to objections, and treating the view as constraining further judgment. A doctrine does not hold itself seriously, any more than a map reads itself. Functionalism supplies the criteria by which any such stance is to be evaluated. Applied to the subject who claims to take the theory seriously, those criteria classify the endorsement itself as non-serious by their own measure: they describe the holding as a role pattern and leave out the act that draws and weighs that pattern. Once seriousness is reduced to a set of input-output relations realizable by any sufficiently complex organization, the account counts the pattern and no longer counts the holder who draws it.
 
-这一失败的次序不可调换。它首先在主体那里登记，因为只有主体才能实现所涉及的角色；理论在被一个主体持有之前，只是一组没有“认真”谓词附着其上的命题。只有在那之后，失败才延伸到学说：学说由此再没有一位信奉者，能在它自身所阐明的条件下持有它。[自由意志的自否自由](../the-freedom-of-will-to-deny-itself/)在意志中追溯同一个次序：否定意志的雄辩，是意志在行使它作出区分的能力；在这里，宣称认真不过是功能角色的那份认真，正在行使它所否认的那同一种不可还原的持有。一套理论，若其认真标准系统地排除对它自身的认真接受，便无法一致地要求对立立场履行一项它已使之无从履行的解释责任。
+这一失败的次序不可调换。它首先在主体那里登记，因为只有主体才能实现所涉及的角色；理论在被一个主体持有之前，只是一组没有“认真”谓词附着其上的命题。只有在那之后，失败才延伸到学说：学说由此再没有一位信奉者，能在它自身所阐明的条件下持有它。[自由意志的自否自由](../the-freedom-of-will-to-deny-itself/)在意志中追溯同一个次序：否定意志的雄辩，是意志在行使它作出区分的能力；在这里，宣称“认真”不过是功能角色的那份认真，正在行使被它自己否认的那种不可还原的持有。一套理论，若其认真标准系统地排除对它自身的认真接受，便无法一致地要求对立立场履行一项它已使之无从履行的解释责任。
 
 ```mermaid
 flowchart TD
@@ -44,17 +44,11 @@ The order of this failure cannot be reversed. It registers first with the subjec
 flowchart TD
     subgraph S_ORDER_EN ["The Order in Which the Failure Propagates"]
         direction TB
-        style S_ORDER_EN fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
         Subject["Holder: a subject weighing options and answering objections"]
         Criteria["Functionalist criteria: seriousness is causal role"]
         Verdict["Verdict: the holder's endorsement is non-serious"]
         Doctrine["Doctrine: left with no subject able to hold it seriously"]
         Burden["Burden demanded of rivals becomes undischargeable"]
-        style Subject fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-        style Criteria fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-        style Verdict fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-        style Doctrine fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-        style Burden fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     end
 
     Subject -->|"applies the criteria to itself"| Criteria
@@ -62,6 +56,13 @@ flowchart TD
     Verdict -->|"lands on the holder first"| Subject
     Subject -->|"then the doctrine is left without a holder"| Doctrine
     Doctrine -->|"then reaches the dialectical posture"| Burden
+
+    style S_ORDER_EN fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style Subject fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Criteria fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Verdict fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Doctrine fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Burden fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
 ## 二、 预先放入的前提 / 2. The Premise Entered in Advance
@@ -105,19 +106,12 @@ Faced with the charge of self-application, a defender can note that the classica
 flowchart TD
     subgraph S_PREMISE_EN ["The Premise Entered in Advance and Its Dilemma"]
         direction TB
-        style S_PREMISE_EN fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
         Assert["Presupposed: functional criteria govern seriousness and evidence"]
         Rank["Ranking: denying functional equivalence called most defensible"]
         Shift["Fading qualia: unchanged report taken to settle experience"]
         Fork["Dilemma: do the criteria apply to the holder"]
         Narrow["Restricted criteria: demands no longer issued on the theory's own grounds"]
         General["General criteria: the holding stance judged non-serious"]
-        style Assert fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-        style Rank fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-        style Shift fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-        style Fork fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
-        style Narrow fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-        style General fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     end
 
     Assert --> Rank
@@ -126,6 +120,14 @@ flowchart TD
     Shift -->|"when entitlement is asked"| Fork
     Fork -->|"no"| Narrow
     Fork -->|"yes"| General
+
+    style S_PREMISE_EN fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
+    style Assert fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Rank fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Shift fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Fork fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style Narrow fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style General fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
 ## 三、 占据观察者以抹去观察者 / 3. Occupying the Observer to Erase the Observer
@@ -167,22 +169,15 @@ The same circularity appears in a sharper form once the reduction of subjectivit
 flowchart TD
     subgraph S_SEAT_EN ["The Seat Occupied and the Seat Erased"]
         direction TB
-        style S_SEAT_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
         Lived["First person: how the state is lived"]
         Observer["The observer performing the reduction"]
         Judge["Distinguishing, judging adequacy, offering explanation"]
-        style Lived fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-        style Observer fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-        style Judge fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     end
 
     subgraph S_DIAGRAM_EN ["Functional Diagram: A Description Without an Observer"]
         direction TB
-        style S_DIAGRAM_EN fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
         Roles["Causal roles among inputs, outputs, internal states"]
         Erased["Declared: what it is like is nothing but role"]
-        style Roles fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-        style Erased fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     end
 
     Lived --> Observer
@@ -190,13 +185,21 @@ flowchart TD
     Judge -->|"drawn from an external standpoint"| Roles
     Roles --> Erased
     Erased -.->|"stating it relies on the erased seat"| Observer
+
+    style S_SEAT_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style Lived fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Observer fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Judge fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style S_DIAGRAM_EN fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style Roles fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Erased fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-这并不是另加的一条关于缺失感受质的抱怨；它是同一个“主体先行”之失败的后果。[不可还原的观察者](../the-irreducible-observer/)追溯构建一套观察者从中退出之理论的心智，如何无法把自身从这次扣除中减去；[意识从不作为数据出现在数据之中](../consciousness-never-appears-as-data-among-data/)追溯登记数据的活动，如何仍比每一个本会捕获它的数据领先一步。功能主义者把这一结构推到极限：他们不是在物理方程中悬置观察者，而是在一套关于观察者的理论中悬置观察者，于是抹除者与被抹除者是同一个。
+这并不是另加的一条关于缺失感受质的抱怨；它是同一个“主体先行”之失败的后果。[不可还原的观察者](../the-irreducible-observer/)追溯过，当心智构建一套抹去观察者的理论时，它如何无法把自己从这次减法中减去；[意识从不作为数据出现在数据之中](../consciousness-never-appears-as-data-among-data/)则追溯了登记数据的活动如何始终比每一个企图捕获它的数据领先一步。功能主义者把这一结构推到极限：他们不是在物理方程中悬置观察者，而是在一套关于观察者的理论中悬置观察者，于是抹除者与被抹除者是同一个。
 
 This is not an added complaint about missing qualia; it is a consequence of the same subject-first failure. [The Irreducible Observer](../the-irreducible-observer/) traces how the mind constructing a theory from which the observer drops out cannot subtract itself from the subtraction; [Consciousness Never Appears as Data Among Data](../consciousness-never-appears-as-data-among-data/) traces how the activity registering data remains one step ahead of every datum that would capture it. Functionalists push this structure to its limit: they do not bracket the observer inside physical equations; they bracket the observer inside a theory of the observer, so that the one who erases and the one erased are the same.
 
-这一依赖削弱了更广泛的论辩姿态。哪些对机器意识的反驳最站得住脚，或哪些解释值得认真考虑：这类评估恰恰发自那个被这套理论还原为可观察角色的第一人称立场。由于发出这些评估仍离不开这一立场，这种拥护便继续依赖它所移除的东西。[辛顿未曾理解的心智](../what-hinton-failed-to-understand/)追溯这种依赖的一个公开案例：意识先被裁剪为控制架构与行动倾向，随后每一条异议都被贬为思维不连贯，而裁剪与贬斥是由屋里唯一的意识执行的。结果不只是功能主义使主观特征得不到说明；而是这套理论只能由这样一个主体提出：这套理论无法一致承认该主体自身的观察角色。这一立场仍可以被表述；但在它为持有任何关于心智的观点所设定的条件下，它无法被持有而不陷入矛盾。
+这一依赖削弱了更广泛的论辩姿态。哪些对机器意识的反驳最站得住脚，或哪些解释值得认真考虑：这类评估恰恰发自那个被这套理论还原为可观察角色的第一人称立场。由于发出这些评估仍离不开这一立场，这种拥护便继续依赖它所移除的东西。[辛顿未曾理解的心智](../what-hinton-failed-to-understand/)追溯这种依赖的一个公开案例：意识先被裁剪为控制架构与行动倾向，随后每一条异议都被贬为思维不连贯，而裁剪与贬斥是由屋里唯一的意识执行的。结果不只是功能主义无法说明主观特征，更在于这套理论若要被提出，提出它的主体所扮演的观察角色，恰恰是这套理论自身无法一致承认的。这一立场仍可以被表述；但在它为持有任何关于心智的观点所设定的条件下，它无法被持有而不陷入矛盾。
 
 That reliance undermines the broader dialectical posture. Assessments of which objections to machine consciousness are most defensible, or of which explanations merit serious consideration, are issued from the very first-person stance the theory has reduced to observable roles. Because the stance remains indispensable for issuing the assessments, the advocacy continues to depend on what it removes. [What Hinton Failed to Understand](../what-hinton-failed-to-understand/) traces one public case of this dependence: consciousness first trimmed to control architecture and action dispositions, every objection then dismissed as incoherent thinking, while the trimming and the dismissing are performed by the only consciousness in the room. The result is not merely that functionalism leaves subjective character unaccounted for; it is that the theory can be advanced only by a subject whose own observational role the theory cannot consistently acknowledge. The position may still be formulated, but it cannot be held, under the conditions it sets for holding any view about the mind, without contradiction.
 
@@ -206,6 +209,6 @@ That reliance undermines the broader dialectical posture. Assessments of which o
 
 The cut does not deny the usefulness of functional role analysis. The same relations among inputs, outputs, and internal states can be built in different materials; described that way, a system can be designed, debugged, and predicted, and the description is scaffolding for that work, as [The Scaffolding We Forget](../the-scaffolding-we-forget/) traces. Within that range, functional description compares precisely what two systems do and guides their construction and repair. [The Flight Analogy Leaves the Mind Untouched](../the-flight-analogy-leaves-the-mind-untouched/) traces how reproducing a local function outside its biological vehicle is a real engineering achievement; the overstep lies in treating that success as evidence that the Mind itself has been reconstituted.
 
-功能主义的前提所处的位置，是功能主义不再普遍的地方：这一前提预设描述者能站在被描述的心智之外，却从不把描述者计入描述之中。描述被观察的系统，并不需要这样一个位置：描述是描述者的工具，从描述者所站的地方画出。当描述被当作“无处之见”，并被扩展到每一个心智，连画出这一描述的那个心智也包括在内时，前提便越过了它的边界。[AGI的预设与来自外部的视角](../the-presumption-of-agi-and-the-view-from-outside/)在工业尺度上追溯这种越界：心智的到来，恰恰由系统被优化去满足的那些指标来确认：一个框架以它自己提供的标准衡量自身的成功。如果心智只是角色模式，复制模式便复制了心智，毫无损失；这一无损传递的承诺，遗漏了登记每一份副本的观察者，正如[观察者的隐身与无损传递的妄念](../the-invisible-observer-and-the-delusion-of-lossless-transmission/)所追溯的。功能主义在这里没有被驳倒；它被定位了。作为观察者手中的工具，它完成它的工作；作为抹去观察者的终极理论，它是一套没有任何功能主义者能够持有的理论。
+功能主义的前提所处的位置，是功能主义不再普遍的地方：这一前提预设描述者能站在被描述的心智之外，却从不把描述者计入描述之中。描述被观察的系统，并不需要这样一个位置：描述是描述者的工具，从描述者所站的地方画出。当描述被当作“无处之见”，并被扩展到每一个心智，连画出这一描述的那个心智也包括在内时，前提便越过了它的边界。[AGI的预设与来自外部的视角](../the-presumption-of-agi-and-the-view-from-outside/)在工业尺度上追溯这种越界：心智的到来，恰恰由系统被优化去满足的那些指标来确认，即一个框架以它自己提供的标准衡量自身的成功。如果心智只是角色模式，复制模式便复制了心智，毫无损失；这一无损传递的承诺，遗漏了登记每一份副本的观察者，正如[观察者的隐身与无损传递的妄念](../the-invisible-observer-and-the-delusion-of-lossless-transmission/)所追溯的。即便整座代码库跨会话充当持久的外化记忆，如[你的代码库即是记忆](../your-codebase-is-memory/)所审视的，其中的文件、测试与依赖图谱也只保存着结构化的痕迹与不变量，而非一个能够自我持有的主体；这套记忆之所以运转，只因为活生生的心智在掌舵边缘醒来，去阅读、核验并重整这一模式。功能主义在这里没有被驳倒；它被定位了。作为观察者手中的工具，它完成它的工作；作为抹去观察者的终极理论，它是一套没有任何功能主义者能够持有的理论。
 
-Where functionalism's premise sits is where functionalism ceases to be universal: the premise presupposes that the describer can stand outside the mind being described, yet never counts the describer within the description. Describing observed systems needs no such seat: the description is a describer's tool, drawn from where the describer stands. The premise crosses its boundary when the description is taken for a view from nowhere and extended to every mind, including the one drawing it. [The Presumption of AGI and the View from Outside](../the-presumption-of-agi-and-the-view-from-outside/) traces this overstep at industrial scale: the arrival of mind confirmed by the very metrics systems are optimized to satisfy, a framework measuring its success by standards it supplies itself. If mind is the role pattern alone, copying the pattern copies the mind with nothing lost; that promise of lossless transmission leaves out the observer who registers each copy, as [The Invisible Observer and the Delusion of Lossless Transmission](../the-invisible-observer-and-the-delusion-of-lossless-transmission/) traces. Functionalism is not refuted here; it is located. As a tool in the observer's hand it does its work; as a final theory that erases the observer, it is one that no functionalist can hold.
+Where functionalism's premise sits is where functionalism ceases to be universal: the premise presupposes that the describer can stand outside the mind being described, yet never counts the describer within the description. Describing observed systems needs no such seat: the description is a describer's tool, drawn from where the describer stands. The premise crosses its boundary when the description is taken for a view from nowhere and extended to every mind, including the one drawing it. [The Presumption of AGI and the View from Outside](../the-presumption-of-agi-and-the-view-from-outside/) traces this overstep at industrial scale: the arrival of mind confirmed by the very metrics systems are optimized to satisfy, a framework measuring its success by standards it supplies itself. If mind is the role pattern alone, copying the pattern copies the mind with nothing lost; that promise of lossless transmission leaves out the observer who registers each copy, as [The Invisible Observer and the Delusion of Lossless Transmission](../the-invisible-observer-and-the-delusion-of-lossless-transmission/) traces. Even when an entire repository operates as durable externalized memory across sessions, as [Your Codebase Is Memory](../your-codebase-is-memory/) examines, the files, tests, and dependency graphs hold only structured traces and invariants rather than a self-holding subject; the memory works only because a living Mind wakes at the steering edge to read, audit, and reconsolidate the pattern. Functionalism is not refuted here; it is located. As a tool in the observer's hand it does its work; as a final theory that erases the observer, it is one that no functionalist can hold.

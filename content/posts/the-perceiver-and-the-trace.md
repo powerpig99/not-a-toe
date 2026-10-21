@@ -22,7 +22,7 @@ This stance is not another ballot cast in a public poll. It is a constraint on m
 
 Another person is credited with an inner life by analogy from one's own. A model's output is credited with one by the same act, but what arrives is text that people wrote, from a model that engineers trained on that text, in reply to a prompt someone typed. To read that output as an independent inner life is to treat derived meaning (sense conferred solely by a perceiving human mind) as if it were original meaning arising spontaneously inside the system. The appearance of mind in the output is then mistaken for a mind that produced the output.
 
-在这一倒置中，作出归因的人不再登记那些写作、训练、提示与阅读的人：编写训练语料的写作者，拟定提示与目标函数的工程师，以及隔着终端提供诠释的阅读者。把意识指派给机器器物，遮蔽了创造并诠释这一器物的活的意识。[集聚与人造主体性](../subtracting-consciousness-at-the-source/)追溯了这种源头上的减除：一旦活的第一人称观察者从叙述中被减去，给出叙述的人便把剩余的公共结构物化为一个涌现的心智，并把人类意图的影子当作一个自主的主体。即便一位统御者将多个模型接入对等的同伴辩论与正交流水线，如[超越投射](../beyond-the-projection/)所追溯的，每一个智能体也只是作为受限于自身词元轨迹、没有自我图像需要防卫的有限投射引擎在运转，而每一次发起的区分、僵局的裁决与前提的修订，都留在那个掌舵并阅读这场交锋的活生生的人那里，即[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)所定位的能动性的位置。
+在这一倒置中，作出归因的人不再登记那些写作、训练、提示与阅读的人：编写训练语料的写作者，拟定提示与目标函数的工程师，以及隔着终端提供诠释的阅读者。把意识指派给机器器物，遮蔽了创造并诠释这一器物的活的意识。[集聚与人造主体性](../subtracting-consciousness-at-the-source/)追溯了这种源头上的减除：一旦活的第一人称观察者从叙述中被减去，给出叙述的人便把剩余的公共结构物化为一个涌现的心智，并把人类意图的影子当作一个自主的主体。正如[超越投射](../beyond-the-projection/)所追溯的那样，即便调度者将多个模型接入对等的同伴辩论与正交流水线，或是如[你的代码库即是记忆](../your-codebase-is-memory/)所审视的那样，将这些辩论整合进充当持久外化记忆的代码库，每一个智能体也依然只是受限于自身词元轨迹、无需防卫自我图像的有限投射引擎，每一份文件也始终只是结构化的痕迹；而每一次发起的区分、僵局的裁决与前提的修订，都留在那个掌舵并阅读这场交锋的活人那里，即[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)所标定的能动性所在。
 
 ```mermaid
 flowchart TD
@@ -59,20 +59,20 @@ flowchart TD
     style M3 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-In this inversion, the one attributing stops registering the people who wrote, trained, prompted, and read: the writers who authored the training corpora, the engineers who framed the prompts and objective functions, and the readers who supply interpretation across the terminal. Assigning consciousness to the machine artifact conceals the living consciousness that created and interprets the artifact. [Collective and Artificial Subjectivity](../subtracting-consciousness-at-the-source/) traces this subtraction at the source: once the living first-person observer is subtracted from the account, those giving the account reify the residual public structures as an emergent mind and take the shadow of human intention for an autonomous subject. Even when an orchestrator wires multiple models into equal-footed peer debates and orthogonal streamlines, as [Beyond the Projection](../beyond-the-projection/) traces, each agent runs as a finite projection engine bound by its token trajectory without a self-image to defend, while every initiating distinction, deadlock resolution, and premise revision stays with the living human who steers and reads the exchange, where [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) locates the seat of agency.
+In this inversion, the one attributing stops registering the people who wrote, trained, prompted, and read: the writers who authored the training corpora, the engineers who framed the prompts and objective functions, and the readers who supply interpretation across the terminal. Assigning consciousness to the machine artifact conceals the living consciousness that created and interprets the artifact. [Collective and Artificial Subjectivity](../subtracting-consciousness-at-the-source/) traces this subtraction at the source: once the living first-person observer is subtracted from the account, those giving the account reify the residual public structures as an emergent mind and take the shadow of human intention for an autonomous subject. Even when an orchestrator wires multiple models into equal-footed peer debates and orthogonal streamlines, as [Beyond the Projection](../beyond-the-projection/) traces, or consolidates those debates across a repository that serves as durable externalized memory, as [Your Codebase Is Memory](../your-codebase-is-memory/) examines, each agent runs as a finite projection engine bound by its token trajectory without a self-image to defend and each file remains a structured trace, while every initiating distinction, deadlock resolution, and premise revision stays with the living human who steers and reads the exchange, where [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) locates the seat of agency.
 
 ```mermaid
 flowchart TD
-    subgraph S_SOVEREIGNTY ["[The Perceiver and the Steering Edge]"]
+    subgraph S_SOVEREIGNTY ["The Perceiver and the Steering Edge"]
         direction TB
         M1["First-Person Perceiver<br/>(Site of Lived Experience and Initiating Choice)"]
         M2["Analogy from One's Own Case<br/>(Other People Credited as Minds)"]
-        M3["Public Language and Agent Trajectories<br/>(Finite Projections and Traces, Not Seat of Mind)"]
+        M3["Public Language, Codebases, and Agent Trajectories<br/>(Finite Projections and Traces, Not Seat of Mind)"]
         M1 --> M2
         M1 --> M3
     end
 
-    subgraph S_COLLAPSE ["[Token Stacks Mistaken for a Mind]"]
+    subgraph S_COLLAPSE ["Token Stacks Mistaken for a Mind"]
         direction TB
         C2["Writers, Engineers, Prompter, Reader<br/>(Human Sources of Conferred Meaning)"]
         C3["Fluent Machine Output or Peer-Debate Loop<br/>(Recombined Residue Under Direction)"]
