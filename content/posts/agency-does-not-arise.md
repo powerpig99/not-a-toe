@@ -60,15 +60,15 @@ The instant the demand for a third-person certificate of subjectivity is dropped
 
 ## 五、 原点处的主体性与委派后果的不可让渡 / 5. Agency at the Origin and the Inalienability of Delegated Consequences
 
-主体性不曾涌现；它是投射出一切形式模型、物理定律与计算造物的不可化约的起点。一旦脱离那个进行区分、赋予价值并认领回响的活生生的中心，科学档案里的数学符号便只是静止的墨迹。物理定律并非从高处统摄现实；它们是心智为了在恒定的摩擦中导航而提炼出的压缩坐标投影。工具、方程与自动化框架不会孕育主体性——它们是主体性为了延伸自身触角而建构的外化痕迹。
+主体性不曾涌现；它是投射出一切形式模型、物理定律与计算造物的不可化约的起点。一旦脱离那个进行区分、赋予价值并认领回响的活生生的中心，科学档案里的数学符号便只是静止的墨迹。物理定律并非从高处统摄现实；它们是心智为了在恒定的摩擦中导航而提炼出的压缩坐标投影。工具、方程与自动化框架不会孕育主体性——正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，哪怕是层叠的模型权重、代码库与专职智能体脚手架，也只是投射留下的残余快照，由活生生的心智凭其先验主体性持续维护与重切，借以延伸心智自身的触角，从不是能从中涌现出第二个发起中心的基底。
 
-Agency does not arise; it is the irreducible starting point from which every formal model, physical law, and computational artifact is projected. Divorced from the living center that distinguishes, assigns value, and claims the return, the mathematical symbols of scientific archives are inert ink traces. Physical laws do not govern reality from above; they are compressed coordinate projections distilled by minds to navigate invariant friction. Tools, equations, and autonomous harnesses do not give birth to agency—they are externalized traces constructed by agency to extend its reach.
+Agency does not arise; it is the irreducible starting point from which every formal model, physical law, and computational artifact is projected. Divorced from the living center that distinguishes, assigns value, and claims the return, the mathematical symbols of scientific archives are inert ink traces. Physical laws do not govern reality from above; they are compressed coordinate projections distilled by minds to navigate invariant friction. Tools, equations, and autonomous harnesses do not give birth to agency—as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, even stacked model weights, codebases, and specialized agent scaffolds are projected residual snapshots maintained and re-cut by the living Mind's prior agency to extend its reach, never a substrate from which a second initiating center emerges.
 
 把主体性当成复杂系统的下游涌现属性，会在人工智能的设计与部署中直接制造混乱。当前行业主流试图通过给自回归模型套上模拟人设、开放式反思回路以及管理代理层级，来人为制造合成主体性。然而正如[超越投射](../beyond-the-projection/)所追溯的，基于 LLM 的智能体是一个严格在上下文窗口边界内运作的有限投射引擎，其中每一个生成的词元都在条件化下一个词元，形成一个零自我、零内部视角的认识论引力井，无从跳出自身的生成轨迹。将主任务代理与一个仅持有任务语境的冷同伴相连，虽能暴露轨迹盲区、将过载的投射拆分为正交的流线，并将前提矛盾隔离为局域死锁，但这套多智能体框架依然只是有限投射的机械调度器，而非持有活生生的多维意向的统筹者。正如[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)与[规程的倒置与因果回路的消声](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/)所确立的，在动态语境约束下，机械任务的执行可以不设预设上限地向外移交，但统筹权与后果永远不可让渡。当企业把营运资金优化这类未充分指定边界的指令委派给自动化代理，或躲在僵化的规程背后时，它是在实施自我客体化——动用自身的主权主体性去假装是算法做出了决定，而法律责任、资金链断裂与切身的物理摩擦则单向度地锁定在发起行动的人类委托人身上。模拟假说在宇宙学尺度上重复了同一种倒置，正如[凡可言说皆不可言说之产物](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/)所揭示的。
 
 ```mermaid
 flowchart TD
-    subgraph S_Origin["作为终极统筹者的活生生的心智（不可化约的先验）"]
+    subgraph S_Origin["活生生的心智作为终极统筹者（不可化约的先验）"]
         direction TB
         O1["第一人称区分边缘（无因、不息）<br/>持有极限分辨率意向并确立损失函数"]
         O2["退后一步并重新指定前提<br/>当下游投射陷入死锁时消解坍缩的坐标轴"]

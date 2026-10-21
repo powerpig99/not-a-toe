@@ -26,13 +26,13 @@ The starting point of micro-physical models is the quantum: quantum mechanics de
 
 ## 二、 比特的从属 / 2. The Subordination of the Bit
 
-可逻辑形式的同构，不等于本体上实体的等价；细看三者与被经验的现实怎样连接，机械的模拟论就站不住了。计算机芯片里的高低电平，从物理的因果看，只是一团按麦克斯韦方程组运动的连续电子流，物质本身并不天然带着“比特”；是一个个具体的第一人称心智，选择在某个电压阈值上画一条人为的界线，把它编译成“0”与“1”。
+可逻辑形式的同构，不等于本体上实体的等价；细看三者与被经验的现实怎样连接，机械的模拟论就站不住了。计算机芯片里的高低电平，从因果上看，只是一团按麦克斯韦方程组运动的连续电子流，物质本身并不天然带着“比特”；是一个个具体的第一人称心智，选择在某个电压阈值上画一条人为的界线，把它编译成“0”与“1”。
 
 Yet isomorphism of logical form is not ontological equivalence; looking closely at how each of the three connects with experienced reality, mechanical simulation theory cannot stand. The high and low voltage levels in a computer chip are, causally, only a continuous flow of electrons moving by Maxwell's equations, and matter does not come with "bits" by itself; it is particular first-person minds that choose to draw an artificial line at a voltage threshold and compile it into "0" and "1".
 
-与量子的跃迁或个人的自由选择相比，比特只是人为了在计算的沙盘里理解与模拟世界而发明的数学符号工具，它的信息精度、自由度与维度，远小于量子效应与个人的自由意志。离开了心智主动的定义、算法的设计与语义的赋予，计算机只是一堆硅晶体与金属导线的物质堆叠，产生不了任何“信息”或“模拟”。数字世界从属于人的心智的划界，是一件被动派生的工具。
+与量子的跃迁或个人的自由选择相比，比特只是人为了在计算的沙盘里理解与模拟世界而发明的数学符号工具，它的信息精度、自由度与维度，远小于量子效应与个人的自由意志。离开了心智主动的定义、算法的设计与语义的赋予，计算机只是一堆硅晶体与金属导线的物质堆叠，产生不了任何“信息”或“模拟”。数字世界从属于心智的划界，是一件被动派生的工具：正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，赋予并重估自由变量的是先验的主权心智，形式系统与外化记忆代码库里的受缚参数始终处在它的下游，只留存先前切分刻下的余留形态，从不会自行发起下一次区分。
 
-Compared with a quantum transition or an individual's free choice, the bit is only a mathematical symbol invented so that people can understand and simulate the world in a computational sandbox, its informational precision, degrees of freedom and dimensionality far smaller than those of quantum effects and individual free will. Without the Mind's active definition, the design of algorithms and the giving of meaning, a computer is only a pile of silicon crystal and metal wire and produces no "information" or "simulation". The digital world is subordinate to the Mind's drawing of boundaries, a passively derived tool.
+Compared with a quantum transition or an individual's free choice, the bit is only a mathematical symbol invented so that people can understand and simulate the world in a computational sandbox, its informational precision, degrees of freedom and dimensionality far smaller than those of quantum effects and individual free will. Without the Mind's active definition, the design of algorithms and the giving of meaning, a computer is only a pile of silicon crystal and metal wire and produces no "information" or "simulation". The digital world is subordinate to the Mind's drawing of boundaries, a passively derived tool: as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, bound parameters in a formal system or externalized codebase of memory remain downstream of the prior sovereign Mind that assigns and re-evaluates the free variables, holding the residual shape of earlier cuts without ever initiating the next distinction on their own.
 
 ## 三、 量子与选择：同一件事的两面 / 3. Quantum and Choice: Two Faces of One Thing
 

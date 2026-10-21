@@ -6,21 +6,19 @@
 
 For a long time, discussion of free will, individual success and failure, and social change has swung between two seemingly irreconcilable extremes: on one side mechanical determinism, which holds that macro statistical laws govern everything and that individual will and choice are a negligible illusion; on the other nihilism, which puts every gap in the world down to elusive luck, randomness or fate. The two positions, opposed on the surface, share one cognitive blind spot: both look for original causes among macro phenomena, taking the projected appearance of statistical aggregation for the source of power that drives the system.
 
-要穿过这层迷雾，要回到讨论任何理论、理解世界时都离不开的两个必要前提：现实运行的逻辑因果，以及第一人称视角下的微观自由选择。
+穿过这层迷雾，就要回到讨论任何理论、理解世界都离不开的两个必要前提：现实运行的逻辑因果，以及第一人称视角下的微观自由选择。
 
 Getting through this fog means returning to the two necessary premises that no discussion of any theory or understanding of the world can leave: the logical causality by which reality runs, and micro free choice from the first-person view.
 
 ## 一、 必要前提：因果与第一人称 / 1. Necessary Premises: Causality and the First Person
 
-探讨任何理论、构建任何模型或想要理解这个世界，都天然地受两个必要前提约束；这两个前提不可或缺，是因为人的一切理性思考与经验反思的展开，都离不开逻辑与第一人称视角本身：
+探讨任何理论、构建任何模型或想要理解这个世界，都天然地受两个必要前提约束；这两个前提不可或缺，是因为人的一切理性思考与经验反思的展开，都离不开逻辑与第一人称视角本身。
 
-Discussing any theory, building any model or trying to understand the world is by nature bound by two necessary premises; they cannot be done without, because all human reasoning and reflection on experience unfolds within logic and the first-person view itself:
+Discussing any theory, building any model or trying to understand the world is by nature bound by two necessary premises; they cannot be done without, because all human reasoning and reflection on experience unfolds within logic and the first-person view itself.
 
-1. 现实遵循严格的因果与逻辑。[因果贯穿始终](../causality-all-the-way/)确立了这个机制：因果不是客体之间神秘的拉扯，而是活着的心智在离散的行动中，对自身历史痕迹单向塑造的确认；在讨论中抽掉逻辑因果，一切建立模型、提炼经验、做出决策与推演规律的行为都失去根基。
-2. 一切认知终究来自第一人称视角。任何理论的提出者或行动主体，在任何时空截面上的观察、判断与抉择，都离不开自己心智系统的内部映射、先验假设与当下的认知边界；[表征的闭环](../the-closed-loop-of-representation/)揭示了这种封闭的经济：不存在脱离主体认知模型的纯客观上帝视角，每一个心智中心只能基于自己的内部表征做出判断。
+其一，现实遵循严格的因果与逻辑。[因果贯穿始终](../causality-all-the-way/)确立了这个机制：因果不是客体之间神秘的拉扯，而是活着的心智在离散的行动中，对自身历史痕迹单向塑造的确认；在讨论中抽掉逻辑因果，一切建立模型、提炼经验、做出决策与推演规律的行为都失去根基。其二，一切认知终究来自第一人称视角。任何理论的提出者或行动主体，在任何时空截面上的观察、判断与抉择，都离不开自己心智系统的内部映射、先验假设与当下的认知边界；[表征的闭环](../the-closed-loop-of-representation/)揭示了这种封闭的经济：不存在脱离主体认知模型的纯客观上帝视角，每一个心智中心只能基于自己的内部表征做出判断。
 
-1. Reality follows strict causality and logic. [Causality All the Way](../causality-all-the-way/) establishes the mechanism: causality is not a mysterious pull between objects but the living Mind's confirmation, in discrete acts, of the one-way shaping of its own historical traces; remove logical causality from the discussion and every act of building models, distilling experience, making decisions and deriving regularities loses its ground.
-2. All understanding comes in the end from the first-person view. Any proposer of a theory or acting subject, at any cross-section of time and space, observes, judges and chooses through the inner mapping, prior assumptions and present cognitive boundary of their own Mind; [The Closed Loop of Representation](../the-closed-loop-of-representation/) reveals this closed economy: there is no purely objective God's-eye view detached from a subject's cognitive model, and each centre of Mind can judge only from its own inner representation.
+First, reality follows strict causality and logic. [Causality All the Way](../causality-all-the-way/) establishes the mechanism: causality is not a mysterious pull between objects but the living Mind's confirmation, in discrete acts, of the one-way shaping of its own historical traces; remove logical causality from the discussion and every act of building models, distilling experience, making decisions and deriving regularities loses its ground. Second, all understanding comes in the end from the first-person view. Any proposer of a theory or acting subject, at any cross-section of time and space, observes, judges and chooses through the inner mapping, prior assumptions and present cognitive boundary of their own Mind; [The Closed Loop of Representation](../the-closed-loop-of-representation/) reveals this closed economy: there is no purely objective God's-eye view detached from a subject's cognitive model, and each centre of Mind can judge only from its own inner representation.
 
 在这两个前提的约束下，在微观决策主体之内，每一次选择都是确定而自洽的因果闭环。统计的权威标签同样背书不了真理，[从形式迷思到逻辑闭环](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)对此有所论述。在严格的第一人称视角下，世界上并不存在真正意义上的“非理性”；外部观察者眼中的“愚蠢”“冲动”或“不可理喻”，只来自外部观察者与内部决策者之间的坐标系错位、评价标准的分歧，以及信息维度的严重截断。
 
@@ -32,11 +30,9 @@ Under these two premises, within the micro deciding subject, each choice is a de
 
 Determinists most often cite this argument: when the behaviour of vast populations is measured statistically at the macro level, individual data often look like Brownian motion or an independent random walk, and from this they declare that so-called individual free will does not exist and all is a throw of the probabilistic dice. The inference makes a logical inversion: it equates "the absence of third-person observational information" with "the absence of first-person causation".
 
-- 第一人称的确定：当一个人有完整的控制权、做出不受外部强行操控的自主选择时，这个决定由其独特的内部估值模型、历史记忆的痕迹与当下的目标函数严格推出；在微观的内部，这个过程有十足的因果必然。
-- 第三人称的最大信息熵：外部观察者永远无法获取这个主体脑海里全部的微观变量、隐性偏好、情绪权重与历史上下文，这个求解过程对外部是一个穿不透的黑盒；外部系统无法建立从“外部环境输入”到“个人行为输出”的机械确定的函数映射，所以在外部的统计观测上，这个自主的决策必然呈现出与纯随机过程，最大信息熵，一致的数学特征。
+从内部看，第一人称的确定性成立：当一个人有完整的控制权、做出不受外部强行操控的自主选择时，这个决定由其独特的内部估值模型、历史记忆的痕迹与当下的目标函数严格推出，因此在微观的内部，这个过程有十足的因果必然。从外部看，第三人称的最大信息熵显现：外部观察者永远无法获取这个主体脑海里全部的微观变量、隐性偏好、情绪权重与历史上下文，这个求解过程对外部是一个穿不透的黑盒；外部系统无法建立从“外部环境输入”到“个人行为输出”的机械确定的函数映射，所以在外部的统计观测上，这个自主的决策必然呈现出与纯随机过程，即最大信息熵，一致的数学特征。
 
-- First-person determinacy: when a person has full control and makes an autonomous choice not forcibly manipulated from outside, the decision follows strictly from their unique inner model of valuation, the traces of historical memory and the present objective function; within the micro interior, the process has full causal necessity.
-- Third-person maximal information entropy: an outside observer can never obtain all the micro variables, hidden preferences, emotional weights and historical context in this subject's head, so the solving process is an impenetrable black box to the outside; no outside system can build a mechanically determinate function from "outside environmental input" to "individual behavioural output", so in outside statistical observation this autonomous decision necessarily shows mathematical features identical to a purely random process, maximal information entropy.
+From the inside, first-person determinacy holds: when a person has full control and makes an autonomous choice not forcibly manipulated from outside, the decision follows strictly from their unique inner model of valuation, the traces of historical memory and the present objective function, so within the micro interior the process has full causal necessity. From the outside, third-person maximal information entropy appears: an outside observer can never obtain all the micro variables, hidden preferences, emotional weights and historical context in this subject's head, making the solving process an impenetrable black box to the outside; because no outside system can build a mechanically determinate function from "outside environmental input" to "individual behavioural output", in outside statistical observation this autonomous decision necessarily shows mathematical features identical to a purely random process, maximal information entropy.
 
 外部表现为随机，正是微观自由意志存在的数学证明。如果一个人的行为在外部可以被公式十足精确地预测，恰恰证明其决策机制已被外部的环境变量焊死，成了没有自主心智的机械齿轮；只有当一个人拥有不可剥夺的微观主权、由自己的内部模型驱动决策时，外部系统才只能以“统计随机”的形式在宏观上度量它。[翻袋球与魔术戏法](../the-bank-shot-and-the-magic-trick/)用台球桌上的库边反弹与魔术戏法揭示了这道断层：外部学者统计成千上万次业余击球、画出正态的钟形曲线时，断言进球纯属随机运气；而真正站在球台前推演反射几何、经过千百小时第一人称训练的球手清楚，高难度的反弹进球，是内在精准的模型与身体刻意练习的确定因果。在外是随机，在内是抉择，[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)说明了这两面怎样属于同一个行动。
 
@@ -57,7 +53,7 @@ flowchart TD
         O2["测得的是统计随机"]
     end
     I1 --> I2
-    I2 ==>|"同一个行动"| O1
+    I2 ==> O1
     O1 --> O2
     style S_In fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Out fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -82,7 +78,7 @@ flowchart TD
         O2["What is measured is statistical randomness"]
     end
     I1 --> I2
-    I2 ==>|"one and the same act"| O1
+    I2 ==> O1
     O1 --> O2
     style S_In fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Out fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -116,9 +112,9 @@ By the limiting properties of the binomial distribution and the central limit th
 
 Real decisions in life and business are not single independent coin tosses but dynamic evolution across rounds. An individual's autocorrelation of decisions is never a standalone computation in a closed vacuum but is sustained through real feedback loops with the outside material world: the actor runs their own inner logic, outputs action into the world, receives reality's causal feedback, and calibrates their inner logic inward by it. Objectifying choice into a "big Ego" is another way of covering micro sovereignty, dissected in [The Rigid Shell of Self-Esteem and Hidden External Attribution](../zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/).
 
-更要紧的是，在多主体交互的场域里，持续自我校准的主体，比如在环境里造出高效工具与机器的行动者，沉淀下来的物质痕迹与制度脚手架，会被那些自纠能力不强的主体直接复用；校准的主体与未校准的主体，借共享的环境痕迹形成互补而稳定的外部回路。随着轮次增加，对称的正态分布被不对称的乘性复利打破，系统在长周期的统计里演变成带着极端长尾的幂律分布。[来自个体差异的层级](../hierarchy-from-individual-difference/)与[封闭的假设把复利挤成 S 曲线](../closed-assumptions-squeeze-compounding-into-s-curves/)推导了这一几何形态，[印迹与行动](../the-mark-and-the-act/)进一步把这个机制延伸到多智能体与物质实在：处在长尾极端的巨大成效与沉淀下来的自动化结构，常被外部的旁观者神话为“涌现的群体智能”或“集体的文明主体”；从底层的因果看，这只是微观的 0/1 决策在外部反馈回路与环境留痕中，借自相关与跨主体的复用，在数学上自然收敛出的几何结果。微观主权不从统计中涌现，[主体性不曾涌现](../agency-does-not-arise/)说明了能动性只能是先验的。
+更要紧的是，在多主体交互的场域里，持续自我校准的主体，比如在环境里造出高效工具、代码库与机器的行动者，沉淀下来的物质痕迹与制度脚手架，会被那些自纠能力不强的主体直接复用；正如[你的代码库即是记忆](../your-codebase-is-memory/)所揭示，外化的代码库与模型只是过往区分层层堆叠的余留痕迹，自身不会继续发起区分，跨轮次的复利依然取决于当下边缘处是否有活着的心智重新描摹并向内校准，而校准与未校准的主体则借共享的环境痕迹结成互补而稳定的外部回路。随着轮次增加，对称的正态分布被不对称的乘性复利打破，系统在长周期的统计里演变成带着极端长尾的幂律分布。[来自个体差异的层级](../hierarchy-from-individual-difference/)与[封闭的假设把复利挤成 S 曲线](../closed-assumptions-squeeze-compounding-into-s-curves/)推导了这一几何形态，[印迹与行动](../the-mark-and-the-act/)进一步把这个机制延伸到多智能体与物质实在：处在长尾极端的巨大成效与沉淀下来的自动化结构，常被外部的旁观者神话为“涌现的群体智能”或“集体的文明主体”；从底层的因果看，这只是微观的 0/1 决策在外部反馈回路与环境留痕中，借自相关与跨主体的复用，在数学上自然收敛出的几何结果。微观主权不从统计中涌现，[主体性不曾涌现](../agency-does-not-arise/)说明了能动性只能是先验的。
 
-More important, in a field of many interacting subjects, the material traces and institutional scaffolding left by subjects who keep calibrating themselves, such as actors who build efficient tools and machines in the environment, are reused directly by subjects with weaker self-correction; calibrating and uncalibrated subjects form a complementary, stable outside loop through shared environmental traces. As rounds accumulate, the symmetric normal distribution is broken by asymmetric multiplicative compounding, and over long statistical periods the system evolves into a power-law distribution with an extreme long tail. [Hierarchy from Individual Difference](../hierarchy-from-individual-difference/) and [Closed Assumptions Squeeze Compounding into S-Curves](../closed-assumptions-squeeze-compounding-into-s-curves/) derive this geometric form, and [The Mark and the Act](../the-mark-and-the-act/) extends the mechanism to multi-agent systems and the material world: the enormous results at the extreme of the long tail and the automated structures left behind are often mythologised by outside onlookers as "emergent swarm intelligence" or "a collective civilisational subject"; seen from the underlying causality, they are only the geometric result to which micro 0/1 decisions naturally converge, mathematically, through autocorrelation and cross-subject reuse in outside feedback loops and environmental traces. Micro sovereignty does not emerge from statistics; [Agency Does Not Arise](../agency-does-not-arise/) shows that agency can only be prior.
+More important, in a field of many interacting subjects, the material traces and institutional scaffolding left by subjects who keep calibrating themselves, such as actors who build efficient tools, codebases and machines in the environment, are reused directly by subjects with weaker self-correction; as [Your Codebase Is Memory](../your-codebase-is-memory/) shows, every externalised codebase or model is a stacked residue of prior distinctions that does not continue distinguishing on its own, so its compounding across rounds still depends on whether a living Mind re-traces and calibrates inward at the present edge, while calibrating and uncalibrated subjects form a complementary, stable outside loop through shared environmental traces. As rounds accumulate, the symmetric normal distribution is broken by asymmetric multiplicative compounding, and over long statistical periods the system evolves into a power-law distribution with an extreme long tail. [Hierarchy from Individual Difference](../hierarchy-from-individual-difference/) and [Closed Assumptions Squeeze Compounding into S-Curves](../closed-assumptions-squeeze-compounding-into-s-curves/) derive this geometric form, and [The Mark and the Act](../the-mark-and-the-act/) extends the mechanism to multi-agent systems and the material world: the enormous results at the extreme of the long tail and the automated structures left behind are often mythologised by outside onlookers as "emergent swarm intelligence" or "a collective civilisational subject"; seen from the underlying causality, they are only the geometric result to which micro 0/1 decisions naturally converge, mathematically, through autocorrelation and cross-subject reuse in outside feedback loops and environmental traces. Micro sovereignty does not emerge from statistics; [Agency Does Not Arise](../agency-does-not-arise/) shows that agency can only be prior.
 
 ## 四、 用阴影解释阴影 / 4. Explaining Shadows by Shadows
 
@@ -132,11 +128,9 @@ In society, many explanations of economic, class and historical phenomena are ca
 
 The world is full of blurred feedback and delayed signals, which is exactly what triggers the mental model to raise the precision of its calibration, not an excuse to stop looking inward.
 
-- 向外归因的退化：把意外与失败归于外部环境、体制阻碍或运气不济，虽然最省力地维护了已有心智模型的封闭自洽，却在数学的机制上主动切断了跨轮次决策正向的自相关；放弃了乘性复利，就重新退化为孤立的随机游走者，最终跌回均值回归的中段。
-- 向内校准的进化：承认既有模型有单比特的溢出，在第一人称的决策循环里，借每一次具体的试错主动拓宽认知的比特位宽，完成系统的升维与重塑。
+在向外归因的退化中，把意外与失败归于外部环境、体制阻碍或运气不济，虽然最省力地维护了已有心智模型的封闭自洽，却在数学的机制上主动切断了跨轮次决策正向的自相关；放弃了乘性复利，就会重新滑回孤立的随机游走者，最终跌回均值回归的中段。反之，向内校准的进化始于承认既有模型有单比特的溢出，并在第一人称的决策循环里，借每一次具体的试错主动拓宽认知的比特位宽，完成系统的升维与重塑。
 
-- The decline of outward attribution: putting surprises and failures down to the outside environment, institutional obstacles or bad luck preserves the existing model's closed consistency with the least effort, yet by the mathematical mechanism actively cuts the positive autocorrelation of decisions across rounds; giving up multiplicative compounding, one slips back into an isolated random walker and in the end falls back into the middle band of regression to the mean.
-- The evolution of inward calibration: admitting that the existing model has a single-bit overflow, and within the first-person loop of decision actively widening the bit-width of understanding through each concrete trial and error, completing a raising of dimension and a reshaping of the system.
+In the decline of outward attribution, putting surprises and failures down to the outside environment, institutional obstacles or bad luck preserves the existing model's closed consistency with the least effort, yet by the mathematical mechanism actively cuts the positive autocorrelation of decisions across rounds; giving up multiplicative compounding, one slips back into an isolated random walker and in the end falls back into the middle band of regression to the mean. Conversely, the evolution of inward calibration begins by admitting that the existing model has a single-bit overflow, and within the first-person loop of decision actively widens the bit-width of understanding through each concrete trial and error, completing a raising of dimension and a reshaping of the system.
 
 [从“目的性”的评判，看认知系统的缺省状态与动态跃迁](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/)与[自我价值感与所有权](../ownership-and-self-worthiness/)守住了这道主权的防线：只有认领全部的解释权与因果责任，个人的认知进化才有真实的支点。
 

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T04:29:57.833Z",
+    "generated_at": "2026-10-21T04:45:02.872Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -16,7 +16,7 @@
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "ab494c775721",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "5cd7cb7519fa",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "ec3480fb850e",
-      "content/posts/agency-does-not-arise.md": "197fc86a6d73",
+      "content/posts/agency-does-not-arise.md": "fc62e5ae5c0e",
       "content/posts/agency-relocated-into-the-formal-model.md": "623e5bff2d49",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "4d7f22ced380",
@@ -140,7 +140,7 @@
       "content/posts/objects-are-stabilized-relationships.md": "54def9af6a16",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "91be9558ed74",
       "content/posts/on-education.md": "acf5a581efd1",
-      "content/posts/one-cannot-escape-ones-own-mind.md": "1f282507aaf4",
+      "content/posts/one-cannot-escape-ones-own-mind.md": "474dad0e12f2",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "63a25d4f0593",
       "content/posts/only-if-it-is-not-kept-empty.md": "1d2b22dc949c",
       "content/posts/ontos-is-a-method-agent.md": "25df0d4d161c",
@@ -160,7 +160,7 @@
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "df89e1c033a5",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "388594883a11",
       "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "d87ddb2eef07",
-      "content/posts/price-as-utterance-understanding-as-trade.md": "9bd86071eefb",
+      "content/posts/price-as-utterance-understanding-as-trade.md": "09732d7116b8",
       "content/posts/production-consumption-and-the-minds-distinction.md": "69300d4d47c5",
       "content/posts/public-spending-does-not-create-capital.md": "4ecd2dec23ca",
       "content/posts/qian-yin-hou-guo.md": "e1075ddcf04c",
@@ -171,7 +171,7 @@
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "f85879109b9b",
       "content/posts/residual-control-recedes-to-the-edge.md": "9870cbc6f3a4",
       "content/posts/residual-individualism.md": "445518af80f8",
-      "content/posts/restriction-is-a-selective-tax.md": "9eb2991f975e",
+      "content/posts/restriction-is-a-selective-tax.md": "c6a8d3b34966",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
       "content/posts/selection-contradiction-and-open-reality.md": "b8f1683a325c",
@@ -235,7 +235,7 @@
       "content/posts/the-dissolution-of-the-great-reversal.md": "3ef5fa05ee7f",
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "cf61f9e9c832",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "a5364440b315",
-      "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "d92e0af3077c",
+      "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "bf47c037daad",
       "content/posts/the-extendable-horizon.md": "dd7530fe02c3",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "143d4bdc7d01",
       "content/posts/the-fallacy-of-post-success-parenting.md": "3c761a9c4e3c",
@@ -249,7 +249,7 @@
       "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "b789b14c20e1",
       "content/posts/the-freedom-of-will-to-deny-itself.md": "02a2cc5253a0",
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "dde04cb94bf5",
-      "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "99601f73e350",
+      "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "b280bd7da641",
       "content/posts/the-generative-contradiction.md": "807d28667277",
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "7e70fb60c1b1",
       "content/posts/the-generative-topology-of-free-variables.md": "bd4117e215d3",
@@ -279,7 +279,7 @@
       "content/posts/the-invisible-first-move.md": "24e7e1373e4c",
       "content/posts/the-invisible-gods-eye.md": "a985d9e0b0a3",
       "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "319c407dd166",
-      "content/posts/the-irreducible-observer.md": "9d75e4557aa6",
+      "content/posts/the-irreducible-observer.md": "128d5b8534dd",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "247a3d936241",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "ff064e746f65",
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "e2c53537d905",
@@ -342,7 +342,7 @@
       "content/posts/the-scaling-loop.md": "01f561084635",
       "content/posts/the-self-portrait-in-the-projection.md": "0e75cd1a6cf2",
       "content/posts/the-shadow-and-the-infinite.md": "f857f118c0ae",
-      "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "e2ac2e53d575",
+      "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "9dc84d6394f6",
       "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "8ac27b54bcdc",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "19ba2db4ce61",
       "content/posts/the-source-of-all-harm.md": "20891d9d52cf",
@@ -361,7 +361,7 @@
       "content/posts/the-unexamined-critic.md": "1cda1a733555",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "96d67d29d78d",
       "content/posts/the-unobservable-driver-of-learning.md": "f4fc84bcab69",
-      "content/posts/the-utility-men-of-progress.md": "6ff83cd93602",
+      "content/posts/the-utility-men-of-progress.md": "74816f95d229",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "778ea3bc6eea",
       "content/posts/the-velocity-of-visibility.md": "7a988e6f7355",
       "content/posts/the-walking-tangent-and-the-stumbling-sphere.md": "6dd94a8b5246",
@@ -388,7 +388,7 @@
       "content/posts/when-electrons-think.md": "fbdd3178e8f3",
       "content/posts/when-malfunction-is-scored-as-intelligence.md": "8adae7d53567",
       "content/posts/when-need-stops-being-the-measure.md": "a4f550ad30d1",
-      "content/posts/when-observation-becomes-performance.md": "034e813ad8fd",
+      "content/posts/when-observation-becomes-performance.md": "fc49af651c83",
       "content/posts/when-the-effect-authors-the-frame.md": "42fba9798842",
       "content/posts/why-explanation-fails.md": "4bd98e24db9a",
       "content/posts/why-mathematics-can-never-be-solved.md": "cf02a7399345",
@@ -401,8 +401,8 @@
       "content/posts/your-codebase-is-memory.md": "4a4689dd4a10",
       "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "914571f5e4e9",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "f1f3cd0266ec",
-      "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "b09f3b56a648",
-      "content/posts/zi-you-de-ce-bu-zhun.md": "9c0ed3a2d8d9",
+      "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "f23cfe1f4ca3",
+      "content/posts/zi-you-de-ce-bu-zhun.md": "9adfc20af9ce",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "46323a1926a8",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "4537ed736e3a",
       "content/book/causality.md": "c5ac49c16705",
@@ -424,10 +424,10 @@
     },
     "stats": {
       "posts": 397,
-      "edges": 10018,
-      "unique_directed": 4981,
+      "edges": 10042,
+      "unique_directed": 4993,
       "missing_targets": 0,
-      "one_way": 479,
+      "one_way": 491,
       "isolated": 35,
       "posts_with_outbound": 361,
       "book_pages": 16,
@@ -442,7 +442,7 @@
     },
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 140
+      "in_degree": 152
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -837,9 +837,9 @@
       "slug": "agency-does-not-arise",
       "path": "content/posts/agency-does-not-arise.md",
       "title": "主体性不曾涌现 / Agency Does Not Arise",
-      "hash": "197fc86a6d73",
+      "hash": "fc62e5ae5c0e",
       "in_degree": 19,
-      "out_degree": 18,
+      "out_degree": 19,
       "links_out": [
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
         "complexity-obscures-emergence-as-the-act-of-mind",
@@ -853,6 +853,7 @@
         "one-cannot-escape-ones-own-mind",
         "consciousness-never-appears-as-data-among-data",
         "zi-you-de-ce-bu-zhun",
+        "your-codebase-is-memory",
         "beyond-the-projection",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
@@ -3946,15 +3947,16 @@
       "slug": "one-cannot-escape-ones-own-mind",
       "path": "content/posts/one-cannot-escape-ones-own-mind.md",
       "title": "无法逃逸的心智视界 / One Cannot Escape One's Own Mind",
-      "hash": "1f282507aaf4",
+      "hash": "474dad0e12f2",
       "in_degree": 15,
-      "out_degree": 16,
+      "out_degree": 17,
       "links_out": [
         "subtracting-consciousness-at-the-source",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "the-shadow-and-the-infinite",
         "the-explanatory-trap-of-the-ordinary-perspective",
+        "your-codebase-is-memory",
         "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "beyond-the-projection",
@@ -4535,9 +4537,9 @@
       "slug": "price-as-utterance-understanding-as-trade",
       "path": "content/posts/price-as-utterance-understanding-as-trade.md",
       "title": "价格是言说，理解是交易 / Price as Utterance, Understanding as Trade",
-      "hash": "9bd86071eefb",
+      "hash": "09732d7116b8",
       "in_degree": 18,
-      "out_degree": 17,
+      "out_degree": 18,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "having-more-is-never-the-cause",
@@ -4550,6 +4552,7 @@
         "the-source-of-shared-change",
         "shared-humanity-is-never-shared",
         "the-scaffolding-we-forget",
+        "your-codebase-is-memory",
         "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "the-coordinators-category-error",
         "the-illusion-of-the-shared-sandbox",
@@ -4837,9 +4840,9 @@
       "slug": "restriction-is-a-selective-tax",
       "path": "content/posts/restriction-is-a-selective-tax.md",
       "title": "限制是选择性的税 / Restriction Is a Selective Tax",
-      "hash": "9eb2991f975e",
+      "hash": "c6a8d3b34966",
       "in_degree": 18,
-      "out_degree": 18,
+      "out_degree": 19,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
         "hierarchy-from-individual-difference",
@@ -4855,6 +4858,7 @@
         "public-spending-does-not-create-capital",
         "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "the-risk-you-delegate-is-the-risk-you-create",
+        "your-codebase-is-memory",
         "preference-clusters-and-the-language-of-judgment",
         "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
         "the-real-lesson-from-the-consciousness-vector-paper",
@@ -6384,9 +6388,9 @@
       "slug": "the-explanatory-trap-of-the-ordinary-perspective",
       "path": "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md",
       "title": "“普通人视角”的解释陷阱 / The Explanatory Trap of the \"Ordinary Perspective\"",
-      "hash": "d92e0af3077c",
+      "hash": "bf47c037daad",
       "in_degree": 17,
-      "out_degree": 17,
+      "out_degree": 18,
       "links_out": [
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "the-causal-inversion-of-partnership",
@@ -6397,6 +6401,7 @@
         "the-summary-first-reversal-and-the-command-of-yields",
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
         "individual-choices-as-the-only-causal-levers",
+        "your-codebase-is-memory",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "choice-itself-has-no-inherent-weight",
         "coordinate-systems-mind-and-degrees-of-freedom",
@@ -6722,10 +6727,11 @@
       "slug": "the-generative-atlas-of-macroscopic-phenomena",
       "path": "content/posts/the-generative-atlas-of-macroscopic-phenomena.md",
       "title": "宏观现象的生成图谱 / The Generative Atlas of Macroscopic Phenomena",
-      "hash": "99601f73e350",
+      "hash": "b280bd7da641",
       "in_degree": 18,
-      "out_degree": 18,
+      "out_degree": 19,
       "links_out": [
+        "your-codebase-is-memory",
         "guidance-is-not-ownership",
         "what-information-is",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
@@ -7365,9 +7371,9 @@
       "slug": "the-irreducible-observer",
       "path": "content/posts/the-irreducible-observer.md",
       "title": "不可还原的观察者 / The Irreducible Observer",
-      "hash": "9d75e4557aa6",
+      "hash": "128d5b8534dd",
       "in_degree": 18,
-      "out_degree": 17,
+      "out_degree": 18,
       "links_out": [
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "the-twin-paradox-and-the-hidden-observer",
@@ -7385,7 +7391,8 @@
         "abstract-pain-and-living-hunger",
         "beyond-the-projection",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-        "silicon-oracles-and-the-asymmetry-of-consequence"
+        "silicon-oracles-and-the-asymmetry-of-consequence",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -8894,15 +8901,16 @@
       "slug": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "path": "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md",
       "title": "“物理学才是定律”的障眼法 / The Sleight of Hand in \"Physics Is the Law\"",
-      "hash": "e2ac2e53d575",
+      "hash": "9dc84d6394f6",
       "in_degree": 18,
-      "out_degree": 18,
+      "out_degree": 19,
       "links_out": [
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "the-illusion-of-the-unmediated",
         "the-risk-you-delegate-is-the-risk-you-create",
         "ownership-and-self-worthiness",
+        "your-codebase-is-memory",
         "the-closed-n-and-the-open-reality",
         "demanding-a-toe-freezes-time-into-a-catalog",
         "the-black-and-white-sample-frame-and-the-extrapolated-universe",
@@ -9335,9 +9343,9 @@
       "slug": "the-utility-men-of-progress",
       "path": "content/posts/the-utility-men-of-progress.md",
       "title": "进步的多面手 / The Utility Men of Progress",
-      "hash": "6ff83cd93602",
+      "hash": "74816f95d229",
       "in_degree": 17,
-      "out_degree": 18,
+      "out_degree": 19,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "symptom-and-cause-in-the-narratives-of-progress",
@@ -9354,6 +9362,7 @@
         "the-belief-in-utopia-is-the-path-to-dystopia",
         "openness-is-consistency",
         "closed-assumptions-squeeze-compounding-into-s-curves",
+        "your-codebase-is-memory",
         "beyond-the-projection",
         "the-illusion-of-free-intelligence",
         "the-reality-distortion-field-inverts-the-baseline"
@@ -9948,9 +9957,9 @@
       "slug": "when-observation-becomes-performance",
       "path": "content/posts/when-observation-becomes-performance.md",
       "title": "当观察变成表演 / When Observation Becomes Performance",
-      "hash": "034e813ad8fd",
+      "hash": "fc49af651c83",
       "in_degree": 16,
-      "out_degree": 17,
+      "out_degree": 18,
       "links_out": [
         "the-meaning-of-life-is-in-the-drafting",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -9961,6 +9970,7 @@
         "two-failures-of-trace",
         "writing-without-the-image",
         "performative-hindsight-that-pretends-to-be-foresight",
+        "your-codebase-is-memory",
         "clarity-isnt-a-state-you-arrive-at",
         "expertise-as-reference-not-replacement",
         "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
@@ -10186,7 +10196,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 140,
+      "in_degree": 152,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -10247,13 +10257,14 @@
       "slug": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "path": "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md",
       "title": "自由变量的同构与先验主权 / The Isomorphism of Free Variables and Prior Sovereignty",
-      "hash": "b09f3b56a648",
+      "hash": "f23cfe1f4ca3",
       "in_degree": 17,
-      "out_degree": 17,
+      "out_degree": 18,
       "links_out": [
         "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
         "when-electrons-think",
         "what-information-is",
+        "your-codebase-is-memory",
         "the-free-variable-and-the-retrospective-illusion-of-power",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "complexity-obscures-emergence-as-the-act-of-mind",
@@ -10276,9 +10287,9 @@
       "slug": "zi-you-de-ce-bu-zhun",
       "path": "content/posts/zi-you-de-ce-bu-zhun.md",
       "title": "自由的测不准 / The Uncertainty of Freedom",
-      "hash": "9c0ed3a2d8d9",
+      "hash": "9adfc20af9ce",
       "in_degree": 19,
-      "out_degree": 18,
+      "out_degree": 19,
       "links_out": [
         "causality-all-the-way",
         "the-closed-loop-of-representation",
@@ -10287,6 +10298,7 @@
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "what-information-is",
         "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+        "your-codebase-is-memory",
         "hierarchy-from-individual-difference",
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "the-mark-and-the-act",
@@ -11812,6 +11824,18 @@
       "to": "zi-you-de-ce-bu-zhun",
       "rel": "points_to",
       "label": "The Uncertainty of Freedom"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "agency-does-not-arise",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "agency-does-not-arise",
@@ -31315,9 +31339,21 @@
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
       "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
       "rel": "points_to",
       "label": "凡可言说皆不可言说之产物"
+    },
+    {
+      "from": "one-cannot-escape-ones-own-mind",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
@@ -35517,7 +35553,7 @@
       "from": "price-as-utterance-understanding-as-trade",
       "to": "the-knowledge-problem-and-the-illusion-of-delegation",
       "rel": "points_to",
-      "label": "哈耶克的图景"
+      "label": "哈耶克以价格为信号协调分散知识的图景"
     },
     {
       "from": "price-as-utterance-understanding-as-trade",
@@ -35617,9 +35653,21 @@
     },
     {
       "from": "price-as-utterance-understanding-as-trade",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "price-as-utterance-understanding-as-trade",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "price-as-utterance-understanding-as-trade",
@@ -37645,6 +37693,12 @@
     },
     {
       "from": "restriction-is-a-selective-tax",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
       "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
@@ -37666,6 +37720,12 @@
       "to": "the-risk-you-delegate-is-the-risk-you-create",
       "rel": "points_to",
       "label": "The Risk You Delegate Is the Risk You Create"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "restriction-is-a-selective-tax",
@@ -46705,18 +46765,6 @@
     },
     {
       "from": "the-explanatory-trap-of-the-ordinary-perspective",
-      "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
-      "rel": "points_to",
-      "label": "确定性是微观不确定性的统计签名"
-    },
-    {
-      "from": "the-explanatory-trap-of-the-ordinary-perspective",
-      "to": "individual-choices-as-the-only-causal-levers",
-      "rel": "points_to",
-      "label": "个体抉择是唯一的因果杠杆"
-    },
-    {
-      "from": "the-explanatory-trap-of-the-ordinary-perspective",
       "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
       "rel": "points_to",
       "label": "The Cartesian Overstep and the Frenzy of Creation"
@@ -46737,6 +46785,18 @@
       "from": "the-explanatory-trap-of-the-ordinary-perspective",
       "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "rel": "points_to",
+      "label": "确定性是微观不确定性的统计签名"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "rel": "points_to",
       "label": "Determinism is the Statistical Signature of Micro-Indeterminism"
     },
     {
@@ -46744,6 +46804,12 @@
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
     },
     {
       "from": "the-explanatory-trap-of-the-ordinary-perspective",
@@ -46756,6 +46822,12 @@
       "to": "choice-itself-has-no-inherent-weight",
       "rel": "points_to",
       "label": "抉择本身并不沉重"
+    },
+    {
+      "from": "the-explanatory-trap-of-the-ordinary-perspective",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-explanatory-trap-of-the-ordinary-perspective",
@@ -48679,9 +48751,21 @@
     },
     {
       "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
       "to": "guidance-is-not-ownership",
       "rel": "points_to",
       "label": "引导不是占有"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-generative-atlas-of-macroscopic-phenomena",
@@ -52471,6 +52555,12 @@
     },
     {
       "from": "the-irreducible-observer",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-irreducible-observer",
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
       "label": "The Delegation of the Task and the Inalienability of Consequences"
@@ -52480,6 +52570,12 @@
       "to": "silicon-oracles-and-the-asymmetry-of-consequence",
       "rel": "points_to",
       "label": "Silicon Oracles and the Asymmetry of Consequence"
+    },
+    {
+      "from": "the-irreducible-observer",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-irreducible-prior-of-decision-and-consequence",
@@ -61753,9 +61849,21 @@
     },
     {
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "to": "the-closed-n-and-the-open-reality",
       "rel": "points_to",
       "label": "闭合的N与开放的现实"
+    },
+    {
+      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
@@ -64537,6 +64645,12 @@
     },
     {
       "from": "the-utility-men-of-progress",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-utility-men-of-progress",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "超越投射"
@@ -64546,6 +64660,12 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "开放即一致"
+    },
+    {
+      "from": "the-utility-men-of-progress",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-utility-men-of-progress",
@@ -68305,9 +68425,21 @@
     },
     {
       "from": "when-observation-becomes-performance",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "when-observation-becomes-performance",
       "to": "performative-hindsight-that-pretends-to-be-foresight",
       "rel": "points_to",
       "label": "Performative Hindsight That Pretends to Be Foresight"
+    },
+    {
+      "from": "when-observation-becomes-performance",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "when-observation-becomes-performance",
@@ -69799,6 +69931,18 @@
     },
     {
       "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "to": "the-free-variable-and-the-retrospective-illusion-of-power",
       "rel": "points_to",
       "label": "隐性自由变量与权力的事后幻相"
@@ -70051,6 +70195,12 @@
     },
     {
       "from": "zi-you-de-ce-bu-zhun",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
       "label": "来自个体差异的层级"
@@ -70072,6 +70222,12 @@
       "to": "agency-does-not-arise",
       "rel": "points_to",
       "label": "主体性不曾涌现"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "zi-you-de-ce-bu-zhun",
