@@ -21,7 +21,7 @@ The essays in this part dissect Geoffrey Hinton's cognitive leaps, the limits of
 - [AI 作为增强 / AI as Augmentation](../../posts/ai-as-augmentation/)
 - [The Projection Called Claude: An Ontological Analysis of Anthropic's Constitution](../../posts/claudes-constitution-analysis/)
 - [层层皆是语境 / Context All the Way Down](../../posts/context-engineering-essay/)
-- [The Name-Negation Tendency](../../posts/name-negation-tendency/)
+- [名称背反倾向 / The Name-Negation Tendency](../../posts/name-negation-tendency/)
 - [The Collapsed Debate](../../posts/the-collapsed-debate/)
 - [蒸馏、压缩与能动性 / Distillation Chooses What to Lose](../../posts/distillation-compression-agency/)
 - [The Tightening Loop](../../posts/the-tightening-loop/)

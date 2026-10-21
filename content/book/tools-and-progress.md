@@ -16,7 +16,7 @@ The essays here explore antifragility in engineering, the calm tension between S
 - [The Exponential and the Linear Eye](../../posts/Analysis_Adolescence_of_Technology/)
 - [The Cybersecurity Arms Race: Categorical Perception Limits and Claim-Negation Coupling](../../posts/cybersecurity-arms-race/)
 - [Everything Is Changing, as Always](../../posts/everything-is-changing-as-always/)
-- [Nobody Has Seen Anything Yet](../../posts/nobody-has-seen-anything-yet/)
+- [还没有人见过任何东西 / Nobody Has Seen Anything Yet](../../posts/nobody-has-seen-anything-yet/)
 - [Simplicity Is the Ultimate Sophistication](../../posts/simplicity-ultimate-sophistication/)
 - [The Interface Stack: Why Agents Don't "Prefer" CLIs](../../posts/cli-interface-stack/)
 - [The Platform Doesn't Drift — It Completes](../../posts/platform-decision-capture/)

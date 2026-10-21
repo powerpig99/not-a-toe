@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T09:26:04.539Z",
+    "generated_at": "2026-10-21T09:39:20.240Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -68,7 +68,7 @@
       "content/posts/e-shi-feng-bi-de-shan.md": "506d716b1645",
       "content/posts/efficiency-without-differentiation.md": "3240d0296338",
       "content/posts/emotional-support-as-causal-interference.md": "4c4a477833bd",
-      "content/posts/empathy-as-projection-collapse.md": "48c21092f783",
+      "content/posts/empathy-as-projection-collapse.md": "9e4a34318159",
       "content/posts/empowerment-establishes-the-centralization-of-power.md": "88f2c8ef1bd8",
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "7085a1dd3e50",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
@@ -120,26 +120,26 @@
       "content/posts/meaning-of-life-refined.md": "1ae50e3e9204",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "02c235243d39",
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "cf14c819fdac",
-      "content/posts/minimizing-path.md": "d8f66e82c6d0",
+      "content/posts/minimizing-path.md": "6a3e415d8830",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "d8bf71b9fe17",
       "content/posts/moral-language-as-projection.md": "ec504bfff397",
       "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "d9edaff34fdb",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
-      "content/posts/name-negation-tendency.md": "9261da00dc72",
+      "content/posts/name-negation-tendency.md": "8dcd4b20eaa0",
       "content/posts/naval-separation-analysis.md": "19901cd6d9bb",
       "content/posts/no-genius-can-solve-the-knowledge-problem.md": "b3abbe0744cc",
       "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "aee9e6979b9f",
       "content/posts/no-outside-scorekeeper.md": "6d9499826830",
       "content/posts/no-system-can-be-kept-closed.md": "cb636c5e6b60",
-      "content/posts/nobody-has-seen-anything-yet.md": "684b9268b2c2",
+      "content/posts/nobody-has-seen-anything-yet.md": "c201533867e9",
       "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md": "9a865742b9bb",
       "content/posts/not-a-theory-of-everything.md": "4d8057e37ce3",
       "content/posts/not-a-toe-rewrite.md": "99150d84dc27",
       "content/posts/not-predicting-is-predicting-without-awareness.md": "750dd47f6c5b",
       "content/posts/objects-are-stabilized-relationships.md": "01d114dde3a7",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "e155f3d0f778",
-      "content/posts/on-education.md": "acf5a581efd1",
+      "content/posts/on-education.md": "927ac2ef563b",
       "content/posts/one-cannot-escape-ones-own-mind.md": "474dad0e12f2",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "3ffea599eadb",
       "content/posts/only-if-it-is-not-kept-empty.md": "1d2b22dc949c",
@@ -165,7 +165,7 @@
       "content/posts/public-spending-does-not-create-capital.md": "4bdc16609a6d",
       "content/posts/qian-yin-hou-guo.md": "e1075ddcf04c",
       "content/posts/rationality-never-travels-across-the-mind.md": "a1491e2a0bd9",
-      "content/posts/reality-doesnt-invoice-by-committee.md": "e577ce5f5f88",
+      "content/posts/reality-doesnt-invoice-by-committee.md": "5a0be6629c47",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "6602a836102e",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "f5b5bfd04362",
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "26be0b89022e",
@@ -185,12 +185,12 @@
       "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "6e6001066898",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "2a91f58a7d13",
-      "content/posts/sovereignty-essay.md": "10d294546a2a",
+      "content/posts/sovereignty-essay.md": "365e3520fc4a",
       "content/posts/sowell-observed-the-surface-problem.md": "6a0b158cce39",
       "content/posts/stability-and-excess.md": "25b813029b34",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "48fed4ebc465",
       "content/posts/subtracting-consciousness-at-the-source.md": "df1242fc6ba9",
-      "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "479475155344",
+      "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "82cb19957394",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "5f0985544543",
       "content/posts/technology-is-residual-of-human-compounding.md": "1576031b77f7",
       "content/posts/the-allocation-of-causal-power-in-validation.md": "5a0728cdace1",
@@ -340,7 +340,7 @@
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "728ed78cb1f9",
       "content/posts/the-scaffolding-we-forget.md": "dcb1dbc7b64f",
       "content/posts/the-scaling-loop.md": "01f561084635",
-      "content/posts/the-self-portrait-in-the-projection.md": "27746027176f",
+      "content/posts/the-self-portrait-in-the-projection.md": "53e4a8649ae8",
       "content/posts/the-shadow-and-the-infinite.md": "c39730290699",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "9dc84d6394f6",
       "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "1dbcf1da600a",
@@ -352,7 +352,7 @@
       "content/posts/the-strongest-belief-of-the-mind.md": "ee7cbb6eb4a6",
       "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "5c88cee96bdf",
       "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "c663c4a8107a",
-      "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
+      "content/posts/the-surface-beneath.md": "723085b95c3f",
       "content/posts/the-three-shadows-of-the-cut.md": "dddbde671cad",
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
       "content/posts/the-twin-paradox-and-the-hidden-observer.md": "ff11efe3625a",
@@ -408,26 +408,26 @@
       "content/book/causality.md": "58084f9648d2",
       "content/book/consciousness.md": "70239de45f33",
       "content/book/economics.md": "fd4de04be804",
-      "content/book/index-of-premises.md": "d73da058c6ba",
-      "content/book/intelligence.md": "c51166af349a",
-      "content/book/knowledge-and-learning.md": "fd2f184ec9fe",
+      "content/book/index-of-premises.md": "b1d832d0bfa2",
+      "content/book/intelligence.md": "2f7a5cfc0549",
+      "content/book/knowledge-and-learning.md": "fc593b62b093",
       "content/book/life-and-statistics.md": "903bd0f56d99",
-      "content/book/mathematics.md": "b3a02f0cdea3",
+      "content/book/mathematics.md": "322ac308b378",
       "content/book/meaning-and-transcendence.md": "a851650b120c",
       "content/book/method.md": "6246e4ef1096",
-      "content/book/morality.md": "fa8a9103175f",
-      "content/book/physics.md": "26d82e9eb69f",
+      "content/book/morality.md": "aaee6cdba130",
+      "content/book/physics.md": "7c86d385a9f8",
       "content/book/preface.md": "d0065384016a",
-      "content/book/state-and-collective.md": "d9f128760b3e",
+      "content/book/state-and-collective.md": "2ecf484eb720",
       "content/book/success-and-the-self.md": "8795aa2cb585",
-      "content/book/tools-and-progress.md": "bc3d12468c14"
+      "content/book/tools-and-progress.md": "e6da90927c76"
     },
     "stats": {
       "posts": 397,
-      "edges": 10554,
-      "unique_directed": 5181,
+      "edges": 10580,
+      "unique_directed": 5189,
       "missing_targets": 0,
-      "one_way": 699,
+      "one_way": 707,
       "isolated": 35,
       "posts_with_outbound": 362,
       "book_pages": 16,
@@ -438,7 +438,7 @@
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 349
+      "in_degree": 357
     },
     {
       "slug": "beyond-the-projection",
@@ -2171,12 +2171,13 @@
       "kind": "post",
       "slug": "empathy-as-projection-collapse",
       "path": "content/posts/empathy-as-projection-collapse.md",
-      "title": "The Word Does the Damage: Empathy as Projection Collapse",
-      "hash": "48c21092f783",
+      "title": "共情的投射坍缩 / Empathy as Projection Collapse / 共情的投射坍缩 / Empathy as Projection Collapse",
+      "hash": "9e4a34318159",
       "in_degree": 2,
-      "out_degree": 2,
+      "out_degree": 3,
       "links_out": [
         "the-self-portrait-in-the-projection",
+        "your-codebase-is-memory",
         "sympathy-is-a-placeholder-for-lack-of-clarity"
       ]
     },
@@ -3520,12 +3521,13 @@
       "kind": "post",
       "slug": "minimizing-path",
       "path": "content/posts/minimizing-path.md",
-      "title": "The Minimizing Path",
-      "hash": "d8f66e82c6d0",
+      "title": "最小化路径 / The Minimizing Path / 最小化路径 / The Minimizing Path",
+      "hash": "6a3e415d8830",
       "in_degree": 2,
-      "out_degree": 2,
+      "out_degree": 3,
       "links_out": [
         "fidelity-not-optimality",
+        "your-codebase-is-memory",
         "the-surface-beneath"
       ]
     },
@@ -3655,12 +3657,13 @@
       "kind": "post",
       "slug": "name-negation-tendency",
       "path": "content/posts/name-negation-tendency.md",
-      "title": "The Name-Negation Tendency",
-      "hash": "9261da00dc72",
+      "title": "名称背反倾向 / The Name-Negation Tendency / 名称背反倾向 / The Name-Negation Tendency",
+      "hash": "8dcd4b20eaa0",
       "in_degree": 1,
-      "out_degree": 1,
+      "out_degree": 2,
       "links_out": [
-        "what-works-is-the-belief"
+        "what-works-is-the-belief",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -3832,12 +3835,13 @@
       "kind": "post",
       "slug": "nobody-has-seen-anything-yet",
       "path": "content/posts/nobody-has-seen-anything-yet.md",
-      "title": "Nobody Has Seen Anything Yet",
-      "hash": "684b9268b2c2",
+      "title": "还没有人见过任何东西 / Nobody Has Seen Anything Yet / 还没有人见过任何东西 / Nobody Has Seen Anything Yet",
+      "hash": "c201533867e9",
       "in_degree": 1,
-      "out_degree": 1,
+      "out_degree": 2,
       "links_out": [
-        "selection-contradiction-and-open-reality"
+        "selection-contradiction-and-open-reality",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -3988,12 +3992,13 @@
       "kind": "post",
       "slug": "on-education",
       "path": "content/posts/on-education.md",
-      "title": "On Education, Resonance, and Giving Someone the Real Thing",
-      "hash": "acf5a581efd1",
+      "title": "论教育、共振与给人真东西 / On Education, Resonance, and Giving Someone the Real Thing / 论教育、共振与给人真东西 / On Education, Resonance, and Giving Someone the Real Thing",
+      "hash": "927ac2ef563b",
       "in_degree": 1,
-      "out_degree": 1,
+      "out_degree": 2,
       "links_out": [
-        "the-fallacy-of-post-success-parenting"
+        "the-fallacy-of-post-success-parenting",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -4760,12 +4765,13 @@
       "kind": "post",
       "slug": "reality-doesnt-invoice-by-committee",
       "path": "content/posts/reality-doesnt-invoice-by-committee.md",
-      "title": "Reality Doesn't Invoice by Committee",
-      "hash": "e577ce5f5f88",
+      "title": "现实不按委员会开账单 / Reality Doesn't Invoice by Committee / 现实不按委员会开账单 / Reality Doesn't Invoice by Committee",
+      "hash": "5a0be6629c47",
       "in_degree": 1,
-      "out_degree": 1,
+      "out_degree": 2,
       "links_out": [
-        "the-reality-distortion-field-names-the-closed-map"
+        "the-reality-distortion-field-names-the-closed-map",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -5237,12 +5243,13 @@
       "kind": "post",
       "slug": "sovereignty-essay",
       "path": "content/posts/sovereignty-essay.md",
-      "title": "Surrender as Misaligned Sovereignty",
-      "hash": "10d294546a2a",
+      "title": "臣服作为错位的主权 / Surrender as Misaligned Sovereignty / 臣服作为错位的主权 / Surrender as Misaligned Sovereignty",
+      "hash": "365e3520fc4a",
       "in_degree": 1,
-      "out_degree": 1,
+      "out_degree": 2,
       "links_out": [
-        "sovereignty-belief-and-regulatory-structures"
+        "sovereignty-belief-and-regulatory-structures",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -5345,7 +5352,7 @@
       "slug": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "path": "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md",
       "title": "同情是缺乏清晰时的占位符 / Sympathy Is a Placeholder for Lack of Clarity",
-      "hash": "479475155344",
+      "hash": "82cb19957394",
       "in_degree": 9,
       "out_degree": 11,
       "links_out": [
@@ -9027,7 +9034,7 @@
       "slug": "the-self-portrait-in-the-projection",
       "path": "content/posts/the-self-portrait-in-the-projection.md",
       "title": "投射中的自画像 / The Self-Portrait in the Projection",
-      "hash": "27746027176f",
+      "hash": "53e4a8649ae8",
       "in_degree": 8,
       "out_degree": 9,
       "links_out": [
@@ -9315,13 +9322,14 @@
       "kind": "post",
       "slug": "the-surface-beneath",
       "path": "content/posts/the-surface-beneath.md",
-      "title": "The Surface Beneath",
-      "hash": "ef38ad5d61b5",
+      "title": "底层表面 / The Surface Beneath / 底层表面 / The Surface Beneath",
+      "hash": "723085b95c3f",
       "in_degree": 2,
-      "out_degree": 2,
+      "out_degree": 3,
       "links_out": [
         "fidelity-not-optimality",
-        "minimizing-path"
+        "minimizing-path",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -10382,7 +10390,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 349,
+      "in_degree": 357,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -20526,13 +20534,37 @@
       "from": "empathy-as-projection-collapse",
       "to": "the-self-portrait-in-the-projection",
       "rel": "points_to",
+      "label": "投射中的自画像"
+    },
+    {
+      "from": "empathy-as-projection-collapse",
+      "to": "the-self-portrait-in-the-projection",
+      "rel": "points_to",
       "label": "The Self-Portrait in the Projection"
+    },
+    {
+      "from": "empathy-as-projection-collapse",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
     },
     {
       "from": "empathy-as-projection-collapse",
       "to": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "rel": "points_to",
-      "label": "Sympathy is a placeholder for lack of clarity"
+      "label": "同情是缺乏清明时的占位符"
+    },
+    {
+      "from": "empathy-as-projection-collapse",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "empathy-as-projection-collapse",
+      "to": "sympathy-is-a-placeholder-for-lack-of-clarity",
+      "rel": "points_to",
+      "label": "Sympathy Is a Placeholder for Lack of Clarity"
     },
     {
       "from": "empowerment-establishes-the-centralization-of-power",
@@ -29394,7 +29426,31 @@
       "from": "minimizing-path",
       "to": "fidelity-not-optimality",
       "rel": "points_to",
+      "label": "保真，而非最优"
+    },
+    {
+      "from": "minimizing-path",
+      "to": "fidelity-not-optimality",
+      "rel": "points_to",
       "label": "Fidelity, Not Optimality"
+    },
+    {
+      "from": "minimizing-path",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "minimizing-path",
+      "to": "the-surface-beneath",
+      "rel": "points_to",
+      "label": "底层表面"
+    },
+    {
+      "from": "minimizing-path",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "minimizing-path",
@@ -30186,7 +30242,25 @@
       "from": "name-negation-tendency",
       "to": "what-works-is-the-belief",
       "rel": "points_to",
+      "label": "起作用的是信念"
+    },
+    {
+      "from": "name-negation-tendency",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "name-negation-tendency",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
       "label": "What Works Is the Belief"
+    },
+    {
+      "from": "name-negation-tendency",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "naval-separation-analysis",
@@ -31440,7 +31514,25 @@
       "from": "nobody-has-seen-anything-yet",
       "to": "selection-contradiction-and-open-reality",
       "rel": "points_to",
-      "label": "Selection, contradiction, and open reality"
+      "label": "选择、矛盾与敞开的实在"
+    },
+    {
+      "from": "nobody-has-seen-anything-yet",
+      "to": "selection-contradiction-and-open-reality",
+      "rel": "points_to",
+      "label": "Selection, Contradiction, and Open Reality"
+    },
+    {
+      "from": "nobody-has-seen-anything-yet",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "nobody-has-seen-anything-yet",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
@@ -32376,7 +32468,19 @@
       "from": "on-education",
       "to": "the-fallacy-of-post-success-parenting",
       "rel": "points_to",
-      "label": "The Fallacy of Post-Success Parenting: Hindsight Bias, Path Cloning, and the Erasure of Generative Struggle"
+      "label": "The Fallacy of Post-Success Parenting"
+    },
+    {
+      "from": "on-education",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "on-education",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "one-cannot-escape-ones-own-mind",
@@ -37962,7 +38066,25 @@
       "from": "reality-doesnt-invoice-by-committee",
       "to": "the-reality-distortion-field-names-the-closed-map",
       "rel": "points_to",
+      "label": "现实扭曲力场命名了那张闭合的地图"
+    },
+    {
+      "from": "reality-doesnt-invoice-by-committee",
+      "to": "the-reality-distortion-field-names-the-closed-map",
+      "rel": "points_to",
       "label": "The Reality Distortion Field Names the Closed Map"
+    },
+    {
+      "from": "reality-doesnt-invoice-by-committee",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "reality-doesnt-invoice-by-committee",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "reality-is-the-minds-ongoing-realization",
@@ -40896,7 +41018,25 @@
       "from": "sovereignty-essay",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
+      "label": "主权、信念与规制结构的生成"
+    },
+    {
+      "from": "sovereignty-essay",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
       "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
+    },
+    {
+      "from": "sovereignty-essay",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "sovereignty-essay",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "sowell-observed-the-surface-problem",
@@ -41490,7 +41630,7 @@
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "to": "empathy-as-projection-collapse",
       "rel": "points_to",
-      "label": "词语造成伤害：共情是投射的坍缩"
+      "label": "共情的投射坍缩"
     },
     {
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
@@ -64272,7 +64412,7 @@
       "from": "the-self-portrait-in-the-projection",
       "to": "empathy-as-projection-collapse",
       "rel": "points_to",
-      "label": "词语造成伤害：共情是投射的坍缩"
+      "label": "共情的投射坍缩"
     },
     {
       "from": "the-self-portrait-in-the-projection",
@@ -66102,13 +66242,37 @@
       "from": "the-surface-beneath",
       "to": "fidelity-not-optimality",
       "rel": "points_to",
+      "label": "保真，而非最优"
+    },
+    {
+      "from": "the-surface-beneath",
+      "to": "fidelity-not-optimality",
+      "rel": "points_to",
       "label": "Fidelity, Not Optimality"
     },
     {
       "from": "the-surface-beneath",
       "to": "minimizing-path",
       "rel": "points_to",
+      "label": "最小化路径"
+    },
+    {
+      "from": "the-surface-beneath",
+      "to": "minimizing-path",
+      "rel": "points_to",
       "label": "The Minimizing Path"
+    },
+    {
+      "from": "the-surface-beneath",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-surface-beneath",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-three-shadows-of-the-cut",
@@ -73910,7 +74074,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "d73da058c6ba",
+        "hash": "b1d832d0bfa2",
         "out_degree": 397
       },
       {
@@ -73919,7 +74083,7 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "c51166af349a",
+        "hash": "2f7a5cfc0549",
         "out_degree": 48
       },
       {
@@ -73928,7 +74092,7 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "fd2f184ec9fe",
+        "hash": "fc593b62b093",
         "out_degree": 34
       },
       {
@@ -73946,7 +74110,7 @@
         "slug": "mathematics",
         "path": "content/book/mathematics.md",
         "title": "数学与逻辑的边界 / The Boundaries of Mathematics and Logic",
-        "hash": "b3a02f0cdea3",
+        "hash": "322ac308b378",
         "out_degree": 20
       },
       {
@@ -73973,7 +74137,7 @@
         "slug": "morality",
         "path": "content/book/morality.md",
         "title": "善恶界限与共情陷阱 / Moral Boundaries and the Empathy Trap",
-        "hash": "fa8a9103175f",
+        "hash": "aaee6cdba130",
         "out_degree": 28
       },
       {
@@ -73982,7 +74146,7 @@
         "slug": "physics",
         "path": "content/book/physics.md",
         "title": "物理即定律的迷思 / The Myth of Physics Is the Law",
-        "hash": "26d82e9eb69f",
+        "hash": "7c86d385a9f8",
         "out_degree": 22
       },
       {
@@ -74000,7 +74164,7 @@
         "slug": "state-and-collective",
         "path": "content/book/state-and-collective.md",
         "title": "国家集体与权力的镜像 / The State, Collectives, and the Mirror of Power",
-        "hash": "d9f128760b3e",
+        "hash": "2ecf484eb720",
         "out_degree": 30
       },
       {
@@ -74018,7 +74182,7 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "bc3d12468c14",
+        "hash": "e6da90927c76",
         "out_degree": 34
       }
     ],
@@ -75965,7 +76129,7 @@
         "from": "book:index-of-premises",
         "to": "minimizing-path",
         "rel": "collects",
-        "label": "The Minimizing Path"
+        "label": "最小化路径 / The Minimizing Path"
       },
       {
         "from": "book:index-of-premises",
@@ -76595,7 +76759,7 @@
         "from": "book:index-of-premises",
         "to": "nobody-has-seen-anything-yet",
         "rel": "collects",
-        "label": "Nobody Has Seen Anything Yet"
+        "label": "还没有人见过任何东西 / Nobody Has Seen Anything Yet"
       },
       {
         "from": "book:index-of-premises",
@@ -76679,7 +76843,7 @@
         "from": "book:index-of-premises",
         "to": "reality-doesnt-invoice-by-committee",
         "rel": "collects",
-        "label": "Reality Doesn't Invoice by Committee"
+        "label": "现实不按委员会开账单 / Reality Doesn't Invoice by Committee"
       },
       {
         "from": "book:index-of-premises",
@@ -76709,7 +76873,7 @@
         "from": "book:index-of-premises",
         "to": "on-education",
         "rel": "collects",
-        "label": "On Education, Resonance, and Giving Someone the Real Thing"
+        "label": "论教育、共振与给人真东西 / On Education, Resonance, and Giving Someone the Real Thing"
       },
       {
         "from": "book:index-of-premises",
@@ -76799,7 +76963,7 @@
         "from": "book:index-of-premises",
         "to": "empathy-as-projection-collapse",
         "rel": "collects",
-        "label": "The Word Does the Damage: Empathy as Projection Collapse"
+        "label": "共情的投射坍缩 / Empathy as Projection Collapse"
       },
       {
         "from": "book:index-of-premises",
@@ -76949,7 +77113,7 @@
         "from": "book:index-of-premises",
         "to": "name-negation-tendency",
         "rel": "collects",
-        "label": "The Name-Negation Tendency"
+        "label": "名称背反倾向 / The Name-Negation Tendency"
       },
       {
         "from": "book:index-of-premises",
@@ -77351,7 +77515,7 @@
         "from": "book:index-of-premises",
         "to": "the-surface-beneath",
         "rel": "collects",
-        "label": "The Surface Beneath"
+        "label": "底层表面 / The Surface Beneath"
       },
       {
         "from": "book:index-of-premises",
@@ -77477,7 +77641,7 @@
         "from": "book:index-of-premises",
         "to": "sovereignty-essay",
         "rel": "collects",
-        "label": "Surrender as Misaligned Sovereignty"
+        "label": "臣服作为错位的主权 / Surrender as Misaligned Sovereignty"
       },
       {
         "from": "book:index-of-premises",
@@ -78899,7 +79063,7 @@
         "from": "book:intelligence",
         "to": "name-negation-tendency",
         "rel": "collects",
-        "label": "The Name-Negation Tendency"
+        "label": "名称背反倾向 / The Name-Negation Tendency"
       },
       {
         "from": "book:intelligence",
@@ -79145,7 +79309,7 @@
         "from": "book:knowledge-and-learning",
         "to": "on-education",
         "rel": "collects",
-        "label": "On Education, Resonance, and Giving Someone the Real Thing"
+        "label": "论教育、共振与给人真东西 / On Education, Resonance, and Giving Someone the Real Thing"
       },
       {
         "from": "book:knowledge-and-learning",
@@ -79403,7 +79567,7 @@
         "from": "book:mathematics",
         "to": "the-surface-beneath",
         "rel": "collects",
-        "label": "The Surface Beneath"
+        "label": "底层表面 / The Surface Beneath"
       },
       {
         "from": "book:mathematics",
@@ -79763,7 +79927,7 @@
         "from": "book:morality",
         "to": "empathy-as-projection-collapse",
         "rel": "collects",
-        "label": "The Word Does the Damage: Empathy as Projection Collapse"
+        "label": "共情的投射坍缩 / Empathy as Projection Collapse"
       },
       {
         "from": "book:morality",
@@ -79913,7 +80077,7 @@
         "from": "book:physics",
         "to": "minimizing-path",
         "rel": "collects",
-        "label": "The Minimizing Path"
+        "label": "最小化路径 / The Minimizing Path"
       },
       {
         "from": "book:physics",
@@ -80081,13 +80245,13 @@
         "from": "book:state-and-collective",
         "to": "sovereignty-essay",
         "rel": "collects",
-        "label": "Surrender as Misaligned Sovereignty"
+        "label": "臣服作为错位的主权 / Surrender as Misaligned Sovereignty"
       },
       {
         "from": "book:state-and-collective",
         "to": "reality-doesnt-invoice-by-committee",
         "rel": "collects",
-        "label": "Reality Doesn't Invoice by Committee"
+        "label": "现实不按委员会开账单 / Reality Doesn't Invoice by Committee"
       },
       {
         "from": "book:state-and-collective",
@@ -80471,7 +80635,7 @@
         "from": "book:tools-and-progress",
         "to": "nobody-has-seen-anything-yet",
         "rel": "collects",
-        "label": "Nobody Has Seen Anything Yet"
+        "label": "还没有人见过任何东西 / Nobody Has Seen Anything Yet"
       },
       {
         "from": "book:tools-and-progress",

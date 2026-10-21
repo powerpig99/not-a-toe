@@ -1518,7 +1518,7 @@ Praxeology presumes purposeful human action underlies economic value; invaluable
 
 Least action assumes nature inherently seeks optimal paths; it is a variational formalism describing macroscopic trajectories across frames without conscious design.
 
-→ [The Minimizing Path](../../posts/minimizing-path/)
+→ [最小化路径 / The Minimizing Path](../../posts/minimizing-path/)
 
 ### 他心问题 / Problem of Other Minds
 `哲学 / Philosophical`
@@ -2285,7 +2285,7 @@ The closed-world assumption asserts that what is unlisted by a formal system doe
 
 Shallow assessments judge AI by conversational chat novelty; embedding intelligence as epistemic infrastructure fundamentally rewrites scientific and industrial workflows.
 
-→ [Nobody Has Seen Anything Yet](../../posts/nobody-has-seen-anything-yet/)
+→ [还没有人见过任何东西 / Nobody Has Seen Anything Yet](../../posts/nobody-has-seen-anything-yet/)
 
 ### 认知支架 / Cognitive Scaffolding
 `技术 / Technological`
@@ -2393,7 +2393,7 @@ Empirical physicalism presumes consciousness can appear as an observable variabl
 
 Committee governance assumes social agreement dictates functional viability; physical friction exacts consequences on system integrity irrespective of voting consensus.
 
-→ [Reality Doesn't Invoice by Committee](../../posts/reality-doesnt-invoice-by-committee/)
+→ [现实不按委员会开账单 / Reality Doesn't Invoice by Committee](../../posts/reality-doesnt-invoice-by-committee/)
 
 ### 约束作为生成之源 / Constraint as Generative Ground
 `哲学 / Philosophical`
@@ -2438,7 +2438,7 @@ Optimizing cost in isolation assumes output value remains invariant; stripping a
 
 Standardized education presumes knowledge consists of modular syllabi; it transmits informational containers while filtering out living friction and individual curiosity.
 
-→ [On Education, Resonance, and Giving Someone the Real Thing](../../posts/on-education/)
+→ [论教育、共振与给人真东西 / On Education, Resonance, and Giving Someone the Real Thing](../../posts/on-education/)
 
 ### 防御性隐形外部归因 / Defensive External Attribution
 `成功学 / Self-Help`
@@ -2573,7 +2573,7 @@ Theological dogmas project evil as an invasive demonic entity; malice originates
 
 Moral empathy assumes feeling another's distress guarantees ethical action; it often projects one's own emotional models, substituting self-referential resonance for real understanding.
 
-→ [The Word Does the Damage: Empathy as Projection Collapse](../../posts/empathy-as-projection-collapse/)
+→ [共情的投射坍缩 / Empathy as Projection Collapse](../../posts/empathy-as-projection-collapse/)
 
 ### 赋权即授予能力 / Empowerment as Conferral of Capacity
 `意识形态 / Ideological`
@@ -2780,7 +2780,7 @@ Prescribing a standard form for learning and citing masters' names to back one's
 
 Mission statements assume founders' values govern long-term behavior; organizations inevitably shift priorities toward resource acquisition and self-perpetuation.
 
-→ [The Name-Negation Tendency](../../posts/name-negation-tendency/)
+→ [名称背反倾向 / The Name-Negation Tendency](../../posts/name-negation-tendency/)
 
 ### 已知未知四象限 / Four Quadrants of Known and Unknown
 `哲学 / Philosophical`
@@ -3311,7 +3311,7 @@ The felt loss of curiosity presumes that the generative tendency declines with a
 
 Gradient descent assumes continuous differentiability across solutions; stepping along local slopes excels in smooth manifolds, yet cannot jump to unmodeled dimensions.
 
-→ [The Surface Beneath](../../posts/the-surface-beneath/)
+→ [底层表面 / The Surface Beneath](../../posts/the-surface-beneath/)
 
 ### 确定性作为微观不确定性的统计签名 / Macroscopic Determinism as Statistical Signature
 `科学 / Scientific`
@@ -3482,7 +3482,7 @@ Treating infinity as an already completed totality that can be gathered in one g
 
 Statist political theory locates sovereignty exclusively in legal institutions; sovereignty resides irreducibly in living minds choosing where to grant or withdraw compliance.
 
-→ [Surrender as Misaligned Sovereignty](../../posts/sovereignty-essay/)
+→ [臣服作为错位的主权 / Surrender as Misaligned Sovereignty](../../posts/sovereignty-essay/)
 
 ### 人工智能的神性错置 / Misallocated Sentience of AI
 `技术 / Technological`

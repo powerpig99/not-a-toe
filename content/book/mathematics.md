@@ -13,7 +13,7 @@ These essays explore hierarchies of infinity, self-referential paradoxes, and th
 ## 篇目 / Essays
 
 - [保真度而非最优化 / Fidelity, Not Optimality](../../posts/fidelity-not-optimality/)
-- [The Surface Beneath](../../posts/the-surface-beneath/)
+- [底层表面 / The Surface Beneath](../../posts/the-surface-beneath/)
 - [复杂性遮蔽了涌现之为心智的行动 / Complexity Obscures Emergence as the Act of Mind](../../posts/complexity-obscures-emergence-as-the-act-of-mind/)
 - [没有系统能被保持封闭 / No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/)
 - [开放场域中的无损知识不自洽 / Lossless Knowledge of an Open Field Is Incoherent](../../posts/lossless-knowledge-of-an-open-field-is-incoherent/)

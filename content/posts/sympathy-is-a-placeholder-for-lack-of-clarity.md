@@ -40,7 +40,7 @@ A common counsel puts the order cleanly: give yourself clarity, not sympathy, fo
 
 Treating the feeling as evidence of contact turns an unfinished task of distinguishing into a declared arrival. The word then stands in for the clarity no longer being sought. Axes that had begun independent—further resolution of the observable situation, predictions tested against new traces, telling transient tone from recurring pattern, separating one's own load from the other's—collapse onto a single consoling axis labeled care, pity, or shared pain. Because the feeling is intense, the capacity compression presents as virtue rather than as a substitution.
 
-[词语造成伤害：共情是投射的坍缩](../empathy-as-projection-collapse/)追溯公共词语中同样的压缩。“共情”命名了三种正交的操作：感知的拓宽（对自己所接收之物的私人扩展）、社会信号，以及关系定位。在公共坐标中，拓宽脱落了，因为它没有什么可展示的，留下信号与定位占据了这个词。麻烦在词语的几何里，不在任何人的品格里。同情是私人一侧相应的冻结：感受被持守为接触的证据，于是那份本会区分更多痕迹的感知拓宽停了下来。
+[共情的投射坍缩](../empathy-as-projection-collapse/)追溯公共词语中同样的压缩。“共情”命名了三种正交的操作：感知的拓宽（对自己所接收之物的私人扩展）、社会信号，以及关系定位。在公共坐标中，拓宽脱落了，因为它没有什么可展示的，留下信号与定位占据了这个词。麻烦在词语的几何里，不在任何人的品格里。同情是私人一侧相应的冻结：感受被持守为接触的证据，于是那份本会区分更多痕迹的感知拓宽停了下来。
 
 [The Word Does the Damage: Empathy as Projection Collapse](../empathy-as-projection-collapse/) traces the same compression in the public word. "Empathy" names three orthogonal operations: perceptual widening (a private expansion of what one takes in), social signaling, and relational positioning. In public coordinates widening drops out because it has nothing to display, leaving signaling and positioning to occupy the term. The trouble lies in the geometry of the word, not in anyone's character. Sympathy is the corresponding freeze on the private side: the feeling held as evidence of contact, so that the perceptual widening that would distinguish further traces stops.
 
