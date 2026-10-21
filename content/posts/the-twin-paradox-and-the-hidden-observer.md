@@ -48,15 +48,15 @@ That explanation keeps circling here can be traced to one assumption in the mode
 
 Facing this geometric body, the one who calculates stands outside it, integrates proper time along two worldlines, finds that the bent one accumulates a smaller number than the straight one, and says: the travelling twin is younger and has arrived in the future. This inference reads a projection parameter on a coordinate as living causal time.
 
-时空块的可信感来自对当下的冻结与再投影。直接经验到的只有当下这一个切片，好比电影胶片上的一格；它扎在最直接的经验里，所以显得可信。接下来的操作是把这一格冻结，在数学上拉伸、再投影成一个四维的体。在拉伸出来的静态几何体里，可以画任意的曲线，并把其中任何一条称为世界线；度规张量、联络、测地线方程，这些工具都是在这张投影出的画布上记账。
+时空块的可信感来自对当下的冻结与再投影。直接经验到的只有当下这一个切片，好比电影胶片上的一格；它扎在最直接的经验里，所以显得可信。接下来的操作是把这一格冻结，在数学上拉伸、再投影成一个四维的体。在拉伸出来的静态几何体里，可以画任意的曲线，并把其中任何一条称为世界线；度规张量、联络、测地线方程，这些工具都是在这张投影出的画布上记账，正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的：唯有栈外那个未被投射的观察者先行落下用作比较基准的参照切分，参考系、时空图与形式化的记忆代码库才会把过往区分的不变量记录下来。
 
-The credibility of the block comes from freezing the present and projecting it again. Only this one slice of the present is directly experienced, like a single frame on a strip of film; it is rooted in the most immediate experience, and so it seems credible. The next operation freezes this frame and, in mathematics, stretches and re-projects it into a four-dimensional body. Inside the stretched static body any curve can be drawn and any one of them called a worldline; metric tensors, connections, and geodesic equations are all bookkeeping done on this projected canvas.
+The credibility of the block comes from freezing the present and projecting it again. Only this one slice of the present is directly experienced, like a single frame on a strip of film; it is rooted in the most immediate experience, and so it seems credible. The next operation freezes this frame and, in mathematics, stretches and re-projects it into a four-dimensional body. Inside the stretched static body any curve can be drawn and any one of them called a worldline; metric tensors, connections, and geodesic equations are all bookkeeping done on this projected canvas, just as [Your Codebase Is Memory](../your-codebase-is-memory/) traces how coordinate frames, spacetime diagrams, and formal codebases of memory record the invariants of prior distinctions only after an unprojected observer outside the stack has already chosen the reference cut that anchors the comparison.
 
-洛伦兹变换里的时间坐标 t 是一件记账工具，用来在不同的观测框架之间对齐读数。[维度即投影](../dimensions-are-projections/)指出，维度是心智用来压缩关系的方式，不是可以走进去的长廊，而要把任何一个 N 维坐标空间界定为已经完成的对象，都离不开一个站在其坐标轴之外的第 N + 1 维观察点。[超越投射](../beyond-the-projection/)在有限的投射引擎与未被投射的心智之间追溯了同一道结构边界：形式的轨迹或演绎模型在固定坐标窗口的规则之内运行，无法跨出自己正在计算的序列；因此，当两个彼此正交的事实——这里是两体关系的对称性与切换参考系的不对称切分——被压进同一个低维流形时，演绎就会浮现出表面上的佯谬，唯有退回那个画出网格、落下切分的未被投射的第一人称观察者，佯谬才能消解。把静态几何体里不同线条的度规长度之差读成身体的年轻与衰老，是把地图读成了疆域。
+洛伦兹变换里的时间坐标 t 是一件记账工具，用来在不同的观测框架之间对齐读数。[维度即投影](../dimensions-are-projections/)指出，维度是心智用来压缩关系的方式，不是可以走进去的长廊，而要把任何一个 N 维坐标空间界定为已经完成的对象，都离不开一个站在其坐标轴之外的第 N + 1 维观察点。[超越投射](../beyond-the-projection/)在有限的投射引擎与未被投射的心智之间追溯了同一道结构边界：形式的轨迹或演绎模型在固定坐标窗口的规则之内运行，无法跨出自己正在计算的序列；因此，当两个彼此正交的事实——这里是两体关系的对称性与切换参考系的不对称切分——被压进同一个低维流形时，演绎就会浮现出表面上的佯谬；唯有退回栈外那个未被投射、亲手画出网格并落下切分的第一人称观察者，佯谬才能消解。把静态几何体里不同线条的度规长度之差读成身体的年轻与衰老，是把地图读成了疆域。
 
 ```mermaid
 flowchart TD
-    subgraph S_Edge["未被投射的第一人称边缘（更高一维的观察点）"]
+    subgraph S_Edge["未被投射的第一人称边缘（第 N + 1 维观察点）"]
         direction TB
         E_Now["不可分割的当下：原点处不停息的因果展开与活生生的感知"]
         E_Cut["隐秘观察者：画出坐标网格，落下切换参考系的切分"]

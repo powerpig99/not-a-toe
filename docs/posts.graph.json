@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T04:56:56.523Z",
+    "generated_at": "2026-10-21T05:07:52.683Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -34,7 +34,7 @@
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "315e72100b1f",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "0dd35886e208",
       "content/posts/cheng-gong-xue.md": "ac78a83205fd",
-      "content/posts/choice-itself-has-no-inherent-weight.md": "7a90eb6da103",
+      "content/posts/choice-itself-has-no-inherent-weight.md": "61c4cff8bfbf",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "bf246a72a1cb",
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
@@ -90,7 +90,7 @@
       "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "0ea3bc80574b",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "49e11e207c1c",
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "1dda87ac659f",
-      "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "25587f1da276",
+      "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "93c650d4e105",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/guan-yu-gui-yin.md": "bca54998a846",
       "content/posts/guidance-is-not-ownership.md": "7d51a8692137",
@@ -114,7 +114,7 @@
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "b5bfd1bca0dc",
       "content/posts/looping-and-graphing.md": "81007251f9d4",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "edbfa0fe5c9b",
-      "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "753fa98ec858",
+      "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "d7b5f20a6f6a",
       "content/posts/manifesto-of-not-a-theory-of-everything.md": "218bcf935275",
       "content/posts/math-as-a-career-is-not-math-as-a-pursuit.md": "295f0ae6bd95",
       "content/posts/meaning-of-life-refined.md": "2157fd1da622",
@@ -146,7 +146,7 @@
       "content/posts/ontos-is-a-method-agent.md": "25df0d4d161c",
       "content/posts/open-vision-in-a-closed-arena.md": "c348a235e225",
       "content/posts/openness-is-consistency.md": "75ba5238a649",
-      "content/posts/order-surplus-and-the-moral-intercept.md": "6af5409d3970",
+      "content/posts/order-surplus-and-the-moral-intercept.md": "7cb3a1c5111c",
       "content/posts/overfitting-as-the-follower-mode.md": "c2ebb1c4e1e2",
       "content/posts/ownership-and-self-worthiness.md": "dfb40cb50651",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "5b46760873d0",
@@ -180,7 +180,7 @@
       "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "4f201d2f0e99",
       "content/posts/sensing-before-interpretation.md": "3a0e8a0a84ab",
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "7cfea3a2001a",
-      "content/posts/shared-humanity-is-never-shared.md": "e608879164b9",
+      "content/posts/shared-humanity-is-never-shared.md": "667dd03af694",
       "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "c742acb86d86",
       "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "bd2dd458c408",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
@@ -222,7 +222,7 @@
       "content/posts/the-comment-is-not-the-code.md": "8e17d5f4ad0e",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "3aed5a91fa9f",
       "content/posts/the-continuum-is-a-modeling-convenience.md": "3c2e3fff1d21",
-      "content/posts/the-continuum-of-the-fold.md": "acdea360c003",
+      "content/posts/the-continuum-of-the-fold.md": "bc2ed3454dd0",
       "content/posts/the-coordinators-category-error.md": "849cdeef9512",
       "content/posts/the-cut-moves-but-never-vanishes.md": "393f0fffe02c",
       "content/posts/the-defining-seat.md": "6c9a5b6b9658",
@@ -299,7 +299,7 @@
       "content/posts/the-mirage-of-the-infinite-totality.md": "591249e563df",
       "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "e91e8817edf2",
       "content/posts/the-mirror-handshake-of-power.md": "d87437fc547d",
-      "content/posts/the-misallocation-of-agency.md": "1e59326959da",
+      "content/posts/the-misallocation-of-agency.md": "b921b7fb3528",
       "content/posts/the-model-never-becomes-a-second-edge.md": "e05347b86c6c",
       "content/posts/the-moral-reversal-and-the-scripted-subject.md": "a614ebfdfda8",
       "content/posts/the-myth-of-population-collapse-explained.md": "9be9bfe9c763",
@@ -319,7 +319,7 @@
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "d85a0ec01465",
       "content/posts/the-power-law-of-surrendered-agency.md": "390d27c147c5",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "8c22e4938a6e",
-      "content/posts/the-price-of-closing-optionality.md": "fcdef4c1033e",
+      "content/posts/the-price-of-closing-optionality.md": "ce68a21742d8",
       "content/posts/the-question-that-installs-the-war.md": "6570c77251d5",
       "content/posts/the-ramble-within-the-ramble.md": "57566038f9e7",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "f5acf4cd7e1f",
@@ -355,12 +355,12 @@
       "content/posts/the-surface-beneath.md": "ef38ad5d61b5",
       "content/posts/the-three-shadows-of-the-cut.md": "dddbde671cad",
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
-      "content/posts/the-twin-paradox-and-the-hidden-observer.md": "f3bca3478db7",
+      "content/posts/the-twin-paradox-and-the-hidden-observer.md": "ff11efe3625a",
       "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "065bbf648c6e",
       "content/posts/the-unclosable-trace.md": "f4ad7fa5724b",
       "content/posts/the-unexamined-critic.md": "1cda1a733555",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "96d67d29d78d",
-      "content/posts/the-unobservable-driver-of-learning.md": "f4fc84bcab69",
+      "content/posts/the-unobservable-driver-of-learning.md": "16338781295d",
       "content/posts/the-utility-men-of-progress.md": "74816f95d229",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "778ea3bc6eea",
       "content/posts/the-velocity-of-visibility.md": "7a988e6f7355",
@@ -376,7 +376,7 @@
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "6522fd795814",
       "content/posts/trusting-the-reader-is-the-last-overstep.md": "1c8ded446ee2",
       "content/posts/two-failures-of-trace.md": "df2bfb498afc",
-      "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "381d2968b3c2",
+      "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "1a6b64a4d111",
       "content/posts/war-revolution-and-the-fall-of-empires.md": "1dc92e6428fc",
       "content/posts/what-always-listens-cannot-originate.md": "74d4cf0a4058",
       "content/posts/what-cannot-be-kept.md": "eb22bc2ed47d",
@@ -403,7 +403,7 @@
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "f1f3cd0266ec",
       "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "f23cfe1f4ca3",
       "content/posts/zi-you-de-ce-bu-zhun.md": "9adfc20af9ce",
-      "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "46323a1926a8",
+      "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "c0c80009ca9d",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "4537ed736e3a",
       "content/book/causality.md": "477893ec526b",
       "content/book/consciousness.md": "d8595aa6097d",
@@ -424,10 +424,10 @@
     },
     "stats": {
       "posts": 397,
-      "edges": 10082,
-      "unique_directed": 5005,
+      "edges": 10106,
+      "unique_directed": 5017,
       "missing_targets": 0,
-      "one_way": 503,
+      "one_way": 515,
       "isolated": 35,
       "posts_with_outbound": 361,
       "book_pages": 16,
@@ -442,7 +442,7 @@
     },
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 164
+      "in_degree": 176
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1328,14 +1328,15 @@
       "slug": "choice-itself-has-no-inherent-weight",
       "path": "content/posts/choice-itself-has-no-inherent-weight.md",
       "title": "抉择本身并不沉重 / Choice Itself Has No Inherent Weight",
-      "hash": "7a90eb6da103",
+      "hash": "61c4cff8bfbf",
       "in_degree": 12,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "beyond-the-projection",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
         "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+        "your-codebase-is-memory",
         "the-illusion-of-the-unmediated",
         "the-causal-inversion-of-partnership",
         "the-explanatory-trap-of-the-ordinary-perspective",
@@ -2642,9 +2643,9 @@
       "slug": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "path": "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md",
       "title": "善恶是硬币的两面与那一刀 / Good and Evil Are the Two Sides of the Coin and the Cut",
-      "hash": "25587f1da276",
+      "hash": "93c650d4e105",
       "in_degree": 12,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "evil-as-the-minds-own-creation",
         "pessimism-is-the-shadow-of-optimism",
@@ -2653,6 +2654,7 @@
         "preference-clusters-and-the-language-of-judgment",
         "moral-language-dilutes-the-feedback-that-scales-freedom",
         "mei-you-pu-du-zhi-you-zi-du",
+        "your-codebase-is-memory",
         "beyond-the-projection",
         "openness-is-consistency",
         "the-initial-distinction",
@@ -3323,15 +3325,16 @@
       "slug": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
       "path": "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md",
       "title": "路口的转向与地平说的行动悖论 / Turning at the Crossroad and the Flat-Earth Action Paradox",
-      "hash": "753fa98ec858",
+      "hash": "d7b5f20a6f6a",
       "in_degree": 9,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "the-mark-and-the-act",
         "climbing-does-not-leave-the-ground",
         "the-unexamined-critic",
         "the-walking-tangent-and-the-stumbling-sphere",
         "no-genius-can-solve-the-knowledge-problem",
+        "your-codebase-is-memory",
         "the-geometry-of-success",
         "cheng-gong-xue",
         "ownership-and-self-worthiness",
@@ -4164,9 +4167,9 @@
       "slug": "order-surplus-and-the-moral-intercept",
       "path": "content/posts/order-surplus-and-the-moral-intercept.md",
       "title": "秩序、剩余与道德拦截 / Order, Surplus, and the Moral Intercept",
-      "hash": "6af5409d3970",
+      "hash": "7cb3a1c5111c",
       "in_degree": 13,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "symptom-and-cause-in-the-narratives-of-progress",
         "the-illusion-of-free-intelligence",
@@ -4176,6 +4179,7 @@
         "causality-all-the-way",
         "production-consumption-and-the-minds-distinction",
         "technology-is-residual-of-human-compounding",
+        "your-codebase-is-memory",
         "ownership-and-self-worthiness",
         "the-causal-order-of-private-residuals-and-social-surplus",
         "when-need-stops-being-the-measure",
@@ -5052,9 +5056,9 @@
       "slug": "shared-humanity-is-never-shared",
       "path": "content/posts/shared-humanity-is-never-shared.md",
       "title": "共同的人性从不共享 / Shared Humanity Is Never Shared",
-      "hash": "e608879164b9",
+      "hash": "667dd03af694",
       "in_degree": 14,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
         "the-source-of-shared-change",
@@ -5067,6 +5071,7 @@
         "externalized-virtue-becomes-its-opposite",
         "the-belief-in-utopia-is-the-path-to-dystopia",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
+        "your-codebase-is-memory",
         "shared-consciousness-is-intersecting-individualities",
         "self-image-speaks-as-if-from-nowhere",
         "the-real-lesson-from-the-consciousness-vector-paper"
@@ -6093,11 +6098,12 @@
       "slug": "the-continuum-of-the-fold",
       "path": "content/posts/the-continuum-of-the-fold.md",
       "title": "折叠的连续谱 / The Continuum of the Fold",
-      "hash": "acdea360c003",
+      "hash": "bc2ed3454dd0",
       "in_degree": 11,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "the-geometry-of-mind",
+        "your-codebase-is-memory",
         "the-model-never-becomes-a-second-edge",
         "the-cut-moves-but-never-vanishes",
         "when-electrons-think",
@@ -7772,9 +7778,9 @@
       "slug": "the-misallocation-of-agency",
       "path": "content/posts/the-misallocation-of-agency.md",
       "title": "能动性的错配 / The Misallocation of Agency",
-      "hash": "1e59326959da",
+      "hash": "b921b7fb3528",
       "in_degree": 14,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "expertise-as-reference-not-replacement",
@@ -7784,6 +7790,7 @@
         "a-creation-cannot-replace-its-source",
         "the-mind-that-statistics-cannot-reveal",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "empowerment-establishes-the-centralization-of-power",
         "residual-individualism",
         "freedom-as-ground",
@@ -8272,13 +8279,14 @@
       "slug": "the-price-of-closing-optionality",
       "path": "content/posts/the-price-of-closing-optionality.md",
       "title": "关闭选择权的代价 / The Price of Closing Optionality",
-      "hash": "fcdef4c1033e",
+      "hash": "ce68a21742d8",
       "in_degree": 13,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "the-risk-is-the-belief-in-oversight-itself",
         "openness-is-consistency",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "the-reality-distortion-field-names-the-closed-map",
         "the-reality-distortion-field-inverts-the-baseline",
@@ -9198,13 +9206,14 @@
       "slug": "the-twin-paradox-and-the-hidden-observer",
       "path": "content/posts/the-twin-paradox-and-the-hidden-observer.md",
       "title": "双生子佯谬与隐秘观察者 / The Twin Paradox and the Hidden Observer",
-      "hash": "f3bca3478db7",
+      "hash": "ff11efe3625a",
       "in_degree": 12,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "the-illusion-of-the-shared-sandbox",
         "the-cut-moves-but-never-vanishes",
+        "your-codebase-is-memory",
         "dimensions-are-projections",
         "beyond-the-projection",
         "demanding-a-toe-freezes-time-into-a-catalog",
@@ -9327,9 +9336,9 @@
       "slug": "the-unobservable-driver-of-learning",
       "path": "content/posts/the-unobservable-driver-of-learning.md",
       "title": "学习中不可观测的驱动力 / The Unobservable Driver of Learning",
-      "hash": "f4fc84bcab69",
+      "hash": "16338781295d",
       "in_degree": 14,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
         "studying-the-effect-of-ai-relocates-causality",
@@ -9344,7 +9353,8 @@
         "stability-and-excess",
         "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
         "the-paradoxical-nature-of-bystander-insights",
-        "the-npc-impression-is-structural"
+        "the-npc-impression-is-structural",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -9662,12 +9672,13 @@
       "slug": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "path": "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md",
       "title": "外部归因是个人进步的障碍 / External Attribution Is the Obstacle to Personal Growth",
-      "hash": "381d2968b3c2",
+      "hash": "1a6b64a4d111",
       "in_degree": 14,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
+        "your-codebase-is-memory",
         "guan-yu-gui-yin",
         "emotional-support-as-causal-interference",
         "when-the-effect-authors-the-frame",
@@ -10208,7 +10219,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 164,
+      "in_degree": 176,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -10330,9 +10341,9 @@
       "slug": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "path": "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md",
       "title": "自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution",
-      "hash": "46323a1926a8",
+      "hash": "c0c80009ca9d",
       "in_degree": 15,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "the-scaffolding-that-keeps-growing",
         "the-unfrictioned-mind-and-borrowed-omnipotence",
@@ -10340,6 +10351,7 @@
         "zi-you-de-ce-bu-zhun",
         "self-image-speaks-as-if-from-nowhere",
         "the-fixed-image-of-transcendence",
+        "your-codebase-is-memory",
         "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
         "curiosity-has-no-final-form",
         "causality-all-the-way",
@@ -14977,9 +14989,21 @@
     },
     {
       "from": "choice-itself-has-no-inherent-weight",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "choice-itself-has-no-inherent-weight",
       "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "rel": "points_to",
       "label": "The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation"
+    },
+    {
+      "from": "choice-itself-has-no-inherent-weight",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "choice-itself-has-no-inherent-weight",
@@ -22831,6 +22855,18 @@
     },
     {
       "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "超越投射"
@@ -27529,6 +27565,12 @@
     },
     {
       "from": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
       "to": "the-geometry-of-success",
       "rel": "points_to",
       "label": "成功的几何学：有限游戏陷阱"
@@ -27538,6 +27580,12 @@
       "to": "cheng-gong-xue",
       "rel": "points_to",
       "label": "成功学"
+    },
+    {
+      "from": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
@@ -33121,6 +33169,12 @@
     },
     {
       "from": "order-surplus-and-the-moral-intercept",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
       "to": "causality-all-the-way",
       "rel": "points_to",
       "label": "Causality All the Way"
@@ -33136,6 +33190,12 @@
       "to": "technology-is-residual-of-human-compounding",
       "rel": "points_to",
       "label": "Technology Is Residual of Human Compounding"
+    },
+    {
+      "from": "order-surplus-and-the-moral-intercept",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "order-surplus-and-the-moral-intercept",
@@ -38989,6 +39049,12 @@
     },
     {
       "from": "shared-humanity-is-never-shared",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "shared-humanity-is-never-shared",
       "to": "shared-consciousness-is-intersecting-individualities",
       "rel": "points_to",
       "label": "共享意识是个体性的交集"
@@ -39004,6 +39070,12 @@
       "to": "the-real-lesson-from-the-consciousness-vector-paper",
       "rel": "points_to",
       "label": "意识向量论文的真正教训"
+    },
+    {
+      "from": "shared-humanity-is-never-shared",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "shared-humanity-is-never-shared",
@@ -44971,9 +45043,21 @@
     },
     {
       "from": "the-continuum-of-the-fold",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-continuum-of-the-fold",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "the-continuum-of-the-fold",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-continuum-of-the-fold",
@@ -54463,9 +54547,21 @@
     },
     {
       "from": "the-misallocation-of-agency",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-misallocation-of-agency",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-misallocation-of-agency",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-misallocation-of-agency",
@@ -57598,6 +57694,18 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-price-of-closing-optionality",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-price-of-closing-optionality",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-price-of-closing-optionality",
@@ -63625,6 +63733,18 @@
     },
     {
       "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-twin-paradox-and-the-hidden-observer",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-twin-paradox-and-the-hidden-observer",
       "to": "dimensions-are-projections",
       "rel": "points_to",
       "label": "维度即投影"
@@ -64594,6 +64714,18 @@
       "to": "the-npc-impression-is-structural",
       "rel": "points_to",
       "label": "The NPC Impression Is Structural, Not a Ranking of Minds"
+    },
+    {
+      "from": "the-unobservable-driver-of-learning",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-unobservable-driver-of-learning",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-utility-men-of-progress",
@@ -66595,6 +66727,12 @@
     },
     {
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "to": "guan-yu-gui-yin",
       "rel": "points_to",
       "label": "关于归因"
@@ -66610,6 +66748,12 @@
       "to": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
       "rel": "points_to",
       "label": "Life as a Continuous Process of Self-Iteration"
+    },
+    {
+      "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
@@ -70651,6 +70795,12 @@
     },
     {
       "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "to": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
       "rel": "points_to",
       "label": "投资决策的因果闭环"
@@ -70666,6 +70816,12 @@
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
       "label": "The Fixed Image of Transcendence"
+    },
+    {
+      "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
