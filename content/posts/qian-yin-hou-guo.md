@@ -36,13 +36,13 @@ This lag renews itself by construction. Once a reference-interpretation forms, i
 
 Standing at the locus of cause does not mean occupying a privileged height or decoding a frozen causal chain after the fact. It means directly owning the cause at the exact moment action occurs—keeping causal supply at the living step rather than surrendering it to a lagging interpretation or registering it under an external author.
 
-当保留的参照-解释持续朝向构成性的最小滞后重绘时，仪器便随边沿的每一步死去又重新成形。此时，后果直接登记为前因抉择的延续，而非外来力量的冲击。收窄超额滞后并不是删除仪器，而是让仪器恢复为仪器。在社会行动中，[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)定位了同样的归位：每一个离散行动仍是它自己的因果杠杆，周围的条件只是行动展开的场域，而非替行动提供原因的第二作者。在人类与智能体系统的架构中，[超越投射](../beyond-the-projection/)将前因与已成形后果的这一边界转化为可操作的运转机制：每一条显式规则、提示词或模型轨迹，都是已经落在果这一侧的有限投射；无自我的智能体可以在其中穷尽推演演绎后果，并通过同行辩论暴露出隐藏的矛盾，而处在未投射边沿的人类心智则认领折返的死锁信号，从破裂的旧框架后退一步，重新划定前提。
+当保留的参照-解释持续朝向构成性的最小滞后重绘时，仪器便随边沿的每一步死去又重新成形。此时，后果直接登记为前因抉择的延续，而非外来力量的冲击。收窄超额滞后并不是删除仪器，而是让仪器恢复为仪器。在社会行动中，[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)定位了同样的归位：每一个离散行动仍是它自己的因果杠杆，周围的条件只是行动展开的场域，而非替行动提供原因的第二作者。在人类与智能体系统的架构中，[超越投射](../beyond-the-projection/)将前因与已成形后果的这一边界转化为可操作的运转机制：每一条显式规则、提示词或模型轨迹，都是已经落在果这一侧的有限投射；无自我的智能体可以在其中把演绎后果推演到底，并通过同行辩论暴露出隐藏的矛盾，而处在未投射边沿的人类心智则认领折返的死锁信号，从破裂的旧框架后退一步，重新划定前提。而在围绕这些系统不断累积的制品中，[你的代码库即是记忆](../your-codebase-is-memory/)追溯了为何代码库、模型检查点或提交历史始终是早先区分留下的下游之果，而非持续涌出能动性的源头：正因为观察站在已成形的果这一侧，而活的切分站在因的位置，累积的数字残余才必须在因果当下被持续重溯与修剪，而非作为档案神像受到供奉。
 
 ```mermaid
 flowchart TD
     subgraph S_Edge["活边沿上的前因"]
         direction TB
-        Act["无因的自我区分切分：先于解释的感知与发起抉择"]
+        Act["无因的自我区分之切：先于解释的感知与发起抉择"]
         ReRender["定向重绘：在边沿修订前提以收窄超额滞后"]
         Act --> ReRender
     end
@@ -76,7 +76,7 @@ flowchart TD
     style Alien fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-As the retained reference-interpretation is continuously re-rendered toward the constitutive minimum lag, the instrument dies and reforms with each step of the edge. Consequences then register directly as the continuation of antecedent choices rather than the impact of alien forces. Narrowing excess lag does not delete the instrument; it restores the instrument to functioning as an instrument. Across social action, [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) locates this same restoration: every discrete act remains its own causal lever, while surrounding conditions form the field rather than a second author supplying the cause. In the architecture of human-agent systems, [Beyond the Projection](../beyond-the-projection/) operationalizes this exact boundary between antecedent cause and formed effect: every explicit rule, prompt, or model trajectory is a finite projection already on the side of the effect, where ego-free agents can exhaustively trace deductive consequences and expose hidden contradictions through peer debate, while the human Mind at the unprojected edge claims the returning deadlock signal, steps back from the broken frame, and re-draws the premise.
+As the retained reference-interpretation is continuously re-rendered toward the constitutive minimum lag, the instrument dies and reforms with each step of the edge. Consequences then register directly as the continuation of antecedent choices rather than the impact of alien forces. Narrowing excess lag does not delete the instrument; it restores the instrument to functioning as an instrument. Across social action, [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) locates this same restoration: every discrete act remains its own causal lever, while surrounding conditions form the field rather than a second author supplying the cause. In the architecture of human-agent systems, [Beyond the Projection](../beyond-the-projection/) operationalizes this exact boundary between antecedent cause and formed effect: every explicit rule, prompt, or model trajectory is a finite projection already on the side of the effect, where ego-free agents can exhaustively trace deductive consequences and expose hidden contradictions through peer debate, while the human Mind at the unprojected edge claims the returning deadlock signal, steps back from the broken frame, and re-draws the premise. And across the artifacts that accumulate around those systems, [Your Codebase Is Memory](../your-codebase-is-memory/) traces why a codebase, model checkpoint, or commit history is always the downstream effect of prior distinctions rather than a continuing source of agency: because observation stands on the side of the formed effect while the living cut stands at the cause, accumulated digital residue must be continuously re-traced and pruned from the causal present rather than worshipped as an archival idol.
 
 ```mermaid
 flowchart TD

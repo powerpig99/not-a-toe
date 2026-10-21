@@ -82,13 +82,13 @@ The scalar reading of a vector v projected onto a given axis û depends on two 
 
 Rotating angle alone is a closed zero-sum game. When magnitude does not grow, pivoting back and forth across external axes merely shifts a fixed budget of energy from one coordinate to another. Worse, conforming to shifting external standards requires continuous posture management, social performance, and persona trimming, dissipating live energy into friction that builds zero generative capacity and steadily erodes the core magnitude. Because a high-dimensional space offers countless angles of rotation, frantic pivoting—chasing each new track, switching personas across circles, and optimizing surface alignment—readily masquerades as growth, even as the underlying ability to resolve real friction quietly atrophies.
 
-最深层的陷阱，是把投影坐标误当成向量本身。因为社会在财富、职级、制度权力与公众掌声这几根低维轴上画好了清晰的刻度，一个中心很容易把自己当成这些轨道上的一个标量，为了最大化单一读数而砍掉自身未被测量、自由生长的其余维度，活成一张扁平的剪影。反之，仅凭有限的投影也无法逆向拼回那个活的向量。每一道低维影子都丢弃了垂直于该轴的正交残差；试图从外部读数把整体重新拼凑起来，只会拼出一副彼此抵牾、无法调和的残局。正如[向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/)所追溯的，心智同时是有向的向量与自身坐标基底的生成器；而[超越投射](../beyond-the-projection/)则展示了这一几何结构如何在人类与智能体架构中运作：机器智能体作为无自我的投射引擎，能够通过平级辩论暴露局部盲区，并在正交的流线之间隔离出前提死锁，但任何有限投射的组合都无法自下而上合成出未被投射的意图。唯有处在掌舵边缘的活的心智，才持有那个未被投射的向量，在低维规则相撞之处接住返回的摩擦，并向后退一步，将维度基底从 N 拓展到 N + 1。
+最深层的陷阱，是把投影坐标误当成向量本身。因为社会在财富、职级、制度权力与公众掌声这几根低维轴上画好了清晰的刻度，一个中心很容易把自己当成这些轨道上的一个标量，为了最大化单一读数而砍掉自身未被测量、自由生长的其余维度，活成一张扁平的剪影。反之，仅凭有限的投影也无法逆向拼回那个活的向量。每一道低维影子都丢弃了垂直于该轴的正交残差；试图从外部读数把整体重新拼凑起来，只会拼出一副彼此抵牾、无法调和的残局。正如[向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/)所追溯的，心智同时是有向的向量与自身坐标基底的生成器；而[超越投射](../beyond-the-projection/)则展示了这一几何结构如何在人类与智能体架构中运作：机器智能体作为无自我的投射引擎，能够通过平级辩论暴露局部盲区，并在正交的流线之间隔离出前提死锁，但任何有限投射的组合都无法自下而上合成出未被投射的意图。正如[你的代码库即是记忆](../your-codebase-is-memory/)所揭示的，代码库里的单个文件、提示词与检查点，同样是心智活的前提所投下的低维投影；孤立地看，它们像是彼此竞争的碎片，唯有从那未被投射的源头加以整固与重切，它们才能保持连贯。唯有处在掌舵边缘的活的心智，才持有那个未被投射的向量，在低维规则相撞之处接住返回的摩擦，并向后退一步，将维度基底从 N 拓展到 N + 1。
 
 ```mermaid
 flowchart TD
     subgraph S_Puzzle["有限投影孤立拼图的迷局"]
         direction TB
-        P_Slice["低维切片：向量模长与夹角 θ 被压缩进扁平坐标轴"]
+        P_Slice["低维切片：向量模长 ‖v‖ 与夹角 θ 被压缩进扁平坐标轴"]
         P_Rot["零和角度空转：姿态微调（θ → 0）与最大公约数坍缩"]
         P_Dead["投影死锁：彼此矛盾的低维影子无法自下而上重构向量"]
         P_Slice --> P_Rot --> P_Dead
@@ -98,7 +98,7 @@ flowchart TD
         direction TB
         B_Peer["正交参照投影：独立探测器与无自我智能体暴露局部盲区"]
         B_Mind["掌舵边缘的活的心智：持有未投射向量并承接返回的摩擦"]
-        B_Expand["维度基底拓展（加一升维）：增长核心模长并开启新正交轴"]
+        B_Expand["维度基底拓展（N → N + 1）：增长核心模长 ‖v‖ 并开启新正交轴"]
         B_Peer --> B_Mind --> B_Expand
     end
 
@@ -114,7 +114,7 @@ flowchart TD
     style B_Expand fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The deepest trap is mistaking the projected coordinates for the vector itself. Because society paints clear tick marks along a few low-dimensional axes—wealth, rank, institutional power, and public applause—a center easily comes to treat itself as a scalar on those tracks, lopping off its own unmeasured, freely growing dimensions to maximize a single reading and living as a flat silhouette. Nor can the living vector ever be reassembled from its finite projections alone. Every low-dimensional shadow drops the orthogonal residual perpendicular to its axis; trying to piece the whole back together from outside readings produces a puzzle of irreconcilable contradictions. As [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) traces, the Mind is simultaneously the directed vector and the generator of its own coordinate basis, while [Beyond the Projection](../beyond-the-projection/) demonstrates how this geometry operates across human-agent architectures: machine agents function as ego-free projection engines that can expose local blind spots through peer debate and isolate premise deadlocks across orthogonal streamlines, yet no combination of finite projections can synthesize the unprojected intent from below. Only the living Mind at the steering edge holds the unprojected vector, claims the returning friction where low-dimensional rules collide, and steps backward to expand the dimensional basis from N to N + 1.
+The deepest trap is mistaking the projected coordinates for the vector itself. Because society paints clear tick marks along a few low-dimensional axes—wealth, rank, institutional power, and public applause—a center easily comes to treat itself as a scalar on those tracks, lopping off its own unmeasured, freely growing dimensions to maximize a single reading and living as a flat silhouette. Nor can the living vector ever be reassembled from its finite projections alone. Every low-dimensional shadow drops the orthogonal residual perpendicular to its axis; trying to piece the whole back together from outside readings produces a puzzle of irreconcilable contradictions. As [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) traces, the Mind is simultaneously the directed vector and the generator of its own coordinate basis, while [Beyond the Projection](../beyond-the-projection/) demonstrates how this geometry operates across human-agent architectures: machine agents function as ego-free projection engines that can expose local blind spots through peer debate and isolate premise deadlocks across orthogonal streamlines, yet no combination of finite projections can synthesize the unprojected intent from below. As [Your Codebase Is Memory](../your-codebase-is-memory/) shows, individual files, prompts, and checkpoints in a codebase are likewise low-dimensional projections of the Mind's living premise; taken in isolation they look like competing fragments, and they stay coherent only when consolidated and re-cut from the unprojected source. Only the living Mind at the steering edge holds the unprojected vector, claims the returning friction where low-dimensional rules collide, and steps backward to expand the dimensional basis from N to N + 1.
 
 ```mermaid
 flowchart TD

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T04:14:27.067Z",
+    "generated_at": "2026-10-21T04:29:57.833Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -33,7 +33,7 @@
       "content/posts/causality-and-the-irreducible-prior.md": "b7567896ebac",
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "315e72100b1f",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "0dd35886e208",
-      "content/posts/cheng-gong-xue.md": "a5a16fe66184",
+      "content/posts/cheng-gong-xue.md": "ac78a83205fd",
       "content/posts/choice-itself-has-no-inherent-weight.md": "7a90eb6da103",
       "content/posts/chollet-intelligence-explosion-analysis.md": "9b4373bf6a3b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "bf246a72a1cb",
@@ -55,7 +55,7 @@
       "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "0ca36bdab435",
       "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "5bb90948a9c0",
       "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "1629917a17b9",
-      "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "788e4742c499",
+      "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "de3299fb5449",
       "content/posts/curiosity-has-no-final-form.md": "e59b53bce77e",
       "content/posts/cybersecurity-arms-race.md": "217058e6d844",
       "content/posts/data-is-local-intelligence-is-allocated.md": "add6923af446",
@@ -69,7 +69,7 @@
       "content/posts/efficiency-without-differentiation.md": "3e2aad7ba924",
       "content/posts/emotional-support-as-causal-interference.md": "502e2b0e04b1",
       "content/posts/empathy-as-projection-collapse.md": "48c21092f783",
-      "content/posts/empowerment-establishes-the-centralization-of-power.md": "7b9c7a3669a8",
+      "content/posts/empowerment-establishes-the-centralization-of-power.md": "88f2c8ef1bd8",
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "7085a1dd3e50",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "acd5f06bc9da",
@@ -101,7 +101,7 @@
       "content/posts/having-more-is-never-the-cause.md": "fff7b1e393f6",
       "content/posts/help-is-half-the-problem.md": "f9e3b1859fbc",
       "content/posts/hierarchy-from-individual-difference.md": "69e9c1301745",
-      "content/posts/how-belief-actually-changes.md": "69035a97e94a",
+      "content/posts/how-belief-actually-changes.md": "c5fe5bd1c82a",
       "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "9c200c5c4e2a",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "ac28f43f0e59",
@@ -163,7 +163,7 @@
       "content/posts/price-as-utterance-understanding-as-trade.md": "9bd86071eefb",
       "content/posts/production-consumption-and-the-minds-distinction.md": "69300d4d47c5",
       "content/posts/public-spending-does-not-create-capital.md": "4ecd2dec23ca",
-      "content/posts/qian-yin-hou-guo.md": "fd87506ccc70",
+      "content/posts/qian-yin-hou-guo.md": "e1075ddcf04c",
       "content/posts/rationality-never-travels-across-the-mind.md": "082e1416eae1",
       "content/posts/reality-doesnt-invoice-by-committee.md": "e577ce5f5f88",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "6602a836102e",
@@ -313,7 +313,7 @@
       "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "60c3d0411af1",
       "content/posts/the-other-coherence.md": "5975542f4901",
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "431ce25c2506",
-      "content/posts/the-paradoxical-nature-of-bystander-insights.md": "cd35b5f1ec11",
+      "content/posts/the-paradoxical-nature-of-bystander-insights.md": "a9f8094d00b3",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "48c1bddc846f",
       "content/posts/the-perceiver-and-the-trace.md": "78c29d040a22",
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "d85a0ec01465",
@@ -322,16 +322,16 @@
       "content/posts/the-price-of-closing-optionality.md": "fcdef4c1033e",
       "content/posts/the-question-that-installs-the-war.md": "6570c77251d5",
       "content/posts/the-ramble-within-the-ramble.md": "57566038f9e7",
-      "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "e536a3a8e1db",
+      "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "f5acf4cd7e1f",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "f4beffd39c0c",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "8c4f283b8657",
-      "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "56dda0f3f7ab",
+      "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "7efd08cd840c",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "fd5975fa9bb2",
       "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "5d5ae354856a",
       "content/posts/the-reflexive-dilemma-of-unique-insight.md": "e0b2f868f3d1",
       "content/posts/the-residue-and-the-free-variable.md": "58c0ff59267d",
       "content/posts/the-returning-signal-and-its-claim.md": "3e0a96be38a7",
-      "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "a8aa84581a70",
+      "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "4e0a51e77cf0",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "7940d13c303b",
       "content/posts/the-reversal-of-education-and-science.md": "d9695fb75dbc",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "1d26d6542cba",
@@ -345,7 +345,7 @@
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "e2ac2e53d575",
       "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "8ac27b54bcdc",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "19ba2db4ce61",
-      "content/posts/the-source-of-all-harm.md": "4a602dc840fb",
+      "content/posts/the-source-of-all-harm.md": "20891d9d52cf",
       "content/posts/the-source-of-shared-change.md": "6b3787d81f18",
       "content/posts/the-sovereign-blinding.md": "118b031bf858",
       "content/posts/the-strategy-that-wasnt.md": "21fb161d9e5e",
@@ -356,13 +356,13 @@
       "content/posts/the-three-shadows-of-the-cut.md": "dddbde671cad",
       "content/posts/the-tightening-loop.md": "a83145dbfb3d",
       "content/posts/the-twin-paradox-and-the-hidden-observer.md": "f3bca3478db7",
-      "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "15c184585b7d",
+      "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "065bbf648c6e",
       "content/posts/the-unclosable-trace.md": "f4ad7fa5724b",
       "content/posts/the-unexamined-critic.md": "1cda1a733555",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "96d67d29d78d",
       "content/posts/the-unobservable-driver-of-learning.md": "f4fc84bcab69",
       "content/posts/the-utility-men-of-progress.md": "6ff83cd93602",
-      "content/posts/the-vector-and-the-puzzle-of-projections.md": "ea895e5b3c28",
+      "content/posts/the-vector-and-the-puzzle-of-projections.md": "778ea3bc6eea",
       "content/posts/the-velocity-of-visibility.md": "7a988e6f7355",
       "content/posts/the-walking-tangent-and-the-stumbling-sphere.md": "6dd94a8b5246",
       "content/posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy.md": "0b676c49e3f4",
@@ -424,10 +424,10 @@
     },
     "stats": {
       "posts": 397,
-      "edges": 9994,
-      "unique_directed": 4969,
+      "edges": 10018,
+      "unique_directed": 4981,
       "missing_targets": 0,
-      "one_way": 467,
+      "one_way": 479,
       "isolated": 35,
       "posts_with_outbound": 361,
       "book_pages": 16,
@@ -442,7 +442,7 @@
     },
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 128
+      "in_degree": 140
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -1295,9 +1295,9 @@
       "slug": "cheng-gong-xue",
       "path": "content/posts/cheng-gong-xue.md",
       "title": "成功学 / Theories After Success",
-      "hash": "a5a16fe66184",
+      "hash": "ac78a83205fd",
       "in_degree": 20,
-      "out_degree": 19,
+      "out_degree": 20,
       "links_out": [
         "the-free-variable-and-the-retrospective-illusion-of-power",
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -1311,6 +1311,7 @@
         "when-observation-becomes-performance",
         "the-scaffolding-we-forget",
         "the-map-after-the-territory",
+        "your-codebase-is-memory",
         "po-chu-gai-nian-de-jian-yue",
         "the-geometry-of-success",
         "qian-yin-hou-guo",
@@ -1864,9 +1865,9 @@
       "slug": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "path": "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md",
       "title": "好奇先行 / Curiosity First",
-      "hash": "788e4742c499",
+      "hash": "de3299fb5449",
       "in_degree": 20,
-      "out_degree": 19,
+      "out_degree": 20,
       "links_out": [
         "mistaking-the-expression-for-the-intelligence",
         "having-more-is-never-the-cause",
@@ -1883,6 +1884,7 @@
         "self-rl-for-humans",
         "the-scaffolding-that-keeps-growing",
         "whatever-is-one-prompt-away",
+        "your-codebase-is-memory",
         "hardness-is-not-inherent-in-the-action",
         "the-generative-topology-of-free-variables",
         "curiosity-has-no-final-form",
@@ -2163,9 +2165,9 @@
       "slug": "empowerment-establishes-the-centralization-of-power",
       "path": "content/posts/empowerment-establishes-the-centralization-of-power.md",
       "title": "赋权确立权力的集中 / Empowerment Establishes the Centralization of Power",
-      "hash": "7b9c7a3669a8",
+      "hash": "88f2c8ef1bd8",
       "in_degree": 19,
-      "out_degree": 19,
+      "out_degree": 20,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
         "the-misallocation-of-agency",
@@ -2180,6 +2182,7 @@
         "the-unfrictioned-mind-and-borrowed-omnipotence",
         "whatever-is-one-prompt-away",
         "having-more-is-never-the-cause",
+        "your-codebase-is-memory",
         "hierarchy-from-individual-difference",
         "the-source-of-shared-change",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
@@ -2877,9 +2880,9 @@
       "slug": "how-belief-actually-changes",
       "path": "content/posts/how-belief-actually-changes.md",
       "title": "信念如何真正改变 / How Belief Actually Changes",
-      "hash": "69035a97e94a",
+      "hash": "c5fe5bd1c82a",
       "in_degree": 19,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "the-strongest-belief-of-the-mind",
@@ -2897,6 +2900,7 @@
         "externalized-virtue-becomes-its-opposite",
         "the-allocation-of-causal-power-in-validation",
         "reality-is-the-minds-ongoing-realization",
+        "your-codebase-is-memory",
         "individual-choices-as-the-only-causal-levers",
         "residual-individualism",
         "hardness-is-not-inherent-in-the-action",
@@ -4637,9 +4641,9 @@
       "slug": "qian-yin-hou-guo",
       "path": "content/posts/qian-yin-hou-guo.md",
       "title": "前因，后果 / Cause Before, Effect After",
-      "hash": "fd87506ccc70",
+      "hash": "e1075ddcf04c",
       "in_degree": 17,
-      "out_degree": 19,
+      "out_degree": 20,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "du-zhongwen-zhexue-jianshi-you-gan",
@@ -4650,6 +4654,7 @@
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "individual-choices-as-the-only-causal-levers",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "why-mathematics-can-never-be-solved",
         "openness-is-consistency",
         "you-wu-zhi-bian",
@@ -8089,9 +8094,9 @@
       "slug": "the-paradoxical-nature-of-bystander-insights",
       "path": "content/posts/the-paradoxical-nature-of-bystander-insights.md",
       "title": "旁观者洞察的悖论 / The Paradoxical Nature of Bystander Insights",
-      "hash": "cd35b5f1ec11",
+      "hash": "a9f8094d00b3",
       "in_degree": 20,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "not-predicting-is-predicting-without-awareness",
         "the-path-drawn-one-step-at-a-time",
@@ -8107,6 +8112,7 @@
         "causality-all-the-way",
         "sowell-observed-the-surface-problem",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "the-scaffolding-we-forget",
         "when-observation-becomes-performance",
         "liberation-rhetoric-begins-by-defining-captivity",
@@ -8323,9 +8329,9 @@
       "slug": "the-rational-choice-postulate-is-the-original-sin",
       "path": "content/posts/the-rational-choice-postulate-is-the-original-sin.md",
       "title": "理性选择公设是原罪 / The Rational Choice Postulate Is the Original Sin",
-      "hash": "e536a3a8e1db",
+      "hash": "f5acf4cd7e1f",
       "in_degree": 19,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "price-as-utterance-understanding-as-trade",
@@ -8333,6 +8339,7 @@
         "studying-the-effect-of-ai-relocates-causality",
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "the-reality-distortion-field-inverts-the-baseline",
+        "your-codebase-is-memory",
         "performative-hindsight-that-pretends-to-be-foresight",
         "causality-all-the-way",
         "sovereignty-belief-and-regulatory-structures",
@@ -8414,9 +8421,9 @@
       "slug": "the-reality-distortion-field-inverts-the-baseline",
       "path": "content/posts/the-reality-distortion-field-inverts-the-baseline.md",
       "title": "现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline",
-      "hash": "56dda0f3f7ab",
+      "hash": "7efd08cd840c",
       "in_degree": 18,
-      "out_degree": 19,
+      "out_degree": 20,
       "links_out": [
         "the-reality-distortion-field-names-the-closed-map",
         "how-belief-actually-changes",
@@ -8436,7 +8443,8 @@
         "the-price-of-closing-optionality",
         "when-the-effect-authors-the-frame",
         "the-imagining-of-ai-risk",
-        "the-rational-choice-postulate-is-the-original-sin"
+        "the-rational-choice-postulate-is-the-original-sin",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -8565,9 +8573,9 @@
       "slug": "the-reversal-from-defensible-claim-to-dogma",
       "path": "content/posts/the-reversal-from-defensible-claim-to-dogma.md",
       "title": "从可辩护的主张到教条的反转 / The Reversal from Defensible Claim to Dogma",
-      "hash": "a8aa84581a70",
+      "hash": "4e0a51e77cf0",
       "in_degree": 18,
-      "out_degree": 19,
+      "out_degree": 20,
       "links_out": [
         "expertise-as-reference-not-replacement",
         "closed-reality-in-benchmark-maxing",
@@ -8587,7 +8595,8 @@
         "individual-choices-as-the-only-causal-levers",
         "when-observation-becomes-performance",
         "ownership-and-self-worthiness",
-        "the-boundary-of-the-frame"
+        "the-boundary-of-the-frame",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -8959,9 +8968,9 @@
       "slug": "the-source-of-all-harm",
       "path": "content/posts/the-source-of-all-harm.md",
       "title": "一切伤害的根源 / The Source of All Harm",
-      "hash": "4a602dc840fb",
+      "hash": "20891d9d52cf",
       "in_degree": 19,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "evil-as-the-minds-own-creation",
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
@@ -8982,6 +8991,7 @@
         "the-real-lesson-from-the-consciousness-vector-paper",
         "the-imagining-of-ai-risk",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "clarity-isnt-a-state-you-arrive-at"
       ]
     },
@@ -9196,9 +9206,9 @@
       "slug": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "path": "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md",
       "title": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation",
-      "hash": "15c184585b7d",
+      "hash": "065bbf648c6e",
       "in_degree": 20,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
@@ -9215,6 +9225,7 @@
         "when-electrons-think",
         "the-explanatory-trap-of-the-ordinary-perspective",
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
+        "your-codebase-is-memory",
         "the-illusion-of-knowing-and-the-geometry-of-amputation",
         "the-mind-as-vector-and-coordinate-system",
         "beyond-the-projection",
@@ -9354,9 +9365,9 @@
       "slug": "the-vector-and-the-puzzle-of-projections",
       "path": "content/posts/the-vector-and-the-puzzle-of-projections.md",
       "title": "向量与投影的迷局 / The Vector and the Puzzle of Projections",
-      "hash": "ea895e5b3c28",
+      "hash": "778ea3bc6eea",
       "in_degree": 19,
-      "out_degree": 19,
+      "out_degree": 20,
       "links_out": [
         "dimensions-are-projections",
         "the-boundary-of-the-frame",
@@ -9370,6 +9381,7 @@
         "time-is-causality-not-a-dimension",
         "the-mind-as-vector-and-coordinate-system",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "the-bank-shot-and-the-magic-trick",
         "the-only-coherent-uncaused-effect",
         "individual-choices-as-the-only-causal-levers",
@@ -10174,7 +10186,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 128,
+      "in_degree": 140,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -14773,6 +14785,12 @@
     },
     {
       "from": "cheng-gong-xue",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "cheng-gong-xue",
       "to": "po-chu-gai-nian-de-jian-yue",
       "rel": "points_to",
       "label": "破除概念的僭越"
@@ -14794,6 +14812,12 @@
       "to": "the-map-after-the-territory",
       "rel": "points_to",
       "label": "The Map After the Territory"
+    },
+    {
+      "from": "cheng-gong-xue",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "cheng-gong-xue",
@@ -18619,6 +18643,12 @@
     },
     {
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
       "label": "The Scaffolding That Keeps Growing"
@@ -18628,6 +18658,12 @@
       "to": "whatever-is-one-prompt-away",
       "rel": "points_to",
       "label": "Whatever Is One Prompt Away"
+    },
+    {
+      "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "curiosity-first-the-hidden-engine-of-talent-and-development",
@@ -20107,6 +20143,12 @@
     },
     {
       "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
       "to": "whatever-is-one-prompt-away",
       "rel": "points_to",
       "label": "Whatever Is One Prompt Away"
@@ -20116,6 +20158,12 @@
       "to": "having-more-is-never-the-cause",
       "rel": "points_to",
       "label": "Having More Is Never the Cause"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "empowerment-establishes-the-centralization-of-power",
@@ -24100,6 +24148,18 @@
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
       "label": "Reality Is the Mind's Ongoing Realization"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "how-belief-actually-changes",
@@ -36367,6 +36427,12 @@
     },
     {
       "from": "qian-yin-hou-guo",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "qian-yin-hou-guo",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual Choices as the Only Causal Levers"
@@ -36376,6 +36442,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "qian-yin-hou-guo",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "qian-yin-hou-guo",
@@ -56311,6 +56383,12 @@
     },
     {
       "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "开放即一致"
@@ -56338,6 +56416,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-paradoxical-nature-of-bystander-insights",
@@ -57739,6 +57823,12 @@
     },
     {
       "from": "the-rational-choice-postulate-is-the-original-sin",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-rational-choice-postulate-is-the-original-sin",
       "to": "performative-hindsight-that-pretends-to-be-foresight",
       "rel": "points_to",
       "label": "伪装成远见的表演性后见"
@@ -57748,6 +57838,12 @@
       "to": "causality-all-the-way",
       "rel": "points_to",
       "label": "因果贯穿始终"
+    },
+    {
+      "from": "the-rational-choice-postulate-is-the-original-sin",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-rational-choice-postulate-is-the-original-sin",
@@ -58579,6 +58675,12 @@
     },
     {
       "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
       "to": "the-imagining-of-ai-risk",
       "rel": "points_to",
       "label": "The Imagining of AI Risk"
@@ -58588,6 +58690,12 @@
       "to": "the-rational-choice-postulate-is-the-original-sin",
       "rel": "points_to",
       "label": "The Rational Choice Postulate Is the Original Sin"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-reality-distortion-field-names-the-closed-map",
@@ -59572,6 +59680,18 @@
       "to": "the-boundary-of-the-frame",
       "rel": "points_to",
       "label": "The Boundary of the Frame"
+    },
+    {
+      "from": "the-reversal-from-defensible-claim-to-dogma",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-reversal-from-defensible-claim-to-dogma",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
@@ -62311,6 +62431,12 @@
     },
     {
       "from": "the-source-of-all-harm",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-source-of-all-harm",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
       "label": "清晰不是抵达的终点，而是运动本身"
@@ -62320,6 +62446,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-source-of-all-harm",
@@ -63571,9 +63703,21 @@
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "rel": "points_to",
       "label": "From the Misallocated Sentience of AGI to Human Realignment"
+    },
+    {
+      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
@@ -64573,6 +64717,12 @@
     },
     {
       "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
       "to": "the-mind-as-vector-and-coordinate-system",
       "rel": "points_to",
       "label": "The Mind as Vector and Coordinate System"
@@ -64582,6 +64732,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-vector-and-the-puzzle-of-projections",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-vector-and-the-puzzle-of-projections",
