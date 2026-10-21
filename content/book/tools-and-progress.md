@@ -46,3 +46,4 @@ The essays here explore antifragility in engineering, the calm tension between S
 - [内部人假定与被动防护的因果倒置 / The Insider Presumption and the Causal Inversion of Reactive Containment](../../posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment/)
 - [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/)
 - [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/)
+- [判断力不是可囤积的存量 / Judgment Is Not a Stock](../../posts/judgment-is-not-a-stock/)

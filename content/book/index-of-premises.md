@@ -3302,7 +3302,7 @@ The claim presumes agency needs intimate co-location with an inspectable kernel,
 
 The felt loss of curiosity presumes that the generative tendency declines with age, education or fatigue, which is of use in noticing that inquiry has slowed; it reaches its boundary in that incoming traces are first filtered through a dense, retained self-image, and the felt decline is that lag, misattributed to an inner deficit.
 
-→ [好奇没有最终的形态 / Curiosity Has No Final Form](../../posts/curiosity-has-no-final-form/)
+→ [好奇没有最终的形态 / Curiosity Has No Final Form](../../posts/curiosity-has-no-final-form/) · [判断力不是可囤积的存量 / Judgment Is Not a Stock](../../posts/judgment-is-not-a-stock/)
 
 ### 损失曲面导航 / Loss Surface Navigation
 `数学 / Mathematical`
@@ -5247,3 +5247,12 @@ Presumes the randomness in a model's sampler is indeterminism in the ontological
 Presumes that a single agent can self-correct within its own session trajectory or that a manager agent can assume overarching orchestration in place of the human; effective when scoped to explicit sub-task splitting, context routing, and dispatching equal-footed cold-peer debate loops, it reaches its boundary because a lone agent trapped in its token trajectory wraps its own contradiction, and a manager agent facing an axiomatic deadlock lacks access to unprojected living intent.
 
 → [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/)
+
+### 实战判断力的存量重估预设 / The Stock-Revaluation Premise of Practical Judgment
+`技术 / Technological`
+
+预设长年实战沉淀的判断力与品味是一份稳定存量，当 AI 压低执行与现成答案的成本时会自动升值放大；在指出候选解法生成变廉价后价值向问题选择与失效判别迁移时有用，但当昔日积累恰恰建立在已被 AI 压缩的旧执行瓶颈之上、约束边界迁移使静态行业库存化为指向已消解问题的残余轨迹时到达边界，因为真正可迁移的并非结论库存，而是将自身先前模型视为临时假设并在新前沿持续证伪的习惯。
+
+Presumes that decades of accumulated practical judgment and taste form a stable stock that AI automatically revalues and amplifies once execution and ready answers become cheap; useful in registering that cheap candidate generation shifts leverage toward question selection and failure-mode discernment, it reaches its boundary in that historical accumulation formed around the very bottlenecks AI now compresses turns into a residual trajectory pointing at vanished constraints once the frontier moves, leaving only the habit of treating one's prior models as provisional and falsifying hypotheses at the current edge transferable.
+
+→ [判断力不是可囤积的存量 / Judgment Is Not a Stock](../../posts/judgment-is-not-a-stock/)
