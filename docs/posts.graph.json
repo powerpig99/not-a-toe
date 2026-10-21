@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T11:54:43.596Z",
+    "generated_at": "2026-10-21T13:11:49.603Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -56,7 +56,7 @@
       "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "b3e99a733b19",
       "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "1629917a17b9",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "de3299fb5449",
-      "content/posts/curiosity-has-no-final-form.md": "e59b53bce77e",
+      "content/posts/curiosity-has-no-final-form.md": "100335def2de",
       "content/posts/cybersecurity-arms-race.md": "1985661caf9b",
       "content/posts/data-is-local-intelligence-is-allocated.md": "add6923af446",
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "6ef0fd1e62bc",
@@ -75,7 +75,7 @@
       "content/posts/evil-as-projected-resistance.md": "d0174318bc94",
       "content/posts/evil-as-the-minds-own-creation.md": "9685bf8b4713",
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "8b82853392d4",
-      "content/posts/expertise-as-reference-not-replacement.md": "630ec556bab5",
+      "content/posts/expertise-as-reference-not-replacement.md": "d3ff7ad99420",
       "content/posts/extended-cognition-refined.md": "d6ebbdaa006f",
       "content/posts/extension-and-shift.md": "695ce6937cad",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "d465dbb1da43",
@@ -111,7 +111,7 @@
       "content/posts/intelligence-crisis-response.md": "c0480704b362",
       "content/posts/intelligence-folding-back-on-itself.md": "5ce8b84ddfd0",
       "content/posts/intelligence-traps-itself.md": "e9dd405ccf3c",
-      "content/posts/judgment-is-not-a-stock.md": "5cb7a363fe93",
+      "content/posts/judgment-is-not-a-stock.md": "4be911f05d0a",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "b5bfd1bca0dc",
       "content/posts/looping-and-graphing.md": "81007251f9d4",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "edbfa0fe5c9b",
@@ -178,7 +178,7 @@
       "content/posts/selection-contradiction-and-open-reality.md": "74fbecb78715",
       "content/posts/self-image-speaks-as-if-from-nowhere.md": "4222603f103d",
       "content/posts/self-rl-for-humans.md": "da8444ae39c6",
-      "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "703f7c53b9da",
+      "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "5bdf03fd7397",
       "content/posts/sensing-before-interpretation.md": "e85a0b081114",
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "effb27d0037a",
       "content/posts/shared-humanity-is-never-shared.md": "667dd03af694",
@@ -325,7 +325,7 @@
       "content/posts/the-ramble-within-the-ramble.md": "57566038f9e7",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "f5acf4cd7e1f",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "f4beffd39c0c",
-      "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "8c4f283b8657",
+      "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "0cf0b2a0f096",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "7efd08cd840c",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "fd5975fa9bb2",
       "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "ad7483982bf1",
@@ -339,7 +339,7 @@
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "7a0ec6232ce8",
       "content/posts/the-scaffolding-that-keeps-growing.md": "8fddf91966e8",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "728ed78cb1f9",
-      "content/posts/the-scaffolding-we-forget.md": "ce403e66da40",
+      "content/posts/the-scaffolding-we-forget.md": "f6749a3e817f",
       "content/posts/the-scaling-loop.md": "01f561084635",
       "content/posts/the-self-portrait-in-the-projection.md": "53e4a8649ae8",
       "content/posts/the-shadow-and-the-infinite.md": "c39730290699",
@@ -355,7 +355,7 @@
       "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "c663c4a8107a",
       "content/posts/the-surface-beneath.md": "a33fe2b8831f",
       "content/posts/the-three-shadows-of-the-cut.md": "dddbde671cad",
-      "content/posts/the-tightening-loop.md": "6b930ea11d02",
+      "content/posts/the-tightening-loop.md": "0abbb5f8b22f",
       "content/posts/the-twin-paradox-and-the-hidden-observer.md": "ff11efe3625a",
       "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "065bbf648c6e",
       "content/posts/the-unclosable-trace.md": "f4ad7fa5724b",
@@ -399,7 +399,7 @@
       "content/posts/you-cant-benchmark-the-fluid.md": "1bebd37668bc",
       "content/posts/you-tiao-jian-de-zi-you.md": "951537534f9e",
       "content/posts/you-wu-zhi-bian.md": "de3cca5f81ee",
-      "content/posts/your-codebase-is-memory.md": "4a4689dd4a10",
+      "content/posts/your-codebase-is-memory.md": "26228ae3c962",
       "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "59220f9cdf84",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "f1f3cd0266ec",
       "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "f23cfe1f4ca3",
@@ -425,10 +425,10 @@
     },
     "stats": {
       "posts": 398,
-      "edges": 10920,
-      "unique_directed": 5358,
+      "edges": 10934,
+      "unique_directed": 5365,
       "missing_targets": 0,
-      "one_way": 830,
+      "one_way": 823,
       "isolated": 0,
       "posts_with_outbound": 398,
       "book_pages": 16,
@@ -533,7 +533,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "out_degree": 69
+      "out_degree": 70
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -1910,13 +1910,14 @@
       "slug": "curiosity-has-no-final-form",
       "path": "content/posts/curiosity-has-no-final-form.md",
       "title": "好奇没有最终的形态 / Curiosity Has No Final Form",
-      "hash": "e59b53bce77e",
+      "hash": "100335def2de",
       "in_degree": 13,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "the-scaffolding-we-forget",
         "the-fixed-image-of-transcendence",
         "what-information-is",
+        "judgment-is-not-a-stock",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
@@ -2350,9 +2351,9 @@
       "slug": "expertise-as-reference-not-replacement",
       "path": "content/posts/expertise-as-reference-not-replacement.md",
       "title": "专家经验作为参考而非替代 / Expertise as Reference, Not Replacement",
-      "hash": "630ec556bab5",
+      "hash": "d3ff7ad99420",
       "in_degree": 24,
-      "out_degree": 24,
+      "out_degree": 25,
       "links_out": [
         "the-reality-distortion-field-names-the-closed-map",
         "ownership-cost-freezes-lagged-averages-as-vehicle-property",
@@ -2376,6 +2377,7 @@
         "your-codebase-is-memory",
         "the-map-after-the-territory",
         "cheng-gong-xue",
+        "judgment-is-not-a-stock",
         "preference-clusters-and-the-language-of-judgment",
         "the-reversal-from-defensible-claim-to-dogma"
       ]
@@ -3322,8 +3324,8 @@
       "slug": "judgment-is-not-a-stock",
       "path": "content/posts/judgment-is-not-a-stock.md",
       "title": "判断力不是可囤积的存量 / Judgment Is Not a Stock",
-      "hash": "5cb7a363fe93",
-      "in_degree": 0,
+      "hash": "4be911f05d0a",
+      "in_degree": 7,
       "out_degree": 7,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -5170,12 +5172,13 @@
       "slug": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
       "path": "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md",
       "title": "自我价值、反向财富转移与过去成功的陷阱 / Self-Worthiness, Reverse Wealth Transfer, and the Trap of Past Success",
-      "hash": "703f7c53b9da",
+      "hash": "5bdf03fd7397",
       "in_degree": 6,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "the-generative-mechanics-of-value-money-and-wealth",
         "ownership-and-self-worthiness",
+        "judgment-is-not-a-stock",
         "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
         "empowerment-establishes-the-centralization-of-power",
         "your-codebase-is-memory",
@@ -8724,9 +8727,9 @@
       "slug": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "path": "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md",
       "title": "真正稀缺的不是记忆，而是持续的重新追溯 / The Real Scarcity Is Not Memory, But Continuous Re-Tracing",
-      "hash": "8c4f283b8657",
+      "hash": "0cf0b2a0f096",
       "in_degree": 18,
-      "out_degree": 17,
+      "out_degree": 18,
       "links_out": [
         "looping-and-graphing",
         "the-scaffolding-we-forget",
@@ -8734,6 +8737,7 @@
         "what-always-listens-cannot-originate",
         "whatever-is-one-prompt-away",
         "closed-reality-in-benchmark-maxing",
+        "judgment-is-not-a-stock",
         "the-ramble-within-the-ramble",
         "token-efficiency-emulation-and-the-unclosable-gap",
         "lossless-knowledge-of-an-open-field-is-incoherent",
@@ -9077,9 +9081,9 @@
       "slug": "the-scaffolding-we-forget",
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "遗忘的脚手架 / The Scaffolding We Forget",
-      "hash": "ce403e66da40",
+      "hash": "f6749a3e817f",
       "in_degree": 68,
-      "out_degree": 69,
+      "out_degree": 70,
       "links_out": [
         "the-extendable-horizon",
         "the-geometry-of-mind",
@@ -9124,6 +9128,7 @@
         "whatever-is-one-prompt-away",
         "residual-control-recedes-to-the-edge",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+        "judgment-is-not-a-stock",
         "your-codebase-is-memory",
         "everything-is-changing-as-always",
         "cli-interface-stack",
@@ -9524,12 +9529,13 @@
       "slug": "the-tightening-loop",
       "path": "content/posts/the-tightening-loop.md",
       "title": "不断收紧的回环 / The Tightening Loop",
-      "hash": "6b930ea11d02",
+      "hash": "0abbb5f8b22f",
       "in_degree": 3,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "your-codebase-is-memory",
         "the-scaffolding-we-forget",
+        "judgment-is-not-a-stock",
         "the_moving_ground",
         "the-loop-accelerates",
         "the-interesting-case-of-rubin",
@@ -10570,9 +10576,9 @@
       "slug": "your-codebase-is-memory",
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
-      "hash": "4a4689dd4a10",
+      "hash": "26228ae3c962",
       "in_degree": 397,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-model-never-becomes-a-second-edge",
@@ -10581,7 +10587,8 @@
         "a-living-external-cortex",
         "beyond-the-projection",
         "looping-and-graphing",
-        "the-real-scarcity-is-not-memory-but-continuous-re-tracing"
+        "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+        "judgment-is-not-a-stock"
       ]
     },
     {
@@ -19645,6 +19652,18 @@
     },
     {
       "from": "curiosity-has-no-final-form",
+      "to": "judgment-is-not-a-stock",
+      "rel": "points_to",
+      "label": "判断力不是可囤积的存量"
+    },
+    {
+      "from": "curiosity-has-no-final-form",
+      "to": "judgment-is-not-a-stock",
+      "rel": "points_to",
+      "label": "Judgment Is Not a Stock"
+    },
+    {
+      "from": "curiosity-has-no-final-form",
       "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "rel": "points_to",
       "label": "好奇先行"
@@ -22441,6 +22460,12 @@
     },
     {
       "from": "expertise-as-reference-not-replacement",
+      "to": "judgment-is-not-a-stock",
+      "rel": "points_to",
+      "label": "判断力不是可囤积的存量"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
       "to": "the-map-after-the-territory",
       "rel": "points_to",
       "label": "The Map After the Territory"
@@ -22450,6 +22475,12 @@
       "to": "cheng-gong-xue",
       "rel": "points_to",
       "label": "Theories After Success"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "judgment-is-not-a-stock",
+      "rel": "points_to",
+      "label": "Judgment Is Not a Stock"
     },
     {
       "from": "expertise-as-reference-not-replacement",
@@ -41446,6 +41477,18 @@
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
       "label": "Ownership and Self-Worthiness"
+    },
+    {
+      "from": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
+      "to": "judgment-is-not-a-stock",
+      "rel": "points_to",
+      "label": "判断力不是可囤积的存量"
+    },
+    {
+      "from": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
+      "to": "judgment-is-not-a-stock",
+      "rel": "points_to",
+      "label": "Judgment Is Not a Stock"
     },
     {
       "from": "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
@@ -62881,6 +62924,12 @@
     },
     {
       "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "to": "judgment-is-not-a-stock",
+      "rel": "points_to",
+      "label": "判断力不是可囤积的存量"
+    },
+    {
+      "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "to": "whatever-is-one-prompt-away",
       "rel": "points_to",
       "label": "Whatever Is One Prompt Away"
@@ -62890,6 +62939,12 @@
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
       "label": "Closed Reality in Benchmark Maxing"
+    },
+    {
+      "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "to": "judgment-is-not-a-stock",
+      "rel": "points_to",
+      "label": "Judgment Is Not a Stock"
     },
     {
       "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
@@ -65827,6 +65882,12 @@
     },
     {
       "from": "the-scaffolding-we-forget",
+      "to": "judgment-is-not-a-stock",
+      "rel": "points_to",
+      "label": "判断力不是可囤积的存量"
+    },
+    {
+      "from": "the-scaffolding-we-forget",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
@@ -65890,6 +65951,12 @@
       "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "rel": "points_to",
       "label": "The Real Scarcity Is Not Memory, But Continuous Re-Tracing"
+    },
+    {
+      "from": "the-scaffolding-we-forget",
+      "to": "judgment-is-not-a-stock",
+      "rel": "points_to",
+      "label": "Judgment Is Not a Stock"
     },
     {
       "from": "the-scaffolding-we-forget",
@@ -68290,6 +68357,18 @@
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "the-tightening-loop",
+      "to": "judgment-is-not-a-stock",
+      "rel": "points_to",
+      "label": "判断力不是可囤积的存量"
+    },
+    {
+      "from": "the-tightening-loop",
+      "to": "judgment-is-not-a-stock",
+      "rel": "points_to",
+      "label": "Judgment Is Not a Stock"
     },
     {
       "from": "the-tightening-loop",
@@ -75286,6 +75365,18 @@
       "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "rel": "points_to",
       "label": "The Real Scarcity Is Not Memory, But Continuous Re-Tracing"
+    },
+    {
+      "from": "your-codebase-is-memory",
+      "to": "judgment-is-not-a-stock",
+      "rel": "points_to",
+      "label": "判断力不是可囤积的存量"
+    },
+    {
+      "from": "your-codebase-is-memory",
+      "to": "judgment-is-not-a-stock",
+      "rel": "points_to",
+      "label": "Judgment Is Not a Stock"
     },
     {
       "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",

@@ -22,7 +22,7 @@ Mathematics, physics, and philosophy are among humanity's most refined and reson
 
 Curiosity is the felt tendency of a minded center to distinguish: separating this from that, and the newly encountered from the already registered. That generative tendency does not decay with age, education, or fatigue; what shifts is the retained reference against which incoming traces are evaluated. Every discipline through which curiosity passes is information in the exact sense traced in [What Information Is](../what-information-is/): a discrete distinction drawn by a center, never a static substance waiting in the world to be found.
 
-随着一次次区分不断累积，它们凝结成一副致密的、被保留下来的自我形象——确信自己已是通晓这片地形的专家。当新鲜的印象落入感知，信号不再于活的前沿直接、即时地触发区分，而是被迫先穿过一道迟缓的滤网，对照那副保存下来的形象接受解读。对照既往残余所作的解读被错认作认知，而在前沿上不受抑制的区分为了维护既定框架的权威，反而被推迟或压制了下去。由此产生的摩擦、过度滞后与认知疲惫，随后被错误地归咎于内在的匮乏，而自发探究的缺席在被感到之后，便被贴上了好奇消退的标签。
+随着一次次区分不断累积，它们凝结成一副致密的、被保留下来的自我形象——确信自己已是通晓这片地形的专家。当新鲜的印象落入感知，信号不再于活的前沿直接、即时地触发区分，而是被迫先穿过一道迟缓的滤网，对照那副保存下来的形象接受解读。对照既往残余所作的解读被错认作认知，而在前沿上不受抑制的区分为了维护既定框架的权威，反而被推迟或压制了下去。由此产生的摩擦、过度滞后与认知疲惫，随后被错误地归咎于内在的匮乏，而自发探究的缺席在被感到之后，便被贴上了好奇消退的标签。[判断力不是可囤积的存量](../judgment-is-not-a-stock/)通过追踪同一机制，消解了中年老将资历与年轻建造者之间的人口学坐标轴：无论年龄还是累积的经验，都不是跨越迁移的约束边界后决定走向的存量，因为让探究与判断保持活力的，是将自身先前模型视为临时假设、并在当前前沿亲手推翻昨日之我的习惯。
 
 ```mermaid
 flowchart TD
@@ -68,7 +68,7 @@ flowchart TD
     style C2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-As successive distinctions accumulate, they cohere into a dense, retained self-image—the conviction of being an expert who already commands the landscape. When a fresh impression lands in perception, instead of triggering direct, immediate differentiation at the living edge, the signal is forced through the slow filter of interpretation against that preserved image. Interpretation against prior residue is mistaken for knowing, while uninhibited differentiation at the edge is delayed or suppressed to protect the authority of the established frame. The resulting friction, excess lag, and cognitive fatigue are then misattributed to an internal deficit, and the felt absence of spontaneous inquiry is labeled a loss of curiosity.
+As successive distinctions accumulate, they cohere into a dense, retained self-image—the conviction of being an expert who already commands the landscape. When a fresh impression lands in perception, instead of triggering direct, immediate differentiation at the living edge, the signal is forced through the slow filter of interpretation against that preserved image. Interpretation against prior residue is mistaken for knowing, while uninhibited differentiation at the edge is delayed or suppressed to protect the authority of the established frame. The resulting friction, excess lag, and cognitive fatigue are then misattributed to an internal deficit, and the felt absence of spontaneous inquiry is labeled a loss of curiosity. [Judgment Is Not a Stock](../judgment-is-not-a-stock/) dissolves the demographic axis between middle-aged veteran tenure and youthful builders by tracing this same mechanism: neither age nor accumulated experience is a stock that decides the trajectory across a shifted constraint boundary, because what keeps inquiry and judgment alive is the habit of treating one's own prior models as provisional and overturning yesterday's self at the current frontier.
 
 ```mermaid
 flowchart TD

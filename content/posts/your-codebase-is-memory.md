@@ -28,7 +28,6 @@ flowchart TD
         Judge["边界登记：在残余内继续推进，或跨出失效的框架"]
         Mind --> Judge
     end
-
     subgraph S_Scaff["特化智能体脚手架（受约束的轨迹）"]
         direction TB
         Rules["脚手架痕迹：系统提示词、技能、上下文边界与退役规则"]
@@ -37,20 +36,17 @@ flowchart TD
         Rules --> Planner
         Rules --> Scouter
     end
-
     subgraph S_Res["层叠的数字残余（痕迹的痕迹）"]
         direction TB
         Weights["模型权重：集体早先痕迹的压缩统计规律"]
         Code["代码库与制品：代码、文章、配置、图谱、计划与桥接文件"]
         Weights -->|"经由局部痕迹收束"| Code
     end
-
     Judge ==>|"立框、调度与重新追溯"| Rules
     Planner -->|"以模型与演进中的计划为条件"| Code
     Scouter -->|"仅以模型与当前计划为条件"| Code
     Planner ==>|"返回更新后的制品"| Judge
     Scouter ==>|"返回无会话拖拽的报告"| Judge
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Scaff fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Res fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -73,7 +69,6 @@ flowchart TD
         Judge["Boundary Registration: Continues inside residue or steps outside broken framing"]
         Mind --> Judge
     end
-
     subgraph S_Scaff["Specialized Agent Scaffolds (Constrained Trajectories)"]
         direction TB
         Rules["Scaffolding Traces: System prompts, skills, context bounds & retirement rules"]
@@ -82,20 +77,17 @@ flowchart TD
         Rules --> Planner
         Rules --> Scouter
     end
-
     subgraph S_Res["Stacked Digital Residue (Traces of Traces)"]
         direction TB
         Weights["Model Weights: Compressed statistical regularities of collective prior traces"]
         Code["Codebase & Artifacts: Code, essays, configs, graphs, plans & bridges"]
         Weights -->|"Narrowed by local traces"| Code
     end
-
     Judge ==>|"Frames, dispatches & re-traces"| Rules
     Planner -->|"Conditions on model + evolving plan"| Code
     Scouter -->|"Conditions on model + current plan only"| Code
     Planner ==>|"Returns updated artifact"| Judge
     Scouter ==>|"Returns report without session drag"| Judge
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Scaff fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Res fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -118,9 +110,9 @@ The recursion is exact, following the geometry of [Looping and Graphing](../loop
 
 This is why the usual call for “better memories” misses the operative cut, repeating the warehouse illusion dissected in [The Real Scarcity Is Not Memory, But Continuous Re-Tracing](../the-real-scarcity-is-not-memory-but-continuous-re-tracing/). The call treats memory as a warehouse whose quality is measured by coverage, persistence, or retrieval fidelity. That measurement already freezes the residue and then asks for a better freeze. More tokens, longer histories, denser indexes, agents that retain session traces across tasks—these thicken the gravity well. The thickening makes the next distinction more likely to rationalize inside the accumulated residue rather than step outside a broken framing.
 
-模型训练早已体现了相反的切口：一次运行保存的是检查点，而不是中间权重更新的全部历史。每一个依然重要的先前梯度步都已被吸收进当前检查点之中；保留已被取代的轨迹并不会增加任何能力。代码库及其工作记忆也是如此。仅凭“万一以后用得上”的可能性而囤积备份、归档与废弃的中间分支，只会增厚引力井，把未来的搜索与智能体会话拽入过时的死胡同，让陈旧的框架与活的状态相互争夺。只保留当下构型中实际承重的部分——并配以对这一活状态的刻意冗余，例如远端版本库镜像，而非成堆的历史残骸——才能让作业面保持澄明。一旦临时工作目录已被合入主干检查点，或会话桥接文件已交接完它推进的前沿，删去这处临时痕迹，就能防止昨天的脚手架伪装成今天的基底。
+模型训练早已体现了相反的切口：一次运行保存的是检查点，而不是中间权重更新的全部历史。每一个依然重要的先前梯度步都已被吸收进当前检查点之中；保留已被取代的轨迹并不会增加任何能力。代码库及其工作记忆也是如此。仅凭“万一以后用得上”的可能性而囤积备份、归档与废弃的中间分支，只会增厚引力井，把未来的搜索与智能体会话拽入过时的死胡同，让陈旧的框架与活的状态相互争夺。只保留当下构型中实际承重的部分——并配以对这一活状态的刻意冗余，例如远端版本库镜像，而非成堆的历史残骸——才能让作业面保持澄明。一旦临时工作目录已被合入主干检查点，或会话桥接文件已交接完它推进的前沿，删去这处临时痕迹，就能防止昨天的脚手架伪装成今天的基底。这一检查点纪律同样适用于人类的领域经验，正如[判断力不是可囤积的存量](../judgment-is-not-a-stock/)所追溯的：把数十年的过往解题经历当作可被 AI 放大的静态存量，是把未经修剪的结论库存错当成了前沿处的实时检验；而可迁移的能力，在于修剪围绕已被取代的瓶颈建立的轨迹，并在当下的约束边界上持续证伪假设。
 
-Model training already embodies the opposite cut: a run saves checkpoints, not the full history of intermediate weight updates. Every prior gradient step that still matters has already been absorbed into the current checkpoint; keeping the superseded trajectory around adds no capability. The same holds for a codebase and its working memory. Hoarding backups, archives, and dead intermediate branches out of mere possibility—“in case they are needed later”—thickens the gravity well, pulling future searches and agent sessions into outdated rabbit holes where stale framings compete with the live state. Keeping only what is actively load-bearing in the present configuration—paired with intentional redundancy of that live state, such as a remote git mirror, rather than piles of historical debris—leaves the surface unclouded. Once a transient working folder has been folded into the canonical checkpoint, or a session bridge has handed off its moving edge, deleting the transient trace prevents yesterday’s scaffolding from masquerading as today’s ground.
+Model training already embodies the opposite cut: a run saves checkpoints, not the full history of intermediate weight updates. Every prior gradient step that still matters has already been absorbed into the current checkpoint; keeping the superseded trajectory around adds no capability. The same holds for a codebase and its working memory. Hoarding backups, archives, and dead intermediate branches out of mere possibility—“in case they are needed later”—thickens the gravity well, pulling future searches and agent sessions into outdated rabbit holes where stale framings compete with the live state. Keeping only what is actively load-bearing in the present configuration—paired with intentional redundancy of that live state, such as a remote git mirror, rather than piles of historical debris—leaves the surface unclouded. Once a transient working folder has been folded into the canonical checkpoint, or a session bridge has handed off its moving edge, deleting the transient trace prevents yesterday’s scaffolding from masquerading as today’s ground. That checkpoint discipline applies equally to human domain experience, as [Judgment Is Not a Stock](../judgment-is-not-a-stock/) traces: treating decades of past problem-solving as a static stock that AI amplifies mistakes an unpruned inventory of conclusions for live edge-testing, whereas transferable capacity lies in pruning trajectories built around superseded bottlenecks and falsifying hypotheses against the present constraint boundary.
 
 真正改变下一步的，是重新追溯的质量。当心智回到早先的痕迹，登记下它们在何处已不再与当下的感知相融贯——何处有两条轴线被坍缩在了一起、何处有一项前提未经审视、何处有一条链接指向了已经移位的区分——追溯这一行动便更新了残余。更新后的痕迹（修订后的文章、精炼后的计划、退役的桥接文件、修正后的图谱边、修剪过的上下文）成为后续轨迹据以展开的条件。后续轨迹因此得以在一组更干净的约束内运作，不是因为存储了更多内容，而是因为既有的残余被重新切分。留存下来的记忆在无关维度上变得更小，而在依然紧要的轴线上变得更锐利。
 
@@ -133,7 +125,6 @@ flowchart TD
         Rat["轨迹合理化：下一步在陈旧残余内合理化，而非跨出框架"]
         Store --> Gravity --> Rat
     end
-
     subgraph S_Checkpoint["当下检查点重切（主动重新追溯与修剪）"]
         direction TB
         Retrace["前沿处的重新追溯：登记早先残余在何处不再与活的感知融贯"]
@@ -142,9 +133,7 @@ flowchart TD
         Clean["锐化的约束表面：在无关维度上更小，在活的轴线上更锐利"]
         Retrace --> Recut --> Prune --> Clean
     end
-
     Rat -.->|"当心智折返重新追溯时消解"| Retrace
-
     style S_Hoard fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Checkpoint fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Store fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -167,7 +156,6 @@ flowchart TD
         Rat["Trajectory Rationalization: Next step rationalizes inside stale residue instead of stepping out"]
         Store --> Gravity --> Rat
     end
-
     subgraph S_Checkpoint["Present-Checkpoint Re-Cutting (Active Re-Tracing & Pruning)"]
         direction TB
         Retrace["Re-Tracing at the Edge: Registers where prior residue no longer coheres with live sensing"]
@@ -176,9 +164,7 @@ flowchart TD
         Clean["Sharpened Constraint Surface: Smaller in irrelevant dimensions, sharper on live axes"]
         Retrace --> Recut --> Prune --> Clean
     end
-
     Rat -.->|"Dissolved when the Mind returns to re-trace"| Retrace
-
     style S_Hoard fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Checkpoint fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Store fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc

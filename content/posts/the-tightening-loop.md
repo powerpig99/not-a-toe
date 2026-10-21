@@ -52,9 +52,9 @@ graph TD
 
 ## 二、 永续的竞逐与重生的间隙 / 2. The Permanent Race and the Regenerating Gap
 
-这一结构是恒常的。每一轮泛化都在抬高底线，从而抬高了余项上的筹码。当编码被普及，架构品味就成了区分项；当架构品味被普及，问题选择就成了区分项。每一层被吸收进可泛化域的内容，都把价值的落点向特定性深处再推进一步。
+这一结构是恒常的。每一轮泛化都在抬高底线，从而抬高了余项上的筹码。当编码被普及，架构品味就成了区分项；当架构品味被普及，问题选择就成了区分项。每一层被吸收进可泛化域的内容，都把价值的落点向特定性深处再推进一步。然而正如[判断力不是可囤积的存量](../judgment-is-not-a-stock/)所追溯的，架构品味与问题选择并非一笔等待被廉价 AI 执行直接放大的资深结论静态存量：由于 AI 同时加速了候选方案的生成与失效模式的观察，它迁移了约束边界本身，因此判断力唯有在实时证伪的紧密回环内部才能保持预测效力，而非靠在场外静候技术成熟。
 
-The structure is permanent. Every round of generalization raises the floor, which raises the stakes on the residual. Democratize coding, and architectural taste becomes the differentiator. Democratize architectural taste, and problem selection becomes the differentiator. Each layer absorbed into the generalizable domain pushes the locus of value one level deeper into the particular.
+The structure is permanent. Every round of generalization raises the floor, which raises the stakes on the residual. Democratize coding, and architectural taste becomes the differentiator. Democratize architectural taste, and problem selection becomes the differentiator. Each layer absorbed into the generalizable domain pushes the locus of value one level deeper into the particular. Yet as [Judgment Is Not a Stock](../judgment-is-not-a-stock/) traces, architectural taste and problem selection are not a static stock of veteran conclusions waiting to be amplified by cheap AI execution: because AI accelerates both candidate generation and failure-mode observation, it shifts the constraint boundary itself, so judgment stays predictive only inside the tight loop of live falsification rather than by waiting on the sidelines for maturity.
 
 这场竞逐永不终结，因为特定性并不是一个静止在远处等待被追上的固定物体。它在后退，或者更准确地说，它正是由后退这一行动本身所构成的。不可约简之物不是坐在那里等待最终被泛化吞没的实体，它就是间隙本身，在每一个新层级上不断重生。泛化与不可约简之物是共同生起的。
 

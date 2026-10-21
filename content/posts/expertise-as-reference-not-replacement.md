@@ -54,7 +54,6 @@ flowchart TD
         AgentProj["有限智能体投射：暴露局部盲区的无我执对位参照"]
         PopMap --> AgentProj
     end
-
     subgraph S_Edge["活体心智（第一人称感知与因果判断）"]
         direction TB
         LiveSense["极限分辨率感知：这具身体与语境当下的前解释体感报告"]
@@ -64,18 +63,15 @@ flowchart TD
         Integrate ==>|"收窄多余滞后"| ActCost
         ActCost ==>|"作为自有反馈重入回路"| LiveSense
     end
-
     subgraph S_Replace["替代倒置（冻结的权威）"]
         direction TB
         Dogma["越过其步而固守的方案：将现场身体信号压制为噪声或缺陷"]
         Sever["断裂的反馈回路：后果登记为外在宿命而非自我修正"]
         Dogma --> Sever
     end
-
     PopMap ==>|"作为暂时素材提供参考"| Integrate
     AgentProj ==>|"触发贝叶斯语境更新"| Integrate
     PopMap -.->|"被安放为替代性权威"| Dogma
-
     style S_Ext fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Replace fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -98,7 +94,6 @@ flowchart TD
         AgentProj["Finite Agentic Projections: Zero-ego peer counterpoints exposing local blind spots"]
         PopMap --> AgentProj
     end
-
     subgraph S_Edge["The Living Mind (First-Person Sensing & Causal Judgment)"]
         direction TB
         LiveSense["Limit-Resolution Sensing: Pre-interpretive felt report of this body and context now"]
@@ -108,18 +103,15 @@ flowchart TD
         Integrate ==>|"Narrows excess lag"| ActCost
         ActCost ==>|"Re-enters as owned feedback"| LiveSense
     end
-
     subgraph S_Replace["The Replacement Inversion (Frozen Authority)"]
         direction TB
         Dogma["Protocol Held Past Its Step: Overrides live somatic signals as noise or defect"]
         Sever["Severed Feedback Loop: Consequences register as external fate rather than self-revision"]
         Dogma --> Sever
     end
-
     PopMap ==>|"Informs as provisional material"| Integrate
     AgentProj ==>|"Triggers Bayesian context update"| Integrate
     PopMap -.->|"Installed as substitute authority"| Dogma
-
     style S_Ext fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Replace fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -132,9 +124,9 @@ flowchart TD
     style Sever fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-[行路之后的地图](../the-map-after-the-territory/)在自我提升文献中标出了同样的错置：在转变发生之后才总结出的概念框架，一旦被当作启动行走的机制兜售，就是把下游残余安放在了生成原因的位置上；而将同样的文字持守为次级参照，它便能提供信息，却不僭越去替双脚迈步。[成功学](../cheng-gong-xue/)在流行成功指南中追踪了同样的倒置：当结果业已落地，幸存者的特征被重排为便携的规则并当作引擎出售，而造就幸存者的那串不可逆的试错序列却被删去了。一项群体发现，是其他身体之测量的残余，而非这具身体自身行走的残余；将其当作这具身体之照护的引擎提供出来，同样是把残余扶上了原因的宝座。
+[行路之后的地图](../the-map-after-the-territory/)在自我提升文献中标出了同样的错置：在转变发生之后才总结出的概念框架，一旦被当作启动行走的机制兜售，就是把下游残余安放在了生成原因的位置上；而将同样的文字持守为次级参照，它便能提供信息，却不僭越去替双脚迈步。[成功学](../cheng-gong-xue/)在流行成功指南中追踪了同样的倒置：当结果业已落地，幸存者的特征被重排为便携的规则并当作引擎出售，而造就幸存者的那串不可逆的试错序列却被删去了。一项群体发现，是其他身体之测量的残余，而非这具身体自身行走的残余；将其当作这具身体之照护的引擎提供出来，同样是把残余扶上了原因的宝座。[判断力不是可囤积的存量](../judgment-is-not-a-stock/)在领域经验的积累中剖开了同一种存量幻觉：围绕早先瓶颈形成的资深判断与静态行业模式，在成本结构与执行约束迁移之后，无法作为自我放大的库存被继续持守；即便是变动较慢的层面——从监管与信任门槛到基础的身体反应——也必须在承担代价的边缘接受实时的重新验证，而非凭假定沿用。
 
-[The Map After the Territory](../the-map-after-the-territory/) marks the same placement in self-improvement literature: conceptual frames composed after a transformation, when offered as the mechanism that initiates the walk, put downstream residue where the generating cause stands, whereas holding that same writing as secondary reference allows it to inform without claiming to move the feet. [Theories After Success](../cheng-gong-xue/) traces the same inversion in popular success manuals: after an outcome has already landed, surviving traits are rearranged into portable rules and sold as the engine, while the irreversible sequence of trials that produced the survivors is edited out. A population finding is the residue of other bodies' measurements rather than of this body's walk; offered as the engine of this body's care, it sets residue in the seat of the cause all the same.
+[The Map After the Territory](../the-map-after-the-territory/) marks the same placement in self-improvement literature: conceptual frames composed after a transformation, when offered as the mechanism that initiates the walk, put downstream residue where the generating cause stands, whereas holding that same writing as secondary reference allows it to inform without claiming to move the feet. [Theories After Success](../cheng-gong-xue/) traces the same inversion in popular success manuals: after an outcome has already landed, surviving traits are rearranged into portable rules and sold as the engine, while the irreversible sequence of trials that produced the survivors is edited out. A population finding is the residue of other bodies' measurements rather than of this body's walk; offered as the engine of this body's care, it sets residue in the seat of the cause all the same. [Judgment Is Not a Stock](../judgment-is-not-a-stock/) cuts through that same stock illusion in accumulated domain expertise: veteran judgment and static industry patterns formed around earlier bottlenecks cannot be held as a self-amplifying inventory once cost structures and execution constraints shift, and even slower-moving layers—from regulatory and trust thresholds to baseline somatic responses—require live revalidation at the edge that bears the cost rather than assumption.
 
 [偏好聚类与评判语言](../preference-clusters-and-the-language-of-judgment/)针对规范性语词区分了这两种持守：对与错所命名的，是对齐的偏好在遇到另一个所在未曾重描同一场域时发出的声响；作为每一步重新渲染的暂时罗盘来持守，它们为行动定向；作为外部凭据来持守，它们便要求其他中心重新描摹同样的对齐。[从可辩护的主张到教条的反转](../the-reversal-from-defensible-claim-to-dogma/)在公共卫生领域追踪了作为凭据的那一面：沿着某条选定的风险曲线得出的有条件发现，随着公共传播将分级的权衡压扁为二元指令、并将单一指标奉为安全的全部，便冻结成了教条；唯有保持在分离的层面上，指标才提供参考信息，而决断留在承担后果的人手中。外部的地图提供参考；活生生的边缘上的抉择作出决断。
 
