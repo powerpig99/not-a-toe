@@ -124,9 +124,9 @@ Local models as low-cost dispatchers of frontier capacity can remain a usable or
 
 ## 六、 向着一步之界收窄过剩滞后 / 6. Narrowing Excess Lag Toward the One-Step Bound
 
-当这一运动被觉察而非被盲目演示时，原有的主张并不会消失，而是重获其器具地位：它是被选定的取向，可以使用、可以修订，也可以在完成当下这一步之后任其卸下。本地模型的默认地位再次显现为心智可以择取的安排，而非自行选定自身的宿命。折返并不要求抛弃本地模型的部署方案，只要求将这套安排持守为选定的器具，而不是情境强加的唯一归宿。
+当这一运动被觉察而非被盲目演示时，原有的主张并不会消失，而是重获其器具地位：它是被选定的取向，可以使用、可以修订，也可以在完成当下这一步之后任其卸下。正如[你的代码库即是记忆](../your-codebase-is-memory/)跨越层叠的数字残余所追溯的那样，无论模型还是包裹其外的路由脚手架，都是早先区分压缩而成的痕迹，而非自行延续的中心；因此，让工作界面保持清明的关键，在于重切当下的检查点，而非任由昨日的脚手架伪装成今日的地面。本地模型的默认地位再次显现为心智可以择取的安排，而非自行选定自身的宿命。折返并不要求抛弃本地模型的部署方案，只要求将这套安排持守为选定的器具，而不是情境强加的唯一归宿。
 
-When the movement is noticed rather than performed, the claim does not disappear. It regains its instrumental status: a chosen orientation that can be used, revised, or allowed to drop once it has served its step. The default status of local models appears again as something the Mind can elect rather than something that elects itself. Return does not require abandoning the local-model arrangement. It requires that the arrangement be held as a chosen instrument rather than as the resolution the situation forced.
+When the movement is noticed rather than performed, the claim does not disappear. It regains its instrumental status: a chosen orientation that can be used, revised, or allowed to drop once it has served its step. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces across stacked digital residues, both models and the routing scaffolds wrapped around them are compressed traces of prior distinctions rather than continuing centers, so keeping the working surface unclouded turns on re-cutting the present checkpoint rather than letting yesterday's scaffolding masquerade as today's ground. The default status of local models appears again as something the Mind can elect rather than something that elects itself. Return does not require abandoning the local-model arrangement. It requires that the arrangement be held as a chosen instrument rather than as the resolution the situation forced.
 
 真正的入口始终是心智，它可以选择本地接入，也可以选择直接调用原生前沿模型——或者不将任何一方设为永久的默认。本地与前沿皆是这一入口之下的工具：为了承接后续区分而竖起的脚手架，只要参照随着步进向着一步之界持续重新渲染，它便始终保持可用。
 

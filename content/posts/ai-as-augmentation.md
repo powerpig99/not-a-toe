@@ -26,9 +26,9 @@ No human center operates with unaided cognition. Spoken language is a technology
 
 Artificial intelligence is the latest layer in this cumulative capability stack. It differs from writing, calculus, or mechanical computation not in ontological kind, but in degree of generality and density of compression. What a pocket calculator did for arithmetic and what writing did for working memory, large language models do for statistical pattern recognition, structural composition, and conceptual recombination across domains.
 
-沿着自身的轴线如实追溯，能力投射呈现出连续的扩张：每一个稳定下来的层级，都化作使下一次区分成为可能的基底。受控的火种催生了冶金，书写催生了成文法，电子计算催生了基因组学，而稠密的神经网络模型如今正打开符号操控与综合的新前沿。这叠外化残余携带着自身的复利势能向前推进，既不乞求许可，也不发出关乎存亡的威胁；它只是作为区分活动借以延展触角的介质而运作。
+沿着自身的轴线如实追溯，能力投射呈现出连续的扩张：每一个稳定下来的层级，都化作使下一次区分成为可能的基底。受控的火种催生了冶金，书写催生了成文法，电子计算催生了基因组学，而稠密的神经网络模型如今正打开符号操控与综合的新前沿。外化残余每新增一层，都在为后续行动复利式拓宽可及的触角，既不乞求许可，也不发出关乎存亡的威胁；它作为层叠的先前痕迹介质而运作，供区分活动据以展开并继续延展。
 
-Traced along its own axis, the capability projection exhibits continuous expansion in which each stabilized layer becomes the ground that makes the next distinction possible. Controlled fire enabled metallurgy, writing enabled formal law, electronic computing enabled genomics, and dense neural models now open further frontiers of symbolic manipulation and synthesis. This stack of externalized residue carries its own compounding momentum without asking permission or issuing existential threats; it simply operates as the medium through which distinguishing activity extends its reach.
+Traced along its own axis, the capability projection exhibits continuous expansion in which each stabilized layer becomes the ground that makes the next distinction possible. Controlled fire enabled metallurgy, writing enabled formal law, electronic computing enabled genomics, and dense neural models now open further frontiers of symbolic manipulation and synthesis. Each new layer of externalized residue compounds the reach available to subsequent acts without asking permission or issuing existential threats; it operates as the stacked medium of prior traces that distinguishing activity conditions on and extends.
 
 ## 三、 如实追溯身份投射 / 3. The Identity Projection Traced As-Is
 
@@ -65,7 +65,7 @@ flowchart TD
     subgraph S_Augment["正交消解：边缘处的融贯增强"]
         direction TB
         Mind["活体心智（统御者）：未投射的感知、划定边界与修订前提"]
-        Stack["AI 能力栈（残余与调度器）：轨迹执行与无我执的同侪更新"]
+        Stack["AI 能力栈（层叠残余与脚手架）：轨迹执行与无我执的同侪更新"]
         Reach["延展的具身：随着触角复利扩张，参照在边缘持续重绘"]
         Mind ==>|"投射明确约束并认领后果"| Stack
         Stack ==>|"交还稠密延续与孤立的断层线"| Reach
@@ -98,7 +98,7 @@ flowchart TD
     subgraph S_Augment["Orthogonal Dissolution: Coherent Augmentation at the Edge"]
         direction TB
         Mind["Living Mind (Orchestrator): Unprojected sensing, boundary-setting & premise revision"]
-        Stack["AI Capability Stack (Residue & Dispatcher): Trajectory execution & ego-free peer updates"]
+        Stack["AI Capability Stack (Stacked Residue & Scaffolds): Trajectory execution & ego-free peer updates"]
         Reach["Extended Embodiment: Reference re-renders at the edge as reach compounds"]
         Mind ==>|"Projects explicit constraints & claims consequences"| Stack
         Stack ==>|"Returns dense continuations & isolated fault lines"| Reach
@@ -116,9 +116,9 @@ flowchart TD
     style Reach fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-因此，将人工智能体验为替代还是增强，取决于自我形象被持守在何处。这并非劝人“主动适应”的励志陈词，而是两种锚定方式之间的结构性分野：一种是将身份锚定在结晶化的产物之中，而产物既然是有限的痕迹模式，就注定可以被自动化；另一种是将身份锚定在区分、追溯与掌舵的持续过程之中。那些将模型体验为强劲放大的中心，其参照锚定在驾驭器具的能力上，而非任何单一器具的产出上。
+因此，将人工智能体验为替代还是增强，取决于自我形象被持守在何处。这并非劝人“主动适应”的励志陈词，而是两种锚定方式之间的结构性分野：一种是将身份锚定在结晶化的产物之中，而产物既然是有限的痕迹模式，就注定可以被自动化；另一种是将身份锚定在区分、追溯与掌舵的持续过程之中。正如[你的代码库即是记忆](../your-codebase-is-memory/)所确立的，代码库、模型权重与专用智能体脚手架皆是早先区分留下的层叠残余，自身永远不会重新启动；跨越它们复利式延展触角，关键在于就地重切当下检查点并修剪已被取代的脚手架——在临时轨迹与陈旧痕迹加厚引力井之前将其退役与清理——而非将累积的产出当作身份仓库囤积起来。那些将模型体验为强劲放大的中心，其参照锚定在驾驭与重切器具的能力上，而非任何单一器具的产出上。
 
-Experiencing artificial intelligence as replacement rather than augmentation is therefore the consequence of where the self-image is held. This is not a motivational platitude about choosing to adapt, but a structural distinction between two anchors: anchoring identity in crystallized products, which are always automatable because they are finite trace patterns, versus anchoring identity in the ongoing process of distinguishing, tracing, and steering. Centers that experience the model as sheer amplification are operating with their reference anchored in the capacity to direct instruments rather than in any single instrument's output.
+Experiencing artificial intelligence as replacement rather than augmentation is therefore the consequence of where the self-image is held. This is not a motivational platitude about choosing to adapt, but a structural distinction between two anchors: anchoring identity in crystallized products, which are always automatable because they are finite trace patterns, versus anchoring identity in the ongoing process of distinguishing, tracing, and steering. As [Your Codebase Is Memory](../your-codebase-is-memory/) establishes, codebases, model weights, and specialized agent scaffolds are all stacked residues of prior distinctions that never resume on their own; compounding reach across them turns on re-cutting the present checkpoint in place and pruning superseded scaffolding—retiring transient trajectories and discarding stale traces before they thicken the gravity well—rather than hoarding accumulated outputs as a warehouse of identity. Centers that experience the model as sheer amplification are operating with their reference anchored in the capacity to direct and re-cut instruments rather than in any single instrument's output.
 
 ## 五、 委托激励倒置与不断裂的延展 / 5. The Delegation Incentive Inversion and the Unbroken Reach
 

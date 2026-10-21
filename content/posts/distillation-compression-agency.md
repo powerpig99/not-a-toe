@@ -180,9 +180,9 @@ Both operations travel under the name of distillation, and both register as vict
 
 ## 六、 考验在实践者手中而非模型内部 / 6. The Test Lives in the Practitioner rather than the Model
 
-一件保留了生成性结构的压缩器物，并不靠在真空中自主发起新颖突破来证明自身的价值；它的价值由鲜活中心能够借它区分并成就什么来证明。任何压缩的质量都登记在实践者手中——取决于器物究竟是暴露出延伸心智触角的结构抓手，还是将自身表面封闭为只能被动接受的预计算结论。
+一件保留了生成性结构的压缩器物，并不靠在真空中自主发起新颖突破来证明自身的价值；它的价值由鲜活中心能够借它区分并成就什么来证明。正如[你的代码库即是记忆](../your-codebase-is-memory/)横跨模型权重、代码库与智能体脚手架所追溯的，每一个检查点都是早先区分留下的压缩残余，而非一个能够记忆或发起区分的持续中心。因此，任何压缩的质量都登记在实践者手中——取决于当下的检查点究竟是被重切得在无关维度上更精简、在延伸心智触角的结构抓手上更锐利，还是被塞进了一份只能被动接受的预计算结论冻结目录。
 
-A compressed artifact that preserves generative structure does not prove its worth by autonomously originating novel breakthroughs in a vacuum; it proves its worth by what a living center can distinguish and accomplish through it. The quality of any compression registers in the practitioner's hands—whether the artifact exposes structural handles that extend the Mind's reach, or seals its surface into pre-computed conclusions that can only be passively accepted.
+A compressed artifact that preserves generative structure does not prove its worth by autonomously originating novel breakthroughs in a vacuum; it proves its worth by what a living center can distinguish and accomplish through it. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces across model weights, codebases, and agent scaffolds, every checkpoint is a compressed residue of prior distinctions rather than a continuing center that remembers or initiates. The quality of any compression therefore registers in the practitioner's hands—whether the present checkpoint has been re-cut to stay smaller in irrelevant dimensions and sharper on the structural handles that extend the Mind's reach, or packed into a frozen catalog of pre-computed conclusions that can only be passively accepted.
 
 原理之所以能让实践者针对教师模型与学生模型在训练中都未曾遇见过的问题生成解答，恰恰是因为鲜活的中心借由原理执行了发起区分的行动。查找表交给消费者的则是一份封闭的回应目录，它在预期的走廊之内运转良好，但现实迈出走廊的那一刻便会变得脆弱不堪。
 

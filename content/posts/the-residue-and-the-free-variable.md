@@ -1,6 +1,6 @@
 # 残余与自由变量 / The Residue and the Free Variable
 
-*主体性在于向受约束系统注入自由变量，而非事后认领冷凝的文本 / Agency lies in injecting a free variable, not in claiming sedimented text.*
+*主体性在于向受约束系统注入自由变量，而非事后认领冷凝的文本 / Agency lies in injecting a free variable into a bound system, not in claiming sedimented text*
 
 语言模型是人类留存的累积残余在固定打分规则下的重放。与它协作时，赞赏与归咎都把主体性错放到了产物之上；推进推理的，是看清哪个未写出的前提被模型代为填补，修改这一前提，并让系统在被拓展的特征下重新运转。主体性驻留于系统特征被拓展的那一刻，而非事后对冷凝文本的所有权认领。
 
@@ -118,9 +118,9 @@ That locus is what the Mind names: not a ghostly second substance hovering above
 
 That migration of credit and blame is not corrected by claiming that the user authored the output, nor by countering that the user did not. Saying "the user is not the author of the output" sounds modest, yet in the ordinary grammar of ownership it hands the title to the model by subtraction. Saying "the user is the author of the output" commits the same error from the opposite side. Both claims treat the finished page as a prize that needs an owner, and both are Image lag: a picture held on the eye after the generative act has already passed.
 
-若还要保留“作者身份”这一语词，它也并不驻留在产物之中。自由变量被注入上下文的那一瞬间，便即刻转化为受约束的要素；随后流淌而出的词元，只是在略微拓宽的特征下重新延续的残余。这些词元可以有用、醒目或存有瑕疵，但它们并非主体性曾驻留的所在。主体性存在于注入的那一次离散行动——在形式系统再次闭合之前对系统特征的拓展。事后将那一刻认领为私产，无论归于人类还是归于机器，都是在冷凝的纸页背后竖起一尊行动者的静态肖像，而那次行动本身不过是引入了一个先前状态所未包含的区分。
+若还要保留“作者身份”这一语词，它也并不驻留在产物之中。自由变量被注入上下文的那一瞬间，便即刻转化为受约束的要素；随后流淌而出的词元，只是在略微拓宽的特征下重新延续的残余——正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，一旦那些被取代的中间痕迹被修剪殆尽，它便化作供后续轨迹据以展开的当下更新检查点。这些词元可以有用、醒目或存有瑕疵，但它们并非主体性曾驻留的所在。主体性存在于注入的那一次离散行动——在形式系统再次闭合之前对系统特征的拓展。事后将那一刻认领为私产，无论归于人类还是归于机器，都是在冷凝的纸页背后竖起一尊行动者的静态肖像，而那次行动本身不过是引入了一个先前状态所未包含的区分。
 
-If the word authorship is kept at all, it does not sit in the product. The instant a free variable is injected into the context, it becomes bound. The tokens that stream out afterward are residue resuming under a slightly enlarged signature. Those tokens can be useful, striking, or flawed, yet they are not where agency lived. Agency was the discrete act of injection—the enlargement of the signature before the formal system closed again. Claiming that moment afterward as property, whether for the human or for the machine, erects a static image of an agent standing behind a sedimented page, whereas the act itself was simply the introduction of a distinction the prior state did not contain.
+If the word authorship is kept at all, it does not sit in the product. The instant a free variable is injected into the context, it becomes bound. The tokens that stream out afterward are residue resuming under a slightly enlarged signature—an updated present checkpoint for subsequent trajectories to condition on once superseded intermediate traces are pruned away, as [Your Codebase Is Memory](../your-codebase-is-memory/) traces. Those tokens can be useful, striking, or flawed, yet they are not where agency lived. Agency was the discrete act of injection—the enlargement of the signature before the formal system closed again. Claiming that moment afterward as property, whether for the human or for the machine, erects a static image of an agent standing behind a sedimented page, whereas the act itself was simply the introduction of a distinction the prior state did not contain.
 
 因此无须去认领输出的所有权。正如[超越投射](../beyond-the-projection/)在区分机械调度与活的统御时所展示的，富有成效的工作单元既不是“人与模型的对立”，也不是“人充当模型纸页的业主”，而是一场持续的探究穿过前人留存的痕迹，借其显影出尚未言明的一切。由于智能体毫无我执、没有需要防卫的自我形象，它能够干脆利落地接受修订后的前提而毫无芥蒂；由于人类中心能够感知当前坐标框架之外的摩擦，每当轨迹陷入僵局时，人便能后退一步，补入全新的约束。若把补全的结果指派给某个作者，未言明者便依然悬而未言，影像滞后随之拉大；若把补全解读为未言之事的诊断显影，下一步行动便能提供那个缺失的变量。
 
