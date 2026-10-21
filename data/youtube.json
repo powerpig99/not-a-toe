@@ -374,6 +374,38 @@
     "processed": "2026-10-21T05:52:54.882Z",
     "playlist": "PLGrxskF8JnDo"
    }
+  },
+  "judgment-is-not-a-stock": {
+   "en": {
+    "id": "-GjRsdvYjmM",
+    "url": "https://youtu.be/-GjRsdvYjmM",
+    "title": "Judgment Is Not a Stock",
+    "privacy": "public",
+    "uploaded": "2026-10-21T14:54:59.334Z",
+    "file": "studio/post/judgment-is-not-a-stock/final/judgment-is-not-a-stock.en.16x9.final.mp4",
+    "sha256": {
+     "film": "5bdb6123fb03c9fc12ba0c2c703e492fbc83ebd7ac4582fe2f958af2ff15194d",
+     "intro": "a7d2400b6f356e8a286e3a49dfe5b4b669fad429958dcfd27c82673e0b97a259"
+    },
+    "status": "processed",
+    "processed": "2026-10-21T14:55:51.957Z",
+    "playlist": "PLMyi7vp2KMyA"
+   },
+   "zh": {
+    "id": "4MJy-jBW9eQ",
+    "url": "https://youtu.be/4MJy-jBW9eQ",
+    "title": "判断力不是可囤积的存量",
+    "privacy": "public",
+    "uploaded": "2026-10-21T14:56:08.696Z",
+    "file": "studio/post/judgment-is-not-a-stock/final/judgment-is-not-a-stock.zh.16x9.final.mp4",
+    "sha256": {
+     "film": "58b5810bb99f00e569515deeb4602e9c57e1e7b087a367581a64359476cbe0a5",
+     "intro": "9dda12b09da0228d51343e9d34cea28bca10c4b5e1b78e3a58e1d80dd23d3840"
+    },
+    "status": "processed",
+    "processed": "2026-10-21T14:56:40.309Z",
+    "playlist": "PLGrxskF8JnDo"
+   }
   }
  }
 }
