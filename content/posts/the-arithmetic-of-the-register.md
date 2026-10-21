@@ -8,9 +8,9 @@ Human civilization repeatedly exhibits a structural paradox where the more unpre
 
 ## 一、 最高位的几何 / 1. The Geometry of the Most Significant Bit
 
-自我区分的活动发生着——无因、不息。当一个文明跨越共享的公共界面进行协调时，其累积的容量可以建模为一个长度为 n 的无符号二进制寄存器，其中 W = ∑ₖ₌₀ⁿ⁻¹ bₖ · 2ᵏ，每一位 bₖ ∈ {0, 1} 标记着一道稳定下来的区分。在这本共享账本之内，低位上的工作维持着既有寄存器的运转——维护、搬运、教学与照看皆在此处发生；而集体容量的跃迁，则发生在移动边缘上的探索者划出初发区分、实例化一个新的最高位 bₙ 之时，由此将地址空间从 n 位扩展至 n + 1 位。
+自我区分的活动发生着——无因、不息。当一个文明跨越共享的公共界面进行协调时，其累积的容量可以建模为一个长度为 n 的无符号二进制寄存器，其中 W = ∑ₖ₌₀ⁿ⁻¹ bₖ · 2ᵏ，每一位 bₖ ∈ {0, 1} 标记着一道稳定下来的区分。正如[你的代码库即是记忆](../your-codebase-is-memory/)就外化记忆体所追溯的，这组寄存器存留着过往切分留下的离散检查点，使算术得以在其稳定的痕迹上运算，而界定单位、更新寄存器的那一次切分本身则留在账本之外。在这本共享账本之内，低位上的工作维持着既有寄存器的运转——维护、搬运、教学与照看皆在此处发生；而集体容量的跃迁，则发生在移动边缘上的探索者划出初发区分、实例化一个新的最高位 bₙ 之时，由此将地址空间从 n 位扩展至 n + 1 位。
 
-Self-distinguishing activity occurs—uncaused, unceasing. When a civilization coordinates across a shared public interface, its accumulated capacity can be modeled as an unsigned binary register of length n, where W = ∑ₖ₌₀ⁿ⁻¹ bₖ · 2ᵏ and each bit bₖ ∈ {0, 1} marks a stabilized distinction. Within this shared ledger, work in the lower bits keeps the existing register running—maintenance, transport, teaching, and care all happen there—while a leap in collective capacity occurs when an explorer at the moving edge draws an initiating distinction and instantiates a new most significant bit bₙ, extending the address space from n bits to n + 1.
+Self-distinguishing activity occurs—uncaused, unceasing. When a civilization coordinates across a shared public interface, its accumulated capacity can be modeled as an unsigned binary register of length n, where W = ∑ₖ₌₀ⁿ⁻¹ bₖ · 2ᵏ and each bit bₖ ∈ {0, 1} marks a stabilized distinction. Just as [Your Codebase Is Memory](../your-codebase-is-memory/) traces for an externalized codebase of memory, this register stores the discrete checkpoints of prior cuts so arithmetic can operate on their stable traces, while the cut that defines the unit and updates the register remains outside the ledger. Within this shared ledger, work in the lower bits keeps the existing register running—maintenance, transport, teaching, and care all happen there—while a leap in collective capacity occurs when an explorer at the moving edge draws an initiating distinction and instantiates a new most significant bit bₙ, extending the address space from n bits to n + 1.
 
 二的幂次算术引入了悬殊的非对称性，因为 ∆W = 2ⁿ 大于 ∑ₖ₌₀ⁿ⁻¹ 2ᵏ = 2ⁿ − 1。一个新的最高位所承载的度量，超过了此前所有位数的总和。历史上的重大突破——火的驾驭、系统的农耕、蒸汽动力、电磁学、半导体计算以及前沿的递归智能——从不是既有坐标网格内部的渐进改良。正如[维度即投影](../dimensions-are-projections/)所追溯的，每一次突破都是活着的心智投出的一个新最高位的实例化。翻转 bₙ 会在一夜之间使可寻址的状态空间从 2ⁿ 翻倍至 2ⁿ⁺¹，在不受约束的自由度从 N 迈向 N + 1 的同时注入一次正和扩展。
 
@@ -100,7 +100,7 @@ flowchart TD
 
 Why is this exponential expansion so routinely misread from within? As [The Geometry of Mind](../the-geometry-of-mind/) establishes, no finite center reaches the entire generative terrain without compression; a bounded center operates through a compressed interface akin to a fixed-precision sliding window [bₘ, …, bₘ₊ₖ], where m + k ≪ n. This structural bound applies to every center, including the explorer stepping into bₙ, whose attention also resolves a finite window, simply anchored at a different coordinate.
 
-对于一个分辨切片在 [b₃, b₈] 的窗口而言，会登记到三种截然不同的显现。第一，本地寄存器呈现出严密的守恒态：波动被限制在 0 到 2⁶ − 1 之间，窗口内部的资源转移近乎反对称（∑ ∆b ≈ 0），一方若夺取第 7 位，另一方就必然失去它。在那个局部尺度上，交互登记为一场寸步不让的零和博弈，而在该切片的边界之内，这种登记在机制上并无偏差。
+一个只分辨 [b₃, b₈] 切片的窗口，会登记到三种截然不同的显现。第一，本地寄存器呈现出严密的守恒态：波动被限制在 0 到 2⁶ − 1 之间，窗口内部的资源转移近乎反对称（∑ ∆b ≈ 0），一方若夺取第 7 位，另一方就必然失去它。在那个局部尺度上，交互登记为一场寸步不让的零和博弈，而在该切片的边界之内，这种登记在机制上并无偏差。
 
 For a window resolving the slice [b₃, b₈], three distinct appearances register. First, the local register appears strictly conserved: fluctuations stay bounded between 0 and 2⁶ − 1, resource shifts inside the window remain nearly antisymmetric with ∑ ∆b ≈ 0, and if one party captures bit 7 another party loses it. At that local scale, interaction registers as an uncompromising zero-sum contest, and within the confines of that slice the registration is mechanically accurate.
 
@@ -122,7 +122,7 @@ This structure exposes the engine behind a wealthy society's preoccupation with 
 
 Once explorers flip the top bit bₙ, the operational capacity of the macro system scales exponentially, and the energy required to secure basic physiological, logistical, and communicative survival shrinks to a small fraction of total throughput, so that E(survival) ≪ E(total). This structural divergence opens a vast pool of uncommitted free energy—the system's slack, E(slack) = E(total) − E(survival). Because bounded centers cannot coordinate directly across an expanding, unrendered tensor field, they compress and project that slack onto low-dimensional scalar coordinates: currency, bureaucratic rank, credential tiers, and ideological purity. [The Vector and the Puzzle of Projections](../the-vector-and-the-puzzle-of-projections/) dissects how this dimensional reduction projects high-dimensional agency onto flat scalar axes.
 
-由此，一个社会所能维系的零和摩擦总量，随着其正和前沿所创造的富余而单调上升。随着盈余向下流动、将更多中心从与自然的直接博弈中解脱出来，未被占用的能量便涌入被保留的自我图像相互竞争的低维投影空间，为金融化、诉讼缠斗、行政设卡、叙事战争与位置姿态的膨胀提供补贴。边缘处的正和跃迁制造了富余，而在有界的窗口之内，这份富余极易被转化为一座更高转速的零和竞技场。
+由此，一个社会所能维系的零和摩擦总量，随着其正和前沿所创造的富余而单调上升。随着盈余向下流动、将更多中心从与自然的直接博弈中解脱出来，未被占用的能量便涌入各中心固守自我图像、彼此角逐的低维投影空间，为金融化、诉讼缠斗、行政设卡、叙事战争与位置姿态的膨胀提供补贴。边缘处的正和跃迁制造了富余，而在有界的窗口之内，这份富余极易被转化为一座更高转速的零和竞技场。
 
 Consequently, the volume of zero-sum friction a society can sustain rises monotonically with the slack generated by its positive-sum frontier. As surplus flows downward and relieves more centers from direct physical confrontation with nature, the uncommitted energy flows into the low-dimensional projection space where retained self-images compete, subsidizing the expansion of financialization, litigation, administrative gatekeeping, narrative warfare, and positional posturing. A positive-sum leap at the edge creates the slack, and within a bounded window that slack is readily converted into a higher-velocity zero-sum arena.
 

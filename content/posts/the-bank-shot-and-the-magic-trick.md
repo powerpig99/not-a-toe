@@ -66,9 +66,9 @@ This is the mechanism of the magic trick. A stage magician does not suspend caus
 
 To make a trick look like magic, the performer has to put in a great deal of first-person practice. The sleight of hand must be fast and exact, the misdirection calibrated, until every trace of mechanical strain disappears from the audience's view. The saying that a minute on stage takes ten years off stage describes causal compounding: the look of effortless absence is produced by the most rigorous presence of repetition.
 
-第三人称的旁观者看到举重若轻，常把看不见的吃力当成没有因果的功夫，把精通归于天才、天赋或运气。翻袋球打得越顺，背后在球桌边独自站过的时间就越多，握杆、旋转与力道，一次次对着真实的阻力校准出来。
+第三人称的旁观者看到举重若轻，常把看不见的吃力当成没有因果的功夫，把精通归于天才、天赋或运气。翻袋球打得越顺，背后在球桌边独自站过的时间就越多，握杆、旋转与力道，一次次对着真实的阻力校准出来。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，一套维护得当的记忆代码库——校准好的库边、验证过的例程与修剪干净的脚手架——能让对母球的有意一击沿着多次反弹利落地传导到底，而魔术戏法的幻象遮住了这些预先铺垫的切分，把最终落袋的那颗球误认作无因的奇迹。
 
-Third-person onlookers who see effortless ease tend to take the absence of visible strain for the absence of causal work, and credit the mastery to genius, gift or chance. The smoother the bank shot looks, the more hours were spent standing alone at the table, grip, spin and pace calibrated again and again against real resistance.
+Third-person onlookers who see effortless ease tend to take the absence of visible strain for the absence of causal work, and credit the mastery to genius, gift or chance. The smoother the bank shot looks, the more hours were spent standing alone at the table, grip, spin and pace calibrated again and again against real resistance. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces, a well-maintained codebase of memory—calibrated cushions, verified routines and pruned scaffolding—lets a single deliberate strike at the cue ball propagate cleanly across multiple bounces, whereas the magic-trick illusion hides those preparatory cuts and mistakes the final pocketed ball for an uncaused miracle.
 
 ## 三、 未被看见的反弹 / 3. The Unseen Rebound
 
