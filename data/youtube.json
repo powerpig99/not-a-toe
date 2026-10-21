@@ -342,6 +342,38 @@
     "processed": "2026-10-20T16:41:00.737Z",
     "playlist": "PLGrxskF8JnDo"
    }
+  },
+  "your-codebase-is-memory": {
+   "en": {
+    "id": "1eX_NdQwGVE",
+    "url": "https://youtu.be/1eX_NdQwGVE",
+    "title": "Your Codebase Is Memory",
+    "privacy": "public",
+    "uploaded": "2026-10-21T05:51:46.450Z",
+    "file": "studio/post/your-codebase-is-memory/final/your-codebase-is-memory.en.16x9.final.mp4",
+    "sha256": {
+     "film": "ddafcadc8c6bea338e5dd51fa3a382241c6b9fe61c28e8d24b24005c3867f54f",
+     "intro": "ae575163940fe3b6864ecea584bc3ec59fc193fe3f01cd12fd778bd30fd51402"
+    },
+    "status": "processed",
+    "processed": "2026-10-21T05:52:18.080Z",
+    "playlist": "PLMyi7vp2KMyA"
+   },
+   "zh": {
+    "id": "I63R--umXUE",
+    "url": "https://youtu.be/I63R--umXUE",
+    "title": "你的代码库即是记忆",
+    "privacy": "public",
+    "uploaded": "2026-10-21T05:52:23.353Z",
+    "file": "studio/post/your-codebase-is-memory/final/your-codebase-is-memory.zh.16x9.final.mp4",
+    "sha256": {
+     "film": "949d2ea3f030a03e2d22116366d68287f252d507e17c5d35d4346b2a9b771787",
+     "intro": "795c700ea14134037adaf4096745069b52c5f20371f22d173dd16d4e543780e7"
+    },
+    "status": "processed",
+    "processed": "2026-10-21T05:52:54.882Z",
+    "playlist": "PLGrxskF8JnDo"
+   }
   }
  }
 }

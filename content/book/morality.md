@@ -18,7 +18,7 @@ These essays dissect victimhood scripts, suicidal empathy inversions, and the ab
 - [The Word Does the Damage: Empathy as Projection Collapse](../../posts/empathy-as-projection-collapse/)
 - [Evil as Projected Resistance](../../posts/evil-as-projected-resistance/)
 - [The Frame That Conceals Improvement](../../posts/the-frame-that-conceals-improvement/)
-- [Emotional Support as Causal Interference](../../posts/emotional-support-as-causal-interference/)
+- [作为因果干扰的情感支持 / Emotional Support as Causal Interference](../../posts/emotional-support-as-causal-interference/)
 - [恶是心智自己的造物 / Evil as the Mind's Own Creation](../../posts/evil-as-the-minds-own-creation/)
 - [When Need Stops Being the Measure](../../posts/when-need-stops-being-the-measure/)
 - [同情是缺乏清晰时的占位符 / Sympathy Is a Placeholder for Lack of Clarity](../../posts/sympathy-is-a-placeholder-for-lack-of-clarity/)

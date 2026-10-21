@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T05:48:01.583Z",
+    "generated_at": "2026-10-21T07:03:51.083Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -24,7 +24,7 @@
       "content/posts/ai-wont-kill-software-engineering.md": "03db75e20040",
       "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "67468da824c1",
       "content/posts/amplification-paradox.md": "a275c141a687",
-      "content/posts/an-observation-by-its-own-standard.md": "c3c67e17cfb2",
+      "content/posts/an-observation-by-its-own-standard.md": "1d44b8371330",
       "content/posts/better-than-free-after-the-checklist-closes.md": "d39b1b10df08",
       "content/posts/beyond-the-hundred-trillion-horizon.md": "7092a6d76ade",
       "content/posts/beyond-the-projection.md": "77fe2468ff0d",
@@ -53,7 +53,7 @@
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
       "content/posts/context-engineering-essay.md": "55bc0307c3d5",
       "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "0ca36bdab435",
-      "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "5bb90948a9c0",
+      "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "b3e99a733b19",
       "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "1629917a17b9",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "de3299fb5449",
       "content/posts/curiosity-has-no-final-form.md": "e59b53bce77e",
@@ -67,7 +67,7 @@
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "1b67e9d4ce82",
       "content/posts/e-shi-feng-bi-de-shan.md": "df2ef3e17c0a",
       "content/posts/efficiency-without-differentiation.md": "3e2aad7ba924",
-      "content/posts/emotional-support-as-causal-interference.md": "502e2b0e04b1",
+      "content/posts/emotional-support-as-causal-interference.md": "4c4a477833bd",
       "content/posts/empathy-as-projection-collapse.md": "48c21092f783",
       "content/posts/empowerment-establishes-the-centralization-of-power.md": "88f2c8ef1bd8",
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "7085a1dd3e50",
@@ -83,7 +83,7 @@
       "content/posts/fate-loves-irony-refined.md": "b81c7f96dfd5",
       "content/posts/felt-resistance-and-the-speed-differential.md": "067a958b2103",
       "content/posts/fidelity-not-optimality.md": "7ed073d86a59",
-      "content/posts/fixed-by-nothing.md": "ba159612fe3d",
+      "content/posts/fixed-by-nothing.md": "9f5437174a82",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
       "content/posts/freedom-as-ground.md": "76afe66c491b",
       "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "49034385ba4b",
@@ -93,9 +93,9 @@
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "93c650d4e105",
       "content/posts/grok-420-framework-drift.md": "0d1d819b53ab",
       "content/posts/guan-yu-gui-yin.md": "579cd9cb8530",
-      "content/posts/guidance-is-not-ownership.md": "7d51a8692137",
+      "content/posts/guidance-is-not-ownership.md": "ad110e0b12b6",
       "content/posts/hardness-is-not-inherent-in-the-action.md": "316eb567ee9c",
-      "content/posts/hardware-locality-is-not-the-information-boundary.md": "13b7e7527a60",
+      "content/posts/hardware-locality-is-not-the-information-boundary.md": "4ca9797d5e48",
       "content/posts/hassabis-einstein-test.md": "2f47eea4a045",
       "content/posts/hassabis-frontier-agi-premise.md": "5c4fc62c8e77",
       "content/posts/having-more-is-never-the-cause.md": "fff7b1e393f6",
@@ -149,7 +149,7 @@
       "content/posts/order-surplus-and-the-moral-intercept.md": "7cb3a1c5111c",
       "content/posts/overfitting-as-the-follower-mode.md": "c2ebb1c4e1e2",
       "content/posts/ownership-and-self-worthiness.md": "dfb40cb50651",
-      "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "5b46760873d0",
+      "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "ccfe0b71ff75",
       "content/posts/perception-perspective-refined.md": "e05973d21de9",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "3e61069b5eda",
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "4c53ac6aa52d",
@@ -174,7 +174,7 @@
       "content/posts/restriction-is-a-selective-tax.md": "c6a8d3b34966",
       "content/posts/scaffolds-or-specialized-contexts.md": "fb0705d100f4",
       "content/posts/school_essay_final.md": "7805457b6ae2",
-      "content/posts/selection-contradiction-and-open-reality.md": "b8f1683a325c",
+      "content/posts/selection-contradiction-and-open-reality.md": "74fbecb78715",
       "content/posts/self-image-speaks-as-if-from-nowhere.md": "4222603f103d",
       "content/posts/self-rl-for-humans.md": "da8444ae39c6",
       "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "4f201d2f0e99",
@@ -258,7 +258,7 @@
       "content/posts/the-geometry-of-mind.md": "3d0ba4f53d48",
       "content/posts/the-geometry-of-success.md": "546c4a0dba71",
       "content/posts/the-geometry-of-the-cut.md": "ae41a43f7e1a",
-      "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "8b4bd95500b8",
+      "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "8f767f4e3415",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "18ddaac771bf",
       "content/posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function.md": "d0abfd039874",
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "13b646bb8cfd",
@@ -271,7 +271,7 @@
       "content/posts/the-illusion-of-the-unmediated.md": "28f4473900a5",
       "content/posts/the-imagining-of-ai-risk.md": "06a93ab32a22",
       "content/posts/the-initial-distinction.md": "fb8bcede093f",
-      "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md": "5055d175e3de",
+      "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md": "17c508560e06",
       "content/posts/the-interesting-case-of-rubin.md": "46935f511909",
       "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "5db081fa7c26",
       "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "bec4cd8c5f9b",
@@ -304,7 +304,7 @@
       "content/posts/the-moral-reversal-and-the-scripted-subject.md": "a614ebfdfda8",
       "content/posts/the-myth-of-population-collapse-explained.md": "9be9bfe9c763",
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "971cce019879",
-      "content/posts/the-name-revolution-files-a-life-as-evidence.md": "99805d2b130f",
+      "content/posts/the-name-revolution-files-a-life-as-evidence.md": "0005b5557300",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "d580075b6d35",
       "content/posts/the-npc-impression-is-structural.md": "42db1320fcc9",
       "content/posts/the-observational-cut-in-ai-debates.md": "4c40a00e0ba9",
@@ -327,7 +327,7 @@
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "8c4f283b8657",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "7efd08cd840c",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "fd5975fa9bb2",
-      "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "5d5ae354856a",
+      "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "ad7483982bf1",
       "content/posts/the-reflexive-dilemma-of-unique-insight.md": "e0b2f868f3d1",
       "content/posts/the-residue-and-the-free-variable.md": "58c0ff59267d",
       "content/posts/the-returning-signal-and-its-claim.md": "3e0a96be38a7",
@@ -408,14 +408,14 @@
       "content/book/causality.md": "477893ec526b",
       "content/book/consciousness.md": "d8595aa6097d",
       "content/book/economics.md": "c863f3bd1a44",
-      "content/book/index-of-premises.md": "0f2a08d0033f",
+      "content/book/index-of-premises.md": "fd183a644b8f",
       "content/book/intelligence.md": "8530f0e466c0",
       "content/book/knowledge-and-learning.md": "51d92651b2ed",
       "content/book/life-and-statistics.md": "903bd0f56d99",
       "content/book/mathematics.md": "511585102871",
       "content/book/meaning-and-transcendence.md": "ce5168a72c34",
       "content/book/method.md": "6246e4ef1096",
-      "content/book/morality.md": "71b3ff6176b6",
+      "content/book/morality.md": "f9ec3b11ce49",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "d0065384016a",
       "content/book/state-and-collective.md": "7d0cb00e0e55",
@@ -424,10 +424,10 @@
     },
     "stats": {
       "posts": 397,
-      "edges": 10211,
-      "unique_directed": 5053,
+      "edges": 10244,
+      "unique_directed": 5065,
       "missing_targets": 0,
-      "one_way": 553,
+      "one_way": 565,
       "isolated": 35,
       "posts_with_outbound": 361,
       "book_pages": 16,
@@ -438,7 +438,7 @@
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 212
+      "in_degree": 224
     },
     {
       "slug": "beyond-the-projection",
@@ -1014,9 +1014,9 @@
       "slug": "an-observation-by-its-own-standard",
       "path": "content/posts/an-observation-by-its-own-standard.md",
       "title": "依其自身标准的观察 / An Observation by Its Own Standard",
-      "hash": "c3c67e17cfb2",
+      "hash": "1d44b8371330",
       "in_degree": 10,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "the-reversal-from-defensible-claim-to-dogma",
         "the-other-coherence",
@@ -1024,6 +1024,7 @@
         "the-continuum-of-the-fold",
         "consciousness-never-appears-as-data-among-data",
         "the-cut-moves-but-never-vanishes",
+        "your-codebase-is-memory",
         "the-real-lesson-from-the-consciousness-vector-paper",
         "consciousness-ascription-and-the-quantum-cut",
         "the-boundary-of-the-frame"
@@ -1821,9 +1822,9 @@
       "slug": "coordinates-in-flux-negation-and-self-anchoring",
       "path": "content/posts/coordinates-in-flux-negation-and-self-anchoring.md",
       "title": "流动中的坐标 / Coordinates in Flux",
-      "hash": "5bb90948a9c0",
+      "hash": "b3e99a733b19",
       "in_degree": 8,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "the-dissolution-of-the-great-reversal",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
@@ -1833,6 +1834,7 @@
         "coordinate-systems-mind-and-degrees-of-freedom",
         "beyond-the-projection",
         "climbing-does-not-leave-the-ground",
+        "your-codebase-is-memory",
         "the-illusion-of-knowing-and-the-geometry-of-amputation"
       ]
     },
@@ -2133,11 +2135,12 @@
       "kind": "post",
       "slug": "emotional-support-as-causal-interference",
       "path": "content/posts/emotional-support-as-causal-interference.md",
-      "title": "Emotional Support as Causal Interference",
-      "hash": "502e2b0e04b1",
+      "title": "作为因果干扰的情感支持 / Emotional Support as Causal Interference",
+      "hash": "4c4a477833bd",
       "in_degree": 9,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
+        "your-codebase-is-memory",
         "when-need-stops-being-the-measure",
         "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
         "guidance-is-not-ownership",
@@ -2498,9 +2501,9 @@
       "slug": "fixed-by-nothing",
       "path": "content/posts/fixed-by-nothing.md",
       "title": "没有固定者的固定 / Fixed by Nothing",
-      "hash": "ba159612fe3d",
+      "hash": "9f5437174a82",
       "in_degree": 9,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "the-deterministic-machine",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -2510,6 +2513,7 @@
         "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
         "the-residue-and-the-free-variable",
+        "your-codebase-is-memory",
         "the-substrate-of-constraint-and-the-self-denial-of-freedom"
       ]
     },
@@ -2707,9 +2711,9 @@
       "slug": "guidance-is-not-ownership",
       "path": "content/posts/guidance-is-not-ownership.md",
       "title": "引导不是占有 / Guidance Is Not Ownership",
-      "hash": "7d51a8692137",
+      "hash": "ad110e0b12b6",
       "in_degree": 9,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "the-generative-atlas-of-macroscopic-phenomena",
         "sympathy-is-a-placeholder-for-lack-of-clarity",
@@ -2719,7 +2723,8 @@
         "emotional-support-as-causal-interference",
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
         "ownership-and-self-worthiness",
-        "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai"
+        "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -2745,9 +2750,9 @@
       "slug": "hardware-locality-is-not-the-information-boundary",
       "path": "content/posts/hardware-locality-is-not-the-information-boundary.md",
       "title": "硬件的本地性不是信息的边界 / Hardware Locality Is Not the Information Boundary",
-      "hash": "13b7e7527a60",
+      "hash": "4ca9797d5e48",
       "in_degree": 8,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "residual-control-recedes-to-the-edge",
         "the-scaffolding-we-forget-local-models-as-default",
@@ -2757,7 +2762,8 @@
         "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
         "sovereignty-belief-and-regulatory-structures",
         "no-system-can-be-kept-closed",
-        "openness-is-consistency"
+        "openness-is-consistency",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -4282,13 +4288,14 @@
       "slug": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
       "path": "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md",
       "title": "拥有成本把滞后的平均值冻结为车辆属性 / Ownership Cost Freezes Lagged Averages as Vehicle Property",
-      "hash": "5b46760873d0",
+      "hash": "ccfe0b71ff75",
       "in_degree": 9,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
         "the-allocation-of-causal-power-in-validation",
         "data-is-local-intelligence-is-allocated",
+        "your-codebase-is-memory",
         "the-reality-distortion-field-inverts-the-baseline",
         "what-works-is-the-belief",
         "having-more-is-never-the-cause",
@@ -4913,9 +4920,9 @@
       "slug": "selection-contradiction-and-open-reality",
       "path": "content/posts/selection-contradiction-and-open-reality.md",
       "title": "选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality",
-      "hash": "b8f1683a325c",
+      "hash": "74fbecb78715",
       "in_degree": 8,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "abstraction-boundaries-and-the-moving-edge-of-reality",
         "causality-and-the-irreducible-prior",
@@ -4925,7 +4932,8 @@
         "openness-is-consistency",
         "beyond-the-projection",
         "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
-        "on-closed-systems-open-minds-and-the-limits-of-proof"
+        "on-closed-systems-open-minds-and-the-limits-of-proof",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -6970,14 +6978,15 @@
       "slug": "the-grammar-of-finding-and-the-fading-observer",
       "path": "content/posts/the-grammar-of-finding-and-the-fading-observer.md",
       "title": "寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer",
-      "hash": "8b4bd95500b8",
+      "hash": "8f767f4e3415",
       "in_degree": 10,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "on-closed-systems-open-minds-and-the-limits-of-proof",
         "the-irreducible-observer",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "the-invisible-observer-and-the-delusion-of-lossless-transmission",
+        "your-codebase-is-memory",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "the-hard-problem-of-consciousness-is-consistent-with-learning",
         "the-blind-spot-of-the-frame",
@@ -7252,9 +7261,9 @@
       "slug": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
       "path": "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md",
       "title": "内部人假定与被动防护的因果倒置 / The Insider Presumption and the Causal Inversion of Reactive Containment",
-      "hash": "5055d175e3de",
+      "hash": "17c508560e06",
       "in_degree": 2,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "a-creation-cannot-replace-its-source",
@@ -7262,6 +7271,7 @@
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-summary-first-reversal-and-the-command-of-yields",
+        "your-codebase-is-memory",
         "the-digital-god-and-the-horizon-jump",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
         "the-power-law-of-surrendered-agency",
@@ -7958,9 +7968,9 @@
       "slug": "the-name-revolution-files-a-life-as-evidence",
       "path": "content/posts/the-name-revolution-files-a-life-as-evidence.md",
       "title": "革命之名把生活收成证据 / The Name Revolution Files a Life as Evidence",
-      "hash": "99805d2b130f",
+      "hash": "0005b5557300",
       "in_degree": 9,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "the-mind-as-vector-and-coordinate-system",
         "the-moral-reversal-and-the-scripted-subject",
@@ -7969,6 +7979,7 @@
         "liberation-rhetoric-begins-by-defining-captivity",
         "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
         "openness-is-consistency",
         "the-summary-first-reversal-and-the-command-of-yields"
@@ -8546,15 +8557,16 @@
       "slug": "the-receptionist-parable-and-the-causal-inversion-of-absence",
       "path": "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md",
       "title": "前台的寓言与缺席的因果倒置 / The Receptionist Parable and the Causal Inversion of Absence",
-      "hash": "5d5ae354856a",
+      "hash": "ad7483982bf1",
       "in_degree": 9,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "the-explanatory-trap-of-the-ordinary-perspective",
         "the-free-variable-and-the-retrospective-illusion-of-power",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-knowledge-problem-and-the-illusion-of-delegation",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "one-cannot-escape-ones-own-mind",
         "the-causal-inversion-of-partnership",
         "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
@@ -10255,7 +10267,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 212,
+      "in_degree": 224,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -12832,6 +12844,18 @@
       "to": "the-cut-moves-but-never-vanishes",
       "rel": "points_to",
       "label": "The rate is what this paradigm registers"
+    },
+    {
+      "from": "an-observation-by-its-own-standard",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "an-observation-by-its-own-standard",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "an-observation-by-its-own-standard",
@@ -18367,6 +18391,12 @@
     },
     {
       "from": "coordinates-in-flux-negation-and-self-anchoring",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "coordinates-in-flux-negation-and-self-anchoring",
       "to": "climbing-does-not-leave-the-ground",
       "rel": "points_to",
       "label": "Climbing Does Not Leave the Ground"
@@ -18376,6 +18406,12 @@
       "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "rel": "points_to",
       "label": "The Inversion of the Harness and the Sovereignty of the Driver's Seat"
+    },
+    {
+      "from": "coordinates-in-flux-negation-and-self-anchoring",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "coordinates-in-flux-negation-and-self-anchoring",
@@ -20053,9 +20089,45 @@
     },
     {
       "from": "emotional-support-as-causal-interference",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "emotional-support-as-causal-interference",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "emotional-support-as-causal-interference",
+      "to": "when-need-stops-being-the-measure",
+      "rel": "points_to",
+      "label": "当被需要不再是衡量"
+    },
+    {
+      "from": "emotional-support-as-causal-interference",
       "to": "when-need-stops-being-the-measure",
       "rel": "points_to",
       "label": "When Need Stops Being the Measure"
+    },
+    {
+      "from": "emotional-support-as-causal-interference",
+      "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "rel": "points_to",
+      "label": "外部归因是个人进步的障碍"
+    },
+    {
+      "from": "emotional-support-as-causal-interference",
+      "to": "guidance-is-not-ownership",
+      "rel": "points_to",
+      "label": "引导不是占有"
+    },
+    {
+      "from": "emotional-support-as-causal-interference",
+      "to": "the-fallacy-of-post-success-parenting",
+      "rel": "points_to",
+      "label": "成功之后的育儿谬误"
     },
     {
       "from": "emotional-support-as-causal-interference",
@@ -20067,7 +20139,7 @@
       "from": "emotional-support-as-causal-interference",
       "to": "guidance-is-not-ownership",
       "rel": "points_to",
-      "label": "Guidance Is Not Ownership: Agency, Biological Determinism, and the Feedback Loop of Parental Control"
+      "label": "Guidance Is Not Ownership"
     },
     {
       "from": "emotional-support-as-causal-interference",
@@ -20079,25 +20151,55 @@
       "from": "emotional-support-as-causal-interference",
       "to": "when-the-effect-authors-the-frame",
       "rel": "points_to",
-      "label": "When the effect authors the frame"
+      "label": "当效果主宰了框架的叙事"
+    },
+    {
+      "from": "emotional-support-as-causal-interference",
+      "to": "when-the-effect-authors-the-frame",
+      "rel": "points_to",
+      "label": "When the Effect Authors the Frame"
     },
     {
       "from": "emotional-support-as-causal-interference",
       "to": "therapy-opens-the-feedback-loop",
       "rel": "points_to",
-      "label": "Therapy opens the feedback loop"
+      "label": "心理治疗如何打破反馈回路"
     },
     {
       "from": "emotional-support-as-causal-interference",
       "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "rel": "points_to",
-      "label": "The misallocation of cause"
+      "label": "错置的因果"
     },
     {
       "from": "emotional-support-as-causal-interference",
       "to": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "rel": "points_to",
-      "label": "Sympathy is a placeholder for lack of clarity"
+      "label": "同情是缺乏明晰时的占位符"
+    },
+    {
+      "from": "emotional-support-as-causal-interference",
+      "to": "not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "非万物理论"
+    },
+    {
+      "from": "emotional-support-as-causal-interference",
+      "to": "therapy-opens-the-feedback-loop",
+      "rel": "points_to",
+      "label": "Therapy Opens the Feedback Loop"
+    },
+    {
+      "from": "emotional-support-as-causal-interference",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "The Misallocation of Cause"
+    },
+    {
+      "from": "emotional-support-as-causal-interference",
+      "to": "sympathy-is-a-placeholder-for-lack-of-clarity",
+      "rel": "points_to",
+      "label": "Sympathy Is a Placeholder for Lack of Clarity"
     },
     {
       "from": "emotional-support-as-causal-interference",
@@ -22159,6 +22261,18 @@
     },
     {
       "from": "fixed-by-nothing",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "fixed-by-nothing",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "fixed-by-nothing",
       "to": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
       "rel": "points_to",
       "label": "约束基底与自由自否"
@@ -23262,6 +23376,18 @@
       "label": "External Attribution: The Obstacle to Personal Growth"
     },
     {
+      "from": "guidance-is-not-ownership",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "guidance-is-not-ownership",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
       "from": "hardness-is-not-inherent-in-the-action",
       "to": "how-belief-actually-changes",
       "rel": "points_to",
@@ -23440,6 +23566,18 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "hardware-locality-is-not-the-information-boundary",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "hardware-locality-is-not-the-information-boundary",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "hassabis-frontier-agi-premise",
@@ -34147,6 +34285,12 @@
     },
     {
       "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
       "to": "the-reality-distortion-field-inverts-the-baseline",
       "rel": "points_to",
       "label": "现实扭曲力场颠倒了基线"
@@ -34156,6 +34300,12 @@
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
       "label": "Data Is Local; Intelligence Is Allocated"
+    },
+    {
+      "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
@@ -38242,6 +38392,18 @@
       "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "rel": "points_to",
       "label": "On Closed Systems, Open Minds, and the Limits of Proof"
+    },
+    {
+      "from": "selection-contradiction-and-open-reality",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "selection-contradiction-and-open-reality",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "self-image-speaks-as-if-from-nowhere",
@@ -50569,6 +50731,18 @@
     },
     {
       "from": "the-grammar-of-finding-and-the-fading-observer",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-grammar-of-finding-and-the-fading-observer",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-grammar-of-finding-and-the-fading-observer",
       "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "rel": "points_to",
       "label": "因果的自反性与物理的无源假定"
@@ -52210,6 +52384,18 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
@@ -56077,9 +56263,21 @@
     },
     {
       "from": "the-name-revolution-files-a-life-as-evidence",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-name-revolution-files-a-life-as-evidence",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-name-revolution-files-a-life-as-evidence",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-name-revolution-files-a-life-as-evidence",
@@ -59947,6 +60145,12 @@
     },
     {
       "from": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-receptionist-parable-and-the-causal-inversion-of-absence",
       "to": "one-cannot-escape-ones-own-mind",
       "rel": "points_to",
       "label": "无法逃逸的心智视界"
@@ -59968,6 +60172,12 @@
       "to": "the-moral-reversal-and-the-scripted-subject",
       "rel": "points_to",
       "label": "道德倒错与被脚本化的主体"
+    },
+    {
+      "from": "the-receptionist-parable-and-the-causal-inversion-of-absence",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-receptionist-parable-and-the-causal-inversion-of-absence",
@@ -71723,7 +71933,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "0f2a08d0033f",
+        "hash": "fd183a644b8f",
         "out_degree": 397
       },
       {
@@ -71786,7 +71996,7 @@
         "slug": "morality",
         "path": "content/book/morality.md",
         "title": "善恶界限与共情陷阱 / Moral Boundaries and the Empathy Trap",
-        "hash": "71b3ff6176b6",
+        "hash": "f9ec3b11ce49",
         "out_degree": 28
       },
       {
@@ -76334,7 +76544,7 @@
         "from": "book:index-of-premises",
         "to": "emotional-support-as-causal-interference",
         "rel": "collects",
-        "label": "Emotional Support as Causal Interference"
+        "label": "作为因果干扰的情感支持 / Emotional Support as Causal Interference"
       },
       {
         "from": "book:index-of-premises",
@@ -77594,7 +77804,7 @@
         "from": "book:morality",
         "to": "emotional-support-as-causal-interference",
         "rel": "collects",
-        "label": "Emotional Support as Causal Interference"
+        "label": "作为因果干扰的情感支持 / Emotional Support as Causal Interference"
       },
       {
         "from": "book:morality",

@@ -68,7 +68,7 @@ The biological reductionism that excuses parents and infantilises adolescents is
 
 ## 七、 走出车子 / 7. Stepping Out of the Vehicle
 
-幼儿时期需要更紧的环境边界，能力的发展需要有意识的、系统的退出。在操作责任上，角色可以非常不平等，而不否认对方意志的自主地位。幼儿时期，父母坐在旁边，握着手刹，挡住灾难性的悬崖，同时培养温暖的、支持的联系；青春期，父母挪到副驾驶座，给地图、指地形，不去抢方向盘；成熟时，父母整个走出车子。
+幼儿时期需要更紧的环境边界，能力的发展需要有意识的、系统的退出。在操作责任上，角色可以非常不平等，而不否认对方意志的自主地位。幼儿时期，父母坐在旁边，握着手刹，挡住灾难性的悬崖，同时培养温暖的、支持的联系；青春期，父母挪到副驾驶座，给地图、指地形，不去抢方向盘；成熟时，父母整个走出车子。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，继承来的模型与规则只是留给活着的心智重新切分的既往痕迹，临时的脚手架在功用被吸收之后便当拆去，免得昨天的框架厚积成当下这一步的阻力；父母的引导完成使命的方式，正是让自己的保护外壳不再被需要。
 
 ```mermaid
 flowchart TD
@@ -94,7 +94,7 @@ flowchart TD
     style A1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Early childhood calls for tighter environmental boundaries; developing competence calls for deliberate, systematic withdrawal. Roles can be very unequal in operating responsibility without denying the self-directed standing of the other person's will. In early childhood the parent rides alongside, holding the handbrake against catastrophic cliffs while building a warm, supportive bond; in adolescence the parent moves to the passenger seat, offering maps and pointing out terrain while declining to grab the wheel; in maturity the parent steps out of the vehicle altogether.
+Early childhood calls for tighter environmental boundaries; developing competence calls for deliberate, systematic withdrawal. Roles can be very unequal in operating responsibility without denying the self-directed standing of the other person's will. In early childhood the parent rides alongside, holding the handbrake against catastrophic cliffs while building a warm, supportive bond; in adolescence the parent moves to the passenger seat, offering maps and pointing out terrain while declining to grab the wheel; in maturity the parent steps out of the vehicle altogether. Just as [Your Codebase Is Memory](../your-codebase-is-memory/) traces how inherited models and rules are only prior residue for the living Mind to re-cut—and why transient scaffolding is pruned once its work is absorbed so yesterday's frame does not thicken into drag on the present step—parental guidance serves its purpose by making its own protective envelope obsolete.
 
 ```mermaid
 flowchart TD
@@ -119,7 +119,6 @@ flowchart TD
     style T1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style A1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
-
 
 育儿，以及任何声称为有意识的行动者服务的权威，唯一正当的终点，不是让自己的操控机制无限期地运作下去，也不是背起目的地的重担，而是走出车子，培养一种以相互尊重为根基的支持关系，让这个自主的人驾驶一段只属于自己的人生。
 

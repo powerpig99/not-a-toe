@@ -4850,7 +4850,7 @@ Therapy dogma treats counseling as passive trauma excavation; effective interven
 
 Therapeutic culture presumes unconditional validation heals distress; softening reality feedback prevents agents from registering the causal results of flawed actions.
 
-→ [Emotional Support as Causal Interference](../../posts/emotional-support-as-causal-interference/)
+→ [作为因果干扰的情感支持 / Emotional Support as Causal Interference](../../posts/emotional-support-as-causal-interference/)
 
 ### 第三人称知性观瞻的因果倒置 / Third-Person Intellectual Voyeurism
 `哲学 / Philosophical`
