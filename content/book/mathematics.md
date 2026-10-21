@@ -2,13 +2,13 @@
 
 *形式系统在自指处必然敞开，完备性的幻象阻挡不了活态心智的跃迁 / Formal systems open at self-reference; the illusion of completeness cannot halt the mind*
 
-数学与逻辑是人类心智创造的最严谨的形式语言。但在追求自我封闭的完备体系中，形式主义者时常忘记，任何公理系统的无矛盾性都无法在系统内部得到证明。哥德尔不完备定理并非缺陷，而是心智永远大于其所写出之符号的明证。
+数学与形式逻辑是心智铸造的最严密的符号语言。一旦公理与推理规则被暂时固定，形式系统就能在前提之内进行无歧义的推演与证明，为科学建模与计算提供稳固的骨架。它的边界恰恰坐落在那次初始的公理设定与自指回路之上：正如哥德尔不完备定理所揭示的，任何足够丰富的形式系统都无法仅凭内部规则封闭自身的真值与无矛盾性。
 
-Mathematics and logic are the most rigorous formal languages crafted by the human mind. Yet in the quest for self-contained closure, formalists forget that axiomatic consistency cannot be proven from within. Gödelian incompleteness is no defect; it demonstrates that the mind remains greater than its symbols.
+Mathematics and formal logic are the most rigorous symbolic languages forged by the mind. Once axioms and rules of inference are temporarily fixed, a formal system enables unambiguous deduction and proof within its premises, providing a dependable skeleton for scientific modeling and computation. Its boundary sits at that initial axiomatic cut and the loop of self-reference: as Gödel's incompleteness theorems show, no sufficiently rich formal system can seal its own truth and consistency from within.
 
-这些篇目探讨了无穷概念的层级、自指悖论的生成，以及将信息等同于物理实体的认识论谬误。它们指出：符号演算无论多么精微，都需要活态心智在外部赋予语义；形式的边界，恰是理解与创造得以生长的空间。
+这里的篇目探讨了潜无限与实无限的区分、连续统作为建模权宜之计的边界、信息与香农信道的语义剥离，以及S曲线对开放复利的压缩。符号演算的严密来自它主动舍弃了什么；看清形式封闭的暂时性，心智便能自由调用数学的精确，而不把活态的现实锁进自己画出的网格里。
 
-These essays explore hierarchies of infinity, self-referential paradoxes, and the fallacy of equating information with physical reality. They show that symbolic manipulation, however refined, requires an external conscious mind to bestow meaning; the boundary of form is where creation begins.
+The essays here explore the distinction between potential and actual infinity, the continuum as a modeling convenience, the semantic stripping of Shannon information, and how closed assumptions compress open compounding into S-curves. The rigor of symbolic calculation comes from what it deliberately leaves out; seeing the provisional nature of formal closure lets the mind deploy mathematical precision freely without locking living reality inside its own grid.
 
 ## 篇目 / Essays
 

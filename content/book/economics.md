@@ -2,13 +2,13 @@
 
 *宏观指标是已发生抉择的记账，将其视为自上而下的命令颠倒了因果 / Macro metrics are historical accounts; treating them as commands inverts causality*
 
-现代经济学热衷于用宏观总需求、利率曲线与统计模型来调控社会，仿佛市场是一台精密设计的巨型引擎。然而，所有宏观参数都只是无数具体个体在特定时空点上已完成抉择的事后汇总；将其视为支配微观行动的自上而下指令，颠倒了真实的经济因果。
+宏观经济学与计量模型通过总需求、利率曲线、工时排名与产出核算来汇总已发生的交易，在事后记账、历史对比与局部政策评估中具有清晰的参考价值。它们的不完备始于把事后结算的账单倒置为事前驱动经济的原因——每一个宏观参数都只是无数微观个体在具体处境中权衡与试错之后留下的滞后汇总，将其当成可以直接拧动的顶层引擎，便颠倒了汇总与选择的次序。
 
-Modern economics favors aggregate demand curves, interest rate targets, and econometric models, treating markets as engineered engines. Yet macro parameters are merely retrospective tallies of countless microscopic individual choices; treating them as top-down commands inverts economic causality.
+Macroeconomics and econometric models tally completed transactions through aggregate demand, yield curves, hours rankings, and output accounting, offering clear utility for retrospective bookkeeping, historical comparison, and bounded policy evaluation. Their incompleteness begins when a settled invoice is inverted into the prior cause driving economic life — every macro parameter is a lagged summary of countless individuals weighing tradeoffs in concrete situations, and treating it as a top-down engine reverses the order between summary and choice.
 
-这些文章从米塞斯与哈耶克的知识分散视角出发，剖析了中央计划的致命自负、福利制度的隐秘代价，以及将纸面流动性误当真实财富的货币幻觉。繁荣源自微观主体自由试错的活力，而非计划者在图表上划定的指标。
+这里的文章从分散知识与主观价值评估的视角出发，审视了理性选择公设的封闭边界、价格作为跨心智言说的机制、公共支出与转移支付中的因果错位，以及智能通缩时代的估值时滞。价值的生成始终扎根于微观心智在未知边界上的区分、涉险与自负盈亏。
 
-Drawing on Misesian and Hayekian insights on distributed knowledge, these essays dissect the fatal conceit of central planning and the illusions of fiat liquidity. Authentic prosperity springs from uncoerced micro experimentation, not planners tracing targets on charts.
+Proceeding from dispersed knowledge and subjective valuation, these essays examine the closed premises of the rational choice postulate, price as utterance across minds, causal misallocation in public spending and price floors, and measurement lag amid intelligence deflation. Value generation remains anchored in microscopic minds making distinctions, taking risks, and bearing their own profit and loss at the unknown edge.
 
 ## 篇目 / Essays
 

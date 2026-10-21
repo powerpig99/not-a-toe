@@ -2,13 +2,13 @@
 
 *工具扩展执行能力却无法代理裁决，真正的演进源于心智的主权驾驭 / Tools expand execution without proxying judgment; genuine evolution comes from sovereign mastery*
 
-从普罗米修斯盗取火种到硅基智能爆发，人类历史被描绘为一部工具自主推动的文明进步史诗。然而工具无论多么敏捷高效，都只是心智意图的外部投射与脚手架。以为更强的算力会自动带来更明智的决断，是将手段篡位为目的的典型盲目。
+从石器、印刷术到现代算力与智能体框架，工具的演进不断压缩信息检索、分析与执行的成本，为人类心智打开更宽广的行动半径。技术进步叙事的不完备，始于把工具对旧瓶颈的压缩当成了对第一人称判断与前沿校准的替代——当人们以为算力或历史经验存量会自动结出未来的方向时，便把过去留下的外部记忆痕迹误当成了正在探路的活态心智。
 
-From the theft of Promethean fire to algorithmic compute storms, history is recounted as an epic of tools driving human progress. Yet artifacts remain external projections and scaffolding for conscious intent. Assuming faster computation automatically yields wiser judgment mistakes means for ends.
+From stone tools and printing presses to modern compute and agent harnesses, evolving tools continually compress the cost of retrieval, analysis, and execution, expanding the radius of human action. The narrative of technological progress reaches its boundary when the compression of old bottlenecks is mistaken for a substitute for first-person judgment and live frontier calibration — assuming that raw compute or stored historical experience will automatically steer the future mistakes externalized memory traces for the living mind testing the edge.
 
-这一部的随笔探讨了反脆弱性的工程实践、技术狂热与北欧日常生活的宁静张力，以及驾驶位与辅助框架之间的主权非对称。在滚滚而来的技术浪潮面前，唯有始终紧握决断手柄的心智，才能驾驭工具的伟力而不被其吞噬。
+这一部的随笔记录了代码库作为外化记忆的架构、驾驶位与辅助框架之间的主权非对称、实战判断力为何不是可囤积的静态存量，以及算力风暴与日常具身生活之间的张力。当执行越廉价、回路越收紧，真正稀缺的越是在当下边界上亲自涉险、验证并推翻旧假说的那道区分。
 
-The essays here explore antifragility in engineering, the calm tension between Silicon Valley fervor and Nordic daily life, and the asymmetry between driver and harness. Amid technological tides, only minds that keep their grip on sovereign judgment harness tools without being consumed by them.
+The essays in this part trace the codebase as externalized memory, the asymmetry between the driver's seat and the harness, why practical judgment is not a static stock to be hoarded, and the counterpoint between compute storms and embodied daily life. The cheaper execution becomes and the tighter the loop turns, the more scarcity shifts to the living cut that ventures, tests, and revises its own prior models at the present boundary.
 
 ## 篇目 / Essays
 

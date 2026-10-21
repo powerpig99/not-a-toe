@@ -2,13 +2,13 @@
 
 *均值是消除特异性的残余，生命在单次涉险中展开而非遵从正态分布 / The mean is residual erasure; life unfolds in singular stakes rather than Gaussian curves*
 
-统计学为群体规模的治理提供了便利的均值标尺，但也铸就了消除个体特异性的暴政。生物学与演化论在被通俗化为“基因决定一切”时，将动态的新陈代谢压平为静态的信息图纸，遗忘了生命本身就是持续对抗熵增的主权组织。
+统计学与群体生物学通过抽样、均值与回归分布来提取大样本的共性，在公共卫生、风险精算与群体趋势监测中极为有效。它们的前提在于事先抹去个体之间的非对称差异，把每一次不可逆的单次决策折算为同质的可交换样本；一旦越出这一前提，把大样本均值当成驱动具体个体的原因，或是把生命简化为基因图纸的被动执行，模型就会遮蔽那个在当下承受代谢摩擦并做出选择的活态中心。
 
-Statistics equips governance with convenient averages, yet crafts a tyranny that erases individual specificity. When biology and evolution are flattened into genetic determinism, dynamic metabolism becomes a static blueprint, ignoring that life is sovereign organization against entropy.
+Statistics and population biology extract regularities across large samples through sampling, averages, and regression distributions, proving highly effective in public health, actuarial risk, and macro trend monitoring. Their premise is to smooth away asymmetric differences between individuals upfront, treating each irreversible, singular choice as an interchangeable draw; once carried past that boundary to treat population means as the cause driving a concrete individual, or to reduce life to the passive execution of a genetic blueprint, the model obscures the living center bearing metabolic friction and choosing in the present.
 
-本部文章剖析了正态分布的适用范围、幂律现象的长程机制，以及群体统计规程对个体具身反馈的遮蔽。生命从不生活在统计均值之中；每一个活态躯体都在具体的单次风险中生存，承受专属的代谢代价。
+本部文章考察了高斯分布与幂律分布的生成关系、大脑正向传导与反向传播的差异，以及群体规程如何消音第一人称的体感反馈。群体平均值是事后留下的统计残余而非引擎；每一个生命都不活在分布曲线的抽象均值里，而是在具体的单次涉险中开辟并校准自己的轨迹。
 
-The essays here examine Gaussian limits, power-law dynamics, and the silencing of embodied feedback by population protocols. Life never inhabits an average; each organism moves through singular risks, bearing its own metabolic stakes.
+The essays in this part examine the generative link between Gaussian and power-law distributions, the difference between forward propagation in living brains and backpropagation, and how population protocols silence first-person somatic feedback. The average is a retrospective statistical residue rather than the engine; no living organism inhabits the abstract mean of a curve, but carves and calibrates its trajectory through singular stakes.
 
 ## 篇目 / Essays
 

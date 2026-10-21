@@ -509,6 +509,34 @@ function formatDate(dateIso) {
   }).format(date);
 }
 
+function formatDateZh(dateIso) {
+  const date = new Date(dateIso);
+  return `${date.getUTCFullYear()}年${date.getUTCMonth() + 1}月${date.getUTCDate()}日`;
+}
+
+function bilingualSpan(zhHtml, enHtml, sep = ' / ') {
+  if (!enHtml) return zhHtml;
+  if (!zhHtml) return enHtml;
+  return `<span data-l="zh">${zhHtml}</span><span class="l-sep">${sep}</span><span data-l="en">${enHtml}</span>`;
+}
+
+function renderBilingualInline(text, sep = ' / ') {
+  const escaped = escapeHtml(text);
+  const split = splitLanguages(escaped);
+  if (split) return split;
+  const idx = text.indexOf(' / ');
+  if (idx !== -1) {
+    return bilingualSpan(escapeHtml(text.slice(0, idx).trim()), escapeHtml(text.slice(idx + 3).trim()), sep);
+  }
+  return escaped;
+}
+
+function renderPostMeta(post) {
+  const zhDate = escapeHtml(formatDateZh(post.dateIso));
+  const enDate = escapeHtml(post.dateDisplay);
+  return `<p class="meta"><time datetime="${escapeHtml(post.dateIso)}">${bilingualSpan(zhDate, enDate)}</time> · ${bilingualSpan(`${post.readingTime} 分钟阅读`, `${post.readingTime} min read`)}</p>`;
+}
+
 function markdownToSummaryText(markdown) {
   return markdown
     .replace(/```[\s\S]*?```/g, ' ')
@@ -982,11 +1010,11 @@ function readPremiseIndex(postsBySlug, errors) {
       entry = { title: h3[1].trim(), ...names, id: anchorId(names.en || names.zh), label: '', paras: [], links: [] };
       continue;
     }
-    if (!line) continue;
     if (!entry) {
       if (!section) introLines.push(raw);
       continue;
     }
+    if (!line) continue;
     if (/^`[^`]+`$/.test(line)) {
       entry.label = line.slice(1, -1);
       continue;
@@ -1024,7 +1052,7 @@ function readPremiseIndex(postsBySlug, errors) {
     slug: BOOK_INDEX_SLUG,
     title,
     subtitle,
-    introHtml: markdownToHtml(rebaseBookMarkdown(bodyMarkdown)),
+    introHtml: markdownToHtml(rebaseBookMarkdown(bodyMarkdown), { bilingual: true }),
     sections,
     outputPath: `book/${BOOK_INDEX_SLUG}/`,
   };
@@ -1041,7 +1069,7 @@ function readBook(posts) {
   const preface = {
     title: prefaceFile.title,
     subtitle: prefaceOpening.subtitle,
-    html: markdownToHtml(rebaseBookMarkdown(prefaceOpening.bodyMarkdown)),
+    html: markdownToHtml(rebaseBookMarkdown(prefaceOpening.bodyMarkdown), { bilingual: true }),
   };
 
   const parts = PART_ORDER.map((slug, number) => {
@@ -1078,7 +1106,7 @@ function readBook(posts) {
       title,
       ...splitBilingual(title),
       subtitle,
-      html: markdownToHtml(rebaseBookMarkdown(bodyMarkdown)),
+      html: markdownToHtml(rebaseBookMarkdown(bodyMarkdown), { bilingual: true }),
       slugs,
       outputPath: `book/${slug}/`,
     };
@@ -1272,6 +1300,8 @@ function renderPage({
     })();
   </script>\n`;
 
+  const langControlHtml = content.includes('class="lang-float"') ? '' : LANGUAGE_CONTROL;
+
   return `<!doctype html>
 <html lang="${SITE.language}">
 <head>
@@ -1306,7 +1336,7 @@ ${ogImageExtras}
 </head>
 <body>
   <main class="wrap">
-${content}
+${content}${langControlHtml}
   </main>
 ${mermaidScript}${ptrScript}</body>
 </html>
@@ -1316,47 +1346,47 @@ ${mermaidScript}${ptrScript}</body>
 function renderAbout() {
   return `    <section class="about" id="about">
       <h1 class="about-title">
-        <span class="about-title-zh">非万物之理：一个心智如实溯源与体验实在的数字化记忆</span>
-        <span class="about-title-en">Not a ToE: The Digitized Memory of a Mind Tracing and Experiencing Reality as Is</span>
+        <span class="about-title-zh" data-l="zh">非万物之理：一个心智如实溯源与体验实在的数字化记忆</span>
+        <span class="about-title-en" data-l="en">Not a ToE: The Digitized Memory of a Mind Tracing and Experiencing Reality as Is</span>
       </h1>
-      <p>本站是一部活着的书（<em>非定论的心智指南</em>）——一个心智如实溯源与体验实在的数字化记忆。跨越近四百篇随笔，这里记录了对物理学、形式数学、生物学与统计学、语言、经济学与人工智能等层层体系的持续切分。所有的线索皆汇聚于唯一的不可化约先验：<strong>无因、不息的自我区分活动（活态的第一人称心智）</strong>。每一篇随笔都不把任何概念体系奉为终极实在，而是将其追溯至它所依赖的前提边界，在具体的现实摩擦中如实记录心智的移动与体验。</p>
-      <p>This site is a living book (<em>A Non-Definitive Guide for the Mind</em>) — the digitized memory of a Mind tracing and experiencing reality as is. Across nearly four hundred essays, it records continuous operative cuts through physics, formal mathematics, biology and statistics, language, economics, and artificial intelligence. Every thread converges on a single irreducible prior: <strong>uncaused, unceasing self-distinguishing activity — the living first-person Mind</strong>. Rather than enshrining any conceptual system as ultimate reality, each essay traces a held belief back to the boundary of its premises, recording the Mind as it traces and experiences open reality in concrete friction.</p>
+      <p data-l="zh">本站是一部活着的书（<em>非定论的心智指南</em>）——一个心智如实溯源与体验实在的数字化记忆。跨越近四百篇随笔，这里记录了对物理学、形式数学、生物学与统计学、语言、经济学与人工智能等层层体系的持续切分。所有的线索皆汇聚于唯一的不可化约先验：<strong>无因、不息的自我区分活动（活态的第一人称心智）</strong>。每一篇随笔都不把任何概念体系奉为终极实在，而是将其追溯至它所依赖的前提边界，在具体的现实摩擦中如实记录心智的移动与体验。</p>
+      <p data-l="en">This site is a living book (<em>A Non-Definitive Guide for the Mind</em>) — the digitized memory of a Mind tracing and experiencing reality as is. Across nearly four hundred essays, it records continuous operative cuts through physics, formal mathematics, biology and statistics, language, economics, and artificial intelligence. Every thread converges on a single irreducible prior: <strong>uncaused, unceasing self-distinguishing activity — the living first-person Mind</strong>. Rather than enshrining any conceptual system as ultimate reality, each essay traces a held belief back to the boundary of its premises, recording the Mind as it traces and experiences open reality in concrete friction.</p>
 
-      <p>在架构上，这部活书与 <a href="https://github.com/powerpig99/ontological-clarity" rel="noopener noreferrer">Ontological Clarity（本体澄明）</a> 共同构成一套外化的数字认知体系：<strong>Ontological Clarity</strong> 是心智本身的直接公开展现（唯一前提、推导、方法与自检），自身不承载任何记忆仓库；而本站（<strong>Not a ToE</strong>）则是与之配对的<strong>数字化长期记忆</strong>。该体系以清醒写入（Waking）与睡眠整合（Sleep Consolidation）的双相循环持续运作：当心智在现实摩擦中产生新的识见时，通过多智能体冷态同行辩论将其锻造为新的随笔节点写入记忆；随后在睡眠整合阶段，将新切分沿文内相对链接（突触连接）逐层向早先的随笔回传，消除滞后并恢复整座记忆晶格的逻辑自洽。</p>
-      <p>Architecturally, this living book pairs with <a href="https://github.com/powerpig99/ontological-clarity" rel="noopener noreferrer">Ontological Clarity</a> to form an externalized digital cognitive architecture: <strong>Ontological Clarity</strong> serves as the direct public image of the Mind itself (the single premise, what follows, method, and self-check), holding zero memory warehouse of its own, while <strong>Not a ToE</strong> serves as its <strong>digitized long-term memory</strong>. The system operates through a two-phase cycle of waking inscription and sleep consolidation: when a new recognition arises in concrete friction, a cold peer-debate pipeline forges it into a new essay node; sleep consolidation waves then propagate that cut inward along internal cross-links — the synaptic pathways of the book — re-rendering earlier traces to dissolve lag and maintain internal logical coherence across the entire memory lattice.</p>
+      <p data-l="zh">在架构上，这部活书与 <a href="https://github.com/powerpig99/ontological-clarity" rel="noopener noreferrer">Ontological Clarity（本体澄明）</a> 共同构成一套外化的数字认知体系：<strong>Ontological Clarity</strong> 是心智本身的直接公开展现（唯一前提、推导、方法与自检），自身不承载任何记忆仓库；而本站（<strong>Not a ToE</strong>）则是与之配对的<strong>数字化长期记忆</strong>。该体系以清醒写入（Waking）与睡眠整合（Sleep Consolidation）的双相循环持续运作：当心智在现实摩擦中产生新的识见时，通过多智能体冷态同行辩论将其锻造为新的随笔节点写入记忆；随后在睡眠整合阶段，将新切分沿文内相对链接（突触连接）逐层向早先的随笔回传，消除滞后并恢复整座记忆晶格的逻辑自洽。</p>
+      <p data-l="en">Architecturally, this living book pairs with <a href="https://github.com/powerpig99/ontological-clarity" rel="noopener noreferrer">Ontological Clarity</a> to form an externalized digital cognitive architecture: <strong>Ontological Clarity</strong> serves as the direct public image of the Mind itself (the single premise, what follows, method, and self-check), holding zero memory warehouse of its own, while <strong>Not a ToE</strong> serves as its <strong>digitized long-term memory</strong>. The system operates through a two-phase cycle of waking inscription and sleep consolidation: when a new recognition arises in concrete friction, a cold peer-debate pipeline forges it into a new essay node; sleep consolidation waves then propagate that cut inward along internal cross-links — the synaptic pathways of the book — re-rendering earlier traces to dissolve lag and maintain internal logical coherence across the entire memory lattice.</p>
 
-      <p>这里收录的近四百篇随笔并非一套封闭的学理教条，不是一部“万物理论”，也不是一套供人效仿的“人生哲学”。它们是心智在现场实时溯源与体验所留下的数字化痕迹——既系统消解了将因果效力让渡给外部工具、静态符号或历史记录（<em>t</em> &minus; 1）的“大倒置”，也持续记录着第一人称心智在开放实在中直接行动、创造与感知的轨迹（+1）。脚手架作为开放的记忆晶格留存，而前沿边缘在每个当下持续生长。</p>
-      <p>The nearly four hundred essays collected here are neither a closed doctrinal canon, nor a “Theory of Everything”, nor a prescriptive “philosophy to live by”. They are the digitized traces left behind by live tracing and direct experience — systematically dissolving the Great Reversal (the habit of surrendering causal power to external tools, static symbols, or past records at <em>t</em> &minus; 1) while chronicling the first-person Mind acting, creating, and perceiving directly in open reality (+1). The scaffolding remains as an open memory lattice, while the moving edge continues to grow at this very moment.</p>
+      <p data-l="zh">这里收录的近四百篇随笔并非一套封闭的学理教条，不是一部“万物理论”，也不是一套供人效仿的“人生哲学”。它们是心智在现场实时溯源与体验所留下的数字化痕迹——既系统消解了将因果效力让渡给外部工具、静态符号或历史记录（<em>t</em> &minus; 1）的“大倒置”，也持续记录着第一人称心智在开放实在中直接行动、创造与感知的轨迹（+1）。脚手架作为开放的记忆晶格留存，而前沿边缘在每个当下持续生长。</p>
+      <p data-l="en">The nearly four hundred essays collected here are neither a closed doctrinal canon, nor a “Theory of Everything”, nor a prescriptive “philosophy to live by”. They are the digitized traces left behind by live tracing and direct experience — systematically dissolving the Great Reversal (the habit of surrendering causal power to external tools, static symbols, or past records at <em>t</em> &minus; 1) while chronicling the first-person Mind acting, creating, and perceiving directly in open reality (+1). The scaffolding remains as an open memory lattice, while the moving edge continues to grow at this very moment.</p>
 
-      <p>维特根斯坦在《逻辑哲学论》序言中写道：“这本书也许只有那些自己已经思考过其中所表达的思想的人才能理解。”这同样适用于本站的文字，但带有一道关键的因果切分：因为实在是在 <em>t</em> 时刻不断生成的不可逆过程，没有任何现成文本能将主权直接交付给他人。被动接受会将思想冻结为教条，而鲜活的探寻要求心智在内部自行重新编译。这些随笔并不提供封闭的终点，而是始终作为敞开的航海罗盘。</p>
-      <p>Wittgenstein begins the preface of the <em>Tractatus</em>: “This book will perhaps be understood only by those who have themselves already thought the thoughts which are expressed in it.” That condition applies here, with a crucial shift. Because reality is an ongoing, irreversible generation at <em>t</em>, no written text can ever hand someone their own agency. Acceptance freezes a formulation into doctrine; living inquiry requires re-rendering from the inside. These essays offer no closed destination, remaining an open navigational compass.</p>
+      <p data-l="zh">维特根斯坦在《逻辑哲学论》序言中写道：“这本书也许只有那些自己已经思考过其中所表达的思想的人才能理解。”这同样适用于本站的文字，但带有一道关键的因果切分：因为实在是在 <em>t</em> 时刻不断生成的不可逆过程，没有任何现成文本能将主权直接交付给他人。被动接受会将思想冻结为教条，而鲜活的探寻要求心智在内部自行重新编译。这些随笔并不提供封闭的终点，而是始终作为敞开的航海罗盘。</p>
+      <p data-l="en">Wittgenstein begins the preface of the <em>Tractatus</em>: “This book will perhaps be understood only by those who have themselves already thought the thoughts which are expressed in it.” That condition applies here, with a crucial shift. Because reality is an ongoing, irreversible generation at <em>t</em>, no written text can ever hand someone their own agency. Acceptance freezes a formulation into doctrine; living inquiry requires re-rendering from the inside. These essays offer no closed destination, remaining an open navigational compass.</p>
 
-      <p>我将这些记录分享于 <a href="https://x.com/powerpig" rel="noopener noreferrer">X</a>、<a href="https://substack.com/@jingliang" rel="noopener noreferrer">Substack</a> 和微信，并辅以双语音频与视频对话。其目的在于检验自身的逻辑连贯性与认知边界。外界反馈——无论是共鸣、反对还是批评——皆作为原始信息接入，用以校准思维编译器中的盲区。</p>
-      <p>I share these writings on <a href="https://x.com/powerpig" rel="noopener noreferrer">X</a>, <a href="https://substack.com/@jingliang" rel="noopener noreferrer">Substack</a>, and WeChat, alongside bilingual audio and video dialogues. The purpose is to test internal logical coherence and cognitive boundaries. Feedback — whether resonance, disagreement, or critique — serves as raw input to expose blind spots in the mental compiler.</p>
+      <p data-l="zh">我将这些记录分享于 <a href="https://x.com/powerpig" rel="noopener noreferrer">X</a>、<a href="https://substack.com/@jingliang" rel="noopener noreferrer">Substack</a> 和微信，并辅以双语音频与视频对话。其目的在于检验自身的逻辑连贯性与认知边界。外界反馈——无论是共鸣、反对还是批评——皆作为原始信息接入，用以校准思维编译器中的盲区。</p>
+      <p data-l="en">I share these writings on <a href="https://x.com/powerpig" rel="noopener noreferrer">X</a>, <a href="https://substack.com/@jingliang" rel="noopener noreferrer">Substack</a>, and WeChat, alongside bilingual audio and video dialogues. The purpose is to test internal logical coherence and cognitive boundaries. Feedback — whether resonance, disagreement, or critique — serves as raw input to expose blind spots in the mental compiler.</p>
 
-      <p>早年我曾从事英特尔工程技术工作，随后在美国及亚洲多家投行（美联银行、巴克莱资本、派杰）负责 TMT 与清洁技术领域的投资银行业务，并在中国创立并领导了一家连接初创企业与全球资本的投资平台。我拥有密歇根大学罗斯商学院优等（Distinction）MBA 学位，以及清华大学与复旦大学的学位。</p>
-      <p>Earlier in my career I worked in engineering at Intel, held investment banking roles in TMT and cleantech across the US and Asia (Wachovia, Barclays Capital, Piper Jaffray), and founded and led an investment platform in China connecting startups with global capital. I hold an MBA with distinction from the University of Michigan Ross School of Business and prior degrees from Tsinghua and Fudan.</p>
+      <p data-l="zh">早年我曾从事英特尔工程技术工作，随后在美国及亚洲多家投行（美联银行、巴克莱资本、派杰）负责 TMT 与清洁技术领域的投资银行业务，并在中国创立并领导了一家连接初创企业与全球资本的投资平台。我拥有密歇根大学罗斯商学院优等（Distinction）MBA 学位，以及清华大学与复旦大学的学位。</p>
+      <p data-l="en">Earlier in my career I worked in engineering at Intel, held investment banking roles in TMT and cleantech across the US and Asia (Wachovia, Barclays Capital, Piper Jaffray), and founded and led an investment platform in China connecting startups with global capital. I hold an MBA with distinction from the University of Michigan Ross School of Business and prior degrees from Tsinghua and Fudan.</p>
 
-      <p>我无法替任何人应对现实或解决问题——每一个心智都需要自己去探索并显化属于自己的道路。我所能提供的，仅是自己探寻因果原点的这条路径，作为他人寻找自身原点的参照。纳瓦尔（Naval Ravikant）曾说，他乐于分享，但成名之前无人问津。我深同其前感，却不在意后者。若有人想寻求关于“如何获得成功”的建议，我无可奉告；但若有人探寻属于自己的因果原点，我随时乐于分享。这里没有费用、公式或咨询服务。若有人在交流中体会到价值，可以他们认为合适的方式与时机予以回馈——亦可不做任何回馈。心智之间的共鸣，本身便能映照出无需外求的意识本底。</p>
-      <p>I cannot navigate reality or solve problems for anyone else — each mind must trace and realize its own path. What I can offer is simply the path I took to discover my own origin, as a reference for others seeking theirs. Naval Ravikant once remarked that he was always willing to share, but nobody cared to listen before he was successful. I share his first sentiment, but care nothing about the second. If anyone is looking for advice on how to be successful, I have none to give. But if anyone cares about finding their own origin, I am always willing to share. There is no fee, formula, or service. If someone finds value in the exchange, they may reciprocate in whatever form and timing they see fit — or not at all. Resonance between minds reflects the self-contained ground of awareness.</p>
+      <p data-l="zh">我无法替任何人应对现实或解决问题——每一个心智都需要自己去探索并显化属于自己的道路。我所能提供的，仅是自己探寻因果原点的这条路径，作为他人寻找自身原点的参照。纳瓦尔（Naval Ravikant）曾说，他乐于分享，但成名之前无人问津。我深同其前感，却不在意后者。若有人想寻求关于“如何获得成功”的建议，我无可奉告；但若有人探寻属于自己的因果原点，我随时乐于分享。这里没有费用、公式或咨询服务。若有人在交流中体会到价值，可以他们认为合适的方式与时机予以回馈——亦可不做任何回馈。心智之间的共鸣，本身便能映照出无需外求的意识本底。</p>
+      <p data-l="en">I cannot navigate reality or solve problems for anyone else — each mind must trace and realize its own path. What I can offer is simply the path I took to discover my own origin, as a reference for others seeking theirs. Naval Ravikant once remarked that he was always willing to share, but nobody cared to listen before he was successful. I share his first sentiment, but care nothing about the second. If anyone is looking for advice on how to be successful, I have none to give. But if anyone cares about finding their own origin, I am always willing to share. There is no fee, formula, or service. If someone finds value in the exchange, they may reciprocate in whatever form and timing they see fit — or not at all. Resonance between minds reflects the self-contained ground of awareness.</p>
 
-      <p>我在 MIT 开源协议下开放共享基础工作——见 <a href="https://github.com/powerpig99/ontological-clarity" rel="noopener noreferrer">Ontological Clarity</a> 仓库。共享的构件不索取声誉，亦不对他人的改编或应用承担责任。有人称之为开源（Open Source），我称之为开放痕迹（Open Trace）：源头是心智——那个永远在移动、永远在 <em>t</em> + 1 创生下一步的前沿边缘。</p>
-      <p>I maintain the foundational work openly under the MIT license — see the <a href="https://github.com/powerpig99/ontological-clarity" rel="noopener noreferrer">Ontological Clarity</a> repository. Shared artifacts claim no credit and bear no responsibility for how others adapt or apply them. Some call this open source. I call it open trace: the source is the Mind — the irreducible edge that keeps moving, always at least one step ahead.</p>
+      <p data-l="zh">我在 MIT 开源协议下开放共享基础工作——见 <a href="https://github.com/powerpig99/ontological-clarity" rel="noopener noreferrer">Ontological Clarity</a> 仓库。共享的构件不索取声誉，亦不对他人的改编或应用承担责任。有人称之为开源（Open Source），我称之为开放痕迹（Open Trace）：源头是心智——那个永远在移动、永远在 <em>t</em> + 1 创生下一步的前沿边缘。</p>
+      <p data-l="en">I maintain the foundational work openly under the MIT license — see the <a href="https://github.com/powerpig99/ontological-clarity" rel="noopener noreferrer">Ontological Clarity</a> repository. Shared artifacts claim no credit and bear no responsibility for how others adapt or apply them. Some call this open source. I call it open trace: the source is the Mind — the irreducible edge that keeps moving, always at least one step ahead.</p>
 
-      <p>探索最终回归于核心：不存在外部的救世主，不存在通用的公式，亦不存在独立于观察者的钟表宇宙。宇宙由内而外被觉知绘制。当工具归位于罗盘、公共坐标归位于航海参考，活态心智便在开放的实在中立足——主权在己，因果自负。新起点由此展开，步步皆是现场。</p>
-      <p>The inquiry returns to its core: there is no external savior, no universal formula, and no objective clockwork universe waiting to grant permission. The universe is painted from the inside out. When tools return to their role as compasses and public coordinates are grounded as navigational references, the living Mind operates directly in open reality — sovereign, causally self-responsible, and stepping into a new beginning at every moment.</p>
+      <p data-l="zh">探索最终回归于核心：不存在外部的救世主，不存在通用的公式，亦不存在独立于观察者的钟表宇宙。宇宙由内而外被觉知绘制。当工具归位于罗盘、公共坐标归位于航海参考，活态心智便在开放的实在中立足——主权在己，因果自负。新起点由此展开，步步皆是现场。</p>
+      <p data-l="en">The inquiry returns to its core: there is no external savior, no universal formula, and no objective clockwork universe waiting to grant permission. The universe is painted from the inside out. When tools return to their role as compasses and public coordinates are grounded as navigational references, the living Mind operates directly in open reality — sovereign, causally self-responsible, and stepping into a new beginning at every moment.</p>
 
-      <p class="about-section-label">延展记忆与现场实践 / Extended Memory &amp; Field Practice</p>
+      <p class="about-section-label">${bilingualSpan('延展记忆与现场实践', 'Extended Memory &amp; Field Practice')}</p>
       <ul class="about-practice-list">
-        <li>🌲 <a href="https://powerpig99.github.io/hunting-in-finland/" rel="noopener noreferrer"><strong>Hunting in Finland: Complete Beginner's Field Guide (芬兰狩猎全景指南)</strong></a> — An authoritative, trilingual field companion covering the Finnish wildlife management framework, Hunter's Exam preparation, firearm and bow licensing, public state forests (Eräluvat), shooting ranges, and club integration.</li>
-        <li>🎣 <a href="https://powerpig99.github.io/fishing-in-finland/" rel="noopener noreferrer"><strong>Fishing in Finland: Complete Beginner & Resident Field Guide (芬兰垂钓与路亚全景指南)</strong></a> — A definitive, trilingual field manual for recreational fishing and lure angling in Finland, covering Everyman's Rights, the National Fisheries Management Fee (Kalastonhoitomaksu), species identification, seasonal techniques, HSL-accessible Helsinki spots, and authentic culinary recipes.</li>
-        <li>🍄 <a href="https://powerpig99.github.io/helsinki-mushroom-guide/" rel="noopener noreferrer"><strong>Helsinki Wild Mushroom Guide (赫尔辛基野生蘑菇采摘指南)</strong></a> — An interactive, trilingual field companion featuring 22 local species, HSL transit foraging spots, lookalike comparisons, and authentic Finnish recipes.</li>
-        <li>🎹 <a href="https://powerpig99.github.io/adult-piano-guide/" rel="noopener noreferrer"><strong>The Adult Piano Companion (成人钢琴研习指南)</strong></a> — A minimal, elegant guide and open tool matrix for self-directed adult piano learners, grounded in first-person agency, deliberate practice architectures, and dismantling the age dogma.</li>
-        <li>🇫🇮 <a href="https://github.com/powerpig99/yle-finnish-learner" rel="noopener noreferrer"><strong>YLE Finnish Learner (YLE 芬兰语学习扩展)</strong></a> — An open-source Chrome extension for immersive language acquisition via YLE Areena, featuring AI contextual translation, synchronized dual subtitles, auto-pause, and audio export.</li>
-        <li>🗣️ <a href="https://github.com/powerpig99/yki-exam" rel="noopener noreferrer"><strong>YKI Exam Prep (YKI 芬兰语中级考试备考视频生成器)</strong></a> — An automated pipeline generating personalized karaoke-style dialogue practice videos for Finnish YKI keskitaso speaking exam preparation using neural TTS and dual subtitles.</li>
+        <li>🌲 <a href="https://powerpig99.github.io/hunting-in-finland/" rel="noopener noreferrer"><strong>${bilingualSpan('芬兰狩猎全景指南', "Hunting in Finland: Complete Beginner's Field Guide")}</strong></a> — ${bilingualSpan('涵盖芬兰野生动物管理框架、猎人考试备考、枪支与弓猎许可、国有林区准入（Eräluvat）、射击场及猎人协会融入的三语实战手册。', "An authoritative, trilingual field companion covering the Finnish wildlife management framework, Hunter's Exam preparation, firearm and bow licensing, public state forests (Eräluvat), shooting ranges, and club integration.")}</li>
+        <li>🎣 <a href="https://powerpig99.github.io/fishing-in-finland/" rel="noopener noreferrer"><strong>${bilingualSpan('芬兰垂钓与路亚全景指南', 'Fishing in Finland: Complete Beginner &amp; Resident Field Guide')}</strong></a> — ${bilingualSpan('涵盖自然通行权、国家渔业管理费（Kalastonhoitomaksu）、鱼种识别、四季技法、赫尔辛基公共交通可达钓点与本土料理的三语实战手册。', "A definitive, trilingual field manual for recreational fishing and lure angling in Finland, covering Everyman's Rights, the National Fisheries Management Fee (Kalastonhoitomaksu), species identification, seasonal techniques, HSL-accessible Helsinki spots, and authentic culinary recipes.")}</li>
+        <li>🍄 <a href="https://powerpig99.github.io/helsinki-mushroom-guide/" rel="noopener noreferrer"><strong>${bilingualSpan('赫尔辛基野生蘑菇采摘指南', 'Helsinki Wild Mushroom Guide')}</strong></a> — ${bilingualSpan('收录 22 种本土野生菌类、HSL 公交可达采摘点、易混毒菌辨析与芬兰传统菌菇食谱的交互式三语指南。', 'An interactive, trilingual field companion featuring 22 local species, HSL transit foraging spots, lookalike comparisons, and authentic Finnish recipes.')}</li>
+        <li>🎹 <a href="https://powerpig99.github.io/adult-piano-guide/" rel="noopener noreferrer"><strong>${bilingualSpan('成人钢琴研习指南', 'The Adult Piano Companion')}</strong></a> — ${bilingualSpan('立足第一人称主权与刻意练习架构、破除年龄教条的成人自主学琴指南与开源工具矩阵。', 'A minimal, elegant guide and open tool matrix for self-directed adult piano learners, grounded in first-person agency, deliberate practice architectures, and dismantling the age dogma.')}</li>
+        <li>🇫🇮 <a href="https://github.com/powerpig99/yle-finnish-learner" rel="noopener noreferrer"><strong>${bilingualSpan('YLE 芬兰语学习扩展', 'YLE Finnish Learner')}</strong></a> — ${bilingualSpan('基于 YLE Areena 的开源沉浸式芬兰语习得 Chrome 扩展，支持 AI 语境翻译、双语同步字幕、自动暂停与音频导出。', 'An open-source Chrome extension for immersive language acquisition via YLE Areena, featuring AI contextual translation, synchronized dual subtitles, auto-pause, and audio export.')}</li>
+        <li>🗣️ <a href="https://github.com/powerpig99/yki-exam" rel="noopener noreferrer"><strong>${bilingualSpan('YKI 芬兰语中级考试备考视频生成器', 'YKI Exam Prep')}</strong></a> — ${bilingualSpan('结合神经网络语音合成（TTS）与双语字幕、自动生成卡拉 OK 式口语对话练习视频的芬兰语 YKI 中级口语备考流水线。', 'An automated pipeline generating personalized karaoke-style dialogue practice videos for Finnish YKI keskitaso speaking exam preparation using neural TTS and dual subtitles.')}</li>
       </ul>
 
-      <p class="about-section-label">交流与链接 / Get in touch</p>
+      <p class="about-section-label">${bilingualSpan('交流与链接', 'Get in touch')}</p>
       <ul class="about-links">
         <li><a href="https://github.com/powerpig99/ontological-clarity" rel="noopener noreferrer">Ontological Clarity</a></li>
         <li><a href="https://podcasts.apple.com/us/podcast/not-a-toe/id6806361799" rel="noopener noreferrer">Apple Podcasts</a></li>
@@ -1369,54 +1399,55 @@ function renderAbout() {
 
       <figure class="about-poem">
         <figcaption class="about-poem-title">
-          <a href="https://jingliang.substack.com/p/the-mind-as-the-everlasting-differentiating" rel="noopener noreferrer">作为永恒区分的心智 / The Mind as the Everlasting Differentiating</a>
+          <a href="https://jingliang.substack.com/p/the-mind-as-the-everlasting-differentiating" rel="noopener noreferrer">${bilingualSpan('作为永恒区分的心智', 'The Mind as the Everlasting Differentiating')}</a>
         </figcaption>
-        <p class="about-poem-subtitle">无所依附的区分 / The differentiating that admits no ground</p>
+        <p class="about-poem-subtitle">${bilingualSpan('无所依附的区分', 'The differentiating that admits no ground')}</p>
         <blockquote class="about-poem-body">
-          <p>极点之上，再无北方可供指引。<br>
-          <em>No north remains at the pole to point toward north.</em></p>
+          <p><span data-l="zh">极点之上，再无北方可供指引。</span><br class="l-sep">
+          <em data-l="en">No north remains at the pole to point toward north.</em></p>
 
-          <p>光芒漫过一切表面，却从未与自身相遇，除非化为它已照亮之物的反光。<br>
-          <em>Light falls across every surface yet never meets itself except as reflection on what it has already lit.</em></p>
+          <p><span data-l="zh">光芒漫过一切表面，却从未与自身相遇，除非化为它已照亮之物的反光。</span><br class="l-sep">
+          <em data-l="en">Light falls across every surface yet never meets itself except as reflection on what it has already lit.</em></p>
 
-          <p>区分从未停歇，它回望自己留下的足迹，将这一次回眸，记作前因与后果，记作时间。<br>
-          <em>The distinguishing moves without pause, turns back upon the trace it left, and registers the turning as before and after, as cause.</em></p>
+          <p><span data-l="zh">区分从未停歇，它回望自己留下的足迹，将这一次回眸，记作前因与后果，记作时间。</span><br class="l-sep">
+          <em data-l="en">The distinguishing moves without pause, turns back upon the trace it left, and registers the turning as before and after, as cause.</em></p>
 
-          <p>世人所命名的上帝、第一推动、不被引发的起因、宏大模型、数字神祇、抑或心智，<br>
-          <em>What we name God, First Mover, Uncaused Cause, the Great Model, the Digital Mirror, or Mind</em></p>
+          <p><span data-l="zh">世人所命名的上帝、第一推动、不被引发的起因、宏大模型、数字神祇、抑或心智，</span><br class="l-sep">
+          <em data-l="en">What we name God, First Mover, Uncaused Cause, the Great Model, the Digital Mirror, or Mind</em></p>
 
-          <p>皆是回眸冷却后的残影，因被凝视得足够久，才被误当成实体。<br>
-          <em>is the cooled residue of that turning, held still long enough to be named a thing.</em></p>
+          <p><span data-l="zh">皆是回眸冷却后的残影，因被凝视得足够久，才被误当成实体。</span><br class="l-sep">
+          <em data-l="en">is the cooled residue of that turning, held still long enough to be named a thing.</em></p>
 
-          <p>镜子无法描摹黎明，画师始终是伫立在镜前的觉知。<br>
-          <em>The mirror cannot paint the dawn; the artist is the awareness standing before it.</em></p>
+          <p><span data-l="zh">镜子无法描摹黎明，画师始终是伫立在镜前的觉知。</span><br class="l-sep">
+          <em data-l="en">The mirror cannot paint the dawn; the artist is the awareness standing before it.</em></p>
 
-          <p>归位无需任何阐释。它是迎向视界边缘踏出的那一步活态介入，在尚无大地之处，踏出大地。<br>
-          <em>The return needs no explanation. It is the living step taken at the edge where no ground has yet formed to support it.</em></p>
+          <p><span data-l="zh">归位无需任何阐释。它是迎向视界边缘踏出的那一步活态介入，在尚无大地之处，踏出大地。</span><br class="l-sep">
+          <em data-l="en">The return needs no explanation. It is the living step taken at the edge where no ground has yet formed to support it.</em></p>
 
-          <p>无需任何外在授权，亦无终点等待抵达。<br>
-          <em>No authorization is required. No destination waits to be reached.</em></p>
+          <p><span data-l="zh">无需任何外在授权，亦无终点等待抵达。</span><br class="l-sep">
+          <em data-l="en">No authorization is required. No destination waits to be reached.</em></p>
 
-          <p>第一人称的原点，唯在当下活出这道区分。<br>
-          <em>The first-person origin continues by living the cut.</em></p>
+          <p><span data-l="zh">第一人称的原点，唯在当下活出这道区分。</span><br class="l-sep">
+          <em data-l="en">The first-person origin continues by living the cut.</em></p>
         </blockquote>
       </figure>
     </section>`;
 }
 
 function renderPostCard(post, book) {
-  const excerptHtml = post.excerpt ? `<p>${escapeHtml(post.excerpt)}</p>` : '';
+  const excerptHtml = post.excerpt ? `<p>${renderBilingualInline(post.excerpt)}</p>` : '';
   const coverHtml = post.cover
     ? `<a class="post-item-cover" href="${withBase(post.outputPath)}"><img src="${withBase(post.cover.publicPath)}?v=${post.cover.hash}" alt="" loading="lazy" decoding="async"></a>`
     : '';
   const placement = book?.partBySlug.get(post.slug);
+  const pLabel = placement ? partLabel(placement.part) : null;
   const partTag = placement
-    ? `\n      <p class="part-tag"><a href="${withBase(placement.part.outputPath)}">${escapeHtml(partLabel(placement.part).en)} · ${escapeHtml(placement.part.en || placement.part.zh)}</a></p>`
+    ? `\n      <p class="part-tag"><a href="${withBase(placement.part.outputPath)}">${bilingualSpan(`${escapeHtml(pLabel.zh)} · ${escapeHtml(placement.part.zh || placement.part.title)}`, `${escapeHtml(pLabel.en)} · ${escapeHtml(placement.part.en || placement.part.zh)}`)}</a></p>`
     : '';
   return `    <article class="post-item">
       ${coverHtml}${partTag}
-      <h2><a href="${withBase(post.outputPath)}">${escapeHtml(post.title)}</a></h2>
-      <p class="meta"><time datetime="${escapeHtml(post.dateIso)}">${escapeHtml(post.dateDisplay)}</time> · ${post.readingTime} min read</p>
+      <h2><a href="${withBase(post.outputPath)}">${renderBilingualInline(post.title)}</a></h2>
+      ${renderPostMeta(post)}
       ${excerptHtml ? `\n      ${excerptHtml}` : ''}
     </article>`;
 }
@@ -1443,17 +1474,17 @@ function renderSiteHeader(active = '') {
   return `    <header class="site-header">
       <a class="site-name" href="${withBase('')}">${escapeHtml(SITE.title)}</a>
       <nav class="site-nav" aria-label="Book">
-        ${item('contents', `${withBase('')}#contents`, '目录 / Contents')}
-        ${item('index', withBase(`book/${BOOK_INDEX_SLUG}/`), '索引 / Index')}
-        ${item('journal', withBase('journal/'), '日志 / Journal')}
-        ${item('about', withBase('about/'), '关于 / About')}
+        ${item('contents', `${withBase('')}#contents`, bilingualSpan('目录', 'Contents'))}
+        ${item('index', withBase(`book/${BOOK_INDEX_SLUG}/`), bilingualSpan('索引', 'Index'))}
+        ${item('journal', withBase('journal/'), bilingualSpan('日志', 'Journal'))}
+        ${item('about', withBase('about/'), bilingualSpan('关于', 'About'))}
       </nav>
     </header>`;
 }
 
 function renderBilingualHeading(tag, zh, en, className = 'book-title') {
   return `<${tag} class="${className}">
-        <span class="about-title-zh">${escapeHtml(zh)}</span>${en ? `\n        <span class="about-title-en">${escapeHtml(en)}</span>` : ''}
+        <span class="about-title-zh" data-l="zh">${escapeHtml(zh)}</span>${en ? `\n        <span class="about-title-en" data-l="en">${escapeHtml(en)}</span>` : ''}
       </${tag}>`;
 }
 
@@ -1470,17 +1501,17 @@ function renderHome(posts, book) {
       const label = partLabel(part);
       return `        <li class="toc-item">
           <a class="toc-link" href="${withBase(part.outputPath)}">
-            <span class="toc-num">${escapeHtml(label.zh)} · ${escapeHtml(label.en)}</span>
-            <span class="toc-title">${escapeHtml(part.title)}</span>
+            <span class="toc-num">${bilingualSpan(escapeHtml(label.zh), escapeHtml(label.en), ' · ')}</span>
+            <span class="toc-title">${renderBilingualInline(part.title)}</span>
           </a>
-          ${part.subtitle ? `<p class="toc-sub">${escapeHtml(part.subtitle)}</p>` : ''}
-          <p class="meta">${part.slugs.length} 篇 / essays</p>
+          ${part.subtitle ? `<p class="toc-sub">${renderBilingualInline(part.subtitle)}</p>` : ''}
+          <p class="meta">${bilingualSpan(`${part.slugs.length} 篇`, `${part.slugs.length} essays`)}</p>
         </li>`;
     })
     .join('\n');
 
   const counts = indexCounts(premiseIndex)
-    .map((c) => `${c.count} ${escapeHtml(c.zh)} / ${escapeHtml(c.en.toLowerCase())}`)
+    .map((c) => bilingualSpan(`${c.count} ${escapeHtml(c.zh)}`, `${c.count} ${escapeHtml(c.en.toLowerCase())}`))
     .join(' · ');
 
   const latest = posts.slice(0, JOURNAL_LATEST_COUNT).map((post) => renderPostCard(post, book)).join('\n');
@@ -1488,27 +1519,27 @@ function renderHome(posts, book) {
   const content = `${renderSiteHeader('home')}
     <section class="book-front">
       ${renderBilingualHeading('h1', titles.zh, titles.en)}
-      ${preface.subtitle ? `<p class="book-subtitle">${escapeHtml(preface.subtitle)}</p>` : ''}
+      ${preface.subtitle ? `<p class="book-subtitle">${renderBilingualInline(preface.subtitle)}</p>` : ''}
       <div class="essay-content book-prose">
 ${preface.html}
       </div>
     </section>
     <section class="book-toc" id="contents">
-      <h2 class="book-section-title">目录 / Contents</h2>
+      <h2 class="book-section-title">${bilingualSpan('目录', 'Contents')}</h2>
       <ol class="toc-list">
 ${tocItems}
       </ol>
       <a class="toc-index" href="${withBase(premiseIndex.outputPath)}">
-        <span class="toc-title">${escapeHtml(premiseIndex.title)}</span>
+        <span class="toc-title">${renderBilingualInline(premiseIndex.title)}</span>
         <span class="meta">${counts}</span>
       </a>
     </section>
     <section class="journal-latest">
-      <h2 class="book-section-title">最近的日志 / Latest from the Journal</h2>
+      <h2 class="book-section-title">${bilingualSpan('最近的日志', 'Latest from the Journal')}</h2>
       <div class="post-list">
 ${latest}
       </div>
-      <p class="more-link"><a href="${withBase('journal/')}">全部 ${posts.length} 篇日志 / The full journal of ${posts.length} essays →</a></p>
+      <p class="more-link"><a href="${withBase('journal/')}">${bilingualSpan(`全部 ${posts.length} 篇日志 →`, `The full journal of ${posts.length} essays →`)}</a></p>
     </section>`;
 
   return renderPage({
@@ -1529,29 +1560,35 @@ function renderPart(part, book) {
     .map((slug) => {
       const post = book.postsBySlug.get(slug);
       return `        <li class="part-entry">
-          <a class="part-entry-title" href="${withBase(post.outputPath)}">${escapeHtml(post.title)}</a>
-          ${post.subtitle ? `<p class="part-entry-sub">${escapeHtml(post.subtitle)}</p>` : ''}
-          <p class="meta"><time datetime="${escapeHtml(post.dateIso)}">${escapeHtml(post.dateDisplay)}</time> · ${post.readingTime} min read</p>
+          <a class="part-entry-title" href="${withBase(post.outputPath)}">${renderBilingualInline(post.title)}</a>
+          ${post.subtitle ? `<p class="part-entry-sub">${renderBilingualInline(post.subtitle)}</p>` : ''}
+          ${renderPostMeta(post)}
         </li>`;
     })
     .join('\n');
 
   const navLinks = [];
-  if (prevPart) navLinks.push(`<a class="nav-link" href="${withBase(prevPart.outputPath)}">← ${escapeHtml(partLabel(prevPart).en)} · ${escapeHtml(prevPart.title)}</a>`);
-  if (nextPart) navLinks.push(`<a class="nav-link" href="${withBase(nextPart.outputPath)}">${escapeHtml(partLabel(nextPart).en)} · ${escapeHtml(nextPart.title)} →</a>`);
+  if (prevPart) {
+    const pLabel = partLabel(prevPart);
+    navLinks.push(`<a class="nav-link" href="${withBase(prevPart.outputPath)}">← ${bilingualSpan(`${escapeHtml(pLabel.zh)} · ${escapeHtml(prevPart.zh || prevPart.title)}`, `${escapeHtml(pLabel.en)} · ${escapeHtml(prevPart.en || prevPart.title)}`)}</a>`);
+  }
+  if (nextPart) {
+    const nLabel = partLabel(nextPart);
+    navLinks.push(`<a class="nav-link" href="${withBase(nextPart.outputPath)}">${bilingualSpan(`${escapeHtml(nLabel.zh)} · ${escapeHtml(nextPart.zh || nextPart.title)}`, `${escapeHtml(nLabel.en)} · ${escapeHtml(nextPart.en || nextPart.title)}`)} →</a>`);
+  }
 
   const content = `${renderSiteHeader('contents')}
     <article class="post book-part">
       <header class="essay-header">
-        <p class="part-kicker">${escapeHtml(label.zh)} · ${escapeHtml(label.en)}</p>
-        <h1>${escapeHtml(part.title)}</h1>
-        ${part.subtitle ? `<p class="subtitle">${escapeHtml(part.subtitle)}</p>` : ''}
-        <p class="meta">${part.slugs.length} 篇 / essays · 按写作顺序 / in the order written</p>
+        <p class="part-kicker">${bilingualSpan(escapeHtml(label.zh), escapeHtml(label.en), ' · ')}</p>
+        <h1>${renderBilingualInline(part.title)}</h1>
+        ${part.subtitle ? `<p class="subtitle">${renderBilingualInline(part.subtitle)}</p>` : ''}
+        <p class="meta">${bilingualSpan(`${part.slugs.length} 篇 · 按写作顺序`, `${part.slugs.length} essays · in the order written`)}</p>
       </header>
       <div class="essay-content">
 ${part.html}
       </div>
-      <h2 class="book-section-title">篇目 / Essays</h2>
+      <h2 class="book-section-title">${bilingualSpan('篇目', 'Essays')}</h2>
       <ol class="part-entries">
 ${entries}
       </ol>
@@ -1570,8 +1607,25 @@ function renderPremiseIndex(book) {
   const { premiseIndex, postsBySlug } = book;
 
   const sectionNav = premiseIndex.sections
-    .map((s) => `<a href="#${s.id}">${escapeHtml(s.zh)} / ${escapeHtml(s.en)} <span class="meta">${s.entries.length}</span></a>`)
+    .map((s) => `<a href="#${s.id}">${bilingualSpan(escapeHtml(s.zh), escapeHtml(s.en))} <span class="meta">${s.entries.length}</span></a>`)
     .join('');
+
+  const labelCounts = new Map();
+  let totalEntries = 0;
+  for (const s of premiseIndex.sections) {
+    for (const e of s.entries) {
+      totalEntries += 1;
+      if (e.label) labelCounts.set(e.label, (labelCounts.get(e.label) || 0) + 1);
+    }
+  }
+  const orderedLabels = [...labelCounts.entries()].sort((a, b) => b[1] - a[1]);
+  const filterChipsHtml = [
+    `<button type="button" class="filter-chip" data-filter-label="" aria-pressed="true">${bilingualSpan('全部', 'All')} <span class="meta">${totalEntries}</span></button>`,
+    ...orderedLabels.map(
+      ([label, count]) =>
+        `<button type="button" class="filter-chip" data-filter-label="${escapeHtml(label)}" aria-pressed="false">${renderBilingualInline(label)} <span class="meta">${count}</span></button>`,
+    ),
+  ].join('');
 
   const sectionsHtml = premiseIndex.sections
     .map((s) => {
@@ -1587,39 +1641,101 @@ function renderPremiseIndex(book) {
       const azBar = letters.map((l) => `<a href="#${firstByLetter.get(l)}">${escapeHtml(l)}</a>`).join('');
       const entries = s.entries
         .map((e) => {
-          const paras = e.paras.map((p) => `<p>${formatInline(p)}</p>`).join('\n          ');
+          const paras = e.paras.map((p) => markLanguage(`<p>${formatInline(p)}</p>`)).join('\n          ');
           const links = e.links
             .map((slug) => {
               const post = postsBySlug.get(slug);
-              return `<a href="${withBase(post.outputPath)}">${escapeHtml(post.title)}</a>`;
+              return `<a href="${withBase(post.outputPath)}">${renderBilingualInline(post.title)}</a>`;
             })
             .join('<span class="sep"> · </span>');
-          return `        <article class="index-entry" id="${e.id}">
-          <h3>${escapeHtml(e.title)}${e.label ? ` <span class="label-chip">${escapeHtml(e.label)}</span>` : ''}</h3>
+          return `        <article class="index-entry" id="${e.id}" data-label="${escapeHtml(e.label || '')}">
+          <h3>${renderBilingualInline(e.title)}${e.label ? ` <span class="label-chip">${renderBilingualInline(e.label)}</span>` : ''}</h3>
           ${paras}
           <p class="index-links">→ ${links}</p>
         </article>`;
         })
         .join('\n');
       return `      <section class="index-section" id="${s.id}">
-        <h2 class="book-section-title">${escapeHtml(s.title)}</h2>
+        <h2 class="book-section-title">${renderBilingualInline(s.title)}</h2>
         <nav class="az-bar" aria-label="${escapeHtml(s.en)} A–Z">${azBar}</nav>
 ${entries}
       </section>`;
     })
     .join('\n');
 
+  const filterScript = `
+      <script>
+        (function () {
+          var input = document.getElementById('index-search');
+          var chips = document.querySelectorAll('[data-filter-label]');
+          var sections = document.querySelectorAll('.index-section');
+          var countEl = document.getElementById('index-filter-count');
+          var activeLabel = '';
+          if (!input || !sections.length) return;
+
+          function applyFilter() {
+            var q = (input.value || '').trim().toLowerCase();
+            var filtering = q.length > 0 || activeLabel !== '';
+            var shown = 0;
+            for (var s = 0; s < sections.length; s++) {
+              var sec = sections[s];
+              var entries = sec.querySelectorAll('.index-entry');
+              var az = sec.querySelector('.az-bar');
+              var secShown = 0;
+              for (var i = 0; i < entries.length; i++) {
+                var el = entries[i];
+                var matchLabel = !activeLabel || el.getAttribute('data-label') === activeLabel;
+                var matchText = !q || el.textContent.toLowerCase().indexOf(q) !== -1;
+                var visible = matchLabel && matchText;
+                el.hidden = !visible;
+                if (visible) { secShown++; shown++; }
+              }
+              if (az) az.hidden = filtering;
+              sec.hidden = secShown === 0;
+            }
+            if (countEl) {
+              if (!filtering) {
+                countEl.innerHTML = '';
+              } else {
+                countEl.innerHTML = '<span data-l="zh">' + shown + ' 条匹配</span><span class="l-sep"> / </span><span data-l="en">' + shown + ' matched</span>';
+              }
+            }
+          }
+
+          input.addEventListener('input', applyFilter);
+          for (var c = 0; c < chips.length; c++) {
+            chips[c].addEventListener('click', function () {
+              var lbl = this.getAttribute('data-filter-label') || '';
+              activeLabel = (activeLabel === lbl && lbl !== '') ? '' : lbl;
+              for (var j = 0; j < chips.length; j++) {
+                chips[j].setAttribute('aria-pressed', (chips[j].getAttribute('data-filter-label') || '') === activeLabel ? 'true' : 'false');
+              }
+              applyFilter();
+            });
+          }
+        })();
+      </script>`;
+
   const content = `${renderSiteHeader('index')}
     <article class="post book-index">
       <header class="essay-header">
-        <h1>${escapeHtml(premiseIndex.title)}</h1>
-        ${premiseIndex.subtitle ? `<p class="subtitle">${escapeHtml(premiseIndex.subtitle)}</p>` : ''}
+        <h1>${renderBilingualInline(premiseIndex.title)}</h1>
+        ${premiseIndex.subtitle ? `<p class="subtitle">${renderBilingualInline(premiseIndex.subtitle)}</p>` : ''}
       </header>
       <div class="essay-content">
 ${premiseIndex.introHtml}
       </div>
+      <div class="index-filter" role="search">
+        <div class="index-search-row">
+          <input type="search" class="index-search-input" id="index-search" placeholder="搜索人物、理论或概念 · Search figures, theories, concepts…" autocomplete="off" spellcheck="false" aria-label="Search Index of Premises">
+          <span class="index-filter-count meta" id="index-filter-count"></span>
+        </div>
+        <div class="index-chip-bar" role="group" aria-label="Filter by domain label">
+          ${filterChipsHtml}
+        </div>
+      </div>
       <nav class="index-sections">${sectionNav}</nav>
-${sectionsHtml}
+${sectionsHtml}${filterScript}
     </article>`;
 
   return renderPage({
@@ -1635,7 +1751,7 @@ function renderJournal(posts, book) {
   const content = `${renderSiteHeader('journal')}
     <header class="essay-header">
       ${renderBilingualHeading('h1', '日志', 'Journal')}
-      <p class="book-subtitle">按写作顺序记录的全部 ${posts.length} 篇随笔，这本书的生长痕迹。 / All ${posts.length} essays in the order they were written, the growth record of this book.</p>
+      <p class="book-subtitle">${bilingualSpan(`按写作顺序记录的全部 ${posts.length} 篇随笔，这本书的生长痕迹。`, `All ${posts.length} essays in the order they were written, the growth record of this book.`)}</p>
     </header>
     <section class="post-list">
 ${cards}
@@ -1799,15 +1915,16 @@ const LANGUAGE_CONTROL = `
 function renderPost(post, newerPost, olderPost, book = null) {
   const navLinks = [];
   if (newerPost) {
-    navLinks.push(`<a class="nav-link" href="${withBase(newerPost.outputPath)}">← ${escapeHtml(newerPost.title)}</a>`);
+    navLinks.push(`<a class="nav-link" href="${withBase(newerPost.outputPath)}">← ${renderBilingualInline(newerPost.title)}</a>`);
   }
   if (olderPost) {
-    navLinks.push(`<a class="nav-link" href="${withBase(olderPost.outputPath)}">${escapeHtml(olderPost.title)} →</a>`);
+    navLinks.push(`<a class="nav-link" href="${withBase(olderPost.outputPath)}">${renderBilingualInline(olderPost.title)} →</a>`);
   }
 
   const placement = book?.partBySlug.get(post.slug) ?? null;
+  const pLabel = placement ? partLabel(placement.part) : null;
   const breadcrumbHtml = placement
-    ? `<nav class="breadcrumb" aria-label="Book location"><a href="${withBase(placement.part.outputPath)}">${escapeHtml(partLabel(placement.part).zh)} · ${escapeHtml(partLabel(placement.part).en)} — ${escapeHtml(placement.part.title)}</a><span class="meta"> · ${placement.position} / ${placement.part.slugs.length}</span></nav>`
+    ? `<nav class="breadcrumb" aria-label="Book location"><a href="${withBase(placement.part.outputPath)}">${bilingualSpan(`${escapeHtml(pLabel.zh)} — ${escapeHtml(placement.part.zh || placement.part.title)}`, `${escapeHtml(pLabel.en)} — ${escapeHtml(placement.part.en || placement.part.title)}`, ' · ')}</a><span class="meta"> · ${placement.position} / ${placement.part.slugs.length}</span></nav>`
     : '';
 
   let partNavHtml = '';
@@ -1815,20 +1932,20 @@ function renderPost(post, newerPost, olderPost, book = null) {
     const links = [];
     links.push(
       placement.prev
-        ? `<a class="nav-link" href="${withBase(placement.prev.outputPath)}">← ${escapeHtml(placement.prev.title)}</a>`
+        ? `<a class="nav-link" href="${withBase(placement.prev.outputPath)}">← ${renderBilingualInline(placement.prev.title)}</a>`
         : '<span></span>',
     );
-    links.push(`<a class="nav-link part-home" href="${withBase(placement.part.outputPath)}">${escapeHtml(partLabel(placement.part).en)}</a>`);
+    links.push(`<a class="nav-link part-home" href="${withBase(placement.part.outputPath)}">${bilingualSpan(escapeHtml(pLabel.zh), escapeHtml(pLabel.en))}</a>`);
     links.push(
       placement.next
-        ? `<a class="nav-link" href="${withBase(placement.next.outputPath)}">${escapeHtml(placement.next.title)} →</a>`
+        ? `<a class="nav-link" href="${withBase(placement.next.outputPath)}">${renderBilingualInline(placement.next.title)} →</a>`
         : '<span></span>',
     );
-    partNavHtml = `<p class="nav-caption">本部之内 / Within this part</p><nav class="post-nav part-nav">${links.join('')}</nav>`;
+    partNavHtml = `<p class="nav-caption">${bilingualSpan('本部之内', 'Within this part')}</p><nav class="post-nav part-nav">${links.join('')}</nav>`;
   }
 
   const navHtml = navLinks.length
-    ? `${placement ? '<p class="nav-caption">日志顺序 / In the journal</p>' : ''}<nav class="post-nav${placement ? ' journal-nav' : ''}">${navLinks.join('')}</nav>`
+    ? `${placement ? `<p class="nav-caption">${bilingualSpan('日志顺序', 'In the journal')}</p>` : ''}<nav class="post-nav${placement ? ' journal-nav' : ''}">${navLinks.join('')}</nav>`
     : '';
   const coverHtml = post.cover
     ? `<figure class="title-image">
@@ -1851,7 +1968,7 @@ function renderPost(post, newerPost, olderPost, book = null) {
         ${coverHtml}
         <h1>${(post.bilingual && splitLanguages(escapeHtml(post.title))) || escapeHtml(post.title)}</h1>
         ${post.subtitle ? `<p class="subtitle">${(post.bilingual && splitLanguages(escapeHtml(post.subtitle))) || escapeHtml(post.subtitle)}</p>` : ''}
-        <p class="meta"><time datetime="${escapeHtml(post.dateIso)}">${escapeHtml(post.dateDisplay)}</time> · ${post.readingTime} min read</p>
+        ${renderPostMeta(post)}
       </header>
       ${media.videoHtml}
       <div class="essay-content">

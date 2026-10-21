@@ -2,13 +2,13 @@
 
 *客观性是主观心智的成就，任何试图排除观察者的模型皆陷入施演矛盾 / Objectivity is an achievement of subjectivity; models erasing the observer collapse in contradiction*
 
-意识不是物理世界的副产物，亦非神经元放电偶然涌现的附加特征。恰恰相反，一切被称作“客观现实”的科学建构，无一不是主观心智在第一人称视域中达成的认识成就。试图构建一套全然剔除意识的物理理论，注定陷入施演矛盾。
+神经科学、认知科学与功能主义通过第三人称可观测的信号、神经相关物与输入输出映射来研究心智，在临床诊断、脑机工程与行为建模中提供了丰富的局部图谱。它们的不完备始于把这套第三人称投影当成意识本身的基底——任何被称为“客观数据”的科学记录，都已经在某个第一人称意识的区分与体验中得以登记，试图从全部没有主体的部件里拼凑出体验，注定在起点处漏掉观察者自身。
 
-Consciousness is neither an accidental byproduct of matter nor an epiphenomenal spark of neural circuits. On the contrary, every scientific model termed objective reality is an epistemic achievement forged within first-person awareness. Erasing consciousness from theory ends in performative contradiction.
+Neuroscience, cognitive science, and functionalism study the mind through third-person observables, neural correlates, and input-output mappings, yielding rich local atlases for clinical diagnosis, neural engineering, and behavioral modeling. Their incompleteness begins when this third-person projection is mistaken for the ground of consciousness itself — every scientific record called "objective data" is already registered within a first-person awareness making distinctions, and any attempt to assemble experience out of subjectless parts leaves out the observer at the starting line.
 
-这里的篇目直面意识的难问题、他心推断的演化基础，以及将算法输出误作内在体验的认知混淆。它们捍卫第一人称的不可还原性：无论第三人称的脑图谱多么详尽，都无法消解那个在当下感受、抉择并承担后果的自觉主体。
+这里的篇目探讨了意识的难问题、先于解释的感知、自我模型的维护悖论，以及他心推断的非对称性。无论第三人称的脑图谱与意识向量刻画得多么精细，感知者与它所留下的痕迹都无法坍缩为同一物；第一人称视域始终是一切模型的先验现场。
 
-The essays in this part confront the hard problem of consciousness, the evolutionary roots of other minds, and the confusion of algorithmic output with inner experience. They defend first-person irreducibility: no objective brain atlas can dissolve the conscious agent choosing and suffering in the present.
+The essays in this part explore the hard problem of consciousness, sensing prior to interpretation, the maintenance paradox of self-models, and the asymmetry of inferring other minds. However finely a third-person brain atlas or activation vector is drawn, the perceiver and the trace it leaves cannot collapse into one; the first-person horizon remains the prior field within which every model appears.
 
 ## 篇目 / Essays
 

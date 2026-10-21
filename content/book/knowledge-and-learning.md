@@ -2,13 +2,13 @@
 
 *知识无法脱离心智现场而被动传递，制度化考核将探索异化为排位赛 / Knowledge cannot be handed over passively; institutional testing reduces inquiry to rank*
 
-现代教育体制将人类漫长探索凝结出的活态洞见，压缩为可被批量印刷与机械灌输的标准答案。学生被训练为低维考卷上的得分机器，却丧失了在混乱现实中自行划定坐标系的能力。当知识被视为现成货物时，真正的理解便已死亡。
+学校课程、学科分类与专家建议将前人在特定历史约束下探索出的结论整理成册，作为快速检索与入门的索引极为有用。它们的不完备始于把这套现成的结论清单误认作理解本身——当教育与阅读把通过标准化考核或复述他人定论当成终点时，学习者便用对既有痕迹的记忆替代了在未知处境中重新追溯的活态能力。
 
-Modern schooling compresses centuries of living inquiry into standardized answers for batch reproduction. Students are groomed as test-scoring automata, losing the capacity to set their own coordinates amid chaos. When knowledge is treated as pre-packaged freight, authentic understanding dies.
+School curricula, academic disciplines, and expert advice catalog conclusions forged under past constraints, serving as a valuable index for rapid orientation and retrieval. Their incompleteness begins when this inventory of settled conclusions is mistaken for understanding itself — when schooling and reading treat passing standardized tests or repeating established verdicts as the destination, substituting memory of past traces for the live capacity to re-trace in unfamiliar terrain.
 
-这里的随笔审视了学院派的门阀壁垒、专家权威的参考属性，以及被动阅读与主动逆向推断的差异。学习不是收集未经检验的论断，而是在行动反馈中重新打磨自己的思维透镜，让心智在真实的阻力面前长出坚韧的骨骼。
+这里的随笔考察了好奇心作为不可观测的驱动力、专家经验作为参考而非替代的边界、理解的非对称性，以及“信任读者”与“无损传递”背后的认识论假设。真正的学习从来不是把现成答案搬进仓库，而是以好奇为先导，在行动与现实阻力的来回碰撞中持续校准自己的推断回路。
 
-These essays examine academic credentialism, the true advisory scope of expertise, and the contrast between passive reading and active reverse-inference. Learning is not gathering untested dogmas; it is refining one's lenses through feedback, letting the intellect grow bone against real resistance.
+The essays here examine curiosity as the unobservable driver of learning, the boundary between expertise as reference and as replacement, the asymmetry of understanding, and the assumptions behind "lossless transmission." Genuine learning is never warehousing ready-made answers; led by curiosity, it is the continuous calibration of one's own inferential loop against real resistance.
 
 ## 篇目 / Essays
 

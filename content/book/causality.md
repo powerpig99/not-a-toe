@@ -2,13 +2,13 @@
 
 *内在是主权抉择，外显为统计规律，因果从非外在之物的单向施加 / Sovereign choice within, statistical law without; causality is never unilateral force*
 
-因果律并非悬置于宇宙之上的机械发条，而是第一人称心智参与世界的展开方式。从内在审视，它是不可推卸的主权抉择；从外部观测，它显影为概率与规律。把原因单向推给外部境遇，是心智逃避受力责任的惯用掩体。
+因果不是悬置于观察者之外的机械发条，而是第一人称视角与行动留痕的同一枚硬币的两面。在可控的局部系统里，把原因与结果整理为外在的传递链条，有助于预测和工程设计；然而一旦越出这一边界，把全部变化都归结为先存状态的被动推演，解释就会抹去那个正在划定边界、发起区分并承受后果的行动中心。
 
-Causality is not a mechanical clockwork suspended above the universe, but the way first-person minds participate in the world. Felt within, it is an inescapable sovereign choice; observed without, it manifests as probability and regularity. Outsourcing cause to external circumstance is merely a shelter from responsibility.
+Causality is not a mechanical clockwork suspended outside the observer, but the other face of the first-person perspective and the trace left by action. Inside bounded, controllable systems, organizing causes and effects into external chains serves prediction and engineering design; yet once that premise is carried past its boundary to treat all change as the passive unrolling of prior states, the explanation erases the acting center that draws boundaries, initiates distinctions, and bears consequences.
 
-这里的篇目剖析了还原论决定论对自由意志的否定，展现了微观自由变量如何在宏观沉积为确定性表象。唯有意识到自身即是因果链条的发起端，行动者才能打破受害者叙事的循环，承受真实的损益与生长。
+这一部的篇目追溯了决定论、外部归因与责任委托各自所依赖的前提，考察微观的自由变量如何在宏观层面沉积为统计规律，又如何在具体的决策点上保持敞开。看清个体抉择是自己唯一直接支配的因果杠杆，心智便不再把过往或外境当成决定当下的终审法庭，而在每一次介入中直接认领后果与修正。
 
-The essays here dissect reductionist denials of free will, showing how microscopic free variables deposit into deterministic appearances at macro scales. Only by recognizing oneself as the causal origin can an agent break victimhood cycles, bearing genuine consequences and authentic growth.
+The essays in this part trace the premises beneath determinism, external attribution, and delegated responsibility, examining how microscopic free variables settle into statistical regularities at macro scales while remaining open at each concrete point of decision. Seeing that individual choice is the only causal lever one directly commands, the mind stops treating past states or external circumstances as a final court over the present, claiming consequence and revision in each step.
 
 ## 篇目 / Essays
 

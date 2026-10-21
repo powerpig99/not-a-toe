@@ -26,7 +26,7 @@ img {
 
 body {
   margin: 0;
-  font-family: Georgia, "Times New Roman", serif;
+  font-family: Georgia, "Times New Roman", "Songti SC", "STSong", "Noto Serif CJK SC", "Source Han Serif SC", serif;
   line-height: 1.7;
   background: var(--bg);
   color: var(--fg);
@@ -306,6 +306,17 @@ tr:nth-child(even) {
   line-height: 1.35;
 }
 
+html[data-lang="zh"] .about-title-zh {
+  margin-bottom: 0;
+}
+
+html[data-lang="en"] .about-title-en {
+  font-size: 1em;
+  font-weight: 700;
+  color: var(--fg);
+  line-height: 1.25;
+}
+
 .about hr {
   display: block;
   height: 0;
@@ -438,6 +449,12 @@ tr:nth-child(even) {
   color: var(--muted);
   font-style: italic;
   margin-top: 0.15em;
+}
+
+html[data-lang="en"] .about-poem-body em {
+  color: var(--fg);
+  font-style: normal;
+  margin-top: 0;
 }
 
 .about-poem-body p:last-child {
@@ -827,6 +844,83 @@ tr:nth-child(even) {
   font-weight: 700;
 }
 
+.index-filter {
+  margin: 1.75rem 0 1.25rem;
+  padding: 1rem 1.15rem;
+  border: 1px solid var(--rule);
+  border-radius: 4px;
+  background: color-mix(in srgb, var(--fg) 2%, transparent);
+}
+
+.index-search-row {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin: 0 0 0.75rem;
+}
+
+.index-search-input {
+  flex: 1;
+  width: 100%;
+  font: inherit;
+  font-size: 0.95rem;
+  line-height: 1.4;
+  padding: 0.48rem 0.75rem;
+  color: var(--fg);
+  background: var(--bg);
+  border: 1px solid var(--rule);
+  border-radius: 3px;
+  outline: none;
+  transition: border-color 0.15s ease;
+}
+
+.index-search-input::placeholder {
+  color: var(--muted);
+}
+
+.index-search-input:focus {
+  border-color: color-mix(in srgb, var(--fg) 55%, transparent);
+}
+
+.index-filter-count {
+  white-space: nowrap;
+  font-size: 0.85rem;
+}
+
+.index-chip-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.filter-chip {
+  font: inherit;
+  font-size: 0.8rem;
+  line-height: 1.2;
+  padding: 0.32rem 0.65rem;
+  color: var(--muted);
+  background: var(--bg);
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  cursor: pointer;
+  transition: border-color 0.15s ease, color 0.15s ease, background 0.15s ease;
+}
+
+.filter-chip:hover {
+  color: var(--fg);
+  border-color: color-mix(in srgb, var(--fg) 40%, transparent);
+}
+
+.filter-chip[aria-pressed="true"] {
+  color: var(--bg);
+  background: var(--fg);
+  border-color: var(--fg);
+}
+
+.filter-chip[aria-pressed="true"] .meta {
+  color: color-mix(in srgb, var(--bg) 75%, transparent);
+}
+
 .index-sections {
   display: flex;
   flex-wrap: wrap;
@@ -1096,10 +1190,18 @@ html[data-lang="en"] .mermaid-wrap[data-l="zh"] {
   padding: 0.45rem 0.4rem;
   text-align: center;
   color: var(--muted);
-  background: var(--bg);
+  background: color-mix(in srgb, var(--bg) 88%, transparent);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
   border: 1px solid var(--rule);
-  border-radius: 2px;
+  border-radius: 3px;
   cursor: pointer;
+  transition: color 0.15s ease, border-color 0.15s ease, background 0.15s ease;
+}
+
+.lang-float button:hover {
+  color: var(--fg);
+  border-color: color-mix(in srgb, var(--fg) 40%, transparent);
 }
 
 .lang-float button[aria-pressed="true"] {

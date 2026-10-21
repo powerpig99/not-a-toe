@@ -2,13 +2,13 @@
 
 *物理定律是跨心智保持不变的宏观现象，而非先于心智的宇宙立法者 / Physical law is a macroscopic invariance across minds, not a prior legislator*
 
-物理学是一门关于测量的精妙学问，其优美方程描摹的是观察者在特定实验约束下的宏观不变性。然而，当工程师与理论家宣称“物理学才是定律，其余皆是建议”时，他们悄然把人造的形式模型偷换成了自然的先验指挥官。
+物理学是一门关于测量与不变性的精密学科：它的方程记录了不同观察者在特定实验约束下能够稳定复现的宏观关系，在工程建造、轨道计算与受控实验内具有无可替代的效用。它的不完备始于把这套成功的测量记录倒置为先于观察者的宇宙立法者——当人们宣称“物理学才是定律，其余皆是建议”时，便把从特定割点提取出的形式模型当成了支配一切未发生现实的封闭剧本。
 
-Physics is a subtle discipline of measurement whose elegant equations describe macroscopic invariances under specific observational constraints. Yet when engineers declare that physics is law and all else is advice, they subtly swap human formal models for nature's sovereign commanders.
+Physics is a precise discipline of measurement and invariance: its equations record the macroscopic relations that remain reproducible across observers under specified experimental constraints, offering indispensable utility in engineering, orbital mechanics, and controlled inquiry. Its incompleteness begins when this record of measurement is inverted into a legislator prior to the observer — when declaring that "physics is the law and everything else is a recommendation" mistakes a formal model extracted at a specific cut for a closed script governing all unfolded reality.
 
-本部随笔深入双生子佯谬、量子测量、时间之箭与决定论边界，揭示了公式背后的具体观察者。物理定律并未规定未发生的现实；现实是在具体时空点上未被方程囊括的活态摩擦，等待具身行动去碰撞与检验。
+本部随笔从双生子佯谬、量子测量割点、时间之箭与块状时空假说切入，把隐藏在方程与采样帧背后的观察者重新显影出来。物理定律标示的是过往接触中已稳定的约束轨迹，而未发生的现实始终在具体的时空摩擦中敞开，等待具身行动去碰撞与重绘。
 
-The essays in this part examine the twin paradox, quantum measurement, the arrow of time, and the horizons of determinism, revealing the concrete observer behind the math. Physical laws do not dictate unfolding reality; reality is lived friction awaiting embodied encounter.
+The essays in this part step into the twin paradox, the quantum measurement cut, the arrow of time, and block-universe hypotheses to bring the hidden observer behind the equations and sample frames back into view. Physical laws chart the constraint trajectories stabilized in past contact, whereas unfolding reality remains open at the point of concrete friction, awaiting embodied action to test and redraw.
 
 ## 篇目 / Essays
 

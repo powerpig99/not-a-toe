@@ -2,13 +2,13 @@
 
 *终极答案不在别处的彼岸，超验体验唯在当下具体的实存受力中显现 / Ultimate answers lie not on distant shores; transcendence reveals itself in lived friction*
 
-人类心智对神圣与超越的渴求，促生了浩瀚的宗教传统与形而上学体系。然而，当超越之境被固化为远离肉身世界的彼岸乐土，心智便在对空洞符号的膜拜中失去了对当下的感受力。把终极意义寄托于来世或未来，实则是对生存重力的怯懦逃离。
+宗教传统、神学体系与灵修叙事用象征性的语言记录了人类心智面对有限性、孤独与未知时的深层体验，在提供精神慰藉与审视日常执念时有其功用。它们的不完备始于把心智自身的区分活动投射为外部的彼岸实体——无论是把“我们”的局部交集奉为全知全能的上帝，把潜无限的延展混同于肉身永生，还是把“开悟”冻结成一道可以一劳永逸跨过的门槛。
 
-The hunger for the sacred gave birth to vast religious and metaphysical edifices. Yet when transcendence is banished to an otherworldly haven detached from flesh, the mind worships empty symbols and numbs itself to the present. Outsourcing meaning to an afterlife is a retreat from the gravity of living.
+Religious traditions, theological systems, and contemplative narratives use symbolic language to record how human minds confront finitude, solitude, and the unknown, serving to comfort and to loosen everyday fixations. Their incompleteness begins when the mind's own differentiating activity is projected into an external, otherworldly entity — whether elevating the intersection of "we" into an omniscient God, conflating potential infinity with bodily immortality, or freezing "enlightenment" into a gate crossed once and for all.
 
-本部文章解构了上帝观念的降维投影、永生承诺的虚妄，以及将开悟包装为免死金牌的灵修狂热。超越从不在别处；唯有在此时此地的具体行动中全然投入，在与限制的搏击中，心智才能体会到深沉的庄严与澄明。
+本部文章追溯了神圣观念的生成结构、不可言说之物与言说产物的关系，以及为何没有脱离个体自渡的普遍普渡。意义不是事先藏在远方等待被发现的静态答案，而是在每一个当下直面具体约束、亲手起草下一步时同步生成的回响。
 
-The essays in this part examine theological projections, the mirage of physical immortality, and spiritual consumerism. Transcendence lies nowhere else; only by immersing oneself in the friction of the present, wrestling with mortal boundaries, does the mind touch serene depth.
+The essays in this part trace the generative structure of the sacred, the relation between the unspeakable and what can be spoken, and why no universal salvation can substitute for each mind's own crossing. Meaning is not a static answer hidden in the distance waiting to be found, but the resonance generated in the act of confronting concrete constraints and drafting the next step in the present.
 
 ## 篇目 / Essays
 

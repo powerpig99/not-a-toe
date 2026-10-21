@@ -2,13 +2,13 @@
 
 *任何理论皆为脚手架，唯有第一人称涉险方见活态因果 / Every theory is scaffolding; only first-person venture touches living causality*
 
-任何理论都只是行路时的脚手架。当心智试图为世界建立终极解释时，极易陷入将模型等同于实在的自欺。“非万物之理”不是另一套封闭的教条，而是一记持续敲响的警钟：提醒我们回到第一人称的原点，在现实的活态摩擦中收回因果主权。
+任何理论都只是行路时的脚手架。在特定的假设与适用范围之内，形式与概念框架能够帮我们压缩经验、定位问题并协调行动；然而当心智试图把一套有限的框架扩展为解释一切的终极体系时，它的前提所在之处便显露为不完备的边界。“非万物之理”不是另一套用来替代旧理论的封闭教条，而是回到第一人称的原点：在唯一不可化约的自我区分活动之中，把每一个概念切回它得以成立的前提。
 
-Every theory is merely scaffolding for the journey. When the mind attempts to construct a final explanation of the universe, it easily succumbs to mistaking the map for reality. Not a Theory of Everything is not another closed dogma, but a continuous warning: an invitation to return to the first-person origin and reclaim causal sovereignty within lived friction.
+Every theory is scaffolding for the road. Within its stated assumptions and scope, a formal or conceptual framework compresses experience, locates problems, and coordinates action; yet when the mind tries to stretch a finite framework into a final explanation of everything, the place where its premise sits marks the boundary where its incompleteness begins. Not a Theory of Everything is not another closed doctrine built to replace earlier ones, but a return to the first-person origin: tracing every concept back to the premise it rests on from the single irreducible activity of self-distinguishing.
 
-这一部收录的随笔，记录了这套认识论方法的形成与演化。从最初对各种体系性闭合的解构，到逐渐明晰以自身为因的行动准则，这些篇目展现了心智如何在不确定性中建立立足点，既不向虚无妥协，亦不求助于虚妄的救赎。
+这一部收录的随笔，记录了这套溯源方法的形成与展开。从辨析模型与实在的错位、框内延伸与维度跃迁的差异，到观察外化器物如何被遗忘为脚手架，这些篇目展示了心智如何在开放的现实摩擦中校准自身的坐标——把理论留作可替换的参考，而将抉择与验证留在当下的移动边缘。
 
-The essays collected in this part document the emergence and development of this epistemic method. From initial dissections of systemic closure to the clear articulation of action taking oneself as cause, these pieces show how the mind establishes ground amid uncertainty, yielding neither to nihilism nor to false saviors.
+The essays collected in this part trace how this method took shape and unfolded. From distinguishing models from reality and within-frame extension from dimensional shift, to observing how externalized artifacts are forgotten as scaffolding, these pieces show how a mind calibrates its coordinates in open friction — keeping theories as replaceable references while holding choice and verification at the moving edge.
 
 ## 篇目 / Essays
 

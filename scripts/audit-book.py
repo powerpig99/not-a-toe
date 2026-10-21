@@ -26,6 +26,18 @@ BUILD = ROOT / 'build.mjs'
 
 BANNED = ['纯粹', '绝对', '完全', '彻底', '绝不', '通常', '往往', '或许', '某种意义上',
           '降维重构', '本质', '根本', '自始至终', '缰绳', '物理现实', '平庸', '物理意志']
+# Documented premise-naming exceptions in content/book/index-of-premises.md where a banned-list
+# word directly names the target stance/claim under dissection (Logical Coherence over Rules).
+DOCUMENTED_INDEX_ADVISORIES = {
+    ('卡尔·波普尔 / Karl Popper', '完全'): (
+        'names the target premise under dissection ("是否拥抱理性本身是一道不能完全由理性论证裁决的抉择" / '
+        '"the choice to embrace reason is itself a decision not completely decidable by rational argument")'
+    ),
+    ('科学可被全盘公式化 / Science as Fully Formalizable', '完全'): (
+        'names the target premise under dissection ("科学在其前提之内可以完全公式化" / '
+        '"Science can be fully formalized within its premises")'
+    ),
+}
 TITLE_DELIMS = ['：', ':', ' - ', ' — ', '——']
 LABELS = {
     '科学 / Scientific', '数学 / Mathematical', '哲学 / Philosophical', '宗教 / Religious',
@@ -240,7 +252,15 @@ def audit_index(slugs, errors, warnings):
             scan = strip_links(line)
             for w in BANNED:
                 if w in scan:
-                    warnings.append(f"index: {entry['title']} banned-list word \"{w}\" (allowed only where it names the object)")
+                    reason = DOCUMENTED_INDEX_ADVISORIES.get((entry['title'], w))
+                    if reason:
+                        warnings.append(
+                            f"index: {entry['title']} word \"{w}\" [DOCUMENTED EXCEPTION: {reason}]"
+                        )
+                    else:
+                        warnings.append(
+                            f"index: {entry['title']} banned-list word \"{w}\" (allowed only where it names the object)"
+                        )
             if re.search(r'\$(?!\d)', scan):
                 errors.append(f"index: {entry['title']} raw \"$\"")
     finish()

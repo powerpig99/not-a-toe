@@ -2,13 +2,13 @@
 
 *体制并非独立实体，威权运作依托于受支配者让渡因果的镜像握手 / Institutions are not entities; authority relies on the subject's mirror handshake*
 
-国家、机构与意识形态常常以超越个体的庞大巨灵形象显现，要求人们臣服于其所谓的宏大意志。然而体制自身既没有痛苦亦没有知觉；它的全部力量，皆来自于无数微观个体主动让渡抉择主权、并在心理上完成服从的镜像握手。
+国家、机构与法律规章作为跨个体的协调约定，在降低交易摩擦、稳定预期与划定公共契约边界时具有现实效用。它们的不完备始于把这套协调约定实体化为拥有独立意志与知觉的巨灵——任何机构自身既不思考也不承受痛感，它的全部运转都依托于具体个体在当下交出判断、共同维持那个信念的镜像握手。
 
-States, institutions, and ideologies appear as colossal leviathans towering above individuals, demanding obedience to collective wills. Yet institutions feel neither pain nor awareness; their power derives solely from microscopic agents surrendering judgment in reciprocal mirror handshakes.
+States, institutions, and regulatory codes serve as coordinating conventions across individuals, reducing friction, stabilizing expectations, and marking public contractual boundaries. Their incompleteness begins when these coordinating conventions are reified into leviathans endowed with independent will and sentience — no institution thinks or feels pain on its own, and its entire operation rests on concrete individuals handing over judgment and sustaining the shared belief in a reciprocal mirror handshake.
 
-本部随笔深入探讨了乌托邦构想的内在残暴、战争与革命的机制，以及官僚体系如何借程序规训压制活态担当。看清体制的衍生属性，不是为了滑向激进反抗，而是在日常实践中撤回无谓的认同，重新筑牢个体的不可侵犯之界。
+本部随笔考察了强制力的向量叠加、监管迷信与责任扩散、乌托邦构想的封闭前提，以及集体名称如何把鲜活的个体经历收编为意识形态证据。看清集体结构的衍生性质，心智便无需在盲目顺从与符号对抗之间二选一，而是在具体的管辖边界内守住自己的判断与担当。
 
-The essays here examine the cruelty of utopian visions, the machinery of war, and bureaucratic neutralization of responsibility. Discerning the derived nature of institutions does not prompt futile rebellion; it withdraws uncritical assent to fortify the sovereign boundary.
+The essays in this part examine the vector sum of coercion, the belief in oversight and responsibility diffusion, the closed premises of utopian designs, and how collective labels file living individuals as ideological evidence. Discerning the derived nature of institutional structures frees the mind from choosing between blind compliance and symbolic revolt, holding its own judgment and accountability within concrete boundaries.
 
 ## 篇目 / Essays
 

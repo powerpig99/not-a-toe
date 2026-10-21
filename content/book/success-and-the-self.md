@@ -2,13 +2,13 @@
 
 *事后归因的胜利叙事抹杀了试错摩擦，唯有自身为因方能走出均值吸引 / Retrospective victory narratives erase friction; only self-as-cause escapes mean attractors*
 
-充斥于公共视野的商业神话与励志教程，惯于将极其复杂的偶然结果提炼为几条干净利落的致胜法则。这种事后诸葛亮式的线性归因，抹去了前行路上无数次濒临崩溃的试错与微观运气，给效仿者制造出能够按图索骥的幻觉。
+传记复盘、商业案例与自我提升总结在梳理历史经验、提供局部启发时有其参考价值。它们的不完备始于“行路之后的地图”所特有的事后倒置：叙事者站在已知的终点回望，将充满偶然与试错的曲折过程裁剪成一条干净的线性公式，仿佛只要照搬那份清单就能复现同样的结果，甚至把已积累的财富与名望当成了力量本身的来源。
 
-The market for inspirational literature boils tangled contingencies into neat recipes for triumph. Such retrospective linear attributions erase countless trial-and-error frictions and sheer fortune, giving emulators the illusion of following a proven turn-by-turn map.
+Biographical retrospectives, business case studies, and self-improvement summaries offer useful heuristics when reviewing past experience. Their incompleteness begins with the retrospective inversion of "the map drawn after the territory": looking back from a known outcome, the narrator trims a path full of contingency and trial-and-error into a clean linear recipe, as if copying the checklist could reproduce the result, or as if accumulated wealth and reputation were the source of power itself.
 
-本部文章剖析了受害者自怜心态、捷径幻觉与前台员工寓言中的认知倒错，指明了自我重塑的真正路径。停止向外部寻找万灵药，承认单次微调的试错代价，以自身为因建立行动闭环，才是打破均值吸引子沉降的唯一方式。
+本部文章探讨了不可读的长期复利、现实扭曲力场与封闭地图的差异、过去成功的陷阱，以及把失败当作信息而非身份判决的认知视角。自我的重塑不靠向外索求致胜秘籍，也不靠固守昨日的存量，而在于每次反馈到来时直接认领自身那份自由变量，在持续的自我迭代中走出均值吸引子。
 
-These essays examine victimhood paralysis, shortcut delusions, and cognitive inversions in corporate parables, pointing toward authentic self-reconstruction. Halting the search for panaceas and taking oneself as cause is the sole route out of the mean attractor's gravitational pull.
+The essays in this part explore illegible long-term compounding, the difference between a reality distortion field and a closed map, the trap of past success, and reading failure as information rather than an identity verdict. Self-reconstruction relies neither on hunting for external formulas nor on guarding yesterday's stock, but on claiming one's own free variable at each feedback loop and stepping out of mean attractors through continuous self-iteration.
 
 ## 篇目 / Essays
 
