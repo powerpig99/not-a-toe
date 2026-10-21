@@ -20,7 +20,7 @@ The essays in this part dissect Geoffrey Hinton's cognitive leaps, the limits of
 - [流动之物无法被基准衡量 / You Can't Benchmark the Fluid](../../posts/you-cant-benchmark-the-fluid/)
 - [AI 作为增强 / AI as Augmentation](../../posts/ai-as-augmentation/)
 - [The Projection Called Claude: An Ontological Analysis of Anthropic's Constitution](../../posts/claudes-constitution-analysis/)
-- [Context All the Way Down](../../posts/context-engineering-essay/)
+- [层层皆是语境 / Context All the Way Down](../../posts/context-engineering-essay/)
 - [The Name-Negation Tendency](../../posts/name-negation-tendency/)
 - [The Collapsed Debate](../../posts/the-collapsed-debate/)
 - [蒸馏、压缩与能动性 / Distillation Chooses What to Lose](../../posts/distillation-compression-agency/)

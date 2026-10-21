@@ -16,7 +16,7 @@ The essays here examine the cruelty of utopian visions, the machinery of war, an
 - [Mises on the State: Ontological Clarity Analysis](../../posts/mises-state-analysis/)
 - [Surrender as Misaligned Sovereignty](../../posts/sovereignty-essay/)
 - [Reality Doesn't Invoice by Committee](../../posts/reality-doesnt-invoice-by-committee/)
-- [Conscience, Delegation, and the Jurisdiction Error](../../posts/conscience-power-delegation/)
+- [良知、委托与管辖权错位 / Conscience, Delegation, and the Jurisdiction Error](../../posts/conscience-power-delegation/)
 - [安装战争的那个问题 / The Question That Installs the War](../../posts/the-question-that-installs-the-war/)
 - [主权、信念与规制结构的生成 / Sovereignty, Belief, and the Generation of Regulatory Structures](../../posts/sovereignty-belief-and-regulatory-structures/)
 - [起作用的是信念 / What Works Is the Belief](../../posts/what-works-is-the-belief/)

@@ -60,7 +60,7 @@ Karpathy popularizes the view that CLIs represent the native environment for age
 
 Bustamante frames operational success as adopting other perspectives; useful in tactical negotiation, it confuses simulated mental models with direct experiential reality.
 
-→ [Perception and Perspective: The Collapse That Isn't There](../../posts/perception-perspective-refined/)
+→ [感知与视角并不存在的坍缩 / Perception and Perspective Without Collapse](../../posts/perception-perspective-refined/)
 
 ### 安格斯·麦迪森 / Angus Maddison
 `经济 / Economic`
@@ -591,7 +591,7 @@ Taleb formalizes convex payoffs under uncertainty; invaluable for risk engineeri
 
 Naval blends Advaita non-duality with a modern account of leverage and stresses the empty calendar and minimal commitments, which is of use for personal peace and for keeping optionality; it reaches its boundary in that treating separation as a disease denies the working need for distinction, and staying permanently on the empty face becomes an unexamined prediction.
 
-→ [Separation Isn't the Disease](../../posts/naval-separation-analysis/) · [不预测是没有觉察的预测 / Not Predicting Is Predicting Without Awareness](../../posts/not-predicting-is-predicting-without-awareness/)
+→ [分离不是病 / Separation Isn't the Disease](../../posts/naval-separation-analysis/) · [不预测是没有觉察的预测 / Not Predicting Is Predicting Without Awareness](../../posts/not-predicting-is-predicting-without-awareness/)
 
 ### 尼古拉·尚福尔 / Nicolas Chamfort
 `哲学 / Philosophical`
@@ -1880,7 +1880,7 @@ Treating infinity as a finished collection is a contextual premise enabling asym
 
 Confusing actual and potential infinity treats infinity as a completed object; potential infinity describes an unfinishable process, while real infinity cannot be stored.
 
-→ [Immortality and the Two-Infinity Confusion](../../posts/immortality-final/) · [无穷总体的海市蜃楼 / The Mirage of the Infinite Totality](../../posts/the-mirage-of-the-infinite-totality/)
+→ [永生与两种无限的混淆 / Immortality and the Two-Infinity Confusion](../../posts/immortality-final/) · [无穷总体的海市蜃楼 / The Mirage of the Infinite Totality](../../posts/the-mirage-of-the-infinite-totality/)
 
 ### 精算滞后均值定价谬误 / Actuarial Lagged Average Pricing
 `经济 / Economic`
@@ -2411,7 +2411,7 @@ Technological hubris views constraints as defects to be erased; structural bound
 
 Context engineering presumes token window stuffing replicates shared understanding; highly effective for retrieval, it confuses informational proximity with semantic grounding.
 
-→ [Context All the Way Down](../../posts/context-engineering-essay/)
+→ [层层皆是语境 / Context All the Way Down](../../posts/context-engineering-essay/)
 
 ### 相关与因果 / Correlation and Causation
 `科学 / Scientific`
@@ -3599,7 +3599,7 @@ Psychometrics and AI seek a permanent, universal formula for intelligence; every
 
 Treating distinction as a spiritual flaw mistakes functional boundaries for illusion; without distinction, neither perception, agency, nor relation can manifest.
 
-→ [Separation Isn't the Disease](../../posts/naval-separation-analysis/)
+→ [分离不是病 / Separation Isn't the Disease](../../posts/naval-separation-analysis/)
 
 ### 非万物之理的立足点 / Not-a-ToE Philosophical Stance
 `哲学 / Philosophical`
@@ -3824,7 +3824,7 @@ Reading measurement limits, cosmological and event horizons, and singularities a
 
 Physical immortality assumes living consciousness can be immortalized by endlessly extending temporal duration; life remains an open horizon of potential renewal.
 
-→ [Immortality and the Two-Infinity Confusion](../../posts/immortality-final/)
+→ [永生与两种无限的混淆 / Immortality and the Two-Infinity Confusion](../../posts/immortality-final/)
 
 ### 物理与信息二元论 / Physical–Informational Dualism
 `哲学 / Philosophical`
@@ -4310,7 +4310,7 @@ Presumes scalable computation will solve existential human suffering and death; 
 
 Meta-prompting assumes generating commentary on prior tokens constitutes conscious introspection; it produces second-order statistical tokens without lived subjectivity.
 
-→ [The Loop That Can't See Itself](../../posts/the-loop-that-cant-see-itself/)
+→ [看不见自身的回路 / The Loop That Can't See Itself](../../posts/the-loop-that-cant-see-itself/)
 
 ### 社会正义 / Social Justice
 `意识形态 / Ideological`
@@ -4976,7 +4976,7 @@ Love directed at a frozen image presumes the other will match it; idealization a
 
 Authoritarian structures assume individuals can transfer moral responsibility to officials; compliance remains a continuous personal choice, retaining ethical authorship.
 
-→ [Conscience, Delegation, and the Jurisdiction Error](../../posts/conscience-power-delegation/)
+→ [良知、委托与管辖权错位 / Conscience, Delegation, and the Jurisdiction Error](../../posts/conscience-power-delegation/)
 
 ### 自负盈亏的真实因果反馈 / Unforgiving Causal PnL Feedback
 `经济 / Economic`

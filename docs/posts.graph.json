@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T08:56:15.269Z",
+    "generated_at": "2026-10-21T08:57:31.037Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -47,11 +47,11 @@
       "content/posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback.md": "e1c59f1cd3e2",
       "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "322bdedfbdab",
       "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "591b48069747",
-      "content/posts/conscience-power-delegation.md": "d11e1672ae5d",
+      "content/posts/conscience-power-delegation.md": "4dfadce8ba14",
       "content/posts/consciousness-ascription-and-the-quantum-cut.md": "a85a62bb5f42",
       "content/posts/consciousness-never-appears-as-data-among-data.md": "35adbc5ab9f0",
       "content/posts/constraints_are_ground.md": "5c9b6d9c6756",
-      "content/posts/context-engineering-essay.md": "55bc0307c3d5",
+      "content/posts/context-engineering-essay.md": "cbc94ceb8dc4",
       "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "a358b53b91b0",
       "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "b3e99a733b19",
       "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "1629917a17b9",
@@ -105,7 +105,7 @@
       "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "9c200c5c4e2a",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "2740c5400321",
-      "content/posts/immortality-final.md": "df5d92452896",
+      "content/posts/immortality-final.md": "2bbeb6b8ed55",
       "content/posts/individual-choices-as-the-only-causal-levers.md": "35b065ab09af",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "425497acb31b",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
@@ -127,7 +127,7 @@
       "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "d9edaff34fdb",
       "content/posts/munger-dumb-competition-refined.md": "e042c155c0bd",
       "content/posts/name-negation-tendency.md": "9261da00dc72",
-      "content/posts/naval-separation-analysis.md": "dd1467c613bb",
+      "content/posts/naval-separation-analysis.md": "19901cd6d9bb",
       "content/posts/no-genius-can-solve-the-knowledge-problem.md": "b3abbe0744cc",
       "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "aee9e6979b9f",
       "content/posts/no-outside-scorekeeper.md": "6d9499826830",
@@ -150,7 +150,7 @@
       "content/posts/overfitting-as-the-follower-mode.md": "0456d9f85a5c",
       "content/posts/ownership-and-self-worthiness.md": "dfb40cb50651",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "ccfe0b71ff75",
-      "content/posts/perception-perspective-refined.md": "e05973d21de9",
+      "content/posts/perception-perspective-refined.md": "d9484330c5b9",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "3e61069b5eda",
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "4c53ac6aa52d",
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
@@ -289,7 +289,7 @@
       "content/posts/the-local-trap-of-technological-change.md": "90573245bd77",
       "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "9c43b9beb0a3",
       "content/posts/the-loop-accelerates.md": "774efc991390",
-      "content/posts/the-loop-that-cant-see-itself.md": "9b03258725d1",
+      "content/posts/the-loop-that-cant-see-itself.md": "eea990318043",
       "content/posts/the-maintenance-paradox.md": "ce4e99e877d2",
       "content/posts/the-map-after-the-territory.md": "1a231ded3754",
       "content/posts/the-mark-and-the-act.md": "c564f60f2ed7",
@@ -406,30 +406,30 @@
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "c0c80009ca9d",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "ac686192b927",
       "content/book/causality.md": "58084f9648d2",
-      "content/book/consciousness.md": "d8595aa6097d",
+      "content/book/consciousness.md": "70239de45f33",
       "content/book/economics.md": "fd4de04be804",
-      "content/book/index-of-premises.md": "e659a91bf992",
-      "content/book/intelligence.md": "f910d80b65a2",
+      "content/book/index-of-premises.md": "d73da058c6ba",
+      "content/book/intelligence.md": "c51166af349a",
       "content/book/knowledge-and-learning.md": "fd2f184ec9fe",
       "content/book/life-and-statistics.md": "903bd0f56d99",
       "content/book/mathematics.md": "b3a02f0cdea3",
-      "content/book/meaning-and-transcendence.md": "e4eff0a16926",
+      "content/book/meaning-and-transcendence.md": "a851650b120c",
       "content/book/method.md": "6246e4ef1096",
       "content/book/morality.md": "fa8a9103175f",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "d0065384016a",
-      "content/book/state-and-collective.md": "7d0cb00e0e55",
+      "content/book/state-and-collective.md": "d9f128760b3e",
       "content/book/success-and-the-self.md": "8795aa2cb585",
       "content/book/tools-and-progress.md": "bc3d12468c14"
     },
     "stats": {
       "posts": 397,
-      "edges": 10467,
-      "unique_directed": 5140,
+      "edges": 10484,
+      "unique_directed": 5146,
       "missing_targets": 0,
-      "one_way": 658,
+      "one_way": 664,
       "isolated": 35,
-      "posts_with_outbound": 361,
+      "posts_with_outbound": 362,
       "book_pages": 16,
       "book_edges": 1104,
       "posts_reached_by_book": 397
@@ -438,7 +438,7 @@
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 308
+      "in_degree": 314
     },
     {
       "slug": "beyond-the-projection",
@@ -1715,11 +1715,12 @@
       "kind": "post",
       "slug": "conscience-power-delegation",
       "path": "content/posts/conscience-power-delegation.md",
-      "title": "Conscience, Delegation, and the Jurisdiction Error",
-      "hash": "d11e1672ae5d",
+      "title": "良知、委托与管辖权错位 / Conscience, Delegation, and the Jurisdiction Error",
+      "hash": "4dfadce8ba14",
       "in_degree": 1,
-      "out_degree": 1,
+      "out_degree": 2,
       "links_out": [
+        "your-codebase-is-memory",
         "what-always-listens-cannot-originate"
       ]
     },
@@ -1795,11 +1796,12 @@
       "kind": "post",
       "slug": "context-engineering-essay",
       "path": "content/posts/context-engineering-essay.md",
-      "title": "Context All the Way Down",
-      "hash": "55bc0307c3d5",
+      "title": "层层皆是语境 / Context All the Way Down",
+      "hash": "cbc94ceb8dc4",
       "in_degree": 1,
-      "out_degree": 1,
+      "out_degree": 2,
       "links_out": [
+        "your-codebase-is-memory",
         "the-scaling-loop"
       ]
     },
@@ -2997,11 +2999,12 @@
       "kind": "post",
       "slug": "immortality-final",
       "path": "content/posts/immortality-final.md",
-      "title": "Immortality and the Two-Infinity Confusion",
-      "hash": "df5d92452896",
+      "title": "永生与两种无限的混淆 / Immortality and the Two-Infinity Confusion",
+      "hash": "2bbeb6b8ed55",
       "in_degree": 1,
-      "out_degree": 1,
+      "out_degree": 2,
       "links_out": [
+        "your-codebase-is-memory",
         "not-a-theory-of-everything"
       ]
     },
@@ -3659,12 +3662,13 @@
       "kind": "post",
       "slug": "naval-separation-analysis",
       "path": "content/posts/naval-separation-analysis.md",
-      "title": "Separation Isn't the Disease",
-      "hash": "dd1467c613bb",
+      "title": "分离不是病 / Separation Isn't the Disease",
+      "hash": "19901cd6d9bb",
       "in_degree": 1,
-      "out_degree": 1,
+      "out_degree": 2,
       "links_out": [
-        "not-a-theory-of-everything"
+        "not-a-theory-of-everything",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -4332,11 +4336,12 @@
       "kind": "post",
       "slug": "perception-perspective-refined",
       "path": "content/posts/perception-perspective-refined.md",
-      "title": "Perception and Perspective: The Collapse That Isn't There",
-      "hash": "e05973d21de9",
+      "title": "感知与视角并不存在的坍缩 / Perception and Perspective Without Collapse",
+      "hash": "d9484330c5b9",
       "in_degree": 1,
-      "out_degree": 1,
+      "out_degree": 2,
       "links_out": [
+        "your-codebase-is-memory",
         "not-a-theory-of-everything"
       ]
     },
@@ -7666,11 +7671,13 @@
       "kind": "post",
       "slug": "the-loop-that-cant-see-itself",
       "path": "content/posts/the-loop-that-cant-see-itself.md",
-      "title": "The Loop That Can't See Itself",
-      "hash": "9b03258725d1",
+      "title": "看不见自身的回路 / The Loop That Can't See Itself",
+      "hash": "eea990318043",
       "in_degree": 1,
-      "out_degree": 0,
-      "links_out": []
+      "out_degree": 1,
+      "links_out": [
+        "your-codebase-is-memory"
+      ]
     },
     {
       "id": "post:the-maintenance-paradox",
@@ -10340,7 +10347,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 308,
+      "in_degree": 314,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -17938,6 +17945,24 @@
     },
     {
       "from": "conscience-power-delegation",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "conscience-power-delegation",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "conscience-power-delegation",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "总在倾听者无法发起"
+    },
+    {
+      "from": "conscience-power-delegation",
       "to": "what-always-listens-cannot-originate",
       "rel": "points_to",
       "label": "What Always Listens Cannot Originate"
@@ -18328,9 +18353,27 @@
     },
     {
       "from": "context-engineering-essay",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "context-engineering-essay",
       "to": "the-scaling-loop",
       "rel": "points_to",
-      "label": "The scaling loop"
+      "label": "规模化回路"
+    },
+    {
+      "from": "context-engineering-essay",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "context-engineering-essay",
+      "to": "the-scaling-loop",
+      "rel": "points_to",
+      "label": "The Scaling Loop"
     },
     {
       "from": "coordinate-systems-mind-and-degrees-of-freedom",
@@ -25186,6 +25229,24 @@
     },
     {
       "from": "immortality-final",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "immortality-final",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "immortality-final",
+      "to": "not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "非万物之理"
+    },
+    {
+      "from": "immortality-final",
       "to": "not-a-theory-of-everything",
       "rel": "points_to",
       "label": "Not a Theory of Everything"
@@ -30024,7 +30085,25 @@
       "from": "naval-separation-analysis",
       "to": "not-a-theory-of-everything",
       "rel": "points_to",
+      "label": "非万物之理"
+    },
+    {
+      "from": "naval-separation-analysis",
+      "to": "not-a-theory-of-everything",
+      "rel": "points_to",
       "label": "Not a Theory of Everything"
+    },
+    {
+      "from": "naval-separation-analysis",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "naval-separation-analysis",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "no-genius-can-solve-the-knowledge-problem",
@@ -34855,6 +34934,24 @@
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
       "label": "Symptom and Cause in the Narratives of Progress"
+    },
+    {
+      "from": "perception-perspective-refined",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "perception-perspective-refined",
+      "to": "not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "非万物之理"
+    },
+    {
+      "from": "perception-perspective-refined",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "perception-perspective-refined",
@@ -54999,6 +55096,18 @@
       "label": "The Substrate of Constraint and the Self-Denial of Freedom"
     },
     {
+      "from": "the-loop-that-cant-see-itself",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-loop-that-cant-see-itself",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
       "from": "the-map-after-the-territory",
       "to": "cheng-gong-xue",
       "rel": "points_to",
@@ -73328,7 +73437,7 @@
         "slug": "consciousness",
         "path": "content/book/consciousness.md",
         "title": "意识与第一人称先验 / Consciousness and the First-Person Prior",
-        "hash": "d8595aa6097d",
+        "hash": "70239de45f33",
         "out_degree": 39
       },
       {
@@ -73346,7 +73455,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "e659a91bf992",
+        "hash": "d73da058c6ba",
         "out_degree": 397
       },
       {
@@ -73355,7 +73464,7 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "f910d80b65a2",
+        "hash": "c51166af349a",
         "out_degree": 48
       },
       {
@@ -73391,7 +73500,7 @@
         "slug": "meaning-and-transcendence",
         "path": "content/book/meaning-and-transcendence.md",
         "title": "意义追寻与超越之境 / The Search for Meaning and Transcendence",
-        "hash": "e4eff0a16926",
+        "hash": "a851650b120c",
         "out_degree": 12
       },
       {
@@ -73436,7 +73545,7 @@
         "slug": "state-and-collective",
         "path": "content/book/state-and-collective.md",
         "title": "国家集体与权力的镜像 / The State, Collectives, and the Mirror of Power",
-        "hash": "7d0cb00e0e55",
+        "hash": "d9f128760b3e",
         "out_degree": 30
       },
       {
@@ -73667,7 +73776,7 @@
         "from": "book:consciousness",
         "to": "perception-perspective-refined",
         "rel": "collects",
-        "label": "Perception and Perspective: The Collapse That Isn't There"
+        "label": "感知与视角并不存在的坍缩 / Perception and Perspective Without Collapse"
       },
       {
         "from": "book:consciousness",
@@ -73697,7 +73806,7 @@
         "from": "book:consciousness",
         "to": "the-loop-that-cant-see-itself",
         "rel": "collects",
-        "label": "The Loop That Can't See Itself"
+        "label": "看不见自身的回路 / The Loop That Can't See Itself"
       },
       {
         "from": "book:consciousness",
@@ -74093,7 +74202,7 @@
         "from": "book:index-of-premises",
         "to": "perception-perspective-refined",
         "rel": "collects",
-        "label": "Perception and Perspective: The Collapse That Isn't There"
+        "label": "感知与视角并不存在的坍缩 / Perception and Perspective Without Collapse"
       },
       {
         "from": "book:index-of-premises",
@@ -74537,7 +74646,7 @@
         "from": "book:index-of-premises",
         "to": "naval-separation-analysis",
         "rel": "collects",
-        "label": "Separation Isn't the Disease"
+        "label": "分离不是病 / Separation Isn't the Disease"
       },
       {
         "from": "book:index-of-premises",
@@ -75725,7 +75834,7 @@
         "from": "book:index-of-premises",
         "to": "immortality-final",
         "rel": "collects",
-        "label": "Immortality and the Two-Infinity Confusion"
+        "label": "永生与两种无限的混淆 / Immortality and the Two-Infinity Confusion"
       },
       {
         "from": "book:index-of-premises",
@@ -76127,7 +76236,7 @@
         "from": "book:index-of-premises",
         "to": "context-engineering-essay",
         "rel": "collects",
-        "label": "Context All the Way Down"
+        "label": "层层皆是语境 / Context All the Way Down"
       },
       {
         "from": "book:index-of-premises",
@@ -77003,7 +77112,7 @@
         "from": "book:index-of-premises",
         "to": "naval-separation-analysis",
         "rel": "collects",
-        "label": "Separation Isn't the Disease"
+        "label": "分离不是病 / Separation Isn't the Disease"
       },
       {
         "from": "book:index-of-premises",
@@ -77171,7 +77280,7 @@
         "from": "book:index-of-premises",
         "to": "immortality-final",
         "rel": "collects",
-        "label": "Immortality and the Two-Infinity Confusion"
+        "label": "永生与两种无限的混淆 / Immortality and the Two-Infinity Confusion"
       },
       {
         "from": "book:index-of-premises",
@@ -77537,7 +77646,7 @@
         "from": "book:index-of-premises",
         "to": "the-loop-that-cant-see-itself",
         "rel": "collects",
-        "label": "The Loop That Can't See Itself"
+        "label": "看不见自身的回路 / The Loop That Can't See Itself"
       },
       {
         "from": "book:index-of-premises",
@@ -78047,7 +78156,7 @@
         "from": "book:index-of-premises",
         "to": "conscience-power-delegation",
         "rel": "collects",
-        "label": "Conscience, Delegation, and the Jurisdiction Error"
+        "label": "良知、委托与管辖权错位 / Conscience, Delegation, and the Jurisdiction Error"
       },
       {
         "from": "book:index-of-premises",
@@ -78329,7 +78438,7 @@
         "from": "book:intelligence",
         "to": "context-engineering-essay",
         "rel": "collects",
-        "label": "Context All the Way Down"
+        "label": "层层皆是语境 / Context All the Way Down"
       },
       {
         "from": "book:intelligence",
@@ -78959,7 +79068,7 @@
         "from": "book:meaning-and-transcendence",
         "to": "immortality-final",
         "rel": "collects",
-        "label": "Immortality and the Two-Infinity Confusion"
+        "label": "永生与两种无限的混淆 / Immortality and the Two-Infinity Confusion"
       },
       {
         "from": "book:meaning-and-transcendence",
@@ -78971,7 +79080,7 @@
         "from": "book:meaning-and-transcendence",
         "to": "naval-separation-analysis",
         "rel": "collects",
-        "label": "Separation Isn't the Disease"
+        "label": "分离不是病 / Separation Isn't the Disease"
       },
       {
         "from": "book:meaning-and-transcendence",
@@ -79529,7 +79638,7 @@
         "from": "book:state-and-collective",
         "to": "conscience-power-delegation",
         "rel": "collects",
-        "label": "Conscience, Delegation, and the Jurisdiction Error"
+        "label": "良知、委托与管辖权错位 / Conscience, Delegation, and the Jurisdiction Error"
       },
       {
         "from": "book:state-and-collective",

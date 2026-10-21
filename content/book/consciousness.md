@@ -13,12 +13,12 @@ The essays in this part confront the hard problem of consciousness, the evolutio
 ## 篇目 / Essays
 
 - [Tools as Active Extensions of Cognition](../../posts/extended-cognition-refined/)
-- [Perception and Perspective: The Collapse That Isn't There](../../posts/perception-perspective-refined/)
+- [感知与视角并不存在的坍缩 / Perception and Perspective Without Collapse](../../posts/perception-perspective-refined/)
 - [留不住的 / What Cannot Be Kept](../../posts/what-cannot-be-kept/)
 - [The Maintenance Paradox](../../posts/the-maintenance-paradox/)
 - [Sensing Before Interpretation](../../posts/sensing-before-interpretation/)
 - [The Defining Seat](../../posts/the-defining-seat/)
-- [The Loop That Can't See Itself](../../posts/the-loop-that-cant-see-itself/)
+- [看不见自身的回路 / The Loop That Can't See Itself](../../posts/the-loop-that-cant-see-itself/)
 - [NPC 印象是结构性的 / The NPC Impression Is Structural, Not a Ranking of Minds](../../posts/the-npc-impression-is-structural/)
 - [现实是心智持续的实现 / Reality Is the Mind's Ongoing Realization](../../posts/reality-is-the-minds-ongoing-realization/)
 - [心智最坚固的信念 / The Strongest Belief of the Mind](../../posts/the-strongest-belief-of-the-mind/)
