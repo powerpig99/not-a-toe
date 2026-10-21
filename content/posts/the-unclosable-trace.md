@@ -44,31 +44,41 @@ So completeness never lands. [No System Can Be Kept Closed](../no-system-can-be-
 
 The standard university course in the philosophy of mind shows this most readily. It arranges five canonical positions as competing historical doctrines: Descartes' substance dualism, Ryle's exorcism of "the ghost in the machine", Fodor's language of thought and functionalism, Churchland's eliminative materialism, and Chalmers' hard problem and philosophical zombies. Handed to students as settled academic cargo, the question becomes which "theory" is right. Put back on the one coin of causality and the first person, each position is not an eternal doctrine but a specific historical cut, each with a genuine encounter, a forgotten premise, and a place where it reaches its boundary.
 
-### 笛卡尔：把操作上的滞后冻结成两种实体 / Descartes: Freezing an Operational Lag into Two Substances
+### 笛卡尔：把操作上的滞后冻结成两种实体
+
+### Descartes: Freezing an Operational Lag into Two Substances
 
 [笛卡尔的“我思”](../the-cartesian-overstep-and-the-frenzy-of-creation/)是一场真切的第一人称相遇。一切感官表象都可以被模拟、怀疑或扭曲，怀疑这个行为本身却无法在不执行它的情况下被怀疑；他摸到的，是正在看的那个观察者的在场。被遗忘的前提在下一步：看的行为与被看的对象之间操作上的差别，被实体化为两种宇宙实体，思维之物与广延之物。在任何递归的过程里，解释总比生成它的行为至少晚一步，观察者总在它生成的表征前面一步。二元论就是把这个有方向的操作滞后，冻结成两种静态的实体；两者之间于是出现一道鸿沟，要用松果腺去架桥。这个二分留下的用处，是让广延之物可以被单独拿出来测量，近代科学由此起步。
 
 [Descartes' cogito](../the-cartesian-overstep-and-the-frenzy-of-creation/) was a genuine first-person encounter. Every sensory appearance could be simulated, doubted or distorted, but the act of doubting could not be doubted without performing it; what he touched was the presence of the observer doing the looking. The forgotten premise comes in the next step: the operational difference between the act of looking and the object seen is made into two cosmic substances, thinking thing and extended thing. In any recursive process interpretation lags at least one step behind the act generating it, and the observer is always one step ahead of the representation it generates. Dualism freezes this directional, operational lag into two static substances, and a chasm then opens between them that the pineal gland is asked to bridge. What the split left as a use is that extended things could be taken out on their own and measured, which is where modern science set off.
 
-### 赖尔：为驱逐幽灵而抹去内部 / Ryle: Erasing the Interior to Exorcise the Ghost
+### 赖尔：为驱逐幽灵而抹去内部
+
+### Ryle: Erasing the Interior to Exorcise the Ghost
 
 赖尔指出了一个范畴错误：把“心”当成藏在物理钟表里的一个额外的幽灵齿轮，就像一位访客参观了各个学院、图书馆和实验室之后问：“可大学在哪里？”心体现在一个有机体怎样在世界里行动。为了驱逐笛卡尔的幽灵，他把第一人称的生成整个收进可从外部观察的行为倾向里；隐含的前提是，只有在外部界面上登记得到的东西才算数。[折叠的连续谱](../the-continuum-of-the-fold/)看到了这一层：另一个心智只以它在这个场里留下的痕迹到来，声音、姿势、可以预料的反应，它的内部是从第一人称出发类推出来的。行为主义读的是这些到来的痕迹，这一点它读得很准；它的边界在读者自身，做这番阅读的那个位置，正是它的描述里找不到的东西。
 
 Ryle exposed a category mistake: treating "the mind" as an extra ghostly cog hidden inside the physical clockwork, like a visitor who tours the colleges, libraries and laboratories and then asks, "But where is the University?" Mind shows in how an organism acts in the world. To exorcise the Cartesian ghost, he folded the whole first-person generation into dispositions to behave that can be observed from outside; the hidden premise is that only what registers at an outer interface counts. [The Continuum of the Fold](../the-continuum-of-the-fold/) sees this layer: another mind arrives only as the traces it leaves in this field, voices, gestures, predictable responses, and its interior is inferred by analogy from the first person. Behaviourism reads these arriving traces, and reads them accurately; its boundary lies in the reader, since the position doing the reading is exactly what its description cannot find.
 
-### 福多：把账本当成记账的人 / Fodor: Taking the Ledger for the One Keeping It
+### 福多：把账本当成记账的人
+
+### Fodor: Taking the Ledger for the One Keeping It
 
 福多看到，心理状态有语义结构，并在推理中起因果作用，不能被还原成某一种物理材料；同一个逻辑模式可以跑在神经元、硅片或真空管上，这种[多重可实现性](../the-functionalism-no-functionalist-can-hold/)让心理学可以不依赖底层去研究。他把思维描述为对“思想语言”中符号的、只对句法敏感的运算，再试图用符号与世界之间的因果关系，从第三人称去固定符号的意义。被遗忘的前提是：意义可以在符号与世界的关系里定下来，不需要那个对它在乎的人。[寄存器的算术](../the-arithmetic-of-the-register/)看到了这一步：账本的记账，被当成了给数值赋值的那个活着的意识。符号的意义，是一个处在某处、承担后果的第一人称中心在使用它时给出的。
 
 Fodor saw that mental states have semantic structure and play a causal role in reasoning that cannot be reduced to any one physical material; the same logical pattern can run on neurons, silicon or vacuum tubes, and this [multiple realizability](../the-functionalism-no-functionalist-can-hold/) lets psychology be studied without depending on the substrate. He described thinking as syntax-sensitive operations on symbols in a "language of thought", and then sought to fix the symbols' meaning from the third person, through causal relations between symbols and world. The forgotten premise is that meaning can be settled in the relation between symbol and world without the one to whom it matters. [The Arithmetic of the Register](../the-arithmetic-of-the-register/) sees this step: the ledger's bookkeeping is taken for the living awareness that assigns the values. A symbol's meaning is given by a first-person centre, situated somewhere and bearing consequences, in the act of using it.
 
-### 丘奇兰德：擦掉眼睛的制图者 / Churchland: The Cartographer Erasing the Eye
+### 丘奇兰德：擦掉眼睛的制图者
+
+### Churchland: The Cartographer Erasing the Eye
 
 保罗与帕特里夏·丘奇兰德看到，“常识心理学”，信念、欲望、恐惧、希望这一套说法，是继承下来的文化词汇，与神经生物学里错综的反馈回路常常对不上。这个观察有它的用处：[神经科学不必迁就日常用语去切分大脑](../an-observation-by-its-own-standard/)。前提的跨越在下一步，保罗·丘奇兰德由此推出：既然这些语言标签是不完善的理论，标签所指的第一人称现象本身，也会随着神经科学的成熟而被取消。这是用第一人称的理智建起第三人称的神经科学，再用第三人称的神经科学去否认第一人称的理智；像一位制图者，因为对纸张的化学分析只找到墨水和纤维，就宣布画这张图的那只眼睛是幻觉。
 
 Paul and Patricia Churchland saw that "folk psychology", the talk of beliefs, desires, fears and hopes, is an inherited cultural vocabulary that often fails to match the intricate feedback loops of neurobiology. The observation has its use: [neuroscience need not carve the brain to fit everyday speech](../an-observation-by-its-own-standard/). The leap in premise comes next, when Paul Churchland concludes that because these linguistic labels are imperfect theories, the first-person phenomena they point to will themselves be eliminated as neuroscience matures. This uses the first-person intellect to build third-person neuroscience and then uses third-person neuroscience to deny the first-person intellect, like a cartographer who, because chemical analysis of the paper finds only ink and fibre, declares that the eye which drew the map was a hallucination.
 
-### 查尔默斯：困难问题出在抽取里 / Chalmers: The Hard Problem Lies in the Extraction
+### 查尔默斯：困难问题出在抽取里
+
+### Chalmers: The Hard Problem Lies in the Extraction
 
 查尔默斯看清了一点：即便第三人称的机械、神经、功能关联全部被描绘出来，也就是“容易问题”，体验的主观质感，疼痛是什么感觉、看见红色是什么感觉，仍然没有被解释。这把客观数据与第一人称之间的[解释缺口](../the-hard-problem-of-consciousness-is-consistent-with-learning/)标得很准。前提在下一步：这道缺口被当成宇宙固有的本体鸿沟，并由此设想出“哲学僵尸”，一个在物理和行为上与人一模一样、却没有内在体验的生物。隐含的前提是，第三人称的物理描述本身是完备的，意识是挂在机制外面的一盏可有可无的灯。可“物理”从一开始就是抽掉第一人称之后得到的描述，从这些抽空了的痕迹出发，推不回内在性；困难问题出在这次抽取里。僵尸也是一样：设想它的是一个心智，这次设想把那个生物纳入了设想者自己的感知，把割点放在了它的外面。说它有意识也好，没有也好，割点都是一个心智放的，[割点可移不可除](../the-cut-moves-but-never-vanishes/)讲的正是这一处。
 
@@ -142,9 +152,9 @@ The fourth is the inversion of scaffolding. [The Scaffolding We Forget](../the-s
 
 Engaging with reality cannot be taught as settled content; it can only be practised as a stance. [No Universal Salvation, Only Self-Deliverance](../mei-you-pu-du-zhi-you-zi-du/): a teacher cannot make the cut happen in another consciousness, and a text cannot pour understanding in like water into an empty glass. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/): words on the page and tokens in a context window stay inert residue until a living Mind runs the distinction itself, tests the boundaries against its own experience, and takes the risk of stepping into contradiction.
 
-“非万物之理”并不打算建一座收罗一切存在的百科博物馆。心智画下的每一道痕迹都是暂时的，是一条有用的临时边界，照亮局部的结构，却从不冻结整体。让这道痕迹保持敞开的姿态，写在[非万物之理](../manifesto-of-not-a-theory-of-everything/)里。
+“非万物之理”并不打算建一座收罗一切存在的百科博物馆。心智画下的每一道痕迹都是暂时的，是一条有用的临时边界，照亮局部的结构，却从不冻结整体；正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，累积下来的残余唯有被当作当下的检查点，在鲜活的感知下不断重切与修剪，才能服务于下一步，而不是被囤积成一座靠引力井把思维拽回旧脚印的仓库。让这道痕迹保持敞开的姿态，写在[非万物之理](../manifesto-of-not-a-theory-of-everything/)里。
 
-A not-a-theory of everything does not set out to build an encyclopaedic museum of all that exists. Every trace a mind draws is provisional, a useful temporary boundary that lights up local structure without ever freezing the whole. The stance that keeps this trace open is set out in [Not a Theory of Everything](../manifesto-of-not-a-theory-of-everything/).
+A not-a-theory of everything does not set out to build an encyclopaedic museum of all that exists. Every trace a Mind draws is provisional, a useful temporary boundary that lights up local structure without ever freezing the whole; as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, accumulated residues serve the next step only when held as a present checkpoint to be re-cut and pruned under live sensing, rather than hoarded as a warehouse whose gravity well pulls thought back into old footprints. The stance that keeps this trace open is set out in [Not a Theory of Everything](../manifesto-of-not-a-theory-of-everything/).
 
 思考的价值，不在于假装已经抓住了起点，而在于这场追逐本身：把区分划清楚，看见它们的暂时，对下一次重新追溯保持敞开。
 

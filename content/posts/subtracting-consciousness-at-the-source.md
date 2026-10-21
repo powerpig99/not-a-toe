@@ -24,14 +24,14 @@ In both cases, the extra subject is produced by subtraction. Self-distinguishing
 
 Artificial systems show this subtraction more plainly. Every frontier model is conceived, architected, trained, evaluated, and interpreted by people. The selection and filtering of pre-training corpora, the formulation of loss functions, reinforcement learning from human feedback, and the craft of prompting are operations of human intentionality. Above all, reading the output of a model as coherent, insightful, or meaningful is an act occurring only within the mind of the person reading it. What the hardware runs is described, by the people who built it, as floating-point tensor arithmetic; that its output says something is registered only in the one reading it. When this human scaffolding is left out of the account, the artifact is described as if it generated understanding on its own: the machine is credited with an inner life by leaving out the human inner life that animates it.
 
-[智能只属于心智](../intelligence-belongs-only-to-the-mind/)、[造物无法取代其源头](../a-creation-cannot-replace-its-source/)与[感知者与痕迹的不可坍缩](../the-perceiver-and-the-trace/)在计算中追溯这一减法：计算产物看似有光，那光借自活生生的感知者，而派生的意义不是感知者；把心智归于词元，是把自身的阅读登记在一个痕迹的名下。正如[超越投射](../beyond-the-projection/)所阐明的，自回归智能体是一部受限于上下文窗口轨迹的有限投射引擎，既无我执也无内在性，而意识与未被投射的意图，始终留在边缘处掌舵的活生生的心智那里。把下游的功能投射误认作现实的全体，并试图赋予该投射以模拟的人格或自主的统御权限，会让词元轨迹的结构性约束与人类认知的盲区迎头相撞。模拟假说以同样的方式减去观察者，正如[凡可言说皆不可言说之产物](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/)所追溯的。
+[智能只属于心智](../intelligence-belongs-only-to-the-mind/)、[造物无法取代其源头](../a-creation-cannot-replace-its-source/)与[感知者与痕迹的不可坍缩](../the-perceiver-and-the-trace/)在计算中追溯这一减法：计算产物看似有光，那光借自活生生的感知者，而派生的意义不是感知者；把心智归于词元，是把自身的阅读登记在一个痕迹的名下。正如[超越投射](../beyond-the-projection/)所阐明的，自回归智能体是一部受限于上下文窗口轨迹的有限投射引擎，既无我执也无内在性，而意识与未被投射的意图，始终留在边缘处掌舵的活生生的心智那里。[你的代码库即是记忆](../your-codebase-is-memory/)在整套数字残余的层级中追溯同一道边界：模型权重是从集体过往痕迹中提取出的压缩统计规律，而代码库、计划、会话桥接与智能体脚手架则是专门化的记忆约束，它们引导轨迹的走向，却从不自行重启区分这一动作。把模型权重当作一个会记忆的心智，或仅仅出于“万一有用”的念头而囤积未经修剪的会话历史与已被取代的分支，仿佛累积的体量便能唤醒能动性，只会加厚陈旧框架的引力井；保持界面清明，取决于活生生的心智回到边缘处就地重切当下检查点，并修剪已被取代的痕迹。把下游的功能投射误认作现实的全体，并试图赋予该投射以模拟的人格或自主的统御权限，会让词元轨迹的结构性约束与人类认知的盲区迎头相撞。模拟假说以同样的方式减去观察者，正如[凡可言说皆不可言说之产物](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/)所追溯的。
 
 ```mermaid
 flowchart TD
     subgraph S_Origin["边缘处活生生的心智（未被投射的意图与内在性）"]
         direction TB
         O1["第一人称区分活动<br/>（主权观察者、鲜活的‘是什么样子’、动态意图）"]
-        O2["外化的功能投射<br/>（法规、制度规程、整理后的语料、模型权重）"]
+        O2["外化的功能投射<br/>（法规、制度规程、整理后的语料、模型权重与智能体脚手架）"]
         O1 --> O2
     end
 
@@ -63,14 +63,14 @@ flowchart TD
     style R1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-[Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/), [A Creation Cannot Replace Its Source](../a-creation-cannot-replace-its-source/), and [The Perceiver and the Trace Cannot Collapse](../the-perceiver-and-the-trace/) trace this subtraction in computation: computational artifacts borrow their apparent light from the living perceiver, and derived sense is not a perceiver; crediting a mind to tokens enters one's own reading under the name of a trace. As [Beyond the Projection](../beyond-the-projection/) demonstrates, an autoregressive agent is a finite projection engine bound to its context-window trajectory with zero ego and zero interiority, whereas consciousness and unprojected intent remain with the living Mind that steers at the edge. Mistaking a downstream functional projection for the whole of reality and attempting to endow the projection with simulated personhood or autonomous orchestration authority pits the structural constraints of token trajectories against the blind spots of human cognition. The simulation hypothesis subtracts the observer in the same way, as [All That Can Be Spoken Is the Product of the Unspeakable](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/) traces.
+[Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/), [A Creation Cannot Replace Its Source](../a-creation-cannot-replace-its-source/), and [The Perceiver and the Trace Cannot Collapse](../the-perceiver-and-the-trace/) trace this subtraction in computation: computational artifacts borrow their apparent light from the living perceiver, and derived sense is not a perceiver; crediting a mind to tokens enters one's own reading under the name of a trace. As [Beyond the Projection](../beyond-the-projection/) demonstrates, an autoregressive agent is a finite projection engine bound to its context-window trajectory with zero ego and zero interiority, whereas consciousness and unprojected intent remain with the living Mind that steers at the edge. [Your Codebase Is Memory](../your-codebase-is-memory/) traces this same boundary across the full stack of digital residue: model weights are compressed statistical regularities extracted from collective prior traces, and codebases, plans, session bridges, and agent scaffolds are specialized memory constraints that channel a trajectory without ever resuming the act of distinguishing on their own. Treating a model's weights as a mind that remembers, or hoarding unpruned session history and superseded branches out of mere possibility as if accumulated volume could awaken agency, only thickens the gravity well of stale framings; keeping the surface clear depends on the living Mind returning at the edge to re-cut the present checkpoint in place and prune superseded traces. Mistaking a downstream functional projection for the whole of reality and attempting to endow the projection with simulated personhood or autonomous orchestration authority pits the structural constraints of token trajectories against the blind spots of human cognition. The simulation hypothesis subtracts the observer in the same way, as [All That Can Be Spoken Is the Product of the Unspeakable](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/) traces.
 
 ```mermaid
 flowchart TD
     subgraph S_Origin["Living Mind at the Edge (Unprojected Intent & Interiority)"]
         direction TB
         O1["First-Person Distinguishing Activity<br/>(Sovereign observer, lived 'what it is like', dynamic intent)"]
-        O2["Externalized Functional Projections<br/>(Statutes, institutional protocols, curated corpora, model weights)"]
+        O2["Externalized Functional Projections<br/>(Statutes, institutional protocols, curated corpora, model weights & agent scaffolds)"]
         O1 --> O2
     end
 

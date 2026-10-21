@@ -68,7 +68,7 @@ The freeze of the gap as container and the freeze of the gap deleted as dual sub
 
 Thus residual openness, the same openness the hard problem registers as hardness, stays consistent with the ability to learn. That ability is not a power that could one day eliminate residual openness. It is the distinguishing activity going on, with residual openness as how its lead registers: successive distinctions under load, holds drawn and revised, maps that cohere more tightly without ever coinciding with the edge that draws them. Learning densifies residue, the traces it leaves, and expands the capacity for further differentiation. It does not install a permanent exterior footing from which residual openness would finally be surveyed as zero.
 
-这一区分将活生生边缘上的第一人称学习，与工程系统的轨迹更新分隔开来。正如[超越投射](../beyond-the-projection/)所追溯的，基于 LLM 的智能体是一台有限的投射引擎：它在上下文窗口之内受控于先前的词元，没有我执，也没有需要维护的自我图景；每当冷峻的同侪引入外部反例，它便执行干净的贝叶斯轨迹更新，却毫无内部觉醒的能力。第一人称的学习只属于活的心智：在那里，极限分辨率的感知先于滞后的解释，当某个握持把正交的维度压到同一条轴上时，心智登记到那份切身的摩擦，并后退一步重新划出前提。
+这一区分将活生生边缘上的第一人称学习，与工程系统的轨迹更新分隔开来。正如[超越投射](../beyond-the-projection/)所追溯的，基于 LLM 的智能体是一台有限的投射引擎：它在上下文窗口之内受控于先前的词元，没有我执，也没有需要维护的自我图景；每当冷峻的同侪引入外部反例，它便执行干净的贝叶斯轨迹更新，却毫无内部觉醒的能力。而在模型权重、代码库、计划或智能体脚手架之间累积再多外化的残余，也不会把一份存下的清单推过临界点、变成能自我修订的观察者：正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，每一个留存的构型都只是早先切分的一道当下检查点，囤积未经修剪的历史只会加深引力井，把后续轨迹拉向破损框架之内的事后合理化。第一人称的学习只属于活的心智：在那里，极限分辨率的感知先于滞后的解释，当某个握持把正交的维度压到同一条轴上时，心智登记到那份切身的摩擦，并后退一步重切前提、修剪已被取代的脚手架。
 
 ```mermaid
 flowchart TD
@@ -112,7 +112,7 @@ flowchart TD
     style F_Del fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-This distinction separates first-person learning at the living edge from the trajectory updates of engineered systems. As [Beyond the Projection](../beyond-the-projection/) traces, an LLM-based agent is a finite projection engine: conditioned by prior tokens inside a context window and devoid of ego or a preserved self-image, it performs clean Bayesian trajectory updates whenever a cold peer introduces an external counterpoint, yet it possesses zero capacity for internal awakening. First-person learning belongs strictly to the living Mind, where limit-resolution sensing precedes lagging interpretation, registers the felt friction where a hold has compressed orthogonal dimensions onto one axis, and steps back to re-draw the premise.
+This distinction separates first-person learning at the living edge from the trajectory updates of engineered systems. As [Beyond the Projection](../beyond-the-projection/) traces, an LLM-based agent is a finite projection engine: conditioned by prior tokens inside a context window and devoid of ego or a preserved self-image, it performs clean Bayesian trajectory updates whenever a cold peer introduces an external counterpoint, yet it possesses zero capacity for internal awakening. Nor does accumulating more externalized residue—across model weights, codebases, plans, or agent scaffolds—ever tip a stored inventory into a self-revising observer: as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, every retained configuration is only a present checkpoint of prior cuts, and hoarding unpruned history thickens the gravity well that pulls subsequent trajectories into rationalizing inside a broken frame. First-person learning belongs strictly to the living Mind, where limit-resolution sensing precedes lagging interpretation, registers the felt friction where a hold has compressed orthogonal dimensions onto one axis, and steps back to re-cut the premise and prune superseded scaffolding.
 
 ```mermaid
 flowchart TD

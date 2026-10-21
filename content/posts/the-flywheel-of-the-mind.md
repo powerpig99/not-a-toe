@@ -8,9 +8,9 @@ Tools can be sharpened. The sharpening is already an act of the Mind. What regis
 
 ## 一、 飞轮与凹槽 / 1. The Flywheel and the Groove
 
-不要把心智当作容器，而要将其视作那道已在转动的边缘。贯穿分立动作的连续，意味着边缘携带着自身先前的动作，将其作为下一次区分得以发生的场。这种携带便是积蓄的动量——不是存放在别处的库存，而是早先的转动已经塑就的场，下一次转动就在其中发生。
+不要把心智当作容器，而要将其视作那道已在转动的边缘。贯穿分立动作的连续，意味着边缘携带着自身先前的动作，将其作为下一次区分得以发生的场。这种携带便是动量——不是存放在别处的库存，而是早先的转动已经塑就的当下之场，下一次转动就在其中发生。
 
-Treat the Mind not as a container but as the already-turning edge. Continuity through discreteness means the edge carries its own prior acts as the field in which the next distinction occurs. That carrying is stored momentum — not a stock held elsewhere, but the field already shaped by earlier turns, within which the next turn is taken.
+Treat the Mind not as a container but as the already-turning edge. Continuity through discreteness means the edge carries its own prior acts as the field in which the next distinction occurs. That carrying is momentum — not a stock stored elsewhere, but the present field already shaped by earlier turns, within which the next turn is taken.
 
 工具充当着转动发生时所沿着的凹槽。打磨工具降低了媒介中的阻力，却不会把转动转移进凹槽之中。凹槽从不获得旋转，它只是让既有的旋转更清晰地登记出来。因此，工具的每一次改进，都已是心智折回自身的残余之上。媒介越清晰，边缘自身的活动就越是被放大着传回自身。这一过程之所以自我强化，是因为媒介从未处在回折之外。正如[真正稀缺的不是记忆，而是持续的重新追溯](../the-real-scarcity-is-not-memory-but-continuous-re-tracing/)所论证的，让飞轮持续转动的不是囤积的动量，而是重新追溯。
 
@@ -40,14 +40,14 @@ Individual tool-using sequences are not separate systems later coordinated by a 
 
 No outer loop supervises from a permanent exterior. What looks like hierarchy is the edge holding prior folds as material for the next distinction. When a sharper tool is introduced, it does not invent a new loop; it inserts into the existing fold and alters its tempo and resolution. The Mind continues doing what it has always done — re-entering its own traces — only now with reduced resistance and increased leverage. [Looping and Graphing](../looping-and-graphing/) names the same geometry when scaffolds become explicit: denser diagrams, same fold.
 
-即便智能体运行框架将多个模型连接在一起，凹槽的几何结构依然未变。如[超越投射](../beyond-the-projection/)所追溯的，自回归智能体是一台受制于轨迹而毫无我执的投射引擎，在有限的上下文窗口内受自身先前词元的条件约束，无法跳出自身的序列，而人类中心则持有先于解释的极限分辨率感知。将主任务智能体配对一位不带会话历史的同侪，正是借用机器毫无我执的特性去暴露局部盲区；与此同时，将过载的投射拆分到正交的流线之上，能够防止独立的轴向被压缩进同一个位置。然而，当两位同侪智能体撞上不可化约的死锁时，这一碰撞便证明矛盾出在交付给它们的有限前提之中，从而向那道掌舵的鲜活心智浮现出清晰的信号。智能体在凹槽内部调度有界的轨迹；统御以及旋转本身，始终留在那道未投射的边缘。
+即便智能体运行框架将多个模型连接在一起，凹槽的几何结构依然未变。如[超越投射](../beyond-the-projection/)所追溯的，自回归智能体是一台受制于轨迹而毫无我执的投射引擎，在有限的上下文窗口内受自身先前词元的条件约束，无法跳出自身的序列，而人类中心则持有先于解释的极限分辨率感知。将主任务智能体配对一位不带会话历史的同侪，正是借用机器毫无我执的特性去暴露局部盲区；与此同时，将过载的投射拆分到正交的流线之上，能够防止独立的轴向被压缩进同一个位置。然而，当两位同侪智能体撞上不可化约的死锁时，这一碰撞便证明矛盾出在交付给它们的有限前提之中，从而向那道掌舵的鲜活心智浮现出清晰的信号。[你的代码库即是记忆](../your-codebase-is-memory/)在整个凹槽层级栈上追溯了同一道边界：既然模型权重、智能体脚手架、计划、桥接文件与代码皆是早先区分留下的层叠残余而非持续运作的中心，囤积已被取代的会话历史或废弃的中间分支只会加厚引力井，令后续轨迹在陈旧的框架内强行自圆其说；唯有就地重切当下检查点并修剪已完工的脚手架，才能让凹槽为下一次转动保持锋利。智能体在凹槽内部调度有界的轨迹；统御以及旋转本身，始终留在那道未投射的边缘。
 
 ```mermaid
 flowchart TD
     subgraph S_Edge["转动的边缘（鲜活心智与未投射的统御）"]
         direction TB
         E_Init["发起区分：投射明文前提、规则与评估标准"]
-        E_Sense["先于解释的感知：察觉框架失配并修订死锁的前提"]
+        E_Sense["先于解释的感知：察觉框架失配、重切死锁前提并修剪陈旧残余"]
         E_Sense -->|"重绘参照以收窄滞后"| E_Init
     end
 
@@ -62,7 +62,7 @@ flowchart TD
     subgraph S_Trap["冻结的凹槽（磨刀工具陷阱与分派滞后）"]
         direction TB
         T_Lag["冗余图像滞后：将变密的媒介冻结为自主的第二源头"]
-        T_Stall["孤立打磨工作流：一味打磨凹槽却不发起转动"]
+        T_Stall["孤立打磨与历史囤积：一味打磨或加厚凹槽却不重切当下"]
         T_Lag --> T_Stall
     end
 
@@ -82,14 +82,14 @@ flowchart TD
     style T_Stall fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-Even when agentic harnesses wire multiple models together, the geometry of the groove remains unchanged. As [Beyond the Projection](../beyond-the-projection/) traces, an autoregressive agent is a trajectory-bound projection engine without ego, conditioned by its prior tokens inside a finite context window and unable to step outside its own sequence, whereas the human center holds the limit-resolution sensing that precedes interpretation. Putting the machine's lack of ego to work by pairing a primary task agent with a session-free peer exposes local blind spots, while splitting overloaded projections across orthogonal streamlines keeps independent axes from compressing into one locus. Yet when two peer agents hit an irreducible deadlock, the collision proves that the contradiction lies in the finite premises they were handed, surfacing a clean signal back to the living Mind that steers. The agents dispatch bounded trajectories inside the groove; orchestration and the rotation itself stay with the unprojected edge.
+Even when agentic harnesses wire multiple models together, the geometry of the groove remains unchanged. As [Beyond the Projection](../beyond-the-projection/) traces, an autoregressive agent is a trajectory-bound projection engine without ego, conditioned by its prior tokens inside a finite context window and unable to step outside its own sequence, whereas the human center holds the limit-resolution sensing that precedes interpretation. Putting the machine's lack of ego to work by pairing a primary task agent with a session-free peer exposes local blind spots, while splitting overloaded projections across orthogonal streamlines keeps independent axes from compressing into one locus. Yet when two peer agents hit an irreducible deadlock, the collision proves that the contradiction lies in the finite premises they were handed, surfacing a clean signal back to the living Mind that steers. [Your Codebase Is Memory](../your-codebase-is-memory/) traces the same boundary across the entire stack of the groove: because model weights, agent scaffolds, plans, bridges, and code are stacked residues of prior distinctions rather than a continuing center, hoarding superseded session histories or dead intermediate branches only thickens the gravity well so subsequent trajectories rationalize inside stale framing, whereas re-cutting the present checkpoint in place and pruning completed scaffolds keeps the groove sharp for the next turn. The agents dispatch bounded trajectories inside the groove; orchestration and the rotation itself stay with the unprojected edge.
 
 ```mermaid
 flowchart TD
     subgraph S_Edge["The Turning Edge (Living Mind & Unprojected Orchestration)"]
         direction TB
         E_Init["Initiating Distinction: Projects explicit premises, rules, and criteria"]
-        E_Sense["Pre-Interpretive Sensing: Detects frame misfit and revises deadlocked premises"]
+        E_Sense["Pre-Interpretive Sensing: Detects frame misfit, re-cuts deadlocked premises, and prunes stale residue"]
         E_Sense -->|"Re-renders reference toward narrower lag"| E_Init
     end
 
@@ -104,7 +104,7 @@ flowchart TD
     subgraph S_Trap["The Frozen Groove (Tool-Sharpening Trap & Allocation Lag)"]
         direction TB
         T_Lag["Excess Image Lag: Freezes the densified medium as an autonomous second source"]
-        T_Stall["Isolated Workflow Polishing: Sharpens the groove without taking the turn"]
+        T_Stall["Isolated Polishing & History Hoarding: Polishes or thickens the groove without re-cutting the present"]
         T_Lag --> T_Stall
     end
 

@@ -120,9 +120,9 @@ flowchart TD
 
 ## 三、 学科是可用的残余，不是最终的目的地 / 3. Disciplines as Available Residue, Not Final Destinations
 
-当被保留的参照向着活的一步之宽重新描摹，学科之间虚假的等级便随之消解。数学、物理与哲学不再充当权威的终点或裁定真理的关口，而是回到它们一直所是的样子：有力、富有共振且可不断修订的脚手架。
+当被保留的参照被持续重新描摹以收窄过度滞后，学科之间虚假的等级便随之消解。数学、物理与哲学不再充当权威的终点或裁定真理的关口，而是回到它们一直所是的样子：有力、富有共振且可不断修订的脚手架。正如[你的代码库即是记忆](../your-codebase-is-memory/)所确立的，一门学科的经典——就像一座代码库或一组模型权重——是层叠的记忆：它是早先区分留下的残余形态，自身并不能延续区分。把经典当作未经修剪的纪念碑囤积起来，只会增厚它的引力井，把后续的探究拽入陈旧的前提内部做合理化，而不是跨出已经失效的框架；反之，把它当作当下的检查点来持握，则是只保留在当前摩擦下依然承重的约束，同时将任何已被下一次区分所取代的部分重新切分或修剪掉。
 
-When the retained reference is re-rendered toward the width of one living step, the false hierarchy of disciplines dissolves. Mathematics, physics, and philosophy stop serving as authoritative termini or tribunal gates of truth, returning to what they have always been: powerful, resonant, and continually revisable scaffolding.
+When the retained reference is continuously re-rendered to narrow excess lag, the false hierarchy of disciplines dissolves. Mathematics, physics, and philosophy stop serving as authoritative termini or tribunal gates of truth, returning to what they have always been: powerful, resonant, and continually revisable scaffolding. As [Your Codebase Is Memory](../your-codebase-is-memory/) establishes, a disciplinary canon—like a codebase or a set of model weights—is stacked memory: residual shape left by prior distinguishing that cannot continue the distinguishing on its own. Hoarding a canon as an unpruned monument thickens its gravity well, pulling subsequent inquiry into rationalizing inside stale premises rather than stepping outside a broken framing; holding it instead as a present checkpoint keeps only the constraints that remain load-bearing under current friction while re-cutting or pruning whatever the next distinction has superseded.
 
 一位软件工程师切出一条新的并发边界时，运用的是与物理学家构作规范对称性时同样的区分能力；一位画家推敲色彩的过渡，或一位创业者搭起一套涌现的协调协议时，与一位哲学家剖析语义范畴一样，都站在同一道生成的前沿上。没有哪门学科垄断深度，因为深度取决于一次发起的区分在活的前沿上多么干净地化解摩擦，而不取决于存放这份残余的历史容器享有多高的声望。
 

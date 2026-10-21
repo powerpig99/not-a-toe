@@ -78,7 +78,7 @@ Wherever openness is raised into a terminal value, the same inversion appears: t
 
 The reason is not some motive: it is the boundary of distinct centers showing itself before an ideology that cannot name that boundary without abandoning its moral claim. Advocating openness of others is therefore not in contradiction with the closure of the self. It is a form of that closure under load: unconditional openness is preserved as an image for *others*, so the selection that remains is relocated outward as demand and held inward as desirable under privacy and sovereignty. The closure is not the boundary, which is drawn anew at each act. It is this locus’s present selection held exempt from inquiry, while the selections of other centers are subjected to inquiry. That is the closure of the self, wearing the costume of openness for the world and of rights for the self.
 
-[没有系统能被保持封闭](../no-system-can-be-kept-closed/)是不完备最直观的一面，对任何这类持守都成立：有限的持守封不住使用它的活动；持守在划出它的动作中是真实的，而活动越过它继续。[开放即一致](../openness-is-consistency/)是从另一面看的同一几何：不一致是对闭合的渴望或尝试，是让一个有限的结构去为只会延续的东西奠基。在那里，对闭合的渴望是构型，不是缺陷，它在被看见而不是被服从时松开。在中心之间，它穿上这里追踪的双重外衣：他人的持守有待消解，本处的持守有待保住。[超越投射](../beyond-the-projection/)揭示了这种非对称的结构性机制：在人类中心里，推理历史与被保留的自我图像熔接在一起，因此要求修订既有选择的外部压力会被登记为生存威胁，而对透明的要求则被向外投射到他人身上。相比之下，当无我执的智能体跨正交脉络接入对等的同侪辩论时，它们无需防御姿态便能吸收外部的反驳，将真正的前提死锁剥离出来并交还给掌舵的心智——在那里，开放不再作为对其他中心的道德苛求来操演，而是作为在摩擦下后退一步、重新渲染自身前提的第一人称一致性来践行。
+[没有系统能被保持封闭](../no-system-can-be-kept-closed/)是不完备最直观的一面，对任何这类持守都成立：有限的持守封不住使用它的活动；持守在划出它的动作中是真实的，而活动越过它继续。[开放即一致](../openness-is-consistency/)是从另一面看的同一几何：不一致是对闭合的渴望或尝试，是让一个有限的结构去为只会延续的东西奠基。在那里，对闭合的渴望是构型，不是缺陷，它在被看见而不是被服从时松开。在中心之间，它穿上这里追踪的双重外衣：他人的持守有待消解，本处的持守有待保住。[超越投射](../beyond-the-projection/)揭示了这种非对称的结构性机制：在人类中心里，推理历史与被保留的自我图像熔接在一起，因此要求修订既有选择的外部压力会被登记为生存威胁，而对透明的要求则被向外投射到他人身上。相比之下，当无我执的智能体跨正交脉络接入对等的同侪辩论时，它们无需防御姿态便能吸收外部的反驳，将真正的前提死锁剥离出来并交还给掌舵的心智——在那里，开放不再作为对其他中心的道德苛求来操演，而是作为在摩擦下后退一步、重新渲染自身前提的第一人称一致性来践行。[你的代码库即是记忆](../your-codebase-is-memory/)将这一刀延伸至层叠的残余本身：因为代码、模型权重、计划与智能体脚手架皆是早先区分留下的记忆，而非一个自行延续的中心，活的边缘处的开放既不是倾倒一座未经修剪的历史痕迹仓库，也不是出于防御性执念而囤积已被取代的轨迹，而是就地重切当下的检查点，并精准修剪临时脚手架——在区分被吸收之后让会话令牌退役、删除已完工的工作目录——使昨日的残余不致加厚今日判断周围的引力势阱。
 
 ```mermaid
 flowchart TD
@@ -94,7 +94,7 @@ flowchart TD
         direction TB
         O_Strip["剥净的机制：围绕触及与控制的有中介残余释放"]
         O_Peer["无我执同侪辩论：正交脉络无需防御即浮现前提矛盾"]
-        O_Render["后退一步：掌舵的心智在活的边缘重新渲染自身前提"]
+        O_Render["后退一步：在活的边缘重新渲染前提并重切当下的检查点"]
         O_Strip --> O_Peer --> O_Render
     end
 
@@ -110,7 +110,7 @@ flowchart TD
     style O_Render fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-[No System Can Be Kept Closed](../no-system-can-be-kept-closed/) is the most intuitive face of incompleteness, and it applies to any such hold: a finite hold cannot seal the activity that uses it; the hold is real in the act that draws it, and the activity continues past it. [Openness Is Consistency](../openness-is-consistency/) is the same geometry from the other side: inconsistency is the desire or attempt for closure, a finite structure forced to ground what only continues. There the desire for closure is configuration, not defect, and it loosens when it is seen rather than obeyed. Between centers it takes on the double costume traced here: others’ holds to be dissolved, this locus’s hold to be kept. [Beyond the Projection](../beyond-the-projection/) exposes the structural mechanism of that asymmetry: in a human center, reasoning history fuses with the retained self-image, so external pressure to revise a held selection registers as an existential threat while the demand for transparency is projected outward onto others. By contrast, when zero-ego agents are wired into equal-footed peer debate across orthogonal streamlines, they absorb external counterpoints without defensive posturing, isolating genuine premise deadlocks and returning them to the steering Mind—where openness is practiced not as a moral demand on other centers, but as first-person consistency that steps backward to re-render its own premises under friction.
+[No System Can Be Kept Closed](../no-system-can-be-kept-closed/) is the most intuitive face of incompleteness, and it applies to any such hold: a finite hold cannot seal the activity that uses it; the hold is real in the act that draws it, and the activity continues past it. [Openness Is Consistency](../openness-is-consistency/) is the same geometry from the other side: inconsistency is the desire or attempt for closure, a finite structure forced to ground what only continues. There the desire for closure is configuration, not defect, and it loosens when it is seen rather than obeyed. Between centers it takes on the double costume traced here: others’ holds to be dissolved, this locus’s hold to be kept. [Beyond the Projection](../beyond-the-projection/) exposes the structural mechanism of that asymmetry: in a human center, reasoning history fuses with the retained self-image, so external pressure to revise a held selection registers as an existential threat while the demand for transparency is projected outward onto others. By contrast, when zero-ego agents are wired into equal-footed peer debate across orthogonal streamlines, they absorb external counterpoints without defensive posturing, isolating genuine premise deadlocks and returning them to the steering Mind—where openness is practiced not as a moral demand on other centers, but as first-person consistency that steps backward to re-render its own premises under friction. [Your Codebase Is Memory](../your-codebase-is-memory/) extends this cut to the stacked residues themselves: because code, model weights, plans, and agent scaffolds are memories of prior distinctions rather than a continuing center, openness at the living edge is neither dumping an unpruned warehouse of historical traces nor hoarding superseded trajectories out of defensive attachment, but re-cutting the present checkpoint in place and surgically pruning transient scaffolding—retiring session tokens and deleting completed working folders once their distinction is absorbed—so yesterday’s residue does not thicken the gravity well around today’s judgment.
 
 ```mermaid
 flowchart TD
@@ -126,7 +126,7 @@ flowchart TD
         direction TB
         O_Strip["Stripped Mechanism: Mediated release of residue turning on reach and control"]
         O_Peer["Zero-Ego Peer Debate: Orthogonal streamlines surface premise contradictions without defense"]
-        O_Render["Stepping Backward: The steering Mind re-renders its own premises at the living edge"]
+        O_Render["Stepping Backward: Re-rendering premises and re-cutting the present checkpoint at the living edge"]
         O_Strip --> O_Peer --> O_Render
     end
 
