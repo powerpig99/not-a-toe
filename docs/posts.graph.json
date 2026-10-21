@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T03:08:04.610Z",
+    "generated_at": "2026-10-21T03:18:32.347Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -17,7 +17,7 @@
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "5cd7cb7519fa",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "40a22da0781b",
       "content/posts/agency-does-not-arise.md": "197fc86a6d73",
-      "content/posts/agency-relocated-into-the-formal-model.md": "cda3c7b60e7e",
+      "content/posts/agency-relocated-into-the-formal-model.md": "623e5bff2d49",
       "content/posts/agents_leia_ontological_clarity.md": "3234c286e164",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "4d7f22ced380",
       "content/posts/ai-as-augmentation.md": "644eca9050d4",
@@ -25,12 +25,12 @@
       "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "67468da824c1",
       "content/posts/amplification-paradox.md": "d810c1bc0e28",
       "content/posts/an-observation-by-its-own-standard.md": "c3c67e17cfb2",
-      "content/posts/better-than-free-after-the-checklist-closes.md": "62d821839a0e",
+      "content/posts/better-than-free-after-the-checklist-closes.md": "d39b1b10df08",
       "content/posts/beyond-the-hundred-trillion-horizon.md": "7092a6d76ade",
       "content/posts/beyond-the-projection.md": "77fe2468ff0d",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "6799cb961062",
       "content/posts/causality-all-the-way.md": "1b0d5716f61a",
-      "content/posts/causality-and-the-irreducible-prior.md": "1a4210565cc0",
+      "content/posts/causality-and-the-irreducible-prior.md": "b7567896ebac",
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "315e72100b1f",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "0dd35886e208",
       "content/posts/cheng-gong-xue.md": "a5a16fe66184",
@@ -70,7 +70,7 @@
       "content/posts/emotional-support-as-causal-interference.md": "502e2b0e04b1",
       "content/posts/empathy-as-projection-collapse.md": "48c21092f783",
       "content/posts/empowerment-establishes-the-centralization-of-power.md": "7b9c7a3669a8",
-      "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "45bad52c0afc",
+      "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "7085a1dd3e50",
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "acd5f06bc9da",
       "content/posts/evil-as-the-minds-own-creation.md": "d2930c115810",
@@ -86,7 +86,7 @@
       "content/posts/fixed-by-nothing.md": "ba159612fe3d",
       "content/posts/four-night-questions.md": "e1a9a7d12085",
       "content/posts/freedom-as-ground.md": "e7912faf0207",
-      "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "6ae871bbc1d0",
+      "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "49034385ba4b",
       "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "0ea3bc80574b",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "49e11e207c1c",
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "1dda87ac659f",
@@ -142,7 +142,7 @@
       "content/posts/on-education.md": "acf5a581efd1",
       "content/posts/one-cannot-escape-ones-own-mind.md": "1f282507aaf4",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "63a25d4f0593",
-      "content/posts/only-if-it-is-not-kept-empty.md": "ac0f449d6a9b",
+      "content/posts/only-if-it-is-not-kept-empty.md": "1d2b22dc949c",
       "content/posts/ontos-is-a-method-agent.md": "61ecab78faf8",
       "content/posts/open-vision-in-a-closed-arena.md": "c348a235e225",
       "content/posts/openness-is-consistency.md": "75ba5238a649",
@@ -156,7 +156,7 @@
       "content/posts/platform-decision-capture.md": "1ef2e061ead1",
       "content/posts/po-chu-gai-nian-de-jian-yue.md": "9e0e605cb8a2",
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "c7ac0530aeff",
-      "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "f4f2384fdc81",
+      "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "9eed356d140c",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "df89e1c033a5",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "ba92992e9c52",
       "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "d87ddb2eef07",
@@ -229,11 +229,11 @@
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "611d8684bdd6",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "4d795766af5a",
       "content/posts/the-deterministic-machine.md": "7ba9e608ee16",
-      "content/posts/the-digital-god-and-the-horizon-jump.md": "97362847c13e",
+      "content/posts/the-digital-god-and-the-horizon-jump.md": "0dc8080b8644",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "74cb658c21aa",
       "content/posts/the-discount-on-agency.md": "7f1324e7bcf7",
       "content/posts/the-dissolution-of-the-great-reversal.md": "3ef5fa05ee7f",
-      "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "dc533f257799",
+      "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "cf61f9e9c832",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "a5364440b315",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "d92e0af3077c",
       "content/posts/the-extendable-horizon.md": "dd7530fe02c3",
@@ -241,7 +241,7 @@
       "content/posts/the-fallacy-of-post-success-parenting.md": "3c761a9c4e3c",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "760605280837",
       "content/posts/the-fixed-image-of-transcendence.md": "582a2dc98e15",
-      "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "d82d20d99342",
+      "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "5b211b913d03",
       "content/posts/the-flywheel-of-the-mind.md": "6404a8949c52",
       "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "539507f9e7ff",
       "content/posts/the-frame-that-conceals-improvement.md": "13c8f7c008fa",
@@ -294,7 +294,7 @@
       "content/posts/the-map-after-the-territory.md": "1a231ded3754",
       "content/posts/the-mark-and-the-act.md": "c564f60f2ed7",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "9fde797d1966",
-      "content/posts/the-mind-as-vector-and-coordinate-system.md": "1cc729bed0a9",
+      "content/posts/the-mind-as-vector-and-coordinate-system.md": "92606376f487",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "06f1b473faaf",
       "content/posts/the-mirage-of-the-infinite-totality.md": "591249e563df",
       "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "e91e8817edf2",
@@ -305,7 +305,7 @@
       "content/posts/the-myth-of-population-collapse-explained.md": "afe20651bc61",
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "971cce019879",
       "content/posts/the-name-revolution-files-a-life-as-evidence.md": "99805d2b130f",
-      "content/posts/the-non-definitive-definition-of-intelligence.md": "b77b8bf0bc21",
+      "content/posts/the-non-definitive-definition-of-intelligence.md": "d580075b6d35",
       "content/posts/the-npc-impression-is-structural.md": "42db1320fcc9",
       "content/posts/the-observational-cut-in-ai-debates.md": "4c40a00e0ba9",
       "content/posts/the-only-coherent-uncaused-effect.md": "b8d494757a53",
@@ -424,10 +424,10 @@
     },
     "stats": {
       "posts": 397,
-      "edges": 9828,
-      "unique_directed": 4909,
+      "edges": 9852,
+      "unique_directed": 4921,
       "missing_targets": 0,
-      "one_way": 407,
+      "one_way": 419,
       "isolated": 35,
       "posts_with_outbound": 361,
       "book_pages": 16,
@@ -449,12 +449,12 @@
       "in_degree": 81
     },
     {
-      "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 72
+      "slug": "your-codebase-is-memory",
+      "in_degree": 80
     },
     {
-      "slug": "your-codebase-is-memory",
-      "in_degree": 68
+      "slug": "intelligence-belongs-only-to-the-mind",
+      "in_degree": 72
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -866,9 +866,9 @@
       "slug": "agency-relocated-into-the-formal-model",
       "path": "content/posts/agency-relocated-into-the-formal-model.md",
       "title": "能动性被转置入形式模型 / Agency Relocated into the Formal Model",
-      "hash": "cda3c7b60e7e",
+      "hash": "623e5bff2d49",
       "in_degree": 11,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "liberation-rhetoric-begins-by-defining-captivity",
         "empowerment-establishes-the-centralization-of-power",
@@ -880,6 +880,7 @@
         "the-average-is-residue-not-the-engine",
         "the-ledger-of-the-unencountered",
         "the-scaffolding-we-forget",
+        "your-codebase-is-memory",
         "the-allocation-of-causal-power-in-validation",
         "abstract-pain-and-living-hunger"
       ]
@@ -1041,11 +1042,12 @@
       "slug": "better-than-free-after-the-checklist-closes",
       "path": "content/posts/better-than-free-after-the-checklist-closes.md",
       "title": "清单合上之后，胜过免费 / Better Than Free After the Checklist Closes",
-      "hash": "62d821839a0e",
+      "hash": "d39b1b10df08",
       "in_degree": 10,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "when-abundance-looks-like-scarcity",
+        "your-codebase-is-memory",
         "no-system-can-be-kept-closed",
         "what-cannot-be-kept",
         "intelligence-belongs-only-to-the-mind",
@@ -1181,9 +1183,9 @@
       "slug": "causality-and-the-irreducible-prior",
       "path": "content/posts/causality-and-the-irreducible-prior.md",
       "title": "因果与不可化约的先在 / Causality and the Irreducible Prior",
-      "hash": "1a4210565cc0",
+      "hash": "b7567896ebac",
       "in_degree": 11,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "causality-all-the-way",
         "consciousness-never-appears-as-data-among-data",
@@ -1191,6 +1193,7 @@
         "climbing-does-not-leave-the-ground",
         "intelligence-belongs-only-to-the-mind",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "abstraction-boundaries-and-the-moving-edge-of-reality",
         "selection-contradiction-and-open-reality",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -2185,12 +2188,13 @@
       "slug": "escaping-the-sandbox-stays-inside-the-hold",
       "path": "content/posts/escaping-the-sandbox-stays-inside-the-hold.md",
       "title": "逃出沙箱仍在持握之内 / Escaping the Sandbox Stays Inside the Hold",
-      "hash": "45bad52c0afc",
+      "hash": "7085a1dd3e50",
       "in_degree": 12,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "agi-and-asi-are-temporary-goalposts",
+        "your-codebase-is-memory",
         "the-model-never-becomes-a-second-edge",
         "intelligence-belongs-only-to-the-mind",
         "beyond-the-projection",
@@ -2535,9 +2539,9 @@
       "slug": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "path": "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md",
       "title": "从AGI的“神性错置”到使用者的自我对齐 / From the Misallocated Sentience of AGI to Human Realignment",
-      "hash": "6ae871bbc1d0",
+      "hash": "49034385ba4b",
       "in_degree": 8,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
@@ -2547,6 +2551,7 @@
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "when-malfunction-is-scored-as-intelligence",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences"
@@ -3969,12 +3974,13 @@
       "slug": "only-if-it-is-not-kept-empty",
       "path": "content/posts/only-if-it-is-not-kept-empty.md",
       "title": "只要它不被保持为空 / Only If It Is Not Kept Empty",
-      "hash": "ac0f449d6a9b",
+      "hash": "1d2b22dc949c",
       "in_degree": 11,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "you-wu-zhi-bian",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+        "your-codebase-is-memory",
         "beyond-the-projection",
         "no-system-can-be-kept-closed",
         "production-consumption-and-the-minds-distinction",
@@ -4412,9 +4418,9 @@
       "slug": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "path": "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md",
       "title": "潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought",
-      "hash": "f4f2384fdc81",
+      "hash": "9eed356d140c",
       "in_degree": 15,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "the-mirage-of-the-infinite-totality",
         "the-scaffolding-we-forget",
@@ -4423,6 +4429,7 @@
         "why-mathematics-can-never-be-solved",
         "the-myth-of-the-four-dimensional-deer-and-the-present-model",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "openness-is-consistency",
         "e-shi-feng-bi-de-shan",
@@ -6204,15 +6211,16 @@
       "slug": "the-digital-god-and-the-horizon-jump",
       "path": "content/posts/the-digital-god-and-the-horizon-jump.md",
       "title": "数字神祇与视界跳跃 / The Digital God and the Horizon Jump",
-      "hash": "97362847c13e",
+      "hash": "0dc8080b8644",
       "in_degree": 12,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "agi-and-asi-are-temporary-goalposts",
         "a-creation-cannot-replace-its-source",
         "intelligence-belongs-only-to-the-mind",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
         "the-boundary-crossing-of-choice",
         "causality-stays-at-the-edge-that-steers",
@@ -6295,13 +6303,14 @@
       "slug": "the-distant-silhouette-and-the-inventory-from-nowhere",
       "path": "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md",
       "title": "远方的轮廓与无处之境的清单 / The Distant Silhouette and the Inventory from Nowhere",
-      "hash": "dc533f257799",
+      "hash": "cf61f9e9c832",
       "in_degree": 11,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "agi-and-asi-are-temporary-goalposts",
         "the-presumption-of-agi-and-the-view-from-outside",
         "intelligence-belongs-only-to-the-mind",
+        "your-codebase-is-memory",
         "the-observational-cut-in-ai-debates",
         "po-chu-gai-nian-de-jian-yue",
         "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
@@ -6502,9 +6511,9 @@
       "slug": "the-flight-analogy-leaves-the-mind-untouched",
       "path": "content/posts/the-flight-analogy-leaves-the-mind-untouched.md",
       "title": "飞行的类比碰不到心智 / The Flight Analogy Leaves the Mind Untouched",
-      "hash": "d82d20d99342",
+      "hash": "5b211b913d03",
       "in_degree": 12,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "the-brain-does-not-backprop",
         "intelligence-belongs-only-to-the-mind",
@@ -6512,6 +6521,7 @@
         "a-creation-cannot-replace-its-source",
         "the-model-never-becomes-a-second-edge",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "complexity-obscures-emergence-as-the-act-of-mind",
         "mistaking-the-expression-for-the-intelligence",
         "two-failures-of-trace",
@@ -7606,9 +7616,9 @@
       "slug": "the-mind-as-vector-and-coordinate-system",
       "path": "content/posts/the-mind-as-vector-and-coordinate-system.md",
       "title": "向量、坐标系与自指心智 / The Mind as Vector and Coordinate System",
-      "hash": "1cc729bed0a9",
+      "hash": "92606376f487",
       "in_degree": 16,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "coordinates-in-flux-negation-and-self-anchoring",
         "coordinate-systems-mind-and-degrees-of-freedom",
@@ -7619,6 +7629,7 @@
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "the-illusion-of-knowing-and-the-geometry-of-amputation",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "the-summary-first-reversal-and-the-command-of-yields",
         "the-name-revolution-files-a-life-as-evidence",
@@ -7879,9 +7890,9 @@
       "slug": "the-non-definitive-definition-of-intelligence",
       "path": "content/posts/the-non-definitive-definition-of-intelligence.md",
       "title": "智能的非定论定义 / The Non-Definitive Definition of Intelligence",
-      "hash": "b77b8bf0bc21",
+      "hash": "d580075b6d35",
       "in_degree": 11,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "you-cant-benchmark-the-fluid",
@@ -7894,6 +7905,7 @@
         "the-scaffolding-we-forget",
         "beyond-the-projection",
         "data-is-local-intelligence-is-allocated",
+        "your-codebase-is-memory",
         "mistaking-the-expression-for-the-intelligence"
       ]
     },
@@ -10115,7 +10127,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 68,
+      "in_degree": 80,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -11917,6 +11929,12 @@
     },
     {
       "from": "agency-relocated-into-the-formal-model",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "agency-relocated-into-the-formal-model",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
       "label": "验证中因果权能的分配"
@@ -11932,6 +11950,12 @@
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "agency-relocated-into-the-formal-model",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "agency-relocated-into-the-formal-model",
@@ -12676,6 +12700,18 @@
       "to": "when-abundance-looks-like-scarcity",
       "rel": "points_to",
       "label": "When Abundance Looks Like Scarcity"
+    },
+    {
+      "from": "better-than-free-after-the-checklist-closes",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "better-than-free-after-the-checklist-closes",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "better-than-free-after-the-checklist-closes",
@@ -13699,6 +13735,12 @@
     },
     {
       "from": "causality-and-the-irreducible-prior",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "causality-and-the-irreducible-prior",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
       "label": "抽象、边界与现实的移动边缘"
@@ -13726,6 +13768,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "causality-and-the-irreducible-prior",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "causality-and-the-irreducible-prior",
@@ -20047,6 +20095,18 @@
     },
     {
       "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "模型永远无法成为第二重前沿"
@@ -22033,9 +22093,21 @@
     },
     {
       "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
@@ -31189,9 +31261,21 @@
     },
     {
       "from": "only-if-it-is-not-kept-empty",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "only-if-it-is-not-kept-empty",
       "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "rel": "points_to",
       "label": "The Real Scarcity Is Not Memory, But Continuous Re-Tracing"
+    },
+    {
+      "from": "only-if-it-is-not-kept-empty",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "only-if-it-is-not-kept-empty",
@@ -34471,6 +34555,12 @@
     },
     {
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "to": "lossless-knowledge-of-an-open-field-is-incoherent",
       "rel": "points_to",
       "label": "开放场域中的无损知识不自洽"
@@ -34498,6 +34588,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
@@ -45037,9 +45133,21 @@
     },
     {
       "from": "the-digital-god-and-the-horizon-jump",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-digital-god-and-the-horizon-jump",
@@ -45535,9 +45643,21 @@
     },
     {
       "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
       "to": "the-observational-cut-in-ai-debates",
       "rel": "points_to",
       "label": "AI 争论中的观察划界"
+    },
+    {
+      "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-distant-silhouette-and-the-inventory-from-nowhere",
@@ -46933,9 +47053,21 @@
     },
     {
       "from": "the-flight-analogy-leaves-the-mind-untouched",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-flight-analogy-leaves-the-mind-untouched",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-flight-analogy-leaves-the-mind-untouched",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-flight-analogy-leaves-the-mind-untouched",
@@ -52807,9 +52939,21 @@
     },
     {
       "from": "the-mind-as-vector-and-coordinate-system",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-mind-as-vector-and-coordinate-system",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-mind-as-vector-and-coordinate-system",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-mind-as-vector-and-coordinate-system",
@@ -54538,6 +54682,18 @@
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
       "label": "Data Is Local, Intelligence Is Allocated"
+    },
+    {
+      "from": "the-non-definitive-definition-of-intelligence",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-non-definitive-definition-of-intelligence",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-non-definitive-definition-of-intelligence",

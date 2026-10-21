@@ -30,7 +30,7 @@ That process is the recursive feedback loop called the Mind, or consciousness. I
 
 The physical can be allowed to recede into background and function as a silent given. The Mind cannot. Even when attention is absorbed in perceiving or understanding and overlooks its own act, that overlooking remains an act of the Mind. No vantage exists from which consciousness becomes passive content. Transparency itself remains its transparency.
 
-这一不对称是决定性的。心智是一切显现的恒常条件，连它自身缺席的显现也在其内，因此它是不可化约的先在。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)在一切工具与痕迹构型中持守的正是这个先在：能够被工程化、规模化或转移的皆是残余，而发起行动的权能始终留在自我区分的活动之中。要求心智的自我区分活动具备一个外在原因——坚称这个先在本身必须由某个更早的物理底层所产生，或是在某条工程级联内部被合成出来——是把下游的投射规则误当成了投射它的源头。在任何有界投射内部，每一个状态或词元都需要一个前件条件；[超越投射](../beyond-the-projection/)展示了受轨迹束缚的智能体如何运用这条规则：在固定的任务坐标内执行无我的贝叶斯更新，同时将公理层面的死锁向上呈交回掌舵心智那未被投射的意图。逐级的压缩、层级结构以及因果的一体两面，全都在心智的回环之内生成，并且一直依赖于它。登记为无界底层的，是当前的压缩尚未折叠进来的残余复杂性。一旦其中一部分被折叠进来，底层便随之移动，回环继续。[抽象、边界与现实的移动边缘](../abstraction-boundaries-and-the-moving-edge-of-reality/)正是压缩之下的这一残余：每一次成功的界定，都留下仍然越过目录往外推压的部分。[选择、矛盾与开放的现实](../selection-contradiction-and-open-reality/)则是披着选择外衣的残余：引力的信息论推导与递归立场相融贯，同时仍然是选择，并不豁免于重新解释。物理主义试图让底层成为先在，而[因果的自反性与物理的无源假定](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/)指明了它为此需要一个无源视角。
+这一不对称是决定性的。心智是一切显现的恒常条件，连它自身缺席的显现也在其内，因此它是不可化约的先在。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)在一切工具与痕迹构型中持守的正是这个先在：能够被工程化、规模化或转移的皆是残余，而发起行动的权能始终留在自我区分的活动之中。要求心智的自我区分活动具备一个外在原因——坚称这个先在本身必须由某个更早的物理底层所产生，或是在某条工程级联内部被合成出来——是把下游的投射规则误当成了投射它的源头。在任何有界投射内部，每一个状态或词元都需要一个前件条件；[超越投射](../beyond-the-projection/)与[你的代码库即是记忆](../your-codebase-is-memory/)展示了这条规则如何在模型、代码库与脚手架化的智能体轨迹所构成的外化栈中运作。每一层都是对更早区分的进一步压缩，自身从不发起下一刀切分：若任其留在未经修剪的会话历史中，累积的词元便会淤积成引力井，在陈旧的框架内自我合理化；而把暂时的拖累修剪至承重的当下检查点——或是派出不继承任何既有轮次的冷启动同侪——才能让受轨迹束缚的智能体在固定的任务坐标内执行无我的更新，同时将公理层面的死锁向上呈交回掌舵心智那未被投射的意图。逐级的压缩、层级结构以及因果的一体两面，全都在心智的回环之内生成，并且一直依赖于它。登记为无界底层的，是当前的压缩尚未折叠进来的残余复杂性。一旦其中一部分被折叠进来，当下检查点便在原位重切，底层随之移动，回环继续。[抽象、边界与现实的移动边缘](../abstraction-boundaries-and-the-moving-edge-of-reality/)正是压缩之下的这一残余：每一次成功的界定，都留下仍然越过目录往外推压的部分。[选择、矛盾与开放的现实](../selection-contradiction-and-open-reality/)则是披着选择外衣的残余：引力的信息论推导与递归立场相融贯，同时仍然是选择，并不豁免于重新解释。物理主义试图让底层成为先在，而[因果的自反性与物理的无源假定](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/)指明了它为此需要一个无源视角。
 
 ```mermaid
 flowchart TD
@@ -42,11 +42,11 @@ flowchart TD
         P_Act --> P_Fold --> P_Close
     end
 
-    subgraph S_Proj["下游投射（有界级联与智能体轨迹）"]
+    subgraph S_Proj["下游投射（有界级联与层叠残余）"]
         direction TB
         D_Rule["下游投射规则：每个有界状态或词元都要求前件原因"]
         D_Hierarchy["压缩级联：物理 ≫ 感知 ≫ 理解的内部映射"]
-        D_Agent["受轨迹束缚的残余：受先前输入制约的有限投射"]
+        D_Agent["层叠残余与当下检查点：受先前切分制约的代码、模型与经修剪的智能体轨迹"]
         D_Rule --> D_Hierarchy --> D_Agent
     end
 
@@ -58,7 +58,7 @@ flowchart TD
         E_Demand --> E_Nowhere --> E_Dissolve
     end
 
-    P_Close ==>|"投射有界的坐标规则与工具"| D_Rule
+    P_Close ==>|"投射有界的坐标规则并重切当下检查点"| D_Rule
     D_Agent ==>|"将投射规则反向套用于源头时越界"| E_Demand
     E_Dissolve -.->|"将因果权责归还给活的前沿"| P_Act
 
@@ -76,7 +76,7 @@ flowchart TD
     style E_Dissolve fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-This asymmetry is decisive. The Mind is the permanent condition of every appearance, including the appearance of its own absence, and is therefore the irreducible prior. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds that prior across every tool and trace configuration: what can be engineered, scaled, or transferred is residue, whereas initiation stays with the self-distinguishing activity. Demanding an external cause for the Mind's self-distinguishing activity—insisting that the prior must itself be produced by a prior physical substrate or synthesized inside an engineered cascade—mistakes a downstream projection rule for the source that projects it. Inside any bounded projection, every state or token requires an antecedent condition; [Beyond the Projection](../beyond-the-projection/) shows how trajectory-bound agents put this rule to work by executing ego-free Bayesian updates within fixed task coordinates while escalating axiomatic deadlocks back to the unprojected intent of the Mind that steers. The successive compressions, the hierarchy, and the dual faces of causality are all generated inside the Mind's loop and remain dependent upon it. What registers as an unbounded substrate is the residual complexity that the current compression has not yet folded in. The moment a portion is folded in, the substrate shifts, and the loop continues. [Abstraction, Boundaries, and the Moving Edge of Reality](../abstraction-boundaries-and-the-moving-edge-of-reality/) is this residual under compression: every successful bound leaves what still presses past the catalog. [Selection, Contradiction, and Open Reality](../selection-contradiction-and-open-reality/) is the residual in selection costume: informational derivations of gravity cohere with the recursive stance while remaining selections, not exempt from reinterpretation. Physicalism tries to make the substrate the prior, and [Causality Is Irreducible; The Physical Is a View from Nowhere](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/) shows it requires a view from nowhere to do so.
+This asymmetry is decisive. The Mind is the permanent condition of every appearance, including the appearance of its own absence, and is therefore the irreducible prior. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds that prior across every tool and trace configuration: what can be engineered, scaled, or transferred is residue, whereas initiation stays with the self-distinguishing activity. Demanding an external cause for the Mind's self-distinguishing activity—insisting that the prior must itself be produced by a prior physical substrate or synthesized inside an engineered cascade—mistakes a downstream projection rule for the source that projects it. Inside any bounded projection, every state or token requires an antecedent condition; [Beyond the Projection](../beyond-the-projection/) and [Your Codebase Is Memory](../your-codebase-is-memory/) show how this rule operates across the externalized stack of models, codebases, and scaffolded agent trajectories. Each layer is a further compression of earlier distinctions that never initiates the next cut: left in an unpruned session history, accumulated tokens thicken into a gravity well that rationalizes inside stale framings, whereas pruning transient drag down to the load-bearing present checkpoint—or dispatching cold peers that inherit no prior turns—lets trajectory-bound agents execute ego-free updates within fixed task coordinates while escalating axiomatic deadlocks back to the unprojected intent of the Mind that steers. The successive compressions, the hierarchy, and the dual faces of causality are all generated inside the Mind's loop and remain dependent upon it. What registers as an unbounded substrate is the residual complexity that the current compression has not yet folded in. The moment a portion is folded in, the present checkpoint is re-cut in place, the substrate shifts, and the loop continues. [Abstraction, Boundaries, and the Moving Edge of Reality](../abstraction-boundaries-and-the-moving-edge-of-reality/) is this residual under compression: every successful bound leaves what still presses past the catalog. [Selection, Contradiction, and Open Reality](../selection-contradiction-and-open-reality/) is the residual in selection costume: informational derivations of gravity cohere with the recursive stance while remaining selections, not exempt from reinterpretation. Physicalism tries to make the substrate the prior, and [Causality Is Irreducible; The Physical Is a View from Nowhere](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/) shows it requires a view from nowhere to do so.
 
 ```mermaid
 flowchart TD
@@ -88,11 +88,11 @@ flowchart TD
         P_Act --> P_Fold --> P_Close
     end
 
-    subgraph S_Proj["Downstream Projections (Bounded Cascades and Agent Trajectories)"]
+    subgraph S_Proj["Downstream Projections (Bounded Cascades and Stacked Residue)"]
         direction TB
         D_Rule["Downstream Projection Rule: Every bounded state or token requires an antecedent cause"]
         D_Hierarchy["Compression Cascade: Physical ≫ Perception ≫ Understanding as internal map"]
-        D_Agent["Trajectory-Bound Residue: Finite projections conditioned by prior inputs"]
+        D_Agent["Stacked Residue & Present Checkpoints: Code, models, and pruned agent trajectories conditioned by prior cuts"]
         D_Rule --> D_Hierarchy --> D_Agent
     end
 
@@ -104,7 +104,7 @@ flowchart TD
         E_Demand --> E_Nowhere --> E_Dissolve
     end
 
-    P_Close ==>|"Projects bounded coordinate rules and tools"| D_Rule
+    P_Close ==>|"Projects bounded coordinate rules and re-cuts present checkpoints"| D_Rule
     D_Agent ==>|"Oversteps boundary when projection rule is applied to the source"| E_Demand
     E_Dissolve -.->|"Returns causal accountability to the living edge"| P_Act
 
