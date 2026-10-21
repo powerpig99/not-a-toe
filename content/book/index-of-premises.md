@@ -4085,7 +4085,7 @@ The expectation is that material abundance will quiet zero-sum contest, and when
 
 Statism assumes legislation magically guarantees institutional safety; regulations remain informational text until living minds enact compliance through shared belief.
 
-→ [Sovereignty, Belief, and the Generation of Regulatory Structures](../../posts/sovereignty-belief-and-regulatory-structures/)
+→ [主权、信念与规制结构的生成 / Sovereignty, Belief, and the Generation of Regulatory Structures](../../posts/sovereignty-belief-and-regulatory-structures/)
 
 ### 管制作为非对称隐性税 / Regulatory Prohibition as Asymmetric Tax
 `经济 / Economic`

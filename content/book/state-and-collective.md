@@ -18,7 +18,7 @@ The essays here examine the cruelty of utopian visions, the machinery of war, an
 - [Reality Doesn't Invoice by Committee](../../posts/reality-doesnt-invoice-by-committee/)
 - [Conscience, Delegation, and the Jurisdiction Error](../../posts/conscience-power-delegation/)
 - [The Question That Installs the War](../../posts/the-question-that-installs-the-war/)
-- [Sovereignty, Belief, and the Generation of Regulatory Structures](../../posts/sovereignty-belief-and-regulatory-structures/)
+- [主权、信念与规制结构的生成 / Sovereignty, Belief, and the Generation of Regulatory Structures](../../posts/sovereignty-belief-and-regulatory-structures/)
 - [起作用的是信念 / What Works Is the Belief](../../posts/what-works-is-the-belief/)
 - [协调者的范畴错误 / The Coordinator's Category Error](../../posts/the-coordinators-category-error/)
 - [封闭竞技场中的开放视野 / Open Vision in a Closed Arena](../../posts/open-vision-in-a-closed-arena/)

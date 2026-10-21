@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T03:38:52.786Z",
+    "generated_at": "2026-10-21T03:54:17.366Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -40,7 +40,7 @@
       "content/posts/claudes-constitution-analysis.md": "86f612b426ea",
       "content/posts/cli-interface-stack.md": "94c6289d7bf9",
       "content/posts/climbing-does-not-leave-the-ground.md": "15acabf3533a",
-      "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "8bce8e0d1c10",
+      "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "5170d4a4c57a",
       "content/posts/closed-reality-in-benchmark-maxing.md": "30f8e4a72b5e",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "989e5f110b45",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "a99435a82fbe",
@@ -74,11 +74,11 @@
       "content/posts/everything-is-changing-as-always.md": "ca4cfca65d7c",
       "content/posts/evil-as-projected-resistance.md": "acd5f06bc9da",
       "content/posts/evil-as-the-minds-own-creation.md": "d2930c115810",
-      "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "0e71949f226c",
+      "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "8b82853392d4",
       "content/posts/expertise-as-reference-not-replacement.md": "8e148681a086",
       "content/posts/extended-cognition-refined.md": "629878bd2e31",
       "content/posts/extension-and-shift.md": "dfa0a09b9b5a",
-      "content/posts/externalized-virtue-becomes-its-opposite.md": "071a0ff47fd2",
+      "content/posts/externalized-virtue-becomes-its-opposite.md": "d465dbb1da43",
       "content/posts/failure-as-information.md": "12f99bcf0075",
       "content/posts/fate-loves-irony-refined.md": "b81c7f96dfd5",
       "content/posts/felt-resistance-and-the-speed-differential.md": "067a958b2103",
@@ -100,13 +100,13 @@
       "content/posts/hassabis-frontier-agi-premise.md": "5c4fc62c8e77",
       "content/posts/having-more-is-never-the-cause.md": "cf6fb47f5653",
       "content/posts/help-is-half-the-problem.md": "f9e3b1859fbc",
-      "content/posts/hierarchy-from-individual-difference.md": "2009502f8f3d",
+      "content/posts/hierarchy-from-individual-difference.md": "69e9c1301745",
       "content/posts/how-belief-actually-changes.md": "69035a97e94a",
       "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "9c200c5c4e2a",
       "content/posts/huberman-winners-losers.md": "5322cfc13553",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "ac28f43f0e59",
       "content/posts/immortality-final.md": "df5d92452896",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "73394d411e94",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "35b065ab09af",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "425497acb31b",
       "content/posts/intelligence-crisis-response.md": "8b52c36028b8",
       "content/posts/intelligence-folding-back-on-itself.md": "5ce8b84ddfd0",
@@ -118,7 +118,7 @@
       "content/posts/manifesto-of-not-a-theory-of-everything.md": "218bcf935275",
       "content/posts/math-as-a-career-is-not-math-as-a-pursuit.md": "295f0ae6bd95",
       "content/posts/meaning-of-life-refined.md": "2157fd1da622",
-      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "110a7602de71",
+      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "02c235243d39",
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "57fc51f7e01d",
       "content/posts/minimizing-path.md": "d8f66e82c6d0",
       "content/posts/mises-state-analysis.md": "2a385ffa4bce",
@@ -158,7 +158,7 @@
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "c7ac0530aeff",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "9eed356d140c",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "df89e1c033a5",
-      "content/posts/preference-clusters-and-the-language-of-judgment.md": "ba92992e9c52",
+      "content/posts/preference-clusters-and-the-language-of-judgment.md": "388594883a11",
       "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "d87ddb2eef07",
       "content/posts/price-as-utterance-understanding-as-trade.md": "9bd86071eefb",
       "content/posts/production-consumption-and-the-minds-distinction.md": "69300d4d47c5",
@@ -184,14 +184,14 @@
       "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "c742acb86d86",
       "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "bd2dd458c408",
       "content/posts/simplicity-ultimate-sophistication.md": "243d6f919997",
-      "content/posts/sovereignty-belief-and-regulatory-structures.md": "068bebe4646a",
+      "content/posts/sovereignty-belief-and-regulatory-structures.md": "2a91f58a7d13",
       "content/posts/sovereignty-essay.md": "10d294546a2a",
       "content/posts/sowell-observed-the-surface-problem.md": "5dbc958d7157",
       "content/posts/stability-and-excess.md": "be1572ece751",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "a5ed80a2c8d3",
       "content/posts/subtracting-consciousness-at-the-source.md": "df1242fc6ba9",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "a78981c24425",
-      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "8def0ea22390",
+      "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "5f0985544543",
       "content/posts/technology-is-residual-of-human-compounding.md": "1576031b77f7",
       "content/posts/the-allocation-of-causal-power-in-validation.md": "5a0728cdace1",
       "content/posts/the-arithmetic-of-the-register.md": "86f3d0b75926",
@@ -314,7 +314,7 @@
       "content/posts/the-other-coherence.md": "5975542f4901",
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "431ce25c2506",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "cd35b5f1ec11",
-      "content/posts/the-path-drawn-one-step-at-a-time.md": "e6f9de62ab2f",
+      "content/posts/the-path-drawn-one-step-at-a-time.md": "48c1bddc846f",
       "content/posts/the-perceiver-and-the-trace.md": "78c29d040a22",
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "d85a0ec01465",
       "content/posts/the-power-law-of-surrendered-agency.md": "390d27c147c5",
@@ -336,7 +336,7 @@
       "content/posts/the-reversal-of-education-and-science.md": "d9695fb75dbc",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "1d26d6542cba",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "e4da611b6c1d",
-      "content/posts/the-scaffolding-that-keeps-growing.md": "0270bdbc7b9a",
+      "content/posts/the-scaffolding-that-keeps-growing.md": "8fddf91966e8",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "728ed78cb1f9",
       "content/posts/the-scaffolding-we-forget.md": "dcb1dbc7b64f",
       "content/posts/the-scaling-loop.md": "01f561084635",
@@ -382,7 +382,7 @@
       "content/posts/what-cannot-be-kept.md": "eb22bc2ed47d",
       "content/posts/what-hinton-failed-to-understand.md": "7f93097607b5",
       "content/posts/what-information-is.md": "db25cf6703e1",
-      "content/posts/what-works-is-the-belief.md": "ffaf3ba6158a",
+      "content/posts/what-works-is-the-belief.md": "38b7c3f217e1",
       "content/posts/whatever-is-one-prompt-away.md": "2a70052b8308",
       "content/posts/when-abundance-looks-like-scarcity.md": "c3c272357465",
       "content/posts/when-electrons-think.md": "fbdd3178e8f3",
@@ -408,7 +408,7 @@
       "content/book/causality.md": "c5ac49c16705",
       "content/book/consciousness.md": "d8595aa6097d",
       "content/book/economics.md": "c863f3bd1a44",
-      "content/book/index-of-premises.md": "eca9465991e2",
+      "content/book/index-of-premises.md": "f4dad54c1319",
       "content/book/intelligence.md": "8530f0e466c0",
       "content/book/knowledge-and-learning.md": "8aaf853cf833",
       "content/book/life-and-statistics.md": "903bd0f56d99",
@@ -418,16 +418,16 @@
       "content/book/morality.md": "166522199e9e",
       "content/book/physics.md": "26d82e9eb69f",
       "content/book/preface.md": "d0065384016a",
-      "content/book/state-and-collective.md": "0520232eef96",
+      "content/book/state-and-collective.md": "1ea11f39eeca",
       "content/book/success-and-the-self.md": "9790413b85f6",
       "content/book/tools-and-progress.md": "bc3d12468c14"
     },
     "stats": {
       "posts": 397,
-      "edges": 9898,
-      "unique_directed": 4945,
+      "edges": 9949,
+      "unique_directed": 4957,
       "missing_targets": 0,
-      "one_way": 443,
+      "one_way": 455,
       "isolated": 35,
       "posts_with_outbound": 361,
       "book_pages": 16,
@@ -442,7 +442,7 @@
     },
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 104
+      "in_degree": 116
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -520,7 +520,7 @@
   "hubs_out": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 98
+      "out_degree": 99
     },
     {
       "slug": "openness-is-consistency",
@@ -548,7 +548,7 @@
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
-      "out_degree": 44
+      "out_degree": 45
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
@@ -583,15 +583,15 @@
       "out_degree": 33
     },
     {
+      "slug": "symptom-and-cause-in-the-narratives-of-progress",
+      "out_degree": 33
+    },
+    {
       "slug": "clarity-isnt-a-state-you-arrive-at",
       "out_degree": 32
     },
     {
       "slug": "complexity-obscures-emergence-as-the-act-of-mind",
-      "out_degree": 32
-    },
-    {
-      "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "out_degree": 32
     },
     {
@@ -1466,9 +1466,9 @@
       "slug": "closed-assumptions-squeeze-compounding-into-s-curves",
       "path": "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md",
       "title": "封闭的假设把复利挤成 S 曲线 / Closed Assumptions Squeeze Compounding into S-Curves",
-      "hash": "8bce8e0d1c10",
+      "hash": "5170d4a4c57a",
       "in_degree": 26,
-      "out_degree": 27,
+      "out_degree": 28,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "no-system-can-be-kept-closed",
@@ -1485,6 +1485,7 @@
         "the-utility-men-of-progress",
         "beyond-the-projection",
         "the-scaffolding-that-keeps-growing",
+        "your-codebase-is-memory",
         "symptom-and-cause-in-the-narratives-of-progress",
         "why-mathematics-can-never-be-solved",
         "curiosity-has-no-final-form",
@@ -2276,9 +2277,9 @@
       "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "path": "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md",
       "title": "卓异、感知与自我设限的问题场域 / Exceptionality, Perception, and the Self-Limiting Field of Problems",
-      "hash": "0e71949f226c",
+      "hash": "8b82853392d4",
       "in_degree": 25,
-      "out_degree": 26,
+      "out_degree": 27,
       "links_out": [
         "causality-all-the-way",
         "causality-stays-at-the-edge-that-steers",
@@ -2296,6 +2297,7 @@
         "when-the-effect-authors-the-frame",
         "externalized-virtue-becomes-its-opposite",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "empowerment-establishes-the-centralization-of-power",
         "preference-clusters-and-the-language-of-judgment",
         "the-climate-problem-registers-only-as-perception",
@@ -2371,9 +2373,9 @@
       "slug": "externalized-virtue-becomes-its-opposite",
       "path": "content/posts/externalized-virtue-becomes-its-opposite.md",
       "title": "外化善意走向其反面 / Externalized Virtue Becomes Its Opposite",
-      "hash": "071a0ff47fd2",
+      "hash": "d465dbb1da43",
       "in_degree": 26,
-      "out_degree": 27,
+      "out_degree": 28,
       "links_out": [
         "evil-as-the-minds-own-creation",
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
@@ -2383,6 +2385,7 @@
         "individual-choices-as-the-only-causal-levers",
         "how-belief-actually-changes",
         "preference-clusters-and-the-language-of-judgment",
+        "your-codebase-is-memory",
         "the-question-that-installs-the-war",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "sovereignty-belief-and-regulatory-structures",
@@ -2829,9 +2832,9 @@
       "slug": "hierarchy-from-individual-difference",
       "path": "content/posts/hierarchy-from-individual-difference.md",
       "title": "来自个体差异的层级 / Hierarchy from Individual Difference",
-      "hash": "2009502f8f3d",
+      "hash": "69e9c1301745",
       "in_degree": 30,
-      "out_degree": 29,
+      "out_degree": 30,
       "links_out": [
         "the-generative-contradiction",
         "data-is-local-intelligence-is-allocated",
@@ -2851,6 +2854,7 @@
         "the-myth-of-population-collapse-explained",
         "the-fixed-image-of-transcendence",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
+        "your-codebase-is-memory",
         "symptom-and-cause-in-the-narratives-of-progress",
         "the-allocation-of-causal-power-in-validation",
         "preference-clusters-and-the-language-of-judgment",
@@ -2967,9 +2971,9 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers",
-      "hash": "73394d411e94",
+      "hash": "35b065ab09af",
       "in_degree": 101,
-      "out_degree": 98,
+      "out_degree": 99,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
         "studying-the-effect-of-ai-relocates-causality",
@@ -2979,6 +2983,7 @@
         "dimensions-are-projections",
         "the-vector-and-the-puzzle-of-projections",
         "what-information-is",
+        "your-codebase-is-memory",
         "not-predicting-is-predicting-without-awareness",
         "deceleration-is-the-drag-felt-when-accelerating",
         "felt-resistance-and-the-speed-differential",
@@ -3388,9 +3393,9 @@
       "slug": "mei-you-pu-du-zhi-you-zi-du",
       "path": "content/posts/mei-you-pu-du-zhi-you-zi-du.md",
       "title": "没有普渡，只有自渡的无限可能 / No Universal Salvation, Only Boundless Possibilities of Self-Salvation",
-      "hash": "110a7602de71",
+      "hash": "02c235243d39",
       "in_degree": 43,
-      "out_degree": 44,
+      "out_degree": 45,
       "links_out": [
         "when-the-effect-authors-the-frame",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
@@ -3435,7 +3440,8 @@
         "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
         "causality-stays-at-the-edge-that-steers",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
-        "beyond-the-projection"
+        "beyond-the-projection",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -4467,9 +4473,9 @@
       "slug": "preference-clusters-and-the-language-of-judgment",
       "path": "content/posts/preference-clusters-and-the-language-of-judgment.md",
       "title": "偏好聚类与评判语言 / Preference Clusters and the Language of Judgment",
-      "hash": "ba92992e9c52",
+      "hash": "388594883a11",
       "in_degree": 25,
-      "out_degree": 25,
+      "out_degree": 26,
       "links_out": [
         "the-source-of-shared-change",
         "shared-humanity-is-never-shared",
@@ -4484,6 +4490,7 @@
         "data-is-local-intelligence-is-allocated",
         "expertise-as-reference-not-replacement",
         "the-reversal-from-defensible-claim-to-dogma",
+        "your-codebase-is-memory",
         "mei-you-pu-du-zhi-you-zi-du",
         "externalized-virtue-becomes-its-opposite",
         "moral-language-dilutes-the-feedback-that-scales-freedom",
@@ -5102,15 +5109,16 @@
       "kind": "post",
       "slug": "sovereignty-belief-and-regulatory-structures",
       "path": "content/posts/sovereignty-belief-and-regulatory-structures.md",
-      "title": "Sovereignty, Belief, and the Generation of Regulatory Structures",
-      "hash": "068bebe4646a",
+      "title": "主权、信念与规制结构的生成 / Sovereignty, Belief, and the Generation of Regulatory Structures",
+      "hash": "2a91f58a7d13",
       "in_degree": 27,
-      "out_degree": 27,
+      "out_degree": 28,
       "links_out": [
         "hassabis-frontier-agi-premise",
         "the-knowledge-problem-and-the-illusion-of-delegation",
         "what-always-listens-cannot-originate",
         "the-name-revolution-files-a-life-as-evidence",
+        "your-codebase-is-memory",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "the-average-is-residue-not-the-engine",
         "symptom-and-cause-in-the-narratives-of-progress",
@@ -5268,9 +5276,9 @@
       "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "path": "content/posts/symptom-and-cause-in-the-narratives-of-progress.md",
       "title": "进步叙事中的症候与原因 / Symptom and Cause in the Narratives of Progress",
-      "hash": "8def0ea22390",
+      "hash": "5f0985544543",
       "in_degree": 32,
-      "out_degree": 32,
+      "out_degree": 33,
       "links_out": [
         "when-the-effect-authors-the-frame",
         "individual-choices-as-the-only-causal-levers",
@@ -5301,6 +5309,7 @@
         "having-more-is-never-the-cause",
         "the-reality-distortion-field-names-the-closed-map",
         "the-reality-distortion-field-inverts-the-baseline",
+        "your-codebase-is-memory",
         "the-source-of-shared-change",
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "felt-resistance-and-the-speed-differential"
@@ -8102,15 +8111,16 @@
       "slug": "the-path-drawn-one-step-at-a-time",
       "path": "content/posts/the-path-drawn-one-step-at-a-time.md",
       "title": "一步一步绘制出的路径 / The Path Drawn One Step at a Time",
-      "hash": "e6f9de62ab2f",
+      "hash": "48c1bddc846f",
       "in_degree": 24,
-      "out_degree": 25,
+      "out_degree": 26,
       "links_out": [
         "closed-reality-in-the-pursuit-of-serendipity",
         "production-consumption-and-the-minds-distinction",
         "performative-hindsight-that-pretends-to-be-foresight",
         "the-paradoxical-nature-of-bystander-insights",
         "zuo-jian-bu-shi-zi-fu",
+        "your-codebase-is-memory",
         "the-meaning-of-life-is-in-the-drafting",
         "the-scaffolding-we-forget",
         "evil-as-the-minds-own-creation",
@@ -8671,9 +8681,9 @@
       "slug": "the-scaffolding-that-keeps-growing",
       "path": "content/posts/the-scaffolding-that-keeps-growing.md",
       "title": "持续生长的脚手架 / The Scaffolding That Keeps Growing",
-      "hash": "0270bdbc7b9a",
+      "hash": "8fddf91966e8",
       "in_degree": 25,
-      "out_degree": 26,
+      "out_degree": 27,
       "links_out": [
         "openness-is-consistency",
         "the-scaffolding-we-forget",
@@ -8687,6 +8697,7 @@
         "agi-and-asi-are-temporary-goalposts",
         "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "why-mathematics-can-never-be-solved",
         "deceleration-is-the-drag-felt-when-accelerating",
         "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
@@ -9766,9 +9777,9 @@
       "slug": "what-works-is-the-belief",
       "path": "content/posts/what-works-is-the-belief.md",
       "title": "起作用的是信念 / What Works Is the Belief",
-      "hash": "ffaf3ba6158a",
+      "hash": "38b7c3f217e1",
       "in_degree": 26,
-      "out_degree": 27,
+      "out_degree": 28,
       "links_out": [
         "sovereignty-belief-and-regulatory-structures",
         "the-strongest-belief-of-the-mind",
@@ -9781,6 +9792,7 @@
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
         "beyond-the-projection",
+        "your-codebase-is-memory",
         "the-real-lesson-from-the-consciousness-vector-paper",
         "restriction-is-a-selective-tax",
         "the-risk-you-delegate-is-the-risk-you-create",
@@ -10150,7 +10162,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 104,
+      "in_degree": 116,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -15871,6 +15883,12 @@
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "代码库即记忆"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
       "label": "进步叙事中的症候与原因"
@@ -15898,6 +15916,12 @@
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
       "label": "The Scaffolding That Keeps Growing"
+    },
+    {
+      "from": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
@@ -20767,6 +20791,12 @@
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "代码库即记忆"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
@@ -20776,6 +20806,12 @@
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
       "label": "Causality Stays at the Edge That Steers"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
@@ -21271,6 +21307,12 @@
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "代码库即记忆"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
       "to": "how-belief-actually-changes",
       "rel": "points_to",
       "label": "How Belief Actually Changes"
@@ -21280,6 +21322,12 @@
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
       "label": "Preference Clusters and the Language of Judgment"
+    },
+    {
+      "from": "externalized-virtue-becomes-its-opposite",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
@@ -23659,6 +23707,12 @@
     },
     {
       "from": "hierarchy-from-individual-difference",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "代码库即记忆"
+    },
+    {
+      "from": "hierarchy-from-individual-difference",
       "to": "the-fixed-image-of-transcendence",
       "rel": "points_to",
       "label": "The Fixed Image of Transcendence"
@@ -23668,6 +23722,12 @@
       "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "rel": "points_to",
       "label": "Curiosity First: The Hidden Engine of Talent and Development"
+    },
+    {
+      "from": "hierarchy-from-individual-difference",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "hierarchy-from-individual-difference",
@@ -24349,6 +24409,12 @@
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "代码库即记忆"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
       "to": "not-predicting-is-predicting-without-awareness",
       "rel": "points_to",
       "label": "不预测是没有觉察的预测"
@@ -24364,6 +24430,12 @@
       "to": "felt-resistance-and-the-speed-differential",
       "rel": "points_to",
       "label": "阻力体感与速率差"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -28069,6 +28141,12 @@
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "代码库即记忆"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "the-belief-in-utopia-is-the-path-to-dystopia",
       "rel": "points_to",
       "label": "The Belief in Utopia Is the Path to Dystopia"
@@ -28126,6 +28204,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "mei-you-pu-du-zhi-you-zi-du",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "mi-lv-shi-jie-guo-de-biao-xiang",
@@ -34939,6 +35023,12 @@
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "代码库即记忆"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
       "label": "Data Is Local; Intelligence Is Allocated"
@@ -34954,6 +35044,12 @@
       "to": "the-reversal-from-defensible-claim-to-dogma",
       "rel": "points_to",
       "label": "The Reversal from Defensible Claim to Dogma"
+    },
+    {
+      "from": "preference-clusters-and-the-language-of-judgment",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
@@ -38745,7 +38841,25 @@
       "from": "sovereignty-belief-and-regulatory-structures",
       "to": "hassabis-frontier-agi-premise",
       "rel": "points_to",
+      "label": "并不存在的目录"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "hassabis-frontier-agi-premise",
+      "rel": "points_to",
       "label": "The catalog that isn’t there"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "rel": "points_to",
+      "label": "知识问题与委托的幻觉"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "总在倾听者无法发起"
     },
     {
       "from": "sovereignty-belief-and-regulatory-structures",
@@ -38763,7 +38877,43 @@
       "from": "sovereignty-belief-and-regulatory-structures",
       "to": "the-name-revolution-files-a-life-as-evidence",
       "rel": "points_to",
+      "label": "革命之名把生活收成证据"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "the-name-revolution-files-a-life-as-evidence",
+      "rel": "points_to",
       "label": "The name revolution files a life as evidence"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "代码库即记忆"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "卓异、感知与自我设限的问题场域"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "平均值是残余，不是引擎"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "进步叙事中的症候与原因"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "sovereignty-belief-and-regulatory-structures",
@@ -38782,6 +38932,30 @@
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
       "label": "Symptom and Cause in the Narratives of Progress"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "empowerment-establishes-the-centralization-of-power",
+      "rel": "points_to",
+      "label": "赋权确立权力的集中"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "recursive-contradiction-of-entrusted-morality",
+      "rel": "points_to",
+      "label": "托付道德的自指悖论"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "the-risk-you-delegate-is-the-risk-you-create",
+      "rel": "points_to",
+      "label": "你委托的风险就是你创造的风险"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "sovereignty-essay",
+      "rel": "points_to",
+      "label": "臣服作为错位的主权"
     },
     {
       "from": "sovereignty-belief-and-regulatory-structures",
@@ -38811,7 +38985,43 @@
       "from": "sovereignty-belief-and-regulatory-structures",
       "to": "what-works-is-the-belief",
       "rel": "points_to",
+      "label": "起作用的是信念"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
       "label": "What Works Is the Belief"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "风险在于对监管本身的迷信"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "限制是选择性的税"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "公共支出不创造资本"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "政客是责任扩散的显性症状"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "freedom-as-ground",
+      "rel": "points_to",
+      "label": "自由即地基"
     },
     {
       "from": "sovereignty-belief-and-regulatory-structures",
@@ -38842,6 +39052,48 @@
       "to": "freedom-as-ground",
       "rel": "points_to",
       "label": "Freedom as Ground"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "shared-humanity-is-never-shared",
+      "rel": "points_to",
+      "label": "共同的人性从不共享"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+      "rel": "points_to",
+      "label": "要求他人开放是对自我封闭的渴望"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "hardware-locality-is-not-the-information-boundary",
+      "rel": "points_to",
+      "label": "硬件的本地性不是信息的边界"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "externalized-virtue-becomes-its-opposite",
+      "rel": "points_to",
+      "label": "外化善意走向其反面"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "the-belief-in-utopia-is-the-path-to-dystopia",
+      "rel": "points_to",
+      "label": "对乌托邦的信念是通往反乌托邦之路"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "the-source-of-all-harm",
+      "rel": "points_to",
+      "label": "一切伤害的根源"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "sovereignty-belief-and-regulatory-structures",
@@ -38884,6 +39136,24 @@
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "the-rational-choice-postulate-is-the-original-sin",
+      "rel": "points_to",
+      "label": "理性选择公设是原罪"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "剩余个人主义"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "moral-language-as-projection",
+      "rel": "points_to",
+      "label": "道德语言作为投影"
     },
     {
       "from": "sovereignty-belief-and-regulatory-structures",
@@ -39895,6 +40165,12 @@
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "代码库即记忆"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
       "to": "the-source-of-shared-change",
       "rel": "points_to",
       "label": "共同改变的本源"
@@ -39910,6 +40186,12 @@
       "to": "felt-resistance-and-the-speed-differential",
       "rel": "points_to",
       "label": "阻力体感与速率差"
+    },
+    {
+      "from": "symptom-and-cause-in-the-narratives-of-progress",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "symptom-and-cause-in-the-narratives-of-progress",
@@ -55915,6 +56197,12 @@
     },
     {
       "from": "the-path-drawn-one-step-at-a-time",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "代码库即记忆"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
       "label": "生命的意义在起草之中"
@@ -55930,6 +56218,12 @@
       "to": "zuo-jian-bu-shi-zi-fu",
       "rel": "points_to",
       "label": "Spinning a Cocoon Is Not Binding Oneself"
+    },
+    {
+      "from": "the-path-drawn-one-step-at-a-time",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-path-drawn-one-step-at-a-time",
@@ -59683,6 +59977,12 @@
     },
     {
       "from": "the-scaffolding-that-keeps-growing",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "代码库即记忆"
+    },
+    {
+      "from": "the-scaffolding-that-keeps-growing",
       "to": "why-mathematics-can-never-be-solved",
       "rel": "points_to",
       "label": "为何数学永远解不完"
@@ -59698,6 +59998,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-scaffolding-that-keeps-growing",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-scaffolding-that-keeps-growing",
@@ -66745,6 +67051,12 @@
     },
     {
       "from": "what-works-is-the-belief",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "代码库即记忆"
+    },
+    {
+      "from": "what-works-is-the-belief",
       "to": "the-real-lesson-from-the-consciousness-vector-paper",
       "rel": "points_to",
       "label": "意识向量论文的真正教训"
@@ -66754,6 +67066,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "what-works-is-the-belief",
@@ -69737,7 +70055,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "eca9465991e2",
+        "hash": "f4dad54c1319",
         "out_degree": 397
       },
       {
@@ -69827,7 +70145,7 @@
         "slug": "state-and-collective",
         "path": "content/book/state-and-collective.md",
         "title": "国家集体与权力的镜像 / The State, Collectives, and the Mirror of Power",
-        "hash": "0520232eef96",
+        "hash": "1ea11f39eeca",
         "out_degree": 30
       },
       {
@@ -73772,7 +74090,7 @@
         "from": "book:index-of-premises",
         "to": "sovereignty-belief-and-regulatory-structures",
         "rel": "collects",
-        "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
+        "label": "主权、信念与规制结构的生成 / Sovereignty, Belief, and the Generation of Regulatory Structures"
       },
       {
         "from": "book:index-of-premises",
@@ -75932,7 +76250,7 @@
         "from": "book:state-and-collective",
         "to": "sovereignty-belief-and-regulatory-structures",
         "rel": "collects",
-        "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
+        "label": "主权、信念与规制结构的生成 / Sovereignty, Belief, and the Generation of Regulatory Structures"
       },
       {
         "from": "book:state-and-collective",
