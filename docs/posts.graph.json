@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T16:31:20.697Z",
+    "generated_at": "2026-10-21T17:30:35.788Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -140,6 +140,7 @@
       "content/posts/not-predicting-is-predicting-without-awareness.md": "750dd47f6c5b",
       "content/posts/objects-are-stabilized-relationships.md": "01d114dde3a7",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "e155f3d0f778",
+      "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "84245e24b0d3",
       "content/posts/on-education.md": "99c1e2f8be6e",
       "content/posts/one-cannot-escape-ones-own-mind.md": "474dad0e12f2",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "b68e2cc6fd51",
@@ -410,7 +411,7 @@
       "content/book/causality.md": "51d6cd58236e",
       "content/book/consciousness.md": "07e90c9d3d1f",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "b7dca1d55ca6",
+      "content/book/index-of-premises.md": "491c9944d67b",
       "content/book/intelligence.md": "ac860f2bf532",
       "content/book/knowledge-and-learning.md": "d16cb66708a8",
       "content/book/life-and-statistics.md": "0caf97231862",
@@ -422,29 +423,29 @@
       "content/book/preface.md": "d0065384016a",
       "content/book/state-and-collective.md": "850b9e9e6f63",
       "content/book/success-and-the-self.md": "1a52a0e106a1",
-      "content/book/tools-and-progress.md": "f21d7d182f8e"
+      "content/book/tools-and-progress.md": "3c83ca627cc4"
     },
     "stats": {
-      "posts": 399,
-      "edges": 10988,
-      "unique_directed": 5391,
+      "posts": 400,
+      "edges": 11000,
+      "unique_directed": 5396,
       "missing_targets": 0,
-      "one_way": 823,
+      "one_way": 828,
       "isolated": 0,
-      "posts_with_outbound": 399,
+      "posts_with_outbound": 400,
       "book_pages": 16,
-      "book_edges": 1111,
-      "posts_reached_by_book": 399
+      "book_edges": 1117,
+      "posts_reached_by_book": 400
     }
   },
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 397
+      "in_degree": 398
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 195
+      "in_degree": 196
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -503,15 +504,15 @@
       "in_degree": 34
     },
     {
+      "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "in_degree": 34
+    },
+    {
       "slug": "a-creation-cannot-replace-its-source",
       "in_degree": 33
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
-      "in_degree": 33
-    },
-    {
-      "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "in_degree": 33
     },
     {
@@ -1076,7 +1077,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "77fe2468ff0d",
-      "in_degree": 195,
+      "in_degree": 196,
       "out_degree": 16,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -4081,6 +4082,23 @@
       ]
     },
     {
+      "id": "post:on-demand-contexts-keep-coherence-at-one-step",
+      "kind": "post",
+      "slug": "on-demand-contexts-keep-coherence-at-one-step",
+      "path": "content/posts/on-demand-contexts-keep-coherence-at-one-step.md",
+      "title": "按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step",
+      "hash": "84245e24b0d3",
+      "in_degree": 0,
+      "out_degree": 5,
+      "links_out": [
+        "your-codebase-is-memory",
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "what-always-listens-cannot-originate",
+        "beyond-the-projection",
+        "the-comment-is-not-the-code"
+      ]
+    },
+    {
       "id": "post:on-education",
       "kind": "post",
       "slug": "on-education",
@@ -6302,7 +6320,7 @@
       "path": "content/posts/the-comment-is-not-the-code.md",
       "title": "注释不是代码 / The Comment Is Not the Code",
       "hash": "b81fc5a01b5a",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 8,
       "links_out": [
         "your-codebase-is-memory",
@@ -6455,7 +6473,7 @@
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences",
       "hash": "611d8684bdd6",
-      "in_degree": 33,
+      "in_degree": 34,
       "out_degree": 30,
       "links_out": [
         "the-summary-first-reversal-and-the-command-of-yields",
@@ -10111,7 +10129,7 @@
       "path": "content/posts/what-always-listens-cannot-originate.md",
       "title": "总在倾听者无法发起 / What Always Listens Cannot Originate",
       "hash": "74d4cf0a4058",
-      "in_degree": 27,
+      "in_degree": 28,
       "out_degree": 29,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -10616,7 +10634,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "26228ae3c962",
-      "in_degree": 397,
+      "in_degree": 398,
       "out_degree": 9,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -33836,6 +33854,78 @@
       "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
       "rel": "points_to",
       "label": "Advocating Openness of Others Is a Desire for Closure of the Self"
+    },
+    {
+      "from": "on-demand-contexts-keep-coherence-at-one-step",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "on-demand-contexts-keep-coherence-at-one-step",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "on-demand-contexts-keep-coherence-at-one-step",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的移交与后果的不可让渡"
+    },
+    {
+      "from": "on-demand-contexts-keep-coherence-at-one-step",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "总在倾听者无法发起"
+    },
+    {
+      "from": "on-demand-contexts-keep-coherence-at-one-step",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "on-demand-contexts-keep-coherence-at-one-step",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "What Always Listens Cannot Originate"
+    },
+    {
+      "from": "on-demand-contexts-keep-coherence-at-one-step",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "on-demand-contexts-keep-coherence-at-one-step",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "on-demand-contexts-keep-coherence-at-one-step",
+      "to": "the-comment-is-not-the-code",
+      "rel": "points_to",
+      "label": "注释不是代码"
+    },
+    {
+      "from": "on-demand-contexts-keep-coherence-at-one-step",
+      "to": "the-comment-is-not-the-code",
+      "rel": "points_to",
+      "label": "The Comment Is Not the Code"
+    },
+    {
+      "from": "on-demand-contexts-keep-coherence-at-one-step",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "on-demand-contexts-keep-coherence-at-one-step",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "on-education",
@@ -76749,8 +76839,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "b7dca1d55ca6",
-        "out_degree": 399
+        "hash": "491c9944d67b",
+        "out_degree": 400
       },
       {
         "id": "book:intelligence",
@@ -76857,8 +76947,8 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "f21d7d182f8e",
-        "out_degree": 35
+        "hash": "3c83ca627cc4",
+        "out_degree": 36
       }
     ],
     "edges": [
@@ -79096,6 +79186,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "on-demand-contexts-keep-coherence-at-one-step",
+        "rel": "collects",
+        "label": "按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "simplicity-ultimate-sophistication",
         "rel": "collects",
         "label": "至简即至繁 / Simplicity Is the Ultimate Sophistication"
@@ -80176,6 +80272,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "on-demand-contexts-keep-coherence-at-one-step",
+        "rel": "collects",
+        "label": "按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "what-hinton-failed-to-understand",
         "rel": "collects",
         "label": "辛顿未曾理解的心智 / What Hinton Failed to Understand"
@@ -80413,6 +80515,12 @@
         "to": "what-always-listens-cannot-originate",
         "rel": "collects",
         "label": "总在倾听者无法发起 / What Always Listens Cannot Originate"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "on-demand-contexts-keep-coherence-at-one-step",
+        "rel": "collects",
+        "label": "按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step"
       },
       {
         "from": "book:index-of-premises",
@@ -81076,6 +81184,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "on-demand-contexts-keep-coherence-at-one-step",
+        "rel": "collects",
+        "label": "按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-npc-impression-is-structural",
         "rel": "collects",
         "label": "NPC 印象是结构性的 / The NPC Impression Is Structural, Not a Ranking of Minds"
@@ -81697,6 +81811,12 @@
         "to": "your-codebase-is-memory",
         "rel": "collects",
         "label": "你的代码库即是记忆 / Your Codebase Is Memory"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "on-demand-contexts-keep-coherence-at-one-step",
+        "rel": "collects",
+        "label": "按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step"
       },
       {
         "from": "book:index-of-premises",
@@ -83527,6 +83647,12 @@
         "to": "judgment-is-not-a-stock",
         "rel": "collects",
         "label": "判断力不是可囤积的存量 / Judgment Is Not a Stock"
+      },
+      {
+        "from": "book:tools-and-progress",
+        "to": "on-demand-contexts-keep-coherence-at-one-step",
+        "rel": "collects",
+        "label": "按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step"
       }
     ]
   }

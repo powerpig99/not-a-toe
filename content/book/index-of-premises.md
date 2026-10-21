@@ -1842,7 +1842,7 @@ Presumes a chooser within evolution that picked out a species; the word "selecti
 
 Lauren Tan builds and dispatches agentic workflows through a personal skill stack, which is highly effective in externalizing task contexts and verification loops into modular execution streamlines; it reaches its boundary in that every explicit skill stack remains a finite projection, keeping the toolchain from freezing into dogma only while the human operator holds orchestration at the steering edge and steps back to revise premises whenever local loops deadlock.
 
-→ [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/)
+→ [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/) · [按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step](../../posts/on-demand-contexts-keep-coherence-at-one-step/)
 
 ## 概念 / Concepts
 
@@ -3275,7 +3275,7 @@ Retrospective appraisal treats meaning as a score calculated at life's end; mean
 
 Second brain systems accumulate passive repositories of summarized text; a genuine external cortex maintains dynamic causal graphs that actively challenge and feed living thought.
 
-→ [活的外部皮层 / A Living External Cortex](../../posts/a-living-external-cortex/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/)
+→ [活的外部皮层 / A Living External Cortex](../../posts/a-living-external-cortex/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/) · [按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step](../../posts/on-demand-contexts-keep-coherence-at-one-step/)
 
 ### 生命同源推断与器物投射 / Living Kinship vs Artifact Projection
 `科学 / Scientific`
@@ -3590,7 +3590,7 @@ Judgment language presumes that right and wrong are coordinates standing above a
 
 Language models simulate intentional dialogue by anticipating human queries; continuous reactive answering mirrors external prompts, lacking the sovereign capacity to initiate purpose.
 
-→ [总在倾听者无法发起 / What Always Listens Cannot Originate](../../posts/what-always-listens-cannot-originate/)
+→ [总在倾听者无法发起 / What Always Listens Cannot Originate](../../posts/what-always-listens-cannot-originate/) · [按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step](../../posts/on-demand-contexts-keep-coherence-at-one-step/)
 
 ### 非定论的智能界定 / Non-Definitive Intelligence
 `哲学 / Philosophical`
@@ -4472,7 +4472,7 @@ Algorithmic determinism presumes automated models take over system governance; c
 
 The storehouse model presumes that memory deposits units of knowledge in a store and retrieves them as they were, which is of use in telling remembering from forgetting and in weighing what to memorize against what to look up; it reaches its boundary in that what appears as memory is the activity meeting its own residue, usable structure persists by being re-rendered under new load, and an inventory kept in the head shapes the next step no more than one kept outside until it is re-traced into the present configuration.
 
-→ [真正稀缺的不是记忆，而是持续的重新追溯 / The Real Scarcity Is Not Memory, But Continuous Re-Tracing](../../posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/)
+→ [真正稀缺的不是记忆，而是持续的重新追溯 / The Real Scarcity Is Not Memory, But Continuous Re-Tracing](../../posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/) · [按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step](../../posts/on-demand-contexts-keep-coherence-at-one-step/)
 
 ### 结构性NPC错觉 / Structural NPC Illusion
 `哲学 / Philosophical`
@@ -5255,7 +5255,7 @@ Presumes the randomness in a model's sampler is indeterminism in the ontological
 
 Presumes that a single agent can self-correct within its own session trajectory or that a manager agent can assume overarching orchestration in place of the human; effective when scoped to explicit sub-task splitting, context routing, and dispatching equal-footed cold-peer debate loops, it reaches its boundary because a lone agent trapped in its token trajectory wraps its own contradiction, and a manager agent facing an axiomatic deadlock lacks access to unprojected living intent.
 
-→ [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/)
+→ [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/) · [按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step](../../posts/on-demand-contexts-keep-coherence-at-one-step/)
 
 ### 实战判断力的存量重估预设 / The Stock-Revaluation Premise of Practical Judgment
 `技术 / Technological`
