@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-21T09:39:20.240Z",
+    "generated_at": "2026-10-21T09:45:07.956Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -26,7 +26,7 @@
       "content/posts/amplification-paradox.md": "a275c141a687",
       "content/posts/an-observation-by-its-own-standard.md": "1d44b8371330",
       "content/posts/better-than-free-after-the-checklist-closes.md": "d39b1b10df08",
-      "content/posts/beyond-the-hundred-trillion-horizon.md": "7092a6d76ade",
+      "content/posts/beyond-the-hundred-trillion-horizon.md": "9258f29df286",
       "content/posts/beyond-the-projection.md": "77fe2468ff0d",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "e09e90b435e6",
       "content/posts/causality-all-the-way.md": "1b0d5716f61a",
@@ -253,7 +253,7 @@
       "content/posts/the-generative-contradiction.md": "a5a375e40b33",
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "85b7537a168f",
       "content/posts/the-generative-topology-of-free-variables.md": "baffb2e6acd8",
-      "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "15b9e01b6512",
+      "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "3128b01ea763",
       "content/posts/the-geometry-of-emergence.md": "a42d5b545360",
       "content/posts/the-geometry-of-mind.md": "3d0ba4f53d48",
       "content/posts/the-geometry-of-success.md": "546c4a0dba71",
@@ -424,10 +424,10 @@
     },
     "stats": {
       "posts": 397,
-      "edges": 10580,
-      "unique_directed": 5189,
+      "edges": 10584,
+      "unique_directed": 5191,
       "missing_targets": 0,
-      "one_way": 707,
+      "one_way": 709,
       "isolated": 35,
       "posts_with_outbound": 362,
       "book_pages": 16,
@@ -438,7 +438,7 @@
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 357
+      "in_degree": 359
     },
     {
       "slug": "beyond-the-projection",
@@ -1074,13 +1074,14 @@
       "slug": "beyond-the-hundred-trillion-horizon",
       "path": "content/posts/beyond-the-hundred-trillion-horizon.md",
       "title": "百万亿地平线之外 / Beyond the Hundred-Trillion Horizon",
-      "hash": "7092a6d76ade",
+      "hash": "9258f29df286",
       "in_degree": 1,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "the-causal-order-of-private-residuals-and-social-surplus",
         "individual-choices-as-the-only-causal-levers",
         "the-summary-first-reversal-and-the-command-of-yields",
+        "your-codebase-is-memory",
         "having-more-is-never-the-cause",
         "the-generative-mechanics-of-value-money-and-wealth"
       ]
@@ -6944,12 +6945,13 @@
       "slug": "the-geometry-of-coexistence-and-the-dual-cut",
       "path": "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md",
       "title": "共存的几何学 / The Geometry of Coexistence",
-      "hash": "15b9e01b6512",
+      "hash": "3128b01ea763",
       "in_degree": 2,
-      "out_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "the-cut-moves-but-never-vanishes",
+        "your-codebase-is-memory",
         "when-electrons-think",
         "the-illusion-of-distance-and-the-dual-ruler"
       ]
@@ -10390,7 +10392,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4a4689dd4a10",
-      "in_degree": 357,
+      "in_degree": 359,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -13233,6 +13235,18 @@
       "to": "the-summary-first-reversal-and-the-command-of-yields",
       "rel": "points_to",
       "label": "Macro Parameters, Micro Choices, and the Command of Yields"
+    },
+    {
+      "from": "beyond-the-hundred-trillion-horizon",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "beyond-the-hundred-trillion-horizon",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "beyond-the-hundred-trillion-horizon",
@@ -51429,6 +51443,18 @@
       "to": "the-cut-moves-but-never-vanishes",
       "rel": "points_to",
       "label": "The Cut Moves but Never Vanishes"
+    },
+    {
+      "from": "the-geometry-of-coexistence-and-the-dual-cut",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-geometry-of-coexistence-and-the-dual-cut",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-geometry-of-coexistence-and-the-dual-cut",
