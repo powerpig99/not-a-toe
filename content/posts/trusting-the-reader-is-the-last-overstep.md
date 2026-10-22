@@ -22,35 +22,29 @@ flowchart TD
     W_ACT["落笔为外化构型"]
     W_MIND --> W_ACT
   end
-
   subgraph S_RESIDUE["物理环境：可用材料与残留物"]
     direction TB
     R_TEXT["文本与物理符号<br/>（仅改变相遇条件）"]
     R_GAP["无跨心智因果力<br/>（不携带被理解的保证）"]
     R_TEXT --> R_GAP
   end
-
   subgraph S_READER["读者视界：自主重构"]
     direction TB
     RD_COND["接收者的先验状态与注意力"]
     RD_ACT["未被强迫的自改变"]
     RD_COND --> RD_ACT
   end
-
   subgraph S_EXTERNAL["事后比较：无处之境的投影"]
     direction TB
     EX_OVERLAP["所谓重叠<br/>（两套构型的事后并置，非直接传递）"]
   end
-
   W_ACT ==> R_TEXT
   R_GAP ==> RD_COND
   RD_ACT -.-> EX_OVERLAP
-
   style S_WRITER fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
   style S_RESIDUE fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
   style S_READER fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
   style S_EXTERNAL fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
-
   style W_MIND fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
   style W_ACT fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
   style R_TEXT fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -70,35 +64,29 @@ flowchart TD
     W_ACT["Externalized Configuration in Text"]
     W_MIND --> W_ACT
   end
-
   subgraph S_RESIDUE["Physical Medium: Available Materials"]
     direction TB
     R_TEXT["Textual Artifact<br/>(Alters Available Conditions Only)"]
     R_GAP["Zero Cross-Mind Causal Power<br/>(Contains No Guarantee of Uptake)"]
     R_TEXT --> R_GAP
   end
-
   subgraph S_READER["Reader's Locus: Autonomous Reconstruction"]
     direction TB
     RD_COND["Recipient's Prior Condition and Attention"]
     RD_ACT["Uncompelled Self-Alteration"]
     RD_COND --> RD_ACT
   end
-
   subgraph S_EXTERNAL["Retrospective Comparison: View from Nowhere"]
     direction TB
     EX_OVERLAP["Apparent Overlap<br/>(External Juxtaposition, Not Direct Flow)"]
   end
-
   W_ACT ==> R_TEXT
   R_GAP ==> RD_COND
   RD_ACT -.-> EX_OVERLAP
-
   style S_WRITER fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
   style S_RESIDUE fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
   style S_READER fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
   style S_EXTERNAL fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
-
   style W_MIND fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
   style W_ACT fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
   style R_TEXT fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -146,10 +134,10 @@ The same limit binds the future self. Between the later self and the present one
 
 ## 六、 写作只对自身的区分负责 / 6. Writing Answers Only to Its Own Distinctions
 
-至此，这一信条的因果分量便清晰呈现。在全深度上写作，然后信任读者或未来的自己来接住它，等于把“被取用”当成文本放出后还能留在原地的东西。既然材料无法指定读者的初始条件，这份信任就把一种传递并不具备的残余效力归给了写作者。它越界，并且落空，不是因为沟通对可用条件毫无影响，也不是因为部分重合不可能，而是因为任何表述都无法把一次不受指定的采纳，变成一次不被误解的沟通。
+至此，这一信条的因果分量便清晰呈现。在全深度上写作，然后信任读者或未来的自己来接住它，等于把“被取用”当成文本放出后还能留在原地的东西。既然材料无法指定读者的初始条件，这份信任就把一种传递并不具备的残余效力归给了写作者。它越界，并且落空，不是因为沟通对可用条件毫无影响，也不是因为部分重合不可能，而是因为任何表述都无法把一次不受指定的采纳，变成一次不被误解的沟通。为了当下的可读性而稀释区分，同样无法从另一侧绕过这一限度：正如[登记共鸣的表面](../the-surface-that-registers/)所追溯的，为了拓宽即时认出而把表述削薄，只会将其前提、适用条件与修正节点留在传递通道之外，使各异的模型把既有的先验投射到少数受约束的轴向上，在不共享路径的情况下将稀疏重叠登记为彼此契合。
 
-Here the causal weight of that creed becomes clear. To write at full depth and then trust the reader, or the future self, to meet it is to treat uptake as something that stays in place after the text is released. Since the materials cannot dictate the reader's initial conditions, that trust grants the writer a residual efficacy the transfer does not have. It oversteps, and it fails, not because communication leaves the available conditions untouched, and not because partial coincidence is impossible, but because no formulation can turn an undictated adoption into a communication free of misunderstanding.
+Here the causal weight of that creed becomes clear. To write at full depth and then trust the reader, or the future self, to meet it is to treat uptake as something that stays in place after the text is released. Since the materials cannot dictate the reader's initial conditions, that trust grants the writer a residual efficacy the transfer does not have. It oversteps, and it fails, not because communication leaves the available conditions untouched, and not because partial coincidence is impossible, but because no formulation can turn an undictated adoption into a communication free of misunderstanding. Nor does diluting distinctions for immediate readability bypass that limit from the other side: as [The Surface That Registers](../the-surface-that-registers/) traces, thinning a formulation to widen immediate recognition only leaves its premises, scope conditions, and revision points outside the channel, so distinct models project their existing priors onto a few constrained axes and register sparse overlap as agreement without sharing the path.
 
-这也修正了[高维信息的离散折射与认知分层](../gao-wei-xin-xi-de-li-san-zhe-she/)中遗留的一丝余温。彼处曾设想，坚持高维推演的沟通会让受众在时间轴上陆续跟上。陆续跟上的人确实可能出现，但那是受众自身的抉择，而非外化文本替其完成的因果。写作者能负责的，只有区分的精确、对过早闭合的拒绝、对思想此刻所在之处的忠实。把这些做好，然后放手。放手不是冷漠，而是把因果力如实还给它所属的地方：正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，写下的文本或提交的代码库只是过往切分的外化记忆库，自身并不具备引导下一位读者的独立主权；每一个读者，乃至重返这座记忆库的未来的自己，都只能在当下的活边缘独自决定是否运用这些材料来改变自己。
+这也修正了[高维信息的离散折射与认知分层](../gao-wei-xin-xi-de-li-san-zhe-she/)中遗留的一丝余温。彼处曾设想，坚持高维推演的沟通会让受众在时间轴上陆续跟上。陆续跟上的人确实可能出现，但那是受众自身的主权抉择，而非外化文本替其完成的效应：正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，写下的文本或提交的代码库只是过往切分的外化记忆库，自身并不具备引导下一位读者的自主施动力，因此每一个读者——包括重返这座记忆库的未来的自己——都只能在当下的活边缘独自决定是否用这些材料来重新追溯自己。写作者能负责的，只有区分的精确、对过早闭合的拒绝、对思想此刻所在之处的忠实。把这些做好，然后放手。放手不是冷漠，而是把因果力如实还给它所属的地方。
 
 This also corrects a trace of warmth left in [The Discrete Refraction of High-Dimensional Information](../gao-wei-xin-xi-de-li-san-zhe-she/). There it was supposed that communication which holds to high-dimensional reasoning lets audiences catch up over time. Some may indeed catch up, but that remains their own sovereign choice, not an effect external text completes on their behalf: as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, a written text or committed codebase is an externalized memory repository of prior cuts that holds no autonomous agency to steer its next reader, so every reader—including the future self returning to the repository—decides alone at the living edge whether to re-trace themselves with those materials. What a writer can answer for is the precision of distinctions, the refusal of premature closure, and fidelity to where the thought stands now. Do that well, and let go. Letting go is not indifference; it returns causal power to where it belongs.

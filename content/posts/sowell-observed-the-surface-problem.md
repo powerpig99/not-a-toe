@@ -17,23 +17,19 @@ flowchart TD
     classDef warn fill:#0d1117,stroke:#d29922,stroke-width:1.5px,color:#f0f6fc;
     classDef fail fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f0f6fc;
     classDef model fill:#0d1117,stroke:#58a6ff,stroke-width:1.5px,color:#f0f6fc;
-
     subgraph S_Policy ["政策宣称层"]
         direction TB
         Goal["崇高目标宣称：救济与保护"]:::model
         PublicPraise["舆论道德赞誉与合法性"]:::warn
         Goal --> PublicPraise
     end
-
     subgraph S_Market ["现实反馈层"]
         direction TB
         RealIncentive["实际诱发的微观避险与套利激励"]:::fail
         UnintendedCost["显露的长期扭曲与成本转嫁"]:::fail
         RealIncentive --> UnintendedCost
     end
-
     S_Policy ==> |脱离真实因果| S_Market
-
     style S_Policy fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Market fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
 ```
@@ -47,23 +43,19 @@ flowchart TD
     classDef warn fill:#0d1117,stroke:#d29922,stroke-width:1.5px,color:#f0f6fc;
     classDef fail fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f0f6fc;
     classDef model fill:#0d1117,stroke:#58a6ff,stroke-width:1.5px,color:#f0f6fc;
-
     subgraph S_Policy ["Declared Policy Layer"]
         direction TB
         Goal["Proclaimed Benevolent Goals"]:::model
         PublicPraise["Moral Acclaim and Political Legitimacy"]:::warn
         Goal --> PublicPraise
     end
-
     subgraph S_Market ["Landed Feedback Layer"]
         direction TB
         RealIncentive["Actual Micro Hedging and Arbitrage Incentives"]:::fail
         UnintendedCost["Distorted Behaviors and Externalized Costs"]:::fail
         RealIncentive --> UnintendedCost
     end
-
     S_Policy ==> |Divorced from Grounded Causality| S_Market
-
     style S_Policy fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Market fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
 ```
@@ -104,23 +96,19 @@ flowchart TD
     classDef fail fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f0f6fc;
     classDef model fill:#0d1117,stroke:#58a6ff,stroke-width:1.5px,color:#f0f6fc;
     classDef purple fill:#0d1117,stroke:#a371f7,stroke-width:1.5px,color:#f0f6fc;
-
     subgraph S_Exempt ["未完成折返的凝视"]
         direction TB
         Balcony["抽离的高台：暂时的分析豁免"]:::model
         FrozenStand["固化为永久特权：自命客观裁决者"]:::fail
         Balcony --> FrozenStand
     end
-
     subgraph S_Fold ["自指折返操作"]
         direction TB
         ReturnAct["将成本与约束折回自身心智"]:::purple
         LocalScaffold["认清不完备性：还原为局部脚手架"]:::mind
         ReturnAct --> LocalScaffold
     end
-
     S_Exempt ==> |跨越免责界线| S_Fold
-
     style S_Exempt fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Fold fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
 ```
@@ -135,30 +123,26 @@ flowchart TD
     classDef fail fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f0f6fc;
     classDef model fill:#0d1117,stroke:#58a6ff,stroke-width:1.5px,color:#f0f6fc;
     classDef purple fill:#0d1117,stroke:#a371f7,stroke-width:1.5px,color:#f0f6fc;
-
     subgraph S_Exempt ["Incomplete Unreturned Gaze"]
         direction TB
         Balcony["Temporary Diagnostic Exemption"]:::model
         FrozenStand["Hardened Stance: Unpriced Objective Judge"]:::fail
         Balcony --> FrozenStand
     end
-
     subgraph S_Fold ["Act of Self-Reference"]
         direction TB
         ReturnAct["Folding Costs Back onto the Critic's Agency"]:::purple
         LocalScaffold["Recognizing Incompleteness as Local Tool"]:::mind
         ReturnAct --> LocalScaffold
     end
-
     S_Exempt ==> |Transcend Self-Exemption| S_Fold
-
     style S_Exempt fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Fold fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
 ```
 
-当折返被遗漏时，豁免便凝固成独断的特权，将诊断姿态冻结在无需付出代价的高台之上。理论由此止步于半途，掩盖了更深层的因果裂隙：做出区分的心智，与这一区分所产生的后果之显现，被割裂在了两处。唯有将这把测量标尺重新折回做出分析的心智自身，模型才能显露自身的边界。在[自我形象仿佛从无处发声](../self-image-speaks-as-if-from-nowhere/)中，拒绝折返的目光最终只能将自己困在无根的投影之中。
+当折返被遗漏时，豁免便凝固成独断的特权，将诊断姿态冻结在无需付出代价的高台之上。理论由此止步于半途，掩盖了更深层的因果裂隙：做出区分的心智，与这一区分所产生的后果之显现，被割裂在了两处。唯有将这把测量标尺重新折回做出分析的心智自身，模型才能显露自身的边界。在[自我形象仿佛从无处发声](../self-image-speaks-as-if-from-nowhere/)中，拒绝折返的目光最终只能将自己困在无根的投影之中；而正如[登记共鸣的表面](../the-surface-that-registers/)所追溯的，一旦某句诊断格言脱离了这一第一人称折返、作为独立的公式四处流转，它便只约束了一组单薄的二元对比——激励与目标——让旁观者得以在表面登记认出，却将自身的前提与代价留在了通道之外。
 
-When that return is omitted, exemption hardens into dogmatic privilege, freezing the diagnostic posture into an unpriced perch. The theory stops short of completing its arc, concealing the deeper causal rift: the separation between the Mind making the distinction and the registration of what that distinction generates. Only by folding the measurement scale back upon the theorist does the model disclose its own boundary. In [Self-Image Speaks as if from Nowhere](../self-image-speaks-as-if-from-nowhere/), an unreturned gaze traps itself in an ungrounded projection.
+When that return is omitted, exemption hardens into dogmatic privilege, freezing the diagnostic posture into an unpriced perch. The theory stops short of completing its arc, concealing the deeper causal rift: the separation between the Mind making the distinction and the registration of what that distinction generates. Only by folding the measurement scale back upon the theorist does the model disclose its own boundary. In [Self-Image Speaks as if from Nowhere](../self-image-speaks-as-if-from-nowhere/), an unreturned gaze traps itself in an ungrounded projection; and as [The Surface That Registers](../the-surface-that-registers/) traces, once a diagnostic maxim is detached from that first-person return and circulated as a standalone formula, it constrains a thin binary contrast—incentives versus goals—on which observers can register recognition at the surface while leaving their own premises and costs outside the channel.
 
 ## 五、 不存在系统性解法 / 5. There Is No Systematic Solution
 

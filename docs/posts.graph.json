@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-22T08:00:45.341Z",
+    "generated_at": "2026-10-22T10:08:13.035Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -87,7 +87,7 @@
       "content/posts/four-night-questions.md": "56506f767fb5",
       "content/posts/freedom-as-ground.md": "76afe66c491b",
       "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "49034385ba4b",
-      "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "fd8a76387539",
+      "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "dd5647fb74a2",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "a2f03c17ade1",
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "48b125c5031e",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "e21403fb50ae",
@@ -188,7 +188,7 @@
       "content/posts/simplicity-ultimate-sophistication.md": "90ac1690ba33",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "2a91f58a7d13",
       "content/posts/sovereignty-essay.md": "bdc7dfc589b0",
-      "content/posts/sowell-observed-the-surface-problem.md": "6a0b158cce39",
+      "content/posts/sowell-observed-the-surface-problem.md": "714f6641af76",
       "content/posts/stability-and-excess.md": "25b813029b34",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "48fed4ebc465",
       "content/posts/subtracting-consciousness-at-the-source.md": "df1242fc6ba9",
@@ -379,7 +379,7 @@
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "d6e816ab5ba2",
       "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "3f4bec91103c",
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "de89125d75c0",
-      "content/posts/trusting-the-reader-is-the-last-overstep.md": "fb810cc29e0d",
+      "content/posts/trusting-the-reader-is-the-last-overstep.md": "4fa6d46f4306",
       "content/posts/two-failures-of-trace.md": "df2bfb498afc",
       "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "1a6b64a4d111",
       "content/posts/war-revolution-and-the-fall-of-empires.md": "e34d11fdc25d",
@@ -429,10 +429,10 @@
     },
     "stats": {
       "posts": 402,
-      "edges": 11068,
-      "unique_directed": 5430,
+      "edges": 11074,
+      "unique_directed": 5433,
       "missing_targets": 0,
-      "one_way": 834,
+      "one_way": 831,
       "isolated": 0,
       "posts_with_outbound": 402,
       "book_pages": 16,
@@ -2642,10 +2642,11 @@
       "slug": "gao-wei-xin-xi-de-li-san-zhe-she",
       "path": "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md",
       "title": "高维信息的离散折射与认知分层 / The Discrete Refraction of High-Dimensional Information",
-      "hash": "fd8a76387539",
+      "hash": "dd5647fb74a2",
       "in_degree": 8,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
+        "the-surface-that-registers",
         "what-information-is",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
@@ -5407,9 +5408,9 @@
       "slug": "sowell-observed-the-surface-problem",
       "path": "content/posts/sowell-observed-the-surface-problem.md",
       "title": "索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem",
-      "hash": "6a0b158cce39",
+      "hash": "714f6641af76",
       "in_degree": 12,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "mei-you-pu-du-zhi-you-zi-du",
         "ownership-and-self-worthiness",
@@ -5418,6 +5419,7 @@
         "no-genius-can-solve-the-knowledge-problem",
         "the-paradoxical-nature-of-bystander-insights",
         "self-image-speaks-as-if-from-nowhere",
+        "the-surface-that-registers",
         "your-codebase-is-memory",
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "residual-individualism",
@@ -9602,7 +9604,7 @@
       "path": "content/posts/the-surface-that-registers.md",
       "title": "登记共鸣的表面 / The Surface That Registers",
       "hash": "f395a2d95c17",
-      "in_degree": 0,
+      "in_degree": 3,
       "out_degree": 11,
       "links_out": [
         "sowell-observed-the-surface-problem",
@@ -10073,9 +10075,9 @@
       "slug": "trusting-the-reader-is-the-last-overstep",
       "path": "content/posts/trusting-the-reader-is-the-last-overstep.md",
       "title": "信任读者是最后的越界 / Trusting the Reader Is the Last Overstep",
-      "hash": "fb810cc29e0d",
+      "hash": "4fa6d46f4306",
       "in_degree": 7,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "rationality-never-travels-across-the-mind",
         "price-as-utterance-understanding-as-trade",
@@ -10088,6 +10090,7 @@
         "one-cannot-escape-ones-own-mind",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
         "the-comment-is-not-the-code",
+        "the-surface-that-registers",
         "gao-wei-xin-xi-de-li-san-zhe-she",
         "your-codebase-is-memory"
       ]
@@ -24050,6 +24053,18 @@
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
       "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "to": "the-surface-that-registers",
+      "rel": "points_to",
+      "label": "登记共鸣的表面"
+    },
+    {
+      "from": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "to": "the-surface-that-registers",
+      "rel": "points_to",
+      "label": "The Surface That Registers"
     },
     {
       "from": "gao-wei-xin-xi-de-li-san-zhe-she",
@@ -43019,9 +43034,21 @@
     },
     {
       "from": "sowell-observed-the-surface-problem",
+      "to": "the-surface-that-registers",
+      "rel": "points_to",
+      "label": "登记共鸣的表面"
+    },
+    {
+      "from": "sowell-observed-the-surface-problem",
       "to": "self-image-speaks-as-if-from-nowhere",
       "rel": "points_to",
       "label": "Self-Image Speaks as if from Nowhere"
+    },
+    {
+      "from": "sowell-observed-the-surface-problem",
+      "to": "the-surface-that-registers",
+      "rel": "points_to",
+      "label": "The Surface That Registers"
     },
     {
       "from": "sowell-observed-the-surface-problem",
@@ -72278,6 +72305,18 @@
       "to": "the-comment-is-not-the-code",
       "rel": "points_to",
       "label": "The Comment Is Not the Code"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "the-surface-that-registers",
+      "rel": "points_to",
+      "label": "登记共鸣的表面"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "the-surface-that-registers",
+      "rel": "points_to",
+      "label": "The Surface That Registers"
     },
     {
       "from": "trusting-the-reader-is-the-last-overstep",
