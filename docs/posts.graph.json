@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-22T10:08:13.035Z",
+    "generated_at": "2026-10-22T11:05:49.536Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -289,7 +289,7 @@
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "e2c53537d905",
       "content/posts/the-ledger-of-the-unencountered.md": "7cc479153e27",
       "content/posts/the-limitation-is-doing-work.md": "0775ab533348",
-      "content/posts/the-living-context.md": "0603cd0d3ea2",
+      "content/posts/the-living-context.md": "0f8485aa89e9",
       "content/posts/the-local-trap-of-technological-change.md": "90573245bd77",
       "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "5dfdcb05cf02",
       "content/posts/the-loop-accelerates.md": "60608a02a0ed",
@@ -429,10 +429,10 @@
     },
     "stats": {
       "posts": 402,
-      "edges": 11074,
-      "unique_directed": 5433,
+      "edges": 11084,
+      "unique_directed": 5438,
       "missing_targets": 0,
-      "one_way": 831,
+      "one_way": 836,
       "isolated": 0,
       "posts_with_outbound": 402,
       "book_pages": 16,
@@ -4094,7 +4094,7 @@
       "path": "content/posts/on-demand-contexts-keep-coherence-at-one-step.md",
       "title": "按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step",
       "hash": "34862119083b",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 6,
       "links_out": [
         "your-codebase-is-memory",
@@ -6329,7 +6329,7 @@
       "path": "content/posts/the-comment-is-not-the-code.md",
       "title": "注释不是代码 / The Comment Is Not the Code",
       "hash": "2f3188bc6738",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 10,
       "links_out": [
         "your-codebase-is-memory",
@@ -6528,7 +6528,7 @@
       "path": "content/posts/the-density-of-judgment.md",
       "title": "判断的密度 / The Density of Judgment",
       "hash": "9380430c82c4",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 9,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
@@ -7882,13 +7882,18 @@
       "slug": "the-living-context",
       "path": "content/posts/the-living-context.md",
       "title": "活的语境 / The Living Context",
-      "hash": "0603cd0d3ea2",
+      "hash": "0f8485aa89e9",
       "in_degree": 3,
-      "out_degree": 4,
+      "out_degree": 9,
       "links_out": [
         "a-living-external-cortex",
+        "trusting-the-reader-is-the-last-overstep",
+        "the-comment-is-not-the-code",
+        "the-density-of-judgment",
         "looping-and-graphing",
         "beyond-the-projection",
+        "on-demand-contexts-keep-coherence-at-one-step",
+        "the-surface-that-registers",
         "your-codebase-is-memory"
       ]
     },
@@ -9604,7 +9609,7 @@
       "path": "content/posts/the-surface-that-registers.md",
       "title": "登记共鸣的表面 / The Surface That Registers",
       "hash": "f395a2d95c17",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 11,
       "links_out": [
         "sowell-observed-the-surface-problem",
@@ -10076,7 +10081,7 @@
       "path": "content/posts/trusting-the-reader-is-the-last-overstep.md",
       "title": "信任读者是最后的越界 / Trusting the Reader Is the Last Overstep",
       "hash": "4fa6d46f4306",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 14,
       "links_out": [
         "rationality-never-travels-across-the-mind",
@@ -57896,9 +57901,45 @@
     },
     {
       "from": "the-living-context",
+      "to": "trusting-the-reader-is-the-last-overstep",
+      "rel": "points_to",
+      "label": "信任读者是最后的越界"
+    },
+    {
+      "from": "the-living-context",
+      "to": "the-comment-is-not-the-code",
+      "rel": "points_to",
+      "label": "注释不是代码"
+    },
+    {
+      "from": "the-living-context",
+      "to": "trusting-the-reader-is-the-last-overstep",
+      "rel": "points_to",
+      "label": "Trusting the Reader Is the Last Overstep"
+    },
+    {
+      "from": "the-living-context",
+      "to": "the-comment-is-not-the-code",
+      "rel": "points_to",
+      "label": "The Comment Is Not the Code"
+    },
+    {
+      "from": "the-living-context",
+      "to": "the-density-of-judgment",
+      "rel": "points_to",
+      "label": "判断的密度"
+    },
+    {
+      "from": "the-living-context",
       "to": "looping-and-graphing",
       "rel": "points_to",
       "label": "回环与成图"
+    },
+    {
+      "from": "the-living-context",
+      "to": "the-density-of-judgment",
+      "rel": "points_to",
+      "label": "The Density of Judgment"
     },
     {
       "from": "the-living-context",
@@ -57914,9 +57955,33 @@
     },
     {
       "from": "the-living-context",
+      "to": "on-demand-contexts-keep-coherence-at-one-step",
+      "rel": "points_to",
+      "label": "按需语境将融贯保持在一步"
+    },
+    {
+      "from": "the-living-context",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-living-context",
+      "to": "on-demand-contexts-keep-coherence-at-one-step",
+      "rel": "points_to",
+      "label": "On-Demand Contexts Keep Coherence at One Step"
+    },
+    {
+      "from": "the-living-context",
+      "to": "the-surface-that-registers",
+      "rel": "points_to",
+      "label": "登记共鸣的表面"
+    },
+    {
+      "from": "the-living-context",
+      "to": "the-surface-that-registers",
+      "rel": "points_to",
+      "label": "The Surface That Registers"
     },
     {
       "from": "the-living-context",
