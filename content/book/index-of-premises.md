@@ -5278,8 +5278,8 @@ Presumes that decades of accumulated practical judgment and taste form a stable 
 ### 无人类介入的自动化研究 / Automated Research Without Human Intervention
 `技术 / Technological`
 
-预设将提出假设、编码实现、运行测试与迭代演进的研究回环自动化，便能走向零人类介入的自主创造；在登记有界搜索空间内常规实现吞吐量的跃升时有用，但它漏计了起首锚定的先决条件、途中的参数修正与收尾的最终验收，并忽略了在把输出当作后续筛选原材料的开放式探究中，周期缩短反而压缩了两次介入之间的日历间隔、推高了留归决断心智的判断密度。
+预设将提出假设、编码实现、运行测试与迭代演进的研究回环自动化，便能走向零人类介入的自主创造；在登记有界搜索空间内常规实现吞吐量的跃升时有用，但它漏计了起首锚定的先决条件、途中的参数修正与收尾的最终验收，把被编译进规则、无需逐步重做的自动化中段这一形式化程度最高的介入读作介入的缺席，并忽略了在把输出当作后续筛选原材料的开放式探究中，周期缩短反而压缩了两次介入之间的日历间隔、推高了留归决断心智的判断密度。
 
-Presumes that automating the research loop of proposing, implementing, testing, and iterating moves toward autonomous creation without human intervention; useful in registering jumps in routine implementation throughput inside bounded search spaces, it reaches its boundary by omitting the framing preconditions at the start, parameter revisions along the run, and final acceptance at the end, while missing that in open-ended inquiry—where outputs serve as material for further selection—shorter cycles shrink the calendar interval between interventions and raise the density of human judgment.
+Presumes that automating the research loop of proposing, implementing, testing, and iterating moves toward autonomous creation without human intervention; useful in registering jumps in routine implementation throughput inside bounded search spaces, it reaches its boundary by omitting the framing preconditions at the start, parameter revisions along the run, and final acceptance at the end, and by reading the automated middle, intervention in its most formalized form, as intervention's absence, while missing that in open-ended inquiry—where outputs serve as material for further selection—shorter cycles shrink the calendar interval between interventions and raise the density of human judgment.
 
 → [判断的密度 / The Density of Judgment](../../posts/the-density-of-judgment/)
