@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-22T05:07:33.067Z",
+    "generated_at": "2026-10-22T06:49:59.009Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -230,7 +230,7 @@
       "content/posts/the-cut-moves-but-never-vanishes.md": "e61a8aa0715d",
       "content/posts/the-defining-seat.md": "439193457772",
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "abbc6e9528c4",
-      "content/posts/the-density-of-judgment.md": "61d32ac595c8",
+      "content/posts/the-density-of-judgment.md": "9380430c82c4",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "787b77d025c1",
       "content/posts/the-deterministic-machine.md": "fbf2680f40d1",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "0dc8080b8644",
@@ -428,10 +428,10 @@
     },
     "stats": {
       "posts": 401,
-      "edges": 11026,
-      "unique_directed": 5409,
+      "edges": 11028,
+      "unique_directed": 5410,
       "missing_targets": 0,
-      "one_way": 831,
+      "one_way": 832,
       "isolated": 0,
       "posts_with_outbound": 401,
       "book_pages": 16,
@@ -4090,7 +4090,7 @@
       "path": "content/posts/on-demand-contexts-keep-coherence-at-one-step.md",
       "title": "按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step",
       "hash": "84245e24b0d3",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 5,
       "links_out": [
         "your-codebase-is-memory",
@@ -6518,9 +6518,9 @@
       "slug": "the-density-of-judgment",
       "path": "content/posts/the-density-of-judgment.md",
       "title": "判断的密度 / The Density of Judgment",
-      "hash": "61d32ac595c8",
+      "hash": "9380430c82c4",
       "in_degree": 0,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
         "the-comment-is-not-the-code",
@@ -6529,7 +6529,8 @@
         "the-tightening-loop",
         "agency-does-not-arise",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-        "the-residue-and-the-free-variable"
+        "the-residue-and-the-free-variable",
+        "on-demand-contexts-keep-coherence-at-one-step"
       ]
     },
     {
@@ -49804,6 +49805,18 @@
       "to": "the-residue-and-the-free-variable",
       "rel": "points_to",
       "label": "The Residue and the Free Variable"
+    },
+    {
+      "from": "the-density-of-judgment",
+      "to": "on-demand-contexts-keep-coherence-at-one-step",
+      "rel": "points_to",
+      "label": "按需语境将融贯保持在一步"
+    },
+    {
+      "from": "the-density-of-judgment",
+      "to": "on-demand-contexts-keep-coherence-at-one-step",
+      "rel": "points_to",
+      "label": "On-Demand Contexts Keep Coherence at One Step"
     },
     {
       "from": "the-descent-that-doesnt-know-where-its-going",

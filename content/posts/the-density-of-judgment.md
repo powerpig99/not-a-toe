@@ -90,6 +90,10 @@ If the externally chosen goal is stripped away, what separates the two patterns 
 
 这一张力揭示了同一个词——“先决条件”——如何根据它是在逻辑中被断言、还是在实践中被观察，而获得截然相反的含义。当在逻辑中被断言为区分标尺时，先决条件的存在被视为中立的背景：它使执行得以启动，却不预先判定残余决策空间将会收缩还是扩张，从而使事后检验保持完好。当运行结束后在实践中被观察时，恰恰是这些先决条件从头到尾充当着限定边界的约束，决定了哪些扩张能够被生成、哪些候选方案算作活动内部的有效项。自动化机器内部的每一次“开放”探索，都早已封闭在周期运行前所固定的先决条件签名之内；要扩张这一签名，就必须由鲜活的心智介入并注入新的自由变量，正如[残余与自由变量](../the-residue-and-the-free-variable/)所追溯的那样。保持逻辑一致要求同时握住这两重面向：先决条件既充当了开启一个周期的赋能起点，又构成了封闭该周期单靠自身所能触及范围的边界。
 
+That tension is how the exact same term—"precondition"—acquires opposite meanings depending on whether it is asserted in logic or observed in practice. Asserted as a logical separator, the presence of preconditions is treated as neutral background that enables execution without prejudging whether the residual decision space will contract or expand, leaving the after-the-fact test intact. Observed in practice after the run, those very preconditions functioned all along as the bounding constraint that determined which expansions could even be generated and which candidates counted as internal to the activity. Every "open" exploration inside an automated machine was already enclosed within the signature of the preconditions fixed before the cycle ran; expanding that signature requires a living Mind to step in and inject a new free variable, as [The Residue and the Free Variable](../the-residue-and-the-free-variable/) traces. Consistency requires holding both faces at once: preconditions serve simultaneously as the enabling starting point of a cycle and as the boundary that closes what the cycle can reach on its own.
+
+先决条件的这一双重角色，解释了处于 Flint 发布事件核心、乃至更广泛的自动化流水线中的现象。流程中途的每一次人类介入，都是注入了一项在起点处未被列明的前提。当一次运行在未决的分岔处停滞、偏离靶标，或返回模棱两可的候选方案时，初始签名便已抵达单靠自身所能推导出的边界；此时介入以调整数据配比、收紧容差，或在两个分支之间择一而行，正是补上了使链条得以继续延伸所需的缺失前提。倘若在一次运行完成后逆向进行因果追溯，识别出沿途为达成预期结果而引入的每一项前提，并将这些被发现的前提编纂进流程最起点的起始先决条件之中——即[按需语境将融贯保持在一步](../on-demand-contexts-keep-coherence-at-one-step/)在智能体工作流中所付诸实施的复盘与编纂回环——那么介于其间的一切便都能由确定性推导得出，从而实现端到端的自动化。将这些前提集中前置到初始边界之中，正是制造出“未经人类介入而达成结果”这一印象的原因：在随后的运行轮次里，中间环节之所以能够不间断地执行，并不是因为人类判断消失了，而是因为过往高密度周期中注入的各项前提已被追溯并编译进了起始先决条件，从而将一段开放式环节转化为封闭式执行，直至探究触及下一处尚未编纂的边缘。
+
 ```mermaid
 flowchart TD
     subgraph S_Dual["“先决条件”的双重反转"]
@@ -102,8 +106,11 @@ flowchart TD
     end
     subgraph S_Pattern["加速下的两条演进轨迹"]
         direction TB
-        T_Closed["封闭式处理（固定终点）<br/>结果穷尽内部决策；自动化减少人类介入"]
-        T_Open["开放式处理（输出即后续选项）<br/>结果倍增残余抉择；自动化推高判断密度"]
+        T_Open["开放式处理（输出即后续选项）<br/>结果倍增残余抉择；中途介入注入缺失前提"]
+        T_Codify["因果逆溯与起点前置<br/>（逆向追溯所注入的前提，并将其编纂进初始先决条件）"]
+        T_Closed["封闭式处理（固定终点）<br/>结果穷尽内部决策；前置前提使中间环节自动化"]
+        T_Open -->|"对已完成运行的因果追溯"| T_Codify
+        T_Codify -->|"使介于其间的一切自动化"| T_Closed
     end
     P_Assert ==>|"运行结束后由结果检验"| S_Pattern
     P_Observe ==>|"每一次扩张皆留在既有框架内，直至心智修正先决条件"| T_Open
@@ -112,11 +119,12 @@ flowchart TD
     style P_Term fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style P_Assert fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style P_Observe fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style T_Closed fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style T_Open fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style T_Codify fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style T_Closed fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
 ```
 
-That tension is how the exact same term—"precondition"—acquires opposite meanings depending on whether it is asserted in logic or observed in practice. Asserted as a logical separator, the presence of preconditions is treated as neutral background that enables execution without prejudging whether the residual decision space will contract or expand, leaving the after-the-fact test intact. Observed in practice after the run, those very preconditions functioned all along as the bounding constraint that determined which expansions could even be generated and which candidates counted as internal to the activity. Every "open" exploration inside an automated machine was already enclosed within the signature of the preconditions fixed before the cycle ran; expanding that signature requires a living Mind to step in and inject a new free variable, as [The Residue and the Free Variable](../the-residue-and-the-free-variable/) traces. Consistency requires holding both faces at once: preconditions serve simultaneously as the enabling starting point of a cycle and as the boundary that closes what the cycle can reach on its own.
+This dual role of preconditions explains the phenomenon at the center of the Flint announcement and of automated pipelines more broadly. Every mid-process human intervention is the injection of a premise that was not specified at the beginning. When a run stalls on an undecided split, drifts off target, or returns ambiguous candidates, the initial signature has reached the boundary of what can be derived from it alone; stepping in to adjust a data mixture, tighten a tolerance, or select one branch over another supplies the missing premise required for the chain to continue. If a completed run is then traced causally backward to identify every premise introduced along the way in reaching the desired result, and those discovered premises are codified into the starting preconditions at the very beginning of the process—the recap-and-codification loop [On-Demand Contexts Keep Coherence at One Step](../on-demand-contexts-keep-coherence-at-one-step/) operationalizes across agentic workflows—everything in between becomes deterministically derivable and can be automated end to end. Front-loading those premises into the initial boundary is what creates the impression of a result achieved without human intervention: on the subsequent pass, the middle executes without interruption not because human judgment disappeared, but because the premises injected across prior high-density cycles have been traced and compiled into the starting preconditions, converting an open-ended segment into a closed execution until the inquiry hits its next uncodified edge.
 
 ```mermaid
 flowchart TD
@@ -130,8 +138,11 @@ flowchart TD
     end
     subgraph S_Pattern["Two Trajectories Under Acceleration"]
         direction TB
-        T_Closed["Closed-Ended Treatment (Fixed Endpoint)<br/>Outcome exhausts internal decisions; automation reduces intervention"]
-        T_Open["Open-Ended Treatment (Output as Further Options)<br/>Outcome multiplies residual choices; automation raises judgment density"]
+        T_Open["Open-Ended Treatment (Output as Further Options)<br/>Outcome multiplies residual choices; mid-run interventions inject missing premises"]
+        T_Codify["Causal Tracing & Front-Loading at the Start<br/>(Tracing injected premises backward and codifying them into initial preconditions)"]
+        T_Closed["Closed-Ended Treatment (Fixed Endpoint)<br/>Outcome exhausts internal decisions; front-loaded premises automate the middle"]
+        T_Open -->|"Causal trace of completed run"| T_Codify
+        T_Codify -->|"Automates everything in between"| T_Closed
     end
     P_Assert ==>|"Tested by outcome after the run"| S_Pattern
     P_Observe ==>|"Every expansion stays inside the prior frame until a Mind revises the preconditions"| T_Open
@@ -140,8 +151,9 @@ flowchart TD
     style P_Term fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style P_Assert fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style P_Observe fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style T_Closed fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style T_Open fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style T_Codify fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style T_Closed fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
 ```
 
 每当关于进步的话语将更高的自动化吞吐量等同于人类介入的消失时，它就遮蔽了这一结构。那些声称机器正在取代研究者、或是自动化科学正逼近自足自治的说法，只记录了手工实现工作的减少，却无视了判断密度的攀升。研究活动的开放性并非该领域的某种神秘属性，而是导向目标使然——这些目标将每一次成功的输出都当作供进一步筛选的材料，而非停下的理由。当这些目标被收窄为固定靶标时，同样的自动化就会产出封闭的完结。当目标保持开放时，加速回环并不会消除剩余的人类抉择，反而会推高它们的发生频率与杠杆率。工作仿佛正被机器接管、同时却又在成倍增加的悖论式体验，因此并非对事实的认知混乱，而是一个开放式流程在更高时钟频率下运转时的精确写照。
