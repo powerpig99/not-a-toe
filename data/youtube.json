@@ -406,6 +406,38 @@
     "processed": "2026-10-21T14:56:40.309Z",
     "playlist": "PLGrxskF8JnDo"
    }
+  },
+  "the-aesthetic-escalator-and-the-melancholy-of-the-balcony": {
+   "en": {
+    "id": "_mc2ptNU35I",
+    "url": "https://youtu.be/_mc2ptNU35I",
+    "title": "The Aesthetic Escalator and the Melancholy of the Balcony",
+    "privacy": "public",
+    "uploaded": "2026-10-22T18:22:46.283Z",
+    "file": "studio/post/the-aesthetic-escalator-and-the-melancholy-of-the-balcony/final/the-aesthetic-escalator-and-the-melancholy-of-the-balcony.en.16x9.final.mp4",
+    "sha256": {
+     "film": "d1f91f3d5dc0f31928d2ca35f3551632d31a21c850ef38b128ad3557fa673c68",
+     "intro": "3bd79680ba34bb5f570e6e1ad74e314c99f0bc7456bf822ddd5d024a2a1644cf"
+    },
+    "status": "processed",
+    "processed": "2026-10-22T18:23:38.930Z",
+    "playlist": "PLMyi7vp2KMyA"
+   },
+   "zh": {
+    "id": "hgaaS7GBpsM",
+    "url": "https://youtu.be/hgaaS7GBpsM",
+    "title": "审美的自动扶梯与阳台的忧郁",
+    "privacy": "public",
+    "uploaded": "2026-10-22T18:23:47.976Z",
+    "file": "studio/post/the-aesthetic-escalator-and-the-melancholy-of-the-balcony/final/the-aesthetic-escalator-and-the-melancholy-of-the-balcony.zh.16x9.final.mp4",
+    "sha256": {
+     "film": "8305097fa191f9f136904d7c8ba1a142ec16c0897adf399f318f6104a5c99ed8",
+     "intro": "f8366b879aad457d4173f38a4d133e018aa7b8765599de84755f7ef795cfe5f1"
+    },
+    "status": "processed",
+    "processed": "2026-10-22T18:24:30.015Z",
+    "playlist": "PLGrxskF8JnDo"
+   }
   }
  }
 }
