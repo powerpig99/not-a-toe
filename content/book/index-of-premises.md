@@ -3005,7 +3005,7 @@ The narrative presumes immigration is a single positive force explaining America
 
 Presumes delegating a task to an automated system also transfers ultimate moral culpability; useful for contract mechanics, it collapses when physical harm lands.
 
-→ [任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences](../../posts/the-delegation-of-the-task-and-the-inalienability-of-consequences/)
+→ [任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences](../../posts/the-delegation-of-the-task-and-the-inalienability-of-consequences/) · [判断的密度 / The Density of Judgment](../../posts/the-density-of-judgment/)
 
 ### 激励机制设计 / Incentive Design
 `经济 / Economic`
@@ -5264,4 +5264,13 @@ Presumes that a single agent can self-correct within its own session trajectory 
 
 Presumes that decades of accumulated practical judgment and taste form a stable stock that AI automatically revalues and amplifies once execution and ready answers become cheap; useful in registering that cheap candidate generation shifts leverage toward question selection and failure-mode discernment, it reaches its boundary in that historical accumulation formed around the very bottlenecks AI now compresses turns into a residual trajectory pointing at vanished constraints once the frontier moves, leaving only the habit of treating one's prior models as provisional and falsifying hypotheses at the current edge transferable.
 
-→ [判断力不是可囤积的存量 / Judgment Is Not a Stock](../../posts/judgment-is-not-a-stock/) · [审美的自动扶梯与阳台的忧郁 / The Aesthetic Escalator and the Melancholy of the Balcony](../../posts/the-aesthetic-escalator-and-the-melancholy-of-the-balcony/)
+→ [判断力不是可囤积的存量 / Judgment Is Not a Stock](../../posts/judgment-is-not-a-stock/) · [审美的自动扶梯与阳台的忧郁 / The Aesthetic Escalator and the Melancholy of the Balcony](../../posts/the-aesthetic-escalator-and-the-melancholy-of-the-balcony/) · [判断的密度 / The Density of Judgment](../../posts/the-density-of-judgment/)
+
+### 无人类介入的自动化研究 / Automated Research Without Human Intervention
+`技术 / Technological`
+
+预设将提出假设、编码实现、运行测试与迭代演进的研究回环自动化，便能走向零人类介入的自主创造；在登记有界搜索空间内常规实现吞吐量的跃升时有用，但它漏计了起首锚定的先决条件、途中的参数修正与收尾的最终验收，并忽略了在把输出当作后续筛选原材料的开放式探究中，周期缩短反而压缩了两次介入之间的日历间隔、推高了留归决断心智的判断密度。
+
+Presumes that automating the research loop of proposing, implementing, testing, and iterating moves toward autonomous creation without human intervention; useful in registering jumps in routine implementation throughput inside bounded search spaces, it reaches its boundary by omitting the framing preconditions at the start, parameter revisions along the run, and final acceptance at the end, while missing that in open-ended inquiry—where outputs serve as material for further selection—shorter cycles shrink the calendar interval between interventions and raise the density of human judgment.
+
+→ [判断的密度 / The Density of Judgment](../../posts/the-density-of-judgment/)
