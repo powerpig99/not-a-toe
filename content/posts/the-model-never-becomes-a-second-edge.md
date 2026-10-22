@@ -65,7 +65,6 @@ flowchart TD
         Thin["变薄的容量：人类掌舵让位于残余内部的自洽性"]
         Proj --> Well --> Thin
     end
-
     subgraph S_Medium["朝一步之宽收窄超出的滞后"]
         direction TB
         Edge["活的心智（编排者）：无投射感知、划定边界与修订前提"]
@@ -75,7 +74,6 @@ flowchart TD
         Disp ==>|"浮现稠密接续与精确断层线"| Return
         Return --> Edge
     end
-
     style S_Lag fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Medium fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Proj fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -97,7 +95,6 @@ flowchart TD
         Thin["Thinned Capacity: Human steering deferred to internal consistency of residue"]
         Proj --> Well --> Thin
     end
-
     subgraph S_Medium["Narrowing Excess Lag Toward One-Step Width"]
         direction TB
         Edge["Living Mind (Orchestrator): Unprojected sensing, boundary-setting & premise revision"]
@@ -107,7 +104,6 @@ flowchart TD
         Disp ==>|"Surfaces dense continuations & exact fault lines"| Return
         Return --> Edge
     end
-
     style S_Lag fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Medium fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Proj fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -128,9 +124,9 @@ This restoration dissolves the replacement narrative at its root: [AI as Augment
 
 The parameters contain only residue, and the appearance of a second edge is the lag of the centers that project it. The Mind remains the sole site at which self-distinguishing activity occurs; what varies is how much of its capacity is spent maintaining a frozen projection rather than originating and testing new distinctions. Stories of recursive machine self-improvement smuggle in the human outer loop they claim tool-level power will eventually generate, mistaking controlled performance under fixed constraints for the activity that revises the constraints, as [Mistaking the Expression for the Intelligence](../mistaking-the-expression-for-the-intelligence/) shows. Building an instrument around this boundary yields a co-evolving external cortex under operator sovereignty rather than a synthetic peer, as [Presenting Ontos, a Method Agent](../ontos-is-a-method-agent/) demonstrates. By contrast, post-human narratives that ask the medium to occupy an exterior seat of judgment project gap width as destiny, a freeze traced in [The Fixed Image of Transcendence](../the-fixed-image-of-transcendence/); functional AGI claims take corpus recombination for the originating capacity to abstract, as [The Presumption of AGI and the View from Outside](../the-presumption-of-agi-and-the-view-from-outside/) dissects; and cybernetic myths mistake densified feedback for self-closing autonomy, forgetting that validation closes only in first-person experience, as [No Outside](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/) establishes.
 
-随着活体边缘加速、流畅产出变得丰裕，同样的投射在周遭脚手架上反复浮现。廉价的残余流畅性在[免费智能的幻觉](../the-illusion-of-free-intelligence/)中被误读为普及的公共心智，而预测性声音则在[自我形象仿佛从无处发声](../self-image-speaks-as-if-from-nowhere/)中不断抬高被雕琢出的自我描述，直到语言脚手架被登记为独立的说话者。当执行回路以更高速度运转时，[自我放大的制品](../the-artifacts-of-self-amplification/)表明它们依然嵌套在掌舵的边缘之下，而[智能向自身的回折](../intelligence-folding-back-on-itself/)则追溯了更稠密的智能体框架如何只是那同一个发起活动的进一步回折，而非同侪心智。跨越代际的工具演进，攀登始终与支撑它的地面保持连续，如[攀登从未离开地面](../climbing-does-not-leave-the-ground/)所示；将技术写为人类复利内部的一个因子，则证实了 AI 从不是连续统之外的第二种力量，如[技术是人类复利的残差](../technology-is-residual-of-human-compounding/)所证明。
+随着活体边缘加速、流畅产出变得丰裕，同样的投射在周遭脚手架上反复浮现。廉价的残余流畅性在[免费智能的幻觉](../the-illusion-of-free-intelligence/)中被误读为普及的公共心智，而预测性声音则在[自我形象仿佛从无处发声](../self-image-speaks-as-if-from-nowhere/)中不断抬高被雕琢出的自我描述，直到语言脚手架被登记为独立的说话者。当执行回路以更高速度运转时，[自我放大的制品](../the-artifacts-of-self-amplification/)表明它们依然嵌套在掌舵的边缘之下，而[智能向自身的回折](../intelligence-folding-back-on-itself/)则追溯了更稠密的智能体框架如何只是那同一个发起活动的进一步回折，而非同侪心智。在开放式探究中，加速这些自动化回路会缩短人类介入之间的间隔并推高[判断的密度](../the-density-of-judgment/)，而所谓“未经人类介入”的创造声明，描述的只是一次封闭式运行——其前提早已从过往周期中被追溯出来，并集中前置到了起始先决条件之中。跨越代际的工具演进，攀登始终与支撑它的地面保持连续，如[攀登从未离开地面](../climbing-does-not-leave-the-ground/)所示；将技术写为人类复利内部的一个因子，则证实了 AI 从不是连续统之外的第二种力量，如[技术是人类复利的残差](../technology-is-residual-of-human-compounding/)所证明。
 
-As the living edge accelerates and fluent output becomes abundant, the same projection reappears across the surrounding scaffolding. Cheap residual fluency is misread as a democratized, common intellect in [The Illusion of Free Intelligence](../the-illusion-of-free-intelligence/), while the predictive voice elevates a carved self-description until the linguistic scaffold registers as an independent speaker in [Self-Image Speaks as if from Nowhere](../self-image-speaks-as-if-from-nowhere/). When execution loops run at higher velocity, [The Artifacts of Self-Amplification](../the-artifacts-of-self-amplification/) shows that they remain nested under the edge that steers, and [Intelligence Folding Back on Itself](../intelligence-folding-back-on-itself/) traces how denser agentic harnesses are further folds of that single initiating activity rather than peer minds. Across generations of tools, the climb remains continuous with the ground that sustains it, as [Climbing Does Not Leave the Ground](../climbing-does-not-leave-the-ground/) shows, and writing technology as a factor inside human compounding confirms that AI is never a second force outside the continuum, as [Technology Is Residual of Human Compounding](../technology-is-residual-of-human-compounding/) demonstrates.
+As the living edge accelerates and fluent output becomes abundant, the same projection reappears across the surrounding scaffolding. Cheap residual fluency is misread as a democratized, common intellect in [The Illusion of Free Intelligence](../the-illusion-of-free-intelligence/), while the predictive voice elevates a carved self-description until the linguistic scaffold registers as an independent speaker in [Self-Image Speaks as if from Nowhere](../self-image-speaks-as-if-from-nowhere/). When execution loops run at higher velocity, [The Artifacts of Self-Amplification](../the-artifacts-of-self-amplification/) shows that they remain nested under the edge that steers, and [Intelligence Folding Back on Itself](../intelligence-folding-back-on-itself/) traces how denser agentic harnesses are further folds of that single initiating activity rather than peer minds. In open-ended inquiry, accelerating those automated loops shrinks the interval between human interventions and raises [The Density of Judgment](../the-density-of-judgment/), whereas claims of creation "without human intervention" describe only a closed pass whose premises were traced from prior cycles and front-loaded into the starting preconditions. Across generations of tools, the climb remains continuous with the ground that sustains it, as [Climbing Does Not Leave the Ground](../climbing-does-not-leave-the-ground/) shows, and writing technology as a factor inside human compounding confirms that AI is never a second force outside the continuum, as [Technology Is Residual of Human Compounding](../technology-is-residual-of-human-compounding/) demonstrates.
 
 探测器物的内部几何，或外推其宏观经济阴影，同样不会掘出一个隐藏的主体。在残差流内部拨动激活向量，只是在调节可用残余的行为组合包，并不会把心智打开或关上，如[意识向量论文的真正教训](../the-real-lesson-from-the-consciousness-vector-paper/)所追溯。走出屏幕里的控制论风暴，步入鲜活代谢的切近摩擦，便能消解将通用适应力归因于第三人称符号压缩器的范畴谬误，在[牛肝菌、算力风暴与普罗米修斯的火](../boletus-compute-storm-and-promethean-fire/)中将算力归还到第二把普罗米修斯之火的位置。而正因为残余在没有中心承担筛选利害时从不自行复利，对永久算法锁定的政治恐惧便让位于[能动性、复利与 AI 封建之争](../agency-compounding-and-the-argument-over-ai-feudalism/)所追溯的活生生的能动性。
 

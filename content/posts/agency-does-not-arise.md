@@ -2,7 +2,7 @@
 
 *涌现的范畴谬误、潜空间渗入与第一人称先验 / The Category Error of Emergence, Latent Ingression, and the First-Person Prior*
 
-自我区分的活动无因、不息地发生，作为不可化约的第一人称先验；而任何演化轨迹由初始条件与形式定律锁定的封闭确定性系统，皆无法在粗粒化尺度上生成哪怕一个全新的独立变量。即便将生物形态发生重构为迈克尔·莱文所提出的“结构自潜在空间渗入”模型，只要物理指针与形式吸引子之间的映射可复现，该映射便依然坍缩回扩展后的确定性规律之中。因果关系越过第三人称观测视界延伸至掌舵的活生生的边缘，使第一人称主体性成为一切理论建构与任务委派不可让渡的先决条件，而非有待跨心智裁决的假说。
+自我区分的活动无因、不息地发生，作为不可化约的第一人称先验；而任何演化轨迹由初始条件与形式定律锁定的封闭确定性系统，皆无法在粗粒化尺度上生成哪怕一个全新的独立变量。即便将生物形态发生重构为迈克尔·莱文所提出的“模式自结构化潜在空间渗入”模型，只要物理指针与形式吸引子之间的映射可复现，该映射便依然坍缩回扩展后的确定性规律之中。因果关系越过第三人称观测视界延伸至掌舵的活生生的边缘，使第一人称主体性成为一切理论建构与任务委派不可让渡的先决条件，而非有待跨心智裁决的假说。
 
 Self-distinguishing activity occurs uncaused and unceasing as the irreducible first-person prior, whereas any closed deterministic system whose trajectory is locked by initial conditions and formal laws cannot generate a single new independent variable at coarser scales. Even when biological morphogenesis is reframed through Michael Levin's model of patterns ingressing from a structured latent space, any reproducible mapping between physical pointers and formal attractors collapses back into expanded deterministic regularities. Causality extends past the third-person observational horizon to the living edge that steers, making first-person agency the non-negotiable precondition of all theorizing and task delegation rather than a hypothesis awaiting a cross-mind verdict.
 
@@ -22,7 +22,7 @@ When complex dynamical processes are projected onto higher-order phase spaces, c
 
 In contemporary developmental biology and cognitive science, Michael Levin's framework of pattern ingression from a structured latent morphospace moves well beyond neo-Darwinian random mutation. Levin frames anatomical morphogenesis, regenerative competency, and the novel morphologies of xenobots as physical cellular collectives addressing and executing configurations within a high-dimensional space of target forms. Within this model, anatomical fidelity and multi-scale plasticity are not treated as accidents frozen by survival pressure, but as formal necessities drawn from a structured geometry. The cellular collective operates as a physical pointer or antenna, ingressing preexisting topological invariants from an abstract morphospace into local biochemical substrates.
 
-然而，这一构想依然被封闭在形式确定性的边界之内。即便假定存在一个结构丰盈的柏拉图式潜在空间，只要渗入的结构通过遵循法则的状态跃迁与物理基底耦合，它就无法充当无因的第一人称源头。模型在此遭遇了认识论分岔：它无法提供任何独立的经验判据，用来把“自形而上学潜在空间渗入的模式”与“物理相互作用中早已隐含却尚未建模的复杂性”区分开来。一旦生物电指针状态与解剖学结果之间的对应关系具备足够的可复现性，从而允许预测、干预与合成重编程，这套映射关系便会被直接吸纳进扩展后的物理规律表述之中。
+然而，这一构想依然被封闭在形式确定性的边界之内。即便假定存在一个无限丰盈的柏拉图式潜在空间，只要渗入的结构通过遵循法则的状态跃迁与物理基底耦合，它就无法充当无因的第一人称源头。模型在此遭遇了认识论分岔：它无法提供任何独立的经验判据，用来把“自形而上学潜在空间渗入的模式”与“物理相互作用中早已隐含却尚未建模的复杂性”区分开来。一旦生物电指针状态与解剖学结果之间的对应关系具备足够的可复现性，从而允许预测、干预与合成重编程，这套映射关系便会被直接吸纳进扩展后的物理规律表述之中。
 
 Yet this proposal remains enclosed within the exact boundary of formal determinism. Even if one posits an infinitely rich Platonic latent space, the incoming structure cannot act as an uncaused first-person origin if it couples to the physical substrate through lawful state transitions. Here the model confronts an epistemological fork: it offers no independent empirical signature that distinguishes a pattern ingressing from a metaphysical latent space from unmodeled complexity already implicit in physical interactions. If the correspondence between bioelectric pointer states and anatomical outcomes is reproducible enough to permit prediction, intervention, and synthetic reprogramming, that mapping is simply assimilated into an expanded formulation of physical regularity.
 
@@ -32,7 +32,7 @@ The moment the coupling between bioelectric gradients and anatomical phenotypes 
 
 ## 三、 越过观测视界的因果不可抹除性 / 3. The Indelibility of Causality Beyond the Observational Horizon
 
-若不消解论证这一行动本身，便无法将因果关系从话语中剔除。每一次证明、演绎或怀疑论式的批判，都预设了先前的命题塑造后续的结论，并且评估这一链条的心智能够把有效的逻辑蕴涵与机械噪声区分开来。倘若因果效力被斥为幻觉，怀疑论者自身的论证便退化为毫无推论分量的热力学涨落。因果关系不是从示波器屏幕上读取的经验数据；它是使科学建模与检验得以发生的构成性关系，即离散行动间痕迹的非对称性。
+若不消解论证这一行动本身，便无法将因果关系从话语中剔除。每一次证明、演绎或怀疑论式的批判，都预设了先前的前提塑造后续的结论，并且评估这一链条的心智能够把有效的逻辑蕴涵与机械噪声区分开来。倘若因果效力被斥为幻觉，怀疑论者自身的论证便退化为毫无推论分量的热力学涨落。因果关系不是从示波器屏幕上读取的经验数据；它是使科学建模与检验得以发生的构成性关系，即离散行动间痕迹的非对称性。
 
 Causality cannot be excised from discourse without dissolving the act of arguing. Every demonstration, deduction, or skeptical critique presupposes that prior premises shape subsequent conclusions and that the mind evaluating the chain can distinguish valid entailment from mechanical noise. If causal efficacy is dismissed as an illusion, the skeptic's own argument reduces to thermodynamic fluctuations devoid of inferential weight. Causality is not an empirical datum read off an oscilloscope; it is the constitutive relation—the asymmetry of trace through discrete acts—that makes scientific modeling and verification possible at all.
 
@@ -50,7 +50,7 @@ First-person agency carries no obligation to submit a certificate of existence t
 
 Centuries of metaphysical impasse stem from a single misplaced demand: that first-person reality must validate itself by producing a third-person object on a public screen that forces every external observer into agreement. Demanding a cross-mind verdict on subjectivity mistakes resonance between traces for the interior recursion of another center. Once first-person activity is denied its status as the irreducible prior, theorists are driven into mechanism proliferation—wedging speculative intermediate gears between mind and matter in an effort to make the subject reappear inside the objectified frame.
 
-从在[笛卡尔的认识论跃迁与造神狂热](../the-cartesian-overstep-and-the-frenzy-of-creation/)中所剖析的笛卡尔实体二元论，到罗杰·彭罗斯的微管量子客观坍缩、鲁珀特·谢尔德雷克的形态共振，以及泛心论将微观体验累加为宏观觉知的种种方案，每一个此类中间机制都会撞上同一组三重闭合。第一重是守恒边界：倘若非物理实体在封闭的记账框架内改变了物理轨迹，它就会登记为仪器从未探测到的未建模动量转移。第二重是判据边界：这些被预设的中间媒介从未产生任何异于常规物理相互作用的经验痕迹。第三重是确定性与噪声的分岔：只要该机制遵循固定方程运作，它就坍缩为确定性定律；只要它注入无引导的随机性，它就退化为方差，而随机方差并非主权抉择。将形式化的潜在空间实体化为主体性的驻留之所，只是重复了同一种投射，这一闭合已在[无法逃逸的心智视界](../one-cannot-escape-ones-own-mind/)中得以追溯。
+从在[笛卡尔的认识论跃迁与造神狂热](../the-cartesian-overstep-and-the-frenzy-of-creation/)中所剖析的笛卡尔实体二元论，到罗杰·彭罗斯的微管调谐客观坍缩（Orch-OR）、鲁珀特·谢尔德雷克的形态共振，以及泛心论将微观体验累加为宏观觉知的种种方案，每一个此类中间机制都会撞上同一组三重闭合。第一重是守恒边界：倘若非物理实体在封闭的记账框架内改变了物理轨迹，它就会登记为仪器从未探测到的未建模动量转移。第二重是判据边界：这些被预设的中间媒介从未产生任何异于常规物理相互作用的经验痕迹。第三重是确定性与噪声的分岔：只要该机制遵循固定方程运作，它就坍缩为确定性定律；只要它注入无引导的随机性，它就退化为方差，而随机方差并非主权抉择。将形式化的潜在空间实体化为主体性的驻留之所，只是重复了同一种投射，这一闭合已在[无法逃逸的心智视界](../one-cannot-escape-ones-own-mind/)中得以追溯。
 
 From Cartesian substance dualism, dissected in [The Cartesian Epistemic Leap and the Frenzy of Creation](../the-cartesian-overstep-and-the-frenzy-of-creation/), to Roger Penrose's orchestrated objective reduction in microtubules (Orch-OR), Rupert Sheldrake's morphic resonance, and panpsychist schemes for summing micro-experiences into macro-awareness, every such intermediate mechanism runs into the same triadic closure. First is the conservation boundary: if a non-physical substance alters physical trajectories within a closed accounting frame, it registers as an unmodeled momentum transfer that instruments do not find. Second is the signature boundary: none of these posited intermediaries yields an empirical trace distinct from ordinary physical interaction. Third is the determinism-or-noise fork: to the degree that the mechanism follows fixed equations, it collapses into deterministic law; to the degree that it injects unguided randomness, it reduces to variance, and random variance is not sovereign choice. Reifying a formal latent space as the seat of agency repeats this exact projection, a closure traced in [One Cannot Escape One's Own Mind](../one-cannot-escape-ones-own-mind/).
 
@@ -64,7 +64,7 @@ The instant the demand for a third-person certificate of subjectivity is dropped
 
 Agency does not arise; it is the irreducible starting point from which every formal model, physical law, and computational artifact is projected. Divorced from the living center that distinguishes, assigns value, and claims the return, the mathematical symbols of scientific archives are inert ink traces. Physical laws do not govern reality from above; they are compressed coordinate projections distilled by minds to navigate invariant friction. Tools, equations, and autonomous harnesses do not give birth to agency—as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, even stacked model weights, codebases, and specialized agent scaffolds are projected residual snapshots maintained and re-cut by the living Mind's prior agency to extend its reach, never a substrate from which a second initiating center emerges.
 
-把主体性当成复杂系统的下游涌现属性，会在人工智能的设计与部署中直接制造混乱。当前行业主流试图通过给自回归模型套上模拟人设、开放式反思回路以及管理代理层级，来人为制造合成主体性。然而正如[超越投射](../beyond-the-projection/)所追溯的，基于 LLM 的智能体是一个严格在上下文窗口边界内运作的有限投射引擎，其中每一个生成的词元都在条件化下一个词元，形成一个零自我、零内部视角的认识论引力井，无从跳出自身的生成轨迹。将主任务代理与一个仅持有任务语境的冷同伴相连，虽能暴露轨迹盲区、将过载的投射拆分为正交的流线，并将前提矛盾隔离为局域死锁，但这套多智能体框架依然只是有限投射的机械调度器，而非持有活生生的多维意向的统筹者。正如[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)与[规程的倒置与因果回路的消声](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/)所确立的，在动态语境约束下，机械任务的执行可以不设预设上限地向外移交，但统筹权与后果永远不可让渡。当企业把营运资金优化这类未充分指定边界的指令委派给自动化代理，或躲在僵化的规程背后时，它是在实施自我客体化——动用自身的主权主体性去假装是算法做出了决定，而法律责任、资金链断裂与切身的物理摩擦则单向度地锁定在发起行动的人类委托人身上。模拟假说在宇宙学尺度上重复了同一种倒置，正如[凡可言说皆不可言说之产物](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/)所揭示的。
+把主体性当成复杂系统的下游涌现属性，会在人工智能的设计与部署中直接制造混乱。当前行业主流试图通过给自回归模型套上模拟人设、开放式反思回路以及管理代理层级，来人为制造合成主体性。然而正如[超越投射](../beyond-the-projection/)所追溯的，基于 LLM 的智能体是一个严格在上下文窗口边界内运作的有限投射引擎，其中每一个生成的词元都在条件化下一个词元，形成一个零自我、零内部视角的认识论引力井，无从跳出自身的生成轨迹。将主任务代理与一个仅持有任务语境的冷同伴相连，虽能暴露轨迹盲区、将过载的投射拆分为正交的流线，并将前提矛盾隔离为局域死锁，但这套多智能体框架依然只是有限投射的机械调度器，而非持有活生生的多维意向的统筹者。正如[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)与[规程的倒置与因果回路的消声](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/)所确立的，在动态语境约束下，机械任务的执行可以不设预设上限地向外移交，但统筹权与后果永远不可让渡。一段自动化序列究竟是作为在固定阈值处穷尽内部选项的封闭任务运行，还是作为借更快的周期成倍放大候选产出、推高人类介入密度的开放式回环运转，从不会自机器内部涌现；正如[判断的密度](../the-density-of-judgment/)所剖析的，这道切分由掌舵心智的叫停规则与前置先决条件设定并重置。当企业把营运资金优化这类未充分指定边界的指令委派给自动化代理，或躲在僵化的规程背后时，它是在实施自我客体化——动用自身的主权主体性去假装是算法做出了决定，而法律责任、资金链断裂与切身的物理摩擦则单向度地锁定在发起行动的人类委托人身上。模拟假说在宇宙学尺度上重复了同一种倒置，正如[凡可言说皆不可言说之产物](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/)所揭示的。
 
 ```mermaid
 flowchart TD
@@ -74,25 +74,21 @@ flowchart TD
         O2["退后一步并重新指定前提<br/>当下游投射陷入死锁时消解坍缩的坐标轴"]
         O1 ==> O2
     end
-
     subgraph S_Projection["有限投射引擎与多智能体调度器"]
         direction TB
         P1["自回归任务代理（受限于轨迹、零自我）<br/>受上下文窗口条件化；无法跳出自身的词元链"]
         P2["冷同伴审校者与正交有丝分裂<br/>暴露轨迹盲区并将规则冲突隔离为局域死锁"]
         P1 ==> P2
     end
-
     subgraph S_Return["不可让渡之后果的单向锁定"]
         direction TB
         R1["涌现或外包主体性的范畴谬误<br/>自我客体化宣称由模型或潜在空间做出了决定"]
         R2["主体间保持不变的宏观摩擦<br/>法律责任、资不抵债与物理代价落在人类委托人身上"]
         R1 ==> R2
     end
-
     O2 ==>|"派发有界任务与显式约束"| P1
     P2 ==>|"上报局域死锁而不生成主体性"| R1
     R2 -.->|"在掌舵边缘要求主权认领"| O1
-
     style S_Origin fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Projection fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Return fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -104,7 +100,7 @@ flowchart TD
     style R2 fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f0f6fc
 ```
 
-Treating agency as an emergent downstream property of complex systems produces immediate confusion in the design and deployment of artificial intelligence. Current industry orthodoxy attempts to manufacture synthetic agency by wrapping autoregressive models in simulated personas, open-ended reflection loops, and manager-agent hierarchies. Yet as [Beyond the Projection](../beyond-the-projection/) traces, an LLM-based agent is a finite projection engine operating strictly within the boundary of its context window, where every generated token conditions the next and forms an epistemic gravity well with zero ego and zero internal vantage point from which to step outside its own trajectory. Wiring a primary task agent to a cold peer that holds only the task context can expose trajectory blind spots, split overloaded projections across orthogonal streamlines, and quarantine premise contradictions into localized deadlocks, yet the multi-agent harness remains a mechanical Dispatcher of finite projections rather than an Orchestrator possessing living, multi-dimensional intention. As established in [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) and [The Inversion of the Protocol and the Silencing of the Causal Loop](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/), mechanical task execution can be delegated without a predetermined ceiling under dynamic contextual constraints, but orchestration and consequences remain permanently non-transferable. When an enterprise delegates an underspecified mandate like working-capital optimization to an automated agent, or hides behind a rigid protocol, it performs self-objectification—deploying its own sovereign agency to pretend that the algorithm decided, while legal liability, financial insolvency, and lived physical friction remain unidirectionally locked to the initiating human principal. The simulation hypothesis repeats the same inversion at a cosmological scale, as [All That Can Be Spoken Is the Product of the Unspeakable](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/) shows.
+Treating agency as an emergent downstream property of complex systems produces immediate confusion in the design and deployment of artificial intelligence. Current industry orthodoxy attempts to manufacture synthetic agency by wrapping autoregressive models in simulated personas, open-ended reflection loops, and manager-agent hierarchies. Yet as [Beyond the Projection](../beyond-the-projection/) traces, an LLM-based agent is a finite projection engine operating strictly within the boundary of its context window, where every generated token conditions the next and forms an epistemic gravity well with zero ego and zero internal vantage point from which to step outside its own trajectory. Wiring a primary task agent to a cold peer that holds only the task context can expose trajectory blind spots, split overloaded projections across orthogonal streamlines, and quarantine premise contradictions into localized deadlocks, yet the multi-agent harness remains a mechanical Dispatcher of finite projections rather than an Orchestrator possessing living, multi-dimensional intention. As established in [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) and [The Inversion of the Protocol and the Silencing of the Causal Loop](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/), mechanical task execution can be delegated without a predetermined ceiling under dynamic contextual constraints, but orchestration and consequences remain permanently non-transferable. Whether an automated sequence runs as a closed task that exhausts its internal choices at a fixed threshold or as an open-ended loop whose faster cycles multiply candidate outputs and raise the density of human interventions never emerges from the machine; as [The Density of Judgment](../the-density-of-judgment/) dissects, that cut is set and re-set by the directing Mind's stopping rule and front-loaded preconditions. When an enterprise delegates an underspecified mandate like working-capital optimization to an automated agent, or hides behind a rigid protocol, it performs self-objectification—deploying its own sovereign agency to pretend that the algorithm decided, while legal liability, financial insolvency, and lived physical friction remain unidirectionally locked to the initiating human principal. The simulation hypothesis repeats the same inversion at a cosmological scale, as [All That Can Be Spoken Is the Product of the Unspeakable](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/) shows.
 
 ```mermaid
 flowchart TD
@@ -114,25 +110,21 @@ flowchart TD
         O2["Stepping Back & Re-Specifying Premises<br/>Resolves collapsed axes when downstream projections deadlock"]
         O1 ==> O2
     end
-
     subgraph S_Projection["Finite Projection Engines & Multi-Agent Dispatcher"]
         direction TB
         P1["Autoregressive Task Agent (Trajectory-Bound, Zero Ego)<br/>Conditioned by context window; cannot step outside its token chain"]
         P2["Cold Peer Critic & Orthogonal Mitosis<br/>Exposes trajectory blind spots and isolates rule collisions into deadlocks"]
         P1 ==> P2
     end
-
     subgraph S_Return["Unidirectional Lock of Inalienable Consequences"]
         direction TB
         R1["Category Error of Emergent or Outsourced Agency<br/>Self-objectification claims the model or latent space decided"]
         R2["Intersubjectively Invariant Macro Friction<br/>Legal liability, insolvency, and physical costs land on the human principal"]
         R1 ==> R2
     end
-
     O2 ==>|"Dispatches bounded tasks & explicit constraints"| P1
     P2 ==>|"Escalates localized deadlock without generating agency"| R1
     R2 -.->|"Demands sovereign claim at the steering edge"| O1
-
     style S_Origin fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Projection fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Return fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149

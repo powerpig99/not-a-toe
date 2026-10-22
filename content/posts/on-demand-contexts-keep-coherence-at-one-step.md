@@ -39,7 +39,6 @@ flowchart TD
         Watchdog["看门狗与截止规则：以盲目的预设决定替代裁决"]
         Retained --> Drift --> Watchdog
     end
-
     subgraph S_OnDemand["按需克隆与丢弃回路（单步临时位点）"]
         direction TB
         Load["全新语境加载：基础模型 + 章程 + 技能 + 准则（逻辑融贯）"]
@@ -50,9 +49,7 @@ flowchart TD
         Debate -->|"可追溯至共享前提"| Converge
         Debate -->|"需要新的决定"| Escalate
     end
-
     Watchdog -.->|"借由丢弃常驻历史而消解"| Load
-
     style S_Standing fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_OnDemand fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Retained fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -75,7 +72,6 @@ flowchart TD
         Watchdog["Watchdog / Deadline Rule: Executes blind pre-made decision in place of judgment"]
         Retained --> Drift --> Watchdog
     end
-
     subgraph S_OnDemand["On-Demand Clone-and-Drop Loop (Single-Step Temporary Loci)"]
         direction TB
         Load["Fresh Context Load: Base model + charter + skills + house rule (logical coherence)"]
@@ -86,9 +82,7 @@ flowchart TD
         Debate -->|"Traceable to shared premise"| Converge
         Debate -->|"Requires new decision"| Escalate
     end
-
     Watchdog -.->|"Dissolved by dropping standing history"| Load
-
     style S_Standing fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_OnDemand fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Retained fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -122,7 +116,7 @@ In the broad sense the codebase—runbook, house rule, charters, skills, handoff
 
 After publication a fresh bot loads the house rule and reads the whole run folder—artifacts, critique records, escalations. It asks one question: where did the run fall short of logical coherence? Typical findings are a charter that still holds conflicting goals or a skill step built on an unstated premise. The recap proposes specific changes; the human decides. Together with the operator’s review of the finished process, this is the main check on blind spots that maker and critic share. They share a base model and a charter, so some compressions cannot be resolved by their mutual debate. The rising escalation rate is the signal of that remaining incoherence, not a reason to loosen the rule or add a timeout.
 
-复盘是局部的消解步骤。清醒期是运行本身，在此期间准则保持固定。复盘则对照前提重新推导整个运行目录，并浮现出待修的候选点。至于基底本身，依然唯有在操作者取用这些提议时才会改变。嵌套的周期在这一尺度上显现的方式，与它在单次会话或模型代际尺度上显现的方式如出一辙：语境在单一步骤内部演进，章程与技能跨运行重新渲染，而操作者始终是允许基底发生移动的边界。技能蔓延也是同一种累积：接连不断的修补不断增厚指令集，直到必须加以修剪。常规的修补总想用超时设置或叠床架屋的补丁规则去替代裁决，定期的修剪则移除已被取代的痕迹，使指令表面始终向操作者的决定负责。
+复盘是局部的消解步骤。清醒期是运行本身，在此期间准则保持固定。运行中途的每一次人工上报，都注入了一项在起点处未被列明的前提；彼时，初始章程与技能签名已抵达单靠自身所能推导出的边界。复盘对照前提对已完成的运行目录展开逆向因果推导，识别出那些被注入的前提，并浮现出将其编纂进章程或技能起始先决条件的候选方案——这正是[判断的密度](../the-density-of-judgment/)所追溯的前置动态：借此，介于其间的各个步骤在下一轮运行中便成为可由确定性推导得出的环节，直至工作流触及下一处尚未编纂的边缘。至于基底本身，依然唯有在操作者取用这些提议时才会改变。嵌套的周期在这一尺度上显现的方式，与它在单次会话或模型代际尺度上显现的方式如出一辙：语境在单一步骤内部演进，章程与技能跨运行重新渲染，而操作者始终是允许基底发生移动的边界。技能蔓延也是同一种累积：接连不断的修补不断增厚指令集，直到必须加以修剪。常规的修补总想用超时设置或叠床架屋的补丁规则去替代裁决，定期的修剪则移除已被取代的痕迹，使指令表面始终向操作者的决定负责。
 
 ```mermaid
 flowchart TD
@@ -133,25 +127,21 @@ flowchart TD
         Drop["无状态退役：上游制作者与审校者语境悉数丢弃"]
         Sign --> Verify --> Drop
     end
-
     subgraph S_Recap["复盘期：局部消解共有盲区"]
         direction TB
         ReadRun["全新复盘机器人：对照固定准则通读完整运行目录"]
         Expose["盲区与蔓延暴露：浮现冲突的章程目标与未言明的技能前提"]
         ReadRun --> Expose
     end
-
     subgraph S_Operator["操作者位点：主权基底更新与修剪"]
         direction TB
         Decide["操作者裁决：处理上报分歧并评估复盘提议"]
         Prune["精准修剪：裁剪技能蔓延并为下一周期更新章程"]
         Decide --> Prune
     end
-
     Drop ==>|"运行完成并发布"| ReadRun
     Expose ==>|"提出流程修改提议"| Decide
     Prune ==>|"重新渲染洁净残余"| Sign
-
     style S_Wake fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Recap fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Operator fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -164,7 +154,7 @@ flowchart TD
     style Prune fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The recap is the local dissolution step. Wake is the run itself, with the house rule held fixed. The recap re-derives the folder against the premise and surfaces candidates. Ground still changes only when the operator takes them up. Nested periods appear at this scale exactly as they appear at the scale of a session or a model generation: context evolves within a step; charters and skills re-render across runs; the operator remains the boundary at which ground is allowed to move. Skill sprawl is the same accumulation: successive fixes thicken the instruction set until pruning is required. Unlike routine fixes that add timeouts or patch-upon-patch rules in place of judgment, regular pruning removes superseded traces so the instruction surface stays answerable to the operator’s decision.
+The recap is the local dissolution step. Wake is the run itself, with the house rule held fixed. Every mid-run human escalation injects a premise that was not specified at the start, where the initial charter and skill signature reached the boundary of what could be derived from it alone. The recap re-derives the completed folder causally backward against the premise, identifies those injected premises, and surfaces candidates for codifying them into the starting preconditions of the charter or skill—the front-loading dynamic [The Density of Judgment](../the-density-of-judgment/) traces, by which the steps in between become deterministically derivable on the next pass until the workflow hits its next uncodified edge. Ground still changes only when the operator takes them up. Nested periods appear at this scale exactly as they appear at the scale of a session or a model generation: context evolves within a step; charters and skills re-render across runs; the operator remains the boundary at which ground is allowed to move. Skill sprawl is the same accumulation: successive fixes thicken the instruction set until pruning is required. Unlike routine fixes that add timeouts or patch-upon-patch rules in place of judgment, regular pruning removes superseded traces so the instruction surface stays answerable to the operator’s decision.
 
 ```mermaid
 flowchart TD
@@ -175,25 +165,21 @@ flowchart TD
         Drop["Stateless Retirement: Upstream maker & critic contexts drop completely"]
         Sign --> Verify --> Drop
     end
-
     subgraph S_Recap["Recap Period: Local Dissolution of Shared Blind Spots"]
         direction TB
         ReadRun["Fresh Recap Bot: Reads complete run folder against fixed house rule"]
         Expose["Blind-Spot & Sprawl Exposure: Surfaces conflicting charter goals & unstated skill premises"]
         ReadRun --> Expose
     end
-
     subgraph S_Operator["Operator Locus: Sovereign Ground Update & Pruning"]
         direction TB
         Decide["Operator Judgment: Resolves escalations & evaluates recap proposals"]
         Prune["Surgical Pruning: Trims skill sprawl & updates charters for next cycle"]
         Decide --> Prune
     end
-
     Drop ==>|"Run completes & publishes"| ReadRun
     Expose ==>|"Proposes process edits"| Decide
     Prune ==>|"Re-renders clean residue"| Sign
-
     style S_Wake fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Recap fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Operator fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950

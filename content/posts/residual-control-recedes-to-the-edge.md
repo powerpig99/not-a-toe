@@ -26,9 +26,9 @@ As [Beyond the Projection](../beyond-the-projection/) traces, the jolt felt duri
 
 Essential control does not vanish when substrate maintenance is delegated. It relocates. What moves is where control is exercised, never the living locus that exercises it.
 
-控制向外移往边缘：设定成功标准，划定风险界限，验证输出，并判断适配度，即在仅仅能够运行的结果与在负荷下依然站得住的结果之间作出主动辨别。内部配置工作正以不同速率变得可选，而这层外部边缘控制始终不可让渡。[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)在数学发现中追溯了同一种几何结构：框定问题、在候选中取舍以及验证证明，都留在掌舵的人类中心手里，仪器则在指引下重组先前的痕迹。[一个提示词之遥](../whatever-is-one-prompt-away/)在自动化进程中追溯了这种密化：旧的手工界面作为扩展场域中份额渐小的一部分依然可用，却不再是主流路径。在这里，旧界面就是亲手配置终端环境。
+控制向外移往边缘：设定成功标准，划定风险界限，验证输出，并判断适配度，即在仅仅能够运行的结果与在负荷下依然站得住的结果之间作出主动辨别。内部配置工作正以不同速率变得可选，而这层外部边缘控制始终不可让渡；在开放式探究中，正如[判断的密度](../the-density-of-judgment/)所追溯的，将回环内部自动化，会压缩外围边界处锚定先决条件与最终验收之间的日历间隔，同时使返回给操作者的抉择成倍增加。[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)在数学发现中追溯了同一种几何结构：框定问题、在候选中取舍以及验证证明，都留在掌舵的人类中心手里，仪器则在指引下重组先前的痕迹。[一个提示词之遥](../whatever-is-one-prompt-away/)在自动化进程中追溯了这种密化：旧的手工界面作为扩展场域中份额渐小的一部分依然可用，却不再是主流路径。在这里，旧界面就是亲手配置终端环境。
 
-Control moves outward to the edge: specifying success criteria, setting risk bounds, verifying outputs, and judging fitness, which is the active discrimination between results that merely run and results that hold under load. While interior configuration work becomes optional at varying rates, this outer edge control remains non-transferable. [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) traces the same geometry in mathematical discovery: framing the problem, selecting among candidates, and verifying the proof stay with the human center that steers, while the instrument recombines prior traces under direction. [Whatever Is One Prompt Away](../whatever-is-one-prompt-away/) traces this densification across automation: the old manual surface remains accessible as a shrinking share of an expanding field, no longer the prevailing route. Here, the old surface is hands-on configuration of the shell.
+Control moves outward to the edge: specifying success criteria, setting risk bounds, verifying outputs, and judging fitness, which is the active discrimination between results that merely run and results that hold under load. While interior configuration work becomes optional at varying rates, this outer edge control remains non-transferable, and in open-ended inquiry automating the interior of the loop compresses the calendar interval between framing preconditions and final acceptance at the perimeter while multiplying the choices that return to the operator, as [The Density of Judgment](../the-density-of-judgment/) traces. [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) traces the same geometry in mathematical discovery: framing the problem, selecting among candidates, and verifying the proof stay with the human center that steers, while the instrument recombines prior traces under direction. [Whatever Is One Prompt Away](../whatever-is-one-prompt-away/) traces this densification across automation: the old manual surface remains accessible as a shrinking share of an expanding field, no longer the prevailing route. Here, the old surface is hands-on configuration of the shell.
 
 即便内部工作从调校单个终端环境扩展为协调一张由专职智能体组成的网络，控制的所在也不会迁入那套调度框架。正如[超越投射](../beyond-the-projection/)所阐明的，把问题拆解为正交的子任务、向工作智能体分发语境、串联冷同行辩论回路，都属于机械分派——是在明确约束之内可由智能体执行的结构操作。而统筹则要求活的心智那未经投射、具备极限分辨率的感知。当智能体流水线撞上不可化约的前提死锁，即两项正交的要求被压缩进同一条规则时，负责分派的智能体无法跨出自身的条件化轨迹去发明新框架；它只能隔离矛盾并将信号向上呈交回人类边缘，而在逻辑上退后一步以修订标准，依然是操作者自己的行动。
 
@@ -64,26 +64,22 @@ flowchart TD
         N_Split["计分分化：目标之下的整洁与失去亲手掌控技术栈的落差"]
         N_Act --> N_Split
     end
-
     subgraph S_Lag["图像滞后的两副反向面孔"]
         direction TB
         L_Human["底层所有权滞后：将身份与亲手配置个人文件及技术栈相融合"]
         L_Model["第二重前沿投射：将统筹权归于模型参数或分派智能体"]
     end
-
     subgraph S_Edge["活的边缘处的要紧控制"]
         direction TB
         E_Disp["智能体配置与分派：处理残余底层与正交路由"]
         E_Steer["主权统筹：设定标准、风险界限、验证与前提修订"]
         E_Disp --> E_Steer
     end
-
     N_Split ==>|"当被保留的自我形象冻结了底层"| L_Human
     N_Split ==>|"当参数被投射为第二个发起者"| L_Model
     N_Split ==>|"当自我形象重新渲染并将技术栈视作可选脚手架"| E_Disp
     L_Human -.->|"通过恢复单一发起所在而消解"| E_Steer
     L_Model -.->|"通过恢复单一发起所在而消解"| E_Steer
-
     style S_Shift fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Lag fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -105,26 +101,22 @@ flowchart TD
         N_Split["Divergent Scoring: Cleanliness under the objective vs. felt loss of manual stack ownership"]
         N_Act --> N_Split
     end
-
     subgraph S_Lag["Two Inverse Faces of Image Lag"]
         direction TB
         L_Human["Substrate Ownership Lag: Fusing identity with manual dotfile and stack configuration"]
         L_Model["Second-Edge Projection: Crediting parameters or dispatcher agents with orchestration"]
     end
-
     subgraph S_Edge["Essential Control at the Living Edge"]
         direction TB
         E_Disp["Agentic Provisioning & Dispatch: Handles residual substrate and orthogonal routing"]
         E_Steer["Sovereign Orchestration: Sets criteria, risk bounds, verification, and premise revision"]
         E_Disp --> E_Steer
     end
-
     N_Split ==>|"When retained self-image freezes the substrate"| L_Human
     N_Split ==>|"When parameters are projected as a second initiator"| L_Model
     N_Split ==>|"When self-image re-renders and treats the stack as optional scaffolding"| E_Disp
     L_Human -.->|"Dissolved by restoring the single initiating locus"| E_Steer
     L_Model -.->|"Dissolved by restoring the single initiating locus"| E_Steer
-
     style S_Shift fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Lag fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950

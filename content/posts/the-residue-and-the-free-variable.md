@@ -37,7 +37,6 @@ flowchart TD
         P_Verdict["主体移位：对成页文本的赞赏、归咎或事后署名认领"]
         P_Prompt --> P_Fill --> P_Verdict
     end
-
     subgraph S_FreeVar["因果介入：向系统注入自由变量"]
         direction TB
         F_Read["诊断式阅读：将意外输出或同侪僵局视为未言明前提的显影"]
@@ -45,9 +44,7 @@ flowchart TD
         F_Enlarge["特征拓展：受约束系统在修订后的前提下重启残余重放"]
         F_Read --> F_Inject --> F_Enlarge
     end
-
     P_Fill ==>|"从对产物的裁决转向对前提的修订"| F_Read
-
     style S_Posture fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_FreeVar fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style P_Prompt fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -69,7 +66,6 @@ flowchart TD
         P_Verdict["Relocated Agency: Credit, blame, or post-hoc ownership claims over the page"]
         P_Prompt --> P_Fill --> P_Verdict
     end
-
     subgraph S_FreeVar["Causal Intervention: Injecting the Free Variable"]
         direction TB
         F_Read["Diagnostic Reading: Treat unexpected output or peer deadlock as a trace of the unsaid"]
@@ -77,9 +73,7 @@ flowchart TD
         F_Enlarge["Enlarged Signature: Bound system resumes residue replay under revised premises"]
         F_Read --> F_Inject --> F_Enlarge
     end
-
     P_Fill ==>|"Shift from verdict on product to revision of premise"| F_Read
-
     style S_Posture fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_FreeVar fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style P_Prompt fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -100,9 +94,9 @@ A formal system exposed to perturbations reveals boundaries that cannot be prove
 
 This structural asymmetry explains why a deductive chain can run coherently as a mechanical process while its visible output registers as incoherent. The process is executing its given projection faithfully; the result is incoherent relative to an unprojected intention that was never written down. Recursively refining the premise does not replace the chain—it brings the unstated cause of the chain into the chain itself. Subsequent prompts do not beg a second mind for a better answer; they alter what the next continuation is allowed to assume.
 
-主体性正是这种向受约束系统注入自由变量的能力。任何受约束的系统——一张纸、一段形式证明、一套模型权重、一次初次回复——都在既定的特征下运行，这一特征由公理、参数以及对提示词的隐式补全所界定。在既定特征内部，系统能够重排数值，却无法引入当前状态空间尚未包含的符号或坐标轴。正如[确定性是微观不确定性的统计签名](../determinism-is-the-statistical-signature-of-micro-indeterminism/)所揭示的，统计规律是自由变量系综的几何投射，无力支配当下的第一人称抉择。对模型的采样会产生意外；当意外输出被解读为某个参数缺失的证据，并将该参数显式补写进系统的那一刻，变量便成为了自由变量。
+主体性正是这种向受约束系统注入自由变量的能力。任何受约束的系统——一张纸、一段形式证明、一套模型权重、一次初次回复——都在既定的特征下运行，这一特征由公理、参数以及对提示词的隐式补全所界定。在既定特征内部，系统能够重排数值，却无法引入当前状态空间尚未包含的符号或坐标轴。正如[确定性是微观不确定性的统计签名](../determinism-is-the-statistical-signature-of-micro-indeterminism/)所揭示的，统计规律是自由变量系综的几何投射，无力支配当下的第一人称抉择。对模型的采样会产生意外；当意外输出被解读为某个参数缺失的证据，并将该参数显式补写进系统的那一刻，变量便成为了自由变量。正如[判断的密度](../the-density-of-judgment/)所拆解的，每一次自动化探索都封闭在运行前所固定的先决条件特征之内，直到活的心智介入并注入那个新的自由变量；而逆向追溯那些运行中途的介入、将其前提编纂进起点，也只是闭合了已测绘的区段，直至探究触及下一处尚未编纂的边缘。
 
-Agency is this capacity to inject a free variable into a bound system. Any bound system—a sheet of paper, a formal proof, a model's weights, a first reply—operates under a defined signature of axioms, parameters, and implicit prompt completions. Within that signature, the system rearranges values, yet it cannot introduce a symbol or axis that its current state space does not contain. As [Determinism is the Statistical Signature of Micro-Indeterminism](../determinism-is-the-statistical-signature-of-micro-indeterminism/) shows, statistical regularities are geometric projections of an ensemble of free variables, powerless over immediate first-person choice. Sampling a model produces surprises, and a variable becomes free at the exact step where an unexpected output is read as evidence of a missing parameter and that parameter is explicitly written in.
+Agency is this capacity to inject a free variable into a bound system. Any bound system—a sheet of paper, a formal proof, a model's weights, a first reply—operates under a defined signature of axioms, parameters, and implicit prompt completions. Within that signature, the system rearranges values, yet it cannot introduce a symbol or axis that its current state space does not contain. As [Determinism is the Statistical Signature of Micro-Indeterminism](../determinism-is-the-statistical-signature-of-micro-indeterminism/) shows, statistical regularities are geometric projections of an ensemble of free variables, powerless over immediate first-person choice. Sampling a model produces surprises, and a variable becomes free at the exact step where an unexpected output is read as evidence of a missing parameter and that parameter is explicitly written in. As [The Density of Judgment](../the-density-of-judgment/) dissects, every automated exploration remains enclosed within the signature of the preconditions fixed before the run until a living Mind steps in to inject that new free variable, and tracing those mid-run interventions backward to codify their premises at the start closes only the already-mapped segment until the inquiry hits its next uncodified edge.
 
 同一道边界也显现于[没有固定者的固定](../fixed-by-nothing/)之中。决定论与非决定论之间旷日持久的争论之所以原地打转，是因为双方都在对已经成型的结论下达裁决；唯有看清每一个决定论推演步骤都依赖“当下状态的完整规定”这一未写出的前提，并追问究竟哪个中心能够给出这一规定时，论证才得以推进。确定性混沌正是受约束系统的一个典型样本：演化规则只是逐位朗读初始条件，不增加初始状态尚未持有的任何信息。规则无法从内部生成的那个“给定”，正是自由变量进入系统的位置。
 
