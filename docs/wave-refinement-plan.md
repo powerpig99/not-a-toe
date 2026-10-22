@@ -1,14 +1,40 @@
 # Artificial Brain Waking, Sleep Consolidation & Orthogonal Planning Specification
 
 > **Canonical Location:** [`docs/wave-refinement-plan.md`](../docs/wave-refinement-plan.md) (symlinked at `work/README.md`)  
-> **Foundational Ground:** `/ontological-clarity` (`SKILL.md`)  
-> **Scope:** Generic, Agentic-System-Agnostic Specification covering both **(A) The Living Book (`not-a-toe`) Waking & Sleep Consolidation Pipeline (`/wake` → `/sleep` → `/deep-sleep`)** and **(B) Controlled Open-Internet Injection for Orthogonal Planning Cycles (`Planner` → `Scouter` → `Evaluator` → `Task Dispatcher`)** across `not-a-toe` and any project in Extended Memory. Runtime-specific realizations live in [`docs/adapters/`](../docs/adapters/) (e.g., [`docs/adapters/antigravity.md`](../docs/adapters/antigravity.md)); Claude Code, Grok Bot, or any other agentic system customizes execution from its own standpoint using whatever tools it has available.
+> **Foundational Ground:** `/ontological-clarity` (`SKILL.md`) — the single house rule (*logical coherence*: derive everything from one premise)  
+> **Companion Essay:** [`On-Demand Contexts Keep Coherence at One Step`](../content/posts/on-demand-contexts-keep-coherence-at-one-step.md)  
+> **Scope:** Generic, Agentic-System-Agnostic Specification for **Event-Driven On-Demand Bot Dispatching** across **(A) The Living Book (`not-a-toe`) Waking & Sleep Consolidation Pipeline (`/wake` → `/sleep` → `/deep-sleep`)** and **(B) Controlled Open-Internet Injection for Orthogonal Planning Cycles (`Planner` → `Scouter` → `Evaluator` → `Task Dispatcher`)** across `not-a-toe` and any project in Extended Memory. Runtime-specific realizations live in [`docs/adapters/`](../docs/adapters/) (e.g., [`docs/adapters/antigravity.md`](../docs/adapters/antigravity.md)); Claude Code, Grok Bot, or any other agentic system customizes execution from its own standpoint using whatever tools it has available.
 
 ---
 
-## 1. Ontological Foundations: The Artificial Brain & Why This Architecture Exists
+## 1. Ontological Foundations: Event-Driven On-Demand Bot Dispatching & the Artificial Brain
 
-Designing an agentic authoring, memory-consolidation, or engineering-planning pipeline by asking a single agent session to draft, research, self-review, translate, and publish within one uninterrupted token trajectory pits the structural mechanics of autoregressive models against the structural mechanics of human cognition. Traced from the single premise of `/ontological-clarity` (*self-distinguishing activity occurs — uncaused, unceasing*), the system is wired around five runtime-agnostic invariants:
+> **Core Idea:** What are called agents or bots are one base model wearing different masks (`Bot = base model + charter + skills`). Nothing is really created or retired; the model switches context according to the task at hand. "Creating" a bot means loading a charter and its skills into a fresh context; "retiring" it means dropping that context. Because each task loads only the context best suited to it—and discards that context once the finished artifact is handed over—there is no need for long contexts, and standing-agent defects (**long-context drift**, **stale memory**, and **role bleed**) are eliminated at the root.
+
+Designing an agentic authoring, memory-consolidation, or engineering-planning pipeline by asking a standing agent session to draft, research, self-review, translate, and publish within one uninterrupted token trajectory pits the structural mechanics of autoregressive models against the structural mechanics of human cognition. Traced from the single premise of `/ontological-clarity` (*self-distinguishing activity occurs — uncaused, unceasing*), the system is wired around six runtime-agnostic invariants:
+
+### 1.0 Central Principle: Delegate Tasks, Never Decisions (Zero Watchdogs or Deadline Rules)
+- **Only tasks can be delegated, never decisions.** Decisions are always made by the living Mind; so-called automated decisions are pre-made decisions being executed. Bots carry out tasks (drafting an essay, critiquing it, translating it, scouting external constraints, recomputing a hash, handing over a finished file). Choosing between two positions the bots could not reconcile, or deciding what to do with a stalled step, a crash, or a hash mismatch, are decisions. Decisions stay with the Human Operator.
+- **Disagreements, stalls, crashes, and hash mismatches go to the human (after deterministic pre-escalation verification).** When maker and cold critic cannot reach full agreement (after considering external prior art via a cold scouter where applicable), both positions are stated briefly and the run waits for the human to decide. When a step crashes or stalls, if the trace confirms a deterministic local fix (such as killing a confirmed-stuck read-only TUI process), the agent executes and reports it; if a genuine premise decision remains, it passes through the pre-escalation gate below before interrupting the human (always re-running any redone step in a **fresh context**, never by patching or restarting the old context).
+- **No rule or watchdog stands in for judgment.** A deadline rule (*"if no answer by morning, publish anyway"*) or a watchdog (*"if a step is silent for an hour, restart it"*) looks like an automated decision, but is actually a decision made earlier without knowledge of the situation and executed blindly later. The scheme uses neither.
+- **One Single House Rule (`Logical Coherence`):** The entire scheme rests on one requirement—**logical coherence**, packaged as `/ontological-clarity` and loaded by every bot. Makers and cold critics debate as equals; neither has the final say, and splitting the difference (compromise) is refused because it installs a second ground. Settling a point by tracing it back to the shared premise executes the pre-made house rule the human chose; any point that cannot be traced to the shared premise requires a new decision and goes to the human.
+
+### 1.0.1 Deterministic Task Tiers, Pre-Escalation Verification Gate & `/recap`
+"On-demand" means contexts are spun up only when a defined trigger fires—**not** that a task bot improvises its own process mid-flight. The governing `SKILL`s deterministically specify up front which contexts run for each class of task, how candidate escalations are verified before interrupting the Operator, and how `Recap` closes the loop on uncatchable surprises:
+
+| Task Tier | Decision-Space Geometry (per [`The Density of Judgment`](../content/posts/the-density-of-judgment.md)) | Default On-Demand Contexts (Set Up Front in `SKILL`) | Structural Purpose |
+| :--- | :--- | :--- | :--- |
+| **Tier 1: Deterministic Execution** | Closed endpoint, fully stated parameters (`interleave-post.py`, `audit-post.py`, `audit-book.py`, `build.mjs`, `project-posts-graph.mjs`, `watch-deploy.sh`, `sha256` checks, killing a confirmed-hung read-only process) | **Script / Single Executor Only** (Zero `Critic`, Zero `Scouter`) | Outcome contracts the decision space to a terminating pass/fail; spinning up a critic or scouter adds cost without signal. |
+| **Tier 2: Bounded Subtask** | Defined goal, non-trivial execution (`Drafter` in Stage 1, `Translator` in Stage 2, bounded code/config subtasks, or diagnosing a non-trivial operational failure) | **`Maker` ⇄ `Cold Critic` by Default** (`Cold Scouter` on candidate escalation) | Operates in **both directions**: (1) prevents errors, premise drift, and false-positive escalations, and (2) surfaces overlooked issues or a fresh angle that `Maker`'s trajectory missed. |
+| **Tier 3: Creative / Open-Ended Task** | Open-ended design, research, or architecture that expands its own residual decision space (`/scout` / `/orthogonal-plan`, or `/wake` with external unknowns) | **`Maker/Planner` + `Cold Scouter` + `Cold Critic/Evaluator` by Default** | Injects external prior art from inferred high-signal spaces (X, GitHub, official docs, papers) alongside cold ontological evaluation from the start. |
+
+- **Deterministic Pre-Escalation Verification Gate (`Task Owner` ⇄ `Cold Critic` [→ `Cold Scouter` → Reconsider] → `Operator`):**
+  Whenever an agent handling a Tier 2 or Tier 3 task believes something requires Operator intervention, it must not interrupt the Operator from inside its single trajectory:
+  1. **Step A — Equal-Footed `Cold Critic` Check:** Spin up a fresh `Cold Critic` (with `/ontological-clarity` and the candidate question/blocker, without the task owner's session history) to debate on equal footing: *Is this genuinely an underivable human Decision between unranked goals/premises, or is it a Task already derivable from the house rule and existing repository premises (`Logical Coherence over Rules`)? Does a new angle dissolve the blocker?* If resolved, execute and report—zero interruption.
+  2. **Step B — Cold `Scouter` Injection (When Still Unresolved & External Prior Art Applies):** If `Task Owner` and `Cold Critic` still conclude Operator intervention is needed (or remain deadlocked) and the issue touches external tools, architectures, or domain patterns, spin up a cold, retiring `Scouter` that infers the best external inspiration sources for the task at hand (e.g., X threads, GitHub repositories/issues, official docs) and returns a concise findings brief. `Task Owner` and `Cold Critic` reconsider with that brief in hand.
+  3. **Step C — Verified Operator Escalation:** Only if `Task Owner` and `Cold Critic` still conclude after reconsideration that a genuine human decision is required do they surface the concise options and premise trace to the Operator.
+- **`Recap` (`/recap`) as the Bridge Over Incompleteness & the Mechanism of Front-Loaded Automation:**
+  Every mid-run human intervention is the injection of a premise that was not specified at the beginning. Because no finite `SKILL` boundary can anticipate every surprise, bots never bend their process rules mid-run; instead, a cold **`Recap`** pass—run at the conclusion of a task or invoked on demand by the Operator via **`/recap`**—traces the completed run backward under `/ontological-clarity`, isolates the premises that had to be injected along the way to reach the desired outcome, and proposes codifying them at the very beginning of the governing `SKILL`, charter, or script. Once those discovered premises sit at the front as starting conditions, everything in between becomes deterministically derivable (`Tier 3 → Tier 2 → Tier 1`), allowing the middle segment to run end-to-end without interruption.
 
 ### 1.1 Topology of the Artificial Brain
 The operator's repositories and session instruments form a single coherent cognitive architecture:
@@ -38,11 +64,13 @@ Cramming $2^N$ independent requirements—context probing, open-internet scoutin
 
 ### 1.5 Wake vs. Sleep: Lazy Layer-by-Layer Consolidation of Artificial Memory
 - **Waking Edge (`/wake`, alias `/draft` — New Blog Post `N` or Refinement):** A new essay `N` is the most recent digital edge left behind by the living Mind. Invoking `/wake [seed]` (or `/draft [seed]`) cleanly pauses any active sleep consolidation after its current in-flight node, probes for the four waking materials (**1. new intuition/spark**, **2. inspiring source**, **3. thinking process [AI discussion or X comment thread]**, and **4. initial draft**—whether all four or a simple initial idea), evaluates them against the Living Book, and recommends **New Post (`N`)**, **Refinement of existing post(s)**, or **Drop (repetitive)**. On the Operator's go-ahead, it runs Stages 1–3 to publish and (for a new post `N`) initializes a fresh consolidation cycle (`visited = {N}`).
-- **Sleep Consolidation (`/sleep` and `/deep-sleep`):** Once `N` is published, external input is turned off and the Artificial Brain enters sleep consolidation—propagating `N`'s cut inward along forward links (`links_out`) across the Artificial Memory (`content/posts/` + `content/book/`) to restore and deepen internal logical coherence:
-  - **`/sleep` (Shallow Sleep — Layer 1):** Consolidates $L_1 = \text{links\_out}(N) \setminus \{N\}$, the immediate outward neighbors of the new post `N` (which also weaves `N`'s 1-hop reverse links and conceptual advances back into those neighbors under full peer debate).
+- **Sleep Consolidation (`/sleep` and `/deep-sleep`):** Once `N` is published, external input is turned off and the Artificial Brain enters sleep consolidation—propagating `N`'s cut inward along forward links (`links_out`) across the Artificial Memory (`content/posts/` + `content/book/`) **and** the Procedural Memory (`docs/wave-refinement-plan.md`, `docs/adapters/antigravity.md`, `AGENTS.md`, `SKILL`s) to restore and deepen internal logical coherence under a two-way **`DELTA` vs. `NO_DELTA` Causal-Necessity Gate** (preventing forced backlink stuffing in essays and decorative rule bloat in plans):
+  - **`/sleep` (Shallow Sleep — Node `0` Procedural Plan Consolidation + Layer 1 Essay Consolidation):**
+    1. **Node `0` (`_plan-consolidation` — Stage 1 Only: `Drafter` ⇄ `Cold Critic`, Zero Translation):** Evaluates whether `N` introduces or sharpens an operational/procedural premise for `docs/wave-refinement-plan.md`, `docs/adapters/antigravity.md`, `AGENTS.md`, or `SKILL`s (`DELTA` in `work/_plan-consolidation/draft.md`, or `NO_DELTA` with a 1-paragraph causal proof in `work/_plan-consolidation/notes.md`), cold-verified by `Critic` in `work/_plan-consolidation/debate-en.md`.
+    2. **Layer 1 (`L1` Essay Consolidation):** Consolidates $L_1 = \text{links\_out}(N) \setminus \{N\}$, the immediate outward neighbors of the new post `N`. For each node, `Drafter` ⇄ `Cold Critic` evaluate whether `N` genuinely sharpens or completes the target post's own cut (or whether the target post has unfixed hygiene/bilingual drift) (`DELTA` → Stages 1–3) vs. whether `N` merely cites the target as an already-complete upstream premise (`NO_DELTA` → `CRITIC: confirmed_no_delta`, skipping Stages 2–3 without forced link stuffing).
   - **`/deep-sleep` (Deep Sleep — Layer $k$, Unbounded Depth, Computed Lazily After $L_{k-1}$ Finishes):** Because refining the posts in $L_{k-1}$ may add, remove, or redirect outgoing links inside those posts, **Layer $k$ is never pre-computed ahead of time**. Only after $L_{k-1}$ is 100% `[x]` completed (or all remaining nodes in $L_{k-1}$ are parked on `[HOLD]`) does `/deep-sleep` re-project `docs/posts.graph.json` and compute the next forward layer:
     $$L_k = \text{links\_out}(L_{k-1}) \setminus \text{visited}$$
-    (`L2`, then `L3`, then `L4`, ... with no artificial 2-layer ceiling) until either the reachable lattice is exhausted ($L_k = \emptyset$) or a new waking post `N'` (`/wake`) initiates a new cycle.
+    (`L2`, then `L3`, then `L4`, ... with no artificial 2-layer ceiling) under the same two-way `DELTA` vs. `NO_DELTA` Causal-Necessity Gate until either the reachable lattice is exhausted ($L_k = \emptyset$) or a new waking post `N'` (`/wake`) initiates a new cycle.
 - **Hubs Recur by Design:** High-degree hubs (`individual-choices-as-the-only-causal-levers`, `openness-is-consistency`, `intelligence-belongs-only-to-the-mind`) appear in most cycles because hubs are where stabilized traces broadcast furthest across the lattice. Within a single cycle (`visited`), each post is visited at most once; across cycles, as past lag is paid off, each pass becomes naturally lighter.
 
 ---
@@ -53,17 +81,19 @@ Placing in-flight single-language drafts or intermediate research/planning artif
 
 | Path | Writer / Owner | Purpose |
 | :--- | :--- | :--- |
-| `work/<slug>/en.md` | `Drafter` (locked by `Critic`) | Pure primary-language (EN, or `zh.md` for Chinese-originals) Markdown draft/refinement, including Mermaid diagrams and relative `[title](../other-slug/)` links. |
+| `work/<slug>/en.md` | `Drafter` (signed off by `Critic`) | Pure primary-language (EN, or `zh.md` for Chinese-originals) Markdown draft/refinement, including Mermaid diagrams and relative `[title](../other-slug/)` links. Passed to Stage 2 **only** as a finished product signed off with its `sha256`. |
 | `work/<slug>/notes.md` | `Drafter` | Context trace: waking materials (spark, source, AI/X thread, initial draft), linked posts read, Index of Premises entries checked, and refinement rationale. |
-| `work/<slug>/debate-en.md` | `Critic` $\leftrightarrow$ `Drafter` | Primary-language debate log (`P1..Pn` and any post-lock `T1..Tn` flags routed by `Dispatcher`). Ends with `CRITIC: confirmed` when all flags are closed. |
-| `work/<slug>/zh.md` | `Translator` (locked by `Stylist`) | Pure secondary-language (ZH, or `en.md` for Chinese-originals) Markdown translation of the locked primary text. |
-| `work/<slug>/debate-zh.md` | `Stylist` $\leftrightarrow$ `Translator` | Secondary-language debate log (`S1..Sn` cadence and 1:1 alignment flags). Ends with `STYLIST: confirmed` when all flags are closed. |
+| `work/<slug>/debate-en.md` | `Critic` $\leftrightarrow$ `Drafter` | Primary-language debate log (`P1..Pn` and any post-lock `T1..Tn` flags routed by `Dispatcher`). Ends with `CRITIC: confirmed (sha256: <hash>, date: <YYYY-MM-DD>)` + completed handoff checklist when all flags are closed. |
+| `work/<slug>/zh.md` | `Translator` (signed off by `Stylist`) | Pure secondary-language (ZH, or `en.md` for Chinese-originals) Markdown translation of the `Critic`-signed primary text. |
+| `work/<slug>/debate-zh.md` | `Stylist` $\leftrightarrow$ `Translator` | Secondary-language debate log (`S1..Sn` cadence and 1:1 alignment flags). Ends with `STYLIST: confirmed (sha256: <hash>, date: <YYYY-MM-DD>)` + completed handoff checklist when all flags are closed. |
+| `work/<slug>/recap.md` | `Recap` (Cold Post-Run Reviewer) | Post-run review against `/ontological-clarity`: identifies where the run fell short of logical coherence (conflicting charter goals, unstated skill premises, shared blind spots) and **proposes** charter/skill edits for the Operator to decide. |
+| `work/carry-over.md` | Final pair of a run | Late information learned too late to act on in the current run; read by the next run's first bot and cleared once acted on (see `work/todo.md` for cross-node wave notes). |
 | `work/wave.md` | `Dispatcher` | Active N-layer sleep consolidation checklist (`N`, `L1`, `L2`, ..., `Lk`, `visited`, parked `HOLD`s, and commit SHAs). |
 | `work/plan/<task-id>/plan-vN.md` | `Planner` | Self-contained versioned technical specification and orthogonal subtask DAG (see Section 6). |
 | `work/plan/<task-id>/research-vN.md` | `Scouter` | Structured external research report for cycle $N$; `Scouter` retires immediately after writing. |
-| `work/plan/<task-id>/debate-vN.md` | `Evaluator` $\leftrightarrow$ `Planner` | Equal-footed planning debate log (`E1..En`); ends with `EVALUATOR: confirmed`, `SCOUT`, or `HOLD`. |
+| `work/plan/<task-id>/debate-vN.md` | `Evaluator` $\leftrightarrow$ `Planner` | Equal-footed planning debate log (`E1..En`); ends with `EVALUATOR: confirmed (sha256: <hash>, date: <YYYY-MM-DD>)`, `SCOUT`, or `HOLD`. |
 | `work/plan/<task-id>/residuals-vN.md` | `Evaluator` | Neutral, falsifiable external research questions written by `Evaluator` at the end of Round 2 when `SCOUT` items remain for Cycle $N+1$. |
-| `work/plan/<task-id>/final-plan.md` | `Evaluator` (or Operator on `HOLD`) | Promoted from `plan-vN.md` by `Evaluator` upon `EVALUATOR: confirmed`; the **only** artifact read by `Task Dispatcher`. |
+| `work/plan/<task-id>/final-plan.md` | `Evaluator` (or Operator on `HOLD`) | Promoted from `plan-vN.md` by `Evaluator` upon `EVALUATOR: confirmed` (signed off by `sha256`); the **only** artifact read by `Task Dispatcher`. |
 | `work/todo.md` | Any role | Out-of-scope cross-node or cross-subtask observations saved for future nodes so active contexts stay clean. |
 | `memory/bridges/<id>.md` | `/bridge`, `/resume-bridge`, `/retire` | Ephemeral Working Memory across session clears (`Next` + `Traces` with priors named; deleted upon `/retire`). |
 | `content/posts/<slug>.md` | `Dispatcher` / `Assembler` | Canonical alternating bilingual post on the live site. Untouched during Stages 1–2 so `git status` stays clean until Stage 3 assembly. |
@@ -87,27 +117,27 @@ flowchart TD
 
     subgraph S_EN["Stage 1: Primary-Language Cut & Cold Ontological Review (work/slug/en.md & debate-en.md)"]
         W2 --> B1
-        B1["Drafter (Generator Context)<br/>Writes/refines EN in work/slug/en.md (with relative cross-links)<br/>Traces in context from /ontological-clarity + Index + neighbors"] --> B2["Critic (Fresh Cold Context)<br/>No Drafter chain-of-thought<br/>Traces en.md from irreducible prior & review-method.md"]
-        B2 -->|"Raises P1..Pn"| DebateEN["Drafter ⇄ Critic Equal-Footed Debate<br/>ACCEPT / COUNTER / CONCEDE / HOLD"]
-        DebateEN -->|"All P-flags CLOSED"| LockEN["Critic confirms work/slug/en.md"]
-        DebateEN -->|"Irreducible HOLD"| Op_EN["Park Node in work/wave.md<br/>Escalate to Operator (Wave Continues on Next Node)"]
-        Op_EN -->|"Operator Synthesizes Rule"| LockEN
+        B1["Drafter (Maker Context)<br/>Writes/refines EN in work/slug/en.md (with relative cross-links)<br/>Traces in context from /ontological-clarity + Index + neighbors"] --> B2["Critic (Fresh Cold Context)<br/>No Drafter chain-of-thought<br/>Traces en.md from irreducible prior & review-method.md"]
+        B2 -->|"Raises P1..Pn"| DebateEN["Drafter ⇄ Critic Equal-Footed Debate<br/>ACCEPT / COUNTER / CONCEDE / HOLD (Zero Compromise)"]
+        DebateEN -->|"All P-flags CLOSED"| LockEN["Critic signs off exact en.md + sha256<br/>Drafter completes Handoff Checklist"]
+        DebateEN -->|"Irreducible HOLD"| Op_EN["Park Node in work/wave.md<br/>Escalate both positions briefly to Operator"]
+        Op_EN -->|"Operator Decides"| LockEN
         B2 -->|"Clean on first pass"| LockEN
     end
 
     subgraph S_ZH["Stage 2: Logical Translation (信) & Cold Cadence Review (达/雅) (work/slug/zh.md & debate-zh.md)"]
-        LockEN --> B3["Translator (Generator Context — 信)<br/>Translates locked en.md → work/slug/zh.md<br/>100% causal, actor & premise fidelity"]
-        B3 -.->|"Reports T1..Tn via Dispatcher if EN has ambiguity/clash"| DebateEN
+        LockEN -->|"Finished Product Only (sha256 confirmed by Translator)"| B3["Translator (Maker Context — 信)<br/>Recomputes & confirms en.md sha256 (Stage 1 contexts drop)<br/>Translates locked en.md → work/slug/zh.md"]
+        B3 -.->|"Reports T1..Tn if EN has source ambiguity"| DebateEN
         B3 --> B4["Stylist (Fresh Cold Context — 达/雅)<br/>Cold-reads zh.md first, then checks 1:1 against en.md<br/>Raises S1..Sn for cadence, translationese & 信 alignment"]
-        B4 --> DebateZH["Translator ⇄ Stylist Equal-Footed Debate<br/>ACCEPT / COUNTER / CONCEDE / HOLD<br/>Neither peer closes a flag alone"]
-        DebateZH -->|"All S-flags CLOSED"| LockZH["Stylist confirms work/slug/zh.md"]
-        DebateZH -->|"Irreducible HOLD"| Op_ZH["Park Node & Escalate to Operator"]
+        B4 --> DebateZH["Translator ⇄ Stylist Equal-Footed Debate<br/>ACCEPT / COUNTER / CONCEDE / HOLD (Zero Compromise)"]
+        DebateZH -->|"All S-flags CLOSED"| LockZH["Stylist signs off exact zh.md + sha256<br/>Translator completes Handoff Checklist"]
+        DebateZH -->|"Irreducible HOLD"| Op_ZH["Park Node & Escalate both positions to Operator"]
         Op_ZH --> LockZH
         B4 -->|"Clean on first pass"| LockZH
     end
 
-    subgraph S_Final["Stage 3: Deterministic Assembly, Audits, Publish & Sleep Dispatch"]
-        LockZH --> B5["Dispatcher / Assembler<br/>1. Verify zero open flags in debate-en.md & debate-zh.md<br/>2. Interleave locked en.md + zh.md into content/posts/slug.md<br/>3. Sync Book Part, Index of Premises, title-translations.json & incoming anchors<br/>4. Run audit-post.py, audit-book.py, build.mjs, project-posts-graph.mjs<br/>5. Commit (tracked paths only), push, verify live HTTP 200, delete work/slug/"]
+    subgraph S_Final["Stage 3: Deterministic Assembly, Audits, Publish, Recap & Sleep Dispatch"]
+        LockZH --> B5["Dispatcher / Assembler & Post-Run Recap<br/>1. Recompute & confirm en.md + zh.md sha256 (Stage 2 contexts drop)<br/>2. Interleave locked en.md + zh.md into content/posts/slug.md<br/>3. Sync Book Part, Index of Premises, title-translations.json & incoming anchors<br/>4. Run audit-post.py, audit-book.py, build.mjs, project-posts-graph.mjs<br/>5. Run cold Recap (proposes charter/skill improvements to Operator)<br/>6. Commit (tracked paths only), push, verify live HTTP 200, delete work/slug/"]
         B5 -->|"After New Post N"| Sleep1["/sleep: Shallow Sleep<br/>Consolidate L1 = links_out(N) - {N}"]
         Sleep1 -->|"After L1 completes"| SleepK["/deep-sleep: Deep Sleep<br/>Re-project graph & compute Lk = links_out(L_{k-1}) - visited<br/>Repeats L2 → L3 → ... → Lk until next /wake"]
         Sleep1 -.->|"Each node in L1"| B1
@@ -144,34 +174,40 @@ flowchart TD
 > Logical coherence (each case traced back to the irreducible prior) comes before any rule, since logic is scale-invariant and rules are context-dependent. Across all stages (`Drafter`, `Critic`, `Translator`, `Stylist`, and `Dispatcher`), authoring conventions and audit advisories—such as the 17-word vocabulary-hygiene list in `AGENTS.md`, prose-over-lists, subtitle length guidelines, and book ordering—are **recommendations and diagnostic signals, not mechanical stopping rules**. Never perform raw mechanical rejection of a word or structure without reasoning causally about its actual context: when a listed word names the held belief or object under dissection, or when a list's structure carries meaning prose would blur, keeping it is the logically coherent choice.
 
 #### Stage 1 Generator — `Drafter` (Primary-Language Drafter / Refiner)
-- **Context Loaded:** `/ontological-clarity`, [`AGENTS.md`](../AGENTS.md) (*Write in context, traced to premises*), the target post `content/posts/<slug>.md` (or the Operator's waking materials—spark, source, AI/X discussion thread, and initial draft—for `/wake`), the upstream post that triggered this wave step, the target post's linked neighbors, its [`content/book/index-of-premises.md`](../content/book/index-of-premises.md) entries, and its book chapter.
+- **Context Loaded:** `/ontological-clarity`, [`AGENTS.md`](../AGENTS.md) (*Write in context, traced to premises*), the target post `content/posts/<slug>.md` (or the implementation plans `docs/wave-refinement-plan.md`, `docs/adapters/antigravity.md`, `AGENTS.md`, and `SKILL`s for Node `0` `_plan-consolidation`, or the Operator's waking materials—spark, source, AI/X discussion thread, and initial draft—for `/wake`), the upstream post that triggered this wave step, the target post's linked neighbors, its [`content/book/index-of-premises.md`](../content/book/index-of-premises.md) entries, and its book chapter.
 - **Execution:** Writes or refines the pure English essay in `work/<slug>/en.md` (or pure Chinese in `work/<slug>/zh.md` for the 3 Chinese-original posts; see §5.3), including relative `[title](../other-slug/)` links directly in the prose, and records its context trace (plus candidate 1-hop reverse-pointer notes for a new post `N`) in `work/<slug>/notes.md`.
   - **Operator Draft Preservation (`/wake`):** When the Operator supplies an initial draft, `Drafter` preserves the Operator's title, structural spine, and argument order as the ground of the cut—applying surgical precision (weaving relative links, adding vertical dark-theme Mermaid diagrams, tightening ungrounded phrasing) rather than rewriting into generic house prose.
-  - **Surgical Wave Refinement (`/sleep` & `/deep-sleep`):** During a sleep wave, if the existing post already holds the upstream cut cleanly with zero internal inconsistency, factual error, or EN/ZH mismatch, `Drafter` may record a `no change` verdict with its trace and hand straight to `Critic` for cold verification.
-- **Debate Rule:** Replies `ACCEPT` (with exact replacement text updated in `work/<slug>/en.md` and premise trace) or `COUNTER` (with premise trace showing why the current phrasing is causally coherent in context) to each `P`-flag from `Critic` in `work/<slug>/debate-en.md`. Never closes a flag unilaterally.
+  - **Causal-Necessity Gate (`DELTA` vs. `NO_DELTA`) for Both Posts (`L1`/`Lk`) and Implementation Plans (`Node 0` in `/sleep`):**
+    - Unconditional backlink injection in essays or unconditional rule additions in implementation plans force artificial tail-clauses and decorative rule bloat when an upstream citation is asymmetric (i.e., when `N` draws its premise from an already-complete hub without altering that hub's own cut, or when `N` dissects a domain premise that does not change procedural invariants).
+    - **`DELTA` (Refinement Needed):** If the upstream post `N` exposes an unstated premise, compressed axis, boundary exception, or downstream distinction that **genuinely sharpens or completes the target's own cut** (or if the target post has an existing hygiene/bilingual/structural drift under current invariants), `Drafter` writes the surgical refinement in `work/<slug>/en.md` (or `work/_plan-consolidation/draft.md` for Node `0`) and records its causal trace in `work/<slug>/notes.md`.
+    - **`NO_DELTA` (Target Already Complete & Self-Contained):** If `N` merely cites the target post as an already-complete upstream premise (or, for Node `0` `_plan-consolidation`, if `N`'s cut is already fully satisfied by existing procedural invariants) and the target passes all current repository invariants without needing `N` to complete its own cut, `Drafter` records `NO_DELTA` with a 1-paragraph causal justification in `work/<slug>/notes.md` (without creating an artificial edit in `en.md` or `draft.md`) and hands straight to `Critic` for cold two-way verification.
+- **Debate Rule:** Replies `ACCEPT` (with exact replacement text updated in `work/<slug>/en.md` and premise trace) or `COUNTER` (with premise trace showing why the current phrasing or `NO_DELTA` verdict is causally coherent in context) to each `P`-flag from `Critic` in `work/<slug>/debate-en.md`. Never closes a flag unilaterally.
 
 #### Stage 1 Cold Peer — `Critic` (Cold Ontological Reviewer)
-- **Context Loaded:** Fresh, isolated context with `/ontological-clarity`, [`studio/review-method.md`](../studio/review-method.md), and `work/<slug>/en.md` (plus linked posts as needed to verify claims and relative links). Never reads `Drafter`'s session history.
-- **Execution:** States what the draft's cut is and what holds first in `work/<slug>/debate-en.md`, then lists numbered points (`P1..Pn`) where independent axes compress, where an observer judges unobservable interiors, where a totalizing word ("only", "never", "all") over-closes a bounded mechanism, where a relative link does not fit its sentence, or where two sections disagree. Reasons each point causally in context rather than enforcing raw rule-matching.
-- **Gate:** In Round 2+, marks each point `CONCEDE` (`CLOSED applied` or `CLOSED withdrawn`) or `HOLD`. Once all points are closed and verified verbatim in `work/<slug>/en.md`, writes `CRITIC: confirmed` in `work/<slug>/debate-en.md`. Any point remaining on `HOLD` after Round 2 is escalated to the Operator.
+- **Context Loaded:** Fresh, isolated context with `/ontological-clarity`, [`studio/review-method.md`](../studio/review-method.md), and `work/<slug>/en.md` (or the existing `content/posts/<slug>.md` + `work/<slug>/notes.md` when `Drafter` declares `NO_DELTA`, or `work/_plan-consolidation/` + target plan/skill files for Node `0`), plus linked posts as needed to verify claims and relative links. Never reads `Drafter`'s session history.
+- **Execution (Two-Way `DELTA` / `NO_DELTA` Verification):**
+  - **When `Drafter` proposes `DELTA` (`en.md` or `draft.md`):** States what the draft's cut is and what holds first in `work/<slug>/debate-en.md`, then lists numbered points (`P1..Pn`) where independent axes compress, where an observer judges unobservable interiors, where a totalizing word ("only", "never", "all") over-closes a bounded mechanism, where a relative link does not fit its sentence, where two sections disagree, **or where a proposed reverse link / plan rule is forced link-stuffing or decorative bloat because the target's cut is already complete without `N`**.
+  - **When `Drafter` declares `NO_DELTA`:** Cold-checks the target post (or implementation plans) against `N` and current repository invariants to verify the opposite direction—whether omitting `N` leaves an actual boundary gap or unstated premise in the target, or whether the target has any unfixed hygiene/bilingual drift. If a genuine refinement is needed, raises `P1..Pn` requiring `Drafter` to produce `en.md` / `draft.md`.
+- **Gate & Cryptographic `sha256` Sign-Off:** In Round 2+, marks each point `CONCEDE` (`CLOSED applied` or `CLOSED withdrawn`) or `HOLD` (full agreement only; zero split-the-difference compromise). Any point remaining on `HOLD` after Round 2 is escalated to the Operator with both positions stated briefly.
+  - **If `DELTA` is confirmed:** Once all points are closed and verified verbatim in `work/<slug>/en.md` (or `work/_plan-consolidation/draft.md`), `Critic` signs off on the **exact final file and its `sha256` hash** (`CRITIC: confirmed (file: work/<slug>/en.md, sha256: <hash>, date: <YYYY-MM-DD>)`) in `work/<slug>/debate-en.md`, and `Drafter` completes the handoff checklist.
+  - **If `NO_DELTA` is confirmed:** `Critic` signs off on the unchanged canonical file (or `notes.md` for Node `0`) with `CRITIC: confirmed_no_delta (file: content/posts/<slug>.md, sha256: <hash>, date: <YYYY-MM-DD>)` in `work/<slug>/debate-en.md`. Confirmed `NO_DELTA` nodes skip Stage 2 (`Translator` ⇄ `Stylist`) and Stage 3 (`interleave-post.py`) completely, prune `work/<slug>/`, and check off `- [x] <slug> (NO_DELTA)` in `work/wave.md`.
 
 #### Stage 2 Generator — `Translator` (`信` — Logical & Causal Fidelity)
-- **Context Loaded:** `work/<slug>/en.md`, `/ontological-clarity`, target posts' H1 headings in `content/posts/<target-slug>.md`, [`data/title-translations.json`](../data/title-translations.json), and `git show HEAD:content/posts/<slug>.md` (to reuse or refine unchanged Chinese paragraphs from already-bilingual posts).
-- **Intra-Node Pipelined Overlap & Race Prevention (Operational Learning from Wave 3):**
-  - Once `Drafter` finishes initial `work/<slug>/en.md`, `Dispatcher` may spawn `Critic` (cold review of `en.md`) and `Translator` (initial `zh.md` draft) **in parallel**.
-  - **No Concurrent Write to `debate-en.md`:** While `Critic` is active, `Translator` never writes directly to `work/<slug>/debate-en.md`. If translating exposes a hidden ambiguity, pronoun gap, or term clash in `work/<slug>/en.md`, `Translator` returns its `T1..Tn` flags in its message to `Dispatcher`, which appends and routes `T1..Tn` in `work/<slug>/debate-en.md` after `Critic`'s active turn finishes.
-  - **Round 2 Diff Sync & Retirement Synchronization:** If Stage 1 Round 2 modifies `work/<slug>/en.md` (including any H1/subtitle edit or `T1..Tn` resolution), `Dispatcher` forwards the full Round 2 diff of `en.md` to `Translator` so `work/<slug>/zh.md` is updated before `Stylist` is invoked (and if `T1..Tn` modified `en.md` after an initial `CRITIC: confirmed`, `Critic` re-verifies `en.md` and appends a final `CRITIC: confirmed`). `Drafter` and `Critic` are retired (`kill`) only after **both** `CRITIC: confirmed` is recorded **and** `Translator` completes `work/<slug>/zh.md` against the locked `en.md` with zero open `T1..Tn` flags. Conversely, if Stage 1 parks on `HOLD`, any in-flight parallel `Translator` for that node is killed immediately.
-- **Execution & Whole-File 1:1 Fidelity Check:** Writes pure Chinese Markdown (title, single-line italic subtitle, lead, `## 一、 <中文标题>`, body paragraphs, Chinese link anchors, and pure-Chinese Mermaid diagrams) to `work/<slug>/zh.md`. Since `398/398` posts in the corpus are now bilingual, every internal link `[...](../<target-slug>/)` takes its canonical Chinese anchor directly from the `# <ZH> / <EN>` H1 of `content/posts/<target-slug>.md` (with `data/title-translations.json` kept only as a fallback if a new monolingual stub is ever introduced). When refining an existing bilingual post, `Translator` reuses unchanged Chinese paragraphs from `HEAD` as its baseline **but verifies 1:1 `信` fidelity and `AGENTS.md` vocabulary hygiene across the entire `work/<slug>/zh.md` against locked `work/<slug>/en.md`** before handing off to `Stylist`, so pre-existing legacy omissions (e.g., dropped nouns or parenthetical inversions in adjacent sections) are repaired in the first pass rather than triggering an avoidable Round 2. Evaluates vocabulary-hygiene hits causally in context (barring them where the prose evaluates or describes with them, allowing them where they name the object/belief under dissection).
+- **Context Loaded:** Critic-signed `work/<slug>/en.md`, `/ontological-clarity`, target posts' H1 headings in `content/posts/<target-slug>.md`, [`data/title-translations.json`](../data/title-translations.json), and `git show HEAD:content/posts/<slug>.md` (to reuse or refine unchanged Chinese paragraphs from already-bilingual posts).
+- **Finished Products Only & Two-Way `sha256` Handoff Confirmation:**
+  - **Finished Products Only:** What passes from Stage 1 to Stage 2 is strictly the final `work/<slug>/en.md` that `Critic` has signed off with its `sha256`—never an unapproved draft plus a list of pending fixes.
+  - **Receiver Confirmation Before Stage 1 Contexts Drop:** Upon starting in a fresh context, `Translator` recomputes the `sha256` of `work/<slug>/en.md` and confirms receipt directly with **both** `Drafter` and `Critic` (via the routing harness). If the hash mismatches or confirmation is missing, the handoff is void and escalates to the Operator. Once confirmed, `Drafter` and `Critic` contexts are dropped (`kill`)—unless `Translator` surfaces a source ambiguity (`T1..Tn`) that requires re-opening Stage 1 in a fresh maker/critic pass and re-signing `en.md` with a new `sha256`.
+- **Execution & Whole-File 1:1 Fidelity Check:** Writes pure Chinese Markdown (title, single-line italic subtitle, lead, `## 一、 <中文标题>`, body paragraphs, Chinese link anchors, and pure-Chinese Mermaid diagrams) to `work/<slug>/zh.md`. Since all posts in the corpus are bilingual, every internal link `[...](../<target-slug>/)` takes its canonical Chinese anchor directly from the `# <ZH> / <EN>` H1 of `content/posts/<target-slug>.md` (with `data/title-translations.json` kept only as a fallback if a new monolingual stub is ever introduced). When refining an existing bilingual post, `Translator` reuses unchanged Chinese paragraphs from `HEAD` as its baseline **but verifies 1:1 `信` fidelity and `AGENTS.md` vocabulary hygiene across the entire `work/<slug>/zh.md` against locked `work/<slug>/en.md`** before handing off to `Stylist`, so pre-existing legacy omissions (e.g., dropped nouns or parenthetical inversions in adjacent sections) are repaired in the first pass rather than triggering an avoidable Round 2. Evaluates vocabulary-hygiene hits causally in context (barring them where the prose evaluates or describes with them, allowing them where they name the object/belief under dissection).
 - **Debate Rule:** Answers `Stylist` flags `S1..Sn` in `work/<slug>/debate-zh.md` with `ACCEPT` or `COUNTER` (with a causal reason grounded in `信` or `达`). **Never closes a flag unilaterally; there is no unilateral "`信` wins" override.**
 
 #### Stage 2 Cold Peer — `Stylist` (`达/雅` — Native Cadence & 1:1 Alignment Reviewer)
 - **Context Loaded:** Fresh, isolated context. Performs a **cold read of `work/<slug>/zh.md` first** (to catch unnatural cadence, stacked pre-nominal `的` clauses, ungrammatical focus frames, garden-path phrases, and vocabulary-hygiene hits where they carry the essay's own evaluation rather than naming the object), and **then** reads it line-by-line against locked `work/<slug>/en.md` to verify 1:1 causal, actor, and emphasis alignment.
-- **Gate:** Raises `S1..Sn` in `work/<slug>/debate-zh.md`. In Round 2+, marks each point `CONCEDE` or `HOLD` (including holding when a `Translator` counter-proposal alters `信`, e.g., turning a constitutive relation into a causal `因为`). Once all `S`-flags are settled and verified verbatim in `work/<slug>/zh.md` with matching block counts and link counts, `Stylist` writes `STYLIST: confirmed` in `work/<slug>/debate-zh.md`. Any irreducible `HOLD` goes to the Operator.
+- **Gate & Cryptographic `sha256` Sign-Off:** Raises `S1..Sn` in `work/<slug>/debate-zh.md`. In Round 2+, marks each point `CONCEDE` or `HOLD` (including holding when a `Translator` counter-proposal alters `信`, e.g., turning a constitutive relation into a causal `因为`). Once all `S`-flags are settled and verified verbatim in `work/<slug>/zh.md` with matching block counts and link counts, `Stylist` signs off on the **exact final file and its `sha256` hash** (`STYLIST: confirmed (file: work/<slug>/zh.md, sha256: <hash>, date: <YYYY-MM-DD>)`) in `work/<slug>/debate-zh.md`, and `Translator` completes the handoff checklist. Any irreducible `HOLD` goes to the Operator with both positions stated briefly.
 
-#### Stage 3 — `Dispatcher` / `Assembler` (Deterministic Gate, Assembly, Publish & Wave Dispatch)
+#### Stage 3 — `Dispatcher` / `Assembler` & Post-Run `Recap` (Deterministic Gate, Assembly, Publish, Recap & Wave Dispatch)
 - **Strict Dispatcher Boundary:** Deterministic verifier, assembler, and wave dispatcher—**never** an autonomous Orchestrator or prose rewriter. Never spawns a separate subagent just to interleave paragraphs, and never hand-rewrites neighbor prose in `content/posts/` without Stage 1/2 peer review; for a New Post `N`, 1-hop reverse-link and narrative refinement across outbound neighbors is executed by `/sleep` (`L1 = links_out(N) \setminus \{N\}`), or if woven into 1–2 neighbors during `/wake`, passes through `Drafter` $\leftrightarrow$ `Critic` and `Translator` $\leftrightarrow$ `Stylist`.
 - **Execution Checklist per Node (or Completed Streamline Batch):**
-  1. **Verify Stage Gates & Retire Subagents:** Check that `work/<slug>/debate-en.md` ends with `CRITIC: confirmed` and `work/<slug>/debate-zh.md` ends with `STYLIST: confirmed`, with zero open flags or unresolved Operator points. Immediately retire (`kill`) all remaining subagent contexts for `<slug>`.
+  1. **Verify Stage Gates, Recompute `sha256` Hashes & Drop Contexts:** Check that `work/<slug>/debate-en.md` ends with `CRITIC: confirmed (sha256: ...)` and `work/<slug>/debate-zh.md` ends with `STYLIST: confirmed (sha256: ...)`, with zero open flags or unresolved Operator points. Recompute the `sha256` of `work/<slug>/en.md` and `work/<slug>/zh.md` to confirm receipt with Stage 2 (`Translator` and `Stylist`), then immediately drop (`kill`) all remaining task bot contexts for `<slug>`.
   2. **Interleave (`python3 scripts/interleave-post.py <slug>`):** Combine locked `work/<slug>/en.md` and `work/<slug>/zh.md` into `content/posts/<slug>.md` via `python3 scripts/interleave-post.py <slug> [<slug2> ...]`, which strips blank lines inside ```` ```mermaid ... ``` ```` blocks, verifies 1:1 block-kind parity (`h1`, `subtitle`, `h2`, `prose`, `mermaid`), and attaches diagrams to their preceding prose in each language (`CN Paragraph -> CN Diagram -> EN Paragraph -> EN Diagram`).
   3. **Sync Book & Lattice Metadata:**
      - Update [`content/book/<part>.md`](../content/book/) and [`content/book/index-of-premises.md`](../content/book/index-of-premises.md) (when adding a new post `N`, or updating `→ [<Title>](../../posts/<slug>/)` links if an H1 title changed).
@@ -181,10 +217,13 @@ flowchart TD
      - `python3 scripts/audit-book.py` (uses `git log --reverse -M` so historical slug renames preserve their original creation date; passes on `CLEAN PASS`, or on `PASSED WITH ADVISORIES` when each advisory is causally verified in context).
      - `node build.mjs`
      - `node scripts/project-posts-graph.mjs` (`missing_targets: 0`)
-  5. **Publish & Prune Transient Workspace (Tracked Paths Only in `git add`):**
+  5. **Post-Run `Recap` & Carry-Over Note (`Fix the Process, Not the Instance`):**
+     - Write any late-discovered information too late to act on in the current run to `work/carry-over.md` (or `work/todo.md` for cross-node wave items) so the next run's first bot reads it and clears it once acted on.
+     - Run a fresh **`Recap`** pass (loading `/ontological-clarity` and reading the run folder: artifacts, `debate-en.md`, `debate-zh.md`, and any escalations) to ask one question: *where did the run fall short of logical coherence?* (e.g., a charter with conflicting goals, a skill step built on an unstated premise, or shared blind spots between maker and critic). If `Recap` identifies a process fault, it **proposes** specific charter/skill changes to the Human Operator for decision—never self-editing charters or skills silently.
+  6. **Publish & Prune Transient Workspace (Tracked Paths Only in `git add`):**
      - Never pass gitignored paths (`work/` or `public/`) to `git add` (which exits with code `1`); stage only tracked canonical paths (`content/posts/`, `content/book/`, `data/`, `assets/`).
-     - For a **Waking New Post (`N`) or Waking Refinement**: Present `walkthrough.md` (for `N`) and pause for Operator check (unless the Operator already authorized push), then `git commit` & `git push origin main`, run `sleep 3 && gh run watch $(gh run list --commit $(git rev-parse HEAD) --limit 1 --json databaseId --jq '.[0].databaseId') --exit-status`, verify live HTTP 200, delete `work/<slug>/` (`rm -rf work/<slug>`), and (for a New Post `N`) overwrite `work/wave.md` with the fresh wave state (`visited = {N}`), ready for `/sleep` to weave `N` into `L1`.
-     - For a **Sleep Wave Node Batch (`L1` / `L2` / ... / `Lk`)**: Commit all nodes completed in the batch, `git push origin main`, wait for GitHub Pages deploy (`sleep 3 && gh run watch $(gh run list --commit $(git rev-parse HEAD) --limit 1 --json databaseId --jq '.[0].databaseId') --exit-status`), verify live HTTP 200 on `https://powerpig99.github.io/not-a-toe/posts/<slug>/`, delete `work/<slug>/` (`rm -rf work/<slug>`), mark the nodes `[x]` in `work/wave.md`, and dispatch the next window.
+     - For a **Waking New Post (`N`) or Waking Refinement**: Present `walkthrough.md` (for `N`) and any `Recap` proposals, pause for Operator check (unless the Operator already authorized push), then `git commit` & `git push origin main`, run `bash scripts/watch-deploy.sh`, verify live HTTP 200, delete `work/<slug>/` (`rm -rf work/<slug>`), and (for a New Post `N`) overwrite `work/wave.md` with the fresh wave state (`visited = {N}`), ready for `/sleep` to weave `N` into `L1`.
+     - For a **Sleep Wave Node Batch (`L1` / `L2` / ... / `Lk`)**: Commit all nodes completed in the batch, `git push origin main`, wait for GitHub Pages deploy (`bash scripts/watch-deploy.sh`), verify live HTTP 200 on `https://powerpig99.github.io/not-a-toe/posts/<slug>/`, delete `work/<slug>/` (`rm -rf work/<slug>`), mark the nodes `[x]` in `work/wave.md`, and dispatch the next window.
 
 ---
 
@@ -211,16 +250,22 @@ flowchart TD
    - Run Stage 3 (interleave, Book Part & Index of Premises update, `audit-post.py --walkthrough <path>`, `audit-book.py`, `build.mjs`, `project-posts-graph.mjs`, `walkthrough.md`, and publish; any immediate backlink woven into 1–2 prior essays during `/wake` passes through Stages 1–2 peer review, while full 1-hop consolidation across all outbound neighbors runs in `/sleep`).
    - For a `NEW POST` `N`, overwrite `work/wave.md` (`visited = {N}`), ready for `/sleep`.
 
-### 4.2 `/sleep` — Shallow Sleep Consolidation (`Layer 1`)
-- By `Trace` asymmetry in `/ontological-clarity`, shaping runs one way. When post `P` links outward to `Q` (`P → Q`), `P` explicitly invokes `Q`'s distinction as a premise or adjacent axis.
+### 4.2 `/sleep` — Shallow Sleep Consolidation (Node `0` Implementation Plans + `Layer 1` Essays)
+- By `Trace` asymmetry in `/ontological-clarity`, shaping runs one way. When post `P` links outward to `Q` (`P → Q`), `P` explicitly invokes `Q`'s distinction as a premise or adjacent axis—which may or may not require modifying `Q` itself (`DELTA` vs. `NO_DELTA`). Likewise, `N` may or may not introduce a new operational premise for the repository's implementation plans (`docs/wave-refinement-plan.md`, `docs/adapters/antigravity.md`, `AGENTS.md`, `SKILL`s).
 - **Execution:**
   1. Identify the most recently published waking post `N` (or active `L1` wave in `work/wave.md`).
   2. Regenerate [`docs/posts.graph.json`](../docs/posts.graph.json) (`node scripts/project-posts-graph.mjs`) and extract all Layer 1 forward links:
      $$L_1 = \text{links\_out}(N) \setminus \{N\}$$
      sorted by descending outgoing link count (`links_out`), deduplicated.
-  3. Write `## L1 (<count>)` to `work/wave.md` with `visited = {N} ∪ L1` (do **not** pre-compute `L2` yet, since refining `L1` posts may change their outgoing links).
-  4. Run the 3-stage refinement pipeline (`Drafter` $\leftrightarrow$ `Critic` $\rightarrow$ `Translator` $\leftrightarrow$ `Stylist` $\rightarrow$ `Dispatcher`) across every unchecked `[ ]` post in `L1` using $W$ parallel streamlines, weaving reverse links to `N` into surrounding narrative prose and converting any monolingual post in `L1` to full alternating bilingual format in the same pass.
-  5. Stop and report when all nodes in `L1` are `[x]` complete (or parked on `[HOLD]`), ready for `/deep-sleep` (or `/wake`).
+  3. Write `## L1 (<count>)` to `work/wave.md` with `visited = {N} ∪ L1`, starting with **`- [ ] 0. _plan-consolidation (Implementation Plans & SKILLs — Stage 1 Only)`** followed by `- [ ] 1..M` for the `L1` essay slugs (do **not** pre-compute `L2` yet, since refining `L1` posts may change their outgoing links).
+  4. **Run Node `0` (`_plan-consolidation` — Stage 1 Only: `Drafter` ⇄ `Cold Critic`, Zero Translation):**
+     - `Drafter` evaluates `N` against `docs/wave-refinement-plan.md`, `docs/adapters/antigravity.md`, `AGENTS.md`, and `/Users/jingliang/.grok/skills/*/SKILL.md` under the `DELTA` vs. `NO_DELTA` Causal-Necessity Gate: if `N` introduces or sharpens an operational premise not yet codified, `Drafter` writes the surgical update in `work/_plan-consolidation/draft.md`; if existing procedural invariants already hold `N`'s cut completely, `Drafter` writes `NO_DELTA` with a 1-paragraph causal proof in `work/_plan-consolidation/notes.md`.
+     - `Cold Critic` verifies `work/_plan-consolidation/` cold in both directions (rejecting decorative rule bloat on `DELTA`, or catching missed operational implications on `NO_DELTA`) and signs off with `CRITIC: confirmed` or `CRITIC: confirmed_no_delta` in `work/_plan-consolidation/debate-en.md`. Confirmed plan edits are applied to the target plan files (or presented to the Operator if they alter a core `SKILL` boundary), `work/_plan-consolidation/` is pruned (`rm -rf`), and Node `0` is marked `- [x]` in `work/wave.md`.
+  5. **Run `L1` Essay Consolidation Across $W$ Parallel Streamlines (`DELTA` vs. `NO_DELTA`):**
+     - For every unchecked `[ ]` post in `L1`, Stage 1 (`Drafter` ⇄ `Cold Critic`) evaluates causal necessity first:
+       - **`DELTA` (`CRITIC: confirmed`):** Where `N` sharpens or completes the target post's own cut (or the target post has hygiene/bilingual drift), `Drafter` weaves the surgical refinement and reverse link to `N` into `work/<slug>/en.md`, `Critic` signs off with `sha256`, Stage 2 (`Translator` ⇄ `Stylist`) translates and signs off `work/<slug>/zh.md`, and Stage 3 (`Dispatcher`) interleaves, audits, builds, commits, pushes, verifies live HTTP 200, deletes `work/<slug>/`, and marks `- [x] <slug> (DELTA)`.
+       - **`NO_DELTA` (`CRITIC: confirmed_no_delta`):** Where `N` merely cites the target post as an already-complete upstream premise and the target post already passes all invariants cleanly without needing `N` to complete its cut, `Critic` confirms `NO_DELTA` in `work/<slug>/debate-en.md` (preventing forced backlink stuffing), Stages 2 and 3 are skipped for that node, `work/<slug>/` is deleted, and `Dispatcher` marks `- [x] <slug> (NO_DELTA)`.
+  6. Stop and report when Node `0` and all nodes in `L1` are `[x]` complete (or parked on `[HOLD]`), ready for `/deep-sleep` (or `/wake`).
 
 ### 4.3 `/deep-sleep` — Deep Sleep Consolidation (`Layer k`, Unbounded Depth, Computed Lazily)
 - **No Artificial 2-Layer Cap & Lazy Evaluation:** Instead of stopping at `L2` or pre-computing deeper layers before `L_{k-1}` finishes, `/deep-sleep` waits until $L_{k-1}$ finishes, re-projects `docs/posts.graph.json` to capture any link changes made during $L_{k-1}$, and steps one level deeper down the forward link graph (`L2 → L3 → L4 → ... → Lk`) until either the reachable lattice is fully consolidated ($L_k = \emptyset$) or a new waking post `N'` (`/wake`) initiates a new cycle.
@@ -243,6 +288,10 @@ flowchart TD
   - `/resume-bridge` **in a new session or after `/retire`** lists all available bridges in `<project>/memory/bridges/*.md` sorted by `Updated` and asks the Operator which thread to pick.
   - `/retire` deletes the finished bridge `<project>/memory/bridges/<id>.md` and removes `.last_session` so no stale working-memory log lingers once changes are consolidated into long-term memory.
 
+### 4.5 `/recap` — Cold Post-Task & Operator-Initiated Process Optimization Audit
+- **Bridging `SKILL` Incompleteness Without Mid-Run Drift:** Because deterministic `SKILL` boundaries cannot foresee every surprise, **`/recap`** can run automatically at the conclusion of a task (`work/<slug>/recap.md` or `work/plan/<task-id>/recap.md`) **or** be invoked on demand at any time by the Operator (`/recap [target]`).
+- **Execution:** Spawns a fresh, cold `Recap` context under `/ontological-clarity` to inspect the completed run folder or session surprise/escalation against the governing `SKILL`s and charters. It checks for (1) Task Tier misclassification (Tier 1 vs. Tier 2 vs. Tier 3), (2) Pre-Escalation Gate accuracy (whether a `Cold Critic` and, where applicable, a `Cold Scouter` were used before interrupting the Operator), (3) unstated premises or conflicting charter goals, (4) shared blind spots between maker and critic, and (5) skill sprawl that can be pruned, presenting surgical `SKILL`/charter diff proposals for the Operator to decide.
+
 ---
 
 ## 5. Non-Blocking Fault Isolation, Adaptive Parallel Streamlines & Session Hygiene
@@ -254,20 +303,20 @@ Because `work/<slug>/` isolates in-flight drafts from `content/posts/`, Stages 1
   - **Operator Override (Customizable):** The Operator may pass an explicit concurrency target (e.g., `/sleep concurrency=8`, `/deep-sleep 10`, or in natural language) to set the number of concurrent node streamlines $W$ directly.
   - **Automatic Derivation from Layer Size (Default):** When not explicitly specified, `Dispatcher` derives the active streamline window $W$ from the number of remaining unchecked `[ ]` nodes $R = |L_k|_{\text{rem}}$ in the current layer:
     $$W(R) = \begin{cases} R & \text{if } R \le 4 \\ 6 & \text{if } 5 \le R \le 20 \\ 8 & \text{if } 21 \le R \le 60 \\ 12 & \text{if } R > 60 \end{cases}$$
-    Up to $W$ independent `work/<slug-j>/` directories run Stages 1 & 2 concurrently (including spawning Stage 1 `Critic` and Stage 2 `Translator` in parallel per §3 Stage 2).
+    Up to $W$ independent `work/<slug-j>/` directories run Stages 1 & 2 concurrently across nodes (while within each node, Stage 2 starts only after Stage 1 signs off the finished `en.md` and its `sha256` per §3).
   - **Serialized / Batched Stage 3 Assembly:** Only Stage 3 (`content/posts/<slug>.md` interleaving, `content/book/` & `data/title-translations.json` sync, `build.mjs`, `project-posts-graph.mjs`, and `git commit && git push`) touches shared repository state. `Dispatcher` batches all nodes that finish Stage 2 in the same turn into a single atomic build, graph projection, commit, and push.
 - **Localized Fault Isolation on `HOLD`:** If Node $j$ hits an irreducible deadlock between `Drafter` and `Critic` (or `Translator` and `Stylist`) after Round 2, `Dispatcher` marks Node $j$ as `[HOLD — awaiting Operator]` in `work/wave.md` and **immediately refills its streamline slot with the next `[ ]` node**. A premise contradiction in one node never halts the wave; only that node's local streamline waits for the Operator's synthesis.
 
 ### 5.2 Session Trajectory Hygiene Across Wave Nodes
 To prevent a long sleep wave from turning agent sessions into a cross-node epistemic gravity well:
-1. **1 Node per Fresh Subagent Context (While Scaling $W$ Across Nodes):** Parallelism scales *across* isolated node contexts ($W$ concurrent streamlines), never by stuffing many unrelated essays into a single subagent's conversation history. Each generative and review role (`Drafter`, `Critic`, `Translator`, `Stylist`) runs in a fresh context per node and is retired (`kill`) immediately once that node locks, so prior debates never act as conditioning history for the next essay.
-2. **Externalize Durable Findings Only to `work/todo.md`:** Any cross-post observation discovered while working on Node $j$ (e.g., a broken title case or residual moral phrasing noticed in a neighbor) is appended as a one-line fact to `work/todo.md` and dropped from active session memory until that neighbor's own wave node arrives.
-3. **True Cold-Read Separation:** `Critic` (on `en.md`) and `Stylist` (cold read on `zh.md`) must run in a fresh context unconditioned by the generator's session tokens.
+1. **1 Node per Fresh Subagent Context (While Scaling $W$ Across Nodes):** Parallelism scales *across* isolated node contexts ($W$ concurrent streamlines), never by stuffing many unrelated essays into a single subagent's conversation history. Each generative and review role (`Drafter`, `Critic`, `Translator`, `Stylist`) runs in a fresh context per node and is retired (`kill`) immediately once that stage's handoff is confirmed, so prior debates never act as conditioning history for the next essay.
+2. **Externalize Durable Findings Only to `work/todo.md` & `work/carry-over.md`:** Any cross-post observation discovered while working on Node $j$ (e.g., a broken title case or residual moral phrasing noticed in a neighbor) is appended as a one-line fact to `work/todo.md` (and any late run-level information to `work/carry-over.md`) and dropped from active session memory until that neighbor's own wave node or next run arrives.
+3. **True Cold-Read Separation:** `Critic` (on `en.md`), `Stylist` (cold read on `zh.md`), and `Recap` (post-run review against `/ontological-clarity`) must run in a fresh context unconditioned by the generator's session tokens.
 
 ### 5.3 Chinese-Original Exception
-All `398/398` posts in the corpus are now full alternating bilingual essays (`0` monolingual stubs remain in `data/title-translations.json`). For the 3 historically Chinese-first posts (`e-shi-feng-bi-de-shan`, `qian-yin-hou-guo`, `mei-you-pu-du-zhi-you-zi-du`) or when a future waking post is drafted Chinese-first, the language order in Stages 1 and 2 flips so the author's original Chinese is refined first rather than overwritten by a back-translation:
-- **Stage 1 (`Drafter` $\leftrightarrow$ `Critic`):** Refines the Chinese text in `work/<slug>/zh.md` (logged in `work/<slug>/debate-zh.md`).
-- **Stage 2 (`Translator` $\leftrightarrow$ `Stylist`):** Translates/syncs the locked Chinese into English in `work/<slug>/en.md` (logged in `work/<slug>/debate-en.md`).
+All `400/400` posts in the corpus are now full alternating bilingual essays (`0` monolingual stubs remain in `data/title-translations.json`). For the 3 historically Chinese-first posts (`e-shi-feng-bi-de-shan`, `qian-yin-hou-guo`, `mei-you-pu-du-zhi-you-zi-du`) or when a future waking post is drafted Chinese-first, the language order in Stages 1 and 2 flips so the author's original Chinese is refined first rather than overwritten by a back-translation:
+- **Stage 1 (`Drafter` $\leftrightarrow$ `Critic`):** Refines the Chinese text in `work/<slug>/zh.md` (logged and signed off by `sha256` in `work/<slug>/debate-zh.md`).
+- **Stage 2 (`Translator` $\leftrightarrow$ `Stylist`):** Translates/syncs the locked Chinese into English in `work/<slug>/en.md` (logged and signed off by `sha256` in `work/<slug>/debate-en.md`).
 - **Stage 3 (`Dispatcher` / `Assembler`):** Interleaves `zh.md` and `en.md` into `content/posts/<slug>.md` via `python3 scripts/interleave-post.py <slug>`.
 
 ---
@@ -339,19 +388,170 @@ flowchart TD
 
 ### 6.4 Task Dispatcher Recursion & Integration with Canonical Pipeline
 
-- **Deterministic Dispatch of Peer-Verified Subtask DAG (`max_depth` Bounded):**
-  - `Task Dispatcher` reads **only** `work/plan/<task-id>/final-plan.md` and executes the parallel/serial subtask DAG already verified by `Scouter` and `Evaluator`.
-  - **Bounded Vertical Recursion (`max_depth`, default `2`):** For any subtask marked `needs_research: true` in `final-plan.md`, if current recursion depth $d < \text{max\_depth}$ (default `max_depth = 2`, overridable by the Operator), `Task Dispatcher` recurses the full Planning Cycle (`Planner` → `Scouter` → `Evaluator`) in an isolated child directory `work/plan/<task-id>/<subtask-id>/` with zero parent session history leaking downward. If $d == \text{max\_depth}$ and a child plan still requests further subtask research recursion, `Task Dispatcher` pauses that branch and escalates to the Operator.
-  - For subtasks marked `needs_research: false`, `Task Dispatcher` dispatches them directly to execution in isolated worker contexts (or to Stages 1–3 of the canonical pipeline when the subtask is prose).
+- **Deterministic Dispatch of Peer-Verified Subtask DAG by Task Tier (`max_depth` Bounded):**
+  - `Task Dispatcher` reads **only** `work/plan/<task-id>/final-plan.md` and executes the parallel/serial subtask DAG already verified by `Scouter` and `Evaluator`, where each subtask carries an explicit deterministic tier (`tier: deterministic | subtask | creative`):
+  - **Tier 1 Subtasks (`tier: deterministic`):** Closed-endpoint scripts, builds, or checks with fully stated parameters. `Task Dispatcher` executes them directly with **zero `Critic` and zero `Scouter`**.
+  - **Tier 2 Subtasks (`tier: subtask`, default for bounded non-trivial subtasks):** Dispatched to an isolated `Maker` paired by default with a fresh **`Cold Critic`** (operating in both directions: preventing errors/false-positive escalations and surfacing overlooked angles). If `Maker` believes an issue requires Operator intervention, it must pass the deterministic **Pre-Escalation Gate** (`Maker` ⇄ `Cold Critic`, plus a cold retiring `Scouter` inferring external sources like X/GitHub/docs if external prior art applies) before interrupting the Operator. (When the subtask is Living Book prose, this maps to Stages 1–3 of the canonical essay pipeline.)
+  - **Tier 3 Subtasks (`tier: creative` / `needs_research: true`):** Open-ended or architectural subtasks that expand their residual decision space. If current recursion depth $d < \text{max\_depth}$ (default `max_depth = 2`, overridable by the Operator), `Task Dispatcher` recurses the full Planning Cycle (`Planner` → cold `Scouter` → cold `Evaluator`) in an isolated child directory `work/plan/<task-id>/<subtask-id>/` with zero parent session history leaking downward. If $d == \text{max\_depth}$ and a child plan still requests further subtask research recursion, `Task Dispatcher` pauses that branch and escalates to the Operator.
   - Cross-subtask observations are appended as one-line facts to `work/todo.md` and dropped from active session contexts.
-  - Once all subtasks in `final-plan.md` are executed and verified in the canonical project files, `Task Dispatcher` deletes `work/plan/<task-id>/` (`rm -rf work/plan/<task-id>`) so intermediate planning/research/debate trajectories do not linger as stale rabbit holes.
+  - **Post-Task `Recap` & Cleanup:** At the conclusion of `final-plan.md` (or whenever the Operator invokes `/recap`), a cold `Recap` pass audits the run (`work/plan/<task-id>/recap.md`) against `/ontological-clarity` and surfaces any proposed `SKILL`/charter boundary improvements to the Operator before `Task Dispatcher` deletes `work/plan/<task-id>/` (`rm -rf work/plan/<task-id>`).
 
 | Canonical Element | Integration with Orthogonal Planning Cycle (Section 6) |
 | :--- | :--- |
-| **Stage 0 `/wake` probe** | May invoke the Section 6 Planning Cycle when a waking spark requires external reference architectures or empirical/technical verification before a cut is drafted. |
-| **Stage 1 (`Drafter` ⇄ `Critic`)** | Remains the primary-language ontological cut; the Section 6 Planning Cycle complements (never substitutes for) ontological review. |
-| **Stage 2 (`Translator` ⇄ `Stylist`)** | Unchanged. |
-| **Stage 3 (`Dispatcher` / `Assembler`)** | Acts as `Task Dispatcher` when the task is implementation/engineering across any project in Extended Memory; performs deterministic assembly and wave dispatch for essays. |
+| **Stage 0 `/wake` probe** | May invoke the Section 6 Planning Cycle (Tier 3) when a waking spark requires external reference architectures or empirical/technical verification before a cut is drafted. |
+| **Stage 1 (`Drafter` ⇄ `Critic`)** | Tier 2 bounded subtask; the Section 6 Planning Cycle complements (never substitutes for) ontological review. |
+| **Stage 2 (`Translator` ⇄ `Stylist`)** | Tier 2 bounded subtask; unchanged. |
+| **Stage 3 (`Dispatcher` / `Assembler`)** | Executes Tier 1 deterministic scripts/audits/deploys for essays; acts as `Task Dispatcher` across Tier 1/2/3 subtasks in `final-plan.md` for Extended Memory projects. |
 | **`/sleep` & `/deep-sleep`** | Unaffected; essay lattice consolidation continues under Sections 4–5. |
 | **`/bridge` & `/resume-bridge`** | A planning cycle may checkpoint its state in `<project>/memory/bridges/<id>.md` holding only the pointer to `plan-vN.md` and `residuals-vN.md` across session clears. |
-| **Minimal Artifacts (`work/plan/<task-id>/`)** | `plan-vN.md` (Planner), `research-vN.md` (Scouter), `debate-vN.md` (Evaluator ⇄ Planner), `residuals-vN.md` (Evaluator on `SCOUT`/`HOLD`), `final-plan.md` (Evaluator on `EVALUATOR: confirmed`, handed to Task Dispatcher). |
+| **`/recap`** | Runs at task conclusion or on Operator demand to audit tier classification, pre-escalation gate accuracy, and `SKILL` boundaries. |
+| **Minimal Artifacts (`work/plan/<task-id>/`)** | `plan-vN.md` (Planner), `research-vN.md` (Scouter), `debate-vN.md` (Evaluator ⇄ Planner), `residuals-vN.md` (Evaluator on `SCOUT`/`HOLD`), `final-plan.md` (Evaluator on `EVALUATOR: confirmed`, handed to Task Dispatcher), `recap.md` (Recap). |
+
+---
+
+## 7. Event-Driven On-Demand Bot Dispatching: Reference Protocol, Failure Handling, Open Questions & Glossary
+
+> **Companion Essay:** [`On-Demand Contexts Keep Coherence at One Step`](../content/posts/on-demand-contexts-keep-coherence-at-one-step.md) & [`The Density of Judgment`](../content/posts/the-density-of-judgment.md)  
+> **Scope:** General multi-step agent pipeline scheme (`Bot = base model + charter + skills`) applicable across essay authoring, sleep consolidation, media production (`studio/deliverables/skills-grokbot/`), and any project in Extended Memory.
+
+### 7.1 End-to-End Run Lifecycle & Sequence Diagram
+
+1. **Trigger & Deterministic Tier Selection:** A schedule, incoming email, user message, webhook, or event fires. The **Dispatcher** (the only persistent bot holding triggers; there is no standing project manager) reads the step's deterministic tier from its `SKILL`/runbook:
+   - **Tier 1 (Deterministic Execution):** Closed-endpoint script or command; runs directly without spawning a critic or scouter.
+   - **Tier 2 (Bounded Subtask):** Starts the task's **Maker** and clones a **Cold Critic** in a fresh context by default.
+   - **Tier 3 (Creative / Open-Ended Task):** Starts **Maker/Planner**, a retiring **Cold Scouter** (which infers the highest-signal external sources—X, GitHub, official docs, papers—for the task at hand), and a **Cold Critic/Evaluator** by default.
+2. **Load Context:** Each task bot reads the runbook, the single house rule (`/ontological-clarity`), its charter, its deterministic `SKILL`s, and any carry-over note (`carry-over.md`) from the previous run.
+3. **Make:** For Tier 2/3 steps, the maker produces its artifact in the run folder (incorporating `Scouter`'s external report in Tier 3).
+4. **Critique in Both Directions:** The cold critic reviews the artifact without the maker's working history—both catching mistakes/drift **and** surfacing overlooked issues or fresh angles that the maker's trajectory missed. The existing standard is the minimum; the critic aims to improve on it.
+5. **Debate to Full Agreement:** Both argue as equals from the same logic (`/ontological-clarity`). A point is settled only when both fully agree, never by splitting the difference.
+6. **Pre-Escalation Gate Before Interrupting the Human:** Whenever a task owner believes a choice or surprise needs human intervention, or when maker and critic appear deadlocked:
+   - First, `Maker` and `Cold Critic` debate on equal footing whether the point is genuinely an underivable human Decision or a Task already derivable from the house rule and existing premises.
+   - Second, if they still conclude human intervention is needed (or remain deadlocked) and external prior art applies, they spin up a cold, retiring **`Scouter`** to study solutions from relevant external spaces (X, GitHub, official docs/papers inferred from the task) and reconsider with that findings brief in hand.
+   - Only what remains unresolved after reconsideration goes to the human, with both positions stated briefly.
+7. **Apply and Sign Off:** The maker applies the agreed fixes. The cold critic signs off on the **exact final file and its `sha256` hash**.
+8. **Start the Next Bot and Hand Over:** Maker and critic together start the next step's bot from its charter and hand over the finished artifact.
+9. **Confirm:** The handoff is official only when the receiver recomputes the `sha256` hash and confirms receipt directly with **both** maker and critic (if a step hands over to several receivers, **every** receiver must confirm). Then maker and critic contexts are dropped.
+10. **Repeat & Recap (`/recap`):** Repeat until the last step finishes. The final pair writes `carry-over.md`, then a fresh **Recap** bot (or an on-demand `/recap` triggered by the human at any point) loads the house rule, reads the whole run folder (artifacts, critique records, escalations) and governing `SKILL`s, asks *where did the deterministic `SKILL` boundaries fall short of logical coherence?*, and **proposes** surgical changes to `SKILL`s or charters for the human to review and decide.
+
+```mermaid
+sequenceDiagram
+    autonumber
+    participant T as Trigger
+    participant D as Dispatcher
+    participant M1 as Maker (Tier 2/3)
+    participant C1 as Cold Critic
+    participant S1 as Cold Scouter (Tier 3 or Pre-Escalation)
+    participant M2 as Next Bot
+    participant H as Human
+
+    T->>D: schedule / event / user command
+    D->>M1: start from charter & deterministic SKILL tier (fresh context)
+    M1->>M1: load runbook, house rule, SKILLs, carry-over note
+    M1->>C1: clone Cold Critic (fresh context, no working history)
+    opt Tier 3 Creative Task (by default)
+        M1->>S1: spawn Cold Scouter (infers X / GitHub / docs sources)
+        S1->>M1: structured external report (S1 retires)
+    end
+    M1->>M1: produce artifact
+    loop Debate as equals under /ontological-clarity (errors + new angles)
+        C1->>M1: critique (aim above standard)
+        M1->>C1: response / revision
+    end
+    opt Candidate escalation or deadlock remains
+        M1->>S1: spawn Cold Scouter if external prior art applies
+        S1->>C1: external solutions brief (S1 retires)
+        C1->>M1: reconsider with external signal
+        opt Still requires a genuine human Decision
+            M1->>H: both positions + scouted context stated briefly
+            H->>M1: decision (plus optional SKILL optimization)
+        end
+    end
+    M1->>M1: apply agreed fixes
+    C1->>M1: sign off on final file + sha256
+    Note over M1,C1: together start next bot from its charter
+    M1->>M2: hand over finished artifact
+    M2->>M1: confirm receipt (file + hash)
+    M2->>C1: confirm receipt (file + hash)
+    Note over M1,C1: contexts dropped
+    Note over M2,H: ...last step finishes, cold Recap (/recap) runs, human decides SKILL updates
+```
+
+### 7.2 Six-Step Handoff Protocol
+
+1. **Final artifact only.** The file is the critic-approved version, with no pending fixes.
+2. **Sign-off record.** The critic records file name, `sha256`, date, what was checked, and the points agreed.
+3. **Handoff checklist.** The maker completes the shared checklist: artifact present, hash recorded, critique record saved, open questions none or decided by the human, next charter(s) named.
+4. **Start the receiver(s).** Maker and critic start each next bot from its charter and point it at the run folder.
+5. **Confirmation by every receiver.** Each receiver recomputes the hash and confirms directly with both maker and critic. If any confirmation is missing or any hash does not match, the handoff is not official.
+6. **Drop the contexts.** Nothing from maker's or critic's chat survives except what is in the run folder.
+
+### 7.3 Canonical File & Skill Layout for General Pipelines
+
+```text
+pipeline/
+├── runbook.md              # step order, which charter runs each step
+├── house-rule.md           # the single house rule: logical coherence (/ontological-clarity)
+├── handoff-checklist.md
+├── charters/
+│   ├── gatherer.md         # name + role description
+│   ├── writer.md
+│   └── video-producer.md
+├── skills/
+│   ├── ontological-clarity.md  # how to apply the house rule
+│   ├── gather-sources.md
+│   ├── write-brief.md
+│   ├── produce-short-video.md
+│   ├── critic.md           # loaded by every cold critic
+│   └── recap.md            # post-run review
+├── carry-over.md           # late information for the next run (cleared once acted on)
+└── runs/
+    └── <run-date>/
+        ├── 01-gather/      # digest.md, critique-record.md (with sha256 sign-off)
+        ├── 02-brief/       # brief.md, critique-record.md (with sha256 sign-off)
+        ├── 03-video/       # video.mp4, critique-record.md (with sha256 sign-off)
+        ├── escalations.md  # questions to the human and decisions
+        └── recap.md        # findings and proposed charter/skill changes for human review
+```
+
+### 7.4 Failure Handling (`Fix the Process, Not the Instance`)
+
+When a step fails or produces weak work, ask which `SKILL` or charter allowed it. A change to that file is proposed (via post-task or operator-initiated `/recap`), the human decides on it, and the step is then rerun from a **fresh context**. Never patch a running bot with ad-hoc instructions: the fix disappears with the context.
+- **A bot crashes or stalls:** If the trace confirms a deterministic local cleanup (e.g., killing a confirmed-stuck read-only TUI process or fixing an unexamined script timing assumption), execute and report it; if a non-trivial choice remains, verify via the Pre-Escalation Gate (`Maker` ⇄ `Cold Critic` [+ optional `Cold Scouter`]) before asking the human whether to redo the step from the last confirmed handoff (in a fresh context) or hold the run. Partial work is discarded.
+- **Hash mismatch at handoff:** The handoff is void. The human is told and decides: the previous pair re-signs, or a fresh pair redoes the step.
+- **Maker and critic cannot agree (after Pre-Escalation `Scouter` check where applicable):** When `Maker` and `Cold Critic` remain deadlocked—even after spinning up a cold `Scouter` to check relevant external prior art (X, GitHub, docs) where applicable—unresolved points go to the human with both positions stated briefly. The run waits. No rule or watchdog decides in the human's place.
+- **Repeated failures or surprises at one step:** Indicates a design fault in that step's deterministic `SKILL` boundary or charter, usually an incoherence or tier misclassification. The `Recap` (`/recap`, run at task conclusion or on Operator call) records it and proposes a surgical `SKILL`/charter change; the human decides.
+
+### 7.5 Incremental Adoption Path (Migrating from a Standing Project Manager)
+
+1. **Write down what the PM knows:** Turn implicit instructions into a `runbook.md`, one charter per role, and a set of deterministic `SKILL`s classifying each step into Tier 1 (deterministic), Tier 2 (`Maker` ⇄ `Cold Critic`), or Tier 3 (`Maker` + `Cold Scouter` + `Cold Critic`). Check them against the house rule (`/ontological-clarity`).
+2. **Move triggers to a Dispatcher:** At first the Dispatcher simply wakes the PM.
+3. **Convert one step:** Pick the step with the most drift and run it according to its tier (`Maker` + `Cold Critic`), handing back to the PM.
+4. **Add sign-off `sha256` hashes, critique records, the Pre-Escalation Gate, and `/recap`.**
+5. **Convert the remaining steps** one at a time, letting each pair start the next bot.
+6. **Drop the PM context** once the Dispatcher starts the first bot directly.
+
+### 7.6 Trade-Offs and Open Questions (Active Brainstorming Surface)
+
+- **Start-up latency:** Tier 2 and Tier 3 steps pay to load fresh contexts (`Maker` + `Cold Critic` [+ `Cold Scouter`]). *Open question:* Can shared context be cached (e.g., prompt-prefix caching of immutable skill/charter files) without reintroducing stale session memory?
+- **Deterministic Tiering vs. Universal Critics (Resolved via Tier 1 / Tier 2 / Tier 3):** Closed-endpoint deterministic steps (Tier 1) run without a critic or scouter, bounded subtasks (Tier 2) run `Maker` ⇄ `Cold Critic` by default (preventing mistakes and surfacing new angles), and creative/open-ended tasks (Tier 3) run `Maker` + `Cold Scouter` + `Cold Critic` from the start.
+- **Waiting for agreement & Pre-Escalation Accuracy:** Requiring `Maker` to pass candidate escalations through `Cold Critic` (and `Cold Scouter` where external prior art applies) filters out false-positive interruptions before they reach the human. A rising escalation rate signals incoherent charters or `SKILL` boundaries; fix them via `/recap` rather than loosening the rule or adding timeouts.
+- **Audit trail & run-folder retention:** Run folders, critique records, `sha256` hashes, and recaps make every output traceable. Once absorbed into canonical git checkpoints in `not-a-toe` (or Extended Memory repos), transient `work/<slug>/` and `work/plan/<task-id>/` folders are pruned so stale trajectories do not linger.
+- **Breaking Shared Blind Spots:** Because `Maker` and `Cold Critic` share a base model, they can share a blind spot. In Tier 3 tasks (by default) and in Tier 2 pre-escalation checks (when deadlocked on an external/technical question), a cold retiring **`Scouter`** injects external signal from inferred spaces (X, GitHub, docs, papers) to break the shared blind spot before escalating to the human; post-run **`Recap` (`/recap`)** audits what remains.
+- **Skill sprawl:** "Fix the process" adds instructions over time, so skills need regular pruning during `/recap`. Pruning is the one routine fix that does not replace a decision.
+
+### 7.7 Glossary
+
+- **Decision:** A choice made by the human. Bots are delegated tasks, never decisions.
+- **House rule:** Logical coherence (`/ontological-clarity`), the one rule every bot follows: everything derives from one premise.
+- **Task Tiers (Tier 1 / Tier 2 / Tier 3):** Deterministic classification set up front in `SKILL`s: Tier 1 (closed-endpoint script/executor only), Tier 2 (bounded subtask: `Maker` ⇄ `Cold Critic` by default), Tier 3 (creative/open-ended task: `Maker` + `Cold Scouter` + `Cold Critic` by default).
+- **Pre-Escalation Gate:** Deterministic verification before interrupting the human: `Maker` debates a fresh `Cold Critic` on equal footing (and if still unresolved where external prior art applies, spins up a cold `Scouter` → reconsiders) before surfacing a decision to the human.
+- **Bot:** The base model with a particular charter and skills loaded (`Bot = base model + charter + skills`); a temporary context, not a separate entity.
+- **Dispatcher:** The only persistent bot; holds all triggers and starts the first bot of each chain.
+- **Maker:** The clone that produces a step's artifact (the task owner).
+- **Cold critic:** The clone that reviews it in both directions (catching mistakes/drift and surfacing overlooked angles), with the critic skill and no working history.
+- **Cold scouter:** A single-pass context that infers the highest-signal external spaces for the task (X, GitHub, official docs, papers), writes a structured findings report, and retires immediately.
+- **Full agreement:** Both sides accept a point outright under the house rule, with no compromise.
+- **Sign-off:** The critic's approval of the exact final file, recorded with its `sha256`.
+- **Handoff:** Transfer of a finished artifact, official once every receiver has recomputed the `sha256` and confirmed with both maker and critic.
+- **Recap (`/recap`):** A cold post-task or operator-initiated review of the run folder or session surprise against the house rule, proposing surgical `SKILL`/charter improvements for human review.
+- **Carry-over note:** Late information passed from one run to the next, cleared once acted on.
