@@ -638,6 +638,15 @@ Churchland's eliminative materialism holds folk psychology to be an imperfect th
 
 → [无法闭合的痕迹 / The Unclosable Trace](../../posts/the-unclosable-trace/)
 
+### 彼得·蒂尔 / Peter Thiel
+`经济 / Economic`
+
+蒂尔将逆向思考与从零到一定义为独立思考而非反对众人，并将技术停滞与制度衰败置于救赎与敌基督的二元张力之中，在提醒创作者脱离群体反抗坐标、识别制度性安全锁死时有用；它在此到了边界：善与恶是在同一道边界切分中同时生成的两面而非外部独立的对立阵营，而当那句关于独立思考的箴言脱离了推演的前提链条被孤立转发时，它便只剩下一层供不同高维模型投射稀疏交集的低维表面，传递不了任何特定心智的推理结构。
+
+Thiel defines contrarianism and zero-to-one creation as thinking for oneself rather than opposing the crowd and frames technological stagnation against institutional safety through a redemptive-versus-Antichrist binary, which is of use in warning creators off the crowd's oppositional axis and diagnosing institutional lock-in; it reaches its boundary in that good and evil are two faces generated simultaneously by the same boundary cut rather than external rival camps, and when the aphorism on independent thought circulates detached from its chain of premises, it operates only as a thin low-dimensional surface registering sparse overlap across private models while transmitting zero particular structure.
+
+→ [善恶的硬币与通往地狱之路 / The Coin of Good and Evil and the Road to Hell](../../posts/the-coin-of-good-and-evil-and-the-road-to-hell/) · [登记共鸣的表面 / The Surface That Registers](../../posts/the-surface-that-registers/)
+
 ### 皮埃尔-西蒙·拉普拉斯 / Pierre-Simon Laplace
 `科学 / Scientific`
 
@@ -825,7 +834,7 @@ Nagel analyzed the irreducibility of subjective consciousness and the illusion o
 
 Sowell's point that policies should be judged by incentives, not goals, is accurate; it still presumes a systematic corrective from an exempted observer stand, failing to return to the inescapable first-person perspective.
 
-→ [索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem](../../posts/sowell-observed-the-surface-problem/) · [未经自我审视的批判者 / The Unexamined Critic](../../posts/the-unexamined-critic/)
+→ [索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem](../../posts/sowell-observed-the-surface-problem/) · [未经自我审视的批判者 / The Unexamined Critic](../../posts/the-unexamined-critic/) · [登记共鸣的表面 / The Surface That Registers](../../posts/the-surface-that-registers/)
 
 ### 王阳明 / Wang Yangming
 `哲学 / Philosophical`
@@ -3698,7 +3707,7 @@ Presumes passive sequential consumption of non-fiction builds deep insight; effi
 
 Writers presume that setting down ideas at full depth while trusting readers to grow into them can secure the possibility of uptake; useful as an affective heuristic to overcome fear of release, text supplies only physical materials with zero cross-mind causal power, leaving any reconstruction of distinctions entirely to the recipient's uncompelled choice.
 
-→ [信任读者是最后的越界 / Trusting the Reader Is the Last Overstep](../../posts/trusting-the-reader-is-the-last-overstep/)
+→ [信任读者是最后的越界 / Trusting the Reader Is the Last Overstep](../../posts/trusting-the-reader-is-the-last-overstep/) · [登记共鸣的表面 / The Surface That Registers](../../posts/the-surface-that-registers/)
 
 ### AI智胜人类叙事 / Outsmarting Narrative of AI
 `技术 / Technological`

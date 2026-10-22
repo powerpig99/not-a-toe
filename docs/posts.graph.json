@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-22T07:14:46.449Z",
+    "generated_at": "2026-10-22T08:00:45.341Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -357,6 +357,7 @@
       "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "530bc4b6e7d1",
       "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "c663c4a8107a",
       "content/posts/the-surface-beneath.md": "a33fe2b8831f",
+      "content/posts/the-surface-that-registers.md": "f395a2d95c17",
       "content/posts/the-three-shadows-of-the-cut.md": "dddbde671cad",
       "content/posts/the-tightening-loop.md": "be324f885a2f",
       "content/posts/the-twin-paradox-and-the-hidden-observer.md": "ff11efe3625a",
@@ -412,9 +413,9 @@
       "content/book/causality.md": "51d6cd58236e",
       "content/book/consciousness.md": "07e90c9d3d1f",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "f925ce464263",
+      "content/book/index-of-premises.md": "78eb64ef1916",
       "content/book/intelligence.md": "ac860f2bf532",
-      "content/book/knowledge-and-learning.md": "d16cb66708a8",
+      "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "0caf97231862",
       "content/book/mathematics.md": "733a53c23e5a",
       "content/book/meaning-and-transcendence.md": "872032a1b2e9",
@@ -427,16 +428,16 @@
       "content/book/tools-and-progress.md": "12ef6f4ef901"
     },
     "stats": {
-      "posts": 401,
-      "edges": 11046,
-      "unique_directed": 5419,
+      "posts": 402,
+      "edges": 11068,
+      "unique_directed": 5430,
       "missing_targets": 0,
-      "one_way": 823,
+      "one_way": 834,
       "isolated": 0,
-      "posts_with_outbound": 401,
+      "posts_with_outbound": 402,
       "book_pages": 16,
-      "book_edges": 1121,
-      "posts_reached_by_book": 401
+      "book_edges": 1126,
+      "posts_reached_by_book": 402
     }
   },
   "hubs_in": [
@@ -2056,7 +2057,7 @@
       "path": "content/posts/dimensions-are-projections.md",
       "title": "维度即投影 / Dimensions Are Projections",
       "hash": "4e5cf6607b3f",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 20,
       "links_out": [
         "not-a-toe-rewrite",
@@ -2642,7 +2643,7 @@
       "path": "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md",
       "title": "高维信息的离散折射与认知分层 / The Discrete Refraction of High-Dimensional Information",
       "hash": "fd8a76387539",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 8,
       "links_out": [
         "what-information-is",
@@ -5407,7 +5408,7 @@
       "path": "content/posts/sowell-observed-the-surface-problem.md",
       "title": "索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem",
       "hash": "6a0b158cce39",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 11,
       "links_out": [
         "mei-you-pu-du-zhi-you-zi-du",
@@ -6242,7 +6243,7 @@
       "path": "content/posts/the-closed-loop-of-representation.md",
       "title": "表征的闭环 / The Closed Loop of Representation",
       "hash": "659ee6fdc53f",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 16,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
@@ -6326,7 +6327,7 @@
       "path": "content/posts/the-comment-is-not-the-code.md",
       "title": "注释不是代码 / The Comment Is Not the Code",
       "hash": "2f3188bc6738",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 10,
       "links_out": [
         "your-codebase-is-memory",
@@ -7991,7 +7992,7 @@
       "path": "content/posts/the-mark-and-the-act.md",
       "title": "印迹与行动 / The Mark and the Act",
       "hash": "c564f60f2ed7",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 17,
       "links_out": [
         "complexity-obscures-emergence-as-the-act-of-mind",
@@ -8937,7 +8938,7 @@
       "path": "content/posts/the-reflexive-dilemma-of-unique-insight.md",
       "title": "独见者的自反困境与必然性的后验投射 / The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity",
       "hash": "4e3a2ae77041",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 9,
       "links_out": [
         "the-free-variable-and-the-retrospective-illusion-of-power",
@@ -9595,6 +9596,29 @@
       ]
     },
     {
+      "id": "post:the-surface-that-registers",
+      "kind": "post",
+      "slug": "the-surface-that-registers",
+      "path": "content/posts/the-surface-that-registers.md",
+      "title": "登记共鸣的表面 / The Surface That Registers",
+      "hash": "f395a2d95c17",
+      "in_degree": 0,
+      "out_degree": 11,
+      "links_out": [
+        "sowell-observed-the-surface-problem",
+        "the-unexamined-critic",
+        "when-observation-becomes-performance",
+        "the-mark-and-the-act",
+        "dimensions-are-projections",
+        "the-closed-loop-of-representation",
+        "the-comment-is-not-the-code",
+        "trusting-the-reader-is-the-last-overstep",
+        "what-information-is",
+        "gao-wei-xin-xi-de-li-san-zhe-she",
+        "the-reflexive-dilemma-of-unique-insight"
+      ]
+    },
+    {
       "id": "post:the-three-shadows-of-the-cut",
       "kind": "post",
       "slug": "the-three-shadows-of-the-cut",
@@ -9728,7 +9752,7 @@
       "path": "content/posts/the-unexamined-critic.md",
       "title": "未经自我审视的批判者 / The Unexamined Critic",
       "hash": "a1e150cb8eae",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 11,
       "links_out": [
         "po-chu-gai-nian-de-jian-yue",
@@ -10050,7 +10074,7 @@
       "path": "content/posts/trusting-the-reader-is-the-last-overstep.md",
       "title": "信任读者是最后的越界 / Trusting the Reader Is the Last Overstep",
       "hash": "fb810cc29e0d",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 13,
       "links_out": [
         "rationality-never-travels-across-the-mind",
@@ -10244,7 +10268,7 @@
       "path": "content/posts/what-information-is.md",
       "title": "信息是什么 / What Information Is",
       "hash": "db25cf6703e1",
-      "in_degree": 23,
+      "in_degree": 24,
       "out_degree": 26,
       "links_out": [
         "the-mark-and-the-act",
@@ -10424,7 +10448,7 @@
       "path": "content/posts/when-observation-becomes-performance.md",
       "title": "当观察变成表演 / When Observation Becomes Performance",
       "hash": "fc49af651c83",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 18,
       "links_out": [
         "the-meaning-of-life-is-in-the-drafting",
@@ -68980,6 +69004,138 @@
       "label": "Your Codebase Is Memory"
     },
     {
+      "from": "the-surface-that-registers",
+      "to": "sowell-observed-the-surface-problem",
+      "rel": "points_to",
+      "label": "索维尔的表象洞察与根因之偏"
+    },
+    {
+      "from": "the-surface-that-registers",
+      "to": "the-unexamined-critic",
+      "rel": "points_to",
+      "label": "未经自我审视的批判者"
+    },
+    {
+      "from": "the-surface-that-registers",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "当观察变成表演"
+    },
+    {
+      "from": "the-surface-that-registers",
+      "to": "the-mark-and-the-act",
+      "rel": "points_to",
+      "label": "印迹与行动"
+    },
+    {
+      "from": "the-surface-that-registers",
+      "to": "sowell-observed-the-surface-problem",
+      "rel": "points_to",
+      "label": "Sowell Observed the Surface Problem"
+    },
+    {
+      "from": "the-surface-that-registers",
+      "to": "the-unexamined-critic",
+      "rel": "points_to",
+      "label": "The Unexamined Critic"
+    },
+    {
+      "from": "the-surface-that-registers",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When Observation Becomes Performance"
+    },
+    {
+      "from": "the-surface-that-registers",
+      "to": "the-mark-and-the-act",
+      "rel": "points_to",
+      "label": "The Mark and the Act"
+    },
+    {
+      "from": "the-surface-that-registers",
+      "to": "dimensions-are-projections",
+      "rel": "points_to",
+      "label": "维度即投影"
+    },
+    {
+      "from": "the-surface-that-registers",
+      "to": "the-closed-loop-of-representation",
+      "rel": "points_to",
+      "label": "表征的闭环"
+    },
+    {
+      "from": "the-surface-that-registers",
+      "to": "the-comment-is-not-the-code",
+      "rel": "points_to",
+      "label": "注释不是代码"
+    },
+    {
+      "from": "the-surface-that-registers",
+      "to": "trusting-the-reader-is-the-last-overstep",
+      "rel": "points_to",
+      "label": "信任读者是最后的越界"
+    },
+    {
+      "from": "the-surface-that-registers",
+      "to": "dimensions-are-projections",
+      "rel": "points_to",
+      "label": "Dimensions Are Projections"
+    },
+    {
+      "from": "the-surface-that-registers",
+      "to": "the-closed-loop-of-representation",
+      "rel": "points_to",
+      "label": "The Closed Loop of Representation"
+    },
+    {
+      "from": "the-surface-that-registers",
+      "to": "the-comment-is-not-the-code",
+      "rel": "points_to",
+      "label": "The Comment Is Not the Code"
+    },
+    {
+      "from": "the-surface-that-registers",
+      "to": "trusting-the-reader-is-the-last-overstep",
+      "rel": "points_to",
+      "label": "Trusting the Reader Is the Last Overstep"
+    },
+    {
+      "from": "the-surface-that-registers",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "信息是什么"
+    },
+    {
+      "from": "the-surface-that-registers",
+      "to": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "rel": "points_to",
+      "label": "高维信息的离散折射与认知分层"
+    },
+    {
+      "from": "the-surface-that-registers",
+      "to": "the-reflexive-dilemma-of-unique-insight",
+      "rel": "points_to",
+      "label": "独见者的自反困境与必然性的后验投射"
+    },
+    {
+      "from": "the-surface-that-registers",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "What Information Is"
+    },
+    {
+      "from": "the-surface-that-registers",
+      "to": "gao-wei-xin-xi-de-li-san-zhe-she",
+      "rel": "points_to",
+      "label": "The Discrete Refraction of High-Dimensional Information"
+    },
+    {
+      "from": "the-surface-that-registers",
+      "to": "the-reflexive-dilemma-of-unique-insight",
+      "rel": "points_to",
+      "label": "The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity"
+    },
+    {
       "from": "the-three-shadows-of-the-cut",
       "to": "the-boundary-of-the-frame",
       "rel": "points_to",
@@ -77151,8 +77307,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "f925ce464263",
-        "out_degree": 401
+        "hash": "78eb64ef1916",
+        "out_degree": 402
       },
       {
         "id": "book:intelligence",
@@ -77169,8 +77325,8 @@
         "slug": "knowledge-and-learning",
         "path": "content/book/knowledge-and-learning.md",
         "title": "知识建制与认知探索 / Institutional Knowledge and Authentic Inquiry",
-        "hash": "d16cb66708a8",
-        "out_degree": 34
+        "hash": "a74e36a2f575",
+        "out_degree": 35
       },
       {
         "id": "book:life-and-statistics",
@@ -78382,6 +78538,18 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-coin-of-good-and-evil-and-the-road-to-hell",
+        "rel": "collects",
+        "label": "善恶的硬币与通往地狱之路 / The Coin of Good and Evil and the Road to Hell"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-surface-that-registers",
+        "rel": "collects",
+        "label": "登记共鸣的表面 / The Surface That Registers"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-deterministic-machine",
         "rel": "collects",
         "label": "决定论机器 / The Deterministic Machine"
@@ -78565,6 +78733,12 @@
         "to": "the-unexamined-critic",
         "rel": "collects",
         "label": "未经自我审视的批判者 / The Unexamined Critic"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-surface-that-registers",
+        "rel": "collects",
+        "label": "登记共鸣的表面 / The Surface That Registers"
       },
       {
         "from": "book:index-of-premises",
@@ -80920,6 +81094,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-surface-that-registers",
+        "rel": "collects",
+        "label": "登记共鸣的表面 / The Surface That Registers"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "when-malfunction-is-scored-as-intelligence",
         "rel": "collects",
         "label": "失灵被记作聪明 / When Malfunction Is Scored as Intelligence"
@@ -82651,6 +82831,12 @@
         "to": "math-as-a-career-is-not-math-as-a-pursuit",
         "rel": "collects",
         "label": "作为职业的数学不是作为追求的数学 / Math as a Career Is Not Math as a Pursuit"
+      },
+      {
+        "from": "book:knowledge-and-learning",
+        "to": "the-surface-that-registers",
+        "rel": "collects",
+        "label": "登记共鸣的表面 / The Surface That Registers"
       },
       {
         "from": "book:life-and-statistics",
