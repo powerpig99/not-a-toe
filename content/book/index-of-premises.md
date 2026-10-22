@@ -3010,9 +3010,9 @@ The narrative presumes immigration is a single positive force explaining America
 ### 后果的不可让渡性 / Inalienability of Consequences
 `哲学 / Philosophical`
 
-假定把任务委托给自动化系统便同步转移了因果责任；对契约分工有效，但在面临现实损益时责任永远落于发起者。
+假定把任务委托给自动化系统便同步转移了结果的后果；对契约分工与劳动分工有用，但在各中心间保持恒定的结果（判决、清算、资不抵债）处触及边界：这些结果落在设定边界的委托人身上。
 
-Presumes delegating a task to an automated system also transfers ultimate moral culpability; useful for contract mechanics, it collapses when physical harm lands.
+Presumes that delegating a task to an automated system also transfers the consequences of its outcome; useful for contract mechanics and the division of labor, it reaches its boundary where outcomes hold invariant across centers (rulings, liquidations, insolvency), which land on the principal who set the bounds.
 
 → [任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences](../../posts/the-delegation-of-the-task-and-the-inalienability-of-consequences/) · [判断的密度 / The Density of Judgment](../../posts/the-density-of-judgment/)
 

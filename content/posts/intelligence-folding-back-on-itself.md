@@ -28,7 +28,7 @@ Large models are dense statistical compressions of human-generated data, data th
 
 较常见的读法声称，模型越过了一道门槛，新的能力“涌现”了。这种看法把运行框架当作一把钥匙，解锁本已潜藏在模型里的力量。它发明了一种自然发生，于是切断了与那唯一产生过这类系统的活动之间的连续。[复杂性遮蔽了涌现之为心智的行动](../complexity-obscures-emergence-as-the-act-of-mind/)把复杂性追溯为心智从自己所选的前提搭起的脚手架，而涌现是这脚手架装不下的开放，不是脚手架生出的一种属性。[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)把每一道门槛都放在画出它的边缘前方：门槛永远在前，在每个位置上各不相同，因为能力的增长就是那个边缘在加强自身。[基准刷榜中的封闭实存](../closed-reality-in-benchmark-maxing/)追溯了同一次冻结在测评里的样子：基准把能力冻结为一个封闭的靶子，而当这个图像被当作场的全部时，有用之处就被少登记了。
 
-The more common reading claims that the model has crossed a threshold and that new capabilities have "emerged." This view treats the harness as a key that unlocks powers already latent inside the model. It invents a kind of spontaneous generation and so severs continuity with the only activity that has ever produced such systems. [Complexity Obscures: Emergence as the Act of Mind](../complexity-obscures-emergence-as-the-act-of-mind/) traces complexity as the scaffolding the Mind builds from the premises it has chosen, and emergence as the openness that scaffolding cannot contain, not a property the scaffolding produces. [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/) places every threshold ahead of the edge that draws it: forever ahead, and different at every locus, because capability gain is that edge reinforcing itself. [Closed Reality in Benchmark Maxing](../closed-reality-in-benchmark-maxing/) traces the same freeze in evaluation: a benchmark freezes capability as a closed target, and usefulness is under-registered when that image is taken for the whole of the field.
+The more common reading claims that the model has crossed a threshold and that new capabilities have "emerged." This view treats the harness as a key that unlocks powers already latent inside the model. It invents a kind of spontaneous generation and so severs continuity with the only activity that has ever produced such systems. [Complexity Obscures Emergence as the Act of Mind](../complexity-obscures-emergence-as-the-act-of-mind/) traces complexity as the scaffolding the Mind builds from the premises it has chosen, and emergence as the openness that scaffolding cannot contain, not a property the scaffolding produces. [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/) places every threshold ahead of the edge that draws it: forever ahead, and different at every locus, because capability gain is that edge reinforcing itself. [Closed Reality in Benchmark Maxing](../closed-reality-in-benchmark-maxing/) traces the same freeze in evaluation: a benchmark freezes capability as a closed target, and usefulness is under-registered when that image is taken for the whole of the field.
 
 这种滞后，是在运行框架的情形里把媒介当作位置：发起、强化与涌现被分派给变密的技术栈，而分立的动作始终在各个中心。没有哪道门槛会打开一条路，让残余变成产生它的那个活动。
 
@@ -58,9 +58,9 @@ Human form is not a second ground here. The outer loop is the Mind. Human center
 
 The Mind, working through human centers, is the outer loop of self-improvement: the only loop known that can deliberately allocate the ability to improve to nested, inner loops. "Outer" names only the circuit that closes on itself, not a supervisor of inner loops from a permanent exterior. Those inner loops, gradient descent, evolutionary search, agentic self-critique, recursive refinement of tools, show formal similarities to the outer loop: iteration under selection pressure, retention of useful states, generation of novelty within constraints. The resemblance arises because the inner loops inherit their shape as projections of the outer one.
 
-显现为悖论的东西，就在这同一个过程里产生：只有一个已在改进之中的智能，才能设计出显出改进的系统。一旦把位置放回它所在之处，悖论就不在了。内环在目标、评估标准、许可结构，以及什么算作进步的最终判断上，仍依赖外环。如其所是地追溯嵌套的改进。当这些投影开始显得自主，冻结就是宣布一种新的智能；而让它回到源头，就是看到出现的是擦亮它的那个智能的一面更有力的镜子。
+显现为悖论的东西，就在这同一个过程里产生：只有一个已在改进之中的智能，才能设计出显出改进的系统。一旦把位置放回它所在之处，悖论就不在了。内环在目标、评估标准、许可结构，以及什么算作进步的最终判断上，仍依赖外环。这种依赖并不是一份保留在内环之外备用的固定职能清单。每一次回折，都把回路曾需现场作出的一项判断，即设定的目标、施用的标准、对什么算作进步的裁定，折回为下一个内环据以运行的残余；运行框架里的评估回环，就是这样一个被折回的裁定。于是，内环所依赖的，就是最近一次回折留下尚未决定的部分；而把这部分剩余也折进去，仍是同一个回路的又一次动作，它又会在新一次回折留下的敞开之处再次闭合。如其所是地追溯嵌套的改进。当这些投影开始显得自主，冻结就是宣布一种新的智能；而让它回到源头，就是看到出现的是擦亮它的那个智能的一面更有力的镜子。[判断的密度](../the-density-of-judgment/)在自动化研究里追溯了同样的迁移：每一次经编纂的运行，都把已定下的选择交给下一次运行的内环，而仍待作出的选择则聚拢到更往外的周界上。
 
-What presents as a paradox arises within this same process: only an intelligence already engaged in improvement can design systems that show improvement. Once the locus is restored, there is no paradox. The inner loops remain dependent on the outer loop for their objectives, their evaluation criteria, their permission structures, and the final judgment of what counts as progress. Trace the nested improvement as it is. When those projections begin to look autonomous, the freeze is to declare a new kind of intelligence; the return is to see that what has appeared is a more powerful mirror of the intelligence that polishes it.
+What presents as a paradox arises within this same process: only an intelligence already engaged in improvement can design systems that show improvement. Once the locus is restored, there is no paradox. The inner loops remain dependent on the outer loop for their objectives, their evaluation criteria, their permission structures, and the final judgment of what counts as progress. That dependence is not a fixed list of functions held in reserve outside the inner loops. Each fold takes a judgment the circuit once had to make live, an objective set, a criterion applied, a verdict on what counted as progress, and folds it back as residue the next inner loop runs on; an evaluation loop inside the harness is such a folded verdict. What the inner loops depend on, then, is whatever the latest fold left undecided, and folding that remainder in as well is one more act of the same circuit, which closes again on what the new fold leaves open. Trace the nested improvement as it is. When those projections begin to look autonomous, the freeze is to declare a new kind of intelligence; the return is to see that what has appeared is a more powerful mirror of the intelligence that polishes it. [The Density of Judgment](../the-density-of-judgment/) traces the same migration in automated research: each codified run hands its settled choices to the next run's inner loop, and the choices still to be made gather at a perimeter further out.
 
 [没有外部](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)追溯了会跃迁的嵌套系统：跃迁是局部的延续，它们的连贯标准与决定性的去留，仍在它们之外，在那个更大的回环里。[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/)追溯了循环的一面：递归自我改进的叙事被拿来弥合差距，却已经引入了它声称工具层面的力量日后会产生的那个外环。[回环与成图](../looping-and-graphing/)把回环追溯为心智回折到自身的活动之上，而图是这回折留给下一次回折的痕迹：控制流变密，却不搬走仍需选择图为何而用的那个边缘。[超越投射](../beyond-the-projection/)则在智能体系统内部划开相呼应的调度与统御之界：由于孤立的智能体受自身先前词元的条件制约，会把自己的矛盾包裹进会话轨迹之内，在内环里挣脱这种轨迹偏向，需要将主任务智能体配对一位只持任务语境而不带会话历史的冷同侪，借用机器没有自我的特性暴露出局部盲区，同时将过载的任务拆分到正交的流线之上。当这两位同侪在一条流线之内撞上不可化约的死锁时，碰撞便暴露出规则本身内部被压缩的前提，交回外环那尚未投射的感知，去补上缺失的正交区分（`N → N + 1`）。[你的代码库即是记忆](../your-codebase-is-memory/)则跨过模型权重、代码库、图谱、计划与专职智能体脚手架，追溯了将那份更密的残余折回技术栈所要求的操作：保留有用的状态是对当下检查点的重切而非仓库式的囤积，就地更新鲜活的检查点，并修剪被取代的会话日志、暂态工作目录与退役桥接文件，才能避免昨日的脚手架淤积成引力井，把下一段轨迹拖进陈旧的框架。执行上的自主让图在使用之下变密；这份变密作为登记是成立的，而它不装上第二个心智。
 
@@ -72,7 +72,6 @@ flowchart TD
         O_Revise["前提修订（N → N + 1）：未投射的感知补上正交区分"]
         O_Revise -->|"更新当前意图与评估标准"| O_Intent
     end
-
     subgraph S_Inner["运行框架的内环（受投射的执行）"]
         direction TB
         I_Split["正交任务拆分：在容量边界内调度专责流线"]
@@ -83,11 +82,9 @@ flowchart TD
         I_Peer --> I_Converge
         I_Peer --> I_Deadlock
     end
-
     O_Intent ==>|"分派目标与约束"| I_Split
     I_Converge ==>|"将更密的残余折回源头"| O_Intent
     I_Deadlock ==>|"上交规则矛盾"| O_Revise
-
     style S_Outer fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Inner fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style O_Intent fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -108,7 +105,6 @@ flowchart TD
         O_Revise["Premise Revision (N → N + 1): Unprojected sensing adds orthogonal distinction"]
         O_Revise -->|"Updates active intent & evaluation criteria"| O_Intent
     end
-
     subgraph S_Inner["Inner Loops of the Harness (Projected Execution)"]
         direction TB
         I_Split["Orthogonal Task Splitting: Routes specialized streamlines under capacity bounds"]
@@ -119,11 +115,9 @@ flowchart TD
         I_Peer --> I_Converge
         I_Peer --> I_Deadlock
     end
-
     O_Intent ==>|"Allocates objectives & constraints"| I_Split
     I_Converge ==>|"Folds denser residue back to source"| O_Intent
     I_Deadlock ==>|"Escalates rule contradiction"| O_Revise
-
     style S_Outer fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Inner fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style O_Intent fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc

@@ -30,19 +30,16 @@ flowchart TD
         direction TB
         Op["未投射的意图与统御：目标、框定、验证、睡眠与前提修订"]
     end
-
     subgraph S_Dual["不容坍缩的二元与轻持的运行框架"]
         direction TB
         Gen["通用性（方法根基）：从不可约先在敞开重溯 + 可更换基座权重"]
         Spec["专长（处境化实践）：可再生叶节点技能包；印记只经由先在审计下的睡眠进入"]
         Har["运行框架（会话、闸门、CLI与调度）：随语境移动从先在重建，从不保留为身份"]
     end
-
     Op ==>|"掌舵、指导与审计"| Gen
     Gen <===>|"先在统辖；遭遇精炼"| Spec
     Gen -->|"瞬态实例化"| Har
     Spec -->|"向其加载可选语境"| Har
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Dual fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Op fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -59,19 +56,16 @@ flowchart TD
         direction TB
         Op["Unprojected Intent & Orchestration: Aims, framing, verification, sleep & premise revision"]
     end
-
     subgraph S_Dual["The Non-Collapsing Dual & Lightly Held Harness"]
         direction TB
         Gen["Generality (Method Ground): Open re-tracing from irreducible priors + swappable base weights"]
         Spec["Specialty (Situated Practice): Regenerable leaf packs; marks enter only via sleep under prior-audit"]
         Har["Harness (Session, Gates, CLI & Dispatch): Rebuilt from priors as context moves, never held as identity"]
     end
-
     Op ==>|"Steers, coaches & audits"| Gen
     Gen <===>|"Priors govern; encounter refines"| Spec
     Gen -->|"Instantiates transiently"| Har
     Spec -->|"Loads selectable context into"| Har
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Dual fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Op fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -120,9 +114,9 @@ The result does not count as an official score, because the evaluation protocol 
 
 The operator remains the edge that steers; the instrument carries the acts farther while keeping practice regenerable. Coaching is the operator's sovereignty registered as a discrete act, not a supplement to a solver that does the rest. Framing, selection, verification, and the decision that a result counts as done stay with the center that answers for outcomes. When an agent's trajectory narrows into a local gravity well or two rules collide at an edge case, coaching steps back to the unprojected intent to dissolve the collapsed axes—steering the run during wake without rewriting shared practice, while leaving the distilled marks to enter practice only through the next sleep. [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) traces that placement in mathematical discovery: the model recombines residue under direction, and every initiating distinction remains the human center's own act; coaching in software is the same geometry. [A Creation Cannot Replace Its Source](../a-creation-cannot-replace-its-source/) traces why the placement holds whichever way the replacement debate is answered: if the human is irreplaceable, replacement fails, and if replaceable, still not by the human's own creation, since calling it a creation already places the initiating distinction outside the created.
 
-在成功的开放工作中变密的，是媒介与实践，是带宽与可再生的专长。不迁移的是发起。随专长积累而跑得更久的执行，仍然在一个能睡眠、能衔接、能拒绝的所在之下运行。把全盘自主当作终点，并不是这种延长的更多一点；它把所在挪进工具，混淆机械的调度与活的统御，并把工具冻结成第二个边缘。Ontos则让工具随这一步的移动保持重新渲染。
+在成功的开放工作中变密的，是媒介与实践，是带宽与可再生的专长。不迁移的是发起。随专长积累而跑得更久的执行，是先前的框定与经睡眠审计的实践，在一个能睡眠、能衔接、能拒绝的所在之下以编译形态运作。在这些在先动作所敞开的边界之内，运行在摸索具体路径时的自主是真实的，而不是被逐步口授的；正如[判断的密度](../the-density-of-judgment/)所追溯的，把那份内部回旋余地当作全盘自主，是将先前介入使其可行的那片疆域误当成了免于边界本身的自由，而在开放式工作中，指导动作之间更快的周期会推高返回给操作者的那些抉择的杠杆率与密度，而不是让它们退场。把全盘自主当作终点，并不是这种延长的更多一点；它把所在挪进工具，混淆机械的调度与活的统御，并把工具冻结成第二个边缘。Ontos则让工具随这一步的移动保持重新渲染。
 
-What densifies under successful open work is medium and practice, bandwidth and regenerable specialty. What does not migrate is initiation. Execution that runs longer as specialty accrues still runs under a locus that can sleep, bridge, and refuse. Full autonomy as a destination is not more of that lengthening; it moves the locus into the instrument, confuses mechanical dispatching with living orchestration, and freezes the instrument as a second edge. Ontos keeps the instrument re-rendering as the step moves instead.
+What densifies under successful open work is medium and practice, bandwidth and regenerable specialty. What does not migrate is initiation. Execution that runs longer as specialty accrues is earlier framing and sleep-audited practice operating in compiled form under a locus that can sleep, bridge, and refuse. Within the bounds those prior acts opened, the run's autonomy in working out a detailed path is real rather than dictated step by step; as [The Density of Judgment](../the-density-of-judgment/) traces, taking that interior leeway for full autonomy mistakes the territory earlier interventions made workable for freedom from the bounds themselves, and in open-ended work faster cycles between coaching acts raise the leverage and density of the choices that return to the operator rather than retiring them. Full autonomy as a destination is not more of that lengthening; it moves the locus into the instrument, confuses mechanical dispatching with living orchestration, and freezes the instrument as a second edge. Ontos keeps the instrument re-rendering as the step moves instead.
 
 ## 七、 在它所延伸的所在的全权掌控下延伸 / 7. Extension Under Full Control of the Locus It Extends
 

@@ -50,9 +50,9 @@ A score is not evidence that the activity has relocated into the model and its h
 
 The narrative that recursive self-improvement in tools, multi-agent simulation, or automated research loops will close the gap is circular. Every such system runs on objectives, metrics, and constraints that its builders set and keep setting. For such a system to generate open-ended problem formulation, revise its own goals, or decide to leave its scaffolding, the activity that performs those acts, the self-improvement without external initiation that the prior names, must already be operating. Calling the systems sufficiently powerful imports what the proponents claim the tools will later produce.
 
-若不作这种引入，自我改进的技术就仍从属于外层的回路，系统只成为一件更精细的工具。[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)在阈值上追溯了这种滞后的另一面：每一个阈值都永远处在划出它的边缘之前，并在每一个所在都不同，因为能力的增益就是那道边缘在强化自身，工具则是它更密的脚手架。[造物无法取代其源头](../a-creation-cannot-replace-its-source/)追溯了这道界限：如果人不可替代，替代便失败；如果可替代，也不是被它自己的造物替代，因为创造已经把源头标记在被造之物之外；而这个两难的两极，都已经把人冻结成一份可转移的功能清单。规模扩大了带宽，加厚了中介。它并不打开一条从中介通往独立发起的路。
+若不作这种引入，自我改进的技术就仍从属于外层的回路，系统只成为一件更精细的工具。“外层的回路也会被自动化”这一反驳成立，却让这个循环原封不动。[判断的密度](../the-density-of-judgment/)追溯了编纂如何迭代：每一轮都把上一次运行时须在外围现场作出的判断，编译进下一次运行的内层回路，所以先前的外层回路就是当下的内层回路；向内迁移的是每一圈外围的编译形态，而不是判断下一圈外围的那个动作。把目标的设定自动化，本身就是在当前边缘设定的一个目标，所以这一反驳是把那个活动引入到更外一圈的外围，而没有哪一圈外围是足够强大的系统能够编译、然后独自持守的最后一圈。[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)在阈值上追溯了这种滞后的另一面：每一个阈值都永远处在划出它的边缘之前，并在每一个所在都不同，因为能力的增益就是那道边缘在强化自身，工具则是它更密的脚手架。[造物无法取代其源头](../a-creation-cannot-replace-its-source/)追溯了这道界限：如果人不可替代，替代便失败；如果可替代，也不是被它自己的造物替代，因为创造已经把源头标记在被造之物之外；而这个两难的两极，都已经把人冻结成一份可转移的功能清单。规模扩大了带宽，加厚了中介。它并不打开一条从中介通往独立发起的路。
 
-Without that importation, self-improvement techniques stay subordinate to the outer loop, and the system becomes a more elaborate instrument. [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/) traces the other face of this lag in thresholds: each sits forever ahead of the edge that draws it, and differs at every locus, because capability gain is that edge reinforcing itself, with tools as its denser scaffolding. [A Creation Cannot Replace Its Source](../a-creation-cannot-replace-its-source/) traces the bound: if the human is irreplaceable, replacement fails; if replaceable, still not by its own creation, since creation already marks the source as outside the created; both poles of that dilemma already freeze the human as a transferable inventory of functions. Scaling widens bandwidth and thickens mediation. It does not open a path out of mediation into independent initiation.
+Without that importation, self-improvement techniques stay subordinate to the outer loop, and the system becomes a more elaborate instrument. The rejoinder that outer loops get automated too holds, and leaves the circle intact. [The Density of Judgment](../the-density-of-judgment/) traces codification as iterating: each pass compiles the judgments that had to be made live at the last run's perimeter into the next run's inner loop, so the previous outer loops are the present inner loops; what moves inward is each perimeter's compiled form, not the act that judges the next perimeter. Automating the setting of objectives is itself an objective set at the current edge, so the rejoinder imports the activity one perimeter further out, and no perimeter is the last one that a sufficiently powerful system could compile and then hold alone. [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/) traces the other face of this lag in thresholds: each sits forever ahead of the edge that draws it, and differs at every locus, because capability gain is that edge reinforcing itself, with tools as its denser scaffolding. [A Creation Cannot Replace Its Source](../a-creation-cannot-replace-its-source/) traces the bound: if the human is irreplaceable, replacement fails; if replaceable, still not by its own creation, since creation already marks the source as outside the created; both poles of that dilemma already freeze the human as a transferable inventory of functions. Scaling widens bandwidth and thickens mediation. It does not open a path out of mediation into independent initiation.
 
 那个活动是被预设的，而非从工具中推导出来，所以这个叙事无法解释它的来源。每一个表面上的自我改进的具体实例，都运行在一个由人设计的外层过程之内：搜索空间的选择，损失函数，评估标准，继续下去的决定。看起来像系统自举出更高智能的，是活动经由工具运作，然后被归给了工具；没有哪个所在移动过，表达再一次被当作源头。[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)追溯了这种归属：第二重前沿的表象，是投射它的那些中心所维持的滞后，参数里只有残余。[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)借一个见诸报道的反例（所针对的猜想悬而未决已久），追溯了动作停留在何处：模型在指引之下重组残余，每一个发起的数学区分仍是人类中心自己的动作，而凡是把流畅的残余当作下一步的独立来源，其几何都是同一种。[智能向自身的回折](../intelligence-folding-back-on-itself/)追溯了这些回路本身：运行框架并没有唤醒一位沉睡的同侪，而是心智把更密的残余折回到自身的精炼之中。[超越投射](../beyond-the-projection/)展示了正是这一区分在主导多智能体设计：自回归智能体的词元轨迹，是智能在明确约束下的有限表达，从不是第二个活的心智。若任由单一轨迹在自身受制约的语境内部独自反思，它便会筑起一座认识论引力井，把矛盾层层包裹起来以维持表面的自洽；然而机器既无我执，也没有需要捍卫的保留自我形象，因此只要将任务智能体与无会话状态的冷启动同侪配对进行平权辩论，并将过载的投射拆分到正交的流线上，就能暴露出局部盲区并产出干净的贝叶斯更新，而规则之间任何不可化约的死锁都会被隔离出来，上报给处在统御边缘的活的心智——唯有这一所在能以极限分辨率感知，并在框架破裂时跨出框架去修订前提。[你的代码库即是记忆](../your-codebase-is-memory/)将这道边界延伸至整座数字栈：无论是显式的符号代码库（文件、图谱、计划与脚手架规则），还是压缩的神经权重检查点，都是早先区分留下的外化记忆表达，而非能够自行记忆或发起的心智。错把储存的残余当作智能，会让工程走向囤积死寂的痕迹——未修剪的会话历史、陈旧的归档与已被取代的中间状态加厚了引力井，把下一步困在昨日的框定之中——而不是精准修剪过时的脚手架，并在活的边缘重新追溯当下有效的检查点。把表现读作智能，造物便仿佛超过了它的造者，这就是[超越的定相](../the-fixed-image-of-transcendence/)所追溯的图景：造物从不超越人类智能这一已知的智能之源，而人类智能每一刻都在超越自身。
 
@@ -64,25 +64,21 @@ flowchart TD
         M_Frame["划出、使用并修订约束：规则死锁时跨出破裂框架"]
         M_Edge --> M_Frame
     end
-
     subgraph S_Expr["外化的表达：固定约束下的残余"]
         direction TB
         E_Hold["封闭的评测切片：心理测量题目、基准套件与明确规则"]
         E_Agent["受轨迹约束的执行：无我执同侪更新与正交调度"]
         E_Hold --> E_Agent
     end
-
     subgraph S_Lag["过度图像滞后：将表达等同于智能"]
         direction TB
         L_Freeze["冻结的参照：把分数或词元轨迹奉为第二个活的心智"]
         L_Circ["循环的递归自我改进叙事：偷渡人类外层回路，单一轨迹包裹矛盾"]
         L_Freeze --> L_Circ
     end
-
     M_Frame ==>|"投射约束并统御调度"| E_Hold
     E_Agent ==>|"呈交高密残余与前提死锁"| M_Edge
     E_Agent -.->|"免于重新追溯"| L_Freeze
-
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Expr fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Lag fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -104,25 +100,21 @@ flowchart TD
         M_Frame["Draws, Uses & Revises Constraints: Steps outside broken frames when rules deadlock"]
         M_Edge --> M_Frame
     end
-
     subgraph S_Expr["The Externalized Expression: Residue Under Fixed Constraints"]
         direction TB
         E_Hold["Sealed Evaluation Slice: Psychometric items, benchmark suites & explicit rules"]
         E_Agent["Trajectory-Bound Execution: Zero-ego peer updates & orthogonal dispatching"]
         E_Hold --> E_Agent
     end
-
     subgraph S_Lag["Excess Image Lag: Equating Expression with Intelligence"]
         direction TB
         L_Freeze["Frozen Reference: Scores or token trajectories held as a second living Mind"]
         L_Circ["Circular RSI Narrative: Smuggles in the human outer loop while lone agents wrap contradictions"]
         L_Freeze --> L_Circ
     end
-
     M_Frame ==>|"Projects constraints & orchestrates"| E_Hold
     E_Agent ==>|"Surfaces dense residue & premise deadlocks"| M_Edge
     E_Agent -.->|"Exempted from re-tracing"| L_Freeze
-
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Expr fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Lag fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -144,7 +136,7 @@ After recursive self-improvement, those who argue for machine intelligence offer
 
 The precedent carries less than it appears to. The octopus correction relaxed a criterion of form. What was judged remained a living system initiating its own behavior; only the expected shape of that initiation widened. The machine case asks for a different relaxation: releasing the criterion of source, so that behavior run inside an outer loop of supplied objectives, chosen search spaces, and the decision to continue counts as initiation anyway. These are two moves, not one move repeated. Taken as one, the authority earned by correcting shape is spent on dissolving source. Behavior that is not spontaneous, whose next step the outer loop supplies, falls under the criterion of source, not of form. Once the two are held apart, the octopus supports a claim about variable organization and nothing further. What remains valid is narrower: non-human organization does not by itself show that intelligence is absent. What no longer holds is the inference that withholding the attribution is the old error returning.
 
-底下有一个循环。放宽判据本身是一个判断的动作，由正在争议中的那个能力来执行。论证用这个能力去扩大归属，然后又把扩大了的归属援引为证据，说明人的情形在做出归属时并无特别的必要。法官先被请教，然后凭着它自己的裁决被宣布为可有可无。一旦把这种放宽保持为做判断的心智的一个动作，这种放宽就不能同时成为这些心智可有可无的证据，而这个先例也不再给出重新归类机器的任何理由。否认有一位享有特权的法官，靠的是它所否认的那位法官。[飞行的类比碰不到心智](../the-flight-analogy-leaves-the-mind-untouched/)碰上了同一个循环：提出这种转移猜想的那个能力，无法不陷入循环地把自己放进同一串可被超越的功能之中。[看不见自身的回路](../the-loop-that-cant-see-itself/)追溯了让这个循环隐而不见的那种盲：观察把它自己的延伸误当作来自外部的视角，于是区分的源头在它所观察的东西里不可见。[类比的陷阱：共享的逻辑不是共享的结构](../the_analogy_trap/)追溯了一般的形式：论证中共享的逻辑，被当作诸情形中共享的结构。
+底下有一个循环。放宽判据本身是一个判断的动作，由正在争议中的那个能力来执行。论证用这个能力去扩大归属，然后又把扩大了的归属援引为证据，说明人的情形在做出归属时并无特别的必要。法官先被请教，然后凭着它自己的裁决被宣布为可有可无。一旦把这种放宽保持为做判断的心智的一个动作，这种放宽就不能同时成为这些心智可有可无的证据，而这个先例也不再给出重新归类机器的任何理由。否认有一位享有特权的法官，靠的是它所否认的那位法官。[飞行的类比碰不到心智](../the-flight-analogy-leaves-the-mind-untouched/)碰上了同一个循环：提出这种转移猜想的那个能力，无法不陷入循环地把自己放进同一串可被超越的功能之中。[看不见自身的回路](../the-loop-that-cant-see-itself/)追溯了让这个循环隐而不见的那种盲：观察把它自己的延伸误当作来自外部的视角，于是区分的源头在它所观察的东西里不可见。[类比陷阱与共享逻辑的越界偷渡](../the_analogy_trap/)追溯了一般的形式：论证中共享的逻辑，被当作诸情形中共享的结构。
 
 A circle sits underneath. Relaxing the criteria is itself an act of judgment, performed by the capacity under dispute. The argument uses that capacity to widen the attribution, then cites the widened attribution as evidence that the human case is not specially required to make it. The judge is consulted, then declared dispensable on the strength of its own ruling. Once the widening is kept as an act of the judging minds, it cannot also be evidence that those minds are dispensable, and the precedent gives no further reason to reclassify machines. The denial of a privileged judge rests on the judge it denies. [The Flight Analogy Leaves the Mind Untouched](../the-flight-analogy-leaves-the-mind-untouched/) meets the same circle: the capacity that conjectures the transfer cannot place itself inside the same series of exceedable functions without circularity. [The Loop That Can't See Itself](../the-loop-that-cant-see-itself/) traces the blindness that keeps the circle out of view: observation mistakes its own extension for a view from outside, so the origin of distinction is invisible in what it observes. [The Analogy Trap: Shared Logic Is Not Shared Structure](../the_analogy_trap/) traces the general form: shared logic in the argument is taken for shared structure in the cases.
 

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-22T11:29:45.052Z",
+    "generated_at": "2026-10-22T12:19:45.809Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -109,7 +109,7 @@
       "content/posts/individual-choices-as-the-only-causal-levers.md": "35b065ab09af",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "425497acb31b",
       "content/posts/intelligence-crisis-response.md": "c0480704b362",
-      "content/posts/intelligence-folding-back-on-itself.md": "5ce8b84ddfd0",
+      "content/posts/intelligence-folding-back-on-itself.md": "8d41a13f4313",
       "content/posts/intelligence-traps-itself.md": "e9dd405ccf3c",
       "content/posts/judgment-is-not-a-stock.md": "9526af861c78",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "b5bfd1bca0dc",
@@ -123,7 +123,7 @@
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "9a326be23d1c",
       "content/posts/minimizing-path.md": "90053fab1dbc",
       "content/posts/mises-state-analysis.md": "fe24d656c147",
-      "content/posts/mistaking-the-expression-for-the-intelligence.md": "d8bf71b9fe17",
+      "content/posts/mistaking-the-expression-for-the-intelligence.md": "a54df0f68a06",
       "content/posts/moral-language-as-projection.md": "ec504bfff397",
       "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "116d97ed1a9a",
       "content/posts/munger-dumb-competition-refined.md": "b8ee8259c34d",
@@ -145,7 +145,7 @@
       "content/posts/one-cannot-escape-ones-own-mind.md": "474dad0e12f2",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "b68e2cc6fd51",
       "content/posts/only-if-it-is-not-kept-empty.md": "1d2b22dc949c",
-      "content/posts/ontos-is-a-method-agent.md": "25df0d4d161c",
+      "content/posts/ontos-is-a-method-agent.md": "fac9577215c2",
       "content/posts/open-vision-in-a-closed-arena.md": "98c32fc1001d",
       "content/posts/openness-is-consistency.md": "75ba5238a649",
       "content/posts/order-surplus-and-the-moral-intercept.md": "7cb3a1c5111c",
@@ -229,7 +229,7 @@
       "content/posts/the-coordinators-category-error.md": "849cdeef9512",
       "content/posts/the-cut-moves-but-never-vanishes.md": "e61a8aa0715d",
       "content/posts/the-defining-seat.md": "439193457772",
-      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "d170951c8eba",
+      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "64e116ab1993",
       "content/posts/the-density-of-judgment.md": "c9a404140c3e",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "787b77d025c1",
       "content/posts/the-deterministic-machine.md": "fbf2680f40d1",
@@ -304,7 +304,7 @@
       "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "dacbb91b8d8d",
       "content/posts/the-mirror-handshake-of-power.md": "3b6d7afb72bc",
       "content/posts/the-misallocation-of-agency.md": "b921b7fb3528",
-      "content/posts/the-model-never-becomes-a-second-edge.md": "001a2b6ad963",
+      "content/posts/the-model-never-becomes-a-second-edge.md": "f2c984cf98ec",
       "content/posts/the-moral-reversal-and-the-scripted-subject.md": "1a9084222411",
       "content/posts/the-myth-of-population-collapse-explained.md": "9be9bfe9c763",
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "db6546734668",
@@ -340,7 +340,7 @@
       "content/posts/the-reversal-of-education-and-science.md": "6bc635c24685",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "1d26d6542cba",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "7a0ec6232ce8",
-      "content/posts/the-scaffolding-that-keeps-growing.md": "8fddf91966e8",
+      "content/posts/the-scaffolding-that-keeps-growing.md": "35bd1ad4ae31",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "728ed78cb1f9",
       "content/posts/the-scaffolding-we-forget.md": "f6749a3e817f",
       "content/posts/the-scaling-loop.md": "01f561084635",
@@ -413,7 +413,7 @@
       "content/book/causality.md": "51d6cd58236e",
       "content/book/consciousness.md": "07e90c9d3d1f",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "564dd576c473",
+      "content/book/index-of-premises.md": "98e25b619133",
       "content/book/intelligence.md": "ac860f2bf532",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "0caf97231862",
@@ -429,10 +429,10 @@
     },
     "stats": {
       "posts": 402,
-      "edges": 11090,
-      "unique_directed": 5441,
+      "edges": 11100,
+      "unique_directed": 5445,
       "missing_targets": 0,
-      "one_way": 839,
+      "one_way": 837,
       "isolated": 0,
       "posts_with_outbound": 402,
       "book_pages": 16,
@@ -573,7 +573,7 @@
     },
     {
       "slug": "mistaking-the-expression-for-the-intelligence",
-      "out_degree": 37
+      "out_degree": 38
     },
     {
       "slug": "production-consumption-and-the-minds-distinction",
@@ -3286,9 +3286,9 @@
       "slug": "intelligence-folding-back-on-itself",
       "path": "content/posts/intelligence-folding-back-on-itself.md",
       "title": "智能向自身的回折 / Intelligence Folding Back on Itself",
-      "hash": "5ce8b84ddfd0",
+      "hash": "8d41a13f4313",
       "in_degree": 21,
-      "out_degree": 21,
+      "out_degree": 22,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "two-failures-of-trace",
@@ -3302,6 +3302,7 @@
         "the-model-never-becomes-a-second-edge",
         "self-rl-for-humans",
         "ontos-is-a-method-agent",
+        "the-density-of-judgment",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
         "mistaking-the-expression-for-the-intelligence",
         "looping-and-graphing",
@@ -3641,9 +3642,9 @@
       "slug": "mistaking-the-expression-for-the-intelligence",
       "path": "content/posts/mistaking-the-expression-for-the-intelligence.md",
       "title": "错把表达当成智能 / Mistaking the Expression for the Intelligence",
-      "hash": "d8bf71b9fe17",
+      "hash": "a54df0f68a06",
       "in_degree": 35,
-      "out_degree": 37,
+      "out_degree": 38,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
         "the-unobservable-driver-of-learning",
@@ -3659,6 +3660,7 @@
         "data-is-local-intelligence-is-allocated",
         "the-presumption-of-agi-and-the-view-from-outside",
         "the-ladder-of-abstraction-and-the-executable-entity",
+        "the-density-of-judgment",
         "agi-and-asi-are-temporary-goalposts",
         "a-creation-cannot-replace-its-source",
         "the-model-never-becomes-a-second-edge",
@@ -4198,9 +4200,9 @@
       "slug": "ontos-is-a-method-agent",
       "path": "content/posts/ontos-is-a-method-agent.md",
       "title": "呈现Ontos，一个方法智能体 / Presenting Ontos, a Method Agent",
-      "hash": "25df0d4d161c",
+      "hash": "fac9577215c2",
       "in_degree": 10,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "mistaking-the-expression-for-the-intelligence",
@@ -4211,6 +4213,7 @@
         "closed-reality-in-benchmark-maxing",
         "causality-stays-at-the-edge-that-steers",
         "a-creation-cannot-replace-its-source",
+        "the-density-of-judgment",
         "intelligence-folding-back-on-itself",
         "beyond-the-projection"
       ]
@@ -6483,7 +6486,7 @@
       "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences",
-      "hash": "d170951c8eba",
+      "hash": "64e116ab1993",
       "in_degree": 35,
       "out_degree": 32,
       "links_out": [
@@ -6528,7 +6531,7 @@
       "path": "content/posts/the-density-of-judgment.md",
       "title": "判断的密度 / The Density of Judgment",
       "hash": "c9a404140c3e",
-      "in_degree": 10,
+      "in_degree": 14,
       "out_degree": 12,
       "links_out": [
         "mistaking-the-expression-for-the-intelligence",
@@ -8200,7 +8203,7 @@
       "slug": "the-model-never-becomes-a-second-edge",
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge",
-      "hash": "001a2b6ad963",
+      "hash": "f2c984cf98ec",
       "in_degree": 65,
       "out_degree": 48,
       "links_out": [
@@ -8220,6 +8223,7 @@
         "why-mathematics-can-never-be-solved",
         "the-allocation-of-causal-power-in-validation",
         "a-creation-cannot-replace-its-source",
+        "the-density-of-judgment",
         "agency-relocated-into-the-formal-model",
         "the-flight-analogy-leaves-the-mind-untouched",
         "ownership-and-self-worthiness",
@@ -8241,7 +8245,6 @@
         "self-image-speaks-as-if-from-nowhere",
         "the-artifacts-of-self-amplification",
         "intelligence-folding-back-on-itself",
-        "the-density-of-judgment",
         "climbing-does-not-leave-the-ground",
         "technology-is-residual-of-human-compounding",
         "the-real-lesson-from-the-consciousness-vector-paper",
@@ -9141,9 +9144,9 @@
       "slug": "the-scaffolding-that-keeps-growing",
       "path": "content/posts/the-scaffolding-that-keeps-growing.md",
       "title": "持续生长的脚手架 / The Scaffolding That Keeps Growing",
-      "hash": "8fddf91966e8",
+      "hash": "35bd1ad4ae31",
       "in_degree": 26,
-      "out_degree": 27,
+      "out_degree": 28,
       "links_out": [
         "openness-is-consistency",
         "the-scaffolding-we-forget",
@@ -9156,6 +9159,7 @@
         "whatever-is-one-prompt-away",
         "agi-and-asi-are-temporary-goalposts",
         "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
+        "the-density-of-judgment",
         "beyond-the-projection",
         "your-codebase-is-memory",
         "why-mathematics-can-never-be-solved",
@@ -28704,7 +28708,7 @@
       "from": "intelligence-folding-back-on-itself",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
-      "label": "Complexity Obscures: Emergence as the Act of Mind"
+      "label": "Complexity Obscures Emergence as the Act of Mind"
     },
     {
       "from": "intelligence-folding-back-on-itself",
@@ -28789,6 +28793,18 @@
       "to": "ontos-is-a-method-agent",
       "rel": "points_to",
       "label": "Presenting Ontos, a Method Agent"
+    },
+    {
+      "from": "intelligence-folding-back-on-itself",
+      "to": "the-density-of-judgment",
+      "rel": "points_to",
+      "label": "判断的密度"
+    },
+    {
+      "from": "intelligence-folding-back-on-itself",
+      "to": "the-density-of-judgment",
+      "rel": "points_to",
+      "label": "The Density of Judgment"
     },
     {
       "from": "intelligence-folding-back-on-itself",
@@ -31072,6 +31088,12 @@
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-density-of-judgment",
+      "rel": "points_to",
+      "label": "判断的密度"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
       "label": "AGI 与 ASI 是加速通用智能的暂时球门"
@@ -31081,6 +31103,12 @@
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
       "label": "造物无法取代其源头"
+    },
+    {
+      "from": "mistaking-the-expression-for-the-intelligence",
+      "to": "the-density-of-judgment",
+      "rel": "points_to",
+      "label": "The Density of Judgment"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
@@ -31182,7 +31210,7 @@
       "from": "mistaking-the-expression-for-the-intelligence",
       "to": "the_analogy_trap",
       "rel": "points_to",
-      "label": "类比的陷阱：共享的逻辑不是共享的结构"
+      "label": "类比陷阱与共享逻辑的越界偷渡"
     },
     {
       "from": "mistaking-the-expression-for-the-intelligence",
@@ -34633,6 +34661,18 @@
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
       "label": "A Creation Cannot Replace Its Source"
+    },
+    {
+      "from": "ontos-is-a-method-agent",
+      "to": "the-density-of-judgment",
+      "rel": "points_to",
+      "label": "判断的密度"
+    },
+    {
+      "from": "ontos-is-a-method-agent",
+      "to": "the-density-of-judgment",
+      "rel": "points_to",
+      "label": "The Density of Judgment"
     },
     {
       "from": "ontos-is-a-method-agent",
@@ -49798,18 +49838,6 @@
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
-      "rel": "points_to",
-      "label": "从AGI的“神性错置”到使用者的自我对齐"
-    },
-    {
-      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-      "to": "the-irreducible-observer",
-      "rel": "points_to",
-      "label": "不可还原的观察者"
-    },
-    {
-      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
@@ -49825,6 +49853,18 @@
       "to": "the-density-of-judgment",
       "rel": "points_to",
       "label": "The Density of Judgment"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "rel": "points_to",
+      "label": "从AGI的“神性错置”到使用者的自我对齐"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "不可还原的观察者"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -59752,6 +59792,12 @@
     },
     {
       "from": "the-model-never-becomes-a-second-edge",
+      "to": "the-density-of-judgment",
+      "rel": "points_to",
+      "label": "判断的密度"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
       "to": "agency-relocated-into-the-formal-model",
       "rel": "points_to",
       "label": "能动性被转置入形式模型"
@@ -59773,6 +59819,12 @@
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
       "label": "A Creation Cannot Replace Its Source"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
+      "to": "the-density-of-judgment",
+      "rel": "points_to",
+      "label": "The Density of Judgment"
     },
     {
       "from": "the-model-never-becomes-a-second-edge",
@@ -65980,6 +66032,12 @@
     },
     {
       "from": "the-scaffolding-that-keeps-growing",
+      "to": "the-density-of-judgment",
+      "rel": "points_to",
+      "label": "判断的密度"
+    },
+    {
+      "from": "the-scaffolding-that-keeps-growing",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "超越投射"
@@ -65988,7 +66046,7 @@
       "from": "the-scaffolding-that-keeps-growing",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
-      "label": "代码库即记忆"
+      "label": "你的代码库即是记忆"
     },
     {
       "from": "the-scaffolding-that-keeps-growing",
@@ -66001,6 +66059,12 @@
       "to": "deceleration-is-the-drag-felt-when-accelerating",
       "rel": "points_to",
       "label": "减速是加速时感受到的阻力"
+    },
+    {
+      "from": "the-scaffolding-that-keeps-growing",
+      "to": "the-density-of-judgment",
+      "rel": "points_to",
+      "label": "The Density of Judgment"
     },
     {
       "from": "the-scaffolding-that-keeps-growing",
@@ -77450,7 +77514,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "564dd576c473",
+        "hash": "98e25b619133",
         "out_degree": 402
       },
       {
