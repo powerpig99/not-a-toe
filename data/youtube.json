@@ -502,6 +502,38 @@
     "processed": "2026-10-23T07:57:44.318Z",
     "playlist": "PLGrxskF8JnDo"
    }
+  },
+  "the-surface-that-registers": {
+   "en": {
+    "id": "yzlPU0sovAI",
+    "url": "https://youtu.be/yzlPU0sovAI",
+    "title": "The Surface That Registers",
+    "privacy": "public",
+    "uploaded": "2026-10-23T11:50:31.237Z",
+    "file": "studio/post/the-surface-that-registers/final/film/film.en.mp4",
+    "sha256": {
+     "film": "3f98a393d274add8a56b9e55072c7faee6dcf1987b1aa92a844348f4ed032734",
+     "intro": "e2f4c4588b7cd7ea92b15ed294650807629ef1be45b7a82653e189409fd7d713"
+    },
+    "status": "processed",
+    "processed": "2026-10-23T11:51:23.675Z",
+    "playlist": "PLMyi7vp2KMyA"
+   },
+   "zh": {
+    "id": "bO9Hr_7Xq8E",
+    "url": "https://youtu.be/bO9Hr_7Xq8E",
+    "title": "登记共鸣的表面",
+    "privacy": "public",
+    "uploaded": "2026-10-23T11:51:42.256Z",
+    "file": "studio/post/the-surface-that-registers/final/film/film.zh.mp4",
+    "sha256": {
+     "film": "9a688693724ceccb5195c9f9e7741f9b9f731f9d9d23f0e5a85f52ba8ffb15e6",
+     "intro": "a38f232282b33d2552e17237b33df5a75932da269223a299a5f6a614d7b2d0cb"
+    },
+    "status": "processed",
+    "processed": "2026-10-23T11:52:24.600Z",
+    "playlist": "PLGrxskF8JnDo"
+   }
   }
  }
 }
