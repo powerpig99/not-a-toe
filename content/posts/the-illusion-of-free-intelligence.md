@@ -20,9 +20,9 @@ Each Mind's freedom to make its own choice was never a democratization waiting t
 
 Self-distinguishing activity occurs, uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. What densifies is Technology: traces externalized into durable form that extend reach. What does not densify into a second initiator is the activity itself. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds that prior: what can be engineered, scaled, or transferred is residue, and intelligence belongs only to the Mind. [Artifacts Are Expressions of Intelligence, Not Intelligence Itself](../two-failures-of-trace/) traces the freeze that follows: intelligence is the act of distinguishing, whereas the artifact is residue, the only term observation holds, and so the term onto which the act is commonly frozen. Here the readable term is free abundance read as democratization. Registering that abundance from one step behind is how the look works; the lag is exempting it from re-tracing as residue, as if intelligence had been relocated into the medium and shared out equally, rather than the abundance being forms left by a process still drawing further.
 
-模型放大投入其中的智能，它们不变成那份投入。容易接触不是同等接触。同一个工具，并不在各个中心之间同等地放大。放大不是媒介的一个随登录而分发的属性，它是每一个心智如何持守器具的一种关系。
+模型放大投入其中的智能，它们不变成那份投入。容易接触不是同等接触。同一个工具，并不在各个中心之间同等地放大。放大不是媒介的一个随登录而分发的属性，它是每一个心智如何持守器具的一种关系。当完成的形式带着一份机器检验过的证明到来时，情形也一样。这份凭证确立的，是检验器规则之下的内部一致，并且以一个可信基为条件；它并不分发那份让这种一致继续向下一次区分敞开的判断。正如[验证的倒置](../the-reversal-of-verification/)所追溯的，共享的工具拉平了检验的技术手段，而开放仍留在每一个心智那里：一份证明把什么留在了自身之外，谁还能定位它，正由这份开放决定；把凭证当作信任的来源，仍是把残余读成免费判断的那同一种读法，只是被带到了残余到来时已经检验完毕的地方。
 
-Models amplify the intelligence put in; they do not become the put-in. Easy access is not equal access. The same tool does not amplify equally across centers. Amplification is not a property of the medium distributed by login; it is a relation of how each Mind holds the instrument.
+Models amplify the intelligence put in; they do not become the put-in. Easy access is not equal access. The same tool does not amplify equally across centers. Amplification is not a property of the medium distributed by login; it is a relation of how each Mind holds the instrument. The same holds when the finished form arrives with a machine-checked proof. The certificate settles internal consistency under the checker's rules, conditional on a trusted base; it does not hand out the judgment that keeps that consistency open to the next distinction. As [The Reversal of Verification](../the-reversal-of-verification/) traces, shared tools equalize the technical means of checking, while the openness that decides who can still locate what a proof leaves outside itself stays with each Mind; taking the certificate as the source of trust is the same reading of residue as free judgment, carried to where the residue arrives already checked.
 
 ## 二、 前沿移动，残余变便宜 / 2. Residue Cheapens as the Frontier Moves
 
@@ -36,7 +36,7 @@ As that frontier moves, yesterday's insight, pattern recognition, and creative s
 
 [AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)在门槛的情形里追溯了同一份残余的脚手架：每一道门槛都永远立在画出它的边缘前方，在每个位置上都不同，因为能力的增益就是那道边缘在加强自身，越过它刚画出的图像；没有什么离开，更密的媒介只是让那道经由它所掌舵的工具继续放大自身的边缘更难被看见。[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/)追溯了这次冻结：受控的表现是固定约束之下的残余，而智能是画出、使用与修订这个约束的活动。表达作为表达成立；把表达等同于智能，是对一个被保留的封闭参照的滞后。
 
-[AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/) traces the same residual scaffolding in the case of thresholds: each threshold sits forever ahead of the edge that draws it, and differs at every locus, because capability gain is that edge reinforcing itself and overtaking the image it has just drawn; nothing leaves, and the denser medium only makes the edge, amplifying itself through the tools it steers, harder to see. [Mistaking the Expression for the Intelligence](../mistaking-the-expression-for-the-intelligence/) traces the freeze: controlled performance is residue under fixed constraint, and intelligence is the activity that draws, uses, and revises the constraint. Expression holds as expression; equating expression with intelligence is lag on a preserved closed reference.
+[AGI and ASI Are Temporary Goalposts](../agi-and-asi-are-temporary-goalposts/) traces the same residual scaffolding in the case of thresholds: each threshold sits forever ahead of the edge that draws it, and differs at every locus, because capability gain is that edge reinforcing itself and overtaking the image it has just drawn; nothing leaves, and the denser medium only makes the edge, amplifying itself through the tools it steers, harder to see. [Mistaking the Expression for the Intelligence](../mistaking-the-expression-for-the-intelligence/) traces the freeze: controlled performance is residue under fixed constraint, and intelligence is the activity that draws, uses, and revises the constraint. Expression holds as expression; equating expression with intelligence is lag on a preserved closed reference.
 
 ## 三、 器具变密，放大留在心智如何持守它们那里 / 3. Instruments Densify; Amplification Stays with How the Mind Holds Them
 
@@ -59,7 +59,6 @@ flowchart TD
         M_ReInject["主权判断：综合更高阶的连贯前提并承担后果"]
         M_Frame --> M_StepBack --> M_ReInject
     end
-
     subgraph S_Harness["辩证智能体调度架（有限投射与分派）"]
         direction TB
         H_Split["跨正交流线的有丝分裂：拆解过载的 2ᴺ 任务投射"]
@@ -67,7 +66,6 @@ flowchart TD
         H_Deadlock["隔离与矛盾上呈：隔离不可化约的前提死锁"]
         H_Split --> H_Peer --> H_Deadlock
     end
-
     subgraph S_Illusion["免费智能的幻觉（被冻结的残余）"]
         direction TB
         I_Flood["丰裕的流畅残余：近乎零边际成本的词元续写"]
@@ -75,12 +73,10 @@ flowchart TD
         I_Freeze["民主化滞后：廉价的词元投射被误当成免费的主权判断"]
         I_Flood --> I_Well --> I_Freeze
     end
-
     M_Frame ==>|"投射有限的任务前提"| H_Split
     H_Deadlock ==>|"上呈规则碰撞的确切坐标"| M_StepBack
     M_ReInject ==>|"将精炼后的前提重新注入暂停的回路"| H_Peer
     H_Peer -.->|"当下游的看停留在流畅输出上"| I_Flood
-
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Harness fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Illusion fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -106,7 +102,6 @@ flowchart TD
         M_ReInject["Sovereign Judgment: Synthesizes higher-order coherent premise and bears consequence"]
         M_Frame --> M_StepBack --> M_ReInject
     end
-
     subgraph S_Harness["Dialectical Agent Harness (Finite Projection & Dispatch)"]
         direction TB
         H_Split["Mitosis Across Orthogonal Streamlines: Splits overloaded 2ᴺ task projections"]
@@ -114,7 +109,6 @@ flowchart TD
         H_Deadlock["Quarantine & Contradiction Escalation: Isolates irreducible premise deadlock"]
         H_Split --> H_Peer --> H_Deadlock
     end
-
     subgraph S_Illusion["The Illusion of Free Intelligence (Frozen Residue)"]
         direction TB
         I_Flood["Abundant Fluent Residue: Near-zero marginal cost token continuation"]
@@ -122,12 +116,10 @@ flowchart TD
         I_Freeze["Democratization Lag: Cheap token projection mistaken for free sovereign judgment"]
         I_Flood --> I_Well --> I_Freeze
     end
-
     M_Frame ==>|"Projects finite task premises"| H_Split
     H_Deadlock ==>|"Escalates exact coordinate of rule collision"| M_StepBack
     M_ReInject ==>|"Re-injects refined premise into paused loop"| H_Peer
     H_Peer -.->|"When downstream look stops at fluent output"| I_Flood
-
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Harness fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Illusion fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -150,7 +142,7 @@ The difference is not that distinction is simply getting harder, or simply easie
 
 大多数中心只遇到丰裕的残余。停在完成形式上的看，把智能登记为免费而寻常；停在活的边缘上的看，把同一次变密登记为一个已经走开的过程的副产品。两种登记都不是对人的封闭排名。两者都是同一条路之下的负载：一个中心在多大程度上一直把更密的器具当作它自己连续自我改进的活的部件，又在多大程度上只把它们当作供应完成效果的便利引擎。[来自个体差异的层级](../hierarchy-from-individual-difference/)把排名追溯为彼此不同的个体在一个共享尺度上被计分时出现的东西；在这里，尺度是开放问题之下的所及，更密的器具扩大了不同的人持续如何选择的一致性得以显现的空间。[进步的多面手](../the-utility-men-of-progress/)追溯了同一种几何之下的暂时定向：进步是暂时的解题者反复的工作，承认、抵制与集体吸收，是对一个从不完成的开放之场的滞后；解题者轮换，稀少的发起与迟到的多数登记这一动态不变。[数据是局部的，智能是分配的](../data-is-local-intelligence-is-allocated/)在变密的汇总被当作已在存量里的质量时复原了这一刀：信号、糟粕与智能，命名的是心智所画出的关系，汇总让残余变密，却不搬动这份画出。[平均值是残余，不是引擎](../the-average-is-residue-not-the-engine/)在大众接触的情形里追溯了同一次冻结：百分比登记的是构成与筛选，决定性的边缘，在右尾稀少的实际人数那里；把接触的规模记为均等的发起，就是这次冻结。
 
-Most centers encounter only the abundant residue. The look that stays with finished form registers intelligence as free and common; the look that stays with the living edge registers the same densification as the byproduct of a process that has already moved on. Neither registration is a sealed ranking of persons. Both are load under the same path: how far a center keeps treating denser instruments as active components of its own continuous self-improvement, and how far it uses them only as convenience engines that supply finished effect. [Hierarchy from Individual Difference](../hierarchy-from-individual-difference/) traces ranking as what appears when individuals who differ are scored on a shared measure; here the measure is reach under open problems, and denser instruments enlarge the room in which the consistency of how different people keep choosing shows. [The Utility Men of Progress](../the-utility-men-of-progress/) traces temporary orientation under the same geometry: progress is the repeated work of temporary problem-solvers, and recognition, resistance, and collective absorption are lag on an open field that never finishes; the solvers rotate, while the dynamic of thin initiation and delayed majority registration stays the same. [Data Is Local; Intelligence Is Allocated](../data-is-local-intelligence-is-allocated/) restores the cut when the densified aggregate is treated as quality already in the stock: signal, slop, and intelligence name relations the Mind draws, and aggregation densifies residue without relocating that drawing. [The Average Is Residue, Not the Engine](../the-average-is-residue-not-the-engine/) traces the same freeze in the case of mass access: percentages register composition and selection, the decisive edge sits with a thin number in the right tail, and scoring the volume of access as equal initiation is the freeze.
+Most centers encounter only the abundant residue. The look that stays with finished form registers intelligence as free and common; the look that stays with the living edge registers the same densification as the byproduct of a process that has already moved on. Neither registration is a sealed ranking of persons. Both are load under the same path: how far a center keeps treating denser instruments as active components of its own continuous self-improvement, and how far it uses them only as convenience engines that supply finished effect. [Hierarchy from Individual Difference](../hierarchy-from-individual-difference/) traces ranking as what appears when individuals who differ are scored on a shared measure; here the measure is reach under open problems, and denser instruments enlarge the room in which the consistency of how different people keep choosing shows. [The Utility Men of Progress](../the-utility-men-of-progress/) traces temporary orientation under the same geometry: progress is the repeated work of temporary problem-solvers, and recognition, resistance, and collective absorption are lag on an open field that never finishes; the solvers rotate, while the dynamic of thin initiation and delayed majority registration stays the same. [Data Is Local, Intelligence Is Allocated](../data-is-local-intelligence-is-allocated/) restores the cut when the densified aggregate is treated as quality already in the stock: signal, slop, and intelligence name relations the Mind draws, and aggregation densifies residue without relocating that drawing. [The Average Is Residue, Not the Engine](../the-average-is-residue-not-the-engine/) traces the same freeze in the case of mass access: percentages register composition and selection, the decisive edge sits with a thin number in the right tail, and scoring the volume of access as equal initiation is the freeze.
 
 把工具当作自己循环之内的器具来持守的中心，留在它自己移动着的边缘上，并因那份持守被进一步放大。把它们当作替代、当作智能的来源、或只当作便利引擎来使用的中心，器具对它们的延伸就少；不使用它们的中心，则没有这份放大，仍在自己的边缘上。所及的分布由此被拉开，不是因为工具被扣下了，而是因为放大跟随持守。系统本身不提供离开这种拓扑的出口。它们仍是产生并掌舵它们的人类循环的放大器，放大到让它们保持为器具的那份持守的宽度。智能并没有变便宜，残余变便宜了。残余可得的容易与难以看见的前沿，是同一个反向。
 

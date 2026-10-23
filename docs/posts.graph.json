@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-23T16:39:00.719Z",
+    "generated_at": "2026-10-23T16:40:24.809Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -268,7 +268,7 @@
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "13b646bb8cfd",
       "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "6d4b7faef53e",
       "content/posts/the-illusion-of-distance-and-the-dual-ruler.md": "6232766ba174",
-      "content/posts/the-illusion-of-free-intelligence.md": "0b76898e8f30",
+      "content/posts/the-illusion-of-free-intelligence.md": "ea307666af7d",
       "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "0200bfbf3fa5",
       "content/posts/the-illusion-of-the-shared-sandbox.md": "f20e733d6ceb",
       "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "c5acd4b281e2",
@@ -430,10 +430,10 @@
     },
     "stats": {
       "posts": 403,
-      "edges": 11130,
-      "unique_directed": 5460,
+      "edges": 11132,
+      "unique_directed": 5461,
       "missing_targets": 0,
-      "one_way": 846,
+      "one_way": 847,
       "isolated": 0,
       "posts_with_outbound": 403,
       "book_pages": 16,
@@ -7431,14 +7431,15 @@
       "slug": "the-illusion-of-free-intelligence",
       "path": "content/posts/the-illusion-of-free-intelligence.md",
       "title": "免费智能的幻觉 / The Illusion of Free Intelligence",
-      "hash": "0b76898e8f30",
+      "hash": "ea307666af7d",
       "in_degree": 22,
-      "out_degree": 24,
+      "out_degree": 25,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "ownership-and-self-worthiness",
         "intelligence-belongs-only-to-the-mind",
         "two-failures-of-trace",
+        "the-reversal-of-verification",
         "agi-and-asi-are-temporary-goalposts",
         "mistaking-the-expression-for-the-intelligence",
         "causality-stays-at-the-edge-that-steers",
@@ -9096,7 +9097,7 @@
       "path": "content/posts/the-reversal-of-verification.md",
       "title": "验证的倒置 / The Reversal of Verification",
       "hash": "d9bdf6fc8678",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 8,
       "links_out": [
         "openness-is-consistency",
@@ -55392,6 +55393,18 @@
     },
     {
       "from": "the-illusion-of-free-intelligence",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "the-illusion-of-free-intelligence",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
+    },
+    {
+      "from": "the-illusion-of-free-intelligence",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
       "label": "AGI 与 ASI 是加速通用智能的暂时球门"
@@ -55406,7 +55419,7 @@
       "from": "the-illusion-of-free-intelligence",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
+      "label": "AGI and ASI Are Temporary Goalposts"
     },
     {
       "from": "the-illusion-of-free-intelligence",
@@ -55538,7 +55551,7 @@
       "from": "the-illusion-of-free-intelligence",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
-      "label": "Data Is Local; Intelligence Is Allocated"
+      "label": "Data Is Local, Intelligence Is Allocated"
     },
     {
       "from": "the-illusion-of-free-intelligence",
