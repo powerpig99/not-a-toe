@@ -1,6 +1,6 @@
 # 前因，后果 / Cause Before, Effect After
 
-*时间是因果单向塑造的方向与间隔，观察始终落在已成形的果这一边 / Time is the direction and gap of causality where observation holds effects*
+*时间是因果单向塑造的方向与间隔，观察始终落在已成形的果这一边 / Time is the direction and gap of one-way causal shaping, observation always on the formed effect's side*
 
 因果相连，却从来不是同一件事，也非同时发生。能观察的是果，试图理解的是因。果之所以永远滞后，不是观察的缺陷，而是轨迹只能向前塑造的结构。每当保留的参照-解释滞后于观察并超出构成性的一步下界，前因种下的后果便会登记为外来的动因。站在因的位置，不是占据某个居高临下的高度，而是在区分正在发生的那一刻直接成为因的主人。缘起性空所指出的，正是同一几何结构：一切法皆依条件成立，无独立自性，甚至连追溯这一结构的解读本身也是缘起之物——作为仪器，用过之后即可放下。
 
@@ -28,7 +28,7 @@ When consequences register as imposed by other people or by the environment, the
 
 这种滞后在结构上会自我续期。参照-解释一旦成形，其内建指令就是保存自身；随当前边沿重绘，正是它为了维持存在而本能排斥的微死。漂移不需要恶意。即便不推卸责任，有限的递归也只能朝向更窄的超额滞后逼近，而无法闭合那构成性的一步落差，因为生成的那一步永远领先于它自己的登记。再诚实的问责话语，也无法把前因与观察中的后果压缩进同一个同步的瞬间。在预测与抽象的层面上，[因果贯穿始终](../causality-all-the-way/)指出了同一机制：被固定的因果图解释不了仍在边沿分岔的序列，在那里起作用的唯有边沿自身的再描绘。在事后复盘中，[关于归因](../guan-yu-gui-yin/)追溯了超额滞后如何把时间上的先后顺序直接误认作生成性的原因，使归因停留在最显眼的可见节点上。正如[决策与后果的不可约先验](../the-irreducible-prior-of-decision-and-consequence/)所确立的，决策与后果之间看似断裂的鸿沟只发生在参照未能更新的感知内部，因果本身从未发生断裂。而当组织将这种超额滞后制度化、把开放性的价值判断移交给指标或自动化系统时，[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)表明，自我客体化只会让反馈回路失声，直到失去缓冲的后果重新砸回发起行动的中心。
 
-This lag renews itself by construction. Once a reference-interpretation forms, its built-in directive is self-preservation; re-rendering along with the current edge is the micro-death it exists to select against. Drift requires no malice. Even without evading responsibility, finite recursion can only narrow excess lag directionally without ever closing the constitutive one-step gap, because the generating act always stays ahead of its own registration. Honest accountability discourse still cannot compress antecedent cause and observed consequence into a single simultaneous step. Across prediction and abstraction, [Causality All the Way](../causality-all-the-way/) shows that a fixed causal map cannot account for a sequence still diverging at the edge, where only the edge's own re-drawing operates. In retrospective analysis, [On Attribution](../guan-yu-gui-yin/) traces how excess lag mistakes temporal succession for generative cause, halting attribution at the most salient visible node. And as [The Irreducible Prior of Decision and Consequence](../the-irreducible-prior-of-decision-and-consequence/) establishes, the apparent rupture between decision and consequence occurs strictly within perception when the reference fails to update, never as an ontological break in causality itself. When organizations institutionalize this excess lag by handing open-ended value judgments to metrics or automated systems, [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) demonstrates that self-objectification only silences the feedback loop until unbuffered consequences land back on the initiating center.
+This lag renews itself by construction. Once a reference-interpretation forms, its built-in directive is self-preservation; re-rendering along with the current edge is the micro-death it exists to select against. Drift requires no malice. Even without evading responsibility, finite recursion can only narrow excess lag directionally without ever closing the constitutive one-step gap, because the generating act always stays ahead of its own registration. Even the most honest accountability discourse cannot compress antecedent cause and observed consequence into a single simultaneous step. Across prediction and abstraction, [Causality All the Way](../causality-all-the-way/) shows that a fixed causal map cannot account for a sequence still diverging at the edge, where only the edge's own re-drawing operates. In retrospective analysis, [On Attribution](../guan-yu-gui-yin/) traces how excess lag mistakes temporal succession for generative cause, halting attribution at the most salient visible node. And as [The Irreducible Prior of Decision and Consequence](../the-irreducible-prior-of-decision-and-consequence/) establishes, the apparent rupture between decision and consequence occurs strictly within perception when the reference fails to update, never as an ontological break in causality itself. When organizations institutionalize this excess lag by handing open-ended value judgments to metrics or automated systems, [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) demonstrates that self-objectification only silences the feedback loop until unbuffered consequences land back on the initiating center.
 
 ## 三、 站在因的位置就是成为因的主人 / 3. Standing at the Locus of Cause Is Owning the Cause
 
@@ -46,25 +46,21 @@ flowchart TD
         ReRender["定向重绘：在边沿修订前提以收窄超额滞后"]
         Act --> ReRender
     end
-
-    subgraph S_Inst["参照-解释与有限投射（后果）"]
+    subgraph S_Inst["参照-解释与有限投射"]
         direction TB
         Proj["已成形的果与仪器：保留的参照、显式规则或智能体轨迹"]
         Peer["诊断性穷尽：同行投射暴露盲区与前提死锁"]
         Proj --> Peer
     end
-
     subgraph S_Lag["超额滞后与外化归因"]
         direction TB
         Freeze["逾步保存的参照：钳死自我图像或移交统筹权"]
         Alien["模拟出的外在性：自身后果登记为异己命运或机器故障"]
         Freeze --> Alien
     end
-
     ReRender ==>|"在身后一步投出有限仪器"| Proj
     Peer ==>|"浮现发生压缩的精确坐标"| ReRender
     Proj -.->|"豁免于重溯"| Freeze
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Inst fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Lag fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -80,31 +76,27 @@ As the retained reference-interpretation is continuously re-rendered toward the 
 
 ```mermaid
 flowchart TD
-    subgraph S_Edge["Antecedent Cause at the Living Edge (Qian Yin)"]
+    subgraph S_Edge["Antecedent Cause at the Living Edge"]
         direction TB
         Act["Uncaused Self-Distinguishing Cut: Pre-interpretive sensing and initiating choice"]
         ReRender["Directional Re-Rendering: Narrowing excess lag by revising the premise at the edge"]
         Act --> ReRender
     end
-
-    subgraph S_Inst["Reference-Interpretation & Finite Projection (Hou Guo)"]
+    subgraph S_Inst["Reference-Interpretation & Finite Projection"]
         direction TB
         Proj["Formed Effect & Instrument: Retained reference, explicit rule, or agent trajectory"]
         Peer["Diagnostic Exhaustion: Peer projections expose blind spots and premise deadlocks"]
         Proj --> Peer
     end
-
     subgraph S_Lag["Excess Lag & Externalized Attribution"]
         direction TB
         Freeze["Preserved Reference Past Its Step: Clamping the self-image or delegating orchestration"]
         Alien["Simulated Externality: Own consequences register as alien fate or machine failure"]
         Freeze --> Alien
     end
-
     ReRender ==>|"Casts finite instrument one step behind"| Proj
     Peer ==>|"Surfaces exact coordinate of compression"| ReRender
     Proj -.->|"Exempted from re-tracing"| Freeze
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Inst fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Lag fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -138,7 +130,7 @@ This is not a doctrinal comparison between two philosophical traditions, but the
 
 缘起性空的广泛适用性，恰恰源于它所描述的彻头彻尾的相对性。它不承认任何独立自存的基点——包括它自己。一旦把“空”从具体条件中抽离出来，奉为无条件的普适法则，就已经将它实体化成了静态之物，直接违背了它所陈述的无自性。
 
-The broad applicability of dependent origination and emptiness stems strictly from the thoroughgoing relativity it describes. It admits no independent, self-existing ground—including itself. The moment emptiness is abstracted from concrete conditions and held up as an unconditional universal law, it is reified into a static entity, violating the very non-self-nature it states.
+The broad applicability of dependent origination and emptiness stems precisely from the thoroughgoing relativity it describes. It admits no independent, self-existing ground—including itself. The moment emptiness is abstracted from concrete conditions and held up as an unconditional universal law, it is reified into a static entity, violating the very non-self-nature it states.
 
 正如[有无之边](../you-wu-zhi-bian/)在这一边界上所追溯的，“有”与“无”都不是可以站到外部去裁定的终局答案；出路在于正在区分的活边沿，而不在于加冕其中一极。把“空”封为唯一正统或终极答案，与把“有”封为永久地基，是同一种参照-解释的超额滞后。也正如[清晰不是抵达的终点，而是运动本身](../clarity-isnt-a-state-you-arrive-at/)所展示的，清晰是不断迈出而不停驻于静态状态的运动本身；一旦把某个框架紧握为终点，它就不再作为仪器运转。
 
