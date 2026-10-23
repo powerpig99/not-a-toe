@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-23T16:44:30.841Z",
+    "generated_at": "2026-10-23T16:46:28.282Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -109,7 +109,7 @@
       "content/posts/individual-choices-as-the-only-causal-levers.md": "76ab560e5a25",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "425497acb31b",
       "content/posts/intelligence-crisis-response.md": "c0480704b362",
-      "content/posts/intelligence-folding-back-on-itself.md": "8d41a13f4313",
+      "content/posts/intelligence-folding-back-on-itself.md": "457b6b772b47",
       "content/posts/intelligence-traps-itself.md": "533c6e1e356a",
       "content/posts/judgment-is-not-a-stock.md": "9526af861c78",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "b5bfd1bca0dc",
@@ -430,10 +430,10 @@
     },
     "stats": {
       "posts": 403,
-      "edges": 11134,
-      "unique_directed": 5462,
+      "edges": 11136,
+      "unique_directed": 5463,
       "missing_targets": 0,
-      "one_way": 848,
+      "one_way": 849,
       "isolated": 0,
       "posts_with_outbound": 403,
       "book_pages": 16,
@@ -3290,9 +3290,9 @@
       "slug": "intelligence-folding-back-on-itself",
       "path": "content/posts/intelligence-folding-back-on-itself.md",
       "title": "智能向自身的回折 / Intelligence Folding Back on Itself",
-      "hash": "8d41a13f4313",
+      "hash": "457b6b772b47",
       "in_degree": 21,
-      "out_degree": 22,
+      "out_degree": 23,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "two-failures-of-trace",
@@ -3306,6 +3306,7 @@
         "the-model-never-becomes-a-second-edge",
         "self-rl-for-humans",
         "ontos-is-a-method-agent",
+        "the-reversal-of-verification",
         "the-density-of-judgment",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
         "mistaking-the-expression-for-the-intelligence",
@@ -9098,7 +9099,7 @@
       "path": "content/posts/the-reversal-of-verification.md",
       "title": "验证的倒置 / The Reversal of Verification",
       "hash": "d9bdf6fc8678",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 8,
       "links_out": [
         "openness-is-consistency",
@@ -28780,7 +28781,7 @@
       "from": "intelligence-folding-back-on-itself",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
+      "label": "AGI and ASI Are Temporary Goalposts"
     },
     {
       "from": "intelligence-folding-back-on-itself",
@@ -28862,9 +28863,21 @@
     },
     {
       "from": "intelligence-folding-back-on-itself",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "intelligence-folding-back-on-itself",
       "to": "the-density-of-judgment",
       "rel": "points_to",
       "label": "判断的密度"
+    },
+    {
+      "from": "intelligence-folding-back-on-itself",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
     },
     {
       "from": "intelligence-folding-back-on-itself",
