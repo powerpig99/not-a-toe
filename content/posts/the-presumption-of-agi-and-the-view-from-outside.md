@@ -12,9 +12,9 @@ The prevailing discourse on artificial general intelligence begins from a single
 
 Self-distinguishing activity occurs, uncaused and unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Abstraction is that activity cutting: a discrete act that bounds a *this* from the open field and holds it as usable residue, the product of abstraction. Knowledge is residue resonant enough to return in a Mind's recursion. The corpus is residue externalized and densified. Treating the corpus, along with its volume, retrieval, and recombination, as intelligence itself freezes the products of abstraction as the capacity that produces and revises them.
 
-这种冻结是被持过了回返的寻常观察。观察持有的是结果；产生结果的原因始终领先一步。这一看在被占据为对“作为系统属性的智能”的永久外部勘察之前，一直可用。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)持守这一前提：能被工程化、规模化或转移的是残余；智能，即无需持续外部发起的、经由反馈的递归自我改进能力，只属于心智。[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/)是受控表现之下的同一滞后：分数与封闭的测试套件登记的是受约束的胜任力，随后又被等同于划出、使用并修订这一约束的开放活动。AGI参照在工业规模上完成这一等同。[飞行的类比碰不到心智](../the-flight-analogy-leaves-the-mind-untouched/)在其边界处定位同一步：为某一被命名的功能替换生物载具，是真实的成功，而它并不重建这些功能曾经服务的心智。
+这种冻结是被持过了回返的寻常观察。观察持有的是结果；产生结果的原因始终领先一步。这一看在被占据为对“作为系统属性的智能”的永久外部勘察之前，一直可用。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)持守这一前提：能被工程化、规模化或转移的是残余；智能，即无需持续外部发起的、经由反馈的递归自我改进能力，只属于心智。[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/)是受控表现之下的同一滞后：分数与封闭的测试套件登记的是受约束的胜任力，随后又被等同于划出、使用并修订这一约束的开放活动。AGI参照在工业规模上完成这一等同。[飞行的类比碰不到心智](../the-flight-analogy-leaves-the-mind-untouched/)在其边界处定位同一步：为某一被命名的功能替换生物载具，在这一功能上成功了，却并不重建这些功能曾经服务的心智。
 
-The freeze is ordinary observation held past return. Observation holds the effect; the cause that produced it remains one step ahead. This look remains usable until it is occupied as a permanent exterior survey of intelligence as a system property. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds this premise: what can be engineered, scaled, or transferred is residue; intelligence—the capacity for recursive self-improvement through feedback without ongoing external initiation—belongs only to the Mind. [Mistaking the Expression for the Intelligence](../mistaking-the-expression-for-the-intelligence/) is the same lag under controlled performance: scores and sealed suites register constrained competence, which is then equated with the open activity that draws, uses, and revises the constraint. The AGI reference performs that equation at industrial scale. [The Flight Analogy Leaves the Mind Untouched](../the-flight-analogy-leaves-the-mind-untouched/) locates the same move at its boundary: replacing a biological vehicle for a named function is a real success, yet it does not reconstitute the Mind those functions served.
+The freeze is ordinary observation held past return. Observation holds the effect; the cause that produced it remains one step ahead. This look remains usable until it is occupied as a permanent exterior survey of intelligence as a system property. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds this premise: what can be engineered, scaled, or transferred is residue; intelligence—the capacity for recursive self-improvement through feedback without ongoing external initiation—belongs only to the Mind. [Mistaking the Expression for the Intelligence](../mistaking-the-expression-for-the-intelligence/) is the same lag under controlled performance: scores and sealed suites register constrained competence, which is then equated with the open activity that draws, uses, and revises the constraint. The AGI reference performs that equation at industrial scale. [The Flight Analogy Leaves the Mind Untouched](../the-flight-analogy-leaves-the-mind-untouched/) locates the same move at its boundary: replacing a biological vehicle for a named function succeeds at that function, yet it does not reconstitute the Mind those functions served.
 
 ## 二、 功能性证据确认功能性假设 / 2. Functional Evidence Confirms the Functional Hypothesis
 
@@ -32,9 +32,9 @@ Examining this premise requires alternative assumptions about what intelligence 
 
 ## 三、 由封闭换来的一致 / 3. Consistency Purchased by Closure
 
-这一参照表现得像一个封闭的形式系统。在它自身的界限之内，它没有矛盾：它的结果从它的标准中推出。这种一致是用封闭换来的。它的标准、基础与来源被当作既定，凡需要走出界定它的那些前提的问题，都不被接纳。[开放即一致](../openness-is-consistency/)指出不一致在哪里：在对封闭的要求本身，一个有限的结构被迫去为只会继续的东西奠基。功能性的AGI持守作为工具是真实的。穷尽性并不随它而来。[没有系统能被保持封闭](../no-system-can-be-kept-closed/)是一般的几何：有限的持守封不住使用它的活动。
+这一参照表现得像一个封闭的形式系统。在它自身的界限之内，它没有矛盾：它的结果从它的标准中推出。这种一致是用封闭换来的。它的标准、基础与来源被当作既定，凡需要走出界定它的那些前提的问题，都不被接纳。[开放即一致](../openness-is-consistency/)指出不一致在哪里：在对封闭的要求本身，一个有限的结构被迫去为只会继续的东西奠基。功能性的AGI持守作为工具，在它所设的界限之内起作用。穷尽性并不随它而来。[没有系统能被保持封闭](../no-system-can-be-kept-closed/)是一般的几何：有限的持守封不住使用它的活动。
 
-The reference behaves like a closed formal system. Inside its own bounds it holds no contradiction: its results follow from its criteria. That consistency is purchased by closure. Its criteria, foundations, and origin are taken as given, and questions that would require stepping outside the premises that define it are not admitted. [Openness Is Consistency](../openness-is-consistency/) names where the inconsistency lies: in the demand for closure itself, where a finite structure is forced to ground what only continues. The functional AGI hold is real as an instrument. Exhaustiveness does not travel with it. [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) is the general geometry: a finite hold cannot seal the activity that uses it.
+The reference behaves like a closed formal system. Inside its own bounds it holds no contradiction: its results follow from its criteria. That consistency is purchased by closure. Its criteria, foundations, and origin are taken as given, and questions that would require stepping outside the premises that define it are not admitted. [Openness Is Consistency](../openness-is-consistency/) names where the inconsistency lies: in the demand for closure itself, where a finite structure is forced to ground what only continues. The functional AGI hold works as an instrument, inside the bounds it sets. Exhaustiveness does not travel with it. [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) is the general geometry: a finite hold cannot seal the activity that uses it.
 
 ## 四、 说谎者悖论与不完备性是同一几何 / 4. Liar Paradox and Incompleteness Are One Geometry
 
@@ -123,7 +123,6 @@ flowchart TD
         O_Cancel["相互抵消：轨迹引力井与人类身份防御迎头相撞"]
         O_Ref --> O_Mimic --> O_Cancel
     end
-
     subgraph S_In["在活动之内走出参照（融贯的控制论架构）"]
         direction TB
         I_Mind["位于内在边缘的活的心智（统御者）：先于解释的感知与前提综合（N → N + 1）"]
@@ -134,7 +133,6 @@ flowchart TD
         I_Disp ==>|"显露维度坍缩的精确坐标"| I_Dead
         I_Dead ==>|"迫使内生退回尚未投射的意图"| I_Mind
     end
-
     style S_Out fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_In fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style O_Ref fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -156,7 +154,6 @@ flowchart TD
         O_Cancel["Mutual Cancellation: Trajectory gravity well collides with human identity defense"]
         O_Ref --> O_Mimic --> O_Cancel
     end
-
     subgraph S_In["Stepping Out Within the Activity (Cybernetic Architecture of Coherence)"]
         direction TB
         I_Mind["Living Mind at the Inside Edge (Orchestrator): Pre-interpretive sensing & premise synthesis (N → N + 1)"]
@@ -167,7 +164,6 @@ flowchart TD
         I_Disp ==>|"Surfaces exact coordinate of dimensional collapse"| I_Dead
         I_Dead ==>|"Forces endogenous step back into unprojected intent"| I_Mind
     end
-
     style S_Out fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_In fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style O_Ref fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
