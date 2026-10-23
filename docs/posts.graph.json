@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-23T16:35:30.739Z",
+    "generated_at": "2026-10-23T16:36:58.226Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -177,7 +177,7 @@
       "content/posts/scaffolds-or-specialized-contexts.md": "f17b46f726ad",
       "content/posts/school_essay_final.md": "3aa3b258724e",
       "content/posts/selection-contradiction-and-open-reality.md": "74fbecb78715",
-      "content/posts/self-image-speaks-as-if-from-nowhere.md": "0e6c53bc8487",
+      "content/posts/self-image-speaks-as-if-from-nowhere.md": "689a012a58a8",
       "content/posts/self-rl-for-humans.md": "da8444ae39c6",
       "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "5bdf03fd7397",
       "content/posts/sensing-before-interpretation.md": "e85a0b081114",
@@ -5136,7 +5136,7 @@
       "slug": "self-image-speaks-as-if-from-nowhere",
       "path": "content/posts/self-image-speaks-as-if-from-nowhere.md",
       "title": "自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere",
-      "hash": "0e6c53bc8487",
+      "hash": "689a012a58a8",
       "in_degree": 25,
       "out_degree": 26,
       "links_out": [
@@ -41438,13 +41438,13 @@
       "from": "self-image-speaks-as-if-from-nowhere",
       "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "rel": "points_to",
-      "label": "The Distaste for \"AI Slop\" Is a Recurring Pattern"
+      "label": "The Distaste for “AI Slop” Is a Recurring Pattern"
     },
     {
       "from": "self-image-speaks-as-if-from-nowhere",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
+      "label": "AGI and ASI Are Temporary Goalposts"
     },
     {
       "from": "self-image-speaks-as-if-from-nowhere",
@@ -41534,7 +41534,7 @@
       "from": "self-image-speaks-as-if-from-nowhere",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
-      "label": "Data Is Local; Intelligence Is Allocated"
+      "label": "Data Is Local, Intelligence Is Allocated"
     },
     {
       "from": "self-image-speaks-as-if-from-nowhere",
