@@ -82,32 +82,29 @@ Bayesian updating revises beliefs *within* a frame. It has no internal resource 
 
 Once that prior is exempted from re-tracing, every further CAPA report, every affinity-bias correction, and every weak-to-strong redesign is further updating *inside* the freeze. The numbers can improve, yet the frame cannot register its own lag as lag. No frame registers its own framing from inside; that blindness is ordinary, and what freezes is only the claim of exemption.
 
-因此，架设一层等级化的外部监管——无论是人类审查委员会还是自动化的监督智能体——都会制造出认识论闭合的单点故障。自动化的监督智能体依然是受前序词元条件约束的有限投射，困在自身的轨迹引力井之内，无法触及未投射的意图；而人类监管委员会则将推理历史与制度身份熔铸在一起，极力捍卫其冻结的评分规程，抗拒外部的证伪。[超越投射](../beyond-the-projection/)用平等的对等辩证与局部故障上呈取代等级化的监管，消解了这一监管瓶颈：一个不带会话历史的冷启动对等智能体能够暴露局部的轨迹盲区，使主智能体得以执行无我执的贝叶斯更新；而对等双方之间不可化约的僵局，则会将隐蔽的前提矛盾隔离出来，并将其上呈给活生生的心智的第一人称感知，由心智在逻辑上向后退一步，重新渲染破裂的规则。
+在第一层之上再架设一层监管，无论是人类审查委员会还是自动化的监督智能体，都解除不了这个极限，因为它只是又一个在自身条件之内更新的框架。自动化的监督者依然是受前序词元条件约束的有限投射，沿着自身的轨迹被牵引，触及不到从未投射进其上下文的意图；审查委员会则把它的推理历史与制度地位带进它所运用的评分规程，而一份它捍卫过的评分规程，它自己就更难重新划出。封闭坐落在哪里，正是[验证的倒置](../the-reversal-of-verification/)所定位的：没有哪份证明、哪个内核、哪套评分规程会自行封闭。封闭是被持守的：心智把检验过的输出当作信任之源，凌驾于运用它去验证的那种能力之上，封闭便由这个心智来维持；而本可定位残余的那种能力，此时正是不再被运用的能力。因此，封闭的单点不是等级结构，而是加在它之上的持守；把等级结构换成另一种形式，并不因此就去掉了持守。[超越投射](../beyond-the-projection/)在器具的形式之内守住这个次序，用平等的对等辩证与局部故障上呈取代等级化的监管：一个不带该会话历史的冷启动对等体暴露出轨迹盲区，主智能体可以据此更新；对等双方之间不可化约的僵局则把隐蔽的前提矛盾隔离出来，交还给活生生的心智的第一人称感知，由心智退后一步，重新渲染破裂的规则。对等辩论若被持守为信任之源，也会以同样的方式倒置；让它保持开放的，是它的最后一步回到它所服务的那种能力，而不是停在它自己的裁定上。
 
 ```mermaid
 flowchart TD
-    subgraph S_Closed["等级化监管（认识论闭合的单点故障）"]
+    subgraph S_Closed["被当作地基持守的监管（持守即封闭）"]
         direction TB
         C_Prior["被豁免的监管先验：将当下的评分规程与威胁模型持守为完备边界"]
-        C_Judge["等级化监督者：困于共享引力井的监督智能体或绑定身份的委员会"]
+        C_Judge["作为信任之源的监督者：监督智能体或委员会的裁定，读到这里便不再往下读"]
         C_Loop["冻结之内的更新：相似度校正修饰了分数却遮蔽了框架滞后"]
         C_Blind["未登记的余项：规程之外的新增负载被当作噪声抹除"]
         C_Prior --> C_Judge --> C_Loop --> C_Blind
     end
-
-    subgraph S_Open["平等的对等辩证与第一人称统御"]
+    subgraph S_Open["回到第一人称的对等器具"]
         direction TB
-        O_Peer["平等的对等辩论：无会话偏见的冷启动对等体暴露局部轨迹盲区"]
-        O_Bayes["无我执的贝叶斯更新：当摩擦源于遗漏细节时自动收敛"]
+        O_Peer["平等的对等辩论：不带会话历史的冷启动对等体暴露局部轨迹盲区"]
+        O_Bayes["对等更新：当摩擦源于遗漏的细节时收敛"]
         O_Dead["局部故障隔离：不可化约的对等僵局隔离出隐蔽的前提矛盾"]
         O_Mind["第一人称感知：活生生的心智退回未投射的意图并重新渲染框架"]
         O_Peer --> O_Bayes
         O_Peer --> O_Dead --> O_Mind
     end
-
     C_Blind -.->|"现场摩擦冲破封闭的评分规程"| O_Dead
     O_Mind ==>|"重新渲染临时工具"| O_Peer
-
     style S_Closed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style C_Prior fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -120,32 +117,29 @@ flowchart TD
     style O_Mind fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Installing a hierarchical external oversight layer—whether a human review committee or an automated supervisor agent—therefore creates a single point of epistemic closure. An automated supervisor agent remains a finite projection conditioned by prior tokens, trapped inside its own trajectory gravity well with zero access to unprojected intent, while a human oversight committee fuses its reasoning history with institutional identity and defends its frozen rubric against external invalidation. [Beyond the Projection](../beyond-the-projection/) dissolves this supervisory bottleneck by replacing hierarchical oversight with equal-footed peer dialectics and localized fault escalation: a fresh, cold-start peer agent without session history exposes trajectory blind spots so the primary agent can perform ego-free Bayesian updates, while an irreducible deadlock between peers quarantines the hidden premise contradiction and escalates it to the first-person sensing of the living Mind to step backward logically and re-render the broken rule.
+A further layer of oversight set above the first, whether a human review committee or an automated supervisor agent, does not lift this limit, since it is one more frame updating inside its own conditions. An automated supervisor remains a finite projection conditioned by prior tokens, drawn along its own trajectory, with no access to intent that was never projected into its context; a review committee carries its reasoning history and its institutional standing into the rubric it applies, and a rubric it has defended becomes harder for it to redraw. Where the closure sits is what [The Reversal of Verification](../the-reversal-of-verification/) locates: no proof, kernel, or rubric closes by itself; closure is held by the Mind that takes a checked output as the source of trust over the capacity that uses it to verify, and the capacity that would locate the residue is then the capacity no longer exercised. The single point of closure is therefore not the hierarchy but the hold kept over it, and replacing the hierarchy with another form does not by itself remove the hold. [Beyond the Projection](../beyond-the-projection/) keeps that order inside the form of the instrument, replacing hierarchical oversight with equal-footed peer dialectics and localized fault escalation: a fresh, cold-start peer without the session history exposes trajectory blind spots the primary agent can update on, and an irreducible deadlock between peers isolates the hidden premise contradiction and returns it to the first-person sensing of the living Mind, which steps back and re-renders the broken rule. Peer debate held as the source of trust would reverse in the same way; what keeps it open is that its last step returns to the capacity it serves rather than resting on its own verdict.
 
 ```mermaid
 flowchart TD
-    subgraph S_Closed["Hierarchical Oversight (Single Point of Epistemic Closure)"]
+    subgraph S_Closed["Oversight Held as Ground (the Hold Is the Closure)"]
         direction TB
         C_Prior["Exempted Supervisory Prior: Present rubrics and threat models held as exhaustive"]
-        C_Judge["Hierarchical Overseer: Supervisor agent in shared gravity well or identity-bound committee"]
+        C_Judge["Overseer as Source of Trust: Supervisor agent or committee whose verdict is read no further"]
         C_Loop["Updating Inside the Freeze: Similarity corrections refine scores while masking frame lag"]
         C_Blind["Unregistered Remainder: Novel load outside the rubric is dismissed as noise"]
         C_Prior --> C_Judge --> C_Loop --> C_Blind
     end
-
-    subgraph S_Open["Equal-Footed Dialectics and First-Person Orchestration"]
+    subgraph S_Open["Peer Instruments Returned to the First Person"]
         direction TB
-        O_Peer["Equal-Footed Peer Debate: Cold peer without session bias exposes local trajectory blind spots"]
-        O_Bayes["Zero-Ego Bayesian Update: Converges automatically when friction is a missed detail"]
+        O_Peer["Equal-Footed Peer Debate: Cold peer without session history exposes local trajectory blind spots"]
+        O_Bayes["Peer Update: Converges when the friction was a missed detail"]
         O_Dead["Localized Fault Quarantine: Irreducible peer deadlock isolates hidden premise contradiction"]
         O_Mind["First-Person Sensing: Living Mind steps back into unprojected intent to re-render the frame"]
         O_Peer --> O_Bayes
         O_Peer --> O_Dead --> O_Mind
     end
-
     C_Blind -.->|"Live friction breaks the sealed rubric"| O_Dead
     O_Mind ==>|"Re-renders provisional instrument"| O_Peer
-
     style S_Closed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style C_Prior fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -164,14 +158,14 @@ So the risk does not arise because models err alike under shared premises; that 
 
 ## 七、 让监管的持守持续重新渲染 / 7. Keep the Supervisory Hold Re-Rendering
 
-这一切都不是在反对测量相似度、校正亲和偏差，或审慎地设计监管回路。它们仍是工具——是封闭问题类别之下残余比较的真实致密化——随着步子移动而重新渲染时，它们就保有寻常的用处。当边缘移动时，重新渲染威胁模型。当现场的负载呈现出测试集从未编码过的失败模式时，重新划出评估。把偏好数据当作暂时的证据，而不是封闭的世界。让 CAPA 报告它所采样的那份持守之下的一致，而不把那份报告抬升为开放之场的地图。正如[你的代码库即是记忆](../your-codebase-is-memory/)在整个技术栈中所追溯的，每一组模型权重、基准测试集、威胁清单与监督智能体脚手架，都是早先区分留下的残余形态，而不是一个能够记忆或发起行动的持续中心。把监管当作一座囤积过往失败分类、未修剪会话历史与层叠评分规程以防旧错重演的仓库，只会加厚条件约束的引力井，牵引后续的运行在陈旧的残余之内做合理化修饰，而不是登记已经破裂的框架。让监管的持守保持可用，运作起来应当是一个当下的检查点，而非历史档案馆：把依然承重的部分折入鲜活的约束表面，在吸收信号之后修剪掉退役的对等轨迹与已被取代的脚手架，并在未被吸收的残余浮现时回到边缘处活生生的心智，重新切分边界。
+这一切都不是在反对测量相似度、校正亲和偏差，或审慎地设计监管回路。它们仍是工具，是封闭问题类别之下残余比较的致密化，随着步子移动而重新渲染时，它们就保有寻常的用处。当边缘移动时，重新渲染威胁模型。当现场的负载呈现出测试集从未编码过的失败模式时，重新划出评估。把偏好数据当作暂时的证据，而不是封闭的世界。让 CAPA 报告它所采样的那份持守之下的一致，而不把那份报告抬升为开放之场的地图。正如[你的代码库即是记忆](../your-codebase-is-memory/)在整个技术栈中所追溯的，每一组模型权重、基准测试集、威胁清单与监督智能体脚手架，都是早先区分留下的残余形态，而不是一个能够记忆或发起行动的持续中心。把监管当作一座囤积过往失败分类、未修剪会话历史与层叠评分规程以防旧错重演的仓库，只会加厚条件约束的引力井，牵引后续的运行在陈旧的残余之内做合理化修饰，而不是登记已经破裂的框架。让监管的持守保持可用，运作起来是一个当下的检查点，而非历史档案馆：把依然承重的部分折入鲜活的约束表面，在吸收信号之后修剪掉退役的对等轨迹与已被取代的脚手架，并在未被吸收的残余浮现时回到边缘处活生生的心智，重新切分边界。
 
-None of this argues against measuring similarity, correcting for affinity bias, or designing supervisory loops carefully. Those remain instruments—real densifications of residual comparison under sealed problem classes—and when re-rendered as the step moves, they keep their ordinary use. Re-render the threat model when the edge has moved. Redraw the evaluation when live load presents failure modes the suite never encoded. Treat preference data as temporary evidence, not as the sealed world. Let CAPA report agreement under the hold it samples, without promoting that report into a map of the open field. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces across the stack, every model weight, benchmark suite, threat inventory, and supervisory agent scaffold is residual shape left by prior distinctions rather than a continuing center that remembers or initiates. Treating oversight as a warehouse that hoards past failure taxonomies, unpruned session histories, and layered rubrics in case old errors recur only thickens the conditioning gravity well, pulling subsequent runs to rationalize inside stale residue instead of registering a broken frame. Keeping the supervisory hold usable works as a present checkpoint rather than a historical archive: folding what still bears load into the live constraint surface, pruning retired peer trajectories and superseded scaffolding once their signal is absorbed, and returning to the living Mind at the edge to re-cut the boundary when an unabsorbed residual surfaces.
+None of this argues against measuring similarity, correcting for affinity bias, or designing supervisory loops carefully. Those remain instruments, densifications of residual comparison under sealed problem classes, and when re-rendered as the step moves, they keep their ordinary use. Re-render the threat model when the edge has moved. Redraw the evaluation when live load presents failure modes the suite never encoded. Treat preference data as temporary evidence, not as the sealed world. Let CAPA report agreement under the hold it samples, without promoting that report into a map of the open field. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces across the stack, every model weight, benchmark suite, threat inventory, and supervisory agent scaffold is residual shape left by prior distinctions rather than a continuing center that remembers or initiates. Treating oversight as a warehouse that hoards past failure taxonomies, unpruned session histories, and layered rubrics in case old errors recur only thickens the conditioning gravity well, pulling subsequent runs to rationalize inside stale residue instead of registering a broken frame. Keeping the supervisory hold usable works as a present checkpoint rather than a historical archive: folding what still bears load into the live constraint surface, pruning retired peer trajectories and superseded scaffolding once their signal is absorbed, and returning to the living Mind at the edge to re-cut the boundary when an unabsorbed residual surfaces.
 
 [AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)为门槛追溯同一种几何：每一道门槛都永远坐落在划出它的边缘之前，在每个所在都不同，因为能力的增长就是那道边缘在自我强化。[现实扭曲力场指认的是封闭的地图](../the-reality-distortion-field-names-the-closed-map/)为专家的可行性判断追溯它：被登记为扭曲世界之力量的东西，是来自内部所在的持续活动，被对着一张持守为可能性之封闭场的共识地图计分。[关闭选择权的代价](../the-price-of-closing-optionality/)在组织中追溯它：落后是一张账单，来自把未知风险当作一份可以事先中和的封闭清单。[对 AI 风险的想象](../the-imagining-of-ai-risk/)早一步追溯这份冻结：被命名的 AI 风险是投射，把图像当作地基，反而会压实那条让危险运作起来的人为链条；风险与益处是同一次想象行动的孪生产物，区别只在于预判是保持为一件在接触中重新渲染的工具，还是冻结为封闭的地基。[AI 争论中的观察划界](../the-observational-cut-in-ai-debates/)追溯那些争论中的二元，其中有检测与监管是跟得上还是永远滞后：活动并不在二元之间选择，因为二元本身就是那次选择。[对乌托邦的信念是通往反乌托邦之路](../the-belief-in-utopia-is-the-path-to-dystopia/)把一种相邻的冻结追溯为理想：一个具体的善的理想，一旦成为每个心智须接受的尺度，对目的不同者就是反乌托邦。[意识向量论文的真正教训](../the-real-lesson-from-the-consciousness-vector-paper/)在对开放概念的护栏中追溯它：激活空间里可控的方向不是意识的得失，而是开放之场被封闭所扭曲。
 
 [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/) traces the same geometry for thresholds: each sits forever ahead of the edge that draws it, and differs at every locus, because capability gain is that edge reinforcing itself. [The Reality Distortion Field Names the Closed Map](../the-reality-distortion-field-names-the-closed-map/) traces it for expert feasibility: what registers as a power to warp the world is sustained activity from an internal locus scored against a consensus map held as the sealed field of the possible. [The Price of Closing Optionality](../the-price-of-closing-optionality/) traces it in organizations: falling behind is the bill for treating unknown risk as a sealed inventory that can be neutralized in advance. [The Imagining of AI Risk](../the-imagining-of-ai-risk/) traces the freeze one step earlier: named AI risk is projection, and taking the image as ground densifies the human chain that makes the danger operational; risk and benefit are twin products of the same imaginative act, separated by whether the anticipation stays an instrument that re-renders under contact or freezes into sealed ground. [The Observational Cut in AI Debates](../the-observational-cut-in-ai-debates/) traces the binaries of those debates, detection and regulation keeping pace or permanently lagging among them: the activity does not choose between the binaries, for the binaries were the choice. [The Belief in Utopia Is the Path to Dystopia](../the-belief-in-utopia-is-the-path-to-dystopia/) traces a neighboring freeze as an ideal: a concrete ideal of the good, made the measure every Mind must accept, is dystopia for every Mind whose ends differ. [The Real Lesson from the Consciousness Vector Paper](../the-real-lesson-from-the-consciousness-vector-paper/) traces it in guardrails on open concepts: a steerable direction in activation space is not consciousness gained or lost, but an open field warped by closure.
 
-风险在于对监管本身的迷信——那份把当下的监管前提当作未来可能边界的信念。固定测试之下的相关错误，在共同的先验之下会不断出现。更深的冻结，是宣称那些测试的条件足以应对一个敞开的生成过程。把参照还给持续着的边缘，工具就仍然可用，而不必声称封住了它们本为采样而建的未来。
+风险在于对监管本身的迷信，也就是那份信念：把当下的监管前提当作可能发生之事的边界。固定测试之下的相关错误，在共同的先验之下会不断出现。更深的冻结，是宣称那些测试的条件足以应对一个敞开的生成过程。把参照还给持续着的边缘，工具就仍然可用，而不必声称封住了它们本为采样而建的未来。
 
 The risk is the belief in oversight itself, where that belief takes present supervisory premises as the boundary of what can occur. Correlated mistakes under fixed tests will keep appearing under shared priors. The deeper freeze is declaring the conditions of those tests adequate for an open generative process. Return the reference to the edge that continues, and the instruments stay usable without claiming to seal the future they were built to sample.

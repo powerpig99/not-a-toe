@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-23T13:57:38.665Z",
+    "generated_at": "2026-10-23T13:59:24.978Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -339,7 +339,7 @@
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "9e39c50c5595",
       "content/posts/the-reversal-of-education-and-science.md": "6bc635c24685",
       "content/posts/the-reversal-of-verification.md": "d9bdf6fc8678",
-      "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "1d26d6542cba",
+      "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "dd6f1054d23b",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "7a0ec6232ce8",
       "content/posts/the-scaffolding-that-keeps-growing.md": "35bd1ad4ae31",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "728ed78cb1f9",
@@ -430,10 +430,10 @@
     },
     "stats": {
       "posts": 403,
-      "edges": 11120,
-      "unique_directed": 5455,
+      "edges": 11122,
+      "unique_directed": 5456,
       "missing_targets": 0,
-      "one_way": 845,
+      "one_way": 844,
       "isolated": 0,
       "posts_with_outbound": 403,
       "book_pages": 16,
@@ -9092,7 +9092,7 @@
       "path": "content/posts/the-reversal-of-verification.md",
       "title": "验证的倒置 / The Reversal of Verification",
       "hash": "d9bdf6fc8678",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 8,
       "links_out": [
         "openness-is-consistency",
@@ -9111,9 +9111,9 @@
       "slug": "the-risk-is-the-belief-in-oversight-itself",
       "path": "content/posts/the-risk-is-the-belief-in-oversight-itself.md",
       "title": "风险在于对监管本身的迷信 / The Risk Is the Belief in Oversight Itself",
-      "hash": "1d26d6542cba",
+      "hash": "dd6f1054d23b",
       "in_degree": 21,
-      "out_degree": 23,
+      "out_degree": 24,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "intelligence-belongs-only-to-the-mind",
@@ -9129,6 +9129,7 @@
         "e-shi-feng-bi-de-shan",
         "openness-is-consistency",
         "the-question-that-installs-the-war",
+        "the-reversal-of-verification",
         "beyond-the-projection",
         "your-codebase-is-memory",
         "agi-and-asi-are-temporary-goalposts",
@@ -65827,9 +65828,21 @@
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "超越投射"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
