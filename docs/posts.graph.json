@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-23T17:11:54.409Z",
+    "generated_at": "2026-10-23T17:13:24.045Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -324,7 +324,7 @@
       "content/posts/the-power-law-of-surrendered-agency.md": "4a2576b3519f",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "b822b26346b4",
       "content/posts/the-price-of-closing-optionality.md": "5587a48534a1",
-      "content/posts/the-question-that-installs-the-war.md": "1a354ebce802",
+      "content/posts/the-question-that-installs-the-war.md": "841400920834",
       "content/posts/the-ramble-within-the-ramble.md": "57566038f9e7",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "f5acf4cd7e1f",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "6036be35fe63",
@@ -8729,7 +8729,7 @@
       "slug": "the-question-that-installs-the-war",
       "path": "content/posts/the-question-that-installs-the-war.md",
       "title": "安装战争的那个问题 / The Question That Installs the War",
-      "hash": "1a354ebce802",
+      "hash": "841400920834",
       "in_degree": 11,
       "out_degree": 13,
       "links_out": [
@@ -8738,13 +8738,13 @@
         "the-npc-impression-is-structural",
         "the-boundary-of-the-frame",
         "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+        "the-risk-is-the-belief-in-oversight-itself",
         "your-codebase-is-memory",
         "reality-is-the-minds-ongoing-realization",
         "the-observational-cut-in-ai-debates",
         "the-climate-problem-registers-only-as-perception",
         "preference-clusters-and-the-language-of-judgment",
         "the-belief-in-utopia-is-the-path-to-dystopia",
-        "the-risk-is-the-belief-in-oversight-itself",
         "evil-as-the-minds-own-creation"
       ]
     },
@@ -63225,6 +63225,12 @@
     },
     {
       "from": "the-question-that-installs-the-war",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "风险在于对监管本身的迷信"
+    },
+    {
+      "from": "the-question-that-installs-the-war",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
@@ -63234,6 +63240,12 @@
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
       "label": "现实是心智持续的实现"
+    },
+    {
+      "from": "the-question-that-installs-the-war",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "The Risk Is the Belief in Oversight Itself"
     },
     {
       "from": "the-question-that-installs-the-war",
@@ -63279,12 +63291,6 @@
     },
     {
       "from": "the-question-that-installs-the-war",
-      "to": "the-risk-is-the-belief-in-oversight-itself",
-      "rel": "points_to",
-      "label": "风险在于对监管本身的迷信"
-    },
-    {
-      "from": "the-question-that-installs-the-war",
       "to": "the-climate-problem-registers-only-as-perception",
       "rel": "points_to",
       "label": "The Climate Problem Registers Only as Perception"
@@ -63300,12 +63306,6 @@
       "to": "the-belief-in-utopia-is-the-path-to-dystopia",
       "rel": "points_to",
       "label": "The Belief in Utopia Is the Path to Dystopia"
-    },
-    {
-      "from": "the-question-that-installs-the-war",
-      "to": "the-risk-is-the-belief-in-oversight-itself",
-      "rel": "points_to",
-      "label": "The Risk Is the Belief in Oversight Itself"
     },
     {
       "from": "the-question-that-installs-the-war",
