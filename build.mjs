@@ -27,8 +27,6 @@ const outputDir = path.join(scriptDir, 'public');
 const coversDir = path.join(scriptDir, 'assets', 'covers');
 const figuresDir = path.join(scriptDir, 'assets', 'figures');
 const infographicsDir = path.join(scriptDir, 'assets', 'infographics');
-// A film as a live page: assets/films is what studio/bin/export-live.mjs writes (lib/player.html, the kit, jobs/<slug>/).
-const filmsDir = path.join(scriptDir, 'assets', 'films');
 // The films of a post: data/youtube.json is the uploader's ledger, { videos: { <slug>: { en: { id }, zh: { id } } } }.
 const youtubeFile = path.join(scriptDir, 'data', 'youtube.json');
 const YOUTUBE = fs.existsSync(youtubeFile) ? (JSON.parse(fs.readFileSync(youtubeFile, 'utf8')).videos ?? {}) : {};
@@ -1793,19 +1791,12 @@ function renderPostMedia(post) {
   const switchHtml = langs.length > 1 && !post.bilingual
     ? `<div class="media-lang" role="group" aria-label="Language">${langs.map(([lang, name]) => `<button type="button" data-media-lang="${lang}" aria-pressed="false">${name}</button>`).join('')}</div>`
     : '';
-  // A film drawn on its own canvas (the atlas-engine films, #392 on) ships as one page, index.html, with its narration
-  // beside it, and is embedded as it is; a flat film is played by the shared player from its film.mjs.
-  const own = fs.existsSync(path.join(filmsDir, 'jobs', post.slug, 'index.html'));
-  const live = own || fs.existsSync(path.join(filmsDir, 'jobs', post.slug, 'film.mjs'));
   // A version for what a reader's browser may hold from before the last change: the bytes of the files that changed.
   const stamp = (dir) => { const h = crypto.createHash('sha256'); for (const f of fs.readdirSync(dir, { recursive: true }).sort()) { const full = path.join(dir, f); if (fs.statSync(full).isFile()) h.update(f).update(fs.readFileSync(full)); } return h.digest('hex').slice(0, 10); };
-  const filmV = live ? stamp(filmsDir) : '';
   const pageDir = path.join(infographicsDir, post.slug), page = fs.existsSync(path.join(pageDir, 'index.html')) ? `${withBase(`infographics/${post.slug}/`)}?v=${stamp(pageDir)}` : '';
   const data = (items, key) => items.map((x) => `data-${x.lang}="${escapeHtml(x[key])}"`).join(' ');
-  const frameHtml = live
-    ? `<div class="video-frame live"><iframe data-live src="${own ? `${withBase(`films/jobs/${post.slug}/`)}?embed=1&amp;v=${filmV}` : `${withBase('films/lib/player.html')}?job=${encodeURIComponent(post.slug)}&amp;embed=1&amp;v=${filmV}`}" title="Film" loading="lazy" allow="autoplay; fullscreen" allowfullscreen></iframe></div>`
-    : `<div class="video-frame" data-video ${data(videos, 'id')}></div>`;
-  const film = videos.length || live;
+  const frameHtml = `<div class="video-frame" data-video ${data(videos, 'id')}></div>`;
+  const film = videos.length;
   const audioHtml = episodes.length
     ? `<div class="audio-frame" data-audio ${data(episodes, 'id')}></div>
         <p class="meta media-links">Spotify: ${episodes.map((e) => `<a href="https://open.spotify.com/episode/${escapeHtml(e.id)}" rel="noopener noreferrer">${e.name}</a>`).join(' · ')}</p>`
@@ -1814,7 +1805,7 @@ function renderPostMedia(post) {
     ? `<section class="post-media">
         ${switchHtml}
         ${film ? `${frameHtml}
-        ${videos.length ? '' : '<!-- no YouTube copy -->'}<p class="meta media-links"${videos.length ? '' : ' hidden'}>YouTube: ${videos.map((v) => `<a href="https://youtu.be/${escapeHtml(v.id)}" rel="noopener noreferrer">${v.name}</a>`).join(' · ')}</p>` : ''}
+        <p class="meta media-links">YouTube: ${videos.map((v) => `<a href="https://youtu.be/${escapeHtml(v.id)}" rel="noopener noreferrer">${v.name}</a>`).join(' · ')}</p>` : ''}
         ${audioHtml}
       </section>`
     : '';
@@ -1829,13 +1820,7 @@ function renderPostMedia(post) {
   const script = `
       <script>
         (function () {
-          var KEY = 'nat-media-lang', video = document.querySelector('[data-video]'), audio = document.querySelector('[data-audio]'), figure = document.querySelector('[data-infographic]'), live = document.querySelector('[data-live]');
-          if (live) addEventListener('message', function (e) {
-            if (e.source !== live.contentWindow || !e.data) return;
-            // natFull: the film fills the window (where the browser has no page full screen), and gives it back
-            if ('natFull' in e.data) { live.parentNode.classList.toggle('full', !!e.data.natFull); document.documentElement.style.overflow = e.data.natFull ? 'hidden' : ''; }
-            if (e.data.natHeight) live.style.height = e.data.natHeight + 'px';
-          });
+          var KEY = 'nat-media-lang', video = document.querySelector('[data-video]'), audio = document.querySelector('[data-audio]'), figure = document.querySelector('[data-infographic]');
           var buttons = document.querySelectorAll('[data-media-lang]'), lang = null;
           try { lang = localStorage.getItem(KEY); } catch (e) {}
           if (lang !== 'en' && lang !== 'zh') lang = /^zh/i.test(navigator.language || '') ? 'zh' : 'en';
@@ -1855,7 +1840,6 @@ function renderPostMedia(post) {
             for (var i = 0; i < buttons.length; i++) buttons[i].setAttribute('aria-pressed', buttons[i].getAttribute('data-media-lang') === l ? 'true' : 'false');
             if (video) play();
             if (audio) listen();
-            if (live && keep && live.contentWindow) live.contentWindow.postMessage({ natLang: l }, location.origin);
             var page = figure && figure.getAttribute('data-page'), pane = figure && figure.querySelector('iframe');
             if (page && pane) { if (pane.getAttribute('data-lang') !== l) { pane.setAttribute('data-lang', l); pane.src = page + '&lang=' + l; } }
             else if (has(figure, l)) { figure.querySelector('img').src = has(figure, l); figure.querySelector('a').href = has(figure, l); }
@@ -2117,7 +2101,6 @@ function copyStaticAssets() {
     }
   }
 
-  if (fs.existsSync(filmsDir)) fs.cpSync(filmsDir, path.join(outputDir, 'films'), { recursive: true });
 
   if (fs.existsSync(infographicsDir)) fs.cpSync(infographicsDir, path.join(outputDir, 'infographics'), { recursive: true });
 
