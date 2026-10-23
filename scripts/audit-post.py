@@ -232,6 +232,14 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
     else:
         passes.append("Banned vocabulary check (0 prohibited terms)")
 
+    # Owner's post-draft re-read for claims made from nowhere: a signal listed in context, never a verdict.
+    prose = re.sub(r'\]\([^)]*\)', ']', content)  # link targets are slugs, not claims
+    probe_hits = [f"「{prose[max(0, m.start() - 12):m.end() + 8]}」".replace('\n', ' ')
+                  for p in ['真实', '真的', r'(?i)\breal\b', r'(?i)\bindeed\b', r'(?i)the world has']
+                  for m in re.finditer(p, prose)]
+    if probe_hits:
+        warnings.append(f"View-from-nowhere probes ({len(probe_hits)}): re-read each in context: " + ' '.join(probe_hits))
+
     # 2. LaTeX dollar audit
     # A $ opening or closing LaTeX math; a currency sign ($ followed by a digit) is not one
     dollar_count = len(re.findall(r'\$(?!\d)', content))
