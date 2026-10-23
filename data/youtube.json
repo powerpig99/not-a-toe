@@ -470,6 +470,38 @@
     "processed": "2026-10-23T04:24:00.609Z",
     "playlist": "PLGrxskF8JnDo"
    }
+  },
+  "the-density-of-judgment": {
+   "en": {
+    "id": "XANezpvnODI",
+    "url": "https://youtu.be/XANezpvnODI",
+    "title": "The Density of Judgment",
+    "privacy": "public",
+    "uploaded": "2026-10-23T07:54:35.524Z",
+    "file": "studio/post/the-density-of-judgment/final/film/film.en.mp4",
+    "sha256": {
+     "film": "7257beca1169a27b13c3916bb5694eb4facfd371301e0120bd55da5dfb99de46",
+     "intro": "104e3318095833ce98fb5d4b12db3a95a11ed67b5d87fe40b598080b7000df67"
+    },
+    "status": "processed",
+    "processed": "2026-10-23T07:55:28.099Z",
+    "playlist": "PLMyi7vp2KMyA"
+   },
+   "zh": {
+    "id": "dRwz5LjOtx8",
+    "url": "https://youtu.be/dRwz5LjOtx8",
+    "title": "判断的密度",
+    "privacy": "public",
+    "uploaded": "2026-10-23T07:56:30.906Z",
+    "file": "studio/post/the-density-of-judgment/final/film/film.zh.mp4",
+    "sha256": {
+     "film": "4ed4954210694bd053d683bddf76e48e574575f3f6e4915578aa5fa0fb583ee0",
+     "intro": "a09a1c7f50fa6dcd0d41724851f3c82c863a6299ff671ceb3f52280c48b08209"
+    },
+    "status": "processed",
+    "processed": "2026-10-23T07:57:44.318Z",
+    "playlist": "PLGrxskF8JnDo"
+   }
   }
  }
 }
