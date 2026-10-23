@@ -24,8 +24,7 @@ flowchart TD
         C_Bill["迟到的封闭账单：选择空间萎缩，开放竞争者在接触中复利"]
         C_Proj --> C_Seal --> C_Well --> C_Bill
     end
-
-    subgraph S_Open["本体论清晰（向无剧本摩擦保持敞开的坐标系）"]
+    subgraph S_Open["向无剧本摩擦保持敞开的坐标系"]
         direction TB
         O_Inst["暂时器具：安全边界作为当下负载之下的工作脚手架"]
         O_Ship["变密的接触：向开放场域发布，把公开或私下的失败登记为信号"]
@@ -33,9 +32,7 @@ flowchart TD
         O_Opt["保留下来的选择权：更新速度复利累积，过剩图像滞后收窄"]
         O_Inst --> O_Ship --> O_Step --> O_Opt
     end
-
     C_Bill ==>|"显出冻结并将统御交还给活的边缘"| O_Inst
-
     style S_Closed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style C_Proj fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -60,8 +57,7 @@ flowchart TD
         C_Bill["Delayed Bill of Closure: Option space shrinks while open competitors compound under contact"]
         C_Proj --> C_Seal --> C_Well --> C_Bill
     end
-
-    subgraph S_Open["Ontological Clarity (Coordinate Frame Kept Open to Unscripted Friction)"]
+    subgraph S_Open["Coordinate Frame Kept Open to Unscripted Friction"]
         direction TB
         O_Inst["Provisional Instrument: Safety bounds held as working scaffolding under present load"]
         O_Ship["Densified Contact: Ships into the open field and registers public or private failure as signal"]
@@ -69,9 +65,7 @@ flowchart TD
         O_Opt["Retained Optionality: Excess image lag narrows as update speed compounds"]
         O_Inst --> O_Ship --> O_Step --> O_Opt
     end
-
     C_Bill ==>|"Surfacing the freeze and restoring orchestration to the living edge"| O_Inst
-
     style S_Closed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style C_Proj fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
