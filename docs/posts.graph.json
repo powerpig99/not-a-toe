@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-23T14:02:36.851Z",
+    "generated_at": "2026-10-23T16:06:23.166Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -29,7 +29,7 @@
       "content/posts/beyond-the-hundred-trillion-horizon.md": "9258f29df286",
       "content/posts/beyond-the-projection.md": "8aa49cc778c2",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "e09e90b435e6",
-      "content/posts/causality-all-the-way.md": "1b0d5716f61a",
+      "content/posts/causality-all-the-way.md": "08a8a20f59ec",
       "content/posts/causality-and-the-irreducible-prior.md": "b7567896ebac",
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "315e72100b1f",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "6705615f135b",
@@ -1131,7 +1131,7 @@
       "slug": "causality-all-the-way",
       "path": "content/posts/causality-all-the-way.md",
       "title": "因果贯穿始终 / Causality All the Way",
-      "hash": "1b0d5716f61a",
+      "hash": "08a8a20f59ec",
       "in_degree": 37,
       "out_degree": 39,
       "links_out": [
@@ -14214,7 +14214,7 @@
       "from": "causality-all-the-way",
       "to": "stability-and-excess",
       "rel": "points_to",
-      "label": "Stability and excess: consciousness, introspection, and the cut of observation"
+      "label": "Stability and Excess"
     },
     {
       "from": "causality-all-the-way",
@@ -14412,7 +14412,7 @@
       "from": "causality-all-the-way",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
-      "label": "Complexity obscures: emergence as the act of Mind"
+      "label": "Complexity Obscures Emergence as the Act of Mind"
     },
     {
       "from": "causality-all-the-way",
@@ -14538,7 +14538,7 @@
       "from": "causality-all-the-way",
       "to": "qian-yin-hou-guo",
       "rel": "points_to",
-      "label": "Prior Cause, Subsequent Effect"
+      "label": "Cause Before, Effect After"
     },
     {
       "from": "causality-all-the-way",
@@ -14586,7 +14586,7 @@
       "from": "causality-all-the-way",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, boundaries, and the moving edge of reality"
+      "label": "Abstraction Boundaries and the Moving Edge of Reality"
     },
     {
       "from": "causality-all-the-way",
