@@ -41,7 +41,6 @@ flowchart TD
         M_Compound["自我放大：朝更窄的冗余滞后重绘当下检查点"]
         M_Steer --> M_Compound --> M_Init
     end
-
     subgraph S_Artifact["自我放大的制品（持久残余）"]
         direction TB
         A_Continuum["技术的连续体：文字、代码、软件栈与前沿模型"]
@@ -49,16 +48,13 @@ flowchart TD
         A_Deadlock["前提死锁隔离：暴露被压缩的轴线而不声称第二重边缘"]
         A_Continuum --> A_Agent --> A_Deadlock
     end
-
     subgraph S_Freeze["冗余图像滞后（第二重边缘的冻结）"]
         direction TB
         F_Lag["被保留的参照：把变密的流畅输出或未修剪的历史冻结为独立的发起者"]
     end
-
     M_Init ==>|"外化痕迹并框定前提"| A_Continuum
     A_Deadlock ==>|"将不可化约的死锁向上呈报以供取舍"| M_Steer
     A_Agent -.->|"当观察被保留到回返之后"| F_Lag
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Artifact fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -82,7 +78,6 @@ flowchart TD
         M_Compound["Self-Amplification: Re-renders present checkpoint toward narrower excess lag"]
         M_Steer --> M_Compound --> M_Init
     end
-
     subgraph S_Artifact["Artifacts of Self-Amplification (Durable Residue)"]
         direction TB
         A_Continuum["Continuum of Technology: Writing, code, software stacks & frontier models"]
@@ -90,16 +85,13 @@ flowchart TD
         A_Deadlock["Premise Deadlock Quarantine: Exposes compressed axes without claiming a second edge"]
         A_Continuum --> A_Agent --> A_Deadlock
     end
-
     subgraph S_Freeze["Excess Image Lag (The Second-Edge Freeze)"]
         direction TB
         F_Lag["Preserved Reference: Freezing densified fluency or unpruned history as an independent initiator"]
     end
-
     M_Init ==>|"Externalizes traces & frames premises"| A_Continuum
     A_Deadlock ==>|"Escalates irreducible deadlocks for retain-or-discard"| M_Steer
     A_Agent -.->|"When observation is held past return"| F_Lag
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Artifact fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -120,7 +112,7 @@ As the scaffolding densifies—more parameters, tighter feedback, longer coheren
 
 观察握住结果，在边缘之后一步登记，这是看本来的运作方式；滞后，始于把那一步的观察保留到它那一步之后，于是变密的表面被占据为第二个发起之处。[持续生长的脚手架](../the-scaffolding-that-keeps-growing/)追溯了这种生长：开放不是从一个完成的框架退后一步就能找回的，它是让每一个框架都保持未完成的条件。[免费智能的幻觉](../the-illusion-of-free-intelligence/)追溯了同一条路的两面：流畅残余的丰裕，是前沿智能仍在加速的反向信号，而残余的可得被冻结为心智的民主化。[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)把残余的光滑与前沿的不透明，追溯为对同一套未完成脚手架的两种局部读法：每一道门槛都永远立在画出它的边缘前方，在每个位置上都不同，因为能力的增益就是那道边缘在加强自身，没有什么离开。心智没有被取代；它在自己借以继续放大自身的那些工具后面，变得不那么可见了。
 
-Observation holds the effect and registers one step behind the edge; that is how the look works. Lag begins when that observation is preserved past its step, so the densified surface is occupied as a second locus of initiation. [The Scaffolding That Keeps Growing](../the-scaffolding-that-keeps-growing/) traces that growth: openness is not recovered by stepping back from a finished frame; it is the condition that keeps every frame unfinished. [The Illusion of Free Intelligence](../the-illusion-of-free-intelligence/) traces the two faces of one path: abundance of fluent residue is the inverse signal of frontier intelligence still accelerating, and residual access is frozen as democratization of Mind. [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/) traces residual smoothness and frontier opacity as two local readings of the same unfinished scaffolding: each threshold sits forever ahead of the edge that draws it, and differs at every locus, because capability gain is that edge reinforcing itself, and nothing leaves. The Mind has not been replaced; it has become less visible behind the tools through which it continues to amplify itself.
+Observation holds the effect and registers one step behind the edge; that is how the look works. Lag begins when that observation is preserved past its step, so the densified surface is occupied as a second locus of initiation. [The Scaffolding That Keeps Growing](../the-scaffolding-that-keeps-growing/) traces that growth: openness is not recovered by stepping back from a finished frame; it is the condition that keeps every frame unfinished. [The Illusion of Free Intelligence](../the-illusion-of-free-intelligence/) traces the two faces of one path: abundance of fluent residue is the inverse signal of frontier intelligence still accelerating, and residual access is frozen as democratization of Mind. [AGI and ASI Are Temporary Goalposts](../agi-and-asi-are-temporary-goalposts/) traces residual smoothness and frontier opacity as two local readings of the same unfinished scaffolding: each threshold sits forever ahead of the edge that draws it, and differs at every locus, because capability gain is that edge reinforcing itself, and nothing leaves. The Mind has not been replaced; it has become less visible behind the tools through which it continues to amplify itself.
 
 ## 四、 进步抬高均值，拉开分布 / 4. Progress Lifts the Mean and Stretches the Distribution
 
