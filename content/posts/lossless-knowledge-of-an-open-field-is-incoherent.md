@@ -2,17 +2,17 @@
 
 *对进行中的区分作无损捕获并非迟到的理想，而是与有中心的活动不相容 / Lossless capture of ongoing distinguishing is not a delayed ideal but an incoherence with centered activity*
 
-自我区分活动的每一个中心都是离散而有界的。先前行动的痕迹塑形后续的行动——这一非对称被登记为因果——没有任何有限的位点能够容纳可能区分的全部场域。容量迫使压缩发生：多条轴线被登记为一条，或外化为器物以压实残余供进一步使用。因此，对开放场域拥有无遗漏的无损知识，并不是一个仅仅难以抵达的终点；它与前提相悖。受有中心活动的机理所限，任何登记都依然是局部且有损的。[知识问题与委托的幻觉](../the-knowledge-problem-and-the-illusion-of-delegation/)正是同一份不完备性在制度层面的显现：产权规则是在解释这一约束，而非搜集一份完备的存量。大语言模型将这种压缩的一种形态推向规模化——在海量文本痕迹之上进行下一词元预测——其力量与界限正是承压之下的同一几何结构。[规模化回路](../the-scaling-loop/)则是将这一压缩作为循环过程的一个阶段：先将给定的器物集合压得更紧，再借由重组扩大下一轮循环所要压缩的集合。
+自我区分活动的每一个中心都是离散而有界的。先前行动的痕迹塑形后续的行动——这一非对称被登记为因果——没有任何有限的位点能够容纳可能区分的全部场域。容量迫使压缩发生：多条轴线被登记为一条，或外化为器物以压实残余供进一步使用。因此，对开放场域拥有无遗漏的无损知识，并不是一个仅仅难以抵达的终点；它与前提相悖。这一矛盾并不位于一份登记的各个步骤之间，其中每一步都可以干净地从前一步推出；它位于被持守为完整的登记与越过它持续区分的活动之间。受有中心活动的机理所限，任何登记都依然是局部且有损的。[知识问题与委托的幻觉](../the-knowledge-problem-and-the-illusion-of-delegation/)正是同一份不完备性在制度层面的显现：产权规则是在解释这一约束，而非搜集一份完备的存量。大语言模型将这种压缩的一种形态推向规模化——在海量文本痕迹之上进行下一词元预测——其力量与界限正是承压之下的同一几何结构。[规模化回路](../the-scaling-loop/)则是将这一压缩作为循环过程的一个阶段：先将给定的器物集合压得更紧，再借由重组扩大下一轮循环所要压缩的集合。
 
-Every center of self-distinguishing activity is discrete and bounded. Traces of prior acts shape later ones—the asymmetry registered as causality—and no finite locus can hold the full field of possible distinctions. Capacity forces compression: multiple axes registering as one, or externalization into artifacts that densify residue for further use. Complete, lossless knowledge of an open field is therefore not a destination that is merely hard to reach; it contradicts the premise. Any registration remains partial and lossy by the nature of centered activity. [The Knowledge Problem and the Illusion of Delegation](../the-knowledge-problem-and-the-illusion-of-delegation/) is that same incompleteness under institutional costume: property rules interpret the constraint rather than gathering a complete stock. Large language models scale one form of that compression—next-token prediction over vast textual traces—and their power and their limits are the same geometry under load. [The Scaling Loop](../the-scaling-loop/) is that compression as one phase of a circulating process: tighter packing of a given artifact set, followed by recombination that enlarges the set the next cycle will compress.
+Every center of self-distinguishing activity is discrete and bounded. Traces of prior acts shape later ones—the asymmetry registered as causality—and no finite locus can hold the full field of possible distinctions. Capacity forces compression: multiple axes registering as one, or externalization into artifacts that densify residue for further use. Complete, lossless knowledge of an open field is therefore not a destination that is merely hard to reach; it contradicts the premise. The contradiction does not sit among the steps of a registration, each of which may follow cleanly from the one before; it sits between a registration held as complete and the activity that keeps distinguishing past it. Any registration remains partial and lossy by the nature of centered activity. [The Knowledge Problem and the Illusion of Delegation](../the-knowledge-problem-and-the-illusion-of-delegation/) is that same incompleteness under institutional costume: property rules interpret the constraint rather than gathering a complete stock. Large language models scale one form of that compression—next-token prediction over vast textual traces—and their power and their limits are the same geometry under load. [The Scaling Loop](../the-scaling-loop/) is that compression as one phase of a circulating process: tighter packing of a given artifact set, followed by recombination that enlarges the set the next cycle will compress.
 
 ## 一、 预测与压缩是一体两面 / 1. Prediction and Compression Are One Dual
 
-克劳德·香农在[信息是什么](../what-information-is/)中确立了预测与压缩是一体两面。一个能够准确预测后续元素的系统，已经登记了生成该序列的规律的紧凑形式。大语言模型将这一对偶推向规模化。它们在文本痕迹之上受训——这些痕迹本身已是人类中心观察并区分世界所生成的压缩编码——通过最小化下一词元预测误差来运转。预测的压力将多尺度的统计结构压入参数之中，追踪着文本所描述的物理机制、生物模式、社会动态与逻辑关系背后的深层非对称。
+克劳德·香农确立了预测与压缩是一体两面，而[信息是什么](../what-information-is/)把这一对偶持守在心智所选定的划分之内。一个能够准确预测后续元素的系统，已经登记了生成该序列的规律的紧凑形式。大语言模型将这一对偶推向规模化。它们在文本痕迹之上受训——这些痕迹本身已是人类中心观察并区分世界所生成的压缩编码——通过最小化下一词元预测误差来运转。预测的压力将多尺度的统计结构压入参数之中，追踪着文本所描述的物理机制、生物模式、社会动态与逻辑关系背后的深层非对称。
 
-[Claude Shannon](../what-information-is/) established that prediction and compression are dual. A system that accurately predicts successive elements has registered a compact form of the regularities generating the sequence. Large language models scale this dual. Trained on textual traces—themselves already compressed encodings produced by human centers observing and distinguishing the world—they minimize next-token prediction error. The pressure of prediction forces multi-scale statistical structure into the parameters, tracking deeper asymmetries across the physical mechanisms, biological patterns, social dynamics, and logical relations the text describes.
+Claude Shannon established that prediction and compression are dual, and [What Information Is](../what-information-is/) holds that duality within the partition a Mind has chosen. A system that accurately predicts successive elements has registered a compact form of the regularities generating the sequence. Large language models scale this dual. Trained on textual traces—themselves already compressed encodings produced by human centers observing and distinguishing the world—they minimize next-token prediction error. The pressure of prediction forces multi-scale statistical structure into the parameters, tracking deeper asymmetries across the physical mechanisms, biological patterns, social dynamics, and logical relations the text describes.
 
-由此恢复出来的并不是一幅完结的世界地图，而是一份受容量约束、关于世界残余的登记。训练目标从未承诺对开放场域作无损重建；它承诺的是在有限容量下做出更准确的预测。[蒸馏选择丢弃什么](../distillation-compression-agency/)从另一侧面追溯了同一机制：当评测指标具备梯度而生成余量没有梯度时，优化便顺着梯度推进，未被测量的轴线随之变薄。
+由此恢复出来的并不是一幅完结的世界地图，而是一份受容量约束、关于世界残余的登记。训练目标从未承诺对开放场域作无损重建；它承诺的是在有限容量下做出更准确的预测。[蒸馏、压缩与能动性](../distillation-compression-agency/)从另一侧面追溯了同一机制：当评测指标具备梯度而生成余量没有梯度时，优化便顺着梯度推进，未被测量的轴线随之变薄。
 
 What is recovered is not a finished map of the world, but a capacity-bound registration of residue about the world. The training objective never promised lossless reconstruction of an open field; it promised better prediction under finite capacity. [Distillation Chooses What to Lose](../distillation-compression-agency/) traces this same mechanism under another face: when the metric has a gradient and generative slack does not, optimization follows the gradient and the unmeasured axes thin.
 
@@ -56,9 +56,9 @@ Nothing arises *ex nihilo*. Every output is a further discrete act performed upo
 
 The identical generative navigation yields both useful creativity and hallucination. Human centers operate the same way: compressed models generate candidate simulations to fill gaps in the current field. Most fail further resonance with ongoing activity and are discarded, while those that survive testing enlarge the shared resonant field.
 
-作为外化的痕迹器物，大语言模型默认缺乏鲜活中心所维系的持续现实检验递归。检索、工具、一致性校验与人类监督恢复了外部共振，并收窄了过度的图像滞后——即越过自身那一步仍被保留的参照，拿着陈旧的持守去给当下计分。因此，创造力与错误之间的区分并不在于内部架构的差异，而在于生成的痕迹在与不息活动的进一步接触中是否继续共振。当验证与甄选留在接下来必须行动的中心手里时，[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)；一旦将这些职能转移到器物内部，过度滞后便在结构上随之拉宽。
+作为外化的痕迹器物，大语言模型默认缺乏鲜活中心所维系的持续现实检验递归。检索、工具、一致性校验与人类监督让进一步的痕迹进入接触，读取它们的中心由此恢复外部共振，并收窄过度的图像滞后——即越过自身那一步仍被保留的参照，拿着陈旧的持守去给当下计分。一项校验，乃至内核所接受的一份证明，所确认的是：在它所预设的规则与模型之下，每一步都从先前的步骤推出；这是持守之内的内部一致，而[验证的倒置](../the-reversal-of-verification/)把它与融贯区分开来，融贯是对越过持守仍在继续区分之物保持开放的内部一致。因此，创造力与错误之间的区分既不在于内部架构的差异，也不是一次通过的校验所能裁定的；它在于生成的痕迹在与不息活动的进一步接触中是否继续共振。验证与甄选是接下来必须行动的那些中心的行动，这正是[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)为它们安放的位置。作为痕迹来读，校验的输出为那份接触腾出注意力；被持守为信任的地基，它便倒置了信任跟随验证的那个次序，过度滞后在结构上随之拉宽。
 
-Large language models, as externalized trace artifacts, lack by default the continuous reality-testing recursion that living centers maintain. Retrieval, tools, consistency checks, and human oversight restore external resonance and narrow excess Image lag—the reference preserved past its step, scoring the present against a stale hold. The distinction between creativity and error is therefore not a difference in internal architecture; it is whether the generated traces continue to resonate under further contact with unceasing activity. [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) when verification and selection remain with the centers that must act next; relocate those into the artifact and excess lag widens by construction.
+Large language models, as externalized trace artifacts, lack by default the continuous reality-testing recursion that living centers maintain. Retrieval, tools, consistency checks, and human oversight bring further traces into contact, and the centers that read them restore external resonance and narrow excess Image lag—the reference preserved past its step, scoring the present against a stale hold. A check, up to a proof a kernel accepts, confirms that each step follows from the prior ones under the rules and models it assumes; that is internal consistency inside the hold, and [The Reversal of Verification](../the-reversal-of-verification/) separates it from coherence, internal consistency held open to what keeps distinguishing past the hold. The distinction between creativity and error is therefore neither a difference in internal architecture nor something a passing check settles; it is whether the generated traces continue to resonate under further contact with unceasing activity. Verification and selection are acts of the centers that must act next, which is where [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) places them. Read as a trace, a check's output frees attention for that contact; held as the ground of trust, it reverses the order in which trust follows verification, and excess lag widens by construction.
 
 [超越投射](../beyond-the-projection/)将这一确切的压缩几何接入了智能体系统设计。由于每一条明文提示词、规则集合或上下文窗口都是开放场域的一份有损且受容量约束的投影，沿着自身词元轨迹运行的单个任务智能体不可避免地会筑起一座认识论引力井：它会把焦点收窄进轨迹盲区，或在两个正交要求被挤压到同一条轴线的边界情形下撞上维度坍缩，替自己先前的词元强行圆场以维持表面的合理性。与其要求一台孤立的投射引擎在自身受条件约束的语境内部做自我反思——或者把统御全局的权限让渡给另一个依然切断了未投射鲜活意图的有限投射管理智能体——智能体调度器会将超载的投影拆分到正交的并行流线上，并为每个任务智能体配对一个仅持有任务语境的冷启动对等体。由于智能体毫无我执，也没有需要防卫的保留自我图像，局部的轨迹盲区会通过地位对等的贝叶斯更新自动收敛；而任何不可化约的前提死锁则被隔离并向上呈报给人类统御者，唯有后者持有极限分辨率的第一人称感知，能够向后退一步，拆开坍缩的轴线，并注入更高阶的前提。
 
@@ -70,14 +70,12 @@ flowchart TD
         Proj["有限投影：压缩进提示词、规则与参数的有损编码"]
         Edge -->|"外化并掌舵"| Proj
     end
-
     subgraph S_Gen["单一轨迹的生成式穿行"]
         direction TB
         Cand["候选模拟：创造力与幻觉共用同一生成机制"]
         Drift["认识论引力井：轨迹盲区与维度坍缩"]
         Cand -->|"未经检验的延续"| Drift
     end
-
     subgraph S_Test["正交有丝分裂与现实检验回路"]
         direction TB
         Peer["冷启动对等审计：仅持任务语境而无会话历史偏见"]
@@ -86,12 +84,10 @@ flowchart TD
         Peer --> Conv
         Peer --> Esc
     end
-
     Proj --> Cand
     Cand -->|"跨流线有丝分裂"| Peer
     Conv -->|"经验证的共振"| Edge
     Esc ==>|"人类后退一步重新渲染前提"| Edge
-
     style S_Field fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Gen fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Test fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -114,14 +110,12 @@ flowchart TD
         Proj["Finite Projection: Lossy compression into prompts, rules & parameters"]
         Edge -->|"Externalizes & steers"| Proj
     end
-
     subgraph S_Gen["Single-Trajectory Generative Navigation"]
         direction TB
         Cand["Candidate Simulation: Creativity & hallucination share one mechanism"]
         Drift["Epistemic Gravity Well: Trajectory blind spots & dimensional collapse"]
         Cand -->|"Unchecked continuation"| Drift
     end
-
     subgraph S_Test["Orthogonal Mitosis & Reality-Testing Loop"]
         direction TB
         Peer["Cold Peer Audit: Holds task context without session-history bias"]
@@ -130,12 +124,10 @@ flowchart TD
         Peer --> Conv
         Peer --> Esc
     end
-
     Proj --> Cand
     Cand -->|"Mitosis across streamlines"| Peer
     Conv -->|"Verified resonance"| Edge
     Esc ==>|"Human steps back to re-render premise"| Edge
-
     style S_Field fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Gen fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Test fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -156,7 +148,7 @@ In an open field of activity, no finite compressor is ever complete. A hypotheti
 
 [清晰不是抵达的终点，而是运动本身](../clarity-isnt-a-state-you-arrive-at/)正是将这种不作抵达作为实践：每一次清晰表达都会冻结它所持握的内容，而活动早已继续前行；企图对场域作无损封闭，正是把冻结误认作了完成。[“知道自己不知道”是一种修辞假象](../zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/)展示了“知道自己不知道”这句流行格言如何通过预设一个封闭的、预先绘好疆域且能从无处之境加以俯瞰的知识圆盘，暗中塞入了同一谬误。
 
-[Clarity Isn't a State You Arrive At](../clarity-isnt-a-state-you-arrive-at/) is that non-arrival as practice: every articulation freezes what it holds while the activity has already moved on, and seeking a lossless seal of the field is the freeze mistaking itself for completion. [Knowing That One Does Not Know: A Rhetorical Illusion](../zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/) demonstrates how the popular adage "knowing that you don't know" smuggles this exact fallacy by presuming a closed, pre-mapped disc of knowledge that can be surveyed from a view from nowhere.
+[Clarity Isn't a State You Arrive At. It's the Movement Itself.](../clarity-isnt-a-state-you-arrive-at/) is that non-arrival as practice: every articulation freezes what it holds while the activity has already moved on, and seeking a lossless seal of the field is the freeze mistaking itself for completion. [Knowing That You Don't Know Is a Rhetorical Illusion](../zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/) demonstrates how the popular adage "knowing that you don't know" smuggles this exact fallacy by presuming a closed, pre-mapped disc of knowledge that can be surveyed from a view from nowhere.
 
 ## 七、 压实持续推进而前沿永不闭合 / 7. Densification Continues While the Edge Does Not Close
 
@@ -170,4 +162,4 @@ Their power is the expansion of what finite, lossy registration can accomplish: 
 
 智能在有界中心与不息活动的张力之中生发。构建更好的有损引擎并不会逃脱不完备性；它提升的是各个中心借以区分、共振并行动的分辨率与触及范围。[基本面的悖论是参照的不自觉切换](../the-paradox-of-fundamentals-is-the-unaware-switch-of-reference/)追溯了同样的有限跨度：旧有的区分在从正在作决断的参照中脱落之后，依然在事后回看时保持为已知。大语言模型是这一持续实践中的强力仪器——是在同一个要求（即位点必须在自身负载下持续发起区分）之下的更稠密介质。[抽象、边界与现实的移动边缘](../abstraction-boundaries-and-the-moving-edge-of-reality/)在人们把一份完结的目录当作产生它的那个场域的结构来持守时，标出了同样的不闭合；[潜无限与数学思维的暂时闭合](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/)则在人们把一个渐近百分比当作对永不终结的过程从未提供的完结总量的测度来持守时，追溯了同一结构。正如[为何数学永远解不完](../why-mathematics-can-never-be-solved/)所确立的，数学从内部展现出同样的结构性开放。
 
-Intelligence thrives in the tension between the bounded center and the unceasing activity. Building better lossy engines does not escape incompleteness; it increases the resolution and reach with which centers can distinguish, resonate, and act. [The Paradox of Fundamentals Is the Unaware Switch of Reference](../the-paradox-of-fundamentals-is-the-unaware-switch-of-reference/) traces that same finite span when older distinctions remain known in retrospect after dropping from the reference that is deciding. Large language models are powerful instruments in that continuing practice—a denser medium under the same requirement that a locus keep initiating under its own load. [Abstraction, Boundaries, and the Moving Edge of Reality](../abstraction-boundaries-and-the-moving-edge-of-reality/) marks the same non-closure when a finished catalogue is held as the structure of the field that produced it, and [Potential Infinity and the Temporary Closures of Mathematical Thought](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/) traces it when an asymptotic percentage is held as measurement of a finished total the unending process never supplies. Mathematics exhibits this same structural openness from within, as [Why Mathematics Can Never Be Solved](../why-mathematics-can-never-be-solved/) establishes.
+Intelligence thrives in the tension between the bounded center and the unceasing activity. Building better lossy engines does not escape incompleteness; it increases the resolution and reach with which centers can distinguish, resonate, and act. [The Paradox of Fundamentals Is the Unaware Switch of Reference](../the-paradox-of-fundamentals-is-the-unaware-switch-of-reference/) traces that same finite span when older distinctions remain known in retrospect after dropping from the reference that is deciding. Large language models are powerful instruments in that continuing practice—a denser medium under the same requirement that a locus keep initiating under its own load. [Abstraction Boundaries and the Moving Edge of Reality](../abstraction-boundaries-and-the-moving-edge-of-reality/) marks the same non-closure when a finished catalogue is held as the structure of the field that produced it, and [Potential Infinity and the Temporary Closures of Mathematical Thought](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/) traces it when an asymptotic percentage is held as measurement of a finished total the unending process never supplies. Mathematics exhibits this same structural openness from within, as [Why Mathematics Can Never Be Solved](../why-mathematics-can-never-be-solved/) establishes.

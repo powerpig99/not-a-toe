@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-23T16:42:28.769Z",
+    "generated_at": "2026-10-23T16:44:30.841Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -114,7 +114,7 @@
       "content/posts/judgment-is-not-a-stock.md": "9526af861c78",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "b5bfd1bca0dc",
       "content/posts/looping-and-graphing.md": "81007251f9d4",
-      "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "edbfa0fe5c9b",
+      "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "659c68bf2162",
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "d7b5f20a6f6a",
       "content/posts/manifesto-of-not-a-theory-of-everything.md": "5b88319c7739",
       "content/posts/math-as-a-career-is-not-math-as-a-pursuit.md": "1a1944105695",
@@ -430,10 +430,10 @@
     },
     "stats": {
       "posts": 403,
-      "edges": 11132,
-      "unique_directed": 5461,
+      "edges": 11134,
+      "unique_directed": 5462,
       "missing_targets": 0,
-      "one_way": 847,
+      "one_way": 848,
       "isolated": 0,
       "posts_with_outbound": 403,
       "book_pages": 16,
@@ -3418,9 +3418,9 @@
       "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
       "path": "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md",
       "title": "开放场域中的无损知识不自洽 / Lossless Knowledge of an Open Field Is Incoherent",
-      "hash": "edbfa0fe5c9b",
+      "hash": "659c68bf2162",
       "in_degree": 24,
-      "out_degree": 24,
+      "out_degree": 25,
       "links_out": [
         "the-knowledge-problem-and-the-illusion-of-delegation",
         "the-scaling-loop",
@@ -3436,6 +3436,7 @@
         "no-system-can-be-kept-closed",
         "complexity-obscures-emergence-as-the-act-of-mind",
         "token-efficiency-emulation-and-the-unclosable-gap",
+        "the-reversal-of-verification",
         "causality-stays-at-the-edge-that-steers",
         "beyond-the-projection",
         "your-codebase-is-memory",
@@ -9097,7 +9098,7 @@
       "path": "content/posts/the-reversal-of-verification.md",
       "title": "验证的倒置 / The Reversal of Verification",
       "hash": "d9bdf6fc8678",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 8,
       "links_out": [
         "openness-is-consistency",
@@ -29577,13 +29578,13 @@
       "from": "lossless-knowledge-of-an-open-field-is-incoherent",
       "to": "what-information-is",
       "rel": "points_to",
-      "label": "Claude Shannon"
+      "label": "What Information Is"
     },
     {
       "from": "lossless-knowledge-of-an-open-field-is-incoherent",
       "to": "distillation-compression-agency",
       "rel": "points_to",
-      "label": "蒸馏选择丢弃什么"
+      "label": "蒸馏、压缩与能动性"
     },
     {
       "from": "lossless-knowledge-of-an-open-field-is-incoherent",
@@ -29713,9 +29714,21 @@
     },
     {
       "from": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "lossless-knowledge-of-an-open-field-is-incoherent",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
       "label": "因果停留在掌舵的边缘"
+    },
+    {
+      "from": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
     },
     {
       "from": "lossless-knowledge-of-an-open-field-is-incoherent",
@@ -29763,13 +29776,13 @@
       "from": "lossless-knowledge-of-an-open-field-is-incoherent",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
-      "label": "Clarity Isn't a State You Arrive At"
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
     },
     {
       "from": "lossless-knowledge-of-an-open-field-is-incoherent",
       "to": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
       "rel": "points_to",
-      "label": "Knowing That One Does Not Know: A Rhetorical Illusion"
+      "label": "Knowing That You Don't Know Is a Rhetorical Illusion"
     },
     {
       "from": "lossless-knowledge-of-an-open-field-is-incoherent",
@@ -29817,7 +29830,7 @@
       "from": "lossless-knowledge-of-an-open-field-is-incoherent",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
+      "label": "Abstraction Boundaries and the Moving Edge of Reality"
     },
     {
       "from": "lossless-knowledge-of-an-open-field-is-incoherent",
