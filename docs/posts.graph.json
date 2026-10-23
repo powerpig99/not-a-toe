@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-23T16:49:48.248Z",
+    "generated_at": "2026-10-23T16:51:11.591Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -329,7 +329,7 @@
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "f5acf4cd7e1f",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "f4beffd39c0c",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "0cf0b2a0f096",
-      "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "7efd08cd840c",
+      "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "e25d00e96b60",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "3f4e0e3db4b8",
       "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "ad7483982bf1",
       "content/posts/the-reflexive-dilemma-of-unique-insight.md": "4e3a2ae77041",
@@ -430,10 +430,10 @@
     },
     "stats": {
       "posts": 403,
-      "edges": 11136,
-      "unique_directed": 5463,
+      "edges": 11138,
+      "unique_directed": 5464,
       "missing_targets": 0,
-      "one_way": 849,
+      "one_way": 850,
       "isolated": 0,
       "posts_with_outbound": 403,
       "book_pages": 16,
@@ -8866,12 +8866,13 @@
       "slug": "the-reality-distortion-field-inverts-the-baseline",
       "path": "content/posts/the-reality-distortion-field-inverts-the-baseline.md",
       "title": "现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline",
-      "hash": "7efd08cd840c",
+      "hash": "e25d00e96b60",
       "in_degree": 18,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "the-reality-distortion-field-names-the-closed-map",
         "how-belief-actually-changes",
+        "the-reversal-of-verification",
         "symptom-and-cause-in-the-narratives-of-progress",
         "the-utility-men-of-progress",
         "hierarchy-from-individual-difference",
@@ -9099,7 +9100,7 @@
       "path": "content/posts/the-reversal-of-verification.md",
       "title": "验证的倒置 / The Reversal of Verification",
       "hash": "d9bdf6fc8678",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 8,
       "links_out": [
         "openness-is-consistency",
@@ -64119,6 +64120,18 @@
     },
     {
       "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
+    },
+    {
+      "from": "the-reality-distortion-field-inverts-the-baseline",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
       "label": "进步叙事中的症候与原因"
@@ -64271,7 +64284,7 @@
       "from": "the-reality-distortion-field-inverts-the-baseline",
       "to": "a-new-deeper-look-at-antifragility",
       "rel": "points_to",
-      "label": "A New Deeper Look at Antifragility: Prosthesis, Not Driver"
+      "label": "A New Deeper Look at Antifragility"
     },
     {
       "from": "the-reality-distortion-field-inverts-the-baseline",
