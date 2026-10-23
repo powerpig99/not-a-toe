@@ -40,25 +40,21 @@ flowchart TD
         OpenField["无尽的生成过程：零点与区分不断延伸而无末项"]
         Edge --> OpenField
     end
-
     subgraph S_Closure["暂时的形式闭合（有限投射）"]
         direction TB
         Bracket["语境前提：括起残余开放性以设定渐近分母"]
         Deduct["受限于轨迹的执行：作为当下检查点将认证下界从 41.6% 推至 67.2%"]
         Bracket --> Deduct
     end
-
     subgraph S_Reify["实体化的实无限（冻结的丰碑）"]
         direction TB
         Illusion["穷尽整体的宣称：将设定的分母误认作已清点的整体"]
         Collision["不完备性与矛盾：有限持守被迫封死其所括起的开口"]
         Illusion --> Collision
     end
-
     OpenField ==>|"为工作设定可修正的脚手架"| Bracket
     Deduct ==>|"暴露出边界并在边缘重新生成前提"| Edge
     Deduct -.->|"越过该步仍被执为无损地基"| Illusion
-
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Closure fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Reify fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -80,25 +76,21 @@ flowchart TD
         OpenField["Unending Generative Process: Zeros and distinctions extend without a final element"]
         Edge --> OpenField
     end
-
     subgraph S_Closure["Temporary Formal Closure (Finite Projection)"]
         direction TB
         Bracket["Contextual Premise: Brackets residual openness to posit an asymptotic denominator"]
         Deduct["Trajectory-Bound Execution: Certifies bounds from 41.6% to 67.2% as a present checkpoint"]
         Bracket --> Deduct
     end
-
     subgraph S_Reify["Reified Actual Infinity (The Frozen Monument)"]
         direction TB
         Illusion["Exhaustive Totality Claim: Mistakes the posited denominator for a surveyed whole"]
         Collision["Incompleteness & Contradiction: Finite hold forced to seal the opening it bracketed"]
         Illusion --> Collision
     end
-
     OpenField ==>|"Posits revisable scaffolding for work"| Bracket
     Deduct ==>|"Surfaces boundary & re-renders premise at the edge"| Edge
     Deduct -.->|"Held past its step as lossless ground"| Illusion
-
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Closure fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Reify fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -112,9 +104,9 @@ flowchart TD
 
 ## 五、 关于适用范围的争论，暴露出被括起来的开口 / 5. Disputes over Scope Expose Bracketed Openings
 
-关于具体数学结论的适用范围或权威性的争论，屡屡将这一结构模式暴露出来。每一次争论，都揭示出又一处为了推进某项主张而被置入括号的开口。在主流数学实践中，首要地将无限保持为潜在的生成，且仅将“已完成的整体”接纳为明确、可修正的前提，这一取向并不常被强调。主流实践对其承诺有着正当的结构性理由：设定实无限催生了现代数学宏大而自洽的理论架构。然而，较少见的潜无限立场依然具有深层的澄清力量，因为它将这些承诺的暂时性始终保持在明处。在特定闭合下确立的成果，其有效性完好无损；但从这一有效性中推导不出的，是宣称此类闭合构成了思维的穷尽视界。[抽象、边界与现实的移动边缘](../abstraction-boundaries-and-the-moving-edge-of-reality/)以清单与目录的语言阐明了同一种拒绝闭合的态度：一份暂时的目录只是当下运作的抽象边界所留下的残余，从不是生成场域本身的穷尽结构。
+关于具体数学结论的适用范围或权威性的争论，屡屡将这一结构模式暴露出来。每一次争论，都揭示出又一处为了推进某项主张而被置入括号的开口。在主流数学实践中，首要地将无限保持为潜在的生成，且仅将“已完成的整体”接纳为明确、可修正的前提，这一取向并不常被强调。主流实践对其承诺有其结构性理由：设定实无限催生了现代数学宏大而自洽的理论架构。然而，较少见的潜无限立场依然具有深层的澄清力量，因为它将这些承诺的暂时性始终保持在明处。在特定闭合下确立的成果，其有效性完好无损；但从这一有效性中推导不出的，是宣称此类闭合构成了思维的穷尽视界。[抽象、边界与现实的移动边缘](../abstraction-boundaries-and-the-moving-edge-of-reality/)以清单与目录的语言阐明了同一种拒绝闭合的态度：一份暂时的目录只是当下运作的抽象边界所留下的残余，从不是生成场域本身的穷尽结构。
 
-Disputes over the scope or authority of particular mathematical results repeatedly expose this pattern. Each controversy uncovers yet another place where an opening was bracketed so that a claim could be advanced. Maintaining infinity primarily in view as potential—admitting completed totalities only as explicit, revisable premises—is a disposition rarely emphasized in prevailing mathematical practice. That practice has legitimate structural reasons for its commitment: positing actual infinities has yielded an immense, coherent architecture of modern mathematics. Yet the less common potentialist stance remains deeply clarifying, because it keeps the provisional nature of these commitments in plain sight. The validity of results established under a specific closure remains intact; what does not follow from that validity is the claim that such closures constitute the exhaustive horizon of thought. [Abstraction, Boundaries, and the Moving Edge of Reality](../abstraction-boundaries-and-the-moving-edge-of-reality/) articulates this refusal to close in the language of inventories: a temporary catalogue is the residue of an operative abstraction boundary, never the exhaustive structure of the generative field.
+Disputes over the scope or authority of particular mathematical results repeatedly expose this pattern. Each controversy uncovers yet another place where an opening was bracketed so that a claim could be advanced. Maintaining infinity primarily in view as potential—admitting completed totalities only as explicit, revisable premises—is a disposition rarely emphasized in prevailing mathematical practice. That practice has structural reasons for its commitment: positing actual infinities has yielded an immense, internally consistent architecture of modern mathematics. Yet the less common potentialist stance remains deeply clarifying, because it keeps the provisional nature of these commitments in plain sight. The validity of results established under a specific closure remains intact; what does not follow from that validity is the claim that such closures constitute the exhaustive horizon of thought. [Abstraction, Boundaries, and the Moving Edge of Reality](../abstraction-boundaries-and-the-moving-edge-of-reality/) articulates this refusal to close in the language of inventories: a temporary catalogue is the residue of an operative abstraction boundary, never the exhaustive structure of the generative field.
 
 ## 六、 百分之六十七点二，相对于那个前提是可靠的 / 6. 67.2 Percent Is Reliable Relative to the Premise
 
