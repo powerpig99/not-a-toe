@@ -12,7 +12,7 @@ A familiar story treats prosperity, generation, environment, or temperament as f
 
 Self-distinguishing activity occurs, uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. It occurs at loci. Each locus draws discrete distinctions; earlier acts shape the field available to later ones; that shaping runs one way. Causality is the activity registering that asymmetry through its own recursion, not a relation between independent things, and not a property that can be relocated into a category, a cohort, or a condition. [Causality All the Way](../causality-all-the-way/) traces that asymmetry from held effects to drawn patterns to the next step: causality is still the edge drawing its path. [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) traces it where a model recombines residue under direction: every initiating distinction remains the human center’s own act. Each lever is a vector; conditions are not a second vector beside it but residue of many levers, registered at this one as field ([Dimensions Are Projections](../dimensions-are-projections/) and [The Vector and the Puzzle of Projections](../the-vector-and-the-puzzle-of-projections/) trace how such residue is compressed into dimensions); [What Information Is](../what-information-is/) adds that information is the distinction the lever draws.
 
-被称为个体抉择的东西，是一个所在上的那种登记：这一个行动，然后下一个，处在一个已被先前行动定型的场之下。每一个这样的行动都是它自己的杠杆：受它之前的行动定型，不由其中任何一个发起，不是“个体抉择”这块共享平面上的一个位置。无论是人群的聚合、世代标签、繁荣或安逸之类的环境条件，还是心理模式，都没有被赋予第二根发起的杠杆。这些名称标示的是残余的构型：许多离散行动的致密痕迹，作为场供较晚的行动取用。它们并不执行产生了它们的那次区分。[代码库即记忆](../your-codebase-is-memory/)在一段外化的代码库或记忆套具中追溯同一种结构：保存下来的规则、笔记与检查点，是较早的离散抉择留下的致密痕迹，它们定型下一步的回报之场，却从不成为发起的第二台引擎；而要让这份外化的记忆保持鲜活，当下的所在就得持续重描并修剪留在执行路径上的东西，而不是把累积的档案当作自行动作的能动性。[不预测是没有觉察的预测](../not-predicting-is-predicting-without-awareness/)追溯这个场：当下推迟的方法，只作为先前预测的残余而可得，既有他人的，也有自己的。阻力之所以被感受到，只因为有人在拉；[减速是加速时感受到的阻力](../deceleration-is-the-drag-felt-when-accelerating/)与[阻力体感与速率差](../felt-resistance-and-the-speed-differential/)把阻力读作速率差，而不是第二台引擎。
+被称为个体抉择的东西，是一个所在上的那种登记：这一个行动，然后下一个，处在一个已被先前行动定型的场之下。每一个这样的行动都是它自己的杠杆：受它之前的行动定型，不由其中任何一个发起，不是“个体抉择”这块共享平面上的一个位置。无论是人群的聚合、世代标签、繁荣或安逸之类的环境条件，还是心理模式，都没有被赋予第二根发起的杠杆。这些名称标示的是残余的构型：许多离散行动的致密痕迹，作为场供较晚的行动取用。它们并不执行产生了它们的那次区分。[你的代码库即是记忆](../your-codebase-is-memory/)在一段外化的代码库或记忆套具中追溯同一种结构：保存下来的规则、笔记与检查点，是较早的离散抉择留下的致密痕迹，它们定型下一步的回报之场，却从不成为发起的第二台引擎；而要让这份外化的记忆保持鲜活，当下的所在就得持续重描并修剪留在执行路径上的东西，而不是把累积的档案当作自行动作的能动性。[不预测是没有觉察的预测](../not-predicting-is-predicting-without-awareness/)追溯这个场：当下推迟的方法，只作为先前预测的残余而可得，既有他人的，也有自己的。阻力之所以被感受到，只因为有人在拉；[减速是加速时感受到的阻力](../deceleration-is-the-drag-felt-when-accelerating/)与[阻力体感与速率差](../felt-resistance-and-the-speed-differential/)把阻力读作速率差，而不是第二台引擎。
 
 ```mermaid
 flowchart TD
@@ -22,25 +22,21 @@ flowchart TD
         L_Next["相继拉动：在场之下维持或放松一致性"]
         L_Act --> L_Next
     end
-
     subgraph S_Field["残余之场（聚合、条件与器具）"]
         direction TB
         F_Trace["致密痕迹：先前行动、繁荣、世代与工具"]
         F_Payoff["回报地形：定型可得性与返回速率而不发起"]
         F_Trace --> F_Payoff
     end
-
     subgraph S_Reloc["移置的登记（外化的解释）"]
         direction TB
         R_Hold["保存的参照：把条件、世代或工具持为第二台引擎"]
         R_Alien["挪移的登记：后果被登记为由境遇带来"]
         R_Hold --> R_Alien
     end
-
     L_Next ==>|"向场中沉积持久痕迹"| F_Trace
     F_Payoff ==>|"塑形供行动取用的场"| L_Act
     F_Payoff -.->|"被误认作共同作者"| R_Hold
-
     style S_Locus fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Field fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Reloc fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -62,25 +58,21 @@ flowchart TD
         L_Next["Successive Pull: Sustains or relaxes consistency under the field"]
         L_Act --> L_Next
     end
-
     subgraph S_Field["Residual Field (Aggregates, Conditions, and Instruments)"]
         direction TB
         F_Trace["Densified Traces: Prior acts, prosperity, cohorts, and tools"]
         F_Payoff["Payoff Landscape: Patterns availability and return speed without initiating"]
         F_Trace --> F_Payoff
     end
-
     subgraph S_Reloc["Relocated Registration (Externalizing Explanation)"]
         direction TB
         R_Hold["Preserved Reference: Holds condition, generation, or tool as a second engine"]
         R_Alien["Displaced Registration: Consequences register as arriving from circumstance"]
         R_Hold --> R_Alien
     end
-
     L_Next ==>|"Deposits durable traces into"| F_Trace
     F_Payoff ==>|"Shapes field taken up by"| L_Act
     F_Payoff -.->|"Mistaken for co-author"| R_Hold
-
     style S_Locus fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Field fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Reloc fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -120,9 +112,9 @@ When comfort is inherited, abundance often registers as weather: just there, wit
 
 Conditions such as prosperity or inherited comfort alter the immediate field of payoffs surrounding each choice. Easier conditions change what is available, what is costly, and how soon consequences return. They do not themselves reduce consistency. The appearance that prosperity erodes the behavior required to sustain it arises when the condition is treated as a force rather than as part of the field within which the current choice occurs. When a lever is hidden, the result looks like magic, as [The Bank Shot and the Magic Trick](../the-bank-shot-and-the-magic-trick/) shows; [The Closed Loop of Representation](../the-closed-loop-of-representation/) and [The Illusion of Knowing and the Geometry of Amputation](../the-illusion-of-knowing-and-the-geometry-of-amputation/) show how private models then fill in the missing pull.
 
-检验：如果更宽松的回报决定了行动，那么生活在这些回报之下的人里，没有一个会继续那些维持这些回报的行动，而繁荣会随继承它的第一代人终结。繁荣若得以延续，便是在那些回报之下继续了的行动的残余；回报定型了场，行动仍作出了决定。只有当足够多的个体不顾更宽松的条件、继续一致地抉择时，社会才保持繁荣。有些个体把改变了的回报当作放松一致性的理由，他们就在那个行动本身之中实行了更低的一致性；另一些个体继续划出模式所依赖的行动，并按此刻所遇的场把这些行动重新渲染，他们实行了更高的一致性。因果登记仍留在抉择本身。[生产、消费与心智的区分](../production-consumption-and-the-minds-distinction/)追溯同一种登记，此时一个封闭的框架把创造的能量转换为消费的表象：这种转换是被保存的界限之下的登记，而不是作用于生产的第二种力。[命运偏爱反讽：生产创造自己的意识形态消费](../fate-loves-irony-refined/)在文明的尺度上追溯这种转换：生产者的盈余资助了一些框架，别人借这些框架把生产重新框定为问题所在。[人口崩溃神话的拆解](../the-myth-of-population-collapse-explained/)在生育中追溯它：在盈余之下，不要孩子的抉择登记在这样的地方：受到强化的是转移支付，而不是被展现出来的能动性。道德语言把一根杠杆变成一纸判决，正如[道德语言作为投影](../moral-language-as-projection/)所表明的；[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)表明观察如何把抉择变成一个客体。
+检验：如果更宽松的回报决定了行动，那么生活在这些回报之下的人里，没有一个会继续那些维持这些回报的行动，而繁荣会随继承它的第一代人终结。繁荣若得以延续，便是在那些回报之下继续了的行动的残余；回报定型了场，行动仍作出了决定。只有当足够多的个体不顾更宽松的条件、继续一致地抉择时，社会才保持繁荣。有些个体把改变了的回报当作放松一致性的理由，他们就在那个行动本身之中实行了更低的一致性；另一些个体继续划出模式所依赖的行动，并按此刻所遇的场把这些行动重新渲染，他们实行了更高的一致性。因果登记仍留在抉择本身。[生产、消费与心智的区分](../production-consumption-and-the-minds-distinction/)追溯同一种登记，此时一个封闭的框架把创造的能量转换为消费的表象：这种转换是被保存的界限之下的登记，而不是作用于生产的第二种力。[生产创造自己的意识形态消费](../fate-loves-irony-refined/)在文明的尺度上追溯这种转换：生产者的盈余资助了一些框架，别人借这些框架把生产重新框定为问题所在。[人口崩溃神话的拆解](../the-myth-of-population-collapse-explained/)在生育中追溯它：在盈余之下，不要孩子的抉择登记在这样的地方：受到强化的是转移支付，而不是被展现出来的能动性。道德语言把一根杠杆变成一纸判决，正如[道德语言作为投影](../moral-language-as-projection/)所表明的；[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)表明观察如何把抉择变成一个客体。
 
-Test: if easier payoffs decided the act, no one living under them would continue the acts that sustain them, and prosperity would end with the first generation to inherit it. Where it lasts, it is residue of acts that continued under those payoffs; the payoff patterned the field and the act still decided. Societies remain prosperous only while sufficient numbers of individuals continue choosing consistently despite easier conditions. Individuals who treat the altered payoffs as reason to relax consistency enact lower consistency in that very act; those who continue drawing the acts the pattern depends on, re-rendered to the field they now meet, enact higher consistency. The causal registration remains with the choice itself. [Production, Consumption, and the Mind’s Distinction](../production-consumption-and-the-minds-distinction/) traces the same registration when a closed frame converts creative energy into the appearance of consumption: the conversion is registration under a preserved bound, not a second force acting on production. [Fate Loves Irony: Production Creates Its Own Ideological Consumption](../fate-loves-irony-refined/) traces that conversion at civilizational scale: producers’ surplus funds the frameworks through which others reframe production as the problem. [The Myth of Population Collapse Explained](../the-myth-of-population-collapse-explained/) traces it in fertility: under surplus, choices not to have children register where transfers are reinforced in place of demonstrated agency. Moral language turns a lever into a verdict, as [Moral Language as Projection](../moral-language-as-projection/) shows, and [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) shows how observation turns choice into an object.
+Test: if easier payoffs decided the act, no one living under them would continue the acts that sustain them, and prosperity would end with the first generation to inherit it. Where it lasts, it is residue of acts that continued under those payoffs; the payoff patterned the field and the act still decided. Societies remain prosperous only while sufficient numbers of individuals continue choosing consistently despite easier conditions. Individuals who treat the altered payoffs as reason to relax consistency enact lower consistency in that very act; those who continue drawing the acts the pattern depends on, re-rendered to the field they now meet, enact higher consistency. The causal registration remains with the choice itself. [Production, Consumption, and the Mind’s Distinction](../production-consumption-and-the-minds-distinction/) traces the same registration when a closed frame converts creative energy into the appearance of consumption: the conversion is registration under a preserved bound, not a second force acting on production. [Production Creates Its Own Ideological Consumption](../fate-loves-irony-refined/) traces that conversion at civilizational scale: producers’ surplus funds the frameworks through which others reframe production as the problem. [The Myth of Population Collapse Explained](../the-myth-of-population-collapse-explained/) traces it in fertility: under surplus, choices not to have children register where transfers are reinforced in place of demonstrated agency. Moral language turns a lever into a verdict, as [Moral Language as Projection](../moral-language-as-projection/) shows, and [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) shows how observation turns choice into an object.
 
 生于安逸并不导致遗忘。在每一种场中，许多中心倾向于把下一步的所在外化，把原因安放在世代、体制、继承或气质之中。那些本会更早逼出更新的后果，在繁荣之下返回得更晚。延迟的后果仍是后果；一旦被登记，它仍是这个中心用于下一个行动的材料。[自我价值感与所有权](../ownership-and-self-worthiness/)是功能的那一面：只有当结局作为自己的结局重新进入时，模型才复利。外化的所在在任何回报之场下都使更新变薄。约束从不移除杠杆：[自由即地基](../freedom-as-ground/)把约束读作自由的轮廓，[有条件的自由](../you-tiao-jian-de-zi-you/)与[约束基底与自由自否](../the-substrate-of-constraint-and-the-self-denial-of-freedom/)表明自由被设为以结局为条件时发生的事。
 

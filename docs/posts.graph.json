@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-23T16:06:23.166Z",
+    "generated_at": "2026-10-23T16:08:30.843Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -106,7 +106,7 @@
       "content/posts/huberman-winners-losers.md": "52edd6aa4959",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "2740c5400321",
       "content/posts/immortality-final.md": "2bbeb6b8ed55",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "35b065ab09af",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "76ab560e5a25",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "425497acb31b",
       "content/posts/intelligence-crisis-response.md": "c0480704b362",
       "content/posts/intelligence-folding-back-on-itself.md": "8d41a13f4313",
@@ -3079,7 +3079,7 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers",
-      "hash": "35b065ab09af",
+      "hash": "76ab560e5a25",
       "in_degree": 105,
       "out_degree": 99,
       "links_out": [
@@ -26712,7 +26712,7 @@
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
-      "label": "代码库即记忆"
+      "label": "你的代码库即是记忆"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -27018,7 +27018,7 @@
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "fate-loves-irony-refined",
       "rel": "points_to",
-      "label": "命运偏爱反讽：生产创造自己的意识形态消费"
+      "label": "生产创造自己的意识形态消费"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -27048,7 +27048,7 @@
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "fate-loves-irony-refined",
       "rel": "points_to",
-      "label": "Fate Loves Irony: Production Creates Its Own Ideological Consumption"
+      "label": "Production Creates Its Own Ideological Consumption"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
