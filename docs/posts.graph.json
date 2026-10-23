@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-23T17:04:15.139Z",
+    "generated_at": "2026-10-23T17:07:39.945Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -238,7 +238,7 @@
       "content/posts/the-discount-on-agency.md": "754aac28467d",
       "content/posts/the-dissolution-of-the-great-reversal.md": "afb2ae4a969c",
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "cf61f9e9c832",
-      "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "6d8fc415a4c6",
+      "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "8141b07efa43",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "bf47c037daad",
       "content/posts/the-extendable-horizon.md": "a74fd15380da",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "58465caf6ed6",
@@ -430,10 +430,10 @@
     },
     "stats": {
       "posts": 403,
-      "edges": 11142,
-      "unique_directed": 5466,
+      "edges": 11144,
+      "unique_directed": 5467,
       "missing_targets": 0,
-      "one_way": 852,
+      "one_way": 853,
       "isolated": 0,
       "posts_with_outbound": 403,
       "book_pages": 16,
@@ -6719,9 +6719,9 @@
       "slug": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "path": "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md",
       "title": "对“AI 糟粕”的反感是反复出现的模式 / The Distaste for “AI Slop” Is a Recurring Pattern",
-      "hash": "6d8fc415a4c6",
+      "hash": "8141b07efa43",
       "in_degree": 12,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
         "causality-stays-at-the-edge-that-steers",
@@ -6729,6 +6729,7 @@
         "your-codebase-is-memory",
         "the-frame-that-conceals-improvement",
         "self-image-speaks-as-if-from-nowhere",
+        "the-reversal-of-verification",
         "data-is-local-intelligence-is-allocated",
         "the-limitation-is-doing-work",
         "the-question-that-installs-the-war",
@@ -9102,7 +9103,7 @@
       "path": "content/posts/the-reversal-of-verification.md",
       "title": "验证的倒置 / The Reversal of Verification",
       "hash": "d9bdf6fc8678",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 8,
       "links_out": [
         "openness-is-consistency",
@@ -51126,6 +51127,12 @@
     },
     {
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
       "label": "数据是局部的，智能是分配的"
@@ -51141,6 +51148,12 @@
       "to": "the-question-that-installs-the-war",
       "rel": "points_to",
       "label": "安装战争的那个问题"
+    },
+    {
+      "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
     },
     {
       "from": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
