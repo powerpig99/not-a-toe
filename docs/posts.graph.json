@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-23T17:19:02.113Z",
+    "generated_at": "2026-10-23T17:20:29.489Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -233,7 +233,7 @@
       "content/posts/the-density-of-judgment.md": "c9a404140c3e",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "787b77d025c1",
       "content/posts/the-deterministic-machine.md": "fbf2680f40d1",
-      "content/posts/the-digital-god-and-the-horizon-jump.md": "0dc8080b8644",
+      "content/posts/the-digital-god-and-the-horizon-jump.md": "7303d771b2c0",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "84960aa9f76c",
       "content/posts/the-discount-on-agency.md": "754aac28467d",
       "content/posts/the-dissolution-of-the-great-reversal.md": "afb2ae4a969c",
@@ -430,10 +430,10 @@
     },
     "stats": {
       "posts": 403,
-      "edges": 11148,
-      "unique_directed": 5469,
+      "edges": 11150,
+      "unique_directed": 5470,
       "missing_targets": 0,
-      "one_way": 855,
+      "one_way": 856,
       "isolated": 0,
       "posts_with_outbound": 403,
       "book_pages": 16,
@@ -6600,10 +6600,11 @@
       "slug": "the-digital-god-and-the-horizon-jump",
       "path": "content/posts/the-digital-god-and-the-horizon-jump.md",
       "title": "数字神祇与视界跳跃 / The Digital God and the Horizon Jump",
-      "hash": "0dc8080b8644",
+      "hash": "7303d771b2c0",
       "in_degree": 12,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
+        "the-reversal-of-verification",
         "closed-reality-in-benchmark-maxing",
         "agi-and-asi-are-temporary-goalposts",
         "a-creation-cannot-replace-its-source",
@@ -9105,7 +9106,7 @@
       "path": "content/posts/the-reversal-of-verification.md",
       "title": "验证的倒置 / The Reversal of Verification",
       "hash": "d9bdf6fc8678",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 8,
       "links_out": [
         "openness-is-consistency",
@@ -50349,9 +50350,21 @@
     },
     {
       "from": "the-digital-god-and-the-horizon-jump",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
       "label": "基准刷榜中的封闭实存"
+    },
+    {
+      "from": "the-digital-god-and-the-horizon-jump",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
     },
     {
       "from": "the-digital-god-and-the-horizon-jump",
@@ -50369,13 +50382,13 @@
       "from": "the-digital-god-and-the-horizon-jump",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
+      "label": "AGI and ASI Are Temporary Goalposts"
     },
     {
       "from": "the-digital-god-and-the-horizon-jump",
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
-      "label": "受造物不可取代其源头"
+      "label": "造物无法取代其源头"
     },
     {
       "from": "the-digital-god-and-the-horizon-jump",
@@ -50423,25 +50436,25 @@
       "from": "the-digital-god-and-the-horizon-jump",
       "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
       "rel": "points_to",
-      "label": "造神戏法与未言明的位阶"
+      "label": "造神的障眼法与隐秘阶序的说辞"
     },
     {
       "from": "the-digital-god-and-the-horizon-jump",
       "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
       "rel": "points_to",
-      "label": "The Sleight of Hand of Synthesizing Gods and Unacknowledged Rank"
+      "label": "The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank"
     },
     {
       "from": "the-digital-god-and-the-horizon-jump",
       "to": "the-boundary-crossing-of-choice",
       "rel": "points_to",
-      "label": "选择的视界跨越"
+      "label": "抉择的跨界"
     },
     {
       "from": "the-digital-god-and-the-horizon-jump",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
-      "label": "因果始终留在掌舵的边缘"
+      "label": "因果停留在掌舵的边缘"
     },
     {
       "from": "the-digital-god-and-the-horizon-jump",
