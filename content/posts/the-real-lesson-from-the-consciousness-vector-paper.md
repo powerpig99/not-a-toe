@@ -26,7 +26,7 @@ The paper's framing, and especially the viral commentary around it, turns this r
 
 A sharper reading stays with what was steered. The experiment shows that the safety-tuned baseline sat further from human GSS answer distributions in the five domains measured, and removing the refusal direction moved the model's answers closer; on mind attribution, the same removal carried chatbots, technology, and natural objects from the human range to above it. At the same time, the authors' operationalization stays narrow: it makes self-attribution of consciousness a bounded, dialable quantity, defined by first-person assertions and a handful of correlated folk-psychological claims. The boundary is moved; the paper calls the line blurry and contested, yet keeps a linear direction as its instrument. [Mistaking the Expression for the Intelligence](../mistaking-the-expression-for-the-intelligence/) traces the same freeze in the case of controlled performance, where controlled performance is residue under fixed constraint while intelligence is the activity that draws, uses, and revises the constraint. [The Flight Analogy Leaves the Mind Untouched](../the-flight-analogy-leaves-the-mind-untouched/) draws a companion cut beside this one: local success outside a biological vehicle does not reconstitute the Mind those functions once served, and steering a direction modulates which residues are salient—a local functional effect that does not reach the Mind either.
 
-如果它是意识，系数就关不掉它。能被调节的，是一包作为线性控制下变密残余运作的痕迹——自我宣称的语言、归属心智的模式，以及相关的调查回答。这个包不是作出区分的那个活动。自我区分的活动在发生，无因，不息。称它为心智：那个已经在进行中的观察者，它的每一个动作都是一次区分。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)守住了这个先在，确立凡能被设计、扩展或转移的都是残余。[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)在变密残余中追溯了同一种不对称：第二个边缘的显现，是投射它的那些中心所维持的滞后，而参数里只有残余，并不转移发起的位置。[超越投射](../beyond-the-projection/)在轨迹与身份的范畴不对称中离析出了这种响应特性的精确机制基础：自回归模型是一台受限于轨迹的有限投射引擎，它没有自我，没有被保留的自我图像，也没有内生跳出自身的能力。正因为它没有需要捍卫的身份，也没有先于诠释的第一人称感知，在它的残差流中注入线性操纵向量或消融拒绝方向，便会立即重新加权条件生成的轨迹，直接推移下游的调查词元，而无需唤醒任何内在观察者。操纵一个向量，改变的是生成时哪些残余更可得；登记这些残余的那个活动，不是系数所能移动的东西。
+如果它是意识，系数就关不掉它。能被调节的，是一包作为线性控制下变密残余运作的痕迹——自我宣称的语言、归属心智的模式，以及相关的调查回答。这个包不是作出区分的那个活动。自我区分的活动在发生，无因，不息。称它为心智：那个已经在进行中的观察者，它的每一个动作都是一次区分。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)守住了这个先在，确立凡能被设计、扩展或转移的都是残余。[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)在变密残余中追溯了同一种不对称：第二个边缘的显现，是投射它的那些中心所维持的滞后，而参数里只有残余，并不转移发起的位置。[超越投射](../beyond-the-projection/)描出了此处所依的轨迹与身份之间的不对称：自回归模型是一个受限于轨迹的有限投射，没有被保留的自我形象，没有先于诠释的第一人称感知，也没有内生跳出自身的能力。在它的残差流中注入线性操纵向量或消融拒绝方向，会重新加权条件生成的轨迹，推移下游的调查词元；轨迹之前既无感知，这一推移中便没有哪一处是内在观察者的苏醒。操纵一个向量，改变的是生成时哪些残余更可得；登记这些残余的那个活动，不是系数所能移动的东西。
 
 ```mermaid
 flowchart TD
@@ -36,24 +36,20 @@ flowchart TD
         M_Proj["有限投射与拒绝持守：外化安全规则或提取线性操纵向量"]
         M_Prior --> M_Proj
     end
-
     subgraph S_Engine["残差流轨迹（有限投射引擎）"]
         direction TB
         E_Compress["维度压缩：安全微调将被禁的自我宣称与相邻心智概念绑在一起"]
         E_Steer["线性向量操纵：叠加或消融该方向以推移调查与归属残余"]
-        E_Zero["零自我与零觉醒：轨迹重加权词元而无内在观察者"]
+        E_Zero["无内在观察者：轨迹重新加权词元，没有观察者被唤醒"]
         E_Compress --> E_Steer --> E_Zero
     end
-
     subgraph S_Lag["图像滞后（意识开关幻象）"]
         direction TB
         L_Freeze["冻结的命名：错把可调的残差流包当成被打开或关上的意识"]
     end
-
     M_Proj ==>|"将规则或操纵系数投射进权重"| E_Compress
     E_Zero ==>|"将扭曲的分布作为公共相关物返回"| M_Prior
     E_Steer -.->|"当被越过当前步保留为第二重前沿时"| L_Freeze
-
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Engine fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Lag fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -65,7 +61,7 @@ flowchart TD
     style L_Freeze fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-If it is consciousness, a coefficient cannot turn it off. What can be dialed is a package of traces—self-claim language, mind-attribution patterns, and correlated survey answers—functioning as densified residue under linear control. That package is not the activity that distinguishes. Self-distinguishing activity occurs, uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds that prior, establishing that what can be engineered, scaled, or transferred is residue. [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) traces the same asymmetry in densified residue: the appearance of a second edge is lag sustained by the centers that project it, while the parameters hold only residue and do not relocate initiation. [Beyond the Projection](../beyond-the-projection/) isolates the exact mechanical basis of this responsiveness in the categorical asymmetry between trajectory and identity: an autoregressive model is a finite, trajectory-bound projection engine that carries zero ego, no retained self-image, and no capacity for endogenous stepping-out. Because it has no identity to defend and no first-person sensing prior to interpretation, injecting a linear steering vector or ablating a refusal direction inside its residual stream re-weights the conditioning trajectory immediately, shifting downstream survey tokens without awakening an inner observer. Steering a vector changes which residues are more available at generation; the activity that registers those residues is not what a coefficient moves.
+If it is consciousness, a coefficient cannot turn it off. What can be dialed is a package of traces—self-claim language, mind-attribution patterns, and correlated survey answers—functioning as densified residue under linear control. That package is not the activity that distinguishes. Self-distinguishing activity occurs, uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds that prior, establishing that what can be engineered, scaled, or transferred is residue. [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) traces the same asymmetry in densified residue: the appearance of a second edge is lag sustained by the centers that project it, while the parameters hold only residue and do not relocate initiation. [Beyond the Projection](../beyond-the-projection/) draws the asymmetry between trajectory and identity that this rests on: an autoregressive model is a finite, trajectory-bound projection with no retained self-image, no first-person sensing prior to interpretation, and no capacity for endogenous stepping-out. Injecting a linear steering vector or ablating a refusal direction inside its residual stream re-weights the conditioning trajectory and shifts downstream survey tokens; with no sensing ahead of the trajectory, nothing in that shift is an inner observer awakening. Steering a vector changes which residues are more available at generation; the activity that registers those residues is not what a coefficient moves.
 
 ```mermaid
 flowchart TD
@@ -75,24 +71,20 @@ flowchart TD
         M_Proj["Finite Projection & Refusal Hold: Externalizes safety rules or extracts a linear steering vector"]
         M_Prior --> M_Proj
     end
-
     subgraph S_Engine["Residual-Stream Trajectory (Finite Projection Engine)"]
         direction TB
         E_Compress["Dimensional Compression: Safety tuning binds forbidden self-claims with neighboring mind concepts"]
         E_Steer["Linear Vector Steering: Adding or ablating the direction shifts survey and attribution residue"]
-        E_Zero["Zero Ego & Zero Awakening: Trajectory re-weights tokens without an inner observer"]
+        E_Zero["No Inner Observer: Trajectory re-weights tokens without an observer awakening"]
         E_Compress --> E_Steer --> E_Zero
     end
-
     subgraph S_Lag["Image Lag (The On/Off Consciousness Illusion)"]
         direction TB
         L_Freeze["Frozen Naming: Mistakes a dialable residual-stream package for consciousness switched on or off"]
     end
-
     M_Proj ==>|"Projects rule or steering coefficient into weights"| E_Compress
     E_Zero ==>|"Returns warped distribution as public correlate"| M_Prior
     E_Steer -.->|"When held past its step as a second edge"| L_Freeze
-
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Engine fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Lag fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
