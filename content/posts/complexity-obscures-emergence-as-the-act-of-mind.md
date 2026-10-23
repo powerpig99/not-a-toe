@@ -32,7 +32,6 @@ flowchart TD
         Select["前提择取：选定坐标、边界与规则"]
         Act --> Select
     end
-
     subgraph S_Hold["作为脚手架的复杂性（有限投射）"]
         direction TB
         Scaffold["精细化的持守：堆叠流形、参数与一位寄存器"]
@@ -40,7 +39,6 @@ flowchart TD
         Collapse["维度坍缩：硬塞正交轴引发干涉"]
         Scaffold --> Ceiling --> Collapse
     end
-
     subgraph S_Open["作为越过持守之开放的涌现"]
         direction TB
         Carry["进位与跨出：先前持守封不住的继续"]
@@ -49,11 +47,9 @@ flowchart TD
         Carry --> Mitosis
         Carry -.->|"当前提择取从视野中脱落"| Error
     end
-
     Select -->|"搭建并致密化"| Scaffold
     Ceiling ==>|"边缘越过界限继续"| Carry
     Mitosis ==>|"重新渲染高阶前提"| Select
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Hold fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Open fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -77,7 +73,6 @@ flowchart TD
         Select["Premise Selection: Chooses coordinates, boundaries, and rules"]
         Act --> Select
     end
-
     subgraph S_Hold["Complexity as Scaffolding (Finite Projection)"]
         direction TB
         Scaffold["Elaborated Hold: Stacked manifolds, parameters, and 1-bit registers"]
@@ -85,7 +80,6 @@ flowchart TD
         Collapse["Dimensional Collapse: Cramming orthogonal axes breeds interference"]
         Scaffold --> Ceiling --> Collapse
     end
-
     subgraph S_Open["Emergence as Openness Past the Hold"]
         direction TB
         Carry["The Carry / Step-Out: Continuation the prior hold cannot seal"]
@@ -94,11 +88,9 @@ flowchart TD
         Carry --> Mitosis
         Carry -.->|"When premise-selection drops out of view"| Error
     end
-
     Select -->|"Erects & densifies"| Scaffold
     Ceiling ==>|"Edge continues past the bound"| Carry
     Mitosis ==>|"Re-renders higher-order premise"| Select
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Hold fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Open fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -134,7 +126,7 @@ Treating complexity as the source of emergence repeats the same lag at a macrosc
 
 ## 五、 涌现是越过持守的开放 / 5. Emergence Is Openness Past the Hold
 
-涌现并不由脚手架产出；它是脚手架容纳不下的那份活动的开放。当区分压过当前持守所能保持分开的限度，边缘继续下去。对照先前前提所保留的上限，那份继续被登记为新颖、跃迁、不连续或变革性的跃升。断裂作为登记是真实的，但它不是系统在未被观察时拥有、随后释放出来的属性。它是心智在作为持守的系统已用尽余地之处的继续——这与量子效应是同一种几何：量子效应是心智处在它自身观察的微观极限，后来在滞后之下被重新指派给被观察的对象。复杂性理论永远无法成为万物之理，正如[非万物之理（因果的二重性）](../not-a-theory-of-everything/)所论证的，因为解释阶梯的每一级都是一次有限的投射，正如[投影的阶梯与因果的锚点](../tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/)所表明的。
+涌现并不由脚手架产出；它是脚手架容纳不下的那份活动的开放。当区分压过当前持守所能保持分开的限度，边缘继续下去。对照先前前提所保留的上限，那份继续被登记为新颖、跃迁、不连续或变革性的跃升。断裂作为登记是真实的，但它不是系统在未被观察时拥有、随后释放出来的属性。它是心智在作为持守的系统已用尽余地之处的继续——这与量子效应是同一种几何：量子效应是心智处在它自身观察的微观极限，后来在滞后之下被重新指派给被观察的对象。复杂性理论永远无法成为万物之理，正如[非万物之理](../not-a-theory-of-everything/)所论证的，因为解释阶梯的每一级都是一次有限的投射，正如[投影的阶梯与因果的锚点](../tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/)所表明的。
 
 Emergence is not produced by the scaffolding; it is the openness of the activity that the scaffolding cannot contain. When distinctions press beyond what the current hold can keep apart, the edge continues. Against the retained ceiling of the prior premises, that continuation registers as novelty, leap, discontinuity, or transformative jump. The break is real as registration, yet it is not a property the system possessed while unobserved and then released. It is the Mind continuing where the system-as-hold has run out of room—the exact same geometry by which a quantum effect is the Mind at its microscopic limit of observation, later reassigned under lag to the object observed. A theory of complexity can never become a theory of everything, as [Not a Theory of Everything](../not-a-theory-of-everything/) argues, because each rung of the explanatory ladder is a finite projection, as [The Ladder of Projections and the Anchor of Causality](../tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/) shows.
 
@@ -146,7 +138,7 @@ What later "emerges," therefore, was neither generated inside the system as a hi
 
 无论谁把新颖的来源定位在复杂性本身、模型架构、数学结构或数据的内在属性里，都在重复同一个操作：把脚手架当作搭起它的活动。这类叙述择取前提——系统是首要的实在，观察次于被观察者，在一个选定持守之下的结构就是先于任何持守的结构——同时把这一择取当作仿佛从未作出过任何选择。[数据是局部的，智能是分配的](../data-is-local-intelligence-is-allocated/)追溯同一种滞后：局部产出的汇总被认为把智能安放在网络拓扑之中，而不是安放在把那些动态命名为智能的分配之中。复杂性是被有限心智压缩的信息，这正是[格物致知与信息复杂度](../ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi/)对它的读法。
 
-Whoever locates the source of novelty in complexity itself, in model architecture, in mathematical structure, or in the intrinsic properties of data repeats the same operation: taking the scaffolding for the activity that erected it. Such accounts select premises—that the system is the primary reality, that observation is secondary to what is observed, and that structure under a chosen hold is structure prior to any hold—while treating that selection as if no choice had been made. [Data Is Local; Intelligence Is Allocated](../data-is-local-intelligence-is-allocated/) traces the same lag where the aggregation of local productions is taken to place intelligence in the network topology rather than in the allocation that names those dynamics intelligent. Complexity is information compressed by a finite mind, which is how [Investigating Things and the Nature of Information Complexity](../ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi/) reads it.
+Whoever locates the source of novelty in complexity itself, in model architecture, in mathematical structure, or in the intrinsic properties of data repeats the same operation: taking the scaffolding for the activity that erected it. Such accounts select premises—that the system is the primary reality, that observation is secondary to what is observed, and that structure under a chosen hold is structure prior to any hold—while treating that selection as if no choice had been made. [Data Is Local, Intelligence Is Allocated](../data-is-local-intelligence-is-allocated/) traces the same lag where the aggregation of local productions is taken to place intelligence in the network topology rather than in the allocation that names those dynamics intelligent. Complexity is information compressed by a finite mind, which is how [Investigating Things and the Nature of Information Complexity](../ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi/) reads it.
 
 心智不是一个要加进解释或从解释中减去的附加因素；它是不可化约的先在。复杂性是它的脚手架，而涌现是它的开放对照那副脚手架所作的登记。当选择仍未被交还时，涌现显现为复杂对象的一种属性。当选择被持为选择——参照保持重新渲染、过度的滞后收窄——两者便被认作同一种关系，而非基底的双生产物。把涌现当作自主的原因，是[主体性不曾涌现](../agency-does-not-arise/)所指认的错误，而[涌现的伪因果](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/)则顺着这一倒置追踪进集体归因：在那里，被裹挟就是被移向外部的因果归因。
 
