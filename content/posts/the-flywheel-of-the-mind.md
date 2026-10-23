@@ -22,9 +22,9 @@ Capacities that appear newly discovered were latent in the activity. The improve
 
 ## 二、 表象的分派与图像滞后 / 2. Apparent Allocation and Image Lag
 
-以为智能已经迁入工具的印象，正是图像滞后。观察握住的是果效——昔日缓慢费力的操作如今变得迅速可靠——并将这幅握住的图像冻结在产生它的边缘身后一步。真正迁移的只是执行的场所。发起区分、评估产出是否合用，以及在媒介开始扭曲而非澄清时及时察觉，依然是同一个递归活动。
+以为智能已经迁入工具的印象，正是图像滞后。观察握住的是果效——昔日缓慢费力的操作如今变得迅速可靠——并将这幅握住的图像冻结在产生它的边缘身后一步。真正迁移的只是执行的场所。发起区分、评估产出是否合用，以及在媒介开始扭曲而非澄清时及时察觉，依然是同一个递归活动。在媒介内部运行的检验，同样是执行：证明检验器确定的是，在它的规则之下、在边缘上选定的形式化之下，所陈述的各步成立；这一点以一个可信基为条件，而检验这个可信基本身，只会划出一个更宽的持守。把它的证书当作信任之源，凌驾于运用它去验证的那种能力之上，正是这一滞后落在评估这一面上，也就是[验证的倒置](../the-reversal-of-verification/)所追溯的倒置。
 
-The impression that intelligence has moved into the tools is Image lag. Observation holds the effect — operations once slow and effortful now rapid and reliable — and freezes the held image one step past the edge that produced it. What has moved is only the site of execution. The initiating distinction, the evaluation of whether the output serves, and the noticing when the medium begins to distort rather than clarify remain the same recursive activity.
+The impression that intelligence has moved into the tools is Image lag. Observation holds the effect — operations once slow and effortful now rapid and reliable — and freezes the held image one step past the edge that produced it. What has moved is only the site of execution. The initiating distinction, the evaluation of whether the output serves, and the noticing when the medium begins to distort rather than clarify remain the same recursive activity. A check run inside the medium is execution of the same kind: a proof checker settles that the stated steps follow under its rules and under the formalization chosen at the edge, on a trusted base whose own checking draws only a wider hold. Taking its certificate as the source of trust, over the capacity to verify that uses it, is this lag at the evaluation face, the inversion [The Reversal of Verification](../the-reversal-of-verification/) traces.
 
 当工具生成连贯的语言或推理时，自主的表象便会加剧这种滞后。每一处看似自主的表现依然只是残余：筛选出的训练数据、设计好的架构、给定的提示词与目标、对价值的最终裁断——无一不是同一个心智进一步的分立动作。回路并不在器物内部闭合，而是穿过变密的媒介，回到设定条件的边缘。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)守住了这一先在剖切；[看似AI的强化学习，实为人类的自我强化学习](../self-rl-for-humans/)在规模化的讨论下保持着同样的纪律。媒介在变密，发起并未搬迁。一把磨利的工具所产出的结果只是表达，而[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/)将表达与智能严格区分开来。
 
@@ -50,7 +50,6 @@ flowchart TD
         E_Sense["先于解释的感知：察觉框架失配、重切死锁前提并修剪陈旧残余"]
         E_Sense -->|"重绘参照以收窄滞后"| E_Init
     end
-
     subgraph S_Groove["磨利的凹槽（无我执的轨迹与同侪辩证）"]
         direction TB
         G_Route["正交的流线：在有界上下文中拆分过载的投射"]
@@ -58,18 +57,15 @@ flowchart TD
         G_Signal["放大的残余或隔离的死锁：传回更密的产出或前提冲突"]
         G_Route --> G_Debate --> G_Signal
     end
-
     subgraph S_Trap["冻结的凹槽（磨刀工具陷阱与分派滞后）"]
         direction TB
         T_Lag["冗余图像滞后：将变密的媒介冻结为自主的第二源头"]
         T_Stall["孤立打磨与历史囤积：一味打磨或加厚凹槽却不重切当下"]
         T_Lag --> T_Stall
     end
-
     E_Init ==>|"驱动转动进入媒介"| G_Route
     G_Signal ==>|"将残余放大并传回掌舵的边缘"| E_Sense
     G_Signal -.->|"当观察不再回到边缘"| T_Lag
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Groove fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Trap fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -92,7 +88,6 @@ flowchart TD
         E_Sense["Pre-Interpretive Sensing: Detects frame misfit, re-cuts deadlocked premises, and prunes stale residue"]
         E_Sense -->|"Re-renders reference toward narrower lag"| E_Init
     end
-
     subgraph S_Groove["The Sharpened Groove (Ego-Free Trajectory & Peer Dialectics)"]
         direction TB
         G_Route["Orthogonal Streamlines: Splits overloaded projections across bounded contexts"]
@@ -100,18 +95,15 @@ flowchart TD
         G_Signal["Amplified Residue or Isolated Deadlock: Returns denser output or premise clash"]
         G_Route --> G_Debate --> G_Signal
     end
-
     subgraph S_Trap["The Frozen Groove (Tool-Sharpening Trap & Allocation Lag)"]
         direction TB
         T_Lag["Excess Image Lag: Freezes the densified medium as an autonomous second source"]
         T_Stall["Isolated Polishing & History Hoarding: Polishes or thickens the groove without re-cutting the present"]
         T_Lag --> T_Stall
     end
-
     E_Init ==>|"Drives the turn into the medium"| G_Route
     G_Signal ==>|"Amplifies residue back to the steering edge"| E_Sense
     G_Signal -.->|"When observation stops returning to the edge"| T_Lag
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Groove fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Trap fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
