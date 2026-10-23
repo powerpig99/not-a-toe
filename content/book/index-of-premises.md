@@ -1203,7 +1203,7 @@ Machine learning narratives treat optimization as an intelligent agent seeking t
 
 Gödel proves that any consistent formal system containing arithmetic has true statements it cannot prove and cannot prove its own consistency, which is of use in stating the limits of formal systems precisely; it reaches its boundary in that, when read as a proof about mind itself, the same limit reappears outside the system, between Minds.
 
-→ [潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/)
+→ [潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/) · [验证的倒置 / The Reversal of Verification](../../posts/the-reversal-of-verification/)
 
 ### 成长型思维 / Growth Mindset
 `成功学 / Self-Help`
@@ -2791,6 +2791,15 @@ Prescribing a standard form for learning and citing masters' names to back one's
 
 → [从形式迷思到逻辑闭环 / From the Myth of Form to the Closed Loop of Logic](../../posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan/) · [审美的自动扶梯与阳台的忧郁 / The Aesthetic Escalator and the Melancholy of the Balcony](../../posts/the-aesthetic-escalator-and-the-melancholy-of-the-balcony/)
 
+### 形式验证即信任之源 / Formal Verification as the Ground of Trust
+`技术 / Technological`
+
+把形式验证当作信任之源，预设一份通过内核检查的证明便结清了代码做什么的问题，在机械地扩大可被检查的区分时有用；它在此到了边界：证明以可信基为条件，可信基一旦被持为免于重新追溯的地基，同样的工具便在攻守两边扯平手段，剩下的差别只在于谁仍持之开放、仍在验证。
+
+Formal verification as the ground of trust presumes that a proof passing the kernel settles what the code does, which is of use in mechanically enlarging what can be checked; it reaches its boundary in that the proof is conditional on its trusted base, and once that base is held as ground exempt from re-tracing, the same tools equalize the means on both sides and what still divides them is who keeps the base open and keeps verifying.
+
+→ [验证的倒置 / The Reversal of Verification](../../posts/the-reversal-of-verification/)
+
 ### 初衷异化倾向 / Founding Mission Drift
 `意识形态 / Ideological`
 
@@ -3671,7 +3680,7 @@ Naive realism treats reality as a prefabricated museum awaiting passive inspecti
 
 Formalists define consistency as a sealed, contradiction-free axiom set; living consistency demands acknowledging model boundaries and remaining open to friction.
 
-→ [Openness Is Consistency](../../posts/openness-is-consistency/)
+→ [开放即一致 / Openness Is Consistency](../../posts/openness-is-consistency/) · [验证的倒置 / The Reversal of Verification](../../posts/the-reversal-of-verification/)
 
 ### 禁令依托信念生效机制 / Operative Efficacy of Belief
 `意识形态 / Ideological`

@@ -49,3 +49,4 @@ The essays in this part trace the codebase as externalized memory, the asymmetry
 - [判断力不是可囤积的存量 / Judgment Is Not a Stock](../../posts/judgment-is-not-a-stock/)
 - [按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step](../../posts/on-demand-contexts-keep-coherence-at-one-step/)
 - [判断的密度 / The Density of Judgment](../../posts/the-density-of-judgment/)
+- [验证的倒置 / The Reversal of Verification](../../posts/the-reversal-of-verification/)

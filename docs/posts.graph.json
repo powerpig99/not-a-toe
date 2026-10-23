@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-22T12:19:45.809Z",
+    "generated_at": "2026-10-23T13:08:36.487Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -338,6 +338,7 @@
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "4e0a51e77cf0",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "9e39c50c5595",
       "content/posts/the-reversal-of-education-and-science.md": "6bc635c24685",
+      "content/posts/the-reversal-of-verification.md": "d9bdf6fc8678",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "1d26d6542cba",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "7a0ec6232ce8",
       "content/posts/the-scaffolding-that-keeps-growing.md": "35bd1ad4ae31",
@@ -413,7 +414,7 @@
       "content/book/causality.md": "51d6cd58236e",
       "content/book/consciousness.md": "07e90c9d3d1f",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "98e25b619133",
+      "content/book/index-of-premises.md": "4a262d67b30f",
       "content/book/intelligence.md": "ac860f2bf532",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "0caf97231862",
@@ -425,19 +426,19 @@
       "content/book/preface.md": "d0065384016a",
       "content/book/state-and-collective.md": "850b9e9e6f63",
       "content/book/success-and-the-self.md": "1a52a0e106a1",
-      "content/book/tools-and-progress.md": "12ef6f4ef901"
+      "content/book/tools-and-progress.md": "8c2cc37267d1"
     },
     "stats": {
-      "posts": 402,
-      "edges": 11100,
-      "unique_directed": 5445,
+      "posts": 403,
+      "edges": 11116,
+      "unique_directed": 5453,
       "missing_targets": 0,
-      "one_way": 837,
+      "one_way": 845,
       "isolated": 0,
-      "posts_with_outbound": 402,
+      "posts_with_outbound": 403,
       "book_pages": 16,
-      "book_edges": 1126,
-      "posts_reached_by_book": 402
+      "book_edges": 1130,
+      "posts_reached_by_book": 403
     }
   },
   "hubs_in": [
@@ -455,7 +456,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 81
+      "in_degree": 82
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -471,7 +472,7 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 58
+      "in_degree": 59
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -1945,7 +1946,7 @@
       "path": "content/posts/cybersecurity-arms-race.md",
       "title": "网络安全军备竞赛与感知范畴边界 / The Cybersecurity Arms Race",
       "hash": "1985661caf9b",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 2,
       "links_out": [
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -3336,7 +3337,7 @@
       "path": "content/posts/judgment-is-not-a-stock.md",
       "title": "判断力不是可囤积的存量 / Judgment Is Not a Stock",
       "hash": "9526af861c78",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 9,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -3866,7 +3867,7 @@
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "没有系统能被保持封闭 / No System Can Be Kept Closed",
       "hash": "cb636c5e6b60",
-      "in_degree": 58,
+      "in_degree": 59,
       "out_degree": 60,
       "links_out": [
         "openness-is-consistency",
@@ -4249,7 +4250,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "开放即一致 / Openness Is Consistency",
       "hash": "75ba5238a649",
-      "in_degree": 81,
+      "in_degree": 82,
       "out_degree": 82,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -6617,7 +6618,7 @@
       "path": "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md",
       "title": "数字火箭、同行审查与因果闭环的稀释 / Digital Rockets, Peer Review, and the Dilution of the Causal Loop",
       "hash": "84960aa9f76c",
-      "in_degree": 20,
+      "in_degree": 21,
       "out_degree": 22,
       "links_out": [
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
@@ -9084,13 +9085,33 @@
       ]
     },
     {
+      "id": "post:the-reversal-of-verification",
+      "kind": "post",
+      "slug": "the-reversal-of-verification",
+      "path": "content/posts/the-reversal-of-verification.md",
+      "title": "验证的倒置 / The Reversal of Verification",
+      "hash": "d9bdf6fc8678",
+      "in_degree": 0,
+      "out_degree": 8,
+      "links_out": [
+        "openness-is-consistency",
+        "no-system-can-be-kept-closed",
+        "why-mathematics-can-never-be-solved",
+        "judgment-is-not-a-stock",
+        "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+        "the-risk-is-the-belief-in-oversight-itself",
+        "cybersecurity-arms-race",
+        "whatever-is-one-prompt-away"
+      ]
+    },
+    {
       "id": "post:the-risk-is-the-belief-in-oversight-itself",
       "kind": "post",
       "slug": "the-risk-is-the-belief-in-oversight-itself",
       "path": "content/posts/the-risk-is-the-belief-in-oversight-itself.md",
       "title": "风险在于对监管本身的迷信 / The Risk Is the Belief in Oversight Itself",
       "hash": "1d26d6542cba",
-      "in_degree": 20,
+      "in_degree": 21,
       "out_degree": 23,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
@@ -10361,7 +10382,7 @@
       "path": "content/posts/whatever-is-one-prompt-away.md",
       "title": "一个提示词之遥 / Whatever Is One Prompt Away",
       "hash": "2a70052b8308",
-      "in_degree": 20,
+      "in_degree": 21,
       "out_degree": 22,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -10539,7 +10560,7 @@
       "path": "content/posts/why-mathematics-can-never-be-solved.md",
       "title": "为何数学永远解不完 / Why Mathematics Can Never Be Solved",
       "hash": "cf02a7399345",
-      "in_degree": 25,
+      "in_degree": 26,
       "out_degree": 24,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
@@ -65527,6 +65548,102 @@
       "label": "Your Codebase Is Memory"
     },
     {
+      "from": "the-reversal-of-verification",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "the-reversal-of-verification",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-reversal-of-verification",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "the-reversal-of-verification",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "the-reversal-of-verification",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "为何数学永远解不完"
+    },
+    {
+      "from": "the-reversal-of-verification",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "Why Mathematics Can Never Be Solved"
+    },
+    {
+      "from": "the-reversal-of-verification",
+      "to": "judgment-is-not-a-stock",
+      "rel": "points_to",
+      "label": "判断力不是可囤积的存量"
+    },
+    {
+      "from": "the-reversal-of-verification",
+      "to": "judgment-is-not-a-stock",
+      "rel": "points_to",
+      "label": "Judgment Is Not a Stock"
+    },
+    {
+      "from": "the-reversal-of-verification",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "数字火箭、同行审查与因果闭环的稀释"
+    },
+    {
+      "from": "the-reversal-of-verification",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "风险在于对监管本身的迷信"
+    },
+    {
+      "from": "the-reversal-of-verification",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "Digital Rockets, Peer Review, and the Dilution of the Causal Loop"
+    },
+    {
+      "from": "the-reversal-of-verification",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "The Risk Is the Belief in Oversight Itself"
+    },
+    {
+      "from": "the-reversal-of-verification",
+      "to": "cybersecurity-arms-race",
+      "rel": "points_to",
+      "label": "网络安全军备竞赛与感知范畴边界"
+    },
+    {
+      "from": "the-reversal-of-verification",
+      "to": "cybersecurity-arms-race",
+      "rel": "points_to",
+      "label": "The Cybersecurity Arms Race"
+    },
+    {
+      "from": "the-reversal-of-verification",
+      "to": "whatever-is-one-prompt-away",
+      "rel": "points_to",
+      "label": "一个提示词之遥"
+    },
+    {
+      "from": "the-reversal-of-verification",
+      "to": "whatever-is-one-prompt-away",
+      "rel": "points_to",
+      "label": "Whatever Is One Prompt Away"
+    },
+    {
       "from": "the-risk-is-the-belief-in-oversight-itself",
       "to": "closed-reality-in-benchmark-maxing",
       "rel": "points_to",
@@ -77514,8 +77631,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "98e25b619133",
-        "out_degree": 402
+        "hash": "4a262d67b30f",
+        "out_degree": 403
       },
       {
         "id": "book:intelligence",
@@ -77622,8 +77739,8 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "12ef6f4ef901",
-        "out_degree": 37
+        "hash": "8c2cc37267d1",
+        "out_degree": 38
       }
     ],
     "edges": [
@@ -79303,6 +79420,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-reversal-of-verification",
+        "rel": "collects",
+        "label": "验证的倒置 / The Reversal of Verification"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-extendable-horizon",
         "rel": "collects",
         "label": "可延展的地平线 / The Extendable Horizon"
@@ -80587,6 +80710,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-reversal-of-verification",
+        "rel": "collects",
+        "label": "验证的倒置 / The Reversal of Verification"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "name-negation-tendency",
         "rel": "collects",
         "label": "名称背反倾向 / The Name-Negation Tendency"
@@ -81267,7 +81396,13 @@
         "from": "book:index-of-premises",
         "to": "openness-is-consistency",
         "rel": "collects",
-        "label": "Openness Is Consistency"
+        "label": "开放即一致 / Openness Is Consistency"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-reversal-of-verification",
+        "rel": "collects",
+        "label": "验证的倒置 / The Reversal of Verification"
       },
       {
         "from": "book:index-of-premises",
@@ -84382,6 +84517,12 @@
         "to": "the-density-of-judgment",
         "rel": "collects",
         "label": "判断的密度 / The Density of Judgment"
+      },
+      {
+        "from": "book:tools-and-progress",
+        "to": "the-reversal-of-verification",
+        "rel": "collects",
+        "label": "验证的倒置 / The Reversal of Verification"
       }
     ]
   }
