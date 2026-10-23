@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-23T14:00:43.506Z",
+    "generated_at": "2026-10-23T14:02:36.851Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -57,7 +57,7 @@
       "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "1629917a17b9",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "de3299fb5449",
       "content/posts/curiosity-has-no-final-form.md": "100335def2de",
-      "content/posts/cybersecurity-arms-race.md": "1985661caf9b",
+      "content/posts/cybersecurity-arms-race.md": "148e05f366f1",
       "content/posts/data-is-local-intelligence-is-allocated.md": "add6923af446",
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "6ef0fd1e62bc",
       "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "434ad917ad64",
@@ -430,10 +430,10 @@
     },
     "stats": {
       "posts": 403,
-      "edges": 11124,
-      "unique_directed": 5457,
+      "edges": 11126,
+      "unique_directed": 5458,
       "missing_targets": 0,
-      "one_way": 845,
+      "one_way": 844,
       "isolated": 0,
       "posts_with_outbound": 403,
       "book_pages": 16,
@@ -1946,12 +1946,13 @@
       "slug": "cybersecurity-arms-race",
       "path": "content/posts/cybersecurity-arms-race.md",
       "title": "网络安全军备竞赛与感知范畴边界 / The Cybersecurity Arms Race",
-      "hash": "1985661caf9b",
+      "hash": "148e05f366f1",
       "in_degree": 2,
-      "out_degree": 2,
+      "out_degree": 3,
       "links_out": [
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-        "your-codebase-is-memory"
+        "your-codebase-is-memory",
+        "the-reversal-of-verification"
       ]
     },
     {
@@ -9093,7 +9094,7 @@
       "path": "content/posts/the-reversal-of-verification.md",
       "title": "验证的倒置 / The Reversal of Verification",
       "hash": "d9bdf6fc8678",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 8,
       "links_out": [
         "openness-is-consistency",
@@ -20003,7 +20004,7 @@
       "from": "cybersecurity-arms-race",
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
-      "label": "任务的委派与后果的不可让渡"
+      "label": "任务的移交与后果的不可让渡"
     },
     {
       "from": "cybersecurity-arms-race",
@@ -20022,6 +20023,18 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "cybersecurity-arms-race",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "cybersecurity-arms-race",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
     },
     {
       "from": "data-is-local-intelligence-is-allocated",

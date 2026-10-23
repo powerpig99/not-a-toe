@@ -12,7 +12,7 @@ The cybersecurity sector consists of firms, researchers, insurers, and investors
 
 Calling this dynamic "incentive misalignment" smuggles in an external reference frame—the customer's desire for a world without breaches—and treats deviation from that desire as an error. The incentives are not misaligned; they optimize accurately for what the participants' instruments can perceive. A firm whose perceptual apparatus consists of recurring revenue, retention rates, and valuation multiples has no metric that registers shrinking its own addressable market as success; if a firm eradicated its threat class, every signal reaching its executives, engineers, and shareholders would read as career and commercial failure.
 
-这场军备竞赛的延续同样不需要任何幕后阴谋。由于剖析漏洞所需的专业深度与制造或放大威胁的能力直接同构，分散的行动者只需顺着陡峭的局部激励梯度各自优化，便会在没有中心合谋的情况下走出高度协同的轨迹。安全研究员靠挖掘并披露新型攻击面晋升，厂商靠渲染针对这些攻击面的先发防御方案扩张，监管机构则通过强制合规底线为整个行业锁定刚性的经常性支出。
+这场军备竞赛的延续同样不需要任何幕后阴谋。由于剖析漏洞所需的专业深度与制造或放大威胁的能力直接重叠，分散的行动者只需顺着陡峭的局部激励梯度各自优化，便会在没有中心合谋的情况下走出高度协同的轨迹。安全研究员靠挖掘并披露新型攻击面晋升，厂商靠渲染针对这些攻击面的先发防御方案扩张，监管机构则通过强制合规底线为整个行业锁定刚性的经常性支出。
 
 ```mermaid
 flowchart TD
@@ -26,7 +26,7 @@ flowchart TD
     subgraph S_Invert["先发成本倒置与主权归位"]
         direction TB
         Preempt["无上界的先发防御支出：由恐惧驱动的预防开销远超有界的事后恢复成本"]
-        Direct["收回因果所有权 (+1)：将可验证性与代码库韧性留在第一人称委托人手中"]
+        Direct["收回因果所有权 (+1)：将验证留在委托人手中，并越过工具保持开放"]
         Preempt --> Direct
     end
     Couple ==>|"持续通胀风险感知以证成不断膨胀的防务预算"| Preempt
@@ -53,7 +53,7 @@ flowchart TD
     subgraph S_Invert["Preemptive Cost Inversion vs. Direct Ownership"]
         direction TB
         Preempt["Unbounded Preemptive Spend: Anticipatory fear dwarfs bounded post-hoc recovery costs"]
-        Direct["Reclaiming Causal Ownership (+1): Keep verification and codebase resilience with the principal"]
+        Direct["Reclaiming Causal Ownership (+1): Keep verification with the principal, held open past the tool"]
         Preempt --> Direct
     end
     Couple ==>|"Inflates perceived risk to justify expanding defensive overhead"| Preempt
@@ -82,6 +82,10 @@ This exposes the preemptive cost inversion at the core of threat-dependent indus
 
 The same structural geometry generalizes across insurance, compliance bureaucracies, and defense alliances whose institutional survival depends on the hazard they were chartered to address. On an insurance balance sheet, every dollar of premium above expected payouts—all actuarial overhead, claims administration, marketing, and profit—is the surcharge paid to an intermediary whose business model requires risk perception to exceed actual loss.
 
-在所有这些现象底下运转的都是同一条根源算术：一旦问题的承受者把解决问题的任务委派给一个按持续维护收费的外部实体，代理者的感知器官就会把问题的延续登记为稳定，把问题的恶化登记为增长。正如[任务的委派与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)与[你的代码库即是记忆](../your-codebase-is-memory/)所确立的，外部厂商与智能体可以代为执行具体流程，但架构后果的主权从不曾离开第一人称的承受者；唯有把代码库与系统的可恢复性、精简度与直接验证留在活生生的心智边缘，优化地貌上才会真正出现“问题解决”这一吸引盆。
+在所有这些现象底下运转的都是同一条根源算术：一旦问题的承受者把解决问题的任务委派给一个按持续维护收费的外部实体，代理者的感知器官就会把问题的延续登记为稳定，把问题的恶化登记为增长。正如[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)与[你的代码库即是记忆](../your-codebase-is-memory/)所确立的，外部厂商与智能体可以代为执行具体流程，但架构后果的主权从不曾离开第一人称的承受者；唯有把代码库与系统的可恢复性、精简度与直接验证留在活生生的心智边缘，优化地貌上才会真正出现“问题解决”这一吸引盆。
 
 Beneath every instance sits a single root mechanism: the moment a problem-holder delegates the resolution of a problem to a separate entity paid for ongoing mitigation, the delegate's perception apparatus registers the problem's continuation as stability and its escalation as growth. As [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) and [Your Codebase Is Memory](../your-codebase-is-memory/) establish, an external agent or vendor can execute delegated routines, but the consequence of the architecture never leaves the principal; keeping the codebase clean, recoverable, and directly verifiable at the living edge is the only move whose optimization surface actually includes solving the problem.
+
+把验证留在委托人手中，并不能单凭这一步终结这种耦合，因为验证既可以向外委派，也可以向内委派。[验证的倒置](../the-reversal-of-verification/)在源头处追溯了同一种分离：当一个工具或一种方法的通过结果被当作信任的起点，而不是被当作使用它的那份能力手中的器具时，委托人便已把验证委派给了方法，而方法封闭的参照就不再登记落在它之外的一切，正如厂商的营收指标不再登记威胁的根除。由此，第一节所说的两用专长便说明了为何没有哪件工具能终结这场竞赛。剖析漏洞的专长与制造漏洞的能力相互重叠，承载这份专长的工具对双方同样开放，因此共享的工具拉平了技术手段。仍将防御者与攻击者区分开来的，是保留下来的开放：越过工具继续验证的能力，以及在下一个区分到来时，重新追溯工具自身所依托的可信基的能力。这份能力无法作为服务买来，也无法作为方法存起来；它存在于使用之中，存在于问题被承担的那道边缘上。
+
+Keeping verification with the principal does not end the coupling by that move alone, because verification can be delegated inward as well as outward. [The Reversal of Verification](../the-reversal-of-verification/) traces the same split at its source: when the passing output of a tool or a method is held as the origin of trust rather than as an instrument of the capacity that uses it, the principal has delegated to a method, and the method's closed reference stops registering whatever falls outside it, the way a vendor's revenue metrics stop registering eradication. The dual-use expertise of the first section then shows why no tool ends the race. The expertise that dissects a vulnerability overlaps with the capability to generate one, and the tools that carry it are open to both sides, so shared tooling equalizes the technical means. What still divides defender from attacker is retained openness, the capacity to keep verifying past the tool and to re-trace the trusted base the tool itself rests on when the next distinction arrives. That capacity cannot be bought as a service or banked as a method; it exists in use, at the edge where the problem is held.
