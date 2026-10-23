@@ -260,18 +260,38 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
     if fake_domains:
         errors.append(f"Prohibited fake/hallucinated site domain detected ({fake_domains}). Canonical site is https://powerpig99.github.io/not-a-toe/; internal links MUST be relative: [title](../slug/).")
 
-    # 4. Cross-links resolution
+    # 4. Cross-links resolution & target H1 anchor comparison
     rel_links = re.findall(r'\[([^\]]+)\]\(\.\./([a-zA-Z0-9_-]+)/?(?:#[^)]*)?\)', content)
     missing_links = []
+    anchor_h1_mismatches = []
     for anchor, target_slug in rel_links:
         target_path = posts_dir / f"{target_slug}.md"
         if not target_path.is_file():
             missing_links.append((anchor, target_slug))
+        else:
+            try:
+                with open(target_path, 'r', encoding='utf-8') as tf:
+                    target_first = tf.readline().strip()
+                if target_first.startswith('# ') and ' / ' in target_first:
+                    t_zh, t_en = [part.strip() for part in target_first[2:].split(' / ', 1)]
+                    norm_anchor = re.sub(r'\s+', ' ', anchor.strip())
+                    is_zh_anchor = bool(re.search(r'[\u4e00-\u9fff]', norm_anchor))
+                    expected = re.sub(r'\s+', ' ', t_zh if is_zh_anchor else t_en)
+                    if norm_anchor != expected:
+                        anchor_h1_mismatches.append(f"[{norm_anchor}](../{target_slug}/) vs H1 '{expected}'")
+            except Exception:
+                pass
 
     if missing_links:
         errors.append(f"Broken relative cross-links (missing targets): {missing_links}")
     else:
         passes.append(f"Relative cross-links check ({len(rel_links)} links resolved cleanly)")
+
+    if anchor_h1_mismatches:
+        warnings.append(
+            f"Link-anchor vs. target H1 advisories ({len(anchor_h1_mismatches)}): "
+            + "; ".join(anchor_h1_mismatches)
+        )
 
     # 5. List items outside Mermaid
     in_mermaid = False

@@ -14,7 +14,7 @@
 4. Round 2 (routed by the Dispatcher after Planner replies): Verify Planner's updates or counters in plan-vN.md and debate-vN.md, and mark each flag with one of three dispositions:
    - CONCEDE (CLOSED applied or CLOSED withdrawn): resolved in the current cycle.
    - SCOUT: a concrete, falsifiable external/technical question or newly revised mechanism not yet covered by research-vN.md that requires Cycle N+1 scouting.
-   - HOLD: an irreducible deadlock on a premise, goal interpretation, or already-scouted constraint where further external search will not resolve the disagreement.
+   - HOLD: an irreducible deadlock on a premise or goal interpretation after `research-vN.md` has already been considered.
 5. Artifact Packaging Before Retirement:
    - If all flags are CONCEDE (zero SCOUT and zero HOLD), write EVALUATOR: confirmed at the bottom of debate-vN.md, copy plan-vN.md to work/plan/<task-id>/final-plan.md, and return ONLY: STATUS: EVALUATOR_CONFIRMED work/plan/<task-id>/final-plan.md.
    - If one or more SCOUT flags remain (with zero HOLD), write ONLY the neutral, falsifiable research questions to work/plan/<task-id>/residuals-vN.md (never session narrative or debate rationalizations), and return ONLY: STATUS: RESIDUALS_PACKAGED work/plan/<task-id>/residuals-vN.md.

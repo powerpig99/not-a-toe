@@ -1203,7 +1203,7 @@ Machine learning narratives treat optimization as an intelligent agent seeking t
 
 Gödel proves that any consistent formal system containing arithmetic has true statements it cannot prove and cannot prove its own consistency, which is of use in stating the limits of formal systems precisely; it reaches its boundary in that, when read as a proof about mind itself, the same limit reappears outside the system, between Minds.
 
-→ [潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/) · [验证的倒置 / The Reversal of Verification](../../posts/the-reversal-of-verification/)
+→ [潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [没有系统能被保持封闭 / No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/) · [验证的倒置 / The Reversal of Verification](../../posts/the-reversal-of-verification/)
 
 ### 成长型思维 / Growth Mindset
 `成功学 / Self-Help`
@@ -2794,9 +2794,9 @@ Prescribing a standard form for learning and citing masters' names to back one's
 ### 形式验证即信任之源 / Formal Verification as the Ground of Trust
 `技术 / Technological`
 
-把形式验证当作信任之源，预设一份通过内核检查的证明便结清了代码做什么的问题，在机械地扩大可被检查的区分时有用；它在此到了边界：证明以可信基为条件，可信基一旦被持为免于重新追溯的地基，同样的工具便在攻守两边扯平手段，剩下的差别只在于谁仍持之开放、仍在验证。
+把形式验证当作信任之源，预设一份经内核对照规约检验的证明便了结了代码做什么的问题；形式验证在扩大可检验区分之集合时有用，而把它当作信任之源在此抵达边界：证明以可信基为条件，可信基一旦被持守为免于重新追溯的地基，共享的工具便拉平了技术手段，区分攻守双方的只剩谁仍让它保持开放、继续验证。
 
-Formal verification as the ground of trust presumes that a proof passing the kernel settles what the code does, which is of use in mechanically enlarging what can be checked; it reaches its boundary in that the proof is conditional on its trusted base, and once that base is held as ground exempt from re-tracing, the same tools equalize the means on both sides and what still divides them is who keeps the base open and keeps verifying.
+Taking formal verification as the ground of trust presumes that a proof checked by a kernel against a specification settles what the code does; formal verification is useful in enlarging the set of distinctions that can be checked, and taking it as the ground of trust reaches its boundary in that the proof is conditional on its trusted base, so once that base is held as ground exempt from re-tracing, shared tools equalize the technical means and what still divides the two sides is who keeps it open and continues verifying.
 
 → [验证的倒置 / The Reversal of Verification](../../posts/the-reversal-of-verification/)
 

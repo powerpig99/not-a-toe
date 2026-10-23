@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-23T17:28:48.198Z",
+    "generated_at": "2026-10-23T23:09:17.163Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -338,7 +338,7 @@
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "4e0a51e77cf0",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "9e39c50c5595",
       "content/posts/the-reversal-of-education-and-science.md": "6bc635c24685",
-      "content/posts/the-reversal-of-verification.md": "d9bdf6fc8678",
+      "content/posts/the-reversal-of-verification.md": "02f9845efe25",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "dd6f1054d23b",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "7a0ec6232ce8",
       "content/posts/the-scaffolding-that-keeps-growing.md": "35bd1ad4ae31",
@@ -414,7 +414,7 @@
       "content/book/causality.md": "51d6cd58236e",
       "content/book/consciousness.md": "07e90c9d3d1f",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "4a262d67b30f",
+      "content/book/index-of-premises.md": "824c4def5067",
       "content/book/intelligence.md": "ac860f2bf532",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "0caf97231862",
@@ -9107,7 +9107,7 @@
       "slug": "the-reversal-of-verification",
       "path": "content/posts/the-reversal-of-verification.md",
       "title": "验证的倒置 / The Reversal of Verification",
-      "hash": "d9bdf6fc8678",
+      "hash": "02f9845efe25",
       "in_degree": 18,
       "out_degree": 8,
       "links_out": [
@@ -77878,7 +77878,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "4a262d67b30f",
+        "hash": "824c4def5067",
         "out_degree": 403
       },
       {
@@ -79657,7 +79657,7 @@
         "from": "book:index-of-premises",
         "to": "no-system-can-be-kept-closed",
         "rel": "collects",
-        "label": "No System Can Be Kept Closed"
+        "label": "没有系统能被保持封闭 / No System Can Be Kept Closed"
       },
       {
         "from": "book:index-of-premises",
