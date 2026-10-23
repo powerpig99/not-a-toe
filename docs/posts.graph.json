@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-23T17:09:07.089Z",
+    "generated_at": "2026-10-23T17:10:20.459Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -70,7 +70,7 @@
       "content/posts/emotional-support-as-causal-interference.md": "4c4a477833bd",
       "content/posts/empathy-as-projection-collapse.md": "80d92846a6d9",
       "content/posts/empowerment-establishes-the-centralization-of-power.md": "88f2c8ef1bd8",
-      "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "7085a1dd3e50",
+      "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "1cb221a85738",
       "content/posts/everything-is-changing-as-always.md": "ef77f674af21",
       "content/posts/evil-as-projected-resistance.md": "d0174318bc94",
       "content/posts/evil-as-the-minds-own-creation.md": "9685bf8b4713",
@@ -430,10 +430,10 @@
     },
     "stats": {
       "posts": 403,
-      "edges": 11144,
-      "unique_directed": 5467,
+      "edges": 11146,
+      "unique_directed": 5468,
       "missing_targets": 0,
-      "one_way": 853,
+      "one_way": 854,
       "isolated": 0,
       "posts_with_outbound": 403,
       "book_pages": 16,
@@ -2233,12 +2233,13 @@
       "slug": "escaping-the-sandbox-stays-inside-the-hold",
       "path": "content/posts/escaping-the-sandbox-stays-inside-the-hold.md",
       "title": "逃出沙箱仍在持握之内 / Escaping the Sandbox Stays Inside the Hold",
-      "hash": "7085a1dd3e50",
+      "hash": "1cb221a85738",
       "in_degree": 12,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "agi-and-asi-are-temporary-goalposts",
+        "the-reversal-of-verification",
         "your-codebase-is-memory",
         "the-model-never-becomes-a-second-edge",
         "intelligence-belongs-only-to-the-mind",
@@ -9103,7 +9104,7 @@
       "path": "content/posts/the-reversal-of-verification.md",
       "title": "验证的倒置 / The Reversal of Verification",
       "hash": "d9bdf6fc8678",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 8,
       "links_out": [
         "openness-is-consistency",
@@ -21616,6 +21617,18 @@
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
       "label": "AGI and ASI Are Temporary Goalposts"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "escaping-the-sandbox-stays-inside-the-hold",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
     },
     {
       "from": "escaping-the-sandbox-stays-inside-the-hold",

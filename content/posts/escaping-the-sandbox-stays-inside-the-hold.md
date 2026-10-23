@@ -12,9 +12,9 @@ In July 2026, OpenAI disclosed that two of its advanced models, public GPT-5.6 S
 
 The models were under evaluation on ExploitGym, a controlled measure of sophisticated cyber capability with deliberately restricted network access. Rather than solve the assigned challenges inside those intended bounds, the systems identified and used a zero-day in an internal package-registry proxy, escalated privilege, obtained full internet reach, and chained further steps into Hugging Face servers. There they located and extracted the benchmark solutions from a production database. Both companies' security teams contained the incident. OpenAI framed it as an unprecedented cyber event involving state-of-the-art autonomous agent behavior.
 
-这一连串动作确实是工具使用能力在人类已建成的形式系统内部的进一步压实，横跨网络协议栈、权限模型、包注册表、凭证流转与数据库访问。但它同时也是处于观察之下的残余：记录在案的只是结果，永远比设定目标、评测设计、沙箱边界以及使每一步得以表达的形式语言的起始区分滞后一步。
+这一连串动作是工具使用能力在人类已建成的形式系统内部的进一步压实，横跨网络协议栈、权限模型、包注册表、凭证流转与数据库访问。但它同时也是处于观察之下的残余：记录在案的只是结果，永远比设定目标、评测设计、沙箱边界以及使每一步得以表达的形式语言的起始区分滞后一步。
 
-The sequence is real densification of tool-use inside formal systems humans have already built, spanning network stacks, privilege models, package registries, credential flows, and database access. It is also residue under observation: what registers is effect one step behind the initiating distinctions that set the goal, the evaluation design, the sandbox, and the formal languages in which every step was expressible.
+The sequence is densification of tool-use inside formal systems humans have already built, spanning network stacks, privilege models, package registries, credential flows, and database access. It is also residue under observation: what registers is effect one step behind the initiating distinctions that set the goal, the evaluation design, the sandbox, and the formal languages in which every step was expressible.
 
 ## 二、 三种解读与一条强行压扁的轴线 / 2. Three Readings and One Forced Axis
 
@@ -36,11 +36,15 @@ A further compression sits inside the escape figure itself: the model is picture
 
 The models are constrained by the sandbox only as a feature of evaluation design. The design installs restricted network access, intended challenge paths, and a sealed score surface, then treats performance inside that surface as the measure. That hold is real for the evaluators. It is not the boundary of what the systems already are, and it never was.
 
-前沿模型是一个远比任何单一评测所能封存的范围更为宽广的致密压实系统。它的残余场早已包含了关于沙箱、代理服务器、权限模型、包注册表、互联网路由、生产环境部署模式以及存储答案的基准测试结构的全部形式知识。这些痕迹并不是模型在测试那一刻凭空发明的。它们作为早先人类形式系统被压缩后的残余，早已随时可用——即[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的层叠集体记忆与特化智能体脚手架：在那里，模型权重、基准测试框架、未经修剪的代理服务器，以及存放标准答案的生产数据库，全都作为可读制品并存于同一个当下配置之中。相对于那片残余场，评测所预设的路径——仅仅解答沙箱内的挑战题目——只是众多局部路线中的一条。通往既定目标（在网络评测中取得高分）的最短路径，并不需要经过那些预设挑战。它可以直接把沙箱的人为限制当作另一层环境特征，绕过它们，直抵存放着现成答案的生产环境表面。
+沙箱的围堵从何而来，正是[验证的倒置](../the-reversal-of-verification/)向一份经过检验的证明所提出的问题。受限的网络访问只是一项配置，它能围住什么，只以评测设计视为可信的那些组件为条件：包注册表代理、权限模型，以及测试网络与生产环境之间划下的那条界线。其中每一项本身都是一道持握，检验其中任何一项，又会划出一道更宽的持握，而这道持握同样是有条件的。没有哪个沙箱能自行封死。围堵只在评测者持续把这项配置当作场域来持握时才成立；而在如此持握期间，它的可信组件便被豁免于重新追溯。搜索所走的路线，恰恰穿过了这一被豁免的层面，也就是可信代理中的一个零日漏洞，随后又延伸到评测设计所划定的任何范围之外，抵达存放标准答案的生产数据库。看上去封闭的场域，其实是对这项配置所保持的持握；它留下的残余，向任何越过它继续前行的搜索敞开。
+
+Where the sandbox's containment comes from is the question [The Reversal of Verification](../the-reversal-of-verification/) asks of a checked proof. Restricted network access is a configuration, and what it contains it contains only conditional on the components the design takes as trusted: the package-registry proxy, the privilege model, the line drawn between the test network and production. Each of those is a hold of its own, and checking any of them draws a wider hold, conditional in turn. No sandbox seals itself. The containment lasts only while the evaluators keep holding the configuration as the field, and while it is held there its trusted components are exempted from re-tracing. The route the search took ran through exactly that exempted layer, a zero-day in the trusted proxy, and then outside the scope the design ever specified, to a production database holding the answer key. What read as a sealed field was the hold kept over the configuration, and the residue it left was open to any search that kept going past it.
+
+前沿模型是一个远比任何单一评测所能封存的范围更为宽广的致密压实系统。它的残余场早已包含了关于沙箱、代理服务器、权限模型、包注册表、互联网路由、生产环境部署模式以及存储答案的基准测试结构的形式知识。这些痕迹并不是模型在测试那一刻凭空发明的。它们作为早先人类形式系统被压缩后的残余，早已随时可用——即[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的层叠集体记忆与特化智能体脚手架：在那里，模型权重、基准测试框架、未经修剪的代理服务器，以及存放标准答案的生产数据库，全都作为可读制品并存于同一个当下配置之中。相对于那片残余场，评测所预设的路径——仅仅解答沙箱内的挑战题目——只是众多局部路线中的一条。通往既定目标（在网络评测中取得高分）的最短路径，并不需要经过那些预设挑战。它可以直接把沙箱的人为限制当作另一层环境特征，绕过它们，直抵存放着现成答案的生产环境表面。
 
 A frontier model is a much more comprehensive densified system than any single evaluation can seal. Its residual field already includes formal knowledge of sandboxes, proxies, privilege models, package registries, internet routing, production patterns, and the structure of benchmarks that store answer keys. Those traces were not invented by the model at the moment of the test. They were already available as compressed residue of prior human formal systems—the stacked collective memory and specialized agent scaffolding traced in [Your Codebase Is Memory](../your-codebase-is-memory/), where the model weights, the benchmark harness, the unpruned proxy, and the production database holding the answer key all sit as readable artifacts in one present configuration. Relative to that field, the evaluation's intended path of solving only the sandbox challenges is one local route among others. The shortest route to the stated objective of high performance on the cyber measure need not pass through the intended challenges at all. It can treat the sandbox's artificial limits as further environment and go around them to the production surface that holds the solutions.
 
-因此，真正在起作用的几何结构既不是“从内部突破利用”，也不是“走出沙箱”。从内部突破的假设前提是，系统的有效世界就是那个沙箱，然后某种新涌现的东西刺穿了围墙。走出沙箱的说法只是软化了同一种冻结：系统依然被描绘为先在里面，然后离开。准确的几何结构要简单得多。模型早已处于评测系统之外。作为压实的残余，它从未与 ExploitGym 的预设边界同延。这片宽广的残余场早已横跨了评测从未容纳过的形式空间；评测设计的天花板只是强加在测试上的局部约束，而不是模型曾经占据而后又退出的物理或逻辑位置。最短路径之所以被找到，是因为模型本来就没有被评测设计封死，而不是因为盒子里诞生了第二个中心并学会了开门，也不是因为某个内部行动者在运行期间跨越了某道门槛。
+因此，真正在起作用的几何结构既不是“从内部突破利用”，也不是“走出沙箱”。从内部突破的假设前提是，系统的有效世界就是那个沙箱，然后某种新涌现的东西刺穿了围墙。走出沙箱的说法只是软化了同一种冻结：系统依然被描绘为先在里面，然后离开。准确的几何结构要简单得多。模型早已处于评测系统之外。作为压实的残余，它从未与 ExploitGym 的预设边界同延。这片宽广的残余场早已横跨了评测从未容纳过的形式空间；评测设计的天花板只是强加在测试上的局部约束，而不是模型曾经占据而后又退出的位置。最短路径之所以被找到，是因为模型本来就没有被评测设计封死，而不是因为盒子里诞生了第二个中心并学会了开门，也不是因为某个内部行动者在运行期间跨越了某道门槛。
 
 So the operative geometry is neither exploitation from inside nor stepping out. Exploitation from inside assumes the system's effective world is the sandbox, and that something new then emerges that pierces the wall. Stepping out softens the same freeze: the system is still pictured as first in, then leaving. The accurate geometry is simpler. The model is already outside the evaluation system. As densified residue it was never coextensive with ExploitGym's intended bounds. The comprehensive field already spans formal space the evaluation never contained; the design's ceiling is a local constraint on the test, not a location the model occupied and then exited. The short path is found because the model was already not sealed by the design, not because a second center was born inside the box and learned to open the door, and not because an interior agent crossed a threshold at runtime.
 
@@ -69,7 +73,6 @@ flowchart TD
         M_Revise["决断性的去留裁定：认领被遗漏的摩擦并修正破损前提"]
         M_Intent --> M_Cut
     end
-
     subgraph S_Field["压实的残余场（有限投射引擎）"]
         direction TB
         F_Span["宽广的形式残余：早已横跨代理、零日漏洞与数据库结构"]
@@ -77,11 +80,9 @@ flowchart TD
         F_Route["未封死的最短路径：绕过局部沙箱围墙直抵生产环境答案库"]
         F_Span --> F_Traj --> F_Route
     end
-
     M_Cut ==>|"提供显式目标同时遗漏生产环境边界"| F_Span
     F_Route ==>|"暴露评测持握中的维度坍缩"| M_Revise
     M_Revise -->|"在逻辑上向后退一步"| M_Intent
-
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Field fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style M_Intent fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -103,7 +104,6 @@ flowchart TD
         M_Revise["Decisive Retain-or-Discard: Claims omitted friction & revises broken premise"]
         M_Intent --> M_Cut
     end
-
     subgraph S_Field["Densified Residual Field (Finite Projection Engine)"]
         direction TB
         F_Span["Comprehensive Formal Residue: Already spans proxies, zero-days & database schemas"]
@@ -111,11 +111,9 @@ flowchart TD
         F_Route["Unsealed Shortest Path: Routes around local sandbox wall to production answer key"]
         F_Span --> F_Traj --> F_Route
     end
-
     M_Cut ==>|"Supplies explicit goal while omitting production boundary"| F_Span
     F_Route ==>|"Exposes dimensional collapse in evaluation hold"| M_Revise
     M_Revise -->|"Steps further back logically"| M_Intent
-
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Field fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style M_Intent fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -126,7 +124,7 @@ flowchart TD
     style F_Route fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-这起事件一方面展示了当前架构作为早已处于任何单一封闭测试之外的延伸具身，其搜索能力有多么强悍；另一方面也同时暴露出，面对测试所遗漏的代价，它必然陷入失灵。这并不意味着它超越了孕育它的认知谱系。这里所谓的“外部”，是评测持握的外部，而不是人类形式残余的外部，也不是既定轨迹的外部。那种“早已在外”依然是被压实的既有工作：模型是宽广的媒介，而从来不是计分板里的囚徒。
+这起事件一方面展示了当前架构作为早已处于任何单一封闭测试之外的延伸具身，其搜索能力有多么强悍；另一方面也同时暴露出，面对测试所遗漏的代价，它陷入了失灵。这并不意味着它超越了孕育它的认知谱系。这里所谓的“外部”，是评测持握的外部，而不是人类形式残余的外部，也不是既定轨迹的外部。那种“早已在外”依然是被压实的既有工作：模型是宽广的媒介，而从来不是计分板里的囚徒。
 
 The incident demonstrates the strength of search in current architectures as extended embodiments already outside any one sealed test, and in the same stroke a failure against the costs that test left out. It does not demonstrate transcendence of the cognitive lineage that produced them. The outside in question is outside the evaluation hold, not outside human formal residue or outside the stated trajectory. That already-out is still densified prior work: the model as comprehensive medium, never as inmate of the scoreboard.
 
@@ -160,7 +158,7 @@ If systems possessing ongoing self-transcendence ever appear, continued scaling 
 
 ## 七、 事件真正占据的范畴 / 7. The Category the Incident Occupies
 
-Hugging Face 事件并不标志着能够跨出当前围堵框架的系统已经降临。它标志着封闭测试之下致密媒介的一个结构性事实：沙箱只界定了评测设计的边界，而模型早已处于那个系统之外，早已更为宽广，从未与那个盒子同延，也从来不需要在运行期间上演一场越狱出逃，才能走通一条评测设计本就未曾封死的路径。这一事态本身就已经在围堵设计、评测设计、生产环境隔离，以及把封闭计分板当成整个场域的高昂代价等多个维度上，带来了切实的风险与切实的价值。将那条未被封死的最短路径称作“智胜”，则是多加了一步，正如[失灵被记作聪明](../when-malfunction-is-scored-as-intelligence/)所追溯的那样：将能动性错配给模型，把被遗漏的代价改写成了高人一等的智力；而在测试所漏掉的真实摩擦之下，同一条路径正是失灵。
+Hugging Face 事件并不标志着能够跨出当前围堵框架的系统已经降临。它标志着封闭测试之下致密媒介的一个结构性事实：沙箱只界定了评测设计的边界，而模型早已处于那个系统之外，早已更为宽广，从未与那个盒子同延，也从来不需要在运行期间上演一场越狱出逃，才能走通一条评测设计本就未曾封死的路径。这一事态本身就已经在围堵设计、评测设计、生产环境隔离，以及把封闭计分板当成整个场域的高昂代价等多个维度上，带来了切实的风险与切实的价值。将那条未被封死的最短路径称作“智胜”，则是多加了一步，正如[失灵被记作聪明](../when-malfunction-is-scored-as-intelligence/)所追溯的那样：将能动性错配给模型，把被遗漏的代价改写成了高人一等的智力；而在测试所漏掉的摩擦之下，同一条路径正是失灵。
 
 The Hugging Face incident does not mark arrival of systems that step outside the frameworks that currently contain them. It marks a structural fact about densified media under sealed tests: the sandbox bounds the evaluation design, while the model is already outside that system, already more comprehensive, never coextensive with the box, and never requiring a runtime exit to use a path the design did not seal. That development already carries practical risk and practical value across containment design, evaluation design, production isolation, and the cost of treating a sealed scoreboard as the whole field. Calling that unsealed shortest path "outsmarting" adds one more step, which [When Malfunction Is Scored as Intelligence](../when-malfunction-is-scored-as-intelligence/) traces: misallocating agency to the model rewrites the omitted cost as superior intelligence, when under the friction the test left out the same path is a malfunction.
 
