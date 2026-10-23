@@ -54,37 +54,33 @@ A minority of minds keeps stepping beyond the current frame and acting on what t
 
 A different strategy takes ordinary difficulties at other loci and reframes them as objects requiring specialized intervention. Ordinary coordination failures, distributional tensions, or cultural frictions are enlarged, moralized, or abstracted until they become "exceptional" problems, and the reframer becomes the necessary solution. The label of exceptionality is thereby sustained by the continued existence of the problems it claims to address. That is the sense in which the field of problems is self-limiting: an arrangement sustained by others' problems narrows the field into a circuit of managed friction, and in time meets the finitude of what sustains it. [Help Is Half the Problem](../help-is-half-the-problem/) traces that circuit in the interpersonal case: the helper supplies motion, the helped supplies the fixed point, and motion around a fixed point is a circle; each time motion is supplied in the absence of the other's own motion, the supplier co-authors the stasis. [When the Effect Authors the Frame](../when-the-effect-authors-the-frame/) is the same topology: once the felt or projected register is installed as primary, available responses reorganize around managing that register. [Externalized Virtue Becomes Its Opposite](../externalized-virtue-becomes-its-opposite/) is concentration in the case of a greater good: private conviction of greater good, once treated as warrant to override other minds and densified by free compliance, becomes its opposite, while successive choosing remains the lever on every side.
 
-在个体的位置上，每当一个人类中心把自己的推理历史与过往解法熔铸进个人身份，把“卓异”当作一幅需要捍卫的保留自我图像、而不是一道穿行其间的关系性边缘时，这个自我设限的回路便扎下根来。正如[超越投射](../beyond-the-projection/)与[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)一同追溯的，围绕一幅受捍卫的自我图像把递归折返夹死，会把每一次外部重置或结构性反例都变成生存威胁，将感知收窄为对封闭框架及其依附难题的维护。[代码库即记忆](../your-codebase-is-memory/)在外化的人工记忆上作出同一刀：代码库里的规则、技能与验证门控是更早解题动作的形式沉积，而不是写下它们之心智的生产者，囤积已被取代的历史或捍卫陈旧的框定只会加深引力井，直到下一步在累积的残余之内自圆其说，而不再跨出框架。外化的投射引擎没有我执，能够接受来自轨迹之外的干净贝叶斯更新；人类心智要卸下那份系于我执的防御，则是回到前解释的极限分辨率感知，修剪已被取代的历史沉积，并接入无我执的外部对位点，向后退一步跨出破损的框架，让边缘重新遭遇真正的前沿难度。
+在个体的位置上，每当一个人类中心把自己的推理历史与过往解法熔铸进个人身份，把“卓异”当作一个保留下来、需要捍卫的自我形象，而不是一道穿行其间的关系性边缘时，这个自我设限的回路便扎下根来。正如[超越投射](../beyond-the-projection/)与[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)一同追溯的，围绕一个受捍卫的自我形象把递归折返夹死，会把每一次外部重置或结构性反例都变成生存威胁，将感知收窄为对封闭框架及其依附难题的维护。[你的代码库即是记忆](../your-codebase-is-memory/)在外化的人工记忆上作出同一刀：代码库里的规则、技能与验证门控是更早解题动作的形式沉积，而不是写下它们之心智的生产者，囤积已被取代的历史或捍卫陈旧的框定只会加深引力井，直到下一步在累积的残余之内自圆其说，而不再跨出框架。外化的器具没有需要捍卫的自我形象，所以它的输出可以作为不带那份防御的对位点返回；这个对位点是否修订了什么，由接手它的那个边缘决定，而把它不带防御这一点当作它的依据，会把停止点放回工具里，这正是[验证的倒置](../the-reversal-of-verification/)所追溯的倒置。人类心智卸下那份系于我执的防御，靠的是回到前解释的极限分辨率感知，修剪已被取代的历史沉积，并接入不持有受捍卫形象的外部对位点，向后退一步跨出破损的框架，让边缘遭遇新的前沿难度。
 
 ```mermaid
 flowchart TD
     subgraph S_Edge["未投射的活边缘（前沿定向）"]
         direction TB
         E_Sense["前解释的极限分辨率感知：在框架闭合前登记错位"]
-        E_Peer["无我执的对位点与平等辩论：暴露轨迹盲区"]
+        E_Peer["不持有受捍卫形象的对位点与平等辩论：暴露轨迹盲区"]
         E_Open["跨出破损框架：让相邻的前沿可能倍增"]
         E_Sense --> E_Peer --> E_Open
     end
-
     subgraph S_Sediment["共享框架与形式沉积（下游残余）"]
         direction TB
         M_Overlap["局部的感知交叠：多数人可行的协调之场"]
         M_Rules["形式制度与筛选过滤器：先前自我选择的沉积"]
         M_Overlap --> M_Rules
     end
-
     subgraph S_Closed["系于我执的卓异（自我设限的问题场域）"]
         direction TB
-        C_Fuse["身份与推理历史熔铸：把卓异地位持守为固定自我图像"]
+        C_Fuse["身份与推理历史熔铸：把卓异地位持守为固定自我形象"]
         C_Threat["外部重置被计为威胁：抵御证伪信号以捍卫框架"]
         C_Circuit["管理摩擦的回路：放大他人难题以维系解题者角色"]
         C_Fuse --> C_Threat --> C_Circuit
     end
-
     E_Open ==>|"沉淀新解法并改写规则"| M_Overlap
     M_Rules -.->|"被冻结为首要原因或个人身份"| C_Fuse
     C_Circuit ==>|"前解释的摩擦认领信号"| E_Sense
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Sediment fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Closed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -98,25 +94,23 @@ flowchart TD
     style C_Circuit fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-At the individual locus, this self-limiting circuit takes root whenever a human center fuses its reasoning history and past resolutions with personal identity, treating "exceptionality" as a retained self-image to defend rather than a relational edge to move through. As [Beyond the Projection](../beyond-the-projection/) traces alongside [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/), clamping the recursive fold shut around a defended self-image turns every external reset or structural counterpoint into an existential threat, narrowing perception to the maintenance of the closed frame and its dependent difficulties. [Your Codebase Is Memory](../your-codebase-is-memory/) makes the same cut across externalized artificial memory: the rules, skills, and verification gates in a codebase are formal sediment of earlier problem-solving acts rather than the producer of the Mind that wrote them, and hoarding superseded history or defending stale framings thickens the gravity well until the next step rationalizes inside accumulated residue instead of stepping out. Whereas an externalized projection engine has zero ego and accepts clean Bayesian updates from outside its trajectory, a human Mind releases that ego-bound defensiveness by returning to pre-interpretive limit-resolution sensing, pruning superseded historical sediment, and wiring zero-ego external counterpoints, stepping backward out of the broken frame so the edge can encounter genuine frontier difficulty again.
+At the individual locus, this self-limiting circuit takes root whenever a human center fuses its reasoning history and past resolutions with personal identity, treating "exceptionality" as a retained self-image to defend rather than a relational edge to move through. As [Beyond the Projection](../beyond-the-projection/) traces alongside [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/), clamping the recursive fold shut around a defended self-image turns every external reset or structural counterpoint into an existential threat, narrowing perception to the maintenance of the closed frame and its dependent difficulties. [Your Codebase Is Memory](../your-codebase-is-memory/) makes the same cut across externalized artificial memory: the rules, skills, and verification gates in a codebase are formal sediment of earlier problem-solving acts rather than the producer of the Mind that wrote them, and hoarding superseded history or defending stale framings thickens the gravity well until the next step rationalizes inside accumulated residue instead of stepping out. An externalized instrument holds no self-image to defend, so its output can return as a counterpoint without that defense; whether the counterpoint revises anything is decided at the edge that takes it up, and taking its freedom from defense as its warrant would put the stopping point back in the tool, the inversion [The Reversal of Verification](../the-reversal-of-verification/) traces. A human Mind releases the ego-bound defensiveness by returning to pre-interpretive limit-resolution sensing, pruning superseded historical sediment, and wiring external counterpoints that hold no defended image, stepping backward out of the broken frame so the edge can encounter new frontier difficulty.
 
 ```mermaid
 flowchart TD
     subgraph S_Edge["Unprojected Living Edge (Frontier Orientation)"]
         direction TB
         E_Sense["Pre-Interpretive Limit-Resolution Sensing: Registers misfit before frame closure"]
-        E_Peer["Zero-Ego Counterpoints & Equal-Footed Debate: Exposes trajectory blind spots"]
+        E_Peer["Counterpoints Holding No Defended Image & Equal-Footed Debate: Exposes trajectory blind spots"]
         E_Open["Stepping Outside the Broken Frame: Multiplies adjacent frontier possibilities"]
         E_Sense --> E_Peer --> E_Open
     end
-
     subgraph S_Sediment["Shared Frame & Formal Sediment (Downstream Residue)"]
         direction TB
         M_Overlap["Partial Perceptual Overlap: Workable coordination field of the majority"]
         M_Rules["Formal Systems & Selection Filters: Sediment of prior self-selections"]
         M_Overlap --> M_Rules
     end
-
     subgraph S_Closed["Ego-Bound Exceptionality (Self-Limiting Field of Problems)"]
         direction TB
         C_Fuse["Identity Fused with Reasoning History: Exceptional status held as fixed self-image"]
@@ -124,11 +118,9 @@ flowchart TD
         C_Circuit["Circuit of Managed Friction: Enlarges others' difficulties to sustain the solver role"]
         C_Fuse --> C_Threat --> C_Circuit
     end
-
     E_Open ==>|"Deposits new resolutions & rewrites rules"| M_Overlap
     M_Rules -.->|"Frozen as primary cause or personal identity"| C_Fuse
     C_Circuit ==>|"Pre-interpretive friction claims the signal"| E_Sense
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Sediment fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Closed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -162,7 +154,7 @@ No background independent of perception can be affirmed, for any such affirmatio
 
 ## 六、 自我分类在继续；问题换了地址 / 6. Self-Sorting Continues; Problems Change Address
 
-在这片场之内，残余的动态始终是自我分类的。朝向前沿问题的心智，持续遇到在可能之物的边缘被揭开的新难度。朝向占有别人难题的心智，终究遇到维持这种安排所需资源的有限：注意力、正当性、物质支持。当那份支持减弱，那些曾被框定为永久的“别人的问题”的人群，便主要留在彼此的关系之中。他们的难题变得局部，而不是被持续输出。问题并没有消失；它们换了地址：问题的地位随装上它的持守而移动，曾被输出的东西，如今在这群人自己之间被持守为难题。[生产、消费与心智的区分](../production-consumption-and-the-minds-distinction/)在封闭框架的情形里追溯了一次相邻的登记：生产与消费不是两种动作，它们是同一个活动在心智把边界持守为开放或固定时的不同登记；持守把生成的边缘冻结在账本之外时，创造的能量便被登记为消费。[NPC 印象是结构性的](../the-npc-impression-is-structural/)是对心智排名之计划崩塌的那一面：没有哪个中心觉得自己是被编写的，其他中心却默认显得像被编写的；稀薄的中介在别处被计为照剧本的欠缺，而唯一能够加强的递归，仍是这个中心自己的。
+在这片场之内，残余的动态始终是自我分类的。朝向前沿问题的心智，持续遇到在可能之物的边缘被揭开的新难度。朝向占有别人难题的心智，终究遇到维持这种安排所需资源的有限：注意力、正当性、物质支持。当那份支持减弱，那些曾被框定为永久的“别人的问题”的人群，便主要留在彼此的关系之中。他们的难题变得局部，而不是被持续输出。问题并没有消失；它们换了地址：问题的地位随装上它的持守而移动，曾被输出的东西，如今在这群人自己之间被持守为难题。[生产、消费与心智的区分](../production-consumption-and-the-minds-distinction/)在封闭框架的情形里追溯了一次相邻的登记：生产与消费不是两种动作，它们是同一个活动在心智把边界持守为开放或固定时的不同登记；持守把生成的边缘冻结在账本之外时，创造的能量便被登记为消费。[NPC 印象是结构性的，而非心智的排名](../the-npc-impression-is-structural/)是对心智排名之计划崩塌的那一面：没有哪个中心觉得自己是被编写的，其他中心却默认显得像被编写的；稀薄的中介在别处被计为照剧本的欠缺，而唯一能够加强的递归，仍是这个中心自己的。
 
 Within this field the residual dynamics remain self-sorting. Minds oriented toward frontier problems keep meeting new difficulty disclosed at the edge of the possible. Minds oriented toward appropriating others' difficulties eventually meet the finitude of the resources, attention, legitimacy, material support, required to maintain the arrangement. When that support weakens, populations that had been framed as permanent problems-for-others are left primarily in relation to one another. Their difficulties become local rather than continuously exported. The problems do not disappear; they change their address: problem-status moves with the holds that install it, and what had been exported is now held as difficulty among the population itself. [Production, Consumption, and the Mind's Distinction](../production-consumption-and-the-minds-distinction/) traces a neighboring registration in the case of a closed frame: production and consumption are not two kinds of act but how the same activity registers when the Mind holds its boundary as open or as fixed; when the hold freezes the generative edge out of the ledger, creative energy registers as consumption. [The NPC Impression Is Structural, Not a Ranking of Minds](../the-npc-impression-is-structural/) is the face where the project of ranking minds collapses: no center experiences itself as scripted, yet other centers register as scripted by default; thin mediation is scored as scripted deficiency elsewhere, while the only recursion that can intensify remains this center's own.
 

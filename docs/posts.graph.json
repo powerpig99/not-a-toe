@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-23T16:31:38.506Z",
+    "generated_at": "2026-10-23T16:33:46.233Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -74,7 +74,7 @@
       "content/posts/everything-is-changing-as-always.md": "ef77f674af21",
       "content/posts/evil-as-projected-resistance.md": "d0174318bc94",
       "content/posts/evil-as-the-minds-own-creation.md": "9685bf8b4713",
-      "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "8b82853392d4",
+      "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "cb3ba6791a63",
       "content/posts/expertise-as-reference-not-replacement.md": "33004fb0d150",
       "content/posts/extended-cognition-refined.md": "d6ebbdaa006f",
       "content/posts/extension-and-shift.md": "695ce6937cad",
@@ -430,10 +430,10 @@
     },
     "stats": {
       "posts": 403,
-      "edges": 11126,
-      "unique_directed": 5458,
+      "edges": 11128,
+      "unique_directed": 5459,
       "missing_targets": 0,
-      "one_way": 844,
+      "one_way": 845,
       "isolated": 0,
       "posts_with_outbound": 403,
       "book_pages": 16,
@@ -2322,9 +2322,9 @@
       "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "path": "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md",
       "title": "卓异、感知与自我设限的问题场域 / Exceptionality, Perception, and the Self-Limiting Field of Problems",
-      "hash": "8b82853392d4",
+      "hash": "cb3ba6791a63",
       "in_degree": 25,
-      "out_degree": 27,
+      "out_degree": 28,
       "links_out": [
         "causality-all-the-way",
         "causality-stays-at-the-edge-that-steers",
@@ -2343,6 +2343,7 @@
         "externalized-virtue-becomes-its-opposite",
         "beyond-the-projection",
         "your-codebase-is-memory",
+        "the-reversal-of-verification",
         "empowerment-establishes-the-centralization-of-power",
         "preference-clusters-and-the-language-of-judgment",
         "the-climate-problem-registers-only-as-perception",
@@ -9094,7 +9095,7 @@
       "path": "content/posts/the-reversal-of-verification.md",
       "title": "验证的倒置 / The Reversal of Verification",
       "hash": "d9bdf6fc8678",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 8,
       "links_out": [
         "openness-is-consistency",
@@ -22272,7 +22273,13 @@
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
-      "label": "代码库即记忆"
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
@@ -22291,6 +22298,12 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
@@ -22374,7 +22387,7 @@
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "the-npc-impression-is-structural",
       "rel": "points_to",
-      "label": "NPC 印象是结构性的"
+      "label": "NPC 印象是结构性的，而非心智的排名"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
