@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-23T16:20:44.468Z",
+    "generated_at": "2026-10-23T16:23:26.394Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -186,7 +186,7 @@
       "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "94134cb1fdd7",
       "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "6e6001066898",
       "content/posts/simplicity-ultimate-sophistication.md": "90ac1690ba33",
-      "content/posts/sovereignty-belief-and-regulatory-structures.md": "2a91f58a7d13",
+      "content/posts/sovereignty-belief-and-regulatory-structures.md": "f8e3b69029ce",
       "content/posts/sovereignty-essay.md": "bdc7dfc589b0",
       "content/posts/sowell-observed-the-surface-problem.md": "714f6641af76",
       "content/posts/stability-and-excess.md": "25b813029b34",
@@ -5361,7 +5361,7 @@
       "slug": "sovereignty-belief-and-regulatory-structures",
       "path": "content/posts/sovereignty-belief-and-regulatory-structures.md",
       "title": "主权、信念与规制结构的生成 / Sovereignty, Belief, and the Generation of Regulatory Structures",
-      "hash": "2a91f58a7d13",
+      "hash": "f8e3b69029ce",
       "in_degree": 27,
       "out_degree": 28,
       "links_out": [
@@ -42756,7 +42756,7 @@
       "from": "sovereignty-belief-and-regulatory-structures",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
-      "label": "代码库即记忆"
+      "label": "你的代码库即是记忆"
     },
     {
       "from": "sovereignty-belief-and-regulatory-structures",
