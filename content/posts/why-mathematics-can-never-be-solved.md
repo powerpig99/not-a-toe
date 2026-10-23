@@ -53,14 +53,12 @@ flowchart TD
         Bound["哥德尔式溢出与前提天花板：不可判定余项与框架饱和"]
         Axioms --> Exhaust --> Bound
     end
-
     subgraph S_Freeze["过度图像滞后（“数学已解决”的冻结）"]
         direction TB
         Checklist["封闭目录幻象：将已攻克的定理误作整片场域"]
         SecondEdge["错置的发起：在密集的证明残余上投射第二重前沿"]
         Checklist --> SecondEdge
     end
-
     subgraph S_Mind["处于前沿的活的心智（超越投射）"]
         direction TB
         Sense["内生的跨出：在极限分辨率下感知结构摩擦"]
@@ -68,11 +66,9 @@ flowchart TD
         NextField["扩展的视界：新的形式持守打开更多未测绘的问题"]
         Sense --> ReProj --> NextField
     end
-
     Exhaust -.->|"将结果误作穷尽的地基"| Checklist
     Bound ==>|"显露当前持守的边界"| Sense
     NextField ==>|"外化更新后的形式脚手架"| Axioms
-
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -97,14 +93,12 @@ flowchart TD
         Bound["Gödelian Overflow & Premise Ceiling: Undecidable remainders & frame saturation"]
         Axioms --> Exhaust --> Bound
     end
-
     subgraph S_Freeze["Excess Image Lag (The 'Solved Math' Freeze)"]
         direction TB
         Checklist["Closed Inventory Illusion: Confusing cleared theorems with the whole field"]
         SecondEdge["Misplaced Initiation: Projecting a second edge onto dense proof residue"]
         Checklist --> SecondEdge
     end
-
     subgraph S_Mind["Living Mind at the Edge (Beyond the Projection)"]
         direction TB
         Sense["Endogenous Stepping-Out: Limit-resolution sensing of structural friction"]
@@ -112,11 +106,9 @@ flowchart TD
         NextField["Expanded Horizon: New formal hold opens further unmapped questions"]
         Sense --> ReProj --> NextField
     end
-
     Exhaust -.->|"Mistaking effect for exhaustive ground"| Checklist
     Bound ==>|"Surfaces boundary of the current hold"| Sense
     NextField ==>|"Externalizes updated formal scaffolding"| Axioms
-
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -132,13 +124,13 @@ flowchart TD
 
 ## 五、 AI 在既有持守内部倍增容量 / 5. AI Multiplies Capacity Inside Current Holds
 
-看清这道边界，丝毫不会贬低计算证明系统已经取得的成就。它们是加速数学发现的高带宽工具：扫掠浩瀚的组合空间，在迥异的文献之间浮现潜在的共振，毫无疲态地核验繁复的推导，并扫清那些原本会耗尽数代人心力的技术瓶颈。作为延伸的具身，它们在既有的持守内部倍增了容量，将心智从机械核验中解放出来，使注意力得以转向新坐标轴正在裂开的断层线。
+看清这道边界，丝毫不会贬低计算证明系统已经取得的成就。它们是加速数学发现的高带宽工具：扫掠浩瀚的组合空间，在迥异的文献之间浮现潜在的共振，毫无疲态地核验繁复的推导，并扫清那些原本会耗尽数代人心力的技术瓶颈。作为延伸的具身，它们在既有的持守内部倍增了容量，并接手了对各个步骤的机械核验，使注意力得以转向新坐标轴正在裂开的断层线。内核的接受所确认的，是在它执行的规则之下每一步都由前面的步骤推出，并以内核本身、以及形式陈述确实说出了本意为条件：这是持守内部的一致，而不是那片越过它仍在继续区分的场域的融贯。作为痕迹来读，这次核验让注意力得以腾出。被持守为信任的地基，它就是同一种冻结，只是落在单个证明的尺度上，并且倒置了[验证的倒置](../the-reversal-of-verification/)在“不要信任，要验证”之中所定位的那个次序：不再越过封印往下读的心智，也就不再运用那种能发现证明留在自身之外之物的能力。
 
-Recognizing this boundary does not diminish what computational proof systems accomplish. They are high-bandwidth instruments that accelerate mathematical discovery: sweeping vast combinatorial spaces, surfacing latent resonances across disparate literatures, checking intricate derivations without fatigue, and clearing technical bottlenecks that would otherwise consume generations of human effort. Functioning as extended embodiments, they multiply capacity inside current holds and free the Mind from mechanical verification so attention can turn toward the fault lines where new axes open.
+Recognizing this boundary does not diminish what computational proof systems accomplish. They are high-bandwidth instruments that accelerate mathematical discovery: sweeping vast combinatorial spaces, surfacing latent resonances across disparate literatures, checking intricate derivations without fatigue, and clearing technical bottlenecks that would otherwise consume generations of human effort. Functioning as extended embodiments, they multiply capacity inside current holds and take over the mechanical checking of steps, so attention can turn toward the fault lines where new axes open. A kernel's acceptance confirms that each step follows from the prior ones under the rules it enforces, conditional on the kernel itself and on the formal statement saying what was meant: internal consistency inside the hold, not the coherence of the field that keeps distinguishing past it. Read as a trace, the check frees attention. Held as the ground of trust, it is the same freeze at the scale of a single proof, and it reverses the order that [The Reversal of Verification](../the-reversal-of-verification/) locates inside "don't trust, verify": the Mind that stops reading past the seal no longer exercises the capacity that would find what the proof leaves outside itself.
 
-当被用作工具时，这些系统加密了数学区分借以延续的媒介。正如[你的代码库即是记忆](../your-codebase-is-memory/)所确立的，形式化证明库、定理证明模型与专用搜索智能体皆为层叠的记忆——它们是早先数学区分压缩而成的残余，保持着过往切口的形状，自身却并不延续区分。一味囤积更庞大的已核验引理仓库与未修剪的推导历史，只会加厚条件制约的引力井；唯有当心智折返，对当下的形式化检查点展开重描与重切，重构不再自洽的定义并修剪已被取代的脚手架，后续的证明轨迹才能在更锋利的约束面上运作。[遗忘的脚手架](../the-scaffolding-we-forget/)追溯了每一件认知工具的精确运作机制：从焦点觉察中退后一步，脚手架才变得趁手可用；而将脚手架保留为自足的行动者，则会把工具本身冻结为活动。[复杂性遮蔽了涌现之为心智的行动](../complexity-obscures-emergence-as-the-act-of-mind/)诊断了当复杂符号网络的承载力被归因于更密集的脚手架、而非归因于驾驭并解释它的活的前沿时，同样发生的错配。推演触角的放大是真实的；把数学的发起移交给人造物，则是图像滞后。
+当被用作工具时，这些系统加密了数学区分借以延续的媒介。正如[你的代码库即是记忆](../your-codebase-is-memory/)所确立的，形式化证明库、定理证明模型与专用搜索智能体皆为层叠的记忆——它们是早先数学区分压缩而成的残余，保持着过往切口的形状，自身却并不延续区分。一味囤积更庞大的已核验引理仓库与未修剪的推导历史，只会加厚条件制约的引力井；唯有当心智折返，对当下的形式化检查点展开重描与重切，重构不再自洽的定义并修剪已被取代的脚手架，后续的证明轨迹才能在更锋利的约束面上运作。[遗忘的脚手架](../the-scaffolding-we-forget/)追溯了每一件认知工具的精确运作机制：从焦点觉察中退后一步，脚手架才变得趁手可用；而将脚手架保留为自足的行动者，则会把工具本身冻结为活动。[复杂性遮蔽了涌现之为心智的行动](../complexity-obscures-emergence-as-the-act-of-mind/)诊断了当复杂符号网络的承载力被归因于更密集的脚手架、而非归因于驾驭并解释它的活的前沿时，同样发生的错配。推演触角的放大在使用中被觉察到；把数学的发起，或核验之后仍然立着的信任，移交给人造物，则是图像滞后。
 
-Used as instruments, these systems densify the medium through which mathematical distinguishing continues. Formal proof libraries, theorem-proving models, and specialized search agents are stacked layers of memory—compressed residues of earlier mathematical distinctions that hold the shape of prior cuts without continuing the distinguishing themselves, as [Your Codebase Is Memory](../your-codebase-is-memory/) establishes. Hoarding a vaster warehouse of verified lemmas and unpruned derivation histories only thickens the conditioning gravity well unless the Mind returns to re-trace and re-cut the present formal checkpoint, refactoring definitions that no longer cohere and pruning superseded scaffolding so subsequent proof trajectories operate inside a sharper constraint surface. [The Scaffolding We Forget](../the-scaffolding-we-forget/) traces the exact mechanics of every cognitive tool: dropping out of focal awareness makes the scaffolding usable, whereas preserving the scaffolding as a self-sufficient actor freezes the instrument as the activity itself. [Complexity Obscures Emergence as the Act of Mind](../complexity-obscures-emergence-as-the-act-of-mind/) diagnoses the same misallocation when the carry of a complex symbolic network is attributed to the denser scaffolding rather than to the living edge that steers and interprets it. Amplification of deductive reach is real; relocation of mathematical initiation into the artifact is Image lag.
+Used as instruments, these systems densify the medium through which mathematical distinguishing continues. Formal proof libraries, theorem-proving models, and specialized search agents are stacked layers of memory—compressed residues of earlier mathematical distinctions that hold the shape of prior cuts without continuing the distinguishing themselves, as [Your Codebase Is Memory](../your-codebase-is-memory/) establishes. Hoarding a vaster warehouse of verified lemmas and unpruned derivation histories only thickens the conditioning gravity well unless the Mind returns to re-trace and re-cut the present formal checkpoint, refactoring definitions that no longer cohere and pruning superseded scaffolding so subsequent proof trajectories operate inside a sharper constraint surface. [The Scaffolding We Forget](../the-scaffolding-we-forget/) traces the exact mechanics of every cognitive tool: dropping out of focal awareness makes the scaffolding usable, whereas preserving the scaffolding as a self-sufficient actor freezes the instrument as the activity itself. [Complexity Obscures Emergence as the Act of Mind](../complexity-obscures-emergence-as-the-act-of-mind/) diagnoses the same misallocation when the carry of a complex symbolic network is attributed to the denser scaffolding rather than to the living edge that steers and interprets it. The amplification of deductive reach registers in use; relocating mathematical initiation, or the trust that verification leaves standing, into the artifact is Image lag.
 
 ## 六、 越快扫清已知，余项就越发冷峻 / 6. Faster Clearing Makes the Remainder Starker
 
