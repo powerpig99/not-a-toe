@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-23T16:51:11.591Z",
+    "generated_at": "2026-10-23T16:52:47.912Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -27,7 +27,7 @@
       "content/posts/an-observation-by-its-own-standard.md": "1d44b8371330",
       "content/posts/better-than-free-after-the-checklist-closes.md": "d39b1b10df08",
       "content/posts/beyond-the-hundred-trillion-horizon.md": "9258f29df286",
-      "content/posts/beyond-the-projection.md": "8aa49cc778c2",
+      "content/posts/beyond-the-projection.md": "ed96da63a1af",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "e09e90b435e6",
       "content/posts/causality-all-the-way.md": "08a8a20f59ec",
       "content/posts/causality-and-the-irreducible-prior.md": "b7567896ebac",
@@ -430,10 +430,10 @@
     },
     "stats": {
       "posts": 403,
-      "edges": 11138,
-      "unique_directed": 5464,
+      "edges": 11140,
+      "unique_directed": 5465,
       "missing_targets": 0,
-      "one_way": 850,
+      "one_way": 851,
       "isolated": 0,
       "posts_with_outbound": 403,
       "book_pages": 16,
@@ -1080,9 +1080,9 @@
       "slug": "beyond-the-projection",
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
-      "hash": "8aa49cc778c2",
+      "hash": "ed96da63a1af",
       "in_degree": 196,
-      "out_degree": 17,
+      "out_degree": 18,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "ontos-is-a-method-agent",
@@ -1092,6 +1092,7 @@
         "the-mind-as-vector-and-coordinate-system",
         "your-codebase-is-memory",
         "on-demand-contexts-keep-coherence-at-one-step",
+        "the-reversal-of-verification",
         "a-living-external-cortex",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
@@ -9100,7 +9101,7 @@
       "path": "content/posts/the-reversal-of-verification.md",
       "title": "验证的倒置 / The Reversal of Verification",
       "hash": "d9bdf6fc8678",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 8,
       "links_out": [
         "openness-is-consistency",
@@ -13818,7 +13819,7 @@
       "from": "beyond-the-projection",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence Belongs Only to The Mind"
+      "label": "Intelligence Belongs Only to the Mind"
     },
     {
       "from": "beyond-the-projection",
@@ -13906,9 +13907,21 @@
     },
     {
       "from": "beyond-the-projection",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "beyond-the-projection",
       "to": "on-demand-contexts-keep-coherence-at-one-step",
       "rel": "points_to",
       "label": "On-Demand Contexts Keep Coherence at One Step"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
     },
     {
       "from": "beyond-the-projection",
