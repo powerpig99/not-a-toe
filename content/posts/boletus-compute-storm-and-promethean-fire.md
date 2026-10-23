@@ -26,7 +26,7 @@ On the streets, Finns walk with unhurried composure, hands tucked in their pocke
 
 在那份宁静的澄明中，概念的障眼法一览无余：无论是技术乌托邦的救赎，还是末日降临的瘫痪，都是脱离了物理摩擦的观念膨胀，亟待[破除概念的僭越](../po-chu-gai-nian-de-jian-yue/)。当第三人称的投射脱离了第一人称的因果前沿，符号模型便可以向无穷外推，恐慌也可以无界倍增。然而，迄今所有宏大预言垒在一起，在切身现实粗粝的秤盘上也压不出哪怕一粒尘埃的重量。奇点叙事里的数字神祇在[数字神祇与视界跳跃](../the-digital-god-and-the-horizon-jump/)中遇到同一道边界：封闭坐标系内的推演跨不过物理摩擦的视界。
 
-In that quiet clarity, the sleight of hand becomes unmistakable: both techno-utopian salvation and apocalyptic paralysis are [Breaking the Overreach of Concepts](../po-chu-gai-nian-de-jian-yue/) severed from physical friction. When the third-person projection is unmoored from the first-person causal edge, symbolic models extrapolate to infinity and dread compounds without bound. Yet all the grand prophecies ever uttered, piled together, cannot tip the coarse scale of lived reality by the weight of a single speck of dust. The singularity's digital deity meets the exact same boundary in [The Digital God and the Horizon Jump](../the-digital-god-and-the-horizon-jump/): a deduction inside a closed coordinate frame cannot cross the horizon of physical friction.
+In that quiet clarity, the sleight of hand becomes unmistakable: both techno-utopian salvation and apocalyptic paralysis are conceptual inflation severed from physical friction, the overreach that [Breaking the Overreach of Concepts](../po-chu-gai-nian-de-jian-yue/) takes apart. When the third-person projection is unmoored from the first-person causal edge, symbolic models extrapolate to infinity and dread compounds without bound. Yet all the grand prophecies ever uttered, piled together, cannot tip the coarse scale of lived reality by the weight of a single speck of dust. The singularity's digital deity meets the exact same boundary in [The Digital God and the Horizon Jump](../the-digital-god-and-the-horizon-jump/): a deduction inside a closed coordinate frame cannot cross the horizon of physical friction.
 
 ## 二、 野生牛肝菌的重力与第一人称因果 / 2. The Gravity of Wild Boletes and First-Person Causality
 
@@ -76,7 +76,6 @@ flowchart TD
         Raw --> Digest
         Digest -.->|"当脱离物理摩擦时"| Illusion
     end
-
     subgraph S_Mind["鲜活的心智（第一人称因果前沿与全局编排者）"]
         direction TB
         Steer["未被投射的意图与自主节制：手握火把"]
@@ -84,9 +83,7 @@ flowchart TD
         Open["释放的心智容量：踏入新的第一人称区分"]
         Steer --> Anchor --> Open
     end
-
     Digest ==>|"在体外预消化符号苦役"| Steer
-
     style S_Fire fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Raw fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -109,7 +106,6 @@ flowchart TD
         Raw --> Digest
         Digest -.->|"When severed from physical friction"| Illusion
     end
-
     subgraph S_Mind["The Living Mind (First-Person Causal Edge & Orchestrator)"]
         direction TB
         Steer["Unprojected Intent & Sovereign Restraint: Wielding the Torch"]
@@ -117,9 +113,7 @@ flowchart TD
         Open["Freed Capacity: Stepping into New First-Person Distinctions"]
         Steer --> Anchor --> Open
     end
-
     Digest ==>|"Pre-digests symbolic drudgery for"| Steer
-
     style S_Fire fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Raw fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
