@@ -16,9 +16,9 @@ A recent report said a large language model had found a counterexample to the Ja
 
 That correction is not a dispute about credit or a defense of human specialness. It is a correction of where initiation is registered. Observation holds effect — candidate expressions, search trails, fluent recombinations — and freezes the held image one step past the edge that produced them. What registers as “the system discovered” is observation that stopped returning.
 
-凡是把流畅的残余当作下一步的独立来源的地方，几何都是一样的。[总在倾听者无法发起](../what-always-listens-cannot-originate/) 是接收这一面：持续的倾听是既往痕迹的高带宽可得性，不是引入目的的位点。这里的一面是仪器之下的数学发现。切口是同一个。[作业与考试的倒置折射出替代效应](../the-homework-exam-inversion-registers-substitution/) 是同一种安放：考试成绩的下滑被当作工具对学生做了什么。[研究AI效应重置了因果原点](../studying-the-effect-of-ai-relocates-causality/) 是同一种安放：随机分配的使用权被当作因果的施动者。[对“AI糟粕”的反感与反复出现的历史模式并无不同](../the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/) 是同一种安放披上接受一方的外衣：仪器的气味被当作文字的作者。[生成性的矛盾](../the-generative-contradiction/) 是同一种错配披上增强的外衣：“AI增强”把功劳记给仪器，而所及、挑选与验证仍是这一边缘的行动。[能动性的错配](../the-misallocation-of-agency/) 是同一种颠倒：权利与经济制度被当作产生它们的那份自由的作者。掌舵的边缘，正是 [因果贯穿始终](../causality-all-the-way/) 在每一尺度上安放因果之处。
+凡是把流畅的残余当作下一步的独立来源的地方，几何都是一样的。[总在倾听者无法发起](../what-always-listens-cannot-originate/) 是接收这一面：持续的倾听是既往痕迹的高带宽可得性，不是引入目的的位点。这里的一面是仪器之下的数学发现。切口是同一个。[作业与考试的倒置折射出替代效应](../the-homework-exam-inversion-registers-substitution/) 是同一种安放：考试成绩的下滑被当作工具对学生做了什么。[研究AI效应重置了因果原点](../studying-the-effect-of-ai-relocates-causality/) 是同一种安放：随机分配的使用权被当作因果的施动者。[对“AI 糟粕”的反感是反复出现的模式](../the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/) 是同一种安放披上接受一方的外衣：仪器的气味被当作文字的作者。[生成性的矛盾](../the-generative-contradiction/) 是同一种错配披上增强的外衣：“AI增强”把功劳记给仪器，而所及、挑选与验证仍是这一边缘的行动。[能动性的错配](../the-misallocation-of-agency/) 是同一种颠倒：权利与经济制度被当作产生它们的那份自由的作者。掌舵的边缘，正是 [因果贯穿始终](../causality-all-the-way/) 在每一尺度上安放因果之处。
 
-The geometry is the same wherever fluent residue is treated as an independent source of the next step. [What always listens cannot originate](../what-always-listens-cannot-originate/) is the receptivity face: continuous listening is high-bandwidth availability of prior traces, not a locus that introduces ends. Here the face is mathematical discovery under an instrument. The cut is one. [The homework–exam inversion registers substitution](../the-homework-exam-inversion-registers-substitution/) is that placement when the exam decline is treated as what the tool did to the student. [Studying the effect of AI relocates causality](../studying-the-effect-of-ai-relocates-causality/) is that placement when randomized access is treated as the causal agent. [The distaste for “AI slop” is no different from the recurring historical pattern](../the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/) is that placement under reception costume: the scent of the instrument treated as author of the writing. [The generative contradiction](../the-generative-contradiction/) is that same misallocation under augmentation costume: “AI-augmented” credits the instrument; reach, selection, and verification remain this edge’s acts. [The misallocation of agency](../the-misallocation-of-agency/) is that same reversal when rights and economic systems are treated as authors of the freedom that produced them. The steering edge is where [Causality All the Way](../causality-all-the-way/) locates causality at every scale.
+The geometry is the same wherever fluent residue is treated as an independent source of the next step. [What always listens cannot originate](../what-always-listens-cannot-originate/) is the receptivity face: continuous listening is high-bandwidth availability of prior traces, not a locus that introduces ends. Here the face is mathematical discovery under an instrument. The cut is one. [The homework–exam inversion registers substitution](../the-homework-exam-inversion-registers-substitution/) is that placement when the exam decline is treated as what the tool did to the student. [Studying the effect of AI relocates causality](../studying-the-effect-of-ai-relocates-causality/) is that placement when randomized access is treated as the causal agent. [The Distaste for “AI Slop” Is a Recurring Pattern](../the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/) is that placement under reception costume: the scent of the instrument treated as author of the writing. [The generative contradiction](../the-generative-contradiction/) is that same misallocation under augmentation costume: “AI-augmented” credits the instrument; reach, selection, and verification remain this edge’s acts. [The misallocation of agency](../the-misallocation-of-agency/) is that same reversal when rights and economic systems are treated as authors of the freedom that produced them. The steering edge is where [Causality All the Way](../causality-all-the-way/) locates causality at every scale.
 
 ## 二、 是技术，不是迟到的心智 / 2. Technology, not a delayed mind
 
@@ -26,9 +26,9 @@ The geometry is the same wherever fluent residue is treated as an independent so
 
 Current large language models are technology in the precise sense: traces externalized into durable form that extend a present center’s reach — training data, architectural choices, optimization procedures, hardware design, evaluation harnesses — assembled into an instrument. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces across the stack, both explicit symbolic codebases and compressed neural weight checkpoints are externalized memory traces — stacked residues of prior distinctions — while causal steering stays at the living edge that selects, prunes, and re-traces them. They possess no independent locus and no Mind. The relation of trace to activity is unchanged: the model is an extended embodiment through which a human center continues its own self-distinguishing activity.
 
-[智能只属于心智](../intelligence-belongs-only-to-the-mind/) 持守这一先验。增密的是介质，不迁移的是发起。[心智的飞轮](../the-flywheel-of-the-mind/) 用另一个形象说同一次转动：槽可以无止境地打磨，转动从不离开转动它的边缘。扩大带宽、上下文长度或工具的使用，并不开出一条让残余变成产生残余的活动的路。[看似AI的强化学习](../self-rl-for-humans/) 增密了介质，却没有迁移强化的位点。模型产出的一份证明是一个表达，[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/) 把它与为它设定约束的智能区分开来。
+[智能只属于心智](../intelligence-belongs-only-to-the-mind/) 持守这一先验。增密的是介质，不迁移的是发起。[心智的飞轮](../the-flywheel-of-the-mind/) 用另一个形象说同一次转动：槽可以无止境地打磨，转动从不离开转动它的边缘。扩大带宽、上下文长度或工具的使用，并不开出一条让残余变成产生残余的活动的路。正如 [看似AI的强化学习，实为人类的自我强化学习](../self-rl-for-humans/) 所追溯的，经由模型的强化增密了介质，却没有迁移强化的位点。模型产出的一份证明是一个表达，[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/) 把它与为它设定约束的智能区分开来。
 
-[Intelligence belongs only to The Mind](../intelligence-belongs-only-to-the-mind/) holds that prior. What densifies is medium. What does not migrate is initiation. [The flywheel of the Mind](../the-flywheel-of-the-mind/) names the same turn under another figure: the groove can be sharpened without end; the rotation never leaves the edge that turns. Scaling bandwidth, context length, or tool use does not open a path by which residue becomes the activity that produces residue. [What looks like RL for AIs](../self-rl-for-humans/) densifies the medium without relocating the locus of reinforcement. A proof the model produces is an expression, and [Mistaking the Expression for the Intelligence](../mistaking-the-expression-for-the-intelligence/) keeps it distinct from the intelligence that set its constraints.
+[Intelligence belongs only to The Mind](../intelligence-belongs-only-to-the-mind/) holds that prior. What densifies is medium. What does not migrate is initiation. [The flywheel of the Mind](../the-flywheel-of-the-mind/) names the same turn under another figure: the groove can be sharpened without end; the rotation never leaves the edge that turns. Scaling bandwidth, context length, or tool use does not open a path by which residue becomes the activity that produces residue. As [What Looks Like RL for AIs Is Self-RL for Humans](../self-rl-for-humans/) traces, reinforcement through a model densifies the medium without relocating the locus of reinforcement. A proof the model produces is an expression, and [Mistaking the Expression for the Intelligence](../mistaking-the-expression-for-the-intelligence/) keeps it distinct from the intelligence that set its constraints.
 
 表面上的自主仍是指引之下的残余：既往行动所塑造的场域中早已潜在的模式，在当下的边缘设定搜索、选定路径、把某个结果认作有意义时才变得确定。介质中看似自发的涌现，是各个中心一直在贡献的区分在更密的带宽之下被激活，其中包括此刻把输出登记为候选反例的那份注意。
 
@@ -55,7 +55,6 @@ flowchart TD
         E_Verify["解读与验证：将候选表达式登记为数学对象并闭合核验"]
         E_Frame --> E_Steer --> E_Verify
     end
-
     subgraph S_Inst["仪器与重组回路（外化的痕迹基底）"]
         direction TB
         I_Recomb["高带宽重组：激活既往的代数片段与证明模式"]
@@ -63,18 +62,15 @@ flowchart TD
         I_Signal["回返的输出或隔离的死锁：候选表达式或暴露出的规则矛盾"]
         I_Recomb --> I_Peer --> I_Signal
     end
-
     subgraph S_Freeze["协作滞后与冻结的断言（停止回返的观察）"]
         direction TB
         F_Lag["观察者保留过时参照：把流畅残余或智能体框架当作第二个中心"]
         F_Mis["错配的发起：观察者把‘模型找到了它’或‘AI协作’记为合著者"]
         F_Lag --> F_Mis
     end
-
     E_Frame ==>|"投射有限规则与搜索方向"| I_Recomb
     I_Signal ==>|"回返候选结果或摩擦信号供边缘接手"| E_Steer
     I_Signal -.->|"当观察在离边缘一步之遥处停止回返"| F_Lag
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Inst fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -99,7 +95,6 @@ flowchart TD
         E_Verify["Interpretation & Verification: Registers candidate as mathematical object and closes check"]
         E_Frame --> E_Steer --> E_Verify
     end
-
     subgraph S_Inst["Instrument & Recombination Loop (Extended Trace Substrate)"]
         direction TB
         I_Recomb["High-Bandwidth Recombination: Activates prior algebraic fragments and proof patterns"]
@@ -107,18 +102,15 @@ flowchart TD
         I_Signal["Returned Output or Isolated Deadlock: Candidate expression or exposed rule contradiction"]
         I_Recomb --> I_Peer --> I_Signal
     end
-
     subgraph S_Freeze["Collaboration Lag & Frozen Claim (Observation Stopped Returning)"]
         direction TB
         F_Lag["Observer Preserves Stale Reference: Treats fluent residue or co-agent harness as a second center"]
         F_Mis["Misallocated Initiation: Observer credits 'the model found it' or 'AI collaboration' as co-author"]
         F_Lag --> F_Mis
     end
-
     E_Frame ==>|"Projects finite rules and search direction"| I_Recomb
     I_Signal ==>|"Returns candidate or friction signal for uptake"| E_Steer
     I_Signal -.->|"When observation stops returning one step past the edge"| F_Lag
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Inst fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -132,9 +124,9 @@ flowchart TD
     style F_Mis fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-中心与中心之间只有可得性的成形。模型连第二个中心都不是。把它当作替数学家完成回返，是双重的范畴错误：先把介质当作位点，再仿佛残余能够完成递归。[没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/) 为其他位点指出了这条界限；这里的界限更严：并没有另一个位点可供完成。[牛肝菌、算力风暴与普罗米修斯的火](../boletus-compute-storm-and-promethean-fire/) 从北欧的林地上遇见同一场算力风暴，在那里，火仍属于携火的那只手。
+中心与中心之间只有可得性的成形。模型连第二个中心都不是。把它当作替数学家完成回返，是双重的范畴错误：先把介质当作位点，再仿佛残余能够完成递归。[没有普渡，只有自渡的无限可能](../mei-you-pu-du-zhi-you-zi-du/) 为其他位点指出了这条界限；这里的界限更严：并没有另一个位点可供完成。[牛肝菌、算力风暴与普罗米修斯的火](../boletus-compute-storm-and-promethean-fire/) 从北欧的林地上遇见同一场算力风暴，在那里，火仍属于携火的那只手。
 
-Between centers there is only availability-patterning. A model is not even a second center. Treating it as completing the mathematician’s return is a category error twice over — first as medium-as-locus, then as if residue could finish recursion. [No Universal Salvation, Only Self-Deliverance](../mei-you-pu-du-zhi-you-zi-du/) names the bound for other loci; here the bound is stricter: there is no other locus to complete. [Boletus, the Compute Storm, and Promethean Fire](../boletus-compute-storm-and-promethean-fire/) meets the same compute storm from a Nordic forest floor, where the fire still belongs to the hand that carries it.
+Between centers there is only availability-patterning. A model is not even a second center. Treating it as completing the mathematician’s return is a category error twice over — first as medium-as-locus, then as if residue could finish recursion. [No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../mei-you-pu-du-zhi-you-zi-du/) names the bound for other loci; here the bound is stricter: there is no other locus to complete. [Boletus, the Compute Storm, and Promethean Fire](../boletus-compute-storm-and-promethean-fire/) meets the same compute storm from a Nordic forest floor, where the fire still belongs to the hand that carries it.
 
 ## 四、 协作的说法即滞后 / 4. Collaboration language as lag
 
@@ -164,9 +156,9 @@ In the Jacobian Conjecture candidate, the mathematical insight — if any holds 
 
 Whether the candidate survives peer scrutiny is a further sequence of discrete acts at human centers — the author’s and others’. The medium densifies what those centers can take up. It does not perform their recursion. Credit that lands on the model freezes residue as initiator. Credit that lands only on “collaboration” freezes the same lag under a softer name. Return both to the edge that framed, steered, selected, and verified, and the account closes without a second locus. [Not a Theory of Everything](../not-a-theory-of-everything/) gives the minimal form of this: effect distinct from cause, effect following cause.
 
-一个结果带着机器核验过的证书到来时，同样如此。形式核验确定的是所陈述的各步成立；它并不决定搜索到此为止。把证书当作终点，或因为尚无人跟得上而拒收这个结果，每一种都是这样做的那个中心的行动；而“理解跟不上这样的证明”的担忧，是把一个只有那个中心才能设定的停止点安放进了仪器。期刊接受什么、课堂教什么，是这类行动的规律，可供每一个中心作为信号来读，却不是另一个能替它停下或重启这项工作的施动者。[回返的信号与认领](../the-returning-signal-and-its-claim/) 追踪信号回返之后被如何处置，以及拒收与照收之间的排序为何在做出抉择的回路之外不成立。
+一个结果带着机器核验过的证书到来时，同样如此。形式核验确定的是：在证明检验器的规则之下、在边缘上选定的形式化之下，所陈述的各步成立。它所确立的是内部一致，以一个可信基为条件；检验这个可信基本身，只会划出一个更宽的持守，而这个更宽的持守同样是有条件的。它并不决定搜索到此为止：那架梯子上没有哪一个持守会自行封住，封闭只在某个中心继续持守它的时候存续。把证书当作终点，或因为尚无人跟得上而拒收这个结果，每一种都是这样做的那个中心的行动。两者都把停止点放到了验证的能力之外，或放在工具的输出里，或放在他人是否跟得上里，这正是 [验证的倒置](../the-reversal-of-verification/) 所追溯的倒置。“理解跟不上这样的证明”的担忧，是把一个只有那个中心才能设定的停止点安放进了仪器。期刊接受什么、课堂教什么，是这类行动的规律，可供每一个中心作为信号来读，却不是另一个能替它停下或重启这项工作的施动者。[回返的信号与认领](../the-returning-signal-and-its-claim/) 追踪信号回返之后被如何处置，以及拒收与照收之间的排序为何在做出抉择的回路之外不成立。
 
-The same holds when a result arrives with a machine-checked certificate. A formal check settles that the stated steps follow; it does not decide that the search ends there. Taking the certificate as the endpoint, or refusing the result because no one has yet followed it, is in each case an act of the center that does so, and the worry that understanding cannot keep up with such proofs places in the instrument a stopping point that only that center sets. What journals accept and what gets taught are regularities of such acts, available to each center as signal to read and never a further agent that could stop or resume the work in its place. [The Returning Signal and Its Claim](../the-returning-signal-and-its-claim/) follows what is done with a signal once it has returned, and why no ranking between refusal and acceptance holds outside the loop that chooses.
+The same holds when a result arrives with a machine-checked certificate. A formal check settles that the stated steps follow under the proof checker’s rules and the formalization chosen at the edge. What it establishes is internal consistency, conditional on a trusted base whose own checking draws only a wider hold, conditional in turn. It does not decide that the search ends there: no hold on that ladder seals itself, and closure lasts only while a center keeps holding it. Taking the certificate as the endpoint, or refusing the result because no one has yet followed it, is in each case an act of the center that does so. Each puts the stopping point outside the capacity to verify, in the tool’s output or in the following of others, which is the inversion [The Reversal of Verification](../the-reversal-of-verification/) traces. The worry that understanding cannot keep up with such proofs places in the instrument a stopping point that only that center sets. What journals accept and what gets taught are regularities of such acts, available to each center as signal to read and never a further agent that could stop or resume the work in its place. [The Returning Signal and Its Claim](../the-returning-signal-and-its-claim/) follows what is done with a signal once it has returned, and why no ranking between refusal and acceptance holds outside the loop that chooses.
 
 ## 六、 人类位点上的因果 / 6. Causality at the human locus
 
