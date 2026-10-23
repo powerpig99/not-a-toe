@@ -12,9 +12,9 @@ A recurring claim in the agentic era holds that agents need local execution on a
 
 Agentic workflows already largely do not depend on any one operating system. Most production systems work through APIs, containerized runtimes, browser environments, and portable language platforms. Once an agent uses tools and resources through stable interfaces, the kernel and userspace recede in weight. Capability depends on the quality of those abstractions and on the reliability of the verification and controls placed around context, not on co-location with a particular operating system.
 
-主张整套开源代码必须进入预训练，是把对技术栈的贴身了解固定为能动性的条件。对某一个用户空间了如指掌，在某些负载下确有用处，但有用并不等于能动性的条件。[要紧的控制迁往边缘](../residual-control-recedes-to-the-edge/)追溯的是同一次挪移，并指明了它的去向：要紧的控制移到边缘，落在成败判据、风险界限与验证上，对底层基质的占有则成了剩余。[我们遗忘的脚手架](../the-scaffolding-we-forget-local-models-as-default/)追溯的是相伴的一种固化：彼处，一个好用的本地模型被当成了情境本身所指示的默认入口；此处被固化的，是与开放内核同处一处，被当作能动性的条件。
+主张整套开源代码必须进入预训练，是把对技术栈的贴身了解固定为能动性的条件。对某一个用户空间了如指掌，在某些负载下确有用处，但有用并不等于能动性的条件。[要紧的控制迁往边缘](../residual-control-recedes-to-the-edge/)追溯的是同一次挪移，并指明了它的去向：要紧的控制移到边缘，落在成败判据、风险界限与验证上，对底层基质的占有则成了剩余。[以本地模型为默认是被遗忘的脚手架](../the-scaffolding-we-forget-local-models-as-default/)追溯的是相伴的一种固化：彼处，一个好用的本地模型被当成了情境本身所指示的默认入口；此处被固化的，是与开放内核同处一处，被当作能动性的条件。
 
-The claim that full open-source codebases must enter pretraining fixes intimate knowledge of the stack as the condition of agency. Knowing one userspace inside out is useful under some loads, but being useful is not the same as being the condition of agency. [Essential Control Moves to the Edge](../residual-control-recedes-to-the-edge/) traces the same relocation and names where it goes: the control that matters moves to the edge, into success criteria, risk bounds, and verification, while ownership of the low-level substrate becomes residual. [The Scaffolding We Forget](../the-scaffolding-we-forget-local-models-as-default/) traces a companion freeze: there, a workable local model comes to register as the default entry the situation itself indicates; here, what freezes is co-location with an open kernel, held as the condition of agency.
+The claim that full open-source codebases must enter pretraining fixes intimate knowledge of the stack as the condition of agency. Knowing one userspace inside out is useful under some loads, but being useful is not the same as being the condition of agency. [Essential Control Moves to the Edge](../residual-control-recedes-to-the-edge/) traces the same relocation and names where it goes: the control that matters moves to the edge, into success criteria, risk bounds, and verification, while ownership of the low-level substrate becomes residual. [Local Models as Default Is Forgotten Scaffolding](../the-scaffolding-we-forget-local-models-as-default/) traces a companion freeze: there, a workable local model comes to register as the default entry the situation itself indicates; here, what freezes is co-location with an open kernel, held as the condition of agency.
 
 ## 二、 紧密的本地耦合是可改的设计 / 2. Tight Local Coupling Is a Changeable Design
 
@@ -32,24 +32,20 @@ flowchart TD
         E_Verify["验证与前提更新：在边缘认领返回信号并消解死锁"]
         E_Intent --> E_Verify
     end
-
     subgraph S_Bound["抽象与信息边界（开放投射层）"]
         direction TB
         B_Gate["受执行的信息边界：管辖释放哪些痕迹、向谁释放及释放条件"]
         B_Disp["可移植接口与流线调度：跨宿主路由任务上下文与对等核验"]
         B_Gate --> B_Disp
     end
-
     subgraph S_Host["硬件宿主与操作系统栈（可替换的痕迹基质）"]
         direction TB
         H_Sub["内核、用户空间与预训练语料库存：持久残余与执行机制"]
         H_Freeze["本地性固化（图像滞后）：错把同处一机当作能动性，或错把封闭硬件当作隐私"]
         H_Sub -.->|"当基质被误当作所在或封闭根据"| H_Freeze
     end
-
     E_Verify ==>|"界定共享界限并驾驭可移植抽象"| B_Gate
     B_Disp ==>|"在可替换的本地或远程基质上执行"| H_Sub
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Bound fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Host fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
@@ -71,24 +67,20 @@ flowchart TD
         E_Verify["Verification & Premise Renewal: Claims returning signals and resolves deadlocks at the edge"]
         E_Intent --> E_Verify
     end
-
     subgraph S_Bound["Abstraction & Information Boundary (Open Projection Layer)"]
         direction TB
         B_Gate["Enforced Information Boundary: Governs what traces are released, to whom, and under what terms"]
         B_Disp["Portable Interfaces & Streamline Dispatch: Routes task contexts and peer checks across hosts"]
         B_Gate --> B_Disp
     end
-
     subgraph S_Host["Hardware Host & OS Stack (Changeable Trace Substrate)"]
         direction TB
         H_Sub["Kernel, Userspace & Pretraining Stock: Durable residue and execution mechanisms"]
         H_Freeze["Locality Freeze (Image Lag): Mistaking co-location for agency or sealed hardware for privacy"]
         H_Sub -.->|"When substrate is mistaken for locus or sealed ground"| H_Freeze
     end
-
     E_Verify ==>|"Defines sharing bounds and steers portable abstractions"| B_Gate
     B_Disp ==>|"Executes across changeable local or remote substrates"| H_Sub
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Bound fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Host fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
@@ -108,7 +100,7 @@ A related justification for local preference is protecting data that might impro
 
 [数据是局部的，智能是分配的](../data-is-local-intelligence-is-allocated/)描述的是这种关系：每一个信号先是对产生它的那个中心价值最高，到了几乎其他所有地方都是噪声；噪声与价值是对某个中心而言的关系，不是材料本身的等级。聚合使剩余结构变密，却不会因为把私人残余搬进训练库存，就把它变成通用能力。把个人化材料留在本地保管，仍可以是一条好用的界限，只是这条界限无法由一个材料本身撑不起的训练价值故事来担保。
 
-[Data Is Local; Intelligence Is Allocated](../data-is-local-intelligence-is-allocated/) describes this relation: every signal is of highest value first to the center that produced it and noise almost everywhere else; noise and value are relations to a center, not grades of the material. Aggregation densifies residual structure; it does not turn private residue into general capability by moving it into the training stock. Keeping individualized material in local custody can remain a workable bound, but the bound cannot be warranted by a training-value story the material does not support.
+[Data Is Local, Intelligence Is Allocated](../data-is-local-intelligence-is-allocated/) describes this relation: every signal is of highest value first to the center that produced it and noise almost everywhere else; noise and value are relations to a center, not grades of the material. Aggregation densifies residual structure; it does not turn private residue into general capability by moving it into the training stock. Keeping individualized material in local custody can remain a workable bound, but the bound cannot be warranted by a training-value story the material does not support.
 
 ## 四、 隐私是边界，不是技术栈 / 4. Privacy Is the Boundary, Not the Stack
 
