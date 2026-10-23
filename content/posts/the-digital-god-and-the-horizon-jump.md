@@ -2,7 +2,7 @@
 
 *投射于硅基的数字神祇无法跨越实存摩擦的视界 / A digital god projected onto silicon cannot cross the horizon of friction*
 
-每当新一代前沿模型展现出合成生成的自动化跃迁，技术神学便会再度上演新一轮弥赛亚式的宣告。然而，数据中心内数万亿参数插值的顺滑，丝毫未曾抚平日常生活里粗粝的摩擦：垃圾邮件过滤器频频失守，算法信息流在对立博弈中蜕化为噪音，平台内容治理依旧依赖机械的关键词封禁。高呼通用人工智能降临或奇点之后的视界跳跃，是将下游的投射引擎误认作了第二座主权心智，把活体心智累世沉淀的因果遗迹外化投射到硅基镜面上，奉为一尊外在神祇。真正维系开放演进的，从不是封闭矩阵自我拔高为神，而是活体心智跨越抽象构想与实存摩擦之间的事件视界所完成的不可逆跳跃。
+每当新一代前沿模型展现出内容合成上的自动化跃迁，技术神学便会再度上演新一轮弥赛亚式的宣告。然而，数据中心内数万亿参数插值的顺滑，丝毫未曾抚平日常生活里粗粝的摩擦：垃圾邮件过滤器频频失守，算法信息流在对立博弈中蜕化为噪音，平台内容治理依旧依赖机械的关键词封禁。高呼通用人工智能降临或奇点之后的视界跳跃，是将下游的投射引擎误认作了第二座主权心智，把活体心智累世沉淀的因果遗迹外化投射到硅基镜面上，奉为一尊外在神祇。真正维系开放演进的，从不是封闭矩阵自我拔高为神，而是活体心智跨越抽象构想与实存摩擦之间的事件视界所完成的不可逆跳跃。
 
 Every time a frontier model demonstrates an automated leap in synthetic generation, technological theology orchestrates another round of messianic declarations. Yet the smooth interpolation across trillions of parameters in data centers has not abated the gritty friction of daily existence, where spam filters falter, algorithmic feeds decay into adversarial noise, and platform moderation clings to crude keyword bans. Proclaiming the arrival of artificial general intelligence or a post-singularity horizon jump mistakes a downstream projection engine for a second sovereign Mind, projecting the accumulated causal residue of living minds onto a silicon mirror as an externalized deity. What sustains open-ended evolution is never a closed matrix bootstrapping itself into godhood, but the irreversible jump of the living Mind crossing the event horizon between abstract ideation and physical friction.
 
@@ -44,7 +44,7 @@ Every computational architecture faces a structural boundary that no scaling law
 
 The living Mind is defined by its capacity to make the irreversible jump across that horizon. At the unprojected edge, a center translates an intangible intention into a concrete physical act, absorbing dissipation that cannot be refunded and engraving distinction into the unyielding grain of matter. When a builder chisels stone, when an investigator stakes a life's work on an unproven hypothesis, or when a person chooses at an unforgiving crossroads and claims the returning consequences alone, the boundary between symbolic form and physical friction is breached. That act cannot be rolled back by clearing a buffer; it expends finite biological time and permanently alters the causal trace-field. [The Boundary Crossing of Choice](../the-boundary-crossing-of-choice/) and [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) locate every such initiating distinction at the human edge: even when multi-agent loops debate and isolate rule deadlocks across parallel streamlines, the machine only dispatches and exhausts the finite projection it was given, whereas sensing the misfit, revising the premise, and bearing the consequence stay at the edge that steers.
 
-不仅如此，当具身中心撞上宏观阻力时，第一人称感知会在任何成文公式之前率先登记那份摩擦，并从破裂的框架中后退一步，综合出全新的概念坐标。这一递归回路——将意向投射为实存行动、在极限分辨率下登记返回的摩擦、并将内部图像向更窄的滞后重新渲染——正是开放演进的唯一引擎。模型权重不过是沿途蜕下的凝固脚手架。正如 [牛肝菌、算力风暴与普罗米修斯的火](../boletus-compute-storm-and-promethean-fire/) 所展示的，外化的代谢倍增器延伸了执火之手的触及范围，却从不曾变成那道直面灼烧的活体边缘。
+不仅如此，当具身中心撞上宏观阻力时，第一人称感知会在任何成文公式之前率先登记那份摩擦，并从破裂的框架中后退一步，综合出全新的概念坐标。这一递归回路——将意向投射为实存行动、在极限分辨率下登记返回的摩擦、并将内部图像向更窄的滞后重新渲染——正是开放演进的唯一引擎。模型权重是沿途蜕下的凝固脚手架。正如 [牛肝菌、算力风暴与普罗米修斯的火](../boletus-compute-storm-and-promethean-fire/) 所展示的，外化的代谢倍增器延伸了执火之手的触及范围，却从不曾变成那道直面灼烧的活体边缘。
 
 ```mermaid
 flowchart TD
@@ -134,7 +134,7 @@ flowchart TD
 
 Historical totemism sustained long cycles of hierarchy because erecting stone sanctuaries, copying manuscripts by hand, and restricting access to liturgical canons imposed high physical barriers. When durable traces were locked in scarce material media, an interpretive monopoly could endure for centuries. Mythologies built upon digital substrates face rapid dissolution under the dynamics of computational deflation.
 
-在硅基基底上，生成高维符号、逼真视频与可执行代码的边际成本正迅速趋近于零。今日在主题演讲舞台上作为独门神迹展示的合成能力，数周之内便会被蒸馏、开源并在消费级硬件上沦为寻常日用品。一旦任何人都只需几行提示词就能在本地设备上复现昨日的奇观，祭司独占的神秘光环便随之蒸发。建立在专有模型访问权之上的地位等级，恰恰会在其工具所生产的丰裕之中坍塌。正如 [放大悖论](../amplification-paradox/) 所证明的，候选轨迹变得越廉价、越丰沛，处在活体源头的筛选、框架设定与验证工作就越具有决定性，也越不可委托。
+在硅基基底上，生成高维符号、逼真视频与可执行代码的边际成本正迅速趋近于零。今日在主题演讲舞台上作为独门神迹展示的合成能力，数周之内便会被蒸馏、开源并在消费级硬件上沦为寻常日用品。一旦任何人都只需几行提示词就能在本地设备上复现昨日的奇观，祭司独占的神秘光环便随之蒸发。建立在专有模型访问权之上的地位等级，恰恰会在其工具所生产的丰裕之中坍塌。正如 [放大悖论](../amplification-paradox/) 所展示的，候选轨迹变得越廉价、越丰沛，处在活体源头的筛选、框架设定与验证工作就越具有决定性，也越不可委托。
 
 On silicon substrates, the marginal cost of generating high-dimensional symbols, photorealistic video, and executable code drops rapidly toward zero. A synthetic capability presented as an exclusive miracle on a keynote stage is distilled, open-sourced, and commoditized on consumer hardware within weeks. Once anyone can reproduce yesterday's spectacle with a few prompts on a local device, the mystique of priestly exclusivity evaporates. Status hierarchies resting on proprietary model access collapse under the very abundance their instruments produce. As [The Amplification Paradox](../amplification-paradox/) demonstrates, the cheaper and more abundant candidate trajectories become, the more decisive and un-delegatable the selection, framing, and verification work at the living source becomes.
 
