@@ -1,0 +1,98 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<title>Infographic: The Reversal of Verification (picture: Nano Banana through Antigravity, wood marquetry)</title>
+<style>
+  @font-face { font-family: "Info Sans"; font-weight: 300 900; src: url("../fonts/info-sans.latin.woff2") format("woff2"); unicode-range: U+0000-024F, U+2000-206F, U+20A0-20CF, U+2190-21FF; }
+  @font-face { font-family: "Info Sans"; font-weight: 100 900; src: url("./info-sans.zh.woff2") format("woff2"); unicode-range: U+2E80-9FFF, U+3000-303F, U+FF00-FFEF; }
+@font-face { font-family: "Info Sans", "Figtree"; src: url(../../../../kits/shared/lib/fonts/Figtree.ttf); font-weight: 300 900; }
+@font-face { font-family: "Info Sans", "NotoSC"; src: url(../../../../kits/shared/lib/fonts/NotoSansSC.ttf); font-weight: 100 900; }
+/* marquetry palette: walnut, ebony, dyed green and dyed red veneer, on a bird's-eye maple ground */
+:root { --walnut:#4e3220; --ebony:#23180f; --green:#2f6a2a; --red:#9b2a1e; --cherry:#8a4a22; --amber:#8a6410; --plate: rgba(252,246,233,0.93); }
+html,body{margin:0}
+body{width:1024px;height:1024px;overflow:hidden;position:relative;color:var(--ebony);font-family: "Info Sans", "Figtree","NotoSC",sans-serif;background:#ebcfaf}
+body.zh{font-family: "Info Sans", "NotoSC",sans-serif}
+.pic{position:absolute;left:0;top:0;width:1024px;height:1024px}
+svg.art{position:absolute;left:0;top:0}
+.plate{position:absolute;box-sizing:border-box;background:var(--plate);border-radius:5px;padding:8px 11px 9px;border-left:4px solid var(--c);box-shadow:0 1px 0 rgba(60,35,15,.25),0 4px 10px rgba(60,35,15,.22)}
+.plate h3{margin:0 0 3px;font-size:14.5px;line-height:1.2;font-weight:800;color:var(--c)}
+.plate p{margin:0;font-size:12.6px;line-height:1.33}
+.zh .plate h3{font-size:15px;font-weight:700}.zh .plate p{font-size:13px;line-height:1.5}
+.plate b{color:var(--c)}
+.title{position:absolute;left:24px;top:16px;width:560px}
+.title h1{margin:0;font-size:42px;line-height:1.05;font-weight:800;color:var(--walnut);letter-spacing:-.01em}
+.zh .title h1{font-size:42px;letter-spacing:.08em;font-weight:700}
+.title .claim{margin-top:8px;width:540px;font-size:16.5px;line-height:1.38;font-weight:600;color:var(--ebony)}
+.zh .title .claim{font-size:17px;line-height:1.55}
+.title .url{margin-top:6px;font: 10.5px "DejaVu Sans Mono",monospace;color:#6b4a30}
+.use{display:flex;gap:14px;align-items:center}
+.use h3{margin:0;white-space:nowrap;font-size:15.5px}
+.nw{white-space:nowrap}
+#path{stroke:#c98a12;stroke-opacity:.95;stroke-width:4;stroke-dasharray:0.1 9;stroke-linecap:round}
+.num{display:inline-block;width:17px;height:17px;border-radius:50%;background:var(--c);color:#fff;font-size:11px;line-height:17px;text-align:center;margin-right:6px;vertical-align:1px;font-weight:700;font-family: "Info Sans", "Figtree"}
+</style></head><body>
+<img class="pic" src="art.jpg" alt="">
+<svg class="art" width="1024" height="1024"><defs><marker id="chev" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M2 1L8 5L2 9" fill="none" stroke="#c98a12" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><g id="path" fill="none"></g><g id="leads" fill="none" stroke="#3a2414" stroke-width="1.5" stroke-dasharray="3 3"></g></svg>
+<div class="title"><h1 data-k="title"></h1><div class="claim" data-k="claim"></div><div class="url">powerpig99.github.io/not-a-toe/posts/the-reversal-of-verification/</div></div>
+
+<div class="plate" id="kb" style="left:612px;top:16px;width:400px;--c:var(--amber)"><h3 data-k="hb"></h3><p data-k="b"></p></div>
+<div class="plate" id="k1" style="left:12px;top:150px;width:206px;--c:var(--walnut)"><h3 data-k="c1h"></h3><p data-k="c1"></p></div>
+<div class="plate" id="k2" style="left:240px;top:272px;width:226px;--c:var(--green)"><h3 data-k="c2h"></h3><p data-k="c2"></p></div>
+<div class="plate" id="k3" style="left:596px;top:292px;width:205px;--c:var(--cherry)"><h3 data-k="c3h"></h3><p data-k="c3"></p></div>
+<div class="plate" id="k4" style="left:12px;top:470px;width:150px;--c:var(--green)"><h3 data-k="c4h"></h3><p data-k="c4"></p></div>
+<div class="plate" id="k5" style="left:811px;top:292px;width:201px;--c:var(--red)"><h3 data-k="c5h"></h3><p data-k="c5"></p></div>
+<div class="plate" id="k6" style="left:872px;top:600px;width:140px;--c:var(--red)"><h3 data-k="c6h"></h3><p data-k="c6"></p></div>
+<div class="plate use" id="ku" style="left:12px;top:928px;width:1000px;--c:var(--walnut)"><h3 data-k="h_use"></h3><p data-k="use"></p></div>
+<script>
+const S={en:{
+title:'The Reversal of Verification',
+claim:'Coherence is internal consistency held open, until the tool is taken as the source of trust.',
+hb:'The belief',
+b:'Formal verification as the holy grail for all code: tests are a lossy proxy for what a program does, and a proof would make code behave like mathematics.',
+c1h:'What the proof establishes',
+c1:'Claude wrote the proofs; the Rocq kernel checked them against the specification: no crashes on any input up to <span class=nw>64 MB</span>, for 239 entry points across 123 OSS-Fuzz libraries, on the compiled RISC-V binaries, <b>conditional on the trusted components being correct</b>.',
+c2h:'Internal consistency is not coherence',
+c2:'A proof can be flawless and the hold that takes it as ground still incoherent. Coherence is internal consistency <b>held open</b>.',
+c3h:'Gödel carried to the trusted base',
+c3:'The specification, the RISC-V and Linux semantics and the Rocq kernel are each a hold. Checking one draws a wider hold, conditional on its own: <b>no last rung</b> from inside.',
+c4h:'The order inside "don\'t trust, verify"',
+c4:'Verification is something a Mind does. Trust is what stands after it, <b>until the next distinction</b>.',
+c5h:'The reversal',
+c5:'The tool\'s output taken as the origin of trust: a proof that passes the kernel becomes <b>a seal the Mind stops reading past</b>.',
+c6h:'Same tools, a different openness',
+c6:'The tool can be shared; the capacity to keep it open cannot. The residue is <b>left to whoever keeps distinguishing</b>.',
+h_use:'What stays useful',
+use:'Formal verification and AI-assisted proof generation keep their value while they enlarge the set of distinctions that can be checked and the Minds who use them hold them as traces, not as grounds. <b>Verification comes first and stays first.</b>'},
+zh:{
+title:'验证的倒置',
+claim:'融贯是保持开放的内部一致，直到工具被当作信任之源',
+hb:'被持守的信念',
+b:'形式验证被奉为所有代码的圣杯：测试只是程序行为的一个有损代理，而证明会让代码像数学一样运作。',
+c1h:'证明确立了什么',
+c1:'证明由 Claude 写出，再由 Rocq 内核对照规约检验：在 123 个 OSS-Fuzz 库的 239 个<span class=nw>入口点</span>上，对任何不超过 <span class=nw><span class=nw>64 MB</span> 的输入</span>都不会崩溃，<span class=nw>作用于</span><span class=nw>编译后的</span> RISC-V <span class=nw>二进制文件</span>，<b>以<span class=nw>可信组件</span><span class=nw>正确为条件</span></b>。',
+c2h:'内部一致不是融贯',
+c2:'每一步都可以从先前的步骤推出，而把证明当作地基的那个持守依然不融贯。融贯是<b>保持开放</b>的<span class=nw>内部一致。</span>',
+c3h:'把哥德尔推到可信基',
+c3:'规约、RISC-V 语义、<span class=nw>Linux 语义</span>和 Rocq 内核，各自都是一个持守。检验其中任何一个，都会划出一个更宽的<span class=nw>持守</span>：从内部看，<b>没有哪一级是</b><span class=nw><b>最后一级</b>。</span>',
+c4h:'“不要信任，要验证”里的次序',
+c4:'验证是心智在<span class=nw>做的事</span>。信任是验证之后仍然立着的<span class=nw>东西</span>，<b>只立到下一次</b><span class=nw><b>区分为止</b>。</span>',
+c5h:'倒置',
+c5:'工具的成功输出被当作信任的起点：通过内核的证明成了<b><span class=nw>一道</span>封条，心智读到这里便<span class=nw>不再</span>往下读</b>。',
+c6h:'同样的工具，不同的开放',
+c6:'工具可以共享；<span class=nw>让它</span>保持开放的<span class=nw>能力</span>不能。残余<b class=nw>留给</b><span class=nw><b>持续区分者</b>。</span>',
+h_use:'仍然有用之处',
+use:'形式验证与 AI 辅助的证明生成，只要在扩大可检验区分之集合的同时，使用它们的心智仍把它们持守为痕迹而非地基，就保有它们的价值。<b class=nw>验证在先，并且始终在先。</b>'}};
+const lang=new URLSearchParams(location.search).get('lang')==='zh'?'zh':'en',W=S[lang];
+document.documentElement.lang=lang;document.body.classList.toggle('zh',lang==='zh');
+for(const el of document.querySelectorAll('[data-k]'))el.innerHTML=W[el.dataset.k];
+['k1','k2','k3','k4','k5','k6'].forEach((id,i)=>document.querySelector(`#${id} h3`).insertAdjacentHTML('afterbegin',`<span class="num">${i+1}</span>`));
+const pt=(id,[fx,fy])=>{const r=document.getElementById(id).getBoundingClientRect();return[r.left+fx*r.width,r.top+fy*r.height]};
+const tie=(a,b)=>`<path d="M${a[0].toFixed(0)} ${a[1].toFixed(0)}L${b[0]} ${b[1]}"/><circle cx="${b[0]}" cy="${b[1]}" r="4" fill="#fffaf0" stroke="#3a2414" stroke-dasharray="none"/>`;
+let h='';
+h+=tie(pt('k1',[0.75,1]),[196,492]);   // the open, unrolled scroll (its top roll)
+h+=tie(pt('k2',[0.55,1]),[372,438]);  // the lamp lighting the open scroll
+h+=tie(pt('k3',[0,0.5]),[548,360]);   // the ladder
+h+=tie(pt('k4',[1,0.5]),[330,566]);   // the magnifying lens
+h+=tie(pt('k5',[0.3,1]),[708,580]);   // the wax seal on the rolled scroll
+h+=tie(pt('k6',[0,0.75]),[690,792]);  // the cracks under the sealed scroll
+document.getElementById('leads').innerHTML=h;
+</script></body></html>

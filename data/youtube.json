@@ -534,6 +534,38 @@
     "processed": "2026-10-23T11:52:24.600Z",
     "playlist": "PLGrxskF8JnDo"
    }
+  },
+  "the-reversal-of-verification": {
+   "en": {
+    "id": "tHcTYm_CGxw",
+    "url": "https://youtu.be/tHcTYm_CGxw",
+    "title": "The Reversal of Verification",
+    "privacy": "public",
+    "uploaded": "2026-10-23T21:29:07.958Z",
+    "file": "studio/post/the-reversal-of-verification/final/film/film.en.mp4",
+    "sha256": {
+     "film": "61bf2f7388c48cabdf2bf369aec7f5850c405dc8894681bb2b70ddf3c274effe",
+     "intro": "0d8c9a53392dd4a383a2f66eb83b458fc323bf2e166a1c9288ad305dcec90da8"
+    },
+    "status": "processed",
+    "processed": "2026-10-23T21:30:11.126Z",
+    "playlist": "PLMyi7vp2KMyA"
+   },
+   "zh": {
+    "id": "lS9LBNjroHI",
+    "url": "https://youtu.be/lS9LBNjroHI",
+    "title": "验证的倒置",
+    "privacy": "public",
+    "uploaded": "2026-10-23T21:30:41.073Z",
+    "file": "studio/post/the-reversal-of-verification/final/film/film.zh.mp4",
+    "sha256": {
+     "film": "44009634844295a322542660d11353c59ccf3b672ba8d23ccece65ebde4b89a5",
+     "intro": "bc1805ad64395e18fc4ffb206f8408941a2f93226df39d5e79475964c271f65c"
+    },
+    "status": "processed",
+    "processed": "2026-10-23T21:31:33.497Z",
+    "playlist": "PLGrxskF8JnDo"
+   }
   }
  }
 }
