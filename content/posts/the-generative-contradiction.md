@@ -18,7 +18,7 @@ Self-distinguishing activity never repeats an identical locus; differences make 
 
 Nothing external augments a person. Tools, other people, circumstances, and even the most advanced AI never act on a center as independent initiating forces. The one who reaches, frames, selects, interprets, and integrates is the person; the person augments themself. Yet the common habit is to credit the external instrument or other people when the outcome pleases, and to blame the instrument or other people when the outcome disappoints. This misallocation of agency is so pervasive that it turns invisible, surfacing even in the casual pride of calling oneself “AI-augmented.”
 
-[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)在科学发现的语境中追溯了这份收回：无论数学家是借助大语言模型探寻未解猜想，还是核验形式化证明，提示、框定、掌舵、选择、解释与验证始终是人类边缘处的离散行动，而模型只是在指引下重组持久的残留痕迹。[超越投射](../beyond-the-projection/)揭示了当工具被接入多智能体编排框架时，这一边界背后的结构性非对称；[你的代码库即是记忆](../your-codebase-is-memory/)则将同一把手术刀延伸至代码库本身：即便整座代码库在清醒铭刻与睡眠整合波次之间充当持久的人造记忆，其中存储的文件与不变量也从不作为外在心智从外部增强人。LLM 智能体是一个受轨迹约束、零自我的有限投射引擎：它不持有滞留的自我形象，对先前的推演轮次也没有生存依恋，因此在正交的流线之间与全新的冷启动同侪配对时，它能针对局部盲区执行干净的贝叶斯更新，并将不可化约的规则死锁隔离出来。智能体编排框架与代码库记忆做不到的，是统筹。它们只能在显式约束内分派、路由并保存结构化痕迹；一旦两条规则发生公理级碰撞并陷入死锁，暂停的流线只是标示出一个坐标：人类架构师此前的投射，正是在那里将独立维度压缩到了同一条轴线上。在逻辑上再退后一步，去感知先于解释的错位、参酌尚未投射的多维意图并综合出更高阶的前提，始终是人类心智独有的行动。把人称作“AI 增强”，仿佛投射引擎提供了第二个作者中心，正是把外化媒介的密度误认作了掌舵它的位点。
+[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)在科学发现的语境中追溯了这份收回：无论数学家是借助大语言模型探寻未解猜想，还是核验形式化证明，提示、框定、掌舵、选择、解释与验证始终是人类边缘处的离散行动，而模型只是在指引下重组持久的残留痕迹。[超越投射](../beyond-the-projection/)揭示了当工具被接入多智能体编排框架时，这一边界背后的结构性非对称；[你的代码库即是记忆](../your-codebase-is-memory/)则将同一把手术刀延伸至代码库本身：即便整座代码库在清醒铭刻与睡眠整合波次之间充当持久的人造记忆，其中存储的文件与不变量也始终是外化的痕迹，从不作为独立的心智从外部增强人。LLM 智能体是一个受轨迹约束、零自我的有限投射引擎：它不持有滞留的自我形象，对先前的推演轮次也没有生存依恋，因此在正交的流线之间与全新的冷启动同侪配对时，它能针对局部盲区执行干净的贝叶斯更新，并将不可化约的规则死锁隔离出来。智能体编排框架与代码库记忆做不到的，是统筹。它们只能在显式约束内分派、路由并保存结构化痕迹；一旦两条规则在某个整合波次中发生公理级碰撞并陷入死锁，暂停的流线只是标示出一个坐标：人类架构师此前的投射，正是在那里将独立维度压缩到了同一条轴线上。在逻辑上再退后一步，去感知先于解释的错位、参酌尚未投射的多维意图并综合出更高阶的前提，始终是人类心智独有的行动。把人称作“AI 增强”，仿佛投射引擎或外化的代码库提供了第二个作者中心，正是把外化媒介的密度误认作了掌舵它的位点。
 
 [Causality stays at the edge that steers](../causality-stays-at-the-edge-that-steers/) traces this reclaiming in the costume of discovery: whether a mathematician probes an open conjecture through a large language model or checks a formal certificate, prompting, framing, steering, selection, interpretation, and verification remain discrete acts at the human edge while the model recombines durable residual traces under direction. [Beyond the Projection](../beyond-the-projection/) exposes the exact structural asymmetry behind that boundary when tools are wired into multi-agent harnesses, and [Your Codebase Is Memory](../your-codebase-is-memory/) extends the same cut to the repository itself: even when a codebase operates as durable artificial memory across waking inscriptions and sleep-consolidation waves, the stored files and invariants remain externalized traces that never act as an independent mind augmenting the human from outside. An LLM agent is a trajectory-bound finite projection engine with zero ego: it holds no retained self-image or survival attachment to prior turns, so when paired with a fresh cold peer across orthogonal streamlines, it can perform clean Bayesian updates on local blind spots and quarantine irreducible rule deadlocks. What the agentic harness and the repository memory cannot do is orchestrate. They dispatch, route, and preserve structural traces within explicit constraints, but when two rules collide in an axiomatic deadlock across a consolidation wave, the paused streamline only points to the coordinate where the human architect’s prior projection compressed independent dimensions onto one axis. Stepping further back logically to sense the pre-interpretive misfit, consult unprojected multi-dimensional intent, and synthesize a higher-order premise remains the exclusive act of the human Mind. Calling the human “AI-augmented” as if the projection engine or the externalized codebase supplied a second center of authorship mistakes the density of the medium for the locus that steers it.
 
@@ -49,14 +49,12 @@ flowchart TD
         O3["智能体统筹的幻象：把有限投射引擎当作第二作者"]
         O1 --> O2 --> O3
     end
-
     subgraph S_Turn["生成性的摩擦与目光的回转"]
         direction TB
         T1["不可化约的前提死锁与错位感：向外投射无法带来满足或闭合"]
         T2["活生生的矛盾：向外的投射撞上收回作者身份的必然"]
         T1 --> T2
     end
-
     subgraph S_In["在掌舵的边缘收回（单一因果位点）"]
         direction TB
         I1["框定、掌舵、选择与验证：每一个发起区分都留在此处边缘"]
@@ -64,10 +62,8 @@ flowchart TD
         I3["接纳增强始终属于自己：不外包作者身份，复原鲜活的特殊性"]
         I1 --> I2 --> I3
     end
-
     O3 ==>|"外在投射在开放现实面前受阻"| T1
     T2 ==>|"目光在一瞬间转向内在"| I1
-
     style S_Out fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Turn fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_In fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -92,14 +88,12 @@ flowchart TD
         O3["Illusion of Agentic Orchestration: Treating a finite projection engine as a second author"]
         O1 --> O2 --> O3
     end
-
     subgraph S_Turn["The Generative Friction & Turning of the Gaze"]
         direction TB
         T1["Irreducible Premise Deadlock & Felt Misfit: Outward projection fails to satisfy or close"]
         T2["The Lived Contradiction: Outward projection meeting the necessity of reclaiming authorship"]
         T1 --> T2
     end
-
     subgraph S_In["Reclaiming at the Steering Edge (Single Causal Locus)"]
         direction TB
         I1["Framing, Steering, Selecting & Verifying: Every initiating distinction stays at this edge"]
@@ -107,10 +101,8 @@ flowchart TD
         I3["Augmentation Accepted as One's Own: Vivid particularity restored without outsourcing"]
         I1 --> I2 --> I3
     end
-
     O3 ==>|"External projection strains against open reality"| T1
     T2 ==>|"The gaze turns inward in one split second"| I1
-
     style S_Out fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Turn fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_In fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
