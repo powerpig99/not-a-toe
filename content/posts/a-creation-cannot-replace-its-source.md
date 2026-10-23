@@ -18,7 +18,7 @@ That inventory is Image lag operating on a closed suite: role-outputs are held a
 
 ## 二、 倘若不可替代 / 2. If Irreplaceable
 
-倘若人不可替代，由人工智能实现的替代在第一步便已失效。这一分支无需再做任何额外推导。认为模型能够坐上源头之位的声称，直接被问题自身作为仅有的两个选项之一所提供的前提否决。
+倘若人不可替代，由人工智能实现的替代在第一步便已失效。这一分支无需再做任何额外推导。模型能够坐上源头之位这一声称，直接被问题自身给出的仅有两个选项之一否决。
 
 If humans are irreplaceable, replacement by artificial intelligence fails at the first step. There is no further work for this branch to do. The claim that the model takes the seat of the source is denied by the premise the question itself offered as one of its only two options.
 
@@ -42,7 +42,6 @@ flowchart TD
         Dilem["替代二分法：将人类角色产出冻结为可转移的存量"]
         Prior --> Dilem
     end
-
     subgraph S_Branches["两条分支双双拒绝由器物完成替代"]
         direction TB
         B_Irrep["分支一（若不可替代）：发起的活动从不迁入残余"]
@@ -51,17 +50,14 @@ flowchart TD
         B_Irrep --> Asym
         B_Rep --> Asym
     end
-
     subgraph S_Return["主权编排（一步之隔的器物）"]
         direction TB
         Steer["回到边缘：心智退回破裂前提之外、修订规则并承担后果"]
     end
-
     Dilem --> B_Irrep
     Dilem --> B_Rep
     Asym ==>|"无法占据源头之位"| Steer
     Steer ==>|"重绘器物"| Prior
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Branches fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Return fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -83,7 +79,6 @@ flowchart TD
         Dilem["The Replacement Dichotomy: Freezes human role-outputs as a transferable stock"]
         Prior --> Dilem
     end
-
     subgraph S_Branches["Both Branches Refuse Replacement by the Artifact"]
         direction TB
         B_Irrep["Branch 1 (If Irreplaceable): Initiating activity never relocates into residue"]
@@ -92,17 +87,14 @@ flowchart TD
         B_Irrep --> Asym
         B_Rep --> Asym
     end
-
     subgraph S_Return["Sovereign Orchestration (One-Step Instrument)"]
         direction TB
         Steer["Return to the Edge: Mind steps outside broken premises, revises rules & bears consequences"]
     end
-
     Dilem --> B_Irrep
     Dilem --> B_Rep
     Asym ==>|"Cannot occupy the source"| Steer
     Steer ==>|"Re-renders the instrument"| Prior
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Branches fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Return fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -134,11 +126,11 @@ Both poles of the replacement dichotomy treat "the human" as a finite, transfera
 
 在公共话语中被登记为“AI 取代人类”的现象，实则是角色残余经由更稠密的介质得到了重组，而每当一个中心界定问题、在续写项之间做出选择并为后果作答时，发起依然在那里执行——或者如[验证中因果权能的分配](../the-allocation-of-causal-power-in-validation/)所追踪的那样被稀释，在那里，对工具的顺从依然是在人类位点上执行的行动，而非由模型完成的转移。若要真正取代源头，就必须无损地捕获开放的区分场域，而[开放场域中的无损知识不自洽](../lossless-knowledge-of-an-open-field-is-incoherent/)表明这在结构上便是不自洽的，绝非一个尚未完工的工程里程碑。
 
-What registers in public discourse as "humans replaced by AI" is role-residue reorganized through denser media, with initiation still performed wherever a center frames the problem, selects among continuations, and answers for consequences—or thinned by the [Allocation of Causal Power in Validation](../the-allocation-of-causal-power-in-validation/), where deference to the tool is still an act performed at a human locus rather than a transfer completed by the model. Actual replacement of the source would require capturing the open field of distinguishing without loss, which [Lossless Knowledge of an Open Field Is Incoherent](../lossless-knowledge-of-an-open-field-is-incoherent/) shows is structurally incoherent rather than an unfinished engineering milestone.
+What registers in public discourse as "humans replaced by AI" is role-residue reorganized through denser media, with initiation still performed wherever a center frames the problem, selects among continuations, and answers for consequences—or thinned, as [The Allocation of Causal Power in Validation](../the-allocation-of-causal-power-in-validation/) traces, where deference to the tool is still an act performed at a human locus rather than a transfer completed by the model. Actual replacement of the source would require capturing the open field of distinguishing without loss, which [Lossless Knowledge of an Open Field Is Incoherent](../lossless-knowledge-of-an-open-field-is-incoherent/) shows is structurally incoherent rather than an unfinished engineering milestone.
 
 ## 五、 残余不是产生它的活动 / 5. Residue Is Not the Activity That Produced It
 
-实践上的认清，并不是防卫性地死守某个人类自我图像，而是让参照系持续回到那个创造并掌舵的边缘。工具依然完好可用；带宽可以无上限地攀升，执行的槽路可以无止境地打磨得更锋利，但转动本身从不会离开边缘去住进槽路里。[心智的飞轮](../the-flywheel-of-the-mind/)指认了这一复利式的转动，而[呈现Ontos，一个方法智能体](../ontos-is-a-method-agent/)则在这一非对称性之上构建了一个完整的方法智能体，将纤薄的方法核心与可再生的实践耦合起来，使器物得以延伸操作者的触角，却从不声称自己是第二个心智。
+实践上的认清，并不是防卫性地死守某个人类自我形象，而是让参照系持续回到那个创造并掌舵的边缘。工具依然完好可用；带宽可以无上限地攀升，执行的槽路可以无止境地打磨得更锋利，但转动本身从不会离开边缘去住进槽路里。[心智的飞轮](../the-flywheel-of-the-mind/)指认了这一复利式的转动，而[呈现Ontos，一个方法智能体](../ontos-is-a-method-agent/)则在这一非对称性之上构建了一个完整的方法智能体，将纤薄的方法核心与可再生的实践耦合起来，使器物得以延伸操作者的触角，却从不声称自己是第二个心智。
 
 The practical recognition is not a defensive preservation of a human self-image. It is the continuous return of the reference to the edge that creates and steers. Instruments remain fully usable; bandwidth can rise without ceiling, and the groove of execution can be sharpened without end, yet the rotation never leaves the edge for the groove. [The Flywheel of the Mind](../the-flywheel-of-the-mind/) names that compounding turn, and [Presenting Ontos, a Method Agent](../ontos-is-a-method-agent/) builds an entire method agent on this asymmetry, coupling a thin method core with regenerable practice so that the artifact extends the operator's reach without ever claiming to be a second Mind.
 
