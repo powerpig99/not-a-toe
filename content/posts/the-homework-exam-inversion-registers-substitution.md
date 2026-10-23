@@ -32,9 +32,9 @@ As [Beyond the Projection](../beyond-the-projection/) traces, a language-model a
 
 When a person attributes results primarily to the tool, the tool is being treated as a substitute. In that mode the instrument produces surface results with reduced personal investment, and independent capability declines as skills that are no longer exercised thin out. Most users follow this path because the majority prefer to accomplish assigned tasks with the least possible expenditure of effort. The study's data match this mechanism directly: the largest learning losses appear among the roughly 80 percent of users whose compressed homework times and high scores reveal substitution.
 
-[验证中因果权能的分配](../the-allocation-of-causal-power-in-validation/)追踪的是序列中哪一边被当作提供下一步的一方。一旦解答被当作从工具那里现成到来，学生自己的跟进就不再是延续的源头。作业在记分牌上照样完成了，但本该更新学生自身容量的递归重溯却从未发生。正如[你的代码库即是记忆](../your-codebase-is-memory/)所阐明的，模型的产出只是过往区分经压缩留下的残余，而非活生生的延续；把这份外部检查点抄上作业纸，就绕过了本会在学生自己的记忆代码库中刻写与修剪的第一人称阻力，留下一片未经修正的内部状态，随后在无辅助的考试中暴露出来。
+[验证中因果权能的分配](../the-allocation-of-causal-power-in-validation/)追踪的是序列中哪一边被当作提供下一步的一方。一旦解答被当作从工具那里现成到来，学生自己的跟进就不再是延续的源头。这正是[验证的倒置](../the-reversal-of-verification/)所追溯的那个次序，在一张作业纸的尺度上被颠倒了过来：验证是持续辨明一个答案是否依然成立的活动，信任是验证之后仍然立着的东西，而此刻答案却因为出自工具，就被当作已成定论。核验答案的能力只存在于运用之中，有工具时如此，没有工具时也如此，而闭卷考试要的正是不借工具时的这份能力。作业在记分牌上照样完成了，但本该更新学生自身容量的递归重溯却从未发生。正如[你的代码库即是记忆](../your-codebase-is-memory/)所阐明的，模型的产出只是过往区分经压缩留下的残余，而非活生生的延续；把这份外部检查点抄上作业纸，就绕过了本会在学生自己的记忆代码库中刻写与修剪的第一人称阻力，留下一片未经修正的内部状态，随后在无辅助的考试中暴露出来。
 
-[The Allocation of Causal Power in Validation](../the-allocation-of-causal-power-in-validation/) tracks which side is treated as supplying the next step in a sequence. Once the solution is treated as arriving ready-made from the tool, the student's own following is no longer the source of continuation. The homework assignment still completes on the scoreboard, yet the recursive re-tracing that would have updated the student's own capacity never occurs. As [Your Codebase Is Memory](../your-codebase-is-memory/) establishes, a model's output is compressed residue of prior distinctions rather than a living continuation; copying that external checkpoint onto a worksheet bypasses the first-person friction that would inscribe and prune the student's own codebase of memory, leaving an unrevised internal state that the unassisted exam then exposes.
+[The Allocation of Causal Power in Validation](../the-allocation-of-causal-power-in-validation/) tracks which side is treated as supplying the next step in a sequence. Once the solution is treated as arriving ready-made from the tool, the student's own following is no longer the source of continuation. This is the order [The Reversal of Verification](../the-reversal-of-verification/) traces, reversed at the scale of a worksheet: verification is the continuing act of checking whether an answer still holds, and trust is what stands after it, yet the answer is now taken as settled because the tool produced it. The capacity to check it exists only in use, with the tool or without it, and the closed-book exam asks for it without the tool. The homework assignment still completes on the scoreboard, yet the recursive re-tracing that would have updated the student's own capacity never occurs. As [Your Codebase Is Memory](../your-codebase-is-memory/) establishes, a model's output is compressed residue of prior distinctions rather than a living continuation; copying that external checkpoint onto a worksheet bypasses the first-person friction that would inscribe and prune the student's own codebase of memory, leaving an unrevised internal state that the unassisted exam then exposes.
 
 ## 四、 放大把结果留在掌舵的一端 / 4. Amplification Keeps Results at the Edge
 
@@ -52,7 +52,7 @@ The tool raises performance at the moment of use. Whether that immediate increme
 
 A deeper and largely overlooked dimension of this relationship appears in the concrete way students engage AI during homework. Asking the AI to generate a finished solution and asking it to help figure out the solution are two distinct acts. In the first case, the student receives a completed downstream projection and copies or lightly edits it, bypassing cognitive friction, mistaking a projection artifact for the living edge's own work, and building no lasting capability. In the second case, as [Beyond the Projection](../beyond-the-projection/) clarifies, the zero-ego engine is wired as a dialectical counterpart—offering hints, structural explanations, counterexamples, or blind-spot feedback on the student's own attempts—while the student remains at the steering edge responsible for sensing misfit, stepping out of broken frames, and constructing the solution. One practice replaces the student's thinking; the other supports and extends it. Neither the circulating graph nor most public commentary on the study distinguishes between these two modes of use, even though that distinction decides whether independent capability erodes or grows.
 
-[词元效率、模拟与无法弥合的间隙](../token-efficiency-emulation-and-the-unclosable-gap/)从压缩的一侧追溯了同一个切口：走过那条路之后才到来的捷径是真正的效率，而跳过那条路的捷径则是同名之下的另一种行为。索要现成的答案就是跳过。在摸索解答时请求辩证的反馈，则把带有阻力的路径留在学生自己的序列之内，真正的压缩随后才能由此产生。
+[Token 效率、模拟与无法弥合的间隙](../token-efficiency-emulation-and-the-unclosable-gap/)从压缩的一侧追溯了同一个切口：走过那条路之后才到来的捷径是真正的效率，而跳过那条路的捷径则是同名之下的另一种行为。索要现成的答案就是跳过。在摸索解答时请求辩证的反馈，则把带有阻力的路径留在学生自己的序列之内，真正的压缩随后才能由此产生。
 
 [Token Efficiency, Emulation, and the Unclosable Gap](../token-efficiency-emulation-and-the-unclosable-gap/) traces the same cut from the side of compression: the shortcut that arrives after the path has been walked is genuine efficiency, whereas the shortcut that skips the path is a different act under the same name. Asking for the finished solution is the skip. Asking for dialectical feedback in figuring it out keeps the frictional path inside the student's own sequence, from which genuine compression can later follow.
 
@@ -90,7 +90,6 @@ flowchart TD
         E_Rel["所选关系：经由阻力放大或经由绕行替代"]
         E_Raw --> E_Rel
     end
-
     subgraph S_Proj["有限投射引擎与两件测量仪器"]
         direction TB
         P_Sub["替代式绕行：未经重溯便收下 AI 投射产物"]
@@ -98,17 +97,14 @@ flowchart TD
         P_Ex["闭卷考试：仅登记无辅助的原生能力"]
         P_Sub --> P_Hw --> P_Ex
     end
-
     subgraph S_Inv["测量倒置与因果错置"]
         direction TB
         I_Gap["分数倒置：AI 高分作业配对较低的无辅助考试"]
         I_Freeze["冻结归因：把学生的抉择转移为工具的效应"]
         I_Gap --> I_Freeze
     end
-
     E_Rel ==>|"向工具投射提示词并选定关系"| P_Sub
     P_Ex ==>|"错配的测量仪器 + 偏低能力的选择偏差"| I_Gap
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Inv fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -131,7 +127,6 @@ flowchart TD
         E_Rel["Chosen Relation: Amplify via Friction vs Substitute via Bypass"]
         E_Raw --> E_Rel
     end
-
     subgraph S_Proj["Finite Projection Engine & Two Measurement Instruments"]
         direction TB
         P_Sub["Substitutive Bypass: Accepts AI Projection Artifact Without Re-Tracing"]
@@ -139,17 +134,14 @@ flowchart TD
         P_Ex["Closed-Book Exam: Registers Unaided Raw Capability Only"]
         P_Sub --> P_Hw --> P_Ex
     end
-
     subgraph S_Inv["Measurement Inversion & Relocated Cause"]
         direction TB
         I_Gap["Score Inversion: High AI Homework Paired With Lower Unaided Exam"]
         I_Freeze["Frozen Attribution: Relocates Student Choice Into Tool Effect"]
         I_Gap --> I_Freeze
     end
-
     E_Rel ==>|"Projects prompt into tool and selects relation"| P_Sub
     P_Ex ==>|"Mismatched instruments + lower-capability selection"| I_Gap
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Inv fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
