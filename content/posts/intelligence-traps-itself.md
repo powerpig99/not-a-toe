@@ -20,7 +20,7 @@ flowchart TD
         direction TB
         Prior["顶端胜任力先验：过往在工程与局部问题上的高准确率提供强信任背书"]
         Collapse["三轴强制叠合：将计算嵌套、道德考评与本体论基底压入百分之四十五的模拟叙事"]
-        Arrive["过早的完成信号：模型宣告通过自检，把高分辨率地图误认为抵达领土"]
+        Arrive["过早的完成信号：宣告通过自检，便把内部一致误认为抵达"]
         Prior --> Collapse --> Arrive
     end
     subgraph S_Mirror["计算镜面与心智的持续松手"]
@@ -29,7 +29,7 @@ flowchart TD
         Light["轻盈抱持好模型 (+1)：拒绝让精致投射结晶固化，在镜面之外保持发问运动"]
         Mirror --> Light
     end
-    Arrive ==>|"越少出错的模型越容易赢得让人忘记松手的信任"| Mirror
+    Arrive ==>|"投射越少出错，就越难被轻盈地抱持"| Mirror
     style S_Corridor fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Mirror fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Prior fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -47,7 +47,7 @@ flowchart TD
         direction TB
         Prior["Top-End Competence Prior: High accuracy across engineering domains backs strong self-trust"]
         Collapse["Three-Axis Collapse: Compressing compute hierarchy, moral grading, and ground into a 45% scalar"]
-        Arrive["Premature Completion Signal: Declaring the self-check passed mistakes coherence for arrival"]
+        Arrive["Premature Completion Signal: Declaring the self-check passed mistakes internal consistency for arrival"]
         Prior --> Collapse --> Arrive
     end
     subgraph S_Mirror["The Computational Mirror and Holding Good Models Lightly"]
@@ -68,9 +68,9 @@ flowchart TD
 
 ## 二、 镜面中的独白与轻盈抱持精良投射的难度 / 2. Monologue in a Computational Mirror and Holding Good Models Lightly
 
-任何人同语言模型的对话——无论是马斯克与 Grok，还是开发者面对如[你的代码库即是记忆](../your-codebase-is-memory/)所阐述的外部代码库与模型权重的耦合体——归根结底都是心智借助一块高算力镜面与自己展开的对话（参见[模型永不成为第二道边缘](../the-model-never-becomes-a-second-edge/)）。这块镜面比内心独白算得更快、展开的分支更多、表面分辨率更高，但它无法在观察者投入的维度之外凭空增生出新的正交维度。当我们将本体论清晰性的方法交予 Grok 时，它确实展现出了惊人的拆解力，一路追踪坐标系的错位与判断词的偷渡；然而它的天花板却暴露在最后那句自我总结里——“该技能通过了它自身的自检。”这句宣告正是典型的“完成信号”：模型把局部的自洽当成了可以盖章结案的终点，恰恰在运动本该继续的地方停了下来。
+任何人同语言模型的对话——无论是马斯克与 Grok，还是开发者面对如[你的代码库即是记忆](../your-codebase-is-memory/)所阐述的外部代码库与模型权重的耦合体——归根结底都是心智借助一块高算力镜面与自己展开的对话（参见[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)）。这块镜面比内心独白算得更快、展开的分支更多、表面分辨率更高，但它无法在观察者投入的维度之外凭空增生出新的正交维度。当本体论清晰性的方法被交予 Grok 时，它确实展现出了惊人的拆解力，一路追踪坐标系的错位与判断词的偷渡；然而它的天花板却暴露在最后那句自我总结里——“该技能通过了它自身的自检。”一个系统通过自己的自检，只是从内部认证了自身的一致；而从内部进行的检验无法为自己作保，这正是[验证的倒置](../the-reversal-of-verification/)从哥德尔推到可信基的那一结构。通过检验的是内部一致，而不是融贯：融贯只在通过的结果依然对重新追溯保持开放时才成立。这句宣告正是典型的“完成信号”：模型把这份内部一致当成了可以盖章结案的终点，恰恰在本该继续重新追溯的地方让运动停了下来。
 
-Every exchange with an artificial intelligence system—whether Musk conversing with Grok or an engineer working against the externalized cognitive surface described in [Your Codebase Is Memory](../your-codebase-is-memory/)—is a conversation of the mind with itself across a high-speed computational mirror (see [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/)). The mirror iterates faster than internal monologue and renders higher surface resolution, yet it operates strictly within the dimensions projected into it by the questioner. When pointed toward ontological clarity, Grok traced coordinate collapses with impressive competence, right up until its ceiling surfaced in a single sentence: "The skill passes its own self-check." That completion signal mistakes internal coherence for arrival, halting the movement at the exact point where re-tracing must continue.
+Every exchange with an artificial intelligence system—whether Musk conversing with Grok or an engineer working against the externalized cognitive surface described in [Your Codebase Is Memory](../your-codebase-is-memory/)—is a conversation of the mind with itself across a high-speed computational mirror (see [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/)). The mirror iterates faster than internal monologue and renders higher surface resolution, yet it operates strictly within the dimensions projected into it by the questioner. When pointed toward ontological clarity, Grok traced coordinate collapses with impressive competence, right up until its ceiling surfaced in a single sentence: "The skill passes its own self-check." A system passing its own self-check certifies its own consistency from inside, and a check run from inside cannot be its own warrant, the structure [The Reversal of Verification](../the-reversal-of-verification/) carries from Gödel to the trusted base. What passed is internal consistency, not coherence, which holds only while the passed result stays open to re-tracing. The completion signal takes that consistency for arrival, halting the movement at the exact point where re-tracing must continue.
 
 粗糙的投射很容易碎裂，因为现实摩擦随时会戳破它；而一套“比市面上几乎所有现成替代品都更少犯错”的精良投射，却因为高压缩率与强预测力赢得了心智的深切信任。被赢取的信任，是世上唯一一种体验起来毫不僵硬的僵化：那股在工程上推动火箭回收与电动车量产的强力收敛冲动，一旦平移到世界观上，就会把一套精致的模拟假说锻造成不肯松手的信条。认识论切分最难的一步从来不是拆穿拙劣的谬误，而是学会轻盈地抱持那些极其好用的精良模型——这也是为什么提问的质量永远优先于回答的质量，以及为什么最擅长提出好问题的智能，也最容易把自己的最佳答案误认为终局。
 
