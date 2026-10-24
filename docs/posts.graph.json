@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-24T19:38:26.141Z",
+    "generated_at": "2026-10-24T20:27:07.364Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -97,7 +97,7 @@
       "content/posts/guidance-is-not-ownership.md": "ad110e0b12b6",
       "content/posts/hardness-is-not-inherent-in-the-action.md": "a3edf37fad3f",
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "e145bfea5ec3",
-      "content/posts/hassabis-einstein-test.md": "c3e564187351",
+      "content/posts/hassabis-einstein-test.md": "a19b4afc58f5",
       "content/posts/hassabis-frontier-agi-premise.md": "5bb4aad4ec8f",
       "content/posts/having-more-is-never-the-cause.md": "fff7b1e393f6",
       "content/posts/help-is-half-the-problem.md": "b370c85eb106",
@@ -131,7 +131,7 @@
       "content/posts/name-negation-tendency.md": "a67cfac7fc95",
       "content/posts/naval-separation-analysis.md": "19901cd6d9bb",
       "content/posts/no-genius-can-solve-the-knowledge-problem.md": "b3abbe0744cc",
-      "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "5b5e6c443f3a",
+      "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "6cca4707b0cc",
       "content/posts/no-outside-scorekeeper.md": "6d9499826830",
       "content/posts/no-system-can-be-kept-closed.md": "cb636c5e6b60",
       "content/posts/nobody-has-seen-anything-yet.md": "2b871aa62082",
@@ -140,7 +140,7 @@
       "content/posts/not-a-toe-rewrite.md": "99150d84dc27",
       "content/posts/not-predicting-is-predicting-without-awareness.md": "750dd47f6c5b",
       "content/posts/objects-are-stabilized-relationships.md": "01d114dde3a7",
-      "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "e155f3d0f778",
+      "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "47a22515d8a1",
       "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "34862119083b",
       "content/posts/on-education.md": "99c1e2f8be6e",
       "content/posts/one-cannot-escape-ones-own-mind.md": "474dad0e12f2",
@@ -433,10 +433,10 @@
     },
     "stats": {
       "posts": 406,
-      "edges": 11258,
-      "unique_directed": 5524,
+      "edges": 11264,
+      "unique_directed": 5527,
       "missing_targets": 0,
-      "one_way": 886,
+      "one_way": 883,
       "isolated": 0,
       "posts_with_outbound": 406,
       "book_pages": 16,
@@ -2871,10 +2871,11 @@
       "slug": "hassabis-einstein-test",
       "path": "content/posts/hassabis-einstein-test.md",
       "title": "爱因斯坦测试与通用人工智能的范畴谬误 / The Einstein Test and the AGI Category Error",
-      "hash": "c3e564187351",
+      "hash": "a19b4afc58f5",
       "in_degree": 2,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
+        "the-carry-that-cannot-be-named-inside-the-register",
         "agi-and-asi-are-temporary-goalposts",
         "extension-and-shift",
         "intelligence-crisis-response",
@@ -3841,14 +3842,15 @@
       "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "path": "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md",
       "title": "没有外部 / No Outside",
-      "hash": "5b5e6c443f3a",
+      "hash": "6cca4707b0cc",
       "in_degree": 24,
-      "out_degree": 24,
+      "out_degree": 25,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
         "what-always-listens-cannot-originate",
         "token-efficiency-emulation-and-the-unclosable-gap",
         "the-presumption-of-agi-and-the-view-from-outside",
+        "the-carry-that-cannot-be-named-inside-the-register",
         "the-model-never-becomes-a-second-edge",
         "intelligence-belongs-only-to-the-mind",
         "looping-and-graphing",
@@ -4107,14 +4109,15 @@
       "slug": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "path": "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md",
       "title": "论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof",
-      "hash": "e155f3d0f778",
+      "hash": "47a22515d8a1",
       "in_degree": 10,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
         "the-other-coherence",
         "beyond-the-projection",
+        "the-carry-that-cannot-be-named-inside-the-register",
         "your-codebase-is-memory",
         "an-observation-by-its-own-standard",
         "selection-contradiction-and-open-reality",
@@ -6130,7 +6133,7 @@
       "path": "content/posts/the-carry-that-cannot-be-named-inside-the-register.md",
       "title": "进位无法在寄存器之内被命名 / The Carry That Cannot Be Named Inside the Register",
       "hash": "5c9ce10e9d71",
-      "in_degree": 0,
+      "in_degree": 3,
       "out_degree": 9,
       "links_out": [
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
@@ -25471,6 +25474,18 @@
     },
     {
       "from": "hassabis-einstein-test",
+      "to": "the-carry-that-cannot-be-named-inside-the-register",
+      "rel": "points_to",
+      "label": "进位无法在寄存器之内被命名"
+    },
+    {
+      "from": "hassabis-einstein-test",
+      "to": "the-carry-that-cannot-be-named-inside-the-register",
+      "rel": "points_to",
+      "label": "The Carry That Cannot Be Named Inside the Register"
+    },
+    {
+      "from": "hassabis-einstein-test",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
       "label": "AGI 与 ASI 是加速通用智能的暂时球门"
@@ -25491,7 +25506,7 @@
       "from": "hassabis-einstein-test",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
+      "label": "AGI and ASI Are Temporary Goalposts"
     },
     {
       "from": "hassabis-einstein-test",
@@ -32293,6 +32308,12 @@
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "the-carry-that-cannot-be-named-inside-the-register",
+      "rel": "points_to",
+      "label": "进位无法在寄存器之内被命名"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "what-always-listens-cannot-originate",
       "rel": "points_to",
       "label": "What Always Listens Cannot Originate"
@@ -32308,6 +32329,12 @@
       "to": "the-presumption-of-agi-and-the-view-from-outside",
       "rel": "points_to",
       "label": "The Presumption of AGI and the View from Outside"
+    },
+    {
+      "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "to": "the-carry-that-cannot-be-named-inside-the-register",
+      "rel": "points_to",
+      "label": "The Carry That Cannot Be Named Inside the Register"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
@@ -34261,9 +34288,21 @@
     },
     {
       "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "to": "the-carry-that-cannot-be-named-inside-the-register",
+      "rel": "points_to",
+      "label": "进位无法在寄存器之内被命名"
+    },
+    {
+      "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "to": "the-carry-that-cannot-be-named-inside-the-register",
+      "rel": "points_to",
+      "label": "The Carry That Cannot Be Named Inside the Register"
     },
     {
       "from": "on-closed-systems-open-minds-and-the-limits-of-proof",

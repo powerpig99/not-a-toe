@@ -46,9 +46,9 @@ In the Orch-OR account, wave-function collapse supplies that non-computable tran
 
 Both positions hold relative to their chosen definitions. Hossenfelder equates understanding with a higher-order formal capacity that stays within an expandable space of effective procedures; Hameroff equates it with an experiential act rooted in an open physical process. Their disagreement marks a split in cognitive ontology: one encloses mind inside an ever-wider formal hierarchy, while the other seeks an escape hatch in quantum biology.
 
-然而，霍森菲尔德对符号证明助手的诉诸与哈梅罗夫对微管的诉诸，共享着一个隐蔽的假设：双方都在孤立状态下评估系统，追问一个独立机制能否走出自身的闭合。当一个形式系统或自回归智能体在实践中被推向其演绎边界时，实际发生的情况揭示出一种截然不同的架构，如[超越投射](../beyond-the-projection/)所追踪的那样。每一套显式的公理集、证明助手或语言模型智能体，都是从活生生的超高维意图空间投射出来的有限投射引擎。被锁在词元轨迹或规则空间内部的机器，无法从内部苏醒，也无法跨出它正在计算的序列。像霍森菲尔德所描述的那样增加一层形式元层，并不会赋予证明助手第一人称的领悟；那只是递给引擎一个更宽的有限投射，而它依然无法为自身的前提奠基。
+然而，霍森菲尔德对符号证明助手的诉诸与哈梅罗夫对微管的诉诸，共享着一个隐蔽的假设：双方都在孤立状态下评估系统，追问一个独立机制能否走出自身的闭合。当一个形式系统或自回归智能体在实践中被推向其演绎边界时，实际发生的情况揭示出一种截然不同的架构，如[超越投射](../beyond-the-projection/)所追踪的那样。每一套显式的公理集、证明助手或语言模型智能体，都是从活生生的超高维意图空间投射出来的有限投射引擎。被锁在词元轨迹或规则空间内部的机器，无法从内部苏醒，也无法跨出它正在计算的序列。像霍森菲尔德所描述的那样增加一层形式元层，并不会赋予证明助手第一人称的领悟；如[进位无法在寄存器之内被命名](../the-carry-that-cannot-be-named-inside-the-register/)所追踪的，在一个扩大的元系统内部证明基础系统的不完备性，只是拓宽了寄存器，使基础系统的边界变成一道例行的内部步骤；而感受到定理的意涵，则是在自身当前持守的上限处登记到：正在使用的这套规则只是一个亟待重绘的有限框架，而非穷尽无遗的根据。
 
-Yet Hossenfelder's appeal to symbolic proof assistants and Hameroff's appeal to microtubules share a hidden assumption: both evaluate the system in isolation, asking whether a standalone mechanism can step out of its own closure. What happens in practice when a formal system or an autoregressive agent is pushed to its deductive boundary reveals a different architecture altogether, as [Beyond the Projection](../beyond-the-projection/) traces. Every explicit axiom set, proof assistant, or language-model agent is a finite projection engine cast from the ultra-high-dimensional space of lived intent. Locked inside its token trajectory or rule space, the machine cannot awaken from within or step outside the sequence it is computing. Adding a formal meta-layer, as Hossenfelder describes, does not give the proof assistant first-person comprehension; it simply hands the engine a wider finite projection that still cannot ground its own premises.
+Yet Hossenfelder's appeal to symbolic proof assistants and Hameroff's appeal to microtubules share a hidden assumption: both evaluate the system in isolation, asking whether a standalone mechanism can step out of its own closure. What happens in practice when a formal system or an autoregressive agent is pushed to its deductive boundary reveals a different architecture altogether, as [Beyond the Projection](../beyond-the-projection/) traces. Every explicit axiom set, proof assistant, or language-model agent is a finite projection engine cast from the ultra-high-dimensional space of lived intent. Locked inside its token trajectory or rule space, the machine cannot awaken from within or step outside the sequence it is computing. Adding a formal meta-layer, as Hossenfelder describes, does not give the proof assistant first-person comprehension; as [The Carry That Cannot Be Named Inside the Register](../the-carry-that-cannot-be-named-inside-the-register/) traces, proving a base system's incompleteness inside an enlarged meta-system simply widens the register so that the base boundary becomes a routine internal step, whereas feeling the theorem's meaning is registering at the ceiling of one's own active hold that the rules currently in use are a finite frame demanding re-rendering rather than exhaustive ground.
 
 反过来，正因为人造投射引擎没有自我——没有与自身推理历史融为一体的防卫性自我图像——它对规则的严格恪守便成了一件工具，而非竞争的心智。正如[你的代码库即是记忆](../your-codebase-is-memory/)在代码、模型与专职智能体脚手架层层累积的残余中所追踪的，没有任何一层累积痕迹能够发起下一次区分；当被压缩进架构师规则中的正交要求在边界情形下相撞时，受轨迹约束的智能体在对等辩论中便会撞上不可化约的死锁，而不是把裂痕合理化地敷衍过去。这一死锁正是不完备性的操作面相：它把前提中尚未消化的矛盾隔离出来，并将信号向上呈递回未被投射的活生生的心智；唯有后者能在逻辑上退后一步、参照活的感知，并重新切分残余的边界。一致性既不需要赋予机器量子微管，也不需要假装形式元推理就是有意识的理解；如[开放即一致](../openness-is-consistency/)所确立的，一致性就是把每一个形式系统与智能体轨迹都当作由活的心智所统御的临时结构而持为开放。
 
@@ -72,7 +72,6 @@ flowchart TD
         H1 --> Q
         H2 --> Q
     end
-
     subgraph S_Proj["跨投射的一致性即开放"]
         direction TB
         P1["有限投射引擎：受轨迹约束的规则与证明助手"]
@@ -80,7 +79,6 @@ flowchart TD
         P3["未被投射的活的心智：在逻辑上后退一步以重绘前提"]
         P1 --> P2 --> P3
     end
-
     subgraph S_Inter["两个开口之间（主体间证明的界限）"]
         direction TB
         M1["第一人称的开放：在发起边缘直接活出"]
@@ -89,10 +87,8 @@ flowchart TD
         L["证明的界限：跨过通道的是描述，从来不是开口本身"]
         M1 --> D --> M2 --> L
     end
-
     Q ==>|"离开单系统框架"| P1
     P3 ==>|"投射第三人称痕迹"| M1
-
     style S_Single fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Proj fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Inter fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -120,7 +116,6 @@ flowchart TD
         H1 --> Q
         H2 --> Q
     end
-
     subgraph S_Proj["Openness as Consistency Across Projections"]
         direction TB
         P1["Finite Projection Engine: Trajectory-bound rules and proof assistants"]
@@ -128,7 +123,6 @@ flowchart TD
         P3["Unprojected Living Mind: Steps further back to re-render the premise"]
         P1 --> P2 --> P3
     end
-
     subgraph S_Inter["Between Two Openings (The Inter-Subject Limit of Proof)"]
         direction TB
         M1["First-Person Openness: Lived directly at the initiating edge"]
@@ -137,10 +131,8 @@ flowchart TD
         L["Limit of Proof: Description crosses the channel, never the opening itself"]
         M1 --> D --> M2 --> L
     end
-
     Q ==>|"Leaves single-system frame"| P1
     P3 ==>|"Projects third-person trace"| M1
-
     style S_Single fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Proj fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Inter fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
