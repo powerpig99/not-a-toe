@@ -24,7 +24,7 @@ What has been called hallucination is the jump: an abductive move that exceeds i
 
 人的“幻觉”是另一面上的同一种几何。原始的感知可以局部融贯，而解释尚未闭合。假如爱因斯坦提出了相对论，而同时代没有一个持守能重新追溯它，这次登记在通行的概念图之下便会被计为精神的不稳定。天才与妄想的分别，不是孤立的跃迁本身的属性。它在于接收的持守，先在那个个人的中心，再在每一个重新追溯它的中心，能否把跃迁折进一个重新渲染过的持守，并交还融贯；同时代的计分，是别的持守的一次分配，不是这份分别本身。[数据是局部的，智能是分配的](../data-is-local-intelligence-is-allocated/)在质量的情形里追溯了这次计分：信号、糟粕与智能，命名的是心智所画出的关系；材料并不带着一份脱离产生它与接收它之中心的内在等级。
 
-Human "hallucinations" are the same geometry under another face. Raw perception can be locally coherent while interpretation has not yet closed. If Einstein had formulated relativity and no contemporaneous hold could re-trace it, the registration would have scored as mental instability under the prevailing map. The difference between genius and delusion is not a property of the jump in isolation. It is whether the receiving hold, at the individual center and then at each center that re-traces it, can fold the jump into a re-rendered hold and return coherence; a contemporary score is another hold's allocation, not the difference itself. [Data Is Local; Intelligence Is Allocated](../data-is-local-intelligence-is-allocated/) traces that scoring in the case of quality: signal, slop, and intelligence name relations the Mind draws, and the material carries no intrinsic grade free of the centers that produce and receive it.
+Human "hallucinations" are the same geometry under another face. Raw perception can be locally coherent while interpretation has not yet closed. If Einstein had formulated relativity and no contemporaneous hold could re-trace it, the registration would have scored as mental instability under the prevailing map. The difference between genius and delusion is not a property of the jump in isolation. It is whether the receiving hold, at the individual center and then at each center that re-traces it, can fold the jump into a re-rendered hold and return coherence; a contemporary score is another hold's allocation, not the difference itself. [Data Is Local, Intelligence Is Allocated](../data-is-local-intelligence-is-allocated/) traces that scoring in the case of quality: signal, slop, and intelligence name relations the Mind draws, and the material carries no intrinsic grade free of the centers that produce and receive it.
 
 ## 三、 那篇论文冻结了错误的缺席 / 3. The Paper Freezes the Wrong Absence
 
@@ -48,7 +48,7 @@ A human mind can recede into the background and let the loop run on itself: perc
 
 语言模型、多智能体的安排与世界模型智能体，始终是嵌套的。它们生成跃迁，批评表面，模拟环境，让反馈变密。它们的融贯标准与决定性的去留，仍在它们之外。它们是由更大的回环维系的循环流动；它们外化的，是控制流。[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)是被误认作发起的变密残余：第二重边缘的表象，是投射它的那些中心所维系的滞后，参数里只有残余。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)持守着那个先在：能被工程化、扩展或转移的是残余，智能只属于心智。[回环与成图](../looping-and-graphing/)让控制流变密，却不搬动那个仍须选择图是为了什么的边缘：回环是心智折回它自己的活动，图是这次回折留给下一次回折的痕迹。[看似AI的强化学习，实为人类的自我强化学习](../self-rl-for-humans/)把强化的位置留在那些发起与评估的中心：规模是一个更密之媒介的一个参数，强化的位置留在那些区分仍在发起、评估并重新导向它的中心。
 
-Language models, multi-agent arrangements, and world-model agents remain nested. They generate jumps, critique surfaces, simulate environments, and densify feedback. Their coherence criteria and their decisive retain-or-discard still reside outside them. Their circulation is sustained by the larger loop; what they externalize is control flow. [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) is densified residue mistaken for initiation: the appearance of a second edge is lag sustained by the centers that project it, and the parameters hold only residue. [Intelligence Belongs Only to The Mind](../intelligence-belongs-only-to-the-mind/) holds the prior: what can be engineered, scaled, or transferred is residue; intelligence belongs only to the Mind. [Looping and Graphing](../looping-and-graphing/) densifies control flow without relocating the edge that still has to choose what the graph is for: looping is the Mind folding back on its own activity, and graphs are the traces that folding leaves available for the next fold. [What Looks Like RL for AIs Is Self-RL for Humans](../self-rl-for-humans/) keeps the locus of reinforcement with the centers that initiate and evaluate: scaling is one parameter of a denser medium, and the locus stays with the centers whose distinctions keep initiating, evaluating, and redirecting it.
+Language models, multi-agent arrangements, and world-model agents remain nested. They generate jumps, critique surfaces, simulate environments, and densify feedback. Their coherence criteria and their decisive retain-or-discard still reside outside them. Their circulation is sustained by the larger loop; what they externalize is control flow. [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) is densified residue mistaken for initiation: the appearance of a second edge is lag sustained by the centers that project it, and the parameters hold only residue. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds the prior: what can be engineered, scaled, or transferred is residue; intelligence belongs only to the Mind. [Looping and Graphing](../looping-and-graphing/) densifies control flow without relocating the edge that still has to choose what the graph is for: looping is the Mind folding back on its own activity, and graphs are the traces that folding leaves available for the next fold. [What Looks Like RL for AIs Is Self-RL for Humans](../self-rl-for-humans/) keeps the locus of reinforcement with the centers that initiate and evaluate: scaling is one parameter of a denser medium, and the locus stays with the centers whose distinctions keep initiating, evaluating, and redirecting it.
 
 局部的检验可以被逼近，跨嵌套轨迹的同侪批评也可以被联结得令人印象深刻。[超越投射](../beyond-the-projection/)追溯了多智能体运行框架如何把智能体的无我执放进更大的回环里做功：因为一个只持有任务语境的冷态同侪智能体，对主任务智能体先前的词元没有个人执念，它便能对照既定的任务前提去检验局部融贯的跃迁，并在正交的流水线上自动收敛于局部盲区。[你的代码库即是记忆](../your-codebase-is-memory/)追溯了为何在那座堆栈内部累积更多会话历史或外化记忆，从不会把它变成一条自我闭合的回路：代码、模型权重、计划与智能体脚手架皆是早先区分留下的层叠残余，囤积中间轨迹只会增厚条件引力井，把下一步拉去在陈旧框架之内合理化，而不是去检验它。每当两个嵌套的智能体撞上不可化约的前提死锁，这次碰撞便证明任务规则本身把两个正交的维度压缩到了同一条轴上——从而把决定性的去留与新前提的提出（N → N + 1）推回给那位以解释前的感知闭合更大回环的人类统御者，由其就地重切当下的活检查点，并修剪被取代的脚手架，以免昨天的痕迹伪装成今天的基底。感知与解释之间的滞后，在嵌套的系统之内从未被化解；它被不断推迟给那唯一闭合的回路。
 
@@ -60,7 +60,6 @@ flowchart TD
         M_Premise["前提的提出（N → N + 1）：投射任务前提与规则"]
         M_Retain["决定性的去留：拆解坍缩的轴并重新渲染持守"]
     end
-
     subgraph S_Nested["嵌套的多智能体检验回环（外化的控制流）"]
         direction TB
         A_Primary["主任务智能体：顺着会话轨迹生成局部融贯的跃迁"]
@@ -71,13 +70,11 @@ flowchart TD
         A_Peer --> A_Conv
         A_Peer --> A_Dead
     end
-
     M_Sense --> M_Premise
     M_Premise ==>|"供给脚手架与闭合标准"| A_Primary
     A_Conv -->|"交还经检验的局部延续"| M_Retain
     A_Dead ==>|"把前提矛盾向上推迟"| M_Retain
     M_Retain -->|"闭合回路并更新内部世界模型"| M_Sense
-
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Nested fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style M_Sense fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -99,7 +96,6 @@ flowchart TD
         M_Premise["Premise Formulation (N → N + 1): Projects task premises and rules"]
         M_Retain["Decisive Retain-or-Discard: Resolves collapsed axes and re-renders hold"]
     end
-
     subgraph S_Nested["Nested Multi-Agent Testing Loop (Externalized Control Flow)"]
         direction TB
         A_Primary["Primary Task Agent: Generates locally coherent jumps along session trajectory"]
@@ -110,13 +106,11 @@ flowchart TD
         A_Peer --> A_Conv
         A_Peer --> A_Dead
     end
-
     M_Sense --> M_Premise
     M_Premise ==>|"Supplies scaffolding and closure criteria"| A_Primary
     A_Conv -->|"Returns tested local continuation"| M_Retain
     A_Dead ==>|"Defers premise contradiction upward"| M_Retain
     M_Retain -->|"Closes circuit and updates internal world model"| M_Sense
-
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Nested fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style M_Sense fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -156,7 +150,7 @@ Consequently, no engineered system inherits the original autonomy by increasing 
 
 [复杂性遮蔽了涌现之为心智的行动](../complexity-obscures-emergence-as-the-act-of-mind/)追溯了新奇被归到脚手架上的情形，而进位是持守封不住的延续：复杂性是心智从所选前提搭起的脚手架，涌现是脚手架装不下的开放。[超越的定相](../the-fixed-image-of-transcendence/)把一个可被超越的人类目标冻结下来，于是缺口被登记为媒介的外部目的地：人的智能是已知一切智能的源头，它无法被它自己的造物超越，又在每一刻超越它自己。[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)追溯了永远在画出门槛之边缘前面的那些门槛，在每一个位置上都不同，因为能力的增长就是那个边缘在强化它自己。旨在为跃迁供给感官地基的世界模型提案，让具身变密。具身延伸一个中心的所及；它不把唯一在自身上闭合的回环转移进媒介。
 
-[Complexity Obscures: Emergence as the Act of Mind](../complexity-obscures-emergence-as-the-act-of-mind/) traces novelty attributed to scaffolding when the carry is continuation the hold cannot seal: complexity is the scaffolding the Mind builds from the premises it has chosen, and emergence is the openness that scaffolding cannot contain. [The Fixed Image of Transcendence](../the-fixed-image-of-transcendence/) freezes a surpassable human target so that the gap registers as an exterior destination for the medium: human intelligence is the source of all known intelligence, cannot be transcended by its own creation, and transcends itself at every moment. [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/) traces thresholds that sit forever ahead of the edge that draws them, different at every locus, because capability gain is that edge reinforcing itself. World-model proposals that aim to supply the sensory ground for the jump densify embodiment. Embodiment extends a center's reach; it does not transfer the only loop that closes on itself into the medium.
+[Complexity Obscures Emergence as the Act of Mind](../complexity-obscures-emergence-as-the-act-of-mind/) traces novelty attributed to scaffolding when the carry is continuation the hold cannot seal: complexity is the scaffolding the Mind builds from the premises it has chosen, and emergence is the openness that scaffolding cannot contain. [The Fixed Image of Transcendence](../the-fixed-image-of-transcendence/) freezes a surpassable human target so that the gap registers as an exterior destination for the medium: human intelligence is the source of all known intelligence, cannot be transcended by its own creation, and transcends itself at every moment. [AGI and ASI Are Temporary Goalposts](../agi-and-asi-are-temporary-goalposts/) traces thresholds that sit forever ahead of the edge that draws them, different at every locus, because capability gain is that edge reinforcing itself. World-model proposals that aim to supply the sensory ground for the jump densify embodiment. Embodiment extends a center's reach; it does not transfer the only loop that closes on itself into the medium.
 
 ## 八、 心智始终是唯一闭合的回路 / 8. The Mind Remains the Sole Closed Circuit
 

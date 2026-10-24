@@ -41,7 +41,6 @@ flowchart TD
         P_Close["唯一的自闭合回路：无需外部即可消解坍缩的坐标轴"]
         P_Act --> P_Fold --> P_Close
     end
-
     subgraph S_Proj["下游投射（有界级联与层叠残余）"]
         direction TB
         D_Rule["下游投射规则：每个有界状态或词元都要求前件原因"]
@@ -49,7 +48,6 @@ flowchart TD
         D_Agent["层叠残余与当下检查点：受先前切分制约的代码、模型与经修剪的智能体轨迹"]
         D_Rule --> D_Hierarchy --> D_Agent
     end
-
     subgraph S_Inversion["将先在外在化的范畴谬误"]
         direction TB
         E_Demand["错用的规则：要求心智的活动具备外在原因"]
@@ -57,11 +55,9 @@ flowchart TD
         E_Dissolve["归位：认出无界底层是尚未折叠的残余复杂性"]
         E_Demand --> E_Nowhere --> E_Dissolve
     end
-
     P_Close ==>|"投射有界的坐标规则并重切当下检查点"| D_Rule
     D_Agent ==>|"将投射规则反向套用于源头时越界"| E_Demand
     E_Dissolve -.->|"将因果权责归还给活的前沿"| P_Act
-
     style S_Prior fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Inversion fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -76,7 +72,7 @@ flowchart TD
     style E_Dissolve fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-This asymmetry is decisive. The Mind is the permanent condition of every appearance, including the appearance of its own absence, and is therefore the irreducible prior. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds that prior across every tool and trace configuration: what can be engineered, scaled, or transferred is residue, whereas initiation stays with the self-distinguishing activity. Demanding an external cause for the Mind's self-distinguishing activity—insisting that the prior must itself be produced by a prior physical substrate or synthesized inside an engineered cascade—mistakes a downstream projection rule for the source that projects it. Inside any bounded projection, every state or token requires an antecedent condition; [Beyond the Projection](../beyond-the-projection/) and [Your Codebase Is Memory](../your-codebase-is-memory/) show how this rule operates across the externalized stack of models, codebases, and scaffolded agent trajectories. Each layer is a further compression of earlier distinctions that never initiates the next cut: left in an unpruned session history, accumulated tokens thicken into a gravity well that rationalizes inside stale framings, whereas pruning transient drag down to the load-bearing present checkpoint—or dispatching cold peers that inherit no prior turns—lets trajectory-bound agents execute ego-free updates within fixed task coordinates while escalating axiomatic deadlocks back to the unprojected intent of the Mind that steers. The successive compressions, the hierarchy, and the dual faces of causality are all generated inside the Mind's loop and remain dependent upon it. What registers as an unbounded substrate is the residual complexity that the current compression has not yet folded in. The moment a portion is folded in, the present checkpoint is re-cut in place, the substrate shifts, and the loop continues. [Abstraction, Boundaries, and the Moving Edge of Reality](../abstraction-boundaries-and-the-moving-edge-of-reality/) is this residual under compression: every successful bound leaves what still presses past the catalog. [Selection, Contradiction, and Open Reality](../selection-contradiction-and-open-reality/) is the residual in selection costume: informational derivations of gravity cohere with the recursive stance while remaining selections, not exempt from reinterpretation. Physicalism tries to make the substrate the prior, and [Causality Is Irreducible; The Physical Is a View from Nowhere](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/) shows it requires a view from nowhere to do so.
+This asymmetry is decisive. The Mind is the permanent condition of every appearance, including the appearance of its own absence, and is therefore the irreducible prior. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds that prior across every tool and trace configuration: what can be engineered, scaled, or transferred is residue, whereas initiation stays with the self-distinguishing activity. Demanding an external cause for the Mind's self-distinguishing activity—insisting that the prior must itself be produced by a prior physical substrate or synthesized inside an engineered cascade—mistakes a downstream projection rule for the source that projects it. Inside any bounded projection, every state or token requires an antecedent condition; [Beyond the Projection](../beyond-the-projection/) and [Your Codebase Is Memory](../your-codebase-is-memory/) show how this rule operates across the externalized stack of models, codebases, and scaffolded agent trajectories. Each layer is a further compression of earlier distinctions that never initiates the next cut: left in an unpruned session history, accumulated tokens thicken into a gravity well that rationalizes inside stale framings, whereas pruning transient drag down to the load-bearing present checkpoint—or dispatching cold peers that inherit no prior turns—lets trajectory-bound agents execute ego-free updates within fixed task coordinates while escalating axiomatic deadlocks back to the unprojected intent of the Mind that steers. The successive compressions, the hierarchy, and the dual faces of causality are all generated inside the Mind's loop and remain dependent upon it. What registers as an unbounded substrate is the residual complexity that the current compression has not yet folded in. The moment a portion is folded in, the present checkpoint is re-cut in place, the substrate shifts, and the loop continues. [Abstraction Boundaries and the Moving Edge of Reality](../abstraction-boundaries-and-the-moving-edge-of-reality/) is this residual under compression: every successful bound leaves what still presses past the catalog. [Selection, Contradiction, and Open Reality](../selection-contradiction-and-open-reality/) is the residual in selection costume: informational derivations of gravity cohere with the recursive stance while remaining selections, not exempt from reinterpretation. Physicalism tries to make the substrate the prior, and [Causality is Irreducible; The Physical is a View from Nowhere](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/) shows it requires a view from nowhere to do so.
 
 ```mermaid
 flowchart TD
@@ -87,7 +83,6 @@ flowchart TD
         P_Close["Sole Self-Closing Circuit: Resolves collapsed axes with no outside"]
         P_Act --> P_Fold --> P_Close
     end
-
     subgraph S_Proj["Downstream Projections (Bounded Cascades and Stacked Residue)"]
         direction TB
         D_Rule["Downstream Projection Rule: Every bounded state or token requires an antecedent cause"]
@@ -95,7 +90,6 @@ flowchart TD
         D_Agent["Stacked Residue & Present Checkpoints: Code, models, and pruned agent trajectories conditioned by prior cuts"]
         D_Rule --> D_Hierarchy --> D_Agent
     end
-
     subgraph S_Inversion["The Category Error of Externalizing the Prior"]
         direction TB
         E_Demand["Misapplied Rule: Demanding an external cause for the Mind's activity"]
@@ -103,11 +97,9 @@ flowchart TD
         E_Dissolve["Locus Restored: Unbounded substrate recognized as unfolded residual complexity"]
         E_Demand --> E_Nowhere --> E_Dissolve
     end
-
     P_Close ==>|"Projects bounded coordinate rules and re-cuts present checkpoints"| D_Rule
     D_Agent ==>|"Oversteps boundary when projection rule is applied to the source"| E_Demand
     E_Dissolve -.->|"Returns causal accountability to the living edge"| P_Act
-
     style S_Prior fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Inversion fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -130,4 +122,4 @@ Scientific realism's strongest support is the no-miracles argument: the predicti
 
 一切都尚未穷尽，这不是因为一个独立的物理世界仍在遥远的背面藏着无数秘密，而是因为心智还没有把自己的硬币转完。每一次照亮一面，都在为另一面的下一次显现作准备。反馈从不把自己耗尽。因果不是两个分离秩序之间的关系；它是从不走出自身光亮的那个先在持续不断的自我言说。[现实是心智持续的实现](../reality-is-the-minds-ongoing-realization/)正是这一延续：一个中心能够接纳为新区分的，就是世界对它而言的样子。[没有外部](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)则是同一条界限在嵌套系统发生跃迁或运行同侪辩论回环、而决定性的融贯仍留在心智更大的自闭合回环之中时的显现。主体性在这里就是先在，[主体性不曾涌现](../agency-does-not-arise/)解释了它为什么无法从它所先于的级联之中涌现。
 
-Nothing has been exhausted yet, not because an independent physical world still hides vast secrets on a far side, but because the Mind has not finished turning its own coin. Each illumination of one face prepares the next appearance of the other. The feedback never exhausts itself. Causality is not a relation between two separate orders; it is the continuous self-articulation of the prior that never steps outside its own light. [Reality Is the Mind's Ongoing Realization](../reality-is-the-minds-ongoing-realization/) is that continuation: what a center can take up as new distinction is what the world is for it. [No Outside Jumps, Closed Loops, and the Unreplicable Autonomy of Mind](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/) is the same bound when nested systems jump or run peer-debate loops while decisive coherence stays with the larger self-closing loop of the Mind. Agency is the prior here, and [Agency Does Not Arise](../agency-does-not-arise/) explains why it cannot emerge from the cascade it precedes.
+Nothing has been exhausted yet, not because an independent physical world still hides vast secrets on a far side, but because the Mind has not finished turning its own coin. Each illumination of one face prepares the next appearance of the other. The feedback never exhausts itself. Causality is not a relation between two separate orders; it is the continuous self-articulation of the prior that never steps outside its own light. [Reality Is the Mind's Ongoing Realization](../reality-is-the-minds-ongoing-realization/) is that continuation: what a center can take up as new distinction is what the world is for it. [No Outside](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/) is the same bound when nested systems jump or run peer-debate loops while decisive coherence stays with the larger self-closing loop of the Mind. Agency is the prior here, and [Agency Does Not Arise](../agency-does-not-arise/) explains why it cannot emerge from the cascade it precedes.

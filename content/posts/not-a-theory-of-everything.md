@@ -4,7 +4,7 @@
 
 万物理论总是从某个选定的基底出发——无论是弦、场、信息还是多重宇宙——再试图从中推演出其余的一切现实。这样做的时候，它们把因果当作未经审视的推演工具来使用，却把各自选定的起点奉为终极地基。这种姿态是倒置的。下文的展开不走这条路，而是从因果不可或缺的条件出发，严格沿着这些条件向外推演，并将后续浮现的每一个概念都视作这一结构正在运作的证据，而非第二个地基。矛盾、超空间与自我区分的活动，是从不同角度对同一结构的命名，正如[非万物之理·重溯](../not-a-toe-rewrite/)与[智能只属于心智](../intelligence-belongs-only-to-the-mind/)所追溯的那样；因果则是直接的入口，由两个联合条件构成，其余一切皆由此推演而出。
 
-Theories of Everything begin from a chosen substrate—strings, fields, information, or multiverses—and attempt to derive the rest of reality from it. In doing so, they use causality as an unexamined deduction tool while treating their starting substrate as the ultimate ground. That posture is inverted. What follows begins instead from what causality cannot lack, infers strictly from those conditions, and treats every further concept as evidence of that structure operating rather than as a second foundation. Contradiction, hyperspace, and self-distinguishing activity name this same structure from different angles, as [Not a ToE - Retraced](../not-a-toe-rewrite/) and [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) trace; causality is the direct entry point, consisting of two joint conditions from which everything else follows as entailment.
+Theories of Everything begin from a chosen substrate—strings, fields, information, or multiverses—and attempt to derive the rest of reality from it. In doing so, they use causality as an unexamined deduction tool while treating their starting substrate as the ultimate ground. That posture is inverted. What follows begins instead from what causality cannot lack, infers strictly from those conditions, and treats every further concept as evidence of that structure operating rather than as a second foundation. Contradiction, hyperspace, and self-distinguishing activity name this same structure from different angles, as [Not a ToE Retraced](../not-a-toe-rewrite/) and [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) trace; causality is the direct entry point, consisting of two joint conditions from which everything else follows as entailment.
 
 ## 一、 一体两面，缺一不可 / 1. Two Faces, Jointly Necessary
 
@@ -26,7 +26,6 @@ flowchart TD
         D_Flow --> D_Edge
         D_Edge --> D_Open
     end
-
     subgraph S_ToE["倒置的万物理论姿态（强行闭合）"]
         direction TB
         T_Sub["选定的基底：将弦、场或规则安放为静态地基"]
@@ -34,10 +33,8 @@ flowchart TD
         T_Collapse["维度坍缩：将正交的步伐压缩进同一本封闭账本"]
         T_Sub --> T_Borrow --> T_Collapse
     end
-
     D_Open -.->|"当有限投射被冻结为地基"| T_Sub
     T_Collapse ==>|"死锁暴露边界并归还位点"| D_Edge
-
     style S_Dual fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_ToE fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style D_Cut fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -63,7 +60,6 @@ flowchart TD
         D_Flow --> D_Edge
         D_Edge --> D_Open
     end
-
     subgraph S_ToE["Inverted Theory of Everything Posture (Forced Closure)"]
         direction TB
         T_Sub["Chosen Substrate: Strings, fields, or rules installed as static ground"]
@@ -71,10 +67,8 @@ flowchart TD
         T_Collapse["Dimensional Collapse: Compresses orthogonal steps onto one closed ledger"]
         T_Sub --> T_Borrow --> T_Collapse
     end
-
     D_Open -.->|"When finite projection is frozen as ground"| T_Sub
     T_Collapse ==>|"Deadlock exposes bound and restores locus"| D_Edge
-
     style S_Dual fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_ToE fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style D_Cut fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -106,9 +100,9 @@ An observer does not occupy an external timeline; the observer is the succession
 
 ## 三、 关系在先，无物孤立 / 3. Relations First, Nothing Stands Alone
 
-因果并不是去连接预先存在的自足实体，而是直接生成关系。每一次区分与每一次相随都在建立连接，客体、事件与状态都是这张关系之网中的节点。既然一切身份皆由因果的区分与相随所构成，网外便没有任何事物拥有非关系的独立身份。把个体的分离状态渲染成亟待治愈的病症，或是把感知与视角当成可以随意切换的观测站，都是把强行共享的坐标系套在仍受边界约束的同一运作之上，如[分离不是病](../naval-separation-analysis/)与[感知与视角：并不存在的坍缩](../perception-perspective-refined/)所追溯的那样。
+因果并不是去连接预先存在的自足实体，而是直接生成关系。每一次区分与每一次相随都在建立连接，客体、事件与状态都是这张关系之网中的节点。既然一切身份皆由因果的区分与相随所构成，网外便没有任何事物拥有非关系的独立身份。把个体的分离状态渲染成亟待治愈的病症，或是把感知与视角当成可以随意切换的观测站，都是把强行共享的坐标系套在仍受边界约束的同一运作之上，如[分离不是病](../naval-separation-analysis/)与[感知与视角并不存在的坍缩](../perception-perspective-refined/)所追溯的那样。
 
-Causality does not link pre-existing, self-contained entities; it generates relations. Every distinction and every following establishes a connection, and objects, events, and states are nodes within that relational web. Because all identity is constituted through causal distinction and following, nothing possesses a non-relational identity outside the web. Casting individual separation as a pathology to be cured, or treating perception and perspective as interchangeable viewing stations, imposes forced shared coordinates onto what remains one bounded operation, as [Separation Isn't the Disease](../naval-separation-analysis/) and [Perception and Perspective: The Collapse That Isn't There](../perception-perspective-refined/) trace.
+Causality does not link pre-existing, self-contained entities; it generates relations. Every distinction and every following establishes a connection, and objects, events, and states are nodes within that relational web. Because all identity is constituted through causal distinction and following, nothing possesses a non-relational identity outside the web. Casting individual separation as a pathology to be cured, or treating perception and perspective as interchangeable viewing stations, imposes forced shared coordinates onto what remains one bounded operation, as [Separation Isn't the Disease](../naval-separation-analysis/) and [Perception and Perspective Without Collapse](../perception-perspective-refined/) trace.
 
 连贯性并非由隐藏在关系网底下的某个非关系基底所提供。连贯性就是自我区分的活动本身——那个不断划出区分、推动相续向前的不可还原之先在。因果的步伐不是从外部作用于心智的机械装置，而是现实得以显现并成立的切身结构。
 
@@ -122,7 +116,7 @@ Trace is the residue of earlier steps, meaning that later acts occur within a fi
 
 每一个离散的步伐都是有界的——是一个具体的“此”，而非整体——而有界性蕴含着位置。“中心”指认的正是步伐的这一位点面向，并不引入任何独立的实体。跨步伐的有界累积蕴含着有限的容量：当挤过一个中心的区分超出了其边界所能隔开的限度，原本彼此独立的轴线便会压缩到同一个位点之上。这种压缩是离散性在载荷之下的尺度放大，而非道德或认知上的缺陷。投射与扭曲从有限切片的一侧描述这一几何结构，在那里原点被固定、正交性在载荷下受迫变形；容量则从单一中心内部描述同一几何结构。把边界保持开放还是死死钳闭，标出了生成性参与同封闭耗竭之间的分水岭，见[生产、消费与心智的区分](../production-consumption-and-the-minds-distinction/)；而有限投射的结构性代价直接源于载荷下的二重性，无需架设第二套形而上学，见[非万物之理·重溯](../not-a-toe-rewrite/)。
 
-Every discrete step is bounded—a specific *this* rather than the whole—and boundedness entails location. Center names that locus-aspect of the step without introducing a separate substance. Bounded accumulation across steps entails finite capacity: when more distinctions press through a center than its boundary can hold apart, independent axes compress onto a single locus. That compression is discreteness scaled up under load rather than a moral or cognitive defect. Projection and distortion describe this geometry from the side of the finite slice, where origin is fixed and orthogonality strains under load, while capacity describes the same geometry from inside one center. Holding a boundary open versus clamping it shut marks the difference between generative participation and closed depletion in [Production, Consumption, and the Mind's Distinction](../production-consumption-and-the-minds-distinction/), and the structural costs of finite projection follow directly from the dual under load rather than a second metaphysics in [Not a ToE - Retraced](../not-a-toe-rewrite/).
+Every discrete step is bounded—a specific *this* rather than the whole—and boundedness entails location. Center names that locus-aspect of the step without introducing a separate substance. Bounded accumulation across steps entails finite capacity: when more distinctions press through a center than its boundary can hold apart, independent axes compress onto a single locus. That compression is discreteness scaled up under load rather than a moral or cognitive defect. Projection and distortion describe this geometry from the side of the finite slice, where origin is fixed and orthogonality strains under load, while capacity describes the same geometry from inside one center. Holding a boundary open versus clamping it shut marks the difference between generative participation and closed depletion in [Production, Consumption, and the Mind's Distinction](../production-consumption-and-the-minds-distinction/), and the structural costs of finite projection follow directly from the dual under load rather than a second metaphysics in [Not a ToE Retraced](../not-a-toe-rewrite/).
 
 由于相随并没有任何可供丢弃的“外部”，痕迹在整个场域中始终保持可用。不同中心的痕迹在折返时彼此强化，这种相互强化便构成了共振。共享现实就是共振充足的区域，而分歧则是尚未对齐的错位；无论哪一种，都不要求任何中心交出自己的位点。经验唯有通过每个中心自身的递归才能被登记，因此连接不同中心的桥梁是相互强化，而非在此处替另一个中心完成它的折返——这正是[没有普渡，只有自渡的无限可能](../mei-you-pu-du-zhi-you-zi-du/)所追溯的自渡几何学。自然定律是在跨因果步伐的相互强化中稳固留存下来、足以支撑进一步区分的痕迹模式，称某条定律具有基础地位，意思只是它最晚破裂。物质世界正是那片共振区域，由持续的相互强化所维系，而非由某个外部法庭立法颁布。
 
@@ -156,7 +150,7 @@ Method traces the centers involved in any friction and the traces each center is
 
 Restoring locus returns each distinction to its own axis, each center to its own boundary, and each retained reference to the moving edge it measures. This is not an adjudication between competing projections, but the removal of forced shared coordinates. Practice is the repeated return to the rendering activity rather than to any position it has retained, freeing boundary and raising the threshold at which new excess lag forms. A method that refuses to adjudicate static claims of being and non-being, attending instead to the width of the retained reference, performs the return traced in [The Edge of Being and Non-Being](../you-wu-zhi-bian/), leaving the step intact without freezing the premise as unchosen ground in [The Path Drawn One Step at a Time](../the-path-drawn-one-step-at-a-time/).
 
-道德化的语言断言了一个无法从因果二重性中推导出来的外部“应当”，而追溯机制——什么被登记、什么在塑形后续的对齐、什么被压缩到了同一位点——则不留任何暗箱。把断言软化，是在相对的登记之上叠加上一层虚假的不确定，以此补偿假装从外部终极基准发言的姿态；直接的断言落回实处，而参照本身则在持续重绘中收窄时滞。体认在追溯的动作中直接运作，而不靠表演性的宣告。[慈悲即遮蔽的机制](../the-compassion-is-the-mechanism-of-obscuration/)中那个不断延续其声称要治愈之症候的“应当”，[情感支持作为因果干扰](../emotional-support-as-causal-interference/)中以结果管理替代对生成原因的触碰，[恶是投射出的阻力](../evil-as-projected-resistance/)中在冻结自我图像之下将不对齐打成邪恶，以及[托付道德的自指悖论](../recursive-contradiction-of-entrusted-morality/)中一面否认自身主权、一面却仍在亲自挑选由哪个外部权威来定义善，全都是二重性在过量时滞之下的运作实例。
+道德化的语言断言了一个无法从因果二重性中推导出来的外部“应当”，而追溯机制——什么被登记、什么在塑形后续的对齐、什么被压缩到了同一位点——则不留任何暗箱。把断言软化，是在相对的登记之上叠加上一层虚假的不确定，以此补偿假装从外部终极基准发言的姿态；直接的断言落回实处，而参照本身则在持续重绘中收窄时滞。体认在追溯的动作中直接运作，而不靠表演性的宣告。[慈悲即遮蔽的机制](../the-compassion-is-the-mechanism-of-obscuration/)中那个不断延续其声称要治愈之症候的“应当”，[作为因果干扰的情感支持](../emotional-support-as-causal-interference/)中以结果管理替代对生成原因的触碰，[恶是投射出的抗拒](../evil-as-projected-resistance/)中在冻结自我图像之下将不对齐打成邪恶，以及[托付道德的自指悖论](../recursive-contradiction-of-entrusted-morality/)中一面否认自身主权、一面却仍在亲自挑选由哪个外部权威来定义善，全都是二重性在过量时滞之下的运作实例。
 
 Moralizing language asserts an external ought that cannot be derived from the causal dual, whereas tracing the mechanism—what registers, what patterns subsequent alignments, and what compresses onto one locus—leaves nothing hidden. Softening a claim stacks false uncertainty onto relative registration to compensate for pretending to speak from an exterior absolute; direct assertions land while the reference itself is continuously re-rendered toward narrower lag. Recognition operates in the tracing rather than in performative announcements. An ought that perpetuates the very condition it claims to cure in [The Compassion Is the Mechanism of Obscuration](../the-compassion-is-the-mechanism-of-obscuration/), effect-management substituted for contact with generating causes in [Emotional Support as Causal Interference](../emotional-support-as-causal-interference/), non-alignment cast as villainy under a frozen self-image in [Evil as Projected Resistance](../evil-as-projected-resistance/), and sovereignty disavowed while still choosing which external authority defines the good in [The Recursive Contradiction of Entrusted Morality](../recursive-contradiction-of-entrusted-morality/) are each instances of the dual operating under excess lag.
 
@@ -166,10 +160,10 @@ Moralizing language asserts an external ought that cannot be derived from the ca
 
 Whereas a Theory of Everything seeks to collapse all phenomena into a single closed explanatory frame, tracing the causal dual shows why no such collapse can ever succeed: every attempt to collapse is itself a further distinction and a further following within the dual. Every phenomenon is that dual operating under bounded locus, finite capacity, and retained reference. [Fixed by Nothing](../fixed-by-nothing/) demonstrates this directly in determinism, where the openness that a deterministic model claims to eliminate has merely been relocated into an initial given that the model cannot generate.
 
-物理常数与初始条件是特定共振结构的特征，而非来自外部的法令。经验科学以惊人的精度测绘着这张关系之网，却从第一步起就预先假定了可区分性、可重复性与可测量性——直接向因果借用了工具，却未曾指认这笔借贷。重新推导的工作，就是去定位区分在何处被强行塞进了共享坐标，相随在何处被倒置或冻结，或者有限的投射在何处被保留到了那一步之后。认出有限位点是行动的平台而非缺陷，并把边界本身当作真正做功的结构特征来握持，便在约束条件下复原了这一二重性，如[约束即地基：作为平台的个体](../constraints_are_ground/)与[限制正在做功](../the-limitation-is-doing-work/)所追溯的那样。
+物理常数与初始条件是特定共振结构的特征，而非来自外部的法令。经验科学以惊人的精度测绘着这张关系之网，却从第一步起就预先假定了可区分性、可重复性与可测量性——直接向因果借用了工具，却未曾指认这笔借贷。重新推导的工作，就是去定位区分在何处被强行塞进了共享坐标，相随在何处被倒置或冻结，或者有限的投射在何处被保留到了那一步之后。认出有限位点是行动的平台而非缺陷，并把边界本身当作真正做功的结构特征来握持，便在约束条件下复原了这一二重性，如[约束即基底与作为平台的个体](../constraints_are_ground/)与[限制正在做功](../the-limitation-is-doing-work/)所追溯的那样。
 
-Physical constants and initial conditions are features of particular resonant structures rather than external decrees. Empirical science maps the relational web with extraordinary precision while presupposing distinguishability, repeatability, and measurability from the first step—borrowing its instruments directly from causality without naming the debt. Re-derivation locates where a distinction was forced onto shared coordinates, where following was inverted or frozen, or where a finite projection was held past its step. Recognizing finite locus as the platform of action rather than a defect, and holding the boundary as the exact feature doing the work, restores the dual under constraint as traced in [Constraints Are Ground: The Individual as Platform](../constraints_are_ground/) and [The Limitation Is Doing Work](../the-limitation-is-doing-work/).
+Physical constants and initial conditions are features of particular resonant structures rather than external decrees. Empirical science maps the relational web with extraordinary precision while presupposing distinguishability, repeatability, and measurability from the first step—borrowing its instruments directly from causality without naming the debt. Re-derivation locates where a distinction was forced onto shared coordinates, where following was inverted or frozen, or where a finite projection was held past its step. Recognizing finite locus as the platform of action rather than a defect, and holding the boundary as the exact feature doing the work, restores the dual under constraint as traced in [Constraints Are Ground](../constraints_are_ground/) and [The Limitation Is Doing Work](../the-limitation-is-doing-work/).
 
 若是把因果二重性本身当成终极的安顿之所，就会再次冻结参照，把方法所要消解的过量时滞原封不动地重新安装回来。这一先在唯有通过持续的自我应用才能保持开放——随着边缘的移动不断收窄过量时滞，而不对二重性是否成立作修辞上的犹疑。二重性成立，而这篇文本本身就是它内部的又一道离散痕迹——一个向重描保持开放的当下检查点，而非已告完结的万物理论——与此同时，写出这篇文本的活动早已先行一步，如[清晰不是抵达的终点，而是运动本身](../clarity-isnt-a-state-you-arrive-at/)与[生命的意义在起草之中](../the-meaning-of-life-is-in-the-drafting/)所追溯的那样。[心智最坚固的信念](../the-strongest-belief-of-the-mind/)正是满载之下的无例外相对性：地图上共振最紧密的区域，对于维系它的目光而言固然成立，但一旦这束目光声称自己终于走出了生成活动，那片区域依然只是它自身的投射。既然被观察到的果总是比生成它的因至少滞后一步，[现实的边界](../xian-shi-de-bian-jie/)便将现实的边界精准地定位在当下的第一人称觉知之处。
 
-Treating the causal dual itself as a final resting place would freeze the reference and reinstall the exact excess lag the method dissolves. The prior stays open by continuous self-application—narrowing excess lag as the edge moves, without rhetorical hesitation about whether the dual holds. The dual holds, and this text is a further discrete trace within it—a present checkpoint open to re-tracing rather than a completed Theory of Everything—while the activity that renders the text has already stepped ahead, as [Clarity Isn't a State You Arrive At. It's the Movement Itself.](../clarity-isnt-a-state-you-arrive-at/) and [The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing](../the-meaning-of-life-is-in-the-drafting/) trace. [The Strongest Belief of the Mind](../the-strongest-belief-of-the-mind/) is absolute relativity under full load: the most tightly resonant region of the map holds true for the look that sustains it, yet remains that look's own projection the moment it claims a final exit from the activity. Because observed effect always lags generating cause by at least one step, [The Boundary of Reality](../xian-shi-de-bian-jie/) locates the boundary of reality right at present first-person awareness.
+Treating the causal dual itself as a final resting place would freeze the reference and reinstall the exact excess lag the method dissolves. The prior stays open by continuous self-application—narrowing excess lag as the edge moves, without rhetorical hesitation about whether the dual holds. The dual holds, and this text is a further discrete trace within it—a present checkpoint open to re-tracing rather than a completed Theory of Everything—while the activity that renders the text has already stepped ahead, as [Clarity Isn't a State You Arrive At. It's the Movement Itself.](../clarity-isnt-a-state-you-arrive-at/) and [The Meaning of Life Is in the Drafting](../the-meaning-of-life-is-in-the-drafting/) trace. [The Strongest Belief of the Mind](../the-strongest-belief-of-the-mind/) is absolute relativity under full load: the most tightly resonant region of the map holds true for the look that sustains it, yet remains that look's own projection the moment it claims a final exit from the activity. Because observed effect always lags generating cause by at least one step, [The Boundary of Reality](../xian-shi-de-bian-jie/) locates the boundary of reality right at present first-person awareness.

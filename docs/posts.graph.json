@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-24T10:23:31.992Z",
+    "generated_at": "2026-10-24T10:47:30.139Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -31,7 +31,7 @@
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "a069dfae4348",
       "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md": "b9fc43291727",
       "content/posts/causality-all-the-way.md": "08a8a20f59ec",
-      "content/posts/causality-and-the-irreducible-prior.md": "b7567896ebac",
+      "content/posts/causality-and-the-irreducible-prior.md": "45b9935862c0",
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "315e72100b1f",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "6705615f135b",
       "content/posts/cheng-gong-xue.md": "ac78a83205fd",
@@ -131,12 +131,12 @@
       "content/posts/name-negation-tendency.md": "a67cfac7fc95",
       "content/posts/naval-separation-analysis.md": "19901cd6d9bb",
       "content/posts/no-genius-can-solve-the-knowledge-problem.md": "b3abbe0744cc",
-      "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "aee9e6979b9f",
+      "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "5b5e6c443f3a",
       "content/posts/no-outside-scorekeeper.md": "6d9499826830",
       "content/posts/no-system-can-be-kept-closed.md": "cb636c5e6b60",
       "content/posts/nobody-has-seen-anything-yet.md": "2b871aa62082",
       "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md": "9a865742b9bb",
-      "content/posts/not-a-theory-of-everything.md": "4d8057e37ce3",
+      "content/posts/not-a-theory-of-everything.md": "d407f374359a",
       "content/posts/not-a-toe-rewrite.md": "99150d84dc27",
       "content/posts/not-predicting-is-predicting-without-awareness.md": "750dd47f6c5b",
       "content/posts/objects-are-stabilized-relationships.md": "01d114dde3a7",
@@ -344,7 +344,7 @@
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "7a0ec6232ce8",
       "content/posts/the-scaffolding-that-keeps-growing.md": "35bd1ad4ae31",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "728ed78cb1f9",
-      "content/posts/the-scaffolding-we-forget.md": "f6749a3e817f",
+      "content/posts/the-scaffolding-we-forget.md": "50e59db6f5fb",
       "content/posts/the-scaling-loop.md": "01f561084635",
       "content/posts/the-self-portrait-in-the-projection.md": "2b51ab9fe625",
       "content/posts/the-shadow-and-the-infinite.md": "c39730290699",
@@ -1205,7 +1205,7 @@
       "slug": "causality-and-the-irreducible-prior",
       "path": "content/posts/causality-and-the-irreducible-prior.md",
       "title": "因果与不可化约的先在 / Causality and the Irreducible Prior",
-      "hash": "b7567896ebac",
+      "hash": "45b9935862c0",
       "in_degree": 11,
       "out_degree": 13,
       "links_out": [
@@ -3839,7 +3839,7 @@
       "slug": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "path": "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md",
       "title": "没有外部 / No Outside",
-      "hash": "aee9e6979b9f",
+      "hash": "5b5e6c443f3a",
       "in_degree": 23,
       "out_degree": 24,
       "links_out": [
@@ -4004,7 +4004,7 @@
       "slug": "not-a-theory-of-everything",
       "path": "content/posts/not-a-theory-of-everything.md",
       "title": "非万物之理 / Not a Theory of Everything",
-      "hash": "4d8057e37ce3",
+      "hash": "d407f374359a",
       "in_degree": 31,
       "out_degree": 34,
       "links_out": [
@@ -9257,7 +9257,7 @@
       "slug": "the-scaffolding-we-forget",
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "遗忘的脚手架 / The Scaffolding We Forget",
-      "hash": "f6749a3e817f",
+      "hash": "50e59db6f5fb",
       "in_degree": 69,
       "out_degree": 70,
       "links_out": [
@@ -14885,7 +14885,7 @@
       "from": "causality-and-the-irreducible-prior",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
+      "label": "Abstraction Boundaries and the Moving Edge of Reality"
     },
     {
       "from": "causality-and-the-irreducible-prior",
@@ -14897,7 +14897,7 @@
       "from": "causality-and-the-irreducible-prior",
       "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "rel": "points_to",
-      "label": "Causality Is Irreducible; The Physical Is a View from Nowhere"
+      "label": "Causality is Irreducible; The Physical is a View from Nowhere"
     },
     {
       "from": "causality-and-the-irreducible-prior",
@@ -14927,7 +14927,7 @@
       "from": "causality-and-the-irreducible-prior",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
-      "label": "No Outside Jumps, Closed Loops, and the Unreplicable Autonomy of Mind"
+      "label": "No Outside"
     },
     {
       "from": "causality-and-the-irreducible-prior",
@@ -32225,7 +32225,7 @@
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
-      "label": "Data Is Local; Intelligence Is Allocated"
+      "label": "Data Is Local, Intelligence Is Allocated"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
@@ -32297,7 +32297,7 @@
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence Belongs Only to The Mind"
+      "label": "Intelligence Belongs Only to the Mind"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
@@ -32417,7 +32417,7 @@
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
-      "label": "Complexity Obscures: Emergence as the Act of Mind"
+      "label": "Complexity Obscures Emergence as the Act of Mind"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
@@ -32429,7 +32429,7 @@
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
+      "label": "AGI and ASI Are Temporary Goalposts"
     },
     {
       "from": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
@@ -33491,7 +33491,7 @@
       "from": "not-a-theory-of-everything",
       "to": "not-a-toe-rewrite",
       "rel": "points_to",
-      "label": "Not a ToE - Retraced"
+      "label": "Not a ToE Retraced"
     },
     {
       "from": "not-a-theory-of-everything",
@@ -33593,7 +33593,7 @@
       "from": "not-a-theory-of-everything",
       "to": "perception-perspective-refined",
       "rel": "points_to",
-      "label": "感知与视角：并不存在的坍缩"
+      "label": "感知与视角并不存在的坍缩"
     },
     {
       "from": "not-a-theory-of-everything",
@@ -33605,7 +33605,7 @@
       "from": "not-a-theory-of-everything",
       "to": "perception-perspective-refined",
       "rel": "points_to",
-      "label": "Perception and Perspective: The Collapse That Isn't There"
+      "label": "Perception and Perspective Without Collapse"
     },
     {
       "from": "not-a-theory-of-everything",
@@ -33665,7 +33665,7 @@
       "from": "not-a-theory-of-everything",
       "to": "not-a-toe-rewrite",
       "rel": "points_to",
-      "label": "Not a ToE - Retraced"
+      "label": "Not a ToE Retraced"
     },
     {
       "from": "not-a-theory-of-everything",
@@ -33821,13 +33821,13 @@
       "from": "not-a-theory-of-everything",
       "to": "emotional-support-as-causal-interference",
       "rel": "points_to",
-      "label": "情感支持作为因果干扰"
+      "label": "作为因果干扰的情感支持"
     },
     {
       "from": "not-a-theory-of-everything",
       "to": "evil-as-projected-resistance",
       "rel": "points_to",
-      "label": "恶是投射出的阻力"
+      "label": "恶是投射出的抗拒"
     },
     {
       "from": "not-a-theory-of-everything",
@@ -33875,7 +33875,7 @@
       "from": "not-a-theory-of-everything",
       "to": "constraints_are_ground",
       "rel": "points_to",
-      "label": "约束即地基：作为平台的个体"
+      "label": "约束即基底与作为平台的个体"
     },
     {
       "from": "not-a-theory-of-everything",
@@ -33887,7 +33887,7 @@
       "from": "not-a-theory-of-everything",
       "to": "constraints_are_ground",
       "rel": "points_to",
-      "label": "Constraints Are Ground: The Individual as Platform"
+      "label": "Constraints Are Ground"
     },
     {
       "from": "not-a-theory-of-everything",
@@ -33929,7 +33929,7 @@
       "from": "not-a-theory-of-everything",
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
-      "label": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing"
+      "label": "The Meaning of Life Is in the Drafting"
     },
     {
       "from": "not-a-theory-of-everything",
@@ -66977,7 +66977,7 @@
       "from": "the-scaffolding-we-forget",
       "to": "when-need-stops-being-the-measure",
       "rel": "points_to",
-      "label": "当被需要不再是衡量"
+      "label": "当被需要不再是尺度"
     },
     {
       "from": "the-scaffolding-we-forget",
@@ -67145,7 +67145,7 @@
       "from": "the-scaffolding-we-forget",
       "to": "not-a-theory-of-everything",
       "rel": "points_to",
-      "label": "非万物之理（因果的二重性）"
+      "label": "非万物之理"
     },
     {
       "from": "the-scaffolding-we-forget",
@@ -67169,7 +67169,7 @@
       "from": "the-scaffolding-we-forget",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, Consumption, and the Mind’s Distinction"
+      "label": "Production, Consumption, and the Mind's Distinction"
     },
     {
       "from": "the-scaffolding-we-forget",
@@ -67271,7 +67271,7 @@
       "from": "the-scaffolding-we-forget",
       "to": "the-scaffolding-we-forget-local-models-as-default",
       "rel": "points_to",
-      "label": "我们遗忘的脚手架：以本地模型为默认"
+      "label": "以本地模型为默认是被遗忘的脚手架"
     },
     {
       "from": "the-scaffolding-we-forget",
@@ -67295,7 +67295,7 @@
       "from": "the-scaffolding-we-forget",
       "to": "the-scaffolding-we-forget-local-models-as-default",
       "rel": "points_to",
-      "label": "The Scaffolding We Forget: Local Models as Default"
+      "label": "Local Models as Default Is Forgotten Scaffolding"
     },
     {
       "from": "the-scaffolding-we-forget",
@@ -67349,7 +67349,7 @@
       "from": "the-scaffolding-we-forget",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
-      "label": "The Coordinator’s Category Error"
+      "label": "The Coordinator's Category Error"
     },
     {
       "from": "the-scaffolding-we-forget",
@@ -67769,7 +67769,7 @@
       "from": "the-scaffolding-we-forget",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
+      "label": "Abstraction Boundaries and the Moving Edge of Reality"
     },
     {
       "from": "the-scaffolding-we-forget",
@@ -67781,7 +67781,7 @@
       "from": "the-scaffolding-we-forget",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
+      "label": "AGI and ASI Are Temporary Goalposts"
     },
     {
       "from": "the-scaffolding-we-forget",
