@@ -566,6 +566,38 @@
     "processed": "2026-10-23T21:31:33.497Z",
     "playlist": "PLGrxskF8JnDo"
    }
+  },
+  "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems": {
+   "en": {
+    "id": "1lXxZk0hDqo",
+    "url": "https://youtu.be/1lXxZk0hDqo",
+    "title": "Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems",
+    "privacy": "public",
+    "uploaded": "2026-10-24T15:23:59.464Z",
+    "file": "studio/post/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/final/film/film.en.mp4",
+    "sha256": {
+     "film": "e05c22461de1e8d87746af1413a4da2f917e91d36e3c1aace56b977bbbc1a25e",
+     "intro": "9f392283a752e7aec4cb047a27392d326fcfb334ab0db1851b5b8e0f84b0e45d"
+    },
+    "status": "processed",
+    "processed": "2026-10-24T15:24:41.535Z",
+    "playlist": "PLMyi7vp2KMyA"
+   },
+   "zh": {
+    "id": "SxNF1Fxq-wA",
+    "url": "https://youtu.be/SxNF1Fxq-wA",
+    "title": "递归形式系统中作为记忆与控制的边界条件图",
+    "privacy": "public",
+    "uploaded": "2026-10-24T15:26:27.696Z",
+    "file": "studio/post/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/final/film/film.zh.mp4",
+    "sha256": {
+     "film": "5aa9c88631a77bd25394a816b134f6568f93d13305f94885033fe09ce7e46c59",
+     "intro": "96c6206b40a28ed0e621189488ee2de599a7f46201559d4f11399a9698527a40"
+    },
+    "status": "processed",
+    "processed": "2026-10-24T15:27:09.831Z",
+    "playlist": "PLGrxskF8JnDo"
+   }
   }
  }
 }

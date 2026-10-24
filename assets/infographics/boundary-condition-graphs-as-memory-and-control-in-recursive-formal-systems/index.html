@@ -1,0 +1,102 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<title>Infographic: Boundary-Condition Graphs as Memory and Control (picture: Antigravity image model, cloisonne enamel plaque)</title>
+<style>
+  @font-face { font-family: "Info Sans"; font-weight: 300 900; src: url("../fonts/info-sans.latin.woff2") format("woff2"); unicode-range: U+0000-024F, U+2000-206F, U+20A0-20CF, U+2190-21FF; }
+  @font-face { font-family: "Info Sans"; font-weight: 100 900; src: url("./info-sans.zh.woff2") format("woff2"); unicode-range: U+2E80-9FFF, U+3000-303F, U+FF00-FFEF; }
+@font-face { font-family: "Info Sans", "Figtree"; src: url(../../../../kits/shared/lib/fonts/Figtree.ttf); font-weight: 300 900; }
+@font-face { font-family: "Info Sans", "NotoSC"; src: url(../../../../kits/shared/lib/fonts/NotoSansSC.ttf); font-weight: 100 900; }
+:root { --navy:#1c2240; --ink:#232842; --green:#3f7a2c; --gold:#9a6a08; --coral:#b8432b; --sky:#1f6f86; --indigo:#2f3a78; --plate: rgba(250,245,230,0.94); }
+html,body{margin:0}
+body{width:1024px;height:1024px;overflow:hidden;position:relative;color:var(--ink);font-family: "Info Sans", "Figtree","NotoSC",sans-serif;background:#0e2149}
+body.zh{font-family: "Info Sans", "NotoSC",sans-serif}
+.pic{position:absolute;left:162px;top:180px;width:700px;height:700px;-webkit-mask-image:radial-gradient(circle at 50% 50%,#000 58%,transparent 71%);mask-image:radial-gradient(circle at 50% 50%,#000 58%,transparent 71%)}
+svg.art{position:absolute;left:0;top:0}
+.plate{position:absolute;box-sizing:border-box;background:var(--plate);border-radius:6px;padding:8px 11px 9px;border-left:4px solid var(--c);box-shadow:0 1px 0 rgba(0,0,0,.25),0 4px 10px rgba(0,0,10,.45)}
+.plate h3{margin:0 0 3px;font-size:14.5px;line-height:1.2;font-weight:800;color:var(--c)}
+.plate p{margin:0;font-size:12.6px;line-height:1.33}
+.zh .plate h3{font-size:15px;font-weight:700}.zh .plate p{font-size:13px;line-height:1.5}
+.plate b{color:var(--c)}
+.title{position:absolute;left:24px;top:16px;width:600px}
+.title h1{margin:0;font-size:36px;line-height:1.06;font-weight:800;color:#f6ead0;letter-spacing:-.01em}
+.zh .title h1{font-size:38px;letter-spacing:.06em;font-weight:700}
+.title .claim{margin-top:8px;width:600px;font-size:15.5px;line-height:1.38;font-weight:600;color:#e6e2d4}
+.zh .title .claim{font-size:16px;line-height:1.55}
+.title .url{margin-top:5px;font:10.5px "DejaVu Sans Mono",monospace;color:#a9b3dc}
+.use{display:flex;gap:14px;align-items:center;background:rgba(228,240,220,.96)}
+.use h3{margin:0;white-space:nowrap;font-size:15.5px}
+.nw{white-space:nowrap}
+.loop{position:absolute;left:652px;top:150px;width:236px;background:rgba(10,14,40,.82);border:1px solid rgba(255,209,102,.45);border-radius:5px;padding:5px 8px;box-sizing:border-box;font-size:12px;line-height:1.32;font-style:italic;color:#fdf8ea}.zh .loop{font-style:normal;font-size:12.5px}
+#path{stroke:#ffd166;stroke-opacity:.9;stroke-width:4;stroke-dasharray:0.1 9;stroke-linecap:round;filter:drop-shadow(0 0 1.5px #000)}
+.num{display:inline-block;width:17px;height:17px;border-radius:50%;background:var(--c);color:#fff;font-size:11px;line-height:17px;text-align:center;margin-right:6px;vertical-align:1px;font-weight:700;font-family: "Info Sans", "Figtree"}
+</style></head><body>
+<img class="pic" src="art.jpg" alt="">
+<svg class="art" width="1024" height="1024"><defs><marker id="chev" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M2 1L8 5L2 9" fill="none" stroke="#ffd166" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></marker></defs><g id="path" fill="none"></g><g id="leads" fill="none" stroke="#fdf8ea" stroke-width="1.6" stroke-dasharray="3 3"></g></svg>
+<div class="title"><h1 data-k="title"></h1><div class="claim" data-k="claim"></div><div class="url">powerpig99.github.io/not-a-toe/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/</div></div>
+
+<div class="plate" id="k1" style="left:12px;top:690px;width:238px;--c:var(--coral)"><h3 data-k="c1h"></h3><p data-k="c1"></p></div>
+<div class="plate" id="k2" style="left:12px;top:478px;width:238px;--c:var(--indigo)"><h3 data-k="c2h"></h3><p data-k="c2"></p></div>
+<div class="plate" id="k3" style="left:12px;top:300px;width:238px;--c:var(--gold)"><h3 data-k="c3h"></h3><p data-k="c3"></p></div>
+<div class="plate" id="k4" style="left:774px;top:300px;width:238px;--c:var(--indigo)"><h3 data-k="c4h"></h3><p data-k="c4"></p></div>
+<div class="plate" id="k5" style="left:774px;top:478px;width:238px;--c:var(--sky)"><h3 data-k="c5h"></h3><p data-k="c5"></p></div>
+<div class="plate" id="k6" style="left:774px;top:690px;width:238px;--c:var(--green)"><h3 data-k="c6h"></h3><p data-k="c6"></p></div>
+<div class="loop" id="loop" data-k="loop"></div>
+<div class="plate use" id="ku" style="left:12px;top:918px;width:1000px;--c:var(--navy)"><h3 data-k="h_use"></h3><p data-k="use"></p></div>
+<script>
+const S={en:{
+title:'Boundary-Condition Graphs as Memory and Control',
+claim:'A generative model is steered by setting and tightening the boundary conditions its trajectories run inside, without first having to master its weights. The graph that holds those conditions is both constraint and memory.',
+c1h:'Fixed rules, partial conditions',
+c1:'Frozen weights and a fixed decoding rule make each step deterministic. Variance across runs comes from initial conditions only partly registered, down to the order a batched kernel adds floating-point numbers.',
+c2h:'Amplified at every step',
+c2:'A token pushed across a decoding threshold locks into the context and steers every later step. The same sensitivity yields novel configurations and drift into hallucination, deadlock, or premise inversion.',
+c3h:'One graph, two jobs',
+c3:'Its nodes and edges are the <b>repository of constraints</b> that prunes inadmissible continuations and the <b>persistent memory</b> of trajectories retained.',
+c4h:'Loops nest, relatively',
+c4:'An inner loop refined until sufficiently autonomous is nested inside an outer loop. Once a wider framing comes in, today’s outer loop becomes tomorrow’s inner loop.',
+c5h:'Selection by the outer loop',
+c5:'Valued paths are kept as new edges, checkpoints, or tightened constraints; failing branches are pruned. Where a run stalls, the outer loop steps in and injects a free variable.',
+c6h:'Traces fold back into priors',
+c6:'Instruction prefixes, reinforcement learning, and distillation fold retained traces back to reshape the deterministic core of the next cycle.',
+loop:'The Mind: the ultimate outer loop, left open, never leaving the activity of distinction',
+h_use:'Where it stays useful',
+use:'Mechanistic inspection localizes circuits and debugs a single step. It stops where a complete account of the weights is taken to predict particular trajectories, since multi-step rollouts are computationally irreducible. Explanation stays possible in either direction, never complete.'},
+zh:{
+title:'作为记忆与控制的边界条件图',
+claim:'驾驭生成模型，不需要先期穷尽参数的内部力学，而是迭代设定并收紧边界条件，让推演出的轨迹留在预期区域之内。承载这些条件的图，既是约束库，也是持久记忆。',
+c1h:'固定规则，<span class=nw>部分登记的</span><br><span class=nw>初始条件</span>',
+c1:'权重冻结、解码规则固定，每一步都是确定的。不同运行之间的差异来自只被部分登记的初始条件，小到并行内核上<span class=nw>浮点数</span>归约的先后次序。',
+c2h:'逐步放大的敏感',
+c2:'某个词元一旦越过解码阈值，就被锁进<span class=nw>上下文</span>，牵引后续每一步。同一份敏感既带来新颖构型，也加速滑向<span class=nw>幻觉、</span><span class=nw>约束死锁</span>或<span class=nw>前提倒置</span>。',
+c3h:'一张图，两重职能',
+c3:'节点与边既是剪除不可接受延展的<b class=nw>约束库</b>，又是留存轨迹的<b>持久记忆</b>。',
+c4h:'回环相对嵌套',
+c4:'内环精炼到足够自主，就嵌套进<span class=nw>外环。</span>一旦引入更宽的立框，今天的外环就成为明天的内环。',
+c5h:'外环筛选',
+c5:'有价值的路径记为新的边、<span class=nw>检查点</span>或收紧的约束，失效的分支被剪除。<span class=nw>运行停滞</span>之处，外环介入，注入一个<span class=nw>自由变量。</span>',
+c6h:'痕迹回折为先验',
+c6:'指令前缀、强化学习与蒸馏，<br>把留存的痕迹折回，<br>重塑下一轮的确定性核心。',
+loop:'心智：敞开的终极外环，<br>从未离开<span class=nw>区分活动</span>',
+h_use:'依然有用之处',
+use:'机械可解释性擅长定位回路、调试单步；把对规则的完整结构说明当作能预测具体轨迹，它便到达边界，因为多步展开计算不可约。解释向内、向外都始终可能，却永不完结。'}};
+const lang=new URLSearchParams(location.search).get('lang')==='zh'?'zh':'en',W=S[lang];
+document.documentElement.lang=lang;document.body.classList.toggle('zh',lang==='zh');
+for(const el of document.querySelectorAll('[data-k]'))el.innerHTML=W[el.dataset.k];
+['k1','k2','k3','k4','k5','k6'].forEach((id,i)=>document.querySelector(`#${id} h3`).insertAdjacentHTML('afterbegin',`<span class="num">${i+1}</span>`));
+// art.jpg (990 px) shown at 700 px from (162,180): page = 142 + x*740/990, 166 + y*740/990
+const A=(x,y)=>[Math.round(162+x*700/990),Math.round(180+y*700/990)];
+const pt=(id,[fx,fy])=>{const r=document.getElementById(id).getBoundingClientRect();return[r.left+fx*r.width,r.top+fy*r.height]};
+const tie=(a,b)=>`<path d="M${a[0].toFixed(0)} ${a[1].toFixed(0)}L${b[0]} ${b[1]}"/><circle cx="${b[0]}" cy="${b[1]}" r="4" fill="#fffaf0" stroke="#1c2240" stroke-dasharray="none"/>`;
+let h='';
+h+=tie(pt('k1',[1,0.35]),A(470,630));   // the red core
+h+=tie(pt('k2',[1,0.3]),A(400,470));    // the fan of diverging lines
+h+=tie(pt('k3',[1,0.4]),A(300,415));    // a short gold wall the lines stop against
+h+=tie(pt('k4',[0,0.5]),A(752,532));    // the middle oval around the inner one
+h+=tie(pt('k5',[0,0.4]),A(795,445));    // bead on a kept turquoise channel
+h+=tie(pt('k6',[0,0.5]),A(472,713));    // the turquoise channel returning into the core from below
+h+=tie(pt('loop',[0.1,1]),A(515,150));  // the gap in the open outer arc
+document.getElementById('leads').innerHTML=h;
+// numbered path in the gutters only, from plate edge to plate edge (1 up to 3 on the left, 4 down to 6 on the right)
+const R=id=>document.getElementById(id).getBoundingClientRect();
+let ph='';for(const [a,b] of [['k1','k2'],['k2','k3'],['k4','k5'],['k5','k6']]){const A1=R(a),B1=R(b),x=A1.left+26,up=B1.top<A1.top,y1=up?A1.top-4:A1.bottom+4,y2=up?B1.bottom+6:B1.top-6;ph+=`<path d="M${x.toFixed(0)} ${y1.toFixed(0)}L${x.toFixed(0)} ${y2.toFixed(0)}" marker-end="url(#chev)"/>`}document.getElementById('path').innerHTML=ph;
+</script></body></html>
