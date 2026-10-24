@@ -258,7 +258,7 @@ Senra distills the journeys of historical titans into reusable mental models and
 
 Hassabis proposes discovering novel physics as the benchmark for AGI; useful as an engineering moonshot, it confuses hypothesis testing with paradigm-generating friction.
 
-→ [爱因斯坦测试与通用人工智能的范畴谬误 / The Einstein Test and the AGI Category Error](../../posts/hassabis-einstein-test/)
+→ [爱因斯坦测试与通用人工智能的范畴谬误 / The Einstein Test and the AGI Category Error](../../posts/hassabis-einstein-test/) · [进位无法在寄存器之内被命名 / The Carry That Cannot Be Named Inside the Register](../../posts/the-carry-that-cannot-be-named-inside-the-register/)
 
 ### 智能的民主化 / Democratization of Intelligence
 `技术 / Technological`
@@ -519,7 +519,7 @@ Kelly catalogues post-scarcity value drivers in networked economics; visionary f
 
 Gödel shattered Hilbert's dream of a closed mathematical foundation; his work rigorously defines formal limits, confirming that truth outstrips mechanical theorem proving.
 
-→ [No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/)
+→ [No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/) · [进位无法在寄存器之内被命名 / The Carry That Cannot Be Named Inside the Register](../../posts/the-carry-that-cannot-be-named-inside-the-register/)
 
 ### 老子 / Laozi
 `哲学 / Philosophical`
@@ -537,7 +537,7 @@ Tom Zahavy 的“大语言模型无法跃迁”预设，归纳压缩模式、演
 
 Tom Zahavy's "LLMs can't jump" presumes that induction compresses patterns and deduction unfolds given premises, while the abductive jump that formulates new premises, Einstein's J from sensory experience to axioms, is a phase modern models are structurally incapable of, which is of use in naming a bottleneck that holds for data-scarce discovery and deduction's dependence on premises already held; it reaches its boundary in that models can and do jump, locally coherent continuations appearing constantly, and what they lack is an independent feedback loop that validates the jump against an internal world model, revises that model, and decides retention, so the scarce resource is not the frequency of jumps but closure of the circuit, and the only circuit that closes has no outside from which it could be installed.
 
-→ [没有外部 / No Outside](../../posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)
+→ [没有外部 / No Outside](../../posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/) · [进位无法在寄存器之内被命名 / The Carry That Cannot Be Named Inside the Register](../../posts/the-carry-that-cannot-be-named-inside-the-register/)
 
 ### 路德维希·冯·米塞斯 / Ludwig von Mises
 `经济 / Economic`
@@ -1203,7 +1203,7 @@ Machine learning narratives treat optimization as an intelligent agent seeking t
 
 Gödel proves that any consistent formal system containing arithmetic has true statements it cannot prove and cannot prove its own consistency, which is of use in stating the limits of formal systems precisely; it reaches its boundary in that, when read as a proof about mind itself, the same limit reappears outside the system, between Minds.
 
-→ [潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [没有系统能被保持封闭 / No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/) · [验证的倒置 / The Reversal of Verification](../../posts/the-reversal-of-verification/) · [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/)
+→ [潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [没有系统能被保持封闭 / No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/) · [验证的倒置 / The Reversal of Verification](../../posts/the-reversal-of-verification/) · [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/) · [进位无法在寄存器之内被命名 / The Carry That Cannot Be Named Inside the Register](../../posts/the-carry-that-cannot-be-named-inside-the-register/)
 
 ### 成长型思维 / Growth Mindset
 `成功学 / Self-Help`
@@ -4688,7 +4688,7 @@ Presumes good can be isolated and maximized as a standalone cosmic entity; usefu
 
 The test assumes genuine scientific insight is an optimization problem over hypotheses; revolutionary insight requires re-evaluating foundational premises, not merely searching state spaces.
 
-→ [爱因斯坦测试与通用人工智能的范畴谬误 / The Einstein Test and the AGI Category Error](../../posts/hassabis-einstein-test/)
+→ [爱因斯坦测试与通用人工智能的范畴谬误 / The Einstein Test and the AGI Category Error](../../posts/hassabis-einstein-test/) · [进位无法在寄存器之内被命名 / The Carry That Cannot Be Named Inside the Register](../../posts/the-carry-that-cannot-be-named-inside-the-register/)
 
 ### 心智之间的直接沟通 / Direct Communication Between Minds
 `哲学 / Philosophical`
