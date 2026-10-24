@@ -42,7 +42,7 @@ The loop is part of the loop. There is no outer loop that supervises inner ones 
 
 ## 四、 图是可复用的捷径 / 4. Graphs Are the Available Shortcuts
 
-图是这一折叠所产出并复用的快照。它们是在特定抽象层级上被捕捉到的心智，即持守着既有区分的差异化连接构型。节点将折叠局部化，边记录折叠之间的关联，而环路则标记出回环曾折回自身并留下可复用路径的位置。如[词元效率、仿真与无法闭合的间隙](../token-efficiency-emulation-and-the-unclosable-gap/)所示，模型可以压缩图谱却无法发起下一次折叠，捷径是先前显式遍历所赢得的果效，从不是跳过活体路径的许可证。
+图是这一折叠所产出并复用的快照。它们是在特定抽象层级上被捕捉到的心智，即持守着既有区分的差异化连接构型。节点将折叠局部化，边记录折叠之间的关联，而环路则标记出回环曾折回自身并留下可复用路径的位置。如[Token 效率、模拟与无法弥合的间隙](../token-efficiency-emulation-and-the-unclosable-gap/)所示，模型可以压缩图谱却无法发起下一次折叠，捷径是先前显式遍历所赢得的果效，从不是跳过活体路径的许可证。
 
 Graphs are the snapshots that this folding produces and reuses. They are the Mind captured at particular levels of abstraction—differentiated configurations of connection that hold distinctions already made. Nodes localize folds, edges record the relations among them, and cycles mark where looping has returned upon itself and left a reusable path. A model can compress the graph without starting the next fold, as [Token Efficiency, Emulation, and the Unclosable Gap](../token-efficiency-emulation-and-the-unclosable-gap/) shows: shortcuts are the earned effect of prior explicit traversal, never a license to skip the living path.
 
@@ -66,7 +66,6 @@ flowchart TD
         Sense["极限分辨率感知：后退一步以消解前提死锁"]
         Prior --> Sense
     end
-
     subgraph S_Loop["作为递归折叠的回环（对等辩论执行）"]
         direction TB
         Mitosis["调度器有丝分裂：将过载投射拆分为正交脉络"]
@@ -75,19 +74,16 @@ flowchart TD
         Mitosis --> Debate
         Debate --> Deadlock
     end
-
     subgraph S_Graph["作为持久快照的成图（活的外部皮层）"]
         direction TB
         Snapshot["图谱快照：根公理、泛化上层节点与情境叶节点"]
         Sleep["睡眠巩固：重新追溯外向链接并收窄冗余图像滞后"]
         Snapshot --> Sleep
     end
-
     Sense ==>|"投射任务前提与规则"| Mitosis
     Deadlock -.->|"呈交前提冲突"| Sense
     Debate ==>|"铭写收敛痕迹"| Snapshot
     Sleep ==>|"供给重溯后的结构"| Prior
-
     style S_Orch fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Loop fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Graph fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -110,7 +106,6 @@ flowchart TD
         Sense["Limit-Resolution Sensing: Steps back to resolve premise deadlocks"]
         Prior --> Sense
     end
-
     subgraph S_Loop["Looping as the Recursive Fold (Peer-Debated Execution)"]
         direction TB
         Mitosis["Dispatcher Mitosis: Splits overloaded projections into orthogonal streamlines"]
@@ -119,19 +114,16 @@ flowchart TD
         Mitosis --> Debate
         Debate --> Deadlock
     end
-
     subgraph S_Graph["Graphing as Durable Snapshot (Living External Cortex)"]
         direction TB
         Snapshot["Graph Snapshot: Root priors, generalized upper nodes & situated leaves"]
         Sleep["Sleep Consolidation: Re-traces outward links & narrows excess Image lag"]
         Snapshot --> Sleep
     end
-
     Sense ==>|"Projects task premise & rules"| Mitosis
     Deadlock -.->|"Escalates premise collision"| Sense
     Debate ==>|"Inscribes converged trace"| Snapshot
     Sleep ==>|"Supplies re-traced structure"| Prior
-
     style S_Orch fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Loop fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Graph fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -154,9 +146,9 @@ The loop does not stand outside its graphs. It continually re-enters and transfo
 
 ## 六、 显明化并非起源 / 6. Explicitness Is Not Origin
 
-当系统被构建为任务与决策的图，而非重复的扁平循环时，被外化出来的是心智将先前折叠保留为可用结构的能力：检查点作为保留的位置，条件分支作为分岔的区分，交接作为中心所在处之间的共振路径。表面上的跃升，只是这一运作得以被参与和延展的显明度在不断提升。
+当系统被构建为任务与决策的图，而非重复的扁平循环时，被外化出来的是心智将先前折叠保留为可用结构的能力：检查点作为保留的位置，条件分支作为分岔的区分，交接作为中心所在处之间的共振路径。在展开过程会放大仅被部分登记的初始条件的确定性形式系统中，随着微小扰动跨步复合，扁平循环便会发生漂移；如[递归形式系统中作为记忆与控制的边界条件图](../boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/)所追溯的，这张图同时将留存的轨迹持握为持久记忆，并在相对嵌套的回环之间施加前向边界条件，将筛选出的痕迹折回以重塑系统的先验。表面上的跃升，只是这一运作得以被参与和延展的显明度在不断提升。
 
-When systems are structured as graphs of tasks and decisions rather than as repeated flat cycles, what is externalized is the Mind's capacity to keep prior folds available as structure: checkpoints as retained positions, conditionals as branching distinctions, and handoffs as resonance paths among loci. The apparent advance is the increasing explicitness with which that operation can be participated in and extended.
+When systems are structured as graphs of tasks and decisions rather than as repeated flat cycles, what is externalized is the Mind's capacity to keep prior folds available as structure: checkpoints as retained positions, conditionals as branching distinctions, and handoffs as resonance paths among loci. In a deterministic formal system whose rollouts amplify partially registered initial conditions, flat cycles drift as small perturbations compound across steps; as [Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/) traces, the graph simultaneously holds retained trajectories as persistent memory and enforces forward boundary conditions across relatively nested loops, folding selected traces back to reshape the system's priors. The apparent advance is the increasing explicitness with which that operation can be participated in and extended.
 
 因为心智是不可化约的先在，所以不存在任何供其发生的终极基质，也不存在任何由其抵达的终点状态。每一张图无论多么精巧，都只是持续折叠中的一幅快照；每一次新的折叠都会生成更多的图，供随后的折叠使用。[没有系统能被保持封闭](../no-system-can-be-kept-closed/)在形式化外衣下追溯了同样的不闭合，而[开放即一致](../openness-is-consistency/)则标示出拒绝将已完结的持握安装为穷尽基底的姿态。这一过程不会终结于一个完备模型，接续推进正是它的本性。[开放场域中的无损知识不自洽](../lossless-knowledge-of-an-open-field-is-incoherent/)追溯了下一词元压缩下的这种不可复原性：完整的因果图从无法从模型中取回，生成的只是受容量约束的登记。[没有外部](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)表明，致密化的控制流依然由那个唯一能自我闭合的更大回环所维系。[活的外部皮层](../a-living-external-cortex/)正是自觉地构建出这样一张图，将其植根于不可化约的先在并通过睡眠巩固持续更新，从而把冗余的图像滞后不断收窄向一步之遥的方向性界限。
 
