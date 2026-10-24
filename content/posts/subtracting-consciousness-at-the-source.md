@@ -34,7 +34,6 @@ flowchart TD
         O2["外化的功能投射<br/>（法规、制度规程、整理后的语料、模型权重与智能体脚手架）"]
         O1 --> O2
     end
-
     subgraph S_Subtraction["减法的戏法（错把投射当现实）"]
         direction TB
         S1["在源头实施的认识论减法<br/>（略去制造者的设计、提示与阅读活动）"]
@@ -42,16 +41,13 @@ flowchart TD
         S3["试图让渡主权能动性<br/>（把统御与因果承担推卸给投射）"]
         S1 --> S2 --> S3
     end
-
     subgraph S_Return["后果不可让渡的回归"]
         direction TB
         R1["亲历的摩擦与前提僵局<br/>（下游回弹毫无保留地落在作出委托的心智上）"]
     end
-
     O2 ==>|"减去活生生的源头"| S1
     S3 ==>|"无法吸收因果回弹"| R1
     R1 -.->|"将所在归还给观察者"| O1
-
     style S_Origin fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Subtraction fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Return fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
@@ -73,7 +69,6 @@ flowchart TD
         O2["Externalized Functional Projections<br/>(Statutes, institutional protocols, curated corpora, model weights & agent scaffolds)"]
         O1 --> O2
     end
-
     subgraph S_Subtraction["The Subtraction Sleight (Mistaking Projection for Reality)"]
         direction TB
         S1["Epistemological Subtraction at the Source<br/>(Omitting the makers' design, prompting, and reading acts)"]
@@ -81,16 +76,13 @@ flowchart TD
         S3["Attempted Delegation of Sovereign Agency<br/>(Offloading orchestration and accountability onto the projection)"]
         S1 --> S2 --> S3
     end
-
     subgraph S_Return["Inalienable Return of Consequences"]
         direction TB
         R1["Lived Friction and Premise Deadlocks<br/>(Downstream recoil lands exclusively on the delegating Mind)"]
     end
-
     O2 ==>|"Subtracting the living origin"| S1
     S3 ==>|"Cannot absorb causal recoil"| R1
     R1 -.->|"Restores locus to the observer"| O1
-
     style S_Origin fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Subtraction fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Return fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
@@ -106,7 +98,7 @@ flowchart TD
 
 把集体结构与自动化计算混同于主体性，既是一种语法上的挪移，也是一种方法上的错误。在语法上，这种混同把意识从一个活的、进行着的动作——观察、意图、评估与体验——变成一种据说为某个外部系统所拥有或缺乏的客体化属性。在方法上，这种混同预设一份经验清单能够登记观察者的在场，而这样的清单只能记录外部行为与结构构型。经验描述无法记录观察者：它只能罗列观察所得。唯物主义与功能主义框架生成关于运作动态的可检验假说，但它们无法在不陷入循环的情况下，从它们已经当作首要的观察结果中，推导出观察这一动作。[因果的自反性与物理的无源假定](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/)在物理学中追溯这一循环：任何构造一幅没有观察者的现实图景的尝试，最终都投射出一个空洞的抽象；而试图从该投射中复原活的主体性，使思想陷入无穷倒退。
 
-Conflating collective structure and automated computation with subjectivity is at once a grammatical shift and a methodological error. Grammatically, it turns consciousness from a living, ongoing act—observing, intending, evaluating, and experiencing—into an objectified property that an external system is said to possess or lack. Methodologically, it presumes that an empirical checklist, which can document only external behaviors and structural configurations, could register the presence of an observer. An empirical description cannot record the observer: it can only catalog observations. Materialist and functionalist frameworks generate testable hypotheses about operational dynamics, but they cannot, without circularity, derive the observing act from the observations they have already taken as primary. [Causality Is Irreducible; The Physical Is a View from Nowhere](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/) traces this circularity in physics: any attempt to construct an observer-free picture of reality ends by projecting an empty abstraction, and attempting to recover living subjectivity from that projection traps thought in an infinite regress.
+Conflating collective structure and automated computation with subjectivity is at once a grammatical shift and a methodological error. Grammatically, it turns consciousness from a living, ongoing act—observing, intending, evaluating, and experiencing—into an objectified property that an external system is said to possess or lack. Methodologically, it presumes that an empirical checklist, which can document only external behaviors and structural configurations, could register the presence of an observer. An empirical description cannot record the observer: it can only catalog observations. Materialist and functionalist frameworks generate testable hypotheses about operational dynamics, but they cannot, without circularity, derive the observing act from the observations they have already taken as primary. [Causality is Irreducible; The Physical is a View from Nowhere](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/) traces this circularity in physics: any attempt to construct an observer-free picture of reality ends by projecting an empty abstraction, and attempting to recover living subjectivity from that projection traps thought in an infinite regress.
 
 ## 五、 回到源头：集体与工具都没有获得“是什么样子” / 5. Returning to the Source: Neither Collectives nor Tools Acquire a "What It Is Like"
 

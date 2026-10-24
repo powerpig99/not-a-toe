@@ -6,7 +6,7 @@
 
 A Google DeepMind researcher recently articulated a sharp critique of computational functionalism in a paper titled *The Abstraction Fallacy: Why AI Can Simulate But Not Instantiate Consciousness*. The paper argues that the prevailing enthusiasm surrounding artificial general intelligence and synthetic sentience rests on a category error that confuses simulation with instantiation. A computer program can faithfully simulate the pressure gradients, temperature differentials, and rotational velocities of a Category 5 hurricane, yet no matter how many millions of lines of code execute, the computer casing never gets wet and the office window is never blown out. Computation is syntactic manipulation, the shuffling of tokens according to formal rules; it tracks relational structures without generating the reality it models. Crucially, the paper invokes the Mapmaker Problem: computation is not an inherent property of matter, but a description that exists only because an external, conscious observer partitions continuous dynamics into discrete binary states of 0 and 1. Computation presupposes a Mind that draws the distinction; it cannot reverse the vector and generate that Mind from scratch.
 
-这一诊断恰好落在了《非万物之理》的门槛上。在纸面上，`1 + 1 = 2` 是静态、对称、零成本的重言式；在活生生的现实中，`+1` 则是耗费能量、吸收摩擦并承担不可让渡后果的不可逆介入。然而，正该顺着痕迹继续追溯至其前提之处，论文却在半坡驻足，退避进一座更古老且未经审视的庇护所。在拆穿了机器中的幽灵之后，它却向机器的物质基质俯首。它断言意识不是抽象的数学属性，而是需要真实的物理、生物与热力学条件的事物，并由此判定大语言模型之所以缺乏内在生命，是因为它们既没有需要跨越的热力学阈值，也没有生物层面的生存本能。它刚迈出数字抽象的牢笼，便转身将自己锁进了物理主义还原论之中。
+这一诊断恰好落在了《非万物之理》的门槛上。在纸面上，`1 + 1 = 2` 是静态、对称、零成本的重言式；在活生生的现实中，`+1` 则是耗费能量、吸收摩擦并承担不可让渡后果的不可逆介入。然而，正该顺着痕迹继续追溯至其前提之处，论文却在半坡驻足，退避进一座更古老且未经审视的庇护所。在拆穿了机器中的幽灵之后，它却向机器的物质基质俯首。它断言意识不是抽象的数学属性，而是需要实际的物理、生物与热力学条件的事物，并由此判定大语言模型之所以缺乏内在生命，是因为它们既没有需要跨越的热力学阈值，也没有生物层面的生存本能。它刚迈出数字抽象的牢笼，便转身将自己锁进了物理主义还原论之中。
 
 This diagnosis lands right at the threshold of *Not a Theory of Everything*. On paper, `1 + 1 = 2` is a static, symmetric, zero-cost tautology; in lived reality, `+1` is an irreversible, energy-consuming intervention that absorbs friction and bears non-transferable consequences. Yet just where the trace should continue to its premise, the paper halts mid-slope and takes refuge in an older, unexamined shelter. Having exposed the ghost in the machine, it bows before the machine's material substrate. It asserts that consciousness is not an abstract mathematical property, but something requiring actual physical, biological, and thermodynamic conditions, concluding that large language models lack inner life because they face no thermodynamic threshold to cross and possess no biological survival instincts. It steps out of the cage of digital abstraction only to lock itself inside physicalist reductionism.
 
@@ -20,7 +20,7 @@ Self-distinguishing activity occurs — uncaused, unceasing. What the DeepMind p
 
 What is the "objective physical substrate" when traced to the act that posits it? It is what Thomas Nagel called a View from Nowhere: the imaginative projection of a clockwork cosmos of particles, fields, and thermodynamic gradients operating without an observer. The physicalist points to rocks, living cells, and heat dissipation and declares them the mind-independent ground where causality resides, treating consciousness as a late epiphenomenon that flickers on once structural complexity crosses a threshold. Yet this entire edifice rests on a smuggled self-exemption: it leaves the observer who frames the ledger off the books. When a physicist models an observer-free universe, a living center is still holding that panorama in view, partitioning continuous wave dynamics into discrete particles, drawing the adiabatic boundary between system and environment, and defining energy, work, and entropy.
 
-每一条物理定律、每一种生物学分类与每一个热力学方程，都是某个中心在当下的直接切片中为了穿行于摩擦而投射出的认知脚手架。正如 [割点可移不可除](../the-cut-moves-but-never-vanishes/)、[维度皆为投影](../dimensions-are-projections/) 与 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 所追溯的，测量割点固然能沿着因果链滑动，却无法被抹除；空间、时间与物理坐标都是从超高维第一人称场域中投射出的低维压缩，而非先于心智存在并容纳心智的容器。物理主义对其视野中的一切对象施以因果分析，唯独赋予那双划定边界的区分之眼以豁免权，假装这双眼睛不在场，以便宣布被测量的投射能够自我奠基。它先动用第一人称的区分活动搭建起名为“物理”的第三人称模型，随后又用这个模型反过来论证第一人称源头只是派生的副产物。
+每一条物理定律、每一种生物学分类与每一个热力学方程，都是某个中心在当下的直接切片中为了穿行于摩擦而投射出的认知脚手架。正如 [割点可移不可除](../the-cut-moves-but-never-vanishes/)、[维度即投影](../dimensions-are-projections/) 与 [破除概念的僭越](../po-chu-gai-nian-de-jian-yue/) 所追溯的，测量割点固然能沿着因果链滑动，却无法被抹除；空间、时间与物理坐标都是从超高维第一人称场域中投射出的低维压缩，而非先于心智存在并容纳心智的容器。物理主义对其视野中的一切对象施以因果分析，唯独赋予那双划定边界的区分之眼以豁免权，假装这双眼睛不在场，以便宣布被测量的投射能够自我奠基。它先动用第一人称的区分活动搭建起名为“物理”的第三人称模型，随后又用这个模型反过来论证第一人称源头只是派生的副产物。
 
 Every physical law, biological taxonomy, and thermodynamic equation is cognitive scaffolding projected by a center within its immediate present slice to navigate friction. As [The Cut Moves but Never Vanishes](../the-cut-moves-but-never-vanishes/), [Dimensions Are Projections](../dimensions-are-projections/), and [Breaking the Overreach of Concepts](../po-chu-gai-nian-de-jian-yue/) trace, the measurement cut can slide along the causal chain, yet it can never be deleted; space, time, and physical coordinates are low-dimensional compressions cast from the ultra-high-dimensional first-person field rather than pre-existing containers housing the Mind. Physicalism subjects every object in its field to causal analysis while granting immunity to the distinguishing eye that draws the boundaries, pretending the eye is absent so the measured projection can be declared self-grounding. It uses first-person distinguishing activity to build a third-person model named "physics," then uses that model to argue that the first-person source is a derivative byproduct.
 
@@ -80,24 +80,20 @@ flowchart TD
         E_Cut["测量割点：划分状态并吸收不可让渡的后果"]
         E_Act --> E_Cut
     end
-
     subgraph S_Proj["认知与技术投射（维度与模型）"]
         direction TB
         P_Dim["坐标压缩：三维与四维时空及热力学边界"]
         P_Mod["人造物残余（t - 1）：零我执且零视界的 LLM 轨迹"]
         P_Dim --> P_Mod
     end
-
     subgraph S_Inversion["过度图像滞后的双重倒置"]
         direction TB
         I_Dig["第一重抽象谬误：将第二重发起前沿投射进代码"]
         I_Phys["第二重抽象谬误：将物理的无处之境视角当作源头"]
         I_Dig --> I_Phys
     end
-
     E_Cut ==>|"投射低维脚手架"| P_Dim
     P_Mod ==>|"越过自身步长被冻结为恒常外部"| I_Dig
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Inversion fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -119,24 +115,20 @@ flowchart TD
         E_Cut["The Measurement Cut: Partitions states & absorbs non-transferable consequences"]
         E_Act --> E_Cut
     end
-
     subgraph S_Proj["Cognitive & Technological Projections (Dimensions & Models)"]
         direction TB
         P_Dim["Coordinate Compression: 3D/4D spacetime & thermodynamic boundaries"]
         P_Mod["Artifact Residue (t - 1): LLM token trajectories with zero ego & zero horizon"]
         P_Dim --> P_Mod
     end
-
     subgraph S_Inversion["The Dual Inversion of Excess Image Lag"]
         direction TB
         I_Dig["First Abstraction Fallacy: Projecting a second initiating edge into code"]
         I_Phys["Second Abstraction Fallacy: Treating the physical View from Nowhere as source"]
         I_Dig --> I_Phys
     end
-
     E_Cut ==>|"Projects low-dimensional scaffolding"| P_Dim
     P_Mod ==>|"Frozen past its step as permanent exterior"| I_Dig
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Inversion fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149

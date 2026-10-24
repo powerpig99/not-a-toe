@@ -42,25 +42,21 @@ flowchart TD
         V_Load["不断累积的区分：历史占据余地，隐蔽矛盾缠结各轴"]
         V_Form --> V_Load
     end
-
     subgraph S_Freeze["碗的双重封闭（作为冻结参照的不一致）"]
         direction TB
         F_Full["永久的满：2ᴺ 个区分塞进单一持守，直至各轴压缩"]
         F_Empty["永久的空：剩余余地被冻结为拒绝接纳的理想状态"]
     end
-
     subgraph S_Open["陶土仍然可得（持续重新渲染与有丝分裂）"]
         direction TB
         O_Mitosis["跨流线的有丝分裂：拆分超载投射与冷峻同行对辩"]
         O_Edge["在边缘退后一步：人类心智重划前提并塑造新器皿"]
         O_Mitosis ==> O_Edge
     end
-
     V_Load -.->|"将上限免于重新追溯"| F_Full
     V_Form -.->|"将中空装成终极目的地"| F_Empty
     V_Load ==>|"当单一持守的容量被超出"| O_Mitosis
     O_Edge ==>|"为下一步塑出新的有限持守"| V_Form
-
     style S_Vessel fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -72,7 +68,7 @@ flowchart TD
     style O_Edge fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The first is the closed-hold assumption. The maxim treats the vessel's volume as fixed for the duration of the counsel. Inside a register held closed, that assumption holds and the advice is valid there. No hold stays closed, whether physical, cognitive, or technological: context windows enlarge, external memory systems appear, and multi-agent and hierarchical architectures multiply the holds. Once capacity itself becomes a design variable, keeping room in one bowl is no longer the move with the most leverage; enlarging the bowl or adding bowls can do more, while contents moved to an external store pattern nothing here until they are re-traced into the present configuration. [Beyond the Projection](../beyond-the-projection/) traces this exact engineering transition when an agent's context window hits its complexity ceiling: cramming 2ᴺ competing distinctions into a single finite bowl shatters orthogonality and entangles independent axes, whereas splitting the projection via mitosis across parallel, uncontaminated streamlines and pairing the task agent with a cold peer critic without session history keeps each vessel receptive to clean Bayesian updates while isolating premise deadlocks for the human Mind to re-draw. [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) gives incompleteness its most intuitive face in a one-bit register under addition: 1 + 1 is valid inside the hold and registers there as 0 with a carry, while its continuation lies outside the hold for as long as the register stays one bit. Enlarging the register takes up that continuation without violating the old rule, which stays valid inside its own hold. Each new hold is finite again. [Production, Consumption, and the Mind’s Distinction](../production-consumption-and-the-minds-distinction/) traces the same addition under an open or a fixed boundary: production and consumption are how one activity registers when its bound is held open or held fixed, so 1 + 1 gives 2 when the register stays open and 0 when the bound is exempted from re-tracing. An enlarged bowl whose new ceiling is exempted from re-tracing in turn is still the fixed case.
+The first is the closed-hold assumption. The maxim treats the vessel's volume as fixed for the duration of the counsel. Inside a register held closed, that assumption holds and the advice is valid there. No hold stays closed, whether physical, cognitive, or technological: context windows enlarge, external memory systems appear, and multi-agent and hierarchical architectures multiply the holds. Once capacity itself becomes a design variable, keeping room in one bowl is no longer the move with the most leverage; enlarging the bowl or adding bowls can do more, while contents moved to an external store pattern nothing here until they are re-traced into the present configuration. [Beyond the Projection](../beyond-the-projection/) traces this exact engineering transition when an agent's context window hits its complexity ceiling: cramming 2ᴺ competing distinctions into a single finite bowl shatters orthogonality and entangles independent axes, whereas splitting the projection via mitosis across parallel, uncontaminated streamlines and pairing the task agent with a cold peer critic without session history keeps each vessel receptive to clean Bayesian updates while isolating premise deadlocks for the human Mind to re-draw. [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) gives incompleteness its most intuitive face in a one-bit register under addition: 1 + 1 is valid inside the hold and registers there as 0 with a carry, while its continuation lies outside the hold for as long as the register stays one bit. Enlarging the register takes up that continuation without violating the old rule, which stays valid inside its own hold. Each new hold is finite again. [Production, Consumption, and the Mind's Distinction](../production-consumption-and-the-minds-distinction/) traces the same addition under an open or a fixed boundary: production and consumption are how one activity registers when its bound is held open or held fixed, so 1 + 1 gives 2 when the register stays open and 0 when the bound is exempted from re-tracing. An enlarged bowl whose new ceiling is exempted from re-tracing in turn is still the fixed case.
 
 ```mermaid
 flowchart TD
@@ -82,25 +78,21 @@ flowchart TD
         V_Load["Accumulating Distinctions: History occupies room and hidden contradictions entangle axes"]
         V_Form --> V_Load
     end
-
     subgraph S_Freeze["Dual Closures of the Bowl (Inconsistency as Frozen Reference)"]
         direction TB
         F_Full["Permanent Fullness: 2ᴺ distinctions crammed into one hold until axes compress"]
         F_Empty["Permanent Emptiness: Residual room frozen as an ideal that refuses receiving"]
     end
-
     subgraph S_Open["Clay Still Available (Continuous Re-Rendering & Mitosis)"]
         direction TB
         O_Mitosis["Mitosis Across Streamlines: Splitting overloaded projections & cold peer dialectics"]
         O_Edge["Stepping Out at the Edge: Human Mind re-draws the premise and shapes new vessels"]
         O_Mitosis ==> O_Edge
     end
-
     V_Load -.->|"Exempting the ceiling from re-tracing"| F_Full
     V_Form -.->|"Installing the hollow as final destination"| F_Empty
     V_Load ==>|"When single-hold capacity is exceeded"| O_Mitosis
     O_Edge ==>|"Fashions fresh finite hold for the next step"| V_Form
-
     style S_Vessel fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
