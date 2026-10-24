@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-24T10:47:30.139Z",
+    "generated_at": "2026-10-24T17:49:51.650Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -379,6 +379,7 @@
       "content/posts/therapy-opens-the-feedback-loop.md": "fef94840ad77",
       "content/posts/time-is-causality-not-a-dimension.md": "bcd28712180f",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "d6e816ab5ba2",
+      "content/posts/tokens-and-the-observational-boundary.md": "b7b29e167ecf",
       "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "3f4bec91103c",
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "de89125d75c0",
       "content/posts/trusting-the-reader-is-the-last-overstep.md": "4fa6d46f4306",
@@ -415,8 +416,8 @@
       "content/book/causality.md": "51d6cd58236e",
       "content/book/consciousness.md": "07e90c9d3d1f",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "c204e362494d",
-      "content/book/intelligence.md": "ac860f2bf532",
+      "content/book/index-of-premises.md": "5762f402b634",
+      "content/book/intelligence.md": "4b06f4fa9259",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "0caf97231862",
       "content/book/mathematics.md": "733a53c23e5a",
@@ -430,26 +431,26 @@
       "content/book/tools-and-progress.md": "edd5c30db4c4"
     },
     "stats": {
-      "posts": 404,
-      "edges": 11218,
-      "unique_directed": 5504,
+      "posts": 405,
+      "edges": 11240,
+      "unique_directed": 5515,
       "missing_targets": 0,
-      "one_way": 866,
+      "one_way": 877,
       "isolated": 0,
-      "posts_with_outbound": 404,
+      "posts_with_outbound": 405,
       "book_pages": 16,
-      "book_edges": 1138,
-      "posts_reached_by_book": 404
+      "book_edges": 1145,
+      "posts_reached_by_book": 405
     }
   },
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 399
+      "in_degree": 400
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 196
+      "in_degree": 197
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -465,7 +466,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 69
+      "in_degree": 70
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
@@ -1002,7 +1003,7 @@
       "path": "content/posts/an-observation-by-its-own-standard.md",
       "title": "依其自身标准的观察 / An Observation by Its Own Standard",
       "hash": "1d44b8371330",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 10,
       "links_out": [
         "the-reversal-from-defensible-claim-to-dogma",
@@ -1082,7 +1083,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "ed96da63a1af",
-      "in_degree": 196,
+      "in_degree": 197,
       "out_degree": 18,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1760,7 +1761,7 @@
       "path": "content/posts/consciousness-ascription-and-the-quantum-cut.md",
       "title": "意识归属与量子割点 / Consciousness Ascription and the Quantum Cut",
       "hash": "4ae0cc833005",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 7,
       "links_out": [
         "an-observation-by-its-own-standard",
@@ -3077,7 +3078,7 @@
       "path": "content/posts/humans-tokens-and-the-scope-of-valuation.md",
       "title": "人、Token 与估值的范围 / Humans, Tokens, and the Scope of Valuation",
       "hash": "2740c5400321",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 3,
       "links_out": [
         "your-codebase-is-memory",
@@ -3509,7 +3510,7 @@
       "path": "content/posts/manifesto-of-not-a-theory-of-everything.md",
       "title": "非万物之理 / Not a Theory of Everything",
       "hash": "5b88319c7739",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 9,
       "links_out": [
         "the-arithmetic-of-the-register",
@@ -6034,7 +6035,7 @@
       "path": "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md",
       "title": "感知的界限与理解的无限 / The Boundary of Perception and the Infinity of Understanding",
       "hash": "2f3a0106f008",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 10,
       "links_out": [
         "choice-itself-has-no-inherent-weight",
@@ -6493,7 +6494,7 @@
       "path": "content/posts/the-cut-moves-but-never-vanishes.md",
       "title": "割点可移不可除 / The Cut Moves but Never Vanishes",
       "hash": "e61a8aa0715d",
-      "in_degree": 22,
+      "in_degree": 23,
       "out_degree": 6,
       "links_out": [
         "demanding-a-toe-freezes-time-into-a-catalog",
@@ -7881,7 +7882,7 @@
       "path": "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md",
       "title": "抽象的阶梯与可执行的实体 / The Ladder of Abstraction and the Executable Entity",
       "hash": "e2c53537d905",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 9,
       "links_out": [
         "climbing-does-not-leave-the-ground",
@@ -9258,7 +9259,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "遗忘的脚手架 / The Scaffolding We Forget",
       "hash": "50e59db6f5fb",
-      "in_degree": 69,
+      "in_degree": 70,
       "out_degree": 70,
       "links_out": [
         "the-extendable-horizon",
@@ -10082,7 +10083,7 @@
       "path": "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md",
       "title": "Token 效率、模拟与无法弥合的间隙 / Token Efficiency, Emulation, and the Unclosable Gap",
       "hash": "d6e816ab5ba2",
-      "in_degree": 20,
+      "in_degree": 21,
       "out_degree": 22,
       "links_out": [
         "efficiency-without-differentiation",
@@ -10107,6 +10108,29 @@
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
         "the-hard-problem-of-consciousness-is-consistent-with-learning",
         "a-living-external-cortex"
+      ]
+    },
+    {
+      "id": "post:tokens-and-the-observational-boundary",
+      "kind": "post",
+      "slug": "tokens-and-the-observational-boundary",
+      "path": "content/posts/tokens-and-the-observational-boundary.md",
+      "title": "词元与观测边界 / Tokens and the Observational Boundary",
+      "hash": "b7b29e167ecf",
+      "in_degree": 0,
+      "out_degree": 11,
+      "links_out": [
+        "the-scaffolding-we-forget",
+        "humans-tokens-and-the-scope-of-valuation",
+        "the-ladder-of-abstraction-and-the-executable-entity",
+        "the-cut-moves-but-never-vanishes",
+        "the-boundary-of-perception-and-the-infinity-of-understanding",
+        "consciousness-ascription-and-the-quantum-cut",
+        "an-observation-by-its-own-standard",
+        "beyond-the-projection",
+        "token-efficiency-emulation-and-the-unclosable-gap",
+        "your-codebase-is-memory",
+        "manifesto-of-not-a-theory-of-everything"
       ]
     },
     {
@@ -10793,7 +10817,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "3c419bcfbe42",
-      "in_degree": 399,
+      "in_degree": 400,
       "out_degree": 10,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -72740,6 +72764,138 @@
       "label": "A Living External Cortex"
     },
     {
+      "from": "tokens-and-the-observational-boundary",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
+      "to": "humans-tokens-and-the-scope-of-valuation",
+      "rel": "points_to",
+      "label": "人、Token 与估值的范围"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
+      "to": "humans-tokens-and-the-scope-of-valuation",
+      "rel": "points_to",
+      "label": "Humans, Tokens, and the Scope of Valuation"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
+      "to": "the-ladder-of-abstraction-and-the-executable-entity",
+      "rel": "points_to",
+      "label": "抽象的阶梯与可执行的实体"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
+      "to": "the-ladder-of-abstraction-and-the-executable-entity",
+      "rel": "points_to",
+      "label": "The Ladder of Abstraction and the Executable Entity"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "割点可移不可除"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
+      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "rel": "points_to",
+      "label": "感知的界限与理解的无限"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "The Cut Moves but Never Vanishes"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
+      "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "rel": "points_to",
+      "label": "The Boundary of Perception and the Infinity of Understanding"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
+      "to": "consciousness-ascription-and-the-quantum-cut",
+      "rel": "points_to",
+      "label": "意识归属与量子割点"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
+      "to": "an-observation-by-its-own-standard",
+      "rel": "points_to",
+      "label": "依其自身标准的观察"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
+      "to": "consciousness-ascription-and-the-quantum-cut",
+      "rel": "points_to",
+      "label": "Consciousness Ascription and the Quantum Cut"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
+      "to": "an-observation-by-its-own-standard",
+      "rel": "points_to",
+      "label": "An Observation by Its Own Standard"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
+      "to": "token-efficiency-emulation-and-the-unclosable-gap",
+      "rel": "points_to",
+      "label": "Token 效率、模拟与无法弥合的间隙"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
+      "to": "token-efficiency-emulation-and-the-unclosable-gap",
+      "rel": "points_to",
+      "label": "Token Efficiency, Emulation, and the Unclosable Gap"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
+      "to": "manifesto-of-not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "非万物之理"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
+      "to": "manifesto-of-not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "Not a Theory of Everything"
+    },
+    {
       "from": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
       "to": "what-information-is",
       "rel": "points_to",
@@ -78307,8 +78463,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "c204e362494d",
-        "out_degree": 404
+        "hash": "5762f402b634",
+        "out_degree": 405
       },
       {
         "id": "book:intelligence",
@@ -78316,8 +78472,8 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "ac860f2bf532",
-        "out_degree": 48
+        "hash": "4b06f4fa9259",
+        "out_degree": 49
       },
       {
         "id": "book:knowledge-and-learning",
@@ -79259,6 +79415,12 @@
         "to": "the-price-of-closing-optionality",
         "rel": "collects",
         "label": "关闭选择权的代价 / The Price of Closing Optionality"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "tokens-and-the-observational-boundary",
+        "rel": "collects",
+        "label": "词元与观测边界 / Tokens and the Observational Boundary"
       },
       {
         "from": "book:index-of-premises",
@@ -83108,6 +83270,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "tokens-and-the-observational-boundary",
+        "rel": "collects",
+        "label": "词元与观测边界 / Tokens and the Observational Boundary"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "demanding-a-toe-freezes-time-into-a-catalog",
         "rel": "collects",
         "label": "索求万物理论是在将当下冻结为清单 / Demanding a Theory of Everything Freezes Time into a Catalog"
@@ -83282,6 +83450,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "tokens-and-the-observational-boundary",
+        "rel": "collects",
+        "label": "词元与观测边界 / Tokens and the Observational Boundary"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-cut-moves-but-never-vanishes",
         "rel": "collects",
         "label": "割点可移不可除 / The Cut Moves but Never Vanishes"
@@ -83399,6 +83573,24 @@
         "to": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
         "rel": "collects",
         "label": "递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "tokens-and-the-observational-boundary",
+        "rel": "collects",
+        "label": "词元与观测边界 / Tokens and the Observational Boundary"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "humans-tokens-and-the-scope-of-valuation",
+        "rel": "collects",
+        "label": "人、Token 与估值的范围 / Humans, Tokens, and the Scope of Valuation"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-ladder-of-abstraction-and-the-executable-entity",
+        "rel": "collects",
+        "label": "抽象的阶梯与可执行的实体 / The Ladder of Abstraction and the Executable Entity"
       },
       {
         "from": "book:intelligence",
@@ -83687,6 +83879,12 @@
         "to": "the-comment-is-not-the-code",
         "rel": "collects",
         "label": "注释不是代码 / The Comment Is Not the Code"
+      },
+      {
+        "from": "book:intelligence",
+        "to": "tokens-and-the-observational-boundary",
+        "rel": "collects",
+        "label": "词元与观测边界 / Tokens and the Observational Boundary"
       },
       {
         "from": "book:knowledge-and-learning",

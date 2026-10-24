@@ -67,13 +67,37 @@ def interleave_blocks(slug: str, zh_blocks: list[str], en_blocks: list[str]) -> 
             )
 
         if zk == "h1":
-            out.append(f"{z} / {e[2:].strip()}")
+            z_body, e_body = z[2:].strip(), e[2:].strip()
+            if z_body == e_body and " / " in z_body:
+                out.append(f"# {z_body}")
+            else:
+                if " / " in z_body:
+                    z_body = z_body.split(" / ", 1)[0].strip()
+                if " / " in e_body:
+                    e_body = e_body.split(" / ", 1)[1].strip()
+                out.append(f"# {z_body} / {e_body}")
             i += 1
         elif zk == "subtitle":
-            out.append(f"*{z[1:-1].strip()} / {e[1:-1].strip()}*")
+            z_body, e_body = z[1:-1].strip(), e[1:-1].strip()
+            if z_body == e_body and " / " in z_body:
+                out.append(f"*{z_body}*")
+            else:
+                if " / " in z_body:
+                    z_body = z_body.split(" / ", 1)[0].strip()
+                if " / " in e_body:
+                    e_body = e_body.split(" / ", 1)[1].strip()
+                out.append(f"*{z_body} / {e_body}*")
             i += 1
         elif zk == "h2":
-            out.append(f"{z} / {e[3:].strip()}")
+            z_body, e_body = z[3:].strip(), e[3:].strip()
+            if z_body == e_body and " / " in z_body:
+                out.append(f"## {z_body}")
+            else:
+                if " / " in z_body:
+                    z_body = z_body.split(" / ", 1)[0].strip()
+                if " / " in e_body:
+                    e_body = e_body.split(" / ", 1)[1].strip()
+                out.append(f"## {z_body} / {e_body}")
             i += 1
         elif zk == "prose":
             # Look ahead for consecutive Mermaid diagram(s) attached to this paragraph

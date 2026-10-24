@@ -285,7 +285,7 @@ Sivers' method of adding only what need has proven is of use in guarding against
 
 Musk assumes the present model is partly wrong and treats an explosion as loss signal, which is of use in turning every outcome into the next engineering step and compounding iterations per unit of time; it reaches its boundary in that "physics is the law" joins the written model, the friction of operation and reality itself, so the prior of being wrong stops there and a model is taken as law.
 
-→ [失败即信息 / Failure as Information](../../posts/failure-as-information/) · [“物理学才是定律”的障眼法 / The Sleight of Hand in "Physics Is the Law"](../../posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) · [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/) · [关闭选择权的代价 / The Price of Closing Optionality](../../posts/the-price-of-closing-optionality/)
+→ [失败即信息 / Failure as Information](../../posts/failure-as-information/) · [“物理学才是定律”的障眼法 / The Sleight of Hand in "Physics Is the Law"](../../posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) · [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/) · [关闭选择权的代价 / The Price of Closing Optionality](../../posts/the-price-of-closing-optionality/) · [词元与观测边界 / Tokens and the Observational Boundary](../../posts/tokens-and-the-observational-boundary/)
 
 ### 认知谦逊 / Epistemic Humility
 `哲学 / Philosophical`
@@ -4958,7 +4958,7 @@ The self-image is taken for oneself, and so it is guarded, or one tries to extin
 
 Presumes indeterminism is either an ontological flaw in nature or an ignorance of hidden variables; useful for debate, it misses that measurement acts etch limits into frames.
 
-→ [感知的界限与理解的无限 / The Boundary of Perception and the Infinity of Understanding](../../posts/the-boundary-of-perception-and-the-infinity-of-understanding/)
+→ [感知的界限与理解的无限 / The Boundary of Perception and the Infinity of Understanding](../../posts/the-boundary-of-perception-and-the-infinity-of-understanding/) · [词元与观测边界 / Tokens and the Observational Boundary](../../posts/tokens-and-the-observational-boundary/)
 
 ### 总括理论将时间固化为陈列清单 / Totalizing Theory as Dead Catalog
 `科学 / Scientific`
@@ -5165,7 +5165,7 @@ Its premise assumes that a static, standalone reality exists independently beyon
 
 Presumes the cut in quantum measurement is an intrinsic physical boundary standing in the objective world, attempting either to reify it as a physical constant or erase it within an extended wave function; shifting the cut preserves predictions while revealing the frictional seam where intentional interrogation collides with physical resistance, yet erasing it dissolves any definite macroscopic record.
 
-→ [割点可移不可除 / The Cut Moves but Never Vanishes](../../posts/the-cut-moves-but-never-vanishes/) · [算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records](../../posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records/) · [意识归属与量子割点 / Consciousness Ascription and the Quantum Cut](../../posts/consciousness-ascription-and-the-quantum-cut/)
+→ [割点可移不可除 / The Cut Moves but Never Vanishes](../../posts/the-cut-moves-but-never-vanishes/) · [算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records](../../posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records/) · [意识归属与量子割点 / Consciousness Ascription and the Quantum Cut](../../posts/consciousness-ascription-and-the-quantum-cut/) · [词元与观测边界 / Tokens and the Observational Boundary](../../posts/tokens-and-the-observational-boundary/)
 
 ### 量子诠释图谱 / Cartography of Quantum Interpretations
 `哲学 / Philosophical`
@@ -5301,3 +5301,12 @@ Presumes that automating the research loop of proposing, implementing, testing, 
 Presumes that exhaustively mapping a generative model's architectural topology, parameter weights, and internal feature circuits yields a complete predictive explanation and endogenous control of specific trajectories; useful for localizing circuit faults, extracting feature directions, and debugging model behavior, it reaches its boundary because deterministic rules amplify partially registered initial conditions across computationally irreducible rollouts, leaving trajectory selection and constraint updates dependent on the surrounding boundary-condition graph and the outer-loop Mind.
 
 → [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/)
+
+### 分词与字节级建模 / Tokenization and Byte-Level Modeling
+`技术 / Technological`
+
+预设子词分词只是中性的效率压缩，或将基本单元下调为字节以至直接输出机器二进制码便能消解表征天花板、触底底层基底；在各自校准的算力与延迟区间内权衡序列长度与词元内部结构时有效，但当分词器、字节方案与编译器都被认出是落在观测边界近侧的人造脚手架、而切口远侧悬而未决的不确定性恰是任何进一步制造与言说得以展开的构成性条件时到达边界。
+
+Presumes either that subword tokenization is a neutral efficiency compression or that lowering the unit to bytes and direct machine binaries removes representational ceilings to exhaust the substrate; effective for trading sequence length against sub-token structure inside calibrated compute and latency regimes, it reaches its boundary because tokenizers, byte schemes, and compilers alike sit on the near side of an observational cut whose far-side indeterminism is the constitutive condition for any further making or talking.
+
+→ [词元与观测边界 / Tokens and the Observational Boundary](../../posts/tokens-and-the-observational-boundary/) · [人、Token 与估值的范围 / Humans, Tokens, and the Scope of Valuation](../../posts/humans-tokens-and-the-scope-of-valuation/) · [抽象的阶梯与可执行的实体 / The Ladder of Abstraction and the Executable Entity](../../posts/the-ladder-of-abstraction-and-the-executable-entity/)

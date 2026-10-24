@@ -60,3 +60,4 @@ The essays in this part trace the category boundaries of the Turing and Einstein
 - [远方的轮廓与无处之境的清单 / The Distant Silhouette and the Inventory from Nowhere](../../posts/the-distant-silhouette-and-the-inventory-from-nowhere/)
 - [失灵被记作聪明 / When Malfunction Is Scored as Intelligence](../../posts/when-malfunction-is-scored-as-intelligence/)
 - [注释不是代码 / The Comment Is Not the Code](../../posts/the-comment-is-not-the-code/)
+- [词元与观测边界 / Tokens and the Observational Boundary](../../posts/tokens-and-the-observational-boundary/)
