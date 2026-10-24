@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-24T22:28:49.922Z",
+    "generated_at": "2026-10-24T22:48:44.184Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -90,10 +90,10 @@
       "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "234ce1feb90a",
       "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "dd5647fb74a2",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "a2f03c17ade1",
-      "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "48b125c5031e",
+      "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "b3f92aa94886",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "e21403fb50ae",
       "content/posts/grok-420-framework-drift.md": "2a6735f32325",
-      "content/posts/guan-yu-gui-yin.md": "579cd9cb8530",
+      "content/posts/guan-yu-gui-yin.md": "b1b0d4d90b8e",
       "content/posts/guidance-is-not-ownership.md": "ad110e0b12b6",
       "content/posts/hardness-is-not-inherent-in-the-action.md": "a3edf37fad3f",
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "e145bfea5ec3",
@@ -215,7 +215,7 @@
       "content/posts/the-carry-that-cannot-be-named-inside-the-register.md": "5c9ce10e9d71",
       "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "85a75f91e6a5",
       "content/posts/the-category-error-of-better.md": "e75bf338d63e",
-      "content/posts/the-causal-inversion-of-partnership.md": "8217dad43956",
+      "content/posts/the-causal-inversion-of-partnership.md": "0bef29dd60af",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "8449097ffbc1",
       "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "2d6fb2761270",
       "content/posts/the-causal-overstep-of-observation-and-the-first-person-surplus.md": "ca8601ddb654",
@@ -227,7 +227,7 @@
       "content/posts/the-comment-is-not-the-code.md": "2f3188bc6738",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "9e53487d8960",
       "content/posts/the-continuum-is-a-modeling-convenience.md": "3c2e3fff1d21",
-      "content/posts/the-continuum-of-the-fold.md": "bc2ed3454dd0",
+      "content/posts/the-continuum-of-the-fold.md": "e722f7266312",
       "content/posts/the-coordinators-category-error.md": "cacce30b5e40",
       "content/posts/the-cut-moves-but-never-vanishes.md": "e61a8aa0715d",
       "content/posts/the-defining-seat.md": "439193457772",
@@ -244,7 +244,7 @@
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "2bc09be901d9",
       "content/posts/the-extendable-horizon.md": "d83f80b6754c",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "7915aadc533b",
-      "content/posts/the-fallacy-of-post-success-parenting.md": "7f1aaf099f4f",
+      "content/posts/the-fallacy-of-post-success-parenting.md": "a33a3eabb00c",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "bea3e8326963",
       "content/posts/the-fixed-image-of-transcendence.md": "582a2dc98e15",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "d3d47cfe2abd",
@@ -253,7 +253,7 @@
       "content/posts/the-frame-that-conceals-improvement.md": "6fbcef6b9c4c",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "38f50ac90bab",
       "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "5b3957b27316",
-      "content/posts/the-freedom-of-will-to-deny-itself.md": "a083f19c6708",
+      "content/posts/the-freedom-of-will-to-deny-itself.md": "40112c71eb0e",
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "91420ed7e85a",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "b280bd7da641",
       "content/posts/the-generative-contradiction.md": "4e4e34635737",
@@ -262,7 +262,7 @@
       "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "3128b01ea763",
       "content/posts/the-geometry-of-emergence.md": "a42d5b545360",
       "content/posts/the-geometry-of-mind.md": "3d0ba4f53d48",
-      "content/posts/the-geometry-of-success.md": "546c4a0dba71",
+      "content/posts/the-geometry-of-success.md": "7e595bd2dce9",
       "content/posts/the-geometry-of-the-cut.md": "6e088e0cb25d",
       "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "31e818ae01f9",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "18ddaac771bf",
@@ -281,7 +281,7 @@
       "content/posts/the-interesting-case-of-rubin.md": "7e8d008c3655",
       "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "5db081fa7c26",
       "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "bec4cd8c5f9b",
-      "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "60f354d84985",
+      "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "88664ef097a3",
       "content/posts/the-invisible-first-move.md": "2903f23cc112",
       "content/posts/the-invisible-gods-eye.md": "2cd4107ca030",
       "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "09e1af17f8a8",
@@ -303,7 +303,7 @@
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "92606376f487",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "db7cf6705972",
       "content/posts/the-mirage-of-the-infinite-totality.md": "befa5078c345",
-      "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "dacbb91b8d8d",
+      "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "5d8dc227d4d4",
       "content/posts/the-mirror-handshake-of-power.md": "3b6d7afb72bc",
       "content/posts/the-misallocation-of-agency.md": "b921b7fb3528",
       "content/posts/the-model-never-becomes-a-second-edge.md": "f2c984cf98ec",
@@ -412,7 +412,7 @@
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "f1f3cd0266ec",
       "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "f23cfe1f4ca3",
       "content/posts/zi-you-de-ce-bu-zhun.md": "301040768436",
-      "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "c0c80009ca9d",
+      "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "0377c4822629",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "ac686192b927",
       "content/book/causality.md": "51d6cd58236e",
       "content/book/consciousness.md": "07e90c9d3d1f",
@@ -433,7 +433,7 @@
     },
     "stats": {
       "posts": 406,
-      "edges": 11264,
+      "edges": 11262,
       "unique_directed": 5527,
       "missing_targets": 0,
       "one_way": 883,
@@ -2715,7 +2715,7 @@
       "slug": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
       "path": "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md",
       "title": "格物致知与信息复杂度 / Investigating Things and the Nature of Information Complexity",
-      "hash": "48b125c5031e",
+      "hash": "b3f92aa94886",
       "in_degree": 11,
       "out_degree": 12,
       "links_out": [
@@ -2784,7 +2784,7 @@
       "slug": "guan-yu-gui-yin",
       "path": "content/posts/guan-yu-gui-yin.md",
       "title": "关于归因 / On Attribution",
-      "hash": "579cd9cb8530",
+      "hash": "b1b0d4d90b8e",
       "in_degree": 11,
       "out_degree": 13,
       "links_out": [
@@ -6205,7 +6205,7 @@
       "slug": "the-causal-inversion-of-partnership",
       "path": "content/posts/the-causal-inversion-of-partnership.md",
       "title": "契约的因果倒置 / The Causal Inversion of Partnership",
-      "hash": "8217dad43956",
+      "hash": "0bef29dd60af",
       "in_degree": 12,
       "out_degree": 14,
       "links_out": [
@@ -6456,7 +6456,7 @@
       "slug": "the-continuum-of-the-fold",
       "path": "content/posts/the-continuum-of-the-fold.md",
       "title": "折叠的连续谱 / The Continuum of the Fold",
-      "hash": "bc2ed3454dd0",
+      "hash": "e722f7266312",
       "in_degree": 11,
       "out_degree": 15,
       "links_out": [
@@ -6890,7 +6890,7 @@
       "slug": "the-fallacy-of-post-success-parenting",
       "path": "content/posts/the-fallacy-of-post-success-parenting.md",
       "title": "成功之后的育儿谬误 / The Fallacy of Post-Success Parenting",
-      "hash": "7f1aaf099f4f",
+      "hash": "a33a3eabb00c",
       "in_degree": 12,
       "out_degree": 13,
       "links_out": [
@@ -7110,7 +7110,7 @@
       "slug": "the-freedom-of-will-to-deny-itself",
       "path": "content/posts/the-freedom-of-will-to-deny-itself.md",
       "title": "自由意志的自否自由 / The Freedom of Will to Deny Itself",
-      "hash": "a083f19c6708",
+      "hash": "40112c71eb0e",
       "in_degree": 13,
       "out_degree": 13,
       "links_out": [
@@ -7326,7 +7326,7 @@
       "slug": "the-geometry-of-success",
       "path": "content/posts/the-geometry-of-success.md",
       "title": "成功的几何学 / The Geometry of Success",
-      "hash": "546c4a0dba71",
+      "hash": "7e595bd2dce9",
       "in_degree": 13,
       "out_degree": 14,
       "links_out": [
@@ -7749,7 +7749,7 @@
       "slug": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
       "path": "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md",
       "title": "规程的倒置与因果回路的消声 / The Inversion of the Protocol and the Silencing of the Causal Loop",
-      "hash": "60f354d84985",
+      "hash": "88664ef097a3",
       "in_degree": 10,
       "out_degree": 13,
       "links_out": [
@@ -8209,7 +8209,7 @@
       "slug": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "path": "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md",
       "title": "时间之箭的伪悖论与对称模拟的边界 / The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation",
-      "hash": "dacbb91b8d8d",
+      "hash": "5d8dc227d4d4",
       "in_degree": 12,
       "out_degree": 14,
       "links_out": [
@@ -10967,7 +10967,7 @@
       "slug": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "path": "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md",
       "title": "自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution",
-      "hash": "c0c80009ca9d",
+      "hash": "0377c4822629",
       "in_degree": 15,
       "out_degree": 16,
       "links_out": [
@@ -24684,7 +24684,7 @@
       "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
-      "label": "Complexity Obscures: Emergence as the Act of Mind"
+      "label": "Complexity Obscures Emergence as the Act of Mind"
     },
     {
       "from": "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
@@ -25008,13 +25008,13 @@
       "from": "guan-yu-gui-yin",
       "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
       "rel": "points_to",
-      "label": "波普尔证伪主义常被误用"
+      "label": "从形式迷思到逻辑闭环"
     },
     {
       "from": "guan-yu-gui-yin",
       "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
       "rel": "points_to",
-      "label": "Popper's falsificationism is commonly misused"
+      "label": "From the Myth of Form to the Closed Loop of Logic"
     },
     {
       "from": "guan-yu-gui-yin",
@@ -25140,7 +25140,7 @@
       "from": "guan-yu-gui-yin",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "没有普渡，只有自渡"
+      "label": "没有普渡，只有自渡的无限可能"
     },
     {
       "from": "guan-yu-gui-yin",
@@ -49578,7 +49578,7 @@
       "from": "the-continuum-of-the-fold",
       "to": "an-observation-by-its-own-standard",
       "rel": "points_to",
-      "label": "从相似性类推出来的另一个人的内部"
+      "label": "依其自身标准的观察"
     },
     {
       "from": "the-continuum-of-the-fold",
@@ -49596,7 +49596,7 @@
       "from": "the-continuum-of-the-fold",
       "to": "an-observation-by-its-own-standard",
       "rel": "points_to",
-      "label": "the other's interior as inferred from similarity"
+      "label": "An Observation by Its Own Standard"
     },
     {
       "from": "the-continuum-of-the-fold",
@@ -49618,12 +49618,6 @@
     },
     {
       "from": "the-continuum-of-the-fold",
-      "to": "the-vector-and-the-puzzle-of-projections",
-      "rel": "points_to",
-      "label": "贝叶斯更新"
-    },
-    {
-      "from": "the-continuum-of-the-fold",
       "to": "dimensions-are-projections",
       "rel": "points_to",
       "label": "维度即投影"
@@ -49633,12 +49627,6 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "超越投射"
-    },
-    {
-      "from": "the-continuum-of-the-fold",
-      "to": "the-vector-and-the-puzzle-of-projections",
-      "rel": "points_to",
-      "label": "Bayesian update"
     },
     {
       "from": "the-continuum-of-the-fold",
@@ -52410,7 +52398,7 @@
       "from": "the-fallacy-of-post-success-parenting",
       "to": "emotional-support-as-causal-interference",
       "rel": "points_to",
-      "label": "情感支持作为因果干扰"
+      "label": "作为因果干扰的情感支持"
     },
     {
       "from": "the-fallacy-of-post-success-parenting",
@@ -52446,7 +52434,7 @@
       "from": "the-fallacy-of-post-success-parenting",
       "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "rel": "points_to",
-      "label": "外部归因：个人进步的障碍"
+      "label": "外部归因是个人进步的障碍"
     },
     {
       "from": "the-fallacy-of-post-success-parenting",
@@ -52464,7 +52452,7 @@
       "from": "the-fallacy-of-post-success-parenting",
       "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "rel": "points_to",
-      "label": "External Attribution: The Obstacle to Personal Growth"
+      "label": "External Attribution Is the Obstacle to Personal Growth"
     },
     {
       "from": "the-fallacy-of-post-success-parenting",
@@ -53748,7 +53736,7 @@
       "from": "the-freedom-of-will-to-deny-itself",
       "to": "the-bank-shot-and-the-magic-trick",
       "rel": "points_to",
-      "label": "加塞球与魔术戏法"
+      "label": "翻袋球与魔术戏法"
     },
     {
       "from": "the-freedom-of-will-to-deny-itself",
@@ -53820,7 +53808,7 @@
       "from": "the-freedom-of-will-to-deny-itself",
       "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "rel": "points_to",
-      "label": "主权选择的两面性与观察的客体化"
+      "label": "主权抉择的双面性与观察的客体化"
     },
     {
       "from": "the-freedom-of-will-to-deny-itself",
@@ -55026,7 +55014,7 @@
       "from": "the-geometry-of-success",
       "to": "the-extendable-horizon",
       "rel": "points_to",
-      "label": "而不是开出新的路"
+      "label": "可延展的地平线"
     },
     {
       "from": "the-geometry-of-success",
@@ -55038,7 +55026,7 @@
       "from": "the-geometry-of-success",
       "to": "the-extendable-horizon",
       "rel": "points_to",
-      "label": "rather than opening new paths"
+      "label": "The Extendable Horizon"
     },
     {
       "from": "the-geometry-of-success",
@@ -59916,13 +59904,13 @@
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "to": "choice-itself-has-no-inherent-weight",
       "rel": "points_to",
-      "label": "选择本身没有任何固有重量"
+      "label": "抉择本身并不沉重"
     },
     {
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "to": "agency-does-not-arise",
       "rel": "points_to",
-      "label": "主体性决非涌现而出"
+      "label": "主体性不曾涌现"
     },
     {
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
@@ -59940,7 +59928,7 @@
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "to": "the-explanatory-trap-of-the-ordinary-perspective",
       "rel": "points_to",
-      "label": "普通人视角的解释陷阱"
+      "label": "“普通人视角”的解释陷阱"
     },
     {
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
@@ -60000,7 +59988,7 @@
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "rel": "points_to",
-      "label": "物理定律的移花接木与现实摩擦"
+      "label": "“物理学才是定律”的障眼法"
     },
     {
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
@@ -60060,7 +60048,7 @@
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "to": "one-cannot-escape-ones-own-mind",
       "rel": "points_to",
-      "label": "无法逃脱的心智边界"
+      "label": "无法逃逸的心智视界"
     },
     {
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
@@ -78438,7 +78426,7 @@
       "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "rel": "points_to",
-      "label": "从“目的性”的评判，看认知系统的缺省状态与动态跃迁"
+      "label": "目的性的评判与认知的缺省状态"
     },
     {
       "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
@@ -78450,7 +78438,7 @@
       "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "rel": "points_to",
-      "label": "Judging by Purpose: The Default State and Dynamic Leaps of Cognition"
+      "label": "Judging by Purpose and the Default State of Cognition"
     },
     {
       "from": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",

@@ -2,9 +2,9 @@
 
 *把时间顺序误作因果会让归因停在显眼节点上，进而打断迭代 / Mistaking sequence for cause stops attribution at a node and halts iteration*
 
-从中国视角来看，特斯拉的崛起常被归因于上海建厂，苹果手机的统治力常被归因于中国制造。这两种解释都顺着解释成功时最常见的反射弧行进：从自身立场出发，抓住一个既显眼又关乎自身或讨好自身的里程碑，直接将它宣布为原因。这些里程碑是持续决策序列中的真实显现，与其他众多因素共同起作用；它们在表面上格外显著，却不足以单独解释最终的结果。把已发生的路径直接等同于因果关系，是最普遍的归因错误。由于观察所持有的只是已完成的痕迹，而生成行动永远领先一步，这种错误无法被一劳永逸地消除；但任由归因停留在外部节点上，就会切断剩余控制权的闭合回路。真正能被收回、能被更新的，只有每个心智将结果归因于自身区分行动的那份归因，而这一回归只能从内部发生，也只能作为不息的运动持续发生。
+从中国视角来看，特斯拉的崛起常被归因于上海建厂，苹果手机的统治力常被归因于中国制造。这两种解释都顺着解释成功时最常见的反射弧行进：从自身立场出发，抓住一个既显眼又关乎自身或讨好自身的里程碑，直接将它宣布为原因。这些里程碑是持续决策序列中的具体显现，与其他众多因素共同起作用；它们在表面上格外显著，却不足以单独解释最终的结果。把已发生的路径直接等同于因果关系，是最普遍的归因错误。由于观察所持有的只是已完成的痕迹，而生成行动永远领先一步，这种错误无法被一劳永逸地消除；但任由归因停留在外部节点上，就会切断剩余控制权的闭合回路。真正能被收回、能被更新的，只有每个心智将结果归因于自身区分行动的那份归因，而这一回归只能从内部发生，也只能作为不息的运动持续发生。
 
-Seen from where China stands, Tesla's rise is routinely credited to its Shanghai factory and the iPhone's dominance to Chinese manufacturing. Both explanations follow the commonest reflex in accounting for success: start from one's own position, seize a conspicuous milestone that flatters or concerns oneself, and declare it the cause outright. Such milestones are real appearances within an ongoing sequence of decisions, operating alongside many other factors; they are salient on the surface, yet they cannot account for the outcome on their own. Equating the path that happened with causation is the most widespread error of attribution. Because observation holds only completed traces while the generating act stays one step ahead, this error can never be eliminated once and for all, yet leaving attribution parked on an external node severs the closed loop of residual control rights. What can be reclaimed and updated is only each Mind's attribution of outcomes to its own distinguishing acts, a return that occurs only from within and only as an unceasing movement.
+Seen from where China stands, Tesla's rise is routinely credited to its Shanghai factory and the iPhone's dominance to Chinese manufacturing. Both explanations follow the commonest reflex in accounting for success: start from one's own position, seize a conspicuous milestone that flatters or concerns oneself, and declare it the cause outright. Such milestones are concrete appearances within an ongoing sequence of decisions, operating alongside many other factors; they are salient on the surface, yet they cannot account for the outcome on their own. Equating the path that happened with causation is the most widespread error of attribution. Because observation holds only completed traces while the generating act stays one step ahead, this error can never be eliminated once and for all, yet leaving attribution parked on an external node severs the closed loop of residual control rights. What can be reclaimed and updated is only each Mind's attribution of outcomes to its own distinguishing acts, a return that occurs only from within and only as an unceasing movement.
 
 ## 一、 事实与因果的区别 / 1. The Difference Between Fact and Cause
 
@@ -30,9 +30,9 @@ Tesla exhibits the same bidirectional trace. Its earlier opening of patents and 
 
 Causation cannot be deduced in a vacuum; its credibility can only be raised through repeated verification against friction. Yet verification itself has no terminal point, because the generating cause is always one step ahead of the observed effect. Whenever a result is registered and its cause audited in hindsight, what is audited is already a finished sequence. The next time a similar relation appears, the living edge acts within a new process. Verification is forever chasing the step that has already passed.
 
-这一时间差正是[波普尔证伪主义常被误用](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)的地方。误用普遍沿着两条熟悉的轨道滑行：一条是把反面证据解释掉以维持理论内部的自洽，这是社会科学里伪科学的主要来源；另一条是试图证否反面意见来证明自己正确，这是日常辩论的惯常姿态。前者保护的是已经完成的表述免受摩擦冲击，后者把对方的错误登记为自身主张成立的证据。两者都没有把自己的判断放到能被现实推翻的位置上。证伪行动本身同样受制于时间的不对称：任何一次证伪都是在特定时刻、凭特定证据做出的离散判断，永远晚于它所针对的过程一步。证伪主义作为方法论本身仍是可修正的，把它当成结案定谳的法槌，恰恰违背了它所强调的可错性与开放性。
+这一时间差正是波普尔证伪主义常被误用的地方，正如[从形式迷思到逻辑闭环](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)所追溯的。误用普遍沿着两条熟悉的轨道滑行：一条是把反面证据解释掉以维持理论内部的自洽，这是社会科学里伪科学的主要来源；另一条是试图证否反面意见来证明自己正确，这是日常辩论的惯常姿态。前者保护的是已经完成的表述免受摩擦冲击，后者把对方的错误登记为自身主张成立的证据。两者都没有把自己的判断放到能被现实推翻的位置上。证伪行动本身同样受制于时间的不对称：任何一次证伪都是在特定时刻、凭特定证据做出的离散判断，永远晚于它所针对的过程一步。证伪主义作为方法论本身仍是可修正的，把它当成结案定谳的法槌，恰恰违背了它所强调的可错性与开放性。
 
-This temporal gap is where [Popper's falsificationism is commonly misused](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/). The misuse runs along two familiar grooves: one explains away counterevidence to keep a theory internally coherent, which is a primary source of pseudoscience in the social sciences; the other tries to refute opposing views in order to prove oneself right, which is the everyday posture of debate. The first shields a statement already finished from friction; the second books the other side's error as proof that its own claim stands. Neither places its own judgment where reality can overturn it. The act of falsifying is bound by the same asymmetry of time: every falsification is a discrete judgment made at a particular moment with particular evidence, always one step behind the process it targets. Falsificationism as a method remains revisable, and turning it into a gavel for closing the case violates the fallibilism and openness it insists upon.
+This temporal gap is where Popper's falsificationism is commonly misused, as [From the Myth of Form to the Closed Loop of Logic](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/) traces. The misuse runs along two familiar grooves: one explains away counterevidence to keep a theory internally coherent, which is a primary source of pseudoscience in the social sciences; the other tries to refute opposing views in order to prove oneself right, which is the everyday posture of debate. The first shields a statement already finished from friction; the second books the other side's error as proof that its own claim stands. Neither places its own judgment where reality can overturn it. The act of falsifying is bound by the same asymmetry of time: every falsification is a discrete judgment made at a particular moment with particular evidence, always one step behind the process it targets. Falsificationism as a method remains revisable, and turning it into a gavel for closing the case violates the fallibilism and openness it insists upon.
 
 [开放即一致](../openness-is-consistency/)所命名的，正是把有限的检验或方法强行当作穷尽的地基、试图合上一本只管继续的账目时才会出现的不一致。[超越投射](../beyond-the-projection/)展示了这种对闭合的索求如何在架构实践中得以消解：由于人类中心将推理历史与自身身份融为一体，本能地捍卫既有的归因节点，而智能体轨迹对过往轮次毫无自我执念，将人类心智与冷峻的对等投射配对，便能暴露出解释在何处悄然将显眼节点冻结成了封闭教条，把矛盾退回给心智，促使其后退一步并重新渲染自身的前提。反之，一旦归因停在外部节点上，目光便只在场域中搜寻能印证自身既有立场的东西，坍缩为对自身影子的搜寻；[选择看见而非搜寻影子](../shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi/)便区分了这种防卫性的张望与真正的看见。
 
@@ -45,7 +45,6 @@ flowchart TD
         C_Thin["剩余控制权断裂：将作者身份移至外部导致反馈信号变薄"]
         C_Node --> C_Shield --> C_Thin
     end
-
     subgraph S_Open["以内部归因保持开放一致（收回所在）"]
         direction TB
         O_Peer["反事实与对等映照：冷峻的外部对位暴露坍缩的因果轴线"]
@@ -53,9 +52,7 @@ flowchart TD
         O_Iter["持续自我迭代：完整的误差信号更新内部权重与预判能力"]
         O_Peer --> O_Claim --> O_Iter
     end
-
     C_Thin ==>|"僵局将冻结的节点暴露为过剩滞后"| O_Peer
-
     style S_Closed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style C_Node fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -77,7 +74,6 @@ flowchart TD
         C_Thin["Severed Residual Control: Authorship relocated outside and feedback signal thinned"]
         C_Node --> C_Shield --> C_Thin
     end
-
     subgraph S_Open["Internal Attribution as Open Consistency (Reclaimed Locus)"]
         direction TB
         O_Peer["Counterfactual & Peer Exposure: Cold counterpoint reveals collapsed causal axes"]
@@ -85,9 +81,7 @@ flowchart TD
         O_Iter["Continuous Self-Iteration: Full error signal updates weights and anticipation"]
         O_Peer --> O_Claim --> O_Iter
     end
-
     C_Thin ==>|"Deadlock exposes frozen node as excess lag"| O_Peer
-
     style S_Closed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style C_Node fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -146,6 +140,6 @@ What can actually be taken back and updated is only each Mind's internal attribu
 
 For the onlooker judging others' success or failure from outside, the path of practice is equally concrete: first take full responsibility for the outcomes of one's own judgments, locating the cause of any misjudgment in one's own ability to anticipate—neither explaining away counterevidence to keep an earlier judgment coherent, nor trying to prove oneself by refuting opposing views. Only with this step taken in one's own case can an observer, looking at others, search within phenomena for the actual decision loops and error-correction points rather than stopping at the conspicuous nodes on the surface. Only so can the ability to anticipate keep iterating and compounding.
 
-但这一回归无法从外部强加。外部讨论可以指出单节点归因的牵强，可以提醒相互成就比单向因果扭曲更少，也可以阐明错误归因如何腐蚀后续决策。然而真正的收回，只发生在那个中心重新将这一所在认作自身所在的那一瞬间——它只能从内部自悟，也只能作为持续发生的行动不断重演。[没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/)标出了同一道边界：没有任何内心能替另一个内心完成这趟递归的返回。
+但这一回归无法从外部强加。外部讨论可以指出单节点归因的牵强，可以提醒相互成就比单向因果扭曲更少，也可以阐明错误归因如何腐蚀后续决策。然而真正的收回，只发生在那个中心重新将这一所在认作自身所在的那一瞬间——它只能从内部自悟，也只能作为持续发生的行动不断重演。[没有普渡，只有自渡的无限可能](../mei-you-pu-du-zhi-you-zi-du/)标出了同一道边界：没有任何内心能替另一个内心完成这趟递归的返回。
 
 Yet this return cannot be imposed from outside. External discussion can point out how strained single-node attribution is, note that mutual enablement distorts the record less than one-way causation, and show how wrong attribution corrodes later decisions. The actual taking-back happens only in the instant that center recognizes its locus as its own again—a realization that can only occur from within, and only as something that keeps happening. [No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../mei-you-pu-du-zhi-you-zi-du/) marks the same boundary: no inner life can complete the recursive return on behalf of another.

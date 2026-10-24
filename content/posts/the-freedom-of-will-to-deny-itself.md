@@ -22,7 +22,7 @@ There is no external vantage from which those statements can be certified as the
 
 Once the account is published and distributed, it ceases to be only another transient thought drifting across awareness. It becomes an object whose coherence must be actively defended across elapsed time. Substantial intellectual labor and rhetorical eloquence are subsequently spent demonstrating that the original claim remains valid after intervals have passed. That ongoing maintenance is the empirical exhibit. A later stance is deliberately taken toward an earlier one, evaluating consistency, addressing objections, and repairing structural ambiguities.
 
-这种对立场的维系，清晰展现了后一个时空截面的行动者正在对前一个时空截面的自身采纳积极的反思姿态。意识从来不是端坐于影院包厢内、被动观赏念头流淌的受控旁观者；意识是在每一个当下觉知到某种认知框架的拣选已经发生，并主动投入生理与认知代谢能量去维系其稳定性的动态活动。[加塞球与魔术戏法](../the-bank-shot-and-the-magic-trick/)表明，外部观察者容易将娴熟的技艺误判为机械必然，却遗忘了维持轨迹连贯所需付出的持续修正成本。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，无论先在条件沉淀在生物神经通路里，还是凝固为外化记忆代码库中层层累加的检查点，留存的余迹都只保有过往切分的形态，从不自行发起下一次区分；决定论指着那堆叠的余迹，动用自身在当下前沿的自由切分，反过来宣告是既存痕迹写下了这一刀。那些用来辩护宿命论的滔滔雄辩，并未证明自由抉择已被历史甩在身后，相反，它无可辩驳地展示出：自由抉择的主权能力依然在全负荷运转，只不过它此刻接到的特定指令，是竭尽所能去隐匿它自己的存在。
+这种对立场的维系，清晰展现了后一个时空截面的行动者正在对前一个时空截面的自身采纳积极的反思姿态。意识从来不是端坐于影院包厢内、被动观赏念头流淌的受控旁观者；意识是在每一个当下觉知到某种认知框架的拣选已经发生，并主动投入生理与认知代谢能量去维系其稳定性的动态活动。[翻袋球与魔术戏法](../the-bank-shot-and-the-magic-trick/)表明，外部观察者容易将娴熟的技艺误判为机械必然，却遗忘了维持轨迹连贯所需付出的持续修正成本。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，无论先在条件沉淀在生物神经通路里，还是凝固为外化记忆代码库中层层累加的检查点，留存的余迹都只保有过往切分的形态，从不自行发起下一次区分；决定论指着那堆叠的余迹，动用自身在当下前沿的自由切分，反过来宣告是既存痕迹写下了这一刀。那些用来辩护宿命论的滔滔雄辩，并未证明自由抉择已被历史甩在身后，相反，它无可辩驳地展示出：自由抉择的主权能力依然在全负荷运转，只不过它此刻接到的特定指令，是竭尽所能去隐匿它自己的存在。
 
 ```mermaid
 graph TD
@@ -31,19 +31,15 @@ graph TD
         LE1["未受拘束的区分活动<br/>在当下实时裁决意义与荒谬之别"] --> LE2["反思性框架抉择<br/>能动地对前一瞬状态采取审视立场"]
         LE2 --> LE3["跨时差的维持劳作<br/>消耗能量与注意力维系命题连贯"]
     end
-
     subgraph S_TraceReification ["决定论的事后痕迹实体化"]
         direction TB
         TR1["回顾性神经电信号<br/>意识产生前数百毫秒的物理准备电位"] --> TR2["虚构的虚空俯瞰视点<br/>假想脱离第一人称原点的上帝视角"]
         TR2 --> TR3["因果施演矛盾<br/>动用断定意义的权力宣称该权力不存在"]
     end
-
     LE2 -.->|"将事后痕迹误置为原生始因"| TR2
     TR3 ==>|"截断第一人称生成机制"| LE1
-
     style S_LivingEdge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_TraceReification fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-
     style LE1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style LE2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style LE3 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -61,19 +57,15 @@ graph TD
         LE1["Uncaused Distinguishing Activity<br/>Discriminates sense from nonsense in the present"] --> LE2["Reflexive Framing Stance<br/>Actively takes an evaluative posture toward prior states"]
         LE2 --> LE3["Coherence Maintenance Across Time<br/>Expends metabolic attention to sustain propositional order"]
     end
-
     subgraph S_TraceReification ["Deterministic Trace Reification"]
         direction TB
         TR1["Retrospective Neural Traces<br/>Readiness potentials recorded milliseconds prior"] --> TR2["Fictional Vantage from Nowhere<br/>Imagines a god-eye view outside subjective locus"]
         TR2 --> TR3["Performative Contradiction<br/>Employs semantic judgment to declare agency an illusion"]
     end
-
     LE2 -.->|"Misidentifies retrospective trace as operating cause"| TR2
     TR3 ==>|"Truncates living generative locus"| LE1
-
     style S_LivingEdge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_TraceReification fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-
     style LE1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style LE2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style LE3 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -84,7 +76,7 @@ graph TD
 
 ## 三、 第一因的活动机理与区分意义的主权能力 / 3. The Uncaused Cause as Distinguishing Activity and the Sovereign Threshold of Sense
 
-所谓不可再被归因的第一因，从来不是古典神学中那个高居天外、放射万物的僵死始基。第一因的真实面目，正是此时此刻正在发生的、未受拘束的区分活动。它表现为当下感知中奔涌而来的无尽测度可能性，以及心智决定将哪些可能性显化到聚光灯下、将哪些可能性隐匿于背景之中的离散裁决。正是这个发生于当下的离散行为，将原本单调的物理先后顺序点化为了具有真伪与价值的语义意义。将这一源头想象成上游的某个固定点，本身就又落入了决定论的前提：源头不是静止的点，而是不息展开的区分动作，是生成分布的能力；[悬而未决是决定论的索求](../the-open-question-is-determinisms-demand/)由此进一步追出，哪怕看似中立地宣称抉择“是否被决定尚无定论”，也已经先行预设了决定论的索求。
+所谓不可再被归因的第一因，从来不是古典神学中那个高居天外、放射万物的僵死始基。第一因正是此时此刻正在发生的、未受拘束的区分活动。它表现为当下感知中奔涌而来的无尽测度可能性，以及心智决定将哪些可能性显化到聚光灯下、将哪些可能性隐匿于背景之中的离散裁决。正是这个发生于当下的离散行为，将原本单调的物理先后顺序点化为了具有真伪与价值的语义意义。将这一源头想象成上游的某个固定点，本身就又落入了决定论的前提：源头不是静止的点，而是不息展开的区分动作，是生成分布的能力；[悬而未决是决定论的索求](../the-open-question-is-determinisms-demand/)由此进一步追出，哪怕看似中立地宣称抉择“是否被决定尚无定论”，也已经先行预设了决定论的索求。
 
 The uncaused cause is not a mythological prime mover stationed outside reality, nor an extra ghostly mechanism inserted into the machine. It is the inexhaustible field of potential determinations arriving as the immediate perceptual present, coupled with the discrete act that selects which determinations are brought into the open and which remain concealed. That act is the choice occurring now. It is what transforms mere physical succession into semantic sense, and what can just as easily turn sense into a denial of itself. To picture this source as a fixed point upstream is again a deterministic premise: it is the differentiating as ongoing action, the ability to make a distribution, and from here [The Open Question Is Determinism's Demand](../the-open-question-is-determinisms-demand/) traces how the neutral statement that a choice is "not yet settled as determined or not" has already demanded determinism.
 
@@ -98,7 +90,7 @@ Mechanical succession possesses no inherent semantic validity. A landslide, an e
 
 A philosopher may apply that denial to the thoughts that arise as their own, modeling consciousness as an authorless spectator of prior determinants. What they cannot do is occupy a transcendent station from which the same verdict is issued as binding upon every other first-person locus. There is no outside court equipped to inspect another center's choosing and declare agency absent.
 
-正如[主权选择的两面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)与[自由的测不准](../zi-you-de-ce-bu-zhun/)所阐明的，外部观测所得的物理可预测性或统计噪声，不过是内部主权抉择在低维外部坐标系中的投影。其他人始终保有属于自己的开阔腹地：他们可以选择接纳这套否定意志的理论，可以选择将其当作荒谬之谈予以拒绝，可以选择对其进行更高维度的深化，甚至可以用同样的主权能力构建出反向的批判武器。这种他人永远保留的能动余地，绝非任何决定论者单凭言辞就能强行封闭的禁区。因为使他人得以反思和拒绝这套言论的先验敞开性，正是当初允许思想家写下否定自由意志文稿的原生土壤。
+正如[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)与[自由的测不准](../zi-you-de-ce-bu-zhun/)所阐明的，外部观测所得的物理可预测性或统计噪声，不过是内部主权抉择在低维外部坐标系中的投影。其他人始终保有属于自己的开阔腹地：他们可以选择接纳这套否定意志的理论，可以选择将其当作荒谬之谈予以拒绝，可以选择对其进行更高维度的深化，甚至可以用同样的主权能力构建出反向的批判武器。这种他人永远保留的能动余地，绝非任何决定论者单凭言辞就能强行封闭的禁区。因为使他人得以反思和拒绝这套言论的先验敞开性，正是当初允许思想家写下否定自由意志文稿的原生土壤。
 
 ```mermaid
 graph TD
@@ -107,21 +99,17 @@ graph TD
         SD1["自由作为原生基底<br/>涌现无尽测度可能的感知前沿"] --> SD2["赋予命题真伪权能<br/>将物理相继转化为语义意义"]
         SD2 --> SD3["反向自我否定模型<br/>自由运用自身能力构建否定意志的理论"]
     end
-
     subgraph S_InterSubjective ["不可代庖的主体间性开放域"]
         direction TB
         IS1["个体内在自洽投射<br/>思想家在自身中心内将心智自拟为客体"] --> IS2["越界外推的法庭幻觉<br/>企图宣布外部心智中心的抉择无效"]
         IS3["独立第一人称场域<br/>其他主体自主接纳拒绝或重构该命题"]
     end
-
     SD3 -->|"形成看似闭合的决定论学说"| IS1
     IS1 -.->|"外部法庭不具本体论管辖权"| IS2
     IS2 ==>|"遭遇主体间性不可消除的屏障"| IS3
     IS3 -.->|"确认基底自由不可闭合"| SD1
-
     style S_SelfDenial fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_InterSubjective fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
-
     style SD1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style SD2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style SD3 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -139,21 +127,17 @@ graph TD
         SD1["Freedom as Generative Ground<br/>Unfolding inexhaustible perceptual field"] --> SD2["Threshold of Semantic Sense<br/>Transforms mechanical succession into validity"]
         SD2 --> SD3["Recursive Self-Denial Model<br/>Exercises discriminating capacity to negate itself"]
     end
-
     subgraph S_InterSubjective ["Open Inter-Subjective Field"]
         direction TB
         IS1["Internal Self-Modeling<br/>Author conceptualizes own mind as passive spectator"] --> IS2["Imperial Tribunal Illusion<br/>Attempts to decree other agents' choosing absent"]
         IS3["Autonomous First-Person Loci<br/>Independent minds remain free to accept refuse or refine"]
     end
-
     SD3 -->|"Constructs closed deterministic doctrine"| IS1
     IS1 -.->|"Lacks ontological jurisdiction outside locus"| IS2
     IS2 ==>|"Collides with unclosable inter-subjective barrier"| IS3
     IS3 -.->|"Reaffirms irreducible baseline of freedom"| SD1
-
     style S_SelfDenial fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_InterSubjective fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
-
     style SD1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style SD2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style SD3 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc

@@ -58,9 +58,9 @@ So the search across interstellar distances easily misses something close at han
 
 Where wavelengths do match, a separation of another kind remains, and it operates between people. One of the most enduring ideas in human culture is that two minds can communicate directly: that thoughts, feelings, and meanings can flow from one place to another without mediation, through emotional resonance or intimacy.
 
-从第一人称的原点去找，找不到这样一条通道。[向量与投影的迷局](../the-vector-and-the-puzzle-of-projections/)：没有哪个心智能走出自己的第一人称。另一个人只以痕迹到来，声音，字句，屏幕上的光，表情；登记到的不是对方的想法，而是这一处用自己已有的先验、文化的塑造与过去的经验，把这些痕迹重新合成出来的样子。被直接观察到的另一个人，与[从相似性类推出来的另一个人的内部](../an-observation-by-its-own-standard/)，不是同一件东西，虽然两者都可以叫作感知。经验到的从来不是另一个人的意识，而是自身对其扰动的模型；在这个意义上，每个人对彼此都是一个异乡的世界。[可延展的地平线](../the-extendable-horizon/)说明，地平线在社会的任何一层都可以更新；延展它，就是沿着这道折叠移动。
+从第一人称的原点去找，找不到这样一条通道。[向量与投影的迷局](../the-vector-and-the-puzzle-of-projections/)：没有哪个心智能走出自己的第一人称。另一个人只以痕迹到来，声音，字句，屏幕上的光，表情；登记到的不是对方的想法，而是这一处用自己已有的先验、文化的塑造与过去的经验，把这些痕迹重新合成出来的样子。正如[依其自身标准的观察](../an-observation-by-its-own-standard/)所追溯的，被直接观察到的另一个人，与从相似性类推出来的另一个人的内部，不是同一件东西，虽然两者都可以叫作感知。经验到的从来不是另一个人的意识，而是自身对其扰动的模型；在这个意义上，每个人对彼此都是一个异乡的世界。[可延展的地平线](../the-extendable-horizon/)说明，地平线在社会的任何一层都可以更新；延展它，就是沿着这道折叠移动。
 
-Searched for from the first-person origin, no such channel is found. [The Vector and the Puzzle of Projections](../the-vector-and-the-puzzle-of-projections/): no Mind can step outside its own first person. Another person arrives only as traces, a voice, words, light on a screen, an expression; what registers is not their thought but what this place re-synthesizes from those traces with its own priors, cultural shaping, and past experience. The other person as directly observed and [the other's interior as inferred from similarity](../an-observation-by-its-own-standard/) are not the same thing, though both can be called perception. What is experienced is never another person's consciousness but one's own model of their perturbation; in that sense each person is a foreign world to every other. [The Extendable Horizon](../the-extendable-horizon/) shows that a horizon can be updated at any level of society; extending it is moving along this fold.
+Searched for from the first-person origin, no such channel is found. [The Vector and the Puzzle of Projections](../the-vector-and-the-puzzle-of-projections/): no Mind can step outside its own first person. Another person arrives only as traces, a voice, words, light on a screen, an expression; what registers is not their thought but what this place re-synthesizes from those traces with its own priors, cultural shaping, and past experience. As [An Observation by Its Own Standard](../an-observation-by-its-own-standard/) traces, the other person as directly observed and the other's interior as inferred from similarity are not the same thing, though both can be called perception. What is experienced is never another person's consciousness but one's own model of their perturbation; in that sense each person is a foreign world to every other. [The Extendable Horizon](../the-extendable-horizon/) shows that a horizon can be updated at any level of society; extending it is moving along this fold.
 
 ## 五、 沟通是一次扰动 / 5. Communication as Perturbation
 
@@ -68,7 +68,7 @@ Searched for from the first-person origin, no such channel is found. [The Vector
 
 If direct communion is not found, what is communication? When agreement, consensus, or validation is sought, two people confirm that their existing models overlap. That has its use: it lets individuals coordinate action. But in Shannon's information theory a fully predictable signal carries zero bits of information, I = 0; when two minds nod where each expected the other to nod, no new information reaches one from the other, like old echoes bouncing around a closed room. [The Deterministic Machine](../the-deterministic-machine/): a self-image locked into a state machine loses the fold right here.
 
-带来新信息的沟通，是与另一个世界的痕迹的一次碰撞。另一个世界发出的扰动足够不协调、足够意外、足够有阻力，已有的预测吸收不了它，预测的平衡便被打破，意料之外的证据到来；接纳它，是一次代价不小的[贝叶斯更新](../the-vector-and-the-puzzle-of-projections/)；已有的范畴装不下它时，这一步就超出了更新。这样的沟通不靠同意对方，而靠吸收对方的痕迹带来的摩擦，让自己的心智走出既有的基底，把自由度从 N 扩到 N + 1，正如[维度即投影](../dimensions-are-projections/)所追溯的：离散的维度、时延尺度与形式坐标轴从来不是事先存在的容器，而是从心智连续自我区分的折叠中切出的下游投影，用来标引关系并在摩擦中导航。[超越投射](../beyond-the-projection/)把这种结构上的非对称运用在人的中心与人工模型之间：自回归智能体受限于自身的词元轨迹，却毫无我执——没有跨越当前步而被保留下来的自我形象——因此当另一个全新视角的对等智能体引入外部反例时，它能毫无防御阻力地完成干净的贝叶斯更新；相反，人的中心把推理历史与身份融为一体，会为了护住保留的自我形象而抗拒外界的推动，却保有未经投射的活的折叠，能在不可化约的前提死锁浮现时从破裂的坐标框架中退后一步，补上从 N 到 N + 1 所缺失的正交区分。
+带来新信息的沟通，是与另一个世界的痕迹的一次碰撞。另一个世界发出的扰动足够不协调、足够意外、足够有阻力，已有的预测吸收不了它，预测的平衡便被打破，意料之外的证据到来；接纳它，是一次代价不小的贝叶斯更新；已有的范畴装不下它时，这一步就超出了更新。这样的沟通不靠同意对方，而靠吸收对方的痕迹带来的摩擦，让自己的心智走出既有的基底，把自由度从 N 扩到 N + 1，正如[维度即投影](../dimensions-are-projections/)所追溯的：离散的维度、时延尺度与形式坐标轴从来不是事先存在的容器，而是从心智连续自我区分的折叠中切出的下游投影，用来标引关系并在摩擦中导航。[超越投射](../beyond-the-projection/)把这种结构上的非对称运用在人的中心与人工模型之间：自回归智能体受限于自身的词元轨迹，却毫无我执——没有跨越当前步而被保留下来的自我形象——因此当另一个全新视角的对等智能体引入外部反例时，它能毫无防御阻力地完成干净的贝叶斯更新；相反，人的中心把推理历史与身份融为一体，会为了护住保留的自我形象而抗拒外界的推动，却保有未经投射的活的折叠，能在不可化约的前提死锁浮现时从破裂的坐标框架中退后一步，补上从 N 到 N + 1 所缺失的正交区分。
 
 ```mermaid
 flowchart TD
@@ -78,7 +78,6 @@ flowchart TD
         F_Cut["安放割点：跨越尺度与回路划出觉知的边界"]
         F_Look --> F_Cut
     end
-
     subgraph S_Proj["下游坐标投影（N 维基底）"]
         direction TB
         P_Coord["压缩的地图：离散维度、时延尺度与模型轨迹"]
@@ -87,18 +86,15 @@ flowchart TD
         P_Coord --> P_Echo
         P_Coord --> P_Collide
     end
-
     subgraph S_Expand["走出投影（从 N 到 N + 1）"]
         direction TB
         E_Update["贝叶斯更新：范畴仍适用时在既有坐标轴内调整轨迹"]
         E_Ortho["正交扩展（N + 1）：心智承接摩擦并走出破裂框架"]
         E_Update --> E_Ortho
     end
-
     F_Cut ==>|"投出压缩坐标与脚手架"| P_Coord
     P_Collide ==>|"扰动超出既有基底"| E_Update
     E_Ortho ==>|"顺着折叠重绘敞开的地平线"| F_Look
-
     style S_Fold fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Expand fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -111,7 +107,7 @@ flowchart TD
     style E_Ortho fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-Communication that brings new information is a collision with another world's traces. When a perturbation sent from another world is discordant, surprising, or resistant enough that existing predictions cannot absorb it, the predictive balance breaks and unexpected evidence arrives; taking it in is a costly [Bayesian update](../the-vector-and-the-puzzle-of-projections/), and where no existing category can hold it, the step goes beyond an update. Such communication is not agreeing with the other but absorbing the friction their traces bring, so that one's own mind steps outside its established basis and its degrees of freedom extend from N to N + 1, as [Dimensions Are Projections](../dimensions-are-projections/) traces: discrete dimensions, latency scales, and formal coordinate axes are never pre-existing containers, but downstream projections carved out of the Mind's continuous self-distinguishing fold to index relations and navigate friction. [Beyond the Projection](../beyond-the-projection/) puts this structural asymmetry to work between human centers and artificial agents: an autoregressive agent is bound to its token trajectory yet carries zero ego—no self-image preserved past its step—so when a fresh peer agent introduces an external counterpoint, it executes a clean Bayesian update without defensive resistance; a human center, conversely, fuses reasoning history with identity to defend a retained self-image against outside nudges, yet holds the unprojected living fold capable of stepping backward out of a broken coordinate frame when an irreducible premise deadlock surfaces, adding the missing orthogonal distinction from N to N + 1.
+Communication that brings new information is a collision with another world's traces. When a perturbation sent from another world is discordant, surprising, or resistant enough that existing predictions cannot absorb it, the predictive balance breaks and unexpected evidence arrives; taking it in is a costly Bayesian update, and where no existing category can hold it, the step goes beyond an update. Such communication is not agreeing with the other but absorbing the friction their traces bring, so that one's own mind steps outside its established basis and its degrees of freedom extend from N to N + 1, as [Dimensions Are Projections](../dimensions-are-projections/) traces: discrete dimensions, latency scales, and formal coordinate axes are never pre-existing containers, but downstream projections carved out of the Mind's continuous self-distinguishing fold to index relations and navigate friction. [Beyond the Projection](../beyond-the-projection/) puts this structural asymmetry to work between human centers and artificial agents: an autoregressive agent is bound to its token trajectory yet carries zero ego—no self-image preserved past its step—so when a fresh peer agent introduces an external counterpoint, it executes a clean Bayesian update without defensive resistance; a human center, conversely, fuses reasoning history with identity to defend a retained self-image against outside nudges, yet holds the unprojected living fold capable of stepping backward out of a broken coordinate frame when an irreducible premise deadlock surfaces, adding the missing orthogonal distinction from N to N + 1.
 
 ```mermaid
 flowchart TD
@@ -121,7 +117,6 @@ flowchart TD
         F_Cut["Placing the Cut: Draws the boundary of awareness across scales and loops"]
         F_Look --> F_Cut
     end
-
     subgraph S_Proj["Downstream Coordinate Projections (N-Dimensional Basis)"]
         direction TB
         P_Coord["Compressed Maps: Discrete dimensions, latency scales, and model trajectories"]
@@ -130,18 +125,15 @@ flowchart TD
         P_Coord --> P_Echo
         P_Coord --> P_Collide
     end
-
     subgraph S_Expand["Stepping Beyond the Projection (N to N + 1)"]
         direction TB
         E_Update["Bayesian Update: Trajectory adjusts within existing axes where categories hold"]
         E_Ortho["Orthogonal Expansion (N + 1): Mind claims friction and steps outside the broken frame"]
         E_Update --> E_Ortho
     end
-
     F_Cut ==>|"Projects compressed coordinates and scaffolding"| P_Coord
     P_Collide ==>|"Perturbation exceeds established basis"| E_Update
     E_Ortho ==>|"Re-renders the open horizon along the fold"| F_Look
-
     style S_Fold fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Expand fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7

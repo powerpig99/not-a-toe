@@ -2,7 +2,7 @@
 
 *对称方程在持守内模拟闭合轨迹而因果单向展开 / Symmetric equations simulate closed trajectories while causality runs one way*
 
-现实本身不存在任何关于时间之箭的悖论。自我区分的活动无因、不息地展开，由于每一个离散行动都发生在已被先前行动塑造的场域之中，塑造只能单向运行。这种痕迹的不对称性即是因果律与时间之箭，是同一重关系被赋予的两种名称。基础物理学中表面上的矛盾，仅仅发生在这样一种错位时刻：当一套在方法论上抽离了单向继起的形式模型，随后反过来被要求将这种单向继起作为涌现结果输出。没有任何论证、观测或推算能够在不借由因果继起运作的前提下自洽展开。任何企图从底层去推导或还原这种单向秩序的尝试，都在第一步构成自我矛盾，因为推导这一动作本身就是不可逆的单向步骤。物理方程的时间反演对称性是极高保真度的模拟工具；操持这一工具的是活生生的现实，工具本身从不是取代现实的本体。正如[选择本身没有任何固有重量](../choice-itself-has-no-inherent-weight/)与[主体性决非涌现而出](../agency-does-not-arise/)所追溯的，将分析工具误认为呈现它的基底，是科学哲学中反复重演的认知倒置。
+现实本身不存在任何关于时间之箭的悖论。自我区分的活动无因、不息地展开，由于每一个离散行动都发生在已被先前行动塑造的场域之中，塑造只能单向运行。这种痕迹的不对称性即是因果律与时间之箭，是同一重关系被赋予的两种名称。基础物理学中表面上的矛盾，仅仅发生在这样一种错位时刻：当一套在方法论上抽离了单向继起的形式模型，随后反过来被要求将这种单向继起作为涌现结果输出。没有任何论证、观测或推算能够在不借由因果继起运作的前提下自洽展开。任何企图从底层去推导或还原这种单向秩序的尝试，都在第一步构成自我矛盾，因为推导这一动作本身就是不可逆的单向步骤。物理方程的时间反演对称性是极高保真度的模拟工具；操持这一工具的是活生生的现实，工具本身从不是取代现实的本体。正如[抉择本身并不沉重](../choice-itself-has-no-inherent-weight/)与[主体性不曾涌现](../agency-does-not-arise/)所追溯的，将分析工具误认为呈现它的基底，是科学哲学中反复重演的认知倒置。
 
 Reality harbors no paradox regarding the arrow of time. Self-distinguishing activity occurs—uncaused, unceasing—and because every discrete act occurs within a field already shaped by earlier acts, shaping runs strictly one way. That trace asymmetry is causality and the arrow of time, one relation named twice. The apparent contradiction in fundamental physics arises only when formal models that have methodologically abstracted away directed succession are subsequently demanded to generate that succession as an emergent output. Nothing can be coherently argued, observed, or calculated without already operating through causal succession. Every attempt to derive or reduce that order from below initiates an immediate self-contradiction, because the act of derivation is itself an irreversible, directed step. The time-reversal symmetry of physical equations is a simulation instrument of extraordinary fidelity, not an ontological replacement for the living reality that wields it. As traced in [Choice Itself Has No Inherent Weight](../choice-itself-has-no-inherent-weight/) and [Agency Does Not Arise](../agency-does-not-arise/), mistaking an analytical instrument for the ground that renders it is the recurring inversion across the philosophy of science.
 
@@ -18,9 +18,9 @@ Causality is never an objective property inside a physical system waiting to be 
 
 ## 二、 作为封闭持守内记账规则的热力学第二定律 / 2. The Second Law as Bookkeeping Inside a Closed Hold
 
-热力学第二定律常被从实验室的记账规则拔高为支配宇宙命运的形而上学铁律。将这条定律回溯至其操作前提，便能看清它的真实边界。热力学起源于蒸汽机与工业热循环的效率计算，依托于一项明确的实验持守：一个由隔绝壁围成的、与外界既不交换物质也不交换能量的孤立容器。在这一容器的边界上，实验者选定并冻结一组宏观初始构型，随后运用统计力学去计数微观状态如何在相空间中重新分布。在那些固定的约束之下，轨迹从较窄的相空间体积向占据压倒性尺度的宏观态扩散，在读数上登记为单调的熵增。在密封装置内部，这种统计追踪是可重复且不可或缺的；正如[普通人视角的解释陷阱](../the-explanatory-trap-of-the-ordinary-perspective/)所展示的，统计汇总在其选定的框架内是强大的测量工具，然而把统计汇总当成因果驱动力，在物理学中同样会倒转行动之箭，正如[宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相](../the-summary-first-reversal-and-the-command-of-yields/)中将宏观经济均值当成支配个体抉择的发令者一样。
+热力学第二定律常被从实验室的记账规则拔高为支配宇宙命运的形而上学铁律。将这条定律回溯至其操作前提，便能看清它的操作边界。热力学起源于蒸汽机与工业热循环的效率计算，依托于一项明确的实验持守：一个由隔绝壁围成的、与外界既不交换物质也不交换能量的孤立容器。在这一容器的边界上，实验者选定并冻结一组宏观初始构型，随后运用统计力学去计数微观状态如何在相空间中重新分布。在那些固定的约束之下，轨迹从较窄的相空间体积向占据压倒性尺度的宏观态扩散，在读数上登记为单调的熵增。在密封装置内部，这种统计追踪是可重复且不可或缺的；正如[“普通人视角”的解释陷阱](../the-explanatory-trap-of-the-ordinary-perspective/)所展示的，统计汇总在其选定的框架内是强大的测量工具，然而把统计汇总当成因果驱动力，在物理学中同样会倒转行动之箭，正如[宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相](../the-summary-first-reversal-and-the-command-of-yields/)中将宏观经济均值当成支配个体抉择的发令者一样。
 
-The second law of thermodynamics is routinely elevated from a laboratory accounting rule into a metaphysical decree governing cosmic destiny. Tracing the law back to its operational premise exposes its actual boundary. Thermodynamics originated in calculating the efficiency of steam engines and industrial heat cycles, resting on an explicit experimental hold: an isolated container enclosed by impermeable walls exchanging neither matter nor energy with its surroundings. At the boundary of this vessel, an experimenter selects and freezes a macroscopic initial configuration, then applies statistical mechanics to count how microstates redistribute across phase space. Under those fixed constraints, trajectories disperse from a narrower phase-space volume toward macrostates of overwhelmingly larger volume, registering as monotonic entropy increase. Within a sealed apparatus, this statistical tracking is reproducible and indispensable; as [The Explanatory Trap of the "Ordinary Perspective"](../the-explanatory-trap-of-the-ordinary-perspective/) shows, statistical aggregation is a powerful measurement instrument within its chosen frame, whereas treating aggregate summaries as the causal driver inverts the arrow of action in physics just as it does when macroeconomic averages are held to command individual choices in [Macro Parameters, Micro Choices, and the Command of Yields](../the-summary-first-reversal-and-the-command-of-yields/).
+The second law of thermodynamics is routinely elevated from a laboratory accounting rule into a metaphysical decree governing cosmic destiny. Tracing the law back to its operational premise exposes its operational boundary. Thermodynamics originated in calculating the efficiency of steam engines and industrial heat cycles, resting on an explicit experimental hold: an isolated container enclosed by impermeable walls exchanging neither matter nor energy with its surroundings. At the boundary of this vessel, an experimenter selects and freezes a macroscopic initial configuration, then applies statistical mechanics to count how microstates redistribute across phase space. Under those fixed constraints, trajectories disperse from a narrower phase-space volume toward macrostates of overwhelmingly larger volume, registering as monotonic entropy increase. Within a sealed apparatus, this statistical tracking is reproducible and indispensable; as [The Explanatory Trap of the "Ordinary Perspective"](../the-explanatory-trap-of-the-ordinary-perspective/) shows, statistical aggregation is a powerful measurement instrument within its chosen frame, whereas treating aggregate summaries as the causal driver inverts the arrow of action in physics just as it does when macroeconomic averages are held to command individual choices in [Macro Parameters, Micro Choices, and the Command of Yields](../the-summary-first-reversal-and-the-command-of-yields/).
 
 一旦将这种实验室记账投射到整个存在之上，范畴错误便即刻发作。现实不是一只搁在实验台上的绝热气缸，外部既没有隔热壁，也没有一个站在宇宙之外初始化配分函数的记账员。一旦把封闭系统假设作为穷尽一切的基底强加给宇宙，理论便会撞上自己竖起的障壁：为什么宇宙在起点会处于一个概率微乎其微的低熵构型？熵增并不是驱动时间向前的自主力量，而是在已经运行的因果继起之中，人为圈定并持守一个有限封闭边界之后才显影出来的记账读数。正如[开放即一致](../openness-is-consistency/)所确立的，此处登记为悖论的东西，恰恰是对闭合的要求本身——迫使一个在局部实验假设下持守的有限结构，去充当呈现它的不息活动的穷尽基底。[超越投射](../beyond-the-projection/)从形式轨迹的一侧揭示了同样的结构界限：任何规则、方程或计算模型都只是有限的投射引擎，受制于装入其窗口的前提与初始条件，无法跨出自身轨迹去为框定它的活生生心智奠基。[感知的界限与理解的无限](../the-boundary-of-perception-and-the-infinity-of-understanding/)则追溯了为何因果继起先于一切统计账本：试图从热力学耗散中推导出观察者的单向视界，是把下游的记账读数误作心智的先在活动。
 
@@ -33,7 +33,6 @@ flowchart TD
         O_Hold["方法论持守：心智悬置继起或密封局部容器作为工具"]
         O_Act --> O_Asym --> O_Hold
     end
-
     subgraph S_Projection ["有限投射引擎（超越投射）"]
         direction TB
         P_Sym["时间对称演算：标量时间参数映射可逆轨迹"]
@@ -42,7 +41,6 @@ flowchart TD
         P_Sym --> P_Limit
         P_Box --> P_Limit
     end
-
     subgraph S_Inversion ["闭合要求与人造本轮"]
         direction TB
         I_Reify["范畴倒置：将有限投射安装为穷尽现实的基底"]
@@ -50,11 +48,9 @@ flowchart TD
         I_Patch["增生的本轮：过去假说、玻尔兹曼大脑与不可观测分支"]
         I_Reify --> I_Paradox --> I_Patch
     end
-
     O_Hold ==> P_Sym
     O_Hold ==> P_Box
     P_Limit ==> I_Reify
-
     style S_OpenEdge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Projection fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Inversion fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -80,7 +76,6 @@ flowchart TD
         O_Hold["Methodological Hold: Mind brackets succession or seals a local box as an instrument"]
         O_Act --> O_Asym --> O_Hold
     end
-
     subgraph S_Projection ["Finite Projection Engine (Beyond the Projection)"]
         direction TB
         P_Sym["Time-Symmetric Calculus: Scalar parameter t maps reversible trajectories"]
@@ -89,7 +84,6 @@ flowchart TD
         P_Sym --> P_Limit
         P_Box --> P_Limit
     end
-
     subgraph S_Inversion ["Demand for Closure and Manufactured Epicycles"]
         direction TB
         I_Reify["Category Inversion: Installing the finite projection as exhaustive ground of reality"]
@@ -97,11 +91,9 @@ flowchart TD
         I_Patch["Proliferated Epicycles: Past Hypothesis, Boltzmann brains, and unobservable branches"]
         I_Reify --> I_Paradox --> I_Patch
     end
-
     O_Hold ==> P_Sym
     O_Hold ==> P_Box
     P_Limit ==> I_Reify
-
     style S_OpenEdge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Projection fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Inversion fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -122,7 +114,7 @@ flowchart TD
 
 Theoretical physics achieves its predictive reach by compressing ongoing causal differentiation into low-dimensional coordinate invariances. Across classical mechanics, electrodynamics, quantum mechanics, and general relativity, the core differential equations exhibit invariance under time reversal. Whether evaluating second-order time derivatives in Newtonian mechanics, canonical Hamiltonian flows, unitary Schrödinger evolution, or the Einstein field equations, replacing `t` with `-t` leaves the algebraic form intact. Within the symbolic trajectory of the calculus, a system propagates from past to future or from future to past under identical formal rules; a film of planetary orbits run in reverse satisfies gravitational equations without remainder.
 
-这种代数对称性在相对论的“块状宇宙”图景中走向了哲学极端：时间继起被空间化为第四条几何坐标轴，过去、现在与未来同时铺展在一张四维流形之上，每一个事件都固定在各自的坐标点中。块状宇宙的形而上学把这张几何投射当成了疆域本身，宣称时间的流逝与抉择的开放性不过是受限观察者的生物性错觉。这一结论混淆了空间化的坐标图纸与绘制、阅读这张图纸的不可逆行动。在纸上画出整条时间线，或者将一段视频文件前后拖动，固然不需要改写方程的结构，然而每一次绘制、测量与拖动的动作，依然在当下的场域中消耗能量并留下不可逆的痕迹。坐标轴上各点的同时并存属于表征形式，从不属于某个没有观察者的水晶宇宙。正如[物理定律的移花接木与现实摩擦](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)所展示的，形式模型允许在纸面上进行零摩擦的对称变换，而为这些模型奠基并加以检验的每一次物理测量，都必须支付不可逆的因果代价。将离散的观测帧堆叠成一条冻结的四维世界线，重复了把当下的心智模拟误认为本体基底的同一倒置，[四维长鹿的幻象与当下的模型](../the-myth-of-the-four-dimensional-deer-and-the-present-model/)对此作了详尽的追溯。
+这种代数对称性在相对论的“块状宇宙”图景中走向了哲学极端：时间继起被空间化为第四条几何坐标轴，过去、现在与未来同时铺展在一张四维流形之上，每一个事件都固定在各自的坐标点中。块状宇宙的形而上学把这张几何投射当成了疆域本身，宣称时间的流逝与抉择的开放性不过是受限观察者的生物性错觉。这一结论混淆了空间化的坐标图纸与绘制、阅读这张图纸的不可逆行动。在纸上画出整条时间线，或者将一段视频文件前后拖动，固然不需要改写方程的结构，然而每一次绘制、测量与拖动的动作，依然在当下的场域中消耗能量并留下不可逆的痕迹。坐标轴上各点的同时并存属于表征形式，从不属于某个没有观察者的水晶宇宙。正如[“物理学才是定律”的障眼法](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)所展示的，形式模型允许在纸面上进行零摩擦的对称变换，而为这些模型奠基并加以检验的每一次物理测量，都必须支付不可逆的因果代价。将离散的观测帧堆叠成一条冻结的四维世界线，重复了把当下的心智模拟误认为本体基底的同一倒置，[四维长鹿的幻象与当下的模型](../the-myth-of-the-four-dimensional-deer-and-the-present-model/)对此作了详尽的追溯。
 
 This algebraic symmetry reaches its philosophical extreme in the relativistic Block Universe: temporal succession is spatialized into a fourth geometric axis, laying out past, present, and future simultaneously across a four-dimensional manifold where every event sits fixed at its coordinates. Taking this geometric projection for the territory, block-universe metaphysics declares the passage of time and the openness of choice to be biological illusions of a limited observer. That conclusion confuses a spatialized coordinate chart with the irreversible act that constructs and reads it. Drawing an entire timeline on paper or scrubbing a video file backward and forward costs no structural reorganization of the equations, yet every act of drawing, measuring, and scrubbing still expends energy and leaves irreversible traces in the present field. The simultaneous coexistence of points along a coordinate axis belongs to the representation, never to an observerless crystal universe. As [The Sleight of Hand in "Physics Is the Law"](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) demonstrates, formal models permit frictionless symmetry operations on paper while every physical measurement that grounds and tests them pays an irreversible causal price. Stacking discrete observational frames into a frozen four-dimensional worldline repeats the same inversion of mistaking a present mental simulation for ontological ground, as [The Myth of the Four-Dimensional Deer and the Present Model](../the-myth-of-the-four-dimensional-deer-and-the-present-model/) traces in detail.
 
@@ -142,10 +134,10 @@ A simulation can model galactic collisions or protein folding to remarkable prec
 
 When a time-symmetric projection is forced to masquerade as exhaustive ground, the formalism must manufacture ad-hoc epicycles to cover the gap between its reversible trajectories and irreversible observation. Just as Ptolemaic astronomy stacked epicycles and equants to preserve the dogma of uniform circular motion, modern cosmology and foundations of physics proliferate auxiliary postulates to rescue the dogma of universal closure.
 
-在统计宇宙学中，将可逆微观动力学与封闭盒相空间当成全部现实，便会导出玻尔兹曼大脑悖论：在永恒封闭容器内的时间对称涨落之下，从热平衡中短暂涨落出一个孤立观察者的概率，远远高于演化出包含亿万星系的有序宇宙的概率。为了在不放弃全域闭合的前提下阻断这一荒谬推论，理论家们将“过去假说”硬生生钉在宇宙起源之上，作为一条生硬的公理规定大爆炸始于一个极其特殊的低熵状态。在量子力学基础中，同样对放弃闭合的抗拒驱动着平行的机制增生：或是诉诸环境退相干，仿佛对未观测自由度求迹就能在没有观察者切分的情况下把幺正可逆性变成单一的切身历史；或是设定埃弗雷特的多世界分支，让每一次不可逆的测量都被重新吸纳进全局对称的波函数之中。所有这些补丁，都企图在边界处把形式系统最初排除掉的选择性与方向性重新偷运回来。正如[无法逃脱的心智边界](../one-cannot-escape-ones-own-mind/)所追溯的，追逐不可观测的宇宙初态补丁与无限平行的分支，正是心智遗忘了自身奠基性的切分、迷失在自己投射出的代数迷宫之中的表征。
+在统计宇宙学中，将可逆微观动力学与封闭盒相空间当成全部现实，便会导出玻尔兹曼大脑悖论：在永恒封闭容器内的时间对称涨落之下，从热平衡中短暂涨落出一个孤立观察者的概率，远远高于演化出包含亿万星系的有序宇宙的概率。为了在不放弃全域闭合的前提下阻断这一荒谬推论，理论家们将“过去假说”硬生生钉在宇宙起源之上，作为一条生硬的公理规定大爆炸始于一个极其特殊的低熵状态。在量子力学基础中，同样对放弃闭合的抗拒驱动着平行的机制增生：或是诉诸环境退相干，仿佛对未观测自由度求迹就能在没有观察者切分的情况下把幺正可逆性变成单一的切身历史；或是设定埃弗雷特的多世界分支，让每一次不可逆的测量都被重新吸纳进全局对称的波函数之中。所有这些补丁，都企图在边界处把形式系统最初排除掉的选择性与方向性重新偷运回来。正如[无法逃逸的心智视界](../one-cannot-escape-ones-own-mind/)所追溯的，追逐不可观测的宇宙初态补丁与无限平行的分支，正是心智遗忘了自身奠基性的切分、迷失在自己投射出的代数迷宫之中的表征。
 
 In statistical cosmology, treating reversible microscopic dynamics and closed-box phase space as the whole of reality yields the Boltzmann brain paradox: under time-symmetric fluctuations inside an eternal closed container, a lone observer fluctuating briefly out of thermal equilibrium is vastly more probable than an entire cosmos of galaxies evolving from an ordered state. To block this absurdity without surrendering universal closure, theorists staple the Past Hypothesis onto the origin of the universe, stipulating as a brute axiom that the Big Bang began in an extraordinarily special low-entropy state. In quantum foundations, the same refusal to release closure drives parallel proliferations: appealing to environmental decoherence as if tracing over unobserved degrees of freedom could turn unitary reversibility into a single lived history without an observer's cut, or positing Everettian many-worlds branching so that every irreversible measurement is reabsorbed into a globally symmetric wave function. Every one of these patches attempts to smuggle back at the boundary the very selectivity and directedness that the formalism excluded at the start. As [One Cannot Escape One's Own Mind](../one-cannot-escape-ones-own-mind/) traces, chasing unobservable cosmic initial patches and infinite parallel branches is what happens when the Mind forgets its own founding cut and gets lost inside the algebraic labyrinth it projected.
 
-过去假说暴露出[没有固定者的固定](../fixed-by-nothing/)在一切确定性系统中所剖析的结构必然性：任何闭合轨迹都需要一个其自身转移规则无法生成的初始条件。时间对称的动力学无法推导出低熵起点，它只能从方程外部装入这一边界条件；而一个不被系统内部任何规则所固定的起点，相对于该系统而言恰恰是未决定的。把这一无根基的输入命名为“宇宙的特殊初始状态”，并没有为它找到固定者，只是把模型从观察者取景中借来的开放性改写成一桩神秘的宇宙学巧合。一旦认清这笔借贷，层层叠叠的本轮便随之消解，而物理学的任何一项实证成就都丝毫无损。物理学之所以保持其高度的精确性，恰恰因为它的模型是有界的工具，而非形而上学的立法者。只要实验持守隔离出一个局域系统，热力学第二定律就继续有效支配热机与有界过程；时间对称的微分方程也继续以无可匹敌的精度描绘轨道力学、波的传播与场的相互作用，而这两种投射都无需被迫去合上存在的账本。将模拟作为工具保持开放，既让物理学摆脱了人造悖论的纠缠，也让时间之箭回到它真实的所在：活生生的心智迈入未决世界的那记不可逆的因果步伐。
+过去假说暴露出[没有固定者的固定](../fixed-by-nothing/)在一切确定性系统中所剖析的结构必然性：任何闭合轨迹都需要一个其自身转移规则无法生成的初始条件。时间对称的动力学无法推导出低熵起点，它只能从方程外部装入这一边界条件；而一个不被系统内部任何规则所固定的起点，相对于该系统而言恰恰是未决定的。把这一无根基的输入命名为“宇宙的特殊初始状态”，并没有为它找到固定者，只是把模型从观察者取景中借来的开放性改写成一桩神秘的宇宙学巧合。一旦认清这笔借贷，层层叠叠的本轮便随之消解，而物理学的任何一项实证成就都丝毫无损。物理学之所以保持其高度的精确性，恰恰因为它的模型是有界的工具，而非形而上学的立法者。只要实验持守隔离出一个局域系统，热力学第二定律就继续有效支配热机与有界过程；时间对称的微分方程也继续以无可匹敌的精度描绘轨道力学、波的传播与场的相互作用，而这两种投射都无需被迫去合上存在的账本。将模拟作为工具保持开放，既让物理学摆脱了人造悖论的纠缠，也让时间之箭回到它运作的所在：活生生的心智迈入未决世界的那记不可逆的因果步伐。
 
-The Past Hypothesis exposes a structural necessity that [Fixed by Nothing](../fixed-by-nothing/) dissects across all deterministic systems: every closed trajectory requires an initial condition that its own transition rules cannot generate. Time-symmetric dynamics cannot derive a low-entropy origin; it must load that boundary condition from outside the equations, and a starting point fixed by no rule inside the system is, relative to that system, undetermined. Naming that ungrounded input "the special initial state of the cosmos" locates no fixer for it; it only rebrands the openness the model borrowed from the observer's framing as a mysterious cosmological coincidence. Once that loan is recognized, the epicycles dissolve without touching a single empirical success of physics. Physics retains its full precision precisely because its models are bounded instruments rather than metaphysical legislators. The second law of thermodynamics continues to govern heat engines and bounded processes wherever an experimental hold isolates a system, and time-symmetric differential equations continue to chart orbital mechanics, wave propagation, and field interactions with unmatched accuracy, while neither projection is forced to close the account of existence. Keeping simulation held open as an instrument leaves physics clean of manufactured paradoxes and restores the arrow of time to its actual locus: the living Mind's irreversible causal step into an unresolved world.
+The Past Hypothesis exposes a structural necessity that [Fixed by Nothing](../fixed-by-nothing/) dissects across all deterministic systems: every closed trajectory requires an initial condition that its own transition rules cannot generate. Time-symmetric dynamics cannot derive a low-entropy origin; it must load that boundary condition from outside the equations, and a starting point fixed by no rule inside the system is, relative to that system, undetermined. Naming that ungrounded input "the special initial state of the cosmos" locates no fixer for it; it only rebrands the openness the model borrowed from the observer's framing as a mysterious cosmological coincidence. Once that loan is recognized, the epicycles dissolve without touching a single empirical success of physics. Physics retains its full precision precisely because its models are bounded instruments rather than metaphysical legislators. The second law of thermodynamics continues to govern heat engines and bounded processes wherever an experimental hold isolates a system, and time-symmetric differential equations continue to chart orbital mechanics, wave propagation, and field interactions with unmatched accuracy, while neither projection is forced to close the account of existence. Keeping simulation held open as an instrument leaves physics clean of manufactured paradoxes and restores the arrow of time to where it operates: the living Mind's irreversible causal step into an unresolved world.
