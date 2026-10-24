@@ -30,7 +30,6 @@ flowchart TD
     end
     B -.->|提供统计权重| C
     B ==>|本体化误判| E
-
     style S_FORM fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_RECORD fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_ILLUSION fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -59,7 +58,6 @@ flowchart TD
     end
     B -.->|Provides Statistical Weights| C
     B ==>|Ontological Misreading| E
-
     style S_FORM fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_RECORD fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_ILLUSION fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -105,7 +103,6 @@ flowchart TD
     B --> F
     C --> F
     D --> E
-
     style S_EXPERIMENT fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_COMPLETION fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_HALT fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -142,7 +139,6 @@ flowchart TD
     B --> F
     C --> F
     D --> E
-
     style S_EXPERIMENT fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_COMPLETION fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_HALT fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -181,7 +177,6 @@ flowchart TD
     B -.->|割点推移| D
     C -.->|割点后移| D
     D ==>|认识论澄清| E
-
     style S_CHAIN fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_INVARIANCE fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_HORIZON fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -192,7 +187,7 @@ flowchart TD
     style E fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-At any stage along the chain, a coherent deterministic narrative can be manufactured by reverse-engineering initial data. That such a story can be told at every placement adds nothing; what shows that no stage compels the record is that the Born weights stay the same wherever the cut is placed. Within unitary dynamics, that invariance means no stage of the chain generates the particular fact; it registers at an operational boundary and is retroactively projected as predetermined history. This exposes the step of treating models as cosmic legislation, echoing the critique in [The Sleight of Hand in "Physics Is the Law"](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/): formal laws are not commands governing things, but stabilized readings taken under boundary constraints.
+At any stage along the chain, an internally consistent deterministic narrative can be manufactured by reverse-engineering initial data. That such a story can be told at every placement adds nothing; what shows that no stage compels the record is that the Born weights stay the same wherever the cut is placed. Within unitary dynamics, that invariance means no stage of the chain generates the particular fact; it registers at an operational boundary and is retroactively projected as predetermined history. This exposes the step of treating models as cosmic legislation, echoing the critique in [The Sleight of Hand in "Physics Is the Law"](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/): formal laws are not commands governing things, but stabilized readings taken under boundary constraints.
 
 ```mermaid
 flowchart TD
@@ -213,7 +208,6 @@ flowchart TD
     B -.->|Cut Shifted| D
     C -.->|Cut Deferred| D
     D ==>|Epistemological Clarification| E
-
     style S_CHAIN fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_INVARIANCE fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_HORIZON fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
