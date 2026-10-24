@@ -74,7 +74,7 @@ Progress therefore remains a discontinuous affair. It is never the smooth unfold
 
 Every look finds the field open, its opportunity presenting itself again and again as new problems. No system can reach perfection, for perfection would presume a closed reality, and a closed reality cannot account for its own existence or origin. No finite hold seals the activity that continues past it. [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) traces that non-closure from its most intuitive face: a one-bit register under addition, where the operation is valid inside the hold and the true result lies outside it; models, institutions, identities, and plans held as closed meet the same remainder. [The Belief in Utopia Is the Path to Dystopia](../the-belief-in-utopia-is-the-path-to-dystopia/) traces the same freeze in the case of the good: a concrete ideal of the good, once elevated into the measure every Mind must accept, is dystopia for every Mind whose ends do not already match it, and residual non-identity scores as defect. [Openness Is Consistency](../openness-is-consistency/) names the adjacent restore: inconsistency is the desire, or attempt, for closure, a finite structure forced to ground what only continues. [Closed Assumptions Squeeze Compounding into S-Curves](../closed-assumptions-squeeze-compounding-into-s-curves/) traces the same open field in the case of industry curves: the logistic shape is the binding of a fixed frame, not the trajectory of progress under open reality.
 
-当先前的成就固化为共享的标准、明文的规则手册或自动化管线时，常规的运转——无论是优化固定指标的机构，还是在上下文窗口内执行的受限于轨迹的智能体——都在一个有限的投射之内运行。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，那些累积下来的工具、模型与制度脚手架，是作为一套外化的记忆代码库在运作：它们是先前区分层层堆叠而成的残余，保存着早先切口的形状，供后来的会话作为条件，却从不会自己重新开启或发起区分。而正如[超越投射](../beyond-the-projection/)与[开放即一致](../openness-is-consistency/)所一道追溯的，受限于轨迹的投射可以穷尽那个既定框架内的推演，却无法在相互竞争的要求于负载下相撞时跨出它自己的坐标空间。当现实的摩擦或不可化约的死锁暴露出坍缩投射的边界时，多面手的定向正是活的心智在现实的边缘行使自主的第一人称判断：认领回返的信号，向后退离破碎的持守，并在开放的场上重新切分前提，以发起下一个可行的构型。
+当先前的成就固化为共享的标准、明文的规则手册或自动化管线时，常规的运转——无论是优化固定指标的机构，还是在上下文窗口内执行的受限于轨迹的智能体——都在一个有限的投射之内运行。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，那些累积下来的工具、模型与制度脚手架，是作为一套外化的记忆代码库在运作：它们是先前区分层层堆叠而成的残余，保存着早先切口的形状，供后来的会话作为条件，却从不会自己重新开启或发起区分。而正如[超越投射](../beyond-the-projection/)与[开放即一致](../openness-is-consistency/)所一道追溯的，受限于轨迹的投射可以穷尽那个既定框架内的推演，却无法在相互竞争的要求于负载下相撞时跨出它自己的坐标空间。即便一项被吸收的解法附带了形式证明或自动化的验证通过，那道检验确立的也只是所继承规约与受信任基底之内的内部一致；把经过检验的基线当作信任的地基，便豁免了它的残余假设使其免于重新追溯——这正是[验证的倒置](../the-reversal-of-verification/)所追溯的倒置——并把经过验证的标准变成抵挡下一个解题者的封条。当负载下的摩擦或不可化约的死锁暴露出坍缩投射的边界时，多面手的定向正是活的心智在边缘行使自主的第一人称判断：认领回返的信号，向后退离破碎的持守，并在开放的场上重新切分前提，以发起下一个可行的构型。
 
 ```mermaid
 flowchart TD
@@ -85,18 +85,15 @@ flowchart TD
         C_Lag["图像滞后与抵抗：越出边界的摩擦被登记为威胁或扭曲"]
         C_Absorb --> C_Traj --> C_Lag
     end
-
     subgraph S_Open["开放之场上的多面手定向"]
         direction TB
-        O_Signal["边界显露：现实摩擦或死锁揭示投射的极限"]
+        O_Signal["边界显露：负载下的摩擦或死锁揭示投射的极限"]
         O_Step["超越投射：活的心智离开破碎的持守并切入正交维度"]
         O_Solve["临时多面手群体：在负载下区分出新的可行构型"]
         O_Signal --> O_Step --> O_Solve
     end
-
     C_Lag ==>|"摩擦越出封闭的持守"| O_Signal
     O_Solve -.->|"成功变密为下一道基线"| C_Absorb
-
     style S_Closed fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style C_Absorb fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -107,7 +104,7 @@ flowchart TD
     style O_Solve fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-When prior achievements harden into shared standards, explicit rulebooks, or automated pipelines, routine operation—whether by institutions optimizing a fixed metric or by trajectory-bound agents executing inside a context window—runs within a finite projection. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces, those accumulated tools, models, and institutional scaffolds operate as an externalized codebase of memory: stacked residue of prior distinctions that holds the shape of earlier cuts for later sessions to condition on, yet never resumes or initiates distinguishing on its own. And as [Beyond the Projection](../beyond-the-projection/) traces alongside [Openness Is Consistency](../openness-is-consistency/), a trajectory-bound projection can exhaustively work out the deductions of that given frame, yet it cannot step outside its own coordinate space when competing requirements collide under load. When real-world friction or an irreducible deadlock exposes the boundary of that collapsed projection, the utility orientation is the living Mind exercising sovereign first-person judgment at the edge of reality: claiming the returning signal, stepping backward out of the broken hold, and re-cutting the premise on an open field to initiate the next workable configuration.
+When prior achievements harden into shared standards, explicit rulebooks, or automated pipelines, routine operation—whether by institutions optimizing a fixed metric or by trajectory-bound agents executing inside a context window—runs within a finite projection. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces, those accumulated tools, models, and institutional scaffolds operate as an externalized codebase of memory: stacked residue of prior distinctions that holds the shape of earlier cuts for later sessions to condition on, yet never resumes or initiates distinguishing on its own. And as [Beyond the Projection](../beyond-the-projection/) traces alongside [Openness Is Consistency](../openness-is-consistency/), a trajectory-bound projection can exhaustively work out the deductions of that given frame, yet it cannot step outside its own coordinate space when competing requirements collide under load. Even when an absorbed solution arrives with a formal proof or an automated verification pass, that check establishes only internal consistency within the inherited specification and trusted base; taking the checked baseline as a ground of trust exempts its residual assumptions from re-tracing, the inversion [The Reversal of Verification](../the-reversal-of-verification/) traces, and turns the verified standard into a seal against the next solver. When friction under load or an irreducible deadlock exposes the boundary of that collapsed projection, the utility orientation is the living Mind exercising sovereign first-person judgment at the edge: claiming the returning signal, stepping backward out of the broken hold, and re-cutting the premise on an open field to initiate the next workable configuration.
 
 ```mermaid
 flowchart TD
@@ -118,18 +115,15 @@ flowchart TD
         C_Lag["Image Lag and Resistance: Friction past the boundary registers as threat or distortion"]
         C_Absorb --> C_Traj --> C_Lag
     end
-
     subgraph S_Open["The Utility Orientation on an Open Field"]
         direction TB
-        O_Signal["Boundary Exposed: Real-world friction or deadlock reveals the projection's limit"]
+        O_Signal["Boundary Exposed: Friction under load or deadlock reveals the projection's limit"]
         O_Step["Stepping Beyond the Projection: Living Mind leaves the broken hold for an orthogonal cut"]
         O_Solve["Temporary Utility Cohort: Distinguishes a new workable configuration under load"]
         O_Signal --> O_Step --> O_Solve
     end
-
     C_Lag ==>|"Friction exceeds the sealed hold"| O_Signal
     O_Solve -.->|"Success densifies into next baseline"| C_Absorb
-
     style S_Closed fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style C_Absorb fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -140,6 +134,6 @@ flowchart TD
     style O_Solve fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-新的多面手因此会不断出现，持续区分出可行的构型，并遇到那熟悉的依赖与抵抗的混合。其余的人会继续受益，把这次过渡计为威胁，后来又把那些临时解题者带入可行形式的世界，记作他们自己既定的地基。因果留在当下负载之下仍在区分的边缘上。多数是迟到的登记，不是发起的共同作者。被吸收的成就是残余，不是场一直是引擎的证明。[免费智能的幻觉](../the-illusion-of-free-intelligence/)在免费丰裕的情形里追溯了这份残余：流畅残余的丰裕，是智能仍在加速的反向信号，而不是心智的民主化。[现实扭曲力场颠倒了基线](../the-reality-distortion-field-inverts-the-baseline/)在共识基线的情形里追溯了这次吸收：被当作未受扰动之地基的大众一致，把被迫打开的口子记成那地基的暂时扭曲，直到平均再也无法否认它们。开放的场不会完结；它只是一再呈现下一个问题，而总有人，临时地，仍能解开它。
+新的多面手因此会不断出现，持续区分出可行的构型，并遇到那熟悉的依赖与抵抗的混合。其余的人会继续受益，把这次过渡计为威胁，后来又把那些临时解题者带入可行形式的世界，记作他们自己既定的地基。因果留在当下负载之下仍在区分的边缘上。多数是迟到的登记，不是发起的共同作者。被吸收的成就是残余，不是场一直是引擎的证明。[免费智能的幻觉](../the-illusion-of-free-intelligence/)在免费丰裕的情形里追溯了这份残余：流畅残余的丰裕，是智能仍在加速的反向信号，而不是心智的民主化。[现实扭曲力场颠倒了基线](../the-reality-distortion-field-inverts-the-baseline/)在共识基线的情形里追溯了这次吸收：被当作未受扰动之地基的大众内部一致，把被迫打开的口子记成那地基的暂时扭曲，直到平均再也无法否认它们。开放的场不会完结；它只是一再呈现下一个问题，而总有人，临时地，仍能解开它。
 
-New utility men will therefore keep appearing, keep distinguishing workable configurations, and meet the familiar mixture of dependence and resistance. Others will continue to benefit, to score the transition as threat, and later to credit the world those temporary solvers brought into workable form as their own given ground. Causality stays at the edge that still distinguishes under present load. The majority is delayed registration, not a co-author of initiation. The absorbed achievement is residue, not proof that the field had been the engine. [The Illusion of Free Intelligence](../the-illusion-of-free-intelligence/) traces that residue in the case of free abundance: abundant fluent residue is the inverse signal of intelligence still accelerating, not Mind democratized. [The Reality Distortion Field Inverts the Baseline](../the-reality-distortion-field-inverts-the-baseline/) traces that absorption in the case of the consensus baseline: mass coherence held as undisturbed ground scores forced openings as temporary warp of that ground, until the average can no longer deny them. The open field does not finish; it only keeps presenting the next problem that someone, temporarily, can still solve.
+New utility men will therefore keep appearing, keep distinguishing workable configurations, and meet the familiar mixture of dependence and resistance. Others will continue to benefit, to score the transition as threat, and later to credit the world those temporary solvers brought into workable form as their own given ground. Causality stays at the edge that still distinguishes under present load. The majority is delayed registration, not a co-author of initiation. The absorbed achievement is residue, not proof that the field had been the engine. [The Illusion of Free Intelligence](../the-illusion-of-free-intelligence/) traces that residue in the case of free abundance: abundant fluent residue is the inverse signal of intelligence still accelerating, not Mind democratized. [The Reality Distortion Field Inverts the Baseline](../the-reality-distortion-field-inverts-the-baseline/) traces that absorption in the case of the consensus baseline: the mass's internal consistency held as undisturbed ground scores forced openings as temporary warp of that ground, until the average can no longer deny them. The open field does not finish; it only keeps presenting the next problem that someone, temporarily, can still solve.

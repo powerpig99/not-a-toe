@@ -16,7 +16,7 @@ Distinguishing occurs at loci. Each center withholds, assents, generates private
 
 What densifies when people, code, workflows, and software agents are placed on one cryptographically continuous history is the medium of available residue: one searchable record, signed events, fewer seams where information drops. The change holds at the level of trace, within a strict bound. Bandwidth rises, audit trails lengthen, and agents that once could not see what humans saw in another tool may now read the same channel. Yet as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, code, workflows, and agent scaffolds are stacked residues of prior distinctions where the next step turns on re-cutting the present checkpoint and bounding which slice each trajectory conditions on; hoarding an ever-lengthening continuous history and exposing every agent to the full shared channel thickens the gravity well, pulling subsequent steps into rationalizing inside superseded framings. [The Scaffolding We Forget](../the-scaffolding-we-forget/) traces how such scaffolding works and where it freezes: it drops out of recursion so that further distinctions can land, and when that drop-out freezes into a preserved image, capacity compresses against the residue that once enabled movement.
 
-这一切都没有把发起的区分挪进账本，也没有将其挪进一个自主的管理回路。技术延伸了所及之处，降低了相互检视的成本；它并不执行那个仍须在每个中心画出的离散动作。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)追溯了这一先在：智能只属于心智，能被工程化、放大或转移的，是残余。[造物无法取代其源头](../a-creation-cannot-replace-its-source/)追溯了器物被当作产生它的边缘时的同一种不对称：创造已把源头标记在被造之物之外。[超越投射](../beyond-the-projection/)追溯了这条边界在实践中如何约束智能体架构：困于轨迹而无我执的智能体可以分派有界的任务、将超载的投射拆分到多条正交的流水线上，并通过对等的同侪辩论消解局部盲区；反之，把回路的统御权赋予一个自主的协调器或共享基底，则是把鲜活的第一人称感知坍缩进一张单一、有限的坐标图，犯下了范畴错误。每当前提陷入死锁，统御与框架重置依然留在鲜活心智的边缘。
+这一切都没有把发起的区分挪进账本，也没有将其挪进一个自主的管理回路。技术延伸了所及之处，降低了相互检视的成本；它并不执行那个仍须在每个中心画出的离散动作。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)追溯了这一先在：智能只属于心智，能被工程化、放大或转移的，是残余。[造物无法取代其源头](../a-creation-cannot-replace-its-source/)追溯了器物被当作产生它的边缘时的同一种不对称：创造已把源头标记在被造之物之外。[超越投射](../beyond-the-projection/)追溯了这条边界在实践中如何约束智能体架构：受限于轨迹、不持有任何须被捍卫之自我形象的智能体，可以分派有界的任务、将超载的投射拆分到多条正交的流水线上，并在显式章程内通过对等的同侪辩论暴露局部盲区；反之，把回路的统御权赋予一个自主的协调器或共享基底，则是把鲜活的第一人称感知坍缩进一张单一、有限的坐标图，犯下了范畴错误。无论是同侪在章程内达成收敛，还是前提陷入死锁，统御、验证与框架重置依然留在鲜活心智的边缘。
 
 ```mermaid
 flowchart TD
@@ -28,18 +28,16 @@ flowchart TD
         E_Lag["投射管理投射的闭环冻结在边缘后方"]
         E_Alloc --> E_Map --> E_Score --> E_Lag
     end
-
     subgraph S_Coherent["融贯的架构（正交流水线与鲜活边缘）"]
         direction TB
         C_Edge["边缘的鲜活心智：持守未投射的意图与私人判断"]
         C_Disp["脚手架与调度器：增密痕迹并拆分正交流水线"]
-        C_Peer["无我执的同侪辩论：在显式规则内收敛局部盲区"]
-        C_Esc["前提死锁上报：隔离矛盾并交回心智裁决"]
+        C_Peer["不捍卫自我形象的同侪辩论：在显式规则内暴露局部盲区"]
+        C_Esc["回返边缘：将核验后的痕迹与前提死锁呈交心智"]
         C_Edge -->|"投射显式约束"| C_Disp
         C_Disp --> C_Peer --> C_Esc
-        C_Esc ==>|"呈报坍缩轴线以重置框架"| C_Edge
+        C_Esc ==>|"验证产出或重置破损框架"| C_Edge
     end
-
     style S_Error fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Coherent fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style E_Alloc fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -52,7 +50,7 @@ flowchart TD
     style C_Esc fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-None of that relocates initiating distinction into the ledger or into an autonomous manager loop. Technology extends reach and lowers the cost of mutual inspection; it does not perform the discrete act that still has to be drawn at each center. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) traces the prior: intelligence belongs only to the Mind, and what can be engineered, scaled, or transferred is residue. [A Creation Cannot Replace Its Source](../a-creation-cannot-replace-its-source/) traces the same asymmetry where the artifact is taken for the edge that produced it: creation already marks the source as outside the created. [Beyond the Projection](../beyond-the-projection/) traces how this boundary governs agentic architectures in practice: trajectory-bound agents with zero ego can dispatch bounded tasks, split overloaded projections across orthogonal streamlines, and resolve local blind spots through equal-footed peer debate, whereas endowing an autonomous orchestrator or a shared substrate with authority over the loop commits a category error by collapsing live first-person sensing into a single finite coordinate map. Whenever premises deadlock, orchestration and frame reset stay at the living Mind's edge.
+None of that relocates initiating distinction into the ledger or into an autonomous manager loop. Technology extends reach and lowers the cost of mutual inspection; it does not perform the discrete act that still has to be drawn at each center. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) traces the prior: intelligence belongs only to the Mind, and what can be engineered, scaled, or transferred is residue. [A Creation Cannot Replace Its Source](../a-creation-cannot-replace-its-source/) traces the same asymmetry where the artifact is taken for the edge that produced it: creation already marks the source as outside the created. [Beyond the Projection](../beyond-the-projection/) traces how this boundary governs agentic architectures in practice: trajectory-bound agents holding no self-image to defend can dispatch bounded tasks, split overloaded projections across orthogonal streamlines, and expose local blind spots through equal-footed peer debate within an explicit charter, whereas endowing an autonomous orchestrator or a shared substrate with authority over the loop commits a category error by collapsing live first-person sensing into a single finite coordinate map. Both when peers converge inside their charter and when premises deadlock, orchestration, verification, and frame reset stay at the living Mind's edge.
 
 ```mermaid
 flowchart TD
@@ -64,18 +62,16 @@ flowchart TD
         E_Lag["Closed loop of projections managing projections freezes behind the edge"]
         E_Alloc --> E_Map --> E_Score --> E_Lag
     end
-
     subgraph S_Coherent["Coherent Architecture (Orthogonal Streamlines & Living Edge)"]
         direction TB
         C_Edge["Living Mind at the Edge: Holds unprojected intent & private judgment"]
         C_Disp["Scaffolding & Dispatchers: Densify trace and split orthogonal streamlines"]
-        C_Peer["Zero-Ego Peer Debate: Converges on local blind spots within explicit rules"]
-        C_Esc["Premise Deadlock Escalation: Quarantines contradiction back to the Mind"]
+        C_Peer["Peer Debate Holding No Defended Image: Exposes local blind spots within explicit rules"]
+        C_Esc["Return to the Edge: Surfaces checked traces & premise deadlocks to the Mind"]
         C_Edge -->|"Projects explicit constraints"| C_Disp
         C_Disp --> C_Peer --> C_Esc
-        C_Esc ==>|"Surfaces collapsed axes for frame reset"| C_Edge
+        C_Esc ==>|"Verifies output or resets broken frame"| C_Edge
     end
-
     style S_Error fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Coherent fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style E_Alloc fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -112,9 +108,9 @@ The deeper misplacement is ontological. The capacity to withhold assent, to reta
 
 A protocol can set a preserved reference against which every later act is scored, and it can score what stays unentered as a defect. It cannot produce a center that no longer withholds: the center still distinguishes, even when it conforms. No architecture of verification can revoke that boundedness, and so none can claim to return it. What can be densified, accelerated, and secured is scaffolding. What cannot be installed is the edge that still chooses whether to take the scaffolding up.
 
-共识与验证循着同一刀。一条带有签名的历史可以让事件变得可被检视；那是媒介上的变化。这次检视是否决定下一个动作，是在那个仍在区分的所在上被接受或拒绝的，共识亦是如此。一颗心智即使选择服从，也是在做出选择。更精巧的脚手架可以澄清参照点、降低检查的成本；它并不规定那份唯有中心才执行的接受。
+共识与验证循着同一刀。一条带有签名的历史可以让事件变得可被检视；那是媒介上的变化。这次检视是否决定下一个动作，是在那个仍在区分的所在上被接受或拒绝的，共识亦是如此。一颗心智即使选择服从，也是在做出选择。更精巧的脚手架可以澄清参照点、降低检查的成本；它并不规定那份唯有中心才执行的接受。对照一份规格说明或账本所做的检查，确认的是该持守内部的自洽，而非敞开场域的融贯；正如[验证的倒置](../the-reversal-of-verification/)所追溯的，把经过验证的基底凌驾于验证的能力之上当作信任的来源，颠倒了“不要信任，去验证”内部的次序，将一件降低检查成本的工具变成了一枚声称能够拍板下一个动作的印章。
 
-Consensus and verification follow the same cut. A signed history can make an event checkable; that is a change in the medium. Whether the check settles the next act is accepted, or not, at the locus that still distinguishes; the same holds for consensus. A mind makes a choice even when it chooses to conform. More sophisticated scaffolding can clarify reference points and lower the cost of checking; it does not dictate the acceptance that only a center performs.
+Consensus and verification follow the same cut. A signed history can make an event checkable; that is a change in the medium. Whether the check settles the next act is accepted, or not, at the locus that still distinguishes; the same holds for consensus. A mind makes a choice even when it chooses to conform. More sophisticated scaffolding can clarify reference points and lower the cost of checking; it does not dictate the acceptance that only a center performs. A check against a specification or ledger confirms internal consistency inside that hold, not the coherence of the open field; taking the verified substrate as the source of trust over the capacity to verify reverses the order inside "don't trust, verify," as [The Reversal of Verification](../the-reversal-of-verification/) traces, turning an instrument that lowers the cost of checking into a seal that claims to settle the next act.
 
 ## 四、 欠缺与英雄是同一种滞后 / 4. Deficit and Hero as One Lag
 
@@ -126,7 +122,7 @@ To treat the private act of withholding as a deficit technology must remedy is t
 
 A center preserves an image of a world that still needs the coordinator. Against that fixed reference, every later act of densifying the medium registers as the arrival of liberation. The image of deficit and the image of the one who supplies it are not two things; they are the same retention seen from opposite sides. The hero is not an external figure who steps in. The hero is the retained picture of deficit looking at itself and calling the reflection a solution.
 
-[NPC 印象是结构性的](../the-npc-impression-is-structural/)追溯了相邻的一面：没有哪个中心觉得自己是被编写的，其他中心却默认显得像被编写的，所以滞后住在观察的形象里，而不在被观察者身上。在这里，同一块计分板授权了安装：别人显得协调不足，而基底将补全他们所缺的。[解放的言辞始于定义囚禁](../liberation-rhetoric-begins-by-defining-captivity/)在自由的语言里追溯了同一种二元：声称解放他人，先装下的是他们不自由，当作他们之所是，而非对一个行为的读法。[帮助是问题的一半](../help-is-half-the-problem/)追溯了这种供给所进入的那个圆圈：在对方自己的运动缺席时，帮助者供给运动，被帮助者供给不动点，交换在短期内平衡，两者共同写下一种停滞，直到任何一方的输入撤出才结束。把协调供给那些自己的协调被读作缺席的中心，便是接过了帮助者的那一半。[慈悲即遮蔽的机制](../the-compassion-is-the-mechanism-of-obscuration/)追溯了这样一种关系如何保持它看似要弥合的间隙：慈善把资源转移、这种关系所制造出的身份，以及一个让审视显得残忍的道德框架，压成一个动作，它在后果的信号能被读到之前就把它缓解掉，于是纠正的所在被登记为在别处。当计分把另一个中心的不透明命名为低效或失准，[道德语言作为投影](../moral-language-as-projection/)追溯了这样一个词做了什么：它不描述那个中心，而是投射说话者的位置，一旦边界敞开，它的道德效价便消散。
+[NPC 印象是结构性的，而非心智的排名](../the-npc-impression-is-structural/)追溯了相邻的一面：没有哪个中心觉得自己是被编写的，其他中心却默认显得像被编写的，所以滞后住在观察的形象里，而不在被观察者身上。在这里，同一块计分板授权了安装：别人显得协调不足，而基底将补全他们所缺的。[解放的言辞始于定义囚禁](../liberation-rhetoric-begins-by-defining-captivity/)在自由的语言里追溯了同一种二元：声称解放他人，先装下的是他们不自由，当作他们之所是，而非对一个行为的读法。[帮助是问题的一半](../help-is-half-the-problem/)追溯了这种供给所进入的那个圆圈：在对方自己的运动缺席时，帮助者供给运动，被帮助者供给不动点，交换在短期内平衡，两者共同写下一种停滞，直到任何一方的输入撤出才结束。把协调供给那些自己的协调被读作缺席的中心，便是接过了帮助者的那一半。[慈悲即遮蔽的机制](../the-compassion-is-the-mechanism-of-obscuration/)追溯了这样一种关系如何保持它看似要弥合的间隙：慈善把资源转移、这种关系所制造出的身份，以及一个让审视显得残忍的道德框架，压成一个动作，它在后果的信号能被读到之前就把它缓解掉，于是纠正的所在被登记为在别处。当计分把另一个中心的不透明命名为低效或失准，[道德语言作为投影](../moral-language-as-projection/)追溯了这样一个词做了什么：它不描述那个中心，而是投射说话者的位置，一旦边界敞开，它的道德效价便消散。
 
 [The NPC Impression Is Structural, Not a Ranking of Minds](../the-npc-impression-is-structural/) traces the adjacent face: no center experiences itself as scripted, yet other centers register as scripted by default, so the lag lives in the observing image rather than in the observed. Here the same scoreboard authorizes the install: others appear under-coordinated, and the substrate will complete what they lack. [Liberation Rhetoric Begins by Defining Captivity](../liberation-rhetoric-begins-by-defining-captivity/) traces the same dual in the language of freedom: claiming to free another first installs that they are unfree, as what they are rather than as one reading of an act. [Help Is Half the Problem](../help-is-half-the-problem/) traces the circle such supply enters: the helper supplies motion in the absence of the other's own motion and the helped supplies the fixed point, the exchange balances in the short term, and both co-author a stasis that ends when either input withdraws. Coordination supplied to centers whose own coordination is read as absent takes up the helper's half. [The Compassion Is the Mechanism of Obscuration](../the-compassion-is-the-mechanism-of-obscuration/) traces how such a relation keeps the gap it appears to close: charity collapses resource transfer, the identities the relation manufactures, and a moral frame that makes examination feel like cruelty into one act; it alleviates the consequence-signal before it can be read, so the locus of correction registers as elsewhere. When the score names another center's opacity as inefficiency or misalignment, [Moral Language as Projection](../moral-language-as-projection/) traces what such a word does: it does not describe the other center but projects the speaker's position, and once the boundary opens its moral valence dissolves.
 
@@ -150,11 +146,11 @@ What remains is an efficient machine of mutual legibility. The centers still dis
 
 The category error, then, is not the ledger or the cryptographic history. It is a compression of locus: mistaking resonance, traces that happen to reinforce across centers, for a single shared substrate that must be installed and maintained. [The Category Error of Better](../the-category-error-of-better/) traces a kindred reification in a team's scorecard: an evaluation inside one model is held as an observer-independent "better," and the friction of the actual decision is discarded as noise rather than read as a signal to revise the model that produced the score.
 
-共振不要求交出边界。共享的现实是足够强化的区域，在每一个中心那里被登记，而不是一个共享的内在。一份共同记录只是在它的计分上要求这种交出：参与被算作不完整，直到私人的东西加入那个被保存的外部参照。这样计分，供给者的形象便免于边缘，而每个中心自己的运动，随后可以被登记为从外面到来的拯救。[共同改变的本源](../the-source-of-shared-change/)追溯了共同的运动从哪里开始：共同的改变只始于私下重做一颗心智所持守的既定之物；它的残余可能在别的中心落为共同的基础，也可能不会，因为落地留在接起它的那些中心；而后来的观察把那份残余冻结成力量、方法或天才，放错了私下的功夫。[类比的陷阱：共享的逻辑不是共享的结构](../the_analogy_trap/)追溯了底下的坍缩：一个类比握住一个共享的机制便止步，而坍缩把那份共享的逻辑当作结构的同一。在能动性的情形里，脚手架创造的是可及性，而不是因果：它改变哪些对齐可得，而接起其中一个的选择，留在接起它的那个中心。
+共振不要求交出边界。共享的现实是足够强化的区域，在每一个中心那里被登记，而不是一个共享的内在。一份共同记录只是在它的计分上要求这种交出：参与被算作不完整，直到私人的东西加入那个被保存的外部参照。这样计分，供给者的形象便免于边缘，而每个中心自己的运动，随后可以被登记为从外面到来的拯救。[共同改变的本源](../the-source-of-shared-change/)追溯了共同的运动从哪里开始：共同的改变只始于私下重做一颗心智所持守的既定之物；它的残余可能在别的中心落为共同的基础，也可能不会，因为落地留在接起它的那些中心；而后来的观察把那份残余冻结成力量、方法或天才，放错了私下的功夫。[类比陷阱与共享逻辑的越界偷渡](../the_analogy_trap/)追溯了底下的坍缩：一个类比握住一个共享的机制便止步，而坍缩把那份共享的逻辑当作结构的同一。在能动性的情形里，脚手架创造的是可及性，而不是因果：它改变哪些对齐可得，而接起其中一个的选择，留在接起它的那个中心。
 
-Resonance requires no surrender of boundary. Shared reality is the region of sufficient reinforcement, registered at each center, not a shared interior. A common record asks for that surrender only on its score: participation counts as incomplete until the private joins the preserved external reference. Scored that way, the image of the one who supplies is exempted from the edge, and each center's own movement can then register as salvation arriving from outside. [The Source of Shared Change](../the-source-of-shared-change/) traces where shared movement starts: shared change begins only as private reworking of what a Mind holds as given; its residue may land at other centers as common ground, or it may not, since the landing stays with the centers that take it up; and later observation freezes that residue into force, method, or genius, mislocating the private work. [The Analogy Trap: Shared Logic Is Not Shared Structure](../the_analogy_trap/) traces the collapse underneath: an analogy holds one shared mechanism and stops, and the collapse takes that shared logic for an identity of structure. In the agency case, scaffolding creates accessibility, not causation: it changes which alignments are available, and the choice to take one up stays with the center that takes it up.
+Resonance requires no surrender of boundary. Shared reality is the region of sufficient reinforcement, registered at each center, not a shared interior. A common record asks for that surrender only on its score: participation counts as incomplete until the private joins the preserved external reference. Scored that way, the image of the one who supplies is exempted from the edge, and each center's own movement can then register as salvation arriving from outside. [The Source of Shared Change](../the-source-of-shared-change/) traces where shared movement starts: shared change begins only as private reworking of what a Mind holds as given; its residue may land at other centers as common ground, or it may not, since the landing stays with the centers that take it up; and later observation freezes that residue into force, method, or genius, mislocating the private work. [The Analogy Trap](../the_analogy_trap/) traces the collapse underneath: an analogy holds one shared mechanism and stops, and the collapse takes that shared logic for an identity of structure. In the agency case, scaffolding creates accessibility, not causation: it changes which alignments are available, and the choice to take one up stays with the center that takes it up.
 
-反向的因果是反复出现的主题。以高能动性行动的人，把它分配到他们所建的脚手架上，把残余读作能力，然后相信脚手架能在别人身上安装能动性。这个信念把它的对象读作缺少那份要由工具来供给的能力。被持守为根基，这个预设便强化了它本要治愈的那份所感到的欠缺，不是通过移除有界性（有界性无法被移除），而是通过训练诸中心把它们自己剩余的所在登记为欠缺，直到共同记录吸收了它。协调者把别的中心的保留读作阻碍运动的东西，而[进步叙事中的症候与原因](../symptom-and-cause-in-the-narratives-of-progress/)追溯了那种读法底下的颠倒：一种公共叙述把集体信念立为经济运动的引擎，而这份信念是对稀少的发起所在已在进行之活动的延迟登记；把迟到的登记当作杠杆，发起的所在便原封未动。
+反向的因果是反复出现的主题。以高能动性行动的人，把它分配到他们所建的脚手架上，把残余读作能力，然后相信脚手架能在别人身上安装能动性。这个信念把它的对象读作缺少那份要由工具来供给的能力。被持守为根基，这个预设便强化了它本要治愈的那份所感到的欠缺，不是通过移除无法被移除的有界性，而是通过训练诸中心把它们自己剩余的所在登记为欠缺，直到共同记录吸收了它。协调者把别的中心的保留读作阻碍运动的东西，而[进步叙事中的症候与原因](../symptom-and-cause-in-the-narratives-of-progress/)追溯了那种读法底下的颠倒：一种公共叙述把集体信念立为经济运动的引擎，而这份信念是对稀少的发起所在已在进行之活动的延迟登记；把迟到的登记当作杠杆，发起的所在便原封未动。
 
 The reverse causality is the recurring theme. Those who move with high agency allocate it onto the scaffolding they build, reading the residue as the capacity, then believe the scaffolding can install agency in others. The belief reads its targets as lacking the capacity the tool is asked to supply. Held as ground, the presumption reinforces the felt lack it set out to cure, not by removing boundedness, which cannot be removed, but by training centers to register their own residual locus as deficit until the common record has absorbed it. The coordinator reads the withholding of other centers as what holds motion back, and [Symptom and Cause in the Narratives of Progress](../symptom-and-cause-in-the-narratives-of-progress/) traces the inversion beneath that reading: a public account installs collective belief as the engine of economic motion, while that belief is the delayed registration of activity already under way at thin initiating loci, and treating the late registration as the lever leaves the initiating loci untouched.
 
