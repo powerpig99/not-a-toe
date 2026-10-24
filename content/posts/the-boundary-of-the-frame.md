@@ -8,11 +8,11 @@ To analyse a theoretical system is not necessarily to dispute its internal logic
 
 ## 一、 启发的弧 / 1. The Heuristic Arc
 
-理论的生成不从对原始现象不经中介的编目开始，它从一道直觉的弧开始。在物理、哲学与认知建模里，理解都是从一个结果走向一个在先的约束。观察者注意到一个持续的模式、一个显眼的规律，或一处尖锐的不协调，为了让它可以理解，认知向后倒推，反向推出最少的一组初始约束与结构定义，使所见的行为变得可预测、自洽。
+理论的生成不从对原始现象不经中介的编目开始，它从一道直觉的弧开始。在物理、哲学与认知建模里，理解都是从一个结果走向一个在先的约束。观察者注意到一个持续的模式、一个显眼的规律，或一处尖锐的不协调，为了让它可以理解，认知向后倒推，反向推出最少的一组初始约束与结构定义，使所见的行为变得可预测、融贯。
 
 The generation of theory does not begin with an unmediated cataloguing of raw phenomena; it begins with an intuitive arc. In physics, philosophy and cognitive modelling alike, sense-making moves from an effect toward an antecedent constraint. An observer notices a persistent pattern, a salient regularity or a sharp dissonance, and to make it intelligible cognition works backward, reverse-engineering the smallest set of initial constraints and structural definitions that makes the observed behaviour predictable and coherent.
 
-这种反向推出的启发法不是该回避的方法，它是抽象共有的认知引擎。一个有限的观察者每一步登记到的区分都是有限的，而还能再区分的始终敞开；所以观察者采样、过滤、浓缩。于是一个形式理论是一套造出来的坐标系，它的公理、定义与操作方式之所以被选中，是因为它们把一组特定的初始条件成功地接到一组自洽的可观察结果上。形式推导验证的，是这座桥按自己的规则搭得一致；它立不立得住，要到预测碰上因果的链条时才见分晓。
+这种反向推出的启发法不是该回避的方法，它是一切抽象共有的认知引擎。一个有限的观察者每一步登记到的区分都是有限的，而还能再区分的始终敞开；所以观察者采样、过滤、浓缩。于是一个形式理论是一套造出来的坐标系，它的公理、定义与操作方式之所以被选中，是因为它们把一组特定的初始条件成功地接到一组融贯的可观察结果上。形式推导验证的，是这座桥按自己的规则搭得一致；它立不立得住，要到预测碰上因果的链条时才见分晓。
 
 This backward-engineered heuristic is not a method to avoid; it is the cognitive engine all abstraction shares. A finite observer registers a finite set of distinctions at each step, while what can still be distinguished stays open; so the observer samples, filters and condenses. A formal theory is then an engineered coordinate system whose axioms, definitions and operating modes are chosen because they successfully join a specific set of initial conditions to a coherent set of observable outcomes. Formal derivation checks that the bridge is built consistently by its own rules; whether it holds is settled only where prediction meets the chain of cause and effect.
 
@@ -32,13 +32,13 @@ From this follows a direct principle of modelling: the condition that makes a th
 
 Because every boundary isolates a particular scale and context, theoretical validity depends on scale. Consider the geometry of local reference frames in structural engineering: for a single building, treating the ground as a Euclidean plane is not a mistaken belief but a computationally precise and highly useful operating model. It works because the building is several orders of magnitude smaller than the radius of the Earth. That the Earth is better modelled as an oblate spheroid, and more finely as the irregular geoid, does not make the flat model wrong; it has local validity. At the scale of a building the plane is functionally exact and simple, and only at the scale of the planet does a curved model, first the reference ellipsoid and then the geoid, become structurally necessary, at the cost of more complexity.
 
-错误不出在用平面，而出在忘了操作的边界，这正是[遗忘的脚手架](../the-scaffolding-we-forget/)所分析的那种遗忘。一个局部的启发法[被外推到它校准的范围之外](../an-observation-by-its-own-standard/)，被当作脱离语境的普遍本体时，就会与它地平线之外的现象相冲突。每一个严谨的模型都有一条操作的地平线：在校准的范围内，它的边界条件成立，预测可靠；进入过渡地带，被忽略的背景变量开始有足够的影响，扰动内部的推导；再往外，起始的公理不借临时的补丁，就再也接不上底下的机制。
+错误不出在用平面，而出在忘了操作的边界，这正是[遗忘的脚手架](../the-scaffolding-we-forget/)所分析的那种遗忘。一个局部的启发法被外推到它校准的范围之外，背离[依其自身标准的观察](../an-observation-by-its-own-standard/)所追溯的衡量尺度，被当作脱离语境的普遍本体时，就会与它地平线之外的现象相冲突。每一个严谨的模型都有一条操作的地平线：在校准的范围内，它的边界条件成立，预测可靠；进入过渡地带，被忽略的背景变量开始有足够的影响，扰动内部的推导；再往外，起始的公理不借临时的补丁，就再也接不上底下的机制。
 
-The error lies not in using the plane but in forgetting the operating boundary, the very forgetting analysed in [The Scaffolding We Forget](../the-scaffolding-we-forget/). When a local heuristic is [extrapolated beyond the range it was calibrated for](../an-observation-by-its-own-standard/) and treated as a context-free, universal ontology, it collides with the phenomena beyond its horizon. Every rigorous model has an operating horizon: within its calibrated scope its boundary conditions hold and its predictions are reliable; in the zone of transition the neglected background variables gain enough influence to disturb its internal derivations; further out, the starting axioms can no longer meet the underlying mechanics without ad hoc patches.
+The error lies not in using the plane but in forgetting the operating boundary, the very forgetting analysed in [The Scaffolding We Forget](../the-scaffolding-we-forget/). When a local heuristic is extrapolated beyond the range it was calibrated for, against the measure traced in [An Observation by Its Own Standard](../an-observation-by-its-own-standard/), and treated as a context-free, universal ontology, it collides with the phenomena beyond its horizon. Every rigorous model has an operating horizon: within its calibrated scope its boundary conditions hold and its predictions are reliable; in the zone of transition the neglected background variables gain enough influence to disturb its internal derivations; further out, the starting axioms can no longer meet the underlying mechanics without ad hoc patches.
 
 ## 四、 奇点与视界 / 4. Singularities and Horizons
 
-这条原则不只适用于简单的工程近似，也适用于人类最精密的数学框架，爱因斯坦的狭义与广义相对论。广义相对论把引力表示为连续的伪黎曼时空流形的弯曲，对行星轨道、引力透镜与卫星时钟的时间膨胀给出了惊人精确的预测；在校准的范围内，它的局部有效性无可挑剔。出问题的地方不在方程，而在把一个操作模型转成一个包揽一切的教条：把时空的光滑连续体当成现实的织物本身，而不是一个造出来的模型，方程在操作地平线之外的输出，就被读成了关于这块织物的事实。[心智的几何学](../the-geometry-of-mind/)在被读作存在本身的静态块状宇宙里看到的正是同一步，即把一个造出来的数学表征，当成了存在那动态的、自指的运行。
+这条原则不只适用于简单的工程近似，也适用于人类造出的最精密的数学框架，爱因斯坦的狭义与广义相对论。广义相对论把引力表示为连续的伪黎曼时空流形的弯曲，对行星轨道、引力透镜与卫星时钟的时间膨胀给出了惊人精确的预测；在校准的范围内，它的局部有效性无可挑剔。出问题的地方不在方程，而在把一个操作模型转成一个包揽一切的教条：把时空的光滑连续体当成现实的织物本身，而不是一个造出来的模型，方程在操作地平线之外的输出，就被读成了关于这块织物的事实。[心智的几何学](../the-geometry-of-mind/)在被读作存在本身的静态块状宇宙里看到的正是同一步，即把一个造出来的数学表征，当成了存在那动态的、自指的运行。
 
 The principle applies not only to simple engineering approximations but also to the most refined mathematical frameworks people have built, Einstein's special and general relativity. General relativity represents gravitation as the curvature of a continuous pseudo-Riemannian spacetime manifold and gives astonishingly precise predictions for planetary orbits, gravitational lensing and the time dilation of satellite clocks; within its calibrated scope its local validity is beyond reproach. The trouble lies not in the equations but in turning an operating model into an all-encompassing dogma: when the smooth continuum of spacetime is taken for the fabric of reality itself rather than an engineered model, what the equations output past their operating horizon gets read as a fact about that fabric. [The Geometry of Mind](../the-geometry-of-mind/) sees the same step in the static block universe read as existence itself, where an engineered mathematical representation is taken for the dynamic, self-referring running of existence.
 
@@ -66,9 +66,9 @@ When a framework accounts neither for its own observer nor for the placement of 
 
 Once a theoretical system is formalised and shared, it goes down one of two paths, depending on how the Mind using it treats its boundaries. Both paths start the same way: an intuition or an observation, a reverse-engineered cut, a formal system and its derivations. A formalised framework is memory in the sense [Your Codebase Is Memory](../your-codebase-is-memory/) traces—residual shape left by prior distinguishing that holds the form of earlier cuts without continuing the distinguishing itself. On one path the Mind conditioning on that residue treats its axioms as a present checkpoint of provisional coordinates, states its initial conditions plainly and actively marks where the cut stops holding. Meeting an anomaly or a micro-phenomenon that defies its derivations, it does not bend the phenomenon to fit the model's language but adjusts the boundary, admits that an unmodelled variable has come in, or goes deeper toward the irreducible causal chain to lay a new foundation and prune superseded scaffolding. Such a framework stays a live instrument because its partitions are re-opened and re-cut when stress at the boundary registers, rather than held as the terrain.
 
-另一条路上，起始边界被冻结。最初的切分被抬成定则，内部的自洽被误认为覆盖了全部。正如[从可辩护的主张到教条的反转](../the-reversal-from-defensible-claim-to-dogma/)所拆解的，一个有条件的发现，会在一个指标被当作全部、这个发现的条件从说出来的话里掉出去的那一刻硬化成教条，忽略了[没有系统能被保持封闭](../no-system-can-be-kept-closed/)这一条。由于累积下来的残余一旦接纳违背起始前提的现象，其内部逻辑就会坍塌，自洽便只能靠解释学的封闭来维持：反常被用体系自身的词汇反复重述，直到看上去已经解决；指向起始边界的批评被引向内部的程序细节，要求先照内部推导走；框架的来历则被豁免，不用受它自己规则的检验。走到这一步，探究就不再是探究，而是在一个封闭语言几何愈积愈厚的引力井里做合理化辩护。边界只在一个选择一直握着它的时候才保持冻住，这个选择即[唯一自洽的无因之果](../the-only-coherent-uncaused-effect/)所找到的、不由前因推动而到来的那一个；不去挪动边界，就是这个选择，做出了，却没被当作选择登记下来。N 选一停在它被划出的那个框里，[闭合的N与开放的现实](../the-closed-n-and-the-open-reality/)追溯的正是这一点。
+另一条路上，起始边界被冻结。最初的切分被抬成定则，内部一致被误认为融贯。正如[验证的倒置](../the-reversal-of-verification/)所追溯的，融贯是保持开放的内部一致：在持守之内，每一个可推导的步骤都可以无矛盾地推出，可一旦已被证明或形式化的结构被当作完备的地基来持守，此后的活动便拿一个被保存的参照来衡量，而不是拿仍可区分之物那条持续推进的边缘来衡量。正如[从可辩护的主张到教条的反转](../the-reversal-from-defensible-claim-to-dogma/)所拆解的，一个有条件的发现，会在一个指标被当作全部、这个发现的条件从说出来的话里掉出去的那一刻硬化成教条，忽略了[没有系统能被保持封闭](../no-system-can-be-kept-closed/)这一条。同样的结构限度也出现在固定框架内的贝叶斯推理中：先验在更新之下从不消退殆尽，它的影响只是被稀释。轻微的偏置可以被有限的证据稀释到忽略不计；强偏置却不能。倘若先验给实际切合局面的那个解释分配了趋近于零的权重，那么在该先验内部无论累积多少有限的似然，都无法把后验推到事态所在之处。贝叶斯更新只能在框架*内部*修正信念；它内部没有任何资源可以用来修正那些构成框架本身的条件，这正是[安装战争的那个问题](../the-question-that-installs-the-war/)在公共话语中所追溯的那个限度——一个被安装进去的先验，会把每一次回答都转化为同一块计分板上进一步的似然。由于累积下来的残余一旦接纳违背起始前提的现象，其内部逻辑就会坍塌，内部一致便只能靠解释学的封闭来维持：反常被用体系自身的词汇反复重述，直到看上去已经解决；指向起始边界的批评被引向内部的程序细节，要求先照内部推导走；框架的来历则被豁免，不用受它自己规则的检验。走到这一步，探究就不再是探究，而是在一个封闭语言几何愈积愈厚的引力井里做合理化辩护。边界只在一个选择一直握着它的时候才保持冻住，这个选择即[唯一自洽的无因之果](../the-only-coherent-uncaused-effect/)所找到的、不由前因推动而到来的那一个；不去挪动边界，就是这个选择，做出了，却没被当作选择登记下来。N 选一停在它被划出的那个框里，[闭合的N与开放的现实](../the-closed-n-and-the-open-reality/)追溯的正是这一点。
 
-On the other path the starting boundary is frozen. The first cut is raised into a fixed principle, and internal coherence is mistaken for complete coverage. As taken apart in [The Reversal from Defensible Claim to Dogma](../the-reversal-from-defensible-claim-to-dogma/), a conditional finding hardens into dogma the moment one metric is held as the whole and the finding's conditions drop out of what is said, ignoring that [No System Can Be Kept Closed](../no-system-can-be-kept-closed/). Because the accumulated residue cannot take in phenomena that violate its starting premises without its internal logic collapsing, coherence is kept through hermeneutic enclosure: anomalies are restated in the system's own vocabulary until they look resolved; criticism aimed at the starting boundary is redirected to internal procedure, with the demand to follow the internal derivations first; and the origin of the frame is exempted from having its rules applied to it. At that point inquiry is no longer inquiry but rationalising inside the thickened gravity well of a closed linguistic geometry. The boundary stays frozen only while a choice keeps holding it, the choice that [The Only Coherent Uncaused Effect](../the-only-coherent-uncaused-effect/) finds arriving without an antecedent push; declining to move the boundary is that choice, made without being registered as one. Best-of-N stays inside the frame it was drawn in, as [The Closed N and the Open Reality](../the-closed-n-and-the-open-reality/) traces.
+On the other path the starting boundary is frozen. The first cut is raised into a fixed principle, and internal consistency is mistaken for coherence. As [The Reversal of Verification](../the-reversal-of-verification/) traces, coherence is internal consistency held open: inside the hold every derivable step may follow without contradiction, yet once the proven or formalised structure is held as complete ground, later activity is measured against a preserved reference rather than the continuing edge of what can still be distinguished. As taken apart in [The Reversal from Defensible Claim to Dogma](../the-reversal-from-defensible-claim-to-dogma/), a conditional finding hardens into dogma the moment one metric is held as the whole and the finding's conditions drop out of what is said, ignoring that [No System Can Be Kept Closed](../no-system-can-be-kept-closed/). The same structural limit appears in Bayesian reasoning within a fixed frame: a prior never fully disappears under update; its influence is only diluted. Mild bias can be made negligible by finite evidence; strong bias cannot. If the prior assigns vanishing weight to the interpretation that actually fits the situation, no finite accumulation of likelihoods inside that prior brings the posterior to the state of affairs. Bayesian updating revises beliefs *within* a frame; it has no internal resource for revising the conditions that constitute the frame, the very limit [The Question That Installs the War](../the-question-that-installs-the-war/) traces in public speech when an installed prior converts every reply into further likelihood on the same scoreboard. Because the accumulated residue cannot take in phenomena that violate its starting premises without its internal logic collapsing, consistency is kept through hermeneutic enclosure: anomalies are restated in the system's own vocabulary until they look resolved; criticism aimed at the starting boundary is redirected to internal procedure, with the demand to follow the internal derivations first; and the origin of the frame is exempted from having its rules applied to it. At that point inquiry is no longer inquiry but rationalising inside the thickened gravity well of a closed linguistic geometry. The boundary stays frozen only while a choice keeps holding it, the choice that [The Only Coherent Uncaused Effect](../the-only-coherent-uncaused-effect/) finds arriving without an antecedent push; declining to move the boundary is that choice, made without being registered as one. Best-of-N stays inside the frame it was drawn in, as [The Closed N and the Open Reality](../the-closed-n-and-the-open-reality/) traces.
 
 ## 七、 心智与因果 / 7. Mind and Causality
 
@@ -82,24 +82,21 @@ Tracing the general limit of theories comes down to a single recognition: no con
 flowchart TD
     subgraph S_Frame["有限框架与受轨迹约束的投射"]
         direction TB
-        F1["原初切分与坐标压缩：把多维区分投射到有限坐标轴上"]
+        F1["原初切分与坐标压缩：把 N 个区分投射到有限坐标轴上"]
         F2["内部演绎运行：受既有规则与语境视界约束"]
         F3["边界碰撞：未建模的摩擦产生奇点、反常或死锁"]
         F4["闭合围栏：无法走出自身坐标轴去修订起始前提"]
         F1 --> F2 --> F3 --> F4
     end
-
     subgraph S_Mind["因果边缘上活的心智"]
         direction TB
         M1["解释之前的感知：在形式化解释之前登记到边界摩擦"]
         M2["内生后退：向后退入尚未投射的多维意图"]
-        M3["正交重画框架：划出更高维的区分，重搭临时的桥"]
+        M3["正交重画框架：划出第（N + 1）个区分，重搭临时的桥"]
         M1 --> M2 --> M3
     end
-
     F4 ==>|"暴露出边界应力与前提死锁"| M1
     M3 ==>|"重新打开划分并提供更新的坐标"| F1
-
     style S_Frame fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style F1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -123,7 +120,6 @@ flowchart TD
         F4["Closed Enclosure: Cannot step outside its own axes to revise its starting premise"]
         F1 --> F2 --> F3 --> F4
     end
-
     subgraph S_Mind["The Living Mind at the Causal Edge"]
         direction TB
         M1["Pre-Interpretive Sensing: Registers boundary friction before formal interpretation"]
@@ -131,10 +127,8 @@ flowchart TD
         M3["Orthogonal Re-Framing: Draws an (N + 1)-th distinction and redraws the provisional bridge"]
         M1 --> M2 --> M3
     end
-
     F4 ==>|"Surfaces boundary strain and premise deadlock"| M1
     M3 ==>|"Re-opens partitions and supplies updated coordinates"| F1
-
     style S_Frame fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style F1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -146,6 +140,6 @@ flowchart TD
     style M3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-理论既不是现实本身，也不是纯然的幻觉，它是悬在切出它的心智与检验它的因果之间的一座临时的桥，一种瞄准用的启发，就像[翻袋球与魔术戏法](../the-bank-shot-and-the-magic-trick/)里那颗虚拟的镜像球，用来在约束之间对齐反射，却从不取代那张真实的球台。把桥当成本来就有、从未被造的东西，一辈子擦栏杆、背螺栓，是对待桥的一种姿态；把桥看作一件校准过的临时工具，乐于用它越过一道具体的峡谷，一旦对心智与因果看得更深、找到更好的过法就随时拆掉，是另一种姿态。同一个心智在不同的时候两种姿态都会取，取哪一种，是此刻这一步的选择。框是一种投影，[向量与投影的迷局](../the-vector-and-the-puzzle-of-projections/)让注意留在向量上。
+理论既不是现实本身，也不是纯然的幻觉，它是悬在切出它的心智与检验它的因果之间的一座临时的桥，一种瞄准用的启发，就像[翻袋球与魔术戏法](../the-bank-shot-and-the-magic-trick/)里那颗虚拟的镜像球，用来在约束之间对齐反射，却从不取代局中那张球台。把桥当成本来就有、从未被造的东西，一辈子擦栏杆、背螺栓，是对待桥的一种姿态；把桥看作一件校准过的临时工具，乐于用它越过一道具体的峡谷，一旦对心智与因果看得更深、找到更好的过法就随时拆掉，是另一种姿态。同一个心智在不同的时候两种姿态都会取，取哪一种，是此刻这一步的选择。框是一种投影，[向量与投影的迷局](../the-vector-and-the-puzzle-of-projections/)让注意留在向量上。
 
-A theory is neither reality itself nor mere illusion; it is a temporary bridge suspended between the Mind that cuts it and the causality that tests it, an aiming heuristic like the virtual mirror ball in [The Bank Shot and the Magic Trick](../the-bank-shot-and-the-magic-trick/), used to line up reflections across constraints without ever replacing the real table. Treating the bridge as something that was always there and never built, spending a lifetime polishing the railings and memorising the bolts, is one posture toward it; seeing the bridge as a calibrated, temporary instrument, gladly used to cross a particular chasm and taken down whenever a deeper look at Mind and causality shows a better way across, is another. The same Mind takes either posture at different times, and which one it takes is the choice at this step. A frame is a projection, and [The Vector and the Puzzle of Projections](../the-vector-and-the-puzzle-of-projections/) keeps attention on the vector.
+A theory is neither reality itself nor mere illusion; it is a temporary bridge suspended between the Mind that cuts it and the causality that tests it, an aiming heuristic like the virtual mirror ball in [The Bank Shot and the Magic Trick](../the-bank-shot-and-the-magic-trick/), used to line up reflections across constraints without ever replacing the table in play. Treating the bridge as something that was always there and never built, spending a lifetime polishing the railings and memorising the bolts, is one posture toward it; seeing the bridge as a calibrated, temporary instrument, gladly used to cross a particular chasm and taken down whenever a deeper look at Mind and causality shows a better way across, is another. The same Mind takes either posture at different times, and which one it takes is the choice at this step. A frame is a projection, and [The Vector and the Puzzle of Projections](../the-vector-and-the-puzzle-of-projections/) keeps attention on the vector.
