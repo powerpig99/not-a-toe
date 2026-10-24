@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-24T20:27:07.364Z",
+    "generated_at": "2026-10-24T22:05:56.782Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -32,7 +32,7 @@
       "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md": "b9fc43291727",
       "content/posts/causality-all-the-way.md": "08a8a20f59ec",
       "content/posts/causality-and-the-irreducible-prior.md": "45b9935862c0",
-      "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "315e72100b1f",
+      "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "3216bed66187",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "6705615f135b",
       "content/posts/cheng-gong-xue.md": "ac78a83205fd",
       "content/posts/choice-itself-has-no-inherent-weight.md": "61c4cff8bfbf",
@@ -145,7 +145,7 @@
       "content/posts/on-education.md": "99c1e2f8be6e",
       "content/posts/one-cannot-escape-ones-own-mind.md": "474dad0e12f2",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "b68e2cc6fd51",
-      "content/posts/only-if-it-is-not-kept-empty.md": "1d2b22dc949c",
+      "content/posts/only-if-it-is-not-kept-empty.md": "7dfb527c6b0e",
       "content/posts/ontos-is-a-method-agent.md": "fac9577215c2",
       "content/posts/open-vision-in-a-closed-arena.md": "98c32fc1001d",
       "content/posts/openness-is-consistency.md": "75ba5238a649",
@@ -192,7 +192,7 @@
       "content/posts/sowell-observed-the-surface-problem.md": "df9de9b7c1a0",
       "content/posts/stability-and-excess.md": "25b813029b34",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "48fed4ebc465",
-      "content/posts/subtracting-consciousness-at-the-source.md": "df1242fc6ba9",
+      "content/posts/subtracting-consciousness-at-the-source.md": "4a8be345f142",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "8246023f9355",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "463e396e6297",
       "content/posts/technology-is-residual-of-human-compounding.md": "1576031b77f7",
@@ -241,13 +241,13 @@
       "content/posts/the-dissolution-of-the-great-reversal.md": "afb2ae4a969c",
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "cf61f9e9c832",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "8141b07efa43",
-      "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "bf47c037daad",
+      "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "2bc09be901d9",
       "content/posts/the-extendable-horizon.md": "a74fd15380da",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "7915aadc533b",
       "content/posts/the-fallacy-of-post-success-parenting.md": "7f1aaf099f4f",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "bea3e8326963",
       "content/posts/the-fixed-image-of-transcendence.md": "582a2dc98e15",
-      "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "5b211b913d03",
+      "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "d3d47cfe2abd",
       "content/posts/the-flywheel-of-the-mind.md": "869ae350efe5",
       "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "ec15da6f1cf3",
       "content/posts/the-frame-that-conceals-improvement.md": "6fbcef6b9c4c",
@@ -299,7 +299,7 @@
       "content/posts/the-maintenance-paradox.md": "9f5f02a63d0f",
       "content/posts/the-map-after-the-territory.md": "7c4c6f4b27cf",
       "content/posts/the-mark-and-the-act.md": "c564f60f2ed7",
-      "content/posts/the-meaning-of-life-is-in-the-drafting.md": "71b2a3b0537b",
+      "content/posts/the-meaning-of-life-is-in-the-drafting.md": "92771062e024",
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "92606376f487",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "db7cf6705972",
       "content/posts/the-mirage-of-the-infinite-totality.md": "befa5078c345",
@@ -1232,7 +1232,7 @@
       "slug": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "path": "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md",
       "title": "因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere",
-      "hash": "315e72100b1f",
+      "hash": "3216bed66187",
       "in_degree": 19,
       "out_degree": 20,
       "links_out": [
@@ -4213,7 +4213,7 @@
       "slug": "only-if-it-is-not-kept-empty",
       "path": "content/posts/only-if-it-is-not-kept-empty.md",
       "title": "只要它不被保持为空 / Only If It Is Not Kept Empty",
-      "hash": "1d2b22dc949c",
+      "hash": "7dfb527c6b0e",
       "in_degree": 11,
       "out_degree": 13,
       "links_out": [
@@ -5521,7 +5521,7 @@
       "slug": "subtracting-consciousness-at-the-source",
       "path": "content/posts/subtracting-consciousness-at-the-source.md",
       "title": "集聚与人造主体性 / Collective and Artificial Subjectivity",
-      "hash": "df1242fc6ba9",
+      "hash": "4a8be345f142",
       "in_degree": 13,
       "out_degree": 14,
       "links_out": [
@@ -6805,7 +6805,7 @@
       "slug": "the-explanatory-trap-of-the-ordinary-perspective",
       "path": "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md",
       "title": "“普通人视角”的解释陷阱 / The Explanatory Trap of the \"Ordinary Perspective\"",
-      "hash": "bf47c037daad",
+      "hash": "2bc09be901d9",
       "in_degree": 17,
       "out_degree": 18,
       "links_out": [
@@ -6970,7 +6970,7 @@
       "slug": "the-flight-analogy-leaves-the-mind-untouched",
       "path": "content/posts/the-flight-analogy-leaves-the-mind-untouched.md",
       "title": "飞行的类比碰不到心智 / The Flight Analogy Leaves the Mind Untouched",
-      "hash": "5b211b913d03",
+      "hash": "d3d47cfe2abd",
       "in_degree": 12,
       "out_degree": 14,
       "links_out": [
@@ -8107,7 +8107,7 @@
       "slug": "the-meaning-of-life-is-in-the-drafting",
       "path": "content/posts/the-meaning-of-life-is-in-the-drafting.md",
       "title": "生命的意义在起草之中 / The Meaning of Life Is in the Drafting",
-      "hash": "71b2a3b0537b",
+      "hash": "92771062e024",
       "in_degree": 22,
       "out_degree": 24,
       "links_out": [
@@ -14994,7 +14994,7 @@
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "to": "dimensions-are-projections",
       "rel": "points_to",
-      "label": "维度皆为投影"
+      "label": "维度即投影"
     },
     {
       "from": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -34866,7 +34866,7 @@
       "from": "only-if-it-is-not-kept-empty",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, Consumption, and the Mind’s Distinction"
+      "label": "Production, Consumption, and the Mind's Distinction"
     },
     {
       "from": "only-if-it-is-not-kept-empty",
@@ -43950,7 +43950,7 @@
       "from": "subtracting-consciousness-at-the-source",
       "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "rel": "points_to",
-      "label": "Causality Is Irreducible; The Physical Is a View from Nowhere"
+      "label": "Causality is Irreducible; The Physical is a View from Nowhere"
     },
     {
       "from": "subtracting-consciousness-at-the-source",
@@ -51768,7 +51768,7 @@
       "from": "the-explanatory-trap-of-the-ordinary-perspective",
       "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
       "rel": "points_to",
-      "label": "笛卡尔的边界越界与造神狂热"
+      "label": "笛卡尔的认识论跃迁与造神狂热"
     },
     {
       "from": "the-explanatory-trap-of-the-ordinary-perspective",
@@ -51786,7 +51786,7 @@
       "from": "the-explanatory-trap-of-the-ordinary-perspective",
       "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
       "rel": "points_to",
-      "label": "The Cartesian Overstep and the Frenzy of Creation"
+      "label": "The Cartesian Epistemic Leap and the Frenzy of Creation"
     },
     {
       "from": "the-explanatory-trap-of-the-ordinary-perspective",
@@ -52872,13 +52872,13 @@
       "from": "the-flight-analogy-leaves-the-mind-untouched",
       "to": "the_analogy_trap",
       "rel": "points_to",
-      "label": "类比的陷阱：共享的逻辑不是共享的结构"
+      "label": "类比陷阱与共享逻辑的越界偷渡"
     },
     {
       "from": "the-flight-analogy-leaves-the-mind-untouched",
       "to": "the_analogy_trap",
       "rel": "points_to",
-      "label": "The Analogy Trap: Shared Logic Is Not Shared Structure"
+      "label": "The Analogy Trap"
     },
     {
       "from": "the-flight-analogy-leaves-the-mind-untouched",
@@ -59298,7 +59298,7 @@
       "from": "the-meaning-of-life-is-in-the-drafting",
       "to": "token-efficiency-emulation-and-the-unclosable-gap",
       "rel": "points_to",
-      "label": "词元效率、模拟与无法弥合的间隙"
+      "label": "Token 效率、模拟与无法弥合的间隙"
     },
     {
       "from": "the-meaning-of-life-is-in-the-drafting",

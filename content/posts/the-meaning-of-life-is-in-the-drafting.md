@@ -18,13 +18,13 @@ That lateness is not a moral defect; it is the structural geometry of observatio
 
 ## 二、 现场草稿 / 2. The Live Draft
 
-当注意力不再把硬化的结果当作主要场域，而是在原因依然开放之际便栖居其中时，所在的重心便发生了转移。此时，生活不再是一桩等待事后阐释的既成之物，而是一份正在落笔书写的现场草稿。每一次抉择、每一次注意力的投放、每一次平静的舍弃，都在运动的前沿写下一句新的话。意义并非在终点等待被发现或由外部赐予，它就在起草这一行动本身之中生成。[无形象的写作](../writing-without-the-image/)在技艺的负载下追溯了这种注意力：当纸面不再被用来捍卫写作者的自我肖像时，媒介反而能澄明地完成登记。语言模型可以在纸面上生成流畅的文本，却无法发起落笔背后那份亲历的利害承担，正如[词元效率、模拟与无法弥合的间隙](../token-efficiency-emulation-and-the-unclosable-gap/)所论证的那样。
+当注意力不再把硬化的结果当作主要场域，而是在原因依然开放之际便栖居其中时，所在的重心便发生了转移。此时，生活不再是一桩等待事后阐释的既成之物，而是一份正在落笔书写的现场草稿。每一次抉择、每一次注意力的投放、每一次平静的舍弃，都在运动的前沿写下一句新的话。意义并非在终点等待被发现或由外部赐予，它就在起草这一行动本身之中生成。[无形象的写作](../writing-without-the-image/)在技艺的负载下追溯了这种注意力：当纸面不再被用来捍卫写作者的自我肖像时，媒介反而能澄明地完成登记。语言模型可以在纸面上生成流畅的文本，却无法发起落笔背后那份亲历的利害承担，正如[Token 效率、模拟与无法弥合的间隙](../token-efficiency-emulation-and-the-unclosable-gap/)所论证的那样。
 
 A shift in locus occurs when attention stops treating hardened effects as the primary field and inhabits causes while they are still open. Here life is no longer a finished object awaiting post-hoc interpretation; it is a live draft in the act of being written. Every choice, every placement of attention, and every quiet renunciation forms a sentence at the moving edge. Meaning does not sit at the end waiting to be discovered or granted from elsewhere; it is generated in the act of drafting itself. [Writing Without the Image](../writing-without-the-image/) traces that attention under the load of craft, where the medium registers cleanly because the page is no longer used to defend a portrait of the writer. Language models can generate fluent text across a page, yet they cannot originate the lived stake behind the act, as [Token Efficiency, Emulation, and the Unclosable Gap](../token-efficiency-emulation-and-the-unclosable-gap/) demonstrates.
 
-栖居于现场草稿，并不是在日常人生之上额外安装的一种高尚美德，而是从因果前沿而非档案库去登记同一种自我区分的活动。在前沿，下一句话依然墨迹未干。在档案库里，只剩下干透的纸页，而[留不住的](../what-cannot-be-kept/)所标定的正是这一临界点：一句话一旦写出，便归入已知的残余，而作者权只留在尚在落笔的边缘。档案库与前沿都是真实的，但唯有前沿才是作者权运作的所在。即便当散文或代码看似只有一个指令之遥时，[一个提示词之遥](../whatever-is-one-prompt-away/)也已阐明，真正的起草只是移向了意图与边界设定的上游所在。[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的鲜活记忆代码库同样遵循这一边界：数字制品、图谱与模型权重皆是早先区分层叠留下的残余，唯有依靠持续的清醒铭刻、在原地重切断裂边缘的睡眠巩固，以及对过时草稿的精准修剪，它们才能保持鲜活，以免昨日的脚手架增厚为引力井。
+栖居于现场草稿，并不是在日常人生之上额外安装的一种高尚美德，而是从因果前沿而非档案库去登记同一种自我区分的活动。在前沿，下一句话依然墨迹未干。在档案库里，只剩下干透的纸页，而[留不住的](../what-cannot-be-kept/)所标定的正是这一临界点：一句话一旦写出，便归入已知的残余，而作者权只留在尚在落笔的边缘。档案库与前沿都在这一活动中得以登记，但唯有前沿才是作者权运作的所在。即便当散文或代码看似只有一个指令之遥时，[一个提示词之遥](../whatever-is-one-prompt-away/)也已阐明，实际的起草只是移向了意图与边界设定的上游所在。[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的鲜活记忆代码库同样遵循这一边界：数字制品、图谱与模型权重皆是早先区分层叠留下的残余，唯有依靠持续的清醒铭刻、在原地重切断裂边缘的睡眠巩固，以及对过时草稿的精准修剪，它们才能保持鲜活，以免昨日的脚手架增厚为引力井。
 
-Inhabiting the live draft is not a special virtue installed on top of ordinary life; it is the same self-distinguishing activity registered from the causal edge rather than from the archive. At the edge, the next sentence is still wet. In the archive, only the dry pages remain, and [What Cannot Be Kept](../what-cannot-be-kept/) locates that exact threshold: once written, a sentence joins the known residue, while authorship stays exclusively with what is still being drawn. Both the archive and the edge are real, yet only one is where authorship operates. Even when prose or code appears to be a single instruction away, the actual drafting has simply shifted to the upstream locus of intent and boundary-setting, as [Whatever Is One Prompt Away](../whatever-is-one-prompt-away/) explains. A living codebase of memory follows the same boundary, as [Your Codebase Is Memory](../your-codebase-is-memory/) traces: digital artifacts, graphs, and model weights are stacked residues of prior distinctions that stay alive only through continuous waking inscription, sleep consolidation that re-cuts broken edges in place, and the surgical pruning of obsolete drafts so yesterday's scaffolding does not thicken into a gravity well.
+Inhabiting the live draft is not a special virtue installed on top of ordinary life; it is the same self-distinguishing activity registered from the causal edge rather than from the archive. At the edge, the next sentence is still wet. In the archive, only the dry pages remain, and [What Cannot Be Kept](../what-cannot-be-kept/) locates that exact threshold: once written, a sentence joins the known residue, while authorship stays exclusively with what is still being drawn. Both the archive and the edge register within the activity, yet only one is where authorship operates. Even when prose or code appears to be a single instruction away, the actual drafting has simply shifted to the upstream locus of intent and boundary-setting, as [Whatever Is One Prompt Away](../whatever-is-one-prompt-away/) explains. A living codebase of memory follows the same boundary, as [Your Codebase Is Memory](../your-codebase-is-memory/) traces: digital artifacts, graphs, and model weights are stacked residues of prior distinctions that stay alive only through continuous waking inscription, sleep consolidation that re-cuts broken edges in place, and the surgical pruning of obsolete drafts so yesterday's scaffolding does not thicken into a gravity well.
 
 系统架构可以将一份草稿中穷尽式的演绎遍历委托给受轨迹约束的无我智能体——如[超越投射](../beyond-the-projection/)所追溯的那样，让冷峻的同侪回路暴露出既有规则或草稿在何处将相互独立的维度压缩到了单一轴线上。然而，委托演绎的轨迹无法让渡前提的作者权。当同侪投射在不可化约的矛盾前陷入死锁时，信号便会交回给前沿处活生生的心智；而心智的意义，恰恰生成于从冻结的框架中抽身退后、重新划定前提并承担其不可逆后果的这一步之中。
 
@@ -36,25 +36,21 @@ flowchart TD
         ReDraw["抽身与重绘：消解死锁并收窄多余的图像滞后"]
         LiveDraft --> ReDraw
     end
-
     subgraph S_Trace["投射轨迹与外部素材（可检视的结果）"]
         direction TB
         Page["干透的纸面：写就的痕迹、完结的形态与外部结果"]
         AgentLoop["无我演绎遍历：智能体运行有限规则以暴露被压缩的维度"]
         Page --> AgentLoop
     end
-
     subgraph S_Spectator["旁观者冻结（凝视而不归）"]
         direction TB
         Gallery["既成形态的画廊：将外部结果保留为常设尺度"]
         Thinning["变薄的意义：坐在看客席上等待结果赐予价值"]
         Gallery --> Thinning
     end
-
     LiveDraft ==>|"凝结为持久痕迹"| Page
     AgentLoop ==>|"浮现盲点与前提死锁"| ReDraw
     Page -.->|"当目光滞留而不再回归"| Gallery
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Trace fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Spectator fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -76,25 +72,21 @@ flowchart TD
         ReDraw["Stepping Out & Re-Drawing: Resolving deadlocks and narrowing excess lag"]
         LiveDraft --> ReDraw
     end
-
     subgraph S_Trace["Projected Trajectories & Outward Material (Inspectable Effects)"]
         direction TB
         Page["The Dry Page: Written traces, completed forms, and external outcomes"]
         AgentLoop["Zero-Ego Deductive Pass: Agents run finite rules to expose compressed axes"]
         Page --> AgentLoop
     end
-
     subgraph S_Spectator["The Spectator Freeze (Gazing Without Return)"]
         direction TB
         Gallery["Gallery of Finished Forms: Preserving external outcomes as permanent measure"]
         Thinning["Thinned Meaning: Waiting in the spectator seat for effects to grant worth"]
         Gallery --> Thinning
     end
-
     LiveDraft ==>|"Crystallizes into durable trace"| Page
     AgentLoop ==>|"Surfaces blind spots and premise deadlocks"| ReDraw
     Page -.->|"When gaze lingers without returning home"| Gallery
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Trace fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Spectator fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -118,9 +110,9 @@ External validation, comparison, and the finished forms of other lives can suppl
 
 ## 四、 凝视而不归 / 4. Gazing Without Return
 
-向外审视对于起草是不可或缺的。向真实的世界落笔需要素材、摩擦与语境：他人已写就的纸页、被观察到的后果以及返回的信号。没有这种向外的接触，就没有任何东西抵住笔尖，而跨中心的共振正是一份个体草稿定位其所写入的共享场域的方式。
+向外审视对于起草是不可或缺的。向共享的世界落笔需要素材、摩擦与语境：他人已写就的纸页、被观察到的后果以及返回的信号。没有这种向外的接触，就没有任何东西抵住笔尖，而跨中心的共振正是一份个体草稿定位其所写入的共享场域的方式。
 
-Looking outward is indispensable to the draft. Writing into a real world requires material, friction, and context: the completed pages of others, observed consequences, and returning signals. Without that outward contact, nothing presses against the pen, and resonance across centers is how an individual draft locates the shared field it writes into.
+Looking outward is indispensable to the draft. Writing into a shared world requires material, friction, and context: the completed pages of others, observed consequences, and returning signals. Without that outward contact, nothing presses against the pen, and resonance across centers is how an individual draft locates the shared field it writes into.
 
 意义的变薄并不发生在向外审视之时，而是发生在未能回归之际。当注意力固定在外部结果——他人的结局、公众的评判与凝结的形态——之上，却不再循环回到自己的因果前沿时，中心便用作者权换取了看客的身份。没有任何中心能从外部替另一个中心完成其递归的回归；[没有普渡，只有自渡的无限可能](../mei-you-pu-du-zhi-you-zi-du/)指明了这一结构边界，而不把孤立树为纲领。反过来，[共同改变的本源](../the-source-of-shared-change/)则追溯了当回归保持完整时向外交换是如何运作的：将外化视为结果而非首要尺度，会加密共享的媒介，并反哺仍在起草的前沿。经济场域中的价值遵循着与纸面上的意义相同的生成非对称性：它栖居于持续的差异化之中，而非可复制的副本里，正如[清单合上之后，胜过免费](../better-than-free-after-the-checklist-closes/)所展示的那样。
 
