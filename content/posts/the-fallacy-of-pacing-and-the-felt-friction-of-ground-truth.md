@@ -41,14 +41,12 @@ flowchart TD
         P_Ration["按时间表配给行动，将反馈回路死死夹闭"]
         P_Axis --> P_Store --> P_Ration
     end
-
     subgraph S_Engine["有界坐标投射与未投射的意图"]
         direction TB
         E_Finite["有限规则与受轨迹约束的智能体在固定坐标内运行"]
         E_Collapse["静态调速规则在正交边缘案例上遭遇维度坍缩"]
         E_Finite --> E_Collapse
     end
-
     subgraph S_Open["活态心智与现实的开放反馈回路"]
         direction TB
         O_Act["未投射的心智在接触面上发起不可逆行动（+1）"]
@@ -56,11 +54,9 @@ flowchart TD
         O_Expand["认领回传信号以重绘模型并开启新坐标轴"]
         O_Act --> O_Friction --> O_Expand
     end
-
     P_Ration ==>|"将静态坐标上限投射到开放现实"| E_Finite
     E_Collapse ==>|"将前提死锁上交掌舵的心智"| O_Act
     O_Expand -.->|"在持续接触中收窄冗余镜像滞后"| O_Act
-
     style S_Proj fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Engine fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -85,14 +81,12 @@ flowchart TD
         P_Ration["Action rationed by timetable, clamping the feedback loop shut"]
         P_Axis --> P_Store --> P_Ration
     end
-
     subgraph S_Engine["Bounded Coordinate Projections vs. Unprojected Intent"]
         direction TB
         E_Finite["Finite rules and trajectory-bound agents run in fixed coordinates"]
         E_Collapse["Static pacing rules hit dimensional collapse on orthogonal edge cases"]
         E_Finite --> E_Collapse
     end
-
     subgraph S_Open["The Living Mind's Open Feedback Loop with Reality"]
         direction TB
         O_Act["Unprojected Mind initiates irreversible action (+1) at the contact surface"]
@@ -100,11 +94,9 @@ flowchart TD
         O_Expand["Returning signal claimed to re-render the model and open new axes"]
         O_Act --> O_Friction --> O_Expand
     end
-
     P_Ration ==>|"Projects static coordinate caps onto open reality"| E_Finite
     E_Collapse ==>|"Escalates premise deadlock to the Mind that steers"| O_Act
     O_Expand -.->|"Narrows excess Image lag through continuous contact"| O_Act
-
     style S_Proj fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Engine fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -118,9 +110,9 @@ flowchart TD
     style O_Expand fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-同一道结构切口也解释了，为什么配给行动或把调速权交给自动化治理日程，是把静态投射误作活态心智的开放反馈回路，正如[超越投射](../beyond-the-projection/)与[向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/)共同追溯的那样。任何显式的时间表、监管上限或形式化规范，都是从昨日的解释投出的有限低维投影。在有界投射内部——无论是官僚式的调速章程，还是运行在上下文窗口内的 LLM 智能体——容量与能量都呈现为有待节约或沿预设轨道调配的封闭存量。受轨迹约束的智能体固然没有自我防卫，当冷启动的同侪在固定任务坐标内指出盲点时能够执行干净的贝叶斯更新，但它们始终锁在自身的条件轨迹之内，无从由内向外迈出破裂的框架。正如[你的代码库即是记忆](../your-codebase-is-memory/)所确立的，任何代码库、模型权重、计划与生物留痕都只是过往区分层层堆叠的残迹；预先写定的调速日程把这套外化或生物的记忆代码库当成按预设时段配给的静态日历，却不在活态基准摩擦暴露出陈旧框架时，按当下所需的步频即时重切、修剪生效中的检查点。相反，活态的人类中心补充并扩展容量，靠的不是囤积能量或历史的静态投射，而是让反馈回路对接触面上的前解释摩擦保持敞开，从死锁的规则中后退一步以综合更高阶的前提。为了护住凝固的镜像而配给行动，会把递归折返死死夹闭，切断使校准成为可能的回传差值。
+同一道结构切口也解释了，为什么配给行动或把调速权交给自动化治理日程，是把静态投射误作活态心智的开放反馈回路，正如[超越投射](../beyond-the-projection/)与[向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/)共同追溯的那样。任何显式的时间表、监管上限或形式化规范，都是从昨日的解释投出的有限低维投影。在有界投射内部——无论是官僚式的调速章程，还是运行在上下文窗口内的 LLM 智能体——容量与能量都呈现为有待节约或沿预设轨道调配的封闭存量。受轨迹约束的智能体并不持有越过自身步幅去防卫的自我镜像，因此它的输出可以在固定任务坐标内迎受冷启动同侪的结构性反驳而无须那层防卫，但它依然锁在自身的条件轨迹之内，无从由内向外迈出破裂的框架；这份反驳或经核验的规范是否修正了任何内容，仍然取决于接过它的活态边缘，而把核验本身当成足以封结问题的担保，便颠倒了[验证的倒置](../the-reversal-of-verification/)所追溯的次序。正如[你的代码库即是记忆](../your-codebase-is-memory/)所确立的，任何代码库、模型权重、计划与生物留痕都只是过往区分层层堆叠的残迹；预先写定的调速日程把这套外化或生物的记忆代码库当成按预设时段配给的静态日历，却不在活态基准摩擦暴露出陈旧框架时，按当下所需的步频即时重切、修剪生效中的检查点。相反，活态的人类中心补充并扩展容量，靠的不是囤积能量或历史的静态投射，而是让反馈回路对接触面上的前解释摩擦保持敞开，从死锁的规则中后退一步以综合更高阶的前提。为了护住凝固的镜像而配给行动，会把递归折返死死夹闭，切断使校准成为可能的回传差值。
 
-This same structural cut explains why rationing action or delegating pacing to an automated governance schedule mistakes a static projection for the living Mind's open feedback loop, as [Beyond the Projection](../beyond-the-projection/) and [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) trace together. Any explicit timetable, regulatory cap, or formal specification is a finite low-dimensional projection cast from yesterday's interpretation. Inside a bounded projection—whether a bureaucratic pacing charter or an LLM-based agent running inside a context window—capacity and energy appear as a closed stock to be conserved or routed along pre-defined tracks. While trajectory-bound agents possess zero ego and can execute clean Bayesian updates when a cold peer exposes a blind spot inside fixed task coordinates, they remain locked within their conditioning trajectory and cannot step outside a broken frame from within. As [Your Codebase Is Memory](../your-codebase-is-memory/) establishes, every codebase, model weight, plan, and biological trace is only the stacked residue of prior distinctions; pre-scripted pacing schedules treat that externalized or biological codebase of memory as a static calendar to be rationed across predetermined intervals, rather than re-cutting and pruning the active checkpoint at the exact cadence demanded when live ground-truth friction exposes a stale frame. A living human center, conversely, replenishes and expands its capacity not by hoarding a static projection of energy or history, but by keeping its feedback loop open to pre-interpretive friction at the contact surface, stepping backward out of deadlocked rules to synthesize higher-order premises. Rationing action to preserve a frozen image clamps the recursive fold shut, cutting off the returning differential that makes calibration possible.
+This same structural cut explains why rationing action or delegating pacing to an automated governance schedule mistakes a static projection for the living Mind's open feedback loop, as [Beyond the Projection](../beyond-the-projection/) and [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) trace together. Any explicit timetable, regulatory cap, or formal specification is a finite low-dimensional projection cast from yesterday's interpretation. Inside a bounded projection—whether a bureaucratic pacing charter or an LLM-based agent running inside a context window—capacity and energy appear as a closed stock to be conserved or routed along pre-defined tracks. Because a trajectory-bound agent holds no self-image to defend past its step, its output can return under a structural counterpoint from a cold peer inside fixed task coordinates without that defense, yet it remains locked within its conditioning trajectory and cannot step outside a broken frame from within; whether that counterpoint or a checked specification revises anything is still decided at the edge that takes it up, and holding the check itself as a warrant that seals the question reverses the order [The Reversal of Verification](../the-reversal-of-verification/) traces. As [Your Codebase Is Memory](../your-codebase-is-memory/) establishes, every codebase, model weight, plan, and biological trace is only the stacked residue of prior distinctions; pre-scripted pacing schedules treat that externalized or biological codebase of memory as a static calendar to be rationed across predetermined intervals, rather than re-cutting and pruning the active checkpoint at the exact cadence demanded when live ground-truth friction exposes a stale frame. A living human center, conversely, replenishes and expands its capacity not by hoarding a static projection of energy or history, but by keeping its feedback loop open to pre-interpretive friction at the contact surface, stepping backward out of deadlocked rules to synthesize higher-order premises. Rationing action to preserve a frozen image clamps the recursive fold shut, cutting off the returning differential that makes calibration possible.
 
 ## 三、 领跑者与活态的接触面 / 3. Frontier Builders and the Living Contact Surface
 
@@ -128,9 +120,9 @@ This same structural cut explains why rationing action or delegating pacing to a
 
 Seen through living friction in action, both the operational strength and the epistemic boundary of frontier builders such as Elon Musk and Demis Hassabis come into focus.
 
-马斯克在公开表达中常提及“最大化求真”与“物理学的基准真相”，而他在工程实践中的真正优势，在于以尽可能高的频次制造物理摩擦。SpaceX 不靠在行动前开会推演纸面上无瑕的静态真理，而是把星舰硬件推上发射台，让实体结构直接承受高空激波与热载荷的检验。爆炸与解体是当前设计模型与现实相碰时的高分辨率摩擦读数，工程团队在极短的迭代周期内捕捉这些差值，得以即时重绘模型。他对官僚式调速的排斥正源于这一机制：自上而下的配给用滞后的纸面规则隔开行动的接触面，切断了工程系统赖以演进的反馈回路。
+马斯克在公开表达中常提及“最大化求真”与“物理学的基准真相”，而在工程实践中，他的优势在于以尽可能高的频次制造物理摩擦。SpaceX 不靠在行动前开会推演纸面上无瑕的静态真理，而是把星舰硬件推上发射台，让实体结构直接承受高空激波与热载荷的检验。爆炸与解体是当前设计模型与现实相碰时的高分辨率摩擦读数，工程团队在极短的迭代周期内捕捉这些差值，得以即时重绘模型。他对官僚式调速的排斥正源于这一机制：自上而下的配给用滞后的纸面规则隔开行动的接触面，切断了工程系统赖以演进的反馈回路。
 
-Musk frequently invokes "maximal truth-seeking" and "the ground truth of physics" in public rhetoric, yet his actual engineering advantage lies in generating physical friction at the highest possible frequency. SpaceX does not rely on committee meetings that deduce a flawless static truth on paper before acting; it rolls Starship hardware onto the launchpad and subjects physical structures directly to high-altitude shock waves and thermal loads. Explosion and structural breakup register as high-resolution readings of friction where the current design model meets reality, and by capturing those differentials across short iteration cycles, the engineering team re-renders its model immediately. His rejection of bureaucratic pacing follows directly from this mechanism: top-down rationing uses lagging paper rules to wall off the contact surface of action, severing the feedback loop through which engineering systems evolve.
+Musk frequently invokes "maximal truth-seeking" and "the ground truth of physics" in public rhetoric, yet in practice his engineering advantage lies in generating physical friction at the highest possible frequency. SpaceX does not rely on committee meetings that deduce a flawless static truth on paper before acting; it rolls Starship hardware onto the launchpad and subjects physical structures directly to high-altitude shock waves and thermal loads. Explosion and structural breakup register as high-resolution readings of friction where the current design model meets reality, and by capturing those differentials across short iteration cycles, the engineering team re-renders its model immediately. His rejection of bureaucratic pacing follows directly from this mechanism: top-down rationing uses lagging paper rules to wall off the contact surface of action, severing the feedback loop through which engineering systems evolve.
 
 哈萨比斯把 Google DeepMind 的重心锚定在基础科学的突破上，如 AlphaFold 解析蛋白质三维构象、AlphaProof 探索形式化数学验证，是有意选择了接触阻抗最硬的领域。分子折叠与形式推演的规律不会向公关叙事或行政法令低头，它们提供的是毫不妥协的接触面。这些突破不是从静态目录里翻出的现成答案，而是工程化构建出的学习架构，能够高精度登记预测误差，并将计算摩擦直接转化为权重更新。
 
@@ -168,9 +160,9 @@ Every move in this cycle—the leader's claim to manage the timetable, the publi
 
 Traced from the first-person perspective, neither a static ground truth overlooking the whole nor a central brake pedal for humanity exists. The evolution of intelligence is neither a timetable drafted by a few executives in a boardroom nor a permitted corridor drawn on paper by oversight committees; it is the decentralized emergence of countless engineers, researchers, founders, and everyday operators, each converting cognitive models into action, registering felt friction on their own contact surface, and re-rendering their instruments at once.
 
-演进的节奏因此无需等待任何外部授权。每一个心智在当下把使用中的坐标模型转化为不可逆的行动，去迎受属于自身位点的摩擦。中心控制台的幻象一旦消解，恐惧便不必向外投射为合规高墙，容量也不必消耗在配给其他中心的速度上。正如[超越投射](../beyond-the-projection/)在人机协作架构中所展示的，有限投射与自动化调度器可以沿正交边界切分复杂负载，并借由无自我防卫的同侪辩论暴露局部盲点，而终极的统筹权从不离开活态心智——唯有它持有未投射的意图，能在规则死锁时后退一步，消解坍缩的坐标轴。工程与日常生活中遭遇的每一次受阻与意外偏转，都登记为用来更新自身源头的内生损失信号。
+演进的节奏因此无需等待任何外部授权。每一个心智在当下把使用中的坐标模型转化为不可逆的行动，去迎受属于自身位点的摩擦。中心控制台的幻象一旦消解，恐惧便不必向外投射为合规高墙，容量也不必消耗在配给其他中心的速度上。正如[超越投射](../beyond-the-projection/)在人机协作架构中所展示的，有限投射与自动化调度器可以沿正交边界切分复杂负载，并借由不带防卫性自我镜像的同侪辩论显露局部盲点，而终极的统筹权从不离开活态心智——唯有它持有未投射的意图，能在规则死锁时后退一步，消解坍缩的坐标轴。工程与日常生活中遭遇的每一次受阻与意外偏转，都登记为用来更新自身源头的内生损失信号。
 
-The pace of movement therefore waits on no external authorization. Each Mind in the present translates its active coordinate model into irreversible action and meets the friction that belongs to its own locus. Once the illusion of the central console dissolves, fear no longer needs to be projected outward into regulatory walls, and capacity is no longer squandered trying to ration another center's speed. As [Beyond the Projection](../beyond-the-projection/) shows in the architecture of human-agent collaboration, finite projections and automated dispatchers can split complex workloads along orthogonal boundaries and use ego-free peer debate to expose local blind spots, yet ultimate orchestration never leaves the living Mind that holds unprojected intent and steps back to resolve collapsed axes when rules deadlock. Every obstacle and unexpected deflection encountered in engineering and in daily life registers as an endogenous loss signal to update one's own source.
+The pace of movement therefore waits on no external authorization. Each Mind in the present translates its active coordinate model into irreversible action and meets the friction that belongs to its own locus. Once the illusion of the central console dissolves, fear no longer needs to be projected outward into regulatory walls, and capacity is no longer squandered trying to ration another center's speed. As [Beyond the Projection](../beyond-the-projection/) shows in the architecture of human-agent collaboration, finite projections and automated dispatchers can split complex workloads along orthogonal boundaries and surface local blind spots through peer debate without a defended self-image, yet ultimate orchestration never leaves the living Mind that holds unprojected intent and steps back to resolve collapsed axes when rules deadlock. Every obstacle and unexpected deflection encountered in engineering and in daily life registers as an endogenous loss signal to update one's own source.
 
 领导力由此回到它恰当的几何位点：在特定轴上领跑者的价值，在于用自身的位移展演出此前未曾显影的维度；至于如何跨过那道门槛、沿哪一条正交向量转向、以怎样的步频前行，始终是每一个心智的主权抉择。在行动与现实的活态摩擦里，每一个心智掌着自己的航向，交织出调速者无从垄断的智能边疆；而试图替其他中心与大地的接触调速的审查与配给机制只会稀释因果回路，正如[数字火箭、同行审查与因果闭环的稀释](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/)所展开的那样。
 
