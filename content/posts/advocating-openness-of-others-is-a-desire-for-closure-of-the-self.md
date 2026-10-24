@@ -89,7 +89,6 @@ flowchart TD
         P_Seal["豁免的前提：自身选择对摩擦封闭，同时纠察他人的持守"]
         P_Fuse --> P_Costume --> P_Seal
     end
-
     subgraph S_Open["掌舵边缘的第一人称一致性"]
         direction TB
         O_Strip["剥净的机制：围绕触及与控制的有中介残余释放"]
@@ -97,9 +96,7 @@ flowchart TD
         O_Render["后退一步：在活的边缘重新渲染前提并重切当下的检查点"]
         O_Strip --> O_Peer --> O_Render
     end
-
     P_Seal ==>|"看见并放下双重外衣"| O_Strip
-
     style S_Proj fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style P_Fuse fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -121,7 +118,6 @@ flowchart TD
         P_Seal["Exempted Premise: Own selection sealed against friction while policing others' holds"]
         P_Fuse --> P_Costume --> P_Seal
     end
-
     subgraph S_Open["First-Person Consistency at the Steering Edge"]
         direction TB
         O_Strip["Stripped Mechanism: Mediated release of residue turning on reach and control"]
@@ -129,9 +125,7 @@ flowchart TD
         O_Render["Stepping Backward: Re-rendering premises and re-cutting the present checkpoint at the living edge"]
         O_Strip --> O_Peer --> O_Render
     end
-
     P_Seal ==>|"Seeing and releasing the double costume"| O_Strip
-
     style S_Proj fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style P_Fuse fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -156,6 +150,6 @@ Every center maintains a set of boundaries, and so does every model, laboratory,
 
 This does not make closure good or openness bad. It refuses to let moral vocabulary prejudge the question—neither through the outward costume that makes others’ release desirable, nor through the inward costume that makes this locus’s withholding desirable. The questions that remain are technical and strategic: which representations can be released to build resonance or coordination capacity without surrendering control or scarce advantage; which transfers of access produce a net gain in capacity or resonance; and which transfers merely hand over leverage. Those questions can be asked only after both layers of packaging are stripped away.
 
-剥去语言并不去除边界。它把问题恢复到原本的大小：一组关于有中介的取用的具体决定，其依据在于，没有哪个中心能全然向另一个中心敞开。这种恢复是可得的、最接近中立之处。其余一切，都是另一套道德标准穿着中立的外衣：对他们要开放，对我要隐私或主权。[现实扭曲力场颠倒了基线](../the-reality-distortion-field-inverts-the-baseline/)追踪一种相邻的颠倒：被当作未受扰动之地基的大众一致，把被迫打开的口子记成那地基的暂时扭曲，而平均之外的细薄中心逼出这些打开，平均在否认失效之后才吸收它们。它的向内一面不是隐私，而是平均被保持为衡量当下胜任与否的穷尽尺度：对新事物的开放被事先宣称，而真正正在发生的打开被记为扭曲。[论封闭系统、开放心智与证明的界限](../on-closed-systems-open-minds-and-the-limits-of-proof/)在主体之间遇到同样的中介：没有哪种封闭的描述，无论是形式报告、神经相关物还是行为证据，能传递意识本身所是的那份开放。越过去的是描述，从来不是开口本身；接收的心智把描述映射到自己的开放上，它们之间的通道始终有中介。
+剥去语言并不去除边界。它把问题恢复到原本的大小：一组关于有中介的取用的具体决定，其依据在于，没有哪个中心能全然向另一个中心敞开。这种恢复是可得的、最接近中立之处。其余一切，都是另一套道德标准穿着中立的外衣：对他们要开放，对我要隐私或主权。[现实扭曲力场颠倒了基线](../the-reality-distortion-field-inverts-the-baseline/)追踪一种相邻的颠倒：被当作未受扰动之地基的大众内部一致，把逼出的打开记成那地基的暂时扭曲，而平均之外的细薄中心逼出这些打开，平均在否认失效之后才吸收它们。它的向内一面不是隐私，而是平均被保持为衡量当下胜任与否的穷尽尺度：对新事物的开放被事先宣称，而正在发生的打开被记为扭曲。[论封闭系统、开放心智与证明的界限](../on-closed-systems-open-minds-and-the-limits-of-proof/)在主体之间遇到同样的中介：没有哪种封闭的描述，无论是形式报告、神经相关物还是行为证据，能传递意识本身所是的那份开放。越过去的是描述，从来不是开口本身；接收的心智把描述映射到自己的开放上，它们之间的通道始终有中介。
 
-Stripping the language does not remove the boundary. It restores the problem to its original size: a set of concrete decisions about mediated access, grounded in the fact that no center can ever be fully open to another. That restoration is the nearest approach to neutrality available. Everything else is a different moral standard wearing the costume of neutrality: openness for them, privacy or sovereignty for me. [The Reality Distortion Field Inverts the Baseline](../the-reality-distortion-field-inverts-the-baseline/) traces a neighboring inversion: mass coherence held as undisturbed ground scores forced openings as a temporary warp of that ground, while thin centers outside the average force the openings and the average absorbs them later, once denying them fails. Its inward face is not privacy but the average kept as the exhaustive measure of present competence: openness to the new is professed in advance, while the openings actually under way are scored as distortion. [On Closed Systems, Open Minds, and the Limits of Proof](../on-closed-systems-open-minds-and-the-limits-of-proof/) meets the same mediation between subjects: no closed description, whether formal report, neural correlate, or behavioral evidence, transmits the openness that consciousness itself is. What crosses is description, never the opening itself; the receiving Mind maps that description onto its own openness, and the channel between them stays mediated.
+Stripping the language does not remove the boundary. It restores the problem to its original size: a set of concrete decisions about mediated access, grounded in the fact that no center can ever be fully open to another. That restoration is the nearest approach to neutrality available. Everything else is a different moral standard wearing the costume of neutrality: openness for them, privacy or sovereignty for me. [The Reality Distortion Field Inverts the Baseline](../the-reality-distortion-field-inverts-the-baseline/) traces a neighboring inversion: the mass’s internal consistency held as undisturbed ground scores forced openings as a temporary warp of that ground, while thin centers outside the average force the openings and the average absorbs them later, once denying them fails. Its inward face is not privacy but the average kept as the exhaustive measure of present competence: openness to the new is professed in advance, while the openings actually under way are scored as distortion. [On Closed Systems, Open Minds, and the Limits of Proof](../on-closed-systems-open-minds-and-the-limits-of-proof/) meets the same mediation between subjects: no closed description, whether formal report, neural correlate, or behavioral evidence, transmits the openness that consciousness itself is. What crosses is description, never the opening itself; the receiving Mind maps that description onto its own openness, and the channel between them stays mediated.

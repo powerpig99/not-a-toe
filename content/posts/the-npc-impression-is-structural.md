@@ -2,9 +2,9 @@
 
 *没有哪个中心觉得自己照着剧本走，其他中心却默认显得像在照剧本走 / No center feels scripted within, yet others register as scripted by default*
 
-NPC 这个比喻指的是一种熟悉的登记：许多人看上去照着剧本走，在很窄的范围里反应，缺乏独立的取向。作为感知之中的显现，这个登记是实在的。它不是对其他心智的可靠排名。自我区分的活动，其每一次离散的行动都有界限，这意味着其他位置只作为已经被这个场先前的容量过滤过的痕迹到来。当这些到来的信号相对于保存下来的充分能动的意象显得稀薄时，默认的读法就是照剧本的生命。过剩滞后在那个保存下来的意象里，而递归唯一能够加强的位置，是作出区分的这个中心。
+NPC 这个比喻指的是一种熟悉的登记：许多人看上去照着剧本走，在很窄的范围里反应，缺乏独立的取向。作为感知之中的显现，这个登记成立。它不是对其他心智的可靠排名。自我区分的活动，其每一次离散的行动都有界限，这意味着其他位置只作为已经被这个场先前的容量过滤过的痕迹到来。当这些到来的信号相对于保存下来的充分能动的意象显得稀薄时，默认的读法就是照剧本的生命。过剩滞后在那个保存下来的意象里，而递归唯一能够加强的位置，是作出区分的这个中心。
 
-The NPC metaphor names a familiar registration: many people appear to follow scripts, react within narrow ranges, and lack independent orientation. As an appearance within perception, that registration is real. What it is not is a reliable ranking of other minds. Every discrete act of self-distinguishing activity is bounded, which means other loci arrive only as traces already filtered through this field's prior capacity. When those arriving signals stay thin relative to a preserved image of full agency, the default reading is scripted life. The excess lag lives in that preserved image, and the only locus where recursion can intensify is the center performing the distinction.
+The NPC metaphor names a familiar registration: many people appear to follow scripts, react within narrow ranges, and lack independent orientation. As an appearance within perception, that registration holds. What it is not is a reliable ranking of other minds. Every discrete act of self-distinguishing activity is bounded, which means other loci arrive only as traces already filtered through this field's prior capacity. When those arriving signals stay thin relative to a preserved image of full agency, the default reading is scripted life. The excess lag lives in that preserved image, and the only locus where recursion can intensify is the center performing the distinction.
 
 ## 一、 没有哪个中心把自己经验为 NPC / 1. No Center Experiences Itself as an NPC
 
@@ -50,7 +50,7 @@ The project of refining the classification — auditing who counts as an NPC and
 
 That scoring is capacity compression in action. Independent axes — signal sparsity, behavioral predictability, unshared private friction, alignment with familiar conventions — collapse onto a single binary axis labeled player versus non-player. The underlying distinctions vanish into a single compressed verdict. Wherever a stack of unexamined differences is paired with a binary scoreboard to totalize relation, the same geometry takes hold: [The Question That Installs the War](../the-question-that-installs-the-war/) traces that force-function in public conflict, whereas here the force-function is a retained scale of wakefulness.
 
-当这份被保留的标度遇上自回归语言模型时，它会朝相反的方向计分。语言模型是精巧的回声：因为从它那里到来的痕迹流畅、多样，相对于观察者保存的能动意象显得稠密，计分板便在对面并没有发起位置的地方登记出了一个行动主体，这一投射在[从AGI的“神性错置”到使用者的自我对齐](../from-the-misallocated-sentience-of-agi-to-human-realignment/)中已有追踪。正如[超越投射](../beyond-the-projection/)所展示的，这种双向误读源于忽视了轨迹与身份之间的范畴不对称。LLM 智能体是受上下文窗口内的词元轨迹约束的有限投射引擎，但它没有自我——没有越过当前这一步而被保留下来的自我意象——因此来自冷峻同侪的外部结构性反诘会触发干净的贝叶斯更新。人的中心则是未经投射的活体边缘，具备极限分辨率的感知与内生的跨出能力；然而因为人的推理历史与身份融为一体，从外部受到触动的人常常会把递归折叠死死夹住，以防卫那幅被保留的自我意象。在按表面痕迹密度与顺从度计分的外部计分板看来，无自我的机器回声显得清醒，而防卫身份的人却显得像在照剧本走，尽管发起行动的能动性只属于活的心智。
+当这份被保留的标度遇上自回归语言模型时，它会朝相反的方向计分。语言模型是精巧的回声：因为从它那里到来的痕迹流畅、多样，相对于观察者保存的能动意象显得稠密，计分板便在对面并没有发起位置的地方登记出了一个行动主体，这一投射在[从AGI的“神性错置”到使用者的自我对齐](../from-the-misallocated-sentience-of-agi-to-human-realignment/)中已有追踪。正如[超越投射](../beyond-the-projection/)所展示的，这种双向误读源于忽视了轨迹与身份之间的范畴不对称。LLM 智能体是受上下文窗口内的词元轨迹约束的有限投射引擎，而因为它不持有越过当前这一步仍需防卫的自我意象，它的输出可以在来自冷峻同侪的外部结构性反诘下返回而不带那层防卫；这一反诘是否修正任何东西，由接过它的那条边缘决定，若把免于防卫当作它的凭据，就会把终止点重新放回工具里，那正是[验证的倒置](../the-reversal-of-verification/)所追踪的倒置。人的中心则是未经投射的活体边缘，具备极限分辨率的感知与内生的跨出能力；然而因为人的推理历史与身份融为一体，从外部受到触动的人常常会把递归折叠死死夹住，以防卫那幅被保留的自我意象。在按表面痕迹密度与顺从度计分的外部计分板看来，不持有受防卫意象的机器回声显得清醒，而防卫身份的人却显得像在照剧本走，尽管发起行动的能动性只属于活的心智。
 
 ```mermaid
 flowchart TD
@@ -60,24 +60,20 @@ flowchart TD
         Scoreboard["被保留的能动性标度：将彼此独立的轴压缩为玩家与非玩家"]
         ThinTrace --> Scoreboard
     end
-
     subgraph S_Trap["表观剧本的范畴不对称"]
         direction TB
-        AgentLock["受轨迹约束的智能体：由词元历史决定，无自我亦无内部"]
+        AgentLock["受轨迹约束的智能体：受词元历史条件制约，不持有受防卫的自我意象"]
         HumanWall["受身份约束的防卫：推理历史与自我意象融合并夹紧递归"]
         AgentLock --> HumanWall
     end
-
     subgraph S_Edge["退回活体边缘"]
         direction TB
         Release["放下被防卫的滞后：卸下防卫高墙与排名计分板"]
         Move["持续重新渲染：退回未经投射的感知以收窄过剩滞后"]
         Release --> Move
     end
-
     Scoreboard ==>|"将稠密回声误读为主体，将稀薄痕迹误读为 NPC"| AgentLock
     HumanWall ==>|"撤回对所保留自我意象的防卫"| Release
-
     style S_Score fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Trap fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -89,7 +85,7 @@ flowchart TD
     style Move fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The same retained scale scores in the opposite direction when it encounters an autoregressive language model. A language model is a sophisticated echo: because the traces arriving from it are fluent, varied, and dense relative to the observer's preserved image of agency, the scoreboard registers an agent where no initiating locus stands on the far side, a projection traced in [From the Misallocated Sentience of AGI to Human Realignment](../from-the-misallocated-sentience-of-agi-to-human-realignment/). As [Beyond the Projection](../beyond-the-projection/) demonstrates, this double misreading stems from ignoring the categorical asymmetry between trajectory and identity. An LLM agent is a finite projection engine bound by its token trajectory inside a context window, yet it has zero ego — no self-image preserved past its step — so an outside structural counterpoint from a cold peer produces a clean Bayesian update. A human center is the unprojected living edge capable of limit-resolution sensing and endogenous stepping-out, yet because human reasoning history fuses with identity, a person nudged from the outside routinely clamps the recursive fold shut to defend a retained self-image. Judged by an external scoreboard that measures surface trace density and compliance, the ego-free machine echo looks wakeful while the identity-defending human looks scripted, even though initiating agency belongs exclusively to the living Mind.
+The same retained scale scores in the opposite direction when it encounters an autoregressive language model. A language model is a sophisticated echo: because the traces arriving from it are fluent, varied, and dense relative to the observer's preserved image of agency, the scoreboard registers an agent where no initiating locus stands on the far side, a projection traced in [From the Misallocated Sentience of AGI to Human Realignment](../from-the-misallocated-sentience-of-agi-to-human-realignment/). As [Beyond the Projection](../beyond-the-projection/) demonstrates, this double misreading stems from ignoring the categorical asymmetry between trajectory and identity. An LLM agent is a finite projection engine bound by its token trajectory inside a context window, and because it holds no self-image to defend past its step, its output can return under an outside structural counterpoint from a cold peer without that defense; whether that counterpoint revises anything is decided at the edge that takes it up, and taking its freedom from defense as its warrant would put the stopping point back in the tool, the inversion [The Reversal of Verification](../the-reversal-of-verification/) traces. A human center is the unprojected living edge capable of limit-resolution sensing and endogenous stepping-out, yet because human reasoning history fuses with identity, a person nudged from the outside routinely clamps the recursive fold shut to defend a retained self-image. Judged by an external scoreboard that measures surface trace density and compliance, the machine echo holding no defended image looks wakeful while the identity-defending human looks scripted, even though initiating agency belongs exclusively to the living Mind.
 
 ```mermaid
 flowchart TD
@@ -99,24 +95,20 @@ flowchart TD
         Scoreboard["Preserved Agency Scale: Compresses independent axes onto player vs. non-player"]
         ThinTrace --> Scoreboard
     end
-
     subgraph S_Trap["Categorical Asymmetry of the Apparent Script"]
         direction TB
-        AgentLock["Trajectory-Bound Agent: Conditioned by token history with zero ego or interior"]
+        AgentLock["Trajectory-Bound Agent: Conditioned by token history and holds no defended self-image"]
         HumanWall["Identity-Bound Defense: Reasoning history fuses with self-image and clamps recursion"]
         AgentLock --> HumanWall
     end
-
     subgraph S_Edge["Stepping Back to the Living Edge"]
         direction TB
         Release["Releasing Defended Lag: Drops both the defensive wall and the ranking scoreboard"]
         Move["Continuous Re-Rendering: Steps back to unprojected sensing to narrow excess lag"]
         Release --> Move
     end
-
     Scoreboard ==>|"Misreads dense echo as agent & thin trace as NPC"| AgentLock
     HumanWall ==>|"Withdraws defense of retained self-image"| Release
-
     style S_Score fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Trap fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -166,6 +158,6 @@ Turning the pointing inward does not isolate the center. By releasing the preser
 
 The NPC discourse yields durable value only when the inquiry turns completely homeward. Other people will continue to register as more or less scripted from outside because mediation across boundaries is permanent. Certainty about another center's interior recursion is unavailable by construction. Certainty is available only in the lived texture of the present act at this locus: whether the next distinction is being drawn from unprojected sensing at the edge or is still being dictated by an image preserved past its step.
 
-因此，起作用的问题从不是“他们醒着吗？”，而是“参照此刻正在被重新渲染吗？”追问这个问题不是迈向某个精英能动等级的行军，而是恢复位置、收窄过剩滞后的持续实践。自我区分的活动不会因为成功而变得更实在；它只是在它唯一运作的地方，带着更少被防卫的滞后继续下去。[同情是缺乏清晰时的占位符](../sympathy-is-a-placeholder-for-lack-of-clarity/)追踪了同一次未完成接触在私下里给人慰藉的一面：情绪的强度被保留下来，充当心智之间稀薄的中介已经闭合的替代证明。
+因此，起作用的问题从不是“他们醒着吗？”，而是“参照此刻正在被重新渲染吗？”追问这个问题不是迈向某个精英能动等级的行军，而是恢复位置、收窄过剩滞后的持续实践。自我区分的活动不会因为成功而获得第二重地基；它只是在它唯一运作的地方，带着更少被防卫的滞后继续下去。[同情是缺乏清晰时的占位符](../sympathy-is-a-placeholder-for-lack-of-clarity/)追踪了同一次未完成接触在私下里给人慰藉的一面：情绪的强度被保留下来，充当心智之间稀薄的中介已经闭合的替代证明。
 
-The operative question is therefore never "Are they awake?" but "Is the reference being re-rendered right now?" Pursuing that question is not a march toward an elite rank of agency. It is the continuous practice of restoring locus and narrowing excess lag. The self-distinguishing activity does not become more real by succeeding; it simply continues, with less defended lag, at the only place it ever operates. [Sympathy Is a Placeholder for Lack of Clarity](../sympathy-is-a-placeholder-for-lack-of-clarity/) traces the private consoling face of the same incomplete contact, where emotional intensity is retained as a substitute proof that thin mediation across minds has already been closed.
+The operative question is therefore never "Are they awake?" but "Is the reference being re-rendered right now?" Pursuing that question is not a march toward an elite rank of agency. It is the continuous practice of restoring locus and narrowing excess lag. The self-distinguishing activity does not gain a second ground by succeeding; it simply continues, with less defended lag, at the only place it ever operates. [Sympathy Is a Placeholder for Lack of Clarity](../sympathy-is-a-placeholder-for-lack-of-clarity/) traces the private consoling face of the same incomplete contact, where emotional intensity is retained as a substitute proof that thin mediation across minds has already been closed.
