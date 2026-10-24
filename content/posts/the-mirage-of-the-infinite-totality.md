@@ -66,17 +66,17 @@ flowchart TD
     style E2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-站得住的认识是这样的：知道两面都在，也知道不能一眼同时看到两面。观察者察看一面上已实现的刻痕，或者把硬币翻过来，去碰那条敞开的前沿；两个朝向属于同一个动态。不能把两种立场压成一个视图，恰恰显示了硬币有厚度，而不是否认任何一面的理由。如[另一种相干](../the-other-coherence/)所示，经验世界的自洽并不是一个静态总体，而是一场持续不断的维系。
+站得住的认识是这样的：知道两面都在，也知道不能一眼同时看到两面。观察者察看一面上已实现的刻痕，或者把硬币翻过来，去碰那条敞开的前沿；两个朝向属于同一个动态。不能把两种立场压成一个视图，恰恰显示了硬币有厚度，而不是否认任何一面的理由。如[另一种相干](../the-other-coherence/)所示，经验世界的相干并不是一个总体，而是一场持续不断的维系。
 
 The knowing that holds up is this: knowing both faces are there, and knowing they cannot be seen in one glance. An observer inspects the realised marks on one face, or turns the coin over to meet the open edge; both orientations belong to one dynamic. That the two stances cannot be pressed into a single view shows the coin has thickness; it is no reason to deny either face. The coherence of an experienced world is not a totality but an ongoing holding together, as [The Other Coherence](../the-other-coherence/) shows.
 
 ## 二、 希尔伯特与亚里士多德 / 2. Hilbert and Aristotle
 
-希尔伯特在 1925 年的演讲《论无穷》里说出了同一条界线：无穷在数学中作为一个理念起作用，在思想里有其正当的位置，可它“在现实中无处可寻”。这句话常被读成对无穷的否认，放回语境里，它做的是一个精确的操作区分。完成的实无穷不出现在自然里，因为能遇到的只有已经发生的具体事件；在数学里，无穷是一个调节性的理念，[为公理系统提供形式上的一致](../why-mathematics-can-never-be-solved/)；在物理经验里，已登记的清单在任何一刻都有限，而继续接续的能力没有边界。
+希尔伯特在 1925 年的演讲《论无穷》里说出了同一条界线：无穷在数学中作为一个理念起作用，在思想里有其正当的位置，可它“在现实中无处可寻”。这句话常被读成对无穷的否认，放回语境里，它做的是一个精确的操作区分。完成的实无穷不出现在自然里，因为能遇到的只有已经发生的具体事件；在数学里，无穷是一个调节性的理念，用来补足一处公理化持守，却如[为何数学永远解不完](../why-mathematics-can-never-be-solved/)所追溯的那样，从不封死使用它的活动；在物理经验里，已登记的清单在任何一刻都有限，而继续接续的能力没有边界。
 
-Hilbert, in his 1925 lecture "On the Infinite", drew the same line: infinity works in mathematics as an idea and has its rightful place in thought, yet "the infinite is nowhere to be found in reality". The sentence is often read as a denial of infinity; put back in its context, it makes a precise operating distinction. Completed actual infinity does not appear in nature, because what can be met are only concrete events that have already occurred; in mathematics infinity is a regulative idea that [gives axiomatic systems formal consistency](../why-mathematics-can-never-be-solved/); in physical experience the registered inventory is finite at any moment, while the capacity for further succession has no bound.
+Hilbert, in his 1925 lecture "On the Infinite", drew the same line: infinity works in mathematics as an idea and has its rightful place in thought, yet "the infinite is nowhere to be found in reality". The sentence is often read as a denial of infinity; put back in its context, it makes a precise operating distinction. Completed actual infinity does not appear in nature, because what can be met are only concrete events that have already occurred; in mathematics infinity is a regulative idea that rounds out an axiomatic hold without sealing the activity that uses it, as [Why Mathematics Can Never Be Solved](../why-mathematics-can-never-be-solved/) traces; in physical experience the registered inventory is finite at any moment, while the capacity for further succession has no bound.
 
-两千多年前，亚里士多德在《物理学》里立下了同一条原则：无限像一天或奥林匹克赛会那样存在，靠连续的、一个接一个的生成，一件事在另一件之后到来；它从不作为一个已经组装好的、同时在场的集合存在。潜能转为离散的现实，是一场不终止的推进；正因为这转化从不终止，[完成的无穷从来不会作为一件对象被遇到](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/)。
+两千多年前，亚里士多德在《物理学》里立下了同一条原则：无限像一天或奥林匹克赛会那样存在，靠连续的、一个接一个的生成，一件事在另一件之后到来；它从不作为一个已经组装好的、同时在场的集合存在。潜能转为离散的现实，是一场不终止的推进；正因为这转化从不终止，正如[潜无限与数学思维的暂时闭合](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/)所指出的，完成的无穷从来不会作为一件对象被遇到。
 
 More than two thousand years earlier, Aristotle set down the same principle in the Physics: the infinite exists the way a day or the Olympic games exists, through continuous generation, one event arriving after another; it never exists as an already assembled collection present all at once. The conversion of potential into discrete actuality is a progression without end; precisely because the conversion never ends, [a completed infinity is never met as an object](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/).
 
@@ -96,6 +96,6 @@ Standing on this ground, the causal fabric and the first-person stance come toge
 
 From the first person, the edge stays open. Saying it is closed draws one more distinction and takes one more step forward. At every step the inventory of what has been realised is bounded, measurable and path-dependent, while the generating capacity that produces that inventory is not confined. Every totality is a frame with a boundary, as [The Boundary of the Frame](../the-boundary-of-the-frame/) shows.
 
-把无穷误认为完成的总体，就是把地图与活着的地形、把历史的痕迹与正在进行的行为混为一谈——这与[你的代码库即是记忆](../your-codebase-is-memory/)所剖析的把外化记忆档案误认为掌舵边缘处的活体心智，属于同一种范畴错置。理论模型需要封闭，才能计算静态的不变量；活着的感知需要敞开，才能在一个未完成的世界里导航；移动的前沿，是尚未计算的潜能不断越过、成为已实现事实的地方。因果没有边界地延伸，因为区分的潜能不可穷尽。现实不是一座供人从超然位置去勘察的落成纪念碑，而是潜能不断化为世界的那道鲜活切分。
+把无穷误认为完成的总体，就是把地图与活着的地形、把历史的痕迹与仍在继续的活动混为一谈。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，每一份被记录下来的清单都是外化的记忆，是先前区分留下的一份有限残余；若没有自我区分的心智在掌舵的前沿运作，它就只是静止不动的存迹。理论模型需要封闭，才能计算静态的不变量；活着的感知需要敞开，才能在一个未完成的世界里导航；移动的前沿，是尚未计算的潜能不断越过、成为已实现事实的地方。因果没有边界地延伸，因为区分的潜能不可穷尽。现实不是一座供人从超然位置去勘察的落成纪念碑，而是潜能不断化为世界的那道鲜活切分。
 
 Mistaking infinity for a completed totality confuses the map with the living terrain and the historical trace with the act still going on. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces, every recorded inventory is externalized memory, a finite residue of prior distinctions that remains inert without the self-distinguishing Mind at the steering edge. Theoretical models need closure to compute static invariants; living perception needs openness to navigate an unfinished world; the moving edge is where uncomputed potential keeps crossing over into realised fact. Causality extends without bound because the potential for distinction is inexhaustible. Reality is not a finished monument surveyed from a detached vantage; it is the living cut where potential keeps becoming the world.
