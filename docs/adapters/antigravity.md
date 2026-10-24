@@ -1,7 +1,7 @@
 # Antigravity Implementation Plan for Event-Driven On-Demand Bot Dispatching (`/wake`, `/sleep`, `/deep-sleep`, and Orthogonal Planning Cycles)
 
 > **Canonical Generic Specification:** [`docs/wave-refinement-plan.md`](../wave-refinement-plan.md)  
-> **Companion Essay:** [`On-Demand Contexts Keep Coherence at One Step`](../../content/posts/on-demand-contexts-keep-coherence-at-one-step.md)  
+> **Companion Essays:** [`On-Demand Contexts Keep Coherence at One Step`](../../content/posts/on-demand-contexts-keep-coherence-at-one-step.md) & [`Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems`](../../content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md)  
 > **Runtime:** Google Antigravity (`define_subagent`, `invoke_subagent`, `send_message`, `manage_subagents`, `search_web`, MCP tools, reactive wakeup, `ask_question`)  
 > **Scope:** Primary runtime for `not-a-toe` Living Book authoring and memory consolidation (`/wake`, `/draft`, `/sleep`, `/deep-sleep`), Orthogonal Planning (`/scout` / `/orthogonal-plan`), and `/recap` across **any project in Extended Memory (`/Users/jingliang/Projects/*`)** (with `/media <slug>` also supported here or run in Claude Code).  
 > **Skills:** Antigravity loads project skills from `~/.gemini/config/plugins/ontological-clarity/skills/` (`<name>` → `~/.grok/skills/<name>`, and `ontological-clarity/SKILL.md` → `/Users/jingliang/Projects/ontological-clarity/SKILL.md`); `~/.gemini/skills/` mirrors the same symlinks.
@@ -38,13 +38,14 @@ Because Antigravity controls turn order directly and delivers subagent replies v
 
 ---
 
-## 2. Essay Subagent Registration (`define_subagent`)
+## 2. Essay Subagent Registration, Lifecycle & Retirement (`define_subagent` / `manage_subagents`)
 
 At the start of a `/wake`, `/sleep`, or `/deep-sleep` run in Antigravity, the Main Agent registers the essay subagent types once for the conversation. Each `SystemPrompt` is the `## Charter` block of the role's runtime-neutral charter file in [`docs/charters/`](../charters/), and each `Description` is that file's **Role** line; neither is restated here. When registering, map the charters' tool words as follows:
 - **the ontological-clarity skill** → `/Users/jingliang/.gemini/config/plugins/ontological-clarity/skills/ontological-clarity/SKILL.md`
 - **web search** / **URL fetch** → `search_web` / `read_url_content`
 - **reading the image files directly** → `read_file`
 - **routed by the Dispatcher** → `send_message`
+- **Turn-Completion & Retirement Gate (`"state": "idle"`):** Because a subagent's `send_message` (`<SYSTEM_MESSAGE>`) can arrive slightly before its turn finishes teardown, `Dispatcher` must verify both `<SYSTEM_MESSAGE>` receipt and `"state": "idle"` in `manage_subagents(Action="list")` before spawning or messaging the next-round peer or calling `manage_subagents(Action="kill")` (killing a subagent while still mid-turn leaves the Antigravity UI `N subagents running` badge stuck at `🚫`).
 
 | `Name` | Charter | `EnableWriteTools` |
 | :--- | :--- | :--- |
@@ -73,7 +74,7 @@ At the start of a `/wake`, `/sleep`, or `/deep-sleep` run in Antigravity, the Ma
      - $21 \le R \le 60 \implies W = 8$
      - $R > 60 \implies W = 12$
 4. **Operational Safeguards:**
-   - **Finished Products Only & Two-Way `sha256` Handoff:** `translator_id` is started only after `critic_id` signs off on `work/<slug>/en.md` with its `sha256`. Upon receiver `sha256` confirmation, `drafter_id` and `critic_id` are immediately retired via `manage_subagents(Action="kill", ConversationIds=[...])`. Likewise, `translator_id` and `stylist_id` are immediately retired once Stage 3 confirms the `sha256` of `work/<slug>/zh.md`. Any redo starts from a **fresh context**, never by patching an old context.
+   - **Finished Products Only, Two-Way `sha256` Handoff & `"state": "idle"` Retirement Check:** `translator_id` is started only after `critic_id` signs off on `work/<slug>/en.md` with its `sha256`. Upon receiver `sha256` confirmation (and after verifying `"state": "idle"` in `manage_subagents(Action="list")` per §2), `drafter_id` and `critic_id` are immediately retired via `manage_subagents(Action="kill", ConversationIds=[...])`. Likewise, `translator_id` and `stylist_id` are immediately retired once Stage 3 confirms the `sha256` of `work/<slug>/zh.md` and their state is `"idle"`. Any redo starts from a **fresh context**, never by patching an old context.
    - **Deterministic Split & Interleaving via `scripts/interleave-post.py`:** Always run `python3 scripts/interleave-post.py --split <slug>` before editing an existing post in `work/<slug>/{en,zh}.md` and `python3 scripts/interleave-post.py <slug> [<slug2> ...]` (after `python3 scripts/check-signoffs.py <slug>`) in Stage 3 rather than writing ad-hoc inline split scripts, so blank lines inside ```` ```mermaid ... ``` ```` blocks are stripped and `CN Paragraph -> CN Diagram -> EN Paragraph -> EN Diagram` pairing is enforced before `audit-post.py`.
    - **Whole-File 1:1 `信` Check When Reusing `HEAD` Chinese Paragraphs:** When refining an existing bilingual post, `translator_id` starts from the `work/<slug>/zh.md` produced by `python3 scripts/interleave-post.py --split <slug>` as its baseline and audits the full `work/<slug>/zh.md` line-by-line against `work/<slug>/en.md` so pre-existing legacy omissions in adjacent paragraphs are caught in Pass 1 before `stylist_id` runs.
    - **Cross-Streamline H1 & Anchor Sync:** When an H1 changes in Stage 3, update (1) its entry in `content/book/<part>.md`, (2) all `→` links to it in `content/book/index-of-premises.md`, and (3) any incoming link anchors in both `content/posts/*.md` and active in-flight `work/*/{en,zh}.md` (updating `work/<in-flight-slug>/{en,zh}.md` rather than `content/posts/<in-flight-slug>.md` whenever `<in-flight-slug>` has an active streamline).

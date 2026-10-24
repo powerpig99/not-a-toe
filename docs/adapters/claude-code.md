@@ -1,7 +1,7 @@
 # Claude Code Implementation Plan for Event-Driven On-Demand Bot Dispatching (`/wake`, `/sleep`, `/deep-sleep`, `/scout`, and `/media`)
 
 > **Canonical Generic Specification:** [`docs/wave-refinement-plan.md`](../wave-refinement-plan.md)  
-> **Companion Essay:** [`On-Demand Contexts Keep Coherence at One Step`](../../content/posts/on-demand-contexts-keep-coherence-at-one-step.md)  
+> **Companion Essays:** [`On-Demand Contexts Keep Coherence at One Step`](../../content/posts/on-demand-contexts-keep-coherence-at-one-step.md) & [`Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems`](../../content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md)  
 > **Runtime:** Claude Code (`Agent` tool with `subagent_type: "general-purpose"`, `run_in_background`, `SendMessage(to: "<agentId>")`, `Read` multimodal vision, `WebSearch`, `WebFetch`, `AskUserQuestion`)  
 > **Scope:** Primary runtime for in-house local media production (`/media <slug>`), plus `/scout` and `/recap` across `/Users/jingliang/Projects/*`. Living Book authoring and memory consolidation (`/wake`, `/draft`, `/sleep`, `/deep-sleep`) run in Antigravity ([`docs/adapters/antigravity.md`](antigravity.md)) by default and are invoked in Claude Code only when explicitly requested by the Operator.  
 > **Skills:** Claude Code reaches each project skill through the symlink `~/.claude/skills/<name>` → `~/.grok/skills/<name>`, and the house rule through `~/.claude/skills/ontological-clarity` → `~/.grok/skills/ontological-clarity` → `/Users/jingliang/Projects/ontological-clarity`.

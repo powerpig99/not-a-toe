@@ -2,7 +2,7 @@
 
 > **Canonical Location:** [`docs/wave-refinement-plan.md`](../docs/wave-refinement-plan.md) (symlinked at `work/README.md`)  
 > **Foundational Ground:** `/ontological-clarity` (`SKILL.md`), the single house rule, referred to and never restated  
-> **Companion Essay:** [`On-Demand Contexts Keep Coherence at One Step`](../content/posts/on-demand-contexts-keep-coherence-at-one-step.md)  
+> **Companion Essays:** [`On-Demand Contexts Keep Coherence at One Step`](../content/posts/on-demand-contexts-keep-coherence-at-one-step.md) & [`Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems`](../content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md)  
 > **Scope:** Generic, Agentic-System-Agnostic Specification for **Event-Driven On-Demand Bot Dispatching** across **(A) The Living Book (`not-a-toe`) Waking & Sleep Consolidation Pipeline (`/wake` → `/sleep` → `/deep-sleep`)**, **(B) Controlled Open-Internet Injection for Orthogonal Planning Cycles (`Planner` → `Scouter` → `Evaluator` → `Task Dispatcher`)**, and **(C) In-House Media Production (`/media <slug>`)**. Runtime-specific realizations live in [`docs/adapters/`](../docs/adapters/) ([`docs/adapters/antigravity.md`](../docs/adapters/antigravity.md), primary runtime for `/wake`, `/draft`, `/sleep`, `/deep-sleep`; and [`docs/adapters/claude-code.md`](../docs/adapters/claude-code.md), primary runtime for `/media <slug>`); the runtime-neutral role charters the adapters register live in [`docs/charters/`](../docs/charters/), one file per role; Grok CLI reads `~/.grok/skills/` natively and customizes execution from its own standpoint using whatever tools it has available, needing no separate adapter file unless its primitives diverge.
 
 ---
@@ -415,7 +415,7 @@ flowchart TD
 
 ## 7. Event-Driven On-Demand Bot Dispatching: Reference Protocol, Failure Handling, Open Questions & Glossary
 
-> **Companion Essay:** [`On-Demand Contexts Keep Coherence at One Step`](../content/posts/on-demand-contexts-keep-coherence-at-one-step.md) & [`The Density of Judgment`](../content/posts/the-density-of-judgment.md)  
+> **Companion Essays:** [`On-Demand Contexts Keep Coherence at One Step`](../content/posts/on-demand-contexts-keep-coherence-at-one-step.md), [`The Density of Judgment`](../content/posts/the-density-of-judgment.md) & [`Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems`](../content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md)  
 > **Scope:** General multi-step agent pipeline scheme (`Bot = base model + charter + skills`) applicable across essay authoring, sleep consolidation, media production (`studio/`), and any project in Extended Memory.
 
 ### 7.1 End-to-End Run Lifecycle & Sequence Diagram
