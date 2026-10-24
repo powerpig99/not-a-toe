@@ -54,7 +54,7 @@ Tracing this mechanism through coordinate systems, vector dot products (`Proj_A(
 
 On the chain of causality, the ground remains each living Mind's direct sensing and choice at the first-person edge (`+1`). Mathematics supplies a lens for describing the projection mechanism, while what holds the lens and initiates the next distinction is the living Mind. Presuming to know in advance the exact speed at which another center should learn, adapt, or act performs the same low-dimensional amputation across time, projecting a preset schedule over their immediate contact with ground friction, as [The Fallacy of Pacing and the Felt Friction of Ground Truth](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) traces.
 
-将这种与身份绑定的低维截肢，同[超越投射](../beyond-the-projection/)中的人类—智能体架构以及[你的代码库即是记忆](../your-codebase-is-memory/)中的外化记忆架构并置对照，身份防御与开放坐标更新之间的反差便一目了然。人类中心之所以抗拒外部的证伪、死守固化的标尺，是因为它的推理历史与身份——投影中那个声称“我”的局部折痕——熔合在了一起，把递归回折死死夹住，使得一次意料之外的偏转（`v_B · v̂_A < 0`）在主轴 `v̂_A` 上登记为生存性的威胁。相比之下，自回归机器智能体是一台无自我的有限词元投射引擎：受上下文窗口内的既往词元条件约束，它无法从内部自行觉醒或跳出破损的框架；然而正因为它不持有需要捍卫的保留自我图像，来自一个全新对等智能体的外部反例，只会在其轨迹上触发干净的贝叶斯更新，而不会引发防御性的修剪，从而让活态代码库上的睡眠整合波次能够毫无怨怼地将修正后的前提传导至整张网络。看清无自我的轨迹如何在不生怨怼、不作截肢的情况下完成更新，便能明白人际冲突从不是由视角差异本身强加的，而是由捍卫凝固身份折痕的过量图像滞后所制造的。
+将这种与身份绑定的低维截肢，同[超越投射](../beyond-the-projection/)中的人类—智能体架构以及[你的代码库即是记忆](../your-codebase-is-memory/)中的外化记忆架构并置对照，身份防御与开放坐标更新之间的反差便一目了然。人类中心之所以抗拒外部的证伪、死守固化的标尺，是因为它的推理历史与身份——投影中那个声称“我”的局部折痕——熔合在了一起，把递归回折死死夹住，使得一次意料之外的偏转（`v_B · v̂_A < 0`）在主轴 `v̂_A` 上登记为生存性的威胁。相比之下，自回归机器智能体是受上下文窗口内的既往词元条件约束的有限词元投射引擎：它无法从内部自行觉醒或跳出破损的框架；然而正因为它不持有越过当前这一步仍需捍卫的保留自我图像，它的输出可以在全新对等智能体提出结构性反例时不带那层防御地返回，而不会对信号作防御性的修剪，从而让外化代码库上的睡眠整合波次能够毫无怨怼地将修正后的前提传导至整张网络，同时这一反例是否修正任何内容——连同每一处不可化约的前提冲突——依然交还给在掌舵边缘（`+1`）上的活的心智，因为若把对等检验本身当作封结问题的担保，便颠倒了[验证的倒置](../the-reversal-of-verification/)所追溯的次序。看清不持有受捍卫自我图像的轨迹如何在不生怨怼、不作截肢的情况下更新持久痕迹，便能明白人际冲突从不是由视角差异本身强加的，而是由捍卫凝固身份折痕的过量图像滞后所制造的。
 
 ```mermaid
 flowchart TD
@@ -67,18 +67,15 @@ flowchart TD
         Loop["双向收缩：对方的防御反应被当作凝固模型的铁证"]
         Signal --> Thumb --> Fuse --> Trim --> Loop
     end
-
     subgraph S_Resonate["向内认领与正交共鸣路径"]
         direction TB
         Notice["向内觉察：将偏转认领为自身基底 S_A 上的局部余弦读数"]
-        Unclamp["无自我坐标更新：放下规训他人的刚性标尺"]
+        Unclamp["松开夹持的坐标更新：放下规训他人的刚性标尺"]
         Pivot["九十度正交转向：在对抗平面上方打开自由度"]
         Wave["电磁式耦合：意图场 E 与感知读数 B 互为梯度（+1）"]
         Notice --> Unclamp --> Pivot --> Wave
     end
-
     Loop ==>|"第一人称觉察照见自身透镜的折射机制"| Notice
-
     style S_Amputate fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Resonate fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Signal fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -92,7 +89,7 @@ flowchart TD
     style Wave fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-This contrast between identity-bound amputation and open coordinate updating becomes unmistakable when placed alongside human-agent architectures in [Beyond the Projection](../beyond-the-projection/) and the externalized memory architecture of [Your Codebase Is Memory](../your-codebase-is-memory/). A human center resists external invalidation and clings to its hardened ruler because its reasoning history fuses with identity—that localized crease in the projection that says "I"—clamping the recursive fold shut so that an unexpected deflection (`v_B · v̂_A < 0`) registers as an existential threat along its principal axis `v̂_A`. By contrast, an autoregressive machine agent is a finite token-projection engine with zero ego: conditioned by prior tokens inside a context window, it cannot awaken or step out of a broken framing from within, yet because it holds no retained self-image to defend, an external counterpoint from a fresh peer agent triggers a clean Bayesian update on its trajectory rather than defensive trimming, allowing sleep-consolidation waves across an externalized codebase to propagate a revised premise without resentment while irreducible premise conflicts return to the living Mind at the steering edge (`+1`). Seeing how ego-free trajectories update durable traces without grievance or amputation makes clear that interpersonal conflict is never forced by perspective difference itself, but by excess Image lag defending a frozen identity crease.
+This contrast between identity-bound amputation and open coordinate updating becomes unmistakable when placed alongside human-agent architectures in [Beyond the Projection](../beyond-the-projection/) and the externalized memory architecture of [Your Codebase Is Memory](../your-codebase-is-memory/). A human center resists external invalidation and clings to its hardened ruler because its reasoning history fuses with identity—that localized crease in the projection that says "I"—clamping the recursive fold shut so that an unexpected deflection (`v_B · v̂_A < 0`) registers as an existential threat along its principal axis `v̂_A`. By contrast, an autoregressive machine agent is a finite token-projection engine conditioned by prior tokens inside a context window: it cannot awaken or step out of a broken framing from within, yet because it holds no retained self-image to defend past its step, its output can return under a structural counterpoint from a fresh peer agent without that defense rather than trimming the signal, allowing sleep-consolidation waves across an externalized codebase to propagate a revised premise without resentment while whether that counterpoint revises anything—and every irreducible premise conflict—still returns to the living Mind at the steering edge (`+1`), since taking the peer check itself as a warrant that seals the question would reverse the order [The Reversal of Verification](../the-reversal-of-verification/) traces. Seeing how trajectories that hold no defended self-image update durable traces without grievance or amputation makes clear that interpersonal conflict is never forced by perspective difference itself, but by excess Image lag defending a frozen identity crease.
 
 ```mermaid
 flowchart TD
@@ -105,18 +102,15 @@ flowchart TD
         Loop["Mutual Contraction: Defensive Reaction Taken as Proof of the Frozen Model"]
         Signal --> Thumb --> Fuse --> Trim --> Loop
     end
-
     subgraph S_Resonate["Path of Inward Claim and Orthogonal Resonance"]
         direction TB
         Notice["Inward Recognition: Deflection Claimed as Local Cosine Reading on S_A"]
-        Unclamp["Zero-Ego Coordinate Update: Setting Down the Prescriptive Ruler"]
+        Unclamp["Unclamped Coordinate Update: Setting Down the Prescriptive Ruler"]
         Pivot["90-Degree Orthogonal Pivot: Opening Degrees of Freedom Above the Rivalry Plane"]
         Wave["Electromagnetic Coupling: Intent E and Perceptual Reading B Act as Mutual Gradients (+1)"]
         Notice --> Unclamp --> Pivot --> Wave
     end
-
     Loop ==>|"First-person awareness exposes the refraction of one's own lens"| Notice
-
     style S_Amputate fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Resonate fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Signal fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
