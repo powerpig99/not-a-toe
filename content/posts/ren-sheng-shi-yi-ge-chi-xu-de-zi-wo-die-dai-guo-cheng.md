@@ -104,7 +104,7 @@ Resonance at the collective level is not everyone making external attributions i
 
 Once the two sides dock, a centralized external iteration loop forms: the error signal is handed over and the act of updating is performed by proxy. The backpropagation and parameter updates that belonged to the individual are replaced by this external loop, and the individual's self-iteration loses efficiency, stalls or regresses.
 
-集体主义的倾向，是个人在自我迭代中做外部归因，并与互补的“代为决定”对接之后，在集体层面形成的外显。所谓“集体无意识”，是这种互补循环稳定之后留下的共振痕迹。它看起来像先于个人的深层结构，追溯下去是大量个体把迭代外移、彼此互补之后的结果；机制落在每个心智是否把误差信号传回自己可更新的参数。[没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/)是同一道边界：没有任何一个内心能替另一个内心完成返回。
+集体主义的倾向，是个人在自我迭代中做外部归因，并与互补的“代为决定”对接之后，在集体层面形成的外显。所谓“集体无意识”，是这种互补循环稳定之后留下的共振痕迹。它看起来像先于个人的深层结构，追溯下去是大量个体把迭代外移、彼此互补之后的结果；机制落在每个心智是否把误差信号传回自己可更新的参数。[没有普渡，只有自渡的无限可能](../mei-you-pu-du-zhi-you-zi-du/)是同一道边界：没有任何一个内心能替另一个内心完成返回。
 
 The collectivist tendency is the outward form, at the collective level, of individuals making external attributions in their self-iteration and joining with the complementary "deciding for them." What is called the "collective unconscious" is the trace of resonance this complementary loop leaves once it stabilizes. It looks like a deep structure prior to individuals; traced back, it is the result of many individuals moving their iteration outside and complementing one another, and the mechanism rests on whether each mind carries the error signal back to its own updatable parameters. [No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../mei-you-pu-du-zhi-you-zi-du/) marks the same boundary: no inner life can complete the return for another.
 

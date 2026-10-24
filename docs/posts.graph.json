@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-24T23:32:45.065Z",
+    "generated_at": "2026-10-24T23:51:04.977Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -170,8 +170,8 @@
       "content/posts/rationality-never-travels-across-the-mind.md": "a1491e2a0bd9",
       "content/posts/reality-doesnt-invoice-by-committee.md": "160b3d895051",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "6602a836102e",
-      "content/posts/recursive-contradiction-of-entrusted-morality.md": "f5b5bfd04362",
-      "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "26be0b89022e",
+      "content/posts/recursive-contradiction-of-entrusted-morality.md": "c12a17f1cc71",
+      "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "a8f8212b9511",
       "content/posts/residual-control-recedes-to-the-edge.md": "a51e7b297bbf",
       "content/posts/residual-individualism.md": "445518af80f8",
       "content/posts/restriction-is-a-selective-tax.md": "c6a8d3b34966",
@@ -342,7 +342,7 @@
       "content/posts/the-reversal-of-education-and-science.md": "6bc635c24685",
       "content/posts/the-reversal-of-verification.md": "02f9845efe25",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "dd6f1054d23b",
-      "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "7a0ec6232ce8",
+      "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "445e4d098b1b",
       "content/posts/the-scaffolding-that-keeps-growing.md": "35bd1ad4ae31",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "728ed78cb1f9",
       "content/posts/the-scaffolding-we-forget.md": "50e59db6f5fb",
@@ -4989,7 +4989,7 @@
       "slug": "recursive-contradiction-of-entrusted-morality",
       "path": "content/posts/recursive-contradiction-of-entrusted-morality.md",
       "title": "托付道德的自指悖论 / The Recursive Contradiction of Entrusted Morality",
-      "hash": "f5b5bfd04362",
+      "hash": "c12a17f1cc71",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -5008,7 +5008,7 @@
       "slug": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
       "path": "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md",
       "title": "人生是一个持续的自我迭代过程 / Life as a Continuous Process of Self-Iteration",
-      "hash": "26be0b89022e",
+      "hash": "a8f8212b9511",
       "in_degree": 5,
       "out_degree": 6,
       "links_out": [
@@ -9223,7 +9223,7 @@
       "slug": "the-risk-you-delegate-is-the-risk-you-create",
       "path": "content/posts/the-risk-you-delegate-is-the-risk-you-create.md",
       "title": "你委托的风险就是你创造的风险 / The Risk You Delegate Is the Risk You Create",
-      "hash": "7a0ec6232ce8",
+      "hash": "445e4d098b1b",
       "in_degree": 7,
       "out_degree": 8,
       "links_out": [
@@ -40572,7 +40572,7 @@
       "from": "recursive-contradiction-of-entrusted-morality",
       "to": "not-a-theory-of-everything",
       "rel": "points_to",
-      "label": "非万物理论"
+      "label": "非万物之理"
     },
     {
       "from": "recursive-contradiction-of-entrusted-morality",
@@ -40584,7 +40584,7 @@
       "from": "recursive-contradiction-of-entrusted-morality",
       "to": "what-always-listens-cannot-originate",
       "rel": "points_to",
-      "label": "总在倾听之物无法成为源头"
+      "label": "总在倾听者无法发起"
     },
     {
       "from": "recursive-contradiction-of-entrusted-morality",
@@ -40608,43 +40608,43 @@
       "from": "recursive-contradiction-of-entrusted-morality",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
-      "label": "外化的美德走向其反面"
+      "label": "外化善意走向其反面"
     },
     {
       "from": "recursive-contradiction-of-entrusted-morality",
       "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "rel": "points_to",
-      "label": "道德语言稀释了扩展自由的反馈"
+      "label": "道德语言稀释自由复利的反馈"
     },
     {
       "from": "recursive-contradiction-of-entrusted-morality",
       "to": "the-source-of-all-harm",
       "rel": "points_to",
-      "label": "一切伤害的源头"
+      "label": "一切伤害的根源"
     },
     {
       "from": "recursive-contradiction-of-entrusted-morality",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
-      "label": "主权、信念与监管结构的生成"
+      "label": "主权、信念与规制结构的生成"
     },
     {
       "from": "recursive-contradiction-of-entrusted-morality",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
-      "label": "Externalized virtue becomes its opposite"
+      "label": "Externalized Virtue Becomes Its Opposite"
     },
     {
       "from": "recursive-contradiction-of-entrusted-morality",
       "to": "moral-language-dilutes-the-feedback-that-scales-freedom",
       "rel": "points_to",
-      "label": "Moral language dilutes the feedback that scales freedom"
+      "label": "Moral Language Dilutes the Feedback That Scales Freedom"
     },
     {
       "from": "recursive-contradiction-of-entrusted-morality",
       "to": "the-source-of-all-harm",
       "rel": "points_to",
-      "label": "The source of all harm"
+      "label": "The Source of All Harm"
     },
     {
       "from": "recursive-contradiction-of-entrusted-morality",
@@ -40692,7 +40692,7 @@
       "from": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "没有普渡，只有自渡"
+      "label": "没有普渡，只有自渡的无限可能"
     },
     {
       "from": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
@@ -66636,7 +66636,7 @@
       "from": "the-risk-you-delegate-is-the-risk-you-create",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
-      "label": "主权、信念与监管结构的生成"
+      "label": "主权、信念与规制结构的生成"
     },
     {
       "from": "the-risk-you-delegate-is-the-risk-you-create",
@@ -66648,7 +66648,7 @@
       "from": "the-risk-you-delegate-is-the-risk-you-create",
       "to": "what-always-listens-cannot-originate",
       "rel": "points_to",
-      "label": "总在倾听之物无法成为源头"
+      "label": "总在倾听者无法发起"
     },
     {
       "from": "the-risk-you-delegate-is-the-risk-you-create",
@@ -66684,7 +66684,7 @@
       "from": "the-risk-you-delegate-is-the-risk-you-create",
       "to": "restriction-is-a-selective-tax",
       "rel": "points_to",
-      "label": "限制是一种选择性征税"
+      "label": "限制是选择性的税"
     },
     {
       "from": "the-risk-you-delegate-is-the-risk-you-create",
@@ -66696,7 +66696,7 @@
       "from": "the-risk-you-delegate-is-the-risk-you-create",
       "to": "restriction-is-a-selective-tax",
       "rel": "points_to",
-      "label": "Restriction is a selective tax"
+      "label": "Restriction Is a Selective Tax"
     },
     {
       "from": "the-risk-you-delegate-is-the-risk-you-create",
@@ -66708,7 +66708,7 @@
       "from": "the-risk-you-delegate-is-the-risk-you-create",
       "to": "the-climate-problem-registers-only-as-perception",
       "rel": "points_to",
-      "label": "气候问题只作为感知登记"
+      "label": "气候问题只作为感知被登记"
     },
     {
       "from": "the-risk-you-delegate-is-the-risk-you-create",
@@ -66720,7 +66720,7 @@
       "from": "the-risk-you-delegate-is-the-risk-you-create",
       "to": "the-climate-problem-registers-only-as-perception",
       "rel": "points_to",
-      "label": "The climate problem registers only as perception"
+      "label": "The Climate Problem Registers Only as Perception"
     },
     {
       "from": "the-risk-you-delegate-is-the-risk-you-create",
