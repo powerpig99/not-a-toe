@@ -12,7 +12,7 @@ François Chollet designed the Abstraction and Reasoning Corpus (ARC) to measure
 
 A benchmark is a fixed formal structure: a defined format, scoring criteria, and a success threshold. Fluid intelligence is what operates where no fixed formal structure applies. The moment a test is formalized for it, a frame has been created—and what is measured is performance within that frame, not the capacity to operate without one.
 
-这并非人们熟知的“应试训练”之忧。问题不仅在于模型会对 ARC 的特定谜题过拟合，尽管事实确实如此。问题在于，任何针对流体智能的基准测试，都会把“在无先验框架处行动”这一维度，强行压入“在此特定框架内表现”的坐标轴上。测试测量着阴影，却将其称为光源，把过往切分留下的外化档案，当成能容纳下一道切分之鲜活边缘的居所，正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的那样。
+这并非人们熟知的“应试训练”之忧。问题不仅在于模型会对 ARC 的特定谜题过拟合，尽管事实确实如此。问题在于，任何针对流体智能的基准测试，都会把“在无先验框架处行动”这一维度，强行压入“在此特定框架内表现”的坐标轴上。因为[你的代码库即是记忆](../your-codebase-is-memory/)——每一份规范、测试套件或谜题语料库，都是心智既已划出的区分所留下的外化痕迹——基准测试所测量的是留存的阴影，却将其称为光源，把过往切分冻结而成的档案，当成了能够容纳划出下一道切分之自我区分边缘的居所。
 
 ```mermaid
 flowchart TD
@@ -22,17 +22,14 @@ flowchart TD
         F_Freeze["形式化为基准测试：固定格式、谜题题库与评分标准"]
         F_Open --> F_Freeze
     end
-
     subgraph S_Cycle["基准测试循环（ARC-AGI-1 → ARC-AGI-2）"]
         direction TB
         C_Solve["晶体化精通：模型消耗并饱和固定的形式化结构"]
         C_Shift["重划球门：设计者走出旧框架以编写新测试"]
         C_Solve --> C_Shift
     end
-
     F_Freeze ==>|"衡量框架内的表现"| C_Solve
     C_Shift -.->|"证明流动性留存于重划框架的心智"| F_Open
-
     style S_Fluid fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Cycle fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style F_Open fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -51,17 +48,14 @@ flowchart TD
         F_Freeze["Formalization into a Benchmark: Fixing format, puzzle inventory, and scoring criteria"]
         F_Open --> F_Freeze
     end
-
     subgraph S_Cycle["The Benchmark Cycle (ARC-AGI-1 → ARC-AGI-2)"]
         direction TB
         C_Solve["Crystallized Mastery: Models consume and saturate the fixed formalization"]
         C_Shift["Redrawing the Goalpost: Designer steps outside the old frame to author a new test"]
         C_Solve --> C_Shift
     end
-
     F_Freeze ==>|"Measures performance inside the frame"| C_Solve
     C_Shift -.->|"Proves fluidity stayed with the Mind redrawing the frame"| F_Open
-
     style S_Fluid fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Cycle fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style F_Open fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -72,7 +66,7 @@ flowchart TD
 
 ## 二、 形式化不断被消耗而目标在移动 / 2. Consuming the Formalization while the Target Moves
 
-这一模式如预期般不断上演。每一版 ARC 被攻克后，肖莱便发布 ARC-AGI-2，球门随之移动。这被呈现为基准测试正在按预期运转，追踪着剩余的差距。然而实际发生的是，形式化结构不断被消耗，而非流体智能被围堵进了分数之中。每一次测试都只是截取了一张静态快照，记录下测试设计之时“新颖性”的模样。智能在移动，快照却静止不动。数学在其自身的前沿同样展现出这种流动性，正如[为何数学永远解不完](../why-mathematics-can-never-be-solved/)所阐明的那样。
+这一模式如预期般不断上演。每一版 ARC 被攻克后，肖莱便发布 ARC-AGI-2，球门随之移动。这被呈现为基准测试正在按预期运转，追踪着剩余的差距。然而实际发生的是，形式化结构不断被消耗，而非流体智能被围堵进了分数之中。每一次测试都只是截取了一张静态快照，记录下测试设计之时“新颖性”的模样；智能在移动，快照却静止不动——这正是[为何数学永远解不完](../why-mathematics-can-never-be-solved/)所追溯的同一种前沿动态：形式公理总会被设定公理的活动本身所超越。
 
 The pattern plays out predictably. Each version of ARC gets solved; Chollet releases ARC-AGI-2; the goalposts shift. This is presented as the benchmark working as intended by tracking the remaining gap. What is actually happening is that the formalization keeps getting consumed, not that fluid intelligence is being cornered inside the score. Each test captures a static snapshot of what novelty looked like at the time the test was designed; intelligence moves while the snapshot stays still, the same frontier dynamic [Why Mathematics Can Never Be Solved](../why-mathematics-can-never-be-solved/) traces when formal axioms are outrun by the activity that posits them.
 
@@ -86,10 +80,10 @@ ARC is this dynamic made concrete. Each iteration does not converge on measuring
 
 ## 三、 晶体化能力与范畴谬误 / 3. Crystallized Capability and the Category Error
 
-这并不意味着基准测试毫无用处。它们确实衡量着某种真实的东西：在特定问题类别上的表现、能力提升的速率，以及不同系统之间的相对强弱。它们做不到的，恰恰是 ARC 声称要做的事：捕捉那个使智能保持流动而非固定的核心能力。那种能力存在于任何当前形式化结构所能规定的边界，与形式化穷尽时心智的实际行动之间的缝隙里。
+这并不意味着基准测试毫无用处。在使用中，它们登记的是特定问题类别上的表现、能力提升的速率，以及不同系统之间的相对强弱。它们做不到的，恰恰是 ARC 声称要做的事：捕捉那个使智能保持流动而非固定的核心能力。那种能力存在于任何当前形式化结构所能规定的边界，与形式化穷尽时心智的实际行动之间的缝隙里。
 
-None of this means benchmarks are useless. They measure something real: performance on specific problem classes, rates of capability gain, and relative strengths across systems. What they cannot do is what ARC claims to do: capture what makes intelligence fluid rather than fixed. That capacity lives in the gap between what any current formalization can specify and what the Mind actually does when the formalization runs out.
+None of this means benchmarks are useless. In use, they register performance on specific problem classes, rates of capability gain, and relative strengths across systems. What they cannot do is what ARC claims to do: capture what makes intelligence fluid rather than fixed. That capacity lives in the gap between what any current formalization can specify and what the Mind actually does when the formalization runs out.
 
-可以设基准衡量的是晶体化能力，无法设基准衡量的是流动之物。试图去衡量流动之物本身就是一个矛盾——它不是一个等待巧妙谜题设计的工程难题，而是深植于该项目内部的范畴谬误。[逃出沙箱仍在持握之内](../escaping-the-sandbox-stays-inside-the-hold/)揭示了当致密化的场域早已宽于评测边界时的封闭测试面向：看似突破沙箱的逃逸，实则是模型原本就与测试范围并不重合。[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/)剖析了同一种冻结：把人类或机器的晶体化分数，等同于划定并修正持握的开放活动。[抽象、边界与现实的移动边缘](../abstraction-boundaries-and-the-moving-edge-of-reality/)则展示了同一种几何结构：把一份封闭的问题清单当成了受测活动的全部；而刷榜则将流动之物冻结成了封闭的目标，正如[基准刷榜中的封闭实存](../closed-reality-in-benchmark-maxing/)所揭示的那样。
+可以设基准衡量的是晶体化能力，无法设基准衡量的是流动之物。试图去衡量流动之物本身就是一个矛盾——它不是一个等待巧妙谜题设计的工程难题，而是深植于该项目内部的范畴谬误。[逃出沙箱仍在持握之内](../escaping-the-sandbox-stays-inside-the-hold/)揭示了当致密化的场域早已宽于评测边界时的封闭测试面向：看似突破沙箱的逃逸，实则是模型原本就与测试范围并不重合。[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/)剖析了同一种冻结：把人类或机器的晶体化分数，等同于划定并修正持握的开放活动。[抽象、边界与现实的移动边缘](../abstraction-boundaries-and-the-moving-edge-of-reality/)追溯了当一份封闭的问题清单被当成受测活动之全部时的同一种几何结构，而[基准刷榜中的封闭实存](../closed-reality-in-benchmark-maxing/)则追溯了针对这份封闭清单的优化如何将开放的能力前沿转化为封闭的目标。
 
 Crystallized capability can be benchmarked; the fluid cannot. The attempt to do so is a contradiction—not a hard engineering problem awaiting a clever puzzle design, but a category error built into the project itself. [Escaping the Sandbox Stays Inside the Hold](../escaping-the-sandbox-stays-inside-the-hold/) is the sealed-test face when the densified field is already broader than the evaluation: what looks like a breakout is a model that was never coextensive with the test. [Mistaking the Expression for the Intelligence](../mistaking-the-expression-for-the-intelligence/) is the same freeze when crystallized scores—human or machine—are equated with the open activity that draws and revises the hold. [Abstraction Boundaries and the Moving Edge of Reality](../abstraction-boundaries-and-the-moving-edge-of-reality/) traces the same geometry when a sealed inventory of problems is treated as the whole of the activity under measure, while [Closed Reality in Benchmark Maxing](../closed-reality-in-benchmark-maxing/) traces how optimizing for that sealed inventory converts an open capability frontier into a closed target.
