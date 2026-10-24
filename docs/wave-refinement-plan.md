@@ -568,7 +568,7 @@ When a step fails or produces weak work, ask which `SKILL` or charter allowed it
 
 ### 8.1 Ontological Ground & Three-Wave Architecture
 Every media piece for a post (`Deep Dive` dialogue audio, `Infographic` square page, and `Film` narrated explainer) is a low-dimensional projection of the post's single operative cut, explained as workflow.md "How a post is explained" holds it.
-- **Kit-Driven Execution & Two-Way `sha256` Handoffs:** Every step runs a tool in `studio/kits/` from this machine; cloud work goes only through those tools (Gemini TTS, the Colab CLI, the publishing routes). Each generative step pairs a fresh `Maker` with a fresh `Cold Critic`, settles every flag to full agreement (zero compromise), and signs off on the exact artifact and its `sha256` hash before the next wave begins.
+- **Kit-Driven Execution & Two-Way `sha256` Handoffs:** Every step runs a tool in `studio/kits/` from this machine; cloud work goes only through those tools (Gemini TTS, the Colab CLI, the publishing routes). Each generative step pairs a fresh `Maker` with a fresh `Cold Critic` (while Wave 3 browser publishing on Grok Bot pairs `Publisher` with a standing `Publish Critic`, §1.2), settles every flag to full agreement (zero compromise), and signs off on the exact artifact and its `sha256` hash before the next wave begins.
 
 ```mermaid
 flowchart TD
@@ -588,7 +588,7 @@ flowchart TD
     end
 
     subgraph S_Wave3["Wave 3: Site Export, Publish by Default & Recap"]
-        AB & IB & FB --> DA["Dispatcher / Assembler (Tier 1)<br/>1. Recompute & confirm every final/stream/manifest.sha256 (Wave 2 contexts drop)<br/>2. Export infographic (export-infographic.mjs)<br/>3. Publish by default (workflow row 7): CLI/API (youtube.mjs, x-post.mjs) + Grok Bot handoff (HANDOFF-audio.md, HANDOFF-video.md → RESULT.md)<br/>4. Build, commit & push Wave 3 paths, watch deploy<br/>5. Cold /recap (reads run + RESULT.md → recap.md) → apply improvements & purge history per workflow"]
+        AB & IB & FB --> DA["Dispatcher / Assembler (Tier 1)<br/>1. Recompute & confirm every final/stream/manifest.sha256 (Wave 2 contexts drop)<br/>2. Export infographic (export-infographic.mjs)<br/>3. Publish by default (workflow row 7): CLI/API (youtube.mjs, x-post.mjs) + Grok Bot handoff (HANDOFF-{audio,video}.md → Publisher ⇄ standing Publish Critic in wip/publish-debate.md → RESULT.md)<br/>4. Build, commit & push Wave 3 paths, watch deploy<br/>5. Cold /recap (reads run + RESULT.md → recap.md) → settle & apply improvements (§4.5) & purge history per workflow"]
     end
 
     style S_Wave1 fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
