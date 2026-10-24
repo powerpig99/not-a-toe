@@ -1,0 +1,103 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<title>Infographic: Tokens and the Observational Boundary (picture: Nano Banana through Antigravity, Roman stone floor mosaic)</title>
+<style>
+  @font-face { font-family: "Info Sans"; font-weight: 300 900; src: url("../fonts/info-sans.latin.woff2") format("woff2"); unicode-range: U+0000-024F, U+2000-206F, U+20A0-20CF, U+2190-21FF; }
+  @font-face { font-family: "Info Sans"; font-weight: 100 900; src: url("./info-sans.zh.woff2") format("woff2"); unicode-range: U+2E80-9FFF, U+3000-303F, U+FF00-FFEF; }
+/* Roman stone mosaic on a pale lime-mortar bed: the page ground is the mortar; plates are lime-white with the stones' colours as accents */
+@font-face { font-family: "Info Sans", "Figtree"; src: url(../../../../kits/shared/lib/fonts/Figtree.ttf); font-weight: 300 900; }
+@font-face { font-family: "Info Sans", "NotoSC"; src: url(../../../../kits/shared/lib/fonts/NotoSansSC.ttf); font-weight: 100 900; }
+:root { --navy:#22293f; --ink:#262a36; --ochre:#9a6a08; --terra:#a4442a; --slate:#36597e; --green:#3c7a4e; --plum:#6b4a8a; --stone:#4a4a4a; --plate: rgba(252,250,244,0.94); }
+html,body{margin:0}
+body{width:1024px;height:1024px;overflow:hidden;position:relative;color:var(--ink);font-family:"Figtree","NotoSC",sans-serif;background:#d8d4ca}
+body.zh{font-family:"NotoSC",sans-serif}
+.pic{position:absolute;left:0;top:0;width:1024px;height:1024px}
+svg.art{position:absolute;left:0;top:0}
+.plate{position:absolute;box-sizing:border-box;background:var(--plate);border-radius:5px;padding:7px 10px 8px;border-left:4px solid var(--c);box-shadow:0 1px 0 rgba(0,0,0,.18),0 3px 8px rgba(40,36,30,.22)}
+.plate h3{margin:0 0 3px;font-size:14px;line-height:1.2;font-weight:800;color:var(--c)}
+.plate p{margin:0;font-size:12.4px;line-height:1.32}
+.zh .plate h3{font-size:14.5px;font-weight:700}.zh .plate p{font-size:12.8px;line-height:1.5}
+.title{position:absolute;left:24px;top:16px;width:976px}
+.title h1{margin:0;font-size:38px;line-height:1.05;font-weight:800;color:var(--navy);letter-spacing:-.01em}
+.zh .title h1{letter-spacing:.06em;font-weight:700}
+.title .claim{margin-top:7px;width:976px;font-size:16.5px;line-height:1.38;font-weight:600}
+.zh .title .claim{font-size:17px;line-height:1.5}
+.title .url{margin-top:5px;font:10.5px "DejaVu Sans Mono",Menlo,monospace;color:#5a5a62}
+.use{display:flex;gap:14px;align-items:center;background:rgba(232,240,228,.95)}
+.use h3{margin:0;white-space:nowrap;font-size:15px}
+.nw{white-space:nowrap}
+.loop{position:absolute;box-sizing:border-box;background:rgba(38,42,54,.86);border-radius:5px;padding:6px 9px;font-size:12px;line-height:1.32;font-style:italic;color:#fbf8ef}
+.zh .loop{font-style:normal;font-size:12.6px;line-height:1.45}
+.num{display:inline-block;width:17px;height:17px;border-radius:50%;background:var(--c);color:#fff;font-size:11px;line-height:17px;text-align:center;margin-right:6px;vertical-align:1px;font-weight:700;font-family:"Figtree"}
+</style></head><body>
+<img class="pic" src="art.jpg" alt="">
+<svg class="art" width="1024" height="1024"><g id="leads" fill="none" stroke="#22293f" stroke-width="1.5" stroke-dasharray="3 3"></g></svg>
+<div class="title"><h1 data-k="title"></h1><div class="claim" data-k="claim"></div><div class="url">powerpig99.github.io/not-a-toe/posts/tokens-and-the-observational-boundary/</div></div>
+
+<div class="plate" id="k1" style="left:12px;top:142px;width:192px;--c:var(--ochre)"><h3 data-k="c1h"></h3><p data-k="c1"></p></div>
+<div class="plate" id="k2" style="left:212px;top:142px;width:196px;--c:var(--terra)"><h3 data-k="c2h"></h3><p data-k="c2"></p></div>
+<div class="plate" id="k3" style="left:416px;top:142px;width:192px;--c:var(--stone)"><h3 data-k="c3h"></h3><p data-k="c3"></p></div>
+<div class="plate" id="k4" style="left:616px;top:142px;width:188px;--c:var(--plum)"><h3 data-k="c4h"></h3><p data-k="c4"></p></div>
+<div class="plate" id="k5" style="left:812px;top:142px;width:200px;--c:var(--green)"><h3 data-k="c5h"></h3><p data-k="c5"></p></div>
+<div class="plate" id="k6" style="left:12px;top:770px;width:330px;--c:var(--slate)"><h3 data-k="c6h"></h3><p data-k="c6"></p></div>
+<div class="loop" id="kl" style="left:392px;top:786px;width:240px" data-k="loop"></div>
+<div class="plate" id="k7" style="left:662px;top:770px;width:350px;--c:var(--green)"><h3 data-k="c7h"></h3><p data-k="c7"></p></div>
+<div class="plate use" id="ku" style="left:12px;bottom:14px;width:1000px;--c:var(--navy)"><h3 data-k="h_use"></h3><p data-k="use"></p></div>
+<script>
+const S={en:{
+title:'Tokens and the Observational Boundary',
+claim:'Tokens mark an observational boundary for models, and the indeterminism beyond it is what lets making and talking continue.',
+c1h:'Tokens: the near side',
+c1:'Subword chunks are determinate units. They buy short-range efficiency and dominate low and moderate compute, while hiding the bytes inside.',
+c2h:'Bytes: a finer grain',
+c2:'UTF-8 bytes expose sub-token structure and keep improving past the token plateau, at <span class=nw>4.5–5.5×</span> sequence length and <span class=nw>4.85–6.35×</span> compute.',
+c3h:'Machine binaries',
+c3:'Emitting machine code bypasses source and compilers, trading compiler invariants and source auditability for generation closer to the hardware.',
+c4h:'The boundary',
+c4:'Encountered in observation, not authored. Each step moves it; none removes it. The tokenizer itself sits on the near side.',
+c5h:'The far side',
+c5:'Not a remainder waiting to be filled: the unresolved difference any next token, measurement, making, or speech depends on.',
+c6h:'Past its own standard',
+c6:'A result holds under the standard that registered it. Lower bits-per-byte need not mean higher accuracy; a measurement under one paradigm does not resolve consciousness or physical reality in general.',
+c7h:'Agents and the human mind',
+c7:'An agent is bound to its prior tokens, with no vantage outside its sequence and no attachment to past turns. A human steps out of a broken frame on pre-interpretive friction and re-cuts the unit. Logical coherence connects the two without collapsing them onto one axis.',
+loop:'The far side permits further re-cutting and construction.',
+h_use:'What stays useful',
+use:'Every scheme stays precise inside its premises: tokens for efficiency, bytes for a higher ceiling. The guide stays non-definitive; what remains is the path, for each mind to test again in its own friction.'},
+zh:{
+title:'词元与观测边界',
+claim:'词元划定模型的观测边界，而边界彼岸的不确定性正是继续制造与言说的条件。',
+c1h:'词元：切口的近侧',
+c1:'子词分块是确定的单元，换取短程效率，在低与中等算力<span class=nw>区间</span>占优，同时掩盖了词元<span class=nw>内部</span>的字节。',
+c2h:'字节：更细的粒度',
+c2:'下调为 UTF-8 字节，显露词元内部的结构，越过<span class=nw>词元模型</span>的平台期继续演进，代价是 <span class=nw>4.5–5.5 倍</span>序列长度与 <span class=nw>4.85–6.35 倍</span>算力。',
+c3h:'机器二进制码',
+c3:'直接输出机器码，绕开源代码与编译器，以编译器不变量与源码可审计性，换取更贴近<span class=nw>硬件</span>的生成。',
+c4h:'观测边界',
+c4:'在观测中遭遇，而非人为<span class=nw>划定</span>。每一步都挪动它，<span class=nw>没有</span>一步除去它。<span class=nw>分词器</span><span class=nw>本身</span>也落在近侧。',
+c5h:'切口的远侧',
+c5:'不是有待填平的余项，而是<span class=nw>下一个</span>词元、测量、制造与<span class=nw>言说</span>所依赖的未决差异。',
+c6h:'跨出自身的标准',
+c6:'结果在生成它的标准下成立。更低的每字节比特数不等于更高的准确率；单一范式下的测量，也没有对<span class=nw>意识</span>或泛指的物质世界给出定论。',
+c7h:'智能体与人的心智',
+c7:'智能体受前序词元约束，在序列之外没有观测支点，对<span class=nw>前序立场</span>毫无执念。人借前解释期的摩擦跳出失效框架，<span class=nw>重新切分</span>单元。逻辑自洽衔接二者，而不把它们压到<span class=nw>同一根轴</span>上。',
+loop:'远侧容许后续的重新切分与建构。',
+h_use:'依然有用之处',
+use:'每套方案在自身前提内始终精确：词元求效率，字节抬高上限。这份指南保持非定论，留下的是路径，供每一个心智在各自的摩擦中再度检验。'}};
+const lang=new URLSearchParams(location.search).get('lang')==='zh'?'zh':'en',W=S[lang];
+document.documentElement.lang=lang;document.body.classList.toggle('zh',lang==='zh');
+for(const el of document.querySelectorAll('[data-k]'))el.innerHTML=W[el.dataset.k];
+['k1','k2','k3','k4','k5','k6','k7'].forEach((id,i)=>document.querySelector(`#${id} h3`).insertAdjacentHTML('afterbegin',`<span class="num">${i+1}</span>`));
+const pt=(id,[fx,fy])=>{const r=document.getElementById(id).getBoundingClientRect();return[r.left+fx*r.width,r.top+fy*r.height]};
+const tie=(a,b)=>`<path d="M${a[0].toFixed(0)} ${a[1].toFixed(0)}L${b[0]} ${b[1]}"/><circle cx="${b[0]}" cy="${b[1]}" r="4.5" fill="#fffaf0" stroke="#22293f" stroke-dasharray="none"/>`;
+let h='';
+h+=tie(pt('k1',[0.3,1]),[56,356]);    // a large tessera
+h+=tie(pt('k2',[0.6,1]),[425,330]);   // the small tesserae
+h+=tie(pt('k3',[0.8,1]),[578,340]);   // the tiny black-and-white tesserae
+h+=tie(pt('k4',[0.15,1]),[630,420]);  // the edge where the laid work stops
+h+=tie(pt('k5',[0.3,1]),[860,335]);   // the bare, unset mortar
+h+=tie(pt('k6',[0.6,0]),[218,672]);   // the caliper
+h+=tie(pt('kl',[0.9,0]),[690,522]);   // the chips split from the marble
+h+=tie(pt('k7',[0.85,0]),[955,598]);  // the hand with the hammer
+document.getElementById('leads').innerHTML=h;
+</script></body></html>

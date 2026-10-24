@@ -598,6 +598,38 @@
     "processed": "2026-10-24T15:27:09.831Z",
     "playlist": "PLGrxskF8JnDo"
    }
+  },
+  "tokens-and-the-observational-boundary": {
+   "en": {
+    "id": "wLtQ-O8ssn8",
+    "url": "https://youtu.be/wLtQ-O8ssn8",
+    "title": "Tokens and the Observational Boundary",
+    "privacy": "public",
+    "uploaded": "2026-10-24T20:45:36.022Z",
+    "file": "studio/post/tokens-and-the-observational-boundary/final/film/film.en.mp4",
+    "sha256": {
+     "film": "15a5f2ca2d7c907b66fef51b24f8851643d9cd1521ede1fde66f67025d7aa1a0",
+     "intro": "8b9428fe410f2c319bc8540b07a0759993d5d23794b1a88160879657b6461e4d"
+    },
+    "status": "processed",
+    "processed": "2026-10-24T20:46:18.131Z",
+    "playlist": "PLMyi7vp2KMyA"
+   },
+   "zh": {
+    "id": "Yo998K4pjmc",
+    "url": "https://youtu.be/Yo998K4pjmc",
+    "title": "词元与观测边界",
+    "privacy": "public",
+    "uploaded": "2026-10-24T20:50:57.418Z",
+    "file": "studio/post/tokens-and-the-observational-boundary/final/film/film.zh.mp4",
+    "sha256": {
+     "film": "2b24ad58fbe727e285284d1147c3cee5e641f417bcb230193591cf92c7a17a64",
+     "intro": "cc93bcbe136be4fc8a726ed8efc0b355137285d2b73b3a0c8d06c36e8a2a1e96"
+    },
+    "status": "processed",
+    "processed": "2026-10-24T20:51:49.906Z",
+    "playlist": "PLGrxskF8JnDo"
+   }
   }
  }
 }
