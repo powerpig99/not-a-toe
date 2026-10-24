@@ -159,7 +159,7 @@ Rovelli presumes that once dual substance between mind and body is refused, what
 
 Chaos theory formalizes sensitive dependence and the limits of prediction, which is of use in naming the limits of long-range prediction in deterministic systems; it reaches its boundary in that the act of naming and mathematizing that openness reinstalls a picture of coherence in which the unknown appears charted and intelligible, while extreme openings keep arriving from outside any formalized chaos.
 
-→ [现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/)
+→ [现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/) · [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/)
 
 ### 查理·芒格 / Charlie Munger
 `经济 / Economic`
@@ -717,7 +717,7 @@ The phrase "reality distortion field" presumes that the mass picture is the fiel
 
 Recursive self-improvement presumes that a system able to improve itself becomes an independent initiator through an ever faster loop, which is of use in describing how longer coherent chains, intermediate revision, and self-proposed experiments speed execution; it reaches its boundary in that autonomy of execution raises the velocity of the loops without relocating their source, retain-or-discard is still deferred to the only circuit that closes on itself, and the openness each fold yields comes from the fold, not from the artifact.
 
-→ [自我放大的制品 / The Artifacts of Self-Amplification](../../posts/the-artifacts-of-self-amplification/) · [错把表达当成智能 / Mistaking the Expression for the Intelligence](../../posts/mistaking-the-expression-for-the-intelligence/)
+→ [自我放大的制品 / The Artifacts of Self-Amplification](../../posts/the-artifacts-of-self-amplification/) · [错把表达当成智能 / Mistaking the Expression for the Intelligence](../../posts/mistaking-the-expression-for-the-intelligence/) · [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/)
 
 ### 勒内·笛卡尔 / René Descartes
 `哲学 / Philosophical`
@@ -1095,7 +1095,7 @@ Expected utility theory treats one coherent preference structure as interpersona
 
 Extended cognition argues external artifacts form part of the mind; useful for analyzing computational scaffolds, it blurs the boundary of conscious first-person awareness.
 
-→ [作为认知主动延伸的工具 / Tools as Active Extensions of Cognition](../../posts/extended-cognition-refined/) · [维度即投影 / Dimensions Are Projections](../../posts/dimensions-are-projections/)
+→ [作为认知主动延伸的工具 / Tools as Active Extensions of Cognition](../../posts/extended-cognition-refined/) · [维度即投影 / Dimensions Are Projections](../../posts/dimensions-are-projections/) · [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/)
 
 ### 证伪主义 / Falsificationism
 `哲学 / Philosophical`
@@ -1203,7 +1203,7 @@ Machine learning narratives treat optimization as an intelligent agent seeking t
 
 Gödel proves that any consistent formal system containing arithmetic has true statements it cannot prove and cannot prove its own consistency, which is of use in stating the limits of formal systems precisely; it reaches its boundary in that, when read as a proof about mind itself, the same limit reappears outside the system, between Minds.
 
-→ [潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [没有系统能被保持封闭 / No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/) · [验证的倒置 / The Reversal of Verification](../../posts/the-reversal-of-verification/)
+→ [潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [没有系统能被保持封闭 / No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/) · [验证的倒置 / The Reversal of Verification](../../posts/the-reversal-of-verification/) · [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/)
 
 ### 成长型思维 / Growth Mindset
 `成功学 / Self-Help`
@@ -1239,7 +1239,7 @@ The uncertainty principle bounds the precision with which conjugate micro variab
 
 Hilbert proposed that all mathematical truths could be completely and consistently formalized; Gödel proved formal mathematics is unclosable, forever generating unprovable truths.
 
-→ [为何数学永远解不完 / Why Mathematics Can Never Be Solved](../../posts/why-mathematics-can-never-be-solved/)
+→ [为何数学永远解不完 / Why Mathematics Can Never Be Solved](../../posts/why-mathematics-can-never-be-solved/) · [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/)
 
 ### 内在形而上学 / Immanent Metaphysics
 `哲学 / Philosophical`
@@ -4490,7 +4490,7 @@ Algorithmic determinism presumes automated models take over system governance; c
 
 The storehouse model presumes that memory deposits units of knowledge in a store and retrieves them as they were, which is of use in telling remembering from forgetting and in weighing what to memorize against what to look up; it reaches its boundary in that what appears as memory is the activity meeting its own residue, usable structure persists by being re-rendered under new load, and an inventory kept in the head shapes the next step no more than one kept outside until it is re-traced into the present configuration.
 
-→ [真正稀缺的不是记忆，而是持续的重新追溯 / The Real Scarcity Is Not Memory, But Continuous Re-Tracing](../../posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/) · [按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step](../../posts/on-demand-contexts-keep-coherence-at-one-step/)
+→ [真正稀缺的不是记忆，而是持续的重新追溯 / The Real Scarcity Is Not Memory, But Continuous Re-Tracing](../../posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/) · [按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step](../../posts/on-demand-contexts-keep-coherence-at-one-step/) · [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/)
 
 ### 结构性NPC错觉 / Structural NPC Illusion
 `哲学 / Philosophical`
@@ -5292,3 +5292,12 @@ Presumes that decades of accumulated practical judgment and taste form a stable 
 Presumes that automating the research loop of proposing, implementing, testing, and iterating moves toward autonomous creation without human intervention; useful in registering jumps in routine implementation throughput inside bounded search spaces, it reaches its boundary by omitting the framing preconditions at the start, parameter revisions along the run, and final acceptance at the end, and by reading the automated middle, intervention in its most formalized form, as intervention's absence, while missing that in open-ended inquiry—where outputs serve as material for further selection—shorter cycles shrink the calendar interval between interventions and raise the density of human judgment.
 
 → [判断的密度 / The Density of Judgment](../../posts/the-density-of-judgment/)
+
+### 机械可解释性与白盒还原论 / Mechanistic Interpretability and White-Box Reductionism
+`技术 / Technological`
+
+预设只要无遗漏地测绘出生成模型的架构拓扑、参数权重与内部特征回路，便能对具体生成轨迹给出完备的预测性解释与内生控制；在定位局部回路故障、提取特征方向与调试工具行为时有用，但当确定性规则在部分登记的初始条件下经由计算不可约的逐步推演放大微小分岔、使轨迹选择与约束更新始终依赖外部边界条件图与外环心智时到达边界。
+
+Presumes that exhaustively mapping a generative model's architectural topology, parameter weights, and internal feature circuits yields a complete predictive explanation and endogenous control of specific trajectories; useful for localizing circuit faults, extracting feature directions, and debugging model behavior, it reaches its boundary because deterministic rules amplify partially registered initial conditions across computationally irreducible rollouts, leaving trajectory selection and constraint updates dependent on the surrounding boundary-condition graph and the outer-loop Mind.
+
+→ [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/)
