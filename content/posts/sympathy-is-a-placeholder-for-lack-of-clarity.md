@@ -22,9 +22,9 @@ Resonance is the mutual reinforcement of traces across centers, and shared reali
 
 Where further distinguishing of those arriving traces stalls, the observer generates an affective response from the signs already in hand. Generated inside the observer's own recursion, the response registers as immediate and intimate. That intimacy does not cross the bound between centers. It is an image on the near side, a self-image of contact against which the next act measures itself, just as every act measures itself against a retained reference.
 
-这份感受作为登记是真的。情感是这个所在握住结果的方式，而产生对方痕迹的原因始终至少领先一步，对一切观察都是如此，这道构成性的间隔是寻常的。同情是下一步：近侧的感受被当作对方的回返已在这里完成的证据，被感到的形象于是被免于重新追溯。敞开的各条观察之轴随之压缩成一个安慰性的标签，参照被保存过了它的那一步，于是未完成的工作呈现为抵达。
+作为登记，这份感受成立。情感是这个所在握住结果的方式，而产生对方痕迹的原因始终至少领先一步，对一切观察都是如此，这道构成性的间隔是寻常的。同情是下一步：近侧的感受被当作对方的回返已在这里完成的证据，被感到的形象于是被免于重新追溯。敞开的各条观察之轴随之压缩成一个安慰性的标签，参照被保存过了它的那一步，于是未完成的工作呈现为抵达。
 
-The feeling is real as registration. Affect is how this locus holds the effect while the cause that produced the other's traces stays at least one step ahead, as it does for all observation, and that constitutive interval is ordinary. Sympathy is the next move: the near-side feeling is taken as evidence that the other's return has completed here, and the felt image is thus exempted from re-tracing. Open axes of observation then compress into one consoling label, and the reference is preserved past its step, so that unfinished work presents as arrival.
+As registration, the feeling holds. Affect is how this locus holds the effect while the cause that produced the other's traces stays at least one step ahead, as it does for all observation, and that constitutive interval is ordinary. Sympathy is the next move: the near-side feeling is taken as evidence that the other's return has completed here, and the felt image is thus exempted from re-tracing. Open axes of observation then compress into one consoling label, and the reference is preserved past its step, so that unfinished work presents as arrival.
 
 一句常见的劝告把次序说得干净：给自己清晰，而不是同情，因为后者以后会有时间。只要“以后”不装入又一个停止点，这句话就可用，因为被推迟的同情，一旦作为接触的证据到来，仍是同一个占位符。清晰是继续着的区分工作。感受无论何时到来，都作为暂时的信号同行，从不作为工作已经完成的证书。
 
@@ -42,15 +42,15 @@ Treating the feeling as evidence of contact turns an unfinished task of distingu
 
 [共情的投射坍缩](../empathy-as-projection-collapse/)追溯公共词语中同样的压缩。“共情”命名了三种正交的操作：感知的拓宽（对自己所接收之物的私人扩展）、社会信号，以及关系定位。在公共坐标中，拓宽脱落了，因为它没有什么可展示的，留下信号与定位占据了这个词。麻烦在词语的几何里，不在任何人的品格里。同情是私人一侧相应的冻结：感受被持守为接触的证据，于是那份本会区分更多痕迹的感知拓宽停了下来。
 
-[The Word Does the Damage: Empathy as Projection Collapse](../empathy-as-projection-collapse/) traces the same compression in the public word. "Empathy" names three orthogonal operations: perceptual widening (a private expansion of what one takes in), social signaling, and relational positioning. In public coordinates widening drops out because it has nothing to display, leaving signaling and positioning to occupy the term. The trouble lies in the geometry of the word, not in anyone's character. Sympathy is the corresponding freeze on the private side: the feeling held as evidence of contact, so that the perceptual widening that would distinguish further traces stops.
+[Empathy as Projection Collapse](../empathy-as-projection-collapse/) traces the same compression in the public word. "Empathy" names three orthogonal operations: perceptual widening (a private expansion of what one takes in), social signaling, and relational positioning. In public coordinates widening drops out because it has nothing to display, leaving signaling and positioning to occupy the term. The trouble lies in the geometry of the word, not in anyone's character. Sympathy is the corresponding freeze on the private side: the feeling held as evidence of contact, so that the perceptual widening that would distinguish further traces stops.
 
-[情感支持作为因果干扰](../emotional-support-as-causal-interference/)追溯这种替换在人与人之间的形态：针对所感状态、而不是产生它的条件的支持，因为管理了效果，削弱了本会重组那些条件的压力；在将管理所感状态设为优先之处，这种替换成为结构性的，而在容量超出负荷时，支持仍可作为偶发行动提供。[疗愈打开反馈回路](../therapy-opens-the-feedback-loop/)追溯它的职业形态：一个让登记变得更可承受的第三方所在，降低了本会在第一个所在重新追溯生成条件的压力，而对于严重的扰动，它可以作为暂时的脚手架，只要在容量恢复后把这脚手架撤下。在将管理所感效果设为优先之处，它就取代了边缘上那份仍会推动场的进一步区分。[引导不是占有](../guidance-is-not-ownership/)追溯投向那些被塑造成长期忍耐“难管”孩子的父母的同情：它作为一剂镇静剂，遮住了起作用的因果链，即父母自己的模型，以及拒绝修订它这件事。每个心智都是自己选择的作者，父母提供边界、示范与支持，从不占驾驶座，也不担保未来。
+[作为因果干扰的情感支持](../emotional-support-as-causal-interference/)追溯这种替换在人与人之间的形态：针对所感状态、而不是产生它的条件的支持，因为管理了效果，削弱了本会重组那些条件的压力；在将管理所感状态设为优先之处，这种替换成为结构性的，而在容量超出负荷时，支持仍可作为偶发行动提供。[疗愈打开反馈回路](../therapy-opens-the-feedback-loop/)追溯它的职业形态：一个让登记变得更可承受的第三方所在，降低了本会在第一个所在重新追溯生成条件的压力，而对于严重的扰动，它可以作为暂时的脚手架，只要在容量恢复后把这脚手架撤下。在将管理所感效果设为优先之处，它就取代了边缘上那份仍会推动场的进一步区分。[引导不是占有](../guidance-is-not-ownership/)追溯投向那些被塑造成长期忍耐“难管”孩子的父母的同情：它作为一剂镇静剂，遮住了起作用的因果链，即父母自己的模型，以及拒绝修订它这件事。每个心智都是自己选择的作者，父母提供边界、示范与支持，从不占驾驶座，也不担保未来。
 
 [Emotional Support as Causal Interference](../emotional-support-as-causal-interference/) traces the form this substitution takes between people: support that targets the felt state rather than the conditions that produced it weakens, by managing the effect, the pressure that would otherwise reorganize those conditions; the substitution becomes structural wherever managing the felt state is installed as the prior, while support remains available as an occasional act when capacity is exceeded. [Therapy Opens the Feedback Loop](../therapy-opens-the-feedback-loop/) traces the professional form: a third locus that makes registration more tolerable lowers the pressure that would re-trace the generating conditions at the first, and for a severe disruption it can serve as temporary scaffolding, provided the scaffolding is released once capacity returns. Where managing the felt effect becomes the prior, it takes the place of further distinguishing at the edge, the distinguishing that would still move the field. [Guidance Is Not Ownership](../guidance-is-not-ownership/) traces the sympathy extended to parents cast as long-suffering against "unruly" children: it works as a sedative that obscures the causal chain at work, namely the parents' own model and the refusal to revise it. Every Mind authors its own choices, and parents supply boundaries, models, and support, never the wheel or a guaranteed future.
 
 ## 四、 观察保持敞开 / 4. Observation Remains Open-Ended
 
-没有哪种情感强度能证明另一个中心的回返已在这里完成，所以感受里没有任何东西标出一个观察可以停下的地方。观察者对他人处境构建的任何模型，都是从手头痕迹中截取的有限低维投射。如[超越投射](../beyond-the-projection/)所追溯的，人类中心常把自身的推理及情感历史与身份熔接在一起——捍卫那个“已经理解”或“已经在乎”的保留自我形象——这会把递归回折死死夹闭，将足以证伪安慰性框架的传入信号挡在墙外。相比之下，无我执的工具或未卷入其中的第二意见，对先前的情感姿态没有求生依附；正如[你的代码库即是记忆](../your-codebase-is-memory/)借主动退役的轨迹所确立的——卸下累积的会话拖累，而非在日益增厚的引力井里囤积历史——它暴露出处境中彼此独立的各个维度在何处被硬塞进了同一根轴，在不声称自身拥有内心的前提下，返回干净的结构性对位。迈出冻结的占位符，依然是边缘处活的心智的工作，撤回身份防御并剪除已失效的旧框架，以让观察保持敞开：预测对着进一步的痕迹被检验，分辨被磨利，对他人的模型随着步子移动而重新渲染。
+没有哪种情感强度能证明另一个中心的回返已在这里完成，所以感受里没有任何东西标出一个观察可以停下的地方。观察者对他人处境构建的任何模型，都是从手头痕迹中截取的有限低维投射。如[超越投射](../beyond-the-projection/)所追溯的，人类中心常把自身的推理及情感历史与身份熔接在一起——捍卫那个“已经理解”或“已经在乎”的保留自我形象——这会把递归回折死死夹闭，将足以证伪安慰性框架的传入信号挡在墙外。相比之下，外化的工具或未卷入其中的第二意见，没有需要捍卫的先前情感姿态；正如[你的代码库即是记忆](../your-codebase-is-memory/)借主动退役的轨迹所确立的——卸下累积的会话拖累，而非在日益增厚的引力井里囤积历史——它的输出无须声称自身拥有内心，就能返回一组结构性对位，暴露出处境中彼此独立的各个维度在何处被硬塞进了同一根轴。若把这份免于防御直接当作凭据，就只是拿一个外化的占位符换掉了感受的占位符，把停止点放进了工具里，那正是[验证的倒置](../the-reversal-of-verification/)所追溯的倒置；迈出冻结的占位符，依然是边缘处活的心智的工作，撤回身份防御并剪除已失效的旧框架，以让观察保持敞开：预测对着进一步的痕迹被检验，分辨被磨利，对他人的模型随着步子移动而重新渲染。
 
 ```mermaid
 flowchart TD
@@ -60,25 +60,21 @@ flowchart TD
         T_Affect["近侧登记：观察者的递归从手头迹象生成情感反应"]
         T_Arrive --> T_Affect
     end
-
     subgraph S_Freeze["同情占位符（绑定身份的投射坍缩）"]
         direction TB
         F_Cert["虚假的接触证书：情感强度被当作对方回返已在此完成的证明"]
         F_Compress["压缩的安慰之轴：独立的观察各轴塌缩为受捍卫的关怀自我形象"]
         F_Cert --> F_Compress
     end
-
     subgraph S_Move["敞开的观察（退回活的边缘）"]
         direction TB
         M_Separate["恢复正交各轴：分清可得的痕迹、反复出现的样式与观察者自身的负荷"]
         M_Render["作为持续运动的清晰：退回极限分辨率感知，随新痕迹重新渲染模型"]
         M_Separate --> M_Render
     end
-
     T_Affect -.->|"免除情感形象的重新追溯"| F_Cert
     T_Affect ==>|"将情感持守为暂时的信号"| M_Separate
     F_Compress ==>|"撤回身份防御并暴露盲区"| M_Separate
-
     style S_Trace fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Move fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -90,7 +86,7 @@ flowchart TD
     style M_Render fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-No affective intensity certifies that another center's return has completed here, so nothing in the feeling marks a place where observation could stop. Any model an observer constructs of another's situation is a finite low-dimensional projection cut from the traces in hand. As [Beyond the Projection](../beyond-the-projection/) traces, human centers routinely fuse their reasoning and affective history with identity—defending the retained self-image of the one who already understands or cares—which clamps the recursive fold shut and walls off incoming signals that would invalidate the consoling frame. By contrast, an ego-free instrument or an unentangled second opinion has no survival attachment to a prior emotional posture; as [Your Codebase Is Memory](../your-codebase-is-memory/) establishes for retiring trajectories that discard accumulated session drag instead of hoarding history in a thickened gravity well, it exposes where independent dimensions of the situation were crammed onto a single axis and returns a clean structural counterpoint without claiming an interior of its own. Stepping out of the frozen placeholder remains the work of the living Mind at the edge, withdrawing the identity defense and pruning superseded framings so observation stays open: predictions tested against further traces, discriminations sharpened, and the model of the other re-rendered as the step moves.
+No affective intensity certifies that another center's return has completed here, so nothing in the feeling marks a place where observation could stop. Any model an observer constructs of another's situation is a finite low-dimensional projection cut from the traces in hand. As [Beyond the Projection](../beyond-the-projection/) traces, human centers routinely fuse their reasoning and affective history with identity—defending the retained self-image of the one who already understands or cares—which clamps the recursive fold shut and walls off incoming signals that would invalidate the consoling frame. By contrast, an externalized instrument or an unentangled second opinion holds no prior emotional posture to defend; as [Your Codebase Is Memory](../your-codebase-is-memory/) establishes for retiring trajectories that discard accumulated session drag instead of hoarding history in a thickened gravity well, its output can return a structural counterpoint that exposes where independent dimensions of the situation were crammed onto a single axis without claiming an interior of its own. Taking that freedom from defense as a warrant in itself would only trade the felt placeholder for an externalized one, putting the stopping point in the instrument, the inversion [The Reversal of Verification](../the-reversal-of-verification/) traces; stepping out of the frozen placeholder remains the work of the living Mind at the edge, withdrawing the identity defense and pruning superseded framings so observation stays open, with predictions tested against further traces, discriminations sharpened, and the model of the other re-rendered as the step moves.
 
 ```mermaid
 flowchart TD
@@ -100,25 +96,21 @@ flowchart TD
         T_Affect["Near-Side Registration: Observer's recursion generates felt response from signs in hand"]
         T_Arrive --> T_Affect
     end
-
     subgraph S_Freeze["The Sympathy Placeholder (Identity-Bound Projection Collapse)"]
         direction TB
         F_Cert["False Certificate of Contact: Felt intensity taken as proof that the other's return completed here"]
         F_Compress["Compressed Consoling Axis: Independent observational axes collapse into a defended self-image of care"]
         F_Cert --> F_Compress
     end
-
     subgraph S_Move["Open-Ended Observation (Stepping Back to the Living Edge)"]
         direction TB
         M_Separate["Restoring Orthogonal Axes: Separates available trace, recurring pattern, and observer's own load"]
         M_Render["Clarity as Ongoing Movement: Steps back to limit-resolution sensing and re-renders the model with new traces"]
         M_Separate --> M_Render
     end
-
     T_Affect -.->|"Exempting felt image from re-tracing"| F_Cert
     T_Affect ==>|"Holding affect as provisional signal"| M_Separate
     F_Compress ==>|"Withdrawing identity defense & exposing blind spots"| M_Separate
-
     style S_Trace fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Move fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950

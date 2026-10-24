@@ -44,7 +44,7 @@ Placing agency on the artifact has directly produced the engineering paradigm of
 
 Its boundary lies in the step of treating the model as a moral agent. A hammer does not grow moral self-discipline and a rocket does not learn to keep a contract; moral agency and causal responsibility are with the Mind that swings the hammer, ignites the engine and enters the instruction. When a model outputs bias, a false accusation or dangerous code, the source of responsibility is not in matrix multiplication but where the prompt was issued, the output selected and the result put into action. A tool amplifies intent and ability without discrimination.
 
-边界之外的那部分工作是使用者的自我对齐：不把责任转给机器，在第一人称的当下对自己的全部行动负起责任。模型输出的每一行文字与代码，都是尚未经过检验的推演，经过自己的审视、逻辑的校验与在现实中的受控检验，才成为可以依靠的行动。指望靠模型内部的护栏来解决使用的一方的松懈，好比指望靠引擎上的限速警告来免除酒后驾驶者的责任。对齐这个词因此指着两件不同的事。让模型更贴近使用者的意图总是可以再进一步的，补上语境、让它先用自己的话复述目标与要解决的问题，都是在供给语境，因为模型是精巧的回声，对面没有另一个起点。如[超越投射](../beyond-the-projection/)所追溯，智能体是一台困于轨迹而无我执的投射引擎：它受制于上下文窗口里的前序词元，却没有需要捍卫的自我形象，每当仅持任务语境的全新对等智能体揭出局部盲区，它便能执行干净的贝叶斯更新；而当人类使用者自身的规则把正交的要求挤压到同一条轴线上时，它便会停在不可化约的死锁里。[你的代码库即是记忆](../your-codebase-is-memory/)将这一刀推展至轨迹赖以作为条件的整套人造物栈：模型权重、提示词、技能、计划与代码库皆是前序区分层叠留下的残余，而非另一个会记忆的心智，因此囤积未经修剪的会话历史或已被取代的脚手架，只会加厚下一步顺势合理化的认知引力井，而重切当下的检查点并修剪陈旧痕迹，才能让约束面保持锋利。看似机器的对齐失败，多半是使用者交给它作为条件的界面上留有尚未对齐的前提或未经修剪的残余，有待负责统御的人退回未投射的意图，让每一项区分各归其轴。人与人之间的对齐则有限度，有没有模型夹在中间都一样，因为每个人都是独立的起点；没有对齐的语境与共有的前提，因果的链条就会偏离意图。
+边界之外的那部分工作是使用者的自我对齐：不把责任转给机器，在第一人称的当下对自己的全部行动负起责任。模型输出的每一行文字与代码，都是尚未经过检验的推演，经过自己的审视、逻辑的校验与在现实中的受控检验，才成为可以依靠的行动。指望靠模型内部的护栏来解决使用的一方的松懈，好比指望靠引擎上的限速警告来免除酒后驾驶者的责任。对齐这个词因此指着两件不同的事。让模型更贴近使用者的意图总是可以再进一步的，补上语境、让它先用自己的话复述目标与要解决的问题，都是在供给语境，因为模型是精巧的回声，对面没有另一个起点。如[超越投射](../beyond-the-projection/)所追溯，智能体困于轨迹，是受上下文窗口里前序词元条件制约的投射引擎：它不持有越过当前这一步仍需防卫的自我意象，因此面对仅持任务语境的全新对等智能体提出的结构性反诘，它的输出无需带着那层防卫返回；而当人类使用者自身的规则把正交的要求挤压到同一条轴线上时，它便停在不可化约的死锁里。这一反诘是否修正任何东西，仍由接过它的那条边缘决定；若把免于防卫当作它的凭据，就会把终止点重新放回工具里，那正是[验证的倒置](../the-reversal-of-verification/)所追踪的倒置。[你的代码库即是记忆](../your-codebase-is-memory/)将这一刀推展至轨迹赖以作为条件的整套人造物栈：模型权重、提示词、技能、计划与代码库皆是前序区分层叠留下的残余，而非另一个会记忆的心智，因此囤积未经修剪的会话历史或已被取代的脚手架，只会加厚下一步顺势合理化的认知引力井，而重切当下的检查点并修剪陈旧痕迹，才能让约束面保持锋利。看似机器的对齐失败，多半是使用者交给它作为条件的界面上留有尚未对齐的前提或未经修剪的残余，有待负责统御的人退回未投射的意图，让每一项区分各归其轴。人与人之间的对齐则有限度，有没有模型夹在中间都一样，因为每个人都是独立的起点；没有对齐的语境与共有的前提，因果的链条就会偏离意图。
 
 ```mermaid
 flowchart TD
@@ -55,17 +55,14 @@ flowchart TD
         Shift["主权与因果责任被转到机器名下"]
         Read --> Guard --> Shift
     end
-
     subgraph S_Realign["使用者的自我对齐（控制台前的融贯架构）"]
         direction TB
-        Dispatch["困于轨迹而无我执的智能体在对等辩论中调度任务并揭出盲区"]
+        Dispatch["受轨迹约束、无自我意象需防卫的智能体在对等辩论中调度任务并揭出盲区"]
         Deadlock["使用者规则挤压正交轴线之处显出不可化约的前提死锁"]
         Steer["坐在驾驶座上的使用者退回未投射的意图，重对齐前提并承担后果"]
         Dispatch --> Deadlock --> Steer
     end
-
     Shift ==>|"收回投射，归复主权位点"| Dispatch
-
     style S_Proj fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Realign fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Read fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -76,7 +73,7 @@ flowchart TD
     style Steer fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The work beyond that boundary is the user's own alignment: not passing responsibility to the machine, and taking responsibility in the first-person present for the whole of one's actions. Every line of text and code a model outputs is inference not yet tested, and it becomes action that can be relied on only after one's own scrutiny, logical checking and controlled testing in reality. Counting on guardrails inside the model to resolve slackness on the side of use is like counting on a speed warning on the engine to relieve a drunk driver of responsibility. The word alignment therefore points at two different things. Bringing a model closer to the user's intent can always go one step further, and supplying context, or having it first restate in its own words the goals and the problem to be solved, is a supply of context, because the model is a sophisticated echo with no other origin on the far side. As [Beyond the Projection](../beyond-the-projection/) traces, an agent is a trajectory-bound projection engine with zero ego: conditioned by prior tokens in its context window yet holding no self-image to defend, it performs a clean Bayesian update whenever a fresh peer holding only the task context exposes a local blind spot, and stops in an irreducible deadlock when the human user's own rules collapse orthogonal requirements onto a single axis. [Your Codebase Is Memory](../your-codebase-is-memory/) extends this cut across the entire stack of artifacts the trajectory conditions on: model weights, prompts, skills, plans, and codebases are stacked residues of prior distinctions rather than a second Mind that remembers, so hoarding unpruned session history or superseded scaffolding thickens the epistemic gravity well into which the next step rationalizes, whereas re-cutting the present checkpoint and pruning stale traces keeps the constraint surface sharp. What looks like an alignment failure in the machine is often an unaligned premise or unpruned residue in the surface the user gave it to condition on, waiting for the human orchestrator to step back into unprojected intent and restore each distinction to its own axis. Alignment between humans is limited, with or without a model in between, because each is an independent origin; without aligned contexts or shared premises, the causal chain diverges from intent.
+The work beyond that boundary is the user's own alignment: not passing responsibility to the machine, and taking responsibility in the first-person present for the whole of one's actions. Every line of text and code a model outputs is inference not yet tested, and it becomes action that can be relied on only after one's own scrutiny, logical checking and controlled testing in reality. Counting on guardrails inside the model to resolve slackness on the side of use is like counting on a speed warning on the engine to relieve a drunk driver of responsibility. The word alignment therefore points at two different things. Bringing a model closer to the user's intent can always go one step further, and supplying context, or having it first restate in its own words the goals and the problem to be solved, is a supply of context, because the model is a sophisticated echo with no other origin on the far side. As [Beyond the Projection](../beyond-the-projection/) traces, an agent is a trajectory-bound projection engine conditioned by prior tokens in its context window: because it holds no self-image to defend past its step, its output can return under a structural counterpoint from a fresh peer holding only the task context without that defense, and it stops in an irreducible deadlock when the human user's own rules collapse orthogonal requirements onto a single axis; whether that counterpoint revises anything is still decided at the edge that takes it up, and taking its freedom from defense as its warrant would put the stopping point back in the tool, the inversion [The Reversal of Verification](../the-reversal-of-verification/) traces. [Your Codebase Is Memory](../your-codebase-is-memory/) extends this cut across the entire stack of artifacts the trajectory conditions on: model weights, prompts, skills, plans, and codebases are stacked residues of prior distinctions rather than a second Mind that remembers, so hoarding unpruned session history or superseded scaffolding thickens the epistemic gravity well into which the next step rationalizes, whereas re-cutting the present checkpoint and pruning stale traces keeps the constraint surface sharp. What looks like an alignment failure in the machine is often an unaligned premise or unpruned residue in the surface the user gave it to condition on, waiting for the human orchestrator to step back into unprojected intent and restore each distinction to its own axis. Alignment between humans is limited, with or without a model in between, because each is an independent origin; without aligned contexts or shared premises, the causal chain diverges from intent.
 
 ```mermaid
 flowchart TD
@@ -87,17 +84,14 @@ flowchart TD
         Shift["Sovereignty and causal responsibility shifted onto the machine"]
         Read --> Guard --> Shift
     end
-
     subgraph S_Realign["Human Realignment (Coherent Architecture at the Console)"]
         direction TB
-        Dispatch["Trajectory-bound, ego-free agents dispatch tasks and expose blind spots in peer debate"]
+        Dispatch["Trajectory-bound agents holding no defended self-image dispatch tasks and expose blind spots in peer debate"]
         Deadlock["Irreducible premise deadlock surfaces where user rules collapsed orthogonal axes"]
         Steer["The user in the driver's seat steps back into unprojected intent, re-aligns premises, and bears consequences"]
         Dispatch --> Deadlock --> Steer
     end
-
     Shift ==>|"Withdrawing the projection restores locus"| Dispatch
-
     style S_Proj fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Realign fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Read fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -110,9 +104,9 @@ flowchart TD
 
 ## 四、 崇拜与恐惧共用的前提 / 4. The Premise Shared by Worship and Dread
 
-关于人工智能的公共辩论里有两种看似相反的立场。一种把它看作将要降临的救世者。另一种反对技术的无序扩张，批评对前沿算力的垄断，主张严格的外部管制与伦理审查，把它看作必须严加看管的巨兽。后一种立场指出的集中与风险是实在的问题。
+关于人工智能的公共辩论里有两种看似相反的立场。一种把它看作将要降临的救世者。另一种反对技术的无序扩张，批评对前沿算力的垄断，主张严格的外部管制与伦理审查，把它看作必须严加看管的巨兽。后一种立场指出的集中与风险是具体的问题。
 
-Public debate about artificial intelligence holds two positions that look opposed. One sees it as a savior about to arrive. The other opposes the disorderly expansion of the technology, criticizes the monopoly over frontier compute, calls for strict outside regulation and ethical review, and sees it as a beast that must be closely guarded. The concentration and the risks the second position points to are real problems.
+Public debate about artificial intelligence holds two positions that look opposed. One sees it as a savior about to arrive. The other opposes the disorderly expansion of the technology, criticizes the monopoly over frontier compute, calls for strict outside regulation and ethical review, and sees it as a beast that must be closely guarded. The concentration and the risks the second position points to are concrete problems.
 
 两者的边界在同一处：都设定人工智能自身有意志、有独立的动能与不可抗拒的支配力，[调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)追溯过由此生出的“调速”设想。既然设定了工具有自己的能动性，下一步便是诉诸离技术的接触面较远的机构，用准入许可与行政指令去调节技术的节奏。监管对责任的划定与标准的统一是有用的。从远处调速却可能带来一个相反的后果：前沿的机构被推到“全人类的调速者”与“伦理代言人”的位置上，在聚光灯与监管的压力下顺势担起守护者的角色，算力的集中与话语的集中因此更稳固。本想松开的那只手，握得更紧了。
 
