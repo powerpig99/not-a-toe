@@ -18,9 +18,9 @@ Picture someone living alone who gathers or bakes a pie to stay alive. The pie h
 
 ## 二、 同时的交换 / 2. Synchronous Exchange
 
-再来第二个人，烤另一种馅饼。某一天两人相遇，各自觉得对方的馅饼比自己的更有用或更新鲜，就当场直接交换：一人把馅饼递过去，另一人同时把自己的递过来，两人当场吃掉。价值真的被创造、被交换了，两个心智都经历了主观满足的增加，生命的延续也维持住了。可在这次同时的交换里，没有价格，没有用钱，也没有记下任何财富。交易在实时里即刻完成，没有需要中间账本来跨越的时间缺口；价值被生产、被交换，又直接化进两个行动者活的经验里。
+再来第二个人，烤另一种馅饼。某一天两人相遇，各自觉得对方的馅饼比自己的更有用或更新鲜，就当场直接交换：一人把馅饼递过去，另一人同时把自己的递过来，两人当场吃掉。价值被创造、被交换了，两个心智都经历了主观满足的增加，生命的延续也维持住了。可在这次同时的交换里，没有价格，没有用钱，也没有记下任何财富。交易在实时里即刻完成，没有需要中间账本来跨越的时间缺口；价值被生产、被交换，又直接化进两个行动者活的经验里。
 
-Now add a second person who bakes a different pie. One day they meet, each finds the other's pie more useful or more novel than their own, and they trade on the spot: one hands a pie over while the other hands theirs back, and both eat at once. Value has really been created and exchanged, both minds experienced a rise in subjective satisfaction, and both lives went on. Yet in this synchronous exchange there is no price, no money is used and no wealth is recorded. The trade resolved instantly in real time, with no temporal gap for an intermediary ledger to bridge; value was produced, exchanged and dissolved directly into the living experience of the two agents.
+Now add a second person who bakes a different pie. One day they meet, each finds the other's pie more useful or more novel than their own, and they trade on the spot: one hands a pie over while the other hands theirs back, and both eat at once. Value has been created and exchanged, both minds experienced a rise in subjective satisfaction, and both lives went on. Yet in this synchronous exchange there is no price, no money is used and no wealth is recorded. The trade resolved instantly in real time, with no temporal gap for an intermediary ledger to bridge; value was produced, exchanged and dissolved directly into the living experience of the two agents.
 
 ## 三、 时间的延迟与借据 / 3. Temporal Delay and the IOU
 
@@ -102,9 +102,9 @@ As goods diversify into thousands of kinds and delays stretch over years, bilate
 
 Every life begins in an unavoidable net consumption deficit: production = 0, consumption > 0. A newborn produces nothing and consumes continuously, living entirely on the surplus its parents generate; an apprentice, or an entrepreneur starting a venture, is the same, with early consumption exceeding immediate output. In an environment that respects property and causality, this negative balance, production < consumption, generates an essential cybernetic loss function: the person directly feels the friction of the gap between what is consumed and what is produced; that friction, as an unbuffered error signal, forces the inner machinery to update; the person is driven to learn skills, build discipline and develop productive competence; eventually productive capability crosses the threshold of parity, production > consumption; and the surplus generated settles past obligations and builds one's own independence.
 
-[好奇先行](../curiosity-first-the-hidden-engine-of-talent-and-development/)与[自我价值感与所有权](../ownership-and-self-worthiness/)都追溯过，这种与真实利害的碰撞，是发展人的能力的机制。消费与生产之间的缺口，不是一桩有待抹去的不公，而是个人演化的首要引擎。
+[好奇先行](../curiosity-first-the-hidden-engine-of-talent-and-development/)与[自我价值感与所有权](../ownership-and-self-worthiness/)都追溯过，这种与不加缓冲的利害的碰撞，是发展人的能力的机制。消费与生产之间的缺口，不是一桩有待抹去的不公，而是个人演化的首要引擎。
 
-As both [Curiosity First](../curiosity-first-the-hidden-engine-of-talent-and-development/) and [Ownership and Self-Worthiness](../ownership-and-self-worthiness/) trace, this collision with real stakes is the mechanism that develops human capability. The gap between consumption and production is not an injustice to erase but the first engine of personal evolution.
+As both [Curiosity First](../curiosity-first-the-hidden-engine-of-talent-and-development/) and [Ownership and Self-Worthiness](../ownership-and-self-worthiness/) trace, this collision with unbuffered stakes is the mechanism that develops human capability. The gap between consumption and production is not an injustice to erase but the first engine of personal evolution.
 
 ## 七、 不平等的数学拓扑 / 7. The Mathematical Topology of Inequality
 
@@ -148,9 +148,9 @@ Whatever moral or altruistic language justifies it, unconditional wealth transfe
 
 ## 十一、 “赋权”的悖论 / 11. The Paradox of Empowerment
 
-这个机械的失效，也显出当代“赋权”概念里的一层错置。“赋权”这个词预设了一个本体上站不住的前提：受助者此刻缺乏内在的能动性，需要一个外部的施予者、项目或机构把力量授予对方。一个机构声称要“赋权”于一个人的那一刻，就把施予者立成能力真正的作者与分发者，把受助者框定为一个等着被装满的被动容器；受助者把“赋权”当作外部的礼物接受下来的那一刻，就正式交出了自己的能动性。能动性不能被转移、分发或赠予，它是有意识的心智固有的操作能力。真正的帮助不“赋权”，只是尊重对方对自己选择的所有，让对方的反馈回路保持完整。
+这个机械的失效，也显出当代“赋权”概念里的一层错置。“赋权”这个词预设了一个本体上站不住的前提：受助者此刻缺乏内在的能动性，需要一个外部的施予者、项目或机构把力量授予对方。一个机构声称要“赋权”于一个人的那一刻，就把施予者立成能力的作者与分发者，把受助者框定为一个等着被装满的被动容器；受助者把“赋权”当作外部的礼物接受下来的那一刻，就正式交出了自己的能动性。能动性不能被转移、分发或赠予，它是有意识的心智固有的操作能力。管用的帮助不“赋权”，只是尊重对方对自己选择的所有，让对方的反馈回路保持完整。
 
-This mechanical failure also shows a misplacement inside the contemporary concept of "empowerment". The word presupposes an ontologically untenable premise: that the recipient currently lacks inner agency and needs an outside benefactor, programme or institution to grant power. The moment an institution claims to "empower" someone, it installs the benefactor as the real author and dispenser of capability and frames the recipient as a passive vessel waiting to be filled; the moment the recipient accepts "empowerment" as an outside gift, they formally hand over their own agency. Agency cannot be transferred, distributed or gifted; it is the operating capability inherent in a conscious Mind. Real help does not "empower"; it respects the other's ownership of their choices and leaves their feedback loops intact.
+This mechanical failure also shows a misplacement inside the contemporary concept of "empowerment". The word presupposes an ontologically untenable premise: that the recipient currently lacks inner agency and needs an outside benefactor, programme or institution to grant power. The moment an institution claims to "empower" someone, it installs the benefactor as the author and dispenser of capability and frames the recipient as a passive vessel waiting to be filled; the moment the recipient accepts "empowerment" as an outside gift, they formally hand over their own agency. Agency cannot be transferred, distributed or gifted; it is the operating capability inherent in a conscious Mind. Help that works does not "empower"; it respects the other's ownership of their choices and leaves their feedback loops intact.
 
 ## 十二、 父母的遗产陷阱 / 12. The Parental Inheritance Trap
 

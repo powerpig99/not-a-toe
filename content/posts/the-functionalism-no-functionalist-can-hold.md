@@ -30,7 +30,6 @@ flowchart TD
         style Doctrine fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
         style Burden fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     end
-
     Subject -->|"将判据应用于自身"| Criteria
     Criteria --> Verdict
     Verdict -->|"先落在持有者身上"| Subject
@@ -50,13 +49,11 @@ flowchart TD
         Doctrine["Doctrine: left with no subject able to hold it seriously"]
         Burden["Burden demanded of rivals becomes undischargeable"]
     end
-
     Subject -->|"applies the criteria to itself"| Criteria
     Criteria --> Verdict
     Verdict -->|"lands on the holder first"| Subject
     Subject -->|"then the doctrine is left without a holder"| Doctrine
     Doctrine -->|"then reaches the dialectical posture"| Burden
-
     style S_ORDER_EN fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style Subject fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Criteria fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -91,7 +88,6 @@ flowchart TD
         style Narrow fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
         style General fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     end
-
     Assert --> Rank
     Assert --> Shift
     Rank -->|"被追问资格时"| Fork
@@ -113,14 +109,12 @@ flowchart TD
         Narrow["Restricted criteria: demands no longer issued on the theory's own grounds"]
         General["General criteria: the holding stance judged non-serious"]
     end
-
     Assert --> Rank
     Assert --> Shift
     Rank -->|"when entitlement is asked"| Fork
     Shift -->|"when entitlement is asked"| Fork
     Fork -->|"no"| Narrow
     Fork -->|"yes"| General
-
     style S_PREMISE_EN fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Assert fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Rank fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -146,7 +140,6 @@ flowchart TD
         style Observer fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
         style Judge fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     end
-
     subgraph S_DIAGRAM_ZH ["功能框图：没有观察者的描述"]
         direction TB
         style S_DIAGRAM_ZH fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -155,7 +148,6 @@ flowchart TD
         style Roles fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
         style Erased fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     end
-
     Lived --> Observer
     Observer --> Judge
     Judge -->|"从外部立场画出"| Roles
@@ -173,19 +165,16 @@ flowchart TD
         Observer["The observer performing the reduction"]
         Judge["Distinguishing, judging adequacy, offering explanation"]
     end
-
     subgraph S_DIAGRAM_EN ["Functional Diagram: A Description Without an Observer"]
         direction TB
         Roles["Causal roles among inputs, outputs, internal states"]
         Erased["Declared: what it is like is nothing but role"]
     end
-
     Lived --> Observer
     Observer --> Judge
     Judge -->|"drawn from an external standpoint"| Roles
     Roles --> Erased
     Erased -.->|"stating it relies on the erased seat"| Observer
-
     style S_SEAT_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Lived fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Observer fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -205,9 +194,9 @@ That reliance undermines the broader dialectical posture. Assessments of which o
 
 ## 四、 边界而非驳斥 / 4. A Boundary, Not a Refutation
 
-这一刀并不否认功能角色分析的用处。输入、输出与内部状态之间的同一组关系，可以用不同的材料搭建；以这种方式被描述时，一个系统便可以被设计、调试与预测，而这一描述是这项工作的脚手架，正如[遗忘的脚手架](../the-scaffolding-we-forget/)所追溯的。在这一范围内，功能描述精确地比较两个系统做什么，并指导它们的构造与修复。[飞行的类比碰不到心智](../the-flight-analogy-leaves-the-mind-untouched/)追溯在生物载体之外复现一项局部功能，何以是一项真实的工程成就；越界在于把这一成功当作心智本身已被重构的证据。
+这一刀并不否认功能角色分析的用处。输入、输出与内部状态之间的同一组关系，可以用不同的材料搭建；以这种方式被描述时，一个系统便可以被设计、调试与预测，而这一描述是这项工作的脚手架，正如[遗忘的脚手架](../the-scaffolding-we-forget/)所追溯的。在这一范围内，功能描述精确地比较两个系统做什么，并指导它们的构造与修复。[飞行的类比碰不到心智](../the-flight-analogy-leaves-the-mind-untouched/)追溯在生物载体之外复现一项局部功能，何以在其界定的坐标之内成立；越界在于把这一成功当作心智本身已被重构的证据。
 
-The cut does not deny the usefulness of functional role analysis. The same relations among inputs, outputs, and internal states can be built in different materials; described that way, a system can be designed, debugged, and predicted, and the description is scaffolding for that work, as [The Scaffolding We Forget](../the-scaffolding-we-forget/) traces. Within that range, functional description compares precisely what two systems do and guides their construction and repair. [The Flight Analogy Leaves the Mind Untouched](../the-flight-analogy-leaves-the-mind-untouched/) traces how reproducing a local function outside its biological vehicle is a real engineering achievement; the overstep lies in treating that success as evidence that the Mind itself has been reconstituted.
+The cut does not deny the usefulness of functional role analysis. The same relations among inputs, outputs, and internal states can be built in different materials; described that way, a system can be designed, debugged, and predicted, and the description is scaffolding for that work, as [The Scaffolding We Forget](../the-scaffolding-we-forget/) traces. Within that range, functional description compares precisely what two systems do and guides their construction and repair. [The Flight Analogy Leaves the Mind Untouched](../the-flight-analogy-leaves-the-mind-untouched/) traces how reproducing a local function outside its biological vehicle holds within its defined coordinates; the overstep lies in treating that success as evidence that the Mind itself has been reconstituted.
 
 功能主义的前提所处的位置，是功能主义不再普遍的地方：这一前提预设描述者能站在被描述的心智之外，却从不把描述者计入描述之中。描述被观察的系统，并不需要这样一个位置：描述是描述者的工具，从描述者所站的地方画出。当描述被当作“无处之见”，并被扩展到每一个心智，连画出这一描述的那个心智也包括在内时，前提便越过了它的边界。[AGI的预设与来自外部的视角](../the-presumption-of-agi-and-the-view-from-outside/)在工业尺度上追溯这种越界：心智的到来，恰恰由系统被优化去满足的那些指标来确认，即一个框架以它自己提供的标准衡量自身的成功。如果心智只是角色模式，复制模式便复制了心智，毫无损失；这一无损传递的承诺，遗漏了登记每一份副本的观察者，正如[观察者的隐身与无损传递的妄念](../the-invisible-observer-and-the-delusion-of-lossless-transmission/)所追溯的。即便整座代码库跨会话充当持久的外化记忆，如[你的代码库即是记忆](../your-codebase-is-memory/)所审视的，其中的文件、测试与依赖图谱也只保存着结构化的痕迹与不变量，而非一个能够自我持有的主体；这套记忆之所以运转，只因为活生生的心智在掌舵边缘醒来，去阅读、核验并重整这一模式。功能主义在这里没有被驳倒；它被定位了。作为观察者手中的工具，它完成它的工作；作为抹去观察者的终极理论，它是一套没有任何功能主义者能够持有的理论。
 

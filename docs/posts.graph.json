@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-24T22:48:44.184Z",
+    "generated_at": "2026-10-24T23:06:24.654Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -12,7 +12,7 @@
       "content/posts/a-creation-cannot-replace-its-source.md": "07bfe96ee6b1",
       "content/posts/a-living-external-cortex.md": "d620e21cddfc",
       "content/posts/a-new-deeper-look-at-antifragility.md": "e5ed06c9658d",
-      "content/posts/abstract-pain-and-living-hunger.md": "8b69f6ffa076",
+      "content/posts/abstract-pain-and-living-hunger.md": "e9ef4f87b32a",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "4a16f0aaf74d",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "5928998f445d",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "ec3480fb850e",
@@ -84,7 +84,7 @@
       "content/posts/fate-loves-irony-refined.md": "4173eb2feff2",
       "content/posts/felt-resistance-and-the-speed-differential.md": "7c688ab6bc0e",
       "content/posts/fidelity-not-optimality.md": "15eaacf22453",
-      "content/posts/fixed-by-nothing.md": "9f5437174a82",
+      "content/posts/fixed-by-nothing.md": "7212ddf82995",
       "content/posts/four-night-questions.md": "56506f767fb5",
       "content/posts/freedom-as-ground.md": "f60f8121fb0f",
       "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "234ce1feb90a",
@@ -254,10 +254,10 @@
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "38f50ac90bab",
       "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "5b3957b27316",
       "content/posts/the-freedom-of-will-to-deny-itself.md": "40112c71eb0e",
-      "content/posts/the-functionalism-no-functionalist-can-hold.md": "91420ed7e85a",
+      "content/posts/the-functionalism-no-functionalist-can-hold.md": "d3f0748dc9cb",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "b280bd7da641",
       "content/posts/the-generative-contradiction.md": "4e4e34635737",
-      "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "85b7537a168f",
+      "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "6e0248442567",
       "content/posts/the-generative-topology-of-free-variables.md": "baffb2e6acd8",
       "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "3128b01ea763",
       "content/posts/the-geometry-of-emergence.md": "a42d5b545360",
@@ -350,7 +350,7 @@
       "content/posts/the-self-portrait-in-the-projection.md": "2b51ab9fe625",
       "content/posts/the-shadow-and-the-infinite.md": "c39730290699",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "87a9e69d47f1",
-      "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "1dbcf1da600a",
+      "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "5d21768fd3b6",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "c2d1d681f444",
       "content/posts/the-source-of-all-harm.md": "20891d9d52cf",
       "content/posts/the-source-of-shared-change.md": "6b3787d81f18",
@@ -381,8 +381,8 @@
       "content/posts/time-is-causality-not-a-dimension.md": "bcd28712180f",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "d6e816ab5ba2",
       "content/posts/tokens-and-the-observational-boundary.md": "b7b29e167ecf",
-      "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "3f4bec91103c",
-      "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "de89125d75c0",
+      "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "8bfd0bed78bc",
+      "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "623d04bf6ba7",
       "content/posts/trusting-the-reader-is-the-last-overstep.md": "4fa6d46f4306",
       "content/posts/two-failures-of-trace.md": "df2bfb498afc",
       "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "1a6b64a4d111",
@@ -703,7 +703,7 @@
       "slug": "abstract-pain-and-living-hunger",
       "path": "content/posts/abstract-pain-and-living-hunger.md",
       "title": "抽象的苦难与真实的饥饿 / Abstract Pain and Living Hunger",
-      "hash": "8b69f6ffa076",
+      "hash": "e9ef4f87b32a",
       "in_degree": 8,
       "out_degree": 9,
       "links_out": [
@@ -2579,7 +2579,7 @@
       "slug": "fixed-by-nothing",
       "path": "content/posts/fixed-by-nothing.md",
       "title": "没有固定者的固定 / Fixed by Nothing",
-      "hash": "9f5437174a82",
+      "hash": "7212ddf82995",
       "in_degree": 9,
       "out_degree": 10,
       "links_out": [
@@ -7135,7 +7135,7 @@
       "slug": "the-functionalism-no-functionalist-can-hold",
       "path": "content/posts/the-functionalism-no-functionalist-can-hold.md",
       "title": "功能主义者无法持有的功能主义 / The Functionalism No Functionalist Can Hold",
-      "hash": "91420ed7e85a",
+      "hash": "d3f0748dc9cb",
       "in_degree": 12,
       "out_degree": 10,
       "links_out": [
@@ -7210,7 +7210,7 @@
       "slug": "the-generative-mechanics-of-value-money-and-wealth",
       "path": "content/posts/the-generative-mechanics-of-value-money-and-wealth.md",
       "title": "价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth",
-      "hash": "85b7537a168f",
+      "hash": "6e0248442567",
       "in_degree": 11,
       "out_degree": 11,
       "links_out": [
@@ -9476,7 +9476,7 @@
       "slug": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "path": "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md",
       "title": "意识的魔术戏法与推断的非对称性 / The Sleight of Hand of Consciousness and the Asymmetry of Inference",
-      "hash": "1dbcf1da600a",
+      "hash": "5d21768fd3b6",
       "in_degree": 10,
       "out_degree": 10,
       "links_out": [
@@ -10164,7 +10164,7 @@
       "slug": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
       "path": "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md",
       "title": "投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality",
-      "hash": "3f4bec91103c",
+      "hash": "8bfd0bed78bc",
       "in_degree": 10,
       "out_degree": 12,
       "links_out": [
@@ -10188,7 +10188,7 @@
       "slug": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
       "path": "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md",
       "title": "投资决策的因果闭环 / The Causal Loop of Investment Decisions",
-      "hash": "de89125d75c0",
+      "hash": "623d04bf6ba7",
       "in_degree": 9,
       "out_degree": 10,
       "links_out": [
@@ -11712,7 +11712,7 @@
       "from": "abstract-pain-and-living-hunger",
       "to": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
       "rel": "points_to",
-      "label": "同理心的能力反转与边界争夺"
+      "label": "共情的能力倒错与边界的排序之争"
     },
     {
       "from": "abstract-pain-and-living-hunger",
@@ -23820,13 +23820,13 @@
       "from": "fixed-by-nothing",
       "to": "the-deterministic-machine",
       "rel": "points_to",
-      "label": "拉普拉斯设想的那个知晓宇宙中一切力与一切位置的智者"
+      "label": "决定论机器"
     },
     {
       "from": "fixed-by-nothing",
       "to": "the-deterministic-machine",
       "rel": "points_to",
-      "label": "The intellect Laplace imagined"
+      "label": "The Deterministic Machine"
     },
     {
       "from": "fixed-by-nothing",
@@ -73092,13 +73092,13 @@
       "from": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
       "to": "the-walking-tangent-and-the-stumbling-sphere",
       "rel": "points_to",
-      "label": "地平之说"
+      "label": "切平面的行者与完美球面的踩空者"
     },
     {
       "from": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
       "to": "the-walking-tangent-and-the-stumbling-sphere",
       "rel": "points_to",
-      "label": "the flat-earth pictures of many ancient cultures"
+      "label": "The Walking Tangent and the Stumbling Sphere"
     },
     {
       "from": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
@@ -73110,7 +73110,7 @@
       "from": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
-      "label": "Complexity Obscures: Emergence as the Act of Mind"
+      "label": "Complexity Obscures Emergence as the Act of Mind"
     },
     {
       "from": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",

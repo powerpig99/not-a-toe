@@ -8,9 +8,9 @@ Prevailing deterministic explanations, from Laplace's all-knowing intellect to t
 
 ## 一、 有效的条件句与无人能满足的前件 / 1. A Valid Conditional and an Antecedent No One Can Satisfy
 
-当决定论遭遇微观层面的不可预测时，它最常见的自我辩护是一个看似无懈可击的区分：不可预测性与不确定性是两种不同的主张。给定当下状态的完整规定与系统遵循的演化规则，如果只剩下唯一一个可容许的后继，过程就是确定的，任何预测失败都只是信息不全；如果仍然留下不止一个后继，规则本身就没有做出选择，这才叫不确定性。按照这个说法，区分不依赖于命名，而依赖于可容许后继集合的基数，基数为一还是大于一，可以留给测量去回答。[拉普拉斯设想的那个知晓宇宙中一切力与一切位置的智者](../the-deterministic-machine/)，正是这个区分的人格化身。
+当决定论遭遇微观层面的不可预测时，它最常见的自我辩护是一个看似无懈可击的区分：不可预测性与不确定性是两种不同的主张。给定当下状态的完整规定与系统遵循的演化规则，如果只剩下唯一一个可容许的后继，过程就是确定的，任何预测失败都只是信息不全；如果仍然留下不止一个后继，规则本身就没有做出选择，这才叫不确定性。按照这个说法，区分不依赖于命名，而依赖于可容许后继集合的基数，基数为一还是大于一，可以留给测量去回答。[决定论机器](../the-deterministic-machine/)中拉普拉斯所设想的那个知晓宇宙中一切力与一切位置的智者，正是这个区分的人格化身。
 
-When determinism meets unpredictability at the microscopic scale, its most common self-defense is an apparently unassailable distinction: unpredictability and indeterminism are two different claims. Given the complete specification of the present state together with the transition rule the system follows, if exactly one admissible continuation remains, the process is deterministic and every failure of prediction is merely missing information; if more than one continuation remains, the rule itself has not selected, and only that deserves the name indeterminism. On this account, the distinction depends not on naming but on the cardinality of the set of admissible continuations, and whether that cardinality is one or more than one can be left to measurement. [The intellect Laplace imagined](../the-deterministic-machine/), knowing every force and every position in the universe, is this distinction personified.
+When determinism meets unpredictability at the microscopic scale, its most common self-defense is an apparently unassailable distinction: unpredictability and indeterminism are two different claims. Given the complete specification of the present state together with the transition rule the system follows, if exactly one admissible continuation remains, the process is deterministic and every failure of prediction is merely missing information; if more than one continuation remains, the rule itself has not selected, and only that deserves the name indeterminism. On this account, the distinction depends not on naming but on the cardinality of the set of admissible continuations, and whether that cardinality is one or more than one can be left to measurement. The intellect Laplace imagined in [The Deterministic Machine](../the-deterministic-machine/), knowing every force and every position in the universe, is this distinction personified.
 
 作为条件句，这个推理是有效的，我无意在逻辑形式上与之争辩。问题出在前件本身。“当下状态的完整规定”出现在每一步论证之中，却很少被追问。它预设了一个能够一次性登记全部自由度、精度无限、且自身不被所登记之物卷入的立足点。只要这个前件被当作可以讨论的候选项，整个区分就显得是在描述世界；一旦我从自己实际所处的位置出发，追问谁能站在那个立足点上，区分便从经验命题变成了对一个不存在的观察位置的默认。这正是决定论解释没有正视的盲点。
 
@@ -23,7 +23,6 @@ graph TD
         C2 --> C4["多个后继：被称为不确定性"]
         C5["追问：谁能登记这一完整规定？"] -. "前件无人能满足" .-> C1
     end
-
     style S_Conditional fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style C1 fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f0f6fc
     style C2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -43,7 +42,6 @@ graph TD
         CE2 --> CE4["More than one continuation: called indeterminism"]
         CE5["Question: who could register this complete specification?"] -. "No one satisfies the antecedent" .-> CE1
     end
-
     style S_Conditional_EN fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style CE1 fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f0f6fc
     style CE2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -87,7 +85,6 @@ graph TD
         K3 --> K4["被称为“仅属认识论”的随机"]
         K4 -. "追溯来源" .-> K1
     end
-
     style S_ChaosLedger fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style K1 fill:#0d1117,stroke:#a371f7,stroke-width:1.5px,color:#f0f6fc
     style K2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -106,7 +103,6 @@ graph TD
         KE3 --> KE4["Randomness labeled merely epistemic"]
         KE4 -. "Trace the source" .-> KE1
     end
-
     style S_ChaosLedger_EN fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style KE1 fill:#0d1117,stroke:#a371f7,stroke-width:1.5px,color:#f0f6fc
     style KE2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -136,7 +132,6 @@ graph TD
         R2 --> R3["追问：谁在执行固定？<br/>规则不固定，观察不可及"]
         R3 --> R4["无固定者的固定<br/>即未被决定，只是换了标签"]
     end
-
     style S_Asymmetry fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style R0 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style R1 fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
@@ -158,7 +153,6 @@ graph TD
         RE2 --> RE3["Question: what is doing the fixing?<br/>The rule does not fix, observation cannot reach"]
         RE3 --> RE4["Fixed by nothing<br/>Undetermined, merely relabeled"]
     end
-
     style S_Asymmetry_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style RE0 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style RE1 fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
@@ -188,7 +182,6 @@ graph TD
         L2B --> L3["无人视角换了名字"]
         L1G --> L4["开放是闭合由之出发的条件"]
     end
-
     style S_Regress fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style L1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style L1G fill:#0d1117,stroke:#a371f7,stroke-width:1.5px,color:#f0f6fc
@@ -213,7 +206,6 @@ graph TD
         LE2B --> LE3["The view from nowhere under a new name"]
         LE1G --> LE4["Openness is the condition closure starts from"]
     end
-
     style S_Regress_EN fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style LE1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style LE1G fill:#0d1117,stroke:#a371f7,stroke-width:1.5px,color:#f0f6fc
@@ -228,7 +220,7 @@ graph TD
 
 This runs along a path complementary to [Determinism is the Statistical Signature of Micro-Indeterminism](../determinism-is-the-statistical-signature-of-micro-indeterminism/). There, macroscopic regularity came from statistically smoothing away the unpredictability of many individuals; here, even inside a strictly deterministic model of a single trajectory, openness has not vanished but has been compressed into the starting point. The former divides the individual away horizontally; the latter hides the source vertically. Both show the same thing: determinism can present itself as closure only after an unexplained cost has been paid somewhere.
 
-那个未被解释的给定，究竟是什么？在 [感知的界限与理解的无限](../the-boundary-of-perception-and-the-infinity-of-understanding/) 中我写道，我们并不具备一个可以被独立指涉的本体，唯有指向动作本身真实持存，向内体认为第一人称视域，向外投射为因果继起。每一个确定性模型的初始条件，正是建模者自己的指向动作被放进模型、随后又被遗忘的位置：选择这个系统、这个尺度、这组变量、这个起点。规则可以从这个起点出发严格推演，却无法推演出这个起点本身。未被决定的给定，是第一人称在每一个模型中留下的签名；正如 [残余与自由变量](../the-residue-and-the-free-variable/) 所示，它也是任何闭合描述都无法吸收的残余。
+那个未被解释的给定，究竟是什么？在 [感知的界限与理解的无限](../the-boundary-of-perception-and-the-infinity-of-understanding/) 中我写道，我们并不具备一个可以被独立指涉的本体，唯有指向动作本身在场持存，向内体认为第一人称视域，向外投射为因果继起。每一个确定性模型的初始条件，正是建模者自己的指向动作被放进模型、随后又被遗忘的位置：选择这个系统、这个尺度、这组变量、这个起点。规则可以从这个起点出发严格推演，却无法推演出这个起点本身。未被决定的给定，是第一人称在每一个模型中留下的签名；正如 [残余与自由变量](../the-residue-and-the-free-variable/) 所示，它也是任何闭合描述都无法吸收的残余。
 
 ```mermaid
 graph TD
@@ -239,7 +231,6 @@ graph TD
         G3 --> G4["局部闭合<br/>预测、工程与检验"]
         G4 -. "倒错：宣称给定也早已被固定" .-> G5["把借来的起点冒充为模型的产物"]
     end
-
     style S_BorrowedClosure fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style G1 fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
     style G2 fill:#0d1117,stroke:#a371f7,stroke-width:1.5px,color:#f0f6fc
@@ -259,7 +250,6 @@ graph TD
         GE3 --> GE4["Local closure<br/>Prediction, engineering, and testing"]
         GE4 -. "Inversion: claiming the given was fixed all along" .-> GE5["Passing off the borrowed start as the model's own product"]
     end
-
     style S_BorrowedClosure_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style GE1 fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
     style GE2 fill:#0d1117,stroke:#a371f7,stroke-width:1.5px,color:#f0f6fc
