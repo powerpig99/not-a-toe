@@ -8,9 +8,9 @@ As a thought experiment the simulation hypothesis is suggestive: reality can be 
 
 ## 一、 信息不需要一台主机 / 1. Information Needs No Host Machine
 
-数字物理学与[模拟假说](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)谈到世界由信息构成时，带着一个未经审视的定势：信息须寄居在某种硬件之上。这个直觉来自工程的经验，在人的技术实践里，数据的流转离不开芯片、电平的翻转、导线与机房。于是说到“物理世界的基础是信息”时，浮现的是一台规模宏大的超级计算机，在不可知的实验室里昼夜运行着模拟现实的代码。
+数字物理学与[自由变量的同构与先验主权](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)所剖析的模拟假说谈到世界由信息构成时，带着一个未经审视的定势：信息须寄居在某种硬件之上。这个直觉来自工程的经验，在人的技术实践里，数据的流转离不开芯片、电平的翻转、导线与机房。于是说到“物理世界的基础是信息”时，浮现的是一台规模宏大的超级计算机，在不可知的实验室里昼夜运行着模拟现实的代码。
 
-When digital physics and [the simulation hypothesis](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/) speak of the world as made of information, they carry an unexamined habit: information has to reside on some hardware. The intuition comes from engineering experience; in human technical practice the movement of data cannot do without chips, the switching of voltage levels, wires and server rooms. So when it is said that "the basis of the physical world is information," what comes to mind is a supercomputer of vast scale, running day and night in an unknowable laboratory the code that simulates reality.
+When digital physics and the simulation hypothesis analyzed in [The Isomorphism of Free Variables and Prior Sovereignty](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/) speak of the world as made of information, they carry an unexamined habit: information has to reside on some hardware. The intuition comes from engineering experience; in human technical practice the movement of data cannot do without chips, the switching of voltage levels, wires and server rooms. So when it is said that "the basis of the physical world is information," what comes to mind is a supercomputer of vast scale, running day and night in an unknowable laboratory the code that simulates reality.
 
 这个推论没有说明物理的来处，它以隐蔽的方式回到了机械唯物论。承载这个宇宙之信息的若仍是一套由晶体管、电源与主板构成的机器，那台机器的物理法则从何而来，它所在的宇宙是否又要另一台更高阶的机器来模拟？无限倒退由此展开：宏观物质实体的假定刚被放下，硬件又被立为先决条件。[无法逃逸的心智视界](../one-cannot-escape-ones-own-mind/)指明过这种心智面对自身模型时的倒置。
 
@@ -34,7 +34,6 @@ flowchart TD
         Eng --> Host
         Host --> Regress
     end
-
     style S_Host fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Dist fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Info fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -62,7 +61,6 @@ flowchart TD
         Eng --> Host
         Host --> Regress
     end
-
     style S_Host fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Dist fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Info fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -88,21 +86,20 @@ The leap goes like this: a Mind's mathematical characterization of physical phen
 flowchart TD
     subgraph S_Iso["同构不是同一"]
         direction TB
-        Real["大气的摩擦与风暴"]
+        Atm["大气的摩擦与风暴"]
         Map["同构的映射：保全的是关系"]
         Use["用处：预报暴雨的路径"]
         Leap["跳跃：现实是一段被执行的代码"]
         Simr["推设：必有一位模拟者"]
         Watch["与钟表匠论证同构"]
-        Real --> Map
+        Atm --> Map
         Map --> Use
         Map --> Leap
         Leap --> Simr
         Simr --> Watch
     end
-
     style S_Iso fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style Real fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Atm fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Map fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Use fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Leap fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -116,21 +113,20 @@ This narrative is isomorphic with the watchmaker argument of natural theology. P
 flowchart TD
     subgraph S_Iso["Isomorphism Is Not Identity"]
         direction TB
-        Real["The friction and storms of the atmosphere"]
+        Atm["The friction and storms of the atmosphere"]
         Map["An isomorphic mapping: what it preserves is relation"]
         Use["Its use: forecasting the path of a rainstorm"]
         Leap["The leap: reality is code being executed"]
         Simr["The posit: there must be a simulator"]
         Watch["Isomorphic with the watchmaker argument"]
-        Real --> Map
+        Atm --> Map
         Map --> Use
         Map --> Leap
         Leap --> Simr
         Simr --> Watch
     end
-
     style S_Iso fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
-    style Real fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Atm fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Map fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Use fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Leap fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -156,7 +152,7 @@ To say that the machine is conscious, or that it is not, is to take the machine 
 
 Each human decision is rooted in a finite lifespan, the expenditure of energy and the direct bearing of causal feedback. A judgment has direction and is anchored in reality because the one who chooses settles the feedback with an embodied existence; [Choice Itself Has No Inherent Weight](../choice-itself-has-no-inherent-weight/) has made clear that the transition of state carries no inner resistance of its own, and that the weight lies in consequences that cannot be handed over and in the response of the surroundings. A model's generation of text in a high-dimensional space is a glide over probability, and the disturbance the words cause is borne by those who use it. To take a flow of symbols released from causal constraint for a wisdom higher than the human is to lower the dimension of intelligence.
 
-形式工具每一次的爆发，都伴着同一种期待：分析力学的时代相信拉普拉斯妖可凭方程通晓古今，二十世纪初的形式主义试图用公理封闭整座数学，今日参数的膨胀被看作通往更高心智的阶梯。前两次的结局是清楚的：脚手架无论多么精密——哪怕如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的那样，把整部活书或代码库在磁盘上组织成外化的记忆晶格——它依然是被活态心智调用并重入的外化工具，没有成为赋予意义的源头。
+形式工具每一次的爆发，都伴着同一种期待：分析力学的时代相信拉普拉斯妖可凭方程通晓古今，二十世纪初的形式主义试图用公理封闭整座数学，今日参数的膨胀被看作通往更高心智的阶梯。前两次的结局是清楚的：脚手架无论多么精密，哪怕如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的那样把整部活书或代码库在磁盘上组织成外化的记忆晶格，这些持久的痕迹依然是在主控前沿被活态心智重入的外化工具，不会成为赋予意义的源头。
 
 ```mermaid
 flowchart TD
@@ -174,7 +170,6 @@ flowchart TD
         Cut --> Down
         Down -.->|"对照"| Echo
     end
-
     style S_Formal fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style Formal fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Glide fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -202,7 +197,6 @@ flowchart TD
         Cut --> Down
         Down -.->|"set beside"| Echo
     end
-
     style S_Formal fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style Formal fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Glide fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -248,7 +242,6 @@ flowchart TD
         Silent --> Back
         Back --> Speak
     end
-
     style S_Seven fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Tool fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Use fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -276,7 +269,6 @@ flowchart TD
         Silent --> Back
         Back --> Speak
     end
-
     style S_Seven fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Tool fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Use fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -312,7 +304,6 @@ flowchart TD
         Rec --> Scaf
         Scaf --> Origin
     end
-
     style S_Seam fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style Pot fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     style Obs fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -337,7 +328,6 @@ flowchart TD
         Rec --> Scaf
         Scaf --> Origin
     end
-
     style S_Seam fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style Pot fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     style Obs fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc

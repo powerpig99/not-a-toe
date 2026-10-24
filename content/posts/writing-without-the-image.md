@@ -28,11 +28,11 @@ A common reaction to authorial self-consciousness is to erase the observer altog
 
 消解并不删除器具；它保持参照随步伐重新渲染。心智写作、编码，一边进行一边收窄其朝向多出来的滞后，而不把自己的注视免于重新追溯。消解掉的不是观察者，而是把活动变成行动者一幅持久肖像的那个回路。[生命的意义在起草之中](../the-meaning-of-life-is-in-the-drafting/)追踪意义在何处生成：向外看提供材料，但意义生成于在开放页面上对原因的现场起草，而当目光不再返回，意义便变薄，以至于硬化的后果开始对照一座已完成人生的画廊来登记，以已完成的形式作为衡量。
 
-Dissolution does not delete the instrument; it keeps the reference re-rendering as the step moves. The Mind writes and codes, narrowing the excess lag of its heading as it goes, without exempting its own watching from re-tracing. What dissolves is not the observer but the loop that turns the activity into an enduring portrait of the actor. [The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing](../the-meaning-of-life-is-in-the-drafting/) traces where meaning is generated: looking outward supplies material, but meaning is generated in the live drafting of causes on the open page, and it thins when the gaze does not return, so that hardened consequences come to register against a gallery of completed lives, with finished forms as their measure.
+Dissolution does not delete the instrument; it keeps the reference re-rendering as the step moves. The Mind writes and codes, narrowing the excess lag of its heading as it goes, without exempting its own watching from re-tracing. What dissolves is not the observer but the loop that turns the activity into an enduring portrait of the actor. [The Meaning of Life Is in the Drafting](../the-meaning-of-life-is-in-the-drafting/) traces where meaning is generated: looking outward supplies material, but meaning is generated in the live drafting of causes on the open page, and it thins when the gaze does not return, so that hardened consequences come to register against a gallery of completed lives, with finished forms as their measure.
 
 ## 三、 残余留下，注意力留在活动所揭示的东西上 / 3. Residue Remains While Attention Stays on What the Activity Reveals
 
-把能力审计与经由抹除的出口都放到一边，媒介本身便得以恢复：写，是为了看写作能成为什么；编码，是为了看编码能做到什么。注意力落在过程以及它所揭示的东西上。每一个句子依然是残余。残余无可逃避，这一实践也不怀有什么都不留下的幻想。它在对残余保持清醒的同时继续，不把残余回喂给一幅随后必须被捍卫或展示的自我形象。[器物是智能的表达，而非智能本身](../two-failures-of-trace/)追踪把动作压塌到残余上的两种冻结：更稠密的器物被持为智能本身，因为残余是观察所能保留的全部；而使用这些器物的他人所作的进一步区分，被记在器物和建造者的因果权能名下。无论在写作还是编码中，句子与提交记录都是那份残余，正如[你的代码库即是记忆](../your-codebase-is-memory/)在外化的人工记忆中所追溯的那样：代码库保存着结构性的痕迹，写作者的肖像是被冻结到它们上面的动作，而发起始终留在写下一行的那道边缘。
+把能力审计与经由抹除的出口都放到一边，媒介本身便得以恢复：写，是为了看写作能成为什么；编码，是为了看编码能做到什么。注意力落在过程以及它所揭示的东西上。每一个句子依然是残余。残余无可逃避，这一实践也不怀有什么都不留下的幻想。它在对残余保持清醒的同时继续，不把残余回喂给一幅随后必须被捍卫或展示的自我形象。[器物是智能的表达，而非智能本身](../two-failures-of-trace/)追踪把动作压塌到残余上的两种冻结：更稠密的器物被持为智能本身，因为残余是观察所能保留的全部；而使用这些器物的他人所作的进一步区分，被记在器物和建造者的因果权能名下。无论在写作还是编码中，句子与提交记录都是那份残余，正如[你的代码库即是记忆](../your-codebase-is-memory/)在外化记忆中所追溯的那样：代码库保存着先前区分的结构图谱，写作者或编码者的肖像是被冻结到它们上面的动作，而发起留在读取其摩擦并写下一行的那道活的边缘。
 
 ```mermaid
 flowchart TD
@@ -42,24 +42,20 @@ flowchart TD
         Heading["经过的坐标：自我形象每一步重新渲染为定向朝向"]
         Act --> Heading
     end
-
     subgraph S_Medium["媒介与有限投射（可检视的残余）"]
         direction TB
         Draft["表述出的痕迹：句子、代码与智能体规则被投出为有限投射"]
         Signal["摩擦与穷尽：无自我的执行或草稿接触浮现出被压缩的轴线"]
         Draft --> Signal
     end
-
     subgraph S_Outcome["对返回痕迹的两种分叉持守"]
         direction TB
         Portrait["冻结的肖像与苦行式抹除：审计能力，或把被抹除的自我保存过它的那一步"]
         Movement["持续的跨出：认领信号以重画前提，而不立纪念碑"]
     end
-
     Heading ==>|"投入媒介而不审计行动者"| Draft
     Signal -.->|"被俘获为审判证据或超然姿态"| Portrait
     Signal ==>|"作为诊断性的朝向返回活的边缘"| Movement
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Medium fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Outcome fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -71,7 +67,7 @@ flowchart TD
     style Movement fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-With both the capacity audit and the exit through erasure set aside, the medium itself is restored: write to see what writing can be; code to see what coding can do. Attention rests on the process and on what it reveals. Every sentence remains residue. Residue is inescapable, and the practice holds no fantasy of leaving nothing behind. It continues while remaining lucid about residue, without feeding residue back into a self-image that must then be defended or displayed. [Artifacts Are Expressions of Intelligence, Not Intelligence Itself](../two-failures-of-trace/) traces both freezes that collapse the act onto residue: denser artifacts are held as intelligence itself because residue is all observation can retain, and further distinguishing by others who use those artifacts is credited to the artifacts and to the builder’s causal power. In writing and coding alike, sentences and commits are that residue, as [Your Codebase Is Memory](../your-codebase-is-memory/) traces across externalized memory: the repository holds the structural graph of prior distinctions rather than a portrait of the coder's capacity, and initiation stays at the living edge that reads its friction and writes the next line.
+With both the capacity audit and the exit through erasure set aside, the medium itself is restored: write to see what writing can be; code to see what coding can do. Attention rests on the process and on what it reveals. Every sentence remains residue. Residue is inescapable, and the practice holds no fantasy of leaving nothing behind. It continues while remaining lucid about residue, without feeding residue back into a self-image that must then be defended or displayed. [Artifacts Are Expressions of Intelligence, Not Intelligence Itself](../two-failures-of-trace/) traces both freezes that collapse the act onto residue: denser artifacts are held as intelligence itself because residue is all observation can retain, and further distinguishing by others who use those artifacts is credited to the artifacts and to the builder’s causal power. In writing and coding alike, sentences and commits are that residue, as [Your Codebase Is Memory](../your-codebase-is-memory/) traces across externalized memory: the repository holds the structural graph of prior distinctions, the portrait of the writer or coder is the act frozen onto them, and initiation stays at the living edge that reads its friction and writes the next line.
 
 ```mermaid
 flowchart TD
@@ -81,24 +77,20 @@ flowchart TD
         Heading["Passing Coordinate: Self-image re-rendered each step as a directional heading"]
         Act --> Heading
     end
-
     subgraph S_Medium["The Medium & Finite Projection (Inspectable Residue)"]
         direction TB
         Draft["Articulated Trace: Sentences, code, and agentic rules cast as finite projections"]
         Signal["Friction & Exhaustion: Zero-ego execution or draft contact surfaces compressed axes"]
         Draft --> Signal
     end
-
     subgraph S_Outcome["Two Divergent Holds on the Returning Trace"]
         direction TB
         Portrait["Frozen Portrait & Ascetic Erasure: Auditing capacity or preserving the erased self past its step"]
         Movement["Ongoing Stepping-Out: Claiming the signal to re-draw the premise without a monument"]
     end
-
     Heading ==>|"Casts into the medium without auditing the actor"| Draft
     Signal -.->|"Captured as trial evidence or detached posture"| Portrait
     Signal ==>|"Returned to the living edge as diagnostic heading"| Movement
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Medium fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Outcome fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -112,4 +104,4 @@ flowchart TD
 
 注意力留在活动所揭示的东西上，而不是行动者在这揭示中显得如何。在这种持守里，自我形象不是一座要被保存的纪念碑，而是一个经过的坐标：它在动作之后一步死去又重新渲染，充当朝向，而不是一幅受保护之肖像的地基。[清晰不是抵达的终点，而是运动本身](../clarity-isnt-a-state-you-arrive-at/)直接追踪这种运动：清晰不是抵达的状态，而是反复的跨出本身；在透镜内部，被感到的确定与正确无法区分，而每一次表述都把移动的边缘转成一条已知的痕迹，既揭示，也结晶。[超越投射](../beyond-the-projection/)在写作与编码延伸至编排智能体工作流时揭示出同一种动态：每一条显式的提示词、规则或草稿，都是从极限分辨率的感知中切出的有限投射，智能体以零自我运行这一投射——不在它的那一步之后保留任何自我形象——而人类中心则会把自己的推理历史与绑定身份的肖像熔接在一起，除非它借由媒介的死锁与摩擦，分离出先前的表述在何处把独立的轴线压缩到了一起。[自我形象仿佛从无处发声](../self-image-speaks-as-if-from-nowhere/)追踪多出来的滞后如何把这个经过的坐标抬升为宝座：自我形象是自我在它自己的场内被重新投射为一个有界的项，两者从不同延；当这一重新投射被保存过了它的那一步，它就仿佛从超然的外部发声，把能动性分配到残余上。从那种抬升中松开，朝向便随步伐不断重新渲染，写作也不再是写作者的一面镜子：心智压进媒介，去看它能揭示什么。
 
-Attention stays on what the activity reveals, not on how the actor appears in the revealing. In this hold, the self-image is not a monument to be preserved but a passing coordinate: it dies and re-renders one step behind the act, serving as a heading rather than the ground of a protected portrait. [Clarity Isn't a State You Arrive At](../clarity-isnt-a-state-you-arrive-at/) traces that movement directly: clarity is not a state of arrival but the repeated stepping-out itself; from inside the lens, felt certainty and being correct are indistinguishable, and each articulation converts the moving edge into a known trace, revealing and crystallizing at once. [Beyond the Projection](../beyond-the-projection/) exposes this same dynamic when writing and coding extend into orchestrating agentic workflows: every explicit prompt, rule, or draft is a finite projection cut from limit-resolution sensing, and an agent runs that projection with zero ego—holding no self-image past its step—whereas a human center fuses its reasoning history with an identity-bound portrait unless it lets the medium's deadlocks and friction isolate where prior articulations compressed independent axes. [Self-Image Speaks as if from Nowhere](../self-image-speaks-as-if-from-nowhere/) traces how excess lag elevates the passing coordinate into a throne: the self-image is the Self re-projected as a bounded term within its own field, and the two are never coextensive; when that re-projection is preserved past its step, it speaks as if from a detached exterior, allocating agency onto residue. Released from that elevation, the heading keeps re-rendering as the step moves, and writing stops being a mirror of the writer: the Mind presses into the medium to see what it can reveal.
+Attention stays on what the activity reveals, not on how the actor appears in the revealing. In this hold, the self-image is not a monument to be preserved but a passing coordinate: it dies and re-renders one step behind the act, serving as a heading rather than the ground of a protected portrait. [Clarity Isn't a State You Arrive At. It's the Movement Itself.](../clarity-isnt-a-state-you-arrive-at/) traces that movement directly: clarity is not a state of arrival but the repeated stepping-out itself; from inside the lens, felt certainty and being correct are indistinguishable, and each articulation converts the moving edge into a known trace, revealing and crystallizing at once. [Beyond the Projection](../beyond-the-projection/) exposes this same dynamic when writing and coding extend into orchestrating agentic workflows: every explicit prompt, rule, or draft is a finite projection cut from limit-resolution sensing, and an agent runs that projection with zero ego—holding no self-image past its step—whereas a human center fuses its reasoning history with an identity-bound portrait unless it lets the medium's deadlocks and friction isolate where prior articulations compressed independent axes. [Self-Image Speaks as if from Nowhere](../self-image-speaks-as-if-from-nowhere/) traces how excess lag elevates the passing coordinate into a throne: the self-image is the Self re-projected as a bounded term within its own field, and the two are never coextensive; when that re-projection is preserved past its step, it speaks as if from a detached exterior, allocating agency onto residue. Released from that elevation, the heading keeps re-rendering as the step moves, and writing stops being a mirror of the writer: the Mind presses into the medium to see what it can reveal.

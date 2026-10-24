@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-24T23:06:24.654Z",
+    "generated_at": "2026-10-24T23:32:45.065Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -22,7 +22,7 @@
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "4d7f22ced380",
       "content/posts/ai-as-augmentation.md": "f0a8c8f069ef",
       "content/posts/ai-wont-kill-software-engineering.md": "c91ee4108c07",
-      "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "d1389d688b79",
+      "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "2bdcdf8308f8",
       "content/posts/amplification-paradox.md": "a275c141a687",
       "content/posts/an-observation-by-its-own-standard.md": "1d44b8371330",
       "content/posts/better-than-free-after-the-checklist-closes.md": "d39b1b10df08",
@@ -89,7 +89,7 @@
       "content/posts/freedom-as-ground.md": "f60f8121fb0f",
       "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "234ce1feb90a",
       "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "dd5647fb74a2",
-      "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "a2f03c17ade1",
+      "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "ba0a285ae5ef",
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "b3f92aa94886",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "e21403fb50ae",
       "content/posts/grok-420-framework-drift.md": "2a6735f32325",
@@ -184,7 +184,7 @@
       "content/posts/sensing-before-interpretation.md": "e85a0b081114",
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "effb27d0037a",
       "content/posts/shared-humanity-is-never-shared.md": "667dd03af694",
-      "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "94134cb1fdd7",
+      "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "7220d97a43c1",
       "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "6e6001066898",
       "content/posts/simplicity-ultimate-sophistication.md": "90ac1690ba33",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "f8e3b69029ce",
@@ -206,7 +206,7 @@
       "content/posts/the-bank-shot-and-the-magic-trick.md": "fc402ee12141",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "d76114e1c2e4",
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "181a1e9ba371",
-      "content/posts/the-blind-spot-of-the-frame.md": "58380de3c7fd",
+      "content/posts/the-blind-spot-of-the-frame.md": "9f7a2066930e",
       "content/posts/the-boundary-crossing-of-choice.md": "5725ac2013bd",
       "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "2f3a0106f008",
       "content/posts/the-boundary-of-the-frame.md": "26e714abce6e",
@@ -401,14 +401,14 @@
       "content/posts/when-the-effect-authors-the-frame.md": "f05105b5e2b1",
       "content/posts/why-explanation-fails.md": "7983bb8f8771",
       "content/posts/why-mathematics-can-never-be-solved.md": "f43a8391575b",
-      "content/posts/writing-without-the-image.md": "e3d031867578",
+      "content/posts/writing-without-the-image.md": "157f6998ee85",
       "content/posts/xian-shi-de-bian-jie.md": "2c30017f1800",
       "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "f4334d8f6b04",
       "content/posts/you-cant-benchmark-the-fluid.md": "01847ccdd234",
       "content/posts/you-tiao-jian-de-zi-you.md": "951537534f9e",
       "content/posts/you-wu-zhi-bian.md": "de3cca5f81ee",
       "content/posts/your-codebase-is-memory.md": "3c419bcfbe42",
-      "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "59220f9cdf84",
+      "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "bbc21859db0e",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "f1f3cd0266ec",
       "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "f23cfe1f4ca3",
       "content/posts/zi-you-de-ce-bu-zhun.md": "301040768436",
@@ -961,7 +961,7 @@
       "slug": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
       "path": "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md",
       "title": "凡可言说皆不可言说之产物 / All That Can Be Spoken Is the Product of the Unspeakable",
-      "hash": "d1389d688b79",
+      "hash": "2bdcdf8308f8",
       "in_degree": 7,
       "out_degree": 9,
       "links_out": [
@@ -2694,7 +2694,7 @@
       "slug": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
       "path": "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md",
       "title": "个人选择、社会化与做自己 / Individual Choice, Socialization and Being Oneself",
-      "hash": "a2f03c17ade1",
+      "hash": "ba0a285ae5ef",
       "in_degree": 8,
       "out_degree": 9,
       "links_out": [
@@ -5337,7 +5337,7 @@
       "slug": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
       "path": "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md",
       "title": "选择看见而非搜寻影子 / Choosing to See Rather Than Searching for Shadows",
-      "hash": "94134cb1fdd7",
+      "hash": "7220d97a43c1",
       "in_degree": 8,
       "out_degree": 9,
       "links_out": [
@@ -5997,7 +5997,7 @@
       "slug": "the-blind-spot-of-the-frame",
       "path": "content/posts/the-blind-spot-of-the-frame.md",
       "title": "框架的盲区 / The Blind Spot of the Frame",
-      "hash": "58380de3c7fd",
+      "hash": "9f7a2066930e",
       "in_degree": 3,
       "out_degree": 9,
       "links_out": [
@@ -10708,7 +10708,7 @@
       "slug": "writing-without-the-image",
       "path": "content/posts/writing-without-the-image.md",
       "title": "无形象的写作 / Writing Without the Image",
-      "hash": "e3d031867578",
+      "hash": "157f6998ee85",
       "in_degree": 7,
       "out_degree": 9,
       "links_out": [
@@ -10863,7 +10863,7 @@
       "slug": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
       "path": "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md",
       "title": "止步于评判，是认知的歧途 / Stopping at Judgment Is a Wrong Turn of Cognition",
-      "hash": "59220f9cdf84",
+      "hash": "bbc21859db0e",
       "in_degree": 8,
       "out_degree": 9,
       "links_out": [
@@ -13344,13 +13344,13 @@
       "from": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
       "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "rel": "points_to",
-      "label": "模拟假说"
+      "label": "自由变量的同构与先验主权"
     },
     {
       "from": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
       "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "rel": "points_to",
-      "label": "the simulation hypothesis"
+      "label": "The Isomorphism of Free Variables and Prior Sovereignty"
     },
     {
       "from": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
@@ -47040,7 +47040,7 @@
       "from": "the-blind-spot-of-the-frame",
       "to": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
       "rel": "points_to",
-      "label": "约束的基底与自由的自否"
+      "label": "约束基底与自由自否"
     },
     {
       "from": "the-blind-spot-of-the-frame",
@@ -76782,7 +76782,7 @@
       "from": "writing-without-the-image",
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
-      "label": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing"
+      "label": "The Meaning of Life Is in the Drafting"
     },
     {
       "from": "writing-without-the-image",
@@ -76830,7 +76830,7 @@
       "from": "writing-without-the-image",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
-      "label": "Clarity Isn't a State You Arrive At"
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
     },
     {
       "from": "writing-without-the-image",
@@ -77700,7 +77700,7 @@
       "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
-      "label": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing"
+      "label": "The Meaning of Life Is in the Drafting"
     },
     {
       "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
