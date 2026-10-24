@@ -142,7 +142,7 @@ After the draft’s precision holds, add only what the site essay needs:
 | Section headings | Name *this* essay’s cuts, not generic slots or neighbor titles |
 | Cross-links | Where an adjacent axis truly fits — pointer clause only; sparse |
 | Reverse links | On every 1-hop outbound neighbor (placed in the same ship during `/wake` / `/draft`) |
-| Sleep consolidation | `/sleep` refines Layer 1 (`L1 = links_out(N)`); `/deep-sleep` waits for `L_{k-1}` to finish, re-projects the graph, and steps one layer deeper (`L2`, `L3`, ..., `Lk`) across the lattice |
+| Sleep consolidation | `/sleep` runs Node `0`, the Pre-Wave Reverse-Link Sweep, the recursive causal-`DELTA` wave (`L1 → L2 → ... → Lk` stopping at `NO_DELTA`), and the Post-Wave Sweep; `/deep-sleep` consolidates all remaining unvisited posts and book/site contents in staleness-ordered batches |
 | Cover + STYLES | Usual ship path |
 
 Do **not** invent long expansions, dual-error costume blocks, or neighbor laundry lists to “make it look like” other posts.
@@ -202,7 +202,7 @@ A new essay is a further distinction in the same tracing. Older posts that alrea
    | **No shared axis** | Topic overlap only | Leave |
 
 4. A pointer is enough only when the old claim still holds and only the new face needs naming.
-5. Incoming 1-hop reverse pointers are placed during `/wake` (`/draft`); full peer-debate refinement of outward neighbors runs in `/sleep` (`L1 = links_out(N)`) and `/deep-sleep` (`L2 → L3 → ... → Lk`, computed lazily after each prior layer finishes).
+5. Full peer-debate consolidation of `N`'s causal ripple runs in `/sleep` (`L1 = (links_out(N) ∪ S_pre) \ {N}`, propagating causal `DELTA` branches through `L2 → L3 → ... → Lk` until `NO_DELTA`, followed by `_post-wave-sweep`), and `/deep-sleep` consolidates all remaining unvisited posts and book/site contents in batches.
 
 Do not warehouse hits. Do not over-relax: if an old heading or installing sentence still names the shallower face as the whole problem, that sentence is the update.
 

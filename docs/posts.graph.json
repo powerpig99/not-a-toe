@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-24T06:23:40.266Z",
+    "generated_at": "2026-10-24T08:40:52.911Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -14,7 +14,7 @@
       "content/posts/a-new-deeper-look-at-antifragility.md": "e5ed06c9658d",
       "content/posts/abstract-pain-and-living-hunger.md": "8b69f6ffa076",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "4a16f0aaf74d",
-      "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "5cd7cb7519fa",
+      "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "5928998f445d",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "ec3480fb850e",
       "content/posts/agency-does-not-arise.md": "2064c3c57645",
       "content/posts/agency-relocated-into-the-formal-model.md": "623e5bff2d49",
@@ -86,7 +86,7 @@
       "content/posts/fixed-by-nothing.md": "9f5437174a82",
       "content/posts/four-night-questions.md": "56506f767fb5",
       "content/posts/freedom-as-ground.md": "76afe66c491b",
-      "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "49034385ba4b",
+      "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "234ce1feb90a",
       "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "dd5647fb74a2",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "a2f03c17ade1",
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "48b125c5031e",
@@ -101,7 +101,7 @@
       "content/posts/having-more-is-never-the-cause.md": "fff7b1e393f6",
       "content/posts/help-is-half-the-problem.md": "b370c85eb106",
       "content/posts/hierarchy-from-individual-difference.md": "69e9c1301745",
-      "content/posts/how-belief-actually-changes.md": "c5fe5bd1c82a",
+      "content/posts/how-belief-actually-changes.md": "e023849871b3",
       "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "9c200c5c4e2a",
       "content/posts/huberman-winners-losers.md": "52edd6aa4959",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "2740c5400321",
@@ -151,7 +151,7 @@
       "content/posts/order-surplus-and-the-moral-intercept.md": "7cb3a1c5111c",
       "content/posts/overfitting-as-the-follower-mode.md": "0456d9f85a5c",
       "content/posts/ownership-and-self-worthiness.md": "db74f7e5f39a",
-      "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "ccfe0b71ff75",
+      "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "19deef69b9d1",
       "content/posts/perception-perspective-refined.md": "d9484330c5b9",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "3e61069b5eda",
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "4c53ac6aa52d",
@@ -192,7 +192,7 @@
       "content/posts/stability-and-excess.md": "25b813029b34",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "48fed4ebc465",
       "content/posts/subtracting-consciousness-at-the-source.md": "df1242fc6ba9",
-      "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "82cb19957394",
+      "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "8246023f9355",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "463e396e6297",
       "content/posts/technology-is-residual-of-human-compounding.md": "1576031b77f7",
       "content/posts/the-aesthetic-escalator-and-the-melancholy-of-the-balcony.md": "a0e3de4f4ec8",
@@ -208,7 +208,7 @@
       "content/posts/the-blind-spot-of-the-frame.md": "58380de3c7fd",
       "content/posts/the-boundary-crossing-of-choice.md": "5725ac2013bd",
       "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "2f3a0106f008",
-      "content/posts/the-boundary-of-the-frame.md": "6e148e2a6922",
+      "content/posts/the-boundary-of-the-frame.md": "26e714abce6e",
       "content/posts/the-brain-does-not-backprop.md": "31ffd822909f",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "6e9576ea4bf5",
       "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "85a75f91e6a5",
@@ -226,7 +226,7 @@
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "9e53487d8960",
       "content/posts/the-continuum-is-a-modeling-convenience.md": "3c2e3fff1d21",
       "content/posts/the-continuum-of-the-fold.md": "bc2ed3454dd0",
-      "content/posts/the-coordinators-category-error.md": "849cdeef9512",
+      "content/posts/the-coordinators-category-error.md": "cacce30b5e40",
       "content/posts/the-cut-moves-but-never-vanishes.md": "e61a8aa0715d",
       "content/posts/the-defining-seat.md": "439193457772",
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "64e116ab1993",
@@ -235,13 +235,13 @@
       "content/posts/the-deterministic-machine.md": "fbf2680f40d1",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "57a85b713c5f",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "84960aa9f76c",
-      "content/posts/the-discount-on-agency.md": "754aac28467d",
+      "content/posts/the-discount-on-agency.md": "d3feb5d425d6",
       "content/posts/the-dissolution-of-the-great-reversal.md": "afb2ae4a969c",
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "cf61f9e9c832",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "8141b07efa43",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "bf47c037daad",
       "content/posts/the-extendable-horizon.md": "a74fd15380da",
-      "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "58465caf6ed6",
+      "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "7915aadc533b",
       "content/posts/the-fallacy-of-post-success-parenting.md": "7f1aaf099f4f",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "bea3e8326963",
       "content/posts/the-fixed-image-of-transcendence.md": "582a2dc98e15",
@@ -250,7 +250,7 @@
       "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "ec15da6f1cf3",
       "content/posts/the-frame-that-conceals-improvement.md": "6fbcef6b9c4c",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "38f50ac90bab",
-      "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "bda6d94ef25c",
+      "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "5b3957b27316",
       "content/posts/the-freedom-of-will-to-deny-itself.md": "a083f19c6708",
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "91420ed7e85a",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "b280bd7da641",
@@ -269,7 +269,7 @@
       "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "6d4b7faef53e",
       "content/posts/the-illusion-of-distance-and-the-dual-ruler.md": "6232766ba174",
       "content/posts/the-illusion-of-free-intelligence.md": "ea307666af7d",
-      "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "0200bfbf3fa5",
+      "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "28d2c9ecb890",
       "content/posts/the-illusion-of-the-shared-sandbox.md": "f20e733d6ceb",
       "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "c5acd4b281e2",
       "content/posts/the-illusion-of-the-unmediated.md": "a5c1d555a98a",
@@ -282,7 +282,7 @@
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "60f354d84985",
       "content/posts/the-invisible-first-move.md": "2903f23cc112",
       "content/posts/the-invisible-gods-eye.md": "2cd4107ca030",
-      "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "056a21f2e1a9",
+      "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "09e1af17f8a8",
       "content/posts/the-irreducible-observer.md": "128d5b8534dd",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "883cbb67e220",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "ff064e746f65",
@@ -310,7 +310,7 @@
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "db6546734668",
       "content/posts/the-name-revolution-files-a-life-as-evidence.md": "0005b5557300",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "d580075b6d35",
-      "content/posts/the-npc-impression-is-structural.md": "42db1320fcc9",
+      "content/posts/the-npc-impression-is-structural.md": "4f7bc9fb76e2",
       "content/posts/the-observational-cut-in-ai-debates.md": "67d1a12b9dca",
       "content/posts/the-only-coherent-uncaused-effect.md": "8e828e808896",
       "content/posts/the-open-question-is-determinisms-demand.md": "80597e04a05d",
@@ -320,7 +320,7 @@
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "a9f8094d00b3",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "48c1bddc846f",
       "content/posts/the-perceiver-and-the-trace.md": "12ca1c236bca",
-      "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "dcbc3d4392d6",
+      "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "bb2f003e5b8b",
       "content/posts/the-power-law-of-surrendered-agency.md": "4a2576b3519f",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "b822b26346b4",
       "content/posts/the-price-of-closing-optionality.md": "5587a48534a1",
@@ -332,7 +332,7 @@
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "e25d00e96b60",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "3f4e0e3db4b8",
       "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "ad7483982bf1",
-      "content/posts/the-reflexive-dilemma-of-unique-insight.md": "4e3a2ae77041",
+      "content/posts/the-reflexive-dilemma-of-unique-insight.md": "715a152c2c2f",
       "content/posts/the-residue-and-the-free-variable.md": "977dcacd8f51",
       "content/posts/the-returning-signal-and-its-claim.md": "3e0a96be38a7",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "4e0a51e77cf0",
@@ -365,9 +365,9 @@
       "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "065bbf648c6e",
       "content/posts/the-unclosable-trace.md": "f4ad7fa5724b",
       "content/posts/the-unexamined-critic.md": "a1e150cb8eae",
-      "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "d9b856250467",
+      "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "ea55420c80e9",
       "content/posts/the-unobservable-driver-of-learning.md": "16338781295d",
-      "content/posts/the-utility-men-of-progress.md": "74816f95d229",
+      "content/posts/the-utility-men-of-progress.md": "b35b7ef21677",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "778ea3bc6eea",
       "content/posts/the-velocity-of-visibility.md": "55e3bb3d48fa",
       "content/posts/the-walking-tangent-and-the-stumbling-sphere.md": "6dd94a8b5246",
@@ -393,9 +393,9 @@
       "content/posts/when-abundance-looks-like-scarcity.md": "8ffe214e39a4",
       "content/posts/when-electrons-think.md": "c3336f135244",
       "content/posts/when-malfunction-is-scored-as-intelligence.md": "8adae7d53567",
-      "content/posts/when-need-stops-being-the-measure.md": "d751b4079d88",
+      "content/posts/when-need-stops-being-the-measure.md": "193f5886b7bf",
       "content/posts/when-observation-becomes-performance.md": "fc49af651c83",
-      "content/posts/when-the-effect-authors-the-frame.md": "7d330f511260",
+      "content/posts/when-the-effect-authors-the-frame.md": "f05105b5e2b1",
       "content/posts/why-explanation-fails.md": "7983bb8f8771",
       "content/posts/why-mathematics-can-never-be-solved.md": "f43a8391575b",
       "content/posts/writing-without-the-image.md": "e3d031867578",
@@ -430,10 +430,10 @@
     },
     "stats": {
       "posts": 403,
-      "edges": 11154,
-      "unique_directed": 5472,
+      "edges": 11196,
+      "unique_directed": 5493,
       "missing_targets": 0,
-      "one_way": 856,
+      "one_way": 857,
       "isolated": 0,
       "posts_with_outbound": 403,
       "book_pages": 16,
@@ -464,7 +464,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 68
+      "in_degree": 69
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
@@ -476,11 +476,11 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "in_degree": 53
+      "in_degree": 54
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
-      "in_degree": 42
+      "in_degree": 43
     },
     {
       "slug": "causality-stays-at-the-edge-that-steers",
@@ -759,7 +759,7 @@
       "slug": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
       "path": "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md",
       "title": "要求他人开放是对自我封闭的渴望 / Advocating Openness of Others Is a Desire for Closure of the Self",
-      "hash": "5cd7cb7519fa",
+      "hash": "5928998f445d",
       "in_degree": 13,
       "out_degree": 15,
       "links_out": [
@@ -2165,7 +2165,7 @@
       "path": "content/posts/emotional-support-as-causal-interference.md",
       "title": "作为因果干扰的情感支持 / Emotional Support as Causal Interference",
       "hash": "4c4a477833bd",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 10,
       "links_out": [
         "your-codebase-is-memory",
@@ -2624,9 +2624,9 @@
       "slug": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "path": "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md",
       "title": "从AGI的“神性错置”到使用者的自我对齐 / From the Misallocated Sentience of AGI to Human Realignment",
-      "hash": "49034385ba4b",
+      "hash": "234ce1feb90a",
       "in_degree": 8,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
@@ -2636,6 +2636,7 @@
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "when-malfunction-is-scored-as-intelligence",
         "beyond-the-projection",
+        "the-reversal-of-verification",
         "your-codebase-is-memory",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
@@ -2913,7 +2914,7 @@
       "path": "content/posts/help-is-half-the-problem.md",
       "title": "帮助是问题的一半 / Help Is Half the Problem",
       "hash": "b370c85eb106",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 11,
       "links_out": [
         "the-myth-of-population-collapse-explained",
@@ -2977,7 +2978,7 @@
       "slug": "how-belief-actually-changes",
       "path": "content/posts/how-belief-actually-changes.md",
       "title": "信念如何真正改变 / How Belief Actually Changes",
-      "hash": "c5fe5bd1c82a",
+      "hash": "e023849871b3",
       "in_degree": 19,
       "out_degree": 21,
       "links_out": [
@@ -3545,7 +3546,7 @@
       "path": "content/posts/mei-you-pu-du-zhi-you-zi-du.md",
       "title": "没有普渡，只有自渡的无限可能 / No Universal Salvation, Only Boundless Possibilities of Self-Salvation",
       "hash": "02c235243d39",
-      "in_degree": 42,
+      "in_degree": 43,
       "out_degree": 45,
       "links_out": [
         "when-the-effect-authors-the-frame",
@@ -4352,7 +4353,7 @@
       "path": "content/posts/order-surplus-and-the-moral-intercept.md",
       "title": "秩序、剩余与道德拦截 / Order, Surplus, and the Moral Intercept",
       "hash": "7cb3a1c5111c",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 14,
       "links_out": [
         "symptom-and-cause-in-the-narratives-of-progress",
@@ -4394,7 +4395,7 @@
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "自我价值感与所有权 / Ownership and Self-Worthiness",
       "hash": "db74f7e5f39a",
-      "in_degree": 53,
+      "in_degree": 54,
       "out_degree": 54,
       "links_out": [
         "the-meaning-of-life-is-in-the-drafting",
@@ -4459,8 +4460,8 @@
       "slug": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
       "path": "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md",
       "title": "拥有成本把滞后的平均值冻结为车辆属性 / Ownership Cost Freezes Lagged Averages as Vehicle Property",
-      "hash": "ccfe0b71ff75",
-      "in_degree": 8,
+      "hash": "19deef69b9d1",
+      "in_degree": 9,
       "out_degree": 10,
       "links_out": [
         "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
@@ -5517,9 +5518,9 @@
       "slug": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "path": "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md",
       "title": "同情是缺乏清晰时的占位符 / Sympathy Is a Placeholder for Lack of Clarity",
-      "hash": "82cb19957394",
+      "hash": "8246023f9355",
       "in_degree": 9,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "mei-you-pu-du-zhi-you-zi-du",
         "the-npc-impression-is-structural",
@@ -5530,6 +5531,7 @@
         "guidance-is-not-ownership",
         "beyond-the-projection",
         "your-codebase-is-memory",
+        "the-reversal-of-verification",
         "clarity-isnt-a-state-you-arrive-at",
         "reality-is-the-minds-ongoing-realization"
       ]
@@ -6029,9 +6031,9 @@
       "slug": "the-boundary-of-the-frame",
       "path": "content/posts/the-boundary-of-the-frame.md",
       "title": "框架的边界 / The Boundary of the Frame",
-      "hash": "6e148e2a6922",
+      "hash": "26e714abce6e",
       "in_degree": 19,
-      "out_degree": 19,
+      "out_degree": 21,
       "links_out": [
         "what-information-is",
         "time-is-causality-not-a-dimension",
@@ -6042,8 +6044,10 @@
         "the-arithmetic-of-the-register",
         "the-mirage-of-the-infinite-totality",
         "your-codebase-is-memory",
+        "the-reversal-of-verification",
         "the-reversal-from-defensible-claim-to-dogma",
         "no-system-can-be-kept-closed",
+        "the-question-that-installs-the-war",
         "the-only-coherent-uncaused-effect",
         "the-closed-n-and-the-open-reality",
         "causality-all-the-way",
@@ -6429,9 +6433,9 @@
       "slug": "the-coordinators-category-error",
       "path": "content/posts/the-coordinators-category-error.md",
       "title": "协调者的范畴错误 / The Coordinator's Category Error",
-      "hash": "849cdeef9512",
+      "hash": "cacce30b5e40",
       "in_degree": 20,
-      "out_degree": 22,
+      "out_degree": 23,
       "links_out": [
         "your-codebase-is-memory",
         "the-scaffolding-we-forget",
@@ -6443,6 +6447,7 @@
         "mei-you-pu-du-zhi-you-zi-du",
         "price-as-utterance-understanding-as-trade",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
+        "the-reversal-of-verification",
         "the-npc-impression-is-structural",
         "liberation-rhetoric-begins-by-defining-captivity",
         "help-is-half-the-problem",
@@ -6662,7 +6667,7 @@
       "slug": "the-discount-on-agency",
       "path": "content/posts/the-discount-on-agency.md",
       "title": "主体性的折现 / The Discount on Agency",
-      "hash": "754aac28467d",
+      "hash": "d3feb5d425d6",
       "in_degree": 9,
       "out_degree": 10,
       "links_out": [
@@ -6809,9 +6814,9 @@
       "slug": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "path": "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md",
       "title": "调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth",
-      "hash": "58465caf6ed6",
+      "hash": "7915aadc533b",
       "in_degree": 12,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "the-illusion-of-knowing-and-the-geometry-of-amputation",
         "the-mind-as-vector-and-coordinate-system",
@@ -6821,6 +6826,7 @@
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "when-malfunction-is-scored-as-intelligence",
         "beyond-the-projection",
+        "the-reversal-of-verification",
         "your-codebase-is-memory",
         "felt-resistance-and-the-speed-differential",
         "individual-choices-as-the-only-causal-levers",
@@ -7030,9 +7036,9 @@
       "slug": "the-free-variable-and-the-retrospective-illusion-of-power",
       "path": "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md",
       "title": "隐性自由变量与权力的事后幻相 / The Invisible Free Variable and the Retrospective Illusion of Power",
-      "hash": "bda6d94ef25c",
+      "hash": "5b3957b27316",
       "in_degree": 11,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "cheng-gong-xue",
         "the-invisible-observer-and-the-delusion-of-lossless-transmission",
@@ -7043,6 +7049,7 @@
         "the-mirror-handshake-of-power",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "the-residue-and-the-free-variable",
+        "the-reversal-of-verification",
         "the-twin-paradox-and-the-hidden-observer",
         "the-allocation-of-causal-power-in-validation"
       ]
@@ -7478,9 +7485,9 @@
       "slug": "the-illusion-of-knowing-and-the-geometry-of-amputation",
       "path": "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md",
       "title": "以知为刃的截肢与解脱 / The Illusion of Knowing and the Geometry of Amputation",
-      "hash": "0200bfbf3fa5",
+      "hash": "28d2c9ecb890",
       "in_degree": 8,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "individual-choices-as-the-only-causal-levers",
@@ -7491,7 +7498,8 @@
         "coordinates-in-flux-negation-and-self-anchoring",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
         "beyond-the-projection",
-        "your-codebase-is-memory"
+        "your-codebase-is-memory",
+        "the-reversal-of-verification"
       ]
     },
     {
@@ -7753,7 +7761,7 @@
       "slug": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
       "path": "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md",
       "title": "观察者的隐身与无损传递的妄念 / The Invisible Observer and the Delusion of Lossless Transmission",
-      "hash": "056a21f2e1a9",
+      "hash": "09e1af17f8a8",
       "in_degree": 10,
       "out_degree": 10,
       "links_out": [
@@ -8394,9 +8402,9 @@
       "slug": "the-npc-impression-is-structural",
       "path": "content/posts/the-npc-impression-is-structural.md",
       "title": "NPC 印象是结构性的，而非心智的排名 / The NPC Impression Is Structural, Not a Ranking of Minds",
-      "hash": "42db1320fcc9",
+      "hash": "4f7bc9fb76e2",
       "in_degree": 13,
-      "out_degree": 16,
+      "out_degree": 17,
       "links_out": [
         "mei-you-pu-du-zhi-you-zi-du",
         "intelligence-belongs-only-to-the-mind",
@@ -8408,6 +8416,7 @@
         "the-question-that-installs-the-war",
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
         "beyond-the-projection",
+        "the-reversal-of-verification",
         "your-codebase-is-memory",
         "the-unobservable-driver-of-learning",
         "the-path-drawn-one-step-at-a-time",
@@ -8633,7 +8642,7 @@
       "slug": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
       "path": "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md",
       "title": "算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records",
-      "hash": "dcbc3d4392d6",
+      "hash": "bb2f003e5b8b",
       "in_degree": 4,
       "out_degree": 7,
       "links_out": [
@@ -8733,7 +8742,7 @@
       "path": "content/posts/the-question-that-installs-the-war.md",
       "title": "安装战争的那个问题 / The Question That Installs the War",
       "hash": "841400920834",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 13,
       "links_out": [
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
@@ -8968,14 +8977,15 @@
       "slug": "the-reflexive-dilemma-of-unique-insight",
       "path": "content/posts/the-reflexive-dilemma-of-unique-insight.md",
       "title": "独见者的自反困境与必然性的后验投射 / The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity",
-      "hash": "4e3a2ae77041",
+      "hash": "715a152c2c2f",
       "in_degree": 4,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "the-free-variable-and-the-retrospective-illusion-of-power",
         "the-walking-tangent-and-the-stumbling-sphere",
         "the-model-never-becomes-a-second-edge",
         "felt-resistance-and-the-speed-differential",
+        "the-reversal-of-verification",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
         "the-unfrictioned-mind-and-borrowed-omnipotence",
         "the-knowledge-problem-and-the-illusion-of-delegation",
@@ -9108,7 +9118,7 @@
       "path": "content/posts/the-reversal-of-verification.md",
       "title": "验证的倒置 / The Reversal of Verification",
       "hash": "02f9845efe25",
-      "in_degree": 18,
+      "in_degree": 29,
       "out_degree": 8,
       "links_out": [
         "openness-is-consistency",
@@ -9224,7 +9234,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "遗忘的脚手架 / The Scaffolding We Forget",
       "hash": "f6749a3e817f",
-      "in_degree": 68,
+      "in_degree": 69,
       "out_degree": 70,
       "links_out": [
         "the-extendable-horizon",
@@ -9827,7 +9837,7 @@
       "slug": "the-unfrictioned-mind-and-borrowed-omnipotence",
       "path": "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md",
       "title": "未历摩擦的心智与借来的全能 / The Unfrictioned Mind and Borrowed Omnipotence",
-      "hash": "d9b856250467",
+      "hash": "ea55420c80e9",
       "in_degree": 8,
       "out_degree": 9,
       "links_out": [
@@ -9837,9 +9847,9 @@
         "the-discount-on-agency",
         "a-new-deeper-look-at-antifragility",
         "empowerment-establishes-the-centralization-of-power",
-        "the-free-variable-and-the-retrospective-illusion-of-power",
+        "your-codebase-is-memory",
         "the-reflexive-dilemma-of-unique-insight",
-        "your-codebase-is-memory"
+        "the-free-variable-and-the-retrospective-illusion-of-power"
       ]
     },
     {
@@ -9875,9 +9885,9 @@
       "slug": "the-utility-men-of-progress",
       "path": "content/posts/the-utility-men-of-progress.md",
       "title": "进步的多面手 / The Utility Men of Progress",
-      "hash": "74816f95d229",
+      "hash": "b35b7ef21677",
       "in_degree": 17,
-      "out_degree": 19,
+      "out_degree": 20,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "symptom-and-cause-in-the-narratives-of-progress",
@@ -9896,6 +9906,7 @@
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "your-codebase-is-memory",
         "beyond-the-projection",
+        "the-reversal-of-verification",
         "the-illusion-of-free-intelligence",
         "the-reality-distortion-field-inverts-the-baseline"
       ]
@@ -9997,7 +10008,7 @@
       "path": "content/posts/therapy-opens-the-feedback-loop.md",
       "title": "疗愈打开反馈回路 / Therapy Opens the Feedback Loop",
       "hash": "fef94840ad77",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 12,
       "links_out": [
         "when-the-effect-authors-the-frame",
@@ -10488,11 +10499,20 @@
       "slug": "when-need-stops-being-the-measure",
       "path": "content/posts/when-need-stops-being-the-measure.md",
       "title": "当被需要不再是尺度 / When Need Stops Being the Measure",
-      "hash": "d751b4079d88",
+      "hash": "193f5886b7bf",
       "in_degree": 9,
-      "out_degree": 1,
+      "out_degree": 10,
       "links_out": [
-        "your-codebase-is-memory"
+        "emotional-support-as-causal-interference",
+        "ownership-and-self-worthiness",
+        "your-codebase-is-memory",
+        "the-scaffolding-we-forget",
+        "therapy-opens-the-feedback-loop",
+        "help-is-half-the-problem",
+        "mei-you-pu-du-zhi-you-zi-du",
+        "order-surplus-and-the-moral-intercept",
+        "when-the-effect-authors-the-frame",
+        "ownership-cost-freezes-lagged-averages-as-vehicle-property"
       ]
     },
     {
@@ -10531,9 +10551,9 @@
       "slug": "when-the-effect-authors-the-frame",
       "path": "content/posts/when-the-effect-authors-the-frame.md",
       "title": "当效果主宰了框架的叙事 / When the Effect Authors the Frame",
-      "hash": "7d330f511260",
-      "in_degree": 15,
-      "out_degree": 17,
+      "hash": "f05105b5e2b1",
+      "in_degree": 16,
+      "out_degree": 18,
       "links_out": [
         "emotional-support-as-causal-interference",
         "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
@@ -10544,6 +10564,7 @@
         "pessimism-is-the-shadow-of-optimism",
         "the-compassion-is-the-mechanism-of-obscuration",
         "your-codebase-is-memory",
+        "the-reversal-of-verification",
         "therapy-opens-the-feedback-loop",
         "how-belief-actually-changes",
         "symptom-and-cause-in-the-narratives-of-progress",
@@ -24114,6 +24135,12 @@
     },
     {
       "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
@@ -24123,6 +24150,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
     },
     {
       "from": "from-the-misallocated-sentience-of-agi-to-human-realignment",
@@ -36884,7 +36917,7 @@
       "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
-      "label": "Data Is Local; Intelligence Is Allocated"
+      "label": "Data Is Local, Intelligence Is Allocated"
     },
     {
       "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
@@ -36926,7 +36959,7 @@
       "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
       "to": "when-need-stops-being-the-measure",
       "rel": "points_to",
-      "label": "当被需要不再是衡量"
+      "label": "当被需要不再是尺度"
     },
     {
       "from": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
@@ -43772,13 +43805,13 @@
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "to": "empathy-as-projection-collapse",
       "rel": "points_to",
-      "label": "The Word Does the Damage: Empathy as Projection Collapse"
+      "label": "Empathy as Projection Collapse"
     },
     {
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "to": "emotional-support-as-causal-interference",
       "rel": "points_to",
-      "label": "情感支持作为因果干扰"
+      "label": "作为因果干扰的情感支持"
     },
     {
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
@@ -43824,6 +43857,12 @@
     },
     {
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
@@ -43833,6 +43872,12 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
     },
     {
       "from": "sympathy-is-a-placeholder-for-lack-of-clarity",
@@ -47048,7 +47093,7 @@
       "from": "the-boundary-of-the-frame",
       "to": "an-observation-by-its-own-standard",
       "rel": "points_to",
-      "label": "被外推到它校准的范围之外"
+      "label": "依其自身标准的观察"
     },
     {
       "from": "the-boundary-of-the-frame",
@@ -47060,7 +47105,7 @@
       "from": "the-boundary-of-the-frame",
       "to": "an-observation-by-its-own-standard",
       "rel": "points_to",
-      "label": "extrapolated beyond the range it was calibrated for"
+      "label": "An Observation by Its Own Standard"
     },
     {
       "from": "the-boundary-of-the-frame",
@@ -47112,6 +47157,12 @@
     },
     {
       "from": "the-boundary-of-the-frame",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
       "to": "the-reversal-from-defensible-claim-to-dogma",
       "rel": "points_to",
       "label": "从可辩护的主张到教条的反转"
@@ -47121,6 +47172,12 @@
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
       "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "the-question-that-installs-the-war",
+      "rel": "points_to",
+      "label": "安装战争的那个问题"
     },
     {
       "from": "the-boundary-of-the-frame",
@@ -47136,6 +47193,12 @@
     },
     {
       "from": "the-boundary-of-the-frame",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
       "to": "the-reversal-from-defensible-claim-to-dogma",
       "rel": "points_to",
       "label": "The Reversal from Defensible Claim to Dogma"
@@ -47145,6 +47208,12 @@
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
       "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
+      "to": "the-question-that-installs-the-war",
+      "rel": "points_to",
+      "label": "The Question That Installs the War"
     },
     {
       "from": "the-boundary-of-the-frame",
@@ -49380,9 +49449,21 @@
     },
     {
       "from": "the-coordinators-category-error",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "the-coordinators-category-error",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
+    },
+    {
+      "from": "the-coordinators-category-error",
       "to": "the-npc-impression-is-structural",
       "rel": "points_to",
-      "label": "NPC 印象是结构性的"
+      "label": "NPC 印象是结构性的，而非心智的排名"
     },
     {
       "from": "the-coordinators-category-error",
@@ -49472,7 +49553,7 @@
       "from": "the-coordinators-category-error",
       "to": "the_analogy_trap",
       "rel": "points_to",
-      "label": "类比的陷阱：共享的逻辑不是共享的结构"
+      "label": "类比陷阱与共享逻辑的越界偷渡"
     },
     {
       "from": "the-coordinators-category-error",
@@ -49484,7 +49565,7 @@
       "from": "the-coordinators-category-error",
       "to": "the_analogy_trap",
       "rel": "points_to",
-      "label": "The Analogy Trap: Shared Logic Is Not Shared Structure"
+      "label": "The Analogy Trap"
     },
     {
       "from": "the-coordinators-category-error",
@@ -50822,7 +50903,7 @@
       "from": "the-discount-on-agency",
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
-      "label": "赋权确立了权力的集中"
+      "label": "赋权确立权力的集中"
     },
     {
       "from": "the-discount-on-agency",
@@ -50888,7 +50969,7 @@
       "from": "the-discount-on-agency",
       "to": "the-digital-god-and-the-horizon-jump",
       "rel": "points_to",
-      "label": "数字神灵与视界跃迁"
+      "label": "数字神祇与视界跳跃"
     },
     {
       "from": "the-discount-on-agency",
@@ -51816,6 +51897,12 @@
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
@@ -51831,6 +51918,12 @@
       "to": "the-mind-as-vector-and-coordinate-system",
       "rel": "points_to",
       "label": "The Mind as Vector and Coordinate System"
+    },
+    {
+      "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
     },
     {
       "from": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
@@ -53108,7 +53201,7 @@
       "from": "the-free-variable-and-the-retrospective-illusion-of-power",
       "to": "cheng-gong-xue",
       "rel": "points_to",
-      "label": "success literature"
+      "label": "Theories After Success"
     },
     {
       "from": "the-free-variable-and-the-retrospective-illusion-of-power",
@@ -53126,7 +53219,7 @@
       "from": "the-free-variable-and-the-retrospective-illusion-of-power",
       "to": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
       "rel": "points_to",
-      "label": "the invisible observer and the delusion of lossless transmission"
+      "label": "The Invisible Observer and the Delusion of Lossless Transmission"
     },
     {
       "from": "the-free-variable-and-the-retrospective-illusion-of-power",
@@ -53192,19 +53285,31 @@
       "from": "the-free-variable-and-the-retrospective-illusion-of-power",
       "to": "the-residue-and-the-free-variable",
       "rel": "points_to",
-      "label": "残差的自由变量"
+      "label": "残余与自由变量"
     },
     {
       "from": "the-free-variable-and-the-retrospective-illusion-of-power",
       "to": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "rel": "points_to",
-      "label": "Isomorphism of Free Variables and A Priori Sovereignty"
+      "label": "The Isomorphism of Free Variables and Prior Sovereignty"
     },
     {
       "from": "the-free-variable-and-the-retrospective-illusion-of-power",
       "to": "the-residue-and-the-free-variable",
       "rel": "points_to",
       "label": "The Residue and the Free Variable"
+    },
+    {
+      "from": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "the-free-variable-and-the-retrospective-illusion-of-power",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
     },
     {
       "from": "the-free-variable-and-the-retrospective-illusion-of-power",
@@ -53222,13 +53327,13 @@
       "from": "the-free-variable-and-the-retrospective-illusion-of-power",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "因果权让渡"
+      "label": "验证中因果权能的分配"
     },
     {
       "from": "the-free-variable-and-the-retrospective-illusion-of-power",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "surrenders causal agency"
+      "label": "The Allocation of Causal Power in Validation"
     },
     {
       "from": "the-freedom-of-will-to-deny-itself",
@@ -55884,6 +55989,12 @@
     },
     {
       "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
@@ -55893,6 +56004,12 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
     },
     {
       "from": "the-illusion-of-knowing-and-the-geometry-of-amputation",
@@ -57380,7 +57497,7 @@
       "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
       "to": "the-irreducible-observer",
       "rel": "points_to",
-      "label": "irreducible observer"
+      "label": "The Irreducible Observer"
     },
     {
       "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
@@ -57404,7 +57521,7 @@
       "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
       "to": "the-asymmetry-of-understanding",
       "rel": "points_to",
-      "label": "the asymmetry of understanding"
+      "label": "The Asymmetry of Understanding"
     },
     {
       "from": "the-invisible-observer-and-the-delusion-of-lossless-transmission",
@@ -61188,6 +61305,12 @@
     },
     {
       "from": "the-npc-impression-is-structural",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "the-npc-impression-is-structural",
       "to": "from-the-misallocated-sentience-of-agi-to-human-realignment",
       "rel": "points_to",
       "label": "From the Misallocated Sentience of AGI to Human Realignment"
@@ -61197,6 +61320,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-npc-impression-is-structural",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
     },
     {
       "from": "the-npc-impression-is-structural",
@@ -64964,7 +65093,7 @@
       "from": "the-reflexive-dilemma-of-unique-insight",
       "to": "the-walking-tangent-and-the-stumbling-sphere",
       "rel": "points_to",
-      "label": "行走的切线与绊跌的球体"
+      "label": "切平面的行者与完美球面的踩空者"
     },
     {
       "from": "the-reflexive-dilemma-of-unique-insight",
@@ -65004,6 +65133,18 @@
     },
     {
       "from": "the-reflexive-dilemma-of-unique-insight",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "the-reflexive-dilemma-of-unique-insight",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
+    },
+    {
+      "from": "the-reflexive-dilemma-of-unique-insight",
       "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "rel": "points_to",
       "label": "调速者的幻觉与行动的活态摩擦"
@@ -65036,7 +65177,7 @@
       "from": "the-reflexive-dilemma-of-unique-insight",
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
-      "label": "任务的分派与后果的不可让渡"
+      "label": "任务的移交与后果的不可让渡"
     },
     {
       "from": "the-reflexive-dilemma-of-unique-insight",
@@ -70664,13 +70805,13 @@
       "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
       "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "rel": "points_to",
-      "label": "The Rigid Shell of Self-Esteem and Covert External Attribution"
+      "label": "The Rigid Shell of Self-Esteem and Hidden External Attribution"
     },
     {
       "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
       "to": "the-discount-on-agency",
       "rel": "points_to",
-      "label": "主观能动性的折扣"
+      "label": "主体性的折现"
     },
     {
       "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
@@ -70682,25 +70823,43 @@
       "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
       "to": "a-new-deeper-look-at-antifragility",
       "rel": "points_to",
-      "label": "对脆弱性的更深审视"
+      "label": "重新审视反脆弱"
     },
     {
       "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
       "to": "a-new-deeper-look-at-antifragility",
       "rel": "points_to",
-      "label": "A New, Deeper Look at Antifragility"
+      "label": "A New Deeper Look at Antifragility"
     },
     {
       "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
-      "label": "赋能确立了权力的集中"
+      "label": "赋权确立权力的集中"
     },
     {
       "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
       "label": "Empowerment Establishes the Centralization of Power"
+    },
+    {
+      "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
+      "to": "the-reflexive-dilemma-of-unique-insight",
+      "rel": "points_to",
+      "label": "独见者的自反困境与必然性的后验投射"
     },
     {
       "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
@@ -70712,31 +70871,13 @@
       "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
       "to": "the-reflexive-dilemma-of-unique-insight",
       "rel": "points_to",
-      "label": "独见者的自反困境与必然性的后验投射"
-    },
-    {
-      "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
-      "to": "your-codebase-is-memory",
-      "rel": "points_to",
-      "label": "你的代码库即是记忆"
+      "label": "The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity"
     },
     {
       "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
       "to": "the-free-variable-and-the-retrospective-illusion-of-power",
       "rel": "points_to",
       "label": "The Invisible Free Variable and the Retrospective Illusion of Power"
-    },
-    {
-      "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
-      "to": "the-reflexive-dilemma-of-unique-insight",
-      "rel": "points_to",
-      "label": "The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity"
-    },
-    {
-      "from": "the-unfrictioned-mind-and-borrowed-omnipotence",
-      "to": "your-codebase-is-memory",
-      "rel": "points_to",
-      "label": "Your Codebase Is Memory"
     },
     {
       "from": "the-unobservable-driver-of-learning",
@@ -71118,6 +71259,12 @@
     },
     {
       "from": "the-utility-men-of-progress",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "the-utility-men-of-progress",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
@@ -71133,6 +71280,12 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-utility-men-of-progress",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
     },
     {
       "from": "the-utility-men-of-progress",
@@ -75204,15 +75357,123 @@
     },
     {
       "from": "when-need-stops-being-the-measure",
+      "to": "emotional-support-as-causal-interference",
+      "rel": "points_to",
+      "label": "作为因果干扰的情感支持"
+    },
+    {
+      "from": "when-need-stops-being-the-measure",
+      "to": "emotional-support-as-causal-interference",
+      "rel": "points_to",
+      "label": "Emotional Support as Causal Interference"
+    },
+    {
+      "from": "when-need-stops-being-the-measure",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "when-need-stops-being-the-measure",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
+    },
+    {
+      "from": "when-need-stops-being-the-measure",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
     },
     {
       "from": "when-need-stops-being-the-measure",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "when-need-stops-being-the-measure",
+      "to": "therapy-opens-the-feedback-loop",
+      "rel": "points_to",
+      "label": "疗愈打开反馈回路"
+    },
+    {
+      "from": "when-need-stops-being-the-measure",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "when-need-stops-being-the-measure",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "when-need-stops-being-the-measure",
+      "to": "therapy-opens-the-feedback-loop",
+      "rel": "points_to",
+      "label": "Therapy Opens the Feedback Loop"
+    },
+    {
+      "from": "when-need-stops-being-the-measure",
+      "to": "help-is-half-the-problem",
+      "rel": "points_to",
+      "label": "帮助是问题的一半"
+    },
+    {
+      "from": "when-need-stops-being-the-measure",
+      "to": "help-is-half-the-problem",
+      "rel": "points_to",
+      "label": "Help Is Half the Problem"
+    },
+    {
+      "from": "when-need-stops-being-the-measure",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "没有普渡，只有自渡的无限可能"
+    },
+    {
+      "from": "when-need-stops-being-the-measure",
+      "to": "mei-you-pu-du-zhi-you-zi-du",
+      "rel": "points_to",
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
+    },
+    {
+      "from": "when-need-stops-being-the-measure",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "秩序、剩余与道德拦截"
+    },
+    {
+      "from": "when-need-stops-being-the-measure",
+      "to": "when-the-effect-authors-the-frame",
+      "rel": "points_to",
+      "label": "当效果主宰了框架的叙事"
+    },
+    {
+      "from": "when-need-stops-being-the-measure",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "Order, Surplus, and the Moral Intercept"
+    },
+    {
+      "from": "when-need-stops-being-the-measure",
+      "to": "when-the-effect-authors-the-frame",
+      "rel": "points_to",
+      "label": "When the Effect Authors the Frame"
+    },
+    {
+      "from": "when-need-stops-being-the-measure",
+      "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "rel": "points_to",
+      "label": "拥有成本把滞后的平均值冻结为车辆属性"
+    },
+    {
+      "from": "when-need-stops-being-the-measure",
+      "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
+      "rel": "points_to",
+      "label": "Ownership Cost Freezes Lagged Averages as Vehicle Property"
     },
     {
       "from": "when-observation-becomes-performance",
@@ -75434,7 +75695,7 @@
       "from": "when-the-effect-authors-the-frame",
       "to": "emotional-support-as-causal-interference",
       "rel": "points_to",
-      "label": "情感支持作为因果干扰"
+      "label": "作为因果干扰的情感支持"
     },
     {
       "from": "when-the-effect-authors-the-frame",
@@ -75464,13 +75725,13 @@
       "from": "when-the-effect-authors-the-frame",
       "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "rel": "points_to",
-      "label": "External Attribution: The Obstacle to Personal Growth"
+      "label": "External Attribution Is the Obstacle to Personal Growth"
     },
     {
       "from": "when-the-effect-authors-the-frame",
       "to": "when-need-stops-being-the-measure",
       "rel": "points_to",
-      "label": "当被需要不再是衡量"
+      "label": "当被需要不再是尺度"
     },
     {
       "from": "when-the-effect-authors-the-frame",
@@ -75500,7 +75761,7 @@
       "from": "when-the-effect-authors-the-frame",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "No Universal Salvation, Only Self-Deliverance"
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
     },
     {
       "from": "when-the-effect-authors-the-frame",
@@ -75534,6 +75795,12 @@
     },
     {
       "from": "when-the-effect-authors-the-frame",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
       "to": "therapy-opens-the-feedback-loop",
       "rel": "points_to",
       "label": "疗愈打开反馈回路"
@@ -75543,6 +75810,12 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
     },
     {
       "from": "when-the-effect-authors-the-frame",
@@ -75608,13 +75881,13 @@
       "from": "when-the-effect-authors-the-frame",
       "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "rel": "points_to",
-      "label": "Politicians Appear as Visible Symptoms of Responsibility Diffusion"
+      "label": "Politicians Are Visible Symptoms of Responsibility Diffusion"
     },
     {
       "from": "when-the-effect-authors-the-frame",
       "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "rel": "points_to",
-      "label": "The Misallocation of Cause"
+      "label": "The Misallocation of Cause in Wealth-Transfer Policies and Price Floors"
     },
     {
       "from": "when-the-effect-authors-the-frame",
