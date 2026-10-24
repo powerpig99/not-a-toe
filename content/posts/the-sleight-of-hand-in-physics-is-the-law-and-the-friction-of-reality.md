@@ -72,7 +72,7 @@ Reality unfolds like an unceasing torrent of causal succession, and every formal
 
 ## 五、 在驾驶位上面对未建模的现实 / 5. Meeting Unmodeled Reality From the Driver's Seat
 
-“物理学才是定律”内部的混同固然可以作为宏观的语言习惯来剖析，但闭合认知回路始终要落回第一人称的因果原点。正如[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)与[没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/)所确立的，没有任何抽象的集体主体或纸面公式能代替个体去感知摩擦并作出决断；无论在发射台上、实验室里还是系统架构设计中，直面未建模之物的，始终是此时此地握着方向盘的那个具体心智。
+“物理学才是定律”内部的混同固然可以作为宏观的语言习惯来剖析，但闭合认知回路始终要落回第一人称的因果原点。正如[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)与[没有普渡，只有自渡的无限可能](../mei-you-pu-du-zhi-you-zi-du/)所确立的，没有任何抽象的集体主体或纸面公式能代替个体去感知摩擦并作出决断；无论在发射台上、实验室里还是系统架构设计中，直面未建模之物的，始终是此时此地握着方向盘的那个具体心智。
 
 While the conflation inside "physics is the law" can be analyzed as a macroscopic linguistic habit, closing the cognitive loop always returns to the first-person causal origin. As [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) and [No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../mei-you-pu-du-zhi-you-zi-du/) establish, no abstract collective subject and no written formula can sense friction or make a decision in an individual's place; on the launchpad, in the laboratory, or in architectural design, what confronts the unmodeled is the concrete Mind holding the wheel here and now.
 
@@ -88,7 +88,6 @@ flowchart TD
         S4["空出的驾驶位：主体性与后果被推卸给假想的宇宙法典"]
         S1 --> S2 --> S3 --> S4
     end
-
     subgraph S_Driver["超越投射：驾驶位上的心智"]
         direction TB
         D1["第一人称统御：掌舵边缘处尚未投射的意图与主权 +1 抉择"]
@@ -97,9 +96,7 @@ flowchart TD
         D4["开放融贯：心智向后退一步，重绘框架并认领后果"]
         D1 --> D2 --> D3 --> D4
     end
-
     S4 ==>|"将位置从实体化的定律归还给鲜活心智"| D1
-
     style S_Sleight fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Driver fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -124,7 +121,6 @@ flowchart TD
         S4["Vacated Driver's Seat: Agency and consequences offloaded to a hypothetical cosmic code"]
         S1 --> S2 --> S3 --> S4
     end
-
     subgraph S_Driver["Beyond the Projection: The Mind in the Driver's Seat"]
         direction TB
         D1["First-Person Orchestration: Unprojected intent and sovereign +1 choice at the steering edge"]
@@ -133,9 +129,7 @@ flowchart TD
         D4["Open Coherence: The Mind steps back, re-renders the frame, and claims the consequence"]
         D1 --> D2 --> D3 --> D4
     end
-
     S4 ==>|"Restoring locus from reified law to the living Mind"| D1
-
     style S_Sleight fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Driver fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc

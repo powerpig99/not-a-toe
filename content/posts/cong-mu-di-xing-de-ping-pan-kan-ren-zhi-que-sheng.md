@@ -34,7 +34,7 @@ Whatever registers as a causal constraint on decision arises from how a center c
 
 Examining defensive habits without tracing them back to the first-person edge easily slips into a second-order external attribution: blaming defensive labeling on "the brain's energy-conservation instinct" or "inevitable environmental conditioning." Restoring the locus of cause strips away that biological excuse: **even external attribution is the direct result of a free choice at the living edge.**
 
-当两个中心的节奏或意图未能对齐、原本顺畅的交互出现摩擦时，向内审视为何对方的清晰会让自己感到不适，或看清自身尚未言明的真实诉求，需要重新渲染保留的自我图像并拓宽感知的边界。反之，顺手抽出一个现成的文化标签、评判对方“目的性太强”，则是向外投射出一纸封闭的目的论裁决。表面上看，发言者似乎是被环境被动激怒；在机制上，却是中心主动选择委任外部的人或事，充当自身情绪与决策的决定性原因。[道德语言作为投影](../moral-language-as-projection/)拆解了这一语言操作：道德化或目的论式的评判并未描述对方中心的属性，而是在封闭假设下护卫一幅冻结的参照图像。
+当两个中心的节奏或意图未能对齐、原本顺畅的交互出现摩擦时，向内审视为何对方的清晰会让自己感到不适，或看清自身尚未言明的诉求，需要重新渲染保留的自我图像并拓宽感知的边界。反之，顺手抽出一个现成的文化标签、评判对方“目的性太强”，则是向外投射出一纸封闭的目的论裁决。表面上看，发言者似乎是被环境被动激怒；在机制上，却是中心主动选择委任外部的人或事，充当自身情绪与决策的决定性原因。[道德语言作为投影](../moral-language-as-projection/)拆解了这一语言操作：道德化或目的论式的评判并未描述对方中心的属性，而是在封闭假设下护卫一幅冻结的参照图像。
 
 ```mermaid
 flowchart TD
@@ -44,7 +44,6 @@ flowchart TD
         E_Stat["事后的统计残余：群体痕迹聚集于高斯均值附近"]
         E_Act --> E_Stat
     end
-
     subgraph S_Proj["目的论闭合与外部归因（超越投射）"]
         direction TB
         P_Law["统计错觉：将均值附近的缺省状态读作客观铁律"]
@@ -52,17 +51,14 @@ flowchart TD
         P_Surr["让渡因果：锁死自我图像并交出解释权"]
         P_Law --> P_Label --> P_Surr
     end
-
     subgraph S_Open["掌舵边缘的存在论清晰（开放即一致）"]
         direction TB
         O_Mirror["双向镜像：将摩擦读作环境坐标而不加指责"]
         O_Claim["收回因果杠杆：向后退一步以重新校准意图并拓宽自由度"]
         O_Mirror --> O_Claim
     end
-
     E_Stat ==>|"强行用事后残余为下一步行动奠基"| P_Law
     P_Surr ==>|"松开目的论闭合，认领返回的信号"| O_Mirror
-
     style S_Edge fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Proj fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -75,7 +71,7 @@ flowchart TD
     style O_Claim fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-When two centers' rhythms or intentions do not align and a previously smooth interaction encounters friction, looking inward to ask why the other's clarity registers as discomfort—or what one's own unarticulated want actually is—requires re-rendering the retained self-image and widening the boundary of perception. Reaching instead for a ready-made cultural label and judging the other as "too goal-driven" projects a closed teleological verdict outward. On the surface, the speaker appears passively provoked by the environment; in mechanism, the center actively chooses to appoint an outside person or event as the determining cause of its own emotions and decisions. [Moral Language as Projection](../moral-language-as-projection/) dissects this verbal maneuver: a moralizing or teleological judgment does not describe a property of the other center, but defends a frozen reference under closed assumptions.
+When two centers' rhythms or intentions do not align and a previously smooth interaction encounters friction, looking inward to ask why the other's clarity registers as discomfort—or what one's own unarticulated want is—requires re-rendering the retained self-image and widening the boundary of perception. Reaching instead for a ready-made cultural label and judging the other as "too goal-driven" projects a closed teleological verdict outward. On the surface, the speaker appears passively provoked by the environment; in mechanism, the center actively chooses to appoint an outside person or event as the determining cause of its own emotions and decisions. [Moral Language as Projection](../moral-language-as-projection/) dissects this verbal maneuver: a moralizing or teleological judgment does not describe a property of the other center, but defends a frozen reference under closed assumptions.
 
 ```mermaid
 flowchart TD
@@ -85,7 +81,6 @@ flowchart TD
         E_Stat["Post-Hoc Statistical Residue: Population traces cluster near the Gaussian mean"]
         E_Act --> E_Stat
     end
-
     subgraph S_Proj["Teleological Closure and External Attribution (Beyond the Projection)"]
         direction TB
         P_Law["Statistical Illusion: Reading the default state near the mean as an objective iron law"]
@@ -93,17 +88,14 @@ flowchart TD
         P_Surr["Surrendered Cause: Clamping the self-image shut and handing over the right to explain"]
         P_Law --> P_Label --> P_Surr
     end
-
     subgraph S_Open["Ontological Clarity at the Steering Edge (Openness Is Consistency)"]
         direction TB
         O_Mirror["Two-Way Mirror: Reading friction as environmental coordinates without blame"]
         O_Claim["Reclaimed Causal Lever: Stepping back to recalibrate intent and expand degrees of freedom"]
         O_Mirror --> O_Claim
     end
-
     E_Stat ==>|"Forcing after-the-fact residue to ground the next act"| P_Law
     P_Surr ==>|"Releasing teleological closure and claiming the returning signal"| O_Mirror
-
     style S_Edge fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Proj fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -152,6 +144,6 @@ Yet a thick cluster near the mean never obliges any center to stay confined with
 
 Confronted with friction and uncertainty, treating the outside as the cause and accusing another of being "too goal-driven" is one available choice; withdrawing the gaze from blaming the mirror in the moment of friction to recalibrate one's own premise and focus is another. [The Rigid Shell of Self-Esteem and Hidden External Attribution](../zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/) exposes a subtler disguise of the same evasion: dressing up a present refusal to re-render as "having too big an ego" mimics deep self-reflection while erecting a fictional character object to excuse the first person from recalibrating right now. [Individual Choice, Socialization and Being Oneself](../ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao/) extends this clarity across socialization: social norms are the lagging sediment of countless prior choices, and being oneself is continuously refreshing one's edge of action within that field of traces.
 
-自由不是外部赐予的特权，而是认出无论注意力朝向内部还是外部，发起因果的边缘始终留在自己这一侧，这正是[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)在每一个尺度上皆成立的原因。[没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/)标出了这道不可让渡的主权边界，[开放即一致](../openness-is-consistency/)则勾勒出其演化的方向：以目的论去评判他人，是将保留的参照系越过当前步伐强行维持，试图将开放的交互锁入闭合；而在每一个离散步伐中重新认领解释权，则松开了那道闭合，让认知系统得以挣脱统计均值的引力井，向更开阔的维度延展。从外部审视，正态分布看似随机或宿命；[自由的测不准](../zi-you-de-ce-bu-zhun/)则阐明了那条曲线如何是主权抉择在内部运作时留下的事后统计投影。
+自由不是外部赐予的特权，而是认出无论注意力朝向内部还是外部，发起因果的边缘始终留在自己这一侧，这正是[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)在每一个尺度上皆成立的原因。[没有普渡，只有自渡的无限可能](../mei-you-pu-du-zhi-you-zi-du/)标出了这道不可让渡的主权边界，[开放即一致](../openness-is-consistency/)则勾勒出其演化的方向：以目的论去评判他人，是将保留的参照系越过当前步伐强行维持，试图将开放的交互锁入闭合；而在每一个离散步伐中重新认领解释权，则松开了那道闭合，让认知系统得以挣脱统计均值的引力井，向更开阔的维度延展。从外部审视，正态分布看似随机或宿命；[自由的测不准](../zi-you-de-ce-bu-zhun/)则阐明了那条曲线如何是主权抉择在内部运作时留下的事后统计投影。
 
 Freedom is not a privilege granted from outside, but the recognition that whether attention turns inward or outward, the initiating edge of causation stays on one's own side, which is why [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) holds across every scale. [No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../mei-you-pu-du-zhi-you-zi-du/) marks this non-transferable boundary of sovereignty, and [Openness Is Consistency](../openness-is-consistency/) traces its evolutionary direction: judging by teleological purpose preserves a retained reference past its step to force closure onto an open interaction, whereas reclaiming the right to explain at each discrete step releases that closure and allows the cognitive system to expand beyond the gravity well of the statistical mean. Viewed from the outside, the normal distribution looks like randomness or fate; [The Uncertainty of Freedom](../zi-you-de-ce-bu-zhun/) shows how that curve is the after-the-fact statistical shadow of sovereign choice operating from within.

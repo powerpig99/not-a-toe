@@ -41,6 +41,8 @@ def block_kind(block: str) -> str:
         return "h1"
     if block.startswith("## "):
         return "h2"
+    if block.startswith("### "):
+        return "h3"
     if block.startswith("```mermaid"):
         return "mermaid"
     if block.startswith("*") and block.endswith("*") and "\n" not in block:
@@ -88,16 +90,17 @@ def interleave_blocks(slug: str, zh_blocks: list[str], en_blocks: list[str]) -> 
                     e_body = e_body.split(" / ", 1)[1].strip()
                 out.append(f"*{z_body} / {e_body}*")
             i += 1
-        elif zk == "h2":
-            z_body, e_body = z[3:].strip(), e[3:].strip()
+        elif zk in ("h2", "h3"):
+            prefix = "## " if zk == "h2" else "### "
+            z_body, e_body = z[len(prefix) :].strip(), e[len(prefix) :].strip()
             if z_body == e_body and " / " in z_body:
-                out.append(f"## {z_body}")
+                out.append(f"{prefix}{z_body}")
             else:
                 if " / " in z_body:
                     z_body = z_body.split(" / ", 1)[0].strip()
                 if " / " in e_body:
                     e_body = e_body.split(" / ", 1)[1].strip()
-                out.append(f"## {z_body} / {e_body}")
+                out.append(f"{prefix}{z_body} / {e_body}")
             i += 1
         elif zk == "prose":
             # Look ahead for consecutive Mermaid diagram(s) attached to this paragraph
@@ -169,8 +172,9 @@ def split_slug(slug: str) -> tuple[pathlib.Path, pathlib.Path]:
             zh_blocks.append(z)
             en_blocks.append(e)
             i += 1
-        elif k == "h2":
-            z, e = split_bilingual_pair(slug, b, "## ")
+        elif k in ("h2", "h3"):
+            prefix = "## " if k == "h2" else "### "
+            z, e = split_bilingual_pair(slug, b, prefix)
             zh_blocks.append(z)
             en_blocks.append(e)
             i += 1

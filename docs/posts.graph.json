@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-24T22:05:56.782Z",
+    "generated_at": "2026-10-24T22:28:49.922Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -46,7 +46,7 @@
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "fc0b4da31c80",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "2e81f9fcd92e",
       "content/posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback.md": "2469406459fc",
-      "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "322bdedfbdab",
+      "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "8469fbe3aa6c",
       "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "2804ed2110a5",
       "content/posts/conscience-power-delegation.md": "4dfadce8ba14",
       "content/posts/consciousness-ascription-and-the-quantum-cut.md": "3ce64bf84b73",
@@ -86,7 +86,7 @@
       "content/posts/fidelity-not-optimality.md": "15eaacf22453",
       "content/posts/fixed-by-nothing.md": "9f5437174a82",
       "content/posts/four-night-questions.md": "56506f767fb5",
-      "content/posts/freedom-as-ground.md": "76afe66c491b",
+      "content/posts/freedom-as-ground.md": "f60f8121fb0f",
       "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "234ce1feb90a",
       "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "dd5647fb74a2",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "a2f03c17ade1",
@@ -116,7 +116,7 @@
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "b5bfd1bca0dc",
       "content/posts/looping-and-graphing.md": "1a929b3e0f11",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "659c68bf2162",
-      "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "d7b5f20a6f6a",
+      "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "ed8ae49b479f",
       "content/posts/manifesto-of-not-a-theory-of-everything.md": "5b88319c7739",
       "content/posts/math-as-a-career-is-not-math-as-a-pursuit.md": "1861bc2e15c4",
       "content/posts/meaning-of-life-refined.md": "1ae50e3e9204",
@@ -165,7 +165,7 @@
       "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "92abe22ff1ba",
       "content/posts/price-as-utterance-understanding-as-trade.md": "09732d7116b8",
       "content/posts/production-consumption-and-the-minds-distinction.md": "69300d4d47c5",
-      "content/posts/public-spending-does-not-create-capital.md": "4bdc16609a6d",
+      "content/posts/public-spending-does-not-create-capital.md": "928c2d8dc512",
       "content/posts/qian-yin-hou-guo.md": "cc5a0554ce85",
       "content/posts/rationality-never-travels-across-the-mind.md": "a1491e2a0bd9",
       "content/posts/reality-doesnt-invoice-by-committee.md": "160b3d895051",
@@ -242,7 +242,7 @@
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "cf61f9e9c832",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "8141b07efa43",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "2bc09be901d9",
-      "content/posts/the-extendable-horizon.md": "a74fd15380da",
+      "content/posts/the-extendable-horizon.md": "d83f80b6754c",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "7915aadc533b",
       "content/posts/the-fallacy-of-post-success-parenting.md": "7f1aaf099f4f",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "bea3e8326963",
@@ -285,7 +285,7 @@
       "content/posts/the-invisible-first-move.md": "2903f23cc112",
       "content/posts/the-invisible-gods-eye.md": "2cd4107ca030",
       "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "09e1af17f8a8",
-      "content/posts/the-irreducible-observer.md": "128d5b8534dd",
+      "content/posts/the-irreducible-observer.md": "21f9ad761568",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "883cbb67e220",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "ff064e746f65",
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "e2c53537d905",
@@ -308,7 +308,7 @@
       "content/posts/the-misallocation-of-agency.md": "b921b7fb3528",
       "content/posts/the-model-never-becomes-a-second-edge.md": "f2c984cf98ec",
       "content/posts/the-moral-reversal-and-the-scripted-subject.md": "1a9084222411",
-      "content/posts/the-myth-of-population-collapse-explained.md": "9be9bfe9c763",
+      "content/posts/the-myth-of-population-collapse-explained.md": "6b8ecefdfc0f",
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "db6546734668",
       "content/posts/the-name-revolution-files-a-life-as-evidence.md": "0005b5557300",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "d580075b6d35",
@@ -349,7 +349,7 @@
       "content/posts/the-scaling-loop.md": "01f561084635",
       "content/posts/the-self-portrait-in-the-projection.md": "2b51ab9fe625",
       "content/posts/the-shadow-and-the-infinite.md": "c39730290699",
-      "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "9dc84d6394f6",
+      "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "87a9e69d47f1",
       "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "1dbcf1da600a",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "c2d1d681f444",
       "content/posts/the-source-of-all-harm.md": "20891d9d52cf",
@@ -397,7 +397,7 @@
       "content/posts/when-electrons-think.md": "c3336f135244",
       "content/posts/when-malfunction-is-scored-as-intelligence.md": "8adae7d53567",
       "content/posts/when-need-stops-being-the-measure.md": "193f5886b7bf",
-      "content/posts/when-observation-becomes-performance.md": "fc49af651c83",
+      "content/posts/when-observation-becomes-performance.md": "038f9f625402",
       "content/posts/when-the-effect-authors-the-frame.md": "f05105b5e2b1",
       "content/posts/why-explanation-fails.md": "7983bb8f8771",
       "content/posts/why-mathematics-can-never-be-solved.md": "f43a8391575b",
@@ -411,7 +411,7 @@
       "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "59220f9cdf84",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "f1f3cd0266ec",
       "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "f23cfe1f4ca3",
-      "content/posts/zi-you-de-ce-bu-zhun.md": "9adfc20af9ce",
+      "content/posts/zi-you-de-ce-bu-zhun.md": "301040768436",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "c0c80009ca9d",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "ac686192b927",
       "content/book/causality.md": "51d6cd58236e",
@@ -1685,7 +1685,7 @@
       "slug": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "path": "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md",
       "title": "目的性的评判与认知的缺省状态 / Judging by Purpose and the Default State of Cognition",
-      "hash": "322bdedfbdab",
+      "hash": "8469fbe3aa6c",
       "in_degree": 14,
       "out_degree": 16,
       "links_out": [
@@ -2620,7 +2620,7 @@
       "slug": "freedom-as-ground",
       "path": "content/posts/freedom-as-ground.md",
       "title": "自由即地基 / Freedom as Ground",
-      "hash": "76afe66c491b",
+      "hash": "f60f8121fb0f",
       "in_degree": 14,
       "out_degree": 16,
       "links_out": [
@@ -3485,7 +3485,7 @@
       "slug": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
       "path": "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md",
       "title": "路口的转向与地平说的行动悖论 / Turning at the Crossroad and the Flat-Earth Action Paradox",
-      "hash": "d7b5f20a6f6a",
+      "hash": "ed8ae49b479f",
       "in_degree": 9,
       "out_degree": 14,
       "links_out": [
@@ -4855,7 +4855,7 @@
       "slug": "public-spending-does-not-create-capital",
       "path": "content/posts/public-spending-does-not-create-capital.md",
       "title": "公共支出不创造资本 / Public Spending Does Not Create Capital",
-      "hash": "4bdc16609a6d",
+      "hash": "928c2d8dc512",
       "in_degree": 16,
       "out_degree": 17,
       "links_out": [
@@ -6835,7 +6835,7 @@
       "slug": "the-extendable-horizon",
       "path": "content/posts/the-extendable-horizon.md",
       "title": "可延展的地平线 / The Extendable Horizon",
-      "hash": "a74fd15380da",
+      "hash": "d83f80b6754c",
       "in_degree": 12,
       "out_degree": 17,
       "links_out": [
@@ -7833,7 +7833,7 @@
       "slug": "the-irreducible-observer",
       "path": "content/posts/the-irreducible-observer.md",
       "title": "不可还原的观察者 / The Irreducible Observer",
-      "hash": "128d5b8534dd",
+      "hash": "21f9ad761568",
       "in_degree": 19,
       "out_degree": 18,
       "links_out": [
@@ -8357,7 +8357,7 @@
       "slug": "the-myth-of-population-collapse-explained",
       "path": "content/posts/the-myth-of-population-collapse-explained.md",
       "title": "人口崩溃神话的拆解 / The Myth of Population Collapse Explained",
-      "hash": "9be9bfe9c763",
+      "hash": "6b8ecefdfc0f",
       "in_degree": 15,
       "out_degree": 17,
       "links_out": [
@@ -9445,7 +9445,7 @@
       "slug": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "path": "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md",
       "title": "“物理学才是定律”的障眼法 / The Sleight of Hand in \"Physics Is the Law\"",
-      "hash": "9dc84d6394f6",
+      "hash": "87a9e69d47f1",
       "in_degree": 19,
       "out_degree": 19,
       "links_out": [
@@ -10594,7 +10594,7 @@
       "slug": "when-observation-becomes-performance",
       "path": "content/posts/when-observation-becomes-performance.md",
       "title": "当观察变成表演 / When Observation Becomes Performance",
-      "hash": "fc49af651c83",
+      "hash": "038f9f625402",
       "in_degree": 18,
       "out_degree": 18,
       "links_out": [
@@ -10936,7 +10936,7 @@
       "slug": "zi-you-de-ce-bu-zhun",
       "path": "content/posts/zi-you-de-ce-bu-zhun.md",
       "title": "自由的测不准 / The Uncertainty of Freedom",
-      "hash": "9adfc20af9ce",
+      "hash": "301040768436",
       "in_degree": 19,
       "out_degree": 19,
       "links_out": [
@@ -18606,7 +18606,7 @@
       "from": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "没有普渡，只有自渡"
+      "label": "没有普渡，只有自渡的无限可能"
     },
     {
       "from": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
@@ -24036,13 +24036,13 @@
       "from": "freedom-as-ground",
       "to": "zuo-jian-bu-shi-zi-fu",
       "rel": "points_to",
-      "label": "常见的读法把它当作一场悲剧性的堕落"
+      "label": "作茧不是自缚"
     },
     {
       "from": "freedom-as-ground",
       "to": "zuo-jian-bu-shi-zi-fu",
       "rel": "points_to",
-      "label": "The usual reading treats this as a tragic fall"
+      "label": "Spinning a Cocoon Is Not Binding Oneself"
     },
     {
       "from": "freedom-as-ground",
@@ -24174,7 +24174,7 @@
       "from": "freedom-as-ground",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "没有普渡，只有自渡"
+      "label": "没有普渡，只有自渡的无限可能"
     },
     {
       "from": "freedom-as-ground",
@@ -30132,7 +30132,7 @@
       "from": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
       "to": "the-mark-and-the-act",
       "rel": "points_to",
-      "label": "痕迹与行动"
+      "label": "印迹与行动"
     },
     {
       "from": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
@@ -30198,7 +30198,7 @@
       "from": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
       "to": "the-geometry-of-success",
       "rel": "points_to",
-      "label": "成功的几何学：有限游戏陷阱"
+      "label": "成功的几何学"
     },
     {
       "from": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
@@ -30228,7 +30228,7 @@
       "from": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "所有权与配得感"
+      "label": "自我价值感与所有权"
     },
     {
       "from": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
@@ -30252,7 +30252,7 @@
       "from": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
       "to": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
       "rel": "points_to",
-      "label": "收不回的目光与知识的因果倒置"
+      "label": "选择看见而非搜寻影子"
     },
     {
       "from": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
@@ -30270,13 +30270,13 @@
       "from": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
       "to": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
       "rel": "points_to",
-      "label": "The Inward Eye and the Natural Spread of Structure"
+      "label": "Choosing to See Rather Than Searching for Shadows"
     },
     {
       "from": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
       "to": "gao-wei-xin-xi-de-li-san-zhe-she",
       "rel": "points_to",
-      "label": "Discrete Refraction of High-Dimensional Information"
+      "label": "The Discrete Refraction of High-Dimensional Information"
     },
     {
       "from": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
@@ -30294,7 +30294,7 @@
       "from": "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
       "to": "po-chu-gai-nian-de-jian-yue",
       "rel": "points_to",
-      "label": "Breaking Conceptual Overstep"
+      "label": "Breaking the Overreach of Concepts"
     },
     {
       "from": "manifesto-of-not-a-theory-of-everything",
@@ -39828,7 +39828,7 @@
       "from": "public-spending-does-not-create-capital",
       "to": "fate-loves-irony-refined",
       "rel": "points_to",
-      "label": "命运偏爱反讽"
+      "label": "生产创造自己的意识形态消费"
     },
     {
       "from": "public-spending-does-not-create-capital",
@@ -39840,7 +39840,7 @@
       "from": "public-spending-does-not-create-capital",
       "to": "fate-loves-irony-refined",
       "rel": "points_to",
-      "label": "Fate Loves Irony"
+      "label": "Production Creates Its Own Ideological Consumption"
     },
     {
       "from": "public-spending-does-not-create-capital",
@@ -52032,13 +52032,13 @@
       "from": "the-extendable-horizon",
       "to": "agency-compounding-and-the-argument-over-ai-feudalism",
       "rel": "points_to",
-      "label": "能动性、复利与关于 AI 封建主义的争论"
+      "label": "能动性、复利与 AI 封建之争"
     },
     {
       "from": "the-extendable-horizon",
       "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
       "rel": "points_to",
-      "label": "幂律分布"
+      "label": "幂律是正态分布的长期后果"
     },
     {
       "from": "the-extendable-horizon",
@@ -52050,13 +52050,13 @@
       "from": "the-extendable-horizon",
       "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
       "rel": "points_to",
-      "label": "yields a power-law distribution"
+      "label": "Power Law Is the Long-Term Consequence of Normal Distribution"
     },
     {
       "from": "the-extendable-horizon",
       "to": "mi-lv-shi-jie-guo-de-biao-xiang",
       "rel": "points_to",
-      "label": "分布是事后从第三人称读出来的沉淀"
+      "label": "幂律是结果的表象"
     },
     {
       "from": "the-extendable-horizon",
@@ -52080,7 +52080,7 @@
       "from": "the-extendable-horizon",
       "to": "mi-lv-shi-jie-guo-de-biao-xiang",
       "rel": "points_to",
-      "label": "A distribution is sediment read off afterwards"
+      "label": "Power Law Is the Surface of Outcomes"
     },
     {
       "from": "the-extendable-horizon",
@@ -57948,7 +57948,7 @@
       "from": "the-irreducible-observer",
       "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
       "rel": "points_to",
-      "label": "协议的倒置与因果回路的沉默"
+      "label": "规程的倒置与因果回路的消声"
     },
     {
       "from": "the-irreducible-observer",
@@ -57960,7 +57960,7 @@
       "from": "the-irreducible-observer",
       "to": "the-twin-paradox-and-the-hidden-observer",
       "rel": "points_to",
-      "label": "双生子佯谬与隐蔽的观察者"
+      "label": "双生子佯谬与隐秘观察者"
     },
     {
       "from": "the-irreducible-observer",
@@ -58020,13 +58020,13 @@
       "from": "the-irreducible-observer",
       "to": "the-boundary-crossing-of-choice",
       "rel": "points_to",
-      "label": "选择的界限跨越"
+      "label": "抉择的跨界"
     },
     {
       "from": "the-irreducible-observer",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "脚手架"
+      "label": "遗忘的脚手架"
     },
     {
       "from": "the-irreducible-observer",
@@ -58038,7 +58038,7 @@
       "from": "the-irreducible-observer",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "scaffolding"
+      "label": "The Scaffolding We Forget"
     },
     {
       "from": "the-irreducible-observer",
@@ -58128,7 +58128,7 @@
       "from": "the-irreducible-observer",
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
-      "label": "任务的委托与后果的不可让渡"
+      "label": "任务的移交与后果的不可让渡"
     },
     {
       "from": "the-irreducible-observer",
@@ -61026,7 +61026,7 @@
       "from": "the-myth-of-population-collapse-explained",
       "to": "fate-loves-irony-refined",
       "rel": "points_to",
-      "label": "命运偏爱反讽"
+      "label": "生产创造自己的意识形态消费"
     },
     {
       "from": "the-myth-of-population-collapse-explained",
@@ -61044,7 +61044,7 @@
       "from": "the-myth-of-population-collapse-explained",
       "to": "fate-loves-irony-refined",
       "rel": "points_to",
-      "label": "Fate Loves Irony"
+      "label": "Production Creates Its Own Ideological Consumption"
     },
     {
       "from": "the-myth-of-population-collapse-explained",
@@ -68478,7 +68478,7 @@
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "没有普渡，只有自渡"
+      "label": "没有普渡，只有自渡的无限可能"
     },
     {
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
@@ -75966,7 +75966,7 @@
       "from": "when-observation-becomes-performance",
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
-      "label": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing"
+      "label": "The Meaning of Life Is in the Drafting"
     },
     {
       "from": "when-observation-becomes-performance",
@@ -78222,7 +78222,7 @@
       "from": "zi-you-de-ce-bu-zhun",
       "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
       "rel": "points_to",
-      "label": "个人选择"
+      "label": "个人选择、社会化与做自己"
     },
     {
       "from": "zi-you-de-ce-bu-zhun",
@@ -78234,13 +78234,13 @@
       "from": "zi-you-de-ce-bu-zhun",
       "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
       "rel": "points_to",
-      "label": "Individual Choice"
+      "label": "Individual Choice, Socialization and Being Oneself"
     },
     {
       "from": "zi-you-de-ce-bu-zhun",
       "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "rel": "points_to",
-      "label": "从“目的性”的评判，看认知系统的缺省状态与动态跃迁"
+      "label": "目的性的评判与认知的缺省状态"
     },
     {
       "from": "zi-you-de-ce-bu-zhun",
@@ -78252,7 +78252,7 @@
       "from": "zi-you-de-ce-bu-zhun",
       "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "rel": "points_to",
-      "label": "Judging by Purpose: The Default State and Dynamic Leaps of Cognition"
+      "label": "Judging by Purpose and the Default State of Cognition"
     },
     {
       "from": "zi-you-de-ce-bu-zhun",

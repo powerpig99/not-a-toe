@@ -2,9 +2,9 @@
 
 *人生而自由，人却发明攀登的阶梯，而约束描摹着自由行动的轨迹 / Born free, people invent ladders while constraints trace how freedom acts*
 
-让-雅克·卢梭在《社会契约论》的开头写下了那句著名的观察，即人是生而自由的，却无往不在枷锁之中。[常见的读法把它当作一场悲剧性的堕落](../zuo-jian-bu-shi-zi-fu/)，把天然的自由想象成被社会败坏并囚禁之物，唯有经历一场跨越财务独立、精神修炼以及与必死性达成哲学和解的层层艰难攀登，才能重新找回。然而顺着卢梭自身立足的前提往下推演，机制便直接显现出来。社会契约这一概念所描述的不是别的，正是个体自由作出的选择所留下的集体痕迹。自由不是一座分阶段才能抵达的远方山顶；它是自我区分活动原初、持续且无因的地基。人生而自由，此后出现的每一道约束，都只是因为自由本身行动了、区分了、选择了。
+让-雅克·卢梭在《社会契约论》的开头写下了那句著名的观察，即人是生而自由的，却无往不在枷锁之中。常见的读法，正如[作茧不是自缚](../zuo-jian-bu-shi-zi-fu/)所剖析的，把它当作一场悲剧性的堕落，把天然的自由想象成被社会败坏并囚禁之物，唯有经历一场跨越财务独立、精神修炼以及与必死性达成哲学和解的层层艰难攀登，才能重新找回。然而顺着卢梭自身立足的前提往下推演，机制便直接显现出来。社会契约这一概念所描述的不是别的，正是个体自由作出的选择所留下的集体痕迹。自由不是一座分阶段才能抵达的远方山顶；它是自我区分活动原初、持续且无因的地基。人生而自由，此后出现的每一道约束，都只是因为自由本身行动了、区分了、选择了。
 
-Jean-Jacques Rousseau opened *The Social Contract* with the famous observation that man is born free, and everywhere he is in chains. [The usual reading treats this as a tragic fall](../zuo-jian-bu-shi-zi-fu/), picturing a natural liberty corrupted and imprisoned by society, to be recovered only through an arduous climb across several tiers of financial independence, spiritual discipline, and philosophical reconciliation with mortality. Yet followed down from the premise Rousseau himself stands on, the mechanism shows itself directly. The concept of the social contract describes nothing other than the collective trace of individual choices freely made. Freedom is not a distant summit reached in stages; it is the original, continuous, and uncaused ground of self-distinguishing activity. A human being is born free, and every constraint that appears afterward appears only because freedom itself has acted, distinguished, and chosen.
+Jean-Jacques Rousseau opened *The Social Contract* with the famous observation that man is born free, and everywhere he is in chains. The usual reading, dissected in [Spinning a Cocoon Is Not Binding Oneself](../zuo-jian-bu-shi-zi-fu/), treats this as a tragic fall, picturing a natural liberty corrupted and imprisoned by society, to be recovered only through an arduous climb across several tiers of financial independence, spiritual discipline, and philosophical reconciliation with mortality. Yet followed down from the premise Rousseau himself stands on, the mechanism shows itself directly. The concept of the social contract describes nothing other than the collective trace of individual choices freely made. Freedom is not a distant summit reached in stages; it is the original, continuous, and uncaused ground of self-distinguishing activity. A human being is born free, and every constraint that appears afterward appears only because freedom itself has acted, distinguished, and chosen.
 
 ## 一、 有条件抵达的虚幻阶梯 / 1. The Illusory Ladder of Conditional Attainment
 
@@ -22,24 +22,20 @@ flowchart TD
         G_Trace["选定的轮廓：承诺、制度与社会契约"]
         G_Act --> G_Trace
     end
-
     subgraph S_Closure["阶梯幻象（超越投射）"]
         direction TB
         C_Invert["把投射安装为地基：将自由系于财务、精神或存在的层级条件"]
         C_Loop["封闭的寻求者回路：被保留的自我图像把能动性困在前提账簿内"]
         C_Invert --> C_Loop
     end
-
     subgraph S_Recognition["当下的认出与生成性游戏"]
         direction TB
         R_Drop["从框架退后一步：认出迈出的每一步早已在运用自由"]
         R_Play["无条件的创造：把感知到的现实重塑为创造的现实"]
         R_Drop --> R_Play
     end
-
     G_Trace ==>|"迫使有限的痕迹为活动本身奠基"| C_Invert
     C_Loop ==>|"放下对闭合的要求"| R_Drop
-
     style S_Ground fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Closure fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Recognition fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -61,24 +57,20 @@ flowchart TD
         G_Trace["Chosen Contours: Commitments, institutions, and the social contract"]
         G_Act --> G_Trace
     end
-
     subgraph S_Closure["The Ladder Illusion (Beyond the Projection)"]
         direction TB
         C_Invert["Projection Installed as Ground: Conditioning freedom on financial, spiritual, or existential tiers"]
         C_Loop["Closed Seeker Loop: Retained self-image traps agency inside a prerequisite ledger"]
         C_Invert --> C_Loop
     end
-
     subgraph S_Recognition["Immediate Recognition and Generative Play"]
         direction TB
         R_Drop["Stepping Back from the Frame: Recognizing every step already exercises freedom"]
         R_Play["Unconditioned Creation: Reshaping perceived reality into created reality"]
         R_Drop --> R_Play
     end
-
     G_Trace ==>|"Forcing a finite trace to ground the activity"| C_Invert
     C_Loop ==>|"Releasing the demand for closure"| R_Drop
-
     style S_Ground fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Closure fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Recognition fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -120,7 +112,7 @@ Freedom does not leave its ground to set out on a path, nor does it return to it
 
 Because completeness belongs to the quality of recognition rather than to an accumulation of time, status, or credentials, a life lived in this clarity is whole whatever its duration or outward scale. Classical traditions across history have preserved this exact cut. In Chan Buddhism, the saying "Drop the butcher's knife and become a Buddha on the spot" is not an improbable moral pardon; it is the direct recognition that the uncaused ground of freedom was never absent, diminished, or delayed by prior acts. Reaching the ground takes no travel time; the moment the misdirected hold is released, wholeness is present where one stands. Likewise, Confucius's line in the *Analects*, "Hear the Dao in the morning, and one may die content in the evening," notes that completeness is qualitative rather than quantitative. A single morning of lucid recognition holds the full reality of existence, and decades of chronological accumulation add no surplus to the ground itself.
 
-自由就在当下，并且毫无剩余地表达着自身——生命的短长既不为此增添分毫，也不从中减损半分。一旦约束被看作自由选定的轮廓、道路被看作自由自身的移动，最短的一生与最长的一生便同样圆满。[现实的边界](../xian-shi-de-bian-jie/)指出，现实的地平线始终是当下觉知的边界，并没有一间未曾照亮的终极现实后屋等着去核验眼下这一步。[没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/)从能动性一侧追踪了同一种当下性：没有任何外部载体或遥远彼岸，能够递送一件从未失落的东西。
+自由就在当下，并且毫无剩余地表达着自身——生命的短长既不为此增添分毫，也不从中减损半分。一旦约束被看作自由选定的轮廓、道路被看作自由自身的移动，最短的一生与最长的一生便同样圆满。[现实的边界](../xian-shi-de-bian-jie/)指出，现实的地平线始终是当下觉知的边界，并没有一间未曾照亮的终极现实后屋等着去核验眼下这一步。[没有普渡，只有自渡的无限可能](../mei-you-pu-du-zhi-you-zi-du/)从能动性一侧追踪了同一种当下性：没有任何外部载体或遥远彼岸，能够递送一件从未失落的东西。
 
 Duration neither adds to nor subtracts from the fact that freedom is present and expresses itself without remainder. The shortest span and the longest are equally complete once constraints are seen as freedom's chosen contours and the path as freedom's own movement. [The Boundary of Reality](../xian-shi-de-bian-jie/) points out that the horizon of reality is always the boundary of immediate awareness, with no unlit back room of ultimate reality waiting to validate the present step. [No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../mei-you-pu-du-zhi-you-zi-du/) tracks the same immediacy from the side of agency: no outside carrier or distant shore can deliver what was never lost.
 

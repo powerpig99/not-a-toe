@@ -22,9 +22,9 @@ When that surplus becomes large enough to more than cover the shortfall, the fie
 
 Once transfers are established, they densify the belief that produced them. Dependency is repeatedly rewarded. Agency is relatively penalized, not by decree but by the structure of payoffs. Pessimism about personal efficacy becomes the adaptive response under those payoffs. This is the reinforcement learning of the masses: a societal feedback process in which the same external placement of cause is trained at scale.
 
-底下的那份登记是零和的。把生产的少数的产出当作一池可以重新分配的固定存量，就预设了一个封闭的现实，其中一个人的得必是另一个人的失。在实践中，这种取向成了负和的：转移本身并不作为一股独立的力量介入，是那些把它当作原因的抉择，经由税收与再分配，登记为无谓的损失，登记为政治上的竞争比生产更有回报，登记为那些扩大物品与机会总量的激励变薄。与一种以创造而非攫取为中心的正和取向下本可能有的增长相比，增长放慢了。[生产、消费与心智的区分](../production-consumption-and-the-minds-distinction/)说的是同一个活动，在心智把边界握为固定时登记为消费；一个封闭的框，就这样把创造的能量变成了仿佛从有限存量里减去的样子。[命运偏爱反讽](../fate-loves-irony-refined/)是它在文明上的一面：生产供养了那些把生产重新框定为问题的思想体系。[悲观是乐观的阴影](../pessimism-is-the-shadow-of-optimism/)是它在心情上的一面：开放的区分积厚了盈余，稳住的登记一旦把边界握为固定，就消费这份盈余；对仍在区分的心智，运动与阴影的同在是永久的，不会因为注入更多乐观而被抵消，能结束的，是被握为固定的那道边界。这种心态的自我挫败在于机制，而不在于道德上的得分：围绕固定池子的形象组织起来的社会，产出的繁荣更少，而正是那份繁荣曾让再分配显得负担得起。
+底下的那份登记是零和的。把生产的少数的产出当作一池可以重新分配的固定存量，就预设了一个封闭的现实，其中一个人的得必是另一个人的失。在实践中，这种取向成了负和的：转移本身并不作为一股独立的力量介入，是那些把它当作原因的抉择，经由税收与再分配，登记为无谓的损失，登记为政治上的竞争比生产更有回报，登记为那些扩大物品与机会总量的激励变薄。与一种以创造而非攫取为中心的正和取向下本可能有的增长相比，增长放慢了。[生产、消费与心智的区分](../production-consumption-and-the-minds-distinction/)说的是同一个活动，在心智把边界握为固定时登记为消费；一个封闭的框，就这样把创造的能量变成了仿佛从有限存量里减去的样子。[生产创造自己的意识形态消费](../fate-loves-irony-refined/)是它在文明上的一面：生产供养了那些把生产重新框定为问题的思想体系。[悲观是乐观的阴影](../pessimism-is-the-shadow-of-optimism/)是它在心情上的一面：开放的区分积厚了盈余，稳住的登记一旦把边界握为固定，就消费这份盈余；对仍在区分的心智，运动与阴影的同在是永久的，不会因为注入更多乐观而被抵消，能结束的，是被握为固定的那道边界。这种心态的自我挫败在于机制，而不在于道德上的得分：围绕固定池子的形象组织起来的社会，产出的繁荣更少，而正是那份繁荣曾让再分配显得负担得起。
 
-The underlying registration is zero-sum. Treating the output of the productive minority as a fixed pool to be reallocated presumes a closed reality in which one person's gain must be another's loss. In practice the orientation becomes negative-sum. The transfer does not intervene as an independent power; the choices that treat it as cause register, through taxation and redistribution, as deadweight loss, as political competition paying better than production, and as thinner incentives to expand the total stock of goods and opportunities. Growth slows relative to what would have been possible under a positive-sum orientation centered on creation rather than extraction. [Production, Consumption, and the Mind's Distinction](../production-consumption-and-the-minds-distinction/) shows the same activity registering as consumption when the Mind holds its boundary fixed; a closed frame turns creative energy into the appearance of subtraction from a finite stock. [Fate Loves Irony](../fate-loves-irony-refined/) is the civilizational face: production funds the conceptual systems that reframe production as the problem. [Pessimism Is the Shadow of Optimism](../pessimism-is-the-shadow-of-optimism/) is the face in mood: open distinction densifies a surplus that the steadying registration, once it holds its boundary fixed, consumes; for the Mind still distinguishing, the co-presence of movement and shadow is permanent and is not cancelled by injecting more optimism, while what can end is the boundary held fixed. The mentality defeats itself in mechanism, not in moral score: societies organized around the image of a fixed pool generate less of the prosperity that once made redistribution look affordable.
+The underlying registration is zero-sum. Treating the output of the productive minority as a fixed pool to be reallocated presumes a closed reality in which one person's gain must be another's loss. In practice the orientation becomes negative-sum. The transfer does not intervene as an independent power; the choices that treat it as cause register, through taxation and redistribution, as deadweight loss, as political competition paying better than production, and as thinner incentives to expand the total stock of goods and opportunities. Growth slows relative to what would have been possible under a positive-sum orientation centered on creation rather than extraction. [Production, Consumption, and the Mind's Distinction](../production-consumption-and-the-minds-distinction/) shows the same activity registering as consumption when the Mind holds its boundary fixed; a closed frame turns creative energy into the appearance of subtraction from a finite stock. [Production Creates Its Own Ideological Consumption](../fate-loves-irony-refined/) is the civilizational face: production funds the conceptual systems that reframe production as the problem. [Pessimism Is the Shadow of Optimism](../pessimism-is-the-shadow-of-optimism/) is the face in mood: open distinction densifies a surplus that the steadying registration, once it holds its boundary fixed, consumes; for the Mind still distinguishing, the co-presence of movement and shadow is permanent and is not cancelled by injecting more optimism, while what can end is the boundary held fixed. The mentality defeats itself in mechanism, not in moral score: societies organized around the image of a fixed pool generate less of the prosperity that once made redistribution look affordable.
 
 [看似AI的强化学习，实为人类的自我强化学习](../self-rl-for-humans/)在媒介是计算的时候，把强化留在那些发起与评估的中心。在这里，媒介是财政与制度的残余；这个回路在社会的情形里是同一种几何：被强化的，是所在的安放。把外置的安放奖励得足够多，适应性的模型就会削薄“下一步得由这条边缘来创作”的预期。
 
@@ -32,7 +32,7 @@ The underlying registration is zero-sum. Treating the output of the productive m
 
 ## 三、 能动是被展示的，不是可转移的资产 / 3. Agency Is Demonstrated; It Is Not a Transferable Asset
 
-转移给长远的东西标上了短期的价格，从而让问题叠加。自立不是一份可以转移的存量。能动不能像财富或信息那样被传递；它必须由一代人展示出来，再由下一代通过观察、练习和后果去主动地学。所以，给孩子一个更好的未来，不是递交资源，甚至不是递交现成的能力，而是在真实的约束之下，把称职的行动展示给他们看。[自我价值感与所有权](../ownership-and-self-worthiness/)是它在一个所在上的一面：只有当后果作为自己的回来时，心智才会复利。[你的代码库即是记忆](../your-codebase-is-memory/)在外化痕迹上追溯了同一道边界：文明的复利靠的不是人数的规模或囤积的存量，而是把经过检验的区分外化为工具、制度与人工记忆这套活的代码库；这套代码库不会自己把区分继续下去，每一个新的心智只有从行进的边缘重新切入，才能继承它。支持一旦弥漫开来，让后果像国家的天气一样落下、无人认领，就在文明的带宽上削薄了这个回路。
+转移给长远的东西标上了短期的价格，从而让问题叠加。自立不是一份可以转移的存量。能动不能像财富或信息那样被传递；它必须由一代人展示出来，再由下一代通过观察、练习和后果去主动地学。所以，给孩子一个更好的未来，不是递交资源，甚至不是递交现成的能力，而是在实际的约束之下，把称职的行动展示给他们看。[自我价值感与所有权](../ownership-and-self-worthiness/)是它在一个所在上的一面：只有当后果作为自己的回来时，心智才会复利。[你的代码库即是记忆](../your-codebase-is-memory/)在外化痕迹上追溯了同一道边界：文明的复利靠的不是人数的规模或囤积的存量，而是把经过检验的区分外化为工具、制度与人工记忆这套活的代码库；这套代码库不会自己把区分继续下去，每一个新的心智只有从行进的边缘重新切入，才能继承它。支持一旦弥漫开来，让后果像国家的天气一样落下、无人认领，就在文明的带宽上削薄了这个回路。
 
 Transfers compound the problem by placing a short-term price on long-term goods. Self-reliance is not a transferable stock. Agency cannot be transmitted like wealth or information; it must be demonstrated by one generation and actively learned by the next through observation, practice, and consequence. A better future for children is therefore not the delivery of resources, or even of ready-made capacities, but the demonstration of competent action under actual constraints, where the next generation can see it. [Ownership and Self-Worthiness](../ownership-and-self-worthiness/) is the face at one locus: the Mind compounds only when consequences re-enter as its own. [Your Codebase Is Memory](../your-codebase-is-memory/) traces the same boundary across externalized traces: civilization compounds not by mere headcount volume or hoarded stock, but by externalizing verified distinctions into a living codebase of tools, institutions, and artificial memory that does not continue the distinguishing on its own, and that each new Mind inherits only by re-cutting it from the moving edge. Support diffused until consequences land like the weather of the state, unowned, thins that loop at civilizational bandwidth.
 
@@ -66,7 +66,7 @@ The minority is not a fixed roster. Different individuals qualify at different t
 
 The decline is not permanent. Selection continues until the residual population is increasingly composed of those who preserved high agency or who are forced to confront the consequences of its absence. Either way, through the unbroken demonstration of self-reliance or through the hard lessons that restore it, the demographic trend reverses. High-agency groups expand relative to the rest, rebuilding a sufficient core of confidence in self-reliance. The cycle that began when surplus invited redistribution, and that operated as the reinforcement learning of the masses, ends for a time with the restoration of the conditions that made surplus possible.
 
-逆转的，不是一种从外部设计出来的集体心情，也不是一次对高生育率的永久抵达。逆转的，是被保留之参照的宽度：延续回到那条仍得在真实约束之下抉择的边缘，展示重新成为下一代借以学习的媒介，而把生产的产出当作固定池子的形象被放开，创造才能再次被登记为扩张，而不是一份有待瓜分的固定存量。把当下的人口曲线外推为永久的崩溃，是把由奖励外置能动的得失结构所投出的一道有限投射，误当成了穷尽现实的基底。[开放即一致](../openness-is-consistency/)把结构作为结构来握，不让它冻结；把转移的框当作人口下降的穷尽解法，就是生育情形下的那种冻结。[超越投射](../beyond-the-projection/)追溯了为什么在封闭轨迹之内被推到极限的有限投射，无法从内部解开自身前提的矛盾：用更大的转移去回应出生率的下降，仍锁在转移轨迹的引力井里；而活的边缘走出破损的框，在认领后果的地方重新呈现前提。放开，并不意味着一夜之间删掉制度。它让参照回到下一个分立动作仍在被画出的地方，包括把孩子带进一个这条边缘仍指望凭自己的工作去改善的世界的那个动作。
+逆转的，不是一种从外部设计出来的集体心情，也不是一次对高生育率的永久抵达。逆转的，是被保留之参照的宽度：延续回到那条仍得在实际约束之下抉择的边缘，展示重新成为下一代借以学习的媒介，而把生产的产出当作固定池子的形象被放开，创造才能再次被登记为扩张，而不是一份有待瓜分的固定存量。把当下的人口曲线外推为永久的崩溃，是把由奖励外置能动的得失结构所投出的一道有限投射，误当成了穷尽现实的基底。[开放即一致](../openness-is-consistency/)把结构作为结构来握，不让它冻结；把转移的框当作人口下降的穷尽解法，就是生育情形下的那种冻结。[超越投射](../beyond-the-projection/)追溯了为什么在封闭轨迹之内被推到极限的有限投射，无法从内部解开自身前提的矛盾：用更大的转移去回应出生率的下降，仍锁在转移轨迹的引力井里；而活的边缘走出破损的框，在认领后果的地方重新呈现前提。放开，并不意味着一夜之间删掉制度。它让参照回到下一个分立动作仍在被画出的地方，包括把孩子带进一个这条边缘仍指望凭自己的工作去改善的世界的那个动作。
 
 ```mermaid
 flowchart TD
@@ -77,17 +77,14 @@ flowchart TD
         P_Extrap["外推的崩溃神话：迟到的生育指标被投射为永久终局，并喂入更多转移"]
         P_Surplus --> P_RL --> P_Extrap
     end
-
     subgraph S_Open["超越投射的开放现实（未投射的边缘与代际选择）"]
         direction TB
         O_Filter["代际选择的筛子：差异化生育让仍在展示能动的中心复利"]
         O_StepOut["走出破损的框架：剩余能动与硬性后果打破转移的引力井"]
-        O_Restore["延续所在的复位：参照回到在真实约束下建造与抉择的活的边缘"]
+        O_Restore["延续所在的复位：参照回到在实际约束下建造与抉择的活的边缘"]
         O_Filter --> O_StepOut --> O_Restore
     end
-
     P_Extrap ==>|"转移回路触及生物与财政边界"| O_Filter
-
     style S_Proj fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style P_Surplus fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -109,17 +106,14 @@ flowchart TD
         P_Extrap["Extrapolated Collapse Myth: Delayed fertility metric projected as permanent terminus and fed more transfers"]
         P_Surplus --> P_RL --> P_Extrap
     end
-
     subgraph S_Open["Open Reality Beyond the Projection (Unprojected Edge & Generational Selection)"]
         direction TB
         O_Filter["Generational Selection Filter: Differential reproduction compounds centers that still demonstrate agency"]
         O_StepOut["Stepping Outside the Broken Frame: Residual agency and hard consequences break the transfer gravity well"]
-        O_Restore["Restored Locus of Continuation: Reference returns to the living edge that builds and chooses under real constraints"]
+        O_Restore["Restored Locus of Continuation: Reference returns to the living edge that builds and chooses under actual constraints"]
         O_Filter --> O_StepOut --> O_Restore
     end
-
     P_Extrap ==>|"Transfer loop hits biological & fiscal boundary"| O_Filter
-
     style S_Proj fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style P_Surplus fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc

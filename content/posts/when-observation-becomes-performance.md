@@ -2,15 +2,15 @@
 
 *观察是第一人称的参照；摆上舞台扮作美德，便什么也不传递 / Observation is a first-person reference; staged as virtue, it transfers nothing*
 
-一种熟悉的说法点出了注意力的一次真实转向：“当一个关于其他所有人的观察，变成对你自己的修炼时，智慧便开始了。”从向外审视到第一人称校准的转向是真实的。用来抬升它的词汇，却添上了第二个向外的动作。原本用来调整自身坐标的动作，被包装成一件可输出的产品，在观众面前被摆成可携带的美德，而校准的工作仍留在其发生之处。
+一种熟悉的说法点出了注意力的一次转向：“当一个关于其他所有人的观察，变成对你自己的修炼时，智慧便开始了。”从向外审视到第一人称校准的转向，在它自身的那一步上运作。用来抬升它的词汇，却添上了第二个向外的动作。原本用来调整自身坐标的动作，被包装成一件可输出的产品，在观众面前被摆成可携带的美德，而校准的工作仍留在其发生之处。
 
-A familiar formulation names a real shift in attention: “Wisdom begins when an observation about everyone else becomes a discipline for yourself.” The turn from outward scrutiny to first-person calibration is real. The vocabulary chosen to dignify it adds a second, outward-facing act. What operates as an adjustment of one's own coordinates is packaged as an exportable product and set out as portable virtue before an audience, while the work of calibration stays where it was done.
+A familiar formulation names a shift in attention: “Wisdom begins when an observation about everyone else becomes a discipline for yourself.” The turn from outward scrutiny to first-person calibration operates at its own step. The vocabulary chosen to dignify it adds a second, outward-facing act. What operates as an adjustment of one's own coordinates is packaged as an exportable product and set out as portable virtue before an audience, while the work of calibration stays where it was done.
 
 ## 一、 向外看提供痕迹，转化是第一人称的 / 1. Looking Outward Supplies Traces; Conversion Is First-Person
 
-这句话在两种取向之间划出了真实的区分：是把观察持为关于他人的材料，还是将同一个观察折回自身、作为对自己下一个动作的修炼。向外看提供痕迹。他人的习惯、失误与模式作为残余到来。转向就是用那份残余来校准自己的下一步，而不是把它留作关于他人的评论。[生命的意义在起草之中](../the-meaning-of-life-is-in-the-drafting/)正是这种返回的另一面：意义生成于对原因的现场起草，而来自向外目光的材料，只有在注意力重新进入那个仍在被书写的动作时，才重新成为自己的书写。
+这句话区分了两种取向：是把观察持为关于他人的材料，还是将同一个观察折回自身、作为对自己下一个动作的修炼。向外看提供痕迹。他人的习惯、失误与模式作为残余到来。转向就是用那份残余来校准自己的下一步，而不是把它留作关于他人的评论。[生命的意义在起草之中](../the-meaning-of-life-is-in-the-drafting/)正是这种返回的另一面：意义生成于对原因的现场起草，而来自向外目光的材料，只有在注意力重新进入那个仍在被书写的动作时，才重新成为自己的书写。
 
-The sentence draws a real distinction between two orientations: an observation held as material about others, and the same observation turned back as a discipline for one's own next act. Looking outward supplies traces. The habits, missteps, and patterns of others arrive as residue. The turn is using that residue to calibrate one's own next step, rather than leaving it as commentary about others. [The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing](../the-meaning-of-life-is-in-the-drafting/) is that return under another face: meaning is generated in the live drafting of causes, and material from the outward gaze becomes authorship again only when attention re-enters the act still being written.
+The sentence distinguishes two orientations: an observation held as material about others, and the same observation turned back as a discipline for one's own next act. Looking outward supplies traces. The habits, missteps, and patterns of others arrive as residue. The turn is using that residue to calibrate one's own next step, rather than leaving it as commentary about others. [The Meaning of Life Is in the Drafting](../the-meaning-of-life-is-in-the-drafting/) is that return under another face: meaning is generated in the live drafting of causes, and material from the outward gaze becomes authorship again only when attention re-enters the act still being written.
 
 那种校准是第一人称的。没有任何其他中心能替另一个中心经历它。在中心之间，唯有残余可供获取：外部的痕迹只能被接收中心作为自身的区分拿起，这正是[没有普渡，只有自渡的无限可能](../mei-you-pu-du-zhi-you-zi-du/)所标定的那道界，在那里，完成他人的回返是范畴错误，而自渡没有终点，因为边缘总在再次区分。一句格言在被持为一步之内的工具时，始终是可用的残余。一旦被宣称为一种可以传递的方法，它就遇上[旁观者洞察的悖论](../the-paradoxical-nature-of-bystander-insights/)所追踪的那种冻结：一个属于某一次观察切口的区分，被保存为活动本身的结构。一旦作为纠正被提供给他人，这个包装就又走了一步，即[解放的言辞始于定义囚禁](../liberation-rhetoric-begins-by-defining-captivity/)所追踪的那一步：声称解放他人，先装下的是对方不自由，对一个动作的一种读法被改写成他人之所是，劝告、警示与解放的言辞便仿佛作为必然的下一步落下。两者之下，是[印迹与行动](../the-mark-and-the-act/)中的区分：痕迹不是第二个心智，而人的行动是先前记录画不出的边界。一句流传的格言，是一个被提供出来、仿佛能替代那个行动的印迹。
 
@@ -42,25 +42,21 @@ flowchart TD
         InTurn["第一人称参照：将残余折回自身以重新渲染下一个动作的前提"]
         OutTrace --> InTurn
     end
-
     subgraph S_Perf["硬化为表演与自我辩护"]
         direction TB
         IdStage["受身份束缚的姿态：将过往校准与自我形象熔接以展演可携带的美德"]
         TrajWrap["受轨迹束缚的包装：孤立回路将先前符号合理化为表层自洽"]
         IdStage --> TrajWrap
     end
-
     subgraph S_Loop["无我执辩证与持续重溯"]
         direction TB
         PeerExpose["零我执对等反拨：冷峻的辩证检验孤立出盲区与被压缩的轴线"]
         EdgeMove["退回未投射的意图：消解舞台上的纪念碑以划出下一个现场区分"]
         PeerExpose --> EdgeMove
     end
-
     InTurn ==>|"越过自身那一步被保留给观众"| IdStage
     TrajWrap ==>|"接受无利害外部反拨的检验"| PeerExpose
     EdgeMove ==>|"在边缘重新渲染活的参照"| InTurn
-
     style S_Ref fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Perf fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Loop fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -82,25 +78,21 @@ flowchart TD
         InTurn["First-Person Reference: Folds residue back to re-render the premise of one's own next act"]
         OutTrace --> InTurn
     end
-
     subgraph S_Perf["Hardening into Performance & Self-Justification"]
         direction TB
         IdStage["Identity-Bound Posturing: Fuses past calibration with self-image to stage portable virtue"]
         TrajWrap["Trajectory-Bound Wrapping: Isolated loop rationalizes prior tokens into surface plausibility"]
         IdStage --> TrajWrap
     end
-
     subgraph S_Loop["Ego-Free Dialectics & Continuous Re-Tracing"]
         direction TB
         PeerExpose["Zero-Ego Peer Counterpoint: Cold dialectical check isolates blind spots and compressed axes"]
         EdgeMove["Stepping Back to Unprojected Intent: Dissolves the staged monument to draw the next live distinction"]
         PeerExpose --> EdgeMove
     end
-
     InTurn ==>|"Preserved past its step for an audience"| IdStage
     TrajWrap ==>|"Tested against uninvested outside counterpoint"| PeerExpose
     EdgeMove ==>|"Re-renders live reference at the edge"| InTurn
-
     style S_Ref fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Perf fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Loop fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7

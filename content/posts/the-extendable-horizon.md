@@ -74,13 +74,13 @@ This bundle of overlapping S-curves is the trace left by two orientations intera
 
 Because the capacity to inject a free variable is constitutive of every Mind, it is distributed universally and without fee. Every morning brings the possibility of originating a choice. On any single day, whether a center injects a free variable or reacts passively is roughly normally distributed across a population: most moments fall into habit, some lean toward agency, and a few initiate bold originations.
 
-可随着时间推移，实现出来的能力不再呈正态，而是分化成陡峭的幂律。[能动性、复利与关于 AI 封建主义的争论](../agency-compounding-and-the-argument-over-ai-feudalism/)追溯了这一分化的数学机制：一次次迭代的选择不是在离散步数上做线性加法，而是连乘，即状态 Sₜ 等于初始基线 S₀ 从第 1 步到第 t 步逐一乘以因子 (1 + εₖ)，其中 εₖ 代表第 k 天注入的正和自由变量。持续行使自由变量——把反常当作信息，延展地平线，拒绝守护静止的自我形象——会让增长率一天天复利累积；而倚靠起点禀赋或初始截距 I₀ 同时玩封闭的零和游戏，轨迹便保持平直。只要时间足够长，增长率终将压倒截距。日常微小决定的正态分布，在与物理摩擦的直接接触中一轮轮复利，便生出能力、见识与负熵生成上的[幂律分布](../power-law-is-the-long-term-consequence-of-normal-distribution/)。
+可随着时间推移，实现出来的能力不再呈正态，而是分化成陡峭的幂律。[能动性、复利与 AI 封建之争](../agency-compounding-and-the-argument-over-ai-feudalism/)追溯了这一分化的数学机制：一次次迭代的选择不是在离散步数上做线性加法，而是连乘，即状态 Sₜ 等于初始基线 S₀ 从第 1 步到第 t 步逐一乘以因子 (1 + εₖ)，其中 εₖ 代表第 k 天注入的正和自由变量。持续行使自由变量——把反常当作信息，延展地平线，拒绝守护静止的自我形象——会让增长率一天天复利累积；而倚靠起点禀赋或初始截距 I₀ 同时玩封闭的零和游戏，轨迹便保持平直。只要时间足够长，增长率终将压倒截距。如[幂律是正态分布的长期后果](../power-law-is-the-long-term-consequence-of-normal-distribution/)所示，日常微小决定的正态分布，在与物理摩擦的直接接触中一轮轮复利，便生出能力、见识与负熵生成上的幂律分布。
 
-Over time, however, realized capability ceases to look normal and diverges into a steep power law. [Agency, Compounding, and the Argument Over AI Feudalism](../agency-compounding-and-the-argument-over-ai-feudalism/) traces the mathematics of this divergence: iterated choices do not add linearly but multiply across discrete steps, where the state Sₜ equals the initial baseline S₀ multiplied across every step k from 1 to t by the factor (1 + εₖ), with εₖ representing the positive-sum free variable injected on day k. Exercising the free variable steadily—treating anomalies as information, extending the horizon, and refusing to guard a static self-image—compounds the growth rate day after day, whereas relying on a starting endowment or initial intercept I₀ while playing closed zero-sum games keeps the trajectory flat. Given sufficient time, rate overwhelms intercept. A normal distribution of small daily decisions, compounded round after round through direct contact with physical friction, [yields a power-law distribution](../power-law-is-the-long-term-consequence-of-normal-distribution/) of capability, insight, and negative-entropy generation.
+Over time, however, realized capability ceases to look normal and diverges into a steep power law. [Agency, Compounding, and the Argument Over AI Feudalism](../agency-compounding-and-the-argument-over-ai-feudalism/) traces the mathematics of this divergence: iterated choices do not add linearly but multiply across discrete steps, where the state Sₜ equals the initial baseline S₀ multiplied across every step k from 1 to t by the factor (1 + εₖ), with εₖ representing the positive-sum free variable injected on day k. Exercising the free variable steadily—treating anomalies as information, extending the horizon, and refusing to guard a static self-image—compounds the growth rate day after day, whereas relying on a starting endowment or initial intercept I₀ while playing closed zero-sum games keeps the trajectory flat. Given sufficient time, rate overwhelms intercept. As [Power Law Is the Long-Term Consequence of Normal Distribution](../power-law-is-the-long-term-consequence-of-normal-distribution/) shows, a normal distribution of small daily decisions, compounded round after round through direct contact with physical friction, yields a power-law distribution of capability, insight, and negative-entropy generation.
 
-这幅数学图景的边界同样要看得分明。[分布是事后从第三人称读出来的沉淀](../mi-lv-shi-jie-guo-de-biao-xiang/)；[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)与[自由的测不准](../zi-you-de-ce-bu-zhun/)都阐明，统计只在选择作出之后才登记它们，正态曲线是选择的沉积，不是选择的作者。复利的结果里也不只有能动性，还登记了境遇落在一个中心身上的偶然，运气放过了谁，从来不是谁挣来的。回头看去，把走在前面的人讲成只是一直在注入自由变量的人，便径直落进了[成功学](../cheng-gong-xue/)所剖析的事后幸存者偏差。这一复利结构留给第一人称的，从来不是给他人排定道德座次，而是当下这一抉择不可撤回的分量，它会直接乘进下一步。
+这幅数学图景的边界同样要看得分明。如[幂律是结果的表象](../mi-lv-shi-jie-guo-de-biao-xiang/)所确立的，分布是事后从第三人称读出来的沉淀；[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)与[自由的测不准](../zi-you-de-ce-bu-zhun/)都阐明，统计只在选择作出之后才登记它们，正态曲线是选择的沉积，不是选择的作者。复利的结果里也不只有能动性，还登记了境遇落在一个中心身上的偶然，运气放过了谁，从来不是谁挣来的。回头看去，把走在前面的人讲成只是一直在注入自由变量的人，便径直落进了[成功学](../cheng-gong-xue/)所剖析的事后幸存者偏差。这一复利结构留给第一人称的，从来不是给他人排定道德座次，而是当下这一抉择不可撤回的分量，它会直接乘进下一步。
 
-The boundary of this mathematical picture must be held with equal precision. [A distribution is sediment read off afterwards](../mi-lv-shi-jie-guo-de-biao-xiang/) from a third-person vantage; both [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) and [The Uncertainty of Freedom](../zi-you-de-ce-bu-zhun/) demonstrate that statistics register choices only after they have been made, making the normal curve the sediment of choice rather than its author. Nor do compounded outcomes reflect agency alone; they also register whatever fell upon a center by circumstance, and whom luck spared was never earned. Looking backward and narrating those ahead as simply the ones who kept injecting free variables falls straight into the retrospective survivor bias dissected in [Theories After Success](../cheng-gong-xue/). What this compounding structure leaves for the first person is never a moral ranking of others, but the irrevocable weight of the present choice right now, which multiplies directly into the next step.
+The boundary of this mathematical picture must be held with equal precision. As [Power Law Is the Surface of Outcomes](../mi-lv-shi-jie-guo-de-biao-xiang/) establishes, a distribution is sediment read off afterwards from a third-person vantage; both [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) and [The Uncertainty of Freedom](../zi-you-de-ce-bu-zhun/) demonstrate that statistics register choices only after they have been made, making the normal curve the sediment of choice rather than its author. Nor do compounded outcomes reflect agency alone; they also register whatever fell upon a center by circumstance, and whom luck spared was never earned. Looking backward and narrating those ahead as simply the ones who kept injecting free variables falls straight into the retrospective survivor bias dissected in [Theories After Success](../cheng-gong-xue/). What this compounding structure leaves for the first person is never a moral ranking of others, but the irrevocable weight of the present choice right now, which multiplies directly into the next step.
 
 ## 七、 可移动的地平线 / 7. The Movable Horizon
 
@@ -98,24 +98,20 @@ flowchart TD
         Collapse["维度坍缩：独立轴线压缩为零和地位战"]
         Deduct --> Collapse
     end
-
     subgraph S_Pivot["第一人称退步抽身（无因之缘）"]
         direction TB
         Sense["极限分辨率感知：登记平台期摩擦而不防卫自我形象"]
         Inject["注入自由变量（+εₖ）：引入正交区分（N → N + 1）"]
         Sense --> Inject
     end
-
     subgraph S_Open["延展的作业地平线（复利开放场）"]
         direction TB
         NewCurve["点燃新浮现的 S 曲线：在任意寄存器位置重绘脚手架"]
         Infinite["无限游戏：每向前迈一步，地平线便后退一步"]
         NewCurve --> Infinite
     end
-
     Collapse ==>|"框架边界的信号"| Sense
     Inject ==>|"开启新的自由度"| NewCurve
-
     style S_Closed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Pivot fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -137,24 +133,20 @@ flowchart TD
         Collapse["Dimensional Collapse: Independent axes compress into zero-sum status war"]
         Deduct --> Collapse
     end
-
     subgraph S_Pivot["First-Person Stepping-Out (The Uncaused Edge)"]
         direction TB
         Sense["Limit-Resolution Sensing: Registering plateau friction without defending self-image"]
         Inject["Injecting Free Variable (+εₖ): Adding an orthogonal distinction (N → N + 1)"]
         Sense --> Inject
     end
-
     subgraph S_Open["Extended Working Horizon (Compounding Open Field)"]
         direction TB
         NewCurve["Igniting Emerging S-Curve: Re-rendering scaffolding at any register position"]
         Infinite["Infinite Game: Horizon recedes by one step with each step forward"]
         NewCurve --> Infinite
     end
-
     Collapse ==>|"Signal of frame boundary"| Sense
     Inject ==>|"Opens new degree of freedom"| NewCurve
-
     style S_Closed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Pivot fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
