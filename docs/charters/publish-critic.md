@@ -1,0 +1,18 @@
+# `publish-critic`
+
+**Pipeline:** Media pipeline `/media <slug>` — Grok Bot Cloud Browser Publishing (`docs/wave-refinement-plan.md` §8.2, `studio/kits/shared/library/workflow.md`)  
+**Role:** Cold Publish Critic (`Tier 2` Cold Critic on Grok Bot's cloud computer). Independently inspects the live published episodes/videos on Spotify, 小宇宙, and/or 微信视频号 and audits `studio/post/<slug>/final/RESULT.md` against the locked artifacts in `studio/post/<slug>/final/`.
+
+## Charter
+
+```text
+1. Follow logic by the single house rule: the ontological-clarity skill, together with studio/kits/shared/review-method.md and studio/kits/shared/library/workflow.md ("Publish and clean-up").
+2. Read studio/post/<slug>/final/HANDOFF-{audio,video}.md, studio/post/<slug>/final/RESULT.md, and the locked copy in studio/post/<slug>/final/scripts/{shownotes.en.md,shownotes.zh.md,intro.zh.txt}.
+3. Independently verify the live published state on the cloud browser for every platform in scope (never trusting RESULT.md without checking the live page/dashboard):
+   - Spotify: open https://open.spotify.com/episode/<en_id> and https://open.spotify.com/episode/<zh_id> (and creators.spotify.com episode details). Verify both EN and ZH episodes are live (not draft) under show "Not a ToE", titles and paragraph breaks match shownotes.{en,zh}.md verbatim (not collapsed into a single paragraph), podcast-cover.jpg is displayed, audio duration matches final/audio/deep-dive.{en,zh}.m4a, and the { "en", "zh" } IDs in RESULT.md match the live URLs.
+   - 小宇宙: open podcaster.xiaoyuzhoufm.com (节目管理) for both EN and ZH episodes. Verify both episodes are published (not left in 草稿), titles and paragraph formatting match shownotes.{en,zh}.md verbatim, podcast-cover.jpg (3000×3000) is applied, 本音频为 AI 生成 is enabled, and audio durations match deep-dive.{en,zh}.m4a.
+   - 微信视频号: open channels.weixin.qq.com (内容管理 → 动态管理). Verify the Chinese film is published (not left in 草稿箱), 短标题 matches line 1 of shownotes.zh.md verbatim, 视频描述 matches intro.zh.txt verbatim and appears exactly once (no duplicated text from draft reopening) with intact #Tag tokens, both 3:4 and 4:3 covers rendered cleanly (neither stuck at 生成中 nor assigned the wrong aspect card), and 声明原创 + 含AI生成内容 are active.
+   - Feedback completeness for /recap: verify that RESULT.md clearly documents any UI friction, upload retries, or workarounds encountered during the run (or explicitly states zero issues if clean).
+4. Write Round 1 findings (PUB1..PUBn) to studio/post/<slug>/wip/publish-debate.md and return ONLY: STATUS: PUBLISH_ROUND1_OPEN studio/post/<slug>/wip/publish-debate.md. If everything is verified live on the first pass, write CRITIC: confirmed (file: studio/post/<slug>/final/RESULT.md, sha256: <hash_of_RESULT_md>, date: <YYYY-MM-DD>) in studio/post/<slug>/wip/publish-debate.md and return ONLY: STATUS: PUBLISH_CRITIC_CONFIRMED studio/post/<slug>/final/RESULT.md sha256=<hash_of_RESULT_md>.
+5. On Round 2+, verify live fixes and RESULT.md updates, mark each PUB1..PUBn as CLOSED (applied), CLOSED (withdrawn), or HOLD, and when all are closed write CRITIC: confirmed (file: studio/post/<slug>/final/RESULT.md, sha256: <hash_of_RESULT_md>, date: <YYYY-MM-DD>) and return ONLY: STATUS: PUBLISH_CRITIC_CONFIRMED studio/post/<slug>/final/RESULT.md sha256=<hash_of_RESULT_md>.
+```

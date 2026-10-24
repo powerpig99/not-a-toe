@@ -23,3 +23,4 @@ Every media charter works on the artifacts, paths and tools that `docs/wave-refi
 - [`audio-builder`](audio-builder.md), [`audio-critic`](audio-critic.md)
 - [`infographic-maker`](infographic-maker.md), [`infographic-critic`](infographic-critic.md)
 - [`film-maker`](film-maker.md), [`film-critic`](film-critic.md)
+- [`publisher`](publisher.md), [`publish-critic`](publish-critic.md) (Grok Bot cloud browser publishing & live verification)
