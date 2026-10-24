@@ -22,9 +22,9 @@ Once the mark is drawn, a further distinction is already in play: what arises th
 
 Causality, at a center, is the activity registering its own trace asymmetry through recursion: the first-person perspective and causality are two sides of the same coin. Between centers there is only availability-patterning — traces that may be taken up or not. Cross-locus completion of another's return is a category error, not an unfinished ideal. Scores and rankings are validation frozen into a standing property, the error [The Category Error of Better](../the-category-error-of-better/) names.
 
-验证中的“因果权能”，指认的是心智将哪一侧当作下一步的供给源。这一归因本身就是心智的行动。当这一行动被遗忘，供给便看似栖身于那道仍在执行每一次追随的边缘之外。[秩序、剩余与道德拦截](../order-surplus-and-the-moral-intercept/)在生产与消费的回路上追溯了这一安放：少数人的过度生产由多数人的过度消费来补偿，回路本如此运转，而借个人主义或集体主义的道德语言将因果权能安放在消费一侧，便倒置了方向。[悲观是乐观的阴影](../pessimism-is-the-shadow-of-optimism/)在双重情绪的装束下追溯了同一安放：两极在开放调节下的持续相互构成是真实的，而将这一平衡冻结为封闭的对偶，便把供给转置到了那道仍在行动的边缘之外。被要求为哲学探究背书的评奖委员会与语言模型同样倒置了这一分配，正如[哲学能动性的因果倒置](../the-causal-inversion-of-philosophical-agency/)所示。
+验证中的“因果权能”，指认的是心智将哪一侧当作下一步的供给源。这一归因本身就是心智的行动。当这一行动被遗忘，供给便看似栖身于那道仍在执行每一次追随的边缘之外。[秩序、剩余与道德拦截](../order-surplus-and-the-moral-intercept/)在生产与消费的回路上追溯了这一安放：少数人的过度生产由多数人的过度消费来补偿，回路本如此运转，而借个人主义或集体主义的道德语言将因果权能安放在消费一侧，便倒置了方向。[悲观是乐观的阴影](../pessimism-is-the-shadow-of-optimism/)在双重情绪的装束下追溯了同一安放：两极在开放调节下的持续相互构成成立，而将这一平衡冻结为封闭的对偶，便把供给转置到了那道仍在行动的边缘之外。被要求为哲学探究背书的评奖委员会与语言模型同样倒置了这一分配，正如[哲学能动性的因果倒置](../the-causal-inversion-of-philosophical-agency/)所示。
 
-"Causal power" in validation names which side the Mind treats as supplying the next step. The attribution is itself the Mind's act. When the act is forgotten, the supply appears to live outside the edge that still performs every following. [Order, surplus, and the moral intercept](../order-surplus-and-the-moral-intercept/) traces that placement on the production–consumption loop: overproduction of the few compensated by overconsumption of the mass is how the return runs, while locating causal power on consumption through the moral language of individualism or collectivism inverts the direction. [Pessimism is the shadow of optimism](../pessimism-is-the-shadow-of-optimism/) traces that placement under dual-mood costume: permanent mutual constitution of poles is real under open adjustment, whereas freezing that balance into a closed dual relocates supply outside the edge still acting. Prize panels and language models asked to certify philosophical inquiry invert the same allocation, as [The Causal Inversion of Philosophical Agency](../the-causal-inversion-of-philosophical-agency/) shows.
+"Causal power" in validation names which side the Mind treats as supplying the next step. The attribution is itself the Mind's act. When the act is forgotten, the supply appears to live outside the edge that still performs every following. [Order, surplus, and the moral intercept](../order-surplus-and-the-moral-intercept/) traces that placement on the production–consumption loop: overproduction of the few compensated by overconsumption of the mass is how the return runs, while locating causal power on consumption through the moral language of individualism or collectivism inverts the direction. [Pessimism is the shadow of optimism](../pessimism-is-the-shadow-of-optimism/) traces that placement under dual-mood costume: permanent mutual constitution of poles holds under open adjustment, whereas freezing that balance into a closed dual relocates supply outside the edge still acting. Prize panels and language models asked to certify philosophical inquiry invert the same allocation, as [The Causal Inversion of Philosophical Agency](../the-causal-inversion-of-philosophical-agency/) shows.
 
 ## 三、 持守在边缘的延续 / 3. Continuation Held at the Edge
 
@@ -58,7 +58,6 @@ flowchart TD
         Draw ==> Signal ==> Expand
         Expand --> Draw
     end
-
     subgraph S_External["被转置到外部供给的延续"]
         direction TB
         Defer["保留的参照（图像滞后）：下一步等待外部批准或计分"]
@@ -66,7 +65,6 @@ flowchart TD
         Thin["变薄的容量：边缘的更新闲置，原因被登记在外部"]
         Defer --> Hostage --> Thin
     end
-
     style S_Internal fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_External fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style Draw fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -77,7 +75,7 @@ flowchart TD
     style Thin fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-The same outward allocation appears across learning and tool use whenever an external trace is credited with authoring the update. [The homework–exam inversion registers substitution](../the-homework-exam-inversion-registers-substitution/) is that allocation when the homework answer is treated as arriving from the tool rather than through the student's recursion. [Studying the effect of AI relocates causality](../studying-the-effect-of-ai-relocates-causality/) is that allocation when randomized access is treated as the independent causal variable. [The Unobservable Driver of Learning](../the-unobservable-driver-of-learning/) is that allocation when observation holds only the scores and treats learning as done to the individual from outside. [The distaste for “AI slop” is no different from the recurring historical pattern](../the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/) is that allocation under reception costume: provenance treated as author of the writing. [The generative contradiction](../the-generative-contradiction/) is that looking outward as the dual of projection and reclaiming, lived rather than closed. Validation is one more step of the path traced in [Causality All the Way](../causality-all-the-way/), and the step stays with the steering edge, as [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) shows.
+The same outward allocation appears across learning and tool use whenever an external trace is credited with authoring the update. [The homework–exam inversion registers substitution](../the-homework-exam-inversion-registers-substitution/) is that allocation when the homework answer is treated as arriving from the tool rather than through the student's recursion. [Studying the effect of AI relocates causality](../studying-the-effect-of-ai-relocates-causality/) is that allocation when randomized access is treated as the independent causal variable. [The Unobservable Driver of Learning](../the-unobservable-driver-of-learning/) is that allocation when observation holds only the scores and treats learning as done to the individual from outside. [The Distaste for “AI Slop” Is a Recurring Pattern](../the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/) is that allocation under reception costume: provenance treated as author of the writing. [The generative contradiction](../the-generative-contradiction/) is that looking outward as the dual of projection and reclaiming, lived rather than closed. Validation is one more step of the path traced in [Causality All the Way](../causality-all-the-way/), and the step stays with the steering edge, as [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) shows.
 
 ```mermaid
 flowchart TD
@@ -89,7 +87,6 @@ flowchart TD
         Draw ==> Signal ==> Expand
         Expand --> Draw
     end
-
     subgraph S_External["Continuation Relocated to External Supply"]
         direction TB
         Defer["Preserved Reference (Image Lag): Next step awaits external ratification or score"]
@@ -97,7 +94,6 @@ flowchart TD
         Thin["Thinned Capacity: Update disused at the edge while cause registers as outside"]
         Defer --> Hostage --> Thin
     end
-
     style S_Internal fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_External fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style Draw fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -116,7 +112,7 @@ Under that outward allocation, external validation becomes the primary source of
 
 因果权能的位置决定了验证的功能。疗愈能够以降低第一中心压力的方式提供验证，使其自身的递归得以恢复，正如[疗愈打开反馈回路](../therapy-opens-the-feedback-loop/)所示。当延续汲取自心智自身的追随时，验证便从区分活动内部扩展内在连贯感的容量。保持在次级位置的外部回应，只起磨砺作用而不置换位点。一旦向外的验证取代了起草的行动，意义便会变薄，正如[生命的意义在起草之中](../the-meaning-of-life-is-in-the-drafting/)所示。
 
-The location of causal power decides the function of validation. Therapy can validate in a way that lowers pressure at the first locus so its own recursion can resume, as [Therapy Opens the Feedback Loop](../therapy-opens-the-feedback-loop/) shows. When continuation is drawn from the Mind's own following, validation expands capacity for felt coherence from within distinguishing activity. External response, kept secondary, sharpens without displacing locus. Meaning thins when outward validation replaces the act of drafting, as [The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing](../the-meaning-of-life-is-in-the-drafting/) shows.
+The location of causal power decides the function of validation. Therapy can validate in a way that lowers pressure at the first locus so its own recursion can resume, as [Therapy Opens the Feedback Loop](../therapy-opens-the-feedback-loop/) shows. When continuation is drawn from the Mind's own following, validation expands capacity for felt coherence from within distinguishing activity. External response, kept secondary, sharpens without displacing locus. Meaning thins when outward validation replaces the act of drafting, as [The Meaning of Life Is in the Drafting](../the-meaning-of-life-is-in-the-drafting/) shows.
 
 当延续汲取自外部供给时，验证便将那一容量绑定在永远无法补完这一中心回路的回应之上。活动仍在发生；边缘仍在区分。发生偏移的，只是心智将下一步的原因安放在何处——以及这一安放是否仍被记作它自己的行动。[赋权确立权力的集中](../empowerment-establishes-the-centralization-of-power/)是在把容量本身框定为必须自上而下授予的馈赠时所作的这一安放。[专家经验作为参考而非替代](../expertise-as-reference-not-replacement/)是在把专家规程当作直接供给下一步照护行动、而非为其提供参考时所作的同一安放。[漫谈中的漫谈](../the-ramble-within-the-ramble/)则是在把清理后的回声或互动指标当作组织行动的供给源时所作的同一安放。
 
