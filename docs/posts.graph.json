@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-24T17:49:51.650Z",
+    "generated_at": "2026-10-24T18:23:19.757Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -49,7 +49,7 @@
       "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "322bdedfbdab",
       "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "2804ed2110a5",
       "content/posts/conscience-power-delegation.md": "4dfadce8ba14",
-      "content/posts/consciousness-ascription-and-the-quantum-cut.md": "4ae0cc833005",
+      "content/posts/consciousness-ascription-and-the-quantum-cut.md": "3ce64bf84b73",
       "content/posts/consciousness-never-appears-as-data-among-data.md": "35adbc5ab9f0",
       "content/posts/constraints_are_ground.md": "851ee44653bf",
       "content/posts/context-engineering-essay.md": "cbc94ceb8dc4",
@@ -1760,7 +1760,7 @@
       "slug": "consciousness-ascription-and-the-quantum-cut",
       "path": "content/posts/consciousness-ascription-and-the-quantum-cut.md",
       "title": "意识归属与量子割点 / Consciousness Ascription and the Quantum Cut",
-      "hash": "4ae0cc833005",
+      "hash": "3ce64bf84b73",
       "in_degree": 6,
       "out_degree": 7,
       "links_out": [
@@ -18923,7 +18923,7 @@
       "from": "consciousness-ascription-and-the-quantum-cut",
       "to": "an-observation-by-its-own-standard",
       "rel": "points_to",
-      "label": "外部观察者是否决定将该系统视为一个拥有自觉体验的主体"
+      "label": "依其自身标准的观察"
     },
     {
       "from": "consciousness-ascription-and-the-quantum-cut",
@@ -18935,7 +18935,7 @@
       "from": "consciousness-ascription-and-the-quantum-cut",
       "to": "an-observation-by-its-own-standard",
       "rel": "points_to",
-      "label": "whether an observer elects to treat the observed system as an experiencing subject"
+      "label": "An Observation by Its Own Standard"
     },
     {
       "from": "consciousness-ascription-and-the-quantum-cut",
