@@ -38,3 +38,4 @@ The essays collected in this part trace how this method took shape and unfolded.
 - [向量、坐标系与自指心智 / The Mind as Vector and Coordinate System](../../posts/the-mind-as-vector-and-coordinate-system/)
 - [「更好」的范畴谬误 / The Category Error of Better](../../posts/the-category-error-of-better/)
 - [闭合的N与开放的现实 / The Closed N and the Open Reality](../../posts/the-closed-n-and-the-open-reality/)
+- [何谓形而上学？作为将追寻命名为目的的一刀 / What Is Metaphysics? As the Cut That Names the Seeking as Destination](../../posts/what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination/)

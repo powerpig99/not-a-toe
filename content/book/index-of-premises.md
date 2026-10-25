@@ -560,11 +560,11 @@ The stance that the problems of philosophy are problems of language treats langu
 ### 马丁·海德格尔 / Martin Heidegger
 `哲学 / Philosophical`
 
-海德格尔深刻揭示了上手工具的活态沉浸优先于抽离审视的现成客体；当认知系统试图把第一人称的情感体验当成货架上的静态库存核验调取时失效；在破除笛卡尔式主客二元割裂与恢复具身存有方面具有基底意义。
+海德格尔揭示了上手工具的活态沉浸优先于抽离审视的现成客体，并将形而上学呈现为人类此在对无的不息追问；当认知系统把第一人称的探问活动固化为可被抽离引用的货架库存时失效；在破除主客二元割裂与将探寻保持在当下实存边缘方面具有基底意义。
 
-Heidegger demonstrated that embodied readiness-to-hand precedes detached presence-at-hand; fails when cognition treats affective realization as an isolated inventory item to be audited on command; remains foundational in dissolving Cartesian subject-object dualism and recovering embodied presence.
+Heidegger demonstrated that embodied readiness-to-hand precedes detached presence-at-hand, unfolding metaphysics as human existence's unceasing questioning of Nothing; fails when inquiry nominalizes the living distinguishing activity into a citable inventory item to be evaluated from outside; remains foundational in dissolving Cartesian subject-object dualism and keeping the seeking at the active edge of existence.
 
-→ [现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling](../../posts/present-contact-and-the-obscuration-of-desired-feeling/)
+→ [现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling](../../posts/present-contact-and-the-obscuration-of-desired-feeling/) · [何谓形而上学？作为将追寻命名为目的的一刀 / What Is Metaphysics? As the Cut That Names the Seeking as Destination](../../posts/what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination/)
 
 ### 玛乔丽·麦克谢恩 / Marjorie McShane
 `技术 / Technological`
@@ -3474,6 +3474,15 @@ Meritocratic exceptionalism presumes that exceptionality is an inherent quality,
 Self-reflection and method have value; the posture of surveying the whole from one level up hardens into an asset that exempts the next struggle at the edge.
 
 → [“知道自己不知道”是一种修辞假象 / Knowing That You Don't Know Is a Rhetorical Illusion](../../posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/)
+
+### 形而上学 / Metaphysics
+`哲学 / Philosophical`
+
+形而上学预设不可化约的基底可以被命名、界定并作为确定的知识领域或终极目的地来寻求，在作为打碎低阶意识形态与经验固化的持续自我区分练习时有用；它在此到了边界：将不可化约的追寻命名即将其冻结为可被抽离引用的客体，制造出衡量当下的图像滞后，而活态区分活动始终在被命名的对象之前一步。
+
+Metaphysics presumes that the irreducible prior can be named, circumscribed, and pursued as a determinate field or final destination, which is of use as an ongoing exercise of self-distinguishing that dissolves lower-level ideological and empirical reifications; it reaches its boundary in that naming the irreducible seeking freezes it into a citable object and generates image lag that scores the present against a stale hold, while the living distinguishing activity remains one step ahead of every named object.
+
+→ [何谓形而上学？作为将追寻命名为目的的一刀 / What Is Metaphysics? As the Cut That Names the Seeking as Destination](../../posts/what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination/)
 
 ### 极简主义与延迟承诺 / Minimalism and Deferred Commitment
 `成功学 / Self-Help`
