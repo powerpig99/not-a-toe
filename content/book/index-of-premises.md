@@ -1194,7 +1194,7 @@ Digital economics notes free copies shift value to qualities like authenticity a
 
 Machine learning narratives treat optimization as an intelligent agent seeking truth; gradient updates execute blind local derivative steps without global foresight.
 
-→ [不知去向何方的梯度下降 / The Descent That Doesn't Know Where It's Going](../../posts/the-descent-that-doesnt-know-where-its-going/)
+→ [不知去向何方的梯度下降 / The Descent That Doesn't Know Where It's Going](../../posts/the-descent-that-doesnt-know-where-its-going/) · [模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks](../../posts/dynamic-resnet-of-skill-loops/)
 
 ### 哥德尔不完备定理 / Gödel's Incompleteness Theorems
 `数学 / Mathematical`
@@ -5291,7 +5291,7 @@ Presumes the randomness in a model's sampler is indeterminism in the ontological
 
 Presumes that a single agent can self-correct within its own session trajectory or that a manager agent can assume overarching orchestration across subagents through shared sessions and lossy prose summaries; effective when scoped to explicit sub-task splitting, progressive disclosure inside a main loop, and dispatching isolated contexts from artifact initial conditions, it reaches its boundary because a lone agent trapped in its token trajectory wraps its own contradiction, session cloning and summary handoffs either export the gravity well or strip rejected hypotheses, and a manager agent facing an axiomatic deadlock lacks access to unprojected living intent.
 
-→ [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/) · [按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step](../../posts/on-demand-contexts-keep-coherence-at-one-step/) · [交接残余 / Handing Off Residue](../../posts/handing-off-residue/)
+→ [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/) · [按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step](../../posts/on-demand-contexts-keep-coherence-at-one-step/) · [交接残余 / Handing Off Residue](../../posts/handing-off-residue/) · [模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks](../../posts/dynamic-resnet-of-skill-loops/)
 
 ### 实战判断力的存量重估预设 / The Stock-Revaluation Premise of Practical Judgment
 `技术 / Technological`
@@ -5328,3 +5328,12 @@ Presumes that exhaustively mapping a generative model's architectural topology, 
 Presumes either that subword tokenization is a neutral efficiency compression or that lowering the unit to bytes and direct machine binaries removes representational ceilings to exhaust the substrate; effective for trading sequence length against sub-token structure inside calibrated compute and latency regimes, it reaches its boundary because tokenizers, byte schemes, and compilers alike sit on the near side of an observational cut whose far-side indeterminism is the constitutive condition for any further making or talking.
 
 → [词元与观测边界 / Tokens and the Observational Boundary](../../posts/tokens-and-the-observational-boundary/) · [人、Token 与估值的范围 / Humans, Tokens, and the Scope of Valuation](../../posts/humans-tokens-and-the-scope-of-valuation/) · [抽象的阶梯与可执行的实体 / The Ladder of Abstraction and the Executable Entity](../../posts/the-ladder-of-abstraction-and-the-executable-entity/)
+
+### 残差网络与前馈分类预设 / Residual Networks and the Feedforward Classification Premise
+`技术 / Technological`
+
+预设残差网络（`yₗ₊₁ = yₗ + F(yₗ, Wₗ)`）只是深度前馈堆叠上的梯度流数值技巧，或静态编译的计算图足以刻画一切多步推演；在解释反向传播中恒等捷径如何缓解梯度衰减与爆炸时有效，但当“前馈”标签遮蔽了恒等主干作为跨步保留参考（使单条脆弱的全局端到端反馈回路拆解为计算有界局部差值的模块化反馈回路）的因果几何，或忽视有界智能体技能回路在容量过载下提请有丝分裂拆分、在章程更新收敛（`Δθₗ → 0`）下提请零语境结晶并始终系于人类外环初始条件 `y₀` 与主权核准时到达边界。
+
+Presumes that residual networks (`yₗ₊₁ = yₗ + F(yₗ, Wₗ)`) are merely a numerical gradient-flow trick inside a feedforward stack or that a statically compiled computation graph suffices for multi-step derivation; effective for explaining how identity shortcuts mitigate vanishing and exploding gradients during backpropagation, it reaches its boundary when the "feedforward" label obscures the causal geometry of the identity highway as a retained reference that decomposes one brittle global feedback loop into modular local feedback loops computing bounded differentials, and when static graphs miss how bounded skill loops propose mitosis under capacity overload and zero-context crystallization as charter updates converge (`Δθₗ → 0`) while remaining anchored to the human outer loop's initial condition `y₀` and sovereign ratification.
+
+→ [模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks](../../posts/dynamic-resnet-of-skill-loops/)
