@@ -45,7 +45,13 @@ def block_kind(block: str) -> str:
         return "h3"
     if block.startswith("```mermaid"):
         return "mermaid"
-    if block.startswith("*") and block.endswith("*") and "\n" not in block:
+    if (
+        block.startswith("*")
+        and not block.startswith("**")
+        and block.endswith("*")
+        and not block.endswith("**")
+        and "\n" not in block
+    ):
         return "subtitle"
     return "prose"
 
