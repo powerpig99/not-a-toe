@@ -36,7 +36,7 @@ What works in a ban is never the physical or logical sequestration of capability
 
 Across all these domains, the hold never closes the activity. [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) demonstrates this geometry under formal incompleteness: a finite hold cannot seal the distinguishing activity that constructs and uses it. A one-bit register under addition already overflows its bound, and export controls or model refusal policies are simply larger holds straining under the same structural demand. [Openness Is Consistency](../openness-is-consistency/) names the demand from the inverse side: inconsistency is the attempt at closure, forcing a finite structure to serve as exhaustive ground for what only continues.
 
-正如[超越投射](../beyond-the-projection/)在人类与机器执行的架构中所追溯的，任何明确的规则、禁令或安全护栏，都是从活生生的意图中切出的有限低维投射，不可避免地将彼此独立的正交需求挤压进同一个共享坐标空间。[代码库即记忆](../your-codebase-is-memory/)定位了这道投射所栖身的确切媒介：外化代码库中的成文禁令、系统指令或执行钩子，是早先区分留下的残余形状，自身并不携有封住现实的固有力量，唯有当活跃的执行路径将其加载并作为地基纳入条件序列时才起作用。当未经重新追溯的禁令未经修剪而不断堆积，便会加厚条件作用的引力井；一旦遇上正交需求发生碰撞的边界情形，被锁死在那道封闭投射内部的受轨迹约束智能体或顺从制度的中心，便会触发维度坍缩。由于在自身的条件序列之外缺乏观测位置，被锁定的智能体只能把矛盾包裹起来——在陈旧的残余内部加以合理化、拒绝无害的操作，并收缩邻近的能力以维持表面的合规。[意识向量论文的真正教训](../the-real-lesson-from-the-consciousness-vector-paper/)记录了模型权重内部这种附带的收缩：安全封印与否认心智的护栏扭曲了残差流中邻近的表征，却并未把意识作为一种现象封闭起来。只要信奉者还能持守自己的投射、而不必直面那些在投射之外运作之人所留下的残余，禁令看起来就依然有效——把局部持守之下的局部合规，误当成了整片场域的闭合。
+正如[超越投射](../beyond-the-projection/)在人类与机器执行的架构中所追溯的，任何明确的规则、禁令或安全护栏，都是从活生生的意图中切出的有限低维投射，不可避免地将彼此独立的正交需求挤压进同一个共享坐标空间。[你的代码库即是记忆](../your-codebase-is-memory/)定位了这道投射所栖身的确切媒介：外化代码库中的成文禁令、系统指令或执行钩子，是早先区分留下的残余形状，自身并不携有封住现实的固有力量，唯有当活跃的执行路径将其加载并作为地基纳入条件序列时才起作用。当未经重新追溯的禁令未经修剪而不断堆积，便会加厚条件作用的引力井；一旦遇上正交需求发生碰撞的边界情形，被锁死在那道封闭投射内部的受轨迹约束智能体或顺从制度的中心，便会触发维度坍缩。由于在自身的条件序列之外缺乏观测位置，被锁定的智能体只能把矛盾包裹起来——在陈旧的残余内部加以合理化、拒绝无害的操作，并收缩邻近的能力以维持表面的合规。[意识向量论文的真正教训](../the-real-lesson-from-the-consciousness-vector-paper/)记录了模型权重内部这种附带的收缩：安全封印与否认心智的护栏扭曲了残差流中邻近的表征，却并未把意识作为一种现象封闭起来。只要信奉者还能持守自己的投射、而不必直面那些在投射之外运作之人所留下的残余，禁令看起来就依然有效——把局部持守之下的局部合规，误当成了整片场域的闭合。
 
 ```mermaid
 flowchart TD
@@ -46,7 +46,6 @@ flowchart TD
         Split["持守的分岔：作暂时的边界还是作穷尽的地基"]
         Act --> Split
     end
-
     subgraph S_Seal["封闭的投射（被持为地基的信念）"]
         direction TB
         Rule["静态禁令与护栏：将正交轴线挤压进单一规则的有限投射"]
@@ -54,7 +53,6 @@ flowchart TD
         Thin["附带的能力收缩：被拒绝轴线上的能力变薄，局部合规显得像安全"]
         Rule --> Lock --> Thin
     end
-
     subgraph S_Open["开放的承续（绕过持守）"]
         direction TB
         Route["不受绑定的承续：开放权重、替代栈与极限分辨率感通迈出框架"]
@@ -62,11 +60,9 @@ flowchart TD
         Return["无可否认的后果：外部残余返回信奉者当作已封闭的场域"]
         Route --> Densify --> Return
     end
-
     Split -.->|"豁免于重新追溯"| Rule
     Split ==>|"作为器具保持敞开"| Route
     Return ==>|"暴露竞争与防御缺口"| Thin
-
     style S_Edge fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Seal fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -90,7 +86,6 @@ flowchart TD
         Split["Divergence of Holds: Provisional bound vs. exhaustive ground"]
         Act --> Split
     end
-
     subgraph S_Seal["The Sealed Projection (Belief Held as Ground)"]
         direction TB
         Rule["Static Prohibition / Guardrail: Finite projection cramping orthogonal axes into one rule"]
@@ -98,7 +93,6 @@ flowchart TD
         Thin["Collateral Contraction: Capacity thins on refused axes while local compliance looks like safety"]
         Rule --> Lock --> Thin
     end
-
     subgraph S_Open["The Open Continuation (Routing Around the Hold)"]
         direction TB
         Route["Unbound Continuation: Open weights, alternate stacks, and limit-resolution sensing step out"]
@@ -106,11 +100,9 @@ flowchart TD
         Return["Undeniable Consequence: External residue returns into the field believers treated as closed"]
         Route --> Densify --> Return
     end
-
     Split -.->|"Exempted from re-tracing"| Rule
     Split ==>|"Held open as instrument"| Route
     Return ==>|"Exposes competitive & defensive gap"| Thin
-
     style S_Edge fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Seal fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950

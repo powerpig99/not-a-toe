@@ -63,6 +63,16 @@ def post_slugs():
     return sorted(p.stem for p in POSTS_DIR.glob('*.md') if p.name != 'README.md')
 
 
+def post_titles():
+    titles = {}
+    for p in POSTS_DIR.glob('*.md'):
+        if p.name == 'README.md':
+            continue
+        first = p.read_text(encoding='utf-8').splitlines()[0] if p.stat().st_size else ''
+        titles[p.stem] = first[2:].strip() if first.startswith('# ') else ''
+    return titles
+
+
 def creation_dates():
     """slug -> first-commit date (YYYY-MM-DD), following renames (-M), single git pass."""
     out = subprocess.run(
@@ -156,7 +166,9 @@ def read_book_file(slug):
     return lines[0][2:].strip() if lines and lines[0].startswith('# ') else '', lines[1:]
 
 
-def audit_parts(order, slugs, errors, warnings):
+def audit_parts(order, slugs, errors, warnings, titles=None):
+    if titles is None:
+        titles = post_titles()
     placement = {}
     per_part = {}
     for slug in order:
@@ -181,6 +193,8 @@ def audit_parts(order, slugs, errors, warnings):
                     errors.append(f'{slug}.md: unresolved essay link {m.group(2)}')
                     continue
                 s = pm.group(1)
+                if titles.get(s) and m.group(1).strip() != titles[s]:
+                    errors.append(f'{slug}.md: essay link anchor "{m.group(1).strip()}" != H1 "{titles[s]}" ({s})')
                 if s in placement:
                     errors.append(f'{s} placed in two parts: {placement[s]} and {slug}')
                     continue
@@ -190,7 +204,9 @@ def audit_parts(order, slugs, errors, warnings):
     return placement, per_part
 
 
-def audit_index(slugs, errors, warnings):
+def audit_index(slugs, errors, warnings, titles=None):
+    if titles is None:
+        titles = post_titles()
     title, lines = read_book_file('index-of-premises')
     if lines is None:
         errors.append('content/book/index-of-premises.md missing')
@@ -245,8 +261,11 @@ def audit_index(slugs, errors, warnings):
                 if not pm or pm.group(1) not in slugs:
                     errors.append(f"index: {entry['title']} unresolved link {m.group(2)}")
                     continue
-                entry['links'].append(pm.group(1))
-                linked.add(pm.group(1))
+                s = pm.group(1)
+                if titles.get(s) and m.group(1).strip() != titles[s]:
+                    errors.append(f"index: {entry['title']} link anchor \"{m.group(1).strip()}\" != H1 \"{titles[s]}\" ({s})")
+                entry['links'].append(s)
+                linked.add(s)
         else:
             entry['paras'].append(line)
             scan = strip_links(line)
@@ -307,13 +326,14 @@ def main():
 
     order = part_order()
     slugs = set(post_slugs())
+    titles = post_titles()
     errors, warnings, passed = [], [], []
 
     print('=' * 70)
     print('BOOK AUDIT' + (f': placement of {args.slug}' if args.slug else ''))
     print('=' * 70)
 
-    placement, per_part = audit_parts(order, slugs, errors, warnings)
+    placement, per_part = audit_parts(order, slugs, errors, warnings, titles)
 
     if args.slug:
         if args.slug not in slugs:
@@ -325,7 +345,7 @@ def main():
             passed.append(f'{args.slug} placed in part `{part}` (position {per_part[part].index(args.slug) + 1}/{len(per_part[part])})')
             if per_part[part][-1] != args.slug:
                 warnings.append(f'{args.slug} is not last in `{part}`; parts list essays in the order written')
-            _, _, _, linked = audit_index(slugs, [], [])
+            _, _, _, linked = audit_index(slugs, [], [], titles)
             if args.slug in linked:
                 passed.append(f'{args.slug} is linked from the Index of Premises')
             else:
@@ -333,7 +353,7 @@ def main():
         return report(errors, warnings, passed)
 
     audit_preface(errors, warnings)
-    entries, by_label, by_section, linked = audit_index(slugs, errors, warnings)
+    entries, by_label, by_section, linked = audit_index(slugs, errors, warnings, titles)
 
     unplaced = sorted(slugs - set(placement))
     if unplaced:

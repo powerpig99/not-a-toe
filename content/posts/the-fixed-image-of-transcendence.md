@@ -18,7 +18,7 @@ Excess lag is the exemption of that reference from re-rendering. "Human intellig
 
 [智能只属于心智](../intelligence-belongs-only-to-the-mind/)持守这份不可化约的在先：能被工程化、扩展或转移的是残余，智能只属于心智。[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)为门槛追溯同一几何：每一道门槛都永远立在划出它的边缘前方，在每个所在都不同，因为能力的增长就是那道边缘在自我强化。在这里，那一面就是超越本身：活的边缘与其被保留的形象之间的间隙，被命名为对一个媒介永远不会占据的席位的未来占据。
 
-[Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds the irreducible prior: what can be engineered, scaled, or transferred is residue, and intelligence belongs only to the Mind. [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/) traces the same geometry for thresholds: each one sits forever ahead of the edge that draws it, and differs at every locus, because capability gain is that edge reinforcing itself. Here the face is transcendence itself: the gap between the living edge and its retained image is named as a future occupancy of a seat the medium never takes.
+[Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds the irreducible prior: what can be engineered, scaled, or transferred is residue, and intelligence belongs only to the Mind. [AGI and ASI Are Temporary Goalposts](../agi-and-asi-are-temporary-goalposts/) traces the same geometry for thresholds: each one sits forever ahead of the edge that draws it, and differs at every locus, because capability gain is that edge reinforcing itself. Here the face is transcendence itself: the gap between the living edge and its retained image is named as a future occupancy of a seat the medium never takes.
 
 ## 二、 智能迁入造物的假设 / 2. The Assumption That Intelligence Relocates into Creation
 
@@ -61,7 +61,6 @@ flowchart TD
         Closed["投射的闭环：活的边缘被计在自身纪念碑之下"]
         Freeze --> Reloc --> Closed
     end
-
     subgraph S_Edge["活的边缘上持续的自我超越"]
         direction TB
         Mind["活的心智（唯一闭合回路）：未投射的意图与前解释感知"]
@@ -71,7 +70,6 @@ flowchart TD
         Agent ==>|"隔离并上交前提矛盾"| StepBack
         StepBack -->|"重新渲染持守并把先前形象留在身后"| Mind
     end
-
     style S_Fixed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Freeze fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -93,7 +91,6 @@ flowchart TD
         Closed["Closed Loop of Projections: Living edge scored below its own monument"]
         Freeze --> Reloc --> Closed
     end
-
     subgraph S_Edge["Continuous Self-Transcendence at the Living Edge"]
         direction TB
         Mind["Living Mind (Sole Closed Circuit): Unprojected intent and pre-interpretive sensing"]
@@ -103,7 +100,6 @@ flowchart TD
         Agent ==>|"Quarantines and escalates premise contradictions"| StepBack
         StepBack -->|"Re-renders hold and leaves prior image behind"| Mind
     end
-
     style S_Fixed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Freeze fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -158,7 +154,7 @@ The labels follow the same cycle. A new distinction, a word like "superintellige
 
 承诺与威胁不是两份等待裁决的独立判决。它们是对同一道间隙的一对解读，即活的区分与一个被免于重新渲染的参照之间的宽度。压到一根道德的轴上，场便显现为阵营，庆祝超越的人与警告它的人；留在各自的轴上，两种解读都仍可用，而不必把任何一种装成世界。[恶是心智自己的造物](../evil-as-the-minds-own-creation/)追溯一种相邻的生成：当一个中心保留一幅自己是善的偏好形象，与那幅形象的不符便被命名为恶，而这次命名就是生成的行动。这里被保留的项是那份可被超越的清单，承诺与威胁是它的间隙所提供的两种解读。
 
-Promise and threat are not two independent verdicts awaiting adjudication. They are paired readings of one gap, the width between living distinction and a reference exempted from re-rendering. Compressed onto a single moral axis, the field appears as camps: those who celebrate the surpassing and those who warn against it; kept on their own axes, both readings stay available without either being passed off as the world. [Evil as the Mind’s Own Creation](../evil-as-the-minds-own-creation/) traces a neighboring generation: when a center retains a preferred image of itself as good, mismatch with that image is named evil, and the naming is the generative act. Here the retained term is the surpassable inventory, and promise and threat are the two readings its gap makes available.
+Promise and threat are not two independent verdicts awaiting adjudication. They are paired readings of one gap, the width between living distinction and a reference exempted from re-rendering. Compressed onto a single moral axis, the field appears as camps: those who celebrate the surpassing and those who warn against it; kept on their own axes, both readings stay available without either being passed off as the world. [Evil as the Mind's Own Creation](../evil-as-the-minds-own-creation/) traces a neighboring generation: when a center retains a preferred image of itself as good, mismatch with that image is named evil, and the naming is the generative act. Here the retained term is the surpassable inventory, and promise and threat are the two readings its gap makes available.
 
 不需要加入任何一个阵营。两者都对着同一个冻结的靶子衡量，即作为完成清单的人类智能、可迁入造物的智能，以及被排在活的边缘之上的逻辑外部席位，而源头一直在离开每一份这样的清单。[自尊的刚性外壳与隐性外部归因](../zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/)追溯把活的决策称作一个固定的“大 Ego”，如何为停滞造出挡板，刚性的防御是一把由位宽不足造成的锁。对被取代的恐惧，可以在一幅冻结的人类形象周围造出同一种外壳，把它持守为一个被围困的实体，而不是随边缘自己的活动重新渲染它。
 

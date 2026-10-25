@@ -40,7 +40,7 @@ Even when cast as a generous bestowal of capacity, [Empowerment Establishes the 
 
 Once the externalized judgment is widely accepted, it ceases to require continual justification. The good becomes taken for granted, and what was once defended with conditional argument is enforced as self-evident. At that stage the original warrant has expired while the concentrated power and standing remain intact, yielding an unjustified good that still wears the language of benefit while answering no longer to the conditions that once made the claim of benefit credible.
 
-下游的后果被吸纳进同一个自我封闭的叙事之中，要么被算作美德不可避免的代价，要么被当作原初危险确实存在的进一步证据。观察所握住的只是既成的结果，而原初主张那些鲜活的生成条件，始终走在任何把该主张冻结为恒久地基的企图前面一步。正如[信念如何真正改变](../how-belief-actually-changes/)所追溯的，盘踞不动的确信之所以显得坚硬，并不是因为它是一种独立的实体，而是因为一个前提在累积的摩擦之下被豁免于重新划定；而在群体层面，[偏好聚类与评判语言](../preference-clusters-and-the-language-of-judgment/)展示了当相邻的所在不再亲自重新追溯同一片场域时，对齐的偏好如何把它们共享的持守登记为客观的正确。同样的反转也出现在外化的记忆代码库中，正如[代码库即记忆](../your-codebase-is-memory/)所审视的那样：当防御性规则与安全补丁不断累积，却不修剪或重新追溯它们的生成前提时，未经重溯的规则手册便硬化为自我封闭的约束，反过来堵死了它原本旨在服务的鲜活判断。
+下游的后果被吸纳进同一个自我封闭的叙事之中，要么被算作美德不可避免的代价，要么被当作原初危险确实存在的进一步证据。观察所握住的只是既成的结果，而原初主张那些鲜活的生成条件，始终走在任何把该主张冻结为恒久地基的企图前面一步。正如[信念如何真正改变](../how-belief-actually-changes/)所追溯的，盘踞不动的确信之所以显得坚硬，并不是因为它是一种独立的实体，而是因为一个前提在累积的摩擦之下被豁免于重新划定；而在群体层面，[偏好聚类与评判语言](../preference-clusters-and-the-language-of-judgment/)展示了当相邻的所在不再亲自重新追溯同一片场域时，对齐的偏好如何把它们共享的持守登记为客观的正确。同样的反转也出现在外化的记忆代码库中，正如[你的代码库即是记忆](../your-codebase-is-memory/)所审视的那样：当防御性规则与安全补丁不断累积，却不修剪或重新追溯它们的生成前提时，未经重溯的规则手册便硬化为自我封闭的约束，反过来堵死了它原本旨在服务的鲜活判断。
 
 ```mermaid
 flowchart TD
@@ -50,25 +50,21 @@ flowchart TD
         Revisable["持续重溯：随具体摩擦的移动更新参照"]
         Private --> Revisable
     end
-
     subgraph S_Mandate["2. 双重确信与容器变密（绑定身份的投射）"]
         direction TB
         Dual["双重依据：将自我认证的可靠与对他人欠缺的诊断配对"]
         Vessel["自由顺从：外包判断将权力集中进获豁免的容器"]
         Dual --> Vessel
     end
-
     subgraph S_Inversion["3. 依据过期与演绎反转（走向反面）"]
         direction TB
         Freeze["不言自明的冻结：在生成条件过期后强制执行投射"]
         Opposite["反转为侵犯：将外部反例视为威胁并施加所宣称要防止的伤害"]
         Freeze --> Opposite
     end
-
     Revisable -.->|"将私人确信抬升为支配他人的权威"| Dual
     Vessel ==>|"锁定被视为理所当然的授权"| Freeze
     Opposite ==>|"唯有靠第一人称拒绝外包或压过才能打断"| Private
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Mandate fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Inversion fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -90,25 +86,21 @@ flowchart TD
         Revisable["Continuous Re-Tracing: Updates reference as concrete friction shifts"]
         Private --> Revisable
     end
-
     subgraph S_Mandate["2. Dual Certainty & Vessel Densification (Identity-Bound Projection)"]
         direction TB
         Dual["Dual Warrant: Pairs self-certified reliability with diagnosed deficiency in others"]
         Vessel["Free Compliance: Outsourcing of judgment concentrates power into an exempted vessel"]
         Dual --> Vessel
     end
-
     subgraph S_Inversion["3. Expired Warrant & Deductive Reversal (The Opposite)"]
         direction TB
         Freeze["Self-Evident Freeze: Enforces the projection after its generating conditions expire"]
         Opposite["Inversion into Violation: Treats external counterpoints as threats and inflicts the harm it claimed to prevent"]
         Freeze --> Opposite
     end
-
     Revisable -.->|"Elevates private conviction into authority over others"| Dual
     Vessel ==>|"Locks in taken-for-granted mandate"| Freeze
     Opposite ==>|"Interrupted only by first-person refusal to outsource or override"| Private
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Mandate fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Inversion fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149

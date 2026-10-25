@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-25T03:00:41.173Z",
+    "generated_at": "2026-10-25T03:33:52.439Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -42,7 +42,7 @@
       "content/posts/cli-interface-stack.md": "8ce49c41c258",
       "content/posts/climbing-does-not-leave-the-ground.md": "15acabf3533a",
       "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "49aeca1cd3f8",
-      "content/posts/closed-reality-in-benchmark-maxing.md": "a012c272514f",
+      "content/posts/closed-reality-in-benchmark-maxing.md": "574180584456",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "fc0b4da31c80",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "2e81f9fcd92e",
       "content/posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback.md": "2469406459fc",
@@ -79,7 +79,7 @@
       "content/posts/expertise-as-reference-not-replacement.md": "33004fb0d150",
       "content/posts/extended-cognition-refined.md": "4fa5b382a8c6",
       "content/posts/extension-and-shift.md": "695ce6937cad",
-      "content/posts/externalized-virtue-becomes-its-opposite.md": "d465dbb1da43",
+      "content/posts/externalized-virtue-becomes-its-opposite.md": "a0c1f4787547",
       "content/posts/failure-as-information.md": "98ca1f79bd34",
       "content/posts/fate-loves-irony-refined.md": "4173eb2feff2",
       "content/posts/felt-resistance-and-the-speed-differential.md": "7c688ab6bc0e",
@@ -101,7 +101,7 @@
       "content/posts/hassabis-frontier-agi-premise.md": "541fc0653aa1",
       "content/posts/having-more-is-never-the-cause.md": "fff7b1e393f6",
       "content/posts/help-is-half-the-problem.md": "b370c85eb106",
-      "content/posts/hierarchy-from-individual-difference.md": "69e9c1301745",
+      "content/posts/hierarchy-from-individual-difference.md": "0f3577a77027",
       "content/posts/how-belief-actually-changes.md": "e023849871b3",
       "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "9c200c5c4e2a",
       "content/posts/huberman-winners-losers.md": "52edd6aa4959",
@@ -120,7 +120,7 @@
       "content/posts/manifesto-of-not-a-theory-of-everything.md": "5b88319c7739",
       "content/posts/math-as-a-career-is-not-math-as-a-pursuit.md": "1861bc2e15c4",
       "content/posts/meaning-of-life-refined.md": "e343fa3cccc6",
-      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "02c235243d39",
+      "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "4148fc7c14e3",
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "9a326be23d1c",
       "content/posts/minimizing-path.md": "90053fab1dbc",
       "content/posts/mises-state-analysis.md": "fe24d656c147",
@@ -161,7 +161,7 @@
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "299f7c1a0a76",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "108fc2f26b00",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "ecf75d7d8689",
-      "content/posts/preference-clusters-and-the-language-of-judgment.md": "6d543decd952",
+      "content/posts/preference-clusters-and-the-language-of-judgment.md": "b11dea0379ff",
       "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "92abe22ff1ba",
       "content/posts/price-as-utterance-understanding-as-trade.md": "09732d7116b8",
       "content/posts/production-consumption-and-the-minds-distinction.md": "69300d4d47c5",
@@ -246,7 +246,7 @@
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "7915aadc533b",
       "content/posts/the-fallacy-of-post-success-parenting.md": "a33a3eabb00c",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "204ffca3c19c",
-      "content/posts/the-fixed-image-of-transcendence.md": "582a2dc98e15",
+      "content/posts/the-fixed-image-of-transcendence.md": "e498e4768498",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "d3d47cfe2abd",
       "content/posts/the-flywheel-of-the-mind.md": "869ae350efe5",
       "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "ec15da6f1cf3",
@@ -313,18 +313,18 @@
       "content/posts/the-name-revolution-files-a-life-as-evidence.md": "0005b5557300",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "d580075b6d35",
       "content/posts/the-npc-impression-is-structural.md": "4f7bc9fb76e2",
-      "content/posts/the-observational-cut-in-ai-debates.md": "67d1a12b9dca",
+      "content/posts/the-observational-cut-in-ai-debates.md": "4ce3e6428502",
       "content/posts/the-only-coherent-uncaused-effect.md": "8e828e808896",
       "content/posts/the-open-question-is-determinisms-demand.md": "80597e04a05d",
       "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "dc29182803e7",
       "content/posts/the-other-coherence.md": "8dac9149aa79",
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "431ce25c2506",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "a9f8094d00b3",
-      "content/posts/the-path-drawn-one-step-at-a-time.md": "48c1bddc846f",
+      "content/posts/the-path-drawn-one-step-at-a-time.md": "53e3dd77a12a",
       "content/posts/the-perceiver-and-the-trace.md": "12ca1c236bca",
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "bb2f003e5b8b",
       "content/posts/the-power-law-of-surrendered-agency.md": "4a2576b3519f",
-      "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "b822b26346b4",
+      "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "36262a369738",
       "content/posts/the-price-of-closing-optionality.md": "5587a48534a1",
       "content/posts/the-question-that-installs-the-war.md": "841400920834",
       "content/posts/the-ramble-within-the-ramble.md": "57566038f9e7",
@@ -341,7 +341,7 @@
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "9e39c50c5595",
       "content/posts/the-reversal-of-education-and-science.md": "ba68ab96da47",
       "content/posts/the-reversal-of-verification.md": "02f9845efe25",
-      "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "dd6f1054d23b",
+      "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "611d67e1dd37",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "445e4d098b1b",
       "content/posts/the-scaffolding-that-keeps-growing.md": "35bd1ad4ae31",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "728ed78cb1f9",
@@ -391,7 +391,7 @@
       "content/posts/what-cannot-be-kept.md": "230c81faa1f9",
       "content/posts/what-hinton-failed-to-understand.md": "4d44fae914c7",
       "content/posts/what-information-is.md": "db25cf6703e1",
-      "content/posts/what-works-is-the-belief.md": "38b7c3f217e1",
+      "content/posts/what-works-is-the-belief.md": "56ae7c7c4c69",
       "content/posts/whatever-is-one-prompt-away.md": "2a70052b8308",
       "content/posts/when-abundance-looks-like-scarcity.md": "8ffe214e39a4",
       "content/posts/when-electrons-think.md": "c3336f135244",
@@ -1542,7 +1542,7 @@
       "slug": "closed-reality-in-benchmark-maxing",
       "path": "content/posts/closed-reality-in-benchmark-maxing.md",
       "title": "基准刷榜中的封闭实存 / Closed Reality in Benchmark Maxing",
-      "hash": "a012c272514f",
+      "hash": "574180584456",
       "in_degree": 35,
       "out_degree": 38,
       "links_out": [
@@ -2460,7 +2460,7 @@
       "slug": "externalized-virtue-becomes-its-opposite",
       "path": "content/posts/externalized-virtue-becomes-its-opposite.md",
       "title": "外化善意走向其反面 / Externalized Virtue Becomes Its Opposite",
-      "hash": "d465dbb1da43",
+      "hash": "a0c1f4787547",
       "in_degree": 26,
       "out_degree": 28,
       "links_out": [
@@ -2961,7 +2961,7 @@
       "slug": "hierarchy-from-individual-difference",
       "path": "content/posts/hierarchy-from-individual-difference.md",
       "title": "来自个体差异的层级 / Hierarchy from Individual Difference",
-      "hash": "69e9c1301745",
+      "hash": "0f3577a77027",
       "in_degree": 30,
       "out_degree": 30,
       "links_out": [
@@ -3571,7 +3571,7 @@
       "slug": "mei-you-pu-du-zhi-you-zi-du",
       "path": "content/posts/mei-you-pu-du-zhi-you-zi-du.md",
       "title": "没有普渡，只有自渡的无限可能 / No Universal Salvation, Only Boundless Possibilities of Self-Salvation",
-      "hash": "02c235243d39",
+      "hash": "4148fc7c14e3",
       "in_degree": 43,
       "out_degree": 45,
       "links_out": [
@@ -4720,7 +4720,7 @@
       "slug": "preference-clusters-and-the-language-of-judgment",
       "path": "content/posts/preference-clusters-and-the-language-of-judgment.md",
       "title": "偏好聚类与评判语言 / Preference Clusters and the Language of Judgment",
-      "hash": "6d543decd952",
+      "hash": "b11dea0379ff",
       "in_degree": 26,
       "out_degree": 27,
       "links_out": [
@@ -6934,7 +6934,7 @@
       "slug": "the-fixed-image-of-transcendence",
       "path": "content/posts/the-fixed-image-of-transcendence.md",
       "title": "超越的定相 / The Fixed Image of Transcendence",
-      "hash": "582a2dc98e15",
+      "hash": "e498e4768498",
       "in_degree": 24,
       "out_degree": 24,
       "links_out": [
@@ -8481,7 +8481,7 @@
       "slug": "the-observational-cut-in-ai-debates",
       "path": "content/posts/the-observational-cut-in-ai-debates.md",
       "title": "AI 争论中的观察划界 / The Observational Cut in AI Debates",
-      "hash": "67d1a12b9dca",
+      "hash": "4ce3e6428502",
       "in_degree": 6,
       "out_degree": 7,
       "links_out": [
@@ -8632,7 +8632,7 @@
       "slug": "the-path-drawn-one-step-at-a-time",
       "path": "content/posts/the-path-drawn-one-step-at-a-time.md",
       "title": "一步一步绘制出的路径 / The Path Drawn One Step at a Time",
-      "hash": "48c1bddc846f",
+      "hash": "53e3dd77a12a",
       "in_degree": 24,
       "out_degree": 26,
       "links_out": [
@@ -8727,7 +8727,7 @@
       "slug": "the-presumption-of-agi-and-the-view-from-outside",
       "path": "content/posts/the-presumption-of-agi-and-the-view-from-outside.md",
       "title": "AGI的预设与来自外部的视角 / The Presumption of AGI and the View from Outside",
-      "hash": "b822b26346b4",
+      "hash": "36262a369738",
       "in_degree": 23,
       "out_degree": 25,
       "links_out": [
@@ -9188,7 +9188,7 @@
       "slug": "the-risk-is-the-belief-in-oversight-itself",
       "path": "content/posts/the-risk-is-the-belief-in-oversight-itself.md",
       "title": "风险在于对监管本身的迷信 / The Risk Is the Belief in Oversight Itself",
-      "hash": "dd6f1054d23b",
+      "hash": "611d67e1dd37",
       "in_degree": 22,
       "out_degree": 24,
       "links_out": [
@@ -10444,7 +10444,7 @@
       "slug": "what-works-is-the-belief",
       "path": "content/posts/what-works-is-the-belief.md",
       "title": "起作用的是信念 / What Works Is the Belief",
-      "hash": "38b7c3f217e1",
+      "hash": "56ae7c7c4c69",
       "in_degree": 26,
       "out_degree": 28,
       "links_out": [
@@ -17287,7 +17287,7 @@
       "from": "closed-reality-in-benchmark-maxing",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
+      "label": "Abstraction Boundaries and the Moving Edge of Reality"
     },
     {
       "from": "closed-reality-in-benchmark-maxing",
@@ -17311,7 +17311,7 @@
       "from": "closed-reality-in-benchmark-maxing",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
+      "label": "AGI and ASI Are Temporary Goalposts"
     },
     {
       "from": "closed-reality-in-benchmark-maxing",
@@ -23197,7 +23197,7 @@
       "from": "externalized-virtue-becomes-its-opposite",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
-      "label": "代码库即记忆"
+      "label": "你的代码库即是记忆"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
@@ -25999,7 +25999,7 @@
       "from": "hierarchy-from-individual-difference",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
-      "label": "Data Is Local; Intelligence Is Allocated"
+      "label": "Data Is Local, Intelligence Is Allocated"
     },
     {
       "from": "hierarchy-from-individual-difference",
@@ -26101,7 +26101,7 @@
       "from": "hierarchy-from-individual-difference",
       "to": "evil-as-the-minds-own-creation",
       "rel": "points_to",
-      "label": "Evil as the Mind’s Own Creation"
+      "label": "Evil as the Mind's Own Creation"
     },
     {
       "from": "hierarchy-from-individual-difference",
@@ -26113,7 +26113,7 @@
       "from": "hierarchy-from-individual-difference",
       "to": "the-npc-impression-is-structural",
       "rel": "points_to",
-      "label": "NPC 印象是结构性的"
+      "label": "NPC 印象是结构性的，而非心智的排名"
     },
     {
       "from": "hierarchy-from-individual-difference",
@@ -26185,7 +26185,7 @@
       "from": "hierarchy-from-individual-difference",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
-      "label": "代码库即记忆"
+      "label": "你的代码库即是记忆"
     },
     {
       "from": "hierarchy-from-individual-difference",
@@ -26197,7 +26197,7 @@
       "from": "hierarchy-from-individual-difference",
       "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "rel": "points_to",
-      "label": "Curiosity First: The Hidden Engine of Talent and Development"
+      "label": "Curiosity First"
     },
     {
       "from": "hierarchy-from-individual-difference",
@@ -30625,7 +30625,7 @@
       "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "the-npc-impression-is-structural",
       "rel": "points_to",
-      "label": "NPC 印象是结构性的"
+      "label": "NPC 印象是结构性的，而非心智的排名"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -30655,13 +30655,13 @@
       "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "when-need-stops-being-the-measure",
       "rel": "points_to",
-      "label": "当被需要不再是衡量"
+      "label": "当被需要不再是尺度"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
-      "label": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing"
+      "label": "The Meaning of Life Is in the Drafting"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -30721,7 +30721,7 @@
       "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
-      "label": "赋权确立了权力的中心化"
+      "label": "赋权确立权力的集中"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -30763,7 +30763,7 @@
       "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
-      "label": "The Coordinator’s Category Error"
+      "label": "The Coordinator's Category Error"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -30775,7 +30775,7 @@
       "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "when-observation-becomes-performance",
       "rel": "points_to",
-      "label": "当观测沦为表演"
+      "label": "当观察变成表演"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -30793,7 +30793,7 @@
       "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "rel": "points_to",
-      "label": "从“目的性”的评判，看认知系统的缺省状态与动态跃迁"
+      "label": "目的性的评判与认知的缺省状态"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -30841,7 +30841,7 @@
       "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "not-a-theory-of-everything",
       "rel": "points_to",
-      "label": "非万物之理（因果的二重性）"
+      "label": "非万物之理"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -30925,7 +30925,7 @@
       "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "evil-as-the-minds-own-creation",
       "rel": "points_to",
-      "label": "Evil as the Mind’s Own Creation"
+      "label": "Evil as the Mind's Own Creation"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -30937,7 +30937,7 @@
       "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "the-bank-shot-and-the-magic-trick",
       "rel": "points_to",
-      "label": "加塞球与魔术戏法"
+      "label": "翻袋球与魔术戏法"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -30997,7 +30997,7 @@
       "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "the-belief-in-utopia-is-the-path-to-dystopia",
       "rel": "points_to",
-      "label": "对乌托邦的盲信是通往反乌托邦之路"
+      "label": "对乌托邦的信念是通往反乌托邦之路"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -31021,7 +31021,7 @@
       "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "sowell-observed-the-surface-problem",
       "rel": "points_to",
-      "label": "索维尔看到了表象，却错失了根因"
+      "label": "索维尔的表象洞察与根因之偏"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -31033,7 +31033,7 @@
       "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "rel": "points_to",
-      "label": "外部归因：个人进步的障碍"
+      "label": "外部归因是个人进步的障碍"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -31057,7 +31057,7 @@
       "from": "mei-you-pu-du-zhi-you-zi-du",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
-      "label": "代码库即记忆"
+      "label": "你的代码库即是记忆"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -38713,7 +38713,7 @@
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "evil-as-the-minds-own-creation",
       "rel": "points_to",
-      "label": "Evil as the Mind’s Own Creation"
+      "label": "Evil as the Mind's Own Creation"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
@@ -38791,13 +38791,13 @@
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
-      "label": "代码库即记忆"
+      "label": "你的代码库即是记忆"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
-      "label": "Data Is Local; Intelligence Is Allocated"
+      "label": "Data Is Local, Intelligence Is Allocated"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
@@ -52603,7 +52603,7 @@
       "from": "the-fixed-image-of-transcendence",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
+      "label": "AGI and ASI Are Temporary Goalposts"
     },
     {
       "from": "the-fixed-image-of-transcendence",
@@ -52771,7 +52771,7 @@
       "from": "the-fixed-image-of-transcendence",
       "to": "evil-as-the-minds-own-creation",
       "rel": "points_to",
-      "label": "Evil as the Mind’s Own Creation"
+      "label": "Evil as the Mind's Own Creation"
     },
     {
       "from": "the-fixed-image-of-transcendence",
@@ -61825,7 +61825,7 @@
       "from": "the-observational-cut-in-ai-debates",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
+      "label": "AGI and ASI Are Temporary Goalposts"
     },
     {
       "from": "the-observational-cut-in-ai-debates",
@@ -62635,7 +62635,7 @@
       "from": "the-path-drawn-one-step-at-a-time",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
-      "label": "代码库即记忆"
+      "label": "你的代码库即是记忆"
     },
     {
       "from": "the-path-drawn-one-step-at-a-time",
@@ -62665,7 +62665,7 @@
       "from": "the-path-drawn-one-step-at-a-time",
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
-      "label": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing"
+      "label": "The Meaning of Life Is in the Drafting"
     },
     {
       "from": "the-path-drawn-one-step-at-a-time",
@@ -62683,13 +62683,13 @@
       "from": "the-path-drawn-one-step-at-a-time",
       "to": "the-npc-impression-is-structural",
       "rel": "points_to",
-      "label": "NPC 印象是结构性的"
+      "label": "NPC 印象是结构性的，而非心智的排名"
     },
     {
       "from": "the-path-drawn-one-step-at-a-time",
       "to": "evil-as-the-minds-own-creation",
       "rel": "points_to",
-      "label": "Evil as the Mind’s Own Creation"
+      "label": "Evil as the Mind's Own Creation"
     },
     {
       "from": "the-path-drawn-one-step-at-a-time",
@@ -62875,7 +62875,7 @@
       "from": "the-path-drawn-one-step-at-a-time",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
+      "label": "Abstraction Boundaries and the Moving Edge of Reality"
     },
     {
       "from": "the-path-drawn-one-step-at-a-time",
@@ -63355,7 +63355,7 @@
       "from": "the-presumption-of-agi-and-the-view-from-outside",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
+      "label": "AGI and ASI Are Temporary Goalposts"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
@@ -63379,7 +63379,7 @@
       "from": "the-presumption-of-agi-and-the-view-from-outside",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
-      "label": "Complexity Obscures: Emergence as the Act of Mind"
+      "label": "Complexity Obscures Emergence as the Act of Mind"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
@@ -66607,7 +66607,7 @@
       "from": "the-risk-is-the-belief-in-oversight-itself",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
+      "label": "AGI and ASI Are Temporary Goalposts"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
@@ -75127,7 +75127,7 @@
       "from": "what-works-is-the-belief",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
-      "label": "代码库即记忆"
+      "label": "你的代码库即是记忆"
     },
     {
       "from": "what-works-is-the-belief",
