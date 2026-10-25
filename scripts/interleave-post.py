@@ -36,7 +36,7 @@ def split_blocks(text: str) -> list[str]:
     return [block.strip() for block in re.split(r"\n\s*\n", cleaned.strip()) if block.strip()]
 
 
-def block_kind(block: str) -> str:
+def block_kind(block: str, index: int = -1) -> str:
     if block.startswith("# "):
         return "h1"
     if block.startswith("## "):
@@ -46,7 +46,8 @@ def block_kind(block: str) -> str:
     if block.startswith("```mermaid"):
         return "mermaid"
     if (
-        block.startswith("*")
+        index == 1
+        and block.startswith("*")
         and not block.startswith("**")
         and block.endswith("*")
         and not block.endswith("**")
@@ -68,7 +69,7 @@ def interleave_blocks(slug: str, zh_blocks: list[str], en_blocks: list[str]) -> 
     n = len(zh_blocks)
     while i < n:
         z, e = zh_blocks[i], en_blocks[i]
-        zk, ek = block_kind(z), block_kind(e)
+        zk, ek = block_kind(z, i), block_kind(e, i)
         if zk != ek:
             raise ValueError(
                 f"[{slug}] Block kind mismatch at index {i}: zh={zk} ({z[:40]!r}) vs en={ek} ({e[:40]!r})"
@@ -167,7 +168,7 @@ def split_slug(slug: str) -> tuple[pathlib.Path, pathlib.Path]:
     n = len(blocks)
     while i < n:
         b = blocks[i]
-        k = block_kind(b)
+        k = block_kind(b, i)
         if k == "h1":
             z, e = split_bilingual_pair(slug, b, "# ")
             zh_blocks.append(z)

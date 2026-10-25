@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-25T00:53:33.527Z",
+    "generated_at": "2026-10-25T01:13:11.269Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -339,7 +339,7 @@
       "content/posts/the-returning-signal-and-its-claim.md": "3e0a96be38a7",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "4e0a51e77cf0",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "9e39c50c5595",
-      "content/posts/the-reversal-of-education-and-science.md": "6bc635c24685",
+      "content/posts/the-reversal-of-education-and-science.md": "ba68ab96da47",
       "content/posts/the-reversal-of-verification.md": "02f9845efe25",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "dd6f1054d23b",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "445e4d098b1b",
@@ -433,10 +433,10 @@
     },
     "stats": {
       "posts": 406,
-      "edges": 11262,
-      "unique_directed": 5527,
+      "edges": 11264,
+      "unique_directed": 5528,
       "missing_targets": 0,
-      "one_way": 883,
+      "one_way": 882,
       "isolated": 0,
       "posts_with_outbound": 406,
       "book_pages": 16,
@@ -3533,7 +3533,7 @@
       "path": "content/posts/math-as-a-career-is-not-math-as-a-pursuit.md",
       "title": "作为职业的数学不是作为追求的数学 / Math as a Career Is Not Math as a Pursuit",
       "hash": "1861bc2e15c4",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 12,
       "links_out": [
         "why-mathematics-can-never-be-solved",
@@ -9152,10 +9152,11 @@
       "slug": "the-reversal-of-education-and-science",
       "path": "content/posts/the-reversal-of-education-and-science.md",
       "title": "教育与科学的倒置 / The Inversion of Education and Science",
-      "hash": "6bc635c24685",
+      "hash": "ba68ab96da47",
       "in_degree": 3,
-      "out_degree": 3,
+      "out_degree": 4,
       "links_out": [
+        "math-as-a-career-is-not-math-as-a-pursuit",
         "the-shadow-and-the-infinite",
         "the-asymmetry-of-understanding",
         "your-codebase-is-memory"
@@ -66211,6 +66212,18 @@
       "to": "residual-individualism",
       "rel": "points_to",
       "label": "Residual Individualism"
+    },
+    {
+      "from": "the-reversal-of-education-and-science",
+      "to": "math-as-a-career-is-not-math-as-a-pursuit",
+      "rel": "points_to",
+      "label": "作为职业的数学不是作为追求的数学"
+    },
+    {
+      "from": "the-reversal-of-education-and-science",
+      "to": "math-as-a-career-is-not-math-as-a-pursuit",
+      "rel": "points_to",
+      "label": "Math as a Career Is Not Math as a Pursuit"
     },
     {
       "from": "the-reversal-of-education-and-science",
