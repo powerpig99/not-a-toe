@@ -34,13 +34,13 @@ Everyone can use the word "safe" and still disagree on what it is weighed agains
 
 “安全”不是一个等着被更好的抽样找回来的单一共识概念。它是一个词，在不同的持守之下收拢不同的取舍。流行病学的主张回答的是一个更窄的问题，即从零开始在选定指标之下的预期伤害，而把这个更窄的回答坍缩进那个更宽的词，反转就从这里开始。[数据是局部的，智能是分配的](../data-is-local-intelligence-is-allocated/)追溯了为什么汇总只让残余变密而不搬动画出区分的动作：信号、糟粕与智能，命名的是心智在具体位置上所画出的关系。曲线是材料。戒酒是不是这个中心的下一步，是在承受结果的那个位置上画出的，而不在人群的汇总里。
 
-"Safe" is not a single consensus concept waiting to be recovered by better sampling. It is a word that gathers different trade-offs under different holds. The epidemiological claim answers a narrower question about expected harm under selected metrics from zero onward, and collapsing that narrower answer into the wider word is where the reversal begins. [Data Is Local; Intelligence Is Allocated](../data-is-local-intelligence-is-allocated/) traces why aggregation densifies residue without relocating the act of drawing distinctions: signal, slop, and intelligence name relations the Mind draws at a concrete locus. The curve is material. Whether abstinence is this center's next act is drawn at the locus that bears the outcome, not in the population aggregate.
+"Safe" is not a single consensus concept waiting to be recovered by better sampling. It is a word that gathers different trade-offs under different holds. The epidemiological claim answers a narrower question about expected harm under selected metrics from zero onward, and collapsing that narrower answer into the wider word is where the reversal begins. [Data Is Local, Intelligence Is Allocated](../data-is-local-intelligence-is-allocated/) traces why aggregation densifies residue without relocating the act of drawing distinctions: signal, slop, and intelligence name relations the Mind draws at a concrete locus. The curve is material. Whether abstinence is this center's next act is drawn at the locus that bears the outcome, not in the population aggregate.
 
 ## 四、 诉诸确定性让冻结变密 / 4. Reaching for Certainty Densifies the Freeze
 
-细微之处传得不好。确定性调动注意、塑造政策、简化信息，无需恶意就能给传播者提供反复诉诸它的激励。每一次诉诸确定性都让权力变密：被稳定下来的痕迹，塑形了公共言说中还剩哪些排列可用。一条被包装为定论的暂定曲线，[比一条仍让假设可见的曲线传得更远](../an-observation-by-its-own-standard/)。[起作用的是信念](../what-works-is-the-belief/)追溯了这样一种持守如何只塑形那些把它当作基础的中心，而不共享它的人则继续越过它。在这里，那个持守是被安装为既成定律的“没有安全剂量”。把它当作基础的中心，把戒酒重新追溯为唯一连贯的选择；不这样做的中心，则在那个包装所删掉的多轴取舍之下继续，除非它们把曲线连同包装一起扔掉。
+细微之处传得不好。确定性调动注意、塑造政策、简化信息，无需恶意就能给传播者提供反复诉诸它的激励。每一次诉诸确定性都让权力变密：被稳定下来的痕迹，塑形了公共言说中还剩哪些排列可用。一条被包装为定论的暂定曲线，比一条仍让假设可见的曲线传得更远，正如[依其自身标准的观察](../an-observation-by-its-own-standard/)所追溯的那样。[起作用的是信念](../what-works-is-the-belief/)追溯了这样一种持守如何只塑形那些把它当作基础的中心，而不共享它的人则继续越过它。在这里，那个持守是被安装为既成定律的“没有安全剂量”。把它当作基础的中心，把戒酒重新追溯为唯一连贯的选择；不这样做的中心，则在那个包装所删掉的多轴取舍之下继续，除非它们把曲线连同包装一起扔掉。
 
-Nuance travels poorly. Certainty mobilizes attention, shapes policy, and simplifies messaging, giving communicators recurring incentives to reach for it without requiring malice. Each reach for certainty densifies Power: stabilized traces patterning which alignments remain available in public speech. A provisional curve packaged as an absolute [travels farther than the curve with its assumptions still visible](../an-observation-by-its-own-standard/). [What Works Is the Belief](../what-works-is-the-belief/) traces how such a hold patterns only the centers that treat it as ground, while those who do not share it continue past it. Here the hold is "no safe level" installed as finished law. Centers that treat it as ground re-trace abstinence as the only coherent choice; centers that do not continue under the multi-axis trade-offs the package deleted, unless they throw the curve out along with the package.
+Nuance travels poorly. Certainty mobilizes attention, shapes policy, and simplifies messaging, giving communicators recurring incentives to reach for it without requiring malice. Each reach for certainty densifies Power: stabilized traces patterning which alignments remain available in public speech. A provisional curve packaged as an absolute travels farther than the curve with its assumptions still visible, as [An Observation by Its Own Standard](../an-observation-by-its-own-standard/) traces. [What Works Is the Belief](../what-works-is-the-belief/) traces how such a hold patterns only the centers that treat it as ground, while those who do not share it continue past it. Here the hold is "no safe level" installed as finished law. Centers that treat it as ground re-trace abstinence as the only coherent choice; centers that do not continue under the multi-axis trade-offs the package deleted, unless they throw the curve out along with the package.
 
 于是科学的语言被当作衣装穿上。图表、置信区间以及对“史上最大规模研究”的诉诸让这身衣装变密，然而衣装不是方法。方法在接触让持守失效时重新打开轴；衣装保住持守，并借用方法的声望，让持守不必重新打开。拒绝重新打开的东西被标榜为已成定论的科学，而真正被定下来的其实是图像。[现实扭曲力场指认的是封闭的地图](../the-reality-distortion-field-names-the-closed-map/)在对象是“可能”时追溯了同一种计分：一个内部位置所维持的延续，拿去对照一张被持守为封闭可能之场的共识地图，便被登记为扭曲世界之力；在这里，对象是“善”，一个中心自己的估价，拿去对照被持守为封闭善场的风险指标，便被登记为抗拒。[外化善意走向其反面](../externalized-virtue-becomes-its-opposite/)追溯了从一对孪生确信出发的弧线——既确信自己在道德上可靠，又确信异议有所欠缺——每当经验曲线被赋予超出其内容的道德分量、且异议被听成拒绝接受证据时，这里所携带的正是这一对确信。[一切伤害的根源](../the-source-of-all-harm/)追溯了当一个心智把自己的善冻结为普遍尺度、另一个心智让这次冻结支配自己的场时，伤害如何完成；在这里，被冻结的善是从曲线残余中提炼出的戒酒，而一个中心若让这次冻结支配自己的场，就仍是后果的作者。
 
@@ -62,7 +62,6 @@ flowchart TD
         P_Curve["暂定的残余：向经验修订保持开放的连续剂量反应曲线"]
         P_Cut --> P_Curve
     end
-
     subgraph S_Dogma["隐去前提时向教条的反转"]
         direction TB
         D_Drop["丢掉边界：有限指标被安装为安全的穷尽定义"]
@@ -70,7 +69,6 @@ flowchart TD
         D_Erode["残余被打折：对道德过度主张的抵制侵蚀了对底层数据的信任"]
         D_Drop --> D_Flat --> D_Erode
     end
-
     subgraph S_Open["活着边缘处的开放即一致"]
         direction TB
         O_Hold["有界器具：曲线作为有条件参照保持开放而不要求封闭"]
@@ -78,11 +76,9 @@ flowchart TD
         O_Act["自主的下一步：中心亲自作出决定并认领返回的后果"]
         O_Hold --> O_Weigh --> O_Act
     end
-
     P_Curve ==>|"公共传播中隐去前提边界"| D_Drop
     D_Erode ==>|"照见并放下封闭要求"| O_Hold
     P_Curve -.->|"保持前提可见"| O_Hold
-
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Dogma fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -106,7 +102,6 @@ flowchart TD
         P_Curve["Provisional Residue: Continuous dose-response curve open to empirical revision"]
         P_Cut --> P_Curve
     end
-
     subgraph S_Dogma["Reversal into Dogma When Premise Drops"]
         direction TB
         D_Drop["Dropped Boundary: Finite metric installed as the exhaustive definition of safety"]
@@ -114,7 +109,6 @@ flowchart TD
         D_Erode["Discounted Residue: Resistance to the moral overclaim erodes trust in the underlying data"]
         D_Drop --> D_Flat --> D_Erode
     end
-
     subgraph S_Open["Openness as Consistency at the Living Edge"]
         direction TB
         O_Hold["Bounded Instrument: Curve held open as a conditional reference without closure demand"]
@@ -122,11 +116,9 @@ flowchart TD
         O_Act["Sovereign Next Act: Center authors the decision and claims the returning consequences"]
         O_Hold --> O_Weigh --> O_Act
     end
-
     P_Curve ==>|"Premise boundary dropped in public messaging"| D_Drop
     D_Erode ==>|"Closure demand seen and released"| O_Hold
     P_Curve -.->|"Premise kept visible"| O_Hold
-
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Dogma fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -146,14 +138,14 @@ The trade-off formulation stays available whenever the projection is kept within
 
 ## 六、 让层次保持分开 / 6. Keep the Layers Distinct
 
-消解不是另一个与之对立的定论——既不是“适度饮酒普遍安全”的反向口号，也不是在另一种纯度指标之下的新封闭套件。用一个穷尽的坐标替换另一个，只是换了标签的同一次坍缩。消解是恢复各条轴：报告所选指标在其声明的假设与局限之下显示了什么，让模型的边界保持可见，并把向决定的转译——作为判断、偏好与取舍——留给每一个承受后果的中心。被指标塑形的场可以是集体的，但下一个动作的作者却始终是个体。
+消解不是另一个与之对立的定论——既不是“适度饮酒普遍安全”的反向口号，也不是在另一种纯度指标之下的新封闭套件。用一个穷尽的坐标替换另一个，只是换了标签的同一次坍缩。消解是恢复各条轴：报告所选指标在其声明的假设与局限之下显示了什么，让模型的边界保持可见，并把向决定的转译——作为判断、偏好与取舍——留给每一个承受后果的中心。让这一边界保持可见，并不是在主标题结论仍然包揽整个场的同时，仅把适用范围的限定留在细则里就算满足，这正是[转移原因的比较](../the-comparison-that-relocates-the-cause/)所追溯的结构逆运算：在那里，被保留下来的规程限定词并未约束结论，而是充当了未标引排序的事后护盾。被指标塑形的场可以是集体的，但下一个动作的作者却始终是个体。
 
-Dissolution is not a rival absolute—neither the counter-slogan that moderate drinking is universally safe nor a new sealed suite under a different purity metric. Replacing one exhaustive coordinate with another repeats the same collapse under a new label. Dissolution restores the axes: report what the chosen metric shows under its stated assumptions and limits, keep the model's boundary visible, and leave the translation into decisions—as judgment, preference, and trade-off—with each center that lives the consequences. The field the metric patterns can be collective, yet the author of the next act is always individual.
+Dissolution is not a rival absolute—neither the counter-slogan that moderate drinking is universally safe nor a new sealed suite under a different purity metric. Replacing one exhaustive coordinate with another repeats the same collapse under a new label. Dissolution restores the axes: report what the chosen metric shows under its stated assumptions and limits, keep the model's boundary visible, and leave the translation into decisions—as judgment, preference, and trade-off—with each center that lives the consequences. Keeping that boundary visible is not satisfied by retaining scope caveats in fine print while the headline takeaway still claims the whole field, the structural inverse traced in [The Comparison That Relocates the Cause](../the-comparison-that-relocates-the-cause/), where preserved protocol qualifiers serve as an after-the-fact shield for an unindexed ranking rather than restraining the conclusion. The field the metric patterns can be collective, yet the author of the next act is always individual.
 
 [个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)追溯了因果被登记的地方：只在个体所维持的分立动作里，每一次抉择都是一根独立的杠杆，从不是一块共享的地板，因此指标塑形的是这些动作所遇到的场，而发起则留在动作那里。[当观察变成表演](../when-observation-becomes-performance/)追溯了私人的孪生情形：一个关于他人的观察，只有作为第一人称的参照才获得力量，一旦把自己包装成可携带的美德便失去这份力量，正如流行病学残余只有作为第一人称参照时才发挥器具的功用，而从不是替其他心智完成抉择的可携带产品。[自我价值感与所有权](../ownership-and-self-worthiness/)追溯了功能的一面：心智只在后果作为自己的东西重新进入时才得以复利，而一个把下一步搬进套件的公共定论，会让这次更新变薄。[框架的边界](../the-boundary-of-the-frame/)追溯了任何理论如何作为被初始切分界定的有限器物，在遗忘观察者与因果基底时硬化为教条；被持守为安全之全貌的那一个风险指标，正是这样一个遗忘了自身边界的框架。
 
 [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) traces where causality registers: only in the discrete acts individuals sustain, each choice an independent lever and never a shared floor, so that the metric patterns the field those acts meet while initiation stays with the acts. [When Observation Becomes Performance](../when-observation-becomes-performance/) traces the private twin: an observation about others gains force only as a first-person reference and loses it the moment it packages itself as portable virtue, just as epidemiological residue functions as an instrument only as a first-person reference and never as a portable product that finishes the choice for other minds. [Ownership and Self-Worthiness](../ownership-and-self-worthiness/) traces the functional face: the Mind compounds only when consequences re-enter as its own, and a public absolute that relocates the next step into the suite thins that update. [The Boundary of the Frame](../the-boundary-of-the-frame/) traces how any theory, as a finite artifact bounded by its initial cut, hardens into dogma once it forgets the observer and the causal ground; one risk metric held as the whole of safety is such a frame that has forgotten its boundary.
 
-让参照随每一步持续重绘，器具就仍然可用。曲线仍在定向，人群的地图仍让选项变密，评判的词仍可作为一步的方向。掉下去的，是单一指标与活生生的生活之间被强加的等同。[你的代码库即是记忆](../your-codebase-is-memory/)在外化的数字器物之间追溯了同一道结构边界：正如一项有界的、可辩护的流行病学主张一旦丢掉其适用范围的条件就会反转为教条，外化代码库中一条有用的启发式法则或惯例，若没有睡眠巩固持续将每一条规则追溯回最初赋予它理由的前提与语境，也会硬化为教条式的臃肿，加厚陈旧残余的引力井。在这两个领域里，第一层都是在声明的切分之下保持可修订的经验或结构残余；第二层都是在活着的边缘上的估价与重切。把两者坍缩在一起，是常见的失效；而保持这个区分，才是让科学传播保持为科学的东西：可供重新追溯的残余，而不是一座要求肯定的纪念碑。
+让参照随每一步持续重绘，器具就仍然可用。曲线仍在定向，人群的地图仍让选项变密，评判的词仍可作为一步的方向。掉下去的，是单一指标与活生生的生活之间被强加的等同。[你的代码库即是记忆](../your-codebase-is-memory/)在外化的数字器物之间追溯了同一道结构边界：正如一项有界的、可辩护的流行病学主张一旦丢掉其适用范围的条件、或将其缩减为细则护盾就会反转为教条，外化代码库中一条有用的启发式法则或惯例，若没有睡眠巩固持续将每一条规则追溯回最初赋予它理由的前提与语境，也会硬化为教条式的臃肿，加厚陈旧残余的引力井。在这两个领域里，第一层都是在声明的切分之下保持可修订的经验或结构残余；第二层都是在活着的边缘上的估价与重切。把两者坍缩在一起，是常见的失效；而保持这个区分，才是让科学传播保持为科学的东西：可供重新追溯的残余，而不是一座要求肯定的纪念碑。
 
-Keep the reference re-rendering as each step moves, and the instruments remain usable. The curve still orients, population maps still densify options, and judgment words still serve as a heading for one step. What drops is the forced identity between a single metric and a lived life. [Your Codebase Is Memory](../your-codebase-is-memory/) traces the same structural boundary across externalized digital artifacts: just as a bounded, defensible epidemiological claim reverses into dogma the moment its scope condition is dropped, a useful heuristic or convention in an externalized codebase hardens into dogmatic bloat—thickening the gravity well of stale residue—unless sleep consolidation continually traces each rule back to the premise and context that justified it. In both domains, the first layer is empirical or structural residue that stays revisable under its stated cut; the second is valuation and re-cutting at the living edge. Collapsing them is the common failure, while maintaining the distinction is what keeps scientific communication scientific: residue available for re-tracing, never a monument that demands affirmation.
+Keep the reference re-rendering as each step moves, and the instruments remain usable. The curve still orients, population maps still densify options, and judgment words still serve as a heading for one step. What drops is the forced identity between a single metric and a lived life. [Your Codebase Is Memory](../your-codebase-is-memory/) traces the same structural boundary across externalized digital artifacts: just as a bounded, defensible epidemiological claim reverses into dogma the moment its scope condition is dropped or reduced to a fine-print shield, a useful heuristic or convention in an externalized codebase hardens into dogmatic bloat—thickening the gravity well of stale residue—unless sleep consolidation continually traces each rule back to the premise and context that justified it. In both domains, the first layer is empirical or structural residue that stays revisable under its stated cut; the second is valuation and re-cutting at the living edge. Collapsing them is the common failure, while maintaining the distinction is what keeps scientific communication scientific: residue available for re-tracing, never a monument that demands affirmation.
