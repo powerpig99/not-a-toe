@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-25T19:12:54.518Z",
+    "generated_at": "2026-10-25T20:17:37.757Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -79,7 +79,7 @@
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "cb3ba6791a63",
       "content/posts/expertise-as-reference-not-replacement.md": "33004fb0d150",
       "content/posts/extended-cognition-refined.md": "4fa5b382a8c6",
-      "content/posts/extension-and-shift.md": "695ce6937cad",
+      "content/posts/extension-and-shift.md": "3db8159f8401",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "a0c1f4787547",
       "content/posts/failure-as-information.md": "98ca1f79bd34",
       "content/posts/fate-loves-irony-refined.md": "4173eb2feff2",
@@ -93,7 +93,7 @@
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "ba0a285ae5ef",
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "b3f92aa94886",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "e21403fb50ae",
-      "content/posts/grok-420-framework-drift.md": "2a6735f32325",
+      "content/posts/grok-420-framework-drift.md": "cd05db7a2c5c",
       "content/posts/guan-yu-gui-yin.md": "b1b0d4d90b8e",
       "content/posts/guidance-is-not-ownership.md": "ad110e0b12b6",
       "content/posts/handing-off-residue.md": "46030af79ed1",
@@ -119,7 +119,7 @@
       "content/posts/looping-and-graphing.md": "1a929b3e0f11",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "659c68bf2162",
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "ed8ae49b479f",
-      "content/posts/manifesto-of-not-a-theory-of-everything.md": "5b88319c7739",
+      "content/posts/manifesto-of-not-a-theory-of-everything.md": "2923afdf340b",
       "content/posts/math-as-a-career-is-not-math-as-a-pursuit.md": "1861bc2e15c4",
       "content/posts/meaning-of-life-refined.md": "e343fa3cccc6",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "4148fc7c14e3",
@@ -138,7 +138,7 @@
       "content/posts/no-system-can-be-kept-closed.md": "cb636c5e6b60",
       "content/posts/nobody-has-seen-anything-yet.md": "2b871aa62082",
       "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md": "9a865742b9bb",
-      "content/posts/not-a-theory-of-everything.md": "d407f374359a",
+      "content/posts/not-a-theory-of-everything.md": "41f95512b70e",
       "content/posts/not-a-toe-rewrite.md": "99150d84dc27",
       "content/posts/not-predicting-is-predicting-without-awareness.md": "750dd47f6c5b",
       "content/posts/objects-are-stabilized-relationships.md": "01d114dde3a7",
@@ -437,10 +437,10 @@
     },
     "stats": {
       "posts": 410,
-      "edges": 11360,
-      "unique_directed": 5576,
+      "edges": 11382,
+      "unique_directed": 5587,
       "missing_targets": 0,
-      "one_way": 916,
+      "one_way": 917,
       "isolated": 0,
       "posts_with_outbound": 410,
       "book_pages": 16,
@@ -455,7 +455,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 200
+      "in_degree": 201
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -518,11 +518,11 @@
       "in_degree": 35
     },
     {
-      "slug": "a-creation-cannot-replace-its-source",
-      "in_degree": 33
+      "slug": "clarity-isnt-a-state-you-arrive-at",
+      "in_degree": 34
     },
     {
-      "slug": "clarity-isnt-a-state-you-arrive-at",
+      "slug": "a-creation-cannot-replace-its-source",
       "in_degree": 33
     },
     {
@@ -588,11 +588,11 @@
       "out_degree": 37
     },
     {
-      "slug": "a-creation-cannot-replace-its-source",
-      "out_degree": 34
+      "slug": "not-a-theory-of-everything",
+      "out_degree": 35
     },
     {
-      "slug": "not-a-theory-of-everything",
+      "slug": "a-creation-cannot-replace-its-source",
       "out_degree": 34
     },
     {
@@ -1088,7 +1088,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "ed96da63a1af",
-      "in_degree": 200,
+      "in_degree": 201,
       "out_degree": 18,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1396,7 +1396,7 @@
       "path": "content/posts/clarity-isnt-a-state-you-arrive-at.md",
       "title": "清晰不是抵达的终点，而是运动本身 / Clarity Isn't a State You Arrive At. It's the Movement Itself.",
       "hash": "55c81f8ed4d4",
-      "in_degree": 33,
+      "in_degree": 34,
       "out_degree": 32,
       "links_out": [
         "why-mathematics-can-never-be-solved",
@@ -2158,7 +2158,7 @@
       "path": "content/posts/dynamic-resnet-of-skill-loops.md",
       "title": "模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks",
       "hash": "221e2ed55ce5",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 6,
       "links_out": [
         "the-descent-that-doesnt-know-where-its-going",
@@ -2465,16 +2465,18 @@
       "slug": "extension-and-shift",
       "path": "content/posts/extension-and-shift.md",
       "title": "框内延伸与维度跃迁 / Extension and Shift",
-      "hash": "695ce6937cad",
+      "hash": "3db8159f8401",
       "in_degree": 4,
-      "out_degree": 6,
+      "out_degree": 8,
       "links_out": [
-        "beyond-the-projection",
         "extended-cognition-refined",
-        "hassabis-einstein-test",
         "intelligence-traps-itself",
+        "the-carry-that-cannot-be-named-inside-the-register",
+        "hassabis-einstein-test",
+        "beyond-the-projection",
+        "your-codebase-is-memory",
         "munger-dumb-competition-refined",
-        "your-codebase-is-memory"
+        "the-interesting-case-of-rubin"
       ]
     },
     {
@@ -2789,16 +2791,22 @@
       "slug": "grok-420-framework-drift",
       "path": "content/posts/grok-420-framework-drift.md",
       "title": "当模型在表演一套框架而非从基底推演 / When an AI Performs a Framework Instead of Operating From It",
-      "hash": "2a6735f32325",
+      "hash": "cd05db7a2c5c",
       "in_degree": 2,
-      "out_degree": 6,
+      "out_degree": 12,
       "links_out": [
         "your-codebase-is-memory",
+        "clarity-isnt-a-state-you-arrive-at",
         "when-observation-becomes-performance",
         "the-loop-that-cant-see-itself",
         "the-model-never-becomes-a-second-edge",
         "agents_leia_ontological_clarity",
-        "four-night-questions"
+        "beyond-the-projection",
+        "on-demand-contexts-keep-coherence-at-one-step",
+        "handing-off-residue",
+        "dynamic-resnet-of-skill-loops",
+        "four-night-questions",
+        "ontos-is-a-method-agent"
       ]
     },
     {
@@ -2855,7 +2863,7 @@
       "path": "content/posts/handing-off-residue.md",
       "title": "交接残余 / Handing Off Residue",
       "hash": "46030af79ed1",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 9,
       "links_out": [
         "beyond-the-projection",
@@ -3555,9 +3563,9 @@
       "slug": "manifesto-of-not-a-theory-of-everything",
       "path": "content/posts/manifesto-of-not-a-theory-of-everything.md",
       "title": "非万物之理 / Not a Theory of Everything",
-      "hash": "5b88319c7739",
+      "hash": "2923afdf340b",
       "in_degree": 10,
-      "out_degree": 9,
+      "out_degree": 11,
       "links_out": [
         "the-arithmetic-of-the-register",
         "the-geometry-of-mind",
@@ -3565,9 +3573,11 @@
         "individual-choices-as-the-only-causal-levers",
         "the-generative-atlas-of-macroscopic-phenomena",
         "po-chu-gai-nian-de-jian-yue",
+        "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
         "the-unclosable-trace",
         "your-codebase-is-memory",
-        "when-observation-becomes-performance"
+        "when-observation-becomes-performance",
+        "tokens-and-the-observational-boundary"
       ]
     },
     {
@@ -4052,9 +4062,9 @@
       "slug": "not-a-theory-of-everything",
       "path": "content/posts/not-a-theory-of-everything.md",
       "title": "非万物之理 / Not a Theory of Everything",
-      "hash": "d407f374359a",
+      "hash": "41f95512b70e",
       "in_degree": 32,
-      "out_degree": 34,
+      "out_degree": 35,
       "links_out": [
         "not-a-toe-rewrite",
         "intelligence-belongs-only-to-the-mind",
@@ -4087,6 +4097,7 @@
         "fixed-by-nothing",
         "constraints_are_ground",
         "the-limitation-is-doing-work",
+        "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
         "the-meaning-of-life-is-in-the-drafting",
         "the-strongest-belief-of-the-mind",
         "xian-shi-de-bian-jie"
@@ -4178,7 +4189,7 @@
       "path": "content/posts/on-demand-contexts-keep-coherence-at-one-step.md",
       "title": "按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step",
       "hash": "7271624addc2",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 7,
       "links_out": [
         "your-codebase-is-memory",
@@ -4284,7 +4295,7 @@
       "path": "content/posts/ontos-is-a-method-agent.md",
       "title": "呈现Ontos，一个方法智能体 / Presenting Ontos, a Method Agent",
       "hash": "fac9577215c2",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 12,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -6182,7 +6193,7 @@
       "path": "content/posts/the-carry-that-cannot-be-named-inside-the-register.md",
       "title": "进位无法在寄存器之内被命名 / The Carry That Cannot Be Named Inside the Register",
       "hash": "042276f47daa",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 9,
       "links_out": [
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
@@ -7764,7 +7775,7 @@
       "path": "content/posts/the-interesting-case-of-rubin.md",
       "title": "里克·鲁宾的奇特案例与不可瞄准的乐趣 / The Interesting Case of Rubin",
       "hash": "7e8d008c3655",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 4,
       "links_out": [
         "extension-and-shift",
@@ -10223,7 +10234,7 @@
       "path": "content/posts/tokens-and-the-observational-boundary.md",
       "title": "词元与观测边界 / Tokens and the Observational Boundary",
       "hash": "b7b29e167ecf",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 11,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -10525,7 +10536,7 @@
       "path": "content/posts/what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination.md",
       "title": "何谓形而上学？作为将追寻命名为目的的一刀 / What Is Metaphysics? As the Cut That Names the Seeking as Destination",
       "hash": "7142c74e361a",
-      "in_degree": 0,
+      "in_degree": 2,
       "out_degree": 7,
       "links_out": [
         "present-contact-and-the-obscuration-of-desired-feeling",
@@ -23223,21 +23234,9 @@
     },
     {
       "from": "extension-and-shift",
-      "to": "beyond-the-projection",
-      "rel": "points_to",
-      "label": "超越投射"
-    },
-    {
-      "from": "extension-and-shift",
       "to": "extended-cognition-refined",
       "rel": "points_to",
       "label": "作为认知主动延伸的工具"
-    },
-    {
-      "from": "extension-and-shift",
-      "to": "hassabis-einstein-test",
-      "rel": "points_to",
-      "label": "爱因斯坦测试与通用人工智能的范畴谬误"
     },
     {
       "from": "extension-and-shift",
@@ -23247,27 +23246,9 @@
     },
     {
       "from": "extension-and-shift",
-      "to": "munger-dumb-competition-refined",
-      "rel": "points_to",
-      "label": "消解芒格的愚蠢竞争论"
-    },
-    {
-      "from": "extension-and-shift",
-      "to": "beyond-the-projection",
-      "rel": "points_to",
-      "label": "Beyond the Projection"
-    },
-    {
-      "from": "extension-and-shift",
       "to": "extended-cognition-refined",
       "rel": "points_to",
       "label": "Tools as Active Extensions of Cognition"
-    },
-    {
-      "from": "extension-and-shift",
-      "to": "hassabis-einstein-test",
-      "rel": "points_to",
-      "label": "The Einstein Test and the AGI Category Error"
     },
     {
       "from": "extension-and-shift",
@@ -23277,9 +23258,39 @@
     },
     {
       "from": "extension-and-shift",
-      "to": "munger-dumb-competition-refined",
+      "to": "the-carry-that-cannot-be-named-inside-the-register",
       "rel": "points_to",
-      "label": "Dissolving Munger's Dumb Competition"
+      "label": "进位无法在寄存器之内被命名"
+    },
+    {
+      "from": "extension-and-shift",
+      "to": "hassabis-einstein-test",
+      "rel": "points_to",
+      "label": "爱因斯坦测试与通用人工智能的范畴谬误"
+    },
+    {
+      "from": "extension-and-shift",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "extension-and-shift",
+      "to": "the-carry-that-cannot-be-named-inside-the-register",
+      "rel": "points_to",
+      "label": "The Carry That Cannot Be Named Inside the Register"
+    },
+    {
+      "from": "extension-and-shift",
+      "to": "hassabis-einstein-test",
+      "rel": "points_to",
+      "label": "The Einstein Test and the AGI Category Error"
+    },
+    {
+      "from": "extension-and-shift",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
     },
     {
       "from": "extension-and-shift",
@@ -23289,9 +23300,33 @@
     },
     {
       "from": "extension-and-shift",
+      "to": "munger-dumb-competition-refined",
+      "rel": "points_to",
+      "label": "消解芒格的愚蠢竞争论"
+    },
+    {
+      "from": "extension-and-shift",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "extension-and-shift",
+      "to": "munger-dumb-competition-refined",
+      "rel": "points_to",
+      "label": "Dissolving Munger's Dumb Competition"
+    },
+    {
+      "from": "extension-and-shift",
+      "to": "the-interesting-case-of-rubin",
+      "rel": "points_to",
+      "label": "里克·鲁宾的奇特案例与不可瞄准的乐趣"
+    },
+    {
+      "from": "extension-and-shift",
+      "to": "the-interesting-case-of-rubin",
+      "rel": "points_to",
+      "label": "The Interesting Case of Rubin"
     },
     {
       "from": "externalized-virtue-becomes-its-opposite",
@@ -25113,9 +25148,21 @@
     },
     {
       "from": "grok-420-framework-drift",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "清晰不是抵达的终点，而是运动本身"
+    },
+    {
+      "from": "grok-420-framework-drift",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "grok-420-framework-drift",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
     },
     {
       "from": "grok-420-framework-drift",
@@ -25167,15 +25214,75 @@
     },
     {
       "from": "grok-420-framework-drift",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "grok-420-framework-drift",
+      "to": "on-demand-contexts-keep-coherence-at-one-step",
+      "rel": "points_to",
+      "label": "按需语境将融贯保持在一步"
+    },
+    {
+      "from": "grok-420-framework-drift",
+      "to": "handing-off-residue",
+      "rel": "points_to",
+      "label": "交接残余"
+    },
+    {
+      "from": "grok-420-framework-drift",
+      "to": "dynamic-resnet-of-skill-loops",
+      "rel": "points_to",
+      "label": "模块化反馈回路与动态残差网络"
+    },
+    {
+      "from": "grok-420-framework-drift",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "grok-420-framework-drift",
+      "to": "on-demand-contexts-keep-coherence-at-one-step",
+      "rel": "points_to",
+      "label": "On-Demand Contexts Keep Coherence at One Step"
+    },
+    {
+      "from": "grok-420-framework-drift",
+      "to": "handing-off-residue",
+      "rel": "points_to",
+      "label": "Handing Off Residue"
+    },
+    {
+      "from": "grok-420-framework-drift",
+      "to": "dynamic-resnet-of-skill-loops",
+      "rel": "points_to",
+      "label": "Modular Feedback Loops and Dynamic Residual Networks"
+    },
+    {
+      "from": "grok-420-framework-drift",
       "to": "four-night-questions",
       "rel": "points_to",
       "label": "令人彻夜难眠的四个追问与投射的边界"
     },
     {
       "from": "grok-420-framework-drift",
+      "to": "ontos-is-a-method-agent",
+      "rel": "points_to",
+      "label": "呈现Ontos，一个方法智能体"
+    },
+    {
+      "from": "grok-420-framework-drift",
       "to": "four-night-questions",
       "rel": "points_to",
       "label": "Four Questions That Keep You Up at Night"
+    },
+    {
+      "from": "grok-420-framework-drift",
+      "to": "ontos-is-a-method-agent",
+      "rel": "points_to",
+      "label": "Presenting Ontos, a Method Agent"
     },
     {
       "from": "guan-yu-gui-yin",
@@ -30663,6 +30770,12 @@
     },
     {
       "from": "manifesto-of-not-a-theory-of-everything",
+      "to": "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
+      "rel": "points_to",
+      "label": "何谓形而上学？作为将追寻命名为目的的一刀"
+    },
+    {
+      "from": "manifesto-of-not-a-theory-of-everything",
       "to": "the-unclosable-trace",
       "rel": "points_to",
       "label": "无法闭合的痕迹"
@@ -30672,6 +30785,12 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "manifesto-of-not-a-theory-of-everything",
+      "to": "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
+      "rel": "points_to",
+      "label": "What Is Metaphysics? As the Cut That Names the Seeking as Destination"
     },
     {
       "from": "manifesto-of-not-a-theory-of-everything",
@@ -30689,13 +30808,25 @@
       "from": "manifesto-of-not-a-theory-of-everything",
       "to": "when-observation-becomes-performance",
       "rel": "points_to",
-      "label": "当观察沦为表演"
+      "label": "当观察变成表演"
     },
     {
       "from": "manifesto-of-not-a-theory-of-everything",
       "to": "when-observation-becomes-performance",
       "rel": "points_to",
       "label": "When Observation Becomes Performance"
+    },
+    {
+      "from": "manifesto-of-not-a-theory-of-everything",
+      "to": "tokens-and-the-observational-boundary",
+      "rel": "points_to",
+      "label": "词元与观测边界"
+    },
+    {
+      "from": "manifesto-of-not-a-theory-of-everything",
+      "to": "tokens-and-the-observational-boundary",
+      "rel": "points_to",
+      "label": "Tokens and the Observational Boundary"
     },
     {
       "from": "math-as-a-career-is-not-math-as-a-pursuit",
@@ -34263,6 +34394,12 @@
     },
     {
       "from": "not-a-theory-of-everything",
+      "to": "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
+      "rel": "points_to",
+      "label": "何谓形而上学？作为将追寻命名为目的的一刀"
+    },
+    {
+      "from": "not-a-theory-of-everything",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
       "label": "清晰不是抵达的终点，而是运动本身"
@@ -34284,6 +34421,12 @@
       "to": "xian-shi-de-bian-jie",
       "rel": "points_to",
       "label": "现实的边界"
+    },
+    {
+      "from": "not-a-theory-of-everything",
+      "to": "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
+      "rel": "points_to",
+      "label": "What Is Metaphysics? As the Cut That Names the Seeking as Destination"
     },
     {
       "from": "not-a-theory-of-everything",
