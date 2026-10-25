@@ -18,7 +18,7 @@ Models sit one layer further out. They are compressed residues of many Minds’ 
 
 ## 二、 作为特化脚手架的智能体 / 2. Agents as Specialized Scaffolds
 
-智能体是带有脚手架的特化记忆。这套脚手架——系统提示词、章程、技能文件、角色定义、上下文边界、退役规则——本身就是更进一层的痕迹，在[活的语境](../the-living-context/)与[活的外部皮层](../a-living-external-cortex/)所描述的投射空间内运作，约束着当前会话可以依据哪些模型残余切片与哪些外部制品展开。一个持有累积计划的规划者并不是另一个会做规划的中心；它是一条受约束的轨迹，穿行于模型残余以及被赋予它的特定计划制品之间。一个只接收当前计划、交付报告随后退役的侦察者，则是一处临时特化，其会话词元被直接丢弃，以免增厚为额外的条件历史，从而将[超越投射](../beyond-the-projection/)所追溯的结构性非对称付诸运转。当这一结构扩展至完整流水线时，正如[按需语境将融贯保持在一步](../on-demand-contexts-keep-coherence-at-one-step/)所追溯的，每个任务步骤都会依据章程与技能加载出不带过往工作历史的全新制作者与冷审校者，落定可从共享前提推导出的事项，唯有在完成接收者双向核验之后才将签发制品连同其哈希值与审校记录交接进运行目录，随即把双方的语境悉数丢弃，并将任何未决分歧交还操作者。这种特化作为可访问痕迹上的差异是真实的，但它并非活动种类上的差异。活动依然是心智：在每一步上，它要么在既有残余内部继续推进，要么登记下这层残余已不再融贯。
+智能体是带有脚手架的特化记忆。这套脚手架——系统提示词、章程、技能文件、角色定义、上下文边界、退役规则——本身就是更进一层的痕迹，在[活的语境](../the-living-context/)与[活的外部皮层](../a-living-external-cortex/)所描述的投射空间内运作，约束着当前会话可以依据哪些模型残余切片与哪些外部制品展开。一个持有累积计划的规划者并不是另一个会做规划的中心；它是一条受约束的轨迹，穿行于模型残余以及被赋予它的特定计划制品之间。一个只接收当前计划、交付报告随后退役的侦察者，则是一处临时特化，其会话词元被直接丢弃，以免增厚为额外的条件历史，从而将[超越投射](../beyond-the-projection/)所追溯的结构性非对称付诸运转。当这一结构扩展至完整流水线时，正如[按需语境将融贯保持在一步](../on-demand-contexts-keep-coherence-at-one-step/)与[模块化反馈回路与动态残差网络](../dynamic-resnet-of-skill-loops/)所追溯的，运行目录中已签发的制品充当着一条保留的恒等主干（`yₗ`），使相继的步骤无需从头覆写先前状态（`yₗ₊₁ = fₗ(yₗ)`）：每个任务步骤都会依据章程 `θₗ` 加载出不带过往工作历史的全新制作者与冷审校者，在步骤内部计算出有界的状态差值（`Δyₗ`）以落定可从共享前提推导出的事项，唯有在完成接收者双向核验之后才将 `yₗ₊₁ = yₗ + Δyₗ` 连同其哈希值与审校记录交接出去，随即把双方的语境悉数丢弃，并将任何未决分歧交还操作者。这种特化作为可访问痕迹上的差异是真实的，但它并非活动种类上的差异。活动依然是心智：在每一步上，它要么在既有残余内部继续推进，要么登记下这层残余已不再融贯。
 
 ```mermaid
 flowchart TD
@@ -30,23 +30,23 @@ flowchart TD
     end
     subgraph S_Scaff["特化智能体脚手架（受约束的轨迹）"]
         direction TB
-        Rules["脚手架痕迹：系统提示词、章程、技能、上下文边界与退役规则"]
+        Rules["脚手架痕迹（θₗ）：系统提示词、章程、技能、上下文边界与退役规则"]
         Planner["累积型轨迹（规划者）：以模型切片与演进中的计划为条件"]
-        Scouter["按需退役型位点（侦察者／制作者与审校者）：核验哈希残余交接并丢弃会话语境"]
+        Scouter["按需残差块（制作者 ⇄ 冷审校者）：在经哈希核验的主干 yₗ 上计算有界 Δyₗ 并丢弃语境"]
         Rules --> Planner
         Rules --> Scouter
     end
     subgraph S_Res["层叠的数字残余（痕迹的痕迹）"]
         direction TB
         Weights["模型权重：集体早先痕迹的压缩统计规律"]
-        Code["代码库与运行制品：代码、文章、配置、图谱、计划、桥接文件与已签发的哈希记录"]
+        Code["代码库与制品主干（yₗ）：代码、文章、配置、图谱、计划、桥接文件与已签发的哈希记录"]
         Weights -->|"经由局部痕迹收束"| Code
     end
     Judge ==>|"立框、调度与重新追溯"| Rules
     Planner -->|"以模型与演进中的计划为条件"| Code
     Scouter -->|"仅以模型与当前步骤实时文件为条件"| Code
     Planner ==>|"返回更新后的制品"| Judge
-    Scouter ==>|"返回无会话拖拽的已核验残余"| Judge
+    Scouter ==>|"返回无会话拖拽的已核验 yₗ₊₁ = yₗ + Δyₗ"| Judge
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Scaff fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Res fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -59,7 +59,7 @@ flowchart TD
     style Code fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
 ```
 
-Agents are specialized memories with scaffolding. The scaffolding—system prompt, charter, skill file, role definition, context boundary, retirement rule—is itself a further trace that constrains which slices of model residue and which external artifacts the current session may condition on, operating within the projection space that [The Living Context](../the-living-context/) and [A Living External Cortex](../a-living-external-cortex/) describe. A Planner that holds an accumulating plan is not a second center that plans; it is a constrained trajectory through model residue plus the particular plan artifacts it has been given. A Scouter that receives only the current plan, delivers a report, and retires is a temporary specialization whose session tokens are discarded so they do not thicken into additional conditioning history, putting to work the structural asymmetry traced in [Beyond the Projection](../beyond-the-projection/). Scaled to a full pipeline, as [On-Demand Contexts Keep Coherence at One Step](../on-demand-contexts-keep-coherence-at-one-step/) traces, each task step loads a fresh maker and a cold critic from charter and skills without prior working history, settles what derives from the shared premise, hands off a signed-off artifact with its sha256 hash and critique record into the run folder only after two-way receiver verification, and drops both contexts completely while returning any undecided split to the operator. The specialization is real as a difference in accessible traces. It is not a difference in kind of activity. The activity remains the Mind that, at each step, either continues inside the available residue or registers that the residue no longer coheres.
+Agents are specialized memories with scaffolding. The scaffolding—system prompt, charter, skill file, role definition, context boundary, retirement rule—is itself a further trace that constrains which slices of model residue and which external artifacts the current session may condition on, operating within the projection space that [The Living Context](../the-living-context/) and [A Living External Cortex](../a-living-external-cortex/) describe. A Planner that holds an accumulating plan is not a second center that plans; it is a constrained trajectory through model residue plus the particular plan artifacts it has been given. A Scouter that receives only the current plan, delivers a report, and retires is a temporary specialization whose session tokens are discarded so they do not thicken into additional conditioning history, putting to work the structural asymmetry traced in [Beyond the Projection](../beyond-the-projection/). Scaled to a full pipeline, as [On-Demand Contexts Keep Coherence at One Step](../on-demand-contexts-keep-coherence-at-one-step/) and [Modular Feedback Loops and Dynamic Residual Networks](../dynamic-resnet-of-skill-loops/) trace, the signed-off artifact in the run folder functions as a retained identity highway (`yₗ`) so that sequential steps do not overwrite prior state from scratch (`yₗ₊₁ = fₗ(yₗ)`): each task step loads a fresh maker and a cold critic from a charter `θₗ` without prior working history, computes a bounded state differential (`Δyₗ`) inside the step to settle what derives from the shared premise, hands off `yₗ₊₁ = yₗ + Δyₗ` with its sha256 hash and critique record only after two-way receiver verification, and drops both contexts completely while returning any undecided split to the operator. The specialization is real as a difference in accessible traces. It is not a difference in kind of activity. The activity remains the Mind that, at each step, either continues inside the available residue or registers that the residue no longer coheres.
 
 ```mermaid
 flowchart TD
@@ -71,23 +71,23 @@ flowchart TD
     end
     subgraph S_Scaff["Specialized Agent Scaffolds (Constrained Trajectories)"]
         direction TB
-        Rules["Scaffolding Traces: System prompts, charters, skills, context bounds & retirement rules"]
+        Rules["Scaffolding Traces (θₗ): System prompts, charters, skills, context bounds & retirement rules"]
         Planner["Accumulating Trajectory (Planner): Conditions on model slice + evolving plan"]
-        Scouter["On-Demand Retiring Loci (Scouter / Maker-Critic): Verify sha256 residue handoff & drop session context"]
+        Scouter["On-Demand Residual Block (Maker ⇄ Cold Critic): Computes bounded Δyₗ over sha256 highway yₗ & drops context"]
         Rules --> Planner
         Rules --> Scouter
     end
     subgraph S_Res["Stacked Digital Residue (Traces of Traces)"]
         direction TB
         Weights["Model Weights: Compressed statistical regularities of collective prior traces"]
-        Code["Codebase & Run Artifacts: Code, essays, configs, graphs, plans, bridges & signed-off sha256 records"]
+        Code["Codebase & Artifact Highway (yₗ): Code, essays, configs, graphs, plans, bridges & signed-off sha256 records"]
         Weights -->|"Narrowed by local traces"| Code
     end
     Judge ==>|"Frames, dispatches & re-traces"| Rules
     Planner -->|"Conditions on model + evolving plan"| Code
     Scouter -->|"Conditions on model + live step files only"| Code
     Planner ==>|"Returns updated artifact"| Judge
-    Scouter ==>|"Returns verified residue without session drag"| Judge
+    Scouter ==>|"Returns verified yₗ₊₁ = yₗ + Δyₗ without session drag"| Judge
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Scaff fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Res fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -114,7 +114,7 @@ This is why the usual call for “better memories” misses the operative cut, r
 
 Model training already embodies the opposite cut: a run saves checkpoints, not the full history of intermediate weight updates. Every prior gradient step that still matters has already been absorbed into the current checkpoint; keeping the superseded trajectory around adds no capability. The same holds for a codebase and its working memory. Hoarding backups, archives, intermediate session caches, and dead branches out of mere possibility—“in case they are needed later”—thickens the gravity well, pulling future searches and agent sessions into outdated rabbit holes where stale framings compete with the live state. Keeping only what is actively load-bearing in the present configuration—the live files, the signed-off artifact and critique record in the run folder, and the carry-over note not yet acted on, paired with intentional redundancy of that live state such as a remote git mirror rather than piles of historical debris—leaves the surface unclouded. Once a transient working context has handed off its verified residue, a working folder has been folded into the canonical checkpoint, or a session bridge has handed off its moving edge, dropping the transient trace prevents yesterday’s scaffolding from masquerading as today’s ground. That checkpoint discipline applies equally to human domain experience, as [Judgment Is Not a Stock](../judgment-is-not-a-stock/) traces: treating decades of past problem-solving as a static stock that AI amplifies mistakes an unpruned inventory of conclusions for live edge-testing, whereas transferable capacity lies in pruning trajectories built around superseded bottlenecks and falsifying hypotheses against the present constraint boundary.
 
-真正改变下一步的，是重新追溯的质量。即便按需加载的制作者与冷审校者辩论至收束，二者依然共享同一个基础模型与同一份章程，因此它们共同身处的维度压缩——相互冲突的章程目标、未言明的技能前提，或由接连不断的叠床架屋式修补所累积出的技能蔓延——无法仅凭双方之间的相互辩论而消解。一个对照固定准则通读完整运行目录的全新运行后复盘语境，虽能将这些共有盲区作为候选修改项浮现出来，但基底依然唯有在前沿处的心智回到早先痕迹、登记下它们在何处已不再与当下感知相融贯时才会移动——即登记下何处有两条轴线被坍缩在了一起、何处有一项前提未经审视、何处有一条链接指向了已经移位的区分。追溯这一行动就地更新了残余。更新后的痕迹（修订后的文章、修剪过的章程或技能、精炼后的计划、退役的桥接文件、修正后的图谱边、丢弃的工作语境）成为后续轨迹据以展开的条件。后续轨迹因此得以在一组更干净的约束内运作，不是因为存储了更多内容，而是因为既有的残余被重新切分。留存下来的记忆在无关维度上变得更小，而在依然紧要的轴线上变得更锐利。
+真正改变下一步的，是重新追溯的质量。即便按需加载的制作者与冷审校者在单一步骤内部（`Δyₗ`）辩论至收束，二者依然共享同一个基础模型与同一份章程 `θₗ`，因此它们共同身处的维度压缩——相互冲突的章程目标、未言明的技能前提，或由接连不断的叠床架屋式修补所累积出的技能蔓延——无法仅凭双方之间的相互辩论而消解。一个对照固定准则通读完整运行目录的全新运行后复盘（`/recap`）语境，负责执行跨运行轮次的反向传递（`Δθₗ`），将这些共有盲区浮现出来，进而提议要么通过有丝分裂将过载的技能拆分为正交的子回路（`F₁, F₂`），要么将已收敛的技能（`Δθₗ → 0`）结晶为零语境算子或确定性审计脚本；然而，基底依然唯有在前沿处的心智回到早先痕迹、登记下它们在何处已不再与当下感知相融贯时才会移动——即登记下何处有两条轴线被坍缩在了一起、何处有一项前提未经审视、何处有一条链接指向了已经移位的区分。追溯这一行动就地更新了残余。更新后的痕迹（修订后的文章、经拆分或结晶的章程与技能、精炼后的计划、退役的桥接文件、修正后的图谱边、丢弃的工作语境）成为后续轨迹据以展开的条件。后续轨迹因此得以在一组更干净的约束内运作，不是因为存储了更多内容，而是因为既有的残余被重新切分。留存下来的记忆在无关维度上变得更小，而在依然紧要的轴线上变得更锐利。
 
 ```mermaid
 flowchart TD
@@ -127,9 +127,9 @@ flowchart TD
     end
     subgraph S_Checkpoint["当下检查点重切（主动重新追溯与修剪）"]
         direction TB
-        Retrace["重新追溯与运行后复盘：浮现共有的章程盲区、技能蔓延与不融贯残余"]
+        Retrace["重新追溯与运行后复盘（Δθₗ）：浮现共有的章程盲区、技能蔓延与不融贯残余"]
         Recut["就地更新当下检查点：修订文章、精炼计划、更新章程并修正图谱边"]
-        Prune["精准修剪与语境丢弃：丢弃临时语境、裁剪技能蔓延并删除退役桥接文件"]
+        Prune["有丝分裂、结晶与语境丢弃：拆分过载技能（F₁, F₂）、编译 Δθₗ → 0 规则并丢弃临时痕迹"]
         Clean["锐化的约束表面：在无关维度上更小，在活的轴线上更锐利"]
         Retrace --> Recut --> Prune --> Clean
     end
@@ -145,7 +145,7 @@ flowchart TD
     style Clean fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-What changes the next step is the quality of the re-tracing. Even when an on-demand maker and cold critic debate to convergence, they share a base model and a charter, so compressions they both inhabit—conflicting charter goals, unstated skill premises, or skill sprawl accumulated from successive patch-upon-patch fixes—cannot be dissolved by their mutual debate alone. A fresh post-run recap context reading the completed run folder against the fixed house rule can surface those shared blind spots as candidate edits, yet ground still moves only when the Mind at the edge returns to prior traces and registers where they no longer cohere with current sensing—where two axes were collapsed, where a premise was left unexamined, where a link points at a distinction that has since moved. The act of tracing updates the residue in place. The updated traces (revised essay, pruned charter or skill, refined plan, retired bridge, corrected graph edge, dropped working context) are what later trajectories condition on. Those later trajectories therefore operate inside a cleaner set of constraints, not because more was stored, but because the existing residue was re-cut. The memory that remains is smaller in irrelevant dimensions and sharper on the axes that still matter.
+What changes the next step is the quality of the re-tracing. Even when an on-demand maker and cold critic debate to convergence inside a step (`Δyₗ`), they share a base model and a charter `θₗ`, so compressions they both inhabit—conflicting charter goals, unstated skill premises, or skill sprawl accumulated from successive patch-upon-patch fixes—cannot be dissolved by their mutual debate alone. A fresh post-run `/recap` context reading the completed run folder against the fixed house rule conducts the cross-run backward pass (`Δθₗ`), surfacing those shared blind spots to propose either splitting an overloaded skill via mitosis into orthogonal sub-loops (`F₁, F₂`) or crystallizing a converged skill (`Δθₗ → 0`) into a zero-context operator or deterministic audit script; yet ground still moves only when the Mind at the edge returns to prior traces and registers where they no longer cohere with current sensing—where two axes were collapsed, where a premise was left unexamined, where a link points at a distinction that has since moved. The act of tracing updates the residue in place. The updated traces (revised essay, split or crystallized charter and skill, refined plan, retired bridge, corrected graph edge, dropped working context) are what later trajectories condition on. Those later trajectories therefore operate inside a cleaner set of constraints, not because more was stored, but because the existing residue was re-cut. The memory that remains is smaller in irrelevant dimensions and sharper on the axes that still matter.
 
 ```mermaid
 flowchart TD
@@ -158,9 +158,9 @@ flowchart TD
     end
     subgraph S_Checkpoint["Present-Checkpoint Re-Cutting (Active Re-Tracing & Pruning)"]
         direction TB
-        Retrace["Re-Tracing & Post-Run Recap: Surfaces shared charter blind spots, skill sprawl & incoherent residue"]
+        Retrace["Re-Tracing & Post-Run Recap (Δθₗ): Surfaces shared charter blind spots, skill sprawl & incoherent residue"]
         Recut["Present Checkpoint Update: Revises essay, refines plan, updates charter & corrects graph edges in place"]
-        Prune["Surgical Pruning & Context Drop: Drops transient contexts, trims skill sprawl & deletes retired bridges"]
+        Prune["Mitosis, Crystallization & Context Drop: Splits overloaded skills (F₁, F₂), compiles Δθₗ → 0 rules & drops transient traces"]
         Clean["Sharpened Constraint Surface: Smaller in irrelevant dimensions, sharper on live axes"]
         Retrace --> Recut --> Prune --> Clean
     end
