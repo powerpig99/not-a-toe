@@ -694,6 +694,38 @@
     "processed": "2026-10-25T13:56:26.843Z",
     "playlist": "PLGrxskF8JnDo"
    }
+  },
+  "handing-off-residue": {
+   "en": {
+    "id": "mmzOIoSOBfM",
+    "url": "https://youtu.be/mmzOIoSOBfM",
+    "title": "Handing Off Residue",
+    "privacy": "public",
+    "uploaded": "2026-10-25T18:14:08.761Z",
+    "file": "studio/post/handing-off-residue/final/film/film.en.mp4",
+    "sha256": {
+     "film": "4c9bf0e4a70bb13592e7f2a74c34313796be3eee00ccbd227024280f634b7d38",
+     "intro": "7c60b49b0354b8493e07673dcef1ea6c6706c5bfc3e3a761da9145d6d77db5d2"
+    },
+    "status": "processed",
+    "processed": "2026-10-25T18:14:50.949Z",
+    "playlist": "PLMyi7vp2KMyA"
+   },
+   "zh": {
+    "id": "vH0gTHMT9NE",
+    "url": "https://youtu.be/vH0gTHMT9NE",
+    "title": "交接残余",
+    "privacy": "public",
+    "uploaded": "2026-10-25T18:16:43.702Z",
+    "file": "studio/post/handing-off-residue/final/film/film.zh.mp4",
+    "sha256": {
+     "film": "b8c15e8bdbb16bc4b1396f5d2d1f6ab8e6d8d4b5fe9cba4ae4b4e4fc87a1d63b",
+     "intro": "e4deaf86258c71b194e14423e1b64deece9599d7b1c3452eb4dac6199b83ea9a"
+    },
+    "status": "processed",
+    "processed": "2026-10-25T18:17:25.726Z",
+    "playlist": "PLGrxskF8JnDo"
+   }
   }
  }
 }
