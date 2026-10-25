@@ -235,12 +235,13 @@ flowchart TD
 
 ### 4.1 `/wake [seed]` (Alias: `/draft [seed]`) — Waking Evaluation & Inscription into Artificial Memory
 1. **Interrupt Sleep Cleanly:** If a `/sleep` or `/deep-sleep` consolidation wave is active in `work/wave.md`, let any currently in-flight node finish and do not dispatch further sleep nodes.
-2. **Stage 0A — Probe for Waking Materials (If Not Already Supplied):**
-   - Ask the Operator for whichever of the four waking inputs they have (it can be all four, or just a simple initial idea):
-     1. **New Intuition / Spark:** What is the new intuition or core idea?
-     2. **Inspiring Source:** What source inspired the spark (an X post/link, article, paper, or observation)?
-     3. **Thinking Process:** Is there a discussion with AI (e.g., Grok/Gemini/Claude chat or share link) or an X comment thread?
-     4. **Initial Draft:** Is there an initial draft of the essay already, or are we starting from a simple initial idea?
+2. **Stage 0A — Probe for Waking Materials & Enforce Draft-First Grounding Order (`work/_wake/initial-draft.md`):**
+   - Ask the Operator for whichever of the four waking inputs they have (it can be all four, or just a simple initial idea), ordered by grounding priority so trajectory-bound contexts are conditioned on the finished draft first rather than on the intermediate search turns:
+     1. **Initial Draft (Primary Root when present):** Is there an initial draft of the essay already (pasted directly or at the tail of an AI share transcript), or are we starting from a simple initial idea?
+     2. **New Intuition / Spark:** What is the new intuition or core distinction?
+     3. **Inspiring Source:** What source inspired the spark (an X post/link, article, paper, or observation)?
+     4. **Thinking Process:** Is there a discussion with AI (e.g., Grok/Gemini/Claude chat or share link) or an X comment thread?
+   - **Draft-First Conditioning Rule:** Whenever an initial draft is provided (either inline or at the end of a Grok/AI share transcript), Stage 0 extracts and writes that draft to `work/_wake/initial-draft.md` **first** and reads it before reading the chronological chat turns or external sources. Both Stage 0 evaluation and Stage 1 `Drafter` treat `work/_wake/initial-draft.md` as the primary initial condition and structural spine, using the inspiring sources and discussion thread strictly as supporting references to verify claims and weave Living Book cross-links rather than re-ordering the essay around the chat exploration.
 3. **Stage 0B — Scouter Brief, Corpus Evaluation & Operator Sign-Off (`New Post` vs. `Refinement` vs. `Drop`):**
    - Load `/ontological-clarity` and [`AGENTS.md`](../AGENTS.md), and search [`content/book/index-of-premises.md`](../content/book/index-of-premises.md), [`docs/posts.graph.json`](../docs/posts.graph.json), and the closest existing posts in `content/posts/`.
    - Distinguish **generally accepted theories** from **individual studies**: when the inspiring source is an individual study rather than a generally accepted theory, treat it as a representative case of a broader pattern to be traced, not as an object to be traced in detail by itself (going into the details of over-generalized individual studies dilutes and narrows the tracing).
