@@ -18,7 +18,7 @@ The essays in this part explore illegible long-term compounding, the difference 
 - [赢家与输家的转化框架 / Winners and Losers in the Transmutation Frame](../../posts/huberman-winners-losers/)
 - [消解芒格的愚蠢竞争论 / Dissolving Munger's Dumb Competition](../../posts/munger-dumb-competition-refined/)
 - [自我价值感与所有权 / Ownership and Self-Worthiness](../../posts/ownership-and-self-worthiness/)
-- [The Flywheel of the Mind](../../posts/the-flywheel-of-the-mind/)
+- [心智的飞轮 / The Flywheel of the Mind](../../posts/the-flywheel-of-the-mind/)
 - [追求机缘中的封闭现实 / Closed Reality in the Pursuit of Serendipity](../../posts/closed-reality-in-the-pursuit-of-serendipity/)
 - [现实扭曲力场指认的是封闭的地图 / The Reality Distortion Field Names the Closed Map](../../posts/the-reality-distortion-field-names-the-closed-map/)
 - [疗愈打开反馈回路 / Therapy Opens the Feedback Loop](../../posts/therapy-opens-the-feedback-loop/)

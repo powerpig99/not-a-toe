@@ -519,7 +519,7 @@ Kelly catalogues post-scarcity value drivers in networked economics; visionary f
 
 Gödel shattered Hilbert's dream of a closed mathematical foundation; his work rigorously defines formal limits, confirming that truth outstrips mechanical theorem proving.
 
-→ [No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/) · [进位无法在寄存器之内被命名 / The Carry That Cannot Be Named Inside the Register](../../posts/the-carry-that-cannot-be-named-inside-the-register/)
+→ [没有系统能被保持封闭 / No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/) · [进位无法在寄存器之内被命名 / The Carry That Cannot Be Named Inside the Register](../../posts/the-carry-that-cannot-be-named-inside-the-register/)
 
 ### 老子 / Laozi
 `哲学 / Philosophical`
@@ -645,7 +645,7 @@ Churchland's eliminative materialism holds folk psychology to be an imperfect th
 
 Thiel defines contrarianism and zero-to-one creation as thinking for oneself rather than opposing the crowd and frames technological stagnation against institutional safety through a redemptive-versus-Antichrist binary, which is of use in warning creators off the crowd's oppositional axis and diagnosing institutional lock-in; it reaches its boundary in that good and evil are two faces generated simultaneously by the same boundary cut rather than external rival camps, and when the aphorism on independent thought circulates detached from its chain of premises, it operates only as a thin low-dimensional surface registering sparse overlap across private models while transmitting zero particular structure.
 
-→ [善恶的硬币与通往地狱之路 / The Coin of Good and Evil and the Road to Hell](../../posts/the-coin-of-good-and-evil-and-the-road-to-hell/) · [登记共鸣的表面 / The Surface That Registers](../../posts/the-surface-that-registers/)
+→ [善恶硬币与通往地狱的善意之路 / The Coin of Good and Evil and the Road to Hell](../../posts/the-coin-of-good-and-evil-and-the-road-to-hell/) · [登记共鸣的表面 / The Surface That Registers](../../posts/the-surface-that-registers/)
 
 ### 皮埃尔-西蒙·拉普拉斯 / Pierre-Simon Laplace
 `科学 / Scientific`
@@ -1545,7 +1545,7 @@ Least action assumes nature inherently seeks optimal paths; it is a variational 
 
 Epistemology questions whether one can prove others possess consciousness; the permanent asymmetry between internal awareness and external observation cannot be closed by logic.
 
-→ [NPC 印象是结构性的 / The NPC Impression Is Structural, Not a Ranking of Minds](../../posts/the-npc-impression-is-structural/) · [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/) · [表征的闭环 / The Closed Loop of Representation](../../posts/the-closed-loop-of-representation/)
+→ [NPC 印象是结构性的，而非心智的排名 / The NPC Impression Is Structural, Not a Ranking of Minds](../../posts/the-npc-impression-is-structural/) · [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/) · [表征的闭环 / The Closed Loop of Representation](../../posts/the-closed-loop-of-representation/)
 
 ### 生产过剩与意识形态消费 / Productive Surplus and Ideology
 `经济 / Economic`
@@ -1788,7 +1788,7 @@ The Yoneda lemma establishes that an object is determined by its relationships; 
 
 The convergent-series resolution of Achilles and the tortoise presumes continuous motion on a static course, which is of use in treating an infinite series as completable in finite time inside that abstracted frame; it reaches its boundary in that a frontier's course is lengthened by its leaders, so the resolution does not transfer directly.
 
-→ [抽象、边界与现实的移动边缘 / Abstraction, Boundaries, and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/)
+→ [抽象、边界与现实的移动边缘 / Abstraction Boundaries and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/)
 
 ### 玻姆力学 / Bohmian Mechanics
 `科学 / Scientific`
@@ -1997,7 +1997,7 @@ Presumes artificial intelligence represents the natural evolutionary successor t
 
 Folding all known sequences presumes the catalogue is the domain's full structure, which is of use as real expansion inside a temporary bound; it reaches its boundary in that once the bound is enlarged, dynamic folding, interactions and design space reappear as an open generative continuum.
 
-→ [抽象、边界与现实的移动边缘 / Abstraction, Boundaries, and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/)
+→ [抽象、边界与现实的移动边缘 / Abstraction Boundaries and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/)
 
 ### 放大器悖论 / Amplification Paradox
 `哲学 / Philosophical`
@@ -2024,7 +2024,7 @@ Model sentimentalism assumes AI systems experience grief or obsolescence upon sh
 
 The argument assumes past exclusion errors, as with the octopus, transfer forward to machines; the precedent relaxed a criterion of form while keeping source, so relaxing source exceeds it, and what it still supports is that non-human organization alone does not rule intelligence out.
 
-→ [错把表达当成智能 / Mistaking the Expression for the Intelligence](../../posts/mistaking-the-expression-for-the-intelligence/) · [Intelligence Belongs Only to The Mind](../../posts/intelligence-belongs-only-to-the-mind/)
+→ [错把表达当成智能 / Mistaking the Expression for the Intelligence](../../posts/mistaking-the-expression-for-the-intelligence/) · [智能只属于心智 / Intelligence Belongs Only to the Mind](../../posts/intelligence-belongs-only-to-the-mind/)
 
 ### 通用人工智能 / Artificial General Intelligence (AGI)
 `技术 / Technological`
@@ -2231,7 +2231,7 @@ Treating an observed path as causation is of use in proposing hypotheses to test
 
 Deterministic physics views causality as an external timeline linking physical states; causality is the irreducible first-person condition of distinguishing cause from effect.
 
-→ [Causality All the Way](../../posts/causality-all-the-way/)
+→ [因果贯穿始终 / Causality All the Way](../../posts/causality-all-the-way/)
 
 ### 因果逃逸幻觉 / Delusion of Causal Evasion
 `成功学 / Self-Help`
@@ -3041,7 +3041,7 @@ Better incentive design presumes one mind can solve others' problems; misalignme
 
 Macroeconomic models treat aggregate statistics as causal engines; aggregates are the historical residue of millions of sovereign individuals making concrete trade-offs.
 
-→ [Individual Choices as the Only Causal Levers](../../posts/individual-choices-as-the-only-causal-levers/)
+→ [个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers](../../posts/individual-choices-as-the-only-causal-levers/)
 
 ### 个人权利 / Individual Rights
 `哲学 / Philosophical`
@@ -3149,7 +3149,7 @@ Crediting tools, teaching, or study design treats learning as done to the studen
 
 Computationalism presumes symbol manipulation constitutes genuine intellect; physical machines manipulate trace residue, while living intelligence initiates active distinction.
 
-→ [Intelligence Belongs Only to The Mind](../../posts/intelligence-belongs-only-to-the-mind/)
+→ [智能只属于心智 / Intelligence Belongs Only to the Mind](../../posts/intelligence-belongs-only-to-the-mind/)
 
 ### 界面带宽本位论 / Interface Bandwidth Primacy
 `技术 / Technological`
@@ -3860,7 +3860,7 @@ Physical immortality assumes living consciousness can be immortalized by endless
 
 The dualism presumes the physical and the informational are two realms needing a bridge, which is of use in telling two modes of registration apart; it reaches its boundary in that both are one activity under different holds, so informational descriptions track physical regularities while staying poorer than the field that generates them.
 
-→ [抽象、边界与现实的移动边缘 / Abstraction, Boundaries, and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/) · [信息是什么 / What Information Is](../../posts/what-information-is/)
+→ [抽象、边界与现实的移动边缘 / Abstraction Boundaries and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/) · [信息是什么 / What Information Is](../../posts/what-information-is/)
 
 ### 群体统计规程的倒置 / Population Protocol Fetish
 `科学 / Scientific`
@@ -4274,7 +4274,7 @@ Science can be fully formalized and modeled within its premises, which is of use
 
 Treating mathematics and physics as the objective furniture of reality presumes the map equals the territory, which is of use where their invariance across observers makes them reliable compressions; it reaches its boundary in that they stay revisable and never identical with the whole they track, so recalling their provisional status is no attack on rigor.
 
-→ [抽象、边界与现实的移动边缘 / Abstraction, Boundaries, and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/)
+→ [抽象、边界与现实的移动边缘 / Abstraction Boundaries and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/)
 
 ### 选择偏差 / Selection Bias
 `科学 / Scientific`
@@ -4499,7 +4499,7 @@ The storehouse model presumes that memory deposits units of knowledge in a store
 
 The solipsistic NPC trope views others as unthinking automatons; this illusion arises because external minds appear only through sparse mediated traces, whereas self-experience is immediate.
 
-→ [NPC 印象是结构性的 / The NPC Impression Is Structural, Not a Ranking of Minds](../../posts/the-npc-impression-is-structural/)
+→ [NPC 印象是结构性的，而非心智的排名 / The NPC Impression Is Structural, Not a Ranking of Minds](../../posts/the-npc-impression-is-structural/)
 
 ### 成功学 / Success Literature (成功学)
 `成功学 / Self-Help`
@@ -4931,7 +4931,7 @@ Accusing the other of being "too goal-driven" credits the friction to the other'
 
 Productivity dogma assumes endlessly refining workflows boosts output; optimizing tools in isolation creates an illusion of momentum while avoiding the friction of creative work.
 
-→ [The Flywheel of the Mind](../../posts/the-flywheel-of-the-mind/)
+→ [心智的飞轮 / The Flywheel of the Mind](../../posts/the-flywheel-of-the-mind/)
 
 ### 拓扑自由变量 / Topological Free Variables
 `数学 / Mathematical`

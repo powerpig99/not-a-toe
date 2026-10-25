@@ -19,7 +19,7 @@ The essays here explore the distinction between potential and actual infinity, t
 - [开放场域中的无损知识不自洽 / Lossless Knowledge of an Open Field Is Incoherent](../../posts/lossless-knowledge-of-an-open-field-is-incoherent/)
 - [为何数学永远解不完 / Why Mathematics Can Never Be Solved](../../posts/why-mathematics-can-never-be-solved/)
 - [封闭的假设把复利挤成 S 曲线 / Closed Assumptions Squeeze Compounding into S-Curves](../../posts/closed-assumptions-squeeze-compounding-into-s-curves/)
-- [抽象、边界与现实的移动边缘 / Abstraction, Boundaries, and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/)
+- [抽象、边界与现实的移动边缘 / Abstraction Boundaries and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/)
 - [潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/)
 - [信息是什么 / What Information Is](../../posts/what-information-is/)
 - [从形式迷思到逻辑闭环 / From the Myth of Form to the Closed Loop of Logic](../../posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)

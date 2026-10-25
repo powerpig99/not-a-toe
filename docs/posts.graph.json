@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-25T02:24:11.245Z",
+    "generated_at": "2026-10-25T03:00:41.173Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -415,20 +415,20 @@
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "0377c4822629",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "ac686192b927",
       "content/book/causality.md": "51d6cd58236e",
-      "content/book/consciousness.md": "07e90c9d3d1f",
+      "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "6795104f41e4",
-      "content/book/intelligence.md": "d229f4804304",
+      "content/book/index-of-premises.md": "faecde46cb30",
+      "content/book/intelligence.md": "fa27f9624ed0",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "0caf97231862",
-      "content/book/mathematics.md": "733a53c23e5a",
+      "content/book/mathematics.md": "2f89dae6c58c",
       "content/book/meaning-and-transcendence.md": "872032a1b2e9",
       "content/book/method.md": "0ca3bc14a25a",
       "content/book/morality.md": "46ca20cf1f35",
       "content/book/physics.md": "4671c42b6627",
       "content/book/preface.md": "d0065384016a",
       "content/book/state-and-collective.md": "850b9e9e6f63",
-      "content/book/success-and-the-self.md": "1a52a0e106a1",
+      "content/book/success-and-the-self.md": "b251154da4a5",
       "content/book/tools-and-progress.md": "edd5c30db4c4"
     },
     "stats": {
@@ -78615,7 +78615,7 @@
         "slug": "consciousness",
         "path": "content/book/consciousness.md",
         "title": "意识与第一人称先验 / Consciousness and the First-Person Prior",
-        "hash": "07e90c9d3d1f",
+        "hash": "b913dc5b8170",
         "out_degree": 39
       },
       {
@@ -78633,7 +78633,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "6795104f41e4",
+        "hash": "faecde46cb30",
         "out_degree": 406
       },
       {
@@ -78642,7 +78642,7 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "d229f4804304",
+        "hash": "fa27f9624ed0",
         "out_degree": 50
       },
       {
@@ -78669,7 +78669,7 @@
         "slug": "mathematics",
         "path": "content/book/mathematics.md",
         "title": "数学与逻辑的边界 / The Boundaries of Mathematics and Logic",
-        "hash": "733a53c23e5a",
+        "hash": "2f89dae6c58c",
         "out_degree": 20
       },
       {
@@ -78732,7 +78732,7 @@
         "slug": "success-and-the-self",
         "path": "content/book/success-and-the-self.md",
         "title": "成功学公式与自我重塑 / The Formula of Success and Self-Reconstruction",
-        "hash": "1a52a0e106a1",
+        "hash": "b251154da4a5",
         "out_degree": 33
       },
       {
@@ -78990,7 +78990,7 @@
         "from": "book:consciousness",
         "to": "the-npc-impression-is-structural",
         "rel": "collects",
-        "label": "NPC 印象是结构性的 / The NPC Impression Is Structural, Not a Ranking of Minds"
+        "label": "NPC 印象是结构性的，而非心智的排名 / The NPC Impression Is Structural, Not a Ranking of Minds"
       },
       {
         "from": "book:consciousness",
@@ -79794,7 +79794,7 @@
         "from": "book:index-of-premises",
         "to": "no-system-can-be-kept-closed",
         "rel": "collects",
-        "label": "No System Can Be Kept Closed"
+        "label": "没有系统能被保持封闭 / No System Can Be Kept Closed"
       },
       {
         "from": "book:index-of-premises",
@@ -79896,7 +79896,7 @@
         "from": "book:index-of-premises",
         "to": "the-coin-of-good-and-evil-and-the-road-to-hell",
         "rel": "collects",
-        "label": "善恶的硬币与通往地狱之路 / The Coin of Good and Evil and the Road to Hell"
+        "label": "善恶硬币与通往地狱的善意之路 / The Coin of Good and Evil and the Road to Hell"
       },
       {
         "from": "book:index-of-premises",
@@ -80784,7 +80784,7 @@
         "from": "book:index-of-premises",
         "to": "the-npc-impression-is-structural",
         "rel": "collects",
-        "label": "NPC 印象是结构性的 / The NPC Impression Is Structural, Not a Ranking of Minds"
+        "label": "NPC 印象是结构性的，而非心智的排名 / The NPC Impression Is Structural, Not a Ranking of Minds"
       },
       {
         "from": "book:index-of-premises",
@@ -81018,7 +81018,7 @@
         "from": "book:index-of-premises",
         "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
         "rel": "collects",
-        "label": "抽象、边界与现实的移动边缘 / Abstraction, Boundaries, and the Moving Edge of Reality"
+        "label": "抽象、边界与现实的移动边缘 / Abstraction Boundaries and the Moving Edge of Reality"
       },
       {
         "from": "book:index-of-premises",
@@ -81180,7 +81180,7 @@
         "from": "book:index-of-premises",
         "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
         "rel": "collects",
-        "label": "抽象、边界与现实的移动边缘 / Abstraction, Boundaries, and the Moving Edge of Reality"
+        "label": "抽象、边界与现实的移动边缘 / Abstraction Boundaries and the Moving Edge of Reality"
       },
       {
         "from": "book:index-of-premises",
@@ -81204,7 +81204,7 @@
         "from": "book:index-of-premises",
         "to": "intelligence-belongs-only-to-the-mind",
         "rel": "collects",
-        "label": "Intelligence Belongs Only to The Mind"
+        "label": "智能只属于心智 / Intelligence Belongs Only to the Mind"
       },
       {
         "from": "book:index-of-premises",
@@ -81366,7 +81366,7 @@
         "from": "book:index-of-premises",
         "to": "causality-all-the-way",
         "rel": "collects",
-        "label": "Causality All the Way"
+        "label": "因果贯穿始终 / Causality All the Way"
       },
       {
         "from": "book:index-of-premises",
@@ -81966,7 +81966,7 @@
         "from": "book:index-of-premises",
         "to": "individual-choices-as-the-only-causal-levers",
         "rel": "collects",
-        "label": "Individual Choices as the Only Causal Levers"
+        "label": "个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers"
       },
       {
         "from": "book:index-of-premises",
@@ -82056,7 +82056,7 @@
         "from": "book:index-of-premises",
         "to": "intelligence-belongs-only-to-the-mind",
         "rel": "collects",
-        "label": "Intelligence Belongs Only to The Mind"
+        "label": "智能只属于心智 / Intelligence Belongs Only to the Mind"
       },
       {
         "from": "book:index-of-premises",
@@ -82608,7 +82608,7 @@
         "from": "book:index-of-premises",
         "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
         "rel": "collects",
-        "label": "抽象、边界与现实的移动边缘 / Abstraction, Boundaries, and the Moving Edge of Reality"
+        "label": "抽象、边界与现实的移动边缘 / Abstraction Boundaries and the Moving Edge of Reality"
       },
       {
         "from": "book:index-of-premises",
@@ -82926,7 +82926,7 @@
         "from": "book:index-of-premises",
         "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
         "rel": "collects",
-        "label": "抽象、边界与现实的移动边缘 / Abstraction, Boundaries, and the Moving Edge of Reality"
+        "label": "抽象、边界与现实的移动边缘 / Abstraction Boundaries and the Moving Edge of Reality"
       },
       {
         "from": "book:index-of-premises",
@@ -83100,7 +83100,7 @@
         "from": "book:index-of-premises",
         "to": "the-npc-impression-is-structural",
         "rel": "collects",
-        "label": "NPC 印象是结构性的 / The NPC Impression Is Structural, Not a Ranking of Minds"
+        "label": "NPC 印象是结构性的，而非心智的排名 / The NPC Impression Is Structural, Not a Ranking of Minds"
       },
       {
         "from": "book:index-of-premises",
@@ -83442,7 +83442,7 @@
         "from": "book:index-of-premises",
         "to": "the-flywheel-of-the-mind",
         "rel": "collects",
-        "label": "The Flywheel of the Mind"
+        "label": "心智的飞轮 / The Flywheel of the Mind"
       },
       {
         "from": "book:index-of-premises",
@@ -83898,7 +83898,7 @@
         "from": "book:intelligence",
         "to": "intelligence-belongs-only-to-the-mind",
         "rel": "collects",
-        "label": "Intelligence Belongs Only to The Mind"
+        "label": "智能只属于心智 / Intelligence Belongs Only to the Mind"
       },
       {
         "from": "book:intelligence",
@@ -84408,7 +84408,7 @@
         "from": "book:mathematics",
         "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
         "rel": "collects",
-        "label": "抽象、边界与现实的移动边缘 / Abstraction, Boundaries, and the Moving Edge of Reality"
+        "label": "抽象、边界与现实的移动边缘 / Abstraction Boundaries and the Moving Edge of Reality"
       },
       {
         "from": "book:mathematics",
@@ -85260,7 +85260,7 @@
         "from": "book:success-and-the-self",
         "to": "the-flywheel-of-the-mind",
         "rel": "collects",
-        "label": "The Flywheel of the Mind"
+        "label": "心智的飞轮 / The Flywheel of the Mind"
       },
       {
         "from": "book:success-and-the-self",

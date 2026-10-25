@@ -6,9 +6,9 @@
 
 Modern machine learning and large neural networks compress and sample from the symbolic traces left by human minds, providing a powerful lever for pattern retrieval, transformation, and execution. The premise of this paradigm is that a model operates within recorded distributions and externally supplied objectives; when fluent statistical continuation is mistaken for a second subject capable of originating intent and bearing consequence, the expression of intelligence is inverted into its source.
 
-本部随笔追溯了图灵测试与爱因斯坦测试的范畴边界、基准跑分中的封闭实存、蒸馏与过拟合的取舍，以及所谓“通用人工智能”背后的观察者切分。模型与智能体框架是心智向外延伸的认知外部皮层；唯有看清模型永远不会成为替我们承受现实摩擦的第二重前沿，使用者才能在加速收紧的回路中保持自己的方向。
+本部随笔追溯了图灵测试与爱因斯坦测试的范畴边界、基准跑分中的封闭实存、蒸馏与过拟合的取舍，以及所谓“通用人工智能”背后的观察者切分。模型与智能体框架是心智向外延伸的认知外部皮层；唯有看清模型永远不会成为承受现实摩擦的第二重前沿，使用者才能在加速收紧的回路中保持自己的方向。
 
-The essays in this part trace the category boundaries of the Turing and Einstein tests, closed reality in benchmark optimization, the tradeoffs of distillation and overfitting, and the observational cut behind claims of artificial general intelligence. Models and agent harnesses serve as an externalized cognitive cortex; only by seeing that a model never becomes a second edge bearing reality's friction for us can a mind hold its own direction inside an accelerating loop.
+The essays in this part trace the category boundaries of the Turing and Einstein tests, closed reality in benchmark optimization, the tradeoffs of distillation and overfitting, and the observational cut behind claims of artificial general intelligence. Models and agent harnesses serve as an externalized cognitive cortex; only by seeing that a model never becomes a second edge bearing reality's friction can a mind hold its own direction inside an accelerating loop.
 
 ## 篇目 / Essays
 
@@ -29,7 +29,7 @@ The essays in this part trace the category boundaries of the Turing and Einstein
 - [过拟合作为追随者模式 / Overfitting as the Follower Mode](../../posts/overfitting-as-the-follower-mode/)
 - [并不存在的目录 / The Catalog That Isn't There](../../posts/hassabis-frontier-agi-premise/)
 - [看似AI的强化学习，实为人类的自我强化学习 / What Looks Like RL for AIs Is Self-RL for Humans](../../posts/self-rl-for-humans/)
-- [Intelligence Belongs Only to The Mind](../../posts/intelligence-belongs-only-to-the-mind/)
+- [智能只属于心智 / Intelligence Belongs Only to the Mind](../../posts/intelligence-belongs-only-to-the-mind/)
 - [AGI 与 ASI 是加速通用智能的暂时球门 / AGI and ASI Are Temporary Goalposts](../../posts/agi-and-asi-are-temporary-goalposts/)
 - [基准刷榜中的封闭实存 / Closed Reality in Benchmark Maxing](../../posts/closed-reality-in-benchmark-maxing/)
 - [智能的非定论定义 / The Non-Definitive Definition of Intelligence](../../posts/the-non-definitive-definition-of-intelligence/)
