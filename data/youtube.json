@@ -662,6 +662,38 @@
     "processed": "2026-10-25T06:37:25.718Z",
     "playlist": "PLGrxskF8JnDo"
    }
+  },
+  "the-comparison-that-relocates-the-cause": {
+   "en": {
+    "id": "mqerYR583Sk",
+    "url": "https://youtu.be/mqerYR583Sk",
+    "title": "The Comparison That Relocates the Cause",
+    "privacy": "public",
+    "uploaded": "2026-10-25T13:48:41.823Z",
+    "file": "studio/post/the-comparison-that-relocates-the-cause/final/film/film.en.mp4",
+    "sha256": {
+     "film": "ce3e404822720dd5d972081addc430a4d0ecc7bc1238f3e2bd9e5ffa57e29295",
+     "intro": "0e9c50401bd1c8606d9205b95b21ce68bb4ba4b19750ee50d31764a657a69355"
+    },
+    "status": "processed",
+    "processed": "2026-10-25T13:49:34.439Z",
+    "playlist": "PLMyi7vp2KMyA"
+   },
+   "zh": {
+    "id": "ibcMSXa5lT0",
+    "url": "https://youtu.be/ibcMSXa5lT0",
+    "title": "转移原因的比较",
+    "privacy": "public",
+    "uploaded": "2026-10-25T13:55:13.443Z",
+    "file": "studio/post/the-comparison-that-relocates-the-cause/final/film/film.zh.mp4",
+    "sha256": {
+     "film": "6dc1f159735f8a0fec8d04814023827e06847f424333795f4101ae8c22932ff7",
+     "intro": "cc937e38043836ad39ce1db737af7ea525717f5e72047707355a50c004470535"
+    },
+    "status": "processed",
+    "processed": "2026-10-25T13:56:26.843Z",
+    "playlist": "PLGrxskF8JnDo"
+   }
   }
  }
 }
