@@ -51,3 +51,4 @@ The essays in this part trace the codebase as externalized memory, the asymmetry
 - [判断的密度 / The Density of Judgment](../../posts/the-density-of-judgment/)
 - [验证的倒置 / The Reversal of Verification](../../posts/the-reversal-of-verification/)
 - [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/)
+- [转移原因的比较 / The Comparison That Relocates the Cause](../../posts/the-comparison-that-relocates-the-cause/)

@@ -2312,7 +2312,7 @@ Shallow assessments judge AI by conversational chat novelty; embedding intellige
 
 Scaffolding theory treats external prompts and guardrails as part of model competence; supports stabilize performance, but cannot substitute for innate capability consolidation.
 
-→ [是脚手架还是特化语境 / Scaffolds or Specialized Contexts](../../posts/scaffolds-or-specialized-contexts/)
+→ [是脚手架还是特化语境 / Scaffolds or Specialized Contexts](../../posts/scaffolds-or-specialized-contexts/) · [转移原因的比较 / The Comparison That Relocates the Cause](../../posts/the-comparison-that-relocates-the-cause/)
 
 ### 共享即共同性 / Sharedness as Commonality
 `哲学 / Philosophical`
@@ -4427,7 +4427,7 @@ The demand that the state protect rights entrusts the guarantee of freedom to a 
 
 Benchmark suites assume standardized question sets measure generalized fluid intellect; static tests measure pattern match against historical distributions.
 
-→ [流动之物无法被基准衡量 / You Can't Benchmark the Fluid](../../posts/you-cant-benchmark-the-fluid/) · [独见者的自反困境与必然性的后验投射 / The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity](../../posts/the-reflexive-dilemma-of-unique-insight/)
+→ [流动之物无法被基准衡量 / You Can't Benchmark the Fluid](../../posts/you-cant-benchmark-the-fluid/) · [独见者的自反困境与必然性的后验投射 / The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity](../../posts/the-reflexive-dilemma-of-unique-insight/) · [转移原因的比较 / The Comparison That Relocates the Cause](../../posts/the-comparison-that-relocates-the-cause/)
 
 ### 静态AI代理分工框架 / Static AI Delegation Frame
 `技术 / Technological`
@@ -4699,6 +4699,15 @@ The idea is that thoughts and feelings can flow unmediated from one mind to anot
 
 → [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/)
 
+### 苦涩的教训（理查德·萨顿） / The Bitter Lesson (Richard Sutton)
+`技术 / Technological`
+
+萨顿指出，随算力扩展的通用学习与搜索终将吸收手工编码的领域启发式规则，这一观察在引导工程资源从静态规则转向可扩展的学习目标与训练运行时上极具效用；它在此到达边界：当对旧手工支架的吸收被读作能动性从心智向规模化器物的移交，或被当作任何外部记忆、安全策略与语境治理在一切约束下皆沦为冗余的裁决时，那个仍在设计学习目标、设定评测规程并在算力或上下文触及天花板时重新分配负荷的心智便从账目中脱落了。
+
+Sutton observes that general methods leveraging computation through learning and search absorb hand-coded domain heuristics over time, which stays useful for redirecting engineering effort from brittle rule-writing toward scalable learning objectives and training runtimes; it reaches its boundary when the absorption of older hand-crafted scaffolds is read as a transfer of agency from the mind into the scaled artifact, or as a verdict that external memory, policy governance, and orchestration layers are redundant across every constraint regime, dropping from the account the mind that still designs the objectives, sets the evaluation protocol, and reallocates load whenever context or compute hits a ceiling.
+
+→ [持续生长的脚手架 / The Scaffolding That Keeps Growing](../../posts/the-scaffolding-that-keeps-growing/) · [转移原因的比较 / The Comparison That Relocates the Cause](../../posts/the-comparison-that-relocates-the-cause/)
+
 ### 框架倒置与驾驶位主权 / The Harness Inversion
 `技术 / Technological`
 
@@ -4706,7 +4715,7 @@ The idea is that thoughts and feelings can flow unmediated from one mind to anot
 
 Presumes external tool capabilities automatically elevate the user's intellect; useful for productivity scaling, it traps passive operators in prefabricated rails.
 
-→ [框架的倒置与驾驶位的主权非对称 / The Inversion of the Harness and the Sovereignty of the Driver's Seat](../../posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) · [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/)
+→ [框架的倒置与驾驶位的主权非对称 / The Inversion of the Harness and the Sovereignty of the Driver's Seat](../../posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) · [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/) · [转移原因的比较 / The Comparison That Relocates the Cause](../../posts/the-comparison-that-relocates-the-cause/)
 
 ### 非中介化的政治幻象 / The Illusion of Disintermediation
 `意识形态 / Ideological`

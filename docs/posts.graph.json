@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-25T03:33:52.439Z",
+    "generated_at": "2026-10-25T04:42:33.999Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -225,6 +225,7 @@
       "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "f1a9b1e12ab7",
       "content/posts/the-collapsed-debate.md": "0c94fa396c05",
       "content/posts/the-comment-is-not-the-code.md": "2f3188bc6738",
+      "content/posts/the-comparison-that-relocates-the-cause.md": "5eab89877c98",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "9e53487d8960",
       "content/posts/the-continuum-is-a-modeling-convenience.md": "3c2e3fff1d21",
       "content/posts/the-continuum-of-the-fold.md": "e722f7266312",
@@ -417,7 +418,7 @@
       "content/book/causality.md": "51d6cd58236e",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "faecde46cb30",
+      "content/book/index-of-premises.md": "7d3a69869add",
       "content/book/intelligence.md": "fa27f9624ed0",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "0caf97231862",
@@ -429,29 +430,29 @@
       "content/book/preface.md": "d0065384016a",
       "content/book/state-and-collective.md": "850b9e9e6f63",
       "content/book/success-and-the-self.md": "b251154da4a5",
-      "content/book/tools-and-progress.md": "edd5c30db4c4"
+      "content/book/tools-and-progress.md": "524742a21a0a"
     },
     "stats": {
-      "posts": 406,
-      "edges": 11264,
-      "unique_directed": 5528,
+      "posts": 407,
+      "edges": 11290,
+      "unique_directed": 5541,
       "missing_targets": 0,
-      "one_way": 882,
+      "one_way": 895,
       "isolated": 0,
-      "posts_with_outbound": 406,
+      "posts_with_outbound": 407,
       "book_pages": 16,
-      "book_edges": 1151,
-      "posts_reached_by_book": 406
+      "book_edges": 1157,
+      "posts_reached_by_book": 407
     }
   },
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 400
+      "in_degree": 401
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 197
+      "in_degree": 198
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -499,11 +500,11 @@
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
-      "in_degree": 35
+      "in_degree": 36
     },
     {
       "slug": "mistaking-the-expression-for-the-intelligence",
-      "in_degree": 35
+      "in_degree": 36
     },
     {
       "slug": "production-consumption-and-the-minds-distinction",
@@ -845,7 +846,7 @@
       "path": "content/posts/agency-relocated-into-the-formal-model.md",
       "title": "能动性被转置入形式模型 / Agency Relocated into the Formal Model",
       "hash": "623e5bff2d49",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 13,
       "links_out": [
         "liberation-rhetoric-begins-by-defining-captivity",
@@ -1084,7 +1085,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "ed96da63a1af",
-      "in_degree": 197,
+      "in_degree": 198,
       "out_degree": 18,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1543,7 +1544,7 @@
       "path": "content/posts/closed-reality-in-benchmark-maxing.md",
       "title": "基准刷榜中的封闭实存 / Closed Reality in Benchmark Maxing",
       "hash": "574180584456",
-      "in_degree": 35,
+      "in_degree": 36,
       "out_degree": 38,
       "links_out": [
         "abstraction-boundaries-and-the-moving-edge-of-reality",
@@ -2832,7 +2833,7 @@
       "path": "content/posts/hardness-is-not-inherent-in-the-action.md",
       "title": "难度不在行动本身 / Hardness Is Not Inherent in the Action",
       "hash": "a3edf37fad3f",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 6,
       "links_out": [
         "how-belief-actually-changes",
@@ -3679,7 +3680,7 @@
       "path": "content/posts/mistaking-the-expression-for-the-intelligence.md",
       "title": "错把表达当成智能 / Mistaking the Expression for the Intelligence",
       "hash": "775b85adfbd2",
-      "in_degree": 35,
+      "in_degree": 36,
       "out_degree": 38,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -5382,7 +5383,7 @@
       "path": "content/posts/simplicity-ultimate-sophistication.md",
       "title": "至简即至繁 / Simplicity Is the Ultimate Sophistication",
       "hash": "90ac1690ba33",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 4,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -5501,7 +5502,7 @@
       "path": "content/posts/studying-the-effect-of-ai-relocates-causality.md",
       "title": "研究AI效应重置了因果原点 / Studying the Effect of AI Relocates Causality",
       "hash": "48fed4ebc465",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 9,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -6061,7 +6062,7 @@
       "path": "content/posts/the-boundary-of-the-frame.md",
       "title": "框架的边界 / The Boundary of the Frame",
       "hash": "26e714abce6e",
-      "in_degree": 19,
+      "in_degree": 20,
       "out_degree": 21,
       "links_out": [
         "what-information-is",
@@ -6410,6 +6411,31 @@
         "beyond-the-projection",
         "on-demand-contexts-keep-coherence-at-one-step",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences"
+      ]
+    },
+    {
+      "id": "post:the-comparison-that-relocates-the-cause",
+      "kind": "post",
+      "slug": "the-comparison-that-relocates-the-cause",
+      "path": "content/posts/the-comparison-that-relocates-the-cause.md",
+      "title": "转移原因的比较 / The Comparison That Relocates the Cause",
+      "hash": "5eab89877c98",
+      "in_degree": 0,
+      "out_degree": 13,
+      "links_out": [
+        "simplicity-ultimate-sophistication",
+        "the-scaffolding-that-keeps-growing",
+        "hardness-is-not-inherent-in-the-action",
+        "you-cant-benchmark-the-fluid",
+        "closed-reality-in-benchmark-maxing",
+        "the-reversal-from-defensible-claim-to-dogma",
+        "studying-the-effect-of-ai-relocates-causality",
+        "the-boundary-of-the-frame",
+        "your-codebase-is-memory",
+        "mistaking-the-expression-for-the-intelligence",
+        "agency-relocated-into-the-formal-model",
+        "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+        "beyond-the-projection"
       ]
     },
     {
@@ -7721,7 +7747,7 @@
       "path": "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md",
       "title": "框架的倒置与驾驶位的主权非对称 / The Inversion of the Harness and the Sovereignty of the Driver's Seat",
       "hash": "bec4cd8c5f9b",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 17,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -9092,7 +9118,7 @@
       "path": "content/posts/the-reversal-from-defensible-claim-to-dogma.md",
       "title": "从可辩护的主张到教条的反转 / The Reversal from Defensible Claim to Dogma",
       "hash": "4e0a51e77cf0",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 20,
       "links_out": [
         "expertise-as-reference-not-replacement",
@@ -9245,7 +9271,7 @@
       "path": "content/posts/the-scaffolding-that-keeps-growing.md",
       "title": "持续生长的脚手架 / The Scaffolding That Keeps Growing",
       "hash": "35bd1ad4ae31",
-      "in_degree": 26,
+      "in_degree": 27,
       "out_degree": 28,
       "links_out": [
         "openness-is-consistency",
@@ -10787,7 +10813,7 @@
       "path": "content/posts/you-cant-benchmark-the-fluid.md",
       "title": "流动之物无法被基准衡量 / You Can't Benchmark the Fluid",
       "hash": "01847ccdd234",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 7,
       "links_out": [
         "your-codebase-is-memory",
@@ -10843,7 +10869,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "3c419bcfbe42",
-      "in_degree": 400,
+      "in_degree": 401,
       "out_degree": 10,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -49318,6 +49344,162 @@
       "label": "The Delegation of the Task and the Inalienability of Consequences"
     },
     {
+      "from": "the-comparison-that-relocates-the-cause",
+      "to": "simplicity-ultimate-sophistication",
+      "rel": "points_to",
+      "label": "至简即至繁"
+    },
+    {
+      "from": "the-comparison-that-relocates-the-cause",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "持续生长的脚手架"
+    },
+    {
+      "from": "the-comparison-that-relocates-the-cause",
+      "to": "simplicity-ultimate-sophistication",
+      "rel": "points_to",
+      "label": "Simplicity Is the Ultimate Sophistication"
+    },
+    {
+      "from": "the-comparison-that-relocates-the-cause",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The Scaffolding That Keeps Growing"
+    },
+    {
+      "from": "the-comparison-that-relocates-the-cause",
+      "to": "hardness-is-not-inherent-in-the-action",
+      "rel": "points_to",
+      "label": "难度不在行动本身"
+    },
+    {
+      "from": "the-comparison-that-relocates-the-cause",
+      "to": "hardness-is-not-inherent-in-the-action",
+      "rel": "points_to",
+      "label": "Hardness Is Not Inherent in the Action"
+    },
+    {
+      "from": "the-comparison-that-relocates-the-cause",
+      "to": "you-cant-benchmark-the-fluid",
+      "rel": "points_to",
+      "label": "流动之物无法被基准衡量"
+    },
+    {
+      "from": "the-comparison-that-relocates-the-cause",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "基准刷榜中的封闭实存"
+    },
+    {
+      "from": "the-comparison-that-relocates-the-cause",
+      "to": "you-cant-benchmark-the-fluid",
+      "rel": "points_to",
+      "label": "You Can't Benchmark the Fluid"
+    },
+    {
+      "from": "the-comparison-that-relocates-the-cause",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing"
+    },
+    {
+      "from": "the-comparison-that-relocates-the-cause",
+      "to": "the-reversal-from-defensible-claim-to-dogma",
+      "rel": "points_to",
+      "label": "从可辩护的主张到教条的反转"
+    },
+    {
+      "from": "the-comparison-that-relocates-the-cause",
+      "to": "studying-the-effect-of-ai-relocates-causality",
+      "rel": "points_to",
+      "label": "研究AI效应重置了因果原点"
+    },
+    {
+      "from": "the-comparison-that-relocates-the-cause",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "框架的边界"
+    },
+    {
+      "from": "the-comparison-that-relocates-the-cause",
+      "to": "the-reversal-from-defensible-claim-to-dogma",
+      "rel": "points_to",
+      "label": "The Reversal from Defensible Claim to Dogma"
+    },
+    {
+      "from": "the-comparison-that-relocates-the-cause",
+      "to": "studying-the-effect-of-ai-relocates-causality",
+      "rel": "points_to",
+      "label": "Studying the Effect of AI Relocates Causality"
+    },
+    {
+      "from": "the-comparison-that-relocates-the-cause",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "The Boundary of the Frame"
+    },
+    {
+      "from": "the-comparison-that-relocates-the-cause",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-comparison-that-relocates-the-cause",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "错把表达当成智能"
+    },
+    {
+      "from": "the-comparison-that-relocates-the-cause",
+      "to": "agency-relocated-into-the-formal-model",
+      "rel": "points_to",
+      "label": "能动性被转置入形式模型"
+    },
+    {
+      "from": "the-comparison-that-relocates-the-cause",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-comparison-that-relocates-the-cause",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the Expression for the Intelligence"
+    },
+    {
+      "from": "the-comparison-that-relocates-the-cause",
+      "to": "agency-relocated-into-the-formal-model",
+      "rel": "points_to",
+      "label": "Agency Relocated into the Formal Model"
+    },
+    {
+      "from": "the-comparison-that-relocates-the-cause",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "框架的倒置与驾驶位的主权非对称"
+    },
+    {
+      "from": "the-comparison-that-relocates-the-cause",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-comparison-that-relocates-the-cause",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "The Inversion of the Harness and the Sovereignty of the Driver's Seat"
+    },
+    {
+      "from": "the-comparison-that-relocates-the-cause",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
       "from": "the-compassion-is-the-mechanism-of-obscuration",
       "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
@@ -78633,8 +78815,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "faecde46cb30",
-        "out_degree": 406
+        "hash": "7d3a69869add",
+        "out_degree": 407
       },
       {
         "id": "book:intelligence",
@@ -78741,8 +78923,8 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "edd5c30db4c4",
-        "out_degree": 39
+        "hash": "524742a21a0a",
+        "out_degree": 40
       }
     ],
     "edges": [
@@ -81424,6 +81606,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-comparison-that-relocates-the-cause",
+        "rel": "collects",
+        "label": "转移原因的比较 / The Comparison That Relocates the Cause"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "shared-consciousness-is-intersecting-individualities",
         "rel": "collects",
         "label": "共享意识是个体性的交集 / Shared Consciousness Is Intersecting Individualities"
@@ -83038,6 +83226,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-comparison-that-relocates-the-cause",
+        "rel": "collects",
+        "label": "转移原因的比较 / The Comparison That Relocates the Cause"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the_moving_ground",
         "rel": "collects",
         "label": "移动的基底与智能体委派的渐近线 / The Moving Ground"
@@ -83266,6 +83460,18 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-scaffolding-that-keeps-growing",
+        "rel": "collects",
+        "label": "持续生长的脚手架 / The Scaffolding That Keeps Growing"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-comparison-that-relocates-the-cause",
+        "rel": "collects",
+        "label": "转移原因的比较 / The Comparison That Relocates the Cause"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "rel": "collects",
         "label": "框架的倒置与驾驶位的主权非对称 / The Inversion of the Harness and the Sovereignty of the Driver's Seat"
@@ -83275,6 +83481,12 @@
         "to": "beyond-the-projection",
         "rel": "collects",
         "label": "超越投射 / Beyond the Projection"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-comparison-that-relocates-the-cause",
+        "rel": "collects",
+        "label": "转移原因的比较 / The Comparison That Relocates the Cause"
       },
       {
         "from": "book:index-of-premises",
@@ -85651,6 +85863,12 @@
         "to": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
         "rel": "collects",
         "label": "递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems"
+      },
+      {
+        "from": "book:tools-and-progress",
+        "to": "the-comparison-that-relocates-the-cause",
+        "rel": "collects",
+        "label": "转移原因的比较 / The Comparison That Relocates the Cause"
       }
     ]
   }
