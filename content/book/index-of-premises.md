@@ -4490,7 +4490,7 @@ Algorithmic determinism presumes automated models take over system governance; c
 
 The storehouse model presumes that memory deposits units of knowledge in a store and retrieves them as they were, which is of use in telling remembering from forgetting and in weighing what to memorize against what to look up; it reaches its boundary in that what appears as memory is the activity meeting its own residue, usable structure persists by being re-rendered under new load, and an inventory kept in the head shapes the next step no more than one kept outside until it is re-traced into the present configuration.
 
-→ [真正稀缺的不是记忆，而是持续的重新追溯 / The Real Scarcity Is Not Memory, But Continuous Re-Tracing](../../posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/) · [按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step](../../posts/on-demand-contexts-keep-coherence-at-one-step/) · [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/)
+→ [真正稀缺的不是记忆，而是持续的重新追溯 / The Real Scarcity Is Not Memory, But Continuous Re-Tracing](../../posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/) · [按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step](../../posts/on-demand-contexts-keep-coherence-at-one-step/) · [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/) · [交接残余 / Handing Off Residue](../../posts/handing-off-residue/)
 
 ### 结构性NPC错觉 / Structural NPC Illusion
 `哲学 / Philosophical`
@@ -5278,11 +5278,11 @@ Presumes the randomness in a model's sampler is indeterminism in the ontological
 ### 智能体自省回路与统御智能体 / Agentic Self-Reflection Loops and Orchestrator Agents
 `技术 / Technological`
 
-预设单个智能体能在自身会话历史内自我纠偏，或可由管理智能体代人执掌全局统御；在规则明确的子任务拆分、语境路由与冷启动同级辩论调度上依然有效，但当单智能体受困于词元轨迹引力井而将矛盾包裹圆场、或管理智能体在公理冲突前因无从触及未投射的鲜活意图而陷入封闭循环时便到达边界。
+预设单个智能体能在自身会话历史内自我纠偏，或可由管理智能体借共享会话与有损散文摘要代人执掌全局统御；在规则明确的子任务拆分、单主回路渐进式技能披露与以制品为初始条件的隔离语境调度上依然有效，但当单智能体受困于词元轨迹引力井而将矛盾包裹圆场、子智能体交接克隆会话历史或剥离被拒假设的摘要、或管理智能体在公理冲突前因无从触及未投射的鲜活意图而陷入封闭循环时便到达边界。
 
-Presumes that a single agent can self-correct within its own session trajectory or that a manager agent can assume overarching orchestration in place of the human; effective when scoped to explicit sub-task splitting, context routing, and dispatching equal-footed cold-peer debate loops, it reaches its boundary because a lone agent trapped in its token trajectory wraps its own contradiction, and a manager agent facing an axiomatic deadlock lacks access to unprojected living intent.
+Presumes that a single agent can self-correct within its own session trajectory or that a manager agent can assume overarching orchestration across subagents through shared sessions and lossy prose summaries; effective when scoped to explicit sub-task splitting, progressive disclosure inside a main loop, and dispatching isolated contexts from artifact initial conditions, it reaches its boundary because a lone agent trapped in its token trajectory wraps its own contradiction, session cloning and summary handoffs either export the gravity well or strip rejected hypotheses, and a manager agent facing an axiomatic deadlock lacks access to unprojected living intent.
 
-→ [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/) · [按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step](../../posts/on-demand-contexts-keep-coherence-at-one-step/)
+→ [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/) · [按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step](../../posts/on-demand-contexts-keep-coherence-at-one-step/) · [交接残余 / Handing Off Residue](../../posts/handing-off-residue/)
 
 ### 实战判断力的存量重估预设 / The Stock-Revaluation Premise of Practical Judgment
 `技术 / Technological`
@@ -5296,11 +5296,11 @@ Presumes that decades of accumulated practical judgment and taste form a stable 
 ### 无人类介入的自动化研究 / Automated Research Without Human Intervention
 `技术 / Technological`
 
-预设将提出假设、编码实现、运行测试与迭代演进的研究回环自动化，便能走向零人类介入的自主创造；在登记有界搜索空间内常规实现吞吐量的跃升时有用，但它漏计了起首锚定的先决条件、途中的参数修正与收尾的最终验收，把被编译进规则、无需逐步重做的自动化中段这一形式化程度最高的介入读作介入的缺席，并忽略了在把输出当作后续筛选原材料的开放式探究中，周期缩短反而压缩了两次介入之间的日历间隔、推高了留归决断心智的判断密度。
+预设将提出假设、编码实现、运行测试与自我改写框架的回环自动化，便能走向零人类介入的自主演进；在登记有界搜索空间内常规实现吞吐量的跃升与内环执行稠密化时有用，但它漏计了起首锚定的核心规范、只读隔离的外部评测边界与收尾的晋升裁决，把被编译进内环这一形式化程度最高的介入读作介入的缺席，并忽略了内环自主性的提升恰恰依托于、也不断促成人类决断向外环层级的持续扩展。
 
-Presumes that automating the research loop of proposing, implementing, testing, and iterating moves toward autonomous creation without human intervention; useful in registering jumps in routine implementation throughput inside bounded search spaces, it reaches its boundary by omitting the framing preconditions at the start, parameter revisions along the run, and final acceptance at the end, and by reading the automated middle, intervention in its most formalized form, as intervention's absence, while missing that in open-ended inquiry—where outputs serve as material for further selection—shorter cycles shrink the calendar interval between interventions and raise the density of human judgment.
+Presumes that automating the loop of proposing, implementing, testing, and self-editing harnesses moves toward autonomous evolution without human intervention; useful in registering jumps in routine implementation throughput and inner-loop densification inside bounded search spaces, it reaches its boundary by omitting the core specification at the start, the read-only isolated evaluation boundary, and the promotion verdict at the end, reading the compiled inner middle—intervention in its most formalized form—as intervention's absence, while missing that greater inner-loop autonomy is enabled by and enables the continuous expansion of human decision-making into outer layers.
 
-→ [判断的密度 / The Density of Judgment](../../posts/the-density-of-judgment/)
+→ [判断的密度 / The Density of Judgment](../../posts/the-density-of-judgment/) · [交接残余 / Handing Off Residue](../../posts/handing-off-residue/)
 
 ### 机械可解释性与白盒还原论 / Mechanistic Interpretability and White-Box Reductionism
 `技术 / Technological`
