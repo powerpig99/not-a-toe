@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-25T00:10:01.002Z",
+    "generated_at": "2026-10-25T00:30:16.211Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -98,7 +98,7 @@
       "content/posts/hardness-is-not-inherent-in-the-action.md": "a3edf37fad3f",
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "e145bfea5ec3",
       "content/posts/hassabis-einstein-test.md": "a19b4afc58f5",
-      "content/posts/hassabis-frontier-agi-premise.md": "5bb4aad4ec8f",
+      "content/posts/hassabis-frontier-agi-premise.md": "541fc0653aa1",
       "content/posts/having-more-is-never-the-cause.md": "fff7b1e393f6",
       "content/posts/help-is-half-the-problem.md": "b370c85eb106",
       "content/posts/hierarchy-from-individual-difference.md": "69e9c1301745",
@@ -119,7 +119,7 @@
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "ed8ae49b479f",
       "content/posts/manifesto-of-not-a-theory-of-everything.md": "5b88319c7739",
       "content/posts/math-as-a-career-is-not-math-as-a-pursuit.md": "1861bc2e15c4",
-      "content/posts/meaning-of-life-refined.md": "1ae50e3e9204",
+      "content/posts/meaning-of-life-refined.md": "e343fa3cccc6",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "02c235243d39",
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "9a326be23d1c",
       "content/posts/minimizing-path.md": "90053fab1dbc",
@@ -150,7 +150,7 @@
       "content/posts/open-vision-in-a-closed-arena.md": "98c32fc1001d",
       "content/posts/openness-is-consistency.md": "75ba5238a649",
       "content/posts/order-surplus-and-the-moral-intercept.md": "7cb3a1c5111c",
-      "content/posts/overfitting-as-the-follower-mode.md": "0456d9f85a5c",
+      "content/posts/overfitting-as-the-follower-mode.md": "abd03db7daf7",
       "content/posts/ownership-and-self-worthiness.md": "db74f7e5f39a",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "19deef69b9d1",
       "content/posts/perception-perspective-refined.md": "d9484330c5b9",
@@ -2889,7 +2889,7 @@
       "slug": "hassabis-frontier-agi-premise",
       "path": "content/posts/hassabis-frontier-agi-premise.md",
       "title": "并不存在的目录 / The Catalog That Isn't There",
-      "hash": "5bb4aad4ec8f",
+      "hash": "541fc0653aa1",
       "in_degree": 2,
       "out_degree": 3,
       "links_out": [
@@ -3556,7 +3556,7 @@
       "slug": "meaning-of-life-refined",
       "path": "content/posts/meaning-of-life-refined.md",
       "title": "意义的结构 / The Structure of Meaning",
-      "hash": "1ae50e3e9204",
+      "hash": "e343fa3cccc6",
       "in_degree": 2,
       "out_degree": 3,
       "links_out": [
@@ -4406,7 +4406,7 @@
       "slug": "overfitting-as-the-follower-mode",
       "path": "content/posts/overfitting-as-the-follower-mode.md",
       "title": "过拟合作为追随者模式 / Overfitting as the Follower Mode",
-      "hash": "0456d9f85a5c",
+      "hash": "abd03db7daf7",
       "in_degree": 3,
       "out_degree": 4,
       "links_out": [
@@ -25566,7 +25566,7 @@
       "from": "hassabis-frontier-agi-premise",
       "to": "agi-and-asi-are-temporary-goalposts",
       "rel": "points_to",
-      "label": "AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence"
+      "label": "AGI and ASI Are Temporary Goalposts"
     },
     {
       "from": "hassabis-frontier-agi-premise",
@@ -30582,7 +30582,7 @@
       "from": "meaning-of-life-refined",
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
-      "label": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing"
+      "label": "The Meaning of Life Is in the Drafting"
     },
     {
       "from": "mei-you-pu-du-zhi-you-zi-du",
@@ -36438,7 +36438,7 @@
       "from": "overfitting-as-the-follower-mode",
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
-      "label": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing"
+      "label": "The Meaning of Life Is in the Drafting"
     },
     {
       "from": "overfitting-as-the-follower-mode",

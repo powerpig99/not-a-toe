@@ -33,7 +33,6 @@ flowchart TD
         C_Freeze["冻结的纪念碑：将保存下来的痕迹残余误认为意义"]
         C_Void --> C_Bound --> C_Freeze
     end
-
     subgraph S_Live["自指延展（活生生的切分）"]
         direction TB
         L_Act["原初的自我区分活动：无因、不息的切分"]
@@ -41,9 +40,7 @@ flowchart TD
         L_Ask["运动中的追问：发问与起草在当场践行所寻求的意义"]
         L_Act --> L_Edge --> L_Ask
     end
-
     C_Freeze ==>|"跨出冻结的框架，重新开始起草"| L_Act
-
     style S_Stasis fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Live fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style C_Void fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -65,7 +62,6 @@ flowchart TD
         C_Freeze["Frozen Monument: Mistaking preserved trace residue for meaning"]
         C_Void --> C_Bound --> C_Freeze
     end
-
     subgraph S_Live["Self-Referential Extension (The Living Cut)"]
         direction TB
         L_Act["Primal Self-Distinguishing Activity: Uncaused, unceasing cut"]
@@ -73,9 +69,7 @@ flowchart TD
         L_Ask["The Question in Motion: Asking and drafting enact the meaning they seek"]
         L_Act --> L_Edge --> L_Ask
     end
-
     C_Freeze ==>|"Step outside the frozen frame; resume drafting"| L_Act
-
     style S_Stasis fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Live fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style C_Void fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -110,7 +104,7 @@ Every observer inhabits a finite projection of that activity, which is why the i
 
 已知与未知之间的边界随着每一步而推远，因为终极抵达意味着停滞。“生命的意义是什么？”这一追问本身就是正在划出的一道区分——一场运动中的延展。[生命的意义在起草之中](../the-meaning-of-life-is-in-the-drafting/)将意义定位在那场鲜活的起草之中，而非任何已完工的纪念碑里。
 
-The boundary between known and unknown recedes with every step because final arrival would mean stasis. The question "What is the meaning of life?" is itself a distinction being drawn—an extension in motion. [The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing](../the-meaning-of-life-is-in-the-drafting/) locates meaning in that live drafting rather than in any finished monument.
+The boundary between known and unknown recedes with every step because final arrival would mean stasis. The question "What is the meaning of life?" is itself a distinction being drawn—an extension in motion. [The Meaning of Life Is in the Drafting](../the-meaning-of-life-is-in-the-drafting/) locates meaning in that live drafting rather than in any finished monument.
 
 在活生生的前沿提出这一追问，就已经是在践行它的答案。每一次表述都将运动暂时冻结为一道痕迹；每一次认出那次冻结，都是向外迈出的一步；而践行本身，就是这番不断往复的运动。
 

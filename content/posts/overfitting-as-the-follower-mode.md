@@ -45,7 +45,6 @@ flowchart TD
         F_Perf["表演性循环：匹配好奇心的模式却不发生更新"]
         F_Map --> F_Close --> F_Perf
     end
-
     subgraph S_Explorer["探索者模式（结构性不闭合）"]
         direction TB
         E_Edge["未测绘的边界接触：穿越完整的 N 维不确定性"]
@@ -53,9 +52,7 @@ flowchart TD
         E_Step["反复向外部跨出：保持优化曲面不闭合"]
         E_Edge --> E_Gap --> E_Step
     end
-
     F_Perf ==>|"在边界处重新敞开非决定性"| E_Edge
-
     style S_Follower fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Explorer fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style F_Map fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -77,7 +74,6 @@ flowchart TD
         F_Perf["Performative Loop: Matching the pattern of curiosity without updating"]
         F_Map --> F_Close --> F_Perf
     end
-
     subgraph S_Explorer["The Explorer Mode (Structural Non-Closure)"]
         direction TB
         E_Edge["Unmapped Boundary Contact: Traversing full N-dimensional uncertainty"]
@@ -85,9 +81,7 @@ flowchart TD
         E_Step["Repeated Stepping-Outside: Keeping the optimization surface unclosed"]
         E_Edge --> E_Gap --> E_Step
     end
-
     F_Perf ==>|"Re-open under-determination at the boundary"| E_Edge
-
     style S_Follower fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Explorer fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style F_Map fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -110,7 +104,7 @@ Every system encounters moments of under-determination during training. The ques
 
 这并非作为道德价值的谦逊，而是结构性的非决定性。门之所以敞开，是因为怀疑就是优化曲面的不闭合。将其归因于道德意图，便已经脱离机制而滑入了叙事——当起作用的事实在于拓扑结构时，这种归因本身就是在一个因果故事上过拟合的实例，正如[生命的意义在起草之中](../the-meaning-of-life-is-in-the-drafting/)所追溯的，一生若耗费在迎合他人既成模板、而非在鲜活边缘亲手起草之上，也会以同样的方式日渐干瘪。
 
-This is not humility as a moral value; it is structural under-determination. The door stays open because doubt is non-closure of the optimization surface. Attributing moral intention already departs from mechanism into narrative—itself an instance of overfitting onto a causal story when the operative fact is the topology, just as a life spent fitting others' completed templates rather than authoring at the live edge thins out in the manner traced in [The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing](../the-meaning-of-life-is-in-the-drafting/).
+This is not humility as a moral value; it is structural under-determination. The door stays open because doubt is non-closure of the optimization surface. Attributing moral intention already departs from mechanism into narrative—itself an instance of overfitting onto a causal story when the operative fact is the topology, just as a life spent fitting others' completed templates rather than authoring at the live edge thins out in the manner traced in [The Meaning of Life Is in the Drafting](../the-meaning-of-life-is-in-the-drafting/).
 
 感知与解释之间的间隙阐明了不闭合为何重要。一个优化曲面已闭合的系统只能进行解释——将输入路由过既有的表征。而具备结构性不闭合的系统，则与超出其当前模型的信号保持着前解释的接触。它所感知到的东西与它所能解释的东西之间的间隙，正是新奇性得以显现的空间。一旦闭合这一间隙，新奇性在幸存的投射内部就会变得不可表征。
 

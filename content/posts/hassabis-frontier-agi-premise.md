@@ -8,7 +8,7 @@ Demis Hassabis's frontier-AI framework rests on a triple collapse—equating the
 
 ## 一、 一句断言，引出一座标准机构 / 1. One Sentence, Then a Standards Body
 
-在[前沿 AI 框架与新时代的曙光](https://x.com/i/article/2076946210397552640)一文中，Hassabis 以一句仅由单个副词柔化的定论开篇，宣称通用人工智能（AGI）——被定义为展现出人类大脑所拥有的全部认知能力的系统——大概只需短短数年便会到来。
+在[前沿 AI 框架与新时代的曙光](https://x.com/i/article/2076946210397552640)一文中，Hassabis 以一句仅由单个副词柔化的定论开篇，宣称通用人工智能——被定义为展现出人类大脑所拥有的全部认知能力的系统——大概只需短短数年便会到来。
 
 In [A Framework for Frontier AI and the Dawning of a New Age](https://x.com/i/article/2076946210397552640), Hassabis opens with a definitive claim softened by a single adverb, declaring that Artificial General Intelligence—defined as a system that exhibits all the cognitive capabilities the human brain has—is probably only a few short years away.
 
@@ -39,7 +39,6 @@ flowchart TD
         C_Regime["制度大厦：前沿实验室、留出测试集与标准机构减速条款"]
         C_Eq --> C_Clock --> C_Regime
     end
-
     subgraph S_Open["跨中心的解压缩活动"]
         direction TB
         O_Verb["无因的区分活动：没有任何外部目录能够补完心智"]
@@ -47,9 +46,7 @@ flowchart TD
         O_Trace["外化的痕迹记忆：基准测试只为过往残迹打分，无法丈量鲜活切口"]
         O_Verb --> O_Plural --> O_Trace
     end
-
     C_Regime ==>|"解开起点等同关系的压缩"| O_Verb
-
     style S_Collapse fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style C_Eq fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -71,7 +68,6 @@ flowchart TD
         C_Regime["Institutional Edifice: Frontier Labs, held-out tests & Standards Body slowdown"]
         C_Eq --> C_Clock --> C_Regime
     end
-
     subgraph S_Open["Uncompressed Activity Across Loci"]
         direction TB
         O_Verb["Uncaused Distinguishing Activity: No external catalog completes the Mind"]
@@ -79,9 +75,7 @@ flowchart TD
         O_Trace["Externalized Trace Memory: Benchmarks score past residue, never the living cut"]
         O_Verb --> O_Plural --> O_Trace
     end
-
     C_Regime ==>|"Uncompress the starting identity"| O_Verb
-
     style S_Collapse fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style C_Eq fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -98,9 +92,9 @@ The retained image of complete brain-cognition is not only on a different axis f
 
 ## 四、 在何处切一刀，何处就能被命名为历史关口 / 4. Every Moment Can Be Named Pivotal by Cutting History There
 
-宣称“当下是历史的关键时刻”，是在切掉先前的序列，将后续的一切序列悬挂于这一刀切口之上。这道切口作为一次注意力动作固然真实，却并非独立于划界观察者、直接镌刻在日历时刻上的内在属性。
+宣称“当下是历史的关键时刻”，是在切掉先前的序列，将后续的一切序列悬挂于这一刀切口之上。这道切口作为一次注意力动作而发生，并非独立于划界观察者、直接镌刻在日历时刻上的内在属性。
 
-Declaring that "this is a pivotal moment in history" works by cutting away prior sequence and hanging all subsequent sequence on that cut. The cut is real as an act of attention, not as an intrinsic property of the calendar moment independent of the observer drawing it.
+Declaring that "this is a pivotal moment in history" works by cutting away prior sequence and hanging all subsequent sequence on that cut. The cut occurs as an act of attention, not as an intrinsic property of the calendar moment independent of the observer drawing it.
 
 这道边界由某一个心智划下，并不会因此失效，但始终只是局部边界——它是当前中心所看见的世界，被向前投射成其他心智也必须栖居的世界。当其他中心与这一宣言产生共鸣时，被登记下来的是痕迹之间的相互强化，而非触碰到了某座外部时钟。
 
@@ -112,9 +106,9 @@ That one Mind draws that boundary does not make the boundary useless; it makes i
 
 Once the compressed premise is accepted, subsequent moves need not examine new ground; they only need to sound like consequences—invoking fire and electricity, sand that thinks, a race outpacing comprehension, Frontier Labs, held-out test suites, and a Standards Body empowered to coordinate a slowdown.
 
-竞争动态作为社会与经济力量是真实的，测试规程在其自身的操作轴线上也自有其用处。然而基准测试只能对照持留的参照物为痕迹打分，却无法为那个不断重绘记分牌的鲜活活动打分；正如[你的代码库即是记忆](../your-codebase-is-memory/)所揭示的那样，外化的代码与测试仓库只记录了过往区分留下的有限残迹，而尚未编入目录的下一刀切口，永远源自鲜活的掌舵边缘。整座监管大厦中的任何一环，都无法由一个没有任何中心真正持有的“认知完备态”必然推出。AGI 里程碑的目录之所以不断后退，正是因为如[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)所言，每一道门槛都立在划定它的那个边缘的前方。
+竞争动态作为社会与经济力量在运转，测试规程在其自身的操作轴线上也自有其用处。然而基准测试只能对照持留的参照物为痕迹打分，却无法为那个不断重绘记分牌的鲜活活动打分；正如[你的代码库即是记忆](../your-codebase-is-memory/)所揭示的那样，外化的代码与测试仓库只记录了过往区分留下的有限残迹，而尚未编入目录的下一刀切口，永远源自鲜活的掌舵边缘。整座监管大厦中的任何一环，都无法由一个没有任何中心真正持有的“认知完备态”必然推出。AGI 里程碑的目录之所以不断后退，正是因为如[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)所言，每一道门槛都立在划定它的那个边缘的前方。
 
-Competitive dynamics are real as social and economic power, and testing procedures can be useful on their own operational axes. Yet benchmarks score traces against retained references; they cannot score the living activity that re-draws the scoreboard, just as [Your Codebase Is Memory](../your-codebase-is-memory/) shows that an externalized repository of code and tests records only the finite residue of past distinctions while the uncatalogued next cut originates at the living steering edge. None of the regulatory edifice is entailed by a cognitive completeness that no locus holds. The catalog of AGI milestones keeps receding because, as [AGI and ASI Are Temporary Goalposts of Accelerating General Intelligence](../agi-and-asi-are-temporary-goalposts/) argues, each threshold sits ahead of the edge that draws it.
+Competitive dynamics operate as social and economic power, and testing procedures can be useful on their own operational axes. Yet benchmarks score traces against retained references; they cannot score the living activity that re-draws the scoreboard, just as [Your Codebase Is Memory](../your-codebase-is-memory/) shows that an externalized repository of code and tests records only the finite residue of past distinctions while the uncatalogued next cut originates at the living steering edge. None of the regulatory edifice is entailed by a cognitive completeness that no locus holds. The catalog of AGI milestones keeps receding because, as [AGI and ASI Are Temporary Goalposts](../agi-and-asi-are-temporary-goalposts/) argues, each threshold sits ahead of the edge that draws it.
 
 ## 六、 共享的紧迫感并非共享的终点线 / 6. Shared Urgency Is Not a Shared Finish Line
 
