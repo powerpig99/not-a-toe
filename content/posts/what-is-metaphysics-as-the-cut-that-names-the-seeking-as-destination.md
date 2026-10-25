@@ -22,7 +22,7 @@ The anecdote of the audience member asking the title's question after the lectur
 
 Any expression of the pursuit of the irreducible performs the same conversion once articulated. The pursuit itself, when named, is mistaken for the destination. What was open distinguishing freezes into something that appears unquestionable once labeled. The name supplies a reference that later acts can condition on. Scaffolding erected so further distinctions can land is then held as the structure of the field; as traced in [The Scaffolding We Forget](../the-scaffolding-we-forget/), the one-step exemption that enables construction becomes the lag that resists the next cut.
 
-当表达在某个名字之下被引用时，同样的情形再次上演。“海德格尔的形而上学”或“梁晶的非万物之理”，都把残余当作归属于某个源头的内容，可供第三人称做抽离的评注，而读者不必亲自执行产生它的那次区分。正如在[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/)中所剖析的，观察握住的是结果，而产生它的原因始终在一步之外。被命名的对象，正是凝视着自身的滞后。
+当表达在某个名字之下被引用时，同样的情形再次上演。“海德格尔的形而上学”或“梁京的非万物之理”，都把残余当作归属于某个源头的内容，可供第三人称做抽离的评注，而读者不必亲自执行产生它的那次区分。正如在[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/)中所剖析的，观察握住的是结果，而产生它的原因始终在一步之外。被命名的对象，正是凝视着自身的滞后。
 
 ```mermaid
 flowchart TD
