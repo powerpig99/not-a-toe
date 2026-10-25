@@ -630,6 +630,38 @@
     "processed": "2026-10-24T20:51:49.906Z",
     "playlist": "PLGrxskF8JnDo"
    }
+  },
+  "the-carry-that-cannot-be-named-inside-the-register": {
+   "en": {
+    "id": "ry6CLbqEbEg",
+    "url": "https://youtu.be/ry6CLbqEbEg",
+    "title": "The Carry That Cannot Be Named Inside the Register",
+    "privacy": "public",
+    "uploaded": "2026-10-25T06:34:31.680Z",
+    "file": "studio/post/the-carry-that-cannot-be-named-inside-the-register/final/film/film.en.mp4",
+    "sha256": {
+     "film": "e134aa35df6a13bba8c8053ccc1406754ee90fd76a8f04b1bab34a43e3c02ad9",
+     "intro": "830e7b79fc1e58b6a7d628852204ece208c8ba4ba02984547d536d6a5d86c2e6"
+    },
+    "status": "processed",
+    "processed": "2026-10-25T06:35:24.185Z",
+    "playlist": "PLMyi7vp2KMyA"
+   },
+   "zh": {
+    "id": "zhc5CYCUzQE",
+    "url": "https://youtu.be/zhc5CYCUzQE",
+    "title": "进位无法在寄存器之内被命名",
+    "privacy": "public",
+    "uploaded": "2026-10-25T06:36:33.231Z",
+    "file": "studio/post/the-carry-that-cannot-be-named-inside-the-register/final/film/film.zh.mp4",
+    "sha256": {
+     "film": "c2ad9ef1ee254025c8a42d2cf830cb9c3caa7ef18585c22cb9bb1c1ccd944201",
+     "intro": "d5f28430635e239b4f850eec9e28762a66fa739e39ce4be3f98921d74cd75243"
+    },
+    "status": "processed",
+    "processed": "2026-10-25T06:37:25.718Z",
+    "playlist": "PLGrxskF8JnDo"
+   }
   }
  }
 }
