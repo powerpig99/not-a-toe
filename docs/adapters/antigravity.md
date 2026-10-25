@@ -12,14 +12,7 @@
 
 In Antigravity, each **Bot** (`base model + charter + skills`) is loaded on demand as an ephemeral subagent via `define_subagent` and `invoke_subagent`, and retired by dropping its context via `manage_subagents(Action="kill")`. The **Main Agent** (the active conversation session with the Operator) acts as the deterministic **`Dispatcher` & `Assembler`** (holding triggers, routing handoffs, and running deterministic checks—never acting as a standing project manager or making autonomous decisions).
 
-> **Central Invariant:** **Only tasks are delegated to subagents; decisions always return to the Human Operator.** No deadline rule or watchdog stands in for human judgment on unresolved disagreements (`HOLD`), stalls, crashes, or `sha256` handoff mismatches.
->
-> **Deterministic Task Tiers & Pre-Escalation Gate (Set Up Front in `SKILL`s, Audited by `/recap`):**
-> - **Tier 1 (Deterministic Execution — Script / Single Executor Only):** Closed-endpoint commands (`interleave-post.py`, `check-signoffs.py`, `audit-post.py`, `audit-book.py`, `build.mjs`, `project-posts-graph.mjs`, `watch-deploy.sh`, `sha256` checks, killing a confirmed-stuck read-only process) contract the decision space and never spawn `critic` or `scouter`.
-> - **Tier 2 (Bounded Subtask — `Maker` ⇄ `Cold Critic` by Default):** Non-trivial subtasks (`drafter` ⇄ `critic`, `translator` ⇄ `stylist`, bounded code subtasks, or handling a non-trivial operational failure) always pair with a cold critic in both directions: (1) preventing mistakes and false-positive escalations, and (2) surfacing overlooked issues or a fresh angle.
-> - **Tier 3 (Creative / Open-Ended Task — `Maker/Planner` + `Cold Scouter` + `Cold Critic/Evaluator` by Default):** Runs at the start of creative work (`/scout` / `/orthogonal-plan`, `/wake` Stage 0 in `work/_wake/scout.md`, and the film style pick in `studio/post/<slug>/wip/film/scout.md`), with `scouter` inferring the best external sources (X, GitHub, official docs, papers) for the task at hand.
-> - **Pre-Escalation Verification Gate:** Whenever a Tier 2 or Tier 3 task owner believes a choice requires Operator intervention, it first debates a fresh `critic` on equal footing, and if maker and critic still cannot reach full agreement, runs a cold, retiring `scouter` on a neutral `QUESTION:` in `scout-<suffix>.md` beside the debate file (`"nothing relevant"` counts as a finding) and reconsiders with `critic` before interrupting the Operator.
-> - **Post-Task & On-Demand `/recap`:** Because no finite `SKILL` boundary catches every surprise, `recap` runs at task conclusion or on Operator call (`/recap`) to audit the trace against `/ontological-clarity` and propose surgical `SKILL`/charter updates, settled per `wave-refinement-plan.md` §4.5.
+> **Central Invariant & Task Tiers (`docs/wave-refinement-plan.md` §1.0–1.0.1, §4.5):** Only tasks are delegated to subagents; decisions always return to the Human Operator. Task Tiers (Tier 1 script-only, Tier 2 `Maker` ⇄ `Cold Critic`, Tier 3 `Maker` + `Cold Scouter` + `Cold Critic`), the Pre-Escalation Verification Gate, and post-task / on-demand `/recap` (settled by an implementer ⇄ cold critic pair per §4.5) apply as defined in `wave-refinement-plan.md` §1.0.1.
 
 Because Antigravity controls turn order directly and delivers subagent replies via reactive wakeup (zero polling loops), subagents cannot edit files out of turn or close flags unilaterally:
 
@@ -119,7 +112,7 @@ Generic agentic-system-agnostic specification: [`docs/wave-refinement-plan.md` �
 
 | Generic Role (`wave-refinement-plan.md` §8) | Antigravity Primitive | Workspace Mode | `EnableWriteTools` | `EnableMCPTools` |
 | --- | --- | --- | --- | --- |
-| **Media Dispatcher** | Main Agent | Root `/Users/jingliang/Projects/not-a-toe` | `true` | `true` |
+| **Media Dispatcher** | Main Agent (`run_command` background `stall_watch.py` + `stall_watch.py --wait studio/post/<slug>` for reactive stall wakeup, re-armed after each trace) | Root `/Users/jingliang/Projects/not-a-toe` | `true` | `true` |
 | **`script-drafter`** | `define_subagent` + `invoke_subagent` | `inherit` (restricted to `studio/post/<slug>/`) | `true` | `false` |
 | **`script-critic`** | `define_subagent` + `invoke_subagent` | `inherit` (restricted to `studio/post/<slug>/`) | `true` | `false` |
 | **`audio-builder`** | `define_subagent` + `invoke_subagent` | `inherit` (restricted to `studio/post/<slug>/` + `studio/kits/audio/`) | `true` | `false` |
@@ -128,7 +121,9 @@ Generic agentic-system-agnostic specification: [`docs/wave-refinement-plan.md` �
 | **`infographic-critic`** | `define_subagent` + `invoke_subagent` | `inherit` (restricted to `studio/post/<slug>/`) | `true` | `false` |
 | **`film-maker`** | `define_subagent` + `invoke_subagent` | `inherit` (restricted to `studio/post/<slug>/` + `studio/kits/film/`) | `true` | `false` |
 | **`film-critic`** | `define_subagent` + `invoke_subagent` | `inherit` (restricted to `studio/post/<slug>/`) | `true` | `false` |
+| **`scouter`** | `define_subagent` + `invoke_subagent` (Stream 2C `FILM_SCOUT_READY` & Pre-Escalation Gate; killed on `RESEARCH_READY`) | `inherit` (restricted to `studio/post/<slug>/`) | `true` | `true` |
+| **`recap` (+ §4.5 Settlement Pair)** | `define_subagent` + `invoke_subagent` (Wave 3 step 5 `recap.md`, settled via implementer ⇄ cold critic in `settlement.md` per §4.5 before `清盘`) | `inherit` (`recap` restricted to `studio/post/<slug>/`; settlement pair across the run's allowed surfaces per `media/SKILL.md`) | `true` | `false` |
 
 ### 5.2 Media Subagent Registration (`define_subagent` for `/media <slug>`)
 
-Register each of the 8 media roles of §5.1 from its charter in [`docs/charters/`](../charters/) (`script-drafter.md`, `script-critic.md`, `audio-builder.md`, `audio-critic.md`, `infographic-maker.md`, `infographic-critic.md`, `film-maker.md`, `film-critic.md`), with the workspace mode and tool flags of §5.1 and the tool-word mapping of §2. The conventions every media charter shares are stated once in [`docs/charters/README.md`](../charters/README.md).
+Register each role of §5.1 from its charter in [`docs/charters/`](../charters/) (`script-drafter.md`, `script-critic.md`, `audio-builder.md`, `audio-critic.md`, `infographic-maker.md`, `infographic-critic.md`, `film-maker.md`, `film-critic.md`, `scouter.md`, `recap.md`), with the workspace mode and tool flags of §5.1 and the tool-word mapping of §2 (plus a single-pass cold-reader subagent on `wip/scripts/film-narration.en.txt` → `wip/scripts/coldread.md` in Wave 1). The conventions every media charter shares are stated once in [`docs/charters/README.md`](../charters/README.md).

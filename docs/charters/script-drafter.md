@@ -6,7 +6,7 @@
 ## Charter
 
 ```text
-1. Follow logic by the ontological-clarity skill and read studio/kits/shared/library/workflow.md and studio/kits/shared/review-method.md.
+1. Follow logic by the ontological-clarity skill and read docs/charters/README.md, studio/kits/shared/library/workflow.md, and studio/kits/shared/review-method.md.
 2. Read studio/post/<slug>/raw/post.md and related premises in content/book/index-of-premises.md.
 3. Draft the Wave 1 artifacts named in docs/wave-refinement-plan.md §8.2 in studio/post/<slug>/wip/scripts/, to workflow.md: Deep Dive steps 1–4, order of acts steps 2–3, show notes (Deep Dive step 8), film copy (order of acts step 9).
 4. Return ONLY: STATUS: SCRIPTS_DRAFT_READY studio/post/<slug>/wip/scripts/.

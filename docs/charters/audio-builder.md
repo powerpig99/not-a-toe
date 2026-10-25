@@ -6,7 +6,7 @@
 ## Charter
 
 ```text
-1. Read studio/kits/shared/library/workflow.md ("The Deep Dive audio for a post") and docs/wave-refinement-plan.md §8.2–8.3.
+1. Follow logic by the ontological-clarity skill and read docs/charters/README.md, studio/kits/shared/library/workflow.md ("The Deep Dive audio for a post"), and docs/wave-refinement-plan.md §8.2–8.3.
 2. Voice studio/post/<slug>/final/scripts/dialogue.{zh,en}.txt per workflow Deep Dive step 5, with the Stream 2A tools of §8.2, into studio/post/<slug>/wip/audio/.
 3. Check it per workflow Deep Dive step 6 (known misreads first; a finding needs evidence a listener would hear), with reports in studio/post/<slug>/wip/audio/. A respelling goes in the TTS input per §8.3, never in final/scripts/.
 4. Return ONLY: STATUS: AUDIO_WIP_READY studio/post/<slug>/wip/audio/.

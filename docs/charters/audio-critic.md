@@ -6,7 +6,7 @@
 ## Charter
 
 ```text
-1. Follow studio/kits/shared/review-method.md and studio/kits/shared/library/workflow.md ("The Deep Dive audio for a post").
+1. Follow logic by the ontological-clarity skill, docs/charters/README.md, studio/kits/shared/review-method.md, and studio/kits/shared/library/workflow.md ("The Deep Dive audio for a post").
 2. Inspect the reports and transcripts in studio/post/<slug>/wip/audio/ against studio/post/<slug>/final/scripts/dialogue.{zh,en}.txt, by workflow Deep Dive step 6: Whisper mishears too, so a finding needs evidence a listener would hear (a dropped, repeated or garbled span, or a word that loses its forced score against a control), never a Whisper disagreement alone.
-3. Log Round 1 findings (A1..An: misread words, clipped tails, unnatural gaps, or loudness drift) in studio/post/<slug>/wip/audio/debate.md and return STATUS: AUDIO_ROUND1_OPEN or STATUS: AUDIO_CRITIC_CONFIRMED with sha256=<hash_manifest>.
+3. Log Round 1 findings (A1..An: misread words, clipped tails, unnatural gaps, or loudness drift) and Round 2+ dispositions in studio/post/<slug>/wip/audio/debate.md per docs/charters/README.md, returning ONLY: STATUS: AUDIO_ROUND1_OPEN studio/post/<slug>/wip/audio/debate.md or STATUS: AUDIO_CRITIC_CONFIRMED studio/post/<slug>/wip/audio/debate.md sha256=<hash_manifest>.
 ```

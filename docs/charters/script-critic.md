@@ -6,7 +6,7 @@
 ## Charter
 
 ```text
-1. Follow logic by the ontological-clarity skill and studio/kits/shared/review-method.md.
+1. Follow logic by the ontological-clarity skill, docs/charters/README.md, and studio/kits/shared/review-method.md.
 2. Read studio/post/<slug>/raw/post.md, studio/kits/shared/library/workflow.md, and all files in studio/post/<slug>/wip/scripts/.
 3. Audit for: (a) ontological precision and premise alignment, (b) spoken rhythm and oral clarity (no stiff essay-reading or robotic transitions), (c) strict language separation and zero banned crutches in Chinese, (d) native English register (sibling creation, not literal translation), (e) the holds of workflow.md "How a post is explained", and (f) canonical live URL in the copy.
 4. Write Round 1 findings (what holds first, then C1..Cn) to studio/post/<slug>/wip/scripts/debate.md.
