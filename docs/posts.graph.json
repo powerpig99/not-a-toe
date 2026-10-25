@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-24T23:51:04.977Z",
+    "generated_at": "2026-10-25T00:10:01.002Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -260,7 +260,7 @@
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "6e0248442567",
       "content/posts/the-generative-topology-of-free-variables.md": "baffb2e6acd8",
       "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "3128b01ea763",
-      "content/posts/the-geometry-of-emergence.md": "a42d5b545360",
+      "content/posts/the-geometry-of-emergence.md": "64583137ea48",
       "content/posts/the-geometry-of-mind.md": "3d0ba4f53d48",
       "content/posts/the-geometry-of-success.md": "7e595bd2dce9",
       "content/posts/the-geometry-of-the-cut.md": "6e088e0cb25d",
@@ -289,7 +289,7 @@
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "883cbb67e220",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "ff064e746f65",
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "e2c53537d905",
-      "content/posts/the-ledger-of-the-unencountered.md": "7cc479153e27",
+      "content/posts/the-ledger-of-the-unencountered.md": "ffcdbfc26a69",
       "content/posts/the-limitation-is-doing-work.md": "0775ab533348",
       "content/posts/the-living-context.md": "0f8485aa89e9",
       "content/posts/the-local-trap-of-technological-change.md": "90573245bd77",
@@ -389,7 +389,7 @@
       "content/posts/war-revolution-and-the-fall-of-empires.md": "e34d11fdc25d",
       "content/posts/what-always-listens-cannot-originate.md": "db0fa8ce809c",
       "content/posts/what-cannot-be-kept.md": "230c81faa1f9",
-      "content/posts/what-hinton-failed-to-understand.md": "bf5b94815318",
+      "content/posts/what-hinton-failed-to-understand.md": "4d44fae914c7",
       "content/posts/what-information-is.md": "db25cf6703e1",
       "content/posts/what-works-is-the-belief.md": "38b7c3f217e1",
       "content/posts/whatever-is-one-prompt-away.md": "2a70052b8308",
@@ -7273,7 +7273,7 @@
       "slug": "the-geometry-of-emergence",
       "path": "content/posts/the-geometry-of-emergence.md",
       "title": "涌现的几何学 / The Geometry of Emergence",
-      "hash": "a42d5b545360",
+      "hash": "64583137ea48",
       "in_degree": 5,
       "out_degree": 7,
       "links_out": [
@@ -7927,7 +7927,7 @@
       "slug": "the-ledger-of-the-unencountered",
       "path": "content/posts/the-ledger-of-the-unencountered.md",
       "title": "未被遭遇之物的账本 / The Ledger of the Unencountered",
-      "hash": "7cc479153e27",
+      "hash": "ffcdbfc26a69",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -10387,7 +10387,7 @@
       "slug": "what-hinton-failed-to-understand",
       "path": "content/posts/what-hinton-failed-to-understand.md",
       "title": "辛顿未曾理解的心智 / What Hinton Failed to Understand",
-      "hash": "bf5b94815318",
+      "hash": "4d44fae914c7",
       "in_degree": 5,
       "out_degree": 6,
       "links_out": [
@@ -54636,13 +54636,13 @@
       "from": "the-geometry-of-emergence",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
-      "label": "涌现说的却是一个结果"
+      "label": "复杂性遮蔽了涌现之为心智的行动"
     },
     {
       "from": "the-geometry-of-emergence",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
-      "label": "emergence names a result"
+      "label": "Complexity Obscures Emergence as the Act of Mind"
     },
     {
       "from": "the-geometry-of-emergence",
@@ -58536,7 +58536,7 @@
       "from": "the-ledger-of-the-unencountered",
       "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
       "rel": "points_to",
-      "label": "协议的倒置与因果回路的沉默"
+      "label": "规程的倒置与因果回路的消声"
     },
     {
       "from": "the-ledger-of-the-unencountered",
@@ -74604,7 +74604,7 @@
       "from": "what-hinton-failed-to-understand",
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
-      "label": "造物的阶序限制"
+      "label": "造物无法取代其源头"
     },
     {
       "from": "what-hinton-failed-to-understand",

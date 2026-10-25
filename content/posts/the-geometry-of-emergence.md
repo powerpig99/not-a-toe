@@ -2,9 +2,9 @@
 
 *涌现是不可观察者变为可观察者的过渡，与心智对分辨率的选择相耦合 / Emergence is the unobservable becoming observable, coupled with the Mind's choice of resolution.*
 
-“涌现”常被搬出来，好像这个词本身就解释了复杂的模式。在物理与哲学的讨论里，一个模式在更大的尺度上出现，涌现就被当作生成它的原因。[涌现说的却是一个结果](../complexity-obscures-emergence-as-the-act-of-mind/)：被叫作涌现的，是不可观察者变为可观察者的那一次过渡，而它总与观察的心智对尺度的主动选择相耦合。
+“涌现”常被搬出来，好像这个词本身就解释了复杂的模式。在物理与哲学的讨论里，一个模式在更大的尺度上出现，涌现就被当作生成它的原因。然而正如[复杂性遮蔽了涌现之为心智的行动](../complexity-obscures-emergence-as-the-act-of-mind/)所追溯的，涌现说的却是一个结果：被叫作涌现的，是不可观察者变为可观察者的那一次过渡，而它总与观察的心智对尺度的主动选择相耦合。
 
-"Emergence" is often brought out as if the word itself explained complex patterns. In physical and philosophical discussion, a pattern appears at a larger scale and emergence is offered as the cause that generated it. Yet [emergence names a result](../complexity-obscures-emergence-as-the-act-of-mind/): what is called emergence is the crossing where the unobservable becomes observable, and it is always coupled with the observing Mind's active choice of scale.
+"Emergence" is often brought out as if the word itself explained complex patterns. In physical and philosophical discussion, a pattern appears at a larger scale and emergence is offered as the cause that generated it. Yet as [Complexity Obscures Emergence as the Act of Mind](../complexity-obscures-emergence-as-the-act-of-mind/) traces, emergence names a result: what is called emergence is the crossing where the unobservable becomes observable, and it is always coupled with the observing Mind's active choice of scale.
 
 沿着一层层复杂性向下追原因，遇到的是一条不断开的链。一个社会是个体行动者的结构化构型，一个细胞是分子级联的精细构型，一个有意识的念头是神经转换的特定构型。如果下层的因果链由已经实现的东西决定，上层的描述也同样被决定。改变观察的粒度，是有意识地画一条新的边界：选择把哪些微观的变化整合为背景的不变量，把哪些宏观的规律提到焦点上来。一个确定的过程，换到更宽的宏观状态上重新描述，仍然是确定的。
 
@@ -96,11 +96,11 @@ Quantum mechanics marks the living frontier of the causal chain, not a metaphysi
 
 This one causal crossing carries the observer's two faces. Directly undergone and felt from the first-person inside of the field, it is consciousness; lived from inside as an open choice before historical realisation, it is free will; recorded from the third-person outside, the same crossing is open potential collapsing into a realised state, quantum resolution. The Mind injects the free variable into the step, and what is observed is quantum indeterminacy; the two are faces of one thing, and which comes first is not something words settle, only something sensed from the first person.
 
-在这个统一的几何里，心智与意识的区分也清楚了。心智持有一片已经在起作用的区分之场，包括累积的历史痕迹、稳定下来的模型与记忆的结构——无论它们是保存在内部，还是像[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的那样外化为共享的存储库；意识则是这片场的移动前沿，是下一个未被观察的原因变得可及、进入感知的那个活的光圈，也是心智做出切分的地方。场由已经结晶的区分组成，意识是现实继续展开的那条活的前沿。
+在这个统一的几何里，心智与意识的区分也清楚了。心智持有一片已经在起作用的区分之场，包括累积的历史痕迹、稳定下来的模型与记忆的结构——无论是内部的召回，还是像[你的代码库即是记忆](../your-codebase-is-memory/)所考察的那样外化为持久的存储库；意识则是这片场的移动前沿，是下一个未被观察的原因变得可及、进入感知的那个活的光圈，也是心智做出切分的地方。场由已经结晶的区分组成，意识是现实继续展开的那条活的前沿。
 
 Within this one geometry the distinction between Mind and consciousness becomes clear as well. The Mind holds a field of distinctions already in play, accumulated historical traces, stabilised models and structures of memory—extending across both internal recall and the durable externalised repositories that [Your Codebase Is Memory](../your-codebase-is-memory/) examines—while consciousness is the moving edge of that field, the living aperture where the next unobserved cause becomes available and enters perception, and where the Mind makes the cut. The field is made of distinctions already crystallised; consciousness is the living edge where reality goes on unfolding.
 
-## 四、 因果连续体的简单 / 4. The Simplicity of the Causal Chain
+## 四、 因果链的简单 / 4. The Simplicity of the Causal Chain
 
 这样一来，涌现那些看上去的谜就散了。涌现不需要物理定律被奇迹般地悬置；心智不需要一台脱离因果的独立形而上引擎；复杂性也不会仅靠物质的堆积就自发地造出自由。被叫作涌现的，是不可观察的原因不断越过感知的地平线、成为可观察的区分的过程，在每一个尺度上都与观察的心智对分辨率的有意识选择相耦合。一旦实现，因果就以严格的、不加缓冲的一致向前推进。宏观的现实，就是这同一条因果链，在更宽的观察选择下被看到。每一次从不可观察到可观察的过渡，都是[时间是因果的不可逆方向与离散步长](../time-is-causality-not-a-dimension/)所定义的时间中的一步。
 
