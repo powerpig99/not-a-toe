@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-25T02:01:26.679Z",
+    "generated_at": "2026-10-25T02:24:11.245Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -18,7 +18,7 @@
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "ec3480fb850e",
       "content/posts/agency-does-not-arise.md": "2064c3c57645",
       "content/posts/agency-relocated-into-the-formal-model.md": "623e5bff2d49",
-      "content/posts/agents_leia_ontological_clarity.md": "8c86635c5e81",
+      "content/posts/agents_leia_ontological_clarity.md": "bf10fe6968ac",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "4d7f22ced380",
       "content/posts/ai-as-augmentation.md": "f0a8c8f069ef",
       "content/posts/ai-wont-kill-software-engineering.md": "c91ee4108c07",
@@ -223,7 +223,7 @@
       "content/posts/the-closed-loop-of-representation.md": "659ee6fdc53f",
       "content/posts/the-closed-n-and-the-open-reality.md": "69b0afc8a6d7",
       "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "f1a9b1e12ab7",
-      "content/posts/the-collapsed-debate.md": "f43a0321747b",
+      "content/posts/the-collapsed-debate.md": "0c94fa396c05",
       "content/posts/the-comment-is-not-the-code.md": "2f3188bc6738",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "9e53487d8960",
       "content/posts/the-continuum-is-a-modeling-convenience.md": "3c2e3fff1d21",
@@ -869,7 +869,7 @@
       "slug": "agents_leia_ontological_clarity",
       "path": "content/posts/agents_leia_ontological_clarity.md",
       "title": "百科全书式的累加与生成性基底 / Agents in the Long Game of AI",
-      "hash": "8c86635c5e81",
+      "hash": "bf10fe6968ac",
       "in_degree": 2,
       "out_degree": 6,
       "links_out": [
@@ -6380,7 +6380,7 @@
       "slug": "the-collapsed-debate",
       "path": "content/posts/the-collapsed-debate.md",
       "title": "坍缩的辩论与正交的生存风险轴 / The Collapsed Debate",
-      "hash": "f43a0321747b",
+      "hash": "0c94fa396c05",
       "in_degree": 2,
       "out_degree": 4,
       "links_out": [
@@ -49177,7 +49177,7 @@
       "from": "the-collapsed-debate",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
-      "label": "模型永不成为第二道边缘"
+      "label": "模型永远无法成为第二重前沿"
     },
     {
       "from": "the-collapsed-debate",
