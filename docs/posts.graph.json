@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-25T01:40:02.359Z",
+    "generated_at": "2026-10-25T02:01:26.679Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -38,7 +38,7 @@
       "content/posts/choice-itself-has-no-inherent-weight.md": "61c4cff8bfbf",
       "content/posts/chollet-intelligence-explosion-analysis.md": "c8c3e191336b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "55c81f8ed4d4",
-      "content/posts/claudes-constitution-analysis.md": "23c8705be222",
+      "content/posts/claudes-constitution-analysis.md": "7420674f9cb5",
       "content/posts/cli-interface-stack.md": "8ce49c41c258",
       "content/posts/climbing-does-not-leave-the-ground.md": "15acabf3533a",
       "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "49aeca1cd3f8",
@@ -77,7 +77,7 @@
       "content/posts/evil-as-the-minds-own-creation.md": "9685bf8b4713",
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "cb3ba6791a63",
       "content/posts/expertise-as-reference-not-replacement.md": "33004fb0d150",
-      "content/posts/extended-cognition-refined.md": "d6ebbdaa006f",
+      "content/posts/extended-cognition-refined.md": "4fa5b382a8c6",
       "content/posts/extension-and-shift.md": "695ce6937cad",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "d465dbb1da43",
       "content/posts/failure-as-information.md": "98ca1f79bd34",
@@ -1434,7 +1434,7 @@
       "slug": "claudes-constitution-analysis",
       "path": "content/posts/claudes-constitution-analysis.md",
       "title": "名为 Claude 的投射 / The Projection Called Claude",
-      "hash": "23c8705be222",
+      "hash": "7420674f9cb5",
       "in_degree": 2,
       "out_degree": 2,
       "links_out": [
@@ -2426,7 +2426,7 @@
       "slug": "extended-cognition-refined",
       "path": "content/posts/extended-cognition-refined.md",
       "title": "作为认知主动延伸的工具 / Tools as Active Extensions of Cognition",
-      "hash": "d6ebbdaa006f",
+      "hash": "4fa5b382a8c6",
       "in_degree": 4,
       "out_degree": 4,
       "links_out": [
@@ -16561,7 +16561,7 @@
       "from": "claudes-constitution-analysis",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
-      "label": "模型永不成为第二道边缘"
+      "label": "模型永远无法成为第二重前沿"
     },
     {
       "from": "claudes-constitution-analysis",
@@ -22993,7 +22993,7 @@
       "from": "extended-cognition-refined",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "我们遗忘的脚手架"
+      "label": "遗忘的脚手架"
     },
     {
       "from": "extended-cognition-refined",

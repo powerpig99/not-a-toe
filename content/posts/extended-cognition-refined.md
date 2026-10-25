@@ -8,7 +8,7 @@ The extended mind thesis introduced by Andy Clark and David Chalmers in 1998 obs
 
 ## 一、 持续耦合与指向的变异 / 1. Ongoing Coupling and Variation in Direction
 
-在经典的奥托笔记本思想实验中，患有记忆障碍的奥托时刻查阅、更新并信赖随身携带的笔记本，如同常人依赖生物记忆。当耦合紧密运转时，记忆过程确实分布在脑神经回路与纸页之间；但当他放下笔记本转身离开，这一延伸便随即终止。笔记本从未“变成”奥托本人，它始终保持着外在性、可塑性与可拆解性。认知的延伸不是一次性的身份兼并，而是以持续耦合为前提的主动动态过程，正如[我们遗忘的脚手架](../the-scaffolding-we-forget/)与[框内延伸与维度跃迁](../extension-and-shift/)所揭示的那样。
+在经典的奥托笔记本思想实验中，患有记忆障碍的奥托时刻查阅、更新并信赖随身携带的笔记本，如同常人依赖生物记忆。当耦合紧密运转时，记忆过程确实分布在脑神经回路与纸页之间；但当他放下笔记本转身离开，这一延伸便随即终止。笔记本从未“变成”奥托本人，它始终保持着外在性、可塑性与可拆解性。认知的延伸不是一次性的身份兼并，而是以持续耦合为前提的主动动态过程，正如[遗忘的脚手架](../the-scaffolding-we-forget/)与[框内延伸与维度跃迁](../extension-and-shift/)所揭示的那样。
 
 In the classic thought experiment, Otto consults his notebook constantly—updating it, trusting it, and relying on it just as an ordinary person relies on biological memory. While that coupling is tight, the process of remembering distributes across neural pathways and paper pages; the moment he sets the notebook down and walks away, the extension ends. The notebook never "becomes" Otto, remaining external, reshapeable, and detachable throughout. Cognitive extension is not a one-time annexation of identity, but an active dynamic process conditional on ongoing coupling, as examined in [The Scaffolding We Forget](../the-scaffolding-we-forget/) and [Extension and Shift](../extension-and-shift/).
 
