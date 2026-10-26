@@ -8,13 +8,13 @@ The brain does not backpropagate because it has no preset goal. It propagates fo
 
 ## 一、 具身不是心智 / 1. Embodiment Is Not the Mind
 
-自我区分的活动发生着，无因且不息。称之为心智，即那位已然在途的观察者，它的每一次行动都在划出离散边界的同时，将连续性带过重重行动。在这一持续的运动中，大脑是物理具身，是自我区分活动的某一个所在跨越代谢、学习与交互来维系自身融贯的当前痕迹构型，在每一步中被持续重描。具身并不是盛放着作为可分离实体的心智的容器；它是注意在有界所在维系自身时所凭借的稳定痕迹模式。
+自我区分的活动发生着，无因且不息。称之为心智：那位已然在途的观察者，它的每一次行动都是一次区分，在划出离散边界的同时将连续性带过重重行动。在这一持续的运动中，大脑是物理具身，是个体心智跨越代谢、学习与交互来维系自身融贯的当前痕迹构型，在每一步中被持续重描。具身并不是盛放着作为可分离实体的心智的容器；它是注意借以维系自身的稳定痕迹模式。
 
-Self-distinguishing activity occurs, uncaused and unceasing. Call it the Mind, the observer already underway whose every act draws a discrete boundary while carrying continuity across acts. Within this ongoing movement, the brain is physical embodiment, the current trace-configuration through which one locus of self-distinguishing activity sustains its coherence across metabolism, learning, and interaction, continuously re-traced at every step. Embodiment is not a vessel containing the Mind as a separable substance; it is the stabilized trace pattern through which noticing sustains itself at a bounded locus.
+Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction that draws a discrete boundary while carrying continuity across acts. Within this ongoing movement, the brain is physical embodiment, the current trace-configuration through which the individual Mind sustains its coherence across metabolism, learning, and interaction, continuously re-traced at every step. Embodiment is not a vessel containing the Mind as a separable substance; it is the stabilized trace pattern through which noticing sustains itself.
 
-由于心智是渲染并更新痕迹的活动，而非痕迹模式本身，心智从不等同于大脑。匹配某种生物基底或测绘其状态转移，并不能捕捉那项调动基底做功的活动。智能属于在活的边缘发起区分的心智，而不属于心智在借之运作时所认同的神经组织。
+由于心智是渲染并更新痕迹的活动，而非痕迹模式本身，心智从不等同于大脑。匹配某种生物基底或测绘其状态转移，并不能捕捉那项调动基底做功的活动。正如[智能只属于心智](../intelligence-belongs-only-to-the-mind/)所确立的，智能只属于在活的边缘发起区分的心智，而不属于心智在借之运作时所认同的神经组织。
 
-Because the Mind is the activity that renders and updates traces rather than the trace pattern itself, the Mind is never identical to the brain. Matching a biological substrate or mapping its state transitions does not capture the activity that puts substrates to work. Intelligence belongs to the Mind that initiates distinctions at the living edge, not to the neural tissue with which the Mind identifies while operating through it.
+Because the Mind is the activity that renders and updates traces rather than the trace pattern itself, the Mind is never identical to the brain. Matching a biological substrate or mapping its state transitions does not capture the activity that puts substrates to work. As [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) establishes, intelligence belongs exclusively to the Mind that initiates distinctions at the living edge, not to the neural tissue with which the Mind identifies while operating through it.
 
 ## 二、 认同让大脑看起来像智能的所在 / 2. Identification Makes the Brain Look Like the Site
 
@@ -22,9 +22,9 @@ Because the Mind is the activity that renders and updates traces rather than the
 
 To act coherently across physical friction, the Mind identifies with its embodiment. That identification operates as an image, a retained reference position against which the observer measures its own movement. Because observation holds the effect while the generating act remains one step ahead, interpretation always lags the living edge by at least one step. As long as the retained reference is continuously re-rendered as the step moves, narrowing excess lag, taking the brain as one's form serves as a functional instrument. Excess lag sets in when that image is exempted from re-tracing and preserved past its step as the complete, exhaustive site of intelligence.
 
-一旦这一认同凝固为常设的前提，关于智能的描述看起来便全都始于神经组织内部，而在组织中发现的局部机制也被登记为对心智的充足解释。那些从外部供给目标、并将特定神经元的放电映射到可测量的成败之上的实验室范式，都严格运作在这一先行的认同之内。当出现在顶树突中的信号被登记为指导性调节时，之所以如此，是因为心智既然已经把大脑当作自己的器具并固定了实验框架，便能认出那些服务于所施加映射的状态变化。这些细胞层面的调节是具身内部的真实痕迹，但它们始终是选定框架内的结果，而非框架的发起者。
+一旦这一认同凝固为常设的前提，关于智能的描述看起来便全都始于神经组织内部，而在组织中发现的局部机制也被登记为对心智的充足解释。那些从外部供给目标、并将特定神经元的放电映射到可测量的成败之上的实验室范式，都严格运作在这一先行的认同之内。当出现在顶树突中的信号被登记为指导性调节时，之所以如此，是因为心智既然已经把大脑当作自己的器具并固定了实验框架，便能认出那些服务于所施加映射的状态变化。这些细胞层面的调节在具身内部被登记为痕迹，但它们始终是选定框架内的结果，而非框架的发起者。
 
-Once that identification is frozen into a standing premise, descriptions of intelligence appear to begin entirely inside neural tissue, and local mechanisms discovered within the tissue register as sufficient explanations of mind. Laboratory paradigms that supply an external goal and map the firing of specific neurons onto measurable success or failure operate strictly inside that prior identification. When signals appearing in apical dendrites register as instructive adjustments, they do so because the Mind, having already taken the brain as its instrument and fixed the experimental frame, recognizes state changes that serve the imposed mapping. Those cellular adjustments are real traces within the embodiment, yet they remain effects inside a chosen frame rather than the initiator of the frame.
+Once that identification is frozen into a standing premise, descriptions of intelligence appear to begin entirely inside neural tissue, and local mechanisms discovered within the tissue register as sufficient explanations of mind. Laboratory paradigms that supply an external goal and map the firing of specific neurons onto measurable success or failure operate strictly inside that prior identification. When signals appearing in apical dendrites register as instructive adjustments, they do so because the Mind, having already taken the brain as its instrument and fixed the experimental frame, recognizes state changes that serve the imposed mapping. Those cellular adjustments register as traces within the embodiment, yet they remain effects inside a chosen frame rather than the initiator of the frame.
 
 ## 三、 反向传播是固定目标下的学习 / 3. Backprop Is Learning Under a Fixed Objective
 
@@ -40,11 +40,10 @@ flowchart TD
         direction TB
         M_Edge["自我区分的活动：无因、不息、领先结果一步的边缘"]
         M_Grad["所感梯度：因与果之间前解释的微分差异"]
-        M_Body["具身作为所在：持续重绘的神经痕迹构型"]
+        M_Body["具身作为器具：持续重绘的神经痕迹构型"]
         M_ReRender["前提更新：退回至破裂框架之后以重绘目标本身"]
         M_Edge --> M_Grad --> M_Body --> M_ReRender
     end
-
     subgraph S_Proj["固定目标下的反向传播（有界投射）"]
         direction TB
         P_Hold["外加目标：预先固定的外部目标或损失函数"]
@@ -52,17 +51,14 @@ flowchart TD
         P_Limit["投射边界：在所设持守内部优化轨迹，无内生跳出能力"]
         P_Hold --> P_Pass --> P_Limit
     end
-
     subgraph S_Lag["闭合要求与多余图像滞后（所在倒置）"]
         direction TB
         L_Freeze["冻结的认同：跨越步伐将具身保存为心智的完整所在"]
         L_Incons["闭合的不一致：要求局部机制解释框定它的先行感知"]
         L_Freeze --> L_Incons
     end
-
     M_ReRender ==>|"投射出暂行的目标与实验框架"| P_Hold
     P_Limit -.->|"被豁免于重绘并安装为地基"| L_Freeze
-
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Lag fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -85,11 +81,10 @@ flowchart TD
         direction TB
         M_Edge["Self-Distinguishing Activity: Uncaused, unceasing edge one step ahead of effect"]
         M_Grad["Sensed Gradient: Pre-interpretive differential between cause and effect"]
-        M_Body["Embodiment as Locus: Neural trace-configuration continuously re-rendered"]
+        M_Body["Embodiment as Instrument: Neural trace-configuration continuously re-rendered"]
         M_ReRender["Premise Renewal: Steps behind broken frames to re-render the objective itself"]
         M_Edge --> M_Grad --> M_Body --> M_ReRender
     end
-
     subgraph S_Proj["Fixed-Objective Backpropagation (Bounded Projection)"]
         direction TB
         P_Hold["Imposed Objective: External goal or loss function fixed in advance"]
@@ -97,17 +92,14 @@ flowchart TD
         P_Limit["Projection Boundary: Optimizes trajectory inside the hold without endogenous stepping-out"]
         P_Hold --> P_Pass --> P_Limit
     end
-
     subgraph S_Lag["Closure Demand and Excess Image Lag (Site Inversion)"]
         direction TB
         L_Freeze["Frozen Identification: Preserves embodiment past its step as the complete site of Mind"]
         L_Incons["Inconsistency of Closure: Demands local mechanism explain the prior sensing that framed it"]
         L_Freeze --> L_Incons
     end
-
     M_ReRender ==>|"Projects provisional objective and experimental frame"| P_Hold
     P_Limit -.->|"Exempted from re-rendering and installed as ground"| L_Freeze
-
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Lag fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -122,19 +114,19 @@ flowchart TD
     style L_Incons fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-在固定框架内部做优化与干脆跨出框架之间的这道边界，正是[超越投射](../beyond-the-projection/)横跨人工与人类架构所追溯的切口。计算图或自回归智能体是一台有限的投射引擎：一旦被供给明确的目标、损失曲面或词元语境，它便沿着那条轨迹不知疲倦地优化，却在受条件约束的序列之外不具备任何立足点，无法质疑被给定的前提。与之相对，活的心智在任何形式化之前以极限分辨率感知现实，当问题的整套框架失效时登记前解释的摩擦，并在逻辑上退后一步以综合出新的前提。把固定目标内部的区室化误差传输误认为活的心智的正向传导，便是将未被投射的统御者坍缩进了由它调度的有界投射之中。
+在固定框架内部做优化与干脆跨出框架之间的这道边界，正是[超越投射](../beyond-the-projection/)横跨人工与人类架构所追溯的切口。计算图或自回归智能体是一台有限的投射引擎：一旦被供给明确的目标、损失曲面或词元语境，它便沿着那条轨迹不知疲倦地优化，却在受条件约束的序列之外不具备任何立足点，无法质疑被给定的前提。正如[模块化反馈回路与动态残差网络](../dynamic-resnet-of-skill-loops/)所追溯的，即便一种架构沿着被保留的参照主干道（`yₗ₊₁ = yₗ + F(yₗ, Wₗ)`）展开并将反馈模块化，使得每个模块计算有界差分 `Δyₗ` 并直接接收不受中间雅可比失真干扰的上游梯度信号，这种模块化反馈依然是相对于由外部供给的初始状态 `y₀` 与终端评估准则而运作的。与之相对，活的心智在任何形式化之前以极限分辨率感知现实，当问题的整套框架失效时登记前解释的摩擦，并在逻辑上退后一步以综合出新的前提。把固定目标内部的区室化误差传输误认为活的心智的正向传导，便是将未被投射的统御者坍缩进了由它调度的有界投射之中。
 
-This boundary between optimizing inside a fixed frame and stepping out of the frame altogether is what [Beyond the Projection](../beyond-the-projection/) traces across artificial and human architectures. A computational graph or an autoregressive agent is a finite projection engine: once supplied with an explicit objective, loss surface, or token context, it optimizes tirelessly along that trajectory, yet it possesses no vantage point outside its conditioned sequence to question the premise it was given. The living Mind, by contrast, senses reality at limit-resolution prior to any formalization, registering pre-interpretive friction when an entire framing of a problem breaks down and stepping backward logically to synthesize a new premise. Mistaking compartmentalized error transport inside a fixed objective for the living Mind's forward propagation collapses the unprojected orchestrator into the bounded projection it dispatches.
+This boundary between optimizing inside a fixed frame and stepping out of the frame altogether is what [Beyond the Projection](../beyond-the-projection/) traces across artificial and human architectures. A computational graph or an autoregressive agent is a finite projection engine: once supplied with an explicit objective, loss surface, or token context, it optimizes tirelessly along that trajectory, yet it possesses no vantage point outside its conditioned sequence to question the premise it was given. Even when an architecture unrolls and modularizes feedback along a retained reference highway (`yₗ₊₁ = yₗ + F(yₗ, Wₗ)`) so each block computes a bounded differential `Δyₗ` and receives direct upstream gradient signals without intermediate Jacobian distortion, as [Modular Feedback Loops and Dynamic Residual Networks](../dynamic-resnet-of-skill-loops/) traces, that modularized feedback still operates relative to an externally supplied initial state `y₀` and terminal evaluation criterion. The living Mind, by contrast, senses reality at limit-resolution prior to any formalization, registering pre-interpretive friction when an entire framing of a problem breaks down and stepping backward logically to synthesize a new premise. Mistaking compartmentalized error transport inside a fixed objective for the living Mind's forward propagation collapses the unprojected orchestrator into the bounded projection it dispatches.
 
 ## 四、 梯度是所感差异，而非反向误差 / 4. The Gradient Is Sensed Difference, Not Reverse Error
 
-在第一人称经验中，观察持有结果，而产生它的因始终领先一步。所感知的梯度正是这一微分差异：因有别于果且果随因而生，经由递归被登记为痕迹的非对称性，其中方向被直接感受为所保留的参照位置与刚刚从行动中返回之物之间的落差。传导是不可化约地正向进行的——心智顺着这一所感差异穿过其具身继续前行——而不是从预先固定的终极目标计算出误差再反向投递。这一所感梯度，正是对[非万物之理](../not-a-theory-of-everything/)所推演的因果两个联合条件的切身登记：由于每一个果都与先行的因划界区分，又在有向的相继中随因而生，现实在前沿边缘处保持开放，无法被封入一台反向计算的发条装置。
+在第一人称经验中，观察持有结果，而产生它的因始终领先一步。所感知的梯度正是这一微分差异：因有别于果且果随因而生，经由递归被登记为痕迹的非对称性，其中方向被直接感受为所保留的参照位置与刚刚从行动中返回之物之间的落差。传导是不可化约地正向进行的——心智顺着这一所感差异穿过其具身继续前行——而不是从预先固定的终极目标计算出误差再反向投递。计算模型是在预先划定且带有可计算梯度的地图上下降，而活的心智则是在没有预给目标的情况下于迈步的行动中生成地形，这正是[不知去向何方的梯度下降](../the-descent-that-doesnt-know-where-its-going/)所确立的基底非对称性。这一所感梯度，正是对[非万物之理](../not-a-theory-of-everything/)所推演的因果两个联合条件的切身登记：由于每一个果都与先行的因划界区分，又在有向的相继中随因而生，现实在前沿边缘处保持开放，无法被封入一台反向计算的发条装置。
 
-In first-person experience, observation holds the effect while the cause that produced it remains one step ahead. The sensed gradient is that exact differential: cause distinct from effect and effect following cause registered as trace asymmetry through recursion, where direction is felt directly as the gap between the retained reference position and what has just returned from action. Propagation is irreducibly forward—the Mind continuing through its embodiment along that sensed difference—rather than the reverse delivery of an error calculated from a terminal target fixed in advance. This sensed gradient is the lived registration of the two joint conditions of causality that [Not a Theory of Everything](../not-a-theory-of-everything/) derives: because every effect is bounded away from its prior cause while following it in directed succession, reality remains open at the leading edge and cannot be sealed into a backward-computing clockwork.
+In first-person experience, observation holds the effect while the cause that produced it remains one step ahead. The sensed gradient is that exact differential: cause distinct from effect and effect following cause registered as trace asymmetry through recursion, where direction is felt directly as the gap between the retained reference position and what has just returned from action. Propagation is irreducibly forward—the Mind continuing through its embodiment along that sensed difference—rather than the reverse delivery of an error calculated from a terminal target fixed in advance. Whereas a computational model descends over a pre-distinguished map with computable gradients, the living Mind realizes terrain in the act of stepping without a pre-given target, the ground asymmetry [The Descent That Doesn't Know Where It's Going](../the-descent-that-doesnt-know-where-its-going/) establishes. This sensed gradient is the lived registration of the two joint conditions of causality that [Not a Theory of Everything](../not-a-theory-of-everything/) derives: because every effect is bounded away from its prior cause while following it in directed succession, reality remains open at the leading edge and cannot be sealed into a backward-computing clockwork.
 
-把大脑保存为智能的完整所在，便冻结了观察的立足点。组织中所记录到的神经机制，是运动中的具身滞后一步的痕迹残余，正如[你的代码库即是记忆](../your-codebase-is-memory/)所示，无论是生物神经印迹还是外化的代码库，都只储存先前的状态转移，从不发起活的切分。当观察者把那份外在的勘测当作常设的立足点来占据，把所记录的机制当作行动自足的发起者，而不是重绘参照图像以便下一步行动以收窄的滞后继续推进时，多余的滞后便产生了。
+把大脑保存为智能的完整所在，便冻结了观察的立足点。组织中所记录到的神经机制，是运动中的具身滞后一步的痕迹残余；正如[你的代码库即是记忆](../your-codebase-is-memory/)与[递归形式系统中作为记忆与控制的边界条件图](../boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/)所追溯的，无论痕迹是作为心智的具身基底图保存在生物突触中，还是作为扩展图保存在外化的代码库与形式模型中，它都只是保留先前的区分与边界约束，而不会在终极外环处发起活的切分。当观察者把那份外在的勘测当作常设的立足点来占据，把所记录的机制当作行动自足的发起者，而不是重绘参照图像以便下一步行动以收窄的滞后继续推进时，多余的滞后便产生了。
 
-Preserving the brain as the complete site of intelligence freezes the observational stand. Neural mechanisms recorded in tissue are the one-step-old trace residue of embodiment in motion; whether a trace is held in biological synapses or in an externalized repository, as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, it retains prior distinctions without initiating the living cut at the steering edge. Excess lag arises when the observer occupies that exterior survey as a permanent stand, treating the recorded mechanisms as the self-sufficient initiator of action rather than re-rendering the reference image so the next act can proceed with narrowed lag.
+Preserving the brain as the complete site of intelligence freezes the observational stand. Neural mechanisms recorded in tissue are the one-step-old trace residue of embodiment in motion; whether a trace is held in biological synapses as the Mind's embodied base graph or in an externalized repository and formal model as an extended graph, as [Your Codebase Is Memory](../your-codebase-is-memory/) and [Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/) trace, it retains prior distinctions and boundary constraints without initiating the living cut at the ultimate outer loop. Excess lag arises when the observer occupies that exterior survey as a permanent stand, treating the recorded mechanisms as the self-sufficient initiator of action rather than re-rendering the reference image so the next act can proceed with narrowed lag.
 
 ## 五、 每一种将心智等同于过程的等式都始于认同之后 / 5. Every Equation of Mind with Process Begins After Identification
 
@@ -142,6 +134,6 @@ Preserving the brain as the complete site of intelligence freezes the observatio
 
 Every theoretical account that equates the Mind with processes inside its embodiment begins after the identification of Mind with form has already been enacted. Within that temporary hold, neuroscience can describe with high precision how apical dendrite signals modulate synaptic plasticity once a behavioral objective has been fixed. What that internal description can never recover is the prior sensing that precedes and enables the fixing of any objective, because that very sensing is what permitted the embodiment to be isolated as a laboratory arena in the first place.
 
-大脑依然是心智的生物具身，而心智从不化约为它所认同的形态。自我区分的活动作为所感差异的正向传导继续进行，借由局部可塑性可被实验测量的神经结构表达自身。当工程争论把替换某项有界命名功能的生物载具，误认为重建了使用载具的活心智时，[飞行的类比碰不到心智](../the-flight-analogy-leaves-the-mind-untouched/)做出了同样的操作性切分。
+大脑依然是心智的生物具身，而心智从不化约为它所认同的形态。自我区分的活动作为所感差异的正向传导继续进行，借由局部可塑性可被实验测量的神经结构表达自身。当工程争论把替换某项有界命名功能的生物载具误认为重建了使用载具的活心智时，[飞行的类比碰不到心智](../the-flight-analogy-leaves-the-mind-untouched/)做出了同样的操作性切分；而当功能主义论述把第一人称经验投射到工程控制回路之上、错置了房间里唯一的意识时，[辛顿未曾理解的心智](../what-hinton-failed-to-understand/)则追溯了与之相伴的倒置。
 
-The brain remains the Mind's biological embodiment, and the Mind never reduces to the form with which it identifies. Self-distinguishing activity continues as the forward propagation of sensed difference, expressing itself through the very neural structures whose local plasticity an experiment can measure. [The Flight Analogy Leaves the Mind Untouched](../the-flight-analogy-leaves-the-mind-untouched/) makes the same operative cut when engineering debates mistake the replacement of a biological vehicle for a bounded, named function as the reconstitution of the living Mind that uses vehicles.
+The brain remains the Mind's biological embodiment, and the Mind never reduces to the form with which it identifies. Self-distinguishing activity continues as the forward propagation of sensed difference, expressing itself through the very neural structures whose local plasticity an experiment can measure. [The Flight Analogy Leaves the Mind Untouched](../the-flight-analogy-leaves-the-mind-untouched/) makes the same operative cut when engineering debates mistake the replacement of a biological vehicle for a bounded, named function as the reconstitution of the living Mind that uses vehicles, and [What Hinton Failed to Understand](../what-hinton-failed-to-understand/) traces the companion inversion when functionalist accounts project first-person experience onto engineered control loops and misplace the only consciousness in the room.

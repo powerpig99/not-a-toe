@@ -1,49 +1,47 @@
 # 观察的因果僭越与第一人称的收益差 / The Causal Overstep of Observation and the First-Person Surplus
 
-*群体统计记录既成选择的残余，行动开启只取决于第一人称对收益与摩擦的权衡 / Population statistics record completed residue; action ignites solely in the first-person surplus over friction*
+*群体统计记录既成选择的残余，行动开启只取决于第一人称越过摩擦的收益差 / Population statistics record completed residue; action ignites solely in the first-person surplus over friction*
 
-主动拓宽认知边界、接纳外界批评以校准盲区、在回报延迟的周期里保持行动投入，这些常被视作拉开人与人长程差距的行为，向任何具备注意力、记忆与抉择能力的个体开放。开启这些探索既不需要特殊的社会准入许可证，也不依附于罕见的天赋禀赋。真正拉开群体分布差距的，仅仅在于个体是否将这一可行性视作适用于自身的主权选项。然而，大量实证观察研究从外部俯瞰人群，记录下绝大多数人在遭遇摩擦后迅速折返的统计图景，并顺理成章地将这一描述性频次伪造成微观准入的因果壁垒，最典型的产物便是将长久坚持神圣化为必须耐受所谓高级苦的苦修叙事。
+主动拓宽认知范围、积极吸纳修正性反馈、在回报延迟的周期里保持持续投入，这些常被视作拉开长期差距的活动，向任何具备寻常注意力、记忆与自主抉择能力的个体开放。开启这些实践既不需要体制认证，也不依附于罕见的遗传禀赋。个体之间的分化，仅源于行动者是否将这种操作上的开放性视作适用于自身的可用选项。然而，大量观察性研究从第三人称看台俯瞰人群，记录下多数人在遭遇摩擦后迅速中止的图景，并将这一描述性频次误作因果守门人，凝结为一种流行文化神话：持续成长需要耐受所谓“高级苦”的精英禀赋。
 
 Activities commonly credited with generating long-term divergence—deliberate expansion of cognitive range, active assimilation of corrective feedback, and sustained exertion under delayed returns—remain open to anyone possessing ordinary attention, memory, and voluntary choice. Initiating these practices requires neither institutional accreditation nor rare genetic endowment. Divergence among individuals stems simply from whether an actor treats this operational openness as an available option for himself. Yet vast observational studies survey populations from a third-person balcony, record the rapid discontinuation of the majority upon encountering friction, and mistake this descriptive frequency for a causal gatekeeper, crystallizing in the popular cultural myth that sustained growth requires an elite endowment for enduring advanced pain.
 
 ## 一、 统计频率与单次抉择的因果绝缘 / 1. The Causal Insulation Between Frequencies and Singular Choice
 
-当对大量样本的微观选择进行长程追踪时，研究者确实会得到一个极其稳定的宏观分布：绝大多数受试者在极短的尝试后便选择中止，仅有极少数人能够跨越周期持续前行。然而，这一统计分布的几何形态，仅仅是对过往已经尘埃落定的历史决策的归纳摘要。宏观分布对于当下正准备做出选择的个体而言，其因果关系恰如大量独立抛掷硬币所形成的中心极限定理正态分布之于下一次抛掷。在充分多次的抛掷实验中，硬币正反两面的累计频次必然收敛于对称的钟形曲线；但这道钟形曲线既不能增加、也无法削弱下一次投掷呈现正面的客观概率。
+对大规模群体进行长周期追踪，会得出一个高度稳定的总体分布：绝大多数人在短暂窗口内便中止投入，仅余极少数人跨越复利周期持续前行。这一分布的几何形态，不过是对既成过往行动的描述性账本。它与下一次单次抉择之间的因果关系，恰如独立伯努利试验的正态分布之于即将抛出的下一枚硬币。根据中心极限定理，数百万次公平抛掷中正面朝上的比例收敛于以二分之一为中心的高斯曲线；但这条宏观曲线对下一次抛掷的机械概率不施加任何前向或后向的作用力。
 
 Tracking large cohorts over extended intervals yields a remarkably stable aggregate distribution: the vast majority discontinue effort within a brief window, leaving a slender minority who persist across compounding cycles. The geometric shape of this distribution represents nothing more than a descriptive ledger of completed past actions. It stands in the exact causal relation to the next singular choice as the normal distribution of independent Bernoulli trials stands to an upcoming coin flip. By the central limit theorem, the proportion of heads across millions of fair tosses converges on a Gaussian curve centered at one half; yet that macroscopic curve exerts zero forward or backward force on the mechanical odds of the next flip.
 
-同样，在人类行为领域，宏观观察所记录到的大多数人早早放弃的集中趋势，并不构成阻碍具体个人行动的物理藩篱。人群在统计层面的聚集频率，无法为当事人内心将预期收益与即时摩擦进行对比的算力模型提供任何直接的因果变量。群体退出的高频发生，是千千万万个独立个体在各自视界内权衡失败的残余沉淀，而非横亘在未竟行动前方的时间锁链。如果把描述群体状态的宏观参数逆向推导为微观个体的行动因果，就如同认定既然大部分硬币落在了均值区间，单枚硬币便失去了在下一次投掷中自由翻转的自由度。这种统计结论在非生命物理系统中是严谨的现象学记录，一旦越界干预具有主观选择能力的活态心智，便会催生出巨大的认知盲区。关于宏观统计签名如何遮蔽微观主权的机理，在探讨[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)时已有详尽的几何刻画。
+在自我区分活动无因且不息地发生的人类能动性中，观察到的早期退出集中趋势并不构成阻碍个体开启行动的物理壁垒。即便是一次机械抛币，也与过往试验的累积曲线保持因果绝缘，而活态心智甚至不是固定概率下的平稳抽样：在每一个当下步（+1），群体的总体频率都无法为行动者权衡预期回报与即时摩擦的局部核算提供任何因果输入。大面积的半途而废，不过是成百上千万个主权心智在各自当下权衡中做出中止决断后留下的统计残余——即[平均值是残余，不是引擎](../the-average-is-residue-not-the-engine/)所追踪的下游汇总——而非横亘在未竟行动前方的外部障碍。正如[幂律是正态分布的长期后果](../power-law-is-the-long-term-consequence-of-normal-distribution/)所展示的，当中心将残余摩擦视作更新判断的信号而非停步的借口时，微小的增量便会跨越周期复利累积，涌现为重尾分布中持续行动的少数派。将这些宏观参数逆向推导为对微观决策的约束，就如同断言既然硬币序列形成了高斯峰，单次投掷便丧失了正面朝上的自由度。观察统计提供的是对既成轨迹的描述性核算，它与当下抉择之间的双面边界已在[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)中得以形式化确立。
 
-In human agency, the observed concentration of early dropouts establishes no physical barrier against an individual initiating action. The aggregate frequency of a population supplies zero causal input to an actor's local computation weighing anticipated return against immediate friction. Widespread abandonment is simply the statistical residue of millions of sovereign minds resolving their immediate balances against continuation, rather than an external obstacle spanning the future of an ongoing task. Reversing macroscopic parameters into constraints on micro-decisions mirrors the error of asserting that because coin series form a Gaussian hump, an individual toss forfeits its freedom to land heads. Observational statistics provide rigorous accounting in inanimate systems, but breed immense confusion when deployed to govern subjective consciousness. The geometric mechanics of macroscopic statistical signatures obscuring microscopic sovereignty are formalized in [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/).
+In human agency, where self-distinguishing activity occurs uncaused and unceasing, the observed concentration of early dropouts establishes no physical barrier against an individual initiating action. Even a mechanical coin toss is causally insulated from the cumulative curve of prior trials, and a living Mind is not even a stationary draw with fixed odds: at each present step (+1), the aggregate frequency of a population supplies zero causal input to an actor's local reckoning weighing anticipated return against immediate friction. Widespread abandonment is simply the statistical residue of millions of sovereign minds resolving their immediate balances against continuation—the downstream aggregate traced in [The Average Is Residue, Not the Engine](../the-average-is-residue-not-the-engine/)—rather than an external obstacle spanning the future of an ongoing task. As [Power Law Is the Long-Term Consequence of Normal Distribution](../power-law-is-the-long-term-consequence-of-normal-distribution/) demonstrates, when centers treat residual friction as signal to update judgment rather than an excuse to stop, modest increments compound across cycles into the heavy-tailed minority of persistent actors. Reversing those macroscopic parameters into constraints on micro-decisions mirrors the error of asserting that because coin series form a Gaussian hump, an individual toss forfeits its freedom to land heads. Observational statistics provide descriptive accounting of completed trajectories, and their two-sided boundary with present choice is formalized in [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/).
 
 ## 二、 “吃高级苦”的归因倒错与第三人称盲区 / 2. The Attribution Inversion of "Advanced Pain" and the Third-Person Blind Spot
 
-流行文化与通俗成功学热衷于引用所谓长期追踪研究，声称人与人的分水岭在于能否忍受包括认知突围的苦、自律反省的苦与长期孤独的苦在内的高级痛苦。这种论调之所以极具欺骗性，是因为它将少数持续前行者所展现出的外部行为形态，倒错地重述为一种针对苦难的高阶承受天赋。第三人称观察者永远只能停留在行动者的身心外部，他们看到一个人长期伏案推演模型、主动请求严厉批评、拒绝低级即时满足，便凭借自身的体验投射，认定这些行为必然伴随着巨大的主观折磨。观察者推论道，既然绝大多数人无法承受这种折磨而选择退出，那么能够留下的人必然具备非同寻常的吃苦耐受力。
+流行论述热衷于借用纵向追踪研究，断言人与人的分化取决于能否忍受更高阶的困苦：认知迷失的刺痛、严苛自我修正的摩擦，以及漫长回馈延迟中的荒凉。这种表述之所以引发广泛共鸣，是因为它将持续行动者的外在姿态误归因于一种专门承受苦难的天赋。第三人称观察者始终处于当事人的体验外部；看到有人反复推演繁密模型、主动征求尖锐批评、拒绝廉价的即时消遣，观察者便将自身的畏惧投射到现场，想当然地认定这一过程必定带来剧烈的情绪折磨。观察者由此推论：既然多数人面对此类摩擦都会逃离，那么留下来持续前行的人必定具备精英级的痛苦耐受力。
 
 Popular discourse eagerly borrows from longitudinal studies to assert that human divergence hinges on enduring higher-order hardship: the sting of intellectual disorientation, the friction of rigorous self-correction, and the desolation of deferred validation. This formulation achieves pervasive resonance because it misattributes the outer demeanor of persistent actors to a specialized talent for suffering. A third-person observer remains permanently exterior to the subject; observing someone wrestling with dense models, soliciting scathing critique, and declining easy distractions, the observer projects his own dread onto the scene, presuming the process must inflict severe emotional agony. The observer deduces that because most people flee such friction, those who persist must possess an elite tolerance for pain.
 
-这种推论陷入了由观察视界决定的因果倒置。在第一人称的具身体感中，真正的长期持续从未建立在单纯忍耐痛苦的苦修地基之上。生命系统的热力学与神经机制决定了，任何被主观感知为单一受难的行动模式都具有极高的损耗性，不可避免地走向能量枯竭与系统崩溃。那些在探索中持续推进的个体，并非在咬牙咀嚼苦涩，而是因为他们在微观行动中捕捉到了未被外界察觉的巨大内在收益。对于他们而言，认知边界被冲破时的豁然开朗、消除逻辑漏洞时的自洽快感、以及对深层秩序的发现，提供了远超表面摩擦的即时愉悦净值。外部观察者眼中的枯燥苦行，在当事人的第一人称视界里，实质是收益远大于成本的丰盈过程。这种由于能力演进而导致体感与外部评判发生错位的现象，恰如[阻力体感与速率差](../felt-resistance-and-the-speed-differential/)所揭示的那样，体感阻力不过是速率差在认知界面的投影，而非阻挡前行的客观实体。
+这一推论陷入了由观察抽离所造成的因果倒置。在第一人称的切身体感中，持久的坚持从来不是靠苦行式的自我折磨维系的。在具身行动中，任何被体验为无补偿苦役的投入——即耗费能量去防卫冻结的自我意象、抗拒修正性反馈——都会耗尽代谢容量并触发系统性拒斥。那些在高要求路径上持续推进的人，并非在咬牙硬扛苦涩，而是因为在活边缘重绘内部模型时，获得了旁观者看不见的即时收益差。每一次矛盾的消解都会释放边界并扩展容量：洞见贯通时的豁然开朗、修正谬误时的认知对齐、以及捕捉到隐秘对称性时的把握感，都带来了远超表层摩擦的即时回报。在投射了框架防卫恐惧的局外人眼中看似煎熬的苦行，在行动者内部却是回报丰厚的发现之旅。这种切身体感与外部评估之间的错位，恰如[阻力体感与速率差](../felt-resistance-and-the-speed-differential/)所剖析的动力学：被感知到的阻力只是能力速率差在感官上的映射，而非迎面阻击的敌对力量。
 
 ```mermaid
 graph TD
-    subgraph S_ThirdPerson ["第三人称观察视界：结果倒错"]
+    subgraph S_ThirdPerson ["第三人称观察框架：事后倒置"]
         direction TB
         style S_ThirdPerson fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-        A1["观察行为遗迹：极少数人长期持续"] --> A2["外部归纳假说：需要非凡耐受力"]
-        A2 --> A3["发明概念实体：吃高级苦与特殊天赋"]
+        A1["观察到的行为残余：少数人持续行动"] --> A2["外部归纳假说：需要罕见耐受力"]
+        A2 --> A3["发明概念：高级苦与罕见禀赋"]
         style A1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
         style A2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
         style A3 fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
     end
-
-    A3 ==>|"遮蔽第一人称体验"| B1
-
-    subgraph S_FirstPerson ["第一人称行动视界：内在收益算力"]
+    A3 ==>|"遮蔽第一人称现实"| B1
+    subgraph S_FirstPerson ["第一人称行动框架：体感收益差核算"]
         direction TB
         style S_FirstPerson fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-        B1["当下的微观选择：开启下一轮投入"] --> B2["内在收益权衡：认知突破的激赏"]
-        B2 --> B3["超越即时摩擦：收益净值覆盖阻力"]
-        B3 --> B4["持续行动推进：非苦修式自然延展"]
+        B1["当下微观抉择：投入下一增量"] --> B2["体感收益差核算：认知突破的愉悦"]
+        B2 --> B3["越过即时摩擦：预期净收益差"]
+        B3 --> B4["行动展开：自然的生成性连续"]
         style B1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
         style B2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
         style B3 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -51,7 +49,7 @@ graph TD
     end
 ```
 
-This deduction collapses into an inversion born of observational detachment. Within first-person felt experience, enduring persistence is never sustained on stoic self-mortification. In embodied action, any exertion experienced as uncompensated suffering exhausts metabolic energy and triggers systemic refusal. Those who continue along demanding paths are not gritting their teeth against pure bitterness; they act because they register an immense internal surplus invisible to the bystander. The breakthrough of insight, the cognitive alignment of resolving an error, and the grasp of hidden symmetry deliver immediate rewards that dwarf surface friction. What looks like grueling austerity to an outsider is an internally lucrative discovery to the actor. This divergence between felt reality and external appraisal mirrors the dynamic analyzed in [Felt Resistance and the Speed Differential](../felt-resistance-and-the-speed-differential/): perceived resistance is a sensory reflection of capability differentials rather than an adversarial force.
+This deduction collapses into an inversion born of observational detachment. Within first-person felt experience, enduring persistence is never sustained on stoic self-mortification. In embodied action, any exertion experienced as uncompensated suffering—where energy is spent defending a frozen self-image against corrective feedback—exhausts metabolic capacity and triggers systemic refusal. Those who continue along demanding paths are not gritting their teeth against pure bitterness; they act because re-rendering the internal model at the edge registers an immediate surplus invisible to the bystander. Each dissolved contradiction frees boundary and expands capacity: the breakthrough of insight, the cognitive alignment of resolving an error, and the grasp of hidden symmetry deliver immediate rewards that dwarf surface friction. What looks like grueling austerity to an outsider projecting the dread of frame-defense is an internally lucrative discovery to the actor. This divergence between felt reality and external appraisal mirrors the dynamic analyzed in [Felt Resistance and the Speed Differential](../felt-resistance-and-the-speed-differential/): perceived resistance is a sensory reflection of capability differentials rather than an adversarial force.
 
 ```mermaid
 graph TD
@@ -64,9 +62,7 @@ graph TD
         style A2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
         style A3 fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
     end
-
     A3 ==>|"Obscures First-Person Reality"| B1
-
     subgraph S_FirstPerson ["First-Person Action Frame: Felt Surplus Reckoning"]
         direction TB
         style S_FirstPerson fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -82,39 +78,37 @@ graph TD
 
 ## 三、 归因让渡与自证预言的闭环 / 3. Surrendered Attribution and the Self-Fulfilling Loop
 
-统计模式之所以展现出某种宛如铁律的支配力量，其根源在于行动者进行了一项额外的自由选择：主动将自身的微观决断归因于外部统计规律。当一个人在认知拓展中遭遇挫败感时，他能够自主选择如何解释这一停滞。如果他指向外部的统计分布，援引绝大多数人都会放弃的社会事实，或者宣称坚持需要某种自己先天不具备的受苦天赋，这一解释本身便是一次主权意愿的行使。然而，一旦完成了这种归因，微观决策的权衡方程便被深刻改写：行动被预先设定为注定失败，预期的内在收益被迅速归零，原本正常的过渡性摩擦被无限放大为无法逾越的天堑，放弃随之成为顺理成章的选择。
+统计模式之所以显得具有某种强制支配力，源于行动者的一项自愿抉择：决定将自身的犹豫归因于外部群体指标。当个体直面摩擦时，他自主选择如何框定眼前的受阻。如果他援引人口统计分布，声称大多数人都会半途而废，或宣称坚持需要某种自己先天匮乏的遗传体质，这一解释本身就是一次能动性的行使。然而，一旦采纳了这种归因，权衡比对便被改写：行动被贴上徒劳的标签，预期收益差瞬间蒸发，原本暂时的过渡性摩擦膨胀为不可逾越的高墙，中止行动随之发生。
 
 The impression that statistical patterns wield coercive power springs from a voluntary choice: an agent's decision to attribute his own hesitation to external population metrics. When an individual confronts friction, he chooses how to frame his struggle. If he invokes demographic patterns, asserting that most people quit or claiming persistence demands a genetic constitution he lacks, that explanation is itself an act of agency. Yet once adopted, this attribution revises the comparison: the activity is branded futile, anticipated surplus evaporates, transient friction swells into an insuperable wall, and discontinuation follows.
 
-这种归因让渡在人群中引发了自我强化的共振闭环。正因为归因行为是可选的，绝大多数人在接触到将分化归咎于特殊天赋或高级痛苦的研究结论时，倾向于全盘接受这套免责解释。既然科学权威与长程数据已经断言只有百分之一的特殊个体能够撑过这些苦难，那么普通人选择停下脚步就不仅无可厚非，反而是理性的常态。这种群体心理机制促成了更大规模的退出，从而在统计层面进一步夯实了持续者极为罕见的数据分布。关于借助概念外壳进行心理免责以回避微观选择的动力学，在分析[自尊的刚性外壳与隐性外部归因](../zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/)时已被精准解构。所谓的研究结论通过提供一个极具说服力的外部借口，参与塑造了它自称只是中立记录的现实，形成了经典而荒谬的自证预言。
+这种归因让渡点燃了自我强化的社会闭环。正因为解释方式是可选的，多数人在接触到将个体分化框定为受苦禀赋的研究时，便迫切地拥抱这一免责托词，演算出[统计学无法揭示的心智](../the-mind-that-statistics-cannot-reveal/)所追踪的自我撇清式归因。既然实证研究宣称仅有百分之一的人具备耐受高级苦的禀赋，中途退出便不再是一项未被做出的抉择，而成了标准的生物学常态。这种集体归因推动了更大规模的中止，在进一步固化退出曲线重尾分布形态的同时，也按[规程的倒置与因果回路的消声](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/)所揭示的方式，将个体当下的即时反馈回路消声。借由外化标签来庇护自我评价的动力学，已在[自尊的刚性外壳与隐性外部归因](../zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/)中得以剖析。科学宣称通过提供体面的外部借口，亲手制造出了它自称只是在旁观记录的行为偏态。
 
 ```mermaid
 graph TD
     subgraph S_Trap ["自证预言的归因陷阱"]
         direction TB
         style S_Trap fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-        T1["面对认知摩擦与反馈延迟"] --> T2["采信外部统计叙事：仅极少数人能耐受高级苦"]
-        T2 --> T3["自由让渡归因主权：自认缺乏特殊禀赋"]
-        T3 --> T4["预期内在收益折损：摩擦主导感知"]
-        T4 --> T5["微观决策选择中止：退出行动回路"]
-        T5 --> T6["群体统计频次固化：形成高淘汰率表象"]
-        T6 -->|"强化统计结论"| T2
+        T1["遭遇认知摩擦与反馈延迟"] --> T2["采信统计叙事：需要罕见耐受力"]
+        T2 --> T3["自愿转移归因：宣称匮乏特殊禀赋"]
+        T3 --> T4["预期收益差坍缩：摩擦主导感知"]
+        T4 --> T5["微观抉择选中中止"]
+        T5 --> T6["总体频次固化：高退出残余"]
+        T6 -->|"强化统计宣称"| T2
         style T1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
         style T2 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
         style T3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
         style T4 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-        style T5 fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
+        style T5 fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f0f6fc
         style T6 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     end
-
-    T6 ==>|"单向解耦切断循环"| C1
-
+    T6 ==>|"单向解耦打破闭环"| C1
     subgraph S_Sovereign ["主权微观闭环"]
         direction TB
         style S_Sovereign fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-        C1["单次微观抉择"] --> C2["阻断统计频率的因果投射"]
-        C2 --> C3["专注第一人称收益发现"]
-        C3 --> C4["正向净收益跨越局部阻力"]
+        C1["单次微观抉择"] --> C2["与群体统计频率绝缘"]
+        C2 --> C3["聚焦第一人称收益差发现"]
+        C3 --> C4["内在净收益跨越局部摩擦"]
         style C1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
         style C2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
         style C3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -122,7 +116,7 @@ graph TD
     end
 ```
 
-This surrendered attribution ignites a self-reinforcing societal loop. Because explanations are optional, the majority who encounter research framing divergence as an endowment of suffering eagerly embrace the alibi. If empirical studies proclaim that only one percent possess the endurance for advanced pain, dropping out ceases to be an unmade choice and becomes standard biology. This collective attribution drives further discontinuation, entrenching the heavy-tailed statistical profile of the dropout curve. The dynamics of shielding self-regard through externalized labels are analyzed in [Rigid Shell of Self-Esteem and Latent External Attribution](../zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/). The scientific claim, by offering a prestigious external excuse, manufactures the very behavioral skew it purports to merely observe.
+This surrendered attribution ignites a self-reinforcing societal loop. Because explanations are optional, the majority who encounter research framing divergence as an endowment of suffering eagerly embrace the alibi, enacting the self-disowning attribution traced in [The Mind That Statistics Cannot Reveal](../the-mind-that-statistics-cannot-reveal/). If empirical studies proclaim that only one percent possess the endurance for advanced pain, dropping out ceases to be an unmade choice and becomes standard biology. This collective attribution drives further discontinuation, entrenching the heavy-tailed statistical profile of the dropout curve while silencing the individual's immediate feedback loop in the manner of [The Inversion of the Protocol and the Silencing of the Causal Loop](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/). The dynamics of shielding self-regard through externalized labels are analyzed in [The Rigid Shell of Self-Esteem and Hidden External Attribution](../zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/). The scientific claim, by offering a prestigious external excuse, manufactures the very behavioral skew it purports to merely observe.
 
 ```mermaid
 graph TD
@@ -142,9 +136,7 @@ graph TD
         style T5 fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
         style T6 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     end
-
     T6 ==>|"Unilateral Decoupling Breaks Loop"| C1
-
     subgraph S_Sovereign ["Sovereign Micro-Loop"]
         direction TB
         style S_Sovereign fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -160,10 +152,10 @@ graph TD
 
 ## 四、 主权抉择的局部性与统计神话的消解 / 4. The Locality of Sovereign Choice and the Dissolution of Statistical Myths
 
-整个行动因果链条在每一个微观切面上都是局部的。一项提升认知、直面反馈或积累复利的行为是否可行，全凭处在决策现场的个体是否将其视作为自身敞开的通道。旁人的信念与群体的退出率，仅仅作用于那些做出退缩决定的人自身的权衡体系。他人哪怕成千上万次宣告这条道路充斥苦难、需要超自然毅力，也不会改变你所面对的下一个微观决策的物理与逻辑结构。统计数据刻画的是已经发生的事实总和，它对当下这个未经坍缩的微观主权变量不具备任何强制裁决权。将选择主权从统计神话中收回的深层规律，在[让渡主权的幂律法则](../the-power-law-of-surrendered-agency/)中展现为个体微观解耦对宏观垄断的单向超越。
+行动的因果链条在每一个增量上都保持局部性。一项拓宽理解、吸纳摩擦或复利积累能力的活动是否可用，全凭行动者是否将其视作向自身敞开的选项。他人的信念及其投入的统计折损率，仅支配那些人自己所执行的权衡比对。即便成百上千万人都宣告深度成长需要超人般的苦修，这一共识也既不会改变个体所面对的下一个决策的认知物理机制，也不会更改其逻辑参数。统计汇总刻画的是过往不可更改的既成结果，它对当下尚未坍缩的抉择没有任何管辖权。从统计神话中收回能动性，呼应了[让渡主权的幂律法则](../the-power-law-of-surrendered-agency/)所阐明的结构性解耦：个体的单向拒绝足以跨越宏观吸引子。
 
-The causal chain of action remains local at every increment. Whether an activity that expands understanding, integrates friction, or compounds competence is available depends entirely on whether the agent treats it as open to himself. The beliefs of others and the statistical mortality of their efforts govern only the comparisons those others execute. Even if millions proclaim that deep growth requires superhuman asceticism, their consensus alters neither the cognitive physics nor the logical parameters facing your next decision. Statistical aggregations describe unalterable outcomes of the past; they hold zero jurisdiction over an uncollapsed present choice. Reclaiming agency from statistical mythology echoes the structural decoupling demonstrated in [The Power-Law of Surrendered Agency](../the-power-law-of-surrendered-agency/), where unilateral individual refusal transcends aggregate attractors.
+The causal chain of action remains local at every increment. Whether an activity that expands understanding, integrates friction, or compounds competence is available depends entirely on whether the agent treats it as open to himself. The beliefs of others and the statistical mortality of their efforts govern only the comparisons those others execute. Even if millions proclaim that deep growth requires superhuman asceticism, their consensus alters neither the cognitive physics nor the logical parameters facing the individual's next decision. Statistical aggregations describe unalterable outcomes of the past; they hold zero jurisdiction over an uncollapsed present choice. Reclaiming agency from statistical mythology echoes the structural decoupling demonstrated in [The Power-Law of Surrendered Agency](../the-power-law-of-surrendered-agency/), where unilateral individual refusal transcends aggregate attractors.
 
-摆脱观察性研究的虚假因果，并不是要否认探索过程中必然存在的摩擦与迷茫，而是要破除将这些摩擦实体化为所谓高级苦的道德迷信。认知突破不需要英雄主义式的苦肉计，它所需要的是诚实地回归第一人称视角，去体会每一次理解加深时所释放的真实愉悦。当一个人不再向第三人称的群体分布索要行动许可，不再用缺乏耐受天赋来为怯懦推脱，他便能从虚妄的苦难崇拜中抽身，让心智重新落脚于真实的内在收益。统计图表上的钟形曲线会继续静止在历史的故纸堆里，而真正的生命历程，永远只在每一个拒绝交出解释权的当下展开。群体统计与历史档案正是[闭合的N与开放的现实](../the-closed-n-and-the-open-reality/)里的闭合 N 与[你的代码库即是记忆](../your-codebase-is-memory/)中的外化记忆痕迹；行动永远发生在活边缘那片敞开的余量之中。
+消解观察性研究的因果僭越，并非否认掌握高难度领域所固有的摩擦，而是移除将这种摩擦实体化为所谓“高级苦”的事后投射。认知分化不需要戏剧化的自我折磨，它依托于直接回归第一人称感知记录：在那里，不断拓展的清晰度与释放的容量超过了迈出这一步的代价。当行动者不再向群体均值索取印证，也不再援引罕见耐受力的匮乏来合理化停步，他便走出了受苦崇拜，将行动投入锚定在切身感知的收益差之上。观察统计的高斯钟形曲线依然镌刻在事后账本上——正如[闭合的N与开放的现实](../the-closed-n-and-the-open-reality/)中的闭合 N 与[你的代码库即是记忆](../your-codebase-is-memory/)中的外化记忆痕迹，只记录已完成的步伐而不操控下一步的走向——而活态能动性则在当下边缘那片敞开的余量中展开，无须向任何外部统计分布交账。
 
-Shattering the pseudo-causality of observational studies does not deny the friction inherent in mastering challenging terrain; it dismantles the moralizing dogma that reifies this friction into advanced pain. Intellectual divergence requires no theatrical martyrdom; it demands only an honest return to first-person sensitivity, registering the lucid delight of expanding clarity. When an actor ceases to seek validation from population averages, and halts invoking a lack of rare endurance to rationalize pause, he steps outside the cult of suffering and anchors effort in genuine surplus. The Gaussian bells of observational statistics remain etched across retrospective ledgers—the closed N of [The Closed N and the Open Reality](../the-closed-n-and-the-open-reality/) and the externalized memory traces of [Your Codebase Is Memory](../your-codebase-is-memory/) that record completed steps without steering the next—while living agency unfolds in the open remainder at the immediate edge, answerable to no external distribution.
+Dissolving the causal overstep of observational studies does not deny the friction inherent in mastering challenging terrain; it removes the retrospective projection that reifies this friction into advanced pain. Intellectual divergence requires no theatrical self-mortification; it rests on a direct return to first-person registration, where expanding clarity and freed capacity outweigh the cost of the step. When an actor ceases to seek validation from population averages and stops invoking a lack of rare endurance to rationalize stopping, he steps outside the cult of suffering and anchors effort in felt surplus. The Gaussian bells of observational statistics remain etched across retrospective ledgers—the closed N of [The Closed N and the Open Reality](../the-closed-n-and-the-open-reality/) and the externalized memory traces of [Your Codebase Is Memory](../your-codebase-is-memory/) that record completed steps without steering the next—while living agency unfolds in the open remainder at the immediate edge, answerable to no external distribution.
