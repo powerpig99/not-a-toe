@@ -18,25 +18,25 @@ Discussing any theory, building any model or trying to understand the world is b
 
 其一，现实遵循严格的因果与逻辑。[因果贯穿始终](../causality-all-the-way/)确立了这个机制：因果不是客体之间神秘的拉扯，而是活着的心智在离散的行动中，对自身历史痕迹单向塑造的确认；在讨论中抽掉逻辑因果，一切建立模型、提炼经验、做出决策与推演规律的行为都失去根基。其二，一切认知终究来自第一人称视角。任何理论的提出者或行动主体，在任何时空截面上的观察、判断与抉择，都离不开自己心智系统的内部映射、先验假设与当下的认知边界；[表征的闭环](../the-closed-loop-of-representation/)揭示了这种封闭的经济：不存在脱离主体认知模型的纯客观上帝视角，每一个心智中心只能基于自己的内部表征做出判断。
 
-First, reality follows strict causality and logic. [Causality All the Way](../causality-all-the-way/) establishes the mechanism: causality is not a mysterious pull between objects but the living Mind's confirmation, in discrete acts, of the one-way shaping of its own historical traces; remove logical causality from the discussion and every act of building models, distilling experience, making decisions and deriving regularities loses its ground. Second, all understanding comes in the end from the first-person view. Any proposer of a theory or acting subject, at any cross-section of time and space, observes, judges and chooses through the inner mapping, prior assumptions and present cognitive boundary of their own Mind; [The Closed Loop of Representation](../the-closed-loop-of-representation/) reveals this closed economy: there is no purely objective God's-eye view detached from a subject's cognitive model, and each centre of Mind can judge only from its own inner representation.
+First, reality follows strict causality and logic. [Causality All the Way](../causality-all-the-way/) establishes the mechanism: causality is not a mysterious pull between objects but the living Mind's confirmation, in discrete acts, of the one-way shaping of its own historical traces; remove logical causality from the discussion and every act of building models, distilling experience, making decisions, and deriving regularities loses its ground. Second, all understanding comes in the end from the first-person view. Any proposer of a theory or acting subject, at any cross-section of time and space, observes, judges, and chooses through the inner mapping, prior assumptions, and present cognitive boundary of their own Mind; [The Closed Loop of Representation](../the-closed-loop-of-representation/) reveals this closed economy: there is no purely objective God's-eye view detached from a subject's cognitive model, and each center of Mind can judge only from its own inner representation.
 
-在这两个前提的约束下，在微观决策主体之内，每一次选择都是确定而自洽的因果闭环。统计的权威标签同样背书不了真理，[从形式迷思到逻辑闭环](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)对此有所论述。在严格的第一人称视角下，世界上并不存在所谓的“非理性”；外部观察者眼中的“愚蠢”“冲动”或“不可理喻”，只来自外部观察者与内部决策者之间的坐标系错位、评价标准的分歧，以及信息维度的严重截断。
+这两个前提本是一体两面——第一人称的当下切面登记着有限的区分集合，开放的因果潜能正是由此向外延展；受二者约束，在微观决策主体之内，每一次选择都构成确定而自洽的因果闭环。形式或统计标签的光环同样不能从外部凌驾于这道内部闭环之上，正如[从形式迷思到逻辑闭环](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)所追溯：在严格的第一人称视角下，世界上并不存在所谓的“非理性”，外部观察者眼中的“愚蠢”“冲动”或“不可理喻”，只来自外部观察者与内部决策者之间的坐标系错位、评价标准的分歧，以及信息维度的严重截断。
 
-Under these two premises, within the micro deciding subject, each choice is a determinate and consistent causal loop. The authority of a statistical label cannot vouch for truth either, as [From the Myth of Form to the Closed Loop of Logic](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/) discusses. From a strict first-person view there is no "irrationality" in the world; the "foolishness", "impulsiveness" or "unreasonableness" in an outside observer's eyes comes only from the misalignment of coordinate systems between the outside observer and the inner decider, from differences in standards of evaluation, and from a severe truncation of informational dimensions.
+Under these two premises—which are two faces of one coin, since the first-person present registers the finite collection of distinctions through which open causal potential extends—each choice within the micro deciding subject forms a determinate, internally consistent causal loop. Nor can the prestige of a formal or statistical label override that inner loop from outside, as [From the Myth of Form to the Closed Loop of Logic](../cong-xing-shi-mi-si-dao-luo-ji-bi-huan/) traces: from a strict first-person view there is no "irrationality" in the world, and what an outside observer calls "foolishness," "impulsiveness," or "unreasonableness" comes only from the misalignment of coordinate systems between the outside observer and the inner decider, from differences in standards of evaluation, and from a severe truncation of informational dimensions.
 
 ## 二、 自由意志的测不准 / 2. The Uncertainty of Free Will
 
 决定论者最常引用的论据是：对海量人群的行为做宏观统计时，个人的数据常呈现出类似布朗运动或独立随机游走的特征，据此断言个人所谓的自由意志并不存在，一切只是概率的掷骰。这个推论犯了一个逻辑倒错：它把“第三人称观测信息的缺失”，等同于“第一人称因果的缺位”。
 
-Determinists most often cite this argument: when the behaviour of vast populations is measured statistically at the macro level, individual data often look like Brownian motion or an independent random walk, and from this they declare that so-called individual free will does not exist and all is a throw of the probabilistic dice. The inference makes a logical inversion: it equates "the absence of third-person observational information" with "the absence of first-person causation".
+Determinists most often cite this argument: when the behavior of vast populations is measured statistically at the macro level, individual data often look like Brownian motion or an independent random walk, and from this they declare that so-called individual free will does not exist and all is a throw of the probabilistic dice. The inference makes a logical inversion: it equates "the absence of third-person observational information" with "the absence of first-person causation."
 
-从内部看，第一人称的确定性成立：当一个人有完整的控制权、做出不受外部强行操控的自主选择时，这个决定由其独特的内部估值模型、历史记忆的痕迹与当下的目标函数严格推出，因此在微观的内部，这个过程有十足的因果必然。从外部看，第三人称的最大信息熵显现：外部观察者永远无法获取这个主体脑海里全部的微观变量、隐性偏好、情绪权重与历史上下文，这个求解过程对外部是一个穿不透的黑盒；外部系统无法建立从“外部环境输入”到“个人行为输出”的机械确定的函数映射，所以在外部的统计观测上，这个自主的决策必然呈现出与纯随机过程，即最大信息熵，一致的数学特征。
+从内部看，第一人称的确定性成立：当一个人做出不受强迫的自主选择时，活着的心智以自身独特的估值模型、留存的记忆痕迹与当下的目标作为生效的前提来划出决定，因此在微观的内部，这一步具有内在的自洽与因果必然，而非无序的抽搐。从外部看，第三人称的最大信息熵显现：外部观察者既无法获取这个主体脑海里全部的微观变量、隐性偏好、情绪权重与历史上下文，也无法占据在抉择行动中权衡并重绘这些要素的当下边缘。正如[确定性是微观不确定性的统计签名](../determinism-is-the-statistical-signature-of-micro-indeterminism/)所追溯，外部的不可预测并非只是对黑盒内某套预先写死的机械脚本缺乏了解，而是鲜活的第一人称切分在跨视界观测中的显现；因为没有任何外部系统能建立从“外部环境输入”到“个人行为输出”的机械确定的函数映射，所以在外部的统计观测上，这个自主的决策必然呈现出与纯随机过程，即最大信息熵，一致的数学特征。
 
-From the inside, first-person determinacy holds: when a person has full control and makes an autonomous choice not forcibly manipulated from outside, the decision follows strictly from their unique inner model of valuation, the traces of historical memory and the present objective function, so within the micro interior the process has full causal necessity. From the outside, third-person maximal information entropy appears: an outside observer can never obtain all the micro variables, hidden preferences, emotional weights and historical context in this subject's head, making the solving process an impenetrable black box to the outside; because no outside system can build a mechanically determinate function from "outside environmental input" to "individual behavioural output", in outside statistical observation this autonomous decision necessarily shows mathematical features identical to a purely random process, maximal information entropy.
+From the inside, first-person determinacy holds: when a person exercises uncoerced autonomy, the living Mind draws the decision through its unique valuation model, retained traces of memory, and present objective as its active premise, so within the micro interior the step registers with full internal coherence and causal necessity rather than as an erratic spasm. From the outside, third-person maximal information entropy appears: an outside observer can neither obtain all the micro variables, hidden preferences, emotional weights, and historical context in this subject's head nor occupy the present edge that weighs and re-renders them in the act of choosing. As [Determinism is the Statistical Signature of Micro-Indeterminism](../determinism-is-the-statistical-signature-of-micro-indeterminism/) traces, external unpredictability is not mere ignorance of a pre-fixed mechanical script hidden inside a black box, but the across-horizon registration of a live first-person cut; because no outside system can build a mechanically determinate function from "outside environmental input" to "individual behavioral output," in outside statistical observation this autonomous decision necessarily shows mathematical features identical to a purely random process, maximal information entropy.
 
 外部表现为随机，正是微观自由意志存在的数学证明。如果一个人的行为在外部可以被公式十足精确地预测，恰恰证明其决策机制已被外部的环境变量焊死，成了没有自主心智的机械齿轮；只有当一个人拥有不可剥夺的微观主权、由自己的内部模型驱动决策时，外部系统才只能以“统计随机”的形式在宏观上度量它。[翻袋球与魔术戏法](../the-bank-shot-and-the-magic-trick/)用台球桌上的库边反弹与魔术戏法揭示了这道断层：外部学者统计成千上万次业余击球、画出正态的钟形曲线时，断言进球纯属随机运气；而真正站在球台前推演反射几何、经过千百小时第一人称训练的球手清楚，高难度的反弹进球，是内在精准的模型与身体刻意练习的确定因果。在外是随机，在内是抉择，[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)说明了这两面怎样属于同一个行动。
 
-Appearing random from outside is precisely the mathematical proof that micro free will exists. If a person's behaviour could be predicted from outside by formula with full precision, that would prove their decision mechanism had been welded shut by outside environmental variables, a mechanical gear without an autonomous Mind; only when a person holds inalienable micro sovereignty, with decisions driven by their own inner model, can an outside system measure them at the macro level only in the form of "statistical randomness". [The Bank Shot and the Magic Trick](../the-bank-shot-and-the-magic-trick/) reveals this fault line with the cushion rebounds of the billiard table and the magician's trick: when outside scholars tally thousands of amateur strokes and draw a normal bell curve, they declare pocketing a ball pure chance; yet the player who really stands at the table working out the geometry of reflection, after thousands of hours of first-person practice, knows that a difficult bank shot is the determinate causality of a precise inner model and deliberate bodily practice. Random outside, choice inside, and [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) shows how both faces belong to one act.
+Appearing random from outside is precisely the mathematical proof that micro free will exists. If a person's behavior could be predicted from outside by formula with full precision, that would prove their decision mechanism had been welded shut by outside environmental variables, a mechanical gear without an autonomous Mind; only when a person holds inalienable micro sovereignty, with decisions driven by their own inner model, can an outside system measure them at the macro level only in the form of "statistical randomness." [The Bank Shot and the Magic Trick](../the-bank-shot-and-the-magic-trick/) reveals this fault line with the cushion rebounds of the billiard table and the magician's trick: when outside scholars tally thousands of amateur strokes and draw a normal bell curve, they declare pocketing a ball pure chance; yet the player who really stands at the table working out the geometry of reflection, after thousands of hours of first-person practice, knows that a difficult bank shot is the determinate causality of a precise inner model and deliberate bodily practice. Random outside, choice inside, and [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) shows how both faces belong to one act.
 
 这就是自由的测不准：内部主权的确定越高，外部测量的表观熵值越大。
 
@@ -44,12 +44,12 @@ Appearing random from outside is precisely the mathematical proof that micro fre
 flowchart TD
     subgraph S_In["第一人称之内"]
         direction TB
-        I1["内部模型、记忆痕迹与目标函数"]
+        I1["内部模型、记忆痕迹与目标作为生效前提"]
         I2["确定而自洽的抉择"]
     end
     subgraph S_Out["第三人称之外"]
         direction TB
-        O1["变量取不全，黑盒穿不透"]
+        O1["外部无法触及内部变量与当下切分"]
         O2["测得的是统计随机"]
     end
     I1 --> I2
@@ -69,12 +69,12 @@ This is the uncertainty of freedom: the higher the determinacy of inner sovereig
 flowchart TD
     subgraph S_In["Within the first person"]
         direction TB
-        I1["Inner model, traces of memory, objective function"]
+        I1["Inner model, memory traces, and objective as active premise"]
         I2["A determinate, consistent choice"]
     end
     subgraph S_Out["Outside, in the third person"]
         direction TB
-        O1["Variables out of reach, the black box opaque"]
+        O1["Inner variables and live cut inaccessible from outside"]
         O2["What is measured is statistical randomness"]
     end
     I1 --> I2
@@ -108,7 +108,7 @@ By the limiting properties of the binomial distribution and the central limit th
 
 ### 3. 幂律分布的跃迁 / 3. The Leap to the Power Law
 
-实际的生活与商业决策，不是单次独立的抛硬币，而是跨轮次的动态演进。个人的决策自相关，从来不是在封闭真空里的单机运算，而是借与外部物质世界具体的反馈回路维持的：行动者运行自己的内在逻辑，把动作输出到现实世界，接收现实因果的反馈，再据此向内校准内在逻辑。把抉择客体化为“大 Ego”，是对微观主权的另一种遮蔽，[自尊的刚性外壳与隐性外部归因](../zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/)对此有所剖析。
+实际的生活与商业决策，不是单次独立的抛硬币，而是跨轮次的动态演进。个人的决策自相关，从来不是在封闭真空里的单机运算，而是借与外部物质世界具体的反馈回路维持的：行动者运行自己的内在逻辑，把动作输出到现实世界，接收现实因果的反馈，再据此向内校准内在逻辑。把抉择客体化为“大我”，是对微观主权的另一种遮蔽，[自尊的刚性外壳与隐性外部归因](../zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/)对此有所剖析。
 
 Actual decisions in life and business are not single independent coin tosses but dynamic evolution across rounds. An individual's autocorrelation of decisions is never a standalone computation in a closed vacuum but is sustained through concrete feedback loops with the outside material world: the actor runs their own inner logic, outputs action into the world, receives reality's causal feedback, and calibrates their inner logic inward by it. Objectifying choice into a "big Ego" is another way of covering micro sovereignty, dissected in [The Rigid Shell of Self-Esteem and Hidden External Attribution](../zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin/).
 
@@ -128,15 +128,15 @@ In society, many explanations of economic, class and historical phenomena are ca
 
 The world is full of blurred feedback and delayed signals, which is exactly what triggers the mental model to raise the precision of its calibration, not an excuse to stop looking inward.
 
-在向外归因的退化中，把意外与失败归于外部环境、体制阻碍或运气不济，虽然最省力地维护了已有心智模型的封闭自洽，却在数学的机制上主动切断了跨轮次决策正向的自相关；放弃了乘性复利，就会重新滑回孤立的随机游走者，最终跌回均值回归的中段。反之，向内校准的进化始于承认既有模型有单比特的溢出，并在第一人称的决策循环里，借每一次具体的试错主动拓宽认知的比特位宽，完成系统的升维与重塑。
+在向外归因的退化中，把意外与失败归于外部环境、体制阻碍或运气不济，虽然最省力地维护了已有心智模型的封闭自洽，却在数学的机制上主动切断了跨轮次决策正向的自相关；正如[幂律是正态分布的长期后果](../power-law-is-the-long-term-consequence-of-normal-distribution/)所追溯，把残差外化出去而不是作为损失信号来更新判断，会让后续的增量停滞，放弃乘性复利而重新滑回均值回归中段里孤立的随机游走者。反之，向内校准的进化始于察觉既有模型出现了单比特的溢出，并在第一人称的决策循环里，借每一次具体的试错主动拓宽认知的比特位宽——这种注入自由变量、延展运作视界的取向，正如[可延展的地平线](../the-extendable-horizon/)所揭示，在系统的任何坐标处都始终敞开，同时守住一条边界：宏观分布记录的只是过往的沉淀与境遇，而非编写下一次抉择的作者。
 
-In the decline of outward attribution, putting surprises and failures down to the outside environment, institutional obstacles or bad luck preserves the existing model's closed consistency with the least effort, yet by the mathematical mechanism actively cuts the positive autocorrelation of decisions across rounds; giving up multiplicative compounding, one slips back into an isolated random walker and in the end falls back into the middle band of regression to the mean. Conversely, the evolution of inward calibration begins by admitting that the existing model has a single-bit overflow, and within the first-person loop of decision actively widens the bit-width of understanding through each concrete trial and error, completing a raising of dimension and a reshaping of the system.
+In the decline of outward attribution, putting surprises and failures down to the outside environment, institutional obstacles, or bad luck preserves the existing model's closed consistency with the least effort, yet by the mathematical mechanism actively cuts the positive autocorrelation of decisions across rounds; as [Power Law Is the Long-Term Consequence of Normal Distribution](../power-law-is-the-long-term-consequence-of-normal-distribution/) traces, externalizing residual error instead of using it as a loss signal to update judgment leaves subsequent increments static, giving up multiplicative compounding and slipping back into an isolated random walker in the middle band of regression to the mean. Conversely, the evolution of inward calibration begins by registering that the existing model has a single-bit overflow, and within the first-person loop of decision actively widens the bit-width of understanding through each concrete trial and error—an orientation toward injecting a free variable and extending the working horizon that, as [The Extendable Horizon](../the-extendable-horizon/) shows, remains open at any coordinate in the system while holding the boundary that macroscopic distributions record past sediment and circumstance rather than authoring the next choice.
 
 [目的性的评判与认知的缺省状态](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/)与[自我价值感与所有权](../ownership-and-self-worthiness/)守住了这道主权的防线：只有认领全部的解释权与因果责任，个人的认知进化才有发力的支点。
 
 [Judging by Purpose and the Default State of Cognition](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) and [Ownership and Self-Worthiness](../ownership-and-self-worthiness/) hold this line of sovereignty: only by claiming the whole right of interpretation and causal responsibility does a person's cognitive evolution have a working fulcrum.
 
-## 六、 结论 / 6. Conclusion
+## 六、 统计波纹与第一人称因果杠杆 / 6. Statistical Ripples and the First-Person Causal Lever
 
 人类社会并没有脱离个人、自我驱动的“宏观客观规律”；宏观层面的正态分布与幂律长尾，都是底层微观自由选择在时间维度里的统计波纹。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)确立了清楚的认知坐标：逻辑因果是理解世界离不开的必要约束，第一人称视角下的微观二元选择，是整个复杂巨系统中唯一的独立自变量。
 

@@ -285,7 +285,7 @@ Sivers' method of adding only what need has proven is of use in guarding against
 
 Musk assumes the present model is partly wrong and treats an explosion as loss signal, which is of use in turning every outcome into the next engineering step and compounding iterations per unit of time; it reaches its boundary in that "physics is the law" joins the written model, the friction of operation and reality itself, so the prior of being wrong stops there and a model is taken as law.
 
-→ [失败即信息 / Failure as Information](../../posts/failure-as-information/) · [“物理学才是定律”的障眼法 / The Sleight of Hand in "Physics Is the Law"](../../posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) · [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/) · [关闭选择权的代价 / The Price of Closing Optionality](../../posts/the-price-of-closing-optionality/) · [词元与观测边界 / Tokens and the Observational Boundary](../../posts/tokens-and-the-observational-boundary/)
+→ [失败即信息 / Failure as Information](../../posts/failure-as-information/) · [“物理学才是定律”的障眼法 / The Sleight of Hand in "Physics Is the Law"](../../posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) · [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/) · [关闭选择权的代价 / The Price of Closing Optionality](../../posts/the-price-of-closing-optionality/) · [词元与观测边界 / Tokens and the Observational Boundary](../../posts/tokens-and-the-observational-boundary/) · [最小化路径 / The Minimizing Path](../../posts/minimizing-path/)
 
 ### 认知谦逊 / Epistemic Humility
 `哲学 / Philosophical`
@@ -4463,7 +4463,7 @@ Seeking static clarity presumes truth is a stable monument reached by peeling aw
 
 Software engineering assumes comprehensive specs can fully define system behavior; documentation only records the delta of unshared assumptions, resting on living context.
 
-→ [活的语境 / The Living Context](../../posts/the-living-context/)
+→ [活的语境 / The Living Context](../../posts/the-living-context/) · [最小化路径 / The Minimizing Path](../../posts/minimizing-path/)
 
 ### 统计总量作为因果力量 / Statistical Aggregates as Causal Forces
 `科学 / Scientific`

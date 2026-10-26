@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-26T04:40:36.571Z",
+    "generated_at": "2026-10-26T05:12:12.261Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -62,8 +62,8 @@
       "content/posts/data-is-local-intelligence-is-allocated.md": "add6923af446",
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "6ef0fd1e62bc",
       "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "434ad917ad64",
-      "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "e15614705dff",
-      "content/posts/dimensions-are-projections.md": "4e5cf6607b3f",
+      "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "b2e4aff56800",
+      "content/posts/dimensions-are-projections.md": "a2cfb53dce83",
       "content/posts/distillation-compression-agency.md": "a69508711063",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "b64fa4420bd4",
       "content/posts/dynamic-resnet-of-skill-loops.md": "221e2ed55ce5",
@@ -124,7 +124,7 @@
       "content/posts/meaning-of-life-refined.md": "e343fa3cccc6",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "4148fc7c14e3",
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "9a326be23d1c",
-      "content/posts/minimizing-path.md": "90053fab1dbc",
+      "content/posts/minimizing-path.md": "a503ebe540f6",
       "content/posts/mises-state-analysis.md": "fe24d656c147",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "775b85adfbd2",
       "content/posts/moral-language-as-projection.md": "ec504bfff397",
@@ -141,7 +141,7 @@
       "content/posts/not-a-theory-of-everything.md": "41f95512b70e",
       "content/posts/not-a-toe-rewrite.md": "99150d84dc27",
       "content/posts/not-predicting-is-predicting-without-awareness.md": "750dd47f6c5b",
-      "content/posts/objects-are-stabilized-relationships.md": "01d114dde3a7",
+      "content/posts/objects-are-stabilized-relationships.md": "897ad4fbf69a",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "47a22515d8a1",
       "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "7271624addc2",
       "content/posts/on-education.md": "99c1e2f8be6e",
@@ -415,13 +415,13 @@
       "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "bbc21859db0e",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "f1f3cd0266ec",
       "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "59a350d0f50a",
-      "content/posts/zi-you-de-ce-bu-zhun.md": "301040768436",
+      "content/posts/zi-you-de-ce-bu-zhun.md": "41962f20d90f",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "0377c4822629",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "ac686192b927",
       "content/book/causality.md": "51d6cd58236e",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "dad036fe877b",
+      "content/book/index-of-premises.md": "abab57b41b4d",
       "content/book/intelligence.md": "fa27f9624ed0",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "0caf97231862",
@@ -437,14 +437,14 @@
     },
     "stats": {
       "posts": 410,
-      "edges": 11418,
-      "unique_directed": 5605,
+      "edges": 11440,
+      "unique_directed": 5616,
       "missing_targets": 0,
-      "one_way": 925,
+      "one_way": 926,
       "isolated": 0,
       "posts_with_outbound": 410,
       "book_pages": 16,
-      "book_edges": 1168,
+      "book_edges": 1170,
       "posts_reached_by_book": 410
     }
   },
@@ -2068,14 +2068,16 @@
       "slug": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "path": "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md",
       "title": "确定性是微观不确定性的统计签名 / Determinism is the Statistical Signature of Micro-Indeterminism",
-      "hash": "e15614705dff",
-      "in_degree": 10,
-      "out_degree": 9,
+      "hash": "b2e4aff56800",
+      "in_degree": 11,
+      "out_degree": 11,
       "links_out": [
-        "the-explanatory-trap-of-the-ordinary-perspective",
         "fixed-by-nothing",
         "the-boundary-crossing-of-choice",
+        "the-explanatory-trap-of-the-ordinary-perspective",
+        "the-open-question-is-determinisms-demand",
         "agency-does-not-arise",
+        "the-power-law-of-surrendered-agency",
         "when-electrons-think",
         "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
         "the-illusion-of-the-shared-sandbox",
@@ -2089,9 +2091,9 @@
       "slug": "dimensions-are-projections",
       "path": "content/posts/dimensions-are-projections.md",
       "title": "维度即投影 / Dimensions Are Projections",
-      "hash": "4e5cf6607b3f",
+      "hash": "a2cfb53dce83",
       "in_degree": 19,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "not-a-toe-rewrite",
         "what-information-is",
@@ -2101,6 +2103,7 @@
         "the-continuum-of-the-fold",
         "the-scaffolding-we-forget",
         "time-is-causality-not-a-dimension",
+        "the-myth-of-the-four-dimensional-deer-and-the-present-model",
         "the-boundary-of-the-frame",
         "individual-choices-as-the-only-causal-levers",
         "the-extendable-horizon",
@@ -3701,11 +3704,13 @@
       "slug": "minimizing-path",
       "path": "content/posts/minimizing-path.md",
       "title": "最小化路径 / The Minimizing Path",
-      "hash": "90053fab1dbc",
+      "hash": "a503ebe540f6",
       "in_degree": 2,
-      "out_degree": 3,
+      "out_degree": 5,
       "links_out": [
         "fidelity-not-optimality",
+        "the-living-context",
+        "residual-control-recedes-to-the-edge",
         "your-codebase-is-memory",
         "the-surface-beneath"
       ]
@@ -4149,12 +4154,15 @@
       "slug": "objects-are-stabilized-relationships",
       "path": "content/posts/objects-are-stabilized-relationships.md",
       "title": "对象是被稳定化的关系 / Objects Are Stabilized Relationships",
-      "hash": "01d114dde3a7",
+      "hash": "897ad4fbf69a",
       "in_degree": 4,
-      "out_degree": 3,
+      "out_degree": 6,
       "links_out": [
+        "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
         "when-electrons-think",
+        "the-velocity-of-visibility",
         "the-invisible-gods-eye",
+        "the-cut-moves-but-never-vanishes",
         "your-codebase-is-memory"
       ]
     },
@@ -4759,7 +4767,7 @@
       "path": "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md",
       "title": "幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution",
       "hash": "ecf75d7d8689",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 6,
       "links_out": [
         "ownership-and-self-worthiness",
@@ -5083,7 +5091,7 @@
       "path": "content/posts/residual-control-recedes-to-the-edge.md",
       "title": "要紧的控制迁往边缘 / Essential Control Moves to the Edge",
       "hash": "a51e7b297bbf",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 12,
       "links_out": [
         "beyond-the-projection",
@@ -6607,7 +6615,7 @@
       "path": "content/posts/the-cut-moves-but-never-vanishes.md",
       "title": "割点可移不可除 / The Cut Moves but Never Vanishes",
       "hash": "e61a8aa0715d",
-      "in_degree": 24,
+      "in_degree": 25,
       "out_degree": 6,
       "links_out": [
         "demanding-a-toe-freezes-time-into-a-catalog",
@@ -6931,7 +6939,7 @@
       "path": "content/posts/the-extendable-horizon.md",
       "title": "可延展的地平线 / The Extendable Horizon",
       "hash": "d83f80b6754c",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 17,
       "links_out": [
         "the-arithmetic-of-the-register",
@@ -8062,7 +8070,7 @@
       "path": "content/posts/the-living-context.md",
       "title": "活的语境 / The Living Context",
       "hash": "147beb0934fd",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 10,
       "links_out": [
         "a-living-external-cortex",
@@ -8487,7 +8495,7 @@
       "path": "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md",
       "title": "四维长鹿的幻象与当下的模型 / The Myth of the Four-Dimensional Deer and the Present Model",
       "hash": "db6546734668",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 6,
       "links_out": [
         "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
@@ -8625,7 +8633,7 @@
       "path": "content/posts/the-open-question-is-determinisms-demand.md",
       "title": "悬而未决是决定论的索求 / The Open Question Is Determinism's Demand",
       "hash": "80597e04a05d",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 9,
       "links_out": [
         "agency-does-not-arise",
@@ -8793,7 +8801,7 @@
       "path": "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md",
       "title": "算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records",
       "hash": "bb2f003e5b8b",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 7,
       "links_out": [
         "objects-are-stabilized-relationships",
@@ -8812,7 +8820,7 @@
       "path": "content/posts/the-power-law-of-surrendered-agency.md",
       "title": "让渡主权的幂律法则 / The Power-Law of Surrendered Agency",
       "hash": "4a2576b3519f",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 4,
       "links_out": [
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
@@ -10105,7 +10113,7 @@
       "path": "content/posts/the-velocity-of-visibility.md",
       "title": "可见性的速度差 / The Velocity of Visibility",
       "hash": "55e3bb3d48fa",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 4,
       "links_out": [
         "objects-are-stabilized-relationships",
@@ -11066,13 +11074,14 @@
       "slug": "zi-you-de-ce-bu-zhun",
       "path": "content/posts/zi-you-de-ce-bu-zhun.md",
       "title": "自由的测不准 / The Uncertainty of Freedom",
-      "hash": "301040768436",
+      "hash": "41962f20d90f",
       "in_degree": 19,
-      "out_degree": 19,
+      "out_degree": 22,
       "links_out": [
         "causality-all-the-way",
         "the-closed-loop-of-representation",
         "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+        "determinism-is-the-statistical-signature-of-micro-indeterminism",
         "the-bank-shot-and-the-magic-trick",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "what-information-is",
@@ -11084,6 +11093,8 @@
         "agency-does-not-arise",
         "the-scaffolding-we-forget",
         "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+        "power-law-is-the-long-term-consequence-of-normal-distribution",
+        "the-extendable-horizon",
         "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
         "ownership-and-self-worthiness",
         "individual-choices-as-the-only-causal-levers",
@@ -20900,18 +20911,6 @@
     },
     {
       "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
-      "to": "the-explanatory-trap-of-the-ordinary-perspective",
-      "rel": "points_to",
-      "label": "“普通人视角”的解释陷阱"
-    },
-    {
-      "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
-      "to": "the-explanatory-trap-of-the-ordinary-perspective",
-      "rel": "points_to",
-      "label": "The Explanatory Trap of the \"Ordinary Perspective\""
-    },
-    {
-      "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "to": "fixed-by-nothing",
       "rel": "points_to",
       "label": "没有固定者的固定"
@@ -20936,15 +20935,39 @@
     },
     {
       "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "“普通人视角”的解释陷阱"
+    },
+    {
+      "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "to": "fixed-by-nothing",
       "rel": "points_to",
       "label": "没有固定者的固定"
     },
     {
       "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "to": "the-explanatory-trap-of-the-ordinary-perspective",
+      "rel": "points_to",
+      "label": "The Explanatory Trap of the \"Ordinary Perspective\""
+    },
+    {
+      "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "to": "fixed-by-nothing",
       "rel": "points_to",
       "label": "Fixed by Nothing"
+    },
+    {
+      "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "to": "the-open-question-is-determinisms-demand",
+      "rel": "points_to",
+      "label": "悬而未决是决定论的索求"
+    },
+    {
+      "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "to": "the-open-question-is-determinisms-demand",
+      "rel": "points_to",
+      "label": "The Open Question Is Determinism's Demand"
     },
     {
       "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
@@ -20957,6 +20980,18 @@
       "to": "agency-does-not-arise",
       "rel": "points_to",
       "label": "Agency Does Not Arise"
+    },
+    {
+      "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "to": "the-power-law-of-surrendered-agency",
+      "rel": "points_to",
+      "label": "让渡主权的幂律法则"
+    },
+    {
+      "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "to": "the-power-law-of-surrendered-agency",
+      "rel": "points_to",
+      "label": "The Power-Law of Surrendered Agency"
     },
     {
       "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
@@ -21034,7 +21069,7 @@
       "from": "dimensions-are-projections",
       "to": "not-a-toe-rewrite",
       "rel": "points_to",
-      "label": "Not a ToE - Retraced"
+      "label": "Not a ToE Retraced"
     },
     {
       "from": "dimensions-are-projections",
@@ -21110,9 +21145,21 @@
     },
     {
       "from": "dimensions-are-projections",
+      "to": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
+      "rel": "points_to",
+      "label": "四维长鹿的幻象与当下的模型"
+    },
+    {
+      "from": "dimensions-are-projections",
       "to": "time-is-causality-not-a-dimension",
       "rel": "points_to",
       "label": "Time Is the Irreversible Direction and Discrete Step of Causality"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
+      "rel": "points_to",
+      "label": "The Myth of the Four-Dimensional Deer and the Present Model"
     },
     {
       "from": "dimensions-are-projections",
@@ -31654,13 +31701,37 @@
       "from": "minimizing-path",
       "to": "fidelity-not-optimality",
       "rel": "points_to",
-      "label": "保真，而非最优"
+      "label": "保真度而非最优化"
     },
     {
       "from": "minimizing-path",
       "to": "fidelity-not-optimality",
       "rel": "points_to",
       "label": "Fidelity, Not Optimality"
+    },
+    {
+      "from": "minimizing-path",
+      "to": "the-living-context",
+      "rel": "points_to",
+      "label": "活的语境"
+    },
+    {
+      "from": "minimizing-path",
+      "to": "the-living-context",
+      "rel": "points_to",
+      "label": "The Living Context"
+    },
+    {
+      "from": "minimizing-path",
+      "to": "residual-control-recedes-to-the-edge",
+      "rel": "points_to",
+      "label": "要紧的控制迁往边缘"
+    },
+    {
+      "from": "minimizing-path",
+      "to": "residual-control-recedes-to-the-edge",
+      "rel": "points_to",
+      "label": "Essential Control Moves to the Edge"
     },
     {
       "from": "minimizing-path",
@@ -34664,15 +34735,39 @@
     },
     {
       "from": "objects-are-stabilized-relationships",
+      "to": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+      "rel": "points_to",
+      "label": "算符的潜无限与记录的有限边界"
+    },
+    {
+      "from": "objects-are-stabilized-relationships",
+      "to": "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+      "rel": "points_to",
+      "label": "The Potential Infinity of Operators and the Finite Horizon of Records"
+    },
+    {
+      "from": "objects-are-stabilized-relationships",
       "to": "when-electrons-think",
       "rel": "points_to",
       "label": "当电子开始思考"
     },
     {
       "from": "objects-are-stabilized-relationships",
+      "to": "the-velocity-of-visibility",
+      "rel": "points_to",
+      "label": "可见性的速度差"
+    },
+    {
+      "from": "objects-are-stabilized-relationships",
       "to": "when-electrons-think",
       "rel": "points_to",
       "label": "When Electrons Think"
+    },
+    {
+      "from": "objects-are-stabilized-relationships",
+      "to": "the-velocity-of-visibility",
+      "rel": "points_to",
+      "label": "The Velocity of Visibility"
     },
     {
       "from": "objects-are-stabilized-relationships",
@@ -34685,6 +34780,18 @@
       "to": "the-invisible-gods-eye",
       "rel": "points_to",
       "label": "The Invisible God's Eye"
+    },
+    {
+      "from": "objects-are-stabilized-relationships",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "割点可移不可除"
+    },
+    {
+      "from": "objects-are-stabilized-relationships",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "The Cut Moves but Never Vanishes"
     },
     {
       "from": "objects-are-stabilized-relationships",
@@ -79160,6 +79267,18 @@
     },
     {
       "from": "zi-you-de-ce-bu-zhun",
+      "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "rel": "points_to",
+      "label": "确定性是微观不确定性的统计签名"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "rel": "points_to",
+      "label": "Determinism is the Statistical Signature of Micro-Indeterminism"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
       "to": "the-bank-shot-and-the-magic-trick",
       "rel": "points_to",
       "label": "翻袋球与魔术戏法"
@@ -79289,6 +79408,30 @@
       "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
       "rel": "points_to",
       "label": "Individual Choice, Socialization and Being Oneself"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "rel": "points_to",
+      "label": "幂律是正态分布的长期后果"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "the-extendable-horizon",
+      "rel": "points_to",
+      "label": "可延展的地平线"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "rel": "points_to",
+      "label": "Power Law Is the Long-Term Consequence of Normal Distribution"
+    },
+    {
+      "from": "zi-you-de-ce-bu-zhun",
+      "to": "the-extendable-horizon",
+      "rel": "points_to",
+      "label": "The Extendable Horizon"
     },
     {
       "from": "zi-you-de-ce-bu-zhun",
@@ -79686,7 +79829,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "dad036fe877b",
+        "hash": "abab57b41b4d",
         "out_degree": 410
       },
       {
@@ -80650,6 +80793,12 @@
         "to": "tokens-and-the-observational-boundary",
         "rel": "collects",
         "label": "词元与观测边界 / Tokens and the Observational Boundary"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "minimizing-path",
+        "rel": "collects",
+        "label": "最小化路径 / The Minimizing Path"
       },
       {
         "from": "book:index-of-premises",
@@ -84136,6 +84285,12 @@
         "to": "the-living-context",
         "rel": "collects",
         "label": "活的语境 / The Living Context"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "minimizing-path",
+        "rel": "collects",
+        "label": "最小化路径 / The Minimizing Path"
       },
       {
         "from": "book:index-of-premises",
