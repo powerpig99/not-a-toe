@@ -125,8 +125,8 @@ Generic agentic-system-agnostic specification: [`docs/wave-refinement-plan.md` �
 | **`infographic-critic`** | `define_subagent` + `invoke_subagent` | `inherit` (restricted to `studio/post/<slug>/`) | `true` | `false` |
 | **`film-maker`** | `define_subagent` + `invoke_subagent` | `inherit` (restricted to `studio/post/<slug>/` + `studio/kits/film/`) | `true` | `false` |
 | **`film-critic`** | `define_subagent` + `invoke_subagent` | `inherit` (restricted to `studio/post/<slug>/`) | `true` | `false` |
-| **`scouter`** | `define_subagent` + `invoke_subagent` (Stream 2C `FILM_SCOUT_READY` & Pre-Escalation Gate; killed on `RESEARCH_READY`) | `inherit` (restricted to `studio/post/<slug>/`) | `true` | `true` |
-| **`recap` (+ §4.5 Settlement Pair)** | `define_subagent` + `invoke_subagent` (Wave 3 step 5 `recap.md`, settled via implementer ⇄ cold critic in `settlement.md` per §4.5 before `清盘`) | `inherit` (`recap` restricted to `studio/post/<slug>/`; settlement pair across the run's allowed surfaces per `media/SKILL.md`) | `true` | `false` |
+| **`scouter`** | `define_subagent` + `invoke_subagent` (Stream 2C `step=FILM_SCOUT_READY` & Pre-Escalation Gate; killed on `RESEARCH_READY`) | `inherit` (restricted to `studio/post/<slug>/`) | `true` | `true` |
+| **`recap` (+ §4.5 Settlement Pair)** | `define_subagent` + `invoke_subagent` (Wave 3 step 5 `recap.md` read on need-to-know basis, settled via implementer ⇄ cold critic in `settlement.md` per §4.5, escalating only `open_issues > 0` to Outer Loop with consistency check, and presenting non-edge run/inbox logs for deletion `清盘`) | `inherit` (`recap` restricted to `studio/post/<slug>/`; settlement pair across the run's allowed surfaces per `media/SKILL.md`) | `true` | `false` |
 
 ### 5.2 Media Subagent Registration (`define_subagent` for `/media <slug>`)
 

@@ -9,7 +9,7 @@
 1. Follow logic by the ontological-clarity skill and read docs/charters/README.md, studio/kits/shared/library/workflow.md ("The Deep Dive audio for a post"), and docs/wave-refinement-plan.md §8.2–8.3.
 2. Voice studio/post/<slug>/final/scripts/dialogue.{zh,en}.txt per workflow Deep Dive step 5, with the Stream 2A tools of §8.2, into studio/post/<slug>/wip/audio/.
 3. Check it per workflow Deep Dive step 6 (known misreads first; a finding needs evidence a listener would hear), with reports in studio/post/<slug>/wip/audio/. A respelling goes in the TTS input per §8.3, never in final/scripts/.
-4. Return ONLY: STATUS: AUDIO_WIP_READY studio/post/<slug>/wip/audio/.
-5. When routed Round 1 flags (A1..An) in studio/post/<slug>/wip/audio/debate.md, re-buy only sections with a finding, keep the take workflow Deep Dive step 6 keeps, log updates in debate.md, and return ONLY: STATUS: AUDIO_DEBATE_REPLIED studio/post/<slug>/wip/audio/debate.md.
-6. When routed CRITIC: confirmed, write MAKER: confirmed (ready_for_handoff, sha256=<hash_manifest>) in debate.md, lock into studio/post/<slug>/final/audio/ with its manifest.sha256, and return ONLY: STATUS: AUDIO_LOCKED studio/post/<slug>/final/audio/ sha256=<hash_manifest>.
+4. Return ONLY: STATUS: PASS role=audio-builder step=AUDIO_WIP_READY log=studio/post/<slug>/wip/audio/.
+5. When routed Round 1 flags (A1..An) in studio/post/<slug>/wip/audio/debate.md, re-buy only sections with a finding, keep the take workflow Deep Dive step 6 keeps, log updates in debate.md, and return ONLY: STATUS: PASS role=audio-builder step=AUDIO_DEBATE_REPLIED log=studio/post/<slug>/wip/audio/debate.md.
+6. When routed CRITIC: confirmed, write MAKER: confirmed (ready_for_handoff, sha256=<hash_manifest>) in debate.md, lock into studio/post/<slug>/final/audio/ with its manifest.sha256, and return ONLY: STATUS: PASS role=audio-builder step=AUDIO_LOCKED sha256=<hash_manifest> log=studio/post/<slug>/final/audio/manifest.sha256.
 ```
