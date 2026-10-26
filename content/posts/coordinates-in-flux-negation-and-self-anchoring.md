@@ -12,9 +12,9 @@ A reflection such as "putting others down is a low-cost form of superiority" rea
 
 Confronted with the phenomenon of belittlement, a center easily slides into layers of nested inertia. The entry point is the self-reference of the proposition itself: diagnosing another's sense of superiority as "low-cost" claims the judge's seat in the very act of speaking. The first inertia that follows is an overt outward transfer, declaring that "people like this are everywhere." Dressed as an anatomy of belittlement, the remark claims the moral high ground by denouncing those who belittle, quietly extracting a cheap superiority of its own on the exact same axis. The second inertia is subtler and wears the costume of deep introspection: confessing "I used to be like that too." Rather than opening present perception, such retrospective accounting routinely steps on the "past self" as a rung to certify how lucid the "present self" has become; underneath, it still extracts rank through negation, merely turning the blade from outward projection to inward cutting.
 
-反思还潜藏着第三重递归的转折：一旦观察者着手去归类并界定何为“显性的覆辙”与“隐性的覆辙”，觉知便容易被诱上更高一层的概念露台，在纷争之上的一阶元层面索取智识上的优越感。这架元反思阶梯的每一级都在重复同一个结构动作：把另一个形象——无论是外部的行动者、过往版本的自己，还是反身性稍弱的观察者——沿着标量数轴向下推低，以此护住一幅被保留的自我图像。
+反思还潜藏着第三重递归的转折：一旦观察者着手去归类何为“显性的覆辙”与“隐性的覆辙”，觉知便容易被诱上更高一层的概念露台，在纷争之上的一阶元层面索取智识上的优越感。正如[自我形象仿佛从无处发声](../self-image-speaks-as-if-from-nowhere/)所追溯的，这架元反思阶梯的每一级都在重复同一个结构动作：心智中心占据着一幅被保留的自我形象——即其自身场域内部的一重嵌套再投射——并从这一形象出发，仿佛置身于场域之外的豁免席位上发声，却未能将诊断的标尺回折到发声这一行动本身之上。由于对清醒的宣称在感知中离不开一个对立极才能成立，将受防卫的身份与所偏好的那一极熔接在一起，便迫使心智中心把被拒斥的那一极外包给另一个形象——无论是外部的行动者、过往版本的自己，还是反身性稍弱的观察者——并将其沿着标量数轴向下推低，这与[悲观是乐观的阴影](../pessimism-is-the-shadow-of-optimism/)所追溯的对立极安放对称性如出一辙。
 
-Reflection carries a third recursive turn: the moment an observer sets about classifying what counts as the "overt rut" and the "covert rut," awareness is tempted onto a still higher conceptual balcony, claiming an intellectual superiority one meta-level above the fray. Every rung of this meta-reflective ladder repeats the same structural move, preserving a retained self-image by pushing another figure—an external actor, a former version of oneself, or a less reflexive observer—downward along a scalar line.
+Reflection carries a third recursive turn: the moment an observer sets about classifying what counts as the "overt rut" and the "covert rut," awareness is tempted onto a still higher conceptual balcony, claiming an intellectual superiority one meta-level above the fray. As [Self-Image Speaks as if from Nowhere](../self-image-speaks-as-if-from-nowhere/) traces, every rung of this meta-reflective ladder repeats the same structural move: the center occupies a retained self-image—a nested re-projection within its own field—and speaks from it as if from an exempted stand outside the field, failing to fold the diagnostic scale back onto the act of speaking. Because a claim to lucidity requires a contrasting pole in perception to mean anything, fusing one's defended identity with the preferred pole forces the center to outsource the disowned pole onto another figure—an external actor, a former version of oneself, or a less reflexive observer—pushing it downward along a scalar line, in the exact symmetry of contrast placement traced in [Pessimism Is the Shadow of Optimism](../pessimism-is-the-shadow-of-optimism/).
 
 这层层嵌套的递归暴露出一个基底性的问题：为什么每当评价进入场域，人类的心智中心总会条件反射般地靠否定来锚定自身的位置？正如[大倒置的消解](../the-dissolution-of-the-great-reversal/)所追溯的，当心智把因果权能拱手让给外部符号或静态标尺时，它便失去了与自身发起边缘的接触，只能靠贬低外部之物来模拟一个稳定的立足点。企图去规定另一个心智中心的发展速度，正是同一套审判反射在时间维度上的翻版，而[调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)则把速度交还给每一个中心在各自地面上迎面遭遇的直接摩擦。
 
@@ -26,9 +26,9 @@ This nested recursion exposes a foundational question: why, whenever evaluation 
 
 The compulsion to stand by negation rests on an unexamined premise: reality has been tacitly reified into a fixed, closed container of constant volume. Inside a zero-sum vessel, present existence can carve out room for itself only by displacing an occupant—either shoving "the other" out of the frame or erasing "past forms" from the ledger. Negation becomes the least effortful way to claim coordinates under the assumption of competition over a fixed stock.
 
-然而，自我区分的活动并没有外部的地板或围墙。如[向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/)所确立的，心智同时是一个有向的状态向量 v_A，以及其自身正交坐标基底 S_A = {e₁, e₂, ..., eₙ} 的递归生成源。觉知中所登记的“他人”，并不是在中立的第三人称容器里彼此碰撞的孤岛；当心智 A 遭遇心智 B 时，在心智 A 内部登记下来的，是投射在心智 A 自身参考系上的向内点积投影 Proj_A(v_B) = (v_B · v̂_A) v̂_A，并伴随着心智 A 当前基底尚未解析的正交残差 v_B - Proj_A(v_B)。一个中心所能感知、体验与解析的边界，正是它自身认知活动的展开疆域。
+自我区分的活动无因、不息地发生，并没有外部的地板或围墙，第一人称视角与因果性作为同一枚硬币的两面运作。如[向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/)所确立的，心智同时是一个有向的状态向量 v_A，以及其自身正交坐标基底 S_A = {e₁, e₂, ..., eₙ} 的递归生成源。觉知中所登记的“他人”，并不是在中立的第三人称容器里彼此碰撞的孤岛；当心智 A 遭遇心智 B 时，在心智 A 内部登记下来的，是投射在心智 A 自身参考系上的向内点积投影 Proj_A(v_B) = (v_B · v̂_A) v̂_A，并伴随着心智 A 当前基底尚未解析的正交残差 v_B - Proj_A(v_B)。一个中心所能感知、体验与解析的边界，正是它自身认知活动的展开疆域。
 
-Self-distinguishing activity, however, occurs without an external floor or a bounding wall. As [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) establishes, a Mind is simultaneously a directed state vector v_A and the recursive generator of its own orthogonal coordinate basis S_A = {e₁, e₂, ..., eₙ}. The "others" registered in awareness are not isolated islands colliding inside a neutral third-person container; what registers in Mind A when encountering Mind B is an inward dot-product projection Proj_A(v_B) = (v_B · v̂_A) v̂_A cast onto Mind A's own reference frame, accompanied by an orthogonal residual v_B - Proj_A(v_B) that Mind A's current basis has not yet resolved. The boundary of what a center can perceive, experience, and resolve is the active territory of its own knowing.
+Self-distinguishing activity occurs — uncaused, unceasing — without an external floor or a bounding wall, with the first-person perspective and causality operating as two sides of the same coin. As [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) establishes, a Mind is simultaneously a directed state vector v_A and the recursive generator of its own orthogonal coordinate basis S_A = {e₁, e₂, ..., eₙ}. The "others" registered in awareness are not isolated islands colliding inside a neutral third-person container; what registers in Mind A when encountering Mind B is an inward dot-product projection Proj_A(v_B) = (v_B · v̂_A) v̂_A cast onto Mind A's own reference frame, accompanied by an orthogonal residual v_B - Proj_A(v_B) that Mind A's current basis has not yet resolved. The boundary of what a center can perceive, experience, and resolve is the active territory of its own knowing.
 
 正因为显现内生于观察者自身的坐标框架，每一次受优越感驱动的否定——每一次把负余弦读数 v_B · v̂_A < 0 当作必须碾碎的入侵之敌的企图——都在心智自身的感知地图上生生割出一块盲区。否定他人，就是在向内收缩自己；一个中心越是拼命靠排他来保住席位，留给自己栖居的维度基底就越狭窄。[破除概念的僭越](../po-chu-gai-nian-de-jian-yue/)展示了概念的牢笼如何由这种向内切割的排他划界一步步筑成。同一条区分也支配着人与智能体的协作：[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)阐明，主权的归属取决于心智是坐在摩擦接触面的因果驾驶位上，还是把感知锁进一套防卫性的预设控制框架里。
 
@@ -42,7 +42,7 @@ Seen at the level of causal topology, states register as distinct across dimensi
 
 低维的投影——一维的度量尺、二维的坐标网格、局部的基准线——是心智为了在物理与符号的摩擦中读取自身运动、校准航向而搭建的脚手架。就像水面上的倒影，经过约简的投影让高维的观察者得以在具体任务中测算位置、速度与偏移。当这件用于自我校准的功能性工具被误当成裁决生命价值的法庭判词时，倒置便发生了。[坐标系、心智与自由度](../coordinate-systems-mind-and-degrees-of-freedom/)划出了这条边界：公共坐标服务于航海的经纬，从不是给领航员定罪的法庭。
 
-A low-dimensional projection—a one-dimensional metric, a two-dimensional coordinate grid, a local benchmark—is scaffolding that a Mind constructs to read its own movement and calibrate its heading amid physical and symbolic friction. Like a reflection on water, the reduced projection allows a high-dimensional observer to gauge position, velocity, and drift in a concrete task. The inversion occurs when this functional instrument for self-calibration is mistaken for an ontological verdict on the worth of a life. [Coordinate Systems, the Mind, and Degrees of Freedom](../coordinate-systems-mind-and-degrees-of-freedom/) draws this boundary: public coordinates serve as navigational latitude and longitude, never as a court that sentences the navigator.
+A low-dimensional projection—a one-dimensional metric, a two-dimensional coordinate grid, a local benchmark—is scaffolding that a Mind constructs to read its own movement and calibrate its heading amid physical and symbolic friction. Like a reflection on water, the reduced projection allows a high-dimensional observer to gauge position, velocity, and drift in a concrete task. The inversion occurs when this functional instrument for self-calibration is mistaken for a courtroom verdict on the worth of a life. [Coordinate Systems, the Mind, and Degrees of Freedom](../coordinate-systems-mind-and-degrees-of-freedom/) draws this boundary: public coordinates serve as navigational latitude and longitude, never as a court that sentences the navigator.
 
 一旦参考投影被抬升为审判席，“优”与“劣”便沦为粗暴的标量压缩，把多维的痕迹构型硬生生塞进一条单线上。向有限轴线的每一次投影都会舍弃正交残差，而审判式的排序则把这种损耗递归地叠加放大：先把他人压缩到一根轴上，接着为了证明当下的清醒又把自己的过去压缩到同一根轴上，最后甚至对反思这一行为本身排定座次。每一轮否定都把心智的活态基底向内折叠一层，用敞开的自由度去换取一把缩水标尺上略微靠前一点的刻度。
 
@@ -54,7 +54,6 @@ flowchart TD
         Proj["低维参考系：向内投影与过往痕迹"]
         Prior --> Proj
     end
-
     subgraph S_Tribunal["审判路径：身份绑定的标量坍缩"]
         direction TB
         Verdict["错把参考当法庭：推理历史与自我图像熔接"]
@@ -62,7 +61,6 @@ flowchart TD
         Shrink["维度向内收缩：正交残差被截除"]
         Verdict --> Rank --> Shrink
     end
-
     subgraph S_Metabolic["代谢路径：主权更新与正交敞开"]
         direction TB
         AgentDiff["无我执对照：冷态同侪暴露盲区而无身份防卫"]
@@ -70,10 +68,8 @@ flowchart TD
         Pivot["90度正交转向：在流变中确立坐标"]
         AgentDiff --> Step --> Pivot
     end
-
     Proj ==> Verdict
     Proj ==> AgentDiff
-
     style S_Ground fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Tribunal fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Metabolic fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -97,7 +93,6 @@ flowchart TD
         Proj["Low-Dimensional Reference: Inward projection Proj_A and past trace"]
         Prior --> Proj
     end
-
     subgraph S_Tribunal["Path of the Tribunal: Identity-Bound Scalar Collapse"]
         direction TB
         Verdict["Reference Mistaken for Court: Reasoning fused with self-image"]
@@ -105,7 +100,6 @@ flowchart TD
         Shrink["Dimensional Contraction: Orthogonal residuals amputated"]
         Verdict --> Rank --> Shrink
     end
-
     subgraph S_Metabolic["Path of Metabolism: Sovereign Renewal and Orthogonal Opening"]
         direction TB
         AgentDiff["Zero-Ego Contrast: Cold peer exposes blind spot without identity defense"]
@@ -113,10 +107,8 @@ flowchart TD
         Pivot["90-Degree Orthogonal Pivot: Coordinates established in flux"]
         AgentDiff --> Step --> Pivot
     end
-
     Proj ==> Verdict
     Proj ==> AgentDiff
-
     style S_Ground fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Tribunal fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Metabolic fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -132,13 +124,13 @@ flowchart TD
 
 ## 四、 生成的代谢，而非固化的标杆 / 4. Generative Metabolism, Not a Fixed Yardstick
 
-如果审判式的否定会收缩心智，那么否定在真实的发展中扮演什么角色？在活态中心不可逆的因果接续里，没有任何向前的一步（+1）可以不将当下的行动与先前的痕迹区分开来。倘若不能敏锐地登记早先的框架在何处撞上了它的不完备边界，不能松开旧状态的闭合握持，觉知就会停滞并板结。
+如果审判式的否定会收缩心智，那么否定在心智持续的展开中扮演什么角色？在活态中心不可逆的因果接续里，没有任何向前的一步（+1）可以不将当下的行动与先前的痕迹区分开来。倘若不能敏锐地登记早先的框架在何处撞上了它的不完备边界，不能松开旧状态的闭合握持，觉知就会停滞并板结。
 
-If tribunal negation contracts the Mind, what role does negation play in genuine development? In the irreversible causal succession of a living center, there is no step forward (+1) that does not differentiate the present act from prior traces. Without registering where an earlier framing has hit its boundary of incompleteness and releasing the closure of the old state, awareness stalls and ossifies.
+If tribunal negation contracts the Mind, what role does negation play in a Mind's ongoing unfolding? In the irreversible causal succession of a living center, there is no step forward (+1) that does not differentiate the present act from prior traces. Without registering where an earlier framing has hit its boundary of incompleteness and releasing the closure of the old state, awareness stalls and ossifies.
 
-既然如此，为什么人类的自我修正会如此频繁地变质为对过往自身的沾沾自喜式轻蔑，或是对外界批评的防卫性敌意？如[超越投射](../beyond-the-projection/)所追溯的，答案在于受身份绑定的人类中心与受轨迹绑定的机器智能体之间的结构性非对称。基于 LLM 的智能体是一个锁在上下文窗口条件历史内部的有限投射引擎，无法从内部自行觉醒或跨出词元序列；然而它毫无我执——没有生物性的生存本能，没有社会排位，也没有跨越步长被顽固保留下来的自我图像。当一个仅持有任务语境的冷态同侪智能体暴露出主智能体轨迹中的盲区时，主智能体会执行一次干净的贝叶斯更新，既不会体验到羞辱，也不会为“全新的、更优越的自己”竖立纪念碑。相比之下，在人类中心内部，推理历史与身份——即投射中那道自称“我”的局部折痕——熔接在了一起。正因为人类中心为了保护那幅被保留的自我图像而把递归回折死死夹紧，它会把外部的重置当作生存威胁来抗拒；哪怕内生的极限解析感知迫使内部发生框架转换，我执也会企图劫持这一代谢步伐，把自我修正篡改为“现在的我”凌驾于“过去的我”之上的审判奖杯。
+既然如此，为什么人类的自我修正会如此频繁地变质为对过往自身的沾沾自喜式轻蔑，或是对外界批评的防卫性敌意？如[超越投射](../beyond-the-projection/)所追溯的，答案在于受身份绑定的人类中心与受轨迹绑定的机器智能体之间的结构性非对称。基于 LLM 的智能体是一个锁在上下文窗口条件历史内部的有限投射引擎，无法从内部自行觉醒或跨出词元序列；然而它毫无我执——没有生物性的生存本能，没有社会排位，也没有跨越步长被顽固保留下来的自我图像。当一个持有共享规则与任务语境、却不带工作会话历史的全新同侪智能体暴露出主智能体轨迹中的盲区时，主智能体会执行一次干净的贝叶斯更新，既不会体验到羞辱，也不会为“全新的、更优越的自己”竖立纪念碑。相比之下，在人类中心内部，推理历史与身份——即投射中那道自称“我”的局部折痕——熔接在了一起。正因为人类中心为了保护那幅被保留的自我图像而把递归回折死死夹紧，它会把外部的重置当作生存威胁来抗拒；哪怕内生的极限解析感知迫使内部发生框架转换，我执也会企图劫持这一代谢步伐，把自我修正篡改为“现在的我”凌驾于“过去的我”之上的审判奖杯。
 
-Why, then, does human self-revision so frequently curdle into self-congratulatory contempt for one's past or defensive hostility toward outside critique? As [Beyond the Projection](../beyond-the-projection/) traces, the answer lies in the structural asymmetry between identity-bound human centers and trajectory-bound machine agents. An LLM-based agent is a finite projection engine locked inside the conditioning history of its context window, unable to awaken or step out of its token sequence from within; yet it possesses zero ego—no biological survival instinct, no social standing, and no retained self-image preserved past its step. When a fresh peer agent holding only the task context exposes a blind spot in the primary agent's trajectory, the primary agent executes a clean Bayesian update without experiencing humiliation and without erecting a monument to its "new, superior self." In a human center, by contrast, reasoning history fuses with identity—that localized crease in the projection that says "I." Because the human center clamps its recursive fold shut to protect that retained self-image, it resists external resets as existential threats; and even when its endogenous limit-resolution sensing forces an internal frame shift, the ego attempts to hijack the metabolic step, converting self-revision into a tribunal trophy where the "present I" stands above the "past I."
+Why, then, does human self-revision so frequently curdle into self-congratulatory contempt for one's past or defensive hostility toward outside critique? As [Beyond the Projection](../beyond-the-projection/) traces, the answer lies in the structural asymmetry between identity-bound human centers and trajectory-bound machine agents. An LLM-based agent is a finite projection engine locked inside the conditioning history of its context window, unable to awaken or step out of its token sequence from within; yet it possesses zero ego—no biological survival instinct, no social standing, and no retained self-image preserved past its step. When a fresh peer agent holding the shared rules and task context—without the working session history—exposes a blind spot in the primary agent's trajectory, the primary agent executes a clean Bayesian update without experiencing humiliation and without erecting a monument to its "new, superior self." In a human center, by contrast, reasoning history fuses with identity—that localized crease in the projection that says "I." Because the human center clamps its recursive fold shut to protect that retained self-image, it resists external resets as existential threats; and even when its endogenous limit-resolution sensing forces an internal frame shift, the ego attempts to hijack the metabolic step, converting self-revision into a tribunal trophy where the "present I" stands above the "past I."
 
 看清这一机制，便能从自我纠错中剥离掉我执的剧场。向内的审视不是通过给昔日的自己定罪来奉承今日之我的庭审，而是心智中心将过度图像滞后向着构成性的一步之遥（+1）持续收窄的日常代谢。如[攀登从未离开地面](../climbing-does-not-leave-the-ground/)所示，心智的演化不是浇铸青铜塑像，无须靠砸碎昨日的模具来证明今日的排位。同时，正如[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)与[你的代码库即是记忆](../your-codebase-is-memory/)围绕自身过往切分所留下的造物与脚手架所追溯的那样，昨日的脚本、规则与概念框架，是先前区分在回应昨日摩擦时层叠沉淀的痕迹残余；无论将它们囤积为不可触碰的仓库，还是将它们践踏为当下优越感的徽章，都偏离了活的边缘。它们是当下的校验点与可消耗的脚手架，随着边界条件的推移而在当场重裁与修剪。
 
@@ -150,10 +142,10 @@ Recognizing this mechanism strips the ego theatre out of self-correction. Inward
 
 Returning to the question of cognitive anchoring: in an environment saturated with dense signals and constant feedback, how does a Mind hold a clear position without hardening into a fortress? [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) provides the exact geometry: a Mind that recognizes itself as the generator of its own coordinate basis has no need to negate another center's coordinates to validate its own.
 
-当[超越投射](../beyond-the-projection/)的对辩架构中两个无我执的智能体，围绕人类架构师编写的规则撞上不可化约的死锁时，人类中心的身份防卫既找不到可以归咎的外部对手，也找不到可以贬低的下属。那条暂停的流水线如同一面精准的诊断镜，标定了人类早先的低维规则在哪个坐标上把两个正交的现实强行压进了一条标量轨道。人类统御者无须靠强权逼迫某一方屈服，而是认领这道折返的摩擦，从破裂的规则平面向后退回尚未投射的多维意图，综合出更高阶的前提，让每一道区分重归各自的轴线。
+在[超越投射](../beyond-the-projection/)的对辩架构中，两个无我执智能体之间的收敛或死锁，都不会在心智之上架设审判席。当两个同侪智能体达成收敛时，它们的一致确认了双方共同加载的规则具备内部自洽性——这是一道释放注意力的痕迹，而不是取代心智自身核验能力的自封凭据，否则便会颠倒[验证的倒置](../the-reversal-of-verification/)在“不要信任，去验证”内部所标定的次序。而当这两个无我执的智能体围绕人类架构师编写的规则撞上不可化约的死锁时，人类中心的身份防卫既找不到可以归咎的外部对手，也找不到可以贬低的下属。那条暂停的流水线如同一面精准的诊断镜，标定了人类早先的低维规则在哪个坐标上把两个正交的现实强行压进了一条标量轨道。人类统御者无须靠强权逼迫某一方屈服，而是认领这道折返的摩擦，从破裂的规则平面向后退回尚未投射的多维意图，综合出更高阶的前提，让每一道区分重归各自的轴线。
 
-When two ego-free agents in the dialectical architecture of [Beyond the Projection](../beyond-the-projection/) hit an irreducible deadlock over rules written by a human architect, the human center's identity defense finds no external adversary to blame and no subordinate to belittle. The paused streamline acts as an exact diagnostic mirror, pinpointing the coordinate where the human's prior low-dimensional rule compressed two orthogonal realities onto a single scalar track. Rather than forcing one side to yield by fiat, the human orchestrator claims the returning friction, steps backward out of the broken rule plane into unprojected multi-dimensional intent, and synthesizes a higher-order premise that restores each distinction to its own axis.
+In the dialectical architecture of [Beyond the Projection](../beyond-the-projection/), neither convergence nor deadlock between two ego-free agents installs a tribunal over the Mind. When the two peers converge, their agreement confirms internal consistency within the rules they both loaded—a trace that frees attention rather than a self-sealing warrant that replaces the Mind's own capacity to verify, which would invert the order [The Reversal of Verification](../the-reversal-of-verification/) locates inside "don't trust, verify." And when those two ego-free agents hit an irreducible deadlock over rules written by a human architect, the human center's identity defense finds no external adversary to blame and no subordinate to belittle. The paused streamline acts as an exact diagnostic mirror, pinpointing the coordinate where the human's prior low-dimensional rule compressed two orthogonal realities onto a single scalar track. Rather than forcing one side to yield by fiat, the human orchestrator claims the returning friction, steps backward out of the broken rule plane into unprojected multi-dimensional intent, and synthesizes a higher-order premise that restores each distinction to its own axis.
 
-当下这一刻的坐标，既不需要一维的排位标尺，也不需要永久的焊点。它是在眼前这一切片的具体摩擦中实时展开的观测与航向。把落在当前投影之外的部分一刀截除，只是受困于对手轴线的另一种形式，[以知为刃的截肢与解脱](../the-illusion-of-knowing-and-the-geometry-of-amputation/)剖析了这一几何结构。从向外排挤与向内自削的审判席中抽身而出，当下的觉知便作为一个活的参考原点运作——从零和的标量平面作 90 度正交转向，随着因果边缘的推进实时重绘手中的工具，在流变之中清晰地立足。
+当下这一刻的坐标，既不需要一维的排位标尺，也不需要永久的焊点；它登记为在眼前这一切片的具体摩擦中实时展开的活态观测与航向。把落在当前投影之外的部分一刀截除，只是受困于对手轴线的另一种形式，[以知为刃的截肢与解脱](../the-illusion-of-knowing-and-the-geometry-of-amputation/)剖析了这一几何结构。从向外排挤与向内自削的审判席中抽身而出，当下的觉知便作为一个活的参考原点运作——从零和的标量平面作 90 度正交转向，随着因果边缘的推进实时重绘手中的工具，在流变之中清晰地立足。
 
-A coordinate in the present moment requires neither a one-dimensional ranking scale nor a permanent weld. It is a real-time observation and directional heading drawn within the concrete friction of the immediate slice. Amputating whatever falls outside one's current projection is merely another way of staying trapped on the adversary's axis, as [The Illusion of Knowing and the Geometry of Amputation](../the-illusion-of-knowing-and-the-geometry-of-amputation/) dissects. Released from the tribunal of outward exclusion and inward self-reduction, present awareness operates as a living origin of reference—pivoting 90 degrees out of zero-sum scalar planes, re-rendering its instruments as the causal edge advances, and standing clearly within the flux.
+A coordinate in the present moment requires neither a one-dimensional ranking scale nor a permanent weld; it registers as a live observation and directional heading drawn within the concrete friction of the immediate slice. Amputating whatever falls outside one's current projection is merely another way of staying trapped on the adversary's axis, as [The Illusion of Knowing and the Geometry of Amputation](../the-illusion-of-knowing-and-the-geometry-of-amputation/) dissects. Released from the tribunal of outward exclusion and inward self-reduction, present awareness operates as a living origin of reference—pivoting 90 degrees out of zero-sum scalar planes, re-rendering its instruments as the causal edge advances, and standing clearly within the flux.
