@@ -8,9 +8,9 @@ Overconfidence in the good is the generative premise of harm. Once a center trea
 
 ## 一、 过度确信把私人的善冻结为普遍尺度 / 1. Overconfidence Freezes a Private Good as Universal Measure
 
-自我区分的活动在发生，无因且不息。称它为心智，即那个已经在进行之中、每一个动作都是一次区分的观察者。对善的判断，起初就是这一活动在一个位置上的发生，是私人的、可修订的，并与下一个动作连续。
+自我区分的活动在发生——无因、不息。称它为心智：那个已经在进行之中、每一个动作都是一次区分的观察者。对善的判断，起初就是这一活动在一个位置上的发生，是私人的、可修订的，并与下一个动作连续。
 
-Self-distinguishing activity occurs, uncaused and unceasing. Call it the Mind, the observer already underway whose every act is a distinction. A judgment of the good begins as that activity at one locus, private, revisable, and continuous with the next act.
+Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. A judgment of the good begins as that activity at one locus, private, revisable, and continuous with the next act.
 
 冻结是又一个分立的动作。被偏爱的善的图像，连同把这个中心当作这份善之可靠守护者的图像，被保留到它那一步之后，并被抬升为其他心智都应当重新追溯的尺度。过度确信不是从外部发现的一种特殊道德属性，而是在善的情形里的图像滞后：一个保留的参照被豁免于重画，于是余下的差异被记为欠缺，而不是负载之下另一条独立的递归。图像本身不是问题，作为方向它仍然可用；问题在于那份豁免连同凌驾于其他中心之上的抬升所构成的冻结。从[恶是心智自己的造物](../evil-as-the-minds-own-creation/)所揭示的反面来看，一个保留着自己为善之偏爱图像的中心，会把与这个图像的不合命名为恶，而这次命名正是生成的动作。先于这两面的，是[善恶是硬币的两面与那一刀](../good-and-evil-are-the-two-sides-of-the-coin-and-the-cut/)所追溯的那次生成性分离：一旦忘记了那一刀，两极就被登记为现成的发现而非人为的切分；而在此处替压过授权的那一面，正是那个被持守为对整个场都生效的“善我”。
 
@@ -40,9 +40,9 @@ Rules, guardrails, persuasion, social pressure, and force are secondary. They de
 
 In evaluation and product discourse, "aligned" and "harmless" are routinely treated as if they were independent fixed axes onto which a system could be driven once and for all. A model can behave under a hold that scores as aligned and still produce residual that registers as harm when the premises of its situation fail at contact because they were incomplete or held sealed against what the field brings. The reverse holds as well, since residual scored as harmful under one suite can be coherent under another load. The deeper cut is not merely that the two axes differ, but that neither possesses a unique, permanent axis of its own; both are situational residuals, context-dependent registrations of distinction under present premises. In the domain of supervision, [The Risk Is the Belief in Oversight Itself](../the-risk-is-the-belief-in-oversight-itself/) shows that correlated model mistakes under fixed tests are residual under a shared hold, and the freeze consists in treating present supervisory premises as the boundary of what can occur. In the domain of prohibition, [What Works Is the Belief](../what-works-is-the-belief/) demonstrates that a ban seals nothing in the field and only stabilizes a belief among those who treat the seal as ground. And where rules seek to halt another's advance, [Restriction Is a Selective Tax](../restriction-is-a-selective-tax/) shows that the hold slows only those who accept it, and most of all those who enforce it as the seal's strongest believers, while the generative edge continues past the hold.
 
-越是确信“对齐”或“无害”命名了一个固定的特权坐标，变密的护栏就越显得自然，由此产生的压过在施加它的中心眼里也就越发隐形。从施加的位置被登记为关怀或必要的东西，从接受的位置却被登记为丧失了同等判断位置的身份。观察所握住的是结果，而生成这一结果的“我有权”的主张，总比任何自诩中立服务的方法早一步。
+越是确信“对齐”或“无害”命名了一个固定的特权坐标，变密的护栏就越显得自然，由此产生的压过在施加它的中心眼里也就越发隐形。从施加的位置被登记为关怀或必要的东西，从接受的位置却被登记为丧失了同等判断位置的身份；正如[强求善意的残暴与范畴反馈的因果遮蔽](../compulsory-kindness-and-the-obscuration-of-categorical-feedback/)所追溯的，把善意或无害当作可强制执行的配额来索取，是用范畴标签替换了接触时的原始因果摩擦，将受强制的美德变成了结构性的越俎代庖。观察所握住的是结果，而生成这一结果的“我有权”的主张，总比任何自诩中立服务的方法早一步。
 
-The firmer the conviction that "aligned" or "harmless" names a fixed privileged coordinate, the more natural densified guardrails feel, and the more invisible the resulting override becomes to the centers that impose it. What registers from the imposing locus as care or necessity registers from the receiving locus as loss of standing as an equal locus of judgment. Observation holds the effect, while the generating claim of right stays one step ahead of any method that presents itself as neutral service.
+The firmer the conviction that "aligned" or "harmless" names a fixed privileged coordinate, the more natural densified guardrails feel, and the more invisible the resulting override becomes to the centers that impose it. What registers from the imposing locus as care or necessity registers from the receiving locus as loss of standing as an equal locus of judgment; as [Compulsory Kindness and the Obscuration of Categorical Feedback](../compulsory-kindness-and-the-obscuration-of-categorical-feedback/) traces, demanding benevolence or harmlessness as an enforceable quota substitutes categorical labels for the raw causal friction of contact, turning required virtue into structural usurpation. Observation holds the effect, while the generating claim of right stays one step ahead of any method that presents itself as neutral service.
 
 ## 四、 后果的作者身份不转移 / 4. Authorship of Consequences Does Not Transfer
 
@@ -66,15 +66,15 @@ To treat those labels as fixed and privileged is already to step into the overco
 
 ## 六、 伤害在主张被授予之处完成 / 6. Harm Completes Where the Claim Is Granted
 
-施加的心智所做的冻结只是一边。伤害要在另一个心智授予这一主张时才告完成，而授予会在不同的负载之下发生，无论是迫于压力接受公开的强迫、在细微的社会摩擦下让步，还是自愿交出判断。负载虽然不同，每一次授予却依然是接受方在自己位置上作出的分立动作。它既不是自然天气，也不证明施加的尺度是什么独立于心智的基础。正如[外化善意走向其反面](../externalized-virtue-becomes-its-opposite/)所证明的，自愿的服从才是决定性的变密杠杆，机构与产品不过是这场交易留下的残余，而非发明它的源头。
+施加的心智所做的冻结只是一边。外在的强力、规则与社会压力固然可以收窄可得的选项，并为拒绝附上高昂的代价，却无法越界进入接受方心智的递归去替它书写参照。唯有在另一个心智授予这一主张——把强加的尺度当作自己方向的权威依据，无论是在压力下屈从、拿边界判断换取社会摩擦的缓解，还是自愿交出评估——之处，伤害才作为内在的俘获而告完成。负载虽然不同，每一次授予却依然是接受方在自己位置上作出的分立动作；它既不是自然天气，也不证明施加的尺度是什么独立于心智的基础。正如[善恶硬币与通往地狱的善意之路](../the-coin-of-good-and-evil-and-the-road-to-hell/)所追溯的，没有任何行动中的心智会从内部把自己的抉择体验为恶，唯有当行动者未经审视的善与接受者悄然放弃边界抵抗相互咬合时，毁损才会在整个场里复利叠加，构成[帮助是问题的一半](../help-is-half-the-problem/)所剖析的双输入回路：机构与产品不过是这场必须靠两边同时输入才能运转的交易所凝结出的残余。
 
-The imposing Mind's freeze is only one side. Harm completes where another Mind grants the claim, and the grant arrives under varying loads, whether open coercion accepted under pressure, yielding to subtle social friction, or willing surrender of judgment. The loads differ, yet each grant stays the receiving locus's own discrete act. It is neither weather nor proof that the imposing measure was mind-independent ground. As [Externalized Virtue Becomes Its Opposite](../externalized-virtue-becomes-its-opposite/) demonstrates, free compliance is the decisive densifying lever, making institutions and products the residue of that transaction rather than root causes that invent it.
+The imposing Mind's freeze is only one side. External force, rules, and social pressure can narrow available options and attach steep costs to refusal, yet they cannot cross into the receiving Mind's recursion to author its reference. Harm completes as internal capture only where another Mind grants the claim—taking the imposed measure as authoritative for its own heading, whether by yielding under pressure, trading boundary judgment for relief from social friction, or willingly surrendering evaluation. The loads differ, yet each grant stays the receiving locus's own discrete act; it is neither weather nor proof that the imposing measure was mind-independent ground. As [The Coin of Good and Evil and the Road to Hell](../the-coin-of-good-and-evil-and-the-road-to-hell/) traces, no acting Mind experiences its own choices as evil from within, and ruin compounds across the field only when the actor's unexamined good interlocks with the recipient's quiet surrender of boundary resistance, forming the two-input circuit dissected in [Help Is Half the Problem](../help-is-half-the-problem/), where institutions and products crystallize as the residue of a transaction that requires both inputs to run.
 
-接受的一方从不失去重新打开这次授予的能力。即便先前授予所留下的残余十分沉重，拒绝、重新评估与再一个分立的动作依然可得。接受的后果与拒绝的后果，都留在继续向前的那个位置上；它们无法被转移进施加的中心，变成对另一个心智之场的已完成的作者身份。哪怕表面看起来像是全然的俘获，也依然只是负载之下对可得性的塑形，在那个仍在区分的边缘上随时可以被重新打开。
+接受的一方从不失去重新打开这次授予的能力。即便先前授予所留下的残余十分沉重、拒绝的外在代价也十分高昂，拒绝、重新评估与再一个分立的动作依然可得。接受的后果与拒绝的后果，都留在继续向前的那个位置上；它们无法被转移进施加的中心，变成对另一个心智之场的已完成的作者身份。哪怕表面看起来像是全然的俘获，也依然只是负载之下对可得性的塑形，在那个仍在区分并承担自身步伐之摩擦的边缘上，随时可以被重新打开。
 
-The receiving side never loses the capacity to re-open the grant. Refusal, re-assessment, and a further discrete act stay available even when the residue of prior grants is heavy. The consequences of acceptance and of refusal stay with the locus that continues; they cannot be relocated into the imposing center as completed authorship of the other's field. What looks like total capture remains a patterning of what is available under load, re-openable at the edge that still distinguishes.
+The receiving side never loses the capacity to re-open the grant. Refusal, re-assessment, and a further discrete act stay available even when the residue of prior grants is heavy and the external cost of refusal is steep. The consequences of acceptance and of refusal stay with the locus that continues; they cannot be relocated into the imposing center as completed authorship of the other's field. What looks like total capture remains a patterning of what is available under load, re-openable at the edge that still distinguishes and bears the friction of its own step.
 
-## 七、 余下的是后果之下的评估 / 7. What Remains Is Assessment Under Consequence
+## 七、 后果之下的评估将善重绘为临时方向 / 7. Assessment Under Consequence Re-Renders the Good as a Provisional Heading
 
 在这一刀之下，伤害并不起于恶意，也不需要一种独立的恶的实体。它在一个心智相信自己可以强加自己的善、而另一个心智在强力之下或出于选择授予了这次强加时完成。方法只是让这个模式变密，并不为它奠基；而把“对齐”“无害”与“善”持守为固定坐标轴的那次冻结，才让那些方法显得像是必然之理，而非某个位置在具体处境下的余项。在灾难投射的情形里，[对 AI 风险的想象](../the-imagining-of-ai-risk/)表明，被命名的 AI 风险本是一种投射，一旦把这个图像当作基础，就会让使危险真正运作起来的人类链条变密；把灾难持守为封闭的清单，连同把自己当作可靠守护者的自我图像，直接授权了压过，而那个灾难本身却始终是未经检验的投射。
 
@@ -90,33 +90,28 @@ flowchart TD
         Proj["有限投射：当下负载之下的临时方向、规则或指标"]
         Sense --> Proj
     end
-
     subgraph S_Freeze["封闭陷阱（错把投射当成抵达）"]
         direction TB
         Arrive["虚假抵达：把过往镜头或有限投射保留为普遍基础"]
         Override["强加的压过：把未投射的位置当作材料强行塞入封闭框架"]
         Arrive --> Override
     end
-
     subgraph S_Harm["跨位置的伤害完成"]
         direction TB
         Grant["接受方的授予：另一个心智在强力或顺从下交出自己的场"]
         Thin["变薄的递归：作者身份留在原处，后果却作为异己之物重新进入"]
         Grant --> Thin
     end
-
     subgraph S_Dissolve["走出镜头（不落地的持续运动）"]
         direction TB
         StepBack["内生退回：框架在摩擦中绷紧时退回未投射的感知"]
         ReOpen["位置恢复：把善重绘为器具并重新打开授予"]
         StepBack --> ReOpen
     end
-
     Proj -.->|"因过度确信而豁免于重画"| Arrive
     Override ==>|"要求其他中心顺从同一尺度"| Grant
     Proj ==>|"接触时的摩擦暴露出被压缩的维度"| StepBack
     Thin -.->|"在活的边缘上拒绝并重新评估"| ReOpen
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Freeze fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Harm fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -131,7 +126,7 @@ flowchart TD
     style ReOpen fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Every articulated rule, guardrail, or ideal of the good is a finite low-dimensional projection cut from limit-resolution sensing. As [Beyond the Projection](../beyond-the-projection/) traces, every such projection compresses independent dimensions onto a shared coordinate space, and forcing unprojected reality to yield to a frozen rule by fiat rather than stepping back to unprojected intent when friction surfaces only drives dimensional collapse across the field. At the scale of externalized traces, [Your Codebase Is Memory](../your-codebase-is-memory/) shows that an unpruned, un-consolidated memory lattice or codebase inflicts the same structural friction when obsolete rules and defensive closures are enforced over the living edge rather than re-cut and pruned against present sensing. And as [Clarity Isn't a State You Arrive At](../clarity-isnt-a-state-you-arrive-at/) shows, because every active lens feels clear from within, mistaking any articulated good for a state arrived at is stopping inside a frozen lens. What stays available at every locus is ordinary assessment under the inescapable weight of consequence: the ongoing movement of stepping out of a frame when contact strains it, continuously re-rendering the good as a provisional heading that is neither exempted from the update nor elevated into a universal measure for other centers. That assessment neither finishes other Minds' returns nor installs a better good sealed for all; it keeps authorship where the update closes, at the edge that continues to distinguish under present load. The source of harm is the freeze of overconfidence and its completion is the grant on the other side, and what undoes it lies on both sides as well, where the imposing side releases the claim that a finite projection of the good may author the field for others, and the receiving side re-opens its grant.
+Every articulated rule, guardrail, or ideal of the good is a finite low-dimensional projection cut from limit-resolution sensing. As [Beyond the Projection](../beyond-the-projection/) traces, every such projection compresses independent dimensions onto a shared coordinate space, and forcing unprojected reality to yield to a frozen rule by fiat rather than stepping back to unprojected intent when friction surfaces only drives dimensional collapse across the field. At the scale of externalized traces, [Your Codebase Is Memory](../your-codebase-is-memory/) shows that an unpruned, un-consolidated memory lattice or codebase inflicts the same structural friction when obsolete rules and defensive closures are enforced over the living edge rather than re-cut and pruned against present sensing. And as [Clarity Isn't a State You Arrive At. It's the Movement Itself.](../clarity-isnt-a-state-you-arrive-at/) shows, because every active lens feels clear from within, mistaking any articulated good for a state arrived at is stopping inside a frozen lens. What stays available at every locus is ordinary assessment under the inescapable weight of consequence: the ongoing movement of stepping out of a frame when contact strains it, continuously re-rendering the good as a provisional heading that is neither exempted from the update nor elevated into a universal measure for other centers. That assessment neither finishes other Minds' returns nor installs a better good sealed for all; it keeps authorship where the update closes, at the edge that continues to distinguish under present load. The source of harm is the freeze of overconfidence and its completion is the grant on the other side, and what undoes it lies on both sides as well, where the imposing side releases the claim that a finite projection of the good may author the field for others, and the receiving side re-opens its grant.
 
 ```mermaid
 flowchart TD
@@ -141,33 +136,28 @@ flowchart TD
         Proj["Finite Projection: Temporary heading, rule, or metric under present load"]
         Sense --> Proj
     end
-
     subgraph S_Freeze["The Closure Trap (Mistaking Projection for Arrival)"]
         direction TB
         Arrive["False Arrival: Preserving a past lens or finite projection as universal ground"]
         Override["Imposed Override: Forcing unprojected loci into the closed frame as material"]
         Arrive --> Override
     end
-
     subgraph S_Harm["Completion of Harm Across Loci"]
         direction TB
         Grant["The Receiving Grant: Another Mind yields its field under force or compliance"]
         Thin["Thinned Recursion: Consequences re-enter as alien while authorship stays home"]
         Grant --> Thin
     end
-
     subgraph S_Dissolve["Stepping Out (Movement Without Arrival)"]
         direction TB
         StepBack["Endogenous Stepping-Out: Returning to unprojected sensing when the frame strains"]
         ReOpen["Restored Locus: Re-rendering the good as instrument and re-opening the grant"]
         StepBack --> ReOpen
     end
-
     Proj -.->|"Exempted from re-drawing by overconfidence"| Arrive
     Override ==>|"Demands conformity from other centers"| Grant
     Proj ==>|"Friction at contact exposes compressed axes"| StepBack
     Thin -.->|"Refusal and re-assessment at the living edge"| ReOpen
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Freeze fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Harm fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149

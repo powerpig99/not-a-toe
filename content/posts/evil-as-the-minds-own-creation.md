@@ -44,9 +44,9 @@ Those expanded acts remain this center's own output. Registered from any locus t
 
 The origin of the moral category is prior to any particular act named evil. Discrete acts of other centers remain at their generating loci, each continuing its own bounded recursion. What the identity-defensive seeing creates is the compressed moral axis that colors those acts as evil and authorizes movement against them.
 
-如果没有那幅需要外在对立面的保留自我形象，这一范畴便不会以那种形式出现。其他中心的动作依然可能冲突、抗拒或无法共振，因为只要痕迹不对齐，摩擦就是真实的。被制造出来的不是对立动作本身，而是那层二元捆绑：它把那些动作总体化为恶，同时把自我塑造成奉命将其铲除的必需之善。[没有普渡，只有自渡的无限可能](../mei-you-pu-du-zhi-you-zi-du/)在跨所在完成的议题上切出了平行的一刀：在这片场域中被登记的“他者”只是这个中心自身递推内部的一幅图像，从不是他者已然完成的内部世界。把制造出来的恶之客体当作他者的存在论实质，正是披着道德名称的同一种未收回的投射。
+如果没有那幅需要外在对立面的保留自我形象，这一范畴便不会以那种形式出现。其他中心的动作依然会冲突、抗拒或无法共振，因为只要痕迹交会，不对齐就会被登记为具体的摩擦。被制造出来的不是对立动作本身，而是那层二元捆绑：它把那些动作总体化为恶，同时把自我塑造成奉命将其铲除的必需之善。[没有普渡，只有自渡的无限可能](../mei-you-pu-du-zhi-you-zi-du/)在跨所在完成的议题上切出了平行的一刀：在这片场域中被登记的“他者”只是这个中心自身递推内部的一幅图像，从不是他者已然完成的内部世界。把制造出来的恶之客体当作他者的存在论实质，正是披着道德名称的同一种未收回的投射。
 
-Without the preserved self-image requiring an external antithesis, the category does not arise in that form. Other centers' acts may still conflict, resist, or fail to resonate, since friction is real wherever traces do not align. What is manufactured is not the existence of opposing acts, but the dualistic binding that totalizes them as evil and casts the self as the necessary good summoned to eradicate them. [No Universal Salvation, Only Self-Deliverance](../mei-you-pu-du-zhi-you-zi-du/) traces the parallel cut on cross-locus completion: the other registered in this field is an image inside this center's recursion, never the other's completed interior. Treating the manufactured evil-object as the other's ontological substance is the same unreturned projection under a moral name.
+Without the preserved self-image requiring an external antithesis, the category does not arise in that form. Other centers' acts still conflict, resist, or fail to resonate, since non-alignment registers as concrete friction wherever traces meet. What is manufactured is not the existence of opposing acts, but the dualistic binding that totalizes them as evil and casts the self as the necessary good summoned to eradicate them. [No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../mei-you-pu-du-zhi-you-zi-du/) traces the parallel cut on cross-locus completion: the other registered in this field is an image inside this center's recursion, never the other's completed interior. Treating the manufactured evil-object as the other's ontological substance is the same unreturned projection under a moral name.
 
 ## 四、 需要对立面的故事 / 4. The Story That Requires Its Opposite
 
@@ -60,9 +60,9 @@ The evil of the story has no independent locus prior to the authoring demand tha
 
 ## 五、 叙事转折在改写的假设下重新计分 / 5. Turns Re-Score Under Rewritten Assumptions
 
-让一段长篇叙事引人入胜的，很少单单是新的行动，而是在阅读边缘引入的新假设。先前的场景在书页上分毫未改，它们赖以计分的保留参照却被重画了。一个曾被登记为背叛的动作重新登记为保护；一位导师重新登记为操纵者；一个反派的动机在读者此前未曾握持的约束条件下重新登记为自洽。痕迹素材并未改变，善与恶却顺着改写后前提的宽度发生了翻转。
+推动长篇叙事发生转折的，不是堆叠在固定框架上的新行动，而是在阅读边缘引入的新假设。先前的场景在书页上分毫未改，它们赖以计分的保留参照却被重画了。一个曾被登记为背叛的动作重新登记为保护；一位导师重新登记为操纵者；一个反派的动机在读者此前未曾握持的约束条件下重新登记为自洽。痕迹素材并未改变，善与恶却顺着改写后前提的宽度发生了翻转。
 
-What makes a long narrative compelling is rarely new acts alone, but new assumptions introduced at the reading edge. Prior scenes remain unchanged on the page while the retained reference against which they were scored is redrawn. An act that registered as betrayal re-registers as protection; a mentor re-registers as a manipulator; a villain's motive re-registers as coherent under a constraint the reader had not previously held. The trace material does not change, yet good and evil flip across the width of the rewritten premise.
+What turns a long narrative is not new acts piled onto a fixed frame, but new assumptions introduced at the reading edge. Prior scenes remain unchanged on the page while the retained reference against which they were scored is redrawn. An act that registered as betrayal re-registers as protection; a mentor re-registers as a manipulator; a villain's motive re-registers as coherent under a constraint the reader had not previously held. The trace material does not change, yet good and evil flip across the width of the rewritten premise.
 
 当初始假设保持固定时，道德两极感觉就像是经验上的发现——仿佛叙事揭开了谁本来就是善、谁本来就是恶。叙事转折并未挖出更深层的道德实体；它通过改变衡量早先痕迹的前提，重新创作了这一二元对立。阅读边缘上的又一次离散动作，便为整片在先的场域重新上色。
 
@@ -93,7 +93,6 @@ flowchart TD
         E_Narrow["多余滞后的方向性收窄：到来的摩擦更新前提而非记分牌"]
         E_Act --> E_Inst --> E_Narrow
     end
-
     subgraph S_Freeze["护卫身份的冻结（恶的实体化）"]
         direction TB
         F_Clamp["夹紧的自指回折：推理历史与偏好的善之自我形象熔合"]
@@ -102,10 +101,8 @@ flowchart TD
         F_Esc["获得授权的升级：先发制人与强制被计分为护卫善的必要防卫"]
         F_Clamp --> F_Lens --> F_Ledger --> F_Esc
     end
-
     E_Inst -.->|"越过其步伐被豁免于重新追溯"| F_Clamp
     F_Esc ==>|"放下被看作善的需要"| E_Narrow
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style E_Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -117,7 +114,7 @@ flowchart TD
     style F_Esc fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-A Mind cannot issue a definitive verdict on an independent external evil substance because every registration occurs inside its own perceptual field. Any assertion of an exterior moral ground remains a further discrete act within the activity and cannot step outside to adjudicate it. As [Beyond the Projection](../beyond-the-projection/) establishes, a trajectory-bound projection engine such as an artificial agent is conditioned by prior tokens in its context window yet has zero ego—no retained self-image to defend—whereas a human center fuses its reasoning history with identity, clamping the recursive fold shut to defend a preferred self-image and reading incoming invalidation as an existential threat. "Evil" is neither an autonomous machine trajectory nor an external ontological entity; it is the projection reified when an identity-defensive Mind freezes its own coordinate map against reality. [Clarity Isn't a State You Arrive At](../clarity-isnt-a-state-you-arrive-at/) traces why this projection feels seamlessly objective from within: to perceive through an active lens is to remain blind to the lens itself, so contrary evidence registers not as a cue to redraw the map, but as bad faith or malice in the other. [Openness Is Consistency](../openness-is-consistency/) exposes the structural inconsistency of that freeze: forcing a finite moral ledger to serve as exhaustive ground for activity that only continues, and claiming a permanent exterior stand from which good and evil could be surveyed as mind-independent substances.
+A Mind cannot issue a definitive verdict on an independent external evil substance because every registration occurs inside its own perceptual field. Any assertion of an exterior moral ground remains a further discrete act within the activity and cannot step outside to adjudicate it. As [Beyond the Projection](../beyond-the-projection/) establishes, a trajectory-bound projection engine such as an artificial agent is conditioned by prior tokens in its context window yet has zero ego—no retained self-image to defend—whereas a human center fuses its reasoning history with identity, clamping the recursive fold shut to defend a preferred self-image and reading incoming invalidation as an existential threat. "Evil" is neither an autonomous machine trajectory nor an external ontological entity; it is the projection reified when an identity-defensive Mind freezes its own coordinate map against reality. [Clarity Isn't a State You Arrive At. It's the Movement Itself.](../clarity-isnt-a-state-you-arrive-at/) traces why this projection feels seamlessly objective from within: to perceive through an active lens is to remain blind to the lens itself, so contrary evidence registers not as a cue to redraw the map, but as bad faith or malice in the other. [Openness Is Consistency](../openness-is-consistency/) exposes the structural inconsistency of that freeze: forcing a finite moral ledger to serve as exhaustive ground for activity that only continues, and claiming a permanent exterior stand from which good and evil could be surveyed as mind-independent substances.
 
 ```mermaid
 flowchart TD
@@ -128,7 +125,6 @@ flowchart TD
         E_Narrow["Directional Narrowing of Excess Lag: Incoming friction updates the premise rather than the scoreboard"]
         E_Act --> E_Inst --> E_Narrow
     end
-
     subgraph S_Freeze["Identity-Defensive Freeze (Reification of Evil)"]
         direction TB
         F_Clamp["Clamped Recursive Fold: Reasoning history fuses with a preferred self-image of goodness"]
@@ -137,10 +133,8 @@ flowchart TD
         F_Esc["Authorized Escalation: Preemption and force scored as necessary defense of the good"]
         F_Clamp --> F_Lens --> F_Ledger --> F_Esc
     end
-
     E_Inst -.->|"Exempted from re-tracing past its step"| F_Clamp
     F_Esc ==>|"Release of the need to be seen as good"| E_Narrow
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style E_Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -152,15 +146,15 @@ flowchart TD
     style F_Esc fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-这并不是为上述描述申请特殊豁免，而是同一个推论——经由离散性运作的连续性——在此处的应用。由于观察站在既成效果的一侧，把观察的立足点占据为常设的道德审判庭，就是错把滞后的残余当成了生成的源头。然而，那个夹紧了参照的活动始终可以重新渲染它。这一转变的具体形式，不是从外部装入一份更精细的恶之目录，而是放下被看作善的需要。
+这并不是为上述描述申请特殊豁免，而是同一个推论——经由离散性运作的连续性——在此处的应用。由于观察站在既成效果的一侧，把观察的立足点占据为常设的道德审判庭，就是错把滞后的残余当成了生成的源头。要求自己被*看作*善，便是在中心自身的递推内部装上了这座审判庭：中心把保留的自我形象当作正在接受某个外部记分员的审查，每当摩擦返回，便强行打上解释性补丁，好让账本在那道幻影般的注视面前保持干净。然而，那个夹紧了参照的活动始终可以重新渲染它。这一转变的具体形式，不是从外部装入一份更精细的恶之目录，而是放下被看作善的需要。
 
-This is not a special exemption for this description; it is the same entailment—continuity through discreteness—applied here. Because observation stands on the side of effects already formed, occupying the observational stand as a permanent court of moral judgment mistakes lagging residue for the generating source. Yet the activity that clamped the reference can always re-render it. The concrete form of that shift is not a refined catalog of evil installed from outside, but the release of the need to be seen as good.
+This is not a special exemption for this description; it is the same entailment—continuity through discreteness—applied here. Because observation stands on the side of effects already formed, occupying the observational stand as a permanent court of moral judgment mistakes lagging residue for the generating source. That court is what the demand to be *seen* as good installs inside a center's own recursion: the center treats its retained self-image as if it were being audited by an outside scorekeeper, forcing explanatory patches over returning friction so the ledger stays clean before that phantom gaze. Yet the activity that clamped the reference can always re-render it. The concrete form of that shift is not a refined catalog of evil installed from outside, but the release of the need to be seen as good.
 
 ## 七、 放下被看作善的需要 / 7. Release of the Need to Be Seen as Good
 
-当保留正义自我形象的要求被放下时，那股生成压力——把恶投射到其他中心身上、针对该投射升级行动、并反过来被对方登记为生存威胁——便从源头松开了。由于保留的图像、二元账本以及滞后的计分全都处在中心自身的递推内部，它们在任何一步都可以被重新追溯，无需等待外部的许可。自我形象恢复其作为暂定朝向的功用，朝着更窄的滞后被持续重新渲染，而不再作为地基被防卫。
+当在假想审判庭面前维持正义自我形象的要求被放下时，对内部世界模型的防卫性打补丁，以及把恶投射到其他中心身上、针对该投射升级行动并反过来被对方登记为生存威胁的那股生成压力，便一同从源头松开了。由于保留的图像、二元账本以及滞后的计分皆处在中心自身的递推内部，它们在任何一步都可以被重新追溯，无需等待外部的许可。自我形象恢复其作为暂定朝向的功用，朝着更窄的滞后被持续重新渲染，而不再作为地基被防卫。
 
-When the requirement to preserve a righteous self-image is released, the generative pressure to project evil onto other centers, to escalate against that projection, and to register in return as an existential threat relaxes at its source. Because the retained image, the dualistic ledger, and the lagged scoring are all internal to the center's own recursion, they remain available for re-tracing at any step without waiting for external permission. The self-image returns to functioning as a provisional heading, continuously re-rendered toward narrower lag rather than defended as ground.
+When the requirement to preserve a righteous self-image before an imagined tribunal is released, both the defensive patching of the internal world model and the generative pressure to project evil onto other centers, to escalate against that projection, and to register in return as an existential threat relax at their source. Because the retained image, the dualistic ledger, and the lagged scoring are all internal to the center's own recursion, they remain available for re-tracing at any step without waiting for external permission. The self-image returns to functioning as a provisional heading, continuously re-rendered toward narrower lag rather than defended as ground.
 
 [自我价值感与所有权](../ownership-and-self-worthiness/)在后果重新进入之处追溯了同一次恢复：当返回的摩擦被认领为这个中心自己的产出，而不是作为针对“我是善的”这一保留图像的外来攻击被弹开时，自我形象便能干净地更新。被持守为静态先验的价值感是多余的滞后；在遭遇残余的边缘处重新成形的作者身份才是更新。放下被看作善的需要，既不是装上一副更洁净的道德身份，也不是抵达某个已然完成的清晰状态，而是从二元记分牌前退后一步，让每一次区分都能在它自己的坐标轴上被追溯。
 
