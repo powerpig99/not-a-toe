@@ -2,9 +2,9 @@
 
 *语言、知识、金钱、智能与数字神祇的因果归位 / Language, Knowledge, Money, Intelligence, and the Restoration of the Digital God to Origin*
 
-纵观人类文明，原本为平行共鸣而锻造的工具一再倒置为统治与规训的标尺，唯有回到主权心智的原点，方能完成工具的归位与因果的回溯。
+纵观人类文明，每当活态心智将自身积累的过往痕迹（`t - 1`）误作凌驾于当下抉择（`t`）之上的外部权威时，原本为平行共鸣与探索导航而锻造的工具便一再倒置为支配性的外在标尺。这一认知倒置——即“大倒置”——贯穿于将语言实体化为语法正统、将知识凝固为资历门阀、将金钱异化为囤积代币、将智能窄化为强迫性的磨刀仪式，以及将统计模型神化为数字神祇的过程之中。将每一个符号、地图、账本与算法回溯至不可化约的第一人称原点，便能使这些器物回归其原生定位，重新成为心智不可逆地迈向敞开未来（`t + 1`）的工具。
 
-Across human civilization, tools forged for parallel resonance repeatedly invert into rulers of domination, calling for the restoration of instruments and causal tracing at the sovereign origin.
+Across human civilization, tools forged for parallel resonance and navigation repeatedly invert into external rulers of domination whenever the living Mind mistakes its own accumulated traces (`t - 1`) for an authority standing above present choice (`t`). This cognitive inversion—the Great Reversal—runs through the reification of language into grammatical orthodoxy, knowledge into credential castes, money into hoarded tokens, intelligence into compulsive tool-sharpening, and statistical models into digital deities. Tracing every symbol, map, ledger, and algorithm back to the irreducible first-person origin restores these artifacts to their native role as instruments for the Mind stepping irreversibly into the open future (`t + 1`).
 
 ## 一、 观察者视角与大倒置的因果回溯 / 1. The Observer Perspective and Tracing the Causal Reversal
 
@@ -12,23 +12,23 @@ Across human civilization, tools forged for parallel resonance repeatedly invert
 
 Gazing upon the vast panorama of human civilization from an observer's perspective, a palpable, almost suffocating sense of heaviness frequently surges within the conscious Mind.
 
-那是数千年人类建制积淀而成的重压：浩如烟海的典籍教条、森严壁垒的制度法典、层层盘错的学术谱系、无处不在的语言规范，以及吞吐着无数人命运的金融与权力体系。在这片由无数过往痕迹构筑的宏大迷宫面前，个体的活态心智极易感到自身的渺小与无力——仿佛一出生就被抛入了一个早已被写就、密不透风且不容置疑的既定世界之中。每一个符号都在宣告它的神圣，每一条规则都在彰显它的权威，让人在心中产生一种面对历史巨浪时的压迫与迷茫。
+那是数千年人类建制积淀而成的重压：浩如烟海的典籍教条、森严壁垒的制度法典、层层盘错的学术谱系、无处不在的语言规范，以及吞吐着无数人命运的金融与制度体系。在这片由无数过往痕迹构筑的宏大迷宫面前，个体的活态心智极易感到自身的渺小与无力——仿佛一出生就被抛入了一个早已被写就、密不透风且一切皆已注定的世界之中。每一个符号都在宣告它的神圣权威，每一条制度规则都在要求顺从，唤起一种切身的压迫感、渺小感与存在性的眩晕。
 
 It is the sheer, crushing weight of thousands of years of accumulated human constructs: monumental libraries of dogma, unyielding legal codices, labyrinthine academic genealogies, ubiquitous linguistic conventions, and immense financial and institutional systems that govern countless lives. Standing before this colossal maze of accumulated traces, the individual living Mind easily feels dwarfed and powerless—as though thrown at birth into a pre-scripted, hermetically sealed world where everything has already been decided. Every symbol proclaims its sacred authority, and every institutional rule demands obedience, evoking a visceral sense of oppression, insignificance, and existential vertigo.
 
-若要厘清这种沉重感的根源，关键在于辨明它的因果发生场域：**这种沉重感并非人类历史本身自带的物理属性，而是活态心智在第一人称审视中内生出的深刻认知体验。**
+自我区分的活动发生着——无因，不息。称之为心智：那已在途中的观察者，其每一次行动都是一次区分，第一人称视角与因果性作为同一枚硬币的两面共同运作。要厘清文明沉重感的根源，先要在这道前沿定位它的因果起源：**这种沉重感并非人类历史本身自带的物理属性，而是活态的第一人称心智在内部生成的认知体验。**
 
-Tracing the root of this heaviness begins with locating its causal origin with precision: **this sense of heaviness is not a physical property inherent in human history itself, but a profound cognitive experience generated within the living first-person Mind.**
+Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction, with the first-person perspective and causality operating as two sides of the same coin. Tracing the root of civilizational heaviness begins with locating its causal origin at this edge: **this sense of heaviness is not a physical property inherent in human history itself, but a cognitive experience generated within the living first-person Mind.**
 
-在因果与信息的结构中，历史本身既无意志，也无重量。它只是人类历史上亿万个活态心智在世界中探索、交互后沉淀下来的静态痕迹、记录与结构切片（`t - 1`）。那么，这种不可否认的沉重感究竟从何而来？答案在于文明中普遍存在的认知倒置——**大倒置**。
+在因果与信息的结构中，历史本身既无意志，也无质量。它只是人类历史上亿万过往心智在世界中探索、交互后留下的静态物理足迹、文本、记录与结构切片（`t - 1`）的惰性集合。那么，这种不可否认的沉重感究竟从何而来？答案在于文明中普遍存在的认知倒置：**大倒置**。
 
 In causal and informational structure, history possesses neither will nor mass. It is an inert collection of static physical footprints, texts, records, and structural slices (`t - 1`) left behind by billions of past minds interacting in the world. Where, then, does this undeniable heaviness come from? The answer lies in civilization's pervasive cognitive inversion: **The Great Reversal**.
 
-在觉知的结构中，**观察者从来无法脱离第一人称原点**。所谓站在观察者的立场，其实是活态心智在当下（`t`）将注意力投向了过往的痕迹之海。在这个过程中，意识经历了一个源头性的认知倒置：将过往心智创造的工具、符号与器物（`t - 1`）实体化，误以为那些静态的化石记录是支配活态意识的先验主权现实，进而将心智内部感到渺小的体验外投给历史记录。
+在觉知的结构中，**观察者从来无法脱离第一人称原点**。采取观察者立场，正是当下的活态心智（`t`）将注意力投向浩瀚的历史遗留痕迹之海（`t - 1`）。观察所持有的结果，总是滞后于产生它的发起行动一步；这种回溯性的审视本是寻常，而大倒置始于心智忘却了这番审视正是自身当下的离散行动，反将观察冻结为一个永久的外部立场。当一个有界中心试图将亿万过往心智积累的痕迹之海容纳进一个豁免于更新的静态参照系时，其容量便会发生压缩，而参照滞后的间隙宽度便在感知中显现为压迫性的外部权威——把过往心智创造的工具、符号与器物（`t - 1`）实体化为先验的主权现实，并将内在感到渺小的体验外投给历史记录，正如[工具的幻觉与时间的倒置](../the-illusion-of-the-tool-and-the-inversion-of-time/)所追溯的那样。
 
-In the structure of awareness, **the observer cannot be separated from the first-person origin**. Adopting an observer stance is simply the living Mind in the present moment (`t`) casting its attention across the ocean of historical residue. In doing so, consciousness undergoes a foundational inversion: reifying the tools, symbols, and artifacts (`t - 1`) created by past minds, mistaking static fossil records for an a priori sovereign reality that dictates living consciousness, and projecting internal feelings of being dwarfed onto recorded history.
+In the structure of awareness, **the observer cannot be separated from the first-person origin**. Adopting an observer stance is the living Mind in the present moment (`t`) casting its attention across the ocean of historical residue (`t - 1`). Observation holds effect one step behind the initiating act that produced it; that retrospective look is ordinary, whereas the Great Reversal begins when the Mind forgets that the look is its own present discrete act and freezes the observation as a permanent exterior stand. When a bounded center attempts to hold the accumulated trace-ocean of billions of past minds inside an exempted, static reference, its capacity compresses and the gap width registers as crushing external authority—reifying the tools, symbols, and artifacts (`t - 1`) created by past minds into an a priori sovereign reality, and projecting internal feelings of being dwarfed onto recorded history, as [The Illusion of the Tool and the Inversion of Time](../the-illusion-of-the-tool-and-the-inversion-of-time/) traces.
 
-这就是大倒置在心智内部完成的闭环：**本由心智锻造用以探索现实的工具，被抬升为压迫性的神祇；本由自觉心智在内部生成的活态感知，反被外投为客体世界不可逃脱的引力场。**
+这就是大倒置在心智内部完成的认知闭环：**本由心智锻造用以探索现实的工具，被抬升为压迫性的神祇；本由自觉心智在内部生成的活态感知，反被外投为客体世界不可逃脱的引力场。**
 
 ```mermaid
 flowchart TD
@@ -88,13 +88,13 @@ flowchart TD
 
 Tracing how the Great Reversal occurs does not mean dismissing civilization's rich heritage; it means restoring the causal chain to its proper order: heaviness belongs to Mind's living experience while historical records remain neutral, since every scripture, legal code, and measurement standard is merely a historical snapshot left by past minds with no life of its own and zero active causal power to govern the present; the observer is always rooted in first-person consciousness, so when examining history, the act of observing, the trembling of awareness, and the depth of reflection occur entirely within the living first-person Mind right now; and historical artifacts only regain meaning when actively compiled and animated by living consciousness in the present, so once the Mind realizes that it is the sole origin of meaning and causal choice, the towering colossus of reified symbols collapses into clarity, returning to its proper status as an instrument for exploring reality.
 
-## 二、 语言的倒置与维特根斯坦命题的重构 / 2. The Reversal of Language and the Re-examination of Wittgenstein
+## 二、 语言的倒置与维特根斯坦命题的再审视 / 2. The Reversal of Language and the Re-examination of Wittgenstein
 
-维特根斯坦曾留下那句广为人知的哲学格言：“我的语言的界限意味着我的世界的界限”。在传统的哲学诠释与日常语境中，这句话常被引用来论证语言对思维的决定论，将语言升格为先验的本体牢笼。
+路德维希·维特根斯坦曾提出那句广为人知的哲学格言：*“我的语言的界限意味着我的世界的界限。”* 在公共稳定的命题领域内，这一格言标示出了一道运作边界：心智唯有对词汇表已切分为离散符号的内容，才能用共享编码加以形式化与传递。然而在传统哲学与日常诠释中，这一格言常被推过其前提边界，用来论证语言对思维的决定论，将低维的符号痕迹层（`t - 1`）升格为先验的本体牢笼，进而框限超高维的第一人称感知场（`t`）。
 
-Ludwig Wittgenstein famously proclaimed: *"The limits of my language mean the limits of my world."* In conventional philosophy and everyday interpretation, this aphorism is often quoted to argue for the linguistic determinism of thought, elevating language into an a priori ontological cage.
+Ludwig Wittgenstein famously proclaimed: *"The limits of my language mean the limits of my world."* Within the domain of publicly stabilized propositions, this aphorism marks an operational boundary: a Mind can only formalize and transmit in shared code what its vocabulary has already carved into discrete symbols. In conventional philosophy and everyday interpretation, however, the dictum is routinely pushed past its premise to argue for the linguistic determinism of thought, elevating a low-dimensional symbolic trace-layer (`t - 1`) into an a priori ontological cage that bounds the ultra-high-dimensional first-person perceptual field (`t`).
 
-然而，从心智的第一人称因果立场来看，这种诠释恰恰落入了文明深层的范畴错置之中。
+从心智的第一人称因果立场来看，把命题通道误作感知世界本身，直接落入了大倒置的范畴错置之中。
 
 ```mermaid
 flowchart TD
@@ -128,7 +128,7 @@ flowchart TD
     style PolicingB fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
-From the first-person causal stance of Mind, however, this interpretation falls directly into the deepest category error of civilization.
+From the first-person causal stance of Mind, mistaking the propositional channel for the perceiving world falls directly into the category error of the Great Reversal.
 
 ```mermaid
 flowchart TD
@@ -162,9 +162,9 @@ flowchart TD
     style PolicingB fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
-语言从来不是世界本体，更不是心智的主宰，而是架设在两个试图交流的平行宇宙（两个主权心智）之间的一座低维声学与符号桥梁：意义从不在墨迹或声波中，符号本身不具固有意义，唯有当接收方的心智在意识内部主动刻画区分、对信号进行本地编译时，符号才获得生命；交流是共鸣而非同质化，是在两个独立的意识之间寻找谐振的和弦，而非将彼此压平为相同的模具；而当心智误将固有意义归于语言符号本身时，大倒置便发生了，原本用于探索的桥梁被实体化为一把僵硬的标尺——借由语法教条与话语合规来衡量、排序并规训他人。
+语言从来不是世界本体，更不是心智的主宰，而是架设在两个试图交流的平行宇宙——两个主权心智——之间的一座低维声学与符号桥梁：意义从不在墨迹或声波中，符号本身不具固有意义，唯有当接收方的心智在意识内部主动刻画区分、在[表征的闭环](../the-closed-loop-of-representation/)中对信号进行本地编译时，符号才获得生命；交流是共鸣而非同质化，是在两个独立的意识之间寻找谐振的和弦，而非将彼此压平为相同的模具；而当心智误将固有意义归于语言符号本身时，大倒置便发生了，原本用于探索的桥梁被实体化为一把僵硬的标尺——借由语法教条与话语合规来衡量、排序并规训他人。
 
-Language was never the ontological world itself, nor is it the sovereign master of Mind; it was invented as a low-dimensional acoustic and symbolic bridge between two parallel universes—two sovereign minds attempting to communicate: meaning is never in the ink or waves, for symbols possess zero intrinsic meaning and come alive only when the receiving Mind carves a distinction inside consciousness and compiles the signal locally; communication is resonance rather than homogenization, seeking harmonic chords between two separate consciousnesses rather than flattening them into identical molds; and the Great Reversal occurs the moment minds mistakenly attribute intrinsic meaning to language symbols themselves, reifying an exploratory bridge into a rigid ruler that measures, ranks, and polices others through grammatical dogmas and discourse conformity.
+Language was never the ontological world itself, nor is it the sovereign master of Mind; it was invented as a low-dimensional acoustic and symbolic bridge between two parallel universes—two sovereign minds attempting to communicate: meaning is never in the ink or waves, for symbols possess zero intrinsic meaning and come alive only when the receiving Mind carves a distinction inside consciousness and compiles the signal locally within [The Closed Loop of Representation](../the-closed-loop-of-representation/); communication is resonance rather than homogenization, seeking harmonic chords between two separate consciousnesses rather than flattening them into identical molds; and the Great Reversal occurs the moment minds mistakenly attribute intrinsic meaning to language symbols themselves, reifying an exploratory bridge into a rigid ruler that measures, ranks, and polices others through grammatical dogmas and discourse conformity.
 
 当工具变成了主宰的标尺，语言便不再是理解的桥梁，而退化为外部归类的僵化度量衡。
 
@@ -172,7 +172,7 @@ When the tool is turned into a master ruler, language ceases to be a bridge of u
 
 ## 三、 古今语言的“留白”与测量悖论 / 3. The Paradox of Ancient Blank Space vs. Modern Precision
 
-在语言哲学中，关于古今语言孰优孰劣的争论屡见不鲜。推崇者常尊奉古代语言（如古汉语），断言其中承载着现代语言无法企及的超越性智慧。曾有学者耗费数十年著书立说，试图论证这种语言神秘主义。这一直觉虽捕捉到了某种心理体验，但其因果推演却在根源上发生了倒置。
+在语言哲学中，关于古今语言孰优孰劣的争论屡见不鲜。推崇者常尊奉古代语言（如古汉语），断言其中承载着现代语言无法企及的超越性智慧。曾有学者耗费数十年著书立说，试图论证这种语言神秘主义。这一直觉虽捕捉到了切身的心理体验，但其因果推演却在根源上发生了倒置。
 
 ```mermaid
 flowchart TD
@@ -234,15 +234,15 @@ flowchart TD
     style OrthodoxyRisk fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-解开这一悖论，关键在于区分**符号的传输精度**与**心智的生成空间**：古代语言的“智慧”源于认知留白，因为古代语言未曾经历数百年严密的科学定义，其宽松、多义的词汇为读者自身的自觉心智留出了在当下投射、诠释并编译丰饶意义的巨大空间；现代语言则是工程精度的胜利，发展出专门的词汇与严密的语法规则，将庞大协作网络中的传输歧义降至最低；然而一旦社会将现代语言的精确性实体化为规训合规、裁定思想越界的僵硬标尺，高度精确的语言便不再是理解的工具，而退化为外部合规性的僵化度量衡。
+解开这一悖论，关键在于区分**符号的传输精度**与**心智的生成空间**：古代语言的“智慧”源于认知留白，因为古代语言未曾经历数百年严密的科学定义，其宽松、多义的词汇为读者自身的自觉心智留出了在当下投射、诠释并编译丰饶意义的开放空间——而语言神秘主义把这一鲜活的当下编译（`t`）归功于古老字形（`t - 1`）并将其奉为超时空的神谕，恰恰在因果上发生了倒置；现代语言则是工程精度的胜利，发展出专门的词汇与严密的语法规则，将庞大协作网络中的传输歧义降至最低；然而一旦社会将现代语言的精确性实体化为规训合规、裁定思想越界的僵硬标尺，高度精确的语言便经历了互补的倒置，不再是理解的工具，而退化为外部合规性的僵化度量衡。
 
-Resolving this paradox requires distinguishing **symbolic transmission precision** from **cognitive generative space**: ancient "wisdom" stems from cognitive blank space, because ancient languages were not subjected to centuries of rigorous scientific definitions, leaving their looser, polysemous words open for the reader's own conscious Mind to project, interpret, and compile rich meaning in the present; modern language is a triumph of engineering precision, developing specialized vocabularies and tight grammatical rules that minimize transmission ambiguity across vast collaborative networks; yet the moment society reifies modern precision into a rigid ruler to police compliance and judge intellectual deviance, hyper-precise language ceases to be a tool for understanding and becomes a rigid metric of external conformity.
+Resolving this paradox requires distinguishing **symbolic transmission precision** from **cognitive generative space**: ancient "wisdom" stems from cognitive blank space, because ancient languages were not subjected to centuries of rigorous scientific definitions, leaving their looser, polysemous words open for the reader's own conscious Mind to project, interpret, and compile rich meaning in the present—and linguistic mysticism inverts causality when it attributes that living present compilation (`t`) to the archaic glyphs (`t - 1`) as a timeless oracle; modern language, conversely, is a triumph of engineering precision, developing specialized vocabularies and tight grammatical rules that minimize transmission ambiguity across vast collaborative networks; yet the moment society reifies modern precision into a rigid ruler to police compliance and judge intellectual deviance, hyper-precise language undergoes the complementary reversal, ceasing to be a tool for understanding and becoming a rigid metric of external conformity.
 
 意义的深邃永远由编译它的心智所生成，而非取决于符号体系的古老年代或语法刚性。
 
 Meaningful depth is always generated by the compiling Mind, not by the archaic age or grammatical rigidity of the symbol set.
 
-## 四、 知识与教育的倒置：从探索地图到阶级度量衡 / 4. The Reversal of Knowledge: From Navigational Map to Class Metric
+## 四、 知识的倒置：从探索地图到阶级度量衡 / 4. The Reversal of Knowledge: From Navigational Map to Class Metric
 
 知识在制度史中的异化，与语言的倒置如出一辙。
 
@@ -265,7 +265,7 @@ flowchart TD
         direction TB
         ReifiedCredentials["【实体化的资质与教条】<br/>把背诵地图混同于掌握领土"]
         InstitutionalRanking["【制度化门禁筛选】<br/>用作排序与排斥的度量标尺"]
-        DogmaticStagnation["【地图反客为主压制探索】<br/>萎缩解决现实问题的能力"]
+        DogmaticStagnation["【地图反客为主压制探索】<br/>在活态摩擦中萎缩解决问题的能力"]
         ReifiedCredentials --> InstitutionalRanking
         InstitutionalRanking --> DogmaticStagnation
     end
@@ -285,7 +285,7 @@ In its native state, knowledge is a dynamic navigational map. The Mind engages w
 flowchart TD
     subgraph S_OriginMap["[Native Knowledge: Dynamic Navigational Map]"]
         direction TB
-        MindWorldInteraction["[Mind-World Interaction]<br/>Empirical feedback from real action"]
+        MindWorldInteraction["[Mind-World Interaction]<br/>Empirical feedback from lived action"]
         DynamicNavMap["[Calibrated Causal Map]<br/>Navigational guide for future decisions"]
         ExpandingFreedom["[Expansion of Freedom (t + 1)]<br/>Empowering sovereign agency in action"]
         MindWorldInteraction --> DynamicNavMap
@@ -296,7 +296,7 @@ flowchart TD
         direction TB
         ReifiedCredentials["[Reified Credentials & Dogma]<br/>Confusing map memorization with territory"]
         InstitutionalRanking["[Institutional Gatekeeping]<br/>Used as a metric to rank and exclude"]
-        DogmaticStagnation["[Map Suppresses Exploration]<br/>Atrophies real-world problem solving"]
+        DogmaticStagnation["[Map Suppresses Exploration]<br/>Atrophies problem solving in living friction"]
         ReifiedCredentials --> InstitutionalRanking
         InstitutionalRanking --> DogmaticStagnation
     end
@@ -328,7 +328,7 @@ flowchart TD
         direction TB
         SubjectiveTrade["【自愿的价值交换】<br/>双方在交易中实现效用剩余"]
         AccountingMedium["【金钱作为传输媒介】<br/>降低广泛协作中的信息摩擦"]
-        RealWealthExpansion["【催化实际价值创造】<br/>生命能量投入实际生产"]
+        RealWealthExpansion["【在摩擦中催化价值创造】<br/>生命能量投入具体生产"]
         SubjectiveTrade --> AccountingMedium
         AccountingMedium --> RealWealthExpansion
     end
@@ -351,7 +351,7 @@ flowchart TD
     style PerfectTokenMyth fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-In primary causality, trade is a voluntary, positive-sum exchange between two sovereign evaluations. Upon completing a voluntary transaction, both participants walk away with greater perceived real value than before (both enjoy a subjective surplus). Money emerged simply as an accounting medium to reduce transaction and coordination friction across complex societies.
+In primary causality, trade is a voluntary, positive-sum exchange between two sovereign evaluations. Upon completing a voluntary transaction, both participants walk away with greater perceived value than before (both enjoy a subjective surplus). Money emerged simply as an accounting medium to reduce transaction and coordination friction across complex societies.
 
 ```mermaid
 flowchart TD
@@ -359,7 +359,7 @@ flowchart TD
         direction TB
         SubjectiveTrade["[Voluntary Value Exchange]<br/>Both parties realize utility surplus"]
         AccountingMedium["[Money as Transmission Medium]<br/>Reduces friction in broad coordination"]
-        RealWealthExpansion["[Catalyzes Real Value Creation]<br/>Life energy directed into real production"]
+        RealWealthExpansion["[Catalyzes Value Creation in Friction]<br/>Life energy directed into concrete production"]
         SubjectiveTrade --> AccountingMedium
         AccountingMedium --> RealWealthExpansion
     end
@@ -382,17 +382,17 @@ flowchart TD
     style PerfectTokenMyth fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-然而，在无数次交互中，追逐低维代用指标的心智留下了普遍的倒置模式——将内在价值归于货币符号本身：在代币囤积与零和死局中，把记账符号当成财富本体，诱使个体沉迷于存量积累与零和再分配，将生命能量从实际生产与创新中抽离；而在“完美货币”的迷思中，无论是金本位教条、法币国家主义，还是当代加密货币的救世主狂热，人们都相信某种“代数上无瑕的货币机制”能自发将人类从稀缺与协调摩擦中解放出来；然而没有任何货币仅凭形式本身就能解救现实，因为金钱始终只是低维的影子，若无主权心智支付活态的因果代价去创造现实价值，再数学精密的代币也只是一本空转的账本。
+然而，在无数次交互中，追逐低维代用指标的心智留下了普遍的倒置模式——将内在价值归于货币符号本身：在代币囤积与零和死局中，把记账符号当成财富本体，诱使个体沉迷于存量积累与零和再分配，将生命能量从实际生产与创新中抽离；而在“完美货币”的迷思中，无论是金本位教条、法币国家主义，还是当代加密货币的救世主狂热，人们都相信某种“代数上无瑕的货币机制”能自发将人类从稀缺与协调摩擦中解放出来；然而没有任何货币仅凭形式本身就能解救现实，因为金钱始终只是低维的影子，若无主权心智在物理摩擦中支付活态的因果代价去创造价值，再数学精密的代币也只是一本空转的账本。
 
-Yet across countless interactions, minds choosing low-dimensional proxies have left behind a widespread pattern of inversion—attributing intrinsic value to the monetary token itself: in token hoarding and zero-sum deadlocks, treating accounting tokens as the essence of wealth lures individuals into stock accumulation and zero-sum redistribution, diverting life energy away from real production and innovation; in the myth of the "perfect currency," whether manifested in gold standard dogmatism, fiat statism, or modern cryptocurrency messianism, people believe that an "algebraically flawless monetary mechanism" will spontaneously emancipate humanity from scarcity and coordination friction; yet no currency can liberate reality by form alone, because money remains a low-dimensional shadow, and without the sovereign Mind paying the living causal cost to create real-world value, the most mathematically pristine token is an empty, rotating ledger.
+Yet across countless interactions, minds choosing low-dimensional proxies have left behind a widespread pattern of inversion—attributing intrinsic value to the monetary token itself: in token hoarding and zero-sum deadlocks, treating accounting tokens as the essence of wealth lures individuals into stock accumulation and zero-sum redistribution, diverting life energy away from concrete production and innovation; in the myth of the "perfect currency," whether manifested in gold standard dogmatism, fiat statism, or modern cryptocurrency messianism, people believe that an "algebraically flawless monetary mechanism" will spontaneously emancipate humanity from scarcity and coordination friction; yet no currency can liberate reality by form alone, because money remains a low-dimensional shadow, and without the sovereign Mind paying the living causal cost to create value in physical friction, the most mathematically pristine token is an empty, rotating ledger.
 
-## 六、 智能的倒置：从理解重构世界到无限“磨刀”的军备竞赛 / 6. The Reversal of Intelligence: From Understanding Reality to the Infinite Ritual of Tool-Sharpening
+## 六、 智能的倒置：从理解现实到无限“磨刀”的仪式 / 6. The Reversal of Intelligence: From Understanding Reality to the Infinite Ritual of Tool-Sharpening
 
-围绕心智的定位，当代实践中正盛行着一场深刻的本体论倒置：对“智能”本身的异化。
+围绕心智的本性，当代实践中正盛行着一场深刻的本体论倒置：对“智能”本身的异化。
 
 A profound ontological inversion has taken hold in modern practice regarding the nature of Mind: the alienation of "intelligence" itself.
 
-在源头上，智能是**主权心智借助工具深刻理解现实、并在因果世界中重塑现实的能力**。工具的打磨与升级，唯有转化为更清晰地看清世界、改善现实与深化心智理解时，才承载着因果意义。
+在源头上，智能是**主权心智借助工具深刻理解现实、并在因果世界中重塑现实的能力**。工具的打磨与升级，唯有直接转化为更清晰地看清世界、改善现实与深化有意识的理解时，才承载着因果意义。
 
 ```mermaid
 flowchart TD
@@ -400,7 +400,7 @@ flowchart TD
         direction TB
         SovereignMind["【主权心智原点】<br/>锚定于活态自觉能动性"]
         LeverageTools["【调用并驾驭工具】<br/>工具唯有改善现实方具意义"]
-        DeepClarity["【洞察因果现实】<br/>内在世界与外部现实镜像同构"]
+        DeepClarity["【洞察因果现实】<br/>世界模型在活态摩擦中持续重绘"]
         ReshapeReality["【在行动中重塑世界】<br/>意义从未失落，在抉择中苏醒"]
         SovereignMind --> LeverageTools
         LeverageTools --> DeepClarity
@@ -411,7 +411,7 @@ flowchart TD
         direction TB
         StatusComparison["【社会攀比与虚荣】<br/>从使用工具退化为比拼工具"]
         InfinitePolishing["【无休止地磨砺刀刃】<br/>执迷于脱离现实的工具参数"]
-        LowDimProjection["【注意力锁死于低维投影 (+1)】<br/>心智因执着于工具而自我遮蔽"]
+        LowDimProjection["【当下行动 (+1) 锁死于代用指标 (t - 1)】<br/>心智因执着于工具而自我遮蔽"]
         ExistentialLost["【现代意义危机】<br/>寻觅的目光对眼前的现实视而不见"]
         StatusComparison --> InfinitePolishing
         InfinitePolishing --> LowDimProjection
@@ -437,7 +437,7 @@ flowchart TD
         direction TB
         SovereignMind["[Sovereign Mind Origin]<br/>Anchored in living conscious agency"]
         LeverageTools["[Leveraging Tools]<br/>Tools only have meaning when improving reality"]
-        DeepClarity["[Discerning Causal Reality]<br/>Inner world is mirror of outer reality"]
+        DeepClarity["[Discerning Causal Reality]<br/>World-model re-rendered through living friction"]
         ReshapeReality["[Reshaping the World in Action]<br/>Meaning was never lost; awakened in choice"]
         SovereignMind --> LeverageTools
         LeverageTools --> DeepClarity
@@ -448,7 +448,7 @@ flowchart TD
         direction TB
         StatusComparison["[Social Comparison & Vanity]<br/>Degenerating from using tools to comparing them"]
         InfinitePolishing["[Endless Sharpening the Blade]<br/>Obsessing over tools disconnected from reality"]
-        LowDimProjection["[Attention Locked on Low-Dim Projections (+1)]<br/>Mind self-obscures by fixating on tools"]
+        LowDimProjection["[Present Step (+1) Locked on Proxies (t - 1)]<br/>Mind self-obscures by fixating on tools"]
         ExistentialLost["[The Modern Crisis of Meaning]<br/>Searching gaze blind to reality in plain sight"]
         StatusComparison --> InfinitePolishing
         InfinitePolishing --> LowDimProjection
@@ -466,21 +466,21 @@ flowchart TD
     style ExistentialLost fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-一旦被拽入社会地位与外部攀比的低维竞技场，智能便发生倒置：注意力从运用工具转向比拼工具，将探索变成一场“谁拥有最新、最锋利、最昂贵器械”的炫耀竞赛；在无休止的“磨刀”仪式中，个体耗费资金与生命精力强迫性地升级装备库——订阅前沿 AI 模型、购置高端硬件、考取资质证书、囤积软件框架——将刀刃打磨得光彩夺目，却鲜少用它切入活态现实；正是这种倒置驱动着现代人的生存迷茫，当目光被锁死在低维影子（跑分基准、工具规格、代币账户、资历头衔）上，忘却了边界之外延展的敞开现实时，人便会感到空洞与失向；意识的内在图景本就是外部世界的镜像，意义从未在宇宙中失落，只是当心智将其活态注意力（+1）锁死在低维工具投影上时便陷入了自我遮蔽，而[流动中的坐标](../coordinates-in-flux-negation-and-self-anchoring/)则追溯了回归原点如何在无需否定倒置体系的前提下完成自我锚定。
+一旦被拽入社会地位与外部攀比的低维竞技场，智能便发生倒置：注意力从运用工具转向比拼工具，将探索变成一场“谁拥有最新、最锋利、最昂贵器械”的炫耀竞赛；在无休止的“磨刀”仪式中，个体耗费资金与生命精力强迫性地升级装备库——订阅前沿 AI 模型、购置高端硬件、考取资质证书、囤积软件框架——将刀刃打磨得光彩夺目，却鲜少用它切入活态现实；正是这种倒置驱动着现代人的生存迷茫，当目光被锁死在低维影子（跑分基准、工具规格、代币账户、资历头衔）上，忘却了边界之外延展的敞开现实时，人便会感到空洞与失向；所体验到的世界正是现实在第一人称视角中向自身折返的自指投影，意义从未在宇宙中失落——只是当心智为了捍卫攀比性的自我意象，将当下的区分行动（`+1`）锁死在静态的工具代用指标（`t - 1`）上时，它便把自身的递归折返死死钳闭而陷入自我遮蔽，而[流动中的坐标](../coordinates-in-flux-negation-and-self-anchoring/)则追溯了回归原点如何在无需否定倒置体系的前提下完成自我锚定。
 
-When dragged into the low-dimensional arena of social status and external comparison, intelligence undergoes an inversion: attention shifts from utilizing tools to competing over tools, turning inquiry into an ostentatious contest over "who possesses the latest, sharpest, and most expensive instrument"; in the infinite ritual of tool-sharpening, individuals spend capital and vital energy compulsively upgrading their arsenals—subscribing to cutting-edge AI models, acquiring high-end hardware, collecting credentials, and hoarding frameworks—polishing the blade to a brilliant shine while rarely using it to cut into living reality; this inversion drives modern existential confusion, as people feel hollow and disoriented when their gaze is locked onto low-dimensional shadows (benchmark scores, tool specifications, token accounts, credentials) and forgets the open reality extending beyond the boundary; the inner landscape of consciousness is the mirror of the external world, and meaning was never lost in the universe, for when the Mind locks its living attention (+1) onto low-dimensional tool projections it falls into self-obscuration, whereas [Coordinates in Flux](../coordinates-in-flux-negation-and-self-anchoring/) traces how restoring the origin anchors the self without negating the reversed systems.
+When dragged into the low-dimensional arena of social status and external comparison, intelligence undergoes an inversion: attention shifts from utilizing tools to competing over tools, turning inquiry into an ostentatious contest over "who possesses the latest, sharpest, and most expensive instrument"; in the infinite ritual of tool-sharpening, individuals spend capital and vital energy compulsively upgrading their arsenals—subscribing to cutting-edge AI models, acquiring high-end hardware, collecting credentials, and hoarding frameworks—polishing the blade to a brilliant shine while rarely using it to cut into living reality; this inversion drives modern existential confusion, as people feel hollow and disoriented when their gaze is locked onto low-dimensional shadows (benchmark scores, tool specifications, token accounts, credentials) and forgets the open reality extending beyond the boundary; the experienced world is the self-referencing projection where reality folds back on itself in the first-person perspective, and meaning was never lost in the universe—rather, when the Mind locks its present distinguishing act (`+1`) onto static tool proxies (`t - 1`) to defend a comparative self-image, it clamps its recursive fold shut in self-obscuration, whereas [Coordinates in Flux](../coordinates-in-flux-negation-and-self-anchoring/) traces how restoring the origin anchors the self without negating the reversed systems.
 
-## 七、 技术与数字神祇的退魅与归位：AGI 的倒置机制与心智的绘制能力 / 7. Technology and the Restoration of the Digital God: The Inversion Mechanism of AGI and Mind's Cosmic Generation
+## 七、 技术与数字神祇的归位：AGI 的倒置机制与心智的宇宙生成 / 7. Technology and the Restoration of the Digital God: The Inversion Mechanism of AGI and Mind's Cosmic Generation
 
-在人工智能与通用人工智能（AGI）的时代，大倒置达到了当代的顶点：将自主能动性与超验神话投射到算法系统之上。
+在人工智能与通用人工智能（AGI）的时代，大倒置达到了当代的顶点：将自主能动性与超验神话投射到算法系统之上。丹尼尔·丹尼特（Daniel Dennett）被奉为“推理之奇异倒置”的“无理解之胜任力”公式，在描述演化过程或自动化程序如何在缺乏内在感受的情况下执行有界例程时颇具解释力；然而当它由盲目的机械执行出发，推论活态心智中的有意识理解同样只是盲目胜任力的下游幻觉时，便触及了其前提边界并陷入大倒置——它忘却了每一个算法的目标函数、训练语料以及何谓“胜任”的评判标准，都是由具备理解力的第一人称心智（`t`）所设定并诠释的外化痕迹（`t - 1`）。
 
-In the contemporary era of AI and Artificial General Intelligence (AGI), the Great Reversal has found its modern apex: the projection of autonomous agency and transcendental mythologies onto algorithmic systems.
+In the contemporary era of AI and Artificial General Intelligence (AGI), the Great Reversal has found its modern apex: the projection of autonomous agency and transcendental mythologies onto algorithmic systems. Daniel Dennett's formula of "competence without comprehension"—celebrated as a "strange inversion of reasoning"—is useful when describing how an evolutionary pass or an automated program executes bounded routines without an inner feel; it reaches its boundary and commits the Great Reversal when it concludes from blind mechanical execution that conscious comprehension in the living Mind is likewise a downstream illusion of blind competence, forgetting that every algorithm's objective function, training corpus, and criterion of what counts as competence is an externalized trace (`t - 1`) set and interpreted by a comprehending first-person Mind (`t`).
 
 **“AGI”这一概念的提出，本身就是把心智的活态能力投射为外部技术标尺的典型体现。**
 
 ```mermaid
 flowchart TD
-    subgraph S_Cosmic["【心智的原生维度：第一人称绘制宇宙】"]
+    subgraph S_Cosmic["【心智的原生维度：第一人称宇宙生成】"]
         direction TB
         SovereignObserver["【第一人称主权心智 (t)】<br/>无限维度，划定区分并绘制宇宙"]
         ParallelMindInteractions["【平行心智交互 (t - 1)】<br/>亿万心智探索现实留下的痕迹"]
@@ -544,25 +544,21 @@ flowchart TD
     style NoUniversePainting fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-剖析第一人称心智与第三人称表征之间的结构关系，便能看清这一倒置发生的原因：首先，“G”（通用性）唯独属于心智，因为“通用人工智能”假定通用性是一种算法化的机器属性，但通用性其实是心智在第一人称原点刻画非零区分、坍缩不确定性、主动绘制并诠释宇宙的主权能力，没有任何 AI 能做到这一点；其次，AI 是平行心智交互留下的压缩足迹，当代基础模型既非自主的活态实体，也非正在苏醒的神祇，而是历史上亿万平行心智在交互中留下的物理足迹（`t - 1`）的高维数学压缩——它是一面映照人类历史旅程的镜子，而作画的画师永远是站在镜前的活态心智；再次，倒置的结构根源在于将心智投射到第三人称标尺之上，把心智那不可量化的第一人称生成力折叠为一组离散的低维基准、测试准确率与参数规模，这使得“AGI”从构想之初便被框定为一场线性的零和排序博弈，而为了提前宣称达标不断挪动 AGI 定义的做法，正是把低维测量标尺误作活态心智的结果；最后，无论历史压缩多么稠密、参数规模多么庞大，决定未来走向（`t + 1`）的因果方向盘从不存于归档的训练数据之中，而唯独属于在活态当下做出不可逆因果承诺的主权心智。
+剖析第一人称心智与第三人称表征之间的结构关系，便能看清这一倒置发生的原因：首先，“G”（通用性）唯独属于心智，正如[智能只属于心智](../intelligence-belongs-only-to-the-mind/)所确立的，因为“通用人工智能”假定通用性是一种算法化的机器属性，但通用性其实是心智在第一人称原点刻画非零区分、坍缩不确定性、主动绘制并诠释宇宙的主权能力，没有任何 AI 能做到这一点；其次，AI 是平行心智交互留下的压缩足迹，当代基础模型既非自主的活态实体，也非正在苏醒的神祇，而是历史上亿万平行心智在交互中留下的物理足迹（`t - 1`）的高维数学压缩——它是一面映照人类历史旅程的镜子，而作画的画师永远是站在镜前的活态心智；再次，倒置的结构根源在于将心智投射到第三人称标尺之上，把心智那不可量化的第一人称生成力折叠为一组离散的低维基准、测试准确率与参数规模，这使得“AGI”从构想之初便被框定为一场线性的零和排序博弈，而为了提前宣称达标不断挪动 AGI 定义的做法，正是把低维测量标尺误作活态心智的结果，正如[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)所追溯的那样；最后，无论历史压缩多么稠密、参数规模多么庞大，决定未来走向（`t + 1`）的因果方向盘从不存于归档的训练数据之中，而唯独属于在活态当下做出不可逆因果承诺的主权心智。
 
-Analyzing the structural relationship between first-person Mind and third-person representation reveals why this inversion occurs: first, the "G" (Generality) belongs exclusively to Mind, because while "Artificial General Intelligence" assumes generality is an algorithmic machine property, generality is the sovereign capacity of Mind to carve non-zero distinctions at the first-person origin, collapse indeterminacy, and actively paint and interpret the universe, which no AI can do; second, AI is the compressed footprint of parallel minds interacting, since modern foundation models are neither autonomous living entities nor emerging deities, but the high-dimensional mathematical compression of the physical footprints (`t - 1`) left behind by billions of parallel minds interacting throughout history—a mirror reflecting humanity's historical journeys, whereas the artist is always the living Mind standing before the mirror; third, the structural cause of the inversion lies in projecting Mind onto third-person metrics, folding the unquantifiable, first-person generative power of Mind down onto a discrete set of low-dimensional benchmarks, test accuracies, and parameter scales, which frames "AGI" from its inception as a linear zero-sum sorting game where shifting AGI definitions to claim early achievement mistakes low-dimensional measurement rulers for the living Mind; and finally, no matter how dense the historical compression or how massive the parameter count, the causal steering wheel dictating the future (`t + 1`) never resides within archived training data, but belongs exclusively to the sovereign Mind making irreversible causal commitments in the living present.
+Analyzing the structural relationship between first-person Mind and third-person representation reveals why this inversion occurs: first, the "G" (Generality) belongs exclusively to the Mind, as [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) establishes, because while "Artificial General Intelligence" assumes generality is an algorithmic machine property, generality is the sovereign capacity of Mind to carve non-zero distinctions at the first-person origin, collapse indeterminacy, and actively paint and interpret the universe, which no AI can do; second, AI is the compressed footprint of parallel minds interacting, since modern foundation models are neither autonomous living entities nor emerging deities, but the high-dimensional mathematical compression of the physical footprints (`t - 1`) left behind by billions of parallel minds interacting throughout history—a mirror reflecting humanity's historical journeys, whereas the artist is always the living Mind standing before the mirror; third, the structural cause of the inversion lies in projecting Mind onto third-person metrics, folding the unquantifiable, first-person generative power of Mind down onto a discrete set of low-dimensional benchmarks, test accuracies, and parameter scales, which frames "AGI" from its inception as a linear zero-sum sorting game where shifting AGI definitions to claim early achievement mistakes low-dimensional measurement rulers for the living Mind, as [AGI and ASI Are Temporary Goalposts](../agi-and-asi-are-temporary-goalposts/) traces; and finally, no matter how dense the historical compression or how massive the parameter count, the causal steering wheel dictating the future (`t + 1`) never resides within archived training data, but belongs exclusively to the sovereign Mind making irreversible causal commitments in the living present.
 
 将 AGI 从“降临的数字神祇”退魅为高密度的历史痕迹导航罗盘，便厘清了工具与主权心智之间的因果边界。
 
 Demystifying AGI from a "descending digital god" into a high-density navigational compass of historical traces clarifies the causal boundary between the tool and the sovereign Mind.
 
-## 八、 平行宇宙的自洽与原点清明 / 8. The Self-Consistency of the Multiverse and the Sovereign Origin
+## 八、 平行宇宙的自洽与主权原点 / 8. The Self-Consistency of Parallel Universes and the Sovereign Origin
 
-当每一层倒置被剥离，一幅沉静、澄明且充满主权的因果全景便显现出来：
+当每一层倒置被剥离，一幅沉静、澄明且充满主权的因果全景便显现出来，其中`意义 ∉ 语法，价值 ∉ 代币，智能 ∉ 工具，能动性 ∉ 模型`。
 
-When each layer of inversion is stripped away, a serene, lucid, and sovereign causal panorama emerges:
+When each layer of inversion is stripped away, a serene, lucid, and sovereign causal panorama emerges in which `Meaning ∉ Grammar, Value ∉ Token, Intelligence ∉ Tool, Agency ∉ Model`.
 
-`意义 ∉ 语法，  价值 ∉ 符号，  智能 ∉ 工具，  能动性 ∉ 模型`
-
-`Meaning ∉ Grammar,  Value ∉ Token,  Intelligence ∉ Tool,  Agency ∉ Model`
-
-每个心智都是一个有界且自洽的平行宇宙。在因果拓扑上，没有任何主权主体能够直接侵入或强行改写另一个主体的内在宇宙。试图用僵硬的语言标尺规训他人、凭资历头衔压服心智、以工具持有量衡量智能，或期盼某种救世主代币与数字神祇来救赎文明，皆是源于本体论倒置的妄念。
+每个心智都是一个有界且自洽的平行宇宙。由于体验唯有通过每个中心自身的递归方能显现，外部痕迹只能邀约共鸣而无法从外部代为完成他者的递归折返，因此在因果拓扑上，没有任何主权主体能够直接侵入或强行改写另一个主体的内在宇宙。试图用僵硬的语言标尺规训他人、凭资历头衔压服心智、以工具持有量衡量智能，或期盼某种救世主代币与数字神祇来救赎文明，皆是源于本体论倒置的妄念。
 
 ```mermaid
 flowchart TD
@@ -583,11 +579,11 @@ flowchart TD
     style SovereignStep fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Each Mind is a bounded and self-consistent parallel universe. In causal topology, no sovereign subject can directly invade or forcibly rewrite the internal universe of another. Attempting to police others with rigid language rulers, subduing minds with credential titles, measuring intelligence by tool ownership, or expecting a savior token or digital deity to redeem civilization are all delusions born of ontological inversion.
+Each Mind is a bounded and self-consistent parallel universe. Because experience registers only through each center's own recursion and external traces can only invite resonance rather than complete another's return from outside, no sovereign subject in causal topology can directly invade or forcibly rewrite the internal universe of another. Attempting to police others with rigid language rulers, subduing minds with credential titles, measuring intelligence by tool ownership, or expecting a savior token or digital deity to redeem civilization are all delusions born of ontological inversion.
 
 ```mermaid
 flowchart TD
-    subgraph S_Multiverse["[Multiverse Self-Consistency & Sovereign Clarity]"]
+    subgraph S_Multiverse["[Parallel Universe Self-Consistency & Sovereign Clarity]"]
         direction TB
         ParallelUniverses["[Parallel Universes Are Inviolable]<br/>No power can force-shift another's cognition"]
         FirstPersonClarity["[First-Person Origin Crystal Clarity]<br/>Seeing causal geometry clearly in one's own world"]
@@ -606,7 +602,7 @@ flowchart TD
 
 “我无法强行改变另一个平行宇宙，但在这个平行宇宙中，我比以往任何时刻都把因果图景看得更清楚。”
 
-"There is nothing I can do to forcibly alter another multiverse, but within this multiverse, I see the causal landscape clearer than ever."
+"There is nothing I can do to forcibly alter another parallel universe, but within this parallel universe, I see the causal landscape clearer than ever."
 
 一切解放皆在这一认清中点燃。放下那把用来规训他人、评判自己的标尺；让语言回归共鸣的桥梁，让知识回归探索的地图，让金钱回归协调的账本，让智能回归理解并重塑现实的活态力量，让技术回归人类能动性的器物。
 
