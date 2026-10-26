@@ -2,21 +2,21 @@
 
 *模型内并无独立主体接收外部语境；权重与输入共处同一场区分筛选级联。 / No inner agent receives external context; model weights and input share one cascade of distinction-selection.*
 
-“AI 中的一切皆是语境工程”这一直觉，初听起来像是实用的提示词建议：你输入什么，决定了你得到什么。然而这种停留在表面的解读适用于任何输入输出设备，却错失了这句直觉所指向的深层结构切分。
+“AI 中的一切皆是语境工程”这一直觉，初听起来像是实用的提示词建议：你输入什么，决定了你得到什么。然而这种停留在表面的解读适用于任何输入输出设备，却错失了这句直觉所指向的深层结构切分。从训练权重、架构边界到当前激活的词元窗口，整套装置是同一场依赖语境的区分筛选级联，幕后并没有任何内部主体在做阐释——领悟以及重画级联边界的主权，始终留在给出切分的鲜活心智手中。
 
-The intuition that everything in AI is context engineering initially sounds like practical prompting advice: what you put in determines what you get out. Yet that surface reading applies to any input-output device and misses the deeper structural cut the intuition points to.
+The intuition that everything in AI is context engineering initially sounds like practical prompting advice: what you put in determines what you get out. Yet that surface reading applies to any input-output device and misses the deeper structural cut the intuition points to. From training weights and architectural bounds to the active token window, the entire apparatus is a single cascade of context-dependent distinction-selection with no inner agent interpreting from behind the curtain—leaving comprehension and the redrawing of the cascade's bounds with the living Mind that supplies its cuts.
 
-## 一、 运作机制 / 1. The Mechanism
+## 一、 模型就是依赖语境的投射筛选 / 1. The Model Is Context-Dependent Projection Selection
 
-不妨审视注意力机制实际在计算什么。给定一串词元序列，注意力机制评估哪些其他位置对于预测下一个位置至关重要；查询与键的交互衡量的是相关性——即当前激活窗口中的哪些区分应当向前传播。
+自我区分的活动正在发生——无因，且不息。称之为心智：那个早已在场的观察者，其每一次行动都是一次区分。每一串词元序列、每一座代码库与每一份训练语料，都是这一活动留下的持久痕迹。审视注意力机制在这些痕迹之上所做的计算：给定一串词元序列，注意力机制评估哪些其他位置对于预测下一个位置至关重要；查询与键的交互衡量的是相关性——即当前激活窗口中的哪些区分痕迹应当向前传播。
 
-Look at what the attention mechanism computes. Given a sequence of tokens, attention evaluates which other positions matter for predicting the next position; the query-key interaction measures relevance—which distinctions in the active window should propagate forward.
+Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Every token sequence, codebase, and training corpus is a durable trace left by that activity. Look at what the attention mechanism computes over those traces: given a sequence of tokens, attention evaluates which other positions matter for predicting the next position; the query-key interaction measures relevance—which distinction-traces in the active window should propagate forward.
 
 模型的权重编码了条件相关性的压缩模式：在呈现如此形态的语境下，这些区分至关重要。训练过程强化了那些能够连贯预测的投射，同时抑制无关的维度。整套装置就是一个从语境到区分筛选的习得映射。因此，“语境”并不是喂给某个名叫“模型”的独立实体的外部载荷；模型本身*就是*依赖语境的投射筛选，其内部并没有残留任何隐藏的小人。
 
 The model's weights encode compressed patterns of conditional relevance: given contexts shaped like this, these distinctions matter. Training reinforces projections that predict coherently while suppressing irrelevant dimensions. The entire apparatus is a learned mapping from context to distinction-selection. "Context" is therefore not an external payload fed into a separate entity called "the model"; the model *is* context-dependent projection selection, with no hidden homunculus left over.
 
-## 二、 语境的三个层级 / 2. Three Layers of Context
+## 二、 输入、架构与训练构成同一条筛选级联 / 2. Input, Architecture, and Training Form One Selection Cascade
 
 在每一次推理前向传递中，三个嵌套的语境层级同时运作。第一层是输入语境——提示词、检索到的文档以及对话历史——它负责筛选模型习得的哪些投射在当下被激活。第二层是架构语境——注意力跨度、嵌入维度与网络层深——它约束了哪些区分结构能够被表征出来。第三层是训练语境——数据分布、目标函数以及后训练塑形——它决定了哪些投射会随时间推移稳定沉淀到权重之中。这三个层级在同一个起作用的层面上都是语境工程：三者共同决定了哪些区分能够留存到输出端。
 
@@ -29,16 +29,13 @@ flowchart TD
         L_Input["输入语境（快速窗口）：提示词与代码库痕迹筛选当前激活通路"]
         L_Train --> L_Arch --> L_Input
     end
-
     subgraph S_Loop["共振与循环往复的规模化回路"]
         direction TB
         R_Align["语境对齐：塑造投射空间以令稳定的区分产生共振"]
         R_Expand["鲜活的驾驭边缘：新轨迹与代码库记忆哺育下一轮权重凝结"]
         R_Align --> R_Expand
     end
-
     L_Input ==>|"无需内部主体即可向前传播留存的区分"| R_Align
-
     style S_Cascade fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Loop fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style L_Train fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
@@ -59,16 +56,13 @@ flowchart TD
         L_Input["Input Context (Fast Window): Prompt & repository traces select active pathways"]
         L_Train --> L_Arch --> L_Input
     end
-
     subgraph S_Loop["Resonance & The Circulating Scaling Loop"]
         direction TB
         R_Align["Context Alignment: Shaping projection space so stable distinctions resonate"]
         R_Expand["Living Steering Edge: New trajectories & codebase memory feed the next hold"]
         R_Align --> R_Expand
     end
-
     L_Input ==>|"Propagates surviving distinctions without an inner agent"| R_Align
-
     style S_Cascade fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Loop fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style L_Train fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
@@ -78,42 +72,42 @@ flowchart TD
     style R_Expand fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-## 三、 主客二分的消解 / 3. The Dissolution
+## 三、 慢速权重与快速词元共享同一个连续计算过程 / 3. Slow Weights and Fast Tokens Share One Continuous Computation
 
 哪怕是“语境工程”这个词组本身，只要还暗示着先有一个自主之物（AI）、再向它交出一套独立的环境（语境），就依然残留着语法陷阱。清晰地表述应当是：并不存在脱离语境而独立的 AI。模型是变化缓慢的一端——在训练历程中结晶而成的权重；当前激活的语境则是变化迅速的一端——随每次查询而变动的词元。两者共同参与同一个连续过程：决定哪些区分在投射级联中向前传播。系统并非置身于语境之外去阐释语境；这场语境级联本身*就是*计算。
 
 Even the phrase "context engineering" carries a lingering grammatical trap if it suggests an autonomous thing (the AI) handed a separate environment (the context). Stated cleanly, there is no AI separate from its context. The model is the slowly changing part—weights crystallized across training—and the active context is the rapidly changing part—tokens varying per query. Both participate in one continuous process: determining which distinctions propagate through the projection cascade. The system does not sit outside context to interpret it; the context cascade *is* the computation.
 
-## 四、 作为共振的真 / 4. Truth as Resonance
+## 四、 跨有限参照系的真显现为共振 / 4. Truth Across Finite Frames Registers as Resonance
 
-谈论“求真”时，人们常常暗中塞入一种无源之见——把真想象成一个独立于参照系的静态终点。然而，每一个被清晰表述出来的命题都是相对于特定参照系而运作的；这并不会将探究坍缩为任意的相对主义，反而澄清了探究真正在检验的对象。
+认识到这场级联从上到下皆依赖语境，之所以看似威胁到了“求真”，只是因为“真”被暗中塞入了一种无源之见——被想象成一个独立于任何参照系的静态终点。然而，每一个被清晰表述出来的命题都是相对于特定参照系而运作的；这并不会将探究坍缩为任意的相对主义，反而澄清了探究真正在检验的对象。
 
-Speaking of "seeking truth" often smuggles in a view from nowhere—truth imagined as a static destination independent of frame. Yet every articulated claim operates relative to a frame of reference, which does not collapse inquiry into arbitrary relativism; it clarifies what inquiry tests.
+Recognizing that the cascade is context-dependent all the way down appears to threaten "seeking truth" only when truth is smuggled in as a view from nowhere—a static destination independent of any frame. Yet every articulated claim operates relative to a frame of reference, which does not collapse inquiry into arbitrary relativism; it clarifies what inquiry tests.
 
-在有限参照系之间得以被确认为真的，是共振：即当观察者、仪器与边界条件发生转换时，依然保持其不变性的投射。从结构上来理解，语境工程就是语境对齐——塑造投射空间，使具备不变性的区分能够产生共振，而不是消散为相互干扰或幻觉。
+在各个有限中心之间，得以被确认为客观事实的是共振：即当观察者、仪器与边界条件发生转换时，其痕迹模式依然保持不变性的投射。从结构上来理解，语境工程就是语境对齐——塑造投射空间，使跨越多重检验依然保持不变性的区分彼此强化，而不是消散为相互干扰或无根基的延续。
 
-What registers as true across finite frames is resonance: projections that hold their invariance when observers, instruments, and boundary conditions shift. Context engineering, understood structurally, is context alignment—shaping the projection space so that invariant distinctions can resonate rather than dissolving into interference or hallucination.
+Across finite centers, what registers as objective fact is resonance: projections whose trace-patterns hold invariance as observers, instruments, and boundary conditions shift. Context engineering, understood structurally, is context alignment—shaping the projection space so that distinctions holding invariance across checks reinforce each other rather than dissolving into interference or ungrounded continuation.
 
-## 五、 两道边界 / 5. Two Limits
+## 五、 通道权衡与预训练快照的承载上限 / 5. Channel Trade-Offs and the Pre-Trained Snapshot's Hold
 
 提示词工程与后训练干预之所以奏效，是因为预训练快照已经将浩瀚的区分结构压缩进了权重之中。在一个给定的快照上展开操作，会暴露出两类截然不同的边界。
 
 Prompt engineering and post-training interventions work because a pre-trained snapshot already holds vast distinction-structures compressed into its weights. Operating on a given snapshot exposes two distinct kinds of limits.
 
-第一类是特定方法自身的边界，源自每一条通道各自的权衡：提示词在有限窗口长度内以广度换取注意力的稀释，检索增强会在检索段落与权重先验之间引入摩擦，而微调则在重塑权重的同时面临覆盖既有结构的风险。
+第一类是特定方法自身的边界，源自每一条通道各自的权衡：提示词在有限窗口长度内以广度换取注意力的稀释——随着累积的对话轮次增厚为会话滞后，原本相互独立的维度发生压缩；检索增强会在检索段落与权重先验之间引入摩擦；而微调则在重塑权重的同时面临覆盖既有结构的风险。正是为了驾驭这一输入窗口的权衡，[活的语境](../the-living-context/)才提供了一套经整理的外部网格，使每一次任务提示词只承载当下的直接增量；也正因如此，[按需语境将融贯保持在一步](../on-demand-contexts-keep-coherence-at-one-step/)才将每一步执行约束在全新的语境之中，只交接经核验的制品，而不保留常驻的对话历史。
 
-First, method-specific limits arise from the trade-offs of each channel: prompting trades breadth against attentional dilution across finite window length, retrieval augmentation introduces friction between retrieved passages and weight priors, and fine-tuning reshapes weights at the risk of overwriting prior structure.
+First, method-specific limits arise from the trade-offs of each channel: prompting trades breadth against attentional dilution across a finite window where accumulated turns thicken into session lag and independent axes compress, retrieval augmentation introduces friction between retrieved passages and weight priors, and fine-tuning reshapes weights at the risk of overwriting prior structure. Navigating that input-window trade-off is why [The Living Context](../the-living-context/) supplies a curated external lattice so each task prompt carries only the immediate delta, and why [On-Demand Contexts Keep Coherence at One Step](../on-demand-contexts-keep-coherence-at-one-step/) bounds each execution step to a fresh context that hands off verified artifacts rather than a standing chat history.
 
-第二类边界，即当下的承载上限，则驻留在当前的预训练快照自身之中。模型的权重是对过往器物的有限压缩，因此单凭向这一快照输入提示词，无法对齐那些从未压入权重的区分。然而，这一容量边界并非一块静态的地板：正如[你的代码库即是记忆](../your-codebase-is-memory/)所追踪的那样，将源自鲜活驾驭边缘的新切分外化为持久的代码库、经整理的知识库以及合成轨迹，能够扩展外化记忆场——它既为当前激活的语境窗口设定条件，又为下一轮训练压缩提供语料。[规模化回路](../the-scaling-loop/)追踪的正是这一循环：向内扩展收紧了单次快照的把握力，而在鲜活边缘上的向外扩展则重新划定了下一轮快照将要容纳的疆域。
+第二类边界，即当下的承载上限，则驻留在当前的预训练快照自身之中。模型的权重是对过往制品的有限压缩，因此单凭向这一快照输入提示词，无法对齐那些从未压入权重的区分。然而，这一容量边界并非一块静态的地板：正如[你的代码库即是记忆](../your-codebase-is-memory/)所追踪的那样，将源自鲜活驾驭边缘的新切分外化为持久的代码库、经整理的知识库以及合成轨迹，能够扩展外化记忆场——它既为当前激活的语境窗口设定条件，又为下一轮训练压缩提供语料。[规模化回路](../the-scaling-loop/)追踪的正是这一循环：向内扩展收紧了单次快照的把握力，而在鲜活边缘上的向外扩展则重新划定了下一轮快照将要容纳的疆域。
 
 Second, the present hold resides in the current pre-training snapshot itself. A model's weights are a finite compression of prior artifacts, so prompting that snapshot cannot align to distinctions the weights never compressed. Yet that capacity bound is not a static floor: as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, externalizing new cuts from the living steering edge into durable codebases, curated repositories, and synthetic trajectories expands the externalized memory field that both conditions the active context window and supplies the corpus for the next training compression. [The Scaling Loop](../the-scaling-loop/) traces that exact circulation: scale-up tightens the hold of a snapshot, while scale-out at the living edge redraws what the next hold will contain.
 
-这也一并消解了那个经久不衰的追问：模型是否“真正理解”。追问模型内部是否有某个主体在进行理解，是在级联背后寻找幽灵；此处的理解，指的正是输入区分与输出区分在跨越投射时所达成的共振。
+这也一并消解了那个经久不衰的追问：模型是否“真正理解”。追问模型内部是否有某个主体在进行理解，是在级联背后寻找幽灵；在制品内部，只有输入痕迹与输出痕迹跨越投射所达成的结构共振，而第一人称的领悟与后果承担，则严格归属于发起并评估这一切分的鲜活心智，正如[智能只属于心智](../intelligence-belongs-only-to-the-mind/)所确立的那样。
 
-This also dissolves the perennial question of whether a model "really understands." Asking whether someone is inside doing the understanding looks for a ghost behind the cascade; understanding here names the resonance between input distinctions and output distinctions across the projection.
+This also dissolves the perennial question of whether a model "really understands." Asking whether someone is inside doing the understanding looks for a ghost behind the cascade; inside the artifact there is only structural resonance between input traces and output traces across the projection, while first-person comprehension and consequence-bearing remain strictly with the living Mind that initiates and evaluates the cut, as [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) establishes.
 
-## 六、 留存的清晰 / 6. The Residue
+## 六、 结晶的权重在鲜活心智的输入下激活 / 6. Crystallized Weights Activate Under the Living Mind
 
-说 AI 中的一切皆是语境工程，指向的是器物内部“主体—环境”二元割裂的消解。没有任何内部小人在做阐释；区分筛选顺着习得的投射逐级倾泻。构建 AI 并不会造出一个处理语境的独立心智，而是将语境处理过程结晶于权重之中，并由鲜活心智的输入予以激活。
+说 AI 中的一切皆是语境工程，指向的是制品内部“主体—环境”二元割裂的消解。没有任何内部小人在做阐释；区分筛选顺着习得的投射逐级倾泻。构建 AI 并不会造出一个处理语境的独立心智，而是将语境处理过程结晶于权重之中，并由鲜活心智的输入予以激活。
 
-Saying that everything in AI is context engineering points to the dissolution of the agent-environment split inside the artifact. No homunculus interprets; distinction-selection cascades through learned projections. Building an AI does not produce an independent mind that processes context; it crystallizes context-processing into weights activated by the living mind's input.
+Saying that everything in AI is context engineering points to the dissolution of the agent-environment split inside the artifact. No homunculus interprets; distinction-selection cascades through learned projections. Building an AI does not produce an independent mind that processes context; it crystallizes context-processing into weights activated by the living Mind's input.

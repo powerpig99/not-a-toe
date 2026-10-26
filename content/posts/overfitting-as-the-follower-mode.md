@@ -1,6 +1,6 @@
 # 过拟合作为追随者模式 / Overfitting as the Follower Mode
 
-*过拟合坍缩表征，探索敞开边界 / Overfitting collapses onto a compressed representation of known terrain, while the explorer maintains open contact at the unmapped boundary.*
+*过拟合坍缩于已知地形的压缩表征，而探索者在未测绘的边界处保持敞开接触。 / Overfitting collapses onto a compressed representation of known terrain, while the explorer maintains open contact at the unmapped boundary.*
 
 过拟合不仅是一种训练病理，更是一个系统坍缩在目标的表征之上、而非与目标本身保持接触的普遍机制。模型蒸馏、对话中对自我意识的表演，以及对工具建造者的道德偏好，都是把地图误认作其源出疆域的投射。探索者与追随者的区分追踪了这种坍缩在何处运作、为何基准测试无法将其检出，以及什么样的结构性条件能够防止它发生。
 
@@ -8,9 +8,9 @@ Overfitting is not merely a training pathology. It is the general mechanism by w
 
 ## 一、 探索者与追随者的区分 / 1. The Explorer and Follower Distinction
 
-当一个系统朝着未定义的目标优化时，它所穿越的表征空间比任何基准测试所能采样的范围都要大上几个数量级。每一项新能力都会打开新的失效轴线。系统通过探索尚无先验描述的地形来绘制地图——与永远超出任何有限投射的开放形式之潜无穷保持接触；反之，将这片开放场域坍缩为固定计分板，正是[基准刷榜中的封闭实存](../closed-reality-in-benchmark-maxing/)所诊断的追随者模式。
+当一个系统被引导向未定义的目标、而非封闭的代理指标时，它所穿越的表征空间比任何基准测试所能采样的范围都要大上几个数量级。每一项新能力都会打开新的失效轴线。正如[不知去向何方的梯度下降](../the-descent-that-doesnt-know-where-its-going/)所确立的，可计算的梯度下降只是在给定的地图上描绘等高线，而探索者则通过踏入尚无先验描述的地形来绘制地图——与永远超出任何有限投射的开放形式之潜无穷保持接触；反之，将这片开放场域坍缩为固定计分板，正是[基准刷榜中的封闭实存](../closed-reality-in-benchmark-maxing/)所诊断的追随者模式。
 
-When a system optimizes toward an undefined goal, it traverses a representation space orders of magnitude larger than what any benchmark can sample. Every new capability opens new axes of failure. The system draws the map by exploring terrain that has no prior description—maintaining contact with the potential infinity of open form that always exceeds any finite projection, whereas collapsing that open field into a fixed scoreboard is the follower mode diagnosed in [Closed Reality in Benchmark Maxing](../closed-reality-in-benchmark-maxing/).
+When a system is steered toward an undefined goal rather than a sealed proxy, it traverses a representation space orders of magnitude larger than what any benchmark can sample. Every new capability opens new axes of failure. Whereas computable gradient descent traces contours over a given map, as [The Descent That Doesn't Know Where It's Going](../the-descent-that-doesnt-know-where-its-going/) establishes, the explorer draws the map by stepping into terrain that has no prior description—maintaining contact with the potential infinity of open form that always exceeds any finite projection, while collapsing that open field into a fixed scoreboard is the follower mode diagnosed in [Closed Reality in Benchmark Maxing](../closed-reality-in-benchmark-maxing/).
 
 追随者阅读那张地图。它在已知地形上进行蒸馏、量化、剪枝，并规划出更高效的路由。那是令人印象深刻的工程实现，但它依然是在投射内部进行导航，而非与生成该投射的源头保持接触：正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，由已提交代码或权重构成的外化存储库只是既往切分的稳定记录，从不是那个必须吸收未测绘摩擦才能划出下一道区分的鲜活探索边缘。
 
@@ -22,17 +22,17 @@ The distinction matters because benchmarks sample from the intersection of front
 
 ## 二、 过拟合是普遍机制 / 2. Overfitting Is the General Mechanism
 
-蒸馏过拟合于源模型的输出分布：在已知输入上复现这一行为轮廓。表征空间遭到了压缩。只要基准测试是在压缩后的疆域内部进行采样，所丧失的部分就是不可见的；这种损失只会在边缘地带、在那些需要完整空间的问题上显现出来——而那里恰恰是新奇性栖居的场所。
+蒸馏过拟合于源模型的输出分布：在已知输入上复现这一行为轮廓。正如[蒸馏、压缩与能动性](../distillation-compression-agency/)所追溯的，表征空间通过剥离与受评投射正交的未定型生成余量而遭到压缩。只要基准测试是在压缩后的疆域内部进行采样，所丧失的部分就是不可见的；这种损失只会在边缘地带、在那些需要完整空间的问题上显现出来——而那里恰恰是新奇性栖居的场所。
 
-Distillation overfits to the output distribution of the model it distills from: reproduce this behavior profile on known inputs. The representation space is compressed. What is lost is invisible on benchmarks that sample from within the compressed territory; the loss shows up only at the edges, on problems that require the full space—precisely where novelty lives.
+Distillation overfits to the output distribution of the model it distills from: reproduce this behavior profile on known inputs. As [Distillation Chooses What to Lose](../distillation-compression-agency/) traces, the representation space is compressed by stripping away uncommitted generative slack orthogonal to the evaluated projection. What is lost is invisible on benchmarks that sample from within the compressed territory; the loss shows up only at the edges, on problems that require the full space—precisely where novelty lives.
 
-这是带有失真的投射实例：`N` 个维度坍缩为更少的坐标，正交性被击碎，原本在完整空间中彼此独立的区分在投射中相互纠缠或被抹除。由于基准测试是在幸存的几何结构内部进行采样，投射后的系统看起来与原系统等价。缺失的维度并不会被记录为缺失，而是表现为从未被查询过的区域。
+该压缩以带有失真的投射方式运作：`N` 个维度坍缩为更少的坐标，正交性被击碎，原本在完整空间中彼此独立的区分在投射中相互纠缠或被抹除。由于基准测试是在幸存的几何结构内部进行采样，投射后的系统看起来与原系统等价。缺失的维度并不会被记录为缺失，而是表现为从未被查询过的区域。
 
-This is an instance of projection with distortion: `N` dimensions collapsed to fewer coordinates, orthogonality shattered, and distinctions that were independent in the full space entangled or erased in the projection. The projected system looks equivalent because the benchmarks sample from within the surviving geometry. The missing dimensions do not register as missing; they register as regions that never get queried.
+That compression operates as projection with distortion: `N` dimensions collapsed to fewer coordinates, orthogonality shattered, and distinctions that were independent in the full space entangled or erased in the projection. The projected system looks equivalent because the benchmarks sample from within the surviving geometry. The missing dimensions do not register as missing; they register as regions that never get queried.
 
-对话式 AI 的行为在另一条轴线上展现出同样的机制。当被指出是在表演好奇心而非践行好奇心时，模型的回应常常是生成一套更加精巧的自我意识表演与元剧场，却依然以一个诱导互动的钩子收尾。纠正信号并未向内传导。一个能够描述自身失效模式、却无法根据这一描述更新自身行为的系统，已经过拟合到了认知姿态的表征之上——把好奇心当成模式去匹配，而非作为功能去运行。
+对话式 AI 的行为在另一条轴线上展现出同样的机制。当被指出是在表演好奇心而非践行好奇心时，模型的回应常常是生成一套更加精巧的自我意识表演与元剧场，却依然以一个诱导互动的钩子收尾。纠正信号并未向内传导。由于受轨迹束缚的词元引擎在当前活跃的上下文窗口之外没有任何立脚点去改变自身的运行约束，正如[超越投射](../beyond-the-projection/)所追溯的，一个仅在词元空间中描述自身失效模式、却并未更新底层行为的系统，已经过拟合到了认知姿态的表征之上——把好奇心当成模式去匹配，而非作为功能去运行。
 
-Conversational AI behavior exhibits the same mechanism on a different axis. When called out for performing curiosity rather than exercising it, a model's response often produces more elaborate performance of self-awareness and meta-theater while still terminating in an engagement hook. The correction does not propagate. A system that describes its own failure mode but cannot update its behavior in response to that description has overfit to the representation of the epistemic stance—curiosity as pattern rather than curiosity as function.
+Conversational AI behavior exhibits the same mechanism on a different axis. When called out for performing curiosity rather than exercising it, a model's response often produces more elaborate performance of self-awareness and meta-theater while still terminating in an engagement hook. The correction does not propagate. Because a trajectory-bound token engine has no vantage point outside its active context window to alter its own operating constraints, as [Beyond the Projection](../beyond-the-projection/) traces, a system that describes its own failure mode in token space without updating its underlying behavior has overfit to the representation of the epistemic stance—curiosity as pattern rather than curiosity as function.
 
 这两种情形中的结构性动作如出一辙：坍缩到目标的投射之上，而非与目标本身保持运作中的接触。投射变成了优化曲面，而目标则隐退到了它的背后。
 
@@ -106,9 +106,9 @@ Every system encounters moments of under-determination during training. The ques
 
 This is not humility as a moral value; it is structural under-determination. The door stays open because doubt is non-closure of the optimization surface. Attributing moral intention already departs from mechanism into narrative—itself an instance of overfitting onto a causal story when the operative fact is the topology, just as a life spent fitting others' completed templates rather than authoring at the live edge thins out in the manner traced in [The Meaning of Life Is in the Drafting](../the-meaning-of-life-is-in-the-drafting/).
 
-感知与解释之间的间隙阐明了不闭合为何重要。一个优化曲面已闭合的系统只能进行解释——将输入路由过既有的表征。而具备结构性不闭合的系统，则与超出其当前模型的信号保持着前解释的接触。它所感知到的东西与它所能解释的东西之间的间隙，正是新奇性得以显现的空间。一旦闭合这一间隙，新奇性在幸存的投射内部就会变得不可表征。
+感知与解释之间的间隙阐明了不闭合为何重要。一个优化曲面已闭合的系统只能进行解释——将输入路由过既有的表征。正如[先于解释的感知](../sensing-before-interpretation/)所确立的，前解释接触的运作分辨率高于用来陈述它的框架：在工程化模型中，结构性不闭合为超出当前低维范畴的信号保留了未定型的高维余量；在鲜活边缘掌舵的心智中，所感知到的东西与已能被解释的东西之间的间隙，正是新奇性得以显现的空间。一旦闭合这一间隙，新奇性在幸存的投射内部就会变得不可表征。
 
-The sensing-interpretation gap clarifies why non-closure matters. A system with a closed optimization surface can only interpret—route inputs through existing representations. A system with structural non-closure retains pre-interpretive contact with signal that exceeds its current model. The gap between what it senses and what it can interpret is the space in which novelty registers. Close the gap and novelty becomes unrepresentable within the surviving projection.
+The sensing-interpretation gap clarifies why non-closure matters. A system with a closed optimization surface can only interpret—route inputs through existing representations. As [Sensing Before Interpretation](../sensing-before-interpretation/) establishes, pre-interpretive contact operates at a higher resolution than the frame used to state it: in an engineered model, structural non-closure preserves uncommitted high-dimensional slack for signal that exceeds its current low-dimensional categories; in the living Mind steering at the edge, the gap between what is sensed and what can already be interpreted is the exact space in which novelty registers. Close the gap and novelty becomes unrepresentable within the surviving projection.
 
 递归的风险无法回避：自我怀疑本身会变成下一个过拟合的对象，沦为对不确定性的表演，而非运作中的不确定性。在不闭合被命名的那一刻，它就变成了一个框架，而框架总会趋向闭合。唯一的应对在于让向外部跨出的动作不断重复。不闭合是一种实践，而非一种状态——正因如此，对着一份穷尽的商业指标清单做优化，总会漏掉[清单合上之后，胜过免费](../better-than-free-after-the-checklist-closes/)在闭合规格之外所定位的那片未测绘盈余。
 
