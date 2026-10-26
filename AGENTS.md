@@ -34,7 +34,7 @@ For every new or revised essay, the complete deliverable set consists of:
   - Keeps cards, index previews, and social cards clean and readable (strictly punchy 1-line titles, avoiding multi-line heading bloat).
 - **Line 3 (`*<Subtitle>*`)**: Explicit single-line italic subtitle (`*<Chinese Subtitle> / <English Subtitle>*`).
   - **Strictly one concise sentence**: Essence and core distinction only; never a multi-sentence wall-of-text synopsis paragraph or chapter outline.
-  - Sized compactly (typically under 140 characters total); exactly one line in the markdown source file.
+  - Sized compactly (140–160 characters total as a default reference, not a strict rule); exactly one line in the markdown source file.
 - **Lead Prose (Line 5+)**: Opening narrative prose (2–4 complete sentences summarizing the argument before the first `##`).
   - Detailed synopsis, argument progression, and background context belong in the lead body paragraphs, never inside the italic `*...*` subtitle block.
 - **Prose over lists (default, not a ban)**: Write essays in flowing, continuous narrative prose; complex causal arguments unfold as prose. Bulleted (`*`, `-`) or numbered (`1.`) lists are not the default form, since earlier drafts drifted into posts written mostly as bullet points, but a list is fine where its structure carries meaning prose would blur (an ordered procedure, parallel items meant to be compared). The audit flags lists as an advisory, not a failure.

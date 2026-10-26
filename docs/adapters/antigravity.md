@@ -112,22 +112,34 @@ Register each planning role from its charter in [`docs/charters/`](../charters/)
 
 Generic agentic-system-agnostic specification: [`docs/wave-refinement-plan.md` §8](../wave-refinement-plan.md).
 
-### 5.1 Role-to-Primitive Mapping (`studio/post/<slug>/`)
+### 5.1 Hybrid Dispatch Architecture (`Antigravity Dispatcher` + `Headless Claude Code (Opus 5.5, Medium)` + `In-House Image Gen` + `Direct Grok Bot Handoff`)
 
-| Generic Role (`wave-refinement-plan.md` §8) | Antigravity Primitive | Workspace Mode | `EnableWriteTools` | `EnableMCPTools` |
-| --- | --- | --- | --- | --- |
-| **Media Dispatcher** | Main Agent (`run_command` background `stall_watch.py` + `stall_watch.py --wait studio/post/<slug>` for reactive stall wakeup, re-armed after each trace) | Root `/Users/jingliang/Projects/not-a-toe` | `true` | `true` |
-| **`script-drafter`** | `define_subagent` + `invoke_subagent` | `inherit` (restricted to `studio/post/<slug>/`) | `true` | `false` |
-| **`script-critic`** | `define_subagent` + `invoke_subagent` | `inherit` (restricted to `studio/post/<slug>/`) | `true` | `false` |
-| **`audio-builder`** | `define_subagent` + `invoke_subagent` | `inherit` (restricted to `studio/post/<slug>/` + `studio/kits/audio/`) | `true` | `false` |
-| **`audio-critic`** | `define_subagent` + `invoke_subagent` | `inherit` (restricted to `studio/post/<slug>/`) | `true` | `false` |
-| **`infographic-maker`** | `define_subagent` + `invoke_subagent` | `inherit` (restricted to `studio/post/<slug>/` + `studio/kits/infographics/`) | `true` | `false` |
-| **`infographic-critic`** | `define_subagent` + `invoke_subagent` | `inherit` (restricted to `studio/post/<slug>/`) | `true` | `false` |
-| **`film-maker`** | `define_subagent` + `invoke_subagent` | `inherit` (restricted to `studio/post/<slug>/` + `studio/kits/film/`) | `true` | `false` |
-| **`film-critic`** | `define_subagent` + `invoke_subagent` | `inherit` (restricted to `studio/post/<slug>/`) | `true` | `false` |
-| **`scouter`** | `define_subagent` + `invoke_subagent` (Stream 2C `step=FILM_SCOUT_READY` & Pre-Escalation Gate; killed on `RESEARCH_READY`) | `inherit` (restricted to `studio/post/<slug>/`) | `true` | `true` |
-| **`recap` (+ §4.5 Settlement Pair)** | `define_subagent` + `invoke_subagent` (Wave 3 step 5 `recap.md` read on need-to-know basis, settled via implementer ⇄ cold critic in `settlement.md` per §4.5, escalating only `open_issues > 0` to Outer Loop with consistency check, and presenting non-edge run/inbox logs for deletion `清盘`) | `inherit` (`recap` restricted to `studio/post/<slug>/`; settlement pair across the run's allowed surfaces per `media/SKILL.md`) | `true` | `false` |
+When `/media <slug>` is run from Antigravity (the default hybrid orchestration mode, owner 2026-10-26):
+1. **Top-Level Media Dispatcher in Antigravity:** The Antigravity Main Agent holds Stage 0 initialization (`stall_watch.py` + `stall_watch.py --wait`), `O(1)` `STATUS:` routing, Wave 3 CLI exports/publishers (`export-infographic.mjs`, `youtube.mjs`, `x-post.mjs`), site build/deploy, and Outer-Loop `/recap` + `清盘`.
+2. **Claude-Executed Tasks via Headless Claude Code (`Opus 5.5, Medium`):** Every role executed by Claude is dispatched from Antigravity via `run_command` in `/Users/jingliang/Projects/not-a-toe` using headless Claude Code:
+   ```bash
+   claude -p \
+     --model claude-opus-5-5 \
+     --effort medium \
+     --permission-mode bypassPermissions \
+     --add-dir /Users/jingliang/Projects/not-a-toe \
+     --session-id <role-uuid> \
+     "<charter + pointer-only prompt>"
+   ```
+   On Round 2+ of a role's debate within the same step, resume that role's context with `claude -p --model claude-opus-5-5 --effort medium --permission-mode bypassPermissions --add-dir /Users/jingliang/Projects/not-a-toe --resume <role-uuid> "<pointer-only prompt>"`. Each invocation returns strictly its single-line `STATUS: ... log=<path>` token.
+3. **Pure Image Generation In-House Directly in Antigravity:** Instead of driving Antigravity from headless Claude via `studio/kits/shared/bin/agy.sh`, Antigravity invokes its built-in `image-generator` subagent **directly in-house** in Stream 2B to generate the text-free JPEGs (`podcast-cover.jpg`, square infographic `art.jpg`, and `4:3` / `3:4` WeChat card raw art) into `studio/kits/shared/library/inbox/` (or `studio/post/<slug>/wip/infographics/`), inspects them against `studio/post/<slug>/raw/post.md`, and then dispatches headless Claude (`infographic-maker` ⇄ `infographic-critic`) for cropping/sizing and setting the DOM text in code (`page.html`, `wechat.html`, `render.mjs`, `check.mjs`, `wechat.mjs`).
+4. **Direct Grok Bot Handoff from Antigravity:** Antigravity writes `studio/post/<slug>/final/HANDOFF-audio.md` and `HANDOFF-video.md` directly at stream lock, presents the exact path and kick-off paragraph to the Operator in Antigravity chat, and reads `final/RESULT.md` once Grok Bot (`Publisher` ⇄ `Cold Publish Critic`) locks it.
 
-### 5.2 Media Subagent Registration (`define_subagent` for `/media <slug>`)
+| Generic Role (`wave-refinement-plan.md` §8) | Execution Primitive from Antigravity | Model & Effort / Tooling | Scope / Directory |
+| --- | --- | --- | --- |
+| **Media Dispatcher** | Antigravity Main Agent (`run_command` background `stall_watch.py` + `stall_watch.py --wait studio/post/<slug>`, direct `HANDOFF-{audio,video}.md` → Grok Bot → `RESULT.md`, Wave 3 CLI publish & build) | Host Antigravity session | Root `/Users/jingliang/Projects/not-a-toe` |
+| **Stream 2B Pure Image Gen** | Antigravity built-in `image-generator` subagent (`invoke_subagent(TypeName="image-generator")`) | In-house multimodal image generation (replaces `bin/agy.sh` round-trip) | `studio/kits/shared/library/inbox/` & `studio/post/<slug>/wip/infographics/` |
+| **`script-drafter` / `script-critic` (+ Cold Reader)** | Headless Claude Code (`claude -p --session-id / --resume`) | `--model claude-opus-5-5 --effort medium` | `studio/post/<slug>/` |
+| **`audio-builder` / `audio-critic`** | Headless Claude Code (`claude -p --session-id / --resume`) | `--model claude-opus-5-5 --effort medium` | `studio/post/<slug>/` + `studio/kits/audio/` |
+| **`infographic-maker` / `infographic-critic`** | Headless Claude Code (`claude -p --session-id / --resume`, operating on the raw JPEGs generated in-house by Antigravity) | `--model claude-opus-5-5 --effort medium` | `studio/post/<slug>/` + `studio/kits/infographics/` |
+| **`film-maker` / `scouter` / `film-critic`** | Headless Claude Code (`claude -p --session-id / --resume`) | `--model claude-opus-5-5 --effort medium` | `studio/post/<slug>/` + `studio/kits/film/` |
+| **`recap` (+ §4.5 Settlement Pair)** | Headless Claude Code (`claude -p`) or Antigravity subagent (`define_subagent` + `invoke_subagent`) | `--model claude-opus-5-5 --effort medium` (or `inherit`) | `studio/post/<slug>/` + allowed workflow/skill surfaces |
 
-Register each role of §5.1 from its charter in [`docs/charters/`](../charters/) (`script-drafter.md`, `script-critic.md`, `audio-builder.md`, `audio-critic.md`, `infographic-maker.md`, `infographic-critic.md`, `film-maker.md`, `film-critic.md`, `scouter.md`, `recap.md`), with the workspace mode and tool flags of §5.1 and the tool-word mapping of §2 (plus a single-pass cold-reader subagent on `wip/scripts/film-narration.en.txt` → `wip/scripts/coldread.md` in Wave 1). The conventions every media charter shares are stated once in [`docs/charters/README.md`](../charters/README.md).
+### 5.2 Role Charters (`docs/charters/` for `/media <slug>`)
+
+Each role of §5.1 loads its charter in [`docs/charters/`](../charters/) (`script-drafter.md`, `script-critic.md`, `audio-builder.md`, `audio-critic.md`, `infographic-maker.md`, `infographic-critic.md`, `film-maker.md`, `film-critic.md`, `scouter.md`, `recap.md`) together with [`docs/charters/README.md`](../charters/README.md) (plus a single-pass cold-reader invocation on `wip/scripts/film-narration.en.txt` → `wip/scripts/coldread.md` in Wave 1).

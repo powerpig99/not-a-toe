@@ -48,7 +48,7 @@ Lead: 2–4 complete sentences summarizing the argument.
 | Rule | Detail |
 |------|--------|
 | First line | `# Title` only (bilingual: `# <ZH> / <EN>`). Strictly concise and punchy: no compound subtitle delimiters (`：`, `:`, ` - `, ` — `, `——`) packing subtitles into the title |
-| Subtitle | Exactly one concise sentence on Line 3 in explicit italics (`*<ZH> / <EN>*`), before any `##`. Essence only (core geometry); never a multi-sentence wall of text (< 140 chars) |
+| Subtitle | Exactly one concise sentence on Line 3 in explicit italics (`*<ZH> / <EN>*`), before any `##`. Essence only (core geometry); never a multi-sentence wall of text (140–160 chars as a default reference, not a strict rule) |
 | Lead | Following sentences (Line 5+) before first `##`; pure narrative prose — no lists, quotes blocks, or HRs in the open. Extended synopses belong here |
 | Body | Starts at first `##` / `###` |
 | Section headings | Name the cut of that section — a specific claim or distinction. Not a generic slot |
@@ -96,7 +96,7 @@ Three distinct jobs. Do not collapse them.
 - Placed on Line 3 in explicit italics: `*<Chinese Subtitle> / <English Subtitle>*`.
 - Strictly ONE complete, concise sentence (capturing *what the post is saying at root* — the irreducible distinction or geometry).
 - Never a multi-sentence wall-of-text synopsis paragraph or miniature of the sections.
-- Compact length (< 140 characters).
+- Compact length (140–160 characters as a default reference, not a strict rule).
 
 **Lead**
 - Starts on Line 5 after an empty Line 4.
