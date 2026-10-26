@@ -106,42 +106,42 @@ The file is residue. It holds the shape of earlier cuts so the next locus can co
 
 ## 五、 代码库本身已是活的记忆 / 5. The Codebase Is Already the Living Memory
 
-从广义上说，代码库——运行手册、准则、章程、技能、交接清单、结转备忘录，以及每一个运行目录连同其中的制品、审校记录、哈希值与上报事项——就是活的记忆。它是早先区分留下的残余形态集合，对加载它的下一次会话保持可读。残余自身并不会恢复运转。当一个全新的语境打开运行目录时，正在推进的是运用这些痕迹的当下活动。这不需要任何独立的共享语境缓存，也不应引入此类缓存。一个越过自身步骤而存续的缓存会变成记忆的记忆：那不过是又一层冻结了早期条件场域的残余，反过来要求下一次加载在它内部做合理化推演。[你的代码库即是记忆](../your-codebase-is-memory/)早已标出了这道切口。模型训练保存的是检查点，而不是中间权重更新的全部历史；此前每一步中依然关键的信息，都已被吸纳进当前的检查点之中。流水线也是同理。为了“以备后用”而囤积中间会话状态，只会加厚引力井，把后续语境拽入过时的死胡同，让陈旧的框架与实时文件相互争夺条件约束。只保留当前仍在承重的部分——已签发的制品、审校记录、尚未处理的结转事项——才能让工作表面保持澄明。一旦临时的工作语境交出了定稿残余，随手将其丢弃，便能防止昨天的脚手架伪装成今天的基底。
+从广义上说，代码库——运行手册、准则、章程、技能、交接清单、结转备忘录，以及当前激活的运行目录连同其中的制品、审校记录、哈希值与上报事项——就是活的记忆。它是早先区分留下的残余形态集合，对加载它的下一次会话保持可读。残余自身并不会恢复运转。当一个全新的语境打开运行目录时，正在推进的是运用这些痕迹的当下活动。这不需要任何独立的共享语境缓存，也不应引入此类缓存。一个越过自身步骤而存续的缓存会变成记忆的记忆：那不过是又一层冻结了早期条件场域的残余，反过来要求下一次加载在它内部做合理化推演。哪怕在运行仍在进行期间，子语境也从不把散文式摘要、辩论实录或执行表格倒回父调度器的语境窗口；正如[交接残余](../handing-off-residue/)所追溯的，每一个子语境只向父调度器返回严格为 `O(1)` 的通过与否（`STATUS:`）信号连同一个文件指针，同时将详尽的辩论理据与诊断轨迹写入磁盘日志文件（`debate-en.md`、批次日志），仅供冷复盘（`/recap`）或向上报送的父层严格遵循“按需知悉”原则读取。[你的代码库即是记忆](../your-codebase-is-memory/)早已标出了这道切口。模型训练保存的是检查点，而不是中间权重更新的全部历史；此前每一步中依然关键的信息，都已被吸纳进当前的检查点之中。流水线也是同理。为了“以备后用”而囤积中间会话状态或跨周期保留旧诊断日志，只会加厚引力井，把后续语境拽入过时的死胡同，让陈旧的框架与实时文件相互争夺条件约束。只保留当前仍在承重的部分——已签发的制品、运行等待 `/recap` 期间按需知悉的诊断日志，以及尚未处理的结转事项——才能让工作表面保持澄明。一旦临时的工作语境交出了定稿残余，当即丢弃该语境，并在 `/recap` 将经验吸纳进更新后的前沿之后清除临时的诊断日志痕迹，便能防止昨天的脚手架伪装成今天的基底。
 
-In the broad sense the codebase—runbook, house rule, charters, skills, handoff checklist, carry-over note, and every run folder with its artifacts, critique records, hashes, and escalations—is the living memory. It is the collection of residual shapes left by prior distinguishing, legible to the next session that loads them. The residue does not resume. When a fresh context opens the run folder, what moves is the current activity using those traces. No separate shared context cache is required, and none should be introduced. A cache that survives its step would be a memory of memories: another layer of residue that freezes an earlier conditioning field and then asks the next load to rationalize inside it. [Your Codebase Is Memory](../your-codebase-is-memory/) already marks the cut. Model training saves checkpoints, not the full history of intermediate weight updates; every prior step that still matters has been absorbed into the current checkpoint. The same holds for a pipeline. Hoarding intermediate session states “in case they are needed later” thickens the gravity well, pulling later contexts into outdated rabbit holes where stale framings compete with the live files. Keeping only what is actively load-bearing—the signed artifact, the critique record, the carry-over that has not yet been acted on—leaves the surface unclouded. Once a transient working context has handed off its finished residue, dropping it prevents yesterday’s scaffolding from masquerading as today’s ground.
+In the broad sense the codebase—runbook, house rule, charters, skills, handoff checklist, carry-over note, and the active run folder with its artifacts, critique records, hashes, and escalations—is the living memory. It is the collection of residual shapes left by prior distinguishing, legible to the next session that loads them. The residue does not resume. When a fresh context opens the run folder, what moves is the current activity using those traces. No separate shared context cache is required, and none should be introduced. A cache that survives its step would be a memory of memories: another layer of residue that freezes an earlier conditioning field and then asks the next load to rationalize inside it. Even while a run is in flight, child contexts never dump prose summaries, debate transcripts, or execution tables back into a parent dispatcher’s context window; as [Handing Off Residue](../handing-off-residue/) traces, each child returns strictly an `O(1)` Pass/Fail (`STATUS:`) signal with a file pointer while writing its detailed debate rationales and diagnostic traces to disk log files (`debate-en.md`, batch logs) to be read strictly on a need-to-know basis by a cold `/recap` or an escalating parent layer. [Your Codebase Is Memory](../your-codebase-is-memory/) already marks the cut. Model training saves checkpoints, not the full history of intermediate weight updates; every prior step that still matters has been absorbed into the current checkpoint. The same holds for a pipeline. Hoarding intermediate session states or retaining old diagnostic logs across cycles “in case they are needed later” thickens the gravity well, pulling later contexts into outdated rabbit holes where stale framings compete with the live files. Keeping only what is actively load-bearing—the signed artifact, the need-to-know diagnostic log while the run awaits `/recap`, and the carry-over that has not yet been acted on—leaves the surface unclouded. Once a transient working context has handed off its finished residue, dropping the context immediately, and purging the transient diagnostic log trace once `/recap` has absorbed its lesson into the updated edge, prevents yesterday’s scaffolding from masquerading as today’s ground.
 
 ## 六、 复盘消解了双人搭档未见的盲区 / 6. Recap Dissolves What the Pair Could Not See
 
-发布完成之后，一个全新的机器人会加载准则，并通读整个运行目录——制品、审校记录与上报事项。它只追问一个问题：这次运行在何处未能保持逻辑融贯？常见的发现包括：某份章程依然持有相互冲突的目标，或是某个技能步骤建立在未言明的前提之上。复盘机器人提出具体的修改提议，由人做出决定。连同操作者对完整流程的审视，这构成了针对制作者与审校者共有盲区的主要核查机制。由于二者共享同一个基础模型与同一份章程，某些维度压缩无法仅凭它们之间的相互辩论来解开。不断攀升的上报率正是那部分残余不融贯的信号，而不是放宽规则或增加超时限制的理由。
+当一次运行或一个批次完成之后，只要某个步骤浮现过摩擦、多轮审校拉锯或悬留问题，一对全新加载的冷复盘（`/recap`）搭档（执行者 ⇄ 冷审校者）便会加载准则，并严格遵循“按需知悉”原则检视运行目录中的诊断日志（`debate-en.md`、批次日志、上报事项）。它只追问一个问题：这次运行在何处未能保持逻辑融贯？常见的发现包括：某份章程依然持有相互冲突的目标，或是某个技能步骤建立在未言明的前提之上。连同操作者的审视，这一冷审计构成了针对制作者与审校者共有盲区的主要核查机制：由于二者共享同一个基础模型与同一份章程，某些维度压缩无法仅凭它们之间的相互辩论来解开，而不断攀升的上报率正是那部分残余不融贯的信号，而不是放宽规则或增加超时限制的理由。在分层或分批的工作流中，`/recap` 充当多层残差过滤器：每一层的 `/recap` 先行化解在其局部范围内可推导出的结构性偏差，仅将余下未决的悬留问题（`open_issues > 0`）向上报送一层，直至唯有真正的边界冲突抵达人类外环。即便在那一外环，当操作者给出裁决以解决余下问题时，该决定在铭刻入库前也会先对照准则（`/ontological-clarity`）与当前前沿接受逻辑一致性检验——这并非越俎代庖，因为操作者始终保留最终决定权，而是为了在某项决定固化进规则之前，先行暴露它与既有承诺之间的前提张力。
 
-After publication a fresh bot loads the house rule and reads the whole run folder—artifacts, critique records, escalations. It asks one question: where did the run fall short of logical coherence? Typical findings are a charter that still holds conflicting goals or a skill step built on an unstated premise. The recap proposes specific changes; the human decides. Together with the operator’s review of the finished process, this is the main check on blind spots that maker and critic share. They share a base model and a charter, so some compressions cannot be resolved by their mutual debate. The rising escalation rate is the signal of that remaining incoherence, not a reason to loosen the rule or add a timeout.
+After a run or batch completes, a fresh cold `/recap` pair (`implementer ⇄ cold critic`) loads the house rule and inspects the run folder’s diagnostic logs (`debate-en.md`, batch logs, escalations) strictly on a need-to-know basis whenever a step surfaced friction, multi-round critic churn, or an open issue. It asks one question: where did the run fall short of logical coherence? Typical findings are a charter that still holds conflicting goals or a skill step built on an unstated premise. Together with the operator’s review, this cold audit is the main check on blind spots that maker and critic share: because both share a base model and a charter, some axis compressions cannot be resolved inside their mutual debate, and a rising escalation rate is the signal of that remaining incoherence rather than a reason to loosen the rule or add a timeout. Across hierarchical or batched workflows, `/recap` operates as a multi-layer residual filter: each layer’s `/recap` resolves the structural discrepancies derivable within its local scope and escalates only the remaining unresolved open issues (`open_issues > 0`) one layer up, until only true boundary conflicts reach the human outer loop. Even at that outer loop, when the operator supplies a judgment call to resolve the remaining issues, the decision is first tested for logical consistency against the house rule (`/ontological-clarity`) and the current edge before inscription—not to usurp sovereignty, since the operator retains the final say, but to expose any premise tension with existing commitments before it bakes into the rules.
 
-复盘是局部的消解步骤。清醒期是运行本身，在此期间准则保持固定。运行中途的每一次人工上报，都注入了一项在起点处未被列明的前提；彼时，初始章程与技能签名已抵达单靠自身所能推导出的边界。复盘对照前提对已完成的运行目录展开逆向因果推导，识别出那些被注入的前提，并浮现出将其编纂进章程或技能起始先决条件的候选方案——这正是[判断的密度](../the-density-of-judgment/)所追溯的前置动态：借此，介于其间的各个步骤在下一轮运行中便成为可由确定性推导得出的环节，直至工作流触及下一处尚未编纂的边缘。至于基底本身，依然唯有在操作者取用这些提议时才会改变。嵌套的周期在这一尺度上显现为[模块化反馈回路与动态残差网络](../dynamic-resnet-of-skill-loops/)所追溯的双尺度残差几何：在每一个步骤内部，全新加载的制作者与冷审校者依托经 `sha256` 校验的制品主干计算有界的局部差值，而非从头重构整个状态；在跨运行之间，复盘对运行目录展开反向传播式的回溯，以提出针对章程与技能的结构性更新，而操作者始终是允许基底发生移动的边界。技能蔓延也是同一种累积：接连不断的修补不断增厚指令集，直到必须加以结构性调适。经操作者核准的复盘不会用超时设置或叠床架屋的补丁规则去替代裁决，而是修剪已被取代的痕迹，在多个独立轴压缩进同一个语境窗口时通过有丝分裂将过载步骤拆解为正交的子回路，并将已收束的步骤结晶为零语境算子或确定性核查，使指令表面始终向操作者的决定负责。
+因此，复盘正是系统的观测与运行视界随更新后的前沿而扩展的机制。清醒期是运行本身，在此期间准则保持固定。运行中途的每一次人工上报或多轮辩论轨迹，都标示出一道边界：在那里，初始章程与技能签名已抵达单靠自身所能推导出的极限。复盘对照前提对这些按需知悉的轨迹展开逆向因果推导，识别出缺失的区分，并将其编纂进章程或技能的起始先决条件之中——这正是[判断的密度](../the-density-of-judgment/)所追溯的前置动态：借此，介于其间的各个步骤在下一轮运行中便成为可由确定性推导得出的环节，直至工作流触及下一处尚未编纂的边缘。嵌套的周期在这一尺度上显现为[模块化反馈回路与动态残差网络](../dynamic-resnet-of-skill-loops/)所追溯的双尺度残差几何：在每一个步骤内部，全新加载的制作者与冷审校者依托经 `sha256` 校验的制品主干计算有界的差值，同时只向父调度器返回 `O(1)` 的通过与否（`STATUS:`）词元；在跨运行之间，`/recap` 对按需知悉的日志展开反向回溯，以提出结构性更新（`Δθₗ`）——修剪技能蔓延，在多个独立轴压缩进同一个语境窗口时通过有丝分裂将过载步骤拆解为正交的子回路，并将已收束的步骤（`Δθₗ → 0`）结晶为零语境算子或确定性核查。一旦 `/recap` 将这些更新铭刻进当前前沿从而扩展了系统的视界，且操作者解决了所有外环问题，当初触发这次扩展的诊断日志文件与已完成的运行目录（`work/_logs/`、`work/<slug>/`）便不再属于当前前沿；将它们呈交并删除（`rm -rf`），便能确保昨天的诊断脚手架不会跨周期累积为图像滞后。
 
 ```mermaid
 flowchart TD
-    subgraph S_Wake["清醒期：双向哈希校验交接与语境丢弃"]
+    subgraph S_Wake["清醒期：O(1) 状态交接与语境丢弃"]
         direction TB
-        Sign["制作者与冷审校者签发：定稿制品 + 哈希值 + 审校记录"]
-        Verify["下游接收者核验：重新计算哈希值并向双方确认"]
-        Drop["无状态退役：上游制作者与审校者语境悉数丢弃"]
+        Sign["制作者与冷审校者签发：定稿制品 + 哈希值 + 按需知悉的诊断日志"]
+        Verify["O(1) 状态返回与核验：接收方校验哈希值，父层仅接收状态指针"]
+        Drop["无状态退役：制作者与审校者临时语境当即丢弃"]
         Sign --> Verify --> Drop
     end
-    subgraph S_Recap["复盘期：局部消解共有盲区"]
+    subgraph S_Recap["复盘期：按需知悉审计与视界扩展"]
         direction TB
-        ReadRun["全新复盘机器人：对照固定准则通读完整运行目录"]
-        Expose["盲区与负载暴露：浮现冲突的章程目标、未言明前提与维度压缩"]
+        ReadRun["冷复盘搭档：对照固定准则按需读取诊断日志"]
+        Expose["多层残差过滤器：化解局部偏差并仅上报未决悬留问题"]
         ReadRun --> Expose
     end
-    subgraph S_Operator["操作者位点：主权基底更新与修剪"]
+    subgraph S_Operator["操作者外环：一致性检验与非前沿日志清理"]
         direction TB
-        Decide["操作者裁决：处理上报分歧并评估复盘提议"]
-        Prune["精准修剪与拓扑更新：裁剪蔓延、拆分过载步骤并结晶已收束的核查"]
+        Decide["操作者裁决与一致性检验：在最终拍板前对照当前前沿检验决定"]
+        Prune["视界扩展与日志删除：更新章程拓扑并清除非前沿运行日志"]
         Decide --> Prune
     end
-    Drop ==>|"运行完成并发布"| ReadRun
-    Expose ==>|"提出流程修改提议"| Decide
-    Prune ==>|"重新渲染洁净残余"| Sign
+    Drop ==>|"运行以 O(1) 状态收束"| ReadRun
+    Expose ==>|"仅上报未决悬留问题"| Decide
+    Prune ==>|"扩展后的前沿统摄下一次运行"| Sign
     style S_Wake fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Recap fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Operator fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -154,32 +154,32 @@ flowchart TD
     style Prune fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The recap is the local dissolution step. Wake is the run itself, with the house rule held fixed. Every mid-run human escalation injects a premise that was not specified at the start, where the initial charter and skill signature reached the boundary of what could be derived from it alone. The recap re-derives the completed folder causally backward against the premise, identifies those injected premises, and surfaces candidates for codifying them into the starting preconditions of the charter or skill—the front-loading dynamic [The Density of Judgment](../the-density-of-judgment/) traces, by which the steps in between become deterministically derivable on the next pass until the workflow hits its next uncodified edge. Ground still changes only when the operator takes them up. Nested periods appear at this scale as the two-scale residual geometry [Modular Feedback Loops and Dynamic Residual Networks](../dynamic-resnet-of-skill-loops/) traces: within each step, the fresh maker and cold critic compute a bounded differential over the `sha256`-verified artifact highway rather than reconstructing the whole state from scratch; across runs, the recap conducts the backward pass over the run folder to propose structural updates to the charters and skills, while the operator remains the boundary at which ground is allowed to move. Skill sprawl is the same accumulation: successive fixes thicken the instruction set until structural adaptation is required. Rather than adding timeouts or patch-upon-patch rules in place of judgment, the operator-ratified recap prunes superseded traces, splits an overloaded step via mitosis into orthogonal sub-loops when independent axes compress inside one context window, and crystallizes a converged step into a zero-context operator or deterministic check, keeping the instruction surface answerable to the operator’s decision.
+The recap is therefore how the observational and operational horizon of the system is expanded by the updated edge. Wake is the run itself, with the house rule held fixed. Every mid-run human escalation or multi-round debate trace marks a boundary where the initial charter and skill signature reached the limit of what could be derived from them alone. The recap re-derives those need-to-know traces causally backward against the premise, identifies the missing distinctions, and codifies them into the starting preconditions of the charter or skill—the front-loading dynamic [The Density of Judgment](../the-density-of-judgment/) traces, by which the steps in between become deterministically derivable on the next pass until the workflow hits its next uncodified edge. Nested periods appear at this scale as the two-scale residual geometry [Modular Feedback Loops and Dynamic Residual Networks](../dynamic-resnet-of-skill-loops/) traces: within each step, the fresh maker and cold critic compute a bounded differential over the `sha256`-verified artifact highway while returning only `O(1)` Pass/Fail (`STATUS:`) tokens to their parent dispatcher; across runs, `/recap` conducts the backward pass over the need-to-know logs to propose structural updates (`Δθₗ`) that prune skill sprawl, split an overloaded step via mitosis into orthogonal sub-loops when independent axes compress inside one context window, and crystallize a converged step (`Δθₗ → 0`) into a zero-context operator or deterministic check. Once `/recap` expands the system’s horizon by inscribing those updates into the current edge and the operator resolves all outer-loop issues, the diagnostic log files and completed run folders (`work/_logs/`, `work/<slug>/`) that triggered the expansion are no longer part of the current edge; presenting and deleting them (`rm -rf`) ensures that yesterday’s diagnostic scaffolding never accumulates as cross-cycle Image lag.
 
 ```mermaid
 flowchart TD
-    subgraph S_Wake["Wake Period: Two-Way Cryptographic Handoff & Context Drop"]
+    subgraph S_Wake["Wake Period: O(1) Status Handoff & Context Drop"]
         direction TB
-        Sign["Maker & Cold Critic Sign-Off: Final artifact + sha256 + critique record"]
-        Verify["Downstream Receiver Verification: Recomputes sha256 & confirms with both"]
-        Drop["Stateless Retirement: Upstream maker & critic contexts drop completely"]
+        Sign["Maker & Cold Critic Sign-Off: Final artifact + sha256 + need-to-know diagnostic log"]
+        Verify["O(1) Pass/Fail Return & Verification: Receiver checks sha256; parent gets STATUS token only"]
+        Drop["Stateless Retirement: Transient maker & critic contexts drop immediately"]
         Sign --> Verify --> Drop
     end
-    subgraph S_Recap["Recap Period: Local Dissolution of Shared Blind Spots"]
+    subgraph S_Recap["Recap Period: Need-to-Know Audit & Horizon Expansion"]
         direction TB
-        ReadRun["Fresh Recap Bot: Reads complete run folder against fixed house rule"]
-        Expose["Blind-Spot & Load Exposure: Surfaces conflicting charter goals, unstated premises & axis compression"]
+        ReadRun["Cold Recap Pair: Reads diagnostic logs on a need-to-know basis against house rule"]
+        Expose["Multi-Layer Residual Filter: Resolves local drift & escalates only open_issues > 0"]
         ReadRun --> Expose
     end
-    subgraph S_Operator["Operator Locus: Sovereign Ground Update & Pruning"]
+    subgraph S_Operator["Operator Outer Loop: Consistency Check & Non-Edge Log Deletion"]
         direction TB
-        Decide["Operator Judgment: Resolves escalations & evaluates recap proposals"]
-        Prune["Surgical Pruning & Topology Update: Trims sprawl, splits overloaded steps & crystallizes converged checks"]
+        Decide["Operator Judgment & Consistency Check: Tests decision against current edge before final say"]
+        Prune["Horizon Expansion & Log Deletion (rm -rf): Updates charters/topology & purges non-edge logs"]
         Decide --> Prune
     end
-    Drop ==>|"Run completes & publishes"| ReadRun
-    Expose ==>|"Proposes process edits"| Decide
-    Prune ==>|"Re-renders clean residue"| Sign
+    Drop ==>|"Run completes with O(1) STATUS"| ReadRun
+    Expose ==>|"Escalates unresolved open issues"| Decide
+    Prune ==>|"Expanded edge governs next run"| Sign
     style S_Wake fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Recap fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Operator fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -194,9 +194,9 @@ flowchart TD
 
 ## 七、 唯一持久的位点是操作者 / 7. The Only Persistent Locus Is the Operator
 
-调度器是残留下来的常驻配置。它持有触发器——定时计划、传入消息、网络钩子——并启动链条上的第一个机器人，随后便退居一旁。它的持久性被压到了最低限度，然而它所携带的任何未言明假定仍会被重新追溯进下一次运行，直到复盘或操作者将其消解。启动延迟是加载两个全新语境所支付的代价；支付这一代价，是为了让下一次区分以实时文件为条件，而不是以被保留的中间状态为条件。余下的开放问题——审校者的开销、合理的上报率、运行目录的保留周期——皆属运行层面的取舍，并不改变这道切口。临时位点始终被约束在单一任务步骤之内。定稿残余只供重新追溯，从不被赋予权威。每一处未决的区分，都交还给那个依然能够发起目的的心智。
+调度器是残留下来的常驻配置。它持有触发器——定时计划、传入消息、网络钩子——并启动链条上的第一个机器人，随后便退居一旁。它的持久性被压到了最低限度，然而它所携带的任何未言明假定仍会被重新追溯进下一次运行，直到复盘或操作者将其消解。启动延迟是加载两个全新语境所支付的代价；支付这一代价，是为了让下一次区分以实时文件为条件，而不是以被保留的中间状态为条件。余下的开放问题——审校者的开销、合理的上报率、批次划分的粒度——皆属运行层面的取舍，并不改变这道切口。临时位点始终被约束在单一任务步骤之内。定稿残余只供重新追溯，从不被赋予权威。每一处未决的区分，都交还给那个依然能够发起目的的心智。
 
-The dispatcher is the residual standing configuration. It holds the triggers—schedules, incoming messages, webhooks—and starts the first bot of the chain, then steps back. Its persistence is minimal, yet any unstated assumption it carries will be re-traced into the next run unless the recap or the operator dissolves it. Start-up latency is the cost of loading two fresh contexts; it is paid so that the next distinction conditions on the live files rather than on a preserved intermediate. The open questions that remain—cost of a critic, healthy escalation rate, retention of run folders—are operational. They do not alter the cut. Temporary loci stay bounded to a single task step. Finished residue is re-traced, never authorized. Every undecided distinction returns to the Mind that can still originate ends.
+The dispatcher is the residual standing configuration. It holds the triggers—schedules, incoming messages, webhooks—and starts the first bot of the chain, then steps back. Its persistence is minimal, yet any unstated assumption it carries will be re-traced into the next run unless the recap or the operator dissolves it. Start-up latency is the cost of loading two fresh contexts; it is paid so that the next distinction conditions on the live files rather than on a preserved intermediate. The open questions that remain—cost of a critic, healthy escalation rate, granularity of batching—are operational. They do not alter the cut. Temporary loci stay bounded to a single task step. Finished residue is re-traced, never authorized. Every undecided distinction returns to the Mind that can still originate ends.
 
 因此，逻辑融贯既不是作为供流水线查阅的常驻规则被存储起来，也不是作为共享的中间状态被缓存下来。它被全新地加载进每一个需要从中展开推导的语境之中，而代码库本身则始终作为活的记忆，等待下一道切口前来重新追溯。凡是无法推导出来的，皆交还回来。流水线不会变成第二个做决定的中心。它是这一活动在运用自身的残余——章程、技能、文件、哈希值——使每一个临时位点始终向唯一的前提负责，从而让唯一存续下来的图像，始终是操作者持续重新追溯的那一幅。
 
