@@ -26,9 +26,9 @@ The five thousand words of financial detail serve a different function: they mak
 
 Every major efficiency gain in history has expanded the space of economic activity rather than merely reshuffling a fixed total. The steam engine did not divide a fixed quota of manual labor between humans and machines; it made energy cheap enough that railways, factories, and mass production became feasible where they had not existed before, and total employment grew. Computing did not divide a fixed ledger of hand calculations; it made computation cheap enough that software, the internet, and mobile ecosystems materialized, raising the demand for people who work with computers because machines handled the arithmetic.
 
-AI 让认知执行的成本变得更低。替代框架追问的是谁会失去现有的份额，而扩张框架追问的则是哪些过去无法实现的事物如今变得可行。当构建软件的成本趋近于零时，每一个组织、社区与个人都成了潜在的创造者：正如[你的代码库即是记忆](../your-codebase-is-memory/)所追踪的，将过往区分外化为持久的代码仓库，把鲜活的掌舵前沿从手工维护中解放出来，使单个心智得以在以往需要整个部门协同的跨领域尺度上不断复利累积架构深度。当分析、翻译、法律审查与财务规划的成本趋近于零时，数十亿人便获得了以往专属于少数人的能力，进而催生出尚未被命名的需求与角色——正如在计算机问世之前，“软件工程师”这一称谓尚不存在一样。
+AI 让认知执行的成本变得更低。替代框架追问的是谁会失去现有的份额，而扩张框架追问的则是哪些过去无法实现的事物如今变得可行。当构建软件的成本趋近于零时，每一个组织、社区与个人都成了潜在的创造者：正如[你的代码库即是记忆](../your-codebase-is-memory/)所追踪的，将过往区分外化为持久的代码仓库，把鲜活的掌舵前沿从手工维护中解放出来，使单个心智得以在以往需要整个部门协同的跨领域尺度上不断复利累积架构深度。当分析、翻译、法律审查与财务规划的成本趋近于零时，数十亿人便获得了以往专属于少数人的能力，进而催生出尚未被命名的需求与角色——正如在计算机问世之前，“软件工程师”这一称谓尚不存在，也正如[AI 不会终结软件工程，而是将其扩展](../ai-wont-kill-software-engineering/)基于同一原因所追踪的：更低廉的语法实现将可行性边界围绕上游的规格定义与验证向外推移，而非令整个领域萎缩。
 
-AI makes cognitive execution cheaper. The replacement frame asks who loses their existing slice, whereas the expansion frame asks what becomes feasible that was never feasible before. When building software costs nearly nothing, every organization, community, and individual becomes a potential creator: externalizing prior distinctions into a durable repository, as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, frees the living steering edge from manual upkeep so a single mind can compound architectural depth across domains that previously required entire departments to coordinate. When analysis, translation, legal review, and financial planning cost nearly nothing, billions of people gain access to capabilities previously reserved for a few, generating needs and roles that do not yet have names—just as "software engineer" had no name before computers existed.
+AI makes cognitive execution cheaper. The replacement frame asks who loses their existing slice, whereas the expansion frame asks what becomes feasible that was never feasible before. When building software costs nearly nothing, every organization, community, and individual becomes a potential creator: externalizing prior distinctions into a durable repository, as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, frees the living steering edge from manual upkeep so a single mind can compound architectural depth across domains that previously required entire departments to coordinate. When analysis, translation, legal review, and financial planning cost nearly nothing, billions of people gain access to capabilities previously reserved for a few, generating needs and roles that do not yet have names—just as "software engineer" had no name before computers existed, and for the same reason [AI Won't Kill Software Engineering, It Will Expand It](../ai-wont-kill-software-engineering/) traces why cheaper syntax implementation shifts the feasibility boundary outward around upstream specification and verification rather than shrinking the field.
 
 末日推演之所以看不到这一点，是因为它的框架在构造之初就将其排除在外：一旦你设定蛋糕总量固定，扩张就会变得不可表征。[人口崩溃神话的拆解](../the-myth-of-population-collapse-explained/)追踪了同一转换在人口问题上的面相，即把发展带来的盈余当成封闭存量来计分；而当复制品变得免费时，价值便会迁移向[清单合上之后，胜过免费](../better-than-free-after-the-checklist-closes/)所描述的那个不可复制的前沿。
 
@@ -41,7 +41,6 @@ flowchart TD
         F_Panic["机械危机叙事：用繁复细节掩盖通缩与传染推演"]
         F_Hold --> F_Sub --> F_Panic
     end
-
     subgraph S_Expand["敞开的前沿（扩张与分化）"]
         direction TB
         E_Cheap["执行成本坍缩：软件构建与分析成本趋近于零"]
@@ -49,9 +48,7 @@ flowchart TD
         E_New["未测绘的范畴：跨过旧瓶颈后涌现出新的组织角色"]
         E_Cheap --> E_Memory --> E_New
     end
-
     F_Panic ==>|"放下总量固定假设，让两条轴线同时移动"| E_Cheap
-
     style S_Fixed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Expand fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style F_Hold fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -73,7 +70,6 @@ flowchart TD
         F_Panic["Mechanical Crisis Narrative: Deflation & contagion camouflaged by detail"]
         F_Hold --> F_Sub --> F_Panic
     end
-
     subgraph S_Expand["The Open Frontier (Expansion & Differentiation)"]
         direction TB
         E_Cheap["Collapsed Execution Cost: Software & analysis drop toward zero"]
@@ -81,9 +77,7 @@ flowchart TD
         E_New["Unmapped Categories: New organizing roles emerge beyond old bottlenecks"]
         E_Cheap --> E_Memory --> E_New
     end
-
     F_Panic ==>|"Release fixed-pie assumption; let both axes move"| E_Cheap
-
     style S_Fixed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Expand fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style F_Hold fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -96,9 +90,9 @@ flowchart TD
 
 ## 三、 真正发生的事 / 3. What's Actually There
 
-一旦消解掉总量固定的前提，铁板一块的危机就会分化为三重各自独立的运行张力。第一重是转型摩擦：人们确实会失去特定的岗位，房贷会面临局部压力，各个行业也会以不均衡的速度重组，但这是需要务实政策应对的调度挑战，而非生存绝境。第二重是分配张力：生产力收益沿着被 AI 加速的轨迹先流向资本再流向劳动，但这属于财政分配问题，而非结构上的无解死局。第三重是身份迷失：一个以常规白领服务任务来定义自身的经济体，正在经历这一标签的消解，正如农业与制造业的身份认同曾先它一步消解一样；这揭示出经济从来就不是那些瓶颈任务本身，而是当瓶颈被移除之后依然持续进行的人类组织活动。
+一旦消解掉总量固定的前提，铁板一块的危机就会分化为三重各自独立的运行张力。第一重是转型摩擦：人们确实会失去特定的岗位，房贷会面临局部压力，各个行业也会以不均衡的速度重组——正如[度量时滞与智能成本通缩](../intelligence-crisis-response/)针对同一推演场景所追踪的，快速演进的知识行业比缓慢且受监管的行业更早卸下名义收入溢价，而后者的实际生活成本通缩尚未传导到位，这使得压力表现为跨行业的重定价时滞与协同挑战，而非生存绝境。第二重是分配张力：生产力收益沿着被 AI 加速的轨迹先流向资本再流向劳动，但这属于财政分配问题，而非结构上的无解死局。第三重是身份迷失：一个以常规白领服务任务来定义自身的经济体，正在经历这一标签的消解，正如农业与制造业的身份认同曾先它一步消解一样；这揭示出经济从来就不是那些瓶颈任务本身，而是当瓶颈被移除之后依然持续进行的人类组织活动。
 
-Dissolve the fixed-pie premise and the monolithic crisis differentiates into three independent operational tensions. The first is transition friction: people do lose specific roles, mortgages face local stress, and sectors reorganize at uneven speeds, which is a logistics challenge requiring practical policy rather than an existential dead end. The second is distribution tension: productivity gains flow to capital before labor along a trajectory AI accelerates, which is a fiscal allocation question rather than a structural impossibility. The third is identity disorientation: an economy that defined itself by routine white-collar service tasks experiences the dissolution of that label just as agricultural and manufacturing identities dissolved before it, revealing that the economy was never the bottleneck tasks themselves, but the human organizing that continues once the bottleneck is removed.
+Dissolve the fixed-pie premise and the monolithic crisis differentiates into three independent operational tensions. The first is transition friction: people do lose specific roles, mortgages face local stress, and sectors reorganize at uneven speeds—as [The Measurement Lag](../intelligence-crisis-response/) traces across this same scenario, fast-moving knowledge sectors shed nominal income premiums before slower, regulated sectors finish deflating real living costs, making the stress a cross-sector repricing lag and coordination challenge rather than an existential dead end. The second is distribution tension: productivity gains flow to capital before labor along a trajectory AI accelerates, which is a fiscal allocation question rather than a structural impossibility. The third is identity disorientation: an economy that defined itself by routine white-collar service tasks experiences the dissolution of that label just as agricultural and manufacturing identities dissolved before it, revealing that the economy was never the bottleneck tasks themselves, but the human organizing that continues once the bottleneck is removed.
 
 这三重张力每一重都是真实的，各自在独立的轴线上运作，也各自容许具体的应对方案。只有当这三者被同时坍缩到一块人为固定住的蛋糕内部的单一轴线上时，末日般的“危机”才会显现出来。
 
