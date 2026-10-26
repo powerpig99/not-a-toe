@@ -32,7 +32,6 @@ flowchart TD
         Indet --> Emb
         Emb --> Edge
     end
-
     style S_Stances fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Indet fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Classic fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -63,7 +62,6 @@ flowchart TD
         Indet --> Emb
         Emb --> Edge
     end
-
     style S_Stances fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Indet fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Classic fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -74,15 +72,15 @@ flowchart TD
     style Edge fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-[抉择本身并不沉重](../choice-itself-has-no-inherent-weight/)与[因果的自反性与物理的无源假定](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/)剖析过，把观察者从因果的舞台上抹去，抹去的一步会回到抹的人身上。古典的位置要的是一个不必由自己承担观察之责的现成世界，模拟的位置用一位造物者的故事盖住了自己作为观察者的在场。面对海森堡不确定性原理与贝尔不等式的检验，两种回避都撑不住。回到那个正在测量、正在记录、正在承受推论后果的第一人称的立足点，量子的不确定就从一场危机转成认知自主的起点。
+[抉择本身并不沉重](../choice-itself-has-no-inherent-weight/)与[因果的自反性与物理的无源假定](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/)追溯了：当观察者从因果的舞台上被抹去，抹去的一步会回到抹的人身上。古典的位置要的是一个不必由自己承担观察之责的现成世界，模拟的位置用一位造物者的故事盖住了自己作为观察者的在场。不对易的可观测量与贝尔不等式的检验排除了相互作用之前局域预存的确定值；正如[算符的潜无限与记录的有限边界](../the-potential-infinity-of-operators-and-the-finite-horizon-of-records/)所追溯的，那些试图挽救旁观者的决定论补全方案——无论是假定非局域隐变量、平行分支，还是超决定论的初始关联——都只能相对于一个扩大的状态或事后拟合的初始数据来维持形式上的决定论，而任何有限的记录序列都给不出这样的数据；至于把量子概率重贴上模拟器惰性求值的标签，也只是把无根基的边界条件挪到一台想象的程序员控制台上，并未移走那个在读屏幕的观察者。回到那个正在测量、正在记录、正在承受推论后果的第一人称的立足点，量子的不确定就从一场危机转成认知自主的起点。
 
-[Choice Itself Has No Inherent Weight](../choice-itself-has-no-inherent-weight/) and [Causality is Irreducible; The Physical is a View from Nowhere](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/) have shown that when the observer is erased from the causal stage, the step of erasing returns upon the one who erases. The classical position wants a ready-made world in which the responsibility of observing need not be borne, and the simulation position covers its own presence as observer with the story of a maker. Before the Heisenberg uncertainty principle and the tests of Bell's inequality, neither evasion holds. On returning to the first-person footing, the one that is measuring, recording and bearing the consequences of inference, quantum indeterminacy turns from a crisis into the starting point of cognitive autonomy.
+[Choice Itself Has No Inherent Weight](../choice-itself-has-no-inherent-weight/) and [Causality is Irreducible; The Physical is a View from Nowhere](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/) trace how, when the observer is erased from the causal stage, the step of erasing returns upon the one who erases. The classical position wants a ready-made world in which the responsibility of observing need not be borne, and the simulation position covers its own presence as observer with the story of a maker. Non-commuting observables and the tests of Bell's inequality rule out local pre-existing values prior to interaction; as [The Potential Infinity of Operators and the Finite Horizon of Records](../the-potential-infinity-of-operators-and-the-finite-horizon-of-records/) traces, deterministic completions that try to rescue the spectator—by positing nonlocal hidden variables, parallel branches, or superdeterministic initial correlations—preserve formal determinism only relative to an enlarged state or retrospectively fitted initial data that no finite sequence of records ever delivers, while re-labeling quantum probability as a simulator's lazy evaluation merely relocates the ungrounded boundary condition to an imagined programmer's console without removing the observer who reads the screen. On returning to the first-person footing, the one that is measuring, recording, and bearing the consequences of inference, quantum indeterminacy turns from a crisis into the starting point of cognitive autonomy.
 
 ## 二、 指向这个动作 / 2. The Act of Pointing
 
-形而上学长久的诱惑，是越过认识的边界去抓住一个脱开一切知觉而独立固存的“终极本体”。机械唯物论的微粒碰撞与唯心论的先验实体都预设：可以伸出一根不受干扰的概念的手指，点中那个称为客观存在的基座。这个要求在结构上自相抵触：凡被辨识、测量、命名的对象，都已在特定的符号体系与实验约束之内。找不到一个可以被确定指到的独立本体；在经验与理性相交之处，发生着的是指向这个动作。
+形而上学长久的诱惑，是越过认识的边界去抓住一个脱开一切知觉而独立固存的“终极本体”。机械唯物论的微粒碰撞与唯心论的先验实体都预设：可以伸出一根不受干扰的概念的手指，点中那个称为客观存在的基座。这个要求在结构上自相抵触：正如[对象是被稳定化的关系](../objects-are-stabilized-relationships/)所追溯的，凡被辨识、测量或命名的对象，都不是接触之前就独立自存的实体，而是在特定的实验约束与符号坐标之内、经由反复的因果摩擦而稳定下来的不变关系。找不到一个可以单独被指到的独立本体；在经验与理性相交之处，发生着的是指向这个动作。
 
-The long temptation of metaphysics is to cross the boundary of knowing and seize an "ultimate ontology" that subsists on its own, detached from all perception. The particle collisions of mechanical materialism and the transcendental entities of idealism both presuppose that an undisturbed conceptual finger can be extended to touch the base called objective existence. The demand contradicts itself in its structure: whatever object is identified, measured or named is already within a particular system of symbols and a particular set of experimental constraints. No standalone ontology that can be definitely pointed to is found; where experience and reason meet, what is occurring is the act of pointing.
+The long temptation of metaphysics is to cross the boundary of knowing and seize an "ultimate ontology" that subsists on its own, detached from all perception. The particle collisions of mechanical materialism and the transcendental entities of idealism both presuppose that an undisturbed conceptual finger can be extended to touch the base called objective existence. The demand contradicts itself in its structure: as [Objects Are Stabilized Relationships](../objects-are-stabilized-relationships/) traces, whatever object is identified, measured, or named is not a freestanding substance prior to contact, but an invariant relationship stabilized through repeated causal friction within a particular set of experimental constraints and symbolic coordinates. No standalone ontology that can be pointed to on its own is found; where experience and reason meet, what is occurring is the act of pointing.
 
 指向是一个不可分的动作，在两个面上显出：向内体认，是第一人称的视域；向外投射，是因果。这不是两样在空间里相碰的东西，是同一个动作的内与外。第一人称的视域给出意向的焦点，给出此处与当下，没有它，前景与背景分不出来。因果是同一个指向在时间里刻下的结构：每一次动作不可逆地限定其后的可能，留下一条不对称的后果之迹。去掉第一人称，因果只剩一套没有起点的关系句法；去掉因果，第一人称成了一个碰不到阻力的唯我的影子。
 
@@ -101,7 +99,6 @@ flowchart TD
         Outward --> Coin
         Coin --> Trace
     end
-
     style S_Point fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style Point fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     style Inward fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -127,7 +124,6 @@ flowchart TD
         Outward --> Coin
         Coin --> Trace
     end
-
     style S_Point fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style Point fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     style Inward fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -136,19 +132,19 @@ flowchart TD
     style Trace fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
-指向在几何上是一次切分。指向一个目标，其余的维度就留在未被聚焦的暗处；选择测量粒子的位置，按算符的对易关系就放下了对动量的精确追踪。所谓感知的界限，因此不是某个外部实体立下的禁令，而是“发起指向”这个动作去不掉的几何副产物；界限落在哪里，是指向者的抉择，[割点可移不可除](../the-cut-moves-but-never-vanishes/)说明割点可以移动，却不会消失。[主体性不曾涌现](../agency-does-not-arise/)阐述过，没有界限的知觉等于没有知觉，一幅包含一切而无差别的平滑全景给不出任何信息。界限是指向留下的第一道刻痕，它确立了第一人称，并在刻痕的两侧分出局域的知觉经验与辽阔的未知。
+指向在几何上是一次切分。指向一个目标，其余的维度就留在未被聚焦的暗处；选择测量粒子的位置，按算符的对易关系就放下了对动量的精确追踪。所谓感知的界限，因此不是某个外部实体立下的禁令，而是“发起指向”这个动作去不掉的几何副产物；界限落在哪里，是指向者的抉择，[割点可移不可除](../the-cut-moves-but-never-vanishes/)追溯了为何割点可以移动，却不会消失。[主体性不曾涌现](../agency-does-not-arise/)追溯了为何没有界限的知觉等于没有知觉：一幅包含一切而无差别的平滑全景给不出任何信息。界限是指向留下的第一道刻痕，它确立了第一人称，并在刻痕的两侧分出局域的知觉经验与辽阔的未知。
 
-Geometrically, pointing is a division. To point at one target leaves the remaining dimensions in an unfocused dark; to choose to measure a particle's position is, by the commutation relations of the operators, to set down the exact tracking of its momentum. What is called the boundary of perception is therefore not a prohibition laid down by some outside entity but the geometric by-product that the act of "initiating a pointing" cannot shed; where the boundary falls is the choice of the one who points, and [The Cut Moves but Never Vanishes](../the-cut-moves-but-never-vanishes/) shows that the cut can be moved and does not disappear. [Agency Does Not Arise](../agency-does-not-arise/) has set out that perception without a boundary equals no perception, since a smooth panorama that contains everything without difference yields no information. The boundary is the first trace that pointing leaves; it establishes the first person, and on the two sides of the trace it parts local perceptual experience from a wide unknown.
+Geometrically, pointing is a division. To point at one target leaves the remaining dimensions in an unfocused dark; to choose to measure a particle's position is, by the commutation relations of the operators, to set down the exact tracking of its momentum. What is called the boundary of perception is therefore not a prohibition laid down by some outside entity but the geometric by-product that the act of "initiating a pointing" cannot shed; where the boundary falls is the choice of the one who points, and [The Cut Moves but Never Vanishes](../the-cut-moves-but-never-vanishes/) traces why the cut can be moved and does not disappear. [Agency Does Not Arise](../agency-does-not-arise/) traces why perception without a boundary equals no perception, since a smooth panorama that contains everything without difference yields no information. The boundary is the first trace that pointing leaves; it establishes the first person, and on the two sides of the trace it parts local perceptual experience from a wide unknown.
 
-指向还在每一个确定性的模型内部留下一个不易察觉的位置。[没有固定者的固定](../fixed-by-nothing/)展开过：任何确定性的描述都依赖一个它自己生成不了的初始条件；选这个系统、这个尺度、这组变量、这个起点，正是建模者的指向被放进模型、随后被忘掉的地方。规则可以从起点严格地推演，却推不出起点；这个不被系统内任何东西固定的给定，相对于模型是未被决定的。决定论的模型在它的范围内可靠，它是建立在这个未决的给定之上的一段借来的闭合，不是指向之外一座自足的钟表。
+指向还在每一个确定性的模型内部留下一个不易察觉的位置。[没有固定者的固定](../fixed-by-nothing/)追溯了这一点：任何确定性的描述都依赖一个它自己生成不了的初始条件；选这个系统、这个尺度、这组变量、这个起点，正是建模者的指向被放进模型、随后被忘掉的地方。规则可以从起点严格地推演，却推不出起点；这个不被系统内任何东西固定的给定，相对于模型是未被决定的。决定论的模型在它的范围内可靠，它是建立在这个未决的给定之上的一段借来的闭合，不是指向之外一座自足的钟表。
 
-Pointing also leaves, inside every deterministic model, a place that is easily overlooked. [Fixed by Nothing](../fixed-by-nothing/) has developed this: every deterministic description depends on an initial condition it cannot generate itself; choosing this system, this scale, these variables and this starting point is exactly where the modeler's pointing was put into the model and then forgotten. The rule can deduce rigorously from the starting point and cannot deduce the starting point; this given, fixed by nothing within the system, is undetermined relative to the model. A deterministic model is reliable within its range, and it is a borrowed closure resting on this undetermined given, not a self-sufficient clockwork standing outside the pointing.
+Pointing also leaves, inside every deterministic model, a place that is easily overlooked. [Fixed by Nothing](../fixed-by-nothing/) traces this: every deterministic description depends on an initial condition it cannot generate itself; choosing this system, this scale, these variables and this starting point is exactly where the modeler's pointing was put into the model and then forgotten. The rule can deduce rigorously from the starting point and cannot deduce the starting point; this given, fixed by nothing within the system, is undetermined relative to the model. A deterministic model is reliable within its range, and it is a borrowed closure resting on this undetermined given, not a self-sufficient clockwork standing outside the pointing.
 
 ## 三、 封闭的括号与热力学的表象 / 3. The Closed Bracket and the Thermodynamic Appearance
 
-为感知的界限找客观的解释时，最常被征引的是热力学：测量伴随能量的耗散与熵的增加，所以观察者的感知受热力学定律的约束。热力学在它的范围内极有用，热机、制冷与化学平衡都靠它算准。这个论证的问题在次序：它把一个导出的表象当作了起因。[时间之箭的伪悖论与对称模拟的边界](../the-mirage-of-times-arrow-and-the-boundaries-of-simulation/)拆解过，热力学从一开始就立在一个人为的假定上：所考察的场域可以划成一个边界隔绝、不与外部交换质量与能量的封闭系统；第二定律是在这个方法的预设之下导出的宏观统计表象。
+为感知的界限找客观的解释时，最常被征引的是热力学：测量伴随能量的耗散与熵的增加，所以观察者的感知受热力学定律的约束。热力学在它的范围内极有用，热机、制冷与化学平衡都靠它算准。这个论证的问题在次序：它把一个导出的表象当作了起因。[时间之箭的伪悖论与对称模拟的边界](../the-mirage-of-times-arrow-and-the-boundaries-of-simulation/)追溯了热力学如何从一开始就立在一个人为的假定上：所考察的场域可以划成一个边界隔绝、不与外部交换质量与能量的封闭系统；第二定律是在这个方法的预设之下导出的宏观统计表象。
 
-When an objective explanation is sought for the boundary of perception, thermodynamics is what is most often cited: measurement is accompanied by the dissipation of energy and the increase of entropy, and so the observer's perception is bound by thermodynamic law. Within its range thermodynamics is extremely useful; heat engines, refrigeration and chemical equilibrium are all computed by it. The trouble with the argument is its order: it takes a derived appearance for the originating cause. [The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation](../the-mirage-of-times-arrow-and-the-boundaries-of-simulation/) has taken this apart: from the beginning thermodynamics has stood on an artificial assumption, that the field under study can be marked off as a closed system with an isolating boundary that exchanges neither mass nor energy with what is outside; the second law is a macroscopic statistical appearance derived under this presupposition of method.
+When an objective explanation is sought for the boundary of perception, thermodynamics is what is most often cited: measurement is accompanied by the dissipation of energy and the increase of entropy, and so the observer's perception is bound by thermodynamic law. Within its range thermodynamics is extremely useful; heat engines, refrigeration and chemical equilibrium are all computed by it. The trouble with the argument is its order: it takes a derived appearance for the originating cause. [The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation](../the-mirage-of-times-arrow-and-the-boundaries-of-simulation/) traces how from the beginning thermodynamics has stood on an artificial assumption, that the field under study can be marked off as a closed system with an isolating boundary that exchanges neither mass nor energy with what is outside; the second law is a macroscopic statistical appearance derived under this presupposition of method.
 
 因果先于热力学。每一次宏观的观察都立在一件事上：先前的介入不可逆地限定其后的状态，痕迹的分布因此不对称。把这种不可逆的因果投到“封闭系统”这个抽象的前提上，又因为追踪不了每一个微观自由度而用统计的粗粒化来记账，构型向概率最大处的扩散就显为熵的增长。说热力学规定了感知的界限，是循环的：热力学之所以有，正因为一个分辨率有限的观察者在一个设为封闭的流形上作统计的记账。把观察者的认知界限说成热耗散的副产物，是让脚手架的影子去生出搭脚手架的心智。
 
@@ -166,7 +162,6 @@ flowchart TD
         Coarse --> Second
         Second --> Invert
     end
-
     style S_Thermo fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Prior fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Closed fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -191,7 +186,6 @@ flowchart TD
         Coarse --> Second
         Second --> Invert
     end
-
     style S_Thermo fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Prior fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Closed fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -206,11 +200,11 @@ flowchart TD
 
 ## 四、 局域的刻痕与理解的展开 / 4. The Local Trace and the Unfolding of Understanding
 
-一切论述里最不该被藏起或抽象掉的，是那个正在思考与决断的第一人称。它有时被构造成没有肉身的先验统觉，有时被缩成可替换的神经算法。在因果的世界里它有双重的同一：它是有具体的生命轨迹、在世界里承受摩擦并自负不可转让之后果的行动者，也是一切测量、推理与概念建模得以展开的视域本身。[意识的魔术戏法与推断的非对称性](../the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference/)与[抽象的苦难与真实的饥饿](../abstract-pain-and-living-hunger/)阐明过，正是这个具身的第一人称，以代谢的负担与生存的抉择，使机械决定论的自洽合不上。
+在任何论述里，一旦被藏起或抽象掉就会自断根基的，是那个正在思考与决断的第一人称。它有时被构造成没有肉身的先验统觉，有时被缩成可替换的神经算法。在因果的世界里它有双重的同一：它是有具体的生命轨迹、在世界里承受摩擦并自负不可转让之后果的行动者，也是一切测量、推理与概念建模得以展开的视域本身。正如[意识的魔术戏法与推断的非对称性](../the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference/)与[抽象的苦难与真实的饥饿](../abstract-pain-and-living-hunger/)所追溯的，正是这个具身的第一人称，以代谢的负担与生存的抉择，使机械决定论的自洽合不上。
 
-What cannot be hidden or abstracted away in any discourse without severing its own ground is the first person who is thinking and deciding. It is sometimes constructed as a transcendental apperception without a body and sometimes shrunk to a replaceable neural algorithm. In the causal world it has a double identity: it is the agent with a particular course of life, bearing friction in the world and answering for consequences that cannot be transferred, and it is the horizon itself within which all measurement, reasoning and conceptual modeling unfold. [The Sleight of Hand of Consciousness and the Asymmetry of Inference](../the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference/) and [Abstract Pain and Living Hunger](../abstract-pain-and-living-hunger/) have made clear that it is this embodied first person who, with the burden of metabolism and the choices of survival, keeps the self-consistency of mechanical determinism from closing.
+What cannot be hidden or abstracted away in any discourse without severing its own ground is the first person who is thinking and deciding. It is sometimes constructed as a transcendental apperception without a body and sometimes shrunk to a replaceable neural algorithm. In the causal world it has a double identity: it is the agent with a particular course of life, bearing friction in the world and answering for consequences that cannot be transferred, and it is the horizon itself within which all measurement, reasoning and conceptual modeling unfold. As [The Sleight of Hand of Consciousness and the Asymmetry of Inference](../the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference/) and [Abstract Pain and Living Hunger](../abstract-pain-and-living-hunger/) trace, it is this embodied first person who, with the burden of metabolism and the choices of survival, keeps the self-consistency of mechanical determinism from closing.
 
-站在这个立足点上，可以看清为何感知的界限是理解潜能的另一面。设想一张没有任何阻碍的全知的视网膜：宇宙所有的微观自由度在一瞬间以无限的精度灌入感官，“理解”这个动作就没有必要了。没有留白，就不需要概念的抽象；没有阻隔，就不需要因果的假说；没有不确定，心智退成一块感光板。全知的感官不催生智慧，它终结智慧。正因为感知止于特定的局域截面，心智才走出感官的被动接收，在未见之域里建立几何、构想定律、发射探测器、迭代认知的模型。[你的代码库即是记忆](../your-codebase-is-memory/)在外化的认知架构里追溯过同一件事：不加拣选地倾倒原始会话记录，留不下活的记忆；代码库之所以成为运转的记忆，正因为有界的心智在局域的边缘裁去噪声、提交明确的结构不变量，并在新的摩擦里持续重整整张网络。
+站在这个立足点上，可以看清为何感知的界限是理解潜能的另一面。设想一张没有任何阻碍的全知视网膜：假使宇宙一切微观自由度能作为一个已完结的总体，在一瞬间以无限的精度灌入其中，“理解”这个动作便会消失。没有留白，就不需要概念的抽象；没有阻隔，就不需要因果的假说；没有不确定，心智就退回一块感光板。全知的感官不催生智慧，它终结智慧。正如[维度即投影](../dimensions-are-projections/)所追溯的，在任何一个离散的瞬间，心智主动分辨的自由度都是有限的；未经压缩的区分既不带关系也不带次序，唯有当有界的心智将它们压缩并投影为低维的坐标模型，同时无止境地延展出新的正交区分（N → N + 1）时，关系与次序才得以成立。正因为感知止于特定的局域截面，心智才走出感官的被动接收，在尚未分辨的场域里建立几何、构想定律、发射探测器、迭代认知的模型。正如[你的代码库即是记忆](../your-codebase-is-memory/)在外化的认知架构中所追溯的，不加拣选地倾倒原始会话记录，留不下活的记忆；代码库之所以成为运转的记忆，正因为有界的心智在局域的边缘裁去噪声、提交明确的结构不变量，并在新的摩擦中反复重整整张网络。
 
 ```mermaid
 flowchart TD
@@ -228,7 +222,6 @@ flowchart TD
         Blank --> Unfold
         Unfold --> Open
     end
-
     style S_Unfold fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Agent fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Horizon fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -238,7 +231,7 @@ flowchart TD
     style Open fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-From this footing it becomes clear why the boundary of perception is the other side of the potential of understanding. Imagine an all-knowing retina with no obstruction at all: every microscopic degree of freedom in the cosmos pours into the senses in an instant with infinite precision, and the act of "understanding" is no longer needed. With nothing left blank, no conceptual abstraction is needed; with no barrier, no causal hypothesis is needed; with no indeterminacy, a Mind falls back into a photographic plate. All-knowing senses do not bring forth wisdom; they end it. Because perception stops at a particular local cross-section, a Mind steps out of the passive reception of the senses and, in the region not seen, builds geometry, conceives laws, launches probes and iterates its models of knowing. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces in the architecture of externalized cognition, an unselective dump of raw session transcripts holds no living memory; a repository becomes functional memory only because a bounded Mind cuts away noise, commits explicit structural invariants at the local edge, and iteratively reconsolidates the lattice against new friction.
+From this footing it becomes clear why the boundary of perception is the other side of the potential of understanding. Imagine an all-knowing retina with no obstruction at all, into which a completed totality of every microscopic degree of freedom in the cosmos poured in an instant with infinite precision: the act of "understanding" would vanish. With nothing left blank, no conceptual abstraction is needed; with no barrier, no causal hypothesis is needed; with no indeterminacy, a Mind falls back into a photographic plate. All-knowing senses do not bring forth wisdom; they end it. As [Dimensions Are Projections](../dimensions-are-projections/) traces, at any discrete instant the degrees of freedom a Mind actively resolves are finite, and uncompressed distinctions carry neither relation nor order until a bounded Mind compresses and projects them into low-dimensional coordinate models while extending new orthogonal distinctions (N → N + 1) without end. Because perception stops at a particular local cross-section, a Mind steps out of the passive reception of the senses and, across the region not yet resolved, builds geometry, conceives laws, launches probes, and iterates its models of knowing. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces in the architecture of externalized cognition, an unselective dump of raw session transcripts holds no living memory; a repository becomes functional memory only because a bounded Mind cuts away noise, commits explicit structural invariants at the local edge, and iteratively reconsolidates the lattice against new friction.
 
 ```mermaid
 flowchart TD
@@ -256,7 +249,6 @@ flowchart TD
         Blank --> Unfold
         Unfold --> Open
     end
-
     style S_Unfold fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Agent fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Horizon fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -266,6 +258,6 @@ flowchart TD
     style Open fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-感知的界限是第一人称在此处与当下的定锚，理解的无限是心智向彼处与未来的开辟；两者是同一个生命运动在不同维度上的显影。微观的不确定没有关上理性的路，它使“主体是一枚齿轮”的机械图景合不上，开放与创造留在每一个不可约的第一人称那里。站在感知清晰的边缘，面前是由不确定守着的辽阔的未知；心智以不断更迭的因果模型，在那里写下它对存在的体认。
+感知的界限是第一人称在此处与当下的定锚，而理解的无限——即递归区分与模型修正的开放潜无限，而非一个已完结的总体——则是心智向彼处与未来的开辟；两者是同一个生命运动在不同维度上的显影。微观的不确定没有关上理性的路，它使“主体是一枚齿轮”的机械图景合不上，开放与创造留在每一个不可约的第一人称那里。站在感知清晰的边缘，面前是由不确定守着的辽阔的未知；心智以不断更迭的因果模型，在那里写下它对存在的体认。
 
-The boundary of perception is the anchoring of the first person in the here and now, and the infinity of understanding is the opening a Mind makes toward the there and the future; the two are one movement of life showing on different dimensions. Microscopic indeterminacy has not closed the road of reason; it keeps the mechanical picture in which "the subject is a cog" from closing, and openness and creation remain with each irreducible first person. Standing at the clear edge of perception, what lies ahead is a wide unknown kept by indeterminacy; there a Mind, with causal models that keep being renewed, writes down its recognition of existence.
+The boundary of perception is the anchoring of the first person in the here and now, and the infinity of understanding—an open potential infinity of recursive distinction and model revision rather than a completed totality—is the opening a Mind makes toward the there and the future; the two are one movement of life showing on different dimensions. Microscopic indeterminacy has not closed the road of reason; it keeps the mechanical picture in which "the subject is a cog" from closing, and openness and creation remain with each irreducible first person. Standing at the clear edge of perception, what lies ahead is a wide unknown kept by indeterminacy; there a Mind, with causal models that keep being renewed, writes down its recognition of existence.
