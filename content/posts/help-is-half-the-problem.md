@@ -2,40 +2,100 @@
 
 *共依附回路由两处输入共同维持，只要有一处撤回输入，回路当即停止。 / A codependent circuit requires two inputs and stops the instant one withdraws.*
 
-画笔机械臂围绕一个始终无法触及的固定点不知疲倦地画着圆圈。这一机制之所以令人着迷，是因为同样的回路在日常生活中随处可见：无休止的帮助、修补、拯救、扶持、建议与解救，而另一个中心却始终停在原地。机械臂不停旋转，并不是因为施助者缺乏技巧、关切或毅力。只有当两名参与者中的一方撤回维持该机制运转的输入时，它才会停下。
+画笔机械臂围绕一个始终无法触及的固定点不知疲倦地画着圆圈。这一机制之所以令人着迷，是因为同样的回路在日常生活中随处可见：无休止的帮助、修补、拯救、扶持、建议与解救，而另一个人却始终停在原地。机械臂不停旋转，并不是因为施助者缺乏技巧、关切或毅力。只有当两名参与者中的一方撤回维持该机制运转的输入时，它才会停下。
 
-A marker arm spins in tireless circles around a fixed point it never reaches. The mechanism is hypnotic because the same loop appears across ordinary life: endless helping, fixing, saving, supporting, advising, and rescuing while the other center remains in the same spot. That arm does not keep spinning because the helper lacks skill, care, or persistence. It stops only when one of the two participants withdraws the input that keeps the mechanism running.
+A marker arm spins in tireless circles around a fixed point it never reaches. The mechanism is hypnotic because the same loop appears across ordinary life: endless helping, fixing, saving, supporting, advising, and rescuing while the other person remains in the same spot. That arm does not keep spinning because the helper lacks skill, care, or persistence. It stops only when one of the two participants withdraws the input that keeps the mechanism running.
 
-## 一、 几何结构 / 1. The Geometry
+## 一、 两处输入将同一回路维持在零净位移 / 1. Two Inputs Sustain One Circuit at Zero Net Displacement
 
-共依附回路是一个闭合系统：两处输入，一条回路，净位移为零。施助者提供运动，受助者提供固定点。围绕固定点的运动画出一个圆，任何一处输入都无法单独产生这一轨迹——两者缺一不可且互为充要条件，撤除任何一方都会瓦解这一几何结构。这不是一套损坏的机制，而是一个处于平衡态运转的系统。施助者从不可或缺的角色中获得身份认同、目标感或情绪调节，受助者则获得关注、认可与外化的责任。双方中心都在针对各自行动实际维系的结果进行优化，而非针对口头叙述的目标；无论任何一方声称想要什么，只要内部交换保持平衡，这一回路就会持续运转。[人口崩溃神话的拆解](../the-myth-of-population-collapse-explained/)在文明尺度上追踪了同一回路：盈余资助的转移支付替代了经由行动验证的主体性，一旦下一代不再呈现为当前边缘能够亲自谱写的工程，生育率便随之跌落。与之相对的切口是学会后退一步，即[当被需要不再是衡量](../when-need-stops-being-the-measure/)所描述的不再需要“被需要”的关切。
+共依附回路是一个闭合系统：两处输入，一条回路，净位移为零。施助者提供运动，受助者提供固定点。围绕固定点的运动画出一个圆，任何一处输入都无法单独产生这一轨迹——两者缺一不可且互为充要条件，撤除任何一方都会瓦解这一几何结构。这不是一套损坏的机制，而是一个处于平衡态运转的系统。施助者从不可或缺的角色中获得身份认同、目标感或情绪调节，受助者则获得关注、认可与外化的责任。双方心智都在针对各自行动实际维系的结果进行优化，而非针对口头叙述的目标；无论任何一方声称想要什么，只要内部交换保持平衡，这一回路就会持续运转。[人口崩溃神话的拆解](../the-myth-of-population-collapse-explained/)在文明尺度上追踪了同一回路：盈余资助的转移支付替代了经由行动验证的主体性，一旦下一代不再呈现为当前边缘能够亲自谱写的工程，生育率便随之跌落。与之相对的切口是学会后退一步，即[当被需要不再是尺度](../when-need-stops-being-the-measure/)所描述的不再需要“被需要”的关切。
 
-A codependent loop is a closed system: two inputs, one circuit, zero net displacement. The helper supplies motion; the helped supplies the fixed point. Motion around a fixed point traces a circle, and neither input alone produces it—both are necessary and sufficient, so removing either collapses the geometry. This is not a broken mechanism; it is a system operating at equilibrium. The helper receives identity, purpose, or emotional regulation from being indispensable, while the helped receives attention, validation, and externalized responsibility. Both centers optimize for what their actions actually sustain rather than what they narrate, and the loop persists because the exchange balances internally regardless of what either party claims to want. [The Myth of Population Collapse Explained](../the-myth-of-population-collapse-explained/) traces this same loop at civilizational scale, where surplus funds transfers that substitute for demonstrated agency and fertility drops once the next generation no longer registers as a project this edge can author. The opposite cut is learning to step back, which [When Need Stops Being the Measure](../when-need-stops-being-the-measure/) describes as care that no longer needs to be needed.
+```mermaid
+flowchart TD
+    subgraph S_Loop["共依附回路（两处输入，零净位移）"]
+        direction TB
+        H_In["施助方输入：提供运动并缓冲后果以保持自身不可或缺"]
+        R_In["受助方输入：提供固定点并将责任外化"]
+        Eq["平衡的内部交换：净位移为零的环形轨道"]
+        H_In --> Eq
+        R_In --> Eq
+        Eq -.->|"短期回报不断更新两处输入"| H_In
+        Eq -.->|"生成条件未被重新追踪"| R_In
+    end
+    subgraph S_Exit["单方面撤回输入（恢复第一人称轨迹）"]
+        direction TB
+        W_Cut["任一心智登记到连贯性代价 > 熟悉的回报"]
+        W_Stop["其中一半撤回输入：环形几何结构当即瓦解"]
+        W_Direct["未经缓冲的后果回传：各自心智直面自身的摩擦"]
+        W_Cut --> W_Stop --> W_Direct
+    end
+    Eq ==>|"单方面拒绝提供或索取外部运动"| W_Cut
+    style S_Loop fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Exit fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style H_In fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style R_In fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Eq fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style W_Cut fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style W_Stop fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style W_Direct fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
 
-没有任何外部力量能改写这种内部平衡。心理治疗、最后通牒、跌入谷底、外部干预、新关系乃至失去，都只是在可见的残余痕迹上操作，而未触及发起区分的源头动作。[疗愈打开反馈回路](../therapy-opens-the-feedback-loop/)审视了这一轨道的市场版本：双方中心都在弱化切身感知的登记，而非闭合后果的回传，从而在维持生成条件原封不动的同时平衡短期交换。由于实际的向量在上游那些不留外部痕迹的微观选择中不断更新，外部压力只能重新布置布景，而回路本身则会迁移、重组，或等待下一处自愿接入的输入。
+A codependent loop is a closed system: two inputs, one circuit, zero net displacement. The helper supplies motion; the helped supplies the fixed point. Motion around a fixed point traces a circle, and neither input alone produces it—both are necessary and sufficient, so removing either collapses the geometry. This is not a broken mechanism; it is a system operating at equilibrium. The helper receives identity, purpose, or emotional regulation from being indispensable, while the helped receives attention, validation, and externalized responsibility. Both minds optimize for what their actions actually sustain rather than what they narrate, and the loop persists because the exchange balances internally regardless of what either party claims to want. [The Myth of Population Collapse Explained](../the-myth-of-population-collapse-explained/) traces this same loop at civilizational scale, where surplus funds transfers that substitute for demonstrated agency and fertility drops once the next generation no longer registers as a project this edge can author. The opposite cut is learning to step back, which [When Need Stops Being the Measure](../when-need-stops-being-the-measure/) describes as care that no longer needs to be needed.
 
-No outside force rewrites that internal balance. Therapy, ultimatums, rock bottoms, interventions, new relationships, and even loss operate on the visible residue rather than the initiating act. [Therapy Opens the Feedback Loop](../therapy-opens-the-feedback-loop/) examines the market version of this orbit when both centers attenuate the felt registration instead of closing the return of consequences, balancing the short-term exchange while keeping the generating conditions intact. Because the actual vector renews upstream in micro-choices that leave no external trace, external pressure only rearranges the scenery while the loop migrates, re-forms, or waits for the next willing input.
+```mermaid
+flowchart TD
+    subgraph S_Loop["The Codependent Circuit (Two Inputs, Zero Net Displacement)"]
+        direction TB
+        H_In["Helper Input: Supplies motion & buffers consequences to stay indispensable"]
+        R_In["Helped Input: Supplies the fixed point & externalizes responsibility"]
+        Eq["Balanced Internal Exchange: Circular orbit with zero net displacement"]
+        H_In --> Eq
+        R_In --> Eq
+        Eq -.->|"Short-term payoff renews both inputs"| H_In
+        Eq -.->|"Generating conditions remain un-re-traced"| R_In
+    end
+    subgraph S_Exit["Unilateral Input Withdrawal (Restored First-Person Trajectory)"]
+        direction TB
+        W_Cut["Either mind registers coherence cost > familiar payoff"]
+        W_Stop["One Half Withdraws Input: Circular geometry collapses at once"]
+        W_Direct["Unbuffered Consequence Return: Each mind faces its own friction"]
+        W_Cut --> W_Stop --> W_Direct
+    end
+    Eq ==>|"Unilateral refusal to supply or demand external motion"| W_Cut
+    style S_Loop fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style S_Exit fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style H_In fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style R_In fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Eq fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style W_Cut fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style W_Stop fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style W_Direct fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+```
 
-## 二、 双输入契约 / 2. The Two-Input Contract
+没有任何外部力量能改写这种内部平衡。心理治疗、最后通牒、跌入谷底、外部干预、新关系乃至失去，都只是在可见的残余痕迹上操作，而未触及源头的发起动作。[疗愈打开反馈回路](../therapy-opens-the-feedback-loop/)审视了这一轨道的市场版本：双方心智都在弱化切身感知的登记，而非闭合后果的回传，从而在维持生成条件原封不动的同时平衡短期交换。由于实际的向量在上游那些不留外部痕迹的微观选择中不断更新，外部压力只能重新布置布景，而回路本身则会迁移、重组，或等待下一处自愿接入的输入。
 
-常规叙事将这一几何结构坍缩为互相干涉及冲突，从而掩盖了它的运转机制。将回路称为一场悲剧，是把道德轴投射到了机械回路之上。“他们不可理喻”、“我只是想帮忙”或“都是生活害了我”之类的声称，各自将原因归咎于单一投射，同时隐去了另一半输入。施助者的高尚牺牲叙事与受助者的无辜受害叙事并非相互竞争的真相，而是同一种压缩——强行将双输入回路压进单因轴线。一旦将两处输入同时登记为主动原因，表面上的矛盾当即消解；正如[主体性的折现](../the-discount-on-agency/)所展示的那样，将帮助包装成对孩子的投资，折现的恰恰是孩子自身的因果位点。
+No outside force rewrites that internal balance. Therapy, ultimatums, rock bottoms, interventions, new relationships, and even loss operate on the visible residue rather than the initiating act. [Therapy Opens the Feedback Loop](../therapy-opens-the-feedback-loop/) examines the market version of this orbit when both minds attenuate the felt registration instead of closing the return of consequences, balancing the short-term exchange while keeping the generating conditions intact. Because the actual vector renews upstream in micro-choices that leave no external trace, external pressure only rearranges the scenery while the loop migrates, re-forms, or waits for the next willing input.
 
-Conventional framing obscures this geometry by collapsing it into interference. Calling the loop a tragedy projects a moral axis onto a mechanical circuit. Claims like "they are impossible," "I am only trying to help," or "life did this to me" each assign cause to one projection while hiding the other. The helper's noble-sacrifice story and the helped's blameless-victim story are not competing truths; they are the same compression, forcing a two-input circuit onto a single-cause axis. The apparent contradiction dissolves the moment both inputs are registered as active causes—just as [The Discount on Agency](../the-discount-on-agency/) shows that framing help as an investment in a child discounts the child's own causal locus.
+## 二、 道德叙事将双输入契约压缩到单因轴线上 / 2. Moral Narratives Compress a Two-Input Contract onto a Single-Cause Axis
 
-剥离道德坐标后，账本清晰明了：这种停滞之所以由双方共同维持、更新并买单，是因为眼前的交换依然收支相抵。只要熟悉的回报仍在兑现，容量收窄、区分停滞与主体性让渡的代价就会一直被接受。没有任何一方是在对另一方施加这一切，而是双方在共同合谋，各自提供回路所需的输入；而剥离一切摩擦的帮助，则会制造出[未历摩擦的心智与借来的全能](../the-unfrictioned-mind-and-borrowed-omnipotence/)所追踪的那种脆弱位点。出于对多年既有付出或共同历史的执着而继续维持回路运转，重演的正是[你的代码库即是记忆](../your-codebase-is-memory/)所追踪的仓库谬误：累积的痕迹只是早期切口留下的残余形态，囤积历史会不断加厚引力井，直到下一步行动只能在陈旧残余内部自我合理化，而无法重新切开当下的配置。
+常规叙事将这一几何结构坍缩为互相干涉及冲突，从而掩盖了它的运转机制。将回路称为一场悲剧，是把道德轴投射到了机械回路之上。“他们不可理喻”、“我只是想帮忙”或“都是生活害了我”之类的声称，各自将原因归咎于单一投射，同时隐去了另一半输入。施助者的高尚牺牲叙事与受助者的无辜受害叙事并非相互竞争的真相，而是同一种压缩——强行将双输入回路压进单因轴线。一旦将两处输入同时登记为主动原因，表面上的矛盾当即消解；正如[主体性的折现](../the-discount-on-agency/)所展示的那样，将帮助包装成对孩子的投资，折现的恰恰是孩子自身的因果性。
 
-Read without moral coordinates, the ledger is straightforward: this stasis is maintained, renewed, and paid for by both participants because the immediate exchange still balances. The cost in narrowed capacity, stalled differentiation, and foregone agency is accepted for as long as the familiar payoff holds. Neither party is doing this to the other; both are doing it with each other, each supplying what the circuit requires, and help that strips away all friction produces the fragile locus traced in [The Unfrictioned Mind and Borrowed Omnipotence](../the-unfrictioned-mind-and-borrowed-omnipotence/). Keeping the circuit running out of attachment to years of prior effort or shared history repeats the warehouse error traced in [Your Codebase Is Memory](../your-codebase-is-memory/): accumulated traces are residual shape left by earlier cuts, and hoarding that history thickens the gravity well until the next step rationalizes inside stale residue instead of re-cutting the present configuration.
+Conventional framing obscures this geometry by collapsing it into interference. Calling the loop a tragedy projects a moral axis onto a mechanical circuit. Claims like "they are impossible," "I am only trying to help," or "life did this to me" each assign cause to one projection while hiding the other. The helper's noble-sacrifice story and the helped's blameless-victim story are not competing truths; they are the same compression, forcing a two-input circuit onto a single-cause axis. The apparent contradiction dissolves the moment both inputs are registered as active causes—just as [The Discount on Agency](../the-discount-on-agency/) shows that framing help as an investment in a child discounts the child's own causality.
 
-正因如此，说“帮助是问题的一半”是结构上的精确描述，而非犬儒式的嘲讽。每当在另一中心并未产生自身运动的情况下向其提供运动，供给方就在共同谱写这种停滞。[最初的区分](../the-initial-distinction/)揭示了这种供给在政策外衣下的形态：将“可避免的苦难”单列为一个范畴，把原因迁移到了登记该体验的中心之外。机械臂之所以旋转，是因为施助者不断驱动机械臂，而受助者不断锚定轴心；双方付出巨大努力以避免产生净位移，合成航向却从未改变。[解放的言辞始于定义囚禁](../liberation-rhetoric-begins-by-defining-captivity/)追踪了同一供给在解放话语外衣下的形态，建立在既有身份冻结之上的释放言辞将方向绑定在发言者的裁决上；而[卓异、感知与自我设限的问题场域](../exceptionality-perception-and-the-self-limiting-field-of-problems/)则追踪了它在诊断外衣下的形态，将日常摩擦重构为需要专门干预的客体，唯有在问题持续存在的前提下，专家的身份才保持可读。
+剥离道德坐标后，账本清晰明了：这种停滞之所以由双方共同维持、更新并买单，是因为眼前的交换依然收支相抵。只要熟悉的回报仍在兑现，容量收窄、区分停滞与主体性让渡的代价就会一直被接受。没有任何一方是在对另一方单向施加这一切，而是双方在携手维持这一切，各自提供回路所需的输入；而剥离一切摩擦的帮助，则会制造出[未历摩擦的心智与借来的全能](../the-unfrictioned-mind-and-borrowed-omnipotence/)所追踪的那种脆弱心智。出于对多年既有付出或共同历史的执着而继续维持回路运转，重演的正是[你的代码库即是记忆](../your-codebase-is-memory/)所追踪的仓库谬误：累积的痕迹只是早期切口留下的残余形态，囤积历史会不断加厚引力井，直到下一步行动只能在陈旧残余内部自我合理化，而无法重新切开当下的配置。
 
-That is why saying "help is half the problem" is structural precision rather than cynicism. Every time motion is supplied in the absence of the other center's own motion, the supplier co-authors the stasis. [The Initial Distinction](../the-initial-distinction/) exposes this supply in policy dress, where the category of "avoidable suffering" relocates cause outside the center that registers the experience. The arm spins because the helper keeps driving the arm and the helped keeps anchoring the axis; both expend immense effort to avoid net displacement while the compound heading never changes. [Liberation Rhetoric Begins by Defining Captivity](../liberation-rhetoric-begins-by-defining-captivity/) traces the same supply in emancipatory dress, where release speech built on a prior identity freeze binds orientation to the speaker's verdict, while [Exceptionality, Perception, and the Self-Limiting Field of Problems](../exceptionality-perception-and-the-self-limiting-field-of-problems/) traces it in diagnostic dress, where reframing ordinary friction as an object requiring specialized intervention keeps the specialist legible only so long as the problem remains.
+Read without moral coordinates, the ledger is straightforward: this stasis is maintained, renewed, and paid for by both participants because the immediate exchange still balances. The cost in narrowed capacity, stalled differentiation, and foregone agency is accepted for as long as the familiar payoff holds. Neither party is doing this to the other; both are doing it with each other, each supplying what the circuit requires, and help that strips away all friction produces the fragile mind traced in [The Unfrictioned Mind and Borrowed Omnipotence](../the-unfrictioned-mind-and-borrowed-omnipotence/). Keeping the circuit running out of attachment to years of prior effort or shared history repeats the warehouse error traced in [Your Codebase Is Memory](../your-codebase-is-memory/): accumulated traces are residual shape left by earlier cuts, and hoarding that history thickens the gravity well until the next step rationalizes inside stale residue instead of re-cutting the present configuration.
 
-## 三、 撤回输入 / 3. Withdrawing the Input
+正因如此，说“帮助是问题的一半”是结构上的精确描述，而非犬儒式的嘲讽。每当在另一心智并未产生自身运动的情况下向其提供运动，供给方就在共同谱写这种停滞。[最初的区分](../the-initial-distinction/)揭示了这种供给在政策外衣下的形态：将“可避免的苦难”单列为一个范畴，把原因迁移到了登记该体验的心智之外。机械臂之所以旋转，是因为施助者不断驱动机械臂，而受助者不断锚定轴心；双方付出巨大努力以避免产生净位移，合成航向却从未改变。[解放的言辞始于定义囚禁](../liberation-rhetoric-begins-by-defining-captivity/)追踪了同一供给在解放话语外衣下的形态，建立在既有身份冻结之上的释放言辞将方向绑定在发言者的裁决上；而[卓异、感知与自我设限的问题场域](../exceptionality-perception-and-the-self-limiting-field-of-problems/)则追踪了它在诊断外衣下的形态，将日常摩擦重构为需要专门干预的客体，唯有在问题持续存在的前提下，专家的身份才保持可读。
 
-圆心的固定点甚至不必是一个具体的人。一项共同持有的先验前提同样可以占据轴心——例如，双方将管理彼此切身或投射的感受奉为必须共同围绕其运转的义务，使得其中一个中心的运动表现为要求另一方做出情绪调节。[当效果主宰了框架的叙事](../when-the-effect-authors-the-frame/)追踪了这种配置，在那样的回路中，旋转围绕的是被保留的先验前提而非受助的躯体；而[协调者的范畴错误](../the-coordinators-category-error/)则指出了与之平行的谬误，即协调者试图从外部向另一个中心强行植入主体性。
+That is why saying "help is half the problem" is structural precision rather than cynicism. Every time motion is supplied in the absence of the other mind's own motion, the supplier co-authors the stasis. [The Initial Distinction](../the-initial-distinction/) exposes this supply in policy dress, where the category of "avoidable suffering" relocates cause outside the mind that registers the experience. The arm spins because the helper keeps driving the arm and the helped keeps anchoring the axis; both expend immense effort to avoid net displacement while the compound heading never changes. [Liberation Rhetoric Begins by Defining Captivity](../liberation-rhetoric-begins-by-defining-captivity/) traces the same supply in emancipatory dress, where release speech built on a prior identity freeze binds orientation to the speaker's verdict, while [Exceptionality, Perception, and the Self-Limiting Field of Problems](../exceptionality-perception-and-the-self-limiting-field-of-problems/) traces it in diagnostic dress, where reframing ordinary friction as an object requiring specialized intervention keeps the specialist legible only so long as the problem remains.
 
-The fixed point at the center of the circle does not even need to be a person. A shared prior can occupy the axis—for instance, a rule that elevates managing the felt or projected register into a duty both adults must orbit, so that one center's motion takes the form of demanding modulation from the other. [When the Effect Authors the Frame](../when-the-effect-authors-the-frame/) traces that configuration, where the loop revolves around a preserved prior rather than a helped body, while [The Coordinator’s Category Error](../the-coordinators-category-error/) names the parallel mistake of a coordinator attempting to install agency in another center from outside.
+## 三、 撤回任一输入当即停止回路 / 3. Withdrawing Either Input Stops the Circuit at Once
 
-正因为旋转的机械臂是一台按设计运转的双输入机器，出口在每一步都向任意一方敞开。施助者可以停止提供另一中心并未自行产生的运动；受助者可以停止索取自己不愿亲自产生的运动。除此之外的一切都是剧场表演。一旦任一中心登记到自身连贯性所承受的代价已超过熟悉的回报，并撤回自己的输入，契约当即终结，机械臂随之停转——不是因为系统从外部得到了解决，而是因为回路的一半停止了提供属于它的那一半。
+圆心的固定点甚至不必是一个具体的人。一项共同持有的先验前提同样可以占据轴心——例如，双方将管理彼此切身或投射的感受奉为必须共同围绕其运转的义务，使得其中一方心智的运动表现为要求另一方做出情绪调节。[当效果主宰了框架的叙事](../when-the-effect-authors-the-frame/)追踪了这种配置，在那样的回路中，旋转围绕的是被保留的先验前提而非受助的躯体；而[协调者的范畴错误](../the-coordinators-category-error/)则指出了与之平行的谬误，即协调者试图从外部向另一心智强行植入主体性。
 
-Because the spinning arm is a two-input machine running as designed, the exit remains open at every step to either participant. The helper can stop supplying motion the other center has not generated; the helped can stop requiring motion they will not generate themselves. Everything else is theater. The instant one center registers that the cost to its own coherence exceeds the familiar payoff and withdraws its input, the contract ends and the arm winds down—not because the system was solved from outside, but because one half of the circuit stopped supplying its half.
+The fixed point at the center of the circle does not even need to be a person. A shared prior can occupy the axis—for instance, a rule that elevates managing the felt or projected register into a duty both adults must orbit, so that one mind's motion takes the form of demanding modulation from the other. [When the Effect Authors the Frame](../when-the-effect-authors-the-frame/) traces that configuration, where the loop revolves around a preserved prior rather than a helped body, while [The Coordinator's Category Error](../the-coordinators-category-error/) names the parallel mistake of a coordinator attempting to install agency in another mind from outside.
+
+正因为旋转的机械臂是一台按设计运转的双输入机器，出口在每一步都向任意一方敞开。施助者可以停止提供另一心智并未自行产生的运动；受助者可以停止索取自己不愿亲自产生的运动。除此之外的一切都是剧场表演。一旦任一心智登记到自身连贯性所承受的代价已超过熟悉的回报，并撤回自己的输入，契约当即终结，机械臂随之停转——不是因为系统从外部得到了解决，而是因为回路的一半停止了提供属于它的那一半。
+
+Because the spinning arm is a two-input machine running as designed, the exit remains open at every step to either participant. The helper can stop supplying motion the other mind has not generated; the helped can stop requiring motion they will not generate themselves. Everything else is theater. The instant one mind registers that the cost to its own coherence exceeds the familiar payoff and withdraws its input, the contract ends and the arm winds down—not because the system was solved from outside, but because one half of the circuit stopped supplying its half.

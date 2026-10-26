@@ -26,7 +26,6 @@ flowchart TD
         Claim --> Fit
         Fit --> Power
     end
-
     style S_Handshake fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Yield fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Claim fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -48,7 +47,6 @@ flowchart TD
         Claim --> Fit
         Fit --> Power
     end
-
     style S_Handshake fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Yield fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Claim fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -84,7 +82,6 @@ flowchart TD
         Mind --> Org
         Mind --> Idea
     end
-
     style S_Axes fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Mind fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Tech fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -106,7 +103,6 @@ flowchart TD
         Mind --> Org
         Mind --> Idea
     end
-
     style S_Axes fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Mind fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Tech fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -114,9 +110,9 @@ flowchart TD
     style Idea fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-设想一位创业者。在技术研发与商业决策上，这个人不找借口，直面市场的摩擦与代码的报错，学得很快。在组织管理中，同一个人出于保护或控制的愿望，揽下团队成员的决策后果，成为这条轴上的小中枢。在政治信念上，同一个人又可能把判断交给某个党派的标语。三种姿态并存于一身，向自身看去，也是同样的不一致。
+设想一位创业者。在技术研发与商业决策上，这个人不找借口，直面市场的摩擦与代码的报错，学得很快。在组织管理中，同一个人出于保护或控制的愿望，揽下团队成员的决策后果，成为这条轴上的小中枢。在政治信念上，同一个人又可能把判断交给某个党派的标语。三种姿态并存于一身，向自身看去，也是同样的不一致。如[能动性、复利与 AI 封建之争](../agency-compounding-and-the-argument-over-ai-feudalism/)所追溯的，人工智能之类的高带宽工具继而会把人在特定轴上所持的姿态成倍放大——在自己承受后果之处（c = 0）加速复利，在交出判断之处（c < 0）加深依附。
 
-Picture a founder. In engineering and business decisions this person makes no excuses, meets the friction of the market and the errors in the code head-on, and learns fast. In managing the organization, the same person, out of a wish to protect or to control, takes on the consequences of the team's decisions and becomes a small center on that axis. In political belief, the same person may hand judgment to a party slogan. Three stances live in one person, and a look at oneself turns up the same inconsistency.
+Picture a founder. In engineering and business decisions this person makes no excuses, meets the friction of the market and the errors in the code head-on, and learns fast. In managing the organization, the same person, out of a wish to protect or to control, takes on the consequences of the team's decisions and becomes a small center on that axis. In political belief, the same person may hand judgment to a party slogan. Three stances live in one person, and a look at oneself turns up the same inconsistency. High-bandwidth tools such as artificial intelligence then multiply whichever stance is held on a given axis—accelerating compounding where consequences are borne directly (c = 0) and deepening dependence where judgment is handed over (c < 0), as [Agency, Compounding, and the Argument Over AI Feudalism](../agency-compounding-and-the-argument-over-ai-feudalism/) traces.
 
 这也说明了为什么社会读起来不像一座单一的金字塔。它更像许多层叠在一起的网络：在生产这一层，甲吸收乙与丙的决定；在文化叙事这一层，甲反过来依附于乙；在宏观治理这一层，三人又一同把向量交给更远的中枢。同一个心智在某一处是引力的中心，在另一处是依附的一环，在第三处独自探索。
 
@@ -128,7 +124,7 @@ This also shows why society does not read as a single pyramid. It is closer to m
 
 Where do handing over and taking on begin? They begin when a mind leaves its own first-person origin and stands in the third-person position of a bystander. The bystander's view has its uses; planning, coordination and the recognition of patterns all depend on it. Its boundary appears when that position is taken for the place where one is: action and consequence meet directly only at the origin, and once a mind regards itself as an outsider surveying the whole, its sense of causality divides into two configurations.
 
-第一种是向下看时出现的揽取。从高处望去，别人的试错与迟缓一览无余，于是以为自己有责任介入，替对方修正轨迹。这样做时忘了，对方也处在一个无人可以替代的原点上，被拿走的试错机会正是对方建立自己误差信号的途径。第二种是从外部看自己时出现的推出。把自己看成沙盘上被推动的一枚棋子，把当下的痛苦与停滞归于历史、阶层、家庭或对手，却忘了冲击再剧烈，如何解读它、下一步怎么走，仍是在自己的原点上作出的。
+第一种是向下看时出现的揽取。从高处望去，别人的试错与迟缓一览无余，于是以为自己有责任介入，替对方修正轨迹——这正是[良知、委托与管辖权错位](../conscience-power-delegation/)所追溯的越界：把局部的确信或发起权当成了对另一中心的常设管辖权。这样做时忘了，对方也处在一个无人可以替代的原点上，被拿走的试错机会正是对方建立自己误差信号的途径。第二种是从外部看自己时出现的推出。把自己看成沙盘上被推动的一枚棋子，把当下的痛苦与停滞归于历史、阶层、家庭或对手，如[涌现的伪因果](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/)所剖析的那样把宏观统计残余误作驱动的原因，却忘了冲击再剧烈，如何解读它、下一步怎么走，仍是在自己的原点上作出的。
 
 ```mermaid
 flowchart TD
@@ -143,7 +139,6 @@ flowchart TD
         Take --> Lock
         Push --> Lock
     end
-
     style S_Bystander fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style Leave fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Take fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -151,7 +146,7 @@ flowchart TD
     style Lock fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-The first is the taking on that appears when looking down. From a height, other people's trial and error and their slowness are in plain view, and it comes to seem a duty to step in and correct their course. What is forgotten is that the other also stands at an origin no one can occupy for them, and that the chance to err which is taken away is the very means by which they build their own error signal. The second is the pushing away that appears when looking at oneself from outside. One sees oneself as a piece being moved on a board and assigns present pain and stagnation to history, class, family or an opponent, forgetting that however violent the impact, how to read it and what step to take next are still decided at one's own origin.
+The first is the taking on that appears when looking down. From a height, other people's trial and error and their slowness are in plain view, and it comes to seem a duty to step in and correct their course—the same escalation [Conscience, Delegation, and the Jurisdiction Error](../conscience-power-delegation/) traces when local conviction or origination is mistaken for standing jurisdiction over another center. What is forgotten is that the other also stands at an origin no one can occupy for them, and that the chance to err which is taken away is the very means by which they build their own error signal. The second is the pushing away that appears when looking at oneself from outside. One sees oneself as a piece being moved on a board and assigns present pain and stagnation to history, class, family or an opponent, mistaking macroscopic statistical residue for a driving cause in the way [The Pseudo-Causality of Emergence](../yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/) dissects, while forgetting that however violent the impact, how to read it and what step to take next are still decided at one's own origin.
 
 ```mermaid
 flowchart TD
@@ -166,7 +161,6 @@ flowchart TD
         Take --> Lock
         Push --> Lock
     end
-
     style S_Bystander fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style Leave fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Take fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -184,7 +178,7 @@ Both configurations come from one place: the line of sight has not been brought 
 
 The bystander's position has a third form: withdrawing to the stand and only commenting. When a mind neither goes down to do the work nor bears the consequences of decisions, and only weaves concepts, classifications and verdicts, it carries none of the risk of trial and receives none of the recoil from the surroundings. A theory is in itself a useful map, and each one helps people see a stretch of terrain within its range. The boundary appears when the map is put to other uses.
 
-人们因为回避不确定而采纳一套抽象体系时，它便为前面两种构型各提供了一套说辞。对揽取的一方，它是介入的执照，“规律表明集中调配优于自发演进”“模型要求规范大众的行为”。对推出的一方，它是卸责的托词，“你的焦虑由社会结构所生”“你是话语的受害者”。当事情在实处落败，看台上的位置毫发无损，还可以宣布问题在于执行未能领会理论。此时众人让渡出的回音被当成了自己的因果力量，而手里摆弄的是没有摩擦的文字。
+人们因为回避不确定而采纳一套抽象体系时，它便为前面两种构型各提供了一套说辞。对揽取的一方，它是介入的执照，“规律表明集中调配优于自发演进”“模型要求规范大众的行为”。对推出的一方，它是卸责的托词，“你的焦虑由社会结构所生”“你是话语的受害者”。当事情在实处落败，看台上的位置毫发无损，还可以宣布问题在于执行未能领会理论。此时众人让渡出的回音被当成了自己的因果力量，而手里摆弄的是没有摩擦的文字——这与[政客是责任扩散的显性症状](../politicians-appear-as-visible-symptoms-of-responsibility-diffusion/)所追溯的机制同出一辙：扩散的控制权与共担的推诿，最终凝结成一个显眼的认领者。
 
 ```mermaid
 flowchart TD
@@ -201,7 +195,6 @@ flowchart TD
         License --> Exempt
         Alibi --> Exempt
     end
-
     style S_Stand fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Comment fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Adopt fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -210,7 +203,7 @@ flowchart TD
     style Exempt fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-When people adopt an abstract system in order to avoid uncertainty, it supplies each of the two earlier configurations with its wording. To the side that takes on, it is a license to intervene: "the laws show that central allocation beats spontaneous development," "the model requires that public behavior be regulated." To the side that pushes away, it is an alibi: "your anxiety is produced by the social structure," "you are a victim of discourse." When things fail on the ground, the seat in the stand is untouched, and it can still be announced that the execution failed to grasp the theory. At that point the echo of what many people handed over is being taken for one's own causal force, while what is being handled is words that meet no friction.
+When people adopt an abstract system in order to avoid uncertainty, it supplies each of the two earlier configurations with its wording. To the side that takes on, it is a license to intervene: "the laws show that central allocation beats spontaneous development," "the model requires that public behavior be regulated." To the side that pushes away, it is an alibi: "your anxiety is produced by the social structure," "you are a victim of discourse." When things fail on the ground, the seat in the stand is untouched, and it can still be announced that the execution failed to grasp the theory. At that point the echo of what many people handed over is being taken for one's own causal force, while what is being handled is words that meet no friction—the same mechanism [Politicians Are Visible Symptoms of Responsibility Diffusion](../politicians-appear-as-visible-symptoms-of-responsibility-diffusion/) traces when diffused control and shared blame materialize into a conspicuous claimant.
 
 ```mermaid
 flowchart TD
@@ -227,7 +220,6 @@ flowchart TD
         License --> Exempt
         Alibi --> Exempt
     end
-
     style S_Stand fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Comment fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Adopt fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -246,9 +238,9 @@ What separates commentary from doing is not which is the wiser, but whether the 
 
 Pointing out these mechanisms is not for judging altruism, centralization or markets as good or bad. Judging would carry the analysis back onto the very line it is taking apart. Looking only at the direction of causality, sacrificial altruism, political centralization, market lock-in and interpersonal deadlock show one and the same coupling dynamics.
 
-牺牲式的利他单向吸收对方的误差信号，被帮助的一方因此停止调整。政治上的集权经由偏好依附汇聚让渡的向量，连接数的分布呈幂律 P(k) ~ k⁻ᵞ。市场的锁定由网络效应抬高转移的成本，周边的路径随之收窄。人际的僵持是两个强耦合的振子，各自把状态的变化系在对方身上。四者的共同之处，是行动与反馈之间插进了一段外部的路由。
+牺牲式的利他单向吸收对方的误差信号，被帮助的一方因此停止调整。政治上的集权经由偏好依附汇聚让渡的向量，如[让渡主权的幂律法则](../the-power-law-of-surrendered-agency/)在各个尺度上所推导的，连接数的分布呈幂律 P(k) ~ k⁻ᵞ。市场的锁定由网络效应抬高转移的成本，周边的路径随之收窄。人际的僵持是两个强耦合的振子，各自把状态的变化系在对方身上。四者的共同之处，是行动与反馈之间插进了一段外部的路由。
 
-Sacrificial altruism absorbs the other's error signal in one direction, and the one being helped stops adjusting. Political centralization gathers handed-over vectors through preferential attachment, and the distribution of connections follows a power law, P(k) ~ k⁻ᵞ. Market lock-in raises the cost of switching through network effects, and the surrounding paths narrow. Interpersonal deadlock is two strongly coupled oscillators, each tying the change of its state to the other. What the four share is an external routing inserted between action and feedback.
+Sacrificial altruism absorbs the other's error signal in one direction, and the one being helped stops adjusting. Political centralization gathers handed-over vectors through preferential attachment, and the distribution of connections follows a power law, P(k) ~ k⁻ᵞ, as [The Power-Law of Surrendered Agency](../the-power-law-of-surrendered-agency/) derives across scales. Market lock-in raises the cost of switching through network effects, and the surrounding paths narrow. Interpersonal deadlock is two strongly coupled oscillators, each tying the change of its state to the other. What the four share is an external routing inserted between action and feedback.
 
 于是这些结构的差别归结为反馈回路的形状。在直接闭合的回路里，行动撞上摩擦，后果不经中介衰减地回到原点，判断得以校准，学习保持陡峭。在经由代理的回路里，行动的后果被国家、施救者、党派或平台过滤、吸收或转移。代理让一个人做到独自做不到的事，分工与委托都靠它；它的边界在于误差信号不再回到作出抉择的地方，调整停下，整个系统的拖累增加。如[共情的能力倒错与边界的排序之争](../the-capability-reversal-of-empathy-and-the-contest-of-boundaries/)所揭示的，放弃自卫的共情正是把这记握手一路延续了下去。
 
@@ -266,7 +258,6 @@ flowchart TD
         Act --> Proxy
         Proxy --> Frozen
     end
-
     style S_Loops fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Friction fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -291,7 +282,6 @@ flowchart TD
         Act --> Proxy
         Proxy --> Frozen
     end
-
     style S_Loops fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Friction fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -320,7 +310,6 @@ flowchart TD
         Zero --> Empty
         Empty --> Direct
     end
-
     style S_Withdraw fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Stand fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Zero fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -342,7 +331,6 @@ flowchart TD
         Zero --> Empty
         Empty --> Direct
     end
-
     style S_Withdraw fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Stand fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Zero fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -356,4 +344,4 @@ On the technical dimension this means facing the errors and the regularities dir
 
 当耦合系数回到零，不再向外投出期待，也不认领外来的绑定，伸来的那只手便握不到东西。代价并不因此消失，摩擦仍在，而它此刻直接回到原点，成为校准的来源。行动者由此重新作为一个自由变量出手，以摩擦为师，走出自己的轨迹（+1）。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，期待与绑定的旧脚本只是存留的记忆痕迹；一旦第一人称的活态前沿停止重新执行它们，它们对下一步便再无抓手。
 
-When the coupling coefficient is back at zero, with no expectations cast outward and no bindings accepted from outside, the reaching hand finds nothing to hold. The costs do not vanish for that; the friction remains, and it now returns directly to the origin and becomes the source of calibration. Because entrenched scripts of expectation and obligation are only externalized traces of prior handshakes rather than a living force—just as [Your Codebase Is Memory](../your-codebase-is-memory/) separates stored memory traces from the steering mind—the moment the first-person edge stops re-executing them, what acts is again a free variable, with friction as the teacher, on a trajectory of its own (+1).
+When the coupling coefficient is back at zero, with no expectations cast outward and no bindings accepted from outside, the reaching hand finds nothing to hold. The costs do not vanish for that; the friction remains, and it now returns directly to the origin and becomes the source of calibration. The actor thereby steps forth again as a free variable, with friction as teacher, on a trajectory of its own (+1). As [Your Codebase Is Memory](../your-codebase-is-memory/) traces, entrenched scripts of expectation and obligation are only retained memory traces; once the living first-person edge stops re-executing them, they lose all purchase on the next step.
