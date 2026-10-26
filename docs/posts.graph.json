@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-25T20:17:37.757Z",
+    "generated_at": "2026-10-26T03:54:20.621Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -199,7 +199,7 @@
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "463e396e6297",
       "content/posts/technology-is-residual-of-human-compounding.md": "1576031b77f7",
       "content/posts/the-aesthetic-escalator-and-the-melancholy-of-the-balcony.md": "a0e3de4f4ec8",
-      "content/posts/the-allocation-of-causal-power-in-validation.md": "2687009fcfeb",
+      "content/posts/the-allocation-of-causal-power-in-validation.md": "0c38e61f52ed",
       "content/posts/the-arithmetic-of-the-register.md": "0de5c138f03b",
       "content/posts/the-artifacts-of-self-amplification.md": "6008cccb3b80",
       "content/posts/the-asymmetry-of-understanding.md": "62d1edf084fd",
@@ -223,7 +223,7 @@
       "content/posts/the-causal-overstep-of-observation-and-the-first-person-surplus.md": "ca8601ddb654",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "0d5b45a35c75",
       "content/posts/the-closed-loop-of-representation.md": "659ee6fdc53f",
-      "content/posts/the-closed-n-and-the-open-reality.md": "69b0afc8a6d7",
+      "content/posts/the-closed-n-and-the-open-reality.md": "72efa522ac7b",
       "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "f1a9b1e12ab7",
       "content/posts/the-collapsed-debate.md": "0c94fa396c05",
       "content/posts/the-comment-is-not-the-code.md": "2f3188bc6738",
@@ -293,7 +293,7 @@
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "ff064e746f65",
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "e2c53537d905",
       "content/posts/the-ledger-of-the-unencountered.md": "ffcdbfc26a69",
-      "content/posts/the-limitation-is-doing-work.md": "0775ab533348",
+      "content/posts/the-limitation-is-doing-work.md": "30854398325d",
       "content/posts/the-living-context.md": "147beb0934fd",
       "content/posts/the-local-trap-of-technological-change.md": "90573245bd77",
       "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "5dfdcb05cf02",
@@ -351,7 +351,7 @@
       "content/posts/the-scaffolding-we-forget.md": "50e59db6f5fb",
       "content/posts/the-scaling-loop.md": "01f561084635",
       "content/posts/the-self-portrait-in-the-projection.md": "2b51ab9fe625",
-      "content/posts/the-shadow-and-the-infinite.md": "c39730290699",
+      "content/posts/the-shadow-and-the-infinite.md": "ff9474bbdd81",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "87a9e69d47f1",
       "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "5d21768fd3b6",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "c2d1d681f444",
@@ -394,7 +394,7 @@
       "content/posts/what-cannot-be-kept.md": "230c81faa1f9",
       "content/posts/what-hinton-failed-to-understand.md": "4d44fae914c7",
       "content/posts/what-information-is.md": "db25cf6703e1",
-      "content/posts/what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination.md": "7142c74e361a",
+      "content/posts/what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination.md": "d06b858632cf",
       "content/posts/what-works-is-the-belief.md": "56ae7c7c4c69",
       "content/posts/whatever-is-one-prompt-away.md": "2a70052b8308",
       "content/posts/when-abundance-looks-like-scarcity.md": "8ffe214e39a4",
@@ -437,10 +437,10 @@
     },
     "stats": {
       "posts": 410,
-      "edges": 11382,
-      "unique_directed": 5587,
+      "edges": 11406,
+      "unique_directed": 5599,
       "missing_targets": 0,
-      "one_way": 917,
+      "one_way": 925,
       "isolated": 0,
       "posts_with_outbound": 410,
       "book_pages": 16,
@@ -451,11 +451,11 @@
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 402
+      "in_degree": 403
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 201
+      "in_degree": 202
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -475,7 +475,7 @@
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "in_degree": 65
+      "in_degree": 66
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -491,7 +491,7 @@
     },
     {
       "slug": "causality-stays-at-the-edge-that-steers",
-      "in_degree": 41
+      "in_degree": 42
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
@@ -510,16 +510,16 @@
       "in_degree": 36
     },
     {
+      "slug": "clarity-isnt-a-state-you-arrive-at",
+      "in_degree": 35
+    },
+    {
       "slug": "production-consumption-and-the-minds-distinction",
       "in_degree": 35
     },
     {
       "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "in_degree": 35
-    },
-    {
-      "slug": "clarity-isnt-a-state-you-arrive-at",
-      "in_degree": 34
     },
     {
       "slug": "a-creation-cannot-replace-its-source",
@@ -1088,7 +1088,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "ed96da63a1af",
-      "in_degree": 201,
+      "in_degree": 202,
       "out_degree": 18,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1270,7 +1270,7 @@
       "path": "content/posts/causality-stays-at-the-edge-that-steers.md",
       "title": "因果停留在掌舵的边缘 / Causality Stays at the Edge That Steers",
       "hash": "6705615f135b",
-      "in_degree": 41,
+      "in_degree": 42,
       "out_degree": 40,
       "links_out": [
         "what-always-listens-cannot-originate",
@@ -1396,7 +1396,7 @@
       "path": "content/posts/clarity-isnt-a-state-you-arrive-at.md",
       "title": "清晰不是抵达的终点，而是运动本身 / Clarity Isn't a State You Arrive At. It's the Movement Itself.",
       "hash": "55c81f8ed4d4",
-      "in_degree": 34,
+      "in_degree": 35,
       "out_degree": 32,
       "links_out": [
         "why-mathematics-can-never-be-solved",
@@ -1852,7 +1852,7 @@
       "path": "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md",
       "title": "坐标系、心智与自由度 / Coordinate Systems, the Mind, and Degrees of Freedom",
       "hash": "a358b53b91b0",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 5,
       "links_out": [
         "the-mind-as-vector-and-coordinate-system",
@@ -4189,7 +4189,7 @@
       "path": "content/posts/on-demand-contexts-keep-coherence-at-one-step.md",
       "title": "按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step",
       "hash": "7271624addc2",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 7,
       "links_out": [
         "your-codebase-is-memory",
@@ -5784,7 +5784,7 @@
       "slug": "the-allocation-of-causal-power-in-validation",
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "验证中因果权能的分配 / The Allocation of Causal Power in Validation",
-      "hash": "2687009fcfeb",
+      "hash": "0c38e61f52ed",
       "in_degree": 40,
       "out_degree": 42,
       "links_out": [
@@ -6400,9 +6400,9 @@
       "slug": "the-closed-n-and-the-open-reality",
       "path": "content/posts/the-closed-n-and-the-open-reality.md",
       "title": "闭合的N与开放的现实 / The Closed N and the Open Reality",
-      "hash": "69b0afc8a6d7",
+      "hash": "72efa522ac7b",
       "in_degree": 10,
-      "out_degree": 9,
+      "out_degree": 11,
       "links_out": [
         "the-category-error-of-better",
         "demanding-a-toe-freezes-time-into-a-catalog",
@@ -6410,7 +6410,9 @@
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "the-boundary-of-the-frame",
         "the-extendable-horizon",
+        "the-walking-tangent-and-the-stumbling-sphere",
         "no-outside-scorekeeper",
+        "the-unexamined-critic",
         "felt-resistance-and-the-speed-differential",
         "the-causal-overstep-of-observation-and-the-first-person-surplus"
       ]
@@ -8034,12 +8036,16 @@
       "slug": "the-limitation-is-doing-work",
       "path": "content/posts/the-limitation-is-doing-work.md",
       "title": "限制正在做功 / The Limitation Is Doing Work",
-      "hash": "0775ab533348",
+      "hash": "30854398325d",
       "in_degree": 3,
-      "out_degree": 4,
+      "out_degree": 8,
       "links_out": [
         "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+        "the-model-never-becomes-a-second-edge",
+        "causality-stays-at-the-edge-that-steers",
         "your-codebase-is-memory",
+        "beyond-the-projection",
+        "on-demand-contexts-keep-coherence-at-one-step",
         "silicon-oracles-and-the-asymmetry-of-consequence",
         "not-a-theory-of-everything"
       ]
@@ -8233,7 +8239,7 @@
       "path": "content/posts/the-mind-as-vector-and-coordinate-system.md",
       "title": "向量、坐标系与自指心智 / The Mind as Vector and Coordinate System",
       "hash": "92606376f487",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 14,
       "links_out": [
         "coordinates-in-flux-negation-and-self-anchoring",
@@ -8367,7 +8373,7 @@
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge",
       "hash": "f2c984cf98ec",
-      "in_degree": 65,
+      "in_degree": 66,
       "out_degree": 48,
       "links_out": [
         "your-codebase-is-memory",
@@ -9518,16 +9524,18 @@
       "slug": "the-shadow-and-the-infinite",
       "path": "content/posts/the-shadow-and-the-infinite.md",
       "title": "阴影与无限 / The Shadow and the Infinite",
-      "hash": "c39730290699",
+      "hash": "ff9474bbdd81",
       "in_degree": 6,
-      "out_degree": 7,
+      "out_degree": 9,
       "links_out": [
-        "the-asymmetry-of-understanding",
         "your-codebase-is-memory",
+        "the-asymmetry-of-understanding",
         "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
         "the-invisible-gods-eye",
         "the-reversal-of-education-and-science",
+        "coordinate-systems-mind-and-degrees-of-freedom",
         "the-myth-of-the-four-dimensional-deer-and-the-present-model",
+        "the-mind-as-vector-and-coordinate-system",
         "one-cannot-escape-ones-own-mind"
       ]
     },
@@ -9928,7 +9936,7 @@
       "path": "content/posts/the-unclosable-trace.md",
       "title": "无法闭合的痕迹 / The Unclosable Trace",
       "hash": "f4ad7fa5724b",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 17,
       "links_out": [
         "the-geometry-of-mind",
@@ -9957,7 +9965,7 @@
       "path": "content/posts/the-unexamined-critic.md",
       "title": "未经自我审视的批判者 / The Unexamined Critic",
       "hash": "a1e150cb8eae",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 11,
       "links_out": [
         "po-chu-gai-nian-de-jian-yue",
@@ -10108,7 +10116,7 @@
       "path": "content/posts/the-walking-tangent-and-the-stumbling-sphere.md",
       "title": "切平面的行者与完美球面的踩空者 / The Walking Tangent and the Stumbling Sphere",
       "hash": "6dd94a8b5246",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 10,
       "links_out": [
         "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
@@ -10535,17 +10543,21 @@
       "slug": "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
       "path": "content/posts/what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination.md",
       "title": "何谓形而上学？作为将追寻命名为目的的一刀 / What Is Metaphysics? As the Cut That Names the Seeking as Destination",
-      "hash": "7142c74e361a",
+      "hash": "d06b858632cf",
       "in_degree": 2,
-      "out_degree": 7,
+      "out_degree": 11,
       "links_out": [
+        "you-wu-zhi-bian",
         "present-contact-and-the-obscuration-of-desired-feeling",
+        "the-unclosable-trace",
         "the-scaffolding-we-forget",
         "mistaking-the-expression-for-the-intelligence",
         "not-a-theory-of-everything",
         "manifesto-of-not-a-theory-of-everything",
         "causality-stays-at-the-edge-that-steers",
-        "writing-without-the-image"
+        "clarity-isnt-a-state-you-arrive-at",
+        "writing-without-the-image",
+        "your-codebase-is-memory"
       ]
     },
     {
@@ -10936,7 +10948,7 @@
       "path": "content/posts/you-wu-zhi-bian.md",
       "title": "有无之边 / The Edge of Being and Non-Being",
       "hash": "de3cca5f81ee",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 5,
       "links_out": [
         "zuo-jian-bu-shi-zi-fu",
@@ -10953,7 +10965,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "bfafaf10983f",
-      "in_degree": 402,
+      "in_degree": 403,
       "out_degree": 11,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -45502,13 +45514,13 @@
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "order-surplus-and-the-moral-intercept",
       "rel": "points_to",
-      "label": "Order, surplus, and the moral intercept"
+      "label": "Order, Surplus, and the Moral Intercept"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "pessimism-is-the-shadow-of-optimism",
       "rel": "points_to",
-      "label": "Pessimism is the shadow of optimism"
+      "label": "Pessimism Is the Shadow of Optimism"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
@@ -45526,7 +45538,7 @@
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, Consumption, and the Mind’s Distinction"
+      "label": "Production, Consumption, and the Mind's Distinction"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
@@ -45562,7 +45574,7 @@
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
-      "label": "The Coordinator’s Category Error"
+      "label": "The Coordinator's Category Error"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
@@ -45634,13 +45646,13 @@
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "the-homework-exam-inversion-registers-substitution",
       "rel": "points_to",
-      "label": "The homework–exam inversion registers substitution"
+      "label": "The Homework–Exam Inversion Registers Substitution"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "studying-the-effect-of-ai-relocates-causality",
       "rel": "points_to",
-      "label": "Studying the effect of AI relocates causality"
+      "label": "Studying the Effect of AI Relocates Causality"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
@@ -45658,7 +45670,7 @@
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "the-generative-contradiction",
       "rel": "points_to",
-      "label": "The generative contradiction"
+      "label": "The Generative Contradiction"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
@@ -45688,7 +45700,7 @@
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
-      "label": "Hierarchy from individual difference"
+      "label": "Hierarchy from Individual Difference"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
@@ -45742,19 +45754,19 @@
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "empowerment-establishes-the-centralization-of-power",
       "rel": "points_to",
-      "label": "Empowerment establishes the centralization of power"
+      "label": "Empowerment Establishes the Centralization of Power"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "expertise-as-reference-not-replacement",
       "rel": "points_to",
-      "label": "Expertise as reference, not replacement"
+      "label": "Expertise as Reference, Not Replacement"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "the-ramble-within-the-ramble",
       "rel": "points_to",
-      "label": "The ramble within the ramble"
+      "label": "The Ramble Within the Ramble"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
@@ -45790,31 +45802,31 @@
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "having-more-is-never-the-cause",
       "rel": "points_to",
-      "label": "Having more is never the cause"
+      "label": "Having More Is Never the Cause"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "public-spending-does-not-create-capital",
       "rel": "points_to",
-      "label": "Public spending does not create capital"
+      "label": "Public Spending Does Not Create Capital"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
       "rel": "points_to",
-      "label": "Ownership cost freezes lagged averages as vehicle property"
+      "label": "Ownership Cost Freezes Lagged Averages as Vehicle Property"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "restriction-is-a-selective-tax",
       "rel": "points_to",
-      "label": "Restriction is a selective tax"
+      "label": "Restriction Is a Selective Tax"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "preference-clusters-and-the-language-of-judgment",
       "rel": "points_to",
-      "label": "Preference clusters and the language of judgment"
+      "label": "Preference Clusters and the Language of Judgment"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
@@ -45850,31 +45862,31 @@
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "the-strongest-belief-of-the-mind",
       "rel": "points_to",
-      "label": "The strongest belief of the Mind"
+      "label": "The Strongest Belief of the Mind"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "how-belief-actually-changes",
       "rel": "points_to",
-      "label": "How belief actually changes"
+      "label": "How Belief Actually Changes"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "climbing-does-not-leave-the-ground",
       "rel": "points_to",
-      "label": "Climbing does not leave the ground"
+      "label": "Climbing Does Not Leave the Ground"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "the-rational-choice-postulate-is-the-original-sin",
       "rel": "points_to",
-      "label": "The rational choice postulate is the original sin"
+      "label": "The Rational Choice Postulate Is the Original Sin"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
       "to": "agency-relocated-into-the-formal-model",
       "rel": "points_to",
-      "label": "Agency relocated into the formal model"
+      "label": "Agency Relocated into the Formal Model"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
@@ -49510,7 +49522,13 @@
       "from": "the-closed-n-and-the-open-reality",
       "to": "the-extendable-horizon",
       "rel": "points_to",
-      "label": "可延展的视界：心智模式、无限博弈与自由变量的复利"
+      "label": "可延展的地平线"
+    },
+    {
+      "from": "the-closed-n-and-the-open-reality",
+      "to": "the-walking-tangent-and-the-stumbling-sphere",
+      "rel": "points_to",
+      "label": "切平面的行者与完美球面的踩空者"
     },
     {
       "from": "the-closed-n-and-the-open-reality",
@@ -49522,13 +49540,25 @@
       "from": "the-closed-n-and-the-open-reality",
       "to": "the-extendable-horizon",
       "rel": "points_to",
-      "label": "The Extendable Horizon: Mindset, the Infinite Game, and the Compounding of Free Variables"
+      "label": "The Extendable Horizon"
+    },
+    {
+      "from": "the-closed-n-and-the-open-reality",
+      "to": "the-walking-tangent-and-the-stumbling-sphere",
+      "rel": "points_to",
+      "label": "The Walking Tangent and the Stumbling Sphere"
     },
     {
       "from": "the-closed-n-and-the-open-reality",
       "to": "no-outside-scorekeeper",
       "rel": "points_to",
-      "label": "无外部记分员与选择的微观临界"
+      "label": "没有外部记账员"
+    },
+    {
+      "from": "the-closed-n-and-the-open-reality",
+      "to": "the-unexamined-critic",
+      "rel": "points_to",
+      "label": "未经自我审视的批判者"
     },
     {
       "from": "the-closed-n-and-the-open-reality",
@@ -49547,6 +49577,12 @@
       "to": "no-outside-scorekeeper",
       "rel": "points_to",
       "label": "No Outside Scorekeeper"
+    },
+    {
+      "from": "the-closed-n-and-the-open-reality",
+      "to": "the-unexamined-critic",
+      "rel": "points_to",
+      "label": "The Unexamined Critic"
     },
     {
       "from": "the-closed-n-and-the-open-reality",
@@ -59290,7 +59326,31 @@
       "from": "the-limitation-is-doing-work",
       "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "rel": "points_to",
-      "label": "The Distaste for \"AI Slop\" Is No Different from the Recurring Historical Pattern"
+      "label": "The Distaste for “AI Slop” Is a Recurring Pattern"
+    },
+    {
+      "from": "the-limitation-is-doing-work",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "the-limitation-is-doing-work",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "因果停留在掌舵的边缘"
+    },
+    {
+      "from": "the-limitation-is-doing-work",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "the-limitation-is-doing-work",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality Stays at the Edge That Steers"
     },
     {
       "from": "the-limitation-is-doing-work",
@@ -59300,9 +59360,33 @@
     },
     {
       "from": "the-limitation-is-doing-work",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "the-limitation-is-doing-work",
+      "to": "on-demand-contexts-keep-coherence-at-one-step",
+      "rel": "points_to",
+      "label": "按需语境将融贯保持在一步"
+    },
+    {
+      "from": "the-limitation-is-doing-work",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-limitation-is-doing-work",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-limitation-is-doing-work",
+      "to": "on-demand-contexts-keep-coherence-at-one-step",
+      "rel": "points_to",
+      "label": "On-Demand Contexts Keep Coherence at One Step"
     },
     {
       "from": "the-limitation-is-doing-work",
@@ -68954,15 +69038,15 @@
     },
     {
       "from": "the-shadow-and-the-infinite",
-      "to": "the-asymmetry-of-understanding",
-      "rel": "points_to",
-      "label": "理解的非对称性"
-    },
-    {
-      "from": "the-shadow-and-the-infinite",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-shadow-and-the-infinite",
+      "to": "the-asymmetry-of-understanding",
+      "rel": "points_to",
+      "label": "理解的非对称性"
     },
     {
       "from": "the-shadow-and-the-infinite",
@@ -68980,7 +69064,7 @@
       "from": "the-shadow-and-the-infinite",
       "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "rel": "points_to",
-      "label": "潜在无限与数学思维的暂态闭合"
+      "label": "潜无限与数学思维的暂时闭合"
     },
     {
       "from": "the-shadow-and-the-infinite",
@@ -69014,9 +69098,21 @@
     },
     {
       "from": "the-shadow-and-the-infinite",
+      "to": "coordinate-systems-mind-and-degrees-of-freedom",
+      "rel": "points_to",
+      "label": "坐标系、心智与自由度"
+    },
+    {
+      "from": "the-shadow-and-the-infinite",
       "to": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
       "rel": "points_to",
       "label": "四维长鹿的幻象与当下的模型"
+    },
+    {
+      "from": "the-shadow-and-the-infinite",
+      "to": "coordinate-systems-mind-and-degrees-of-freedom",
+      "rel": "points_to",
+      "label": "Coordinate Systems, the Mind, and Degrees of Freedom"
     },
     {
       "from": "the-shadow-and-the-infinite",
@@ -69026,9 +69122,21 @@
     },
     {
       "from": "the-shadow-and-the-infinite",
+      "to": "the-mind-as-vector-and-coordinate-system",
+      "rel": "points_to",
+      "label": "向量、坐标系与自指心智"
+    },
+    {
+      "from": "the-shadow-and-the-infinite",
       "to": "one-cannot-escape-ones-own-mind",
       "rel": "points_to",
       "label": "无法逃逸的心智视界"
+    },
+    {
+      "from": "the-shadow-and-the-infinite",
+      "to": "the-mind-as-vector-and-coordinate-system",
+      "rel": "points_to",
+      "label": "The Mind as Vector and Coordinate System"
     },
     {
       "from": "the-shadow-and-the-infinite",
@@ -75722,15 +75830,39 @@
     },
     {
       "from": "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
+      "to": "you-wu-zhi-bian",
+      "rel": "points_to",
+      "label": "有无之边"
+    },
+    {
+      "from": "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
+      "to": "you-wu-zhi-bian",
+      "rel": "points_to",
+      "label": "The Edge of Being and Non-Being"
+    },
+    {
+      "from": "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
       "to": "present-contact-and-the-obscuration-of-desired-feeling",
       "rel": "points_to",
       "label": "现成接触的因果先验与期望感受的倒置遮蔽"
     },
     {
       "from": "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
+      "to": "the-unclosable-trace",
+      "rel": "points_to",
+      "label": "无法闭合的痕迹"
+    },
+    {
+      "from": "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
       "to": "present-contact-and-the-obscuration-of-desired-feeling",
       "rel": "points_to",
       "label": "Present Contact as Causal Prior and the Obscuration of Desired Feeling"
+    },
+    {
+      "from": "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
+      "to": "the-unclosable-trace",
+      "rel": "points_to",
+      "label": "The Unclosable Trace"
     },
     {
       "from": "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
@@ -75794,6 +75926,18 @@
     },
     {
       "from": "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "清晰不是抵达的终点，而是运动本身"
+    },
+    {
+      "from": "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
+    },
+    {
+      "from": "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
       "to": "writing-without-the-image",
       "rel": "points_to",
       "label": "无形象的写作"
@@ -75803,6 +75947,18 @@
       "to": "writing-without-the-image",
       "rel": "points_to",
       "label": "Writing Without the Image"
+    },
+    {
+      "from": "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
     },
     {
       "from": "what-works-is-the-belief",

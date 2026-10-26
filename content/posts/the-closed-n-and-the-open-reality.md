@@ -2,9 +2,9 @@
 
 *最优之选与极劣之防皆困于已知样本，唯有不可预设的本体论余量方为生生之源 / Best-of-N and Worst-of-N remain trapped in closed sets; only the unconditioned remainder breathes living reality.*
 
-当数学家与系统工程师以简洁的修辞宣称“科学是选优，工程是防劣”时，一种极具诱惑力的形式对称性便在理性的透镜中成形。科学被描摹为在有限假说库中寻觅最高尖峰的漫游者，工程则被定义为在既定工况中严防最深深渊的守门人。这种工整的极值对仗看似穷尽了认知的两翼，实则悄然植入了一个致命的认知盲区：它假定一切可能遭遇的变异与挑战，早已整齐划一地封装在已知样本集合之中。然而真实世界并非由预先编号的元素排演而成的封闭舞台，现实以其永不枯竭的生成性，持续向一切既定认知回敬着未被命名的碰撞。
+当数学家与系统工程师以简洁的修辞宣称“科学是选优，工程是防劣”时，一种极具诱惑力的形式对称性便在理性的透镜中成形。科学被描摹为在有限假说库中寻觅最高尖峰的漫游者，工程则被定义为在既定工况中严防最深深渊的守门人。这种工整的极值对仗看似穷尽了认知的两翼，实则悄然植入了一个致命的认知盲区：它假定一切可能遭遇的变异与挑战，早已整齐划一地封装在已知样本集合之中。自我区分的活动发生着——无因，不息。现实并非由预先编号的元素排演而成的封闭舞台；每一道形式化边界都在活态边缘遭遇未建模的摩擦。
 
-When mathematicians and systems engineers declare with crisp rhetoric that science operates as Best-of-N while engineering functions as Worst-of-N, a seductive formal symmetry takes shape in the rational lens. Science is depicted as a voyager seeking the highest peak across a library of hypotheses, while engineering is cast as a sentinel guarding against the deepest abyss within anticipated conditions. This neat polarity of extrema seems to span both wings of human inquiry, yet it subtly smuggles a fatal blind spot: it assumes that all encounters, variations, and hazards are already neatly packaged within a known sample set. Living reality, however, is no closed stage rehearsing pre-numbered elements; with inexhaustible generative vitality, it answers every formalized boundary with unmodeled friction.
+When mathematicians and systems engineers declare with crisp rhetoric that science operates as Best-of-N while engineering functions as Worst-of-N, a seductive formal symmetry takes shape in the rational lens. Science is depicted as a voyager seeking the highest peak across a library of hypotheses, while engineering is cast as a sentinel guarding against the deepest abyss within anticipated conditions. This neat polarity of extrema seems to span both wings of human inquiry, yet it subtly smuggles a fatal blind spot: it assumes that all encounters, variations, and hazards are already neatly packaged within a known sample set. Self-distinguishing activity occurs — uncaused, unceasing. Reality is no closed stage rehearsing pre-numbered elements; every formalized boundary meets unmodeled friction at the living edge.
 
 ## 一、 形式封闭的诱惑：最优之选与极劣之防 / 1. The Lure of Formal Closure: Best-of-N and Worst-of-N
 
@@ -22,21 +22,18 @@ flowchart TD
         ENG["工程防劣<br/>极劣点兜底"]
         ASSUMP["闭合世界假定<br/>样本空间先验封箱"]
     end
-    
     subgraph S_REALITY[" 现实本体论开放 "]
         direction TB
         FRICTION["未建模的活态摩擦<br/>环境不可预设的扰动"]
         RUPTURE["坐标系破壁<br/>相空间维度的动态裂变"]
-        INFINITY["生生不息的加一<br/>不可闭合的真实余量"]
+        INFINITY["生生不息的加一<br/>不可闭合的生成余量"]
     end
-
     ASSUMP --> SCI
     ASSUMP --> ENG
     SCI -.->|遭遇未建模冲击| FRICTION
     ENG -.->|诱发涌现新失效| FRICTION
     FRICTION --> RUPTURE
     RUPTURE --> INFINITY
-
     style S_CLOSED fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_REALITY fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style SCI fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -47,7 +44,7 @@ flowchart TD
     style INFINITY fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-This symmetry appears seamless within the ivory tower of instrumental reason, yet it lures the mind into mistaking its working models for ground truth. Both optimization and defense can only be formalized by leaning upon an unspoken cornerstone: the presumption that the universe of inquiry and protection can be abstracted into a bounded set of size N. Within this closed horizon, the observer postures as an omniscient bookkeeper, assuming all possible variance merely reflects outcomes rolled from predefined dice. This reduction of living exploration to finite sampling parallels [The Category Error of Better](../the-category-error-of-better/), swapping dynamic friction for static metrics on a frozen scoreboard.
+This symmetry appears seamless within the ivory tower of instrumental reason, yet it lures the mind into mistaking its working models for reality itself. Both optimization and defense can only be formalized by leaning upon an unspoken cornerstone: the presumption that the universe of inquiry and protection can be abstracted into a bounded set of size N. Within this closed horizon, the observer postures as an omniscient bookkeeper, assuming all possible variance merely reflects outcomes rolled from predefined dice. This reduction of living exploration to finite sampling parallels [The Category Error of Better](../the-category-error-of-better/), swapping dynamic friction for static metrics on a frozen scoreboard.
 
 ```mermaid
 flowchart TD
@@ -57,21 +54,18 @@ flowchart TD
         ENG["Engineering as Worst-of-N<br/>Floor Defense"]
         ASSUMP["Closed-World Assumption<br/>Pre-Packaged Possibility Space"]
     end
-    
     subgraph S_REALITY[" Ontological Openness "]
         direction TB
         FRICTION["Unmodeled Living Friction<br/>Unprestatable Reality Perturbations"]
         RUPTURE["Coordinate Rupture<br/>Dynamic Expansion of Phase Space"]
         INFINITY["Inexhaustible Plus-One<br/>Unclosable Generative Remainder"]
     end
-
     ASSUMP --> SCI
     ASSUMP --> ENG
     SCI -.->|Encounters Unmodeled Impact| FRICTION
     ENG -.->|Triggers Emergent Failures| FRICTION
     FRICTION --> RUPTURE
     RUPTURE --> INFINITY
-
     style S_CLOSED fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_REALITY fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style SCI fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -84,7 +78,7 @@ flowchart TD
 
 ## 二、 本体论的范畴僭越：将脚手架误认为宇宙 / 2. The Ontological Category Error: Mistaking Scaffolding for the Universe
 
-当心智指认“现实永远是加一”时，所意指的绝非统计学意义上从既有箱子里摸出的第一零一个球。若将这个加一降格为单纯的增量样本，思考者依然被囚禁在旧有的代数牢笼中，误以为只要将参数面板扩大一格，便能重新将世界锁入闭环。加一所标示的不是数量上的延展，而是现实内在的本体论开放性。正如[索求万物理论是在将当下冻结为清单](../demanding-a-toe-freezes-time-into-a-catalog/)与[你的代码库即是记忆](../your-codebase-is-memory/)所揭示的那样，任何企图用有限公理与封闭清单封装存在的努力都在开端处抹杀了时间的流淌，而活态的记忆晶格之所以保持开放，正是因为清醒的边缘持续铭刻新的 `N+1` 切分，并在既有痕迹间传播其自洽波。
+当心智指认“现实永远是加一”时，所意指的绝非统计学意义上从既有箱子里摸出的第一零一个球。若将这个加一降格为单纯的增量样本，思考者依然被囚禁在旧有的代数牢笼中，误以为只要将参数面板扩大一格，便能重新将世界锁入闭环。加一所标示的不是数量上的延展，而是现实内在的本体论开放性。正如[索求万物理论是在将当下冻结为清单](../demanding-a-toe-freezes-time-into-a-catalog/)与[你的代码库即是记忆](../your-codebase-is-memory/)所揭示的那样，任何企图用有限公理与封闭清单封装存在的努力都在开端处抹杀了时间的流淌，而活态的记忆晶格之所以保持开放，正是因为清醒的边缘持续铭刻新的 N+1 切分，并在外化痕迹间传播其自洽波。
 
 When the mind recognizes that reality is always plus-one, it refers to nothing like an incremental marble drawn from a familiar urn. Lowering this plus-one to a mere statistical nuisance leaves thought trapped in the same algebraic cage, pretending that incrementing an index by one restores total closure. The plus-one marks not a quantitative appendage, but the inherent ontological openness of the cosmos. As shown in [Demanding a Theory of Everything Freezes Time into a Catalog](../demanding-a-toe-freezes-time-into-a-catalog/) and [Your Codebase Is Memory](../your-codebase-is-memory/), every attempt to package existence into finite axioms or closed catalogues snuffs out the passage of time at the outset, whereas a living memory lattice remains open because the waking edge continually inscribes a fresh N+1 cut and propagates its coherence wave across externalized traces.
 
@@ -105,16 +99,14 @@ flowchart TD
     subgraph S_FEEDBACK[" 生成性反馈循环 "]
         direction TB
         NODE_ACT["有限介入行动<br/>科学断言或工程构筑"]
-        NODE_WORLD["真实宇宙网络<br/>未被形式化的宏观联结"]
+        NODE_WORLD["活态宇宙网络<br/>未被形式化的宏观联结"]
         NODE_NEW["涌现出的未建模变数<br/>破壁而出的生动加一"]
         NODE_NEXT["拓展后的新视界<br/>下一轮更大尺度的认知脚手架"]
     end
-
     NODE_ACT -->|物理实体介入| NODE_WORLD
     NODE_WORLD -->|非线性因果回响| NODE_NEW
     NODE_NEW -->|重构问题与约束| NODE_NEXT
     NODE_NEXT -.->|再度有限抽象| NODE_ACT
-
     style S_FEEDBACK fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style NODE_ACT fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style NODE_WORLD fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -133,12 +125,10 @@ flowchart TD
         NODE_NEW["Emergent Unmodeled Friction<br/>The Dynamic Plus-One"]
         NODE_NEXT["Expanded Generative Horizon<br/>Subsequent Large-Scale Scaffolding"]
     end
-
     NODE_ACT -->|Physical Coupling| NODE_WORLD
     NODE_WORLD -->|Nonlinear Resonance| NODE_NEW
     NODE_NEW -->|Reconfigures Question & Constraint| NODE_NEXT
     NODE_NEXT -.->|Finite Re-Abstraction| NODE_ACT
-
     style S_FEEDBACK fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style NODE_ACT fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style NODE_WORLD fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -148,10 +138,10 @@ flowchart TD
 
 ## 四、 活态心智的原点：立足于加一的未完探索 / 4. The First-Person Origin: Operating from the Unfinished Plus-One
 
-这一对加一的体认，为活态心智指明了行动的原点坐标。在日常决策与重大决断中，心智必须借助有限的模型框架以凝聚注意力，否则意识将被浩瀚的感官噪声所淹没。将假说视作待检验的候选池并择优而从，将脆弱性视作系统的致命伤并加固防范，都是心智介入世界必不可少的行路脚手架。真正的清醒在于，使用者始终心知肚明这套代数是供自己落脚的临时木筏，而非河流两岸的永恒疆界。正如[框架的边界](../the-boundary-of-the-frame/)与[可延展的视界：心智模式、无限博弈与自由变量的复利](../the-extendable-horizon/)所指出的，智慧不在于宣布全知，而在于时刻准备好在模型破裂之处迎接真实。
+这一对加一的体认，为活态心智指明了行动的原点坐标。在日常决策与重大决断中，心智必须借助有限的模型框架以凝聚注意力，否则意识将被浩瀚的感官噪声所淹没。将假说视作待检验的候选池并择优而从，将脆弱性视作系统的致命伤并加固防范，都是心智介入世界必不可少的行路脚手架。清醒在于认识到这套代数是供自己落脚的临时木筏，而非河流两岸的永恒疆界。正如[框架的边界](../the-boundary-of-the-frame/)、[可延展的地平线](../the-extendable-horizon/)与[切平面的行者与完美球面的踩空者](../the-walking-tangent-and-the-stumbling-sphere/)所指出的，精熟不在于自称全知或跨尺度冻结一张全局蓝图，而在于模型失效的每一处接触点上重设坐标。
 
-This recognition of the unconditioned plus-one returns the living mind to its authentic coordinates of action. In mundane choices as well as momentous commitments, the mind must deploy finite models to focus attention, lest consciousness drown in unstructured sensory noise. Sifting through candidate hypotheses to embrace the strongest, or mapping structural vulnerabilities to fortify defenses, remains indispensable scaffolding for navigating the world. Genuine clarity lies in recognizing that this algebra is a disposable raft rather than the river's eternal banks. As emphasized in [The Boundary of the Frame](../the-boundary-of-the-frame/) and [The Extendable Horizon: Mindset, the Infinite Game, and the Compounding of Free Variables](../the-extendable-horizon/), mastery consists not in professing omniscience, but in remaining primed to greet reality where the model gives way.
+This recognition of the unconditioned plus-one returns the living mind to its coordinates of action. In mundane choices as well as momentous commitments, the mind must deploy finite models to focus attention, lest consciousness drown in unstructured sensory noise. Sifting through candidate hypotheses to embrace the strongest, or mapping structural vulnerabilities to fortify defenses, remains indispensable scaffolding for navigating the world. Clarity lies in recognizing that this algebra is a disposable raft rather than the river's eternal banks. As emphasized in [The Boundary of the Frame](../the-boundary-of-the-frame/), [The Extendable Horizon](../the-extendable-horizon/), and [The Walking Tangent and the Stumbling Sphere](../the-walking-tangent-and-the-stumbling-sphere/), mastery consists not in professing omniscience or freezing a global blueprint across every scale, but in resetting coordinates at each point of contact where the model gives way.
 
-放弃将世界闭合于既有样本集合的妄念，心智才能走出因追求无懈可击而陷入的防御性自闭。正如在[无外部记分员与选择的微观临界](../no-outside-scorekeeper/)、[阻力体感与速率差](../felt-resistance-and-the-speed-differential/)与[观察的因果僭越与第一人称的收益差](../the-causal-overstep-of-observation-and-the-first-person-surplus/)中所揭示的那样，在破壁而出的探索中遭遇的尖锐阻力，仅是能力跃迁速率差在迟缓旧框架上激荡出的体感投影，而统计观察对放弃者人群的事后记录，更不能篡改为微观行动的因果铁律；没有任何超越性的裁决者在宇宙尽头为我们的筹划核验比对，唯有活态心智在具体的行动中直面自造后果的重量。科学之所以能不断推陈出新，正因大自然并不甘当实验记录簿上的死物；工程之所以充满坚韧的诗意，正因每一个实体构件都在狂暴的风雨中学习与世界共振。保持对未竟余量的敬畏，心智便能卸下全知全能的重负，在每一次决断中敏锐地捕捉那缕破晓而出的加一之光，步入生生不息的活态创造。
+放弃将世界闭合于既有样本集合的妄念，心智才能走出因追求无懈可击而陷入的防御性自闭。正如在[没有外部记账员](../no-outside-scorekeeper/)、[未经自我审视的批判者](../the-unexamined-critic/)、[阻力体感与速率差](../felt-resistance-and-the-speed-differential/)与[观察的因果僭越与第一人称的收益差](../the-causal-overstep-of-observation-and-the-first-person-surplus/)中所揭示的那样，在破壁而出的探索中遭遇的尖锐阻力，仅是能力跃迁速率差在迟缓旧基线上激荡出的体感投影，无论是事后的统计账本，还是未经自我审视的旁观看台，都无法僭取单一抉择的因果主权。没有任何超越性的记账员在远处核验投射出的模型；唯有具身心智在具体行动中承担已践行抉择的复利重量。科学得以自我更新，是因为遭遇的场域超出了被动的账本记录；工程得以保有韧性，是因为每一座实体结构都直面狂暴风雨中未建模的载荷。正视不可预设的余量，能使心智卸下闭合的狂妄，在每一次决断中记录那个加一，步入未完的活态创造之流。
 
-Relinquishing the delusion that existence can be sealed within a closed catalog liberates the mind from the defensive paralysis of simulated invulnerability. As observed in [No Outside Scorekeeper](../no-outside-scorekeeper/), [Felt Resistance and the Speed Differential](../felt-resistance-and-the-speed-differential/), and [The Causal Overstep of Observation and the First-Person Surplus](../the-causal-overstep-of-observation-and-the-first-person-surplus/), the sharp friction encountered when breaking beyond closed sets is simply the projected sensation of a speed differential shearing against lagging baselines, and retrospective statistical ledgers recording dropouts cannot usurp causal authority over singular choices. No transcendent scorekeeper validates projected models from afar; only the embodied mind bears the compounding gravity of its enacted choices. Science continually renews itself because nature refuses to behave as passive ledger entries; engineering achieves poetic resilience because every concrete beam learns to resonate with turbulent winds. Reverencing the unconditioned remainder frees the mind from the hubris of closure, allowing it to discern the quickening spark of the plus-one within every choice, stepping boldly into the unfinished flow of living creation.
+Relinquishing the delusion that existence can be sealed within a closed catalog liberates the mind from the defensive paralysis of simulated invulnerability. As observed in [No Outside Scorekeeper](../no-outside-scorekeeper/), [The Unexamined Critic](../the-unexamined-critic/), [Felt Resistance and the Speed Differential](../felt-resistance-and-the-speed-differential/), and [The Causal Overstep of Observation and the First-Person Surplus](../the-causal-overstep-of-observation-and-the-first-person-surplus/), the sharp friction encountered when breaking beyond closed sets is simply the projected sensation of a speed differential shearing against lagging baselines, and neither retrospective statistical ledgers nor an unexamined bystander balcony can usurp causal authority over singular choices. No transcendent scorekeeper validates projected models from afar; only the embodied mind bears the compounding gravity of its enacted choices. Science renews itself because the field of encounter exceeds passive ledger entries; engineering achieves resilience because every concrete structure meets the unmodeled load of turbulent winds. Respecting the unconditioned remainder frees the mind from the hubris of closure, allowing it to register the plus-one within every choice and step into the unfinished flow of living creation.

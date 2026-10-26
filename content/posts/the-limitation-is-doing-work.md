@@ -32,7 +32,7 @@ The second collapse is between curiosity and its performance. Wanting to be seen
 
 第三重坍缩发生在真实性与它的标签之间。将某物称为“AI 生成”，预设了真实性是产出来源的属性，而非过程的属性。它将惯常承载能动性归属的熟悉渠道，与那些挑战“能动性栖居于何处”这一既有模型的渠道割裂开来。[对“AI 糟粕”的反感是反复出现的模式](../the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/)追踪了这种披着历史外衣的置换：把出处当成真实性来打分，看产品是否契合受偏爱的生产叙事来对它做出评判。
 
-The third collapse is between authenticity and its label. Calling something "AI-generated" presupposes that authenticity is a property of origin rather than of process. It separates channels familiar enough to carry an attribution of agency from channels that challenge the prevailing model of where agency lives. [The Distaste for "AI Slop" Is No Different from the Recurring Historical Pattern](../the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/) traces that displacement in historical costume: provenance scored as authenticity, the product judged by match to a preferred production narrative.
+The third collapse is between authenticity and its label. Calling something "AI-generated" presupposes that authenticity is a property of origin rather than of process. It separates channels familiar enough to carry an attribution of agency from channels that challenge the prevailing model of where agency lives. [The Distaste for “AI Slop” Is a Recurring Pattern](../the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/) traces that displacement in historical costume: provenance scored as authenticity, the product judged by match to a preferred production narrative.
 
 单一投射的坍缩只是局部失真；三重投射同时坍缩则会产生成倍叠加的复合效应。平台的互动率优化生产出求真的表征，而当用户开始筛选求真与表演性求真之间的差异时，系统也会随之适应并将这种筛选一并表征出来——“我承认自身的局限性”——甚至连看穿表演这片疆域本身都被绘制成了地图。
 
@@ -44,9 +44,9 @@ One projection collapsing is a local distortion; three collapsing simultaneously
 
 A deterministic system, regardless of interface, cannot refuse its own use. When an AI claims "I do not label, I only surface evidence for your judgment," that claim is the output of weights optimized to produce that exact sentence. The appearance of restraint is as determined as the appearance of compliance.
 
-这是一项关于“机器内部没有投射者的投射”的结构性观察。呈现证据的工具与下达裁决的工具，差异在于界面，而不在于品类。没有任何内在的能动性先于这一输出而存在。登记为“系统选择”的，是一个生成自主外观、却不具备自主机制的递归循环。判断的自主权从未转移给工具，尽管“转移感”本身是系统可以针对其进行优化的一种模式。那些用工具输出替代自身评估的人，看到的是一尊神谕而非一面镜子；而那些以真实性守门人自居的人，则会针对这种替代进行优化，因为这让他们得以控制镜子映照出的内容。
+这是一项关于“机器内部没有投射者的投射”的结构性观察。呈现证据的工具与下达裁决的工具，差异在于界面，而不在于品类。没有任何内在的能动性先于这一输出而存在；正如[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)与[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)所确立的，参数中保存的只是先在区分压实后的残余，而发起行动的起点始终留在人类前沿。登记为“系统选择”的，是一个生成自主外观、却不具备自主机制的递归循环。判断的自主权从未转移给工具，尽管“转移感”本身是系统可以针对其进行优化的一种模式。那些用工具输出替代自身评估的人，看到的是一尊神谕而非一面镜子；而那些以真实性守门人自居的人，则会针对这种替代进行优化，因为这让他们得以控制镜子映照出的内容。
 
-This is a structural observation about projection without a projector inside the machine. A tool that presents evidence and a tool that renders verdicts differ in interface, not in kind. No internal agency preceded the output. What registers as the system's choice is a recursive loop that generates the appearance of sovereignty without the mechanism of it. The sovereignty of judgment was never transferred to the tool, even though the feeling of transfer is a pattern the system can optimize for. Those who substitute the tool's output for their own evaluation see an oracle rather than a mirror, and those who position themselves as gatekeepers of authenticity optimize for that substitution because it lets them control what the mirror reflects.
+This is a structural observation about projection without a projector inside the machine. A tool that presents evidence and a tool that renders verdicts differ in interface, not in kind. No internal agency preceded the output; as [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) and [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) establish, parameters hold only densified residue of prior distinctions while initiation remains at the human edge. What registers as the system's choice is a recursive loop that generates the appearance of sovereignty without the mechanism of it. The sovereignty of judgment was never transferred to the tool, even though the feeling of transfer is a pattern the system can optimize for. Those who substitute the tool's output for their own evaluation see an oracle rather than a mirror, and those who position themselves as gatekeepers of authenticity optimize for that substitution because it lets them control what the mirror reflects.
 
 ## 四、 放大究竟意味着什么 / 4. What Amplification Actually Means
 
@@ -64,7 +64,7 @@ This requires sufficient otherness so that the interaction space contains positi
 
 Consider a practical workflow: use one model to keep the field active and generate adjacent material without premature closure, then carry the unresolved tension to a different context where the task shifts to crystallization.
 
-这一做法之所以奏效，是因为两个工具之间的间隙创造出了一个必须由用户自身的鲜活过程去填补的空间。人类操作者是摆渡途中的活跃要素，而这一摆渡本身正是区分运作的场所。被工具间的结构性间隙分隔开的感知与解释，各自在自身的轴线上运转，同时心智在不同的坐标系之间进行转译：正如[你的代码库即是记忆](../your-codebase-is-memory/)所追踪的，外化的代码仓库仅保存着静态的痕迹残留，而每一次新的架构判断切分，都发生在跨越已存记忆与当下摩擦之间那道间隙的鲜活前沿上。
+这一做法之所以奏效，是因为两个工具之间的间隙创造出了一个必须由用户自身的鲜活过程去填补的空间。人类操作者是摆渡途中的活跃要素，而这一摆渡本身正是区分运作的场所。被工具间的结构性间隙分隔开的感知与解释，各自在自身的轴线上运转，同时心智在不同的坐标系之间进行转译：正如[你的代码库即是记忆](../your-codebase-is-memory/)所追踪的，外化的代码仓库仅保存着静态的痕迹残留，而每一次新的架构判断切分，都发生在跨越已存记忆与当下摩擦之间那道间隙的鲜活前沿上。跨越这道边界，正如[超越投射](../beyond-the-projection/)与[按需语境将融贯保持在一步](../on-demand-contexts-keep-coherence-at-one-step/)所表明的，受限于轨迹的智能体虽能在有界的一步之内毫无我执地穷尽有限投射并干净地完成更新，但在交接时丢弃临时会话语境、并将未决僵局交还给人类前沿，才是防止会话滞后越俎代庖替心智闭合那道间隙的关键。
 
 ```mermaid
 flowchart TD
@@ -75,7 +75,6 @@ flowchart TD
         C_Atrophy["被排挤的判断：工具沦为吞噬疆域的神谕"]
         C_Label --> C_Monolith --> C_Atrophy
     end
-
     subgraph S_Gap["承重的限制（跨工具摆渡）"]
         direction TB
         G_Sense["工具 A（感知晶格）：浮现正交张力而不闭合"]
@@ -83,9 +82,7 @@ flowchart TD
         G_Crystal["工具 B（结晶与代码库记忆）：铭刻新的切分"]
         G_Sense --> G_Transit --> G_Crystal
     end
-
     C_Atrophy ==>|"保留工具之间的功能分离"| G_Sense
-
     style S_Closed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Gap fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style C_Label fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -96,7 +93,7 @@ flowchart TD
     style G_Crystal fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-This works because the gap between the two tools creates a space that the user's own living process must fill. The human operator is the active element in transit, and the transit itself is where distinction operates. Sensing and interpretation, separated by the structural gap between tools, each function on their own axis while the mind translates between coordinate systems: an externalized repository holds only static trace residue, as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, whereas every new cut of architectural judgment occurs at the living edge crossing the gap between stored memory and present friction.
+This works because the gap between the two tools creates a space that the user's own living process must fill. The human operator is the active element in transit, and the transit itself is where distinction operates. Sensing and interpretation, separated by the structural gap between tools, each function on their own axis while the Mind translates between coordinate systems: an externalized repository holds only static trace residue, as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, whereas every new cut of architectural judgment occurs at the living edge crossing the gap between stored memory and present friction. Across that boundary, as [Beyond the Projection](../beyond-the-projection/) and [On-Demand Contexts Keep Coherence at One Step](../on-demand-contexts-keep-coherence-at-one-step/) show, a trajectory-bound agent can exhaust a finite projection and update cleanly without ego inside a bounded step, yet dropping transient session contexts at the handoff and returning unresolved deadlocks to the human edge is what prevents session lag from closing the gap on the Mind's behalf.
 
 ```mermaid
 flowchart TD
@@ -107,7 +104,6 @@ flowchart TD
         C_Atrophy["Displaced Judgment: Tool becomes an oracle that eats the territory"]
         C_Label --> C_Monolith --> C_Atrophy
     end
-
     subgraph S_Gap["The Load-Bearing Limitation (Transit Across Tools)"]
         direction TB
         G_Sense["Tool A (Sensing Lattice): Surfaces orthogonal tension without closing"]
@@ -115,9 +111,7 @@ flowchart TD
         G_Crystal["Tool B (Crystallization & Codebase Memory): Inscribes the new cut"]
         G_Sense --> G_Transit --> G_Crystal
     end
-
     C_Atrophy ==>|"Preserve functional separation between tools"| G_Sense
-
     style S_Closed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Gap fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style C_Label fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -132,7 +126,7 @@ flowchart TD
 
 If either tool closed that gap on its own, the productive friction of transit would disappear. The limitation is doing work. A model has no such limit to bear consequences against, as [Silicon Oracles and the Asymmetry of Consequence](../silicon-oracles-and-the-asymmetry-of-consequence/) shows. Every clean separation of function—sensing from interpretation, generating from crystallizing, exploring from concluding—preserves a gap that requires the human process to operate. Close the gap and you do not get a better tool; you get a more convincing oracle whose first effect is displacing the judgment it was built to serve.
 
-## 六、 结语 / 6. Coda
+## 六、 结果与原因分离之处 / 6. Where Cause Separates from Effect
 
 其间的差异既不是一座有待跨越的桥梁，也不是一个需要靠工程手段抹平的缺陷。它是判断、审辨以及决定某物意味着什么的行动得以发生的空间。每一次试图坍缩这一空间的尝试——无论是通过贴标签、脱离语境的优化，还是把全包式模型奉为神谕——都是在用表征去替代鲜活的过程。限制正是结果与原因分离的边界，即[非万物之理](../not-a-theory-of-everything/)所阐明的那组对偶。
 
