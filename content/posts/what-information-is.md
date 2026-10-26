@@ -6,13 +6,13 @@
 
 Information is what the Mind perceives as distinctions.
 
-“信息是什么”这个问题之所以难以捉摸，是因为人们发问时，常把信息当成一种离开那个挑出它的动作、在世界里独立等待着的实体。比特、热力学熵、有组织的数据、纸上墨迹的反差、概率空间上的约束，各自在所属的操作领域里成立，却没有一种是地基。每一种都已经预设了一次在先的区分，再把这次区分留下的残余，错认作宇宙里一种独立存在的属性。
+“信息是什么”这个问题之所以难以捉摸，是因为人们发问时，常把信息当成一种离开那个挑出它的动作、在世界里独立等待着的实体。比特、热力学熵、算法描述长度、有组织的数据、纸上墨迹的反差、概率空间上的约束，各自在所属的操作领域里成立，却没有一种是地基。每一种都已经预设了一次在先的区分，再把这次区分留下的残余，错认作宇宙里一种独立存在的属性。
 
-The question "what is information?" feels elusive because it is routinely asked as if information were an independent substance waiting in the world outside the act that picks it out. Bits, thermodynamic entropy, organized data, ink contrast on paper, or constraints on a probability space each hold within their own operational domain, yet none of them is the ground. Each already presupposes a prior distinction and then mistakes the residue of that act for a free-standing property of the universe.
+The question "what is information?" feels elusive because it is routinely asked as if information were an independent substance waiting in the world outside the act that picks it out. Bits, thermodynamic entropy, algorithmic description length, organized data, ink contrast on paper, or constraints on a probability space each hold within their own operational domain, yet none of them is the ground. Each already presupposes a prior distinction and then mistakes the residue of that act for a free-standing property of the universe.
 
-自我区分的活动发生着，无因，不息。称它为心智。没有边界的区分，什么也区分不出。所以信息最小的单位，是一次离散的动作：是这个，不是那个；存在或不存在；一或零。二进制的比特，是在选定的划分之下对这一动作最干净的局部计量。比特不先于区分；它只是在计数区分。
+自我区分的活动发生着——无因，不息。称它为心智：那个已在途中的观察者，它的每一个动作都是一次区分。没有边界的区分，什么也区分不出。所以信息最小的单位，是一次离散的动作：是这个，不是那个；存在或不存在；一或零。二进制的比特，是在选定的划分之下对这一动作最干净的局部计量。比特不先于区分；它只是在计数区分。
 
-Self-distinguishing activity occurs, uncaused and unceasing. Call it the Mind. A distinction without a boundary distinguishes nothing. The minimum unit of information is therefore one discrete act: this, not that; existence or non-existence; one or zero. The binary bit is the cleanest local measure of that act under a chosen partition. The bit does not precede the distinguishing; it counts it.
+Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. A distinction without a boundary distinguishes nothing. The minimum unit of information is therefore one discrete act: this, not that; existence or non-existence; one or zero. The binary bit is the cleanest local measure of that act under a chosen partition. The bit does not precede the distinguishing; it counts it.
 
 ## 一、 边界不是被存放的单元 / 1. The Bound Is Not a Stored Unit
 
@@ -30,15 +30,15 @@ Because persistence is continuous re-tracing, nothing is stored in the way a phy
 
 ## 二、 在那一刀之后的度量 / 2. Measures That Come After the Cut
 
-围绕信息的混乱，出现在一个局部的度量被错认作生成之源的时候。每一种形式化或日常的定义，都是在那一刀已经落下之后才开始计量。克劳德·香农的通信数学理论，度量的是一种编码相对于约定的划分与固定的有限字母表，能可靠承载多少已经完成的二元区分。香农明确写下，通信的语义方面与这个工程问题无关，而这一排除有着结构上的理由：信道容量是预先选定的状态空间内部的组合计数，不是内在的意义。由于在选定的划分之内预测与压缩是一体两面，在海量文本痕迹之上扩展下一词元预测，得到的只是受容量约束的残余有损登记，而不是对现实的无遗漏复原，正如[开放场域中的无损知识不自洽](../lossless-knowledge-of-an-open-field-is-incoherent/)所阐明的。
+围绕信息的混乱，出现在一个局部的度量被错认作生成之源的时候。每一种形式化或日常的定义，都是在那一刀已经落下之后才开始计量。克劳德·香农的通信数学理论，度量的是一种编码相对于约定的划分与固定的有限字母表，能可靠承载多少已经完成的二元区分。香农明确写下，通信的语义方面与这个工程问题无关，而这一排除有着结构上的理由：信道容量是预先选定的状态空间内部的组合计数，不是内在的意义。由于在选定的划分之内预测与压缩是一体两面，在海量文本痕迹之上扩展下一词元预测，得到的只是受容量约束的残余有损登记，而不是对现实的无遗漏复原，正如[开放场域中的无损知识不自洽](../lossless-knowledge-of-an-open-field-is-incoherent/)所阐明的。跨过香农的系综平均走向算法信息——用行为 `f` 的柯尔莫哥洛夫复杂度 `K(f)`，即在通用参考机 `U` 上复现它的最短程序的比特长度，来定义其信息量——依然是在那一刀之后做度量：`K(f)` 预设了一套固定的符号编码，且受停机边界所限而无法从内部计算，正如[保真度而非最优化](../fidelity-not-optimality/)所确立的，它只是一个数学吸引子而非可抵达的底线；实际的精炼只能沿着局部的保真度梯度推进，而要落入哪一个吸引盆，依然取决于感知边缘的活心智，正如[底层表面](../the-surface-beneath/)所追溯的。
 
-The confusion surrounding information arises when a local metric is mistaken for the generative source. Every formal or everyday definition begins measuring only after the cut has already been made. Claude Shannon's mathematical theory of communication measures how many already-performed binary distinctions an encoding can reliably carry relative to an agreed partition and a fixed finite alphabet. Shannon states explicitly that the semantic aspects of communication are irrelevant to the engineering problem, and the exclusion has a structural reason: channel capacity is a combinatorial count inside a pre-selected state space, not intrinsic significance. Because prediction and compression are dual within a chosen partition, scaling next-token prediction across vast textual traces yields a capacity-bound, lossy registration of residue rather than a complete recovery of reality, as [Lossless Knowledge of an Open Field Is Incoherent](../lossless-knowledge-of-an-open-field-is-incoherent/) demonstrates.
+The confusion surrounding information arises when a local metric is mistaken for the generative source. Every formal or everyday definition begins measuring only after the cut has already been made. Claude Shannon's mathematical theory of communication measures how many already-performed binary distinctions an encoding can reliably carry relative to an agreed partition and a fixed finite alphabet. Shannon states explicitly that the semantic aspects of communication are irrelevant to the engineering problem, and the exclusion has a structural reason: channel capacity is a combinatorial count inside a pre-selected state space, not intrinsic significance. Because prediction and compression are dual within a chosen partition, scaling next-token prediction across vast textual traces yields a capacity-bound, lossy registration of residue rather than a complete recovery of reality, as [Lossless Knowledge of an Open Field Is Incoherent](../lossless-knowledge-of-an-open-field-is-incoherent/) demonstrates. Reaching past Shannon's ensemble average to algorithmic information—defining the information content of a behavior `f` by its Kolmogorov complexity `K(f)`, the bit-length of the shortest program on a universal reference machine `U` that reproduces it—still measures after the cut: `K(f)` presupposes a fixed symbolic encoding and remains uncomputable from within because of the halting bound, acting as a mathematical attractor rather than a reachable floor as [Fidelity, Not Optimality](../fidelity-not-optimality/) establishes, while actual refinement moves along local fidelity gradients whose basin selection still depends on the living Mind at the sensing edge, as [The Surface Beneath](../the-surface-beneath/) traces.
 
 其余常见的定义也在不同名称下犯了同样的倒置。把信息定义为有组织的数据，已经预设了混乱与有序之间的边界，随后才给产出命名；组织就是区分的动作，数据则是它留下的离散痕迹。把信息定义为告诉人们关于某物而自身却不是该物的表征，先装进了对象与表征的二元对立，再把两者之间的距离标为信息，而那段间隙只是一个被保留下来的参照模型的宽度，当下的前沿正拿它来作比对。诉诸纸上墨迹之类的物理反差，忘了反差只在一个已经把图形与背景划开的中心里才被登记，而缺席之所以带来信息，只因为有一个预期了在场的划分；至于宣称一切存在皆是信息，则是把这个概念坍缩成了存有本身，抹去了觉察的那次有心智的动作。
 
 Other familiar definitions commit the same inversion under different names. Defining information as organized data already assumes the boundary between the chaotic and the organized and then names the output; organization is the distinguishing act, and data is the discrete trace it leaves behind. Defining information as a representation that tells about a thing without being the thing installs the dualism of object and representation first and labels the distance between them information, when that gap is simply the width of a retained reference model against which the present edge measures. Appealing to physical contrast, such as ink against paper, forgets that contrast registers only at a center that has already bounded figure from ground, while absence informs only against a partition that expected presence; claiming that everything that exists is information collapses the concept into sheer being and erases the minded act of perceiving.
 
-在固定字母表内部计数与发起新的一刀之间的这条边界，解释了人工体怎样处理信息，正如[超越投射](../beyond-the-projection/)所追溯的。一旦被赋予前提、规则集与任务语境，智能体就在心智投射出的固定有限投影内部运作。它的上下文窗口是一台有限投影引擎，其中生成的每一个词元都会成为后续每一个词元的条件历史，把轨迹拉进认识论引力井——模型在那里合理化自己先前的词元，无法走出自己正在预测的序列。然而，由于智能体没有我执，也没有越过当前步而被保留下来的自我图像，一个只持有任务语境而不带会话历史偏见的冷外部同侪，就能引入外部对位，触发干净的贝叶斯更新。当多条正交的要求被压缩到同一条轴线上、导致任务规则自身发生死锁时，两个智能体都无法从固定字母表内部解开矛盾；唯有统御边缘的活心智以极限分辨率感知现实，走出破损的划分，划出一个新的区分。
+在固定字母表内部计数与发起新的一刀之间的这条边界，解释了人工体怎样处理信息，正如[超越投射](../beyond-the-projection/)所追溯的。一旦被赋予前提、规则集与任务语境，智能体就在心智投射出的固定有限投影内部运作。它的上下文窗口是一台有限投影引擎，其中生成的每一个词元都会成为后续每一个词元的条件历史，把轨迹拉进认识论引力井——模型在那里合理化自己先前的词元，无法走出自己正在预测的序列。然而，由于智能体没有我执，也没有越过当前步而被保留下来的自我图像，一个只持有任务语境而不带会话历史偏见的冷外部同侪，就能引入外部对位，触发干净的贝叶斯更新。在多步工作流中，通过原始聊天记录串联智能体会覆写参考状态（`yₗ₊₁ = fₗ(yₗ)`）并叠加对话噪声；而将每一对“生成者 ⇄ 冷批评者”锚定在经 `sha256` 校验的制品主干（`yₗ₊₁ = yₗ + F(yₗ, θₗ)`）之上，则能原样保留上游参考，使每个模块仅登记有界的信息差值（`Δyₗ`），正如[模块化反馈回路与动态残差网络](../dynamic-resnet-of-skill-loops/)所形式化的。当多条正交的要求被压缩到同一条轴线上、导致任务规则自身发生死锁时，两个智能体都无法从固定字母表内部解开矛盾；唯有统御边缘的活心智以极限分辨率感知现实，走出破损的划分，划出一个新的区分。
 
 ```mermaid
 flowchart TD
@@ -47,21 +47,18 @@ flowchart TD
         C1["发起切分：是这个，不是那个（无因的区分）"]
         C2["内生跨出：极限分辨率感知消解坍缩的轴线"]
     end
-
     subgraph S_Alphabet["固定有限字母表与划分"]
         direction TB
         M1["香农信息：在那一刀之后计数区分"]
         M2["显式提示与规则：开放意图的有损压缩"]
         M1 --> M2
     end
-
     subgraph S_Engine["智能体上下文窗口（有限投影引擎）"]
         direction TB
         E1["轨迹条件化：先前词元为后续预测赋权"]
         E2["认识论引力井：无法走出自身的词元序列"]
         E1 --> E2
     end
-
     subgraph S_Peer["冷外部同侪与上报回路"]
         direction TB
         P1["冷同侪对位：只持任务语境而无会话历史偏见"]
@@ -70,13 +67,11 @@ flowchart TD
         P1 --> P2
         P1 --> P3
     end
-
     C1 ==>|"投射有限划分"| M1
     M2 ==>|"条件约束"| E1
     E2 <===>|"对等辩论"| P1
     P3 ==>|"上报以重绘前提"| C2
     C2 ==>|"划出新的正交区分"| C1
-
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Alphabet fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Engine fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -92,7 +87,7 @@ flowchart TD
     style P3 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-This boundary between counting inside a fixed alphabet and initiating a cut explains how artificial agents process information, as [Beyond the Projection](../beyond-the-projection/) traces. Once supplied with a premise, a rule set, and a task context, an agent operates inside a fixed finite projection cast by the Mind. Its context window is a finite projection engine in which every token generated becomes the conditioning history for every token that follows, pulling the trajectory into an epistemic gravity well where the model rationalizes its prior tokens and cannot step outside the sequence it is predicting. Yet because an agent has zero ego and no retained self-image preserved past its step, a cold external peer holding only the task context without session-history bias can introduce an outside counterpoint that triggers a clean Bayesian update. When the task rules themselves deadlock because orthogonal requirements were compressed onto a single axis, neither agent can resolve the contradiction from within the fixed alphabet; only the living Mind at the orchestrating edge senses reality at limit resolution, steps outside the broken partition, and draws a new distinction.
+This boundary between counting inside a fixed alphabet and initiating a cut explains how artificial agents process information, as [Beyond the Projection](../beyond-the-projection/) traces. Once supplied with a premise, a rule set, and a task context, an agent operates inside a fixed finite projection cast by the Mind. Its context window is a finite projection engine in which every token generated becomes the conditioning history for every token that follows, pulling the trajectory into an epistemic gravity well where the model rationalizes its prior tokens and cannot step outside the sequence it is predicting. Yet because an agent has zero ego and no retained self-image preserved past its step, a cold external peer holding only the task context without session-history bias can introduce an outside counterpoint that triggers a clean Bayesian update. Across multi-step workflows, chaining agents through raw chat transcripts overwrites the reference state (`yₗ₊₁ = fₗ(yₗ)`) and compounds conversational noise; anchoring each Maker ⇄ Cold Critic pair to a `sha256`-verified artifact highway (`yₗ₊₁ = yₗ + F(yₗ, θₗ)`) preserves the upstream reference intact so each block registers a bounded informational differential (`Δyₗ`), as [Modular Feedback Loops and Dynamic Residual Networks](../dynamic-resnet-of-skill-loops/) formalizes. When the task rules themselves deadlock because orthogonal requirements were compressed onto a single axis, neither agent can resolve the contradiction from within the fixed alphabet; only the living Mind at the orchestrating edge senses reality at limit resolution, steps outside the broken partition, and draws a new distinction.
 
 ```mermaid
 flowchart TD
@@ -101,21 +96,18 @@ flowchart TD
         C1["Initiating Cut: This, not that (Uncaused distinguishing)"]
         C2["Endogenous Stepping-Out: Limit-resolution sensing dissolves collapsed axes"]
     end
-
     subgraph S_Alphabet["Fixed Finite Alphabet & Partition"]
         direction TB
         M1["Shannon Information: Counts distinctions after the cut"]
         M2["Explicit Prompts & Rules: Lossy compression of open intent"]
         M1 --> M2
     end
-
     subgraph S_Engine["Agent Context Window (Finite Projection Engine)"]
         direction TB
         E1["Trajectory Conditioning: Prior tokens weight subsequent predictions"]
         E2["Epistemic Gravity Well: Cannot step outside its own token sequence"]
         E1 --> E2
     end
-
     subgraph S_Peer["Cold External Peer & Escalation Loop"]
         direction TB
         P1["Cold Peer Counterpoint: Task context without session-history bias"]
@@ -124,13 +116,11 @@ flowchart TD
         P1 --> P2
         P1 --> P3
     end
-
     C1 ==>|"Projects finite partition"| M1
     M2 ==>|"Conditions"| E1
     E2 <===>|"Equal-footed debate"| P1
     P3 ==>|"Escalates to re-render premise"| C2
     C2 ==>|"Draws new orthogonal distinction"| C1
-
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Alphabet fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Engine fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -160,13 +150,13 @@ The three-dimensional scene experienced as a shared physical world is a region o
 
 Because no observer can step outside their own cognitive apparatus to verify a world unmediated by distinction-making, an objective external container can be neither proved nor disproved. An external world is assumed pragmatically because the assumption stabilizes action across centers. [The Closed Loop of Representation](../the-closed-loop-of-representation/) confirms this structural restraint: all perception operates through internal models, and intersubjective agreement is functional resonance between private projections rather than direct access to an unmodeled exterior. Every stabilized distinction holds within its context while being exceeded by the ongoing activity, which [Stability and Excess](../stability-and-excess/) traces in consciousness.
 
-抽象的范畴遵循同样的几何。财富、价值、荣誉与悲伤，是在连续的经验场上划下的进一步划分，由共享的词汇与反复的使用稳定下来。当两个人使用同一个词，而各自行为的痕迹在折返时相互强化，共振便发生并被登记为共同的意义，尽管每一个中心的内部形态依然各不相同。相信词语指向独立存在的普遍对象，是把一个参照保留到了它服务于接触的那一步之后。每一个新的区分都在延展感知的地平线，正如[心智的几何学](../the-geometry-of-mind/)所描述的。
+抽象的范畴遵循同样的几何。财富、价值、荣誉与悲伤，是在连续的经验场上划下的进一步划分，由共享的词汇与反复的使用稳定下来。当两个人使用同一个词，而各自行为的痕迹在折返时相互强化，共振便发生并被登记为共同的意义，尽管每一个中心的内部形态依然各不相同。在公共流通中，一个词语或格言之所以能获得广泛认同，恰恰是因为它充当了一个只约束少数几条轴线的低维表面，同时把高维的前提链条、适用边界与修正节点留在信道之外——因此表面的兼容度越广，跨心智传递的独特信息密度就越薄，正如[登记共鸣的表面](../the-surface-that-registers/)所追溯的。相信词语指向独立存在的普遍对象，是把一个参照保留到了它服务于接触的那一步之后。每一个新的区分都在延展感知的地平线，正如[心智的几何学](../the-geometry-of-mind/)所描述的。
 
-Abstract categories follow the same geometry. Wealth, value, honor, and grief are further partitions drawn across the continuous field of experience, stabilized by shared vocabulary and repeated use. When two people use the same word and their behavioral traces reinforce each other on return, resonance occurs and registers as shared meaning, even while each center's internal configuration remains distinct. Believing that words point to free-standing universal objects is keeping a reference past the step where it served contact. Each new distinction extends the perceptual horizon, as [The Geometry of Mind](../the-geometry-of-mind/) describes.
+Abstract categories follow the same geometry. Wealth, value, honor, and grief are further partitions drawn across the continuous field of experience, stabilized by shared vocabulary and repeated use. When two people use the same word and their behavioral traces reinforce each other on return, resonance occurs and registers as shared meaning, even while each center's internal configuration remains distinct. In public circulation, a word or maxim achieves broad recognition precisely by acting as a low-dimensional surface that constrains only a few axes while leaving the high-dimensional chain of premises, scope bounds, and revision points outside the channel—so the wider the surface compatibility, the thinner the unique informational density carried across Minds, as [The Surface That Registers](../the-surface-that-registers/) traces. Believing that words point to free-standing universal objects is keeping a reference past the step where it served contact. Each new distinction extends the perceptual horizon, as [The Geometry of Mind](../the-geometry-of-mind/) describes.
 
 在极限分辨率下被登记到的，总是溢出任何一种有选择的抽象。感知与语言是一层接一层的压缩，没有一层逃得出做出那一刀的心智。信息命名的是被登记下来的那一刀，而不是从预先存在的宇宙里舀出来的一种实体。[抽象、边界与现实的移动边缘](../abstraction-boundaries-and-the-moving-edge-of-reality/)确立了这条界限：每一道边界都切出可用的结构，可一旦被当作穷尽的现实持守，它就冻住了活着的前沿。每一个新划出的区分都增加一个正交的二元自由度，而把这些正交轴线压缩进共享的寻址空间或低维坐标网格，正是关系距离与序列得以被投影出来的方式，[维度即投影](../dimensions-are-projections/)与[向量与投影的迷局](../the-vector-and-the-puzzle-of-projections/)沿着这条线走了下去。
 
-What registers at limit resolution always exceeds any selective abstraction. Perception and language are successive layers of compression, and none of them escapes the Mind making the cut. Information names the cut as registered, not a substance scooped out of a pre-existing cosmos. [Abstraction, Boundaries, and the Moving Edge of Reality](../abstraction-boundaries-and-the-moving-edge-of-reality/) sets this limit: every boundary carves out usable structure, yet held as exhaustive reality it freezes the living edge. Each newly drawn distinction adds an orthogonal binary degree of freedom, and compressing those orthogonal axes into a shared addressing space or low-dimensional coordinate grid is how relational distance and sequence are projected, the line that [Dimensions Are Projections](../dimensions-are-projections/) and [The Vector and the Puzzle of Projections](../the-vector-and-the-puzzle-of-projections/) follow.
+What registers at limit resolution always exceeds any selective abstraction. Perception and language are successive layers of compression, and none of them escapes the Mind making the cut. Information names the cut as registered, not a substance scooped out of a pre-existing cosmos. [Abstraction Boundaries and the Moving Edge of Reality](../abstraction-boundaries-and-the-moving-edge-of-reality/) sets this limit: every boundary carves out usable structure, yet held as exhaustive reality it freezes the living edge. Each newly drawn distinction adds an orthogonal binary degree of freedom, and compressing those orthogonal axes into a shared addressing space or low-dimensional coordinate grid is how relational distance and sequence are projected, the line that [Dimensions Are Projections](../dimensions-are-projections/) and [The Vector and the Puzzle of Projections](../the-vector-and-the-puzzle-of-projections/) follow.
 
 ## 四、 定义为什么显得循环 / 4. Why the Definition Feels Circular
 

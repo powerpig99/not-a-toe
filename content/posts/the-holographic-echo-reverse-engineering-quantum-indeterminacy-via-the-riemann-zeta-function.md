@@ -26,9 +26,9 @@ In holographic physics, the AdS/CFT correspondence for example, dynamics in a hi
 
 ## 二、 量子不确定性与素数的确定 / 2. Quantum Indeterminacy and the Determinacy of Primes
 
-在经典力学的模型里没有自由变量：给定初始位置与动量，轨迹便已定下。量子力学的模型在单次结果上留了空，测不准关系、真空涨落与测量的单次读数都属于此。这是模型自己标出的边界，它在此处不再给出单次的结果。这道空白与心智的抉择是同一件事的两面：从描述之内看，是一处合不上的地方；从第一人称看，是作出抉择的自由变量。
+在经典力学的模型里没有自由变量：给定初始位置与动量，轨迹便已定下。量子力学的模型在单次结果上留了空，测不准关系、真空涨落与测量的单次读数都属于此。这是模型自己标出的边界，它在此处不再给出单次的结果。这道空白与心智的抉择是同一件事的两面：从描述之内看，是一处合不上的地方；从第一人称看，是作出抉择的自由变量，正如[自由的测不准](../zi-you-de-ce-bu-zhun/)所追溯的那样。
 
-In the model of classical mechanics there is no free variable: given initial positions and momenta, the trajectory is settled. The model of quantum mechanics leaves the single outcome blank; the uncertainty relation, vacuum fluctuations and the individual reading of a measurement all belong here. This is a boundary the model marks for itself, the place where it no longer yields a single result. That blank and the Mind's choosing are two faces of one thing: seen from inside the description, a place that will not close; seen from the first person, the free variable that chooses.
+In the model of classical mechanics there is no free variable: given initial positions and momenta, the trajectory is settled. The model of quantum mechanics leaves the single outcome blank; the uncertainty relation, vacuum fluctuations and the individual reading of a measurement all belong here. This is a boundary the model marks for itself, the place where it no longer yields a single result. That blank and the Mind's choosing are two faces of one thing: seen from inside the description, a place that will not close; seen from the first person, the free variable that chooses, as [The Uncertainty of Freedom](../zi-you-de-ce-bu-zhun/) traces.
 
 黎曼猜想所管辖的对象却是确定性的范本。素数是算术里最坚固的东西，17 不会因为谁的意愿而变成合数。
 
@@ -38,9 +38,9 @@ The objects the Riemann Hypothesis governs are, by contrast, the very model of d
 
 The two meet in the statistics of the zeros. In 1972 Hugh Montgomery conjectured the form of the pair correlation function of the Riemann zeros, and Freeman Dyson recognized its term 1 − (sin πx / πx)² as the pair correlation of the Gaussian Unitary Ensemble in random matrix theory. The form is proven only in a restricted range, and Andrew Odlyzko's later large-scale numerical computations agree with it. Random matrix theory had been developed by Wigner, Dyson and others to describe the complex energy levels of heavy nuclei such as uranium-238.
 
-希尔伯特与波利亚的设想由此有了依托：零点的虚部 γₙ 是某个尚未找到的自伴算符的本征值，Ĥ ψₙ = γₙ ψₙ。这一设想至今未获证明。若它成立，寻找黎曼猜想的证明便是在寻找一个量子系统的谱，素数则可以读作一条连续的谱在叠加干涉时留下的离散结点，联系素数与零点的显式公式给了这种读法一个落脚处。
+希尔伯特与波利亚的设想由此有了依托：零点的虚部 γₙ 是某个尚未找到的自伴算符的本征值，Ĥ ψₙ = γₙ ψₙ。这一设想至今未获证明。若它成立，寻找黎曼猜想的证明便是在寻找一个量子系统的谱，素数则可以读作一条连续的谱在叠加干涉时留下的离散结点；联系素数与零点的显式公式给了这种读法一个落脚处，而[算符的潜无限与记录的有限边界](../the-potential-infinity-of-operators-and-the-finite-horizon-of-records/)则表明，这样的算符谱编码的是供干涉使用的相位权重，而非一份已经穷尽的有限记录清单。
 
-The proposal of Hilbert and Pólya finds its support here: the imaginary parts γₙ of the zeros are the eigenvalues of some self-adjoint operator not yet found, Ĥ ψₙ = γₙ ψₙ. The proposal remains unproven. If it holds, seeking a proof of the Riemann Hypothesis is seeking the spectrum of a quantum system, and the primes can be read as the discrete nodes a continuous spectrum leaves when it superposes and interferes; the explicit formula linking primes and zeros gives that reading a foothold.
+The proposal of Hilbert and Pólya finds its support here: the imaginary parts γₙ of the zeros are the eigenvalues of some self-adjoint operator not yet found, Ĥ ψₙ = γₙ ψₙ. The proposal remains unproven. If it holds, seeking a proof of the Riemann Hypothesis is seeking the spectrum of a quantum system, and the primes can be read as the discrete nodes a continuous spectrum leaves when it superposes and interferes; the explicit formula linking primes and zeros gives that reading a foothold, while [The Potential Infinity of Operators and the Finite Horizon of Records](../the-potential-infinity-of-operators-and-the-finite-horizon-of-records/) shows that such an operator spectrum encodes phase weights for interference rather than an already exhausted inventory of finite records.
 
 ## 三、 极限处的确定 / 3. Determinacy at the Limit
 
@@ -52,9 +52,9 @@ How do indeterminate fluctuations yield a rigidity like that of the primes? Thro
 
 The Riemann Hypothesis has an equivalent statement that speaks of exactly the size of fluctuations: the difference between the prime-counting function π(x) and the logarithmic integral Li(x) satisfies π(x) − Li(x) = O(√x · ln x). The exponent 1/2 is of the same order as the fluctuation of a random walk of x steps, the fingerprint left when independent random steps settle toward equilibrium.
 
-零点按高斯酉系综的统计彼此排斥，不像互不相关的随机事件那样扎堆，底层的自由度因此是相互关联的。照这样读，确定与不确定不是两条对立的定律，确定是不确定的涨落在无界的范围上求和之后给出的东西。这个求和只在极限处完成，下一节看的正是这个极限。
+零点按高斯酉系综的统计彼此排斥，不像互不相关的随机事件那样扎堆，底层的自由度因此是相互关联的。照这样读，确定与不确定不是两条对立的定律；正如[确定性是微观不确定性的统计签名](../determinism-is-the-statistical-signature-of-micro-indeterminism/)所追溯的，确定是不确定的涨落在无界的范围上求和之后给出的东西。这个求和只在极限处完成，下一节看的正是这个极限。
 
-The zeros repel one another according to Gaussian Unitary Ensemble statistics and do not cluster the way uncorrelated random events do, so the underlying degrees of freedom are correlated with one another. Read this way, determinacy and indeterminacy are not two opposing laws; determinacy is what indeterminate fluctuations give once summed over an unbounded range. That sum is completed only at the limit, and the limit is what the next section looks at.
+The zeros repel one another according to Gaussian Unitary Ensemble statistics and do not cluster the way uncorrelated random events do, so the underlying degrees of freedom are correlated with one another. Read this way, determinacy and indeterminacy are not two opposing laws; as [Determinism is the Statistical Signature of Micro-Indeterminism](../determinism-is-the-statistical-signature-of-micro-indeterminism/) traces, determinacy is what indeterminate fluctuations give once summed over an unbounded range. That sum is completed only at the limit, and the limit is what the next section looks at.
 
 ## 四、 无穷这堵墙 / 4. The Wall of Infinity
 
@@ -66,9 +66,9 @@ Mathematics works within the posit of actual infinity. It treats the infinite se
 
 Physics' own models mark where this posit stops being available to measurement. The Bekenstein bound and the theorem of Margolus and Levitin state that a finite region with finite energy can hold a finite number of bits and carry out a finite number of operations per second. Wherever measurement reaches, infinity is an asymptote.
 
-微元 dx 也是如此。测不准关系 Δx · Δp ≥ ħ/2 要求，位置的间隔压得越小，动量的不确定度就越大。把足够多的能量集中到足够小的区域，广义相对论给出的是视界的形成。到了这个尺度，比值 dy/dx 不再对应任何一次测量，现有的模型在普朗克长度 ℓ_P ≈ 1.6 × 10⁻³⁵ 米附近预期自己失效。这个尺度是模型分辨力的截断。
+微元 dx 也是如此。测不准关系 Δx · Δp ≥ ħ/2 要求，位置的间隔压得越小，动量的不确定度就越大。把足够多的能量集中到足够小的区域，广义相对论给出的是视界的形成。到了这个尺度，比值 dy/dx 不再对应任何一次测量，现有的模型在普朗克长度 ℓ_P ≈ 1.6 × 10⁻³⁵ 米附近预期自己失效。这个尺度是模型分辨力的截断，标出了[连续性作为建模的权宜之计](../the-continuum-is-a-modeling-convenience/)与形式分析为闭合方程而令其归零的非零因果间隔相遇之处。
 
-The same holds for the element dx. The uncertainty relation Δx · Δp ≥ ħ/2 requires that the smaller the interval of position is squeezed, the larger the uncertainty of momentum becomes. Concentrate enough energy in a small enough region and general relativity gives the formation of a horizon. At that scale the ratio dy/dx no longer corresponds to any measurement, and current models expect to fail near the Planck length, ℓ_P ≈ 1.6 × 10⁻³⁵ m. This scale is the cutoff of the models' resolving power.
+The same holds for the element dx. The uncertainty relation Δx · Δp ≥ ħ/2 requires that the smaller the interval of position is squeezed, the larger the uncertainty of momentum becomes. Concentrate enough energy in a small enough region and general relativity gives the formation of a horizon. At that scale the ratio dy/dx no longer corresponds to any measurement, and current models expect to fail near the Planck length, ℓ_P ≈ 1.6 × 10⁻³⁵ m. This scale is the cutoff of the models' resolving power, marking where [The Continuum is a Modeling Convenience](../the-continuum-is-a-modeling-convenience/) meets the non-zero causal interval that formal analysis sets to zero to close its equations.
 
 ## 五、 数学作为渐近压缩 / 5. Mathematics as Asymptotic Compression
 
@@ -86,17 +86,14 @@ flowchart TD
         Fluct["离散的测量与涨落：每次采样皆停在有限步长"]
         Edge --> Fluct
     end
-
     subgraph S_Comp["数学的渐近压缩：实无穷工作设定"]
         direction TB
         Posit["设定极限已完成：∑ n⁻ˢ 闭合求值且 dx 平滑趋零"]
         Line["临界线 Re(s) = 1/2：酉性谱无损投影的对称中轴"]
         Posit --> Line
     end
-
     Fluct ==>|"括起残余开放性，沉淀为有限残余检查点"| Posit
     Line ==>|"作为地图指明外推方向，不封闭探索者的下一步"| Edge
-
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Comp fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Edge fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -115,17 +112,14 @@ flowchart TD
         Fluct["Discrete Measurements & Fluctuations: Every sample stops at a finite step"]
         Edge --> Fluct
     end
-
     subgraph S_Comp["Asymptotic Compression in Mathematics: Actual-Infinity Posit"]
         direction TB
         Posit["Posit the Limit as Complete: ∑ n⁻ˢ evaluated & dx vanishes smoothly"]
         Line["Critical Line Re(s) = 1/2: Symmetry axis of unitary lossless projection"]
         Posit --> Line
     end
-
     Fluct ==>|"Brackets residual openness into a finite checkpoint"| Posit
     Line ==>|"Maps the direction of extrapolation without sealing the next step"| Edge
-
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Comp fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Edge fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -164,6 +158,6 @@ The freedom of consciousness and the quantum gap are not two things, and neither
 
 To remain in open potential means bearing the friction of time moving forward, facing uncertainty, and paying the cost of every irreversible step. Impatience grows here. Out of unwillingness to trek one step at a time, and out of fear of the unknown and of losing control, the mind wants to cash this potential in at once as a closed totality: an all-inclusive theory of everything, one equation that settles every cause together, or a list claiming to have seen the whole of history and the future.
 
-黎曼猜想展示了数学在渐近极限处所能压缩出的高度，它沿着临界线描出一座理想化的殿堂。殿堂是第一人称的探索者搭起来的，探索者并不因此被关在其中。视界一步一步地保持着敞开，思考、抉择与下一步都在这道敞开里继续。
+黎曼猜想展示了数学在渐近极限处所能压缩出的高度，它沿着临界线描出一座理想化的殿堂。殿堂是第一人称的探索者搭起来的，探索者并不因此被关在其中：正如[为何数学永远解不完](../why-mathematics-can-never-be-solved/)所展示的，没有任何形式抓握能封死架起它的区分活动本身。视界一步一步地保持着敞开，思考、抉择与下一步都在这道敞开里继续。
 
-The Riemann Hypothesis shows the height that mathematics can compress out at the asymptotic limit, tracing an idealized hall along the critical line. The hall was built by explorers in the first person, and the explorers are not thereby shut inside it. The horizon stays open step by step, and thinking, choosing and the next step all continue within that openness.
+The Riemann Hypothesis shows the height that mathematics can compress out at the asymptotic limit, tracing an idealized hall along the critical line. The hall was built by explorers in the first person, and the explorers are not thereby shut inside it: as [Why Mathematics Can Never Be Solved](../why-mathematics-can-never-be-solved/) shows, no formal hold seals the distinguishing activity that erected it. The horizon stays open step by step, and thinking, choosing and the next step all continue within that openness.
