@@ -1,0 +1,106 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<title>Infographic: Modular Feedback Loops and Dynamic Residual Networks (picture: Antigravity image-generator, karakuri and kintsugi spine beam, 2026-10-26)</title>
+<style>
+  @font-face { font-family: "Info Sans"; font-weight: 300 900; src: url("../fonts/info-sans.latin.woff2") format("woff2"); unicode-range: U+0000-024F, U+2000-206F, U+20A0-20CF, U+2190-21FF; }
+  @font-face { font-family: "Info Sans"; font-weight: 100 900; src: url("./info-sans.zh.woff2") format("woff2"); unicode-range: U+2E80-9FFF, U+3000-303F, U+FF00-FFEF; }
+@font-face { font-family: "Info Sans", "Figtree"; src: url(../../../../kits/shared/lib/fonts/Figtree.ttf); font-weight: 300 900; }
+@font-face { font-family: "Info Sans", "NotoSC"; src: url(../../../../kits/shared/lib/fonts/NotoSansSC.ttf); font-weight: 100 900; }
+/* karakuri lacquer and kintsugi gold: plates are black lacquer with a gold-leaf edge, set in the calm navy ground of the picture */
+:root { --ink:#efe6d2; --gold:#e6b955; --coral:#ef8a6a; --sky:#86bde8; --violet:#b9a2f2; --green:#72cf8f; --quartz:#cfe4f2; --plate: rgba(11,15,24,0.86); }
+html,body{margin:0}
+body{width:1024px;height:1024px;overflow:hidden;position:relative;color:var(--ink);font-family:"Figtree","NotoSC",sans-serif;background:#141c26}
+sub{font-size:.72em;line-height:0;vertical-align:-.28em}
+body.zh{font-family:"NotoSC",sans-serif}
+.pic{position:absolute;left:0;top:0;width:1024px;height:1024px}
+svg.art{position:absolute;left:0;top:0}
+.plate{position:absolute;box-sizing:border-box;background:var(--plate);border-radius:5px;padding:8px 11px 9px;border-left:3px solid var(--c);box-shadow:inset 0 0 0 1px rgba(230,185,85,.22),0 4px 12px rgba(0,0,0,.45)}
+.plate h3{margin:0 0 4px;font-size:14.5px;line-height:1.22;font-weight:800;color:var(--c)}
+.plate p{margin:0;font-size:12.6px;line-height:1.36}
+.zh .plate h3{font-size:15px;font-weight:700}.zh .plate p{font-size:13px;line-height:1.52}
+.plate b{color:var(--c);font-weight:700}
+.title{position:absolute;left:24px;top:16px;width:670px}
+.title h1{margin:0;font-size:33px;line-height:1.08;font-weight:800;color:var(--gold);letter-spacing:-.005em}
+.zh .title h1{font-size:36px;letter-spacing:.06em;font-weight:700}
+.title .claim{margin-top:8px;font-size:15px;line-height:1.4;font-weight:500;color:#e9e1cf}
+.zh .title .claim{font-size:16px;line-height:1.6}
+.title .url{margin-top:6px;font:10.5px "DejaVu Sans Mono",Menlo,monospace;color:#9aa6b8}
+.use{display:flex;gap:14px;align-items:center}
+.use h3{margin:0;white-space:nowrap;font-size:15px}
+.nw{white-space:nowrap}
+.num{display:inline-block;width:17px;height:17px;border-radius:50%;background:var(--c);color:#0b0f18;font-size:11px;line-height:17px;text-align:center;margin-right:6px;vertical-align:1px;font-weight:800;font-family:"Figtree"}
+</style></head><body>
+<img class="pic" src="art.jpg" alt="">
+<svg class="art" width="1024" height="1024"><g id="leads" fill="none" stroke="#f3e7c8" stroke-opacity=".85" stroke-width="1.5" stroke-dasharray="3 3"></g></svg>
+<div class="title"><h1 data-k="title"></h1><div class="claim" data-k="claim"></div><div class="url">powerpig99.github.io/not-a-toe/posts/dynamic-resnet-of-skill-loops/</div></div>
+
+<div class="plate" id="k1" style="left:12px;top:204px;width:262px;--c:var(--coral)"><h3 data-k="c1h"></h3><p data-k="c1"></p></div>
+<div class="plate" id="k2" style="left:384px;top:752px;width:206px;--c:var(--gold)"><h3 data-k="c2h"></h3><p data-k="c2"></p></div>
+<div class="plate" id="k3" style="left:12px;top:628px;width:362px;--c:var(--sky)"><h3 data-k="c3h"></h3><p data-k="c3"></p></div>
+<div class="plate" id="k4" style="left:600px;top:752px;width:196px;--c:var(--violet)"><h3 data-k="c4h"></h3><p data-k="c4"></p></div>
+<div class="plate" id="k5" style="left:806px;top:752px;width:206px;--c:var(--green)"><h3 data-k="c5h"></h3><p data-k="c5"></p></div>
+<div class="plate" id="k6" style="left:812px;top:574px;width:200px;--c:var(--quartz)"><h3 data-k="c6h"></h3><p data-k="c6"></p></div>
+<div class="plate" id="k7" style="left:726px;top:236px;width:286px;--c:var(--green)"><h3 data-k="c7h"></h3><p data-k="c7"></p></div>
+<div class="plate" id="k0" style="left:726px;top:22px;width:286px;--c:var(--coral)"><h3 data-k="h_held"></h3><p data-k="held"></p></div>
+<div class="plate use" id="ku" style="left:12px;top:922px;width:1000px;--c:var(--gold)"><h3 data-k="h_use"></h3><p data-k="use"></p></div>
+<script>
+const S={en:{
+title:'Modular Feedback Loops and<br>Dynamic Residual Networks',
+claim:'Residual connections decompose global feedback into local differentials anchored to a retained reference, while skill loops split and crystallize dynamically along an artifact highway.',
+c1h:'Plain stack: <span class=nw>yₗ₊₁ = fₗ(yₗ)</span>',
+c1:'Each layer overwrites and reconstructs the entire state from scratch under a single long-range global feedback loop. No unmodified reference survives, so representations drift.',
+c2h:'Identity highway',
+c2:'<span class=nw><b>yₗ₊₁ = yₗ + F(yₗ, Wₗ)</b></span> carries the running reference intact; each block emits only a bounded differential <b>Δyₗ</b>, and the upstream gradient crosses the junction to calibrate <b>Wₗ</b>.',
+c3h:'Skill residual block: Maker ⇄ Cold Critic',
+c3:'The <b>sha256</b>-verified artifact is the highway, handed across steps with zero chat history. A fresh Maker writes <b>yₗ₊₁</b>; a fresh Cold Critic inspects it against <b>yₗ</b> and the charter <b>θₗ</b> without the maker’s chain of thought. Both contexts drop, and the parent receives one line: <b><span class=nw>O(1)</span> <span class=nw>STATUS: PASS | FAIL | HOLD</span></b>.',
+c4h:'/recap expands the horizon',
+c4:'<b>Δθₗ</b>: reads disk logs on a need-to-know basis, updates skills, charters, and scripts, and deletes the superseded log traces once absorbed into the edge.',
+c5h:'Mitosis under load',
+c5:'An overloaded block splits into orthogonal sub-loops <b>F₁, F₂, …</b>, each with its own fresh Maker ⇄ Cold Critic pair on the shared artifact highway.',
+c6h:'Crystallization: <span class=nw>Δθₗ → 0</span>',
+c6:'A settled block narrows into a zero-context operator, then compiles out of inference into a deterministic script or audit check.',
+c7h:'Residual escalation pyramid',
+c7:'Only <b>open_issues > 0</b> climb one layer up, as a one-line STATUS pointer. At the outer loop, the living Mind’s judgment call is tested for logical consistency against the current edge before ground moves.',
+h_held:'The held belief',
+held:'Deep learning textbooks file plain stacks and residual networks alike as feedforward, the identity skip a calculus trick against vanishing gradients.',
+h_use:'What stays, where it stops',
+use:'The gradient account holds: the identity term routes <b>∂L/∂yₗ₊₁</b> across the junction. Inside compiled segments the loops close and execution advances without micro-management. The highway preserves the trace of the initial cut <b>y₀</b>; it does not originate <b>y₀</b>, nor adjudicate an axiomatic split (<b>HOLD</b>).'},
+zh:{
+title:'模块化反馈回路与动态残差网络',
+claim:'残差连接将全局反馈拆解为锚定于保留参考的局部差值，而技能回路则在制品主干上动态<span class=nw>分裂与结晶</span>。',
+c1h:'普通堆叠：<span class=nw>yₗ₊₁ = fₗ(yₗ)</span>',
+c1:'每一层都在单一的长程全局反馈回路下<span class=nw>覆写</span>并从头重构整个状态；没有未经改动的参考留存，中间表征随之<span class=nw>漂移</span>。',
+c2h:'恒等主干',
+c2:'<span class=nw><b>yₗ₊₁ = yₗ + F(yₗ, Wₗ)</b></span> 将运行中的参考原样携行；每个残差块只输出有界的局部差值 <b>Δyₗ</b>，上游梯度直接跨过加法节点，<span class=nw>校准各自的局部权重 <b>Wₗ</b>。</span>',
+c3h:'技能残差块：生成者 ⇄ 冷批评者',
+c3:'经 <b>sha256</b> 校验的制品即恒等主干，交接时不携带任何<span class=nw>聊天历史</span>。全新的生成者写入 <b>yₗ₊₁</b>；全新的冷批评者不带<span class=nw>生成者</span>的思维链，对照 <b>yₗ</b> 与章程 <b>θₗ</b> 审视。两个语境随即<span class=nw>销毁</span>，父层只收到一行 <b>O(1)</b> 状态：<b>通过、失败或挂起</b>。',
+c4h:'/recap 拓展运作视界',
+c4:'<b>Δθₗ</b>：按需读取<span class=nw>磁盘日志</span>，更新技能、章程与脚本，并在旧有<span class=nw>日志痕迹</span>被吸收进更新后的边缘时将其<span class=nw>删除</span>。',
+c5h:'过载下的有丝分裂',
+c5:'过载的模块拆解为正交的<span class=nw>子回路</span> <b>F₁、F₂……</b>，各自配备全新的<span class=nw>“生成者 ⇄ 冷批评者”</span>对，经共享的<span class=nw>制品主干</span>衔接。',
+c6h:'结晶：<span class=nw>Δθₗ → 0</span>',
+c6:'已定型的模块先收窄为<span class=nw>零语境算子</span>，最终从语言模型推理中编译析出，化作确定性脚本或<span class=nw>审计校验</span>。',
+c7h:'残余升级金字塔',
+c7:'唯有剩余未决问题（<b>open_issues > 0</b>）经<span class=nw>单行</span>状态指针向上升级一层。在外环，活生生的心智所作的判断先对照当前边缘接受<span class=nw>逻辑一致性</span>检验，基底才随之移动。',
+h_held:'通行看法',
+held:'深度学习教材把普通堆叠网络和残差网络一并归为前馈架构，将恒等跳跃连接视为防止梯度消失的微积分技巧。',
+h_use:'仍然成立与边界所在',
+use:'梯度解释依然成立：恒等项将上游梯度 <b>∂L/∂yₗ₊₁</b> 直接跨过加法节点。在局部回路闭合的已编译区段内，执行流无需人工微观干预即可沿主干推进。主干保存初始切分 <b>y₀</b> 的痕迹，却不能发起 <b>y₀</b>，也无法自行<span class=nw>裁决公理分歧（<b>挂起</b>）。</span>'}};
+const lang=new URLSearchParams(location.search).get('lang')==='zh'?'zh':'en',W=S[lang];
+const SUB={'ₗ':'l','₊':'+','₁':'1','₂':'2','₀':'0'};for(const k in W)W[k]=W[k].replace(/[ₗ₊₁₂₀]+/g,m=>'<sub>'+[...m].map(c=>SUB[c]).join('')+'</sub>');
+document.documentElement.lang=lang;document.body.classList.toggle('zh',lang==='zh');
+for(const el of document.querySelectorAll('[data-k]'))el.innerHTML=W[el.dataset.k];
+['k1','k2','k3','k4','k5','k6','k7'].forEach((id,i)=>document.querySelector(`#${id} h3`).insertAdjacentHTML('afterbegin',`<span class="num">${i+1}</span>`));
+const pt=(id,[fx,fy])=>{const r=document.getElementById(id).getBoundingClientRect();return[r.left+fx*r.width,r.top+fy*r.height]};
+const tie=(a,b)=>`<path d="M${a[0].toFixed(0)} ${a[1].toFixed(0)}L${b[0]} ${b[1]}"/><circle cx="${b[0]}" cy="${b[1]}" r="4" fill="#fff6dc" stroke="#0b0f18" stroke-dasharray="none"/>`;
+let h='';
+h+=tie(pt('k1',[1,0.45]),[350,330]);   // the charred plain stack
+h+=tie([522,752],[522,546]);           // the gold beam, through the gap between kintsugi blocks and shavings
+h+=tie(pt('k2',[0.12,0]),[440,700]);   // a kintsugi block hung from the beam: the bounded differential
+h+=tie(pt('k3',[0.6,0]),[226,608]);    // the wooden loop
+h+=tie([640,752],[612,636]);           // the falling shavings
+h+=tie(pt('k5',[0.1,0]),[722,738]);    // the twin green loops
+h+=tie(pt('k6',[0.45,0]),[893,544]);   // the quartz
+h+=tie(pt('k7',[0,0.8]),[656,410]);    // the hands under the pagoda
+document.getElementById('leads').innerHTML=h;
+</script></body></html>

@@ -758,6 +758,38 @@
     "processed": "2026-10-26T17:25:47.006Z",
     "playlist": "PLGrxskF8JnDo"
    }
+  },
+  "dynamic-resnet-of-skill-loops": {
+   "en": {
+    "id": "wsUIdZabBqI",
+    "url": "https://youtu.be/wsUIdZabBqI",
+    "title": "Modular Feedback Loops and Dynamic Residual Networks",
+    "privacy": "public",
+    "uploaded": "2026-10-26T21:11:17.754Z",
+    "file": "studio/post/dynamic-resnet-of-skill-loops/final/film/film.en.mp4",
+    "sha256": {
+     "film": "f15be2e866532ea831f44f71ba8533fdb03c1663d4ddc8c5f1b08be747ec1130",
+     "intro": "3482deccd5128f1c379bf59d7c150adae70483e83bda31b79f8b33741180aa3b"
+    },
+    "status": "processed",
+    "processed": "2026-10-26T21:18:02.474Z",
+    "playlist": "PLMyi7vp2KMyA"
+   },
+   "zh": {
+    "id": "SDZgrJr9m_k",
+    "url": "https://youtu.be/SDZgrJr9m_k",
+    "title": "模块化反馈回路与动态残差网络",
+    "privacy": "public",
+    "uploaded": "2026-10-26T21:23:54.809Z",
+    "file": "studio/post/dynamic-resnet-of-skill-loops/final/film/film.zh.mp4",
+    "sha256": {
+     "film": "164eb43fb49ffa40d1984aa5b9698046ec39af9f0bb1e8f257f2712f2920353b",
+     "intro": "2ab5f5779c78d5e814bb9ca0ceac98658a76d05f4d7eb405790e3bc0864b9336"
+    },
+    "status": "processed",
+    "processed": "2026-10-26T21:24:47.764Z",
+    "playlist": "PLGrxskF8JnDo"
+   }
   }
  }
 }
