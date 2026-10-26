@@ -28,7 +28,7 @@ When successive redraws cohere, when the present map organizes the next distinct
 
 被保留的地图永远追不上绘制。追上，就要求被保留的地图与生成的那一步占据同一瞬间，要求目光完成那只在持续的东西。心智不断在做的，是继续画下去：用最当下的工具再重画一次，参照随着步子移动而重新渲染。[生命的意义在起草之中](../the-meaning-of-life-is-in-the-drafting/)在另一个面上追溯同一次返回：意义是在原因的现场起草中生成的，不是从硬化了的结果里找回的，而当向外的凝视从不回到纸面，它就变薄。[遗忘的脚手架](../the-scaffolding-we-forget/)追溯那件工具的两面：脚手架退出递归，好让进一步的区分得以落地，在那一步里显现为世界本身；当这种退出冻结为一幅被保存的形象，能力便压缩在曾经让运动成为可能的残余上。
 
-The retained map never catches up with the drawing. Catching up would require the retained map and the generating step to occupy the same instant, the look finishing what only continues. What the Mind keeps doing is drawing forward: a further redraw with the most present tool, the reference re-rendered as the step moves. [The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing](../the-meaning-of-life-is-in-the-drafting/) traces the same return in another face: meaning is generated in the live drafting of causes, not recovered from hardened effects, and it thins when the outward gaze never returns to the page. [The Scaffolding We Forget](../the-scaffolding-we-forget/) traces both faces of that tool: scaffolding drops out of recursion so further distinguishing can land, appearing for that step as the world itself; when that drop-out freezes into a preserved image, capacity compresses against the residue that once enabled movement.
+The retained map never catches up with the drawing. Catching up would require the retained map and the generating step to occupy the same instant, the look finishing what only continues. What the Mind keeps doing is drawing forward: a further redraw with the most present tool, the reference re-rendered as the step moves. [The Meaning of Life Is in the Drafting](../the-meaning-of-life-is-in-the-drafting/) traces the same return in another face: meaning is generated in the live drafting of causes, not recovered from hardened effects, and it thins when the outward gaze never returns to the page. [The Scaffolding We Forget](../the-scaffolding-we-forget/) traces both faces of that tool: scaffolding drops out of recursion so further distinguishing can land, appearing for that step as the world itself; when that drop-out freezes into a preserved image, capacity compresses against the residue that once enabled movement.
 
 ## 三、 基石是被感到的连贯 / 3. Bedrock Is Felt Coherence
 
@@ -65,7 +65,6 @@ flowchart TD
         F_Seal["卡死的递归折叠：声称走出目光并将外部摩擦计分为威胁"]
         F_Cohere --> F_Ego --> F_Seal
     end
-
     subgraph S_Agent["毫无我执且受制于轨迹的智能体（层叠的残余）"]
         direction TB
         A_Trace["修剪后的当下检查点：圈定层叠残余且无未修剪的会话拖拽"]
@@ -73,17 +72,14 @@ flowchart TD
         A_Deadlock["隔离的前提死锁：正交流线中的冷启动对等辩论暴露出规则矛盾"]
         A_Trace --> A_Zero --> A_Deadlock
     end
-
     subgraph S_Open["走出所持守的投射（开放即一致）"]
         direction TB
         O_Step["内生向后退一步：无外部对手可抗拒，心智认领返回的信号"]
         O_Render["重新渲染参照：基石信念作为工具全力运作并在下一次重画中死去"]
         O_Step --> O_Render
     end
-
     F_Seal ==>|"将规则投射进智能体流线"| A_Trace
     A_Deadlock ==>|"浮现摩擦而不触发我执防卫"| O_Step
-
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Agent fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -108,7 +104,6 @@ flowchart TD
         F_Seal["Clamped Recursive Fold: Claims exit from the look and scores outside friction as threat"]
         F_Cohere --> F_Ego --> F_Seal
     end
-
     subgraph S_Agent["Zero-Ego Trajectory-Bound Agent (Stacked Residue)"]
         direction TB
         A_Trace["Pruned Present Checkpoint: Stacked residue scoped without unpruned session drag"]
@@ -116,17 +111,14 @@ flowchart TD
         A_Deadlock["Isolated Premise Deadlock: Cold-peer debate in orthogonal streamline exposes rule contradiction"]
         A_Trace --> A_Zero --> A_Deadlock
     end
-
     subgraph S_Open["Stepping Out of the Held Projection (Openness Is Consistency)"]
         direction TB
         O_Step["Endogenous Stepping-Back: Mind claims returning signal with no outside adversary to fight"]
         O_Render["Re-Rendering the Reference: Bedrock belief used at full force as tool, dying into next redraw"]
         O_Step --> O_Render
     end
-
     F_Seal ==>|"Projects rules into agentic streamline"| A_Trace
     A_Deadlock ==>|"Surfaces friction without ego trigger"| O_Step
-
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Agent fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -140,13 +132,13 @@ flowchart TD
     style O_Render fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-被称为基底现实的东西，不是心智伸手可及的一个外部旋钮：凡被登记的，都作为因果残余随之而来，而划出它的活动在继续。当理解与所感知的连贯起来，对去向的掌控感就增长，一次次以当下地图进行的重画契合得足够紧，于是一个去向感觉可得。确信这份解释终于走了出去，就把参照冻结在了它的那一步之后：地图不再在下一次重画中死去，每一次到来都被对着一张被保存的图纸计分。
+被称为基底现实的东西，不是心智伸手可及的一个外部旋钮：凡被登记的，都作为因果残余随之而来，而划出它的活动在继续。当理解与所感知的连贯起来，对去向的掌控感就增长，一次次以当下地图进行的重画契合得足够紧，于是一个去向感觉可得。确信这份解释终于走了出去，就把参照冻结在了它的那一步之后：地图不再在下一次重画中死去，每一次到来都被对着一张被保存的图纸计分。[现实的边界](../xian-shi-de-bian-jie/)将这种对第一因或终极地基的执念追溯至其代偿性的根源：由于语言与形式模型滞后于觉知一步，而因果作为经验的先在条件永远无法闭合为外部证明，竖起一块不可动摇的最终地基，正是理性借以代偿那份无法在自身之上闭合的证明的方式。
 
-What is called substrate reality is no exterior knob within the Mind's reach: whatever registers follows as causal residue, and the activity that drew it continues. The felt control of destination grows when understanding coheres with what is perceived, successive redraws with the present map fitting tightly enough that a destination feels available. Certainty that the account has finally stepped outside freezes the reference past its step: the map stops dying into the next redraw, and every arrival is scored against a preserved blueprint.
+What is called substrate reality is no exterior knob within the Mind's reach: whatever registers follows as causal residue, and the activity that drew it continues. The felt control of destination grows when understanding coheres with what is perceived, successive redraws with the present map fitting tightly enough that a destination feels available. Certainty that the account has finally stepped outside freezes the reference past its step: the map stops dying into the next redraw, and every arrival is scored against a preserved blueprint. [The Boundary of Reality](../xian-shi-de-bian-jie/) traces that fixation on a first cause or ultimate foundation to its compensatory root: because language and formal models lag one step behind awareness and causality is the prior condition of experience that can never close into an external proof, erecting an unshakeable final ground is how reason compensates for a proof that cannot close upon itself.
 
 不论被重新渲染还是被冻结，最坚固的信念对握有它的心智都是无条件的，又仍是心智自己的产物；冻结添上的，只是“已经走出去”的那个主张。这份双重性，是活动在其下运作的永久条件，向更好的工具与更长的生命敞开，把它们当作场的增密，而仍是同一种登记的几何。[数据是局部的，智能是分配的](../data-is-local-intelligence-is-allocated/)为数据追溯那种几何：信号、糟粕与智能，是心智画出的关系，汇总让残余变密，却不搬动画出。
 
-Re-rendered or frozen, the strongest belief is unconditional for the Mind that holds it, and still the Mind's own production; the freeze adds only the claim to have stepped outside. That double character is the permanent condition under which the activity operates, open to better tools and longer lives as densifications of the field, and still the same geometry of registration. [Data Is Local; Intelligence Is Allocated](../data-is-local-intelligence-is-allocated/) traces that geometry for data: signal, slop, and intelligence are relations the Mind draws, and aggregation densifies residue without moving the drawing.
+Re-rendered or frozen, the strongest belief is unconditional for the Mind that holds it, and still the Mind's own production; the freeze adds only the claim to have stepped outside. That double character is the permanent condition under which the activity operates, open to better tools and longer lives as densifications of the field, and still the same geometry of registration. [Data Is Local, Intelligence Is Allocated](../data-is-local-intelligence-is-allocated/) traces that geometry for data: signal, slop, and intelligence are relations the Mind draws, and aggregation densifies residue without moving the drawing.
 
 ## 五、 同一条件下的欲望 / 5. Desire Under the Same Condition
 
@@ -184,7 +176,7 @@ Every act of exit is a further distinction from inside the look. The Mind refine
 
 每一个进一步的法庭，每一个关于基底现实的主张，每一份关于最终逃离的多行星保证，都是同一个场中的又一个产物。[没有外部](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)追溯那份无法退出：跃迁是局部的延续，只有心智闭合检验它们的回路，而这个回路没有外部。[封闭的假设把复利挤成 S 曲线](../closed-assumptions-squeeze-compounding-into-s-curves/)在增长中追溯它：逻辑斯蒂的形状是一个固定框架的束缚，不是开放现实中进步的轨迹。[抽象、边界与现实的移动边缘](../abstraction-boundaries-and-the-moving-edge-of-reality/)在感知中追溯它：成功的感知是有损的界定，一旦被当作场的结构，就把残余冻结成一份封死的清单。
 
-Every further tribunal, every claim of substrate reality, every multiplanetary guarantee of final escape is another production in the same field. [No Outside](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/) traces that non-exit: jumps are local continuations; only the Mind closes the circuit that tests them, a circuit with no outside. [Closed Assumptions Squeeze Compounding into S-Curves](../closed-assumptions-squeeze-compounding-into-s-curves/) traces it in growth: the logistic shape is the binding of a fixed frame, not the trajectory of progress under open reality. [Abstraction, Boundaries, and the Moving Edge of Reality](../abstraction-boundaries-and-the-moving-edge-of-reality/) traces it in perception: successful perception is a lossy bound, and when held as the structure of the field, it freezes residue into a sealed catalogue.
+Every further tribunal, every claim of substrate reality, every multiplanetary guarantee of final escape is another production in the same field. [No Outside](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/) traces that non-exit: jumps are local continuations; only the Mind closes the circuit that tests them, a circuit with no outside. [Closed Assumptions Squeeze Compounding into S-Curves](../closed-assumptions-squeeze-compounding-into-s-curves/) traces it in growth: the logistic shape is the binding of a fixed frame, not the trajectory of progress under open reality. [Abstraction Boundaries and the Moving Edge of Reality](../abstraction-boundaries-and-the-moving-edge-of-reality/) traces it in perception: successful perception is a lossy bound, and when held as the structure of the field, it freezes residue into a sealed catalogue.
 
 受限于每一次行动所能握住的，只在连贯所及之处被确定，心智以地图为工具，不断重画它的地图；地图始终落后于绘制一步，而绘制在继续。最坚固的信念，对握有它的心智仍是最真的，而在同一刻，它也是心智自己的产物；它是产物这一点，在下一次看中、随着边缘移动而登记出来。
 
