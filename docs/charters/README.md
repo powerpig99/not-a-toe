@@ -7,9 +7,9 @@ One file per role holds that role's charter, the text a runtime loads into a fre
 
 Tool words each adapter maps: **the ontological-clarity skill** (the house-rule file as its runtime reaches it), **web search** and **URL fetch** (open-internet tools), **reading the image files directly** (a multimodal file read of a rendered still or contact sheet), and **routed by the Dispatcher** (the runtime's way of sending a debate turn to a running role).
 
-## Essay pipeline (plan §3, §4.5)
+## Essay pipeline (plan §3, §4.3, §4.5)
 
-- [`drafter`](drafter.md), [`critic`](critic.md), [`translator`](translator.md), [`stylist`](stylist.md), [`recap`](recap.md)
+- [`drafter`](drafter.md), [`critic`](critic.md), [`translator`](translator.md), [`stylist`](stylist.md), [`recap`](recap.md), [`batch-dispatcher`](batch-dispatcher.md)
 
 ## Orthogonal Planning Cycle (plan §6)
 
