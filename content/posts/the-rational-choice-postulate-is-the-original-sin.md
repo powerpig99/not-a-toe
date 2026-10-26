@@ -8,13 +8,13 @@ Economic phenomena originate solely in individual choices, each a discrete act u
 
 ## 一、 私人前提下的选择是唯一的自变量 / 1. Choice Under Private Premises Is the Sole Independent Variable
 
-自我区分的活动发生着，无因，不息。称之为心智：已在进行中的观察者，它的每一个行动都是一次区分。经济学称为选择的，是一个所在上的这种行动：这一个行动，然后下一个，处在一个已被先前行动定型的场中。前提是这一行动所保留的参照：什么排为有价值，什么算作已知，什么被预期随之而来。前提在充当一件器具的那一刻，是一步之前的参照。它们或重新渲染，或冻结；它们从不以一份现成的公共存量到来：既不为所有行动者共享，也不在同一行动者相继的全部行动中保持稳定。
+自我区分的活动发生着，无因，不息。称之为心智：已在进行中的观察者，它的每一个行动都是一次区分。经济学称为选择的，是个体心智中的这一行动：这一个行动，然后下一个，处在一个已被先前行动定型的场中。前提是这一行动所保留的参照：什么排为有价值，什么算作已知，什么被预期随之而来。前提在充当一件器具的那一刻，是一步之前的参照。它们或重新渲染，或冻结；它们从不以一份现成的公共存量到来：既不为所有行动者共享，也不在同一行动者相继的全部行动中保持稳定。
 
-Self-distinguishing activity occurs, uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. What economics names choice is that act at one locus: this act, then the next, in a field already patterned by prior acts. Premises are the retained references of that act: what ranks as valuable, what counts as known, what is expected to follow. They are one step old at the moment they serve as an instrument. They re-render or freeze; they never arrive as a finished common stock shared by all agents or stable across all successive acts of one agent.
+Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. What economics names choice is that act in an individual mind: this act, then the next, in a field already patterned by prior acts. Premises are the retained references of that act: what ranks as valuable, what counts as known, what is expected to follow. They are one step old at the moment they serve as an instrument. They re-render or freeze; they never arrive as a finished common stock shared by all agents or stable across all successive acts of one agent.
 
-选择背后不存在别的实体。总量、价格、制度与模式，是选择相互作用后致密化的残余，可作为场供后来的行动取用，从不是生成这些选择的自变量。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)在繁荣与体制的情形中，把选择追溯为唯一的杠杆：每一个行动都是它自己的杠杆，受先前的行动塑形，不由其中任何一个发起，从不是一块共享平面上的位置；条件改变回报，它们并不执笔下一个行动。[价格是言说，理解是交易](../price-as-utterance-understanding-as-trade/)追溯市场的那一面：订单凭买卖报价在价格、数量与时机上的交汇而出清，而不是凭背后估值模型之间既成的同一性。在中心之间，只有可得之物的定型。规模并不发明一个能承载每个所在仍独自承载之物的超级中心。
+选择背后不存在别的实体。总量、价格、制度与模式，是选择相互作用后致密化的残余，可作为场供后来的行动取用，从不是生成这些选择的自变量。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)在繁荣与体制的情形中，把选择追溯为唯一的杠杆：每一个行动都是它自己的杠杆，受先前的行动塑形，不由其中任何一个发起，从不是一块共享平面上的位置；条件改变回报，它们并不执笔下一个行动。[价格是言说，理解是交易](../price-as-utterance-understanding-as-trade/)追溯市场的那一面：订单凭买卖报价在价格、数量与时机上的交汇而出清，而不是凭背后估值模型之间既成的同一性。在中心之间，只有可得之物的定型。规模并不发明一个能承载每个个体心智仍独自承载之物的超级中心。
 
-No further entity exists behind the choice. Aggregates, prices, institutions and patterns are densified residue of choices interacting, available as field for later acts, never independent variables that generate the choices. [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) traces choice as the only lever in the case of prosperity and systems: each act is its own lever, shaped by prior acts and initiated by none, never a position on a shared plane; conditions alter payoffs, and they do not author the next act. [Price as Utterance, Understanding as Trade](../price-as-utterance-understanding-as-trade/) traces the market face: orders clear by the crossing of bids and asks in price, size and timing, not by completed identity of the valuation models behind them. Between centers there is only the patterning of what is available. Scale does not invent a super-center that can carry what each locus still carries alone.
+No further entity exists behind the choice. Aggregates, prices, institutions and patterns are densified residue of choices interacting, available as field for later acts, never independent variables that generate the choices. [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) traces choice as the only lever in the case of prosperity and systems: each act is its own lever, shaped by prior acts and initiated by none, never a position on a shared plane; conditions alter payoffs, and they do not author the next act. [Price as Utterance, Understanding as Trade](../price-as-utterance-understanding-as-trade/) traces the market face: orders clear by the crossing of bids and asks in price, size and timing, not by completed identity of the valuation models behind them. Between centers there is only the patterning of what is available. Scale does not invent a super-center that can carry what each individual mind still carries alone.
 
 ## 二、 把公设持为地基，就冻结了前提无法提供的结构 / 2. Holding the Postulate as Foundation Freezes Structure the Premises Cannot Supply
 
@@ -22,19 +22,18 @@ No further entity exists behind the choice. Aggregates, prices, institutions and
 
 The rational choice postulate asserts that agents choose consistently so as to maximize a preference ordering under given constraints, and that this structure of consistency can serve as foundation for deriving market outcomes, equilibrium relations and policy prescriptions. Consistency here is not merely local coherence at the instant of choice. It is treated as stable enough, shared enough or representative enough to license aggregation and prediction.
 
-生成性的事实，即私人的、暂时的前提之下的选择，恰恰禁止这一许可。因为一个心智排序的方式本身就在它的前提之中，而前提在单个心智之内变动、在不同心智之间相异，所以公设所要求的形式结构，无法作为一种跨越行动者与时间而稳定、共享或有代表性的属性来维持。受约束的最大化是一条在固定坐标之上运行的封闭推演轨迹；只有当偏好次序与约束条件已被投射并封存之后，它才能运行。相反，活的心智并不被锁在先前排序的轨迹之内：当物质或市场的摩擦对照被保留的参照而被登记时，选择者能够迈出破碎的框架，重新渲染前提本身。这一冻结是理论家器具上的形象滞后：一个有限的形式投射被保留，越过了前提实际运作与修订的那一步，于是私人的暂时性被登记为围绕一个坚实微观基础的噪声，而不是生成之场本身。软化为“近似一致”或“平均而言一致”，就晚一步重新安装了同一个要求：装置要迁移，仍需要一份剩余的齐一。
+生成性的事实，即私人的、暂时的前提之下的选择，恰恰禁止这一许可。因为一个心智排序的方式本身就在它的前提之中，而前提在单个心智之内变动、在不同心智之间相异，所以公设所要求的形式结构，无法作为一种跨越行动者与时间而稳定、共享或有代表性的属性来维持。受约束的最大化是一条在固定坐标之上运行的封闭推演轨迹；只有当偏好次序与约束条件已被投射并封存之后，它才能运行，把纸面上的选择简化为对那些坐标之中本已隐含的最大值作零成本的读取。相反，在实际的经济行动中，每一次选择都是对有限的时间、资本或精力所作的不可逆投入，必须承受物质与市场的摩擦；当亲历的后果偏离被保留的参照时，作出选择的心智并不被锁在先前排序的轨迹之内，而能够迈出破碎的框架，重新渲染前提本身。这一冻结是理论家器具上的滞后：一个有限的形式投射被保留，越过了前提实际运作与修订的那一步，于是私人的暂时性被登记为围绕一个坚实微观基础的噪声，而不是生成之场本身。软化为“近似一致”或“平均而言一致”，就晚一步重新安装了同一个要求：装置要迁移，仍需要一份剩余的齐一。
 
 ```mermaid
 flowchart TD
     subgraph S_Open["活的心智：开放的前提修订与离散选择"]
         direction TB
-        O_Edge["自我区分的活动：无因、不息的局部选择"]
+        O_Edge["自我区分的活动：无因、不息的个体选择"]
         O_Prem["私人而暂时的前提：被保留的价值、知识与预期参照"]
         O_Step["内生的框架重置：迈出破碎的排序，重新渲染前提"]
         O_Trace["公共的市场残余：留下的出清成交、价格与总量"]
         O_Edge --> O_Prem --> O_Step --> O_Trace
     end
-
     subgraph S_Closed["理性选择公设：把封闭轨迹持为地基"]
         direction TB
         C_Freeze["地基性的冻结：偏好次序与约束被封存为给定坐标"]
@@ -43,10 +42,8 @@ flowchart TD
         C_Mis["被继承的错配：优雅的事后拟合伴随系统性的预见失效"]
         C_Freeze --> C_Opt --> C_Avg --> C_Mis
     end
-
     O_Prem -.->|"豁免于修订并被冻结为齐一"| C_Freeze
     C_Mis ==>|"释放作为地基的公设，回归回顾性器具"| O_Step
-
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Closed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style O_Edge fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -59,19 +56,18 @@ flowchart TD
     style C_Mis fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-The generating fact, choice under private, provisional premises, forbids exactly that license. Because the way a mind ranks is itself among its premises, and premises shift within a single mind and differ across minds, the formal structure the postulate requires cannot be maintained as a stable, shared or representative property across agents and time. Constrained maximization is a closed deductive trajectory over fixed coordinates; it can run only after the preference ordering and constraints have been projected and sealed. The living Mind, by contrast, is not locked inside the trajectory of its prior rankings: when physical or market friction registers against a retained reference, the chooser can step outside the broken frame and re-render the premise itself. The freeze is Image lag on the theorist's instrument: a finite formal projection retained past the step at which premises actually operate and revise, so that private provisionality registers as noise around a solid micro-foundation rather than as the generative field itself. Softening into “approximately consistent” or “consistent on average” reinstalls the same demand one step later: a residual uniformity still required for the apparatus to travel.
+The generating fact, choice under private, provisional premises, forbids exactly that license. Because the way a mind ranks is itself among its premises, and premises shift within a single mind and differ across minds, the formal structure the postulate requires cannot be maintained as a stable, shared or representative property across agents and time. Constrained maximization is a closed deductive trajectory over fixed coordinates; it can run only after the preference ordering and constraints have been projected and sealed, reducing choice on paper to a zero-cost reading of the maximum already implicit in those coordinates. In living economic action, by contrast, every choice is an irreversible commitment of finite time, capital, or effort that absorbs physical and market friction; when the lived consequence diverges from a retained reference, the choosing mind is not locked inside the trajectory of its prior rankings, and can step outside the broken frame to re-render the premise itself. The freeze is a lag in the theorist's instrument: a finite formal projection retained past the step at which premises actually operate and revise, so that private provisionality registers as noise around a solid micro-foundation rather than as the generative field itself. Softening into “approximately consistent” or “consistent on average” reinstalls the same demand one step later: a residual uniformity still required for the apparatus to travel.
 
 ```mermaid
 flowchart TD
     subgraph S_Open["Living Mind: Open Premise Revision and Discrete Choice"]
         direction TB
-        O_Edge["Self-Distinguishing Activity: Uncaused, unceasing choice at one locus"]
+        O_Edge["Self-Distinguishing Activity: Uncaused, unceasing individual choice"]
         O_Prem["Private, Provisional Premises: Retained references of value, knowledge, and expectation"]
         O_Step["Endogenous Frame Reset: Stepping outside a broken ranking to re-render the premise"]
         O_Trace["Public Market Residue: Clearing prints, prices, and aggregates left behind"]
         O_Edge --> O_Prem --> O_Step --> O_Trace
     end
-
     subgraph S_Closed["Rational Choice Postulate: Closed Trajectory Held as Ground"]
         direction TB
         C_Freeze["Foundational Freeze: Preference ordering and constraints sealed as given coordinates"]
@@ -80,10 +76,8 @@ flowchart TD
         C_Mis["Inherited Mismatch: Elegant post-hoc fit alongside systematic failure of foresight"]
         C_Freeze --> C_Opt --> C_Avg --> C_Mis
     end
-
     O_Prem -.->|"Exempted from revision and frozen as uniform"| C_Freeze
     C_Mis ==>|"Postulate released back to retrospective instrument"| O_Step
-
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Closed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style O_Edge fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -140,9 +134,9 @@ Prescription and prediction, by contrast, require the premises to remain stable 
 
 Institutions and aggregates are not therefore irrelevant. They pattern the field of payoffs and constraints in which subsequent choices are made. Yet they remain effects, continually re-created or eroded by the choices they constrain. To treat them as quasi-independent variables that interact among themselves is to reverse the order of dependence that choice under private premises establishes.
 
-持有理性选择公设的理论家促成并正当化了这一颠倒：凭着一个看似坚实的一致最大化微观基础，他们迅速转向研究结果之间的均衡关系，同时把选择的生成过程当作已经定下。[主权、信念与规制结构的生成](../sovereignty-belief-and-regulatory-structures/)在两道门（自律组织与政府）的情形中追溯这一颠倒：个体主权从不真正被转移；许多中心表达“主权可以被委托”的信念，直到这一信念硬化为程序，而后果仍留在作出选择的那些所在。[公共支出不创造资本](../public-spending-does-not-create-capital/)在投资的情形中追溯同一种颠倒：公共账本把再配置冻结为创造，而发起留在上行与下行仍然落下的地方。[协调者的范畴错误](../the-coordinators-category-error/)追溯这样的情形：一份致密化的共享记录被持为下一次同意的共同作者。[能动性被转置入形式模型](../agency-relocated-into-the-formal-model/)追溯教学的那一面：对装置的掌握被当作能动性的延伸提供出来，而自变量仍留在选择那里。每一种情形中，冻结都是同一种：结果被审视，仿佛它们无需私人前提之下离散选择的持续再入，就能执笔更多的结果。
+持有理性选择公设的理论家促成并正当化了这一颠倒：凭着一个看似坚实的一致最大化微观基础，他们迅速转向研究结果之间的均衡关系，同时把选择的生成过程当作已经定下。[主权、信念与规制结构的生成](../sovereignty-belief-and-regulatory-structures/)在两道门（自律组织与政府）的情形中追溯这一颠倒：个体主权从不真正被转移；许多中心表达“主权可以被委托”的信念，直到这一信念硬化为程序，而后果仍留在作出选择的个体那里。[公共支出不创造资本](../public-spending-does-not-create-capital/)在投资的情形中追溯同一种颠倒：公共账本把再配置冻结为创造，而发起留在上行与下行仍然落下的地方。[协调者的范畴错误](../the-coordinators-category-error/)追溯这样的情形：一份致密化的共享记录被持为下一次同意的共同作者。[能动性被转置入形式模型](../agency-relocated-into-the-formal-model/)追溯教学的那一面：对装置的掌握被当作能动性的延伸提供出来，而自变量仍留在选择那里。每一种情形中，冻结都是同一种：结果被审视，仿佛它们无需私人前提之下离散选择的持续再入，就能执笔更多的结果。
 
-Theorists who hold the rational choice postulate enable and legitimate that reversal: with an apparently solid micro-foundation of consistent maximization, they move rapidly to the study of equilibrium relations among effects while treating the generative process of choice as already settled. [Sovereignty, Belief, and the Generation of Regulatory Structures](../sovereignty-belief-and-regulatory-structures/) traces that reversal in the case of the two gates, the self-regulatory organization and the government: individual sovereignty is never actually transferred; many centers express the belief that it can be delegated until that belief hardens into procedure, while consequences stay with the choosing loci. [Public Spending Does Not Create Capital](../public-spending-does-not-create-capital/) traces the same reversal in the case of investment: the public ledger freezes reallocation as creation while initiation stays where upside and downside still land. [The Coordinator’s Category Error](../the-coordinators-category-error/) traces a densified shared record held as co-author of the next assent. [Agency Relocated into the Formal Model](../agency-relocated-into-the-formal-model/) traces the pedagogical face: mastery of the apparatus offered as the extension of agency while the independent variable stays with the choice. In each case the freeze is the same: effects surveyed as if they could author further effects without continuous re-entry of discrete choice under private premises.
+Theorists who hold the rational choice postulate enable and legitimate that reversal: with an apparently solid micro-foundation of consistent maximization, they move rapidly to the study of equilibrium relations among effects while treating the generative process of choice as already settled. [Sovereignty, Belief, and the Generation of Regulatory Structures](../sovereignty-belief-and-regulatory-structures/) traces that reversal in the case of the two gates, the self-regulatory organization and the government: individual sovereignty is never actually transferred; many centers express the belief that it can be delegated until that belief hardens into procedure, while consequences stay with the individuals who choose. [Public Spending Does Not Create Capital](../public-spending-does-not-create-capital/) traces the same reversal in the case of investment: the public ledger freezes reallocation as creation while initiation stays where upside and downside still land. [The Coordinator's Category Error](../the-coordinators-category-error/) traces a densified shared record held as co-author of the next assent. [Agency Relocated into the Formal Model](../agency-relocated-into-the-formal-model/) traces the pedagogical face: mastery of the apparatus offered as the extension of agency while the independent variable stays with the choice. In each case the freeze is the same: effects surveyed as if they could author further effects without continuous re-entry of discrete choice under private premises.
 
 ## 七、 行为与生态的补丁保全了冻结 / 7. Behavioral and Ecological Patches Preserve the Freeze
 
@@ -152,7 +146,7 @@ Refinements that introduce behavioral or ecological layers do not escape this st
 
 这些补丁与一般公设一样，仍忽略唯一的自变量：私人而变动的前提之下的个体选择，它是仍在进行中的生成引擎。通过扩大可接受重构的集合、把理性定义为对特定环境的适应，或把选择嵌入共享的规则，它们拓宽了已成型的模式之中能被计为“理性”的范围。关于环境或制度背景的共享假设被径直插入，好让形式装置能够再次被应用。至于那项地基性的要求，即一致性、稳定性与主体间齐一须足以许可加总与向前应用，则原封未动。为这类改进颁奖或引用它们的人，若是因其对过去集体残余的拟合而认可它们，这份认可便不是对原初错误的释放。[重新审视反脆弱](../a-new-deeper-look-at-antifragility/)在无序中追溯一个相邻的情形：统计的假肢在被保全的坐标之内管理症状，而坐标本身保持豁免。[基准刷榜中的封闭实存](../closed-reality-in-benchmark-maxing/)在测量的情形中追溯一种被保全的握持：残差在一套封闭的测试集上被压到零，而开放负荷之下的残差在扩大。
 
-The patches still ignore the only independent variable, individual choice under private, shifting premises as the generative engine still underway, just as the general postulate does. By enlarging the set of admissible reconstructions, by defining rationality as fitness to a particular environment, or by embedding choice within shared rules, they expand the range of already-materialized patterns that can be scored as “rational.” Shared assumptions about the environment or the institutional setting are simply inserted so that the formal apparatus can again be applied. The foundational demand for enough consistency, stability and intersubjective uniformity to license aggregation and forward application remains untouched. Where those who award or cite such refinements recognize them for their fit to past collective residue, that recognition is not a release of the original error. [A New Deeper Look at Antifragility: Prosthesis, Not Driver](../a-new-deeper-look-at-antifragility/) traces an adjacent case in disorder: statistical prosthesis that manages symptoms inside preserved coordinates while the coordinates themselves stay exempt. [Closed Reality in Benchmark Maxing](../closed-reality-in-benchmark-maxing/) traces a preserved hold in the case of measurement: residual driven to zero on a sealed suite while residual under open load widens.
+The patches still ignore the only independent variable, individual choice under private, shifting premises as the generative engine still underway, just as the general postulate does. By enlarging the set of admissible reconstructions, by defining rationality as fitness to a particular environment, or by embedding choice within shared rules, they expand the range of already-materialized patterns that can be scored as “rational.” Shared assumptions about the environment or the institutional setting are simply inserted so that the formal apparatus can again be applied. The foundational demand for enough consistency, stability and intersubjective uniformity to license aggregation and forward application remains untouched. Where those who award or cite such refinements recognize them for their fit to past collective residue, that recognition is not a release of the original error. [A New Deeper Look at Antifragility](../a-new-deeper-look-at-antifragility/) traces an adjacent case in disorder: statistical prosthesis that manages symptoms inside preserved coordinates while the coordinates themselves stay exempt. [Closed Reality in Benchmark Maxing](../closed-reality-in-benchmark-maxing/) traces a preserved hold in the case of measurement: residual driven to zero on a sealed suite while residual under open load widens.
 
 若“会长演讲”或“诺贝尔”这样的头衔被当作接受公设的理由，下一步便取自那些已把装置当作地基的中心之间致密化的共振，而不是取自对前提的审视。声望不是对“私人前提能否提供装置所要求之物”的第二次检验。[验证中因果权能的分配](../the-allocation-of-causal-power-in-validation/)追踪下一步取自何处：是取自心智自己对前提的审视，还是取自被标记为外部的回应，例如声望。
 
