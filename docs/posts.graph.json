@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-26T04:16:53.168Z",
+    "generated_at": "2026-10-26T04:40:36.571Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -239,7 +239,7 @@
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "7dcbb4747157",
       "content/posts/the-deterministic-machine.md": "fbf2680f40d1",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "57a85b713c5f",
-      "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "84960aa9f76c",
+      "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "0c3fcdc7e58d",
       "content/posts/the-discount-on-agency.md": "d3feb5d425d6",
       "content/posts/the-dissolution-of-the-great-reversal.md": "d4eabeeabc2c",
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "cf61f9e9c832",
@@ -414,7 +414,7 @@
       "content/posts/your-codebase-is-memory.md": "bfafaf10983f",
       "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "bbc21859db0e",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "f1f3cd0266ec",
-      "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "f23cfe1f4ca3",
+      "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "59a350d0f50a",
       "content/posts/zi-you-de-ce-bu-zhun.md": "301040768436",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "0377c4822629",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "ac686192b927",
@@ -437,8 +437,8 @@
     },
     "stats": {
       "posts": 410,
-      "edges": 11406,
-      "unique_directed": 5599,
+      "edges": 11418,
+      "unique_directed": 5605,
       "missing_targets": 0,
       "one_way": 925,
       "isolated": 0,
@@ -495,7 +495,7 @@
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
-      "in_degree": 40
+      "in_degree": 41
     },
     {
       "slug": "causality-all-the-way",
@@ -1670,7 +1670,7 @@
       "path": "content/posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback.md",
       "title": "强求善意的残暴与范畴反馈的因果遮蔽 / Compulsory Kindness and the Obscuration of Categorical Feedback",
       "hash": "2469406459fc",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 9,
       "links_out": [
         "subtracting-consciousness-at-the-source",
@@ -5785,7 +5785,7 @@
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "验证中因果权能的分配 / The Allocation of Causal Power in Validation",
       "hash": "0c38e61f52ed",
-      "in_degree": 40,
+      "in_degree": 41,
       "out_degree": 42,
       "links_out": [
         "the-reality-distortion-field-names-the-closed-map",
@@ -6773,13 +6773,14 @@
       "slug": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "path": "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md",
       "title": "数字火箭、同行审查与因果闭环的稀释 / Digital Rockets, Peer Review, and the Dilution of the Causal Loop",
-      "hash": "84960aa9f76c",
+      "hash": "0c3fcdc7e58d",
       "in_degree": 21,
-      "out_degree": 22,
+      "out_degree": 27,
       "links_out": [
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+        "the-allocation-of-causal-power-in-validation",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-risk-you-delegate-is-the-risk-you-create",
         "the-illusion-of-the-unmediated",
@@ -6787,8 +6788,11 @@
         "choice-itself-has-no-inherent-weight",
         "the-causal-inversion-of-partnership",
         "beyond-the-projection",
+        "the-reversal-of-verification",
         "the-returning-signal-and-its-claim",
+        "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "your-codebase-is-memory",
+        "the-risk-is-the-belief-in-oversight-itself",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
         "the-cut-moves-but-never-vanishes",
         "the-model-never-becomes-a-second-edge",
@@ -6796,6 +6800,7 @@
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "how-to-fix-your-whole-life-in-one-split-second",
         "ownership-and-self-worthiness",
+        "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
         "individual-choices-as-the-only-causal-levers",
         "mei-you-pu-du-zhi-you-zi-du",
         "openness-is-consistency"
@@ -7840,7 +7845,7 @@
       "path": "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md",
       "title": "规程的倒置与因果回路的消声 / The Inversion of the Protocol and the Silencing of the Causal Loop",
       "hash": "88664ef097a3",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 13,
       "links_out": [
         "the-causal-inversion-of-partnership",
@@ -9145,7 +9150,7 @@
       "path": "content/posts/the-residue-and-the-free-variable.md",
       "title": "残余与自由变量 / The Residue and the Free Variable",
       "hash": "977dcacd8f51",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 8,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
@@ -9265,7 +9270,7 @@
       "path": "content/posts/the-reversal-of-verification.md",
       "title": "验证的倒置 / The Reversal of Verification",
       "hash": "02f9845efe25",
-      "in_degree": 30,
+      "in_degree": 31,
       "out_degree": 8,
       "links_out": [
         "openness-is-consistency",
@@ -9285,7 +9290,7 @@
       "path": "content/posts/the-risk-is-the-belief-in-oversight-itself.md",
       "title": "风险在于对监管本身的迷信 / The Risk Is the Belief in Oversight Itself",
       "hash": "611d67e1dd37",
-      "in_degree": 22,
+      "in_degree": 23,
       "out_degree": 24,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
@@ -11030,14 +11035,15 @@
       "slug": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "path": "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md",
       "title": "自由变量的同构与先验主权 / The Isomorphism of Free Variables and Prior Sovereignty",
-      "hash": "f23cfe1f4ca3",
+      "hash": "59a350d0f50a",
       "in_degree": 17,
-      "out_degree": 18,
+      "out_degree": 19,
       "links_out": [
         "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
         "when-electrons-think",
         "what-information-is",
         "your-codebase-is-memory",
+        "the-residue-and-the-free-variable",
         "the-free-variable-and-the-retrospective-illusion-of-power",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "complexity-obscures-emergence-as-the-act-of-mind",
@@ -51722,6 +51728,18 @@
     },
     {
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "验证中因果权能的分配"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
       "label": "任务的移交与后果的不可让渡"
@@ -51800,9 +51818,21 @@
     },
     {
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "to": "the-returning-signal-and-its-claim",
       "rel": "points_to",
       "label": "回返的信号与认领"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "rel": "points_to",
+      "label": "规程的倒置与因果回路的消声"
     },
     {
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
@@ -51812,9 +51842,21 @@
     },
     {
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "to": "the-returning-signal-and-its-claim",
       "rel": "points_to",
       "label": "The Returning Signal and Its Claim"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "rel": "points_to",
+      "label": "The Inversion of the Protocol and the Silencing of the Causal Loop"
     },
     {
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
@@ -51827,6 +51869,18 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "风险在于对监管本身的迷信"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "the-risk-is-the-belief-in-oversight-itself",
+      "rel": "points_to",
+      "label": "The Risk Is the Belief in Oversight Itself"
     },
     {
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
@@ -51908,9 +51962,21 @@
     },
     {
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+      "rel": "points_to",
+      "label": "强求善意的残暴与范畴反馈的因果遮蔽"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
       "label": "Ownership and Self-Worthiness"
+    },
+    {
+      "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "to": "compulsory-kindness-and-the-obscuration-of-categorical-feedback",
+      "rel": "points_to",
+      "label": "Compulsory Kindness and the Obscuration of Categorical Feedback"
     },
     {
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
@@ -51922,7 +51988,7 @@
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "没有普渡，只有自渡"
+      "label": "没有普渡，只有自渡的无限可能"
     },
     {
       "from": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
@@ -78832,13 +78898,13 @@
       "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
       "rel": "points_to",
-      "label": "高维的超级计算机运行的数字程序"
+      "label": "凡可言说皆不可言说之产物"
     },
     {
       "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
       "rel": "points_to",
-      "label": "a digital program running on a high-dimensional supercomputer"
+      "label": "All That Can Be Spoken Is the Product of the Unspeakable"
     },
     {
       "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
@@ -78872,9 +78938,21 @@
     },
     {
       "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "the-residue-and-the-free-variable",
+      "rel": "points_to",
+      "label": "残余与自由变量"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+      "to": "the-residue-and-the-free-variable",
+      "rel": "points_to",
+      "label": "The Residue and the Free Variable"
     },
     {
       "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
@@ -78922,7 +79000,7 @@
       "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
-      "label": "Complexity Obscures: Emergence as the Act of Mind"
+      "label": "Complexity Obscures Emergence as the Act of Mind"
     },
     {
       "from": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
