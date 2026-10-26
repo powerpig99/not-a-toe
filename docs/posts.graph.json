@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-26T03:54:20.621Z",
+    "generated_at": "2026-10-26T04:16:53.168Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -31,7 +31,7 @@
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "a069dfae4348",
       "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md": "335a3907a29c",
       "content/posts/causality-all-the-way.md": "08a8a20f59ec",
-      "content/posts/causality-and-the-irreducible-prior.md": "45b9935862c0",
+      "content/posts/causality-and-the-irreducible-prior.md": "a7117d5f06e9",
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "3216bed66187",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "6705615f135b",
       "content/posts/cheng-gong-xue.md": "ac78a83205fd",
@@ -402,7 +402,7 @@
       "content/posts/when-malfunction-is-scored-as-intelligence.md": "8adae7d53567",
       "content/posts/when-need-stops-being-the-measure.md": "193f5886b7bf",
       "content/posts/when-observation-becomes-performance.md": "038f9f625402",
-      "content/posts/when-the-effect-authors-the-frame.md": "f05105b5e2b1",
+      "content/posts/when-the-effect-authors-the-frame.md": "7ca85ec820ef",
       "content/posts/why-explanation-fails.md": "7983bb8f8771",
       "content/posts/why-mathematics-can-never-be-solved.md": "f43a8391575b",
       "content/posts/writing-without-the-image.md": "157f6998ee85",
@@ -1212,7 +1212,7 @@
       "slug": "causality-and-the-irreducible-prior",
       "path": "content/posts/causality-and-the-irreducible-prior.md",
       "title": "因果与不可化约的先在 / Causality and the Irreducible Prior",
-      "hash": "45b9935862c0",
+      "hash": "a7117d5f06e9",
       "in_degree": 11,
       "out_degree": 13,
       "links_out": [
@@ -10747,28 +10747,28 @@
       "slug": "when-the-effect-authors-the-frame",
       "path": "content/posts/when-the-effect-authors-the-frame.md",
       "title": "当效果主宰了框架的叙事 / When the Effect Authors the Frame",
-      "hash": "f05105b5e2b1",
+      "hash": "7ca85ec820ef",
       "in_degree": 16,
       "out_degree": 18,
       "links_out": [
         "emotional-support-as-causal-interference",
+        "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
+        "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+        "the-imagining-of-ai-risk",
         "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
         "when-need-stops-being-the-measure",
         "help-is-half-the-problem",
         "mei-you-pu-du-zhi-you-zi-du",
         "pessimism-is-the-shadow-of-optimism",
+        "symptom-and-cause-in-the-narratives-of-progress",
+        "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "the-compassion-is-the-mechanism-of-obscuration",
         "your-codebase-is-memory",
         "the-reversal-of-verification",
-        "therapy-opens-the-feedback-loop",
-        "how-belief-actually-changes",
-        "symptom-and-cause-in-the-narratives-of-progress",
-        "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
-        "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
-        "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "the-reality-distortion-field-inverts-the-baseline",
-        "the-imagining-of-ai-risk"
+        "therapy-opens-the-feedback-loop",
+        "how-belief-actually-changes"
       ]
     },
     {
@@ -77144,9 +77144,21 @@
     },
     {
       "from": "when-the-effect-authors-the-frame",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "卓异、感知与自我设限的问题场域"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
       "to": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
       "rel": "points_to",
       "label": "工时排名把充足度冻结成一张记分牌"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "财富转移政策与价格下限中的原因错置"
     },
     {
       "from": "when-the-effect-authors-the-frame",
@@ -77156,9 +77168,33 @@
     },
     {
       "from": "when-the-effect-authors-the-frame",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, Perception, and the Self-Limiting Field of Problems"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
       "to": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
       "rel": "points_to",
       "label": "The Hours Ranking Freezes Adequacy as One Scoreboard"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
+      "rel": "points_to",
+      "label": "The Misallocation of Cause in Wealth-Transfer Policies and Price Floors"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "the-imagining-of-ai-risk",
+      "rel": "points_to",
+      "label": "对 AI 风险的想象"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "the-imagining-of-ai-risk",
+      "rel": "points_to",
+      "label": "The Imagining of AI Risk"
     },
     {
       "from": "when-the-effect-authors-the-frame",
@@ -77216,6 +77252,18 @@
     },
     {
       "from": "when-the-effect-authors-the-frame",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "进步叙事中的症候与原因"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "政客是责任扩散的显性症状"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
       "to": "the-compassion-is-the-mechanism-of-obscuration",
       "rel": "points_to",
       "label": "慈悲即遮蔽的机制"
@@ -77225,6 +77273,18 @@
       "to": "pessimism-is-the-shadow-of-optimism",
       "rel": "points_to",
       "label": "Pessimism Is the Shadow of Optimism"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and Cause in the Narratives of Progress"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "Politicians Are Visible Symptoms of Responsibility Diffusion"
     },
     {
       "from": "when-the-effect-authors-the-frame",
@@ -77246,6 +77306,12 @@
     },
     {
       "from": "when-the-effect-authors-the-frame",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "现实扭曲力场颠倒了基线"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
       "to": "therapy-opens-the-feedback-loop",
       "rel": "points_to",
       "label": "疗愈打开反馈回路"
@@ -77264,6 +77330,12 @@
     },
     {
       "from": "when-the-effect-authors-the-frame",
+      "to": "the-reality-distortion-field-inverts-the-baseline",
+      "rel": "points_to",
+      "label": "The Reality Distortion Field Inverts the Baseline"
+    },
+    {
+      "from": "when-the-effect-authors-the-frame",
       "to": "therapy-opens-the-feedback-loop",
       "rel": "points_to",
       "label": "Therapy Opens the Feedback Loop"
@@ -77276,81 +77348,9 @@
     },
     {
       "from": "when-the-effect-authors-the-frame",
-      "to": "symptom-and-cause-in-the-narratives-of-progress",
-      "rel": "points_to",
-      "label": "进步叙事中的症候与原因"
-    },
-    {
-      "from": "when-the-effect-authors-the-frame",
-      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
-      "rel": "points_to",
-      "label": "政客是责任扩散的显性症状"
-    },
-    {
-      "from": "when-the-effect-authors-the-frame",
-      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
-      "rel": "points_to",
-      "label": "财富转移政策与价格下限中的原因错置"
-    },
-    {
-      "from": "when-the-effect-authors-the-frame",
-      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
-      "rel": "points_to",
-      "label": "卓异、感知与自我设限的问题场域"
-    },
-    {
-      "from": "when-the-effect-authors-the-frame",
-      "to": "the-reality-distortion-field-inverts-the-baseline",
-      "rel": "points_to",
-      "label": "现实扭曲力场颠倒了基线"
-    },
-    {
-      "from": "when-the-effect-authors-the-frame",
-      "to": "the-imagining-of-ai-risk",
-      "rel": "points_to",
-      "label": "对 AI 风险的想象"
-    },
-    {
-      "from": "when-the-effect-authors-the-frame",
       "to": "how-belief-actually-changes",
       "rel": "points_to",
       "label": "How Belief Actually Changes"
-    },
-    {
-      "from": "when-the-effect-authors-the-frame",
-      "to": "symptom-and-cause-in-the-narratives-of-progress",
-      "rel": "points_to",
-      "label": "Symptom and Cause in the Narratives of Progress"
-    },
-    {
-      "from": "when-the-effect-authors-the-frame",
-      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
-      "rel": "points_to",
-      "label": "Politicians Are Visible Symptoms of Responsibility Diffusion"
-    },
-    {
-      "from": "when-the-effect-authors-the-frame",
-      "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
-      "rel": "points_to",
-      "label": "The Misallocation of Cause in Wealth-Transfer Policies and Price Floors"
-    },
-    {
-      "from": "when-the-effect-authors-the-frame",
-      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
-      "rel": "points_to",
-      "label": "Exceptionality, Perception, and the Self-Limiting Field of Problems"
-    },
-    {
-      "from": "when-the-effect-authors-the-frame",
-      "to": "the-reality-distortion-field-inverts-the-baseline",
-      "rel": "points_to",
-      "label": "The Reality Distortion Field Inverts the Baseline"
-    },
-    {
-      "from": "when-the-effect-authors-the-frame",
-      "to": "the-imagining-of-ai-risk",
-      "rel": "points_to",
-      "label": "The Imagining of AI Risk"
     },
     {
       "from": "why-explanation-fails",
