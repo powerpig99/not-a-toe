@@ -726,6 +726,38 @@
     "processed": "2026-10-25T18:17:25.726Z",
     "playlist": "PLGrxskF8JnDo"
    }
+  },
+  "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination": {
+   "en": {
+    "id": "8yjoXP5fRQw",
+    "url": "https://youtu.be/8yjoXP5fRQw",
+    "title": "What Is Metaphysics? As the Cut That Names the Seeking as Destination",
+    "privacy": "public",
+    "uploaded": "2026-10-26T17:21:48.042Z",
+    "file": "studio/post/what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination/final/film/film.en.mp4",
+    "sha256": {
+     "film": "c2429877a8b73ac7377669621c97519d093ce54c3598bb2aa909989d6d6b5715",
+     "intro": "5e7eab508d426bedb96da9f0cda92abe46947b005e0849bd7792acc75f0f4a07"
+    },
+    "status": "processed",
+    "processed": "2026-10-26T17:22:30.251Z",
+    "playlist": "PLMyi7vp2KMyA"
+   },
+   "zh": {
+    "id": "vpAYzGtGi9c",
+    "url": "https://youtu.be/vpAYzGtGi9c",
+    "title": "何谓形而上学？作为将追寻命名为目的的一刀",
+    "privacy": "public",
+    "uploaded": "2026-10-26T17:24:43.789Z",
+    "file": "studio/post/what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination/final/film/film.zh.mp4",
+    "sha256": {
+     "film": "006ed797f3fc16c2fd4718cb3fd92ed8e5d86cc15d79410273c7f6b8604938bc",
+     "intro": "e33f05d7297e43d132bed754282bb63885be3b43aa158e0658f205078e449387"
+    },
+    "status": "processed",
+    "processed": "2026-10-26T17:25:47.006Z",
+    "playlist": "PLGrxskF8JnDo"
+   }
   }
  }
 }
