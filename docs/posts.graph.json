@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-26T14:09:20.099Z",
+    "generated_at": "2026-10-27T07:02:27.076Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -109,6 +109,7 @@
       "content/posts/huberman-winners-losers.md": "52edd6aa4959",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "2740c5400321",
       "content/posts/immortality-final.md": "2bbeb6b8ed55",
+      "content/posts/incompleteness-exhibited-twice.md": "ebb0341d828b",
       "content/posts/individual-choices-as-the-only-causal-levers.md": "76ab560e5a25",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "425497acb31b",
       "content/posts/intelligence-crisis-response.md": "cac8520aa17d",
@@ -421,11 +422,11 @@
       "content/book/causality.md": "51d6cd58236e",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "abab57b41b4d",
+      "content/book/index-of-premises.md": "63ae44f70cf5",
       "content/book/intelligence.md": "fa27f9624ed0",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "0caf97231862",
-      "content/book/mathematics.md": "2f89dae6c58c",
+      "content/book/mathematics.md": "8136e448de85",
       "content/book/meaning-and-transcendence.md": "872032a1b2e9",
       "content/book/method.md": "988b6333bfd8",
       "content/book/morality.md": "46ca20cf1f35",
@@ -436,16 +437,16 @@
       "content/book/tools-and-progress.md": "09f19b0967d0"
     },
     "stats": {
-      "posts": 410,
-      "edges": 12052,
-      "unique_directed": 5925,
+      "posts": 411,
+      "edges": 12064,
+      "unique_directed": 5931,
       "missing_targets": 0,
-      "one_way": 1119,
+      "one_way": 1125,
       "isolated": 0,
-      "posts_with_outbound": 410,
+      "posts_with_outbound": 411,
       "book_pages": 16,
-      "book_edges": 1170,
-      "posts_reached_by_book": 410
+      "book_edges": 1173,
+      "posts_reached_by_book": 411
     }
   },
   "hubs_in": [
@@ -463,7 +464,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 82
+      "in_degree": 83
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -479,7 +480,7 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 63
+      "in_degree": 64
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -522,11 +523,11 @@
       "in_degree": 36
     },
     {
-      "slug": "a-creation-cannot-replace-its-source",
-      "in_degree": 33
+      "slug": "the-reversal-of-verification",
+      "in_degree": 34
     },
     {
-      "slug": "the-reversal-of-verification",
+      "slug": "a-creation-cannot-replace-its-source",
       "in_degree": 33
     }
   ],
@@ -3229,6 +3230,24 @@
       ]
     },
     {
+      "id": "post:incompleteness-exhibited-twice",
+      "kind": "post",
+      "slug": "incompleteness-exhibited-twice",
+      "path": "content/posts/incompleteness-exhibited-twice.md",
+      "title": "两度显现的不完备性 / Incompleteness Exhibited Twice",
+      "hash": "ebb0341d828b",
+      "in_degree": 0,
+      "out_degree": 6,
+      "links_out": [
+        "no-system-can-be-kept-closed",
+        "openness-is-consistency",
+        "why-mathematics-can-never-be-solved",
+        "the-reversal-of-verification",
+        "the-carry-that-cannot-be-named-inside-the-register",
+        "on-closed-systems-open-minds-and-the-limits-of-proof"
+      ]
+    },
+    {
       "id": "post:individual-choices-as-the-only-causal-levers",
       "kind": "post",
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -4050,7 +4069,7 @@
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "没有系统能被保持封闭 / No System Can Be Kept Closed",
       "hash": "cb636c5e6b60",
-      "in_degree": 63,
+      "in_degree": 64,
       "out_degree": 60,
       "links_out": [
         "openness-is-consistency",
@@ -4261,7 +4280,7 @@
       "path": "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md",
       "title": "论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof",
       "hash": "47a22515d8a1",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 12,
       "links_out": [
         "no-system-can-be-kept-closed",
@@ -4445,7 +4464,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "开放即一致 / Openness Is Consistency",
       "hash": "75ba5238a649",
-      "in_degree": 82,
+      "in_degree": 83,
       "out_degree": 82,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -6348,7 +6367,7 @@
       "path": "content/posts/the-carry-that-cannot-be-named-inside-the-register.md",
       "title": "进位无法在寄存器之内被命名 / The Carry That Cannot Be Named Inside the Register",
       "hash": "042276f47daa",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 9,
       "links_out": [
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
@@ -9538,7 +9557,7 @@
       "path": "content/posts/the-reversal-of-verification.md",
       "title": "验证的倒置 / The Reversal of Verification",
       "hash": "02f9845efe25",
-      "in_degree": 33,
+      "in_degree": 34,
       "out_degree": 8,
       "links_out": [
         "openness-is-consistency",
@@ -11108,7 +11127,7 @@
       "path": "content/posts/why-mathematics-can-never-be-solved.md",
       "title": "为何数学永远解不完 / Why Mathematics Can Never Be Solved",
       "hash": "f43a8391575b",
-      "in_degree": 29,
+      "in_degree": 30,
       "out_degree": 25,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
@@ -28513,6 +28532,78 @@
       "to": "not-a-theory-of-everything",
       "rel": "points_to",
       "label": "Not a Theory of Everything"
+    },
+    {
+      "from": "incompleteness-exhibited-twice",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "incompleteness-exhibited-twice",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "incompleteness-exhibited-twice",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "incompleteness-exhibited-twice",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "incompleteness-exhibited-twice",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "为何数学永远解不完"
+    },
+    {
+      "from": "incompleteness-exhibited-twice",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "Why Mathematics Can Never Be Solved"
+    },
+    {
+      "from": "incompleteness-exhibited-twice",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "incompleteness-exhibited-twice",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
+    },
+    {
+      "from": "incompleteness-exhibited-twice",
+      "to": "the-carry-that-cannot-be-named-inside-the-register",
+      "rel": "points_to",
+      "label": "进位无法在寄存器之内被命名"
+    },
+    {
+      "from": "incompleteness-exhibited-twice",
+      "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "rel": "points_to",
+      "label": "论封闭系统、开放心智与证明的界限"
+    },
+    {
+      "from": "incompleteness-exhibited-twice",
+      "to": "the-carry-that-cannot-be-named-inside-the-register",
+      "rel": "points_to",
+      "label": "The Carry That Cannot Be Named Inside the Register"
+    },
+    {
+      "from": "incompleteness-exhibited-twice",
+      "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "rel": "points_to",
+      "label": "On Closed Systems, Open Minds, and the Limits of Proof"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -83810,8 +83901,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "abab57b41b4d",
-        "out_degree": 410
+        "hash": "63ae44f70cf5",
+        "out_degree": 411
       },
       {
         "id": "book:intelligence",
@@ -83846,8 +83937,8 @@
         "slug": "mathematics",
         "path": "content/book/mathematics.md",
         "title": "数学与逻辑的边界 / The Boundaries of Mathematics and Logic",
-        "hash": "2f89dae6c58c",
-        "out_degree": 20
+        "hash": "8136e448de85",
+        "out_degree": 21
       },
       {
         "id": "book:meaning-and-transcendence",
@@ -85677,6 +85768,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "incompleteness-exhibited-twice",
+        "rel": "collects",
+        "label": "两度显现的不完备性 / Incompleteness Exhibited Twice"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-extendable-horizon",
         "rel": "collects",
         "label": "可延展的地平线 / The Extendable Horizon"
@@ -86976,6 +87073,12 @@
         "to": "the-reversal-of-verification",
         "rel": "collects",
         "label": "验证的倒置 / The Reversal of Verification"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "incompleteness-exhibited-twice",
+        "rel": "collects",
+        "label": "两度显现的不完备性 / Incompleteness Exhibited Twice"
       },
       {
         "from": "book:index-of-premises",
@@ -89748,6 +89851,12 @@
         "to": "the-geometry-of-coexistence-and-the-dual-cut",
         "rel": "collects",
         "label": "共存的几何学 / The Geometry of Coexistence"
+      },
+      {
+        "from": "book:mathematics",
+        "to": "incompleteness-exhibited-twice",
+        "rel": "collects",
+        "label": "两度显现的不完备性 / Incompleteness Exhibited Twice"
       },
       {
         "from": "book:meaning-and-transcendence",
