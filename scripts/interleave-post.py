@@ -57,7 +57,56 @@ def block_kind(block: str, index: int = -1) -> str:
     return "prose"
 
 
-def interleave_blocks(slug: str, zh_blocks: list[str], en_blocks: list[str]) -> list[str]:
+LINK_TARGET_RE = re.compile(r"(?<!!)\[[^\]]+\]\(([^)]+)\)")
+MERMAID_LABEL_RE = re.compile(r'(\["[^"]*"\]|\("[^"]*"\)|\[[^\]]*\]|\([^)]*\))')
+MERMAID_EDGE_LABEL_RE = re.compile(r'\|"[^"]*"\||\|[^|]*\|')
+MERMAID_QUOTE_RE = re.compile(r'"[^"]*"')
+
+
+def extract_link_targets(block: str) -> list[str]:
+    return sorted(m.group(1).strip() for m in LINK_TARGET_RE.finditer(block))
+
+
+def extract_mermaid_skeleton(block: str) -> list[str]:
+    skeleton: list[str] = []
+    for raw in block.splitlines():
+        line = raw.strip()
+        if not line or line.startswith("```") or line.startswith("%%"):
+            continue
+        if line.startswith(("flowchart ", "graph ")):
+            skeleton.append(re.sub(r"^graph\s+", "flowchart ", line))
+        elif line.startswith("subgraph "):
+            no_label = MERMAID_QUOTE_RE.sub("", MERMAID_LABEL_RE.sub("", line)).strip()
+            parts = no_label.split(None, 2)
+            skeleton.append(f"subgraph {parts[1]}" if len(parts) >= 2 else no_label)
+        elif line == "end" or line.startswith("style ") or line.startswith("classDef ") or line.startswith("linkStyle "):
+            skeleton.append(line)
+        else:
+            cleaned = MERMAID_EDGE_LABEL_RE.sub("||", line)
+            cleaned = MERMAID_LABEL_RE.sub("[]", cleaned)
+            cleaned = MERMAID_QUOTE_RE.sub('""', cleaned)
+            skeleton.append(cleaned)
+    return skeleton
+
+
+def check_pair_alignment(slug: str, idx: int, kind: str, z: str, e: str) -> None:
+    if kind == "prose":
+        zh_links = extract_link_targets(z)
+        en_links = extract_link_targets(e)
+        if zh_links != en_links:
+            raise ValueError(
+                f"[{slug}] Link target multiset mismatch at block {idx}: zh={zh_links} vs en={en_links}"
+            )
+    elif kind == "mermaid":
+        zh_skel = extract_mermaid_skeleton(z)
+        en_skel = extract_mermaid_skeleton(e)
+        if zh_skel != en_skel:
+            raise ValueError(
+                f"[{slug}] Mermaid skeleton mismatch at block {idx}:\n  zh={zh_skel}\n  en={en_skel}"
+            )
+
+
+def interleave_blocks(slug: str, zh_blocks: list[str], en_blocks: list[str], strict: bool = True) -> list[str]:
     if len(zh_blocks) != len(en_blocks):
         raise ValueError(
             f"[{slug}] Block count mismatch: zh.md has {len(zh_blocks)} blocks, "
@@ -110,6 +159,8 @@ def interleave_blocks(slug: str, zh_blocks: list[str], en_blocks: list[str]) -> 
                 out.append(f"{prefix}{z_body} / {e_body}")
             i += 1
         elif zk == "prose":
+            if strict:
+                check_pair_alignment(slug, i, "prose", z, e)
             # Look ahead for consecutive Mermaid diagram(s) attached to this paragraph
             j = i + 1
             while j < n and block_kind(zh_blocks[j]) == "mermaid":
@@ -117,12 +168,16 @@ def interleave_blocks(slug: str, zh_blocks: list[str], en_blocks: list[str]) -> 
                     raise ValueError(
                         f"[{slug}] Diagram parity mismatch at index {j}: zh is mermaid, en is {block_kind(en_blocks[j])}"
                     )
+                if strict:
+                    check_pair_alignment(slug, j, "mermaid", zh_blocks[j], en_blocks[j])
                 j += 1
             out.extend(zh_blocks[i:j])
             out.extend(en_blocks[i:j])
             i = j
         else:
             # Standalone mermaid block not preceded by prose
+            if strict:
+                check_pair_alignment(slug, i, zk, z, e)
             out.append(z)
             out.append(e)
             i += 1
@@ -209,7 +264,7 @@ def split_slug(slug: str) -> tuple[pathlib.Path, pathlib.Path]:
             en_blocks.append(blocks[i + 1])
             i += 2
 
-    rebuilt = interleave_blocks(slug, zh_blocks, en_blocks)
+    rebuilt = interleave_blocks(slug, zh_blocks, en_blocks, strict=False)
     if rebuilt != blocks:
         raise ValueError(f"[{slug}] Round-trip interleave mismatch after split")
 
