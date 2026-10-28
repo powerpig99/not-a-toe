@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-27T15:02:19.200Z",
+    "generated_at": "2026-10-28T21:08:51.876Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -85,7 +85,7 @@
       "content/posts/fate-loves-irony-refined.md": "4173eb2feff2",
       "content/posts/felt-resistance-and-the-speed-differential.md": "7c688ab6bc0e",
       "content/posts/fidelity-not-optimality.md": "75472e76cc04",
-      "content/posts/fixed-by-nothing.md": "7212ddf82995",
+      "content/posts/fixed-by-nothing.md": "fe6edec9d794",
       "content/posts/four-night-questions.md": "6a45de787c56",
       "content/posts/freedom-as-ground.md": "f60f8121fb0f",
       "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "234ce1feb90a",
@@ -109,7 +109,7 @@
       "content/posts/huberman-winners-losers.md": "52edd6aa4959",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "2740c5400321",
       "content/posts/immortality-final.md": "2bbeb6b8ed55",
-      "content/posts/incompleteness-exhibited-twice.md": "5f6c70503a67",
+      "content/posts/incompleteness-exhibited-twice.md": "3fe251664ccf",
       "content/posts/individual-choices-as-the-only-causal-levers.md": "76ab560e5a25",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "425497acb31b",
       "content/posts/intelligence-crisis-response.md": "cac8520aa17d",
@@ -146,6 +146,7 @@
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "47a22515d8a1",
       "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "1b95f003009a",
       "content/posts/on-education.md": "e2d0a3baebcd",
+      "content/posts/on-the-boundaries-of-what-can-be-said-about-p-and-np.md": "41b2b8649b06",
       "content/posts/one-cannot-escape-ones-own-mind.md": "474dad0e12f2",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "b68e2cc6fd51",
       "content/posts/only-if-it-is-not-kept-empty.md": "7dfb527c6b0e",
@@ -162,8 +163,9 @@
       "content/posts/platform-decision-capture.md": "c1ce0036119a",
       "content/posts/po-chu-gai-nian-de-jian-yue.md": "9e0e605cb8a2",
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "fecf46ad8771",
-      "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "2e65845a92ef",
+      "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "924cbad19a24",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "4f2725e3fcd4",
+      "content/posts/precision-and-resolution.md": "fc4f72839c7f",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "b11dea0379ff",
       "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "2942b85de8aa",
       "content/posts/price-as-utterance-understanding-as-trade.md": "74464ff48389",
@@ -277,7 +279,7 @@
       "content/posts/the-illusion-of-free-intelligence.md": "ea307666af7d",
       "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "28d2c9ecb890",
       "content/posts/the-illusion-of-the-shared-sandbox.md": "f20e733d6ceb",
-      "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "c5acd4b281e2",
+      "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "ab2963065dae",
       "content/posts/the-illusion-of-the-unmediated.md": "66864d0c8594",
       "content/posts/the-imagining-of-ai-risk.md": "06a93ab32a22",
       "content/posts/the-initial-distinction.md": "597771bb1303",
@@ -422,13 +424,13 @@
       "content/book/causality.md": "51d6cd58236e",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "d4f0b74f0cc2",
+      "content/book/index-of-premises.md": "fee5af9d62b0",
       "content/book/intelligence.md": "fa27f9624ed0",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "0caf97231862",
-      "content/book/mathematics.md": "8136e448de85",
+      "content/book/mathematics.md": "8f6d273c0db8",
       "content/book/meaning-and-transcendence.md": "872032a1b2e9",
-      "content/book/method.md": "988b6333bfd8",
+      "content/book/method.md": "fa3cff406c60",
       "content/book/morality.md": "46ca20cf1f35",
       "content/book/physics.md": "4671c42b6627",
       "content/book/preface.md": "d0065384016a",
@@ -437,16 +439,16 @@
       "content/book/tools-and-progress.md": "09f19b0967d0"
     },
     "stats": {
-      "posts": 411,
-      "edges": 12064,
-      "unique_directed": 5931,
+      "posts": 413,
+      "edges": 12110,
+      "unique_directed": 5954,
       "missing_targets": 0,
-      "one_way": 1125,
+      "one_way": 1140,
       "isolated": 0,
-      "posts_with_outbound": 411,
+      "posts_with_outbound": 413,
       "book_pages": 16,
-      "book_edges": 1173,
-      "posts_reached_by_book": 411
+      "book_edges": 1186,
+      "posts_reached_by_book": 413
     }
   },
   "hubs_in": [
@@ -464,7 +466,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 83
+      "in_degree": 84
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -480,7 +482,7 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 64
+      "in_degree": 65
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -524,7 +526,7 @@
     },
     {
       "slug": "the-reversal-of-verification",
-      "in_degree": 34
+      "in_degree": 35
     },
     {
       "slug": "a-creation-cannot-replace-its-source",
@@ -738,7 +740,7 @@
       "path": "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md",
       "title": "抽象、边界与现实的移动边缘 / Abstraction Boundaries and the Moving Edge of Reality",
       "hash": "4a16f0aaf74d",
-      "in_degree": 24,
+      "in_degree": 25,
       "out_degree": 26,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -967,7 +969,7 @@
       "path": "content/posts/ai-wont-kill-software-engineering.md",
       "title": "AI 不会终结软件工程，而是将其扩展 / AI Won't Kill Software Engineering, It Will Expand It",
       "hash": "b8423ff3a13d",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 7,
       "links_out": [
         "when-abundance-looks-like-scarcity",
@@ -2673,13 +2675,14 @@
       "slug": "fixed-by-nothing",
       "path": "content/posts/fixed-by-nothing.md",
       "title": "没有固定者的固定 / Fixed by Nothing",
-      "hash": "7212ddf82995",
-      "in_degree": 9,
-      "out_degree": 10,
+      "hash": "fe6edec9d794",
+      "in_degree": 11,
+      "out_degree": 11,
       "links_out": [
         "the-deterministic-machine",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "the-boundary-of-perception-and-the-infinity-of-understanding",
+        "on-the-boundaries-of-what-can-be-said-about-p-and-np",
         "the-open-question-is-determinisms-demand",
         "not-a-theory-of-everything",
         "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
@@ -3235,12 +3238,13 @@
       "slug": "incompleteness-exhibited-twice",
       "path": "content/posts/incompleteness-exhibited-twice.md",
       "title": "两度显现的不完备性 / Incompleteness Exhibited Twice",
-      "hash": "5f6c70503a67",
-      "in_degree": 0,
-      "out_degree": 6,
+      "hash": "3fe251664ccf",
+      "in_degree": 1,
+      "out_degree": 7,
       "links_out": [
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
+        "on-the-boundaries-of-what-can-be-said-about-p-and-np",
         "why-mathematics-can-never-be-solved",
         "the-reversal-of-verification",
         "the-carry-that-cannot-be-named-inside-the-register",
@@ -4069,7 +4073,7 @@
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "没有系统能被保持封闭 / No System Can Be Kept Closed",
       "hash": "cb636c5e6b60",
-      "in_degree": 64,
+      "in_degree": 65,
       "out_degree": 60,
       "links_out": [
         "openness-is-consistency",
@@ -4262,7 +4266,7 @@
       "path": "content/posts/objects-are-stabilized-relationships.md",
       "title": "对象是被稳定化的关系 / Objects Are Stabilized Relationships",
       "hash": "897ad4fbf69a",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 6,
       "links_out": [
         "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
@@ -4280,7 +4284,7 @@
       "path": "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md",
       "title": "论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof",
       "hash": "47a22515d8a1",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 12,
       "links_out": [
         "no-system-can-be-kept-closed",
@@ -4334,6 +4338,28 @@
         "why-explanation-fails",
         "your-codebase-is-memory",
         "trusting-the-reader-is-the-last-overstep"
+      ]
+    },
+    {
+      "id": "post:on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "kind": "post",
+      "slug": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "path": "content/posts/on-the-boundaries-of-what-can-be-said-about-p-and-np.md",
+      "title": "论关于 P 与 NP 所能言说的边界 / On the Boundaries of What Can Be Said about P and NP",
+      "hash": "41b2b8649b06",
+      "in_degree": 4,
+      "out_degree": 10,
+      "links_out": [
+        "the-illusion-of-the-tool-and-the-inversion-of-time",
+        "objects-are-stabilized-relationships",
+        "no-system-can-be-kept-closed",
+        "incompleteness-exhibited-twice",
+        "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+        "fixed-by-nothing",
+        "openness-is-consistency",
+        "why-mathematics-can-never-be-solved",
+        "the-carry-that-cannot-be-named-inside-the-register",
+        "on-closed-systems-open-minds-and-the-limits-of-proof"
       ]
     },
     {
@@ -4464,7 +4490,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "开放即一致 / Openness Is Consistency",
       "hash": "75ba5238a649",
-      "in_degree": 83,
+      "in_degree": 84,
       "out_degree": 82,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -4864,9 +4890,9 @@
       "slug": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "path": "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md",
       "title": "潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought",
-      "hash": "2e65845a92ef",
-      "in_degree": 16,
-      "out_degree": 19,
+      "hash": "924cbad19a24",
+      "in_degree": 17,
+      "out_degree": 20,
       "links_out": [
         "the-mirage-of-the-infinite-totality",
         "the-geometry-of-mind",
@@ -4877,6 +4903,7 @@
         "openness-is-consistency",
         "why-mathematics-can-never-be-solved",
         "the-myth-of-the-four-dimensional-deer-and-the-present-model",
+        "on-the-boundaries-of-what-can-be-said-about-p-and-np",
         "the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function",
         "beyond-the-projection",
         "your-codebase-is-memory",
@@ -4909,6 +4936,27 @@
         "the-average-is-residue-not-the-engine",
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "your-codebase-is-memory"
+      ]
+    },
+    {
+      "id": "post:precision-and-resolution",
+      "kind": "post",
+      "slug": "precision-and-resolution",
+      "path": "content/posts/precision-and-resolution.md",
+      "title": "精度与分辨率 / Precision and Resolution",
+      "hash": "fc4f72839c7f",
+      "in_degree": 0,
+      "out_degree": 9,
+      "links_out": [
+        "the-comment-is-not-the-code",
+        "residual-control-recedes-to-the-edge",
+        "ai-wont-kill-software-engineering",
+        "the-reversal-of-verification",
+        "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+        "abstraction-boundaries-and-the-moving-edge-of-reality",
+        "the-sovereign-blinding",
+        "fixed-by-nothing",
+        "whatever-is-one-prompt-away"
       ]
     },
     {
@@ -5231,7 +5279,7 @@
       "path": "content/posts/residual-control-recedes-to-the-edge.md",
       "title": "要紧的控制迁往边缘 / Essential Control Moves to the Edge",
       "hash": "a51e7b297bbf",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 12,
       "links_out": [
         "beyond-the-projection",
@@ -6367,7 +6415,7 @@
       "path": "content/posts/the-carry-that-cannot-be-named-inside-the-register.md",
       "title": "进位无法在寄存器之内被命名 / The Carry That Cannot Be Named Inside the Register",
       "hash": "042276f47daa",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 9,
       "links_out": [
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
@@ -6643,7 +6691,7 @@
       "path": "content/posts/the-comment-is-not-the-code.md",
       "title": "注释不是代码 / The Comment Is Not the Code",
       "hash": "2f3188bc6738",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 10,
       "links_out": [
         "your-codebase-is-memory",
@@ -7079,7 +7127,7 @@
       "path": "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md",
       "title": "对“AI 糟粕”的反感是反复出现的模式 / The Distaste for “AI Slop” Is a Recurring Pattern",
       "hash": "8141b07efa43",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 15,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
@@ -7908,12 +7956,13 @@
       "slug": "the-illusion-of-the-tool-and-the-inversion-of-time",
       "path": "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md",
       "title": "工具的幻觉与时间的倒置 / The Illusion of the Tool and the Inversion of Time",
-      "hash": "c5acd4b281e2",
-      "in_degree": 2,
-      "out_degree": 6,
+      "hash": "ab2963065dae",
+      "in_degree": 3,
+      "out_degree": 7,
       "links_out": [
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "beyond-the-projection",
+        "on-the-boundaries-of-what-can-be-said-about-p-and-np",
         "the-continuum-is-a-modeling-convenience",
         "time-is-causality-not-a-dimension",
         "the-dissolution-of-the-great-reversal",
@@ -9557,7 +9606,7 @@
       "path": "content/posts/the-reversal-of-verification.md",
       "title": "验证的倒置 / The Reversal of Verification",
       "hash": "02f9845efe25",
-      "in_degree": 34,
+      "in_degree": 35,
       "out_degree": 8,
       "links_out": [
         "openness-is-consistency",
@@ -9989,7 +10038,7 @@
       "path": "content/posts/the-sovereign-blinding.md",
       "title": "自愿的致盲 / The Sovereign Blinding",
       "hash": "910f8642f278",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 6,
       "links_out": [
         "the-cut-moves-but-never-vanishes",
@@ -10937,7 +10986,7 @@
       "path": "content/posts/whatever-is-one-prompt-away.md",
       "title": "一个提示词之遥 / Whatever Is One Prompt Away",
       "hash": "2a70052b8308",
-      "in_degree": 21,
+      "in_degree": 22,
       "out_degree": 22,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -11127,7 +11176,7 @@
       "path": "content/posts/why-mathematics-can-never-be-solved.md",
       "title": "为何数学永远解不完 / Why Mathematics Can Never Be Solved",
       "hash": "f43a8391575b",
-      "in_degree": 30,
+      "in_degree": 31,
       "out_degree": 25,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
@@ -25247,6 +25296,18 @@
     },
     {
       "from": "fixed-by-nothing",
+      "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "rel": "points_to",
+      "label": "论关于 P 与 NP 所能言说的边界"
+    },
+    {
+      "from": "fixed-by-nothing",
+      "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "rel": "points_to",
+      "label": "On the Boundaries of What Can Be Said about P and NP"
+    },
+    {
+      "from": "fixed-by-nothing",
       "to": "the-open-question-is-determinisms-demand",
       "rel": "points_to",
       "label": "悬而未决是决定论的索求"
@@ -28556,6 +28617,18 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness Is Consistency"
+    },
+    {
+      "from": "incompleteness-exhibited-twice",
+      "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "rel": "points_to",
+      "label": "论关于 P 与 NP 所能言说的边界"
+    },
+    {
+      "from": "incompleteness-exhibited-twice",
+      "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "rel": "points_to",
+      "label": "On the Boundaries of What Can Be Said about P and NP"
     },
     {
       "from": "incompleteness-exhibited-twice",
@@ -36610,6 +36683,126 @@
       "label": "Trusting the Reader Is the Last Overstep"
     },
     {
+      "from": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "to": "the-illusion-of-the-tool-and-the-inversion-of-time",
+      "rel": "points_to",
+      "label": "工具的幻觉与时间的倒置"
+    },
+    {
+      "from": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "to": "the-illusion-of-the-tool-and-the-inversion-of-time",
+      "rel": "points_to",
+      "label": "The Illusion of the Tool and the Inversion of Time"
+    },
+    {
+      "from": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "to": "objects-are-stabilized-relationships",
+      "rel": "points_to",
+      "label": "对象是被稳定化的关系"
+    },
+    {
+      "from": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "to": "objects-are-stabilized-relationships",
+      "rel": "points_to",
+      "label": "Objects Are Stabilized Relationships"
+    },
+    {
+      "from": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "to": "incompleteness-exhibited-twice",
+      "rel": "points_to",
+      "label": "两度显现的不完备性"
+    },
+    {
+      "from": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "潜无限与数学思维的暂时闭合"
+    },
+    {
+      "from": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "to": "incompleteness-exhibited-twice",
+      "rel": "points_to",
+      "label": "Incompleteness Exhibited Twice"
+    },
+    {
+      "from": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "Potential Infinity and the Temporary Closures of Mathematical Thought"
+    },
+    {
+      "from": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "to": "fixed-by-nothing",
+      "rel": "points_to",
+      "label": "没有固定者的固定"
+    },
+    {
+      "from": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "to": "fixed-by-nothing",
+      "rel": "points_to",
+      "label": "Fixed by Nothing"
+    },
+    {
+      "from": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "为何数学永远解不完"
+    },
+    {
+      "from": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "to": "the-carry-that-cannot-be-named-inside-the-register",
+      "rel": "points_to",
+      "label": "进位无法在寄存器之内被命名"
+    },
+    {
+      "from": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "rel": "points_to",
+      "label": "论封闭系统、开放心智与证明的界限"
+    },
+    {
+      "from": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "Why Mathematics Can Never Be Solved"
+    },
+    {
+      "from": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "to": "the-carry-that-cannot-be-named-inside-the-register",
+      "rel": "points_to",
+      "label": "The Carry That Cannot Be Named Inside the Register"
+    },
+    {
+      "from": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "rel": "points_to",
+      "label": "On Closed Systems, Open Minds, and the Limits of Proof"
+    },
+    {
       "from": "one-cannot-escape-ones-own-mind",
       "to": "subtracting-consciousness-at-the-source",
       "rel": "points_to",
@@ -40715,6 +40908,12 @@
     },
     {
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "rel": "points_to",
+      "label": "论关于 P 与 NP 所能言说的边界"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
       "label": "No System Can Be Kept Closed"
@@ -40736,6 +40935,12 @@
       "to": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
       "rel": "points_to",
       "label": "The Myth of the Four-Dimensional Deer and the Present Model"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "rel": "points_to",
+      "label": "On the Boundaries of What Can Be Said about P and NP"
     },
     {
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
@@ -40976,6 +41181,114 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "precision-and-resolution",
+      "to": "the-comment-is-not-the-code",
+      "rel": "points_to",
+      "label": "注释不是代码"
+    },
+    {
+      "from": "precision-and-resolution",
+      "to": "residual-control-recedes-to-the-edge",
+      "rel": "points_to",
+      "label": "要紧的控制迁往边缘"
+    },
+    {
+      "from": "precision-and-resolution",
+      "to": "ai-wont-kill-software-engineering",
+      "rel": "points_to",
+      "label": "AI 不会终结软件工程，而是将其扩展"
+    },
+    {
+      "from": "precision-and-resolution",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "precision-and-resolution",
+      "to": "the-comment-is-not-the-code",
+      "rel": "points_to",
+      "label": "The Comment Is Not the Code"
+    },
+    {
+      "from": "precision-and-resolution",
+      "to": "residual-control-recedes-to-the-edge",
+      "rel": "points_to",
+      "label": "Essential Control Moves to the Edge"
+    },
+    {
+      "from": "precision-and-resolution",
+      "to": "ai-wont-kill-software-engineering",
+      "rel": "points_to",
+      "label": "AI Won't Kill Software Engineering, It Will Expand It"
+    },
+    {
+      "from": "precision-and-resolution",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
+    },
+    {
+      "from": "precision-and-resolution",
+      "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "rel": "points_to",
+      "label": "对“AI 糟粕”的反感是反复出现的模式"
+    },
+    {
+      "from": "precision-and-resolution",
+      "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
+      "rel": "points_to",
+      "label": "The Distaste for “AI Slop” Is a Recurring Pattern"
+    },
+    {
+      "from": "precision-and-resolution",
+      "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "rel": "points_to",
+      "label": "抽象、边界与现实的移动边缘"
+    },
+    {
+      "from": "precision-and-resolution",
+      "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
+      "rel": "points_to",
+      "label": "Abstraction Boundaries and the Moving Edge of Reality"
+    },
+    {
+      "from": "precision-and-resolution",
+      "to": "the-sovereign-blinding",
+      "rel": "points_to",
+      "label": "自愿的致盲"
+    },
+    {
+      "from": "precision-and-resolution",
+      "to": "fixed-by-nothing",
+      "rel": "points_to",
+      "label": "没有固定者的固定"
+    },
+    {
+      "from": "precision-and-resolution",
+      "to": "the-sovereign-blinding",
+      "rel": "points_to",
+      "label": "The Sovereign Blinding"
+    },
+    {
+      "from": "precision-and-resolution",
+      "to": "fixed-by-nothing",
+      "rel": "points_to",
+      "label": "Fixed by Nothing"
+    },
+    {
+      "from": "precision-and-resolution",
+      "to": "whatever-is-one-prompt-away",
+      "rel": "points_to",
+      "label": "一个提示词之遥"
+    },
+    {
+      "from": "precision-and-resolution",
+      "to": "whatever-is-one-prompt-away",
+      "rel": "points_to",
+      "label": "Whatever Is One Prompt Away"
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
@@ -60176,6 +60489,18 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-illusion-of-the-tool-and-the-inversion-of-time",
+      "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "rel": "points_to",
+      "label": "论关于 P 与 NP 所能言说的边界"
+    },
+    {
+      "from": "the-illusion-of-the-tool-and-the-inversion-of-time",
+      "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "rel": "points_to",
+      "label": "On the Boundaries of What Can Be Said about P and NP"
     },
     {
       "from": "the-illusion-of-the-tool-and-the-inversion-of-time",
@@ -83901,8 +84226,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "d4f0b74f0cc2",
-        "out_degree": 411
+        "hash": "fee5af9d62b0",
+        "out_degree": 413
       },
       {
         "id": "book:intelligence",
@@ -83937,8 +84262,8 @@
         "slug": "mathematics",
         "path": "content/book/mathematics.md",
         "title": "数学与逻辑的边界 / The Boundaries of Mathematics and Logic",
-        "hash": "8136e448de85",
-        "out_degree": 21
+        "hash": "8f6d273c0db8",
+        "out_degree": 22
       },
       {
         "id": "book:meaning-and-transcendence",
@@ -83955,8 +84280,8 @@
         "slug": "method",
         "path": "content/book/method.md",
         "title": "非万物之理 / Not a Theory of Everything",
-        "hash": "988b6333bfd8",
-        "out_degree": 27
+        "hash": "fa3cff406c60",
+        "out_degree": 28
       },
       {
         "id": "book:morality",
@@ -84958,6 +85283,18 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-illusion-of-the-tool-and-the-inversion-of-time",
+        "rel": "collects",
+        "label": "工具的幻觉与时间的倒置 / The Illusion of the Tool and the Inversion of Time"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+        "rel": "collects",
+        "label": "论关于 P 与 NP 所能言说的边界 / On the Boundaries of What Can Be Said about P and NP"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
         "rel": "collects",
         "label": "涌现的伪因果 / The Pseudo-Causality of Emergence"
@@ -85771,6 +86108,12 @@
         "to": "incompleteness-exhibited-twice",
         "rel": "collects",
         "label": "两度显现的不完备性 / Incompleteness Exhibited Twice"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+        "rel": "collects",
+        "label": "论关于 P 与 NP 所能言说的边界 / On the Boundaries of What Can Be Said about P and NP"
       },
       {
         "from": "book:index-of-premises",
@@ -87484,6 +87827,18 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "precision-and-resolution",
+        "rel": "collects",
+        "label": "精度与分辨率 / Precision and Resolution"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "precision-and-resolution",
+        "rel": "collects",
+        "label": "精度与分辨率 / Precision and Resolution"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "hardware-locality-is-not-the-information-boundary",
         "rel": "collects",
         "label": "硬件的本地性不是信息的边界 / Hardware Locality Is Not the Information Boundary"
@@ -87823,6 +88178,12 @@
         "to": "order-surplus-and-the-moral-intercept",
         "rel": "collects",
         "label": "秩序、剩余与道德拦截 / Order, Surplus, and the Moral Intercept"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+        "rel": "collects",
+        "label": "论关于 P 与 NP 所能言说的边界 / On the Boundaries of What Can Be Said about P and NP"
       },
       {
         "from": "book:index-of-premises",
@@ -88378,6 +88739,18 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "precision-and-resolution",
+        "rel": "collects",
+        "label": "精度与分辨率 / Precision and Resolution"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "precision-and-resolution",
+        "rel": "collects",
+        "label": "精度与分辨率 / Precision and Resolution"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-mind-that-statistics-cannot-reveal",
         "rel": "collects",
         "label": "统计学无法揭示的心智 / The Mind That Statistics Cannot Reveal"
@@ -88699,6 +89072,18 @@
         "to": "the-sovereign-blinding",
         "rel": "collects",
         "label": "自愿的致盲 / The Sovereign Blinding"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "precision-and-resolution",
+        "rel": "collects",
+        "label": "精度与分辨率 / Precision and Resolution"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "precision-and-resolution",
+        "rel": "collects",
+        "label": "精度与分辨率 / Precision and Resolution"
       },
       {
         "from": "book:index-of-premises",
@@ -89161,6 +89546,12 @@
         "to": "dynamic-resnet-of-skill-loops",
         "rel": "collects",
         "label": "模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "precision-and-resolution",
+        "rel": "collects",
+        "label": "精度与分辨率 / Precision and Resolution"
       },
       {
         "from": "book:intelligence",
@@ -89859,6 +90250,12 @@
         "label": "两度显现的不完备性 / Incompleteness Exhibited Twice"
       },
       {
+        "from": "book:mathematics",
+        "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+        "rel": "collects",
+        "label": "论关于 P 与 NP 所能言说的边界 / On the Boundaries of What Can Be Said about P and NP"
+      },
+      {
         "from": "book:meaning-and-transcendence",
         "to": "four-night-questions",
         "rel": "collects",
@@ -90091,6 +90488,12 @@
         "to": "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
         "rel": "collects",
         "label": "何谓形而上学？作为将追寻命名为目的的一刀 / What Is Metaphysics? As the Cut That Names the Seeking as Destination"
+      },
+      {
+        "from": "book:method",
+        "to": "precision-and-resolution",
+        "rel": "collects",
+        "label": "精度与分辨率 / Precision and Resolution"
       },
       {
         "from": "book:morality",
