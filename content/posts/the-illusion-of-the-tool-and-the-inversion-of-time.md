@@ -26,9 +26,9 @@ This static manipulation of symbols vastly expands the horizon over which patter
 
 The edifice of arithmetic and algebra stands on a premise so familiar it passes for self-evident: two units are identical, 1 = 1, and can therefore combine without friction into 2. On paper, 1 + 1 = 2 is a static, symmetric, zero-cost tautology; in physical causality, +1 is an irreversible, energy-consuming intervention that must absorb friction, dissipation, and loss. When attention shifts from symbolic rules to causal geometry, identical units reveal themselves as an instrumental posit. As Leibniz observed in the principle of the identity of indiscernibles, if two objects did not differ in any property, coordinate, relation, or internal history, they would not be two things at all, but one and the same. Wherever two entities coexist, they occupy distinct positions, carry distinct causal histories, and stand in different relational tensions; because they differ, they are never identical.
 
-数学的运转，靠的是把构成各异的人、物与事件压缩进均质、可互换的符号 1 之中。这种均质化在第一步剥离了微观区分与局部的因果张力，从而使统计汇总与代数运算成为可能。每个锚点的独特性从符号中隐去，批量运算才能毫无余数地闭合。
+数学的运转，靠的是把构成各异的人、物与事件压缩进均质、可互换的符号 1 之中。这种均质化在第一步剥离了微观区分与局部的因果张力，从而使统计汇总与代数运算成为可能。每个锚点的独特性从符号中隐去，批量运算才能毫无余数地闭合，正如[论关于 P 与 NP 所能言说的边界](../on-the-boundaries-of-what-can-be-said-about-p-and-np/)所追溯的那样：集合论中的外延公理同样通过规则引入相等，从而在内涵有别的复杂度类之间许可形式替换，却并不在形式呈现之外裁定本体的同一。
 
-Mathematics operates by compressing people, objects, and events of every distinct constitution into the homogeneous, interchangeable symbol 1. This homogenization makes statistical aggregation and algebraic calculation possible, and it does so by stripping away microscopic distinction and local causal tension at the opening step. The uniqueness of each locus disappears from the symbol so that bulk operations can close without remainder.
+Mathematics operates by compressing people, objects, and events of every distinct constitution into the homogeneous, interchangeable symbol 1. This homogenization makes statistical aggregation and algebraic calculation possible, and it does so by stripping away microscopic distinction and local causal tension at the opening step. The uniqueness of each locus disappears from the symbol so that bulk operations can close without remainder, just as [On the Boundaries of What Can Be Said about P and NP](../on-the-boundaries-of-what-can-be-said-about-p-and-np/) traces how set-theoretic extensionality introduces equality by rule to license substitution across intensionally distinct complexity classes without settling ontological identity outside the formal presentation.
 
 ## 三、 非零间隔与连续性的建模权宜 / 3. Non-Zero Separation and the Continuum Convenience
 
@@ -60,7 +60,6 @@ flowchart TD
         Intent["多维切身感知：承担能量代价并综合前提"]
         Act --> Intent
     end
-
     subgraph S_Project["符号与智能体投射引擎（有限脚手架）"]
         direction TB
         Posits["形式设定：等同单元（1 = 1）与归零增量（微元趋零）"]
@@ -68,7 +67,6 @@ flowchart TD
         Scale["跨尺度望远镜：追踪跨基底同构的因果拓扑"]
         Posits --> Axis --> Scale
     end
-
     subgraph S_Boundary["认识论切分：倒置与主权复归"]
         direction TB
         Invert["大倒置：将纸面对称或智能体框架凌驾于抉择之上"]
@@ -77,11 +75,9 @@ flowchart TD
         Invert --> Restore
         Symptom --> Restore
     end
-
     Intent ==>|"投射有限坐标与任务规则"| Posits
     Scale ==>|"被实体化为自存的法则"| Invert
     Scale ==>|"经由物理摩擦付诸实施（+1）"| Symptom
-
     style S_Origin fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Project fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Boundary fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
@@ -105,7 +101,6 @@ flowchart TD
         Intent["Multi-Dimensional Lived Sensing: Bears energy cost and synthesizes premises"]
         Act --> Intent
     end
-
     subgraph S_Project["Symbolic and Agentic Projection Engines (Finite Scaffolding)"]
         direction TB
         Posits["Formal Posits: Identical units (1 = 1) and vanishing increments (dx → 0)"]
@@ -113,7 +108,6 @@ flowchart TD
         Scale["Cross-Scale Telescope: Tracks isomorphic causal topology across substrates"]
         Posits --> Axis --> Scale
     end
-
     subgraph S_Boundary["The Epistemological Cut: Inversion vs. Sovereign Return"]
         direction TB
         Invert["The Great Reversal: Reifying paper symmetry or agent harnesses above choice"]
@@ -122,11 +116,9 @@ flowchart TD
         Invert --> Restore
         Symptom --> Restore
     end
-
     Intent ==>|"Projects finite coordinates and task rules"| Posits
     Scale ==>|"Reified as self-existing law"| Invert
     Scale ==>|"Enacted through physical friction (+1)"| Symptom
-
     style S_Origin fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Project fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Boundary fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922

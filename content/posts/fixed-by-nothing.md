@@ -15,10 +15,10 @@ When determinism meets unpredictability at the microscopic scale, its most commo
 作为条件句，这个推理是有效的，我无意在逻辑形式上与之争辩。问题出在前件本身。“当下状态的完整规定”出现在每一步论证之中，却很少被追问。它预设了一个能够一次性登记全部自由度、精度无限、且自身不被所登记之物卷入的立足点。只要这个前件被当作可以讨论的候选项，整个区分就显得是在描述世界；一旦我从自己实际所处的位置出发，追问谁能站在那个立足点上，区分便从经验命题变成了对一个不存在的观察位置的默认。这正是决定论解释没有正视的盲点。
 
 ```mermaid
-graph TD
-    subgraph S_Conditional ["【标准条件句及其隐藏前件】"]
+flowchart TD
+    subgraph S_Conditional ["标准条件句及其隐藏前件"]
         direction TB
-        C1["前件：当下状态的完整规定<br/>（无限精度、全部自由度、观察者置身事外）"] --> C2["演化规则"]
+        C1["前件：当下状态的完整规定 — （无限精度、全部自由度、观察者置身事外）"] --> C2["演化规则"]
         C2 --> C3["唯一后继：被称为确定性"]
         C2 --> C4["多个后继：被称为不确定性"]
         C5["追问：谁能登记这一完整规定？"] -. "前件无人能满足" .-> C1
@@ -34,20 +34,20 @@ graph TD
 As a conditional, the reasoning is valid, and I have no quarrel with its logical form. The trouble lies in the antecedent. "The complete specification of the present state" appears in every step of the argument, yet it is seldom questioned. It presupposes a standpoint that registers every degree of freedom at once, with infinite precision, while itself remaining untouched by what it registers. As long as that antecedent is treated as a live candidate, the whole distinction looks like a description of the world; the moment I ask, from the position I actually occupy, who could stand at that standpoint, the distinction turns from an empirical claim into a silent default to an observing position that does not exist. This is the blind spot deterministic explanations have not faced.
 
 ```mermaid
-graph TD
-    subgraph S_Conditional_EN ["【The Standard Conditional and Its Hidden Antecedent】"]
+flowchart TD
+    subgraph S_Conditional ["The Standard Conditional and Its Hidden Antecedent"]
         direction TB
-        CE1["Antecedent: complete specification of the present state<br/>(infinite precision, every degree of freedom, observer standing outside)"] --> CE2["Transition rule"]
-        CE2 --> CE3["Exactly one continuation: called determinism"]
-        CE2 --> CE4["More than one continuation: called indeterminism"]
-        CE5["Question: who could register this complete specification?"] -. "No one satisfies the antecedent" .-> CE1
+        C1["Antecedent: complete specification of the present state — (infinite precision, every degree of freedom, observer standing outside)"] --> C2["Transition rule"]
+        C2 --> C3["Exactly one continuation: called determinism"]
+        C2 --> C4["More than one continuation: called indeterminism"]
+        C5["Question: who could register this complete specification?"] -. "No one satisfies the antecedent" .-> C1
     end
-    style S_Conditional_EN fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
-    style CE1 fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f0f6fc
-    style CE2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style CE3 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style CE4 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style CE5 fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
+    style S_Conditional fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style C1 fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f0f6fc
+    style C2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style C3 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style C4 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style C5 fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
 ```
 
 ## 二、 盲点：完整状态是无人视角 / 2. The Blind Spot: The Complete State Is a View from Nowhere
@@ -77,11 +77,11 @@ But look at what the chaotic model actually requires. Take the simplest case, th
 这些数位从哪里来？规则不产生它们，任何观察者也提取不到它们，它们被直接装载在起点之中，作为“给定”。更尖锐的是，在实数的标准测度下，几乎每一个实数的数位序列都是算法随机的，即不可压缩、不服从任何比它自身更短的规则。所以一条典型的确定性混沌轨迹，在输入端要求的恰恰是一条无穷长且不可压缩的随机序列。决定论没有消除开放，它只是把开放整块搬进了初始条件，然后称之为给定。Nicolas Gisin 从物理一侧提出的论证与此呼应：有限的空间区域只能容纳有限的信息，携带无限精度的实数初始条件本身就不是一个可以在世界中实现的对象。
 
 ```mermaid
-graph TD
-    subgraph S_ChaosLedger ["【混沌的账本：开放被搬进起点】"]
+flowchart TD
+    subgraph S_ChaosLedger ["混沌的账本：开放被搬进起点"]
         direction TB
-        K1["初始条件 x₀<br/>无穷数位，规则不生成，观察者不可提取"] --> K2["确定性规则<br/>每次迭代左移一位，不增加任何信息"]
-        K2 --> K3["宏观不可预测性<br/>深层数位被逐一搬运到可见尺度"]
+        K1["初始条件 x₀ — 无穷数位，规则不生成，观察者不可提取"] --> K2["确定性规则 — 每次迭代左移一位，不增加任何信息"]
+        K2 --> K3["宏观不可预测性 — 深层数位被逐一搬运到可见尺度"]
         K3 --> K4["被称为“仅属认识论”的随机"]
         K4 -. "追溯来源" .-> K1
     end
@@ -95,19 +95,19 @@ graph TD
 Where do these digits come from? The rule does not produce them, and no observer can extract them; they are loaded directly into the starting point as a "given." More sharply still, under the standard measure on the real numbers, the digit sequence of almost every real number is algorithmically random, meaning incompressible and obedient to no rule shorter than itself. A typical deterministic chaotic trajectory therefore requires, at its input, precisely an infinitely long and incompressible random sequence. Determinism does not remove openness; it moves the openness wholesale into the initial condition and then calls it given. Nicolas Gisin's argument from the side of physics echoes this: a finite region of space can hold only finite information, so a real-valued initial condition carrying infinite precision is not an object the world can realize.
 
 ```mermaid
-graph TD
-    subgraph S_ChaosLedger_EN ["【The Ledger of Chaos: Openness Moved into the Start】"]
+flowchart TD
+    subgraph S_ChaosLedger ["The Ledger of Chaos: Openness Moved into the Start"]
         direction TB
-        KE1["Initial condition x₀<br/>Infinite digits, not generated by the rule, not extractable by any observer"] --> KE2["Deterministic rule<br/>Each iteration shifts one digit left, adding no information"]
-        KE2 --> KE3["Macroscopic unpredictability<br/>Deep digits carried one by one to the visible scale"]
-        KE3 --> KE4["Randomness labeled merely epistemic"]
-        KE4 -. "Trace the source" .-> KE1
+        K1["Initial condition x₀ — Infinite digits, not generated by the rule, not extractable by any observer"] --> K2["Deterministic rule — Each iteration shifts one digit left, adding no information"]
+        K2 --> K3["Macroscopic unpredictability — Deep digits carried one by one to the visible scale"]
+        K3 --> K4["Randomness labeled merely epistemic"]
+        K4 -. "Trace the source" .-> K1
     end
-    style S_ChaosLedger_EN fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
-    style KE1 fill:#0d1117,stroke:#a371f7,stroke-width:1.5px,color:#f0f6fc
-    style KE2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style KE3 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style KE4 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style S_ChaosLedger fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style K1 fill:#0d1117,stroke:#a371f7,stroke-width:1.5px,color:#f0f6fc
+    style K2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style K3 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style K4 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
 ## 四、 没有固定者的固定 / 4. Fixed by Nothing
@@ -116,21 +116,21 @@ graph TD
 
 Once it is seen that chaos merely carries the initial condition upward, a deterministic defense has to concede the relocation itself: the initial digits are not explained by the rule but loaded into the starting point; chaotic amplification does not generate the missing detail but only makes the unexplained remainder visible; and this shows that the deterministic description has not accounted for its own boundary data. Yet the defense keeps a final line: none of this shows that the remainder must be an indeterministic opening, since it could equally be "structure the rule would have fixed had it been specified." Both readings fit the same finite record, and finite observation cannot select between them.
 
-这道防线在它自己的措辞里瓦解了。规则并不固定这些数位，这已经是前提。那么在“规则本会固定的结构”这一说法里，究竟是什么在执行固定？不是规则，因为规则只负责搬运；也不是任何观察，因为观察无法触及。在系统之内，没有任何东西固定它们。而一个不被系统内任何东西固定的细节，按照定义就是相对于该系统未被决定的。“未解析的确定性细节”这个说法，只是在不确定性上贴了一张写着“固定”的标签。决定论常常指责不确定论用命名制造差异，把认识论的局限偷换成本体论的主张；在这里，命名的戏法恰恰发生在决定论一侧。
+这道防线在它自己的措辞里瓦解了。规则并不固定这些数位，这已经是前提。那么在“规则本会固定的结构”这一说法里，究竟是什么在执行固定？不是规则，因为规则只负责搬运；也不是任何观察，因为观察无法触及。在系统之内，没有任何东西固定它们。而一个不被系统内任何东西固定的细节，按照定义就是相对于该系统未被决定的。“未解析的确定性细节”这个说法，只是在不确定性上贴了一张写着“固定”的标签。决定论常常指责不确定论用命名制造差异，把认识论的局限偷换成本体论的主张；在这里，命名的戏法恰恰发生在决定论一侧，正如[论关于 P 与 NP 所能言说的边界](../on-the-boundaries-of-what-can-be-said-about-p-and-np/)所追溯的那样：指出形式独立性“并不抹去”一个确定的真值，只是保留了实在论读法的自洽性，除非从公理外部额外设定一个唯一标准模型，否则它并未确立这一读法。
 
-This defense collapses inside its own wording. That the rule does not fix these digits is already the premise. Then in the phrase "structure the rule would have fixed," what exactly is doing the fixing? Not the rule, since the rule does nothing but carry; and not any observation, since observation cannot reach them. Within the system, nothing fixes them. And a detail fixed by nothing within the system is, by definition, undetermined relative to that system. "Unresolved deterministic detail" is simply indeterminism with a label reading "fixed" pasted onto it. Determinism often accuses indeterminism of manufacturing a difference by naming, of passing off an epistemic limit as an ontological claim; here, the naming trick happens on determinism's own side.
+This defense collapses inside its own wording. That the rule does not fix these digits is already the premise. Then in the phrase "structure the rule would have fixed," what exactly is doing the fixing? Not the rule, since the rule does nothing but carry; and not any observation, since observation cannot reach them. Within the system, nothing fixes them. And a detail fixed by nothing within the system is, by definition, undetermined relative to that system. "Unresolved deterministic detail" is simply indeterminism with a label reading "fixed" pasted onto it. Determinism often accuses indeterminism of manufacturing a difference by naming, of passing off an epistemic limit as an ontological claim; here, the naming trick happens on determinism's own side, just as [On the Boundaries of What Can Be Said about P and NP](../on-the-boundaries-of-what-can-be-said-about-p-and-np/) traces how observing that formal independence does not erase a definite truth value preserves the coherence of a realist reading without establishing it unless a unique standard model is posited from outside the axioms.
 
 两种读法因此并不对称。不确定的读法不在已登记之物之外添加任何东西：开口就是开口，它是每一个从自身位置出发说“我”的人实际所处的境况。确定的读法则必须假定一个已完成的对象，一份无穷多位数字都已被固定的完整状态。这个对象无法被任何观察触及，而一个作为自身记录一部分的系统，甚至无法在内部融贯地容纳它。把两者称为“同等欠定”，等于把这个不可观察的补全重新当作活的候选项，这正是无人视角从侧门的回归。欠定论证看似中立，实则早已站在了那个它自己承认不存在的立足点上。同一份中立也出现在抉择上：相容论认为抉择可以被先在的条件固定而仍属于行动者，“被决定与否尚无定论”的说法把这当作一个开着的候选项，[悬而未决是决定论的索求](../the-open-question-is-determinisms-demand/)追到它站的是同一个立足点，只是这一次那份已完成的对象是抉择本身。
 
 ```mermaid
-graph TD
-    subgraph S_Asymmetry ["【两种读法的不对称】"]
+flowchart TD
+    subgraph S_Asymmetry ["两种读法的不对称"]
         direction TB
-        R0["同一份有限记录"] --> R1["不确定读法<br/>不在已登记之物之外添加任何东西"]
-        R0 --> R2["确定读法<br/>假定无穷数位均已固定的完整状态"]
+        R0["同一份有限记录"] --> R1["不确定读法 — 不在已登记之物之外添加任何东西"]
+        R0 --> R2["确定读法 — 假定无穷数位均已固定的完整状态"]
         R1 --> R5["每一个说“我”的人实际所处的境况"]
-        R2 --> R3["追问：谁在执行固定？<br/>规则不固定，观察不可及"]
-        R3 --> R4["无固定者的固定<br/>即未被决定，只是换了标签"]
+        R2 --> R3["追问：谁在执行固定？ — 规则不固定，观察不可及"]
+        R3 --> R4["无固定者的固定 — 即未被决定，只是换了标签"]
     end
     style S_Asymmetry fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style R0 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -144,22 +144,22 @@ graph TD
 The two readings are therefore not symmetric. The indeterministic reading adds nothing beyond what is registered: an opening is an opening, and it is the situation actually occupied by everyone who says "I" from their own position. The deterministic reading must posit a completed object, a total state in which infinitely many digits have all been fixed. No observation can reach this object, and a system that is part of its own record cannot even coherently contain it. Calling the two "equally underdetermined" treats that unobservable completion as a live candidate once again, which is the view from nowhere returning through a side door. The underdetermination argument looks neutral, yet it is already standing on the very standpoint it concedes does not exist. The same neutrality appears at the act of choice: compatibilism holds that a choice can be fixed by prior conditions and still belong to the agent, and the statement that it is "not yet settled as determined or not" keeps this as a live candidate; [The Open Question Is Determinism's Demand](../the-open-question-is-determinisms-demand/) traces it to the same standpoint, where this time the completed object is the choice itself.
 
 ```mermaid
-graph TD
-    subgraph S_Asymmetry_EN ["【The Asymmetry of the Two Readings】"]
+flowchart TD
+    subgraph S_Asymmetry ["The Asymmetry of the Two Readings"]
         direction TB
-        RE0["The same finite record"] --> RE1["Indeterministic reading<br/>Adds nothing beyond what is registered"]
-        RE0 --> RE2["Deterministic reading<br/>Posits a total state with infinitely many digits already fixed"]
-        RE1 --> RE5["The situation of everyone who says 'I' from their own position"]
-        RE2 --> RE3["Question: what is doing the fixing?<br/>The rule does not fix, observation cannot reach"]
-        RE3 --> RE4["Fixed by nothing<br/>Undetermined, merely relabeled"]
+        R0["The same finite record"] --> R1["Indeterministic reading — Adds nothing beyond what is registered"]
+        R0 --> R2["Deterministic reading — Posits a total state with infinitely many digits already fixed"]
+        R1 --> R5["The situation of everyone who says 'I' from their own position"]
+        R2 --> R3["Question: what is doing the fixing? — The rule does not fix, observation cannot reach"]
+        R3 --> R4["Fixed by nothing — Undetermined, merely relabeled"]
     end
-    style S_Asymmetry_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style RE0 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style RE1 fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
-    style RE5 fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
-    style RE2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style RE3 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
-    style RE4 fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f0f6fc
+    style S_Asymmetry fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style R0 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style R1 fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
+    style R5 fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
+    style R2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style R3 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
+    style R4 fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f0f6fc
 ```
 
 ## 五、 决定论是借来的闭合 / 5. Determinism Is a Borrowed Closure
@@ -171,13 +171,13 @@ At this point the asymmetry comes into view. Every deterministic description nee
 在系统之内，这一点已经清楚：规则不生成它的边界数据，被装载的余项没有被系统内的任何东西选中，“未被决定”正是相对于该系统的准确表述。决定论还可以再退一步：这并不证明在模型之外没有某个更大的过程选择了边界。这个余地值得认真对待，因为它是追问的最后去处。任何被援引来选择边界的更大过程，要么本身是一个确定性描述，那么它同样需要一个自己无法生成的给定，追问只是后退了一层；要么被设想为终点，一个无需任何给定、自我完成的总过程，而这恰恰是那个无法触及的完整状态，只是换上了宇宙学或神学的名字。后退的每一层都重复同一个结构，后退的终点则是无人视角。这也是 [非万物之理](../not-a-theory-of-everything/) 的立足点：没有一层闭合能够关上全部。开放没有被闭合消除，它是闭合由之出发的条件。同样的给定也藏在对称模拟之中，[时间之箭的伪悖论与对称模拟的边界](../the-mirage-of-times-arrow-and-the-boundaries-of-simulation/)对此有所揭示。
 
 ```mermaid
-graph TD
-    subgraph S_Regress ["【外部选择者的后退】"]
+flowchart TD
+    subgraph S_Regress ["外部选择者的后退"]
         direction TB
         L1["局部闭合：确定性规则"] --> L1G["未被决定的给定"]
         L1G --> L2["援引更大的过程来选择边界"]
-        L2 --> L2A["若它是确定性描述<br/>同样需要自己无法生成的给定"]
-        L2 --> L2B["若它是自我完成的终点<br/>即那个无法触及的完整状态"]
+        L2 --> L2A["若它是确定性描述 — 同样需要自己无法生成的给定"]
+        L2 --> L2B["若它是自我完成的终点 — 即那个无法触及的完整状态"]
         L2A -. "追问后退一层，结构重复" .-> L1G
         L2B --> L3["无人视角换了名字"]
         L1G --> L4["开放是闭合由之出发的条件"]
@@ -195,25 +195,25 @@ graph TD
 Within the system, this much is already clear: the rule does not generate its boundary data, the loaded remainder is selected by nothing inside the system, and "undetermined relative to the system" is the accurate description. Determinism can retreat one step further: none of this proves that no larger process outside the model selects the boundary. The reservation deserves to be taken seriously, because it is where the question goes last. Any larger process invoked to select the boundary is either itself a deterministic description, in which case it equally needs a given it cannot generate and the question has merely retreated one level, or it is imagined as a terminus, a self-completing total process that needs no given at all, which is precisely the unreachable complete state, now wearing a cosmological or theological name. Every level of the retreat repeats the same structure, and the end of the retreat is the view from nowhere. This is also the footing of [Not a Theory of Everything](../not-a-theory-of-everything/): no layer of closure can close the whole. Openness is not removed by the closure; it is the condition the closure starts from. The same given hides in symmetric simulations, as [The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation](../the-mirage-of-times-arrow-and-the-boundaries-of-simulation/) shows.
 
 ```mermaid
-graph TD
-    subgraph S_Regress_EN ["【The Retreat of the Outer Selector】"]
+flowchart TD
+    subgraph S_Regress ["The Retreat of the Outer Selector"]
         direction TB
-        LE1["Local closure: deterministic rule"] --> LE1G["Undetermined given"]
-        LE1G --> LE2["Invoke a larger process to select the boundary"]
-        LE2 --> LE2A["If it is a deterministic description<br/>it too needs a given it cannot generate"]
-        LE2 --> LE2B["If it is a self-completing terminus<br/>it is the unreachable complete state"]
-        LE2A -. "The question retreats one level, structure repeats" .-> LE1G
-        LE2B --> LE3["The view from nowhere under a new name"]
-        LE1G --> LE4["Openness is the condition closure starts from"]
+        L1["Local closure: deterministic rule"] --> L1G["Undetermined given"]
+        L1G --> L2["Invoke a larger process to select the boundary"]
+        L2 --> L2A["If it is a deterministic description — it too needs a given it cannot generate"]
+        L2 --> L2B["If it is a self-completing terminus — it is the unreachable complete state"]
+        L2A -. "The question retreats one level, structure repeats" .-> L1G
+        L2B --> L3["The view from nowhere under a new name"]
+        L1G --> L4["Openness is the condition closure starts from"]
     end
-    style S_Regress_EN fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
-    style LE1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style LE1G fill:#0d1117,stroke:#a371f7,stroke-width:1.5px,color:#f0f6fc
-    style LE2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style LE2A fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style LE2B fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style LE3 fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f0f6fc
-    style LE4 fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
+    style S_Regress fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
+    style L1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style L1G fill:#0d1117,stroke:#a371f7,stroke-width:1.5px,color:#f0f6fc
+    style L2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style L2A fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style L2B fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style L3 fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f0f6fc
+    style L4 fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
 ```
 
 这与 [确定性是微观不确定性的统计签名](../determinism-is-the-statistical-signature-of-micro-indeterminism/) 走的是两条互补的路。那里，宏观规律性来自对大量个体不可预测性的统计抹平；这里，即使在单条轨迹的严格确定性模型之中，开放也没有消失，只是被压缩进了起点。前者在横向上把个体除掉，后者在纵向上把来源藏起。两者说明的是同一件事：确定性总是在某处支付了一笔未被解释的代价之后，才得以呈现为闭合。
@@ -223,12 +223,12 @@ This runs along a path complementary to [Determinism is the Statistical Signatur
 那个未被解释的给定，究竟是什么？在 [感知的界限与理解的无限](../the-boundary-of-perception-and-the-infinity-of-understanding/) 中我写道，我们并不具备一个可以被独立指涉的本体，唯有指向动作本身在场持存，向内体认为第一人称视域，向外投射为因果继起。每一个确定性模型的初始条件，正是建模者自己的指向动作被放进模型、随后又被遗忘的位置：选择这个系统、这个尺度、这组变量、这个起点。规则可以从这个起点出发严格推演，却无法推演出这个起点本身。未被决定的给定，是第一人称在每一个模型中留下的签名；正如 [残余与自由变量](../the-residue-and-the-free-variable/) 所示，它也是任何闭合描述都无法吸收的残余。
 
 ```mermaid
-graph TD
-    subgraph S_BorrowedClosure ["【借来的闭合：决定论依赖未被决定的给定】"]
+flowchart TD
+    subgraph S_BorrowedClosure ["借来的闭合：决定论依赖未被决定的给定"]
         direction TB
-        G1["指向动作：选择系统、尺度、变量与起点<br/>第一人称留下的签名"] --> G2["未被决定的给定<br/>初始条件、边界条件、常数精度"]
-        G2 --> G3["确定性规则<br/>从给定出发的严格推演"]
-        G3 --> G4["局部闭合<br/>预测、工程与检验"]
+        G1["指向动作：选择系统、尺度、变量与起点 — 第一人称留下的签名"] --> G2["未被决定的给定 — 初始条件、边界条件、常数精度"]
+        G2 --> G3["确定性规则 — 从给定出发的严格推演"]
+        G3 --> G4["局部闭合 — 预测、工程与检验"]
         G4 -. "倒错：宣称给定也早已被固定" .-> G5["把借来的起点冒充为模型的产物"]
     end
     style S_BorrowedClosure fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -242,20 +242,20 @@ graph TD
 What, then, is that unexplained given? In [The Boundary of Perception and the Infinity of Understanding](../the-boundary-of-perception-and-the-infinity-of-understanding/) I wrote that we possess no standalone ontology that can be pointed at independently; only the act of pointing itself is actual, experienced inwardly as the first-person horizon and projected outwardly as causal succession. The initial condition of every deterministic model is precisely the place where the modeler's own act of pointing was put into the model and then forgotten: choosing this system, this scale, these variables, this starting point. The rule can deduce rigorously from that starting point, yet it can never deduce the starting point itself. The undetermined given is the signature the first person leaves in every model; and as [The Residue and the Free Variable](../the-residue-and-the-free-variable/) shows, it is also the residue that no closed description can absorb.
 
 ```mermaid
-graph TD
-    subgraph S_BorrowedClosure_EN ["【Borrowed Closure: Determinism Rests on an Undetermined Given】"]
+flowchart TD
+    subgraph S_BorrowedClosure ["Borrowed Closure: Determinism Rests on an Undetermined Given"]
         direction TB
-        GE1["Act of pointing: choosing system, scale, variables, and start<br/>The signature left by the first person"] --> GE2["Undetermined given<br/>Initial conditions, boundary conditions, precision of constants"]
-        GE2 --> GE3["Deterministic rule<br/>Rigorous deduction from the given"]
-        GE3 --> GE4["Local closure<br/>Prediction, engineering, and testing"]
-        GE4 -. "Inversion: claiming the given was fixed all along" .-> GE5["Passing off the borrowed start as the model's own product"]
+        G1["Act of pointing: choosing system, scale, variables, and start — The signature left by the first person"] --> G2["Undetermined given — Initial conditions, boundary conditions, precision of constants"]
+        G2 --> G3["Deterministic rule — Rigorous deduction from the given"]
+        G3 --> G4["Local closure — Prediction, engineering, and testing"]
+        G4 -. "Inversion: claiming the given was fixed all along" .-> G5["Passing off the borrowed start as the model's own product"]
     end
-    style S_BorrowedClosure_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style GE1 fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
-    style GE2 fill:#0d1117,stroke:#a371f7,stroke-width:1.5px,color:#f0f6fc
-    style GE3 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style GE4 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style GE5 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style S_BorrowedClosure fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style G1 fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
+    style G2 fill:#0d1117,stroke:#a371f7,stroke-width:1.5px,color:#f0f6fc
+    style G3 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style G4 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style G5 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
 读到这里，自然会有人问：那这篇文章自己的前提是什么？如果我给出一个前提，它就成了又一个规则无法生成的给定，文章便在自己批评的地方闭合。我并不拒绝前提：在每一段具体的推理中，前提都可以作为过往切分留下的残余痕迹被选定、被陈述、被修正，它们是脚手架。我拒绝的只是把任何一个被陈述出来的前提当作地基。正如 [你的代码库即是记忆](../your-codebase-is-memory/) 沿着层层累积的残余所追溯的，第一人称与因果并不在那份供人化约或反驳的主张清单之中，因为它们不是从菜单里挑出来的留存构件，而是正在进行的选择与区分本身：要否认它们，就必须先站在某个位置上、做出一次选择、承担这次否认的后果。所以“你的初始条件是什么”这个问题，本身也是从某个位置发出的一次指向；它默认存在一个可以俯瞰所有前提、再从中挑选的立足点，那正是无人视角。我能给出的回答只有一个：每一个前提，都是某个人从某个位置上选定的，包括此刻提出这个问题的人。
