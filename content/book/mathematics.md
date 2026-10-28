@@ -33,3 +33,4 @@ The essays here explore the distinction between potential and actual infinity, t
 - [全息回声 / The Holographic Echo](../../posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function/)
 - [共存的几何学 / The Geometry of Coexistence](../../posts/the-geometry-of-coexistence-and-the-dual-cut/)
 - [两度显现的不完备性 / Incompleteness Exhibited Twice](../../posts/incompleteness-exhibited-twice/)
+- [论关于 P 与 NP 所能言说的边界 / On the Boundaries of What Can Be Said about P and NP](../../posts/on-the-boundaries-of-what-can-be-said-about-p-and-np/)

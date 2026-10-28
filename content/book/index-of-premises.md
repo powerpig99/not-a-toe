@@ -395,6 +395,15 @@ Deleuze replaced static substances with dynamic difference and becoming; brillia
 
 → [对象是被稳定化的关系 / Objects Are Stabilized Relationships](../../posts/objects-are-stabilized-relationships/)
 
+### 戈特弗里德·威廉·莱布尼茨 / Gottfried Wilhelm Leibniz
+`哲学 / Philosophical`
+
+莱布尼茨提出同一者不可分原理与不可分者同一原理，指出数值上同一的事物共享每一项性质而不留任何可区分之处，在澄清本体同一的含义时有用；它在此到了边界：数学上的相等（如 1 = 1 或 P = NP）是由外延公理与自反性引入的形式同余规则，许可在公式内部跨不同内涵呈现作替换，并不确立形式语言之外的本体同一。
+
+Leibniz formulated the indiscernibility of identicals and the identity of indiscernibles, holding that numerically identical things share every property and leave nothing by which to distinguish them, which is of use in clarifying what ontological identity means; it reaches its boundary in that mathematical equality (such as 1 = 1 or P = NP) is a formal congruence rule introduced by extensionality and reflexivity that licenses substitution across distinct intensional presentations inside formulas without establishing ontological sameness outside the formal language.
+
+→ [工具的幻觉与时间的倒置 / The Illusion of the Tool and the Inversion of Time](../../posts/the-illusion-of-the-tool-and-the-inversion-of-time/) · [论关于 P 与 NP 所能言说的边界 / On the Boundaries of What Can Be Said about P and NP](../../posts/on-the-boundaries-of-what-can-be-said-about-p-and-np/)
+
 ### 汉娜·阿伦特 / Hannah Arendt
 `哲学 / Philosophical`
 
@@ -1203,7 +1212,7 @@ Machine learning narratives treat optimization as an intelligent agent seeking t
 
 Gödel proves that any consistent, effectively axiomatized formal system strong enough to express basic arithmetic contains independent statements it can neither prove nor refute from within and cannot prove its own consistency, which is of use in stating the limits of formal systems precisely; it reaches its boundary in that, as a proposition about external systems, it can be stated, checked and transmitted while the stating itself does not produce registration of the open residue from within the distinguishing activity, and, when read as a proof about mind itself, the same limit reappears outside the system, between Minds.
 
-→ [潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [没有系统能被保持封闭 / No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/) · [验证的倒置 / The Reversal of Verification](../../posts/the-reversal-of-verification/) · [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/) · [进位无法在寄存器之内被命名 / The Carry That Cannot Be Named Inside the Register](../../posts/the-carry-that-cannot-be-named-inside-the-register/) · [两度显现的不完备性 / Incompleteness Exhibited Twice](../../posts/incompleteness-exhibited-twice/)
+→ [潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [没有系统能被保持封闭 / No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/) · [验证的倒置 / The Reversal of Verification](../../posts/the-reversal-of-verification/) · [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/) · [进位无法在寄存器之内被命名 / The Carry That Cannot Be Named Inside the Register](../../posts/the-carry-that-cannot-be-named-inside-the-register/) · [两度显现的不完备性 / Incompleteness Exhibited Twice](../../posts/incompleteness-exhibited-twice/) · [论关于 P 与 NP 所能言说的边界 / On the Boundaries of What Can Be Said about P and NP](../../posts/on-the-boundaries-of-what-can-be-said-about-p-and-np/)
 
 ### 成长型思维 / Growth Mindset
 `成功学 / Self-Help`
@@ -3744,6 +3753,15 @@ The outsmarting narrative dresses up failure in consequence-free digital sandbox
 Hailing a Phase 3 readout as hope arriving overnight is of use in making a threshold widely seen; it reaches its boundary in that it presumes the sudden birth of a method, while years of platform work preceded it and the readout marks a threshold of comparison clean enough to repeat as news.
 
 → [秩序、剩余与道德拦截 / Order, Surplus, and the Moral Intercept](../../posts/order-surplus-and-the-moral-intercept/)
+
+### P 与 NP 问题 / The P versus NP Problem
+`数学 / Mathematical`
+
+P 与 NP 问题追问每一个可由非确定性多项式时间图灵机接受的语言是否也可由确定性多项式时间图灵机接受，在给定公理系统内部组织归约与可解性边界时有用；它在此到了边界：数学上的相等只是许可在公式内跨不同内涵呈现作替换的形式同余规则，并非本体同一，而在形式独立性之外断言两个类在唯一“标准模型”中重合或分立，则需要一项越过公理所能证明之范围的数学外设定。
+
+The P versus NP problem asks whether every language accepted by a nondeterministic polynomial-time Turing machine is also accepted by a deterministic one, which is of use in organizing reductions and tractability bounds inside a stipulated axiomatic system; it reaches its boundary in that mathematical equality is a formal congruence rule licensing substitution across distinct intensional presentations rather than ontological identity, and asserting that the classes coincide or diverge in a unique "standard model" beyond formal independence requires an extra-mathematical posit past what the axioms license.
+
+→ [论关于 P 与 NP 所能言说的边界 / On the Boundaries of What Can Be Said about P and NP](../../posts/on-the-boundaries-of-what-can-be-said-about-p-and-np/)
 
 ### 范式转移与局部延伸 / Paradigm Shift vs Extension
 `哲学 / Philosophical`
