@@ -722,11 +722,11 @@ The phrase "reality distortion field" presumes that the mass picture is the fiel
 ### 递归自我改进 / Recursive Self-Improvement
 `技术 / Technological`
 
-递归自我改进预设，一个能改进自身的系统，会经由一个越来越快的回路变成独立的发起者，在描述更长的连贯链条、中途修订与自己提出的实验如何加快执行时有用；它在此到了边界：执行上的自主提高了回路的速度，却不搬动它们的源头，留下还是舍弃仍交给那个唯一闭合于自身的回路，而每一次回折所产出的开放，来自回折本身，不来自器物。
+递归自我改进预设，一个能改进自身的系统，会经由一个越来越快的回路变成独立的发起者，在描述更长的连贯链条、中途修订与自己提出的实验如何加快执行时有用；它在此到了边界：执行上的自主提高了回路的速度，却不搬动它们的源头，留下还是舍弃仍交给那个唯一闭合于自身的回路，而每一次回折所产出的开放，来自回折本身，不来自器物；网络在回路内逐个片段判定意外时，判定是真实的，自我决定的整体却只在给出意外定义的外环淡出视野时才显现。
 
-Recursive self-improvement presumes that a system able to improve itself becomes an independent initiator through an ever faster loop, which is of use in describing how longer coherent chains, intermediate revision, and self-proposed experiments speed execution; it reaches its boundary in that autonomy of execution raises the velocity of the loops without relocating their source, retain-or-discard is still deferred to the only circuit that closes on itself, and the openness each fold yields comes from the fold, not from the artifact.
+Recursive self-improvement presumes that a system able to improve itself becomes an independent initiator through an ever faster loop, which is of use in describing how longer coherent chains, intermediate revision, and self-proposed experiments speed execution; it reaches its boundary in that autonomy of execution raises the velocity of the loops without relocating their source, retain-or-discard is still deferred to the only circuit that closes on itself, and the openness each fold yields comes from the fold, not from the artifact; when a network determines its surprises span by span inside the loop, the determination is real, while a whole that determines itself appears only where the outer loop that defined surprise drops out of view.
 
-→ [自我放大的制品 / The Artifacts of Self-Amplification](../../posts/the-artifacts-of-self-amplification/) · [错把表达当成智能 / Mistaking the Expression for the Intelligence](../../posts/mistaking-the-expression-for-the-intelligence/) · [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/)
+→ [自我放大的制品 / The Artifacts of Self-Amplification](../../posts/the-artifacts-of-self-amplification/) · [错把表达当成智能 / Mistaking the Expression for the Intelligence](../../posts/mistaking-the-expression-for-the-intelligence/) · [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/) · [学到的边界与给定的尺度 / Learned Boundaries and the Given Rate](../../posts/learned-boundaries-and-the-given-rate/)
 
 ### 勒内·笛卡尔 / René Descartes
 `哲学 / Philosophical`
@@ -5341,20 +5341,20 @@ Presumes that exhaustively mapping a generative model's architectural topology, 
 ### 分词与字节级建模 / Tokenization and Byte-Level Modeling
 `技术 / Technological`
 
-预设子词分词只是中性的效率压缩，或将基本单元下调为字节以至直接输出机器二进制码便能消解表征天花板、触底底层基底；在各自校准的算力与延迟区间内权衡序列长度与词元内部结构时有效，但当分词器、字节方案与编译器都被认出是落在观测边界近侧的人造脚手架、而切口远侧悬而未决的不确定性恰是任何进一步制造与言说得以展开的构成性条件时到达边界。
+预设子词分词只是中性的效率压缩，或将基本单元下调为字节以至直接输出机器二进制码便能消解表征天花板、触底底层基底；在各自校准的算力与延迟区间内权衡序列长度与词元内部结构时有效，但当分词器、字节方案与编译器都被认出是落在观测边界近侧的人造脚手架、而切口远侧悬而未决的不确定性恰是任何进一步制造与言说得以展开的构成性条件时到达边界；按语境学到的分段让边界随片段的转折重划，而压缩的尺度仍作为网络在其中组织的界限由外环给定，并依结果修正。
 
-Presumes either that subword tokenization is a neutral efficiency compression or that lowering the unit to bytes and direct machine binaries removes representational ceilings to exhaust the substrate; effective for trading sequence length against sub-token structure inside calibrated compute and latency regimes, it reaches its boundary because tokenizers, byte schemes, and compilers alike sit on the near side of an observational cut whose far-side indeterminism is the constitutive condition for any further making or talking.
+Presumes either that subword tokenization is a neutral efficiency compression or that lowering the unit to bytes and direct machine binaries removes representational ceilings to exhaust the substrate; effective for trading sequence length against sub-token structure inside calibrated compute and latency regimes, it reaches its boundary because tokenizers, byte schemes, and compilers alike sit on the near side of an observational cut whose far-side indeterminism is the constitutive condition for any further making or talking; segmentation learned per context redraws boundaries where a span turns, while the compression rate stays a bound given at the outer loop, within which the network is organized and which results refine.
 
-→ [词元与观测边界 / Tokens and the Observational Boundary](../../posts/tokens-and-the-observational-boundary/) · [人、Token 与估值的范围 / Humans, Tokens, and the Scope of Valuation](../../posts/humans-tokens-and-the-scope-of-valuation/) · [抽象的阶梯与可执行的实体 / The Ladder of Abstraction and the Executable Entity](../../posts/the-ladder-of-abstraction-and-the-executable-entity/)
+→ [词元与观测边界 / Tokens and the Observational Boundary](../../posts/tokens-and-the-observational-boundary/) · [人、Token 与估值的范围 / Humans, Tokens, and the Scope of Valuation](../../posts/humans-tokens-and-the-scope-of-valuation/) · [抽象的阶梯与可执行的实体 / The Ladder of Abstraction and the Executable Entity](../../posts/the-ladder-of-abstraction-and-the-executable-entity/) · [学到的边界与给定的尺度 / Learned Boundaries and the Given Rate](../../posts/learned-boundaries-and-the-given-rate/)
 
 ### 残差网络与前馈分类预设 / Residual Networks and the Feedforward Classification Premise
 `技术 / Technological`
 
-预设残差网络（`yₗ₊₁ = yₗ + F(yₗ, Wₗ)`）只是深度前馈堆叠上的梯度流数值技巧，或静态编译的计算图足以刻画一切多步推演；在解释反向传播中恒等捷径如何缓解梯度衰减与爆炸时有效，但当“前馈”标签遮蔽了恒等主干作为跨步保留参考（使单条脆弱的全局端到端反馈回路拆解为计算有界局部差值的模块化反馈回路）的因果几何，或忽视有界智能体技能回路在容量过载下提请有丝分裂拆分、在章程更新收敛（`Δθₗ → 0`）下提请零语境结晶并始终系于人类外环初始条件 `y₀` 与主权核准时到达边界。
+预设残差网络（`yₗ₊₁ = yₗ + F(yₗ, Wₗ)`）只是深度前馈堆叠上的梯度流数值技巧，或静态编译的计算图足以刻画一切多步推演；在解释反向传播中恒等捷径如何缓解梯度衰减与爆炸时有效，但当“前馈”标签遮蔽了恒等主干作为跨步保留参考（使单条脆弱的全局端到端反馈回路拆解为计算有界局部差值的模块化反馈回路）的因果几何，或忽视有界智能体技能回路在容量过载下提请有丝分裂拆分、在章程更新收敛（`Δθₗ → 0`）下提请零语境结晶并始终系于人类外环初始条件 `y₀` 与主权核准时到达边界；当分段粒度、路由与模块拓扑也在网络自身的回路内划定与分裂时，静态神经网络与动态技能回路之别便显出它从来不在神经与智能体之间，而在外环向内环开放了哪些自由度。
 
-Presumes that residual networks (`yₗ₊₁ = yₗ + F(yₗ, Wₗ)`) are merely a numerical gradient-flow trick inside a feedforward stack or that a statically compiled computation graph suffices for multi-step derivation; effective for explaining how identity shortcuts mitigate vanishing and exploding gradients during backpropagation, it reaches its boundary when the "feedforward" label obscures the causal geometry of the identity highway as a retained reference that decomposes one brittle global feedback loop into modular local feedback loops computing bounded differentials, and when static graphs miss how bounded skill loops propose mitosis under capacity overload and zero-context crystallization as charter updates converge (`Δθₗ → 0`) while remaining anchored to the human outer loop's initial condition `y₀` and sovereign ratification.
+Presumes that residual networks (`yₗ₊₁ = yₗ + F(yₗ, Wₗ)`) are merely a numerical gradient-flow trick inside a feedforward stack or that a statically compiled computation graph suffices for multi-step derivation; effective for explaining how identity shortcuts mitigate vanishing and exploding gradients during backpropagation, it reaches its boundary when the "feedforward" label obscures the causal geometry of the identity highway as a retained reference that decomposes one brittle global feedback loop into modular local feedback loops computing bounded differentials, and when static graphs miss how bounded skill loops propose mitosis under capacity overload and zero-context crystallization as charter updates converge (`Δθₗ → 0`) while remaining anchored to the human outer loop's initial condition `y₀` and sovereign ratification; once the grain of segmentation, the routing, and the module topology are drawn and split inside the network's own loop, the static-neural versus dynamic-skill contrast shows it was never neural against agentic but which degrees of freedom the outer loop opens to the inner loop.
 
-→ [模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks](../../posts/dynamic-resnet-of-skill-loops/)
+→ [模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks](../../posts/dynamic-resnet-of-skill-loops/) · [学到的边界与给定的尺度 / Learned Boundaries and the Given Rate](../../posts/learned-boundaries-and-the-given-rate/)
 
 ### 脱离语境的精度预设 / The Context-Free Precision Premise
 `哲学 / Philosophical`
@@ -5364,3 +5364,12 @@ Presumes that residual networks (`yₗ₊₁ = yₗ + F(yₗ, Wₗ)`) are merely
 Presumes that clarity in thought, writing, or coding consists in context-independent exactness that captures every detail without remainder; useful for checking local syntax, notation consistency, and component tolerances once a problem's frame is already fixed, it reaches its boundary when consequential distinctions have not yet been separated from incidental detail at the grain size the situation requires, or when shifting constraints call for dynamic grain-size adjustment while local exactness merely propagates upstream blur.
 
 → [精度与分辨率 / Precision and Resolution](../../posts/precision-and-resolution/)
+
+### 持续学习 / Continual Learning
+`技术 / Technological`
+
+持续学习预设，模型能在部署之后自行从不断到来的输入中继续学习，而不覆盖已经学到的东西，在说明为何参照须在测量期间保持不动、为何锚定于既有所持的修订能防止新模式覆盖旧模式时有用；它在此到达边界：何者算作意外、巩固可施加哪些算子、提交以何为准，都是外环给出并依结果修正的定义，回路内的判定是真实的，而把它读作模型自定其准则，便是外环淡出视野。
+
+Continual learning presumes that a model can go on learning by itself from what arrives after deployment without overwriting what it has learned, which is of use in showing why a reference must hold still during measurement and why revision anchored to what was already held keeps a new pattern from overwriting it; it reaches its boundary in that what counts as surprise, which operators consolidation may apply, and what a commit must satisfy are definitions given at the outer loop and refined there by results, so that the determination inside the loop is real, while reading it as the model setting its own criteria is the outer loop dropping out of view.
+
+→ [学到的边界与给定的尺度 / Learned Boundaries and the Given Rate](../../posts/learned-boundaries-and-the-given-rate/)

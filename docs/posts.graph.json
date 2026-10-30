@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-28T21:08:51.876Z",
+    "generated_at": "2026-10-30T08:31:26.665Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -116,6 +116,7 @@
       "content/posts/intelligence-folding-back-on-itself.md": "457b6b772b47",
       "content/posts/intelligence-traps-itself.md": "533c6e1e356a",
       "content/posts/judgment-is-not-a-stock.md": "9526af861c78",
+      "content/posts/learned-boundaries-and-the-given-rate.md": "18376cec5612",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "b5bfd1bca0dc",
       "content/posts/looping-and-graphing.md": "1a929b3e0f11",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "659c68bf2162",
@@ -424,8 +425,8 @@
       "content/book/causality.md": "51d6cd58236e",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "fee5af9d62b0",
-      "content/book/intelligence.md": "fa27f9624ed0",
+      "content/book/index-of-premises.md": "0a49c4a82258",
+      "content/book/intelligence.md": "562728811be2",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "0caf97231862",
       "content/book/mathematics.md": "8f6d273c0db8",
@@ -439,16 +440,16 @@
       "content/book/tools-and-progress.md": "09f19b0967d0"
     },
     "stats": {
-      "posts": 413,
-      "edges": 12110,
-      "unique_directed": 5954,
+      "posts": 414,
+      "edges": 12132,
+      "unique_directed": 5965,
       "missing_targets": 0,
-      "one_way": 1140,
+      "one_way": 1151,
       "isolated": 0,
-      "posts_with_outbound": 413,
+      "posts_with_outbound": 414,
       "book_pages": 16,
-      "book_edges": 1186,
-      "posts_reached_by_book": 413
+      "book_edges": 1191,
+      "posts_reached_by_book": 414
     }
   },
   "hubs_in": [
@@ -478,7 +479,7 @@
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "in_degree": 66
+      "in_degree": 67
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -675,7 +676,7 @@
       "path": "content/posts/a-living-external-cortex.md",
       "title": "活的外部皮层 / A Living External Cortex",
       "hash": "d620e21cddfc",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 8,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1167,7 +1168,7 @@
       "path": "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md",
       "title": "递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems",
       "hash": "335a3907a29c",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 10,
       "links_out": [
         "no-system-can-be-kept-closed",
@@ -2209,7 +2210,7 @@
       "path": "content/posts/dynamic-resnet-of-skill-loops.md",
       "title": "模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks",
       "hash": "185452d41cc2",
-      "in_degree": 25,
+      "in_degree": 26,
       "out_degree": 7,
       "links_out": [
         "the-descent-that-doesnt-know-where-its-going",
@@ -2941,7 +2942,7 @@
       "path": "content/posts/handing-off-residue.md",
       "title": "交接残余 / Handing Off Residue",
       "hash": "4b07e5510e53",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 9,
       "links_out": [
         "beyond-the-projection",
@@ -3534,6 +3535,29 @@
         "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
         "curiosity-has-no-final-form",
         "your-codebase-is-memory"
+      ]
+    },
+    {
+      "id": "post:learned-boundaries-and-the-given-rate",
+      "kind": "post",
+      "slug": "learned-boundaries-and-the-given-rate",
+      "path": "content/posts/learned-boundaries-and-the-given-rate.md",
+      "title": "学到的边界与给定的尺度 / Learned Boundaries and the Given Rate",
+      "hash": "18376cec5612",
+      "in_degree": 0,
+      "out_degree": 11,
+      "links_out": [
+        "precision-and-resolution",
+        "tokens-and-the-observational-boundary",
+        "on-demand-contexts-keep-coherence-at-one-step",
+        "a-living-external-cortex",
+        "when-malfunction-is-scored-as-intelligence",
+        "the-model-never-becomes-a-second-edge",
+        "dynamic-resnet-of-skill-loops",
+        "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+        "handing-off-residue",
+        "the-brain-does-not-backprop",
+        "the-presumption-of-agi-and-the-view-from-outside"
       ]
     },
     {
@@ -4308,7 +4332,7 @@
       "path": "content/posts/on-demand-contexts-keep-coherence-at-one-step.md",
       "title": "按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step",
       "hash": "1b95f003009a",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 8,
       "links_out": [
         "your-codebase-is-memory",
@@ -4945,7 +4969,7 @@
       "path": "content/posts/precision-and-resolution.md",
       "title": "精度与分辨率 / Precision and Resolution",
       "hash": "fc4f72839c7f",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 9,
       "links_out": [
         "the-comment-is-not-the-code",
@@ -6370,7 +6394,7 @@
       "path": "content/posts/the-brain-does-not-backprop.md",
       "title": "大脑不进行反向传播，而是正向传导 / The Brain Does Not Backprop, but Propagates",
       "hash": "37f4329c23e4",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 11,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -8702,7 +8726,7 @@
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge",
       "hash": "f2c984cf98ec",
-      "in_degree": 66,
+      "in_degree": 67,
       "out_degree": 48,
       "links_out": [
         "your-codebase-is-memory",
@@ -9164,7 +9188,7 @@
       "path": "content/posts/the-presumption-of-agi-and-the-view-from-outside.md",
       "title": "AGI的预设与来自外部的视角 / The Presumption of AGI and the View from Outside",
       "hash": "36262a369738",
-      "in_degree": 23,
+      "in_degree": 24,
       "out_degree": 25,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -10603,7 +10627,7 @@
       "path": "content/posts/tokens-and-the-observational-boundary.md",
       "title": "词元与观测边界 / Tokens and the Observational Boundary",
       "hash": "b7b29e167ecf",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 11,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -11057,7 +11081,7 @@
       "path": "content/posts/when-malfunction-is-scored-as-intelligence.md",
       "title": "失灵被记作聪明 / When Malfunction Is Scored as Intelligence",
       "hash": "8adae7d53567",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 8,
       "links_out": [
         "beyond-the-projection",
@@ -31245,6 +31269,138 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
+      "to": "precision-and-resolution",
+      "rel": "points_to",
+      "label": "精度与分辨率"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
+      "to": "tokens-and-the-observational-boundary",
+      "rel": "points_to",
+      "label": "词元与观测边界"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
+      "to": "precision-and-resolution",
+      "rel": "points_to",
+      "label": "Precision and Resolution"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
+      "to": "tokens-and-the-observational-boundary",
+      "rel": "points_to",
+      "label": "Tokens and the Observational Boundary"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
+      "to": "on-demand-contexts-keep-coherence-at-one-step",
+      "rel": "points_to",
+      "label": "按需语境将融贯保持在一步"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
+      "to": "a-living-external-cortex",
+      "rel": "points_to",
+      "label": "活的外部皮层"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
+      "to": "on-demand-contexts-keep-coherence-at-one-step",
+      "rel": "points_to",
+      "label": "On-Demand Contexts Keep Coherence at One Step"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
+      "to": "a-living-external-cortex",
+      "rel": "points_to",
+      "label": "A Living External Cortex"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
+      "to": "when-malfunction-is-scored-as-intelligence",
+      "rel": "points_to",
+      "label": "失灵被记作聪明"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
+      "to": "when-malfunction-is-scored-as-intelligence",
+      "rel": "points_to",
+      "label": "When Malfunction Is Scored as Intelligence"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
+      "to": "dynamic-resnet-of-skill-loops",
+      "rel": "points_to",
+      "label": "模块化反馈回路与动态残差网络"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
+      "to": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+      "rel": "points_to",
+      "label": "递归形式系统中作为记忆与控制的边界条件图"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
+      "to": "dynamic-resnet-of-skill-loops",
+      "rel": "points_to",
+      "label": "Modular Feedback Loops and Dynamic Residual Networks"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
+      "to": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+      "rel": "points_to",
+      "label": "Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
+      "to": "handing-off-residue",
+      "rel": "points_to",
+      "label": "交接残余"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
+      "to": "handing-off-residue",
+      "rel": "points_to",
+      "label": "Handing Off Residue"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
+      "to": "the-brain-does-not-backprop",
+      "rel": "points_to",
+      "label": "大脑不进行反向传播，而是正向传导"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "AGI的预设与来自外部的视角"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
+      "to": "the-brain-does-not-backprop",
+      "rel": "points_to",
+      "label": "The Brain Does Not Backprop, but Propagates"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "The Presumption of AGI and the View from Outside"
     },
     {
       "from": "liberation-rhetoric-begins-by-defining-captivity",
@@ -84226,8 +84382,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "fee5af9d62b0",
-        "out_degree": 413
+        "hash": "0a49c4a82258",
+        "out_degree": 414
       },
       {
         "id": "book:intelligence",
@@ -84235,8 +84391,8 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "fa27f9624ed0",
-        "out_degree": 50
+        "hash": "562728811be2",
+        "out_degree": 51
       },
       {
         "id": "book:knowledge-and-learning",
@@ -85592,6 +85748,12 @@
         "to": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
         "rel": "collects",
         "label": "递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "learned-boundaries-and-the-given-rate",
+        "rel": "collects",
+        "label": "学到的边界与给定的尺度 / Learned Boundaries and the Given Rate"
       },
       {
         "from": "book:index-of-premises",
@@ -89543,15 +89705,33 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "learned-boundaries-and-the-given-rate",
+        "rel": "collects",
+        "label": "学到的边界与给定的尺度 / Learned Boundaries and the Given Rate"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "dynamic-resnet-of-skill-loops",
         "rel": "collects",
         "label": "模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks"
       },
       {
         "from": "book:index-of-premises",
+        "to": "learned-boundaries-and-the-given-rate",
+        "rel": "collects",
+        "label": "学到的边界与给定的尺度 / Learned Boundaries and the Given Rate"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "precision-and-resolution",
         "rel": "collects",
         "label": "精度与分辨率 / Precision and Resolution"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "learned-boundaries-and-the-given-rate",
+        "rel": "collects",
+        "label": "学到的边界与给定的尺度 / Learned Boundaries and the Given Rate"
       },
       {
         "from": "book:intelligence",
@@ -89852,6 +90032,12 @@
         "to": "the-carry-that-cannot-be-named-inside-the-register",
         "rel": "collects",
         "label": "进位无法在寄存器之内被命名 / The Carry That Cannot Be Named Inside the Register"
+      },
+      {
+        "from": "book:intelligence",
+        "to": "learned-boundaries-and-the-given-rate",
+        "rel": "collects",
+        "label": "学到的边界与给定的尺度 / Learned Boundaries and the Given Rate"
       },
       {
         "from": "book:knowledge-and-learning",
