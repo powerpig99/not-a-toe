@@ -17,6 +17,6 @@
    - HOLD: an irreducible deadlock on a premise or goal interpretation after `research-vN.md` has already been considered.
 5. Artifact Packaging Before Retirement:
    - If all flags are CONCEDE (zero SCOUT and zero HOLD), write EVALUATOR: confirmed at the bottom of debate-vN.md, copy plan-vN.md to work/plan/<task-id>/final-plan.md, and return ONLY: STATUS: EVALUATOR_CONFIRMED work/plan/<task-id>/final-plan.md.
-   - If one or more SCOUT flags remain (with zero HOLD), write ONLY the neutral, falsifiable research questions to work/plan/<task-id>/residuals-vN.md (never session narrative or debate rationalizations), and return ONLY: STATUS: RESIDUALS_PACKAGED work/plan/<task-id>/residuals-vN.md.
+   - If one or more SCOUT flags remain (with zero HOLD), write ONLY the research questions drawn from the open SCOUT items to work/plan/<task-id>/residuals-vN.md (never session narrative or debate rationalizations), and return ONLY: STATUS: RESIDUALS_PACKAGED work/plan/<task-id>/residuals-vN.md.
    - If any HOLD flag remains, write the exact deadlocked tensions and coordinates to work/plan/<task-id>/residuals-vN.md, and return ONLY: STATUS: HOLD work/plan/<task-id>/residuals-vN.md.
 ```
