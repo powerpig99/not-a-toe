@@ -2,8 +2,8 @@
 
 > **Canonical Generic Specification:** [`docs/wave-refinement-plan.md`](../wave-refinement-plan.md)  
 > **Companion Essays:** [`On-Demand Contexts Keep Coherence at One Step`](../../content/posts/on-demand-contexts-keep-coherence-at-one-step.md), [`Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems`](../../content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md) & [`Modular Feedback Loops and Dynamic Residual Networks`](../../content/posts/dynamic-resnet-of-skill-loops.md)  
-> **Runtime:** Google Antigravity (`define_subagent`, `invoke_subagent`, `send_message`, `manage_subagents`, `search_web`, MCP tools, reactive wakeup, `ask_question`) + Headless Claude Code (`claude -p --model claude-opus-5-5 --effort medium`) for Cold Critics (`critic`, `stylist`, `evaluator`, `recap`, and Stage 0 / Pre-Escalation / §4.5 cold critics) & `/media` roles  
-> **Scope:** Primary runtime for `not-a-toe` Living Book authoring and memory consolidation (`/wake`, `/draft`, `/sleep`, `/deep-sleep`), Orthogonal Planning (`/scout` / `/orthogonal-plan`), and `/recap` across **any project in Extended Memory (`/Users/jingliang/Projects/*`)** (with `/media <slug>` also supported here or run in Claude Code).  
+> **Runtime:** Google Antigravity (`define_subagent`, `invoke_subagent`, `send_message`, `manage_subagents`, `search_web`, MCP tools, reactive wakeup, `ask_question`) + Headless Claude Code (`claude -p --model claude-opus-5-5 --effort medium`) for Cold Critics (`critic`, `stylist`, `evaluator`, `recap`, and Stage 0 / Pre-Escalation / §4.5 cold critics)  
+> **Scope:** Primary runtime for `not-a-toe` Living Book authoring and memory consolidation (`/wake`, `/draft`, `/sleep`, `/deep-sleep`), Orthogonal Planning (`/scout` / `/orthogonal-plan`), and `/recap` across **any project in Extended Memory (`/Users/jingliang/Projects/*`)** (with the `/media <slug>` embed step and Grok Bot messaging, §5).  
 > **Skills:** Antigravity loads project skills from `~/.gemini/config/plugins/ontological-clarity/skills/` (`<name>` → `~/.grok/skills/<name>`, and `ontological-clarity/SKILL.md` → `/Users/jingliang/Projects/ontological-clarity/SKILL.md`); `~/.gemini/skills/` and `~/.claude/skills/` mirror the same symlinks.
 
 ---
@@ -123,38 +123,10 @@ Register `planner` and `scouter` via `define_subagent` and invoke `evaluator` vi
 
 ---
 
-## 5. Antigravity Realization of the Local Media Production Pipeline (`/media <slug>`)
+## 5. Antigravity Realization of the Media Embed Step & Grok Bot Messaging (`/media <slug>`)
 
-Generic agentic-system-agnostic specification: [`docs/wave-refinement-plan.md` §8](../wave-refinement-plan.md).
+Generic specification: [`docs/wave-refinement-plan.md` §8](../wave-refinement-plan.md). Media are produced and published on Grok Bot; the Mac-side detail lives in `studio/kits/shared/library/workflow.md` and the `media` skill.
 
-### 5.1 Hybrid Dispatch Architecture (`Antigravity Dispatcher` + `Headless Claude Code (Opus 5.5, Medium)` + `In-House Image Gen` + `Direct Grok Bot Handoff`)
-
-When `/media <slug>` is run from Antigravity (the default hybrid orchestration mode, owner 2026-10-26):
-1. **Top-Level Media Dispatcher in Antigravity:** The Antigravity Main Agent holds Stage 0 initialization (`stall_watch.py` + `stall_watch.py --wait`), `O(1)` `STATUS:` routing, Wave 3 CLI exports/publishers (`export-infographic.mjs`, `youtube.mjs`, `x-post.mjs`), site build/deploy, and Outer-Loop `/recap` + `清盘`.
-2. **Claude-Executed Tasks via Headless Claude Code (`Opus 5.5, Medium`):** Every role executed by Claude is dispatched from Antigravity via `run_command` in `/Users/jingliang/Projects/not-a-toe` using headless Claude Code:
-   ```bash
-   claude -p \
-     --model claude-opus-5-5 \
-     --effort medium \
-     --permission-mode bypassPermissions \
-     --add-dir /Users/jingliang/Projects/not-a-toe \
-     --session-id <role-uuid> \
-     "<charter + pointer-only prompt>"
-   ```
-   On Round 2+ of a role's debate within the same step, resume that role's context with `claude -p --model claude-opus-5-5 --effort medium --permission-mode bypassPermissions --add-dir /Users/jingliang/Projects/not-a-toe --resume <role-uuid> "<pointer-only prompt>"`. Each invocation returns strictly its single-line `STATUS: ... log=<path>` token. The command runs with `CLAUDE_CODE_OAUTH_TOKEN` in its environment (long-lived source: `claude setup-token`, run once by the owner; the running Claude Code session's token works until it expires). In `-p` mode the process ends with the turn, so a role runs every long step in the foreground, or waits on it, before returning its STATUS line.
-3. **Pure Image Generation In-House Directly in Antigravity:** Instead of driving Antigravity from headless Claude via `studio/kits/shared/bin/agy.sh`, Antigravity invokes its built-in `image-generator` subagent **directly in-house** in Stream 2B to generate the text-free JPEGs (`podcast-cover.jpg`, square infographic `art.jpg`, and `4:3` / `3:4` WeChat card raw art) into `studio/kits/shared/library/inbox/` (or `studio/post/<slug>/wip/infographics/`), inspects them against `studio/post/<slug>/raw/post.md`, and then dispatches headless Claude (`infographic-maker` ⇄ `infographic-critic`) for cropping/sizing and setting the DOM text in code (`page.html`, `wechat.html`, `render.mjs`, `check.mjs`, `wechat.mjs`).
-4. **Local Chrome Audio Publishing (`Spotify` + `小宇宙`) & Grok Bot Video Handoff (`微信视频号`):** As soon as `final/audio/` and `final/infographics/podcast-cover.jpg` lock, Antigravity executes Audio Publishing (`Spotify` + `小宇宙`, including `podcast-cover.jpg`) locally on Mac Chrome via `chrome-devtools` MCP (`Publisher` ⇄ `Cold Publish Critic` in `wip/publish-debate.md` → audio section of `final/RESULT.md`). As soon as `final/film/` and `final/infographics/wechat-{3x4,4x3}.jpg` lock, Antigravity writes `studio/post/<slug>/final/HANDOFF-video.md` for `微信视频号`, dispatches it to Grok Bot's `Dispatcher` agent via the local `grokbot` MCP server at `http://127.0.0.1:3000/v1/mcp` (or via chat kick-off), and reads `final/RESULT.md` once Grok Bot (`Publisher` ⇄ `Cold Publish Critic`) locks the video section.
-
-| Generic Role (`wave-refinement-plan.md` §8) | Execution Primitive from Antigravity | Model & Effort / Tooling | Scope / Directory |
-| --- | --- | --- | --- |
-| **Media Dispatcher** | Antigravity Main Agent (`run_command` background `stall_watch.py` + `stall_watch.py --wait studio/post/<slug>`, local Chrome Audio publish via `chrome-devtools` MCP, `HANDOFF-video.md` → Grok Bot MCP (`Dispatcher`) → `RESULT.md`, Wave 3 CLI publish & build) | Host Antigravity session | Root `/Users/jingliang/Projects/not-a-toe` |
-| **Stream 2B Pure Image Gen** | Antigravity built-in `image-generator` subagent (`invoke_subagent(TypeName="image-generator")`) | In-house multimodal image generation (replaces `bin/agy.sh` round-trip) | `studio/kits/shared/library/inbox/` & `studio/post/<slug>/wip/infographics/` |
-| **`script-drafter` / `script-critic` (+ Cold Reader)** | Headless Claude Code (`claude -p --session-id / --resume`) | `--model claude-opus-5-5 --effort medium` | `studio/post/<slug>/` |
-| **`audio-builder` / `audio-critic`** | Headless Claude Code (`claude -p --session-id / --resume`) | `--model claude-opus-5-5 --effort medium` | `studio/post/<slug>/` + `studio/kits/audio/` |
-| **`infographic-maker` / `infographic-critic`** | Headless Claude Code (`claude -p --session-id / --resume`, operating on the raw JPEGs generated in-house by Antigravity) | `--model claude-opus-5-5 --effort medium` | `studio/post/<slug>/` + `studio/kits/infographics/` |
-| **`film-maker` / `scouter` / `film-critic`** | Headless Claude Code (`claude -p --session-id / --resume`) | `--model claude-opus-5-5 --effort medium` | `studio/post/<slug>/` + `studio/kits/film/` |
-| **`recap` (+ §4.5 Settlement Pair)** | Headless Claude Code (`claude -p`) or Antigravity subagent (`define_subagent` + `invoke_subagent`) | `--model claude-opus-5-5 --effort medium` (or `inherit`) | `studio/post/<slug>/` + allowed workflow/skill surfaces |
-
-### 5.2 Role Charters (`docs/charters/` for `/media <slug>`)
-
-Each role of §5.1 loads its charter in [`docs/charters/`](../charters/) (`script-drafter.md`, `script-critic.md`, `audio-builder.md`, `audio-critic.md`, `infographic-maker.md`, `infographic-critic.md`, `film-maker.md`, `film-critic.md`, `scouter.md`, `recap.md`) together with [`docs/charters/README.md`](../charters/README.md) (plus a single-pass cold-reader invocation on `wip/scripts/film-narration.en.txt` → `wip/scripts/coldread.md` in Wave 1).
+1. **Embed step in the main session.** `/media <slug>` runs in the Antigravity main session from a delivered handoff (`studio/post/<NNN>-<slug>/HANDOFF.md` plus the two square infographics). Every step is Tier 1 (recompute the delivered `HANDOFF.md`'s `sha256` against the Dispatcher's message and the artifact hashes it lists, ids into `data/`, infographic conversion, audits, build, push, deploy watch, live check, `RESULT.md` beside the handoff with its path and `sha256` sent back, then Trash); the only judgment is confirming by eye which infographic is English and which Chinese. No subagents or headless Claude roles are spawned for it.
+2. **Starting the Grok Bot MCP server.** From `run_command` (as a daemon): `cd ~/grokbot && set -a && . ./.env && set +a && agent-sdk serve --dir ~/grokbot --mode single --bearer-token "$TOKEN"` (default `http://127.0.0.1:3000/v1/mcp`). Never print the token.
+3. **Messaging the Dispatcher through a handoff file.** Write the request to `studio/post/_ask-<YYYYMMDD>-<topic>/HANDOFF.md` (deliveries from Grok Bot use `studio/post/<NNN>-<slug>/` only), then call `call_tool` → `grokbot__ask` with `agent: "Dispatcher"` carrying only the file's path and its `sha256` (`shasum -a 256`); the content travels in the file, never in the message (plan §8.2). The Dispatcher recomputes the hash before acting and replies with the path and `sha256` of a `RESULT.md` beside it, which the main session recomputes before reading. Grok Bot reaches Mac paths through its local tools in the Grok Bot app on the Mac; writes need the Operator's local-tool approval (2026-10-30: it wrote the `studio/post/<NNN>-<slug>/` folders and appended to an existing Mac `HANDOFF.md`). Read replies with `grokbot__check` (also `grokbot__interrupt`, `grokbot__list`). `check` returns only what the agent sent since the last read (a read cursor): keep every response, never overwrite one, and read both `reply` and `earlierReplies`. HTTP client timeouts must exceed `waitSeconds`.

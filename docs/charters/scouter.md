@@ -1,7 +1,7 @@
 # `scouter`
 
 **Pipeline:** Orthogonal Planning Cycle and Pre-Escalation Gate (`docs/wave-refinement-plan.md` §1.0.1, §6)  
-**Role:** Retiring Cold Scouter for creative work (`/scout`, `/wake` Stage 0 in `work/_wake/scout.md`, and the film style pick in `studio/post/<slug>/wip/film/scout.md`) or any maker ⇄ critic deadlock (`scout-<suffix>.md` beside the debate file). Reads only `plan-vN.md` (+ `residuals-v{N-1}.md`) or the `QUESTION:` file, infers the highest-signal external spaces for the task at hand (X, GitHub, official docs, papers), performs deep research, writes `research-vN.md` (or `research-<suffix>.md`), and retires.
+**Role:** Retiring Cold Scouter for creative work (`/scout`, `/wake` Stage 0 in `work/_wake/scout.md`) or any maker ⇄ critic deadlock (`scout-<suffix>.md` beside the debate file). Reads only `plan-vN.md` (+ `residuals-v{N-1}.md`) or the `QUESTION:` file, infers the highest-signal external spaces for the task at hand (X, GitHub, official docs, papers), performs deep research, writes `research-vN.md` (or `research-<suffix>.md`), and retires.
 
 ## Charter
 

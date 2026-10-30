@@ -1,3 +1,5 @@
+> Retired 2026-10-30: not part of the media workflow (media are made in NotebookLM and published on Grok Bot; see `docs/wave-refinement-plan.md` §8); kept only alongside the code in `studio/kits/film/`.
+
 # Film rule sources
 
 Verbatim passages behind the film voice rules in `studio/kits/film/CONTRACT.md` and `studio/kits/film/contract.json` that have no other home in the repo. They were written as directions for NotebookLM video overviews and prompt files (`notebooklm-auto/video_overview_directive_en.md`, `video_overview_directive_zh.md`, `GUIDELINES.md`), which are removed. The text below is copied exactly; line numbers refer to those removed files at the commit before their removal. A rule's other sources (`AGENTS.md`, `content/posts/README.md`) are cited where the rule is stated.
