@@ -790,6 +790,54 @@
     "processed": "2026-10-26T21:24:47.764Z",
     "playlist": "PLGrxskF8JnDo"
    }
+  },
+  "incompleteness-exhibited-twice": {
+   "en": {
+    "id": "laOAFqlKOZw",
+    "url": "https://youtu.be/laOAFqlKOZw",
+    "source": "notebooklm"
+   },
+   "zh": {
+    "id": "-EhWdBVMSgA",
+    "url": "https://youtu.be/-EhWdBVMSgA",
+    "source": "notebooklm"
+   }
+  },
+  "on-the-boundaries-of-what-can-be-said-about-p-and-np": {
+   "en": {
+    "id": "Y24o7hVIgCQ",
+    "url": "https://youtu.be/Y24o7hVIgCQ",
+    "source": "notebooklm"
+   },
+   "zh": {
+    "id": "ZqtO2vhFwYU",
+    "url": "https://youtu.be/ZqtO2vhFwYU",
+    "source": "notebooklm"
+   }
+  },
+  "precision-and-resolution": {
+   "en": {
+    "id": "hGMemvePVCo",
+    "url": "https://youtu.be/hGMemvePVCo",
+    "source": "notebooklm"
+   },
+   "zh": {
+    "id": "ip1kDyzqbSg",
+    "url": "https://youtu.be/ip1kDyzqbSg",
+    "source": "notebooklm"
+   }
+  },
+  "learned-boundaries-and-the-given-rate": {
+   "en": {
+    "id": "tb-tu_tAkWM",
+    "url": "https://youtu.be/tb-tu_tAkWM",
+    "source": "notebooklm"
+   },
+   "zh": {
+    "id": "sBhxkpr95HA",
+    "url": "https://youtu.be/sBhxkpr95HA",
+    "source": "notebooklm"
+   }
   }
  }
 }

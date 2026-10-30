@@ -1112,6 +1112,38 @@
    "zh": {
     "id": "7x9UGtXMzihn1HK3mq0KGS"
    }
+  },
+  "incompleteness-exhibited-twice": {
+   "en": {
+    "id": "75yiKWPZFhVUI57ELNc16G"
+   },
+   "zh": {
+    "id": "7bjt4iMhcJfgEvGjExZpwq"
+   }
+  },
+  "on-the-boundaries-of-what-can-be-said-about-p-and-np": {
+   "en": {
+    "id": "7hyPZDpnc53YdhK0mkjVhA"
+   },
+   "zh": {
+    "id": "7MMRKuyr5kacFqSVlNQ1rk"
+   }
+  },
+  "precision-and-resolution": {
+   "en": {
+    "id": "0llVQVCmK4M0UZ9Og699kC"
+   },
+   "zh": {
+    "id": "1j6q4Ob1fuCajndNXKEDzn"
+   }
+  },
+  "learned-boundaries-and-the-given-rate": {
+   "en": {
+    "id": "67CSyfAHoSkbJdFTchp3E8"
+   },
+   "zh": {
+    "id": "7yBMwyeeIbjg1LJkZIpkPM"
+   }
   }
  }
 }
