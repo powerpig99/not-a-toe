@@ -26,7 +26,7 @@ The specification problem appeared as the hard blocker: if `f` can never be spec
 
 The dissolve lies in recognizing that the standard framing collapses two independent dimensions—determinacy and specifiability—onto one axis, then reads inability to specify as inability to determine. Yet the system's behavior is deterministic: identical inputs produce identical outputs given identical state and environment. That determinacy exists independent of any capacity to describe it in advance. Pre-specifying `f` is unnecessary to approximate it; all that is required is an oracle (the running system), a fidelity signal (behavioral diff), and iteration. The specification emerges from use rather than preceding it.
 
-这并非权宜之计，而是认清了一个事实：前置规约从来都只是为高昂构建成本所做的补偿。当重构成本逼近于零时，由修正驱动的迭代压倒了“先写规约再构建”。整套需求工程体系原本是为了应对高成本构建这一问题而生的；当经济学条件改变时，该问题本身随之消解，留给任何书面规约去承载的，唯有相对于[活的语境](../the-living-context/)的当下增量。
+这并非权宜之计，而是认清了一个事实：前置规约从来都只是为高昂构建成本所做的补偿。当重构成本逼近于零时，由修正驱动的迭代压倒了“先写规约再构建”。整套需求工程体系原本是为了应对高成本构建这一问题而生的；当经济学条件改变时，该问题本身随之消解，留给任何书面规约去承载的，唯有相对于[活的语境](../the-living-context/)的当下增量。苛求一份详尽无遗的规约，向那份文档索取的是脱离语境的精度；而工作真正赖以运转的是处境之下的分辨率，既体现在执行之前对增量的框定中，也体现在产出交付使用时在接触中对失配的辨认上，正如[精度与分辨率](../precision-and-resolution/)所追溯的那样。
 
 ```mermaid
 flowchart TD
@@ -57,7 +57,7 @@ flowchart TD
     style Fidelity fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-This is not a workaround; it is the discovery that upfront specification was always a compensation for expensive construction. When reconstruction cost approaches zero, correction-driven iteration dominates specification-then-build. The requirements engineering apparatus was a solution to a problem that dissolves when the economics change, leaving any written specification to carry only the immediate delta against [The Living Context](../the-living-context/).
+This is not a workaround; it is the discovery that upfront specification was always a compensation for expensive construction. When reconstruction cost approaches zero, correction-driven iteration dominates specification-then-build. The requirements engineering apparatus was a solution to a problem that dissolves when the economics change, leaving any written specification to carry only the immediate delta against [The Living Context](../the-living-context/). What the demand for an exhaustive specification asked of that document was context-free precision; what the work runs on is situated resolution, in framing the delta before execution and in recognizing misfit on contact when the output meets use, as [Precision and Resolution](../precision-and-resolution/) traces.
 
 ```mermaid
 flowchart TD
@@ -94,7 +94,7 @@ flowchart TD
 
 More notably, conditioned on a single user's behavioral trace, the function `f` collapses to a far lower-dimensional object. A global application approximates the union of all possible use cases—the intersection of contradictory needs across an entire user population forces it into a high-dimensional space that both under-serves any particular use case and burdens it with structure irrelevant to it. One user's actual usage is a projection onto a small subspace, and the program for that projection is orders of magnitude simpler, shedding both the misfit and the dead weight.
 
-这意味着深度的个体定制并不是一项用户体验装饰，而是一次压缩事件。用户也不需要事先写明自己想要什么；他只需要在遭遇失配时辨认出那种失配，并把这一辨认反馈给模型。修正比规约是更弱的要求——它更容易在接触时产生，被接收时的信息密度更高，且足以驱动整个循环。
+这意味着深度的个体定制并不是一项用户体验装饰，而是一次压缩事件。用户也不需要事先写明自己想要什么，只需要在遭遇失配时辨认出那种失配，并把这一辨认反馈给模型。修正比规约是更弱的要求——它更容易在接触时产生，被接收时的信息密度更高，且足以驱动整个循环。
 
 This means radical individual customization is not a UX ornament; it is a compression event. And the user does not need to specify what they want in advance. They need only recognize misfit when they encounter it and surface that recognition to the model. Correction is a weaker requirement than specification—easier to generate on contact, more information-dense when received, and sufficient to drive the loop.
 
@@ -118,9 +118,9 @@ The stronger the construction capability, the more exposed the sensing end becom
 
 ## 五、 同一种结构形状 / 5. The Same Structural Shape
 
-这是人类所建造的每一件工具共同遵循的模式。每一个拐点在体验上都确实不同——那种断裂的切身感受是实在的，站在两条指数曲线交汇处的人确实感知到了切实的转变。误差不在感知里，而在解释里：把“规模上的空前”误读成了“范畴上的空前”。感知运作在极限分辨率上，而解释则滞后于它；两者之间的落差，正是误读乘虚而入的地方。
+这是人类所建造的每一件工具共同遵循的模式。每一个拐点在体验上都确实不同——那种断裂的切身感受是实在的，站在两条指数曲线交汇处的人确实感知到了切实的转变。误差不在感知里，而在解释里：把“规模上的空前”误读成了“范畴上的空前”。第一人称感知在直接接触中登记了这一转变，而解释却滞后于它——将规模与范畴坍缩为同一种低分辨率的解读——两者之间的落差，正是误读乘虚而入的地方。
 
-This is the pattern of every tool humans have built. Each inflection point is genuinely different—the felt sense of discontinuity is real, and the person standing at the junction of two exponential curves is sensing a real shift. The error is not in the sensing but in the interpretation: reading "unprecedented in scale" as "unprecedented in kind." The sensing operates at limit-resolution while the interpretation lags, and the gap between them is where the misreading enters.
+This is the pattern of every tool humans have built. Each inflection point is genuinely different—the felt sense of discontinuity is real, and the person standing at the junction of two exponential curves is sensing a real shift. The error is not in the sensing but in the interpretation: reading "unprecedented in scale" as "unprecedented in kind." First-person sensing registers the shift on immediate contact while the interpretation lags—collapsing scale and kind into a single low-resolution reading—and the gap between them is where the misreading enters.
 
 每一次的机制都如出一辙：工具移除了构建瓶颈，放大了既有的感知能力，并把杠杆重新分配向方向的清晰度，在改写表层的同时深层因果秩序依然存续，正如[要紧的控制迁往边缘](../residual-control-recedes-to-the-edge/)所追踪的那样。
 

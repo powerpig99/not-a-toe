@@ -54,13 +54,13 @@ What nostalgia calls the underneath is not a bedrock waiting to be conserved. It
 
 In that light the decisive distinction is not between those who still configure a server by hand and those who do not. Hand configuration remains one instrument on one surface, still available. The distinction that continues is between two orientations toward the prompt itself.
 
-凡是一个提示词之遥的东西，已经是下一个提示词的基线。凡是能被折叠进单次请求里的东西，都已经处在大宗商品化残余的有限投射之内，自回归模型正是在自身的上下文窗口中对先前的痕迹做插值。第一个提示词在主流路径上消解了一个约束。区别在于是停在第一份输出带来的静止里，还是把那份输出当作下一步的前提。静止把由此而来的轻松当作抵达。[作业与考试的倒置折射出替代效应](../the-homework-exam-inversion-registers-substitution/)追溯了这种分岔：工具只在使用时放大能力，原生能力此后是否提升，在于关系，而不在工具；当它被当作交出现成答案的替代品，功夫被绕过，不再被践行的技能便变薄。继续推进，则把第一份输出当作这个前提，去遇见下一个约束：模型仍会失败的地方、工具链崩坏的地方、开放问题仍拒绝封闭的地方；或者，当兴趣指向那里时，是出于选择而非必要重新进入先前抽象层级的决定。
+凡是一个提示词之遥的东西，已经是下一个提示词的基线。凡是能被折叠进单次请求里的东西，都已经处在大宗商品化残余的有限投射之内，自回归模型正是在自身的上下文窗口中对先前的痕迹做插值。第一个提示词在主流路径上消解了一个约束。如[精度与分辨率](../precision-and-resolution/)所追溯的，单次请求所供给的是交给它的框架之内的局部精度——在既定先决条件内部重新组合的语法严密、标准算法或流利文辞——而分辨率依然留在上游：按处境所要求的粒度，把事关成败的需求与故障模式从附带枝节中分离出来，并在产出交付使用时登记失配。区别在于是停在第一份输出带来的静止里，还是把那份输出当作下一步的前提。静止把由此而来的轻松当作抵达，将局部精确的产出误作已解析清楚的问题，于是框架中凡是尚未切分的部分便一路向下游传递。[作业与考试的倒置折射出替代效应](../the-homework-exam-inversion-registers-substitution/)追溯了这种分岔：工具只在使用时放大能力，原生能力此后是否提升，在于关系，而不在工具；当它被当作交出现成答案的替代品，功夫被绕过，不再被践行的技能便变薄。继续推进，则把第一份输出当作这个前提，去遇见下一个约束：模型仍会失败的地方、工具链崩坏的地方、开放问题仍拒绝封闭的地方；或者，当兴趣指向那里时，是出于选择而非必要重新进入先前抽象层级的决定。
 
-Whatever is one prompt away is already the baseline for the next prompt. Everything that can be collapsed into a single request already resides inside the finite projection of commoditized residue, where an autoregressive model interpolates across prior traces inside its context window. The first prompt dissolves a constraint on the prevailing path. The difference lies in resting inside the stillness that the first output delivers, or taking that output as the premise of the next step. Stillness takes the resulting ease as arrival. [The Homework–Exam Inversion Registers Substitution](../the-homework-exam-inversion-registers-substitution/) traces this split: the tool amplifies only in use, and whether raw capability then grows lies in the relation, not in the tool; used as a substitute that hands over a finished answer, the work is bypassed and the skills no longer exercised thin. Pressing further takes the first output as that premise and meets the next constraint: the place where the model still fails, where the tool chain breaks down, where the open problem still refuses to seal, or, when interest runs that way, the decision to re-enter a prior level of abstraction by choice rather than by necessity.
+Whatever is one prompt away is already the baseline for the next prompt. Everything that can be collapsed into a single request already resides inside the finite projection of commoditized residue, where an autoregressive model interpolates across prior traces inside its context window. The first prompt dissolves a constraint on the prevailing path. As [Precision and Resolution](../precision-and-resolution/) traces, what that single request supplies is local precision within the frame handed to it—syntactic exactness, standard algorithms, or fluent prose recombining inside given preconditions—while the resolution that separates consequential requirements and failure modes from incidental detail at the grain the situation calls for, and registers misfit when the output meets use, remains upstream. The difference lies in resting inside the stillness that the first output delivers, or taking that output as the premise of the next step. Stillness takes the resulting ease as arrival, mistaking locally precise output for a resolved problem, so whatever the frame left uncut propagates downstream. [The Homework–Exam Inversion Registers Substitution](../the-homework-exam-inversion-registers-substitution/) traces this split: the tool amplifies only in use, and whether raw capability then grows lies in the relation, not in the tool; used as a substitute that hands over a finished answer, the work is bypassed and the skills no longer exercised thin. Pressing further takes the first output as that premise and meets the next constraint: the place where the model still fails, where the tool chain breaks down, where the open problem still refuses to seal, or, when interest runs that way, the decision to re-enter a prior level of abstraction by choice rather than by necessity.
 
 把旧表面保存为*主流的*课程，并不是一个行得通的策略。固定任何中间状态的尝试，都会把探究者冻结在一张快照里，而周围的媒介早已把它留在身后，转向了新的默认。以法令教授旧的摩擦，可以塑造哪些对齐方式可得；它无法重建默认路径上的那种耦合，即问题不解决服务器就跑不起来，也无法将旧表面重新立为能力的穷尽课程；而可得性本就无需恢复，因为增密从来未曾剥夺可得性。[生命的意义在起草之中](../the-meaning-of-life-is-in-the-drafting/)在日常生活里追溯了同一刀：意义产生于对原因的现场起草，而不是从硬化的结果中找回，当向外的目光从不回到纸页，意义便会变薄。在这里，硬化的结果是一个提示词的成功，而墨迹未干的纸页，则是下一个开口。
 
-Preserving the old surface as the *prevailing* curriculum is not a viable strategy. The attempt to fix any intermediate state freezes the inquirer inside a snapshot the surrounding medium has already left behind in moving to a new default. Teaching the old friction by decree can pattern which alignments are available; it cannot recreate the coupling of the default path, where the server would not run until the problem was solved, nor reinstate the old surface as the exhaustive curriculum of capacity; nor does it need to restore availability, since availability was never what densification removed. [The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing](../the-meaning-of-life-is-in-the-drafting/) traces the same cut in ordinary life: meaning is generated in the live drafting of causes, not recovered from hardened effects, and it thins when the outward gaze never returns to the page. Here the hardened effect is the one-prompt success, and the page still wet is the next opening.
+Preserving the old surface as the *prevailing* curriculum is not a viable strategy. The attempt to fix any intermediate state freezes the inquirer inside a snapshot the surrounding medium has already left behind in moving to a new default. Teaching the old friction by decree can pattern which alignments are available; it cannot recreate the coupling of the default path, where the server would not run until the problem was solved, nor reinstate the old surface as the exhaustive curriculum of capacity; nor does it need to restore availability, since availability was never what densification removed. [The Meaning of Life Is in the Drafting](../the-meaning-of-life-is-in-the-drafting/) traces the same cut in ordinary life: meaning is generated in the live drafting of causes, not recovered from hardened effects, and it thins when the outward gaze never returns to the page. Here the hardened effect is the one-prompt success, and the page still wet is the next opening.
 
 ## 五、 复利换了地址 / 5. Compounding Changes Address
 
@@ -78,12 +78,10 @@ flowchart TD
         P_Traj["受轨迹束缚的执行：智能体在上下文窗口内调度并运行显式规则"]
         P_Paved --> P_Traj
     end
-
     subgraph S_Freeze["封闭的持守（静止或怀旧式保存）"]
         direction TB
         F_Arrive["虚假抵达与课程冻结：停在首轮输出的轻松里，或哀叹铺平的路径为失落的根基"]
     end
-
     subgraph S_Edge["边缘处活的心智（超越投射）"]
         direction TB
         E_Friction["迁移的阻力：正交分裂与对等辩论浮现出不可化约的前提死锁"]
@@ -91,11 +89,9 @@ flowchart TD
         E_Render["重新渲染前提：随着新基线打开而综合出更高阶的规则"]
         E_Friction --> E_Step --> E_Render
     end
-
     P_Traj -.->|"被持守为最终抵达或穷尽的课程"| F_Arrive
     P_Traj ==>|"在开放负荷下被当作基线"| E_Friction
     E_Render ==>|"将新基线投射进不断扩张的场域"| P_Paved
-
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -117,12 +113,10 @@ flowchart TD
         P_Traj["Trajectory-Bound Execution: Agents dispatch and run explicit rules inside the context window"]
         P_Paved --> P_Traj
     end
-
     subgraph S_Freeze["Closed Hold (Stillness or Nostalgic Preservation)"]
         direction TB
         F_Arrive["False Arrival and Curriculum Freeze: Resting in first-output ease or mourning the paved path as lost ground"]
     end
-
     subgraph S_Edge["The Living Mind at the Edge (Beyond the Projection)"]
         direction TB
         E_Friction["Relocated Friction: Orthogonal mitosis and peer debate surface irreducible premise deadlocks"]
@@ -130,11 +124,9 @@ flowchart TD
         E_Render["Re-Rendering the Premise: Synthesizes higher-order rules as the next baseline opens"]
         E_Friction --> E_Step --> E_Render
     end
-
     P_Traj -.->|"Held as final arrival or exhaustive curriculum"| F_Arrive
     P_Traj ==>|"Taken as baseline under open load"| E_Friction
     E_Render ==>|"Projects new baseline into the expanding field"| P_Paved
-
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -148,7 +140,7 @@ flowchart TD
 
 这种迁移不是为一个失落的调试黄金时代颁发的安慰奖。它是媒介增密而持守保持开放时，能力的寻常动态。网络与进程的较早地图，作为残余、作为活的选项仍在；它们不再是后来的能力必须在其上形成的先决条件。新的基线出现在自动化尚未吸收摩擦的地方，而一旦摩擦被吸收，更新的基线又会出现，被吸收的层级则以更小的份额在场中仍然够得着。[生产、消费与心智的区分](../production-consumption-and-the-minds-distinction/)追溯了同样的开放或固定的持守：生产与消费不是两种动作，而是同一个活动在心智把它的边界持守为开放或固定时的登记方式；寄存器保持开放时是扩展，而溢出与损失，是从把暂时的天花板当作最终限度的封闭寄存器内部看去的样子。
 
-That relocation is not a consolation prize for a lost golden age of debugging. It is the ordinary dynamic of capacity when the medium densifies and the hold stays open. Earlier maps of networks and processes remain as residue and as live options; they stop being the prerequisite on which later capability has to form. New baselines appear where automation has not yet absorbed the friction, and as soon as that friction is absorbed, newer baselines appear, while the absorbed layers stay reachable at a smaller share of the field. [Production, Consumption, and the Mind’s Distinction](../production-consumption-and-the-minds-distinction/) traces the same open or fixed hold: production and consumption are not two kinds of act but how the same activity registers when the Mind holds its boundary as open or as fixed, expansion while the register stays open, and overflow and loss as the appearance from inside a closed register whose temporary ceiling is treated as final.
+That relocation is not a consolation prize for a lost golden age of debugging. It is the ordinary dynamic of capacity when the medium densifies and the hold stays open. Earlier maps of networks and processes remain as residue and as live options; they stop being the prerequisite on which later capability has to form. New baselines appear where automation has not yet absorbed the friction, and as soon as that friction is absorbed, newer baselines appear, while the absorbed layers stay reachable at a smaller share of the field. [Production, Consumption, and the Mind's Distinction](../production-consumption-and-the-minds-distinction/) traces the same open or fixed hold: production and consumption are not two kinds of act but how the same activity registers when the Mind holds its boundary as open or as fixed, expansion while the register stays open, and overflow and loss as the appearance from inside a closed register whose temporary ceiling is treated as final.
 
 只求输出的人，与在媒介仍会失败处持续推进的人，并不因是否属于一个“懂底层的人”的行会而不同。他们的不同，在于面对这一步的取向：第一份成功的输出被持守为抵达，还是被当作随这一步移动而重新渲染的工具。媒介对两者同样增密。只有开放的取向在复利，进入下一个表面，或者出于选择而非作为必修的课程，回到先前的表面。
 
@@ -162,7 +154,7 @@ Clear thinking with these systems is not a position arrived at. It is the moveme
 
 [抽象、边界与现实的移动边缘](../abstraction-boundaries-and-the-moving-edge-of-reality/)追溯了界定如何冻结残余：成功的感知是有损的界定，被当作场的结构时，它把残余冻结成一份封死的清单；放大或解开这个界定，清单便化回任何有限登记都穷尽不了的生成空间。[持续生长的脚手架](../the-scaffolding-that-keeps-growing/)追溯了脚手架的生长：敞开不是从完成的框架退后一步找回的，它是让每个框架保持未完成的条件，较早的支撑退出焦点，作为内部的支柱从里面承重，而新的暂时支撑在边缘处更进一步的负荷下形成。[要紧的控制迁往边缘](../residual-control-recedes-to-the-edge/)追溯了技术栈中的这种转移：随着底层所有权变薄为可选的残余，要紧的控制迁往标准、界限与验证，移动的是控制在哪里被行使，而不是行使它的所在。[免费智能的幻觉](../the-illusion-of-free-intelligence/)追溯了与毫不费力之流畅的相遇：流畅残余的丰裕是智能仍在加速的反向信号，而不是心智的民主化。在这里，同一份轻松被当作抵达，就是把残余冻结成能力全部的那种静止。[清晰不是抵达的终点，而是运动本身](../clarity-isnt-a-state-you-arrive-at/)把这种修习追溯为运动：清晰是从不落入静态教条的持续迈出，每一步以同一个动作照亮也投下阴影。
 
-[Abstraction, Boundaries, and the Moving Edge of Reality](../abstraction-boundaries-and-the-moving-edge-of-reality/) traces how bounds freeze residue: successful perception is a lossy bound, and held as the field's structure, it freezes residue into a sealed catalogue; enlarge or dissolve the bound and the catalogue dissolves back into a generative space no finite registration exhausts. [The Scaffolding That Keeps Growing](../the-scaffolding-that-keeps-growing/) traces the growth of scaffolding: openness is not recovered by stepping back from a finished frame, it is the condition that keeps every frame unfinished, as earlier braces drop out of focus and carry load from inside as interior struts, while new provisional braces form under further load at the edge. [Essential Control Moves to the Edge](../residual-control-recedes-to-the-edge/) traces the shift in the stack: as substrate ownership thins into optional residue, essential control relocates to criteria, bounds, and verification, and what moves is where control is exercised, not the locus that exercises it. [The Illusion of Free Intelligence](../the-illusion-of-free-intelligence/) traces the encounter with effortless fluency: abundant fluent residue is the inverse signal of intelligence still accelerating, not Mind democratized. Here the same ease, taken as arrival, is the stillness that freezes the residue as the whole of capacity. [Clarity Isn't a State You Arrive At](../clarity-isnt-a-state-you-arrive-at/) traces the practice as movement: clarity is the ongoing stepping-out that never lands in a static doctrine, and each step illuminates and casts shadow by the same act.
+[Abstraction Boundaries and the Moving Edge of Reality](../abstraction-boundaries-and-the-moving-edge-of-reality/) traces how bounds freeze residue: successful perception is a lossy bound, and held as the field's structure, it freezes residue into a sealed catalogue; enlarge or dissolve the bound and the catalogue dissolves back into a generative space no finite registration exhausts. [The Scaffolding That Keeps Growing](../the-scaffolding-that-keeps-growing/) traces the growth of scaffolding: openness is not recovered by stepping back from a finished frame, it is the condition that keeps every frame unfinished, as earlier braces drop out of focus and carry load from inside as interior struts, while new provisional braces form under further load at the edge. [Essential Control Moves to the Edge](../residual-control-recedes-to-the-edge/) traces the shift in the stack: as substrate ownership thins into optional residue, essential control relocates to criteria, bounds, and verification, and what moves is where control is exercised, not the locus that exercises it. [The Illusion of Free Intelligence](../the-illusion-of-free-intelligence/) traces the encounter with effortless fluency: abundant fluent residue is the inverse signal of intelligence still accelerating, not Mind democratized. Here the same ease, taken as arrival, is the stillness that freezes the residue as the whole of capacity. [Clarity Isn't a State You Arrive At. It's the Movement Itself.](../clarity-isnt-a-state-you-arrive-at/) traces the practice as movement: clarity is the ongoing stepping-out that never lands in a static doctrine, and each step illuminates and casts shadow by the same act.
 
 凡是能被做成一个提示词之遥的，都会被做成。那是增密在继续，而不是这一代人特有的灾难。先前的抽象层级并不消失；它们不再是主流，在不断扩张的选项空间中所占的份额随之缩小。没有什么能被保存为最终的课程。仍然敞开的，是第一次成功被持守为静止，还是被当作下一个开口。
 

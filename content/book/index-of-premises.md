@@ -4855,9 +4855,9 @@ Social consensus models assume citizens share an identical objective experientia
 ### 高精仪器的自愿致盲 / The Sovereign Blinding of Precision
 `技术 / Technological`
 
-假定在既定公有维度上的精密测量带来更大自由；对工程基准有效，却将主权心智锁死在单一赛道的零和内卷中。
+假定在共享符号维度上量得更细、更严密准确，便能带来更深的理解与自由；在选定框架内做技术基准测试与检验一致性时有用，但当共享平面上的局部精度被误认作对要紧事物的处境分辨率时便到了边界，使观察者对框架之外未经编码的维度视而不见，并将能动性捆在标准化的竞争赛道上。
 
-Presumes finer measurement in shared metrics yields deeper freedom; useful for technical benchmarking, it binds agency to standardized competitive tracks.
+Presumes finer measurement and exactness on a shared symbolic dimension yield deeper understanding and freedom; useful for technical benchmarking and checking consistency within a chosen frame, it reaches its boundary when local precision on the shared plane is mistaken for situated resolution on what matters, blinding the observer to unencoded dimensions outside the frame and binding agency to standardized competitive tracks.
 
 → [自愿的致盲 / The Sovereign Blinding](../../posts/the-sovereign-blinding/) · [精度与分辨率 / Precision and Resolution](../../posts/precision-and-resolution/)
 

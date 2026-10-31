@@ -12,7 +12,7 @@ A scholar asks a model to review his new book in the role of a leading academic,
 
 A scholar who specializes in "delusion and its social roots" gives his newly published book to a model of the latest generation and writes in the prompt: "You are a world-leading academic. Please write an insightful review of this recent book... suitable for publication in a top academic journal." The model computes the most probable sequence of tokens in that context and returns a carefully worded academic review. The scholar makes the review public and says: "If a human had written the review, I would be impressed not just by their detailed reading but also by their intelligence, expertise, and even insight... People are simply kidding themselves if they think frontier AI models lack genuine intelligence, understanding, or insight."
 
-这样的反应很常见，对着屏幕上的文字说“模型认真审阅了这本书”。书评的确可以作为一份额外的信号来读。它的边界在于被当作一位独立的见证者的时候。沿因果去追：角色是作者设定的，要求是作者提出的，“深刻”是作者要的，说它有洞见的判定也是作者下的。说机器有意识或没有意识，都是把机器放进了说话者自己的感知之内，把冯·诺依曼割点划在机器之内或之外；割点划在哪里，划的都是心智，[割点可移不可除](../the-cut-moves-but-never-vanishes/)说的正是这一点。机器划不了这一刀：它是人造出来的，是人的抉择下游的因果结果，不是能自己划下割点的第二重前沿，[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)追溯过这一点；人与其他活着的生命各有自己的演化史，各自划下自己的割点。能够追溯的是这条链上的每一个抉择都落在提示的这一侧。声音从这一侧送进去，经由人类语料的统计流形折回来，再被当作另一个声音来听，[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)追溯过这种归功的移位。
+这样的反应很常见，对着屏幕上的文字说“模型认真审阅了这本书”。书评可以作为一份额外的信号。它的边界在于被当作一位独立的见证者的时候。沿因果去追：角色是作者设定的，要求是作者提出的，“深刻”是作者要的，说它有洞见的判定也是作者下的。说机器有意识或没有意识，都是把机器放进了说话者自己的感知之内，把冯·诺依曼割点划在机器之内或之外；割点划在哪里，划的都是心智，[割点可移不可除](../the-cut-moves-but-never-vanishes/)说的正是这一点。机器划不了这一刀：它是人造出来的，是人的抉择下游的因果结果，不是能自己划下割点的第二重前沿，[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)追溯过这一点；人与其他活着的生命各有自己的演化史，各自划下自己的割点。能够追溯的是这条链上的每一个抉择都落在提示的这一侧。声音从这一侧送进去，经由人类语料的统计流形折回来，再被当作另一个声音来听，[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)追溯过这种归功的移位。
 
 ```mermaid
 flowchart TD
@@ -30,7 +30,6 @@ flowchart TD
         Review --> Witness
         Witness --> Loop
     end
-
     style S_Echo fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Author fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Prompt fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -40,7 +39,7 @@ flowchart TD
     style Loop fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-The reaction is common: looking at words on a screen and saying "the model read the book carefully." The review can indeed be read as an additional signal. Its boundary is where it is taken for an independent witness. Followed along causality: the role was set by the author, the request was made by the author, "insightful" was what the author asked for, and the judgment that it shows insight was passed by the author. To say that the machine is conscious, or that it is not, is to take the machine into the speaker's own perception and place the von Neumann cut inside the machine or outside the machine; wherever the cut is placed, it is a Mind that places it, which is what [The Cut Moves but Never Vanishes](../the-cut-moves-but-never-vanishes/) says. The machine cannot make that cut: it is made by people, a causal consequence downstream of human choices and not a second edge that can place a cut of its own, as [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) has traced; humans and other living beings each have their own evolutionary history and each make their own cut. What can be traced is that every choice on this chain falls on the side of the prompt. A voice is sent in from this side, comes back by way of the statistical manifold of human text, and is then heard as another voice; [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) has traced this shift of credit.
+The reaction is common: looking at words on a screen and saying "the model read the book carefully." The review can serve as an additional signal. Its boundary is where it is taken for an independent witness. Followed along causality: the role was set by the author, the request was made by the author, "insightful" was what the author asked for, and the judgment that it shows insight was passed by the author. To say that the machine is conscious, or that it is not, is to take the machine into the speaker's own perception and place the von Neumann cut inside the machine or outside the machine; wherever the cut is placed, it is a Mind that places it, which is what [The Cut Moves but Never Vanishes](../the-cut-moves-but-never-vanishes/) says. The machine cannot make that cut: it is made by people, a causal consequence downstream of human choices and not a second edge that can place a cut of its own, as [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) has traced; humans and other living beings each have their own evolutionary history and each make their own cut. What can be traced is that every choice on this chain falls on the side of the prompt. A voice is sent in from this side, comes back by way of the statistical manifold of human text, and is then heard as another voice; [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) has traced this shift of credit.
 
 ```mermaid
 flowchart TD
@@ -58,7 +57,6 @@ flowchart TD
         Review --> Witness
         Witness --> Loop
     end
-
     style S_Echo fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Author fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Prompt fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -92,7 +90,6 @@ flowchart TD
         Origin --> Yield
         Yield --> Blame
     end
-
     style S_Fork fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Origin fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Hold fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -114,7 +111,6 @@ flowchart TD
         Origin --> Yield
         Yield --> Blame
     end
-
     style S_Fork fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Origin fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Hold fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -152,7 +148,6 @@ flowchart TD
         Ruler --> Precise
         Precise --> Covered
     end
-
     style S_Eclipse fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style High fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Plane fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -177,7 +172,6 @@ flowchart TD
         Ruler --> Precise
         Precise --> Covered
     end
-
     style S_Eclipse fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style High fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Plane fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -186,9 +180,9 @@ flowchart TD
     style Covered fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-一张粗糙、模糊而多留白的地图，没有人把它当成大地。拿着一张手绘的草图在荒野里走，须不时抬头，用自己的眼睛辨山川的走势，用自己的脚试泥泞的深浅。一台超高分辨率的投影仪把地图上的每一座山渲染得纤毫毕现时，眼睛便停在屏幕上，不再抬头看天，不再低头踩土。模型复刻的是纸面上留下的划痕；正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，外化的语料库或代码库只是保存过往符号切分的记忆库，并非活着的观察者。一座图书馆的检索目录索引了全部的书，目录仍是目录。
+一张粗糙、模糊而多留白的地图，没有人把它当成大地。拿着一张手绘的草图在荒野里走，须不时抬头，用自己的眼睛辨山川的走势，用自己的脚试泥泞的深浅。当一台高精度的投影仪把地图上的每一道等高线都渲染得纤毫毕现时，眼睛便停在屏幕上，不再抬头看天，也不再低头踩土：正如[精度与分辨率](../precision-and-resolution/)所追溯的，选定框架之内的局部精度，很容易被当成处境中的分辨率，当成已经切出了关乎地形的那些区分；而停留在平面严密性上的目光，则把平面之外要紧的事物留在了低分辨率之中。模型复刻的，是过往区分留在纸面上的残余：正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，外化的语料库或代码库是保存过往切分的结构化档案，唯有当掌舵边缘处的活态心智去阅读并审断它时才能延伸触角，从来不是回望大地的第二位观察者。一座图书馆的检索目录索引了全部的书，目录仍是目录。
 
-A map that is rough, blurred and full of blanks is taken by no one for the land. Walking through wilderness with a hand-drawn sketch, one has to look up now and then, reading the lie of the mountains with one's own eyes and testing the depth of the mud with one's own feet. When a projector of very high resolution renders every mountain on the map in the finest detail, the eyes stay on the screen and no longer look up at the sky or down at the ground. What a model reproduces is the residue of prior distinctions left on paper: as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, an externalized corpus or codebase is a structured archive of past cuts that extends reach only while a living mind at the steering edge reads and judges it, never a second observer looking back at the land. A library's catalog may index every book, and the catalog is still a catalog.
+A map that is rough, blurred and full of blanks is taken by no one for the land. Walking through wilderness with a hand-drawn sketch, one has to look up now and then, reading the lie of the mountains with one's own eyes and testing the depth of the mud with one's own feet. When a high-precision projector renders every contour on the map in the finest detail, the eyes stay on the screen and no longer look up at the sky or down at the ground: as [Precision and Resolution](../precision-and-resolution/) traces, local precision inside a chosen frame is easily taken for situated resolution on the distinctions that bear on the terrain, and the gaze held on the plane's exactness leaves what matters outside it at low resolution. What a model reproduces is the residue of prior distinctions left on paper: as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, an externalized corpus or codebase is a structured archive of past cuts that extends reach only while a living mind at the steering edge reads and judges it, never a second observer looking back at the land. A library's catalog may index every book, and the catalog is still a catalog.
 
 ## 四、 更高效的博弈与对探索的误认 / 4. A More Efficient Game Taken for Exploration
 
@@ -212,7 +206,6 @@ flowchart TD
         Mistake --> Step
         Step --> New
     end
-
     style S_Sandbox fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Game fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Engine fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -237,7 +230,6 @@ flowchart TD
         Mistake --> Step
         Step --> New
     end
-
     style S_Sandbox fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Game fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Engine fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -272,7 +264,6 @@ flowchart TD
         Probe --> Lift
         Lift --> Out
     end
-
     style S_Own fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Bear fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Claim fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -297,7 +288,6 @@ flowchart TD
         Probe --> Lift
         Lift --> Out
     end
-
     style S_Own fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Bear fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Claim fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc

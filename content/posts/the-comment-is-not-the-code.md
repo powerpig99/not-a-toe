@@ -128,9 +128,9 @@ flowchart TD
   style CONS fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-差异和注释在一点上相同，在另一点上不同。在被取用之前，差异和注释一样，是交给做决定的心智的又一道痕迹；它供人重建的，是签名之内的一个重新组合。和注释不同的是，差异就是代码：它可以运行，而运行它就是检验的一部分。作为信号持有，它为抉择提供信息，在落地之前被运行、阅读、测试。作为权威持有，因为是智能体产出的、或是因为流水线同侪签发了它的哈希值就接受，它便顶替了检验，把那句注释未经检验的意图换个新名字带了下去。
+差异和注释在一点上相同，在另一点上不同。在被取用之前，差异和注释一样，是交给做决定的心智的又一道痕迹；它供人重建的，是签名之内的一个重新组合。和注释不同的是，差异就是代码：它可以运行，而运行它就是检验的一部分。由于智能体是在交付给它的前置条件之内重新组合，交回的差异能够通过编译、也能通过在同一框架内写出的测试，同时把交付给它的注释或提示里的含混一并往下传递：正如[精度与分辨率](../precision-and-resolution/)所追溯的，框架之内的严密准确，补不上这一框架从未切出的区分。作为信号持有，它为抉择提供信息，在落地之前被运行、阅读、测试。作为权威持有，因为是智能体产出的、或是因为流水线同侪签发了它的哈希值就接受，它便顶替了检验，把那句注释未经检验的意图换个新名字带了下去。
 
-The diff and the comment are alike in one respect and differ in another. Until taken up, the diff is one more trace for the deciding Mind, as the comment is; what it offers to rebuild is a recombination within the signature. Unlike the comment, the diff is code: it can be run, and running it is part of the check. Held as signal, it informs the choice and gets run, read, and tested before it lands. Held as authority, accepted because the agent produced it or because a pipeline peer signed off its hash, it stands in for the check and carries the note's unchecked intent forward under a newer name.
+The diff and the comment are alike in one respect and differ in another. Until taken up, the diff is one more trace for the deciding Mind, as the comment is; what it offers to rebuild is a recombination within the signature. Unlike the comment, the diff is code: it can be run, and running it is part of the check. Because the agent recombines within the preconditions handed to it, a returned diff can compile and pass tests written within the same frame while carrying forward any blur in the comment or prompt it was handed: exactness inside a frame does not supply a distinction the frame never cut, as [Precision and Resolution](../precision-and-resolution/) traces. Held as signal, it informs the choice and gets run, read, and tested before it lands. Held as authority, accepted because the agent produced it or because a pipeline peer signed off its hash, it stands in for the check and carries the note's unchecked intent forward under a newer name.
 
 ## 四、 信号为检验提供信息，权威则顶替检验 / 4. Signal Informs the Check, Authority Replaces It
 

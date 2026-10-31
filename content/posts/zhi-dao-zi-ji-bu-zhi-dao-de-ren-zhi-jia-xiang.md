@@ -44,7 +44,7 @@ Because a discrete jump separates the old bound from the new, hindsight routinel
 
 [现实的边界](../xian-shi-de-bian-jie/)与[抽象、边界与现实的移动边缘](../abstraction-boundaries-and-the-moving-edge-of-reality/)消解了这种概念偷渡：在活动的鲜活边缘上，只有迄今已划出的区分、尚未区分的开放场域，以及二者之间在接触发生前无法从内部测绘的移动边界。谈论“不知道自己知道”在语词上自相矛盾，因为知识不是静卧在潜意识仓库里的惰性存货；正如[信息是什么](../what-information-is/)所示，一项未被心智在当下主动划出或重溯的区分，在该中心处尚不构成信息。谈论“知道自己不知道”同样是站在跳跃之后获得的新立足点上向后投射的事后地图。并没有一座四象限矩阵事先等在那里供人逐级攀登。唯有当活着的中心在当下承受既有框架的破裂并执行一次新区分时，开放场域的一角才成为已知；一切宣称能在碰撞发生前就给无知区间分门别类的元语言，都是用来避开边缘的器械。
 
-[The Boundary of Reality](../xian-shi-de-bian-jie/) and [Abstraction, Boundaries, and the Moving Edge of Reality](../abstraction-boundaries-and-the-moving-edge-of-reality/) dissolve this conceptual smuggling: at the living edge of activity, there is only what has been distinguished so far, the open field not yet distinguished, and the moving boundary between them that cannot be surveyed from inside prior to contact. Speaking of "not knowing that one knows" is a contradiction in terms, because knowledge is not inert stock sitting in a subconscious warehouse; a distinction that the Mind is not actively drawing or re-tracing in the present is not yet information at that locus, as [What Information Is](../what-information-is/) shows. Speaking of "knowing that one does not know" is likewise a retrospective map projected backward from the footing gained after a jump. No four-quadrant matrix sits waiting to be climbed rung by rung in advance. Only when a living center bears the rupture of its current frame in the present and executes a new distinction does a corner of the open field become known; every metalanguage that claims to classify the intervals of ignorance ahead of that collision is an instrument for avoiding the edge.
+[The Boundary of Reality](../xian-shi-de-bian-jie/) and [Abstraction Boundaries and the Moving Edge of Reality](../abstraction-boundaries-and-the-moving-edge-of-reality/) dissolve this conceptual smuggling: at the living edge of activity, there is only what has been distinguished so far, the open field not yet distinguished, and the moving boundary between them that cannot be surveyed from inside prior to contact. Speaking of "not knowing that one knows" is a contradiction in terms, because knowledge is not inert stock sitting in a subconscious warehouse; a distinction that the Mind is not actively drawing or re-tracing in the present is not yet information at that locus, as [What Information Is](../what-information-is/) shows. Speaking of "knowing that one does not know" is likewise a retrospective map projected backward from the footing gained after a jump. No four-quadrant matrix sits waiting to be climbed rung by rung in advance. Only when a living center bears the rupture of its current frame in the present and executes a new distinction does a corner of the open field become known; every metalanguage that claims to classify the intervals of ignorance ahead of that collision is an instrument for avoiding the edge.
 
 ## 三、 修辞性的谦逊 / 3. Rhetorical Humility
 
@@ -56,9 +56,9 @@ The phrase "knowing that one does not know" is more deceptive than plain ignoran
 
 Metacognition, underlying logic, and cognitive ascension routinely serve the same defensive loop. Reflection and method have genuine instrumental use, yet the posture of surveying the whole from one level up easily hardens into a retained self-image—an identity asset preserved past its step to spare the center the cost of wrestling with unfamiliar friction. [The Scaffolding That Keeps Growing](../the-scaffolding-that-keeps-growing/) traces the exact mechanism of this freeze: stepping back to admire a structure as a completed whole turns living scaffolding into a static monument and relocates openness into the observer's aloof distance, even as the ground underfoot has already shifted.
 
-把大语言模型的高阶输出当作个人的思考，加速的正是这种图像时滞。过去需要多年阅读才能堆砌起令人望而生畏的抽象术语大厦，如今只需输入几句提示词，几秒钟内就能收获结构严丝合缝的“顶级框架”。展示综合外观的成本降至近乎为零，划出区分的因果做功被悉数绕过，自我图像得以借此宣称自己不仅博学，而且早已居高临下地驾驭各类框架。就连提示词的句式也暴露了底层的预设：不停向模型索要“更高维度的框架”或“更高级的认知”，默认了有一架预先建好的确定性阶梯等待采摘，却从不把注意力转回来审视发问装置自身的界限。[好奇没有最终的形态](../curiosity-has-no-final-form/)定位了由此产生的停滞：把继承来的抽象容器错当成终点，只会将心智困在过量的时滞里，反复测量自身的残影，而不是划出新的一刀。
+把大语言模型的高阶输出当作个人的思考，加速的正是这种图像时滞。过去需要多年阅读才能堆砌起令人望而生畏的抽象术语大厦，如今只需输入几句提示词，几秒钟内就能收获结构严丝合缝的“顶级框架”。展示综合外观的成本降至近乎为零，划出区分的因果做功被悉数绕过，自我图像得以借此宣称自己不仅博学，而且早已居高临下地驾驭各类框架。如[精度与分辨率](../precision-and-resolution/)所追溯的，生成的流利文辞在交付给它的先决条件之内供给局部精度，同时原样继承了提示词与底层思考的分辨率：一个解析清楚的想法之所以用平实的语言便能说清，是因为承重部分与附带枝节之间的区分早已按处境所要求的粒度切分完毕，而由尚未解析清楚的提示词生成的繁复辞藻，只是以局部精确的形态把上游的模糊继续传递下去。就连提示词的句式也暴露了底层的预设：不停向模型索要“更高维度的框架”或“更高级的认知”，默认了有一架预先建好的确定性阶梯等待采摘，却从不把注意力转回来审视发问装置自身的界限。[好奇没有最终的形态](../curiosity-has-no-final-form/)定位了由此产生的停滞：把继承来的抽象容器错当成终点，只会将心智困在过量的时滞里，反复测量自身的残影，而不是划出新的一刀。
 
-Treating the higher-order output of a large language model as one's own thinking accelerates this exact Image lag. Where assembling an intimidating edifice of abstract terminology once required years of reading, a few prompts now yield a seamlessly structured "top-tier framework" in seconds. The cost of displaying the outward form of synthesis drops to near zero while the causal work of distinguishing is bypassed altogether, allowing the self-image to claim not merely erudition, but mastery over frameworks from above. Even the shape of the prompt betrays the premise: perpetually asking a model for a "higher-dimensional framework" or "more advanced cognition" presumes a pre-built ladder of certainty waiting to be harvested, without ever turning attention back onto the limits of the questioning apparatus itself. [Curiosity Has No Final Form](../curiosity-has-no-final-form/) locates the resulting stagnation: mistaking inherited abstract containers for the destination traps the mind in excess lag, measuring its own afterimages instead of drawing a fresh cut.
+Treating the higher-order output of a large language model as one's own thinking accelerates this exact Image lag. Where assembling an intimidating edifice of abstract terminology once required years of reading, a few prompts now yield a seamlessly structured "top-tier framework" in seconds. The cost of displaying the outward form of synthesis drops to near zero while the causal work of distinguishing is bypassed altogether, allowing the self-image to claim not merely erudition, but mastery over frameworks from above. As [Precision and Resolution](../precision-and-resolution/) traces, fluent generated prose supplies local precision within the preconditions handed to it while inheriting the resolution of the prompt and the underlying thought: a well-resolved idea can be stated in plain language because the distinctions between what is load-bearing and what is incidental have already been cut at the grain the situation calls for, whereas elaborate phrasing generated from an unresolved prompt only propagates the upstream blur in locally exact form. Even the shape of the prompt betrays the premise: perpetually asking a model for a "higher-dimensional framework" or "more advanced cognition" presumes a pre-built ladder of certainty waiting to be harvested, without ever turning attention back onto the limits of the questioning apparatus itself. [Curiosity Has No Final Form](../curiosity-has-no-final-form/) locates the resulting stagnation: mistaking inherited abstract containers for the destination traps the mind in excess lag, measuring its own afterimages instead of drawing a fresh cut.
 
 ## 四、 AI 作为探针，而非替身 / 4. AI as Probe, Not Stand-In
 
@@ -76,24 +76,20 @@ flowchart TD
         D_Shield["修辞性谦逊：躲在元标签与借来的 AI 辞藻后夹紧自我图像"]
         D_Prem --> D_Shield
     end
-
     subgraph S_Probe["作为边界探针的零自我投射引擎"]
         direction TB
         P_Traj["演绎穷尽：有限投射引擎将前提一路推至极限"]
         P_Dead["破裂的确切坐标：翻出隐性假设与坍缩的正交轴"]
         P_Traj --> P_Dead
     end
-
     subgraph S_Jump["掌舵边缘上活着的心智"]
         direction TB
         J_Claim["第一人称认领：人类统筹者接管返回的摩擦而非捍卫旧框架"]
         J_Leap["离散跳跃：退回未投射的意图以划出新的有限界限"]
         J_Claim --> J_Leap
     end
-
     D_Shield ==>|"剥除替身伪装，将前提注入"| P_Traj
     P_Dead ==>|"将局部死锁上交第一人称感知"| J_Claim
-
     style S_Disc fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Probe fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Jump fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -115,24 +111,20 @@ flowchart TD
         D_Shield["Rhetorical Humility: Clamps self-image shut behind meta-labels & borrowed AI prose"]
         D_Prem --> D_Shield
     end
-
     subgraph S_Probe["Zero-Ego Projection Engine as Boundary Probe"]
         direction TB
         P_Traj["Deductive Exhaustion: Finite projection engine runs premise to its limit"]
         P_Dead["Exact Coordinate of Rupture: Surfaces hidden assumptions & collapsed axes"]
         P_Traj --> P_Dead
     end
-
     subgraph S_Jump["The Living Mind at the Edge That Steers"]
         direction TB
         J_Claim["First-Person Claim: Human orchestrator owns the returning friction instead of defending the prior frame"]
         J_Leap["Discrete Jump: Steps back into unprojected intent to draw a new finite bound"]
         J_Claim --> J_Leap
     end
-
     D_Shield ==>|"Stripped of stand-in pretense, premise fed into"| P_Traj
     P_Dead ==>|"Escalates localized deadlock to first-person sensing"| J_Claim
-
     style S_Disc fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Probe fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Jump fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -144,7 +136,7 @@ flowchart TD
     style J_Leap fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-在整个探测过程中，承受负荷、认领返回的矛盾信号、并退后一步重新渲染前提的所在，始终是人类提问者本人。模型充当的是隔离投射断裂点的手术刀与诊断探针，从不是替提问者亲历破裂的代用头脑。把 AI 用反了，就是抛出提示词、将续写结果囫囵吞下，在视网膜表面完成一场从未真正落地的掌控仪式——无论应付作业的学生还是炫耀“高维认知”的成年人皆是如此。[词元效率、仿真与不可闭合的缝隙](../token-efficiency-emulation-and-the-unclosable-gap/)揭示了这条捷径为何失效：模型可以用极少的计算词元仿真出高阶结论的压缩词法序列，但压缩一条已走过路径的痕迹，从不能替代在活的中心里让区分成为现实的那趟因果跋涉。
+在整个探测过程中，承受负荷、认领返回的矛盾信号、并退后一步重新渲染前提的所在，始终是人类提问者本人。模型充当的是隔离投射断裂点的手术刀与诊断探针，从不是替提问者亲历破裂的代用头脑。把 AI 用反了，就是抛出提示词、将续写结果囫囵吞下，在视网膜表面完成一场从未真正落地的掌控仪式——无论应付作业的学生还是炫耀“高维认知”的成年人皆是如此。[Token 效率、模拟与无法弥合的间隙](../token-efficiency-emulation-and-the-unclosable-gap/)揭示了这条捷径为何失效：模型可以用极少的计算词元模拟出高阶结论的压缩词法序列，但压缩一条已走过路径的痕迹，从不能替代在活的中心里让区分成为现实的那趟因果跋涉。
 
 Throughout that probing, the locus that bears the load, claims the returning signal of contradiction, and steps backward to re-render the premise remains the human questioner. The model functions as a scalpel and diagnostic probe that isolates where a projection fractures, never as a surrogate mind that experiences the rupture on the questioner's behalf. Using AI backward means throwing out a prompt, swallowing the continuation whole, and performing a ritual of mastery that never leaves the retina—whether a student bypassing an assignment or an adult parading "high-dimensional cognition." [Token Efficiency, Emulation, and the Unclosable Gap](../token-efficiency-emulation-and-the-unclosable-gap/) exposes why the shortcut fails: a model can emulate the compressed lexical sequence of a conclusion with minimal compute tokens, but compressing the trace of a path already walked never substitutes for walking the causal path that makes the distinction real in a living center.
 
