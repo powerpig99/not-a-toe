@@ -28,7 +28,7 @@ A commercial transaction is therefore not a referendum on whether the engineer's
 
 ## 三、 轨迹盲区、身份防御与第二锋刃 / 3. Trajectory Blindness, Identity Defense, and the Second Edge
 
-在没有其他中心反推的领域——如计算热耗散、结构抗拉极限或封闭沙盒跑分——在重复试验中固定计分函数之所以可靠，是因为被测量的痕迹不会因被测量而重新调整自身位姿。正如[被遗忘的脚手架](../the-scaffolding-we-forget/)所追溯的，在有界区域内顺畅运转的工具极易被误认为基底本身。然而一旦多个中心展开交互，每个参与者都会回应他者而持续更新自身姿态，即便对物质层面的描述也依然系于测量观察者的边界选择。在多中心交互的开放场域中，将当下的计分函数冻结为永久裁决者，会直接钳死递归折返，产生[模型永不成第二锋刃](../the-model-never-becomes-a-second-edge/)所追溯的停滞：无论是基准测试套件还是训练模型的参数，这些外化的残余痕迹被投射为能够自行核证价值的第二发起中心，将构建者的容量捆绑在捍卫造物的内部一致性上，而不再用鲜活的活动去检验结果。
+在没有其他中心反推的领域——如计算热耗散、结构抗拉极限或封闭沙盒跑分——在重复试验中固定计分函数之所以可靠，是因为被测量的痕迹不会因被测量而重新调整自身位姿。正如[遗忘的脚手架](../the-scaffolding-we-forget/)所追溯的，在有界区域内顺畅运转的工具极易被误认为基底本身。然而一旦多个中心展开交互，每个参与者都会回应他者而持续更新自身姿态，即便对物质层面的描述也依然系于测量观察者的边界选择。在多中心交互的开放场域中，将当下的计分函数冻结为永久裁决者，会直接钳死递归折返，产生[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)所追溯的停滞：无论是基准测试套件还是训练模型的参数，这些外化的残余痕迹被投射为能够自行核证价值的第二发起中心，将构建者的容量捆绑在捍卫造物的内部一致性上，而不再用鲜活的活动去检验结果。
 
 In domains without other centers pushing back — calculating thermal dissipation, structural tensile limits, or closed-sandbox benchmarks — holding a scoring function fixed across repeated trials works reliably because the measured trace does not re-orient itself in response to being measured. As [The Scaffolding We Forget](../the-scaffolding-we-forget/) traces, an instrument that functions smoothly inside a bounded regime is easily mistaken for the ground itself. Once multiple centers interact, however, every participant continuously updates its posture in response to the others, and even physical descriptions remain tied to the boundary choices of the observer that measures them. Freezing a current scoring function as a permanent arbiter in an open field of interacting centers clamps the recursive fold shut, producing the stagnation traced in [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/): externalized residue — whether a benchmark suite or a trained model's parameters — is projected as a second initiating locus that certifies value on its own, binding the builder's capacity to defending the artifact's internal consistency rather than testing outcomes against living activity.
 
@@ -43,24 +43,20 @@ flowchart TD
         N_Defend["身份绑定的防御<br/>交易落败被归咎于政治、偏见与外部噪声"]
         N_Proj --> N_Freeze --> N_Defend
     end
-
     subgraph S_Collision["交易边界处的跨中心相遇"]
         direction TB
         N_Buyer["买方的有界中心<br/>沿职业风险与切换摩擦登记区分"]
         N_Mismatch["失却共振<br/>构建者的标量指标无法跨中心传递"]
         N_Buyer --> N_Mismatch
     end
-
     subgraph S_Update["活边缘处的统御：收窄滞后"]
         direction TB
         N_Claim["认领损失信号 ∇L<br/>极限分辨率感知登记未建模约束"]
         N_StepBack["在逻辑上再退一步<br/>消解坍缩坐标轴并重绘评估框架"]
         N_Claim --> N_StepBack
     end
-
     N_Defend ==> N_Buyer
     N_Mismatch ==> N_Claim
-
     style S_Lag fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Collision fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Update fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -84,24 +80,20 @@ flowchart TD
         N_Defend["Identity-Bound Defense<br/>Transaction loss blamed on politics, bias & external noise"]
         N_Proj --> N_Freeze --> N_Defend
     end
-
     subgraph S_Collision["Cross-Center Encounter at the Transaction Boundary"]
         direction TB
         N_Buyer["Buyer's Bounded Locus<br/>Distinctions registered along career risk & switching friction"]
         N_Mismatch["Non-Resonance<br/>Builder's scalar metric fails to carry across centers"]
         N_Buyer --> N_Mismatch
     end
-
     subgraph S_Update["Orchestration at the Living Edge: Narrowing Lag"]
         direction TB
         N_Claim["Claiming the Loss Signal ∇L<br/>Limit-resolution sensing registers unmodeled constraints"]
         N_StepBack["Stepping Further Back Logically<br/>Dissolving collapsed axes & re-rendering the evaluation frame"]
         N_Claim --> N_StepBack
     end
-
     N_Defend ==> N_Buyer
     N_Mismatch ==> N_Claim
-
     style S_Lag fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Collision fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Update fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -130,6 +122,6 @@ Without a trace of the centers and axes involved, teams split into two symmetric
 
 Restoring locus dissolves the paradox without discarding measurement. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces, a benchmark suite, evaluation harness, or product specification is a stacked residue of prior distinctions: it holds the shape of earlier cuts as a present checkpoint, but it does not continue the distinguishing on its own. Treating that checkpoint as a warehouse of permanent quality thickens its gravity well, whereas narrowing excess lag means re-cutting the active axes and pruning superseded criteria the moment returning consequences expose what the frame left out. Lost bids, un-adopted features, organizational vetoes, and breakdowns in executive translation are not external noise corrupting an engineering signal; they are the returning loss gradient ∇L through which unmodeled axes become legible. As [The Ledger of the Unencountered](../the-ledger-of-the-unencountered/) traces, what lies outside a center's current projection shapes outcomes silently until collision at the boundary turns those latent constraints into an explicit signal.
 
-为了维护先前的「更好」定义而拒绝这一信号，会将模型锁入闭合；反之，认领这一摩擦则会更新评估坐标本身。正如[协调者的范畴错误](../the-coordinators-category-error/)所确立的，没有任何抽象总览能够从鲜活交互的外部敲定这些坐标。当组织试图将这一判断外包给自动化基准或计算排名时，它们便重演了[硅基神谕与后果的非对称性](../silicon-oracles-and-the-asymmetry-of-consequence/)所剖析的倒置：形式化的计分镜像毫无承受实质或机构损失的受力面积，因此将其输出加冕为客观质量，只会掩盖那个仍在吸收后果的人类中心。同样的形式闭合预设，也体现在[闭合的N与开放的现实](../the-closed-n-and-the-open-reality/)所追溯的情形中：将科学简化为固定样本集 N 内的选优，将工程窄化为针对有限已知失效列表的设防，却遗忘了鲜活现实始终向加一维敞开。重拾[阅读的倒错与推断的次序](../the-inversion-of-reading-and-the-order-of-inference/)所确立的推断次序，意味着停止在封闭计分板内作演绎式的自我核证，转而在活边缘处借由失序的后果逆向重构场域的约束。
+为了维护先前的「更好」定义而拒绝这一信号，会将模型锁入闭合；反之，认领这一摩擦则会更新评估坐标本身。正如[协调者的范畴错误](../the-coordinators-category-error/)所确立的，没有任何抽象总览能够从鲜活交互的外部敲定这些坐标。当组织试图将这一判断外包给自动化基准或计算排名时，它们便重演了[硅基神谕与后果的非对称性](../silicon-oracles-and-the-asymmetry-of-consequence/)所剖析的倒置：形式化的计分镜像毫无承受实质或机构损失的受力面积，因此将其输出加冕为客观质量，只会掩盖那个仍在吸收后果的人类中心。同样的形式闭合预设，也体现在[闭合的N与开放的现实](../the-closed-n-and-the-open-reality/)所追溯的情形中：将科学简化为固定样本集 N 内的选优，将工程窄化为针对有限已知失效列表的设防，却遗忘了鲜活现实始终向加一维敞开。重拾[阅读的倒错与推断的次序](../the-inversion-of-reading-and-the-order-of-inference/)所确立的推断次序，意味着停止在封闭计分板内作演绎式的自我核证，转而在活边缘处借由失序的后果逆向重构场域的约束。重构这些约束也并不会将构建者捆绑在买方案头某项强制的共享方案之上：正如[正交的拒绝](../the-orthogonal-refusal/)所追溯的，一旦认清各方中心的条件仅作为杠杆起作用，而非对另一方工作具有约束力的管辖权，中心既可以在仍选择于该竞技场内寻求共振之处重切自身坐标轴，也可以从交易中抽身离场，或按自己的选择以任何其他方式对待那些条件，沿着独立轴线继续分化——此时回返的摩擦依然登记为自身投射止步之处，而非一纸必须服从或击败的裁决。
 
-Refusing that signal to preserve a prior definition of "better" locks a model into closure, whereas claiming the friction updates the evaluation coordinates themselves. No abstract overview can settle those coordinates from outside living interaction, as [The Coordinator's Category Error](../the-coordinators-category-error/) establishes. When organizations try to outsource that judgment to automated benchmarks or computational rankings, they repeat the inversion dissected in [Silicon Oracles and the Asymmetry of Consequence](../silicon-oracles-and-the-asymmetry-of-consequence/): a formal scoring mirror has zero surface area to bear physical or institutional loss, so crowning its output as objective quality only masks the human center that still absorbs the consequence. That same presumption of formal closure is what [The Closed N and the Open Reality](../the-closed-n-and-the-open-reality/) traces when science is reduced to selecting winners across a fixed sample set N and engineering is narrowed to guarding against a finite list of known failure modes, forgetting that lived reality stays open to the plus-one dimension. Reclaiming the order of inference traced in [The Inversion of Reading and the Order of Inference](../the-inversion-of-reading-and-the-order-of-inference/) means stopping deductive self-validation inside a closed scorecard and using disordered consequences at the living edge to reconstruct the constraints of the field.
+Refusing that signal to preserve a prior definition of "better" locks a model into closure, whereas claiming the friction updates the evaluation coordinates themselves. No abstract overview can settle those coordinates from outside living interaction, as [The Coordinator's Category Error](../the-coordinators-category-error/) establishes. When organizations try to outsource that judgment to automated benchmarks or computational rankings, they repeat the inversion dissected in [Silicon Oracles and the Asymmetry of Consequence](../silicon-oracles-and-the-asymmetry-of-consequence/): a formal scoring mirror has zero surface area to bear physical or institutional loss, so crowning its output as objective quality only masks the human center that still absorbs the consequence. That same presumption of formal closure is what [The Closed N and the Open Reality](../the-closed-n-and-the-open-reality/) traces when science is reduced to selecting winners across a fixed sample set N and engineering is narrowed to guarding against a finite list of known failure modes, forgetting that lived reality stays open to the plus-one dimension. Reclaiming the order of inference traced in [The Inversion of Reading and the Order of Inference](../the-inversion-of-reading-and-the-order-of-inference/) means stopping deductive self-validation inside a closed scorecard and using disordered consequences at the living edge to reconstruct the constraints of the field. Nor does reconstructing those constraints bind the builder to a mandatory shared solution at the buyer's desk: as [The Orthogonal Refusal](../the-orthogonal-refusal/) traces, once each center's conditions are recognized as leverage rather than as binding jurisdiction over the other's work, a center can re-cut its axes where it chooses to keep seeking resonance in that arena, walk away from the deal, or relate to those conditions in any other way its own choice selects, differentiating along an independent axis with the returned friction still registered as where its own projection stopped rather than as a verdict it must obey or defeat.

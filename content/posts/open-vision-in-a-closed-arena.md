@@ -100,24 +100,20 @@ flowchart TD
         O_Act["战略克制与原生开源：拒绝垄断份额与指标表演"]
         O_Scale --> O_Act
     end
-
     subgraph S_Holds["暂时持守与冻结风险"]
         direction TB
         H_Inst["工作投射：线性阶段路线图、核心团队凝聚、算力账本、未分派时间"]
         H_Lag["负荷下的形象滞后：免于重溯的工具硬化为穷尽的根基"]
         H_Inst -.->|"逾越其步仍被保存"| H_Lag
     end
-
     subgraph S_Renew["掌舵边缘的活体一致"]
         direction TB
         R_Signal["摩擦即信号：竞技场圈占、协调负荷或正交突破检验持守"]
         R_Render["退后一步重新渲染：心智切分正交投射并更新前提"]
         R_Signal --> R_Render
     end
-
     O_Act ==>|"经由有限的组织工具运作"| H_Inst
     H_Lag ==>|"被规模扩张与场域残余暴露"| R_Signal
-
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Holds fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Renew fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -139,24 +135,20 @@ flowchart TD
         O_Act["Strategic Restraint & Native Open Source: Refuses monopoly share and KPI theater"]
         O_Scale --> O_Act
     end
-
     subgraph S_Holds["Provisional Holds and the Risk of Freeze"]
         direction TB
         H_Inst["Working Projections: Linear stage roadmap, core team bond, compute ledger, unassigned time"]
         H_Lag["Image Lag Under Load: Instruments exempted from re-tracing harden into exhaustive ground"]
         H_Inst -.->|"Preserved past their step"| H_Lag
     end
-
     subgraph S_Renew["Living Consistency at the Steering Edge"]
         direction TB
         R_Signal["Friction as Signal: Arena enclosure, coordination load, or orthogonal breakthroughs test the hold"]
         R_Render["Stepping Back to Re-Render: The Mind splits orthogonal projections and renews the premise"]
         R_Signal --> R_Render
     end
-
     O_Act ==>|"Operates through finite organizational instruments"| H_Inst
     H_Lag ==>|"Exposed by scaling and field residue"| R_Signal
-
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Holds fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Renew fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -172,6 +164,6 @@ flowchart TD
 
 The same remainder applies to the company as to the opportunity: every hold the firm draws (roadmap, team, culture, pricing) holds at the act that draws it and is not final. Keeping those holds as instruments rather than as exhaustive ground is the discipline the talk already applies to monopoly share. It is also what keeps the open stance from turning into its own inversion. [Preference Clusters and the Language of Judgment](../preference-clusters-and-the-language-of-judgment/) traces the mechanism underneath: right and wrong name the sound aligned preferences make when another locus does not re-trace the same field; stopping others from releasing and stopping others from stopping share a single mechanism, each patterning other centers' alignments rather than continuing from its own orientation. [Advocating Openness of Others Is a Desire for Closure of the Self](../advocating-openness-of-others-is-a-desire-for-closure-of-the-self/) traces the inversion at its sharpest: demanding that others open is how a center keeps its own selection exempt from inquiry under the image of openness. Release and restraint stay instruments while they continue from this firm's orientation; the inversion begins where "openness" freezes into a warrant other centers must meet.
 
-持续的张力，是试图让系统比周围的激励所偏好的更开放所带来的后果。竞技场不必先变得开放，开放的愿景才能保持一致。一致，是活动在场域已经增密出的任何残余之中不冻结地继续，把结构只当作结构来持守。
+持续的张力，是试图让系统比周围的激励所偏好的更开放所带来的后果。竞技场不必先变得开放，开放的愿景才能保持一致。正如[正交的拒绝](../the-orthogonal-refusal/)所追溯的，拒绝圈占打法，并非在那套打法把开放计分为战略脆弱的那条轴线上占据较弱的位置；它走出那条轴线，无须任何竞争者或投资人先修改条件，并把奖励圈占的激励当作杠杆而非指令。一致，是活动在场域已经增密出的任何残余之中不冻结地继续，把结构只当作结构来持守。
 
-The ongoing tension is the consequence of trying to keep the system more open than the surrounding incentives prefer. The arena does not have to become open for the open vision to stay consistent. Consistency is the activity continuing without freeze, structure held as structure, inside whatever residue the field has already densified.
+The ongoing tension is the consequence of trying to keep the system more open than the surrounding incentives prefer. The arena does not have to become open for the open vision to stay consistent. As [The Orthogonal Refusal](../the-orthogonal-refusal/) traces, declining the enclosure playbook is not a weaker position on the axis where that playbook scores openness as strategic vulnerability; it steps off that axis, needs no competitor or investor to revise its terms first, and treats the incentives that reward enclosure as leverage rather than as mandate. Consistency is the activity continuing without freeze, structure held as structure, inside whatever residue the field has already densified.

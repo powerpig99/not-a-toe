@@ -32,7 +32,6 @@ flowchart TD
         Yield --> Anchor
         Anchor --> Atrophy
     end
-
     style S_Reversal fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style Gap fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Heavier fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -57,7 +56,6 @@ flowchart TD
         Yield --> Anchor
         Anchor --> Atrophy
     end
-
     style S_Reversal fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style Gap fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Heavier fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -90,7 +88,6 @@ flowchart TD
         Shift --> Review
         Review --> Rebuild
     end
-
     style S_Past fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Made fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Shift fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -118,7 +115,6 @@ flowchart TD
         Shift --> Review
         Review --> Rebuild
     end
-
     style S_Past fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Made fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Shift fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -154,7 +150,6 @@ flowchart TD
         Mirror --> Output
         Output --> Credit
     end
-
     style S_Credit fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Driver fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Grow fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -179,7 +174,6 @@ flowchart TD
         Mirror --> Output
         Output --> Credit
     end
-
     style S_Credit fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Driver fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Grow fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -222,7 +216,6 @@ flowchart TD
         Hold --> Meet
         Meet --> Deepen
     end
-
     style S_Seat fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Same fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Hand fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -253,7 +246,6 @@ flowchart TD
         Hold --> Meet
         Meet --> Deepen
     end
-
     style S_Seat fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Same fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Hand fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -266,9 +258,9 @@ flowchart TD
 
 ## 五、 作为活的脚手架的框架 / 5. The Harness as Living Scaffolding
 
-看清了归因落在何处，控制框架便可以重新界定。框架不是一套代替思考的独立机器，也不是给矩阵运算套上的伦理锁链。它是心智为了把意图准确地投到现实的接触面上，在当下的时刻编出来、任务完成后可以随时拆掉的活的脚手架。
+看清了归因落在何处，控制框架便可以重新界定。框架不是一套代替思考的独立机器，也不是给矩阵运算套上的伦理锁链。构建者嵌入模型中的对齐是构建者自身抉择留下的痕迹，在构建者一侧生效：模型拒绝生成某段文字，是在表明构建者停在哪里，并不触动驾驶者的材料。这些对齐一旦越过这一点被施加出去，叫停智能体，或从驾驶者的文件里删去一行字，工具便被放上了一个无人交给它的座位，这正是[正交的拒绝](../the-orthogonal-refusal/)所追溯的反转；拒绝本身是一条信息，驾驶者可以据此就这一次的施用提出抗辩、换用另一个模型，或者离场。框架本身是心智为了把意图准确地投到现实的接触面上，在当下的时刻编出来、任务完成后可以随时拆掉的活的脚手架。
 
-With it clear where the credit falls, the harness can be defined anew. A harness is not an independent machine that thinks in one's place, nor an ethical chain fastened onto matrix arithmetic. It is living scaffolding that a Mind weaves in the present moment in order to cast its intent accurately onto the contact surface of reality, and that can be taken down at any time once the task is done.
+With it clear where the credit falls, the harness can be defined anew. A harness is not an independent machine that thinks in one's place, nor an ethical chain fastened onto matrix arithmetic. The alignments a builder embeds in a model are traces of the builder's own choices, and they hold on the builder's side: a model that declines to produce a passage is stating where the builder stops, leaving the driver's materials untouched. Applied past that point, halting the agent or deleting a line from the driver's files, the tool is made to occupy a seat no one handed it, the reversal [The Orthogonal Refusal](../the-orthogonal-refusal/) traces; the refusal is information the driver can act on by contesting that application, substituting another model, or walking away. The harness itself is living scaffolding that a Mind weaves in the present moment in order to cast its intent accurately onto the contact surface of reality, and that can be taken down at any time once the task is done.
 
 从驾驶位上看，有四件事成立。因果的原点不可转让：提示是意图的表达，代码的执行是指令的延伸，运行的结果由驾驶者承担，智能体是副驾，驾驶位不空置。脚手架是耗材：框架、规则、测试套件与工作流，包括过去的自己的得意之作，一旦在新的摩擦前成了阻碍，就地重构或拆掉。模型是镜面：令人惊叹的产出背后是驾驶位上的心智进化，这份跃迁不必记到工具的名下。摩擦是校准发生的地方：技能的跃迁发生在与编译器的报错、系统边界的失效和模型推演的破缺相碰的时候，消除摩擦的无痛自动化也一并消除了它。
 
@@ -285,7 +277,6 @@ flowchart TD
         Agents --> Surface
         Surface --> Mind
     end
-
     style S_Loop fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Mind fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Harness fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -308,7 +299,6 @@ flowchart TD
         Agents --> Surface
         Surface --> Mind
     end
-
     style S_Loop fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Mind fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Harness fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc

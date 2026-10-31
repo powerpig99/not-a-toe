@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-31T12:23:32.067Z",
+    "generated_at": "2026-10-31T14:21:29.045Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -27,7 +27,7 @@
       "content/posts/an-observation-by-its-own-standard.md": "1d44b8371330",
       "content/posts/better-than-free-after-the-checklist-closes.md": "d39b1b10df08",
       "content/posts/beyond-the-hundred-trillion-horizon.md": "3c63e3e17823",
-      "content/posts/beyond-the-projection.md": "ed96da63a1af",
+      "content/posts/beyond-the-projection.md": "91de8b16eeb5",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "a069dfae4348",
       "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md": "3cfbe8163219",
       "content/posts/causality-all-the-way.md": "08a8a20f59ec",
@@ -38,7 +38,7 @@
       "content/posts/choice-itself-has-no-inherent-weight.md": "61c4cff8bfbf",
       "content/posts/chollet-intelligence-explosion-analysis.md": "c8c3e191336b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "2675cb26efde",
-      "content/posts/claudes-constitution-analysis.md": "7420674f9cb5",
+      "content/posts/claudes-constitution-analysis.md": "ae157443837e",
       "content/posts/cli-interface-stack.md": "8ce49c41c258",
       "content/posts/climbing-does-not-leave-the-ground.md": "15acabf3533a",
       "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "49aeca1cd3f8",
@@ -48,12 +48,12 @@
       "content/posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback.md": "3173495002ec",
       "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "8469fbe3aa6c",
       "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "2804ed2110a5",
-      "content/posts/conscience-power-delegation.md": "445b18ac1ec2",
+      "content/posts/conscience-power-delegation.md": "c4ea27a54828",
       "content/posts/consciousness-ascription-and-the-quantum-cut.md": "3ce64bf84b73",
       "content/posts/consciousness-never-appears-as-data-among-data.md": "35adbc5ab9f0",
-      "content/posts/constraints_are_ground.md": "851ee44653bf",
+      "content/posts/constraints_are_ground.md": "9a6d5709fd48",
       "content/posts/context-engineering-essay.md": "c20d90b794d0",
-      "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "a358b53b91b0",
+      "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "8c87c3dfef55",
       "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "a5fb001040ed",
       "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "1629917a17b9",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "de3299fb5449",
@@ -79,7 +79,7 @@
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "cb3ba6791a63",
       "content/posts/expertise-as-reference-not-replacement.md": "4b345c6adb7c",
       "content/posts/extended-cognition-refined.md": "f8c078179a21",
-      "content/posts/extension-and-shift.md": "3db8159f8401",
+      "content/posts/extension-and-shift.md": "5ab404bbbd72",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "a0c1f4787547",
       "content/posts/failure-as-information.md": "98ca1f79bd34",
       "content/posts/fate-loves-irony-refined.md": "4173eb2feff2",
@@ -110,8 +110,8 @@
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "2740c5400321",
       "content/posts/immortality-final.md": "2bbeb6b8ed55",
       "content/posts/incompleteness-exhibited-twice.md": "3d9138bc24b4",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "76ab560e5a25",
-      "content/posts/intelligence-belongs-only-to-the-mind.md": "425497acb31b",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "84940a6ca003",
+      "content/posts/intelligence-belongs-only-to-the-mind.md": "5656f412d172",
       "content/posts/intelligence-crisis-response.md": "cac8520aa17d",
       "content/posts/intelligence-folding-back-on-itself.md": "457b6b772b47",
       "content/posts/intelligence-traps-itself.md": "533c6e1e356a",
@@ -137,13 +137,13 @@
       "content/posts/no-genius-can-solve-the-knowledge-problem.md": "2b3ff94ab2fa",
       "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "6cca4707b0cc",
       "content/posts/no-outside-scorekeeper.md": "6d9499826830",
-      "content/posts/no-system-can-be-kept-closed.md": "ee39b346f611",
+      "content/posts/no-system-can-be-kept-closed.md": "3af239cb12ec",
       "content/posts/nobody-has-seen-anything-yet.md": "2b871aa62082",
       "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md": "9a865742b9bb",
       "content/posts/not-a-theory-of-everything.md": "41f95512b70e",
       "content/posts/not-a-toe-rewrite.md": "99150d84dc27",
       "content/posts/not-predicting-is-predicting-without-awareness.md": "750dd47f6c5b",
-      "content/posts/objects-are-stabilized-relationships.md": "481efef6fd28",
+      "content/posts/objects-are-stabilized-relationships.md": "74accfac1364",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "8699e204b57f",
       "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "c16455ad9a94",
       "content/posts/on-education.md": "e2d0a3baebcd",
@@ -152,7 +152,7 @@
       "content/posts/ones-potential-as-threat-or-inspiration.md": "b68e2cc6fd51",
       "content/posts/only-if-it-is-not-kept-empty.md": "7dfb527c6b0e",
       "content/posts/ontos-is-a-method-agent.md": "fac9577215c2",
-      "content/posts/open-vision-in-a-closed-arena.md": "98c32fc1001d",
+      "content/posts/open-vision-in-a-closed-arena.md": "a0adc61c2962",
       "content/posts/openness-is-consistency.md": "214d42e4dae1",
       "content/posts/order-surplus-and-the-moral-intercept.md": "2c05f2c13447",
       "content/posts/overfitting-as-the-follower-mode.md": "91e87126c0bd",
@@ -178,9 +178,9 @@
       "content/posts/reality-is-the-minds-ongoing-realization.md": "6602a836102e",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "c12a17f1cc71",
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "a8f8212b9511",
-      "content/posts/residual-control-recedes-to-the-edge.md": "68ac196751d4",
+      "content/posts/residual-control-recedes-to-the-edge.md": "3de7bf12eb33",
       "content/posts/residual-individualism.md": "9807fc882976",
-      "content/posts/restriction-is-a-selective-tax.md": "c6a8d3b34966",
+      "content/posts/restriction-is-a-selective-tax.md": "69b02c530867",
       "content/posts/scaffolds-or-specialized-contexts.md": "ff1d8c730144",
       "content/posts/school_essay_final.md": "f18cabb10f9c",
       "content/posts/selection-contradiction-and-open-reality.md": "74fbecb78715",
@@ -193,7 +193,7 @@
       "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "7220d97a43c1",
       "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "6e6001066898",
       "content/posts/simplicity-ultimate-sophistication.md": "9039597a8e48",
-      "content/posts/sovereignty-belief-and-regulatory-structures.md": "55e83b6e3d31",
+      "content/posts/sovereignty-belief-and-regulatory-structures.md": "69b421f8fc76",
       "content/posts/sovereignty-essay.md": "bdc7dfc589b0",
       "content/posts/sowell-observed-the-surface-problem.md": "df9de9b7c1a0",
       "content/posts/stability-and-excess.md": "25b813029b34",
@@ -220,8 +220,8 @@
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "a8a4ce29b72b",
       "content/posts/the-carry-that-cannot-be-named-inside-the-register.md": "042276f47daa",
       "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "85a75f91e6a5",
-      "content/posts/the-category-error-of-better.md": "e75bf338d63e",
-      "content/posts/the-causal-inversion-of-partnership.md": "0bef29dd60af",
+      "content/posts/the-category-error-of-better.md": "660a139ab112",
+      "content/posts/the-causal-inversion-of-partnership.md": "893fa06d74ab",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "8449097ffbc1",
       "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "c3f7ea991be1",
       "content/posts/the-causal-overstep-of-observation-and-the-first-person-surplus.md": "267d7cf557d7",
@@ -287,7 +287,7 @@
       "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md": "17c508560e06",
       "content/posts/the-interesting-case-of-rubin.md": "7e8d008c3655",
       "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "5db081fa7c26",
-      "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "bec4cd8c5f9b",
+      "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "a9573a7170ba",
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "88664ef097a3",
       "content/posts/the-invisible-first-move.md": "2903f23cc112",
       "content/posts/the-invisible-gods-eye.md": "6e94c762b120",
@@ -307,13 +307,13 @@
       "content/posts/the-map-after-the-territory.md": "7c4c6f4b27cf",
       "content/posts/the-mark-and-the-act.md": "c564f60f2ed7",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "92771062e024",
-      "content/posts/the-mind-as-vector-and-coordinate-system.md": "92606376f487",
+      "content/posts/the-mind-as-vector-and-coordinate-system.md": "846649333836",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "db7cf6705972",
       "content/posts/the-mirage-of-the-infinite-totality.md": "befa5078c345",
       "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "66816e477146",
-      "content/posts/the-mirror-handshake-of-power.md": "d28afe4f6e9d",
+      "content/posts/the-mirror-handshake-of-power.md": "43932682b2ed",
       "content/posts/the-misallocation-of-agency.md": "b921b7fb3528",
-      "content/posts/the-model-never-becomes-a-second-edge.md": "f2c984cf98ec",
+      "content/posts/the-model-never-becomes-a-second-edge.md": "264a5faea1fd",
       "content/posts/the-moral-reversal-and-the-scripted-subject.md": "e1ac22ffc038",
       "content/posts/the-myth-of-population-collapse-explained.md": "6b8ecefdfc0f",
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "f72287238803",
@@ -334,7 +334,7 @@
       "content/posts/the-power-law-of-surrendered-agency.md": "4a2576b3519f",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "e93e141e4251",
       "content/posts/the-price-of-closing-optionality.md": "5587a48534a1",
-      "content/posts/the-question-that-installs-the-war.md": "841400920834",
+      "content/posts/the-question-that-installs-the-war.md": "33d002f839b2",
       "content/posts/the-ramble-within-the-ramble.md": "57566038f9e7",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "46998aadc1d1",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "6036be35fe63",
@@ -360,7 +360,7 @@
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "87a9e69d47f1",
       "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "5d21768fd3b6",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "c2d1d681f444",
-      "content/posts/the-source-of-all-harm.md": "52b5b14b2030",
+      "content/posts/the-source-of-all-harm.md": "67e9c861c682",
       "content/posts/the-source-of-shared-change.md": "6b3787d81f18",
       "content/posts/the-sovereign-blinding.md": "ed3ccd01b170",
       "content/posts/the-strategy-that-wasnt.md": "619408944139",
@@ -400,7 +400,7 @@
       "content/posts/what-hinton-failed-to-understand.md": "5b9aba9df3f3",
       "content/posts/what-information-is.md": "63cbacf714f1",
       "content/posts/what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination.md": "d06b858632cf",
-      "content/posts/what-works-is-the-belief.md": "56ae7c7c4c69",
+      "content/posts/what-works-is-the-belief.md": "8707b2b27543",
       "content/posts/whatever-is-one-prompt-away.md": "0e806b1ec073",
       "content/posts/when-abundance-looks-like-scarcity.md": "84b716cdac74",
       "content/posts/when-electrons-think.md": "c3336f135244",
@@ -426,7 +426,7 @@
       "content/book/causality.md": "51d6cd58236e",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "e5d793d04b2f",
+      "content/book/index-of-premises.md": "a72ce5a8e027",
       "content/book/intelligence.md": "562728811be2",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "0caf97231862",
@@ -442,14 +442,14 @@
     },
     "stats": {
       "posts": 415,
-      "edges": 12240,
-      "unique_directed": 6019,
+      "edges": 12286,
+      "unique_directed": 6042,
       "missing_targets": 0,
-      "one_way": 1153,
+      "one_way": 1132,
       "isolated": 0,
       "posts_with_outbound": 415,
       "book_pages": 16,
-      "book_edges": 1194,
+      "book_edges": 1196,
       "posts_reached_by_book": 415
     }
   },
@@ -538,7 +538,7 @@
   "hubs_out": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 99
+      "out_degree": 100
     },
     {
       "slug": "openness-is-consistency",
@@ -546,7 +546,7 @@
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "out_degree": 70
+      "out_degree": 71
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -554,7 +554,7 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "out_degree": 61
+      "out_degree": 62
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -562,7 +562,7 @@
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "out_degree": 48
+      "out_degree": 49
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -1119,9 +1119,9 @@
       "slug": "beyond-the-projection",
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
-      "hash": "ed96da63a1af",
+      "hash": "91de8b16eeb5",
       "in_degree": 208,
-      "out_degree": 18,
+      "out_degree": 19,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "ontos-is-a-method-agent",
@@ -1133,6 +1133,7 @@
         "on-demand-contexts-keep-coherence-at-one-step",
         "the-reversal-of-verification",
         "a-living-external-cortex",
+        "the-orthogonal-refusal",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "lossless-knowledge-of-an-open-field-is-incoherent",
@@ -1473,12 +1474,13 @@
       "slug": "claudes-constitution-analysis",
       "path": "content/posts/claudes-constitution-analysis.md",
       "title": "名为 Claude 的投射 / The Projection Called Claude",
-      "hash": "7420674f9cb5",
+      "hash": "ae157443837e",
       "in_degree": 3,
-      "out_degree": 2,
+      "out_degree": 3,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
-        "your-codebase-is-memory"
+        "your-codebase-is-memory",
+        "the-orthogonal-refusal"
       ]
     },
     {
@@ -1793,10 +1795,11 @@
       "slug": "conscience-power-delegation",
       "path": "content/posts/conscience-power-delegation.md",
       "title": "良知、委托与管辖权错位 / Conscience, Delegation, and the Jurisdiction Error",
-      "hash": "445b18ac1ec2",
+      "hash": "c4ea27a54828",
       "in_degree": 3,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
+        "the-orthogonal-refusal",
         "externalized-virtue-becomes-its-opposite",
         "sovereignty-belief-and-regulatory-structures",
         "the-mirror-handshake-of-power",
@@ -1869,11 +1872,12 @@
       "slug": "constraints_are_ground",
       "path": "content/posts/constraints_are_ground.md",
       "title": "约束即基底与作为平台的个体 / Constraints Are Ground",
-      "hash": "851ee44653bf",
+      "hash": "9a6d5709fd48",
       "in_degree": 6,
-      "out_degree": 2,
+      "out_degree": 3,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
+        "the-orthogonal-refusal",
         "your-codebase-is-memory"
       ]
     },
@@ -1900,10 +1904,11 @@
       "slug": "coordinate-systems-mind-and-degrees-of-freedom",
       "path": "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md",
       "title": "坐标系、心智与自由度 / Coordinate Systems, the Mind, and Degrees of Freedom",
-      "hash": "a358b53b91b0",
+      "hash": "8c87c3dfef55",
       "in_degree": 6,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
+        "the-orthogonal-refusal",
         "the-mind-as-vector-and-coordinate-system",
         "the-explanatory-trap-of-the-ordinary-perspective",
         "beyond-the-projection",
@@ -2538,14 +2543,15 @@
       "slug": "extension-and-shift",
       "path": "content/posts/extension-and-shift.md",
       "title": "框内延伸与维度跃迁 / Extension and Shift",
-      "hash": "3db8159f8401",
+      "hash": "5ab404bbbd72",
       "in_degree": 5,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "extended-cognition-refined",
         "intelligence-traps-itself",
         "the-carry-that-cannot-be-named-inside-the-register",
         "hassabis-einstein-test",
+        "the-orthogonal-refusal",
         "beyond-the-projection",
         "your-codebase-is-memory",
         "munger-dumb-competition-refined",
@@ -3267,9 +3273,9 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers",
-      "hash": "76ab560e5a25",
+      "hash": "84940a6ca003",
       "in_degree": 107,
-      "out_degree": 99,
+      "out_degree": 100,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
         "studying-the-effect-of-ai-relocates-causality",
@@ -3313,6 +3319,7 @@
         "freedom-as-ground",
         "you-tiao-jian-de-zi-you",
         "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+        "the-orthogonal-refusal",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
         "beyond-the-projection",
@@ -3378,9 +3385,9 @@
       "slug": "intelligence-belongs-only-to-the-mind",
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "智能只属于心智 / Intelligence Belongs Only to the Mind",
-      "hash": "425497acb31b",
+      "hash": "5656f412d172",
       "in_degree": 82,
-      "out_degree": 70,
+      "out_degree": 71,
       "links_out": [
         "curiosity-has-no-final-form",
         "why-mathematics-can-never-be-solved",
@@ -3401,6 +3408,7 @@
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "beyond-the-projection",
         "your-codebase-is-memory",
+        "the-orthogonal-refusal",
         "production-consumption-and-the-minds-distinction",
         "reality-is-the-minds-ongoing-realization",
         "what-information-is",
@@ -4107,9 +4115,9 @@
       "slug": "no-system-can-be-kept-closed",
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "没有系统能被保持封闭 / No System Can Be Kept Closed",
-      "hash": "ee39b346f611",
+      "hash": "3af239cb12ec",
       "in_degree": 66,
-      "out_degree": 61,
+      "out_degree": 62,
       "links_out": [
         "openness-is-consistency",
         "what-works-is-the-belief",
@@ -4142,6 +4150,7 @@
         "closed-reality-in-the-pursuit-of-serendipity",
         "the-knowledge-problem-and-the-illusion-of-delegation",
         "beyond-the-projection",
+        "the-orthogonal-refusal",
         "clarity-isnt-a-state-you-arrive-at",
         "the-utility-men-of-progress",
         "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
@@ -4301,9 +4310,9 @@
       "slug": "objects-are-stabilized-relationships",
       "path": "content/posts/objects-are-stabilized-relationships.md",
       "title": "对象是被稳定化的关系 / Objects Are Stabilized Relationships",
-      "hash": "481efef6fd28",
+      "hash": "74accfac1364",
       "in_degree": 9,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
         "when-electrons-think",
@@ -4311,6 +4320,7 @@
         "on-the-boundaries-of-what-can-be-said-about-p-and-np",
         "the-invisible-gods-eye",
         "the-cut-moves-but-never-vanishes",
+        "the-orthogonal-refusal",
         "your-codebase-is-memory"
       ]
     },
@@ -4504,9 +4514,9 @@
       "slug": "open-vision-in-a-closed-arena",
       "path": "content/posts/open-vision-in-a-closed-arena.md",
       "title": "封闭竞技场中的开放视野 / Open Vision in a Closed Arena",
-      "hash": "98c32fc1001d",
+      "hash": "a0adc61c2962",
       "in_degree": 11,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
@@ -4519,7 +4529,8 @@
         "closed-reality-in-the-pursuit-of-serendipity",
         "the-reality-distortion-field-names-the-closed-map",
         "preference-clusters-and-the-language-of-judgment",
-        "advocating-openness-of-others-is-a-desire-for-closure-of-the-self"
+        "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
+        "the-orthogonal-refusal"
       ]
     },
     {
@@ -5321,9 +5332,9 @@
       "slug": "residual-control-recedes-to-the-edge",
       "path": "content/posts/residual-control-recedes-to-the-edge.md",
       "title": "要紧的控制迁往边缘 / Essential Control Moves to the Edge",
-      "hash": "68ac196751d4",
+      "hash": "3de7bf12eb33",
       "in_degree": 13,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "beyond-the-projection",
         "your-codebase-is-memory",
@@ -5332,6 +5343,7 @@
         "causality-stays-at-the-edge-that-steers",
         "whatever-is-one-prompt-away",
         "the-reversal-of-verification",
+        "the-orthogonal-refusal",
         "ownership-and-self-worthiness",
         "the-scaffolding-we-forget",
         "the-model-never-becomes-a-second-edge",
@@ -5385,9 +5397,9 @@
       "slug": "restriction-is-a-selective-tax",
       "path": "content/posts/restriction-is-a-selective-tax.md",
       "title": "限制是选择性的税 / Restriction Is a Selective Tax",
-      "hash": "c6a8d3b34966",
+      "hash": "69b02c530867",
       "in_degree": 19,
-      "out_degree": 19,
+      "out_degree": 20,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
         "hierarchy-from-individual-difference",
@@ -5407,7 +5419,8 @@
         "preference-clusters-and-the-language-of-judgment",
         "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
         "the-real-lesson-from-the-consciousness-vector-paper",
-        "ones-potential-as-threat-or-inspiration"
+        "ones-potential-as-threat-or-inspiration",
+        "the-orthogonal-refusal"
       ]
     },
     {
@@ -5703,9 +5716,9 @@
       "slug": "sovereignty-belief-and-regulatory-structures",
       "path": "content/posts/sovereignty-belief-and-regulatory-structures.md",
       "title": "主权、信念与规制结构的生成 / Sovereignty, Belief, and the Generation of Regulatory Structures",
-      "hash": "55e83b6e3d31",
+      "hash": "69b421f8fc76",
       "in_degree": 29,
-      "out_degree": 28,
+      "out_degree": 29,
       "links_out": [
         "hassabis-frontier-agi-premise",
         "the-knowledge-problem-and-the-illusion-of-delegation",
@@ -5720,6 +5733,7 @@
         "the-risk-you-delegate-is-the-risk-you-create",
         "sovereignty-essay",
         "what-works-is-the-belief",
+        "the-orthogonal-refusal",
         "the-risk-is-the-belief-in-oversight-itself",
         "restriction-is-a-selective-tax",
         "public-spending-does-not-create-capital",
@@ -6508,9 +6522,9 @@
       "slug": "the-category-error-of-better",
       "path": "content/posts/the-category-error-of-better.md",
       "title": "「更好」的范畴谬误 / The Category Error of Better",
-      "hash": "e75bf338d63e",
+      "hash": "660a139ab112",
       "in_degree": 11,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "the-irreducible-observer",
         "the-allocation-of-causal-power-in-validation",
@@ -6523,7 +6537,8 @@
         "the-coordinators-category-error",
         "silicon-oracles-and-the-asymmetry-of-consequence",
         "the-closed-n-and-the-open-reality",
-        "the-inversion-of-reading-and-the-order-of-inference"
+        "the-inversion-of-reading-and-the-order-of-inference",
+        "the-orthogonal-refusal"
       ]
     },
     {
@@ -6532,9 +6547,9 @@
       "slug": "the-causal-inversion-of-partnership",
       "path": "content/posts/the-causal-inversion-of-partnership.md",
       "title": "契约的因果倒置 / The Causal Inversion of Partnership",
-      "hash": "0bef29dd60af",
+      "hash": "893fa06d74ab",
       "in_degree": 12,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "choice-itself-has-no-inherent-weight",
         "one-cannot-escape-ones-own-mind",
@@ -6546,6 +6561,7 @@
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "the-summary-first-reversal-and-the-command-of-yields",
+        "the-orthogonal-refusal",
         "the-receptionist-parable-and-the-causal-inversion-of-absence",
         "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
@@ -8154,9 +8170,9 @@
       "slug": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "path": "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md",
       "title": "框架的倒置与驾驶位的主权非对称 / The Inversion of the Harness and the Sovereignty of the Driver's Seat",
-      "hash": "bec4cd8c5f9b",
+      "hash": "a9573a7170ba",
       "in_degree": 21,
-      "out_degree": 17,
+      "out_degree": 18,
       "links_out": [
         "the-scaffolding-we-forget",
         "intelligence-belongs-only-to-the-mind",
@@ -8173,6 +8189,7 @@
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "individual-choices-as-the-only-causal-levers",
         "mei-you-pu-du-zhi-you-zi-du",
+        "the-orthogonal-refusal",
         "beyond-the-projection",
         "the-illusion-of-the-unmediated"
       ]
@@ -8605,9 +8622,9 @@
       "slug": "the-mind-as-vector-and-coordinate-system",
       "path": "content/posts/the-mind-as-vector-and-coordinate-system.md",
       "title": "向量、坐标系与自指心智 / The Mind as Vector and Coordinate System",
-      "hash": "92606376f487",
+      "hash": "846649333836",
       "in_degree": 18,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "coordinates-in-flux-negation-and-self-anchoring",
         "coordinate-systems-mind-and-degrees-of-freedom",
@@ -8622,7 +8639,8 @@
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "the-summary-first-reversal-and-the-command-of-yields",
         "the-name-revolution-files-a-life-as-evidence",
-        "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth"
+        "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+        "the-orthogonal-refusal"
       ]
     },
     {
@@ -8703,9 +8721,9 @@
       "slug": "the-mirror-handshake-of-power",
       "path": "content/posts/the-mirror-handshake-of-power.md",
       "title": "权力的镜像握手 / The Mirror Handshake of Power",
-      "hash": "d28afe4f6e9d",
+      "hash": "43932682b2ed",
       "in_degree": 10,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "the-free-variable-and-the-retrospective-illusion-of-power",
         "agency-compounding-and-the-argument-over-ai-feudalism",
@@ -8714,6 +8732,7 @@
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "the-power-law-of-surrendered-agency",
         "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+        "the-orthogonal-refusal",
         "your-codebase-is-memory"
       ]
     },
@@ -8750,9 +8769,9 @@
       "slug": "the-model-never-becomes-a-second-edge",
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge",
-      "hash": "f2c984cf98ec",
+      "hash": "264a5faea1fd",
       "in_degree": 68,
-      "out_degree": 48,
+      "out_degree": 49,
       "links_out": [
         "your-codebase-is-memory",
         "the-category-error-of-better",
@@ -8782,6 +8801,7 @@
         "amplification-paradox",
         "the-ramble-within-the-ramble",
         "escaping-the-sandbox-stays-inside-the-hold",
+        "the-orthogonal-refusal",
         "po-chu-gai-nian-de-jian-yue",
         "mistaking-the-expression-for-the-intelligence",
         "ontos-is-a-method-agent",
@@ -9041,7 +9061,7 @@
       "path": "content/posts/the-orthogonal-refusal.md",
       "title": "正交的拒绝 / The Orthogonal Refusal",
       "hash": "f03239512cbc",
-      "in_degree": 0,
+      "in_degree": 23,
       "out_degree": 22,
       "links_out": [
         "the-question-that-installs-the-war",
@@ -9311,9 +9331,9 @@
       "slug": "the-question-that-installs-the-war",
       "path": "content/posts/the-question-that-installs-the-war.md",
       "title": "安装战争的那个问题 / The Question That Installs the War",
-      "hash": "841400920834",
+      "hash": "33d002f839b2",
       "in_degree": 13,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
         "externalized-virtue-becomes-its-opposite",
@@ -9324,6 +9344,7 @@
         "your-codebase-is-memory",
         "reality-is-the-minds-ongoing-realization",
         "the-observational-cut-in-ai-debates",
+        "the-orthogonal-refusal",
         "the-climate-problem-registers-only-as-perception",
         "preference-clusters-and-the-language-of-judgment",
         "the-belief-in-utopia-is-the-path-to-dystopia",
@@ -10049,9 +10070,9 @@
       "slug": "the-source-of-all-harm",
       "path": "content/posts/the-source-of-all-harm.md",
       "title": "一切伤害的根源 / The Source of All Harm",
-      "hash": "52b5b14b2030",
+      "hash": "67e9c861c682",
       "in_degree": 22,
-      "out_degree": 24,
+      "out_degree": 25,
       "links_out": [
         "evil-as-the-minds-own-creation",
         "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
@@ -10073,6 +10094,7 @@
         "the-real-lesson-from-the-consciousness-vector-paper",
         "the-coin-of-good-and-evil-and-the-road-to-hell",
         "help-is-half-the-problem",
+        "the-orthogonal-refusal",
         "the-imagining-of-ai-risk",
         "beyond-the-projection",
         "your-codebase-is-memory",
@@ -11032,9 +11054,9 @@
       "slug": "what-works-is-the-belief",
       "path": "content/posts/what-works-is-the-belief.md",
       "title": "起作用的是信念 / What Works Is the Belief",
-      "hash": "56ae7c7c4c69",
+      "hash": "8707b2b27543",
       "in_degree": 27,
-      "out_degree": 28,
+      "out_degree": 29,
       "links_out": [
         "sovereignty-belief-and-regulatory-structures",
         "the-strongest-belief-of-the-mind",
@@ -11049,6 +11071,7 @@
         "beyond-the-projection",
         "your-codebase-is-memory",
         "the-real-lesson-from-the-consciousness-vector-paper",
+        "the-orthogonal-refusal",
         "restriction-is-a-selective-tax",
         "the-risk-you-delegate-is-the-risk-you-create",
         "open-vision-in-a-closed-arena",
@@ -14971,6 +14994,18 @@
     },
     {
       "from": "beyond-the-projection",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "正交的拒绝"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "The Orthogonal Refusal"
+    },
+    {
+      "from": "beyond-the-projection",
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
       "label": "任务的移交与后果的不可让渡"
@@ -17545,9 +17580,21 @@
     },
     {
       "from": "claudes-constitution-analysis",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "正交的拒绝"
+    },
+    {
+      "from": "claudes-constitution-analysis",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "claudes-constitution-analysis",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "The Orthogonal Refusal"
     },
     {
       "from": "cli-interface-stack",
@@ -19975,6 +20022,18 @@
     },
     {
       "from": "conscience-power-delegation",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "正交的拒绝"
+    },
+    {
+      "from": "conscience-power-delegation",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "The Orthogonal Refusal"
+    },
+    {
+      "from": "conscience-power-delegation",
       "to": "externalized-virtue-becomes-its-opposite",
       "rel": "points_to",
       "label": "外化善意走向其反面"
@@ -20467,6 +20526,18 @@
     },
     {
       "from": "constraints_are_ground",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "正交的拒绝"
+    },
+    {
+      "from": "constraints_are_ground",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "The Orthogonal Refusal"
+    },
+    {
+      "from": "constraints_are_ground",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
@@ -20536,6 +20607,18 @@
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "coordinate-systems-mind-and-degrees-of-freedom",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "正交的拒绝"
+    },
+    {
+      "from": "coordinate-systems-mind-and-degrees-of-freedom",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "The Orthogonal Refusal"
     },
     {
       "from": "coordinate-systems-mind-and-degrees-of-freedom",
@@ -24583,6 +24666,12 @@
     },
     {
       "from": "extension-and-shift",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "正交的拒绝"
+    },
+    {
+      "from": "extension-and-shift",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "超越投射"
@@ -24598,6 +24687,12 @@
       "to": "hassabis-einstein-test",
       "rel": "points_to",
       "label": "The Einstein Test and the AGI Category Error"
+    },
+    {
+      "from": "extension-and-shift",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "The Orthogonal Refusal"
     },
     {
       "from": "extension-and-shift",
@@ -29295,7 +29390,7 @@
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, Consumption, and the Mind’s Distinction"
+      "label": "Production, Consumption, and the Mind's Distinction"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -29347,6 +29442,12 @@
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "正交的拒绝"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
       "label": "Ownership and Self-Worthiness"
@@ -29368,6 +29469,12 @@
       "to": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
       "rel": "points_to",
       "label": "The Substrate of Constraint and the Self-Denial of Freedom"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "The Orthogonal Refusal"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -29517,7 +29624,7 @@
       "from": "individual-choices-as-the-only-causal-levers",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
-      "label": "The Coordinator’s Category Error"
+      "label": "The Coordinator's Category Error"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -30253,6 +30360,12 @@
     },
     {
       "from": "intelligence-belongs-only-to-the-mind",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "正交的拒绝"
+    },
+    {
+      "from": "intelligence-belongs-only-to-the-mind",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
       "label": "The Coordinator's Category Error"
@@ -30280,6 +30393,12 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "intelligence-belongs-only-to-the-mind",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "The Orthogonal Refusal"
     },
     {
       "from": "intelligence-belongs-only-to-the-mind",
@@ -35455,6 +35574,12 @@
     },
     {
       "from": "no-system-can-be-kept-closed",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "正交的拒绝"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
       "label": "清晰不是抵达的终点，而是运动本身"
@@ -35482,6 +35607,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "The Orthogonal Refusal"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -36688,6 +36819,18 @@
       "to": "the-cut-moves-but-never-vanishes",
       "rel": "points_to",
       "label": "The Cut Moves but Never Vanishes"
+    },
+    {
+      "from": "objects-are-stabilized-relationships",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "正交的拒绝"
+    },
+    {
+      "from": "objects-are-stabilized-relationships",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "The Orthogonal Refusal"
     },
     {
       "from": "objects-are-stabilized-relationships",
@@ -37936,6 +38079,18 @@
       "to": "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
       "rel": "points_to",
       "label": "Advocating Openness of Others Is a Desire for Closure of the Self"
+    },
+    {
+      "from": "open-vision-in-a-closed-arena",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "正交的拒绝"
+    },
+    {
+      "from": "open-vision-in-a-closed-arena",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "The Orthogonal Refusal"
     },
     {
       "from": "openness-is-consistency",
@@ -43993,9 +44148,21 @@
     },
     {
       "from": "residual-control-recedes-to-the-edge",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "正交的拒绝"
+    },
+    {
+      "from": "residual-control-recedes-to-the-edge",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "residual-control-recedes-to-the-edge",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "The Orthogonal Refusal"
     },
     {
       "from": "residual-control-recedes-to-the-edge",
@@ -44611,6 +44778,12 @@
     },
     {
       "from": "restriction-is-a-selective-tax",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "正交的拒绝"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
       "to": "the-real-lesson-from-the-consciousness-vector-paper",
       "rel": "points_to",
       "label": "The Real Lesson from the Consciousness Vector Paper"
@@ -44620,6 +44793,12 @@
       "to": "ones-potential-as-threat-or-inspiration",
       "rel": "points_to",
       "label": "One’s Potential as Threat or Inspiration"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "The Orthogonal Refusal"
     },
     {
       "from": "scaffolds-or-specialized-contexts",
@@ -46525,9 +46704,21 @@
     },
     {
       "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "正交的拒绝"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
       "to": "what-works-is-the-belief",
       "rel": "points_to",
       "label": "What Works Is the Belief"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "The Orthogonal Refusal"
     },
     {
       "from": "sovereignty-belief-and-regulatory-structures",
@@ -51525,13 +51716,13 @@
       "from": "the-category-error-of-better",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "被遗忘的脚手架"
+      "label": "遗忘的脚手架"
     },
     {
       "from": "the-category-error-of-better",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
-      "label": "模型永不成第二锋刃"
+      "label": "模型永远无法成为第二重前沿"
     },
     {
       "from": "the-category-error-of-better",
@@ -51619,6 +51810,12 @@
     },
     {
       "from": "the-category-error-of-better",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "正交的拒绝"
+    },
+    {
+      "from": "the-category-error-of-better",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
       "label": "The Coordinator's Category Error"
@@ -51640,6 +51837,12 @@
       "to": "the-inversion-of-reading-and-the-order-of-inference",
       "rel": "points_to",
       "label": "The Inversion of Reading and the Order of Inference"
+    },
+    {
+      "from": "the-category-error-of-better",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "The Orthogonal Refusal"
     },
     {
       "from": "the-causal-inversion-of-partnership",
@@ -51775,6 +51978,12 @@
     },
     {
       "from": "the-causal-inversion-of-partnership",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "正交的拒绝"
+    },
+    {
+      "from": "the-causal-inversion-of-partnership",
       "to": "the-receptionist-parable-and-the-causal-inversion-of-absence",
       "rel": "points_to",
       "label": "前台的寓言与缺席的因果倒置"
@@ -51796,6 +52005,12 @@
       "to": "the-explanatory-trap-of-the-ordinary-perspective",
       "rel": "points_to",
       "label": "“普通人视角”的解释陷阱"
+    },
+    {
+      "from": "the-causal-inversion-of-partnership",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "The Orthogonal Refusal"
     },
     {
       "from": "the-causal-inversion-of-partnership",
@@ -62035,6 +62250,18 @@
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "正交的拒绝"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "The Orthogonal Refusal"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "超越投射"
@@ -64645,9 +64872,21 @@
     },
     {
       "from": "the-mind-as-vector-and-coordinate-system",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "正交的拒绝"
+    },
+    {
+      "from": "the-mind-as-vector-and-coordinate-system",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-mind-as-vector-and-coordinate-system",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "The Orthogonal Refusal"
     },
     {
       "from": "the-mind-that-statistics-cannot-reveal",
@@ -65167,6 +65406,18 @@
     },
     {
       "from": "the-mirror-handshake-of-power",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "正交的拒绝"
+    },
+    {
+      "from": "the-mirror-handshake-of-power",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "The Orthogonal Refusal"
+    },
+    {
+      "from": "the-mirror-handshake-of-power",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
@@ -65671,6 +65922,12 @@
     },
     {
       "from": "the-model-never-becomes-a-second-edge",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "正交的拒绝"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
       "to": "po-chu-gai-nian-de-jian-yue",
       "rel": "points_to",
       "label": "破除概念的僭越"
@@ -65698,6 +65955,12 @@
       "to": "escaping-the-sandbox-stays-inside-the-hold",
       "rel": "points_to",
       "label": "Escaping the Sandbox Stays Inside the Hold"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "The Orthogonal Refusal"
     },
     {
       "from": "the-model-never-becomes-a-second-edge",
@@ -69207,7 +69470,7 @@
       "from": "the-question-that-installs-the-war",
       "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "rel": "points_to",
-      "label": "the distaste for “AI slop”"
+      "label": "The Distaste for “AI Slop” Is a Recurring Pattern"
     },
     {
       "from": "the-question-that-installs-the-war",
@@ -69259,6 +69522,12 @@
     },
     {
       "from": "the-question-that-installs-the-war",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "正交的拒绝"
+    },
+    {
+      "from": "the-question-that-installs-the-war",
       "to": "the-climate-problem-registers-only-as-perception",
       "rel": "points_to",
       "label": "气候问题只作为感知被登记"
@@ -69274,6 +69543,12 @@
       "to": "the-belief-in-utopia-is-the-path-to-dystopia",
       "rel": "points_to",
       "label": "对乌托邦的信念是通往反乌托邦之路"
+    },
+    {
+      "from": "the-question-that-installs-the-war",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "The Orthogonal Refusal"
     },
     {
       "from": "the-question-that-installs-the-war",
@@ -69303,7 +69578,7 @@
       "from": "the-question-that-installs-the-war",
       "to": "evil-as-the-minds-own-creation",
       "rel": "points_to",
-      "label": "Evil as the Mind’s Own Creation"
+      "label": "Evil as the Mind's Own Creation"
     },
     {
       "from": "the-ramble-within-the-ramble",
@@ -74644,6 +74919,18 @@
       "to": "help-is-half-the-problem",
       "rel": "points_to",
       "label": "Help Is Half the Problem"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "正交的拒绝"
+    },
+    {
+      "from": "the-source-of-all-harm",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "The Orthogonal Refusal"
     },
     {
       "from": "the-source-of-all-harm",
@@ -81379,6 +81666,18 @@
     },
     {
       "from": "what-works-is-the-belief",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "正交的拒绝"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "The Orthogonal Refusal"
+    },
+    {
+      "from": "what-works-is-the-belief",
       "to": "restriction-is-a-selective-tax",
       "rel": "points_to",
       "label": "限制是选择性的税"
@@ -85097,7 +85396,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "e5d793d04b2f",
+        "hash": "a72ce5a8e027",
         "out_degree": 415
       },
       {
@@ -85923,6 +86222,12 @@
         "to": "the-hard-problem-of-consciousness-is-consistent-with-learning",
         "rel": "collects",
         "label": "意识的难题与学习相容 / The Hard Problem of Consciousness Is Consistent with Learning"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "objects-are-stabilized-relationships",
+        "rel": "collects",
+        "label": "对象是被稳定化的关系 / Objects Are Stabilized Relationships"
       },
       {
         "from": "book:index-of-premises",
@@ -89379,6 +89684,12 @@
         "to": "sovereignty-belief-and-regulatory-structures",
         "rel": "collects",
         "label": "主权、信念与规制结构的生成 / Sovereignty, Belief, and the Generation of Regulatory Structures"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-orthogonal-refusal",
+        "rel": "collects",
+        "label": "正交的拒绝 / The Orthogonal Refusal"
       },
       {
         "from": "book:index-of-premises",

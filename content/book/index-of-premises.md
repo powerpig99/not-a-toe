@@ -146,11 +146,11 @@ Russell's prescription of world government, approximate economic equality and a 
 ### 卡洛·罗韦利 / Carlo Rovelli
 `哲学 / Philosophical`
 
-罗韦利预设，拒绝了心与身之间的二元实体之后，剩下的难只是一个复杂的自然现象，表征与其寄身之处之间的铰链既不是形而上的鸿沟，也不是解释的鸿沟，一份穷尽的外部说明并未被证明不可能，这在把二元的种类并入同一个自然之场、把科学知识看作有视角的时有用；它在此到了边界：那道铰链正是注视登记自身的那一步之差，任何说明都装不进给出它的那个动作。
+罗韦利预设，物理属性只相对于交互中的另一系统而显现，且拒绝了心与身之间的二元实体之后，剩下的难只是一个复杂的自然现象，表征与其寄身之处之间的铰链既不是形而上的鸿沟也不是解释的鸿沟，一份穷尽的外部说明并未被证明不可能，这在消解孤立系统的内禀属性、把二元种类并入同一个自然之场并把科学知识看作有视角的时有用；它在此到了边界：若把所有系统放进扁平的第三人称对称性，关系网就会退化为无锚点的镜像长廊，因为那道铰链正是第一人称注视登记自身的一步之差，任何第三人称说明都装不进给出它的那个动作。
 
-Rovelli presumes that once dual substance between mind and body is refused, what remains hard is only a complicated natural phenomenon, that the hinge between a representation and where it is embodied is neither a metaphysical nor an explanatory gap, and that no exhaustive external account has been shown impossible, which is of use in joining dual kinds into one field of nature and in taking scientific knowledge as perspectival; it reaches its boundary in that the hinge is the one-step lag by which the look registers, and no account can contain the act that gives it.
+Rovelli presumes that physical variables manifest only relative to another interacting system and that once dual substance between mind and body is refused, what remains hard is only a complicated natural phenomenon whose hinge between representation and embodiment is neither a metaphysical nor an explanatory gap, and that no exhaustive external account has been shown impossible, which is of use in dissolving intrinsic properties of isolated systems, joining dual kinds into one field of nature, and taking scientific knowledge as perspectival; it reaches its boundary in that placing all systems in flat third-person symmetry leaves the relational web an unanchored hall of mirrors, since the hinge is the one-step lag by which the first-person look registers and no third-person account can contain the act that gives it.
 
-→ [意识的难题与学习相容 / The Hard Problem of Consciousness Is Consistent with Learning](../../posts/the-hard-problem-of-consciousness-is-consistent-with-learning/)
+→ [意识的难题与学习相容 / The Hard Problem of Consciousness Is Consistent with Learning](../../posts/the-hard-problem-of-consciousness-is-consistent-with-learning/) · [对象是被稳定化的关系 / Objects Are Stabilized Relationships](../../posts/objects-are-stabilized-relationships/)
 
 ### 混沌理论 / Chaos Theory
 `科学 / Scientific`
@@ -389,9 +389,9 @@ Ryle placed mind in dispositions to behave observable from outside, to exorcise 
 ### 吉尔·德勒兹 / Gilles Deleuze
 `哲学 / Philosophical`
 
-德勒兹以差异与生成消解了静态本体实体论；极利于粉碎教条，但若一味滑向无尽块茎流变，则难以解释稳定的结构。
+德勒兹以差异、生成与内在性平面取代静态实体，在打破主谓语法将动态过程冻结为固定本质的惯性时有用；当消解静态基质被混同于消解离散边界本身、抹去稳定化痕迹在因果摩擦中呈现的阻力时，这一进路便到达了边界。
 
-Deleuze replaced static substances with dynamic difference and becoming; brilliant for dissolving fixed dogmas, pure rhizomatic flux risks losing functional stability.
+Deleuze replaces static substances with difference, becoming, and planes of immanence, which is of use in breaking the grammatical habit that freezes dynamic processes into fixed essences; it reaches its boundary when dissolving static substance is conflated with dissolving discrete boundaries themselves, erasing the resistance that stabilized traces exert under causal friction.
 
 → [对象是被稳定化的关系 / Objects Are Stabilized Relationships](../../posts/objects-are-stabilized-relationships/)
 
@@ -3676,9 +3676,9 @@ Treating misalignment as an objective break is of use in pointing to consequence
 ### 对象是被稳定化的关系 / Objects as Stabilized Relationships
 `哲学 / Philosophical`
 
-实体形而上学假定孤立的物体先于相互作用而存在；现实中的物体实则是动态因果网络在历时演化中沉淀出的稳态关系节点。
+实体形而上学假定孤立自足的物体先于相互作用而存在，在内部结合远超外部扰动时，作为为有限认知容量节省开销的压缩脚手架，把稳定复合体当作离散模块处理，这是有用的；当这一认知压缩脚手架被倒置为脱离观察者的自在基质，或将沉淀下来的制度与规则当作对下一步行动具有独立因果效力的绝对定数时，它便到达了边界——对象是经因果摩擦而稳定下来、在第一人称边缘被记录的关系节点。
 
-Substance metaphysics presumes isolated physical objects exist prior to relationships; objects are relatively stable relational nodes sustained across time by dynamic causal interactions.
+Substance metaphysics presumes that freestanding objects exist prior to interaction, which is of use as a compression scaffold for finite cognitive capacity whenever internal binding far exceeds external perturbation; it reaches its boundary when that shorthand is inverted into observerless essences or when precipitated institutions and rules are treated as absolutes carrying independent causal power over the next act—objects are relational nodes stabilized through causal friction and registered at the first-person edge.
 
 → [对象是被稳定化的关系 / Objects Are Stabilized Relationships](../../posts/objects-are-stabilized-relationships/)
 
@@ -4135,11 +4135,11 @@ The expectation is that material abundance will quiet zero-sum contest, and when
 ### 监管万能论 / Regulatory Omnipotence
 `意识形态 / Ideological`
 
-国家规制论预设法律条文能凭空保证系统安全；法条终究是静态文本，唯有靠个体心智共同秉持的信念方能运作。
+监管万能论预设个人对抉择后果的责任可以被委托给行业自律组织或国家监管机构，以审批关卡替代个体判断；程序在成本、冗余、激励对齐与跨辖区摩擦这些自身的轴上依然可用，可能减少某些失误、也制造另一些，但当硬化的规章与双重关卡被当作已经把主权从抉择心智身上移走时便到达了边界——规章始终是过往选择与拒绝所稳定下来的残余，作为后续行动借力或离场的边界条件起作用。
 
-Statism assumes legislation magically guarantees institutional safety; regulations remain informational text until living minds enact compliance through shared belief.
+Regulatory omnipotence presumes that individual responsibility for the consequences of choice can be delegated to an industry self-regulatory organization or a state regulator, substituting approval gates for personal judgment; the procedure stays usable on its own axes of cost, redundancy, incentive alignment and jurisdictional friction, where it may reduce certain failures and produce others, yet reaches its boundary when hardened rules and dual gates are treated as having relocated sovereignty from the choosing Mind—regulations remain the stabilized residue of prior selections and refusals, functioning as boundary conditions from which later acts take leverage or walk away.
 
-→ [主权、信念与规制结构的生成 / Sovereignty, Belief, and the Generation of Regulatory Structures](../../posts/sovereignty-belief-and-regulatory-structures/)
+→ [主权、信念与规制结构的生成 / Sovereignty, Belief, and the Generation of Regulatory Structures](../../posts/sovereignty-belief-and-regulatory-structures/) · [正交的拒绝 / The Orthogonal Refusal](../../posts/the-orthogonal-refusal/)
 
 ### 管制作为非对称隐性税 / Regulatory Prohibition as Asymmetric Tax
 `经济 / Economic`
@@ -4162,9 +4162,9 @@ Reifying institutions presumes organizations have independent consciousness and 
 ### 伴侣关系的客体化实体 / Reification of Partnership
 `哲学 / Philosophical`
 
-假定契约关系构成了凌驾于双方之上的独立实体；有利于维系组织稳定，却容易遮蔽个体随时离场的自由与因果责任。
+将伴侣关系当作凌驾于双方之上、自身具有因果主张的第三实体，作为协调法律契约与共同承诺的简写时有用；当这一简写被当作双方都须为之维系的原因时，它便到了边界：共同校准被固定为双方都不可离开的竞技场，各中心不可让渡的因果位点，以及使持续校准始终出于主动选择的离场自由，随之被遮蔽。
 
-Presumes a relationship forms a third entity possessing independent causal claims; stabilizes legal agreements, but traps partners in projective self-delusion.
+Treating a partnership as a third entity above both parties, with causal claims of its own, is of use as a shorthand for coordinating legal agreements and shared commitments; it reaches its boundary where the shorthand is taken as a cause whose upkeep each partner owes, since that holds joint calibration as an arena neither may leave and obscures each center's non-transferable causal locus and the open exit that keeps continued calibration chosen.
 
 → [契约的因果倒置 / The Causal Inversion of Partnership](../../posts/the-causal-inversion-of-partnership/)
 

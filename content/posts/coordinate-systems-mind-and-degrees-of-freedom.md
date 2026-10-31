@@ -22,9 +22,9 @@ Fourth, compressing an open manifold of orthogonal possibilities onto a one-dime
 
 ## 二、 一切始于心智，止于心智 / 2. Everything Begins and Ends in the Mind
 
-面对标量指标带来的窒息感，常见的本能反应是浪漫主义式的二元反叛：控诉公共竞技场是奴役个性的压迫机器，呼吁人们逃离社会规则、退入某片被理想化的“原生旷野”。然而这种对抗姿态依然被困在它所谴责的同一条轴线上。无论是向记分牌缴械投降，还是从记分牌仓皇出逃，底层都依托着同一个未经审视的受害者前提——将第一人称视角与因果割裂开来，假定外部环境具备制服觉知的固有力量。
+面对标量指标带来的窒息感，常见的本能反应是浪漫主义式的二元反叛：控诉公共竞技场是奴役个性的压迫机器，呼吁人们逃离社会规则、退入某片被理想化的“原生旷野”。然而这种对抗姿态依然被困在它所谴责的同一条轴线上。无论是向记分牌缴械投降，还是从记分牌仓皇出逃，底层都依托着同一个未经审视的受害者前提——将第一人称视角与因果割裂开来，把公共量表当作外在指令，仿佛它天生具备制服觉知的力量。这种应激式的出逃，与 [正交的拒绝](../the-orthogonal-refusal/) 中那种离场的能力，区别不在离开或留下的外在举动，而在对待规则本身所持的前提。出逃依然用它所反对的记分牌来丈量自身；正交的拒绝则认出，制度量表不过是过往选择与拒绝所稳定下来的残余，对下一步行动并不具备独立的因果效力，仅作为杠杆起作用。一旦不再把记分牌当作必须留驻的强制竞技场，中心便可以借用这一杠杆、对某次具体应用提出抗辩、沿着独立的轴线分化，或是直接离场而无需制定量表的一方修改其边界——从而恢复各中心之间的分离，让参与始终可以选择，而不至于困守孤立。
 
-Faced with the suffocation of scalar metrics, a common reflex is romantic binary rebellion: denouncing the public arena as an oppressive machine that enslaves individuality, and preaching an escapist flight into an idealized, unspoiled wilderness. Yet this oppositional posture remains trapped on the exact same axis as the conformity it denounces. Both surrender to the scoreboard and flight from the scoreboard rest on an unexamined victim premise that severs the first-person perspective from causality, assuming that an external environment possesses innate power to subjugate awareness.
+Faced with the suffocation of scalar metrics, a common reflex is romantic binary rebellion: denouncing the public arena as an oppressive machine that enslaves individuality, and preaching an escapist flight into an idealized, unspoiled wilderness. Yet this oppositional posture remains trapped on the exact same axis as the conformity it denounces. Both surrender to the scoreboard and escapist flight from it rest on an unexamined victim premise that severs the first-person perspective from causality, treating a public rubric as an external mandate with innate power to subjugate awareness. What separates that reactive flight from the capacity to walk away in [The Orthogonal Refusal](../the-orthogonal-refusal/) is not the outward act of leaving or staying, but the premise held toward the rule itself. Flight still measures itself against the scoreboard it opposes; orthogonal refusal recognizes that institutional rubrics are only the stabilized residue of prior selections and refusals, functioning as leverage without independent causal power over the next act. Once the scoreboard is no longer held as a mandatory arena, a center can use the leverage, contest a specific application, differentiate along an independent axis, or walk away without requiring those who set the rubric to revise their bounds—restoring separation between centers and keeping participation optional rather than marooned in isolation.
 
 回溯到不可化约的先验前提，这种内与外的二元对立便自行消解：任何中心所体验到的世界，都始于心智，止于心智，从未走出心智自身的感知界面。无论中心是在审视企业排位与制度规章，还是在未铺设道路的林野间感受风雨拂面，一切登记在案的现象都是由回传痕迹合成的内部渲染。正如 [向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/) 所确立的，觉知之外并不存在超然的坐标容器；每个心智同时是有向的状态向量 `v_A` 与自身正交坐标基底 `S_A = {e₁, e₂, ..., eₙ}` 的递归生成器。当一个中心遭遇外部建制或其他心智时，在觉知中登记下来的，是映射到该中心自身参考框架上的内向点积投影 `Proj_A(v_B) = (v_B · v̂_A) v̂_A`。
 
@@ -46,7 +46,6 @@ flowchart TD
         Projection["向公共参考子空间的有损下投影"]
         Origin --> Projection
     end
-
     subgraph S_Trap["身份绑定的标量坍缩（法庭倒置）"]
         direction TB
         Mistake["载体与沙盘倒置：把文凭外壳误作直接领会"]
@@ -54,7 +53,6 @@ flowchart TD
         DualTrap["全序排位困局：胜出者意义真空与多数人慢性匮乏"]
         Mistake --> Goodhart --> DualTrap
     end
-
     subgraph S_Sovereign["主权校准与正交展开"]
         direction TB
         Grid["参考子空间：将公共指标用作导航网格"]
@@ -62,11 +60,9 @@ flowchart TD
         Ortho["正交跨出：借由行动（+1）敞开新自由度"]
         Grid --> Update --> Ortho
     end
-
     Projection ==>|"将身份与标量排位焊死"| Mistake
     Projection ==>|"在原点保留因果边缘"| Grid
     DualTrap -.->|"归还主位并消解受害者框架"| Grid
-
     style S_Ground fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Trap fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Sovereign fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -90,7 +86,6 @@ flowchart TD
         Projection["Lossy Down-Projection into Public Reference Subspace"]
         Origin --> Projection
     end
-
     subgraph S_Trap["Identity-Bound Scalar Collapse (Courtroom Inversion)"]
         direction TB
         Mistake["Carrier & Sandbox Inversion: Credentials Mistaken for Direct Grasp"]
@@ -98,7 +93,6 @@ flowchart TD
         DualTrap["Total Ordering Trap: Winner Vacuum vs. Majority Chronic Scarcity"]
         Mistake --> Goodhart --> DualTrap
     end
-
     subgraph S_Sovereign["Sovereign Calibration and Orthogonal Expansion"]
         direction TB
         Grid["Reference Subspace: Public Metrics Used as Navigational Grid"]
@@ -106,11 +100,9 @@ flowchart TD
         Ortho["Orthogonal Stepping-Out: New Degrees of Freedom Opened via Action (+1)"]
         Grid --> Update --> Ortho
     end
-
     Projection ==>|"Fuses Identity with Scalar Rank"| Mistake
     Projection ==>|"Retains Causal Edge at Origin"| Grid
     DualTrap -.->|"Restores Locus & Dissolves Victim Frame"| Grid
-
     style S_Ground fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Trap fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Sovereign fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950

@@ -178,7 +178,7 @@ Both configurations come from one place: the line of sight has not been brought 
 
 The bystander's position has a third form: withdrawing to the stand and only commenting. When a mind neither goes down to do the work nor bears the consequences of decisions, and only weaves concepts, classifications and verdicts, it carries none of the risk of trial and receives none of the recoil from the surroundings. A theory is in itself a useful map, and each one helps people see a stretch of terrain within its range. The boundary appears when the map is put to other uses.
 
-人们因为回避不确定而采纳一套抽象体系时，它便为前面两种构型各提供了一套说辞。对揽取的一方，它是介入的执照，“规律表明集中调配优于自发演进”“模型要求规范大众的行为”。对推出的一方，它是卸责的托词，“你的焦虑由社会结构所生”“你是话语的受害者”。当事情在实处落败，看台上的位置毫发无损，还可以宣布问题在于执行未能领会理论。此时众人让渡出的回音被当成了自己的因果力量，而手里摆弄的是没有摩擦的文字——这与[政客是责任扩散的显性症状](../politicians-appear-as-visible-symptoms-of-responsibility-diffusion/)所追溯的机制同出一辙：扩散的控制权与共担的推诿，最终凝结成一个显眼的认领者。
+人们因为回避不确定而采纳一套抽象体系时，它便为前面两种构型各提供了一套说辞。对揽取的一方，它是介入的执照，“规律表明集中调配优于自发演进”“模型要求规范大众的行为”。对推出的一方，它是卸责的托词，“你的焦虑由社会结构所生”“你是话语的受害者”。当事情在实处落败，看台上的位置毫发无损，还可以宣布问题在于执行未能领会理论。此时众人让渡出的回音被当成了自己的因果力量，而手里摆弄的是没有摩擦的文字——这与[政客是责任扩散的显性症状](../politicians-appear-as-visible-symptoms-of-responsibility-diffusion/)所追溯的机制如出一辙：扩散的控制权与共担的推诿，最终凝结成一个显眼的认领者。
 
 ```mermaid
 flowchart TD
@@ -242,7 +242,7 @@ Pointing out these mechanisms is not for judging altruism, centralization or mar
 
 Sacrificial altruism absorbs the other's error signal in one direction, and the one being helped stops adjusting. Political centralization gathers handed-over vectors through preferential attachment, and the distribution of connections follows a power law, P(k) ~ k⁻ᵞ, as [The Power-Law of Surrendered Agency](../the-power-law-of-surrendered-agency/) derives across scales. Market lock-in raises the cost of switching through network effects, and the surrounding paths narrow. Interpersonal deadlock is two strongly coupled oscillators, each tying the change of its state to the other. What the four share is an external routing inserted between action and feedback.
 
-于是这些结构的差别归结为反馈回路的形状。在直接闭合的回路里，行动撞上摩擦，后果不经中介衰减地回到原点，判断得以校准，学习保持陡峭。在经由代理的回路里，行动的后果被国家、施救者、党派或平台过滤、吸收或转移。代理让一个人做到独自做不到的事，分工与委托都靠它；它的边界在于误差信号不再回到作出抉择的地方，调整停下，整个系统的拖累增加。如[共情的能力倒错与边界的排序之争](../the-capability-reversal-of-empathy-and-the-contest-of-boundaries/)所揭示的，放弃自卫的共情正是把这记握手一路延续了下去。
+于是这些结构的差别归结为反馈回路的形状。在直接闭合的回路里，行动撞上摩擦，后果不经中介衰减地回到原点，判断得以校准，学习保持陡峭。在经由代理的回路里，行动的后果被国家、施救者、党派或平台过滤、吸收或转移。代理让一个人做到独自做不到的事，分工与委托都靠它；它的边界在于误差信号不再回到作出抉择的地方，调整停下，整个系统的拖累增加。如[共情的能力倒错与边界的排序之争](../the-capability-reversal-of-empathy-and-the-contest-of-boundaries/)所揭示的，放弃自卫的共情正是把这场握手一路延续了下去。
 
 ```mermaid
 flowchart TD
@@ -296,7 +296,7 @@ flowchart TD
 
 The reasoning above gathers at one place: everything registered begins with Mind, stays with Mind and ends with Mind. So there is no need to launch a movement to overthrow an external center, since the center's mass is what many people, oneself included, have handed over. There is no need to persuade those who take on to let go, to remake those who push away, or to retreat to the stand to comment.
 
-支点是在自己的第一人称原点上作出的单方面抉择：把各个维度上不曾留意就伸出的那只手收回来，既不把怨恨推出去，也不替别人揽下因果，耦合系数回到零（c = 0）。
+支点是在自己的第一人称原点上作出的单方面抉择：把各个维度上不曾留意就伸出的那只手收回来，既不把怨恨推出去，也不替别人揽下因果，耦合系数回到零（c = 0）。这里的零不是让渡与揽取之间的中点，也不是耦合之内的第三种姿态；它是耦合项本身的缺席，即自己行动、自己承受后果。因此，如[正交的拒绝](../the-orthogonal-refusal/)所追溯的，这里并不向另一方要求什么：每一方继续设定各自推进的条件。
 
 ```mermaid
 flowchart TD
@@ -317,7 +317,7 @@ flowchart TD
     style Direct fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The fulcrum is a unilateral choice made at one's own first-person origin: to take back the hand extended on each dimension without noticing, neither pushing resentment outward nor taking on another's causality, with the coupling coefficient back at zero (c = 0).
+The fulcrum is a unilateral choice made at one's own first-person origin: to take back the hand extended on each dimension without noticing, neither pushing resentment outward nor taking on another's causality, with the coupling coefficient back at zero (c = 0). Zero here is not a midpoint between handing over and taking on, a third stance inside the coupling; it is the absence of the coupled term itself, acting and bearing the consequences oneself. So, as [The Orthogonal Refusal](../the-orthogonal-refusal/) traces, nothing is asked of the other side: each goes on setting the conditions under which it will proceed.
 
 ```mermaid
 flowchart TD

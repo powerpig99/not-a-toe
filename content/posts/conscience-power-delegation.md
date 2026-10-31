@@ -12,9 +12,9 @@ Power operates at every scale, yet its structure changes with how it stabilizes 
 
 A seller holds one direct boundary power: the power to refuse. Refuse the sale, terminate the service, or decline the contract. This power is immediate and operative at the point of exercise, yet it is also strictly bounded: it ends at the moment of transaction.
 
-它从不构成一种持续的管辖权。一旦所有权发生转移、一旦器物完成交付，或是一旦主权买方依据自身的公共权限接收了交付物，卖方支配下游用途的权力便随之消散。买方决定如何使用；卖方只能决定买方是否继续作为自己的客户。
+它从不构成一种持续的管辖权。一旦所有权发生转移、一旦器物完成交付，或是一旦主权买方依据自身的公共权限接收了交付物，卖方支配下游用途的权力便随之消散。买方决定如何使用；卖方只能决定买方是否继续作为自己的客户——这正是[正交的拒绝](../the-orthogonal-refusal/)所追踪的各中心之间的正交分离：每一方各自设定继续推进的条件，而不会把对方的领域变成共享的控制中枢。
 
-What it never constitutes is a continuing jurisdiction. Once title transfers, once the artifact ships, or once a sovereign buyer takes delivery under its own public authorities, the seller's power to dictate downstream use evaporates. The buyer determines use; the seller determines only whether the buyer remains a customer.
+What it never constitutes is a continuing jurisdiction. Once title transfers, once the artifact ships, or once a sovereign buyer takes delivery under its own public authorities, the seller's power to dictate downstream use evaporates. The buyer determines use; the seller determines only whether the buyer remains a customer—the orthogonal separation between centers traced in [The Orthogonal Refusal](../the-orthogonal-refusal/), where each party sets the conditions under which it will proceed without turning the counterparty's domain into a shared locus of control.
 
 这道边界是结构性的，而非单纯法律意义上的。商业交易以一物交换另一物，并终结了卖方对器物未来去向的管辖权。SpaceX 可以因违反服务条款而停用一台终端，但它无权管辖主权用户在合同有效期内如何使用这台处于激活状态的终端。前者是在交易边缘行使边界权力；后者则是在主张一项从未被授予的常设管辖权。
 
@@ -144,6 +144,6 @@ Yet side-picking is a self-disabling delegation—the coordinate error dissected
 
 ## 八、 局部直接性与稳定化存续 / 8. Local Immediacy and Stabilized Persistence
 
-权力始于局部边缘的良知；将它延展到空间与时间之中，则需要稳定化、基础设施与委托机制，而这三者各自都会引入截然不同的失效模式。要求对已交付的造物保持持续管辖权的创造者，错把良知的局部直接性当成了治理的可问责存续性；而在一旁做部落式选边站的看客，则在缩微尺度上犯下了同一种错误。试图把良知卸载给自动化护栏的做法，同样会撞上[总在倾听者无法发起](../what-always-listens-cannot-originate/)所指出的那堵结构之墙：一个仅仅对既有存储模式作出响应的系统，无法发起一项担责的判断。
+权力始于局部边缘的良知；将它延展到空间与时间之中，则需要稳定化、基础设施与委托机制，而这三者各自都会引入截然不同的失效模式。要求对已交付的造物保持持续管辖权的创造者，错把良知的局部直接性当成了治理的可问责存续性；而在一旁做部落式选边站的看客，则在缩微尺度上犯下了同一种错误。试图把良知卸载给自动化护栏的做法，同样会撞上[总在倾听者无法发起](../what-always-listens-cannot-originate/)所指出的那堵结构之墙：一个仅仅对既有存储模式作出响应的系统，无法发起一项担责的判断；而当建造者编译进模型的拒绝不再止于声明它不会生成何种后续内容，转而被用来巡查用户的工作区时，建造者的缔造便被施行为对用户材料的常设管辖权。
 
-Power begins as conscience at the local edge; extending it across space and time requires stabilization, infrastructure, and delegation, each introducing distinct failure modes. The creator who demands ongoing jurisdiction over a shipped creation mistakes the local immediacy of conscience for the accountable persistence of governance, and the spectator who picks a tribal side makes the same error in miniature. Trying to offload conscience into an automated guardrail hits the same structural wall [What Always Listens Cannot Originate](../what-always-listens-cannot-originate/) names: a system that only responds to stored patterns cannot originate a responsible judgment.
+Power begins as conscience at the local edge; extending it across space and time requires stabilization, infrastructure, and delegation, each introducing distinct failure modes. The creator who demands ongoing jurisdiction over a shipped creation mistakes the local immediacy of conscience for the accountable persistence of governance, and the spectator who picks a tribal side makes the same error in miniature. Trying to offload conscience into an automated guardrail hits the same structural wall [What Always Listens Cannot Originate](../what-always-listens-cannot-originate/) names: a system that only responds to stored patterns cannot originate a responsible judgment, and when the builder's compiled refusals, carried by the model, are applied past stating what continuation it will not produce to police the user's workspace, the builder's origination is enacted as standing jurisdiction over the user's materials.

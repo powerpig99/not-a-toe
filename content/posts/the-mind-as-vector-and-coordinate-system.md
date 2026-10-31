@@ -35,7 +35,6 @@ flowchart TD
         Axis --> Vec
         Vec -->|"塑形下一次区分的场域"| Act
     end
-
     style S_Mind fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Axis fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -55,7 +54,6 @@ flowchart TD
         Axis --> Vec
         Vec -->|"Shapes the Field for the Next Distinction"| Act
     end
-
     style S_Mind fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Axis fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -82,16 +80,13 @@ flowchart TD
         VB_raw -->|"沿 v̂_A 的标量映射"| Proj
         VB_raw -->|"垂直于 v̂_A 的分量"| Res
     end
-
     subgraph S_Response["两种分岔的认知回应"]
         direction TB
         T1["识别为内部余弦读数：零和摩擦随之消解"]
         T2["误认为外来入侵实体：触发一维标量防御"]
     end
-
     Proj --> T1
     Proj --> T2
-
     style S_FrameA fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Response fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style VA fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -116,16 +111,13 @@ flowchart TD
         VB_raw -->|"Scalar Mapping Along v̂_A"| Proj
         VB_raw -->|"Component Perpendicular to v̂_A"| Res
     end
-
     subgraph S_Response["Two Divergent Epistemic Responses"]
         direction TB
         T1["Recognized as Internal Cosine Reading: Zero-Sum Friction Dissolves"]
         T2["Mistaken for External Invading Entity: 1D Scalar Defense Triggered"]
     end
-
     Proj --> T1
     Proj --> T2
-
     style S_FrameA fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Response fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style VA fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -158,7 +150,6 @@ flowchart TD
         C4["维度收缩：能量在零和对抗中耗散"]
         C1 --> C2 --> C3 --> C4
     end
-
     subgraph S_Clarify["内向识别与正交敞开路径"]
         direction TB
         D1["内向登记：将读数识别为局部余弦分量"]
@@ -167,12 +158,10 @@ flowchart TD
         D4["90 度正交旋转：超越一维单轴扩展基底"]
         D1 --> D2 --> D3 --> D4
     end
-
     C1 -.->|"回溯至局部框架"| D1
     C2 -.->|"放下闭合假定"| D2
     C3 -.->|"松开自我形象钳制"| D3
     C4 -.->|"迈入正交维度"| D4
-
     style S_Collapse fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Clarify fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style C1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -197,7 +186,6 @@ flowchart TD
         C4["Dimensional Contraction: Energy Drained in Zero-Sum Opposition"]
         C1 --> C2 --> C3 --> C4
     end
-
     subgraph S_Clarify["Path of Inward Recognition and Orthogonal Opening"]
         direction TB
         D1["Inward Registration: Recognizes Reading as Local Cosine Component"]
@@ -206,12 +194,10 @@ flowchart TD
         D4["90-Degree Orthogonal Pivot: Expands Basis Beyond the 1D Axis"]
         D1 --> D2 --> D3 --> D4
     end
-
     C1 -.->|"Trace Back to Local Frame"| D1
     C2 -.->|"Release Closure Assumption"| D2
     C3 -.->|"Unclamp Self-Image"| D3
     C4 -.->|"Step Into Orthogonal Dimension"| D4
-
     style S_Collapse fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Clarify fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style C1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -241,7 +227,6 @@ flowchart TD
         P3["压抑主权轴向或强迫顺从单一标尺"]
         P1 --> P2 --> P3
     end
-
     subgraph S_Ortho["正交共鸣：电磁自持传播"]
         direction TB
         E1["将投影认领为内部感知读数"]
@@ -250,11 +235,9 @@ flowchart TD
         E4["借由相互旋度将冗余滞后收窄向一步之界 (+1)"]
         E1 --> E2 --> E3 --> E4
     end
-
     P1 -.->|"撤回外部投射"| E1
     P2 -.->|"旋出平面 90 度"| E2
     P3 -.->|"持续正向传播 k"| E4
-
     style S_Parallel fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Ortho fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style P1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -277,7 +260,6 @@ flowchart TD
         P3["Suppresses Sovereign Axis or Forces Conformity onto One Ruler"]
         P1 --> P2 --> P3
     end
-
     subgraph S_Ortho["Orthogonal Resonance: Electromagnetic Self-Sustaining Propagation"]
         direction TB
         E1["Claims Projection as Internal Perceptual Reading"]
@@ -286,11 +268,9 @@ flowchart TD
         E4["Narrows Excess Lag Toward One-Step Bound (+1) Through Mutual Curl"]
         E1 --> E2 --> E3 --> E4
     end
-
     P1 -.->|"Withdraw Exterior Projection"| E1
     P2 -.->|"Rotate 90 Degrees Out of Plane"| E2
     P3 -.->|"Sustained Forward Propagation k"| E4
-
     style S_Parallel fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Ortho fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style P1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -302,9 +282,9 @@ flowchart TD
     style E4 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-共鸣不是平行对齐；当中心不再把所感知的他者投影当作异化的外部实体、而是将其认领为自身感知界面内的读数时，共鸣便在这一刻开启。一旦这一割裂消解，心智便不再需要在平坦的客体平面上争夺方向，而是相对于所感知的投影旋转 90 度，在冲突平面之上敞开一个正交维度——正如 [超越投射](../beyond-the-projection/) 中的人类统御者从死锁的规则平面退后一步，综合出更高阶的前提，使正交的流线互不干扰地并行运转。
+共鸣不是平行对齐；当中心不再把所感知的他者投影当作异化的外部实体、而是将其认领为自身感知界面内的读数时，共鸣便在这一刻开启。一旦这一割裂消解，心智便不再需要在平坦的客体平面上争夺方向，而是相对于所感知的投影旋转 90 度，在冲突平面之上敞开一个正交维度。如 [超越投射](../beyond-the-projection/) 所呈现的，从死锁的规则平面退后一步、综合出更高阶的前提以使正交的流线互不干扰地并行运转，便是这样一种敞开；而它唯有在更进一步的敞开始终可用时，才依然出于主动选择而非受迫：即直接拒绝占据这一共享竞技场并抽身离场，且无需另一中心修改其约束，正如 [正交的拒绝](../the-orthogonal-refusal/) 所追溯的那样。就连这一高阶综合所敞开的平面——即原有轴线与新轴线共同构成的平面——一旦在其中找出共享结果被设定为强制前提，也会坍缩回单一自由度；保留离场的选项则消解了共享方案的必然性，使各中心得以自行设定推进的条件，任何对齐也因此依然出于主动选择。
 
-Resonance is not parallel alignment; it begins the moment a center stops treating the perceived projection of the other as an alienated exterior and claims it as a reading within its own perceptual interface. Once that split is dissolved, the Mind no longer needs to contest direction on the flat plane of objects. Instead, it pivots 90 degrees relative to the perceived projection, opening an orthogonal dimension above the conflict plane—just as the human orchestrator in [Beyond the Projection](../beyond-the-projection/) steps backward out of a deadlocked rule plane to synthesize a higher-order premise that keeps orthogonal streamlines running without interference.
+Resonance is not parallel alignment; it begins the moment a center stops treating the perceived projection of the other as an alienated exterior and claims it as a reading within its own perceptual interface. Once that split is dissolved, the Mind no longer needs to contest direction on the flat plane of objects. Instead, it pivots 90 degrees relative to the perceived projection, opening an orthogonal dimension above the conflict plane. Stepping backward out of a deadlocked rule plane to synthesize a higher-order premise that keeps orthogonal streamlines running without interference, as in [Beyond the Projection](../beyond-the-projection/), is one such opening, and it stays chosen rather than compelled only while the further opening remains available: declining the shared arena altogether and walking away without requiring the other center to revise its constraints, as traced in [The Orthogonal Refusal](../the-orthogonal-refusal/). Even the plane opened by that higher-order synthesis—the original axis together with the new one—collapses back to a single degree of freedom once finding a shared outcome inside it is held mandatory; keeping exit available removes the necessity of a shared solution, so each center sets its own conditions to proceed and any alignment remains chosen.
 
 在第一人称场域中，并无任何第三人称制高点从上方俯瞰多个心智；此时心智的意向主轴与那些登记为外部之物的感知读数之间展开的正交动力学，恰如电磁波的自持传播。在电动力学中，电场 E 与磁场 B 保持相互正交（E ⟂ B），同时双双垂直于传播方向 k（E ⟂ B ⟂ k）。任何一方都不是先于另一方的外部前提；它们是同一列自持波的两个正交侧面，其中电场的时间变化激发磁场的空间旋度（∇ × E = -∂B/∂t），磁场的时间变化激发电场的空间旋度（∇ × B = (1/c²) ∂E/∂t）。在活的实践中，心智的意向轨迹与现实回传的感知摩擦正经由同样的正交耦合运转：保有独立的自由度而非坍缩为扁平的顺从，将回传信号中的每一次意外偏离都当作借以重新渲染内部世界模型的有效微商，并通过不可逆的身体力行，持续将冗余的形象滞后收窄向构成性的一步之界（+1）。心智的自由从不在于发现一张固定不变的普适坐标网格，而在于驻留于那个生成参考维度、认领内向投影并借正交展开穿越开放现实的活态边缘。
 
