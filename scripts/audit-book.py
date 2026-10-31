@@ -264,6 +264,8 @@ def audit_index(slugs, errors, warnings, titles=None):
                 s = pm.group(1)
                 if titles.get(s) and m.group(1).strip() != titles[s]:
                     errors.append(f"index: {entry['title']} link anchor \"{m.group(1).strip()}\" != H1 \"{titles[s]}\" ({s})")
+                if s in entry['links']:
+                    errors.append(f"index: {entry['title']} links {s} twice")
                 entry['links'].append(s)
                 linked.add(s)
         else:
