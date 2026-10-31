@@ -11,6 +11,7 @@
  *   node scripts/project-posts-graph.mjs --stdout
  *   node scripts/project-posts-graph.mjs --mermaid
  *   node scripts/project-posts-graph.mjs --neighbors <slug>
+ *   node scripts/project-posts-graph.mjs --catalog [--exclude <slug> [<slug> ...]]
  *   node scripts/project-posts-graph.mjs --diff   # compare hashes to existing docs/posts.graph.json
  */
 import fs from 'node:fs';
@@ -25,8 +26,22 @@ const args = process.argv.slice(2);
 const stdout = args.includes('--stdout');
 const wantMermaid = args.includes('--mermaid');
 const wantDiff = args.includes('--diff');
+const wantCatalog = args.includes('--catalog');
 const neighborsIdx = args.indexOf('--neighbors');
 const neighborsSlug = neighborsIdx >= 0 ? args[neighborsIdx + 1] : null;
+
+const excludeSet = new Set();
+for (let i = 0; i < args.length; i++) {
+  if (args[i] === '--exclude') {
+    for (let j = i + 1; j < args.length && !args[j].startsWith('--'); j++) {
+      for (const s of args[j].split(',')) {
+        const trimmed = s.trim().replace(/\.md$/, '');
+        if (trimmed) excludeSet.add(trimmed);
+      }
+      i = j;
+    }
+  }
+}
 
 const outJson = path.join(root, 'docs', 'posts.graph.json');
 const outMmd = path.join(root, 'docs', 'posts.graph.mmd');
@@ -39,6 +54,19 @@ function fileHash(p) {
 function extractTitle(md) {
   const m = md.match(/^#\s+(.+)$/m);
   return m ? m[1].trim() : null;
+}
+
+function extractSubtitle(md) {
+  const lines = md.split(/\r?\n/);
+  for (let i = 1; i < Math.min(lines.length, 10); i++) {
+    const line = lines[i].trim();
+    if (!line) continue;
+    if (line.startsWith('*') && line.endsWith('*') && line.length > 2) {
+      return line;
+    }
+    break;
+  }
+  return '';
 }
 
 function extractMdLinks(md) {
@@ -350,6 +378,34 @@ function printNeighbors(graph, slug) {
   for (const s of n.in) console.log(`  ← ${s}`);
   console.log(`review_set (${n.review.length}):`);
   for (const s of n.review) console.log(`  ${s}`);
+}
+
+function printCatalog(excluded) {
+  const files = listPostFiles();
+  const entries = [];
+  let excludedCount = 0;
+  for (const abs of files) {
+    const slug = path.basename(abs, '.md');
+    if (excluded.has(slug)) {
+      excludedCount += 1;
+      continue;
+    }
+    const md = fs.readFileSync(abs, 'utf8');
+    const title = extractTitle(md) || slug;
+    const subtitle = extractSubtitle(md);
+    entries.push(`\`${slug}\`: # ${title}${subtitle ? ` | ${subtitle}` : ''}`);
+  }
+  console.log(
+    `# Corpus Catalog (${entries.length} posts included; ${excludedCount} excluded of ${files.length} total)\n`,
+  );
+  for (const line of entries) {
+    console.log(line);
+  }
+}
+
+if (wantCatalog) {
+  printCatalog(excludeSet);
+  process.exit(0);
 }
 
 const graph = build();

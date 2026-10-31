@@ -36,6 +36,23 @@ def last_match(pattern: str, text: str) -> re.Match[str] | None:
     return matches[-1] if matches else None
 
 
+def missing_or_decorated(
+    slug: str,
+    token: str,
+    signoff_body_pattern: str,
+    file_label: str,
+    text: str,
+    with_sha256: bool = True,
+) -> str:
+    if re.search(r"^[^\S\n]*\S[^\n]*?" + signoff_body_pattern, text, flags=re.MULTILINE):
+        return (
+            f"[{slug}] Found '{token}' in {file_label} but not at a line start "
+            "(list marker, quote or backtick before it); write it as its own line"
+        )
+    suffix = " with sha256" if with_sha256 else ""
+    return f"[{slug}] Missing '{token}'{suffix} in {file_label}"
+
+
 def check_slug(slug: str) -> list[str]:
     errors: list[str] = []
     work_dir = ROOT / "work" / slug
@@ -55,19 +72,37 @@ def check_slug(slug: str) -> list[str]:
     deb_en = deb_en_path.read_text(encoding="utf-8")
     deb_zh = deb_zh_path.read_text(encoding="utf-8")
 
-    m_critic = last_match(r"^CRITIC:\s*confirmed\b.*?" + HEX64, deb_en)
+    critic_body = r"CRITIC:\s*confirmed\b[^\n]*?" + HEX64
+    m_critic = last_match(r"^" + critic_body, deb_en)
     if not m_critic:
-        errors.append(f"[{slug}] Missing 'CRITIC: confirmed' with sha256 in debate-en.md")
+        errors.append(
+            missing_or_decorated(
+                slug,
+                "CRITIC: confirmed",
+                critic_body,
+                "debate-en.md",
+                deb_en,
+            )
+        )
     elif m_critic.group(1) != en_sha:
         errors.append(
             f"[{slug}] CRITIC sha256 ({m_critic.group(1)[:12]}...) != en.md ({en_sha[:12]}...)"
         )
 
-    m_handoff = last_match(r"^HANDOFF_CONFIRMED:.*?" + HEX64, deb_zh) or last_match(
-        r"^HANDOFF_CONFIRMED:.*?" + HEX64, deb_en
+    handoff_body = r"HANDOFF_CONFIRMED:[^\n]*?" + HEX64
+    m_handoff = last_match(r"^" + handoff_body, deb_zh) or last_match(
+        r"^" + handoff_body, deb_en
     )
     if not m_handoff:
-        errors.append(f"[{slug}] Missing 'HANDOFF_CONFIRMED' with sha256 in debate-zh.md")
+        errors.append(
+            missing_or_decorated(
+                slug,
+                "HANDOFF_CONFIRMED",
+                handoff_body,
+                "debate-zh.md (or debate-en.md)",
+                deb_zh + "\n" + deb_en,
+            )
+        )
     elif m_handoff.group(1) != en_sha:
         errors.append(
             f"[{slug}] HANDOFF_CONFIRMED sha256 ({m_handoff.group(1)[:12]}...) != en.md ({en_sha[:12]}...)"
@@ -75,7 +110,16 @@ def check_slug(slug: str) -> list[str]:
 
     m_stylist = last_match(r"^STYLIST:\s*confirmed\b([^\n]*)", deb_zh)
     if not m_stylist:
-        errors.append(f"[{slug}] Missing 'STYLIST: confirmed' in debate-zh.md")
+        errors.append(
+            missing_or_decorated(
+                slug,
+                "STYLIST: confirmed",
+                r"STYLIST:\s*confirmed\b[^\n]*?\bsha256:\s*" + HEX64,
+                "debate-zh.md",
+                deb_zh,
+                with_sha256=False,
+            )
+        )
     else:
         tail = m_stylist.group(1)
         m_zh_sha = re.search(r"\bsha256:\s*" + HEX64, tail)
