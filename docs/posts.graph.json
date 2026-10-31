@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-31T20:30:03.304Z",
+    "generated_at": "2026-10-31T21:18:36.013Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -15,7 +15,7 @@
       "content/posts/abstract-pain-and-living-hunger.md": "c3854a0f8e24",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "bab69d7970fb",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "5928998f445d",
-      "content/posts/agency-and-the-pattern.md": "96e10c7dbcc1",
+      "content/posts/agency-and-the-pattern.md": "30029fcafb4b",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "efeb328b4af9",
       "content/posts/agency-contradiction-and-the-relocation-of-power.md": "30db2f173a74",
       "content/posts/agency-does-not-arise.md": "2064c3c57645",
@@ -112,7 +112,7 @@
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "2740c5400321",
       "content/posts/immortality-final.md": "2bbeb6b8ed55",
       "content/posts/incompleteness-exhibited-twice.md": "3d9138bc24b4",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "ed01eddff7ec",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "2e798b54af09",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "5656f412d172",
       "content/posts/intelligence-crisis-response.md": "cac8520aa17d",
       "content/posts/intelligence-folding-back-on-itself.md": "457b6b772b47",
@@ -158,7 +158,7 @@
       "content/posts/openness-is-consistency.md": "214d42e4dae1",
       "content/posts/order-surplus-and-the-moral-intercept.md": "2c05f2c13447",
       "content/posts/overfitting-as-the-follower-mode.md": "91e87126c0bd",
-      "content/posts/ownership-and-self-worthiness.md": "2922c7678240",
+      "content/posts/ownership-and-self-worthiness.md": "42b49caaa531",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "19deef69b9d1",
       "content/posts/perception-perspective-refined.md": "d9484330c5b9",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "c97351228409",
@@ -181,7 +181,7 @@
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "c12a17f1cc71",
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "a8f8212b9511",
       "content/posts/residual-control-recedes-to-the-edge.md": "3de7bf12eb33",
-      "content/posts/residual-individualism.md": "9807fc882976",
+      "content/posts/residual-individualism.md": "ce5cf1738f1e",
       "content/posts/restriction-is-a-selective-tax.md": "69b02c530867",
       "content/posts/scaffolds-or-specialized-contexts.md": "ff1d8c730144",
       "content/posts/school_essay_final.md": "f18cabb10f9c",
@@ -195,7 +195,7 @@
       "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "7220d97a43c1",
       "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "8fc143a28f49",
       "content/posts/simplicity-ultimate-sophistication.md": "9039597a8e48",
-      "content/posts/sovereignty-belief-and-regulatory-structures.md": "69b421f8fc76",
+      "content/posts/sovereignty-belief-and-regulatory-structures.md": "9d04c6b1c923",
       "content/posts/sovereignty-essay.md": "bdc7dfc589b0",
       "content/posts/sowell-observed-the-surface-problem.md": "df9de9b7c1a0",
       "content/posts/stability-and-excess.md": "25b813029b34",
@@ -255,7 +255,7 @@
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "7915aadc533b",
       "content/posts/the-fallacy-of-post-success-parenting.md": "a33a3eabb00c",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "204ffca3c19c",
-      "content/posts/the-fixed-image-of-transcendence.md": "e498e4768498",
+      "content/posts/the-fixed-image-of-transcendence.md": "c2123525af2c",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "d3d47cfe2abd",
       "content/posts/the-flywheel-of-the-mind.md": "869ae350efe5",
       "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "b056b4bf7e8f",
@@ -363,7 +363,7 @@
       "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "5d21768fd3b6",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "c2d1d681f444",
       "content/posts/the-source-of-all-harm.md": "67e9c861c682",
-      "content/posts/the-source-of-shared-change.md": "6b3787d81f18",
+      "content/posts/the-source-of-shared-change.md": "96a5ac743fda",
       "content/posts/the-sovereign-blinding.md": "ed3ccd01b170",
       "content/posts/the-strategy-that-wasnt.md": "619408944139",
       "content/posts/the-strongest-belief-of-the-mind.md": "2219d9353599",
@@ -402,7 +402,7 @@
       "content/posts/what-hinton-failed-to-understand.md": "5b9aba9df3f3",
       "content/posts/what-information-is.md": "63cbacf714f1",
       "content/posts/what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination.md": "d06b858632cf",
-      "content/posts/what-works-is-the-belief.md": "8707b2b27543",
+      "content/posts/what-works-is-the-belief.md": "61bc84ba56e2",
       "content/posts/whatever-is-one-prompt-away.md": "0e806b1ec073",
       "content/posts/when-abundance-looks-like-scarcity.md": "84b716cdac74",
       "content/posts/when-electrons-think.md": "c3336f135244",
@@ -444,10 +444,10 @@
     },
     "stats": {
       "posts": 417,
-      "edges": 12422,
-      "unique_directed": 6110,
+      "edges": 12438,
+      "unique_directed": 6118,
       "missing_targets": 0,
-      "one_way": 1166,
+      "one_way": 1158,
       "isolated": 0,
       "posts_with_outbound": 417,
       "book_pages": 16,
@@ -540,7 +540,7 @@
   "hubs_out": [
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "out_degree": 101
+      "out_degree": 102
     },
     {
       "slug": "openness-is-consistency",
@@ -560,7 +560,7 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "out_degree": 55
+      "out_degree": 56
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
@@ -810,9 +810,9 @@
       "slug": "agency-and-the-pattern",
       "path": "content/posts/agency-and-the-pattern.md",
       "title": "能动性与模式 / Agency and the Pattern",
-      "hash": "96e10c7dbcc1",
+      "hash": "30029fcafb4b",
       "in_degree": 20,
-      "out_degree": 26,
+      "out_degree": 27,
       "links_out": [
         "silicon-oracles-and-the-asymmetry-of-consequence",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -829,6 +829,7 @@
         "causality-stays-at-the-edge-that-steers",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "guidance-is-not-ownership",
+        "agency-contradiction-and-the-relocation-of-power",
         "the-power-law-of-surrendered-agency",
         "ownership-and-self-worthiness",
         "guan-yu-gui-yin",
@@ -878,7 +879,7 @@
       "path": "content/posts/agency-contradiction-and-the-relocation-of-power.md",
       "title": "能动性、矛盾与权力的移置 / Agency, Contradiction, and the Relocation of Power",
       "hash": "30db2f173a74",
-      "in_degree": 0,
+      "in_degree": 8,
       "out_degree": 23,
       "links_out": [
         "the-substrate-of-constraint-and-the-self-denial-of-freedom",
@@ -3353,9 +3354,9 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers",
-      "hash": "ed01eddff7ec",
+      "hash": "2e798b54af09",
       "in_degree": 109,
-      "out_degree": 101,
+      "out_degree": 102,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
         "studying-the-effect-of-ai-relocates-causality",
@@ -3434,6 +3435,7 @@
         "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
         "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
         "openness-is-consistency",
+        "agency-contradiction-and-the-relocation-of-power",
         "manifesto-of-not-a-theory-of-everything",
         "qian-yin-hou-guo",
         "time-is-causality-not-a-dimension",
@@ -4760,9 +4762,9 @@
       "slug": "ownership-and-self-worthiness",
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "自我价值感与所有权 / Ownership and Self-Worthiness",
-      "hash": "2922c7678240",
+      "hash": "42b49caaa531",
       "in_degree": 56,
-      "out_degree": 55,
+      "out_degree": 56,
       "links_out": [
         "the-meaning-of-life-is-in-the-drafting",
         "when-need-stops-being-the-measure",
@@ -4791,6 +4793,7 @@
         "the-generative-contradiction",
         "the-generative-topology-of-free-variables",
         "the-only-coherent-uncaused-effect",
+        "agency-contradiction-and-the-relocation-of-power",
         "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
         "empowerment-establishes-the-centralization-of-power",
         "liberation-rhetoric-begins-by-defining-captivity",
@@ -5440,9 +5443,9 @@
       "slug": "residual-individualism",
       "path": "content/posts/residual-individualism.md",
       "title": "剩余个人主义 / Residual Individualism",
-      "hash": "9807fc882976",
+      "hash": "ce5cf1738f1e",
       "in_degree": 29,
-      "out_degree": 27,
+      "out_degree": 28,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "when-abundance-looks-like-scarcity",
@@ -5459,6 +5462,7 @@
         "the-source-of-shared-change",
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "constraints_are_ground",
+        "agency-contradiction-and-the-relocation-of-power",
         "the-free-mind-is-displaced-by-what-claims-to-protect-it",
         "liberation-rhetoric-begins-by-defining-captivity",
         "externalized-virtue-becomes-its-opposite",
@@ -5799,9 +5803,9 @@
       "slug": "sovereignty-belief-and-regulatory-structures",
       "path": "content/posts/sovereignty-belief-and-regulatory-structures.md",
       "title": "主权、信念与规制结构的生成 / Sovereignty, Belief, and the Generation of Regulatory Structures",
-      "hash": "69b421f8fc76",
+      "hash": "9d04c6b1c923",
       "in_degree": 30,
-      "out_degree": 29,
+      "out_degree": 30,
       "links_out": [
         "hassabis-frontier-agi-premise",
         "the-knowledge-problem-and-the-illusion-of-delegation",
@@ -5815,6 +5819,7 @@
         "recursive-contradiction-of-entrusted-morality",
         "the-risk-you-delegate-is-the-risk-you-create",
         "sovereignty-essay",
+        "agency-contradiction-and-the-relocation-of-power",
         "what-works-is-the-belief",
         "the-orthogonal-refusal",
         "the-risk-is-the-belief-in-oversight-itself",
@@ -7433,9 +7438,9 @@
       "slug": "the-fixed-image-of-transcendence",
       "path": "content/posts/the-fixed-image-of-transcendence.md",
       "title": "超越的定相 / The Fixed Image of Transcendence",
-      "hash": "e498e4768498",
+      "hash": "c2123525af2c",
       "in_degree": 25,
-      "out_degree": 24,
+      "out_degree": 25,
       "links_out": [
         "curiosity-has-no-final-form",
         "intelligence-belongs-only-to-the-mind",
@@ -7444,6 +7449,7 @@
         "mistaking-the-expression-for-the-intelligence",
         "hierarchy-from-individual-difference",
         "a-creation-cannot-replace-its-source",
+        "agency-contradiction-and-the-relocation-of-power",
         "your-codebase-is-memory",
         "beyond-the-projection",
         "the-scaffolding-that-keeps-growing",
@@ -10199,9 +10205,9 @@
       "slug": "the-source-of-shared-change",
       "path": "content/posts/the-source-of-shared-change.md",
       "title": "共同改变的本源 / The Source of Shared Change",
-      "hash": "6b3787d81f18",
+      "hash": "96a5ac743fda",
       "in_degree": 25,
-      "out_degree": 25,
+      "out_degree": 26,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
         "mei-you-pu-du-zhi-you-zi-du",
@@ -10212,6 +10218,7 @@
         "shared-humanity-is-never-shared",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
         "empowerment-establishes-the-centralization-of-power",
+        "agency-contradiction-and-the-relocation-of-power",
         "the-path-drawn-one-step-at-a-time",
         "symptom-and-cause-in-the-narratives-of-progress",
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -11147,11 +11154,12 @@
       "slug": "what-works-is-the-belief",
       "path": "content/posts/what-works-is-the-belief.md",
       "title": "起作用的是信念 / What Works Is the Belief",
-      "hash": "8707b2b27543",
+      "hash": "61bc84ba56e2",
       "in_degree": 28,
-      "out_degree": 29,
+      "out_degree": 30,
       "links_out": [
         "sovereignty-belief-and-regulatory-structures",
+        "agency-contradiction-and-the-relocation-of-power",
         "the-strongest-belief-of-the-mind",
         "hardness-is-not-inherent-in-the-action",
         "the-source-of-all-harm",
@@ -13282,6 +13290,12 @@
     },
     {
       "from": "agency-and-the-pattern",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "agency-and-the-pattern",
       "to": "the-power-law-of-surrendered-agency",
       "rel": "points_to",
       "label": "让渡主权的幂律法则"
@@ -13309,6 +13323,12 @@
       "to": "guidance-is-not-ownership",
       "rel": "points_to",
       "label": "Guidance Is Not Ownership"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
     },
     {
       "from": "agency-and-the-pattern",
@@ -30622,6 +30642,12 @@
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
       "to": "manifesto-of-not-a-theory-of-everything",
       "rel": "points_to",
       "label": "非万物之理"
@@ -30643,6 +30669,12 @@
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness Is Consistency"
+    },
+    {
+      "from": "individual-choices-as-the-only-causal-levers",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
     },
     {
       "from": "individual-choices-as-the-only-causal-levers",
@@ -40420,9 +40452,21 @@
     },
     {
       "from": "ownership-and-self-worthiness",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
       "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
       "rel": "points_to",
       "label": "自尊的刚性外壳与隐性外部归因"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
     },
     {
       "from": "ownership-and-self-worthiness",
@@ -45178,9 +45222,21 @@
     },
     {
       "from": "residual-individualism",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "residual-individualism",
       "to": "constraints_are_ground",
       "rel": "points_to",
       "label": "Constraints Are Ground"
+    },
+    {
+      "from": "residual-individualism",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
     },
     {
       "from": "residual-individualism",
@@ -47473,6 +47529,18 @@
       "to": "sovereignty-essay",
       "rel": "points_to",
       "label": "Surrender as Misaligned Sovereignty"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "sovereignty-belief-and-regulatory-structures",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
     },
     {
       "from": "sovereignty-belief-and-regulatory-structures",
@@ -57841,6 +57909,18 @@
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
       "label": "A Creation Cannot Replace Its Source"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "the-fixed-image-of-transcendence",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
     },
     {
       "from": "the-fixed-image-of-transcendence",
@@ -75888,7 +75968,7 @@
       "from": "the-source-of-shared-change",
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
-      "label": "Reality Is the Mind’s Ongoing Realization"
+      "label": "Reality Is the Mind's Ongoing Realization"
     },
     {
       "from": "the-source-of-shared-change",
@@ -75936,7 +76016,7 @@
       "from": "the-source-of-shared-change",
       "to": "the-coordinators-category-error",
       "rel": "points_to",
-      "label": "The Coordinator’s Category Error"
+      "label": "The Coordinator's Category Error"
     },
     {
       "from": "the-source-of-shared-change",
@@ -75976,9 +76056,21 @@
     },
     {
       "from": "the-source-of-shared-change",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "the-source-of-shared-change",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
       "label": "一步一步绘制出的路径"
+    },
+    {
+      "from": "the-source-of-shared-change",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
     },
     {
       "from": "the-source-of-shared-change",
@@ -76050,7 +76142,7 @@
       "from": "the-source-of-shared-change",
       "to": "the-meaning-of-life-is-in-the-drafting",
       "rel": "points_to",
-      "label": "The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing"
+      "label": "The Meaning of Life Is in the Drafting"
     },
     {
       "from": "the-source-of-shared-change",
@@ -82414,6 +82506,12 @@
     },
     {
       "from": "what-works-is-the-belief",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "what-works-is-the-belief",
       "to": "the-strongest-belief-of-the-mind",
       "rel": "points_to",
       "label": "心智最坚固的信念"
@@ -82429,6 +82527,12 @@
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
       "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
+    },
+    {
+      "from": "what-works-is-the-belief",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
     },
     {
       "from": "what-works-is-the-belief",
