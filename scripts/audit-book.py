@@ -26,6 +26,12 @@ BUILD = ROOT / 'build.mjs'
 
 BANNED = ['纯粹', '绝对', '完全', '彻底', '绝不', '通常', '往往', '或许', '某种意义上',
           '降维重构', '本质', '根本', '自始至终', '缰绳', '物理现实', '平庸', '物理意志']
+
+
+def has_banned(word, text):
+    if word == '绝不':
+        return bool(re.search(r'(?<![拒杜])绝不', text))
+    return word in text
 # Documented premise-naming exceptions in content/book/index-of-premises.md where a banned-list
 # word directly names the target stance/claim under dissection (Logical Coherence over Rules).
 DOCUMENTED_INDEX_ADVISORIES = {
@@ -133,7 +139,7 @@ def check_prose(name, title, lines, errors, warnings):
     body = '\n'.join(lines)
     scan = strip_links(title + '\n' + body)
     for w in BANNED:
-        if w in scan:
+        if has_banned(w, scan):
             warnings.append(f'{name}: banned-list word "{w}" (allowed only where it names the object)')
     if re.search(r'\$(?!\d)', scan):
         errors.append(f'{name}: raw "$" found')
@@ -272,7 +278,7 @@ def audit_index(slugs, errors, warnings, titles=None):
             entry['paras'].append(line)
             scan = strip_links(line)
             for w in BANNED:
-                if w in scan:
+                if has_banned(w, scan):
                     reason = DOCUMENTED_INDEX_ADVISORIES.get((entry['title'], w))
                     if reason:
                         warnings.append(

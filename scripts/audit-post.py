@@ -221,9 +221,11 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
     # 2. Banned words audit. A word is barred where the prose itself uses it to describe or
     # evaluate; naming a prevailing take in its own terms is allowed. No script can tell
     # the two apart, so each hit is an advisory shown in context for the writer to judge.
+    # For '绝不', exclude cross-word boundary collisions where '绝' closes '拒绝' or '杜绝'.
     banned_hits = []
     for word in BANNED_WORDS:
-        for m in re.finditer(re.escape(word), content):
+        pat = r'(?<![拒杜])绝不' if word == '绝不' else re.escape(word)
+        for m in re.finditer(pat, content):
             ctx = content[max(0, m.start() - 12):m.end() + 8].replace('\n', ' ')
             banned_hits.append(f"「{ctx}」")
 
