@@ -43,3 +43,4 @@ The essays in this part examine the vector sum of coercion, the belief in oversi
 - [革命之名把生活收成证据 / The Name Revolution Files a Life as Evidence](../../posts/the-name-revolution-files-a-life-as-evidence/)
 - [费米悖论、主体性错配与大过滤器的投射 / The Fermi Paradox, Reified Agency, and the Projection of the Great Filter](../../posts/the-fermi-paradox-reified-agency-and-the-great-filter/)
 - [正交的拒绝 / The Orthogonal Refusal](../../posts/the-orthogonal-refusal/)
+- [能动性、矛盾与权力的移置 / Agency, Contradiction, and the Relocation of Power](../../posts/agency-contradiction-and-the-relocation-of-power/)

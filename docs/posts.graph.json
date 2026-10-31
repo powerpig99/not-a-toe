@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-31T18:55:25.357Z",
+    "generated_at": "2026-10-31T20:30:03.304Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -15,8 +15,9 @@
       "content/posts/abstract-pain-and-living-hunger.md": "c3854a0f8e24",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "bab69d7970fb",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "5928998f445d",
-      "content/posts/agency-and-the-pattern.md": "b0663c25c0c8",
+      "content/posts/agency-and-the-pattern.md": "96e10c7dbcc1",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "efeb328b4af9",
+      "content/posts/agency-contradiction-and-the-relocation-of-power.md": "30db2f173a74",
       "content/posts/agency-does-not-arise.md": "2064c3c57645",
       "content/posts/agency-relocated-into-the-formal-model.md": "3e1fa31e14a3",
       "content/posts/agents_leia_ontological_clarity.md": "332a8919b1e7",
@@ -427,7 +428,7 @@
       "content/book/causality.md": "51d6cd58236e",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "5b19fa46fd38",
+      "content/book/index-of-premises.md": "8be5f78e1bf8",
       "content/book/intelligence.md": "562728811be2",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -437,21 +438,21 @@
       "content/book/morality.md": "46ca20cf1f35",
       "content/book/physics.md": "4671c42b6627",
       "content/book/preface.md": "d0065384016a",
-      "content/book/state-and-collective.md": "d48a5569d3b0",
+      "content/book/state-and-collective.md": "420b2f183a45",
       "content/book/success-and-the-self.md": "b251154da4a5",
       "content/book/tools-and-progress.md": "09f19b0967d0"
     },
     "stats": {
-      "posts": 416,
-      "edges": 12376,
-      "unique_directed": 6087,
+      "posts": 417,
+      "edges": 12422,
+      "unique_directed": 6110,
       "missing_targets": 0,
-      "one_way": 1143,
+      "one_way": 1166,
       "isolated": 0,
-      "posts_with_outbound": 416,
+      "posts_with_outbound": 417,
       "book_pages": 16,
-      "book_edges": 1202,
-      "posts_reached_by_book": 416
+      "book_edges": 1207,
+      "posts_reached_by_book": 417
     }
   },
   "hubs_in": [
@@ -465,7 +466,7 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 108
+      "in_degree": 109
     },
     {
       "slug": "openness-is-consistency",
@@ -489,7 +490,7 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "in_degree": 55
+      "in_degree": 56
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -809,8 +810,8 @@
       "slug": "agency-and-the-pattern",
       "path": "content/posts/agency-and-the-pattern.md",
       "title": "能动性与模式 / Agency and the Pattern",
-      "hash": "b0663c25c0c8",
-      "in_degree": 19,
+      "hash": "96e10c7dbcc1",
+      "in_degree": 20,
       "out_degree": 26,
       "links_out": [
         "silicon-oracles-and-the-asymmetry-of-consequence",
@@ -868,6 +869,41 @@
         "the-density-of-judgment",
         "your-codebase-is-memory",
         "the-extendable-horizon"
+      ]
+    },
+    {
+      "id": "post:agency-contradiction-and-the-relocation-of-power",
+      "kind": "post",
+      "slug": "agency-contradiction-and-the-relocation-of-power",
+      "path": "content/posts/agency-contradiction-and-the-relocation-of-power.md",
+      "title": "能动性、矛盾与权力的移置 / Agency, Contradiction, and the Relocation of Power",
+      "hash": "30db2f173a74",
+      "in_degree": 0,
+      "out_degree": 23,
+      "links_out": [
+        "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+        "the-look-of-constraint-is-not-the-loss-of-freedom",
+        "guan-yu-gui-yin",
+        "the-returning-signal-and-its-claim",
+        "the-fixed-image-of-transcendence",
+        "the-form-of-enlightenment-and-the-inversion-of-gates",
+        "how-to-fix-your-whole-life-in-one-split-second",
+        "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+        "the-loop-that-cant-see-itself",
+        "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+        "empowerment-establishes-the-centralization-of-power",
+        "the-mirror-handshake-of-power",
+        "ownership-and-self-worthiness",
+        "the-power-law-of-surrendered-agency",
+        "the-name-revolution-files-a-life-as-evidence",
+        "residual-individualism",
+        "what-works-is-the-belief",
+        "restriction-is-a-selective-tax",
+        "sovereignty-belief-and-regulatory-structures",
+        "individual-choices-as-the-only-causal-levers",
+        "agency-and-the-pattern",
+        "selection-contradiction-and-open-reality",
+        "the-source-of-shared-change"
       ]
     },
     {
@@ -1033,7 +1069,7 @@
       "path": "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md",
       "title": "凡可言说皆不可言说之产物 / All That Can Be Spoken Is the Product of the Unspeakable",
       "hash": "2bdcdf8308f8",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 9,
       "links_out": [
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
@@ -2362,7 +2398,7 @@
       "path": "content/posts/empowerment-establishes-the-centralization-of-power.md",
       "title": "赋权确立权力的集中 / Empowerment Establishes the Centralization of Power",
       "hash": "88f2c8ef1bd8",
-      "in_degree": 21,
+      "in_degree": 22,
       "out_degree": 20,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
@@ -2951,7 +2987,7 @@
       "path": "content/posts/guan-yu-gui-yin.md",
       "title": "关于归因 / On Attribution",
       "hash": "b1b0d4d90b8e",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 13,
       "links_out": [
         "qian-yin-hou-guo",
@@ -3227,7 +3263,7 @@
       "path": "content/posts/how-to-fix-your-whole-life-in-one-split-second.md",
       "title": "如何在一瞬间修正你的整个人生 / How to Fix Your Whole Life in One Split Second",
       "hash": "9c200c5c4e2a",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 15,
       "links_out": [
         "ownership-and-self-worthiness",
@@ -3318,7 +3354,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers",
       "hash": "ed01eddff7ec",
-      "in_degree": 108,
+      "in_degree": 109,
       "out_degree": 101,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -4725,7 +4761,7 @@
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "自我价值感与所有权 / Ownership and Self-Worthiness",
       "hash": "2922c7678240",
-      "in_degree": 55,
+      "in_degree": 56,
       "out_degree": 55,
       "links_out": [
         "the-meaning-of-life-is-in-the-drafting",
@@ -5405,7 +5441,7 @@
       "path": "content/posts/residual-individualism.md",
       "title": "剩余个人主义 / Residual Individualism",
       "hash": "9807fc882976",
-      "in_degree": 28,
+      "in_degree": 29,
       "out_degree": 27,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -5444,7 +5480,7 @@
       "path": "content/posts/restriction-is-a-selective-tax.md",
       "title": "限制是选择性的税 / Restriction Is a Selective Tax",
       "hash": "69b02c530867",
-      "in_degree": 19,
+      "in_degree": 20,
       "out_degree": 20,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
@@ -5514,7 +5550,7 @@
       "path": "content/posts/selection-contradiction-and-open-reality.md",
       "title": "选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality",
       "hash": "74fbecb78715",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 10,
       "links_out": [
         "abstraction-boundaries-and-the-moving-edge-of-reality",
@@ -5764,7 +5800,7 @@
       "path": "content/posts/sovereignty-belief-and-regulatory-structures.md",
       "title": "主权、信念与规制结构的生成 / Sovereignty, Belief, and the Generation of Regulatory Structures",
       "hash": "69b421f8fc76",
-      "in_degree": 29,
+      "in_degree": 30,
       "out_degree": 29,
       "links_out": [
         "hassabis-frontier-agi-premise",
@@ -7398,7 +7434,7 @@
       "path": "content/posts/the-fixed-image-of-transcendence.md",
       "title": "超越的定相 / The Fixed Image of Transcendence",
       "hash": "e498e4768498",
-      "in_degree": 24,
+      "in_degree": 25,
       "out_degree": 24,
       "links_out": [
         "curiosity-has-no-final-form",
@@ -7489,7 +7525,7 @@
       "path": "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md",
       "title": "开悟的相与门槛的倒置 / The Form of Enlightenment and the Inversion of Gates",
       "hash": "b056b4bf7e8f",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 12,
       "links_out": [
         "the-fixed-image-of-transcendence",
@@ -8518,7 +8554,7 @@
       "path": "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md",
       "title": "约束的样子不是自由的失去 / The Look of Constraint Is Not the Loss of Freedom",
       "hash": "5dfdcb05cf02",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 5,
       "links_out": [
         "the-bank-shot-and-the-magic-trick",
@@ -8550,7 +8586,7 @@
       "path": "content/posts/the-loop-that-cant-see-itself.md",
       "title": "看不见自身的回路 / The Loop That Can't See Itself",
       "hash": "6dc2f348ae56",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 13,
       "links_out": [
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -8777,7 +8813,7 @@
       "path": "content/posts/the-mirror-handshake-of-power.md",
       "title": "权力的镜像握手 / The Mirror Handshake of Power",
       "hash": "43932682b2ed",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 9,
       "links_out": [
         "the-free-variable-and-the-retrospective-illusion-of-power",
@@ -8958,7 +8994,7 @@
       "path": "content/posts/the-name-revolution-files-a-life-as-evidence.md",
       "title": "革命之名把生活收成证据 / The Name Revolution Files a Life as Evidence",
       "hash": "992db02a5915",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 13,
       "links_out": [
         "the-mind-as-vector-and-coordinate-system",
@@ -9306,7 +9342,7 @@
       "path": "content/posts/the-power-law-of-surrendered-agency.md",
       "title": "让渡主权的幂律法则 / The Power-Law of Surrendered Agency",
       "hash": "8920ba4edc69",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 5,
       "links_out": [
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
@@ -9667,7 +9703,7 @@
       "path": "content/posts/the-returning-signal-and-its-claim.md",
       "title": "回返的信号与认领 / The Returning Signal and Its Claim",
       "hash": "3e0a96be38a7",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 10,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
@@ -10164,7 +10200,7 @@
       "path": "content/posts/the-source-of-shared-change.md",
       "title": "共同改变的本源 / The Source of Shared Change",
       "hash": "6b3787d81f18",
-      "in_degree": 24,
+      "in_degree": 25,
       "out_degree": 25,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
@@ -10269,7 +10305,7 @@
       "path": "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md",
       "title": "约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom",
       "hash": "1e50979f6100",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 7,
       "links_out": [
         "the-look-of-constraint-is-not-the-loss-of-freedom",
@@ -10418,7 +10454,7 @@
       "path": "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md",
       "title": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation",
       "hash": "b3c56fb5bb57",
-      "in_degree": 21,
+      "in_degree": 22,
       "out_degree": 22,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -11112,7 +11148,7 @@
       "path": "content/posts/what-works-is-the-belief.md",
       "title": "起作用的是信念 / What Works Is the Belief",
       "hash": "8707b2b27543",
-      "in_degree": 27,
+      "in_degree": 28,
       "out_degree": 29,
       "links_out": [
         "sovereignty-belief-and-regulatory-structures",
@@ -13597,6 +13633,282 @@
       "to": "the-extendable-horizon",
       "rel": "points_to",
       "label": "The Extendable Horizon"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "rel": "points_to",
+      "label": "约束基底与自由自否"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "rel": "points_to",
+      "label": "The Substrate of Constraint and the Self-Denial of Freedom"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "the-look-of-constraint-is-not-the-loss-of-freedom",
+      "rel": "points_to",
+      "label": "约束的样子不是自由的失去"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "the-look-of-constraint-is-not-the-loss-of-freedom",
+      "rel": "points_to",
+      "label": "The Look of Constraint Is Not the Loss of Freedom"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "guan-yu-gui-yin",
+      "rel": "points_to",
+      "label": "关于归因"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "the-returning-signal-and-its-claim",
+      "rel": "points_to",
+      "label": "回返的信号与认领"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "guan-yu-gui-yin",
+      "rel": "points_to",
+      "label": "On Attribution"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "the-returning-signal-and-its-claim",
+      "rel": "points_to",
+      "label": "The Returning Signal and Its Claim"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "超越的定相"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "rel": "points_to",
+      "label": "开悟的相与门槛的倒置"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "how-to-fix-your-whole-life-in-one-split-second",
+      "rel": "points_to",
+      "label": "如何在一瞬间修正你的整个人生"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "the-fixed-image-of-transcendence",
+      "rel": "points_to",
+      "label": "The Fixed Image of Transcendence"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "rel": "points_to",
+      "label": "The Form of Enlightenment and the Inversion of Gates"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "how-to-fix-your-whole-life-in-one-split-second",
+      "rel": "points_to",
+      "label": "How to Fix Your Whole Life in One Split Second"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "主权抉择的双面性与观察的客体化"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "the-loop-that-cant-see-itself",
+      "rel": "points_to",
+      "label": "看不见自身的回路"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+      "rel": "points_to",
+      "label": "凡可言说皆不可言说之产物"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "the-loop-that-cant-see-itself",
+      "rel": "points_to",
+      "label": "The Loop That Can't See Itself"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+      "rel": "points_to",
+      "label": "All That Can Be Spoken Is the Product of the Unspeakable"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "empowerment-establishes-the-centralization-of-power",
+      "rel": "points_to",
+      "label": "赋权确立权力的集中"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "the-mirror-handshake-of-power",
+      "rel": "points_to",
+      "label": "权力的镜像握手"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "empowerment-establishes-the-centralization-of-power",
+      "rel": "points_to",
+      "label": "Empowerment Establishes the Centralization of Power"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "the-mirror-handshake-of-power",
+      "rel": "points_to",
+      "label": "The Mirror Handshake of Power"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "the-power-law-of-surrendered-agency",
+      "rel": "points_to",
+      "label": "让渡主权的幂律法则"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "the-name-revolution-files-a-life-as-evidence",
+      "rel": "points_to",
+      "label": "革命之名把生活收成证据"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "剩余个人主义"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "the-power-law-of-surrendered-agency",
+      "rel": "points_to",
+      "label": "The Power-Law of Surrendered Agency"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "the-name-revolution-files-a-life-as-evidence",
+      "rel": "points_to",
+      "label": "The Name Revolution Files a Life as Evidence"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "residual-individualism",
+      "rel": "points_to",
+      "label": "Residual Individualism"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "起作用的是信念"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "限制是选择性的税"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "What Works Is the Belief"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "Restriction Is a Selective Tax"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "主权、信念与规制结构的生成"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "agency-and-the-pattern",
+      "rel": "points_to",
+      "label": "能动性与模式"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "agency-and-the-pattern",
+      "rel": "points_to",
+      "label": "Agency and the Pattern"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "selection-contradiction-and-open-reality",
+      "rel": "points_to",
+      "label": "选择、矛盾与开放的现实"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "共同改变的本源"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "selection-contradiction-and-open-reality",
+      "rel": "points_to",
+      "label": "Selection, Contradiction, and Open Reality"
+    },
+    {
+      "from": "agency-contradiction-and-the-relocation-of-power",
+      "to": "the-source-of-shared-change",
+      "rel": "points_to",
+      "label": "The Source of Shared Change"
     },
     {
       "from": "agency-does-not-arise",
@@ -85994,8 +86306,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "5b19fa46fd38",
-        "out_degree": 416
+        "hash": "8be5f78e1bf8",
+        "out_degree": 417
       },
       {
         "id": "book:intelligence",
@@ -86084,8 +86396,8 @@
         "slug": "state-and-collective",
         "path": "content/book/state-and-collective.md",
         "title": "国家集体与权力的镜像 / The State, Collectives, and the Mirror of Power",
-        "hash": "d48a5569d3b0",
-        "out_degree": 31
+        "hash": "420b2f183a45",
+        "out_degree": 32
       },
       {
         "id": "book:success-and-the-self",
@@ -89049,6 +89361,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "agency-contradiction-and-the-relocation-of-power",
+        "rel": "collects",
+        "label": "能动性、矛盾与权力的移置 / Agency, Contradiction, and the Relocation of Power"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "everything-is-changing-as-always",
         "rel": "collects",
         "label": "万物一如既往地流变 / Everything Is Changing, as Always"
@@ -90711,9 +91029,21 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "agency-contradiction-and-the-relocation-of-power",
+        "rel": "collects",
+        "label": "能动性、矛盾与权力的移置 / Agency, Contradiction, and the Relocation of Power"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "residual-individualism",
         "rel": "collects",
         "label": "剩余个人主义 / Residual Individualism"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "agency-contradiction-and-the-relocation-of-power",
+        "rel": "collects",
+        "label": "能动性、矛盾与权力的移置 / Agency, Contradiction, and the Relocation of Power"
       },
       {
         "from": "book:index-of-premises",
@@ -90894,6 +91224,12 @@
         "to": "the-moral-reversal-and-the-scripted-subject",
         "rel": "collects",
         "label": "道德倒错与被脚本化的主体 / The Moral Reversal and the Scripted Subject"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "agency-contradiction-and-the-relocation-of-power",
+        "rel": "collects",
+        "label": "能动性、矛盾与权力的移置 / Agency, Contradiction, and the Relocation of Power"
       },
       {
         "from": "book:index-of-premises",
@@ -92868,6 +93204,12 @@
         "to": "the-orthogonal-refusal",
         "rel": "collects",
         "label": "正交的拒绝 / The Orthogonal Refusal"
+      },
+      {
+        "from": "book:state-and-collective",
+        "to": "agency-contradiction-and-the-relocation-of-power",
+        "rel": "collects",
+        "label": "能动性、矛盾与权力的移置 / Agency, Contradiction, and the Relocation of Power"
       },
       {
         "from": "book:success-and-the-self",

@@ -2564,7 +2564,7 @@ Presumes an individual's success is a quantifiable return on parental and instit
 
 Psychological projection blames immediate external triggers for inner anxiety; emotional reactivity mislabels proximate environmental friction as the primary cause of internal imbalance.
 
-→ [错置的因果与心智编译器 / Misplaced Causality and the Mind's Compiler](../../posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi/)
+→ [错置的因果与心智编译器 / Misplaced Causality and the Mind's Compiler](../../posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi/) · [能动性、矛盾与权力的移置 / Agency, Contradiction, and the Relocation of Power](../../posts/agency-contradiction-and-the-relocation-of-power/)
 
 ### 颠覆例外论 / Disruption Exceptionalism
 `哲学 / Philosophical`
@@ -4634,7 +4634,7 @@ Imagining synthetic data as a model feeding on itself is of use in describing ho
 
 Naming the pattern a system assumes decisive agency sits outside choosing minds, which is of use in pointing to the pattern many similar choices settle into; it reaches its boundary in that blaming politicians or designing new constraints continues the diffusion, while the load stays with each deciding individual.
 
-→ [政客是责任扩散的显性症状 / Politicians Are Visible Symptoms of Responsibility Diffusion](../../posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion/)
+→ [政客是责任扩散的显性症状 / Politicians Are Visible Symptoms of Responsibility Diffusion](../../posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion/) · [能动性、矛盾与权力的移置 / Agency, Contradiction, and the Relocation of Power](../../posts/agency-contradiction-and-the-relocation-of-power/)
 
 ### 系统改革与社会运动 / Systemic Reform and Activism
 `意识形态 / Ideological`
@@ -4643,7 +4643,7 @@ Naming the pattern a system assumes decisive agency sits outside choosing minds,
 
 Activism assumes patterns like regulations hold independent causal power, which is of use in pointing out what a constraint costs; it reaches its boundary in that patterns are densified residue, so opposition that keeps them central tends to stabilize them, while change still occurs as shifted individual choices.
 
-→ [剩余个人主义 / Residual Individualism](../../posts/residual-individualism/)
+→ [剩余个人主义 / Residual Individualism](../../posts/residual-individualism/) · [能动性、矛盾与权力的移置 / Agency, Contradiction, and the Relocation of Power](../../posts/agency-contradiction-and-the-relocation-of-power/)
 
 ### 天赋与条件即命运 / Talent and Circumstance as Destiny
 `成功学 / Self-Help`
@@ -4859,7 +4859,7 @@ Presumes ordinary personal survival choices are chapters in an ideological revol
 
 Presumes personal feelings of threat are unilaterally authored by opposing demographic groups; organizes activist movements, but strips individuals of sovereign emotional agency.
 
-→ [道德倒错与被脚本化的主体 / The Moral Reversal and the Scripted Subject](../../posts/the-moral-reversal-and-the-scripted-subject/)
+→ [道德倒错与被脚本化的主体 / The Moral Reversal and the Scripted Subject](../../posts/the-moral-reversal-and-the-scripted-subject/) · [能动性、矛盾与权力的移置 / Agency, Contradiction, and the Relocation of Power](../../posts/agency-contradiction-and-the-relocation-of-power/)
 
 ### 共享沙盒的幻象 / The Shared Sandbox Illusion
 `哲学 / Philosophical`
