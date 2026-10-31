@@ -1113,7 +1113,7 @@ Extended cognition argues external artifacts form part of the mind; useful for a
 
 Falsificationism holds that theories can be refuted but never finally confirmed, which is of use in placing a judgment where it can be overturned; it reaches its boundary in that each test lags the process it targets, so the method itself stays revisable, and once it is used to explain away counterevidence or to refute opponents as self-proof it becomes a tool for closing the case.
 
-→ [关于归因 / On Attribution](../../posts/guan-yu-gui-yin/) · [从形式迷思到逻辑闭环 / From the Myth of Form to the Closed Loop of Logic](../../posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan/)
+→ [关于归因 / On Attribution](../../posts/guan-yu-gui-yin/) · [从形式迷思到逻辑闭环 / From the Myth of Form to the Closed Loop of Logic](../../posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan/) · [能动性与模式 / Agency and the Pattern](../../posts/agency-and-the-pattern/)
 
 ### 费米悖论 / The Fermi Paradox
 `科学 / Scientific`
@@ -1957,9 +1957,9 @@ The claim presumes diseases form a finite list awaiting coverage, which is of us
 ### AI 削权 / AI Disempowerment
 `技术 / Technological`
 
-假定委托出去的决策一旦向模型的先验偏移，能动性便从使用者转到了模型身上；用来衡量代理的框架有多频繁地在来源未被具名时被采纳，它有用；它的边界在于把这份采纳记录写成了替人拍板的决断者，而选择与后果仍留在签字的人手中。
+在实验坐标系中预设 AI 模型是因果中心，并围绕工具的提示词来给从业者对判断的确认或修正计分；作为衡量未经省察的框架在时间压力下有多频繁被沿用的校准参考分布，它有用；它的边界在于把对第二意见的群体敏感度误认作因果作者身份的转移，并借选择性解释将数据集当作道具——把与倾向一致记作被俘获的证据，同时把未引用工具与归为己出倒置解释为否认，尽管自我陈述真正把签字者自身的能动性分配给器械的地方恰恰在于将功劳归给工具。
 
-Presumes that when delegated decisions shift toward a model's priors, agency has moved from the user to the model; useful as a measure of how often an agent's framing is taken up while its source goes unnamed, it reaches its boundary where it writes that record of taking-up as the decider settling the choice, while the choice and its consequences remain with the person who signs off.
+Presumes in its experimental coordinate that the AI model is the causal center and scores a practitioner's confirmation or revision of a judgment around the tool's prompt; useful as a calibrated reference distribution of how often unexamined framing carries through under time pressure, it reaches its boundary where it mistakes aggregate sensitivity to a second opinion for a transfer of causal authorship and uses the dataset as a prop via selective interpretation — booking alignment as evidence of capture while inverting non-citation and self-ownership into denial, even though crediting the tool is where a self-description allocates the signer's own agency to an instrument.
 
 → [能动性与模式 / Agency and the Pattern](../../posts/agency-and-the-pattern/)
 

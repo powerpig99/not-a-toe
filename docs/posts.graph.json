@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-31T17:20:26.081Z",
+    "generated_at": "2026-10-31T18:55:25.357Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -15,7 +15,7 @@
       "content/posts/abstract-pain-and-living-hunger.md": "c3854a0f8e24",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "bab69d7970fb",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "5928998f445d",
-      "content/posts/agency-and-the-pattern.md": "cd13d85a13ab",
+      "content/posts/agency-and-the-pattern.md": "b0663c25c0c8",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "efeb328b4af9",
       "content/posts/agency-does-not-arise.md": "2064c3c57645",
       "content/posts/agency-relocated-into-the-formal-model.md": "3e1fa31e14a3",
@@ -427,7 +427,7 @@
       "content/book/causality.md": "51d6cd58236e",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "4ad05cbf17bf",
+      "content/book/index-of-premises.md": "5b19fa46fd38",
       "content/book/intelligence.md": "562728811be2",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -443,14 +443,14 @@
     },
     "stats": {
       "posts": 416,
-      "edges": 12366,
-      "unique_directed": 6082,
+      "edges": 12376,
+      "unique_directed": 6087,
       "missing_targets": 0,
-      "one_way": 1138,
+      "one_way": 1143,
       "isolated": 0,
       "posts_with_outbound": 416,
       "book_pages": 16,
-      "book_edges": 1201,
+      "book_edges": 1202,
       "posts_reached_by_book": 416
     }
   },
@@ -809,14 +809,16 @@
       "slug": "agency-and-the-pattern",
       "path": "content/posts/agency-and-the-pattern.md",
       "title": "能动性与模式 / Agency and the Pattern",
-      "hash": "cd13d85a13ab",
+      "hash": "b0663c25c0c8",
       "in_degree": 19,
-      "out_degree": 21,
+      "out_degree": 26,
       "links_out": [
         "silicon-oracles-and-the-asymmetry-of-consequence",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "studying-the-effect-of-ai-relocates-causality",
         "the-comparison-that-relocates-the-cause",
+        "claudes-constitution-analysis",
+        "the-imagining-of-ai-risk",
         "the-causal-overstep-of-observation-and-the-first-person-surplus",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "the-average-is-residue-not-the-engine",
@@ -828,6 +830,9 @@
         "guidance-is-not-ownership",
         "the-power-law-of-surrendered-agency",
         "ownership-and-self-worthiness",
+        "guan-yu-gui-yin",
+        "evil-as-projected-resistance",
+        "how-belief-actually-changes",
         "the-allocation-of-causal-power-in-validation",
         "the-reversal-from-defensible-claim-to-dogma",
         "expertise-as-reference-not-replacement",
@@ -1512,7 +1517,7 @@
       "path": "content/posts/claudes-constitution-analysis.md",
       "title": "名为 Claude 的投射 / The Projection Called Claude",
       "hash": "ae157443837e",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 3,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
@@ -2432,7 +2437,7 @@
       "path": "content/posts/evil-as-projected-resistance.md",
       "title": "恶是投射出的抗拒 / Evil as Projected Resistance",
       "hash": "d0174318bc94",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 3,
       "links_out": [
         "your-codebase-is-memory",
@@ -2946,7 +2951,7 @@
       "path": "content/posts/guan-yu-gui-yin.md",
       "title": "关于归因 / On Attribution",
       "hash": "b1b0d4d90b8e",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 13,
       "links_out": [
         "qian-yin-hou-guo",
@@ -3189,7 +3194,7 @@
       "path": "content/posts/how-belief-actually-changes.md",
       "title": "信念如何真正改变 / How Belief Actually Changes",
       "hash": "e023849871b3",
-      "in_degree": 20,
+      "in_degree": 21,
       "out_degree": 21,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -8116,7 +8121,7 @@
       "path": "content/posts/the-imagining-of-ai-risk.md",
       "title": "对 AI 风险的想象 / The Imagining of AI Risk",
       "hash": "06a93ab32a22",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 14,
       "links_out": [
         "no-system-can-be-kept-closed",
@@ -13091,18 +13096,6 @@
     },
     {
       "from": "agency-and-the-pattern",
-      "to": "studying-the-effect-of-ai-relocates-causality",
-      "rel": "points_to",
-      "label": "研究AI效应重置了因果原点"
-    },
-    {
-      "from": "agency-and-the-pattern",
-      "to": "the-comparison-that-relocates-the-cause",
-      "rel": "points_to",
-      "label": "转移原因的比较"
-    },
-    {
-      "from": "agency-and-the-pattern",
       "to": "silicon-oracles-and-the-asymmetry-of-consequence",
       "rel": "points_to",
       "label": "Silicon Oracles and the Asymmetry of Consequence"
@@ -13117,6 +13110,30 @@
       "from": "agency-and-the-pattern",
       "to": "studying-the-effect-of-ai-relocates-causality",
       "rel": "points_to",
+      "label": "研究AI效应重置了因果原点"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "the-comparison-that-relocates-the-cause",
+      "rel": "points_to",
+      "label": "转移原因的比较"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "claudes-constitution-analysis",
+      "rel": "points_to",
+      "label": "名为 Claude 的投射"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "the-imagining-of-ai-risk",
+      "rel": "points_to",
+      "label": "对 AI 风险的想象"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "studying-the-effect-of-ai-relocates-causality",
+      "rel": "points_to",
       "label": "Studying the Effect of AI Relocates Causality"
     },
     {
@@ -13124,6 +13141,18 @@
       "to": "the-comparison-that-relocates-the-cause",
       "rel": "points_to",
       "label": "The Comparison That Relocates the Cause"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "claudes-constitution-analysis",
+      "rel": "points_to",
+      "label": "The Projection Called Claude"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "the-imagining-of-ai-risk",
+      "rel": "points_to",
+      "label": "The Imagining of AI Risk"
     },
     {
       "from": "agency-and-the-pattern",
@@ -13259,6 +13288,24 @@
     },
     {
       "from": "agency-and-the-pattern",
+      "to": "guan-yu-gui-yin",
+      "rel": "points_to",
+      "label": "关于归因"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "evil-as-projected-resistance",
+      "rel": "points_to",
+      "label": "恶是投射出的抗拒"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "信念如何真正改变"
+    },
+    {
+      "from": "agency-and-the-pattern",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
       "label": "验证中因果权能的分配"
@@ -13268,6 +13315,24 @@
       "to": "the-reversal-from-defensible-claim-to-dogma",
       "rel": "points_to",
       "label": "从可辩护的主张到教条的反转"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "guan-yu-gui-yin",
+      "rel": "points_to",
+      "label": "On Attribution"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "evil-as-projected-resistance",
+      "rel": "points_to",
+      "label": "Evil as Projected Resistance"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "how-belief-actually-changes",
+      "rel": "points_to",
+      "label": "How Belief Actually Changes"
     },
     {
       "from": "agency-and-the-pattern",
@@ -85929,7 +85994,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "4ad05cbf17bf",
+        "hash": "5b19fa46fd38",
         "out_degree": 416
       },
       {
@@ -87679,6 +87744,12 @@
         "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
         "rel": "collects",
         "label": "从形式迷思到逻辑闭环 / From the Myth of Form to the Closed Loop of Logic"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "agency-and-the-pattern",
+        "rel": "collects",
+        "label": "能动性与模式 / Agency and the Pattern"
       },
       {
         "from": "book:index-of-premises",
