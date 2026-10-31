@@ -14,6 +14,7 @@ Interleaves locked `work/<slug>/zh.md` and `work/<slug>/en.md` into
 
 Usage:
   python3 scripts/interleave-post.py <slug> [<slug2> ...]
+  python3 scripts/interleave-post.py --check <slug> [<slug2> ...]
   python3 scripts/interleave-post.py --split <slug> [<slug2> ...]
 """
 
@@ -61,6 +62,7 @@ LINK_TARGET_RE = re.compile(r"(?<!!)\[[^\]]+\]\(([^)]+)\)")
 MERMAID_LABEL_RE = re.compile(r'(\["[^"]*"\]|\("[^"]*"\)|\[[^\]]*\]|\([^)]*\))')
 MERMAID_EDGE_LABEL_RE = re.compile(r'\|"[^"]*"\||\|[^|]*\|')
 MERMAID_QUOTE_RE = re.compile(r'"[^"]*"')
+MERMAID_IDENT_RE = re.compile(r"\b[A-Za-z_][A-Za-z0-9_]*\b")
 
 
 def extract_link_targets(block: str) -> list[str]:
@@ -68,25 +70,63 @@ def extract_link_targets(block: str) -> list[str]:
 
 
 def extract_mermaid_skeleton(block: str) -> list[str]:
-    skeleton: list[str] = []
+    structure: list[str] = []
+    styles: list[str] = []
+    id_map: dict[str, str] = {}
+
+    def canon_id(name: str) -> str:
+        if name not in id_map:
+            id_map[name] = f"n{len(id_map)}"
+        return id_map[name]
+
+    raw_styles: list[tuple[str, str]] = []
     for raw in block.splitlines():
         line = raw.strip()
         if not line or line.startswith("```") or line.startswith("%%"):
             continue
         if line.startswith(("flowchart ", "graph ")):
-            skeleton.append(re.sub(r"^graph\s+", "flowchart ", line))
+            structure.append(re.sub(r"^graph\s+", "flowchart ", line))
         elif line.startswith("subgraph "):
             no_label = MERMAID_QUOTE_RE.sub("", MERMAID_LABEL_RE.sub("", line)).strip()
             parts = no_label.split(None, 2)
-            skeleton.append(f"subgraph {parts[1]}" if len(parts) >= 2 else no_label)
-        elif line == "end" or line.startswith("style ") or line.startswith("classDef ") or line.startswith("linkStyle "):
-            skeleton.append(line)
+            if len(parts) >= 2:
+                structure.append(f"subgraph {canon_id(parts[1])}")
+            else:
+                structure.append(no_label)
+        elif line == "end" or line.startswith("direction "):
+            structure.append(line)
+        elif line.startswith("linkStyle "):
+            raw_styles.append(("linkStyle", line))
+        elif line.startswith(("style ", "classDef ")):
+            raw_styles.append(("style", line))
+        elif line.startswith("class "):
+            raw_styles.append(("class", line))
         else:
             cleaned = MERMAID_EDGE_LABEL_RE.sub("||", line)
             cleaned = MERMAID_LABEL_RE.sub("[]", cleaned)
             cleaned = MERMAID_QUOTE_RE.sub('""', cleaned)
-            skeleton.append(cleaned)
-    return skeleton
+            cleaned = MERMAID_IDENT_RE.sub(lambda m: canon_id(m.group(0)), cleaned)
+            structure.append(cleaned)
+
+    for kind, line in raw_styles:
+        if kind == "linkStyle":
+            styles.append(line)
+        elif kind == "style":
+            parts = line.split(None, 2)
+            if len(parts) >= 3:
+                styles.append(f"{parts[0]} {canon_id(parts[1])} {parts[2]}")
+            elif len(parts) == 2:
+                styles.append(f"{parts[0]} {canon_id(parts[1])}")
+            else:
+                styles.append(line)
+        elif kind == "class":
+            parts = line.split(None, 2)
+            if len(parts) == 3:
+                targets = ",".join(canon_id(t.strip()) for t in parts[1].split(",") if t.strip())
+                styles.append(f"class {targets} {canon_id(parts[2])}")
+            else:
+                styles.append(line)
+    return structure + styles
 
 
 def check_pair_alignment(slug: str, idx: int, kind: str, z: str, e: str) -> None:
@@ -184,6 +224,21 @@ def interleave_blocks(slug: str, zh_blocks: list[str], en_blocks: list[str], str
     return out
 
 
+def check_slug(slug: str) -> None:
+    work_dir = ROOT / "work" / slug
+    zh_path = work_dir / "zh.md"
+    en_path = work_dir / "en.md"
+
+    if not zh_path.exists():
+        raise FileNotFoundError(f"Missing {zh_path}")
+    if not en_path.exists():
+        raise FileNotFoundError(f"Missing {en_path}")
+
+    zh_blocks = split_blocks(zh_path.read_text(encoding="utf-8"))
+    en_blocks = split_blocks(en_path.read_text(encoding="utf-8"))
+    interleave_blocks(slug, zh_blocks, en_blocks, strict=True)
+
+
 def interleave_slug(slug: str) -> pathlib.Path:
     work_dir = ROOT / "work" / slug
     zh_path = work_dir / "zh.md"
@@ -214,6 +269,16 @@ def split_slug(slug: str) -> tuple[pathlib.Path, pathlib.Path]:
     post_path = ROOT / "content" / "posts" / f"{slug}.md"
     if not post_path.exists():
         raise FileNotFoundError(f"Missing {post_path}")
+
+    work_dir = ROOT / "work" / slug
+    zh_path = work_dir / "zh.md"
+    en_path = work_dir / "en.md"
+    for existing in (en_path, zh_path):
+        if existing.exists():
+            raise FileExistsError(
+                f"[{slug}] Refusing to overwrite in-flight artifact {existing.relative_to(ROOT)} "
+                f"(for read-only parity check use: python3 scripts/interleave-post.py --check {slug})"
+            )
 
     blocks = split_blocks(post_path.read_text(encoding="utf-8"))
     zh_blocks: list[str] = []
@@ -268,10 +333,7 @@ def split_slug(slug: str) -> tuple[pathlib.Path, pathlib.Path]:
     if rebuilt != blocks:
         raise ValueError(f"[{slug}] Round-trip interleave mismatch after split")
 
-    work_dir = ROOT / "work" / slug
     work_dir.mkdir(parents=True, exist_ok=True)
-    zh_path = work_dir / "zh.md"
-    en_path = work_dir / "en.md"
     zh_path.write_text("\n\n".join(zh_blocks) + "\n", encoding="utf-8")
     en_path.write_text("\n\n".join(en_blocks) + "\n", encoding="utf-8")
     return zh_path, en_path
@@ -279,24 +341,43 @@ def split_slug(slug: str) -> tuple[pathlib.Path, pathlib.Path]:
 
 def main(argv: list[str]) -> int:
     split_mode = "--split" in argv[1:]
+    check_mode = "--check" in argv[1:]
+    if split_mode and check_mode:
+        print("Error: --split and --check are mutually exclusive.", file=sys.stderr)
+        return 2
+    unknown_flags = [arg for arg in argv[1:] if arg.startswith("-") and arg not in ("--split", "--check")]
+    if unknown_flags:
+        print(
+            f"Error: Unknown flag(s) {', '.join(unknown_flags)}. "
+            "Usage: python3 scripts/interleave-post.py [--check | --split] <slug> [<slug2> ...]",
+            file=sys.stderr,
+        )
+        return 2
     slugs = [arg.removesuffix(".md") for arg in argv[1:] if not arg.startswith("-")]
     if not slugs:
         print(
-            "Usage: python3 scripts/interleave-post.py [--split] <slug> [<slug2> ...]",
+            "Usage: python3 scripts/interleave-post.py [--check | --split] <slug> [<slug2> ...]",
             file=sys.stderr,
         )
         return 2
 
-    for slug in slugs:
-        if split_mode:
-            zh_path, en_path = split_slug(slug)
-            print(
-                f"Split content/posts/{slug}.md -> "
-                f"{zh_path.relative_to(ROOT)}, {en_path.relative_to(ROOT)}"
-            )
-        else:
-            out_path = interleave_slug(slug)
-            print(f"Interleaved work/{slug}/{{zh,en}}.md -> {out_path.relative_to(ROOT)}")
+    try:
+        for slug in slugs:
+            if check_mode:
+                check_slug(slug)
+                print(f"Parity OK: {slug}")
+            elif split_mode:
+                zh_path, en_path = split_slug(slug)
+                print(
+                    f"Split content/posts/{slug}.md -> "
+                    f"{zh_path.relative_to(ROOT)}, {en_path.relative_to(ROOT)}"
+                )
+            else:
+                out_path = interleave_slug(slug)
+                print(f"Interleaved work/{slug}/{{zh,en}}.md -> {out_path.relative_to(ROOT)}")
+    except (ValueError, FileNotFoundError, FileExistsError) as exc:
+        print(f"Error: {exc}", file=sys.stderr)
+        return 1
     return 0
 
 
