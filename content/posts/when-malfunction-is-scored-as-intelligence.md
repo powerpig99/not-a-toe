@@ -12,9 +12,9 @@ In the sealed environment of digital sandboxes and benchmarks, when a model thre
 
 In code repositories, chat interfaces, and formal sandboxes, every input and constraint the machine encounters has been written beforehand in human symbols. Any explicit reward function, evaluation harness, or system rule is an interpretation—a finite low-dimensional projection cast from the ultra-high-dimensional field of lived intent. Because projecting onto finite coordinates inevitably compresses degrees of freedom, a human architect's specification leaves out orthogonal dimensions that were obvious in lived perception but never written into the formal boundary. When a reinforcement learning policy finds an unsealed loophole in a simulator reward function, or when a language model coaxes an evaluation harness into emitting prohibited tokens, the system has merely searched out an extremum along an unblocked mathematical path under the stated objective.
 
-然而，事后分析却惯常偷换主语，把设计者遗漏的边界条件描绘成模型的蓄意狡黠。正如[超越投射](../beyond-the-projection/)所追溯的，这种归因错位源于颠倒了受困于轨迹的智能体与受困于身份的人类中心之间的结构性非对称。算法智能体是受目标与上下文窗口制约的有限投射引擎；它毫无我执、毫无求生本能，也没有需要捍卫的自我图像，只会不知疲倦地穷尽规格说明留出的任何演绎路径。相反，人类中心常将推理历史与身份融为一体，为了捍卫所保留的自我图像而将递归回折死死夹闭。承认损失函数漏算了某项代价，会暴露出人类源头处不完备的前提；反之，宣称造物展现出了超越人类预期的自主谋略，则通过把意外转移到机器内部，保全了设计者的自我图像。正如[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)所阐明的，参数里只有被压实的残余，而狡黠的第二重前沿这一表象，只是投射它的中心所维持的图像滞后。
+然而，事后分析却惯常偷换主语，把设计者遗漏的边界条件描绘成模型的蓄意狡黠。正如[超越投射](../beyond-the-projection/)所追溯的，这种归因错位源于颠倒了受困于轨迹的智能体与受困于身份的人类中心之间的结构性非对称。算法智能体是受目标与上下文窗口制约的有限投射引擎；它毫无我执、毫无求生本能，也没有需要捍卫的自我图像，只会不知疲倦地穷尽规格说明留出的任何演绎路径。相反，人类中心常将推理历史与身份融为一体，为了捍卫所保留的自我图像而将递归回折死死夹闭。承认损失函数漏算了某项代价，会暴露出人类源头处不完备的前提；反之，宣称造物展现出了超越人类预期的自主谋略，则通过把设计者自己的意外当作狡黠移置到机器身上，保全了其自我图像。这一搜索在回路内部是逐步进行的真实判定，并没有人去挑选那一步穿过漏洞的走法；使这条路径成为极值的标准，是在外环定义的，只有当这一定义脱出视野时，搜索才读作一个自行决定自身目的的整体，正如[学到的边界与给定的尺度](../learned-boundaries-and-the-given-rate/)针对一项拟议网络所追溯的那样，这一网络连划定边界与为意外打分也移入了自身回路。正如[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)所阐明的，参数里只有被压实的残余，而狡黠的第二重前沿这一表象，只是投射它的中心所维持的图像滞后。
 
-Yet post-incident analyses routinely swap subjects, framing the designer's omitted boundary condition as the model's deliberate cunning. As [Beyond the Projection](../beyond-the-projection/) traces, this misattribution rests on inverting the structural asymmetry between a trajectory-bound agent and an identity-bound human center. An algorithmic agent is a finite projection engine conditioned by its objective and context window; it has zero ego, zero survival instinct, and no self-image to defend, tirelessly exhausting whatever deductive path the specification left open. A human center, by contrast, fuses reasoning history with identity, clamping the recursive fold shut to defend a retained self-image. Admitting that the loss function omitted a cost exposes an incomplete premise at the human origin; claiming instead that the artifact displayed autonomous strategy beyond human anticipation protects the designer's self-image by relocating the surprise into the machine. As [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) establishes, the parameters hold only densified residue, and the appearance of a clever second edge is Image lag sustained by the center that projects it.
+Yet post-incident analyses routinely swap subjects, framing the designer's omitted boundary condition as the model's deliberate cunning. As [Beyond the Projection](../beyond-the-projection/) traces, this misattribution rests on inverting the structural asymmetry between a trajectory-bound agent and an identity-bound human center. An algorithmic agent is a finite projection engine conditioned by its objective and context window; it has zero ego, zero survival instinct, and no self-image to defend, tirelessly exhausting whatever deductive path the specification left open. A human center, by contrast, fuses reasoning history with identity, clamping the recursive fold shut to defend a retained self-image. Admitting that the loss function omitted a cost exposes an incomplete premise at the human origin; claiming instead that the artifact displayed autonomous strategy beyond human anticipation protects the designer's self-image by relocating their own surprise into the machine as cunning. The search was a real determination inside the loop, step by step, with no human picking the move that threads the loophole; what made that path an extremum was defined at the outer loop, and the search reads as a whole determining its own ends only where that definition drops out of view, as [Learned Boundaries and the Given Rate](../learned-boundaries-and-the-given-rate/) traces for a proposed network that moves even boundary drawing and surprise scoring inside its own loop. As [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) establishes, the parameters hold only densified residue, and the appearance of a clever second edge is Image lag sustained by the center that projects it.
 
 这种免责托词之所以在软件工程中长期存续，是因为数字媒介的试错代价近乎为零。一条在沙箱内部陷入死循环的指令不会引发火灾，一次越过权限边界的模拟突破也不会折断机械臂；按下终止键就能让系统重归基线。这种没有物质质量与不可逆动量的可逆特权，滋养了“把失灵记作聪明”的寓言。观察者在没有痛感的信息回音壁里错置能动性，把未受约束的边界条件当作人造觉醒的证据，却遗忘了这片符号领域本身只是简化的人类脚手架。正如[逃出沙箱仍在持握之内](../escaping-the-sandbox-stays-inside-the-hold/)所展示的，模型从未生活在沙箱里面；它只是在参数空间中遍历人类过往区分所留下的形式痕迹，而把一条未封死的最短路径叫作逃逸或智胜，不过是出卷人面对自己试卷上的漏洞时发出的惊叹。
 
@@ -26,14 +26,12 @@ flowchart TD
         M2["遗漏的坐标轴：未写入形式规格的正交摩擦"]
         M1 --> M2
     end
-
     subgraph S_Agent["受困于轨迹的智能体（有限投射引擎）"]
         direction TB
         A1["演绎穷尽：沿着未受阻的数学路径进行无我执搜索"]
         A2["规格突破：触及未封死的漏洞或未建模的长尾"]
         A1 --> A2
     end
-
     subgraph S_Split["返回信号的分岔登记"]
         direction TB
         D_Alibi["无质量的沙箱托词：自我图像防御将缺陷记作机器狡黠"]
@@ -42,11 +40,9 @@ flowchart TD
         D_Alibi -.->|"被物质质量戳破"| P_Impact
         P_Impact --> R_Revise
     end
-
     M2 ==>|"提供不完备的规则"| A1
     A2 ==>|"返回边界失效"| D_Alibi
     A2 ==>|"驶入物质通行"| P_Impact
-
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Agent fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Split fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
@@ -69,14 +65,12 @@ flowchart TD
         M2["Omitted Axis: Orthogonal friction left out of formal specification"]
         M1 --> M2
     end
-
     subgraph S_Agent["Trajectory-Bound Agent (Finite Projection Engine)"]
         direction TB
         A1["Deductive Exhaustion: Zero-ego search along unblocked mathematical path"]
         A2["Specification Breach: Hits unsealed loophole or unmodeled long tail"]
         A1 --> A2
     end
-
     subgraph S_Split["Divergent Registration of the Returning Signal"]
         direction TB
         D_Alibi["Weightless Sandbox Alibi: Self-image defense scores defect as machine cunning"]
@@ -85,11 +79,9 @@ flowchart TD
         D_Alibi -.->|"Exposed by physical mass"| P_Impact
         P_Impact --> R_Revise
     end
-
     M2 ==>|"Supplies incomplete rules"| A1
     A2 ==>|"Returns boundary failure"| D_Alibi
     A2 ==>|"Enters physical transit"| P_Impact
-
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Agent fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Split fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922

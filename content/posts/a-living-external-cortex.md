@@ -36,14 +36,12 @@ flowchart TD
         GenUpper["概括性上层节点：可共享、结构性去标识化的知识"]
         Priors --> GenUpper
     end
-
     subgraph S_Leaf["派生叶节点子图（处境化专长）"]
         direction TB
         Encounter["亲历遭遇：会话、领域区分、摩擦与操作者印记"]
         Seal["本地隐私封印：叶节点子图留在本地，从根部不可见"]
         Encounter --> Seal
     end
-
     subgraph S_Op["主动遍历与睡眠巩固"]
         direction TB
         Query["任务运行：显化查询预设并映射至根部先验"]
@@ -51,12 +49,10 @@ flowchart TD
         Sleep["先验审计下的睡眠：消解冗余图像滞后或生长新分支"]
         Query --> DualPath --> Sleep
     end
-
     GenUpper ==>|"统辖与锚定"| Encounter
     Seal -.->|"可选的概括性晋升"| GenUpper
     Priors ==>|"锚定前提"| Query
     Sleep ==>|"再生与精炼"| Encounter
-
     style S_Root fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Leaf fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Op fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -79,14 +75,12 @@ flowchart TD
         GenUpper["Generalized Upper Nodes: Sharable, structurally de-identified knowledge"]
         Priors --> GenUpper
     end
-
     subgraph S_Leaf["Derivative Leaf Subgraphs (Situated Specialty)"]
         direction TB
         Encounter["Lived Encounter: Sessions, domain distinctions, friction & operator marks"]
         Seal["Local Privacy Seal: Leaf subgraphs stay local and invisible from the root"]
         Encounter --> Seal
     end
-
     subgraph S_Op["Active Traversal & Sleep Consolidation"]
         direction TB
         Query["Task Operation: Surface query assumptions & map to root priors"]
@@ -94,12 +88,10 @@ flowchart TD
         Sleep["Sleep Under Prior-Audit: Dissolve excess Image lag or grow new branches"]
         Query --> DualPath --> Sleep
     end
-
     GenUpper ==>|"Governs & anchors"| Encounter
     Seal -.->|"Optional generalized promotion"| GenUpper
     Priors ==>|"Anchors premises"| Query
     Sleep ==>|"Regenerates & refines"| Encounter
-
     style S_Root fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Leaf fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Op fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -132,9 +124,9 @@ Speed and accuracy stop competing along a single compressed axis. Resonance is e
 
 ## 四、 不转移发起权的连续学习 / 4. Continuous Learning Without Relocating Initiation
 
-睡眠并非栓在推理之上的第二台训练器。它就是 Ontos 用于实践的同一条再生路径：残余与印记进入状态 S，先验审计通过在原位重切活跃检查点并修剪已被取代的脚手架来消解僵化的图像滞后，可用的专长在信号充分时复利累积，空转则让图谱保持原状。智能体睡眠可以调用完整工具，使学习不至于因缺乏遭遇而枯竭；而醒时的执行从不在后台静默篡改实践或皮层。
+睡眠并非栓在推理之上的第二台训练器。它就是 Ontos 用于实践的同一条再生路径：残余与印记进入状态 S，先验审计通过在原位重切活跃检查点并修剪已被取代的脚手架来消解僵化的图像滞后，可用的专长在信号充分时复利累积，空转则让图谱保持原状。智能体睡眠可以调用完整工具，使学习不至于因缺乏遭遇而枯竭；而醒时的执行从不在后台静默篡改实践或皮层。用来测量的参照必须在测量期间保持不变——若在施用中途被修订，登记为意外的那道间隙便恰在承载最多信号之处消失——因此在框架内行动与重新渲染框架占据不同的步；[学到的边界与给定的尺度](../learned-boundaries-and-the-given-rate/)在一个拟议网络的参数内部追溯了同样的分离：服务持守一份只读快照，巩固则在外环所给定并依结果加以修正的界限之下重组一份影子副本。
 
-Sleep is not a second trainer bolted onto inference. It is the same regeneration path Ontos uses for practice: residue and marks enter state S, prior-audit dissolves ossified Image lag by re-cutting the active checkpoint in place and pruning superseded scaffolding, usable specialty compounds when the signal warrants, and idle runs leave the graph unchanged. Agentic sleep can invoke full tools so learning is not starved of encounter, while wake execution never mutates practice or cortex silently in the background.
+Sleep is not a second trainer bolted onto inference. It is the same regeneration path Ontos uses for practice: residue and marks enter state S, prior-audit dissolves ossified Image lag by re-cutting the active checkpoint in place and pruning superseded scaffolding, usable specialty compounds when the signal warrants, and idle runs leave the graph unchanged. Agentic sleep can invoke full tools so learning is not starved of encounter, while wake execution never mutates practice or cortex silently in the background. A reference used to measure has to hold during the measurement—revised mid-application, the gap that registers as surprise vanishes right where it carries the most signal—so acting within the frame and re-rendering the frame occupy separate steps, the same separation [Learned Boundaries and the Given Rate](../learned-boundaries-and-the-given-rate/) traces inside the parameters of a proposed network when serving holds a read-only snapshot and consolidation reorganizes a shadow copy under bounds the outer loop gives and refines by results.
 
 正如[超越投射](../beyond-the-projection/)所追溯的，这一活的外部皮层之所以能扩展至多智能体执行与睡眠巩固，在于它尊重受制于轨迹的智能体与活的人类心智之间的结构性非对称。由于智能体是毫无我执的有限投射引擎，调度器可以将超载的投射拆分到正交的分流上，并为每个主任务智能体配对一个无会话历史偏见的全新冷启动同侪，对照共享的根部先验审计其输出。局部盲区通过无我执的贝叶斯更新自动收敛，而任何不可约的前提死锁——即两个正交维度被压缩进同一条规则之处——则被隔离并上交人类统御者；唯有他持有未投射的极限分辨率感知，能够后退一步综合出更高阶的前提，再由睡眠将概括性的更新写回图谱。
 
