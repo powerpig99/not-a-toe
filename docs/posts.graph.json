@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-31T14:21:29.045Z",
+    "generated_at": "2026-10-31T16:02:22.564Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -15,6 +15,7 @@
       "content/posts/abstract-pain-and-living-hunger.md": "c3854a0f8e24",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "bab69d7970fb",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "5928998f445d",
+      "content/posts/agency-and-the-pattern.md": "cd13d85a13ab",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "efeb328b4af9",
       "content/posts/agency-does-not-arise.md": "2064c3c57645",
       "content/posts/agency-relocated-into-the-formal-model.md": "623e5bff2d49",
@@ -426,10 +427,10 @@
       "content/book/causality.md": "51d6cd58236e",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "a72ce5a8e027",
+      "content/book/index-of-premises.md": "d85ac75ac2b2",
       "content/book/intelligence.md": "562728811be2",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
-      "content/book/life-and-statistics.md": "0caf97231862",
+      "content/book/life-and-statistics.md": "fdd0ff7d143a",
       "content/book/mathematics.md": "8f6d273c0db8",
       "content/book/meaning-and-transcendence.md": "872032a1b2e9",
       "content/book/method.md": "fa3cff406c60",
@@ -441,30 +442,30 @@
       "content/book/tools-and-progress.md": "09f19b0967d0"
     },
     "stats": {
-      "posts": 415,
-      "edges": 12286,
-      "unique_directed": 6042,
+      "posts": 416,
+      "edges": 12328,
+      "unique_directed": 6063,
       "missing_targets": 0,
-      "one_way": 1132,
+      "one_way": 1153,
       "isolated": 0,
-      "posts_with_outbound": 415,
+      "posts_with_outbound": 416,
       "book_pages": 16,
-      "book_edges": 1196,
-      "posts_reached_by_book": 415
+      "book_edges": 1201,
+      "posts_reached_by_book": 416
     }
   },
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 404
+      "in_degree": 405
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 208
+      "in_degree": 209
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 107
+      "in_degree": 108
     },
     {
       "slug": "openness-is-consistency",
@@ -480,7 +481,7 @@
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "in_degree": 68
+      "in_degree": 69
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -488,7 +489,7 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "in_degree": 54
+      "in_degree": 55
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -496,11 +497,11 @@
     },
     {
       "slug": "causality-stays-at-the-edge-that-steers",
-      "in_degree": 42
+      "in_degree": 43
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
-      "in_degree": 41
+      "in_degree": 42
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
@@ -511,11 +512,11 @@
       "in_degree": 39
     },
     {
-      "slug": "production-consumption-and-the-minds-distinction",
-      "in_degree": 38
+      "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "in_degree": 39
     },
     {
-      "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "slug": "production-consumption-and-the-minds-distinction",
       "in_degree": 38
     },
     {
@@ -803,6 +804,39 @@
       ]
     },
     {
+      "id": "post:agency-and-the-pattern",
+      "kind": "post",
+      "slug": "agency-and-the-pattern",
+      "path": "content/posts/agency-and-the-pattern.md",
+      "title": "能动性与模式 / Agency and the Pattern",
+      "hash": "cd13d85a13ab",
+      "in_degree": 0,
+      "out_degree": 21,
+      "links_out": [
+        "silicon-oracles-and-the-asymmetry-of-consequence",
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "studying-the-effect-of-ai-relocates-causality",
+        "the-comparison-that-relocates-the-cause",
+        "the-causal-overstep-of-observation-and-the-first-person-surplus",
+        "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+        "the-average-is-residue-not-the-engine",
+        "the-mind-that-statistics-cannot-reveal",
+        "the-model-never-becomes-a-second-edge",
+        "agency-relocated-into-the-formal-model",
+        "causality-stays-at-the-edge-that-steers",
+        "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+        "guidance-is-not-ownership",
+        "the-power-law-of-surrendered-agency",
+        "ownership-and-self-worthiness",
+        "the-allocation-of-causal-power-in-validation",
+        "the-reversal-from-defensible-claim-to-dogma",
+        "expertise-as-reference-not-replacement",
+        "beyond-the-projection",
+        "your-codebase-is-memory",
+        "individual-choices-as-the-only-causal-levers"
+      ]
+    },
+    {
       "id": "post:agency-compounding-and-the-argument-over-ai-feudalism",
       "kind": "post",
       "slug": "agency-compounding-and-the-argument-over-ai-feudalism",
@@ -870,7 +904,7 @@
       "path": "content/posts/agency-relocated-into-the-formal-model.md",
       "title": "能动性被转置入形式模型 / Agency Relocated into the Formal Model",
       "hash": "623e5bff2d49",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 13,
       "links_out": [
         "liberation-rhetoric-begins-by-defining-captivity",
@@ -1120,7 +1154,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "91de8b16eeb5",
-      "in_degree": 208,
+      "in_degree": 209,
       "out_degree": 19,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1304,7 +1338,7 @@
       "path": "content/posts/causality-stays-at-the-edge-that-steers.md",
       "title": "因果停留在掌舵的边缘 / Causality Stays at the Edge That Steers",
       "hash": "6705615f135b",
-      "in_degree": 42,
+      "in_degree": 43,
       "out_degree": 40,
       "links_out": [
         "what-always-listens-cannot-originate",
@@ -2483,7 +2517,7 @@
       "path": "content/posts/expertise-as-reference-not-replacement.md",
       "title": "专家经验作为参考而非替代 / Expertise as Reference, Not Replacement",
       "hash": "4b345c6adb7c",
-      "in_degree": 25,
+      "in_degree": 26,
       "out_degree": 31,
       "links_out": [
         "the-reality-distortion-field-names-the-closed-map",
@@ -2933,7 +2967,7 @@
       "path": "content/posts/guidance-is-not-ownership.md",
       "title": "引导不是占有 / Guidance Is Not Ownership",
       "hash": "86b43de57c38",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 11,
       "links_out": [
         "the-generative-atlas-of-macroscopic-phenomena",
@@ -3274,7 +3308,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers",
       "hash": "84940a6ca003",
-      "in_degree": 107,
+      "in_degree": 108,
       "out_degree": 100,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -4680,7 +4714,7 @@
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "自我价值感与所有权 / Ownership and Self-Worthiness",
       "hash": "db74f7e5f39a",
-      "in_degree": 54,
+      "in_degree": 55,
       "out_degree": 54,
       "links_out": [
         "the-meaning-of-life-is-in-the-drafting",
@@ -5677,7 +5711,7 @@
       "path": "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md",
       "title": "硅基神谕与后果的非对称性 / Silicon Oracles and the Asymmetry of Consequence",
       "hash": "6e6001066898",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 11,
       "links_out": [
         "your-codebase-is-memory",
@@ -5821,7 +5855,7 @@
       "path": "content/posts/studying-the-effect-of-ai-relocates-causality.md",
       "title": "研究AI效应重置了因果原点 / Studying the Effect of AI Relocates Causality",
       "hash": "48fed4ebc465",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 9,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -6053,7 +6087,7 @@
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "验证中因果权能的分配 / The Allocation of Causal Power in Validation",
       "hash": "0c38e61f52ed",
-      "in_degree": 41,
+      "in_degree": 42,
       "out_degree": 42,
       "links_out": [
         "the-reality-distortion-field-names-the-closed-map",
@@ -6192,7 +6226,7 @@
       "path": "content/posts/the-average-is-residue-not-the-engine.md",
       "title": "平均值是残余，不是引擎 / The Average Is Residue, Not the Engine",
       "hash": "34067840e9fc",
-      "in_degree": 24,
+      "in_degree": 25,
       "out_degree": 24,
       "links_out": [
         "the-rational-choice-postulate-is-the-original-sin",
@@ -6614,7 +6648,7 @@
       "path": "content/posts/the-causal-overstep-of-observation-and-the-first-person-surplus.md",
       "title": "观察的因果僭越与第一人称的收益差 / The Causal Overstep of Observation and the First-Person Surplus",
       "hash": "267d7cf557d7",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 10,
       "links_out": [
         "the-average-is-residue-not-the-engine",
@@ -6775,7 +6809,7 @@
       "path": "content/posts/the-comparison-that-relocates-the-cause.md",
       "title": "转移原因的比较 / The Comparison That Relocates the Cause",
       "hash": "645a2a0c87de",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 14,
       "links_out": [
         "handing-off-residue",
@@ -6952,7 +6986,7 @@
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences",
       "hash": "64e116ab1993",
-      "in_degree": 38,
+      "in_degree": 39,
       "out_degree": 32,
       "links_out": [
         "the-summary-first-reversal-and-the-command-of-yields",
@@ -8171,7 +8205,7 @@
       "path": "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md",
       "title": "框架的倒置与驾驶位的主权非对称 / The Inversion of the Harness and the Sovereignty of the Driver's Seat",
       "hash": "a9573a7170ba",
-      "in_degree": 21,
+      "in_degree": 22,
       "out_degree": 18,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -8650,7 +8684,7 @@
       "path": "content/posts/the-mind-that-statistics-cannot-reveal.md",
       "title": "统计学无法揭示的心智 / The Mind That Statistics Cannot Reveal",
       "hash": "db7cf6705972",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 9,
       "links_out": [
         "the-average-is-residue-not-the-engine",
@@ -8770,7 +8804,7 @@
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge",
       "hash": "264a5faea1fd",
-      "in_degree": 68,
+      "in_degree": 69,
       "out_degree": 49,
       "links_out": [
         "your-codebase-is-memory",
@@ -9251,7 +9285,7 @@
       "path": "content/posts/the-power-law-of-surrendered-agency.md",
       "title": "让渡主权的幂律法则 / The Power-Law of Surrendered Agency",
       "hash": "4a2576b3519f",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 4,
       "links_out": [
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
@@ -9633,7 +9667,7 @@
       "path": "content/posts/the-reversal-from-defensible-claim-to-dogma.md",
       "title": "从可辩护的主张到教条的反转 / The Reversal from Defensible Claim to Dogma",
       "hash": "d01da8bea0d7",
-      "in_degree": 19,
+      "in_degree": 20,
       "out_degree": 21,
       "links_out": [
         "expertise-as-reference-not-replacement",
@@ -10362,7 +10396,7 @@
       "path": "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md",
       "title": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation",
       "hash": "065bbf648c6e",
-      "in_degree": 20,
+      "in_degree": 21,
       "out_degree": 21,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -11465,7 +11499,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "bfafaf10983f",
-      "in_degree": 404,
+      "in_degree": 405,
       "out_degree": 11,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -13023,6 +13057,258 @@
       "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "rel": "points_to",
       "label": "On Closed Systems, Open Minds, and the Limits of Proof"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "rel": "points_to",
+      "label": "硅基神谕与后果的非对称性"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的移交与后果的不可让渡"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "studying-the-effect-of-ai-relocates-causality",
+      "rel": "points_to",
+      "label": "研究AI效应重置了因果原点"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "the-comparison-that-relocates-the-cause",
+      "rel": "points_to",
+      "label": "转移原因的比较"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "rel": "points_to",
+      "label": "Silicon Oracles and the Asymmetry of Consequence"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "studying-the-effect-of-ai-relocates-causality",
+      "rel": "points_to",
+      "label": "Studying the Effect of AI Relocates Causality"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "the-comparison-that-relocates-the-cause",
+      "rel": "points_to",
+      "label": "The Comparison That Relocates the Cause"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "the-causal-overstep-of-observation-and-the-first-person-surplus",
+      "rel": "points_to",
+      "label": "观察的因果僭越与第一人称的收益差"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "主权抉择的双面性与观察的客体化"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "平均值是残余，不是引擎"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "the-mind-that-statistics-cannot-reveal",
+      "rel": "points_to",
+      "label": "统计学无法揭示的心智"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "the-causal-overstep-of-observation-and-the-first-person-surplus",
+      "rel": "points_to",
+      "label": "The Causal Overstep of Observation and the First-Person Surplus"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "The Average Is Residue, Not the Engine"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "the-mind-that-statistics-cannot-reveal",
+      "rel": "points_to",
+      "label": "The Mind That Statistics Cannot Reveal"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "agency-relocated-into-the-formal-model",
+      "rel": "points_to",
+      "label": "能动性被转置入形式模型"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "agency-relocated-into-the-formal-model",
+      "rel": "points_to",
+      "label": "Agency Relocated into the Formal Model"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "因果停留在掌舵的边缘"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "框架的倒置与驾驶位的主权非对称"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "guidance-is-not-ownership",
+      "rel": "points_to",
+      "label": "引导不是占有"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "the-power-law-of-surrendered-agency",
+      "rel": "points_to",
+      "label": "让渡主权的幂律法则"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality Stays at the Edge That Steers"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "The Inversion of the Harness and the Sovereignty of the Driver's Seat"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "guidance-is-not-ownership",
+      "rel": "points_to",
+      "label": "Guidance Is Not Ownership"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "the-power-law-of-surrendered-agency",
+      "rel": "points_to",
+      "label": "The Power-Law of Surrendered Agency"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "验证中因果权能的分配"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "the-reversal-from-defensible-claim-to-dogma",
+      "rel": "points_to",
+      "label": "从可辩护的主张到教条的反转"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "the-reversal-from-defensible-claim-to-dogma",
+      "rel": "points_to",
+      "label": "The Reversal from Defensible Claim to Dogma"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "专家经验作为参考而非替代"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "Expertise as Reference, Not Replacement"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "agency-and-the-pattern",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
     },
     {
       "from": "agency-compounding-and-the-argument-over-ai-feudalism",
@@ -85396,8 +85682,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "a72ce5a8e027",
-        "out_degree": 415
+        "hash": "d85ac75ac2b2",
+        "out_degree": 416
       },
       {
         "id": "book:intelligence",
@@ -85423,8 +85709,8 @@
         "slug": "life-and-statistics",
         "path": "content/book/life-and-statistics.md",
         "title": "生命演化与统计表象 / Living Evolution and Statistical Shadows",
-        "hash": "0caf97231862",
-        "out_degree": 10
+        "hash": "fdd0ff7d143a",
+        "out_degree": 11
       },
       {
         "id": "book:mathematics",
@@ -87989,6 +88275,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "agency-and-the-pattern",
+        "rel": "collects",
+        "label": "能动性与模式 / Agency and the Pattern"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "ai-as-augmentation",
         "rel": "collects",
         "label": "AI 作为增强 / AI as Augmentation"
@@ -88808,6 +89100,12 @@
         "to": "the-density-of-judgment",
         "rel": "collects",
         "label": "判断的密度 / The Density of Judgment"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "agency-and-the-pattern",
+        "rel": "collects",
+        "label": "能动性与模式 / Agency and the Pattern"
       },
       {
         "from": "book:index-of-premises",
@@ -89957,6 +90255,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "agency-and-the-pattern",
+        "rel": "collects",
+        "label": "能动性与模式 / Agency and the Pattern"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-average-is-residue-not-the-engine",
         "rel": "collects",
         "label": "平均值是残余，不是引擎 / The Average Is Residue, Not the Engine"
@@ -89966,6 +90270,12 @@
         "to": "causality-stays-at-the-edge-that-steers",
         "rel": "collects",
         "label": "因果停留在掌舵的边缘 / Causality Stays at the Edge That Steers"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "agency-and-the-pattern",
+        "rel": "collects",
+        "label": "能动性与模式 / Agency and the Pattern"
       },
       {
         "from": "book:index-of-premises",
@@ -91346,6 +91656,12 @@
         "to": "the-causal-overstep-of-observation-and-the-first-person-surplus",
         "rel": "collects",
         "label": "观察的因果僭越与第一人称的收益差 / The Causal Overstep of Observation and the First-Person Surplus"
+      },
+      {
+        "from": "book:life-and-statistics",
+        "to": "agency-and-the-pattern",
+        "rel": "collects",
+        "label": "能动性与模式 / Agency and the Pattern"
       },
       {
         "from": "book:mathematics",

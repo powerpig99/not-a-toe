@@ -22,3 +22,4 @@ The essays in this part examine the generative link between Gaussian and power-l
 - [引导不是占有 / Guidance Is Not Ownership](../../posts/guidance-is-not-ownership/)
 - [规程的倒置与因果回路的消声 / The Inversion of the Protocol and the Silencing of the Causal Loop](../../posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/)
 - [观察的因果僭越与第一人称的收益差 / The Causal Overstep of Observation and the First-Person Surplus](../../posts/the-causal-overstep-of-observation-and-the-first-person-surplus/)
+- [能动性与模式 / Agency and the Pattern](../../posts/agency-and-the-pattern/)

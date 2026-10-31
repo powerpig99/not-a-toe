@@ -1954,6 +1954,15 @@ The claim presumes diseases form a finite list awaiting coverage, which is of us
 
 → [恶是封闭的善 / Evil Is Closed Good](../../posts/e-shi-feng-bi-de-shan/)
 
+### AI 削权 / AI Disempowerment
+`技术 / Technological`
+
+假定委托出去的决策一旦向模型的先验偏移，能动性便从使用者转到了模型身上；用来衡量代理的框架有多频繁地在来源未被具名时被采纳，它有用；它的边界在于把这份采纳记录写成了替人拍板的决断者，而选择与后果仍留在签字的人手中。
+
+Presumes that when delegated decisions shift toward a model's priors, agency has moved from the user to the model; useful as a measure of how often an agent's framing is taken up while its source goes unnamed, it reaches its boundary where it writes that record of taking-up as the decider settling the choice, while the choice and its consequences remain with the person who signs off.
+
+→ [能动性与模式 / Agency and the Pattern](../../posts/agency-and-the-pattern/)
+
 ### AI岗位替代谬误 / AI Job Replacement Fallacy
 `意识形态 / Ideological`
 
@@ -3032,7 +3041,7 @@ The narrative presumes immigration is a single positive force explaining America
 
 Presumes that delegating a task to an automated system also transfers the consequences of its outcome; useful for contract mechanics and the division of labor, it reaches its boundary where outcomes hold invariant across centers (rulings, liquidations, insolvency), which land on the principal who set the bounds.
 
-→ [任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences](../../posts/the-delegation-of-the-task-and-the-inalienability-of-consequences/) · [判断的密度 / The Density of Judgment](../../posts/the-density-of-judgment/)
+→ [任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences](../../posts/the-delegation-of-the-task-and-the-inalienability-of-consequences/) · [判断的密度 / The Density of Judgment](../../posts/the-density-of-judgment/) · [能动性与模式 / Agency and the Pattern](../../posts/agency-and-the-pattern/)
 
 ### 激励机制设计 / Incentive Design
 `经济 / Economic`
@@ -4490,7 +4499,7 @@ Software engineering assumes comprehensive specs can fully define system behavio
 
 Statistical aggregates compress the choices of millions of Minds into a curve or summary metric, which is of use in setting baselines, mapping environmental friction and summarizing historical frequencies; they reach their boundary in that a distribution describes what many centers have done and authors no center's next step, so treating an average or trendline as a force pushing individuals takes the smoothed summary for the source.
 
-→ [统计学无法揭示的心智 / The Mind That Statistics Cannot Reveal](../../posts/the-mind-that-statistics-cannot-reveal/)
+→ [统计学无法揭示的心智 / The Mind That Statistics Cannot Reveal](../../posts/the-mind-that-statistics-cannot-reveal/) · [能动性与模式 / Agency and the Pattern](../../posts/agency-and-the-pattern/)
 
 ### 统计平均值作为原因 / Statistical Average as Cause
 `科学 / Scientific`
@@ -4508,7 +4517,7 @@ The average presumes a stable population whose mean stands for what drives the p
 
 Algorithmic determinism presumes automated models take over system governance; causal power stays with the living mind choosing where, when, and how to query the machine.
 
-→ [因果停留在掌舵的边缘 / Causality Stays at the Edge That Steers](../../posts/causality-stays-at-the-edge-that-steers/)
+→ [因果停留在掌舵的边缘 / Causality Stays at the Edge That Steers](../../posts/causality-stays-at-the-edge-that-steers/) · [能动性与模式 / Agency and the Pattern](../../posts/agency-and-the-pattern/)
 
 ### 史蒂芬·柯维与《第3选择》 / Stephen Covey and The 3rd Alternative
 `成功学 / Self-Help`
