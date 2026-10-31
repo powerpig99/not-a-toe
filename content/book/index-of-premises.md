@@ -398,9 +398,9 @@ Deleuze replaced static substances with dynamic difference and becoming; brillia
 ### 戈特弗里德·威廉·莱布尼茨 / Gottfried Wilhelm Leibniz
 `哲学 / Philosophical`
 
-莱布尼茨提出同一者不可分原理与不可分者同一原理，指出数值上同一的事物共享每一项性质而不留任何可区分之处，在澄清本体同一的含义时有用；它在此到了边界：数学上的相等（如 1 = 1 或 P = NP）是由外延公理与自反性引入的形式同余规则，许可在公式内部跨不同内涵呈现作替换，并不确立形式语言之外的本体同一。
+莱布尼茨提出同一者不可分原理与不可分者同一原理，指出数值上同一的事物共享每一项性质，而共享每一项性质的事物即是同一者，在澄清同一性的逻辑条件时有用；它在此到了边界：把不可分性当作脱离一切呈现的数值同一标准，预设了无处之境的视角，而在物理因果中并存的事物总在位置与历史上相异，因此算术或形式系统中的相等单元是由规则引入的均质化，用以许可跨不同呈现的替换。
 
-Leibniz formulated the indiscernibility of identicals and the identity of indiscernibles, holding that numerically identical things share every property and leave nothing by which to distinguish them, which is of use in clarifying what ontological identity means; it reaches its boundary in that mathematical equality (such as 1 = 1 or P = NP) is a formal congruence rule introduced by extensionality and reflexivity that licenses substitution across distinct intensional presentations inside formulas without establishing ontological sameness outside the formal language.
+Leibniz formulated the indiscernibility of identicals and the identity of indiscernibles, holding that numerically identical things share every property and that things sharing every property are one and the same, which is of use in clarifying the logical conditions of identity; it reaches its boundary in that treating indiscernibility as a standard of numerical sameness outside every presentation presupposes a view from nowhere, whereas in physical causality coexisting items always differ in position and history, so that equal units in arithmetic or formal systems are a homogenization introduced by rule to license substitution across distinct presentations.
 
 → [工具的幻觉与时间的倒置 / The Illusion of the Tool and the Inversion of Time](../../posts/the-illusion-of-the-tool-and-the-inversion-of-time/) · [论关于 P 与 NP 所能言说的边界 / On the Boundaries of What Can Be Said about P and NP](../../posts/on-the-boundaries-of-what-can-be-said-about-p-and-np/)
 
@@ -3757,9 +3757,9 @@ Hailing a Phase 3 readout as hope arriving overnight is of use in making a thres
 ### P 与 NP 问题 / The P versus NP Problem
 `数学 / Mathematical`
 
-P 与 NP 问题追问每一个可由非确定性多项式时间图灵机接受的语言是否也可由确定性多项式时间图灵机接受，在给定公理系统内部组织归约与可解性边界时有用；它在此到了边界：数学上的相等只是许可在公式内跨不同内涵呈现作替换的形式同余规则，并非本体同一，而在形式独立性之外断言两个类在唯一“标准模型”中重合或分立，则需要一项越过公理所能证明之范围的数学外设定。
+P 与 NP 问题追问每一个可由非确定性多项式时间图灵机接受的语言是否也可由确定性多项式时间图灵机接受，在既定公理系统内部组织归约与易解性界限时有用；它在此到了边界：数学上的相等是由规则引入的同余关系，许可在公式内部于不同内涵呈现之间作替换，而在所选公理所判定的范围之外（或倘若该问题在形式上独立于这些公理），无论断言两个类在唯一的“标准模型”中重合或分立，在形式证明之外斥该问题为无意义，还是断言两个方向永远无法被推导，都需要心智越过形式装置，自行作出并承担一项形式外的元理论承诺。
 
-The P versus NP problem asks whether every language accepted by a nondeterministic polynomial-time Turing machine is also accepted by a deterministic one, which is of use in organizing reductions and tractability bounds inside a stipulated axiomatic system; it reaches its boundary in that mathematical equality is a formal congruence rule licensing substitution across distinct intensional presentations rather than ontological identity, and asserting that the classes coincide or diverge in a unique "standard model" beyond formal independence requires an extra-mathematical posit past what the axioms license.
+The P versus NP problem asks whether every language accepted by a nondeterministic polynomial-time Turing machine is also accepted by a deterministic one, which is of use in organizing reductions and tractability bounds inside a stipulated axiomatic system; it reaches its boundary in that mathematical equality is a rule-introduced congruence licensing substitution across distinct intensional presentations inside formulas, and beyond what the chosen axioms decide (or if the question is formally independent of them), asserting that the classes coincide or diverge in a unique "standard model," dismissing the question as meaningless outside formal proof, or staking a thesis of permanent underivability requires a Mind to step past the formal apparatus and bear an extra-formal metatheoretic commitment of its own.
 
 → [论关于 P 与 NP 所能言说的边界 / On the Boundaries of What Can Be Said about P and NP](../../posts/on-the-boundaries-of-what-can-be-said-about-p-and-np/)
 
