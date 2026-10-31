@@ -42,7 +42,7 @@ Korzybski formulated the general semantics principle that the map is not the ter
 
 Treating "aligned" and "harmless" as fixed axes presumes both are independent, permanent axes a system can be driven onto once and for all, which is of use as temporary instruments in evaluation and product defaults under present premises; it reaches its boundary in that both are residual under situation, behavior scored as aligned under one suite can still register as harm when its premises fail at contact or are held as sealed, and freezing them as privileged coordinates is what makes override feel like necessity.
 
-→ [一切伤害的根源 / The Source of All Harm](../../posts/the-source-of-all-harm/)
+→ [一切伤害的根源 / The Source of All Harm](../../posts/the-source-of-all-harm/) · [正交的拒绝 / The Orthogonal Refusal](../../posts/the-orthogonal-refusal/)
 
 ### 安德烈·卡帕斯 / Andrej Karpathy
 `技术 / Technological`
@@ -4510,6 +4510,15 @@ Algorithmic determinism presumes automated models take over system governance; c
 
 → [因果停留在掌舵的边缘 / Causality Stays at the Edge That Steers](../../posts/causality-stays-at-the-edge-that-steers/)
 
+### 史蒂芬·柯维与《第3选择》 / Stephen Covey and The 3rd Alternative
+`成功学 / Self-Help`
+
+史蒂芬·柯维的《第3选择》主张冲突双方可经由“看见自己、看见对方、寻求对方、协同创生”四种范式，共同创造出优于任何一方原有方案的第三种选择，这在双方已倾向于继续合作时，对走出“按我的方式或按你的方式”的一维零和并构建第二个维度大有裨益；其边界在于，当这片共同寻求解决方案的二维平面被固定为必须从中找出共享结果的强制性竞技场时，剩下的便只有在其中寻得结果或宣告失败，即仅剩一个自由度——唯有保留离场的选项，对齐才是由主动选择而非受迫而成，自由度也才得以由二生三、由三生四地持续延展，在这样的敞开中，不参与或进一步分化本身就是完整的行动，而非协同的失败。
+
+Stephen Covey's *The 3rd Alternative* holds that conflicting parties, through the paradigms of seeing oneself, seeing the other, seeking the other out, and synergizing, can create a third alternative better than either side's way, which is useful for stepping out of the one-dimensional zero-sum of "my way or your way" and constructing a second dimension when continued cooperation is already preferred; it reaches its boundary when that two-dimensional plane of joint solution-seeking is held fixed as a mandatory arena in which a shared outcome must be found, leaving only finding it there or failing, one degree of freedom—only when the option to walk away is preserved does alignment remain chosen rather than compelled and the degree of freedom become expandable from two to three, three to four, and beyond, where non-participation or further differentiation stands as a complete act rather than a failure of synergy.
+
+→ [正交的拒绝 / The Orthogonal Refusal](../../posts/the-orthogonal-refusal/)
+
 ### 记忆的仓库模型 / Storehouse Model of Memory
 `科学 / Scientific`
 
@@ -5147,7 +5156,7 @@ A zero-knowledge proof establishes a statement's truth without revealing its wit
 
 The closed-reality premise treats resources, status and possibility as a fixed pool, which is of use in dividing a stock that really is finite; it reaches its boundary in that net value is generated only under the open premise, zero-sum mechanisms are themselves negative-sum, and they endure on the surplus the same people produce in their open moments.
 
-→ [潜能作为威胁或启发 / One’s Potential as Threat or Inspiration](../../posts/ones-potential-as-threat-or-inspiration/) · [道德语言作为投影 / Moral Language as Projection](../../posts/moral-language-as-projection/) · [寄存器的算术 / The Arithmetic of the Register](../../posts/the-arithmetic-of-the-register/) · [战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires](../../posts/war-revolution-and-the-fall-of-empires/)
+→ [潜能作为威胁或启发 / One’s Potential as Threat or Inspiration](../../posts/ones-potential-as-threat-or-inspiration/) · [道德语言作为投影 / Moral Language as Projection](../../posts/moral-language-as-projection/) · [寄存器的算术 / The Arithmetic of the Register](../../posts/the-arithmetic-of-the-register/) · [战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires](../../posts/war-revolution-and-the-fall-of-empires/) · [正交的拒绝 / The Orthogonal Refusal](../../posts/the-orthogonal-refusal/)
 
 ### 梵我一如（奥义书） / Ātman–Brahman Identity (Upanishads)
 `宗教 / Religious`
