@@ -12,7 +12,7 @@ The statement that P = NP [“in that their difference is unprovable, but not in
 
 Mathematical equality is introduced by rule, not discovered as an ontological fact. In set theory the axiom of extensionality states that two sets are identical precisely when they contain exactly the same elements. Reflexivity of equality is either an axiom or an immediate consequence of the definition of the relation. When one writes 1 = 1, the expression does not report a deep sameness among mind-independent objects; it records that the formal system treats the two occurrences of the symbol as interchangeable by stripping away distinct positions and histories, the instrumental posit traced in [The Illusion of the Tool and the Inversion of Time](../the-illusion-of-the-tool-and-the-inversion-of-time/). The same holds for complexity classes. P and NP are sets of languages. Their equality means that every language accepted by a nondeterministic polynomial-time Turing machine is also accepted by a deterministic one, and conversely. Once that extensional identity is established inside a formal system, the substitution property follows: any formula true of one class is true of the other. The definitions of the classes differ in how they present their members—one quantifies over deterministic machines, the other over nondeterministic ones—and that difference is intensional. Extensional equality sets it aside for the purposes of the formal language.
 
-莱布尼茨的同一者不可分原理指出，倘若两个事物在数值上是同一个，那么其中一个的每一项性质也都是另一个的性质；其逆命题，即不可分者同一原理，则认为共享每一项性质的事物即是同一个，因此不存在两个截然不同却毫无二致的事物。在物理因果中，两次并存的出现总在位置与历史上相异；而在形式语言中，数学上的相等关系是一种同余关系，许可在公式内部于不同的内涵呈现之间作替换。把不可分性当作脱离一切呈现的数值同一标准，预设了一个位于一切系统之外的席位，仿佛人们可以脱离呈现这些类的规则去检视它们；[对象是被稳定化的关系](../objects-are-stabilized-relationships/)追溯的则是，对象显现为在因果摩擦下被稳定化的关系，而非先于交互与呈现、独立自存的实体。因此，最初的那句陈述把两个容易混为一谈的问题拆了开来：一个是所选的形式系统是否依规则推导出外延相等，另一个则是心智在形式呈现之外设定或拒绝本体同一时所作出的形式外承诺。
+莱布尼茨的同一者不可分辨原理指出，倘若两个事物在数值上是同一个，那么其中一个的每一项性质也都是另一个的性质；其逆命题，即不可分辨者同一原理，则认为共享每一项性质的事物即是同一个，因此不存在两个截然不同却毫无二致的事物。在物理因果中，两次并存的出现总在位置与历史上相异；而在形式语言中，数学上的相等关系是一种同余关系，许可在公式内部于不同的内涵呈现之间作替换。把不可分辨性当作脱离一切呈现的数值同一标准，预设了一个位于一切系统之外的席位，仿佛人们可以脱离呈现这些类的规则去检视它们；[对象是被稳定化的关系](../objects-are-stabilized-relationships/)追溯的则是，对象显现为在因果摩擦下被稳定化的关系，而非先于交互与呈现、独立自存的实体。因此，最初的那句陈述把两个容易混为一谈的问题拆了开来：一个是所选的形式系统是否依规则推导出外延相等，另一个则是心智在形式呈现之外设定或拒绝本体同一时所作出的形式外承诺。
 
 ```mermaid
 flowchart TD
@@ -25,7 +25,7 @@ flowchart TD
     end
     subgraph S_Onto["形式呈现之外的形式外承诺"]
         direction TB
-        Leib["莱布尼茨的同一性原理：跨每一项性质的不可分性，与跨不同呈现、由规则引入的同余相对"]
+        Leib["莱布尼茨的同一性原理：跨每一项性质的不可分辨性，与跨不同呈现、由规则引入的同余相对"]
         Split["拆开的两条轴线：所选公理是否依规则推导出外延相等，与在呈现之外设定或拒绝同一性的形式外承诺"]
         Leib --> Split
     end
