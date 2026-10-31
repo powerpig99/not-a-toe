@@ -16,27 +16,27 @@ Listing extreme conditions to divide people into the ordinary and the extraordin
 
 ```mermaid
 graph TD
-    subgraph S_DirectSeeing ["如实观照的高维实存空间"]
+    subgraph S_DirectSeeing_EN ["如实观照的高维实存空间"]
         direction TB
-        DS_Infinite["高维觉照状态空间（无穷自由度与差异轨迹）"] --> DS_Present["当下具身直接受力与鲜活摩擦"]
-        DS_Present --> DS_Unbound["不拘泥于特定具象的形式解脱"]
+        DSE_Infinite["高维觉照状态空间（无穷自由度与差异轨迹）"] --> DSE_Present["当下具身直接受力与鲜活摩擦"]
+        DSE_Present --> DSE_Unbound["不拘泥于特定具象的形式解脱"]
     end
-    subgraph S_FormCollapse ["标量坍缩与门槛执相闭环"]
+    subgraph S_FormCollapse_EN ["标量坍缩与门槛执相闭环"]
         direction TB
-        FC_Filter["引入普通与非凡的一维二元轴线"] --> FC_Checklist["设立苦修与脱产的门槛清单（执取为相）"]
-        FC_Checklist --> FC_Monitoring["注意力转向对照指标的自我审查"]
-        FC_Monitoring --> FC_Lock["二元对立固化且觉照受阻"]
+        FCE_Filter["引入普通与非凡的一维二元轴线"] --> FCE_Checklist["设立苦修与脱产的门槛清单（执取为相）"]
+        FCE_Checklist --> FCE_Monitoring["注意力转向对照指标的自我审查"]
+        FCE_Monitoring --> FCE_Lock["二元对立固化且觉照受阻"]
     end
-    DS_Infinite ===>|"引入门槛标尺投影"| FC_Filter
-    style S_DirectSeeing fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style S_FormCollapse fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style DS_Infinite fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style DS_Present fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style DS_Unbound fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
-    style FC_Filter fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style FC_Checklist fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style FC_Monitoring fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style FC_Lock fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    DSE_Infinite ===>|"引入门槛标尺投影"| FCE_Filter
+    style S_DirectSeeing_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_FormCollapse_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style DSE_Infinite fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style DSE_Present fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style DSE_Unbound fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
+    style FCE_Filter fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style FCE_Checklist fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style FCE_Monitoring fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style FCE_Lock fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
 ```
 
 Dynamically and geometrically, this attachment operates as a dimensional reduction and projective flattening. Unmediated reality supports a near-infinite number of causal dimensions and developmental bifurcations, where each living mind traces a unique phase-space trajectory shaped by moment-to-moment attention, environmental friction, perceptual calibration, and reflective depth. Yet the gatekeeping doctrine crushes this rich, high-dimensional phase space down to a single axis: the stretch gathered around its mean is labeled ordinary, the far tail on one side extraordinary, the far tail on the other its opposite, and awakening is assigned to the extraordinary end. Once this compressed coordinate system is accepted as the unquestioned background frame, further inquiry ceases to engage with lived friction; instead, it degenerates into defensive scorekeeping along the newly imposed axis. Refusing to grant primacy to this reduced coordinate frame does not mean asserting that every life is already an exceptional realization; it means piercing the artificiality of the ruler, refusing to let an impoverished binary filter monopolize the horizon of awareness. As demonstrated in [The Mind as Vector and Coordinate System](../the-mind-as-vector-and-coordinate-system/) and [The Explanatory Trap of the "Ordinary Perspective"](../the-explanatory-trap-of-the-ordinary-perspective/), forcing multidimensional unfolding onto a one-dimensional scalar ranking erases multidimensional divergence and elevates an observer's localized metric into the immutable geometry of the cosmos.
@@ -72,36 +72,36 @@ graph TD
 
 This reduction also manifests clearly in statistical observations across populations. When examining an aggregate collection of lives, most individuals naturally cluster near the mean along whatever dimension is measured—be it discretionary leisure time, intensity of self-interrogation, or the depth of inward exploration. That clustering is a statistical property of observing an aggregate distribution from a macroscopic perspective; it characterizes the collective sample ex post, rather than exerting a physical constraint upon any concrete individual agent. Extraordinary outcomes and penetrating awareness remain available to embodied agents precisely because the mean describes the aggregate after paths have unfolded; it possesses zero legislative power over the choice a specific mind will make in the very next moment. Treating the observed mean as an upstream constraint conflates the scale of collective description with the scale of individual action.
 
-这一混淆构成了因果倒置。结果的统计分布是个体选择所产生的下游产物，门槛论却将这一结果倒置为上游原因。当前满足所列条件者的观测稀缺性，被当作普通生活被剥夺达标可能的证据。稀缺性进而被用来解释稀缺性本身。那些改变个体轨迹的选择——保留探询的时间、将既有假设视作可修正的前提、在日常经验中保持觉察——不再被视为决定未来分布的输入，而被当作早已被均值排除的选项。正如[宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相](../the-summary-first-reversal-and-the-command-of-yields/)所示，将下游汇总指标当作上游约束，忽视了个体的因果能动性。
+这一混淆构成了因果倒置。结果的统计分布是个体选择所产生的下游产物，门槛论却将这一结果倒置为上游原因。当前满足所列条件者的观测稀缺性，被当作普通生活被剥夺达标可能的证据。稀缺性进而被用来解释稀缺性本身。那些改变个体轨迹的选择——保留探询的时间、将既有假设视作可修正的前提、在日常经验中保持觉察——不再被视为决定未来分布的输入，而被当作早已被均值排除的选项。正如[宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相](../the-summary-first-reversal-and-the-command-of-yields/)所示，将下游汇总指标当作上游约束，忽视了个体的因果能动性。在第一人称的边际上，正如[能动性、矛盾与权力的移置](../agency-contradiction-and-the-relocation-of-power/)所追溯的，若隐去自己一直在回绝这些选择所附的局部代价，权力便会被向外移置到“普通人”这一处境之上；而将这一回绝及其所产生的限制登记为同一项活动，便放下了对外部门槛的索求，使那些代价从无法另作他选的理由重新变为附着于紧接的下一步之上的标价。
 
 ```mermaid
 graph TD
-    subgraph S_TrueCausality ["微观先验因果与统计涌现"]
+    subgraph S_TrueCausality_EN ["微观先验因果与统计涌现"]
         direction TB
-        TC_Choice["微观个体自由抉择（调配注意与质询先验）"] --> TC_Traj["具身行动轨迹自主分化展开"]
-        TC_Traj --> TC_Macro["宏观群体大数聚合（正态分布与长尾显现）"]
-        TC_Macro --> TC_StatDesc["统计均值与稀缺性（仅为后验描述特征）"]
+        TCE_Choice["微观个体自由抉择（调配注意与质询先验）"] --> TCE_Traj["具身行动轨迹自主分化展开"]
+        TCE_Traj --> TCE_Macro["宏观群体大数聚合（正态分布与长尾显现）"]
+        TCE_Macro --> TCE_StatDesc["统计均值与稀缺性（仅为后验描述特征）"]
     end
-    subgraph S_InvertedIllusion ["因果倒置与闭环结构"]
+    subgraph S_InvertedIllusion_EN ["因果倒置与闭环结构"]
         direction TB
-        II_Scarcity["观察到长尾处极端条件的稀缺分布"] --> II_Inversion["将下游统计结果倒置为先验限制"]
-        II_Inversion --> II_Preclude["判定普通生活无法通向觉醒"]
-        II_Preclude --> II_Paralysis["用稀缺解释稀缺导致微观行动被忽略"]
+        IIE_Scarcity["观察到长尾处极端条件的稀缺分布"] --> IIE_Inversion["将下游统计结果倒置为先验限制"]
+        IIE_Inversion --> IIE_Preclude["判定普通生活无法通向觉醒"]
+        IIE_Preclude --> IIE_Paralysis["用稀缺解释稀缺导致微观行动被忽略"]
     end
-    TC_StatDesc ===>|"倒置因果链条"| II_Scarcity
-    style S_TrueCausality fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style S_InvertedIllusion fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style TC_Choice fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
-    style TC_Traj fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style TC_Macro fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style TC_StatDesc fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style II_Scarcity fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
-    style II_Inversion fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style II_Preclude fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style II_Paralysis fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    TCE_StatDesc ===>|"倒置因果链条"| IIE_Scarcity
+    style S_TrueCausality_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_InvertedIllusion_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style TCE_Choice fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
+    style TCE_Traj fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style TCE_Macro fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style TCE_StatDesc fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style IIE_Scarcity fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style IIE_Inversion fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
+    style IIE_Preclude fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style IIE_Paralysis fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f85149
 ```
 
-This confusion constitutes a causal reversal. The distribution of outcomes is a downstream result produced by individual choices; the gatekeeping thesis inverts this result into an upstream cause. The observed scarcity of people who currently meet the listed conditions is taken as evidence that ordinary lives are barred from meeting them. Scarcity then explains scarcity. Choices that alter individual trajectories—protecting periods of inquiry, treating assumptions as revisable, maintaining attention within daily life—are no longer treated as inputs determining future distributions, but as options already ruled out by the mean. As shown in [Macro Parameters, Micro Choices, and the Command of Yields](../the-summary-first-reversal-and-the-command-of-yields/), treating downstream summary metrics as upstream constraints overlooks individual causal agency.
+This confusion constitutes a causal reversal. The distribution of outcomes is a downstream result produced by individual choices; the gatekeeping thesis inverts this result into an upstream cause. The observed scarcity of people who currently meet the listed conditions is taken as evidence that ordinary lives are barred from meeting them. Scarcity then explains scarcity. Choices that alter individual trajectories—protecting periods of inquiry, treating assumptions as revisable, maintaining attention within daily life—are no longer treated as inputs determining future distributions, but as options already ruled out by the mean. As shown in [Macro Parameters, Micro Choices, and the Command of Yields](../the-summary-first-reversal-and-the-command-of-yields/), treating downstream summary metrics as upstream constraints overlooks individual causal agency. At the first-person margin, as [Agency, Contradiction, and the Relocation of Power](../agency-contradiction-and-the-relocation-of-power/) traces, omitting one's ongoing refusal of the local costs of those choices relocates power outward onto the "ordinary" condition, whereas registering that refusal and the limit it produces as one activity drops the demand for an external gate and turns those costs from reasons one cannot choose otherwise back into prices attached to the very next step.
 
 ```mermaid
 graph TD

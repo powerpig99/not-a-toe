@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-31T21:18:36.013Z",
+    "generated_at": "2026-10-31T21:45:51.660Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -73,7 +73,7 @@
       "content/posts/efficiency-without-differentiation.md": "3240d0296338",
       "content/posts/emotional-support-as-causal-interference.md": "37673ac9a9a2",
       "content/posts/empathy-as-projection-collapse.md": "5cbf1eab5d16",
-      "content/posts/empowerment-establishes-the-centralization-of-power.md": "88f2c8ef1bd8",
+      "content/posts/empowerment-establishes-the-centralization-of-power.md": "c97a16c2e44b",
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "1cb221a85738",
       "content/posts/everything-is-changing-as-always.md": "ef77f674af21",
       "content/posts/evil-as-projected-resistance.md": "d0174318bc94",
@@ -96,7 +96,7 @@
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "b3f92aa94886",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "e21403fb50ae",
       "content/posts/grok-420-framework-drift.md": "cd05db7a2c5c",
-      "content/posts/guan-yu-gui-yin.md": "b1b0d4d90b8e",
+      "content/posts/guan-yu-gui-yin.md": "1a6ebddd8eab",
       "content/posts/guidance-is-not-ownership.md": "508e8c60e3d5",
       "content/posts/handing-off-residue.md": "3661b0ddacf3",
       "content/posts/hardness-is-not-inherent-in-the-action.md": "a3edf37fad3f",
@@ -107,7 +107,7 @@
       "content/posts/help-is-half-the-problem.md": "97a704e39527",
       "content/posts/hierarchy-from-individual-difference.md": "0f3577a77027",
       "content/posts/how-belief-actually-changes.md": "e023849871b3",
-      "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "9c200c5c4e2a",
+      "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "7dae52a183f2",
       "content/posts/huberman-winners-losers.md": "52edd6aa4959",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "2740c5400321",
       "content/posts/immortality-final.md": "2bbeb6b8ed55",
@@ -165,7 +165,7 @@
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "aa49b94c3914",
       "content/posts/platform-decision-capture.md": "c1ce0036119a",
       "content/posts/po-chu-gai-nian-de-jian-yue.md": "9e0e605cb8a2",
-      "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "fecf46ad8771",
+      "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "028a28b54a32",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "dcb6aecf6e19",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "4f2725e3fcd4",
       "content/posts/precision-and-resolution.md": "79dc0ad73381",
@@ -182,7 +182,7 @@
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "a8f8212b9511",
       "content/posts/residual-control-recedes-to-the-edge.md": "3de7bf12eb33",
       "content/posts/residual-individualism.md": "ce5cf1738f1e",
-      "content/posts/restriction-is-a-selective-tax.md": "69b02c530867",
+      "content/posts/restriction-is-a-selective-tax.md": "fc908414eed9",
       "content/posts/scaffolds-or-specialized-contexts.md": "ff1d8c730144",
       "content/posts/school_essay_final.md": "f18cabb10f9c",
       "content/posts/selection-contradiction-and-open-reality.md": "74fbecb78715",
@@ -258,7 +258,7 @@
       "content/posts/the-fixed-image-of-transcendence.md": "c2123525af2c",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "d3d47cfe2abd",
       "content/posts/the-flywheel-of-the-mind.md": "869ae350efe5",
-      "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "b056b4bf7e8f",
+      "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "9c8e728ed2cb",
       "content/posts/the-frame-that-conceals-improvement.md": "e4fefad91788",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "1f120023244d",
       "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "5b3957b27316",
@@ -304,7 +304,7 @@
       "content/posts/the-local-trap-of-technological-change.md": "90573245bd77",
       "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "5dfdcb05cf02",
       "content/posts/the-loop-accelerates.md": "60608a02a0ed",
-      "content/posts/the-loop-that-cant-see-itself.md": "6dc2f348ae56",
+      "content/posts/the-loop-that-cant-see-itself.md": "b9a6ed83a832",
       "content/posts/the-maintenance-paradox.md": "1d92c151aa07",
       "content/posts/the-map-after-the-territory.md": "7c4c6f4b27cf",
       "content/posts/the-mark-and-the-act.md": "c564f60f2ed7",
@@ -319,7 +319,7 @@
       "content/posts/the-moral-reversal-and-the-scripted-subject.md": "e1ac22ffc038",
       "content/posts/the-myth-of-population-collapse-explained.md": "6b8ecefdfc0f",
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "f72287238803",
-      "content/posts/the-name-revolution-files-a-life-as-evidence.md": "992db02a5915",
+      "content/posts/the-name-revolution-files-a-life-as-evidence.md": "a5a6e8c78ea8",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "d580075b6d35",
       "content/posts/the-npc-impression-is-structural.md": "4f7bc9fb76e2",
       "content/posts/the-observational-cut-in-ai-debates.md": "4ce3e6428502",
@@ -374,7 +374,7 @@
       "content/posts/the-three-shadows-of-the-cut.md": "dddbde671cad",
       "content/posts/the-tightening-loop.md": "be324f885a2f",
       "content/posts/the-twin-paradox-and-the-hidden-observer.md": "ff11efe3625a",
-      "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "b3c56fb5bb57",
+      "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "4347b0db0c1f",
       "content/posts/the-unclosable-trace.md": "f4ad7fa5724b",
       "content/posts/the-unexamined-critic.md": "a1e150cb8eae",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "ea55420c80e9",
@@ -414,7 +414,7 @@
       "content/posts/why-mathematics-can-never-be-solved.md": "9180c098f7c8",
       "content/posts/writing-without-the-image.md": "157f6998ee85",
       "content/posts/xian-shi-de-bian-jie.md": "2c30017f1800",
-      "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "d51b19e7c154",
+      "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "54fd439c9769",
       "content/posts/you-cant-benchmark-the-fluid.md": "01847ccdd234",
       "content/posts/you-tiao-jian-de-zi-you.md": "951537534f9e",
       "content/posts/you-wu-zhi-bian.md": "44d999fe6fb0",
@@ -444,10 +444,10 @@
     },
     "stats": {
       "posts": 417,
-      "edges": 12438,
-      "unique_directed": 6118,
+      "edges": 12458,
+      "unique_directed": 6128,
       "missing_targets": 0,
-      "one_way": 1158,
+      "one_way": 1152,
       "isolated": 0,
       "posts_with_outbound": 417,
       "book_pages": 16,
@@ -879,7 +879,7 @@
       "path": "content/posts/agency-contradiction-and-the-relocation-of-power.md",
       "title": "能动性、矛盾与权力的移置 / Agency, Contradiction, and the Relocation of Power",
       "hash": "30db2f173a74",
-      "in_degree": 8,
+      "in_degree": 18,
       "out_degree": 23,
       "links_out": [
         "the-substrate-of-constraint-and-the-self-denial-of-freedom",
@@ -2398,9 +2398,9 @@
       "slug": "empowerment-establishes-the-centralization-of-power",
       "path": "content/posts/empowerment-establishes-the-centralization-of-power.md",
       "title": "赋权确立权力的集中 / Empowerment Establishes the Centralization of Power",
-      "hash": "88f2c8ef1bd8",
+      "hash": "c97a16c2e44b",
       "in_degree": 22,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
         "the-misallocation-of-agency",
@@ -2410,6 +2410,7 @@
         "mei-you-pu-du-zhi-you-zi-du",
         "liberation-rhetoric-begins-by-defining-captivity",
         "agency-relocated-into-the-formal-model",
+        "agency-contradiction-and-the-relocation-of-power",
         "individual-choices-as-the-only-causal-levers",
         "ownership-and-self-worthiness",
         "the-unfrictioned-mind-and-borrowed-omnipotence",
@@ -2987,9 +2988,9 @@
       "slug": "guan-yu-gui-yin",
       "path": "content/posts/guan-yu-gui-yin.md",
       "title": "关于归因 / On Attribution",
-      "hash": "b1b0d4d90b8e",
+      "hash": "1a6ebddd8eab",
       "in_degree": 13,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "qian-yin-hou-guo",
         "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
@@ -3000,6 +3001,7 @@
         "ownership-and-self-worthiness",
         "power-law-is-the-long-term-consequence-of-normal-distribution",
         "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+        "agency-contradiction-and-the-relocation-of-power",
         "your-codebase-is-memory",
         "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
         "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
@@ -3263,10 +3265,11 @@
       "slug": "how-to-fix-your-whole-life-in-one-split-second",
       "path": "content/posts/how-to-fix-your-whole-life-in-one-split-second.md",
       "title": "如何在一瞬间修正你的整个人生 / How to Fix Your Whole Life in One Split Second",
-      "hash": "9c200c5c4e2a",
+      "hash": "7dae52a183f2",
       "in_degree": 14,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
+        "agency-contradiction-and-the-relocation-of-power",
         "ownership-and-self-worthiness",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
         "moral-language-dilutes-the-feedback-that-scales-freedom",
@@ -4995,9 +4998,9 @@
       "slug": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "path": "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md",
       "title": "政客是责任扩散的显性症状 / Politicians Are Visible Symptoms of Responsibility Diffusion",
-      "hash": "fecf46ad8771",
+      "hash": "028a28b54a32",
       "in_degree": 19,
-      "out_degree": 18,
+      "out_degree": 19,
       "links_out": [
         "ownership-and-self-worthiness",
         "the-causal-order-of-private-residuals-and-social-surplus",
@@ -5007,6 +5010,7 @@
         "individual-choices-as-the-only-causal-levers",
         "public-spending-does-not-create-capital",
         "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+        "agency-contradiction-and-the-relocation-of-power",
         "sowell-observed-the-surface-problem",
         "moral-language-dilutes-the-feedback-that-scales-freedom",
         "when-the-effect-authors-the-frame",
@@ -5483,12 +5487,13 @@
       "slug": "restriction-is-a-selective-tax",
       "path": "content/posts/restriction-is-a-selective-tax.md",
       "title": "限制是选择性的税 / Restriction Is a Selective Tax",
-      "hash": "69b02c530867",
+      "hash": "fc908414eed9",
       "in_degree": 20,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
         "hierarchy-from-individual-difference",
+        "agency-contradiction-and-the-relocation-of-power",
         "what-works-is-the-belief",
         "the-price-of-closing-optionality",
         "the-source-of-all-harm",
@@ -7530,15 +7535,16 @@
       "slug": "the-form-of-enlightenment-and-the-inversion-of-gates",
       "path": "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md",
       "title": "开悟的相与门槛的倒置 / The Form of Enlightenment and the Inversion of Gates",
-      "hash": "b056b4bf7e8f",
+      "hash": "9c8e728ed2cb",
       "in_degree": 5,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "the-fixed-image-of-transcendence",
         "mei-you-pu-du-zhi-you-zi-du",
         "the-mind-as-vector-and-coordinate-system",
         "the-explanatory-trap-of-the-ordinary-perspective",
         "the-summary-first-reversal-and-the-command-of-yields",
+        "agency-contradiction-and-the-relocation-of-power",
         "you-tiao-jian-de-zi-you",
         "freedom-as-ground",
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
@@ -8591,9 +8597,9 @@
       "slug": "the-loop-that-cant-see-itself",
       "path": "content/posts/the-loop-that-cant-see-itself.md",
       "title": "看不见自身的回路 / The Loop That Can't See Itself",
-      "hash": "6dc2f348ae56",
+      "hash": "b9a6ed83a832",
       "in_degree": 4,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "consciousness-never-appears-as-data-among-data",
@@ -8602,6 +8608,7 @@
         "agency-compounding-and-the-argument-over-ai-feudalism",
         "grok-420-framework-drift",
         "the-freedom-of-will-to-deny-itself",
+        "agency-contradiction-and-the-relocation-of-power",
         "extended-cognition-refined",
         "the-defining-seat",
         "self-image-speaks-as-if-from-nowhere",
@@ -8999,15 +9006,16 @@
       "slug": "the-name-revolution-files-a-life-as-evidence",
       "path": "content/posts/the-name-revolution-files-a-life-as-evidence.md",
       "title": "革命之名把生活收成证据 / The Name Revolution Files a Life as Evidence",
-      "hash": "992db02a5915",
+      "hash": "a5a6e8c78ea8",
       "in_degree": 11,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "the-mind-as-vector-and-coordinate-system",
         "the-moral-reversal-and-the-scripted-subject",
         "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
         "residual-individualism",
         "sovereignty-belief-and-regulatory-structures",
+        "agency-contradiction-and-the-relocation-of-power",
         "liberation-rhetoric-begins-by-defining-captivity",
         "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
@@ -10460,12 +10468,13 @@
       "slug": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "path": "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md",
       "title": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation",
-      "hash": "b3c56fb5bb57",
+      "hash": "4347b0db0c1f",
       "in_degree": 22,
-      "out_degree": 22,
+      "out_degree": 23,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+        "agency-contradiction-and-the-relocation-of-power",
         "no-outside-scorekeeper",
         "zi-you-de-ce-bu-zhun",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
@@ -11475,9 +11484,9 @@
       "slug": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
       "path": "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md",
       "title": "涌现的伪因果 / The Pseudo-Causality of Emergence",
-      "hash": "d51b19e7c154",
+      "hash": "54fd439c9769",
       "in_degree": 21,
-      "out_degree": 21,
+      "out_degree": 22,
       "links_out": [
         "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
         "the-mark-and-the-act",
@@ -11490,6 +11499,7 @@
         "the-generative-atlas-of-macroscopic-phenomena",
         "on-demand-contexts-keep-coherence-at-one-step",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
+        "agency-contradiction-and-the-relocation-of-power",
         "guidance-is-not-ownership",
         "complexity-obscures-emergence-as-the-act-of-mind",
         "agency-does-not-arise",
@@ -23904,6 +23914,12 @@
     },
     {
       "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "个体抉择是唯一的因果杠杆"
@@ -23919,6 +23935,12 @@
       "to": "the-unfrictioned-mind-and-borrowed-omnipotence",
       "rel": "points_to",
       "label": "未历摩擦的心智与借来的全能"
+    },
+    {
+      "from": "empowerment-establishes-the-centralization-of-power",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
     },
     {
       "from": "empowerment-establishes-the-centralization-of-power",
@@ -27708,6 +27730,12 @@
     },
     {
       "from": "guan-yu-gui-yin",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "guan-yu-gui-yin",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
@@ -27717,6 +27745,12 @@
       "to": "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
       "rel": "points_to",
       "label": "目的性的评判与认知的缺省状态"
+    },
+    {
+      "from": "guan-yu-gui-yin",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
     },
     {
       "from": "guan-yu-gui-yin",
@@ -29337,6 +29371,18 @@
       "to": "the-map-after-the-territory",
       "rel": "points_to",
       "label": "The Map After the Territory"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "how-to-fix-your-whole-life-in-one-split-second",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
     },
     {
       "from": "how-to-fix-your-whole-life-in-one-split-second",
@@ -42060,6 +42106,18 @@
     },
     {
       "from": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
+    },
+    {
+      "from": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "to": "sowell-observed-the-surface-problem",
       "rel": "points_to",
       "label": "索维尔的表象洞察与根因之偏"
@@ -45405,6 +45463,18 @@
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
       "label": "Hierarchy from Individual Difference"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
     },
     {
       "from": "restriction-is-a-selective-tax",
@@ -58554,9 +58624,21 @@
     },
     {
       "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
       "to": "the-summary-first-reversal-and-the-command-of-yields",
       "rel": "points_to",
       "label": "Macro Parameters, Micro Choices, and the Command of Yields"
+    },
+    {
+      "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
     },
     {
       "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
@@ -64908,6 +64990,18 @@
     },
     {
       "from": "the-loop-that-cant-see-itself",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "the-loop-that-cant-see-itself",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
+    },
+    {
+      "from": "the-loop-that-cant-see-itself",
       "to": "extended-cognition-refined",
       "rel": "points_to",
       "label": "作为认知主动延伸的工具"
@@ -67638,6 +67732,12 @@
     },
     {
       "from": "the-name-revolution-files-a-life-as-evidence",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "the-name-revolution-files-a-life-as-evidence",
       "to": "liberation-rhetoric-begins-by-defining-captivity",
       "rel": "points_to",
       "label": "解放的言辞始于定义囚禁"
@@ -67665,6 +67765,12 @@
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
       "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
+    },
+    {
+      "from": "the-name-revolution-files-a-life-as-evidence",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
     },
     {
       "from": "the-name-revolution-files-a-life-as-evidence",
@@ -77484,9 +77590,21 @@
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "to": "no-outside-scorekeeper",
       "rel": "points_to",
       "label": "没有外部记账员"
+    },
+    {
+      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
@@ -84780,6 +84898,12 @@
     },
     {
       "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
       "to": "guidance-is-not-ownership",
       "rel": "points_to",
       "label": "引导不是占有"
@@ -84795,6 +84919,12 @@
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
     },
     {
       "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",

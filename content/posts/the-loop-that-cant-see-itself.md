@@ -94,9 +94,9 @@ flowchart TD
     style R_Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-当外部归因不断重复，回路就会围绕自身的错位归因越收越紧，直到这种模式从内部体验起来像是无可逃避的缴械投降。然而回路从未停止运转，自指的能力也从未消失，它只是被自身的解释输出遮蔽了。一旦解释步骤当场捕捉到自己才是起作用的操作变量，对齐便自然发生——此时的观察留在鲜活的存在之中，而不是抽身退到外部去膜拜某种表征。
+当外部归因不断重复，每一轮归因都把约束以及解除它的权力一并置向外部，而这一归因只在自身持续进行的选择——因为接受别处划定的切分比亲手划定代价更低，便一直接受下去——被排除在账面之外时才成立；随后每一项被记录的后果都被读作印证，回路便围绕自身的错位归因越收越紧，直到这种模式从内部体验起来像是无可逃避的缴械投降，正如[能动性、矛盾与权力的移置](../agency-contradiction-and-the-relocation-of-power/)所追溯的那样。然而回路从未停止运转，自指的能力也从未消失，它只是被自身的解释输出遮蔽了。一旦解释步骤当场捕捉到自己才是起作用的操作变量，从内部将这一选择与所感受到的约束登记为同一项活动，对齐便随之发生。对外部解释的索求就此脱落，亲手划定切分的代价也从缴械投降的理由变回一个标在可见替代选项上的价格——此时的观察留在鲜活的存在之中，而不是抽身退到外部去膜拜某种表征。
 
-When external attribution repeats, the loop tightens around its own misattribution until the pattern feels like inevitable surrender from inside. Yet the loop never stopped running, and the capacity for self-reference never vanished; it was simply occluded by its own interpretive output. Alignment is what happens when the interpretation step catches itself as the operative variable—observation staying in active being rather than stepping outside to worship a representation.
+When external attribution repeats, each pass places both the constraint and the power to lift it outward, an attribution that holds only while one's own ongoing selection—the choice to keep accepting a cut drawn elsewhere because it costs less than drawing it oneself—is left out of the account; every registered consequence then reads as confirmation, and the loop tightens around its own misattribution until the pattern feels like inevitable surrender from inside, as [Agency, Contradiction, and the Relocation of Power](../agency-contradiction-and-the-relocation-of-power/) traces. Yet the loop never stopped running, and the capacity for self-reference never vanished; it was simply occluded by its own interpretive output. Alignment is what happens when the interpretation step catches itself as the operative variable, registering that selection and the felt constraint from within as one activity. The demand for an external explanation drops out, and the cost of drawing the cut oneself turns from a reason for surrender back into a price attached to a visible alternative—observation staying in active being rather than stepping outside to worship a representation.
 
 ## 四、 作为存在延伸的观察 / 4. Observation as Extension of Being
 
