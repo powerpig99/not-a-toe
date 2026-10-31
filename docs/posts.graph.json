@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-30T09:26:52.700Z",
+    "generated_at": "2026-10-31T06:30:13.818Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -85,7 +85,7 @@
       "content/posts/fate-loves-irony-refined.md": "4173eb2feff2",
       "content/posts/felt-resistance-and-the-speed-differential.md": "7c688ab6bc0e",
       "content/posts/fidelity-not-optimality.md": "75472e76cc04",
-      "content/posts/fixed-by-nothing.md": "fe6edec9d794",
+      "content/posts/fixed-by-nothing.md": "49c5a22906e4",
       "content/posts/four-night-questions.md": "6a45de787c56",
       "content/posts/freedom-as-ground.md": "f60f8121fb0f",
       "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "234ce1feb90a",
@@ -109,7 +109,7 @@
       "content/posts/huberman-winners-losers.md": "52edd6aa4959",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "2740c5400321",
       "content/posts/immortality-final.md": "2bbeb6b8ed55",
-      "content/posts/incompleteness-exhibited-twice.md": "3fe251664ccf",
+      "content/posts/incompleteness-exhibited-twice.md": "3d9138bc24b4",
       "content/posts/individual-choices-as-the-only-causal-levers.md": "76ab560e5a25",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "425497acb31b",
       "content/posts/intelligence-crisis-response.md": "cac8520aa17d",
@@ -137,23 +137,23 @@
       "content/posts/no-genius-can-solve-the-knowledge-problem.md": "2b3ff94ab2fa",
       "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "6cca4707b0cc",
       "content/posts/no-outside-scorekeeper.md": "6d9499826830",
-      "content/posts/no-system-can-be-kept-closed.md": "cb636c5e6b60",
+      "content/posts/no-system-can-be-kept-closed.md": "ee39b346f611",
       "content/posts/nobody-has-seen-anything-yet.md": "2b871aa62082",
       "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md": "9a865742b9bb",
       "content/posts/not-a-theory-of-everything.md": "41f95512b70e",
       "content/posts/not-a-toe-rewrite.md": "99150d84dc27",
       "content/posts/not-predicting-is-predicting-without-awareness.md": "750dd47f6c5b",
-      "content/posts/objects-are-stabilized-relationships.md": "897ad4fbf69a",
-      "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "47a22515d8a1",
+      "content/posts/objects-are-stabilized-relationships.md": "481efef6fd28",
+      "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "8699e204b57f",
       "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "1b95f003009a",
       "content/posts/on-education.md": "e2d0a3baebcd",
-      "content/posts/on-the-boundaries-of-what-can-be-said-about-p-and-np.md": "41b2b8649b06",
+      "content/posts/on-the-boundaries-of-what-can-be-said-about-p-and-np.md": "6e0422c55b38",
       "content/posts/one-cannot-escape-ones-own-mind.md": "474dad0e12f2",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "b68e2cc6fd51",
       "content/posts/only-if-it-is-not-kept-empty.md": "7dfb527c6b0e",
       "content/posts/ontos-is-a-method-agent.md": "fac9577215c2",
       "content/posts/open-vision-in-a-closed-arena.md": "98c32fc1001d",
-      "content/posts/openness-is-consistency.md": "75ba5238a649",
+      "content/posts/openness-is-consistency.md": "214d42e4dae1",
       "content/posts/order-surplus-and-the-moral-intercept.md": "2c05f2c13447",
       "content/posts/overfitting-as-the-follower-mode.md": "91e87126c0bd",
       "content/posts/ownership-and-self-worthiness.md": "db74f7e5f39a",
@@ -164,7 +164,7 @@
       "content/posts/platform-decision-capture.md": "c1ce0036119a",
       "content/posts/po-chu-gai-nian-de-jian-yue.md": "9e0e605cb8a2",
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "fecf46ad8771",
-      "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "924cbad19a24",
+      "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "dcb6aecf6e19",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "4f2725e3fcd4",
       "content/posts/precision-and-resolution.md": "fc4f72839c7f",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "b11dea0379ff",
@@ -280,7 +280,7 @@
       "content/posts/the-illusion-of-free-intelligence.md": "ea307666af7d",
       "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "28d2c9ecb890",
       "content/posts/the-illusion-of-the-shared-sandbox.md": "f20e733d6ceb",
-      "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "ab2963065dae",
+      "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "0c006b3780a5",
       "content/posts/the-illusion-of-the-unmediated.md": "66864d0c8594",
       "content/posts/the-imagining-of-ai-risk.md": "06a93ab32a22",
       "content/posts/the-initial-distinction.md": "597771bb1303",
@@ -408,7 +408,7 @@
       "content/posts/when-observation-becomes-performance.md": "038f9f625402",
       "content/posts/when-the-effect-authors-the-frame.md": "7ca85ec820ef",
       "content/posts/why-explanation-fails.md": "7983bb8f8771",
-      "content/posts/why-mathematics-can-never-be-solved.md": "f43a8391575b",
+      "content/posts/why-mathematics-can-never-be-solved.md": "9180c098f7c8",
       "content/posts/writing-without-the-image.md": "157f6998ee85",
       "content/posts/xian-shi-de-bian-jie.md": "2c30017f1800",
       "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "d51b19e7c154",
@@ -425,7 +425,7 @@
       "content/book/causality.md": "51d6cd58236e",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "0a49c4a82258",
+      "content/book/index-of-premises.md": "330a8dc9724b",
       "content/book/intelligence.md": "562728811be2",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "0caf97231862",
@@ -441,14 +441,14 @@
     },
     "stats": {
       "posts": 414,
-      "edges": 12132,
-      "unique_directed": 5965,
+      "edges": 12140,
+      "unique_directed": 5969,
       "missing_targets": 0,
-      "one_way": 1151,
+      "one_way": 1147,
       "isolated": 0,
       "posts_with_outbound": 414,
       "book_pages": 16,
-      "book_edges": 1191,
+      "book_edges": 1193,
       "posts_reached_by_book": 414
     }
   },
@@ -553,7 +553,7 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "out_degree": 60
+      "out_degree": 61
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -2676,7 +2676,7 @@
       "slug": "fixed-by-nothing",
       "path": "content/posts/fixed-by-nothing.md",
       "title": "没有固定者的固定 / Fixed by Nothing",
-      "hash": "fe6edec9d794",
+      "hash": "49c5a22906e4",
       "in_degree": 11,
       "out_degree": 11,
       "links_out": [
@@ -3239,7 +3239,7 @@
       "slug": "incompleteness-exhibited-twice",
       "path": "content/posts/incompleteness-exhibited-twice.md",
       "title": "两度显现的不完备性 / Incompleteness Exhibited Twice",
-      "hash": "3fe251664ccf",
+      "hash": "3d9138bc24b4",
       "in_degree": 1,
       "out_degree": 7,
       "links_out": [
@@ -4096,9 +4096,9 @@
       "slug": "no-system-can-be-kept-closed",
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "没有系统能被保持封闭 / No System Can Be Kept Closed",
-      "hash": "cb636c5e6b60",
+      "hash": "ee39b346f611",
       "in_degree": 65,
-      "out_degree": 60,
+      "out_degree": 61,
       "links_out": [
         "openness-is-consistency",
         "what-works-is-the-belief",
@@ -4115,6 +4115,7 @@
         "the-generative-atlas-of-macroscopic-phenomena",
         "reality-is-the-minds-ongoing-realization",
         "stability-and-excess",
+        "on-the-boundaries-of-what-can-be-said-about-p-and-np",
         "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
         "the-path-drawn-one-step-at-a-time",
         "the-reality-distortion-field-names-the-closed-map",
@@ -4289,13 +4290,14 @@
       "slug": "objects-are-stabilized-relationships",
       "path": "content/posts/objects-are-stabilized-relationships.md",
       "title": "对象是被稳定化的关系 / Objects Are Stabilized Relationships",
-      "hash": "897ad4fbf69a",
+      "hash": "481efef6fd28",
       "in_degree": 8,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
         "when-electrons-think",
         "the-velocity-of-visibility",
+        "on-the-boundaries-of-what-can-be-said-about-p-and-np",
         "the-invisible-gods-eye",
         "the-cut-moves-but-never-vanishes",
         "your-codebase-is-memory"
@@ -4307,15 +4309,16 @@
       "slug": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "path": "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md",
       "title": "论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof",
-      "hash": "47a22515d8a1",
+      "hash": "8699e204b57f",
       "in_degree": 12,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
         "the-other-coherence",
         "beyond-the-projection",
         "the-carry-that-cannot-be-named-inside-the-register",
+        "on-the-boundaries-of-what-can-be-said-about-p-and-np",
         "your-codebase-is-memory",
         "an-observation-by-its-own-standard",
         "selection-contradiction-and-open-reality",
@@ -4370,8 +4373,8 @@
       "slug": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
       "path": "content/posts/on-the-boundaries-of-what-can-be-said-about-p-and-np.md",
       "title": "论关于 P 与 NP 所能言说的边界 / On the Boundaries of What Can Be Said about P and NP",
-      "hash": "41b2b8649b06",
-      "in_degree": 4,
+      "hash": "6e0422c55b38",
+      "in_degree": 8,
       "out_degree": 10,
       "links_out": [
         "the-illusion-of-the-tool-and-the-inversion-of-time",
@@ -4513,7 +4516,7 @@
       "slug": "openness-is-consistency",
       "path": "content/posts/openness-is-consistency.md",
       "title": "开放即一致 / Openness Is Consistency",
-      "hash": "75ba5238a649",
+      "hash": "214d42e4dae1",
       "in_degree": 84,
       "out_degree": 82,
       "links_out": [
@@ -4914,7 +4917,7 @@
       "slug": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "path": "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md",
       "title": "潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought",
-      "hash": "924cbad19a24",
+      "hash": "dcb6aecf6e19",
       "in_degree": 17,
       "out_degree": 20,
       "links_out": [
@@ -4923,11 +4926,11 @@
         "the-shadow-and-the-infinite",
         "the-scaffolding-we-forget",
         "selection-contradiction-and-open-reality",
+        "on-the-boundaries-of-what-can-be-said-about-p-and-np",
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
         "why-mathematics-can-never-be-solved",
         "the-myth-of-the-four-dimensional-deer-and-the-present-model",
-        "on-the-boundaries-of-what-can-be-said-about-p-and-np",
         "the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function",
         "beyond-the-projection",
         "your-codebase-is-memory",
@@ -7980,7 +7983,7 @@
       "slug": "the-illusion-of-the-tool-and-the-inversion-of-time",
       "path": "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md",
       "title": "工具的幻觉与时间的倒置 / The Illusion of the Tool and the Inversion of Time",
-      "hash": "ab2963065dae",
+      "hash": "0c006b3780a5",
       "in_degree": 3,
       "out_degree": 7,
       "links_out": [
@@ -11199,9 +11202,9 @@
       "slug": "why-mathematics-can-never-be-solved",
       "path": "content/posts/why-mathematics-can-never-be-solved.md",
       "title": "为何数学永远解不完 / Why Mathematics Can Never Be Solved",
-      "hash": "f43a8391575b",
+      "hash": "9180c098f7c8",
       "in_degree": 31,
-      "out_degree": 25,
+      "out_degree": 26,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "agi-and-asi-are-temporary-goalposts",
@@ -11216,6 +11219,7 @@
         "your-codebase-is-memory",
         "the-scaffolding-we-forget",
         "complexity-obscures-emergence-as-the-act-of-mind",
+        "on-the-boundaries-of-what-can-be-said-about-p-and-np",
         "you-cant-benchmark-the-fluid",
         "whatever-is-one-prompt-away",
         "clarity-isnt-a-state-you-arrive-at",
@@ -34964,7 +34968,7 @@
       "from": "no-system-can-be-kept-closed",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence Belongs Only to The Mind"
+      "label": "Intelligence Belongs Only to the Mind"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -34982,7 +34986,7 @@
       "from": "no-system-can-be-kept-closed",
       "to": "not-a-theory-of-everything",
       "rel": "points_to",
-      "label": "非万物之理（因果的二重性）"
+      "label": "非万物之理"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -35036,7 +35040,7 @@
       "from": "no-system-can-be-kept-closed",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, Consumption, and the Mind’s Distinction"
+      "label": "Production, Consumption, and the Mind's Distinction"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -35048,7 +35052,7 @@
       "from": "no-system-can-be-kept-closed",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
-      "label": "Data Is Local; Intelligence Is Allocated"
+      "label": "Data Is Local, Intelligence Is Allocated"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -35088,9 +35092,21 @@
     },
     {
       "from": "no-system-can-be-kept-closed",
+      "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "rel": "points_to",
+      "label": "论关于 P 与 NP 所能言说的边界"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
       "to": "tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui",
       "rel": "points_to",
       "label": "投资决策的因果闭环"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "rel": "points_to",
+      "label": "On the Boundaries of What Can Be Said about P and NP"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -35144,7 +35160,7 @@
       "from": "no-system-can-be-kept-closed",
       "to": "looping-and-graphing",
       "rel": "points_to",
-      "label": "Looping and Graphing: Mind as the Loop of Loops"
+      "label": "Looping and Graphing"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -35600,7 +35616,7 @@
       "from": "no-system-can-be-kept-closed",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
+      "label": "Abstraction Boundaries and the Moving Edge of Reality"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -36456,6 +36472,18 @@
     },
     {
       "from": "objects-are-stabilized-relationships",
+      "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "rel": "points_to",
+      "label": "论关于 P 与 NP 所能言说的边界"
+    },
+    {
+      "from": "objects-are-stabilized-relationships",
+      "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "rel": "points_to",
+      "label": "On the Boundaries of What Can Be Said about P and NP"
+    },
+    {
+      "from": "objects-are-stabilized-relationships",
       "to": "the-invisible-gods-eye",
       "rel": "points_to",
       "label": "隐秘的上帝之眼"
@@ -36540,6 +36568,12 @@
     },
     {
       "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "rel": "points_to",
+      "label": "论关于 P 与 NP 所能言说的边界"
+    },
+    {
+      "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
@@ -36549,6 +36583,12 @@
       "to": "the-carry-that-cannot-be-named-inside-the-register",
       "rel": "points_to",
       "label": "The Carry That Cannot Be Named Inside the Register"
+    },
+    {
+      "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
+      "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "rel": "points_to",
+      "label": "On the Boundaries of What Can Be Said about P and NP"
     },
     {
       "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
@@ -37742,7 +37782,7 @@
       "from": "openness-is-consistency",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence Belongs Only to The Mind"
+      "label": "Intelligence Belongs Only to the Mind"
     },
     {
       "from": "openness-is-consistency",
@@ -37856,7 +37896,7 @@
       "from": "openness-is-consistency",
       "to": "not-a-theory-of-everything",
       "rel": "points_to",
-      "label": "非万物之理（因果的二重性）"
+      "label": "非万物之理"
     },
     {
       "from": "openness-is-consistency",
@@ -37904,13 +37944,13 @@
       "from": "openness-is-consistency",
       "to": "a-new-deeper-look-at-antifragility",
       "rel": "points_to",
-      "label": "A New Deeper Look at Antifragility: Prosthesis, Not Driver"
+      "label": "A New Deeper Look at Antifragility"
     },
     {
       "from": "openness-is-consistency",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
-      "label": "Production, Consumption, and the Mind’s Distinction"
+      "label": "Production, Consumption, and the Mind's Distinction"
     },
     {
       "from": "openness-is-consistency",
@@ -38150,7 +38190,7 @@
       "from": "openness-is-consistency",
       "to": "evil-as-the-minds-own-creation",
       "rel": "points_to",
-      "label": "Evil as the Mind’s Own Creation"
+      "label": "Evil as the Mind's Own Creation"
     },
     {
       "from": "openness-is-consistency",
@@ -38618,7 +38658,7 @@
       "from": "openness-is-consistency",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
+      "label": "Abstraction Boundaries and the Moving Edge of Reality"
     },
     {
       "from": "openness-is-consistency",
@@ -38660,7 +38700,7 @@
       "from": "openness-is-consistency",
       "to": "looping-and-graphing",
       "rel": "points_to",
-      "label": "Looping and Graphing: Mind as the Loop of Loops"
+      "label": "Looping and Graphing"
     },
     {
       "from": "openness-is-consistency",
@@ -41040,6 +41080,12 @@
     },
     {
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "rel": "points_to",
+      "label": "论关于 P 与 NP 所能言说的边界"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "to": "no-system-can-be-kept-closed",
       "rel": "points_to",
       "label": "没有系统能被保持封闭"
@@ -41066,7 +41112,7 @@
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
       "rel": "points_to",
-      "label": "论关于 P 与 NP 所能言说的边界"
+      "label": "On the Boundaries of What Can Be Said about P and NP"
     },
     {
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
@@ -41091,12 +41137,6 @@
       "to": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
       "rel": "points_to",
       "label": "The Myth of the Four-Dimensional Deer and the Present Model"
-    },
-    {
-      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
-      "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
-      "rel": "points_to",
-      "label": "On the Boundaries of What Can Be Said about P and NP"
     },
     {
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
@@ -82188,6 +82228,18 @@
     },
     {
       "from": "why-mathematics-can-never-be-solved",
+      "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "rel": "points_to",
+      "label": "论关于 P 与 NP 所能言说的边界"
+    },
+    {
+      "from": "why-mathematics-can-never-be-solved",
+      "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "rel": "points_to",
+      "label": "On the Boundaries of What Can Be Said about P and NP"
+    },
+    {
+      "from": "why-mathematics-can-never-be-solved",
       "to": "you-cant-benchmark-the-fluid",
       "rel": "points_to",
       "label": "流动之物无法被基准衡量"
@@ -82232,7 +82284,7 @@
       "from": "why-mathematics-can-never-be-solved",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
-      "label": "Clarity Isn't a State You Arrive At"
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
     },
     {
       "from": "why-mathematics-can-never-be-solved",
@@ -82316,7 +82368,7 @@
       "from": "why-mathematics-can-never-be-solved",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
+      "label": "Abstraction Boundaries and the Moving Edge of Reality"
     },
     {
       "from": "why-mathematics-can-never-be-solved",
@@ -84382,7 +84434,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "0a49c4a82258",
+        "hash": "330a8dc9724b",
         "out_degree": 414
       },
       {
@@ -85571,6 +85623,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+        "rel": "collects",
+        "label": "论关于 P 与 NP 所能言说的边界 / On the Boundaries of What Can Be Said about P and NP"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "you-wu-zhi-bian",
         "rel": "collects",
         "label": "有无之边 / The Edge of Being and Non-Being"
@@ -86240,6 +86298,12 @@
         "to": "no-system-can-be-kept-closed",
         "rel": "collects",
         "label": "没有系统能被保持封闭 / No System Can Be Kept Closed"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "why-mathematics-can-never-be-solved",
+        "rel": "collects",
+        "label": "为何数学永远解不完 / Why Mathematics Can Never Be Solved"
       },
       {
         "from": "book:index-of-premises",

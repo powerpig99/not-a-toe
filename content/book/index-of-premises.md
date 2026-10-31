@@ -236,9 +236,9 @@ Chalmers divides consciousness into easy problems open to functional explanation
 ### 大卫·希尔伯特 / David Hilbert
 `数学 / Mathematical`
 
-希尔伯特致力于以严格公理体系封闭数学殿堂；极大推动了现代形式逻辑，但他断言一切皆可求证的宏愿被证伪。
+希尔伯特以数学可通过完备、一致且可判定的公理化形式系统加以穷尽为前提，这一方案为现代形式逻辑与证明论提供了精确的研究对象；它在此到了边界：对任何一致、可有效公理化且足以表达基本算术的形式系统，哥德尔都构造出系统无法在内部证明或证伪的命题并表明其无法从内部证明自身的一致性，而要求将数学封存进单一公理系统的做法则把一处有限的持守当成了整片区分场域。
 
-Hilbert championed the formal axiomatic closure of all mathematics; his foundational quest propelled modern logic, while his belief in total solvability was refuted.
+Hilbert takes as his premise that mathematics can be exhausted within a complete, consistent, and decidable axiomatic formal system, which gave modern formal logic and proof theory exact objects of study; it reaches its boundary in that, for any consistent, effectively axiomatized system strong enough for basic arithmetic, Gödel constructs sentences the system can neither prove nor refute from within and shows it cannot prove its own consistency from within, while the demand for axiomatic closure treats one finite hold as the whole field of distinguishing.
 
 → [为何数学永远解不完 / Why Mathematics Can Never Be Solved](../../posts/why-mathematics-can-never-be-solved/) · [无穷总体的海市蜃楼 / The Mirage of the Infinite Totality](../../posts/the-mirage-of-the-infinite-totality/)
 
@@ -524,11 +524,11 @@ Kelly catalogues post-scarcity value drivers in networked economics; visionary f
 ### 库尔特·哥德尔 / Kurt Gödel
 `数学 / Mathematical`
 
-哥德尔击碎了希尔伯特封闭公理体系的企图；以严密证明确立了形式系统的边界，证实真理超越了机械证明。
+哥德尔以一致、可有效公理化且足以编码基本算术的有限形式系统为前提，精确标出了此类持守无法在内部推导出的命题与自身一致性；当“超出证明的真”被读作不依赖任何持守的无视角真理、而非在元理论所设定的预期标准模型下才得以登记的真值时，这一表述便到达了边界。
 
-Gödel shattered Hilbert's dream of a closed mathematical foundation; his work rigorously defines formal limits, confirming that truth outstrips mechanical theorem proving.
+Gödel takes as his premise a consistent, effectively axiomatized formal hold strong enough to encode basic arithmetic, which is useful for stating with exactness what such a hold cannot derive from within about its own sentences and consistency; it reaches its boundary when "truth beyond proof" is read as truth held from nowhere rather than as a truth value that registers only under an intended standard model posited in the metatheory.
 
-→ [没有系统能被保持封闭 / No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/) · [进位无法在寄存器之内被命名 / The Carry That Cannot Be Named Inside the Register](../../posts/the-carry-that-cannot-be-named-inside-the-register/)
+→ [没有系统能被保持封闭 / No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/) · [进位无法在寄存器之内被命名 / The Carry That Cannot Be Named Inside the Register](../../posts/the-carry-that-cannot-be-named-inside-the-register/) · [论关于 P 与 NP 所能言说的边界 / On the Boundaries of What Can Be Said about P and NP](../../posts/on-the-boundaries-of-what-can-be-said-about-p-and-np/)
 
 ### 老子 / Laozi
 `哲学 / Philosophical`
@@ -1212,7 +1212,7 @@ Machine learning narratives treat optimization as an intelligent agent seeking t
 
 Gödel proves that any consistent, effectively axiomatized formal system strong enough to express basic arithmetic contains independent statements it can neither prove nor refute from within and cannot prove its own consistency, which is of use in stating the limits of formal systems precisely; it reaches its boundary in that, as a proposition about external systems, it can be stated, checked and transmitted while the stating itself does not produce registration of the open residue from within the distinguishing activity, and, when read as a proof about mind itself, the same limit reappears outside the system, between Minds.
 
-→ [潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [没有系统能被保持封闭 / No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/) · [验证的倒置 / The Reversal of Verification](../../posts/the-reversal-of-verification/) · [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/) · [进位无法在寄存器之内被命名 / The Carry That Cannot Be Named Inside the Register](../../posts/the-carry-that-cannot-be-named-inside-the-register/) · [两度显现的不完备性 / Incompleteness Exhibited Twice](../../posts/incompleteness-exhibited-twice/) · [论关于 P 与 NP 所能言说的边界 / On the Boundaries of What Can Be Said about P and NP](../../posts/on-the-boundaries-of-what-can-be-said-about-p-and-np/)
+→ [潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [没有系统能被保持封闭 / No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/) · [为何数学永远解不完 / Why Mathematics Can Never Be Solved](../../posts/why-mathematics-can-never-be-solved/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/) · [验证的倒置 / The Reversal of Verification](../../posts/the-reversal-of-verification/) · [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/) · [进位无法在寄存器之内被命名 / The Carry That Cannot Be Named Inside the Register](../../posts/the-carry-that-cannot-be-named-inside-the-register/) · [两度显现的不完备性 / Incompleteness Exhibited Twice](../../posts/incompleteness-exhibited-twice/) · [论关于 P 与 NP 所能言说的边界 / On the Boundaries of What Can Be Said about P and NP](../../posts/on-the-boundaries-of-what-can-be-said-about-p-and-np/)
 
 ### 成长型思维 / Growth Mindset
 `成功学 / Self-Help`
@@ -1244,9 +1244,9 @@ The uncertainty principle bounds the precision with which conjugate micro variab
 ### 希尔伯特数学大纲 / Hilbert's Program for Mathematics
 `数学 / Mathematical`
 
-希尔伯特主张数学能够被无遗漏且无矛盾地形式化封闭；哥德尔证明了数学不可终结，每划定一套系统都会生成新命题。
+希尔伯特数学大纲以一切数学命题皆可在完备、一致且可判定的形式系统中借助有穷方法得到裁定为前提，在确立形式化公理方法与元数学证明论时有用；它在此到了边界：任何一致、可有效公理化且足以表达基本算术的形式系统都包含在预期解释下成立却既无法在内部证明也无法证伪的命题，且无法从内部证明自身的一致性，将单次形式化持守当作穷尽地基的要求会在区分活动的推进中不断遭遇溢出。
 
-Hilbert proposed that all mathematical truths could be completely and consistently formalized; Gödel proved formal mathematics is unclosable, forever generating unprovable truths.
+Hilbert's program takes as its premise that all mathematical statements can be settled within a complete, consistent, and decidable formal system certified by finitary means, which is of use in establishing the formal axiomatic method and metamathematical proof theory; it reaches its boundary in that any consistent, effectively axiomatized system strong enough to express basic arithmetic contains sentences that hold in an intended interpretation yet can neither be proved nor refuted from within and cannot prove its own consistency from within, so that treating any single formal hold as exhaustive ground meets ongoing overflow as distinguishing continues.
 
 → [为何数学永远解不完 / Why Mathematics Can Never Be Solved](../../posts/why-mathematics-can-never-be-solved/) · [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/)
 
@@ -3694,9 +3694,9 @@ Naive realism treats reality as a prefabricated museum awaiting passive inspecti
 ### 开放认识论的一致性 / Open Epistemic Consistency
 `哲学 / Philosophical`
 
-形式主义将一致性定义为无矛盾的封闭公理集；而真正的一致性要求坦承模型的边界，持续向未知现实保持开放。
+将一致性等同于封闭公理或规则集内部无矛盾的预设，在检验既定持守之内的步骤是否由先前步骤无矛盾地推出时有用；它在此到了边界：当这一封闭参照被迫为越过它继续前行的活动充当穷尽的地基时，矛盾便在封闭的参照与继续着的区分之间产生；把结构作为器具持守、随区分的继续而重新渲染，结构便保持敞开，而这一继续即是一致性。
 
-Formalists define consistency as a sealed, contradiction-free axiom set; living consistency demands acknowledging model boundaries and remaining open to friction.
+The presumption that equates consistency with the absence of contradiction inside a closed set of axioms or rules is of use in checking whether steps inside a chosen hold follow from prior steps without contradiction; it reaches its boundary when that closed reference is forced to serve as the exhaustive ground of an activity that continues past it, where contradiction arises between the closed reference and continuing distinction; held instead as an instrument re-rendered as distinguishing continues, the structure stays open, and that continuation is the consistency.
 
 → [开放即一致 / Openness Is Consistency](../../posts/openness-is-consistency/) · [验证的倒置 / The Reversal of Verification](../../posts/the-reversal-of-verification/)
 
