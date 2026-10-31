@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-31T07:02:45.903Z",
+    "generated_at": "2026-10-31T07:25:06.565Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -166,7 +166,7 @@
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "fecf46ad8771",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "dcb6aecf6e19",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "4f2725e3fcd4",
-      "content/posts/precision-and-resolution.md": "fc4f72839c7f",
+      "content/posts/precision-and-resolution.md": "5f140e09489a",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "b11dea0379ff",
       "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "2942b85de8aa",
       "content/posts/price-as-utterance-understanding-as-trade.md": "74464ff48389",
@@ -425,7 +425,7 @@
       "content/book/causality.md": "51d6cd58236e",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "2e80b502e82c",
+      "content/book/index-of-premises.md": "ba4f3f2da6ac",
       "content/book/intelligence.md": "562728811be2",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "0caf97231862",
@@ -441,14 +441,14 @@
     },
     "stats": {
       "posts": 414,
-      "edges": 12140,
-      "unique_directed": 5969,
+      "edges": 12146,
+      "unique_directed": 5972,
       "missing_targets": 0,
-      "one_way": 1147,
+      "one_way": 1150,
       "isolated": 0,
       "posts_with_outbound": 414,
       "book_pages": 16,
-      "book_edges": 1193,
+      "book_edges": 1190,
       "posts_reached_by_book": 414
     }
   },
@@ -502,12 +502,12 @@
       "in_degree": 41
     },
     {
-      "slug": "mistaking-the-expression-for-the-intelligence",
+      "slug": "clarity-isnt-a-state-you-arrive-at",
       "in_degree": 39
     },
     {
-      "slug": "clarity-isnt-a-state-you-arrive-at",
-      "in_degree": 38
+      "slug": "mistaking-the-expression-for-the-intelligence",
+      "in_degree": 39
     },
     {
       "slug": "production-consumption-and-the-minds-distinction",
@@ -1424,7 +1424,7 @@
       "path": "content/posts/clarity-isnt-a-state-you-arrive-at.md",
       "title": "清晰不是抵达的终点，而是运动本身 / Clarity Isn't a State You Arrive At. It's the Movement Itself.",
       "hash": "55c81f8ed4d4",
-      "in_degree": 38,
+      "in_degree": 39,
       "out_degree": 32,
       "links_out": [
         "why-mathematics-can-never-be-solved",
@@ -3834,7 +3834,7 @@
       "path": "content/posts/minimizing-path.md",
       "title": "最小化路径 / The Minimizing Path",
       "hash": "a503ebe540f6",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 5,
       "links_out": [
         "fidelity-not-optimality",
@@ -4971,19 +4971,22 @@
       "slug": "precision-and-resolution",
       "path": "content/posts/precision-and-resolution.md",
       "title": "精度与分辨率 / Precision and Resolution",
-      "hash": "fc4f72839c7f",
+      "hash": "5f140e09489a",
       "in_degree": 1,
-      "out_degree": 9,
+      "out_degree": 12,
       "links_out": [
         "the-comment-is-not-the-code",
         "residual-control-recedes-to-the-edge",
         "ai-wont-kill-software-engineering",
+        "the-living-context",
+        "minimizing-path",
         "the-reversal-of-verification",
         "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
         "abstraction-boundaries-and-the-moving-edge-of-reality",
         "the-sovereign-blinding",
         "fixed-by-nothing",
-        "whatever-is-one-prompt-away"
+        "whatever-is-one-prompt-away",
+        "clarity-isnt-a-state-you-arrive-at"
       ]
     },
     {
@@ -8386,7 +8389,7 @@
       "path": "content/posts/the-living-context.md",
       "title": "活的语境 / The Living Context",
       "hash": "147beb0934fd",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 10,
       "links_out": [
         "a-living-external-cortex",
@@ -41398,6 +41401,18 @@
     },
     {
       "from": "precision-and-resolution",
+      "to": "the-living-context",
+      "rel": "points_to",
+      "label": "活的语境"
+    },
+    {
+      "from": "precision-and-resolution",
+      "to": "minimizing-path",
+      "rel": "points_to",
+      "label": "最小化路径"
+    },
+    {
+      "from": "precision-and-resolution",
       "to": "the-reversal-of-verification",
       "rel": "points_to",
       "label": "验证的倒置"
@@ -41419,6 +41434,18 @@
       "to": "ai-wont-kill-software-engineering",
       "rel": "points_to",
       "label": "AI Won't Kill Software Engineering, It Will Expand It"
+    },
+    {
+      "from": "precision-and-resolution",
+      "to": "the-living-context",
+      "rel": "points_to",
+      "label": "The Living Context"
+    },
+    {
+      "from": "precision-and-resolution",
+      "to": "minimizing-path",
+      "rel": "points_to",
+      "label": "The Minimizing Path"
     },
     {
       "from": "precision-and-resolution",
@@ -41482,9 +41509,21 @@
     },
     {
       "from": "precision-and-resolution",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "清晰不是抵达的终点，而是运动本身"
+    },
+    {
+      "from": "precision-and-resolution",
       "to": "whatever-is-one-prompt-away",
       "rel": "points_to",
       "label": "Whatever Is One Prompt Away"
+    },
+    {
+      "from": "precision-and-resolution",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
     },
     {
       "from": "preference-clusters-and-the-language-of-judgment",
@@ -84434,7 +84473,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "2e80b502e82c",
+        "hash": "ba4f3f2da6ac",
         "out_degree": 414
       },
       {
@@ -86475,6 +86514,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "precision-and-resolution",
+        "rel": "collects",
+        "label": "精度与分辨率 / Precision and Resolution"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "when-abundance-looks-like-scarcity",
         "rel": "collects",
         "label": "当丰裕看起来像稀缺 / When Abundance Looks Like Scarcity"
@@ -88059,12 +88104,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "precision-and-resolution",
-        "rel": "collects",
-        "label": "精度与分辨率 / Precision and Resolution"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "hardware-locality-is-not-the-information-boundary",
         "rel": "collects",
         "label": "硬件的本地性不是信息的边界 / Hardware Locality Is Not the Information Boundary"
@@ -88971,12 +89010,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "precision-and-resolution",
-        "rel": "collects",
-        "label": "精度与分辨率 / Precision and Resolution"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "the-mind-that-statistics-cannot-reveal",
         "rel": "collects",
         "label": "统计学无法揭示的心智 / The Mind That Statistics Cannot Reveal"
@@ -89298,12 +89331,6 @@
         "to": "the-sovereign-blinding",
         "rel": "collects",
         "label": "自愿的致盲 / The Sovereign Blinding"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "precision-and-resolution",
-        "rel": "collects",
-        "label": "精度与分辨率 / Precision and Resolution"
       },
       {
         "from": "book:index-of-premises",
@@ -89784,12 +89811,6 @@
         "to": "learned-boundaries-and-the-given-rate",
         "rel": "collects",
         "label": "学到的边界与给定的尺度 / Learned Boundaries and the Given Rate"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "precision-and-resolution",
-        "rel": "collects",
-        "label": "精度与分辨率 / Precision and Resolution"
       },
       {
         "from": "book:index-of-premises",
