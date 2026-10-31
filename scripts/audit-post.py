@@ -22,9 +22,9 @@ Checks:
   10. Mandatory companion cover art (assets/covers/<slug>.(jpg|png|webp) present, non-empty, and registered in STYLES.md)
 
 Usage:
-  python3 scripts/audit-post.py [slug_or_path]
-  python3 scripts/audit-post.py --allow-lists [slug_or_path]
-  python3 scripts/audit-post.py --walkthrough <path_to_walkthrough.md>
+  python3 scripts/audit-post.py [slug_or_path ...]
+  python3 scripts/audit-post.py --allow-lists [slug_or_path ...]
+  python3 scripts/audit-post.py --walkthrough <path_to_walkthrough.md> [slug_or_path]
 """
 
 import sys
@@ -680,26 +680,42 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
         for e in errors:
             print(f"  ✗ {e}")
         print("\nResult: FAILED (violations must be resolved or explicitly overridden).")
-        return False
+        return False, len(warnings)
     else:
         if warnings:
             print("\nResult: PASSED WITH ADVISORIES (verify intentionality of exceptions).")
         else:
             print("\nResult: CLEAN PASS (fully aligned with standard invariants).")
-        return True
+        return True, len(warnings)
 
 def main():
     parser = argparse.ArgumentParser(description="Audit post against authoring invariants to prevent workflow drift.")
-    parser.add_argument("post", nargs="?", help="Post slug or markdown file path (defaults to latest modified post).")
+    parser.add_argument(
+        "posts",
+        nargs="*",
+        metavar="post",
+        help="Post slug(s) or markdown file path(s) (defaults to latest modified post).",
+    )
     parser.add_argument("--allow-lists", action="store_true", help="Acknowledge list formatting as an intentional exception.")
     parser.add_argument("--walkthrough", help="Path to walkthrough.md to verify multi-platform copy.")
     parser.add_argument("--strict", action="store_true", help="Treat warnings as errors.")
 
     args = parser.parse_args()
-    target = find_target_file(args.post)
-    success = audit_post(target, allow_lists=args.allow_lists, walkthrough_path=args.walkthrough)
+    targets = args.posts or [None]
+    if len(targets) > 1 and args.walkthrough:
+        print("Error: --walkthrough belongs to a single waking post and cannot be combined with multiple targets.", file=sys.stderr)
+        sys.exit(1)
 
-    if not success or (args.strict and success is not True):
+    total_failures = 0
+    total_warnings = 0
+    for post_arg in targets:
+        target = find_target_file(post_arg)
+        success, warning_count = audit_post(target, allow_lists=args.allow_lists, walkthrough_path=args.walkthrough)
+        if not success:
+            total_failures += 1
+        total_warnings += warning_count
+
+    if total_failures > 0 or (args.strict and total_warnings > 0):
         sys.exit(1)
     sys.exit(0)
 
