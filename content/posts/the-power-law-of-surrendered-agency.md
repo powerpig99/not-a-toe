@@ -186,7 +186,7 @@ Moral judgment between Minds is thus a tool of compression that coordinates the 
 
 Compatible misallocation does not stop between two individuals, and when it spreads through a network of free variables numbering in the millions, a center of concentrated power appears. Its mechanism is that a central node absorbs the sovereign causality that individuals at the periphery hand over. In a complex network this handing over accords with "preferential attachment": when many individuals facing uncertainty outsource their decisions, they tend to pick the node that has already gathered the most capacity. A center that has absorbed an initial share of sovereignty, be it a church, a party, a bureaucratic state or a technology platform, appears ever more all-knowing and immovable, which in turn leads more Minds to hand sovereignty over.
 
-它在数学上的归宿是幂律分布，P(k) ~ k⁻ᵞ：极少数的中枢节点汇聚了极大的因果裁决权，外围的多数个体成为被动的构件。中心的统治力不出于它自身有什么超越的生命力，而出于它汇聚了数百万自由变量持续让渡出来的因果权能的总和。这个膨胀的中枢像一个引力的旋涡，以汇聚的权能扭曲周围的信息流动与价值评估，身处其中更难离开它的轨道。在这个场里的抗争，若仍停在“更换掌控中枢的人”或“请中枢施以仁政”上，是在向它注入新的因果。
+它在数学上的归宿是幂律分布，P(k) ~ k⁻ᵞ：极少数的中枢节点汇聚了极大的因果裁决权，外围的多数个体成为被动的构件。中心的统治力不出于它自身有什么超越的生命力。数百万自由变量每当把自己对低代价路径的持续选择从账面上略去，把所处的约束连同解除它的排他权能一并记在外部节点名下，便又交出一份因果权能；中心汇聚的正是这些让渡出来的权能的总和。这个膨胀的中枢像一个引力的旋涡，以汇聚的权能扭曲周围的信息流动与价值评估，身处其中更难离开它的轨道。在这个场里的抗争，若仍停在“更换掌控中枢的人”“请中枢施以仁政”上，或是投身密集的人群，借回在个体层面放弃了的效能感，便原封保留了这份让渡，又向中枢注入新的因果，如[能动性、矛盾与权力的移置](../agency-contradiction-and-the-relocation-of-power/)所追溯的。
 
 ```mermaid
 flowchart TD
@@ -211,7 +211,7 @@ flowchart TD
     style Petition fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-Its mathematical destination is a power-law distribution, P(k) ~ k⁻ᵞ: a very few central nodes gather a very large power of causal ruling, and most individuals at the periphery become passive components. The center's power to rule comes not from any transcendent vitality of its own but from its gathering the sum of causal capacity that millions of free variables keep handing over. This swollen center is like a gravitational vortex, distorting the flow of information and the assessment of value around it with the capacity it has gathered, and from inside it is harder to leave its orbit. Resistance within this field, if it still stops at "replacing whoever controls the center" or "asking the center to rule kindly," injects new causality into it.
+Its mathematical destination is a power-law distribution, P(k) ~ k⁻ᵞ: a very few central nodes gather a very large power of causal ruling, and most individuals at the periphery become passive components. The center's power to rule comes not from any transcendent vitality of its own but from its gathering the sum of causal capacity that millions of free variables keep handing over whenever they leave their own ongoing choice of the lower-cost path out of the account and credit an outside node with both the constraint they live under and the exclusive capacity to lift it. This swollen center is like a gravitational vortex, distorting the flow of information and the assessment of value around it with the capacity it has gathered, and from inside it is harder to leave its orbit. Resistance within this field, if it still stops at "replacing whoever controls the center," "asking the center to rule kindly," or aligning with a dense crowd to borrow back the sensation of efficacy renounced at the individual level, keeps the handover intact and injects new causality into the center, as [Agency, Contradiction, and the Relocation of Power](../agency-contradiction-and-the-relocation-of-power/) traces.
 
 ```mermaid
 flowchart TD
@@ -246,7 +246,7 @@ A center is a node in a network. No position is found there that bears consequen
 
 This asymmetry shows that handing sovereignty over does not buy "safety." With responsibility pushed outside, the recoil of reality is no lighter, the causal chain between input and output is cut instead, and the channel for learning within setbacks closes with it.
 
-切入点在自身的第一人称原点上：对处境承担全部的结构性责任，把落在生命里的一切，包括所受的操纵与欺骗，认作经由自己当初的让渡才得以成立。代价可以极重，这份重量并不因这样的认领而减轻，认领所改变的是回路：归因全部收回的那一刻，行动与反馈之间的误差信号重新接通，学习的曲线重新变陡。人口统计只在事后记下这种让渡，行动发生在第一人称的收益差中，[观察的因果僭越与第一人称的收益差](../the-causal-overstep-of-observation-and-the-first-person-surplus/)说明了这一点；与外部中枢一致的群体模式是过往抉择留下的记录，不是剥夺能动性、替人定下下一次决定的力量，这正是[能动性与模式](../agency-and-the-pattern/)所追溯的。
+切入点在自身的第一人称原点上：对处境承担全部的结构性责任，把落在生命里的一切，包括所受的操纵与欺骗，认作经由自己当初的让渡才得以成立。代价可以极重，这份重量并不因这样的认领而减轻，认领所改变的是回路：归因全部收回的那一刻，代价便不再是“别无他选”的理由，重新成为标在看得见的其他选项上的价格，行动与反馈之间的误差信号重新接通，学习的曲线重新变陡。人口统计只在事后记下这种让渡，行动发生在第一人称的收益差中，[观察的因果僭越与第一人称的收益差](../the-causal-overstep-of-observation-and-the-first-person-surplus/)说明了这一点；与外部中枢一致的群体模式是过往抉择留下的记录，不是剥夺能动性、替人定下下一次决定的力量，这正是[能动性与模式](../agency-and-the-pattern/)所追溯的。
 
 ```mermaid
 flowchart TD
@@ -270,7 +270,7 @@ flowchart TD
     style Signal fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The point of entry is at one's own first-person origin: bearing full structural responsibility for the situation, and taking everything that has landed in one's life, the manipulation and deception suffered included, as something that could stand only through one's own earlier handing over. The cost can be extremely heavy, and that weight is not lightened by claiming it this way; what the claiming changes is the loop: at the moment attribution is taken back in full, the error signal between action and feedback is connected again, and the curve of learning turns steep again. Population statistics record the handing over only after the fact, and action takes place in the first-person surplus, as [The Causal Overstep of Observation and the First-Person Surplus](../the-causal-overstep-of-observation-and-the-first-person-surplus/) shows; an aggregate pattern of alignment with an outside center is the record past choices leave, not a force that removes agency or settles the next decision, as [Agency and the Pattern](../agency-and-the-pattern/) traces.
+The point of entry is at one's own first-person origin: bearing full structural responsibility for the situation, and taking everything that has landed in one's life, the manipulation and deception suffered included, as something that could stand only through one's own earlier handing over. The cost can be extremely heavy, and that weight is not lightened by claiming it this way; what the claiming changes is the loop: at the moment attribution is taken back in full, costs shift from reasons one could not choose otherwise back into prices attached to visible alternatives, the error signal between action and feedback is connected again, and the curve of learning turns steep again. Population statistics record the handing over only after the fact, and action takes place in the first-person surplus, as [The Causal Overstep of Observation and the First-Person Surplus](../the-causal-overstep-of-observation-and-the-first-person-surplus/) shows; an aggregate pattern of alignment with an outside center is the record past choices leave, not a force that removes agency or settles the next decision, as [Agency and the Pattern](../agency-and-the-pattern/) traces.
 
 ```mermaid
 flowchart TD

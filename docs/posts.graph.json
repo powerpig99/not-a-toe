@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-31T21:45:51.660Z",
+    "generated_at": "2026-10-31T22:09:16.886Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -24,7 +24,7 @@
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "4d7f22ced380",
       "content/posts/ai-as-augmentation.md": "f0a8c8f069ef",
       "content/posts/ai-wont-kill-software-engineering.md": "cc0137e82426",
-      "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "2bdcdf8308f8",
+      "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "2217ee5fe5b3",
       "content/posts/amplification-paradox.md": "a275c141a687",
       "content/posts/an-observation-by-its-own-standard.md": "1d44b8371330",
       "content/posts/better-than-free-after-the-checklist-closes.md": "d39b1b10df08",
@@ -53,7 +53,7 @@
       "content/posts/conscience-power-delegation.md": "c4ea27a54828",
       "content/posts/consciousness-ascription-and-the-quantum-cut.md": "3ce64bf84b73",
       "content/posts/consciousness-never-appears-as-data-among-data.md": "35adbc5ab9f0",
-      "content/posts/constraints_are_ground.md": "9a6d5709fd48",
+      "content/posts/constraints_are_ground.md": "578ff2fd47b5",
       "content/posts/context-engineering-essay.md": "c20d90b794d0",
       "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "8c87c3dfef55",
       "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "a5fb001040ed",
@@ -185,7 +185,7 @@
       "content/posts/restriction-is-a-selective-tax.md": "fc908414eed9",
       "content/posts/scaffolds-or-specialized-contexts.md": "ff1d8c730144",
       "content/posts/school_essay_final.md": "f18cabb10f9c",
-      "content/posts/selection-contradiction-and-open-reality.md": "74fbecb78715",
+      "content/posts/selection-contradiction-and-open-reality.md": "cdf41bff4c33",
       "content/posts/self-image-speaks-as-if-from-nowhere.md": "689a012a58a8",
       "content/posts/self-rl-for-humans.md": "da8444ae39c6",
       "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "5bdf03fd7397",
@@ -196,7 +196,7 @@
       "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "8fc143a28f49",
       "content/posts/simplicity-ultimate-sophistication.md": "9039597a8e48",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "9d04c6b1c923",
-      "content/posts/sovereignty-essay.md": "bdc7dfc589b0",
+      "content/posts/sovereignty-essay.md": "94143b619076",
       "content/posts/sowell-observed-the-surface-problem.md": "df9de9b7c1a0",
       "content/posts/stability-and-excess.md": "25b813029b34",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "4df60d078da6",
@@ -302,7 +302,7 @@
       "content/posts/the-limitation-is-doing-work.md": "30854398325d",
       "content/posts/the-living-context.md": "1efc6b0154c4",
       "content/posts/the-local-trap-of-technological-change.md": "90573245bd77",
-      "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "5dfdcb05cf02",
+      "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "a085e1bdb7a4",
       "content/posts/the-loop-accelerates.md": "60608a02a0ed",
       "content/posts/the-loop-that-cant-see-itself.md": "b9a6ed83a832",
       "content/posts/the-maintenance-paradox.md": "1d92c151aa07",
@@ -313,7 +313,7 @@
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "f806610c08c9",
       "content/posts/the-mirage-of-the-infinite-totality.md": "befa5078c345",
       "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "66816e477146",
-      "content/posts/the-mirror-handshake-of-power.md": "43932682b2ed",
+      "content/posts/the-mirror-handshake-of-power.md": "ccc28b284e44",
       "content/posts/the-misallocation-of-agency.md": "b921b7fb3528",
       "content/posts/the-model-never-becomes-a-second-edge.md": "264a5faea1fd",
       "content/posts/the-moral-reversal-and-the-scripted-subject.md": "e1ac22ffc038",
@@ -333,7 +333,7 @@
       "content/posts/the-path-drawn-one-step-at-a-time.md": "53e3dd77a12a",
       "content/posts/the-perceiver-and-the-trace.md": "12ca1c236bca",
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "bb2f003e5b8b",
-      "content/posts/the-power-law-of-surrendered-agency.md": "8920ba4edc69",
+      "content/posts/the-power-law-of-surrendered-agency.md": "995067c4c57b",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "e93e141e4251",
       "content/posts/the-price-of-closing-optionality.md": "5587a48534a1",
       "content/posts/the-question-that-installs-the-war.md": "33d002f839b2",
@@ -346,7 +346,7 @@
       "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "ad7483982bf1",
       "content/posts/the-reflexive-dilemma-of-unique-insight.md": "715a152c2c2f",
       "content/posts/the-residue-and-the-free-variable.md": "977dcacd8f51",
-      "content/posts/the-returning-signal-and-its-claim.md": "3e0a96be38a7",
+      "content/posts/the-returning-signal-and-its-claim.md": "68c0f7fb6b98",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "eac491539bc9",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "9e39c50c5595",
       "content/posts/the-reversal-of-education-and-science.md": "ba68ab96da47",
@@ -367,7 +367,7 @@
       "content/posts/the-sovereign-blinding.md": "ed3ccd01b170",
       "content/posts/the-strategy-that-wasnt.md": "619408944139",
       "content/posts/the-strongest-belief-of-the-mind.md": "2219d9353599",
-      "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "1e50979f6100",
+      "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "cd6c59db9d66",
       "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "c663c4a8107a",
       "content/posts/the-surface-beneath.md": "cb6892bfdae1",
       "content/posts/the-surface-that-registers.md": "f395a2d95c17",
@@ -444,10 +444,10 @@
     },
     "stats": {
       "posts": 417,
-      "edges": 12458,
-      "unique_directed": 6128,
+      "edges": 12476,
+      "unique_directed": 6137,
       "missing_targets": 0,
-      "one_way": 1152,
+      "one_way": 1147,
       "isolated": 0,
       "posts_with_outbound": 417,
       "book_pages": 16,
@@ -879,7 +879,7 @@
       "path": "content/posts/agency-contradiction-and-the-relocation-of-power.md",
       "title": "能动性、矛盾与权力的移置 / Agency, Contradiction, and the Relocation of Power",
       "hash": "30db2f173a74",
-      "in_degree": 18,
+      "in_degree": 27,
       "out_degree": 23,
       "links_out": [
         "the-substrate-of-constraint-and-the-self-denial-of-freedom",
@@ -1069,9 +1069,9 @@
       "slug": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
       "path": "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md",
       "title": "凡可言说皆不可言说之产物 / All That Can Be Spoken Is the Product of the Unspeakable",
-      "hash": "2bdcdf8308f8",
+      "hash": "2217ee5fe5b3",
       "in_degree": 8,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "one-cannot-escape-ones-own-mind",
@@ -1081,6 +1081,7 @@
         "the-model-never-becomes-a-second-edge",
         "choice-itself-has-no-inherent-weight",
         "your-codebase-is-memory",
+        "agency-contradiction-and-the-relocation-of-power",
         "the-potential-infinity-of-operators-and-the-finite-horizon-of-records"
       ]
     },
@@ -1951,11 +1952,12 @@
       "slug": "constraints_are_ground",
       "path": "content/posts/constraints_are_ground.md",
       "title": "约束即基底与作为平台的个体 / Constraints Are Ground",
-      "hash": "9a6d5709fd48",
+      "hash": "578ff2fd47b5",
       "in_degree": 6,
-      "out_degree": 3,
+      "out_degree": 4,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
+        "agency-contradiction-and-the-relocation-of-power",
         "the-orthogonal-refusal",
         "your-codebase-is-memory"
       ]
@@ -5558,15 +5560,16 @@
       "slug": "selection-contradiction-and-open-reality",
       "path": "content/posts/selection-contradiction-and-open-reality.md",
       "title": "选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality",
-      "hash": "74fbecb78715",
+      "hash": "cdf41bff4c33",
       "in_degree": 9,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "abstraction-boundaries-and-the-moving-edge-of-reality",
         "causality-and-the-irreducible-prior",
         "complexity-obscures-emergence-as-the-act-of-mind",
         "nobody-has-seen-anything-yet",
         "the-generative-contradiction",
+        "agency-contradiction-and-the-relocation-of-power",
         "openness-is-consistency",
         "beyond-the-projection",
         "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
@@ -5850,11 +5853,12 @@
       "slug": "sovereignty-essay",
       "path": "content/posts/sovereignty-essay.md",
       "title": "臣服作为错位的主权 / Surrender as Misaligned Sovereignty",
-      "hash": "bdc7dfc589b0",
+      "hash": "94143b619076",
       "in_degree": 2,
-      "out_degree": 2,
+      "out_degree": 3,
       "links_out": [
         "sovereignty-belief-and-regulatory-structures",
+        "agency-contradiction-and-the-relocation-of-power",
         "your-codebase-is-memory"
       ]
     },
@@ -8565,11 +8569,12 @@
       "slug": "the-look-of-constraint-is-not-the-loss-of-freedom",
       "path": "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md",
       "title": "约束的样子不是自由的失去 / The Look of Constraint Is Not the Loss of Freedom",
-      "hash": "5dfdcb05cf02",
+      "hash": "a085e1bdb7a4",
       "in_degree": 5,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "the-bank-shot-and-the-magic-trick",
+        "agency-contradiction-and-the-relocation-of-power",
         "the-average-is-residue-not-the-engine",
         "the-fallacy-of-post-success-parenting",
         "the-substrate-of-constraint-and-the-self-denial-of-freedom",
@@ -8825,13 +8830,14 @@
       "slug": "the-mirror-handshake-of-power",
       "path": "content/posts/the-mirror-handshake-of-power.md",
       "title": "权力的镜像握手 / The Mirror Handshake of Power",
-      "hash": "43932682b2ed",
+      "hash": "ccc28b284e44",
       "in_degree": 11,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "the-free-variable-and-the-retrospective-illusion-of-power",
         "agency-compounding-and-the-argument-over-ai-feudalism",
         "conscience-power-delegation",
+        "agency-contradiction-and-the-relocation-of-power",
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "the-power-law-of-surrendered-agency",
@@ -9355,12 +9361,13 @@
       "slug": "the-power-law-of-surrendered-agency",
       "path": "content/posts/the-power-law-of-surrendered-agency.md",
       "title": "让渡主权的幂律法则 / The Power-Law of Surrendered Agency",
-      "hash": "8920ba4edc69",
+      "hash": "995067c4c57b",
       "in_degree": 6,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
         "the-mirror-handshake-of-power",
+        "agency-contradiction-and-the-relocation-of-power",
         "the-causal-overstep-of-observation-and-the-first-person-surplus",
         "agency-and-the-pattern",
         "your-codebase-is-memory"
@@ -9716,9 +9723,9 @@
       "slug": "the-returning-signal-and-its-claim",
       "path": "content/posts/the-returning-signal-and-its-claim.md",
       "title": "回返的信号与认领 / The Returning Signal and Its Claim",
-      "hash": "3e0a96be38a7",
+      "hash": "68c0f7fb6b98",
       "in_degree": 8,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
         "the-perceiver-and-the-trace",
@@ -9729,7 +9736,8 @@
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "causality-stays-at-the-edge-that-steers",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
-        "the-delegation-of-the-task-and-the-inalienability-of-consequences"
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "agency-contradiction-and-the-relocation-of-power"
       ]
     },
     {
@@ -10319,13 +10327,14 @@
       "slug": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
       "path": "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md",
       "title": "约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom",
-      "hash": "1e50979f6100",
+      "hash": "cd6c59db9d66",
       "in_degree": 8,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "the-look-of-constraint-is-not-the-loss-of-freedom",
         "you-tiao-jian-de-zi-you",
         "freedom-as-ground",
+        "agency-contradiction-and-the-relocation-of-power",
         "the-freedom-of-will-to-deny-itself",
         "fixed-by-nothing",
         "individual-choices-as-the-only-causal-levers",
@@ -15067,6 +15076,18 @@
       "to": "one-cannot-escape-ones-own-mind",
       "rel": "points_to",
       "label": "One Cannot Escape One's Own Mind"
+    },
+    {
+      "from": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
     },
     {
       "from": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
@@ -21274,9 +21295,21 @@
     },
     {
       "from": "constraints_are_ground",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "constraints_are_ground",
       "to": "the-orthogonal-refusal",
       "rel": "points_to",
       "label": "正交的拒绝"
+    },
+    {
+      "from": "constraints_are_ground",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
     },
     {
       "from": "constraints_are_ground",
@@ -45876,7 +45909,7 @@
       "from": "selection-contradiction-and-open-reality",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
+      "label": "Abstraction Boundaries and the Moving Edge of Reality"
     },
     {
       "from": "selection-contradiction-and-open-reality",
@@ -45916,9 +45949,21 @@
     },
     {
       "from": "selection-contradiction-and-open-reality",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "selection-contradiction-and-open-reality",
       "to": "the-generative-contradiction",
       "rel": "points_to",
       "label": "The Generative Contradiction"
+    },
+    {
+      "from": "selection-contradiction-and-open-reality",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
     },
     {
       "from": "selection-contradiction-and-open-reality",
@@ -47827,6 +47872,18 @@
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
       "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
+    },
+    {
+      "from": "sovereignty-essay",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "sovereignty-essay",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
     },
     {
       "from": "sovereignty-essay",
@@ -64822,6 +64879,18 @@
     },
     {
       "from": "the-look-of-constraint-is-not-the-loss-of-freedom",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "the-look-of-constraint-is-not-the-loss-of-freedom",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
+    },
+    {
+      "from": "the-look-of-constraint-is-not-the-loss-of-freedom",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
       "label": "平均值是残余，不是引擎"
@@ -66400,6 +66469,12 @@
     },
     {
       "from": "the-mirror-handshake-of-power",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "the-mirror-handshake-of-power",
       "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
       "rel": "points_to",
       "label": "涌现的伪因果"
@@ -66409,6 +66484,12 @@
       "to": "conscience-power-delegation",
       "rel": "points_to",
       "label": "Conscience, Delegation, and the Jurisdiction Error"
+    },
+    {
+      "from": "the-mirror-handshake-of-power",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
     },
     {
       "from": "the-mirror-handshake-of-power",
@@ -69910,6 +69991,18 @@
     },
     {
       "from": "the-power-law-of-surrendered-agency",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "the-power-law-of-surrendered-agency",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
+    },
+    {
+      "from": "the-power-law-of-surrendered-agency",
       "to": "the-causal-overstep-of-observation-and-the-first-person-surplus",
       "rel": "points_to",
       "label": "观察的因果僭越与第一人称的收益差"
@@ -72586,6 +72679,12 @@
     },
     {
       "from": "the-returning-signal-and-its-claim",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "the-returning-signal-and-its-claim",
       "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "rel": "points_to",
       "label": "Digital Rockets, Peer Review, and the Dilution of the Causal Loop"
@@ -72595,6 +72694,12 @@
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
       "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "the-returning-signal-and-its-claim",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
     },
     {
       "from": "the-reversal-from-defensible-claim-to-dogma",
@@ -76810,6 +76915,12 @@
     },
     {
       "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
       "to": "the-freedom-of-will-to-deny-itself",
       "rel": "points_to",
       "label": "自由意志的自否自由"
@@ -76819,6 +76930,12 @@
       "to": "fixed-by-nothing",
       "rel": "points_to",
       "label": "没有固定者的固定"
+    },
+    {
+      "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
     },
     {
       "from": "the-substrate-of-constraint-and-the-self-denial-of-freedom",

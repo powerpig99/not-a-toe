@@ -224,7 +224,7 @@ On this premise the book ends with Proposition 7: "Whereof one cannot speak, the
 
 One layer deeper: the unspeakable shows its existence through speaking. If silence is obeyed and speaking is given up, the unspeakable loses its point of purchase for interacting with the world and becomes an unfalsifiable shadow. The relation of observer to observing is the same: an observer confirms itself by observing, by distinguishing states, taking readings and meeting friction with its surroundings; with observing given up, the observer also loses its coordinates. A displacement common in positivism and mechanical materialism takes the readings and data models that the act of "observing" deposits as the ground, and forgets the subject who is observing. In language it is the same step: the symbol systems and logical propositions that speaking produces are taken for the base, and when this derived type system cannot contain the one who made it, what is asked to be silent is the source. This is like asking the eye to close because a microscope cannot see the eye that looks through it.
 
-要不可言说沉默，等于要观察者放弃观察，现实由此让给了被当作本体的形式数据。把次序放回来：找不到不可言说之“物”，找到的是正在对象化的观察者；凡可言说的形式系统、科学定律与哲学概念，都是这项能力的造物与脚手架。不可言说经由言说显出，心智经由观察确证。语言是一件还在演化的工具，立足于因果的摩擦，可以说得更好。
+要不可言说沉默，等于要观察者放弃观察，现实由此让给了被当作本体的形式数据。把次序放回来：找不到不可言说之“物”，找到的是正在对象化的观察者；凡可言说的形式系统、科学定律与哲学概念，都是这项能力的造物与脚手架。第七条命题具有[能动性、矛盾与权力的移置](../agency-contradiction-and-the-relocation-of-power/)在选择中所追溯的那种形态：一旦持续进行的活动被从账面隐去，它所生成的约束便在体验中登记为由外部强加，而第三人称报告是写给停留在活动之外的读者的，这份报告的界限便被当作活动本身的界限；从内部将正在进行的言说与言说的产物登记为同一项运动，便放下了一项索求：要源头要么作为一物出现在命题之中，要么保持沉默。不可言说经由言说显出，心智经由观察确证。语言是一件还在演化的工具，立足于因果的摩擦，可以说得更好。
 
 ```mermaid
 flowchart TD
@@ -251,7 +251,7 @@ flowchart TD
     style Speak fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-To ask the unspeakable to be silent is to ask the observer to give up observing, and reality is thereby yielded to formal data taken as the ground. With the order put back: no unspeakable "thing" is found, and what is found is the observer who is objectifying; every formal system, scientific law and philosophical concept that can be spoken is the product and scaffold of this capacity. The unspeakable shows through speaking, and a Mind is confirmed through observing. Language is a tool still evolving, and from a footing in causal friction it is possible to speak better.
+To ask the unspeakable to be silent is to ask the observer to give up observing, and reality is thereby yielded to formal data taken as the ground. With the order put back: no unspeakable "thing" is found, and what is found is the observer who is objectifying; every formal system, scientific law and philosophical concept that can be spoken is the product and scaffold of this capacity. Proposition 7 has the shape [Agency, Contradiction, and the Relocation of Power](../agency-contradiction-and-the-relocation-of-power/) traces in choice: once the ongoing act is omitted from the account, the constraint it generates registers as imposed from outside, and the limit of a third-person report to a reader who stays outside it is taken for a limit on the activity itself; registering the speaking and what it produces from within as one movement drops the demand that the source either appear among the propositions as a thing or keep silent. The unspeakable shows through speaking, and a Mind is confirmed through observing. Language is a tool still evolving, and from a footing in causal friction it is possible to speak better.
 
 ```mermaid
 flowchart TD

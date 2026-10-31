@@ -2,7 +2,7 @@
 
 *信号唯有被发起它的心智认领才成为学习 / A returning signal becomes learning only when the Mind that sent it claims it*
 
-心智把任何一个念头落成可感的信号，就启动了一条因果链，而这条链的一部分会折返回来：或是一个随即浮现的念头，或是另一个人的一句回应，或是一件工具的输出，或是一次行动在世界中激起的后果。流行的读法把折返回来的东西当作第二方发来的消息——一位令人失望的偶像，一台读错了意思的机器，一个持不同意见的对手——并在那里结账。顺着因果次序看，这些是同一件事：信号回到了发起它的心智。它只在被这颗心智认领为自身行动的后果时才成为学习；一旦归到别处，因果链照常延续，来源却无从修订。
+心智把任何一个表述落成可感的信号，就启动了一条因果链，而这条链的一部分会折返回来：或是一个随即浮现的念头，或是另一个人的一句回应，或是一件工具的输出，或是一次行动在世界中激起的后果。流行的读法把折返回来的东西当作第二方发来的消息——一位令人失望的偶像，一台读错了意思的机器，一个持不同意见的对手——并在那里结账。顺着因果次序看，这些是同一件事：信号回到了发起它的心智。它只在被这颗心智认领为自身行动的后果时才成为学习；一旦归到别处，因果链照常延续，来源却无从修订。
 
 Every formulation a Mind turns into a tangible signal starts a causal chain, and part of that chain comes back: as a thought that follows at once, as another person's response, as a tool's output, as the consequence of an act in the world. The prevailing reading takes what comes back as a message from a second party — a hero who disappointed, a machine that misread, an opponent who disagreed — and settles the account there. Followed in causal order, these are one event: a signal returning to the Mind that sent it. It becomes learning only where that Mind claims it as the consequence of its own act; assigned elsewhere, the chain runs on as before and its source stays unrevised.
 
@@ -42,23 +42,19 @@ flowchart TD
     M_SIG["落成可感的信号"]
     M_FORM --> M_SIG
   end
-
   subgraph S_PATH["【传播路径】"]
     direction TB
     P_THOUGHT["随即浮现的念头"]
     P_MODEL["他人或工具的回应"]
     P_ACT["行动在世界中的后果"]
   end
-
   R_BACK["回返被感知，心智在此抉择"]
-
   subgraph S_OUT["【记在承载者名下】"]
     direction TB
     O_ASSIGN["记到承载者名下"]
     O_RUN["因果链延续而来源未被修订"]
     O_ASSIGN --> O_RUN
   end
-
   subgraph S_CLAIM["【认领】"]
     direction TB
     C_OWN["认作自身行动的后果"]
@@ -66,7 +62,6 @@ flowchart TD
     C_NEXT["修订下一次表述"]
     C_OWN --> C_LOSS --> C_NEXT
   end
-
   M_SIG --> P_THOUGHT
   M_SIG --> P_MODEL
   M_SIG --> P_ACT
@@ -76,7 +71,6 @@ flowchart TD
   R_BACK --> O_ASSIGN
   R_BACK --> C_OWN
   C_NEXT -.->|"学习"| M_FORM
-
   style S_SRC fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
   style S_PATH fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
   style S_OUT fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -104,23 +98,19 @@ flowchart TD
     M_SIG["It becomes a tangible signal"]
     M_FORM --> M_SIG
   end
-
   subgraph S_PATH["[Paths of Travel]"]
     direction TB
     P_THOUGHT["A thought that follows at once"]
     P_MODEL["A response from a person or a tool"]
     P_ACT["Consequences of an act in the world"]
   end
-
   R_BACK["The return is perceived and the Mind chooses here"]
-
   subgraph S_OUT["[Entered Under the Carrier]"]
     direction TB
     O_ASSIGN["Entered under the carrier"]
     O_RUN["The chain runs on and its source stays unrevised"]
     O_ASSIGN --> O_RUN
   end
-
   subgraph S_CLAIM["[Claimed]"]
     direction TB
     C_OWN["Taken as the consequence of one's own act"]
@@ -128,7 +118,6 @@ flowchart TD
     C_NEXT["Revises the next formulation"]
     C_OWN --> C_LOSS --> C_NEXT
   end
-
   M_SIG --> P_THOUGHT
   M_SIG --> P_MODEL
   M_SIG --> P_ACT
@@ -138,7 +127,6 @@ flowchart TD
   R_BACK --> O_ASSIGN
   R_BACK --> C_OWN
   C_NEXT -.->|"Learning"| M_FORM
-
   style S_SRC fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
   style S_PATH fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
   style S_OUT fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -166,9 +154,9 @@ Nor is a claim self-blame. Blame, whether aimed at the carrier or at oneself, is
 
 ## 四、 无须第二方的闭合 / 4. Closure Without a Second Party
 
-把信号记在承载者名下并非无用。合同、评审、纠错与分工，都靠这种记法来安排接下来由谁做什么；在需要协调多人行动的地方，它是一件趁手的工具。它做不到的只有一件事：让发起者学到东西。账记在哪里是约定，后果落在哪里是因果，[数字火箭、同行审查与因果闭环的稀释](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/) 与 [任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) 已经说明后者不随前者移动；记到别处所改变的，只是后果能否修订它的来源。
+把信号记在承载者名下并非无用。合同、评审、纠错与分工，都靠这种记法来安排接下来由谁做什么；在需要协调多人行动的地方，它是一件趁手的工具。它做不到的只有一件事：让发起者学到东西。账记在哪里是约定，后果落在哪里是因果，[数字火箭、同行审查与因果闭环的稀释](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/) 与 [任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) 已经说明后者不随前者移动。记到别处所改变的，只是后果能否修订它的来源，并随之改变修订这一来源的权力看上去在哪一边：记到承载者名下，自身持续选择所造成的限制便在体验中登记为从外部强加，解除它的权力也一并归给了承载者，[能动性、矛盾与权力的移置](../agency-contradiction-and-the-relocation-of-power/) 追溯过这一移置；一旦认领，同一限制便成了信息，显出当下仍在做出的选择。
 
-Entering a signal under its carrier is not useless. Contracts, reviews, corrections and the division of work all rely on such entries to arrange who does what next; wherever the acts of many have to be coordinated, it is a handy tool. There is one thing it cannot do: let the initiator learn. Where an account is entered is a convention, and where a consequence lands is causal; [Digital Rockets, Peer Review, and the Dilution of the Causal Loop](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/) and [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) have shown that the second does not move with the first. What entering it elsewhere changes is only whether the consequence can revise its source.
+Entering a signal under its carrier is not useless. Contracts, reviews, corrections and the division of work all rely on such entries to arrange who does what next; wherever the acts of many have to be coordinated, it is a handy tool. There is one thing it cannot do: let the initiator learn. Where an account is entered is a convention, and where a consequence lands is causal; [Digital Rockets, Peer Review, and the Dilution of the Causal Loop](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/) and [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) have shown that the second does not move with the first. What entering it elsewhere changes is only whether the consequence can revise its source, and with that, where the power to revise it seems to sit: entered under the carrier, a limitation that one's own continued choosing keeps producing registers as imposed from outside, and the power to lift it is credited to the carrier too, the relocation traced in [Agency, Contradiction, and the Relocation of Power](../agency-contradiction-and-the-relocation-of-power/); claimed, the same limitation becomes information about the choices still being made.
 
 失望被认领，修订的是寄放裁决的做法，其中没有可哀悼之物，失去的只是一段滞后。误读被认领，显出的是那句话留了多少未说。对手的反驳被认领，成为衡量自身表述的一把尺。未被认领时，因果链照旧延续，后果照旧到来，只是来源维持原样。回路的闭合不需要第二方，也没有第二方能够代为闭合。
 
