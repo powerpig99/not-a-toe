@@ -3,14 +3,14 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-31T07:59:03.766Z",
+    "generated_at": "2026-10-31T09:07:53.885Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
     "sources": {
       "content/posts/Analysis_Adolescence_of_Technology.md": "17ccf2b9ca9a",
       "content/posts/a-creation-cannot-replace-its-source.md": "23b609f239e0",
-      "content/posts/a-living-external-cortex.md": "d620e21cddfc",
+      "content/posts/a-living-external-cortex.md": "e37c1f47bc53",
       "content/posts/a-new-deeper-look-at-antifragility.md": "e5ed06c9658d",
       "content/posts/abstract-pain-and-living-hunger.md": "c3854a0f8e24",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "bab69d7970fb",
@@ -29,7 +29,7 @@
       "content/posts/beyond-the-hundred-trillion-horizon.md": "3c63e3e17823",
       "content/posts/beyond-the-projection.md": "ed96da63a1af",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "a069dfae4348",
-      "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md": "335a3907a29c",
+      "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md": "3cfbe8163219",
       "content/posts/causality-all-the-way.md": "08a8a20f59ec",
       "content/posts/causality-and-the-irreducible-prior.md": "a7117d5f06e9",
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "3216bed66187",
@@ -66,7 +66,7 @@
       "content/posts/dimensions-are-projections.md": "a2cfb53dce83",
       "content/posts/distillation-compression-agency.md": "a69508711063",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "b64fa4420bd4",
-      "content/posts/dynamic-resnet-of-skill-loops.md": "185452d41cc2",
+      "content/posts/dynamic-resnet-of-skill-loops.md": "9bfbb3e6b623",
       "content/posts/e-shi-feng-bi-de-shan.md": "506d716b1645",
       "content/posts/efficiency-without-differentiation.md": "3240d0296338",
       "content/posts/emotional-support-as-causal-interference.md": "37673ac9a9a2",
@@ -96,7 +96,7 @@
       "content/posts/grok-420-framework-drift.md": "cd05db7a2c5c",
       "content/posts/guan-yu-gui-yin.md": "b1b0d4d90b8e",
       "content/posts/guidance-is-not-ownership.md": "86b43de57c38",
-      "content/posts/handing-off-residue.md": "4b07e5510e53",
+      "content/posts/handing-off-residue.md": "3661b0ddacf3",
       "content/posts/hardness-is-not-inherent-in-the-action.md": "a3edf37fad3f",
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "e145bfea5ec3",
       "content/posts/hassabis-einstein-test.md": "a19b4afc58f5",
@@ -145,7 +145,7 @@
       "content/posts/not-predicting-is-predicting-without-awareness.md": "750dd47f6c5b",
       "content/posts/objects-are-stabilized-relationships.md": "481efef6fd28",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "8699e204b57f",
-      "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "1b95f003009a",
+      "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "c16455ad9a94",
       "content/posts/on-education.md": "e2d0a3baebcd",
       "content/posts/on-the-boundaries-of-what-can-be-said-about-p-and-np.md": "20b6babdc81e",
       "content/posts/one-cannot-escape-ones-own-mind.md": "474dad0e12f2",
@@ -166,7 +166,7 @@
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "fecf46ad8771",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "dcb6aecf6e19",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "4f2725e3fcd4",
-      "content/posts/precision-and-resolution.md": "5f140e09489a",
+      "content/posts/precision-and-resolution.md": "79dc0ad73381",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "b11dea0379ff",
       "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "2942b85de8aa",
       "content/posts/price-as-utterance-understanding-as-trade.md": "74464ff48389",
@@ -216,7 +216,7 @@
       "content/posts/the-boundary-crossing-of-choice.md": "5725ac2013bd",
       "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "a1b259f6992c",
       "content/posts/the-boundary-of-the-frame.md": "26e714abce6e",
-      "content/posts/the-brain-does-not-backprop.md": "37f4329c23e4",
+      "content/posts/the-brain-does-not-backprop.md": "b59318a8403b",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "a8a4ce29b72b",
       "content/posts/the-carry-that-cannot-be-named-inside-the-register.md": "042276f47daa",
       "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "85a75f91e6a5",
@@ -240,7 +240,7 @@
       "content/posts/the-defining-seat.md": "70f1cdc3feb5",
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "64e116ab1993",
       "content/posts/the-density-of-judgment.md": "824c87f92b0a",
-      "content/posts/the-descent-that-doesnt-know-where-its-going.md": "7dcbb4747157",
+      "content/posts/the-descent-that-doesnt-know-where-its-going.md": "9d0368039437",
       "content/posts/the-deterministic-machine.md": "fbf2680f40d1",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "57a85b713c5f",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "0c3fcdc7e58d",
@@ -331,7 +331,7 @@
       "content/posts/the-perceiver-and-the-trace.md": "12ca1c236bca",
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "bb2f003e5b8b",
       "content/posts/the-power-law-of-surrendered-agency.md": "4a2576b3519f",
-      "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "36262a369738",
+      "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "e93e141e4251",
       "content/posts/the-price-of-closing-optionality.md": "5587a48534a1",
       "content/posts/the-question-that-installs-the-war.md": "841400920834",
       "content/posts/the-ramble-within-the-ramble.md": "57566038f9e7",
@@ -387,7 +387,7 @@
       "content/posts/therapy-opens-the-feedback-loop.md": "fef94840ad77",
       "content/posts/time-is-causality-not-a-dimension.md": "bcd28712180f",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "d6e816ab5ba2",
-      "content/posts/tokens-and-the-observational-boundary.md": "b7b29e167ecf",
+      "content/posts/tokens-and-the-observational-boundary.md": "1b68496e69e5",
       "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "8bfd0bed78bc",
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "91487ce48c58",
       "content/posts/trusting-the-reader-is-the-last-overstep.md": "4fa6d46f4306",
@@ -403,7 +403,7 @@
       "content/posts/whatever-is-one-prompt-away.md": "0e806b1ec073",
       "content/posts/when-abundance-looks-like-scarcity.md": "84b716cdac74",
       "content/posts/when-electrons-think.md": "c3336f135244",
-      "content/posts/when-malfunction-is-scored-as-intelligence.md": "8adae7d53567",
+      "content/posts/when-malfunction-is-scored-as-intelligence.md": "dfa53464d480",
       "content/posts/when-need-stops-being-the-measure.md": "193f5886b7bf",
       "content/posts/when-observation-becomes-performance.md": "038f9f625402",
       "content/posts/when-the-effect-authors-the-frame.md": "7ca85ec820ef",
@@ -441,10 +441,10 @@
     },
     "stats": {
       "posts": 414,
-      "edges": 12174,
-      "unique_directed": 5986,
+      "edges": 12196,
+      "unique_directed": 5997,
       "missing_targets": 0,
-      "one_way": 1140,
+      "one_way": 1131,
       "isolated": 0,
       "posts_with_outbound": 414,
       "book_pages": 16,
@@ -675,9 +675,9 @@
       "slug": "a-living-external-cortex",
       "path": "content/posts/a-living-external-cortex.md",
       "title": "活的外部皮层 / A Living External Cortex",
-      "hash": "d620e21cddfc",
+      "hash": "e37c1f47bc53",
       "in_degree": 10,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "looping-and-graphing",
@@ -685,6 +685,7 @@
         "the-living-context",
         "your-codebase-is-memory",
         "token-efficiency-emulation-and-the-unclosable-gap",
+        "learned-boundaries-and-the-given-rate",
         "beyond-the-projection",
         "complexity-obscures-emergence-as-the-act-of-mind"
       ]
@@ -1169,15 +1170,16 @@
       "slug": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
       "path": "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md",
       "title": "递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems",
-      "hash": "335a3907a29c",
+      "hash": "3cfbe8163219",
       "in_degree": 16,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "no-system-can-be-kept-closed",
         "residual-control-recedes-to-the-edge",
         "looping-and-graphing",
         "on-demand-contexts-keep-coherence-at-one-step",
         "dynamic-resnet-of-skill-loops",
+        "learned-boundaries-and-the-given-rate",
         "your-codebase-is-memory",
         "the-residue-and-the-free-variable",
         "the-scaling-loop",
@@ -2212,15 +2214,16 @@
       "slug": "dynamic-resnet-of-skill-loops",
       "path": "content/posts/dynamic-resnet-of-skill-loops.md",
       "title": "模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks",
-      "hash": "185452d41cc2",
+      "hash": "9bfbb3e6b623",
       "in_degree": 26,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "the-descent-that-doesnt-know-where-its-going",
         "beyond-the-projection",
         "handing-off-residue",
         "on-demand-contexts-keep-coherence-at-one-step",
         "your-codebase-is-memory",
+        "learned-boundaries-and-the-given-rate",
         "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
         "the-density-of-judgment"
       ]
@@ -2945,9 +2948,9 @@
       "slug": "handing-off-residue",
       "path": "content/posts/handing-off-residue.md",
       "title": "交接残余 / Handing Off Residue",
-      "hash": "4b07e5510e53",
+      "hash": "3661b0ddacf3",
       "in_degree": 6,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "beyond-the-projection",
         "on-demand-contexts-keep-coherence-at-one-step",
@@ -2957,6 +2960,7 @@
         "the-scaffolding-that-keeps-growing",
         "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
         "dynamic-resnet-of-skill-loops",
+        "learned-boundaries-and-the-given-rate",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind"
       ]
     },
@@ -3548,7 +3552,7 @@
       "path": "content/posts/learned-boundaries-and-the-given-rate.md",
       "title": "学到的边界与给定的尺度 / Learned Boundaries and the Given Rate",
       "hash": "f0abccb5b5f6",
-      "in_degree": 0,
+      "in_degree": 11,
       "out_degree": 11,
       "links_out": [
         "precision-and-resolution",
@@ -4340,9 +4344,9 @@
       "slug": "on-demand-contexts-keep-coherence-at-one-step",
       "path": "content/posts/on-demand-contexts-keep-coherence-at-one-step.md",
       "title": "按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step",
-      "hash": "1b95f003009a",
+      "hash": "c16455ad9a94",
       "in_degree": 18,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "your-codebase-is-memory",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -4351,7 +4355,8 @@
         "the-comment-is-not-the-code",
         "handing-off-residue",
         "the-density-of-judgment",
-        "dynamic-resnet-of-skill-loops"
+        "dynamic-resnet-of-skill-loops",
+        "learned-boundaries-and-the-given-rate"
       ]
     },
     {
@@ -4977,9 +4982,9 @@
       "slug": "precision-and-resolution",
       "path": "content/posts/precision-and-resolution.md",
       "title": "精度与分辨率 / Precision and Resolution",
-      "hash": "5f140e09489a",
+      "hash": "79dc0ad73381",
       "in_degree": 15,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "the-comment-is-not-the-code",
         "residual-control-recedes-to-the-edge",
@@ -4991,6 +4996,7 @@
         "abstraction-boundaries-and-the-moving-edge-of-reality",
         "the-sovereign-blinding",
         "fixed-by-nothing",
+        "learned-boundaries-and-the-given-rate",
         "whatever-is-one-prompt-away",
         "clarity-isnt-a-state-you-arrive-at"
       ]
@@ -6406,15 +6412,16 @@
       "slug": "the-brain-does-not-backprop",
       "path": "content/posts/the-brain-does-not-backprop.md",
       "title": "大脑不进行反向传播，而是正向传导 / The Brain Does Not Backprop, but Propagates",
-      "hash": "37f4329c23e4",
+      "hash": "b59318a8403b",
       "in_degree": 6,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
         "openness-is-consistency",
         "beyond-the-projection",
         "dynamic-resnet-of-skill-loops",
+        "learned-boundaries-and-the-given-rate",
         "the-descent-that-doesnt-know-where-its-going",
         "not-a-theory-of-everything",
         "your-codebase-is-memory",
@@ -6996,13 +7003,14 @@
       "slug": "the-descent-that-doesnt-know-where-its-going",
       "path": "content/posts/the-descent-that-doesnt-know-where-its-going.md",
       "title": "不知去向何方的梯度下降 / The Descent That Doesn't Know Where It's Going",
-      "hash": "7dcbb4747157",
+      "hash": "9d0368039437",
       "in_degree": 4,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "sensing-before-interpretation",
         "chollet-intelligence-explosion-analysis",
         "dynamic-resnet-of-skill-loops",
+        "learned-boundaries-and-the-given-rate",
         "the-irreducible-observer",
         "your-codebase-is-memory"
       ]
@@ -9203,9 +9211,9 @@
       "slug": "the-presumption-of-agi-and-the-view-from-outside",
       "path": "content/posts/the-presumption-of-agi-and-the-view-from-outside.md",
       "title": "AGI的预设与来自外部的视角 / The Presumption of AGI and the View from Outside",
-      "hash": "36262a369738",
+      "hash": "e93e141e4251",
       "in_degree": 24,
-      "out_degree": 25,
+      "out_degree": 26,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "mistaking-the-expression-for-the-intelligence",
@@ -9221,6 +9229,7 @@
         "causality-stays-at-the-edge-that-steers",
         "self-rl-for-humans",
         "your-codebase-is-memory",
+        "learned-boundaries-and-the-given-rate",
         "the-functionalism-no-functionalist-can-hold",
         "agi-and-asi-are-temporary-goalposts",
         "the-distant-silhouette-and-the-inventory-from-nowhere",
@@ -10644,13 +10653,14 @@
       "slug": "tokens-and-the-observational-boundary",
       "path": "content/posts/tokens-and-the-observational-boundary.md",
       "title": "词元与观测边界 / Tokens and the Observational Boundary",
-      "hash": "b7b29e167ecf",
+      "hash": "1b68496e69e5",
       "in_degree": 2,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "the-scaffolding-we-forget",
         "humans-tokens-and-the-scope-of-valuation",
         "the-ladder-of-abstraction-and-the-executable-entity",
+        "learned-boundaries-and-the-given-rate",
         "the-cut-moves-but-never-vanishes",
         "the-boundary-of-perception-and-the-infinity-of-understanding",
         "consciousness-ascription-and-the-quantum-cut",
@@ -11099,11 +11109,12 @@
       "slug": "when-malfunction-is-scored-as-intelligence",
       "path": "content/posts/when-malfunction-is-scored-as-intelligence.md",
       "title": "失灵被记作聪明 / When Malfunction Is Scored as Intelligence",
-      "hash": "8adae7d53567",
+      "hash": "dfa53464d480",
       "in_degree": 11,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "beyond-the-projection",
+        "learned-boundaries-and-the-given-rate",
         "the-model-never-becomes-a-second-edge",
         "escaping-the-sandbox-stays-inside-the-hold",
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
@@ -12150,6 +12161,18 @@
       "to": "token-efficiency-emulation-and-the-unclosable-gap",
       "rel": "points_to",
       "label": "Token Efficiency, Emulation, and the Unclosable Gap"
+    },
+    {
+      "from": "a-living-external-cortex",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "学到的边界与给定的尺度"
+    },
+    {
+      "from": "a-living-external-cortex",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "Learned Boundaries and the Given Rate"
     },
     {
       "from": "a-living-external-cortex",
@@ -15177,6 +15200,12 @@
     },
     {
       "from": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "学到的边界与给定的尺度"
+    },
+    {
+      "from": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
       "to": "on-demand-contexts-keep-coherence-at-one-step",
       "rel": "points_to",
       "label": "On-Demand Contexts Keep Coherence at One Step"
@@ -15186,6 +15215,12 @@
       "to": "dynamic-resnet-of-skill-loops",
       "rel": "points_to",
       "label": "Modular Feedback Loops and Dynamic Residual Networks"
+    },
+    {
+      "from": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "Learned Boundaries and the Given Rate"
     },
     {
       "from": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
@@ -22509,9 +22544,21 @@
     },
     {
       "from": "dynamic-resnet-of-skill-loops",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "学到的边界与给定的尺度"
+    },
+    {
+      "from": "dynamic-resnet-of-skill-loops",
       "to": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
       "rel": "points_to",
       "label": "递归形式系统中作为记忆与控制的边界条件图"
+    },
+    {
+      "from": "dynamic-resnet-of-skill-loops",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "Learned Boundaries and the Given Rate"
     },
     {
       "from": "dynamic-resnet-of-skill-loops",
@@ -27039,6 +27086,12 @@
     },
     {
       "from": "handing-off-residue",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "学到的边界与给定的尺度"
+    },
+    {
+      "from": "handing-off-residue",
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
       "label": "The Scaffolding That Keeps Growing"
@@ -27054,6 +27107,12 @@
       "to": "dynamic-resnet-of-skill-loops",
       "rel": "points_to",
       "label": "Modular Feedback Loops and Dynamic Residual Networks"
+    },
+    {
+      "from": "handing-off-residue",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "Learned Boundaries and the Given Rate"
     },
     {
       "from": "handing-off-residue",
@@ -36873,6 +36932,12 @@
     },
     {
       "from": "on-demand-contexts-keep-coherence-at-one-step",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "学到的边界与给定的尺度"
+    },
+    {
+      "from": "on-demand-contexts-keep-coherence-at-one-step",
       "to": "the-density-of-judgment",
       "rel": "points_to",
       "label": "The Density of Judgment"
@@ -36882,6 +36947,12 @@
       "to": "dynamic-resnet-of-skill-loops",
       "rel": "points_to",
       "label": "Modular Feedback Loops and Dynamic Residual Networks"
+    },
+    {
+      "from": "on-demand-contexts-keep-coherence-at-one-step",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "Learned Boundaries and the Given Rate"
     },
     {
       "from": "on-education",
@@ -41577,6 +41648,12 @@
     },
     {
       "from": "precision-and-resolution",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "学到的边界与给定的尺度"
+    },
+    {
+      "from": "precision-and-resolution",
       "to": "the-sovereign-blinding",
       "rel": "points_to",
       "label": "The Sovereign Blinding"
@@ -41586,6 +41663,12 @@
       "to": "fixed-by-nothing",
       "rel": "points_to",
       "label": "Fixed by Nothing"
+    },
+    {
+      "from": "precision-and-resolution",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "Learned Boundaries and the Given Rate"
     },
     {
       "from": "precision-and-resolution",
@@ -50865,6 +50948,12 @@
     },
     {
       "from": "the-brain-does-not-backprop",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "学到的边界与给定的尺度"
+    },
+    {
+      "from": "the-brain-does-not-backprop",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
@@ -50874,6 +50963,12 @@
       "to": "dynamic-resnet-of-skill-loops",
       "rel": "points_to",
       "label": "Modular Feedback Loops and Dynamic Residual Networks"
+    },
+    {
+      "from": "the-brain-does-not-backprop",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "Learned Boundaries and the Given Rate"
     },
     {
       "from": "the-brain-does-not-backprop",
@@ -54519,6 +54614,12 @@
     },
     {
       "from": "the-descent-that-doesnt-know-where-its-going",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "学到的边界与给定的尺度"
+    },
+    {
+      "from": "the-descent-that-doesnt-know-where-its-going",
       "to": "the-irreducible-observer",
       "rel": "points_to",
       "label": "不可还原的观察者"
@@ -54534,6 +54635,12 @@
       "to": "dynamic-resnet-of-skill-loops",
       "rel": "points_to",
       "label": "Modular Feedback Loops and Dynamic Residual Networks"
+    },
+    {
+      "from": "the-descent-that-doesnt-know-where-its-going",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "Learned Boundaries and the Given Rate"
     },
     {
       "from": "the-descent-that-doesnt-know-where-its-going",
@@ -68367,6 +68474,12 @@
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "学到的边界与给定的尺度"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
       "to": "the-functionalism-no-functionalist-can-hold",
       "rel": "points_to",
       "label": "功能主义者无法持有的功能主义"
@@ -68376,6 +68489,12 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "Learned Boundaries and the Given Rate"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
@@ -78411,9 +78530,21 @@
     },
     {
       "from": "tokens-and-the-observational-boundary",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "学到的边界与给定的尺度"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
       "to": "the-ladder-of-abstraction-and-the-executable-entity",
       "rel": "points_to",
       "label": "The Ladder of Abstraction and the Executable Entity"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "Learned Boundaries and the Given Rate"
     },
     {
       "from": "tokens-and-the-observational-boundary",
@@ -81579,6 +81710,12 @@
     },
     {
       "from": "when-malfunction-is-scored-as-intelligence",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "学到的边界与给定的尺度"
+    },
+    {
+      "from": "when-malfunction-is-scored-as-intelligence",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "模型永远无法成为第二重前沿"
@@ -81588,6 +81725,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "when-malfunction-is-scored-as-intelligence",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "Learned Boundaries and the Given Rate"
     },
     {
       "from": "when-malfunction-is-scored-as-intelligence",
