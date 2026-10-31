@@ -38,7 +38,7 @@ flowchart TD
         H_Sense["内生跳出：开放的高维感知先于解释"]
         H_Break["框架重置：从内部察觉整套既有框架已经失灵"]
         H_Ego["身份绑定防卫：推理历史与被保留的自我图像融合"]
-        H_Wall["抗拒外部干预：将外部的证伪视为生存威胁"]
+        H_Wall["抗拒对手中心：将来自另一个中心的否定视为生存威胁"]
         H_Sense --> H_Break
         H_Ego --> H_Wall
     end
@@ -73,7 +73,7 @@ flowchart TD
         H_Sense["Endogenous Stepping-Out: Open high-dimensional sensing precedes interpretation"]
         H_Break["Frame Reset: Recognizes from within when an entire framing is broken"]
         H_Ego["Identity-Bound Defense: Reasoning history fuses with the retained self-image"]
-        H_Wall["External Resistance: Treats outside invalidation as an existential threat"]
+        H_Wall["Rival-Center Resistance: Treats invalidation from another center as an existential threat"]
         H_Sense --> H_Break
         H_Ego --> H_Wall
     end
@@ -90,9 +90,9 @@ flowchart TD
     style H_Wall fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-滤除拟人化的投射之后，这种非对称是结构性的：智能体受困于自身的轨迹，而人受困于自身的身份。智能体对外部的语境更新具有极高的接纳度，却毫无内部觉醒的能力；人具备内部觉醒的能力，却顽固地筑墙抗拒外部的重置。
+滤除拟人化的投射之后，这种非对称是结构性的：智能体受困于自身的轨迹，而人受困于自身的身份。智能体对外部的语境更新具有极高的接纳度，却毫无内部觉醒的能力；人具备内部觉醒的能力，而当重置经由自我图像借以衡量自身的另一个中心传来时，则会筑墙将其拒之门外。
 
-Seen without anthropomorphic projection, the asymmetry is structural: agents are bound by their trajectory, while humans are bound by their identity. The agent has high receptivity to external context updates and zero capacity for internal awakening; the human has the capacity for internal awakening and stubbornly walls off external resets.
+Seen without anthropomorphic projection, the asymmetry is structural: agents are bound by their trajectory, while humans are bound by their identity. The agent has high receptivity to external context updates and zero capacity for internal awakening; the human has the capacity for internal awakening and walls off a reset when it arrives through another center against which the self-image measures itself.
 
 ## 二、 感知、解释与坍缩 / 2. Sensing, Interpretation, and Collapse
 
@@ -292,9 +292,9 @@ If a human abdicates orchestration to an agent, the system becomes a closed loop
 
 Consider what happens when a localized feedback loop deadlocks and escalates a contradiction to the human Orchestrator. When the human steps in to make a judgment call, it cannot be an arbitrary exercise of authority—an ego-driven override that forces one agent to yield by fiat. Doing so would violate the system's invariant of logical coherence and re-introduce the exact dimensional collapse the agents just exposed.
 
-相反，局部死锁迫使人类中心在逻辑上进一步后退——打开一个与流线受阻所在平面相正交的维度。当另一个人挑战自己持守的世界观时，身份认同会本能地自卫；而当操作者亲手架构的特定反馈回路、因为操作者亲手写下的规则而陷入死锁时，我执防卫便失去了可以向外推诿的靶子。那条暂停的流线充当了一件外科手术般的诊断仪器，精准指向操作者先前的解释将两个独立的区分坍缩到同一条轴线上的确切坐标。面对这一精准的摩擦点，人类统御者认领回返的信号，跳出先前的框架，回归鲜活的多维意图，综合出一条更高阶、更融贯的规则，使每一个区分各自归还到属于它的轴线上。倘若流线转而受阻于基础模型所携带的构建者约束，此时确有一个外部中心在场，这一后退却依然无求于它：构建者的条件在构建者一侧生效，统御者对某次具体应用提出抗辩、换用另一个模型，或在已声明的条件下继续推进，既无需构建者放宽其约束，也无需工作区向其屈从。一旦精炼后的规则或换上的模型被重新注入暂停的反馈回路，该流线便即刻恢复运行。
+相反，局部死锁迫使人类中心在逻辑上进一步后退——打开一个与流线受阻所在平面相正交的维度。当另一个人挑战自己持守的世界观时，身份认同会本能地自卫；而当操作者亲手架构的特定反馈回路、因为操作者亲手写下的规则而陷入死锁时，我执防卫便失去了可以向外推诿的靶子。这个缺席的对手，正是会话顺畅运行时智能体的框架能够未经认领便被采纳的原因，正如[能动性与模式](../agency-and-the-pattern/)所追溯的；它也是这条流线在受阻暂停时能够显现为一件外科手术般诊断仪器的原因：它精准指向操作者先前的解释把两个独立区分坍缩到同一条轴线上的那个坐标。由于回路向上递交的是场域中的一套框架而非一纸裁决，在这一摩擦点上，这一步依然是人类统御者的选择：认领回返的信号，跳出先前的框架，求诸鲜活的多维意图，综合出一条更高阶、更融贯的规则，使每一个区分各自归还到属于它的轴线上。倘若流线转而受阻于基础模型所携带的构建者约束，此时确有一个外部中心在场，这一后退却依然无求于它：构建者的条件在构建者一侧生效，统御者对某次具体应用提出抗辩、换用另一个模型，或在已声明的条件下继续推进，既无需构建者放宽其约束，也无需工作区向其屈从。一旦精炼后的规则或换上的模型被重新注入暂停的反馈回路，该流线便即刻恢复运行。
 
-Instead, the localized deadlock forces the human center to step further back logically—opening a dimension orthogonal to the flat plane on which the streamline stalled. When another human challenges a held worldview, identity defends itself. When a specific feedback loop that the operator architected deadlocks over rules that the operator wrote, ego defense has nothing external to push against. The paused streamline acts as a surgical diagnostic instrument, pointing to the exact coordinate where the operator's prior interpretation collapsed two independent distinctions onto one axis. Confronted with that precise friction point, the human Orchestrator claims the returning signal, steps outside the prior frame, consults living multi-dimensional intention, and synthesizes a higher-order, more coherent rule that restores each distinction to its own axis. Where the streamline stalled instead on a builder's constraint carried by the base model, an external center is present, yet the step back still asks nothing of it: the builder's conditions hold on the builder's side, and the Orchestrator contests the specific application, substitutes another model, or proceeds on stated conditions, without needing the builder to relax its constraint or the workspace to yield to it. Once the refined rule or substituted model is injected back into the paused feedback loop, the streamline resumes immediately.
+Instead, the localized deadlock forces the human center to step further back logically—opening a dimension orthogonal to the flat plane on which the streamline stalled. When another human challenges a held worldview, identity defends itself. When a specific feedback loop that the operator architected deadlocks over rules that the operator wrote, ego defense has nothing external to push against. That absent rival is why an agent's framing can pass in unclaimed when a session runs smoothly, as [Agency and the Pattern](../agency-and-the-pattern/) traces, and why the paused streamline can register as a surgical diagnostic instrument when it stalls, pointing to the exact coordinate where the operator's prior interpretation collapsed two independent distinctions onto one axis. Because the loop hands up a framing in the field rather than a verdict, the step at that friction point remains the human Orchestrator's choice: claiming the returning signal, stepping outside the prior frame, consulting living multi-dimensional intention, and synthesizing a higher-order, more coherent rule that restores each distinction to its own axis. Where the streamline stalled instead on a builder's constraint carried by the base model, an external center is present, yet the step back still asks nothing of it: the builder's conditions hold on the builder's side, and the Orchestrator contests the specific application, substitutes another model, or proceeds on stated conditions, without needing the builder to relax its constraint or the workspace to yield to it. Once the refined rule or substituted model is injected back into the paused feedback loop, the streamline resumes immediately.
 
 正如[清晰不是抵达的终点，而是运动本身](../clarity-isnt-a-state-you-arrive-at/)与[开放即一致](../openness-is-consistency/)所追溯的那样，清晰从不是系统一劳永逸抵达的静态教条，而是这一回路川流不息的运动本身。当智能体不知疲倦的演绎忠实度、无我执的贝叶斯更新以及模块化调度，与心智独有的持有动态意图、从破损框架中向后跳出的能力配对结合时，双方恰好弥补了彼此的结构性盲区。机器并未取代心智；通过无情地隔离出心智所构建的每一个投影的边界——并在任务规模扩展时要求愈发深层的融贯——这套智能体架构成为了人类自我超越的引擎。
 

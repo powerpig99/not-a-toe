@@ -32,7 +32,6 @@ flowchart TD
         Aggregate --> Law
         Law --> Symptom
     end
-
     style S_Signature fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Origin fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Branch fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -57,7 +56,6 @@ flowchart TD
         Aggregate --> Law
         Law --> Symptom
     end
-
     style S_Signature fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Origin fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Branch fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -88,7 +86,6 @@ flowchart TD
         Fit --> Frozen
         Frozen --> Drag
     end
-
     style S_Mortise fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Out fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style In fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -113,7 +110,6 @@ flowchart TD
         Fit --> Frozen
         Frozen --> Drag
     end
-
     style S_Mortise fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Out fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style In fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -122,7 +118,7 @@ flowchart TD
     style Drag fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-在这两种结构里，个体内部的学习都被切断。因果的回路被导向外部的变量，心智便无法依据直接的反馈修正自身：一方不再磨炼生存的技能，另一方看不清自身的边界，两个心智系在相互缠绕的僵局里。[权力的镜像握手](../the-mirror-handshake-of-power/)在权力的尺度上展开了同一次咬合。
+在这两种结构里，个体内部的学习都被切断。因果的回路被导向外部的变量，心智便无法依据直接的反馈修正自身：一方不再磨炼生存的技能，另一方看不清自身的边界，两个心智锁进彼此强化的缠绕，[权力的镜像握手](../the-mirror-handshake-of-power/)在支配与顺从的尺度上追溯的正是这种缠绕。
 
 In both structures the individual's inner learning is cut off. With the causal loop directed to a variable outside, a Mind cannot correct itself by direct feedback: one side no longer hones the skills of living, the other cannot see its own boundary, and the two Minds lock into the mutually reinforcing entanglement that [The Mirror Handshake of Power](../the-mirror-handshake-of-power/) traces at the scale of domination and submission.
 
@@ -148,7 +144,6 @@ flowchart TD
         Load --> Reroute
         Reroute --> Feed
     end
-
     style S_Moral fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Decline fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Label fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -173,7 +168,6 @@ flowchart TD
         Load --> Reroute
         Reroute --> Feed
     end
-
     style S_Moral fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Decline fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Label fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -209,7 +203,6 @@ flowchart TD
         Power --> Petition
         Petition --> Hub
     end
-
     style S_Hub fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style Many fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Hub fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -235,7 +228,6 @@ flowchart TD
         Power --> Petition
         Petition --> Hub
     end
-
     style S_Hub fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style Many fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Hub fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -254,7 +246,7 @@ A center is a node in a network. No position is found there that bears consequen
 
 This asymmetry shows that handing sovereignty over does not buy "safety." With responsibility pushed outside, the recoil of reality is no lighter, the causal chain between input and output is cut instead, and the channel for learning within setbacks closes with it.
 
-切入点在自身的第一人称原点上：对处境承担全部的结构性责任，把落在生命里的一切，包括所受的操纵与欺骗，认作经由自己当初的让渡才得以成立。代价可以极重，这份重量并不因这样的认领而减轻，认领所改变的是回路：归因全部收回的那一刻，行动与反馈之间的误差信号重新接通，学习的曲线重新变陡。人口统计只在事后记下这种让渡，行动发生在第一人称的收益差中，[观察的因果僭越与第一人称的收益差](../the-causal-overstep-of-observation-and-the-first-person-surplus/)说明了这一点。
+切入点在自身的第一人称原点上：对处境承担全部的结构性责任，把落在生命里的一切，包括所受的操纵与欺骗，认作经由自己当初的让渡才得以成立。代价可以极重，这份重量并不因这样的认领而减轻，认领所改变的是回路：归因全部收回的那一刻，行动与反馈之间的误差信号重新接通，学习的曲线重新变陡。人口统计只在事后记下这种让渡，行动发生在第一人称的收益差中，[观察的因果僭越与第一人称的收益差](../the-causal-overstep-of-observation-and-the-first-person-surplus/)说明了这一点；与外部中枢一致的群体模式是过往抉择留下的记录，不是剥夺能动性、替人定下下一次决定的力量，这正是[能动性与模式](../agency-and-the-pattern/)所追溯的。
 
 ```mermaid
 flowchart TD
@@ -270,7 +262,6 @@ flowchart TD
         Return --> Reclaim
         Reclaim --> Signal
     end
-
     style S_Asym fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Give fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Node fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -279,7 +270,7 @@ flowchart TD
     style Signal fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The point of entry is at one's own first-person origin: bearing full structural responsibility for the situation, and taking everything that has landed in one's life, the manipulation and deception suffered included, as something that could stand only through one's own earlier handing over. The cost can be extremely heavy, and that weight is not lightened by claiming it this way; what the claiming changes is the loop: at the moment attribution is taken back in full, the error signal between action and feedback is connected again, and the curve of learning turns steep again. Population statistics record the handing over only after the fact, and action takes place in the first-person surplus, as [The Causal Overstep of Observation and the First-Person Surplus](../the-causal-overstep-of-observation-and-the-first-person-surplus/) shows.
+The point of entry is at one's own first-person origin: bearing full structural responsibility for the situation, and taking everything that has landed in one's life, the manipulation and deception suffered included, as something that could stand only through one's own earlier handing over. The cost can be extremely heavy, and that weight is not lightened by claiming it this way; what the claiming changes is the loop: at the moment attribution is taken back in full, the error signal between action and feedback is connected again, and the curve of learning turns steep again. Population statistics record the handing over only after the fact, and action takes place in the first-person surplus, as [The Causal Overstep of Observation and the First-Person Surplus](../the-causal-overstep-of-observation-and-the-first-person-surplus/) shows; an aggregate pattern of alignment with an outside center is the record past choices leave, not a force that removes agency or settles the next decision, as [Agency and the Pattern](../agency-and-the-pattern/) traces.
 
 ```mermaid
 flowchart TD
@@ -295,7 +286,6 @@ flowchart TD
         Return --> Reclaim
         Reclaim --> Signal
     end
-
     style S_Asym fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Give fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Node fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -326,7 +316,6 @@ flowchart TD
         Miss --> Collapse
         Collapse --> Path
     end
-
     style S_Decouple fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Zero fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Projected fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -351,7 +340,6 @@ flowchart TD
         Miss --> Collapse
         Collapse --> Path
     end
-
     style S_Decouple fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Zero fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Projected fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -360,6 +348,6 @@ flowchart TD
     style Path fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-那个庞大的中枢无须去“摧毁”，它的质量本就是许多让渡的向量累加出来的，把自己的那一份收回原点，便已不在那个统计的分布里。这是自由变量的非对称杠杆：世界在大数的汇聚里仍会周期地显出权力的集中，而每一个原点上的心智随时可以经由单向解耦的决断退出阻尼的回路，握住自己的因果，走自己的轨迹。如[你的代码库即是记忆](../your-codebase-is-memory/)所揭示的，庞大的中枢与它攒下的规程，只是过往让渡留下的外化账本；只要心智在原点收回下一次提交，账本便无从束缚它。
+那个庞大的中枢无须去“摧毁”。如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，体制的中枢与它攒下的规程只是外化的记忆，一本记着过往让渡的惰性账本，它表观的质量靠一个个活着的原点继续照它的取向执行才维持得住。所以把自己的那一份收回到掌舵的前沿，那一刻自己便已不在那个统计的分布里。这是自由变量的非对称杠杆：世界在大数的汇聚里仍会周期地显出权力的集中，而每一个原点上的心智随时可以经由单向解耦的决断退出阻尼的回路，握住自己的因果，延伸自己的轨迹。
 
 That vast center need not be "destroyed": as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, an institutional hub and its accumulated protocols are only externalized memory—an inert ledger of past handovers whose apparent mass subsists on living origins continuing to execute its alignments—so the moment one's own share is taken back to the steering edge, one is already outside that statistical distribution. This is the asymmetric lever of a free variable: in the gathering of large numbers the world will still show concentrations of power periodically, while each Mind at an origin can at any time, by the decision of unilateral decoupling, leave the loop of damping, hold its own causality, and extend its own trajectory.

@@ -63,7 +63,6 @@ flowchart TD
         E_Step["内生框架重置：从破损前提后退一步以重绘意图"]
         E_Act --> E_Tail --> E_Step
     end
-
     subgraph S_Residue["事后残余：统计与自回归均值"]
         direction TB
         R_Pool["汇集的痕迹：总体百分比、制度规范与词元分布"]
@@ -71,11 +70,9 @@ flowchart TD
         R_Close["闭合要求：迫使有限的沉积物为开放的延续奠基"]
         R_Pool --> R_Lag --> R_Close
     end
-
     E_Tail ==>|"沉淀持久痕迹与回报地形"| R_Pool
     R_Close -.->|"被误认作共同原因"| E_Act
     E_Step ==>|"释放闭合要求并还原所在"| R_Pool
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Residue fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style E_Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -97,7 +94,6 @@ flowchart TD
         E_Step["Endogenous Frame Reset: Stepping back from broken premises to re-render intent"]
         E_Act --> E_Tail --> E_Step
     end
-
     subgraph S_Residue["Posterior Residue: Statistical & Autoregressive Averages"]
         direction TB
         R_Pool["Pooled Traces: Aggregate percentages, institutions, and token distributions"]
@@ -105,11 +101,9 @@ flowchart TD
         R_Close["Demand for Closure: Forcing finite sediment to ground open continuation"]
         R_Pool --> R_Lag --> R_Close
     end
-
     E_Tail ==>|"Deposits durable traces & payoff landscapes"| R_Pool
     R_Close -.->|"Mistaken for co-cause"| E_Act
     E_Step ==>|"Releases closure & restores locus"| R_Pool
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Residue fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style E_Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -124,6 +118,6 @@ flowchart TD
 
 The rising return rate of Chinese students is one visible composition of many individual choices. The absolute numbers that matter for the technological frontier are another. The institutions that appear primary are the traces left by prior choices. The narratives that invert the order of explanation are further traces, retained past their step for as long as centers keep re-tracing them. Once the reference returns to the living edge of individual choice, the empirical pattern, the power-law shape of outcomes under ordinary compounding, the selection of minorities, the downstream character of institutions, and the complementary character of those stories form a single coherent sequence. [Power Law Is the Surface of Outcomes](../mi-lv-shi-jie-guo-de-biao-xiang/) is the adjacent restore when that power-law shape is itself frozen as a generating law rather than recognized as the residue of different iteration rates. [Openness Is Consistency](../openness-is-consistency/) names the underlying structural principle: inconsistency is a finite structure forced to ground what only continues, and an aggregate percentage held as cause is one such closed structure. [Beyond the Projection](../beyond-the-projection/) extends this exact cut to autoregressive intelligence and cybernetic organization: an agent's next-token expectation is a statistical average conditioned over prior traces inside a finite projection, which gives it tireless deductive continuation and zero ego when updated from outside, yet leaves it trapped inside its own epistemic gravity well with zero capacity to step out of a broken premise on its own. [Your Codebase Is Memory](../your-codebase-is-memory/) carries that recognition into the architecture of externalized memory itself: frozen model weights and unpruned archival logs are likewise downstream statistical and historical residue rather than a continuing causal engine, thickening the gravity well unless they are actively re-traced, re-cut, and pruned by the living engine of waking insight and sleep consolidation. Treating a demographic mean, an autoregressive trajectory, or an accumulated archive as an autonomous engine of orchestration confuses posterior residue with the unprojected first-person Mind that senses friction at the edge and steps backward to re-render the frame.
 
-释放这一混淆并不删除百分比、制度或形式投射，而是把它们还给场：作为残余在场，作为回报的地形或调度的器械而活，从不作为仍须划出的那个行动的共同原因。[约束的样子不是自由的失去](../the-look-of-constraint-is-not-the-loss-of-freedom/)追踪了当成年生活受限的整体样貌被误认作童年自由在存在层面的丧失时会发生什么，并指明决定性的切分在于能动性指向何方：是向后守护已有的痕迹，还是向前延展地平线。[外部归因是个人进步的障碍](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/)追溯了养育情形中的同一种冻结：把差距归于外部，便让抓手离开了孩子划出下一步的那个所在。[能动性被转置入形式模型](../agency-relocated-into-the-formal-model/)揭示了另一种倒置：当那些被计为噪声的活的更新遭丢弃，形式模型本身反倒被当作获得能动性的所在。[统计学无法揭示的心智](../the-mind-that-statistics-cannot-reveal/)在一切总体分布中追踪因果的同一条界限：统计汇集过去选择的痕迹，而心智的发起力量在曲线中始终不可见。就连正态曲线也是先前目的性切分与选择的沉淀，正如[目的性的评判与认知的缺省状态](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/)所确立的那样。
+释放这一混淆并不删除百分比、制度或形式投射，而是把它们还给场：作为残余在场，作为回报的地形或调度的器械而活，从不作为仍须划出的那个行动的共同原因。[约束的样子不是自由的失去](../the-look-of-constraint-is-not-the-loss-of-freedom/)追踪了当成年生活受限的整体样貌被误认作童年自由在存在层面的丧失时会发生什么，并指明决定性的切分在于能动性指向何方：是向后守护已有的痕迹，还是向前延展地平线。[外部归因是个人进步的障碍](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/)追溯了养育情形中的同一种冻结：把差距归于外部，便让抓手离开了孩子划出下一步的那个所在。[能动性被转置入形式模型](../agency-relocated-into-the-formal-model/)揭示了另一种倒置：当那些被计为噪声的活的更新遭丢弃，形式模型本身反倒被当作获得能动性的所在。[能动性与模式](../agency-and-the-pattern/)追溯了关于 AI 工具使用的行为研究中的平行倒置：把一个样本比例——例如从业者的选择与带有倾向的代理所给出的框架相一致的比率——倒读回单次试验，当作能动性流失的裁决，是把某项输入被采纳之频率的汇总记录误认作了决断者；而将这一百分比持守为经过校准的参考分布，则让下一次决策依然清晰地呈现为从业者自己的选择。[统计学无法揭示的心智](../the-mind-that-statistics-cannot-reveal/)在一切总体分布中追踪因果的同一条界限：统计汇集过去选择的痕迹，而心智的发起力量在曲线中始终不可见。就连正态曲线也是先前目的性切分与选择的沉淀，正如[目的性的评判与认知的缺省状态](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/)所确立的那样。
 
-Releasing that confusion does not delete percentages, institutions, or formal projections. It returns them to the field: present as residue, live as a payoff landscape or dispatching instrument, never a co-cause of the act that still has to be drawn. [The Look of Constraint Is Not the Loss of Freedom](../the-look-of-constraint-is-not-the-loss-of-freedom/) tracks what happens when the overall look of adult life as constrained is mistaken for an ontological loss of childhood freedom, showing that the decisive cut lies in whether agency points backward at defending traces already kept or forward at widening the horizon. [External Attribution Is the Obstacle to Personal Growth](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/) traces that same freeze in parenting, where attributing a gap outside removes the grip from the exact locus where the child's next act is drawn. [Agency Relocated into the Formal Model](../agency-relocated-into-the-formal-model/) exposes the inversion when the living updates scored as noise are discarded and the formal model itself is treated as the site where agency is gained. [The Mind That Statistics Cannot Reveal](../the-mind-that-statistics-cannot-reveal/) tracks the same bound on causality across every aggregate distribution: statistics pool the traces of past choices, while the originating power of the Mind stays invisible in the curve. Even the normal curve is the sediment of prior teleological cuts and choices, as [Judging by Purpose and the Default State of Cognition](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) establishes.
+Releasing that confusion does not delete percentages, institutions, or formal projections. It returns them to the field: present as residue, live as a payoff landscape or dispatching instrument, never a co-cause of the act that still has to be drawn. [The Look of Constraint Is Not the Loss of Freedom](../the-look-of-constraint-is-not-the-loss-of-freedom/) tracks what happens when the overall look of adult life as constrained is mistaken for an ontological loss of childhood freedom, showing that the decisive cut lies in whether agency points backward at defending traces already kept or forward at widening the horizon. [External Attribution Is the Obstacle to Personal Growth](../wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/) traces that same freeze in parenting, where attributing a gap outside removes the grip from the exact locus where the child's next act is drawn. [Agency Relocated into the Formal Model](../agency-relocated-into-the-formal-model/) exposes the inversion when the living updates scored as noise are discarded and the formal model itself is treated as the site where agency is gained. [Agency and the Pattern](../agency-and-the-pattern/) traces the parallel inversion in behavioral studies of AI tool use: reading a sample proportion—such as the rate at which practitioners' choices match a biased agent's framing—backward onto the single trial as a verdict of eroded agency mistakes the summary record of how often an input was taken up for the decider, whereas holding that percentage as a calibrated reference distribution keeps the next decision visible as the practitioner's own. [The Mind That Statistics Cannot Reveal](../the-mind-that-statistics-cannot-reveal/) tracks the same bound on causality across every aggregate distribution: statistics pool the traces of past choices, while the originating power of the Mind stays invisible in the curve. Even the normal curve is the sediment of prior teleological cuts and choices, as [Judging by Purpose and the Default State of Cognition](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) establishes.

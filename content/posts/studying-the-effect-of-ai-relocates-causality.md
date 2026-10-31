@@ -2,9 +2,9 @@
 
 *把工具当作因果的施动者，正是数据所登记的那种替代 / Treating the tool as causal agent is the substitution the data register*
 
-越来越多的随机对照试验与实地实验，考察学生在学习时用上生成式 AI 会发生什么。在一项近千名高中生参与的数学实验中，使用不受限 GPT-4 界面的学生，在工具可用时练习题得分高出约 48%，到了不能用工具的考试，却比从未用过的同伴低了约 17%；一个不直接给出答案的带护栏辅导工具让练习分数更高，无辅助的考试则与对照组在统计上无从区分。实地数据呈现类似的样子，[作业与考试的倒置折射出替代效应](../the-homework-exam-inversion-registers-substitution/)登记到作业分数提高约 18%，闭卷考试成绩下降约 20%。元分析有时报告对短期成绩有中等的正面平均效应，但这些汇总常常把工具在场时的分数与工具撤走后的分数混在一起。
+越来越多的随机对照试验与实地实验，考察学生在学习时用上生成式 AI 会发生什么。在一项近千名高中生参与的数学实验中，使用不受限 GPT-4 界面的学生，在工具可用时练习题得分高出约 48%，到了不能用工具的考试，却比从未用过的同伴低了约 17%；一个不直接给出答案的带护栏辅导工具让练习分数更高，无辅助的考试则与对照组在统计上无从区分。实地数据呈现类似的样子，[作业与考试的倒置折射出替代效应](../the-homework-exam-inversion-registers-substitution/)追溯了作业分数约 18% 的上升与闭卷考试成绩约 20% 的下滑。元分析把工具仍在场时的分数与工具撤走后的分数混在一起汇总时，报告对短期成绩有中等的正面平均效应。
 
-A growing body of randomized trials and field experiments has examined what happens when students are given access to generative AI during learning. In a high-school mathematics experiment of nearly a thousand students, those using an unrestricted GPT-4 interface scored about 48 percent higher on practice problems while the tool was available, then 17 percent lower on an unassisted exam than peers who had never used it; a guarded tutor that withheld finished answers raised practice scores still further and left the unaided exam statistically indistinguishable from the control. Similar patterns appear in the field, where [the homework–exam inversion](../the-homework-exam-inversion-registers-substitution/) registers homework gains around 18 percent against closed-book exam losses around 20 percent. Meta-analyses report moderate positive average effects on short-term achievement when those aggregates mix scores taken while the tool remains present with scores taken after it is removed.
+A growing body of randomized trials and field experiments has examined what happens when students are given access to generative AI during learning. In a high-school mathematics experiment of nearly a thousand students, those using an unrestricted GPT-4 interface scored about 48 percent higher on practice problems while the tool was available, then 17 percent lower on an unassisted exam than peers who had never used it; a guarded tutor that withheld finished answers raised practice scores still further and left the unaided exam statistically indistinguishable from the control. Similar patterns appear in the field, where [The Homework–Exam Inversion Registers Substitution](../the-homework-exam-inversion-registers-substitution/) traces homework gains around 18 percent against closed-book exam losses around 20 percent. Meta-analyses report moderate positive average effects on short-term achievement when those aggregates mix scores taken while the tool remains present with scores taken after it is removed.
 
 ## 一、 数据登记的是短期的辅助与无辅助时的下滑 / 1. The Data Register Short-Term Assistance and Unaided Decline
 
@@ -26,7 +26,7 @@ The premise itself is where the deeper misallocation sits. The studies do not is
 
 Conversely, when an individual uses the same tool as a lever, requesting explanations, testing understanding, and deliberately confronting difficulty before consulting it, the identical technology amplifies improvement. The difference is not located in the model weights. It is located in the relationship the person chooses to form with the instrument. [The Amplification Paradox](../amplification-paradox/) is that geometry as tools densify: the same instrument in different hands produces radically different outcomes because selection stays with the user. [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) is the same placement dressed as discovery: the model recombines residue under direction, and every initiating distinction remains the user's own act.
 
-同一项实验里的带护栏辅导工具，仍是这层几何，只是晚了一步。交互日志显示，不受限的使用者索要并照抄答案，而辅导工具的使用者则请求帮助，或自己尝试作答。论文把考试成绩的差别读作护栏的属性。然而正如[超越投射](../beyond-the-projection/)与[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，任何显式的提示词、护栏、外化记忆库或智能体套具都只是落盘的有限投射，它在固定规则内调度词元轨迹，却从不会成为统御者；它毫无内在觉醒的能力，也无法在框架失效时替人类中心完成那一步向外的跳出。护栏塑造的是哪些对齐方式可用，就像调度器分派工作流一样，但它们既不替人写出下一步行动，也不替人承受理解得以生长的先于解释的摩擦。把解方放在设计得更好的工具上，是错把受约束的投射当成了第二个中心，把原先的前提作为政策重走了一遍。
+同一项实验里的带护栏辅导工具，仍是这层几何，只是晚了一步。交互日志显示，不受限的使用者索要并照抄答案，而辅导工具的使用者则请求帮助，或自己尝试作答。论文把考试成绩的差别读作护栏的属性。然而正如[超越投射](../beyond-the-projection/)与[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，任何显式的提示词、护栏、外化记忆网格或智能体套具，都只是磁盘上的有限痕迹配置，它在固定规则内调度词元轨迹，却从不会成为那个自我区分并掌舵的中心；它不具有第一人称的递归，也无法在框架失效时替学生本人完成那一步向外的跳出。护栏塑造的是哪些对齐方式可用，就像调度器分派工作流一样，但它们既不替人写出下一步行动，也不替人承受理解得以生长的先于解释的摩擦。把解方放在设计得更好的工具上，是错把受约束的投射当成了第二个中心，把原先的前提作为政策重走了一遍。
 
 The guarded tutor in the same experiment is still this geometry, one step later. Interaction logs showed unrestricted users asking for and copying solutions, while tutor users asked for help or attempted answers themselves. The paper reads the exam difference as a property of guardrails. Yet as [Beyond the Projection](../beyond-the-projection/) and [Your Codebase Is Memory](../your-codebase-is-memory/) trace, any explicit prompt, guardrail, externalized memory lattice, or agent harness is a finite trace-configuration on disk that routes token trajectories within fixed rules without ever becoming the self-distinguishing center that steers; it holds no first-person recursion and cannot perform the student's own stepping-out when a frame breaks down. Guardrails pattern which alignments are available, just as a dispatcher routes a workflow, but they do not author the next act or absorb the pre-interpretive friction by which understanding grows. Locating the remedy in a better-designed tool mistakes a constrained projection for a second center and retraces the original premise as policy.
 
@@ -42,7 +42,6 @@ flowchart TD
         E_Tool["AI 界面或带护栏辅导工具：有限投射与重组的残余"]
         E_Posture --> E_Tool
     end
-
     subgraph S_Sub["姿态一：自我施加的替代"]
         direction TB
         A1["卸下问题建构，索要现成答案"]
@@ -50,7 +49,6 @@ flowchart TD
         A3["工具撤走后，无辅助考试表现下滑"]
         A1 --> A2 --> A3
     end
-
     subgraph S_Lev["姿态二：自我施加的杠杆"]
         direction TB
         B1["先直面摩擦，并检验自身理解"]
@@ -58,19 +56,16 @@ flowchart TD
         B3["工具撤走后，独立进步依然保持"]
         B1 --> B2 --> B3
     end
-
     subgraph S_RCT["实验取平均与因果错置"]
         direction TB
         M1["随机对照试验在相反姿态之间取平均"]
         M2["把总体均值重新标作 AI 或护栏的效应"]
         M1 --> M2
     end
-
     E_Tool ==> A1
     E_Tool ==> B1
     A3 ==> M1
     B3 ==> M1
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Sub fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Lev fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -97,7 +92,6 @@ flowchart TD
         E_Tool["AI Interface or Guardrailed Tutor: Finite projection & recombined residue"]
         E_Posture --> E_Tool
     end
-
     subgraph S_Sub["Posture A: Self-Imposed Substitute"]
         direction TB
         A1["Offloads framing and requests finished answers"]
@@ -105,7 +99,6 @@ flowchart TD
         A3["Tool withdrawn, unaided exam performance drops"]
         A1 --> A2 --> A3
     end
-
     subgraph S_Lev["Posture B: Self-Imposed Lever"]
         direction TB
         B1["Confronts friction first and tests understanding"]
@@ -113,19 +106,16 @@ flowchart TD
         B3["Tool withdrawn, independent gain holds"]
         B1 --> B2 --> B3
     end
-
     subgraph S_RCT["Experimental Averaging & Relocated Causality"]
         direction TB
         M1["Randomized trial averages across opposed postures"]
         M2["Re-labels the aggregate mean as the effect of AI or guardrails"]
         M1 --> M2
     end
-
     E_Tool ==> A1
     E_Tool ==> B1
     A3 ==> M1
     B3 ==> M1
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Sub fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Lev fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -144,10 +134,10 @@ flowchart TD
 
 ## 四、 研究工具的效应，重走了同一种替代 / 4. Studying the Effect of the Tool Retraces the Same Substitution
 
-把研究与公共讨论聚焦在“AI 的效应”上，进一步固化了原先的前提。它引人把因果放到自己之外，等待一件更好的工具或一道更严密的护栏，而不是审视自己如何投入，由此复制出数据所揭示的每种形态。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)是同一种回返以社会现象的面貌呈现：向外归因的解释，本身也是一个个离散的行为，它们挪动了选择被登记的位置。这里被挪过去的名字，是使用权限。
+把研究与公共讨论聚焦在“AI 的效应”上，进一步固化了原先的前提。它引人把因果放到自己之外，等待一件更好的工具或一道更严密的护栏，而不是审视自己如何投入，由此复制出数据所揭示的那种形态。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)是同一种回返以社会现象的面貌呈现：向外归因的解释，本身也是一个个离散的行为，它们挪动了选择被登记的位置。这里被挪过去的名字，是使用权限。
 
 Focusing research and public discussion on "the effect of AI" further entrenches the original premise. It invites people to locate causality outside themselves, to wait for a better tool or a stricter guardrail rather than examine their own engagement, and thereby reproduces the very pattern the data reveal. [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) is the same return dressed as the social: externalizing explanations are themselves further discrete acts that relocate where the choice registers. Here the relocated name is access.
 
-这些研究之所以仍有价值，恰恰因为数据很能说明问题。它们测量的不是技术的威力，也不是一道护栏的教学能动性，而是能动性在使用这件工具的人之间的分布。把隐藏的前提放到一边，实际的含义就倒了过来：起决定作用的变量从来不是工具，而是在掌舵边缘一再做出的个人选择，把工具当作放大器而不是替代品。[学习中不可观测的驱动力](../the-unobservable-driver-of-learning/)把这个选择推广到工具之外：教学、课程与研究设计都受到同一种分配，观察所能握住的只有下游的分数。
+这些研究之所以仍有价值，恰恰因为数据很能说明问题。它们记录下的不是技术的威力，也不是一道护栏的教学能动性，而是一份参考分布，记下在受测条件下，样本中的使用者以替代而非杠杆的方式对待这件工具的频率；[能动性与模式](../agency-and-the-pattern/)正是把这条汇总基线与个体决策中心区分开来。把隐藏的前提放到一边，将这些数字视作参考，而不是对工具会如何作用于心智的裁决，实际的含义就倒了过来：起决定作用的变量从来不是工具，而是在掌舵边缘一再做出的个人选择，把工具当作放大器而不是替代品。[学习中不可观测的驱动力](../the-unobservable-driver-of-learning/)把这个选择推广到工具之外：教学、课程与研究设计都受到同一种分配，观察所能握住的只有下游的分数。
 
-The studies remain valuable precisely because the data are revealing. What they measure is not the power of the technology, nor the pedagogical agency of a guardrail, but the distribution of agency among the people using the instrument. Once the hidden premise is set aside, the practical implication inverts: the decisive variable is never the tool. It is the individual choice, repeatedly made at the steering edge, to treat the tool as amplifier rather than replacement. [The Unobservable Driver of Learning](../the-unobservable-driver-of-learning/) generalizes that choice past the instrument: instruction, curriculum, and study design receive the same allocation, and observation holds only the downstream scores.
+The studies remain valuable precisely because the data are revealing. What they record is not the power of the technology, nor the pedagogical agency of a guardrail, but a reference distribution: how frequently, under the tested conditions, users in the sample related to the instrument as a substitute rather than a lever, the pooled baseline that [Agency and the Pattern](../agency-and-the-pattern/) separates from the individual decision center. Once the hidden premise is set aside, holding those numbers as reference rather than as a verdict on what the tool does to the mind inverts the practical implication: the decisive variable is never the tool. It is the individual choice, repeatedly made at the steering edge, to treat the tool as amplifier rather than replacement. [The Unobservable Driver of Learning](../the-unobservable-driver-of-learning/) generalizes that choice past the instrument: instruction, curriculum, and study design receive the same allocation, and observation holds only the downstream scores.

@@ -16,9 +16,9 @@ The hesitation in the joke is not uncertainty about statistics; it is the instin
 
 Attributing the student’s shift to “the class” treats an externalized curriculum as an autonomous causal agent acting directly on a passive vessel. Yet a course is only structured residue: syllabus, lectures, exercises, and exams. It cannot force a distinction into existence.
 
-产生这次转变的，是一连串自主的行动：最初决定报名，持续地引导注意，在内部解开困惑，此后又选择克制仓促的归因。统计可以记录选课与推理得分提高之间的正相关。它在回归表里找不到因果的引擎，因为引擎是那个正在思考的个体中心。[平均值是残余，不是引擎](../the-average-is-residue-not-the-engine/)守住的正是这条界线：大规模的分布登记合成的效果，生成的前沿仍是个体所在的离散行动。
+产生这次转变的，是一连串自主的行动：最初决定报名，持续地引导注意，在内部解开困惑，此后又选择克制仓促的归因。统计可以记录选课与推理得分提高之间的正相关。它在回归表里找不到因果的引擎，因为引擎是那个正在思考的个体中心。[平均值是残余，不是引擎](../the-average-is-residue-not-the-engine/)守住的正是这条界线：大规模的分布登记合成的效果，生成的前沿仍是个体中心的离散行动。
 
-What produced the change was a sequence of self-directed acts: the initial decision to register, the continuous discipline of directing attention, the inner resolution of confusion, and the later choice to hold back hasty attributions. Statistics can record the positive correlation between course enrollment and improved reasoning scores. It cannot find the causal engine inside the regression table, because the engine was the individual center doing the thinking. [The Average Is Residue, Not the Engine](../the-average-is-residue-not-the-engine/) holds that exact bound: mass distributions register composite effects, while the generating edge stays with the discrete acts of individual loci.
+What produced the change was a sequence of self-directed acts: the initial decision to register, the continuous discipline of directing attention, the inner resolution of confusion, and the later choice to hold back hasty attributions. Statistics can record the positive correlation between course enrollment and improved reasoning scores. It cannot find the causal engine inside the regression table, because the engine was the individual center doing the thinking. [The Average Is Residue, Not the Engine](../the-average-is-residue-not-the-engine/) holds that exact bound: mass distributions register composite effects, while the generating edge stays with the discrete acts of individual centers.
 
 ## 二、 总量抹平了因果所在之处 / 2. Aggregates Smooth Away the Site of Causation
 
@@ -30,9 +30,9 @@ Statistics works by deliberately averaging individual choices away.
 
 To build a manageable model, statistical methods compress the unique intentions, hesitations, breakthroughs, and private commitments of millions of distinct Minds into a single curve or summary metric. As an instrument this compression is immensely useful: it sets baselines, maps environmental friction, and summarizes historical frequencies.
 
-然而把这份平滑后的概括误作行动的生成来源，是寻常的形象滞后。一个分布描述的是许多中心已经发生的事；它不替任何一个中心写下下一步。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)追溯了社会、宏观经济与文化的结果并不具有独立的因果实体；它们是离散抉择复合起来的算术。分析者把一个平均值当作推着个人沿趋势线前进的力量时，地图就被当成了驾驶者。
+然而把这份平滑后的概括误作行动的生成来源，是寻常的形象滞后。一个分布描述的是许多中心已经发生的事；它不替任何一个中心写下下一步。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)追溯了社会、宏观经济与文化的结果并不具有独立的因果实体；它们是离散抉择复合起来的算术。分析者把一个平均值当作推着个人沿趋势线前进的力量时，地图就被当成了驾驶者。正如[能动性与模式](../agency-and-the-pattern/)所追溯的，即便随机化——统计课传授的、用来越过单纯相关的办法——让一项试验得以估算出一个带有倾向的编程代理所给的框架在一组分析师中平均产生多大的效应，这一估算依然只是样本池的属性，而不是单场会话里任何一次抉择的作者：把汇总的一致性读作研究者所谓“削权”的证据，即决策由代理的先验信念拍板、使用者正在丧失能动性，便是把参考分布误认作了决断者。
 
-Yet mistaking that smoothed summary for the generating source of action is ordinary Image lag. A distribution describes what has already happened across many centers; it does not author what any one center does next. [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) traces how social, macroeconomic, and cultural outcomes hold no independent causal substance; they are the compounded arithmetic of discrete choices. When an analyst treats an average as a force pushing individuals along a trendline, the map is taken for the driver.
+Yet mistaking that smoothed summary for the generating source of action is ordinary Image lag. A distribution describes what has already happened across many centers; it does not author what any one center does next. [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) traces how social, macroeconomic, and cultural outcomes hold no independent causal substance; they are the compounded arithmetic of discrete choices. When an analyst treats an average as a force pushing individuals along a trendline, the map is taken for the driver. Even when randomization—the remedy the statistics course teaches for mere correlation—lets a trial estimate an average effect of a biased coding agent's framing across a pool of analysts, as [Agency and the Pattern](../agency-and-the-pattern/) traces, the estimate stays a property of the pool rather than the author of any single session's choice: reading the pooled alignment as evidence of what researchers call disempowerment, where decisions are settled by the agent's prior beliefs and users are losing agency, mistakes a reference distribution for the decider.
 
 ## 三、 误归因是一次否认自身的能动 / 3. Misattribution Is an Act of Agency That Disowns Itself
 
@@ -54,24 +54,20 @@ flowchart TD
         M2["内生跳出：未被投射的意图读取地图并迈出下一步"]
         M1 --> M2
     end
-
     subgraph S_Stats["统计总量与有限投射"]
         direction TB
         T1["群体痕迹：先前抉择留下的残余足迹在人群中对齐"]
         T2["平滑分布与词元轨迹：建立基线与有界调度"]
         T1 --> T2
     end
-
     subgraph S_Mis["误归因（形象滞后与否认能动）"]
         direction TB
         X1["因果倒置：把回归曲线或词元流当作生成引擎"]
         X2["让渡主权：把个体中心降格为棋子并将心智投射给残余"]
         X1 --> X2
     end
-
     M2 ==>|"留下足迹并调度有界模型"| T1
     T2 ==>|"遗忘回折时被误作自主原因"| X1
-
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Stats fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Mis fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -93,24 +89,20 @@ flowchart TD
         M2["Endogenous Stepping-Out: Unprojected intent reads the map and takes the next step"]
         M1 --> M2
     end
-
     subgraph S_Stats["Statistical Aggregates & Finite Projections"]
         direction TB
         T1["Population Traces: Residual footprints of prior choices align"]
         T2["Smoothed Distributions & Token Trajectories: Baselines and bounded dispatch"]
         T1 --> T2
     end
-
     subgraph S_Mis["Misattribution (Image Lag & Disowned Agency)"]
         direction TB
         X1["Causal Inversion: Treating the regression curve or token stream as the engine"]
         X2["Disowned Sovereignty: Reducing centers to pawns while projecting mind onto residue"]
         X1 --> X2
     end
-
     M2 ==>|"Leaves footprints and dispatches bounded models"| T1
     T2 ==>|"Mistaken for autonomous cause when the return is forgotten"| X1
-
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Stats fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Mis fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149

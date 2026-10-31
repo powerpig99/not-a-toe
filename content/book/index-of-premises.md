@@ -4054,9 +4054,9 @@ The quantum brain debate first assumes the warm, wet brain as a ready-made theat
 ### AI 教育随机对照试验 / Randomized Trials of AI in Education
 `科学 / Scientific`
 
-随机对照试验把使用权限当作自变量、分数当作因变量，在测量短期的辅助与工具撤走后的下滑时有用；它在此到了边界：它假定工具是因果的施动者，在替代与杠杆两种相反的姿态之间取平均，测到的是能动性在使用者之间的分布，而不是工具的威力。
+随机对照试验把使用权限当作自变量、分数当作因变量，在测量短期的辅助与工具撤走后的下滑时有用；它在此到了边界：它假定工具是因果的施动者，在替代与杠杆两种相反的姿态之间取平均，因而记录下的是一份参考分布，即受测条件下样本中的使用者以替代或杠杆的方式对待工具的频率，而不是工具的威力。
 
-Randomized trials of AI in education treat access as the independent variable and scores as the dependent one, which is of use in measuring short-term assistance and the decline once the tool is removed; it reaches its boundary in that it assumes the tool is the causal agent and averages across the opposed postures of substitute and lever, so what it measures is the distribution of agency among users, not the power of the tool.
+Randomized trials of AI in education treat access as the independent variable and scores as the dependent one, which is of use in measuring short-term assistance and the decline once the tool is removed; it reaches its boundary in that it assumes the tool is the causal agent and averages across the opposed postures of substitute and lever, so what it records is a reference distribution of how often users in the sample, under the tested conditions, related to the tool as substitute or as lever, not the power of the tool.
 
 → [研究AI效应重置了因果原点 / Studying the Effect of AI Relocates Causality](../../posts/studying-the-effect-of-ai-relocates-causality/)
 
@@ -4594,9 +4594,9 @@ Presumes that oversight built on present threat models, benchmarks and preferenc
 ### 承担后果的受力面积 / Surface Area for Consequence
 `技术 / Technological`
 
-假定概率补全的算法输出能担当决断的权威依据；对文本构思极具价值，却忽视了硅基程序没有承受现实代价的受力面积。
+假定统计上流畅的模型补全能够充当不可逆行动的权威依据；在生成候选表述与综合材料时有用，其边界在于硅基计算承受抉择切身后果的受力面积为零。
 
-Presumes statistically fluent models can act as authoritative guides for irreversible action; valuable for drafting ideas, it ignores that machines bear zero physical liability.
+Presumes statistically fluent model completions can serve as authoritative grounds for irreversible action; useful for generating candidate formulations and syntheses, it reaches its boundary in that silicon computation has zero surface area to absorb the lived fallout of a choice.
 
 → [硅基神谕与后果的非对称性 / Silicon Oracles and the Asymmetry of Consequence](../../posts/silicon-oracles-and-the-asymmetry-of-consequence/)
 
@@ -4756,9 +4756,9 @@ Sutton observes that general methods leveraging computation through learning and
 ### 框架倒置与驾驶位主权 / The Harness Inversion
 `技术 / Technological`
 
-假定借助外部工具的算力即是自身认知的跃迁；对放大产能成立，却让缺乏主见的操盘者沦为既定模板的附庸。
+假定框架与模型的能力本身承载判断，或自行抬升认知；作为可检查、放大执行吞吐的脚手架成立，在驾驶位把审视交给既定轨道、或把驾驶者自己的认知跃迁记在智能体名下时，到达边界。
 
-Presumes external tool capabilities automatically elevate the user's intellect; useful for productivity scaling, it traps passive operators in prefabricated rails.
+Presumes that agent harnesses and model capabilities carry judgment or elevate cognition on their own; useful as checkable scaffolding that scales execution throughput, it reaches its boundary when examination is given up from the driver's seat to preset rails or when the driver's own cognitive leap is credited to the agent.
 
 → [框架的倒置与驾驶位的主权非对称 / The Inversion of the Harness and the Sovereignty of the Driver's Seat](../../posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) · [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/) · [转移原因的比较 / The Comparison That Relocates the Cause](../../posts/the-comparison-that-relocates-the-cause/)
 
