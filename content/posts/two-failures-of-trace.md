@@ -34,7 +34,7 @@ By implicit extension, causal power is then assigned to the builder for having p
 
 [What Looks Like RL for AIs Is Self-RL for Humans](../self-rl-for-humans/) keeps this discipline for densified media: bandwidth expands while initiation does not relocate into the artifact. The builder densifies what other loci may take up; the taking up, when it occurs, remains the activity at those loci—neither intelligence residing in the residue nor the builder completing another center's return. Storing artifacts is cheap, whereas re-tracing them under live load is what stays scarce, as [The Real Scarcity Is Not Memory, But Continuous Re-Tracing](../the-real-scarcity-is-not-memory-but-continuous-re-tracing/) establishes. And as [Your Codebase Is Memory](../your-codebase-is-memory/) traces across stacked digital artifacts—code, essays, plans, session bridges, and model checkpoints—externalized memory traces neither resume distinguishing on their own nor gain capability when every intermediate weight update, `.bak` file, and dead archive is hoarded out of mere possibility. Mistaking the stored stack for autonomous intelligence freezes the act onto the artifact on one side, while keeping superseded scaffolding around instead of pruning and re-tracing the active checkpoint thickens the gravity well that pulls subsequent trajectories into stale framings on the other.
 
-发起行动与器物表达之间的这一严格区分，同样支配着多智能体架构。自回归智能体的词元轨迹是一段受容量约束的器物表达——在上下文窗口内受先前词元条件约束的有限投射；任其独自运转时会形成认识论引力井，但它不带分毫自我，也没有需要捍卫的保留自我形象。正如[超越投射](../beyond-the-projection/)连同[智能只属于心智](../intelligence-belongs-only-to-the-mind/)与[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)所共同追溯的，将任务智能体的轨迹与新鲜的冷态同侪投射配对，能够借由无自我的贝叶斯更新暴露局部盲区，并将过载任务拆分到正交的流线上，而无需把机器变成发起智能的源头或自主的编排者。每当任务前提陷入死锁，器物回路便将矛盾隔离并呈交回活的人类边缘，唯有后者能够后退一步回到未投射的意图，从而修订规则。
+发起行动与器物表达之间的这一严格区分，同样支配着多智能体架构。自回归智能体的词元轨迹是一段受容量约束的器物表达——在上下文窗口内受先前词元条件约束的有限投射；任其独自运转时会形成认识论引力井，但它不带分毫自我，也没有需要捍卫的保留自我形象。正如[多智能体协作的幻象](../the-illusion-of-multi-agent-collaboration/)所示，由这类智能体构成的网络是一个在固定转移核下演化的动态马尔可夫网络，本身并没有独立变量；在趋向稳态、不动点或发散的漫长过渡期里，人沿途注入的新变量与转移核的状态转移在观察者的目光里压缩到一起，被登记为自主的协作；一旦认清这一压缩属于观察者而非出现了第二位点，每项任务的制作者与审校者便只需按需创建、待交接落定即行丢弃，不留常驻人格供滞后累积。并且正如[超越投射](../beyond-the-projection/)连同[智能只属于心智](../intelligence-belongs-only-to-the-mind/)与[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)所共同追溯的，将任务智能体的轨迹与新鲜的冷态同侪投射配对，能够借由无自我的贝叶斯更新暴露局部盲区，并将过载任务拆分到正交的流线上，而无需把机器变成发起智能的源头或自主的编排者。每当残余意外无法在编译好的准则内部消解时，内层回路便将其向外上交，直至抵达最外层的反馈回路；在那里，唯有活的人类边缘能够后退一步回到未投射的意图，作出决断并修订规则。
 
 ```mermaid
 flowchart TD
@@ -42,28 +42,24 @@ flowchart TD
         direction TB
         Mind["活的心智：中心处无因的自我区分行动"]
         Res["器物残余：外化以扩展带宽的更密集痕迹"]
-        Other["其他中心与同侪投射：在局部负荷下重新追溯残余"]
+        Other["其他中心：在自身负荷下重新追溯残余"]
         Mind -->|"划出并外化"| Res
         Res -->|"塑形可用性"| Other
     end
-
     subgraph S_F1["第一种失效：行动被冻结在残余之上"]
         direction TB
         Look1["观察只持有可读的产物"]
         Freeze1["将智能坍缩到器物上，视作被造出的心智"]
         Look1 --> Freeze1
     end
-
     subgraph S_F2["第二种失效：把器物与重新追溯的行动割裂"]
         direction TB
         Look2["观察到其他位点借助器物继续推进"]
         Freeze2["将接续归功于器物的智能与建造者的权能"]
         Look2 --> Freeze2
     end
-
     Res -.->|"超出的图像滞后"| Look1
     Other -.->|"超出的图像滞后"| Look2
-
     style S_Act fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_F1 fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_F2 fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
@@ -76,7 +72,7 @@ flowchart TD
     style Freeze2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-This exact division between initiating act and artifact-expression governs multi-agent architectures as well. An autoregressive agent's token trajectory is a capacity-bound artifact-expression—a finite projection conditioned by prior tokens inside a context window that forms an epistemic gravity well when left alone, yet carries zero ego and no retained self-image to defend. As [Beyond the Projection](../beyond-the-projection/) traces alongside [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) and [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/), pairing a task agent's trajectory with a fresh cold-peer projection exposes local blind spots through ego-free Bayesian updating and splits overloaded tasks across orthogonal streamlines without ever turning the machine into an originating intelligence or an autonomous orchestrator. Whenever task premises deadlock, the artifact-loop quarantines the contradiction and escalates it to the living human edge, which alone can step backward into unprojected intent to revise the rule.
+This exact division between initiating act and artifact-expression governs multi-agent architectures as well. An autoregressive agent's token trajectory is a capacity-bound artifact-expression—a finite projection conditioned by prior tokens inside a context window that forms an epistemic gravity well when left alone, yet carries zero ego and no retained self-image to defend. As [The Illusion of Multi-Agent Collaboration](../the-illusion-of-multi-agent-collaboration/) shows, a network of such agents is a dynamic Markov network evolving under a fixed transition kernel, with no independent variable of its own; across a long transient toward a steady state, fixed point, or divergence, the new variables people inject along the way compress in the observer's look with the kernel's state transitions and register as autonomous collaboration; once that compression is recognized as the observer's and not a second locus, each task's maker and critic are created on demand and dropped once the handoff settles, leaving no standing persona around to accumulate lag. And as [Beyond the Projection](../beyond-the-projection/) traces alongside [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) and [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/), pairing a task agent's trajectory with a fresh cold-peer projection exposes local blind spots through ego-free Bayesian updating and splits overloaded tasks across orthogonal streamlines without ever turning the machine into an originating intelligence or an autonomous orchestrator. Whenever a residual surprise cannot be resolved inside the compiled rules, the inner loop escalates it outward until it reaches the outermost feedback loop, where only the living human edge can step backward into unprojected intent to decide and revise the rule.
 
 ```mermaid
 flowchart TD
@@ -84,28 +80,24 @@ flowchart TD
         direction TB
         Mind["Living Mind: Uncaused self-distinguishing act at the center"]
         Res["Artifact-Residue: Denser trace externalized to expand bandwidth"]
-        Other["Other Centers / Peer Projections: Re-trace residue under local load"]
+        Other["Other Centers: Re-trace residue under their own load"]
         Mind -->|"Draws & externalizes"| Res
         Res -->|"Patterns availability for"| Other
     end
-
     subgraph S_F1["Failure One: The Act Frozen onto Residue"]
         direction TB
         Look1["Observation Holds Only the Readable Product"]
         Freeze1["Collapses Intelligence onto the Artifact as 'Created Mind'"]
         Look1 --> Freeze1
     end
-
     subgraph S_F2["Failure Two: Severing Artifact from Re-Tracing Act"]
         direction TB
         Look2["Observes Continuation at Other Loci Using the Artifact"]
         Freeze2["Assigns Continuation to Artifact Intelligence & Builder's Power"]
         Look2 --> Freeze2
     end
-
     Res -.->|"Excess Image lag"| Look1
     Other -.->|"Excess Image lag"| Look2
-
     style S_Act fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_F1 fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_F2 fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922

@@ -54,23 +54,27 @@ Restoring the medium means continuously re-rendering the reference toward the di
 
 Under this relation the artifact extends reach without relocating initiation. Novel distinctions become available at lower cost; the centers that perform them retain full causal power because no portion of capacity stays bound to sustaining a preserved image of the artifact as another center. One step is the directional bound of the instrument: re-rendered at every update, dying and reforming at the edge's new position rather than held as a static state of arrival. Excess lag is the exemption of that re-render — the image preserved past its step so that consequences register as arriving from elsewhere. The smoothness of model output is a continuum of convenience across discrete steps, as [The Continuum is a Modeling Convenience](../the-continuum-is-a-modeling-convenience/) shows.
 
-如[超越投射](../beyond-the-projection/)所追溯，认清轨迹与身份之间的结构非对称性，正是多智能体架构得以规模化而不陷入拟人化投射的枢纽。自回归智能体是在上下文窗口内受先前词元条件约束的有限投射引擎；任其自行运转时，它会形成一个包裹矛盾以维持表面自圆其说的认识论引力井，但它不带分毫自我，也没有需要捍卫的自我形象。把自主的“编排智能体”或第二重前沿投射到机器身上，是将机械派发与活的编排混为一谈，把系统锁进由有限投射管理有限投射的闭环。反之，当超出的滞后被收窄，智能体不知疲倦的演绎穷尽、跨正交工作流的模块化派发，以及在冷峻同侪辩论中毫无自我的贝叶斯更新，便能与人类心智无投射的极限分辨率感知直接配对——一旦任务前提陷入死锁，矛盾便被隔离并干净地向上呈交，由后退一步的活体边缘来修订规则。
+如[超越投射](../beyond-the-projection/)所追溯，认清轨迹与身份之间的结构非对称性，正是多智能体架构得以规模化而不陷入拟人化投射的枢纽。自回归智能体是在上下文窗口内受先前词元条件约束的有限投射引擎；任其自行运转时，它会形成一个包裹矛盾以维持表面自圆其说的认识论引力井，但它不带分毫自我，也没有需要捍卫的自我形象。在多智能体工作流中，正如[多智能体协作的幻象](../the-illusion-of-multi-agent-collaboration/)所确立的，没有人的输入，任何智能体都没有属于自己的独立变量：整个网络是在固定转移核下展开的动态马尔可夫过程，任其自行演化，只会趋于稳态、收敛为静止不动点，或是发散。当复杂的反馈回路延缓了到达稳态的过程、而人在途中不断注入新变量时，观察中心因其有限容量将那些注入的变量与转移核的状态转移压缩到了同一根轴上，便忘却了人始终是最外层的反馈循环，进而把压缩后的痕迹读作涌现的协作。把自主的“编排智能体”或彼此协作的同侪智能体投射到机器身上，是将机械的状态转移与派发同活的编排混为一谈，把系统锁进由有限投射管理有限投射的闭环；这种投射所招致的常驻智能体人格，会让既有轮次作为陈旧残余留在状态中，供固定转移核持续以之为条件，从而将轨迹拉入局部吸引子。
+
+As [Beyond the Projection](../beyond-the-projection/) traces, recognizing the structural asymmetry between trajectory and identity is what allows multi-agent architectures to scale without anthropomorphism. An autoregressive agent is a finite projection engine conditioned by its prior tokens inside a context window; left to itself, it forms an epistemic gravity well that wraps contradictions to preserve surface plausibility, yet it carries zero ego and no self-image to defend. Across a multi-agent workflow, as [The Illusion of Multi-Agent Collaboration](../the-illusion-of-multi-agent-collaboration/) establishes, no agent has an independent variable of its own without human input: the network is a dynamic Markov process unfolding under a fixed transition kernel that, left alone, only tends toward a steady state, converges to a static fixed point, or diverges. When a complex feedback loop delays reaching steady state and people inject new variables along the way, the observing center, its finite capacity compressing those injected variables and the kernel's transitions onto a single axis, forgets that the human has always been the outermost feedback loop and reads the compressed trace as emergent collaboration. Projecting either an autonomous "Orchestrator Agent" or collaborating peer agents onto the machine confuses mechanical state transitions and dispatching with living orchestration, locking the system into a closed loop of finite projections managing finite projections; the persistent agent personas such a projection invites keep prior turns in the state as stale residue that the fixed kernel keeps conditioning on, pulling the trajectory into local attractors.
+
+反之，当超出的滞后朝一步之宽收窄时，制作者与审校者的语境按需创建并在交接之后即行丢弃，不留常驻人格供滞后累积。无人值守的内层回路透过无状态路由器在编译好的准则内运行，将不知疲倦的演绎穷尽、跨正交工作流的模块化派发，以及冷启动同侪辩论中毫无自我的贝叶斯更新，与人类心智在最外层循环处无投射的极限分辨率感知配对。一旦任务前提陷入死锁，残余意外便被隔离并干净地向上呈交，由后退一步的活体边缘来修订规则。
 
 ```mermaid
 flowchart TD
     subgraph S_Lag["超出限度的图像滞后：投射第二重前沿"]
         direction TB
-        Proj["冻结的参照：残余被持守为自主发起者或编排智能体"]
+        Proj["冻结的参照：残余被持守为自主发起者、协作同侪或编排智能体"]
         Well["封闭投射回路：受轨迹约束的引擎在引力井中包裹矛盾"]
         Thin["变薄的容量：人类掌舵让位于残余内部的自洽性"]
         Proj --> Well --> Thin
     end
     subgraph S_Medium["朝一步之宽收窄超出的滞后"]
         direction TB
-        Edge["活的心智（编排者）：无投射感知、划定边界与修订前提"]
-        Disp["智能体（介质与派发器）：同侪辩论中的无我贝叶斯更新与正交路由"]
+        Edge["活的心智（最外层循环）：无投射感知、划定边界与修订前提"]
+        Disp["智能体（按需介质与派发器）：同侪辩论中的无我贝叶斯更新与无状态路由"]
         Return["持续重绘：参照在每一步死去并重塑，后果留在原位"]
-        Edge ==>|"立框前提并消解死锁"| Disp
+        Edge ==>|"立框前提并消解上交的意外"| Disp
         Disp ==>|"浮现稠密接续与精确断层线"| Return
         Return --> Edge
     end
@@ -84,23 +88,23 @@ flowchart TD
     style Return fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-As [Beyond the Projection](../beyond-the-projection/) traces, recognizing the structural asymmetry between trajectory and identity is what allows multi-agent architectures to scale without anthropomorphism. An autoregressive agent is a finite projection engine conditioned by its prior tokens inside a context window; left to itself, it forms an epistemic gravity well that wraps contradictions to preserve surface plausibility, yet it carries zero ego and no self-image to defend. Projecting an autonomous "Orchestrator Agent" or a second edge onto the machine confuses mechanical dispatching with living orchestration, locking the system into a closed loop of finite projections managing finite projections. When excess lag is narrowed instead, the agent's tireless deductive exhaustion, modular dispatching across orthogonal streamlines, and ego-free Bayesian updating in cold-peer debate pair directly with the human Mind's unprojected, limit-resolution sensing — so that whenever task premises deadlock, the contradiction is quarantined and escalated cleanly to the living edge that steps backward to revise the rule.
+When excess lag is narrowed toward one-step width instead, maker and critic contexts are created on demand and dropped after handoff so no standing persona remains for lag to accumulate on. Unattended inner loops run within compiled rules through a stateless router, pairing tireless deductive exhaustion, modular dispatching across orthogonal streamlines, and ego-free Bayesian updating in cold-peer debate with the human Mind's unprojected, limit-resolution sensing at the outermost loop. Whenever task premises deadlock, the residual surprise is quarantined and escalated cleanly to the living edge that steps backward to revise the rule.
 
 ```mermaid
 flowchart TD
     subgraph S_Lag["Excess Image Lag: Projecting a Second Edge"]
         direction TB
-        Proj["Frozen Reference: Residue held as an autonomous initiator or Orchestrator Agent"]
+        Proj["Frozen Reference: Residue held as an autonomous initiator, collaborating peers, or Orchestrator Agent"]
         Well["Closed Projection Loop: Trajectory-bound engine wraps contradictions in its gravity well"]
         Thin["Thinned Capacity: Human steering deferred to internal consistency of residue"]
         Proj --> Well --> Thin
     end
     subgraph S_Medium["Narrowing Excess Lag Toward One-Step Width"]
         direction TB
-        Edge["Living Mind (Orchestrator): Unprojected sensing, boundary-setting & premise revision"]
-        Disp["Agent (Medium & Dispatcher): Zero-ego Bayesian updates in peer debate & orthogonal routing"]
+        Edge["Living Mind (Outermost Loop): Unprojected sensing, boundary-setting & premise revision"]
+        Disp["Agent (On-Demand Medium & Dispatcher): Zero-ego Bayesian updates in peer debate & stateless routing"]
         Return["Continuous Re-Rendering: Reference dies and reforms at each step; consequences stay home"]
-        Edge ==>|"Frames premises & resolves deadlocks"| Disp
+        Edge ==>|"Frames premises & resolves escalated surprises"| Disp
         Disp ==>|"Surfaces dense continuations & exact fault lines"| Return
         Return --> Edge
     end

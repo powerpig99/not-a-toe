@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-01T14:18:19.341Z",
+    "generated_at": "2026-11-01T15:15:38.211Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -29,13 +29,13 @@
       "content/posts/an-observation-by-its-own-standard.md": "1d44b8371330",
       "content/posts/better-than-free-after-the-checklist-closes.md": "d39b1b10df08",
       "content/posts/beyond-the-hundred-trillion-horizon.md": "3c63e3e17823",
-      "content/posts/beyond-the-projection.md": "b070afbce350",
+      "content/posts/beyond-the-projection.md": "4d1f6ff038dc",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "a069dfae4348",
       "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md": "3cfbe8163219",
       "content/posts/causality-all-the-way.md": "08a8a20f59ec",
       "content/posts/causality-and-the-irreducible-prior.md": "c26acfab7c66",
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "3216bed66187",
-      "content/posts/causality-stays-at-the-edge-that-steers.md": "136351fa1fe3",
+      "content/posts/causality-stays-at-the-edge-that-steers.md": "5205f75f958a",
       "content/posts/cheng-gong-xue.md": "ac78a83205fd",
       "content/posts/choice-itself-has-no-inherent-weight.md": "61c4cff8bfbf",
       "content/posts/chollet-intelligence-explosion-analysis.md": "c8c3e191336b",
@@ -241,7 +241,7 @@
       "content/posts/the-coordinators-category-error.md": "cacce30b5e40",
       "content/posts/the-cut-moves-but-never-vanishes.md": "c718d57ca5a7",
       "content/posts/the-defining-seat.md": "70f1cdc3feb5",
-      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "9b92ea2a087a",
+      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "4c7791c6ed81",
       "content/posts/the-density-of-judgment.md": "824c87f92b0a",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "9d0368039437",
       "content/posts/the-deterministic-machine.md": "fbf2680f40d1",
@@ -317,7 +317,7 @@
       "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "66816e477146",
       "content/posts/the-mirror-handshake-of-power.md": "ccc28b284e44",
       "content/posts/the-misallocation-of-agency.md": "b921b7fb3528",
-      "content/posts/the-model-never-becomes-a-second-edge.md": "264a5faea1fd",
+      "content/posts/the-model-never-becomes-a-second-edge.md": "80fdbff25aaf",
       "content/posts/the-moral-reversal-and-the-scripted-subject.md": "e1ac22ffc038",
       "content/posts/the-myth-of-population-collapse-explained.md": "6b8ecefdfc0f",
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "f72287238803",
@@ -396,10 +396,10 @@
       "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "8bfd0bed78bc",
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "91487ce48c58",
       "content/posts/trusting-the-reader-is-the-last-overstep.md": "4fa6d46f4306",
-      "content/posts/two-failures-of-trace.md": "df2bfb498afc",
+      "content/posts/two-failures-of-trace.md": "f515d4d6f578",
       "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "1a6b64a4d111",
       "content/posts/war-revolution-and-the-fall-of-empires.md": "60c4a819c95d",
-      "content/posts/what-always-listens-cannot-originate.md": "db0fa8ce809c",
+      "content/posts/what-always-listens-cannot-originate.md": "ad631e85355a",
       "content/posts/what-cannot-be-kept.md": "230c81faa1f9",
       "content/posts/what-hinton-failed-to-understand.md": "5b9aba9df3f3",
       "content/posts/what-information-is.md": "63cbacf714f1",
@@ -430,7 +430,7 @@
       "content/book/causality.md": "863b25c6333a",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "c65b215fb169",
+      "content/book/index-of-premises.md": "edee495cf627",
       "content/book/intelligence.md": "562728811be2",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -446,14 +446,14 @@
     },
     "stats": {
       "posts": 419,
-      "edges": 12568,
-      "unique_directed": 6183,
+      "edges": 12580,
+      "unique_directed": 6189,
       "missing_targets": 0,
-      "one_way": 1161,
+      "one_way": 1157,
       "isolated": 0,
       "posts_with_outbound": 419,
       "book_pages": 16,
-      "book_edges": 1216,
+      "book_edges": 1217,
       "posts_reached_by_book": 419
     }
   },
@@ -566,19 +566,19 @@
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "out_degree": 49
+      "out_degree": 50
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
       "out_degree": 47
     },
     {
-      "slug": "the-allocation-of-causal-power-in-validation",
+      "slug": "causality-stays-at-the-edge-that-steers",
       "out_degree": 42
     },
     {
-      "slug": "causality-stays-at-the-edge-that-steers",
-      "out_degree": 41
+      "slug": "the-allocation-of-causal-power-in-validation",
+      "out_degree": 42
     },
     {
       "slug": "causality-all-the-way",
@@ -613,11 +613,11 @@
       "out_degree": 34
     },
     {
-      "slug": "symptom-and-cause-in-the-narratives-of-progress",
-      "out_degree": 33
+      "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "out_degree": 34
     },
     {
-      "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "slug": "symptom-and-cause-in-the-narratives-of-progress",
       "out_degree": 33
     }
   ],
@@ -1200,9 +1200,9 @@
       "slug": "beyond-the-projection",
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
-      "hash": "b070afbce350",
+      "hash": "4d1f6ff038dc",
       "in_degree": 209,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "ontos-is-a-method-agent",
@@ -1220,6 +1220,7 @@
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
         "intelligence-folding-back-on-itself",
+        "the-illusion-of-multi-agent-collaboration",
         "causality-stays-at-the-edge-that-steers",
         "agency-and-the-pattern",
         "clarity-isnt-a-state-you-arrive-at",
@@ -1386,9 +1387,9 @@
       "slug": "causality-stays-at-the-edge-that-steers",
       "path": "content/posts/causality-stays-at-the-edge-that-steers.md",
       "title": "因果停留在掌舵的边缘 / Causality Stays at the Edge That Steers",
-      "hash": "136351fa1fe3",
+      "hash": "5205f75f958a",
       "in_degree": 44,
-      "out_degree": 41,
+      "out_degree": 42,
       "links_out": [
         "what-always-listens-cannot-originate",
         "the-homework-exam-inversion-registers-substitution",
@@ -1413,6 +1414,7 @@
         "the-model-never-becomes-a-second-edge",
         "escaping-the-sandbox-stays-inside-the-hold",
         "complexity-obscures-emergence-as-the-act-of-mind",
+        "the-illusion-of-multi-agent-collaboration",
         "the-ramble-within-the-ramble",
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "the-digital-god-and-the-horizon-jump",
@@ -7090,9 +7092,9 @@
       "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences",
-      "hash": "9b92ea2a087a",
+      "hash": "4c7791c6ed81",
       "in_degree": 40,
-      "out_degree": 33,
+      "out_degree": 34,
       "links_out": [
         "the-summary-first-reversal-and-the-command-of-yields",
         "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
@@ -7100,6 +7102,7 @@
         "intelligence-belongs-only-to-the-mind",
         "a-creation-cannot-replace-its-source",
         "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
+        "the-illusion-of-multi-agent-collaboration",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "subtracting-consciousness-at-the-source",
         "agency-does-not-arise",
@@ -8144,7 +8147,7 @@
       "path": "content/posts/the-illusion-of-multi-agent-collaboration.md",
       "title": "多智能体协作的幻象 / The Illusion of Multi-Agent Collaboration",
       "hash": "68b82478b68e",
-      "in_degree": 0,
+      "in_degree": 6,
       "out_degree": 12,
       "links_out": [
         "what-always-listens-cannot-originate",
@@ -8944,9 +8947,9 @@
       "slug": "the-model-never-becomes-a-second-edge",
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge",
-      "hash": "264a5faea1fd",
+      "hash": "80fdbff25aaf",
       "in_degree": 70,
-      "out_degree": 49,
+      "out_degree": 50,
       "links_out": [
         "your-codebase-is-memory",
         "the-category-error-of-better",
@@ -8972,6 +8975,7 @@
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-continuum-is-a-modeling-convenience",
         "beyond-the-projection",
+        "the-illusion-of-multi-agent-collaboration",
         "ai-as-augmentation",
         "amplification-paradox",
         "the-ramble-within-the-ramble",
@@ -10998,9 +11002,9 @@
       "slug": "two-failures-of-trace",
       "path": "content/posts/two-failures-of-trace.md",
       "title": "器物是智能的表达，而非智能本身 / Artifacts Are Expressions of Intelligence, Not Intelligence Itself",
-      "hash": "df2bfb498afc",
+      "hash": "f515d4d6f578",
       "in_degree": 31,
-      "out_degree": 32,
+      "out_degree": 33,
       "links_out": [
         "performative-hindsight-that-pretends-to-be-foresight",
         "intelligence-belongs-only-to-the-mind",
@@ -11016,6 +11020,7 @@
         "self-rl-for-humans",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
         "your-codebase-is-memory",
+        "the-illusion-of-multi-agent-collaboration",
         "beyond-the-projection",
         "the-ramble-within-the-ramble",
         "complexity-obscures-emergence-as-the-act-of-mind",
@@ -11094,9 +11099,9 @@
       "slug": "what-always-listens-cannot-originate",
       "path": "content/posts/what-always-listens-cannot-originate.md",
       "title": "总在倾听者无法发起 / What Always Listens Cannot Originate",
-      "hash": "db0fa8ce809c",
+      "hash": "ad631e85355a",
       "in_degree": 29,
-      "out_degree": 30,
+      "out_degree": 31,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "two-failures-of-trace",
@@ -11124,6 +11129,7 @@
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
         "the-ramble-within-the-ramble",
         "the-misallocation-of-agency",
+        "the-illusion-of-multi-agent-collaboration",
         "on-demand-contexts-keep-coherence-at-one-step",
         "symptom-and-cause-in-the-narratives-of-progress",
         "residual-individualism",
@@ -15883,6 +15889,12 @@
     },
     {
       "from": "beyond-the-projection",
+      "to": "the-illusion-of-multi-agent-collaboration",
+      "rel": "points_to",
+      "label": "多智能体协作的幻象"
+    },
+    {
+      "from": "beyond-the-projection",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
       "label": "因果停留在掌舵的边缘"
@@ -15898,6 +15910,12 @@
       "to": "intelligence-folding-back-on-itself",
       "rel": "points_to",
       "label": "Intelligence Folding Back on Itself"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "the-illusion-of-multi-agent-collaboration",
+      "rel": "points_to",
+      "label": "The Illusion of Multi-Agent Collaboration"
     },
     {
       "from": "beyond-the-projection",
@@ -17353,6 +17371,12 @@
     },
     {
       "from": "causality-stays-at-the-edge-that-steers",
+      "to": "the-illusion-of-multi-agent-collaboration",
+      "rel": "points_to",
+      "label": "多智能体协作的幻象"
+    },
+    {
+      "from": "causality-stays-at-the-edge-that-steers",
       "to": "the-ramble-within-the-ramble",
       "rel": "points_to",
       "label": "漫谈中的漫谈"
@@ -17368,6 +17392,12 @@
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
       "label": "Complexity Obscures Emergence as the Act of Mind"
+    },
+    {
+      "from": "causality-stays-at-the-edge-that-steers",
+      "to": "the-illusion-of-multi-agent-collaboration",
+      "rel": "points_to",
+      "label": "The Illusion of Multi-Agent Collaboration"
     },
     {
       "from": "causality-stays-at-the-edge-that-steers",
@@ -55717,6 +55747,12 @@
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-illusion-of-multi-agent-collaboration",
+      "rel": "points_to",
+      "label": "多智能体协作的幻象"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "rel": "points_to",
       "label": "框架的倒置与驾驶位的主权非对称"
@@ -55744,6 +55780,12 @@
       "to": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
       "rel": "points_to",
       "label": "The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank"
+    },
+    {
+      "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "to": "the-illusion-of-multi-agent-collaboration",
+      "rel": "points_to",
+      "label": "The Illusion of Multi-Agent Collaboration"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -67561,9 +67603,21 @@
     },
     {
       "from": "the-model-never-becomes-a-second-edge",
+      "to": "the-illusion-of-multi-agent-collaboration",
+      "rel": "points_to",
+      "label": "多智能体协作的幻象"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-model-never-becomes-a-second-edge",
+      "to": "the-illusion-of-multi-agent-collaboration",
+      "rel": "points_to",
+      "label": "The Illusion of Multi-Agent Collaboration"
     },
     {
       "from": "the-model-never-becomes-a-second-edge",
@@ -81703,6 +81757,12 @@
     },
     {
       "from": "two-failures-of-trace",
+      "to": "the-illusion-of-multi-agent-collaboration",
+      "rel": "points_to",
+      "label": "多智能体协作的幻象"
+    },
+    {
+      "from": "two-failures-of-trace",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "超越投射"
@@ -81718,6 +81778,12 @@
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "two-failures-of-trace",
+      "to": "the-illusion-of-multi-agent-collaboration",
+      "rel": "points_to",
+      "label": "The Illusion of Multi-Agent Collaboration"
     },
     {
       "from": "two-failures-of-trace",
@@ -82591,6 +82657,12 @@
     },
     {
       "from": "what-always-listens-cannot-originate",
+      "to": "the-illusion-of-multi-agent-collaboration",
+      "rel": "points_to",
+      "label": "多智能体协作的幻象"
+    },
+    {
+      "from": "what-always-listens-cannot-originate",
       "to": "on-demand-contexts-keep-coherence-at-one-step",
       "rel": "points_to",
       "label": "按需语境将融贯保持在一步"
@@ -82612,6 +82684,12 @@
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
       "label": "因果停留在掌舵的边缘"
+    },
+    {
+      "from": "what-always-listens-cannot-originate",
+      "to": "the-illusion-of-multi-agent-collaboration",
+      "rel": "points_to",
+      "label": "The Illusion of Multi-Agent Collaboration"
     },
     {
       "from": "what-always-listens-cannot-originate",
@@ -87281,7 +87359,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "c65b215fb169",
+        "hash": "edee495cf627",
         "out_degree": 419
       },
       {
@@ -92757,6 +92835,12 @@
         "to": "on-demand-contexts-keep-coherence-at-one-step",
         "rel": "collects",
         "label": "按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "grok-420-framework-drift",
+        "rel": "collects",
+        "label": "当模型在表演一套框架而非从基底推演 / When an AI Performs a Framework Instead of Operating From It"
       },
       {
         "from": "book:intelligence",
