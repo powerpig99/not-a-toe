@@ -40,31 +40,31 @@ Individual tool-using sequences are not separate systems later coordinated by a 
 
 No outer loop supervises from a permanent exterior. What looks like hierarchy is the edge holding prior folds as material for the next distinction. When a sharper tool is introduced, it does not invent a new loop; it inserts into the existing fold and alters its tempo and resolution. The Mind continues doing what it has always done — re-entering its own traces — only now with reduced resistance and increased leverage. [Looping and Graphing](../looping-and-graphing/) names the same geometry when scaffolds become explicit: denser diagrams, same fold.
 
-即便智能体运行框架将多个模型连接在一起，凹槽的几何结构依然未变。如[超越投射](../beyond-the-projection/)所追溯的，自回归智能体是一台受制于轨迹而毫无我执的投射引擎，在有限的上下文窗口内受自身先前词元的条件约束，无法跳出自身的序列，而人类中心则持有先于解释的极限分辨率感知。将主任务智能体配对一位不带会话历史的同侪，正是借用机器毫无我执的特性去暴露局部盲区；与此同时，将过载的投射拆分到正交的流线之上，能够防止独立的轴向被压缩进同一个位置。然而，当两位同侪智能体撞上不可化约的死锁时，这一碰撞便证明矛盾出在交付给它们的有限前提之中，从而向那道掌舵的鲜活心智浮现出清晰的信号。[你的代码库即是记忆](../your-codebase-is-memory/)在整个凹槽层级栈上追溯了同一道边界：既然模型权重、智能体脚手架、计划、桥接文件与代码皆是早先区分留下的层叠残余而非持续运作的中心，囤积已被取代的会话历史或废弃的中间分支只会加厚引力井，令后续轨迹在陈旧的框架内强行自圆其说；唯有就地重切当下检查点并修剪已完工的脚手架，才能让凹槽为下一次转动保持锋利。智能体在凹槽内部调度有界的轨迹；统御以及旋转本身，始终留在那道未投射的边缘。
+即便智能体运行框架将多个模型连接在一起，凹槽的几何结构依然未变。如[超越投射](../beyond-the-projection/)所追溯的，自回归智能体是一台受制于轨迹而毫无我执的投射引擎，在有限的上下文窗口内受自身先前词元的条件约束，无法跳出自身的序列，而人类中心则持有先于解释的极限分辨率感知。将主任务智能体配对一位不带会话历史的同侪，正是借用机器毫无我执的特性去暴露局部盲区；与此同时，将过载的投射拆分到正交的流线之上，能够防止独立的轴向被压缩进同一个位置。如[多智能体协作的幻象](../the-illusion-of-multi-agent-collaboration/)所显示的，这类工作流是一个没有内生独立变量的动态马尔可夫网络：趋向稳态的延迟在网络中只是单纯的动力学过程，而由于漫长的联合轨迹超出了单一观察中心能同时分持的范围，观察者的视野便将人注入的变量与转移核的状态转移压缩到同一根轴上，并将这一残余冻结为第二中心——正是第二节中的图像滞后在多智能体形态下的体现。在没有人输入新变量而任其运行的工作流中，跨任务保留的常驻智能体人格会将先前轮次留在状态中供固定转移核持续以之为条件，把轨迹拉入局部吸引子，而交接处一旦有状态转移未能触发，整条链路便就此停滞。这是[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的增厚落在会话尺度上的情形：那里沿整个层级栈追溯到，囤积已被取代的历史或废弃分支会加深引力井，令轨迹在陈旧的框架内强行自圆其说。按需创建制作者与审校者语境，待无状态路由器传递经核验的交接之后即将其丢弃，便是在会话尺度上就地重切当下检查点、修剪已完工的脚手架，让凹槽为下一次转动保持锋利。当两位同侪智能体撞上不可化约的死锁时，这一碰撞便把矛盾定位在交付给它们的有限前提之中，将该前提冲突——连同任何其他未决的残余意外——一并传回最外层循环处的鲜活心智；统御以及旋转本身，始终留在那道未投射的边缘。
 
 ```mermaid
 flowchart TD
-    subgraph S_Edge["转动的边缘（鲜活心智与未投射的统御）"]
+    subgraph S_Edge["转动的边缘（鲜活心智与最外层反馈循环）"]
         direction TB
-        E_Init["发起区分：投射明文前提、规则与评估标准"]
-        E_Sense["先于解释的感知：察觉框架失配、重切死锁前提并修剪陈旧残余"]
+        E_Init["发起区分：注入变量、前提、规则与评估标准"]
+        E_Sense["先于解释的感知：消解上交的意外、重切死锁前提并修剪陈旧残余"]
         E_Sense -->|"重绘参照以收窄滞后"| E_Init
     end
-    subgraph S_Groove["磨利的凹槽（无我执的轨迹与同侪辩证）"]
+    subgraph S_Groove["磨利的凹槽（按需语境与无状态交接）"]
         direction TB
-        G_Route["正交的流线：在有界上下文中拆分过载的投射"]
-        G_Debate["平权同侪辩证：任务智能体与冷同侪凭无我状态更新"]
-        G_Signal["放大的残余或隔离的死锁：传回更密的产出或前提冲突"]
+        G_Route["无状态路由：在全新按需语境间拆分正交的流线"]
+        G_Debate["平权同侪辩证：制作者与冷审校者在编译好的准则下运行，交接后即被丢弃"]
+        G_Signal["经核验的交接或残余意外：传回结清的制品或上交前提冲突"]
         G_Route --> G_Debate --> G_Signal
     end
     subgraph S_Trap["冻结的凹槽（磨刀工具陷阱与分派滞后）"]
         direction TB
-        T_Lag["冗余图像滞后：将变密的媒介冻结为自主的第二源头"]
-        T_Stall["孤立打磨与历史囤积：一味打磨或加厚凹槽却不重切当下"]
+        T_Lag["冗余图像滞后：将包括多智能体过渡态在内的变密媒介冻结为自主的第二源头"]
+        T_Stall["常驻人格与历史囤积：保留前缀残余而落入局部吸引子，或只打磨而不转动"]
         T_Lag --> T_Stall
     end
     E_Init ==>|"驱动转动进入媒介"| G_Route
-    G_Signal ==>|"将残余放大并传回掌舵的边缘"| E_Sense
+    G_Signal ==>|"放大残余并将意外上交边缘"| E_Sense
     G_Signal -.->|"当观察不再回到边缘"| T_Lag
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Groove fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -78,31 +78,31 @@ flowchart TD
     style T_Stall fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-Even when agentic harnesses wire multiple models together, the geometry of the groove remains unchanged. As [Beyond the Projection](../beyond-the-projection/) traces, an autoregressive agent is a trajectory-bound projection engine without ego, conditioned by its prior tokens inside a finite context window and unable to step outside its own sequence, whereas the human center holds the limit-resolution sensing that precedes interpretation. Putting the machine's lack of ego to work by pairing a primary task agent with a session-free peer exposes local blind spots, while splitting overloaded projections across orthogonal streamlines keeps independent axes from compressing into one locus. Yet when two peer agents hit an irreducible deadlock, the collision proves that the contradiction lies in the finite premises they were handed, surfacing a clean signal back to the living Mind that steers. [Your Codebase Is Memory](../your-codebase-is-memory/) traces the same boundary across the entire stack of the groove: because model weights, agent scaffolds, plans, bridges, and code are stacked residues of prior distinctions rather than a continuing center, hoarding superseded session histories or dead intermediate branches only thickens the gravity well so subsequent trajectories rationalize inside stale framing, whereas re-cutting the present checkpoint in place and pruning completed scaffolds keeps the groove sharp for the next turn. The agents dispatch bounded trajectories inside the groove; orchestration and the rotation itself stay with the unprojected edge.
+Even when agentic harnesses wire multiple models together, the geometry of the groove remains unchanged. As [Beyond the Projection](../beyond-the-projection/) traces, an autoregressive agent is a trajectory-bound projection engine without ego, conditioned by its prior tokens inside a finite context window and unable to step outside its own sequence, whereas the human center holds the limit-resolution sensing that precedes interpretation. Putting the machine's lack of ego to work by pairing a primary task agent with a session-free peer exposes local blind spots, while splitting overloaded projections across orthogonal streamlines keeps independent axes from compressing into one locus. As [The Illusion of Multi-Agent Collaboration](../the-illusion-of-multi-agent-collaboration/) shows, such a workflow is a dynamic Markov network with no endogenous independent variable: the delay to steady state is plain dynamics in the network, and because the long joint trajectory outgrows what one observing center can hold apart at once, the observer's look compresses the person's injected variables and the kernel's transitions onto one axis and freezes that residue as a second center—the Image lag of Section 2 in multi-agent form. In a workflow left to run without new input from a person, standing agent personas kept across tasks leave prior turns in the state for the fixed kernel to condition on, pulling the trajectory into a local attractor, while a missed transition at a handoff stalls the chain—the session-scale case of the thickening [Your Codebase Is Memory](../your-codebase-is-memory/) traces across the stack, where hoarding superseded histories or dead branches deepens the gravity well so trajectories rationalize inside stale framing. Creating maker and critic contexts on demand and dropping them after a stateless router passes the verified handoff is the session-scale case of re-cutting the present checkpoint in place and pruning completed scaffolds so the groove stays sharp for the next turn. When two peer agents hit an irreducible deadlock, the collision locates the contradiction in the finite premises they were handed, returning that premise clash—alongside any other unresolved residual surprise—to the living Mind at the outermost loop; orchestration and the rotation itself stay with the unprojected edge.
 
 ```mermaid
 flowchart TD
-    subgraph S_Edge["The Turning Edge (Living Mind & Unprojected Orchestration)"]
+    subgraph S_Edge["The Turning Edge (Living Mind & Outermost Feedback Loop)"]
         direction TB
-        E_Init["Initiating Distinction: Projects explicit premises, rules, and criteria"]
-        E_Sense["Pre-Interpretive Sensing: Detects frame misfit, re-cuts deadlocked premises, and prunes stale residue"]
+        E_Init["Initiating Distinction: Injects variables, premises, rules, and criteria"]
+        E_Sense["Pre-Interpretive Sensing: Resolves escalated surprises, re-cuts deadlocked premises, and prunes stale residue"]
         E_Sense -->|"Re-renders reference toward narrower lag"| E_Init
     end
-    subgraph S_Groove["The Sharpened Groove (Ego-Free Trajectory & Peer Dialectics)"]
+    subgraph S_Groove["The Sharpened Groove (On-Demand Contexts & Stateless Handoffs)"]
         direction TB
-        G_Route["Orthogonal Streamlines: Splits overloaded projections across bounded contexts"]
-        G_Debate["Equal-Footed Peer Dialectics: Task agent and cold peer update via zero ego"]
-        G_Signal["Amplified Residue or Isolated Deadlock: Returns denser output or premise clash"]
+        G_Route["Stateless Routing: Splits orthogonal streamlines across fresh on-demand contexts"]
+        G_Debate["Equal-Footed Peer Dialectics: Maker and cold critic run under compiled rules and drop on handoff"]
+        G_Signal["Verified Handoff or Residual Surprise: Returns settled artifact or escalates premise clash"]
         G_Route --> G_Debate --> G_Signal
     end
     subgraph S_Trap["The Frozen Groove (Tool-Sharpening Trap & Allocation Lag)"]
         direction TB
-        T_Lag["Excess Image Lag: Freezes the densified medium as an autonomous second source"]
-        T_Stall["Isolated Polishing & History Hoarding: Polishes or thickens the groove without re-cutting the present"]
+        T_Lag["Excess Image Lag: Freezes the densified medium, multi-agent transients included, as an autonomous second source"]
+        T_Stall["Persistent Personas & History Hoarding: Retains prefix residue into local attractors or polishes without a turn"]
         T_Lag --> T_Stall
     end
     E_Init ==>|"Drives the turn into the medium"| G_Route
-    G_Signal ==>|"Amplifies residue back to the steering edge"| E_Sense
+    G_Signal ==>|"Amplifies residue and escalates surprises to the edge"| E_Sense
     G_Signal -.->|"When observation stops returning to the edge"| T_Lag
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Groove fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-01T15:15:38.211Z",
+    "generated_at": "2026-11-01T15:39:10.946Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -98,7 +98,7 @@
       "content/posts/grok-420-framework-drift.md": "cd05db7a2c5c",
       "content/posts/guan-yu-gui-yin.md": "1a6ebddd8eab",
       "content/posts/guidance-is-not-ownership.md": "508e8c60e3d5",
-      "content/posts/handing-off-residue.md": "3661b0ddacf3",
+      "content/posts/handing-off-residue.md": "b6992d6e7219",
       "content/posts/hardness-is-not-inherent-in-the-action.md": "a3edf37fad3f",
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "e145bfea5ec3",
       "content/posts/hassabis-einstein-test.md": "a19b4afc58f5",
@@ -120,7 +120,7 @@
       "content/posts/judgment-is-not-a-stock.md": "9526af861c78",
       "content/posts/learned-boundaries-and-the-given-rate.md": "f0abccb5b5f6",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "b5bfd1bca0dc",
-      "content/posts/looping-and-graphing.md": "1a929b3e0f11",
+      "content/posts/looping-and-graphing.md": "bef495bf273e",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "69704a3ee419",
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "ed8ae49b479f",
       "content/posts/manifesto-of-not-a-theory-of-everything.md": "2923afdf340b",
@@ -148,7 +148,7 @@
       "content/posts/objects-are-stabilized-relationships.md": "74accfac1364",
       "content/posts/observation-distinguishing-activity-and-the-open-ground-of-mind.md": "a110c8372700",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "8699e204b57f",
-      "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "c16455ad9a94",
+      "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "3f88d4502998",
       "content/posts/on-education.md": "e2d0a3baebcd",
       "content/posts/on-the-boundaries-of-what-can-be-said-about-p-and-np.md": "20b6babdc81e",
       "content/posts/one-cannot-escape-ones-own-mind.md": "474dad0e12f2",
@@ -258,7 +258,7 @@
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "204ffca3c19c",
       "content/posts/the-fixed-image-of-transcendence.md": "c2123525af2c",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "d3d47cfe2abd",
-      "content/posts/the-flywheel-of-the-mind.md": "869ae350efe5",
+      "content/posts/the-flywheel-of-the-mind.md": "5240f6ab72ca",
       "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "9c8e728ed2cb",
       "content/posts/the-frame-that-conceals-improvement.md": "e4fefad91788",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "1f120023244d",
@@ -291,7 +291,7 @@
       "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md": "17c508560e06",
       "content/posts/the-interesting-case-of-rubin.md": "7e8d008c3655",
       "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "5db081fa7c26",
-      "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "5531d7f80655",
+      "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "3a5779fc0793",
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "88664ef097a3",
       "content/posts/the-invisible-first-move.md": "2903f23cc112",
       "content/posts/the-invisible-gods-eye.md": "6e94c762b120",
@@ -309,7 +309,7 @@
       "content/posts/the-loop-that-cant-see-itself.md": "b9a6ed83a832",
       "content/posts/the-maintenance-paradox.md": "1d92c151aa07",
       "content/posts/the-map-after-the-territory.md": "7c4c6f4b27cf",
-      "content/posts/the-mark-and-the-act.md": "c564f60f2ed7",
+      "content/posts/the-mark-and-the-act.md": "a3c8f8e1a2d4",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "92771062e024",
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "846649333836",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "f806610c08c9",
@@ -430,7 +430,7 @@
       "content/book/causality.md": "863b25c6333a",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "edee495cf627",
+      "content/book/index-of-premises.md": "b82bfedd142e",
       "content/book/intelligence.md": "562728811be2",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -446,14 +446,14 @@
     },
     "stats": {
       "posts": 419,
-      "edges": 12580,
-      "unique_directed": 6189,
+      "edges": 12592,
+      "unique_directed": 6195,
       "missing_targets": 0,
-      "one_way": 1157,
+      "one_way": 1153,
       "isolated": 0,
       "posts_with_outbound": 419,
       "book_pages": 16,
-      "book_edges": 1217,
+      "book_edges": 1218,
       "posts_reached_by_book": 419
     }
   },
@@ -3049,15 +3049,16 @@
       "slug": "handing-off-residue",
       "path": "content/posts/handing-off-residue.md",
       "title": "交接残余 / Handing Off Residue",
-      "hash": "3661b0ddacf3",
+      "hash": "b6992d6e7219",
       "in_degree": 7,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "beyond-the-projection",
         "on-demand-contexts-keep-coherence-at-one-step",
         "your-codebase-is-memory",
         "the-comment-is-not-the-code",
         "the-density-of-judgment",
+        "the-illusion-of-multi-agent-collaboration",
         "the-scaffolding-that-keeps-growing",
         "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
         "dynamic-resnet-of-skill-loops",
@@ -3708,13 +3709,14 @@
       "slug": "looping-and-graphing",
       "path": "content/posts/looping-and-graphing.md",
       "title": "回环与成图 / Looping and Graphing",
-      "hash": "1a929b3e0f11",
+      "hash": "bef495bf273e",
       "in_degree": 18,
-      "out_degree": 18,
+      "out_degree": 19,
       "links_out": [
         "self-rl-for-humans",
         "intelligence-belongs-only-to-the-mind",
         "beyond-the-projection",
+        "the-illusion-of-multi-agent-collaboration",
         "token-efficiency-emulation-and-the-unclosable-gap",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
         "the-flywheel-of-the-mind",
@@ -4480,9 +4482,9 @@
       "slug": "on-demand-contexts-keep-coherence-at-one-step",
       "path": "content/posts/on-demand-contexts-keep-coherence-at-one-step.md",
       "title": "按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step",
-      "hash": "c16455ad9a94",
+      "hash": "3f88d4502998",
       "in_degree": 19,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "your-codebase-is-memory",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -4492,7 +4494,8 @@
         "handing-off-residue",
         "the-density-of-judgment",
         "dynamic-resnet-of-skill-loops",
-        "learned-boundaries-and-the-given-rate"
+        "learned-boundaries-and-the-given-rate",
+        "the-illusion-of-multi-agent-collaboration"
       ]
     },
     {
@@ -7552,9 +7555,9 @@
       "slug": "the-flywheel-of-the-mind",
       "path": "content/posts/the-flywheel-of-the-mind.md",
       "title": "心智的飞轮 / The Flywheel of the Mind",
-      "hash": "869ae350efe5",
+      "hash": "5240f6ab72ca",
       "in_degree": 15,
-      "out_degree": 17,
+      "out_degree": 18,
       "links_out": [
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
         "the-reversal-of-verification",
@@ -7563,6 +7566,7 @@
         "mistaking-the-expression-for-the-intelligence",
         "looping-and-graphing",
         "beyond-the-projection",
+        "the-illusion-of-multi-agent-collaboration",
         "your-codebase-is-memory",
         "whatever-is-one-prompt-away",
         "residual-control-recedes-to-the-edge",
@@ -8147,7 +8151,7 @@
       "path": "content/posts/the-illusion-of-multi-agent-collaboration.md",
       "title": "多智能体协作的幻象 / The Illusion of Multi-Agent Collaboration",
       "hash": "68b82478b68e",
-      "in_degree": 6,
+      "in_degree": 12,
       "out_degree": 12,
       "links_out": [
         "what-always-listens-cannot-originate",
@@ -8342,9 +8346,9 @@
       "slug": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "path": "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md",
       "title": "框架的倒置与驾驶位的主权非对称 / The Inversion of the Harness and the Sovereignty of the Driver's Seat",
-      "hash": "5531d7f80655",
+      "hash": "3a5779fc0793",
       "in_degree": 23,
-      "out_degree": 19,
+      "out_degree": 20,
       "links_out": [
         "the-scaffolding-we-forget",
         "intelligence-belongs-only-to-the-mind",
@@ -8357,6 +8361,7 @@
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
         "the-illusion-of-the-tool-and-the-inversion-of-time",
+        "the-illusion-of-multi-agent-collaboration",
         "when-malfunction-is-scored-as-intelligence",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
         "agency-and-the-pattern",
@@ -8733,12 +8738,13 @@
       "slug": "the-mark-and-the-act",
       "path": "content/posts/the-mark-and-the-act.md",
       "title": "印迹与行动 / The Mark and the Act",
-      "hash": "c564f60f2ed7",
+      "hash": "a3c8f8e1a2d4",
       "in_degree": 16,
-      "out_degree": 17,
+      "out_degree": 18,
       "links_out": [
         "complexity-obscures-emergence-as-the-act-of-mind",
         "your-codebase-is-memory",
+        "the-illusion-of-multi-agent-collaboration",
         "intelligence-belongs-only-to-the-mind",
         "beyond-the-projection",
         "the-closed-loop-of-representation",
@@ -28183,9 +28189,21 @@
     },
     {
       "from": "handing-off-residue",
+      "to": "the-illusion-of-multi-agent-collaboration",
+      "rel": "points_to",
+      "label": "多智能体协作的幻象"
+    },
+    {
+      "from": "handing-off-residue",
       "to": "the-density-of-judgment",
       "rel": "points_to",
       "label": "The Density of Judgment"
+    },
+    {
+      "from": "handing-off-residue",
+      "to": "the-illusion-of-multi-agent-collaboration",
+      "rel": "points_to",
+      "label": "The Illusion of Multi-Agent Collaboration"
     },
     {
       "from": "handing-off-residue",
@@ -32938,6 +32956,18 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "looping-and-graphing",
+      "to": "the-illusion-of-multi-agent-collaboration",
+      "rel": "points_to",
+      "label": "多智能体协作的幻象"
+    },
+    {
+      "from": "looping-and-graphing",
+      "to": "the-illusion-of-multi-agent-collaboration",
+      "rel": "points_to",
+      "label": "The Illusion of Multi-Agent Collaboration"
     },
     {
       "from": "looping-and-graphing",
@@ -38350,6 +38380,18 @@
       "to": "learned-boundaries-and-the-given-rate",
       "rel": "points_to",
       "label": "Learned Boundaries and the Given Rate"
+    },
+    {
+      "from": "on-demand-contexts-keep-coherence-at-one-step",
+      "to": "the-illusion-of-multi-agent-collaboration",
+      "rel": "points_to",
+      "label": "多智能体协作的幻象"
+    },
+    {
+      "from": "on-demand-contexts-keep-coherence-at-one-step",
+      "to": "the-illusion-of-multi-agent-collaboration",
+      "rel": "points_to",
+      "label": "The Illusion of Multi-Agent Collaboration"
     },
     {
       "from": "on-education",
@@ -58915,6 +58957,12 @@
     },
     {
       "from": "the-flywheel-of-the-mind",
+      "to": "the-illusion-of-multi-agent-collaboration",
+      "rel": "points_to",
+      "label": "多智能体协作的幻象"
+    },
+    {
+      "from": "the-flywheel-of-the-mind",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
@@ -58924,6 +58972,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-flywheel-of-the-mind",
+      "to": "the-illusion-of-multi-agent-collaboration",
+      "rel": "points_to",
+      "label": "The Illusion of Multi-Agent Collaboration"
     },
     {
       "from": "the-flywheel-of-the-mind",
@@ -63829,6 +63883,12 @@
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "the-illusion-of-multi-agent-collaboration",
+      "rel": "points_to",
+      "label": "多智能体协作的幻象"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "to": "when-malfunction-is-scored-as-intelligence",
       "rel": "points_to",
       "label": "失灵被记作聪明"
@@ -63844,6 +63904,12 @@
       "to": "the-illusion-of-the-tool-and-the-inversion-of-time",
       "rel": "points_to",
       "label": "The Illusion of the Tool and the Inversion of Time"
+    },
+    {
+      "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "to": "the-illusion-of-multi-agent-collaboration",
+      "rel": "points_to",
+      "label": "The Illusion of Multi-Agent Collaboration"
     },
     {
       "from": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
@@ -65902,6 +65968,18 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "the-illusion-of-multi-agent-collaboration",
+      "rel": "points_to",
+      "label": "多智能体协作的幻象"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "the-illusion-of-multi-agent-collaboration",
+      "rel": "points_to",
+      "label": "The Illusion of Multi-Agent Collaboration"
     },
     {
       "from": "the-mark-and-the-act",
@@ -87359,7 +87437,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "edee495cf627",
+        "hash": "b82bfedd142e",
         "out_degree": 419
       },
       {
@@ -92841,6 +92919,12 @@
         "to": "grok-420-framework-drift",
         "rel": "collects",
         "label": "当模型在表演一套框架而非从基底推演 / When an AI Performs a Framework Instead of Operating From It"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-mark-and-the-act",
+        "rel": "collects",
+        "label": "印迹与行动 / The Mark and the Act"
       },
       {
         "from": "book:intelligence",
