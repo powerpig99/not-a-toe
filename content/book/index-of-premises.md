@@ -2771,7 +2771,7 @@ Financial freedom assumes money is the precondition of acting freely; at scarcit
 
 The search for a first cause and ultimate foundation carries everything back to a starting point that needs no cause, which is of use in giving a line of reasoning a place to pause; it reaches its boundary in that causality cannot be proved without already using it, the hold on an ultimate ground compensates for that unclosable proof, and causal chains are traceable yet never exhausted, so every foundation stays provisional.
 
-→ [现实的边界 / The Boundary of Reality](../../posts/xian-shi-de-bian-jie/) · [心智最坚固的信念 / The Strongest Belief of the Mind](../../posts/the-strongest-belief-of-the-mind/)
+→ [现实的边界 / The Boundary of Reality](../../posts/xian-shi-de-bian-jie/) · [心智最坚固的信念 / The Strongest Belief of the Mind](../../posts/the-strongest-belief-of-the-mind/) · [观察、区分活动与心智的开放地基 / Observation, Distinguishing Activity, and the Open Ground of Mind](../../posts/observation-distinguishing-activity-and-the-open-ground-of-mind/)
 
 ### 固定不变的自我 / Fixed Essential Self
 `哲学 / Philosophical`
@@ -2915,7 +2915,7 @@ The claim that generative AI harms learning is of use in flagging the cost of su
 
 Formal systems treat contradictions as logical defects; living awareness continuously negates its prior models, generating fresh scaffolding without claiming static closure.
 
-→ [非万物之理·重溯 / Not a ToE Retraced](../../posts/not-a-toe-rewrite/)
+→ [非万物之理·重溯 / Not a ToE Retraced](../../posts/not-a-toe-rewrite/) · [观察、区分活动与心智的开放地基 / Observation, Distinguishing Activity, and the Open Ground of Mind](../../posts/observation-distinguishing-activity-and-the-open-ground-of-mind/)
 
 ### 涌现的几何学认出 / Geometric Recognition of Emergence
 `科学 / Scientific`
@@ -4886,7 +4886,7 @@ Presumes finer measurement and exactness on a shared symbolic dimension yield de
 
 Infinite causal regress presumes every act is pushed over by a prior physical domino; searched for from the first-person origin, one's own choice does not arrive pushed by the moment before, which is where the presumption reaches its boundary, while as a tool for anticipating consequences and tracing causes in the world as registered it stays useful.
 
-→ [唯一自洽的无因之果 / The Only Coherent Uncaused Effect](../../posts/the-only-coherent-uncaused-effect/)
+→ [唯一自洽的无因之果 / The Only Coherent Uncaused Effect](../../posts/the-only-coherent-uncaused-effect/) · [观察、区分活动与心智的开放地基 / Observation, Distinguishing Activity, and the Open Ground of Mind](../../posts/observation-distinguishing-activity-and-the-open-ground-of-mind/)
 
 ### 不可闭合的观察痕迹 / The Unclosable Observational Trace
 `哲学 / Philosophical`

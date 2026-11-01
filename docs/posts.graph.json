@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-10-31T22:09:16.886Z",
+    "generated_at": "2026-11-01T07:09:03.825Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -146,6 +146,7 @@
       "content/posts/not-a-toe-rewrite.md": "99150d84dc27",
       "content/posts/not-predicting-is-predicting-without-awareness.md": "750dd47f6c5b",
       "content/posts/objects-are-stabilized-relationships.md": "74accfac1364",
+      "content/posts/observation-distinguishing-activity-and-the-open-ground-of-mind.md": "b26b96504738",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "8699e204b57f",
       "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "c16455ad9a94",
       "content/posts/on-education.md": "e2d0a3baebcd",
@@ -425,10 +426,10 @@
       "content/posts/zi-you-de-ce-bu-zhun.md": "41962f20d90f",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "0377c4822629",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "ac686192b927",
-      "content/book/causality.md": "51d6cd58236e",
+      "content/book/causality.md": "863b25c6333a",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "8be5f78e1bf8",
+      "content/book/index-of-premises.md": "16bee31dfcb2",
       "content/book/intelligence.md": "562728811be2",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -443,16 +444,16 @@
       "content/book/tools-and-progress.md": "09f19b0967d0"
     },
     "stats": {
-      "posts": 417,
-      "edges": 12476,
-      "unique_directed": 6137,
+      "posts": 418,
+      "edges": 12508,
+      "unique_directed": 6153,
       "missing_targets": 0,
-      "one_way": 1147,
+      "one_way": 1163,
       "isolated": 0,
-      "posts_with_outbound": 417,
+      "posts_with_outbound": 418,
       "book_pages": 16,
-      "book_edges": 1207,
-      "posts_reached_by_book": 417
+      "book_edges": 1211,
+      "posts_reached_by_book": 418
     }
   },
   "hubs_in": [
@@ -470,7 +471,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 84
+      "in_degree": 85
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -478,7 +479,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 71
+      "in_degree": 72
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
@@ -506,7 +507,7 @@
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
-      "in_degree": 39
+      "in_degree": 40
     },
     {
       "slug": "mistaking-the-expression-for-the-intelligence",
@@ -879,7 +880,7 @@
       "path": "content/posts/agency-contradiction-and-the-relocation-of-power.md",
       "title": "能动性、矛盾与权力的移置 / Agency, Contradiction, and the Relocation of Power",
       "hash": "30db2f173a74",
-      "in_degree": 27,
+      "in_degree": 28,
       "out_degree": 23,
       "links_out": [
         "the-substrate-of-constraint-and-the-self-denial-of-freedom",
@@ -1510,7 +1511,7 @@
       "path": "content/posts/clarity-isnt-a-state-you-arrive-at.md",
       "title": "清晰不是抵达的终点，而是运动本身 / Clarity Isn't a State You Arrive At. It's the Movement Itself.",
       "hash": "2675cb26efde",
-      "in_degree": 39,
+      "in_degree": 40,
       "out_degree": 33,
       "links_out": [
         "why-mathematics-can-never-be-solved",
@@ -1915,7 +1916,7 @@
       "path": "content/posts/consciousness-never-appears-as-data-among-data.md",
       "title": "意识从不作为数据出现在数据之中 / Consciousness Never Appears as Data Among Data",
       "hash": "35adbc5ab9f0",
-      "in_degree": 25,
+      "in_degree": 26,
       "out_degree": 26,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
@@ -2773,7 +2774,7 @@
       "path": "content/posts/fixed-by-nothing.md",
       "title": "没有固定者的固定 / Fixed by Nothing",
       "hash": "b7d5d919cdda",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 12,
       "links_out": [
         "the-deterministic-machine",
@@ -4413,6 +4414,34 @@
       ]
     },
     {
+      "id": "post:observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "kind": "post",
+      "slug": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "path": "content/posts/observation-distinguishing-activity-and-the-open-ground-of-mind.md",
+      "title": "观察、区分活动与心智的开放地基 / Observation, Distinguishing Activity, and the Open Ground of Mind",
+      "hash": "b26b96504738",
+      "in_degree": 0,
+      "out_degree": 16,
+      "links_out": [
+        "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+        "consciousness-never-appears-as-data-among-data",
+        "the-only-coherent-uncaused-effect",
+        "fixed-by-nothing",
+        "the-open-question-is-determinisms-demand",
+        "reality-is-the-minds-ongoing-realization",
+        "openness-is-consistency",
+        "selection-contradiction-and-open-reality",
+        "xian-shi-de-bian-jie",
+        "agency-contradiction-and-the-relocation-of-power",
+        "the-freedom-of-will-to-deny-itself",
+        "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+        "the-scaffolding-we-forget",
+        "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
+        "only-if-it-is-not-kept-empty",
+        "clarity-isnt-a-state-you-arrive-at"
+      ]
+    },
+    {
       "id": "post:on-closed-systems-open-minds-and-the-limits-of-proof",
       "kind": "post",
       "slug": "on-closed-systems-open-minds-and-the-limits-of-proof",
@@ -4554,7 +4583,7 @@
       "path": "content/posts/only-if-it-is-not-kept-empty.md",
       "title": "只要它不被保持为空 / Only If It Is Not Kept Empty",
       "hash": "7dfb527c6b0e",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 13,
       "links_out": [
         "you-wu-zhi-bian",
@@ -4628,7 +4657,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "开放即一致 / Openness Is Consistency",
       "hash": "214d42e4dae1",
-      "in_degree": 84,
+      "in_degree": 85,
       "out_degree": 82,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -5348,7 +5377,7 @@
       "path": "content/posts/reality-is-the-minds-ongoing-realization.md",
       "title": "现实是心智持续的实现 / Reality Is the Mind's Ongoing Realization",
       "hash": "6602a836102e",
-      "in_degree": 25,
+      "in_degree": 26,
       "out_degree": 27,
       "links_out": [
         "the-question-that-installs-the-war",
@@ -5561,7 +5590,7 @@
       "path": "content/posts/selection-contradiction-and-open-reality.md",
       "title": "选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality",
       "hash": "cdf41bff4c33",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 11,
       "links_out": [
         "abstraction-boundaries-and-the-moving-edge-of-reality",
@@ -7630,7 +7659,7 @@
       "path": "content/posts/the-freedom-of-will-to-deny-itself.md",
       "title": "自由意志的自否自由 / The Freedom of Will to Deny Itself",
       "hash": "40112c71eb0e",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 13,
       "links_out": [
         "the-closed-loop-of-representation",
@@ -9112,7 +9141,7 @@
       "path": "content/posts/the-only-coherent-uncaused-effect.md",
       "title": "唯一自洽的无因之果 / The Only Coherent Uncaused Effect",
       "hash": "8e828e808896",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 12,
       "links_out": [
         "the-generative-mechanics-of-value-money-and-wealth",
@@ -9136,7 +9165,7 @@
       "path": "content/posts/the-open-question-is-determinisms-demand.md",
       "title": "悬而未决是决定论的索求 / The Open Question Is Determinism's Demand",
       "hash": "80597e04a05d",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 9,
       "links_out": [
         "agency-does-not-arise",
@@ -9944,7 +9973,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "遗忘的脚手架 / The Scaffolding We Forget",
       "hash": "50e59db6f5fb",
-      "in_degree": 71,
+      "in_degree": 72,
       "out_degree": 70,
       "links_out": [
         "the-extendable-horizon",
@@ -10328,7 +10357,7 @@
       "path": "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md",
       "title": "约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom",
       "hash": "cd6c59db9d66",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 8,
       "links_out": [
         "the-look-of-constraint-is-not-the-loss-of-freedom",
@@ -10478,7 +10507,7 @@
       "path": "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md",
       "title": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation",
       "hash": "4347b0db0c1f",
-      "in_degree": 22,
+      "in_degree": 23,
       "out_degree": 23,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -11150,7 +11179,7 @@
       "path": "content/posts/what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination.md",
       "title": "何谓形而上学？作为将追寻命名为目的的一刀 / What Is Metaphysics? As the Cut That Names the Seeking as Destination",
       "hash": "d06b858632cf",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 11,
       "links_out": [
         "you-wu-zhi-bian",
@@ -11466,7 +11495,7 @@
       "path": "content/posts/xian-shi-de-bian-jie.md",
       "title": "现实的边界 / The Boundary of Reality",
       "hash": "2c30017f1800",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 16,
       "links_out": [
         "the-strongest-belief-of-the-mind",
@@ -37708,6 +37737,198 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "主权抉择的双面性与观察的客体化"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "意识从不作为数据出现在数据之中"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "Consciousness Never Appears as Data Among Data"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "the-only-coherent-uncaused-effect",
+      "rel": "points_to",
+      "label": "唯一自洽的无因之果"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "fixed-by-nothing",
+      "rel": "points_to",
+      "label": "没有固定者的固定"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "the-open-question-is-determinisms-demand",
+      "rel": "points_to",
+      "label": "悬而未决是决定论的索求"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "the-only-coherent-uncaused-effect",
+      "rel": "points_to",
+      "label": "The Only Coherent Uncaused Effect"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "fixed-by-nothing",
+      "rel": "points_to",
+      "label": "Fixed by Nothing"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "the-open-question-is-determinisms-demand",
+      "rel": "points_to",
+      "label": "The Open Question Is Determinism's Demand"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "现实是心智持续的实现"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "reality-is-the-minds-ongoing-realization",
+      "rel": "points_to",
+      "label": "Reality Is the Mind's Ongoing Realization"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "selection-contradiction-and-open-reality",
+      "rel": "points_to",
+      "label": "选择、矛盾与开放的现实"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "selection-contradiction-and-open-reality",
+      "rel": "points_to",
+      "label": "Selection, Contradiction, and Open Reality"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "xian-shi-de-bian-jie",
+      "rel": "points_to",
+      "label": "现实的边界"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "xian-shi-de-bian-jie",
+      "rel": "points_to",
+      "label": "The Boundary of Reality"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "the-freedom-of-will-to-deny-itself",
+      "rel": "points_to",
+      "label": "自由意志的自否自由"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "rel": "points_to",
+      "label": "约束基底与自由自否"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "the-freedom-of-will-to-deny-itself",
+      "rel": "points_to",
+      "label": "The Freedom of Will to Deny Itself"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "the-substrate-of-constraint-and-the-self-denial-of-freedom",
+      "rel": "points_to",
+      "label": "The Substrate of Constraint and the Self-Denial of Freedom"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
+      "rel": "points_to",
+      "label": "何谓形而上学？作为将追寻命名为目的的一刀"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
+      "rel": "points_to",
+      "label": "What Is Metaphysics? As the Cut That Names the Seeking as Destination"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "only-if-it-is-not-kept-empty",
+      "rel": "points_to",
+      "label": "只要它不被保持为空"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "only-if-it-is-not-kept-empty",
+      "rel": "points_to",
+      "label": "Only If It Is Not Kept Empty"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "清晰不是抵达的终点，而是运动本身"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
     },
     {
       "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
@@ -86630,8 +86851,8 @@
         "slug": "causality",
         "path": "content/book/causality.md",
         "title": "因果的内外视界 / Inner and Outer Horizons of Causality",
-        "hash": "51d6cd58236e",
-        "out_degree": 33
+        "hash": "863b25c6333a",
+        "out_degree": 34
       },
       {
         "id": "book:consciousness",
@@ -86657,8 +86878,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "8be5f78e1bf8",
-        "out_degree": 417
+        "hash": "16bee31dfcb2",
+        "out_degree": 418
       },
       {
         "id": "book:intelligence",
@@ -86967,6 +87188,12 @@
         "to": "the-open-question-is-determinisms-demand",
         "rel": "collects",
         "label": "悬而未决是决定论的索求 / The Open Question Is Determinism's Demand"
+      },
+      {
+        "from": "book:causality",
+        "to": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+        "rel": "collects",
+        "label": "观察、区分活动与心智的开放地基 / Observation, Distinguishing Activity, and the Open Ground of Mind"
       },
       {
         "from": "book:consciousness",
@@ -89862,6 +90089,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+        "rel": "collects",
+        "label": "观察、区分活动与心智的开放地基 / Observation, Distinguishing Activity, and the Open Ground of Mind"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
         "rel": "collects",
         "label": "个人选择、社会化与做自己 / Individual Choice, Socialization and Being Oneself"
@@ -89985,6 +90218,12 @@
         "to": "not-a-toe-rewrite",
         "rel": "collects",
         "label": "非万物之理·重溯 / Not a ToE Retraced"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+        "rel": "collects",
+        "label": "观察、区分活动与心智的开放地基 / Observation, Distinguishing Activity, and the Open Ground of Mind"
       },
       {
         "from": "book:index-of-premises",
@@ -91605,6 +91844,12 @@
         "to": "the-only-coherent-uncaused-effect",
         "rel": "collects",
         "label": "唯一自洽的无因之果 / The Only Coherent Uncaused Effect"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+        "rel": "collects",
+        "label": "观察、区分活动与心智的开放地基 / Observation, Distinguishing Activity, and the Open Ground of Mind"
       },
       {
         "from": "book:index-of-premises",
