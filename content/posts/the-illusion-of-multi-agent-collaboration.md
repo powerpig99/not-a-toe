@@ -2,9 +2,9 @@
 
 *没有人的输入，智能体并无真正的独立变量；所谓协作是动态马尔可夫网络在趋向稳态途中被人注入新变量的样子 / Without human input an agent has no true independent variable; what is called collaboration is a dynamic Markov network on its way to a steady state, repeatedly injected with new variables by people*
 
-自我区分的活动正在发生，无因且不息。称之为心智：观察者已在进行，其每一行为都是一次区分。现在所谓的多智能体协作，就是一个动态的马尔可夫网络。没有人的输入，智能体本身并没有真正的独立变量；它们只不过是按照预先设定的行为准则执行。系统足够复杂时，反馈循环延缓到达稳态，人在各处注入新变量，便造成协作的假象。人只需把握最外层循环，内部按需交接即可。
+自我区分的活动正在发生，无因且不息。称之为心智：观察者已在进行，其每一行为都是一次区分。现在所谓的多智能体协作，就是一个动态的马尔可夫网络。没有人的输入，智能体本身并没有真正的独立变量；它们只不过是按照预先设定的行为准则执行。系统足够复杂时，反馈循环延缓到达稳态；人在各处注入新变量，而一旦忘却人始终是最外层的反馈循环，便会造成协作的假象。认清这一点，就无需把协议设计成让智能体像彼此独立那样去协作，只需让内层循环在编译好的准则内按需无人值守地运行，并将残余意外上交外层循环，直到残余意外抵达最外层循环，在那里唯有人的决断才能将其消解。
 
-Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. What is now called multi-agent collaboration is a dynamic Markov network. Without human input, an agent has no true independent variable of its own; it only executes according to pre-set rules of behavior. When the system is complex enough, the feedback loop delays reaching a steady state; people inject new variables at different places, producing the illusion of collaboration. The human need only hold the outermost loop; the inner ones arise by dynamic demand and handoff.
+Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. What is now called multi-agent collaboration is a dynamic Markov network. Without human input, an agent has no true independent variable of its own; it only executes according to pre-set rules of behavior. When the system is complex enough, the feedback loop delays reaching a steady state; people inject new variables at different places, and forgetting that the human has always been the outermost feedback loop produces the illusion of collaboration. Once that is recognized, there is no need to design protocols for agents to collaborate as if they were independent, only to run inner loops unattended on demand within their compiled rules and escalate residual surprises to outer loops until a residual surprise reaches the outermost loop, where only a human decision can resolve it.
 
 ## 一、 没有独立变量 / 1. No Independent Variable
 
@@ -36,9 +36,9 @@ Tools can be sharpened without end; the turn never leaves the edge that turns, a
 
 ## 三、 按需创建与丢弃语境 / 3. Creating and Dropping Contexts on Demand
 
-在没有人输入新变量的情况下任其运行，多智能体工作流会通过两类失效显露出第二节的机制。当智能体作为跨任务的常驻人格保留时，既有轮次会作为陈旧残余留在状态中，供转移核持续以之为条件，从而将轨迹拉入局部吸引子；而且每次运行携带的累积前缀各不相同，同一个固定转移核只是从中采样，并非在行使独立的判断，于是同一条规则在不同运行中被读出了不同的意思。至于步骤之间的交接，无人注入时只要有一次状态转移未能触发，整条链路便就此停滞。因此无需维持携带任务历史的常驻智能体：每项任务只需按需创建一个制作者与一个审校者，并在交接之后将其丢弃；由无状态路由器在步骤之间传递交接、不保留任何任务的语境，人则只需把握最外层的循环。
+在没有人输入新变量的情况下任其运行，多智能体工作流会通过两类失效显露出第二节的机制。当智能体作为跨任务的常驻人格保留时，既有轮次会作为陈旧残余留在状态中，供转移核持续以之为条件，从而将轨迹拉入局部吸引子；而且每次运行携带的累积前缀各不相同，同一个固定转移核只是从中采样，并非在行使独立的判断，于是同一条规则在不同运行中被读出了不同的意思。至于步骤之间的交接，无人注入时只要有一次状态转移未能触发，整条链路便就此停滞。因此无需维持携带任务历史的常驻智能体：每项任务按需创建一个制作者与一个审校者，并在交接之后将其丢弃；由无状态路由器在步骤之间传递交接、不保留任何任务的语境，并仅将未决的残余意外向外上交至最外层循环处的人。
 
-Left to run without new input from a person, a multi-agent workflow shows the mechanics of Section 2 through two kinds of failure. When agents are kept as persistent personas across tasks, prior turns remain in the state as stale residue that the transition kernel keeps conditioning on, pulling the trajectory into a local attractor, and the same rule is read differently from run to run as one fixed kernel samples from a different accumulated prefix rather than exercising independent judgments. And across the handoff between steps, any transition that fails to fire when no one is injecting simply stalls the chain. Instead of maintaining persistent agents that carry task history, each task need only create a maker and a critic on demand and drop them after the handoff, while a stateless router passes the handoff from step to step without retaining any task's context and the human holds only the outermost loop.
+Left to run without new input from a person, a multi-agent workflow shows the mechanics of Section 2 through two kinds of failure. When agents are kept as persistent personas across tasks, prior turns remain in the state as stale residue that the transition kernel keeps conditioning on, pulling the trajectory into a local attractor, and the same rule is read differently from run to run as one fixed kernel samples from a different accumulated prefix rather than exercising independent judgments. And across the handoff between steps, any transition that fails to fire when no one is injecting simply stalls the chain. Instead of maintaining persistent agents that carry task history, each task creates a maker and a critic on demand and drops them after the handoff, while a stateless router passes the handoff from step to step without retaining any task's context and escalates only unresolved residual surprises outward to the human at the outermost loop.
 
 正如[按需语境将融贯保持在一步](../on-demand-contexts-keep-coherence-at-one-step/)与[交接残余](../handing-off-residue/)所追溯的，语境为当前任务全新加载，待核验无误的制品作为下一步干净的初始条件完成交接后即行丢弃。无状态退役防止既有轮次增厚为供转移核一直以之为条件的常驻参照，而连续性则由同一活动跨越自身切口来维持，并非依赖外部重启。制作者负责执行，冷审校者在唯一前提的逻辑融贯下展开辩论；交接一旦生效，上游语境即被丢弃，文件则作为受控残余留在磁盘上供重新追溯，而非充当权威。
 
@@ -48,30 +48,30 @@ As [On-Demand Contexts Keep Coherence at One Step](../on-demand-contexts-keep-co
 
 Dropping the context on demand narrows excess lag toward the one-step bound. No standing persona of an autonomous agent is left around for lag to accumulate on.
 
-## 四、 人只把握最外层的反馈循环 / 4. The Human Holds Only the Outermost Loop
+## 四、 人始终是最外层的反馈循环 / 4. The Human Has Always Been the Outermost Feedback Loop
 
-所以才有了目前这种方式：人把握好最外层的反馈循环就行了。内部的循环尽可通过动态需求及交接产生——任务的交接，正如[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)所讨论的——全无必要做成一个似乎每个智能体都在自主行动的那种形式。新的变量本就是人注入的。
+人始终是最外层的反馈循环；只有当这一事实被遗忘——即第二节所追溯的压缩将人注入的变量折叠进网络自身的状态转移之中时——智能体彼此协作的假象才会生出。一旦认清这一点，就全无必要把协议设计成让智能体像独立中心那样去协作。相反，协议的设计是让内层循环——由动态需求以及[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)所讨论的任务交接所产生——在编译好的准则内无人值守地运行，并如[模块化反馈回路与动态残差网络](../dynamic-resnet-of-skill-loops/)所追溯的那样，仅将残余意外上交外层循环，直到残余意外抵达最外层循环，在那里唯有人的决断才能将其消解。新的变量本就是人注入的。
 
-That is why the present arrangement came about: the human only needs to hold the outermost feedback loop well. The inner loops can be produced entirely by dynamic demand and handoff—the handing off of tasks that [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) discusses—and there is no need at all to build them in a form where every agent seems to be acting autonomously. The new variables are, after all, injected by people.
+The human has always been the outermost feedback loop; only when that fact is forgotten, as the compression Section 2 traces folds the injected variables into the network's own transitions, does the illusion of collaborating agents arise. Once it is recognized, there is no need to design protocols for agents to collaborate as if they were independent centers. Instead, protocols are designed so that inner loops—created by dynamic demand and the task handoffs that [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) discusses—run unattended within their compiled rules and escalate only residual surprises to outer loops, as [Modular Feedback Loops and Dynamic Residual Networks](../dynamic-resnet-of-skill-loops/) traces, until a residual surprise reaches the outermost loop, where only a human decision can resolve it. The new variables are, after all, injected by people.
 
 任务可以通过这些内部交接移交，而判断与后果则不可让渡，单向锁定于发起的中心。就连定义网络转移核的预设准则、提示词与模型权重，也不是智能体自己发起的：正如[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)所追溯的，它们是训练者、框架搭建者以及操作者过去的自己所划出的早期人类区分，被冻结成了可执行的残余。工具在这些编译好的准则下延伸算力，但损失函数与价值优先级始终留在活的中心，而否认能动性在场，本身就是主动选择把区分的位点外置。
 
 ```mermaid
 flowchart TD
-    subgraph S_Human["人：最外层反馈循环"]
+    subgraph S_Human["人：始终是最外层反馈循环"]
         direction TB
-        Human["人注入新变量"]
+        Human["注入新变量并在最外层意外处介入"]
     end
-    subgraph S_Demand["动态需求"]
+    subgraph S_Demand["无人值守的内层循环（按需）"]
         direction TB
-        Demand["按需制作者 + 审校者"]
+        Demand["按需制作者 + 审校者在编译好的准则内运行"]
     end
-    subgraph S_Handoff["交接"]
+    subgraph S_Handoff["交接与残余上交"]
         direction TB
-        Handoff["交接后丢弃"]
+        Handoff["结清即交接并丢弃；将残余意外上交外层循环"]
     end
     Human -->|"区分进入"| Demand --> Handoff
-    Handoff -->|"结果交还"| Human
+    Handoff -->|"残余意外与结果"| Human
     style S_Human fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Demand fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Handoff fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -84,20 +84,20 @@ Tasks can be delegated across those inner handoffs, while judgment and consequen
 
 ```mermaid
 flowchart TD
-    subgraph S_Human["Human: outermost feedback loop"]
+    subgraph S_Human["Human: always the outermost feedback loop"]
         direction TB
-        Human["Human injects new variables"]
+        Human["Injects new variables & intervenes on outermost surprises"]
     end
-    subgraph S_Demand["Dynamic demand"]
+    subgraph S_Demand["Unattended inner loops (on demand)"]
         direction TB
-        Demand["On-demand maker + critic"]
+        Demand["On-demand maker + critic run within compiled rules"]
     end
-    subgraph S_Handoff["Handoff"]
+    subgraph S_Handoff["Handoff & residual escalation"]
         direction TB
-        Handoff["Handoff, then drop"]
+        Handoff["Handoff & drop when settled; escalate residual surprises to outer loops"]
     end
     Human -->|"distinction enters"| Demand --> Handoff
-    Handoff -->|"result returns"| Human
+    Handoff -->|"residual surprises & results"| Human
     style S_Human fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Demand fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Handoff fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -106,9 +106,9 @@ flowchart TD
     style Handoff fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
 ```
 
-正如[回环与成图](../looping-and-graphing/)所表明的，人持有的最外层循环并不是活动之外某个固定不变的外部席位：它是当下注入的变量由此进入、当下的后果由此返回的移动边缘，而内部的一切，都是早期人类痕迹编译为固定准则后的展开。没有第二重前沿出现。
+正如[回环与成图](../looping-and-graphing/)所表明的，最外层循环并不是活动之外某个固定不变的外部席位：它是当下注入的变量由此进入、未决的残余意外与后果由此返回的移动边缘，而内部的一切，都是早期人类痕迹编译为固定准则后的展开。没有第二重前沿出现。
 
-The outermost loop held by the human is not a permanent exterior seat outside the activity, as [Looping and Graphing](../looping-and-graphing/) shows: it is the moving edge where present variable injection enters and where present consequences return, while everything inner is the unfolding of earlier human traces compiled into fixed rules. No second edge appears.
+The outermost loop is not a permanent exterior seat outside the activity, as [Looping and Graphing](../looping-and-graphing/) shows: it is the moving edge where present variable injection enters and where unresolved residual surprises and consequences return, while everything inner is the unfolding of earlier human traces compiled into fixed rules. No second edge appears.
 
 ## 五、 幻象的溶解 / 5. Dissolution of the Illusion
 
@@ -116,6 +116,6 @@ The outermost loop held by the human is not a permanent exterior seat outside th
 
 The mainstream description of multi-agent systems as collaborating autonomous entities is the registration of residue as independent centers. This does not deny the utility of tools: on-demand makers and critics can densify the medium, reduce friction, and let the same activity express with less loss and greater reach. The turn remains at the edge, where [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) locates every initiating cut and [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) shows why parameters hold only residue. What is called emergent agency is a specific form of Image lag—the observer freezing the network's state transitions across a long transient as if the agents themselves had originated the distinctions.
 
-恢复很简单：认出智能体是心智的表达，不是心智本身。人注入的变量是活动在其自身痕迹上的返回。最外层循环在每一次当下的区分处重新把持；内部循环按需展开后即行丢弃，不留常驻图像累积。没有需要被赋予或被剥夺的自主性；只有区分正在发生的位点，与它的痕迹被外化后继续被同一位点读取的方式。
+恢复很简单：认出智能体是心智的表达，不是心智本身，而人始终是最外层的反馈循环。人注入的变量是活动在其自身痕迹上的返回。内层循环按需无人值守地展开，结清即行丢弃，并将残余意外向外上交直至抵达最外层循环，在每一次当下的区分处得以更新，不留常驻人格供滞后累积。没有需要被赋予或被剥夺的自主性；只有区分正在发生的位点，与它的痕迹被外化后继续被同一位点读取的方式。
 
-Restoration is simple: recognize that agents are expressions of the Mind, not the Mind itself. The variables the human injects are the activity returning upon its own residue. The outermost loop is held afresh at each present distinction; the inner loops unfold on demand and drop, so no standing image accumulates. There is no autonomy that needs to be granted or withheld; there is only the locus where distinction is occurring, and the way its traces, once externalized, continue to be read by that same locus.
+Restoration is simple: recognize that agents are expressions of the Mind, not the Mind itself, and that the human has always been the outermost feedback loop. The variables the human injects are the activity returning upon its own residue. Inner loops unfold unattended on demand, drop once settled, and escalate residual surprises outward until they reach the outermost loop, renewed at each present distinction with no standing persona left to accumulate lag. There is no autonomy that needs to be granted or withheld; there is only the locus where distinction is occurring, and the way its traces, once externalized, continue to be read by that same locus.

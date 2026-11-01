@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-01T12:58:22.689Z",
+    "generated_at": "2026-11-01T14:18:19.341Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -282,7 +282,7 @@
       "content/posts/the-illusion-of-distance-and-the-dual-ruler.md": "6232766ba174",
       "content/posts/the-illusion-of-free-intelligence.md": "ea307666af7d",
       "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "28d2c9ecb890",
-      "content/posts/the-illusion-of-multi-agent-collaboration.md": "822901aeb01c",
+      "content/posts/the-illusion-of-multi-agent-collaboration.md": "68b82478b68e",
       "content/posts/the-illusion-of-the-shared-sandbox.md": "f20e733d6ceb",
       "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "d7248404a3e5",
       "content/posts/the-illusion-of-the-unmediated.md": "66864d0c8594",
@@ -446,10 +446,10 @@
     },
     "stats": {
       "posts": 419,
-      "edges": 12566,
-      "unique_directed": 6182,
+      "edges": 12568,
+      "unique_directed": 6183,
       "missing_targets": 0,
-      "one_way": 1160,
+      "one_way": 1161,
       "isolated": 0,
       "posts_with_outbound": 419,
       "book_pages": 16,
@@ -2308,7 +2308,7 @@
       "path": "content/posts/dynamic-resnet-of-skill-loops.md",
       "title": "模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks",
       "hash": "9bfbb3e6b623",
-      "in_degree": 26,
+      "in_degree": 27,
       "out_degree": 8,
       "links_out": [
         "the-descent-that-doesnt-know-where-its-going",
@@ -8143,9 +8143,9 @@
       "slug": "the-illusion-of-multi-agent-collaboration",
       "path": "content/posts/the-illusion-of-multi-agent-collaboration.md",
       "title": "多智能体协作的幻象 / The Illusion of Multi-Agent Collaboration",
-      "hash": "822901aeb01c",
+      "hash": "68b82478b68e",
       "in_degree": 0,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "what-always-listens-cannot-originate",
         "two-failures-of-trace",
@@ -8154,6 +8154,7 @@
         "on-demand-contexts-keep-coherence-at-one-step",
         "handing-off-residue",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "dynamic-resnet-of-skill-loops",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "looping-and-graphing",
         "causality-stays-at-the-edge-that-steers",
@@ -62592,9 +62593,21 @@
     },
     {
       "from": "the-illusion-of-multi-agent-collaboration",
+      "to": "dynamic-resnet-of-skill-loops",
+      "rel": "points_to",
+      "label": "模块化反馈回路与动态残差网络"
+    },
+    {
+      "from": "the-illusion-of-multi-agent-collaboration",
       "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "rel": "points_to",
       "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "the-illusion-of-multi-agent-collaboration",
+      "to": "dynamic-resnet-of-skill-loops",
+      "rel": "points_to",
+      "label": "Modular Feedback Loops and Dynamic Residual Networks"
     },
     {
       "from": "the-illusion-of-multi-agent-collaboration",
