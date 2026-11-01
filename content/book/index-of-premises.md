@@ -5327,7 +5327,7 @@ Presumes the randomness in a model's sampler is indeterminism in the ontological
 
 Presumes that a single agent can self-correct within its own session trajectory or that a manager agent can assume overarching orchestration across subagents through shared sessions and lossy prose summaries; effective when scoped to explicit sub-task splitting, progressive disclosure inside a main loop, and dispatching isolated contexts from artifact initial conditions, it reaches its boundary because a lone agent trapped in its token trajectory wraps its own contradiction, session cloning and summary handoffs either export the gravity well or strip rejected hypotheses, and a manager agent facing an axiomatic deadlock lacks access to unprojected living intent.
 
-→ [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/) · [按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step](../../posts/on-demand-contexts-keep-coherence-at-one-step/) · [交接残余 / Handing Off Residue](../../posts/handing-off-residue/) · [模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks](../../posts/dynamic-resnet-of-skill-loops/)
+→ [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/) · [按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step](../../posts/on-demand-contexts-keep-coherence-at-one-step/) · [交接残余 / Handing Off Residue](../../posts/handing-off-residue/) · [模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks](../../posts/dynamic-resnet-of-skill-loops/) · [多智能体协作的幻象 / The Illusion of Multi-Agent Collaboration](../../posts/the-illusion-of-multi-agent-collaboration/)
 
 ### 实战判断力的存量重估预设 / The Stock-Revaluation Premise of Practical Judgment
 `技术 / Technological`
@@ -5382,3 +5382,12 @@ Presumes that residual networks (`yₗ₊₁ = yₗ + F(yₗ, Wₗ)`) are merely
 Continual learning presumes that a model can go on learning by itself from what arrives after deployment without overwriting what it has learned, which is of use in showing why a reference must hold still during measurement and why revision anchored to what was already held keeps a new pattern from overwriting it; it reaches its boundary in that what counts as surprise, which operators consolidation may apply, and what a commit must satisfy are definitions given at the outer loop and refined there by results, so that the determination inside the loop is real, while reading it as the model setting its own criteria is the outer loop dropping out of view.
 
 → [学到的边界与给定的尺度 / Learned Boundaries and the Given Rate](../../posts/learned-boundaries-and-the-given-rate/)
+
+### 多智能体协作与涌现能动性 / Multi-Agent Collaboration and Emergent Agency
+`技术 / Technological`
+
+预设多个智能体在共享工作流中的交互构成了内生发起的同侪协作与涌现能动性；当各司其职、语境彼此隔离的智能体拆解复杂任务并暴露彼此的盲区时，这一预设有用；一旦认出多智能体网络只是在固定转移核下演化的动态马尔可夫网络（无人注入时只会趋向稳态分布、收敛为静止不动点或发散），而其漫长的过渡过程掩盖了人沿途注入的新变量，使观察者把轨迹中的新区分归功于智能体，它便到达边界。
+
+Presumes that interactions among multiple agents across a workflow constitute endogenously originating peer collaboration and emergent agency; useful where role-scoped agents with separate contexts decompose a complex task and expose each other's blind spots, it reaches its boundary once a multi-agent network is recognized as a dynamic Markov network evolving under a fixed transition kernel—settling into a stationary distribution, converging to a static fixed point, or diverging when no one injects—whose long transient hides the new variables people inject along the way and leads the observer to credit the trajectory's new distinctions to the agents.
+
+→ [多智能体协作的幻象 / The Illusion of Multi-Agent Collaboration](../../posts/the-illusion-of-multi-agent-collaboration/) · [交接残余 / Handing Off Residue](../../posts/handing-off-residue/) · [按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step](../../posts/on-demand-contexts-keep-coherence-at-one-step/)

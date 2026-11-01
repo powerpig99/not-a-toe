@@ -54,3 +54,4 @@ The essays in this part trace the codebase as externalized memory, the asymmetry
 - [转移原因的比较 / The Comparison That Relocates the Cause](../../posts/the-comparison-that-relocates-the-cause/)
 - [交接残余 / Handing Off Residue](../../posts/handing-off-residue/)
 - [模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks](../../posts/dynamic-resnet-of-skill-loops/)
+- [多智能体协作的幻象 / The Illusion of Multi-Agent Collaboration](../../posts/the-illusion-of-multi-agent-collaboration/)

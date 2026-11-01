@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-01T08:30:43.018Z",
+    "generated_at": "2026-11-01T12:58:22.689Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -282,6 +282,7 @@
       "content/posts/the-illusion-of-distance-and-the-dual-ruler.md": "6232766ba174",
       "content/posts/the-illusion-of-free-intelligence.md": "ea307666af7d",
       "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "28d2c9ecb890",
+      "content/posts/the-illusion-of-multi-agent-collaboration.md": "822901aeb01c",
       "content/posts/the-illusion-of-the-shared-sandbox.md": "f20e733d6ceb",
       "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "d7248404a3e5",
       "content/posts/the-illusion-of-the-unmediated.md": "66864d0c8594",
@@ -429,7 +430,7 @@
       "content/book/causality.md": "863b25c6333a",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "16bee31dfcb2",
+      "content/book/index-of-premises.md": "c65b215fb169",
       "content/book/intelligence.md": "562728811be2",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -441,19 +442,19 @@
       "content/book/preface.md": "d0065384016a",
       "content/book/state-and-collective.md": "420b2f183a45",
       "content/book/success-and-the-self.md": "b251154da4a5",
-      "content/book/tools-and-progress.md": "09f19b0967d0"
+      "content/book/tools-and-progress.md": "2a682044cc54"
     },
     "stats": {
-      "posts": 418,
-      "edges": 12544,
-      "unique_directed": 6171,
+      "posts": 419,
+      "edges": 12566,
+      "unique_directed": 6182,
       "missing_targets": 0,
-      "one_way": 1149,
+      "one_way": 1160,
       "isolated": 0,
-      "posts_with_outbound": 418,
+      "posts_with_outbound": 419,
       "book_pages": 16,
-      "book_edges": 1211,
-      "posts_reached_by_book": 418
+      "book_edges": 1216,
+      "posts_reached_by_book": 419
     }
   },
   "hubs_in": [
@@ -483,7 +484,7 @@
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "in_degree": 69
+      "in_degree": 70
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -494,12 +495,12 @@
       "in_degree": 56
     },
     {
-      "slug": "mei-you-pu-du-zhi-you-zi-du",
+      "slug": "causality-stays-at-the-edge-that-steers",
       "in_degree": 44
     },
     {
-      "slug": "causality-stays-at-the-edge-that-steers",
-      "in_degree": 43
+      "slug": "mei-you-pu-du-zhi-you-zi-du",
+      "in_degree": 44
     },
     {
       "slug": "the-allocation-of-causal-power-in-validation",
@@ -510,11 +511,11 @@
       "in_degree": 40
     },
     {
-      "slug": "mistaking-the-expression-for-the-intelligence",
-      "in_degree": 39
+      "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "in_degree": 40
     },
     {
-      "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "slug": "mistaking-the-expression-for-the-intelligence",
       "in_degree": 39
     },
     {
@@ -1386,7 +1387,7 @@
       "path": "content/posts/causality-stays-at-the-edge-that-steers.md",
       "title": "因果停留在掌舵的边缘 / Causality Stays at the Edge That Steers",
       "hash": "136351fa1fe3",
-      "in_degree": 43,
+      "in_degree": 44,
       "out_degree": 41,
       "links_out": [
         "what-always-listens-cannot-originate",
@@ -3047,7 +3048,7 @@
       "path": "content/posts/handing-off-residue.md",
       "title": "交接残余 / Handing Off Residue",
       "hash": "3661b0ddacf3",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 10,
       "links_out": [
         "beyond-the-projection",
@@ -3706,7 +3707,7 @@
       "path": "content/posts/looping-and-graphing.md",
       "title": "回环与成图 / Looping and Graphing",
       "hash": "1a929b3e0f11",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 18,
       "links_out": [
         "self-rl-for-humans",
@@ -4478,7 +4479,7 @@
       "path": "content/posts/on-demand-contexts-keep-coherence-at-one-step.md",
       "title": "按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step",
       "hash": "c16455ad9a94",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 9,
       "links_out": [
         "your-codebase-is-memory",
@@ -7090,7 +7091,7 @@
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences",
       "hash": "9b92ea2a087a",
-      "in_degree": 39,
+      "in_degree": 40,
       "out_degree": 33,
       "links_out": [
         "the-summary-first-reversal-and-the-command-of-yields",
@@ -7549,7 +7550,7 @@
       "path": "content/posts/the-flywheel-of-the-mind.md",
       "title": "心智的飞轮 / The Flywheel of the Mind",
       "hash": "869ae350efe5",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 17,
       "links_out": [
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
@@ -8137,6 +8138,29 @@
       ]
     },
     {
+      "id": "post:the-illusion-of-multi-agent-collaboration",
+      "kind": "post",
+      "slug": "the-illusion-of-multi-agent-collaboration",
+      "path": "content/posts/the-illusion-of-multi-agent-collaboration.md",
+      "title": "多智能体协作的幻象 / The Illusion of Multi-Agent Collaboration",
+      "hash": "822901aeb01c",
+      "in_degree": 0,
+      "out_degree": 11,
+      "links_out": [
+        "what-always-listens-cannot-originate",
+        "two-failures-of-trace",
+        "the-residue-and-the-free-variable",
+        "the-flywheel-of-the-mind",
+        "on-demand-contexts-keep-coherence-at-one-step",
+        "handing-off-residue",
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+        "looping-and-graphing",
+        "causality-stays-at-the-edge-that-steers",
+        "the-model-never-becomes-a-second-edge"
+      ]
+    },
+    {
       "id": "post:the-illusion-of-the-shared-sandbox",
       "kind": "post",
       "slug": "the-illusion-of-the-shared-sandbox",
@@ -8315,7 +8339,7 @@
       "path": "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md",
       "title": "框架的倒置与驾驶位的主权非对称 / The Inversion of the Harness and the Sovereignty of the Driver's Seat",
       "hash": "5531d7f80655",
-      "in_degree": 22,
+      "in_degree": 23,
       "out_degree": 19,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -8920,7 +8944,7 @@
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge",
       "hash": "264a5faea1fd",
-      "in_degree": 69,
+      "in_degree": 70,
       "out_degree": 49,
       "links_out": [
         "your-codebase-is-memory",
@@ -9746,7 +9770,7 @@
       "path": "content/posts/the-residue-and-the-free-variable.md",
       "title": "残余与自由变量 / The Residue and the Free Variable",
       "hash": "977dcacd8f51",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 8,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
@@ -10974,7 +10998,7 @@
       "path": "content/posts/two-failures-of-trace.md",
       "title": "器物是智能的表达，而非智能本身 / Artifacts Are Expressions of Intelligence, Not Intelligence Itself",
       "hash": "df2bfb498afc",
-      "in_degree": 30,
+      "in_degree": 31,
       "out_degree": 32,
       "links_out": [
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -11070,7 +11094,7 @@
       "path": "content/posts/what-always-listens-cannot-originate.md",
       "title": "总在倾听者无法发起 / What Always Listens Cannot Originate",
       "hash": "db0fa8ce809c",
-      "in_degree": 28,
+      "in_degree": 29,
       "out_degree": 30,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -62489,6 +62513,138 @@
       "label": "The Mind as Vector and Coordinate System"
     },
     {
+      "from": "the-illusion-of-multi-agent-collaboration",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "总在倾听者无法发起"
+    },
+    {
+      "from": "the-illusion-of-multi-agent-collaboration",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "器物是智能的表达，而非智能本身"
+    },
+    {
+      "from": "the-illusion-of-multi-agent-collaboration",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "What Always Listens Cannot Originate"
+    },
+    {
+      "from": "the-illusion-of-multi-agent-collaboration",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself"
+    },
+    {
+      "from": "the-illusion-of-multi-agent-collaboration",
+      "to": "the-residue-and-the-free-variable",
+      "rel": "points_to",
+      "label": "残余与自由变量"
+    },
+    {
+      "from": "the-illusion-of-multi-agent-collaboration",
+      "to": "the-residue-and-the-free-variable",
+      "rel": "points_to",
+      "label": "The Residue and the Free Variable"
+    },
+    {
+      "from": "the-illusion-of-multi-agent-collaboration",
+      "to": "the-flywheel-of-the-mind",
+      "rel": "points_to",
+      "label": "心智的飞轮"
+    },
+    {
+      "from": "the-illusion-of-multi-agent-collaboration",
+      "to": "the-flywheel-of-the-mind",
+      "rel": "points_to",
+      "label": "The Flywheel of the Mind"
+    },
+    {
+      "from": "the-illusion-of-multi-agent-collaboration",
+      "to": "on-demand-contexts-keep-coherence-at-one-step",
+      "rel": "points_to",
+      "label": "按需语境将融贯保持在一步"
+    },
+    {
+      "from": "the-illusion-of-multi-agent-collaboration",
+      "to": "handing-off-residue",
+      "rel": "points_to",
+      "label": "交接残余"
+    },
+    {
+      "from": "the-illusion-of-multi-agent-collaboration",
+      "to": "on-demand-contexts-keep-coherence-at-one-step",
+      "rel": "points_to",
+      "label": "On-Demand Contexts Keep Coherence at One Step"
+    },
+    {
+      "from": "the-illusion-of-multi-agent-collaboration",
+      "to": "handing-off-residue",
+      "rel": "points_to",
+      "label": "Handing Off Residue"
+    },
+    {
+      "from": "the-illusion-of-multi-agent-collaboration",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的移交与后果的不可让渡"
+    },
+    {
+      "from": "the-illusion-of-multi-agent-collaboration",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
+      "from": "the-illusion-of-multi-agent-collaboration",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "框架的倒置与驾驶位的主权非对称"
+    },
+    {
+      "from": "the-illusion-of-multi-agent-collaboration",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "The Inversion of the Harness and the Sovereignty of the Driver's Seat"
+    },
+    {
+      "from": "the-illusion-of-multi-agent-collaboration",
+      "to": "looping-and-graphing",
+      "rel": "points_to",
+      "label": "回环与成图"
+    },
+    {
+      "from": "the-illusion-of-multi-agent-collaboration",
+      "to": "looping-and-graphing",
+      "rel": "points_to",
+      "label": "Looping and Graphing"
+    },
+    {
+      "from": "the-illusion-of-multi-agent-collaboration",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "因果停留在掌舵的边缘"
+    },
+    {
+      "from": "the-illusion-of-multi-agent-collaboration",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "the-illusion-of-multi-agent-collaboration",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality Stays at the Edge That Steers"
+    },
+    {
+      "from": "the-illusion-of-multi-agent-collaboration",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
       "from": "the-illusion-of-the-shared-sandbox",
       "to": "the-causal-inversion-of-partnership",
       "rel": "points_to",
@@ -87112,8 +87268,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "16bee31dfcb2",
-        "out_degree": 418
+        "hash": "c65b215fb169",
+        "out_degree": 419
       },
       {
         "id": "book:intelligence",
@@ -87220,8 +87376,8 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "09f19b0967d0",
-        "out_degree": 42
+        "hash": "2a682044cc54",
+        "out_degree": 43
       }
     ],
     "edges": [
@@ -92489,6 +92645,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-illusion-of-multi-agent-collaboration",
+        "rel": "collects",
+        "label": "多智能体协作的幻象 / The Illusion of Multi-Agent Collaboration"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "judgment-is-not-a-stock",
         "rel": "collects",
         "label": "判断力不是可囤积的存量 / Judgment Is Not a Stock"
@@ -92564,6 +92726,24 @@
         "to": "learned-boundaries-and-the-given-rate",
         "rel": "collects",
         "label": "学到的边界与给定的尺度 / Learned Boundaries and the Given Rate"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-illusion-of-multi-agent-collaboration",
+        "rel": "collects",
+        "label": "多智能体协作的幻象 / The Illusion of Multi-Agent Collaboration"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "handing-off-residue",
+        "rel": "collects",
+        "label": "交接残余 / Handing Off Residue"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "on-demand-contexts-keep-coherence-at-one-step",
+        "rel": "collects",
+        "label": "按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step"
       },
       {
         "from": "book:intelligence",
@@ -94490,6 +94670,12 @@
         "to": "dynamic-resnet-of-skill-loops",
         "rel": "collects",
         "label": "模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks"
+      },
+      {
+        "from": "book:tools-and-progress",
+        "to": "the-illusion-of-multi-agent-collaboration",
+        "rel": "collects",
+        "label": "多智能体协作的幻象 / The Illusion of Multi-Agent Collaboration"
       }
     ]
   }
