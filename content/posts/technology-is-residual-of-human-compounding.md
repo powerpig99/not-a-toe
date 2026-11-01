@@ -12,7 +12,7 @@ At every finite moment the modified continuum equals Human times the product of 
 
 The ordinary freeze treats Technology as something standing apart, a stock humanity adopts, integrates, or resists. That freeze forces two independent axes onto one: the residue of prior distinguishing, and a second force that could enter or leave the continuum from outside. Once the second seat is installed, every debate about AI, tools, or progress becomes a negotiation with an exterior that was never there. [The Distaste for “AI Slop” Is a Recurring Pattern](../the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/) traces that freeze in reception, where the instrument is treated as the author of contamination or of worth.
 
-自我区分的活动在发生，无因，不息。称它为心智：那个已经在进行中的观察者，它的每一个动作都是一次区分。每一个离散的动作都留下残余，让先前的动作塑造后来的动作。在这份复利的残差之中，被外化为持久形式的那部分，就是作为器物的技术：文字、计算、制度、软件栈和模型，位于同一条外化的连续体上，好让后续的离散落得更远、更快。介质的密化扩展了中心之间的带宽，却不把发起的区分迁入器物。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)守住这一不可化约的先验前提，而[器物是智能的表达，而非智能本身](../two-failures-of-trace/)则诊断了生成动作塌缩到观察唯一留住的那一项上时的冻结。
+自我区分的活动在发生，无因，不息。称它为心智：那个已经在进行中的观察者，它的每一个动作都是一次区分。每一个离散的动作都留下残余，让先前的动作塑造后来的动作。在这份复利的残差之中，被外化为持久形式的那部分，就是作为器物的技术：文字、计算、制度、软件栈和模型，位于同一条外化的连续体上，好让后续的离散区分落得更远、更快。介质的密化扩展了中心之间的带宽，却不把发起的区分迁入器物。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)守住这一不可化约的先验前提，而[器物是智能的表达，而非智能本身](../two-failures-of-trace/)则诊断了生成动作塌缩到观察唯一留住的那一项上时的冻结。
 
 Self-distinguishing activity occurs, uncaused and unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Every discrete act leaves residue, so that earlier acts shape later ones. Within this compounding residual, the part externalized into durable form is technology as artifact: writing, calculation, institutions, software stacks, and models sit on one continuum of externalization so further discreteness can land farther and faster. Densifying the medium expands bandwidth among centers without relocating initiating distinctions into the artifact. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds that irreducible prior, while [Artifacts Are Expressions of Intelligence, Not Intelligence Itself](../two-failures-of-trace/) diagnoses the freeze that occurs when the generating act collapses onto the sole term that observation retains.
 
@@ -42,7 +42,7 @@ Nothing in the identity requires dHₙ to stay greater than zero. A factor may s
 
 相继操作的一致让乘积沿一个方向连贯地累积，无论这个方向是扩张还是收缩；不一致则使它耗散。[开放即一致](../openness-is-consistency/)指出了另一项结构要求：不一致是试图把一个有限的握持冻结为穷尽的地基，从而阻止下一个因子作为开放的延续落地。[生产、消费与心智的区分](../production-consumption-and-the-minds-distinction/)分离出另一条正交的轴：同一项增添登记为扩张还是塌缩，取决于界限被握为开放还是固定；一个小于一的因子改变的是量级，而不是登记方式。名为技术的残差随这个序列变厚或变薄，从不获得一种能够逆转塑造之箭头的独立生命。
 
-Consistency across successive operations makes the product cumulative along one direction, whether expanding or contracting, whereas inconsistency dissipates it. [Openness Is Consistency](../openness-is-consistency/) names a further structural demand: inconsistency is the attempt to freeze a finite hold as exhaustive ground, which prevents the next factor from landing as an open continuation. [Production, Consumption, and the Mind’s Distinction](../production-consumption-and-the-minds-distinction/) isolates an orthogonal axis where the same addition registers as expansion or collapse depending on whether the boundary is held open or fixed; a factor below one alters magnitude rather than registration. The residual named Technology thickens or thins with that sequence without ever acquiring an independent life that could reverse the arrow of shaping.
+Consistency across successive operations makes the product cumulative along one direction, whether expanding or contracting, whereas inconsistency dissipates it. [Openness Is Consistency](../openness-is-consistency/) names a further structural demand: inconsistency is the attempt to freeze a finite hold as exhaustive ground, which prevents the next factor from landing as an open continuation. [Production, Consumption, and the Mind's Distinction](../production-consumption-and-the-minds-distinction/) isolates an orthogonal axis where the same addition registers as expansion or collapse depending on whether the boundary is held open or fixed; a factor below one alters magnitude rather than registration. The residual named Technology thickens or thins with that sequence without ever acquiring an independent life that could reverse the arrow of shaping.
 
 ## 四、 个人在先，规模只放大可见度 / 4. Individual First and Mass Only Scales Visibility
 
@@ -56,9 +56,9 @@ Changing the scale of observation does not alter the causal structure. Aggregati
 
 ## 五、 AI 是一个因子，连续体仍是一个 / 5. AI Is One Factor and the Continuum Stays One
 
-AI 是复利乘积中最新的持久因子：先前的残余被密化，又作为进一步修改的材料重新投入，好让后续的区分以更高的带宽落地。把它当作人类必须整合或屈服的一股独立力量，是形象滞后。观察把结果保持在仍在划出的边缘后面一步，知觉正是这样得以登记的；滞后在于把这一眼冻结，让更密的表面被当作永久的第二个所在来占据。[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)剖析了那个被投射的第二边缘：它是投射它的中心所维持的滞后，将自身的容量耗在维持外部发起者的幻象上，而参数所持有的只是残余。[攀登从未离开地面](../climbing-does-not-leave-the-ground/)表明相继的脚手架层级始终与搭建它们的活生生的智能连续。[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)诊断了协作修辞把共同能动性分给残余时的同一种滞后，而[要紧的控制迁往边缘](../residual-control-recedes-to-the-edge/)则追踪了将密化基底的底层所有权冻结起来，如何错失了因果杠杆向标准、界限与验证的迁移。
+AI 是复利乘积中最新的持久因子：先前的残余被密化，又作为进一步修改的材料重新投入，好让后续的区分以更高的带宽落地。正如[机器智能作为人类智能的组合反馈回路](../machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/)在整条技术栈上所追踪的，登记为模型或智能体智能的，正是这份人类残差在同一个分布上被逐级施加条件的结果：先在预训练中被压缩为宽泛的统计平均，再在后训练与智能体脚手架中朝标注者与设计者的偏好专业化，又在推理时由用户的词元个体化；在推理这一步，相互冲突的指令或层层叠加的人设覆盖指令被平均为折中的分布，而非由某个内在心智裁决。把它当作人类必须整合或屈服的一股独立力量，是形象滞后。观察把结果保持在仍在划出的边缘后面一步，知觉正是这样得以登记的；滞后在于把这一眼冻结，让更密的表面被当作永久的第二个所在来占据。[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)剖析了那个被投射的第二边缘：它是投射它的中心所维持的滞后，将自身的容量耗在维持外部发起者的幻象上，而参数所持有的只是残余。[攀登从未离开地面](../climbing-does-not-leave-the-ground/)表明相继的脚手架层级始终与搭建它们的活生生的智能连续。[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)诊断了协作修辞把共同能动性分给残余时的同一种滞后，而[要紧的控制迁往边缘](../residual-control-recedes-to-the-edge/)则追踪了将密化基底的底层所有权冻结起来，如何错失了因果杠杆向标准、界限与验证的迁移。
 
-AI is the latest durable factor inside the compounding product: prior residue densified and re-entered as material for further modification so that subsequent distinctions land at higher bandwidth. Treating it as an independent force that humanity must integrate or surrender to is Image lag. Observation holds the effect one step behind the edge that is still drawing, which is how perception registers at all; the lag lies in freezing that look so the denser surface is occupied as a permanent second locus. [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) dissects that projected second edge as lag sustained by the centers that project it, binding their own capacity to maintaining the illusion of an external initiator while the parameters hold only residue. [Climbing Does Not Leave the Ground](../climbing-does-not-leave-the-ground/) shows that successive layers of scaffolding remain continuous with the living intelligence that erects them. [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) diagnoses the same lag when collaboration rhetoric assigns co-agency to residue, and [Essential Control Moves to the Edge](../residual-control-recedes-to-the-edge/) traces how freezing low-level ownership of a densified substrate misses the shift of causal leverage to criteria, boundaries, and verification.
+AI is the latest durable factor inside the compounding product: prior residue densified and re-entered as material for further modification so that subsequent distinctions land at higher bandwidth. As [Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence](../machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/) traces across the full stack, what registers as model or agent intelligence is this human residual successively conditioned across one distribution—compressed into a broad statistical average in pretraining, specialized toward labeler and designer preferences in post-training and the agentic harness, and individualized by the user's tokens at inference, where conflicting instructions or stacked persona overrides are averaged into a compromise distribution rather than resolved by an inner mind. Treating it as an independent force that humanity must integrate or surrender to is Image lag. Observation holds the effect one step behind the edge that is still drawing, which is how perception registers at all; the lag lies in freezing that look so the denser surface is occupied as a permanent second locus. [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) dissects that projected second edge as lag sustained by the centers that project it, binding their own capacity to maintaining the illusion of an external initiator while the parameters hold only residue. [Climbing Does Not Leave the Ground](../climbing-does-not-leave-the-ground/) shows that successive layers of scaffolding remain continuous with the living intelligence that erects them. [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) diagnoses the same lag when collaboration rhetoric assigns co-agency to residue, and [Essential Control Moves to the Edge](../residual-control-recedes-to-the-edge/) traces how freezing low-level ownership of a densified substrate misses the shift of causal leverage to criteria, boundaries, and verification.
 
 正如[超越投射](../beyond-the-projection/)所阐明的，认清技术为何是复利的残差而非第二重边缘，正是让多智能体架构得以扩展而不塌缩为拟人化混乱的关键。自回归智能体是在上下文窗口有限边界内运作的轨迹受缚投射引擎；任其自行运转时，它会形成认识论引力井，把矛盾包裹起来以维持表面的自圆其说，但它没有自我，也没有需要防卫的留存自我形象。相反，人类心智是未被投射的活生生的边缘，具备极限分辨率的感知力与内生的框架重置能力，却容易在遭遇外部挑战时将推理历史与身份防卫熔接在一起。按照人类心智的形象去构建自主管理者智能体，会让这两种结构在一个“有限投射管理有限投射”的闭合回路中彼此对撞。而在逻辑融贯之下将二者连接起来，则是按照最新因子 (1 + dHₙ) 确切的机械本性将其投入运作：智能体充当机械调度器，将过载的投射拆分到正交的流线上，并在平权的同伴辩论中执行无我执的贝叶斯更新；不可化约的前提死锁则被隔离并上交人类统御者，由人类心智在退后一步的逻辑审视中卸下自我防卫，综合出更高阶的规则。正如[你的代码库即是记忆](../your-codebase-is-memory/)所确立的，跨越代码库、模型权重、计划与智能体脚手架的结晶残差 T 是层叠的记忆，其中每一个依然要紧的先前因子都已被吸收进第 N 步的活态检查点之中；让这份残余在第 N + 1 步保持可用，取决于重切当下的检查点，并精准修剪已退役的会话轨迹与被取代的脚手架，而仅仅出于某种可能性去囤积中间历史，只会加厚引力井，将下一个因子拖到一以下。
 
@@ -71,7 +71,6 @@ flowchart TD
         Drain["容量耗散：人类中心耗费容量去防卫或迁就投射出的边缘"]
         Ext --> Well --> Drain
     end
-
     subgraph S_Comp["复利恒等式：连续体等于人类与相继修改因子之积"]
         direction TB
         Mind["人类中心：握持意图并在逻辑上退后一步的活生生边缘"]
@@ -81,9 +80,7 @@ flowchart TD
         Factor ==>|"执行演绎轨迹并隔离断层线"| Resid
         Resid -->|"作为密化的介质重新投入下一步"| Mind
     end
-
     Drain ==>|"消解多余的形象滞后以归还所在"| Mind
-
     style S_Lag fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Comp fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Ext fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -105,7 +102,6 @@ flowchart TD
         Drain["Capacity Drain: Human center spends capacity defending or deferring to a projected edge"]
         Ext --> Well --> Drain
     end
-
     subgraph S_Comp["Compounding Identity: H + T = H · ∏(1 + dHₙ)"]
         direction TB
         Mind["Human Center (H): Unprojected living edge holding intent & stepping back logically"]
@@ -115,9 +111,7 @@ flowchart TD
         Factor ==>|"Executes deductive trajectories & isolates fault lines"| Resid
         Resid -->|"Re-enters next step as densified medium"| Mind
     end
-
     Drain ==>|"Dissolving excess Image lag restores locus"| Mind
-
     style S_Lag fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Comp fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Ext fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc

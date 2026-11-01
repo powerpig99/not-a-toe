@@ -30,7 +30,7 @@ What makes Monday morning execution succeed is never the specification alone. Th
 
 Framing this discipline as context engineering rather than specification engineering is not practical advice about clever prompting. An autoregressive language model is context-dependent projection selection all the way down. There is no autonomous entity standing apart from its context waiting to receive orders; there is one cascade determining which distinctions propagate through the finite context window and which ones wash out.
 
-规格书作为眼前的输入增量进入系统，在模型所能表征的架构语境与沉淀进模型权重的训练语境中触发激活。若任由原始会话自行运转，那些通用权重便会将执行拉向平均化的模式与局部的顺延。操作者所构筑的活的语境，正是横跨这三者的对齐层，规定了哪些区分能够在投射级联中留存下来并转化为可用的代码。
+规格书作为眼前的输入增量进入系统，在模型所能表征的架构语境与沉淀进模型权重的训练语境中触发激活。若任由原始会话自行运转，那些权重便会将执行拉向平均化的模式与局部的顺延：正如[机器智能作为人类智能的组合反馈回路](../machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/)所追溯的，预训练将语料库中彼此冲突的意图压缩为宽泛的平均，后训练与智能体框架再将该平均专业化为特定的人类偏好；此后窗口所承载的一切内容，都在这些既有权重下混合，而非由某个内在心智裁决，因此只要竞争拉力依然活跃，层层叠加的覆盖指令与陈旧轮次就会稀释操作者的目的。操作者所构筑的活的语境，正是横跨增量、架构与训练的对齐层，提供一片彼此一致、以任务为界的条件场，由它塑造哪些区分能够在投射级联中留存下来并转化为可用的代码。
 
 ```mermaid
 flowchart TD
@@ -65,7 +65,7 @@ flowchart TD
     style ReRender fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The specification enters as the immediate input delta, activating against the architectural context of what the model can represent and the training context of what distinctions stabilized into its weights. Left to a raw session, those general weights pull execution toward average patterns and local continuation. The living context constructed by the operator serves as the alignment layer across all three, patterning which distinctions survive the projection cascade into working code.
+The specification enters as the immediate input delta, activating against the architectural context of what the model can represent and the training context of what distinctions stabilized into its weights. Left to a raw session, those weights pull execution toward average patterns and local continuation: as [Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence](../machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/) traces, pretraining compresses the conflicting intentions of the corpus into a broad average that post-training and the harness specialize toward particular human preferences, and whatever the window then holds is mixed under those weightings rather than adjudicated by an inner mind, so wherever competing pulls stay live, stacked overrides and stale turns dilute the operator's purpose. The living context constructed by the operator serves as the alignment layer across delta, architecture, and training, supplying a mutually consistent, task-bounded conditioning field that patterns which distinctions survive the projection cascade into working code.
 
 ```mermaid
 flowchart TD

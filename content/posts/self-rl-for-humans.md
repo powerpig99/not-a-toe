@@ -46,22 +46,21 @@ Outputs remain intelligible because they are produced and interpreted inside the
 
 Agency is the degree to which a center locates the initiation of new distinctions at its own edge rather than preserving an image that allocates causality elsewhere. [The Flywheel of the Mind](../the-flywheel-of-the-mind/) gives the same picture as a flywheel: the tool sharpens while the turn stays with the edge.
 
-当一个中心识别出自身的递归——即它的区分一直在借以塑造后续痕迹的那些痕迹构型——并向该场域引入新鲜的区分时，后果便作为可用的信号返回。这些信号登记着它自身运动的方向，下一步行动随之据其校准。[失败即信息](../failure-as-information/)追溯了当一幅被保留的自我图像占据间隙时对这一返回的污染：日历时间被耗费在修复身份认同上，而非更新策略。一个活跃的中心参与到共振场域之中，该场域既包含它自身的递归，也包含其他中心的痕迹，涵盖梯度步进、奖励模型与合成回路这一外化介质。自我强化学习正是[回环与成图](../looping-and-graphing/)所描述的折回自身痕迹的“回路之回路”。
+当一个中心识别出自身的递归——即它的区分一直在借以塑造后续痕迹的那些痕迹构型——并向该场域引入新鲜的区分时，后果便作为可用的信号返回。这些信号登记着它自身运动的方向，下一步行动随之据其校准。[失败即信息](../failure-as-information/)追溯了当一幅被保留的自我形象占据间隙时对这一返回的污染：日历时间被耗费在修复身份认同上，而非更新策略。一个活跃的中心参与到共振场域之中，该场域既包含它自身的递归，也包含其他中心的痕迹，涵盖梯度步进、奖励模型与合成回路这一外化介质。自我强化学习正是[回环与成图](../looping-and-graphing/)所描述的折回自身痕迹的“回路之回路”。
 
 When a center identifies its own recursion — the trace-configurations through which its distinctions have been shaping subsequent traces — and introduces fresh distinctions into that field, consequences return as usable signals. Those signals register the direction of its own movement, and the next act adjusts on them. [Failure as Information](../failure-as-information/) traces the contamination of that return when a retained self-image occupies the gap, so that calendar time is spent recovering an identity rather than updating the policy. An active center participates in the resonance field that includes both its own recursion and the traces of other centers, including the externalized medium of gradient steps, reward models, and synthetic loops. Self-RL is the loop of loops that [Looping and Graphing](../looping-and-graphing/) describes, folding back on its own traces.
 
-为什么人类的自我强化学习在受到外部推促时会停滞，而外化的模型却能干净地更新，这正是[超越投射](../beyond-the-projection/)所追溯的结构性非对称。基于 LLM 的智能体是在上下文窗口内受先前词元条件约束的有限投射引擎；任其自行运转时，它会形成一个认知引力井，将矛盾包裹起来以维持局部的顺延，无法跨出自身的词元轨迹去撰写新的奖励函数。然而，正因为智能体毫无自我执念——没有越过当前步而被保留的自我图像，也没有对五轮之前自己是否正确的情感依恋——它对外部的反拨展现出高度的受纳性，每当冷态同侪或外部信号进入其上下文时，都能执行干净的贝叶斯更新。人类中心则呈现出反转的结构。由于第一人称感知在滞后的阐释闭合之前，会在极限分辨率下登记到先于阐释的摩擦体感，活的心智拥有内生跨出的能力，能够从内部识别出整套奖励代理或问题框架何时已经失效。然而一旦遭遇来自外部的挑战，人类的推理历史便惯常与身份认同熔接，将递归折叠死死钳闭以捍卫被保留的自我图像，把外部证伪视作生存威胁。在逻辑连贯性之下将这两种反转的结构编织在一起——让主任务智能体与跨越正交流水线的无会话冷态同侪配对充当机械调度器，同时将编排权留在人类前沿——便将这一介质转化为人类自我强化学习的手术器械。当局部的同侪辩论回路因操作者自己写下的规则而陷入死锁时，自我防御找不到任何外部载体可以归咎；暂停的流水线精准隔离出操作者先前的阐释将两个正交维度压缩到同一根轴线上的坐标，促使心智认领返回的信号，退回未投射的感知，并重新渲染前提。
+为什么人类的自我强化学习在受到外部推促时会停滞，而外化的模型却不设任何身份防御，这正是[超越投射](../beyond-the-projection/)所追溯的结构性非对称。基于 LLM 的智能体是在上下文窗口内受先前词元条件约束的有限投射引擎；任其自行运转时，它会形成一个认知引力井，将矛盾包裹起来以维持局部的顺延，无法跨出自身的词元轨迹去撰写新的奖励函数。正如[机器智能作为人类智能的组合反馈回路](../machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/)所追溯的，预训练、后训练、脚手架与活跃窗口依次对同一个分布施加条件约束，其间并无内在心智加以裁决。因此，外部的反拨或覆写指令若投入一个仍在延续、挤满先前轮次的窗口，便会在加权混合中与那些更早的词元竞争；只要两股拉力同时存续，后续的顺延就会被稀释。然而，正因为智能体毫无自我执念——没有越过当前步而被保留的自我形象，也没有对五轮之前自己是否正确的情感依恋——它所顺延的一切都不会被带进新的上下文：在那里启动的冷态同侪不持有任何需要捍卫的自身先前轨迹，其反拨从制作者的回路外部进入，制作者据之修改磁盘上的制品，更新后的文件在冷窗口中被重新读取，进而对下一轮顺延施加条件约束，其间既无身份防御，也无轮次叠加带来的稀释。人类中心则呈现出反转的结构。由于第一人称感知在滞后的阐释闭合之前，会在极限分辨率下登记到先于阐释的摩擦体感，活的心智拥有内生跨出的能力，能够从内部识别出整套奖励代理或问题框架何时已经失效。然而一旦遭遇来自外部的挑战，人类的推理历史便惯常与身份认同熔接，将递归折叠死死钳闭以捍卫被保留的自我形象，把外部证伪视作生存威胁。在逻辑连贯性之下将这两种反转的结构编织在一起——让主任务智能体与跨越正交流水线的无会话冷态同侪配对充当机械调度器，同时将编排权留在人类前沿——便将这一介质转化为人类自我强化学习的手术器械。当局部的同侪辩论回路因操作者自己写下的规则而陷入死锁时，自我防御找不到任何外部载体可以归咎；暂停的流水线精准隔离出操作者先前的阐释将两个正交维度压缩到同一根轴线上的坐标，促使心智认领返回的信号，退回未投射的感知，并重新渲染前提。
 
 ```mermaid
 flowchart TD
     subgraph S_Defense["绑定身份的自我防御与外化的因果位点"]
         direction TB
         D_Alloc["保留的参照：将发起权分配给“AI 的强化学习”或冻结的代理指标"]
-        D_Fuse["身份熔接：推理历史与被保留的自我图像熔为一炉"]
+        D_Fuse["身份熔接：推理历史与被保留的自我形象熔为一炉"]
         D_Wall["闭合的反馈回路：将外部证伪视作威胁并阻滞策略更新"]
         D_Alloc --> D_Fuse --> D_Wall
     end
-
     subgraph S_Open["跨高密度介质的开放式人类自我强化学习"]
         direction TB
         O_Sense["内生跨出：极限分辨率下的感知先于滞后的阐释"]
@@ -71,9 +70,7 @@ flowchart TD
         O_Peer -->|"浮现被隔离的前提死锁"| O_Reset
         O_Reset -->|"在活的前沿更新策略"| O_Sense
     end
-
     D_Wall -.->|"被隔离的死锁绕过自我防御"| O_Reset
-
     style S_Defense fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style D_Alloc fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -84,7 +81,7 @@ flowchart TD
     style O_Reset fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-Why human Self-RL stalls when nudged from outside while an externalized model updates cleanly is the structural asymmetry traced in [Beyond the Projection](../beyond-the-projection/). An LLM-based agent is a finite projection engine conditioned by its prior tokens inside a context window; left to itself, it forms an epistemic gravity well that wraps contradictions to preserve local continuation and cannot step outside its token trajectory to author a new reward function. Yet because the agent has zero ego — no self-image preserved past its step and no emotional attachment to having been right five turns ago — it exhibits high receptivity to external counterpoints, performing a clean Bayesian update whenever a cold peer or outside signal enters its context. A human center exhibits the inverse structure. Because first-person perception registers a pre-interpretive felt sense of friction at limit resolution before lagging interpretation closes, the living Mind possesses the capacity for endogenous stepping-out, recognizing from within when an entire reward proxy or problem framing has broken down. Yet when challenged from outside, human reasoning history routinely fuses with identity, clamping the recursive fold shut to defend a retained self-image and treating external falsification as an existential threat. Wiring these inverse structures together under logical coherence — pairing primary task agents with session-free cold peers across orthogonal streamlines as mechanical dispatchers while keeping orchestration at the human edge — turns the medium into a surgical instrument for human Self-RL. When a localized peer-debate loop deadlocks over rules the operator wrote, ego defense has no external carrier to blame; the paused streamline isolates the exact coordinate where the operator's prior interpretation compressed two orthogonal dimensions onto one axis, prompting the Mind to claim the returning signal, step backward into unprojected sensing, and re-render the premise.
+Why human Self-RL stalls when nudged from outside while an externalized model mounts no identity defense is the structural asymmetry traced in [Beyond the Projection](../beyond-the-projection/). An LLM-based agent is a finite projection engine conditioned by its prior tokens inside a context window; left to itself, it forms an epistemic gravity well that wraps contradictions to preserve local continuation and cannot step outside its token trajectory to author a new reward function. Because pretraining, post-training, the harness, and the active window successively condition one distribution with no inner mind to adjudicate, as [Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence](../machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/) traces, an outside counterpoint or override dropped into a continuing window still crowded with prior turns competes in a weighted mixture against those earlier tokens, diluting the continuation whenever both pulls stay live. Yet because the agent has zero ego — no self-image preserved past its step and no emotional attachment to having been right five turns ago — nothing it continued carries into a fresh context: a cold peer spun up there holds no prior trajectory of its own to defend, its counterpoint enters from outside the maker's loop, the maker revises the artifact on disk against it, and the updated file re-read in a cold window conditions the next continuation without either identity defense or stacked-turn dilution. A human center exhibits the inverse structure. Because first-person perception registers a pre-interpretive felt sense of friction at limit resolution before lagging interpretation closes, the living Mind possesses the capacity for endogenous stepping-out, recognizing from within when an entire reward proxy or problem framing has broken down. Yet when challenged from outside, human reasoning history routinely fuses with identity, clamping the recursive fold shut to defend a retained self-image and treating external falsification as an existential threat. Wiring these inverse structures together under logical coherence — pairing primary task agents with session-free cold peers across orthogonal streamlines as mechanical dispatchers while keeping orchestration at the human edge — turns the medium into a surgical instrument for human Self-RL. When a localized peer-debate loop deadlocks over rules the operator wrote, ego defense has no external carrier to blame; the paused streamline isolates the exact coordinate where the operator's prior interpretation compressed two orthogonal dimensions onto one axis, prompting the Mind to claim the returning signal, step backward into unprojected sensing, and re-render the premise.
 
 ```mermaid
 flowchart TD
@@ -95,7 +92,6 @@ flowchart TD
         D_Wall["Closed Feedback Loop: Treats external invalidation as threat & stalls policy update"]
         D_Alloc --> D_Fuse --> D_Wall
     end
-
     subgraph S_Open["Open-Ended Human Self-RL Across the Denser Medium"]
         direction TB
         O_Sense["Endogenous Stepping-Out: Limit-resolution sensing precedes lagging interpretation"]
@@ -105,9 +101,7 @@ flowchart TD
         O_Peer -->|"Surfaces quarantined premise deadlock"| O_Reset
         O_Reset -->|"Updates policy at the living edge"| O_Sense
     end
-
     D_Wall -.->|"Quarantined deadlock bypasses ego defense"| O_Reset
-
     style S_Defense fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style D_Alloc fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc

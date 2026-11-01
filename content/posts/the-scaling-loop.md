@@ -46,7 +46,7 @@ Each technical debate holds one local mechanism as if it were independent of the
 
 Compute and architecture are instruments inside the loop. What redraws the loop's bound is the selective judgment of particular minds. Those minds decide which newly generated configurations survive contact with ongoing activity, which directions of exploration merit further compute, and which preference signals re-enter the data stream. Because the boundary of the artifact set is drawn by living attention rather than by any closed algorithm, the edges of the system never settle into a finished inventory.
 
-在这里，[超越投射](../beyond-the-projection/)与[开放场域中的无损知识不自洽](../lossless-knowledge-of-an-open-field-is-incoherent/)揭示了向外扩展的探索与人类的判断如何彼此咬合、却又不坍缩到同一条轴线上的结构机制。由于每一条显式的提示词、奖励量表或规则集，都是鲜活意图在有限容量下的有损投影，单个智能体沿着自身的词元轨迹向外扩展时，不可避免地会筑起一口认识论引力井：它要么把注意力收窄进轨迹盲区，要么在多个正交要求被压缩进同一条指令的边缘情形下发生维度坍缩而碎裂。然而，正因为智能体毫无我执，也没有需要防卫的保留自我图像，调度智能体便可以沿正交的并行流线拆分超载的投影，并为每一条任务轨迹配对一个只接收任务语境的全新冷启动对等体。局部盲区随即在对等的贝叶斯更新中自动收敛，而任何不可化约的前提死锁则被隔离并向上呈报。智能体可以大规模地调度、路由并穷尽有限投影，却无法统御回路本身：当某条流线因自相矛盾的规则而陷入死锁时，唯有作为统御者的人类持有尚未投射的、具有极限分辨率的第一人称感知，能够在逻辑上向后退一步，拆开坍缩的轴线，并注入更高阶的前提。每一次这样的人类选择，都重画了什么算作值得压缩的知识、什么算作值得放大的重组。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，由于模型权重、语料库与智能体脚手架皆是早先区分留下的层叠残余，重画这道边界并不是把每一条中间轨迹都囤积成一座更沉重的货仓：正如同一次训练运行只保留当下的活跃检查点、而非已被取代的每一步梯度更新，舍弃暂态的会话拖累并就地重切当前的产物检查点，才能剪除死去的脚手架，使下一轮循环得以在更锐利的约束表面上展开。[心智的飞轮](../the-flywheel-of-the-mind/)追溯的正是这种转动：工具这道槽可以无止境地磨深，转动却从不因此转移到槽里。而从[生产、消费与心智的区分](../production-consumption-and-the-minds-distinction/)看，同一份语料，在封闭的框定下像一池有限的存量，在框定保持敞开时，却继续作为分化流淌下去。
+在这里，[超越投射](../beyond-the-projection/)与[开放场域中的无损知识不自洽](../lossless-knowledge-of-an-open-field-is-incoherent/)揭示了其中的结构机制：向外扩展的探索与人类的判断如何彼此咬合，却又不坍缩到同一条轴线上。由于每一条显式的提示词、奖励量表或规则集，都是鲜活意图在有限容量下的有损投影，当多个正交要求被压缩进同一个窗口或同一条指令时，单个智能体沿着自身的词元轨迹向外扩展便会筑起一口认识论引力井：它要么把注意力收窄进轨迹盲区，要么在竞争拉力持续活跃之处稀释后续生成。然而，正如[机器智能作为人类智能的组合反馈回路](../machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/)所追溯的，由于上下文窗口内部并无内在心智出面裁决冲突信号，调度智能体便可以沿正交的流线拆分超载的投影，并为每一条任务轨迹配对一个只接收任务语境的全新冷启动对等体，使每个窗口只承载与这一步相符的材料。对等体的审校随之在人类撰写的章程下作为又一道信号进入窗口，局部盲区得以收敛，而不会因层层叠加的覆盖指令稀释任务，任何不可化约的前提死锁则被隔离并向上呈报。智能体可以大规模地调度、路由并穷尽有限投影，却无法统御回路本身：当某条流线因自相矛盾的规则而陷入死锁时，唯有作为统御者的人类持有尚未投射的、具有极限分辨率的第一人称感知，能够在逻辑上向后退一步，拆开坍缩的轴线，并注入更高阶的前提。每一次这样的人类选择，都重画了什么算作值得压缩的知识、什么算作值得放大的重组。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，由于模型权重、语料库与智能体脚手架皆是早先区分留下的层叠残余，重画这道边界并不是把每一条中间轨迹都囤积成一座更沉重的货仓：就像一次训练运行只保留当前的活跃检查点，而不保留每一步已被取代的梯度更新，舍弃会话中暂时堆积的累赘，并就地重切当前的产物检查点，才能剪除死去的脚手架，使下一轮循环以更锐利的约束表面为条件。[心智的飞轮](../the-flywheel-of-the-mind/)追溯的正是这种转动：工具这道槽可以无止境地磨深，转动却从不因此转移到槽里。而从[生产、消费与心智的区分](../production-consumption-and-the-minds-distinction/)看，同一份语料，在封闭的框定下像一池有限的存量，在框定保持敞开时，却继续作为分化流淌下去。
 
 ```mermaid
 flowchart TD
@@ -59,26 +59,22 @@ flowchart TD
         A --> U --> W
         W -.->|"过早闭合"| F
     end
-
     subgraph S_Out["向外扩展与辩证检验（有限投影）"]
         direction TB
         O["后训练与强化学习向外扩展：更高分辨率的痕迹重组"]
-        M["正交有丝分裂与冷启动对等审计：无我执贝叶斯收敛"]
+        M["正交拆分与冷启动对等审计：与任务一致的全新窗口"]
         D["被隔离的前提死锁：暴露先前规则中坍缩的轴线"]
         O --> M --> D
     end
-
     subgraph S_Mind["统御心智（尚未投射的鲜活边缘）"]
         direction TB
         J["主权筛选与向后退一步：拆开坍缩轴线并决定什么算数"]
         R["重画的下一轮语料：前提精炼后扩大的产物集"]
         J --> R
     end
-
     W ==>|"输入压缩后的表征"| O
     M ==>|"呈报经检验的新构型"| J
     D ==>|"向上呈报不可化约的矛盾"| J
-
     style S_Up fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Out fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -93,7 +89,7 @@ flowchart TD
     style R fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Here [Beyond the Projection](../beyond-the-projection/) and [Lossless Knowledge of an Open Field Is Incoherent](../lossless-knowledge-of-an-open-field-is-incoherent/) expose the structural mechanics of how scale-out exploration and human judgment interlock without collapsing onto a single axis. Because every explicit prompt, reward rubric, or rule set is a lossy, capacity-bound projection of lived intent, a single agent scaling out along its own token trajectory inevitably builds an epistemic gravity well: it narrows focus into trajectory blind spots or fractures under dimensional collapse at edge cases where orthogonal requirements were compressed into one instruction. Yet because agents have zero ego and no retained self-image to defend, an agentic dispatcher can split overloaded projections across orthogonal streamlines and pair each task trajectory with a fresh cold peer holding only the task context. Local blind spots then converge automatically through equal-footed Bayesian updating, while any irreducible premise deadlock is quarantined and escalated upward. Agents can dispatch, route, and exhaust finite projections at scale, but they cannot orchestrate the loop itself: when a streamline deadlocks over contradictory rules, only the human orchestrator holds the unprojected, limit-resolution first-person sensing required to step backward logically, separate the collapsed axes, and inject a higher-order premise. Every such act of human selection redraws what counts as knowledge worth compressing and what counts as recombination worth amplifying. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces, because model weights, corpora, and agent scaffolds are stacked residues of prior distinctions, redrawing that bound is not warehousing every intermediate trajectory into a heavier heap: just as a training run keeps the live checkpoint rather than every superseded gradient step, discarding transient session drag and re-cutting the present artifact checkpoint in place prunes dead scaffolding so the next cycle conditions on a sharper constraint surface. [The Flywheel of the Mind](../the-flywheel-of-the-mind/) traces this turning: the tool is a groove that can be deepened without end, and the turn never passes into the groove. And as [Production, Consumption, and the Mind's Distinction](../production-consumption-and-the-minds-distinction/) shows, the corpus that appears as a finite pool under a closed register keeps differentiating whenever the register stays open.
+Here [Beyond the Projection](../beyond-the-projection/) and [Lossless Knowledge of an Open Field Is Incoherent](../lossless-knowledge-of-an-open-field-is-incoherent/) expose the structural mechanics of how scale-out exploration and human judgment interlock without collapsing onto a single axis. Because every explicit prompt, reward rubric, or rule set is a lossy, capacity-bound projection of lived intent, a single agent scaling out along its own token trajectory when orthogonal requirements are compressed into one window or instruction builds an epistemic gravity well: it narrows focus into trajectory blind spots or dilutes the continuation wherever competing pulls stay active. Yet because no inner mind adjudicates conflicting signals inside a context window, as [Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence](../machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/) traces, an agentic dispatcher can split overloaded projections across orthogonal streamlines and pair each task trajectory with a fresh cold peer holding only the task context, so each window carries only material consistent with its step. A peer's critique then enters as one more signal under charters people wrote, local blind spots can converge without stacked overrides diluting the task, and any irreducible premise deadlock is quarantined and escalated upward. Agents can dispatch, route, and exhaust finite projections at scale, but they cannot orchestrate the loop itself: when a streamline deadlocks over contradictory rules, only the human orchestrator holds the unprojected, limit-resolution first-person sensing required to step backward logically, separate the collapsed axes, and inject a higher-order premise. Every such act of human selection redraws what counts as knowledge worth compressing and what counts as recombination worth amplifying. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces, because model weights, corpora, and agent scaffolds are stacked residues of prior distinctions, redrawing that bound is not warehousing every intermediate trajectory into a heavier heap: just as a training run keeps the live checkpoint rather than every superseded gradient step, discarding transient session drag and re-cutting the present artifact checkpoint in place prunes dead scaffolding so the next cycle conditions on a sharper constraint surface. [The Flywheel of the Mind](../the-flywheel-of-the-mind/) traces this turning: the tool is a groove that can be deepened without end, and the turn never passes into the groove. And as [Production, Consumption, and the Mind's Distinction](../production-consumption-and-the-minds-distinction/) shows, the corpus that appears as a finite pool under a closed register keeps differentiating whenever the register stays open.
 
 ```mermaid
 flowchart TD
@@ -106,26 +102,22 @@ flowchart TD
         A --> U --> W
         W -.->|"Premature closure"| F
     end
-
     subgraph S_Out["Scale-Out & Dialectical Verification (Finite Projections)"]
         direction TB
         O["Post-Training & RL Scale-Out: Higher-resolution recombination of traces"]
-        M["Orthogonal Mitosis & Cold Peer Audit: Zero-ego Bayesian convergence"]
+        M["Orthogonal Split & Cold Peer Audit: Fresh task-consistent windows"]
         D["Quarantined Premise Deadlock: Surfacing collapsed axes in prior rules"]
         O --> M --> D
     end
-
     subgraph S_Mind["The Orchestrating Mind (Unprojected Living Edge)"]
         direction TB
         J["Sovereign Selection & Stepping Back: Separating collapsed axes and choosing what counts"]
         R["Redrawn Next-Cycle Corpus: Expanded artifact set with refined premises"]
         J --> R
     end
-
     W ==>|"Feeds compressed representation"| O
     M ==>|"Surfaces verified novel configurations"| J
     D ==>|"Escalates irreducible contradiction"| J
-
     style S_Up fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Out fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950

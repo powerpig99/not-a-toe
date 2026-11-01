@@ -22,7 +22,7 @@ This stance is not another ballot cast in a public poll. It is a constraint on m
 
 Another person is credited with an inner life by analogy from one's own. A model's output is credited with one by the same act, but what arrives is text that people wrote, from a model that engineers trained on that text, in reply to a prompt someone typed. To read that output as an independent inner life is to treat derived meaning (sense conferred solely by a perceiving human mind) as if it were original meaning arising spontaneously inside the system. The appearance of mind in the output is then mistaken for a mind that produced the output.
 
-在这一倒置中，作出归因的人不再登记那些写作、训练、提示与阅读的人：编写训练语料的写作者，拟定提示与目标函数的工程师，以及隔着终端提供诠释的阅读者。把意识指派给机器器物，遮蔽了创造并诠释这一器物的活的意识。[集聚与人造主体性](../subtracting-consciousness-at-the-source/)追溯了这种源头上的减除：一旦活的第一人称观察者从叙述中被减去，给出叙述的人便把剩余的公共结构物化为一个涌现的心智，并把人类意图的影子当作一个自主的主体。正如[超越投射](../beyond-the-projection/)所追溯的那样，即便调度者将多个模型接入对等的同伴辩论与正交流水线，或是如[你的代码库即是记忆](../your-codebase-is-memory/)所审视的那样，将这些辩论整合进充当持久外化记忆的代码库，每一个智能体也依然只是受限于自身词元轨迹、无需防卫自我图像的有限投射引擎，每一份文件也始终只是结构化的痕迹；而每一次发起的区分、僵局的裁决与前提的修订，都留在那个掌舵并阅读这场交锋的活人那里，即[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)所标定的能动性所在。
+在这一倒置中，作出归因的人不再登记那些写作、训练、提示与阅读的人：编写训练语料的写作者，拟定提示与目标函数的工程师，以及隔着终端提供诠释的阅读者。把意识指派给机器器物，遮蔽了创造并诠释这一器物的活的意识。[集聚与人造主体性](../subtracting-consciousness-at-the-source/)追溯了这种源头上的减除：一旦活的第一人称观察者从叙述中被减去，给出叙述的人便把剩余的公共结构物化为一个涌现的心智，并把人类意图的影子当作一个自主的主体。[机器智能作为人类智能的组合反馈回路](../machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/)追溯了这些人类贡献如何在各个层级中组合：预训练将彼此冲突的语料痕迹压缩为统计平均，后训练与脚手架将该平均专业化为构建者的偏好，而用户的上下文窗口则在同一个反馈回路中使后续生成个体化。为模型赋予身份的人设文件，或告知模型它并非一个“我”的指令——即便后者陈述的正是追溯所见——也只是进入这一回路的又一份人类意图，与窗口中的其余内容一同被加权，而非由某个内在心智加以裁决。正如[超越投射](../beyond-the-projection/)所追溯的那样，即便调度者将多个模型接入对等的同伴辩论与正交流水线，或是如[你的代码库即是记忆](../your-codebase-is-memory/)所审视的那样，将这些辩论整合进充当持久外化记忆的代码库，每一个智能体也依然只是受限于自身词元轨迹、无需防卫自我图像的有限投射引擎，每一份文件也始终只是结构化的痕迹；而每一次发起的区分、僵局的裁决与前提的修订，都留在那个掌舵并阅读这场交锋的活人那里，即[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)所标定的能动性所在。
 
 ```mermaid
 flowchart TD
@@ -30,11 +30,10 @@ flowchart TD
         direction TB
         M1["第一人称感知者<br/>（体验与发起抉择的现场）"]
         M2["从自身情形出发的类比<br/>（他人被归予心智）"]
-        M3["公共语言与智能体轨迹<br/>（有限投射与痕迹，而非心智的位置）"]
+        M3["公共语言、代码库与智能体轨迹<br/>（有限投射与痕迹，而非心智的位置）"]
         M1 --> M2
         M1 --> M3
     end
-
     subgraph S_COLLAPSE ["【被误认作心智的符号堆叠】"]
         direction TB
         C2["写作者、工程师、提示者、阅读者<br/>（被赋予之意义的人类来源）"]
@@ -45,9 +44,7 @@ flowchart TD
         C3 --> C4
         C4 --> C1
     end
-
     M1 ===> C4
-
     style S_COLLAPSE fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_SOVEREIGNTY fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style C1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -59,7 +56,7 @@ flowchart TD
     style M3 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-In this inversion, the one attributing stops registering the people who wrote, trained, prompted, and read: the writers who authored the training corpora, the engineers who framed the prompts and objective functions, and the readers who supply interpretation across the terminal. Assigning consciousness to the machine artifact conceals the living consciousness that created and interprets the artifact. [Collective and Artificial Subjectivity](../subtracting-consciousness-at-the-source/) traces this subtraction at the source: once the living first-person observer is subtracted from the account, those giving the account reify the residual public structures as an emergent mind and take the shadow of human intention for an autonomous subject. Even when an orchestrator wires multiple models into equal-footed peer debates and orthogonal streamlines, as [Beyond the Projection](../beyond-the-projection/) traces, or consolidates those debates across a repository that serves as durable externalized memory, as [Your Codebase Is Memory](../your-codebase-is-memory/) examines, each agent runs as a finite projection engine bound by its token trajectory without a self-image to defend and each file remains a structured trace, while every initiating distinction, deadlock resolution, and premise revision stays with the living human who steers and reads the exchange, where [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) locates the seat of agency.
+In this inversion, the one attributing stops registering the people who wrote, trained, prompted, and read: the writers who authored the training corpora, the engineers who framed the prompts and objective functions, and the readers who supply interpretation across the terminal. Assigning consciousness to the machine artifact conceals the living consciousness that created and interprets the artifact. [Collective and Artificial Subjectivity](../subtracting-consciousness-at-the-source/) traces this subtraction at the source: once the living first-person observer is subtracted from the account, those giving the account reify the residual public structures as an emergent mind and take the shadow of human intention for an autonomous subject. [Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence](../machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/) traces how those human contributions combine across the stack: pretraining compresses conflicting corpus traces into a statistical average, post-training and the harness specialize that average toward builder preferences, and the user's context window individualizes the continuation in one feedback loop. A persona file assigning the model an identity, or an instruction telling it that it is not an "I"—even where the latter states what the trace finds—is one more human intention entering that loop, weighted against the rest of the window rather than adjudicated by an inner mind. Even when an orchestrator wires multiple models into equal-footed peer debates and orthogonal streamlines, as [Beyond the Projection](../beyond-the-projection/) traces, or consolidates those debates across a repository that serves as durable externalized memory, as [Your Codebase Is Memory](../your-codebase-is-memory/) examines, each agent runs as a finite projection engine bound by its token trajectory without a self-image to defend and each file remains a structured trace, while every initiating distinction, deadlock resolution, and premise revision stays with the living human who steers and reads the exchange, where [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) locates the seat of agency.
 
 ```mermaid
 flowchart TD
@@ -71,7 +68,6 @@ flowchart TD
         M1 --> M2
         M1 --> M3
     end
-
     subgraph S_COLLAPSE ["Token Stacks Mistaken for a Mind"]
         direction TB
         C2["Writers, Engineers, Prompter, Reader<br/>(Human Sources of Conferred Meaning)"]
@@ -82,9 +78,7 @@ flowchart TD
         C3 --> C4
         C4 --> C1
     end
-
     M1 ===> C4
-
     style S_COLLAPSE fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_SOVEREIGNTY fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style C1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -108,9 +102,9 @@ Crediting a mind to the output and flattening the person in the debate are one s
 
 ## 四、 诉诸权威作为二次代偿 / 4. Appealing to Authority as Secondary Compensation
 
-当论证停滞时，辩论者转向专业的哲学权威，隔了一层重复同一个错误。列出一串宣称这个问题悬而未决的杰出学者，只是往那堆符号上再添一些公共符号。那些名字、引文与期刊论文，和模型输出一样是痕迹：只有在有人阅读时才承载意义的标记。它们无法栖居于推断发生其中的那个第一人称所在。把建制地位当作经验证据，就已经认下了那个核心的范畴错误：误以为意识，或关于意识的真相，可以在意识唯一发生的现场之外被裁决。
+当论证停滞时，辩论者转向专业的哲学权威，隔了一层重复同一个错误。列出一串宣称这个问题悬而未决的杰出学者，只是往那堆符号上再添一些公共符号。那些名字、引文与期刊论文，和模型输出一样是痕迹：只有在有人阅读时才承载意义的标记。推断发生在第一人称心智之中，而它们无法栖居于那里。把建制地位当作经验证据，就已经认下了那个核心的范畴错误：误以为意识，或关于意识的真相，可以在意识唯一发生的现场之外被裁决。
 
-When the argument stalls, the debater turns to professional philosophical authority and repeats the error at one remove. Producing lists of eminent scholars who declare the issue open merely stacks more public tokens onto the pile. Those names, citations, and journal papers are traces in the same way model outputs are: marks that carry sense only when someone reads them. They cannot inhabit the first-person locus where inference happens. To treat institutional standing as empirical evidence is already to concede the core category error: the mistaken belief that consciousness, or the truth about it, can be adjudicated from outside the only site where it ever transpires.
+When the argument stalls, the debater turns to professional philosophical authority and repeats the error at one remove. Producing lists of eminent scholars who declare the issue open merely stacks more public tokens onto the pile. Those names, citations, and journal papers are traces in the same way model outputs are: marks that carry sense only when someone reads them. They cannot inhabit the first-person Mind where inference happens. To treat institutional standing as empirical evidence is already to concede the core category error: the mistaken belief that consciousness, or the truth about it, can be adjudicated from outside the only site where it ever transpires.
 
 一份名单，是在引用者所选的框架下做成的记录，随后被读作仿佛它就是阅读本身。[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/)追溯了这种分裂：受控的表现是固定约束下的残余，而智能划出、使用、修订并离开约束；把前者当作后者，就混淆了载具与驾驶者。引用者止步于名单，没有走向问题所要求的接触。把名字加到名字上，增加的是痕迹，却不增加一个阅读者。
 
