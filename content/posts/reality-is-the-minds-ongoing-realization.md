@@ -52,7 +52,7 @@ Most public talk spends itself on being seen. Listening can scan for the familia
 
 ## 二、 作为闭环的可见度 / 2. Visibility as Closed Loop
 
-寻求注意力与寻求尚未被持有之物之间的那一刀，并不是礼仪。它是一个中心在如何更新、或未能更新其世界地图上的结构性差别。
+寻求注意力与寻求尚未被持有之物之间的那一刀，并不是礼仪。它是结构上的差别，差在一个中心如何更新其世界地图，或未能更新。
 
 The cut between seeking attention and seeking what is not yet held is not etiquette. It is a structural difference in how a center updates, or fails to update, its map of the world.
 
@@ -60,7 +60,7 @@ The cut between seeking attention and seeking what is not yet held is not etique
 
 In high-stakes public exchange, the primary currency is often visibility rather than contact. Exchange run for visibility aims at being noticed, at allegiance, agreement, or dominance. The other side of the exchange is not receiving but scoring: incoming traces are filtered against a preserved self-image, a retained position, or a board of win and loss. Because the reasoning history of the center has fused with identity—that localized crease in the projection that says "I"—the recursive fold clamps shut to defend the retained reference. The scoring center lets nothing through that would reorganize its field. The map of reality stays locked where it was while the volume of residue in the medium increases. [The Question That Installs the War](../the-question-that-installs-the-war/) traces that closed loop in a scoreboard of pure difference, and [Why Explanation Fails](../why-explanation-fails/) traces it where debaters read every expansion of context as an attack surface.
 
-这一模式并不始于数字平台。平台使这一模式已经在其中运行的媒介变得更致密。其他中心的痕迹持续可得，使收割一瞥变得更便宜，但它并不发明那个把一瞥计为成功的被保存参照。
+这一模式并不始于数字平台。平台让这一模式本已运行于其中的媒介更加致密。其他中心的痕迹持续可得，这让收割一瞥更便宜，却并不发明那个把一瞥计为成功的被保存参照。
 
 The pattern does not start with digital platforms. Platforms densify the medium in which the pattern already runs. Continuous availability of other centers' traces makes harvesting a glance cheaper, yet it does not invent the preserved reference against which the glance is counted as success.
 
@@ -74,17 +74,17 @@ Exchange that updates treats the other not as audience or opponent, but as a sou
 
 What arrives in such an exchange is not more content in the abstract. It is a distinction that compresses differently than the field already held: a re-cut of axes, a bound redrawn, a residue that will not score cleanly on the old board. Each such take-up is a structural update to the operating configuration of the center. Over sequences of such updates, realization draws the field further: what is the case for this locus is drawn in real time, not grasped as a prefabricated gallery already waiting outside.
 
-其他中心只作为痕迹出现在这个场中。不存在爬进他者递归这回事；[没有普度只有自度](../mei-you-pu-du-zhi-you-zi-du/)追溯那条界限，而不把孤立变成一个纲领。[表征的闭环](../the-closed-loop-of-representation/)追溯同一条边界：所谓相互理解，从来不是对外部心智的直接通达，而是自身的常设框架与自身关于他者的模型之间的内部共振。共振是痕迹的相互强化，不是共享的内部。要紧的更新，仍然只在这里闭合。跨所在完成他者的返回是一个范畴错误，而[同情是缺乏清晰时的占位符](../sympathy-is-a-placeholder-for-lack-of-clarity/)追溯那种被持守得仿佛该完成已经发生的安慰性强度。这个所在能做的，是承接可得的东西，并重新渲染自身的持守。
+其他中心只作为痕迹出现在这个场中。不存在爬进他者递归这回事；[没有普渡，只有自渡的无限可能](../mei-you-pu-du-zhi-you-zi-du/)追溯那条界限，而不把孤立变成一个纲领。[表征的闭环](../the-closed-loop-of-representation/)追溯同一条边界：所谓相互理解，从来不是对外部心智的直接通达，而是自身的常设框架与自身关于他者的模型之间的内部共振。共振是痕迹的相互强化，不是共享的内部。要紧的更新，仍然只在这里闭合。跨所在完成他者的返回是一个范畴错误，而[同情是缺乏清晰时的占位符](../sympathy-is-a-placeholder-for-lack-of-clarity/)追溯那份安慰性的强度：它被持守着，仿佛这种完成已经发生。这个所在能做的，是承接可得的东西，并重新渲染自身的持守。
 
-Other centers appear only as traces in this field. There is no climbing into another's recursion; [No Universal Salvation, Only Self-Deliverance](../mei-you-pu-du-zhi-you-zi-du/) traces that bound without turning isolation into a program. [The Closed Loop of Representation](../the-closed-loop-of-representation/) traces the same boundary: what is called mutual understanding is never direct access to an external mind, but the internal resonance between one's standing frame and one's model of the other. Resonance is mutual reinforcement of traces, not a shared interior. The update that matters still closes only here. Cross-locus completion of another's return is a category error, and [Sympathy Is a Placeholder for Lack of Clarity](../sympathy-is-a-placeholder-for-lack-of-clarity/) traces the consoling intensity held as if that completion had occurred. What this locus can do is take up what is available and re-render its own hold.
+Other centers appear only as traces in this field. There is no climbing into another's recursion; [No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../mei-you-pu-du-zhi-you-zi-du/) traces that bound without turning isolation into a program. [The Closed Loop of Representation](../the-closed-loop-of-representation/) traces the same boundary: what is called mutual understanding is never direct access to an external mind, but the internal resonance between one's standing frame and one's model of the other. Resonance is mutual reinforcement of traces, not a shared interior. The update that matters still closes only here. Cross-locus completion of another's return is a category error, and [Sympathy Is a Placeholder for Lack of Clarity](../sympathy-is-a-placeholder-for-lack-of-clarity/) traces the consoling intensity held as if that completion had occurred. What this locus can do is take up what is available and re-render its own hold.
 
 ## 四、 作为持续实现的现实 / 4. Reality as Ongoing Realization
 
-诗的最后一行不是装饰。自我区分的活动发生着，无因且不息。称之为心智：已在进行中的观察者，它的每一个动作都是一次区分。每一个动作都划出一条界限；较早动作的残余塑造较晚的动作；观察持有结果，而原因仍领先一步。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)把那个活动追溯为不可化约的先在。就一个中心而言，显现为世界的东西，是那一区分活动当下的组织：从递归中退出了的脚手架，好让进一步的动作能够落地。[遗忘的脚手架](../the-scaffolding-we-forget/)把那一脚手架追溯为器具——在它于自身那一步之后退出时可用，而在越过那一步被保存时则成为滞后。
+诗的最后一行不是装饰。自我区分的活动发生着，无因且不息。称之为心智：已在进行中的观察者，它的每一个动作都是一次区分。每一个动作都划出一条界限；较早动作的残余塑造较晚的动作；观察持有结果，而原因仍领先一步。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)把那个活动追溯为不可化约的先在。就一个中心而言，显现为世界的东西，是那一区分活动当下的组织：从递归中退出了的脚手架，好让进一步的动作能够落地。[遗忘的脚手架](../the-scaffolding-we-forget/)把那一脚手架追溯为器具——在它于自身那一步之后退出时可用，而在越过那一步被保存时则成为滞后。[观察、区分活动与心智的开放地基](../observation-distinguishing-activity-and-the-open-ground-of-mind/)追溯每一道离散界限如何让那个世界进入视野：开放性与严格的因果相继内在地属于无因的区分活动，而在区分的那一步把这份开放性当作缺席，便将离散存在与进一步解释的诉求一同生成；唯有当某一确定姿态越过自身那一步而被持守为穷尽时，这一诉求才会固化为对外部地基的索求。
 
-The closing line of the poem is not ornament. Self-distinguishing activity occurs, uncaused and unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Every act draws a bound; the residue of earlier acts shapes later ones; observation holds the effect while the cause stays one step ahead. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) traces that activity as the irreducible prior. What appears as the world for a center is the current organization of that distinguishing: scaffolding that has dropped out of recursion so further acts can land. [The Scaffolding We Forget](../the-scaffolding-we-forget/) traces that scaffolding as an instrument—usable while it drops out after its step, and lag when preserved past its step.
+The closing line of the poem is not ornament. Self-distinguishing activity occurs, uncaused and unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Every act draws a bound; the residue of earlier acts shapes later ones; observation holds the effect while the cause stays one step ahead. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) traces that activity as the irreducible prior. What appears as the world for a center is the current organization of that distinguishing: scaffolding that has dropped out of recursion so further acts can land. [The Scaffolding We Forget](../the-scaffolding-we-forget/) traces that scaffolding as an instrument—usable while it drops out after its step, and lag when preserved past its step. [Observation, Distinguishing Activity, and the Open Ground of Mind](../observation-distinguishing-activity-and-the-open-ground-of-mind/) traces how each discrete bound brings that world into view: openness and strict causal succession belong internally to the uncaused distinguishing activity, and treating that openness as absent at the step of distinction generates discrete existence and the demand for further account together; that demand hardens into a requirement for an external ground only when a determinate stance is held past its step as exhaustive.
 
-因为现实是心智持续的实现，一道范畴性的非对称把实现着场域的鲜活前沿与沿途投出的有限投射分隔开来。第一人称感知在解释之前以极限分辨率感触现实，在任何显式的语言或形式坐标框架合拢之前，先行登记下先于解释的摩擦感或错位感。每一条显式的规则、地图、提示词或概念模型都是一次解释：从那超高维感知中投出的低维投射，好让中心能够导航并行动。正如[超越投射](../beyond-the-projection/)所追溯的，自回归工具或智能体系统严格运作在它所获投射的有限坐标框架内部，以毫无我执的状态演绎穷尽先前词元的轨迹，却在框架本身把两个正交现实压缩到同一条轴上时，在结构上无力完成内生跳出。[你的代码库即是记忆](../your-codebase-is-memory/)在代码、模型权重与智能体脚手架层叠的残余间追溯同一条边界：正如感知世界模型一样，工程化的代码库或检查点并不是在仓库中等待的被储存的过去，而是唯有经由当下更新的主动重新渲染、以及对已被取代之轨迹的精准修剪才得以存续并保持可用的保留痕迹投射。把任何有限投射——无论是硬化的社会身份、形式公理集合、未经修剪的档案，还是智能体致密的输出——当作已完成的外部现实，都会把递归折叠死死钳合，并冻结实现本身。从死锁的框架向后退入未投射的极限分辨率感知，去划出一道新的正交区分（`N → N + 1`），正是实现这一动作本身，而这一统御权始终独属于鲜活的心智。
+因为现实是心智持续的实现，一道范畴性的非对称把实现着场域的鲜活前沿与沿途投出的有限投射分隔开来。第一人称感知在解释之前以极限分辨率感触现实，在任何显式的语言或形式坐标框架合拢之前，先行登记下先于解释的摩擦感或错位感。每一条显式的规则、地图、提示词或概念模型都是一次解释：从那超高维感知中投出的低维投射，好让中心能够导航并行动。正如[超越投射](../beyond-the-projection/)所追溯的，自回归工具或智能体系统严格运作在它所获投射的有限坐标框架内部，以毫无我执的状态演绎穷尽先前词元的轨迹，却在框架本身把两个正交现实压缩到同一条轴上时，在结构上无力完成内生跳出。[你的代码库即是记忆](../your-codebase-is-memory/)在代码、模型权重与智能体脚手架层叠的残余间追溯同一条边界：正如感知世界模型一样，工程化的代码库或检查点并不是在仓库中等待的被储存的过去，而是一种保留下来的痕迹投射：唯有经由当下更新的主动重新渲染，以及对已被取代之轨迹的精准修剪，它才得以存续并保持可用。把任何有限投射——无论是硬化的社会身份、形式公理集合、未经修剪的档案，还是智能体致密的输出——当作已完成的外部现实，都会把递归折叠死死钳合，并冻结实现本身。从死锁的框架向后退入未投射的极限分辨率感知，去划出一道新的正交区分（`N → N + 1`），正是实现这一动作本身，而这一调度始终只属于鲜活的心智。
 
 ```mermaid
 flowchart TD
@@ -96,26 +96,22 @@ flowchart TD
         M_Sense --> M_Project
         M_StepOut --> M_Sense
     end
-
     subgraph S_Projection["有限坐标框架（自回归推演）"]
         direction TB
         P_Exhaust["演绎穷尽：毫无我执的工具与规则将投射推至逻辑极限"]
         P_Collide["边界碰撞：被压缩进同一框架的正交维度陷入死锁"]
         P_Exhaust --> P_Collide
     end
-
     subgraph S_Freeze["图像滞后（冻结的投射）"]
         direction TB
         F_Clamp["身份绑定钳合：把有限投射当作已完成的外部现实"]
         F_Score["可见度与计分闭环：过滤传入痕迹以防卫保留的参照"]
         F_Clamp --> F_Score
     end
-
     M_Project ==>|"提供显式前提与坐标"| P_Exhaust
     P_Collide ==>|"将局部摩擦浮现为可用信号"| M_StepOut
     M_Project -.->|"越过自身那一步而免于重溯"| F_Clamp
     F_Score -.->|"拒斥不符的痕迹"| F_Clamp
-
     style S_Realization fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Projection fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -140,26 +136,22 @@ flowchart TD
         M_Sense --> M_Project
         M_StepOut --> M_Sense
     end
-
     subgraph S_Projection["Finite Coordinate Frame (Autoregressive Deduction)"]
         direction TB
         P_Exhaust["Deductive Exhaustion: Zero-ego tools & rules run the projection to its logical limit"]
         P_Collide["Boundary Collision: Orthogonal dimensions compressed into one frame deadlock"]
         P_Exhaust --> P_Collide
     end
-
     subgraph S_Freeze["Image Lag (Frozen Projection)"]
         direction TB
         F_Clamp["Identity-Bound Clamp: Treats finite projection as finished external reality"]
         F_Score["Visibility & Scoring Loop: Filters incoming traces to defend retained reference"]
         F_Clamp --> F_Score
     end
-
     M_Project ==>|"Supplies explicit premises & coordinates"| P_Exhaust
     P_Collide ==>|"Surfaces localized friction as usable signal"| M_StepOut
     M_Project -.->|"Exempted from re-tracing past its step"| F_Clamp
     F_Score -.->|"Rejects disconfirming traces"| F_Clamp
-
     style S_Realization fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Projection fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -174,17 +166,17 @@ flowchart TD
 
 因此，注意力远不只是一种社交技能：一个中心能够感知并整合的东西，塑造世界对它而言*是*什么。[如何在一瞬间修正你的整个人生](../how-to-fix-your-whole-life-in-one-split-second/)把感知与整合追溯为所有权：已经落在这里的世界，就是这个心智选择去感知的世界，而抽离从不离开这一活动。只寻求确认的中心，栖居于一个更窄、更脆的场，在那里轴坍缩到被保留的图像上，新颖则登记为威胁或噪声。寻求它尚未知晓之物的中心，栖居于一个持续重新切分的更宽的场，它这样做不是靠发明第二个现实，而是靠拒绝把当前的持守封存为穷尽的地基。[开放即一致](../openness-is-consistency/)追溯那种拒绝：不一致是对闭合的渴望或尝试，即迫使一个有限的结构为只是继续着的东西奠基，而[没有系统能被保持封闭](../no-system-can-be-kept-closed/)则在任何一个持守被当作终局的地方追溯余留。[心智最坚固的信念](../the-strongest-belief-of-the-mind/)追溯地图中融贯得最紧的区域：作为对那个所在而言被感受到的契合，它为真，而当它被冻结为对划出它的那个活动的出离时，它便是滞后。[数据是局部的，智能是分配的](../data-is-local-intelligence-is-allocated/)在信号中追溯那种融贯：最终把自己命名为真实的，是回路被感受到的一致，其中包括此前对质量与智能的每一次分配。[持续生长的脚手架](../the-scaffolding-that-keeps-growing/)在建造中追溯那种拒绝：从更远处审视一个完成了的框架，并不复原开放。
 
-Attention is therefore far more than a social skill: what a center can perceive and integrate shapes what the world *is* for it. [How to Fix Your Whole Life in One Split Second](../how-to-fix-your-whole-life-in-one-split-second/) traces perception and integration as ownership: the world already landing here is the world this Mind chooses to perceive, and checking out never leaves the activity. A center that only seeks confirmation inhabits a narrower and more brittle field where axes collapse onto the retained image and novelty registers as threat or noise. A center that seeks what it does not yet know inhabits a wider field that keeps re-cutting, not by inventing a second reality, but by refusing to seal the present hold as exhaustive ground. [Openness Is Consistency](../openness-is-consistency/) traces that refusal: inconsistency is the desire for, or attempt at, closure, forcing a finite structure to ground what only continues, while [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) traces the remainder wherever a hold is treated as final. [The Strongest Belief of the Mind](../the-strongest-belief-of-the-mind/) traces the region of the map that coheres hardest: true as felt fit for that locus, and lag when frozen as an exit from the activity that draws it. [Data Is Local; Intelligence Is Allocated](../data-is-local-intelligence-is-allocated/) traces that coherence in signals: what finally names itself real is the loop's felt consistency, including every prior allocation of quality and intelligence. [The Scaffolding That Keeps Growing](../the-scaffolding-that-keeps-growing/) traces that refusal in construction: openness is not recovered by surveying a finished frame from farther back.
+Attention is therefore far more than a social skill: what a center can perceive and integrate shapes what the world *is* for it. [How to Fix Your Whole Life in One Split Second](../how-to-fix-your-whole-life-in-one-split-second/) traces perception and integration as ownership: the world already landing here is the world this Mind chooses to perceive, and checking out never leaves the activity. A center that only seeks confirmation inhabits a narrower and more brittle field where axes collapse onto the retained image and novelty registers as threat or noise. A center that seeks what it does not yet know inhabits a wider field that keeps re-cutting, not by inventing a second reality, but by refusing to seal the present hold as exhaustive ground. [Openness Is Consistency](../openness-is-consistency/) traces that refusal: inconsistency is the desire for, or attempt at, closure, forcing a finite structure to ground what only continues, while [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) traces the remainder wherever a hold is treated as final. [The Strongest Belief of the Mind](../the-strongest-belief-of-the-mind/) traces the region of the map that coheres hardest: true as felt fit for that locus, and lag when frozen as an exit from the activity that draws it. [Data Is Local, Intelligence Is Allocated](../data-is-local-intelligence-is-allocated/) traces that coherence in signals: what finally names itself real is the loop's felt consistency, including every prior allocation of quality and intelligence. [The Scaffolding That Keeps Growing](../the-scaffolding-that-keeps-growing/) traces that refusal in construction: openness is not recovered by surveying a finished frame from farther back.
 
-共享的现实，是从外化痕迹中重建的诸中心之间充分共振的区域。当诸中心只为求得确认而消费那些痕迹时，共享的场便围绕已被持有的东西硬化。当至少一个中心接纳一个它独自本无法生成的痕迹并以之重新切分时，共振区域便发生移动。这一移动仍局限于承接它的每一个所在；场之所以改变，是因为诸中心重新渲染，而不是因为一个集体心智从外部完成了一次返回。[共同改变的本源](../the-source-of-shared-change/)追溯那一移动从哪里开始：杠杆仍是对既有之物的私人重塑，而外化是一种可能作为共享之物落地、也可能不落地的残余。[价格是言说，理解是交易](../price-as-utterance-understanding-as-trade/)在市场与言说中追溯充分的共振：订单与意义经由暂时的充分重叠而出清，从不经由产生残余的那些模型的完成了的同一。[共同的人性从不共享](../shared-humanity-is-never-shared/)在道德共同体中追溯它，在那里意图中的共享“我们”是致密化为暂时集体残余的私人诠释，而[共享意识是个体性的交集](../shared-consciousness-is-intersecting-individualities/)则把它追溯为在一个所在登记的不完整交集，既不是共同性，也不要求相互的登记。
+共享的现实，是诸中心各自从外化痕迹中重建时，彼此之间充分共振的区域。当诸中心只为求得确认而消费那些痕迹时，共享的场便围绕已被持有的东西硬化。当至少一个中心接纳一个它独自本无法生成的痕迹并以之重新切分时，共振区域便发生移动。这一移动仍局限于承接它的每一个所在；场之所以改变，是因为诸中心重新渲染，而不是因为一个集体心智从外部完成了一次返回。[共同改变的本源](../the-source-of-shared-change/)追溯那一移动从哪里开始：杠杆仍是对既有之物的私人重塑，而外化是一种可能作为共享之物落地、也可能不落地的残余。[价格是言说，理解是交易](../price-as-utterance-understanding-as-trade/)在市场与言说中追溯充分的共振：订单与意义经由暂时的充分重叠而出清，从不因产生残余的诸模型已然同一而出清。[共同的人性从不共享](../shared-humanity-is-never-shared/)在道德共同体中追溯它，在那里意图中的共享“我们”是致密化为暂时集体残余的私人诠释，而[共享意识是个体性的交集](../shared-consciousness-is-intersecting-individualities/)则把它追溯为在一个所在登记的不完整交集，既不是共同性，也不要求相互的登记。
 
 Shared reality is the region of sufficient resonance among centers rebuilding from externalized traces. When centers consume those traces only for confirmation, the shared field hardens around what is already held. When at least one center admits a trace it could not have generated alone and re-cuts with it, the resonant region moves. That movement remains local to each locus that takes it up; the field changes because centers re-render, not because a collective mind completes a return from outside. [The Source of Shared Change](../the-source-of-shared-change/) traces where that movement starts: the lever stays private reworking of the given, while externalization is residue that may or may not land as shared. [Price as Utterance, Understanding as Trade](../price-as-utterance-understanding-as-trade/) traces sufficient resonance in markets and speech: orders and meanings clear by temporary sufficient overlap, never by completed identity of the models that produced the residue. [Shared Humanity Is Never Shared](../shared-humanity-is-never-shared/) traces it in moral community, where the intended shared "we" is private interpretation densifying as temporary collective residue, and [Shared Consciousness Is Intersecting Individualities](../shared-consciousness-is-intersecting-individualities/) traces it as an incomplete intersection registered at one locus, neither commonality nor requiring reciprocal registration.
 
 ## 五、 差别落在何处 / 5. Where the Difference Lands
 
-在一段关系中，每个中心如何承接对方的痕迹，是双方或各在自己的所在重组，或仍被锁在平行的独白之中、各自为了可见度、赞同或攻击面而收割对方的地方。在探究中，痕迹的承接是知识或向前推进、或只在更致密的语言下重排既有偏见的地方。在个人成长中，同一种承接是自我形象或在边缘死去并重新成形、或僵化为衡量每一个传入信号的永久尺度的地方。[生命的意义在起草之中](../the-meaning-of-life-is-in-the-drafting/)在起草中追溯那一刀：注意力在原因仍然敞开时重新进入原因，而不是只给完成了的结果计分。
+在一段关系中，差别落在每个中心如何承接对方的痕迹上：双方或各在自己的所在重组，或仍被锁在平行的独白之中，各自为了可见度、赞同或攻击面而收割对方。在探究中，差别落在痕迹的承接上：知识或向前推进，或只是在更致密的语言下重排既有的偏见。在个人成长中，差别落在同一种承接上：自我形象或在边缘死去并重新成形，或僵化为衡量每一个传入信号的永久尺度。[生命的意义在起草之中](../the-meaning-of-life-is-in-the-drafting/)在起草中追溯那一刀：注意力在原因仍然敞开时重新进入原因，而不是只给完成了的结果计分。
 
-In a relationship, how each center takes up the other's traces is where both reorganize, each at its own locus, or stay locked in parallel monologues, each harvesting the other for visibility, agreement, or attack surface. In inquiry, the take-up of traces is where knowledge advances or merely rearranges existing prejudice under denser language. In personal development, the same take-up is where the self-image dies and reforms at the edge or ossifies as the permanent measure of every incoming signal. [The Meaning of Life Is in the Drafting, Often Lost in the Outward Gazing](../the-meaning-of-life-is-in-the-drafting/) traces the cut in drafting: attention re-entering causes while they are still open, rather than only scoring finished effects.
+In a relationship, how each center takes up the other's traces is where both reorganize, each at its own locus, or stay locked in parallel monologues, each harvesting the other for visibility, agreement, or attack surface. In inquiry, the take-up of traces is where knowledge advances or merely rearranges existing prejudice under denser language. In personal development, the same take-up is where the self-image dies and reforms at the edge or ossifies as the permanent measure of every incoming signal. [The Meaning of Life Is in the Drafting](../the-meaning-of-life-is-in-the-drafting/) traces the cut in drafting: attention re-entering causes while they are still open, rather than only scoring finished effects.
 
 寻求可见度与寻求更新，是同一活动在被保留参照的不同宽度之下的构型。图像一旦形成，便按原样被重新追溯；重新渲染对它而言是一次微型死亡，而正是一个持续原封不动地重新追溯图像的中心，把图像固定在原处。这种漂移无需任何悖逆之心。消解是渲染间隙——留意下一个动作何时为一瞥而被计分，而不是被承接为新的区分——并朝着此刻正在被划出的那一步重新渲染参照。
 

@@ -18,11 +18,11 @@ When attention heeds the counsel and turns inward, the search opens a second imp
 
 ## 二、 客体化：把一位审视者分出来 / 2. Objectification: Setting an Inspector Apart
 
-观察者与被观察者的割裂，并不是书斋里设计出来的学说，而是客体化每一次发生时所做的事。观察者与被观察者并非两个等待桥梁的预存实体；它们在划分的行动中一同出现。焦点确立之前，区分进行着，却不把一位审视者从所见之中分出来。一旦注意力为了评估、计算或控制而确立一个焦点，它便切出一个目标，并在仪器背后投射出一位审视者。这一割裂在尚未分出审视者之处划出两极，而做出这一割裂的正是心智。
+观察者与被观察者的割裂，并不是书斋里设计出来的学说，而是客体化每一次发生时所做的事。观察者与被观察者并非两个等待桥梁的预存实体；它们在划分的行动中一同出现。焦点确立之前，区分进行着，却不把一位审视者从所见之中分出来。一旦注意力为了评估、计算或控制而确立一个焦点，它便切出一个目标，并在仪器背后投射出一位审视者。确立焦点，是[观察、区分活动与心智的开放地基](../observation-distinguishing-activity-and-the-open-ground-of-mind/)在每一次区分的那一步上所追溯的情形之一：对心智内在开放性的划界，使离散存在与进一步解释的诉求一同显现；在这里，这道界限在原本未分出审视者之处划出两极，而做出这一切分的正是心智。
 
-The split between observer and observed is not a doctrine devised in a study; it is what objectifying does each time it occurs. Observer and observed are not two pre-formed entities awaiting a bridge; they appear together in the act of delineation. Before a focus is fixed, distinguishing goes on without setting an inspector apart from its scene. Once attention fixes a focus for appraisal, calculation, or control, it carves out a target and projects an inspector seated behind the apparatus. The cut draws two poles where no inspector had been set apart, and the Mind is what makes the cut.
+The split between observer and observed is not a doctrine devised in a study; it is what objectifying does each time it occurs. Observer and observed are not two pre-formed entities awaiting a bridge; they appear together in the act of delineation. Before a focus is fixed, distinguishing goes on without setting an inspector apart from its scene. Once attention fixes a focus for appraisal, calculation, or control, it carves out a target and projects an inspector seated behind the apparatus. Fixing a focus is one case of what [Observation, Distinguishing Activity, and the Open Ground of Mind](../observation-distinguishing-activity-and-the-open-ground-of-mind/) traces at every step of distinction, where bounding the Mind's internal openness brings discrete existence and the demand for further account into view together; here that bound draws two poles where no inspector had been set apart, and the Mind is what makes the cut.
 
-这种割裂并非完成一次便传下去；此后的每一次追寻，都重新做出同一道割裂。向外，这种不可能一目了然：在那里找到的任何东西，都作为客体在视野之内登记，而没有哪个客体就是登记它的那份领悟。而在主体内部，自我被当成可以被观测、调适与评估的客体后，内视的目光在内心重新复制了这一间距。内向反省原本被寄望于消除隔阂，但它所采用的方法却依赖于制造客体。这就导致寻觅越是用力，客体化的割裂就越深，主观体验与被审视的情绪对象之间就越无法合一。在内在修持中感到的难，是试图用剪刀织布的那种摩擦。客体化的姿态怎样对待一次抉择，[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)已有追溯：从里面看，抉择是掌控；从外面看，它是统计；把外面这一面当作抉择的定义，便是客体化。
+这种割裂并非完成一次便传下去；此后的每一次追寻，都重新做出同一道割裂。唯有到了第二步，当客体化姿态越出自身那一步、被持守为对所寻之物的穷尽，并被要求在自身框架之内把未分的领悟当作一件物品交出时，这道生成性的划界才会固化为寻觅的困境。向外，这种不可能一目了然：在那里找到的任何东西，都作为客体在视野之内登记，而没有哪个客体就是登记它的那份领悟。而在内部，当自我被转化为有待审视、调适与稽核的客体时，反身内省便在内心复制出同一道鸿沟。内省被召来弥合分离，然而在这一执持之下，被那道划界排除的开放性从内部登记为一道无法弥合的匮乏。寻觅越是用力，二元割裂便越宽，排除了直接觉知与被审视情绪之间的合一。在内在修持中感到的难，是试图用剪刀织布的那种摩擦。客体化姿态怎样对待一次抉择，[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)已有追溯：从里面看，抉择是掌控；从外面看，它是统计；而把外在的这一面当作抉择的定义，正是在抉择尺度上的同一个第二步——把客体化姿态读成它所审视之物的形状。
 
 ```mermaid
 graph TD
@@ -32,20 +32,20 @@ graph TD
         U1["活态第一人称区分：尚未分出审视者"]
         style U1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     end
-    U1 ==>|"执行客体化操作：确立审视焦点"| O1
+    U1 ==>|"施行客体化：确立审视焦点"| O1
     subgraph S_Split ["客体化割裂与寻觅困境"]
         direction TB
         style S_Split fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-        O1["观察者主体：退居仪器后方"]
-        O2["被观测客体：被审视的心理状态"]
-        O1 -.->|"启动寻找动作：拉开审视间距"| O2
-        O2 -.->|"反馈缺失体验：摩擦与徒劳追逐"| O1
+        O1["观察者主体：退居镜头后方"]
+        O2["被观察客体：被审视的心理内容"]
+        O1 -.->|"启动寻觅：拉开审视间距"| O2
+        O2 -.->|"越出自身那一步、被持守为穷尽：被排除的开放性登记为匮乏与徒劳追逐"| O1
         style O1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
         style O2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     end
 ```
 
-The split is not made once and handed down; every subsequent search makes it again. Outwardly the impossibility is plain: whatever is found there registers as an object within the field, and no object is the realization that registers it. Internally, when the self is transformed into an object to be inspected, optimized, and audited, reflective introspection duplicates the identical chasm within. Introspection is summoned to heal separation, yet its chosen instrument relies upon objectification. The harder the search presses, the wider the dualistic divide becomes, precluding unity between immediate awareness and inspected emotion. The difficulty felt in inner practice is the friction of attempting to weave cloth with scissors. How the objectifying posture treats a choice is traced in [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/): from inside, a choice is control; from outside, it is statistics; and taking the outer face as its definition is objectification.
+The split is not made once and handed down; every subsequent search makes it again. That generative bound hardens into the impasse of finding only at a second step, when the objectifying posture is held past its step as exhaustive of what is sought and asked to supply undivided realization as an item inside its own frame. Outwardly the impossibility is plain: whatever is found there registers as an object within the field, and no object is the realization that registers it. Internally, when the self is transformed into an object to be inspected, optimized, and audited, reflective introspection duplicates the identical chasm within. Introspection is summoned to heal separation, yet under that hold the openness excluded by the bound registers from inside as an unbridgeable lack. The harder the search presses, the wider the dualistic divide becomes, precluding unity between immediate awareness and inspected emotion. The difficulty felt in inner practice is the friction of attempting to weave cloth with scissors. How the objectifying posture treats a choice is traced in [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/): from inside, a choice is control; from outside, it is statistics; and taking the outer face as its definition is the same second step at the scale of choice, where the objectifying posture is read as the shape of what it inspects.
 
 ```mermaid
 graph TD
@@ -62,7 +62,7 @@ graph TD
         O1["Observer Subject: Retreated Behind the Lens"]
         O2["Observed Object: Inspected Mental Content"]
         O1 -.->|"Initiates Finding: Opening the Inspection Gap"| O2
-        O2 -.->|"Yields Lack: Friction and Futile Chase"| O1
+        O2 -.->|"Held Past Its Step as Exhaustive: Excluded Openness Registers as Lack and Futile Chase"| O1
         style O1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
         style O2 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     end
@@ -126,9 +126,9 @@ Demand that the coin prove it has two sides, and it keeps turning its other face
 
 自我区分的活动发生着，无因，不息。称之为心智：观察者早已在途中，每一次行动皆是一次区分。观察之所以发生，是因为这一活动是它的起始条件：进入视野的一切，从星系的运行轨迹到神经元的放电，都在其中登记。观察者开启了这一场景，便不能同时作为其中又一件物品登场。正如眼睛在看地平线时看不到自己的视网膜，手电筒照不亮镜头后方的电池，观察展开的瞬间，观察者便从可观察的视野中淡出；它隐退的是可见性，不是运作。正如[你的代码库即是记忆](../your-codebase-is-memory/)顺着层叠的数字遗迹所追溯的——代码、模型与智能体脚手架留存着过往切分的形态，发起区分的活动却始终立于整个技术栈之外——观察者既不是暂且采用、随后放下的视角设定，也不是储存在视野内部的某道更深层的痕迹；它是起始条件，不可还原。
 
-Self-distinguishing activity occurs, uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Observation occurs because that activity is its starting condition: everything that enters the field, from the trajectory of galaxies to the firing of neurons, registers within it. Because the observer opens the scene, it cannot also appear as one more item in it. As the eye does not see its own retina while seeing the horizon, and a flashlight does not light the battery behind its lens, the observer fades from the observable field the instant observation unfolds; it recedes from view, not from operation. Just as [Your Codebase Is Memory](../your-codebase-is-memory/) traces across stacked digital residues—where code, models, and agent scaffolds hold the shapes of prior cuts while the initiating activity stays outside the stack—the observer is not a framing held for a while and then set down, nor a deeper trace stored inside the field; it is the starting condition, and it does not reduce.
+Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Observation occurs because that activity is its starting condition: everything that enters the field, from the trajectory of galaxies to the firing of neurons, registers within it. Because the observer opens the scene, it cannot also appear as one more item in it. As the eye does not see its own retina while seeing the horizon, and a flashlight does not light the battery behind its lens, the observer fades from the observable field the instant observation unfolds; it recedes from view, not from operation. Just as [Your Codebase Is Memory](../your-codebase-is-memory/) traces across stacked digital residues—where code, models, and agent scaffolds hold the shapes of prior cuts while the initiating activity stays outside the stack—the observer is not a framing held for a while and then set down, nor a deeper trace stored inside the field; it is the starting condition, and it does not reduce.
 
-淡出不是消除，观察者也不是可有可无的装饰。还原论的说明走两条路：其一，把观察者当作可省略的冗余，构建一种无处之境，让实在在没有任何视角的情况下自我解释；其二，到被观察的数据之中搜寻观察者，搜寻不到，主观体验便成了这幅图景安放不下的剩余，即被命名为意识的难问题的那道缺口。两者都要求起始条件要么降格为被观察的客体，要么从自然的账簿上删去。一旦看清淡出是作为显现之基底的结果，在客体之中搜寻主体的冲动便停止，觉知也不再像游荡在物质中的幽灵。物理宇宙如何作为一种悬置观察者的抽象而运作，在《[因果的自反性与物理的无源假定](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/)》中已有剖析；《[意识的难题与学习相容](../the-hard-problem-of-consciousness-is-consistent-with-learning/)》则把被感到的那份难追溯到一个要求：让剩余的开放合上，而这份开放与学习相容；[框架的盲区](../the-blind-spot-of-the-frame/)则把方法上的退后与本体上的缺席之间的同一混淆，追溯为现代意志哲学困境的根源。
+淡出不是消除，观察者也不是可有可无的装饰。还原论的说明走两条路：其一，把观察者当作可省略的冗余，构建一种无处之境，让实在在没有任何视角的情况下自我解释；其二，到被观察的数据之中搜寻观察者，搜寻不到，主观体验便成了这幅图景安放不下的剩余，即被命名为意识的难问题的那道缺口。两者都要求起始条件要么降格为被观察的客体，要么从自然的账簿上删去。一旦看清淡出是作为显现之基底的结果，在客体之中搜寻主体的冲动便停止，觉知也不再像游荡在物质中的幽灵。物理宇宙如何作为一种悬置观察者的抽象而运作，在[因果的自反性与物理的无源假定](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/)中已有剖析；[意识的难题与学习相容](../the-hard-problem-of-consciousness-is-consistent-with-learning/)则把被感到的那份难追溯到一个要求：让剩余的开放合上，而这份开放与学习相容；[框架的盲区](../the-blind-spot-of-the-frame/)则把方法上的退后与本体上的缺席之间的同一混淆，追溯为现代意志哲学困境的根源。
 
 ```mermaid
 graph TD
@@ -152,11 +152,11 @@ graph TD
         R2 --> R3["淡出非消除：第一人称视界不可还原"]
         style R1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
         style R2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-        style R3 fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
+        style R3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     end
 ```
 
-Fading is not elimination, and the observer is not an optional ornament. Reductive accounts take two routes: treating the observer as dispensable, building a view from nowhere in which reality explains itself without any vantage; and searching for the observer among observed data, so that, when it is not found there, subjective experience is left over as what that picture cannot place, the gap named the Hard Problem of Consciousness. Both demand that the starting condition be demoted to an observed object or deleted from the ledger of nature. Once the fading is seen as the consequence of being the ground of appearance, the hunt for the subject among objects stops, and awareness no longer looks like a ghost haunting matter. How the physical universe works as an abstraction that suspends the observer is dissected in *[Causality Is Irreducible; the Physical Is a View from Nowhere](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/)*; *[The Hard Problem of Consciousness Is Consistent with Learning](../the-hard-problem-of-consciousness-is-consistent-with-learning/)* traces the felt hardness to the demand that a residual openness close, an openness that stays consistent with learning; [The Blind Spot of the Frame](../the-blind-spot-of-the-frame/) traces the same confusion between methodological withdrawal and ontological absence to the root of the modern dilemma of volition.
+Fading is not elimination, and the observer is not an optional ornament. Reductive accounts take two routes: treating the observer as dispensable, building a view from nowhere in which reality explains itself without any vantage; and searching for the observer among observed data, so that, when it is not found there, subjective experience is left over as what that picture cannot place, the gap named the Hard Problem of Consciousness. Both demand that the starting condition be demoted to an observed object or deleted from the ledger of nature. Once the fading is seen as the consequence of being the ground of appearance, the hunt for the subject among objects stops, and awareness no longer looks like a ghost haunting matter. How the physical universe works as an abstraction that suspends the observer is dissected in [Causality is Irreducible; The Physical is a View from Nowhere](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/); [The Hard Problem of Consciousness Is Consistent with Learning](../the-hard-problem-of-consciousness-is-consistent-with-learning/) traces the felt hardness to the demand that a residual openness close, an openness that stays consistent with learning; [The Blind Spot of the Frame](../the-blind-spot-of-the-frame/) traces the same confusion between methodological withdrawal and ontological absence to the root of the modern dilemma of volition.
 
 ```mermaid
 graph TD

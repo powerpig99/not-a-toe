@@ -54,9 +54,9 @@ Causality and logic are therefore inescapable: every shift of awareness, every d
 
 Once this structure is clear, the fixation on a first cause and an ultimate foundation shows its exact mechanism.
 
-急切地想要安装一块不可动摇的形而上学基石，正源于因果的形式证明永远无法在自身之上闭合。越是无法把那个先在条件当成诸客体中的一件经验客体钉死，理性便越是焦虑地竖起一座崇高、永恒、不容置疑的终极宝座来安放它。由于语言滞后于觉知，一个被保留到运作步之后的观念便会硬化为遮蔽移动边界的偶像，正如[破除概念的僭越](../po-chu-gai-nian-de-jian-yue/)所剖析的那样。
+因果的形式证明永远无法在自身之上闭合；当边界越出自身那一步而被持守时，这一无法闭合的余项便转化为安装一块不可动摇的形而上学基石的急迫诉求。在每一步，边界都围绕当下的区分合拢，同时对下一步改写自身的限度保持敞开；唯有当那道合拢的边界越出自身那一步、被持守为对心智的穷尽时，它所留在界外的开放性才会从内部登记为一处必须从外部补入的缺失地基，正如[观察、区分活动与心智的开放地基](../observation-distinguishing-activity-and-the-open-ground-of-mind/)所追溯的那样。在这一执持内部，越是无法把那个先在条件当成诸客体中的一件经验客体钉死，为了安放它而竖起的那座崇高、永恒、不容置疑的终极宝座便被抬得越高。由于语言滞后于觉知，一个被保留到运作步之后的观念便会硬化为遮蔽移动边界的偶像，正如[破除概念的僭越](../po-chu-gai-nian-de-jian-yue/)所剖析的那样。
 
-The urgency to install an unshakeable metaphysical bedrock arises precisely because a formal proof of causality can never close upon itself. The less that prior condition can be pinned down as an empirical object among objects, the more anxiously reason erects a lofty, eternal, unquestionable final seat to house it. Because language lags behind awareness, a concept preserved past its working step hardens into an idol that obscures the moving boundary, as [Breaking the Overreach of Concepts](../po-chu-gai-nian-de-jian-yue/) dissects.
+A formal proof of causality can never close upon itself, and that unclosed remainder turns into an urgency to install an unshakeable metaphysical bedrock when the boundary is held past its step. At each step, the boundary closes around the present distinction while remaining open to redrawing its limit at the next; only when that closed boundary is held past its step as exhaustive of the Mind does the openness it left out register from inside as a missing ground that must be supplied from outside, as [Observation, Distinguishing Activity, and the Open Ground of Mind](../observation-distinguishing-activity-and-the-open-ground-of-mind/) traces. Inside that hold, the less the prior condition can be pinned down as an empirical object among objects, the higher the lofty, eternal, unquestionable final seat raised to house it. Because language lags behind awareness, a concept preserved past its working step hardens into an idol that obscures the moving boundary, as [Breaking the Overreach of Concepts](../po-chu-gai-nian-de-jian-yue/) dissects.
 
 第一因与终极地基并非客观的发现，而是代偿性的投射，是用一座静态的纪念碑去顶替形式推演无法抵达的闭合的图像滞后。为无法证明的前提寻找终极命题或形而上学终点，只是同一份执念的又一次打转。[开放即一致](../openness-is-consistency/)揭示了这一确切机制：强迫一个有限的结构充当自足的终极地基，恰恰会制造出它原本想要防止的系统性不一致；而将结构保持为可修订的工具，则能让持续进行的区分保持一致。[为何数学永远解不完](../why-mathematics-can-never-be-solved/)在公理推演中追溯了同一道形式边界：任何丰富到足以折回自身的封闭系统，都会敞开为无法被证明的余项。把未知画成紧挨着当前知识圆圈之外的一块整齐、有界的圆盘，是假装从外部视角俯瞰边界，正是[“知道自己不知道”是一种修辞假象](../zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/)所消解的修辞障眼法。
 
@@ -68,25 +68,21 @@ flowchart TD
         E2["此刻的弹性边界（先于解释的摩擦与当下投射）"]
         E1 --> E2
     end
-
     subgraph S_Proj["语言与有限投射的滞后边界"]
         direction TB
         P1["条分缕析的语言与模型（落后前沿一步的压实残余）"]
         P2["有限框架的边界（容量有界下无损捕获失效）"]
         P1 --> P2
     end
-
     subgraph S_Resp["不可闭合边界处的两种回应"]
         direction TB
         R_Close["代偿性闭合（强立第一因、终极地基或第二重前沿）"]
         R_Open["开放的一致（从死锁投射退后一步以重新渲染前提）"]
         R_Close -.->|"层出不穷的矛盾显露"| R_Open
     end
-
     E2 ==>|"外化并滞后一步"| P1
     P2 ==>|"索求终极完结"| R_Close
     P2 ==>|"将摩擦登记为信号"| R_Open
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Resp fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -108,25 +104,21 @@ flowchart TD
         E2["Elastic Boundary of Now (Pre-Interpretive Friction and Present Projections)"]
         E1 --> E2
     end
-
     subgraph S_Proj["Lagging Boundary of Language and Finite Projections"]
         direction TB
         P1["Articulate Language and Models (Compressed Residue One Step Behind the Edge)"]
         P2["Boundary of Finite Framing (Lossless Capture Fails Under Bounded Capacity)"]
         P1 --> P2
     end
-
     subgraph S_Resp["Two Responses at the Unclosable Boundary"]
         direction TB
         R_Close["Compensatory Closure (Forcing a First Cause, Ultimate Ground, or Second Edge)"]
         R_Open["Open Consistency (Stepping Back from Deadlocked Projections to Re-Render the Premise)"]
         R_Close -.->|"Multiplying Contradictions Exposed"| R_Open
     end
-
     E2 ==>|"Externalizes and Lags One Step"| P1
     P2 ==>|"Demands Finality"| R_Close
     P2 ==>|"Registers Friction as Signal"| R_Open
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Resp fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7

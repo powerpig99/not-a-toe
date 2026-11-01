@@ -32,7 +32,6 @@ flowchart TD
         Drop --> Keep
         Drop --> Left
     end
-
     style S_Chooser fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Q fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style P fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -57,7 +56,6 @@ flowchart TD
         DropE --> KeepE
         DropE --> LeftE
     end
-
     style S_Chooser_EN fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style QE fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style PE fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -68,7 +66,7 @@ flowchart TD
 
 ## 二、 拿不掉的抉择 / 2. A Choice That Cannot Be Dropped
 
-把上面这段话交给一个语言模型，模型把它当作一个有待评估的主张来处理。这样处理也是一次抉择，作出它的是造出模型的有意识的生命，他们定下了目标、数据与评估的标准，模型没有作出它，[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)。使用者接受这个输出，输出就成了使用者自己的抉择；拒绝它、不理它、换一种问法再问，同样是抉择，后果也由使用者承担。
+把上面这段话交给一个语言模型，模型把它当作一个有待评估的主张来处理。这样处理也是一次抉择，作出它的是造出模型的有意识的生命，他们定下了模型的目标、数据与评估的标准；模型没有作出它，[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)。使用者接受这个输出，输出就成了使用者自己的抉择；拒绝它、不理它、换一种问法再问，同样是抉择，后果也由使用者承担。
 
 When the passage above is handed to a language model, the model handles it as a claim to be evaluated. Handling it so is also a choice, made by the conscious beings who built the model and set its objectives, its data and its standards of evaluation; the model does not make it, and [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/). A user who accepts the output has made it the user's own choice; rejecting it, ignoring it, or asking again in other words are choices as well, and their consequences fall to the user.
 
@@ -89,7 +87,6 @@ flowchart TD
         Deny --> Inst
         Inst -.->|"又一个实例"| User
     end
-
     style S_Irreducible fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Makers fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Out fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -115,7 +112,6 @@ flowchart TD
         DenyE --> InstE
         InstE -.->|"one more instance"| UserE
     end
-
     style S_Irreducible_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style MakersE fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style OutE fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -156,7 +152,6 @@ flowchart TD
         Gaze --> Slip
         Neutral --> Use
     end
-
     style S_Demand fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style Reached fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Neutral fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -184,7 +179,6 @@ flowchart TD
         GazeE --> SlipE
         NeutralE --> UseE
     end
-
     style S_Demand_EN fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style ReachedE fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style NeutralE fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -194,32 +188,31 @@ flowchart TD
     style UseE fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
-## 四、 不确定是确定论断的来源 / 4. Indeterminism Is the Source of Deterministic Claims
+## 四、 非决定论是决定论断言的来源 / 4. Indeterminism Is the Source of Deterministic Claims
 
-中立的立场把决定论与不确定论当作两个互相排斥的候选项，其中恰有一个为真。不确定论并不是确定论断的缺席，它是确定论断的来源。每一个确定论断都是被作出的：有人选定系统、变量与起点，断言一条规则。把两者当作互相排斥，正是决定论自身的局限：在一份决定论的叙述之内只有一个后继，它只能把自己的另一面安置成对手，容纳不了作出这份叙述的那个动作。确定性的模型照旧有用，预测、工程与检验都靠它；[确定性是微观不确定性的统计签名](../determinism-is-the-statistical-signature-of-micro-indeterminism/)从另一侧说明了宏观的规律怎样从大量个体的不可预测中显出。
+中立的立场把决定论与非决定论当作两个互相排斥的候选项，其中恰有一个为真。非决定论并不是决定论断言的缺席，它是这些断言的来源。每一个决定论断言都是被作出的：有人选定系统、变量与起点，断言一条规则。把两者当作互相排斥，正是决定论自身的局限：在一份决定论的叙述之内只有一个后继，这份叙述一旦被当成全体，就只能把自己的另一面安置成对手，容纳不了作出这份叙述的那个动作。确定性的模型照旧有用，预测、工程与检验都靠它；[确定性是微观不确定性的统计签名](../determinism-is-the-statistical-signature-of-micro-indeterminism/)从另一侧说明了宏观的规律怎样从大量个体的不可预测中显出。
 
-The neutral stance treats determinism and indeterminism as two mutually exclusive candidates of which exactly one is true. Indeterminism is not the absence of deterministic claims but the source of them. Every deterministic claim is issued: someone picks out a system, variables and a starting point, and asserts a rule. Treating the two as mutually exclusive is the very limitation of determinism: inside a deterministic account there is a single continuation, so the account can only place its other side as a rival and has no room for the act that issues the account. Deterministic models keep their use, and prediction, engineering and testing rely on them; [Determinism is the Statistical Signature of Micro-Indeterminism](../determinism-is-the-statistical-signature-of-micro-indeterminism/) shows from the other side how macroscopic regularity appears out of the unpredictability of many individuals.
+The neutral stance treats determinism and indeterminism as two mutually exclusive candidates of which exactly one is true. Indeterminism is not the absence of deterministic claims but the source of them. Every deterministic claim is issued: someone picks out a system, variables and a starting point, and asserts a rule. Treating the two as mutually exclusive is the very limitation of determinism: inside a deterministic account there is a single continuation, so the account, once taken as the whole, can only place its other side as a rival and has no room for the act that issues the account. Deterministic models keep their use, and prediction, engineering and testing rely on them; [Determinism is the Statistical Signature of Micro-Indeterminism](../determinism-is-the-statistical-signature-of-micro-indeterminism/) shows from the other side how macroscopic regularity appears out of the unpredictability of many individuals.
 
-“来源”这个词容易招来一幅图画：上游有一个固定的点，一条链上的第一环。这个来源不是决定论意义上的固定来源，它是作为持续动作的区分，是作出一个分布的能力：选这一样，选另一样，或者什么都不选。把它当成一个固定的来源，又是一个决定论的前提，因为这等于要求作出分布的能力自身已经被先于它的条件分布好了。
+“来源”这个词容易招来一幅图画：上游有一个固定的点，一条链上的第一环。这个来源不是决定论意义上的固定来源，它是作为持续动作的区分，是作出一个分布的能力：选这一样，选另一样，或者什么都不选。把它当成一个固定的来源，又是一个决定论的前提，因为这等于要求作出分布的能力自身已经被先于它的条件分布好了。正如[观察、区分活动与心智的开放地基](../observation-distinguishing-activity-and-the-open-ground-of-mind/)所追溯的，开放性在那无因的区分之内，而区分留在身后的东西按严格的因果次序从它而来。作出一个决定论断言，是在作出断言的那一步把这份开放性搁在一旁，好让单一的后继显现出来；只有当这份叙述越出那一步、被持守为全体时，被它搁在一旁的开放性才会从它内部显为一个互相排斥的候选项，或是显为一个还需要先在原因的上游点。
 
 ```mermaid
 flowchart TD
-    subgraph S_Source["不确定是确定论断的来源"]
+    subgraph S_Source["非决定论是决定论断言的来源"]
         direction TB
         Diff["持续的区分：作出分布的能力"]
-        Issue["作出一个论断：选定系统、变量与起点"]
-        Det["确定论断：从起点出发只有一个后继"]
+        Issue["作出一个断言：选定系统、变量与起点"]
+        Det["决定论断言：从起点出发只有一个后继"]
         Tool["模型的用处：预测、工程与检验"]
         Rival["把来源安置成互相排斥的对手"]
         Fixed["把来源当成上游的固定点"]
         Diff --> Issue
         Issue --> Det
         Det --> Tool
-        Det --> Rival
+        Det -->|"越出那一步被持守为全体"| Rival
         Rival --> Fixed
         Fixed -.->|"又一个决定论的前提"| Det
     end
-
     style S_Source fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style Diff fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Issue fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -229,7 +222,7 @@ flowchart TD
     style Fixed fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-The word "source" readily invites a picture: a fixed point upstream, the first link of a chain. The source is not a fixed source in the deterministic sense; it is the differentiating as ongoing action, the ability to make a distribution: one thing, another, or nothing at all. Treating it as a fixed source is again a deterministic premise, since it requires the ability to make a distribution to have itself been distributed already by conditions that precede it.
+The word "source" readily invites a picture: a fixed point upstream, the first link of a chain. The source is not a fixed source in the deterministic sense; it is the differentiating as ongoing action, the ability to make a distribution: one thing, another, or nothing at all. Treating it as a fixed source is again a deterministic premise, since it requires the ability to make a distribution to have itself been distributed already by conditions that precede it. As [Observation, Distinguishing Activity, and the Open Ground of Mind](../observation-distinguishing-activity-and-the-open-ground-of-mind/) traces, openness belongs inside that uncaused differentiating, while what it leaves behind follows from it in strict causal order. Issuing a deterministic claim sets that openness aside at the step of issuing, so that a single continuation can come into view; only when the account is held past that step as the whole does the openness it set aside appear from inside as a rival candidate, or as an upstream point in need of a prior cause.
 
 ```mermaid
 flowchart TD
@@ -244,11 +237,10 @@ flowchart TD
         DiffE --> IssueE
         IssueE --> DetE
         DetE --> ToolE
-        DetE --> RivalE
+        DetE -->|"held past its step as the whole"| RivalE
         RivalE --> FixedE
         FixedE -.->|"again a deterministic premise"| DetE
     end
-
     style S_Source_EN fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style DiffE fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style IssueE fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -260,7 +252,7 @@ flowchart TD
 
 ## 五、 停下来的是留下来的 / 5. What Stops Is What Is Left Behind
 
-那件“已完成、可以被固定”的事是从哪里来的？停下来的东西，是区分留在身后的东西。要查看一次抉择，就得把它当作一个结果放下来；结果之所以看得见，是因为区分已经往前去了。观察者迷失在自己的观察里：把留下的东西当作来源来交代，看不见停下、查看与交代都是区分的又一个实例。[凡可言说皆不可言说之产物](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/)、[残余与自由变量](../the-residue-and-the-free-variable/)与[你的代码库即是记忆](../your-codebase-is-memory/)追的是同一处：一切写下的记录或代码库都只是既成切分的外化记忆，而非写下下一行的那个活的抉择活动本身。
+那件“已完成、可以被固定”的事是从哪里来的？停下来的东西，是区分留在身后的东西。要查看一次抉择，就得把它当作一个结果放下来；结果之所以看得见，是因为区分已经往前去了。观察者迷失在自己的观察里：把留下的东西当作来源来交代，看不见停下、查看与交代都是区分的又一个实例。[凡可言说皆不可言说之产物](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/)与[残余与自由变量](../the-residue-and-the-free-variable/)追溯的是同一处，而[你的代码库即是记忆](../your-codebase-is-memory/)也说明了为什么哪怕是运转中的规则与代码库，也依然是既成切分的外化记忆：存在磁盘上的东西可以当作已完成的状态来检视，而修订或运行它的抉择早已走在前一步。
 
 Where does the thing that is "finished and could be fixed" come from? What stops is what the differentiating leaves behind. To look at a choice, it has to be set down as a result; the result can be seen because the differentiating has already moved on. The observer is lost in its own observation: it accounts for what was left behind as though that were the source, and does not see that the stopping, the looking and the accounting are further instances of the differentiating. [All That Can Be Spoken Is the Product of the Unspeakable](../all-that-can-be-spoken-is-the-product-of-the-unspeakable/) and [The Residue and the Free Variable](../the-residue-and-the-free-variable/) trace the same place, and [Your Codebase Is Memory](../your-codebase-is-memory/) shows why even an active repository of rules and code remains externalized memory of cuts already made: what is stored on disk can be inspected as a finished state, whereas the choosing that revises or runs it is already one step ahead.
 
@@ -287,7 +279,6 @@ flowchart TD
         Going --> Aware
         Stop -.->|"停下也是区分的一个实例"| Going
     end
-
     style S_Residue fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Going fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Stop fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -316,7 +307,6 @@ flowchart TD
         GoingE --> AwareE
         StopE -.->|"the stopping is one more instance of differentiating"| GoingE
     end
-
     style S_Residue_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style GoingE fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style StopE fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
