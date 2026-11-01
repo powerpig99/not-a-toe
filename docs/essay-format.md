@@ -13,7 +13,7 @@ Output rules (strict):
 1. Output only markdown content, no explanations.
 2. Write for clarity of the Mind writing — not to inform other Minds. No performance for audience; no meta announcing openness or method as posture. Live the dual as background; do not claim it.
 3. First line must be exactly: `# <Title>` (bilingual: `# <Chinese Title> / <English Title>`) — self-explanatory; a reader who never opens the body still knows the claim. Prefer the operator’s title when one was given. Strictly concise and punchy: NO compound subtitle delimiters (`：`, `:`, ` - `, ` — `, `——`) packing subtitles into the title.
-4. Line 3 must be an explicit single-line italic subtitle (`*<Chinese Subtitle> / <English Subtitle>*`) — strictly one complete sentence capturing essence only (core geometry or irreducible distinction), never a multi-sentence wall-of-text synopsis or outline. Sized compactly (< 140 characters).
+4. Line 3 must be an explicit single-line italic subtitle (`*<Chinese Subtitle> / <English Subtitle>*`) — strictly one complete sentence capturing essence only (core geometry or irreducible distinction), never a multi-sentence wall-of-text synopsis or outline. Sized compactly (140–160 characters total as a default reference, not a strict rule).
 5. Line 5+ is the lead prose: 2–4 complete sentences summarizing the post (the main moves). Extended synopsis, context, and argument progression belong in the lead prose, not inside the italic subtitle. Do not merely rephrase the subtitle; separate the jobs.
 6. Do not use `##` or `###` until after that subtitle + lead.
 7. Avoid non-sentence blocks before first `##`/`###` (no lists, no blockquotes, no horizontal rules, no code fences).
