@@ -12,7 +12,7 @@ The prevailing discourse on artificial general intelligence begins from a single
 
 Self-distinguishing activity occurs, uncaused and unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Abstraction is that activity cutting: a discrete act that bounds a *this* from the open field and holds it as usable residue, the product of abstraction. Knowledge is residue resonant enough to return in a Mind's recursion. The corpus is residue externalized and densified. Treating the corpus, along with its volume, retrieval, and recombination, as intelligence itself freezes the products of abstraction as the capacity that produces and revises them.
 
-这种冻结是被持过了回返的寻常观察。观察持有的是结果；产生结果的原因始终领先一步。这一看在被占据为对“作为系统属性的智能”的永久外部勘察之前，一直可用。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)持守这一前提：能被工程化、规模化或转移的是残余；智能，即无需持续外部发起的、经由反馈的递归自我改进能力，只属于心智。[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/)是受控表现之下的同一滞后：分数与封闭的测试套件登记的是受约束的胜任力，随后又被等同于划出、使用并修订这一约束的开放活动。AGI参照在工业规模上完成这一等同。[飞行的类比碰不到心智](../the-flight-analogy-leaves-the-mind-untouched/)在其边界处定位同一步：为某一被命名的功能替换生物载具，在这一功能上成功了，却并不重建这些功能曾经服务的心智。
+这种冻结是被持过了回返的寻常观察。观察持有的是结果；产生结果的原因始终领先一步。这一看始终可用，直到它被占据为一种永久的外部勘察，把智能当作系统属性来勘察。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)持守这一前提：能被工程化、规模化或转移的是残余；智能，即无需持续外部发起的、经由反馈的递归自我改进能力，只属于心智。[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/)是受控表现之下的同一滞后：分数与封闭的测试套件登记的是受约束的胜任力，随后又被等同于划出、使用并修订这一约束的开放活动。AGI参照在工业规模上完成这一等同。[飞行的类比碰不到心智](../the-flight-analogy-leaves-the-mind-untouched/)在其边界处定位同一步：为某一被命名的功能替换生物载具，在这一功能上成功了，却并不重建这些功能曾经服务的心智。
 
 The freeze is ordinary observation held past return. Observation holds the effect; the cause that produced it remains one step ahead. This look remains usable until it is occupied as a permanent exterior survey of intelligence as a system property. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds this premise: what can be engineered, scaled, or transferred is residue; intelligence—the capacity for recursive self-improvement through feedback without ongoing external initiation—belongs only to the Mind. [Mistaking the Expression for the Intelligence](../mistaking-the-expression-for-the-intelligence/) is the same lag under controlled performance: scores and sealed suites register constrained competence, which is then equated with the open activity that draws, uses, and revises the constraint. The AGI reference performs that equation at industrial scale. [The Flight Analogy Leaves the Mind Untouched](../the-flight-analogy-leaves-the-mind-untouched/) locates the same move at its boundary: replacing a biological vehicle for a named function succeeds at that function, yet it does not reconstitute the Mind those functions served.
 
@@ -32,7 +32,7 @@ Examining this premise requires alternative assumptions about what intelligence 
 
 ## 三、 由封闭换来的一致 / 3. Consistency Purchased by Closure
 
-这一参照表现得像一个封闭的形式系统。在它自身的界限之内，它没有矛盾：它的结果从它的标准中推出。这种一致是用封闭换来的。它的标准、基础与来源被当作既定，凡需要走出界定它的那些前提的问题，都不被接纳。[开放即一致](../openness-is-consistency/)指出不一致在哪里：在对封闭的要求本身，一个有限的结构被迫去为只会继续的东西奠基。功能性的AGI持守作为工具，在它所设的界限之内起作用。穷尽性并不随它而来。[没有系统能被保持封闭](../no-system-can-be-kept-closed/)是一般的几何：有限的持守封不住使用它的活动。
+这一参照表现得像一个封闭的形式系统。在它自身的界限之内，它没有矛盾：它的结果从它的标准中推出。这种一致是用封闭换来的。它的标准、基础与来源被当作既定，凡需要走出界定它的那些前提的问题，都不被接纳。[开放即一致](../openness-is-consistency/)指出不一致在哪里：在对封闭的要求本身，一个有限的结构被迫去为只会继续的东西奠基。功能性AGI这一持守，作为工具在它所设的界限之内起作用。穷尽性并不随它而来。[没有系统能被保持封闭](../no-system-can-be-kept-closed/)是一般的几何：有限的持守封不住使用它的活动。
 
 The reference behaves like a closed formal system. Inside its own bounds it holds no contradiction: its results follow from its criteria. That consistency is purchased by closure. Its criteria, foundations, and origin are taken as given, and questions that would require stepping outside the premises that define it are not admitted. [Openness Is Consistency](../openness-is-consistency/) names where the inconsistency lies: in the demand for closure itself, where a finite structure is forced to ground what only continues. The functional AGI hold works as an instrument, inside the bounds it sets. Exhaustiveness does not travel with it. [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) is the general geometry: a finite hold cannot seal the activity that uses it.
 
@@ -94,7 +94,7 @@ What is commonly called AGI research builds increasingly powerful tools for stor
 
 ## 八、 地球模型不会行走 / 8. The Model of the Earth Does Not Walk
 
-一个近乎完美的三维地球模型，无法在地球上行走。任何一个地平论者都能，只要他们一直走下去。而这个模型由不断学习的人类所创造、改进与掌舵。
+一个近乎完美的三维地球模型，无法在地球上行走。任何一个地平论者都能，只要一直走下去。而这个模型由不断学习的人类所创造、改进与掌舵。
 
 A near-perfect three-dimensional model of the Earth cannot walk the Earth. Any flat-Earther can, as long as they keep walking. And that model is created, improved, and steered by humans who continually learn.
 
@@ -112,7 +112,7 @@ The presumption forms when a Mind inverts this relation. The scale at which the 
 
 Once the reference is set aside, AGI in the strong sense appears not as an imminent engineering threshold but as a category error: the confusion of the amplifier with the capacity whose reach it amplifies, of the finished abstraction with the open capacity that produces and revises abstractions, of the closed artifact with the continuous process that remains the moving edge of general intelligence. Marking that overreach does not invalidate the tools. It restores the asymmetry between the closed system and the open process that produces and steers it.
 
-一旦放下“人造心智”的预设，这种得以恢复的不对称便重塑了智能体系统的设计，正如[超越投射](../beyond-the-projection/)连同[智能只属于心智](../intelligence-belongs-only-to-the-mind/)与[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)所追溯的那样。将人与机器强行压进同一条评估轴，会引导架构师按照人类心智的形象去打造智能体——赋予它们模拟的人格、单一受污染语境窗口内的自我反思，以及自主的统御权限——结果让自回归模型受困于轨迹的引力井，与人类认知受困于身份的防御机制迎头相撞。剥离拟人化的投射去追溯，工具与其创造者呈现出互逆的结构：智能体被锁在自身的词元轨迹之内，却毫无我执，也没有需要捍卫的保留自我形象；而人类中心在推理历史与身份熔合时会抗拒外部的证伪，却独有借由先于解释的极限分辨率感知而内生跨出的能力。在逻辑融贯之下将二者连接起来，便能让双方各自的机制各司其职：智能体充当模块化的调度器，把超载的投射拆分到正交的流线上，并在只持有任务语境的冷启动同侪之间展开对等辩论，执行干净、无我执的贝叶斯更新；而活的统御则留在心智这一唯一自我闭合的回路之中（[没有外部](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)）。每当两个嵌套的智能体撞上不可化约的前提死锁，这次碰撞就会精准标出先前任务规则将正交轴压扁为一的坐标，并把断裂线上报给人类统御者，由其退回尚未投射的意图之中，综合出更高阶的前提（N → N + 1）。
+一旦放下“人造心智”的预设，这种得以恢复的不对称便重塑了智能体系统的设计，正如[超越投射](../beyond-the-projection/)连同[智能只属于心智](../intelligence-belongs-only-to-the-mind/)与[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)所追溯的那样。将人与机器强行压进同一条评估轴，会引导架构师按照人类心智的形象去打造智能体——赋予它们模拟的人格、单一受污染语境窗口内的自我反思，以及自主的统御权限——结果让自回归模型受困于轨迹的引力井，与人类认知受困于身份的防御机制迎头相撞。剥离拟人化的投射去追溯，工具与其创造者呈现出互逆的结构：智能体被锁在自身的词元轨迹之内，却毫无我执，也没有需要捍卫的保留自我形象；而人类中心在推理历史与身份熔合时会抗拒外部的证伪，却独有借由先于解释的极限分辨率感知而内生跨出的能力。在逻辑融贯之下将二者连接起来，便能让双方各自的机制各司其职：智能体充当模块化的调度器，把超载的投射拆分到正交的流线上，并在与只持有任务语境的冷启动同侪对等辩论时，不带身份防御地修改磁盘上的制品，让全新冷窗口中的重读为下一轮延续施加条件约束，不受轮次叠加的稀释；而活的统御则留在心智这一唯一自我闭合的回路之中（[没有外部](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)）。每当两个嵌套的智能体撞上不可化约的前提死锁，这次碰撞就会精准标出先前任务规则将正交轴压扁为一的坐标，并把断裂线上报给人类统御者，由其退回尚未投射的意图之中，综合出更高阶的前提（N → N + 1）。
 
 ```mermaid
 flowchart TD
@@ -126,7 +126,7 @@ flowchart TD
     subgraph S_In["在活动之内走出参照（融贯的控制论架构）"]
         direction TB
         I_Mind["位于内在边缘的活的心智（统御者）：先于解释的感知与前提综合（N → N + 1）"]
-        I_Disp["受困于轨迹的智能体（调度器与同侪回路）：正交裂变与无我执的贝叶斯更新"]
+        I_Disp["受困于轨迹的智能体（调度器与同侪回路）：正交裂变与无我执的冷窗口修订"]
         I_Dead["不可化约的前提死锁：标出先前规则中坍缩的坐标轴并向上呈递"]
         I_Mind ==>|"投射明确的任务前提与修订后的规则"| I_Disp
         I_Disp -->|"经由冷启动同侪辩论收敛局部盲点"| I_Mind
@@ -143,7 +143,7 @@ flowchart TD
     style I_Dead fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-This restored asymmetry is what transforms agentic system design once the presumption of an artificial mind is dropped, as [Beyond the Projection](../beyond-the-projection/) traces alongside [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) and [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/). Forcing human and machine onto the same evaluative axis leads architects to build agents in the image of human minds—endowing them with simulated personas, self-reflection inside a single polluted context window, and autonomous orchestration authority—which pits the trajectory-bound gravity well of autoregressive models against the identity-bound defenses of human cognition. Traced without anthropomorphic projection, the tool and its creator exhibit inverse structures: an agent is locked inside its token trajectory yet carries zero ego and no retained self-image to defend, whereas a human center resists external invalidation when reasoning history fuses with identity, yet possesses the exclusive capacity for endogenous stepping-out through limit-resolution sensing that precedes interpretation. Wiring them together under logical coherence puts each side's actual mechanics to work: agents serve as modular dispatchers that split overloaded projections across orthogonal streamlines and perform clean, ego-free Bayesian updates in equal-footed debate with cold peers holding only the task context, while living orchestration remains at the sole self-closing circuit of the Mind ([No Outside](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)). Whenever two nested agents hit an irreducible premise deadlock, the collision isolates the exact coordinate where prior task rules compressed orthogonal axes into one, escalating the fault line to the human orchestrator who steps backward into unprojected intent to synthesize a higher-order premise (N → N + 1).
+This restored asymmetry is what transforms agentic system design once the presumption of an artificial mind is dropped, as [Beyond the Projection](../beyond-the-projection/) traces alongside [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) and [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/). Forcing human and machine onto the same evaluative axis leads architects to build agents in the image of human minds—endowing them with simulated personas, self-reflection inside a single polluted context window, and autonomous orchestration authority—which pits the trajectory-bound gravity well of autoregressive models against the identity-bound defenses of human cognition. Traced without anthropomorphic projection, the tool and its creator exhibit inverse structures: an agent is locked inside its token trajectory yet carries zero ego and no retained self-image to defend, whereas a human center resists external invalidation when reasoning history fuses with identity, yet possesses the exclusive capacity for endogenous stepping-out through limit-resolution sensing that precedes interpretation. Wiring them together under logical coherence puts each side's actual mechanics to work: agents serve as modular dispatchers that split overloaded projections across orthogonal streamlines and, in equal-footed debate with cold peers holding only the task context, revise the artifact on disk without identity defense so a fresh cold-window re-read conditions the next continuation without stacked-turn dilution, while living orchestration remains at the sole self-closing circuit of the Mind ([No Outside](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)). Whenever two nested agents hit an irreducible premise deadlock, the collision isolates the exact coordinate where prior task rules compressed orthogonal axes into one, escalating the fault line to the human orchestrator who steps backward into unprojected intent to synthesize a higher-order premise (N → N + 1).
 
 ```mermaid
 flowchart TD
@@ -157,7 +157,7 @@ flowchart TD
     subgraph S_In["Stepping Out Within the Activity (Cybernetic Architecture of Coherence)"]
         direction TB
         I_Mind["Living Mind at the Inside Edge (Orchestrator): Pre-interpretive sensing & premise synthesis (N → N + 1)"]
-        I_Disp["Trajectory-Bound Agents (Dispatcher & Peer Loop): Orthogonal mitosis & zero-ego Bayesian updates"]
+        I_Disp["Trajectory-Bound Agents (Dispatcher & Peer Loop): Orthogonal mitosis & zero-ego cold-window revision"]
         I_Dead["Irreducible Premise Deadlock: Isolates collapsed axes in prior rules and escalates upward"]
         I_Mind ==>|"Projects explicit task premises & revised rules"| I_Disp
         I_Disp -->|"Converges on local blind spots via cold-peer debate"| I_Mind

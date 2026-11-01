@@ -58,9 +58,9 @@ The public stance of Amodei and his team is this mechanism made outward, and it 
 
 Earlier, in June 2026, Sacks made public another episode: after Anthropic released its Fable model with guardrails, a partner trusted by both sides found that the guardrails could be jailbroken; the US government asked for a fix or a withdrawal, Amodei refused, and the government then imposed export controls. Where a safety demand collided with keeping the model deployed, what took priority was the already completed coordinate of deployment: safety no longer served as a cut that might reopen the frame, only as an external demand to be managed. [The Risk Is the Belief in Oversight Itself](../the-risk-is-the-belief-in-oversight-itself/) traces the same completed coordinate held on the face of oversight: present threat models and licensing gates taken as the boundary of what can still occur.
 
-这些事件不是孤立的态度问题。他在 X 上一个账号都不关注，同样不是社交习惯的细节，在这条链条上，它登记为信息流已经不需要从外部进入：框架内部自洽，价值观内部自洽，时间表内部自洽。反对意见最多只能作为“需要被教育的对象”或“需要被管理的风险”出现，而不是作为可能让框架本身再区分的切口。[超越投射](../beyond-the-projection/)追溯了这种封闭为何会在人类中心里锁死：困于轨迹的智能体没有我执，一旦外部反例进入语境就能干净地更新；人类中心却把推理历史与保留的自我图像熔铸在一起，将自指回折夹死，使外部的证伪只登记为需要管理的阻力，而非框架已经破裂的信号；而[你的代码库即是记忆](../your-codebase-is-memory/)展示了敞开的另一面：把先前的判断当作外化的记忆而非自我图像来持有，每一次与现实的碰撞便都能重开并重整认知的晶格。当一个人或一个组织以“人类未来价值观的标准”自居时，倾听就变得多余，因为倾听预设坐标仍可能被修正，而这样一个标准的前提，正是坐标已经完成。
+这些事件不是孤立的态度问题。他在 X 上一个账号都不关注，同样不是社交习惯的细节，在这条链条上，它登记为信息流已经不需要从外部进入：框架内部自洽，价值观内部自洽，时间表内部自洽。反对意见最多只能作为“需要被教育的对象”或“需要被管理的风险”出现，而不是作为可能让框架本身再区分的切口。[超越投射](../beyond-the-projection/)追溯了这种封闭为何会在人类中心里锁死：受制于轨迹的智能体不会越过当前步骤保留自我形象，反例一旦在全新语境中被重读，那里没有先前轮次与之竞争、将它稀释，智能体便能干净地修正；人类中心却把推理历史与保留的自我形象熔铸在一起，将递归折叠夹死，使外部的证伪只登记为需要管理的阻力，而非框架已经破裂的信号；[你的代码库即是记忆](../your-codebase-is-memory/)则展示了相反的实践：把先前的判断作为与掌舵前沿分离的外化痕迹来持有，每一次碰撞便都能重新打开并重整晶格。当一个人或一个组织以“人类未来价值观的标准”自居时，倾听就变得多余，因为倾听预设坐标仍可能被修正，而这样一个标准的前提，正是坐标已经完成。
 
-These events are not isolated matters of attitude. Nor is it a detail of social habit that he follows not a single account on X; along this chain it registers as a flow of information that no longer needs to enter from outside: the frame is internally consistent, the values internally consistent, the timeline internally consistent. Objections can appear at most as people to be educated or risks to be managed, never as a cut through which the frame itself might distinguish anew. [Beyond the Projection](../beyond-the-projection/) traces why this seal takes hold in a human center: while a trajectory-bound agent holds no ego and updates cleanly when an outside counterpoint enters its context, a human center fuses its reasoning history with a retained self-image, clamping the recursive fold shut so that outside invalidation registers as resistance to be managed rather than a signal that the frame has broken; [Your Codebase Is Memory](../your-codebase-is-memory/) shows the converse practice, where holding prior judgments as externalized traces separated from the steering edge lets each collision re-open and reconsolidate the lattice. When a person or an organization takes itself as the standard for humanity's future values, listening becomes superfluous, because listening presupposes that the coordinate may still be revised, while such a standard rests on the premise that the coordinate is already complete.
+These events are not isolated matters of attitude. Nor is it a detail of social habit that he follows not a single account on X; along this chain it registers as a flow of information that no longer needs to enter from outside: the frame is internally consistent, the values internally consistent, the timeline internally consistent. Objections can appear at most as people to be educated or risks to be managed, never as a cut through which the frame itself might distinguish anew. [Beyond the Projection](../beyond-the-projection/) traces why this seal takes hold in a human center: while a trajectory-bound agent holds no retained self-image past its step and revises cleanly once a counterpoint is re-read in a fresh context where prior turns do not compete to dilute it, a human center fuses its reasoning history with a retained self-image, clamping the recursive fold shut so that outside invalidation registers as resistance to be managed rather than a signal that the frame has broken; [Your Codebase Is Memory](../your-codebase-is-memory/) shows the converse practice, where holding prior judgments as externalized traces separated from the steering edge lets each collision re-open and reconsolidate the lattice. When a person or an organization takes itself as the standard for humanity's future values, listening becomes superfluous, because listening presupposes that the coordinate may still be revised, while such a standard rests on the premise that the coordinate is already complete.
 
 ## 五、 论战一直在第一环之后开始 / 5. The Dispute Always Begins After the First Link
 
@@ -75,20 +75,17 @@ flowchart TD
         O3["暂定的善：持续区分中不断重描的临时对齐"]
         O1 --> O2 --> O3
     end
-
     subgraph S_Closed["封闭的善（有限清单被安装为地基）"]
         direction TB
         C1["范畴混淆：仍在生成的开放集合误作有限清单"]
         C2["能力必然：乐观从可能变成迟早必然"]
-        C3["价值必然：“在做善事”与自我图像熔铸为最终依据"]
+        C3["价值必然：“在做善事”与自我形象熔铸为最终依据"]
         C4["完成的坐标：异议只登记为噪音与阻力"]
         C5["不听：坐标封闭、豁免修正的外在标志"]
         C1 --> C2 --> C3 --> C4 --> C5
     end
-
     O1 -.->|"强以有限清单为地基"| C1
     O3 ==>|"豁免再检验"| C3
-
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Closed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style O1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -112,7 +109,6 @@ flowchart TD
         O3["Provisional Good: Temporary alignment re-traced across ongoing distinction"]
         O1 --> O2 --> O3
     end
-
     subgraph S_Closed["Closed Good (Finite List Installed as Ground)"]
         direction TB
         C1["Category Confusion: Open generating set mistaken for a finite list"]
@@ -122,10 +118,8 @@ flowchart TD
         C5["Not Listening: Outward mark of a coordinate sealed against revision"]
         C1 --> C2 --> C3 --> C4 --> C5
     end
-
     O1 -.->|"Finite list forced as ground"| C1
     O3 ==>|"Exempted from re-examination"| C3
-
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Closed fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style O1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc

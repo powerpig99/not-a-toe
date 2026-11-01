@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-01T21:13:12.388Z",
+    "generated_at": "2026-11-01T23:38:20.121Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -16,13 +16,13 @@
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "bab69d7970fb",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "5928998f445d",
       "content/posts/agency-and-the-pattern.md": "30029fcafb4b",
-      "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "efeb328b4af9",
+      "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "8f762a579fc0",
       "content/posts/agency-contradiction-and-the-relocation-of-power.md": "275043c4033b",
       "content/posts/agency-does-not-arise.md": "2064c3c57645",
       "content/posts/agency-relocated-into-the-formal-model.md": "3e1fa31e14a3",
       "content/posts/agents_leia_ontological_clarity.md": "332a8919b1e7",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "4d7f22ced380",
-      "content/posts/ai-as-augmentation.md": "f0a8c8f069ef",
+      "content/posts/ai-as-augmentation.md": "b7e862c5142e",
       "content/posts/ai-wont-kill-software-engineering.md": "cc0137e82426",
       "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "2217ee5fe5b3",
       "content/posts/amplification-paradox.md": "a275c141a687",
@@ -30,7 +30,7 @@
       "content/posts/better-than-free-after-the-checklist-closes.md": "d39b1b10df08",
       "content/posts/beyond-the-hundred-trillion-horizon.md": "3c63e3e17823",
       "content/posts/beyond-the-projection.md": "78576807063b",
-      "content/posts/boletus-compute-storm-and-promethean-fire.md": "a069dfae4348",
+      "content/posts/boletus-compute-storm-and-promethean-fire.md": "db1b5db3be64",
       "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md": "3cfbe8163219",
       "content/posts/causality-all-the-way.md": "08a8a20f59ec",
       "content/posts/causality-and-the-irreducible-prior.md": "c26acfab7c66",
@@ -42,7 +42,7 @@
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "fb97717b90f9",
       "content/posts/claudes-constitution-analysis.md": "58bd3d6c3edb",
       "content/posts/cli-interface-stack.md": "8ce49c41c258",
-      "content/posts/climbing-does-not-leave-the-ground.md": "15acabf3533a",
+      "content/posts/climbing-does-not-leave-the-ground.md": "a0be7e00b7db",
       "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "49aeca1cd3f8",
       "content/posts/closed-reality-in-benchmark-maxing.md": "574180584456",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "fc0b4da31c80",
@@ -55,8 +55,8 @@
       "content/posts/consciousness-never-appears-as-data-among-data.md": "90174c081cd1",
       "content/posts/constraints_are_ground.md": "578ff2fd47b5",
       "content/posts/context-engineering-essay.md": "578b60e7f9d2",
-      "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "8c87c3dfef55",
-      "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "a5fb001040ed",
+      "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "2a1afbcd283a",
+      "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "6b2b7b30fcb5",
       "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "1f0177f4d89e",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "de3299fb5449",
       "content/posts/curiosity-has-no-final-form.md": "100335def2de",
@@ -69,7 +69,7 @@
       "content/posts/distillation-compression-agency.md": "a69508711063",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "b64fa4420bd4",
       "content/posts/dynamic-resnet-of-skill-loops.md": "393401cefcd6",
-      "content/posts/e-shi-feng-bi-de-shan.md": "506d716b1645",
+      "content/posts/e-shi-feng-bi-de-shan.md": "088dfadee5ac",
       "content/posts/efficiency-without-differentiation.md": "3240d0296338",
       "content/posts/emotional-support-as-causal-interference.md": "37673ac9a9a2",
       "content/posts/empathy-as-projection-collapse.md": "5cbf1eab5d16",
@@ -79,11 +79,11 @@
       "content/posts/evil-as-projected-resistance.md": "d0174318bc94",
       "content/posts/evil-as-the-minds-own-creation.md": "b0b74bc7b0b2",
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "cb3ba6791a63",
-      "content/posts/expertise-as-reference-not-replacement.md": "c28dea661152",
+      "content/posts/expertise-as-reference-not-replacement.md": "bc7d7364b559",
       "content/posts/extended-cognition-refined.md": "f8c078179a21",
       "content/posts/extension-and-shift.md": "5ab404bbbd72",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "a0c1f4787547",
-      "content/posts/failure-as-information.md": "98ca1f79bd34",
+      "content/posts/failure-as-information.md": "11a236cd7faa",
       "content/posts/fate-loves-irony-refined.md": "4173eb2feff2",
       "content/posts/felt-resistance-and-the-speed-differential.md": "7c688ab6bc0e",
       "content/posts/fidelity-not-optimality.md": "75472e76cc04",
@@ -106,7 +106,7 @@
       "content/posts/having-more-is-never-the-cause.md": "fff7b1e393f6",
       "content/posts/help-is-half-the-problem.md": "97a704e39527",
       "content/posts/hierarchy-from-individual-difference.md": "0f3577a77027",
-      "content/posts/how-belief-actually-changes.md": "e023849871b3",
+      "content/posts/how-belief-actually-changes.md": "9884e1db8670",
       "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "7dae52a183f2",
       "content/posts/huberman-winners-losers.md": "52edd6aa4959",
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "2740c5400321",
@@ -120,7 +120,7 @@
       "content/posts/judgment-is-not-a-stock.md": "9526af861c78",
       "content/posts/learned-boundaries-and-the-given-rate.md": "f0abccb5b5f6",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "b5bfd1bca0dc",
-      "content/posts/looping-and-graphing.md": "bef495bf273e",
+      "content/posts/looping-and-graphing.md": "0eb59f1b7f4a",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "a8708cb60725",
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "ed8ae49b479f",
       "content/posts/machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence.md": "d69fda835993",
@@ -131,7 +131,7 @@
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "e3ccbf6f3f50",
       "content/posts/minimizing-path.md": "d8c94ee78341",
       "content/posts/mises-state-analysis.md": "fe24d656c147",
-      "content/posts/mistaking-the-expression-for-the-intelligence.md": "775b85adfbd2",
+      "content/posts/mistaking-the-expression-for-the-intelligence.md": "cd7f0e87bc8e",
       "content/posts/moral-language-as-projection.md": "06388db8d0ab",
       "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "116d97ed1a9a",
       "content/posts/munger-dumb-competition-refined.md": "b8ee8259c34d",
@@ -139,7 +139,7 @@
       "content/posts/naval-separation-analysis.md": "31aba4991f14",
       "content/posts/no-genius-can-solve-the-knowledge-problem.md": "2b3ff94ab2fa",
       "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "6cca4707b0cc",
-      "content/posts/no-outside-scorekeeper.md": "6d9499826830",
+      "content/posts/no-outside-scorekeeper.md": "83a5ac5f437e",
       "content/posts/no-system-can-be-kept-closed.md": "3af239cb12ec",
       "content/posts/nobody-has-seen-anything-yet.md": "2b871aa62082",
       "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md": "9a865742b9bb",
@@ -154,21 +154,21 @@
       "content/posts/on-the-boundaries-of-what-can-be-said-about-p-and-np.md": "20b6babdc81e",
       "content/posts/one-cannot-escape-ones-own-mind.md": "474dad0e12f2",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "b68e2cc6fd51",
-      "content/posts/only-if-it-is-not-kept-empty.md": "8a7d37076291",
+      "content/posts/only-if-it-is-not-kept-empty.md": "61d9b751aefb",
       "content/posts/ontos-is-a-method-agent.md": "fac9577215c2",
-      "content/posts/open-vision-in-a-closed-arena.md": "a0adc61c2962",
+      "content/posts/open-vision-in-a-closed-arena.md": "dd25ac857ba3",
       "content/posts/openness-is-consistency.md": "75d18ddf339d",
       "content/posts/order-surplus-and-the-moral-intercept.md": "2c05f2c13447",
       "content/posts/overfitting-as-the-follower-mode.md": "91e87126c0bd",
-      "content/posts/ownership-and-self-worthiness.md": "42b49caaa531",
+      "content/posts/ownership-and-self-worthiness.md": "00d4677b2544",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "19deef69b9d1",
       "content/posts/perception-perspective-refined.md": "d9484330c5b9",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "c97351228409",
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "aa49b94c3914",
       "content/posts/platform-decision-capture.md": "c1ce0036119a",
-      "content/posts/po-chu-gai-nian-de-jian-yue.md": "9e0e605cb8a2",
+      "content/posts/po-chu-gai-nian-de-jian-yue.md": "8aa64948ce76",
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "028a28b54a32",
-      "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "dcb6aecf6e19",
+      "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "ef9ddfa2ce57",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "4f2725e3fcd4",
       "content/posts/precision-and-resolution.md": "79dc0ad73381",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "b11dea0379ff",
@@ -188,14 +188,14 @@
       "content/posts/scaffolds-or-specialized-contexts.md": "ff1d8c730144",
       "content/posts/school_essay_final.md": "f18cabb10f9c",
       "content/posts/selection-contradiction-and-open-reality.md": "215cb759f7ef",
-      "content/posts/self-image-speaks-as-if-from-nowhere.md": "689a012a58a8",
+      "content/posts/self-image-speaks-as-if-from-nowhere.md": "823bf243373a",
       "content/posts/self-rl-for-humans.md": "fd8631ed95fd",
       "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "5bdf03fd7397",
       "content/posts/sensing-before-interpretation.md": "e85a0b081114",
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "effb27d0037a",
       "content/posts/shared-humanity-is-never-shared.md": "667dd03af694",
       "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "95b8cde4e1e7",
-      "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "8fc143a28f49",
+      "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "624819801b58",
       "content/posts/simplicity-ultimate-sophistication.md": "9039597a8e48",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "9d04c6b1c923",
       "content/posts/sovereignty-essay.md": "94143b619076",
@@ -207,12 +207,12 @@
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "463e396e6297",
       "content/posts/technology-is-residual-of-human-compounding.md": "4ac742fad799",
       "content/posts/the-aesthetic-escalator-and-the-melancholy-of-the-balcony.md": "8c529cbcbda1",
-      "content/posts/the-allocation-of-causal-power-in-validation.md": "0c38e61f52ed",
+      "content/posts/the-allocation-of-causal-power-in-validation.md": "ad645bf4726f",
       "content/posts/the-arithmetic-of-the-register.md": "79fa3c7d032d",
-      "content/posts/the-artifacts-of-self-amplification.md": "6008cccb3b80",
+      "content/posts/the-artifacts-of-self-amplification.md": "92ff2ec8732a",
       "content/posts/the-asymmetry-of-understanding.md": "62d1edf084fd",
       "content/posts/the-average-is-residue-not-the-engine.md": "e0898b0230c6",
-      "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md": "116be6ffa381",
+      "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md": "7cf26b26a758",
       "content/posts/the-bank-shot-and-the-magic-trick.md": "fc402ee12141",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "d76114e1c2e4",
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "181a1e9ba371",
@@ -223,10 +223,10 @@
       "content/posts/the-brain-does-not-backprop.md": "b59318a8403b",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "a8a4ce29b72b",
       "content/posts/the-carry-that-cannot-be-named-inside-the-register.md": "042276f47daa",
-      "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "85a75f91e6a5",
+      "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "00c2640fef3e",
       "content/posts/the-category-error-of-better.md": "660a139ab112",
       "content/posts/the-causal-inversion-of-partnership.md": "893fa06d74ab",
-      "content/posts/the-causal-inversion-of-philosophical-agency.md": "8449097ffbc1",
+      "content/posts/the-causal-inversion-of-philosophical-agency.md": "308f4e3d129b",
       "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "c3f7ea991be1",
       "content/posts/the-causal-overstep-of-observation-and-the-first-person-surplus.md": "1c8b2a59109f",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "0d5b45a35c75",
@@ -237,8 +237,8 @@
       "content/posts/the-comment-is-not-the-code.md": "7e61766b88b6",
       "content/posts/the-comparison-that-relocates-the-cause.md": "645a2a0c87de",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "a15cd799ad26",
-      "content/posts/the-continuum-is-a-modeling-convenience.md": "3c2e3fff1d21",
-      "content/posts/the-continuum-of-the-fold.md": "e722f7266312",
+      "content/posts/the-continuum-is-a-modeling-convenience.md": "861d512575f6",
+      "content/posts/the-continuum-of-the-fold.md": "5bf4f9a847f7",
       "content/posts/the-coordinators-category-error.md": "cacce30b5e40",
       "content/posts/the-cut-moves-but-never-vanishes.md": "c718d57ca5a7",
       "content/posts/the-defining-seat.md": "19cac4ee1b14",
@@ -267,21 +267,21 @@
       "content/posts/the-freedom-of-will-to-deny-itself.md": "1f8dd4fcdafe",
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "d3f0748dc9cb",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "f03fcc2f0221",
-      "content/posts/the-generative-contradiction.md": "4e4e34635737",
+      "content/posts/the-generative-contradiction.md": "8b94f1d0868b",
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "64c173931963",
       "content/posts/the-generative-topology-of-free-variables.md": "2e0f835b26ad",
       "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "3128b01ea763",
       "content/posts/the-geometry-of-emergence.md": "689e19f5f25e",
-      "content/posts/the-geometry-of-mind.md": "3d0ba4f53d48",
+      "content/posts/the-geometry-of-mind.md": "fb97ac2e1e81",
       "content/posts/the-geometry-of-success.md": "7e595bd2dce9",
       "content/posts/the-geometry-of-the-cut.md": "6e088e0cb25d",
       "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "3d3447a6b6f0",
-      "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "d30048a932d3",
+      "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "3de7d02051ad",
       "content/posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function.md": "dc4dc29b990d",
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "2bca56c2a965",
       "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "6d4b7faef53e",
       "content/posts/the-illusion-of-distance-and-the-dual-ruler.md": "6232766ba174",
-      "content/posts/the-illusion-of-free-intelligence.md": "ea307666af7d",
+      "content/posts/the-illusion-of-free-intelligence.md": "d744917714ec",
       "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "28d2c9ecb890",
       "content/posts/the-illusion-of-multi-agent-collaboration.md": "4841d10e293d",
       "content/posts/the-illusion-of-the-shared-sandbox.md": "f20e733d6ceb",
@@ -289,7 +289,7 @@
       "content/posts/the-illusion-of-the-unmediated.md": "66864d0c8594",
       "content/posts/the-imagining-of-ai-risk.md": "06a93ab32a22",
       "content/posts/the-initial-distinction.md": "597771bb1303",
-      "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md": "17c508560e06",
+      "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md": "3fc9c9d53f74",
       "content/posts/the-interesting-case-of-rubin.md": "7e8d008c3655",
       "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "5db081fa7c26",
       "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "3a5779fc0793",
@@ -300,9 +300,9 @@
       "content/posts/the-irreducible-observer.md": "21f9ad761568",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "883cbb67e220",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "ff064e746f65",
-      "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "e2c53537d905",
+      "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "543bfaba8a16",
       "content/posts/the-ledger-of-the-unencountered.md": "ffcdbfc26a69",
-      "content/posts/the-limitation-is-doing-work.md": "30854398325d",
+      "content/posts/the-limitation-is-doing-work.md": "45a70cb31cb7",
       "content/posts/the-living-context.md": "8d42e5a0f3f0",
       "content/posts/the-local-trap-of-technological-change.md": "90573245bd77",
       "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "a085e1bdb7a4",
@@ -313,7 +313,7 @@
       "content/posts/the-mark-and-the-act.md": "a3c8f8e1a2d4",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "92771062e024",
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "9a0e8c82748a",
-      "content/posts/the-mind-that-statistics-cannot-reveal.md": "f806610c08c9",
+      "content/posts/the-mind-that-statistics-cannot-reveal.md": "35d749b1bd01",
       "content/posts/the-mirage-of-the-infinite-totality.md": "befa5078c345",
       "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "66816e477146",
       "content/posts/the-mirror-handshake-of-power.md": "ccc28b284e44",
@@ -322,8 +322,8 @@
       "content/posts/the-moral-reversal-and-the-scripted-subject.md": "e1ac22ffc038",
       "content/posts/the-myth-of-population-collapse-explained.md": "6b8ecefdfc0f",
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "f72287238803",
-      "content/posts/the-name-revolution-files-a-life-as-evidence.md": "a5a6e8c78ea8",
-      "content/posts/the-non-definitive-definition-of-intelligence.md": "d580075b6d35",
+      "content/posts/the-name-revolution-files-a-life-as-evidence.md": "eb674dc02fb1",
+      "content/posts/the-non-definitive-definition-of-intelligence.md": "65bdb70f81ba",
       "content/posts/the-npc-impression-is-structural.md": "4f7bc9fb76e2",
       "content/posts/the-observational-cut-in-ai-debates.md": "4ce3e6428502",
       "content/posts/the-only-coherent-uncaused-effect.md": "0e1c79ca33fb",
@@ -331,25 +331,25 @@
       "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "dc29182803e7",
       "content/posts/the-orthogonal-refusal.md": "f03239512cbc",
       "content/posts/the-other-coherence.md": "8dac9149aa79",
-      "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "431ce25c2506",
+      "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "8a5dcab5164f",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "4aff15eb74da",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "53e3dd77a12a",
       "content/posts/the-perceiver-and-the-trace.md": "ca63cdb39988",
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "bb2f003e5b8b",
       "content/posts/the-power-law-of-surrendered-agency.md": "995067c4c57b",
-      "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "e93e141e4251",
+      "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "293e24c3c99f",
       "content/posts/the-price-of-closing-optionality.md": "5587a48534a1",
       "content/posts/the-question-that-installs-the-war.md": "33d002f839b2",
       "content/posts/the-ramble-within-the-ramble.md": "57566038f9e7",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "46998aadc1d1",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "6036be35fe63",
-      "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "0cf0b2a0f096",
+      "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "cf8b22820540",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "e25d00e96b60",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "3f4e0e3db4b8",
       "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "ad7483982bf1",
       "content/posts/the-reflexive-dilemma-of-unique-insight.md": "d836ec0d3431",
       "content/posts/the-residue-and-the-free-variable.md": "a4209c9e6c5f",
-      "content/posts/the-returning-signal-and-its-claim.md": "68c0f7fb6b98",
+      "content/posts/the-returning-signal-and-its-claim.md": "973ad49b2d21",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "eac491539bc9",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "9e39c50c5595",
       "content/posts/the-reversal-of-education-and-science.md": "ba68ab96da47",
@@ -357,7 +357,7 @@
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "7a1980b70a67",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "445e4d098b1b",
       "content/posts/the-scaffolding-that-keeps-growing.md": "5aa327e7a053",
-      "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "728ed78cb1f9",
+      "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "47d7f8bbb45c",
       "content/posts/the-scaffolding-we-forget.md": "13fd3782c5c9",
       "content/posts/the-scaling-loop.md": "4c50bfbc7ecd",
       "content/posts/the-self-portrait-in-the-projection.md": "2b51ab9fe625",
@@ -374,7 +374,7 @@
       "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "c663c4a8107a",
       "content/posts/the-surface-beneath.md": "cb6892bfdae1",
       "content/posts/the-surface-that-registers.md": "add37f7bdd58",
-      "content/posts/the-three-shadows-of-the-cut.md": "dddbde671cad",
+      "content/posts/the-three-shadows-of-the-cut.md": "dd71abf44fa7",
       "content/posts/the-tightening-loop.md": "be324f885a2f",
       "content/posts/the-twin-paradox-and-the-hidden-observer.md": "ff11efe3625a",
       "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "19431edf6cb8",
@@ -392,8 +392,8 @@
       "content/posts/the_moving_ground.md": "5de734e74921",
       "content/posts/therapy-opens-the-feedback-loop.md": "fef94840ad77",
       "content/posts/time-is-causality-not-a-dimension.md": "bcd28712180f",
-      "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "d6e816ab5ba2",
-      "content/posts/tokens-and-the-observational-boundary.md": "1b68496e69e5",
+      "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "6609b42fad1f",
+      "content/posts/tokens-and-the-observational-boundary.md": "bca97aa871de",
       "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "9d994611d450",
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "91487ce48c58",
       "content/posts/trusting-the-reader-is-the-last-overstep.md": "4fa6d46f4306",
@@ -403,10 +403,10 @@
       "content/posts/what-always-listens-cannot-originate.md": "d75bba775726",
       "content/posts/what-cannot-be-kept.md": "230c81faa1f9",
       "content/posts/what-hinton-failed-to-understand.md": "5b9aba9df3f3",
-      "content/posts/what-information-is.md": "e7b352002978",
+      "content/posts/what-information-is.md": "cba7359b8f69",
       "content/posts/what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination.md": "f8dc08af8894",
       "content/posts/what-works-is-the-belief.md": "61bc84ba56e2",
-      "content/posts/whatever-is-one-prompt-away.md": "0e806b1ec073",
+      "content/posts/whatever-is-one-prompt-away.md": "4f83116ae3c6",
       "content/posts/when-abundance-looks-like-scarcity.md": "84b716cdac74",
       "content/posts/when-electrons-think.md": "c3336f135244",
       "content/posts/when-malfunction-is-scored-as-intelligence.md": "dfa53464d480",
@@ -414,7 +414,7 @@
       "content/posts/when-observation-becomes-performance.md": "038f9f625402",
       "content/posts/when-the-effect-authors-the-frame.md": "7ca85ec820ef",
       "content/posts/why-explanation-fails.md": "7983bb8f8771",
-      "content/posts/why-mathematics-can-never-be-solved.md": "9180c098f7c8",
+      "content/posts/why-mathematics-can-never-be-solved.md": "68d19dadd5b3",
       "content/posts/writing-without-the-image.md": "157f6998ee85",
       "content/posts/xian-shi-de-bian-jie.md": "c09844e6afde",
       "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "54fd439c9769",
@@ -447,10 +447,10 @@
     },
     "stats": {
       "posts": 420,
-      "edges": 12670,
-      "unique_directed": 6234,
+      "edges": 12694,
+      "unique_directed": 6246,
       "missing_targets": 0,
-      "one_way": 1154,
+      "one_way": 1166,
       "isolated": 0,
       "posts_with_outbound": 420,
       "book_pages": 16,
@@ -563,7 +563,7 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "out_degree": 56
+      "out_degree": 57
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
@@ -574,11 +574,11 @@
       "out_degree": 47
     },
     {
-      "slug": "causality-stays-at-the-edge-that-steers",
-      "out_degree": 42
+      "slug": "the-allocation-of-causal-power-in-validation",
+      "out_degree": 43
     },
     {
-      "slug": "the-allocation-of-causal-power-in-validation",
+      "slug": "causality-stays-at-the-edge-that-steers",
       "out_degree": 42
     },
     {
@@ -852,7 +852,7 @@
       "slug": "agency-compounding-and-the-argument-over-ai-feudalism",
       "path": "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md",
       "title": "能动性、复利与 AI 封建之争 / Agency, Compounding, and the Argument Over AI Feudalism",
-      "hash": "efeb328b4af9",
+      "hash": "8f762a579fc0",
       "in_degree": 14,
       "out_degree": 17,
       "links_out": [
@@ -1035,7 +1035,7 @@
       "slug": "ai-as-augmentation",
       "path": "content/posts/ai-as-augmentation.md",
       "title": "AI 作为增强 / AI as Augmentation",
-      "hash": "f0a8c8f069ef",
+      "hash": "b7e862c5142e",
       "in_degree": 4,
       "out_degree": 6,
       "links_out": [
@@ -1236,9 +1236,9 @@
       "slug": "boletus-compute-storm-and-promethean-fire",
       "path": "content/posts/boletus-compute-storm-and-promethean-fire.md",
       "title": "牛肝菌、算力风暴与普罗米修斯的火 / Boletus, the Compute Storm, and Promethean Fire",
-      "hash": "a069dfae4348",
+      "hash": "db1b5db3be64",
       "in_degree": 7,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "a-creation-cannot-replace-its-source",
@@ -1246,6 +1246,7 @@
         "the-digital-god-and-the-horizon-jump",
         "causality-stays-at-the-edge-that-steers",
         "mistaking-the-expression-for-the-intelligence",
+        "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
         "the-model-never-becomes-a-second-edge",
         "beyond-the-projection",
         "your-codebase-is-memory",
@@ -1596,7 +1597,7 @@
       "slug": "climbing-does-not-leave-the-ground",
       "path": "content/posts/climbing-does-not-leave-the-ground.md",
       "title": "攀登从未离开地面 / Climbing Does Not Leave the Ground",
-      "hash": "15acabf3533a",
+      "hash": "a0be7e00b7db",
       "in_degree": 24,
       "out_degree": 26,
       "links_out": [
@@ -1998,15 +1999,16 @@
       "slug": "coordinate-systems-mind-and-degrees-of-freedom",
       "path": "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md",
       "title": "坐标系、心智与自由度 / Coordinate Systems, the Mind, and Degrees of Freedom",
-      "hash": "8c87c3dfef55",
+      "hash": "2a1afbcd283a",
       "in_degree": 6,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "the-orthogonal-refusal",
         "the-mind-as-vector-and-coordinate-system",
         "the-explanatory-trap-of-the-ordinary-perspective",
         "beyond-the-projection",
         "your-codebase-is-memory",
+        "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
         "coordinates-in-flux-negation-and-self-anchoring"
       ]
     },
@@ -2016,7 +2018,7 @@
       "slug": "coordinates-in-flux-negation-and-self-anchoring",
       "path": "content/posts/coordinates-in-flux-negation-and-self-anchoring.md",
       "title": "流动中的坐标 / Coordinates in Flux",
-      "hash": "a5fb001040ed",
+      "hash": "6b2b7b30fcb5",
       "in_degree": 9,
       "out_degree": 13,
       "links_out": [
@@ -2336,7 +2338,7 @@
       "slug": "e-shi-feng-bi-de-shan",
       "path": "content/posts/e-shi-feng-bi-de-shan.md",
       "title": "恶是封闭的善 / Evil Is Closed Good",
-      "hash": "506d716b1645",
+      "hash": "088dfadee5ac",
       "in_degree": 6,
       "out_degree": 8,
       "links_out": [
@@ -2579,9 +2581,9 @@
       "slug": "expertise-as-reference-not-replacement",
       "path": "content/posts/expertise-as-reference-not-replacement.md",
       "title": "专家经验作为参考而非替代 / Expertise as Reference, Not Replacement",
-      "hash": "c28dea661152",
+      "hash": "bc7d7364b559",
       "in_degree": 26,
-      "out_degree": 32,
+      "out_degree": 33,
       "links_out": [
         "the-reality-distortion-field-names-the-closed-map",
         "ownership-cost-freezes-lagged-averages-as-vehicle-property",
@@ -2607,6 +2609,7 @@
         "clarity-isnt-a-state-you-arrive-at",
         "beyond-the-projection",
         "how-belief-actually-changes",
+        "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
         "dynamic-resnet-of-skill-loops",
         "your-codebase-is-memory",
         "the-map-after-the-territory",
@@ -2702,14 +2705,15 @@
       "slug": "failure-as-information",
       "path": "content/posts/failure-as-information.md",
       "title": "失败即信息 / Failure as Information",
-      "hash": "98ca1f79bd34",
+      "hash": "11a236cd7faa",
       "in_degree": 10,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "hardness-is-not-inherent-in-the-action",
         "openness-is-consistency",
         "your-codebase-is-memory",
         "beyond-the-projection",
+        "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
         "ownership-and-self-worthiness",
         "deceleration-is-the-drag-felt-when-accelerating",
         "self-rl-for-humans",
@@ -3252,9 +3256,9 @@
       "slug": "how-belief-actually-changes",
       "path": "content/posts/how-belief-actually-changes.md",
       "title": "信念如何真正改变 / How Belief Actually Changes",
-      "hash": "e023849871b3",
+      "hash": "9884e1db8670",
       "in_degree": 21,
-      "out_degree": 21,
+      "out_degree": 22,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "the-strongest-belief-of-the-mind",
@@ -3268,6 +3272,7 @@
         "how-to-fix-your-whole-life-in-one-split-second",
         "openness-is-consistency",
         "beyond-the-projection",
+        "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
         "evil-as-the-minds-own-creation",
         "externalized-virtue-becomes-its-opposite",
         "the-allocation-of-causal-power-in-validation",
@@ -3718,7 +3723,7 @@
       "slug": "looping-and-graphing",
       "path": "content/posts/looping-and-graphing.md",
       "title": "回环与成图 / Looping and Graphing",
-      "hash": "bef495bf273e",
+      "hash": "0eb59f1b7f4a",
       "in_degree": 18,
       "out_degree": 19,
       "links_out": [
@@ -3814,7 +3819,7 @@
       "path": "content/posts/machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence.md",
       "title": "机器智能作为人类智能的组合反馈回路 / Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence",
       "hash": "d69fda835993",
-      "in_degree": 18,
+      "in_degree": 30,
       "out_degree": 15,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
@@ -4020,7 +4025,7 @@
       "slug": "mistaking-the-expression-for-the-intelligence",
       "path": "content/posts/mistaking-the-expression-for-the-intelligence.md",
       "title": "错把表达当成智能 / Mistaking the Expression for the Intelligence",
-      "hash": "775b85adfbd2",
+      "hash": "cd7f0e87bc8e",
       "in_degree": 39,
       "out_degree": 38,
       "links_out": [
@@ -4227,7 +4232,7 @@
       "slug": "no-outside-scorekeeper",
       "path": "content/posts/no-outside-scorekeeper.md",
       "title": "没有外部记账员 / No Outside Scorekeeper",
-      "hash": "6d9499826830",
+      "hash": "83a5ac5f437e",
       "in_degree": 9,
       "out_degree": 11,
       "links_out": [
@@ -4630,7 +4635,7 @@
       "slug": "only-if-it-is-not-kept-empty",
       "path": "content/posts/only-if-it-is-not-kept-empty.md",
       "title": "只要它不被保持为空 / Only If It Is Not Kept Empty",
-      "hash": "8a7d37076291",
+      "hash": "61d9b751aefb",
       "in_degree": 12,
       "out_degree": 14,
       "links_out": [
@@ -4680,7 +4685,7 @@
       "slug": "open-vision-in-a-closed-arena",
       "path": "content/posts/open-vision-in-a-closed-arena.md",
       "title": "封闭竞技场中的开放视野 / Open Vision in a Closed Arena",
-      "hash": "a0adc61c2962",
+      "hash": "dd25ac857ba3",
       "in_degree": 11,
       "out_degree": 13,
       "links_out": [
@@ -4846,9 +4851,9 @@
       "slug": "ownership-and-self-worthiness",
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "自我价值感与所有权 / Ownership and Self-Worthiness",
-      "hash": "42b49caaa531",
+      "hash": "00d4677b2544",
       "in_degree": 56,
-      "out_degree": 56,
+      "out_degree": 57,
       "links_out": [
         "the-meaning-of-life-is-in-the-drafting",
         "when-need-stops-being-the-measure",
@@ -4873,6 +4878,7 @@
         "the-ramble-within-the-ramble",
         "your-codebase-is-memory",
         "beyond-the-projection",
+        "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
         "agency-and-the-pattern",
         "the-generative-contradiction",
         "the-generative-topology-of-free-variables",
@@ -5042,7 +5048,7 @@
       "slug": "po-chu-gai-nian-de-jian-yue",
       "path": "content/posts/po-chu-gai-nian-de-jian-yue.md",
       "title": "破除概念的僭越 / Breaking the Overreach of Concepts",
-      "hash": "9e0e605cb8a2",
+      "hash": "8aa64948ce76",
       "in_degree": 25,
       "out_degree": 25,
       "links_out": [
@@ -5110,7 +5116,7 @@
       "slug": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "path": "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md",
       "title": "潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought",
-      "hash": "dcb6aecf6e19",
+      "hash": "ef9ddfa2ce57",
       "in_degree": 17,
       "out_degree": 20,
       "links_out": [
@@ -5664,7 +5670,7 @@
       "slug": "self-image-speaks-as-if-from-nowhere",
       "path": "content/posts/self-image-speaks-as-if-from-nowhere.md",
       "title": "自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere",
-      "hash": "689a012a58a8",
+      "hash": "823bf243373a",
       "in_degree": 30,
       "out_degree": 26,
       "links_out": [
@@ -5852,12 +5858,13 @@
       "slug": "silicon-oracles-and-the-asymmetry-of-consequence",
       "path": "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md",
       "title": "硅基神谕与后果的非对称性 / Silicon Oracles and the Asymmetry of Consequence",
-      "hash": "8fc143a28f49",
+      "hash": "624819801b58",
       "in_degree": 9,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "your-codebase-is-memory",
         "beyond-the-projection",
+        "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
         "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
         "the-category-error-of-better",
         "the-sovereign-blinding",
@@ -6234,9 +6241,9 @@
       "slug": "the-allocation-of-causal-power-in-validation",
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "验证中因果权能的分配 / The Allocation of Causal Power in Validation",
-      "hash": "0c38e61f52ed",
+      "hash": "ad645bf4726f",
       "in_degree": 42,
-      "out_degree": 42,
+      "out_degree": 43,
       "links_out": [
         "the-reality-distortion-field-names-the-closed-map",
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -6277,6 +6284,7 @@
         "a-creation-cannot-replace-its-source",
         "the-model-never-becomes-a-second-edge",
         "your-codebase-is-memory",
+        "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
         "beyond-the-projection",
         "two-failures-of-trace",
         "what-always-listens-cannot-originate"
@@ -6317,7 +6325,7 @@
       "slug": "the-artifacts-of-self-amplification",
       "path": "content/posts/the-artifacts-of-self-amplification.md",
       "title": "自我放大的制品 / The Artifacts of Self-Amplification",
-      "hash": "6008cccb3b80",
+      "hash": "92ff2ec8732a",
       "in_degree": 23,
       "out_degree": 24,
       "links_out": [
@@ -6410,7 +6418,7 @@
       "slug": "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
       "path": "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md",
       "title": "阳台视角的规训僭越与不可代理的未竟之行 / The Balcony Disciplinary Overstep and the Unproxyable Act",
-      "hash": "116be6ffa381",
+      "hash": "7cf26b26a758",
       "in_degree": 10,
       "out_degree": 8,
       "links_out": [
@@ -6677,7 +6685,7 @@
       "slug": "the-cartesian-overstep-and-the-frenzy-of-creation",
       "path": "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md",
       "title": "笛卡尔的认识论跃迁与造神狂热 / The Cartesian Epistemic Leap and the Frenzy of Creation",
-      "hash": "85a75f91e6a5",
+      "hash": "00c2640fef3e",
       "in_degree": 12,
       "out_degree": 16,
       "links_out": [
@@ -6757,7 +6765,7 @@
       "slug": "the-causal-inversion-of-philosophical-agency",
       "path": "content/posts/the-causal-inversion-of-philosophical-agency.md",
       "title": "哲学能动性的因果倒置 / The Causal Inversion of Philosophical Agency",
-      "hash": "8449097ffbc1",
+      "hash": "308f4e3d129b",
       "in_degree": 3,
       "out_degree": 5,
       "links_out": [
@@ -7011,7 +7019,7 @@
       "slug": "the-continuum-is-a-modeling-convenience",
       "path": "content/posts/the-continuum-is-a-modeling-convenience.md",
       "title": "连续性作为建模的权宜之计 / The Continuum is a Modeling Convenience",
-      "hash": "3c2e3fff1d21",
+      "hash": "861d512575f6",
       "in_degree": 11,
       "out_degree": 9,
       "links_out": [
@@ -7032,7 +7040,7 @@
       "slug": "the-continuum-of-the-fold",
       "path": "content/posts/the-continuum-of-the-fold.md",
       "title": "折叠的连续谱 / The Continuum of the Fold",
-      "hash": "e722f7266312",
+      "hash": "5bf4f9a847f7",
       "in_degree": 12,
       "out_degree": 15,
       "links_out": [
@@ -7795,7 +7803,7 @@
       "slug": "the-generative-contradiction",
       "path": "content/posts/the-generative-contradiction.md",
       "title": "生成性的矛盾 / The Generative Contradiction",
-      "hash": "4e4e34635737",
+      "hash": "8b94f1d0868b",
       "in_degree": 8,
       "out_degree": 10,
       "links_out": [
@@ -7917,7 +7925,7 @@
       "slug": "the-geometry-of-mind",
       "path": "content/posts/the-geometry-of-mind.md",
       "title": "心智的几何学 / The Geometry of Mind",
-      "hash": "3d0ba4f53d48",
+      "hash": "fb97ac2e1e81",
       "in_degree": 20,
       "out_degree": 22,
       "links_out": [
@@ -8018,7 +8026,7 @@
       "slug": "the-hard-problem-of-consciousness-is-consistent-with-learning",
       "path": "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md",
       "title": "意识的难题与学习相容 / The Hard Problem of Consciousness Is Consistent with Learning",
-      "hash": "d30048a932d3",
+      "hash": "3de7d02051ad",
       "in_degree": 15,
       "out_degree": 17,
       "links_out": [
@@ -8131,7 +8139,7 @@
       "slug": "the-illusion-of-free-intelligence",
       "path": "content/posts/the-illusion-of-free-intelligence.md",
       "title": "免费智能的幻觉 / The Illusion of Free Intelligence",
-      "hash": "ea307666af7d",
+      "hash": "d744917714ec",
       "in_degree": 22,
       "out_degree": 25,
       "links_out": [
@@ -8331,9 +8339,9 @@
       "slug": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
       "path": "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md",
       "title": "内部人假定与被动防护的因果倒置 / The Insider Presumption and the Causal Inversion of Reactive Containment",
-      "hash": "17c508560e06",
+      "hash": "3fc9c9d53f74",
       "in_degree": 3,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "a-creation-cannot-replace-its-source",
@@ -8341,6 +8349,7 @@
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "the-summary-first-reversal-and-the-command-of-yields",
+        "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
         "your-codebase-is-memory",
         "the-digital-god-and-the-horizon-jump",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
@@ -8583,7 +8592,7 @@
       "slug": "the-ladder-of-abstraction-and-the-executable-entity",
       "path": "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md",
       "title": "抽象的阶梯与可执行的实体 / The Ladder of Abstraction and the Executable Entity",
-      "hash": "e2c53537d905",
+      "hash": "543bfaba8a16",
       "in_degree": 8,
       "out_degree": 9,
       "links_out": [
@@ -8623,7 +8632,7 @@
       "slug": "the-limitation-is-doing-work",
       "path": "content/posts/the-limitation-is-doing-work.md",
       "title": "限制正在做功 / The Limitation Is Doing Work",
-      "hash": "30854398325d",
+      "hash": "45a70cb31cb7",
       "in_degree": 3,
       "out_degree": 8,
       "links_out": [
@@ -8874,9 +8883,9 @@
       "slug": "the-mind-that-statistics-cannot-reveal",
       "path": "content/posts/the-mind-that-statistics-cannot-reveal.md",
       "title": "统计学无法揭示的心智 / The Mind That Statistics Cannot Reveal",
-      "hash": "f806610c08c9",
+      "hash": "35d749b1bd01",
       "in_degree": 10,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "the-average-is-residue-not-the-engine",
         "individual-choices-as-the-only-causal-levers",
@@ -8886,6 +8895,7 @@
         "the-perceiver-and-the-trace",
         "your-codebase-is-memory",
         "intelligence-belongs-only-to-the-mind",
+        "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
         "beyond-the-projection",
         "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng"
       ]
@@ -9131,7 +9141,7 @@
       "slug": "the-name-revolution-files-a-life-as-evidence",
       "path": "content/posts/the-name-revolution-files-a-life-as-evidence.md",
       "title": "革命之名把生活收成证据 / The Name Revolution Files a Life as Evidence",
-      "hash": "a5a6e8c78ea8",
+      "hash": "eb674dc02fb1",
       "in_degree": 11,
       "out_degree": 14,
       "links_out": [
@@ -9157,7 +9167,7 @@
       "slug": "the-non-definitive-definition-of-intelligence",
       "path": "content/posts/the-non-definitive-definition-of-intelligence.md",
       "title": "智能的非定论定义 / The Non-Definitive Definition of Intelligence",
-      "hash": "d580075b6d35",
+      "hash": "65bdb70f81ba",
       "in_degree": 11,
       "out_degree": 13,
       "links_out": [
@@ -9346,7 +9356,7 @@
       "slug": "the-paradox-of-fundamentals-is-the-unaware-switch-of-reference",
       "path": "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md",
       "title": "基本面的悖论是参照的不自觉切换 / The Paradox of Fundamentals Is the Unaware Switch of Reference",
-      "hash": "431ce25c2506",
+      "hash": "8a5dcab5164f",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -9501,7 +9511,7 @@
       "slug": "the-presumption-of-agi-and-the-view-from-outside",
       "path": "content/posts/the-presumption-of-agi-and-the-view-from-outside.md",
       "title": "AGI的预设与来自外部的视角 / The Presumption of AGI and the View from Outside",
-      "hash": "e93e141e4251",
+      "hash": "293e24c3c99f",
       "in_degree": 24,
       "out_degree": 26,
       "links_out": [
@@ -9679,7 +9689,7 @@
       "slug": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "path": "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md",
       "title": "真正稀缺的不是记忆，而是持续的重新追溯 / The Real Scarcity Is Not Memory, But Continuous Re-Tracing",
-      "hash": "0cf0b2a0f096",
+      "hash": "cf8b22820540",
       "in_degree": 18,
       "out_degree": 18,
       "links_out": [
@@ -9848,7 +9858,7 @@
       "slug": "the-returning-signal-and-its-claim",
       "path": "content/posts/the-returning-signal-and-its-claim.md",
       "title": "回返的信号与认领 / The Returning Signal and Its Claim",
-      "hash": "68c0f7fb6b98",
+      "hash": "973ad49b2d21",
       "in_degree": 8,
       "out_degree": 11,
       "links_out": [
@@ -10151,7 +10161,7 @@
       "slug": "the-scaffolding-we-forget-local-models-as-default",
       "path": "content/posts/the-scaffolding-we-forget-local-models-as-default.md",
       "title": "以本地模型为默认是被遗忘的脚手架 / Local Models as Default Is Forgotten Scaffolding",
-      "hash": "728ed78cb1f9",
+      "hash": "47d7f8bbb45c",
       "in_degree": 4,
       "out_degree": 6,
       "links_out": [
@@ -10540,13 +10550,14 @@
       "slug": "the-three-shadows-of-the-cut",
       "path": "content/posts/the-three-shadows-of-the-cut.md",
       "title": "切分的三重影子 / The Three Shadows of the Cut",
-      "hash": "dddbde671cad",
+      "hash": "dd71abf44fa7",
       "in_degree": 4,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "the-boundary-of-the-frame",
         "the-model-never-becomes-a-second-edge",
         "beyond-the-projection",
+        "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
         "your-codebase-is-memory",
         "the-other-coherence",
         "the-geometry-of-emergence"
@@ -10924,7 +10935,7 @@
       "slug": "token-efficiency-emulation-and-the-unclosable-gap",
       "path": "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md",
       "title": "Token 效率、模拟与无法弥合的间隙 / Token Efficiency, Emulation, and the Unclosable Gap",
-      "hash": "d6e816ab5ba2",
+      "hash": "6609b42fad1f",
       "in_degree": 21,
       "out_degree": 22,
       "links_out": [
@@ -10958,9 +10969,9 @@
       "slug": "tokens-and-the-observational-boundary",
       "path": "content/posts/tokens-and-the-observational-boundary.md",
       "title": "词元与观测边界 / Tokens and the Observational Boundary",
-      "hash": "1b68496e69e5",
+      "hash": "bca97aa871de",
       "in_degree": 2,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "the-scaffolding-we-forget",
         "humans-tokens-and-the-scope-of-valuation",
@@ -10972,6 +10983,7 @@
         "an-observation-by-its-own-standard",
         "beyond-the-projection",
         "token-efficiency-emulation-and-the-unclosable-gap",
+        "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
         "your-codebase-is-memory",
         "manifesto-of-not-a-theory-of-everything"
       ]
@@ -11241,7 +11253,7 @@
       "slug": "what-information-is",
       "path": "content/posts/what-information-is.md",
       "title": "信息是什么 / What Information Is",
-      "hash": "e7b352002978",
+      "hash": "cba7359b8f69",
       "in_degree": 24,
       "out_degree": 30,
       "links_out": [
@@ -11349,7 +11361,7 @@
       "slug": "whatever-is-one-prompt-away",
       "path": "content/posts/whatever-is-one-prompt-away.md",
       "title": "一个提示词之遥 / Whatever Is One Prompt Away",
-      "hash": "0e806b1ec073",
+      "hash": "4f83116ae3c6",
       "in_degree": 22,
       "out_degree": 23,
       "links_out": [
@@ -11541,7 +11553,7 @@
       "slug": "why-mathematics-can-never-be-solved",
       "path": "content/posts/why-mathematics-can-never-be-solved.md",
       "title": "为何数学永远解不完 / Why Mathematics Can Never Be Solved",
-      "hash": "9180c098f7c8",
+      "hash": "68d19dadd5b3",
       "in_degree": 31,
       "out_degree": 26,
       "links_out": [
@@ -16109,6 +16121,12 @@
     },
     {
       "from": "boletus-compute-storm-and-promethean-fire",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "机器智能作为人类智能的组合反馈回路"
+    },
+    {
+      "from": "boletus-compute-storm-and-promethean-fire",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "模型永远无法成为第二重前沿"
@@ -16124,6 +16142,12 @@
       "to": "mistaking-the-expression-for-the-intelligence",
       "rel": "points_to",
       "label": "Mistaking the Expression for the Intelligence"
+    },
+    {
+      "from": "boletus-compute-storm-and-promethean-fire",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence"
     },
     {
       "from": "boletus-compute-storm-and-promethean-fire",
@@ -18661,7 +18685,7 @@
       "from": "climbing-does-not-leave-the-ground",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
-      "label": "Intelligence Belongs Only to The Mind"
+      "label": "Intelligence Belongs Only to the Mind"
     },
     {
       "from": "climbing-does-not-leave-the-ground",
@@ -18709,7 +18733,7 @@
       "from": "climbing-does-not-leave-the-ground",
       "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "rel": "points_to",
-      "label": "The Distaste for \"AI Slop\" Is a Recurring Pattern"
+      "label": "The Distaste for “AI Slop” Is a Recurring Pattern"
     },
     {
       "from": "climbing-does-not-leave-the-ground",
@@ -21695,6 +21719,12 @@
     },
     {
       "from": "coordinate-systems-mind-and-degrees-of-freedom",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "机器智能作为人类智能的组合反馈回路"
+    },
+    {
+      "from": "coordinate-systems-mind-and-degrees-of-freedom",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
@@ -21704,6 +21734,12 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "coordinate-systems-mind-and-degrees-of-freedom",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence"
     },
     {
       "from": "coordinate-systems-mind-and-degrees-of-freedom",
@@ -25529,6 +25565,12 @@
     },
     {
       "from": "expertise-as-reference-not-replacement",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "机器智能作为人类智能的组合反馈回路"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
       "to": "dynamic-resnet-of-skill-loops",
       "rel": "points_to",
       "label": "模块化反馈回路与动态残差网络"
@@ -25556,6 +25598,12 @@
       "to": "how-belief-actually-changes",
       "rel": "points_to",
       "label": "How Belief Actually Changes"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence"
     },
     {
       "from": "expertise-as-reference-not-replacement",
@@ -26201,9 +26249,21 @@
     },
     {
       "from": "failure-as-information",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "机器智能作为人类智能的组合反馈回路"
+    },
+    {
+      "from": "failure-as-information",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "failure-as-information",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence"
     },
     {
       "from": "failure-as-information",
@@ -29603,6 +29663,12 @@
     },
     {
       "from": "how-belief-actually-changes",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "机器智能作为人类智能的组合反馈回路"
+    },
+    {
+      "from": "how-belief-actually-changes",
       "to": "openness-is-consistency",
       "rel": "points_to",
       "label": "Openness Is Consistency"
@@ -29612,6 +29678,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "how-belief-actually-changes",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence"
     },
     {
       "from": "how-belief-actually-changes",
@@ -41219,6 +41291,12 @@
     },
     {
       "from": "ownership-and-self-worthiness",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "机器智能作为人类智能的组合反馈回路"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
       "to": "agency-and-the-pattern",
       "rel": "points_to",
       "label": "能动性与模式"
@@ -41246,6 +41324,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "ownership-and-self-worthiness",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence"
     },
     {
       "from": "ownership-and-self-worthiness",
@@ -48089,9 +48173,21 @@
     },
     {
       "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "机器智能作为人类智能的组合反馈回路"
+    },
+    {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "silicon-oracles-and-the-asymmetry-of-consequence",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence"
     },
     {
       "from": "silicon-oracles-and-the-asymmetry-of-consequence",
@@ -50705,6 +50801,12 @@
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "机器智能作为人类智能的组合反馈回路"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "超越投射"
@@ -50738,6 +50840,12 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-allocation-of-causal-power-in-validation",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence"
     },
     {
       "from": "the-allocation-of-causal-power-in-validation",
@@ -53371,7 +53479,7 @@
       "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
       "to": "an-observation-by-its-own-standard",
       "rel": "points_to",
-      "label": "作为工程上的操作标准，这一替换提供了有用的比较信号"
+      "label": "依其自身标准的观察"
     },
     {
       "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
@@ -53407,7 +53515,7 @@
       "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
       "to": "an-observation-by-its-own-standard",
       "rel": "points_to",
-      "label": "As an operational standard in engineering, this substitution provides a useful comparative signal"
+      "label": "An Observation by Its Own Standard"
     },
     {
       "from": "the-cartesian-overstep-and-the-frenzy-of-creation",
@@ -60517,13 +60625,13 @@
       "from": "the-generative-contradiction",
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
-      "label": "Hierarchy from individual difference"
+      "label": "Hierarchy from Individual Difference"
     },
     {
       "from": "the-generative-contradiction",
       "to": "the-allocation-of-causal-power-in-validation",
       "rel": "points_to",
-      "label": "The allocation of causal power in validation"
+      "label": "The Allocation of Causal Power in Validation"
     },
     {
       "from": "the-generative-contradiction",
@@ -60547,7 +60655,7 @@
       "from": "the-generative-contradiction",
       "to": "causality-stays-at-the-edge-that-steers",
       "rel": "points_to",
-      "label": "Causality stays at the edge that steers"
+      "label": "Causality Stays at the Edge That Steers"
     },
     {
       "from": "the-generative-contradiction",
@@ -60571,7 +60679,7 @@
       "from": "the-generative-contradiction",
       "to": "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
       "rel": "points_to",
-      "label": "The distaste for “AI slop” is a recurring pattern"
+      "label": "The Distaste for “AI Slop” Is a Recurring Pattern"
     },
     {
       "from": "the-generative-contradiction",
@@ -60583,7 +60691,7 @@
       "from": "the-generative-contradiction",
       "to": "ownership-and-self-worthiness",
       "rel": "points_to",
-      "label": "Ownership and self-worthiness"
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "the-generative-contradiction",
@@ -60607,7 +60715,7 @@
       "from": "the-generative-contradiction",
       "to": "selection-contradiction-and-open-reality",
       "rel": "points_to",
-      "label": "Selection, contradiction, and open reality"
+      "label": "Selection, Contradiction, and Open Reality"
     },
     {
       "from": "the-generative-contradiction",
@@ -61459,7 +61567,7 @@
       "from": "the-geometry-of-mind",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "No Universal Salvation, Only Self-Deliverance"
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
     },
     {
       "from": "the-geometry-of-mind",
@@ -63883,7 +63991,7 @@
       "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
       "to": "a-creation-cannot-replace-its-source",
       "rel": "points_to",
-      "label": "造物无法取代造物者"
+      "label": "造物无法取代其源头"
     },
     {
       "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
@@ -63947,9 +64055,21 @@
     },
     {
       "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "机器智能作为人类智能的组合反馈回路"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "超越投射"
+    },
+    {
+      "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence"
     },
     {
       "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
@@ -67145,6 +67265,12 @@
     },
     {
       "from": "the-mind-that-statistics-cannot-reveal",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "机器智能作为人类智能的组合反馈回路"
+    },
+    {
+      "from": "the-mind-that-statistics-cannot-reveal",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "超越投射"
@@ -67160,6 +67286,12 @@
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "the-mind-that-statistics-cannot-reveal",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence"
     },
     {
       "from": "the-mind-that-statistics-cannot-reveal",
@@ -78545,6 +78677,12 @@
     },
     {
       "from": "the-three-shadows-of-the-cut",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "机器智能作为人类智能的组合反馈回路"
+    },
+    {
+      "from": "the-three-shadows-of-the-cut",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
@@ -78554,6 +78692,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "the-three-shadows-of-the-cut",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence"
     },
     {
       "from": "the-three-shadows-of-the-cut",
@@ -81647,6 +81791,12 @@
     },
     {
       "from": "tokens-and-the-observational-boundary",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "机器智能作为人类智能的组合反馈回路"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
@@ -81656,6 +81806,12 @@
       "to": "token-efficiency-emulation-and-the-unclosable-gap",
       "rel": "points_to",
       "label": "Token Efficiency, Emulation, and the Unclosable Gap"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence"
     },
     {
       "from": "tokens-and-the-observational-boundary",

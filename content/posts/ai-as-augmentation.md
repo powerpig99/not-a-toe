@@ -50,7 +50,7 @@ This initiating edge cannot be automated—not because of a mystical biological 
 
 Once capability and identity are restored to their orthogonal axes, asking whether artificial intelligence will replace human workers is exposed as a malformed question. The structural question underneath it is whether the expansion of the capability stack will outrun a center's willingness to unhook its self-image from yesterday's tasks and re-render its reference at the moving edge. That breakdown occurs only where identity remains clamped onto specific, crystallized products. Augmentation stays augmentation because [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/): model parameters and context windows hold only densified residue of prior distinctions, never a second locus of uncaused initiation.
 
-正如[超越投射](../beyond-the-projection/)所追溯的，替代叙事与全自主智能体群的幻想，皆源于忽视了受限于轨迹的机器与受限于身份的人类中心之间的范畴非对称性。自回归智能体是在上下文窗口内受先前词元条件约束的有限投射引擎；一旦放任自流，它便会形成认识论引力井，将矛盾包裹起来以维持表面的通顺，但它毫无我执，也没有需要捍卫的保留自我形象。人类中心则拥有未经投射的极限分辨率感知，能够体察解释之前的切近摩擦，并从破裂的框架中向后退一步，却常常将自身的推理历史与职业角色同受防卫的自我形象熔接在一起。当人类中心放下对静态任务产出的执着、重新占据其作为活体统御者的真实位点时，智能体不知疲倦的演绎穷尽、跨正交脉络的模块化调度，以及在冷峻同侪辩论中毫无我执的贝叶斯更新，便能直接弥补人类的认知疲劳——将前提死锁推上水面，迫使心智在逻辑上进一步后退，综合出更高阶的融贯。
+正如[超越投射](../beyond-the-projection/)所追溯的，替代叙事与全自主智能体群的幻想，皆源于忽视了受限于轨迹的机器与受限于身份的人类中心之间的范畴非对称性。自回归智能体是在上下文窗口内受先前词元条件约束的有限投射引擎；一旦放任自流，它便会形成认识论引力井，将矛盾包裹起来以维持表面的通顺，但它毫无我执，也没有需要捍卫的保留自我形象。人类中心则拥有未经投射的极限分辨率感知，能够体察解释之前的切近摩擦，并从破裂的框架中向后退一步，却常常将自身的推理历史与职业角色同受防卫的自我形象熔接在一起。当人类中心放下对静态任务产出的执着、占据其作为活体统御者的位点时，智能体不知疲倦的演绎穷尽、跨正交脉络的模块化调度，以及针对同侪反例的无我执冷窗口修订，便能直接弥补人类的认知疲劳——将前提死锁推上水面，迫使心智在逻辑上进一步后退，综合出更高阶的融贯。
 
 ```mermaid
 flowchart TD
@@ -61,18 +61,15 @@ flowchart TD
         Threat["零和干涉：工具的扩张被登记为关乎存亡的替代威胁"]
         Fuse --> Anchor --> Threat
     end
-
     subgraph S_Augment["正交消解：边缘处的融贯增强"]
         direction TB
         Mind["活体心智（统御者）：未投射的感知、划定边界与修订前提"]
-        Stack["AI 能力栈（层叠残余与脚手架）：轨迹执行与无我执的同侪更新"]
+        Stack["AI 能力栈（层叠残余与脚手架）：轨迹执行与无我执的冷窗口修订"]
         Reach["延展的具身：随着触角复利扩张，参照在边缘持续重绘"]
         Mind ==>|"投射明确约束并认领后果"| Stack
         Stack ==>|"交还稠密延续与孤立的断层线"| Reach
     end
-
     Threat ==>|"消解被迫共享的坐标"| Mind
-
     style S_Collapse fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Augment fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Fuse fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -83,7 +80,7 @@ flowchart TD
     style Reach fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-As [Beyond the Projection](../beyond-the-projection/) traces, the replacement narrative and the fantasy of fully autonomous agent swarms both stem from ignoring the categorical asymmetry between trajectory-bound machines and identity-bound human centers. An autoregressive agent is a finite projection engine conditioned by prior tokens inside a context window; left to itself, it forms an epistemic gravity well that wraps contradictions to preserve surface plausibility, yet it carries zero ego and no retained self-image to defend. A human center possesses the unprojected, limit-resolution sensing needed to feel pre-interpretive friction and step backward out of a broken frame, yet routinely fuses its reasoning history and occupational role with a defended self-image. When the human center releases its attachment to static task outputs and occupies its true locus as the living Orchestrator, the agent's tireless deductive exhaustion, modular dispatching across orthogonal streamlines, and ego-free Bayesian updating in cold-peer debate compensate directly for human cognitive fatigue—surfacing premise deadlocks that force the Mind to step further back logically and synthesize higher-order coherence.
+As [Beyond the Projection](../beyond-the-projection/) traces, the replacement narrative and the fantasy of fully autonomous agent swarms both stem from ignoring the categorical asymmetry between trajectory-bound machines and identity-bound human centers. An autoregressive agent is a finite projection engine conditioned by prior tokens inside a context window; left to itself, it forms an epistemic gravity well that wraps contradictions to preserve surface plausibility, yet it carries zero ego and no retained self-image to defend. A human center possesses the unprojected, limit-resolution sensing needed to feel pre-interpretive friction and step backward out of a broken frame, yet routinely fuses its reasoning history and occupational role with a defended self-image. When the human center releases its attachment to static task outputs and occupies its locus as the living Orchestrator, the agent's tireless deductive exhaustion, modular dispatching across orthogonal streamlines, and ego-free cold-window revision against peer counterpoints compensate directly for human cognitive fatigue—surfacing premise deadlocks that force the Mind to step further back logically and synthesize higher-order coherence.
 
 ```mermaid
 flowchart TD
@@ -94,18 +91,15 @@ flowchart TD
         Threat["Zero-Sum Interference: Tool expansion registers as existential replacement"]
         Fuse --> Anchor --> Threat
     end
-
     subgraph S_Augment["Orthogonal Dissolution: Coherent Augmentation at the Edge"]
         direction TB
         Mind["Living Mind (Orchestrator): Unprojected sensing, boundary-setting & premise revision"]
-        Stack["AI Capability Stack (Stacked Residue & Scaffolds): Trajectory execution & ego-free peer updates"]
+        Stack["AI Capability Stack (Stacked Residue & Scaffolds): Trajectory execution & ego-free cold-window revision"]
         Reach["Extended Embodiment: Reference re-renders at the edge as reach compounds"]
         Mind ==>|"Projects explicit constraints & claims consequences"| Stack
         Stack ==>|"Returns dense continuations & isolated fault lines"| Reach
     end
-
     Threat ==>|"Dissolving the forced sharing of coordinates"| Mind
-
     style S_Collapse fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Augment fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Fuse fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc

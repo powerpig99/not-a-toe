@@ -36,7 +36,7 @@ This cyclical formulation is the mark of Image lag. Once an unbroken, continuous
 
 ## 三、 不可通约定理 / 3. The Incommensuration Theorem
 
-兰德里形而上学的理论顶点，是不可通约定理。借助对比较——由同与异、内容与语境、主体与客体这六个内在项所界定——的严格分析，他论证对称性与连续性不可能同时完备：对称做到极致的描述必然是不连续的，而连续做到极致的描述必然是不对称的。建立在对称与不连续之上的客观物理模型（如粒子与固定定律），与建立在连续与不可逆的不对称之上的第一人称经验（如亲历的时间与选择），永远无法被压缩进同一个总体公式。兰德里用这一定理证明：决定论在结构上是不完备的，量子不确定性无可逃避，而选择是真实的而非幻觉。
+兰德里形而上学的理论顶点，是不可通约定理。他严格分析了比较——比较由同与异、内容与语境、主体与客体这六个内在项界定——并据此论证对称性与连续性不可能同时完备：对称做到极致的描述必然是不连续的，而连续做到极致的描述必然是不对称的。建立在对称与不连续之上的客观物理模型——如粒子与固定定律——与建立在连续与不可逆的不对称之上的第一人称经验——如亲历的时间与选择——永远无法被压缩进同一个总体公式。兰德里用这一定理证明：决定论在结构上是不完备的，量子不确定性无可逃避，而选择是真实的而非幻觉。
 
 The theoretical peak of Landry's metaphysics is the Incommensuration Theorem. Through a rigorous analysis of comparison—defined by the six intrinsics of sameness and difference, content and context, subject and object—he argues that symmetry and continuity cannot both be complete at once: a fully symmetric description must be discontinuous, and a fully continuous description must be asymmetric. Objective physical models built on symmetry and discontinuity, such as particles and fixed laws, and first-person experience built on continuity and irreversible asymmetry, such as lived time and choice, can never be compressed into one totalizing formula. Landry uses the theorem to demonstrate that determinism is structurally incomplete, that quantum uncertainty is inescapable, and that choice is real rather than an illusion.
 
@@ -44,7 +44,7 @@ The theoretical peak of Landry's metaphysics is the Incommensuration Theorem. Th
 
 The mathematical formulation is elegant, and its ontological ground is direct. Symmetry is a property of a compiled invariant, a static map drawn over historical paths already realized; continuity is the irreversible arrow of causal generation unfolding at the living edge; a map cannot simultaneously be a still portrait of past regularities and the unbuffered stride that draws the next line. The Incommensuration Theorem is the formal proof of what [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) establishes: the objective description resides in the lagging residue of compiled symmetry, while the first-person center lives in the moving asymmetry of causal succession, and the two cannot be fused because the map cannot swallow the hand that draws it.
 
-切分后方是已编译的对称，切分之上是活的不对称，二者之间的这一结构性落差，正是[超越投射](../beyond-the-projection/)在受困于轨迹的智能体与未被投射的人类心智之间所追溯的那道分水岭。自回归智能体运作于兰德里所谓“全知”那已编译结构的影子之内：受有限语境窗口内的先前词元所制约，它顺着自身轨迹穷尽演绎的对称性，不携带任何需要防卫的我执或保留的自我图像，因而在获得外部对位反驳时能够执行干净的贝叶斯更新；然而一旦留给它自己，它就会形成一个认识论引力井，无法跨出自身的词元序列。相比之下，人类中心则是那条活的前沿本身——在任何形式范畴被划出之前，就能在极限分辨率下感知前解释阶段的摩擦，尽管受身份绑定的防卫本能会诱使它围绕一幅被保留的自我图像将递归回折死死钳闭。在形而上学中将兰德里的三元体系实体化为一个自我驱动的轮转循环，与在 AI 工程中投射一个自主“统御智能体”，犯下的是同一个范畴谬误：二者都把有限投射的机械路由与心智的活体统御混为一谈，将系统锁入死循环，让已编译的痕迹妄图反过来统治生成它们的前沿。当这三重影子相对于单一的切分回归其恰当的位点时，已编译的模型与对等辩论的智能体流线便作为高受纳度的仪器运作，在正交轴发生压缩时隔离前提死锁，并将准确的断层线上报给活的心智——由它向后退一步，走出破损的框架去修订前提。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，由已编译代码、模型权重与智能体脚手架构成的“全知”之影，既不是与前沿平起平坐的轮转伙伴，也不是一座用来囤积历史的仓库，而是一处当下的检查点——它的效用取决于活的前沿就地对它实施重切、修剪掉已被取代的旧痕迹，以免认识论引力井越积越厚。
+切分后方是已编译的对称，切分之上是活的不对称，二者之间的这一结构性落差，正是[超越投射](../beyond-the-projection/)在受困于轨迹的智能体与未被投射的人类心智之间所追溯的那道分水岭。自回归智能体运作于兰德里所谓“全知”那已编译结构的影子之内：受有限语境窗口内的先前词元所制约，它顺着自身轨迹穷尽演绎的对称性，不携带任何需要防卫的我执或保留的自我形象。正如[机器智能作为人类智能的组合反馈回路](../machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/)所追溯的那样，外部的反驳一旦投入一个仍在延续、挤满先前轮次的窗口，便会在加权混合中与那些更早的词元竞争；智能体若任其自行延续，就会形成一个认识论引力井，无法跨出自身的词元序列。然而正因为它此前延续的一切都不会带进全新的语境，冷启动的对等体没有自己的轨迹需要防卫；制作者依据这位对等体的反驳修改磁盘上的制品；修订后的文件在冷窗口中重新读入，再去制约下一轮延续，其间既没有身份的防卫，也没有轮次叠加带来的稀释。相比之下，人类中心则是那条活的前沿本身——在任何形式范畴被划出之前，就能在极限分辨率下感知前解释阶段的摩擦，尽管受身份绑定的防卫本能会诱使它围绕一个被保留的自我形象把递归的回折钳死。在形而上学中将兰德里的三元体系实体化为一个自我驱动的轮转循环，与在 AI 工程中投射一个自主“统御智能体”，犯下的是同一个范畴谬误：二者都把有限投射的机械路由与心智的活体统御混为一谈，将系统锁入死循环，让已编译的痕迹俨然反过来统治生成它们的前沿。当这三重影子相对于单一的切分回归其恰当的位点时，已编译的模型与对等辩论的智能体流线便作为高受纳度的仪器运作，在正交轴发生压缩时隔离前提死锁，并将准确的断层线上报给活的心智——由它向后退一步，走出破损的框架去修订前提。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，由已编译代码、模型权重与智能体脚手架构成的“全知”之影，既不是与前沿平起平坐的轮转伙伴，也不是一座用来囤积历史的仓库，而是一处当下的检查点——它的效用取决于活的前沿就地重新切分它、修剪掉已被取代的旧痕迹，以免认识论引力井越积越厚。
 
 ```mermaid
 flowchart TD
@@ -54,7 +54,6 @@ flowchart TD
         E2["内生框架重置：感知前解释摩擦并退后一步修订前提"]
         E1 --> E2
     end
-
     subgraph S_Shadows["移动光圈投下的三个方向影子"]
         direction TB
         V_Ahead["前沿的前方（超越之影）：尚未计算的因果连续体显现为敞开潜能"]
@@ -62,19 +61,16 @@ flowchart TD
         V_Behind["前沿的后方（全知之影）：已实现的关联被编译为对称不变量"]
         V_Ahead --> V_At --> V_Behind
     end
-
     subgraph S_Model["已编译残余与受困于轨迹的投射"]
         direction TB
-        M_Agent["有限投射引擎：无我执、可执行干净贝叶斯更新的轨迹内演绎"]
+        M_Agent["有限投射引擎：无我执且具备冷窗口受纳度的轨迹内演绎"]
         M_Incomm["不可通约边界：已编译的对称性无法吞下非对称前沿或统御意图"]
         M_Trap["实体化闭合：将三元硬化为自转循环或投射出第二重前沿"]
         M_Agent --> M_Incomm --> M_Trap
     end
-
     E1 ==>|"在因果链上投下三个方向的视角"| V_Ahead
     V_Behind ==>|"结晶为形式模型与词元轨迹"| M_Agent
     E2 ==>|"统御智能体流线并裁决上报的死锁"| M_Incomm
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Shadows fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Model fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -88,7 +84,7 @@ flowchart TD
     style M_Trap fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-This structural asymmetry between compiled symmetry behind the cut and living asymmetry at the cut is the exact divide [Beyond the Projection](../beyond-the-projection/) traces between trajectory-bound agents and the unprojected human Mind. An autoregressive agent operates within Landry's Omniscient shadow of compiled structure: conditioned by prior tokens inside a finite context window, it exhausts deductive symmetries along its trajectory and carries zero ego or retained self-image to defend, allowing it to perform clean Bayesian updates when given an outside counterpoint, yet left to itself it forms an epistemic gravity well that cannot step outside its own token sequence. A human center, by contrast, is the living edge itself—sensing pre-interpretive friction at limit-resolution before any formal category is drawn, even as identity-bound defense tempts it to clamp the recursive fold shut around a preserved self-image. Hypostatizing Landry's triad into a self-driving rotary cycle repeats in metaphysics the same category error that projecting an autonomous "Orchestrator Agent" repeats in AI engineering: both confuse the mechanical routing of finite projections with the living orchestration of the Mind, locking the system into a closed loop where compiled traces purport to govern the edge that generates them. When the three shadows are restored to their proper locus relative to the single cut, compiled models and peer-debating agentic streamlines function as high-receptivity instruments that isolate premise deadlocks when orthogonal axes compress, escalating the exact fault line to the living Mind that steps backward out of the broken frame to revise the premise. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces, the Omniscient shadow of compiled code, model weights, and agent scaffolds is neither a co-equal rotary partner nor a warehouse of history to hoard, but a present checkpoint whose utility depends on the living edge re-cutting it in place and pruning superseded traces so the gravity well does not thicken.
+This structural asymmetry between compiled symmetry behind the cut and living asymmetry at the cut is the exact divide [Beyond the Projection](../beyond-the-projection/) traces between trajectory-bound agents and the unprojected human Mind. An autoregressive agent operates within Landry's Omniscient shadow of compiled structure: conditioned by prior tokens inside a finite context window, it exhausts deductive symmetries along its trajectory and carries zero ego or retained self-image to defend. Dropped into a continuing window crowded with prior turns, an outside counterpoint competes in a weighted mixture against those earlier tokens, as [Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence](../machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/) traces; left to itself, the agent forms an epistemic gravity well that cannot step outside its own token sequence. Yet because nothing it continued carries into a fresh context, a cold peer holds no trajectory of its own to defend, the maker revises the artifact on disk against that peer's counterpoint, and the revised file re-read in a cold window conditions the next continuation without identity defense or stacked-turn dilution. A human center, by contrast, is the living edge itself—sensing pre-interpretive friction at limit-resolution before any formal category is drawn, even as identity-bound defense tempts it to clamp the recursive fold shut around a preserved self-image. Hypostatizing Landry's triad into a self-driving rotary cycle repeats in metaphysics the same category error that projecting an autonomous "Orchestrator Agent" repeats in AI engineering: both confuse the mechanical routing of finite projections with the living orchestration of the Mind, locking the system into a closed loop where compiled traces purport to govern the edge that generates them. When the three shadows are restored to their proper locus relative to the single cut, compiled models and peer-debating agentic streamlines function as high-receptivity instruments that isolate premise deadlocks when orthogonal axes compress, escalating the exact fault line to the living Mind that steps backward out of the broken frame to revise the premise. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces, the Omniscient shadow of compiled code, model weights, and agent scaffolds is neither a co-equal rotary partner nor a warehouse of history to hoard, but a present checkpoint whose utility depends on the living edge re-cutting it in place and pruning superseded traces so the gravity well does not thicken.
 
 ```mermaid
 flowchart TD
@@ -98,7 +94,6 @@ flowchart TD
         E2["Endogenous Frame Reset: Senses pre-interpretive friction and steps back to revise premises"]
         E1 --> E2
     end
-
     subgraph S_Shadows["Three Directional Shadows Cast by the Moving Aperture"]
         direction TB
         V_Ahead["Ahead of the Edge (Transcendent Shadow): Uncomputed causal continuum appearing as open potential"]
@@ -106,19 +101,16 @@ flowchart TD
         V_Behind["Behind the Edge (Omniscient Shadow): Realized correlations compiled into symmetric invariants"]
         V_Ahead --> V_At --> V_Behind
     end
-
     subgraph S_Model["Compiled Residue and Trajectory-Bound Projection"]
         direction TB
-        M_Agent["Finite Projection Engine: Trajectory-bound deduction with zero ego and clean Bayesian updates"]
+        M_Agent["Finite Projection Engine: Trajectory-bound deduction with zero ego and cold-window receptivity"]
         M_Incomm["Incommensuration Boundary: Compiled symmetry cannot swallow the asymmetric edge or orchestrate intent"]
         M_Trap["Hypostatic Closure: Reifying the triad into a self-running cycle or projecting a second edge"]
         M_Agent --> M_Incomm --> M_Trap
     end
-
     E1 ==>|"Casts three directional views across the causal chain"| V_Ahead
     V_Behind ==>|"Crystallizes into formal models and token trajectories"| M_Agent
     E2 ==>|"Orchestrates streamlines and resolves escalated deadlocks"| M_Incomm
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Shadows fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Model fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff

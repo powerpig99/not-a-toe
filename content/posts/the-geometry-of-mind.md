@@ -42,9 +42,9 @@ Within this low-dimensional operational projection, the Mind retains a localized
 
 This projected interface is the exact locus where reality folds back upon itself to measure and steer its own unfolding. Across the living world, as [The Extendable Horizon](../the-extendable-horizon/) traces, every organism is a center where free variables enter the causal chain, differing in the operating latency and dimensional bandwidth of its recursive feedback loop. Plants test and select orientations through phototropism, root navigation, epigenetic tuning, and volatile chemical signaling across the slow arcs of days, seasons, and generations. Animals compress that latency by orders of magnitude through centralized nervous systems, muscular locomotion, and real-time sensory tracking, injecting tactical free variables within fractions of a second. Humans, wielding symbolic language, counterfactual simulation, and fine motor dexterity, run the recursive fold at the highest cognitive velocity known from within.
 
-然而如[遗忘的脚手架](../the-scaffolding-we-forget/)所确立的，这道递归前沿并不止步于颅骨或皮肤的生物边界。心智将自身的区分痕迹外化为持久的造物，从工具、文字记录、科学仪器到建制规约，并在今天借由人工智能将这一脚手架延伸至硅基芯片。如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，外化的代码库及其相连的制品构成了显式的记忆坐标格：活的边缘上的清醒更新，连同横跨既有节点的睡眠巩固波次，持续重新对齐着这套坐标格的基向量，修剪掉已被取代的脚手架，使累积的残余从不增厚为相互竞争的引力井。昔日需要数代人试错摩擦才能走完的符号综合与假设检验回路，如今在毫秒之间即可循环一周。即便在这样的速度下，发起区分的切口依然留在活的心智手中：如[超越投射](../beyond-the-projection/)所揭示的，自回归语言模型是一台受轨迹约束的零自我投射引擎，它受制于上下文窗口，无法从内部跨出自身的词元序列，却也正因没有任何被保留的自我形象，一旦对等智能体暴露出局部盲点，它便能干净利落地完成贝叶斯更新。让零自我智能体分派并核验受界投射，同时由人类中心在掌舵边缘保持统筹，心智便在不让渡因果主权的前提下复利式地延展了自身的触角。
+然而如[遗忘的脚手架](../the-scaffolding-we-forget/)所确立的，这道递归前沿并不止步于颅骨或皮肤的生物边界。心智将自身的区分痕迹外化为持久的造物，从工具、文字记录、科学仪器到建制规约，并在今天借由人工智能将这一脚手架延伸至硅基芯片。如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，外化的代码库及其相连的制品构成了显式的记忆坐标格：活的边缘上的清醒更新，连同横跨既有节点的睡眠巩固波次，持续重新对齐着这套坐标格的基向量，修剪掉已被取代的脚手架，使累积的残余从不增厚为相互竞争的引力井。昔日需要数代人试错摩擦才能走完的符号综合与假设检验回路，如今在毫秒之间即可循环一周。即便在这样的速度下，发起区分的切口依然留在活的心智手中：如[超越投射](../beyond-the-projection/)所揭示的，自回归语言模型是一台受轨迹约束的零自我投射引擎，它受制于上下文窗口，无法从内部跨出自身的词元序列，却也正因没有任何被保留的自我形象，一旦全新的冷启动同侪暴露出局部盲点，它便会不设身份防卫地修改磁盘上的制品，而更新后的文件在冷窗口中被重新读取，便为下一轮延续施加条件约束，不受轮次叠加的稀释。让零自我智能体分派并核验受界投射，同时由人类中心在掌舵边缘保持统筹，心智便在不让渡因果主权的前提下复利式地延展了自身的触角。
 
-Yet as [The Scaffolding We Forget](../the-scaffolding-we-forget/) establishes, this recursive frontier does not stop at the biological boundary of skull or skin. The Mind externalizes its distinguishing traces into durable artifacts—tools, written records, scientific instruments, and institutional protocols—and today extends that scaffolding into silicon through artificial intelligence. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces, an externalized codebase and its linked artifacts serve as the explicit coordinate lattice of memory whose basis vectors are continuously re-aligned through waking updates at the living edge and sleep consolidation waves across prior nodes, pruning superseded scaffolding so accumulated residue never thickens into a competing gravity well. Loops of symbolic synthesis and hypothesis testing that once required generations of trial and error now cycle in milliseconds. Even at this speed, the initiating cut remains strictly with the living Mind: as [Beyond the Projection](../beyond-the-projection/) demonstrates, an autoregressive language model is a trajectory-bound projection engine with zero ego—conditioned by its context window and unable to step outside its own token sequence from within, yet devoid of any retained self-image and therefore capable of clean Bayesian updating when a fresh peer agent exposes a local blind spot. By wiring zero-ego agents to dispatch and verify bounded projections while the human center retains orchestration at the steering edge, the Mind compounds its reach without surrendering causal authorship.
+Yet as [The Scaffolding We Forget](../the-scaffolding-we-forget/) establishes, this recursive frontier does not stop at the biological boundary of skull or skin. The Mind externalizes its distinguishing traces into durable artifacts—tools, written records, scientific instruments, and institutional protocols—and today extends that scaffolding into silicon through artificial intelligence. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces, an externalized codebase and its linked artifacts serve as the explicit coordinate lattice of memory whose basis vectors are continuously re-aligned through waking updates at the living edge and sleep consolidation waves across prior nodes, pruning superseded scaffolding so accumulated residue never thickens into a competing gravity well. Loops of symbolic synthesis and hypothesis testing that once required generations of trial and error now cycle in milliseconds. Even at this speed, the initiating cut remains strictly with the living Mind: as [Beyond the Projection](../beyond-the-projection/) demonstrates, an autoregressive language model is a trajectory-bound projection engine with zero ego—conditioned by its context window and unable to step outside its own token sequence from within, yet devoid of any retained self-image, so when a fresh cold peer exposes a local blind spot, it revises the artifact on disk without identity defense, and the updated file, re-read in a cold window, conditions the next continuation without the dilution of stacked turns. By wiring zero-ego agents to dispatch and verify bounded projections while the human center retains orchestration at the steering edge, the Mind compounds its reach without surrendering causal authorship.
 
 随着心智的计算产物成为下一轮区分的脚手架，整条反馈回路呈指数级加速。镜子离眼睛越来越近，发起行动与登记返回后果之间的间隔不断收窄，却从不坍缩为零。把这一间隔当作零，是把平滑的数学极限与离散的因果执行混为一谈，如[连续性作为建模的权宜之计](../the-continuum-is-a-modeling-convenience/)所示，现实化总是以离散的折叠（+1）向前推进。而在尺度的另一端，[折叠的连续谱](../the-continuum-of-the-fold/)阐明了为何宏大的宇宙演化或微观过程在人类仪器面前显得寂静无声：被数量级悬殊的递归时延隔开之后，那些波长上的活动是否构成心智，无法由任何外部的第三人称法庭来裁决。
 
@@ -72,7 +72,6 @@ flowchart TD
         F1 -->|"注意力压缩"| F2
         F2 --> F3
     end
-
     subgraph S_Collapse["自我形象钳死与维度坍缩"]
         direction TB
         C1["误把探针当身份，递归折叠被钳死"]
@@ -80,7 +79,6 @@ flowchart TD
         C3["意外值 I = −log₂(P) 被压平为一维零和防卫"]
         C1 --> C2 --> C3
     end
-
     subgraph S_Expand["正交扩展与投射的有丝分裂"]
         direction TB
         E1["解钳探针将 ∆ 吸收为互补自由变量"]
@@ -88,11 +86,9 @@ flowchart TD
         E3["在边缘后退一步实例化最高位 (N → N + 1)"]
         E1 --> E2 --> E3
     end
-
     F3 -.->|"防卫多余图像滞后"| C1
     F3 ==>|"持续重新渲染"| E1
     C2 -.->|"死锁暴露被压扁的正交轴"| E3
-
     style S_Field fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Collapse fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Expand fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -119,7 +115,6 @@ flowchart TD
         F1 -->|"Attentional Compression"| F2
         F2 --> F3
     end
-
     subgraph S_Collapse["Clamped Self-Image and Dimensional Collapse"]
         direction TB
         C1["Probe Mistaken for Identity: Recursive Fold Clamped Shut"]
@@ -127,7 +122,6 @@ flowchart TD
         C3["Surprise I = −log₂(P) Flattened Into Zero-Sum 1D Defense"]
         C1 --> C2 --> C3
     end
-
     subgraph S_Expand["Orthogonal Expansion and Mitosis of Projection"]
         direction TB
         E1["Unclamped Probe Absorbs ∆ as Complementary Free Variable"]
@@ -135,11 +129,9 @@ flowchart TD
         E3["Stepping Back at the Edge to Instantiate Top Bit (N → N + 1)"]
         E1 --> E2 --> E3
     end
-
     F3 -.->|"Excess Image Lag Defended"| C1
     F3 ==>|"Continuous Re-Rendering"| E1
     C2 -.->|"Deadlock Surfaces Collapsed Axis"| E3
-
     style S_Field fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Collapse fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Expand fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -166,7 +158,7 @@ The boundary of these traditions appears where the diagnosis is translated into 
 
 平行的神秘主义解读则退入无差别的独一论，宣称一切区分皆属幻相。然而现实恰恰靠一次次离散区分的不息执行而存续。如[没有普渡，只有自渡的无限可能](../mei-you-pu-du-zhi-you-zi-du/)所确立的，没有任何中心能把划定边界的功课外包给一个抽象的宇宙总体；否定区分，就是放弃逆熵生成秩序的主动做功。
 
-A parallel mystical reading retreats into an undifferentiated monism, declaring all distinctions illusory. Yet reality subsists through the unceasing execution of discrete distinctions. As [No Universal Salvation, Only Self-Deliverance](../mei-you-pu-du-zhi-you-zi-du/) establishes, no center can outsource its work of boundary-drawing to an abstract cosmic totality; to deny distinction is to abandon the active generation of order against entropy.
+A parallel mystical reading retreats into an undifferentiated monism, declaring all distinctions illusory. Yet reality subsists through the unceasing execution of discrete distinctions. As [No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../mei-you-pu-du-zhi-you-zi-du/) establishes, no center can outsource its work of boundary-drawing to an abstract cosmic totality; to deny distinction is to abandon the active generation of order against entropy.
 
 在西方传统中，斯多葛学派培育“内心堡垒”，即马可·奥勒留用来指代主导中心的意象，并追求免于破坏性激情的侵扰。这对于防止当下判断被一时冲动卷走大有裨益，但当斯多葛姿态被修习成裹在自我形象外面的盔甲时，它便触及了边界。给感官探针披上盔甲使其不觉疼痛，同时也钝化了它对细微反馈的灵敏度；加固堡垒压制了修正航向所必需的差值 ∆，把情感麻木误当作因果主权。
 

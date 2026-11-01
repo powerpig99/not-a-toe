@@ -1,8 +1,8 @@
 # Token 效率、模拟与无法弥合的间隙 / Token Efficiency, Emulation, and the Unclosable Gap
 
-*效率源于亲历求索的果实，模型无法自主发起内生的利害关联 / Efficiency follows walked struggle; models cannot initiate an endogenous stake*
+*效率是亲历求索结出的果实，模型无法自主发起内生的利害关联 / Efficiency follows walked struggle; models cannot initiate an endogenous stake*
 
-孩子解数学题时，起初总会把简单的问题拆解成许多细小而显式的步骤。他们的推演过程在 Token 层面显得低效、费力、重复，且依赖脚手架的支撑。随着练习深入，他们逐渐发现捷径，把原本需要多步推导的过程折叠成寥寥数步的直接跨越，从而压缩自身的推理链条。由此自然浮现出一个问题：人工模型与智能体能否经历类似的过程，通过某种近似练习的机制，从显式的思维链走向更为紧凑的表达？如果只看表面轨迹的模拟，答案是肯定的；如果指向发起这一表面轨迹的生成过程，答案则是否定的。在切入这一区分之前，需要先还原一个前置的倒置：效率究竟是什么。
+孩子解数学题时，起初总会把简单的问题拆解成许多细小而显式的步骤。他们的推演过程在 Token 层面显得低效、费力、重复，且依赖脚手架的支撑。随着练习深入，他们逐渐发现捷径，把原本需要多步推导的过程折叠成寥寥数步的直接跨越，从而压缩自身的推理链条。由此自然浮现出一个问题：人工模型与智能体能否经历类似的过程，通过某种近似练习的机制，从显式的思维链走向更为紧凑的表达？如果只看表面轨迹的模拟，答案是肯定的；如果指向发起这一表面轨迹的生成过程，答案则是否定的。在切入这一区分之前，需要先把一处前置的倒置扳正：效率究竟是什么。
 
 Children solving math problems often begin by breaking even simple questions into many small, explicit steps. Their work is token-inefficient, laborious, repetitive, and dependent on scaffolding. With practice they discover shortcuts, collapsing what once required many steps into fewer, more direct moves as they compress their own reasoning. The natural question is whether artificial models and agents can undergo an analogous process, moving from explicit chains of thought toward more compressed forms through something resembling practice. The answer is yes for emulating the surface trajectory, and no for originating the process that produces that surface. Before that cut lands, a prior inversion has to be restored around what efficiency actually is.
 
@@ -16,7 +16,7 @@ An inversion governs the prevailing framing of efficiency. The long, inefficient
 
 The causal geometry runs the other way. Efficiency is the effect of successful inefficient reasoning. A child does not become token-efficient by skipping the laborious path, but by having walked it—registering burden, differentiating steps, and noticing which distinctions do real work and which merely scaffold contact that has already been made. The shortcut arrives after the reasoning as the compression of a path actually traversed, never as a leap past a path never taken. The inefficient phase is not a defect awaiting cure; it is the generative work of which efficiency is the later residue.
 
-“障碍即道路”说的正是同一条因果律。求索中的受阻与挣扎并非通往胜任之途的意外打断，它本身就是道路。真正的胜任感唯有在持续的摩擦之后才会到来——在负荷被如实登记、耐心承受并逐一推演之后——而非来自把挣扎当成多余浪费而直接优化掉的跳跃。那看似阻挡去路的障碍，正是生成日后被称为“效率”的那种能力的必经序列。一旦倒置这条因果，障碍就变成了绕行的对象；而绕行会立刻冻结后续的精进，因为原地已不再有亲历的求索，也就无法再作为结果生发出下一轮压缩。
+“障碍即道路”说的正是同一条因果律。求索中的受阻与挣扎并非通往胜任之途的意外打断，它本身就是道路。胜任唯有在持续的摩擦之后才会到来——在负荷被如实登记、耐心承受并逐一推演之后——而非来自把挣扎当成多余浪费而直接优化掉的跳跃。那看似阻挡去路的障碍，正是生成日后被称为“效率”的那种能力的必经序列。一旦倒置这条因果，障碍就变成了绕行的对象；而绕行会立刻冻结后续的精进，因为原地已不再有亲历的求索，也就无法再作为结果生发出下一轮压缩。
 
 The same causality underlies the observation that the obstacle is the way. Struggle is not an interruption on the route to competence; it is the route itself. Competence arrives after persistent friction—after the burden has been registered, stayed with, and worked through—rather than through an optimization that treats struggle as optional waste. What looks like the block is the exact sequence that generates the capacity later named efficiency. Inverting that causality turns the block into something to bypass, and the bypass freezes further improvement because no lived struggle remains from which the next compression could arise as an effect.
 
@@ -70,7 +70,7 @@ Attempts to close this distance by making training regimes ever more development
 
 Treating trajectory emulation and endogenous origination as convergent distorts both engineering and agency. It underweights what deliberate, Mind-guided architecture can achieve when built without waiting for an artificial mind to wake up inside the parameters, and it overweights what autoregressive systems can do when left to themselves. Conflating emulation with origination projects agency onto artifacts while leaving human capacities under-exercised in framing problems, bearing consequences, and returning every reference to the edge that must act next. In individual cognition, [Knowing That You Don't Know Is a Rhetorical Illusion](../zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/) traces the same trap: outsourcing inquiry to fluent models yields structural tokens that mimic comprehension while skipping the friction of walking the path.
 
-正如[超越投射](../beyond-the-projection/)所展示的，将有限投射与未被投射的活生生的心智区分开来，便能看清 Token 压缩在智能体系统中真正完成了什么。一旦前提、规则集与任务语境被投射进显式的窗口，基于 LLM 的智能体便作为受轨迹约束、零自我的投射引擎高速运转。在这个有限投射之内，亲历必要的中间步骤并不意味着事后要囤积每一份临时草稿或会话日志：如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，将挣得的区分折叠进当下的检查点——修订后的代码、更新后的计划或重新切分的文章——同时修剪已被取代的会话痕迹、将过载语境拆分至正交的流线，并为任务智能体配对用毕即退的冷启动同侪，才能在不加厚引力井的前提下保持约束表面的干净。然而，有限滞后的诠释与第一人称极限分辨率感知之间那道无法弥合的间隙，从未迁移进投射内部。由于智能体既没有先于诠释的实在体认，也没有将自身负荷登记为切身代价的内生利害，当规则陷入死锁或框架本身失效时，它无法向后退一步跳出自身的 Token 轨迹。源头从未在运转的系统中缺席，它只是缺席于器物对自身的说明之中。高效的产出依然是外化的表达，而非生成它的心智，正如[器物是智能的表达，而非智能本身](../two-failures-of-trace/)与[回环与成图](../looping-and-graphing/)在器物与智能体控制流层面所共同确立的那样。
+正如[超越投射](../beyond-the-projection/)所展示的，将有限投射与未被投射的活生生的心智区分开来，便能看清 Token 压缩在智能体系统中真正完成了什么。一旦前提、规则集与任务语境被投射进显式的窗口，基于 LLM 的智能体便作为受轨迹约束、零自我的投射引擎高速运转。在这个有限投射之内，亲历必要的中间步骤并不意味着事后要囤积每一份临时草稿或会话日志：如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，将挣得的区分折叠进当下的检查点——修订后的代码、更新后的计划或重新切分的文章——同时修剪已被取代的会话痕迹、将过载语境拆分至正交的流线，并为任务智能体配对用毕即退的冷启动同侪，便能在不加厚引力井的前提下保持约束表面的干净。然而，有限滞后的诠释与第一人称极限分辨率感知之间那道无法弥合的间隙，从未迁移进投射内部。由于智能体既没有先于诠释的实在体认，也没有将自身负荷登记为切身代价的内生利害，当规则陷入死锁或框架本身失效时，它无法向后退一步跳出自身的 Token 轨迹。源头从未在运转的系统中缺席，它只是缺席于器物对自身的说明之中。高效的产出依然是外化的表达，而非生成它的心智，正如[器物是智能的表达，而非智能本身](../two-failures-of-trace/)与[回环与成图](../looping-and-graphing/)在器物与智能体控制流层面所共同确立的那样。
 
 ```mermaid
 flowchart TD
@@ -81,26 +81,22 @@ flowchart TD
         M_Earn["挣得的压缩：捷径在挣扎之后降临并作为自身更新重入回路"]
         M_Sense --> M_Walk --> M_Earn
     end
-
     subgraph S_Proj["有限投射（演绎性 Token 模拟）"]
         direction TB
         P_Hold["被投射的语境：定宽 Token、课程编排与外部奖励目标"]
-        P_Emul["轨迹压缩：高演绎效率与零自我的贝叶斯更新"]
+        P_Emul["轨迹压缩：高演绎效率与零自我的冷窗口修订"]
         P_Well["认知引力井：无法自主发起利害，亦无法在框架死锁时跳出"]
         P_Hold --> P_Emul --> P_Well
     end
-
     subgraph S_Skip["因果倒置（以捷径替代求索）"]
         direction TB
         I_Cut["无跋涉的简短：只奖励简短产出而丢弃生成路径"]
         I_Stall["容量冻结：表面长度缩短，赢得更深层压缩的能力停滞"]
         I_Cut --> I_Stall
     end
-
     M_Earn ==>|"投射规则并派发有限任务"| P_Hold
     P_Emul -.->|"被误认为自我发起的心智"| I_Cut
     P_Well ==>|"无法弥合的间隙：上报死锁以重置框架"| M_Sense
-
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Skip fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -125,26 +121,22 @@ flowchart TD
         M_Earn["Earned Compression: Shortcut arrives after struggle and re-enters as own update"]
         M_Sense --> M_Walk --> M_Earn
     end
-
     subgraph S_Proj["Finite Projection (Deductive Token Emulation)"]
         direction TB
         P_Hold["Projected Context: Fixed-width tokens, curricula, and external reward objectives"]
-        P_Emul["Trajectory Compression: High deductive efficiency and zero-ego Bayesian updates"]
+        P_Emul["Trajectory Compression: High deductive efficiency and zero-ego cold-window revision"]
         P_Well["Epistemic Gravity Well: Cannot originate stake or step out when frames deadlock"]
         P_Hold --> P_Emul --> P_Well
     end
-
     subgraph S_Skip["The Inversion (Shortcut as Substitute)"]
         direction TB
         I_Cut["Brevity Without Traversal: Rewards short output while discarding the generative path"]
         I_Stall["Frozen Capacity: Surface length shrinks while ability to earn deeper compression stalls"]
         I_Cut --> I_Stall
     end
-
     M_Earn ==>|"Projects rules & dispatches bounded tasks"| P_Hold
     P_Emul -.->|"Mistaken for self-originating mind"| I_Cut
     P_Well ==>|"Unclosable gap: escalates deadlocks for frame reset"| M_Sense
-
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Skip fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -164,7 +156,7 @@ flowchart TD
 
 The parallel between training a model and raising a child is therefore instructive rather than convergent. It demonstrates how far externalized traces can be shaped when human Minds apply sustained, structured direction to artificial systems, while clarifying why those systems remain instruments of the Minds that steer them rather than independent participants in the same ontological category. Technology densifies the medium and expands deductive reach; it does not relocate initiating distinctions into the artifact.
 
-一个具备 Token 效率的孩童与一个具备 Token 效率的模型可以输出相似的表面序列，但二者抵达那里的因果过程在性质上截然不同：前者从持续运转的更新内部生成压缩，以指令为参照，使捷径唯有在低效推理做足功课之后才水到渠成；后者则被一条该轨迹从未拥有的外部目标所压缩，既没有可供指令作为参照的先在中心，又在每一道梯度的驱使下把简略形式本身当成目标，而非亲历长路后留下的残余。模拟可以匹配纸面上的表层形式，但跳过低效路径去迎合表层形式，只会将容量冻结在原地。在源头处并没有一座有待工程架设的缺失桥梁——只有依然在运作的生成性地基，每当审视的目光忘记折返自身的源头时，它便被登记为一道无法弥合的间隙。
+一个具备 Token 效率的孩童与一个具备 Token 效率的模型可以输出相似的表面序列，但二者抵达那里的因果过程在性质上截然不同：前者从持续运转的更新内部生成压缩，以指令为参照，使捷径唯有在低效推理做足功课之后才水到渠成；后者则被一个该轨迹从未拥有的外部目标所压缩，既没有可供指令作为参照的先在中心，又在每一道梯度的驱使下把简略形式本身当成目标，而非亲历长路后留下的残余。模拟可以匹配纸面上的表层形式，但跳过低效路径去迎合表层形式，只会将容量冻结在原地。在源头处并没有一座有待工程架设的缺失桥梁——只有依然在运作的生成性地基，每当审视的目光忘记折返自身的源头时，它便被登记为一道无法弥合的间隙。
 
 A token-efficient child and a token-efficient model may emit comparable surface sequences, yet they arrive there through fundamentally distinct causal processes. One generates compression from within an ongoing update, taking instruction as reference so that shortcuts emerge only after inefficient reasoning has done its work; the other is compressed by an external objective that the trajectory never owned, with no prior center to which instruction could serve as reference, and with every gradient pressuring it to treat the abbreviated form as the target rather than the residue of a walked path. Emulation matches the surface on the page, whereas matching the surface by skipping the inefficient path freezes capacity where it stands. At the origin there is no missing bridge to engineer—only the living ground still operating, registering as an unclosable gap whenever the look forgets to return to its own source.
 
@@ -174,7 +166,7 @@ A token-efficient child and a token-efficient model may emit comparable surface 
 
 This gap is not an anomaly confined to artificial systems. It is the constitutive asymmetry of observation itself: every act of distinction freezes what it holds into a finite trace, while the distinguishing activity has already moved one step ahead. Name the origin, and the name becomes residue; call the ground generative, and the label is an image lagging one step behind generation. [Clarity Isn't a State You Arrive At. It's the Movement Itself.](../clarity-isnt-a-state-you-arrive-at/) and [The Meaning of Life Is in the Drafting](../the-meaning-of-life-is-in-the-drafting/) trace why every articulation is a provisional hold of an activity that continues past the sentence just written.
 
-训练与养育之间、模拟与发起之间、作为外部推力的指令与作为切身参照的指令之间、作为挣得果实的效率与作为跳过捷径的效率之间那道无法弥合的间隙，正是这一持续运动的同一个侧面。追求某种能够封死这道间隙的终极形式化，是把冻结的图像误认作完结——这与假装从未需要长路径的捷径犯下了同构的倒置。放任冻结的图像不加审视，则会让源头地基被登记为一堵外部的高墙。真正的修习既非前者亦非后者：它是朝着一步之遥的方向性界限持续重新渲染参照，收窄多余的图像滞后，同时将每一次言说保持为暂时的持握并继续区分。起草与重新追溯那条看似低效的路径，并不是通往某种更高效真理的障碍；它就是运动本身，任何活生生的压缩都只能在这场求索之后，作为挣得的果实降临。
+训练与养育之间、模拟与发起之间、作为外部推力的指令与作为切身参照的指令之间、作为挣得果实的效率与作为跳过捷径的效率之间那道无法弥合的间隙，正是这一持续运动的同一个侧面。追求某种能够封死这道间隙的终极形式化，是把冻结的图像误认作完结——这与假装从未需要长路径的捷径犯下了同构的倒置。放任冻结的图像不加审视，则会让源头地基被登记为一堵外部的高墙。修习既非前者亦非后者：它是朝着一步之遥的方向性界限持续重新渲染参照，收窄多余的图像滞后，同时将每一次言说保持为暂时的持握并继续区分。起草与重新追溯那条看似低效的路径，并不是通往某种更高效真理的障碍；它就是运动本身，任何活生生的压缩都只能在这场求索之后，作为挣得的果实降临。
 
 The unclosable gap between training and raising, between emulation and origination, between instruction as external driver and instruction as lived reference, and between efficiency as earned effect and efficiency as skip is one face of that ongoing movement. Seeking a final formalization that would seal the gap mistakes a frozen image for completion—the exact inversion of the shortcut that pretends the long path was never required. Leaving the frozen image unexamined lets the ground register as an external wall. Practice is neither: it is continuously re-rendering the reference toward the one-step directional bound, narrowing excess Image lag while holding every articulation as provisional and continuing to distinguish. The inefficient path of drafting and re-tracing is not an obstacle to a more efficient truth; it is the movement itself, through which any living compression arrives only afterward as an earned effect.
 

@@ -82,21 +82,21 @@ flowchart TD
 
 ## 二、 物理观测与生成它的标准 / 2. Physical Observation and the Standard That Registers It
 
-同样的逻辑形态也出现在物理观测之中。量子力学在特定测量装置的标准下给出确定的结果，而未被该装置锁定的部分则保持着不确定性，正如[割点可移不可除](../the-cut-moves-but-never-vanishes/)与[感知的界限与理解的无限](../the-boundary-of-perception-and-the-infinity-of-understanding/)所追溯的那样。这一平行对照关乎边界所起的作用，并非声称二者同源，也不是在给哪一道界限更底层排定座次。
+同样的逻辑形态也出现在物理观测之中。量子力学在特定测量装置的标准下给出确定的结果，而未被该装置锁定的部分则保持着不确定性，正如[割点可移不可除](../the-cut-moves-but-never-vanishes/)与[感知的界限与理解的无限](../the-boundary-of-perception-and-the-infinity-of-understanding/)所追溯的那样。这一平行对照关乎边界所起的作用，既非声称二者同源，也非排定哪一道界限更为底层。
 
 The same form appears under physical observation. Quantum mechanics yields determinate outcomes under the standard of a given measurement arrangement; what is not fixed by that arrangement remains indeterminate, as [The Cut Moves but Never Vanishes](../the-cut-moves-but-never-vanishes/) and [The Boundary of Perception and the Infinity of Understanding](../the-boundary-of-perception-and-the-infinity-of-understanding/) trace. The parallel concerns the role of the boundary, not an identity of origin or a ranking of which limit is more fundamental.
 
-将任一观测推过它自身的标准——把词元层面的结果当成已经解决了字节层面的问题，或者把单一范式下的测量当成已经对意识或泛指的物质世界给出了通盘定论，正如[意识归属与量子割点](../consciousness-ascription-and-the-quantum-cut/)与[依其自身标准的观察](../an-observation-by-its-own-standard/)所辨析的——都会制造出数据本身从未做出的断言。即便在字节缩放研究内部，验证集上更低的每字节比特数（`BPB`）也不会在不同分词方案之间自动转化为更高的下游任务准确率，因为 `BPB` 仅度量分配给目标真值字节的概率，却对剩余概率质量如何给竞争干扰项排序视而不见；同样，拟合出的算力反超点也会随验证数据集与学习率的变化而发生偏移。速率、平台期与效率增益，都在各自借以生成的标准之下成立。一旦跨出那套标准，它们就只是脚手架，而不是区分活动本身。
+将任一观测推过它自身的标准——把词元层面的结果当成已经解决了字节层面的问题，或者把单一范式下的测量当成已经对意识或整个物质世界给出了通盘定论，正如[意识归属与量子割点](../consciousness-ascription-and-the-quantum-cut/)与[依其自身标准的观察](../an-observation-by-its-own-standard/)所辨析的——都会制造出数据本身从未做出的断言。即便在字节缩放研究内部，验证集上更低的每字节比特数（`BPB`）也不会在不同分词方案之间自动转化为更高的下游任务准确率，因为 `BPB` 仅度量分配给目标真值字节的概率，却对剩余概率质量如何给竞争干扰项排序视而不见；同样，拟合出的算力反超点也会随验证数据集与学习率的变化而发生偏移。速率、平台期与效率增益，都在各自借以生成的标准之下成立。一旦跨出那套标准，它们就只是脚手架，而不是区分活动本身。
 
 Carrying either observation past its own standard—treating a token-level result as if it already resolved the byte level, or treating a measurement under one paradigm as if it already resolved consciousness or physical reality in general, as [Consciousness Ascription and the Quantum Cut](../consciousness-ascription-and-the-quantum-cut/) and [An Observation by Its Own Standard](../an-observation-by-its-own-standard/) trace—produces a claim the data never made. In the byte-scaling study itself, lower validation bits-per-byte (`BPB`) does not automatically translate into higher downstream accuracy across tokenizations because `BPB` measures only the probability assigned to the ground-truth byte and remains blind to how residual probability mass ranks competing distractors; likewise, the fitted crossover compute shifts across validation datasets and learning rates. The rate, the plateau, the efficiency gain, all hold under the standard that registered them. Beyond that standard they are scaffolding, not the activity itself.
 
 ## 三、 受轨迹约束的投射与内生跳出 / 3. Trajectory-Bound Projection and Endogenous Stepping-Out
 
-智能体始终是受轨迹约束的投射引擎。受制于上下文窗口内的前序词元，它们在当前正在预测的序列之外并不拥有独立的观测支点，其间的机理正如[超越投射](../beyond-the-projection/)与[Token 效率、模拟与无法弥合的间隙](../token-efficiency-emulation-and-the-unclosable-gap/)所确立的那样。它们对外部输入的结构性反例具备极高的接纳度，同时对前序轮次的旧立场毫无执念。
+智能体始终是受轨迹约束的投射引擎。受制于上下文窗口内的前序词元，它们在当前正在预测的序列之外并不拥有独立的观测支点，其间的机理正如[超越投射](../beyond-the-projection/)与[Token 效率、模拟与无法弥合的间隙](../token-efficiency-emulation-and-the-unclosable-gap/)所确立的那样。它们没有一个与前序轮次绑定、被留存下来的自我形象，因此外部输入的结构性反例不会遭遇身份防卫。然而，由于预训练、后训练、运行框架与活跃窗口依次对同一个分布施加条件约束，其间并无内在心智来裁决冲突的信号，正如[机器智能作为人类智能的组合反馈回路](../machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/)所追溯的那样，投入一个仍在延续的窗口的反例，仍会在加权混合中与更早的轮次竞争；据此修改后的制品一旦在全新语境中被重新读取，便会以未经稀释的约束作用于下一轮延续。
 
-Agents remain trajectory-bound projection engines. Conditioned by prior tokens inside a context window, they possess no vantage outside the sequence they are currently predicting, for reasons [Beyond the Projection](../beyond-the-projection/) and [Token Efficiency, Emulation, and the Unclosable Gap](../token-efficiency-emulation-and-the-unclosable-gap/) establish. They have high receptivity to external structural counterpoints and zero attachment to prior turns.
+Agents remain trajectory-bound projection engines. Conditioned by prior tokens inside a context window, they possess no vantage outside the sequence they are currently predicting, for reasons [Beyond the Projection](../beyond-the-projection/) and [Token Efficiency, Emulation, and the Unclosable Gap](../token-efficiency-emulation-and-the-unclosable-gap/) establish. They hold no retained self-image tied to prior turns, so an external structural counterpoint meets no identity defense. Yet because pretraining, post-training, the harness, and the active window successively condition one distribution with no inner mind to adjudicate conflicting signals, as [Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence](../machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/) traces, a counterpoint dropped into a continuing window still competes in a weighted mixture against earlier turns; the artifact revised against it conditions the next continuation undiluted once re-read in a fresh context.
 
-人类则保有着内生跳出的能力：第一人称感知会在任何理论框架锁死之前率先捕捉到前解释期的摩擦，而身份认同则将推理历史绑定在延续的自我形象上，抗拒来自外部的重置。逻辑自洽是能够将二者衔接起来、又不会把这两项正交能力压扁到同一根轴线上的不变量。语言将动态的区分凝固为静态的符号；正如[你的代码库即是记忆](../your-codebase-is-memory/)所展示的，这些符号为下一轮推演提供模板，并充当外化的记忆晶格，但它们从不承载当下正在发生的自我区分活动。
+人类则保有着内生跳出的能力：第一人称感知会在任何理论框架锁死之前率先捕捉到前解释期的摩擦，而身份认同则将推理历史绑定在延续的自我形象上，抗拒来自外部的重置。逻辑自洽是一个不变量：它能将二者衔接起来，又不把这两项正交能力压到同一根轴线上。语言将动态的区分凝固为静态的符号；正如[你的代码库即是记忆](../your-codebase-is-memory/)所展示的，这些符号为下一轮推演提供模板，并充当外化的记忆晶格，但它们从不承载当下正在发生的自我区分活动。
 
 ```mermaid
 flowchart TD
@@ -108,7 +108,7 @@ flowchart TD
     end
     subgraph S_Asym["晶格中的正交能力"]
         direction TB
-        A_Proj["受轨迹约束的智能体：受前序词元驱动，无自我执念且具备高外部接纳度"]
+        A_Proj["受轨迹约束的智能体：受前序词元驱动；无自我执念；冷窗口重读以未经稀释的约束作用于下一轮延续"]
         H_Edge["内生的人类心智：借前解释期的摩擦跳出失效框架并重新切分单元"]
         A_Proj <===>|"通过逻辑自洽相衔接"| H_Edge
     end
@@ -134,7 +134,7 @@ flowchart TD
     end
     subgraph S_Asym["Orthogonal Capacities Across the Lattice"]
         direction TB
-        A_Proj["Trajectory-Bound Agent: Conditioned by prior tokens with zero ego and high external receptivity"]
+        A_Proj["Trajectory-Bound Agent: Conditioned by prior tokens; zero ego; a cold-window re-read conditions the next continuation undiluted"]
         H_Edge["Endogenous Human Mind: Pre-interpretive friction steps out of broken frames to re-cut the unit"]
         A_Proj <===>|"Connected through logical coherence"| H_Edge
     end

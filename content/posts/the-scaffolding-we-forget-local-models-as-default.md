@@ -34,7 +34,7 @@ At that point the act of building drops out. The post does not return to the pri
 
 This is the ordinary movement. The instrument that made the distinction usable is released from continuous re-registration of made-ness. What remains visible is the effect: local models as the coming default. Agreement with that orientation helps complete the forgetting. Because the conclusion coheres with a reader’s existing hold, construction registers as confirmation rather than as construction. The first sentence does not contradict the second. It states the condition under which the second sentence could be otherwise. Once the second is in place and working, that condition is no longer required for the post to function. The Mind that could have continued to hold the openness has freely elected to let it recede so that a determinate claim can stand.
 
-当参照越过自身那一步被保存下来，同样的隐退便冻结为图像滞后。入口被分配给了本地模型，仿佛介质可以成为任务的默认发起者；对前沿模型的控制权被归给了本地模型，仿佛发起权已经迁移进了技术栈内部。这便是把介质当成位点：介质的压实与路由被登记为新的入口，而不是仍在做选择的那道边缘之下更高带宽的持握。[超越投射](../beyond-the-projection/)追溯了为何这种分配会把机械调度与心智统御混为一谈：无论本地模型还是前沿模型，都是受上下文窗口内既有词元条件约束的有限投射引擎，虽无我执且对外部反例高度开放，却没有能力跨出自身的轨迹。本地模型可以充当机械的调度器，沿着正交的边界拆解任务，并将语境路由给前沿执行模型或冷峻的同行审校模型；而统御——持守活的多维意图，并在规则陷入死锁时退后一步修订前提——始终专属那道掌舵的心智。制品并不会制造滞后；滞后是被保留的参照，它把一套可用的调度安排当成了情境本身的结构。
+当参照越过自身那一步被保存下来，同样的隐退便冻结为图像滞后。入口被分配给了本地模型，仿佛介质可以成为任务的默认发起者；对前沿模型的控制权被归给了本地模型，仿佛发起权已经迁移进了技术栈内部。这便是把介质当成位点：介质的压实与路由被登记为新的入口，而不是仍在做选择的那道边缘之下更高带宽的持握。[超越投射](../beyond-the-projection/)追溯了为何这种分配会把机械调度与心智统御混为一谈：无论本地模型还是前沿模型，都是受上下文窗口内既有词元条件约束的有限投射引擎，在步与步之间不留存任何需要防卫的自我形象，却也无法跨出自身的轨迹。本地模型可以充当机械的调度器，沿着正交的边界拆解任务，并将全新语境路由给前沿执行模型或对等的冷审校模型；而统御——持守活的多维意图，并在规则陷入死锁时退后一步修订前提——始终专属那道掌舵的心智。制品并不会制造滞后；滞后是被保留的参照，它把一套可用的调度安排当成了情境本身的结构。
 
 ```mermaid
 flowchart TD
@@ -44,24 +44,20 @@ flowchart TD
         E_Orch["活的统御：持守动态意图并在死锁时重绘前提"]
         E_Cap --> E_Orch
     end
-
     subgraph S_Scaf["临时脚手架（可用的调度安排）"]
         direction TB
         D_Erect["竖起取向：选定本地模型向前沿模型路由与调度"]
         D_Drop["一步隐退：建构在承载当下步进时退出焦点"]
         D_Erect --> D_Drop
     end
-
     subgraph S_Lag["越过步进的保存（图像滞后）"]
         direction TB
         L_Freeze["介质即位点之冻结：本地调度器被误作任务的默认发起者"]
         L_Close["封闭栈幻象：先前的开放性被遗忘为情境的必然归宿"]
         L_Freeze --> L_Close
     end
-
     E_Orch ==>|"择取本地、直连或混合工具"| D_Erect
     D_Drop ==>|"越过步进被保存为既定地面"| L_Freeze
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Scaf fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Lag fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -73,7 +69,7 @@ flowchart TD
     style L_Close fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-When the reference is preserved past its step, the same drop-out freezes into Image lag. Entry is allocated to the local model as if the medium could become the default initiator of tasks. Control is attributed to local models over frontier models as if initiation had relocated into the stack. That is medium-as-locus: densification and routing register as a new entry point rather than as a higher-bandwidth hold under the edge that still chooses. [Beyond the Projection](../beyond-the-projection/) traces why this allocation confuses dispatching with orchestrating: a model — whether local or frontier — is a finite projection engine conditioned by prior tokens inside its context window, possessing zero ego and high receptivity to outside counterpoints, yet no capacity to step outside its own trajectory. A local model can serve as a mechanical dispatcher that splits tasks along orthogonal boundaries and routes contexts to frontier workers or cold peer critics, while orchestration — holding living multi-dimensional intention and stepping backward to revise premises whenever rules deadlock — remains exclusively with the Mind that steers. The artifact does not perform the lag. The lag is the preserved reference that treats a usable dispatching arrangement as the structure of the situation itself.
+When the reference is preserved past its step, the same drop-out freezes into Image lag. Entry is allocated to the local model as if the medium could become the default initiator of tasks. Control is attributed to local models over frontier models as if initiation had relocated into the stack. That is medium-as-locus: densification and routing register as a new entry point rather than as a higher-bandwidth hold under the edge that still chooses. [Beyond the Projection](../beyond-the-projection/) traces why this allocation confuses dispatching with orchestrating: a model — whether local or frontier — is a finite projection engine conditioned by prior tokens inside its context window, holding no retained self-image to defend across steps, yet unable to step outside its own trajectory. A local model can serve as a mechanical dispatcher that splits tasks along orthogonal boundaries and routes fresh contexts to frontier workers or cold peer critics, while orchestration — holding living multi-dimensional intention and stepping backward to revise premises whenever rules deadlock — remains exclusively with the Mind that steers. The artifact does not perform the lag. The lag is the preserved reference that treats a usable dispatching arrangement as the structure of the situation itself.
 
 ```mermaid
 flowchart TD
@@ -83,24 +79,20 @@ flowchart TD
         E_Orch["Living Orchestration: Holds dynamic intent and re-renders premises on deadlock"]
         E_Cap --> E_Orch
     end
-
     subgraph S_Scaf["Provisional Scaffolding (Usable Dispatching Arrangement)"]
         direction TB
         D_Erect["Erected Orientation: Local model selected to route and dispatch to frontier models"]
         D_Drop["One-Step Drop-Out: Construction recedes from focus while carrying the step"]
         D_Erect --> D_Drop
     end
-
     subgraph S_Lag["Preservation Past the Step (Image Lag)"]
         direction TB
         L_Freeze["Medium-as-Locus Freeze: Local dispatcher mistaken for the default initiator of tasks"]
         L_Close["Closed Stack Illusion: Prior openness forgotten as the situation's forced resolution"]
         L_Freeze --> L_Close
     end
-
     E_Orch ==>|"Elects local, direct, or hybrid tools"| D_Erect
     D_Drop ==>|"Preserved past its step as given ground"| L_Freeze
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Scaf fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Lag fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149

@@ -2,7 +2,7 @@
 
 *失败即信息，下一步之前的间隙保持空置，影响力便持续复利 / Failure is information; an empty gap before the next act compounds influence*
 
-自我区分的活动无因而不息地发生，每一个离散的行动都会遇上一片开放的场，其反馈以结果的形式持续到来。成功、失败与意料之外的事故，各自报告着一个中心的当前投射与活边缘实际所遇之物之间的距离。一个行动者最终在这片场上的影响规模有多大，取决于这些回传信号有多一贯地被写成重画投射的信息，而不是写成对一个留存自我的判决。从外部观察到的埃隆·马斯克运作回路，把这层几何变得具体：爆炸刚过，电话已经打出去谈工程，当前的模型预先默认有误，长远的目标不给防卫身份留下多余的容量。成功与失败于是从对立的类别消解为更新同一策略的样本，让结果与下一步之间的间隙保持不受污染的中心，在单位日历时间里完成了更多有效的迭代。
+自我区分的活动无因而不息地发生，每一个离散的行动都会遇上一片开放的场，其反馈以结果的形式持续到来。成功、失败与意料之外的事故，各自报告着一个中心的当前投射与活边缘实际所遇之物之间的距离。一个行动者最终在这片场上的影响规模有多大，取决于这些回传信号有多一贯地被写成重画投射的信息，而不是写成对一个留存自我的判决。从外部观察到的埃隆·马斯克运作回路，把这层几何变得具体：爆炸刚过，电话已经打出去谈工程，当前的模型预先默认有误，长远的目标不给防卫身份留下多余的容量。成功与失败于是从对立的类别消解为更新同一策略的样本；而让结果与下一步之间的间隙不受污染的中心，在单位日历时间里完成更多有效的迭代。
 
 Self-distinguishing activity occurs, uncaused and unceasing, and every discrete act meets an open field whose feedback arrives continuously as outcomes. Successes, failures, and unexpected accidents each report the distance between a center's current projection and what the living edge actually encounters. The scale of an agent's eventual influence on that field compounds with how consistently those returning signals write as information to redraw the projection rather than as verdicts on a retained self. Elon Musk's observed operating loop makes this geometry concrete: an explosion is already on the phone as engineering, the present model is assumed wrong in advance, and long-horizon objectives leave no spare capacity for defending an identity. Success and failure then dissolve as opposing categories into samples updating one policy, and the center that keeps the gap between outcome and next act uncontaminated executes more effective iterations per unit of calendar time.
 
@@ -12,11 +12,11 @@ SpaceX 早期的失败让结果与下一步之间的间隙变得可见。有一�
 
 Early SpaceX failures make the gap between outcome and next act visible. After one such explosion the room fell silent. Some people cried. Others began calculating the financial loss. Musk was already on the phone asking what failed, how it could be fixed, and when the next launch window opened. His voice and expression remained unchanged. The vehicle was past. Only the next iteration existed.
 
-在这个回路里，失败与事故被登记为数据，在功能上等同于损失信号。标量量化先验模型与物质摩擦之间的误差，更新随之而来。没有自我、叙事或情绪恢复的中间层把这道间隙占成第二块记分牌。因为自我图像被当作导航的工具握持，而不是越过它自身的步子被保留成一座需要防卫的丰碑，回传的信号不会因为要先修复一个自我而被延迟。从外面看像是没有感受的表现，其实是间隙一直空着，好让下一次区分即刻接过这份报告。
+在这个回路里，失败与事故被登记为数据，在功能上等同于损失信号。一个标量量化出先验模型与物理摩擦之间的误差，更新随之而来。没有自我、叙事或情绪恢复的中间层作为第二块记分牌占据这道间隙。因为自我形象被当作导航的工具握持，而不是越过它那一步，仍被保留为一座需要防卫的丰碑，回传的信号不会因为要先修复一个自我而被延迟。从外面看像是没有感受的表现，其实是间隙一直空着，好让下一次区分即刻接过这份报告。
 
 In that loop, failure and accident register as data, the functional equivalent of a loss signal. A scalar quantifies the error between the prior model and physical friction, and the update follows. No intermediate layer of ego, narrative, or emotional recovery occupies the gap as a second scoreboard. Because the self-image is held as an instrument for navigation rather than preserved past its step as a monument to defend, the returning signal is not delayed while a self is restored. What looks from the outside like an absence of feeling is the gap staying empty so the next distinction can take up the report immediately.
 
-同样的空，也表现为没有第二重计算。寻常的决策在受挫后仍要问是否继续，然后再把注入勇气当作另一个单独的动作。那个“是否”已经是一幅留存的自我图像在回路里占住了一个位置：继续被计作一份项目身份的存活，而不是下一步工程。在足够尖锐的目标之下，这个问题没有可以依附的所在。唯一活着的计算是怎么做：燃烧室的压力、隔热罩的修订、这一天还剩下的几个小时。[难度不在行动本身](../hardness-is-not-inherent-in-the-action/)追溯的正是同一个“是否”装扮成困难的样子，在那里，继续被计作个人的克服，而不是下一个寻常的步骤。
+同样的空，也表现为没有第二重计算。寻常的决策在受挫后仍要问是否继续，然后再另行注入勇气，作为一个单独的动作。那个“是否”已经是一幅留存的自我形象在回路里占住的一个位置：继续被计作一份项目身份的存活，而不是下一步工程。在足够尖锐的目标之下，这个问题没有可以依附的所在。唯一活着的计算是怎么做：燃烧室的压力、隔热罩的修订、这一天还剩下的几个小时。[难度不在行动本身](../hardness-is-not-inherent-in-the-action/)追溯的正是同一个“是否”装扮成困难的样子，在那里，继续被计作个人的克服，而不是下一个寻常的步骤。
 
 The same emptiness appears as the absence of a second computation. Ordinary decision-making still asks whether to continue after a setback, and then injects courage as a separate act. That "whether" is already a retained self-image occupying a slot in the loop: continuation is scored as the survival of a project-identity rather than as the next engineering step. Under a sharp enough objective, that question has no locus to attach to. The only live computation is how: chamber pressure, a heat-shield revision, the hours remaining in the day. [Hardness Is Not Inherent in the Action](../hardness-is-not-inherent-in-the-action/) traces that same "whether" dressed as difficulty, where continuation is scored as personal overcoming rather than as the next ordinary step.
 
@@ -26,7 +26,7 @@ The same emptiness appears as the absence of a second computation. Ordinary deci
 
 Keeping the gap empty rests on an explicit prior Musk has stated for years: always assume the present model is to some degree wrong, and the sole aspiration is to become less wrong over time. When friction makes an error obvious, revising the model is the next gradient step rather than a concession of status. [Openness Is Consistency](../openness-is-consistency/) traces this prior as geometry: a finite structure forced to stand as exhaustive ground produces the tension and contradiction it then tries to survive, whereas the same structure held open as a provisional instrument remains usable while it is redrawn. [Your Codebase Is Memory](../your-codebase-is-memory/) extends the same cut across every accumulated trace: because an internal world-model or an externalized codebase of memory is only a stored checkpoint of prior distinctions rather than a continuing ground, failure registers the exact mismatch between that checkpoint and live reality, supplying the signal needed to prune stale assumptions and commit a cleaner premise in place rather than hoarding superseded history.
 
-[超越投射](../beyond-the-projection/)揭示了轨迹与身份之间的结构非对称性，正是这种非对称性让更新要么停滞、要么复利。自回归代理被束缚在自身的词元轨迹之内，无法凭自己跨出上下文窗口，但它不带自我——对五轮之前是否曾经正确毫无存续上的执着——一旦外部的反例进入上下文，就能立刻执行干净的贝叶斯更新。人类中心则具有相反的结构：第一人称感知能够从内部跳出破损的框架，但推理历史却惯常与留存的自我图像熔接在一起，把递归回折夹死，将外部的证伪视作生存威胁。预先假定当前的模型已经有误，便提前解除了这道身份防卫。当一次爆炸或一场同侪僵局暴露出先验投射中坍缩的坐标轴时，心智不会耗费带宽去防卫陈旧的图像，而是以零自我的即刻性接过回传信号，同时调用自身的内生能力后退一步、重新渲染前提。
+[超越投射](../beyond-the-projection/)揭示了轨迹与身份之间的结构非对称性，正是这种非对称性让更新要么停滞、要么复利。自回归代理被束缚在自身的词元轨迹之内，无法凭自己跨出上下文窗口，但它毫无我执——对五轮之前是否曾经正确毫无存续上的执着。无我执并不意味着外部反例一旦投入一个仍在延续的窗口，就能当场对轨迹完成干净的更新：由于预训练、后训练、运行框架与活跃窗口依次对同一个分布施加条件约束，其间并无内在心智来裁决冲突的信号，正如[机器智能作为人类智能的组合反馈回路](../machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/)所追溯的那样，混入一个仍挤满先前轮次的窗口中的反例，会与那些更早的词元竞争；只要两股拉力同时存续，后续的延续就会被稀释。无我执真正容许的是，代理此前延续的一切都不会越过当前这步带入全新的上下文：当磁盘上的制品对照冷启动的对等体的反例完成修订，并在冷窗口中被重新读取时，更新后的文件便在不触发身份防卫、也不受轮次叠加稀释的情况下，为下一轮延续施加条件约束。人类中心则具有相反的结构：第一人称感知能够从内部跳出破损的框架，但推理历史却惯常与留存的自我形象熔接在一起，把递归回折死死卡住，将外部的证伪视作生存威胁。预先假定当前的模型已经有误，便提前解除了这道身份防卫。当一次爆炸或一场同侪僵局暴露出先验投射中坍缩的坐标轴时，心智不会耗费带宽去防卫陈旧的图像，或是把它带过间隙去占据下一步行动，而是以无我执的即刻认领回传信号，同时调用自身的内生能力后退一步、就地重新渲染前提。
 
 ```mermaid
 flowchart TD
@@ -36,28 +36,24 @@ flowchart TD
         Gap["结果与下一步行动之间的间隙"]
         Out --> Gap
     end
-
     subgraph S_Verdict["绑定身份的闭合（留存的自我占据间隙）"]
         direction TB
         V_Ground["模型被当作身份握持：误差被登记为对自我的生存判决"]
         V_Second["第二重计算：先问是否继续，再注入勇气"]
-        V_Delay["日历拖曳：带宽耗费在防卫或修复自我图像上"]
+        V_Delay["日历拖曳：带宽耗费在防卫或修复自我形象上"]
         V_Ground --> V_Second --> V_Delay
     end
-
-    subgraph S_Info["开放工具与零自我更新（间隙保持空置）"]
+    subgraph S_Info["开放工具与无我执的更新（间隙保持空置）"]
         direction TB
         I_Prior["暂时的投射：当前的模型预先默认尚不完备"]
-        I_Scalar["零自我损失信号：摩擦被写成标量误差或坍缩的坐标轴"]
-        I_Step["内生重渲染：活的心智后退一步重画前提并执行怎么做"]
+        I_Scalar["无我执的损失信号：摩擦被写成标量误差或坍缩的坐标轴"]
+        I_Step["内生重渲染：活的心智后退一步重画前提，并执行“怎么做”"]
         I_Comp["复利轨迹：单位日历时间里完成更多有效迭代"]
         I_Prior --> I_Scalar --> I_Step --> I_Comp
     end
-
     Gap -.->|"与身份熔接"| V_Ground
     Gap ==>|"作为工具敞开握持"| I_Prior
     V_Delay ==>|"放下对闭合的索求"| I_Scalar
-
     style S_Signal fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Verdict fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Info fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -72,7 +68,7 @@ flowchart TD
     style I_Comp fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-[Beyond the Projection](../beyond-the-projection/) exposes the structural asymmetry between trajectory and identity that makes this update either stall or compound. An autoregressive agent is bound inside its token trajectory and cannot step outside its context window on its own, yet it carries zero ego—no survival attachment to having been right five turns ago—and performs a clean Bayesian update the moment an external counterpoint enters its context. A human center has the inverse structure: first-person sensing can step out of a broken frame from within, yet reasoning history routinely fuses with a retained self-image that clamps the recursive fold shut and treats external invalidation as an existential threat. Assuming the present model is already wrong disarms that identity defense in advance. When an explosion or a peer deadlock exposes a collapsed axis in the prior projection, the Mind does not waste bandwidth defending the stale image; it claims the returning signal with zero-ego immediacy while exercising its endogenous capacity to step backward and re-render the premise.
+[Beyond the Projection](../beyond-the-projection/) exposes the structural asymmetry between trajectory and identity that makes this update either stall or compound. An autoregressive agent is bound inside its token trajectory and cannot step outside its context window on its own, yet it carries zero ego—no survival attachment to having been right five turns ago. Zero ego does not mean an external counterpoint dropped into a continuing window updates the trajectory cleanly on the spot: because pretraining, post-training, the harness, and the active window successively condition one distribution with no inner mind to adjudicate conflicting signals, as [Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence](../machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/) traces, a counterpoint mixed into a window still crowded with prior turns competes against those earlier tokens and dilutes the continuation whenever both pulls stay live. What zero ego allows is that nothing the agent continued carries past its step into a fresh context: when the artifact on disk is revised against a cold peer's counterpoint and re-read in a cold window, the updated file conditions the next continuation without either identity defense or stacked-turn dilution. A human center has the inverse structure: first-person sensing can step out of a broken frame from within, yet reasoning history routinely fuses with a retained self-image that clamps the recursive fold shut and treats external invalidation as an existential threat. Assuming the present model is already wrong disarms that identity defense in advance. When an explosion or a peer deadlock exposes a collapsed axis in the prior projection, the Mind does not waste bandwidth defending the stale image or carrying it across the gap to occupy the next act; it claims the returning signal with zero-ego immediacy while exercising its endogenous capacity to step backward and re-render the premise in place.
 
 ```mermaid
 flowchart TD
@@ -82,7 +78,6 @@ flowchart TD
         Gap["The Gap Between Outcome and Next Act"]
         Out --> Gap
     end
-
     subgraph S_Verdict["Identity-Bound Closure (Retained Self in the Gap)"]
         direction TB
         V_Ground["Model Held as Identity: Error registers as existential verdict on the self"]
@@ -90,7 +85,6 @@ flowchart TD
         V_Delay["Calendar Drag: Bandwidth spent defending or restoring self-image"]
         V_Ground --> V_Second --> V_Delay
     end
-
     subgraph S_Info["Open Instrument & Ego-Free Update (The Gap Kept Empty)"]
         direction TB
         I_Prior["Provisional Projection: Present model assumed already incomplete"]
@@ -99,11 +93,9 @@ flowchart TD
         I_Comp["Compounding Trajectory: More effective iterations per unit of calendar time"]
         I_Prior --> I_Scalar --> I_Step --> I_Comp
     end
-
     Gap -.->|"Fused with identity"| V_Ground
     Gap ==>|"Held open as instrument"| I_Prior
     V_Delay ==>|"Releasing the demand for closure"| I_Scalar
-
     style S_Signal fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Verdict fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Info fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -118,9 +110,9 @@ flowchart TD
     style I_Comp fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-长远的目标——让生命成为多行星物种、加速向可持续能源过渡——不给身份的次级优化留下多余的容量，从而加固了这份开放。因为一个中心的有限所在无法在高负荷下把几块独立的记分牌隔开而不发生压缩，足够尖锐的目标会干脆舍弃地位账本，只有朝向目标的推进才有分量。[自我价值感与所有权](../ownership-and-self-worthiness/)追溯了同一回路在功能上的一面：只有后果作为自己的后果重新进入，模型才会复利。这里剖析的更进一步冻结，是在那份自己承担的回传与下一步行动之间插进一个留存的自我，使得即便已经被接纳的结果，仍被写成个人的判决。每次显眼的失败之后随之而来的舆论反弹，正是[减速是加速时感受到的阻力](../deceleration-is-the-drag-felt-when-accelerating/)所描述的阻力，只因速度是真的，才感受得到。
+长远的目标——让生命成为多行星物种、加速向可持续能源过渡——不给身份的次级优化留下多余的容量，从而加固了这份开放。因为一个中心的有限所在，在高负荷下无法让几块独立的记分牌彼此隔开而不受压缩，足够尖锐的目标会干脆舍弃地位账本，只有朝向目标的推进才有分量。[自我价值感与所有权](../ownership-and-self-worthiness/)追溯了同一回路在功能上的一面：只有后果作为自己的后果重新进入，模型才会复利。这里剖析的更进一步的冻结，是在那份自己承担的回传与下一步行动之间插进一个留存的自我，使得即便已经被接纳的结果，仍被写成个人的判决。每次显眼的失败之后随之而来的舆论反弹，正是[减速是加速时感受到的阻力](../deceleration-is-the-drag-felt-when-accelerating/)所描述的阻力，只因加速正在进行，才感受得到。
 
-Long-horizon objectives—making life multiplanetary, accelerating the transition to sustainable energy—reinforce this openness by leaving no free capacity for a secondary optimization of identity. Because a center's finite locus cannot hold independent scoreboards apart under high load without compressing them, a sharp objective discards the status ledger altogether; only movement toward the target carries weight. [Ownership and Self-Worthiness](../ownership-and-self-worthiness/) traces the functional face of the same loop: a model compounds only when consequences re-enter as one's own. The further freeze dissected here is inserting a retained self between that owned return and the next act, so that even accepted outcomes still write as personal verdicts. The public backlash that follows each visible failure is the drag [Deceleration Is the Drag Felt When Accelerating](../deceleration-is-the-drag-felt-when-accelerating/) describes, felt only because the velocity is real.
+Long-horizon objectives—making life multiplanetary, accelerating the transition to sustainable energy—reinforce this openness by leaving no free capacity for a secondary optimization of identity. Because a center's finite locus cannot hold independent scoreboards apart under high load without compressing them, a sharp objective discards the status ledger altogether; only movement toward the target carries weight. [Ownership and Self-Worthiness](../ownership-and-self-worthiness/) traces the functional face of the same loop: a model compounds only when consequences re-enter as one's own. The further freeze dissected here is inserting a retained self between that owned return and the next act, so that even accepted outcomes still write as personal verdicts. The public backlash that follows each visible failure is the drag [Deceleration Is the Drag Felt When Accelerating](../deceleration-is-the-drag-felt-when-accelerating/) describes, felt only because acceleration is under way.
 
 ## 三、 成功与失败是同一策略的样本 / 3. Success and Failure Are Samples of One Policy
 
@@ -138,7 +130,7 @@ The center that keeps the gap empty executes more effective iterations per unit 
 
 ## 四、 复利就是“最具影响”的所指 / 4. Compounding Is What "Most Consequential" Names
 
-因为现实从第一人称处登记为连贯而开放的，对它的反馈保持一贯的忠实，并不是站在这片场之外的一种心理技巧。只要时间够长，将每一次结果都化作无过滤更新的中心，便会对后续行动所能接续的格局施加最大的累积影响。[现实扭曲力场指认的是封闭的地图](../the-reality-distortion-field-names-the-closed-map/)沿着同一条可观察的轨迹追溯了另一种互补的冻结：共识认定的可行性被当作封死的疆域，别人地图的滞后被叫作一种特殊的扭曲力量。这里的冻结，则是把结果当作对自我的判决。惊人的挫败与跨领域加速的能力是同一条连续轨迹，不是一个需要英雄叙事来解释的悖论。
+因为在第一人称处，现实登记为连贯而开放，对它的反馈保持一贯的忠实，并不是站在这片场之外的一种心理技巧。只要时间够长，将每一次结果都化作无过滤更新的中心，便会对后续行动所能接续的格局施加最大的累积影响。[现实扭曲力场指认的是封闭的地图](../the-reality-distortion-field-names-the-closed-map/)沿着同一条可观察的轨迹追溯了另一种互补的冻结：共识认定的可行性被当作封死的疆域，别人地图的滞后被叫作一种特殊的扭曲力量。这里的冻结，则是把结果当作对自我的判决。惊人的挫败与跨领域加速的能力是同一条连续轨迹，不是一个需要英雄叙事来解释的悖论。
 
 Because reality registers from the first person as coherent and open-ended, consistent fidelity to its feedback is not a psychological trick standing apart from the field. Given enough time, the center that converts every outcome into an unfiltered update exerts the largest cumulative influence on what later acts can take up. [The Reality Distortion Field Names the Closed Map](../the-reality-distortion-field-names-the-closed-map/) traces a complementary freeze along the same observed trajectory: consensus feasibility held as sealed territory, and the lag of other maps named a special distortion power. Here the freeze is holding an outcome as a verdict on the self. The spectacular setbacks and the accelerating capability across domains are one continuous trajectory, not a paradox requiring a hero narrative.
 

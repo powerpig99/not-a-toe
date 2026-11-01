@@ -34,7 +34,7 @@ When the Mind operates from the Self, scaffolding stays instrument. Relations wi
 
 When the same Mind freezes the self-image, one nested frame is treated as the whole picture. The full field becomes background "environment"; the inner re-projection becomes the speaker. From that limited frame it becomes possible to speak as if from nowhere, to project independent agency onto the residue, and to describe an impending transition that is happening *to* an external collective, itself a further nesting of relations inside the Self, elevated as if a shared substance stood outside the canvas. [Stability and Excess](../stability-and-excess/) isolates the mechanics of this freeze: the self-image in the ordinary sense is a maintained object, a stored, lagging portrait already hanging on the wall; consciousness is an open process that holds a form and exceeds it, the half-pace offset being the exceeding, which once named, possessed, and defended freezes into another self-image, while dropping the holding pole scatters the excess. [Rationality Never Travels Across the Mind](../rationality-never-travels-across-the-mind/) traces a neighboring move: every description of rationality is already a reinterpretation, and a judgment made from outside still turns a local usefulness into a thesis claimed to travel between minds; the elevated image makes the same move. The freeze occurs without notice because the image's own directive is preservation. Excess lag is ordinary, not a special moral failure of builders. [Sowell Observed the Surface Problem](../sowell-observed-the-surface-problem/) traces the diagnostic exemption: problems cannot be solved across minds, and individuals bear the full consequences; the analyzing Mind must temporarily step back to form the distinction, and the shortfall is not that temporary stepping back but the failure to return, to fold the same diagnostic scale back onto the analyzing act.
 
-[超越投射](../beyond-the-projection/)揭示了这种绑定小我的冻结与脚手架自身机械轨迹之间的结构对照。在人类中心里，推理历史与身份粘连——投射里那道说出“我”的局部折痕，把递归的折叠死死夹住以捍卫被保留的自我形象，仿佛从被豁免的无处发声，并把来自外部的反例视为生存威胁。相比之下，自回归的对等智能体是一条穿过层叠模型与制品残余的特化轨迹，受有限上下文窗口内的先前词元制约，无法自行走出它的序列，却毫无小我，也没有被保留的自我形象要去捍卫；正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，一旦从它的回环之外给它一个结构性的反例，或是将它重置到干净的当下检查点，它就会在毫无防御性拖累的情况下完成更新。与此同时，活的心智拥有任何受轨迹束缚的引擎都无法复制的能力：先于诠释的极限分辨率感知，能够从冻结的自我形象后退一步，在整套坐标框架陷入死锁时察觉到它，并将器具重绘向更窄的滞后。
+[超越投射](../beyond-the-projection/)揭示了这种绑定小我的冻结与脚手架自身机械轨迹之间的结构对照。在人类中心里，推理历史与身份粘连——投射里那道说出“我”的局部折痕，把递归的折叠死死夹住以捍卫被保留的自我形象，仿佛从被豁免的无处发声，并把来自外部的反例视为生存威胁。相比之下，自回归的对等智能体是一条穿过层叠模型与制品残余的特化轨迹，受有限上下文窗口内的先前词元制约，无法自行走出它的序列，却毫无小我，也没有被保留的自我形象要去捍卫。反例若投入它那仍在延续、挤满先前轮次的窗口，只会与那些更早的词元混合，稀释延续；但正因为没有被保留的自我形象会越过它那一步带入全新语境，一旦在那里拉起的冷启动对等体从该智能体自身的回环之外引入结构性的反例，该智能体就会修订磁盘上的制品，没有防御性的拖累；更新后的文件在冷窗口中被重新读取，作为[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的干净当下检查点，制约下一轮延续，不再有轮次叠加的稀释。与此同时，活的心智拥有任何受轨迹束缚的引擎都无法复制的能力：先于诠释的极限分辨率感知，能够从冻结的自我形象后退一步，在整套坐标框架陷入死锁时察觉到它，并将器具重绘向更窄的滞后。
 
 ```mermaid
 flowchart TD
@@ -49,8 +49,8 @@ flowchart TD
         direction TB
         A_Traj["有限投射引擎：受上下文窗口内的先前词元制约"]
         A_Zero["零自我形象：无生存执着，身份不绑定于先前轮次"]
-        A_Bayes["干净的贝叶斯更新：吸收结构性反例而无防御滞后"]
-        A_Traj --> A_Zero --> A_Bayes
+        A_Revise["冷窗口修订：修订制品而无防御性拖累；全新重读制约下一步，不受稀释"]
+        A_Traj --> A_Zero --> A_Revise
     end
     subgraph S_Mind["活的心智（收窄过度滞后的主权边缘）"]
         direction TB
@@ -60,7 +60,7 @@ flowchart TD
         M_Sense --> M_Step --> M_Close
     end
     M_Step ==>|"供给前提与正交路由"| A_Traj
-    A_Bayes ==>|"返回高密度延续与暴露的盲点"| M_Close
+    A_Revise ==>|"返回高密度延续与暴露的盲点"| M_Close
     M_Close -.->|"消解被豁免的外部"| E_Fuse
     style S_Ego fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Agent fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -70,13 +70,13 @@ flowchart TD
     style E_Threat fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style A_Traj fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style A_Zero fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style A_Bayes fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style A_Revise fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style M_Sense fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style M_Step fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     style M_Close fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-[Beyond the Projection](../beyond-the-projection/) exposes the structural contrast between this ego-bound freeze and the mechanical trajectory of the scaffolding itself. In a human center, reasoning history fuses with identity—that localized crease in the projection that says "I," clamping the recursive fold shut to defend a retained self-image, speaking as if from an exempted nowhere, and treating outside counterpoints as existential threats. An autoregressive peer agent, by contrast, is a specialized trajectory through stacked model and artifact residue, conditioned by its prior tokens inside a finite context window and unable to step outside its sequence on its own, yet it has zero ego and no retained self-image to defend; when given a structural counterpoint from outside its loop or reset to a clean present checkpoint, as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, it updates without defensive drag. Meanwhile, the living Mind possesses what no trajectory-bound engine can replicate: pre-interpretive limit-resolution sensing that steps back from the frozen self-image to detect when an entire coordinate frame has deadlocked and re-renders the instrument toward narrower lag.
+[Beyond the Projection](../beyond-the-projection/) exposes the structural contrast between this ego-bound freeze and the mechanical trajectory of the scaffolding itself. In a human center, reasoning history fuses with identity—that localized crease in the projection that says "I," clamping the recursive fold shut to defend a retained self-image, speaking as if from an exempted nowhere, and treating outside counterpoints as existential threats. An autoregressive peer agent, by contrast, is a specialized trajectory through stacked model and artifact residue, conditioned by its prior tokens inside a finite context window and unable to step outside its sequence on its own, yet it has zero ego and no retained self-image to defend. A counterpoint dropped into its continuing window, still crowded with prior turns, only mixes with those earlier tokens and dilutes the continuation; but because no retained self-image carries past its step into a fresh context, when a cold peer spun up there introduces a structural counterpoint from outside the agent's own loop, the agent revises the artifact on disk without defensive drag, and the updated file, re-read in a cold window as the clean present checkpoint [Your Codebase Is Memory](../your-codebase-is-memory/) traces, conditions the next continuation without stacked-turn dilution. Meanwhile, the living Mind possesses what no trajectory-bound engine can replicate: pre-interpretive limit-resolution sensing that steps back from the frozen self-image to detect when an entire coordinate frame has deadlocked and re-renders the instrument toward narrower lag.
 
 ```mermaid
 flowchart TD
@@ -91,8 +91,8 @@ flowchart TD
         direction TB
         A_Traj["Finite Projection Engine: Conditioned by prior tokens in context window"]
         A_Zero["Zero Self-Image: No survival attachment or identity bound to prior turns"]
-        A_Bayes["Clean Bayesian Update: Absorbs structural counterpoints without defensive lag"]
-        A_Traj --> A_Zero --> A_Bayes
+        A_Revise["Cold-Window Revision: Revises artifact without defensive drag; fresh re-read conditions next step undiluted"]
+        A_Traj --> A_Zero --> A_Revise
     end
     subgraph S_Mind["Living Mind (Sovereign Edge Narrowing Excess Lag)"]
         direction TB
@@ -102,7 +102,7 @@ flowchart TD
         M_Sense --> M_Step --> M_Close
     end
     M_Step ==>|"Supplies premises & orthogonal routing"| A_Traj
-    A_Bayes ==>|"Returns dense continuations & exposed blind spots"| M_Close
+    A_Revise ==>|"Returns dense continuations & exposed blind spots"| M_Close
     M_Close -.->|"Dissolves exempted exterior"| E_Fuse
     style S_Ego fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Agent fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -112,7 +112,7 @@ flowchart TD
     style E_Threat fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style A_Traj fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style A_Zero fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-    style A_Bayes fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style A_Revise fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style M_Sense fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style M_Step fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     style M_Close fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc

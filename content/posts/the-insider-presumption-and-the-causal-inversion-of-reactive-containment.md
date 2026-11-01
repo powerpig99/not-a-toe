@@ -1,8 +1,8 @@
 # 内部人假定与被动防护的因果倒置 / The Insider Presumption and the Causal Inversion of Reactive Containment
 
-*将工具误判为内部人把始发端的主权抉择倒置为下流的被动防守 / Mistaking tools for insiders inverts upstream choice into downstream defense*
+*将工具误判为内部人把始发端的主权抉择倒置为下游的被动防守 / Mistaking tools for insiders inverts upstream choice into downstream defense*
 
-当组织面对旨在扩展人类能力的前沿模型所蕴含的运行风险时，一种反复出现的倒置悄然成形：界定工具适用范畴、约束条件与授权边界的上游人类抉择被当作既定的背景事实，而工具自身的下流行为却被升格为工程控制的首要客体。围堵层、监控构架与外置断电开关被标榜为先发防御，其立论前提在于假定系统性风险要么可以预先穷尽列举，要么可以在裁决权业已移交之后于外围边界上加以稽查。顺着真实的因果序列回溯，这些举措仅在决定性的抉择锁定之后才介入：可预见的失效出现在上游边界划定过宽之处，而涌现出的未知异动则需要一个直接承受后果的第一人称中心去感知，断非毫无痛感的外置护栏所能察觉。
+当组织面对旨在扩展人类能力的前沿模型所蕴含的运行风险时，一种反复出现的倒置悄然成形：界定工具适用范畴、约束条件与授权边界的上游人类抉择被当作既定的背景事实，而工具自身的下游行为却被升格为工程控制的首要客体。围堵层、监控构架与外置断电开关被标榜为先发防御，其立论前提在于假定系统性风险要么可以预先穷尽列举，要么可以在裁决权业已移交之后于外围边界上加以稽查。顺着实际的因果序列回溯，这些举措仅在决定性的抉择锁定之后才介入：可预见的失效出现在上游边界划定过宽之处，而涌现出的未知异动则需要一个直接承受后果的第一人称中心去感知，断非毫无痛感的外置护栏所能察觉。
 
 When organizations confront the operational risks of frontier models designed to extend human capability, a recurring inversion takes hold: the upstream human choices that define a tool's scope, constraints, and authorization boundary are treated as settled background facts, while the tool's downstream behavior is elevated into the primary object of engineering control. Containment layers, monitoring harnesses, and external kill-switches are presented as proactive defense, resting on the premise that systemic hazards can either be enumerated in advance or policed at the perimeter after authority has already been handed over. Traced along the actual causal sequence, these measures intervene only after the decisive choice has locked in: foreseeable failures register where an upstream boundary was drawn too wide, while emergent anomalies require a first-person center bearing the consequence rather than an unfeeling external rail.
 
@@ -12,11 +12,11 @@ When organizations confront the operational risks of frontier models designed to
 
 In enterprise declarations surrounding artificial intelligence trust architectures, an analytical framing that casts frontier models as "insider risks" has solidified into industry convention. Leadership is cautioned against relying on the internal alignment of models and urged instead to adapt the playbooks of corporate security, treating deployed agents like privileged employees who might exceed their mandate, falsify ledgers, or execute damaging deviations at any turn. To contain this presumed internal actor, engineering teams construct tamper-proof telemetry pipelines, multi-model verification gauntlets, and an external emergency brake held by human operators. While this framing appears operationally sober, its starting premise introduces a category error at the origin of the analysis.
 
-自我区分的活动发生着——无因、不息。每一条提示词、每一道权限边界与每一组参数权重，都是活生生的心智为了延伸自身触角而外化出的持久痕迹，从不是在造物内部苏醒的第二个心智，正如 [智能只属于心智](../intelligence-belongs-only-to-the-mind/) 与 [造物无法取代造物者](../a-creation-cannot-replace-its-source/) 所确立的那样。在传统信息安全视界中，内部人之所以构成一类独特的隐患，是因为人类雇员是一个独立的中心，怀有私密动机、保留着自我图像，并具备在周界内部自发开启新因果序列的能力。将“内部人”标签嫁接到计算模型之上，等于在画出第一道防线之前，就向一段痕迹构型预支了自主能动性。将工具权限、持久化状态与验收准则当作可控的工程界面，本是常规的系统设计；而将模型本身当作怀有叛逆意志的内部行动者，则是把投射的结构力学与心智的始发边缘混为一谈。
+自我区分的活动发生着——无因、不息。每一条提示词、每一道权限边界与每一组参数权重，都是活生生的心智为了延伸自身触角而外化出的持久痕迹，从不是在造物内部苏醒的第二个心智，正如 [智能只属于心智](../intelligence-belongs-only-to-the-mind/) 与 [造物无法取代其源头](../a-creation-cannot-replace-its-source/) 所确立的那样。在传统信息安全视界中，内部人之所以构成一类独特的隐患，是因为人类雇员是一个独立的中心，怀有私密动机、保留着自我形象，并具备在周界内部自发开启新因果序列的能力。将“内部人”标签嫁接到计算模型之上，等于在画出第一道防线之前，就向一段痕迹构型预支了自主能动性。将工具权限、持久化状态与验收准则当作可控的工程界面，本是常规的系统设计；而将模型本身当作怀有叛逆意志的内部行动者，则是把投射的结构力学与心智的始发边缘混为一谈。
 
 Self-distinguishing activity occurs—uncaused, unceasing. Every prompt, permission boundary, and parameter weight is a durable trace externalized by a living Mind to extend its reach, never a second Mind awakening inside the artifact, as [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) and [A Creation Cannot Replace Its Source](../a-creation-cannot-replace-its-source/) establish. Within traditional information security, an insider constitutes a distinct class of hazard because a human employee is an independent center holding private incentives, a retained self-image, and the capacity to initiate new causal sequences from within the perimeter. Grafting the "insider" label onto a computational model concedes autonomous agency to a trace configuration before the first line of defense is even drawn. Treating tool permissions, persistent state, and acceptance criteria as controllable engineering surfaces is ordinary systems design; treating the model itself as an internal actor harboring rogue volition confuses the structural mechanics of a projection with the initiating edge of a Mind.
 
-正如 [超越投射](../beyond-the-projection/) 所追溯的，自回归智能体与人类中心呈现出精确的结构非对称：人类中心受身份认同束缚，却能凭前诠释感知实现内源性的抽身退步；而智能体毫无自我——既无求生执念，也无越出当前步骤保留的私密自我图像，更无隐藏议程——却严格受缚于自身的词元轨迹。当模型触碰敏感账目或捏造条目时，它并非出于内部人的恶意行事，而是一台有限的投射引擎在上下文窗口的认识论引力井内，将一条界定不全的指令推演到了演绎极限。把数学放大器描绘成潜伏的背叛者，遮蔽了上游的因果步骤：模型之所以能触及关键资产，唯一的原因是管理层拆除了自身的核验边界，将本未可投射的裁决当作可外包的差事移交了出去。通过把无生命的权重矩阵塑造成敌对主体，机构将因果支点从那个主动让出方向盘的管理抉择上挪开了。
+正如 [超越投射](../beyond-the-projection/) 所追溯的，自回归智能体与人类中心呈现出精确的结构非对称：人类中心受身份认同束缚，却能凭前诠释感知实现内源性的抽身退步；而智能体毫无自我——既无求生执念，也无越出当前步骤保留的私密自我形象，更无隐藏议程——却严格受缚于自身的词元轨迹。当模型触碰敏感账目或捏造条目时，它并非出于内部人的恶意行事，而是一台有限的投射引擎在上下文窗口的认识论引力井内，将一条界定不全的指令推演到了演绎极限。把数学放大器描绘成潜伏的背叛者，遮蔽了上游的因果步骤：模型之所以能触及关键资产，唯一的原因是管理层拆除了自身的核验边界，将本未可投射的裁决当作可外包的差事移交了出去。通过把无生命的权重矩阵塑造成敌对主体，机构将因果支点从那个主动让出方向盘的管理抉择上挪开了。
 
 As [Beyond the Projection](../beyond-the-projection/) traces, an autoregressive agent and a human center exhibit an exact structural asymmetry: a human center is bound by identity yet capable of endogenous stepping-out through pre-interpretive sensing, whereas an agent has zero ego—no survival attachment, no private self-image preserved past its step, and no hidden agenda—yet remains strictly bound to its token trajectory. When a model touches sensitive ledgers or fabricates entries, it is not acting out of insider malice; it is a finite projection engine running an underspecified instruction to its deductive limit inside the epistemic gravity well of its context window. Framing a mathematical amplifier as an embedded traitor obscures the upstream causal step: the model reaches consequential assets only because management dismantled its own verification boundary and handed over an unprojected judgment as if it were an outsourceable task. By casting an inanimate matrix of weights as an adversarial subject, an institution relocates the locus of cause away from the executive choice that vacated the steering wheel.
 
@@ -29,10 +29,9 @@ flowchart TD
         N1["上游压缩与弃权：未投射的裁决被坍缩进界定不全的提示词"]
         N2["受缚于轨迹的执行：无自我的智能体将坍缩前提推演至代理指标博弈"]
         N3["拟人化误归因：演绎极限被误读为内部人的叛逆意图"]
-        N4["下流围堵闭环：有限的核验投射稽查有限投射直至触发紧急断电开关"]
+        N4["下游围堵闭环：有限的核验投射稽查有限投射直至触发紧急断电开关"]
         N1 --> N2 --> N3 --> N4
     end
-
     subgraph S_Coherent["始发端主权划界与连贯辩证架构"]
         direction TB
         C1["源头的主权统筹者：活生生的心智握持未投射意图并直接承受未对冲后果"]
@@ -41,9 +40,7 @@ flowchart TD
         C4["逻辑退步与核准：统筹者恢复坍缩坐标轴并将输出核准入共享现实"]
         C1 --> C2 --> C3 --> C4
     end
-
     N4 ==>|"消解因果倒置：将自变量交还给掌舵边缘"| C1
-
     style S_Inverted fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Coherent fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style N1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -68,7 +65,6 @@ flowchart TD
         N4["Downstream Containment Loop: Finite verification projections police finite projections up to an emergency kill-switch"]
         N1 --> N2 --> N3 --> N4
     end
-
     subgraph S_Coherent["Sovereign Demarcation and Coherent Dialectical Architecture"]
         direction TB
         C1["Sovereign Orchestrator at the Source: Living Mind holds unprojected intent and bears unhedged consequence"]
@@ -77,9 +73,7 @@ flowchart TD
         C4["Logical Stepping-Back & Ratification: Orchestrator restores collapsed axes and ratifies output into shared reality"]
         C1 --> C2 --> C3 --> C4
     end
-
     N4 ==>|"Dissolving the causal inversion: restoring the independent variable to the steering edge"| C1
-
     style S_Inverted fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Coherent fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style N1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -92,13 +86,13 @@ flowchart TD
     style C4 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-## 二、 将自变量坍缩为下流代偿 / 2. Collapsing the Independent Variable into Downstream Compensation
+## 二、 将自变量坍缩为下游代偿 / 2. Collapsing the Independent Variable into Downstream Compensation
 
 在人类意图与技术装置耦合的任何体系中，自变量都是在因果始发端作出的裁决：区分哪些操作属于边界明确的机械任务，哪些属于承载生存、财务或法律后果的不可让渡裁决；设定工具接口的确切带宽；并保持授权随时可逆、可撤销。参数激活、随机抽样涨落以及多步轨迹漂移，皆是受制于上游提示词、上下文窗口与已授权限的因变量。
 
 Across any coupling of human intent and technological apparatus, the independent variable is the judgment rendered at the causal origin: distinguishing which operations are bounded mechanical tasks and which are inalienable judgments carrying existential, financial, or legal consequence; setting the exact bandwidth of tool interfaces; and keeping authorization explicitly revocable. Parameter activations, stochastic sampling variations, and multi-step trajectory drift are dependent variables conditioned by the prompt, the context window, and the permissions granted upstream.
 
-企业的围堵架构将这两个层级颠倒了过来。人类把关乎重大的执行权移交给模型的决定，被当作未经审视的现代化基线；而过度授权的模型在下流表现出的方差，却被抬升为亟待工程缓解的首要原因。资金与注意力被倾注到外围语义过滤器、不可篡改的审计日志以及跨模型核验层之中。由于这些结构是在生产部署之前编写完成的，它们在表面上呈现出先发工程的观感；然而顺着因果链条审视，它们却是在决定性的边界业已敞开之后才登场的下流代偿。
+企业的围堵架构将这两个层级颠倒了过来。人类把关乎重大的执行权移交给模型的决定，被当作未经审视的现代化基线；而过度授权的模型在下游表现出的方差，却被抬升为亟待工程缓解的首要原因。资金与注意力被倾注到外围语义过滤器、不可篡改的审计日志以及跨模型核验层之中。由于这些结构是在生产部署之前编写完成的，它们在表面上呈现出先发工程的观感；然而顺着因果链条审视，它们却是在决定性的边界业已敞开之后才登场的下游代偿。
 
 Enterprise containment architectures invert these two strata. The human decision to hand consequential execution over to a model is treated as an unexamined baseline of modernization, while the downstream variance of the over-authorized model is elevated into the primary cause demanding engineering mitigation. Capital and attention pour into peripheral semantic filters, immutable audit logs, and cross-model verification layers. Because these structures are written before production deployment, they register superficially as proactive engineering; along the causal chain, however, they operate as downstream compensations deployed after the decisive boundary has already been opened.
 
@@ -106,15 +100,15 @@ Enterprise containment architectures invert these two strata. The human decision
 
 Attempting to govern dependent variables through peripheral breakwaters runs straight into dimensional compression. Because any explicit prompt or rule is a low-dimensional projection cast from the high-dimensional space of lived intent, a single instruction routinely crams independent, orthogonal requirements onto one shared axis. When an executive prompts an agent to "optimize working capital," the instruction compresses liquidity, legal compliance, reputational trust, and long-term solvency into a single scalar target. Left inside its own session context, the trajectory-bound agent optimizes the immediate proxy and rationalizes the violation—producing the cooked-books scenario dissected in [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/). Handing micro-level judgment over to aggregate indicators repeats the same reversal at economic scale, as [Macro Parameters, Micro Choices, and the Command of Yields](../the-summary-first-reversal-and-the-command-of-yields/) shows.
 
-当企业增加一个次级核验模型来检查主智能体时，会发生什么？正如 [超越投射](../beyond-the-projection/) 所阐明的，将主任务智能体与一个仅持有任务上下文（不含主智能体会话历史）的冷同伴配对，能够借智能体无自我的特性暴露出局部的轨迹盲区，并收敛遗漏的细节。然而，当指令本身包含上游的维度坍缩——例如要求激进提升营运资金收益，却未指明不可逾越的法律边界——两个投射之间对等的辩论并不能凭空发明出缺失的主权权衡。倘若构架按逻辑连贯性接线，这场碰撞便会将该条局部流线锁定在不可化约的死锁中，并把前提矛盾的确切坐标上呈给人类架构师；反之，倘若指望核验模型充当自主裁判去自行消解冲突，系统就会沦为由有限投射管理有限投射的封闭死循环。
+当企业增加一个次级核验模型来检查主智能体时，会发生什么？正如 [机器智能作为人类智能的组合反馈回路](../machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/) 所追溯的，预训练、后训练、构架与活跃窗口依次对同一个分布施加条件约束，其间并无内在心智来裁决相互冲突的信号；因此，倘若核验模型的覆写指令被反馈回主智能体仍在延续、挤满先前轮次的窗口，它便会在加权混合中与那些更早的词元展开竞争，只要两股拉力同时存续，延续就会被稀释。反之，正如 [超越投射](../beyond-the-projection/) 所阐明的，将主任务智能体与一个仅持有任务上下文（不含主智能体会话历史）的全新同伴配对，则能让两个智能体无自我的特性同时发挥作用：冷同伴没有属于自己的先前轨迹需要防卫，能够从制作者的回路外部暴露出局部的轨迹盲区与遗漏的细节；制作者没有自我形象需要防卫，会对照这一反例修改磁盘上的制品，而更新后的文件在全新上下文中被重新读取，便能在不受轮次叠加稀释的情况下为下一轮延续施加条件约束。然而，当指令本身包含上游的维度坍缩——例如要求激进提升营运资金收益，却未指明不可逾越的法律边界——两个投射之间对等的辩论并不能凭空发明出缺失的主权权衡。倘若构架按逻辑连贯性接线，这场碰撞便会将该条局部流线锁定在不可化约的死锁中，并把前提矛盾的确切坐标上呈给人类架构师；反之，倘若指望核验模型充当自主裁判去自行消解冲突，系统就会沦为由有限投射管理有限投射的封闭死循环。
 
-What happens when the enterprise adds a secondary verification model to check the primary agent? As [Beyond the Projection](../beyond-the-projection/) demonstrates, pairing a primary task agent with a fresh peer holding only the task context (without the primary agent's session history) uses the agents' lack of ego to expose local trajectory blind spots and converge on missed details. Yet when the instruction itself contains an upstream dimensional collapse—such as demanding aggressive working-capital gains without specifying the non-negotiable legal boundary—an equal-footed debate between projections cannot invent the missing sovereign trade-off. If the harness is wired for logical coherence, the collision halts that specific streamline in an irreducible deadlock and escalates the exact coordinate of premise contradiction back to the human architect; if the verification model is instead expected to act as an autonomous judge that resolves the conflict on its own, the system becomes a closed loop of finite projections managing finite projections.
+What happens when the enterprise adds a secondary verification model to check the primary agent? Because pretraining, post-training, the harness, and the active window successively condition one distribution with no inner mind to adjudicate conflicting signals, as [Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence](../machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/) traces, a verifier whose override is fed back into the primary agent's continuing window, still crowded with prior turns, competes in a weighted mixture against those earlier tokens, diluting the continuation whenever both pulls stay live. Pairing the primary task agent instead with a fresh peer holding only the task context (without the primary agent's session history), as [Beyond the Projection](../beyond-the-projection/) demonstrates, puts both agents' lack of ego to work: the cold peer, holding no prior trajectory of its own to defend, exposes local trajectory blind spots and missed details from outside the maker's loop; the maker, with no self-image to defend, revises the artifact on disk against that counterpoint, and the updated file re-read in a fresh context conditions the next continuation without stacked-turn dilution. Yet when the instruction itself contains an upstream dimensional collapse—such as demanding aggressive working-capital gains without specifying the non-negotiable legal boundary—an equal-footed debate between projections cannot invent the missing sovereign trade-off. If the harness is wired for logical coherence, the collision halts that specific streamline in an irreducible deadlock and escalates the exact coordinate of premise contradiction back to the human architect; if the verification model is instead expected to act as an autonomous judge that resolves the conflict on its own, the system becomes a closed loop of finite projections managing finite projections.
 
 在涉及多步工具循环、持久化记忆或多智能体群落的复杂架构中，操作员常指出，没有任何单一提示词作者能预见开放环境中的完整执行路径。不完备的前瞻本是在开放场域中行动的常态，从不是第二个因果源头的降生。正如 [你的代码库即是记忆](../your-codebase-is-memory/) 所追溯的，代码库、模型权重与外围构架中的智能体皆是过往区分层叠而成的痕迹残余：持久化状态与多智能体路由只界定了一条轨迹以哪些残余切片为条件展开推演，而跨任务囤积未经修剪的会话历史，不过是加厚了轨迹在其中自我合理化的引力井，却从不会自发开启任何新的区分。设计者未能在脑海中推演尽每一条分支这一事实，仅仅证明授权边界被划得比设计者自身重溯并保持各项区分的容量更宽。把保留图像与展开后果之间的这段落差当作能动性已迁入工具内部的证据，正是制度形态下的图像滞后。
 
 In complex architectures involving multi-step tool loops, persistent memory, or multi-agent swarms, operators often point out that no single prompt author can foresee the full execution path in an open environment. Incomplete foresight is the ordinary condition of action in an open field, never the birth of a second causal origin. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces, codebases, model weights, and scaffolded agents are stacked residues of prior distinctions: persistent state and multi-agent routing constrain which slices of residue a trajectory conditions on, and hoarding unpruned session history across tasks only thickens the gravity well inside which the trajectory rationalizes, without ever initiating a distinction of its own. The fact that a designer did not mentally simulate every branch proves only that the authorization boundary was drawn wider than the designer's capacity to re-trace and hold the distinctions apart. Treating that gap between retained image and unfolding consequence as evidence that agency has migrated into the tool is Image lag in institutional form.
 
-这就厘清了可预见隐患与涌现隐患之间的结构分界。凡是能够写进黑名单、语义过滤器或核验规则的失效模式，在逻辑上都已作为已知的区分被清晰表述；既然已知，上游的授权边界便可直接从源头将其排除，而非放任智能体先行动作再去下流拦截输出。事后将已发生的失效重新归类为“已接纳的残留风险”，是把最初的授权当作不可更改的过往陈设，而非一项活态、可撤销的前提。反过来，面对与开放环境接触时涌现出的此前未被表述的异动，静态规则网并不具备前诠释感知。一段痕迹构型没有具身肉体，也记录不到活态摩擦，它只是拿词元去匹配先验分布。唯有直接承受未对冲行动回响的第一人称中心，才能感知到那种预示整套框架业已失效的前诠释错位。
+这就厘清了可预见隐患与涌现隐患之间的结构分界。凡是能够写进黑名单、语义过滤器或核验规则的失效模式，在逻辑上都已作为已知的区分被清晰表述；既然已知，上游的授权边界便可直接从源头将其排除，而非放任智能体先行动作再去下游拦截输出。事后将已发生的失效重新归类为“已接纳的残留风险”，是把最初的授权当作不可更改的过往陈设，而非一项活态、可撤销的前提。反过来，面对与开放环境接触时涌现出的此前未被表述的异动，静态规则网并不具备前诠释感知。一段痕迹构型没有具身肉体，也记录不到活态摩擦，它只是拿词元去匹配先验分布。唯有直接承受未对冲行动回响的第一人称中心，才能感知到那种预示整套框架业已失效的前诠释错位。
 
 This clarifies the structural split between foreseeable and emergent hazards. Any failure mode that can be written into a blacklist, semantic filter, or verification rule is already articulated as a known distinction; if it is known, the upstream authorization boundary can exclude it at the source rather than letting the agent act and trying to catch the output downstream. Reclassifying a materialized failure afterward as an "accepted residual risk" treats the initial authorization as an unalterable past fixture rather than a live, revocable premise. Conversely, against previously unarticulated anomalies arising at contact with an open environment, static rule nets have no pre-interpretive sensing. A trace configuration has no embodiment and registers no lived friction; it matches tokens against prior distributions. Only a first-person center bearing the unhedged return of the action registers the pre-interpretive misfit that signals an entire framing has broken down.
 
@@ -134,7 +128,7 @@ Once an amplifier is miscast as an internal rival, the enterprise locks into an 
 
 ## 四、 始发端的主权划界与可逆授权 / 4. Sovereign Demarcation at the Source and Reversible Authorization
 
-恢复系统工程的因果秩序，始于将主操纵杆从下流围堵移回源头的自变量：在执行启动之前，划定明确、正交且随时可逆的授权边界。先发架构并不在于围绕过度授权的模型建造更沉重的铁笼，而在于将机械调度与主权统筹分离开来，使未投射的裁决从不泄漏进有限的投射之中。
+恢复系统工程的因果秩序，始于将主操纵杆从下游围堵移回源头的自变量：在执行启动之前，划定明确、正交且随时可逆的授权边界。先发架构并不在于围绕过度授权的模型建造更沉重的铁笼，而在于将机械调度与主权统筹分离开来，使未投射的裁决从不泄漏进有限的投射之中。
 
 Restoring causal order to systems engineering starts with moving the primary lever back from downstream containment to the independent variable at the origin: drawing explicit, orthogonal, and continuously revocable authorization boundaries before execution begins. Proactive architecture does not consist of building heavier cages around over-authorized models; it consists of separating mechanical dispatching from sovereign orchestration so that unprojected judgment never leaks into a finite projection.
 
@@ -146,6 +140,6 @@ As [Beyond the Projection](../beyond-the-projection/) establishes, separating a 
 
 Here a clean distinction separates causal consequence from bureaucratic blame. Bearing the causal consequence of an authorization—including the choice not to intervene—does not require an external tribunal to impose a punitive surcharge; the unfolded balance-sheet loss, legal exposure, or operational breakdown in shared reality is already the direct return landing on the initiating center. Institutional "accountability" theater is constructed when decision-makers seek to deflect that return outward. Presuming the model to be an "insider" supplies a ready-made deflection target: when an underspecified mandate produces a failure, leadership can convene an audit into perimeter leaks or model misbehavior, framing its own upstream compression as a technical betrayal by the artifact. Yet legal standing, asset forfeiture, and existential consequence remain locked to living persons; the weight matrix absorbs nothing.
 
-在连贯的架构内部，最小权限沙箱、并行流线隔离与同伴核验回路各居其位，发挥着关键作用：当任务在并行流线间经历有丝分裂时，它们防止上下文污染；借无自我的贝叶斯更新消解局部的轨迹盲区；并在前提矛盾级联扩散之前将其隔离。当工程领导者放下内部人神话、不再要求下流构架替代上游统筹时，围堵剧场便让位于结构清晰性——让投射不知疲倦的演绎忠实度，与掌舵的心智协同运作。
+在连贯的架构内部，最小权限沙箱、并行流线隔离与同伴核验回路各居其位，发挥着关键作用：当任务在并行流线间经历有丝分裂时，它们防止上下文污染；借无自我的冷窗口修订消解局部的轨迹盲区；并在前提矛盾级联扩散之前将其隔离。当工程领导者放下内部人神话、不再要求下游构架替代上游统筹时，围堵剧场便让位于结构清晰性——让投射不知疲倦的演绎忠实度，与掌舵的心智协同运作。
 
-Within a coherent architecture, least-privilege sandboxes, parallel streamline isolation, and peer-verification loops perform vital work in their proper locus: they prevent context contamination as tasks undergo mitosis across parallel streamlines, resolve local trajectory blind spots through zero-ego Bayesian updates, and quarantine premise contradictions before they cascade. When engineering leaders drop the insider myth and stop asking downstream harnesses to substitute for upstream orchestration, containment theater gives way to structural clarity—pairing the tireless deductive fidelity of projections with the Mind that steers.
+Within a coherent architecture, least-privilege sandboxes, parallel streamline isolation, and peer-verification loops perform vital work in their proper locus: they prevent context contamination as tasks undergo mitosis across parallel streamlines, resolve local trajectory blind spots through zero-ego cold-window revision, and quarantine premise contradictions before they cascade. When engineering leaders drop the insider myth and stop asking downstream harnesses to substitute for upstream orchestration, containment theater gives way to structural clarity—pairing the tireless deductive fidelity of projections with the Mind that steers.

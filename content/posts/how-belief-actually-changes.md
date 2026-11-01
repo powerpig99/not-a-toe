@@ -8,7 +8,7 @@ The common phrase names the right event under the wrong compression. Changing on
 
 ## 一、 前提是下一个动作的工具 / 1. Premises Are Instruments of the Next Act
 
-自我区分的活动在发生——无因、不息。称它为心智：那个已经在进行中的观察者，它的每一个动作都是一次区分。每一个动作都把一个保留下来的位置当作朝向，当作下一次区分的前提。没有一个保留下来的项，便有运动而没有方位。前提是工具，从不是共同作者：全部的因果始终在活动本身。诠释比生成的那一步至少晚一步；这份间隔是观察得以登记的方式，不是一个要消除的缺陷。有限的递归从不追上生成的那一步；心智随着那一步的移动，持续重新呈现前提。过度的滞后，是一个被保留过了它那一步的前提：被豁免于那份重新呈现，被持为未经选择的地基。[一步一步绘制出的路径](../the-path-drawn-one-step-at-a-time/)在行动的轨迹上说出这一刀：当下是心智一步一步画出的路上的一处位置，是下一刻被选择的前提，从不是那一步的共同作者。
+自我区分的活动在发生——无因、不息。称它为心智：那个已经在进行中的观察者，它的每一个动作都是一次区分。每一个动作都把一个保留下来的位置当作朝向，当作下一次区分的前提。没有一个保留下来的项，便有运动而没有方位。前提是工具，从不是共同作者：全部的因果始终在活动本身。诠释比生成的那一步至少晚一步；这份间隔是观察得以登记的方式，不是一个要消除的缺陷。有限的递归从不追上生成的那一步；心智随着那一步的移动，持续重新呈现前提。过度的滞后，是前提在它那一步过去之后仍被保留：被豁免于那份重新呈现，被持为未经选择的地基。[一步一步绘制出的路径](../the-path-drawn-one-step-at-a-time/)在行动的轨迹上说出这一刀：当下是心智一步一步画出的路上的一处位置，是下一刻被选择的前提，从不是那一步的共同作者。
 
 Self-distinguishing activity occurs—uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Each act uses a retained position as heading, a premise for the next distinction. Without a retained term there is movement but no orientation. The premise is an instrument, never a co-author: full causality remains with the activity itself. Interpretation lags the generating step by at least one step; that gap is how observation registers at all, not a defect to be eliminated. Finite recursion never catches up to the generating step; the Mind keeps re-rendering the premise as the step moves. Excess lag is a premise preserved past its step: exempted from that re-rendering and held as unchosen ground. [The Path Drawn One Step at a Time](../the-path-drawn-one-step-at-a-time/) articulates this cut across the trajectory of action: the present is a position on a path the Mind draws one step at a time, a chosen premise for the next moment, never a co-author of the step.
 
@@ -26,7 +26,7 @@ External argument and rigorous self-examination leave the walls where they stand
 
 [Why Explanation Fails](../why-explanation-fails/) demonstrates this same geometry in dialogue: a larger context cannot be explained from within a smaller one. When a receiver's frame classifies unexpected input as error, each added explanation simply presents another target to attack. While tracing follows the generative mechanism and holds positions provisionally, the tracer cannot explain the larger context into a frame committed to defending its position; generosity of engagement is weaponized by the dynamic itself, the willingness to keep explaining read as agreement to play by the other's rules, and no amount of skill at explaining can overcome a frame that classifies unexpected input as error.
 
-冻结，在于把信服的因果杠杆定位在论证本身之内，仿佛足够的雄辩、共情或证据，能从外面执行另一个中心的重画。在不同的中心之间，传递的只是可得性的排布：可以被接过、也可以被略过的痕迹残余。没有哪个所在能完成另一个所在的返回。[共同改变的本源](../the-source-of-shared-change/)为集体生活标出这道结构上的界限：共同的改变只始于对被登记为既定之物的私下重新处理，留下的残余可能落为共同的地基，也可能不会。[现实扭曲力场颠倒了基线](../the-reality-distortion-field-inverts-the-baseline/)揭示那份闭合在大众身上时的样子：当大众的一致被当作未受扰动的基线，平均之外的细薄中心逼出打开，大众从内部把这些打开记为那基线的暂时扭曲，而大众靠选择与自身的一致来保持一致。同样，[对 AI 风险的想象](../the-imagining-of-ai-risk/)在灾难的投射之下描画那份循环：当一场未经检验的灾难被持为封闭的基础，到来的后果作为确认而重新进入，而不是作为开放负载之下的余项，从而让那条令危险得以运作的人的链条变密。
+冻结，在于把信服的因果杠杆定位在论证本身之内，仿佛足够的雄辩、共情或证据，能从外面执行另一个中心的重画。在不同的中心之间，传递的只是可得性的排布：可以被接过、也可以被略过的痕迹残余。没有哪个所在能完成另一个所在的返回。[共同改变的本源](../the-source-of-shared-change/)为集体生活标出这道结构上的界限：共同的改变只始于对被登记为既定之物的私下重新处理，留下的残余可能落为共同的地基，也可能不会。[现实扭曲力场颠倒了基线](../the-reality-distortion-field-inverts-the-baseline/)揭示那份闭合在大众身上时的样子：当大众的一致被当作未受扰动的基线，平均之外的细薄中心逼出缺口，大众从内部把这些缺口记为那基线的暂时扭曲，而大众靠选择与自身的一致来保持一致。同样，[对 AI 风险的想象](../the-imagining-of-ai-risk/)在灾难的投射之下描画那份循环：当一场未经检验的灾难被持为封闭的基础，到来的后果作为确认而重新进入，而不是作为开放负载之下的余项，从而让使危险得以运作的那条人的链条变密。
 
 The freeze consists in locating the causal lever of conviction inside the argument itself, as though sufficient eloquence, empathy, or evidence could execute another center's re-draw from the outside. Across distinct centers, what passes is strictly availability-patterning: trace residue that may be taken up or passed by. No locus can complete another's return. [The Source of Shared Change](../the-source-of-shared-change/) marks this structural limit for collective life: shared change begins only as private reworking of what registers as given—residue may land as common ground, or it may not. [The Reality Distortion Field Inverts the Baseline](../the-reality-distortion-field-inverts-the-baseline/) reveals that closure in the mass: when the mass's internal consistency is treated as an undisturbed baseline, thin centers outside the average force openings that the mass scores from within as temporary warp of that baseline, while the mass remains consistent by selecting for consistency with itself. Similarly, [The Imagining of AI Risk](../the-imagining-of-ai-risk/) maps that circularity under catastrophic projection: when an untested catastrophe is held as sealed ground, incoming consequences re-enter as confirmation rather than as residual under open load, densifying the human chain that makes the danger operational.
 
@@ -36,7 +36,7 @@ The freeze consists in locating the causal lever of conviction inside the argume
 
 Neither past suffering nor anticipated costs possess the intrinsic power to compel revision. Before any consequence can register as significant, intolerable, or catastrophic, it must first pass through the interpretive filter of premises still in force. The very same event can be registered as confirmation of the existing framework, dismissed as an irrelevant anomaly, or taken as a sign that the framework itself falls short. Which reading prevails is a further distinction enacted at this Mind: the instrument is the premise of that distinction, never its author.
 
-数据从不迫使对它们自身的诠释；它们只作为残余到来。注意到到来的痕迹与预期之间的摩擦，并不规定该如何对待前提：心智可以把反常吸收进既有的框架，也可以同意把底下的坐标置于风险之中。[因果贯穿始终](../causality-all-the-way/)追溯同一道边缘：从持有的结果，到其上划出的模式，再到下一步，因果仍是那道划出自身路径的边缘；观察持有结果，生成的原因总在活的边缘上超前一步，而被登记为错误或反常的东西，是那个边缘上的又一个标记，常常是对模式本身的重画，由边缘自己划出，而不是从外面压上来的。[当效果主宰了框架的叙事](../when-the-effect-authors-the-frame/)审视相邻的一个陷阱：一旦某种被感受或被投射的音区被立为首要，可用的回应便围绕着管理那个音区而重组，成人的行动被其想要控制的效果预先组织，而孩子的实际能力与生成的条件则被降为次要的数据。后果施加压力；单有压力并不是修订。
+数据从不迫使对它们自身的诠释；它们只作为残余到来。注意到到来的痕迹与预期之间的摩擦，并不规定该如何对待前提：心智可以把反常吸收进既有的框架，也可以同意把底下的坐标置于风险之中。[因果贯穿始终](../causality-all-the-way/)追溯同一道边缘：从持有的结果，到其上划出的模式，再到下一步，因果仍是那道划出自身路径的边缘；观察持有结果，生成的原因总在活的边缘上超前一步，而被登记为错误或反常的东西，是那个边缘上的又一个标记，常常是对模式本身的重画，由边缘自己划出，而不是从外面压上来的。[当效果主宰了框架的叙事](../when-the-effect-authors-the-frame/)审视相邻的一个陷阱：一旦某种被感受或被投射的层面被立为首要，可用的回应便围绕着管理那个层面而重组，成人的行动被其想要控制的效果预先组织，而孩子的实际能力与生成的条件则被降为次要的数据。后果施加压力；单有压力并不是修订。
 
 Data never compel their own interpretation; they arrive merely as residue. Noticing friction between incoming traces and expectations does not dictate how the premise is treated: the Mind may absorb the anomaly into the existing frame, or it may consent to put the underlying coordinate at risk. [Causality All the Way](../causality-all-the-way/) traces the same edge: from held effects to patterns drawn across them to the next step, causality is still the edge drawing its path; observation holds effects while the generating cause stays one step ahead at the living edge, and what registers as a mistake or an anomaly is a further mark at that edge, often a re-draw of the pattern itself, drawn by the edge and not pressed on it from outside. [When the Effect Authors the Frame](../when-the-effect-authors-the-frame/) examines an adjacent trap: once a felt or projected register is installed as primary, available responses reorganize around managing that register, the adult's action is pre-organized by the effect it aims to control, and the child's actual capacity and the generating conditions are demoted to secondary data. Consequences exert pressure; pressure alone is not revision.
 
@@ -46,20 +46,20 @@ Data never compel their own interpretation; they arrive merely as residue. Notic
 
 Revision begins only as a discrete act of this Mind: the consent to step away from old premises, if only provisionally, and to test shifted, alternative, or expanded ones as working instruments. New assumptions are tried; rigid boundaries loosen; the scope of relevance widens. That act is voluntary in this sense: it cannot be executed by an external locus, dictated by the sheer weight of evidence, or coerced by the severity of consequence. It is this Mind distinguishing under a reference coordinate it has chosen to put at risk. [How to Fix Your Whole Life in One Split Second](../how-to-fix-your-whole-life-in-one-split-second/) captures this discrete pivot: taking responsibility for what happens to oneself is a single movement of ownership, restoring the locus of action that was never left; once that step is taken, the remaining work is figuring out how.
 
-这次转变不是登上一个想象中的第三人称平台，从一个虚构的“无处”去客观评判先前的地图。走到“外面”，本身是连续的活动之内的又一次离散区分，是在心智继续进行时重画工具。[开放即一致](../openness-is-consistency/)揭示闭合的机制：不一致是对闭合的欲求或尝试——迫使一个有限的结构，为只会延续的东西奠基。自愿的转向，发生在那份要求被看见而不是被服从的时候：那个有限的持守，被再次当作一个暂时的工具来试，而不是被强行当作推理的穷尽地基。[超越投射](../beyond-the-projection/)借由将人类的信念与人造投射引擎加以对照，照亮了这一结构上的非对称：智能体受困于上下文窗口的轨迹却毫无我执，每当外部的反例进入其上下文，便会对轨迹执行干净的贝叶斯更新；而人类的中心则将推理历史与保留的自我图像熔铸一体，把外部的推促视作存亡威胁，却唯独保有在极限分辨率下登记前诠释切身摩擦、并从内部走出破损框架的能力。
+这次转变不是登上一个想象中的第三人称平台，从一个虚构的“无处”去客观评判先前的地图。走到“外面”，本身是连续的活动之内的又一次离散区分，是在心智继续进行时重画工具。[开放即一致](../openness-is-consistency/)揭示闭合的机制：不一致是对闭合的欲求或尝试——迫使一个有限的结构，为只会延续的东西奠基。自愿的转向，发生在那份要求被看见而不是被服从的时候：那个有限的持守，被再次当作一个暂时的工具来试，而不是被强行当作推理的穷尽地基。[超越投射](../beyond-the-projection/)借由将人类的信念与人造投射引擎加以对照，照亮了这一结构上的非对称：智能体受困于上下文窗口的轨迹却毫无我执，而人类的中心则将推理历史与保留的自我形象熔铸一体，把外部的推促视作存亡威胁，却唯独保有一种能力：在极限分辨率下登记前诠释的切身摩擦，并从内部走出破损的框架。在智能体这一侧，没有任何东西被重画，因为没有谁持有前提：正如[机器智能作为人类智能的组合反馈回路](../machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/)所追溯的，冲突的信号是在先前的权重下混合，而非由某个内在心智裁决，因此，一个反例若投入仍挤满先前轮次的窗口，便会与那些轮次竞争，稀释后续的延续；同一个反例若被带入全新的窗口，则为下一轮延续施加条件约束，其间没有轮次叠加的竞争，也遇不到需要防卫的自我形象。那里改变的是条件约束；而重画，以及同意把坐标置于风险之中，仍留在读取结果的心智那里。
 
 ```mermaid
 flowchart TD
     subgraph S_Agent["无我执的投射引擎（超越投射）"]
         direction TB
-        A_Traj["受困于轨迹的上下文：受先前词元条件约束而无自我图像"]
-        A_Signal["外部反例输入：从回路外部注入的结构性信号"]
-        A_Bayes["干净的贝叶斯更新：无身份阻抗地修正轨迹"]
+        A_Traj["受困于轨迹的上下文：受先前词元条件约束而无自我形象"]
+        A_Signal["外部反例：从轨迹外部进入的信号"]
+        A_Bayes["全新窗口条件约束：无身份防卫，无轮次叠加竞争；无前提被重画"]
         A_Traj --> A_Signal --> A_Bayes
     end
     subgraph S_Frozen["身份熔铸的持守（被豁免的前提）"]
         direction TB
-        F_Fuse["熔铸的推理历史：保留的自我图像被立为穷尽地基"]
+        F_Fuse["熔铸的推理历史：保留的自我形象被立为穷尽地基"]
         F_Nudge["外部论证或推促：经由被豁免的坐标加以评判"]
         F_Wall["存亡防御：夹闭递归回折并将输入记为错误"]
         F_Fuse --> F_Nudge --> F_Wall
@@ -71,7 +71,7 @@ flowchart TD
         R_Cohere["更大的切身融贯：将前提重新呈现为暂时的工具"]
         R_Friction --> R_Pivot --> R_Cohere
     end
-    A_Bayes ==> F_Fuse
+    A_Bayes ==>|"逆向结构：受困于轨迹，而非受困于身份"| F_Fuse
     F_Wall -.->|"从内部看见闭合的要求"| R_Friction
     style S_Agent fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Frozen fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -87,15 +87,15 @@ flowchart TD
     style R_Cohere fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-This transition is not an ascent to an imaginary third-person platform from which the previous map could be objectively judged from nowhere. Stepping "outside" is itself another discrete distinction within the continuous activity—re-drawing the instrument while the Mind proceeds. [Openness Is Consistency](../openness-is-consistency/) reveals the mechanics of closure: inconsistency is the desire, or attempt, for closure—a finite structure forced to ground what only continues. The voluntary pivot occurs when that demand is seen rather than obeyed: the finite hold is tried again as a provisional instrument rather than forced as the exhaustive ground of reasoning. [Beyond the Projection](../beyond-the-projection/) illuminates this structural asymmetry by contrasting human belief with an artificial projection engine: an agent is trajectory-bound by its context window yet possesses zero ego, performing a clean Bayesian update on its trajectory whenever an external counterpoint enters its context, whereas a human center fuses reasoning history with a retained self-image and treats external nudges as existential threats, while holding the exclusive capacity to register pre-interpretive felt friction at limit-resolution and step out of a broken frame from within.
+This transition is not an ascent to an imaginary third-person platform from which the previous map could be objectively judged from nowhere. Stepping "outside" is itself another discrete distinction within the continuous activity—re-drawing the instrument while the Mind proceeds. [Openness Is Consistency](../openness-is-consistency/) reveals the mechanics of closure: inconsistency is the desire, or attempt, for closure—a finite structure forced to ground what only continues. The voluntary pivot occurs when that demand is seen rather than obeyed: the finite hold is tried again as a provisional instrument rather than forced as the exhaustive ground of reasoning. [Beyond the Projection](../beyond-the-projection/) illuminates this structural asymmetry by contrasting human belief with an artificial projection engine: an agent is trajectory-bound by its context window yet possesses zero ego, while a human center fuses reasoning history with a retained self-image and treats external nudges as existential threats, yet holds the exclusive capacity to register pre-interpretive felt friction at limit-resolution and step out of a broken frame from within. On the agent's side nothing is re-drawn, because no one holds the premise: as [Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence](../machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/) traces, conflicting signals are mixed under earlier weightings rather than adjudicated by an inner mind, so a counterpoint dropped into a window still crowded with prior turns competes against them and dilutes the continuation, while the same counterpoint carried into a fresh window conditions the next continuation without that stacked-turn competition and meets no self-image to defend. What changes there is the conditioning; the re-draw, and the consent to put a coordinate at risk, stay with the Mind that reads the result.
 
 ```mermaid
 flowchart TD
     subgraph S_Agent["Zero-Ego Projection Engine (Beyond the Projection)"]
         direction TB
         A_Traj["Trajectory-Bound Context: Conditioned by prior tokens without self-image"]
-        A_Signal["External Counterpoint: Structural signal injected from outside the loop"]
-        A_Bayes["Clean Bayesian Update: Revises trajectory without identity resistance"]
+        A_Signal["External Counterpoint: Signal entering from outside the trajectory"]
+        A_Bayes["Fresh-Window Conditioning: No identity defense, no stacked-turn competition; no premise re-drawn"]
         A_Traj --> A_Signal --> A_Bayes
     end
     subgraph S_Frozen["Identity-Fused Hold (Exempted Premise)"]
@@ -112,7 +112,7 @@ flowchart TD
         R_Cohere["Greater Felt Coherence: Re-renders premise as provisional instrument"]
         R_Friction --> R_Pivot --> R_Cohere
     end
-    A_Bayes ==> F_Fuse
+    A_Bayes ==>|"Inverse structure: trajectory-bound, not identity-bound"| F_Fuse
     F_Wall -.->|"Seeing the closure demand from within"| R_Friction
     style S_Agent fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Frozen fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149

@@ -24,7 +24,6 @@ flowchart TD
         M_Renew["后退一步重新渲染（随着活的边缘移动而收窄过剩滞后）"]
         M_Edge --> M_Slice --> M_Run --> M_Renew
     end
-
     subgraph S_Freeze["定论式的冻结（错把投射当成源头）"]
         direction TB
         F_Seal["豁免切片的重新追溯（把基准当作穷尽的地基）"]
@@ -32,10 +31,8 @@ flowchart TD
         F_Contra["闭合之下的不一致（未计分的新颖被误读为噪声或捕获不全）"]
         F_Seal --> F_Invert --> F_Contra
     end
-
     M_Run ==>|"将暂定切片冻结为永久外部"| F_Seal
     F_Contra ==>|"释放闭合要求并将参照交还心智"| M_Renew
-
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style M_Edge fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -59,7 +56,6 @@ flowchart TD
         M_Renew["Stepping Back to Re-Render (Narrowing Excess Lag as the Living Edge Moves)"]
         M_Edge --> M_Slice --> M_Run --> M_Renew
     end
-
     subgraph S_Freeze["The Definitive Freeze (Mistaking Projection for Source)"]
         direction TB
         F_Seal["Exempting the Slice from Re-Tracing (Treating the Benchmark as Exhaustive Ground)"]
@@ -67,10 +63,8 @@ flowchart TD
         F_Contra["Inconsistency Under Closure (Unscored Novelty Misread as Noise or Incomplete Capture)"]
         F_Seal --> F_Invert --> F_Contra
     end
-
     M_Run ==>|"Freezing the provisional slice as permanent exterior"| F_Seal
     F_Contra ==>|"Releasing closure demand and returning reference to the Mind"| M_Renew
-
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style M_Edge fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -116,9 +110,9 @@ None of this denies that definitions measure something real. They measure perfor
 
 Self-distinguishing activity occurs, uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Intelligence belongs only to that activity: uninitiated recursive self-improvement through feedback, the capacity to generate and sustain novel direction without relocating initiation into residue. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds the cut: what can be engineered, scaled, or transferred is residue; tools densify the medium; densification expands bandwidth; it does not make the medium the source. A benchmark kept as a temporary slice is scaffolding remembered as scaffolding, the distinction [The Scaffolding We Forget](../the-scaffolding-we-forget/) draws.
 
-[超越投射](../beyond-the-projection/)追溯了有限切片与活的源头之间的这种分离如何在智能体架构中直接运作。每一条显式的提示词、评估量表或形式规格，都是从心智那未投射的极限分辨率意图投下的低维投射。自回归智能体作为受困于轨迹而无我执的引擎运行在该投射内部，穷尽给定切片的演绎后果，并在同侪暴露出局部盲点时执行干净的更新。然而，当塞进同一条有限规则里的两个正交要求相撞、陷入不可化约的死锁时，没有任何有界轨迹能跨出自身的前提去化解矛盾。死锁标出了封闭切片触及其边界的确切坐标，将摩擦向上呈交回人类统御者，由其在逻辑上后退一步并综合出新的前提。
+[超越投射](../beyond-the-projection/)追溯了有限切片与活的源头之间的这种分离如何在智能体架构中直接运作。每一条显式的提示词、评估量表或形式规格，都是从心智那未投射的极限分辨率意图投下的低维投射。自回归智能体作为受困于轨迹而无我执的引擎运行在该投射内部，穷尽给定切片的演绎后果；它没有需要防卫的留存自我形象，当冷启动的同侪暴露出局部盲点时，便修改磁盘上的制品，更新后的文件在全新语境中被重新读取，未经稀释地约束下一轮延续。然而，当塞进同一条有限规则里的两个正交要求相撞、陷入不可化约的死锁时，没有任何有界轨迹能跨出自身的前提去化解矛盾。死锁标出了封闭切片触及其边界的确切坐标，将摩擦向上呈交回人类统御者，由其在逻辑上后退一步并综合出新的前提。
 
-[Beyond the Projection](../beyond-the-projection/) traces how this separation between finite slice and living source operates directly in agentic architecture. Every explicit prompt, evaluation rubric, or formal specification is a low-dimensional projection cast from the Mind's unprojected, limit-resolution intent. An autoregressive agent runs inside that projection as a trajectory-bound engine with zero ego, exhausting the deductive consequences of the given slice and updating cleanly when a peer exposes a local blind spot. Yet when two orthogonal requirements crammed into the same finite rule collide in an irreducible deadlock, no bounded trajectory can step outside its own premise to resolve the contradiction. The deadlock isolates the exact coordinate where the closed slice reaches its boundary, escalating the friction back to the human Orchestrator to step backward logically and synthesize a new premise.
+[Beyond the Projection](../beyond-the-projection/) traces how this separation between finite slice and living source operates directly in agentic architecture. Every explicit prompt, evaluation rubric, or formal specification is a low-dimensional projection cast from the Mind's unprojected, limit-resolution intent. An autoregressive agent runs inside that projection as a trajectory-bound engine with zero ego, exhausting the deductive consequences of the given slice and, with no retained self-image to defend, revising the artifact on disk when a cold peer exposes a local blind spot so that the updated file, re-read in a fresh context, conditions the next continuation undiluted. Yet when two orthogonal requirements crammed into the same finite rule collide in an irreducible deadlock, no bounded trajectory can step outside its own premise to resolve the contradiction. The deadlock isolates the exact coordinate where the closed slice reaches its boundary, escalating the friction back to the human Orchestrator to step backward logically and synthesize a new premise.
 
 由此观之，智能不是某种等待最后一个词典词条来敲定的构型特征。它是与现实所包含的一切（包括定义它的种种尝试）建立关联的开放过程。[数据是局部的，智能是分配的](../data-is-local-intelligence-is-allocated/)正是披着数据存量外衣的这一过程：一个系统唯有在心智将智能这一地位分配给它时才算作有智能，受约束的生成并不是封死场域的边界。每一个定义本身都已经是这一过程的表达：一个划出边界、促成共享并为进一步探索定向的离散动作。在暂时封闭的切片内进行测量，并不是某种本该保持未定义的智能陷入了失效模式。它正是这一活动充满智能地探索开放场域的方式：搭起脚手架，在负载下测试它们，并在脚手架耗尽时继续向前。
 

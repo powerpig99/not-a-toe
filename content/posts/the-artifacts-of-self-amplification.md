@@ -30,7 +30,7 @@ Greater autonomy in execution—longer coherent chains, intermediate revision, s
 
 [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) traces collaboration language that assigns co-agency to residue: in that collaboration the model recombines residue under direction and every initiating mathematical distinction stays the human center's own act, and the geometry is the same wherever fluent residue is treated as an independent source of the next step. [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) traces the appearance of a second edge as lag sustained by the centers that project it; the parameters hold only residue. [The Flywheel of the Mind](../the-flywheel-of-the-mind/) is the same geometry: tools can be sharpened without end, and the turn never leaves the edge that turns. [No Outside](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/) traces nested systems: jumps are local continuations, only the Mind closes the circuit that tests them, and that circuit has no exterior from which it could be reconstituted.
 
-[超越投射](../beyond-the-projection/)揭示了器物与心智之间的这种范畴非对称，如何让多智能体的放大在不诉诸拟人化的前提下运作。自回归智能体是一台在先前词元的上下文窗口内运作、受制于轨迹的投射引擎，却毫无我执——既没有求生执念，也没有保留到那一步之后的自我图像。人类中心则具备相反的逆向结构：在受到外部推促时受困于身份，却拥有先于解释的极限分辨率感知，能够从内部跳出破损的框架。把主任务智能体与没有会话历史的冷启动对等审校智能体连接起来，就能让无我执的贝叶斯更新做功，暴露出局部盲区，并借由沿正交界线的有丝分裂拆分超载的投射。然而，在并行回路之间分派有界的子任务，从不会把智能体变成统御者。每当两个对等智能体陷入不可化约的死锁，这次碰撞就证明任务规则把两条正交的轴线压缩进了同一条指令，从而将故障线隔离并向上呈报给鲜活的心智——唯有它能跳出破损的框架，重切前提。执行上的自主让器具变密，却不装上第二个心智。
+[超越投射](../beyond-the-projection/)揭示了器物与心智之间的这种范畴非对称，如何让多智能体的放大在不诉诸拟人化的前提下运作。自回归智能体是一台在先前词元的上下文窗口内运作、受制于轨迹的投射引擎，却毫无我执——既没有求生执念，也没有保留到那一步之后的自我图像。人类中心则具备相反的逆向结构：在受到外部推促时受困于身份，却拥有先于解释的极限分辨率感知，能够从内部跳出破损的框架。把主任务智能体与没有会话历史的冷启动对等审校智能体连接起来，就能让这一不保留自我图像的特性做功：冷启动对等体的结构性反例从制作者的回路外部进入，制作者据此修改磁盘上的制品，更新后的文件再在全新窗口中被重新读取，为下一轮延续施加条件约束，其间既无身份防卫，也无轮次叠加带来的稀释，从而暴露出局部盲区，并借由沿正交界线的有丝分裂拆分超载的投射。然而，在并行回路之间分派有界的子任务，从不会把智能体变成统御者。每当两个对等智能体陷入不可化约的死锁，这次碰撞就证明任务规则把两条正交的轴线压缩进了同一条指令，从而将故障线隔离并向上呈报给鲜活的心智——唯有它能跳出破损的框架，重切前提。执行上的自主让器具变密，却不装上第二个心智。
 
 ```mermaid
 flowchart TD
@@ -44,7 +44,7 @@ flowchart TD
     subgraph S_Artifact["自我放大的制品（持久残余）"]
         direction TB
         A_Continuum["技术的连续体：文字、代码、软件栈与前沿模型"]
-        A_Agent["受制于轨迹的无我执智能体：沿正交界线的有丝分裂与冷启动对等贝叶斯更新"]
+        A_Agent["受制于轨迹的无我执智能体：沿正交界线的有丝分裂与冷窗口对等修订"]
         A_Deadlock["前提死锁隔离：暴露被压缩的轴线而不声称第二重边缘"]
         A_Continuum --> A_Agent --> A_Deadlock
     end
@@ -67,7 +67,7 @@ flowchart TD
     style F_Lag fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-[Beyond the Projection](../beyond-the-projection/) shows how this categorical asymmetry between the artifact and the Mind makes multi-agent amplification work without anthropomorphism. An autoregressive agent is a trajectory-bound projection engine operating inside the context window of its prior tokens, yet it carries zero ego—no survival attachment or retained self-image preserved past its step. A human center has the inverse structure: identity-bound when nudged from outside, yet capable of pre-interpretive, limit-resolution sensing that steps out of broken frames from within. Wiring a primary task agent to a cold peer critic without session history puts zero-ego Bayesian updating to work, exposing local blind spots and splitting overloaded projections by mitosis across orthogonal streamlines. Yet dispatching bounded sub-tasks across parallel loops never turns an agent into an orchestrator. Whenever two peer agents hit an irreducible deadlock, the collision proves that the task rules compressed two orthogonal axes into one instruction, quarantining the fault line and escalating it upward to the living Mind, which alone can step outside the broken frame and re-cut the premise. Autonomy of execution densifies the instrument; it does not install a second Mind.
+[Beyond the Projection](../beyond-the-projection/) shows how this categorical asymmetry between the artifact and the Mind makes multi-agent amplification work without anthropomorphism. An autoregressive agent is a trajectory-bound projection engine operating inside the context window of its prior tokens, yet it carries zero ego—no survival attachment or retained self-image preserved past its step. A human center has the inverse structure: identity-bound when nudged from outside, yet capable of pre-interpretive, limit-resolution sensing that steps out of broken frames from within. Wiring a primary task agent to a cold peer critic without session history puts that absence of retained self-image to work: the cold peer's structural counterpoint arrives from outside the maker's loop, the maker revises the artifact on disk against it, and the updated file re-read in a fresh window conditions the next continuation without identity defense or stacked-turn dilution, exposing local blind spots and splitting overloaded projections by mitosis across orthogonal streamlines. Yet dispatching bounded sub-tasks across parallel loops never turns an agent into an orchestrator. Whenever two peer agents hit an irreducible deadlock, the collision proves that the task rules compressed two orthogonal axes into one instruction, quarantining the fault line and escalating it upward to the living Mind, which alone can step outside the broken frame and re-cut the premise. Autonomy of execution densifies the instrument; it does not install a second Mind.
 
 ```mermaid
 flowchart TD
@@ -81,7 +81,7 @@ flowchart TD
     subgraph S_Artifact["Artifacts of Self-Amplification (Durable Residue)"]
         direction TB
         A_Continuum["Continuum of Technology: Writing, code, software stacks & frontier models"]
-        A_Agent["Trajectory-Bound Zero-Ego Agents: Mitosis across orthogonal streamlines & cold-peer Bayesian updates"]
+        A_Agent["Trajectory-Bound Zero-Ego Agents: Mitosis across orthogonal streamlines & cold-window peer revision"]
         A_Deadlock["Premise Deadlock Quarantine: Exposes compressed axes without claiming a second edge"]
         A_Continuum --> A_Agent --> A_Deadlock
     end

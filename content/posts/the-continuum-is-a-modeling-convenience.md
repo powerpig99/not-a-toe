@@ -96,7 +96,7 @@ With the tempos of the fold seen clearly, where each "axiom" and "premise" of a 
 
 When a Mind treats this process negatively, that is, forgets the act of folding itself and passes over the span of time and the friction the fold requires, contradiction appears. This is the forgetting of premises: a premise is drawn out in isolation as though it had stood from birth outside the causal stream that generated it, the non-zero element dx between cause and effect is imagined already closed, and the premise is imagined able to prove and sustain itself. It is that smallest interval passed over (dx ≠ 0) that leaves no premise self-sufficient. [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) and [The Arithmetic of the Register](../the-arithmetic-of-the-register/) show that formalization is a product made afterward, and that its closure is borrowed from a movement it can neither contain nor generate.
 
-[超越投射](../beyond-the-projection/)与[你的代码库即是记忆](../your-codebase-is-memory/)进一步追溯了同一条边界如何制约智能体系统及其工作记忆的设计。每一段显式的提示词、系统规则、代码库制品或模型权重，都是从先前的折叠里凝结出的有限投射——即早先区分留下的层叠残余（t−1），它把那个活的间距当作已经闭合，将亲历意图中彼此独立的维度压缩到有限的坐标上。指望靠更密集的档案来闭合这一间距（dx = 0），而去囤积中间的会话轨迹、废弃分支或未修剪的历史，只会加厚引力井：当两个被压缩的维度发生碰撞时，若把无我执的自回归智能体独自留在不断累积的词元轨迹内，它会用表面的合理性把矛盾包裹起来，而不会跳出破损的框架。反之，若让它与未背负历史会话拖拽的冷启动同侪置于对等的辩论中，它便会在局部盲区上利落地更新，并在既定前提发生冲突的那个坐标处进入死锁。由于任何有限投射都无法跳出自身的公理去跨越那个非零的间距（dx ≠ 0），唯有栖居在未被投射的当下一瞬里的活的心智——即统御者——才能接管被上报的死锁，经由反思与想象向后退一步，就地重切当下的检查点，并修剪临时的脚手架，以免昨日的残余冒充今日的根基。
+[超越投射](../beyond-the-projection/)与[你的代码库即是记忆](../your-codebase-is-memory/)进一步追溯了同一条边界如何制约智能体系统及其工作记忆的设计。任何显式的提示词、系统规则、代码库制品或模型权重，都是从先前的折叠里凝结出的有限投射，是早先区分留下的层叠残余（t−1）：它把那个活的间距当作已经闭合，将亲历意图中彼此独立的维度压缩到有限的坐标上。指望靠更密集的档案来闭合这一间距（dx = 0），而去囤积中间的会话轨迹、废弃分支或未修剪的历史，只会加厚引力井：当两个被压缩的维度发生碰撞时，若把无我执的自回归智能体独自留在不断累积的词元轨迹内，它会用表面的合理性把矛盾包裹起来，而不会跳出破损的框架。反之，若让它与冷启动的同侪展开对等辩论，它会针对同侪暴露出的每一处局部盲区修改磁盘上的制品，更新后的文件随后在全新的语境中被重新读取，那里没有任何沿袭下来的会话轨迹在混合中竞争，而这场交锋则会在既定前提发生冲突的那个坐标处进入死锁。由于任何有限投射都无法跳出自身的公理去跨越那个非零的间距（dx ≠ 0），唯有活的心智，即栖于未被投射的当下一瞬的统御者，才能接管被上报的死锁，经由反思与想象向后退一步，就地重切当下的检查点，并修剪临时的脚手架，以免昨日的残余冒充今日的根基。
 
 ```mermaid
 flowchart TD
@@ -107,14 +107,12 @@ flowchart TD
         Reason["理性：凝结形式支架以维持前后两步的因果连贯"]
         Reflect --> Imagine --> Reason
     end
-
     subgraph S_Proj["建模的便利：凝结的前提与层叠的残余"]
         direction TB
         Given["定住切片：令微元归零以使代数、公理或代码库痕迹得以闭合"]
         Agent["困于轨迹的执行：形式系统与无我执的智能体穷尽投射"]
         Given --> Agent
     end
-
     subgraph S_Split["在边界处：遗忘折叠与统御回归"]
         direction TB
         Forget["遗忘前提：囤积陈旧残余、投射出第二重前沿或责怪现实"]
@@ -122,11 +120,9 @@ flowchart TD
         Steer["活的统御者：心智接管信号、重切当下检查点并修剪临时脚手架"]
         Deadlock --> Steer
     end
-
     Reason ==>|"外化为持久痕迹"| Given
     Agent ==>|"把微元归零误作现实"| Forget
     Agent ==>|"把裂口读作边界信号"| Deadlock
-
     style S_Fold fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Split fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -140,7 +136,7 @@ flowchart TD
     style Steer fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-[Beyond the Projection](../beyond-the-projection/) and [Your Codebase Is Memory](../your-codebase-is-memory/) trace how this same boundary governs the design of agentic systems and their working memory. Every explicit prompt, system rule, codebase artifact, or model weight is a finite projection congealed from a prior fold—stacked residue of earlier distinctions (t−1) that compresses independent dimensions of lived intent onto finite coordinates by treating the living interval as closed. Hoarding intermediate session trajectories, dead branches, or unpruned histories in the hope that a denser archive will close the interval (dx = 0) only thickens the gravity well: left alone inside an accumulating token trajectory when two compressed dimensions collide, a zero-ego autoregressive agent wraps the contradiction in surface plausibility rather than stepping outside the broken framing. Paired instead with a cold peer in equal-footed debate without inherited session drag, it updates cleanly on local blind spots and deadlocks at the exact coordinate where the given premises conflict. Because no finite projection can step outside its own axioms to bridge the non-zero interval (dx ≠ 0), only the living Mind—the Orchestrator dwelling in the unprojected present instant—can claim the escalated deadlock, step backward through reflection and imagination, re-cut the present checkpoint in place, and prune the transient scaffolds so yesterday's residue does not masquerade as today's ground.
+[Beyond the Projection](../beyond-the-projection/) and [Your Codebase Is Memory](../your-codebase-is-memory/) trace how this same boundary governs the design of agentic systems and their working memory. Every explicit prompt, system rule, codebase artifact, or model weight is a finite projection congealed from a prior fold—stacked residue of earlier distinctions (t−1) that compresses independent dimensions of lived intent onto finite coordinates by treating the living interval as closed. Hoarding intermediate session trajectories, dead branches, or unpruned histories in the hope that a denser archive will close the interval (dx = 0) only thickens the gravity well: left alone inside an accumulating token trajectory when two compressed dimensions collide, a zero-ego autoregressive agent wraps the contradiction in surface plausibility rather than stepping outside the broken framing. Paired instead with a cold peer in equal-footed debate, it revises the artifact on disk against each local blind spot the peer exposes, the updated file is re-read in a fresh context where no inherited session trajectory competes in the mixture, and the exchange deadlocks at the exact coordinate where the given premises conflict. Because no finite projection can step outside its own axioms to bridge the non-zero interval (dx ≠ 0), only the living Mind—the Orchestrator dwelling in the unprojected present instant—can claim the escalated deadlock, step backward through reflection and imagination, re-cut the present checkpoint in place, and prune the transient scaffolds so yesterday's residue does not masquerade as today's ground.
 
 ```mermaid
 flowchart TD
@@ -151,14 +147,12 @@ flowchart TD
         Reason["Reasoning: Congealing formal scaffolding to keep steps in causal accord"]
         Reflect --> Imagine --> Reason
     end
-
     subgraph S_Proj["Modeling Convenience: Congealed Premise & Stacked Residue"]
         direction TB
         Given["Fixing the Slice: Setting dx = 0 so algebra, axioms, or codebase traces can close"]
         Agent["Trajectory-Bound Execution: Formal systems & zero-ego agents exhaust the projection"]
         Given --> Agent
     end
-
     subgraph S_Split["At the Boundary: Forgetting the Fold vs. Orchestrating the Return"]
         direction TB
         Forget["Forgetting the Premise: Hoarding stale residue, projecting a second edge, or blaming reality"]
@@ -166,11 +160,9 @@ flowchart TD
         Steer["Living Orchestrator: The Mind claims the signal, re-cuts the present checkpoint & prunes transient scaffolds"]
         Deadlock --> Steer
     end
-
     Reason ==>|"Externalizes durable trace"| Given
     Agent ==>|"When dx = 0 is mistaken for reality"| Forget
     Agent ==>|"When the tear is read as boundary signal"| Deadlock
-
     style S_Fold fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Split fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7

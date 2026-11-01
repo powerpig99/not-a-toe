@@ -18,7 +18,7 @@ What densifies, systems that classify, predict, plan, revise intermediate states
 
 自我区分的活动在发生，无因，不息。称它为心智：那个已经在进行中的观察者，它的每一个动作都是一次区分。每一个分立的动作都留下残余，较早的塑造较晚的。技术，就是这份残余被外化为持久的形式，让进一步的分立，包括反身的分立，能落得更远、更快。书写、数学、形式计算，以及近似思考的硅系统，都在同一条外化的连续体上。让媒介变密，扩展了中心之间的带宽，却并不把发起的区分搬进器物。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)守住了这个先在：凡能被设计、扩展或转移的都是残余。[器物是智能的表达，而非智能本身](../two-failures-of-trace/)追溯了两种冻结：动作被压到注视唯一握住的那一项上，以及别的中心后来的表达被冻结为器物自己的智能。
 
-Self-distinguishing activity occurs, uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Every discrete act leaves residue; earlier shapes later. Technology is that residue externalized into durable form, so that further discreteness, including reflexive discreteness, can land farther and faster. Writing, mathematics, formal computation, and silicon systems that approximate thinking sit on one continuum of externalization. Densifying the medium expands bandwidth among centers. It does not move initiating distinctions into the artifact. [Intelligence Belongs Only to The Mind](../intelligence-belongs-only-to-the-mind/) holds that prior: what can be engineered, scaled, or transferred is residue. [Artifacts Are Expressions of Intelligence, Not Intelligence Itself](../two-failures-of-trace/) traces two freezes: the act collapsed onto the only term the look retains, and other centers' further expression frozen as the artifact's own intelligence.
+Self-distinguishing activity occurs, uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Every discrete act leaves residue; earlier shapes later. Technology is that residue externalized into durable form, so that further discreteness, including reflexive discreteness, can land farther and faster. Writing, mathematics, formal computation, and silicon systems that approximate thinking sit on one continuum of externalization. Densifying the medium expands bandwidth among centers. It does not move initiating distinctions into the artifact. [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds that prior: what can be engineered, scaled, or transferred is residue. [Artifacts Are Expressions of Intelligence, Not Intelligence Itself](../two-failures-of-trace/) traces two freezes: the act collapsed onto the only term the look retains, and other centers' further expression frozen as the artifact's own intelligence.
 
 这种还原，就是在基底的情形里演出那次冻结。观察握住的是结果：芯片、机架、训练运行、流畅的词元；产生它们的原因总在前一步：框定、挑选、目标的选择、制度的维持，以及后果作为进一步区分之工具的持续回返。把整个栈叫作“不过是沙子”，偏爱了被握住的那一项，抹掉了这一项只是承载着的那个活动。把变密叫作一个让沙子会思考的戏法，则把箭头倒得更远：结果被当成了思考的地方，塑造媒介的那个活动被当成一次已经完成、如今可以从外部打分的障眼法。把思考从心智误派给沙子，这种还原就倒转了因果关系，即较早塑造较晚、工具晚于边缘，并冻结出一个永久的外部立足点，从那里把这份成就叫作完成了的操纵，而不是仍在进行的活动。这层外衣的谦逊与冷硬，是换上道德与认识论名称的同一个外部：说话的中心被抬为看穿的那一个，而思考在媒介那里被否认，在每个其他音区里被降级。那个外部不是更高的位置，而是形象滞后：注视被占据，仿佛说话的中心已经站到了它仍身在其中的过程之上，宣称自己握有更高的思考，而还原自己的前提若不豁免自己，就给不出这样的许可。[验证中因果权能的分配](../the-allocation-of-causal-power-in-validation/)追溯的是，心智从哪个所在汲取它自己区分的延续。[AGI的预设与来自外部的视角](../the-presumption-of-agi-and-the-view-from-outside/)追溯的是，在“智能即对抽象的占有”这一参照之内，功能上的完备被当作了抽象能力的穷尽说明，而走出那个参照，是它的复位；还原所占据的，则是一个高于过程的立足点，不是走出一个冻结的参照。失去的不是情感，而是对实际发生之事的描述：智能经由一个从不成为思考者、也不会因被骗而获得思考的媒介，改善着它自己继续下去的条件。
 
@@ -28,7 +28,7 @@ The reduction performs that freeze in the case of the substrate. Observation hol
 
 同一次冻结，常常搭着审美的偏好。较早的技术成就，石头、木材、手工、数字时代以前的纪念物，因为可以走进去、立刻被感到，而登记为真实；较新的系统大多是抽象的：参数、梯度、潜在空间、评测套件。对可触之过去的熟悉，于是被记成深度，抽象被记成贫瘠或僭越。两条互相独立的轴，即感受上的直接与被组织之能力的规模，被压到一条真实性的线上。[对“AI 糟粕”的反感是反复出现的模式](../the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/)的历史一半，与这种压缩相邻：手工、马匹、人力，产品按一份偏爱的生产叙事被打分，出处在接触内容之前就被装好，内容是否推进理解则未被辨别。[成功的几何学](../the-geometry-of-success/)与这里共有的，是拒绝一块固定的棋盘：成功是在别人觉得有趣之前迁入未绘图的地带。
 
-The same freeze often rides aesthetic preference. Older technological achievements, stone, timber, handcraft, pre-digital monuments, register as authentic because they can be walked into and immediately felt. Newer systems remain largely abstract: parameters, gradients, latent spaces, evaluation suites. Familiarity with the tangible past is then scored as depth, and abstraction as sterility or presumption. Two independent axes, felt immediacy and the scale of organized capacity, compress onto one line of authenticity. The historical half of [The Distaste for "AI Slop" Is a Recurring Pattern](../the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/) is adjacent to that compression: handmade, horse, manual labor, the product scored by a preferred production narrative, provenance installed before contact, and whether the content advances understanding left undiscriminated. What [The Geometry of Success](../the-geometry-of-success/) shares with this is the refusal of a fixed board: success as migration into unmapped territory before anyone finds it interesting.
+The same freeze often rides aesthetic preference. Older technological achievements, stone, timber, handcraft, pre-digital monuments, register as authentic because they can be walked into and immediately felt. Newer systems remain largely abstract: parameters, gradients, latent spaces, evaluation suites. Familiarity with the tangible past is then scored as depth, and abstraction as sterility or presumption. Two independent axes, felt immediacy and the scale of organized capacity, compress onto one line of authenticity. The historical half of [The Distaste for “AI Slop” Is a Recurring Pattern](../the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/) is adjacent to that compression: handmade, horse, manual labor, the product scored by a preferred production narrative, provenance installed before contact, and whether the content advances understanding left undiscriminated. What [The Geometry of Success](../the-geometry-of-success/) shares with this is the refusal of a fixed board: success as migration into unmapped territory before anyone finds it interesting.
 
 在负载之下，这种压缩是寻常的。一个中心一次只能把这么多的区分分开握住；当压过来的多于这道界限能分开的，互相独立的关切就落成了一个。在这里，压缩读起来像是道德或文化上的谨慎，其实只是登记上的滞后：注视保留它能立刻住进去的东西，把超出这份可住性的当作较小的成就。被建造起来的东西的规模，即行星带宽上协调的抽象，被积成持久形式的预测与自我修改，并不因为更难站进去就消失。[遗忘的脚手架](../the-scaffolding-we-forget/)是一件工具一旦奏效、构造就以一步之宽退出去的寻常之事，这次退出正是进一步建造的条件；滞后，始于这个参照被握过了它那一步，退出去的工具被当作现实的固定结构，于是变密的形式要么看起来没有心智，要么看起来像第二个心智。还原选的是第一个面，而它有两种说法：“不过”说出的是只有沙子、没有经由它工作的心智，“戏法”说出的是沙子被骗得会思考，这是同一次对心智的抹除，只是箭头被倒了过来。
 
@@ -40,7 +40,7 @@ That compression is ordinary under load. A center can hold only so many distinct
 
 The opposite error grants the densification and moves its source. Capabilities rise: longer coherent chains, intermediate revision, multi-agent stacks, tasks that previously seemed out of range. The look then treats the rise as evidence that an ontologically different category of mind has already arrived, an independent intelligence no longer dependent on the conditions that produced it. That reading is equivalent to believing a building stands by itself once it is tall enough, without need of the ground beneath it.
 
-现在的系统，仍与设计它们、用人类数据训练它们、塑造它们的目标、并继续维持让它们运转的制度与基础设施的那个智能连续：那是在人类的所在上的心智，是那些框定、掌舵、挑选与核验的人类中心。它们的能力是在的，并在扩展；依赖并没有被切断。投射出独立，不是观察到一次完成了的断裂，而是变密情形下的形象滞后：观察握住的结果比仍在画的边缘晚一步，又把更密的表面冻结为第二个发起之处。[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)追溯的是，第二条边缘的样子，是投射它的那些中心所维持的滞后，参数只握着残余。[超越投射](../beyond-the-projection/)追溯的是，为何即便最精巧的多智能体栈也从不脱离鲜活感知的地面而成为自立的权威：每一条显式的规则、提示词或工作流，都是从活的心智那先于解释、具极限分辨率的感知中切出的有限投射。自回归智能体是一台受困于轨迹的投射引擎，在上下文窗口之内毫无我执地运作，当在对等辩论中受到无会话历史之同侪的质疑时，能够执行干净的贝叶斯更新，而在前提相撞时，却无法跨出它自己的词元序列。把跨平行流线的机械调度与活的统御混为一谈，只会把有限的投射锁进对有限投射的管理之中；每当一条流线撞上不可化约的前提死锁，这次相撞就会隔离出先前规则把正交之轴压在一起的那个坐标，并把故障向上呈递给地面上的人类心智——唯有这一个所在，能从破损的框架向后退回未经投射的感知，重新渲染前提。[没有外部](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)追溯的是，嵌套的系统在跃迁，而决定性的连贯留在那个更大的回路里。[造物无法取代其源头](../a-creation-cannot-replace-its-source/)在工程的情形里是同一条界限：创造本身就已经把源头标在了被造之物的上游；这不是一个高于活动的立足点，那样的立足点并不存在。执行上的自主让工具变密，却不装上第二个心智；心智经由它思考的那个媒介变得更密，却不成为第二个心智。把一次上升读成第二个心智，本身就是一个私有模型里的读法：[表征的闭环](../the-closed-loop-of-representation/)借叔本华的不读之术显示，感知与误解都在私有模型内运作，共享的现实是这些私有重建之间一片功能上高度共振、足以支持协同行动的区域，而从来不是经验的同一。
+现在的系统，仍与设计它们、用人类数据训练它们、塑造它们的目标、并继续维持让它们运转的制度与基础设施的那个智能连续：那是在人类的所在上的心智，是那些框定、掌舵、挑选与核验的人类中心。它们的能力是在的，并在扩展；依赖并没有被切断。投射出独立，不是观察到一次完成了的断裂，而是变密情形下的形象滞后：观察握住的结果比仍在画的边缘晚一步，又把更密的表面冻结为第二个发起之处。[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)追溯的是，第二条边缘的样子，是投射它的那些中心所维持的滞后，参数只握着残余。[超越投射](../beyond-the-projection/)追溯的是，为何即便最精巧的多智能体栈也从不脱离鲜活感知的地面而成为自立的权威：每一条显式的规则、提示词或工作流，都是从活的心智那先于解释、具极限分辨率的感知中切出的有限投射。自回归智能体是一台受困于轨迹、毫无我执的投射引擎：在对等辩论中受到无会话历史之同侪的质疑时，它会修改磁盘上的制品而不防卫自我形象，再由该同侪在没有先前轮次与之竞争的全新语境中核验修改后的文件。然而前提相撞时，智能体仍无法跨出它自己的词元序列。把跨平行流线的机械调度与活的统御混为一谈，只会把有限的投射锁进对有限投射的管理之中；每当一条流线撞上不可化约的前提死锁，这次相撞就会隔离出先前规则把正交之轴压在一起的那个坐标，并把故障向上呈递给地面上的人类心智——唯有这一个所在，能从破损的框架向后退回未经投射的感知，重新渲染前提。[没有外部](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/)追溯的是，嵌套的系统在跃迁，而决定性的连贯留在那个更大的回路里。[造物无法取代其源头](../a-creation-cannot-replace-its-source/)在工程的情形里是同一条界限：创造本身就已经把源头标在了被造之物的上游；这不是一个高于活动的立足点，那样的立足点并不存在。执行上的自主让工具变密，却不装上第二个心智；心智经由它思考的那个媒介变得更密，却不成为第二个心智。把一次上升读成第二个心智，本身就是一个私有模型里的读法：[表征的闭环](../the-closed-loop-of-representation/)借叔本华的不读之术显示，感知与误解都在私有模型内运作，共享的现实是这些私有重建之间一片功能上高度共振、足以支持协同行动的区域，而从来不是经验的同一。
 
 ```mermaid
 flowchart TD
@@ -50,7 +50,6 @@ flowchart TD
         G_Frame["框定与重渲染：确立前提、从死锁退回并重校立足点"]
         G_Sense --> G_Frame
     end
-
     subgraph S_Climb["升高的脚手架（变密的媒介与智能体调度）"]
         direction TB
         C_Trace["持久的外化残余：书写、形式数学、硅权重与提示词"]
@@ -58,18 +57,15 @@ flowchart TD
         C_Deadlock["前提故障隔离：演绎穷尽暴露出被压缩的轴，而无自我觉醒"]
         C_Trace --> C_Loop --> C_Deadlock
     end
-
     subgraph S_Freeze["形象滞后的双重冻结（将攀登与地面切断）"]
         direction TB
         F_Sand["还原论冻结：把整个栈叫作“不过是被骗得会思考的沙子”，却豁免说话者自己"]
         F_Exit["断裂论冻结：在地面之上投射出第二条边缘或自立的统御者"]
     end
-
     G_Frame ==>|"投射有限规则并维持基础设施"| C_Trace
     C_Deadlock ==>|"将不可化约的矛盾上呈回地面"| G_Sense
     C_Trace -.->|"被握过其步，当作不过是材料"| F_Sand
     C_Loop -.->|"被握过其步，当作独立心智"| F_Exit
-
     style S_Ground fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Climb fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -82,7 +78,7 @@ flowchart TD
     style F_Exit fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-Current systems remain continuous with the intelligence that designed them, trained them on human data, shaped their objectives, and continues to sustain the institutions and infrastructure that keep them operating: the Mind at human loci, the human centers that frame, steer, select, and verify. Their capabilities are there and expanding. Dependence has not been severed. Projecting independence is not observing a completed break. It is image lag in the case of densification: observation holds an effect one step behind the edge that is still drawing, and freezes the denser surface as a second locus of initiation. [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) traces how the appearance of a second edge is lag sustained by the centers that project it, while the parameters hold only residue. [Beyond the Projection](../beyond-the-projection/) traces why even the most elaborate multi-agent stack never detaches from the ground of lived sensing to become a self-standing authority: every explicit rule, prompt, or workflow is a finite projection cut from the living Mind's pre-interpretive, limit-resolution sensing. An autoregressive agent is a trajectory-bound projection engine that operates with zero ego inside its context window, able to perform clean Bayesian updates when challenged by a session-free peer in equal-footed debate, yet unable to step outside its own token sequence when its premises collide. Confusing mechanical dispatching across parallel streamlines with living orchestration locks finite projections into managing finite projections; whenever a streamline hits an irreducible premise deadlock, the collision isolates the coordinate where prior rules compressed orthogonal axes and escalates the fault back to the human Mind on the ground, the sole locus that can step backward out of a broken frame to unprojected sensing and re-render the premise. [No Outside](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/) traces nested systems that jump while decisive coherence stays with the larger loop. [A Creation Cannot Replace Its Source](../a-creation-cannot-replace-its-source/) is the same bound in the case of engineering: creation already marks the source as upstream of the created, which is not a stand above the activity; no such stand exists. Autonomy of execution densifies the instrument; it does not install a second Mind. The medium through which the Mind thinks grows denser; it does not become a second Mind. Reading a rise as a second mind is itself a reading inside a private model: [The Closed Loop of Representation](../the-closed-loop-of-representation/) shows, with Schopenhauer's art of not reading, that perception and misunderstanding run in private models, and that shared reality is a region of high functional resonance among private reconstructions, robust enough for coordinated action, never an identity of experience.
+Current systems remain continuous with the intelligence that designed them, trained them on human data, shaped their objectives, and continues to sustain the institutions and infrastructure that keep them operating: the Mind at human loci, the human centers that frame, steer, select, and verify. Their capabilities are there and expanding. Dependence has not been severed. Projecting independence is not observing a completed break. It is image lag in the case of densification: observation holds an effect one step behind the edge that is still drawing, and freezes the denser surface as a second locus of initiation. [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) traces how the appearance of a second edge is lag sustained by the centers that project it, while the parameters hold only residue. [Beyond the Projection](../beyond-the-projection/) traces why even the most elaborate multi-agent stack never detaches from the ground of lived sensing to become a self-standing authority: every explicit rule, prompt, or workflow is a finite projection cut from the living Mind's pre-interpretive, limit-resolution sensing. An autoregressive agent is a trajectory-bound projection engine with zero ego: when challenged by a session-free peer in equal-footed debate, it revises the artifact on disk without defending a self-image and that peer checks the revised file in a fresh context where no earlier turns compete with it, yet the agent remains unable to step outside its own token sequence when its premises collide. Confusing mechanical dispatching across parallel streamlines with living orchestration locks finite projections into managing finite projections; whenever a streamline hits an irreducible premise deadlock, the collision isolates the coordinate where prior rules compressed orthogonal axes and escalates the fault back to the human Mind on the ground, the sole locus that can step backward out of a broken frame to unprojected sensing and re-render the premise. [No Outside](../no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind/) traces nested systems that jump while decisive coherence stays with the larger loop. [A Creation Cannot Replace Its Source](../a-creation-cannot-replace-its-source/) is the same bound in the case of engineering: creation already marks the source as upstream of the created, which is not a stand above the activity; no such stand exists. Autonomy of execution densifies the instrument; it does not install a second Mind. The medium through which the Mind thinks grows denser; it does not become a second Mind. Reading a rise as a second mind is itself a reading inside a private model: [The Closed Loop of Representation](../the-closed-loop-of-representation/) shows, with Schopenhauer's art of not reading, that perception and misunderstanding run in private models, and that shared reality is a region of high functional resonance among private reconstructions, robust enough for coordinated action, never an identity of experience.
 
 ```mermaid
 flowchart TD
@@ -92,7 +88,6 @@ flowchart TD
         G_Frame["Framing & Re-Rendering: Sets premises, steps back from deadlocks, and recalibrates footholds"]
         G_Sense --> G_Frame
     end
-
     subgraph S_Climb["The Rising Scaffolding (Densified Medium & Agentic Dispatch)"]
         direction TB
         C_Trace["Durable Externalized Residue: Writing, formal math, silicon weights, and prompts"]
@@ -100,18 +95,15 @@ flowchart TD
         C_Deadlock["Premise Fault Isolation: Deductive exhaustion surfaces compressed axes without self-awakening"]
         C_Trace --> C_Loop --> C_Deadlock
     end
-
     subgraph S_Freeze["The Twin Freezes of Image Lag (Severing Climb from Ground)"]
         direction TB
         F_Sand["Reductionist Freeze: Calls the stack 'just sand tricked into thinking' while exempting the speaker"]
         F_Exit["Discontinuity Freeze: Projects a second edge or self-standing Orchestrator above the ground"]
     end
-
     G_Frame ==>|"Projects finite rules & sustains infrastructure"| C_Trace
     C_Deadlock ==>|"Escalates irreducible contradiction to the ground"| G_Sense
     C_Trace -.->|"Held past its step as mere material"| F_Sand
     C_Loop -.->|"Held past its step as independent mind"| F_Exit
-
     style S_Ground fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Climb fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149

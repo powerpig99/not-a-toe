@@ -2,7 +2,7 @@
 
 *基本面已退出决断的跨度而回顾仍自认已知 / Fundamentals leave the deciding span while retrospect still claims them known*
 
-在金融以及每一门高风险的手艺中，一个熟悉的观察反复出现：几乎所有从业者都认为自己懂基本面，但在实时决断紧迫压来时，几乎没有人把那些区分原封不动地当作支配行动的原则来实践，大多数人都会把它们搁在一边，转而顺从当下觉得最迫切的信念。从外部看，这种标榜的能力与实时行动之间的裂隙，像是虚伪、非理性，或是纪律上的道德失守。顺着有界自我区分活动的机理追溯，被登记为悖论的东西，其实是两个参照框架之间一次未被察觉的切换。因为任何离散步上的注意都只有有限的容量，那些早先曾打开一片场域的区分在负荷之下退出了活跃跨度，哪怕复盘时的回顾框架依然把它们的痕迹持为既有的私产。
+在金融以及每一门高风险的手艺中，一个熟悉的观察反复出现：几乎所有从业者都认为自己懂基本面，但在实时决断紧迫压来时，几乎没有人把那些区分原封不动地当作支配行动的原则来实践，大多数人都会把它们搁在一边，转而顺从当下觉得最迫切的信念。从外部看，这种标榜的能力与实时行动之间的裂隙，像是虚伪、非理性，或是纪律上的道德失守。顺着有界自我区分活动的机理追溯，被登记为悖论的东西，其实是两个参照框架之间一次未被察觉的切换。因为任何离散步上的注意都只有有限的容量，那些早先曾打开一片场域的区分在负荷之下退出了活跃跨度，哪怕复盘时的回顾框架依然把它们的痕迹当作早已到手的己有之物持守着。
 
 In finance and across every high-stakes craft, a familiar observation recurs: almost every practitioner claims to understand the fundamentals, almost none practice those distinctions intact as the governing principle when a live decision presses, and most set them aside for whatever belief feels urgent in the moment. Viewed from outside, this gap between professed competence and real-time action looks like hypocrisy, irrationality, or a moral failure of discipline. Traced from the mechanics of bounded, self-distinguishing activity, what registers as a paradox is an unnoticed switch between two frames of reference. Because attention at any discrete step has finite capacity, the earlier distinctions that once opened a field drop out of the active span under load, even while the retrospective frame of review continues to hold their traces as a settled possession.
 
@@ -18,7 +18,7 @@ When a practitioner is asked about those foundational cuts in a classroom, a pos
 
 ## 二、 实时负荷下未被察觉的切换与对闭合的要求 / 2. The Unnoticed Switch Under Live Load and the Demand for Closure
 
-在实时决断的内部，行动者还没意识到选择已经开始，参照框架就已经完成了切换。每一个中心在任何离散步上都只持守有限的边界。当挤过该位点的竞争信号超出了容量所能分轴持守的上限——跳动的报价、社会地位的压力、害怕踏空非对称行情的恐惧，以及早先承诺的沉没分量——活跃跨度便发生压缩。机会成本、剩余风险与激励对齐这些起源性的区分退出了活跃的重新渲染。它们并没有被有意识地唾弃，而是被当作了给定的前提，即假定已经得到满足的背景假设，好让注意不必迎着当前场域的具体摩擦重新打开它们。顺着它们腾出的空间踏进来的，是当下偏爱的信念：那个为加仓摊平、追逐动量或将眼下特例豁免于基准率之外提供辩护的故事。
+在实时决断的内部，行动者还没意识到选择已经开始，参照框架就已经完成了切换。每一个中心在任何离散步上都只持守有限的边界。当挤过该位点的竞争信号超出了容量所能分轴持守的上限——跳动的报价、社会地位的压力、害怕踏空非对称行情的恐惧，以及早先承诺的沉没分量——活跃跨度便发生压缩。机会成本、剩余风险与激励对齐这些起源性的区分退出了活跃的重新渲染。它们并没有被有意识地否弃，而是被当作了给定的前提，即假定已经得到满足的背景假设，好让注意不必迎着当前场域的具体摩擦重新打开它们。顺着它们腾出的空间踏进来的，是当下偏爱的信念：那个为加仓摊平、追逐动量或将眼下特例豁免于基准率之外提供辩护的故事。
 
 Inside a real-time decision, the frame of reference has already switched before the actor realizes a choice is underway. Every center holds only a finite boundary at any discrete step. When more competing signals press through that locus than its capacity can keep on separate axes—ticking quotes, social status pressures, fear of missing an asymmetric move, and the sunk weight of prior commitments—the active span compresses. The originating distinctions of opportunity cost, residual risk, and incentive alignment drop out of active re-rendering. They are not consciously repudiated; they are treated as given, background assumptions presumed already satisfied so that attention does not have to reopen them against the concrete friction of the present field. Into the space they vacate steps the preferred belief of the moment: the story that justifies doubling down, chasing momentum, or exempting this particular case from the base rate.
 
@@ -36,7 +36,7 @@ This mismatch between the retained image and the operating reference is the enti
 
 Wherever bounded attention advances under load, the same drop-out recurs across domains. Clinical protocols that once mapped residual biological risk harden into recited checklists while the individual patient's condition shifts underneath; [Expertise as Reference, Not Replacement](../expertise-as-reference-not-replacement/) traces how an expert statistical map, preserved past the step where it informed perception, overrides the limit-resolution somatic signal it was built to serve. Developmental scripts and organizational heuristics follow the identical arc: principles that once tracked live causal friction freeze into badges of professional identity while the generating field moves ahead, leaving practitioners reciting the rules by heart while their choices quietly unmoor from the premises those rules encoded.
 
-[超越投射](../beyond-the-projection/)揭示了这种参照切换在人工智能与多智能体架构内部的机械对应物，展示了如何通过布线让人类与机器的盲区相互抵消而非相互叠加。在上下文窗口内运作的自回归语言模型是一台有限的投射引擎：它的系统提示词与显式章程规则——即所分配任务的基本面——位于上下文的开端，如果在诊断查询中直接发问，模型会准确无误地陈述这些约束。然而，随着任务智能体沿着绵长的执行轨迹生成词元，其注意力机制会持续加权晚近的输出以维持局部延续，从而挖出一个认识论引力井。当复杂问题将 `2ᴺ` 个相互竞争的区分推过有限的坐标空间时，塞在初始提示词里的正交要求便会发生维度坍缩；奠基性约束作为轨迹盲区退出活跃的条件作用跨度，智能体开始合理化其眼前的词元序列，而最初的规则却在上下文窗口里保持惰性。在人类的中心里，推理历史与自我身份熔合在一起，因此来自外部对已滑落基本面的提醒会触发筑墙防卫，而非重置框架。相比之下，智能体虽受困于轨迹却毫无我执——对五轮之前自己是否正确没有任何求生执念。将过载的投射拆分到正交的流线上，并为每个任务智能体配对一个新鲜、冷态的对等智能体——它只接收干净的任务语境与基本面规则，而不带主智能体那段产生条件作用的会话历史——就能暴露活跃轨迹偏离其前提的确切坐标。当冷态对等体浮现出滑落的基本面时，主智能体会执行一次干净、无我执的贝叶斯更新；当它们在平等地位上的辩论陷入不可化约的僵局时，便证明基本面规则本身包含着隐蔽的矛盾，从而隔离故障并将其上交人类心智，由心智退后一步重新渲染前提。
+[超越投射](../beyond-the-projection/)揭示了这种参照切换在人工智能与多智能体架构内部的机械对应物，展示了如何通过布线让人类与机器的盲区相互抵消而非相互叠加。在上下文窗口内运作的自回归语言模型是一台有限的投射引擎：它的系统提示词与显式章程规则——即所分配任务的基本面——位于上下文的开端，如果在诊断查询中直接发问，模型会准确无误地陈述这些约束。然而，随着任务智能体沿着绵长的执行轨迹生成词元，其注意力机制会持续加权晚近的输出以维持局部延续，从而挖出一个认识论引力井。当复杂问题将 `2ᴺ` 个相互竞争的区分推过有限的坐标空间时，塞在初始提示词里的正交要求便会发生维度坍缩；奠基性约束作为轨迹盲区退出活跃的条件作用跨度，智能体开始合理化其眼前的词元序列，而最初的规则却在上下文窗口里保持惰性。在人类的中心里，推理历史与自我身份熔合在一起，因此来自外部对已滑落基本面的提醒会触发筑墙防卫，而非重置框架。相比之下，智能体虽受困于轨迹却毫无我执——对五轮之前自己是否正确没有任何求生执念。在一个仍在延续、挤满早先轮次的窗口内部，外部对位点会在加权混合中与那些更早的词元竞争，只要两股拉力同时存续，后续的延续就会被稀释；然而，由于智能体不会越过当前那一步保留任何自我图像，它此前延续的一切都不会带入全新的语境。将过载的投射拆分到正交的流线上，并为每个任务智能体配对一个新鲜、冷态的对等智能体——它只接收干净的任务语境与基本面规则，而不带主智能体那段产生条件作用的会话历史——就能暴露活跃轨迹偏离其前提的确切坐标。当冷态对等体把滑落的基本面重新指出来时，主智能体会毫无我执防卫地修改磁盘上的制品，而更新后的文件在冷窗口中被重新读取，便会未经稀释地为下一轮延续施加条件作用；当它们在平等地位上的辩论陷入不可化约的僵局时，这一僵局便将冲突定位在赋予双方的前提之中——即奠基性规则包含着隐蔽的矛盾，或是需要一次新的决定——从而隔离故障并将其上交人类心智，由心智退后一步重新渲染前提。
 
 ```mermaid
 flowchart TD
@@ -46,7 +46,6 @@ flowchart TD
         R_Claim["回顾中的笃定：在从容复盘或直接查询中回答“基本面我当然懂”"]
         R_Trace --> R_Claim
     end
-
     subgraph S_Switch["2. 负荷下未被察觉的切换（容量与轨迹压缩）"]
         direction TB
         D_Load["有限跨度饱和：跳动的价格、地位信号或密集的词元轨迹填满容量"]
@@ -54,17 +53,14 @@ flowchart TD
         D_Incoh["表面矛盾：懂得的保留图像被强行拿去覆盖叙事驱动的决断"]
         D_Load --> D_Drop --> D_Incoh
     end
-
     subgraph S_Restore["3. 察觉切换与正交重新渲染"]
         direction TB
         N_Peer["无我执的对位点：冷态对等审计或外部参照暴露滑落的轴线"]
         N_Edge["活的边缘上的实践：迎着下一步不可逆行动（+1）重新渲染奠基切分"]
         N_Peer --> N_Edge
     end
-
     R_Claim ==>|"实时负荷下未被察觉的切换"| D_Load
     D_Incoh ==>|"暴露哪个参照正在实际运作"| N_Peer
-
     style S_Retro fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Switch fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Restore fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -77,7 +73,7 @@ flowchart TD
     style N_Edge fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-[Beyond the Projection](../beyond-the-projection/) exposes the mechanical counterpart of this reference switch inside artificial intelligence and multi-agent architectures, showing how human and machine blind spots can be wired to cancel rather than compound each other. An autoregressive language model operating inside a context window is a finite projection engine: its system prompt and explicit constitutional rules—the fundamentals of the assigned task—sit at the opening of the context, and if asked directly in a diagnostic query, the model will state those constraints accurately. Yet as the task agent generates tokens along an extended execution trajectory, its attention mechanism continuously weights recent outputs to maintain local continuation, digging an epistemic gravity well. When a complex problem pushes `2ᴺ` competing distinctions through a finite coordinate space, orthogonal requirements crammed into the initial prompt undergo dimensional collapse; foundational constraints drop out of the active conditioning span as trajectory blind spots, and the agent rationalizes its immediate token sequence while the original rules remain inert in its context window. In a human center, reasoning history fuses with ego identity, so an external reminder of the dropped fundamentals triggers defensive wall-building rather than a frame reset. An agent, by contrast, is bound by its trajectory yet possesses zero ego—no survival attachment to having been right five turns ago. Splitting overloaded projections across orthogonal streamlines and pairing each task agent with a fresh, cold peer agent—one that receives only the clean task context and fundamental rules without the primary agent's conditioning session history—exposes the exact coordinate where the active trajectory switched away from its premises. When the cold peer surfaces a dropped fundamental, the primary agent performs a clean, ego-free Bayesian update; when their equal-footed debate hits an irreducible deadlock, it proves the foundational rules themselves contained a hidden contradiction, isolating the fault and escalating it to the human Mind to step backward and re-render the premise.
+[Beyond the Projection](../beyond-the-projection/) exposes the mechanical counterpart of this reference switch inside artificial intelligence and multi-agent architectures, showing how human and machine blind spots can be wired to cancel rather than compound each other. An autoregressive language model operating inside a context window is a finite projection engine: its system prompt and explicit constitutional rules—the fundamentals of the assigned task—sit at the opening of the context, and if asked directly in a diagnostic query, the model will state those constraints accurately. Yet as the task agent generates tokens along an extended execution trajectory, its attention mechanism continuously weights recent outputs to maintain local continuation, digging an epistemic gravity well. When a complex problem pushes `2ᴺ` competing distinctions through a finite coordinate space, orthogonal requirements crammed into the initial prompt undergo dimensional collapse; foundational constraints drop out of the active conditioning span as trajectory blind spots, and the agent rationalizes its immediate token sequence while the original rules remain inert in its context window. In a human center, reasoning history fuses with ego identity, so an external reminder of the dropped fundamentals triggers defensive wall-building rather than a frame reset. An agent, by contrast, is bound by its trajectory yet possesses zero ego—no survival attachment to having been right five turns ago. Inside a continuing window still crowded with prior turns, an external counterpoint competes in a weighted mixture against those earlier tokens, diluting the continuation whenever both pulls stay live; yet because the agent retains no self-image past its step, nothing it continued carries into a fresh context. Splitting overloaded projections across orthogonal streamlines and pairing each task agent with a fresh, cold peer agent—one that receives only the clean task context and fundamental rules without the primary agent's conditioning session history—exposes the exact coordinate where the active trajectory switched away from its premises. When the cold peer surfaces a dropped fundamental, the primary agent revises the artifact on disk without ego defense, and the updated file re-read in a cold window conditions the next continuation undiluted; when their equal-footed debate hits an irreducible deadlock, the deadlock locates the conflict in the premises both were given—where the foundational rules contain a hidden contradiction or require a new decision—isolating the fault and escalating it to the human Mind to step backward and re-render the premise.
 
 ```mermaid
 flowchart TD
@@ -87,7 +83,6 @@ flowchart TD
         R_Claim["Retrospective Assurance: 'Of course I know the fundamentals' in calm review or direct query"]
         R_Trace --> R_Claim
     end
-
     subgraph S_Switch["2. The Unnoticed Switch Under Load (Capacity & Trajectory Compression)"]
         direction TB
         D_Load["Finite Span Saturated: Ticking prices, status signals, or dense token trajectories fill capacity"]
@@ -95,17 +90,14 @@ flowchart TD
         D_Incoh["Surface Contradiction: Retained image of knowing forced to cover a narrative-driven decision"]
         D_Load --> D_Drop --> D_Incoh
     end
-
     subgraph S_Restore["3. Noticing the Switch & Orthogonal Re-Rendering"]
         direction TB
         N_Peer["Zero-Ego Counterpoint: Cold peer audit or external reference exposes the dropped axes"]
         N_Edge["Practice at the Living Edge: Re-rendering foundational cuts against the next irreversible act (+1)"]
         N_Peer --> N_Edge
     end
-
     R_Claim ==>|"Unnoticed switch under live load"| D_Load
     D_Incoh ==>|"Exposing which reference actually operates"| N_Peer
-
     style S_Retro fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Switch fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Restore fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -124,6 +116,6 @@ flowchart TD
 
 The paradox of fundamentals cannot be dissolved by memorizing the canon harder, preaching stricter willpower, or attempting to hold every past distinction simultaneously inside a permanently un-dropped span. [Lossless Knowledge of an Open Field Is Incoherent](../lossless-knowledge-of-an-open-field-is-incoherent/) establishes why a complete, lossless registration of ongoing distinguishing contradicts finite, centered activity: compression and focal drop-out are the structural condition under which a bounded center operates in an open field. Demanding that a finite span never drop an axis is another face of the demand for closure, mistaking a paper tautology (`1 + 1 = 2` in retrospective review) for the irreversible energy cost of re-tracing under live friction (`+1`).
 
-早先的痕迹在连续中依然可用——外化在耐久的器物、事先承诺的核对清单以及未受污染的对等语境里——然而正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，存留的残余从不会自行恢复区分，囤积未经修剪的历史只会加深引力井，把下一步拉进陈旧轨迹内部去作合理化。让奠基性切分保持起作用的，是将已被取代的会话拖累修剪至承重的当下检查点，并在下一个决断已在成形的活的边缘上将其重新描摹。在那里，真正起作用的问题不是基本面是否躺在存储里，而是此刻究竟是哪个参照在执行测量。迎着当前场域的迫切压力重新打开那些奠基性的轴线，并接入能够把活跃轨迹悄然滑落之物重新浮现出来的无我执结构对位点，就能收窄胜任的保留图像与支配行动的参照之间的过剩滞后。跨度依然有限，边缘持续移动，而清明就驻留在做出决断的那一步上对参照的持续重新渲染之中。
+早先的痕迹在连续中依然可用——外化在耐久的器物、事先承诺的核对清单以及未受污染的对等语境里——然而正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，存留的残余从不会自行恢复区分，囤积未经修剪的历史只会加深引力井，把下一步拉进陈旧轨迹内部去作合理化。让奠基性切分保持起作用的，是将已被取代的会话拖累修剪至承重的当下检查点，并在下一个决断已在成形的活的边缘上将其重新描摹。在那里，真正起作用的问题不是基本面是否躺在存储里，而是此刻究竟是哪个参照在执行测量。迎着当前场域的迫切压力重新打开那些奠基性的轴线，并接入无我执的结构性对位点，让活跃轨迹悄然丢下的东西重新浮现出来，就能收窄胜任的保留图像与支配行动的参照之间的过剩滞后。跨度依然有限，边缘持续移动，而清明就驻留在做出决断的那一步上对参照的持续重新渲染之中。
 
 Earlier traces remain available in continuity—externalized in durable artifacts, pre-commitment checklists, and uncontaminated peer contexts—yet as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, stored residue never resumes distinguishing on its own, and hoarding unpruned history only thickens the gravity well that pulls the next step into rationalizing inside stale trajectories. What keeps foundational cuts operative is pruning superseded session drag down to the load-bearing present checkpoint and re-tracing it at the living edge where the next decision is already taking shape. There, the operative question is not whether the fundamentals sit in storage, but which reference is actually doing the measuring right now. Re-opening those foundational axes against the immediate pressure of the present field, and wiring zero-ego structural counterpoints that surface what the active trajectory quietly dropped, narrows the excess lag between the retained image of competence and the reference governing the act. The span stays finite, the edge keeps moving, and clarity lives in the continuous re-rendering of the reference at the step that decides.

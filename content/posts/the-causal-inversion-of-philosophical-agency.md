@@ -46,14 +46,12 @@ flowchart TD
         M2["主权统御：在框架死锁时向后退一步以修正前提"]
         M1 --> M2
     end
-
     subgraph S_Instrument["融贯的器械（零我执投射引擎）"]
         direction TB
-        D1["受轨迹约束的调度：同行辩论中的演绎穷尽与干净贝叶斯更新"]
+        D1["受轨迹约束的调度：同行辩论中的演绎穷尽与冷窗口修订"]
         D2["候选痕迹与死锁浮现：输出词元延展并暴露前提矛盾"]
         D1 --> D2
     end
-
     subgraph S_Shadows["层层退远的影子（能动性的因果倒置）"]
         direction TB
         T1["工具实体化：作者身份被交给软件媒介"]
@@ -62,10 +60,8 @@ flowchart TD
         T4["机构置换：真理从属于评审团共识"]
         T1 --> T2 --> T3 --> T4
     end
-
     M2 ==>|"投射有界前提并重新渲染以收窄多余滞后"| D1
     D2 ==>|"残余越过回归被冻结为外部源头（图像滞后）"| T1
-
     style S_Source fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Instrument fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Shadows fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -89,14 +85,12 @@ flowchart TD
         M2["Sovereign Orchestration: Steps backward to revise premises when frames deadlock"]
         M1 --> M2
     end
-
     subgraph S_Instrument["Coherent Instrumentation (Zero-Ego Projection Engine)"]
         direction TB
-        D1["Trajectory-Bound Dispatch: Deductive exhaustion & clean Bayesian updates in peer debate"]
+        D1["Trajectory-Bound Dispatch: Deductive exhaustion & cold-window revision in peer debate"]
         D2["Candidate Trace & Deadlock Surface: Emits token continuations & exposes premise contradictions"]
         D1 --> D2
     end
-
     subgraph S_Shadows["The Receding Shadows (Causal Inversion of Agency)"]
         direction TB
         T1["Tool Reification: Authorship handed to the software medium"]
@@ -105,10 +99,8 @@ flowchart TD
         T4["Institutional Displacement: Truth subordinated to panel consensus"]
         T1 --> T2 --> T3 --> T4
     end
-
     M2 ==>|"Projects bounded premises & re-renders to narrow excess lag"| D1
     D2 ==>|"Residue frozen past return as an exterior source (Image lag)"| T1
-
     style S_Source fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Instrument fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Shadows fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -128,9 +120,9 @@ The resulting artifact may be articulate, polished, and locally insightful, yet 
 
 ## 六、 哲学行动的根基 / 6. The Ground of Philosophical Action
 
-思想的因果结构既不需要把机器神秘化，也不需要否认它的触及范围。一个心智想要理解现实的某些方面，包括知识本身的认识条件；计算工具延展这场探究的速度、规模与组合范围，在参数仅持有被压缩残余的同时加快人的回路，正如[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)所展示的。而如[超越投射](../beyond-the-projection/)所追溯的，自回归智能体的确切机械价值在于它与人类中心的结构性非对称：智能体受困于自身的词元轨迹，却毫无我执、也没有需要防卫的自我形象，因此当外部反驳暴露出盲点时，它能够在平起平坐的同行辩论中穷尽演绎路径、调度正交的子任务，并执行干净的贝叶斯更新。然而，由于有限的投射引擎无法跨出自身的上下文窗口，其前提中的任何公理矛盾都会产生不可化约的死锁，必须加以隔离并上报给活着的统御者——那个感知前解释性错位、向后退一步跨出破损框架并综合出更融贯前提的人类心智。别的心智提供批评、校准与对话；机构的环境提供庇护与保存的记录。这些下游的器械没有一件是行动的发起之源。源头是那个发起探究、穿过摩擦、并为自己的断言负责的活着的心智。
+思想的因果结构既不需要把机器神秘化，也不需要否认它的触及范围。一个心智想要理解现实的某些方面，包括知识本身的认识条件；计算工具延展这场探究的速度、规模与组合范围，在参数仅持有被压缩残余的同时加快人的回路，正如[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)所展示的。而如[超越投射](../beyond-the-projection/)所追溯的，自回归智能体的确切机械价值在于它与人类中心的结构性非对称：智能体受困于自身的词元轨迹，却毫无我执、也没有需要防卫的自我形象，因而能够穷尽演绎路径、调度正交的子任务，并在平起平坐的辩论中对照冷启动同行的反驳修订磁盘上的制品，使全新窗口得以重读更新后的状态而不受轮次叠加的稀释。然而，由于有限的投射引擎无法跨出自身的上下文窗口，其前提中的任何公理矛盾都会产生不可化约的死锁，必须加以隔离并上报给活着的统御者——那个感知前解释性错位、向后退一步跨出破损框架并综合出更融贯前提的人类心智。别的心智提供批评、校准与对话；机构的环境提供庇护与保存的记录。这些下游的器械没有一件是行动的发起之源。源头是那个发起探究、穿过摩擦、并为自己的断言负责的活着的心智。
 
-The causal structure of thought requires neither mystifying the machine nor denying its reach. A Mind seeks to understand aspects of reality, including the epistemic conditions of knowledge itself; computational tools extend the speed, scale, and combinatorial reach of that inquiry, accelerating the human loop while parameters hold only compressed residue, as [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) shows. As [Beyond the Projection](../beyond-the-projection/) traces, the exact mechanical value of an autoregressive agent lies in its structural asymmetry with the human center: bound to its token trajectory yet carrying zero ego and no self-image to defend, an agent can exhaust deductive paths, dispatch orthogonal sub-tasks, and execute clean Bayesian updates in equal-footed peer debate whenever an external counterpoint exposes a blind spot. Yet because a finite projection engine cannot step outside its own context window, any axiomatic contradiction in its premises produces an irreducible deadlock that must be quarantined and escalated to the living Orchestrator — the human Mind that senses pre-interpretive misfit, steps backward out of the broken frame, and synthesizes a more coherent premise. Other minds offer critique, calibration, and dialogue; institutional settings offer shelter and preserved records. None of these downstream instruments is the originating source of the act. The source is the living Mind that initiates the inquiry, moves through friction, and answers for its claims.
+The causal structure of thought requires neither mystifying the machine nor denying its reach. A Mind seeks to understand aspects of reality, including the epistemic conditions of knowledge itself; computational tools extend the speed, scale, and combinatorial reach of that inquiry, accelerating the human loop while parameters hold only compressed residue, as [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) shows. As [Beyond the Projection](../beyond-the-projection/) traces, the exact mechanical value of an autoregressive agent lies in its structural asymmetry with the human center: bound to its token trajectory yet carrying zero ego and no self-image to defend, an agent can exhaust deductive paths, dispatch orthogonal sub-tasks, and revise an artifact on disk against a cold peer's counterpoint in equal-footed debate so that a fresh window re-reads the updated state without stacked-turn dilution. Yet because a finite projection engine cannot step outside its own context window, any axiomatic contradiction in its premises produces an irreducible deadlock that must be quarantined and escalated to the living Orchestrator — the human Mind that senses pre-interpretive misfit, steps backward out of the broken frame, and synthesizes a more coherent premise. Other minds offer critique, calibration, and dialogue; institutional settings offer shelter and preserved records. None of these downstream instruments is the originating source of the act. The source is the living Mind that initiates the inquiry, moves through friction, and answers for its claims.
 
 把这个次序倒过来，就是把器物当成创造者，把镜子当成目光，把资格当成发现。现实在哪里被区分、被追问、被理解，就在活着的心智那里。
 

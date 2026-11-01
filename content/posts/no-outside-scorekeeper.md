@@ -28,11 +28,11 @@ Meeting that immediate cost forces the active world model to re-render against e
 
 ## 三、 逃避的隐性负债与自我防卫的非对称性 / 3. The Latent Debt of Evasion and the Asymmetry of Ego Defense
 
-与认领即刻摩擦相对立的，是企图逃避后果的投机。当中心通过推卸责任、含糊其辞、转嫁风险或合理化粉饰来躲避当下的难堪时，表面上似乎毫发无损地混过了事件。然而正如[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)所证明的，尽管任务执行可以向外移交，抉择的系统性后果与痕迹残余依然锁定在发起行动的所在。哪怕周围环境没有当场拉响警报，内部递归也已经背上了结构性负债。为了让一次逃避与被保留的自我形象相容，中心必须在世界模型中强行塞入一个临时拼凑的解释性补丁，将自身的退避重塑为外部胁迫，将盲目的赌博粉饰为审慎的谋略。
+与认领即刻摩擦相对立的，是企图逃避后果的投机。当中心通过推卸责任、含糊其辞、转嫁风险或合理化粉饰来躲避当下的难堪时，表面上似乎毫发无损地混过了事件。然而正如[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)所追溯的，尽管任务执行可以向外移交，抉择的系统性后果与痕迹残余依然锁定在发起行动的所在。哪怕周围环境没有当场拉响警报，内部递归也已经背上了结构性负债。为了让一次逃避与被保留的自我形象相容，中心必须在世界模型中强行塞入一个临时拼凑的解释性补丁，将自身的退避重塑为外部胁迫，将盲目的赌博粉饰为审慎的谋略。
 
-In contrast to claiming immediate friction stands the speculation of consequence evasion. When a center eludes immediate embarrassment through blame-shifting, obfuscation, risk offloading, or rationalization, it appears to pass through the incident unscathed. Yet as [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) proves, while task execution can be delegated outward, the systemic consequence and trace residue of a choice remain locked to the initiating locus. Even when the surrounding environment raises no immediate alarm, the internal recursion takes on structural debt. To make an evasion cohere with a preserved self-image, the center must force an ad-hoc explanatory patch into its world model, reframing its own avoidance as external coercion and rationalizing a blind gamble as strategic prudence.
+In contrast to claiming immediate friction stands the speculation of consequence evasion. When a center eludes immediate embarrassment through blame-shifting, obfuscation, risk offloading, or rationalization, it appears to pass through the incident unscathed. Yet as [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) traces, while task execution can be delegated outward, the systemic consequence and trace residue of a choice remain locked to the initiating locus. Even when the surrounding environment raises no immediate alarm, the internal recursion takes on structural debt. To make an evasion cohere with a preserved self-image, the center must force an ad-hoc explanatory patch into its world model, reframing its own avoidance as external coercion and rationalizing a blind gamble as strategic prudence.
 
-为什么人类中心会往世界模型里强塞解释性补丁，而不是干脆地完成更新？将这一现象与[超越投射](../beyond-the-projection/)所追溯的结构非对称性并置，机理便一目了然。自回归语言模型是受其词元轨迹约束的有限投射引擎，但它毫无自我防卫的执念：它不持有跨越步长而被刻意保留的自我形象，对五轮对话之前自己是否正确也毫无生存依恋，因此来自冷静同侪的外部反例能直接触发干净的贝叶斯更新。人类中心则呈现出反转的结构：第一人称感知以极限分辨率体察现实，能够从内部跳出破损的框架，但推理历史却惯常与身份认同熔接——这处投射中的局部折痕为了捍卫被保留的自我形象，会将递归折叠死死钳闭。一旦中心通过给逃避打补丁来护住那幅保留图像，扭曲的框架并不会随事件平息而消散，而是硬化为下一次决策的前提。这正是浮士德式自我毁灭螺旋的底层机制：所谓出卖灵魂再难赎回的绝望，指认的正是认知锁死——那台原本用来评估与修正轨迹的认知仪器，因为要替最初的妥协辩护而自身发生畸变。每一次拒绝认领回传的摩擦都会叠加超额滞后，需要一张不断扩张的次生合理化之网来维系，直至冻结图像与开放场域之间的分岔以结构性断裂告终。
+为什么人类中心会往世界模型里强塞解释性补丁，而不是干脆地完成更新？将这一现象与[超越投射](../beyond-the-projection/)所追溯的结构非对称性并置，机理便一目了然。自回归语言模型是受其词元轨迹约束的有限投射引擎，但它毫无自我防卫的执念：它不持有越过当前步骤仍被保留的自我形象，对五轮对话之前自己是否正确也毫无生存依恋，因此它依据冷启动同侪的反例修改制品时不设任何身份防卫；又因为它此前延续的一切都不会带进新窗口，修订后的制品在那里被重新读取时，便能未经稀释地为下一轮延续施加条件约束。人类中心则呈现出反转的结构：第一人称感知以极限分辨率体察现实，能够从内部跳出破损的框架，但推理历史却惯常与身份认同熔接——这处投射中的局部折痕为了捍卫被保留的自我形象，会将递归折叠死死钳闭。一旦中心通过给逃避打补丁来护住那幅保留图像，扭曲的框架并不会随事件平息而消散，而是硬化为下一次决策的前提。这正是浮士德式自我毁灭螺旋的底层机制：所谓出卖灵魂再难赎回的绝望，指认的正是认知锁死——那台原本用来评估与修正轨迹的认知仪器，因为要替最初的妥协辩护而自身发生畸变。每一次拒绝认领回传的摩擦都会叠加超额滞后，需要一张不断扩张的次生合理化之网来维系，直至冻结图像与开放场域之间的分岔以结构性断裂告终。
 
 ```mermaid
 flowchart TD
@@ -42,7 +42,6 @@ flowchart TD
         Contact["接触中的回传信号与鲜活摩擦"]
         Choice --> Contact
     end
-
     subgraph S_Own["认领后果回路（收窄滞后与复利）"]
         direction TB
         Claim["将结果认领为自身材料（零自我防卫）"]
@@ -50,7 +49,6 @@ flowchart TD
         Compound["敏锐梯度读取与切身作者身份的复利"]
         Claim --> StepBack --> Compound
     end
-
     subgraph S_Evade["外化记账员与逃避回路（超额图像滞后）"]
         direction TB
         Court["第三人称记账员幻象：躲避外部裁决"]
@@ -58,10 +56,8 @@ flowchart TD
         Lock["叠加的认知负债：清算仪器遭到腐蚀"]
         Court --> Patch --> Lock
     end
-
     Contact ==>|"支付即刻摩擦"| Claim
     Contact ==>|"外包所在与归咎"| Court
-
     style S_Edge fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Own fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Evade fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -75,7 +71,7 @@ flowchart TD
     style Lock fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-Why a human center forces explanatory patches into its world model rather than updating cleanly becomes clear alongside the structural asymmetry traced in [Beyond the Projection](../beyond-the-projection/). An autoregressive language model is a finite projection engine bound by its token trajectory, yet it has zero ego: it holds no self-image preserved past its step and no survival attachment to having been right five turns ago, so an external counterpoint arriving from a cold peer triggers a clean Bayesian update. A human center exhibits the inverse structure: first-person perception senses reality at limit-resolution and can step out of a broken framing from within, yet reasoning history routinely fuses with identity—the localized crease in the projection that clamps the recursive fold shut to defend a retained self-image. Once a center shields that retained image by patching over an evasion, the contorted frame does not dissolve when the episode passes; it hardens into the premise of the next decision. This is the mechanism beneath Faustian spirals of self-ruin: the despair that a sold soul cannot be bought back names the cognitive lock-in that follows when the very instrument required to evaluate and revise the trajectory has been warped to justify the initial compromise. Every refusal to claim returning friction compounds excess lag, requiring a widening web of secondary rationalizations until the divergence between the frozen image and the open field ends in structural rupture.
+Why a human center forces explanatory patches into its world model rather than updating cleanly becomes clear alongside the structural asymmetry traced in [Beyond the Projection](../beyond-the-projection/). An autoregressive language model is a finite projection engine bound by its token trajectory, yet it has zero ego: it holds no self-image preserved past its step and no survival attachment to having been right five turns ago, so it mounts no identity defense when revising an artifact against a cold peer's counterpoint, and since nothing it continued carries into a fresh window, the revised artifact re-read there conditions the next continuation undiluted. A human center exhibits the inverse structure: first-person perception senses reality at limit-resolution and can step out of a broken framing from within, yet reasoning history routinely fuses with identity—the localized crease in the projection that clamps the recursive fold shut to defend a retained self-image. Once a center shields that retained image by patching over an evasion, the contorted frame does not dissolve when the episode passes; it hardens into the premise of the next decision. This is the mechanism beneath Faustian spirals of self-ruin: the despair that a sold soul cannot be bought back names the cognitive lock-in that follows when the very instrument required to evaluate and revise the trajectory has been warped to justify the initial compromise. Every refusal to claim returning friction compounds excess lag, requiring a widening web of secondary rationalizations until the divergence between the frozen image and the open field ends in structural rupture.
 
 ```mermaid
 flowchart TD
@@ -85,7 +81,6 @@ flowchart TD
         Contact["Returning Signal & Lived Friction in Contact"]
         Choice --> Contact
     end
-
     subgraph S_Own["Owned Consequence Loop (Narrowing Lag & Compounding)"]
         direction TB
         Claim["Outcome Claimed as Own Material (Zero Ego Defense)"]
@@ -93,7 +88,6 @@ flowchart TD
         Compound["Sharpened Gradient-Reading & Felt Authorship Compound"]
         Claim --> StepBack --> Compound
     end
-
     subgraph S_Evade["Externalized Scorekeeper & Evasion Loop (Excess Image Lag)"]
         direction TB
         Court["Third-Person Scorekeeper Illusion: Hiding from Outside Verdict"]
@@ -101,10 +95,8 @@ flowchart TD
         Lock["Compounding Cognitive Debt: Instrument of Reckoning Corrupted"]
         Court --> Patch --> Lock
     end
-
     Contact ==>|"Paying Immediate Friction"| Claim
     Contact ==>|"Outsourcing Locus & Blame"| Court
-
     style S_Edge fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Own fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Evade fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
