@@ -650,9 +650,9 @@ Churchland's eliminative materialism holds folk psychology to be an imperfect th
 ### 彼得·蒂尔 / Peter Thiel
 `经济 / Economic`
 
-蒂尔将逆向思考与从零到一定义为独立思考而非反对众人，并将技术停滞与制度衰败置于救赎与敌基督的二元张力之中，在提醒创作者脱离群体反抗坐标、识别制度性安全锁死时有用；它在此到了边界：善与恶是在同一道边界切分中同时生成的两面而非外部独立的对立阵营，而当那句关于独立思考的箴言脱离了推演的前提链条被孤立转发时，它便只剩下一层供不同高维模型投射稀疏交集的低维表面，传递不了任何特定心智的推理结构。
+蒂尔将逆向思考与从零到一定义为独立思考而非反对众人，并将技术停滞与制度衰败置于救赎与敌基督的二元张力之中，在提醒创作者脱离群体反抗坐标、识别制度性安全锁死时有用；它在此到了边界：善与恶是在同一道边界切分中同时生成的两面而非外部独立的对立阵营，而当那句关于独立思考的箴言脱离了推演的前提链条被孤立转发时，其印迹只留下一层单薄的低维表面，供各个私人模型在上面登记稀疏重叠，源起的切分链条则丝毫不留。
 
-Thiel defines contrarianism and zero-to-one creation as thinking for oneself rather than opposing the crowd and frames technological stagnation against institutional safety through a redemptive-versus-Antichrist binary, which is of use in warning creators off the crowd's oppositional axis and diagnosing institutional lock-in; it reaches its boundary in that good and evil are two faces generated simultaneously by the same boundary cut rather than external rival camps, and when the aphorism on independent thought circulates detached from its chain of premises, it operates only as a thin low-dimensional surface registering sparse overlap across private models while transmitting zero particular structure.
+Thiel defines contrarianism and zero-to-one creation as thinking for oneself rather than opposing the crowd and frames technological stagnation against institutional safety through a redemptive-versus-Antichrist binary, which is of use in warning creators off the crowd's oppositional axis and diagnosing institutional lock-in; it reaches its boundary in that good and evil are two faces generated simultaneously by the same boundary cut rather than external rival camps, and when the aphorism on independent thought circulates detached from its chain of premises, its marks keep only a thin low-dimensional surface on which private models register sparse overlap while retaining none of the originating chain of cuts.
 
 → [善恶硬币与通往地狱的善意之路 / The Coin of Good and Evil and the Road to Hell](../../posts/the-coin-of-good-and-evil-and-the-road-to-hell/) · [登记共鸣的表面 / The Surface That Registers](../../posts/the-surface-that-registers/)
 
@@ -4936,9 +4936,9 @@ Therapeutic culture presumes unconditional validation heals distress; softening 
 ### 第三人称知性观瞻的因果倒置 / Third-Person Intellectual Voyeurism
 `哲学 / Philosophical`
 
-把观察当作目的，向外张望以搜寻印证自己的影子，把别人的关注当作决策指标，把知识的变现放在升级之前，在描述注意力的流向时有用；它在此到了边界：观察是校准第一人称决策的参考，用来扩展世界而不是争一个座位，价值的扩散是认知结构升级自然溢出的副产品。
+把观察当作目的，向外张望以搜寻印证自己的影子，把别人的关注当作决策指标，把知识的变现放在升级之前，在描述注意力的流向时有用；它在此到了边界：观察是校准第一人称决策的参考，用来扩展世界而不是争一个座位；其他中心经由各自的回路，接纳认知结构升级者在共享场域留下的东西，价值的扩散是这种接纳的副产品。
 
-Taking observation as the end, looking outward to search for shadows that confirm oneself, using others' attention as a decision metric and putting the monetising of knowledge before its upgrading is of use in describing where attention flows; it reaches its boundary in that observation is a reference for calibrating first-person decisions, used to widen the world rather than win a seat, and the diffusion of value is a by-product that spills naturally from the upgrading of cognitive structure.
+Taking observation as the end, looking outward to search for shadows that confirm oneself, using others' attention as a decision metric and putting the monetising of knowledge before its upgrading is of use in describing where attention flows; it reaches its boundary in that observation is a reference for calibrating first-person decisions, used to widen the world rather than win a seat, and the diffusion of value is a by-product of other centres taking up, through their own loops, what a person with an upgraded cognitive structure leaves in the shared field.
 
 → [选择看见而非搜寻影子 / Choosing to See Rather Than Searching for Shadows](../../posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi/)
 

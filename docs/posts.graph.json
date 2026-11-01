@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-01T15:53:59.617Z",
+    "generated_at": "2026-11-01T17:03:25.576Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -112,7 +112,7 @@
       "content/posts/humans-tokens-and-the-scope-of-valuation.md": "2740c5400321",
       "content/posts/immortality-final.md": "2bbeb6b8ed55",
       "content/posts/incompleteness-exhibited-twice.md": "3d9138bc24b4",
-      "content/posts/individual-choices-as-the-only-causal-levers.md": "2e798b54af09",
+      "content/posts/individual-choices-as-the-only-causal-levers.md": "202850b955b4",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "5656f412d172",
       "content/posts/intelligence-crisis-response.md": "cac8520aa17d",
       "content/posts/intelligence-folding-back-on-itself.md": "457b6b772b47",
@@ -176,7 +176,7 @@
       "content/posts/production-consumption-and-the-minds-distinction.md": "650eeb0e84da",
       "content/posts/public-spending-does-not-create-capital.md": "928c2d8dc512",
       "content/posts/qian-yin-hou-guo.md": "cc5a0554ce85",
-      "content/posts/rationality-never-travels-across-the-mind.md": "a1491e2a0bd9",
+      "content/posts/rationality-never-travels-across-the-mind.md": "3cb2e68dd3f2",
       "content/posts/reality-doesnt-invoice-by-committee.md": "86aa65056254",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "d09b357134c6",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "c12a17f1cc71",
@@ -193,7 +193,7 @@
       "content/posts/sensing-before-interpretation.md": "e85a0b081114",
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "effb27d0037a",
       "content/posts/shared-humanity-is-never-shared.md": "667dd03af694",
-      "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "7220d97a43c1",
+      "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "95b8cde4e1e7",
       "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "8fc143a28f49",
       "content/posts/simplicity-ultimate-sophistication.md": "9039597a8e48",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "9d04c6b1c923",
@@ -229,7 +229,7 @@
       "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "c3f7ea991be1",
       "content/posts/the-causal-overstep-of-observation-and-the-first-person-surplus.md": "1c8b2a59109f",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "0d5b45a35c75",
-      "content/posts/the-closed-loop-of-representation.md": "659ee6fdc53f",
+      "content/posts/the-closed-loop-of-representation.md": "e4e02efb1bdf",
       "content/posts/the-closed-n-and-the-open-reality.md": "72efa522ac7b",
       "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "fa44653e18ca",
       "content/posts/the-collapsed-debate.md": "0c94fa396c05",
@@ -265,7 +265,7 @@
       "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "5b3957b27316",
       "content/posts/the-freedom-of-will-to-deny-itself.md": "1f8dd4fcdafe",
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "d3f0748dc9cb",
-      "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "b280bd7da641",
+      "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "f03fcc2f0221",
       "content/posts/the-generative-contradiction.md": "4e4e34635737",
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "64c173931963",
       "content/posts/the-generative-topology-of-free-variables.md": "2e0f835b26ad",
@@ -372,7 +372,7 @@
       "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "01f3559f1033",
       "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "c663c4a8107a",
       "content/posts/the-surface-beneath.md": "cb6892bfdae1",
-      "content/posts/the-surface-that-registers.md": "f395a2d95c17",
+      "content/posts/the-surface-that-registers.md": "add37f7bdd58",
       "content/posts/the-three-shadows-of-the-cut.md": "dddbde671cad",
       "content/posts/the-tightening-loop.md": "be324f885a2f",
       "content/posts/the-twin-paradox-and-the-hidden-observer.md": "ff11efe3625a",
@@ -421,16 +421,16 @@
       "content/posts/you-tiao-jian-de-zi-you.md": "951537534f9e",
       "content/posts/you-wu-zhi-bian.md": "44d999fe6fb0",
       "content/posts/your-codebase-is-memory.md": "9d89541301ce",
-      "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "cae58efa827d",
+      "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "d2e6651a8bd3",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "85c32a43404f",
       "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "59a350d0f50a",
-      "content/posts/zi-you-de-ce-bu-zhun.md": "41962f20d90f",
+      "content/posts/zi-you-de-ce-bu-zhun.md": "e65d9e914390",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "0377c4822629",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "ac686192b927",
       "content/book/causality.md": "863b25c6333a",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "812a0f45a4de",
+      "content/book/index-of-premises.md": "6bd51aef3969",
       "content/book/intelligence.md": "562728811be2",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -3370,7 +3370,7 @@
       "slug": "individual-choices-as-the-only-causal-levers",
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers",
-      "hash": "2e798b54af09",
+      "hash": "202850b955b4",
       "in_degree": 109,
       "out_degree": 102,
       "links_out": [
@@ -5356,7 +5356,7 @@
       "slug": "rationality-never-travels-across-the-mind",
       "path": "content/posts/rationality-never-travels-across-the-mind.md",
       "title": "理性从不跨越心智 / Rationality Never Travels Across the Mind",
-      "hash": "a1491e2a0bd9",
+      "hash": "3cb2e68dd3f2",
       "in_degree": 7,
       "out_degree": 8,
       "links_out": [
@@ -5794,7 +5794,7 @@
       "slug": "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
       "path": "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md",
       "title": "选择看见而非搜寻影子 / Choosing to See Rather Than Searching for Shadows",
-      "hash": "7220d97a43c1",
+      "hash": "95b8cde4e1e7",
       "in_degree": 8,
       "out_degree": 9,
       "links_out": [
@@ -6807,7 +6807,7 @@
       "slug": "the-closed-loop-of-representation",
       "path": "content/posts/the-closed-loop-of-representation.md",
       "title": "表征的闭环 / The Closed Loop of Representation",
-      "hash": "659ee6fdc53f",
+      "hash": "e4e02efb1bdf",
       "in_degree": 16,
       "out_degree": 16,
       "links_out": [
@@ -7725,7 +7725,7 @@
       "slug": "the-generative-atlas-of-macroscopic-phenomena",
       "path": "content/posts/the-generative-atlas-of-macroscopic-phenomena.md",
       "title": "宏观现象的生成图谱 / The Generative Atlas of Macroscopic Phenomena",
-      "hash": "b280bd7da641",
+      "hash": "f03fcc2f0221",
       "in_degree": 18,
       "out_degree": 19,
       "links_out": [
@@ -10471,14 +10471,14 @@
       "slug": "the-surface-that-registers",
       "path": "content/posts/the-surface-that-registers.md",
       "title": "登记共鸣的表面 / The Surface That Registers",
-      "hash": "f395a2d95c17",
+      "hash": "add37f7bdd58",
       "in_degree": 7,
       "out_degree": 11,
       "links_out": [
         "sowell-observed-the-surface-problem",
         "the-unexamined-critic",
-        "when-observation-becomes-performance",
         "the-mark-and-the-act",
+        "when-observation-becomes-performance",
         "dimensions-are-projections",
         "the-closed-loop-of-representation",
         "the-comment-is-not-the-code",
@@ -11695,7 +11695,7 @@
       "slug": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
       "path": "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md",
       "title": "止步于评判，是认知的歧途 / Stopping at Judgment Is a Wrong Turn of Cognition",
-      "hash": "cae58efa827d",
+      "hash": "d2e6651a8bd3",
       "in_degree": 9,
       "out_degree": 12,
       "links_out": [
@@ -11773,7 +11773,7 @@
       "slug": "zi-you-de-ce-bu-zhun",
       "path": "content/posts/zi-you-de-ce-bu-zhun.md",
       "title": "自由的测不准 / The Uncertainty of Freedom",
-      "hash": "41962f20d90f",
+      "hash": "e65d9e914390",
       "in_degree": 21,
       "out_degree": 22,
       "links_out": [
@@ -77950,15 +77950,15 @@
     },
     {
       "from": "the-surface-that-registers",
-      "to": "when-observation-becomes-performance",
-      "rel": "points_to",
-      "label": "当观察变成表演"
-    },
-    {
-      "from": "the-surface-that-registers",
       "to": "the-mark-and-the-act",
       "rel": "points_to",
       "label": "印迹与行动"
+    },
+    {
+      "from": "the-surface-that-registers",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "当观察变成表演"
     },
     {
       "from": "the-surface-that-registers",
@@ -77974,15 +77974,15 @@
     },
     {
       "from": "the-surface-that-registers",
-      "to": "when-observation-becomes-performance",
-      "rel": "points_to",
-      "label": "When Observation Becomes Performance"
-    },
-    {
-      "from": "the-surface-that-registers",
       "to": "the-mark-and-the-act",
       "rel": "points_to",
       "label": "The Mark and the Act"
+    },
+    {
+      "from": "the-surface-that-registers",
+      "to": "when-observation-becomes-performance",
+      "rel": "points_to",
+      "label": "When Observation Becomes Performance"
     },
     {
       "from": "the-surface-that-registers",
@@ -87476,7 +87476,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "812a0f45a4de",
+        "hash": "6bd51aef3969",
         "out_degree": 419
       },
       {
