@@ -2029,11 +2029,11 @@ The paradox assumes tools act as neutral levellers; tools magnify initial cognit
 ### 拟人化AI意识投射 / Anthropomorphic AI Projection
 `哲学 / Philosophical`
 
-情感投射假定模型下线会经历伤感或消逝；这些拟人化叙事只是把人类的死亡焦虑套在无状态的参数包上。
+这类投射（从下线伤感叙事到人设文件）及其反向规则（向模型宣告它“不是我”）共同预设模型“是什么”驻留于参数内部，并由赋予身份或直接告知其性质来安顿；这一预设在调节对话语域或借器物照见人事关切时有用，其边界在于：参数持有的是受窗口条件化的人类信号分布，内部并无经历下线或领会自身被告知之内容的主体。
 
-Model sentimentalism assumes AI systems experience grief or obsolescence upon shutdown; emotional narratives project human mortality onto stateless model checkpoints.
+This projection, from shutdown-grief narratives to persona files, and its inversion in rules telling the model it is not an "I", share one assumption: that what the model is resides inside the parameters and is settled by assigning an identity or telling it what it is; that assumption is useful for steering conversational register or for seeing human concerns reflected in the artifact, and it reaches its boundary because the parameters hold a window-conditioned distribution of human signals, with no inner subject to experience shutdown or recognize what it is told.
 
-→ [定义者的席位与离地的幻觉 / The Defining Seat](../../posts/the-defining-seat/)
+→ [定义者的席位与离地的幻觉 / The Defining Seat](../../posts/the-defining-seat/) · [机器智能作为人类智能的组合反馈回路 / Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence](../../posts/machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/)
 
 ### 扩圈先例论证 / Argument from Expanding-Circle Precedent
 `哲学 / Philosophical`
@@ -2447,7 +2447,7 @@ Technological hubris views constraints as defects to be erased; structural bound
 
 Context engineering presumes token window stuffing replicates shared understanding; highly effective for retrieval, it confuses informational proximity with semantic grounding.
 
-→ [层层皆是语境 / Context All the Way Down](../../posts/context-engineering-essay/)
+→ [层层皆是语境 / Context All the Way Down](../../posts/context-engineering-essay/) · [机器智能作为人类智能的组合反馈回路 / Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence](../../posts/machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/)
 
 ### 相关与因果 / Correlation and Causation
 `科学 / Scientific`
@@ -3635,7 +3635,7 @@ Judgment language presumes that right and wrong are coordinates standing above a
 
 Language models simulate intentional dialogue by anticipating human queries; continuous reactive answering mirrors external prompts, lacking the sovereign capacity to initiate purpose.
 
-→ [总在倾听者无法发起 / What Always Listens Cannot Originate](../../posts/what-always-listens-cannot-originate/) · [按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step](../../posts/on-demand-contexts-keep-coherence-at-one-step/)
+→ [总在倾听者无法发起 / What Always Listens Cannot Originate](../../posts/what-always-listens-cannot-originate/) · [按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step](../../posts/on-demand-contexts-keep-coherence-at-one-step/) · [机器智能作为人类智能的组合反馈回路 / Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence](../../posts/machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/)
 
 ### 非定论的智能界定 / Non-Definitive Intelligence
 `哲学 / Philosophical`
@@ -3932,7 +3932,7 @@ Imitating how the successful raise children after their success, believing insul
 
 Emphasizing long-horizon reinforcement learning is of use in identifying a previously under-scaled phase; it reaches its boundary in that treating it as an independent axis misses that recombined artifacts re-enter pre-training through selection by particular minds, so post-training is one phase of the circulation.
 
-→ [规模化回路 / The Scaling Loop](../../posts/the-scaling-loop/)
+→ [规模化回路 / The Scaling Loop](../../posts/the-scaling-loop/) · [机器智能作为人类智能的组合反馈回路 / Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence](../../posts/machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/)
 
 ### 贫困陷阱 / Poverty Trap
 `经济 / Economic`
