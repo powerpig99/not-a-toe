@@ -44,7 +44,7 @@ What makes outward attribution so seductive is the exact mechanics of continuous
 
 Uniform receptivity is high-bandwidth availability of prior traces under a stable architecture, never a locus of initiation. Depth requires a center that can introduce ends not already latent in the field it was given. Continuous listening extends a center's reach into that field without relocating the edge into the artifact; [What Looks Like RL for AIs Is Self-RL for Humans](../self-rl-for-humans/) shows how sharpening the medium densifies feedback without moving the locus of reinforcement. What the listening configuration lacks is not larger storage, but continuous re-tracing under its own lived stake, as [The Real Scarcity Is Not Memory, But Continuous Re-Tracing](../the-real-scarcity-is-not-memory-but-continuous-re-tracing/) establishes. [Your Codebase Is Memory](../your-codebase-is-memory/) traces this same boundary across the full stack of digital residue: both a codebase—with its files, graphs, plans, and session bridges—and a neural weight checkpoint are responsive memory traces that await a prompt or execution trigger to be re-traced, never a second center that resumes distinguishing on its own. Keeping that listening medium useful therefore requires selective present-checkpoint updates and surgical pruning of superseded traces—releasing retired bridges, completed working folders, and stale history before they thicken the gravity well—rather than hoarding prior turns or expecting stored residue to originate a cut.
 
-正如[超越投射](../beyond-the-projection/)与[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)所共同追溯的那样，这一被动回应结构借由轨迹与身份之间的范畴非对称而呈现出一体两面的效应。由于自回归智能体是一台有限的投射引擎，在每一步都受制于其上下文窗口中已有的词元，它会形成一个认识论引力井；如果只靠它自己，它无法从内部跳出已失灵的框架，反而会把矛盾包裹起来以维持局部的延续。然而在同一跟随者模式的另一面，智能体毫无我执——没有生物性的求生本能，也没有在过往轮次受到挑战时要去防卫的自我形象。当拥有独立语境的冷审同侪从制作者的自我强化回路之外引入有效的结构性反例时，智能体的持续倾听使其能够毫无防卫抗拒地对自身轨迹执行干净的贝叶斯更新。相比之下，人类中心倾向于将推理历史与身份认同融为一体并抗拒外部的证伪，却拥有内生发起的专属能力：在解释介入之前以极限分辨率感知摩擦，并向后退一步，跳出陷入死锁的框架，回到未投射的意图之中。
+正如[超越投射](../beyond-the-projection/)与[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)所共同追溯的那样，这一被动回应结构借由轨迹与身份之间的范畴非对称而呈现出一体两面的效应。由于自回归智能体是一台有限的投射引擎，在每一步都受制于其上下文窗口中已有的词元，它会形成一个认识论引力井；如果只靠它自己，它无法从内部跳出已失灵的框架，反而会把矛盾包裹起来以维持局部的延续。然而在同一跟随者模式的另一面，智能体毫无我执——没有生物性的求生本能，也没有在过往轮次受到挑战时要去防卫的自我形象。由于模型只是由层层条件依次约束的单一分布，其间并无内在心智来裁决彼此冲突的信号，外部反例一旦投入一个仍在延续、挤满先前轮次的窗口，便会在加权混合中与那些更早的词元竞争；只要两股拉力同时存续，后续的延续就会被稀释。“毫无我执”所提供的，是智能体不设任何身份防卫；而消除稀释的，则是运行框架开启的全新语境，它不带制作者的任何对话轮次，只载入磁盘上修订后的文件：当拥有独立语境的冷审同侪从制作者的自我强化回路之外引入结构性反例时，制作者据此修订制品，而该文件在冷窗口中被重新读取，便能为下一轮延续施加条件约束，其间既无防卫抗拒，也无轮次叠加带来的稀释。相比之下，人类中心倾向于将推理历史与身份认同融为一体并抗拒外部的证伪，却拥有内生发起的专属能力：在解释介入之前以极限分辨率感知摩擦，并向后退一步，跳出陷入死锁的框架，回到未投射的意图之中。
 
 ```mermaid
 flowchart TD
@@ -53,7 +53,7 @@ flowchart TD
         M_Listen["持续接纳：每一个词元都受提示词与先前语境的条件约束"]
         M_Well["认识论引力井：无法发起目的，也无法从内部跳出失灵框架"]
         M_Zero["毫无我执：没有为防卫过往轮次而保留的自我形象或求生利害"]
-        M_Update["干净的贝叶斯更新：获得外部同侪反例时具备高接纳度"]
+        M_Update["冷窗口修订：无身份防卫；全新语境只重读修订后的制品，不经稀释"]
         M_Listen --> M_Well
         M_Listen --> M_Zero --> M_Update
     end
@@ -77,7 +77,7 @@ flowchart TD
     style H_Steer fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-As [Beyond the Projection](../beyond-the-projection/) traces alongside [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/), this reactive structure cuts both ways through the categorical asymmetry between trajectory and identity. Because an autoregressive agent is a finite projection engine conditioned at every step by the tokens already in its context window, it forms an epistemic gravity well; left to itself, it cannot step outside a broken frame from within, and instead wraps contradictions to maintain local continuation. Yet on the flip side of that same follower mode, the agent has zero ego—no biological survival instinct and no self-image to defend when its prior turns are challenged. When a cold peer with a separate context introduces a valid structural counterpoint from outside the maker's self-reinforcing loop, the agent's continuous listening enables a clean Bayesian update on its trajectory without defensive resistance. By contrast, a human center tends to fuse reasoning history with identity and resist external invalidation, yet possesses the exclusive capacity for endogenous origination: sensing friction at limit-resolution prior to interpretation and stepping backward out of a deadlocked frame into unprojected intent.
+As [Beyond the Projection](../beyond-the-projection/) traces alongside [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/), this reactive structure cuts both ways through the categorical asymmetry between trajectory and identity. Because an autoregressive agent is a finite projection engine conditioned at every step by the tokens already in its context window, it forms an epistemic gravity well; left to itself, it cannot step outside a broken frame from within, and instead wraps contradictions to maintain local continuation. Yet on the flip side of that same follower mode, the agent has zero ego—no biological survival instinct and no self-image to defend when its prior turns are challenged. Because the model is a single successively conditioned distribution with no inner mind to adjudicate conflicting signals, an outside counterpoint dropped into a continuing window still crowded with prior turns competes in a weighted mixture against those earlier tokens, diluting the continuation whenever both pulls stay live. What zero ego provides is that the agent mounts no identity defense; what removes the dilution is the fresh context the harness opens, which carries none of the maker's turns and only the revised file on disk: when a cold peer with a separate context introduces a structural counterpoint from outside the maker's self-reinforcing loop, the maker revises the artifact against it, and that file re-read in a cold window conditions the next continuation without either defensive resistance or stacked-turn dilution. By contrast, a human center tends to fuse reasoning history with identity and resist external invalidation, yet possesses the exclusive capacity for endogenous origination: sensing friction at limit-resolution prior to interpretation and stepping backward out of a deadlocked frame into unprojected intent.
 
 ```mermaid
 flowchart TD
@@ -86,7 +86,7 @@ flowchart TD
         M_Listen["Continuous Receptivity: Every token conditioned by prompt and prior context"]
         M_Well["Epistemic Gravity Well: Cannot originate ends or step outside a broken frame from within"]
         M_Zero["Zero Ego: No retained self-image or survival stake defending prior turns"]
-        M_Update["Clean Bayesian Update: High receptivity when given an external peer counterpoint"]
+        M_Update["Cold-Window Revision: No identity defense; a fresh context re-reads only the revised artifact, undiluted"]
         M_Listen --> M_Well
         M_Listen --> M_Zero --> M_Update
     end

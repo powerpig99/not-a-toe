@@ -60,7 +60,7 @@ The identical generative navigation yields both useful creativity and hallucinat
 
 Large language models, as externalized trace artifacts, lack by default the continuous reality-testing recursion that living centers maintain. Retrieval, tools, consistency checks, and human oversight bring further traces into contact, and the centers that read them restore external resonance and narrow excess Image lag—the reference preserved past its step, scoring the present against a stale hold. A check, up to a proof a kernel accepts, confirms that each step follows from the prior ones under the rules and models it assumes; that is internal consistency inside the hold, and [The Reversal of Verification](../the-reversal-of-verification/) separates it from coherence, internal consistency held open to what keeps distinguishing past the hold. The distinction between creativity and error is therefore neither a difference in internal architecture nor something a passing check settles; it is whether the generated traces continue to resonate under further contact with unceasing activity. Verification and selection are acts of the centers that must act next, which is where [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) places them. Read as a trace, a check's output frees attention for that contact; held as the ground of trust, it reverses the order in which trust follows verification, and excess lag widens by construction.
 
-[超越投射](../beyond-the-projection/)将这一确切的压缩几何接入了智能体系统设计。由于每一条明文提示词、规则集合或上下文窗口都是开放场域的一份有损且受容量约束的投影，沿着自身词元轨迹运行的单个任务智能体不可避免地会筑起一座认识论引力井：它会把焦点收窄进轨迹盲区，或在两个正交要求被挤压到同一条轴线的边界情形下撞上维度坍缩，替自己先前的词元强行圆场以维持表面的合理性。与其要求一台孤立的投射引擎在自身受条件约束的语境内部做自我反思——或者把统御全局的权限让渡给另一个依然切断了未投射鲜活意图的有限投射管理智能体——智能体调度器会将超载的投影拆分到正交的并行流线上，并为每个任务智能体配对一个仅持有任务语境的冷启动对等体。由于智能体毫无我执，也没有需要防卫的保留自我图像，局部的轨迹盲区会通过地位对等的贝叶斯更新自动收敛；而任何不可化约的前提死锁则被隔离并向上呈报给人类统御者，唯有后者持有极限分辨率的第一人称感知，能够向后退一步，拆开坍缩的轴线，并注入更高阶的前提。
+[超越投射](../beyond-the-projection/)将这一确切的压缩几何接入了智能体系统设计。由于每一条明文提示词、规则集合或上下文窗口都是开放场域的一份有损且受容量约束的投影，沿着自身词元轨迹运行的单个任务智能体不可避免地会筑起一座认识论引力井：它会把焦点收窄进轨迹盲区，或在两个正交要求被挤压到同一条轴线的边界情形下撞上维度坍缩，替自己先前的词元强行圆场以维持表面的合理性。与其要求一台孤立的投射引擎在自身受条件约束的语境内部做自我反思——或者把统御全局的权限让渡给另一个依然切断了未投射鲜活意图的有限投射管理智能体——智能体调度器会将超载的投影拆分到正交的并行流线上，并为每个任务智能体配对一个仅持有任务语境的冷启动对等体。由于智能体毫无我执，也没有需要防卫的保留自我图像，任务智能体会针对冷启动对等体的反例修改磁盘上的制品而不设身份防卫，更新后的文件再在没有任何先前工作轨迹参与加权混合竞争的全新语境中接受校验，从而让局部的轨迹盲区收敛，不被轮次叠加所稀释；而任何不可化约的前提死锁则被隔离并向上呈报给人类统御者，唯有后者持有极限分辨率的第一人称感知，能够向后退一步，拆开坍缩的轴线，并注入更高阶的前提。
 
 ```mermaid
 flowchart TD
@@ -79,14 +79,14 @@ flowchart TD
     subgraph S_Test["正交有丝分裂与现实检验回路"]
         direction TB
         Peer["冷启动对等审计：仅持任务语境而无会话历史偏见"]
-        Conv["无我执贝叶斯更新：局部盲区自动收敛"]
+        Conv["无我执冷窗口修订：局部盲区未经稀释地收敛"]
         Esc["隔离与向上呈报：前提死锁浮现坍缩的轴线"]
         Peer --> Conv
         Peer --> Esc
     end
     Proj --> Cand
     Cand -->|"跨流线有丝分裂"| Peer
-    Conv -->|"经验证的共振"| Edge
+    Conv -->|"经校验的修订交由前沿检验"| Edge
     Esc ==>|"人类后退一步重新渲染前提"| Edge
     style S_Field fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Gen fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
@@ -100,7 +100,7 @@ flowchart TD
     style Esc fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-[Beyond the Projection](../beyond-the-projection/) wires this exact compression geometry into agentic system design. Because every explicit prompt, rule set, or context window is a lossy, capacity-bound projection of an open field, a single task agent running along its own token trajectory inevitably builds an epistemic gravity well: it narrows focus into trajectory blind spots or hits dimensional collapse at edge cases where two orthogonal requirements were pressed onto one axis, rationalizing its prior tokens to preserve surface plausibility. Rather than asking a lone projection engine to reflect inside its own conditioned context—or abdicating overarching orchestration to a manager agent that remains another finite projection cut off from unprojected living intent—an agentic dispatcher splits overloaded projections across orthogonal streamlines and pairs each task agent with a fresh cold peer holding only the task context. Because agents have zero ego and no retained self-image to defend, local trajectory blind spots converge automatically through equal-footed Bayesian updating, while any irreducible premise deadlock is quarantined and escalated to the human orchestrator, who alone holds limit-resolution first-person sensing to step backward, separate the collapsed axes, and inject a higher-order premise.
+[Beyond the Projection](../beyond-the-projection/) wires this exact compression geometry into agentic system design. Because every explicit prompt, rule set, or context window is a lossy, capacity-bound projection of an open field, a single task agent running along its own token trajectory inevitably builds an epistemic gravity well: it narrows focus into trajectory blind spots or hits dimensional collapse at edge cases where two orthogonal requirements were pressed onto one axis, rationalizing its prior tokens to preserve surface plausibility. Rather than asking a lone projection engine to reflect inside its own conditioned context—or abdicating overarching orchestration to a manager agent that remains another finite projection cut off from unprojected living intent—an agentic dispatcher splits overloaded projections across orthogonal streamlines and pairs each task agent with a fresh cold peer holding only the task context. Because agents have zero ego and no retained self-image to defend, the task agent revises the artifact on disk against the cold peer's counterpoint without identity defense and the updated file is checked in a fresh context where no prior working trajectory competes in a weighted mixture, allowing local trajectory blind spots to converge without stacked-turn dilution, while any irreducible premise deadlock is quarantined and escalated to the human orchestrator, who alone holds limit-resolution first-person sensing to step backward, separate the collapsed axes, and inject a higher-order premise.
 
 ```mermaid
 flowchart TD
@@ -119,14 +119,14 @@ flowchart TD
     subgraph S_Test["Orthogonal Mitosis & Reality-Testing Loop"]
         direction TB
         Peer["Cold Peer Audit: Holds task context without session-history bias"]
-        Conv["Zero-Ego Bayesian Update: Local blind spots converge automatically"]
+        Conv["Zero-Ego Cold-Window Revision: Local blind spots converge undiluted"]
         Esc["Quarantine & Escalation: Premise deadlock surfaces collapsed axes"]
         Peer --> Conv
         Peer --> Esc
     end
     Proj --> Cand
     Cand -->|"Mitosis across streamlines"| Peer
-    Conv -->|"Verified resonance"| Edge
+    Conv -->|"Checked revision for the edge to test"| Edge
     Esc ==>|"Human steps back to re-render premise"| Edge
     style S_Field fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Gen fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
