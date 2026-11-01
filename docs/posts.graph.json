@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-01T17:03:25.576Z",
+    "generated_at": "2026-11-01T17:34:47.623Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -65,7 +65,7 @@
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "6ef0fd1e62bc",
       "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "434ad917ad64",
       "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "b2e4aff56800",
-      "content/posts/dimensions-are-projections.md": "a2cfb53dce83",
+      "content/posts/dimensions-are-projections.md": "26191f359b0c",
       "content/posts/distillation-compression-agency.md": "a69508711063",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "b64fa4420bd4",
       "content/posts/dynamic-resnet-of-skill-loops.md": "393401cefcd6",
@@ -91,7 +91,7 @@
       "content/posts/four-night-questions.md": "6a45de787c56",
       "content/posts/freedom-as-ground.md": "f60f8121fb0f",
       "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "234ce1feb90a",
-      "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "37d5658b264e",
+      "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "71d168750075",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "ba0a285ae5ef",
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "b3f92aa94886",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "e21403fb50ae",
@@ -149,7 +149,7 @@
       "content/posts/observation-distinguishing-activity-and-the-open-ground-of-mind.md": "a110c8372700",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "8699e204b57f",
       "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "3f88d4502998",
-      "content/posts/on-education.md": "e2d0a3baebcd",
+      "content/posts/on-education.md": "2506ab652440",
       "content/posts/on-the-boundaries-of-what-can-be-said-about-p-and-np.md": "20b6babdc81e",
       "content/posts/one-cannot-escape-ones-own-mind.md": "474dad0e12f2",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "b68e2cc6fd51",
@@ -198,7 +198,7 @@
       "content/posts/simplicity-ultimate-sophistication.md": "9039597a8e48",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "9d04c6b1c923",
       "content/posts/sovereignty-essay.md": "94143b619076",
-      "content/posts/sowell-observed-the-surface-problem.md": "df9de9b7c1a0",
+      "content/posts/sowell-observed-the-surface-problem.md": "2e05a3324cf6",
       "content/posts/stability-and-excess.md": "25b813029b34",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "4df60d078da6",
       "content/posts/subtracting-consciousness-at-the-source.md": "4a8be345f142",
@@ -302,7 +302,7 @@
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "e2c53537d905",
       "content/posts/the-ledger-of-the-unencountered.md": "ffcdbfc26a69",
       "content/posts/the-limitation-is-doing-work.md": "30854398325d",
-      "content/posts/the-living-context.md": "1efc6b0154c4",
+      "content/posts/the-living-context.md": "964888d30fb4",
       "content/posts/the-local-trap-of-technological-change.md": "90573245bd77",
       "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "a085e1bdb7a4",
       "content/posts/the-loop-accelerates.md": "60608a02a0ed",
@@ -346,7 +346,7 @@
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "e25d00e96b60",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "3f4e0e3db4b8",
       "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "ad7483982bf1",
-      "content/posts/the-reflexive-dilemma-of-unique-insight.md": "715a152c2c2f",
+      "content/posts/the-reflexive-dilemma-of-unique-insight.md": "d836ec0d3431",
       "content/posts/the-residue-and-the-free-variable.md": "e8df77a99aeb",
       "content/posts/the-returning-signal-and-its-claim.md": "68c0f7fb6b98",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "eac491539bc9",
@@ -378,7 +378,7 @@
       "content/posts/the-twin-paradox-and-the-hidden-observer.md": "ff11efe3625a",
       "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "19431edf6cb8",
       "content/posts/the-unclosable-trace.md": "f4ad7fa5724b",
-      "content/posts/the-unexamined-critic.md": "a1e150cb8eae",
+      "content/posts/the-unexamined-critic.md": "ffe36622f873",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "ea55420c80e9",
       "content/posts/the-unobservable-driver-of-learning.md": "16338781295d",
       "content/posts/the-utility-men-of-progress.md": "b35b7ef21677",
@@ -402,7 +402,7 @@
       "content/posts/what-always-listens-cannot-originate.md": "ad631e85355a",
       "content/posts/what-cannot-be-kept.md": "230c81faa1f9",
       "content/posts/what-hinton-failed-to-understand.md": "5b9aba9df3f3",
-      "content/posts/what-information-is.md": "63cbacf714f1",
+      "content/posts/what-information-is.md": "e7b352002978",
       "content/posts/what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination.md": "f8dc08af8894",
       "content/posts/what-works-is-the-belief.md": "61bc84ba56e2",
       "content/posts/whatever-is-one-prompt-away.md": "0e806b1ec073",
@@ -446,10 +446,10 @@
     },
     "stats": {
       "posts": 419,
-      "edges": 12598,
-      "unique_directed": 6198,
+      "edges": 12602,
+      "unique_directed": 6200,
       "missing_targets": 0,
-      "one_way": 1152,
+      "one_way": 1150,
       "isolated": 0,
       "posts_with_outbound": 419,
       "book_pages": 16,
@@ -2240,7 +2240,7 @@
       "slug": "dimensions-are-projections",
       "path": "content/posts/dimensions-are-projections.md",
       "title": "维度即投影 / Dimensions Are Projections",
-      "hash": "a2cfb53dce83",
+      "hash": "26191f359b0c",
       "in_degree": 29,
       "out_degree": 21,
       "links_out": [
@@ -2881,7 +2881,7 @@
       "slug": "gao-wei-xin-xi-de-li-san-zhe-she",
       "path": "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md",
       "title": "高维信息的离散折射与认知分层 / The Discrete Refraction of High-Dimensional Information",
-      "hash": "37d5658b264e",
+      "hash": "71d168750075",
       "in_degree": 9,
       "out_degree": 11,
       "links_out": [
@@ -4505,7 +4505,7 @@
       "slug": "on-education",
       "path": "content/posts/on-education.md",
       "title": "论教育、共振与给人真东西 / On Education, Resonance, and Giving Someone the Real Thing",
-      "hash": "e2d0a3baebcd",
+      "hash": "2506ab652440",
       "in_degree": 3,
       "out_degree": 7,
       "links_out": [
@@ -5913,7 +5913,7 @@
       "slug": "sowell-observed-the-surface-problem",
       "path": "content/posts/sowell-observed-the-surface-problem.md",
       "title": "索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem",
-      "hash": "df9de9b7c1a0",
+      "hash": "2e05a3324cf6",
       "in_degree": 12,
       "out_degree": 13,
       "links_out": [
@@ -8603,7 +8603,7 @@
       "slug": "the-living-context",
       "path": "content/posts/the-living-context.md",
       "title": "活的语境 / The Living Context",
-      "hash": "1efc6b0154c4",
+      "hash": "964888d30fb4",
       "in_degree": 6,
       "out_degree": 11,
       "links_out": [
@@ -9760,12 +9760,13 @@
       "slug": "the-reflexive-dilemma-of-unique-insight",
       "path": "content/posts/the-reflexive-dilemma-of-unique-insight.md",
       "title": "独见者的自反困境与必然性的后验投射 / The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity",
-      "hash": "715a152c2c2f",
+      "hash": "d836ec0d3431",
       "in_degree": 4,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "the-free-variable-and-the-retrospective-illusion-of-power",
         "the-walking-tangent-and-the-stumbling-sphere",
+        "the-surface-that-registers",
         "the-model-never-becomes-a-second-edge",
         "felt-resistance-and-the-speed-differential",
         "the-reversal-of-verification",
@@ -10472,7 +10473,7 @@
       "path": "content/posts/the-surface-that-registers.md",
       "title": "登记共鸣的表面 / The Surface That Registers",
       "hash": "add37f7bdd58",
-      "in_degree": 7,
+      "in_degree": 9,
       "out_degree": 11,
       "links_out": [
         "sowell-observed-the-surface-problem",
@@ -10624,12 +10625,13 @@
       "slug": "the-unexamined-critic",
       "path": "content/posts/the-unexamined-critic.md",
       "title": "未经自我审视的批判者 / The Unexamined Critic",
-      "hash": "a1e150cb8eae",
+      "hash": "ffe36622f873",
       "in_degree": 9,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "po-chu-gai-nian-de-jian-yue",
         "the-inversion-of-reading-and-the-order-of-inference",
+        "the-surface-that-registers",
         "the-paradoxical-nature-of-bystander-insights",
         "the-invisible-observer-and-the-delusion-of-lossless-transmission",
         "the-aesthetic-escalator-and-the-melancholy-of-the-balcony",
@@ -11192,7 +11194,7 @@
       "slug": "what-information-is",
       "path": "content/posts/what-information-is.md",
       "title": "信息是什么 / What Information Is",
-      "hash": "63cbacf714f1",
+      "hash": "e7b352002978",
       "in_degree": 24,
       "out_degree": 30,
       "links_out": [
@@ -73078,6 +73080,12 @@
     },
     {
       "from": "the-reflexive-dilemma-of-unique-insight",
+      "to": "the-surface-that-registers",
+      "rel": "points_to",
+      "label": "登记共鸣的表面"
+    },
+    {
+      "from": "the-reflexive-dilemma-of-unique-insight",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "模型永远无法成为第二重前沿"
@@ -73087,6 +73095,12 @@
       "to": "felt-resistance-and-the-speed-differential",
       "rel": "points_to",
       "label": "阻力体感与速率差"
+    },
+    {
+      "from": "the-reflexive-dilemma-of-unique-insight",
+      "to": "the-surface-that-registers",
+      "rel": "points_to",
+      "label": "The Surface That Registers"
     },
     {
       "from": "the-reflexive-dilemma-of-unique-insight",
@@ -78934,6 +78948,12 @@
     },
     {
       "from": "the-unexamined-critic",
+      "to": "the-surface-that-registers",
+      "rel": "points_to",
+      "label": "登记共鸣的表面"
+    },
+    {
+      "from": "the-unexamined-critic",
       "to": "po-chu-gai-nian-de-jian-yue",
       "rel": "points_to",
       "label": "Breaking the Overreach of Concepts"
@@ -78943,6 +78963,12 @@
       "to": "the-inversion-of-reading-and-the-order-of-inference",
       "rel": "points_to",
       "label": "The Inversion of Reading and the Order of Inference"
+    },
+    {
+      "from": "the-unexamined-critic",
+      "to": "the-surface-that-registers",
+      "rel": "points_to",
+      "label": "The Surface That Registers"
     },
     {
       "from": "the-unexamined-critic",
@@ -78978,13 +79004,13 @@
       "from": "the-unexamined-critic",
       "to": "sowell-observed-the-surface-problem",
       "rel": "points_to",
-      "label": "索维尔观察到了表象问题"
+      "label": "索维尔的表象洞察与根因之偏"
     },
     {
       "from": "the-unexamined-critic",
       "to": "the-invisible-gods-eye",
       "rel": "points_to",
-      "label": "不可见的上帝之眼"
+      "label": "隐秘的上帝之眼"
     },
     {
       "from": "the-unexamined-critic",

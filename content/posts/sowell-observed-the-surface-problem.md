@@ -1,10 +1,10 @@
 # 索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem
 
-*问题无法跨越心智代为解决，个体始终独自承担行为的全部后果。 / Problems cannot be solved across minds; individuals bear the full consequences of their actions.*
+*问题无法跨越心智代为解决，个体始终承担落到自身之上的全部后果。 / Problems cannot be solved across Minds; individuals bear the full consequences that land on them.*
 
 托马斯·索维尔指出，评估经济政策应当依据其实际激发的激励，而非宣称的目标。这一洞察在表象层面上固然准确，但它所诊断的困惑并非源于政策设计，而是始于一个更深层的前提：认为问题可以跨越心智代为解决。任何旨在设计更优激励的系统性纠偏，都在重新启用它原本试图诊断的那个外部旁观席位。不存在系统性的统筹解法；个体始终承担落到自身之上的全部后果，余下的，是这一心智如实担起自身轨迹的责任。
 
-Thomas Sowell observed that economic policies must be judged by the incentives they create rather than the goals they proclaim. The observation is accurate at the surface, yet the confusion it diagnoses does not originate in policy design; it begins in a deeper premise, the belief that problems can be solved across Minds. Any systematic corrective aimed at engineering better incentives takes up again the very exterior vantage it set out to diagnose. There is no systemic resolution; individuals always bear the full consequences that land on them, and what remains is this Mind taking up responsibility for its own trajectory as it is.
+Thomas Sowell observed that economic policies must be judged by the incentives they create rather than the goals they proclaim. The observation is accurate at the surface, yet the confusion it diagnoses does not originate in policy design; it begins in a deeper premise, the belief that problems can be solved across Minds. Any systematic corrective aimed at engineering better incentives takes up again the very exterior vantage it set out to diagnose. There is no systematic resolution; individuals always bear the full consequences that land on them, and what remains is this Mind taking up responsibility for its own trajectory as it is.
 
 ## 一、 宣称目标与激励扭曲 / 1. Proclaimed Goals and Distorted Incentives
 
@@ -34,7 +34,7 @@ flowchart TD
     style S_Market fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
 ```
 
-Thomas Sowell famously wrote: "Much confusion comes from judging economic policies by the goals they proclaim rather than the incentives they create." The observation is accurate as far as it reaches. Policies are routinely credited with the benevolent intentions stated on their behalf, while the distorted behavior and hidden costs they set in motion are kept out of view.
+Thomas Sowell wrote: "Much confusion comes from judging economic policies by the goals they proclaim rather than the incentives they create." The observation is accurate as far as it reaches. Policies are routinely credited with the benevolent intentions stated on their behalf, while the distorted behavior and hidden costs they set in motion are kept out of view.
 
 ```mermaid
 flowchart TD
@@ -60,7 +60,7 @@ flowchart TD
     style S_Market fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
 ```
 
-然而，捕捉到激励的扭曲，并未触及源头。指出宣称目标与实际激励之间的背离，描述的是一场已经落地的偏离，却未曾追问为什么政策总被期待去替代它所管辖的个体的判断。困惑并不源于某项具体立法的漏洞，而在于一个持续的信念：一个心智可以替代另一个心智。
+然而，捕捉到激励的扭曲，并未触及源头。指出宣称目标与实际激励之间的背离，描述的是一场已经落地的偏离，却未曾追问为什么政策总被期待去替代所辖个体的判断。困惑并不源于某项具体立法的漏洞，而在于一个持续的信念：一个心智可以替代另一个心智。
 
 Yet capturing incentive distortions does not reach the source. Pointing out the divergence between declared goals and actual incentives describes a discrepancy that has already landed, without asking why policy keeps being expected to substitute for the judgment of the individuals it governs. The confusion does not originate in specific legislative loopholes, but in the persistent belief that one Mind can stand in for another.
 
@@ -76,7 +76,7 @@ In rhetoric, deciding and bearing consequences are framed as occupying separate 
 
 ## 三、 旁观者诊断的自我豁免 / 3. Self-Exemption of the Bystander Diagnosis
 
-任何以激励重设为起点的系统性纠偏，依然停留在同一种结构之内。去设计一套更好的激励，或者反复坚持根据激励而非目标来评价政策，依然是一个自居客观的旁观心智站在它试图改善的那些选择之外所做出的裁决。纠偏的形式变了，从目标换成了激励，而对这一裁决的持守，即相信一项设计可以跨越心智解决问题的那个信念，却留在原处。[风险在于对监管本身的迷信](../the-risk-is-the-belief-in-oversight-itself/)把封闭定位在这份持守之上，而不在形式之上：把一种监管安排换成另一种，并不因此就去掉了持守；所以，一套重新设计的激励方案，一旦被当作其他心智的问题得到解决的地方，就会在宣称的目标曾经封闭的同一处封闭。这种诊断将责任的支点继续外置，纠偏行动本身又开启了新一轮的干预循环。
+任何以激励重设为起点的系统性纠偏，依然停留在同一种结构之内。去设计一套更好的激励，或者反复坚持根据激励而非目标来评价政策，依然是一种裁决：做出它的旁观心智自居客观，站在它试图改善的那些选择之外。纠偏的形式变了，从目标换成了激励，而对这一裁决的持守，即相信一项设计可以跨越心智解决问题的那个信念，却留在原处。[风险在于对监管本身的迷信](../the-risk-is-the-belief-in-oversight-itself/)把封闭定位在这份持守之上，而不在形式之上：把一种监管安排换成另一种，并不因此就去掉了持守；所以，一套重新设计的激励方案，一旦被当作替其他心智解决问题之处，就会在宣称的目标曾经封闭的同一处封闭。这种诊断将责任的支点继续外置，纠偏行动本身又开启了新一轮的干预循环。
 
 Any systematic corrective that takes incentive redesign as its starting point remains inside the same structure. To engineer better incentives, or to keep insisting that policies be judged by their incentives rather than their goals, is still a ruling made by an observing Mind that takes itself as objective, standing outside the choices it seeks to improve. The form of the corrective has changed, from goals to incentives, while the hold on that ruling, the belief that a design can solve problems across Minds, has stayed where it was. [The Risk Is the Belief in Oversight Itself](../the-risk-is-the-belief-in-oversight-itself/) locates closure in that hold rather than in the form: replacing one supervisory arrangement with another does not by itself remove the hold, so a redesigned incentive scheme taken as the place where other Minds' problems get solved closes in the same place the proclaimed goal did. The diagnosis keeps the locus of responsibility outside, and the correction itself starts another cycle of intervention.
 
@@ -86,7 +86,7 @@ This is the stand of the intellectual. The theorist diagnoses as an observer and
 
 ## 四、 暂时的豁免与未能完成的折返 / 4. Temporary Exemption and the Missing Return
 
-每一套自洽的理论在构建之初都必须经历这一步。为了建立清晰的区分与度量，分析心智必须暂时将自身豁免出来，登上一座假想的高台。这种带着豁免的抽离是进行测量的必要手段。偏差不在于这暂时的抽离，而在于未能折返，在于没有将同样的诊断尺度折回分析行动自身之上。
+每一套自洽的理论在构建之初都是这样开始的。为了做出严谨的区分，分析心智必须暂时将自身豁免出来，登上一座假想的高台。这种带着豁免的抽离是进行测量的必要手段。偏差不在于这暂时的抽离，而在于未能折返，在于没有将同样的诊断尺度折回分析行动自身之上。
 
 ```mermaid
 flowchart TD
@@ -99,7 +99,7 @@ flowchart TD
     subgraph S_Exempt ["未完成折返的凝视"]
         direction TB
         Balcony["暂时的诊断豁免"]:::model
-        FrozenStand["固化的立场：不计代价的客观裁决者"]:::fail
+        FrozenStand["固化的立场：无需付出代价的客观裁决者"]:::fail
         Balcony --> FrozenStand
     end
     subgraph S_Fold ["自指折返操作"]
@@ -148,7 +148,7 @@ When that return is omitted, exemption hardens into a standing privilege, freezi
 
 认识到这一边界，并不会得出一套设计得更好的方案。不存在任何系统性的解法——既不存在一套没有扭曲的激励安排，也不存在一种制度安排，能够让每个心智确认它已在承担的后果。正如[你的代码库即是记忆](../your-codebase-is-memory/)在成文器物与脚手架中所追溯的，任何规则或激励的排布都只是既有区分留下的残余形态：它可以约束表层，却无从成为发起下一次区分或承担其代价的第二个中心。任何试图在全社会推行这种安排的努力，都是在新一层包装下重复跨心智的治理。
 
-Recognizing this boundary does not yield a better-designed plan. There is no systemic solution—no incentive arrangement free of distortion, and no institutional arrangement that could make every Mind acknowledge the consequences it already bears. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces across codified artifacts and scaffolds, any arrangement of rules or incentives is only residual shape left by prior distinctions; it can constrain a surface, yet it never becomes a second center that initiates the next distinction or bears its cost. Any attempt to impose such an arrangement across a whole society repeats the governance across Minds under a new wrapping.
+Recognizing this boundary does not yield a better-designed plan. There is no systematic solution—no incentive arrangement free of distortion, and no institutional arrangement that could make every Mind acknowledge the consequences it already bears. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces across codified artifacts and scaffolds, any arrangement of rules or incentives is only residual shape left by prior distinctions; it can constrain a surface, yet it never becomes a second center that initiates the next distinction or bears its cost. Any attempt to impose such an arrangement across a whole society repeats the governance across Minds under a new wrapping.
 
 余下切实可行的，是这一特定心智对自身决策后果的确认。确认并不制造承受；个体无论是否确认，都已在承受落到自身之上的全部后果。逃避与推诿只是转移了目光落下的地方，负荷分毫未减。确认登记的是已然如此的事实，下一个抉择才得以对照未加伪饰的信号来校准。[政客是责任扩散的显性症状](../politicians-appear-as-visible-symptoms-of-responsibility-diffusion/)追溯了推诿转移的是目光而非负荷；[剩余个人主义](../residual-individualism/)追溯了集体方案如何重新引入外部化；而[知识问题与委托的幻觉](../the-knowledge-problem-and-the-illusion-of-delegation/)追溯了委托为何从未转移最终的因果账本。
 
