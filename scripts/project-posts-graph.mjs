@@ -31,10 +31,12 @@ const neighborsIdx = args.indexOf('--neighbors');
 const neighborsSlug = neighborsIdx >= 0 ? args[neighborsIdx + 1] : null;
 
 const excludeSet = new Set();
+let sawExcludeFlag = false;
 for (let i = 0; i < args.length; i++) {
   if (args[i] === '--exclude') {
+    sawExcludeFlag = true;
     for (let j = i + 1; j < args.length && !args[j].startsWith('--'); j++) {
-      for (const s of args[j].split(',')) {
+      for (const s of args[j].split(/[\s,]+/)) {
         const trimmed = s.trim().replace(/\.md$/, '');
         if (trimmed) excludeSet.add(trimmed);
       }
@@ -401,6 +403,16 @@ function mapBookParts() {
 
 function printCatalog(excluded) {
   const files = listPostFiles();
+  const slugSet = new Set(files.map((f) => path.basename(f, '.md')));
+  if (sawExcludeFlag && excluded.size === 0) {
+    console.error('Error: --exclude requires at least one post slug.');
+    process.exit(1);
+  }
+  const unknown = [...excluded].filter((s) => !slugSet.has(s));
+  if (unknown.length > 0) {
+    console.error(`Error: --exclude unknown post slug(s): ${unknown.join(', ')}`);
+    process.exit(1);
+  }
   const partBySlug = mapBookParts();
   const entries = [];
   let excludedCount = 0;
