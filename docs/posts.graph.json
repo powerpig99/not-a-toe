@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-01T20:23:41.226Z",
+    "generated_at": "2026-11-01T20:43:46.828Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -29,7 +29,7 @@
       "content/posts/an-observation-by-its-own-standard.md": "1d44b8371330",
       "content/posts/better-than-free-after-the-checklist-closes.md": "d39b1b10df08",
       "content/posts/beyond-the-hundred-trillion-horizon.md": "3c63e3e17823",
-      "content/posts/beyond-the-projection.md": "4d1f6ff038dc",
+      "content/posts/beyond-the-projection.md": "78576807063b",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "a069dfae4348",
       "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md": "3cfbe8163219",
       "content/posts/causality-all-the-way.md": "08a8a20f59ec",
@@ -447,8 +447,8 @@
     },
     "stats": {
       "posts": 420,
-      "edges": 12666,
-      "unique_directed": 6232,
+      "edges": 12670,
+      "unique_directed": 6234,
       "missing_targets": 0,
       "one_way": 1154,
       "isolated": 0,
@@ -1201,13 +1201,15 @@
       "slug": "beyond-the-projection",
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
-      "hash": "4d1f6ff038dc",
+      "hash": "78576807063b",
       "in_degree": 209,
-      "out_degree": 21,
+      "out_degree": 23,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "ontos-is-a-method-agent",
         "the-model-never-becomes-a-second-edge",
+        "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+        "self-rl-for-humans",
         "the-returning-signal-and-its-claim",
         "dimensions-are-projections",
         "the-mind-as-vector-and-coordinate-system",
@@ -3812,7 +3814,7 @@
       "path": "content/posts/machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence.md",
       "title": "机器智能作为人类智能的组合反馈回路 / Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence",
       "hash": "d69fda835993",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 15,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
@@ -5701,7 +5703,7 @@
       "path": "content/posts/self-rl-for-humans.md",
       "title": "看似AI的强化学习，实为人类的自我强化学习 / What Looks Like RL for AIs Is Self-RL for Humans",
       "hash": "fd8631ed95fd",
-      "in_degree": 28,
+      "in_degree": 29,
       "out_degree": 30,
       "links_out": [
         "complexity-obscures-emergence-as-the-act-of-mind",
@@ -15786,6 +15788,30 @@
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "机器智能作为人类智能的组合反馈回路"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "看似AI的强化学习，实为人类的自我强化学习"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence"
+    },
+    {
+      "from": "beyond-the-projection",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "What Looks Like RL for AIs Is Self-RL for Humans"
     },
     {
       "from": "beyond-the-projection",
