@@ -380,8 +380,28 @@ function printNeighbors(graph, slug) {
   for (const s of n.review) console.log(`  ${s}`);
 }
 
+function mapBookParts() {
+  const partBySlug = new Map();
+  const bookDir = path.join(root, 'content', 'book');
+  if (!fs.existsSync(bookDir)) return partBySlug;
+  const essaysHeadingRe = /^##\s+篇目\s*\/\s*Essays\s*$/;
+  for (const f of fs.readdirSync(bookDir).filter((x) => x.endsWith('.md')).sort()) {
+    if (f === 'preface.md' || f === 'index-of-premises.md') continue;
+    const lines = fs.readFileSync(path.join(bookDir, f), 'utf8').split(/\r?\n/);
+    const essaysIdx = lines.findIndex((l) => essaysHeadingRe.test(l.trim()));
+    if (essaysIdx === -1) continue;
+    for (const link of extractMdLinks(lines.slice(essaysIdx + 1).join('\n'))) {
+      const href = link.href.split('#')[0].trim();
+      const m = href.match(/^\.\.\/\.\.\/posts\/([A-Za-z0-9][A-Za-z0-9_-]*)\/?$/);
+      if (m) partBySlug.set(m[1], f);
+    }
+  }
+  return partBySlug;
+}
+
 function printCatalog(excluded) {
   const files = listPostFiles();
+  const partBySlug = mapBookParts();
   const entries = [];
   let excludedCount = 0;
   for (const abs of files) {
@@ -393,7 +413,8 @@ function printCatalog(excluded) {
     const md = fs.readFileSync(abs, 'utf8');
     const title = extractTitle(md) || slug;
     const subtitle = extractSubtitle(md);
-    entries.push(`\`${slug}\`: # ${title}${subtitle ? ` | ${subtitle}` : ''}`);
+    const part = partBySlug.get(slug);
+    entries.push(`\`${slug}\`${part ? ` (${part})` : ''}: # ${title}${subtitle ? ` | ${subtitle}` : ''}`);
   }
   console.log(
     `# Corpus Catalog (${entries.length} posts included; ${excludedCount} excluded of ${files.length} total)\n`,
