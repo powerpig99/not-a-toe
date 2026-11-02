@@ -5381,7 +5381,16 @@ Presumes either that subword tokenization is a neutral efficiency compression or
 
 Presumes that residual networks (`yₗ₊₁ = yₗ + F(yₗ, Wₗ)`) are merely a numerical gradient-flow trick inside a feedforward stack or that a statically compiled computation graph suffices for multi-step derivation; effective for explaining how identity shortcuts mitigate vanishing and exploding gradients during backpropagation, it reaches its boundary when the "feedforward" label obscures the causal geometry of the identity highway as a retained reference that decomposes one brittle global feedback loop into modular local feedback loops computing bounded differentials, and when static graphs miss how bounded skill loops propose mitosis under capacity overload and zero-context crystallization as charter updates converge (`Δθₗ → 0`) while remaining anchored to the human outer loop's initial condition `y₀` and sovereign ratification; once the grain of segmentation, the routing, and the module topology are drawn and split inside the network's own loop, the static-neural versus dynamic-skill contrast shows it was never neural against agentic but which degrees of freedom the outer loop opens to the inner loop.
 
-→ [模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks](../../posts/dynamic-resnet-of-skill-loops/) · [学到的边界与给定的尺度 / Learned Boundaries and the Given Rate](../../posts/learned-boundaries-and-the-given-rate/)
+→ [模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks](../../posts/dynamic-resnet-of-skill-loops/) · [学到的边界与给定的尺度 / Learned Boundaries and the Given Rate](../../posts/learned-boundaries-and-the-given-rate/) · [递归区分的架构 / The Architecture of Recursive Distinction](../../posts/architecture-of-recursive-distinction/)
+
+### 模型量化与二值神经网络 / Model Quantization and Binary Neural Networks
+`技术 / Technological`
+
+预设低比特或二值神经网络（sign()、XNOR-popcount）只是全精度原模型的有损硬件降级；在给定误差容限内压缩内存占用、加速推理时有效，而当全精度权重显出它只是又一张有限参考地图、数值精度显出它是在算力与能量代价下选定的截断深度时到达边界：堆叠的二元切分唯有在每一次切分以前一次切分留下的余项为条件、每一个前缀都被训练得能够独立成立时，才能由粗到精地抵达这一深度，在共享信号下并行训练多条路径则不能。
+
+Presumes that a low-bit or binary neural network (sign(), XNOR-popcount) is only a lossy hardware degradation of a full-precision original; effective for shrinking memory and speeding inference within a given error tolerance, it reaches its boundary where the full-precision weight shows itself to be one more finite reference map and numerical precision a truncation depth chosen under a compute and energy price, a depth that stacked binary cuts reach coarse-to-fine only when each cut is conditioned on the remainder the previous one left and every prefix is trained to stand on its own, not when parallel paths are trained on a shared signal.
+
+→ [递归区分的架构 / The Architecture of Recursive Distinction](../../posts/architecture-of-recursive-distinction/)
 
 ### 持续学习 / Continual Learning
 `技术 / Technological`

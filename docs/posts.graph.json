@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-02T17:17:03.045Z",
+    "generated_at": "2026-11-02T18:32:26.871Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -27,6 +27,7 @@
       "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "2217ee5fe5b3",
       "content/posts/amplification-paradox.md": "a275c141a687",
       "content/posts/an-observation-by-its-own-standard.md": "1d44b8371330",
+      "content/posts/architecture-of-recursive-distinction.md": "b94c7bee789f",
       "content/posts/better-than-free-after-the-checklist-closes.md": "d39b1b10df08",
       "content/posts/beyond-the-hundred-trillion-horizon.md": "3c63e3e17823",
       "content/posts/beyond-the-projection.md": "78576807063b",
@@ -434,8 +435,8 @@
       "content/book/causality.md": "863b25c6333a",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "b5556a64977d",
-      "content/book/intelligence.md": "0bb32f960f28",
+      "content/book/index-of-premises.md": "8d7153f99ee7",
+      "content/book/intelligence.md": "e80a45b06b6c",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
       "content/book/mathematics.md": "8f6d273c0db8",
@@ -449,16 +450,16 @@
       "content/book/tools-and-progress.md": "2a682044cc54"
     },
     "stats": {
-      "posts": 423,
-      "edges": 12908,
-      "unique_directed": 6352,
+      "posts": 424,
+      "edges": 12934,
+      "unique_directed": 6365,
       "missing_targets": 0,
-      "one_way": 1188,
+      "one_way": 1201,
       "isolated": 0,
-      "posts_with_outbound": 423,
+      "posts_with_outbound": 424,
       "book_pages": 16,
-      "book_edges": 1235,
-      "posts_reached_by_book": 423
+      "book_edges": 1238,
+      "posts_reached_by_book": 424
     }
   },
   "hubs_in": [
@@ -468,7 +469,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 209
+      "in_degree": 210
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -480,7 +481,7 @@
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 85
+      "in_degree": 86
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -1154,6 +1155,31 @@
       ]
     },
     {
+      "id": "post:architecture-of-recursive-distinction",
+      "kind": "post",
+      "slug": "architecture-of-recursive-distinction",
+      "path": "content/posts/architecture-of-recursive-distinction.md",
+      "title": "递归区分的架构 / The Architecture of Recursive Distinction",
+      "hash": "b94c7bee789f",
+      "in_degree": 0,
+      "out_degree": 13,
+      "links_out": [
+        "the-continuum-is-a-modeling-convenience",
+        "lossless-knowledge-of-an-open-field-is-incoherent",
+        "dimensions-are-projections",
+        "what-information-is",
+        "precision-and-resolution",
+        "learned-boundaries-and-the-given-rate",
+        "the-descent-that-doesnt-know-where-its-going",
+        "dynamic-resnet-of-skill-loops",
+        "handing-off-residue",
+        "beyond-the-projection",
+        "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+        "intelligence-belongs-only-to-the-mind",
+        "the-illusion-of-multi-agent-collaboration"
+      ]
+    },
+    {
       "id": "post:better-than-free-after-the-checklist-closes",
       "kind": "post",
       "slug": "better-than-free-after-the-checklist-closes",
@@ -1207,7 +1233,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "78576807063b",
-      "in_degree": 209,
+      "in_degree": 210,
       "out_degree": 23,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1265,7 +1291,7 @@
       "path": "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md",
       "title": "递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems",
       "hash": "af1221fcdd73",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 13,
       "links_out": [
         "no-system-can-be-kept-closed",
@@ -2300,7 +2326,7 @@
       "path": "content/posts/dimensions-are-projections.md",
       "title": "维度即投影 / Dimensions Are Projections",
       "hash": "3a4d4dbf38f9",
-      "in_degree": 30,
+      "in_degree": 31,
       "out_degree": 22,
       "links_out": [
         "not-a-toe-rewrite",
@@ -2371,7 +2397,7 @@
       "path": "content/posts/dynamic-resnet-of-skill-loops.md",
       "title": "模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks",
       "hash": "85f7b34ff7d4",
-      "in_degree": 29,
+      "in_degree": 30,
       "out_degree": 11,
       "links_out": [
         "the-descent-that-doesnt-know-where-its-going",
@@ -3117,7 +3143,7 @@
       "path": "content/posts/handing-off-residue.md",
       "title": "交接残余 / Handing Off Residue",
       "hash": "03450f1e9d68",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 13,
       "links_out": [
         "beyond-the-projection",
@@ -3555,7 +3581,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "智能只属于心智 / Intelligence Belongs Only to the Mind",
       "hash": "5656f412d172",
-      "in_degree": 85,
+      "in_degree": 86,
       "out_degree": 71,
       "links_out": [
         "curiosity-has-no-final-form",
@@ -3731,7 +3757,7 @@
       "path": "content/posts/learned-boundaries-and-the-given-rate.md",
       "title": "学到的边界与给定的尺度 / Learned Boundaries and the Given Rate",
       "hash": "aaa5b463dd25",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 13,
       "links_out": [
         "precision-and-resolution",
@@ -3815,7 +3841,7 @@
       "path": "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md",
       "title": "开放场域中的无损知识不自洽 / Lossless Knowledge of an Open Field Is Incoherent",
       "hash": "80f062802ba9",
-      "in_degree": 28,
+      "in_degree": 29,
       "out_degree": 28,
       "links_out": [
         "the-knowledge-problem-and-the-illusion-of-delegation",
@@ -5242,7 +5268,7 @@
       "path": "content/posts/precision-and-resolution.md",
       "title": "精度与分辨率 / Precision and Resolution",
       "hash": "79dc0ad73381",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 13,
       "links_out": [
         "the-comment-is-not-the-code",
@@ -7095,7 +7121,7 @@
       "path": "content/posts/the-continuum-is-a-modeling-convenience.md",
       "title": "连续性作为建模的权宜之计 / The Continuum is a Modeling Convenience",
       "hash": "861d512575f6",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 9,
       "links_out": [
         "demanding-a-toe-freezes-time-into-a-catalog",
@@ -7291,7 +7317,7 @@
       "path": "content/posts/the-descent-that-doesnt-know-where-its-going.md",
       "title": "不知去向何方的梯度下降 / The Descent That Doesn't Know Where It's Going",
       "hash": "9d0368039437",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 6,
       "links_out": [
         "sensing-before-interpretation",
@@ -8299,7 +8325,7 @@
       "path": "content/posts/the-illusion-of-multi-agent-collaboration.md",
       "title": "多智能体协作的幻象 / The Illusion of Multi-Agent Collaboration",
       "hash": "4841d10e293d",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 13,
       "links_out": [
         "what-always-listens-cannot-originate",
@@ -11396,7 +11422,7 @@
       "path": "content/posts/what-information-is.md",
       "title": "信息是什么 / What Information Is",
       "hash": "2d0ecda0a4ef",
-      "in_degree": 25,
+      "in_degree": 26,
       "out_degree": 31,
       "links_out": [
         "the-mark-and-the-act",
@@ -15657,6 +15683,162 @@
       "to": "the-boundary-of-the-frame",
       "rel": "points_to",
       "label": "The Boundary of the Frame"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
+      "to": "the-continuum-is-a-modeling-convenience",
+      "rel": "points_to",
+      "label": "连续性作为建模的权宜之计"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
+      "to": "the-continuum-is-a-modeling-convenience",
+      "rel": "points_to",
+      "label": "The Continuum is a Modeling Convenience"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
+      "to": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "rel": "points_to",
+      "label": "开放场域中的无损知识不自洽"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
+      "to": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "rel": "points_to",
+      "label": "Lossless Knowledge of an Open Field Is Incoherent"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
+      "to": "dimensions-are-projections",
+      "rel": "points_to",
+      "label": "维度即投影"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "信息是什么"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
+      "to": "dimensions-are-projections",
+      "rel": "points_to",
+      "label": "Dimensions Are Projections"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "What Information Is"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
+      "to": "precision-and-resolution",
+      "rel": "points_to",
+      "label": "精度与分辨率"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
+      "to": "precision-and-resolution",
+      "rel": "points_to",
+      "label": "Precision and Resolution"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "学到的边界与给定的尺度"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "Learned Boundaries and the Given Rate"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
+      "to": "the-descent-that-doesnt-know-where-its-going",
+      "rel": "points_to",
+      "label": "不知去向何方的梯度下降"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
+      "to": "the-descent-that-doesnt-know-where-its-going",
+      "rel": "points_to",
+      "label": "The Descent That Doesn't Know Where It's Going"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
+      "to": "dynamic-resnet-of-skill-loops",
+      "rel": "points_to",
+      "label": "模块化反馈回路与动态残差网络"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
+      "to": "handing-off-residue",
+      "rel": "points_to",
+      "label": "交接残余"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
+      "to": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+      "rel": "points_to",
+      "label": "递归形式系统中作为记忆与控制的边界条件图"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
+      "to": "dynamic-resnet-of-skill-loops",
+      "rel": "points_to",
+      "label": "Modular Feedback Loops and Dynamic Residual Networks"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
+      "to": "handing-off-residue",
+      "rel": "points_to",
+      "label": "Handing Off Residue"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
+      "to": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+      "rel": "points_to",
+      "label": "Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
+      "to": "the-illusion-of-multi-agent-collaboration",
+      "rel": "points_to",
+      "label": "多智能体协作的幻象"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
+      "to": "the-illusion-of-multi-agent-collaboration",
+      "rel": "points_to",
+      "label": "The Illusion of Multi-Agent Collaboration"
     },
     {
       "from": "better-than-free-after-the-checklist-closes",
@@ -89542,8 +89724,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "b5556a64977d",
-        "out_degree": 423
+        "hash": "8d7153f99ee7",
+        "out_degree": 424
       },
       {
         "id": "book:intelligence",
@@ -89551,8 +89733,8 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "0bb32f960f28",
-        "out_degree": 55
+        "hash": "e80a45b06b6c",
+        "out_degree": 56
       },
       {
         "id": "book:knowledge-and-learning",
@@ -95057,6 +95239,18 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "architecture-of-recursive-distinction",
+        "rel": "collects",
+        "label": "递归区分的架构 / The Architecture of Recursive Distinction"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "architecture-of-recursive-distinction",
+        "rel": "collects",
+        "label": "递归区分的架构 / The Architecture of Recursive Distinction"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "learned-boundaries-and-the-given-rate",
         "rel": "collects",
         "label": "学到的边界与给定的尺度 / Learned Boundaries and the Given Rate"
@@ -95438,6 +95632,12 @@
         "to": "the-fixed-map-and-the-repeated-trip",
         "rel": "collects",
         "label": "固定地图与重复的行程 / The Fixed Map and the Repeated Trip"
+      },
+      {
+        "from": "book:intelligence",
+        "to": "architecture-of-recursive-distinction",
+        "rel": "collects",
+        "label": "递归区分的架构 / The Architecture of Recursive Distinction"
       },
       {
         "from": "book:knowledge-and-learning",
