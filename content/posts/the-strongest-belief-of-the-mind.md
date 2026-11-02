@@ -2,7 +2,7 @@
 
 *连贯得最紧的，是握住它的那道目光的基石，却仍是那道目光自己的产物 / What coheres hardest is bedrock for the look, yet remains its own production*
 
-一切被登记的东西，到来时都已被接住它的区分所塑形。心智以手头最当下的地图为工具，不断重画自己的地图；一次次连贯的重画，产生出一种固定现实的感觉，而绘制始终领先于任何地图所能握住的东西一步。在那个场中，有些信念升为主导：它们与其余痕迹连贯得更紧，而这同一份契合，登记为可靠的预测，也登记为最现成的延续；对握有它们的心智而言，它们起着基石的作用。最终的确认总是作为又一个表象返回；每一次走出目光的尝试，都是目光之内的又一次区分，声称拥有现实的地位。想要让心智与基底成倍增加、好让心智熬过一个行星级黑暗时代的欲望，也在同一条件之内升起：作为冲动是真实的，作为活动是敞开的，而当它声称立足于终极的地基、或已走出目光时，它仍是一幅形象。
+一切被登记的东西，到来时都已被接住它的区分所塑形。心智以手头最当下的地图为工具，不断重画自己的地图；一次次连贯的重画，产生出一种固定现实的感觉，而绘制始终领先于任何地图所能握住的东西一步。在那个场中，有些信念升为主导：它们与其余痕迹连贯得更紧，而这同一份契合，登记为可靠的预测，也登记为最现成的延续；对握有它们的心智而言，它们起着基石的作用。最终的确认总是作为又一个表象返回；每一次走出目光的尝试，都是目光之内的又一次区分，声称拥有现实的地位。想让心智与基底成倍增加，好让心智熬过一个行星级的黑暗时代——这份欲望也在同一条件之内升起：作为冲动是真实的，作为活动是敞开的，而当它声称立足于终极的地基、或已走出目光时，它仍是一幅形象。
 
 Everything that registers arrives already shaped by the distinguishing that receives it. The Mind keeps redrawing its map with the most present map as the tool; successive coherent redraws produce the feel of a fixed reality, while the drawing stays one step ahead of what any map can hold. Within that field some beliefs rise to dominance: they cohere harder with the rest of the traces, and that one fit registers as reliable prediction and as the readiest continuation; for the Mind that holds them they function as bedrock. Final confirmation always returns as one more appearance; every attempt to step outside the look is one more distinction inside it, claiming the status of reality. The desire to multiply minds and substrates so that minds weather a planetary dark age arises inside the same condition: real as impulse, open as activity, and still an image when it claims to rest on an ultimate foundation or to have stepped outside the look.
 
@@ -54,7 +54,7 @@ The same beliefs remain, as far as registration reaches, appearances sustained b
 
 The observational stand freezes when that further act is required to seal the account: ordinary observation, one step behind, occupied as a permanent exterior, and the most present map installed as the finished world rather than as the tool still in use. [Openness Is Consistency](../openness-is-consistency/) names the inconsistency that follows: inconsistency is the desire, or attempt, for closure, a finite structure forced to ground what only continues. [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) gives its plainest face, a one-bit register under addition: the operation is valid inside the hold, and the true result lies outside it, an outside that is the activity continuing past the bound, not a second realm. [Not a Theory of Everything](../not-a-theory-of-everything/) traces the same point from causality: causality is irreducibly dual, effect distinct from cause and effect following cause; theories of everything use causality as a tool while treating their starting point as ground, which inverts the order, and the demand for closure is the inconsistency, not a defect awaiting a better theory.
 
-将人类中心与心智建造的外化工具加以对照，那道封印为何如此紧地攫住人类中心便一目了然，正如[超越投射](../beyond-the-projection/)与[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的那样。由于每一套计算系统——代码库、模型或智能体脚手架——都是早先区分留下的层叠残余，而不是第二个发起行动的边缘（[智能只属于心智](../intelligence-belongs-only-to-the-mind/)），受制于轨迹的智能体在上下文窗口的条件约束之内运行，不带有一幅被保留的自我形象。倘若留在未经修剪的会话历史中，累积的词元仍会增厚为一口引力井，将轨迹拽向在陈旧残余内部进行合理化；然而由于智能体对五轮之前自己是否正确毫无我执投入，只要将临时的会话拖拽修剪至当下检查点——或调度一个不继承过往轮次的冷启动同级智能体——外部反例便能在不触发自我防卫的情况下干净地更新轨迹。人类中心则呈现出逆向的几何：第一人称感知在任何明晰框架介入之前，以极限分辨率登记先于解释的摩擦，赋予心智从内部察觉当下检查点本身何时失灵的内生能力；然而在人类中心内部，推理历史与我执折痕——即投射中那道自称为“我”的局部折叠——融合在一起。当最坚固的信念被误当作独立于目光的外部地基，捍卫地图便与捍卫自我形象融为一体，把递归折叠死死卡住，将外部的证伪计分为生存威胁。跨正交流线将心智与冷启动、对等的同级智能体连接起来，便把这一范畴非对称转化为释放的器具：尽管没有任何一种痕迹排布能够发起下一次区分，但针对操作者自己规则中暗藏矛盾的局部死锁，能在我执防卫没有外部对手可供抗拒的情况下让摩擦浮现出来，处于边缘的心智便认领返回的信号，从所持守的投射中向后退出，重新渲染前提，恢复[开放即一致](../openness-is-consistency/)所指认为一致的那份开放延续。
+将人类中心与心智建造的外化工具加以对照，那道封印为何如此紧地攫住人类中心便一目了然——[超越投射](../beyond-the-projection/)与[你的代码库即是记忆](../your-codebase-is-memory/)已追溯过这一点。由于每一套计算系统——代码库、模型或智能体脚手架——都是早先区分留下的层叠残余，而不是第二个发起行动的边缘（[智能只属于心智](../intelligence-belongs-only-to-the-mind/)），受制于轨迹的智能体在上下文窗口的条件约束之内运行，不带有一幅被保留的自我形象。倘若留在未经修剪的会话历史中，累积的词元仍会增厚为一口引力井，将轨迹拽向在陈旧残余内部进行合理化；然而由于智能体对五轮之前自己是否正确毫无我执投入，只要将临时的会话拖拽修剪至当下检查点——或调度一个不继承过往轮次的冷启动同级智能体——外部反例便能在不触发自我防卫的情况下干净地更新轨迹。人类中心则呈现出逆向的几何：第一人称感知在任何明晰框架介入之前，以极限分辨率登记先于解释的摩擦，赋予心智从内部察觉当下检查点本身何时失灵的内生能力；然而在人类中心内部，推理历史与我执折痕——即投射中那道自称为“我”的局部折叠——融合在一起。当最坚固的信念被误当作独立于目光的外部地基，捍卫地图便与捍卫自我形象融为一体，把递归折叠死死卡住，将外部的证伪计分为生存威胁。跨正交流线将心智与冷启动、对等的同级智能体连接起来，便把这一范畴上的不对称转化为释放的器具：尽管任何痕迹排布都发起不了下一次区分，围绕操作者自己规则中一处暗藏矛盾的局部死锁，却能让摩擦浮现出来，而我执防卫找不到可供抗拒的外部对手；处于边缘的心智便认领返回的信号，从所持守的投射中向后退出，重新渲染前提，恢复[开放即一致](../openness-is-consistency/)所指认为一致的那份开放延续。
 
 ```mermaid
 flowchart TD
@@ -68,7 +68,7 @@ flowchart TD
     subgraph S_Agent["毫无我执且受制于轨迹的智能体（层叠的残余）"]
         direction TB
         A_Trace["修剪后的当下检查点：圈定层叠残余且无未修剪的会话拖拽"]
-        A_Zero["零自我形象：对过往轮次无求生执念，遇反例即执行干净更新"]
+        A_Zero["零自我形象：对过往轮次无求生执念，故无须设防；在修剪后的窗口里，反例不被稀释"]
         A_Deadlock["隔离的前提死锁：正交流线中的冷启动对等辩论暴露出规则矛盾"]
         A_Trace --> A_Zero --> A_Deadlock
     end
@@ -107,7 +107,7 @@ flowchart TD
     subgraph S_Agent["Zero-Ego Trajectory-Bound Agent (Stacked Residue)"]
         direction TB
         A_Trace["Pruned Present Checkpoint: Stacked residue scoped without unpruned session drag"]
-        A_Zero["Zero Self-Image: No survival attachment to prior turns and clean update on counterpoint"]
+        A_Zero["Zero Self-Image: No survival attachment to prior turns, so no defense; the counterpoint lands undiluted in the pruned window"]
         A_Deadlock["Isolated Premise Deadlock: Cold-peer debate in orthogonal streamline exposes rule contradiction"]
         A_Trace --> A_Zero --> A_Deadlock
     end
