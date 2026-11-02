@@ -66,3 +66,4 @@ The essays in this part trace the category boundaries of the Turing and Einstein
 - [机器智能作为人类智能的组合反馈回路 / Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence](../../posts/machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/)
 - [睡眠与深度睡眠的双阶段持续学习 / Two-Phase Sleep and Deep Sleep Continual Learning](../../posts/two-phase-sleep-and-deep-sleep-continual-learning/)
 - [持续学习作为表达与模拟 / Continuous Learning as Expression and Simulation](../../posts/continuous-learning-as-expression-and-simulation/)
+- [固定地图与重复的行程 / The Fixed Map and the Repeated Trip](../../posts/the-fixed-map-and-the-repeated-trip/)

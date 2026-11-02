@@ -3628,6 +3628,15 @@ Judgment language presumes that right and wrong are coordinates standing above a
 
 → [偏好聚类与评判语言 / Preference Clusters and the Language of Judgment](../../posts/preference-clusters-and-the-language-of-judgment/)
 
+### 下一词元预测 / Next-Token Prediction
+`技术 / Technological`
+
+下一词元预测预设，监督序列化表达的延续——并在推理时配以不断增长的词元链作为工作状态与固定的全局参数地图——是通往语言建模的路径；由于语言在同一媒介中同时承载所操作的材料与对材料的操作，这条绕圈的路径得以在大规模下闭合并产出流畅而能干的模型，因此在大规模下有其效用；其边界在于把这种有效性当作证据，认定这条路径是语言使用本身所要求的；此时，借表层延续绕圈还原功能、每一步都从起点重新遍历累积链条、以及为局部任务携带全局容量等结构性代价依然存在。
+
+Next-token prediction presumes that supervising the continuation of serialized expressions—paired with a growing token chain as working state and a fixed global parameter map at inference—is the route to modeling language, which is of use at scale because language carries both the material operated on and the operations over it in one medium so the circular route closes and yields fluent, capable models; it reaches its boundary where that effectiveness is taken to show the route is required by language use itself, while the structural costs of recovering function circularly through surface continuation, re-traversing the accumulated chain from the origin at every step, and carrying global capacity for local tasks remain.
+
+→ [固定地图与重复的行程 / The Fixed Map and the Repeated Trip](../../posts/the-fixed-map-and-the-repeated-trip/)
+
 ### 次词预测的被动回应性 / Next-Token Reactive Nature
 `技术 / Technological`
 
