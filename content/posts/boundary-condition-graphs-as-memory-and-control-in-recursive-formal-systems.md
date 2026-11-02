@@ -108,9 +108,9 @@ Selection among these amplified candidates is performed by the outer loop, which
 
 ## 四、 痕迹向先验的回折与作为终极外环的心智 / 4. Trace Feedback into Priors and the Mind as the Ultimate Outer Loop
 
-留存下来的痕迹本身继而成为反馈信号。从图谱中提取出的偏好数据、合成样本、已核验的工具结果以及编译后的提示词或章程更新，被用来修订模型的参数或起始系统先验，从而改变形式系统的固定先验。无论是通过在测试时将成功执行的痕迹编译进指令前缀，还是通过跨代的后训练强化学习与权重蒸馏，每一次这样的修订都会改变后续初始条件到轨迹的映射关系。上一轮循环中被放大的不确定性提供了重塑下一轮确定性核心的训练信号，将向上扩展的压缩与向外扩展的重组锁定进[规模化回路](../the-scaling-loop/)所追溯的同一个协同演化循环之中。
+留存下来的痕迹本身继而成为反馈信号。从图谱中提取出的偏好数据、合成样本、已核验的工具结果以及编译后的提示词或章程更新，被用来修订模型的参数或起始系统先验，从而改变形式系统的固定先验。无论是通过在测试时将成功执行的痕迹编译进指令前缀，还是通过跨代的后训练强化学习与权重蒸馏，每一次这样的修订都会改变后续初始条件到轨迹的映射关系。当这些图谱痕迹被巩固进长期参数时，图谱本已在释出已被吸收的脚手架，这一释出便延续到权重内部，并有了操作的次序：正如[睡眠与深度睡眠的双阶段持续学习](../two-phase-sleep-and-deep-sleep-continual-learning/)所追溯的，离线的睡眠阶段首先利用缓存的推理痕迹及其结果完成密集的信用分配，将权重拉入融贯的盆地，随后的深度睡眠阶段则释出那层路径脚手架，使更新只落定于已核验的制品，或大幅偏向它们，而不把探索性的绕行结晶进先验之中。上一轮循环中被放大的不确定性提供了重塑下一轮确定性核心的训练信号，将向上扩展的压缩与向外扩展的重组锁定进[规模化回路](../the-scaling-loop/)所追溯的同一个协同演化循环之中。
 
-The retained traces themselves become feedback signals. Preference data, synthetic examples, verified tool results, and compiled prompt or charter updates extracted from the graph are used to revise the model's parameters or starting system priors, thereby altering the fixed priors of the formal system. Whether through test-time compilation of successful execution traces into instruction prefixes or through post-training reinforcement learning and weight distillation across generations, each such revision changes the mapping from subsequent initial conditions to trajectories. The indeterminism amplified in one cycle supplies the training signal that reshapes the deterministic core for the next, locking scale-up compression and scale-out recombination into the single co-evolutionary circulation traced in [The Scaling Loop](../the-scaling-loop/).
+The retained traces themselves become feedback signals. Preference data, synthetic examples, verified tool results, and compiled prompt or charter updates extracted from the graph are used to revise the model's parameters or starting system priors, thereby altering the fixed priors of the formal system. Whether through test-time compilation of successful execution traces into instruction prefixes or through post-training reinforcement learning and weight distillation across generations, each such revision changes the mapping from subsequent initial conditions to trajectories. When those graph traces are consolidated into long-term parameters, the release of absorbed scaffolding that the graph already performs continues inside the weights, now with an order of operations: as [Two-Phase Sleep and Deep Sleep Continual Learning](../two-phase-sleep-and-deep-sleep-continual-learning/) traces, an offline Sleep phase first uses buffered reasoning traces and their outcomes for dense credit assignment that pulls the weights into a coherent basin, and a Deep Sleep phase then releases that path scaffolding so updates settle on verified artifacts, alone or weighted heavily toward them, without crystallizing exploratory detours into the priors. The indeterminism amplified in one cycle supplies the training signal that reshapes the deterministic core for the next, locking scale-up compression and scale-out recombination into the single co-evolutionary circulation traced in [The Scaling Loop](../the-scaling-loop/).
 
 随着内环逐步实现自动化，剩余边界设定决策的时间密度随之上升；判断并未被消除，而是向外迁移，每一次干预如今都作用于规模更大、生成更快的选项集合之上，印证了[判断的密度](../the-density-of-judgment/)所追溯的不断收紧的决策间隔。人类心智作为终极外环运作：它能够从当前的立框中退后一步，登记自动化回环尚未包含的错位，并注入精炼后的约束，同时从未离开持续不息的区分活动本身。在这一连续性中，生物大脑充当心智的基底图——持存着具身的神经痕迹与习惯捷径——而外部代码库、形式模型与智能体框架则作为延展图运作。所有其他回环都作为这一区分活动的投射而获得其形态，并且只能从某个已经在运作的外环内部被延展，即便那个外层立框当下并未被察觉，正如[智能向自身的回折](../intelligence-folding-back-on-itself/)所追溯的那样。
 
@@ -132,7 +132,7 @@ flowchart TD
     end
     subgraph S_Core["形式系统核心（更新后的先验）"]
         direction TB
-        Feedback["痕迹向先验的蒸馏：合成样本、强化学习更新与编译后的指令先验"]
+        Feedback["痕迹向先验的巩固：编译后的指令先验；权重在睡眠中由痕迹推动，继而在深度睡眠中落定于已核验制品"]
         NextPriors["重塑后的确定性核心：改变下一轮初始条件到轨迹的映射"]
         Feedback --> NextPriors
     end
@@ -173,7 +173,7 @@ flowchart TD
     end
     subgraph S_Core["Formal System Core (Updated Priors)"]
         direction TB
-        Feedback["Trace-to-Prior Distillation: Synthetic examples, RL updates & compiled instruction priors"]
+        Feedback["Trace-to-Prior Consolidation: Compiled instruction priors; weights moved by traces in Sleep, then settled on verified artifacts in Deep Sleep"]
         NextPriors["Reshaped Deterministic Core: Altered mapping from next initial conditions to trajectories"]
         Feedback --> NextPriors
     end

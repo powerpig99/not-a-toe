@@ -8,9 +8,9 @@ Contemporary discussion of artificial intelligence almost invariably begins with
 
 ## 一、 向上扩展压缩既有的产物集 / 1. Scale-Up Compresses a Given Artifact Set
 
-向上扩展是预训练的工作。它把现有的知识产物——文本、代码、测量与轨迹——视为既定的语料，对其作层层递进的压缩。一代又一代的模型把同样的底层规律压得更紧、更全，残余的误差更少。经典的缩放定律文献几乎都在处理这一种操作。
+向上扩展是预训练的工作。它把现有的知识产物——文本、代码、测量与早先各轮验证过的成果——视为既定的语料，对其作层层递进的压缩。一代又一代的模型把同样的底层规律压得更紧、更全，残余的误差更少。经典的缩放定律文献几乎都在处理这一种操作。
 
-Scale-up is the work of pre-training. It treats the existing collection of knowledge artifacts—texts, code, measurements, and trajectories—as a given corpus and subjects that corpus to progressive compression. Successive generations of models pack the same underlying regularities more tightly, more completely, and with fewer residual errors. The classical scaling literature is almost entirely concerned with this operation.
+Scale-up is the work of pre-training. It treats the existing collection of knowledge artifacts—texts, code, measurements, and the outcomes earlier rounds verified—as a given corpus and subjects that corpus to progressive compression. Successive generations of models pack the same underlying regularities more tightly, more completely, and with fewer residual errors. The classical scaling literature is almost entirely concerned with this operation.
 
 Kaplan 等人（2020）拟合出的指数，鼓励这个领域让参数增长得比数据快。Hoffmann 等人（2022）随后修正了这种分配，表明算力最优的训练大约需要每个参数配二十个词元，两者应当同步增长。后来的工作把整个生命周期的推理成本也算进来，进一步细化了这幅图景：一旦模型要被调用数十亿次，深度过训练的较小模型反而更可取。混合专家架构又引入了一层区分：总参数量决定能容纳多少痕迹规律，激活参数与有效深度则决定模型在单次前向传递中能撑起多长的因果链。这些争论都还在向上扩展的范围之内。它们问的是如何最好地压缩一份给定的产物集，还没有问这份集合本身如何扩张。
 
@@ -22,9 +22,9 @@ As [Lossless Knowledge of an Open Field Is Incoherent](../lossless-knowledge-of-
 
 ## 二、 向外扩展重组出前所未有的构型 / 2. Scale-Out Recombines into Artifacts That Never Appeared
 
-当压缩后的表征进入后训练、长程强化学习与真实世界的交互压力之下，向外扩展便开始了。预训练权重中受控的有损性留下了生成余裕，使模型不再只是检索或插值，而是以更高的分辨率把碎片重新拼合，生成原始训练分布中从未出现过的候选构型。这些新构型——合成数据、提纯的偏好信号、成功的环境轨迹与应用日志——经筛选留存后，重新注入数据管线。产物集由此不再静止。每一次经检验的重组，都在扩大下一轮向上扩展要去压得更紧的那份集合。
+当压缩后的表征进入后训练、长程强化学习与真实世界的交互压力之下，向外扩展便开始了。预训练权重中受控的有损性留下了生成余裕，使模型不再只是检索或插值，而是以更高的分辨率把碎片重新拼合，生成原始训练分布中从未出现过的候选构型。在通行做法中，这些新构型——合成数据、提纯的偏好信号、成功的环境轨迹与应用日志——经筛选留存后，重新注入数据管线。然而，遍历路径与路径末端的已验证成果各司其职：轨迹在搜寻解答时引导信用分配，而若把路径本身当作巩固目标留存下来，则会把某一次特定的遍历冻结进后续训练所要压缩的内容，这正是[睡眠与深度睡眠的双阶段持续学习](../two-phase-sleep-and-deep-sleep-continual-learning/)所追溯的边界。遍历路径在这一步完成后即予释出，继续向前传递的便是已验证的成果。正因为经过验证的内容重新汇入，产物集不再静止：每一次经过验证的重组，都在扩大下一轮向上扩展要去压得更紧、下一轮向外扩展要据以踏出新轨迹的那份集合。
 
-Scale-out begins once the compressed representation is placed under the pressure of post-training, long-horizon reinforcement learning, and real-world interaction. Controlled lossiness in the pre-trained weights leaves the generative slack through which the model ceases merely retrieving or interpolating and instead reassembles fragments at higher resolution into candidate configurations that never appeared in the original training distribution. Those novel configurations—synthetic data, refined preference signals, successful environment trajectories, and application logs—are then selectively retained and re-injected into the data pipeline. The artifact set therefore ceases to be static. Every verified recombination enlarges the collection that the next scale-up cycle will compress more tightly.
+Scale-out begins once the compressed representation is placed under the pressure of post-training, long-horizon reinforcement learning, and real-world interaction. Controlled lossiness in the pre-trained weights leaves the generative slack through which the model ceases merely retrieving or interpolating and instead reassembles fragments at higher resolution into candidate configurations that never appeared in the original training distribution. In current practice, those novel configurations—synthetic data, refined preference signals, successful environment trajectories, and application logs—are selectively retained and re-injected into the data pipeline. Yet a traversal path and the verified outcome at its end do different jobs: the trajectory guides credit assignment while a solution is being found, whereas keeping the path itself as the consolidation target freezes a particular traversal into what later training compresses, the boundary traced in [Two-Phase Sleep and Deep Sleep Continual Learning](../two-phase-sleep-and-deep-sleep-continual-learning/). Releasing the traversal path once its step is done leaves the verified outcomes to carry forward. Because what is verified re-enters, the artifact set ceases to be static: every verified recombination enlarges the collection that the next scale-up cycle will compress more tightly and that the next scale-out will walk fresh trajectories against.
 
 两个过程构成相互咬合的反馈回路：更紧的压缩产出更干净的候选续写，改善后训练；更高分辨率的重组产出更丰富的产物，扩展接下来的预训练。[看似AI的强化学习，实为人类的自我强化学习](../self-rl-for-humans/)把因果坐标守得很清楚：合成数据并不是一条自己吞吃尾巴的蛇，而是经由人类的区分——选择、过滤、偏好、评估与目标的重新设计——不断重塑的外化痕迹余留。若把这片持续生成的场封存为一份固定存量，就落入了[数据是局部的，智能是分配的](../data-is-local-intelligence-is-allocated/)所追溯的那种冻结。
 
@@ -36,9 +36,9 @@ A contemporaneous experiment makes the slack visible. GLM-5.3 held the same base
 
 ## 三、 孤立的旋钮把一个阶段冻结为整体 / 3. Isolated Dials Freeze One Phase as the Whole
 
-每一场技术争论，都把某个局部机制当成脱离循环的独立环节来考察。关于每参数词元比例或 Chinchilla 最优性的争论，处理的是压缩内部的效率。关于稀疏性、激活参数与总参数的争论，处理的是痕迹存储容量与多步推演深度之间的内部取舍。关于推理时算力或刻意过训练的讨论，处理的是部署的经济形态。即便是对后训练与长程强化学习的强调，虽然指出了一个此前未充分扩展的旋钮，也仍倾向于把这个旋钮当作独立变量，而不是一个持续循环系统中的一个阶段。每一场讨论在它所选的框架内都成立，但那个框架本身，只是一个运动整体的一帧定格。把这样一块局部的天花板安放为进步的轨迹，就是[封闭的假设把复利挤成 S 曲线](../closed-assumptions-squeeze-compounding-into-s-curves/)所追溯的那种冻结。
+每一场技术争论，都把某个局部机制当成脱离循环的独立环节来考察。关于每参数词元比例或 Chinchilla 最优性的争论，处理的是压缩内部的效率。关于稀疏性、激活参数与总参数的争论，处理的是痕迹存储容量与多步推演深度之间的内部取舍。关于推理时算力或刻意过训练的讨论，处理的是部署的经济形态。即便是对后训练与长程强化学习的强调，虽然指出了一个此前未充分扩展的旋钮，也仍倾向于把这个旋钮当作独立变量，而不是一个持续循环系统中的一个阶段。在这个旋钮内部，把探索性轨迹当作永久目标留存下来、而不在这一步完成后将其释出，同样是把某一次遍历冻结成了边界。每一场讨论在它所选的框架内都成立，但那个框架本身，只是一个运动整体的一帧定格。把这样一块局部的天花板安放为进步的轨迹，就是[封闭的假设把复利挤成 S 曲线](../closed-assumptions-squeeze-compounding-into-s-curves/)所追溯的那种冻结。
 
-Each technical debate holds one local mechanism as if it were independent of the circulation. Debates over tokens-per-parameter ratios or Chinchilla optimality address the internal efficiency of compression. Arguments about sparsity and activated versus total parameters address the internal trade-off between trace storage capacity and multi-step traversal depth. Discussions of inference-time compute or deliberate over-training address the economic shape of deployment. Even the emphasis on post-training and long-horizon reinforcement learning, while identifying a previously under-scaled dial, still tends to treat that dial as an independent variable rather than as one phase of a continuously circulating system. Each conversation holds within its chosen frame, yet that frame is only a single still of a moving whole. Installing such a local ceiling as the trajectory of progress is the freeze traced in [Closed Assumptions Squeeze Compounding into S-Curves](../closed-assumptions-squeeze-compounding-into-s-curves/).
+Each technical debate holds one local mechanism as if it were independent of the circulation. Debates over tokens-per-parameter ratios or Chinchilla optimality address the internal efficiency of compression. Arguments about sparsity and activated versus total parameters address the internal trade-off between trace storage capacity and multi-step traversal depth. Discussions of inference-time compute or deliberate over-training address the economic shape of deployment. Even the emphasis on post-training and long-horizon reinforcement learning, while identifying a previously under-scaled dial, still tends to treat that dial as an independent variable rather than as one phase of a continuously circulating system. Within that dial, retaining exploratory trajectories as permanent targets rather than releasing them after their step freezes one traversal as the bound in the same way. Each conversation holds within its chosen frame, yet that frame is only a single still of a moving whole. Installing such a local ceiling as the trajectory of progress is the freeze traced in [Closed Assumptions Squeeze Compounding into S-Curves](../closed-assumptions-squeeze-compounding-into-s-curves/).
 
 ## 四、 判断重画边界 / 4. Judgment Redraws the Bound
 
@@ -52,7 +52,7 @@ Compute and architecture are instruments inside the loop. What redraws the loop'
 flowchart TD
     subgraph S_Up["向上扩展阶段（受容量约束的压缩）"]
         direction TB
-        A["当前产物集：文本、代码、测量与轨迹"]
+        A["当前产物集：文本、代码、测量与早先各轮验证过的成果"]
         U["预训练向上扩展：有限容量下更紧密的有损压缩"]
         W["模型权重：当前产物集余留的有限快照"]
         F["孤立旋钮的冻结：把单一快照或比例当作整个回路"]
@@ -95,7 +95,7 @@ Here [Beyond the Projection](../beyond-the-projection/) and [Lossless Knowledge 
 flowchart TD
     subgraph S_Up["Scale-Up Phase (Capacity-Bound Compression)"]
         direction TB
-        A["Current Artifact Set: Texts, code, measurements, and trajectories"]
+        A["Current Artifact Set: Texts, code, measurements, and outcomes earlier rounds verified"]
         U["Pre-Training Scale-Up: Tighter lossy compression under finite capacity"]
         W["Model Weights: Finite snapshot of residue from the current set"]
         F["Isolated-Dial Freeze: Holding one snapshot or ratio as the whole loop"]

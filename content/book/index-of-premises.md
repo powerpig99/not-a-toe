@@ -915,7 +915,7 @@ AI extinction arguments treat superintelligence as an uncontrollable cosmic even
 
 Overfitting treats dense memorization of training sets as generalized wisdom; high fidelity to past distributions collapses predictive capability on shifting frontiers.
 
-→ [过拟合作为追随者模式 / Overfitting as the Follower Mode](../../posts/overfitting-as-the-follower-mode/)
+→ [过拟合作为追随者模式 / Overfitting as the Follower Mode](../../posts/overfitting-as-the-follower-mode/) · [睡眠与深度睡眠的双阶段持续学习 / Two-Phase Sleep and Deep Sleep Continual Learning](../../posts/two-phase-sleep-and-deep-sleep-continual-learning/)
 
 ### 无我 / Anattā (Non-Self)
 `宗教 / Religious`

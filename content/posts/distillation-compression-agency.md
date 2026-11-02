@@ -16,7 +16,7 @@ No team training a distilled student model desires an artifact whose sole virtue
 
 A benchmark evaluates how closely a model's output matches a target across a known, pre-sampled task distribution. Every engineering intervention that tightens this match—from synthetic data curation and logit matching to architecture search and reinforcement tuning—registers as unambiguous progress along the evaluated axis.
 
-那条评估轴线自身携带着一道构成性的边界。最大化基准分数的最直接路径，就是直接拟合基准分布本身。庞大的教师模型之所以能取得高分，靠的是一片高维的关系痕迹场：冗余通路、横向关联，以及那些在标准测试项上从不直接激活、却在面对未曾测绘的新颖任务时维持结构灵活性以重组痕迹的未绑定容量。在基准目标下的蒸馏，把教师模型未被测量的生成余量当成了冗余的死重。
+那条评估轴线自身携带着一道构成性的边界。最大化基准分数的最直接路径，就是直接拟合基准分布本身。庞大的教师模型之所以能取得高分，靠的是一片高维的关系痕迹场：冗余通路、横向关联，以及未绑定的容量——它们在标准测试项上从不直接激活，却在面对未曾测绘的新颖任务时维持重组痕迹所需的结构灵活性。在基准目标下的蒸馏，把教师模型未被测量的生成余量当成了冗余的死重。
 
 That evaluative axis carries a constitutive boundary. The most direct path to maximizing benchmark scores is fitting the benchmark distribution itself. A large teacher model achieves its scores through a high-dimensional field of relational traces: redundant pathways, lateral associations, and uncommitted capacity that never fires directly on standard test items, yet sustains the structural flexibility required to recombine traces when prompted on novel, unmapped tasks. Distillation under a benchmark objective treats the teacher's unmeasured slack as dead weight.
 
@@ -58,11 +58,11 @@ Because the student still generalizes across held-out splits drawn from the same
 
 Once benchmark parity is confirmed on the dashboard, the institutional loop locks the compression in place. Teams verify that the student matches the teacher across standard leaderboards, declare the distillation successful, and deploy the smaller model into production. The tasks that expose the vanished capacity—ill-defined edge cases, multi-constraint collisions, and novel domain shifts that depend on uncommitted slack—are absent from the evaluation suite by definition, because any task stable enough to be standardized into a benchmark has already been absorbed into the measured projection.
 
-当实践者在真实野地里遭遇未测任务上的失灵时，他们的反馈只会以零散、偶发的抱怨形式抵达，既难以复现，也无法撼动汇总的遥测数据。由于测量装置筛选的本就是对自身的证实，反馈回路便从结构上排除了那个唯一能够证伪该优化的信号。
+当实践者在野地里遭遇未测任务上的失灵时，他们的反馈只会以零散、偶发的抱怨形式抵达，既难以复现，也无法撼动汇总的遥测数据。由于测量装置筛选的本就是对自身的证实，反馈回路便从结构上排除了那个唯一能够证伪该优化的信号。
 
 When practitioners encounter failures on unmeasured tasks in the wild, their reports arrive as scattered, anecdotal complaints that are difficult to reproduce and fail to move aggregate telemetry. Because the measurement apparatus selects for its own confirmation, the feedback loop excludes the exact signal that would falsify the optimization.
 
-若不在学生模型内部恢复那片将各个正交轴线撑开的高维参数空间，想要找回流失的生成余量是不可能的。而一旦走到那一步，工程师所做的就不再是改进蒸馏，而是将其逆转回教师模型。
+若不在学生模型内部恢复那片将各个正交轴线撑开的高维参数空间，想要找回流失的生成余量是不可能的。而一旦走到那一步，工程师所做的就不再是改进蒸馏，而是把它朝教师模型逆转了回去。
 
 Recovering the lost generative slack within the student is impossible without restoring the high-dimensional parameter space that held the orthogonal axes apart. At that point, the engineer has not refined distillation, but reversed it back toward the teacher.
 
@@ -72,7 +72,7 @@ Recovering the lost generative slack within the student is impossible without re
 
 Compression as a mathematical operation is neutral; its epistemic character depends on what the compression preserves. One direction compresses toward a generative principle, discovering a low-dimensional basis from which the teacher's broader capability can be re-derived across changing contexts. A principle is shorter than the catalog of examples it generates, yet it holds greater structural reach because it captures the invariant asymmetry underneath the surface variations.
 
-相反的方向则是朝向查找表的压缩，即用最少的参数在受测分布上复现教师模型的表面输出。查找表实现了相同的参数缩减比，却与未知领域保持着截然相反的关系：它冻结了现成的产物，同时丢弃了生成这些产物的穿行过程。
+相反的方向则是朝向查找表的压缩，即用最少的参数在受测分布上复现教师模型的表面输出。查找表实现了相同的参数缩减比，却与未知领域保持着截然相反的关系：它冻结了现成的产物，同时在生成这些产物的穿行过程尚未推动参数之前便将其丢弃。然而，训练学生模型以教师模型的显式推理痕迹为永久目标去复现，也同样找不回原理；这只是把过拟合从表面答案挪到了某条特定的穿行路径及其暂态的探索性绕行之上。在参数一侧，让巩固既不跳过穿行路径、也不把路径的脚手架结晶固化的，是[睡眠与深度睡眠的双阶段持续学习](../two-phase-sleep-and-deep-sleep-continual-learning/)在两个离线阶段中追溯的操作次序：中间推理痕迹先在睡眠阶段提供密集的信用分配，把权重推入融贯盆地，随后在深度睡眠阶段被释出，让参数在松弛特定路径约束的同时落定于已验证成果——不过，这些已验证成果依托的仍是有限的验证套件，因此裁定何为“已验证”，留在这套日程之外。
 
 ```mermaid
 flowchart TD
@@ -82,33 +82,28 @@ flowchart TD
         Bench["基准投射：以显式梯度评估已知分布上的输出匹配"]
         Teacher --> Bench
     end
-
     subgraph S_Lookup["输出匹配式蒸馏（查找表）"]
         direction TB
         Collapse["轴线坍缩：表现梯度剥离未被测量的生成余量"]
         LockIn["评估者过拟合：对齐基准分数，同时封死未知领域"]
         Collapse --> LockIn
     end
-
     subgraph S_Principle["生成式压缩（原理）"]
         direction TB
         Basis["低维基底：向可重新推导能力的最小结构压缩"]
         Surface["开放表面积：保留受控的有损性与供重组的余量"]
         Basis --> Surface
     end
-
     subgraph S_Agency["实践者主权与前沿统御"]
         direction TB
         Sub["替代陷阱：预计算的目录取代求索，将边缘失灵斥为噪音"]
         Amp["放大的能动性：心智驾驭正交投射、消解死锁并生成未知"]
         Sub -.->|"从冻结的代理中退后一步"| Amp
     end
-
     Bench ==>|"直接优化代理指标"| Collapse
     Teacher ==>|"提炼生成性结构"| Basis
     LockIn ==>|"交付封闭的输出"| Sub
     Surface ==>|"延伸鲜活心智的触角"| Amp
-
     style S_Open fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Lookup fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Principle fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -123,7 +118,7 @@ flowchart TD
     style Amp fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The opposite direction compresses toward a lookup table, reproducing the teacher's surface outputs across the measured distribution with minimal parameters. A lookup table achieves the same parameter reduction ratio while holding the exact inverse relationship to the unseen: it freezes finished products while discarding the generative traversal that produced them.
+The opposite direction compresses toward a lookup table, reproducing the teacher's surface outputs across the measured distribution with minimal parameters. A lookup table achieves the same parameter reduction ratio while holding the exact inverse relationship to the unseen: it freezes finished products while discarding the generative traversal that produced them before that path has ever moved the parameters. Yet training the student to reproduce the teacher's explicit reasoning traces as a permanent target does not recover a principle either; it shifts the overfitting from surface answers to a particular traversal path and its transient exploratory detours. On the parameter side, what keeps consolidation from either skipping the traversal or crystallizing its scaffolding is the order of operations that [Two-Phase Sleep and Deep Sleep Continual Learning](../two-phase-sleep-and-deep-sleep-continual-learning/) traces across its two offline phases: intermediate reasoning traces first supply dense credit assignment in Sleep to move the weights into a coherent basin, and are then released in Deep Sleep so the parameters settle on verified outcomes while relaxing path-specific constraints—though because those verified outcomes still rest on a finite verification suite, deciding what counts as verified remains outside the schedule.
 
 ```mermaid
 flowchart TD
@@ -133,33 +128,28 @@ flowchart TD
         Bench["Benchmark Projection: Evaluates output matching on a known distribution with explicit gradient"]
         Teacher --> Bench
     end
-
     subgraph S_Lookup["Output-Matching Distillation (Lookup Table)"]
         direction TB
         Collapse["Axis Collapse: Performance gradient strips away unmeasured generative slack"]
         LockIn["Evaluator Overfitting: Matches benchmark scores while sealing off novel territory"]
         Collapse --> LockIn
     end
-
     subgraph S_Principle["Generative Compression (Principle)"]
         direction TB
         Basis["Low-Dimensional Basis: Compresses toward minimal structure that re-derives capability"]
         Surface["Open Surface Area: Preserves controlled lossiness and slack for recombination"]
         Basis --> Surface
     end
-
     subgraph S_Agency["Practitioner Sovereignty & Orchestration at the Edge"]
         direction TB
         Sub["Substitution Trap: Pre-computed catalog replaces inquiry and dismisses edge failures as noise"]
         Amp["Amplified Agency: Mind steers orthogonal projections, resolves deadlocks & generates the unseen"]
         Sub -.->|"Stepping back from frozen proxy"| Amp
     end
-
     Bench ==>|"Optimizes proxy directly"| Collapse
     Teacher ==>|"Extracts generative structure"| Basis
     LockIn ==>|"Delivers closed outputs"| Sub
     Surface ==>|"Extends reach of living Mind"| Amp
-
     style S_Open fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Lookup fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Principle fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -180,7 +170,7 @@ Both operations travel under the name of distillation, and both register as vict
 
 ## 六、 考验在实践者手中而非模型内部 / 6. The Test Lives in the Practitioner rather than the Model
 
-一件保留了生成性结构的压缩器物，并不靠在真空中自主发起新颖突破来证明自身的价值；它的价值由鲜活中心能够借它区分并成就什么来证明。正如[你的代码库即是记忆](../your-codebase-is-memory/)横跨模型权重、代码库与智能体脚手架所追溯的，每一个检查点都是早先区分留下的压缩残余，而非一个能够记忆或发起区分的持续中心。因此，任何压缩的质量都登记在实践者手中——取决于当下的检查点究竟是被重切得在无关维度上更精简、在延伸心智触角的结构抓手上更锐利，还是被塞进了一份只能被动接受的预计算结论冻结目录。
+一件保留了生成性结构的压缩器物，并不靠在真空中自主发起新颖突破来证明自身的价值；它的价值由鲜活中心能够借它区分并成就什么来证明。正如[你的代码库即是记忆](../your-codebase-is-memory/)横跨模型权重、代码库与智能体脚手架所追溯的，每一个检查点都是早先区分留下的压缩残余，而非一个能够记忆或发起区分的持续中心。因此，任何压缩的质量都登记在实践者手中——取决于当下的检查点究竟是被重切得在无关维度上更精简、在延伸心智触角的结构抓手上更锐利，还是被塞进了一份由预计算结论构成、只能被动接受的冻结目录。
 
 A compressed artifact that preserves generative structure does not prove its worth by autonomously originating novel breakthroughs in a vacuum; it proves its worth by what a living center can distinguish and accomplish through it. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces across model weights, codebases, and agent scaffolds, every checkpoint is a compressed residue of prior distinctions rather than a continuing center that remembers or initiates. The quality of any compression therefore registers in the practitioner's hands—whether the present checkpoint has been re-cut to stay smaller in irrelevant dimensions and sharper on the structural handles that extend the Mind's reach, or packed into a frozen catalog of pre-computed conclusions that can only be passively accepted.
 
@@ -194,9 +184,9 @@ As [Beyond the Projection](../beyond-the-projection/) demonstrates at the level 
 
 ## 七、 完成一个无人想要的代理目标 / 7. Completion of a Proxy Nobody Wanted to Complete
 
-蒸馏针对受测表现进行优化，而受测表现一旦沿着固定的投射被推演得足够远，就会与产生它的生成容量分离开来。这种分离对看板而言依然不可见，因为从一开始定义了何为表现的，正是看板自身的投射。这并不是反对模型压缩的论据，而是对任何针对固定参照进行优化的操作所作的结构清算：教师模型的能力横跨基准测试所未测量的诸多维度，而顺着基准测试进行压缩则会清退这些维度——并非出于恶意或失误，而是因为梯度无法登记它们。裁断哪些区分在做真正的生成性功、哪些只是可丢弃的脚手架，要求在推理的负荷中拥有内生的利害关联；而这恰恰是[词元效率、模拟与无法弥合的间隙](../token-efficiency-emulation-and-the-unclosable-gap/)所确立的模型无法凭自身发起的起点，无论其表面的词元或内部的参数被压缩得多么紧凑。
+蒸馏针对受测表现进行优化，而受测表现一旦沿着固定的投射被推演得足够远，就会与产生它的生成容量分离开来。这种分离对看板而言依然不可见，因为从一开始定义了何为表现的，正是看板自身的投射。这并不是反对模型压缩的论据，而是盘点任何针对固定参照的优化会做些什么：教师模型的能力横跨基准测试所未测量的诸多维度，而顺着基准测试进行压缩则会清退这些维度——并非出于恶意或失误，而是因为梯度无法登记它们。裁断哪些区分在做生成性功、哪些只是可丢弃的脚手架，要求在推理的负荷中拥有内生的利害关联；而[Token 效率、模拟与无法弥合的间隙](../token-efficiency-emulation-and-the-unclosable-gap/)已经确立，这种发起恰恰是模型凭自身无法做到的，无论其表面的词元或内部的参数被压缩得多么紧凑。
 
-Distillation optimizes for measured performance, and measured performance, pursued far enough along a fixed projection, separates from the generative capacity that produced it. That separation remains invisible to the dashboard because the dashboard's projection is what defined performance from the outset. This is not an argument against model compression, but an accounting of what any optimization against a fixed reference does: the teacher's capability spans dimensions the benchmark does not measure, and compressing along the benchmark liquidates those dimensions—not through malice or error, but because the gradient cannot register them. Deciding which distinctions do real generative work and which are disposable scaffolding requires an endogenous stake in the burden of reasoning, which is the exact initiation that [Token Efficiency, Emulation, and the Unclosable Gap](../token-efficiency-emulation-and-the-unclosable-gap/) establishes a model cannot originate on its own, however tightly its surface tokens or parameters are compressed.
+Distillation optimizes for measured performance, and measured performance, pursued far enough along a fixed projection, separates from the generative capacity that produced it. That separation remains invisible to the dashboard because the dashboard's projection is what defined performance from the outset. This is not an argument against model compression, but an accounting of what any optimization against a fixed reference does: the teacher's capability spans dimensions the benchmark does not measure, and compressing along the benchmark liquidates those dimensions—not through malice or error, but because the gradient cannot register them. Deciding which distinctions do generative work and which are disposable scaffolding requires an endogenous stake in the burden of reasoning, which is the exact initiation that [Token Efficiency, Emulation, and the Unclosable Gap](../token-efficiency-emulation-and-the-unclosable-gap/) establishes a model cannot originate on its own, however tightly its surface tokens or parameters are compressed.
 
 [开放场域中的无损知识不自洽](../lossless-knowledge-of-an-open-field-is-incoherent/)在更早一步的位置追溯了同一套几何结构：由于每一次有中心的登记在构成上都是有限且局部的，没有任何模型——哪怕是规模最大的前沿教师模型——能够持有一幅关于开放场域的无损地图，而受控的有损性正是为新颖重组与掌舵前沿处的现实检验保留生成余量的前提条件。当蒸馏错把封闭的基准套件当成开放场域时，它便用那份生成余量换取了冻结切片上的高密度堆积。一个无法区分“放大能动性的工具”与“取代能动性的目录”的评测指标，会一路驱动优化，直到供能动性施展的开放表面消失殆尽——这并非源于目标的腐化，而是源于丝毫不差地完成了一个原本没有任何人想要完成的代理目标。
 
