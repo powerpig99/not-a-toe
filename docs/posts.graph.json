@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-02T18:32:26.871Z",
+    "generated_at": "2026-11-02T20:17:05.078Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -32,7 +32,7 @@
       "content/posts/beyond-the-hundred-trillion-horizon.md": "3c63e3e17823",
       "content/posts/beyond-the-projection.md": "78576807063b",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "db1b5db3be64",
-      "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md": "af1221fcdd73",
+      "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md": "71b9bb7f431d",
       "content/posts/causality-all-the-way.md": "08a8a20f59ec",
       "content/posts/causality-and-the-irreducible-prior.md": "c26acfab7c66",
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "3216bed66187",
@@ -67,10 +67,10 @@
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "6ef0fd1e62bc",
       "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "434ad917ad64",
       "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "b2e4aff56800",
-      "content/posts/dimensions-are-projections.md": "3a4d4dbf38f9",
+      "content/posts/dimensions-are-projections.md": "b71f1f00cf54",
       "content/posts/distillation-compression-agency.md": "8be4ecf97ac2",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "b64fa4420bd4",
-      "content/posts/dynamic-resnet-of-skill-loops.md": "85f7b34ff7d4",
+      "content/posts/dynamic-resnet-of-skill-loops.md": "baf38b64137d",
       "content/posts/e-shi-feng-bi-de-shan.md": "088dfadee5ac",
       "content/posts/efficiency-without-differentiation.md": "3240d0296338",
       "content/posts/emotional-support-as-causal-interference.md": "37673ac9a9a2",
@@ -100,7 +100,7 @@
       "content/posts/grok-420-framework-drift.md": "0d7bd6b1fcfd",
       "content/posts/guan-yu-gui-yin.md": "1a6ebddd8eab",
       "content/posts/guidance-is-not-ownership.md": "508e8c60e3d5",
-      "content/posts/handing-off-residue.md": "03450f1e9d68",
+      "content/posts/handing-off-residue.md": "54641f5f6655",
       "content/posts/hardness-is-not-inherent-in-the-action.md": "a3edf37fad3f",
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "e145bfea5ec3",
       "content/posts/hassabis-einstein-test.md": "a19b4afc58f5",
@@ -120,10 +120,10 @@
       "content/posts/intelligence-folding-back-on-itself.md": "f36f2690c329",
       "content/posts/intelligence-traps-itself.md": "533c6e1e356a",
       "content/posts/judgment-is-not-a-stock.md": "9526af861c78",
-      "content/posts/learned-boundaries-and-the-given-rate.md": "aaa5b463dd25",
+      "content/posts/learned-boundaries-and-the-given-rate.md": "c94941dc12ba",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "b5bfd1bca0dc",
       "content/posts/looping-and-graphing.md": "0eb59f1b7f4a",
-      "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "80f062802ba9",
+      "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "6aede1374cdd",
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "ed8ae49b479f",
       "content/posts/machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence.md": "9eeba4ce94c6",
       "content/posts/manifesto-of-not-a-theory-of-everything.md": "2923afdf340b",
@@ -172,7 +172,7 @@
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "028a28b54a32",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "ef9ddfa2ce57",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "4f2725e3fcd4",
-      "content/posts/precision-and-resolution.md": "79dc0ad73381",
+      "content/posts/precision-and-resolution.md": "5d2d965e82b1",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "b11dea0379ff",
       "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "2942b85de8aa",
       "content/posts/price-as-utterance-understanding-as-trade.md": "74464ff48389",
@@ -239,14 +239,14 @@
       "content/posts/the-comment-is-not-the-code.md": "252f6ac85bf0",
       "content/posts/the-comparison-that-relocates-the-cause.md": "645a2a0c87de",
       "content/posts/the-compassion-is-the-mechanism-of-obscuration.md": "a15cd799ad26",
-      "content/posts/the-continuum-is-a-modeling-convenience.md": "861d512575f6",
+      "content/posts/the-continuum-is-a-modeling-convenience.md": "fccaca4089ee",
       "content/posts/the-continuum-of-the-fold.md": "5bf4f9a847f7",
       "content/posts/the-coordinators-category-error.md": "cacce30b5e40",
       "content/posts/the-cut-moves-but-never-vanishes.md": "c718d57ca5a7",
       "content/posts/the-defining-seat.md": "19cac4ee1b14",
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "4c7791c6ed81",
       "content/posts/the-density-of-judgment.md": "824c87f92b0a",
-      "content/posts/the-descent-that-doesnt-know-where-its-going.md": "9d0368039437",
+      "content/posts/the-descent-that-doesnt-know-where-its-going.md": "9bb0244423b3",
       "content/posts/the-deterministic-machine.md": "fbf2680f40d1",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "57a85b713c5f",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "0c3fcdc7e58d",
@@ -286,7 +286,7 @@
       "content/posts/the-illusion-of-distance-and-the-dual-ruler.md": "6232766ba174",
       "content/posts/the-illusion-of-free-intelligence.md": "d744917714ec",
       "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "28d2c9ecb890",
-      "content/posts/the-illusion-of-multi-agent-collaboration.md": "4841d10e293d",
+      "content/posts/the-illusion-of-multi-agent-collaboration.md": "cc51c6bb6e4f",
       "content/posts/the-illusion-of-the-shared-sandbox.md": "f20e733d6ceb",
       "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "d7248404a3e5",
       "content/posts/the-illusion-of-the-unmediated.md": "66864d0c8594",
@@ -407,7 +407,7 @@
       "content/posts/what-always-listens-cannot-originate.md": "1926e8518566",
       "content/posts/what-cannot-be-kept.md": "230c81faa1f9",
       "content/posts/what-hinton-failed-to-understand.md": "5b9aba9df3f3",
-      "content/posts/what-information-is.md": "2d0ecda0a4ef",
+      "content/posts/what-information-is.md": "16f3605a8fba",
       "content/posts/what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination.md": "f8dc08af8894",
       "content/posts/what-works-is-the-belief.md": "61bc84ba56e2",
       "content/posts/whatever-is-one-prompt-away.md": "4f83116ae3c6",
@@ -435,7 +435,7 @@
       "content/book/causality.md": "863b25c6333a",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "8d7153f99ee7",
+      "content/book/index-of-premises.md": "16ee59c9657e",
       "content/book/intelligence.md": "e80a45b06b6c",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -451,10 +451,10 @@
     },
     "stats": {
       "posts": 424,
-      "edges": 12934,
-      "unique_directed": 6365,
+      "edges": 12956,
+      "unique_directed": 6376,
       "missing_targets": 0,
-      "one_way": 1201,
+      "one_way": 1190,
       "isolated": 0,
       "posts_with_outbound": 424,
       "book_pages": 16,
@@ -1161,7 +1161,7 @@
       "path": "content/posts/architecture-of-recursive-distinction.md",
       "title": "递归区分的架构 / The Architecture of Recursive Distinction",
       "hash": "b94c7bee789f",
-      "in_degree": 0,
+      "in_degree": 11,
       "out_degree": 13,
       "links_out": [
         "the-continuum-is-a-modeling-convenience",
@@ -1290,12 +1290,13 @@
       "slug": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
       "path": "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md",
       "title": "递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems",
-      "hash": "af1221fcdd73",
+      "hash": "71b9bb7f431d",
       "in_degree": 18,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "no-system-can-be-kept-closed",
         "residual-control-recedes-to-the-edge",
+        "architecture-of-recursive-distinction",
         "looping-and-graphing",
         "on-demand-contexts-keep-coherence-at-one-step",
         "dynamic-resnet-of-skill-loops",
@@ -2325,9 +2326,9 @@
       "slug": "dimensions-are-projections",
       "path": "content/posts/dimensions-are-projections.md",
       "title": "维度即投影 / Dimensions Are Projections",
-      "hash": "3a4d4dbf38f9",
+      "hash": "b71f1f00cf54",
       "in_degree": 31,
-      "out_degree": 22,
+      "out_degree": 23,
       "links_out": [
         "not-a-toe-rewrite",
         "what-information-is",
@@ -2348,6 +2349,7 @@
         "the-model-never-becomes-a-second-edge",
         "your-codebase-is-memory",
         "the-fixed-map-and-the-repeated-trip",
+        "architecture-of-recursive-distinction",
         "the-vector-and-the-puzzle-of-projections",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "the-unclosable-trace"
@@ -2396,9 +2398,9 @@
       "slug": "dynamic-resnet-of-skill-loops",
       "path": "content/posts/dynamic-resnet-of-skill-loops.md",
       "title": "模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks",
-      "hash": "85f7b34ff7d4",
+      "hash": "baf38b64137d",
       "in_degree": 30,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "the-descent-that-doesnt-know-where-its-going",
         "beyond-the-projection",
@@ -2408,6 +2410,7 @@
         "your-codebase-is-memory",
         "learned-boundaries-and-the-given-rate",
         "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+        "architecture-of-recursive-distinction",
         "continuous-learning-as-expression-and-simulation",
         "the-illusion-of-multi-agent-collaboration",
         "the-density-of-judgment"
@@ -3142,9 +3145,9 @@
       "slug": "handing-off-residue",
       "path": "content/posts/handing-off-residue.md",
       "title": "交接残余 / Handing Off Residue",
-      "hash": "03450f1e9d68",
+      "hash": "54641f5f6655",
       "in_degree": 10,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "beyond-the-projection",
         "on-demand-contexts-keep-coherence-at-one-step",
@@ -3158,6 +3161,7 @@
         "dynamic-resnet-of-skill-loops",
         "learned-boundaries-and-the-given-rate",
         "two-phase-sleep-and-deep-sleep-continual-learning",
+        "architecture-of-recursive-distinction",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind"
       ]
     },
@@ -3756,9 +3760,9 @@
       "slug": "learned-boundaries-and-the-given-rate",
       "path": "content/posts/learned-boundaries-and-the-given-rate.md",
       "title": "学到的边界与给定的尺度 / Learned Boundaries and the Given Rate",
-      "hash": "aaa5b463dd25",
+      "hash": "c94941dc12ba",
       "in_degree": 15,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "precision-and-resolution",
         "tokens-and-the-observational-boundary",
@@ -3766,6 +3770,7 @@
         "a-living-external-cortex",
         "when-malfunction-is-scored-as-intelligence",
         "the-model-never-becomes-a-second-edge",
+        "architecture-of-recursive-distinction",
         "dynamic-resnet-of-skill-loops",
         "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
         "the-fixed-map-and-the-repeated-trip",
@@ -3840,9 +3845,9 @@
       "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
       "path": "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md",
       "title": "开放场域中的无损知识不自洽 / Lossless Knowledge of an Open Field Is Incoherent",
-      "hash": "80f062802ba9",
+      "hash": "6aede1374cdd",
       "in_degree": 29,
-      "out_degree": 28,
+      "out_degree": 29,
       "links_out": [
         "the-knowledge-problem-and-the-illusion-of-delegation",
         "the-scaling-loop",
@@ -3862,6 +3867,7 @@
         "the-reversal-of-verification",
         "causality-stays-at-the-edge-that-steers",
         "beyond-the-projection",
+        "architecture-of-recursive-distinction",
         "precision-and-resolution",
         "your-codebase-is-memory",
         "two-phase-sleep-and-deep-sleep-continual-learning",
@@ -5267,9 +5273,9 @@
       "slug": "precision-and-resolution",
       "path": "content/posts/precision-and-resolution.md",
       "title": "精度与分辨率 / Precision and Resolution",
-      "hash": "79dc0ad73381",
+      "hash": "5d2d965e82b1",
       "in_degree": 17,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "the-comment-is-not-the-code",
         "residual-control-recedes-to-the-edge",
@@ -5282,6 +5288,7 @@
         "the-sovereign-blinding",
         "fixed-by-nothing",
         "learned-boundaries-and-the-given-rate",
+        "architecture-of-recursive-distinction",
         "whatever-is-one-prompt-away",
         "clarity-isnt-a-state-you-arrive-at"
       ]
@@ -7120,9 +7127,9 @@
       "slug": "the-continuum-is-a-modeling-convenience",
       "path": "content/posts/the-continuum-is-a-modeling-convenience.md",
       "title": "连续性作为建模的权宜之计 / The Continuum is a Modeling Convenience",
-      "hash": "861d512575f6",
+      "hash": "fccaca4089ee",
       "in_degree": 12,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "demanding-a-toe-freezes-time-into-a-catalog",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -7132,6 +7139,7 @@
         "the-arithmetic-of-the-register",
         "beyond-the-projection",
         "your-codebase-is-memory",
+        "architecture-of-recursive-distinction",
         "the-black-and-white-sample-frame-and-the-extrapolated-universe"
       ]
     },
@@ -7316,13 +7324,14 @@
       "slug": "the-descent-that-doesnt-know-where-its-going",
       "path": "content/posts/the-descent-that-doesnt-know-where-its-going.md",
       "title": "不知去向何方的梯度下降 / The Descent That Doesn't Know Where It's Going",
-      "hash": "9d0368039437",
+      "hash": "9bb0244423b3",
       "in_degree": 5,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "sensing-before-interpretation",
         "chollet-intelligence-explosion-analysis",
         "dynamic-resnet-of-skill-loops",
+        "architecture-of-recursive-distinction",
         "learned-boundaries-and-the-given-rate",
         "the-irreducible-observer",
         "your-codebase-is-memory"
@@ -8324,9 +8333,9 @@
       "slug": "the-illusion-of-multi-agent-collaboration",
       "path": "content/posts/the-illusion-of-multi-agent-collaboration.md",
       "title": "多智能体协作的幻象 / The Illusion of Multi-Agent Collaboration",
-      "hash": "4841d10e293d",
+      "hash": "cc51c6bb6e4f",
       "in_degree": 17,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "what-always-listens-cannot-originate",
         "two-failures-of-trace",
@@ -8338,6 +8347,7 @@
         "dynamic-resnet-of-skill-loops",
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+        "architecture-of-recursive-distinction",
         "looping-and-graphing",
         "causality-stays-at-the-edge-that-steers",
         "the-model-never-becomes-a-second-edge"
@@ -11421,9 +11431,9 @@
       "slug": "what-information-is",
       "path": "content/posts/what-information-is.md",
       "title": "信息是什么 / What Information Is",
-      "hash": "2d0ecda0a4ef",
+      "hash": "16f3605a8fba",
       "in_degree": 26,
-      "out_degree": 31,
+      "out_degree": 32,
       "links_out": [
         "the-mark-and-the-act",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
@@ -11446,6 +11456,7 @@
         "abstraction-boundaries-and-the-moving-edge-of-reality",
         "dimensions-are-projections",
         "the-vector-and-the-puzzle-of-projections",
+        "architecture-of-recursive-distinction",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
         "the-generative-atlas-of-macroscopic-phenomena",
@@ -16559,6 +16570,18 @@
       "to": "residual-control-recedes-to-the-edge",
       "rel": "points_to",
       "label": "Essential Control Moves to the Edge"
+    },
+    {
+      "from": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "递归区分的架构"
+    },
+    {
+      "from": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "The Architecture of Recursive Distinction"
     },
     {
       "from": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
@@ -24260,6 +24283,12 @@
     },
     {
       "from": "dimensions-are-projections",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "递归区分的架构"
+    },
+    {
+      "from": "dimensions-are-projections",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "The Model Never Becomes a Second Edge"
@@ -24275,6 +24304,12 @@
       "to": "the-fixed-map-and-the-repeated-trip",
       "rel": "points_to",
       "label": "The Fixed Map and the Repeated Trip"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "The Architecture of Recursive Distinction"
     },
     {
       "from": "dimensions-are-projections",
@@ -24554,6 +24589,12 @@
     },
     {
       "from": "dynamic-resnet-of-skill-loops",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "递归区分的架构"
+    },
+    {
+      "from": "dynamic-resnet-of-skill-loops",
       "to": "learned-boundaries-and-the-given-rate",
       "rel": "points_to",
       "label": "Learned Boundaries and the Given Rate"
@@ -24563,6 +24604,12 @@
       "to": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
       "rel": "points_to",
       "label": "Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems"
+    },
+    {
+      "from": "dynamic-resnet-of-skill-loops",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "The Architecture of Recursive Distinction"
     },
     {
       "from": "dynamic-resnet-of-skill-loops",
@@ -29282,6 +29329,18 @@
     },
     {
       "from": "handing-off-residue",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "递归区分的架构"
+    },
+    {
+      "from": "handing-off-residue",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "The Architecture of Recursive Distinction"
+    },
+    {
+      "from": "handing-off-residue",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
       "label": "没有外部"
@@ -33734,6 +33793,18 @@
     },
     {
       "from": "learned-boundaries-and-the-given-rate",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "递归区分的架构"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "The Architecture of Recursive Distinction"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
       "to": "dynamic-resnet-of-skill-loops",
       "rel": "points_to",
       "label": "模块化反馈回路与动态残差网络"
@@ -34454,6 +34525,12 @@
     },
     {
       "from": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "递归区分的架构"
+    },
+    {
+      "from": "lossless-knowledge-of-an-open-field-is-incoherent",
       "to": "precision-and-resolution",
       "rel": "points_to",
       "label": "精度与分辨率"
@@ -34469,6 +34546,12 @@
       "to": "two-phase-sleep-and-deep-sleep-continual-learning",
       "rel": "points_to",
       "label": "睡眠与深度睡眠的双阶段持续学习"
+    },
+    {
+      "from": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "The Architecture of Recursive Distinction"
     },
     {
       "from": "lossless-knowledge-of-an-open-field-is-incoherent",
@@ -44588,6 +44671,12 @@
     },
     {
       "from": "precision-and-resolution",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "递归区分的架构"
+    },
+    {
+      "from": "precision-and-resolution",
       "to": "the-sovereign-blinding",
       "rel": "points_to",
       "label": "The Sovereign Blinding"
@@ -44603,6 +44692,12 @@
       "to": "learned-boundaries-and-the-given-rate",
       "rel": "points_to",
       "label": "Learned Boundaries and the Given Rate"
+    },
+    {
+      "from": "precision-and-resolution",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "The Architecture of Recursive Distinction"
     },
     {
       "from": "precision-and-resolution",
@@ -56558,6 +56653,12 @@
     },
     {
       "from": "the-continuum-is-a-modeling-convenience",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "递归区分的架构"
+    },
+    {
+      "from": "the-continuum-is-a-modeling-convenience",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
@@ -56567,6 +56668,12 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-continuum-is-a-modeling-convenience",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "The Architecture of Recursive Distinction"
     },
     {
       "from": "the-continuum-is-a-modeling-convenience",
@@ -57872,6 +57979,12 @@
     },
     {
       "from": "the-descent-that-doesnt-know-where-its-going",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "递归区分的架构"
+    },
+    {
+      "from": "the-descent-that-doesnt-know-where-its-going",
       "to": "learned-boundaries-and-the-given-rate",
       "rel": "points_to",
       "label": "学到的边界与给定的尺度"
@@ -57893,6 +58006,12 @@
       "to": "dynamic-resnet-of-skill-loops",
       "rel": "points_to",
       "label": "Modular Feedback Loops and Dynamic Residual Networks"
+    },
+    {
+      "from": "the-descent-that-doesnt-know-where-its-going",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "The Architecture of Recursive Distinction"
     },
     {
       "from": "the-descent-that-doesnt-know-where-its-going",
@@ -64394,6 +64513,12 @@
     },
     {
       "from": "the-illusion-of-multi-agent-collaboration",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "递归区分的架构"
+    },
+    {
+      "from": "the-illusion-of-multi-agent-collaboration",
       "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
       "rel": "points_to",
       "label": "Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence"
@@ -64403,6 +64528,12 @@
       "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
       "rel": "points_to",
       "label": "The Inversion of the Harness and the Sovereignty of the Driver's Seat"
+    },
+    {
+      "from": "the-illusion-of-multi-agent-collaboration",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "The Architecture of Recursive Distinction"
     },
     {
       "from": "the-illusion-of-multi-agent-collaboration",
@@ -85484,6 +85615,12 @@
     },
     {
       "from": "what-information-is",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "递归区分的架构"
+    },
+    {
+      "from": "what-information-is",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
       "label": "Abstraction Boundaries and the Moving Edge of Reality"
@@ -85499,6 +85636,12 @@
       "to": "the-vector-and-the-puzzle-of-projections",
       "rel": "points_to",
       "label": "The Vector and the Puzzle of Projections"
+    },
+    {
+      "from": "what-information-is",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "The Architecture of Recursive Distinction"
     },
     {
       "from": "what-information-is",
@@ -89724,7 +89867,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "8d7153f99ee7",
+        "hash": "16ee59c9657e",
         "out_degree": 424
       },
       {

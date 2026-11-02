@@ -29,12 +29,12 @@ flowchart TD
         Inward["向内细化：对内部推演步骤与回路转移施加更细的约束"]
         Outward["向外立框：拓宽边界条件、评估标准与回环嵌套"]
         Residual["敞开的残余边缘：溢出任何有限说明的未登记区分"]
-        Inward --> Residual
+        Inward -->|"相对于固定 θ 可闭合；所选签名仍面对残余边缘"| Residual
         Outward --> Residual
     end
     Trans ==>|"计算不可约性阻断静态预测"| Inward
     Trans ==>|"轨迹分岔要求边界迭代"| Outward
-    Residual -.->|"提供下一轮迭代的初始条件"| Init
+    Residual -.->|"在下一步被登记为新的初始条件"| Init
     style S_Formal fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Priors fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -62,12 +62,12 @@ flowchart TD
         Inward["Inward Specification: Finer constraints on inner derivation steps & circuit transitions"]
         Outward["Outward Framing: Wider boundary conditions, evaluation criteria & loop nesting"]
         Residual["Open Residual Margin: Unregistered distinctions escaping any finite account"]
-        Inward --> Residual
+        Inward -->|"Closes against fixed θ; chosen signature still faces the margin"| Residual
         Outward --> Residual
     end
     Trans ==>|"Computational irreducibility blocks static prediction"| Inward
     Trans ==>|"Trajectory divergence demands boundary iteration"| Outward
-    Residual -.->|"Supplies next iteration's initial conditions"| Init
+    Residual -.->|"Registered at the next step as new initial conditions"| Init
     style S_Formal fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Priors fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -78,9 +78,9 @@ flowchart TD
     style Residual fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-因此，无论向哪一个方向推进——无论是向内对推演步骤作更精细的界定，还是向外对边界约束作更宽广的立框——进一步的解释始终是可能且富有成效的，但永远不会完结。向内推进能够厘清特定回路转移或中间步骤在更窄签名下的行为；向外推进则能厘清更宽的任务拓扑、评估量表或制度目标如何制约当下的运行。每一步解释都会登记此前尚未显明的新区分，更新将要约束下一轮迭代的图谱，从而敞开一段刚才那次解释所未曾包含的残余边缘。这并非从无处之境俯瞰的系统模型，而是从特定回环当下可用的边界条件出发，在局部所观察到的递归系统的运作方式。
+因此，无论向哪一个方向推进——无论是向内对推演步骤作更精细的界定，还是向外对边界约束作更宽广的立框——进一步的解释始终是可能且富有成效的，但永远不会完结。若相对于单次传递中固定、有限的参考 `θ` 来衡量，向内的结构说明能够完整闭合；然而，向内推进去界定回路转移或中间步骤在更窄签名下如何运作，仍是选定一个在仅被部分登记的初始条件下运行的有限框架，而向外推进则是厘清更宽的任务拓扑、评估量表或制度目标如何制约当下的运行；这两个方向依然都要面对所选框架与心智在它之外所登记之物之间的开放余项，这正是[递归区分的架构](../architecture-of-recursive-distinction/)所追溯的内部目标残差与外部开放余项之分。每一步解释都会登记此前尚未显明的新区分，更新将要约束下一轮迭代的图谱，从而敞开一段刚才那次解释所未曾包含的残余边缘。这并非从无处之境俯瞰的系统模型，而是从特定回环当下可用的边界条件出发，在局部所观察到的递归系统的运作方式。
 
-Consequently, further explanation is always possible and fruitful in either direction—toward finer specification of an inner derivation or toward a wider framing of the outer constraints—yet never complete. Moving inward clarifies how specific circuit transitions or intermediate steps behave under a narrower signature; moving outward clarifies how the wider task topology, evaluation rubric, or institutional objective conditions the run. Each explanatory step registers distinctions that were not yet explicit, updates the graph that will constrain the next iteration, and thereby opens a further margin that was not contained in the explanation just given. This is not a systems model surveyed from nowhere, but how recursive systems operate as observed locally from the boundary conditions currently available to a given loop.
+Consequently, further explanation is always possible and fruitful in either direction—toward finer specification of an inner derivation or toward a wider framing of the outer constraints—yet never complete. Measured against the fixed, finite reference `θ` at a single pass, an inward structural account can close completely, yet moving inward to specify how circuit transitions or intermediate steps behave under a narrower signature still selects a finite frame running under partially registered initial conditions, while moving outward clarifies how the wider task topology, evaluation rubric, or institutional objective conditions the run; both directions still face the open remainder between the chosen frame and what the Mind registers beyond it, the separation of inner target residual from outer open remainder traced in [The Architecture of Recursive Distinction](../architecture-of-recursive-distinction/). Each explanatory step registers distinctions that were not yet explicit, updates the graph that will constrain the next iteration, and thereby opens a further margin that was not contained in the explanation just given. This is not a systems model surveyed from nowhere, but how recursive systems operate as observed locally from the boundary conditions currently available to a given loop.
 
 ## 二、 边界条件图与相对嵌套回环的生成 / 2. Boundary-Condition Graphs and the Emergence of Relatively Nested Loops
 
