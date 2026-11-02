@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-02T11:04:00.591Z",
+    "generated_at": "2026-11-02T12:19:23.427Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -55,6 +55,7 @@
       "content/posts/consciousness-never-appears-as-data-among-data.md": "90174c081cd1",
       "content/posts/constraints_are_ground.md": "578ff2fd47b5",
       "content/posts/context-engineering-essay.md": "5958a064ae49",
+      "content/posts/continuous-learning-as-expression-and-simulation.md": "0dcfdb47add0",
       "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "2a1afbcd283a",
       "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "6b2b7b30fcb5",
       "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "1f0177f4d89e",
@@ -432,8 +433,8 @@
       "content/book/causality.md": "863b25c6333a",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "69dbf6b51c86",
-      "content/book/intelligence.md": "4a8603da481f",
+      "content/book/index-of-premises.md": "55cfbaba32f7",
+      "content/book/intelligence.md": "2947e0709557",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
       "content/book/mathematics.md": "8f6d273c0db8",
@@ -447,22 +448,22 @@
       "content/book/tools-and-progress.md": "2a682044cc54"
     },
     "stats": {
-      "posts": 421,
-      "edges": 12758,
-      "unique_directed": 6277,
+      "posts": 422,
+      "edges": 12814,
+      "unique_directed": 6305,
       "missing_targets": 0,
-      "one_way": 1177,
+      "one_way": 1205,
       "isolated": 0,
-      "posts_with_outbound": 421,
+      "posts_with_outbound": 422,
       "book_pages": 16,
-      "book_edges": 1229,
-      "posts_reached_by_book": 421
+      "book_edges": 1233,
+      "posts_reached_by_book": 422
     }
   },
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 406
+      "in_degree": 407
     },
     {
       "slug": "beyond-the-projection",
@@ -474,15 +475,15 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 86
+      "in_degree": 87
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 84
+      "in_degree": 85
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 73
+      "in_degree": 74
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
@@ -513,12 +514,12 @@
       "in_degree": 40
     },
     {
-      "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "slug": "mistaking-the-expression-for-the-intelligence",
       "in_degree": 40
     },
     {
-      "slug": "mistaking-the-expression-for-the-intelligence",
-      "in_degree": 39
+      "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "in_degree": 40
     },
     {
       "slug": "production-consumption-and-the-minds-distinction",
@@ -683,7 +684,7 @@
       "path": "content/posts/a-living-external-cortex.md",
       "title": "活的外部皮层 / A Living External Cortex",
       "hash": "3ad51ecf5376",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 10,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1262,7 +1263,7 @@
       "path": "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md",
       "title": "递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems",
       "hash": "89b1283f7e9c",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 12,
       "links_out": [
         "no-system-can-be-kept-closed",
@@ -1998,6 +1999,46 @@
       ]
     },
     {
+      "id": "post:continuous-learning-as-expression-and-simulation",
+      "kind": "post",
+      "slug": "continuous-learning-as-expression-and-simulation",
+      "path": "content/posts/continuous-learning-as-expression-and-simulation.md",
+      "title": "持续学习作为表达与模拟 / Continuous Learning as Expression and Simulation",
+      "hash": "0dcfdb47add0",
+      "in_degree": 0,
+      "out_degree": 28,
+      "links_out": [
+        "two-phase-sleep-and-deep-sleep-continual-learning",
+        "openness-is-consistency",
+        "the-scaffolding-we-forget",
+        "learned-boundaries-and-the-given-rate",
+        "on-demand-contexts-keep-coherence-at-one-step",
+        "dynamic-resnet-of-skill-loops",
+        "a-living-external-cortex",
+        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+        "handing-off-residue",
+        "the-brain-does-not-backprop",
+        "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+        "the-density-of-judgment",
+        "the-comment-is-not-the-code",
+        "the-residue-and-the-free-variable",
+        "the-carry-that-cannot-be-named-inside-the-register",
+        "fixed-by-nothing",
+        "the-open-question-is-determinisms-demand",
+        "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+        "your-codebase-is-memory",
+        "what-always-listens-cannot-originate",
+        "the-orthogonal-refusal",
+        "token-efficiency-emulation-and-the-unclosable-gap",
+        "two-failures-of-trace",
+        "mistaking-the-expression-for-the-intelligence",
+        "self-rl-for-humans",
+        "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+        "the-presumption-of-agi-and-the-view-from-outside",
+        "intelligence-belongs-only-to-the-mind"
+      ]
+    },
+    {
       "id": "post:coordinate-systems-mind-and-degrees-of-freedom",
       "kind": "post",
       "slug": "coordinate-systems-mind-and-degrees-of-freedom",
@@ -2323,7 +2364,7 @@
       "path": "content/posts/dynamic-resnet-of-skill-loops.md",
       "title": "模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks",
       "hash": "16b8e364784c",
-      "in_degree": 28,
+      "in_degree": 29,
       "out_degree": 10,
       "links_out": [
         "the-descent-that-doesnt-know-where-its-going",
@@ -2798,7 +2839,7 @@
       "path": "content/posts/fixed-by-nothing.md",
       "title": "没有固定者的固定 / Fixed by Nothing",
       "hash": "e95461537de8",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 13,
       "links_out": [
         "the-deterministic-machine",
@@ -3068,7 +3109,7 @@
       "path": "content/posts/handing-off-residue.md",
       "title": "交接残余 / Handing Off Residue",
       "hash": "ea02d17b7c6d",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 12,
       "links_out": [
         "beyond-the-projection",
@@ -3504,7 +3545,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "智能只属于心智 / Intelligence Belongs Only to the Mind",
       "hash": "5656f412d172",
-      "in_degree": 84,
+      "in_degree": 85,
       "out_degree": 71,
       "links_out": [
         "curiosity-has-no-final-form",
@@ -3680,7 +3721,7 @@
       "path": "content/posts/learned-boundaries-and-the-given-rate.md",
       "title": "学到的边界与给定的尺度 / Learned Boundaries and the Given Rate",
       "hash": "f0abccb5b5f6",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 11,
       "links_out": [
         "precision-and-resolution",
@@ -3827,7 +3868,7 @@
       "path": "content/posts/machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence.md",
       "title": "机器智能作为人类智能的组合反馈回路 / Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence",
       "hash": "d69fda835993",
-      "in_degree": 31,
+      "in_degree": 32,
       "out_degree": 15,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
@@ -4034,7 +4075,7 @@
       "path": "content/posts/mistaking-the-expression-for-the-intelligence.md",
       "title": "错把表达当成智能 / Mistaking the Expression for the Intelligence",
       "hash": "cd7f0e87bc8e",
-      "in_degree": 39,
+      "in_degree": 40,
       "out_degree": 38,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -4204,7 +4245,7 @@
       "path": "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md",
       "title": "没有外部 / No Outside",
       "hash": "6cca4707b0cc",
-      "in_degree": 27,
+      "in_degree": 28,
       "out_degree": 25,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
@@ -4532,7 +4573,7 @@
       "path": "content/posts/on-demand-contexts-keep-coherence-at-one-step.md",
       "title": "按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step",
       "hash": "8fbd0a86eced",
-      "in_degree": 21,
+      "in_degree": 22,
       "out_degree": 12,
       "links_out": [
         "your-codebase-is-memory",
@@ -4720,7 +4761,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "开放即一致 / Openness Is Consistency",
       "hash": "75d18ddf339d",
-      "in_degree": 86,
+      "in_degree": 87,
       "out_degree": 83,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -5720,7 +5761,7 @@
       "path": "content/posts/self-rl-for-humans.md",
       "title": "看似AI的强化学习，实为人类的自我强化学习 / What Looks Like RL for AIs Is Self-RL for Humans",
       "hash": "fd8631ed95fd",
-      "in_degree": 29,
+      "in_degree": 30,
       "out_degree": 30,
       "links_out": [
         "complexity-obscures-emergence-as-the-act-of-mind",
@@ -6630,7 +6671,7 @@
       "path": "content/posts/the-brain-does-not-backprop.md",
       "title": "大脑不进行反向传播，而是正向传导 / The Brain Does Not Backprop, but Propagates",
       "hash": "b59318a8403b",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 12,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -6676,7 +6717,7 @@
       "path": "content/posts/the-carry-that-cannot-be-named-inside-the-register.md",
       "title": "进位无法在寄存器之内被命名 / The Carry That Cannot Be Named Inside the Register",
       "hash": "042276f47daa",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 9,
       "links_out": [
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
@@ -6955,7 +6996,7 @@
       "path": "content/posts/the-comment-is-not-the-code.md",
       "title": "注释不是代码 / The Comment Is Not the Code",
       "hash": "7e61766b88b6",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 11,
       "links_out": [
         "your-codebase-is-memory",
@@ -7202,7 +7243,7 @@
       "path": "content/posts/the-density-of-judgment.md",
       "title": "判断的密度 / The Density of Judgment",
       "hash": "824c87f92b0a",
-      "in_degree": 19,
+      "in_degree": 20,
       "out_degree": 13,
       "links_out": [
         "mistaking-the-expression-for-the-intelligence",
@@ -9277,7 +9318,7 @@
       "path": "content/posts/the-open-question-is-determinisms-demand.md",
       "title": "悬而未决是决定论的索求 / The Open Question Is Determinism's Demand",
       "hash": "48656561f081",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 10,
       "links_out": [
         "agency-does-not-arise",
@@ -9314,7 +9355,7 @@
       "path": "content/posts/the-orthogonal-refusal.md",
       "title": "正交的拒绝 / The Orthogonal Refusal",
       "hash": "f03239512cbc",
-      "in_degree": 23,
+      "in_degree": 24,
       "out_degree": 22,
       "links_out": [
         "the-question-that-installs-the-war",
@@ -9523,7 +9564,7 @@
       "path": "content/posts/the-presumption-of-agi-and-the-view-from-outside.md",
       "title": "AGI的预设与来自外部的视角 / The Presumption of AGI and the View from Outside",
       "hash": "293e24c3c99f",
-      "in_degree": 24,
+      "in_degree": 25,
       "out_degree": 26,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -9701,7 +9742,7 @@
       "path": "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md",
       "title": "真正稀缺的不是记忆，而是持续的重新追溯 / The Real Scarcity Is Not Memory, But Continuous Re-Tracing",
       "hash": "0d9ead92049c",
-      "in_degree": 19,
+      "in_degree": 20,
       "out_degree": 19,
       "links_out": [
         "looping-and-graphing",
@@ -9849,7 +9890,7 @@
       "path": "content/posts/the-residue-and-the-free-variable.md",
       "title": "残余与自由变量 / The Residue and the Free Variable",
       "hash": "a4209c9e6c5f",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 10,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
@@ -10091,7 +10132,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "遗忘的脚手架 / The Scaffolding We Forget",
       "hash": "13fd3782c5c9",
-      "in_degree": 73,
+      "in_degree": 74,
       "out_degree": 71,
       "links_out": [
         "the-extendable-horizon",
@@ -10949,7 +10990,7 @@
       "path": "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md",
       "title": "Token 效率、模拟与无法弥合的间隙 / Token Efficiency, Emulation, and the Unclosable Gap",
       "hash": "1be7c71de228",
-      "in_degree": 22,
+      "in_degree": 23,
       "out_degree": 23,
       "links_out": [
         "efficiency-without-differentiation",
@@ -11085,7 +11126,7 @@
       "path": "content/posts/two-failures-of-trace.md",
       "title": "器物是智能的表达，而非智能本身 / Artifacts Are Expressions of Intelligence, Not Intelligence Itself",
       "hash": "dc28155c0bc2",
-      "in_degree": 32,
+      "in_degree": 33,
       "out_degree": 34,
       "links_out": [
         "performative-hindsight-that-pretends-to-be-foresight",
@@ -11131,7 +11172,7 @@
       "path": "content/posts/two-phase-sleep-and-deep-sleep-continual-learning.md",
       "title": "睡眠与深度睡眠的双阶段持续学习 / Two-Phase Sleep and Deep Sleep Continual Learning",
       "hash": "ab5a465fb7bb",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 17,
       "links_out": [
         "learned-boundaries-and-the-given-rate",
@@ -11212,7 +11253,7 @@
       "path": "content/posts/what-always-listens-cannot-originate.md",
       "title": "总在倾听者无法发起 / What Always Listens Cannot Originate",
       "hash": "d75bba775726",
-      "in_degree": 30,
+      "in_degree": 31,
       "out_degree": 32,
       "links_out": [
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
@@ -11776,7 +11817,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "4c1bed0716c9",
-      "in_degree": 406,
+      "in_degree": 407,
       "out_degree": 13,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -21745,6 +21786,342 @@
     },
     {
       "from": "context-engineering-essay",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "睡眠与深度睡眠的双阶段持续学习"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "学到的边界与给定的尺度"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "Two-Phase Sleep and Deep Sleep Continual Learning"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "Learned Boundaries and the Given Rate"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "on-demand-contexts-keep-coherence-at-one-step",
+      "rel": "points_to",
+      "label": "按需语境将融贯保持在一步"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "dynamic-resnet-of-skill-loops",
+      "rel": "points_to",
+      "label": "模块化反馈回路与动态残差网络"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "a-living-external-cortex",
+      "rel": "points_to",
+      "label": "活的外部皮层"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "on-demand-contexts-keep-coherence-at-one-step",
+      "rel": "points_to",
+      "label": "On-Demand Contexts Keep Coherence at One Step"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "dynamic-resnet-of-skill-loops",
+      "rel": "points_to",
+      "label": "Modular Feedback Loops and Dynamic Residual Networks"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "a-living-external-cortex",
+      "rel": "points_to",
+      "label": "A Living External Cortex"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "没有外部"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "handing-off-residue",
+      "rel": "points_to",
+      "label": "交接残余"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "the-brain-does-not-backprop",
+      "rel": "points_to",
+      "label": "大脑不进行反向传播，而是正向传导"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+      "rel": "points_to",
+      "label": "递归形式系统中作为记忆与控制的边界条件图"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "the-density-of-judgment",
+      "rel": "points_to",
+      "label": "判断的密度"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
+      "rel": "points_to",
+      "label": "No Outside"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "handing-off-residue",
+      "rel": "points_to",
+      "label": "Handing Off Residue"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "the-brain-does-not-backprop",
+      "rel": "points_to",
+      "label": "The Brain Does Not Backprop, but Propagates"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+      "rel": "points_to",
+      "label": "Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "the-density-of-judgment",
+      "rel": "points_to",
+      "label": "The Density of Judgment"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "the-comment-is-not-the-code",
+      "rel": "points_to",
+      "label": "注释不是代码"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "the-residue-and-the-free-variable",
+      "rel": "points_to",
+      "label": "残余与自由变量"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "the-carry-that-cannot-be-named-inside-the-register",
+      "rel": "points_to",
+      "label": "进位无法在寄存器之内被命名"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "fixed-by-nothing",
+      "rel": "points_to",
+      "label": "没有固定者的固定"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "the-open-question-is-determinisms-demand",
+      "rel": "points_to",
+      "label": "悬而未决是决定论的索求"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "the-comment-is-not-the-code",
+      "rel": "points_to",
+      "label": "The Comment Is Not the Code"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "the-residue-and-the-free-variable",
+      "rel": "points_to",
+      "label": "The Residue and the Free Variable"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "the-carry-that-cannot-be-named-inside-the-register",
+      "rel": "points_to",
+      "label": "The Carry That Cannot Be Named Inside the Register"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "fixed-by-nothing",
+      "rel": "points_to",
+      "label": "Fixed by Nothing"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "the-open-question-is-determinisms-demand",
+      "rel": "points_to",
+      "label": "The Open Question Is Determinism's Demand"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "rel": "points_to",
+      "label": "真正稀缺的不是记忆，而是持续的重新追溯"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "总在倾听者无法发起"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "正交的拒绝"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "token-efficiency-emulation-and-the-unclosable-gap",
+      "rel": "points_to",
+      "label": "Token 效率、模拟与无法弥合的间隙"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "rel": "points_to",
+      "label": "The Real Scarcity Is Not Memory, But Continuous Re-Tracing"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "what-always-listens-cannot-originate",
+      "rel": "points_to",
+      "label": "What Always Listens Cannot Originate"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "The Orthogonal Refusal"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "token-efficiency-emulation-and-the-unclosable-gap",
+      "rel": "points_to",
+      "label": "Token Efficiency, Emulation, and the Unclosable Gap"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "器物是智能的表达，而非智能本身"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "错把表达当成智能"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "看似AI的强化学习，实为人类的自我强化学习"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "机器智能作为人类智能的组合反馈回路"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "AGI的预设与来自外部的视角"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "two-failures-of-trace",
+      "rel": "points_to",
+      "label": "Artifacts Are Expressions of Intelligence, Not Intelligence Itself"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the Expression for the Intelligence"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "What Looks Like RL for AIs Is Self-RL for Humans"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "The Presumption of AGI and the View from Outside"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
       "to": "intelligence-belongs-only-to-the-mind",
       "rel": "points_to",
       "label": "Intelligence Belongs Only to the Mind"
@@ -88541,8 +88918,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "69dbf6b51c86",
-        "out_degree": 421
+        "hash": "55cfbaba32f7",
+        "out_degree": 422
       },
       {
         "id": "book:intelligence",
@@ -88550,8 +88927,8 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "4a8603da481f",
-        "out_degree": 53
+        "hash": "2947e0709557",
+        "out_degree": 54
       },
       {
         "id": "book:knowledge-and-learning",
@@ -93930,6 +94307,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "continuous-learning-as-expression-and-simulation",
+        "rel": "collects",
+        "label": "持续学习作为表达与模拟 / Continuous Learning as Expression and Simulation"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "beyond-the-projection",
         "rel": "collects",
         "label": "超越投射 / Beyond the Projection"
@@ -93963,6 +94346,12 @@
         "to": "the-illusion-of-multi-agent-collaboration",
         "rel": "collects",
         "label": "多智能体协作的幻象 / The Illusion of Multi-Agent Collaboration"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "continuous-learning-as-expression-and-simulation",
+        "rel": "collects",
+        "label": "持续学习作为表达与模拟 / Continuous Learning as Expression and Simulation"
       },
       {
         "from": "book:index-of-premises",
@@ -94047,6 +94436,12 @@
         "to": "two-phase-sleep-and-deep-sleep-continual-learning",
         "rel": "collects",
         "label": "睡眠与深度睡眠的双阶段持续学习 / Two-Phase Sleep and Deep Sleep Continual Learning"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "continuous-learning-as-expression-and-simulation",
+        "rel": "collects",
+        "label": "持续学习作为表达与模拟 / Continuous Learning as Expression and Simulation"
       },
       {
         "from": "book:index-of-premises",
@@ -94401,6 +94796,12 @@
         "to": "two-phase-sleep-and-deep-sleep-continual-learning",
         "rel": "collects",
         "label": "睡眠与深度睡眠的双阶段持续学习 / Two-Phase Sleep and Deep Sleep Continual Learning"
+      },
+      {
+        "from": "book:intelligence",
+        "to": "continuous-learning-as-expression-and-simulation",
+        "rel": "collects",
+        "label": "持续学习作为表达与模拟 / Continuous Learning as Expression and Simulation"
       },
       {
         "from": "book:knowledge-and-learning",
