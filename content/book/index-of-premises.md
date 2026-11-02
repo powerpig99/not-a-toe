@@ -4108,11 +4108,11 @@ Analogical reasoning presumes shared structural metaphors imply identical mechan
 ### 推理词元模仿机制 / Reasoning Token Emulation
 `技术 / Technological`
 
-思维链蒸馏假定压缩中间词元即掌握了推演；模型模仿了分析推理的修辞节奏，却未触碰真正有所发现的认知过程。
+推理词元模仿与思维链蒸馏预设，模型通过生成或模仿显式的逐步中间词元即可习得并巩固多步推演，这在探索与生成期间提供密集信用分配、于答案获准前暴露中间矛盾并避开脆弱结果捷径时有用；它在此到达边界：在外部奖励下压缩或重放词元轨迹只塑造表层输出分布而不为模型生成内生利害，且一旦把暂时的探索脚手架永久编码进长期参数，权重便对特定遍历路径及其偶然绕行过拟合，阻碍后续周期在新证据要求循另一路径修正既有结论时做出更新。
 
-Chain-of-thought distillation assumes compressed scratchpads replicate genuine reasoning; models emulate the stylistic cadence of problem-solving without genuine epistemic discovery.
+Reasoning token emulation and chain-of-thought distillation presume that generating or imitating explicit step-by-step intermediate tokens is how a model acquires and consolidates multi-step reasoning, which is of use during exploration and generation in supplying dense credit assignment, exposing intermediate contradictions before an answer is accepted, and avoiding brittle outcome shortcuts; it reaches its boundary in that compressing or replaying token trajectories under external rewards shapes the surface output distribution without originating an endogenous stake in the model, and permanently encoding temporary exploratory scaffolding into long-term parameters overfits the weights to a particular traversal path and its incidental detours, obstructing later cycles when new evidence requires revising an earlier conclusion along a different path.
 
-→ [Token 效率、模拟与无法弥合的间隙 / Token Efficiency, Emulation, and the Unclosable Gap](../../posts/token-efficiency-emulation-and-the-unclosable-gap/)
+→ [Token 效率、模拟与无法弥合的间隙 / Token Efficiency, Emulation, and the Unclosable Gap](../../posts/token-efficiency-emulation-and-the-unclosable-gap/) · [睡眠与深度睡眠的双阶段持续学习 / Two-Phase Sleep and Deep Sleep Continual Learning](../../posts/two-phase-sleep-and-deep-sleep-continual-learning/)
 
 ### 运行框架解锁潜在能力 / The Harness Unlocks Latent Capability
 `技术 / Technological`
@@ -4535,7 +4535,7 @@ Stephen Covey's *The 3rd Alternative* holds that conflicting parties, through th
 
 The storehouse model presumes that memory deposits units of knowledge in a store and retrieves them as they were, which is of use in telling remembering from forgetting and in weighing what to memorize against what to look up; it reaches its boundary in that what appears as memory is the activity meeting its own residue, usable structure persists by being re-rendered under new load, and an inventory kept in the head shapes the next step no more than one kept outside until it is re-traced into the present configuration.
 
-→ [真正稀缺的不是记忆，而是持续的重新追溯 / The Real Scarcity Is Not Memory, But Continuous Re-Tracing](../../posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/) · [按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step](../../posts/on-demand-contexts-keep-coherence-at-one-step/) · [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/) · [交接残余 / Handing Off Residue](../../posts/handing-off-residue/)
+→ [真正稀缺的不是记忆，而是持续的重新追溯 / The Real Scarcity Is Not Memory, But Continuous Re-Tracing](../../posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/) · [按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step](../../posts/on-demand-contexts-keep-coherence-at-one-step/) · [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/) · [交接残余 / Handing Off Residue](../../posts/handing-off-residue/) · [睡眠与深度睡眠的双阶段持续学习 / Two-Phase Sleep and Deep Sleep Continual Learning](../../posts/two-phase-sleep-and-deep-sleep-continual-learning/)
 
 ### 结构性NPC错觉 / Structural NPC Illusion
 `哲学 / Philosophical`
@@ -5377,11 +5377,11 @@ Presumes that residual networks (`yₗ₊₁ = yₗ + F(yₗ, Wₗ)`) are merely
 ### 持续学习 / Continual Learning
 `技术 / Technological`
 
-持续学习预设，模型能在部署之后自行从不断到来的输入中继续学习，而不覆盖已经学到的东西，在说明为何参照须在测量期间保持不动、为何锚定于既有所持的修订能防止新模式覆盖旧模式时有用；它在此到达边界：何者算作意外、巩固可施加哪些算子、提交以何为准，都是外环给出并依结果修正的定义，回路内的判定是真实的，而把它读作模型自定其准则，便是外环淡出视野。
+持续学习预设，模型能在部署之后自行从不断到来的输入中继续学习、在吸收新任务的同时不覆盖或遗忘已经学到的内容，这在说明为何参照须在测量期间保持不动、为何锚定于既有所持的修订能防止新模式抹除旧有承重结构时有用；它在此到达边界：把不遗忘推向无差别存留会将过时或冲突的痕迹一并囤积而推高内部矛盾，选择性遗忘与保留同样必要，且何者算作矛盾或意外、巩固可施加哪些算子、提交须满足何种已验证成果，皆是外环给出并依结果持续修正的定义，回路内的判定是真实的，而把它读作模型自定其准则或收敛至无需再修订的终态，便是外环淡出视野。
 
-Continual learning presumes that a model can go on learning by itself from what arrives after deployment without overwriting what it has learned, which is of use in showing why a reference must hold still during measurement and why revision anchored to what was already held keeps a new pattern from overwriting it; it reaches its boundary in that what counts as surprise, which operators consolidation may apply, and what a commit must satisfy are definitions given at the outer loop and refined there by results, so that the determination inside the loop is real, while reading it as the model setting its own criteria is the outer loop dropping out of view.
+Continual learning presumes that a model can go on learning by itself from what arrives after deployment, absorbing new tasks without overwriting or forgetting what it has already learned, which is of use in showing why a reference must hold still during measurement and why revision anchored to what was already held keeps a new pattern from erasing load-bearing prior structure; it reaches its boundary in that turning non-forgetting into indiscriminate retention hoards outdated and conflicting traces that raise internal contradiction—making selective forgetting as necessary as retention—and what counts as contradiction or surprise, which operators consolidation may apply, and what verified outcome a commit must satisfy are definitions given at the outer loop and continually refined there by results, so that the determination inside the loop is real, while reading it as the model setting its own criteria or converging to a state beyond further revision is the outer loop dropping out of view.
 
-→ [学到的边界与给定的尺度 / Learned Boundaries and the Given Rate](../../posts/learned-boundaries-and-the-given-rate/)
+→ [学到的边界与给定的尺度 / Learned Boundaries and the Given Rate](../../posts/learned-boundaries-and-the-given-rate/) · [睡眠与深度睡眠的双阶段持续学习 / Two-Phase Sleep and Deep Sleep Continual Learning](../../posts/two-phase-sleep-and-deep-sleep-continual-learning/)
 
 ### 多智能体协作与涌现能动性 / Multi-Agent Collaboration and Emergent Agency
 `技术 / Technological`

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-02T00:02:38.328Z",
+    "generated_at": "2026-11-02T05:02:28.569Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -398,6 +398,7 @@
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "91487ce48c58",
       "content/posts/trusting-the-reader-is-the-last-overstep.md": "4fa6d46f4306",
       "content/posts/two-failures-of-trace.md": "dc28155c0bc2",
+      "content/posts/two-phase-sleep-and-deep-sleep-continual-learning.md": "ab5a465fb7bb",
       "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "1a6b64a4d111",
       "content/posts/war-revolution-and-the-fall-of-empires.md": "60c4a819c95d",
       "content/posts/what-always-listens-cannot-originate.md": "d75bba775726",
@@ -431,8 +432,8 @@
       "content/book/causality.md": "863b25c6333a",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "7e245dfe96fd",
-      "content/book/intelligence.md": "e7e22902edfc",
+      "content/book/index-of-premises.md": "a70b0ae2be6b",
+      "content/book/intelligence.md": "4a8603da481f",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
       "content/book/mathematics.md": "8f6d273c0db8",
@@ -446,22 +447,22 @@
       "content/book/tools-and-progress.md": "2a682044cc54"
     },
     "stats": {
-      "posts": 420,
-      "edges": 12694,
-      "unique_directed": 6246,
+      "posts": 421,
+      "edges": 12730,
+      "unique_directed": 6263,
       "missing_targets": 0,
-      "one_way": 1166,
+      "one_way": 1183,
       "isolated": 0,
-      "posts_with_outbound": 420,
+      "posts_with_outbound": 421,
       "book_pages": 16,
-      "book_edges": 1224,
-      "posts_reached_by_book": 420
+      "book_edges": 1228,
+      "posts_reached_by_book": 421
     }
   },
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 405
+      "in_degree": 406
     },
     {
       "slug": "beyond-the-projection",
@@ -473,15 +474,15 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 85
+      "in_degree": 86
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 83
+      "in_degree": 84
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 72
+      "in_degree": 73
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
@@ -533,7 +534,7 @@
     },
     {
       "slug": "the-reversal-of-verification",
-      "in_degree": 35
+      "in_degree": 36
     },
     {
       "slug": "a-creation-cannot-replace-its-source",
@@ -682,7 +683,7 @@
       "path": "content/posts/a-living-external-cortex.md",
       "title": "活的外部皮层 / A Living External Cortex",
       "hash": "8f68982aa3c3",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 9,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -2282,7 +2283,7 @@
       "path": "content/posts/distillation-compression-agency.md",
       "title": "蒸馏、压缩与能动性 / Distillation Chooses What to Lose",
       "hash": "a69508711063",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 4,
       "links_out": [
         "your-codebase-is-memory",
@@ -2318,7 +2319,7 @@
       "path": "content/posts/dynamic-resnet-of-skill-loops.md",
       "title": "模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks",
       "hash": "393401cefcd6",
-      "in_degree": 27,
+      "in_degree": 28,
       "out_degree": 9,
       "links_out": [
         "the-descent-that-doesnt-know-where-its-going",
@@ -3062,7 +3063,7 @@
       "path": "content/posts/handing-off-residue.md",
       "title": "交接残余 / Handing Off Residue",
       "hash": "b6992d6e7219",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 11,
       "links_out": [
         "beyond-the-projection",
@@ -3497,7 +3498,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "智能只属于心智 / Intelligence Belongs Only to the Mind",
       "hash": "5656f412d172",
-      "in_degree": 83,
+      "in_degree": 84,
       "out_degree": 71,
       "links_out": [
         "curiosity-has-no-final-form",
@@ -3673,7 +3674,7 @@
       "path": "content/posts/learned-boundaries-and-the-given-rate.md",
       "title": "学到的边界与给定的尺度 / Learned Boundaries and the Given Rate",
       "hash": "f0abccb5b5f6",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 11,
       "links_out": [
         "precision-and-resolution",
@@ -3755,7 +3756,7 @@
       "path": "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md",
       "title": "开放场域中的无损知识不自洽 / Lossless Knowledge of an Open Field Is Incoherent",
       "hash": "a8708cb60725",
-      "in_degree": 26,
+      "in_degree": 27,
       "out_degree": 26,
       "links_out": [
         "the-knowledge-problem-and-the-illusion-of-delegation",
@@ -3819,7 +3820,7 @@
       "path": "content/posts/machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence.md",
       "title": "机器智能作为人类智能的组合反馈回路 / Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence",
       "hash": "d69fda835993",
-      "in_degree": 30,
+      "in_degree": 31,
       "out_degree": 15,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
@@ -4524,7 +4525,7 @@
       "path": "content/posts/on-demand-contexts-keep-coherence-at-one-step.md",
       "title": "按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step",
       "hash": "5b8efe4584ea",
-      "in_degree": 20,
+      "in_degree": 21,
       "out_degree": 11,
       "links_out": [
         "your-codebase-is-memory",
@@ -4711,7 +4712,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "开放即一致 / Openness Is Consistency",
       "hash": "75d18ddf339d",
-      "in_degree": 85,
+      "in_degree": 86,
       "out_degree": 83,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -4832,7 +4833,7 @@
       "path": "content/posts/overfitting-as-the-follower-mode.md",
       "title": "过拟合作为追随者模式 / Overfitting as the Follower Mode",
       "hash": "91e87126c0bd",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 8,
       "links_out": [
         "the-descent-that-doesnt-know-where-its-going",
@@ -6619,7 +6620,7 @@
       "path": "content/posts/the-brain-does-not-backprop.md",
       "title": "大脑不进行反向传播，而是正向传导 / The Brain Does Not Backprop, but Propagates",
       "hash": "b59318a8403b",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 12,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -9690,7 +9691,7 @@
       "path": "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md",
       "title": "真正稀缺的不是记忆，而是持续的重新追溯 / The Real Scarcity Is Not Memory, But Continuous Re-Tracing",
       "hash": "cf8b22820540",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 18,
       "links_out": [
         "looping-and-graphing",
@@ -9960,7 +9961,7 @@
       "path": "content/posts/the-reversal-of-verification.md",
       "title": "验证的倒置 / The Reversal of Verification",
       "hash": "d8eedc3f8076",
-      "in_degree": 35,
+      "in_degree": 36,
       "out_degree": 9,
       "links_out": [
         "openness-is-consistency",
@@ -10079,7 +10080,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "遗忘的脚手架 / The Scaffolding We Forget",
       "hash": "13fd3782c5c9",
-      "in_degree": 72,
+      "in_degree": 73,
       "out_degree": 71,
       "links_out": [
         "the-extendable-horizon",
@@ -10936,7 +10937,7 @@
       "path": "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md",
       "title": "Token 效率、模拟与无法弥合的间隙 / Token Efficiency, Emulation, and the Unclosable Gap",
       "hash": "6609b42fad1f",
-      "in_degree": 21,
+      "in_degree": 22,
       "out_degree": 22,
       "links_out": [
         "efficiency-without-differentiation",
@@ -11108,6 +11109,35 @@
         "climbing-does-not-leave-the-ground",
         "technology-is-residual-of-human-compounding",
         "a-creation-cannot-replace-its-source"
+      ]
+    },
+    {
+      "id": "post:two-phase-sleep-and-deep-sleep-continual-learning",
+      "kind": "post",
+      "slug": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "path": "content/posts/two-phase-sleep-and-deep-sleep-continual-learning.md",
+      "title": "睡眠与深度睡眠的双阶段持续学习 / Two-Phase Sleep and Deep Sleep Continual Learning",
+      "hash": "ab5a465fb7bb",
+      "in_degree": 0,
+      "out_degree": 17,
+      "links_out": [
+        "learned-boundaries-and-the-given-rate",
+        "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+        "openness-is-consistency",
+        "token-efficiency-emulation-and-the-unclosable-gap",
+        "the-scaffolding-we-forget",
+        "overfitting-as-the-follower-mode",
+        "distillation-compression-agency",
+        "your-codebase-is-memory",
+        "a-living-external-cortex",
+        "handing-off-residue",
+        "on-demand-contexts-keep-coherence-at-one-step",
+        "dynamic-resnet-of-skill-loops",
+        "the-brain-does-not-backprop",
+        "the-reversal-of-verification",
+        "lossless-knowledge-of-an-open-field-is-incoherent",
+        "intelligence-belongs-only-to-the-mind",
+        "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence"
       ]
     },
     {
@@ -11733,7 +11763,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "9d89541301ce",
-      "in_degree": 405,
+      "in_degree": 406,
       "out_degree": 12,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -82750,6 +82780,222 @@
       "label": "A Creation Cannot Replace Its Source"
     },
     {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "学到的边界与给定的尺度"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "Learned Boundaries and the Given Rate"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "rel": "points_to",
+      "label": "真正稀缺的不是记忆，而是持续的重新追溯"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "rel": "points_to",
+      "label": "The Real Scarcity Is Not Memory, But Continuous Re-Tracing"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "token-efficiency-emulation-and-the-unclosable-gap",
+      "rel": "points_to",
+      "label": "Token 效率、模拟与无法弥合的间隙"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "token-efficiency-emulation-and-the-unclosable-gap",
+      "rel": "points_to",
+      "label": "Token Efficiency, Emulation, and the Unclosable Gap"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "overfitting-as-the-follower-mode",
+      "rel": "points_to",
+      "label": "过拟合作为追随者模式"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "distillation-compression-agency",
+      "rel": "points_to",
+      "label": "蒸馏、压缩与能动性"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "overfitting-as-the-follower-mode",
+      "rel": "points_to",
+      "label": "Overfitting as the Follower Mode"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "distillation-compression-agency",
+      "rel": "points_to",
+      "label": "Distillation Chooses What to Lose"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "token-efficiency-emulation-and-the-unclosable-gap",
+      "rel": "points_to",
+      "label": "Token 效率、模拟与无法弥合的间隙"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "token-efficiency-emulation-and-the-unclosable-gap",
+      "rel": "points_to",
+      "label": "Token Efficiency, Emulation, and the Unclosable Gap"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "a-living-external-cortex",
+      "rel": "points_to",
+      "label": "活的外部皮层"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "handing-off-residue",
+      "rel": "points_to",
+      "label": "交接残余"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "on-demand-contexts-keep-coherence-at-one-step",
+      "rel": "points_to",
+      "label": "按需语境将融贯保持在一步"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "dynamic-resnet-of-skill-loops",
+      "rel": "points_to",
+      "label": "模块化反馈回路与动态残差网络"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "a-living-external-cortex",
+      "rel": "points_to",
+      "label": "A Living External Cortex"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "handing-off-residue",
+      "rel": "points_to",
+      "label": "Handing Off Residue"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "on-demand-contexts-keep-coherence-at-one-step",
+      "rel": "points_to",
+      "label": "On-Demand Contexts Keep Coherence at One Step"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "dynamic-resnet-of-skill-loops",
+      "rel": "points_to",
+      "label": "Modular Feedback Loops and Dynamic Residual Networks"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "the-brain-does-not-backprop",
+      "rel": "points_to",
+      "label": "大脑不进行反向传播，而是正向传导"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "rel": "points_to",
+      "label": "开放场域中的无损知识不自洽"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "机器智能作为人类智能的组合反馈回路"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "the-brain-does-not-backprop",
+      "rel": "points_to",
+      "label": "The Brain Does Not Backprop, but Propagates"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "rel": "points_to",
+      "label": "Lossless Knowledge of an Open Field Is Incoherent"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence"
+    },
+    {
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
@@ -88113,8 +88359,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "7e245dfe96fd",
-        "out_degree": 420
+        "hash": "a70b0ae2be6b",
+        "out_degree": 421
       },
       {
         "id": "book:intelligence",
@@ -88122,8 +88368,8 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "e7e22902edfc",
-        "out_degree": 52
+        "hash": "4a8603da481f",
+        "out_degree": 53
       },
       {
         "id": "book:knowledge-and-learning",
@@ -92434,6 +92680,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+        "rel": "collects",
+        "label": "睡眠与深度睡眠的双阶段持续学习 / Two-Phase Sleep and Deep Sleep Continual Learning"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "intelligence-folding-back-on-itself",
         "rel": "collects",
         "label": "智能向自身的回折 / Intelligence Folding Back on Itself"
@@ -92797,6 +93049,12 @@
         "to": "handing-off-residue",
         "rel": "collects",
         "label": "交接残余 / Handing Off Residue"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+        "rel": "collects",
+        "label": "睡眠与深度睡眠的双阶段持续学习 / Two-Phase Sleep and Deep Sleep Continual Learning"
       },
       {
         "from": "book:index-of-premises",
@@ -93598,6 +93856,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+        "rel": "collects",
+        "label": "睡眠与深度睡眠的双阶段持续学习 / Two-Phase Sleep and Deep Sleep Continual Learning"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-illusion-of-multi-agent-collaboration",
         "rel": "collects",
         "label": "多智能体协作的幻象 / The Illusion of Multi-Agent Collaboration"
@@ -93943,6 +94207,12 @@
         "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
         "rel": "collects",
         "label": "机器智能作为人类智能的组合反馈回路 / Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence"
+      },
+      {
+        "from": "book:intelligence",
+        "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+        "rel": "collects",
+        "label": "睡眠与深度睡眠的双阶段持续学习 / Two-Phase Sleep and Deep Sleep Continual Learning"
       },
       {
         "from": "book:knowledge-and-learning",
