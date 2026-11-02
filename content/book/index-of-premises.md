@@ -5386,9 +5386,9 @@ Presumes that residual networks (`yₗ₊₁ = yₗ + F(yₗ, Wₗ)`) are merely
 ### 模型量化与二值神经网络 / Model Quantization and Binary Neural Networks
 `技术 / Technological`
 
-预设低比特或二值神经网络（sign()、XNOR-popcount）只是全精度原模型的有损硬件降级；在给定误差容限内压缩内存占用、加速推理时有效，而当全精度权重显出它只是又一张有限参考地图、数值精度显出它是在算力与能量代价下选定的截断深度时到达边界：堆叠的二元切分唯有在每一次切分以前一次切分留下的余项为条件、每一个前缀都被训练得能够独立成立时，才能由粗到精地抵达这一深度，在共享信号下并行训练多条路径则不能。
+预设低比特或二值神经网络（sign()、XNOR-popcount）只是全精度原模型的有损硬件降级；在给定误差容限内压缩内存占用、加速推理时有效，而当全精度权重显出它只是又一张有限参考地图、数值精度显出它是在算力与能量代价下选定的截断深度时到达边界：堆叠的二元切分在每一次切分以前一次切分留下的余项为条件、每一个前缀都被训练得能够独立成立时，便能由粗到精地抵达这一深度，在共享信号下并行训练多条路径则不能。
 
-Presumes that a low-bit or binary neural network (sign(), XNOR-popcount) is only a lossy hardware degradation of a full-precision original; effective for shrinking memory and speeding inference within a given error tolerance, it reaches its boundary where the full-precision weight shows itself to be one more finite reference map and numerical precision a truncation depth chosen under a compute and energy price, a depth that stacked binary cuts reach coarse-to-fine only when each cut is conditioned on the remainder the previous one left and every prefix is trained to stand on its own, not when parallel paths are trained on a shared signal.
+Presumes that a low-bit or binary neural network (sign(), XNOR-popcount) is only a lossy hardware degradation of a full-precision original; effective for shrinking memory and speeding inference within a given error tolerance, it reaches its boundary where the full-precision weight shows itself to be one more finite reference map and numerical precision a truncation depth chosen under a compute and energy price, a depth that stacked binary cuts reach coarse-to-fine where each cut is conditioned on the remainder the previous one left and every prefix is trained to stand on its own, rather than where parallel paths are trained on a shared signal.
 
 → [递归区分的架构 / The Architecture of Recursive Distinction](../../posts/architecture-of-recursive-distinction/)
 
