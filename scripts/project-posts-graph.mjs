@@ -12,6 +12,7 @@
  *   node scripts/project-posts-graph.mjs --mermaid
  *   node scripts/project-posts-graph.mjs --neighbors <slug>
  *   node scripts/project-posts-graph.mjs --catalog [--exclude <slug> [<slug> ...]]
+ *   node scripts/project-posts-graph.mjs --interfaces <slug> [<slug> ...] [--exclude <slug> [<slug> ...]]
  *   node scripts/project-posts-graph.mjs --diff   # compare hashes to existing docs/posts.graph.json
  */
 import fs from 'node:fs';
@@ -27,18 +28,35 @@ const stdout = args.includes('--stdout');
 const wantMermaid = args.includes('--mermaid');
 const wantDiff = args.includes('--diff');
 const wantCatalog = args.includes('--catalog');
+const wantInterfaces = args.includes('--interfaces');
 const neighborsIdx = args.indexOf('--neighbors');
 const neighborsSlug = neighborsIdx >= 0 ? args[neighborsIdx + 1] : null;
 
+function normalizeSlugArg(raw) {
+  return raw
+    .trim()
+    .replace(/^content\/posts\//, '')
+    .replace(/\.md$/, '');
+}
+
 const excludeSet = new Set();
 let sawExcludeFlag = false;
+const interfaceSlugs = [];
 for (let i = 0; i < args.length; i++) {
   if (args[i] === '--exclude') {
     sawExcludeFlag = true;
     for (let j = i + 1; j < args.length && !args[j].startsWith('--'); j++) {
       for (const s of args[j].split(/[\s,]+/)) {
-        const trimmed = s.trim().replace(/\.md$/, '');
+        const trimmed = normalizeSlugArg(s);
         if (trimmed) excludeSet.add(trimmed);
+      }
+      i = j;
+    }
+  } else if (args[i] === '--interfaces') {
+    for (let j = i + 1; j < args.length && !args[j].startsWith('--'); j++) {
+      for (const s of args[j].split(/[\s,]+/)) {
+        const trimmed = normalizeSlugArg(s);
+        if (trimmed && !interfaceSlugs.includes(trimmed)) interfaceSlugs.push(trimmed);
       }
       i = j;
     }
@@ -438,6 +456,79 @@ function printCatalog(excluded) {
 
 if (wantCatalog) {
   printCatalog(excludeSet);
+  process.exit(0);
+}
+
+function printInterfaces(targets, excluded) {
+  const files = listPostFiles();
+  const slugSet = new Set(files.map((f) => path.basename(f, '.md')));
+  if (targets.length === 0) {
+    console.error('Error: --interfaces requires at least one post slug.');
+    process.exit(1);
+  }
+  if (sawExcludeFlag && excluded.size === 0) {
+    console.error('Error: --exclude requires at least one post slug.');
+    process.exit(1);
+  }
+  const unknownTargets = targets.filter((s) => !slugSet.has(s));
+  if (unknownTargets.length > 0) {
+    console.error(`Error: --interfaces unknown post slug(s): ${unknownTargets.join(', ')}`);
+    process.exit(1);
+  }
+  const unknownExcluded = [...excluded].filter((s) => !slugSet.has(s));
+  if (unknownExcluded.length > 0) {
+    console.error(`Error: --exclude unknown post slug(s): ${unknownExcluded.join(', ')}`);
+    process.exit(1);
+  }
+
+  const linesBySlug = new Map();
+  for (const abs of files) {
+    const slug = path.basename(abs, '.md');
+    linesBySlug.set(slug, fs.readFileSync(abs, 'utf8').split(/\r?\n/));
+  }
+
+  for (let tIdx = 0; tIdx < targets.length; tIdx++) {
+    const target = targets[tIdx];
+    const included = [];
+    let totalIn = 0;
+    let excludedIn = 0;
+
+    for (const [slug, lines] of linesBySlug) {
+      if (slug === target) continue;
+      const lineNums = [];
+      for (let i = 0; i < lines.length; i++) {
+        for (const link of extractMdLinks(lines[i])) {
+          if (hrefToSlug(link.href) === target) {
+            lineNums.push(i + 1);
+            break;
+          }
+        }
+      }
+      if (lineNums.length === 0) continue;
+      totalIn += 1;
+      if (excluded.has(slug)) {
+        excludedIn += 1;
+        continue;
+      }
+      included.push({ slug, lineNums });
+    }
+
+    if (tIdx > 0) console.log('');
+    console.log(
+      `## \`${target}\` (${included.length} inbound posts; in_degree=${totalIn}; excluded=${excludedIn})`,
+    );
+    if (included.length === 0) {
+      console.log('- (none)');
+    } else {
+      for (const item of included) {
+        console.log(`- \`${item.slug}:${item.lineNums.join(',')}\``);
+      }
+    }
+  }
+}
+
+if (wantInterfaces) {
+  printInterfaces(interfaceSlugs, excludeSet);
   process.exit(0);
 }
 

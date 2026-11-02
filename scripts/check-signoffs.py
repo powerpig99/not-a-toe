@@ -10,9 +10,13 @@ Checks for each `work/<slug>/` DELTA node before Stage 3 interleaving:
   3. `work/<slug>/debate-zh.md` ends with a `STYLIST: confirmed` line whose `sha256`
      matches `sha256(work/<slug>/zh.md)` and whose `source_sha256` matches
      `sha256(work/<slug>/en.md)`.
+  4. Every backtick `path:line` / `slug:line` locator in `work/<slug>/notes.md`
+     (when present) resolves to an existing file whose line count covers the cited
+     line numbers. Can also be run standalone on any notes file via `--locators`.
 
 Usage:
   python3 scripts/check-signoffs.py <slug> [<slug2> ...]
+  python3 scripts/check-signoffs.py --locators <notes.md> [<notes2.md> ...]
 """
 
 from __future__ import annotations
@@ -25,10 +29,43 @@ import sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 HEX64 = r"([0-9a-f]{64})"
+LOCATOR_RE = re.compile(
+    r"`([A-Za-z0-9_./-]+:(?:\d+(?:\s*[-–]\s*\d+)?)(?:\s*,\s*\d+(?:\s*[-–]\s*\d+)?)*)`"
+)
 
 
 def sha256_file(path: pathlib.Path) -> str:
     return hashlib.sha256(path.read_bytes()).hexdigest()
+
+
+def check_locators(notes_path: pathlib.Path, label: str) -> list[str]:
+    if not notes_path.is_file():
+        return [f"[{label}] Missing {notes_path}"]
+    errors: list[str] = []
+    text = notes_path.read_text(encoding="utf-8")
+    line_count_cache: dict[pathlib.Path, int] = {}
+    for tok in LOCATOR_RE.findall(text):
+        head, tail = tok.split(":", 1)
+        cand = ROOT / head
+        if not cand.is_file():
+            cand = notes_path.parent / head
+        if not cand.is_file():
+            slug = head.removesuffix(".md")
+            cand = ROOT / "content" / "posts" / f"{slug}.md"
+        if not cand.is_file():
+            errors.append(f"[{label}] Unresolved locator `{tok}` in {notes_path.name} (file not found)")
+            continue
+        resolved = cand.resolve()
+        if resolved not in line_count_cache:
+            line_count_cache[resolved] = len(resolved.read_text(encoding="utf-8").split("\n"))
+        max_line = line_count_cache[resolved]
+        nums = [int(n) for n in re.findall(r"\d+", tail)]
+        bad = [n for n in nums if n < 1 or n > max_line]
+        if bad:
+            errors.append(
+                f"[{label}] Locator `{tok}` in {notes_path.name} exceeds file length (line {bad[0]} > {max_line})"
+            )
+    return errors
 
 
 def last_match(pattern: str, text: str) -> re.Match[str] | None:
@@ -139,16 +176,42 @@ def check_slug(slug: str) -> list[str]:
                 f"[{slug}] STYLIST source_sha256 ({m_src_sha.group(1)[:12]}...) != en.md ({en_sha[:12]}...)"
             )
 
+    notes_path = work_dir / "notes.md"
+    if notes_path.is_file():
+        errors.extend(check_locators(notes_path, slug))
+
     return errors
 
 
 def main(argv: list[str]) -> int:
+    if "--locators" in argv[1:]:
+        targets = [arg for arg in argv[1:] if arg != "--locators"]
+        if not targets:
+            print("Usage: python3 scripts/check-signoffs.py --locators <notes.md> [<notes2.md> ...]", file=sys.stderr)
+            return 2
+        all_errors: list[str] = []
+        for raw in targets:
+            p = pathlib.Path(raw)
+            if not p.is_file() and (ROOT / "work" / raw.removesuffix(".md") / "notes.md").is_file():
+                p = ROOT / "work" / raw.removesuffix(".md") / "notes.md"
+            label = p.parent.name if p.name == "notes.md" else str(p)
+            errs = check_locators(p, label)
+            if errs:
+                all_errors.extend(errs)
+            else:
+                print(f"Locators verified: {p.relative_to(ROOT) if p.is_relative_to(ROOT) else p}")
+        if all_errors:
+            for e in all_errors:
+                print(f"ERROR: {e}", file=sys.stderr)
+            return 1
+        return 0
+
     slugs = [arg.removesuffix(".md") for arg in argv[1:] if not arg.startswith("-")]
     if not slugs:
         print("Usage: python3 scripts/check-signoffs.py <slug> [<slug2> ...]", file=sys.stderr)
         return 2
 
-    all_errors: list[str] = []
+    all_errors = []
     for slug in slugs:
         errs = check_slug(slug)
         if errs:
