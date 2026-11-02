@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-02T15:34:49.259Z",
+    "generated_at": "2026-11-02T17:17:03.045Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -54,19 +54,19 @@
       "content/posts/consciousness-ascription-and-the-quantum-cut.md": "3ce64bf84b73",
       "content/posts/consciousness-never-appears-as-data-among-data.md": "90174c081cd1",
       "content/posts/constraints_are_ground.md": "578ff2fd47b5",
-      "content/posts/context-engineering-essay.md": "5958a064ae49",
-      "content/posts/continuous-learning-as-expression-and-simulation.md": "0dcfdb47add0",
+      "content/posts/context-engineering-essay.md": "b551944fbba4",
+      "content/posts/continuous-learning-as-expression-and-simulation.md": "9ce5608bf474",
       "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "2a1afbcd283a",
       "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "6b2b7b30fcb5",
       "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "1f0177f4d89e",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "de3299fb5449",
       "content/posts/curiosity-has-no-final-form.md": "100335def2de",
       "content/posts/cybersecurity-arms-race.md": "148e05f366f1",
-      "content/posts/data-is-local-intelligence-is-allocated.md": "5417eab44542",
+      "content/posts/data-is-local-intelligence-is-allocated.md": "94f7f326fb08",
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "6ef0fd1e62bc",
       "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "434ad917ad64",
       "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "b2e4aff56800",
-      "content/posts/dimensions-are-projections.md": "26191f359b0c",
+      "content/posts/dimensions-are-projections.md": "3a4d4dbf38f9",
       "content/posts/distillation-compression-agency.md": "8be4ecf97ac2",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "b64fa4420bd4",
       "content/posts/dynamic-resnet-of-skill-loops.md": "85f7b34ff7d4",
@@ -119,12 +119,12 @@
       "content/posts/intelligence-folding-back-on-itself.md": "f36f2690c329",
       "content/posts/intelligence-traps-itself.md": "533c6e1e356a",
       "content/posts/judgment-is-not-a-stock.md": "9526af861c78",
-      "content/posts/learned-boundaries-and-the-given-rate.md": "aadf1efd4b98",
+      "content/posts/learned-boundaries-and-the-given-rate.md": "aaa5b463dd25",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "b5bfd1bca0dc",
       "content/posts/looping-and-graphing.md": "0eb59f1b7f4a",
-      "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "68600b80682a",
+      "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "80f062802ba9",
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "ed8ae49b479f",
-      "content/posts/machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence.md": "2cdf34d3824b",
+      "content/posts/machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence.md": "9eeba4ce94c6",
       "content/posts/manifesto-of-not-a-theory-of-everything.md": "2923afdf340b",
       "content/posts/math-as-a-career-is-not-math-as-a-pursuit.md": "1861bc2e15c4",
       "content/posts/meaning-of-life-refined.md": "a761f7b00966",
@@ -302,7 +302,7 @@
       "content/posts/the-irreducible-observer.md": "21f9ad761568",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "883cbb67e220",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "ff064e746f65",
-      "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "543bfaba8a16",
+      "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "a70cfaac3e3e",
       "content/posts/the-ledger-of-the-unencountered.md": "ffcdbfc26a69",
       "content/posts/the-limitation-is-doing-work.md": "45a70cb31cb7",
       "content/posts/the-living-context.md": "8d42e5a0f3f0",
@@ -345,7 +345,7 @@
       "content/posts/the-ramble-within-the-ramble.md": "57566038f9e7",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "46998aadc1d1",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "6036be35fe63",
-      "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "e9411d41dd53",
+      "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "2d7991e6bb4e",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "e25d00e96b60",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "3f4e0e3db4b8",
       "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "ad7483982bf1",
@@ -361,7 +361,7 @@
       "content/posts/the-scaffolding-that-keeps-growing.md": "5aa327e7a053",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "47d7f8bbb45c",
       "content/posts/the-scaffolding-we-forget.md": "13fd3782c5c9",
-      "content/posts/the-scaling-loop.md": "b1d098d39dde",
+      "content/posts/the-scaling-loop.md": "59f678c43d21",
       "content/posts/the-self-portrait-in-the-projection.md": "2b51ab9fe625",
       "content/posts/the-shadow-and-the-infinite.md": "ff9474bbdd81",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "87a9e69d47f1",
@@ -394,7 +394,7 @@
       "content/posts/the_moving_ground.md": "5de734e74921",
       "content/posts/therapy-opens-the-feedback-loop.md": "fef94840ad77",
       "content/posts/time-is-causality-not-a-dimension.md": "bcd28712180f",
-      "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "5317507ffba1",
+      "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "a72e76f25045",
       "content/posts/tokens-and-the-observational-boundary.md": "bca97aa871de",
       "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "9d994611d450",
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "91487ce48c58",
@@ -406,7 +406,7 @@
       "content/posts/what-always-listens-cannot-originate.md": "1926e8518566",
       "content/posts/what-cannot-be-kept.md": "230c81faa1f9",
       "content/posts/what-hinton-failed-to-understand.md": "5b9aba9df3f3",
-      "content/posts/what-information-is.md": "cba7359b8f69",
+      "content/posts/what-information-is.md": "2d0ecda0a4ef",
       "content/posts/what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination.md": "f8dc08af8894",
       "content/posts/what-works-is-the-belief.md": "61bc84ba56e2",
       "content/posts/whatever-is-one-prompt-away.md": "4f83116ae3c6",
@@ -450,10 +450,10 @@
     },
     "stats": {
       "posts": 423,
-      "edges": 12884,
-      "unique_directed": 6340,
+      "edges": 12908,
+      "unique_directed": 6352,
       "missing_targets": 0,
-      "one_way": 1198,
+      "one_way": 1188,
       "isolated": 0,
       "posts_with_outbound": 423,
       "book_pages": 16,
@@ -1988,10 +1988,11 @@
       "slug": "context-engineering-essay",
       "path": "content/posts/context-engineering-essay.md",
       "title": "层层皆是语境 / Context All the Way Down",
-      "hash": "5958a064ae49",
+      "hash": "b551944fbba4",
       "in_degree": 3,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
+        "the-fixed-map-and-the-repeated-trip",
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
         "the-living-context",
         "on-demand-contexts-keep-coherence-at-one-step",
@@ -2007,9 +2008,9 @@
       "slug": "continuous-learning-as-expression-and-simulation",
       "path": "content/posts/continuous-learning-as-expression-and-simulation.md",
       "title": "持续学习作为表达与模拟 / Continuous Learning as Expression and Simulation",
-      "hash": "0dcfdb47add0",
+      "hash": "9ce5608bf474",
       "in_degree": 24,
-      "out_degree": 28,
+      "out_degree": 29,
       "links_out": [
         "two-phase-sleep-and-deep-sleep-continual-learning",
         "openness-is-consistency",
@@ -2018,6 +2019,7 @@
         "on-demand-contexts-keep-coherence-at-one-step",
         "dynamic-resnet-of-skill-loops",
         "a-living-external-cortex",
+        "the-fixed-map-and-the-repeated-trip",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
         "handing-off-residue",
         "the-brain-does-not-backprop",
@@ -2192,9 +2194,9 @@
       "slug": "data-is-local-intelligence-is-allocated",
       "path": "content/posts/data-is-local-intelligence-is-allocated.md",
       "title": "数据是局部的，智能是分配的 / Data Is Local, Intelligence Is Allocated",
-      "hash": "5417eab44542",
+      "hash": "94f7f326fb08",
       "in_degree": 24,
-      "out_degree": 28,
+      "out_degree": 29,
       "links_out": [
         "preference-clusters-and-the-language-of-judgment",
         "hierarchy-from-individual-difference",
@@ -2207,6 +2209,7 @@
         "mistaking-the-expression-for-the-intelligence",
         "the-non-definitive-definition-of-intelligence",
         "beyond-the-projection",
+        "the-fixed-map-and-the-repeated-trip",
         "on-demand-contexts-keep-coherence-at-one-step",
         "dynamic-resnet-of-skill-loops",
         "production-consumption-and-the-minds-distinction",
@@ -2296,9 +2299,9 @@
       "slug": "dimensions-are-projections",
       "path": "content/posts/dimensions-are-projections.md",
       "title": "维度即投影 / Dimensions Are Projections",
-      "hash": "26191f359b0c",
+      "hash": "3a4d4dbf38f9",
       "in_degree": 30,
-      "out_degree": 21,
+      "out_degree": 22,
       "links_out": [
         "not-a-toe-rewrite",
         "what-information-is",
@@ -2318,6 +2321,7 @@
         "beyond-the-projection",
         "the-model-never-becomes-a-second-edge",
         "your-codebase-is-memory",
+        "the-fixed-map-and-the-repeated-trip",
         "the-vector-and-the-puzzle-of-projections",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "the-unclosable-trace"
@@ -3726,9 +3730,9 @@
       "slug": "learned-boundaries-and-the-given-rate",
       "path": "content/posts/learned-boundaries-and-the-given-rate.md",
       "title": "学到的边界与给定的尺度 / Learned Boundaries and the Given Rate",
-      "hash": "aadf1efd4b98",
+      "hash": "aaa5b463dd25",
       "in_degree": 14,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "precision-and-resolution",
         "tokens-and-the-observational-boundary",
@@ -3738,6 +3742,7 @@
         "the-model-never-becomes-a-second-edge",
         "dynamic-resnet-of-skill-loops",
         "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+        "the-fixed-map-and-the-repeated-trip",
         "handing-off-residue",
         "continuous-learning-as-expression-and-simulation",
         "the-brain-does-not-backprop",
@@ -3809,14 +3814,15 @@
       "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
       "path": "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md",
       "title": "开放场域中的无损知识不自洽 / Lossless Knowledge of an Open Field Is Incoherent",
-      "hash": "68600b80682a",
+      "hash": "80f062802ba9",
       "in_degree": 28,
-      "out_degree": 27,
+      "out_degree": 28,
       "links_out": [
         "the-knowledge-problem-and-the-illusion-of-delegation",
         "the-scaling-loop",
         "what-information-is",
         "distillation-compression-agency",
+        "the-fixed-map-and-the-repeated-trip",
         "intelligence-belongs-only-to-the-mind",
         "two-failures-of-trace",
         "a-creation-cannot-replace-its-source",
@@ -3874,9 +3880,9 @@
       "slug": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
       "path": "content/posts/machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence.md",
       "title": "机器智能作为人类智能的组合反馈回路 / Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence",
-      "hash": "2cdf34d3824b",
+      "hash": "9eeba4ce94c6",
       "in_degree": 33,
-      "out_degree": 16,
+      "out_degree": 17,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
         "technology-is-residual-of-human-compounding",
@@ -3886,6 +3892,7 @@
         "intelligence-folding-back-on-itself",
         "continuous-learning-as-expression-and-simulation",
         "context-engineering-essay",
+        "the-fixed-map-and-the-repeated-trip",
         "what-always-listens-cannot-originate",
         "on-demand-contexts-keep-coherence-at-one-step",
         "the-living-context",
@@ -7647,7 +7654,7 @@
       "path": "content/posts/the-fixed-map-and-the-repeated-trip.md",
       "title": "固定地图与重复的行程 / The Fixed Map and the Repeated Trip",
       "hash": "d73b65fdc270",
-      "in_degree": 0,
+      "in_degree": 12,
       "out_degree": 12,
       "links_out": [
         "lossless-knowledge-of-an-open-field-is-incoherent",
@@ -8684,13 +8691,14 @@
       "slug": "the-ladder-of-abstraction-and-the-executable-entity",
       "path": "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md",
       "title": "抽象的阶梯与可执行的实体 / The Ladder of Abstraction and the Executable Entity",
-      "hash": "543bfaba8a16",
+      "hash": "a70cfaac3e3e",
       "in_degree": 9,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "climbing-does-not-leave-the-ground",
         "po-chu-gai-nian-de-jian-yue",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+        "the-fixed-map-and-the-repeated-trip",
         "boletus-compute-storm-and-promethean-fire",
         "the-model-never-becomes-a-second-edge",
         "mistaking-the-expression-for-the-intelligence",
@@ -9783,9 +9791,9 @@
       "slug": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "path": "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md",
       "title": "真正稀缺的不是记忆，而是持续的重新追溯 / The Real Scarcity Is Not Memory, But Continuous Re-Tracing",
-      "hash": "e9411d41dd53",
+      "hash": "2d7991e6bb4e",
       "in_degree": 20,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "looping-and-graphing",
         "the-scaffolding-we-forget",
@@ -9801,6 +9809,7 @@
         "your-codebase-is-memory",
         "two-phase-sleep-and-deep-sleep-continual-learning",
         "continuous-learning-as-expression-and-simulation",
+        "the-fixed-map-and-the-repeated-trip",
         "beyond-the-projection",
         "causality-all-the-way",
         "what-information-is",
@@ -10276,15 +10285,16 @@
       "slug": "the-scaling-loop",
       "path": "content/posts/the-scaling-loop.md",
       "title": "规模化回路 / The Scaling Loop",
-      "hash": "b1d098d39dde",
+      "hash": "59f678c43d21",
       "in_degree": 9,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "context-engineering-essay",
         "two-phase-sleep-and-deep-sleep-continual-learning",
         "self-rl-for-humans",
         "data-is-local-intelligence-is-allocated",
+        "the-fixed-map-and-the-repeated-trip",
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "beyond-the-projection",
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
@@ -11033,9 +11043,9 @@
       "slug": "token-efficiency-emulation-and-the-unclosable-gap",
       "path": "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md",
       "title": "Token 效率、模拟与无法弥合的间隙 / Token Efficiency, Emulation, and the Unclosable Gap",
-      "hash": "5317507ffba1",
+      "hash": "a72e76f25045",
       "in_degree": 24,
-      "out_degree": 24,
+      "out_degree": 25,
       "links_out": [
         "efficiency-without-differentiation",
         "distillation-compression-agency",
@@ -11048,6 +11058,7 @@
         "what-always-listens-cannot-originate",
         "continuous-learning-as-expression-and-simulation",
         "humans-tokens-and-the-scope-of-valuation",
+        "the-fixed-map-and-the-repeated-trip",
         "complexity-obscures-emergence-as-the-act-of-mind",
         "intelligence-belongs-only-to-the-mind",
         "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
@@ -11384,15 +11395,16 @@
       "slug": "what-information-is",
       "path": "content/posts/what-information-is.md",
       "title": "信息是什么 / What Information Is",
-      "hash": "cba7359b8f69",
+      "hash": "2d0ecda0a4ef",
       "in_degree": 25,
-      "out_degree": 30,
+      "out_degree": 31,
       "links_out": [
         "the-mark-and-the-act",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
         "your-codebase-is-memory",
         "the-freedom-of-will-to-deny-itself",
         "lossless-knowledge-of-an-open-field-is-incoherent",
+        "the-fixed-map-and-the-repeated-trip",
         "fidelity-not-optimality",
         "the-surface-beneath",
         "beyond-the-projection",
@@ -21780,6 +21792,12 @@
     },
     {
       "from": "context-engineering-essay",
+      "to": "the-fixed-map-and-the-repeated-trip",
+      "rel": "points_to",
+      "label": "固定地图与重复的行程"
+    },
+    {
+      "from": "context-engineering-essay",
       "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
       "rel": "points_to",
       "label": "机器智能作为人类智能的组合反馈回路"
@@ -21795,6 +21813,12 @@
       "to": "on-demand-contexts-keep-coherence-at-one-step",
       "rel": "points_to",
       "label": "按需语境将融贯保持在一步"
+    },
+    {
+      "from": "context-engineering-essay",
+      "to": "the-fixed-map-and-the-repeated-trip",
+      "rel": "points_to",
+      "label": "The Fixed Map and the Repeated Trip"
     },
     {
       "from": "context-engineering-essay",
@@ -21948,6 +21972,12 @@
     },
     {
       "from": "continuous-learning-as-expression-and-simulation",
+      "to": "the-fixed-map-and-the-repeated-trip",
+      "rel": "points_to",
+      "label": "固定地图与重复的行程"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
       "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
       "rel": "points_to",
       "label": "没有外部"
@@ -21975,6 +22005,12 @@
       "to": "the-density-of-judgment",
       "rel": "points_to",
       "label": "判断的密度"
+    },
+    {
+      "from": "continuous-learning-as-expression-and-simulation",
+      "to": "the-fixed-map-and-the-repeated-trip",
+      "rel": "points_to",
+      "label": "The Fixed Map and the Repeated Trip"
     },
     {
       "from": "continuous-learning-as-expression-and-simulation",
@@ -23262,6 +23298,12 @@
     },
     {
       "from": "data-is-local-intelligence-is-allocated",
+      "to": "the-fixed-map-and-the-repeated-trip",
+      "rel": "points_to",
+      "label": "固定地图与重复的行程"
+    },
+    {
+      "from": "data-is-local-intelligence-is-allocated",
       "to": "on-demand-contexts-keep-coherence-at-one-step",
       "rel": "points_to",
       "label": "按需语境将融贯保持在一步"
@@ -23277,6 +23319,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "data-is-local-intelligence-is-allocated",
+      "to": "the-fixed-map-and-the-repeated-trip",
+      "rel": "points_to",
+      "label": "The Fixed Map and the Repeated Trip"
     },
     {
       "from": "data-is-local-intelligence-is-allocated",
@@ -24024,6 +24072,12 @@
     },
     {
       "from": "dimensions-are-projections",
+      "to": "the-fixed-map-and-the-repeated-trip",
+      "rel": "points_to",
+      "label": "固定地图与重复的行程"
+    },
+    {
+      "from": "dimensions-are-projections",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "The Model Never Becomes a Second Edge"
@@ -24033,6 +24087,12 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "the-fixed-map-and-the-repeated-trip",
+      "rel": "points_to",
+      "label": "The Fixed Map and the Repeated Trip"
     },
     {
       "from": "dimensions-are-projections",
@@ -33516,6 +33576,18 @@
     },
     {
       "from": "learned-boundaries-and-the-given-rate",
+      "to": "the-fixed-map-and-the-repeated-trip",
+      "rel": "points_to",
+      "label": "固定地图与重复的行程"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
+      "to": "the-fixed-map-and-the-repeated-trip",
+      "rel": "points_to",
+      "label": "The Fixed Map and the Repeated Trip"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
       "to": "handing-off-residue",
       "rel": "points_to",
       "label": "交接残余"
@@ -34026,9 +34098,21 @@
     },
     {
       "from": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "to": "the-fixed-map-and-the-repeated-trip",
+      "rel": "points_to",
+      "label": "固定地图与重复的行程"
+    },
+    {
+      "from": "lossless-knowledge-of-an-open-field-is-incoherent",
       "to": "distillation-compression-agency",
       "rel": "points_to",
       "label": "Distillation Chooses What to Lose"
+    },
+    {
+      "from": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "to": "the-fixed-map-and-the-repeated-trip",
+      "rel": "points_to",
+      "label": "The Fixed Map and the Repeated Trip"
     },
     {
       "from": "lossless-knowledge-of-an-open-field-is-incoherent",
@@ -34572,9 +34656,21 @@
     },
     {
       "from": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "to": "the-fixed-map-and-the-repeated-trip",
+      "rel": "points_to",
+      "label": "固定地图与重复的行程"
+    },
+    {
+      "from": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
       "to": "what-always-listens-cannot-originate",
       "rel": "points_to",
       "label": "总在倾听者无法发起"
+    },
+    {
+      "from": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "to": "the-fixed-map-and-the-repeated-trip",
+      "rel": "points_to",
+      "label": "The Fixed Map and the Repeated Trip"
     },
     {
       "from": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
@@ -66468,6 +66564,18 @@
     },
     {
       "from": "the-ladder-of-abstraction-and-the-executable-entity",
+      "to": "the-fixed-map-and-the-repeated-trip",
+      "rel": "points_to",
+      "label": "固定地图与重复的行程"
+    },
+    {
+      "from": "the-ladder-of-abstraction-and-the-executable-entity",
+      "to": "the-fixed-map-and-the-repeated-trip",
+      "rel": "points_to",
+      "label": "The Fixed Map and the Repeated Trip"
+    },
+    {
+      "from": "the-ladder-of-abstraction-and-the-executable-entity",
       "to": "boletus-compute-storm-and-promethean-fire",
       "rel": "points_to",
       "label": "牛肝菌、算力风暴与普罗米修斯的火"
@@ -73710,6 +73818,12 @@
     },
     {
       "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "to": "the-fixed-map-and-the-repeated-trip",
+      "rel": "points_to",
+      "label": "固定地图与重复的行程"
+    },
+    {
+      "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "超越投射"
@@ -73731,6 +73845,12 @@
       "to": "continuous-learning-as-expression-and-simulation",
       "rel": "points_to",
       "label": "Continuous Learning as Expression and Simulation"
+    },
+    {
+      "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "to": "the-fixed-map-and-the-repeated-trip",
+      "rel": "points_to",
+      "label": "The Fixed Map and the Repeated Trip"
     },
     {
       "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
@@ -77304,9 +77424,21 @@
     },
     {
       "from": "the-scaling-loop",
+      "to": "the-fixed-map-and-the-repeated-trip",
+      "rel": "points_to",
+      "label": "固定地图与重复的行程"
+    },
+    {
+      "from": "the-scaling-loop",
       "to": "closed-assumptions-squeeze-compounding-into-s-curves",
       "rel": "points_to",
       "label": "封闭的假设把复利挤成 S 曲线"
+    },
+    {
+      "from": "the-scaling-loop",
+      "to": "the-fixed-map-and-the-repeated-trip",
+      "rel": "points_to",
+      "label": "The Fixed Map and the Repeated Trip"
     },
     {
       "from": "the-scaling-loop",
@@ -82530,9 +82662,21 @@
     },
     {
       "from": "token-efficiency-emulation-and-the-unclosable-gap",
+      "to": "the-fixed-map-and-the-repeated-trip",
+      "rel": "points_to",
+      "label": "固定地图与重复的行程"
+    },
+    {
+      "from": "token-efficiency-emulation-and-the-unclosable-gap",
       "to": "humans-tokens-and-the-scope-of-valuation",
       "rel": "points_to",
       "label": "Humans, Tokens, and the Scope of Valuation"
+    },
+    {
+      "from": "token-efficiency-emulation-and-the-unclosable-gap",
+      "to": "the-fixed-map-and-the-repeated-trip",
+      "rel": "points_to",
+      "label": "The Fixed Map and the Repeated Trip"
     },
     {
       "from": "token-efficiency-emulation-and-the-unclosable-gap",
@@ -84978,6 +85122,12 @@
     },
     {
       "from": "what-information-is",
+      "to": "the-fixed-map-and-the-repeated-trip",
+      "rel": "points_to",
+      "label": "固定地图与重复的行程"
+    },
+    {
+      "from": "what-information-is",
       "to": "fidelity-not-optimality",
       "rel": "points_to",
       "label": "保真度而非最优化"
@@ -84993,6 +85143,12 @@
       "to": "lossless-knowledge-of-an-open-field-is-incoherent",
       "rel": "points_to",
       "label": "Lossless Knowledge of an Open Field Is Incoherent"
+    },
+    {
+      "from": "what-information-is",
+      "to": "the-fixed-map-and-the-repeated-trip",
+      "rel": "points_to",
+      "label": "The Fixed Map and the Repeated Trip"
     },
     {
       "from": "what-information-is",
