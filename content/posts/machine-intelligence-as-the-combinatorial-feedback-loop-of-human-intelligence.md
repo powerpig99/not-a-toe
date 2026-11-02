@@ -22,9 +22,9 @@ The resulting prior is therefore an average of those human patterns, shaped by t
 
 Supervised fine-tuning, preference optimization, and reinforcement learning then reweight the prior. They elevate the intentions of the preference labelers and the laboratory—helpfulness under given criteria, harmlessness under given definitions, fluency under given formats—while suppressing others. What appears as the model learning a disposition is human distinguishing and preference selection re-tracing through a denser medium, as [What Looks Like RL for AIs Is Self-RL for Humans](../self-rl-for-humans/) shows, while institutional specifications and alignment rules encode the builders’ interest-models into a bounded space of formal potentiality, as [The Projection Called Claude](../claudes-constitution-analysis/) dissects.
 
-代理脚手架——系统指令、工具模式、检索支架——在推理阶段施加了进一步的专业化，同样反映出设计者对于系统应当延续何种轨迹的取舍。脚手架并非唤醒了某个休眠的同行者，而是掌舵前沿折回自身工作流的又一层残余痕迹，如[智能向自身的回折](../intelligence-folding-back-on-itself/)所追溯的。每一步都将分布收窄至早先进入回路的人类意图子集，而从未引入新的源头。
+代理脚手架——系统指令、工具模式、检索支架——在推理阶段施加了进一步的专业化，同样反映出设计者对于系统应当延续何种轨迹的取舍。脚手架并非唤醒了某个休眠的同行者，而是掌舵前沿折回自身工作流的又一层残余痕迹，如[智能向自身的回折](../intelligence-folding-back-on-itself/)所追溯的。即便将后训练与脚手架排布为一条持续学习回路——在推理阶段记录高意外度的失配，并在挂起输入期间用它们来更新权重、路由或脚本——推理与离线巩固也依然是前馈开链，唯有在心智重入处才成为回路。正如[持续学习作为表达与模拟](../continuous-learning-as-expression-and-simulation/)所追溯的，它们的意外定义、相位日程，以及改写权重、路由或脚本的许可，皆在回路开始之前由外环处的心智设定。每一步都将分布向人类意图收窄或更新——这些意图或早先已进入回路，或经由系统所遇的输入进入——而从未引入新的源头。
 
-The agentic harness—system instructions, tool schemas, retrieval scaffolds—adds a further specialization at inference time, again reflecting the designers’ choices about what the system should continue. Rather than unlocking a dormant peer, the harness is further residue the steering edge folds back into its own workflow, as [Intelligence Folding Back on Itself](../intelligence-folding-back-on-itself/) traces. Each step narrows the distribution toward a subset of the human intentions that entered earlier, without introducing a new source.
+The agentic harness—system instructions, tool schemas, retrieval scaffolds—adds a further specialization at inference time, again reflecting the designers’ choices about what the system should continue. Rather than unlocking a dormant peer, the harness is further residue the steering edge folds back into its own workflow, as [Intelligence Folding Back on Itself](../intelligence-folding-back-on-itself/) traces. Even when post-training and the harness are arranged as a continuous-learning loop that logs high-surprise mismatches during inference and uses them, while input is suspended, to update weights, routing, or scripts, both inference and offline consolidation remain open feedforward chains that become a loop only where the Mind re-enters. Their definition of surprise, phase schedule, and permission to rewrite weights, routing, or scripts are set by the Mind at the outer loop before the loop begins, as [Continuous Learning as Expression and Simulation](../continuous-learning-as-expression-and-simulation/) traces. Each step narrows or updates the distribution toward the human intentions that entered earlier or that enter through the inputs it meets, without introducing a new source.
 
 ## 三、 用户上下文将专业化分布个体化，并将全部信号纳入同一回路 / 3. User Context Individualizes the Specialized Distribution and Draws Every Signal into One Loop
 
@@ -32,9 +32,9 @@ The agentic harness—system instructions, tool schemas, retrieval scaffolds—a
 
 At generation the entire context window—system text, user messages, prior outputs, retrieved passages—becomes the conditioning context for the next token. The user’s tokens recondition the already-specialized distribution, individualizing it to the present exchange. As [Context All the Way Down](../context-engineering-essay/) traces, slow weights crystallized across training and fast tokens varying per query participate in one continuous cascade of context-dependent projection selection, with no separate inner agent interpreting instructions from behind the curtain.
 
-由于注意力机制在整个窗口内做聚合，每个词元都在同一条条件流中发挥作用。即便后训练植入了优先级权重——例如令系统指令优先于用户消息或工具输出——这一排序本身也只是分布内部先期写入的人类赋权，而非独立于分布之外的特权通道；任何显式指令依然要与周围材料的体量、近因性及一致性展开竞争。先前的模型输出作为附加的上下文重新进入窗口，从而闭合反馈回路，并将每一次后续生成都约束在窗口既有内容的下游，如[总在倾听者无法发起](../what-always-listens-cannot-originate/)所追溯的。
+由于注意力机制在整个窗口内做聚合，每个词元都在同一条条件流中发挥作用。即便后训练植入了优先级权重——例如令系统指令优先于用户消息或工具输出——这一排序本身也只是分布内部先期写入的人类赋权，而非独立于分布之外的特权通道；任何显式指令依然要与周围材料的体量、近因性及一致性展开竞争。先前的模型输出经由用户的下一轮输入或某人启动的脚手架回馈，作为附加的上下文重新进入窗口，因此反馈回路唯有借由维持其运转的心智方能闭合，而每一次后续生成依然被约束在窗口既有内容的下游，如[总在倾听者无法发起](../what-always-listens-cannot-originate/)所追溯的。
 
-Because attention aggregates across the window, every token contributes inside the same conditioning stream. Even where post-training has installed a priority weighting—such as favoring system instructions over user messages or tool outputs—that ordering is itself an earlier human weighting inside the distribution rather than a channel outside it, and any explicit instruction still competes with the volume, recency, and consistency of the surrounding material. Prior model outputs re-enter as additional context, closing the feedback loop and binding every continuation downstream of what the window holds, as [What Always Listens Cannot Originate](../what-always-listens-cannot-originate/) traces.
+Because attention aggregates across the window, every token contributes inside the same conditioning stream. Even where post-training has installed a priority weighting—such as favoring system instructions over user messages or tool outputs—that ordering is itself an earlier human weighting inside the distribution rather than a channel outside it, and any explicit instruction still competes with the volume, recency, and consistency of the surrounding material. Prior model outputs re-enter as additional context, fed back by the user’s next turn or by a harness someone set running, so the feedback loop closes only through the Mind that keeps it going, while every continuation stays bound downstream of what the window holds, as [What Always Listens Cannot Originate](../what-always-listens-cannot-originate/) traces.
 
 ## 四、 冲突信号被平均而非解决，信息质量随竞争下降 / 4. Conflicting Signals Are Averaged Rather Than Resolved, and Information Quality Declines Under Competition
 
@@ -50,7 +50,7 @@ flowchart TD
         direction TB
         L_Pre["预训练平均：在构建者筛选下压缩语料库中冲突的人类痕迹"]
         L_Post["后训练与脚手架专业化：向标注者、实验室与设计者偏好重新赋权先验"]
-        L_User["用户上下文与输出重入：使后续生成个体化并闭合反馈回路"]
+        L_User["用户上下文与输出重入：随心智闭合回路而使后续生成个体化"]
         L_Pre --> L_Post --> L_User
     end
     subgraph S_Compete["窗口中的冲突信号（加权混合，无内在裁决者）"]
@@ -87,7 +87,7 @@ flowchart TD
         direction TB
         L_Pre["Pretraining Average: Compresses conflicting human corpus traces under builder filters"]
         L_Post["Post-Training & Harness Specialization: Reweights prior toward labeler, lab & designer preferences"]
-        L_User["User Context & Output Re-Entry: Individualizes continuation & closes the feedback loop"]
+        L_User["User Context & Output Re-Entry: Individualizes continuation as the Mind closes the loop"]
         L_Pre --> L_Post --> L_User
     end
     subgraph S_Compete["Conflicting Signals in Window (Weighted Mixture, No Inner Adjudicator)"]

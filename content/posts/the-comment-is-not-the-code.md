@@ -44,7 +44,7 @@ An AI coding agent asked to clean up the function meets the same sentence. One a
 
 For the human reader, the trace stops at the preconditions of the choice. Knowledge of the API, history with this repository, time pressure, the last incident: all of it bears on what happens next, and none of it makes the choice. Two moments alike in every condition, borrowed for the point, are alike only as the Mind comparing them registers them, and in either moment the reader trusts the comment, deletes it, or checks the API, with the conditions picking none of these. The choice is made at the moment of choosing, in the Mind working on the file, as the [only independent variable](../individual-choices-as-the-only-causal-levers/).
 
-人的抉择在智能体因果链的起点进入，经由数据、提示和运行外壳；又在运行途中的每一次干预处进入：批准或拒绝一次工具调用，打断，用一句关于供应商修复的话去引导，把变更日志加进上下文，从三个建议补丁里取用一个。途中的每一次微调都注入了一项起初未曾列明的前提，重设了下游的签名；正如[判断的密度](../the-density-of-judgment/)所审视的，在一轮运行完成后逆向追溯这些注入的前提，并将其编入起点的运行外壳，便能在下一轮运行中把中间环节自动化，而不撤去人的定框。正如[超越投射](../beyond-the-projection/)所追踪的，智能体是一部受限于词元轨迹且毫无我执的有限投射引擎；将主编码智能体与只持有任务语境的冷启动同侪配对，便会暴露出主运行过程在哪里盲目依赖了过时的注释，并将文字说明与可执行契约之间的矛盾隔离为局部死锁。[按需语境将融贯保持在一步](../on-demand-contexts-keep-coherence-at-one-step/)将这一切分扩展至多步流水线：即便冷审校者签发了定稿制品，并在双方工作语境丢弃之前记录其 `sha256` 哈希值以供加密交接，这份经签发的制品与哈希值也依然只是供下一步重新追溯的可读残余，从不是自行授权的检验。任何同侪回路、校验层或加密签发，都无法把有限投射变成那个掌舵的鲜活心智。到了终点，删掉重试的那处编辑停在差异里，直到有人接受它、拒绝它、搁置它，或者重新提示，只有经由这个抉择，它才产生后果。正如[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)所指出的，无论有多少任务被移交出去，合并的后果始终留在取用它的心智那里。
+人的抉择在智能体因果链的起点进入，经由数据、提示和运行外壳；又在运行途中的每一次干预处进入：批准或拒绝一次工具调用，打断，用一句关于供应商修复的话去引导，把变更日志加进上下文，从三个建议补丁里取用一个。途中的每一次微调都注入了一项起初未曾列明的前提，重设了下游的签名；正如[判断的密度](../the-density-of-judgment/)所审视的，在一轮运行完成后逆向追溯这些注入的前提，并将其编入起点的运行外壳，便能在下一轮运行中把中间环节自动化，而不撤去人的定框。正如[超越投射](../beyond-the-projection/)所追踪的，智能体是一部受限于词元轨迹且毫无我执的有限投射引擎；将主编码智能体与只持有任务语境的冷同侪配对，便会暴露出主运行过程在哪里盲目依赖了过时的注释，并将文字说明与可执行契约之间的矛盾隔离为局部死锁。[按需语境将融贯保持在一步](../on-demand-contexts-keep-coherence-at-one-step/)将这一切分扩展至多步流水线：即便冷审校者签发了定稿制品，并在双方工作语境丢弃之前记录其 `sha256` 哈希值以供加密交接，这份经签发的制品与哈希值也依然只是供下一步重新追溯的可读残余，从不是自行授权的检验。任何同侪回路、校验层或加密签发，都无法把有限投射变成那个掌舵的鲜活心智。到了终点，删掉重试的那处编辑停在差异里，直到有人接受它、拒绝它、搁置它，或者重新提示，只有经由这个抉择，它才产生后果。正如[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)所指出的，无论有多少任务被移交出去，合并的后果始终留在取用它的心智那里。
 
 ```mermaid
 flowchart TD
@@ -57,7 +57,7 @@ flowchart TD
   subgraph S_RUN["2. 智能体运行与冷同侪签发（有限投射引擎）"]
     direction TB
     A_TRJ["主智能体的重新组合<br/>（签名之内受轨迹约束）"]
-    P_CHK["冷启动同侪与途中干预<br/>（暴露过时注释 / 隔离死锁）"]
+    P_CHK["冷同侪与途中干预<br/>（暴露过时注释 / 隔离死锁）"]
     DIFF["交回的差异与签发哈希交接<br/>（定稿残余，可运行的信号）"]
     A_TRJ --> P_CHK
     P_CHK --> DIFF
@@ -142,9 +142,9 @@ The use of a comment is the additional signal it hands the deciding Mind. A read
 
 The same frame covers the impulse to ban comments. A ban moves the decision from each reading to a single rule, so that the signal no longer reaches the reader at all. An external contract, a historical decision, a bug in someone else's system: these register to the reader as what types, names, and tests hold least, and a sentence beside the code hands them over. The compromise of sparse comments, *why* over *what*, drift linting, and agent prompts that prefer code is a set of instruments in the same position: signal for each new choice, and once held as settled policy, a rule that freezes the next choice before it is made. Each revision of the practice is a separate choice, made under conditions the last one did not face.
 
-决定智能体能看到什么的那道过滤器，是人的一个抉择，被安装为智能体的前置条件；把它留在默认设置，也还是这个抉择。当智能体照着一句未经核对的注释行事、而那处编辑上线了，追溯止于人的抉择：设定和引导前置条件的那些抉择，以及接受差异的那一个。修订模型，也是这些抉择中的又一个。
+决定智能体能看到什么的那道过滤器，是人的一个抉择，被安装为智能体的前置条件；把它留在默认设置，也还是这个抉择。当智能体照着一句未经核对的注释行事、而那处编辑上线了，追溯止于人的抉择：设定和引导前置条件的那些抉择，以及接受差异的那一个。事后修订模型或运行外壳，也是这些抉择中的又一个；持续学习周期在使用中记录失配、按排程修订权重、路由、技能或脚本，也在其中：什么算作失配、把失配转成更新的规则、运行它的排程，都在这一周期运行之前就已安装进去；正如[持续学习作为表达与模拟](../continuous-learning-as-expression-and-simulation/)所追踪的，那次更新由这些前置条件固定，也由与采样器一样按确定程序编出来的随机固定。这一周期交给下一次运行的，是一份经修订的前置条件，并不接管启动它的那个抉择。
 
-The filter that decides what an agent sees is a human choice installed as its precondition, and leaving it at a default is still that choice. When an agent follows an unchecked note and the edit ships, the trace ends at human choices, those that set and steered the preconditions and the one that accepted the diff. Revising the model is one more of those choices.
+The filter that decides what an agent sees is a human choice installed as its precondition, and leaving it at a default is still that choice. When an agent follows an unchecked note and the edit ships, the trace ends at human choices, those that set and steered the preconditions and the one that accepted the diff. Revising the model or the harness afterward is one more of those choices, including when a continual-learning cycle logs the mismatch during use and revises weights, routing, skills, or scripts on a schedule: what counts as a mismatch, the rule that turns it into an update, and the schedule that runs it were installed before the cycle ran, and the update is fixed by those preconditions and by the same programmed randomness as the sampler, as [Continuous Learning as Expression and Simulation](../continuous-learning-as-expression-and-simulation/) traces. The cycle hands the next run a revised precondition; it does not take over the choice that set it going.
 
 关于注释的公开争论，运行在同样的结构上。每一方报告的都是在自己的先验下、针对自己的代码库做出的抉择，任何一方的答案都不从另一方的先验中推出。这场交锋到来时，是又一道信号，是又一个供人据以抉择的新条件。是否有人重新打开那个文件、再读一遍那句注释，留在手里拿着这个文件的人那里。
 
