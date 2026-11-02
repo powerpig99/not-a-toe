@@ -2,7 +2,7 @@
 
 *模型内并无独立主体接收外部语境；权重与输入共处同一场区分筛选级联。 / No inner agent receives external context; model weights and input share one cascade of distinction-selection.*
 
-“AI 中的一切皆是语境工程”这一直觉，初听起来像是实用的提示词建议：你输入什么，决定了你得到什么。然而这种停留在表面的解读适用于任何输入输出设备，却错失了这句直觉所指向的深层结构切分。从训练权重、架构边界到当前激活的词元窗口，整套装置是同一场依赖语境的区分筛选级联，幕后并没有任何内部主体在做阐释——领悟以及重画级联边界的主权，始终留在给出切分的鲜活心智手中。
+“AI 中的一切皆是语境工程”这一直觉，初听起来像是实用的提示词建议：你输入什么，决定了你得到什么。然而这种停留在表面的解读适用于任何输入输出设备，却错失了这句直觉所指向的深层结构切分。从训练权重、架构边界到当前激活的词元窗口，整套装置是同一场依赖语境的区分筛选级联，幕后并没有任何内部主体在做阐释——领悟与重画级联边界，都留在给出切分的鲜活心智手中。
 
 The intuition that everything in AI is context engineering initially sounds like practical prompting advice: what you put in determines what you get out. Yet that surface reading applies to any input-output device and misses the deeper structural cut the intuition points to. From training weights and architectural bounds to the active token window, the entire apparatus is a single cascade of context-dependent distinction-selection with no inner agent interpreting from behind the curtain—leaving comprehension and the redrawing of the cascade's bounds with the living Mind that supplies its cuts.
 
@@ -18,7 +18,7 @@ The model's weights encode compressed patterns of conditional relevance: given c
 
 ## 二、 输入、架构与训练构成同一条筛选级联 / 2. Input, Architecture, and Training Form One Selection Cascade
 
-在每一次推理前向传递中，三个嵌套的语境层级同时运作。第一层是输入语境——提示词、检索到的文档以及对话历史——它负责筛选模型习得的哪些投射在当下被激活。第二层是架构语境——注意力跨度、嵌入维度与网络层深——它约束了哪些区分结构能够被表征出来。第三层是训练语境——数据分布、目标函数以及后训练塑形——它决定了哪些投射会随时间推移稳定沉淀到权重之中。这三个层级在同一个起作用的层面上都是语境工程：三者共同决定了哪些区分能够留存到输出端。
+在每一次推理前向传递中，三个嵌套的语境层级同时运作。第一层是输入语境——提示词、检索到的文档以及对话历史——它负责筛选模型习得的哪些投射在当下被激活。第二层是架构语境——注意力跨度、嵌入维度与网络层深——它约束了哪些区分结构能够被表征出来。第三层是训练语境——数据分布、目标函数以及后训练塑形——它决定了哪些投射会随时间推移稳定沉淀到权重之中。这三个层级都是同一意义上的语境工程：三者共同决定哪些区分能留存到输出端。
 
 ```mermaid
 flowchart TD
@@ -32,7 +32,7 @@ flowchart TD
     subgraph S_Loop["共振与循环往复的规模化回路"]
         direction TB
         R_Align["语境对齐：塑造投射空间以令稳定的区分产生共振"]
-        R_Expand["鲜活的驾驭边缘：新轨迹与代码库记忆哺育下一轮权重凝结"]
+        R_Expand["鲜活的驾驭边缘：已验证的代码库与知识库记忆汇入下一轮快照"]
         R_Align --> R_Expand
     end
     L_Input ==>|"无需内部主体即可向前传播留存的区分"| R_Align
@@ -59,7 +59,7 @@ flowchart TD
     subgraph S_Loop["Resonance & The Circulating Scaling Loop"]
         direction TB
         R_Align["Context Alignment: Shaping projection space so stable distinctions resonate"]
-        R_Expand["Living Steering Edge: New trajectories & codebase memory feed the next hold"]
+        R_Expand["Living Steering Edge: Verified codebase & repository memory feed the next hold"]
         R_Align --> R_Expand
     end
     L_Input ==>|"Propagates surviving distinctions without an inner agent"| R_Align
@@ -98,9 +98,9 @@ Prompt engineering and post-training interventions work because a pre-trained sn
 
 First, method-specific limits arise from the trade-offs of each channel: prompting trades breadth against attentional dilution across a finite window where accumulated turns thicken into session lag and independent axes compress, retrieval augmentation introduces friction between retrieved passages and weight priors, and fine-tuning reshapes weights at the risk of overwriting prior structure. Because no inner mind sits behind the cascade to adjudicate contradictions, conflicting instructions, persona rules, post-training defaults, and stale turns in the same window are mixed under the weightings that pretraining, post-training, and the window itself set rather than adjudicated—so stacking override rules to cancel earlier context adds one more signal the rest of the window is weighed against, and wherever competing pulls stay live it dilutes how much of the user's purpose survives in the continuation, as [Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence](../machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/) traces. Navigating that input-window trade-off is why [The Living Context](../the-living-context/) supplies a curated external lattice so each task prompt carries only the immediate delta, and why [On-Demand Contexts Keep Coherence at One Step](../on-demand-contexts-keep-coherence-at-one-step/) bounds each execution step to a fresh, mutually consistent context that hands off verified artifacts rather than a standing chat history.
 
-第二类边界，即当下的承载上限，则驻留在当前的预训练快照自身之中。模型的权重是对过往制品的有限压缩，因此单凭向这一快照输入提示词，无法对齐那些从未压入权重的区分。然而，这一容量边界并非一块静态的地板：正如[你的代码库即是记忆](../your-codebase-is-memory/)所追踪的那样，将源自鲜活驾驭边缘的新切分外化为持久的代码库、经整理的知识库以及合成轨迹，能够扩展外化记忆场——它既为当前激活的语境窗口设定条件，又为下一轮训练压缩提供语料。[规模化回路](../the-scaling-loop/)追踪的正是这一循环：向内扩展收紧了单次快照的把握力，而在鲜活边缘上的向外扩展则重新划定了下一轮快照将要容纳的疆域。
+第二类边界，即当下的承载上限，则驻留在当前的预训练快照自身之中。模型的权重是对过往制品的有限压缩，因此单凭向这一快照输入提示词，无法对齐那些从未压入权重的区分。然而，这一容量边界并非一块静态的地板：正如[你的代码库即是记忆](../your-codebase-is-memory/)所追踪的那样，将源自鲜活驾驭边缘的新切分外化为持久的代码库与经整理的知识库——这些已验证的成果，在中间遍历轨迹完成信用分配这一步、随即被释出之后，继续向前传递，正如[睡眠与深度睡眠的双阶段持续学习](../two-phase-sleep-and-deep-sleep-continual-learning/)所追踪的那样——能够扩展外化记忆场，既为当前激活的语境窗口设定条件，又为下一轮训练压缩提供语料。[规模化回路](../the-scaling-loop/)追踪的正是这一循环：向上扩展收紧了单次快照的把握力，而在鲜活边缘上的向外扩展则重新划定了下一轮快照将要容纳的疆域。
 
-Second, the present hold resides in the current pre-training snapshot itself. A model's weights are a finite compression of prior artifacts, so prompting that snapshot cannot align to distinctions the weights never compressed. Yet that capacity bound is not a static floor: as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, externalizing new cuts from the living steering edge into durable codebases, curated repositories, and synthetic trajectories expands the externalized memory field that both conditions the active context window and supplies the corpus for the next training compression. [The Scaling Loop](../the-scaling-loop/) traces that exact circulation: scale-up tightens the hold of a snapshot, while scale-out at the living edge redraws what the next hold will contain.
+Second, the present hold resides in the current pre-training snapshot itself. A model's weights are a finite compression of prior artifacts, so prompting that snapshot cannot align to distinctions the weights never compressed. Yet that capacity bound is not a static floor: as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, externalizing new cuts from the living steering edge into durable codebases and curated repositories—the verified outcomes that carry forward once the intermediate traversal trajectories have been released after their credit-assignment step, as [Two-Phase Sleep and Deep Sleep Continual Learning](../two-phase-sleep-and-deep-sleep-continual-learning/) traces—expands the externalized memory field that both conditions the active context window and supplies the corpus for the next training compression. [The Scaling Loop](../the-scaling-loop/) traces that exact circulation: scale-up tightens the hold of a snapshot, while scale-out at the living edge redraws what the next hold will contain.
 
 这也一并消解了那个经久不衰的追问：模型是否“真正理解”。追问模型内部是否有某个主体在进行理解，是在级联背后寻找幽灵；在制品内部，只有输入痕迹与输出痕迹跨越投射所达成的结构共振，而第一人称的领悟与后果承担，则严格归属于发起并评估这一切分的鲜活心智，正如[智能只属于心智](../intelligence-belongs-only-to-the-mind/)所确立的那样。
 

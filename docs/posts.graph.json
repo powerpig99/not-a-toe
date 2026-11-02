@@ -3,14 +3,14 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-02T05:02:28.569Z",
+    "generated_at": "2026-11-02T11:04:00.591Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
     "sources": {
       "content/posts/Analysis_Adolescence_of_Technology.md": "17ccf2b9ca9a",
       "content/posts/a-creation-cannot-replace-its-source.md": "23b609f239e0",
-      "content/posts/a-living-external-cortex.md": "8f68982aa3c3",
+      "content/posts/a-living-external-cortex.md": "3ad51ecf5376",
       "content/posts/a-new-deeper-look-at-antifragility.md": "e5ed06c9658d",
       "content/posts/abstract-pain-and-living-hunger.md": "c3854a0f8e24",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "bab69d7970fb",
@@ -31,7 +31,7 @@
       "content/posts/beyond-the-hundred-trillion-horizon.md": "3c63e3e17823",
       "content/posts/beyond-the-projection.md": "78576807063b",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "db1b5db3be64",
-      "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md": "3cfbe8163219",
+      "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md": "89b1283f7e9c",
       "content/posts/causality-all-the-way.md": "08a8a20f59ec",
       "content/posts/causality-and-the-irreducible-prior.md": "c26acfab7c66",
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "3216bed66187",
@@ -54,7 +54,7 @@
       "content/posts/consciousness-ascription-and-the-quantum-cut.md": "3ce64bf84b73",
       "content/posts/consciousness-never-appears-as-data-among-data.md": "90174c081cd1",
       "content/posts/constraints_are_ground.md": "578ff2fd47b5",
-      "content/posts/context-engineering-essay.md": "578b60e7f9d2",
+      "content/posts/context-engineering-essay.md": "5958a064ae49",
       "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "2a1afbcd283a",
       "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "6b2b7b30fcb5",
       "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "1f0177f4d89e",
@@ -66,9 +66,9 @@
       "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "434ad917ad64",
       "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "b2e4aff56800",
       "content/posts/dimensions-are-projections.md": "26191f359b0c",
-      "content/posts/distillation-compression-agency.md": "a69508711063",
+      "content/posts/distillation-compression-agency.md": "8be4ecf97ac2",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "b64fa4420bd4",
-      "content/posts/dynamic-resnet-of-skill-loops.md": "393401cefcd6",
+      "content/posts/dynamic-resnet-of-skill-loops.md": "16b8e364784c",
       "content/posts/e-shi-feng-bi-de-shan.md": "088dfadee5ac",
       "content/posts/efficiency-without-differentiation.md": "3240d0296338",
       "content/posts/emotional-support-as-causal-interference.md": "37673ac9a9a2",
@@ -98,7 +98,7 @@
       "content/posts/grok-420-framework-drift.md": "0d7bd6b1fcfd",
       "content/posts/guan-yu-gui-yin.md": "1a6ebddd8eab",
       "content/posts/guidance-is-not-ownership.md": "508e8c60e3d5",
-      "content/posts/handing-off-residue.md": "b6992d6e7219",
+      "content/posts/handing-off-residue.md": "ea02d17b7c6d",
       "content/posts/hardness-is-not-inherent-in-the-action.md": "a3edf37fad3f",
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "e145bfea5ec3",
       "content/posts/hassabis-einstein-test.md": "a19b4afc58f5",
@@ -121,7 +121,7 @@
       "content/posts/learned-boundaries-and-the-given-rate.md": "f0abccb5b5f6",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "b5bfd1bca0dc",
       "content/posts/looping-and-graphing.md": "0eb59f1b7f4a",
-      "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "a8708cb60725",
+      "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "68600b80682a",
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "ed8ae49b479f",
       "content/posts/machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence.md": "d69fda835993",
       "content/posts/manifesto-of-not-a-theory-of-everything.md": "2923afdf340b",
@@ -149,7 +149,7 @@
       "content/posts/objects-are-stabilized-relationships.md": "74accfac1364",
       "content/posts/observation-distinguishing-activity-and-the-open-ground-of-mind.md": "a110c8372700",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "8699e204b57f",
-      "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "5b8efe4584ea",
+      "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "8fbd0a86eced",
       "content/posts/on-education.md": "2506ab652440",
       "content/posts/on-the-boundaries-of-what-can-be-said-about-p-and-np.md": "20b6babdc81e",
       "content/posts/one-cannot-escape-ones-own-mind.md": "474dad0e12f2",
@@ -159,7 +159,7 @@
       "content/posts/open-vision-in-a-closed-arena.md": "dd25ac857ba3",
       "content/posts/openness-is-consistency.md": "75d18ddf339d",
       "content/posts/order-surplus-and-the-moral-intercept.md": "2c05f2c13447",
-      "content/posts/overfitting-as-the-follower-mode.md": "91e87126c0bd",
+      "content/posts/overfitting-as-the-follower-mode.md": "b4b1dd0ba436",
       "content/posts/ownership-and-self-worthiness.md": "00d4677b2544",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "19deef69b9d1",
       "content/posts/perception-perspective-refined.md": "d9484330c5b9",
@@ -174,7 +174,7 @@
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "b11dea0379ff",
       "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "2942b85de8aa",
       "content/posts/price-as-utterance-understanding-as-trade.md": "74464ff48389",
-      "content/posts/production-consumption-and-the-minds-distinction.md": "650eeb0e84da",
+      "content/posts/production-consumption-and-the-minds-distinction.md": "fed20f3d69e9",
       "content/posts/public-spending-does-not-create-capital.md": "928c2d8dc512",
       "content/posts/qian-yin-hou-guo.md": "cc5a0554ce85",
       "content/posts/rationality-never-travels-across-the-mind.md": "3cb2e68dd3f2",
@@ -185,7 +185,7 @@
       "content/posts/residual-control-recedes-to-the-edge.md": "3de7bf12eb33",
       "content/posts/residual-individualism.md": "ce5cf1738f1e",
       "content/posts/restriction-is-a-selective-tax.md": "fc908414eed9",
-      "content/posts/scaffolds-or-specialized-contexts.md": "ff1d8c730144",
+      "content/posts/scaffolds-or-specialized-contexts.md": "0bc0972f04ad",
       "content/posts/school_essay_final.md": "f18cabb10f9c",
       "content/posts/selection-contradiction-and-open-reality.md": "215cb759f7ef",
       "content/posts/self-image-speaks-as-if-from-nowhere.md": "823bf243373a",
@@ -343,7 +343,7 @@
       "content/posts/the-ramble-within-the-ramble.md": "57566038f9e7",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "46998aadc1d1",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "6036be35fe63",
-      "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "cf8b22820540",
+      "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "0d9ead92049c",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "e25d00e96b60",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "3f4e0e3db4b8",
       "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "ad7483982bf1",
@@ -359,7 +359,7 @@
       "content/posts/the-scaffolding-that-keeps-growing.md": "5aa327e7a053",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "47d7f8bbb45c",
       "content/posts/the-scaffolding-we-forget.md": "13fd3782c5c9",
-      "content/posts/the-scaling-loop.md": "4c50bfbc7ecd",
+      "content/posts/the-scaling-loop.md": "b1d098d39dde",
       "content/posts/the-self-portrait-in-the-projection.md": "2b51ab9fe625",
       "content/posts/the-shadow-and-the-infinite.md": "ff9474bbdd81",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "87a9e69d47f1",
@@ -392,7 +392,7 @@
       "content/posts/the_moving_ground.md": "5de734e74921",
       "content/posts/therapy-opens-the-feedback-loop.md": "fef94840ad77",
       "content/posts/time-is-causality-not-a-dimension.md": "bcd28712180f",
-      "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "6609b42fad1f",
+      "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "1be7c71de228",
       "content/posts/tokens-and-the-observational-boundary.md": "bca97aa871de",
       "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "9d994611d450",
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "91487ce48c58",
@@ -422,7 +422,7 @@
       "content/posts/you-cant-benchmark-the-fluid.md": "01847ccdd234",
       "content/posts/you-tiao-jian-de-zi-you.md": "951537534f9e",
       "content/posts/you-wu-zhi-bian.md": "44d999fe6fb0",
-      "content/posts/your-codebase-is-memory.md": "9d89541301ce",
+      "content/posts/your-codebase-is-memory.md": "4c1bed0716c9",
       "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "d2e6651a8bd3",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "85c32a43404f",
       "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "7bec47116337",
@@ -432,7 +432,7 @@
       "content/book/causality.md": "863b25c6333a",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "a70b0ae2be6b",
+      "content/book/index-of-premises.md": "69dbf6b51c86",
       "content/book/intelligence.md": "4a8603da481f",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -448,14 +448,14 @@
     },
     "stats": {
       "posts": 421,
-      "edges": 12730,
-      "unique_directed": 6263,
+      "edges": 12758,
+      "unique_directed": 6277,
       "missing_targets": 0,
-      "one_way": 1183,
+      "one_way": 1177,
       "isolated": 0,
       "posts_with_outbound": 421,
       "book_pages": 16,
-      "book_edges": 1228,
+      "book_edges": 1229,
       "posts_reached_by_book": 421
     }
   },
@@ -682,9 +682,9 @@
       "slug": "a-living-external-cortex",
       "path": "content/posts/a-living-external-cortex.md",
       "title": "活的外部皮层 / A Living External Cortex",
-      "hash": "8f68982aa3c3",
+      "hash": "3ad51ecf5376",
       "in_degree": 11,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "looping-and-graphing",
@@ -693,6 +693,7 @@
         "your-codebase-is-memory",
         "token-efficiency-emulation-and-the-unclosable-gap",
         "learned-boundaries-and-the-given-rate",
+        "two-phase-sleep-and-deep-sleep-continual-learning",
         "beyond-the-projection",
         "complexity-obscures-emergence-as-the-act-of-mind"
       ]
@@ -1260,9 +1261,9 @@
       "slug": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
       "path": "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md",
       "title": "递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems",
-      "hash": "3cfbe8163219",
+      "hash": "89b1283f7e9c",
       "in_degree": 16,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "no-system-can-be-kept-closed",
         "residual-control-recedes-to-the-edge",
@@ -1272,6 +1273,7 @@
         "learned-boundaries-and-the-given-rate",
         "your-codebase-is-memory",
         "the-residue-and-the-free-variable",
+        "two-phase-sleep-and-deep-sleep-continual-learning",
         "the-scaling-loop",
         "the-density-of-judgment",
         "intelligence-folding-back-on-itself"
@@ -1982,14 +1984,15 @@
       "slug": "context-engineering-essay",
       "path": "content/posts/context-engineering-essay.md",
       "title": "层层皆是语境 / Context All the Way Down",
-      "hash": "578b60e7f9d2",
+      "hash": "5958a064ae49",
       "in_degree": 2,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
         "the-living-context",
         "on-demand-contexts-keep-coherence-at-one-step",
         "your-codebase-is-memory",
+        "two-phase-sleep-and-deep-sleep-continual-learning",
         "the-scaling-loop",
         "intelligence-belongs-only-to-the-mind"
       ]
@@ -2282,10 +2285,11 @@
       "slug": "distillation-compression-agency",
       "path": "content/posts/distillation-compression-agency.md",
       "title": "蒸馏、压缩与能动性 / Distillation Chooses What to Lose",
-      "hash": "a69508711063",
+      "hash": "8be4ecf97ac2",
       "in_degree": 4,
-      "out_degree": 4,
+      "out_degree": 5,
       "links_out": [
+        "two-phase-sleep-and-deep-sleep-continual-learning",
         "your-codebase-is-memory",
         "beyond-the-projection",
         "token-efficiency-emulation-and-the-unclosable-gap",
@@ -2318,14 +2322,15 @@
       "slug": "dynamic-resnet-of-skill-loops",
       "path": "content/posts/dynamic-resnet-of-skill-loops.md",
       "title": "模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks",
-      "hash": "393401cefcd6",
+      "hash": "16b8e364784c",
       "in_degree": 28,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "the-descent-that-doesnt-know-where-its-going",
         "beyond-the-projection",
         "handing-off-residue",
         "on-demand-contexts-keep-coherence-at-one-step",
+        "two-phase-sleep-and-deep-sleep-continual-learning",
         "your-codebase-is-memory",
         "learned-boundaries-and-the-given-rate",
         "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
@@ -3062,9 +3067,9 @@
       "slug": "handing-off-residue",
       "path": "content/posts/handing-off-residue.md",
       "title": "交接残余 / Handing Off Residue",
-      "hash": "b6992d6e7219",
+      "hash": "ea02d17b7c6d",
       "in_degree": 8,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "beyond-the-projection",
         "on-demand-contexts-keep-coherence-at-one-step",
@@ -3076,6 +3081,7 @@
         "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
         "dynamic-resnet-of-skill-loops",
         "learned-boundaries-and-the-given-rate",
+        "two-phase-sleep-and-deep-sleep-continual-learning",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind"
       ]
     },
@@ -3755,9 +3761,9 @@
       "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
       "path": "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md",
       "title": "开放场域中的无损知识不自洽 / Lossless Knowledge of an Open Field Is Incoherent",
-      "hash": "a8708cb60725",
+      "hash": "68600b80682a",
       "in_degree": 27,
-      "out_degree": 26,
+      "out_degree": 27,
       "links_out": [
         "the-knowledge-problem-and-the-illusion-of-delegation",
         "the-scaling-loop",
@@ -3778,6 +3784,7 @@
         "beyond-the-projection",
         "precision-and-resolution",
         "your-codebase-is-memory",
+        "two-phase-sleep-and-deep-sleep-continual-learning",
         "clarity-isnt-a-state-you-arrive-at",
         "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
         "xian-shi-de-bian-jie",
@@ -4524,9 +4531,9 @@
       "slug": "on-demand-contexts-keep-coherence-at-one-step",
       "path": "content/posts/on-demand-contexts-keep-coherence-at-one-step.md",
       "title": "按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step",
-      "hash": "5b8efe4584ea",
+      "hash": "8fbd0a86eced",
       "in_degree": 21,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "your-codebase-is-memory",
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
@@ -4538,6 +4545,7 @@
         "the-density-of-judgment",
         "dynamic-resnet-of-skill-loops",
         "learned-boundaries-and-the-given-rate",
+        "two-phase-sleep-and-deep-sleep-continual-learning",
         "the-illusion-of-multi-agent-collaboration"
       ]
     },
@@ -4832,15 +4840,16 @@
       "slug": "overfitting-as-the-follower-mode",
       "path": "content/posts/overfitting-as-the-follower-mode.md",
       "title": "过拟合作为追随者模式 / Overfitting as the Follower Mode",
-      "hash": "91e87126c0bd",
+      "hash": "b4b1dd0ba436",
       "in_degree": 4,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "the-descent-that-doesnt-know-where-its-going",
         "closed-reality-in-benchmark-maxing",
         "your-codebase-is-memory",
         "distillation-compression-agency",
         "beyond-the-projection",
+        "two-phase-sleep-and-deep-sleep-continual-learning",
         "the-meaning-of-life-is-in-the-drafting",
         "sensing-before-interpretation",
         "better-than-free-after-the-checklist-closes"
@@ -5287,7 +5296,7 @@
       "slug": "production-consumption-and-the-minds-distinction",
       "path": "content/posts/production-consumption-and-the-minds-distinction.md",
       "title": "生产、消费与心智的区分 / Production, Consumption, and the Mind's Distinction",
-      "hash": "650eeb0e84da",
+      "hash": "fed20f3d69e9",
       "in_degree": 38,
       "out_degree": 39,
       "links_out": [
@@ -5609,9 +5618,9 @@
       "slug": "scaffolds-or-specialized-contexts",
       "path": "content/posts/scaffolds-or-specialized-contexts.md",
       "title": "是脚手架还是特化语境 / Scaffolds or Specialized Contexts",
-      "hash": "ff1d8c730144",
+      "hash": "0bc0972f04ad",
       "in_degree": 2,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "the-scaffolding-we-forget",
         "platform-decision-capture",
@@ -5620,6 +5629,7 @@
         "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
         "handing-off-residue",
         "dynamic-resnet-of-skill-loops",
+        "two-phase-sleep-and-deep-sleep-continual-learning",
         "the-comparison-that-relocates-the-cause"
       ]
     },
@@ -9690,9 +9700,9 @@
       "slug": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "path": "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md",
       "title": "真正稀缺的不是记忆，而是持续的重新追溯 / The Real Scarcity Is Not Memory, But Continuous Re-Tracing",
-      "hash": "cf8b22820540",
+      "hash": "0d9ead92049c",
       "in_degree": 19,
-      "out_degree": 18,
+      "out_degree": 19,
       "links_out": [
         "looping-and-graphing",
         "the-scaffolding-we-forget",
@@ -9706,6 +9716,7 @@
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "only-if-it-is-not-kept-empty",
         "your-codebase-is-memory",
+        "two-phase-sleep-and-deep-sleep-continual-learning",
         "beyond-the-projection",
         "causality-all-the-way",
         "what-information-is",
@@ -10180,12 +10191,13 @@
       "slug": "the-scaling-loop",
       "path": "content/posts/the-scaling-loop.md",
       "title": "规模化回路 / The Scaling Loop",
-      "hash": "4c50bfbc7ecd",
+      "hash": "b1d098d39dde",
       "in_degree": 8,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "context-engineering-essay",
+        "two-phase-sleep-and-deep-sleep-continual-learning",
         "self-rl-for-humans",
         "data-is-local-intelligence-is-allocated",
         "closed-assumptions-squeeze-compounding-into-s-curves",
@@ -10936,13 +10948,14 @@
       "slug": "token-efficiency-emulation-and-the-unclosable-gap",
       "path": "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md",
       "title": "Token 效率、模拟与无法弥合的间隙 / Token Efficiency, Emulation, and the Unclosable Gap",
-      "hash": "6609b42fad1f",
+      "hash": "1be7c71de228",
       "in_degree": 22,
-      "out_degree": 22,
+      "out_degree": 23,
       "links_out": [
         "efficiency-without-differentiation",
         "distillation-compression-agency",
         "the-homework-exam-inversion-registers-substitution",
+        "two-phase-sleep-and-deep-sleep-continual-learning",
         "self-rl-for-humans",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "ownership-and-self-worthiness",
@@ -11118,7 +11131,7 @@
       "path": "content/posts/two-phase-sleep-and-deep-sleep-continual-learning.md",
       "title": "睡眠与深度睡眠的双阶段持续学习 / Two-Phase Sleep and Deep Sleep Continual Learning",
       "hash": "ab5a465fb7bb",
-      "in_degree": 0,
+      "in_degree": 14,
       "out_degree": 17,
       "links_out": [
         "learned-boundaries-and-the-given-rate",
@@ -11762,9 +11775,9 @@
       "slug": "your-codebase-is-memory",
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
-      "hash": "9d89541301ce",
+      "hash": "4c1bed0716c9",
       "in_degree": 406,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-model-never-becomes-a-second-edge",
@@ -11777,6 +11790,7 @@
         "agency-and-the-pattern",
         "looping-and-graphing",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+        "two-phase-sleep-and-deep-sleep-continual-learning",
         "judgment-is-not-a-stock"
       ]
     },
@@ -12527,9 +12541,21 @@
     },
     {
       "from": "a-living-external-cortex",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "睡眠与深度睡眠的双阶段持续学习"
+    },
+    {
+      "from": "a-living-external-cortex",
       "to": "learned-boundaries-and-the-given-rate",
       "rel": "points_to",
       "label": "Learned Boundaries and the Given Rate"
+    },
+    {
+      "from": "a-living-external-cortex",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "Two-Phase Sleep and Deep Sleep Continual Learning"
     },
     {
       "from": "a-living-external-cortex",
@@ -16313,9 +16339,21 @@
     },
     {
       "from": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "睡眠与深度睡眠的双阶段持续学习"
+    },
+    {
+      "from": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
       "to": "the-scaling-loop",
       "rel": "points_to",
       "label": "规模化回路"
+    },
+    {
+      "from": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "Two-Phase Sleep and Deep Sleep Continual Learning"
     },
     {
       "from": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
@@ -21671,6 +21709,12 @@
     },
     {
       "from": "context-engineering-essay",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "睡眠与深度睡眠的双阶段持续学习"
+    },
+    {
+      "from": "context-engineering-essay",
       "to": "the-scaling-loop",
       "rel": "points_to",
       "label": "规模化回路"
@@ -21680,6 +21724,12 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "context-engineering-essay",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "Two-Phase Sleep and Deep Sleep Continual Learning"
     },
     {
       "from": "context-engineering-essay",
@@ -23573,6 +23623,18 @@
     },
     {
       "from": "distillation-compression-agency",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "睡眠与深度睡眠的双阶段持续学习"
+    },
+    {
+      "from": "distillation-compression-agency",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "Two-Phase Sleep and Deep Sleep Continual Learning"
+    },
+    {
+      "from": "distillation-compression-agency",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
@@ -23599,7 +23661,7 @@
       "from": "distillation-compression-agency",
       "to": "token-efficiency-emulation-and-the-unclosable-gap",
       "rel": "points_to",
-      "label": "词元效率、模拟与无法弥合的间隙"
+      "label": "Token 效率、模拟与无法弥合的间隙"
     },
     {
       "from": "distillation-compression-agency",
@@ -23765,9 +23827,21 @@
     },
     {
       "from": "dynamic-resnet-of-skill-loops",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "睡眠与深度睡眠的双阶段持续学习"
+    },
+    {
+      "from": "dynamic-resnet-of-skill-loops",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "dynamic-resnet-of-skill-loops",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "Two-Phase Sleep and Deep Sleep Continual Learning"
     },
     {
       "from": "dynamic-resnet-of-skill-loops",
@@ -28478,6 +28552,18 @@
       "to": "learned-boundaries-and-the-given-rate",
       "rel": "points_to",
       "label": "Learned Boundaries and the Given Rate"
+    },
+    {
+      "from": "handing-off-residue",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "睡眠与深度睡眠的双阶段持续学习"
+    },
+    {
+      "from": "handing-off-residue",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "Two-Phase Sleep and Deep Sleep Continual Learning"
     },
     {
       "from": "handing-off-residue",
@@ -33617,6 +33703,12 @@
     },
     {
       "from": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "睡眠与深度睡眠的双阶段持续学习"
+    },
+    {
+      "from": "lossless-knowledge-of-an-open-field-is-incoherent",
       "to": "precision-and-resolution",
       "rel": "points_to",
       "label": "Precision and Resolution"
@@ -33626,6 +33718,12 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "Two-Phase Sleep and Deep Sleep Continual Learning"
     },
     {
       "from": "lossless-knowledge-of-an-open-field-is-incoherent",
@@ -38807,6 +38905,12 @@
     },
     {
       "from": "on-demand-contexts-keep-coherence-at-one-step",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "睡眠与深度睡眠的双阶段持续学习"
+    },
+    {
+      "from": "on-demand-contexts-keep-coherence-at-one-step",
       "to": "the-density-of-judgment",
       "rel": "points_to",
       "label": "The Density of Judgment"
@@ -38822,6 +38926,12 @@
       "to": "learned-boundaries-and-the-given-rate",
       "rel": "points_to",
       "label": "Learned Boundaries and the Given Rate"
+    },
+    {
+      "from": "on-demand-contexts-keep-coherence-at-one-step",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "Two-Phase Sleep and Deep Sleep Continual Learning"
     },
     {
       "from": "on-demand-contexts-keep-coherence-at-one-step",
@@ -41030,6 +41140,18 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
+    },
+    {
+      "from": "overfitting-as-the-follower-mode",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "睡眠与深度睡眠的双阶段持续学习"
+    },
+    {
+      "from": "overfitting-as-the-follower-mode",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "Two-Phase Sleep and Deep Sleep Continual Learning"
     },
     {
       "from": "overfitting-as-the-follower-mode",
@@ -46697,9 +46819,21 @@
     },
     {
       "from": "scaffolds-or-specialized-contexts",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "睡眠与深度睡眠的双阶段持续学习"
+    },
+    {
+      "from": "scaffolds-or-specialized-contexts",
       "to": "the-comparison-that-relocates-the-cause",
       "rel": "points_to",
       "label": "转移原因的比较"
+    },
+    {
+      "from": "scaffolds-or-specialized-contexts",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "Two-Phase Sleep and Deep Sleep Continual Learning"
     },
     {
       "from": "scaffolds-or-specialized-contexts",
@@ -72791,6 +72925,12 @@
     },
     {
       "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "睡眠与深度睡眠的双阶段持续学习"
+    },
+    {
+      "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "超越投射"
@@ -72800,6 +72940,12 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "Two-Phase Sleep and Deep Sleep Continual Learning"
     },
     {
       "from": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
@@ -76322,6 +76468,18 @@
       "to": "context-engineering-essay",
       "rel": "points_to",
       "label": "Context All the Way Down"
+    },
+    {
+      "from": "the-scaling-loop",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "睡眠与深度睡眠的双阶段持续学习"
+    },
+    {
+      "from": "the-scaling-loop",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "Two-Phase Sleep and Deep Sleep Continual Learning"
     },
     {
       "from": "the-scaling-loop",
@@ -81485,6 +81643,12 @@
     },
     {
       "from": "token-efficiency-emulation-and-the-unclosable-gap",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "睡眠与深度睡眠的双阶段持续学习"
+    },
+    {
+      "from": "token-efficiency-emulation-and-the-unclosable-gap",
       "to": "self-rl-for-humans",
       "rel": "points_to",
       "label": "看似AI的强化学习，实为人类的自我强化学习"
@@ -81494,6 +81658,12 @@
       "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "rel": "points_to",
       "label": "好奇先行"
+    },
+    {
+      "from": "token-efficiency-emulation-and-the-unclosable-gap",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "Two-Phase Sleep and Deep Sleep Continual Learning"
     },
     {
       "from": "token-efficiency-emulation-and-the-unclosable-gap",
@@ -87245,9 +87415,21 @@
     },
     {
       "from": "your-codebase-is-memory",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "睡眠与深度睡眠的双阶段持续学习"
+    },
+    {
+      "from": "your-codebase-is-memory",
       "to": "judgment-is-not-a-stock",
       "rel": "points_to",
       "label": "判断力不是可囤积的存量"
+    },
+    {
+      "from": "your-codebase-is-memory",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "Two-Phase Sleep and Deep Sleep Continual Learning"
     },
     {
       "from": "your-codebase-is-memory",
@@ -88359,7 +88541,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "a70b0ae2be6b",
+        "hash": "69dbf6b51c86",
         "out_degree": 421
       },
       {
@@ -89935,6 +90117,12 @@
         "to": "overfitting-as-the-follower-mode",
         "rel": "collects",
         "label": "过拟合作为追随者模式 / Overfitting as the Follower Mode"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+        "rel": "collects",
+        "label": "睡眠与深度睡眠的双阶段持续学习 / Two-Phase Sleep and Deep Sleep Continual Learning"
       },
       {
         "from": "book:index-of-premises",
