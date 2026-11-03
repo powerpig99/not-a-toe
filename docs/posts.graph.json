@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-03T16:58:03.480Z",
+    "generated_at": "2026-11-03T17:52:28.038Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -57,7 +57,7 @@
       "content/posts/constraints_are_ground.md": "578ff2fd47b5",
       "content/posts/context-engineering-essay.md": "b551944fbba4",
       "content/posts/continuous-learning-as-expression-and-simulation.md": "9ce5608bf474",
-      "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "2a1afbcd283a",
+      "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "d399e29f1ee7",
       "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "6b2b7b30fcb5",
       "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "1f0177f4d89e",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "de3299fb5449",
@@ -126,7 +126,7 @@
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "9523f080d940",
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "ed8ae49b479f",
       "content/posts/machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence.md": "9eeba4ce94c6",
-      "content/posts/manifesto-of-not-a-theory-of-everything.md": "2923afdf340b",
+      "content/posts/manifesto-of-not-a-theory-of-everything.md": "800a68613b70",
       "content/posts/math-as-a-career-is-not-math-as-a-pursuit.md": "1861bc2e15c4",
       "content/posts/meaning-of-life-refined.md": "a761f7b00966",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "1a34f9ee3e60",
@@ -156,7 +156,7 @@
       "content/posts/on-the-boundaries-of-what-can-be-said-about-p-and-np.md": "20b6babdc81e",
       "content/posts/one-cannot-escape-ones-own-mind.md": "474dad0e12f2",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "b68e2cc6fd51",
-      "content/posts/only-if-it-is-not-kept-empty.md": "61d9b751aefb",
+      "content/posts/only-if-it-is-not-kept-empty.md": "0ec239961bd8",
       "content/posts/ontos-is-a-method-agent.md": "4224657b580a",
       "content/posts/open-vision-in-a-closed-arena.md": "4265f8778584",
       "content/posts/openness-is-consistency.md": "0b42573747af",
@@ -222,7 +222,7 @@
       "content/posts/the-blind-spot-of-the-frame.md": "9f7a2066930e",
       "content/posts/the-boundary-crossing-of-choice.md": "5725ac2013bd",
       "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "a1b259f6992c",
-      "content/posts/the-boundary-of-the-frame.md": "26e714abce6e",
+      "content/posts/the-boundary-of-the-frame.md": "d379a51837b8",
       "content/posts/the-brain-does-not-backprop.md": "e688e33e1cb4",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "a8a4ce29b72b",
       "content/posts/the-carry-that-cannot-be-named-inside-the-register.md": "042276f47daa",
@@ -256,7 +256,7 @@
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "cf61f9e9c832",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "58a9434b7326",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "2bc09be901d9",
-      "content/posts/the-extendable-horizon.md": "d83f80b6754c",
+      "content/posts/the-extendable-horizon.md": "f5b2880f254c",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "7915aadc533b",
       "content/posts/the-fallacy-of-post-success-parenting.md": "a33a3eabb00c",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "204ffca3c19c",
@@ -279,7 +279,7 @@
       "content/posts/the-geometry-of-emergence.md": "689e19f5f25e",
       "content/posts/the-geometry-of-mind.md": "fb97ac2e1e81",
       "content/posts/the-geometry-of-success.md": "7e595bd2dce9",
-      "content/posts/the-geometry-of-the-cut.md": "6e088e0cb25d",
+      "content/posts/the-geometry-of-the-cut.md": "1fc2cc0a5e0c",
       "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "3d3447a6b6f0",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "3de7d02051ad",
       "content/posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function.md": "dc4dc29b990d",
@@ -315,9 +315,9 @@
       "content/posts/the-loop-that-cant-see-itself.md": "b9a6ed83a832",
       "content/posts/the-maintenance-paradox.md": "1d92c151aa07",
       "content/posts/the-map-after-the-territory.md": "7c4c6f4b27cf",
-      "content/posts/the-mark-and-the-act.md": "a3c8f8e1a2d4",
+      "content/posts/the-mark-and-the-act.md": "8167eeddeeae",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "92771062e024",
-      "content/posts/the-mind-as-vector-and-coordinate-system.md": "9a0e8c82748a",
+      "content/posts/the-mind-as-vector-and-coordinate-system.md": "a7f76c5db9fa",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "35d749b1bd01",
       "content/posts/the-mirage-of-the-infinite-totality.md": "befa5078c345",
       "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "66816e477146",
@@ -361,12 +361,12 @@
       "content/posts/the-reversal-of-verification.md": "d8eedc3f8076",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "7a1980b70a67",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "445e4d098b1b",
-      "content/posts/the-scaffolding-that-keeps-growing.md": "5aa327e7a053",
+      "content/posts/the-scaffolding-that-keeps-growing.md": "0750e86d12d5",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "91a452732b88",
       "content/posts/the-scaffolding-we-forget.md": "c1d67b1d0da2",
       "content/posts/the-scaling-loop.md": "59f678c43d21",
       "content/posts/the-self-portrait-in-the-projection.md": "2b51ab9fe625",
-      "content/posts/the-shadow-and-the-infinite.md": "ff9474bbdd81",
+      "content/posts/the-shadow-and-the-infinite.md": "3ac1eba8a057",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "87a9e69d47f1",
       "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "5d21768fd3b6",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "c2d1d681f444",
@@ -379,11 +379,11 @@
       "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "c663c4a8107a",
       "content/posts/the-surface-beneath.md": "cb6892bfdae1",
       "content/posts/the-surface-that-registers.md": "add37f7bdd58",
-      "content/posts/the-three-shadows-of-the-cut.md": "dd71abf44fa7",
+      "content/posts/the-three-shadows-of-the-cut.md": "fcb032465d92",
       "content/posts/the-tightening-loop.md": "be324f885a2f",
       "content/posts/the-twin-paradox-and-the-hidden-observer.md": "ff11efe3625a",
       "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "19431edf6cb8",
-      "content/posts/the-unclosable-trace.md": "f4ad7fa5724b",
+      "content/posts/the-unclosable-trace.md": "12bf152789c6",
       "content/posts/the-unexamined-critic.md": "ffe36622f873",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "ea55420c80e9",
       "content/posts/the-unobservable-driver-of-learning.md": "16338781295d",
@@ -437,7 +437,7 @@
       "content/book/causality.md": "863b25c6333a",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "3e003b200a35",
+      "content/book/index-of-premises.md": "2623ff59b707",
       "content/book/intelligence.md": "6234ae4579e1",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -453,14 +453,14 @@
     },
     "stats": {
       "posts": 426,
-      "edges": 13048,
-      "unique_directed": 6418,
+      "edges": 13054,
+      "unique_directed": 6421,
       "missing_targets": 0,
-      "one_way": 1200,
+      "one_way": 1197,
       "isolated": 0,
       "posts_with_outbound": 426,
       "book_pages": 16,
-      "book_edges": 1244,
+      "book_edges": 1245,
       "posts_reached_by_book": 426
     }
   },
@@ -2081,7 +2081,7 @@
       "slug": "coordinate-systems-mind-and-degrees-of-freedom",
       "path": "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md",
       "title": "坐标系、心智与自由度 / Coordinate Systems, the Mind, and Degrees of Freedom",
-      "hash": "2a1afbcd283a",
+      "hash": "d399e29f1ee7",
       "in_degree": 6,
       "out_degree": 7,
       "links_out": [
@@ -2671,7 +2671,7 @@
       "path": "content/posts/expertise-as-reference-not-replacement.md",
       "title": "专家经验作为参考而非替代 / Expertise as Reference, Not Replacement",
       "hash": "bc7d7364b559",
-      "in_degree": 26,
+      "in_degree": 27,
       "out_degree": 33,
       "links_out": [
         "the-reality-distortion-field-names-the-closed-map",
@@ -3151,7 +3151,7 @@
       "path": "content/posts/handing-off-residue.md",
       "title": "交接残余 / Handing Off Residue",
       "hash": "54641f5f6655",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 14,
       "links_out": [
         "beyond-the-projection",
@@ -3949,7 +3949,7 @@
       "slug": "manifesto-of-not-a-theory-of-everything",
       "path": "content/posts/manifesto-of-not-a-theory-of-everything.md",
       "title": "非万物之理 / Not a Theory of Everything",
-      "hash": "2923afdf340b",
+      "hash": "800a68613b70",
       "in_degree": 10,
       "out_degree": 11,
       "links_out": [
@@ -4743,7 +4743,7 @@
       "slug": "only-if-it-is-not-kept-empty",
       "path": "content/posts/only-if-it-is-not-kept-empty.md",
       "title": "只要它不被保持为空 / Only If It Is Not Kept Empty",
-      "hash": "61d9b751aefb",
+      "hash": "0ec239961bd8",
       "in_degree": 12,
       "out_degree": 14,
       "links_out": [
@@ -6731,7 +6731,7 @@
       "slug": "the-boundary-of-the-frame",
       "path": "content/posts/the-boundary-of-the-frame.md",
       "title": "框架的边界 / The Boundary of the Frame",
-      "hash": "26e714abce6e",
+      "hash": "d379a51837b8",
       "in_degree": 20,
       "out_degree": 21,
       "links_out": [
@@ -6747,9 +6747,9 @@
         "the-reversal-of-verification",
         "the-reversal-from-defensible-claim-to-dogma",
         "no-system-can-be-kept-closed",
+        "the-closed-n-and-the-open-reality",
         "the-question-that-installs-the-war",
         "the-only-coherent-uncaused-effect",
-        "the-closed-n-and-the-open-reality",
         "causality-all-the-way",
         "intelligence-belongs-only-to-the-mind",
         "dimensions-are-projections",
@@ -7115,7 +7115,7 @@
       "path": "content/posts/the-comparison-that-relocates-the-cause.md",
       "title": "转移原因的比较 / The Comparison That Relocates the Cause",
       "hash": "645a2a0c87de",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 14,
       "links_out": [
         "handing-off-residue",
@@ -7592,7 +7592,7 @@
       "slug": "the-extendable-horizon",
       "path": "content/posts/the-extendable-horizon.md",
       "title": "可延展的地平线 / The Extendable Horizon",
-      "hash": "d83f80b6754c",
+      "hash": "f5b2880f254c",
       "in_degree": 14,
       "out_degree": 17,
       "links_out": [
@@ -8183,7 +8183,7 @@
       "slug": "the-geometry-of-the-cut",
       "path": "content/posts/the-geometry-of-the-cut.md",
       "title": "切分的几何学 / The Geometry of the Cut",
-      "hash": "6e088e0cb25d",
+      "hash": "1fc2cc0a5e0c",
       "in_degree": 3,
       "out_degree": 4,
       "links_out": [
@@ -8991,7 +8991,7 @@
       "slug": "the-mark-and-the-act",
       "path": "content/posts/the-mark-and-the-act.md",
       "title": "印迹与行动 / The Mark and the Act",
-      "hash": "a3c8f8e1a2d4",
+      "hash": "8167eeddeeae",
       "in_degree": 17,
       "out_degree": 18,
       "links_out": [
@@ -9057,7 +9057,7 @@
       "slug": "the-mind-as-vector-and-coordinate-system",
       "path": "content/posts/the-mind-as-vector-and-coordinate-system.md",
       "title": "向量、坐标系与自指心智 / The Mind as Vector and Coordinate System",
-      "hash": "9a0e8c82748a",
+      "hash": "a7f76c5db9fa",
       "in_degree": 18,
       "out_degree": 15,
       "links_out": [
@@ -10244,9 +10244,9 @@
       "slug": "the-scaffolding-that-keeps-growing",
       "path": "content/posts/the-scaffolding-that-keeps-growing.md",
       "title": "持续生长的脚手架 / The Scaffolding That Keeps Growing",
-      "hash": "5aa327e7a053",
+      "hash": "0750e86d12d5",
       "in_degree": 29,
-      "out_degree": 29,
+      "out_degree": 32,
       "links_out": [
         "openness-is-consistency",
         "the-scaffolding-we-forget",
@@ -10259,8 +10259,10 @@
         "whatever-is-one-prompt-away",
         "agi-and-asi-are-temporary-goalposts",
         "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
+        "the-comparison-that-relocates-the-cause",
         "the-density-of-judgment",
         "beyond-the-projection",
+        "handing-off-residue",
         "your-codebase-is-memory",
         "dynamic-resnet-of-skill-loops",
         "why-mathematics-can-never-be-solved",
@@ -10276,7 +10278,8 @@
         "abstraction-boundaries-and-the-moving-edge-of-reality",
         "freedom-as-ground",
         "curiosity-has-no-final-form",
-        "cong-xing-shi-mi-si-dao-luo-ji-bi-huan"
+        "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
+        "expertise-as-reference-not-replacement"
       ]
     },
     {
@@ -10432,7 +10435,7 @@
       "slug": "the-shadow-and-the-infinite",
       "path": "content/posts/the-shadow-and-the-infinite.md",
       "title": "阴影与无限 / The Shadow and the Infinite",
-      "hash": "ff9474bbdd81",
+      "hash": "3ac1eba8a057",
       "in_degree": 6,
       "out_degree": 9,
       "links_out": [
@@ -10759,7 +10762,7 @@
       "slug": "the-three-shadows-of-the-cut",
       "path": "content/posts/the-three-shadows-of-the-cut.md",
       "title": "切分的三重影子 / The Three Shadows of the Cut",
-      "hash": "dd71abf44fa7",
+      "hash": "fcb032465d92",
       "in_degree": 4,
       "out_degree": 7,
       "links_out": [
@@ -10861,7 +10864,7 @@
       "slug": "the-unclosable-trace",
       "path": "content/posts/the-unclosable-trace.md",
       "title": "无法闭合的痕迹 / The Unclosable Trace",
-      "hash": "f4ad7fa5724b",
+      "hash": "12bf152789c6",
       "in_degree": 12,
       "out_degree": 17,
       "links_out": [
@@ -54447,6 +54450,12 @@
     },
     {
       "from": "the-boundary-of-the-frame",
+      "to": "the-closed-n-and-the-open-reality",
+      "rel": "points_to",
+      "label": "闭合的N与开放的现实"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
       "to": "the-question-that-installs-the-war",
       "rel": "points_to",
       "label": "安装战争的那个问题"
@@ -54456,12 +54465,6 @@
       "to": "the-only-coherent-uncaused-effect",
       "rel": "points_to",
       "label": "唯一自洽的无因之果"
-    },
-    {
-      "from": "the-boundary-of-the-frame",
-      "to": "the-closed-n-and-the-open-reality",
-      "rel": "points_to",
-      "label": "闭合的N与开放的现实"
     },
     {
       "from": "the-boundary-of-the-frame",
@@ -54483,6 +54486,12 @@
     },
     {
       "from": "the-boundary-of-the-frame",
+      "to": "the-closed-n-and-the-open-reality",
+      "rel": "points_to",
+      "label": "The Closed N and the Open Reality"
+    },
+    {
+      "from": "the-boundary-of-the-frame",
       "to": "the-question-that-installs-the-war",
       "rel": "points_to",
       "label": "The Question That Installs the War"
@@ -54492,12 +54501,6 @@
       "to": "the-only-coherent-uncaused-effect",
       "rel": "points_to",
       "label": "The Only Coherent Uncaused Effect"
-    },
-    {
-      "from": "the-boundary-of-the-frame",
-      "to": "the-closed-n-and-the-open-reality",
-      "rel": "points_to",
-      "label": "The Closed N and the Open Reality"
     },
     {
       "from": "the-boundary-of-the-frame",
@@ -77063,7 +77066,7 @@
       "from": "the-scaffolding-that-keeps-growing",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
-      "label": "Clarity Isn't a State You Arrive At"
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
     },
     {
       "from": "the-scaffolding-that-keeps-growing",
@@ -77121,6 +77124,12 @@
     },
     {
       "from": "the-scaffolding-that-keeps-growing",
+      "to": "the-comparison-that-relocates-the-cause",
+      "rel": "points_to",
+      "label": "转移原因的比较"
+    },
+    {
+      "from": "the-scaffolding-that-keeps-growing",
       "to": "the-density-of-judgment",
       "rel": "points_to",
       "label": "判断的密度"
@@ -77130,6 +77139,12 @@
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "超越投射"
+    },
+    {
+      "from": "the-scaffolding-that-keeps-growing",
+      "to": "handing-off-residue",
+      "rel": "points_to",
+      "label": "交接残余"
     },
     {
       "from": "the-scaffolding-that-keeps-growing",
@@ -77145,15 +77160,9 @@
     },
     {
       "from": "the-scaffolding-that-keeps-growing",
-      "to": "why-mathematics-can-never-be-solved",
+      "to": "the-comparison-that-relocates-the-cause",
       "rel": "points_to",
-      "label": "为何数学永远解不完"
-    },
-    {
-      "from": "the-scaffolding-that-keeps-growing",
-      "to": "deceleration-is-the-drag-felt-when-accelerating",
-      "rel": "points_to",
-      "label": "减速是加速时感受到的阻力"
+      "label": "The Comparison That Relocates the Cause"
     },
     {
       "from": "the-scaffolding-that-keeps-growing",
@@ -77169,6 +77178,12 @@
     },
     {
       "from": "the-scaffolding-that-keeps-growing",
+      "to": "handing-off-residue",
+      "rel": "points_to",
+      "label": "Handing Off Residue"
+    },
+    {
+      "from": "the-scaffolding-that-keeps-growing",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
@@ -77178,6 +77193,18 @@
       "to": "dynamic-resnet-of-skill-loops",
       "rel": "points_to",
       "label": "Modular Feedback Loops and Dynamic Residual Networks"
+    },
+    {
+      "from": "the-scaffolding-that-keeps-growing",
+      "to": "why-mathematics-can-never-be-solved",
+      "rel": "points_to",
+      "label": "为何数学永远解不完"
+    },
+    {
+      "from": "the-scaffolding-that-keeps-growing",
+      "to": "deceleration-is-the-drag-felt-when-accelerating",
+      "rel": "points_to",
+      "label": "减速是加速时感受到的阻力"
     },
     {
       "from": "the-scaffolding-that-keeps-growing",
@@ -77277,6 +77304,12 @@
     },
     {
       "from": "the-scaffolding-that-keeps-growing",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "专家经验作为参考而非替代"
+    },
+    {
+      "from": "the-scaffolding-that-keeps-growing",
       "to": "reality-is-the-minds-ongoing-realization",
       "rel": "points_to",
       "label": "Reality Is the Mind's Ongoing Realization"
@@ -77334,6 +77367,12 @@
       "to": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
       "rel": "points_to",
       "label": "From the Myth of Form to the Closed Loop of Logic"
+    },
+    {
+      "from": "the-scaffolding-that-keeps-growing",
+      "to": "expertise-as-reference-not-replacement",
+      "rel": "points_to",
+      "label": "Expertise as Reference, Not Replacement"
     },
     {
       "from": "the-scaffolding-we-forget-local-models-as-default",
@@ -78591,12 +78630,6 @@
     },
     {
       "from": "the-shadow-and-the-infinite",
-      "to": "the-reversal-of-education-and-science",
-      "rel": "points_to",
-      "label": "The Inversion of Education and Science"
-    },
-    {
-      "from": "the-shadow-and-the-infinite",
       "to": "coordinate-systems-mind-and-degrees-of-freedom",
       "rel": "points_to",
       "label": "坐标系、心智与自由度"
@@ -78606,6 +78639,12 @@
       "to": "the-myth-of-the-four-dimensional-deer-and-the-present-model",
       "rel": "points_to",
       "label": "四维长鹿的幻象与当下的模型"
+    },
+    {
+      "from": "the-shadow-and-the-infinite",
+      "to": "the-reversal-of-education-and-science",
+      "rel": "points_to",
+      "label": "The Inversion of Education and Science"
     },
     {
       "from": "the-shadow-and-the-infinite",
@@ -81479,7 +81518,7 @@
       "from": "the-unclosable-trace",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "没有普渡，只有自渡"
+      "label": "没有普渡，只有自渡的无限可能"
     },
     {
       "from": "the-unclosable-trace",
@@ -81491,7 +81530,7 @@
       "from": "the-unclosable-trace",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "No Universal Salvation, Only Self-Deliverance"
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
     },
     {
       "from": "the-unclosable-trace",
@@ -90487,7 +90526,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "3e003b200a35",
+        "hash": "2623ff59b707",
         "out_degree": 426
       },
       {
@@ -93344,6 +93383,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-geometry-of-the-cut",
+        "rel": "collects",
+        "label": "切分的几何学 / The Geometry of the Cut"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-look-of-constraint-is-not-the-loss-of-freedom",
         "rel": "collects",
         "label": "约束的样子不是自由的失去 / The Look of Constraint Is Not the Loss of Freedom"
@@ -94220,6 +94265,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-shadow-and-the-infinite",
+        "rel": "collects",
+        "label": "阴影与无限 / The Shadow and the Infinite"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-generative-atlas-of-macroscopic-phenomena",
         "rel": "collects",
         "label": "宏观现象的生成图谱 / The Generative Atlas of Macroscopic Phenomena"
@@ -94985,12 +95036,6 @@
         "to": "the-homework-exam-inversion-registers-substitution",
         "rel": "collects",
         "label": "作业与考试的倒置折射出替代效应 / The Homework–Exam Inversion Registers Substitution"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-geometry-of-the-cut",
-        "rel": "collects",
-        "label": "切分的几何学 / The Geometry of the Cut"
       },
       {
         "from": "book:index-of-premises",

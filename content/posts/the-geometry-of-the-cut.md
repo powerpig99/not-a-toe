@@ -8,11 +8,11 @@ The debate over whether to change oneself first or the world first treats Self a
 
 ## 一、 房间与街道的先后之争 / 1. The Room and the Street
 
-关于“改变自身”与“改变世界”的先后次序，思想史上有一场延续至今的争论。一种流行的训诫主张，一个人若连自己的房间都没有打扫干净，便没有资格对整条街道的治理发言，改造世界之前须先修缮自身。与之相对的立场则认为，当整条街道已经起火时，关在屋内打扫房间是一种逃避，唯有投身外部结构的重建，个体才谈得上解放。
+关于“改变自身”与“改变世界”的先后次序，道德思想中有一场延续至今的争论。一种流行的训诫主张，一个人若连自己的房间都没有打扫干净，便没有资格对整条街道的治理发言，改造世界之前须先修缮自身。与之相对的立场则认为，当整条街道已经起火时，关在屋内打扫房间是一种逃避，唯有投身外部结构的重建，个体才谈得上解放。
 
 A long-running debate in moral thought concerns the order between transforming oneself and reforming the world. A familiar admonition holds that anyone who has not cleaned their own room has no standing to speak about the street, so self-repair must come before public action. The opposing position holds that when the street is already on fire, staying indoors to tidy a room is an evasion, and that only rebuilding the outer structure can free the individual.
 
-两种说法在各自的范围内都有用。当两件事争夺同一个小时、同一份注意力时，先做哪件是一个需要回答的日程问题，两派给出的都是可用的排序。它们的边界在同一处：两者都把“自身”与“世界”当作空间上相邻、时间上可以排序的两个房间，并把这个排序当成了因果上的前提。一旦接受这一划分，“应当”便跟着所选的起点移动，以自身为起点，义务指向内，以世界为起点，义务指向外。
+两种说法在各自的范围内都有用。当两件事争夺同一个小时、同一份注意力时，先做哪件是一个需要回答的日程问题，两派给出的都是可用的排序。它们的边界在同一处：两者都把“自身”与“世界”当作空间上相邻、时间上可以排序的两个房间，并把这个排序当成了因果上的前提。一旦接受这一划分，“应当”便跟着所选的起点移动：以自身为起点，义务指向内；以世界为起点，义务指向外。
 
 ```mermaid
 flowchart TD
@@ -27,7 +27,6 @@ flowchart TD
         Inward --> Dispute
         Outward --> Dispute
     end
-
     style S_Order fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Cut fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Inward fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -50,7 +49,6 @@ flowchart TD
         Inward --> Dispute
         Outward --> Dispute
     end
-
     style S_Order fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Cut fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Inward fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -58,13 +56,13 @@ flowchart TD
     style Dispute fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-这场排序在感知里找不到对应物。感知从未隔着一段空隙眺望被感知的东西，认知与被认知之物是连在一起到来的。
+这场排序在感知里找不到对应物。感知从未隔着一段空隙眺望被感知的东西，两者是连在一起到来的。
 
 Nothing in perception corresponds to this ordering. Perceiving never looks across a gap at what is perceived; the two arrive joined.
 
 ## 二、 一次感知的两个方向 / 2. Two Directions of One Perception
 
-从不可化约的第一人称感知出发，自身与世界不是两个可以分别丈量的实体，它们是同一个现象朝两个方向的自指展开。被称为“外部世界”的，是内在状态向外投出、显现在感知画布上的部分；被称为“自我形象”的，是同一束感知向内折回、照见自己时留下的曲率。感知因此是一种双向自指投影：向外显现为开阔的世界，向内显现为身心的意象。借拓扑的语言作脚手架，把外显与内折中彼此对应的点认作同一点，得到的是一个连通的商空间 M / ~。在伴侣关系中，“共同体”是被当成原因的世界，[契约的因果倒置](../the-causal-inversion-of-partnership/)把这一倒置拆开。
+从不可化约的第一人称感知出发，自身与世界不是两个可以分别丈量的实体，它们是同一个现象朝两个方向的自指展开。被称为“外部世界”的，是内在状态向外投出、显现在感知画布上的部分；被称为“自我形象”的，是同一束感知向内折回、照见自己时留下的曲率。感知因此是一种双向自指投影：向外显现为开阔的世界，向内显现为身心的意象。借拓扑的语言作脚手架，把外显与内折中彼此对应的点认作同一点，得到的是一个连通的商空间 M / ~。当这一向外投射在伴侣之间被物化，把双方共有的关系当作决定自身状态的外部实体，便生出[契约的因果倒置](../the-causal-inversion-of-partnership/)所拆解的倒置。
 
 ```mermaid
 flowchart TD
@@ -79,7 +77,6 @@ flowchart TD
         Out --> Quotient
         In --> Quotient
     end
-
     style S_Projection fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style Origin fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Out fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -102,7 +99,6 @@ flowchart TD
         Out --> Quotient
         In --> Quotient
     end
-
     style S_Projection fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style Origin fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Out fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -138,7 +134,6 @@ flowchart TD
         Method --> Watch
         Watch --> Stall
     end
-
     style S_Hindsight fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Walk fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Residue fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -166,7 +161,6 @@ flowchart TD
         Method --> Watch
         Watch --> Stall
     end
-
     style S_Hindsight fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Walk fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Residue fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -192,7 +186,6 @@ flowchart TD
         Pulpit --> Seen
         Seen --> Act
     end
-
     style S_Ought fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Premise fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Pulpit fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -214,7 +207,6 @@ flowchart TD
         Pulpit --> Seen
         Seen --> Act
     end
-
     style S_Ought fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Premise fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Pulpit fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -222,7 +214,7 @@ flowchart TD
     style Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-在线已经划定、众人共用同一划分的场合，“应当”是协调行动的有效工具。它的边界就是那条线本身：无论以“修身自省”之名向内鞭策，还是以“拯救世界”之名向外宣讲，都预设了一条在感知里找不到的界线。在“先提升自己还是先改变环境”之间感到的胶着与无力，因此不是品格的缺陷，也不是意志力的匮乏，那是在一个连通的整体上求解一维排序问题时必然出现的阻力。当这条线被认出是自己划的，压在其上的重负随之松开。
+在界线已经划定、众人共用同一划分的场合，“应当”是协调行动的有效工具。它的边界就是那条线本身：无论以“修身自省”之名向内鞭策，还是以“拯救世界”之名向外宣讲，都预设了一条在感知里找不到的界线。在“先提升自己还是先改变环境”之间感到的胶着与无力，因此不是品格的缺陷，也不是意志力的匮乏，那是在一个连通的整体上求解一维排序问题时必然出现的阻力。当这条线被认出是自己划的，压在其上的重负随之松开。
 
 Where the line is already drawn and people share the same division, "ought" is an effective tool for coordinating action. Its boundary is the line itself: whether it drives inward in the name of self-cultivation or preaches outward in the name of saving the world, it presupposes a border that perception does not contain. The stuck, powerless feeling between "improve myself first" and "change my surroundings first" is therefore neither a defect of character nor a shortage of willpower; it is the resistance that must appear when a one-dimensional ordering problem is posed on a connected whole. When the line is recognized as self-drawn, the weight resting on it lifts.
 
@@ -246,7 +238,6 @@ flowchart TD
         Steps --> Limit
         Limit --> Cause
     end
-
     style S_Render fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style Free fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Steps fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -268,7 +259,6 @@ flowchart TD
         Steps --> Limit
         Limit --> Cause
     end
-
     style S_Render fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style Free fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Steps fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -280,9 +270,9 @@ flowchart TD
 
 Self is the cause and the world is the effect. The world one sees is not a container that has nothing to do with oneself; it is the holographic picture one's own state casts under friction. If the image on the screen is distorted, rushing up to wipe the screen does not change the image; the focus has to be adjusted at the projector. And the focus cannot be set in a dark room with no light: only by casting the beam and striking what does not give way can it be brought sharp.
 
-所以改变自身就是在改变所见的世界，与世界的碰撞又是校准自身参数的唯一通道。“普通视角”用世界解释自我，与这道切分正好相反，[“普通人视角”的解释陷阱](../the-explanatory-trap-of-the-ordinary-perspective/)对此有所展开。
+所以改变自身就是在改变所见的世界，而校准只在直面不让步之物的行动中发生，旁观自己做不到。普通人视角用世界解释自我，与这道切分正好相反，[“普通人视角”的解释陷阱](../the-explanatory-trap-of-the-ordinary-perspective/)对此有所展开。
 
-So changing oneself is changing the world one sees, and colliding with the world is in turn the only channel through which one's own parameters are calibrated. The ordinary perspective explains the self by the world, the reverse of this cut, as [The Explanatory Trap of the "Ordinary Perspective"](../the-explanatory-trap-of-the-ordinary-perspective/) shows.
+So changing oneself is changing the world one sees, and calibration happens only by acting against what does not give way rather than watching oneself. The ordinary perspective explains the self by the world, the reverse of this cut, as [The Explanatory Trap of the "Ordinary Perspective"](../the-explanatory-trap-of-the-ordinary-perspective/) shows.
 
 ## 六、 没有前置条件 / 6. No Preconditions
 
@@ -304,7 +294,6 @@ flowchart TD
         Step --> Calibrate
         Step --> Reshape
     end
-
     style S_Action fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Start fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Step fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -326,7 +315,6 @@ flowchart TD
         Step --> Calibrate
         Step --> Reshape
     end
-
     style S_Action fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Start fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Step fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -334,6 +322,6 @@ flowchart TD
     style Reshape fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-这里没有先后，也没有排队。针对自身与针对世界的两种说教可以一并放下，旁观自己的位置也可以放下，留下的是站在原点上对当下的处境承担全部的结构性责任。以摩擦为师，在每一次未经稀释的行动里，校准与行动是同一件事。过往切分留下的概念与记录，如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，也只是外化的记忆，等待着活的原点去承受下一步的摩擦。
+这里没有先后，也没有排队。针对自身与针对世界的两种说教可以一并放下，旁观自己的位置也可以放下，留下的是站在原点上对当下的处境承担全部的结构性责任。以摩擦为师，在每一次行动里，校准与行动是同一件事。过往切分留下的概念与记录，如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，也只是外化的记忆，等待着活的原点去直面下一步的摩擦。
 
-There is no sequence here and no queue. Both sermons can be set down, the one aimed at the self and the one aimed at the world, along with the third-person posture of policing oneself from outside; as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, every rulebook, moral record, or conceptual map retained from prior cuts is only externalized memory, inert until a living origin steps into the friction of the next commit. What remains is standing at that origin with full structural responsibility for the present situation: with friction as the teacher, in every undiluted action, calibrating the self and reshaping the world are one and the same stroke.
+There is no sequence here and no queue. Both sermons, the one aimed at the self and the one aimed at the world, can be set down along with the bystander position of watching oneself; what remains is standing at the origin and bearing full structural responsibility for the present situation. With friction as the teacher, in every action, calibrating and acting are the same thing. The concepts and records left by prior cuts, as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, are likewise only externalized memory, waiting for a living origin to meet the friction of the next step.

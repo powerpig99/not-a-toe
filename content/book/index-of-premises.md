@@ -641,9 +641,9 @@ Paternalism presumes one locus may override another's judgment for the other's g
 ### 保罗·丘奇兰德 / Paul Churchland
 `哲学 / Philosophical`
 
-丘奇兰德的取消式唯物主义认为常识心理学是一套不完善的理论，其所指的第一人称现象会随神经科学成熟而被取消；它在用第一人称的理智去否认第一人称的理智之处到了边界，作为让神经科学不必迁就日常用语切分大脑的提醒，它依然有用。
+丘奇兰德的取消式唯物主义认为常识心理学是一套错误的理论，它所设定的信念与欲望并不存在，会随神经科学的成熟而被取代；神经科学由第一人称的相信与推论建起，一旦被拿来否认建起它的这些状态，这一立场便到了边界；作为让神经科学不必迁就日常用语去切分大脑的提醒，它依然有用。
 
-Churchland's eliminative materialism holds folk psychology to be an imperfect theory whose first-person referents will be eliminated as neuroscience matures; it reaches its boundary where the first-person intellect is used to deny the first-person intellect, while as a reminder that neuroscience need not carve the brain to fit everyday speech it stays useful.
+Churchland's eliminative materialism holds folk psychology to be a false theory whose posited beliefs and desires do not exist and will be displaced as neuroscience matures; it reaches its boundary where a neuroscience built by first-person believing and inferring is used to deny the states that built it, while as a reminder that neuroscience need not carve the brain to fit everyday speech it stays useful.
 
 → [无法闭合的痕迹 / The Unclosable Trace](../../posts/the-unclosable-trace/)
 
@@ -731,9 +731,9 @@ Recursive self-improvement presumes that a system able to improve itself becomes
 ### 勒内·笛卡尔 / René Descartes
 `哲学 / Philosophical`
 
-笛卡尔将认识论确定性锚定于第一人称怀疑；开创了理性主义体系，其心物二分却为后世把心智还原为发条机械埋下诱因。
+笛卡尔把认识论的确定性锚定在第一人称的“我思”上，并把心与广延一分为二；这一二分让广延之物可以被单独拿出来测量，此后几个世纪的机械科学接过了这一做法，这是它依然有用之处；它把操作上的滞后冻结成两种静态实体，并招来对心智的机械还原，这是它到达边界之处。
 
-Descartes grounded epistemological certainty in first-person cogito while separating mind from extension; foundational for modern science, his split led to mechanistic reductions of mind.
+Descartes grounded epistemological certainty in the first-person cogito and split mind from extension; the split stays useful where isolating extended things for measurement served the mechanical science of the following centuries, and reaches its boundary where it freezes an operational lag into two static substances and invites mechanistic reductions of mind.
 
 → [笛卡尔的认识论跃迁与造神狂热 / The Cartesian Epistemic Leap and the Frenzy of Creation](../../posts/the-cartesian-overstep-and-the-frenzy-of-creation/) · [无法闭合的痕迹 / The Unclosable Trace](../../posts/the-unclosable-trace/)
 
@@ -2119,9 +2119,9 @@ Bayesian updating on given traces is of use when its premises are re-examined; i
 ### 有无之辩 / Being and Non-Being (You-Wu)
 `哲学 / Philosophical`
 
-实体论将有视为本原、将无视为虚无；老子阐明中空正是器物得以发挥功用的枢纽，二者相辅相成。
+实体论把“有”当作本原、把“无”当作单纯的缺席，而老子的器皿则把用处安放在形式所围合的中空里；形式与中空作为服务于当下那一步的工具，各有其用处，而在任一方被封为地基时，或在器皿被当作既定、陶土及其塑形未被追问时，到达边界。
 
-Substantialist ontology treats Being as primary and Void as mere absence; Laozi demonstrates emptiness constitutes the functional space through which forms operate.
+Substantialist ontology takes Being as primary and Non-Being as mere absence, while Laozi's vessel places use in the hollow that form encloses; form and hollow are each of use as instruments for their step, and reach their boundary where either is sealed as ground, or where the vessel is taken as given and the clay and its shaping go unasked.
 
 → [有无之边 / The Edge of Being and Non-Being](../../posts/you-wu-zhi-bian/) · [只要它不被保持为空 / Only If It Is Not Kept Empty](../../posts/only-if-it-is-not-kept-empty/)
 
@@ -2268,6 +2268,15 @@ Presumes that avoiding outside observation or delaying institutional penalties s
 Presumes regulatory committees can centrally pace technological evolution; useful for legal guardrails, it overlooks that intelligence adapts through edge friction.
 
 → [调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth](../../posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/)
+
+### 先改变自己还是先改变世界 / Changing Oneself First or Changing the World First
+`哲学 / Philosophical`
+
+“先改变自己还是先改变世界”的争论，假定自身与世界是空间上相邻、时间上可以排序的两个房间，在两件事争夺同一个小时与同一份注意力时，作为日程安排的回答有用；把这个排序当成因果前提、以为它跨越了一条分界线，便到了它的边界，因为感知中并没有这条线：世界与自我形象是同一次感知的两个方向，在原点上的每一次行动都同时校准自身并重塑所见的世界。
+
+The dispute over whether to change oneself first or change the world first presumes that Self and World are two rooms adjacent in space that can be ordered in time, which is of use as a scheduling answer when two tasks compete for the same hour and attention; it reaches its boundary in taking that ordering for a causal precondition across a border that perception does not contain, since world and self-image are two directions of one perception and every action at the origin calibrates the self and reshapes the world it sees in the same stroke.
+
+→ [切分的几何学 / The Geometry of the Cut](../../posts/the-geometry-of-the-cut/)
 
 ### 童年自由在成年时被没收 / Childhood Freedom Confiscated by Adulthood
 `成功学 / Self-Help`
@@ -2524,9 +2533,9 @@ Calling a step hard assumes difficulty inheres in the action, which is of use as
 ### 低维投影与冲突根源 / Dimensional Projection Conflict
 `哲学 / Philosophical`
 
-假定人际竞争发生在唯一的客观公域；对简易协作有参考价值，却把压缩的阴影投影误当作无限展开的广袤实在。
+预设人际角逐发生在单一的共享空间、由排位、价格或分界线构成的同一把标尺所裁定，在这把标尺充当避碰指引、让不同路径安全错车而互不相撞时具有实用价值；其边界在于，当心智将自我形象与标尺上的排位焊接在一起时，原本用以规避冲突的分界线便被倒置为零和厮杀的竞技场，其稀缺只是在心智可以走下的那条轴线上人为造出的。
 
-Presumes interpersonal competition occurs in a fixed shared space; useful for simple coordination, it mistakes compressed shadow projections for open reality.
+Taking interpersonal contest to happen in one shared space, measured on a single ruler of rank, price, or boundary line, is of use where that ruler serves as guidance that lets distinct paths pass without colliding; it reaches its boundary when a Mind fuses its self-image with its standing on the ruler, and the collision-avoidance line inverts into a zero-sum arena whose scarcity is manufactured on an axis the Mind can step off.
 
 → [阴影与无限 / The Shadow and the Infinite](../../posts/the-shadow-and-the-infinite/)
 
@@ -3365,7 +3374,7 @@ Gradient descent assumes continuous differentiability across solutions; stepping
 
 Classical physics views deterministic predictability as nature's fundamental law; macroscopic determinism is a statistical law-of-large-numbers artifact smoothing over microscopic quantum indeterminacy.
 
-→ [确定性是微观不确定性的统计签名 / Determinism is the Statistical Signature of Micro-Indeterminism](../../posts/determinism-is-the-statistical-signature-of-micro-indeterminism/)
+→ [确定性是微观不确定性的统计签名 / Determinism is the Statistical Signature of Micro-Indeterminism](../../posts/determinism-is-the-statistical-signature-of-micro-indeterminism/) · [阴影与无限 / The Shadow and the Infinite](../../posts/the-shadow-and-the-infinite/)
 
 ### 宏观不变性作为物理定律 / Macroscopic Invariance as Physical Law
 `科学 / Scientific`
@@ -4330,15 +4339,6 @@ Selection bias recalls that those entering one group already differ from the oth
 
 → [作业与考试的倒置折射出替代效应 / The Homework–Exam Inversion Registers Substitution](../../posts/the-homework-exam-inversion-registers-substitution/)
 
-### 自身为因的几何学 / Self as Cause Geometry
-`哲学 / Philosophical`
-
-受害者认识论把外部境遇视作第一原因、把自身看作无辜承受者；主权心智将自身立为因，把世间遭遇看作抉择的回响。
-
-Victim epistemology positions the external world as cause and the self as passive victim; sovereign cognition establishes the self as primary cause, treating the environment as consequence.
-
-→ [切分的几何学 / The Geometry of the Cut](../../posts/the-geometry-of-the-cut/)
-
 ### 自我提升读物 / Self-Help Literature
 `成功学 / Self-Help`
 
@@ -5107,9 +5107,9 @@ Seeking validation by ranking differences lays a shared measure over how people 
 ### 认知向量的坐标投影折损 / Vector Coordinate Misprojection
 `数学 / Mathematical`
 
-假定言语交流能将含义无损投射进公共坐标系；对标准协议有效，却忽视了不同心智坐标轴非正交造成的投影失真。
+假定交流能把意义无损投射进一个共享坐标系，在各方已按约定协议对齐坐标轴的数据交换中有用；其边界在于：每个心智只沿着自身的主轴把传入信号登记为内向点积投影，而垂直于该轴的正交残差在基底扩展之前始终未被登记。
 
-Presumes communication transfers meanings into a universal coordinate space; useful for standard data exchange, it ignores non-orthogonal projections between differing minds.
+Presumes that communication projects meaning without loss into a shared coordinate space, which is of use in data exchange inside an agreed protocol where axes have been aligned on purpose; its boundary lies where each Mind registers an incoming signal only as an inward dot-product projection along its own principal axis, leaving the orthogonal residual unregistered until its basis expands.
 
 → [向量、坐标系与自指心智 / The Mind as Vector and Coordinate System](../../posts/the-mind-as-vector-and-coordinate-system/)
 
