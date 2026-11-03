@@ -21,9 +21,10 @@ import crypto from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 
 const scriptDir = path.dirname(fileURLToPath(import.meta.url));
-const root = path.join(scriptDir, '..');
-const postsDir = path.join(root, 'content', 'posts');
 const args = process.argv.slice(2);
+const rootIdx = args.indexOf('--root');
+const root = rootIdx >= 0 && args[rootIdx + 1] ? path.resolve(args[rootIdx + 1]) : path.join(scriptDir, '..');
+const postsDir = path.join(root, 'content', 'posts');
 const stdout = args.includes('--stdout');
 const wantMermaid = args.includes('--mermaid');
 const wantDiff = args.includes('--diff');

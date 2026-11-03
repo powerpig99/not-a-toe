@@ -114,7 +114,12 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
         content = f.read()
 
     lines = content.splitlines()
-    slug = file_path.stem
+    resolved_path = file_path.resolve()
+    is_work_draft = (
+        resolved_path.name in ('en.md', 'zh.md')
+        and resolved_path.parent.parent == (root / 'work').resolve()
+    )
+    slug = resolved_path.parent.name if is_work_draft else file_path.stem
 
     warnings = []
     errors = []
@@ -568,9 +573,9 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
     else:
         passes.append("Mermaid check (no diagrams in this post)")
 
-    # 7. Walkthrough copy check (if walkthrough provided or discovered)
+    # 7. Walkthrough copy check (if walkthrough provided or discovered; skipped on work/<slug>/{en,zh}.md drafts unless --walkthrough is explicit)
     explicit_walkthrough = bool(walkthrough_path)
-    if not walkthrough_path:
+    if not walkthrough_path and not is_work_draft:
         brain_base = Path("/Users/jingliang/.gemini/antigravity/brain")
         active_walkthrough = brain_base / "f0e7480f-958a-4183-80da-595bc3ad23df" / "walkthrough.md"
         if active_walkthrough.is_file():
@@ -603,67 +608,72 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
             if fake_walkthrough_domains:
                 errors.append(f"Fake/hallucinated domain detected in walkthrough ({fake_walkthrough_domains}). Canonical site is strictly: https://powerpig99.github.io/not-a-toe/")
 
-    # 9. Companion Cover Art audit
-    covers_dir = root / 'assets' / 'covers'
-    cover_extensions = ['.jpg', '.png', '.webp']
-    found_cover = None
-    for ext in cover_extensions:
-        candidate = covers_dir / f"{slug}{ext}"
-        if candidate.is_file():
-            found_cover = candidate
-            break
-
-    if not found_cover:
-        errors.append(f"Missing companion cover image: expected assets/covers/{slug}.jpg (or .png/.webp). Every post must have an installed cover art.")
+    if is_work_draft:
+        passes.append(
+            f"Work-draft mode (work/{slug}/{file_path.name}): publication checks (cover art, book placement, walkthrough) deferred to Stage 3 `audit-post.py {slug}`"
+        )
     else:
-        file_size = found_cover.stat().st_size
-        if file_size == 0:
-            errors.append(f"Cover art file is 0 bytes (empty): assets/covers/{found_cover.name}")
+        # 9. Companion Cover Art audit
+        covers_dir = root / 'assets' / 'covers'
+        cover_extensions = ['.jpg', '.png', '.webp']
+        found_cover = None
+        for ext in cover_extensions:
+            candidate = covers_dir / f"{slug}{ext}"
+            if candidate.is_file():
+                found_cover = candidate
+                break
+
+        if not found_cover:
+            errors.append(f"Missing companion cover image: expected assets/covers/{slug}.jpg (or .png/.webp). Every post must have an installed cover art.")
         else:
-            file_size_kb = file_size / 1024
-            dim = get_image_size(found_cover)
-            dim_str = f"{dim[0]}x{dim[1]}" if dim else "unknown dimensions"
-
-            # Aspect ratio advisory
-            if dim:
-                w, h = dim
-                ratio = w / h
-                if w < 1000 or h < 400:
-                    warnings.append(f"Cover image resolution ({w}x{h}) is lower than standard. Recommended: 1344x576 (21:9) or 1280x576 (20:9).")
-                elif not (1.7 <= ratio <= 2.5):
-                    warnings.append(f"Cover image aspect ratio ({ratio:.2f}:1) deviates from ultra-wide landscape standard (21:9 ~ 2.33:1 or 20:9 ~ 2.22:1).")
-
-            # STYLES.md registration check
-            styles_file = covers_dir / 'STYLES.md'
-            if styles_file.is_file():
-                styles_text = styles_file.read_text(encoding='utf-8')
-                if slug not in styles_text:
-                    warnings.append(f"Cover for '{slug}' is not yet registered in assets/covers/STYLES.md. Please document its style family and inventory entry.")
-                else:
-                    passes.append("Cover art registered in STYLES.md")
-
-            passes.append(f"Companion cover art check (assets/covers/{found_cover.name} present, {file_size_kb:.1f} KB, {dim_str})")
-
-    # 10. Live book placement (content/book/*.md is the only home of book structure)
-    book_dir = root / 'content' / 'book'
-    if book_dir.is_dir():
-        import importlib.util
-        spec = importlib.util.spec_from_file_location('audit_book', root / 'scripts' / 'audit-book.py')
-        audit_book = importlib.util.module_from_spec(spec)
-        spec.loader.exec_module(audit_book)
-        slugs = set(audit_book.post_slugs())
-        b_errors, b_warnings = [], []
-        placement, per_part = audit_book.audit_parts(audit_book.part_order(), slugs, b_errors, b_warnings)
-        if slug not in placement:
-            errors.append(f"Post is not placed in the live book: add `[<title>](../../posts/{slug}/)` to the '## 篇目 / Essays' list of exactly one content/book/<part>.md (then run python3 scripts/audit-book.py).")
-        else:
-            part = placement[slug]
-            passes.append(f"Book placement: part `{part}` (position {per_part[part].index(slug) + 1}/{len(per_part[part])})")
-            _, _, _, linked = audit_book.audit_index(slugs, [], [])
-            if slug in linked:
-                passes.append("Book Index of Premises links this post")
+            file_size = found_cover.stat().st_size
+            if file_size == 0:
+                errors.append(f"Cover art file is 0 bytes (empty): assets/covers/{found_cover.name}")
             else:
-                warnings.append("No Index of Premises entry links this post yet: add or extend entries in content/book/index-of-premises.md for each figure, theory, or concept it substantively dissects.")
+                file_size_kb = file_size / 1024
+                dim = get_image_size(found_cover)
+                dim_str = f"{dim[0]}x{dim[1]}" if dim else "unknown dimensions"
+
+                # Aspect ratio advisory
+                if dim:
+                    w, h = dim
+                    ratio = w / h
+                    if w < 1000 or h < 400:
+                        warnings.append(f"Cover image resolution ({w}x{h}) is lower than standard. Recommended: 1344x576 (21:9) or 1280x576 (20:9).")
+                    elif not (1.7 <= ratio <= 2.5):
+                        warnings.append(f"Cover image aspect ratio ({ratio:.2f}:1) deviates from ultra-wide landscape standard (21:9 ~ 2.33:1 or 20:9 ~ 2.22:1).")
+
+                # STYLES.md registration check
+                styles_file = covers_dir / 'STYLES.md'
+                if styles_file.is_file():
+                    styles_text = styles_file.read_text(encoding='utf-8')
+                    if slug not in styles_text:
+                        warnings.append(f"Cover for '{slug}' is not yet registered in assets/covers/STYLES.md. Please document its style family and inventory entry.")
+                    else:
+                        passes.append("Cover art registered in STYLES.md")
+
+                passes.append(f"Companion cover art check (assets/covers/{found_cover.name} present, {file_size_kb:.1f} KB, {dim_str})")
+
+        # 10. Live book placement (content/book/*.md is the only home of book structure)
+        book_dir = root / 'content' / 'book'
+        if book_dir.is_dir():
+            import importlib.util
+            spec = importlib.util.spec_from_file_location('audit_book', root / 'scripts' / 'audit-book.py')
+            audit_book = importlib.util.module_from_spec(spec)
+            spec.loader.exec_module(audit_book)
+            slugs = set(audit_book.post_slugs())
+            b_errors, b_warnings = [], []
+            placement, per_part = audit_book.audit_parts(audit_book.part_order(), slugs, b_errors, b_warnings)
+            if slug not in placement:
+                errors.append(f"Post is not placed in the live book: add `[<title>](../../posts/{slug}/)` to the '## 篇目 / Essays' list of exactly one content/book/<part>.md (then run python3 scripts/audit-book.py).")
+            else:
+                part = placement[slug]
+                passes.append(f"Book placement: part `{part}` (position {per_part[part].index(slug) + 1}/{len(per_part[part])})")
+                _, _, _, linked = audit_book.audit_index(slugs, [], [])
+                if slug in linked:
+                    passes.append("Book Index of Premises links this post")
+                else:
+                    warnings.append("No Index of Premises entry links this post yet: add or extend entries in content/book/index-of-premises.md for each figure, theory, or concept it substantively dissects.")
 
     # Report results
     print("\n[PASSED INVARIANTS]")
