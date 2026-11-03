@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-03T07:12:47.772Z",
+    "generated_at": "2026-11-03T13:01:21.884Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -218,6 +218,7 @@
       "content/posts/the-bank-shot-and-the-magic-trick.md": "fc402ee12141",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "d76114e1c2e4",
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "181a1e9ba371",
+      "content/posts/the-blind-cut-and-the-naming-mind.md": "5d1da39f48d6",
       "content/posts/the-blind-spot-of-the-frame.md": "9f7a2066930e",
       "content/posts/the-boundary-crossing-of-choice.md": "5725ac2013bd",
       "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "a1b259f6992c",
@@ -260,7 +261,7 @@
       "content/posts/the-fallacy-of-post-success-parenting.md": "a33a3eabb00c",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "204ffca3c19c",
       "content/posts/the-fixed-image-of-transcendence.md": "c2123525af2c",
-      "content/posts/the-fixed-map-and-the-repeated-trip.md": "d73b65fdc270",
+      "content/posts/the-fixed-map-and-the-repeated-trip.md": "fd1fa9a0e38e",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "d3d47cfe2abd",
       "content/posts/the-flywheel-of-the-mind.md": "5240f6ab72ca",
       "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "9c8e728ed2cb",
@@ -347,7 +348,7 @@
       "content/posts/the-ramble-within-the-ramble.md": "57566038f9e7",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "46998aadc1d1",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "6036be35fe63",
-      "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "2d7991e6bb4e",
+      "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "e5b4c6a665d6",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "e25d00e96b60",
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "3f4e0e3db4b8",
       "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "ad7483982bf1",
@@ -436,8 +437,8 @@
       "content/book/causality.md": "863b25c6333a",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "554f2c4ae1c8",
-      "content/book/intelligence.md": "dfab91bbea23",
+      "content/book/index-of-premises.md": "1d9c1ec7f028",
+      "content/book/intelligence.md": "6234ae4579e1",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
       "content/book/mathematics.md": "8f6d273c0db8",
@@ -451,16 +452,16 @@
       "content/book/tools-and-progress.md": "2a682044cc54"
     },
     "stats": {
-      "posts": 425,
-      "edges": 12984,
-      "unique_directed": 6389,
+      "posts": 426,
+      "edges": 13020,
+      "unique_directed": 6404,
       "missing_targets": 0,
-      "one_way": 1199,
+      "one_way": 1212,
       "isolated": 0,
-      "posts_with_outbound": 425,
+      "posts_with_outbound": 426,
       "book_pages": 16,
-      "book_edges": 1241,
-      "posts_reached_by_book": 425
+      "book_edges": 1244,
+      "posts_reached_by_book": 426
     }
   },
   "hubs_in": [
@@ -478,7 +479,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 88
+      "in_degree": 89
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -509,12 +510,12 @@
       "in_degree": 44
     },
     {
-      "slug": "the-allocation-of-causal-power-in-validation",
+      "slug": "mistaking-the-expression-for-the-intelligence",
       "in_degree": 42
     },
     {
-      "slug": "mistaking-the-expression-for-the-intelligence",
-      "in_degree": 41
+      "slug": "the-allocation-of-causal-power-in-validation",
+      "in_degree": 42
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
@@ -541,8 +542,8 @@
       "in_degree": 36
     },
     {
-      "slug": "a-creation-cannot-replace-its-source",
-      "in_degree": 33
+      "slug": "not-a-theory-of-everything",
+      "in_degree": 34
     }
   ],
   "hubs_out": [
@@ -1162,7 +1163,7 @@
       "path": "content/posts/architecture-of-recursive-distinction.md",
       "title": "递归区分的架构 / The Architecture of Recursive Distinction",
       "hash": "1c00927c5010",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 14,
       "links_out": [
         "the-continuum-is-a-modeling-convenience",
@@ -1293,7 +1294,7 @@
       "path": "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md",
       "title": "递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems",
       "hash": "71b9bb7f431d",
-      "in_degree": 19,
+      "in_degree": 20,
       "out_degree": 14,
       "links_out": [
         "no-system-can-be-kept-closed",
@@ -2038,7 +2039,7 @@
       "path": "content/posts/continuous-learning-as-expression-and-simulation.md",
       "title": "持续学习作为表达与模拟 / Continuous Learning as Expression and Simulation",
       "hash": "9ce5608bf474",
-      "in_degree": 24,
+      "in_degree": 25,
       "out_degree": 29,
       "links_out": [
         "two-phase-sleep-and-deep-sleep-continual-learning",
@@ -3763,7 +3764,7 @@
       "path": "content/posts/learned-boundaries-and-the-given-rate.md",
       "title": "学到的边界与给定的尺度 / Learned Boundaries and the Given Rate",
       "hash": "d8f079f2ed1d",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 15,
       "links_out": [
         "precision-and-resolution",
@@ -4125,7 +4126,7 @@
       "path": "content/posts/mistaking-the-expression-for-the-intelligence.md",
       "title": "错把表达当成智能 / Mistaking the Expression for the Intelligence",
       "hash": "3992efdf6cad",
-      "in_degree": 41,
+      "in_degree": 42,
       "out_degree": 39,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -4465,7 +4466,7 @@
       "path": "content/posts/not-a-theory-of-everything.md",
       "title": "非万物之理 / Not a Theory of Everything",
       "hash": "41f95512b70e",
-      "in_degree": 33,
+      "in_degree": 34,
       "out_degree": 35,
       "links_out": [
         "not-a-toe-rewrite",
@@ -4815,7 +4816,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "开放即一致 / Openness Is Consistency",
       "hash": "ad89376cac08",
-      "in_degree": 88,
+      "in_degree": 89,
       "out_degree": 84,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -6623,6 +6624,32 @@
       ]
     },
     {
+      "id": "post:the-blind-cut-and-the-naming-mind",
+      "kind": "post",
+      "slug": "the-blind-cut-and-the-naming-mind",
+      "path": "content/posts/the-blind-cut-and-the-naming-mind.md",
+      "title": "盲目的切分与命名的心智 / The Blind Cut and the Naming Mind",
+      "hash": "5d1da39f48d6",
+      "in_degree": 0,
+      "out_degree": 14,
+      "links_out": [
+        "tokens-and-the-observational-boundary",
+        "not-a-theory-of-everything",
+        "architecture-of-recursive-distinction",
+        "what-information-is",
+        "the-mark-and-the-act",
+        "the-perceiver-and-the-trace",
+        "the-ladder-of-abstraction-and-the-executable-entity",
+        "the-fixed-map-and-the-repeated-trip",
+        "the-frozen-cut-and-the-margin-of-the-loop",
+        "learned-boundaries-and-the-given-rate",
+        "continuous-learning-as-expression-and-simulation",
+        "openness-is-consistency",
+        "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+        "mistaking-the-expression-for-the-intelligence"
+      ]
+    },
+    {
       "id": "post:the-blind-spot-of-the-frame",
       "kind": "post",
       "slug": "the-blind-spot-of-the-frame",
@@ -7691,9 +7718,9 @@
       "slug": "the-fixed-map-and-the-repeated-trip",
       "path": "content/posts/the-fixed-map-and-the-repeated-trip.md",
       "title": "固定地图与重复的行程 / The Fixed Map and the Repeated Trip",
-      "hash": "d73b65fdc270",
-      "in_degree": 12,
-      "out_degree": 12,
+      "hash": "fd1fa9a0e38e",
+      "in_degree": 13,
+      "out_degree": 13,
       "links_out": [
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "dimensions-are-projections",
@@ -7701,6 +7728,7 @@
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
         "what-information-is",
         "the-ladder-of-abstraction-and-the-executable-entity",
+        "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
         "context-engineering-essay",
         "continuous-learning-as-expression-and-simulation",
         "precision-and-resolution",
@@ -7888,7 +7916,7 @@
       "path": "content/posts/the-frozen-cut-and-the-margin-of-the-loop.md",
       "title": "冻结的切口与回环的余量 / The Frozen Cut and the Margin of the Loop",
       "hash": "920d68678747",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 9,
       "links_out": [
         "tokens-and-the-observational-boundary",
@@ -8752,7 +8780,7 @@
       "path": "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md",
       "title": "抽象的阶梯与可执行的实体 / The Ladder of Abstraction and the Executable Entity",
       "hash": "a70cfaac3e3e",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 10,
       "links_out": [
         "climbing-does-not-leave-the-ground",
@@ -8951,7 +8979,7 @@
       "path": "content/posts/the-mark-and-the-act.md",
       "title": "印迹与行动 / The Mark and the Act",
       "hash": "a3c8f8e1a2d4",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 18,
       "links_out": [
         "complexity-obscures-emergence-as-the-act-of-mind",
@@ -9613,7 +9641,7 @@
       "path": "content/posts/the-perceiver-and-the-trace.md",
       "title": "感知者与痕迹的不可坍缩 / The Perceiver and the Trace Cannot Collapse",
       "hash": "ca63cdb39988",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 11,
       "links_out": [
         "consciousness-never-appears-as-data-among-data",
@@ -9851,8 +9879,8 @@
       "slug": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
       "path": "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md",
       "title": "真正稀缺的不是记忆，而是持续的重新追溯 / The Real Scarcity Is Not Memory, But Continuous Re-Tracing",
-      "hash": "2d7991e6bb4e",
-      "in_degree": 20,
+      "hash": "e5b4c6a665d6",
+      "in_degree": 21,
       "out_degree": 21,
       "links_out": [
         "looping-and-graphing",
@@ -11142,7 +11170,7 @@
       "path": "content/posts/tokens-and-the-observational-boundary.md",
       "title": "词元与观测边界 / Tokens and the Observational Boundary",
       "hash": "bca97aa871de",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 13,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -11458,7 +11486,7 @@
       "path": "content/posts/what-information-is.md",
       "title": "信息是什么 / What Information Is",
       "hash": "16f3605a8fba",
-      "in_degree": 26,
+      "in_degree": 27,
       "out_degree": 32,
       "links_out": [
         "the-mark-and-the-act",
@@ -53594,6 +53622,210 @@
       "label": "Your Codebase Is Memory"
     },
     {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "tokens-and-the-observational-boundary",
+      "rel": "points_to",
+      "label": "词元与观测边界"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "tokens-and-the-observational-boundary",
+      "rel": "points_to",
+      "label": "Tokens and the Observational Boundary"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "非万物之理"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "Not a Theory of Everything"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "递归区分的架构"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "The Architecture of Recursive Distinction"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "信息是什么"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "the-mark-and-the-act",
+      "rel": "points_to",
+      "label": "印迹与行动"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "What Information Is"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "the-mark-and-the-act",
+      "rel": "points_to",
+      "label": "The Mark and the Act"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "the-perceiver-and-the-trace",
+      "rel": "points_to",
+      "label": "感知者与痕迹的不可坍缩"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "the-perceiver-and-the-trace",
+      "rel": "points_to",
+      "label": "The Perceiver and the Trace Cannot Collapse"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "the-ladder-of-abstraction-and-the-executable-entity",
+      "rel": "points_to",
+      "label": "抽象的阶梯与可执行的实体"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "the-fixed-map-and-the-repeated-trip",
+      "rel": "points_to",
+      "label": "固定地图与重复的行程"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "the-ladder-of-abstraction-and-the-executable-entity",
+      "rel": "points_to",
+      "label": "The Ladder of Abstraction and the Executable Entity"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "the-fixed-map-and-the-repeated-trip",
+      "rel": "points_to",
+      "label": "The Fixed Map and the Repeated Trip"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "递归区分的架构"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "the-frozen-cut-and-the-margin-of-the-loop",
+      "rel": "points_to",
+      "label": "冻结的切口与回环的余量"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "学到的边界与给定的尺度"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "The Architecture of Recursive Distinction"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "the-frozen-cut-and-the-margin-of-the-loop",
+      "rel": "points_to",
+      "label": "The Frozen Cut and the Margin of the Loop"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "Learned Boundaries and the Given Rate"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "the-frozen-cut-and-the-margin-of-the-loop",
+      "rel": "points_to",
+      "label": "冻结的切口与回环的余量"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "学到的边界与给定的尺度"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "continuous-learning-as-expression-and-simulation",
+      "rel": "points_to",
+      "label": "持续学习作为表达与模拟"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "the-frozen-cut-and-the-margin-of-the-loop",
+      "rel": "points_to",
+      "label": "The Frozen Cut and the Margin of the Loop"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "Learned Boundaries and the Given Rate"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "continuous-learning-as-expression-and-simulation",
+      "rel": "points_to",
+      "label": "Continuous Learning as Expression and Simulation"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+      "rel": "points_to",
+      "label": "递归形式系统中作为记忆与控制的边界条件图"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "错把表达当成智能"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+      "rel": "points_to",
+      "label": "Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems"
+    },
+    {
+      "from": "the-blind-cut-and-the-naming-mind",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the Expression for the Intelligence"
+    },
+    {
       "from": "the-blind-spot-of-the-frame",
       "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
       "rel": "points_to",
@@ -60483,6 +60715,12 @@
     },
     {
       "from": "the-fixed-map-and-the-repeated-trip",
+      "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "rel": "points_to",
+      "label": "真正稀缺的不是记忆，而是持续的重新追溯"
+    },
+    {
+      "from": "the-fixed-map-and-the-repeated-trip",
       "to": "context-engineering-essay",
       "rel": "points_to",
       "label": "层层皆是语境"
@@ -60492,6 +60730,12 @@
       "to": "continuous-learning-as-expression-and-simulation",
       "rel": "points_to",
       "label": "持续学习作为表达与模拟"
+    },
+    {
+      "from": "the-fixed-map-and-the-repeated-trip",
+      "to": "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
+      "rel": "points_to",
+      "label": "The Real Scarcity Is Not Memory, But Continuous Re-Tracing"
     },
     {
       "from": "the-fixed-map-and-the-repeated-trip",
@@ -90061,8 +90305,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "554f2c4ae1c8",
-        "out_degree": 425
+        "hash": "1d9c1ec7f028",
+        "out_degree": 426
       },
       {
         "id": "book:intelligence",
@@ -90070,8 +90314,8 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "dfab91bbea23",
-        "out_degree": 57
+        "hash": "6234ae4579e1",
+        "out_degree": 58
       },
       {
         "id": "book:knowledge-and-learning",
@@ -95570,6 +95814,18 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-blind-cut-and-the-naming-mind",
+        "rel": "collects",
+        "label": "盲目的切分与命名的心智 / The Blind Cut and the Naming Mind"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-blind-cut-and-the-naming-mind",
+        "rel": "collects",
+        "label": "盲目的切分与命名的心智 / The Blind Cut and the Naming Mind"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "dynamic-resnet-of-skill-loops",
         "rel": "collects",
         "label": "模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks"
@@ -95993,6 +96249,12 @@
         "to": "the-frozen-cut-and-the-margin-of-the-loop",
         "rel": "collects",
         "label": "冻结的切口与回环的余量 / The Frozen Cut and the Margin of the Loop"
+      },
+      {
+        "from": "book:intelligence",
+        "to": "the-blind-cut-and-the-naming-mind",
+        "rel": "collects",
+        "label": "盲目的切分与命名的心智 / The Blind Cut and the Naming Mind"
       },
       {
         "from": "book:knowledge-and-learning",

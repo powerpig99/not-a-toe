@@ -69,3 +69,4 @@ The essays in this part trace the category boundaries of the Turing and Einstein
 - [固定地图与重复的行程 / The Fixed Map and the Repeated Trip](../../posts/the-fixed-map-and-the-repeated-trip/)
 - [递归区分的架构 / The Architecture of Recursive Distinction](../../posts/architecture-of-recursive-distinction/)
 - [冻结的切口与回环的余量 / The Frozen Cut and the Margin of the Loop](../../posts/the-frozen-cut-and-the-margin-of-the-loop/)
+- [盲目的切分与命名的心智 / The Blind Cut and the Naming Mind](../../posts/the-blind-cut-and-the-naming-mind/)

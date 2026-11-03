@@ -3631,9 +3631,9 @@ Judgment language presumes that right and wrong are coordinates standing above a
 ### 下一词元预测 / Next-Token Prediction
 `技术 / Technological`
 
-下一词元预测预设，监督序列化表达的延续——并在推理时配以不断增长的词元链作为工作状态与固定的全局参数地图——是通往语言建模的路径；由于语言在同一媒介中同时承载所操作的材料与对材料的操作，这条绕圈的路径得以在大规模下闭合并产出流畅而能干的模型，因此在大规模下有其效用；其边界在于把这种有效性当作证据，认定这条路径是语言使用本身所要求的；此时，借表层延续绕圈还原功能、每一步都从起点重新遍历累积链条、以及为局部任务携带全局容量等结构性代价依然存在。
+下一词元预测预设，监督序列化表达的延续——并在推理时配以不断增长的词元链作为工作状态与固定的全局参数地图——是通往语言建模的路径；由于语言在同一媒介中同时承载所操作的材料与对材料的操作，这条绕圈的路径得以在大规模下闭合并产出流畅而能干的模型，因此在大规模下有其效用；其边界在于把这种有效性当作证据，认定这条路径是语言使用本身所要求的；此时，借表层延续绕圈还原功能、背负已累积的链条并在每次读取时在其上重新组合而非原地改写常驻任务表征（无论对这条链的搜寻有多稀疏或多廉价）、以及为局部任务携带全局容量等结构性代价依然存在。
 
-Next-token prediction presumes that supervising the continuation of serialized expressions—paired with a growing token chain as working state and a fixed global parameter map at inference—is the route to modeling language, which is of use at scale because language carries both the material operated on and the operations over it in one medium so the circular route closes and yields fluent, capable models; it reaches its boundary where that effectiveness is taken to show the route is required by language use itself, while the structural costs of recovering function circularly through surface continuation, re-traversing the accumulated chain from the origin at every step, and carrying global capacity for local tasks remain.
+Next-token prediction presumes that supervising the continuation of serialized expressions—paired with a growing token chain as working state and a fixed global parameter map at inference—is the route to modeling language, which is of use at scale because language carries both the material operated on and the operations over it in one medium so the circular route closes and yields fluent, capable models; it reaches its boundary where that effectiveness is taken to show the route is required by language use itself, while the structural costs of recovering function circularly through surface continuation, carrying the accumulated chain and composing across it again at each read instead of rewriting a resident task representation in place (however sparsely or cheaply that chain is searched), and carrying global capacity for local tasks remain.
 
 → [固定地图与重复的行程 / The Fixed Map and the Repeated Trip](../../posts/the-fixed-map-and-the-repeated-trip/)
 
@@ -5372,7 +5372,16 @@ Presumes that exhaustively mapping a generative model's architectural topology, 
 
 Presumes either that subword tokenization is a neutral efficiency compression or that lowering the unit to bytes and direct machine binaries removes representational ceilings to exhaust the substrate; effective for trading sequence length against sub-token structure inside calibrated compute and latency regimes, it reaches its boundary because tokenizers, byte schemes, and compilers alike sit on the near side of an observational cut whose far-side indeterminism is the constitutive condition for any further making or talking; segmentation learned per context redraws boundaries where a span turns, and even when, in an architecture with orthogonal bypasses, the outer-given rate is expressed as a windowed function, the rate function, floor, and surprise definition remain bounds given outside the loop, within which settled inner residue drops to zero and the unsettled margin at the cut passes to the boundary conditions of the loops outside it.
 
-→ [词元与观测边界 / Tokens and the Observational Boundary](../../posts/tokens-and-the-observational-boundary/) · [人、Token 与估值的范围 / Humans, Tokens, and the Scope of Valuation](../../posts/humans-tokens-and-the-scope-of-valuation/) · [抽象的阶梯与可执行的实体 / The Ladder of Abstraction and the Executable Entity](../../posts/the-ladder-of-abstraction-and-the-executable-entity/) · [学到的边界与给定的尺度 / Learned Boundaries and the Given Rate](../../posts/learned-boundaries-and-the-given-rate/) · [冻结的切口与回环的余量 / The Frozen Cut and the Margin of the Loop](../../posts/the-frozen-cut-and-the-margin-of-the-loop/)
+→ [词元与观测边界 / Tokens and the Observational Boundary](../../posts/tokens-and-the-observational-boundary/) · [人、Token 与估值的范围 / Humans, Tokens, and the Scope of Valuation](../../posts/humans-tokens-and-the-scope-of-valuation/) · [抽象的阶梯与可执行的实体 / The Ladder of Abstraction and the Executable Entity](../../posts/the-ladder-of-abstraction-and-the-executable-entity/) · [学到的边界与给定的尺度 / Learned Boundaries and the Given Rate](../../posts/learned-boundaries-and-the-given-rate/) · [冻结的切口与回环的余量 / The Frozen Cut and the Margin of the Loop](../../posts/the-frozen-cut-and-the-margin-of-the-loop/) · [盲目的切分与命名的心智 / The Blind Cut and the Naming Mind](../../posts/the-blind-cut-and-the-naming-mind/)
+
+### 多模态学习 / Multimodal Learning
+`技术 / Technological`
+
+预设文本、图像、音频与生物序列是对称的“平级模态”，只需经由分词或转导为共享的二进制比特流（如 `CoBit` 中的 `x₀ ∈ {0, 1}^S`），便能汇入同一个扁平平面；在借由匹配滤波分数匹配省去领域专用编码器与词表输出头时有效；它之所以到达边界，是因为机器中的每一个比特都只是执行阈值后留下的同等盲目的印迹，而不同序列的差异在于产生它们的切分方式——感官与声学编解码器在工程阈值之下切分局部同位的物理扰动，语言则记录活生生的心智早已跨观察抽绎并命名的关系不变量。
+
+Presumes that text, images, audio, and biological sequences are symmetric peer modalities that converge onto a single flat plane once tokenized or transduced into a shared binary bitstream (`x₀ ∈ {0, 1}^S` in `CoBit`); effective for eliminating domain-specific encoders and vocabulary projection heads through matched-filter score matching, it reaches its boundary because every bit in a machine is an equally blind mark left by an executed threshold while the sequences differ in the partition that produced them—sensory and acoustic codecs partition localized co-located physical perturbations under an engineered threshold, whereas language records relational invariants that living Minds have already abstracted across observations and named.
+
+→ [盲目的切分与命名的心智 / The Blind Cut and the Naming Mind](../../posts/the-blind-cut-and-the-naming-mind/)
 
 ### 残差网络与前馈分类预设 / Residual Networks and the Feedforward Classification Premise
 `技术 / Technological`
