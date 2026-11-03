@@ -1,6 +1,6 @@
 # 约束的样子不是自由的失去 / The Look of Constraint Is Not the Loss of Freedom
 
-*看上去的约束，是能动性向后守护过往痕迹，而非向前延展地平线 / Apparent constraint is agency pointed backward at defending past traces rather than forward at widening the horizon.*
+*约束的样子是共享盆地的表面；感到的约束，是能动性向后指向过往痕迹而非向前指向地平线时的拖累。 / The look of constraint is the shared basin's surface; felt constraint is the drag of agency pointed backward at past traces rather than forward at the horizon.*
 
 孩子看上去自由，成年人看上去受约束。作为经验的表面，这个对照是直接看得到的；关于它的常见说法，却把因果倒了过来。当代文化里有一句流行的格言，把这个可见的表面当作必然的机制：孩子从无边、纯净的自由开始，撞上世界，学到现实有界限，于是把那个打了折扣的样子叫作成年人。在这幅浪漫化的图里，自由被安放在起点，作为与生俱来的形而上盈余；对约束的认识被说成它消失的原因；变老成了这份丧失的悲剧名称。
 
@@ -12,7 +12,7 @@ Beneath the saying, a different causal sequence is running.
 
 ## 一、 敞开的开端 / 1. The Open Start
 
-人生开始时，起始的展开比后来展开的要小。童年那段敞开的时期，既不是一座无限自由的神秘水库，也不是一个等着被装满的、容量固定的封闭容器，而是一个活的区分之所，以很少的累积痕迹去遇到环境。幼儿的行为显得自发、好奇、不受约束，恰恰是因为几乎还没有自相关的痕迹结晶成僵硬的习惯或内部模型。看上去很高的自由，是稀疏的历史条件直接撞上未经中介的物理反馈，而不是一份后来被现实没收的形而上盈余。
+人生开始时，最初铺开的范围比后来展开的要小。童年那段敞开的时期，既不是一座无限自由的神秘水库，也不是一个等着被装满的、容量固定的封闭容器，而是一个活的区分之所，带着很少的累积痕迹与环境相遇。幼儿的行为显得自发、好奇、不受约束，恰恰是因为几乎还没有自相关的痕迹结晶成僵硬的习惯或内部模型。看上去那么大的自由，是稀疏的历史条件直接撞上未经中介的物理反馈，而不是一份后来被现实没收的形而上盈余。
 
 At the start of a life, the opening spread is small relative to what unfolds later. The open stretch of childhood is neither a mystical reservoir of infinite freedom nor a closed container of fixed capacity waiting to be filled; it is a living locus of distinction meeting an environment with little accumulated trace. Small children's behaviour looks spontaneous, curious and unconstrained precisely because almost no auto-correlated traces have yet crystallised into rigid habits or inner models. The high apparent freedom is sparse historical conditioning colliding directly with unmediated physical feedback, not a metaphysical surplus that reality later confiscates.
 
@@ -22,7 +22,7 @@ Every contact with the environment writes a step into the system. The next explo
 
 ## 二、 中段为何变硬 / 2. Why the Middle Hardens
 
-多数人的生活不会一直散在高维的外围。成长的过程里，人穿过大规模的、共享的制度训练：标准化的语言、学校、职场的层级、地位的竞赛、货币体系、社会声誉的游戏与当地的法律框架。这些制度像强大的公共梯度，持续地牵引，规定哪些区分在中心之间被强化、容易取得，把散开分布的一大部分拉进几个很深、很稳定的统计盆地。
+多数人的生活不会一直散在高维的外围。成长的过程里，人穿过大规模的、共享的制度训练：标准化的语言、学校、职场的层级、地位的竞赛、货币体系、社会声誉的游戏与当地的法律框架。这些制度像强大的公共梯度，持续地牵引，塑造哪些区分在中心之间被强化、容易取得，把散开分布的一大部分拉进几个很深、很稳定的统计盆地。
 
 Most lives do not stay fanned out across the high-dimensional periphery. Growing up, people pass through large shared institutional training: standardised language, schooling, workplace hierarchies, status tournaments, monetary systems, games of social reputation and local legal frameworks. These regimes act as powerful common gradients, pulling continuously, patterning which distinctions are reinforced and easily available across centres, and drawing a large part of the fanned distribution into a few deep, very stable statistical basins.
 
@@ -94,26 +94,26 @@ flowchart TD
 
 In the first allocation the horizon of knowing keeps moving, and prior knowledge, acquired skill and past experience are recognised as lagging trace, leverage and never ceiling; the living operation that made the child look free is still active, now backed by high-dimensional capability. In the second allocation agency points backward, at defending and maintaining the sediment already written: social standing, past investments, self-image, and local cultural rules taken as the unchanging geometry of the cosmos. When the local costs of stepping outside the common basin—risk, social friction, career penalty, or loss of standing—are repeatedly declined, the refusal itself drops out of the account, and the narrowing that follows from it is attributed outward to age, society, or reality itself, the relocation traced in [Agency, Contradiction, and the Relocation of Power](../agency-contradiction-and-the-relocation-of-power/). A person is then constrained, and the constraint traces here: not because age stripped away the capacity to choose, but because attention, energy and effort are spent protecting a past realisation instead of widening the horizon that produced it.
 
-感到的约束，是形象滞后的内部拖累，是把能动性指向痕迹时的摩擦。它在被回收的中段很普遍，却不是变老固有的属性。成年人并不比孩子更不自由；被观察到的，多半是停在向后分配里的那些时刻，而同一个心智在不同的事情上、不同的年岁里，两种分配都会经过。把对总体平均的观察误认为成年的普遍结构，就是[平均值是残余，不是引擎](../the-average-is-residue-not-the-engine/)与[成功之后的育儿谬误](../the-fallacy-of-post-success-parenting/)推出的那种错误。
+感到的约束，是形象滞后的内部拖累，是把能动性指向痕迹时的摩擦，只由作分配的人从内部登记。它不是变老固有的属性。成年人并不比孩子更不自由：外部观察只看得到被回收中段的表面，在那里，稳健的导航与停顿下来对过往痕迹的守护看上去一样，而同一个心智在不同的事情上、不同的年岁里，两种分配都会经过。把对总体平均的观察误认为成年的普遍结构，就是[平均值是残余，不是引擎](../the-average-is-residue-not-the-engine/)与[成功之后的育儿谬误](../the-fallacy-of-post-success-parenting/)推出的那种错误。
 
-The felt sense of constraint is the inner drag of image lag, the friction of pointing agency at trace. It is widespread in the recaptured middle, yet it is no inherent property of ageing. Adults are not less free than children; what gets observed is mostly moments spent in the backward, paused allocation, and one Mind passes through both allocations on different matters and at different ages. Taking an observation of the aggregate average for the universal structure of adulthood is the error derived in [The Average Is Residue, Not the Engine](../the-average-is-residue-not-the-engine/) and [The Fallacy of Post-Success Parenting](../the-fallacy-of-post-success-parenting/).
+The felt sense of constraint is the inner drag of image lag, the friction of pointing agency at trace, registered only from within by the one who allocates. It is no inherent property of ageing. Adults are not less free than children: outside observation sees only the recaptured middle's surface, where steady navigation and a paused defense of past traces look alike, while one Mind passes through both allocations on different matters and at different ages. Taking an observation of the aggregate average for the universal structure of adulthood is the error derived in [The Average Is Residue, Not the Engine](../the-average-is-residue-not-the-engine/) and [The Fallacy of Post-Success Parenting](../the-fallacy-of-post-success-parenting/).
 
 ## 四、 下一个尺度上的同一个谬误 / 4. The Same Fallacy at the Next Scale
 
-感叹童年自由丧失的那句格言，本身就做了它声称要诊断的那次停顿。它看到变硬了的社会中段，拿这个中段的表面——大量成年人在自我施加、学来的界限之内运作——把这个总体的样子实体化成一条不变的人性规律：对约束的认识被宣布为元凶，失去的自由被宣布为成年的实质；一道滞后的统计痕迹被抬成本体的天花板，再以哲学的庄重说出来。系在结果上的自由会否定它自己，[约束基底与自由自否](../the-substrate-of-constraint-and-the-self-denial-of-freedom/)展示了这一点。
+感叹童年自由丧失的那句格言，本身就在描述的尺度上，做出了上文在受约束的成年人身上所追溯的那次停顿。它看到变硬了的社会中段，拿这个中段谨慎、规范的表面，把这个总体的样子实体化成一条不变的人性规律：对约束的认识被宣布为元凶，失去的自由被宣布为成年的实质；一道滞后的统计痕迹被抬成本体的天花板，再以哲学的庄重说出来。被定义为没有约束的自由在第一步就否定了它自己，因为约束正是赋予选择以形状的基底，正如[约束基底与自由自否](../the-substrate-of-constraint-and-the-self-denial-of-freedom/)所展示的那样。
 
-The saying that laments the loss of childhood freedom itself performs the pause it claims to diagnose. It sees the hardened social middle, takes that middle's surface, many adults operating within self-imposed, learned limits, and reifies the aggregate look into an unchanging law of human nature: the knowledge of constraint is declared the culprit, lost freedom is declared what adulthood is; a lagging statistical trace is raised into an ontological ceiling and then said with philosophical gravity. A freedom made conditional on outcomes denies itself, as [The Substrate of Constraint and the Self-Denial of Freedom](../the-substrate-of-constraint-and-the-self-denial-of-freedom/) shows.
+The saying that laments the loss of childhood freedom itself performs, at the scale of description, the very pause traced above in the constrained adult. It sees the hardened social middle, takes that middle's cautious, normalised surface, and reifies the aggregate look into an unchanging law of human nature: the knowledge of constraint is declared the culprit, lost freedom is declared what adulthood is; a lagging statistical trace is raised into an ontological ceiling and then said with philosophical gravity. A freedom defined as the absence of constraint denies itself at the first step, since constraint is the substrate that gives choice its shape, as [The Substrate of Constraint and the Self-Denial of Freedom](../the-substrate-of-constraint-and-the-self-denial-of-freedom/) shows.
 
-这正是格言归给它所观察的成年人的那同一个倒置。受约束的成年人，把一个已实现的局部界限当作世界的固定边界；说出格言的人，把一张已实现的社会快照当作人类心灵必然的轨迹。两处都是能动性交给了痕迹：一个人生停在过去的习惯上，一个哲学解释停在一个静态的总体样子上。格言与它所说的对象，是落在两个尺度上的同一个错误。
+这正是在受约束的成年人身上所追溯的同一个倒置。受约束的成年人，把一个已实现的局部界限当作世界的固定边界；说出格言的人，把一张已实现的社会快照当作人类心灵必然的轨迹。两处都是能动性交给了痕迹：一个人生停在过去的习惯上，一个哲学解释停在一个静态的总体样子上。受约束的成年人与这句格言，是落在两个尺度上的同一个错误。
 
-This is the very inversion the saying attributes to the adults it observes. The constrained adult takes a realised local limit for the fixed boundary of the world; the one who voices the saying takes a realised social snapshot for the inevitable trajectory of the human soul. In both, agency is handed to trace: a life parked on its past habits, a philosophical explanation parked on a static aggregate look. The saying and what it names are one error at two scales.
+This is the same inversion traced in the constrained adult. The constrained adult takes a realised local limit for the fixed boundary of the world; the one who voices the saying takes a realised social snapshot for the inevitable trajectory of the human soul. In both, agency is handed to trace: a life parked on its past habits, a philosophical explanation parked on a static aggregate look. The constrained adult and the saying are one error at two scales.
 
 ## 五、 活的前沿这一不变量 / 5. The Invariant of the Living Edge
 
-在诗意的说法底下，发生的事要精确得多：一个小的起始展开，一个活的区分之所，写下状态转换并随时间复利的环境，把中段回收进共享盆地的公共梯度，一种把能动性指向已写下之物、而不是投向下一次扩展的普遍习惯，以及一个照搬这种习惯、把由此产生的症状误认为生成引擎的描述。这个现象是能动性的一次主动错配；传统的解释，是在语言里重演的同一次错配。
+在诗意的说法底下，发生的事要精确得多：一个小的起始展开，一个活的区分之所，写下状态转换并随时间复利的环境，把中段回收进共享盆地的公共梯度，每当能动性指向已写下之物、而非投向下一次扩展时便会登记的内部拖累，以及一个照搬这一向后转向、把盆地的表面误认为生成引擎的描述。凡感到约束之处，都是能动性主动错配所带来的拖累；传统的解释，则是在语言里重演同一次错配。
 
-Beneath the poetic phrasing, what happens is more exact: a small opening spread, a living locus of distinction, environments that write state transitions and compound over time, common gradients that recapture the middle into shared basins, a widespread habit of pointing agency at what is already written rather than into the next expansion, and a description that copies that habit by taking the resulting symptom for the generating engine. The phenomenon is an active misallocation of agency; the traditional explanation is the same misallocation re-enacted in language.
+Beneath the poetic phrasing, what happens is more exact: a small opening spread, a living locus of distinction, environments that write state transitions and compound over time, common gradients that recapture the middle into shared basins, the inner drag that registers whenever agency points at what is already written rather than into the next expansion, and a description that copies that backward turn by taking the basin's surface for the generating engine. Where constraint is felt, it is the drag of an active misallocation of agency; the traditional explanation re-enacts that misallocation in language.
 
-长大不是自由被没收，而是因果杠杆的累积。孩子有一块空着的寄存器，杠杆很小；成年人有大量累积的机器——就像[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的那座过往切分的外化存放处，过去的承诺作为可调用的结构坐落在那里，而非劫持主权的看守。这套机器成为自我施加的牢笼，还是一台创造的引擎，不由年龄、社会或时间的流逝决定，而由心智在当下的移动前沿上把能动性指向哪里决定。
+长大不是自由被没收，而是因果杠杆的累积。孩子有一块写得很少的寄存器，杠杆很小；成年人有大量累积的机器——就像[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的那座过往切分的外化存放处，过去的承诺作为可调用的结构坐落在那里，而非劫持主权的看守。这套机器成为自我施加的牢笼，还是一台创造的引擎，不由年龄、社会或时间的流逝决定，而由心智在当下的移动前沿上把能动性指向哪里决定。
 
-Growing up is not the confiscation of freedom; it is the accumulation of causal leverage. A child has an empty register with little leverage; an adult has a great deal of accumulated machinery—like the externalized repository of prior cuts traced in [Your Codebase Is Memory](../your-codebase-is-memory/), where past commitments sit as callable structure rather than a sovereign captor. Whether that machinery becomes a self-imposed prison or an engine of creation is decided not by age, society or the passing of time, but by where the Mind points its agency at the moving edge of the present.
+Growing up is not the confiscation of freedom; it is the accumulation of causal leverage. A child has a sparsely written register and little leverage; an adult has a great deal of accumulated machinery—like the externalized repository of prior cuts traced in [Your Codebase Is Memory](../your-codebase-is-memory/), where past commitments sit as callable structure rather than a sovereign captor. Whether that machinery becomes a self-imposed prison or an engine of creation is decided not by age, society or the passing of time, but by where the Mind points its agency at the moving edge of the present.

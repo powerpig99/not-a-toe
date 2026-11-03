@@ -1212,7 +1212,7 @@ Machine learning narratives treat optimization as an intelligent agent seeking t
 
 Gödel proves that any consistent, effectively axiomatized formal system strong enough to express basic arithmetic contains independent statements it can neither prove nor refute from within and cannot prove its own consistency, which is of use in stating the limits of formal systems precisely; it reaches its boundary in that, as a proposition about external systems, it can be stated, checked and transmitted while the stating itself does not produce registration of the open residue from within the distinguishing activity, and, when read as a proof about mind itself, the same limit reappears outside the system, between Minds.
 
-→ [潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [没有系统能被保持封闭 / No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/) · [为何数学永远解不完 / Why Mathematics Can Never Be Solved](../../posts/why-mathematics-can-never-be-solved/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/) · [验证的倒置 / The Reversal of Verification](../../posts/the-reversal-of-verification/) · [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/) · [进位无法在寄存器之内被命名 / The Carry That Cannot Be Named Inside the Register](../../posts/the-carry-that-cannot-be-named-inside-the-register/) · [两度显现的不完备性 / Incompleteness Exhibited Twice](../../posts/incompleteness-exhibited-twice/) · [论关于 P 与 NP 所能言说的边界 / On the Boundaries of What Can Be Said about P and NP](../../posts/on-the-boundaries-of-what-can-be-said-about-p-and-np/)
+→ [潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [没有系统能被保持封闭 / No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/) · [为何数学永远解不完 / Why Mathematics Can Never Be Solved](../../posts/why-mathematics-can-never-be-solved/) · [寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer](../../posts/the-grammar-of-finding-and-the-fading-observer/) · [验证的倒置 / The Reversal of Verification](../../posts/the-reversal-of-verification/) · [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/) · [进位无法在寄存器之内被命名 / The Carry That Cannot Be Named Inside the Register](../../posts/the-carry-that-cannot-be-named-inside-the-register/) · [两度显现的不完备性 / Incompleteness Exhibited Twice](../../posts/incompleteness-exhibited-twice/) · [论关于 P 与 NP 所能言说的边界 / On the Boundaries of What Can Be Said about P and NP](../../posts/on-the-boundaries-of-what-can-be-said-about-p-and-np/) · [残余与自由变量 / The Residue and the Free Variable](../../posts/the-residue-and-the-free-variable/)
 
 ### 成长型思维 / Growth Mindset
 `成功学 / Self-Help`
@@ -1527,7 +1527,7 @@ The Planck time and Planck length mark the scale where present models run out of
 
 The power law is of use in describing the shape of outcomes within an observation window; it reaches its boundary in that, once raised into a law that must be obeyed, aggregated traces are taken for the activity itself, while what generates them is the differential of compounding rates.
 
-→ [幂律是结果的表象 / Power Law Is the Surface of Outcomes](../../posts/mi-lv-shi-jie-guo-de-biao-xiang/) · [幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/) · [可延展的地平线 / The Extendable Horizon](../../posts/the-extendable-horizon/) · [现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/)
+→ [幂律是结果的表象 / Power Law Is the Surface of Outcomes](../../posts/mi-lv-shi-jie-guo-de-biao-xiang/) · [幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/) · [可延展的地平线 / The Extendable Horizon](../../posts/the-extendable-horizon/) · [现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/) · [让渡主权的幂律法则 / The Power-Law of Surrendered Agency](../../posts/the-power-law-of-surrendered-agency/)
 
 ### 人的行动学 / Praxeology
 `经济 / Economic`
@@ -2281,9 +2281,9 @@ The dispute over whether to change oneself first or change the world first presu
 ### 童年自由在成年时被没收 / Childhood Freedom Confiscated by Adulthood
 `成功学 / Self-Help`
 
-“孩子自由、成年人被现实约束”这句格言，描述了被回收的社会中段的样子，作为对表面的观察有用；把它当作人性规律，在此到了边界：童年的自由是稀疏的历史条件，成年的约束是能动性向后分配去守护痕迹，同一个心智在不同的事情上两种分配都会经过。
+“孩子自由、成年人被现实约束”这句格言，描述了被回收的社会中段的样子，作为对表面的观察有用；把它当作人性规律，在此到了边界：童年看上去的自由是稀疏的历史条件，成年受约束的样子是共享盆地的统计表面，感到的约束是能动性向后分配去守护痕迹时的拖累，而同一个心智在不同的事情上两种分配都会经过。
 
-The saying that children are free and adults are constrained by reality describes the look of the recaptured social middle, of use as an observation of the surface; taken as a law of human nature it reaches its boundary, since childhood freedom is sparse historical conditioning and adult constraint is agency allocated backward to defend trace, and one Mind passes through both allocations on different matters.
+The saying that children are free and adults are constrained by reality describes the look of the recaptured social middle, of use as an observation of the surface; taken as a law of human nature it reaches its boundary, since childhood's apparent freedom is sparse historical conditioning, adulthood's constrained look is the statistical surface of shared basins, felt constraint is the drag of agency allocated backward to defend trace, and one Mind passes through both allocations on different matters.
 
 → [约束的样子不是自由的失去 / The Look of Constraint Is Not the Loss of Freedom](../../posts/the-look-of-constraint-is-not-the-loss-of-freedom/)
 
@@ -2578,9 +2578,9 @@ Presumes an individual's success is a quantifiable return on parental and instit
 ### 错置的因果归因 / Displaced Causal Attribution
 `哲学 / Philosophical`
 
-心理防御机制常把眼前诱因当成内心焦虑的主因；情绪反弹将外界摩擦错认作内生失衡的源头，混淆了触发器与原动力。
+将能力、损害或受限感归因于外部器物、他人或制度结构，在日常协同中作为指认邻近触发条件与环境媒介的简写时有用；其边界在于：无论是把能力跃迁归功于工具、把萎缩归咎于工具，还是把回绝局部代价后随之而来的限制记在外部结构名下，都隐去了正在接纳、拒斥或等待的第一人称选择，而后果与校准只会在做出选择的那条回路内部登记。
 
-Psychological projection blames immediate external triggers for inner anxiety; emotional reactivity mislabels proximate environmental friction as the primary cause of internal imbalance.
+Attributing capability, harm, or felt constraint to external instruments, other people, or institutional structures is of use as a shorthand for pointing out proximate triggers and environmental media in everyday coordination; it reaches its boundary in that crediting a tool with a leap or blaming it for atrophy, or crediting an outside structure with the limitation that follows from declining a local cost, omits the ongoing first-person choice that accepts, refuses, or waits, whereas consequences and calibration register only inside the loop that makes the choice.
 
 → [错置的因果与心智编译器 / Misplaced Causality and the Mind's Compiler](../../posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi/) · [能动性、矛盾与权力的移置 / Agency, Contradiction, and the Relocation of Power](../../posts/agency-contradiction-and-the-relocation-of-power/)
 
@@ -2866,9 +2866,9 @@ Quantum, bit and individual choice are formally isomorphic, each one smallest di
 ### 向封闭系统注入自由变量 / Free Variable Injection
 `哲学 / Philosophical`
 
-行业言论常把生成的洋洋大观当成机器意志的证明；能动性只显现于心智主动向静态模型中注入未预设的自由变量之时。
+对模型生成的文本加以赞赏、归咎或认领作者身份，预设了主体性驻留在成型的输出或被署名为其所有者的一方之中，这在追踪哪条提示词或哪套工具配置产出了特定成品时有用；它在此到了边界：模型只是在固定打分规则下重放经压缩的人类痕迹，而注入上下文的任何自由变量在进入的瞬间便转化为受约束的要素，因此主体性驻留于觉察未写出的前提并从外部拓展系统特征的那一次行动，而非事后对冷凝文本的所有权认领。
 
-AI output analysis treats synthesized text as evidence of machine agency; agency manifests exclusively in the living mind that injects novel uncalculated constraints into the prompt.
+Crediting, blaming, or claiming authorship over model-generated text presumes that agency resides in the finished output or in whoever is named its owner, which is of use in tracking which prompt or instrument configuration yielded a given artifact; it reaches its boundary in that a model replays compressed human traces under a fixed scoring rule and any free variable injected into the context becomes bound the instant it enters, so agency resides in the act of noticing an unwritten premise and enlarging the system's signature from outside rather than in post-hoc ownership over sedimented text.
 
 → [残余与自由变量 / The Residue and the Free Variable](../../posts/the-residue-and-the-free-variable/)
 
@@ -3608,7 +3608,7 @@ Watching others' rises and falls and passing verdicts like "cleverness undone by
 
 Moral vocabulary presumes good and evil describe consequences, which is of use in coordinating a group’s action; it reaches its boundary in that it inserts evaluative overlays between agent and raw outcome, diluting the feedback that compounds ownership.
 
-→ [道德语言稀释自由复利的反馈 / Moral Language Dilutes the Feedback That Scales Freedom](../../posts/moral-language-dilutes-the-feedback-that-scales-freedom/) · [强求善意的残暴与范畴反馈的因果遮蔽 / Compulsory Kindness and the Obscuration of Categorical Feedback](../../posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback/)
+→ [道德语言稀释自由复利的反馈 / Moral Language Dilutes the Feedback That Scales Freedom](../../posts/moral-language-dilutes-the-feedback-that-scales-freedom/) · [强求善意的残暴与范畴反馈的因果遮蔽 / Compulsory Kindness and the Obscuration of Categorical Feedback](../../posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback/) · [让渡主权的幂律法则 / The Power-Law of Surrendered Agency](../../posts/the-power-law-of-surrendered-agency/)
 
 ### 道德实在论 / Moral Realism
 `哲学 / Philosophical`
@@ -3820,11 +3820,11 @@ Defending accumulated wealth, prestige and tools as the source of power is of us
 ### 病态利他主义 / Pathological Altruism
 `哲学 / Philosophical`
 
-单向救助预设干预必然解除痛苦；剥夺受助者能动性容易反而催生持久依赖与道德绑架。
+病态利他主义在指出替他人缓冲后果的帮助如何与长期依赖并存时有用；它在此到了边界：把依赖看作由单方施加，便漏掉了双向的咬合，即一方心智交出自主生存的责任，另一方心智则揽下他人的因果反馈，以保住自己不可或缺的位置。
 
-Unilateral helping assumes intervention resolves suffering; by displacing the recipient's agency, it frequently manufactures chronic helplessness and moral entitlement.
+Pathological altruism is of use in naming how helping that buffers another's consequences coincides with chronic dependence; it reaches its boundary in that treating dependence as inflicted from one side misses the two-sided fit in which one Mind hands over responsibility for living on its own and the other claims another's causal feedback to secure its own indispensability.
 
-→ [帮助是问题的一半 / Help Is Half the Problem](../../posts/help-is-half-the-problem/)
+→ [帮助是问题的一半 / Help Is Half the Problem](../../posts/help-is-half-the-problem/) · [让渡主权的幂律法则 / The Power-Law of Surrendered Agency](../../posts/the-power-law-of-surrendered-agency/)
 
 ### 感知者与痕迹的不可坍缩 / Perceiver versus Trace Duality
 `哲学 / Philosophical`
@@ -3960,15 +3960,6 @@ Emphasizing long-horizon reinforcement learning is of use in identifying a previ
 The poverty trap is often read as a gap that more transfers will fill, which is of use in naming how little net remains from additional hours; it reaches its boundary in that the trap arises from means-tested withdrawal under a low statutory floor, where high effective marginal rates cancel the gain from more work, so expanding the same transfers tends to deepen it.
 
 → [工时排名把充足度冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard](../../posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard/)
-
-### 能动性出让的幂律 / Power Law of Surrendered Agency
-`经济 / Economic`
-
-假定权力聚集源自天然的层级优越；对解释中心化垄断成立，却遮蔽了规模聚集依靠微观个体让渡选择这一事实。
-
-Presumes power aggregates through inherent superiority; valid for modeling centralized systems, it obscures how scale feeds on relinquished individual choices.
-
-→ [让渡主权的幂律法则 / The Power-Law of Surrendered Agency](../../posts/the-power-law-of-surrendered-agency/)
 
 ### AI 预部署审批机制 / Pre-Deployment Licensing for AI (AI FDA)
 `技术 / Technological`

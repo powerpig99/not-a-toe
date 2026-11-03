@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-03T21:31:14.357Z",
+    "generated_at": "2026-11-03T22:37:32.325Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -35,7 +35,7 @@
       "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md": "5918317b1cbf",
       "content/posts/causality-all-the-way.md": "08b98022c4d7",
       "content/posts/causality-and-the-irreducible-prior.md": "23039b57892e",
-      "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "3216bed66187",
+      "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "064fb7c61926",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "aa3cabf727b3",
       "content/posts/cheng-gong-xue.md": "ac78a83205fd",
       "content/posts/choice-itself-has-no-inherent-weight.md": "61c4cff8bfbf",
@@ -50,7 +50,7 @@
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "b5b4e094da3d",
       "content/posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback.md": "3173495002ec",
       "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "8469fbe3aa6c",
-      "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "2804ed2110a5",
+      "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "4042a826b20d",
       "content/posts/conscience-power-delegation.md": "c4ea27a54828",
       "content/posts/consciousness-ascription-and-the-quantum-cut.md": "3ce64bf84b73",
       "content/posts/consciousness-never-appears-as-data-among-data.md": "90174c081cd1",
@@ -59,7 +59,7 @@
       "content/posts/continuous-learning-as-expression-and-simulation.md": "9ce5608bf474",
       "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "d399e29f1ee7",
       "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "6b2b7b30fcb5",
-      "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "1f0177f4d89e",
+      "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "63bff49ee35f",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "de3299fb5449",
       "content/posts/curiosity-has-no-final-form.md": "100335def2de",
       "content/posts/cybersecurity-arms-race.md": "148e05f366f1",
@@ -177,7 +177,7 @@
       "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "2942b85de8aa",
       "content/posts/price-as-utterance-understanding-as-trade.md": "74464ff48389",
       "content/posts/production-consumption-and-the-minds-distinction.md": "fed20f3d69e9",
-      "content/posts/public-spending-does-not-create-capital.md": "928c2d8dc512",
+      "content/posts/public-spending-does-not-create-capital.md": "e3060a5f4121",
       "content/posts/qian-yin-hou-guo.md": "e9a138276212",
       "content/posts/rationality-never-travels-across-the-mind.md": "3cb2e68dd3f2",
       "content/posts/reality-doesnt-invoice-by-committee.md": "86aa65056254",
@@ -229,7 +229,7 @@
       "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "00c2640fef3e",
       "content/posts/the-category-error-of-better.md": "01832e3adff3",
       "content/posts/the-causal-inversion-of-partnership.md": "893fa06d74ab",
-      "content/posts/the-causal-inversion-of-philosophical-agency.md": "308f4e3d129b",
+      "content/posts/the-causal-inversion-of-philosophical-agency.md": "3ca599ffb0d9",
       "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "c3f7ea991be1",
       "content/posts/the-causal-overstep-of-observation-and-the-first-person-surplus.md": "1c8b2a59109f",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "c138f1002466",
@@ -310,7 +310,7 @@
       "content/posts/the-limitation-is-doing-work.md": "bdf4b71e4176",
       "content/posts/the-living-context.md": "8d42e5a0f3f0",
       "content/posts/the-local-trap-of-technological-change.md": "90573245bd77",
-      "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "a085e1bdb7a4",
+      "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "1829871b1515",
       "content/posts/the-loop-accelerates.md": "60608a02a0ed",
       "content/posts/the-loop-that-cant-see-itself.md": "b9a6ed83a832",
       "content/posts/the-maintenance-paradox.md": "1d92c151aa07",
@@ -331,7 +331,7 @@
       "content/posts/the-non-definitive-definition-of-intelligence.md": "65bdb70f81ba",
       "content/posts/the-npc-impression-is-structural.md": "4f7bc9fb76e2",
       "content/posts/the-observational-cut-in-ai-debates.md": "4ce3e6428502",
-      "content/posts/the-only-coherent-uncaused-effect.md": "0e1c79ca33fb",
+      "content/posts/the-only-coherent-uncaused-effect.md": "7fe84abc56e1",
       "content/posts/the-open-question-is-determinisms-demand.md": "48656561f081",
       "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "dc29182803e7",
       "content/posts/the-orthogonal-refusal.md": "68eddc931d5a",
@@ -341,7 +341,7 @@
       "content/posts/the-path-drawn-one-step-at-a-time.md": "a0cf68102eb0",
       "content/posts/the-perceiver-and-the-trace.md": "ca63cdb39988",
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "bb2f003e5b8b",
-      "content/posts/the-power-law-of-surrendered-agency.md": "995067c4c57b",
+      "content/posts/the-power-law-of-surrendered-agency.md": "b103a48206f4",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "8b30e5923db4",
       "content/posts/the-price-of-closing-optionality.md": "5587a48534a1",
       "content/posts/the-question-that-installs-the-war.md": "63e4ec243e36",
@@ -353,7 +353,7 @@
       "content/posts/the-reality-distortion-field-names-the-closed-map.md": "757d9fbe8599",
       "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "ad7483982bf1",
       "content/posts/the-reflexive-dilemma-of-unique-insight.md": "d836ec0d3431",
-      "content/posts/the-residue-and-the-free-variable.md": "0b7143cf5e7b",
+      "content/posts/the-residue-and-the-free-variable.md": "9722640f9dcc",
       "content/posts/the-returning-signal-and-its-claim.md": "973ad49b2d21",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "eac491539bc9",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "9e39c50c5595",
@@ -374,7 +374,7 @@
       "content/posts/the-source-of-shared-change.md": "96a5ac743fda",
       "content/posts/the-sovereign-blinding.md": "ed3ccd01b170",
       "content/posts/the-strategy-that-wasnt.md": "619408944139",
-      "content/posts/the-strongest-belief-of-the-mind.md": "737eacfeacc4",
+      "content/posts/the-strongest-belief-of-the-mind.md": "cffad4109dde",
       "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "01f3559f1033",
       "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "c663c4a8107a",
       "content/posts/the-surface-beneath.md": "cb6892bfdae1",
@@ -399,7 +399,7 @@
       "content/posts/time-is-causality-not-a-dimension.md": "bcd28712180f",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "8b7996bdb4d5",
       "content/posts/tokens-and-the-observational-boundary.md": "34db187b43af",
-      "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "9d994611d450",
+      "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "ad64f1388d7d",
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "91487ce48c58",
       "content/posts/trusting-the-reader-is-the-last-overstep.md": "4fa6d46f4306",
       "content/posts/two-failures-of-trace.md": "3ac21a2fda4a",
@@ -430,14 +430,14 @@
       "content/posts/your-codebase-is-memory.md": "ea27ad8ecdfa",
       "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "d2e6651a8bd3",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "85c32a43404f",
-      "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "7bec47116337",
+      "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "1308b0507c8e",
       "content/posts/zi-you-de-ce-bu-zhun.md": "e65d9e914390",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "0377c4822629",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b28d61994639",
       "content/book/causality.md": "863b25c6333a",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "a3b362f845f0",
+      "content/book/index-of-premises.md": "6908b38e719b",
       "content/book/intelligence.md": "6234ae4579e1",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -453,14 +453,14 @@
     },
     "stats": {
       "posts": 426,
-      "edges": 13058,
-      "unique_directed": 6423,
+      "edges": 13062,
+      "unique_directed": 6425,
       "missing_targets": 0,
-      "one_way": 1197,
+      "one_way": 1195,
       "isolated": 0,
       "posts_with_outbound": 426,
       "book_pages": 16,
-      "book_edges": 1247,
+      "book_edges": 1250,
       "posts_reached_by_book": 426
     }
   },
@@ -1398,7 +1398,7 @@
       "slug": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "path": "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md",
       "title": "因果的自反性与物理的无源假定 / Causality is Irreducible; The Physical is a View from Nowhere",
-      "hash": "3216bed66187",
+      "hash": "064fb7c61926",
       "in_degree": 20,
       "out_degree": 20,
       "links_out": [
@@ -1892,7 +1892,7 @@
       "slug": "cong-xing-shi-mi-si-dao-luo-ji-bi-huan",
       "path": "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md",
       "title": "从形式迷思到逻辑闭环 / From the Myth of Form to the Closed Loop of Logic",
-      "hash": "2804ed2110a5",
+      "hash": "4042a826b20d",
       "in_degree": 20,
       "out_degree": 22,
       "links_out": [
@@ -2125,7 +2125,7 @@
       "slug": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
       "path": "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md",
       "title": "错置的因果与心智编译器 / Misplaced Causality and the Mind's Compiler",
-      "hash": "1f0177f4d89e",
+      "hash": "63bff49ee35f",
       "in_degree": 11,
       "out_degree": 15,
       "links_out": [
@@ -5455,9 +5455,9 @@
       "slug": "public-spending-does-not-create-capital",
       "path": "content/posts/public-spending-does-not-create-capital.md",
       "title": "公共支出不创造资本 / Public Spending Does Not Create Capital",
-      "hash": "928c2d8dc512",
+      "hash": "e3060a5f4121",
       "in_degree": 18,
-      "out_degree": 17,
+      "out_degree": 19,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "having-more-is-never-the-cause",
@@ -5470,9 +5470,11 @@
         "the-irreducible-prior-of-decision-and-consequence",
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+        "the-generative-mechanics-of-value-money-and-wealth",
         "symptom-and-cause-in-the-narratives-of-progress",
         "fate-loves-irony-refined",
         "restriction-is-a-selective-tax",
+        "the-causal-order-of-private-residuals-and-social-surplus",
         "the-myth-of-population-collapse-explained",
         "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "the-rational-choice-postulate-is-the-original-sin"
@@ -6912,7 +6914,7 @@
       "slug": "the-causal-inversion-of-philosophical-agency",
       "path": "content/posts/the-causal-inversion-of-philosophical-agency.md",
       "title": "哲学能动性的因果倒置 / The Causal Inversion of Philosophical Agency",
-      "hash": "308f4e3d129b",
+      "hash": "3ca599ffb0d9",
       "in_degree": 3,
       "out_degree": 5,
       "links_out": [
@@ -6930,7 +6932,7 @@
       "path": "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md",
       "title": "私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus",
       "hash": "c3f7ea991be1",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 10,
       "links_out": [
         "having-more-is-never-the-cause",
@@ -8024,7 +8026,7 @@
       "path": "content/posts/the-generative-mechanics-of-value-money-and-wealth.md",
       "title": "价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth",
       "hash": "64c173931963",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 20,
       "links_out": [
         "price-as-utterance-understanding-as-trade",
@@ -8895,7 +8897,7 @@
       "slug": "the-look-of-constraint-is-not-the-loss-of-freedom",
       "path": "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md",
       "title": "约束的样子不是自由的失去 / The Look of Constraint Is Not the Loss of Freedom",
-      "hash": "a085e1bdb7a4",
+      "hash": "1829871b1515",
       "in_degree": 5,
       "out_degree": 6,
       "links_out": [
@@ -9441,7 +9443,7 @@
       "slug": "the-only-coherent-uncaused-effect",
       "path": "content/posts/the-only-coherent-uncaused-effect.md",
       "title": "唯一自洽的无因之果 / The Only Coherent Uncaused Effect",
-      "hash": "0e1c79ca33fb",
+      "hash": "7fe84abc56e1",
       "in_degree": 11,
       "out_degree": 13,
       "links_out": [
@@ -9695,7 +9697,7 @@
       "slug": "the-power-law-of-surrendered-agency",
       "path": "content/posts/the-power-law-of-surrendered-agency.md",
       "title": "让渡主权的幂律法则 / The Power-Law of Surrendered Agency",
-      "hash": "995067c4c57b",
+      "hash": "b103a48206f4",
       "in_degree": 6,
       "out_degree": 6,
       "links_out": [
@@ -10042,7 +10044,7 @@
       "slug": "the-residue-and-the-free-variable",
       "path": "content/posts/the-residue-and-the-free-variable.md",
       "title": "残余与自由变量 / The Residue and the Free Variable",
-      "hash": "0b7143cf5e7b",
+      "hash": "9722640f9dcc",
       "in_degree": 14,
       "out_degree": 11,
       "links_out": [
@@ -10645,7 +10647,7 @@
       "slug": "the-strongest-belief-of-the-mind",
       "path": "content/posts/the-strongest-belief-of-the-mind.md",
       "title": "心智最坚固的信念 / The Strongest Belief of the Mind",
-      "hash": "737eacfeacc4",
+      "hash": "cffad4109dde",
       "in_degree": 19,
       "out_degree": 21,
       "links_out": [
@@ -11213,7 +11215,7 @@
       "slug": "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
       "path": "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md",
       "title": "投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality",
-      "hash": "9d994611d450",
+      "hash": "ad64f1388d7d",
       "in_degree": 10,
       "out_degree": 12,
       "links_out": [
@@ -12058,7 +12060,7 @@
       "slug": "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
       "path": "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md",
       "title": "自由变量的同构与先验主权 / The Isomorphism of Free Variables and Prior Sovereignty",
-      "hash": "7bec47116337",
+      "hash": "1308b0507c8e",
       "in_degree": 18,
       "out_degree": 19,
       "links_out": [
@@ -46166,6 +46168,12 @@
     },
     {
       "from": "public-spending-does-not-create-capital",
+      "to": "the-generative-mechanics-of-value-money-and-wealth",
+      "rel": "points_to",
+      "label": "价值、货币与财富的生成机制"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
       "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
@@ -46199,6 +46207,12 @@
       "to": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
       "rel": "points_to",
       "label": "The Welfare State Illusion"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "the-generative-mechanics-of-value-money-and-wealth",
+      "rel": "points_to",
+      "label": "The Generative Mechanics of Value, Money, and Wealth"
     },
     {
       "from": "public-spending-does-not-create-capital",
@@ -46238,6 +46252,12 @@
     },
     {
       "from": "public-spending-does-not-create-capital",
+      "to": "the-causal-order-of-private-residuals-and-social-surplus",
+      "rel": "points_to",
+      "label": "私人残差与社会剩余的因果次序"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
       "to": "the-myth-of-population-collapse-explained",
       "rel": "points_to",
       "label": "人口崩溃神话的拆解"
@@ -46253,6 +46273,12 @@
       "to": "the-rational-choice-postulate-is-the-original-sin",
       "rel": "points_to",
       "label": "理性选择公设是原罪"
+    },
+    {
+      "from": "public-spending-does-not-create-capital",
+      "to": "the-causal-order-of-private-residuals-and-social-surplus",
+      "rel": "points_to",
+      "label": "The Causal Order of Private Residuals and Social Surplus"
     },
     {
       "from": "public-spending-does-not-create-capital",
@@ -90552,7 +90578,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "a3b362f845f0",
+        "hash": "6908b38e719b",
         "out_degree": 426
       },
       {
@@ -92497,6 +92523,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-residue-and-the-free-variable",
+        "rel": "collects",
+        "label": "残余与自由变量 / The Residue and the Free Variable"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-extendable-horizon",
         "rel": "collects",
         "label": "可延展的地平线 / The Extendable Horizon"
@@ -92788,6 +92820,12 @@
         "to": "the-reality-distortion-field-inverts-the-baseline",
         "rel": "collects",
         "label": "现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-power-law-of-surrendered-agency",
+        "rel": "collects",
+        "label": "让渡主权的幂律法则 / The Power-Law of Surrendered Agency"
       },
       {
         "from": "book:index-of-premises",
@@ -94483,6 +94521,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-power-law-of-surrendered-agency",
+        "rel": "collects",
+        "label": "让渡主权的幂律法则 / The Power-Law of Surrendered Agency"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "moral-language-as-projection",
         "rel": "collects",
         "label": "道德语言作为投影 / Moral Language as Projection"
@@ -94657,6 +94701,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-power-law-of-surrendered-agency",
+        "rel": "collects",
+        "label": "让渡主权的幂律法则 / The Power-Law of Surrendered Agency"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-perceiver-and-the-trace",
         "rel": "collects",
         "label": "感知者与痕迹的不可坍缩 / The Perceiver and the Trace Cannot Collapse"
@@ -94768,12 +94818,6 @@
         "to": "the-hours-ranking-freezes-adequacy-as-one-scoreboard",
         "rel": "collects",
         "label": "工时排名把充足度冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-power-law-of-surrendered-agency",
-        "rel": "collects",
-        "label": "让渡主权的幂律法则 / The Power-Law of Surrendered Agency"
       },
       {
         "from": "book:index-of-premises",

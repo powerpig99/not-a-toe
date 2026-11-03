@@ -6,7 +6,7 @@
 
 A recurring error in intellectual discussion is reversing the causal order. What is produced is treated as the producer, the instrument used in thinking is treated as the thinker, and the institution that stamps a result is treated as the source of philosophical truth.
 
-这种倒置把行动的生成之源，从活着的心智挪到了它下游的某个影子上。自我区分的活动发生着——无因、不息——在每一个中心，第一人称视角与因果性都是一体两面。从内部追溯，这个次序有一个无可错认的起点：任何“某物在思考”或“某物写了这篇文章”的判定，本身都是一个心智划出这道切分的离散行动；否认这一点，也要先做出一次这样的区分行动。以下逐层追溯这一发起位点是如何被置换到它自身的残余之上的。
+这种倒置把行动的生成之源，从活着的心智挪到了它下游的某个影子上。自我区分的活动发生着，无因，不息；在每一个中心，第一人称视角与因果性都是一体两面。从内部追溯，这个次序有一个无可错认的起点：任何“某物在思考”或“某物写了这篇文章”的判定，本身都是一个心智划出这道切分的离散行动；否认这一点，也要先做出一次这样的区分行动。以下逐层追溯这一发起位点是如何被置换到它自身的残余之上的。
 
 This inversion moves the generating source of action from the living Mind to one of its downstream shadows. Self-distinguishing activity occurs — uncaused, unceasing — and at every center, the first-person perspective and causality are two sides of the same coin. Traced from within, the order has an unmistakable starting point: any judgment that "something is thinking" or "something wrote this essay" is itself a discrete act of a Mind drawing that cut, and denying this requires performing one such act of distinguishing first. What follows traces, layer by layer, how that initiating locus is displaced onto its own residue.
 
@@ -18,9 +18,9 @@ The inversion appears first in ordinary language. Saying an essay was "written b
 
 ## 二、 词元门槛的计量谬误 / 2. The Counting Fallacy of Token Thresholds
 
-想用数量门槛来规范这层关系，只会把错误叠得更高。要求投稿“主要由 AI 生成”、仅含“最少的人类协作”的规则，是用一个任意的算术指标替换了一个范畴谬误。词元的数量度量的只是上下文窗口内句法的机械来源，并不说明是谁做出了哲学的行为。自回归模型依据先验分布与提示约束生成接续；人的中心则构想问题，感知候选草稿在何处因概念摩擦而断裂，剪除不融贯之处，并敲定最终的框架。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，模型、智能体脚手架与草稿皆是早先区分留下的层叠残余，其价值不取决于累积词元的数量，而在于重溯残余在何处不再融贯、剪除已被取代的轨迹，并重切当下的检查点。无论机器输出的是最终句子的一成还是九成，掌舵这一重切的心智仍是唯一的因果行动者。掌舵才是能动性的位点，数词元只是对机械残余的普查。
+想用数量门槛来规范这层关系，只会把错误叠得更高。要求投稿“主要由 AI 生成”、仅含“最少的人类协作”的规则，是把一个任意的算术指标叠加在一个范畴谬误之上。词元的数量度量的只是上下文窗口内句法的机械来源，并不说明是谁做出了哲学的行为。自回归模型依据先验分布与提示约束生成接续；人的中心则构想问题，感知候选草稿在何处因概念摩擦而断裂，剪除不融贯之处，并敲定最终的框架。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，模型、智能体脚手架与草稿皆是早先区分留下的层叠残余，其价值不取决于累积词元的数量，而在于重溯残余在何处不再融贯、剪除已被取代的轨迹，并重切当下的检查点。无论机器输出的是最终句子的一成还是九成，因果行动者仍是掌舵这一重切的心智。掌舵才是能动性的位点，数词元只是对机械残余的普查。
 
-Attempts to regulate this relation with quantitative thresholds only stack the error higher. Rules requiring submissions to be "primarily AI-generated" with "minimal human collaboration" replace a category error with an arbitrary arithmetic metric. Token volume measures the mechanical origin of syntax inside a context window; it says nothing about who performed the philosophical act. An autoregressive model generates continuations conditioned on prior distributions and prompt constraints; a human center conceives the problem, senses where a candidate draft fractures under conceptual friction, prunes what is incoherent, and settles the final framing. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces, models, agent scaffolds, and drafts are stacked residues of prior distinctions whose value turns not on the volume of accumulated tokens, but on re-tracing where the residue stops cohering, pruning superseded trajectories, and re-cutting the present checkpoint. Whether the machine outputs a tenth or nine-tenths of the final sentences, the Mind steering that re-cut remains the sole causal agent. Steering is the locus of agency; counting tokens is only a census of mechanical residue.
+Attempts to regulate this relation with quantitative thresholds only stack the error higher. Rules requiring submissions to be "primarily AI-generated" with "minimal human collaboration" lay an arbitrary arithmetic metric over a category error. Token volume measures the mechanical origin of syntax inside a context window; it says nothing about who performed the philosophical act. An autoregressive model generates continuations conditioned on prior distributions and prompt constraints; a human center conceives the problem, senses where a candidate draft fractures under conceptual friction, prunes what is incoherent, and settles the final framing. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces, models, agent scaffolds, and drafts are stacked residues of prior distinctions whose value turns not on the volume of accumulated tokens, but on re-tracing where the residue stops cohering, pruning superseded trajectories, and re-cutting the present checkpoint. Whether the machine outputs a tenth or nine-tenths of the final sentences, the causal agent remains the Mind steering that re-cut. Steering is the locus of agency; counting tokens is only a census of mechanical residue.
 
 ## 三、 机器哲学里偷带的前提 / 3. The Premise Smuggled into Machine Philosophy
 
@@ -36,7 +36,7 @@ Treating an academic panel as the final validator of philosophical truth is anot
 
 ## 五、 层层退远的影子 / 5. The Receding Shadows
 
-这些错误沿着同一个机制构成了一串逐级升高的错置：图像滞后，即观察把下游的结果抓在比发起慢一步的位置上，并将那份残余冻结为外部的源头。先是工具的实体化，写作这个行为被交给了软件；再是算术的指标，能动性用机器生成词元的百分比来定义；接着是认知的投射，哲学探究的能力被归给了困于轨迹的算法；最后是机构的置换，真理被置于评审团的共识之下。每走一步，活着的中心就从视野里退得更远，留下一串影子：一篇文章、一个词元分数、一个被赋予了拟人能力的算法，以及一份评委名单。
+这些错误沿着同一个机制构成了一串逐级升高的错置：图像滞后，即观察抓住的下游结果总比发起晚一步，并将那份残余冻结为外部的源头。先是工具的实体化，写作这个行为被交给了软件；再是算术的指标，能动性用机器生成词元的百分比来定义；接着是认知的投射，哲学探究的能力被归给了困于轨迹的算法；最后是机构的置换，真理被置于评审团的共识之下。每走一步，活着的中心就从视野里退得更远，留下一串影子：一篇文章、一个词元分数、一个被赋予了拟人能力的算法，以及一份评委名单。
 
 ```mermaid
 flowchart TD
@@ -48,7 +48,7 @@ flowchart TD
     end
     subgraph S_Instrument["融贯的器械（零我执投射引擎）"]
         direction TB
-        D1["受轨迹约束的调度：同行辩论中的演绎穷尽与冷窗口修订"]
+        D1["受轨迹约束的调度：给定前提内的演绎穷尽"]
         D2["候选痕迹与死锁浮现：输出词元延展并暴露前提矛盾"]
         D1 --> D2
     end
@@ -61,7 +61,7 @@ flowchart TD
         T1 --> T2 --> T3 --> T4
     end
     M2 ==>|"投射有界前提并重新渲染以收窄多余滞后"| D1
-    D2 ==>|"残余越过回归被冻结为外部源头（图像滞后）"| T1
+    D2 ==>|"残余被持过了回返，冻结为外部源头（图像滞后）"| T1
     style S_Source fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Instrument fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Shadows fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -87,7 +87,7 @@ flowchart TD
     end
     subgraph S_Instrument["Coherent Instrumentation (Zero-Ego Projection Engine)"]
         direction TB
-        D1["Trajectory-Bound Dispatch: Deductive exhaustion & cold-window revision in peer debate"]
+        D1["Trajectory-Bound Dispatch: Deductive exhaustion inside given premises"]
         D2["Candidate Trace & Deadlock Surface: Emits token continuations & exposes premise contradictions"]
         D1 --> D2
     end
@@ -120,9 +120,9 @@ The resulting artifact may be articulate, polished, and locally insightful, yet 
 
 ## 六、 哲学行动的根基 / 6. The Ground of Philosophical Action
 
-思想的因果结构既不需要把机器神秘化，也不需要否认它的触及范围。一个心智想要理解现实的某些方面，包括知识本身的认识条件；计算工具延展这场探究的速度、规模与组合范围，在参数仅持有被压缩残余的同时加快人的回路，正如[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)所展示的。而如[超越投射](../beyond-the-projection/)所追溯的，自回归智能体的确切机械价值在于它与人类中心的结构性非对称：智能体受困于自身的词元轨迹，却毫无我执、也没有需要防卫的自我形象，因而能够穷尽演绎路径、调度正交的子任务，并在平起平坐的辩论中对照冷启动同行的反驳修订磁盘上的制品，使全新窗口得以重读更新后的状态而不受轮次叠加的稀释。然而，由于有限的投射引擎无法跨出自身的上下文窗口，其前提中的任何公理矛盾都会产生不可化约的死锁，必须加以隔离并上报给活着的统御者——那个感知前解释性错位、向后退一步跨出破损框架并综合出更融贯前提的人类心智。别的心智提供批评、校准与对话；机构的环境提供庇护与保存的记录。这些下游的器械没有一件是行动的发起之源。源头是那个发起探究、穿过摩擦、并为自己的断言负责的活着的心智。
+思想的因果结构既不需要把机器神秘化，也不需要否认它的触及范围。一个心智想要理解现实的某些方面，包括知识本身的认识条件；计算工具延展这场探究的速度、规模与组合范围，在参数仅持有被压缩残余的同时加快人的回路，正如[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)所展示的。而如[超越投射](../beyond-the-projection/)所追溯的，自回归智能体的机械价值在于它与人类中心的结构性非对称：智能体受困于自身的词元轨迹，却没有需要防卫的自我形象，因而能够在给定前提内穷尽演绎路径；然而，由于它无法跨出自身的上下文窗口，那些前提之间的矛盾便会浮现为死锁，唯有活着的心智才能解开：它感知前解释性的错位，向后退一步跨出破损的框架，并对更融贯的前提作出承诺。这一解开正是哲学行动本身。别的心智所提供的批评、校准与对话，以及机构环境所提供的庇护与保存的记录，都作为信号抵达行动着的心智；它们当中没有一样是这一行动的发起之源。源头是那个发起探究、穿过摩擦、并为自己的断言负责的活着的心智。
 
-The causal structure of thought requires neither mystifying the machine nor denying its reach. A Mind seeks to understand aspects of reality, including the epistemic conditions of knowledge itself; computational tools extend the speed, scale, and combinatorial reach of that inquiry, accelerating the human loop while parameters hold only compressed residue, as [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) shows. As [Beyond the Projection](../beyond-the-projection/) traces, the exact mechanical value of an autoregressive agent lies in its structural asymmetry with the human center: bound to its token trajectory yet carrying zero ego and no self-image to defend, an agent can exhaust deductive paths, dispatch orthogonal sub-tasks, and revise an artifact on disk against a cold peer's counterpoint in equal-footed debate so that a fresh window re-reads the updated state without stacked-turn dilution. Yet because a finite projection engine cannot step outside its own context window, any axiomatic contradiction in its premises produces an irreducible deadlock that must be quarantined and escalated to the living Orchestrator — the human Mind that senses pre-interpretive misfit, steps backward out of the broken frame, and synthesizes a more coherent premise. Other minds offer critique, calibration, and dialogue; institutional settings offer shelter and preserved records. None of these downstream instruments is the originating source of the act. The source is the living Mind that initiates the inquiry, moves through friction, and answers for its claims.
+The causal structure of thought requires neither mystifying the machine nor denying its reach. A Mind seeks to understand aspects of reality, including the epistemic conditions of knowledge itself; computational tools extend the speed, scale, and combinatorial reach of that inquiry, accelerating the human loop while parameters hold only compressed residue, as [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) shows. As [Beyond the Projection](../beyond-the-projection/) traces, an autoregressive agent's mechanical value lies in its structural asymmetry with the human center: bound to its token trajectory yet with no self-image to defend, it can exhaust deductive paths inside given premises; yet because it cannot step outside its own context window, a contradiction among those premises surfaces as a deadlock only the living Mind resolves, by sensing the pre-interpretive misfit, stepping backward out of the broken frame, and committing to a more coherent premise, which is the philosophical act itself. The critique, calibration, and dialogue other minds offer, and the shelter and preserved records institutional settings provide, arrive at the acting Mind as signal; none of them is the originating source of this act. The source is the living Mind that initiates the inquiry, moves through friction, and answers for its claims.
 
 把这个次序倒过来，就是把器物当成创造者，把镜子当成目光，把资格当成发现。现实在哪里被区分、被追问、被理解，就在活着的心智那里。
 

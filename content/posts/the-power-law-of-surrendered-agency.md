@@ -1,6 +1,6 @@
 # 让渡主权的幂律法则 / The Power-Law of Surrendered Agency
 
-*自由的抉择在统计上聚成幂律，一方的单向解耦足以松开它 / Free choices aggregate statistically into a power law, and one side's unilateral decoupling is enough to loosen it*
+*自由的抉择在统计上聚成幂律，一方的单向解耦足以走出它 / Free choices aggregate statistically into a power law, and one side's unilateral decoupling is enough to step out of it*
 
 权力的集中在历史上以相近的形态反复出现。沿因果去追，每一次集中都落在第一人称原点上的一个个抉择上：是自己承担不确定，还是把因果的推演让给外部。这些抉择在第三人称的统计里聚成幂律，两个心智之间的僵持与牺牲式的依赖是同一种相容的错配，跨心智流通的道德语言是维持这种错配的归因协议。决定可以让渡，后果仍由原点上的个体承受，所以错配的松开不需要双方同意，一方把耦合归零便够。
 
@@ -14,9 +14,9 @@ Macroscopic social structure repeats to a striking degree. Through many changes 
 
 它们的边界在于因果的来处。沿因果去追，找不到一个在个体心智之外独自运转的宏观实体。每一个时刻，都由许多处在第一人称原点上的自由变量以各自的抉择（+1）定下。从第一人称看，每一个抉择，是自己承担认知的全部不确定，还是把因果推演的控制让给外部的权威，都是自主的动作，责任与因果的权能剥离不出去。
 
-Their boundary lies in where causality comes from. Followed along causality, no macroscopic entity is found that runs by itself apart from individual Minds. Each moment is fixed by many free variables at first-person origins through their respective choices (+1). Seen from the first person, each choice, whether to bear the whole uncertainty of knowing oneself or to hand control of the causal working-out to an outside authority, is an autonomous act, and responsibility and causal capacity cannot be peeled away.
+Their boundary lies in where causality comes from. Followed along causality, no macroscopic entity is found that runs by itself apart from individual Minds. Each moment is fixed by many free variables at first-person origins through their respective choices (+1). Seen from the first person, each choice, whether to bear the whole uncertainty of knowing on one's own or to hand control of the causal working-out to an outside authority, is an autonomous act, and responsibility and causal capacity cannot be peeled away.
 
-跨到第三人称去看由数百万自由变量构成的群体时，个体在微观上的非确定便在统计上聚出宏观的确定，[确定性是微观不确定性的统计签名](../determinism-is-the-statistical-signature-of-micro-indeterminism/)展开过这一点。成本的差异与能量的耗散是这个统计过程在宏观上的伴生症状，不是因果的引擎。权力的集中之所以一再出现，在于面对未知的风险与生存的不确定时，把自主的权能交出去、把归因推给外部的中枢，是自由变量在统计上常见的取向。每一个原点上的个体都保有不让渡的可能，群体在没有干预时的微观选择，仍在大数的汇聚里聚出高度倾斜的分布。
+跨到第三人称去看由数百万自由变量构成的群体时，个体在微观上的非确定便在统计上聚出宏观的确定，[确定性是微观不确定性的统计签名](../determinism-is-the-statistical-signature-of-micro-indeterminism/)展开过这一点。成本的差异与能量的耗散是这个统计过程在宏观上的伴生症状，不是因果的引擎。权力的集中之所以一再出现，在于面对未知的风险与生存的不确定时，把自主的权能交出去、把归因推给外部的中枢，是自由变量在统计上常见的取向。每一个原点上的个体都保有不让渡的可能，众多微观的抉择仍在大数的汇聚里聚出高度倾斜的分布。
 
 ```mermaid
 flowchart TD
@@ -40,7 +40,7 @@ flowchart TD
     style Symptom fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-Crossing to the third person to look at a population made of millions of free variables, the microscopic indeterminacy of individuals aggregates statistically into macroscopic determinacy, as [Determinism is the Statistical Signature of Micro-Indeterminism](../determinism-is-the-statistical-signature-of-micro-indeterminism/) has laid out. Differences of cost and the dissipation of energy are accompanying symptoms of this statistical process at the macroscopic scale, not the engine of causality. Concentration of power recurs because, facing unknown risk and the uncertainty of survival, handing over one's autonomous capacity and pushing attribution onto an outside center is a common statistical orientation of free variables. Each individual at an origin keeps the possibility of not handing over, and the microscopic choices of a population left without intervention still aggregate, in the gathering of large numbers, into a highly skewed distribution.
+Crossing to the third person to look at a population made of millions of free variables, the microscopic indeterminacy of individuals aggregates statistically into macroscopic determinacy, as [Determinism is the Statistical Signature of Micro-Indeterminism](../determinism-is-the-statistical-signature-of-micro-indeterminism/) has laid out. Differences of cost and the dissipation of energy are accompanying symptoms of this statistical process at the macroscopic scale, not the engine of causality. Concentration of power recurs because, facing unknown risk and the uncertainty of survival, handing over one's autonomous capacity and pushing attribution onto an outside center is a common statistical orientation of free variables. Each individual at an origin keeps the possibility of not handing over, and the many microscopic choices still aggregate, in the gathering of large numbers, into a highly skewed distribution.
 
 ```mermaid
 flowchart TD
@@ -128,7 +128,7 @@ In both structures the individual's inner learning is cut off. With the causal l
 
 Moral language is often revered as a transcendent law. In a network of many interacting free variables, moral vocabulary is useful in coordinating actions among individuals. Its boundary lies in moral judgment that circulates across the boundary between Minds: such judgment works as a low-dimensional projection protocol used to rearrange the routes of causal attribution.
 
-一个心智不在自己的原点上承担全部的因果时，无法直接改动别的心智，于是借助一套标准化的低维符号，即道德的语言。“自私”“不义”“亏欠”“罪责”“牺牲”这些标签把高维的复杂状态压成二元的判定，向对方的意识里放进一份外来的因果负荷。它传达的命题是：一个心智的内在状态，由另一个心智的抉择直接决定。经由这套协议，行动的代价被转给付出的一方，统治的危机被归于异见者的品行，集体得以要求个体交出主权。
+一个心智不在自己的原点上承担全部的因果时，无法直接改动别的心智，于是借助一套标准化的低维符号，即道德的语言。“自私”“不义”“亏欠”“罪责”“牺牲”这些标签把高维的复杂状态压成二元的判定，向对方的意识里放进一份外来的因果负荷。它传达的命题是：一个心智的内在状态，由另一个心智的抉择直接决定。经由这套协议，行动的代价被转给付出的一方，统治的危机被归于异见者的品行，以集体之名说话的人得以要求个体交出主权。
 
 ```mermaid
 flowchart TD
@@ -152,7 +152,7 @@ flowchart TD
     style Feed fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-When a Mind does not bear the whole of causality at its own origin, it cannot directly alter another Mind, and so it uses a standardized set of low-dimensional symbols, moral language. Labels such as "selfish," "unjust," "indebted," "guilty" and "sacrifice" press a complex high-dimensional state into a binary verdict and place an outside causal load in the other's awareness. The proposition it carries is that the inner state of one Mind is directly determined by the choice of another. Through this protocol the cost of action is passed to the side that gives, a crisis of rule is assigned to the character of dissenters, and a collective comes to require individuals to hand over sovereignty.
+When a Mind does not bear the whole of causality at its own origin, it cannot directly alter another Mind, and so it uses a standardized set of low-dimensional symbols, moral language. Labels such as "selfish," "unjust," "indebted," "guilty" and "sacrifice" press a complex high-dimensional state into a binary verdict and place an outside causal load in the other's awareness. The proposition it carries is that the inner state of one Mind is directly determined by the choice of another. Through this protocol the cost of action is passed to the side that gives, a crisis of rule is assigned to the character of dissenters, and those who speak in a collective's name come to require individuals to hand over sovereignty.
 
 ```mermaid
 flowchart TD
@@ -176,7 +176,7 @@ flowchart TD
     style Feed fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-跨心智的道德评判由此是一种协调权能的让渡、转移解释成本的压缩工具。行为的校准若靠外部的道德评判而不靠直接的反馈，相容的错配便在大范围里蔓延，为中枢的膨胀不断供给因果。
+跨心智的道德评判由此是一种压缩工具：它协调权能的让渡，转移解释的成本。行为的校准若靠外部的道德评判而不靠直接的反馈，相容的错配便在大范围里蔓延，为中枢的膨胀不断供给因果。
 
 Moral judgment between Minds is thus a tool of compression that coordinates the handing over of capacity and shifts the cost of explanation. Where behavior is calibrated by outside moral judgment and not by direct feedback, compatible misallocation spreads widely and keeps supplying causality to the swelling of a center.
 
@@ -186,7 +186,7 @@ Moral judgment between Minds is thus a tool of compression that coordinates the 
 
 Compatible misallocation does not stop between two individuals, and when it spreads through a network of free variables numbering in the millions, a center of concentrated power appears. Its mechanism is that a central node absorbs the sovereign causality that individuals at the periphery hand over. In a complex network this handing over accords with "preferential attachment": when many individuals facing uncertainty outsource their decisions, they tend to pick the node that has already gathered the most capacity. A center that has absorbed an initial share of sovereignty, be it a church, a party, a bureaucratic state or a technology platform, appears ever more all-knowing and immovable, which in turn leads more Minds to hand sovereignty over.
 
-它在数学上的归宿是幂律分布，P(k) ~ k⁻ᵞ：极少数的中枢节点汇聚了极大的因果裁决权，外围的多数个体成为被动的构件。中心的统治力不出于它自身有什么超越的生命力。数百万自由变量每当把自己对低代价路径的持续选择从账面上略去，把所处的约束连同解除它的排他权能一并记在外部节点名下，便又交出一份因果权能；中心汇聚的正是这些让渡出来的权能的总和。这个膨胀的中枢像一个引力的旋涡，以汇聚的权能扭曲周围的信息流动与价值评估，身处其中更难离开它的轨道。在这个场里的抗争，若仍停在“更换掌控中枢的人”“请中枢施以仁政”上，或是投身密集的人群，借回在个体层面放弃了的效能感，便原封保留了这份让渡，又向中枢注入新的因果，如[能动性、矛盾与权力的移置](../agency-contradiction-and-the-relocation-of-power/)所追溯的。
+它在统计上留下的形状是幂律分布，P(k) ~ k⁻ᵞ：极少数的中枢节点汇聚了极大的因果裁决权，外围的多数个体成为被动的构件。中心的统治力不出于它自身有什么超越的生命力。数百万自由变量每当把自己对低代价路径的持续选择从账面上略去，把所处的约束连同解除它的排他权能一并记在外部节点名下，便又交出一份因果权能；中心汇聚的正是这些让渡出来的权能的总和。这个膨胀的中枢像一个引力的旋涡，以汇聚的权能扭曲周围的信息流动与价值评估，身处其中更难离开它的轨道。在这个场里的抗争，若仍停在“更换掌控中枢的人”“请中枢施以仁政”上，或是投身密集的人群，借回在个体层面放弃了的效能感，便原封保留了这份让渡，又向中枢注入新的因果，如[能动性、矛盾与权力的移置](../agency-contradiction-and-the-relocation-of-power/)所追溯的。
 
 ```mermaid
 flowchart TD
@@ -211,7 +211,7 @@ flowchart TD
     style Petition fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-Its mathematical destination is a power-law distribution, P(k) ~ k⁻ᵞ: a very few central nodes gather a very large power of causal ruling, and most individuals at the periphery become passive components. The center's power to rule comes not from any transcendent vitality of its own but from its gathering the sum of causal capacity that millions of free variables keep handing over whenever they leave their own ongoing choice of the lower-cost path out of the account and credit an outside node with both the constraint they live under and the exclusive capacity to lift it. This swollen center is like a gravitational vortex, distorting the flow of information and the assessment of value around it with the capacity it has gathered, and from inside it is harder to leave its orbit. Resistance within this field, if it still stops at "replacing whoever controls the center," "asking the center to rule kindly," or aligning with a dense crowd to borrow back the sensation of efficacy renounced at the individual level, keeps the handover intact and injects new causality into the center, as [Agency, Contradiction, and the Relocation of Power](../agency-contradiction-and-the-relocation-of-power/) traces.
+The shape it leaves in the statistics is a power-law distribution, P(k) ~ k⁻ᵞ: a very few central nodes gather a very large power of causal ruling, and most individuals at the periphery become passive components. The center's power to rule comes not from any transcendent vitality of its own but from its gathering the sum of causal capacity that millions of free variables keep handing over whenever they leave their own ongoing choice of the lower-cost path out of the account and credit an outside node with both the constraint they live under and the exclusive capacity to lift it. This swollen center is like a gravitational vortex, distorting the flow of information and the assessment of value around it with the capacity it has gathered, and from inside it is harder to leave its orbit. Resistance within this field, if it still stops at "replacing whoever controls the center," "asking the center to rule kindly," or aligning with a dense crowd to borrow back the sensation of efficacy renounced at the individual level, keeps the handover intact and injects new causality into the center, as [Agency, Contradiction, and the Relocation of Power](../agency-contradiction-and-the-relocation-of-power/) traces.
 
 ```mermaid
 flowchart TD
@@ -246,7 +246,7 @@ A center is a node in a network. No position is found there that bears consequen
 
 This asymmetry shows that handing sovereignty over does not buy "safety." With responsibility pushed outside, the recoil of reality is no lighter, the causal chain between input and output is cut instead, and the channel for learning within setbacks closes with it.
 
-切入点在自身的第一人称原点上：对处境承担全部的结构性责任，把落在生命里的一切，包括所受的操纵与欺骗，认作经由自己当初的让渡才得以成立。代价可以极重，这份重量并不因这样的认领而减轻，认领所改变的是回路：归因全部收回的那一刻，代价便不再是“别无他选”的理由，重新成为标在看得见的其他选项上的价格，行动与反馈之间的误差信号重新接通，学习的曲线重新变陡。人口统计只在事后记下这种让渡，行动发生在第一人称的收益差中，[观察的因果僭越与第一人称的收益差](../the-causal-overstep-of-observation-and-the-first-person-surplus/)说明了这一点；与外部中枢一致的群体模式是过往抉择留下的记录，不是剥夺能动性、替人定下下一次决定的力量，这正是[能动性与模式](../agency-and-the-pattern/)所追溯的。
+切入点在自身的第一人称原点上：对处境承担全部的结构性责任，把自己在其中的每一次让渡，包括让所受的操纵与欺骗得以左右自己行动的那几次，都认作自己的抉择。代价可以极重，这份重量并不因这样的认领而减轻，认领所改变的是回路：归因全部收回的那一刻，代价便不再是“别无他选”的理由，重新成为标在看得见的其他选项上的价格，行动与反馈之间的误差信号重新接通，学习的曲线重新变陡。人口统计只在事后记下这种让渡，行动发生在第一人称的收益差中，[观察的因果僭越与第一人称的收益差](../the-causal-overstep-of-observation-and-the-first-person-surplus/)说明了这一点；与外部中枢一致的群体模式是过往抉择留下的记录，不是剥夺能动性、替人定下下一次决定的力量，这正是[能动性与模式](../agency-and-the-pattern/)所追溯的。
 
 ```mermaid
 flowchart TD
@@ -270,14 +270,14 @@ flowchart TD
     style Signal fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The point of entry is at one's own first-person origin: bearing full structural responsibility for the situation, and taking everything that has landed in one's life, the manipulation and deception suffered included, as something that could stand only through one's own earlier handing over. The cost can be extremely heavy, and that weight is not lightened by claiming it this way; what the claiming changes is the loop: at the moment attribution is taken back in full, costs shift from reasons one could not choose otherwise back into prices attached to visible alternatives, the error signal between action and feedback is connected again, and the curve of learning turns steep again. Population statistics record the handing over only after the fact, and action takes place in the first-person surplus, as [The Causal Overstep of Observation and the First-Person Surplus](../the-causal-overstep-of-observation-and-the-first-person-surplus/) shows; an aggregate pattern of alignment with an outside center is the record past choices leave, not a force that removes agency or settles the next decision, as [Agency and the Pattern](../agency-and-the-pattern/) traces.
+The point of entry is at one's own first-person origin: bearing full structural responsibility for the situation, and taking each of one's own handings over within it, including those through which the manipulation and deception suffered came to steer one's acts, as one's own choice. The cost can be extremely heavy, and that weight is not lightened by claiming it this way; what the claiming changes is the loop: at the moment attribution is taken back in full, costs shift from reasons one could not choose otherwise back into prices attached to visible alternatives, the error signal between action and feedback is connected again, and the curve of learning turns steep again. Population statistics record the handing over only after the fact, and action takes place in the first-person surplus, as [The Causal Overstep of Observation and the First-Person Surplus](../the-causal-overstep-of-observation-and-the-first-person-surplus/) shows; an aggregate pattern of alignment with an outside center is the record past choices leave, not a force that removes agency or settles the next decision, as [Agency and the Pattern](../agency-and-the-pattern/) traces.
 
 ```mermaid
 flowchart TD
     subgraph S_Asym["The Asymmetry of Decision and Consequence"]
         direction TB
         Give["An individual at the origin hands the decision to the center"]
-        Node["The center: a node in a network, bearing no consequence for anyone"]
+        Node["The center: a node in a network, bearing no one's consequences in their place"]
         Return["Consequences return to the individual at the origin: hunger, stagnation, decline"]
         Reclaim["Attribution is taken back in full at the origin"]
         Signal["The error signal between action and feedback is connected again"]
@@ -300,7 +300,7 @@ flowchart TD
 
 Before entangled misallocation and a vast field of pull, a sense of powerlessness arises easily, with the thought that changing things depends on a simultaneous shift across society, a political consensus of the group or long symmetric negotiation. There is an asymmetric law here: loosening compatible misallocation and a deadlock of power does not need the two sides to reach agreement, and when one of the free variables decouples unilaterally at its origin, the whole loop no longer holds.
 
-相容的错配得以运转，在于两处的错配严丝合缝地咬合。单方面把自己的反应性耦合系数归零（c = 0），既不向外转出责任，也不认领外来的道德绑定与因果投射，对方再怎样指责、自居受害或举着施救的旗子，只在自己的原点上对自己的每一个动作负全责，榫卯的一端便不在了。投来的因果向量找不到可以附着的受体，维持拖累的回路断开，那个引力场在这个坐标系里不再起作用。
+相容的错配得以运转，在于两处的错配严丝合缝地咬合。单方面把自己的反应性耦合系数归零（c = 0），既不向外转出责任，也不认领外来的道德绑定与因果投射，对方再怎样指责、自居受害或举着施救的旗子，都只在自己的原点上对自己的每一个动作负全责，榫卯的一端便不在了。投来的因果向量找不到可以附着的受体，维持拖累的回路断开，那个引力场在这个坐标系里不再起作用。
 
 ```mermaid
 flowchart TD
