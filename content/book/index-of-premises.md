@@ -2326,9 +2326,9 @@ Shallow assessments judge AI by conversational chat novelty; embedding intellige
 ### 认知支架 / Cognitive Scaffolding
 `技术 / Technological`
 
-支架理论把外部提示与约束当作模型能力的一部分；支架能稳住输出，却无法取代核心认知基座的成型。
+认知支架将外部提示、工具与外围代码视作独立于模型自身能力的临时支撑框架；这一区分在指认特定时间尺度上由哪一层承载特定约束时依然有用，而在外围结构正是构造每次递归调用据以计算的上下文窗口的机制处抵达边界，使得裸模型与迭代智能体之间的分界成为程度上的而非类别上的，因此将能力定位于内禀基座或外层框架皆错失了跨基底分配负荷的心智。
 
-Scaffolding theory treats external prompts and guardrails as part of model competence; supports stabilize performance, but cannot substitute for innate capability consolidation.
+Cognitive scaffolding treats external prompts, tools, and wrapper code as a temporary support frame separate from a model's own competence; the separation stays useful for naming which layer holds a given constraint at a given timescale, and reaches its boundary where the surrounding structure is the mechanism constructing the context window each recursive call computes on, making the line between bare model and iterating agent one of degree rather than kind, so that locating capability in either an intrinsic backbone or an outer harness misses the Mind allocating load across substrates.
 
 → [是脚手架还是特化语境 / Scaffolds or Specialized Contexts](../../posts/scaffolds-or-specialized-contexts/) · [转移原因的比较 / The Comparison That Relocates the Cause](../../posts/the-comparison-that-relocates-the-cause/)
 
@@ -2641,9 +2641,9 @@ Entrusting moral authority assumes external institutions can decide right from w
 ### 认知自反回路 / Epistemic Reflexive Looping
 `哲学 / Philosophical`
 
-静态知识建模将思想视为固定的数据结构；心智是活生生的自反回路，在其外化的图谱间穿梭并不断重构之。
+将回环与图谱视作先后更替的工程方法或静态数据结构的预设，在设计更致密的检查点、可分支控制流与持久状态快照时依然有用；其边界在于，图谱只是心智折回自身活动时留下的可复用快照，无论控制流如何显明化与致密化，发起区分、在中途重入并决定图谱用途的折叠始终留在第一人称心智这一端，从不会在图谱内部生出第二个心智。
 
-Static knowledge modeling treats thoughts as stationary data structures; mind is the living recursive fold that navigates and reshapes its externalized representations.
+Treating loops and graphs as successive engineering methods or stationary data structures stays useful for designing denser checkpoints, branchable control flows, and durable state snapshots; it reaches its boundary where graphs are only the reusable snapshots left as the Mind folds back on its own activity, so that however explicit and densified the control flow becomes, the fold that initiates distinctions, re-enters mid-process, and decides what the graph is for remains with the first-person Mind and never produces a second mind inside the diagram.
 
 → [回环与成图 / Looping and Graphing](../../posts/looping-and-graphing/)
 
@@ -2746,12 +2746,12 @@ Reading failure as a verdict on the self is of use in keeping the weight of an o
 
 → [失败即信息 / Failure as Information](../../posts/failure-as-information/)
 
-### 认知溯源的两种坍塌 / Failures of Epistemic Tracing
+### 认知溯源的两种失效 / Two Failures of Epistemic Tracing
 `哲学 / Philosophical`
 
-结构分析常把生动的判别过程与留下的静态残余混淆；若将活的心智行动固化为死记录，便切断了探寻其生成根由的路径。
+以为更高的智能可以在另一个位点被生产出来，是把活的区分行动冻结在两处登记上：把更密集的器物当成智能本身，把他人借助器物的接续算作器物的智能与建造者的权能；作为登记，器物的致密化确实扩展了可用的带宽，而容量始终是每个位点在自身负荷下的持续活动。
 
-Structural analysis conflates active living discernment with recorded traces; freezing the act into dead sediment obscures the dynamic center that generated it.
+The view that greater intelligence can be produced at another locus freezes the living act of distinguishing onto two registrations, denser artifacts held as intelligence itself and others' continuation through them credited to the artifact and its builder; as registration, artifact densification does expand available bandwidth, while capacity remains each locus's sustained activity under its own load.
 
 → [器物是智能的表达，而非智能本身 / Artifacts Are Expressions of Intelligence, Not Intelligence Itself](../../posts/two-failures-of-trace/)
 
@@ -3784,9 +3784,9 @@ The P versus NP problem asks whether every language accepted by a nondeterminist
 ### 范式转移与局部延伸 / Paradigm Shift vs Extension
 `哲学 / Philosophical`
 
-认识论常常混淆既有维度的细化与范式发现；在偏斜轴线上做更精细的推演只会累积张力，直到横向切断。
+将框内延伸与范式转移视作同一条精度连续谱的预设，在沿着既有坐标轴叠加分辨率、细化细节与推进迭代时有用；它在此到了边界：当框架撞上无法用自身语汇化解的异例时，旨在维持熟悉自我形象的过早微调会耗散由此积聚的张力，而持续抱持该张力则会将旧框架作为原材料消融吸收并重构为新维度，使此前在旧轴线上不可见的清晰性得以在新维度上显现。
 
-Epistemologies conflate refining existing premises with genuine discovery; increasing precision on a flawed axis compounds error until an orthogonal frame shift occurs.
+Treating intra-frame extension and paradigm shift as a single continuum of increasing precision is of use when stacking resolution, finer detail, and further iteration along an existing coordinate axis; it reaches its boundary when the frame encounters anomalies it cannot resolve on its own terms, where premature micro-shifts that preserve a familiar self-image dissipate the tension, whereas holding that tension consumes the prior frame as raw material and reconstitutes it into a new dimension on which previously invisible clarity registers.
 
 → [框内延伸与维度跃迁 / Extension and Shift](../../posts/extension-and-shift/)
 
@@ -4288,9 +4288,9 @@ Cognition treats habituated mental models as direct objective reality; provision
 ### 支架隐退机制 / Scaffolding Drop-out
 `哲学 / Philosophical`
 
-工具模型必须退居幕后方能承载更高阶行动；但若隐退固化，心智便会遗忘支架原本只是人为搭建的构件。
+器具模型必须在其被使用的那一步退出焦点，好让后续行动得以落地；一旦越过那一步被保存下来并豁免于重新追溯，所搭建的脚手架便被当作现实的固定结构。
 
-Instrumental models must drop out of active focus to enable higher-order action; when this drop-out solidifies, minds forget the scaffolding is an authored artifact.
+Instrumental models must drop out of focus for the step in which they are used so further action can land; preserved past that step and exempted from re-tracing, the built scaffolding is taken for the fixed structure of reality.
 
 → [遗忘的脚手架 / The Scaffolding We Forget](../../posts/the-scaffolding-we-forget/)
 
@@ -4486,9 +4486,9 @@ Delegation models assume fixed task boundaries between humans and machines; depl
 ### 静态认知明晰 / Static Epistemic Clarity
 `哲学 / Philosophical`
 
-寻求静态明晰预设真理是一座固定纪念碑；看见本身只是与现实持续摩擦的动态过程。
+静态认知明晰预设看清事物是剥离扭曲、回归无透镜基准线后所抵达的状态，这在标示某个框架对当前这一步依然适用时有其用处；其边界在于，感知本身已在透过当前起作用的透镜发生，因此在内部无法将感受到的确信与如实看见事物区分开来，清晰正是表达把边缘化为痕迹时从每一个框架中一次次的迈出，而任何越过自身步幅被当作已抵达的框架都会让其过滤隐而不见。
 
-Seeking static clarity presumes truth is a stable monument reached by peeling away distortions; seeing remains the movement of continual friction with reality.
+Static epistemic clarity presumes that seeing clearly is a state reached by peeling distortion away from a lens-free baseline, which is of use in marking when a frame holds for the step at hand; it reaches its boundary in that perceiving is already through the active lens, so felt certainty and seeing things as they are cannot be told apart from within, and clarity is the repeated stepping-out from each frame as expression turns the edge into trace, while any frame held past its step as arrived leaves its filtering unseen.
 
 → [清晰不是抵达的终点，而是运动本身 / Clarity Isn't a State You Arrive At. It's the Movement Itself.](../../posts/clarity-isnt-a-state-you-arrive-at/)
 

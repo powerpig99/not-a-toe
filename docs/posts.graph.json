@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-03T14:25:27.975Z",
+    "generated_at": "2026-11-03T16:38:29.699Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -40,7 +40,7 @@
       "content/posts/cheng-gong-xue.md": "ac78a83205fd",
       "content/posts/choice-itself-has-no-inherent-weight.md": "61c4cff8bfbf",
       "content/posts/chollet-intelligence-explosion-analysis.md": "c8c3e191336b",
-      "content/posts/clarity-isnt-a-state-you-arrive-at.md": "fb97717b90f9",
+      "content/posts/clarity-isnt-a-state-you-arrive-at.md": "b2def21d59e6",
       "content/posts/claudes-constitution-analysis.md": "58bd3d6c3edb",
       "content/posts/cli-interface-stack.md": "8ce49c41c258",
       "content/posts/climbing-does-not-leave-the-ground.md": "a0be7e00b7db",
@@ -83,7 +83,7 @@
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "cb3ba6791a63",
       "content/posts/expertise-as-reference-not-replacement.md": "bc7d7364b559",
       "content/posts/extended-cognition-refined.md": "f8c078179a21",
-      "content/posts/extension-and-shift.md": "5ab404bbbd72",
+      "content/posts/extension-and-shift.md": "bb2e831f3d62",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "a0c1f4787547",
       "content/posts/failure-as-information.md": "11a236cd7faa",
       "content/posts/fate-loves-irony-refined.md": "4173eb2feff2",
@@ -97,7 +97,7 @@
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "ba0a285ae5ef",
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "b3f92aa94886",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "e21403fb50ae",
-      "content/posts/grok-420-framework-drift.md": "0d7bd6b1fcfd",
+      "content/posts/grok-420-framework-drift.md": "d52eb56b8746",
       "content/posts/guan-yu-gui-yin.md": "1a6ebddd8eab",
       "content/posts/guidance-is-not-ownership.md": "508e8c60e3d5",
       "content/posts/handing-off-residue.md": "54641f5f6655",
@@ -122,7 +122,7 @@
       "content/posts/judgment-is-not-a-stock.md": "9526af861c78",
       "content/posts/learned-boundaries-and-the-given-rate.md": "f556b3f1d50b",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "b5bfd1bca0dc",
-      "content/posts/looping-and-graphing.md": "0eb59f1b7f4a",
+      "content/posts/looping-and-graphing.md": "84a49b152718",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "9523f080d940",
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "ed8ae49b479f",
       "content/posts/machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence.md": "9eeba4ce94c6",
@@ -145,8 +145,8 @@
       "content/posts/no-system-can-be-kept-closed.md": "3af239cb12ec",
       "content/posts/nobody-has-seen-anything-yet.md": "2b871aa62082",
       "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md": "9a865742b9bb",
-      "content/posts/not-a-theory-of-everything.md": "41f95512b70e",
-      "content/posts/not-a-toe-rewrite.md": "99150d84dc27",
+      "content/posts/not-a-theory-of-everything.md": "2ae47c5075f5",
+      "content/posts/not-a-toe-rewrite.md": "a978a89b0e2e",
       "content/posts/not-predicting-is-predicting-without-awareness.md": "750dd47f6c5b",
       "content/posts/objects-are-stabilized-relationships.md": "74accfac1364",
       "content/posts/observation-distinguishing-activity-and-the-open-ground-of-mind.md": "a110c8372700",
@@ -157,9 +157,9 @@
       "content/posts/one-cannot-escape-ones-own-mind.md": "474dad0e12f2",
       "content/posts/ones-potential-as-threat-or-inspiration.md": "b68e2cc6fd51",
       "content/posts/only-if-it-is-not-kept-empty.md": "61d9b751aefb",
-      "content/posts/ontos-is-a-method-agent.md": "fac9577215c2",
+      "content/posts/ontos-is-a-method-agent.md": "4224657b580a",
       "content/posts/open-vision-in-a-closed-arena.md": "4265f8778584",
-      "content/posts/openness-is-consistency.md": "ad89376cac08",
+      "content/posts/openness-is-consistency.md": "0b42573747af",
       "content/posts/order-surplus-and-the-moral-intercept.md": "2c05f2c13447",
       "content/posts/overfitting-as-the-follower-mode.md": "b4b1dd0ba436",
       "content/posts/ownership-and-self-worthiness.md": "00d4677b2544",
@@ -187,7 +187,7 @@
       "content/posts/residual-control-recedes-to-the-edge.md": "3de7bf12eb33",
       "content/posts/residual-individualism.md": "ce5cf1738f1e",
       "content/posts/restriction-is-a-selective-tax.md": "fc908414eed9",
-      "content/posts/scaffolds-or-specialized-contexts.md": "0bc0972f04ad",
+      "content/posts/scaffolds-or-specialized-contexts.md": "594b21b4d06e",
       "content/posts/school_essay_final.md": "f18cabb10f9c",
       "content/posts/selection-contradiction-and-open-reality.md": "215cb759f7ef",
       "content/posts/self-image-speaks-as-if-from-nowhere.md": "823bf243373a",
@@ -362,8 +362,8 @@
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "7a1980b70a67",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "445e4d098b1b",
       "content/posts/the-scaffolding-that-keeps-growing.md": "5aa327e7a053",
-      "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "47d7f8bbb45c",
-      "content/posts/the-scaffolding-we-forget.md": "13fd3782c5c9",
+      "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "91a452732b88",
+      "content/posts/the-scaffolding-we-forget.md": "c1d67b1d0da2",
       "content/posts/the-scaling-loop.md": "59f678c43d21",
       "content/posts/the-self-portrait-in-the-projection.md": "2b51ab9fe625",
       "content/posts/the-shadow-and-the-infinite.md": "ff9474bbdd81",
@@ -402,7 +402,7 @@
       "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "9d994611d450",
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "91487ce48c58",
       "content/posts/trusting-the-reader-is-the-last-overstep.md": "4fa6d46f4306",
-      "content/posts/two-failures-of-trace.md": "dc28155c0bc2",
+      "content/posts/two-failures-of-trace.md": "3ac21a2fda4a",
       "content/posts/two-phase-sleep-and-deep-sleep-continual-learning.md": "6ce604fb8a71",
       "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "1a6b64a4d111",
       "content/posts/war-revolution-and-the-fall-of-empires.md": "60c4a819c95d",
@@ -437,7 +437,7 @@
       "content/book/causality.md": "863b25c6333a",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "1d9c1ec7f028",
+      "content/book/index-of-premises.md": "3e003b200a35",
       "content/book/intelligence.md": "6234ae4579e1",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -453,10 +453,10 @@
     },
     "stats": {
       "posts": 426,
-      "edges": 13036,
-      "unique_directed": 6412,
+      "edges": 13048,
+      "unique_directed": 6418,
       "missing_targets": 0,
-      "one_way": 1206,
+      "one_way": 1200,
       "isolated": 0,
       "posts_with_outbound": 426,
       "book_pages": 16,
@@ -534,11 +534,11 @@
       "in_degree": 37
     },
     {
-      "slug": "closed-reality-in-benchmark-maxing",
-      "in_degree": 36
+      "slug": "the-reversal-of-verification",
+      "in_degree": 37
     },
     {
-      "slug": "the-reversal-of-verification",
+      "slug": "closed-reality-in-benchmark-maxing",
       "in_degree": 36
     },
     {
@@ -553,7 +553,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "out_degree": 84
+      "out_degree": 90
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -1558,7 +1558,7 @@
       "slug": "clarity-isnt-a-state-you-arrive-at",
       "path": "content/posts/clarity-isnt-a-state-you-arrive-at.md",
       "title": "清晰不是抵达的终点，而是运动本身 / Clarity Isn't a State You Arrive At. It's the Movement Itself.",
-      "hash": "fb97717b90f9",
+      "hash": "b2def21d59e6",
       "in_degree": 40,
       "out_degree": 34,
       "links_out": [
@@ -2733,7 +2733,7 @@
       "slug": "extension-and-shift",
       "path": "content/posts/extension-and-shift.md",
       "title": "框内延伸与维度跃迁 / Extension and Shift",
-      "hash": "5ab404bbbd72",
+      "hash": "bb2e831f3d62",
       "in_degree": 5,
       "out_degree": 9,
       "links_out": [
@@ -3075,7 +3075,7 @@
       "slug": "grok-420-framework-drift",
       "path": "content/posts/grok-420-framework-drift.md",
       "title": "当模型在表演一套框架而非从基底推演 / When an AI Performs a Framework Instead of Operating From It",
-      "hash": "0d7bd6b1fcfd",
+      "hash": "d52eb56b8746",
       "in_degree": 3,
       "out_degree": 13,
       "links_out": [
@@ -3457,7 +3457,7 @@
       "path": "content/posts/incompleteness-exhibited-twice.md",
       "title": "两度显现的不完备性 / Incompleteness Exhibited Twice",
       "hash": "3d9138bc24b4",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 7,
       "links_out": [
         "no-system-can-be-kept-closed",
@@ -3821,7 +3821,7 @@
       "slug": "looping-and-graphing",
       "path": "content/posts/looping-and-graphing.md",
       "title": "回环与成图 / Looping and Graphing",
-      "hash": "0eb59f1b7f4a",
+      "hash": "84a49b152718",
       "in_degree": 18,
       "out_degree": 19,
       "links_out": [
@@ -4469,7 +4469,7 @@
       "slug": "not-a-theory-of-everything",
       "path": "content/posts/not-a-theory-of-everything.md",
       "title": "非万物之理 / Not a Theory of Everything",
-      "hash": "41f95512b70e",
+      "hash": "2ae47c5075f5",
       "in_degree": 34,
       "out_degree": 35,
       "links_out": [
@@ -4516,7 +4516,7 @@
       "slug": "not-a-toe-rewrite",
       "path": "content/posts/not-a-toe-rewrite.md",
       "title": "非万物之理·重溯 / Not a ToE Retraced",
-      "hash": "99150d84dc27",
+      "hash": "a978a89b0e2e",
       "in_degree": 2,
       "out_degree": 4,
       "links_out": [
@@ -4674,7 +4674,7 @@
       "path": "content/posts/on-the-boundaries-of-what-can-be-said-about-p-and-np.md",
       "title": "论关于 P 与 NP 所能言说的边界 / On the Boundaries of What Can Be Said about P and NP",
       "hash": "20b6babdc81e",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 10,
       "links_out": [
         "the-illusion-of-the-tool-and-the-inversion-of-time",
@@ -4769,7 +4769,7 @@
       "slug": "ontos-is-a-method-agent",
       "path": "content/posts/ontos-is-a-method-agent.md",
       "title": "呈现Ontos，一个方法智能体 / Presenting Ontos, a Method Agent",
-      "hash": "fac9577215c2",
+      "hash": "4224657b580a",
       "in_degree": 11,
       "out_degree": 12,
       "links_out": [
@@ -4819,9 +4819,9 @@
       "slug": "openness-is-consistency",
       "path": "content/posts/openness-is-consistency.md",
       "title": "开放即一致 / Openness Is Consistency",
-      "hash": "ad89376cac08",
+      "hash": "0b42573747af",
       "in_degree": 89,
-      "out_degree": 84,
+      "out_degree": 90,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
         "intelligence-belongs-only-to-the-mind",
@@ -4837,7 +4837,10 @@
         "the-risk-is-the-belief-in-oversight-itself",
         "no-system-can-be-kept-closed",
         "not-a-theory-of-everything",
+        "incompleteness-exhibited-twice",
+        "on-the-boundaries-of-what-can-be-said-about-p-and-np",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+        "the-reversal-of-verification",
         "a-new-deeper-look-at-antifragility",
         "production-consumption-and-the-minds-distinction",
         "reality-is-the-minds-ongoing-realization",
@@ -4854,6 +4857,8 @@
         "whatever-is-one-prompt-away",
         "self-rl-for-humans",
         "continuous-learning-as-expression-and-simulation",
+        "two-phase-sleep-and-deep-sleep-continual-learning",
+        "the-frozen-cut-and-the-margin-of-the-loop",
         "failure-as-information",
         "beyond-the-projection",
         "your-codebase-is-memory",
@@ -4901,6 +4906,7 @@
         "the-initial-distinction",
         "guan-yu-gui-yin",
         "on-closed-systems-open-minds-and-the-limits-of-proof",
+        "the-blind-cut-and-the-naming-mind",
         "complexity-obscures-emergence-as-the-act-of-mind",
         "looping-and-graphing",
         "the-scaffolding-we-forget",
@@ -5720,7 +5726,7 @@
       "slug": "scaffolds-or-specialized-contexts",
       "path": "content/posts/scaffolds-or-specialized-contexts.md",
       "title": "是脚手架还是特化语境 / Scaffolds or Specialized Contexts",
-      "hash": "0bc0972f04ad",
+      "hash": "594b21b4d06e",
       "in_degree": 2,
       "out_degree": 9,
       "links_out": [
@@ -6634,7 +6640,7 @@
       "path": "content/posts/the-blind-cut-and-the-naming-mind.md",
       "title": "盲目的切分与命名的心智 / The Blind Cut and the Naming Mind",
       "hash": "5d1da39f48d6",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 14,
       "links_out": [
         "tokens-and-the-observational-boundary",
@@ -7921,7 +7927,7 @@
       "path": "content/posts/the-frozen-cut-and-the-margin-of-the-loop.md",
       "title": "冻结的切口与回环的余量 / The Frozen Cut and the Margin of the Loop",
       "hash": "ec04dfa42dd6",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 10,
       "links_out": [
         "tokens-and-the-observational-boundary",
@@ -10161,7 +10167,7 @@
       "path": "content/posts/the-reversal-of-verification.md",
       "title": "验证的倒置 / The Reversal of Verification",
       "hash": "d8eedc3f8076",
-      "in_degree": 36,
+      "in_degree": 37,
       "out_degree": 9,
       "links_out": [
         "openness-is-consistency",
@@ -10279,7 +10285,7 @@
       "slug": "the-scaffolding-we-forget",
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "遗忘的脚手架 / The Scaffolding We Forget",
-      "hash": "13fd3782c5c9",
+      "hash": "c1d67b1d0da2",
       "in_degree": 74,
       "out_degree": 71,
       "links_out": [
@@ -10362,7 +10368,7 @@
       "slug": "the-scaffolding-we-forget-local-models-as-default",
       "path": "content/posts/the-scaffolding-we-forget-local-models-as-default.md",
       "title": "以本地模型为默认是被遗忘的脚手架 / Local Models as Default Is Forgotten Scaffolding",
-      "hash": "47d7f8bbb45c",
+      "hash": "91a452732b88",
       "in_degree": 4,
       "out_degree": 6,
       "links_out": [
@@ -11278,7 +11284,7 @@
       "slug": "two-failures-of-trace",
       "path": "content/posts/two-failures-of-trace.md",
       "title": "器物是智能的表达，而非智能本身 / Artifacts Are Expressions of Intelligence, Not Intelligence Itself",
-      "hash": "dc28155c0bc2",
+      "hash": "3ac21a2fda4a",
       "in_degree": 33,
       "out_degree": 34,
       "links_out": [
@@ -11325,7 +11331,7 @@
       "path": "content/posts/two-phase-sleep-and-deep-sleep-continual-learning.md",
       "title": "睡眠与深度睡眠的双阶段持续学习 / Two-Phase Sleep and Deep Sleep Continual Learning",
       "hash": "6ce604fb8a71",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 18,
       "links_out": [
         "learned-boundaries-and-the-given-rate",
@@ -41127,9 +41133,27 @@
     },
     {
       "from": "openness-is-consistency",
+      "to": "incompleteness-exhibited-twice",
+      "rel": "points_to",
+      "label": "两度显现的不完备性"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "rel": "points_to",
+      "label": "论关于 P 与 NP 所能言说的边界"
+    },
+    {
+      "from": "openness-is-consistency",
       "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "rel": "points_to",
       "label": "“物理学才是定律”的障眼法"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
     },
     {
       "from": "openness-is-consistency",
@@ -41145,9 +41169,27 @@
     },
     {
       "from": "openness-is-consistency",
+      "to": "incompleteness-exhibited-twice",
+      "rel": "points_to",
+      "label": "Incompleteness Exhibited Twice"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "rel": "points_to",
+      "label": "On the Boundaries of What Can Be Said about P and NP"
+    },
+    {
+      "from": "openness-is-consistency",
       "to": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "rel": "points_to",
       "label": "The Sleight of Hand in \"Physics Is the Law\""
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
     },
     {
       "from": "openness-is-consistency",
@@ -41331,6 +41373,18 @@
     },
     {
       "from": "openness-is-consistency",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "睡眠与深度睡眠的双阶段持续学习"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-frozen-cut-and-the-margin-of-the-loop",
+      "rel": "points_to",
+      "label": "冻结的切口与回环的余量"
+    },
+    {
+      "from": "openness-is-consistency",
       "to": "failure-as-information",
       "rel": "points_to",
       "label": "失败即信息"
@@ -41376,6 +41430,18 @@
       "to": "continuous-learning-as-expression-and-simulation",
       "rel": "points_to",
       "label": "Continuous Learning as Expression and Simulation"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "two-phase-sleep-and-deep-sleep-continual-learning",
+      "rel": "points_to",
+      "label": "Two-Phase Sleep and Deep Sleep Continual Learning"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-frozen-cut-and-the-margin-of-the-loop",
+      "rel": "points_to",
+      "label": "The Frozen Cut and the Margin of the Loop"
     },
     {
       "from": "openness-is-consistency",
@@ -41793,6 +41859,12 @@
     },
     {
       "from": "openness-is-consistency",
+      "to": "the-blind-cut-and-the-naming-mind",
+      "rel": "points_to",
+      "label": "盲目的切分与命名的心智"
+    },
+    {
+      "from": "openness-is-consistency",
       "to": "complexity-obscures-emergence-as-the-act-of-mind",
       "rel": "points_to",
       "label": "复杂性遮蔽了涌现之为心智的行动"
@@ -41940,6 +42012,12 @@
       "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "rel": "points_to",
       "label": "On Closed Systems, Open Minds, and the Limits of Proof"
+    },
+    {
+      "from": "openness-is-consistency",
+      "to": "the-blind-cut-and-the-naming-mind",
+      "rel": "points_to",
+      "label": "The Blind Cut and the Naming Mind"
     },
     {
       "from": "openness-is-consistency",
@@ -90409,7 +90487,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "1d9c1ec7f028",
+        "hash": "3e003b200a35",
         "out_degree": 426
       },
       {

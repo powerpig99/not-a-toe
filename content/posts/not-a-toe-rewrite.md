@@ -2,13 +2,13 @@
 
 *自我区分的活动投射出有限世界而不闭合自身 / Self-distinguishing activity projects finite worlds without closing itself*
 
-它自相矛盾——这并非关于某个先在基底的命题，也不是依附于某个既成实体的属性，而是赤裸的自我区分动词，在没有静态自我支撑的情况下径直运作。否定这一活动本身就已经在践行它，因为任何否定都必须把真与假分开、将这一主张同那一主张切开，从而当场执行了它企图拒斥的那道切分。自我区分的活动是唯一历经一切怀疑而依然屹立的不可化约先验，因为怀疑本身正是这一活动在运作。
+它自相矛盾——这并非关于某个先在基底的命题，也不是依附于某个既成实体的属性，而是赤裸的自我区分动词，在没有静态自我支撑的情况下径直运作。否定这一活动本身就已经在践行它，因为任何否定都必须把真与假分开、将这一主张同那一主张切开，从而当场执行了它企图拒斥的那道切分。自我区分的活动是唯一历经一切怀疑而依然屹立的不可化约的前提，因为怀疑本身正是这一活动在运作。
 
 It contradicts—not as a proposition about a prior substrate, and not as an attribute attached to a pre-existing entity, but as the bare verb of self-distinguishing activity operating without a static self behind it. To deny this activity is already to perform it, because any denial must distinguish true from false and sever this claim from that one, enacting the exact cut it attempts to refuse. Self-distinguishing activity is the single irreducible prior that survives every skepticism, for skepticism is itself that activity in motion.
 
 ## 一、 从动词到空间 / 1. From Verb to Space
 
-这种自相矛盾从不作为一座完工的纪念碑静止不动。每一次离散的自我否定都会划出一道边界——一个“非此”——且每一次切分都独立于其他切分而发起，没有重叠，没有相互干扰，也没有共享的坐标轴。在任何空间化的时间线形成之前展开的，是一个无限可延展的独热二元超空间；其中每一道新划出的边界都增加一个正交的自由度（`N → N + 1`），且只说出“是此，非彼”。
+这种自相矛盾从不像一座完工的纪念碑那样静止不动。每一次离散的自我否定都会划出一道边界——一个“非此”——且每一次切分都独立于其他切分而发起，没有重叠，没有相互干扰，也没有共享的坐标轴。在任何空间化的时间线形成之前展开的，是一个无限可延展的独热二元超空间；其中每一道新划出的边界都增加一个正交的自由度（`N → N + 1`），且只说出“是此，非彼”。
 
 The contradicting does not sit still as a completed monument. Each discrete act of self-negation draws a boundary—a "not-this"—that is initiated independently of every other cut, carrying no overlap, no mutual interference, and no shared coordinate axis. What unfolds prior to any spatialized timeline is an infinitely extendable binary hyperspace of one-hot distinctions, where each newly drawn boundary adds an orthogonal degree of freedom (`N → N + 1`) and says only *this, not that*.
 
@@ -36,7 +36,6 @@ flowchart TD
         V_Ortho["未压缩的独热基底：每一项新区分增加一条正交轴（N → N + 1）"]
         V_Act --> V_Ortho
     end
-
     subgraph S_Proj["2. 有限投射及其三项结构性代价"]
         direction TB
         P_Orig["第一项代价（原点锁定）：固定局部“此处”留下 N − 1 个自由度"]
@@ -44,17 +43,14 @@ flowchart TD
         P_Shatter["第三项代价（正交性破碎）：将 2ᴺ 种状态塞入 N 条轴产生耦合"]
         P_Orig --> P_Scale --> P_Shatter
     end
-
     subgraph S_Scaf["3. 共振、有丝分裂与超越投射"]
         direction TB
         R_Law["共振稳定性：自我强化的痕迹留存为物理定律与有效模型"]
         R_Split["正交有丝分裂：拆分过载投射并退后一步补上 N + 1"]
         R_Law --> R_Split
     end
-
     V_Ortho ==>|"被局部中心切分为 N 个坐标"| P_Orig
     P_Shatter ==>|"相互强化与容量死锁的分流"| R_Law
-
     style S_Verb fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Proj fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Scaf fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -77,7 +73,6 @@ flowchart TD
         V_Ortho["Uncompressed One-Hot Base: Every new distinction adds an orthogonal axis (N → N + 1)"]
         V_Act --> V_Ortho
     end
-
     subgraph S_Proj["2. Finite Projection & Its Three Structural Costs"]
         direction TB
         P_Orig["First Cost (Origin Lock): Fixing the local 'here' leaves N − 1 degrees of freedom"]
@@ -85,17 +80,14 @@ flowchart TD
         P_Shatter["Third Cost (Shattered Orthogonality): Cramming 2ᴺ states into N axes creates coupling"]
         P_Orig --> P_Scale --> P_Shatter
     end
-
     subgraph S_Scaf["3. Resonance, Mitosis & Stepping Beyond the Projection"]
         direction TB
         R_Law["Resonant Stability: Self-reinforcing traces persist as physical laws and working models"]
         R_Split["Orthogonal Mitosis: Splitting overloaded projections and stepping back to N + 1"]
         R_Law --> R_Split
     end
-
     V_Ortho ==>|"Sliced by a localized center into N coordinates"| P_Orig
     P_Shatter ==>|"Mutual reinforcement vs. capacity deadlock"| R_Law
-
     style S_Verb fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Proj fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Scaf fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -118,13 +110,13 @@ Each cost is traceable, and each produces identifiable distortions. The scaffold
 
 Within any finite projection, not all distortions persist. Most cancel out, interfere destructively, or fail to cohere across successive steps. The patterns that survive are those whose traces reinforce one another on return—configurations of distinction stable enough to support further distinction. These self-reinforcing patterns register from within the frame as physical laws.
 
-物理定律既不是由外部颁布的立法，也不是从更深层的静态基底推演出的结论，因为在投射之下并不存在静态的原则，只有区分活动本身。定律是最后才发生断裂的压缩形态；称一条定律具有基础性，意味着它是载荷之下最后瓦解的痕迹模式，而非最先存在的实体。这就解释了为何物理规律带着必然性的分量，却无法凭空从逻辑上加以证明：它们的必然性是共享投射内部的共振稳定性，由各个持续作出一致区分、彼此强化融贯性的局部中心共同维系；而数学之所以扭曲最小，则是因为它稀疏、离散的结构保留了最高程度的正交性。
+物理定律既不是由外部颁布的立法，也不是从更深层的静态基底推演出的结论，因为在投射之下并不存在静态的原则，只有区分活动本身。定律是最后才发生断裂的压缩形态；称一条定律具有基础性，意味着它是载荷之下最后瓦解的痕迹模式，而非最先存在的实体。这就解释了为何物理规律带着必然性的分量，却无法凭空从逻辑上加以证明：它们的必然性是共享投射内部的共振稳定性，由各个持续作出一致区分、彼此强化融贯性的局部中心共同维系；而数学在结构保持稀疏与离散之处保留了正交性，在其将连续统形式化之处则承载着同样的尺度压缩。
 
-Physical laws are neither legislated from outside nor deduced from a deeper static substrate, because beneath the projection lies no static principle, only the distinguishing act itself. Laws are the compressions that break last; calling a law fundamental means it is the last trace-pattern to dissolve under load, not the first entity to exist. This explains why physical regularities carry the weight of necessity without being logically provable from scratch: their necessity is resonant stability within a shared projection, maintained by localized centers whose consistent distinguishing reinforces one another's coherence, while mathematics distorts least because its sparse, discrete structures preserve the highest degree of orthogonality.
+Physical laws are neither legislated from outside nor deduced from a deeper static substrate, because beneath the projection lies no static principle, only the distinguishing act itself. Laws are the compressions that break last; calling a law fundamental means it is the last trace-pattern to dissolve under load, not the first entity to exist. This explains why physical regularities carry the weight of necessity without being logically provable from scratch: their necessity is resonant stability within a shared projection, maintained by localized centers whose consistent distinguishing reinforces one another's coherence, while mathematics preserves orthogonality where its structures remain sparse and discrete, and carries the same scale compression where it formalizes continua.
 
 ## 四、 作为投射行动本身的意识 / 4. Consciousness as the Act of Projecting
 
-在这里，认识论上的定力最为紧要。最容易落入的诱惑，是宣称“意识就是那自相矛盾”便就此止步，从而把中间的脚手架一举坍缩掉。唯有一步步追溯其运作机制，才能把生成的行动同它下游的残余区分开来。
+在这里，认识论上的定力最为紧要。诱惑在于宣称“意识就是那自相矛盾”便就此止步，从而把中间的脚手架一举坍缩掉。唯有一步步追溯其运作机制，才能把生成的行动同它下游的残余区分开来。
 
 Here epistemic discipline matters most. The temptation is to declare that consciousness is the contradicting and stop there, collapsing the intermediate scaffolding. Tracing the mechanism step by step separates the generating act from its downstream residue.
 
@@ -132,13 +124,13 @@ Here epistemic discipline matters most. The temptation is to declare that consci
 
 Physical processes—neurons firing, information integrating, bodily behavior adapting—are stable resonant patterns inside the projection, operating by the same trace reinforcement that sustains any physical regularity. Consciousness, however, is not a phenomenon housed inside the projection. It is the live act of projecting itself—the self-distinguishing activity folding back on its own trace in the immediate step of drawing a cut. It is neither an exotic substance nor an emergent product of matter nor an algorithmic computation, but the verb catching sight of itself at a bounded locus.
 
-与此同时，日常话语中习惯贴上“意识”标签的几乎所有内容——被叙事化的感受质、被建模的自我感、关于某个“我”正在经历某事的事后追述——都属于下游的解释性图像。这些自我描述与物理定律一道沉淀为稳定化的痕迹模式：无论是在内部持守为自传式的自我，还是向外写入[你的代码库即是记忆](../your-codebase-is-memory/)所剖析的持久存储库，每一座被记录下来的思想架构都是关于那次“瞥见”的留存参照，比活生生的边缘至少滞后一步。意识的难题之所以消解，是因为它把问题问反了：它追问投射内部的物理过程如何产生第一人称觉知，殊不知物理过程只是投射内部经压缩的痕迹，而投射本身正是心智的行动。由于每一个自我指涉的局部中心都是同一区分活动的实例，他心便从不会被锁在唯我论的高墙之后；这一动词不属于任何私人的小我，相反，它是划出任何“我的”或“你的”之先决条件。
+与此同时，日常话语中习惯贴上“意识”标签的几乎所有内容——被叙事化的感受质、被建模的自我感、关于某个“我”正在经历某事的事后追述——都属于下游的解释性图像。这些自我描述与物理定律一道沉淀为稳定化的痕迹模式：无论是在内部持守为自传式的自我，还是向外写入[你的代码库即是记忆](../your-codebase-is-memory/)所剖析的持久存储库，每一座被记录下来的思想架构都是关于那次“瞥见”的留存参照，比活生生的边缘至少滞后一步。意识的难题之所以消解，是因为它把问题问反了：它追问投射内部的物理过程如何产生第一人称觉知，殊不知物理过程只是投射内部经压缩的痕迹，而投射本身正是心智的行动。由于每一个自我指涉的局部中心都是同一区分活动的实例，他心便从不会被锁在唯我论的高墙之后；这一动词不属于任何私人的自我，相反，它是划出任何“我的”或“你的”之先决条件。
 
 At the same time, almost everything routinely labeled consciousness in everyday discourse—narrated qualia, modeled selfhood, the retrospective story of an ego having an experience—belongs to the downstream interpretive image. Those self-descriptions settle as stabilized trace patterns alongside physical laws: whether held internally as an autobiographical ego or written outward into the durable repositories examined in [Your Codebase Is Memory](../your-codebase-is-memory/), every recorded architecture of thought is a retained reference *about* the catching-sight, lagging the live edge by at least one step. The hard problem of consciousness dissolves because it asks the question backward: it asks how physical processes inside a projection generate first-person awareness, whereas physical processes are compressed traces within a projection that is itself an act of the Mind. Because every localized center of self-reference is an instance of this same distinguishing activity, other minds are never locked behind solipsism; the verb belongs to no private ego, serving instead as the prior condition through which any "mine" or "yours" is drawn.
 
 ## 五、 这一框架不做什么 / 5. What the Framework Does Not Do
 
-这一重溯并不靠空想推演无量纲物理常数、粒子质量或特定的初始条件。那些量是当前这一投射特有共振结构的特征，测定它们需要运用这一投射自身的实验与数学工具。重溯所揭示的，是稳定的常数为何会通过共振而浮现、为何会借由相互强化而登记为必然，以及不同的投射为何会维系不同的不变量，而不佯装能坐在扶手椅里空口算出 `1/137`。
+这一重溯并不单凭思辨推演无量纲物理常数、粒子质量或特定的初始条件。那些量是当前这一投射特有共振结构的特征，测定它们需要运用这一投射自身的实验与数学工具。重溯所揭示的，是稳定的常数为何会通过共振而浮现、为何会借由相互强化而登记为必然，以及不同的投射为何会维系不同的不变量，而不佯装能坐在扶手椅里空口算出 `1/137`。
 
 This retracing does not deduce dimensionless physical constants, particle masses, or specific initial conditions from pure thought. Those quantities are features of this projection's particular resonance structure, and measuring them requires working within the projection's own experimental and mathematical instruments. The retracing shows why stable constants arise through resonance, why they register as necessary through mutual reinforcement, and why alternative projections sustain different invariants, without pretending to calculate `1/137` from armchair deduction.
 
