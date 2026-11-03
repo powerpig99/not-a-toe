@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-02T21:10:38.648Z",
+    "generated_at": "2026-11-03T04:52:34.123Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -268,6 +268,7 @@
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "1f120023244d",
       "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "5b3957b27316",
       "content/posts/the-freedom-of-will-to-deny-itself.md": "1f8dd4fcdafe",
+      "content/posts/the-frozen-cut-and-the-margin-of-the-loop.md": "920d68678747",
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "d3f0748dc9cb",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "f03fcc2f0221",
       "content/posts/the-generative-contradiction.md": "8b94f1d0868b",
@@ -435,8 +436,8 @@
       "content/book/causality.md": "863b25c6333a",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "16ee59c9657e",
-      "content/book/intelligence.md": "e80a45b06b6c",
+      "content/book/index-of-premises.md": "bc7d376412c6",
+      "content/book/intelligence.md": "dfab91bbea23",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
       "content/book/mathematics.md": "8f6d273c0db8",
@@ -450,16 +451,16 @@
       "content/book/tools-and-progress.md": "2a682044cc54"
     },
     "stats": {
-      "posts": 424,
-      "edges": 12960,
-      "unique_directed": 6378,
+      "posts": 425,
+      "edges": 12980,
+      "unique_directed": 6387,
       "missing_targets": 0,
-      "one_way": 1192,
+      "one_way": 1201,
       "isolated": 0,
-      "posts_with_outbound": 424,
+      "posts_with_outbound": 425,
       "book_pages": 16,
-      "book_edges": 1238,
-      "posts_reached_by_book": 424
+      "book_edges": 1241,
+      "posts_reached_by_book": 425
     }
   },
   "hubs_in": [
@@ -477,7 +478,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 87
+      "in_degree": 88
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -512,11 +513,11 @@
       "in_degree": 42
     },
     {
-      "slug": "clarity-isnt-a-state-you-arrive-at",
-      "in_degree": 40
+      "slug": "mistaking-the-expression-for-the-intelligence",
+      "in_degree": 41
     },
     {
-      "slug": "mistaking-the-expression-for-the-intelligence",
+      "slug": "clarity-isnt-a-state-you-arrive-at",
       "in_degree": 40
     },
     {
@@ -1161,7 +1162,7 @@
       "path": "content/posts/architecture-of-recursive-distinction.md",
       "title": "递归区分的架构 / The Architecture of Recursive Distinction",
       "hash": "b94c7bee789f",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 13,
       "links_out": [
         "the-continuum-is-a-modeling-convenience",
@@ -1291,7 +1292,7 @@
       "path": "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md",
       "title": "递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems",
       "hash": "71b9bb7f431d",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 14,
       "links_out": [
         "no-system-can-be-kept-closed",
@@ -3761,7 +3762,7 @@
       "path": "content/posts/learned-boundaries-and-the-given-rate.md",
       "title": "学到的边界与给定的尺度 / Learned Boundaries and the Given Rate",
       "hash": "c94941dc12ba",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 14,
       "links_out": [
         "precision-and-resolution",
@@ -4122,7 +4123,7 @@
       "path": "content/posts/mistaking-the-expression-for-the-intelligence.md",
       "title": "错把表达当成智能 / Mistaking the Expression for the Intelligence",
       "hash": "b1e816c0ebad",
-      "in_degree": 40,
+      "in_degree": 41,
       "out_degree": 39,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -4462,7 +4463,7 @@
       "path": "content/posts/not-a-theory-of-everything.md",
       "title": "非万物之理 / Not a Theory of Everything",
       "hash": "41f95512b70e",
-      "in_degree": 32,
+      "in_degree": 33,
       "out_degree": 35,
       "links_out": [
         "not-a-toe-rewrite",
@@ -4812,7 +4813,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "开放即一致 / Openness Is Consistency",
       "hash": "ad89376cac08",
-      "in_degree": 87,
+      "in_degree": 88,
       "out_degree": 84,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -5274,7 +5275,7 @@
       "path": "content/posts/precision-and-resolution.md",
       "title": "精度与分辨率 / Precision and Resolution",
       "hash": "5d2d965e82b1",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 14,
       "links_out": [
         "the-comment-is-not-the-code",
@@ -5614,7 +5615,7 @@
       "path": "content/posts/residual-control-recedes-to-the-edge.md",
       "title": "要紧的控制迁往边缘 / Essential Control Moves to the Edge",
       "hash": "3de7bf12eb33",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 14,
       "links_out": [
         "beyond-the-projection",
@@ -7876,6 +7877,27 @@
         "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "zi-you-de-ce-bu-zhun"
+      ]
+    },
+    {
+      "id": "post:the-frozen-cut-and-the-margin-of-the-loop",
+      "kind": "post",
+      "slug": "the-frozen-cut-and-the-margin-of-the-loop",
+      "path": "content/posts/the-frozen-cut-and-the-margin-of-the-loop.md",
+      "title": "冻结的切口与回环的余量 / The Frozen Cut and the Margin of the Loop",
+      "hash": "920d68678747",
+      "in_degree": 0,
+      "out_degree": 9,
+      "links_out": [
+        "tokens-and-the-observational-boundary",
+        "not-a-theory-of-everything",
+        "learned-boundaries-and-the-given-rate",
+        "precision-and-resolution",
+        "openness-is-consistency",
+        "architecture-of-recursive-distinction",
+        "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+        "residual-control-recedes-to-the-edge",
+        "mistaking-the-expression-for-the-intelligence"
       ]
     },
     {
@@ -11118,7 +11140,7 @@
       "path": "content/posts/tokens-and-the-observational-boundary.md",
       "title": "词元与观测边界 / Tokens and the Observational Boundary",
       "hash": "bca97aa871de",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 13,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -61562,6 +61584,126 @@
       "label": "The Uncertainty of Freedom"
     },
     {
+      "from": "the-frozen-cut-and-the-margin-of-the-loop",
+      "to": "tokens-and-the-observational-boundary",
+      "rel": "points_to",
+      "label": "词元与观测边界"
+    },
+    {
+      "from": "the-frozen-cut-and-the-margin-of-the-loop",
+      "to": "tokens-and-the-observational-boundary",
+      "rel": "points_to",
+      "label": "Tokens and the Observational Boundary"
+    },
+    {
+      "from": "the-frozen-cut-and-the-margin-of-the-loop",
+      "to": "not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "非万物之理"
+    },
+    {
+      "from": "the-frozen-cut-and-the-margin-of-the-loop",
+      "to": "not-a-theory-of-everything",
+      "rel": "points_to",
+      "label": "Not a Theory of Everything"
+    },
+    {
+      "from": "the-frozen-cut-and-the-margin-of-the-loop",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "学到的边界与给定的尺度"
+    },
+    {
+      "from": "the-frozen-cut-and-the-margin-of-the-loop",
+      "to": "precision-and-resolution",
+      "rel": "points_to",
+      "label": "精度与分辨率"
+    },
+    {
+      "from": "the-frozen-cut-and-the-margin-of-the-loop",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "Learned Boundaries and the Given Rate"
+    },
+    {
+      "from": "the-frozen-cut-and-the-margin-of-the-loop",
+      "to": "precision-and-resolution",
+      "rel": "points_to",
+      "label": "Precision and Resolution"
+    },
+    {
+      "from": "the-frozen-cut-and-the-margin-of-the-loop",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "学到的边界与给定的尺度"
+    },
+    {
+      "from": "the-frozen-cut-and-the-margin-of-the-loop",
+      "to": "learned-boundaries-and-the-given-rate",
+      "rel": "points_to",
+      "label": "Learned Boundaries and the Given Rate"
+    },
+    {
+      "from": "the-frozen-cut-and-the-margin-of-the-loop",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "the-frozen-cut-and-the-margin-of-the-loop",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "递归区分的架构"
+    },
+    {
+      "from": "the-frozen-cut-and-the-margin-of-the-loop",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-frozen-cut-and-the-margin-of-the-loop",
+      "to": "architecture-of-recursive-distinction",
+      "rel": "points_to",
+      "label": "The Architecture of Recursive Distinction"
+    },
+    {
+      "from": "the-frozen-cut-and-the-margin-of-the-loop",
+      "to": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+      "rel": "points_to",
+      "label": "递归形式系统中作为记忆与控制的边界条件图"
+    },
+    {
+      "from": "the-frozen-cut-and-the-margin-of-the-loop",
+      "to": "residual-control-recedes-to-the-edge",
+      "rel": "points_to",
+      "label": "要紧的控制迁往边缘"
+    },
+    {
+      "from": "the-frozen-cut-and-the-margin-of-the-loop",
+      "to": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+      "rel": "points_to",
+      "label": "Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems"
+    },
+    {
+      "from": "the-frozen-cut-and-the-margin-of-the-loop",
+      "to": "residual-control-recedes-to-the-edge",
+      "rel": "points_to",
+      "label": "Essential Control Moves to the Edge"
+    },
+    {
+      "from": "the-frozen-cut-and-the-margin-of-the-loop",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "错把表达当成智能"
+    },
+    {
+      "from": "the-frozen-cut-and-the-margin-of-the-loop",
+      "to": "mistaking-the-expression-for-the-intelligence",
+      "rel": "points_to",
+      "label": "Mistaking the Expression for the Intelligence"
+    },
+    {
       "from": "the-functionalism-no-functionalist-can-hold",
       "to": "the-freedom-of-will-to-deny-itself",
       "rel": "points_to",
@@ -89893,8 +90035,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "16ee59c9657e",
-        "out_degree": 424
+        "hash": "bc7d376412c6",
+        "out_degree": 425
       },
       {
         "id": "book:intelligence",
@@ -89902,8 +90044,8 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "e80a45b06b6c",
-        "out_degree": 56
+        "hash": "dfab91bbea23",
+        "out_degree": 57
       },
       {
         "id": "book:knowledge-and-learning",
@@ -95396,6 +95538,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-frozen-cut-and-the-margin-of-the-loop",
+        "rel": "collects",
+        "label": "冻结的切口与回环的余量 / The Frozen Cut and the Margin of the Loop"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "dynamic-resnet-of-skill-loops",
         "rel": "collects",
         "label": "模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks"
@@ -95411,6 +95559,12 @@
         "to": "architecture-of-recursive-distinction",
         "rel": "collects",
         "label": "递归区分的架构 / The Architecture of Recursive Distinction"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-frozen-cut-and-the-margin-of-the-loop",
+        "rel": "collects",
+        "label": "冻结的切口与回环的余量 / The Frozen Cut and the Margin of the Loop"
       },
       {
         "from": "book:index-of-premises",
@@ -95807,6 +95961,12 @@
         "to": "architecture-of-recursive-distinction",
         "rel": "collects",
         "label": "递归区分的架构 / The Architecture of Recursive Distinction"
+      },
+      {
+        "from": "book:intelligence",
+        "to": "the-frozen-cut-and-the-margin-of-the-loop",
+        "rel": "collects",
+        "label": "冻结的切口与回环的余量 / The Frozen Cut and the Margin of the Loop"
       },
       {
         "from": "book:knowledge-and-learning",
