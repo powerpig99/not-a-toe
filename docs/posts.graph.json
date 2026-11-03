@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-03T19:08:15.118Z",
+    "generated_at": "2026-11-03T20:28:38.713Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -16,7 +16,7 @@
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "bab69d7970fb",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "5928998f445d",
       "content/posts/agency-and-the-pattern.md": "30029fcafb4b",
-      "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "8f762a579fc0",
+      "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "e855ba2097aa",
       "content/posts/agency-contradiction-and-the-relocation-of-power.md": "275043c4033b",
       "content/posts/agency-does-not-arise.md": "2064c3c57645",
       "content/posts/agency-relocated-into-the-formal-model.md": "3e1fa31e14a3",
@@ -178,7 +178,7 @@
       "content/posts/price-as-utterance-understanding-as-trade.md": "74464ff48389",
       "content/posts/production-consumption-and-the-minds-distinction.md": "fed20f3d69e9",
       "content/posts/public-spending-does-not-create-capital.md": "928c2d8dc512",
-      "content/posts/qian-yin-hou-guo.md": "cc5a0554ce85",
+      "content/posts/qian-yin-hou-guo.md": "e9a138276212",
       "content/posts/rationality-never-travels-across-the-mind.md": "3cb2e68dd3f2",
       "content/posts/reality-doesnt-invoice-by-committee.md": "86aa65056254",
       "content/posts/reality-is-the-minds-ongoing-realization.md": "d09b357134c6",
@@ -186,7 +186,7 @@
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "a8f8212b9511",
       "content/posts/residual-control-recedes-to-the-edge.md": "3de7bf12eb33",
       "content/posts/residual-individualism.md": "ce5cf1738f1e",
-      "content/posts/restriction-is-a-selective-tax.md": "fc908414eed9",
+      "content/posts/restriction-is-a-selective-tax.md": "7ab4ce1e1cd4",
       "content/posts/scaffolds-or-specialized-contexts.md": "594b21b4d06e",
       "content/posts/school_essay_final.md": "f18cabb10f9c",
       "content/posts/selection-contradiction-and-open-reality.md": "215cb759f7ef",
@@ -232,7 +232,7 @@
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "308f4e3d129b",
       "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "c3f7ea991be1",
       "content/posts/the-causal-overstep-of-observation-and-the-first-person-surplus.md": "1c8b2a59109f",
-      "content/posts/the-climate-problem-registers-only-as-perception.md": "0d5b45a35c75",
+      "content/posts/the-climate-problem-registers-only-as-perception.md": "c138f1002466",
       "content/posts/the-closed-loop-of-representation.md": "e4e02efb1bdf",
       "content/posts/the-closed-n-and-the-open-reality.md": "ec2c3d7936cc",
       "content/posts/the-coin-of-good-and-evil-and-the-road-to-hell.md": "fa44653e18ca",
@@ -263,7 +263,7 @@
       "content/posts/the-fixed-image-of-transcendence.md": "c2123525af2c",
       "content/posts/the-fixed-map-and-the-repeated-trip.md": "ba553eb8af02",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "d3d47cfe2abd",
-      "content/posts/the-flywheel-of-the-mind.md": "5240f6ab72ca",
+      "content/posts/the-flywheel-of-the-mind.md": "8023c6735d6f",
       "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "9c8e728ed2cb",
       "content/posts/the-frame-that-conceals-improvement.md": "e4fefad91788",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "1f120023244d",
@@ -323,7 +323,7 @@
       "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "66816e477146",
       "content/posts/the-mirror-handshake-of-power.md": "ccc28b284e44",
       "content/posts/the-misallocation-of-agency.md": "b921b7fb3528",
-      "content/posts/the-model-never-becomes-a-second-edge.md": "ff39eff01441",
+      "content/posts/the-model-never-becomes-a-second-edge.md": "508ba7e870a3",
       "content/posts/the-moral-reversal-and-the-scripted-subject.md": "e1ac22ffc038",
       "content/posts/the-myth-of-population-collapse-explained.md": "6b8ecefdfc0f",
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "f72287238803",
@@ -344,22 +344,22 @@
       "content/posts/the-power-law-of-surrendered-agency.md": "995067c4c57b",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "8b30e5923db4",
       "content/posts/the-price-of-closing-optionality.md": "5587a48534a1",
-      "content/posts/the-question-that-installs-the-war.md": "33d002f839b2",
+      "content/posts/the-question-that-installs-the-war.md": "63e4ec243e36",
       "content/posts/the-ramble-within-the-ramble.md": "57566038f9e7",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "46998aadc1d1",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "6036be35fe63",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "e5b4c6a665d6",
       "content/posts/the-reality-distortion-field-inverts-the-baseline.md": "e25d00e96b60",
-      "content/posts/the-reality-distortion-field-names-the-closed-map.md": "3f4e0e3db4b8",
+      "content/posts/the-reality-distortion-field-names-the-closed-map.md": "757d9fbe8599",
       "content/posts/the-receptionist-parable-and-the-causal-inversion-of-absence.md": "ad7483982bf1",
       "content/posts/the-reflexive-dilemma-of-unique-insight.md": "d836ec0d3431",
       "content/posts/the-residue-and-the-free-variable.md": "0b7143cf5e7b",
       "content/posts/the-returning-signal-and-its-claim.md": "973ad49b2d21",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "eac491539bc9",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "9e39c50c5595",
-      "content/posts/the-reversal-of-education-and-science.md": "ba68ab96da47",
+      "content/posts/the-reversal-of-education-and-science.md": "79d30fed4db1",
       "content/posts/the-reversal-of-verification.md": "d8eedc3f8076",
-      "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "7a1980b70a67",
+      "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "fe96ca7c70ec",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "b9b1f9d77eb2",
       "content/posts/the-scaffolding-that-keeps-growing.md": "0750e86d12d5",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "91a452732b88",
@@ -398,7 +398,7 @@
       "content/posts/therapy-opens-the-feedback-loop.md": "fef94840ad77",
       "content/posts/time-is-causality-not-a-dimension.md": "bcd28712180f",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "8b7996bdb4d5",
-      "content/posts/tokens-and-the-observational-boundary.md": "dd32c2115f80",
+      "content/posts/tokens-and-the-observational-boundary.md": "34db187b43af",
       "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "9d994611d450",
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "91487ce48c58",
       "content/posts/trusting-the-reader-is-the-last-overstep.md": "4fa6d46f4306",
@@ -411,7 +411,7 @@
       "content/posts/what-hinton-failed-to-understand.md": "5b9aba9df3f3",
       "content/posts/what-information-is.md": "16f3605a8fba",
       "content/posts/what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination.md": "5d4b60d35ef9",
-      "content/posts/what-works-is-the-belief.md": "61bc84ba56e2",
+      "content/posts/what-works-is-the-belief.md": "24296863de82",
       "content/posts/whatever-is-one-prompt-away.md": "4f83116ae3c6",
       "content/posts/when-abundance-looks-like-scarcity.md": "84b716cdac74",
       "content/posts/when-electrons-think.md": "c3336f135244",
@@ -437,7 +437,7 @@
       "content/book/causality.md": "863b25c6333a",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "0a996da59173",
+      "content/book/index-of-premises.md": "6bcc50ef68d9",
       "content/book/intelligence.md": "6234ae4579e1",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -453,14 +453,14 @@
     },
     "stats": {
       "posts": 426,
-      "edges": 13054,
-      "unique_directed": 6421,
+      "edges": 13058,
+      "unique_directed": 6423,
       "missing_targets": 0,
       "one_way": 1197,
       "isolated": 0,
       "posts_with_outbound": 426,
       "book_pages": 16,
-      "book_edges": 1245,
+      "book_edges": 1247,
       "posts_reached_by_book": 426
     }
   },
@@ -860,7 +860,7 @@
       "slug": "agency-compounding-and-the-argument-over-ai-feudalism",
       "path": "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md",
       "title": "能动性、复利与 AI 封建之争 / Agency, Compounding, and the Argument Over AI Feudalism",
-      "hash": "8f762a579fc0",
+      "hash": "e855ba2097aa",
       "in_degree": 14,
       "out_degree": 17,
       "links_out": [
@@ -5484,7 +5484,7 @@
       "slug": "qian-yin-hou-guo",
       "path": "content/posts/qian-yin-hou-guo.md",
       "title": "前因，后果 / Cause Before, Effect After",
-      "hash": "cc5a0554ce85",
+      "hash": "e9a138276212",
       "in_degree": 17,
       "out_degree": 20,
       "links_out": [
@@ -5693,7 +5693,7 @@
       "slug": "restriction-is-a-selective-tax",
       "path": "content/posts/restriction-is-a-selective-tax.md",
       "title": "限制是选择性的税 / Restriction Is a Selective Tax",
-      "hash": "fc908414eed9",
+      "hash": "7ab4ce1e1cd4",
       "in_degree": 20,
       "out_degree": 21,
       "links_out": [
@@ -5748,7 +5748,7 @@
       "path": "content/posts/school_essay_final.md",
       "title": "人工智能为何正在暴露现代学校教育的致命缺陷 / Why AI Is Exposing the Fatal Flaw in Modern Schooling",
       "hash": "f18cabb10f9c",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 6,
       "links_out": [
         "on-education",
@@ -6732,7 +6732,7 @@
       "path": "content/posts/the-boundary-of-the-frame.md",
       "title": "框架的边界 / The Boundary of the Frame",
       "hash": "d379a51837b8",
-      "in_degree": 20,
+      "in_degree": 21,
       "out_degree": 21,
       "links_out": [
         "what-information-is",
@@ -6974,7 +6974,7 @@
       "slug": "the-climate-problem-registers-only-as-perception",
       "path": "content/posts/the-climate-problem-registers-only-as-perception.md",
       "title": "气候问题只作为感知被登记 / The Climate Problem Registers Only as Perception",
-      "hash": "0d5b45a35c75",
+      "hash": "c138f1002466",
       "in_degree": 12,
       "out_degree": 14,
       "links_out": [
@@ -7780,7 +7780,7 @@
       "slug": "the-flywheel-of-the-mind",
       "path": "content/posts/the-flywheel-of-the-mind.md",
       "title": "心智的飞轮 / The Flywheel of the Mind",
-      "hash": "5240f6ab72ca",
+      "hash": "8023c6735d6f",
       "in_degree": 15,
       "out_degree": 18,
       "links_out": [
@@ -9207,7 +9207,7 @@
       "slug": "the-model-never-becomes-a-second-edge",
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge",
-      "hash": "ff39eff01441",
+      "hash": "508ba7e870a3",
       "in_degree": 71,
       "out_degree": 51,
       "links_out": [
@@ -9779,7 +9779,7 @@
       "slug": "the-question-that-installs-the-war",
       "path": "content/posts/the-question-that-installs-the-war.md",
       "title": "安装战争的那个问题 / The Question That Installs the War",
-      "hash": "33d002f839b2",
+      "hash": "63e4ec243e36",
       "in_degree": 13,
       "out_degree": 14,
       "links_out": [
@@ -9958,7 +9958,7 @@
       "slug": "the-reality-distortion-field-names-the-closed-map",
       "path": "content/posts/the-reality-distortion-field-names-the-closed-map.md",
       "title": "现实扭曲力场指认的是封闭的地图 / The Reality Distortion Field Names the Closed Map",
-      "hash": "3f4e0e3db4b8",
+      "hash": "757d9fbe8599",
       "in_degree": 23,
       "out_degree": 26,
       "links_out": [
@@ -10150,11 +10150,12 @@
       "slug": "the-reversal-of-education-and-science",
       "path": "content/posts/the-reversal-of-education-and-science.md",
       "title": "教育与科学的倒置 / The Inversion of Education and Science",
-      "hash": "ba68ab96da47",
+      "hash": "79d30fed4db1",
       "in_degree": 4,
-      "out_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "math-as-a-career-is-not-math-as-a-pursuit",
+        "school_essay_final",
         "the-shadow-and-the-infinite",
         "the-asymmetry-of-understanding",
         "your-codebase-is-memory"
@@ -10187,9 +10188,9 @@
       "slug": "the-risk-is-the-belief-in-oversight-itself",
       "path": "content/posts/the-risk-is-the-belief-in-oversight-itself.md",
       "title": "风险在于对监管本身的迷信 / The Risk Is the Belief in Oversight Itself",
-      "hash": "7a1980b70a67",
+      "hash": "fe96ca7c70ec",
       "in_degree": 23,
-      "out_degree": 25,
+      "out_degree": 26,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "intelligence-belongs-only-to-the-mind",
@@ -10205,6 +10206,7 @@
         "externalized-virtue-becomes-its-opposite",
         "e-shi-feng-bi-de-shan",
         "openness-is-consistency",
+        "the-boundary-of-the-frame",
         "the-question-that-installs-the-war",
         "the-reversal-of-verification",
         "beyond-the-projection",
@@ -11185,7 +11187,7 @@
       "slug": "tokens-and-the-observational-boundary",
       "path": "content/posts/tokens-and-the-observational-boundary.md",
       "title": "词元与观测边界 / Tokens and the Observational Boundary",
-      "hash": "dd32c2115f80",
+      "hash": "34db187b43af",
       "in_degree": 4,
       "out_degree": 14,
       "links_out": [
@@ -11570,7 +11572,7 @@
       "slug": "what-works-is-the-belief",
       "path": "content/posts/what-works-is-the-belief.md",
       "title": "起作用的是信念 / What Works Is the Belief",
-      "hash": "61bc84ba56e2",
+      "hash": "24296863de82",
       "in_degree": 28,
       "out_degree": 30,
       "links_out": [
@@ -55904,7 +55906,7 @@
       "from": "the-climate-problem-registers-only-as-perception",
       "to": "evil-as-the-minds-own-creation",
       "rel": "points_to",
-      "label": "Evil as the Mind’s Own Creation"
+      "label": "Evil as the Mind's Own Creation"
     },
     {
       "from": "the-climate-problem-registers-only-as-perception",
@@ -75410,7 +75412,7 @@
       "from": "the-reality-distortion-field-names-the-closed-map",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
+      "label": "Abstraction Boundaries and the Moving Edge of Reality"
     },
     {
       "from": "the-reality-distortion-field-names-the-closed-map",
@@ -76452,6 +76454,18 @@
     },
     {
       "from": "the-reversal-of-education-and-science",
+      "to": "school_essay_final",
+      "rel": "points_to",
+      "label": "人工智能为何正在暴露现代学校教育的致命缺陷"
+    },
+    {
+      "from": "the-reversal-of-education-and-science",
+      "to": "school_essay_final",
+      "rel": "points_to",
+      "label": "Why AI Is Exposing the Fatal Flaw in Modern Schooling"
+    },
+    {
+      "from": "the-reversal-of-education-and-science",
       "to": "the-shadow-and-the-infinite",
       "rel": "points_to",
       "label": "阴影与无限"
@@ -76764,9 +76778,21 @@
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "框架的边界"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
       "to": "the-question-that-installs-the-war",
       "rel": "points_to",
       "label": "安装战争的那个问题"
+    },
+    {
+      "from": "the-risk-is-the-belief-in-oversight-itself",
+      "to": "the-boundary-of-the-frame",
+      "rel": "points_to",
+      "label": "The Boundary of the Frame"
     },
     {
       "from": "the-risk-is-the-belief-in-oversight-itself",
@@ -90526,7 +90552,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "0a996da59173",
+        "hash": "6bcc50ef68d9",
         "out_degree": 426
       },
       {
@@ -91514,6 +91540,12 @@
         "to": "minimizing-path",
         "rel": "collects",
         "label": "最小化路径 / The Minimizing Path"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-reality-distortion-field-names-the-closed-map",
+        "rel": "collects",
+        "label": "现实扭曲力场指认的是封闭的地图 / The Reality Distortion Field Names the Closed Map"
       },
       {
         "from": "book:index-of-premises",
@@ -93569,6 +93601,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "qian-yin-hou-guo",
+        "rel": "collects",
+        "label": "前因，后果 / Cause Before, Effect After"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-self-portrait-in-the-projection",
         "rel": "collects",
         "label": "投射中的自画像 / The Self-Portrait in the Projection"
@@ -94148,12 +94186,6 @@
         "to": "not-a-theory-of-everything",
         "rel": "collects",
         "label": "非万物之理 / Not a Theory of Everything"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "qian-yin-hou-guo",
-        "rel": "collects",
-        "label": "前因，后果 / Cause Before, Effect After"
       },
       {
         "from": "book:index-of-premises",
@@ -95618,6 +95650,12 @@
         "to": "time-is-causality-not-a-dimension",
         "rel": "collects",
         "label": "时间是因果的不可逆方向与离散步长 / Time Is the Irreversible Direction and Discrete Step of Causality"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "qian-yin-hou-guo",
+        "rel": "collects",
+        "label": "前因，后果 / Cause Before, Effect After"
       },
       {
         "from": "book:index-of-premises",

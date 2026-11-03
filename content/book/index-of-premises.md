@@ -285,7 +285,7 @@ Sivers' method of adding only what need has proven is of use in guarding against
 
 Musk assumes the present model is partly wrong and treats an explosion as loss signal, which is of use in turning every outcome into the next engineering step and compounding iterations per unit of time; it reaches its boundary in that "physics is the law" joins the written model, the friction of operation and reality itself, so the prior of being wrong stops there and a model is taken as law.
 
-→ [失败即信息 / Failure as Information](../../posts/failure-as-information/) · [“物理学才是定律”的障眼法 / The Sleight of Hand in "Physics Is the Law"](../../posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) · [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/) · [关闭选择权的代价 / The Price of Closing Optionality](../../posts/the-price-of-closing-optionality/) · [词元与观测边界 / Tokens and the Observational Boundary](../../posts/tokens-and-the-observational-boundary/) · [最小化路径 / The Minimizing Path](../../posts/minimizing-path/)
+→ [失败即信息 / Failure as Information](../../posts/failure-as-information/) · [“物理学才是定律”的障眼法 / The Sleight of Hand in "Physics Is the Law"](../../posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) · [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/) · [关闭选择权的代价 / The Price of Closing Optionality](../../posts/the-price-of-closing-optionality/) · [词元与观测边界 / Tokens and the Observational Boundary](../../posts/tokens-and-the-observational-boundary/) · [最小化路径 / The Minimizing Path](../../posts/minimizing-path/) · [现实扭曲力场指认的是封闭的地图 / The Reality Distortion Field Names the Closed Map](../../posts/the-reality-distortion-field-names-the-closed-map/)
 
 ### 认知谦逊 / Epistemic Humility
 `哲学 / Philosophical`
@@ -785,9 +785,9 @@ Selective immigration presumes that a filter which reads source-country outcomes
 ### 史蒂夫·乔布斯 / Steve Jobs
 `技术 / Technological`
 
-乔布斯以不妥协的苛求击碎因循守旧的行业排期；有力激发出产品极致，但将其神化却容易使人忽视技术约束的硬度。
+乔布斯将行业关于个人电脑形态与手机交互界面的既定共识当作可重描的软性残余，而非可能性的封闭疆域，并在设计与工程的直接接触摩擦中反复迭代，这在剥离软性行业惯例与硬性因果摩擦、更新已实现的产品场域时有用；它在此到了边界：当信念脱离胜任力与现场接触检验而悬空，或当关于可能性的图像被作为身份保留下来、而非在接触中重新渲染时，这一姿态便会坍塌。
 
-Jobs demanded product perfection by rejecting conventional industry timelines; inspiring for product craft, mythologizing his methods blinds followers to technical realities.
+Jobs treated industry consensus on what a personal computer or a phone interface had to be as soft, provisional residue rather than the sealed territory of the possible while iterating directly against design and engineering contact friction, which is of use in separating soft convention from hard causal friction and updating the realized product field; it reaches its boundary where conviction floats free of competence and contact testing, or where the image of the possible is preserved as identity rather than re-rendered at contact.
 
 → [现实扭曲力场指认的是封闭的地图 / The Reality Distortion Field Names the Closed Map](../../posts/the-reality-distortion-field-names-the-closed-map/)
 
@@ -1604,9 +1604,9 @@ Statements of the proportion of zeta zeros on the critical line presuppose a tot
 ### 施密特敌友之分 / Schmittian Friend-Enemy Distinction
 `意识形态 / Ideological`
 
-施密特将敌友判定立为政治的基底；将人际交往预先框定为敌我对立，在具体争端发生前就预设了对抗。
+施密特把敌友之分立为政治的判准，可用来指认公共动员何时已把本可分开的宗教、经济或文化分歧聚拢为同一组联合与分离；它的边界在于，一旦把这一判准奉为政治不可化约的基底，具体争端还未按各自的坐标轴受审视，各条独立坐标轴就已被压缩到单一的敌意轴上。
 
-Carl Schmitt posits the friend-enemy distinction as politics' irreducible core; framing relations as binary conflict manufactures enmity before concrete disputes emerge.
+Carl Schmitt posits the friend-enemy distinction as the criterion of the political, which is of use in registering when public mobilization has gathered separable religious, economic, or cultural disagreements into one grouping of association and dissociation; it reaches its boundary in that holding this criterion as the irreducible ground of politics compresses independent axes onto a single hostility axis before concrete disputes are examined on their own axes.
 
 → [安装战争的那个问题 / The Question That Installs the War](../../posts/the-question-that-installs-the-war/)
 
@@ -2512,6 +2512,15 @@ Population collapse theory presumes that falling fertility is a permanent termin
 
 → [人口崩溃神话的拆解 / The Myth of Population Collapse Explained](../../posts/the-myth-of-population-collapse-explained/)
 
+### 缘起性空与二谛 / Dependent Origination, Emptiness, and the Two Truths
+`哲学 / Philosophical`
+
+中观以缘起性空与二谛指明一切法皆依条件和合而生、无独立自存的自性，在世俗条件边界内安立因果效能与名言工具、同时拆解对静态终极实体的执取时有用；它在此到了边界：一旦把“空”从具体条件中抽离出来奉为无条件的普适法则或可停驻的终局答案，无自性本身就被实体化为静态地基，而对缘起与性空的这一解读本身也是依条件生起的临时仪器，用过之后即可放下。
+
+Madhyamaka articulates through dependent origination, emptiness, and the two truths that all phenomena arise conditionally without independent self-nature, which is of use in establishing causal efficacy and conceptual instruments within conventional bounds while dissolving fixation on static ultimate substances; it reaches its boundary the moment emptiness is abstracted from concrete conditions into an unconditional universal law or resting destination, reifying non-self-nature itself into a static ground, and even this interpretation of dependent origination is itself a conditionally arisen instrument to be set down once its work is done.
+
+→ [前因，后果 / Cause Before, Effect After](../../posts/qian-yin-hou-guo/)
+
 ### 审美诊断的投射自画像 / Diagnostic Self-Projection
 `哲学 / Philosophical`
 
@@ -3133,12 +3142,12 @@ Whether told as benevolent guardianship or bureaucratic capture, institutional c
 
 → [道德语言作为投影 / Moral Language as Projection](../../posts/moral-language-as-projection/) · [外化善意走向其反面 / Externalized Virtue Becomes Its Opposite](../../posts/externalized-virtue-becomes-its-opposite/)
 
-### 教育与科学的建制化倒置 / Institutional Inversion of Education
+### 教育与科学的建制化倒置 / Institutional Inversion of Education and Science
 `哲学 / Philosophical`
 
-假定考核指标能测度真实的认知理解；对维系资历选拔有效，却把对实在的探求扭曲为封闭排位的规训博弈。
+制度化评估假定标准化的标量寄存器——考试分数、百分位、文凭资历、论文计数、影响因子与经费拨款——能够可靠地标度探求与能力；这些寄存器作为压缩的管理足迹，在大规模协调资历认证与有限预算时颇有用处；其边界在于寄存器替代，即当标记被当得比它所记录的活动更实在时，因果便在古德哈特定律下发生倒转，以更低代价产出指标的做法顶替了与实在的直接接触，并将跨越正交轴线的非排他探索收束进位置性的零和竞赛。
 
-Presumes institutional metrics measure genuine understanding; useful for credentialing, it inverts open inquiry into closed zero-sum compliance.
+Institutional evaluation presumes that standardized scalar registers—exam scores, percentiles, credentials, publication counts, impact factors, and grant allocations—reliably index inquiry and capability, which is of use as a compressed administrative footprint for coordinating credentials and finite budgets at scale; it reaches its boundary in Register Substitution, when the marker is held as more substantial than the activity it records, reversing causality under Goodhart's Law so that lower-cost production of the metric replaces direct contact with reality and funnels non-rivalrous exploration across orthogonal axes into a positional zero-sum contest.
 
 → [教育与科学的倒置 / The Inversion of Education and Science](../../posts/the-reversal-of-education-and-science/) · [作为职业的数学不是作为追求的数学 / Math as a Career Is Not Math as a Pursuit](../../posts/math-as-a-career-is-not-math-as-a-pursuit/)
 
@@ -3240,15 +3249,6 @@ Knowing the fundamentals is assumed to make them govern decisions, which is of u
 Causality demands that effect is distinct from cause and follows cause; collapsing them into static unified self-containment destroys the possibility of physical change.
 
 → [非万物之理 / Not a Theory of Everything](../../posts/not-a-theory-of-everything/)
-
-### 前因后果报应论 / Karmic Retribution (Qian Yin Hou Guo)
-`宗教 / Religious`
-
-因果报应论假定过往行为借由宇宙公理定夺未来福祸；因果实则是当下所作抉择不可推卸的实时承重。
-
-Moral karma presumes past actions dictate future destiny via cosmic justice; causality manifests as the immediate causal weight of the next choice one authors.
-
-→ [前因，后果 / Cause Before, Effect After](../../posts/qian-yin-hou-guo/)
 
 ### 知识蒸馏 / Knowledge Distillation
 `技术 / Technological`
@@ -3730,9 +3730,9 @@ The presumption that equates consistency with the absence of contradiction insid
 ### 禁令依托信念生效机制 / Operative Efficacy of Belief
 `意识形态 / Ideological`
 
-法条禁令预设纸面条文能从物理上阻隔违禁行为；禁令发挥效力深度依赖它所凝聚的信念预期，以此改变行为考量。
+假定监管或技术禁令能够封住行动场域的预设，在持守它的中心之间有用：在那里，这份共享信念将服务条款、出口规则与产品默认设置压实为运转中的协调；它在不共享这份信念的中心那里到达边界，因为禁令只作为被持为地基的信念运作，持守内部的能力沿被拒绝的轴线变薄，而活动经由开放路径继续向前，直至累积的残余作为竞争与防御赤字返回。
 
-Legal prohibitions assume a statute physically prevents illicit activity; laws work only by stabilizing an ideological consensus that alters subjective cost calculations.
+The presumption that a regulatory or technical prohibition seals the field of action is of use among the centers that hold it, where the shared belief densifies terms of service, export rules, and product defaults into working coordination; it reaches its boundary at the centers that do not share it, since a ban operates only as belief held as ground, thinning capacity along the refused axes inside the hold while activity continues along open routes until its accumulated residue returns as a competitive and defensive deficit.
 
 → [起作用的是信念 / What Works Is the Belief](../../posts/what-works-is-the-belief/)
 
@@ -3982,9 +3982,9 @@ An FDA-style licensing gate presumes present threat models bound what open proce
 ### 预测模型作为历史残差 / Predictive Model as Residue
 `技术 / Technological`
 
-AI自主化叙事宣称统计模型已化身独立意志主体；模型只是聚合了历史沉淀，其启动与收敛始终维系于外部输入的驱动。
+AI自主化叙事将统计模型所生成接续的流畅性，当成能够自行发起的意志主体；这类叙事登记了被压实的残余在收到提示词后已能将一段接续推进到多远，并在发起处触及自身边界——发起始终留在负责立框、筛选与验证的中心那里。
 
-AI autonomy narratives claim statistical models act as self-willing agents; models densify historical patterns, remaining dependent on human input for initiation.
+AI autonomy narratives take the fluency of a statistical model's continuations for a self-willed agent that initiates; they register how far densified residue now carries a continuation once prompted, and reach their boundary at initiation, which stays with the centers that frame, select, and verify.
 
 → [模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge](../../posts/the-model-never-becomes-a-second-edge/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/)
 
@@ -4105,12 +4105,12 @@ The statement holds in a specific sense, naming the causal friction felt in conc
 
 → [失灵被记作聪明 / When Malfunction Is Scored as Intelligence](../../posts/when-malfunction-is-scored-as-intelligence/)
 
-### 现实扭曲场 / Reality Distortion Field
+### 现实扭曲力场 / Reality Distortion Field
 `成功学 / Self-Help`
 
-传记神话将领袖意志吹捧为能扭曲现实法则；所谓扭曲场击穿的只是人造的条条框框，其成就仍受物理规律严格规约。
+“现实扭曲力场”源自巴德·特里布尔 1981 年对乔布斯如何影响 Macintosh 团队可行性判断的称呼，在商业圣徒传式的叙事中被引申为如下预设：关于约束条件的共识地图即是可能性的疆域，而引发图外结果的行动者拥有弯曲固定世界的特殊能力，这在从外部登记内在位点上的持续行动确实跨过了专家共识所判定的可行边界时有用；它在此到了边界：被登记为扭曲的其实是观察者自身的图像滞后——当软性的机构惯例与硬性的接触摩擦被压缩为同一道封闭天花板、且旧地图被保留到自身那一步之后时，借由直接接触与反馈更新已实现场域的寻常因果便被事后神秘化为力场。
 
-Business hagiography attributes heroic willpower to bending physical reality; the phenomenon dismantles artificial institutional inertia, operating strictly within physical law.
+The "reality distortion field," Bud Tribble's 1981 name for Jobs's hold over the Macintosh team's sense of the feasible, as taken up in business hagiography presumes that the consensus map of constraints is the territory of the possible and that an agent who causes outcomes outside that map possesses a special power to bend a fixed world, which is of use in registering from the outside that sustained action at an internal locus did step past what expert consensus held feasible; it reaches its boundary in that what registers as a warp is the observer's own Image lag when soft institutional habits and hard contact friction are compressed onto one closed ceiling and the prior map is preserved past its step, mystifying ordinary causality that updates the realized field through direct contact and feedback.
 
 → [现实扭曲力场指认的是封闭的地图 / The Reality Distortion Field Names the Closed Map](../../posts/the-reality-distortion-field-names-the-closed-map/)
 
@@ -4967,7 +4967,7 @@ Security defense metrics treat threat elimination as objective; commercially, or
 
 Time is modelled as a fourth coordinate of the same form as length, width and depth, of great use for finding causes backward and predicting effects forward; taking that axis of the model for lived time is where it reaches its boundary, since what registers from the first person is only the irreversible direction and non-zero step of causal transitions.
 
-→ [时间是因果的不可逆方向与离散步长 / Time Is the Irreversible Direction and Discrete Step of Causality](../../posts/time-is-causality-not-a-dimension/)
+→ [时间是因果的不可逆方向与离散步长 / Time Is the Irreversible Direction and Discrete Step of Causality](../../posts/time-is-causality-not-a-dimension/) · [前因，后果 / Cause Before, Effect After](../../posts/qian-yin-hou-guo/)
 
 ### Token吞吐量价值等同论 / Token Throughput Equivalence
 `经济 / Economic`
@@ -4990,9 +4990,9 @@ Accusing the other of being "too goal-driven" credits the friction to the other'
 ### 磨刀工具陷阱 / Tool-Sharpening Trap
 `成功学 / Self-Help`
 
-生产力教条假定打磨工作流即能自动提升产出；孤立摆弄工具只制造虚假前进感，逃避了直面创作的现实摩擦。
+假定打磨工具与工作流能直接提升产出，在登记外化媒介的变密如何降低阻力与拖拽、从而让行动中的边缘以更少的损耗与更广的触角表达出来时有用；它在此到了边界：把磨利的凹槽错当成旋转的源头，因为孤立地优化工具而不承受发起剖切时的摩擦，只是空磨媒介而不见转动，而发起、评估与重新引导依然是鲜活边缘上的分立动作。
 
-Productivity dogma assumes endlessly refining workflows boosts output; optimizing tools in isolation creates an illusion of momentum while avoiding the friction of creative work.
+Assuming that refining tools and workflows directly increases output is of use in registering how densifying an externalized medium lowers resistance and drag so an active edge expresses with less loss and greater reach; it reaches its boundary when the sharpened groove is mistaken for the source of rotation, since optimizing tools in isolation without taking the friction of an initiating cut hones the medium without a turn while initiation, evaluation, and redirection remain discrete acts at the living edge.
 
 → [心智的飞轮 / The Flywheel of the Mind](../../posts/the-flywheel-of-the-mind/)
 

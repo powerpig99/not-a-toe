@@ -22,9 +22,9 @@ Capacities that appear newly discovered were latent in the activity. The improve
 
 ## 二、 表象的分派与图像滞后 / 2. Apparent Allocation and Image Lag
 
-以为智能已经迁入工具的印象，正是图像滞后。观察握住的是果效——昔日缓慢费力的操作如今变得迅速可靠——并将这幅握住的图像冻结在产生它的边缘身后一步。真正迁移的只是执行的场所。发起区分、评估产出是否合用，以及在媒介开始扭曲而非澄清时及时察觉，依然是同一个递归活动。在媒介内部运行的检验，同样是执行：证明检验器确定的是，在它的规则之下、在边缘上选定的形式化之下，所陈述的各步成立；这一点以一个可信基为条件，而检验这个可信基本身，只会划出一个更宽的持守。把它的证书当作信任之源，凌驾于运用它去验证的那种能力之上，正是这一滞后落在评估这一面上，也就是[验证的倒置](../the-reversal-of-verification/)所追溯的倒置。
+以为智能已经迁入工具的印象，正是图像滞后。观察握住的是果效——昔日缓慢费力的操作如今变得迅速可靠——处在产生它的边缘身后一步，而当观察把这幅握住的图像保留到它所属的那一步之后、不再回到边缘时，便冻结了。真正迁移的只是执行的场所。发起区分、评估产出是否合用，以及在媒介开始扭曲而非澄清时及时察觉，依然是同一个递归活动。在媒介内部运行的检验，同样是执行：证明检验器确定的是，在它的规则之下、在边缘上选定的形式化之下，所陈述的各步成立；这一点以一个可信基为条件，而检验这个可信基本身，只会划出一个更宽的持守。把它的证书当作信任之源，凌驾于运用它去验证的那种能力之上，正是这一滞后落在评估这一面上，也就是[验证的倒置](../the-reversal-of-verification/)所追溯的倒置。
 
-The impression that intelligence has moved into the tools is Image lag. Observation holds the effect — operations once slow and effortful now rapid and reliable — and freezes the held image one step past the edge that produced it. What has moved is only the site of execution. The initiating distinction, the evaluation of whether the output serves, and the noticing when the medium begins to distort rather than clarify remain the same recursive activity. A check run inside the medium is execution of the same kind: a proof checker settles that the stated steps follow under its rules and under the formalization chosen at the edge, on a trusted base whose own checking draws only a wider hold. Taking its certificate as the source of trust, over the capacity to verify that uses it, is this lag at the evaluation face, the inversion [The Reversal of Verification](../the-reversal-of-verification/) traces.
+The impression that intelligence has moved into the tools is Image lag. Observation holds the effect — operations once slow and effortful now rapid and reliable — one step behind the edge that produced it, and freezes when it preserves that held image past its step instead of returning to the edge. What has moved is only the site of execution. The initiating distinction, the evaluation of whether the output serves, and the noticing when the medium begins to distort rather than clarify remain the same recursive activity. A check run inside the medium is execution of the same kind: a proof checker settles that the stated steps follow under its rules and under the formalization chosen at the edge, on a trusted base whose own checking draws only a wider hold. Taking its certificate as the source of trust, over the capacity to verify that uses it, is this lag at the evaluation face, the inversion [The Reversal of Verification](../the-reversal-of-verification/) traces.
 
 当工具生成连贯的语言或推理时，自主的表象便会加剧这种滞后。每一处看似自主的表现依然只是残余：筛选出的训练数据、设计好的架构、给定的提示词与目标、对价值的最终裁断——无一不是同一个心智进一步的分立动作。回路并不在器物内部闭合，而是穿过变密的媒介，回到设定条件的边缘。[智能只属于心智](../intelligence-belongs-only-to-the-mind/)守住了这一先在剖切；[看似AI的强化学习，实为人类的自我强化学习](../self-rl-for-humans/)在规模化的讨论下保持着同样的纪律。媒介在变密，发起并未搬迁。一把磨利的工具所产出的结果只是表达，而[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/)将表达与智能严格区分开来。
 
@@ -65,7 +65,7 @@ flowchart TD
     end
     E_Init ==>|"驱动转动进入媒介"| G_Route
     G_Signal ==>|"放大残余并将意外上交边缘"| E_Sense
-    G_Signal -.->|"当观察不再回到边缘"| T_Lag
+    G_Signal -.->|"当观察不再回到边缘并把图像保留到它所属的那一步之后"| T_Lag
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Groove fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Trap fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -103,7 +103,7 @@ flowchart TD
     end
     E_Init ==>|"Drives the turn into the medium"| G_Route
     G_Signal ==>|"Amplifies residue and escalates surprises to the edge"| E_Sense
-    G_Signal -.->|"When observation stops returning to the edge"| T_Lag
+    G_Signal -.->|"When observation stops returning to the edge and preserves the image past its step"| T_Lag
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Groove fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Trap fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -122,9 +122,9 @@ flowchart TD
 
 ## 四、 在掌舵的边缘收窄滞后 / 4. Narrowing Lag at the Edge That Steers
 
-既然智能从未离开心智，真正起作用的问题便不是人与机器之间的分派。分派从来就不真实。切实的认出，是让图像持续回到衡量它的边缘，随着步伐的推进不断收窄冗余滞后。当阻力低微时，转动起来毫不费力；而那种把媒介冻结为第二源头的滞后，恰恰最容易在此时形成。孤立地打磨工作流、却逃避发起剖切时的现实摩擦，正是披着生产力外衣的同一种冻结：凹槽被反复磨亮，转动却从未发生。[一个提示词之遥](../whatever-is-one-prompt-away/)是披着自动化外衣的这种滞后：把初次成功当作抵达终点，而非通往下一个未解约束的起点。[要紧的控制迁往边缘](../residual-control-recedes-to-the-edge/)是披着技术栈外衣的这种滞后：当变密早已将要紧的控制迁往评估标准与核验之时，仍把底层基质的占有当作杠杆而抱残守缺。[免费智能的幻觉](../the-illusion-of-free-intelligence/)是披着免费丰裕外衣的这种滞后：把加速周期中淘汰下来的旧形式当作普及化的心智而握住不放。正如[拥有更多从不是原因](../having-more-is-never-the-cause/)所论证的，囤积更多工具从来不是转动的原因。
+既然智能从未离开心智，真正起作用的问题便不是人与机器之间的分派。从来就没有第二个位点可供分派。切实的认出，是让图像持续回到衡量它的边缘，随着步伐的推进不断收窄冗余滞后。当阻力低微时，转动起来毫不费力；而那种把媒介冻结为第二源头的滞后，恰恰最容易在此时形成。孤立地打磨工作流、却逃避发起剖切时的现实摩擦，正是披着生产力外衣的同一种冻结：凹槽被反复磨亮，转动却从未发生。[一个提示词之遥](../whatever-is-one-prompt-away/)是披着自动化外衣的这种滞后：把初次成功当作抵达终点，而非通往下一个未解约束的起点。[要紧的控制迁往边缘](../residual-control-recedes-to-the-edge/)是披着技术栈外衣的这种滞后：当变密早已将要紧的控制迁往评估标准与核验之时，仍把底层基质的占有当作杠杆而抱残守缺。[免费智能的幻觉](../the-illusion-of-free-intelligence/)是披着免费丰裕外衣的这种滞后：把加速周期中淘汰下来的旧形式当作普及化的心智而握住不放。正如[拥有更多从不是原因](../having-more-is-never-the-cause/)所论证的，囤积更多工具从来不是转动的原因。
 
-If intelligence never leaves the Mind, the operative question is not allocation between humans and machines. Allocation was never real. The practical recognition is the continual return of the image to the edge that measures it, narrowing excess lag as the step moves. When friction is low the turn feels effortless; the lag that freezes the medium as a second source forms most readily precisely then. Polishing workflows in isolation while avoiding the friction of an initiating cut is the same freeze in productivity dress: the groove is honed without a turn being taken. [Whatever Is One Prompt Away](../whatever-is-one-prompt-away/) is that lag under automation costume: first success as arrival versus the next unsolved constraint. [Essential Control Moves to the Edge](../residual-control-recedes-to-the-edge/) is that lag under stack costume: substrate ownership preserved as the lever while densification has already moved essential control to criteria and verification. [The Illusion of Free Intelligence](../the-illusion-of-free-intelligence/) is that lag under free-abundance costume: discarded forms of the accelerating cycle held as democratized Mind. Accumulating more tools is never the cause of the turn, as [Having More Is Never the Cause](../having-more-is-never-the-cause/) argues.
+If intelligence never leaves the Mind, the operative question is not allocation between humans and machines. There was never a second locus to allocate it to. The practical recognition is the continual return of the image to the edge that measures it, narrowing excess lag as the step moves. When friction is low the turn feels effortless; the lag that freezes the medium as a second source forms most readily precisely then. Polishing workflows in isolation while avoiding the friction of an initiating cut is the same freeze in productivity dress: the groove is honed without a turn being taken. [Whatever Is One Prompt Away](../whatever-is-one-prompt-away/) is that lag under automation costume: first success as arrival versus the next unsolved constraint. [Essential Control Moves to the Edge](../residual-control-recedes-to-the-edge/) is that lag under stack costume: substrate ownership preserved as the lever while densification has already moved essential control to criteria and verification. [The Illusion of Free Intelligence](../the-illusion-of-free-intelligence/) is that lag under free-abundance costume: discarded forms of the accelerating cycle held as democratized Mind. Accumulating more tools is never the cause of the turn, as [Having More Is Never the Cause](../having-more-is-never-the-cause/) argues.
 
 因此，工具的每一次改进，都是边缘得以更严密地审视自身活动的条件之改进。昔日需要付出显著心力才能完成的操作，如今在媒介中即可运行。发起区分、评估与重新引导，依然是活动本身。把位置归还回原处便已足够，无需针对工具展开任何纠偏式的辩驳。工具依然可用，被松开的只是“凹槽已成为转动之源”的冻结宣称。转动正是[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)所描述的那道掌舵的边缘。
 

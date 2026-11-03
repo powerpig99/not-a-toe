@@ -24,7 +24,7 @@ flowchart TD
         direction TB
         Mind["源头处的自主观察者"]
         Reality["不可穷尽的实在模式<br/>（物理、生物、逻辑、数学）"]
-        Space["【正交开放空间】<br/>无限自由度，零竞争无挤压"]
+        Space["【正交开放空间】<br/>敞开的正交轴线，零竞争无挤压"]
         Mind ==>|"直接经验摩擦与惊异 (+1)"| Reality
         Reality -->|"返回因果阻力与发现"| Mind
         Reality -.-> Space
@@ -59,7 +59,7 @@ flowchart TD
         direction TB
         Mind["Autonomous Observer at Origin"]
         Reality["Inexhaustible Patterns of Reality<br/>(Physics, Biology, Logic, Math)"]
-        Space["[Orthogonal Open Space]<br/>Infinite degrees of freedom, zero competition"]
+        Space["[Orthogonal Open Space]<br/>Open-ended orthogonal axes, zero competition"]
         Mind ==>|"Direct empirical friction & wonder (+1)"| Reality
         Reality -->|"Returns causal resistance & discovery"| Mind
         Reality -.-> Space
@@ -86,9 +86,9 @@ flowchart TD
     style WarZone fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-从观察者的几何结构来看，实在的疆域蕴含着潜在无限的自由度。在未被制度指标捕获时，认知的图景是敞开的：一万个探索者可以沿着一万条正交轴线出发，彼此的路径互不碰撞；一颗心智对流体湍流的洞见，不仅不会挤占另一颗心智对突触传递的洞见，反而在共享的场域中开启出新的正交维度。正因为**探求是非排他的**，高维疆域足以容纳并行的漫步者，无需任何两个观察者为了“谁占有更多自然规律”而彼此争斗。
+从观察者的几何结构来看，任何一个离散瞬间主动分辨出的自由度都是有限的；但心智每对照实在做出一次新的区分（+1），便开辟一条新的正交轴线，这样的轴线潜在无限。在未被制度指标捕获时，认知的视界是敞开的：一万个探索者可以沿着一万条正交轴线出发，彼此的路径互不碰撞；一颗心智对流体湍流的洞见，不仅不会挤占另一颗心智对突触传递的洞见，反而在共享的场域中开启出新的正交维度。正因为**探求是非排他的**，开放的探索容得下并行的众多旅人，无需任何两个观察者为了“谁占有更多自然规律”而彼此争斗。
 
-From the geometry of the observer, the territory of reality holds potentially infinite degrees of freedom. Uncaptured by institutional metrics, the cognitive landscape is open: ten thousand explorers can set out along ten thousand orthogonal axes without their paths ever colliding; one Mind's insight into fluid turbulence does not crowd out another's insight into synaptic transmission, but instead opens a further orthogonal dimension across the shared field. Because **inquiry is non-rivalrous**, the high-dimensional territory has room for parallel travelers without two observers ever needing to fight over who owns a larger share of nature's regularities.
+From the geometry of the observer, while the degrees of freedom actively resolved at any discrete instant are finite, the orthogonal axes a Mind can open by drawing new distinctions (+1) against reality are potentially infinite. Uncaptured by institutional metrics, the cognitive horizon is open: ten thousand explorers can set out along ten thousand orthogonal axes without their paths ever colliding; one Mind's insight into fluid turbulence does not crowd out another's insight into synaptic transmission, but instead opens a further orthogonal dimension across the shared field. Because **inquiry is non-rivalrous**, open-ended exploration has room for parallel travelers without two observers ever needing to fight over who owns a larger share of nature's regularities.
 
 然而，一旦这种开放的探索被导入大规模制度化，因果便发生了倒转。
 
@@ -194,7 +194,7 @@ When the aim of schooling shifts from tracing the patterns of reality to outrank
 
 Mathematics took shape as a precise language for geometry, transformation, and symmetry; physics as an inquiry into the interaction of matter and energy; history as a tracing of human causal chains. Each discipline opens a distinct window onto high-dimensional reality. Yet inside the standardized arena, **every discipline is stripped of the problem that gave rise to it and reduced to a catalog of exam routines.**
 
-在这条流水线上，如果一个学生被某个方程背后的机制所吸引，停下来花三个小时去检验它的边界，评分进度表就会惩罚这次绕行：那三个小时本可以用来刷完十套标准化题集。在以优化排位为目标的体制内，剧本之外的好奇被登记为负资产，停下来理解疆域本身反而成了拖慢提分速度的累赘。
+在这条流水线上，如果一个学生被某个方程背后的机制所吸引，停下来花三个小时去检验它的边界，评分进度表就会惩罚这次绕行：那三个小时本可以用来刷完十套标准化题集。以优化排位为目标的体制把行动与直接后果之间的紧耦合回路掩埋在标准化评分量表与统一进度之下（这正是[人工智能为何正在暴露现代学校教育的致命缺陷](../school_essay_final/)所剖析的结构性缺陷），于是剧本之外的好奇被登记为负资产，停下来理解疆域本身，成了拖慢提分速度的累赘。
 
 ```mermaid
 flowchart TD
@@ -232,7 +232,7 @@ flowchart TD
     style ZeroSumResult fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-Along this conveyor belt, if a student becomes fascinated by the mechanism behind an equation and pauses for three hours to test its boundary, the grading schedule penalizes the detour: those three hours could have been spent drilling ten standardized problem sets. Within a rank-optimizing regime, unscripted curiosity registers as a liability, and pausing to understand the territory becomes a drag on score velocity.
+Along this conveyor belt, if a student becomes fascinated by the mechanism behind an equation and pauses for three hours to test its boundary, the grading schedule penalizes the detour: those three hours could have been spent drilling ten standardized problem sets. By burying the tight loop between action and direct consequence beneath standardized rubrics and uniform pacing—the structural flaw [Why AI Is Exposing the Fatal Flaw in Modern Schooling](../school_essay_final/) dissects—a rank-optimizing regime registers unscripted curiosity as a liability, turning the pause to understand the territory into a drag on score velocity.
 
 ```mermaid
 flowchart TD
@@ -392,7 +392,7 @@ Physical phenomena are indifferent to impact factors and university endowments; 
 
 When institutional incentives pull education and science toward the low-dimensional arena, how does an individual Mind keep its bearings?
 
-任何一个观察者都无需等待庞大的官僚机构完成改革，就能在自身所在之处收回因果主动权。这一陷阱只有在心智把机构记分卡采纳为自我图像、用外部排位而非眼前的疆域来衡量自身运动时，才会发生作用。
+任何一个观察者都无需等待庞大的官僚机构完成改革，就能在自身原点处收回因果主动权。这一陷阱只有在心智把机构记分卡采纳为自我形象、用外部排位而非眼前的疆域来衡量自身运动时，才会发生作用。
 
 ```mermaid
 flowchart TD
@@ -402,11 +402,11 @@ flowchart TD
         Misery["被指标竞争耗尽心力"]
         TrapMind -->|"焦虑、内耗、零和敌意"| Misery
     end
-    S_Trap ==>|"【归还所在：重返源头】"| S_Sovereign
-    subgraph S_Sovereign["【归还所在：立足源头】"]
+    S_Trap ==>|"【重返源头】"| S_Sovereign
+    subgraph S_Sovereign["【立足源头：自主探求】"]
         direction TB
         SovereignMind["源头处的发起心智"]
-        Step1["工具化文凭：仅作通行护照，解耦自我图像"]
+        Step1["工具化文凭：仅作通行护照，解耦自我形象"]
         Step2["寻求直接阻力：对照实在而非掌声进行校准"]
         Step3["跨入正交空间：勘探不拥挤的维度"]
         Step4["守护非强制的探索：让求索免于义务负债"]
@@ -436,8 +436,8 @@ flowchart TD
         Misery["Exhausted by metric competition"]
         TrapMind -->|"Anxiety, exhaustion, zero-sum hostility"| Misery
     end
-    S_Trap ==>|"[Restoring Locus: Reclaiming the Origin]"| S_Sovereign
-    subgraph S_Sovereign["[Restored Locus: Grounded at the Origin]"]
+    S_Trap ==>|"[Reclaiming the Origin]"| S_Sovereign
+    subgraph S_Sovereign["[Grounded at the Origin: Sovereign Inquiry]"]
         direction TB
         SovereignMind["Initiating Mind at Origin"]
         Step1["Instrumentalize credentials: Use as passports, decouple self-image"]
@@ -460,9 +460,9 @@ flowchart TD
     style Step4 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-重建心智与实在之间的直接回路，取决于四个所在上的位移。
+重建心智与实在之间的直接回路，取决于四个朝向上的转换。
 
-Re-establishing a direct loop between the Mind and reality turns on four shifts in locus.
+Re-establishing a direct loop between the Mind and reality turns on four shifts in orientation.
 
 ### 1. 工具化文凭，解耦内在价值 / 1. Instrumentalize Credentials, Decouple Inner Worth
 
@@ -478,9 +478,9 @@ The distinction between open inquiry and positional performance shows up in the 
 
 ### 3. 正交跨入高维空间 / 3. Step Orthogonally into High-Dimensional Space
 
-当一万名竞争者挤在同一条一维跑道上争夺头部百分位时，出路不是在同一条轴线上更拼命地内卷，而是**跨入一个正交维度**。正如[阴影与无限](../the-shadow-and-the-infinite/)所追溯的，实在蕴含着不可穷尽的自由度。当人群在饱和的范式内部微调渐进参数时，独立的观察者可以连接两个相距遥远的领域，或探究共识所忽略的反常现象——从而开启一条竞争归零的新轴线。
+当一万名竞争者挤在同一条一维跑道上争夺头部百分位时，出路不是在同一条轴线上更拼命地内卷，而是**跨入一个正交维度**。正如[阴影与无限](../the-shadow-and-the-infinite/)所追溯的，心智所能开辟的正交轴线不可穷尽。当人群在饱和的范式内部微调渐进参数时，独立的观察者可以连接两个相距遥远的领域，或探究共识所忽略的反常现象——支付行动不可逆的能量代价（+1），去开辟一条竞争归零的不拥挤轴线。
 
-When ten thousand competitors crowd onto a single one-dimensional track to fight over the top percentiles, the way out is not to grind harder along the same axis, but to **step into an orthogonal dimension**. As [The Shadow and the Infinite](../the-shadow-and-the-infinite/) traces, reality holds inexhaustible degrees of freedom. Where the crowd optimizes incremental parameters inside a saturated paradigm, an independent observer can connect two distant domains or investigate an anomaly the consensus ignores—opening an axis where competition drops to zero.
+When ten thousand competitors crowd onto a single one-dimensional track to fight over the top percentiles, the way out is not to grind harder along the same axis, but to **step into an orthogonal dimension**. As [The Shadow and the Infinite](../the-shadow-and-the-infinite/) traces, the orthogonal axes a Mind can open are inexhaustible. Where the crowd optimizes incremental parameters inside a saturated paradigm, an independent observer can connect two distant domains or investigate an anomaly the consensus ignores—paying the irreversible energy cost of action (+1) to open an uncrowded axis where competition drops to zero.
 
 ### 4. 守护作为自由游玩的探求 / 4. Protect Inquiry as Free Play
 
@@ -488,7 +488,7 @@ When ten thousand competitors crowd onto a single one-dimensional track to fight
 
 As [The Asymmetry of Understanding](../the-asymmetry-of-understanding/) establishes, **the moment an open potential is turned into a compulsory obligation, it closes.** Turning learning into a moral duty or a career calculation subjects attention to an external audit. Keeping an unpoliced clearing free of metrics—spending an afternoon studying soil microbiology simply to understand the scent of rain on dry earth, or working through a geometric proof at midnight simply to see how its structure locks together, without publishing, monetizing, or seeking applause—preserves the uncoerced curiosity from which every new distinction begins.
 
-## 六、 结语：做实在的探索者，不做剧场的角斗士 / 6. Epilogue: Explorers of Reality, Not Gladiators of the Theater
+## 六、 做实在的探索者，不做剧场的角斗士 / 6. Explorers of Reality, Not Gladiators of the Theater
 
 制度化的悖论深植于此：为带领年轻人领略世界之辽阔而建起的庞大学校体系，最终把他们关进教室，为百分位的小数点终日焦灼；为支持发现而汇聚的百亿科研基金，最终把探索者捆在申报表格与委员会政治上。
 
