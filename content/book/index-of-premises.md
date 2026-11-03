@@ -1109,9 +1109,9 @@ Extended cognition argues external artifacts form part of the mind; useful for a
 ### 证伪主义 / Falsificationism
 `哲学 / Philosophical`
 
-证伪主义主张理论只能被反驳、不能被最终证实，在把判断放到能被推翻的位置上时有用；它在此到了边界：每次检验都晚于它所针对的过程一步，方法本身因此可修正，被拿来解释掉反面证据或驳倒对方以证明自己时，它就成了结案的工具。
+证伪主义主张理论只能被反驳、不能被最终证实，在把判断放到能被推翻的位置上时有用；它在此到了边界：每次检验都晚于它所针对的过程一步，方法本身因此可修正，无论是借解释掉反面证据来规避证伪，还是借驳倒对方来证明自己而误用证伪，都会把它所针对的开放过程当成已结的案子合上。
 
-Falsificationism holds that theories can be refuted but never finally confirmed, which is of use in placing a judgment where it can be overturned; it reaches its boundary in that each test lags the process it targets, so the method itself stays revisable, and once it is used to explain away counterevidence or to refute opponents as self-proof it becomes a tool for closing the case.
+Falsificationism holds that theories can be refuted but never finally confirmed, which is of use in placing a judgment where it can be overturned; it reaches its boundary in that each test lags the process it targets, so the method itself stays revisable, and whether it is evaded by explaining away counterevidence or misused by refuting opponents as self-proof, the open process it addresses is closed into a settled case.
 
 → [关于归因 / On Attribution](../../posts/guan-yu-gui-yin/) · [从形式迷思到逻辑闭环 / From the Myth of Form to the Closed Loop of Logic](../../posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan/) · [能动性与模式 / Agency and the Pattern](../../posts/agency-and-the-pattern/)
 
@@ -3388,9 +3388,9 @@ Treating physical laws, markets, evolution and simulations as independent, top-d
 ### 中国制造成就特斯拉与苹果 / Made-in-China Explanation of Tesla and Apple Success
 `经济 / Economic`
 
-把成功归于上海建厂或中国制造，假定单一显眼节点能解释成功，在指出制造环节的真实贡献时有用；它在此到了边界：事实呈现的是相互成就，产品定义与决策质量先于制造环节。
+把成功归于上海建厂或中国制造，假定单一显眼节点能解释成功，在指出制造环节的真实贡献时有用；它在此到了边界：扭曲更少的说法是相互成就，产品定义与决策质量决定了造什么，制造环节实现了规模、成本效率与供应链弹性。
 
-Crediting Shanghai factories or Chinese manufacturing assumes one salient node explains success, which is of use in pointing to manufacturing's real contribution; it reaches its boundary in that the record shows mutual enablement, with product definition and decision quality preceding manufacturing.
+Crediting Shanghai factories or Chinese manufacturing assumes one salient node explains success, which is of use in pointing to manufacturing's real contribution; it reaches its boundary in that the less distorted account is mutual enablement, where product definition and decision quality determine what is built while manufacturing realizes scale, cost efficiency, and supply-chain elasticity.
 
 → [关于归因 / On Attribution](../../posts/guan-yu-gui-yin/)
 
