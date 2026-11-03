@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-03T13:01:21.884Z",
+    "generated_at": "2026-11-03T14:25:27.975Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -27,12 +27,12 @@
       "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "2217ee5fe5b3",
       "content/posts/amplification-paradox.md": "a275c141a687",
       "content/posts/an-observation-by-its-own-standard.md": "1d44b8371330",
-      "content/posts/architecture-of-recursive-distinction.md": "1c00927c5010",
+      "content/posts/architecture-of-recursive-distinction.md": "bc11baadb09a",
       "content/posts/better-than-free-after-the-checklist-closes.md": "d39b1b10df08",
       "content/posts/beyond-the-hundred-trillion-horizon.md": "3c63e3e17823",
       "content/posts/beyond-the-projection.md": "78576807063b",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "db1b5db3be64",
-      "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md": "71b9bb7f431d",
+      "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md": "5918317b1cbf",
       "content/posts/causality-all-the-way.md": "08a8a20f59ec",
       "content/posts/causality-and-the-irreducible-prior.md": "c26acfab7c66",
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "3216bed66187",
@@ -120,10 +120,10 @@
       "content/posts/intelligence-folding-back-on-itself.md": "f36f2690c329",
       "content/posts/intelligence-traps-itself.md": "533c6e1e356a",
       "content/posts/judgment-is-not-a-stock.md": "9526af861c78",
-      "content/posts/learned-boundaries-and-the-given-rate.md": "d8f079f2ed1d",
+      "content/posts/learned-boundaries-and-the-given-rate.md": "f556b3f1d50b",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "b5bfd1bca0dc",
       "content/posts/looping-and-graphing.md": "0eb59f1b7f4a",
-      "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "6aede1374cdd",
+      "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "9523f080d940",
       "content/posts/lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun.md": "ed8ae49b479f",
       "content/posts/machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence.md": "9eeba4ce94c6",
       "content/posts/manifesto-of-not-a-theory-of-everything.md": "2923afdf340b",
@@ -261,7 +261,7 @@
       "content/posts/the-fallacy-of-post-success-parenting.md": "a33a3eabb00c",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "204ffca3c19c",
       "content/posts/the-fixed-image-of-transcendence.md": "c2123525af2c",
-      "content/posts/the-fixed-map-and-the-repeated-trip.md": "fd1fa9a0e38e",
+      "content/posts/the-fixed-map-and-the-repeated-trip.md": "ba553eb8af02",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "d3d47cfe2abd",
       "content/posts/the-flywheel-of-the-mind.md": "5240f6ab72ca",
       "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "9c8e728ed2cb",
@@ -269,7 +269,7 @@
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "1f120023244d",
       "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "5b3957b27316",
       "content/posts/the-freedom-of-will-to-deny-itself.md": "1f8dd4fcdafe",
-      "content/posts/the-frozen-cut-and-the-margin-of-the-loop.md": "920d68678747",
+      "content/posts/the-frozen-cut-and-the-margin-of-the-loop.md": "ec04dfa42dd6",
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "d3f0748dc9cb",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "f03fcc2f0221",
       "content/posts/the-generative-contradiction.md": "8b94f1d0868b",
@@ -305,7 +305,7 @@
       "content/posts/the-irreducible-observer.md": "21f9ad761568",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "883cbb67e220",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "ff064e746f65",
-      "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "a70cfaac3e3e",
+      "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "2eb5245e590b",
       "content/posts/the-ledger-of-the-unencountered.md": "ffcdbfc26a69",
       "content/posts/the-limitation-is-doing-work.md": "45a70cb31cb7",
       "content/posts/the-living-context.md": "8d42e5a0f3f0",
@@ -398,7 +398,7 @@
       "content/posts/therapy-opens-the-feedback-loop.md": "fef94840ad77",
       "content/posts/time-is-causality-not-a-dimension.md": "bcd28712180f",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "8b7996bdb4d5",
-      "content/posts/tokens-and-the-observational-boundary.md": "bca97aa871de",
+      "content/posts/tokens-and-the-observational-boundary.md": "dd32c2115f80",
       "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "9d994611d450",
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "91487ce48c58",
       "content/posts/trusting-the-reader-is-the-last-overstep.md": "4fa6d46f4306",
@@ -453,10 +453,10 @@
     },
     "stats": {
       "posts": 426,
-      "edges": 13020,
-      "unique_directed": 6404,
+      "edges": 13036,
+      "unique_directed": 6412,
       "missing_targets": 0,
-      "one_way": 1212,
+      "one_way": 1206,
       "isolated": 0,
       "posts_with_outbound": 426,
       "book_pages": 16,
@@ -1162,15 +1162,16 @@
       "slug": "architecture-of-recursive-distinction",
       "path": "content/posts/architecture-of-recursive-distinction.md",
       "title": "递归区分的架构 / The Architecture of Recursive Distinction",
-      "hash": "1c00927c5010",
+      "hash": "bc11baadb09a",
       "in_degree": 15,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "the-continuum-is-a-modeling-convenience",
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "the-frozen-cut-and-the-margin-of-the-loop",
         "dimensions-are-projections",
         "what-information-is",
+        "the-blind-cut-and-the-naming-mind",
         "precision-and-resolution",
         "learned-boundaries-and-the-given-rate",
         "the-descent-that-doesnt-know-where-its-going",
@@ -1293,13 +1294,14 @@
       "slug": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
       "path": "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md",
       "title": "递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems",
-      "hash": "71b9bb7f431d",
+      "hash": "5918317b1cbf",
       "in_degree": 20,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "no-system-can-be-kept-closed",
         "residual-control-recedes-to-the-edge",
         "architecture-of-recursive-distinction",
+        "the-blind-cut-and-the-naming-mind",
         "looping-and-graphing",
         "on-demand-contexts-keep-coherence-at-one-step",
         "dynamic-resnet-of-skill-loops",
@@ -3763,13 +3765,14 @@
       "slug": "learned-boundaries-and-the-given-rate",
       "path": "content/posts/learned-boundaries-and-the-given-rate.md",
       "title": "学到的边界与给定的尺度 / Learned Boundaries and the Given Rate",
-      "hash": "d8f079f2ed1d",
+      "hash": "f556b3f1d50b",
       "in_degree": 17,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "precision-and-resolution",
         "tokens-and-the-observational-boundary",
         "the-frozen-cut-and-the-margin-of-the-loop",
+        "the-blind-cut-and-the-naming-mind",
         "on-demand-contexts-keep-coherence-at-one-step",
         "a-living-external-cortex",
         "when-malfunction-is-scored-as-intelligence",
@@ -3849,13 +3852,14 @@
       "slug": "lossless-knowledge-of-an-open-field-is-incoherent",
       "path": "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md",
       "title": "开放场域中的无损知识不自洽 / Lossless Knowledge of an Open Field Is Incoherent",
-      "hash": "6aede1374cdd",
+      "hash": "9523f080d940",
       "in_degree": 29,
-      "out_degree": 29,
+      "out_degree": 30,
       "links_out": [
         "the-knowledge-problem-and-the-illusion-of-delegation",
         "the-scaling-loop",
         "what-information-is",
+        "the-blind-cut-and-the-naming-mind",
         "distillation-compression-agency",
         "the-fixed-map-and-the-repeated-trip",
         "intelligence-belongs-only-to-the-mind",
@@ -6630,7 +6634,7 @@
       "path": "content/posts/the-blind-cut-and-the-naming-mind.md",
       "title": "盲目的切分与命名的心智 / The Blind Cut and the Naming Mind",
       "hash": "5d1da39f48d6",
-      "in_degree": 0,
+      "in_degree": 8,
       "out_degree": 14,
       "links_out": [
         "tokens-and-the-observational-boundary",
@@ -7718,9 +7722,9 @@
       "slug": "the-fixed-map-and-the-repeated-trip",
       "path": "content/posts/the-fixed-map-and-the-repeated-trip.md",
       "title": "固定地图与重复的行程 / The Fixed Map and the Repeated Trip",
-      "hash": "fd1fa9a0e38e",
+      "hash": "ba553eb8af02",
       "in_degree": 13,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "dimensions-are-projections",
@@ -7728,6 +7732,7 @@
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
         "what-information-is",
         "the-ladder-of-abstraction-and-the-executable-entity",
+        "the-blind-cut-and-the-naming-mind",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
         "context-engineering-essay",
         "continuous-learning-as-expression-and-simulation",
@@ -7915,13 +7920,14 @@
       "slug": "the-frozen-cut-and-the-margin-of-the-loop",
       "path": "content/posts/the-frozen-cut-and-the-margin-of-the-loop.md",
       "title": "冻结的切口与回环的余量 / The Frozen Cut and the Margin of the Loop",
-      "hash": "920d68678747",
+      "hash": "ec04dfa42dd6",
       "in_degree": 3,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "tokens-and-the-observational-boundary",
         "not-a-theory-of-everything",
         "learned-boundaries-and-the-given-rate",
+        "the-blind-cut-and-the-naming-mind",
         "precision-and-resolution",
         "openness-is-consistency",
         "architecture-of-recursive-distinction",
@@ -8779,13 +8785,14 @@
       "slug": "the-ladder-of-abstraction-and-the-executable-entity",
       "path": "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md",
       "title": "抽象的阶梯与可执行的实体 / The Ladder of Abstraction and the Executable Entity",
-      "hash": "a70cfaac3e3e",
+      "hash": "2eb5245e590b",
       "in_degree": 10,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "climbing-does-not-leave-the-ground",
         "po-chu-gai-nian-de-jian-yue",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+        "the-blind-cut-and-the-naming-mind",
         "the-fixed-map-and-the-repeated-trip",
         "boletus-compute-storm-and-promethean-fire",
         "the-model-never-becomes-a-second-edge",
@@ -11169,14 +11176,15 @@
       "slug": "tokens-and-the-observational-boundary",
       "path": "content/posts/tokens-and-the-observational-boundary.md",
       "title": "词元与观测边界 / Tokens and the Observational Boundary",
-      "hash": "bca97aa871de",
+      "hash": "dd32c2115f80",
       "in_degree": 4,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "the-scaffolding-we-forget",
         "humans-tokens-and-the-scope-of-valuation",
         "the-ladder-of-abstraction-and-the-executable-entity",
         "learned-boundaries-and-the-given-rate",
+        "the-blind-cut-and-the-naming-mind",
         "the-cut-moves-but-never-vanishes",
         "the-boundary-of-perception-and-the-infinity-of-understanding",
         "consciousness-ascription-and-the-quantum-cut",
@@ -15811,9 +15819,21 @@
     },
     {
       "from": "architecture-of-recursive-distinction",
+      "to": "the-blind-cut-and-the-naming-mind",
+      "rel": "points_to",
+      "label": "盲目的切分与命名的心智"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
       "to": "precision-and-resolution",
       "rel": "points_to",
       "label": "精度与分辨率"
+    },
+    {
+      "from": "architecture-of-recursive-distinction",
+      "to": "the-blind-cut-and-the-naming-mind",
+      "rel": "points_to",
+      "label": "The Blind Cut and the Naming Mind"
     },
     {
       "from": "architecture-of-recursive-distinction",
@@ -16651,9 +16671,21 @@
     },
     {
       "from": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+      "to": "the-blind-cut-and-the-naming-mind",
+      "rel": "points_to",
+      "label": "盲目的切分与命名的心智"
+    },
+    {
+      "from": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
       "to": "looping-and-graphing",
       "rel": "points_to",
       "label": "回环与成图"
+    },
+    {
+      "from": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+      "to": "the-blind-cut-and-the-naming-mind",
+      "rel": "points_to",
+      "label": "The Blind Cut and the Naming Mind"
     },
     {
       "from": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
@@ -33823,6 +33855,18 @@
     },
     {
       "from": "learned-boundaries-and-the-given-rate",
+      "to": "the-blind-cut-and-the-naming-mind",
+      "rel": "points_to",
+      "label": "盲目的切分与命名的心智"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
+      "to": "the-blind-cut-and-the-naming-mind",
+      "rel": "points_to",
+      "label": "The Blind Cut and the Naming Mind"
+    },
+    {
+      "from": "learned-boundaries-and-the-given-rate",
       "to": "on-demand-contexts-keep-coherence-at-one-step",
       "rel": "points_to",
       "label": "按需语境将融贯保持在一步"
@@ -34417,9 +34461,21 @@
     },
     {
       "from": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "to": "the-blind-cut-and-the-naming-mind",
+      "rel": "points_to",
+      "label": "盲目的切分与命名的心智"
+    },
+    {
+      "from": "lossless-knowledge-of-an-open-field-is-incoherent",
       "to": "what-information-is",
       "rel": "points_to",
       "label": "What Information Is"
+    },
+    {
+      "from": "lossless-knowledge-of-an-open-field-is-incoherent",
+      "to": "the-blind-cut-and-the-naming-mind",
+      "rel": "points_to",
+      "label": "The Blind Cut and the Naming Mind"
     },
     {
       "from": "lossless-knowledge-of-an-open-field-is-incoherent",
@@ -60703,6 +60759,12 @@
     },
     {
       "from": "the-fixed-map-and-the-repeated-trip",
+      "to": "the-blind-cut-and-the-naming-mind",
+      "rel": "points_to",
+      "label": "盲目的切分与命名的心智"
+    },
+    {
+      "from": "the-fixed-map-and-the-repeated-trip",
       "to": "what-information-is",
       "rel": "points_to",
       "label": "What Information Is"
@@ -60712,6 +60774,12 @@
       "to": "the-ladder-of-abstraction-and-the-executable-entity",
       "rel": "points_to",
       "label": "The Ladder of Abstraction and the Executable Entity"
+    },
+    {
+      "from": "the-fixed-map-and-the-repeated-trip",
+      "to": "the-blind-cut-and-the-naming-mind",
+      "rel": "points_to",
+      "label": "The Blind Cut and the Naming Mind"
     },
     {
       "from": "the-fixed-map-and-the-repeated-trip",
@@ -61885,6 +61953,12 @@
     },
     {
       "from": "the-frozen-cut-and-the-margin-of-the-loop",
+      "to": "the-blind-cut-and-the-naming-mind",
+      "rel": "points_to",
+      "label": "盲目的切分与命名的心智"
+    },
+    {
+      "from": "the-frozen-cut-and-the-margin-of-the-loop",
       "to": "precision-and-resolution",
       "rel": "points_to",
       "label": "精度与分辨率"
@@ -61894,6 +61968,12 @@
       "to": "learned-boundaries-and-the-given-rate",
       "rel": "points_to",
       "label": "Learned Boundaries and the Given Rate"
+    },
+    {
+      "from": "the-frozen-cut-and-the-margin-of-the-loop",
+      "to": "the-blind-cut-and-the-naming-mind",
+      "rel": "points_to",
+      "label": "The Blind Cut and the Naming Mind"
     },
     {
       "from": "the-frozen-cut-and-the-margin-of-the-loop",
@@ -67291,9 +67371,21 @@
     },
     {
       "from": "the-ladder-of-abstraction-and-the-executable-entity",
+      "to": "the-blind-cut-and-the-naming-mind",
+      "rel": "points_to",
+      "label": "盲目的切分与命名的心智"
+    },
+    {
+      "from": "the-ladder-of-abstraction-and-the-executable-entity",
       "to": "the-fixed-map-and-the-repeated-trip",
       "rel": "points_to",
       "label": "固定地图与重复的行程"
+    },
+    {
+      "from": "the-ladder-of-abstraction-and-the-executable-entity",
+      "to": "the-blind-cut-and-the-naming-mind",
+      "rel": "points_to",
+      "label": "The Blind Cut and the Naming Mind"
     },
     {
       "from": "the-ladder-of-abstraction-and-the-executable-entity",
@@ -83611,6 +83703,12 @@
     },
     {
       "from": "tokens-and-the-observational-boundary",
+      "to": "the-blind-cut-and-the-naming-mind",
+      "rel": "points_to",
+      "label": "盲目的切分与命名的心智"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
       "to": "the-ladder-of-abstraction-and-the-executable-entity",
       "rel": "points_to",
       "label": "The Ladder of Abstraction and the Executable Entity"
@@ -83620,6 +83718,12 @@
       "to": "learned-boundaries-and-the-given-rate",
       "rel": "points_to",
       "label": "Learned Boundaries and the Given Rate"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
+      "to": "the-blind-cut-and-the-naming-mind",
+      "rel": "points_to",
+      "label": "The Blind Cut and the Naming Mind"
     },
     {
       "from": "tokens-and-the-observational-boundary",
