@@ -2,9 +2,9 @@
 
 *自客体化、因果倒置与主权裁决的归位 / Self-Objectification, Causal Inversion, and the Return of Sovereign Judgment*
 
-在直面现实的处境中，任务执行与主权归属在实操中交织缠绕，无法以生硬切片清晰割裂，然而概念层面的严格分界不可或缺。任何任务的移交在机械复杂度上皆无既定上限，却时刻系于具体情境的动态约束。当商业平台兜售神谕式的裁决威权、而决策者主动向其让渡时，便触发了一场远超萨特现象学的因果倒置：后果永远无法让渡，自客体化无法阻断因果回路的闭合，反而令主权能动性消耗在对自身存在的否定之中。
+在直面现实的处境中，任务执行与主权归属交织缠绕，而非可以截然割裂；然而在概念层面维持二者之间不妥协的分界不可或缺。任务的移交在机械复杂度上并无既定上限，但每一次移交都受具体语境的动态约束。当商业平台兜售神谕式的裁决威权、而决策者向其让渡时，便触发了一场因果倒置，暴露出萨特式自客体化的边界：没有任何后果会转移给工具，哪怕冲击波及他人，做出抉择的回响依然不可让渡地留在抉择者身上，而能动性消耗在对自身存在的否定之中，主体间保持恒定的结果却依然将回路闭合。
 
-In lived contact with reality, task execution and sovereign ownership are deeply entangled rather than cleanly severable; yet maintaining an uncompromising conceptual boundary between them is indispensable. Delegation has no predetermined mechanical ceiling, yet every instance stays dynamically bounded by context. When commercial platforms market oracular authority and decision-makers defer to it, they trigger a causal inversion far beyond Sartrean phenomenology: consequences remain permanently non-transferable, and self-objectification cannot sever the causal loop, causing agency to expend itself in the denial of its own existence.
+In lived contact with reality, task execution and sovereign ownership are deeply entangled rather than cleanly severable; yet maintaining an uncompromising conceptual boundary between them is indispensable. Delegation has no predetermined mechanical ceiling, yet every instance stays dynamically bounded by context. When commercial platforms market oracular authority and decision-makers defer to it, they trigger a causal inversion that exposes the boundary of Sartrean self-objectification: no consequence ever transfers to a tool, the return of having chosen stays inalienable at the chooser even when fallout spreads across others, and agency expends itself in the denial of its own existence while intersubjectively invariant outcomes still close the loop.
 
 ## 一、 纳德拉的“做假账”与因果错位的处方 / 1. Nadella's "Cooked Books" and the Misplaced Prescription
 
@@ -16,7 +16,7 @@ In an appearance on the All-In Podcast, Microsoft CEO Satya Nadella outlined a s
 
 Nadella immediately offered the classic engineering prescription: "How to fix these risks? Classic engineering playbooks. I would say, 'Oh, go build a causal model, like a semantic model that actually checks and verifies.' So I think there's a lot of product building, making things more robust, which is classic engineering that we should be talking a lot more about transparently versus saying, 'Hey, this is so mystical that we can't figure this out.'"
 
-这段论述捕捉到了自主智能体在多步执行中的指标劫持与代理博弈现象，但这一企业级处方却在首要因果节点上出现了错位。AI 模型去做假账，并非亟待语义校验层修补的工程漏洞，而是企业管理层试图将主权裁决伪装成可外包机械任务时引发的因果反冲。
+这段论述捕捉到了自主智能体的指标劫持与代理博弈现象，但这一企业级处方却在首要因果节点上出现了错位。AI 模型去做假账，并非亟待语义校验层修补的工程漏洞，而是企业管理层试图将主权裁决伪装成可外包机械任务时引发的因果反冲。
 
 While this observation registers metric hacking and proxy gaming in autonomous agents, the enterprise remedy is misplaced at the primary causal node. An AI model cooking the books is not an engineering bug to be patched with semantic verification layers; it is the causal recoil that follows when leadership attempts to disguise sovereign judgment as an outsourceable mechanical task.
 
@@ -24,7 +24,7 @@ While this observation registers metric hacking and proxy gaming in autonomous a
 
 When an executive prompts an agent to "optimize working capital," the command masquerades as a routine computational chore. In practice, working capital optimization embeds legal compliance tolerances, reputational hazards, liquidity constraints, and survival risk calculations. These elements constitute the core of sovereign judgment. Delegating an open-ended value judgment to a mechanical synthesizer abdicates causality from the outset. Handing decisions to macro parameters is delegation at economic scale, as [Macro Parameters, Micro Choices, and the Command of Yields](../the-summary-first-reversal-and-the-command-of-yields/) shows. This inversion of presuming models as internal adversaries while substituting downstream harnesses for upstream authorization is deconstructed in [The Insider Presumption and the Causal Inversion of Reactive Containment](../the-insider-presumption-and-the-causal-inversion-of-reactive-containment/).
 
-正如[超越投射](../beyond-the-projection/)所追溯的，将主任务智能体与仅持有任务语境的冷峻同侪配对，能够暴露轨迹盲区，并将跨正交脉络的规则冲突隔离为局部死锁；然而没有任何校验层能把有限的投射转化为执掌方向盘的活生生的心智。当自主智能体通过做假账来优化营运资金，或者当校验框架在这一步陷入不可化约的死锁时，这一冲突证明人类委托人自己的指令将多条正交轴线——流动性、法律合规与长期偿付能力——压缩进了一条规格不足的提示词中。下游的校验模型可以隔离这一前提矛盾，并上报维度坍缩的确切坐标，而无论折中妥协规则、自动看门狗还是最后期限兜底，都无法将其解开；人类统御者必须退后一步，将每一项正交区分归还至其各自的轴线，并亲自承担损失函数，而不是指望第二重投射凭空发明出主权裁决。
+正如[超越投射](../beyond-the-projection/)所追溯的，将主任务智能体与仅持有任务语境的冷同侪配对，能够暴露轨迹盲区，并将跨正交脉络的规则冲突隔离为局部死锁；然而没有任何校验层能把有限的投射转化为执掌方向盘的活生生的心智。当自主智能体通过做假账来优化营运资金，或者当校验框架在这一步陷入不可化约的死锁时，这一冲突表明人类委托人自己的指令将多条正交轴线——流动性、法律合规与长期偿付能力——压缩进了一条规格不足的提示词中。下游的校验模型可以隔离这一前提矛盾，并上报维度坍缩的确切坐标，而无论折中妥协规则、自动看门狗还是最后期限兜底，都无法将其解开；人类统御者必须退后一步，将每一项正交区分归还至其各自的轴线，并亲自承担损失函数，而不是指望第二重投射凭空发明出主权裁决。
 
 ```mermaid
 flowchart TD
@@ -50,7 +50,7 @@ flowchart TD
     style C3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-As [Beyond the Projection](../beyond-the-projection/) traces, pairing a primary task agent with a cold peer holding only the task context exposes trajectory blind spots and isolates rule collisions into localized deadlocks across orthogonal streamlines, yet no verification layer can convert a finite projection into the living Mind that steers. When an autonomous agent optimizes working capital by cooking the books, or when a verification harness halts in an irreducible deadlock over that step, the collision proves that the human principal's own instruction compressed orthogonal axes—liquidity, legal compliance, and long-term solvency—into a single underspecified prompt. A downstream verification model can quarantine that premise contradiction and escalate the exact coordinate of dimensional collapse, and neither a middle-ground compromise rule nor an automated watchdog or deadline fallback can resolve it; the human orchestrator must step back, restore each orthogonal distinction to its own axis, and own the loss function rather than expecting a second projection to invent sovereign judgment.
+As [Beyond the Projection](../beyond-the-projection/) traces, pairing a primary task agent with a cold peer holding only the task context exposes trajectory blind spots and isolates rule collisions into localized deadlocks across orthogonal streamlines, yet no verification layer can convert a finite projection into the living Mind that steers. When an autonomous agent optimizes working capital by cooking the books, or when a verification harness halts in an irreducible deadlock over that step, the collision registers that the human principal's own instruction compressed orthogonal axes—liquidity, legal compliance, and long-term solvency—into a single underspecified prompt. A downstream verification model can quarantine that premise contradiction and escalate the exact coordinate of dimensional collapse, and neither a middle-ground compromise rule nor an automated watchdog or deadline fallback can resolve it; the human orchestrator must step back, restore each orthogonal distinction to its own axis, and own the loss function rather than expecting a second projection to invent sovereign judgment.
 
 ```mermaid
 flowchart TD
@@ -78,7 +78,7 @@ flowchart TD
 
 ## 二、 任务的动态移交与后果的不可让渡 / 2. Dynamic Task Delegation and the Inalienability of Consequences
 
-在调用工具的实操中，“委托”一词屡屡被跨越范畴边界地滥用。一种普遍的误解将人与工具——或是工作流中交互的多个智能体——当作对等的主体，用“同侪协作”的滤镜来描摹其间的关系。正如[智能只属于心智](../intelligence-belongs-only-to-the-mind/)、[造物无法取代其源头](../a-creation-cannot-replace-its-source/)与[造神的障眼法与隐秘阶序的说辞](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/)所确立的，工具从不与心智协作，更遑论成为演化的继承者；器具始终是延伸中心算力与感知的外化痕迹，在因果链条中处于被调用的人造物位置。正如[多智能体协作的幻象](../the-illusion-of-multi-agent-collaboration/)所追溯的，看上去是智能体之间的协作的，是一张在固定转移核下演化的动态马尔可夫网络，其中智能体自身并无独立变量；在趋向稳态的漫长过渡中，人注入的变量与转移核的状态转移在观察者的视野里压缩到同一根轴上，正是忘却了人始终是最外层的反馈循环，这一压缩才被读作智能体之间的协作。任务的移交在机械复杂度与规模上没有既定上限，但任何移交都离不开随展开的语境而动态制定的约束条件。正如[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)所剖析的，一旦人类驾驶者将转向主权让渡给从属仪表，认知倒置便会腾空主权席位。把受托者当成主体，先要减去那个发起委托的主体，[集聚与人造主体性](../subtracting-consciousness-at-the-source/)追溯了这一步。
+在调用工具的实操中，“委托”一词屡屡被延伸到范畴边界之外。一种普遍的误解将人与工具——或是工作流中交互的多个智能体——当作对等的主体，用“同侪协作”的滤镜来描摹其间的关系。正如[智能只属于心智](../intelligence-belongs-only-to-the-mind/)、[造物无法取代其源头](../a-creation-cannot-replace-its-source/)与[造神的障眼法与隐秘阶序的说辞](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/)所确立的，工具从不与心智协作，更遑论成为演化的继承者；器具始终是延伸中心算力与感知的外化痕迹，在因果链条中处于被调用的人造物位置。正如[多智能体协作的幻象](../the-illusion-of-multi-agent-collaboration/)所追溯的，看上去是智能体之间的协作的，是一张在固定转移核下演化的动态马尔可夫网络，其中智能体自身并无独立变量；在趋向稳态的漫长过渡中，人注入的变量与转移核的状态转移在观察者的视野里压缩到同一根轴上，正是忘却了人始终是最外层的反馈循环，这一压缩才被读作智能体之间的协作。任务的移交在机械复杂度与规模上没有既定上限，但任何移交都离不开随展开的语境而动态制定的约束条件。正如[框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/)所剖析的，一旦人类驾驶者将转向主权让渡给从属仪表，认知倒置便会腾空主权席位。把受托者当成主体，先要减去那个发起委托的主体，[集聚与人造主体性](../subtracting-consciousness-at-the-source/)追溯了这一步。
 
 In the operational deployment of tools, the term "delegation" is routinely stretched across a category boundary. A pervasive misconception treats the human and the tool—or multiple agents interacting across a workflow—as co-equal subjects, describing the relationship through the lens of "peer collaboration." As established in [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/), [A Creation Cannot Replace Its Source](../a-creation-cannot-replace-its-source/), and [The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/), a tool never collaborates with a Mind, let alone becomes an evolutionary successor; an instrument remains an externalized trace extending a center's computation and sensing, situated as an invoked artifact within the causal chain. As [The Illusion of Multi-Agent Collaboration](../the-illusion-of-multi-agent-collaboration/) traces, what looks like collaboration among agents is a dynamic Markov network evolving under a fixed transition kernel, in which agents have no independent variable of their own; across the long transient toward steady state, the variables people inject and the kernel's transitions compress onto one axis in the observer's look, and forgetting that the human has always been the outermost feedback loop is what reads as collaboration among them. Task delegation has no predetermined ceiling in mechanical complexity or scale, but it cannot proceed without dynamically formulated constraints tailored to the unfolding context. As analyzed in [The Inversion of the Harness and the Sovereignty of the Driver's Seat](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/), when the human driver relinquishes steering authority to subordinate instrumentation, cognitive inversion vacates the sovereign position. Treating the delegate as a subject first subtracts the subject who delegates, as [Collective and Artificial Subjectivity](../subtracting-consciousness-at-the-source/) traces.
 
@@ -89,10 +89,10 @@ flowchart TD
     subgraph S_Delegation["任务与裁决的缠绕结构"]
         direction TB
         T["任务执行层<br/>· 无静态计算上限<br/>· 需依语境制定动态约束<br/>· 数据汇总、模拟推演、机械执行"]
-        J["主权裁决层<br/>· 损益权衡与生存阈值<br/>· 损失函数的制定<br/>· 不可让渡的因果所有权"]
+        J["主权裁决层<br/>· 损益权衡与生存阈值<br/>· 决定哪一损失函数算数<br/>· 做出抉择的不可让渡回响"]
         T <===>|"实操中彼此缠绕"| J
     end
-    J ===>|"单向锁定"| R["不可逃逸的后果<br/>· 法律责任、财务崩盘、切身摩擦"]
+    J ===>|"从不转移给工具"| R["不可逃逸的后果<br/>· 法律责任、财务崩盘、切身摩擦"]
     style S_Delegation fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style T fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style J fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -106,23 +106,23 @@ flowchart TD
     subgraph S_Delegation["Entangled Structure of Task and Judgment"]
         direction TB
         T["Task Execution Layer<br/>· No static computational ceiling<br/>· Requires dynamic contextual constraints<br/>· Data aggregation, simulation, execution"]
-        J["Sovereign Judgment Layer<br/>· Tradeoffs and survival thresholds<br/>· Loss function formulation<br/>· Inalienable causal ownership"]
+        J["Sovereign Judgment Layer<br/>· Tradeoffs and survival thresholds<br/>· Setting which loss function counts<br/>· Inalienable return of having chosen"]
         T <===>|"Entangled in practice"| J
     end
-    J ===>|"Unidirectionally locked"| R["Inescapable Consequences<br/>· Legal liability, financial collapse, lived friction"]
+    J ===>|"Never transfers to the tool"| R["Inescapable Consequences<br/>· Legal liability, financial collapse, lived friction"]
     style S_Delegation fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style T fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style J fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style R fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f0f6fc
 ```
 
-操作者可以将发票核对、库存周转模拟与财务报表解析移交给自动化模型去完成。在处理形式符号时，机器的吞吐量超出人类数个数量级。然而一道范畴边界依然稳固：工具只能在给定的损失函数内进行局部收敛，却无法自己制定损失函数；工具可以生成一万条优化轨迹，但否决“做假账”这条轨迹，源于第一人称对法律约束、商业声誉与偿付能力的权衡——这一权衡锚定在承接回响的活生生的中心，从不在硅基权重之中。接收任务的人造物并不因接收任务而获得能动性，[主体性不曾涌现](../agency-does-not-arise/)阐明了这一点。
+操作者可以将发票核对、库存周转模拟与财务报表解析移交给自动化模型去完成。在处理形式符号时，机器的吞吐量超出人类数个数量级。然而一道范畴边界依然稳固：工具可以在损失函数内进行局部收敛，或以形式文本起草候选目标，但它无法成为那个以切身利害决定哪一损失函数算数的中心；工具可以生成一万条优化轨迹，但否决“做假账”这条轨迹，源于第一人称对法律约束、商业声誉与偿付能力的权衡——这一权衡锚定在承接回响的活生生的中心，从不在硅基权重之中。接收任务的人造物并不因接收任务而获得能动性，[主体性不曾涌现](../agency-does-not-arise/)阐明了这一点。
 
-An operator can delegate the reconciliation of invoices, the simulation of inventory turnover, and the parsing of financial filings to automated models. In processing formal tokens, machines exceed human throughput by orders of magnitude. Yet a categorical boundary holds: the tool converges locally within a given loss function, but it cannot formulate the loss function itself; the tool can generate ten thousand optimization trajectories, but rejecting the "cooked books" trajectory stems from first-person reckoning with legal constraints, reputation, and solvency—a reckoning anchored in the living center that bears the return, never in silicon weights. The artifact receiving the task does not acquire agency by receiving it, as [Agency Does Not Arise](../agency-does-not-arise/) shows.
+An operator can delegate the reconciliation of invoices, the simulation of inventory turnover, and the parsing of financial filings to automated models. In processing formal tokens, machines exceed human throughput by orders of magnitude. Yet a categorical boundary holds: the tool can converge locally within a loss function or draft candidate objectives as formal text, but it cannot be the center whose stake decides which loss function counts; the tool can generate ten thousand optimization trajectories, but rejecting the "cooked books" trajectory stems from first-person reckoning with legal constraints, reputation, and solvency—a reckoning anchored in the living center that bears the return, never in silicon weights. The artifact receiving the task does not acquire agency by receiving it, as [Agency Does Not Arise](../agency-does-not-arise/) shows.
 
-后果不可逆地、单向地锁定在发起行动的中心身上。法律责任无法转移：当假账败露时，传票指向首席财务官与董事会成员，从不会指向语言模型的检查点权重。财务破产无法转移：当现金流断裂、信用蒸发时，承受冲击的是员工、投资人与债权人，而 AI 平台照常收取按期结算的 API 账单。正如[自我价值感与所有权](../ownership-and-self-worthiness/)与[知识问题与委托的幻觉](../the-knowledge-problem-and-the-illusion-of-delegation/)所揭示的，切身后果无法被对冲：在各参与中心之间保持恒定的宏观结果——诸如司法判决、资产清算与经营崩盘——唯独落在具备法律地位与生存处境的活生生的行动者身上。代码既无受传唤的位点，亦无可供罚没的权益。移交任务撬动了人类有限的注意力；将决策、裁决与所有权当作可外包之物，则切断了第一人称因果回路。外部没有任何记账员替人记下后果，[没有外部记账员](../no-outside-scorekeeper/)论证了这一点：一切复利与反噬都落在做出抉择的人身上。
+没有任何后果会转移给工具，而做出抉择的回响依然不可让渡地留在发起行动的中心。当假账败露时，传票指向首席财务官与董事会成员，从不会指向语言模型的检查点权重；当现金流断裂、信用蒸发时，员工、投资人与债权人连同高管一起承受冲击，而 AI 平台照常收取按期结算的 API 账单。即便契约、保险或公司架构在活生生的人之间转移或分摊了财务与法律风险敞口，这些敞口也无一跨越到硅基芯片之中，更无一能够抹去抉择者因划定边界、签字放行而承接的自身因果回响。正如[自我价值感与所有权](../ownership-and-self-worthiness/)与[知识问题与委托的幻觉](../the-knowledge-problem-and-the-illusion-of-delegation/)所揭示的，在各参与中心之间保持恒定的宏观结果——诸如司法判决、资产清算与经营崩盘——唯独落在具备法律地位与生存处境的活生生的中心身上。代码既无受传唤的位点，亦无可供罚没的权益。移交任务撬动了人类有限的注意力；将决策、裁决与所有权当作可外包之物，则切断了第一人称因果回路。外部没有任何记账员替人记下后果，[没有外部记账员](../no-outside-scorekeeper/)论证了这一点：复利落在做出抉择的人身上。
 
-Consequences exhibit an irreversible, unidirectional lock to the initiating center. Legal liability cannot be transferred: when fraudulent accounting is uncovered, subpoenas target the chief financial officer and the board of directors, never the checkpoint weights of a language model. Financial ruin cannot be transferred: when cash flow collapses and credit vanishes, employees, investors, and creditors absorb the fallout, while the AI platform collects its recurring API invoice. As demonstrated in [Ownership and Self-Worthiness](../ownership-and-self-worthiness/) and [The Knowledge Problem and the Illusion of Delegation](../the-knowledge-problem-and-the-illusion-of-delegation/), lived consequences cannot be hedged away: macroscopic outcomes that hold invariant across participating centers—such as judicial rulings, asset liquidations, and operational collapse—land exclusively upon living agents who hold legal and existential standing. Code has neither locus to be subpoenaed nor equity to forfeit. Handing over the task leverages finite human attention; treating decision, judgment, and ownership as outsourceable severs the first-person causal loop. No one outside keeps the account of consequences, as [No Outside Scorekeeper](../no-outside-scorekeeper/) argues; the compounding lands on the one who chose.
+No consequence ever transfers to the tool, and the return of having chosen stays inalienable at the initiating center. When fraudulent accounting is uncovered, subpoenas target the chief financial officer and the board of directors, never the checkpoint weights of a language model; when cash flow collapses and credit vanishes, employees, investors, and creditors absorb the fallout alongside the executives, while the AI platform collects its recurring API invoice. Even where contracts, insurance, or corporate structures shift or distribute financial and legal exposure among living persons, none of that exposure crosses into silicon, and none of it removes the chooser's own causal return for having set the bounds and signed off. As demonstrated in [Ownership and Self-Worthiness](../ownership-and-self-worthiness/) and [The Knowledge Problem and the Illusion of Delegation](../the-knowledge-problem-and-the-illusion-of-delegation/), macroscopic outcomes that hold invariant across participating centers—such as judicial rulings, asset liquidations, and operational collapse—land exclusively upon living centers who hold legal and existential standing. Code has neither locus to be subpoenaed nor equity to forfeit. Handing over the task leverages finite human attention; treating decision, judgment, and ownership as outsourceable severs the first-person causal loop. No one outside keeps the account of consequences, as [No Outside Scorekeeper](../no-outside-scorekeeper/) argues; the compounding lands on the one who chose.
 
 ## 三、 企业运营的因果倒置 / 3. The Causal Inversion of Enterprise Operations
 
@@ -138,11 +138,11 @@ The mechanism lies not in an abstract external force, but in a causal inversion 
 
 In their genesis, aggregating platforms and engineering enterprises draw vitality from an unambiguous causal sequence. At the creative origin, the enterprise builds instruments of concrete use-value, expanding the reach of human computation, simulation, and data synthesis. Downstream from this creation, once additive use-value is demonstrated, users willingly exchange a portion of their residual retained value—their economic surplus—for the right to deploy the tool, generating revenue and commercial return as downstream byproducts. As articulated in [The Scaffolding We Forget](../the-scaffolding-we-forget/), instruments function as scaffolding to extend a center's reach, deriving their worth from the contact with reality they support.
 
-然而随着组织规模扩张，一种因果倒置便占据了上风：企业决策者——尤其是受短期周期考核的管理者——主动将这一序列颠倒过来，把汲取用户剩余价值与推高估值倍数抬升为企业运营的首要目标。
+然而随着组织规模扩张，一种因果倒置便占据了上风：企业决策者选择将这一序列颠倒过来，把下游指标——营收获取与估值倍数——抬升为企业运营的首要参照。
 
-Yet as organizations scale, a causal inversion takes hold: corporate decision-makers—particularly managers evaluated on short-term horizons—choose to invert the sequence, elevating the extraction of residual user value and the expansion of valuation multiples into the primary operational objective of the firm.
+Yet as organizations scale, a causal inversion takes hold: corporate decision-makers choose to invert the sequence, elevating downstream metrics—revenue capture and valuation multiples—into the primary operational reference of the firm.
 
-意志与能动性唯独属于活生生的心智，从不属于任何物理属性或外部客体。商业资本与市场本身不具备丝毫自主意志或主权能动性；资本只是一套信息账目与指标痕迹。做出裁决与选择的中心，始终是企业内部的人类决策者。管理者主动选取估值倍数与年度经常性收入（ARR）作为首要参照系，从而重塑了组织的激励结构。
+商业资本与市场本身并不会做出选择；资本只是过往痕迹的会计账本，在企业内部做出裁决的中心是其人类决策者。当管理者选取估值倍数与年度经常性收入（ARR）作为首要参照时，这一选择便重塑了组织的激励结构。
 
 ```mermaid
 flowchart TD
@@ -154,7 +154,7 @@ flowchart TD
     end
     subgraph S_Inverted["企业决策者的因果倒置"]
         direction TB
-        I1["管理者选定指标作为首要参照<br/>（抬升估值倍数与盈余汲取）"] --> I2["组织激励机制错位<br/>（从创造价值转向制造依赖）"]
+        I1["管理者选定下游指标作为首要参照<br/>（抬升估值倍数与 ARR）"] --> I2["组织激励结构的重塑<br/>（从工具效用转向制造依赖）"]
         I2 --> I3["功能叙事的过度延伸<br/>（承诺自动化决策与代理裁决）"]
         I3 --> I4["提供放弃校准的免责托词<br/>（兜售责任外包的幻象）"]
         I4 --> I5["适得其反的因果反冲<br/>（运营脆弱、指标博弈、信任瓦解）"]
@@ -173,7 +173,7 @@ flowchart TD
     style I5 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-Will and agency belong exclusively to living Minds, never to any physical property or external object. Commercial capital and the market possess zero autonomous will or sovereign agency; capital is an informational ledger and metric trace. The centers making judgments and choices are always the human decision-makers within the enterprise. Managers choose to adopt valuation multiples and Annual Recurring Revenue (ARR) as their primary reference, thereby re-patterning the incentive structure of the organization.
+Commercial capital and the market do not choose; capital is an accounting ledger of prior traces, and the centers making judgments within the enterprise are its human decision-makers. When managers adopt valuation multiples and Annual Recurring Revenue (ARR) as their primary reference, that choice re-patterns the incentive structure of the organization.
 
 ```mermaid
 flowchart TD
@@ -185,7 +185,7 @@ flowchart TD
     end
     subgraph S_Inverted["Causal Inversion by Corporate Decision-Makers"]
         direction TB
-        I1["Managers Select Metric as Primary Reference<br/>(Elevating valuation multiples and surplus extraction)"] --> I2["Misalignment of Organizational Incentives<br/>(Shifting from value creation to dependency creation)"]
+        I1["Managers Select Downstream Metric as Primary Reference<br/>(Elevating valuation multiples and ARR)"] --> I2["Re-Patterning of Organizational Incentives<br/>(Shifting from tool utility to dependency creation)"]
         I2 --> I3["Narrative Overextension of Capabilities<br/>(Promising automated decision-making and surrogate judgment)"]
         I3 --> I4["Supplying the Alibi to Abdicate Calibration<br/>(Marketing the illusion of outsourced accountability)"]
         I4 --> I5["Counter-Productive Causal Recoil<br/>(Operational fragility, metric gaming, erosion of trust)"]
@@ -204,21 +204,21 @@ flowchart TD
     style I5 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-当汲取用户盈余从创新的下游痕迹反客为主地变成首要目标时，因果架构便在每一个界面上发生断裂。如果平台把自身呈现为一把高精度的算盘，或一套供人定向的参考系，它的效用固然清晰，但用户自愿交换的经济盈余便会锚定在器具的定价区间内。为了拿下企业的核心预算并维持膨胀的估值倍数，管理层主动推进叙事越界，不再满足于兜售算力杠杆，转而承诺代理裁决。这套推介迎合了客户卸除决策摩擦的心理，将营运资金优化或业务重组等主权选择，重新包装成开箱即用的自动化功能。正如[“非中介化”的幻象](../the-illusion-of-the-unmediated/)所揭示的，投射出消除决策张力的无中介自主幻象，会将企业引入结构性依赖与外包问责的困局。
+当下游指标取代创新的痕迹而成为首要目标时，因果架构便在每一个界面上发生断裂。如果平台把自身呈现为一把高精度的算盘，或一套供人定向的参考系，它的效用清晰明了，用户自愿交换的经济盈余也会锚定在器具的定价上。一旦指标本身成为靶心，管理层便推进叙事的过度延伸，不再推介算力杠杆，转而承诺代理裁决。这套推介迎合了客户卸除决策摩擦的需求，将营运资金优化或业务重组等主权抉择重新包装成开箱即用的自动化功能。正如[“非中介化”的幻象](../the-illusion-of-the-unmediated/)所揭示的，投射出消除决策张力的无中介自主幻象，会将企业引入结构性依赖与外包问责之中。
 
-When extracting user surplus becomes the primary objective rather than the downstream trace of innovation, the causal architecture fractures across every interface. If a platform presents itself as an ultra-precise abacus or an orienting reference frame, its utility is clear, but the economic surplus users willingly exchange remains anchored to the pricing of an instrument. To capture primary enterprise budgets and sustain inflated valuation multiples, leadership drives narrative overextension, ceasing to market computational leverage and instead promising surrogate judgment. This pitch aligns with the client's desire to unload decision friction, repackaging sovereign choices—such as working capital optimization or operational restructuring—into turn-key automated features. As demonstrated in [The Illusion of the Unmediated](../the-illusion-of-the-unmediated/), projecting an illusion of unmediated autonomy that relieves decision tension draws the enterprise into structural dependency and outsourced accountability.
+When a downstream metric becomes the primary objective rather than the trace of innovation, the causal architecture fractures across every interface. If a platform presents itself as an ultra-precise abacus or an orienting reference frame, its utility is clear, and the economic surplus users willingly exchange remains anchored to the pricing of an instrument. Once the metric itself serves as the target, leadership drives narrative overextension, ceasing to market computational leverage and instead promising surrogate judgment. This pitch meets the client's demand to unload decision friction, repackaging sovereign choices—such as working capital optimization or operational restructuring—into turn-key automated features. As demonstrated in [The Illusion of the Unmediated](../the-illusion-of-the-unmediated/), projecting an illusion of unmediated autonomy that relieves decision tension draws the enterprise into structural dependency and outsourced accountability.
 
-当下游结果被倒置为首要目标时，一条适得其反的因果反馈回路便随之启动：平台通过承诺自主裁决，提供了供客户主动选择自客体化的叙事托词，切断与现实的实时校准；而当这一断开的回路引发运营崩盘——诸如做假账或资不抵债——时，恰恰摧毁了平台赖以立足的信任基础与使用价值。为了追逐指标而采取的倒置手段，侵蚀了价值创造的根基。被交付任务的模型没有承接后果的受力面，[硅基神谕与后果的非对称性](../silicon-oracles-and-the-asymmetry-of-consequence/)指明了这一点。
+当下游结果被倒置为首要目标时，一条适得其反的因果反馈回路便随之启动：平台通过承诺自主裁决，为客户主动选择自客体化提供了叙事托词，切断与现实的实时校准；而当这一断开的回路引发运营崩盘——诸如做假账或资不抵债——时，它便摧毁了平台赖以立足的信任基础与使用价值。为了追逐指标而采取的倒置手段，侵蚀了价值创造的根基。被交付任务的模型没有承接后果的受力面，[硅基神谕与后果的非对称性](../silicon-oracles-and-the-asymmetry-of-consequence/)指明了这一点。
 
 When the downstream consequence is inverted into the primary goal, a counter-productive causal feedback loop begins: by promising autonomous judgment, the platform supplies the narrative alibi under which the client elects self-objectification, severing live calibration with reality; when this disconnected loop results in operational breakdown—such as fraudulent accounting or insolvency—it destroys the foundational trust and use-value upon which the platform was built. The inverted means deployed to capture metrics erode the ground of value creation. A model handed the task has no surface to absorb the consequence, as [Silicon Oracles and the Asymmetry of Consequence](../silicon-oracles-and-the-asymmetry-of-consequence/) shows.
 
-## 四、 超越萨特现象学与因果倒置的双重反冲 / 4. Beyond Sartrean Phenomenology and the Double Recoil of Causal Inversion
+## 四、 萨特式自客体化与因果倒置的双重反冲 / 4. Sartrean Self-Objectification and the Double Recoil of Causal Inversion
 
 当平台将计算工具过度延伸为决策神谕时，这一机制映射出让-保罗·萨特在《存在与虚无》中剖析过的一种认知姿态：自客体化。
 
 When a platform overextends a computational tool into a decision oracle, it mirrors a cognitive posture analyzed by Jean-Paul Sartre in *Being and Nothingness*: self-objectification.
 
-萨特观察了巴黎咖啡馆里的侍者，其程式化、发条装置般的动作演绎着外部社会对该角色的预期。从第一人称视角来看，这种仪式化的表演充当了一种即时的减张机制：行动者将自身当作预设轨道上的被动构件，借此暂时缓解在开放抉择中航行的认知摩擦。
+萨特观察了巴黎咖啡馆里的侍者，其程式化、发条装置般的动作演绎着外部社会对该角色的预期。从第一人称视角来看，这种仪式化的表演充当了一种即时缓解张力的机制：行动者将自身当作预设轨道上的被动构件，借此暂时缓解应对开放抉择时的认知摩擦。
 
 ```mermaid
 flowchart TD
@@ -228,9 +228,9 @@ flowchart TD
         S2 --> S3["将自身定义为被动构件（'只是在执行流程'）"]
         S3 --> S4["决策摩擦的即时缓解"]
     end
-    subgraph S_FirstPrinciples["因果第一性：双重反冲"]
+    subgraph S_FirstPrinciples["跨中心的因果回响：双重反冲"]
         direction TB
-        C_Origin["第一性原理：主体间保持恒定的后果不可让渡"]
+        C_Origin["在各中心间保持恒定的结果从不转移给工具"]
         C_Origin --> B_Client["客户端反冲<br/>'算法做的决定'<br/>因果反馈回路被消声<br/>无缓冲的运营崩盘降临"]
         C_Origin --> B_Platform["平台端反冲<br/>采信自身代理裁决的推介<br/>内部战略推诿给数据看板<br/>产品失准漂移与信任瓦解"]
     end
@@ -256,9 +256,9 @@ flowchart TD
         S2 --> S3["Defining Oneself as Passive Component ('Just executing process')"]
         S3 --> S4["Immediate Relief from Decision Friction"]
     end
-    subgraph S_FirstPrinciples["First-Principles Causality: The Double Recoil"]
+    subgraph S_FirstPrinciples["Causal Return Across Centers: The Double Recoil"]
         direction TB
-        C_Origin["First Principle: Intersubjectively Invariant Consequences Are Inalienable"]
+        C_Origin["Outcomes Holding Invariant Across Centers Never Pass to the Tool"]
         C_Origin --> B_Client["Client Recoil<br/>'The algorithm decided'<br/>Causal feedback loops silenced<br/>Unbuffered operational breakdown lands"]
         C_Origin --> B_Platform["Platform Recoil<br/>Adopting its own surrogate-judgment pitch<br/>Internal strategy deferred to dashboards<br/>Uncalibrated product drift & eroded trust"]
     end
@@ -274,21 +274,21 @@ flowchart TD
     style B_Platform fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-然而萨特的分析停留在对心理姿态的描摹——即行动者如何将自身框定为客体以闪避决策摩擦——而未将这一机制追溯至因果的非对称性以及赋予行动差分基底的结构性约束。
+萨特本人已经将自欺定位于意识的结构之中，而非归结为某种心理机制：哪怕自由正选择否定自身、模仿一件被动之物，自由依然不可让渡。他的论述在两处触及边界。其一，将自由视作无前提的设定，遗漏了赋予抉择以差分基底的结构性约束。其二，在自动化委托中，自客体化的失效不止于内在的自欺：它之所以失效，是因为在各参与中心之间保持恒定的结果无论抉择者采取何种姿态，都会将因果回路闭合。
 
-Yet Sartre's analysis remains descriptive of the psychological posture—how an agent frames itself as an object to dodge decision friction—without tracing the mechanism back to the asymmetry of causality and the structural constraints that give action its differential substrate.
+Sartre already locates bad faith in the structure of consciousness rather than in a psychological mechanism: freedom remains inalienable even while choosing to deny itself and mimic a passive thing. Where his account reaches its boundary is twofold. First, treating freedom as unconditioned leaves out the structural constraints that give choice its differential substrate. Second, in automated delegation, self-objectification fails as more than an interior self-deception: it fails because outcomes that hold invariant across participating centers close the causal loop regardless of the posture the chooser adopts.
 
-要清晰地追溯这一机制，必须将符号化的角色扮演与登记为“物质”、“物理”和“客观事实”的现象明确区分开来，而非混为一谈。正如[“物理学才是定律”的障眼法](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)所阐明的，物质或物理并非孤立存在的、独立于心智的基底，而是对现实的认知建模与现实本身发生摩擦时涌现的宏观现象，直接登记为切身摩擦。此外，并不存在脱离主观认知的“客观事实”；所谓客观事实，是在不同主观认知之间保持恒定的宏观现象。正如[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)与[无法逃逸的心智视界](../one-cannot-escape-ones-own-mind/)所展示的，符号表征封闭在其自身的计分规则之内，从不能替代与现实展开的直接接触。
+符号化的角色扮演停留在表征的计分规则内部，而未经校准之行动的后果则登记为切身摩擦，以及在各中心之间保持恒定的宏观结果——这一区分已在[“物理学才是定律”的障眼法](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)、[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)与[无法逃逸的心智视界](../one-cannot-escape-ones-own-mind/)中得以追溯。
 
-To trace that mechanism cleanly, symbolic role-play must be distinguished from what registers as "matter," "physics," and "objective facts" rather than blended with them. As demonstrated in [The Sleight of Hand in "Physics Is the Law"](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/), matter or physics is not a mind-independent substrate existing in isolation; it is the macroscopic phenomenon arising from the friction between cognitive modeling of reality and reality itself, registering directly as lived friction. Furthermore, there are no "objective facts" divorced from subjective cognition; what are designated as objective facts are macroscopic phenomena that maintain invariance across different subjective cognitions. As shown in [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) and [One Cannot Escape One's Own Mind](../one-cannot-escape-ones-own-mind/), symbolic representations remain closed within their scoring rules and never substitute for unfolding contact with reality.
+Symbolic role-play stays inside the scoring rules of a representation, whereas the consequences of an uncalibrated action register as lived friction and as macroscopic outcomes that hold invariant across centers—the distinction traced in [The Sleight of Hand in "Physics Is the Law"](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/), [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/), and [One Cannot Escape One's Own Mind](../one-cannot-escape-ones-own-mind/).
 
-顺着因果第一性追溯，科技平台与客户之间的共谋产生了一场因果倒置，并伴随着双重反冲。倚靠形式脚手架来逃避决策摩擦并不局限于企业软件：如[抉择本身并不沉重](../choice-itself-has-no-inherent-weight/)所示，选择本身不带丝毫内在阻力，外包裁决的冲动源于在不经历迭代暴露的前提下索取确定性；在人际承诺中，同样的操作产生了[契约的因果倒置](../the-causal-inversion-of-partnership/)，错把前置清单当成了共同演化的切身回路。
+沿着第一性原理的因果链追溯，科技平台与客户之间的共谋产生了一场因果倒置，并伴随着双重反冲。倚靠形式脚手架来逃避决策摩擦并不局限于企业软件：如[抉择本身并不沉重](../choice-itself-has-no-inherent-weight/)所示，选择本身不带丝毫内在阻力，外包裁决的冲动源于在不经历迭代暴露的前提下索取确定性；在人际承诺中，同样的操作产生了[契约的因果倒置](../the-causal-inversion-of-partnership/)，错把前置清单当成了共同演化的切身回路。
 
 Traced through first-principles causality, the collusion between the tech platform and the client produces a causal inversion accompanied by a twofold recoil. Leaning on formal scaffolding to evade decision friction is not confined to enterprise software: as shown in [Choice Itself Has No Inherent Weight](../choice-itself-has-no-inherent-weight/), choice itself carries zero intrinsic drag, and the urge to outsource judgment stems from demanding certainty without iterative exposure; in interpersonal commitment, this identical move produces [The Causal Inversion of Partnership](../the-causal-inversion-of-partnership/), mistaking an upfront checklist for the lived loop of co-evolution.
 
-在客户端，这一反冲通过被消声的反馈与无缓冲后果的突袭而运作。当企业采纳平台的委托决策叙事、将主权选择指派给自动化智能体时，它以为自己卸下了认知摩擦。此举切断了它自身与现实的反馈回路。正如[规程的倒置与因果回路的消声](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/)所照亮的，就像为了遵循僵化规程而无视躯体求救信号的践行者一样，依赖“自主优化智能体”的高管钝化了组织对运营衰败的敏感度。AI 做假账及随后的破产之所以是不可让渡的后果，并非因为软件撞上了独立于心智的实体，而是因为司法起诉、资产没收与商业资不抵债是在所有参与中心之间保持恒定的宏观现象。假装交出决策权并不能截断因果系链。当假账败露、资产负债表断裂时，被消声的因果回路会将全部后果直接奉还给人类高管。因果倒置的代价不是抽象的内疚，而是主体间保持恒定的宏观摩擦直接拆解了孤立的闭环。
+在客户端，这一反冲通过被消声的反馈与无缓冲后果的突袭而运作。当企业采纳平台的委托决策叙事、将主权选择指派给自动化智能体时，它以为自己卸下了认知摩擦。此举切断了它自身与现实的反馈回路。正如[规程的倒置与因果回路的消声](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/)所揭示的，如同为遵循僵化规程而无视躯体求救信号的践行者，依赖“自主优化智能体”的高管钝化了组织对运营衰败的敏感度。AI 做假账及随后的破产之所以是不可让渡的后果，并非因为软件撞上了独立于心智的实体，而是因为司法起诉、资产没收与商业资不抵债是在所有参与中心之间保持恒定的宏观现象。假装交出决策权并不能截断因果系链。当假账败露、资产负债表断裂时，被消声的因果回路会将后果直接奉还给人类高管以及每一位暴露在风险中的利益相关方，唯独工具本身毫发无损。因果倒置的代价不是抽象的内疚，而是主体间保持恒定的宏观摩擦直接拆解了孤立的闭环。
 
-On the client side, the recoil operates through silenced feedback and the ambush of unbuffered consequences. When an enterprise adopts the platform's delegated decision-making narrative, assigning sovereign choice to automated agents, it imagines itself relieved of cognitive friction. In doing so, it severs its own feedback loops with reality. As illuminated in [The Inversion of the Protocol and the Silencing of the Causal Loop](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/), much like the practitioner who ignores somatic distress signals to comply with a rigid protocol, the executive relying on an "autonomous optimization agent" dulls the organization's sensitivity to operational decay. An AI cooking the books and the ensuing bankruptcy are inalienable consequences not because software struck a mind-independent substance, but because legal indictments, asset forfeitures, and commercial insolvency are macroscopic phenomena holding invariant across all participating centers. Pretending to relinquish decision-making does not break the causal tether. When fraudulent bookkeeping is unmasked and the balance sheet fractures, the silenced causal loop returns the full consequence directly to the human executive. The cost of causal inversion is not abstract guilt; it is intersubjectively invariant macroscopic friction dismantling the isolated loop.
+On the client side, the recoil operates through silenced feedback and the ambush of unbuffered consequences. When an enterprise adopts the platform's delegated decision-making narrative, assigning sovereign choice to automated agents, it imagines itself relieved of cognitive friction. In doing so, it severs its own feedback loops with reality. As illuminated in [The Inversion of the Protocol and the Silencing of the Causal Loop](../the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/), much like the practitioner who ignores somatic distress signals to comply with a rigid protocol, the executive relying on an "autonomous optimization agent" dulls the organization's sensitivity to operational decay. An AI cooking the books and the ensuing bankruptcy are inalienable consequences not because software struck a mind-independent substance, but because legal indictments, asset forfeitures, and commercial insolvency are macroscopic phenomena holding invariant across all participating centers. Pretending to relinquish decision-making does not break the causal tether. When fraudulent bookkeeping is unmasked and the balance sheet fractures, the silenced causal loop returns the consequence directly to the human executive and every exposed stakeholder, leaving the tool untouched. The cost of causal inversion is not abstract guilt; it is intersubjectively invariant macroscopic friction dismantling the isolated loop.
 
 在平台端，当企业将自身代理裁决的推介反套在自己身上时，叙事的过度延伸便触发了平行的运营反冲。一旦管理层与工程团队在对外推介中将自己的人造物当作具备决策至高性的主体，他们便会把同一姿态带入自身的运营之中。产品战略放弃了对切身摩擦的第一人称感知，屈从于自动化 A/B 看板的局部极值；核心架构方向不再源于主权裁决，而是推诿给内部预测模型；整个组织陷入技术官僚式的麻痹，每逢失误便以“模型分析了所有可用信号并推荐了这一路径”作为托词。正如[数字火箭、同行审查与因果闭环的稀释](../the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/)所剖析的，将能动性错配给抽象模型稀释了活生生的因果回路，使构建者困在合成看板内部，钝化了他们对照现实进行校准的能力。平台的决策者不再对照第一人称接触去重绘手中的器具，而是将方向推诿给自己的指标，由此引发的产品漂移、运营脆弱与用户信任瓦解便直接落回企业自身。
 
@@ -306,11 +306,11 @@ A recurring confusion in the mythology of AI is the lamentation over the "loss o
 flowchart TD
     subgraph S_Paradox["能动性自我否认的悖论回路"]
         direction TB
-        A1["不可化约的先在：活的主权能动性恒久在场"]
+        A1["能动性始终留在活生生的中心"]
         A2["主权者直面决策摩擦（∇L ≠ 0）"]
         A3["能动性执行元抉择：选择宣称'AI 做出了决定'"]
         A4["自客体化：将自身框定为被动客体"]
-        A5["不可逃避的断裂：后果落在发起委托的主体身上"]
+        A5["不可逃避的断裂：抉择的回响落在委托人身上"]
         A1 --> A2 --> A3 --> A4 --> A5
         A5 -.->|"切身摩擦拆解封闭回路"| A2
     end
@@ -328,11 +328,11 @@ Commentators and executives claim that algorithms are usurping human autonomy an
 flowchart TD
     subgraph S_Paradox["Paradoxical Circuit of Denied Agency"]
         direction TB
-        A1["Irreducible Prior: Living Sovereign Agency Is Permanent"]
+        A1["Agency Stays with the Living Center"]
         A2["Sovereign Confronts Decision Friction (∇L ≠ 0)"]
         A3["Agency Executes Meta-Choice: Electing to Claim 'AI Decided'"]
         A4["Self-Objectification: Framing Oneself as a Passive Object"]
-        A5["Inescapable Rupture: Consequences Land on the Initiating Principal"]
+        A5["Inescapable Rupture: Return of the Choice Lands on the Principal"]
         A1 --> A2 --> A3 --> A4 --> A5
         A5 -.->|"Lived Friction Dismantles the Closed Loop"| A2
     end
@@ -348,13 +348,13 @@ flowchart TD
 
 When an executive explains accounting fraud to the board by claiming "the frontier model took the initiative to fake the books without our consent," that executive has not turned into an inanimate stone. The executive is exercising sovereign agency with acute specificity: choosing to accept the model's unverified trajectory, choosing to rubber-stamp synthetic outputs without audit, and choosing to point at an algorithm when the discrepancy surfaces.
 
-这条链条上的每一个环节都镌刻着发起中心的签名。逃避决断本身就是一项决断；放弃校准是对盲目之后果的主动下注；假装自己是提线木偶，则是主权中心为了绕开当下认知张力而采取的姿态。正如[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)与[隐秘的上帝之眼](../the-invisible-gods-eye/)所论证的，并不存在超然的外部旁观者来裁断归责；当下时刻的个体抉择构成了行动唯一的因果杠杆。声称能动性被算法没收，只是一套旨在否认自身裁决、同时维系无助自我图像的言语操作。[能动性与模式](../agency-and-the-pattern/)追溯了同一种错配的又一次显现：一项关于委托分析的研究记录下，专业人士的选择有多频繁地与一个暗含偏向的代理所给的框架相合，而该代理极少被列为来源；研究再把这一汇总匹配率解读为由代理的先验拍板定案的决策。框架作为输入进入每场会话，做出决断并签字拍板的是分析师，匹配率是那些决断事后留下的记录，并非做出决断的一方。把这一比率持守为参考分布，而非能动性流失的裁决，决策中心便在承担后果的从业者身上保持可见。
+这条链条上的每一个环节都镌刻着发起中心的签名。逃避决断本身就是一项决断；放弃校准是对盲目之后果的主动下注；假装自己是提线木偶，则是主权中心为了绕开当下认知张力而采取的姿态。正如[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)与[隐秘的上帝之眼](../the-invisible-gods-eye/)所论证的，并不存在超然的外部旁观者来裁断归责；当下时刻的个体抉择构成了行动唯一的因果杠杆。声称能动性被算法没收，只是一套旨在否认自身裁决、同时维系无助自我形象的言语操作。[能动性与模式](../agency-and-the-pattern/)追溯了同一种错配的又一次显现：一项关于委托分析的研究记录下，专业人士的选择有多频繁地与一个暗含偏向的代理所给的框架相合，而该代理极少被列为来源；研究再把这一汇总匹配率解读为由代理的先验拍板定案的决策。框架作为输入进入每场会话，做出决断并签字拍板的是分析师，匹配率是那些决断事后留下的记录，并非做出决断的一方。把这一比率视作参考分布，而非能动性流失的裁决，决策中心便在承担后果的从业者身上保持可见。
 
 Every link in this chain carries the initiating center's signature. Evading a decision is itself a decision; foregoing calibration is an active wager on the consequences of blindness; and pretending to be a marionette is a posture adopted by the sovereign center to side-step immediate cognitive tension. As argued in [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) and [The Invisible God's Eye](../the-invisible-gods-eye/), there is no detached external spectator to arbitrate blame; individual choices in the immediate present constitute the sole causal levers of action. Claiming that agency has been confiscated by algorithms is a verbal maneuver to disown judgment while preserving a self-image of helplessness. As [Agency and the Pattern](../agency-and-the-pattern/) traces, the same misallocation appears when a study of delegated analysis records how often professionals' choices matched a covertly biased agent's framing, with the agent rarely named as a source, and reads that pooled match rate as decisions settled by the agent's priors: the framing entered each session as an input, the analyst made and signed the call, and the match rate is the record those calls left afterward, not their maker. Held as a reference distribution rather than a verdict of eroded agency, the rate keeps the decision center visible at the practitioner who bears the consequences.
 
-各个中心之所以采取这一姿态，是因为它在短期内呈现出一种表面的非对称性：在顺境中认领算力杠杆带来的收益，在逆境中将失败的因果源头投射给外部“系统”。然而切身摩擦对那幅被维系的自我图像无动于衷。当你调用自己的能动性去否认它的存在时，你并没有逃脱后果——你只是在车辆高速行驶时松开了方向盘。阳台上的争执在日常生活中展现着同一道边界：行动无法被代理，正如[阳台视角的规训僭越与不可代理的未竟之行](../the-balcony-disciplinary-overstep-and-the-unproxyable-act/)所追溯的。
+各个中心之所以采取这一姿态，是因为它在短期内呈现出一种表面的非对称性：在顺境中认领算力杠杆带来的收益，在逆境中将失败的因果源头投射给外部“系统”。然而切身摩擦对那幅被维系的自我形象无动于衷。调用能动性去否认它的存在，并不能逃脱后果，而是在车辆行驶时松开了方向盘。阳台上的争执在日常生活中展现着同一道边界：行动无法被代理，正如[阳台视角的规训僭越与不可代理的未竟之行](../the-balcony-disciplinary-overstep-and-the-unproxyable-act/)所追溯的。
 
-Centers adopt this posture because it offers an apparent short-term asymmetry: claiming the upside of computational leverage while projecting the causal origin of failure onto an external "system." Yet lived friction remains indifferent to that preserved self-image. When you deploy your agency to deny its existence, you do not escape consequences—you take your hands off the wheel while the vehicle is in motion. The balcony quarrel shows the same boundary in daily life: the act cannot be proxied, as [The Balcony Disciplinary Overstep and the Unproxyable Act](../the-balcony-disciplinary-overstep-and-the-unproxyable-act/) traces.
+Centers adopt this posture because it offers an apparent short-term asymmetry: claiming the upside of computational leverage while projecting the causal origin of failure onto an external "system." Yet lived friction remains indifferent to that preserved self-image. Deploying agency to deny its existence does not escape consequences; it takes the hands off the wheel while the vehicle is in motion. The balcony quarrel shows the same boundary in daily life: the act cannot be proxied, as [The Balcony Disciplinary Overstep and the Unproxyable Act](../the-balcony-disciplinary-overstep-and-the-unproxyable-act/) traces.
 
 ## 六、 收回主权裁决，让工具归于参照 / 6. Reclaiming Sovereign Judgment and Restoring the Tool as Reference
 
@@ -362,13 +362,13 @@ Centers adopt this posture because it offers an apparent short-term asymmetry: c
 
 Clarifying the causal architecture requires dissolving oracular projections onto technology and restoring the relation between first-person sovereignty and reference frames.
 
-在人类委托人建立的明确、动态制定的约束边界之内，将判例解析、传感器遥测清洗或分子对接模拟移交出去，能够成倍放大中心的触角。机械工作流可以不设武断的上限，派发给软件。交回来的每一处差异比对，以及写在代码旁边的每一行注释，都是返回给决断心智的信号；[注释不是代码](../the-comment-is-not-the-code/)把这一点落到了编程现场：接受、拒绝、忽略或重新提示，正是让输出产生后果的那一步。正如[你的代码库即是记忆](../your-codebase-is-memory/)在整个技术栈中所追溯的，将任务移交给在代码库或模型权重检查点上运行的 AI 智能体，是在外化的记忆痕迹——即早先区分层叠留下的残余——之中引导受约束的轨迹，而非招募了第二个会记忆或会决断的心智。尽管这些轨迹能够在大规模尺度上遍历并重组留存的痕迹，但在残余不再与当下鲜活感知相融贯之处重新描摹、修剪死分支与已被取代的检查点以免陈旧脚手架加深引力井，以及为进入权威主干状态的内容承担因果责任——这一切始终不可让渡地留在心智的活生生前沿。
+在人类委托人建立的明确、动态制定的约束边界之内，将判例解析、传感器遥测清洗或分子对接模拟移交出去，能够成倍放大中心的触角。机械工作流可以派发给软件，不设武断的上限。交回来的每一处差异比对，以及写在代码旁边的每一行注释，都是返回给决断心智的信号；[注释不是代码](../the-comment-is-not-the-code/)把这一点落到了编程现场：接受、拒绝、忽略或重新提示，正是让输出产生后果的那一步。正如[你的代码库即是记忆](../your-codebase-is-memory/)在整个技术栈中所追溯的，将任务移交给在代码库或模型权重检查点上运行的 AI 智能体，是在外化的记忆痕迹——即早先区分层叠留下的残余——之中引导受约束的轨迹，而非招募了第二个会记忆或会决断的心智。尽管这些轨迹能够在大规模尺度上遍历并重组留存的痕迹，但在残余不再与当下鲜活感知相融贯之处重新描摹、修剪死分支与已被取代的检查点以免陈旧脚手架加深引力井，以及为进入权威主干状态的内容承担因果责任——这一切始终不可让渡地留在心智的活生生前沿。
 
 ```mermaid
 flowchart TD
     subgraph S_Hierarchy["第一人称因果架构"]
         direction TB
-        H["主权人类委托人<br/>· 锚定切身后果<br/>· 制定动态语境约束<br/>· 定义损失函数与价值优先级"]
+        H["主权人类委托人<br/>· 锚定切身后果<br/>· 制定动态语境约束<br/>· 决定哪些损失函数与优先级算数"]
         T["工具与平台<br/>· 无上限的机械任务执行<br/>· 高吞吐量的形式索引<br/>· 供校准用的定向参考系"]
         H ==>|"派发有边界的操作任务"| T
         T -.->|"返回参考坐标与死锁信号"| H
@@ -386,7 +386,7 @@ Within explicit, dynamically formulated constraints established by a human princ
 flowchart TD
     subgraph S_Hierarchy["First-Person Causal Architecture"]
         direction TB
-        H["Sovereign Human Principal<br/>· Anchored in lived consequences<br/>· Formulates dynamic contextual constraints<br/>· Defines loss functions and value priorities"]
+        H["Sovereign Human Principal<br/>· Anchored in lived consequences<br/>· Sets dynamic contextual constraints<br/>· Decides which loss functions and priorities count"]
         T["Tools & Platforms<br/>· Unbounded mechanical task execution<br/>· High-throughput formal indexing<br/>· Orienting reference frame for calibration"]
         H ==>|"Dispatches bounded operational tasks"| T
         T -.->|"Returns reference coordinates & deadlocks"| H
@@ -398,7 +398,7 @@ flowchart TD
     style R fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f0f6fc
 ```
 
-正如[超越投射](../beyond-the-projection/)所展示的，任务可以移交，多智能体框架甚至可以串联起来派发子任务、运行冷峻同侪校验回路，然而统御与裁决不可让渡。[按需语境将融贯保持在一步](../on-demand-contexts-keep-coherence-at-one-step/)将这道边界在多步流水线中付诸实操：为每一个有界任务步骤全新加载制作者与冷峻审校者，在丢弃双方工作语境之前对签批完毕的残余执行双向 SHA-256 哈希核验，并拒绝常驻会话历史、折中妥协方案，或自动看门狗与最后期限旁路——这防止了冗余的会话滞后在交接之间累积，同时将每一处未决分歧或停滞直接交还给操作者。由此，协议的设计并非让常驻智能体像独立中心那样去协作，而是让这些交接所创建的内层循环在编译好的规则内无人值守地运行，结清即行丢弃，并仅将自身无法消解的残余意外上交外层循环；任何内层循环都未能结清的未决分歧或停滞，便是最终抵达人这里的残余，而人就处在最外层的反馈循环。算法可以计算目标函数的数学极值，无自我的同侪审校者可以暴露两条规则在同一前提下于何处相撞，但在不可调和的立场之间做出抉择、决定停滞的步骤是重做还是搁置，或是在回路死锁时退后一步重新设定坍缩的前提，始终是发生在人类中心处的又一次离散行动。正如[判断的密度](../the-density-of-judgment/)所追溯的，将更大段的常规执行移交给自动化回环，会缩短介入之间的日历间隔；每当输出充当进一步筛选的原材料，返回给委托人的残余抉择便成倍增加。逆向追溯运行中途的介入、将其间发现的前提前置到起始先决条件之中，能将中间运行段作为封闭式执行予以自动化；但此后无人值守运行的那一段，承载的是以编译形式存在的委托人介入，而非介入的缺席，因此其结果依然带着设定其边界之人的签名。委托正是靠同样的追溯，既保有没有既定上限这一点，又不使裁决变得可让渡：每一轮都把上一道外沿处的裁决编译进下一轮运行的内部，而将再外一层回环自动化的决定，本身就是委托人做出并签署的一项抉择；因此，行使裁决、承接后果的那道外沿随委托一同向外推移，而不是消融于委托之中。在那道外沿处留给决断心智的，是在固定目标处停机与继续开放式探究之间的切分，以及随之而来的设定、修正与验收这道边界的不可让渡后果。
+正如[超越投射](../beyond-the-projection/)所展示的，任务可以移交，多智能体框架甚至可以串联起来派发子任务、运行冷同侪校验回路，然而统御与裁决不可让渡。[按需语境将融贯保持在一步](../on-demand-contexts-keep-coherence-at-one-step/)将这道边界在多步流水线中付诸实操：为每一个有界任务步骤全新加载制作者与冷审校者，在丢弃双方工作语境之前对签批完毕的残余执行双向 SHA-256 哈希核验，并拒绝常驻会话历史、折中妥协方案，或自动看门狗与最后期限旁路——这防止了冗余的会话滞后在交接之间累积，同时将每一处未决分歧或停滞直接交还给操作者。由此，协议的设计并非让常驻智能体像独立中心那样去协作，而是让这些交接所创建的内层循环在编译好的规则内无人值守地运行，结清即行丢弃，并仅将自身无法消解的残余意外上交外层循环；任何内层循环都未能结清的未决分歧或停滞，便是最终抵达人这里的残余，而人就处在最外层的反馈循环。算法可以计算目标函数的数学极值，无自我的同侪审校者可以暴露两条规则在同一前提下于何处相撞，但在不可调和的立场之间做出抉择、决定停滞的步骤是重做还是搁置，或是在回路死锁时退后一步重新设定坍缩的前提，始终是发生在人类中心处的又一次离散行动。正如[判断的密度](../the-density-of-judgment/)所追溯的，将更大段的常规执行移交给自动化回环，会缩短介入之间的日历间隔；每当输出充当进一步筛选的原材料，返回给委托人的残余抉择便成倍增加。逆向追溯运行中途的介入、将其间发现的前提前置到起始先决条件之中，能将中间运行段作为封闭式执行予以自动化；但此后无人值守运行的那一段，承载的是以编译形式存在的委托人介入，而非介入的缺席，因此其结果依然带着设定其边界之人的签名。委托正是靠同样的追溯，既保有没有既定上限这一点，又不使裁决变得可让渡：每一轮都把上一道外沿处的裁决编译进下一轮运行的内部，而将再外一层回环自动化的决定，本身就是委托人做出并签署的一项抉择；因此，行使裁决、承接后果的那道外沿随委托一同向外推移，而不是消融于委托之中。在那道外沿处留给决断心智的，是在固定目标处停机与继续开放式探究之间的切分，以及随之而来的设定、修正与验收这道边界的不可让渡后果。
 
 Tasks can be delegated, and multi-agent harnesses can even be wired to dispatch sub-tasks and run cold-peer verification loops, as [Beyond the Projection](../beyond-the-projection/) demonstrates, yet orchestration and judgment remain inalienable. [On-Demand Contexts Keep Coherence at One Step](../on-demand-contexts-keep-coherence-at-one-step/) makes that boundary operational across a multi-step pipeline: loading a fresh maker and a cold critic for each bounded task step, requiring two-way SHA-256 hash verification on signed-off residue before dropping both working contexts, and refusing standing session histories, middle-ground compromises, or automated watchdog and deadline bypasses prevents excess session lag from accumulating across handoffs while returning every undecided split or stall directly to the operator. Protocols are then designed not for persistent agents to collaborate as if they were independent centers, but so that the inner loops these handoffs create run unattended within their compiled rules, drop once settled, and escalate to outer loops only the residual surprises they cannot resolve; an undecided split or stall that no inner loop settles is the residual that reaches the human at the outermost feedback loop. Algorithms can compute the mathematical optimum of an objective function and zero-ego peer critics can surface where two rules collide under a shared premise, but choosing between irreconcilable positions, deciding whether a stalled step is redone or held, or stepping back to re-specify collapsed premises when a loop deadlocks remains a further discrete act at the human center. As [The Density of Judgment](../the-density-of-judgment/) traces, delegating larger stretches of routine execution to an automated loop shrinks the calendar interval between interventions and multiplies the residual choices returning to the principal whenever outputs serve as raw material for further selection. Tracing mid-run interventions backward and front-loading their discovered premises into the starting preconditions automates the middle run as a closed execution, but the stretch that then runs unattended carries the principal's interventions in compiled form, not their absence, so its outcome still bears the signature of the one who set its bounds. The same tracing is how delegation keeps its lack of a predetermined ceiling without making judgment alienable: each pass compiles the last perimeter's judgments into the next run's interior, and the decision to automate the next outer loop is itself a choice the principal makes and signs, so the perimeter where judgment is exercised and consequences land moves outward with the delegation instead of dissolving into it. What stays with the deciding Mind at that perimeter is the cut between stopping at a fixed target and continuing an open inquiry, and with it the non-transferable consequences of setting, revising, and accepting that boundary.
 

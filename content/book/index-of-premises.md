@@ -438,7 +438,7 @@ Rousseau opens with "Man is born free, and everywhere he is in chains" and asks 
 
 Sartre presumes sovereign choice precedes all predetermined designations and possesses unconditioned agency, diagnosing bad faith as agency fleeing responsibility by mimicking passive objects; this premise becomes incomplete without structural constraints to provide the differential substrate for action, while remaining profoundly useful for dissecting how minds exercise sovereignty to manufacture the illusion of their own helplessness.
 
-→ [约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom](../../posts/the-substrate-of-constraint-and-the-self-denial-of-freedom/) · [框架的盲区 / The Blind Spot of the Frame](../../posts/the-blind-spot-of-the-frame/)
+→ [约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom](../../posts/the-substrate-of-constraint-and-the-self-denial-of-freedom/) · [框架的盲区 / The Blind Spot of the Frame](../../posts/the-blind-spot-of-the-frame/) · [任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences](../../posts/the-delegation-of-the-task-and-the-inalienability-of-consequences/)
 
 ### 杰里·福多 / Jerry Fodor
 `哲学 / Philosophical`
@@ -596,11 +596,11 @@ Levin demonstrated developmental bioelectric agency across scales; groundbreakin
 ### 纳西姆·尼古拉斯·塔勒布 / Nassim Nicholas Taleb
 `哲学 / Philosophical`
 
-塔勒布将不确定性下的凸性收益形式化；利于风险工程，但将凸性启发式生硬套入精密领域则显粗糙。
+塔勒布将不确定性下的凸性收益形式化，并在《随机漫步的傻瓜》中提醒仅凭结果观察无法直接读出底层能力、只对幸存者抽样会高估技能比重，这对风险工程、对纠正含噪历史记录的天真外推都有用；它在此到了边界：将凸性启发式过度外推至需要精密度的领域，或把统计表象抬升为结果的生成原因，将行动者拍平在概率表上，使摩擦中的内部校准变得不可见。
 
-Taleb formalizes convex payoffs under uncertainty; invaluable for risk engineering, his polemical posture overextends convex heuristics into domains requiring precision.
+Taleb formalizes convex payoffs under uncertainty and warns in Fooled by Randomness that inspecting outcomes alone cannot read underlying competence directly and that sampling only survivors inflates estimates of skill, which is of use for risk engineering and as a corrective against naive extrapolation from noisy historical records; it reaches its boundary when convex heuristics are overextended into domains requiring precision or when the statistical surface is elevated into the generative cause of outcomes, flattening actors onto a probability table so internal calibration under friction becomes invisible.
 
-→ [重新审视反脆弱 / A New Deeper Look at Antifragility](../../posts/a-new-deeper-look-at-antifragility/)
+→ [重新审视反脆弱 / A New Deeper Look at Antifragility](../../posts/a-new-deeper-look-at-antifragility/) · [主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../../posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)
 
 ### 纳瓦尔·拉维肯特 / Naval Ravikant
 `成功学 / Self-Help`
@@ -1235,9 +1235,9 @@ The Hayekian price mechanism presumes the price to be a signal that coordinates 
 ### 海森堡测不准原理 / Heisenberg Uncertainty Principle
 `科学 / Scientific`
 
-测不准原理界定了微观共轭变量同时测量的精度极限，在量子力学里有用；借它作比，在此到了边界：个人的选择在第一人称之内是确定而自洽的，从外部却取不全变量，只能测到统计随机，内部主权越确定，外部测得的表观熵越大，测不准说的是观察的位置，不是选择的缺席。
+测不准原理界定了微观共轭变量同时测量的精度极限，在量子力学里有用；借它作比，在此到了边界：个人的选择在第一人称之内是确定而自洽的，从外部却取不全变量，也占不到当下的切分边缘，只能测到表观的统计随机，测不准说的是观察的位置，不是选择的缺席。
 
-The uncertainty principle bounds the precision with which conjugate micro variables can be measured together, of use in quantum mechanics; borrowed as a figure, it reaches its boundary in that an individual's choice is determinate and consistent within the first person while from outside its variables cannot all be had and only statistical randomness is measured, so that the more determinate the inner sovereignty, the greater the apparent entropy measured outside, uncertainty naming the observer's position, not the absence of choice.
+The uncertainty principle bounds the precision with which conjugate micro variables can be measured together, of use in quantum mechanics; borrowed as a figure, it reaches its boundary in that an individual's choice is determinate and consistent within the first person while from outside its variables cannot all be had nor its live cut occupied, and only apparent statistical randomness is measured, uncertainty naming the observer's position, not the absence of choice.
 
 → [自由的测不准 / The Uncertainty of Freedom](../../posts/zi-you-de-ce-bu-zhun/)
 
@@ -1446,7 +1446,7 @@ The theorem proves uniform algorithm parity over all mathematically possible fun
 
 The normal distribution is of use in describing how many discrete decisions gather near the mean over a short window; it reaches its boundary in that it is the statistical appearance free choices leave after the fact, reflecting uneven signal-extraction capacity across Minds, with no causal binding force on any individual's choice now, and read as evidence of no real differences or of intrinsic randomness, it hides what multiplication will magnify.
 
-→ [幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/) · [目的性的评判与认知的缺省状态 / Judging by Purpose and the Default State of Cognition](../../posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) · [观察的因果僭越与第一人称的收益差 / The Causal Overstep of Observation and the First-Person Surplus](../../posts/the-causal-overstep-of-observation-and-the-first-person-surplus/)
+→ [幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/) · [目的性的评判与认知的缺省状态 / Judging by Purpose and the Default State of Cognition](../../posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) · [观察的因果僭越与第一人称的收益差 / The Causal Overstep of Observation and the First-Person Surplus](../../posts/the-causal-overstep-of-observation-and-the-first-person-surplus/) · [主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../../posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)
 
 ### 观察性行为学 / Observational Behavioral Science
 `科学 / Scientific`
@@ -1527,7 +1527,7 @@ The Planck time and Planck length mark the scale where present models run out of
 
 The power law is of use in describing the shape of outcomes within an observation window; it reaches its boundary in that, once raised into a law that must be obeyed, aggregated traces are taken for the activity itself, while what generates them is the differential of compounding rates.
 
-→ [幂律是结果的表象 / Power Law Is the Surface of Outcomes](../../posts/mi-lv-shi-jie-guo-de-biao-xiang/) · [幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/) · [可延展的地平线 / The Extendable Horizon](../../posts/the-extendable-horizon/) · [现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/) · [让渡主权的幂律法则 / The Power-Law of Surrendered Agency](../../posts/the-power-law-of-surrendered-agency/)
+→ [幂律是结果的表象 / Power Law Is the Surface of Outcomes](../../posts/mi-lv-shi-jie-guo-de-biao-xiang/) · [幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution](../../posts/power-law-is-the-long-term-consequence-of-normal-distribution/) · [可延展的地平线 / The Extendable Horizon](../../posts/the-extendable-horizon/) · [现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline](../../posts/the-reality-distortion-field-inverts-the-baseline/) · [让渡主权的幂律法则 / The Power-Law of Surrendered Agency](../../posts/the-power-law-of-surrendered-agency/) · [主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../../posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)
 
 ### 人的行动学 / Praxeology
 `经济 / Economic`
@@ -2191,9 +2191,9 @@ Progressive rhetoric celebrates administrative programs that empower marginalize
 ### 责任转嫁的程序剧场 / Bureaucratic Liability Theater
 `意识形态 / Ideological`
 
-假定同行审查与资质审核能消解算法风险；对合规免责有效，却切断了行动者直接承受现实摩擦的紧致因果回路。
+假定发布前的同行审查与资质审核能把算法风险从部署模型的心智身上卸下；外部审查作为补充信号与合规的依据时有用，一旦被立为权威的准入关卡便抵达边界，拉长并稀释了行动与后果之间的因果反馈回路，却移不走后果。
 
-Presumes regulatory peer-review of algorithms prevents physical catastrophe; useful for bureaucratic compliance, it breaks tight causal feedback between action and loss.
+Presumes that peer review and qualification audits placed ahead of release can take algorithmic risk off the deploying Mind; outside review is useful as an additional signal and as a basis in compliance, and reaches its boundary when made an authoritative gate, lengthening and diluting the causal feedback loop between action and consequence without moving the consequence.
 
 → [数字火箭、同行审查与因果闭环的稀释 / Digital Rockets, Peer Review, and the Dilution of the Causal Loop](../../posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency/)
 
@@ -2592,15 +2592,6 @@ Attributing capability, harm, or felt constraint to external instruments, other 
 Disruption rhetoric treats current technological acceleration as unprecedented; this obscures the perennial invariant that living minds must continuously adapt to shifting tools.
 
 → [万物一如既往地流变 / Everything Is Changing, as Always](../../posts/everything-is-changing-as-always/)
-
-### 抉择与规律的双面同构 / Dual Nature of Choice and Regularity
-`科学 / Scientific`
-
-假定客观物理规律独立于主观观测视角之外；对工程计算极其有用，却抹去了参考系源于第一人称发起这一前提。
-
-Presumes objective physical laws exist separately from subjective observational choice; useful for invariant calculations, it conceals the first-person origin of frames.
-
-→ [主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../../posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)
 
 ### 距离的双向投影 / Dual Projections of Distance
 `科学 / Scientific`
@@ -3383,7 +3374,7 @@ Classical physics views deterministic predictability as nature's fundamental law
 
 Treating physical laws, markets, evolution and simulations as independent, top-down entities is of use as handy macroscopic shorthand; it reaches its boundary in that there is no independent rule besides causality, laws being invariants crystallised from the auto- and cross-correlation of causal chains, computation being bit logic chosen by people, and social patterns being descriptions of colliding individual choices, none with independent causal agency.
 
-→ [宏观现象的生成图谱 / The Generative Atlas of Macroscopic Phenomena](../../posts/the-generative-atlas-of-macroscopic-phenomena/)
+→ [宏观现象的生成图谱 / The Generative Atlas of Macroscopic Phenomena](../../posts/the-generative-atlas-of-macroscopic-phenomena/) · [主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../../posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)
 
 ### 中国制造成就特斯拉与苹果 / Made-in-China Explanation of Tesla and Apple Success
 `经济 / Economic`
@@ -3892,9 +3883,9 @@ Saying an essay was "written by AI", defining authorship by token share, gauging
 ### 物理视界与奇点是实在的边缘 / Physical Horizons and Singularities as Edges of Reality
 `科学 / Scientific`
 
-把测量极限、宇宙视界、事件视界与奇点读作实在的边缘，在标示当前模型于何处不再可靠时有用；它在此到了边界：它们是临时描述的边缘，并非已被证明的场的边缘，超出描述的东西在任何最终的意义上都无法被确认或否认。
+把测量极限、宇宙视界、事件视界与奇点读作实在的边缘，在标示登记于何处触及界限或外推的形式体系于何处不再成立时有用；它在此到了边界：它们是观察者可及范围或临时描述的界限，并非已被证明的场的边缘，超出有限描述的东西在任何最终的意义上都无法被确认或证伪。
 
-Reading measurement limits, cosmological and event horizons, and singularities as edges of reality is of use in marking where current models stop being reliable; it reaches its boundary in that they are edges of temporary descriptions, not demonstrated edges of the field, and what exceeds description cannot be confirmed or disconfirmed in any final sense.
+Reading measurement limits, cosmological and event horizons, and singularities as edges of reality is of use in marking where registration reaches its bound or where an extrapolated formalism stops holding; it reaches its boundary in that these are bounds of an observer's access or of a temporary description, not demonstrated edges of the field, and what exceeds a finite description cannot be confirmed or disconfirmed in any final sense.
 
 → [选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality](../../posts/selection-contradiction-and-open-reality/) · [框架的边界 / The Boundary of the Frame](../../posts/the-boundary-of-the-frame/) · [投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality](../../posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/)
 
@@ -5032,12 +5023,12 @@ Professional education assumes mastering transferable skills secures enduring va
 
 → [不断收紧的回环 / The Tightening Loop](../../posts/the-tightening-loop/)
 
-### 抉择的跨界三重投影 / Tri-Fold Boundary of Choice
-`科学 / Scientific`
+### 强决定论 / Hard Determinism
+`哲学 / Philosophical`
 
-假定主观抉择与物理随机互不相容；在经典力学实验中易于隔离变量，却割裂了跨越内外视界时同一边界的显影。
+假定可理解的因果必须服从可重复的决定论链条，并将任何偏离决定论的开口等同于盲目随机；在受控实验中隔离宏观不变量时有效，却在单次行动处到达边界——在那里，同一道跨界从内部登记为主观抉择，从外部与观测分辨率极限处则登记为非确定性。
 
-Presumes free choice and physical randomness are mutually exclusive; useful for classical laboratory isolation, it fails to recognize them as inner and outer faces of the same boundary.
+Presumes that intelligible causation must follow repeatable deterministic chains and equates any departure from determinism with blind randomness; effective for isolating macroscopic invariants in controlled experiments, it reaches its boundary at the singular act, where one crossing registers from within as subjective choice and from without, and at the resolution limit, as indeterminism.
 
 → [抉择的跨界 / The Boundary Crossing of Choice](../../posts/the-boundary-crossing-of-choice/)
 
@@ -5219,7 +5210,7 @@ Its premise assumes that a static, standalone reality exists independently beyon
 
 Presumes the cut in quantum measurement is an intrinsic physical boundary standing in the objective world, attempting either to reify it as a physical constant or erase it within an extended wave function; shifting the cut preserves predictions while revealing the frictional seam where intentional interrogation collides with physical resistance, yet erasing it dissolves any definite macroscopic record.
 
-→ [割点可移不可除 / The Cut Moves but Never Vanishes](../../posts/the-cut-moves-but-never-vanishes/) · [算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records](../../posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records/) · [意识归属与量子割点 / Consciousness Ascription and the Quantum Cut](../../posts/consciousness-ascription-and-the-quantum-cut/) · [词元与观测边界 / Tokens and the Observational Boundary](../../posts/tokens-and-the-observational-boundary/)
+→ [割点可移不可除 / The Cut Moves but Never Vanishes](../../posts/the-cut-moves-but-never-vanishes/) · [算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records](../../posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records/) · [意识归属与量子割点 / Consciousness Ascription and the Quantum Cut](../../posts/consciousness-ascription-and-the-quantum-cut/) · [词元与观测边界 / Tokens and the Observational Boundary](../../posts/tokens-and-the-observational-boundary/) · [抉择的跨界 / The Boundary Crossing of Choice](../../posts/the-boundary-crossing-of-choice/)
 
 ### 量子诠释图谱 / Cartography of Quantum Interpretations
 `哲学 / Philosophical`

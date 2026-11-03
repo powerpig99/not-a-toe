@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-03T22:37:32.325Z",
+    "generated_at": "2026-11-03T23:47:51.706Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -89,7 +89,7 @@
       "content/posts/fate-loves-irony-refined.md": "4173eb2feff2",
       "content/posts/felt-resistance-and-the-speed-differential.md": "7c688ab6bc0e",
       "content/posts/fidelity-not-optimality.md": "75472e76cc04",
-      "content/posts/fixed-by-nothing.md": "e95461537de8",
+      "content/posts/fixed-by-nothing.md": "313cd55bcbb5",
       "content/posts/four-night-questions.md": "6a45de787c56",
       "content/posts/freedom-as-ground.md": "d6d090c65cde",
       "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "234ce1feb90a",
@@ -131,7 +131,7 @@
       "content/posts/meaning-of-life-refined.md": "a761f7b00966",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "1a34f9ee3e60",
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "e3ccbf6f3f50",
-      "content/posts/minimizing-path.md": "d8c94ee78341",
+      "content/posts/minimizing-path.md": "c585ae74466b",
       "content/posts/mises-state-analysis.md": "fe24d656c147",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "3992efdf6cad",
       "content/posts/moral-language-as-projection.md": "06388db8d0ab",
@@ -149,7 +149,7 @@
       "content/posts/not-a-toe-rewrite.md": "378ff114d1ec",
       "content/posts/not-predicting-is-predicting-without-awareness.md": "750dd47f6c5b",
       "content/posts/objects-are-stabilized-relationships.md": "74accfac1364",
-      "content/posts/observation-distinguishing-activity-and-the-open-ground-of-mind.md": "a110c8372700",
+      "content/posts/observation-distinguishing-activity-and-the-open-ground-of-mind.md": "e78f9a54eccc",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "8699e204b57f",
       "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "2e8a1140f57c",
       "content/posts/on-education.md": "2506ab652440",
@@ -189,7 +189,7 @@
       "content/posts/restriction-is-a-selective-tax.md": "7ab4ce1e1cd4",
       "content/posts/scaffolds-or-specialized-contexts.md": "594b21b4d06e",
       "content/posts/school_essay_final.md": "f18cabb10f9c",
-      "content/posts/selection-contradiction-and-open-reality.md": "215cb759f7ef",
+      "content/posts/selection-contradiction-and-open-reality.md": "1101972968c9",
       "content/posts/self-image-speaks-as-if-from-nowhere.md": "823bf243373a",
       "content/posts/self-rl-for-humans.md": "4f0f1f493e52",
       "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "5bdf03fd7397",
@@ -220,7 +220,7 @@
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "181a1e9ba371",
       "content/posts/the-blind-cut-and-the-naming-mind.md": "5d1da39f48d6",
       "content/posts/the-blind-spot-of-the-frame.md": "9f7a2066930e",
-      "content/posts/the-boundary-crossing-of-choice.md": "5725ac2013bd",
+      "content/posts/the-boundary-crossing-of-choice.md": "f23183dd7dd7",
       "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "a1b259f6992c",
       "content/posts/the-boundary-of-the-frame.md": "d379a51837b8",
       "content/posts/the-brain-does-not-backprop.md": "e688e33e1cb4",
@@ -245,12 +245,12 @@
       "content/posts/the-coordinators-category-error.md": "cacce30b5e40",
       "content/posts/the-cut-moves-but-never-vanishes.md": "c718d57ca5a7",
       "content/posts/the-defining-seat.md": "19cac4ee1b14",
-      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "4c7791c6ed81",
+      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "d9453ea37244",
       "content/posts/the-density-of-judgment.md": "824c87f92b0a",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "9bb0244423b3",
       "content/posts/the-deterministic-machine.md": "fbf2680f40d1",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "57a85b713c5f",
-      "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "0c3fcdc7e58d",
+      "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "74e15da43c71",
       "content/posts/the-discount-on-agency.md": "d3feb5d425d6",
       "content/posts/the-dissolution-of-the-great-reversal.md": "cdf80ba3bcd7",
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "cf61f9e9c832",
@@ -271,7 +271,7 @@
       "content/posts/the-freedom-of-will-to-deny-itself.md": "1f8dd4fcdafe",
       "content/posts/the-frozen-cut-and-the-margin-of-the-loop.md": "ec04dfa42dd6",
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "d3f0748dc9cb",
-      "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "f03fcc2f0221",
+      "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "46f04ad12f4c",
       "content/posts/the-generative-contradiction.md": "3b39d0a43e8c",
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "64c173931963",
       "content/posts/the-generative-topology-of-free-variables.md": "2e0f835b26ad",
@@ -332,7 +332,7 @@
       "content/posts/the-npc-impression-is-structural.md": "4f7bc9fb76e2",
       "content/posts/the-observational-cut-in-ai-debates.md": "4ce3e6428502",
       "content/posts/the-only-coherent-uncaused-effect.md": "7fe84abc56e1",
-      "content/posts/the-open-question-is-determinisms-demand.md": "48656561f081",
+      "content/posts/the-open-question-is-determinisms-demand.md": "670d76055718",
       "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "dc29182803e7",
       "content/posts/the-orthogonal-refusal.md": "68eddc931d5a",
       "content/posts/the-other-coherence.md": "8dac9149aa79",
@@ -382,7 +382,7 @@
       "content/posts/the-three-shadows-of-the-cut.md": "fcb032465d92",
       "content/posts/the-tightening-loop.md": "be324f885a2f",
       "content/posts/the-twin-paradox-and-the-hidden-observer.md": "ff11efe3625a",
-      "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "19431edf6cb8",
+      "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "124b8f97fc34",
       "content/posts/the-unclosable-trace.md": "12bf152789c6",
       "content/posts/the-unexamined-critic.md": "ffe36622f873",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "ea55420c80e9",
@@ -431,13 +431,13 @@
       "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "d2e6651a8bd3",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "85c32a43404f",
       "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "1308b0507c8e",
-      "content/posts/zi-you-de-ce-bu-zhun.md": "e65d9e914390",
+      "content/posts/zi-you-de-ce-bu-zhun.md": "b31126285afd",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "0377c4822629",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b28d61994639",
       "content/book/causality.md": "863b25c6333a",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "6908b38e719b",
+      "content/book/index-of-premises.md": "b89d4064aaa5",
       "content/book/intelligence.md": "6234ae4579e1",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -453,14 +453,14 @@
     },
     "stats": {
       "posts": 426,
-      "edges": 13062,
-      "unique_directed": 6425,
+      "edges": 13064,
+      "unique_directed": 6426,
       "missing_targets": 0,
-      "one_way": 1195,
+      "one_way": 1196,
       "isolated": 0,
       "posts_with_outbound": 426,
       "book_pages": 16,
-      "book_edges": 1250,
+      "book_edges": 1255,
       "posts_reached_by_book": 426
     }
   },
@@ -2880,7 +2880,7 @@
       "slug": "fixed-by-nothing",
       "path": "content/posts/fixed-by-nothing.md",
       "title": "没有固定者的固定 / Fixed by Nothing",
-      "hash": "e95461537de8",
+      "hash": "313cd55bcbb5",
       "in_degree": 13,
       "out_degree": 13,
       "links_out": [
@@ -4095,7 +4095,7 @@
       "slug": "minimizing-path",
       "path": "content/posts/minimizing-path.md",
       "title": "最小化路径 / The Minimizing Path",
-      "hash": "d8c94ee78341",
+      "hash": "c585ae74466b",
       "in_degree": 3,
       "out_degree": 6,
       "links_out": [
@@ -4576,7 +4576,7 @@
       "slug": "observation-distinguishing-activity-and-the-open-ground-of-mind",
       "path": "content/posts/observation-distinguishing-activity-and-the-open-ground-of-mind.md",
       "title": "观察、区分活动与心智的开放地基 / Observation, Distinguishing Activity, and the Open Ground of Mind",
-      "hash": "a110c8372700",
+      "hash": "e78f9a54eccc",
       "in_degree": 18,
       "out_degree": 16,
       "links_out": [
@@ -5266,7 +5266,7 @@
       "path": "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md",
       "title": "幂律是正态分布的长期后果 / Power Law Is the Long-Term Consequence of Normal Distribution",
       "hash": "4f2725e3fcd4",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 10,
       "links_out": [
         "zi-you-de-ce-bu-zhun",
@@ -5767,7 +5767,7 @@
       "slug": "selection-contradiction-and-open-reality",
       "path": "content/posts/selection-contradiction-and-open-reality.md",
       "title": "选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality",
-      "hash": "215cb759f7ef",
+      "hash": "1101972968c9",
       "in_degree": 10,
       "out_degree": 12,
       "links_out": [
@@ -6688,7 +6688,7 @@
       "slug": "the-boundary-crossing-of-choice",
       "path": "content/posts/the-boundary-crossing-of-choice.md",
       "title": "抉择的跨界 / The Boundary Crossing of Choice",
-      "hash": "5725ac2013bd",
+      "hash": "f23183dd7dd7",
       "in_degree": 7,
       "out_degree": 8,
       "links_out": [
@@ -7295,7 +7295,7 @@
       "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences",
-      "hash": "4c7791c6ed81",
+      "hash": "d9453ea37244",
       "in_degree": 40,
       "out_degree": 34,
       "links_out": [
@@ -7432,7 +7432,7 @@
       "slug": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
       "path": "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md",
       "title": "数字火箭、同行审查与因果闭环的稀释 / Digital Rockets, Peer Review, and the Dilution of the Causal Loop",
-      "hash": "0c3fcdc7e58d",
+      "hash": "74e15da43c71",
       "in_degree": 22,
       "out_degree": 27,
       "links_out": [
@@ -7972,12 +7972,11 @@
       "slug": "the-generative-atlas-of-macroscopic-phenomena",
       "path": "content/posts/the-generative-atlas-of-macroscopic-phenomena.md",
       "title": "宏观现象的生成图谱 / The Generative Atlas of Macroscopic Phenomena",
-      "hash": "f03fcc2f0221",
+      "hash": "46f04ad12f4c",
       "in_degree": 18,
       "out_degree": 19,
       "links_out": [
         "your-codebase-is-memory",
-        "guidance-is-not-ownership",
         "what-information-is",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "individual-choices-as-the-only-causal-levers",
@@ -7987,6 +7986,7 @@
         "shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi",
         "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
         "no-system-can-be-kept-closed",
+        "guidance-is-not-ownership",
         "the-geometry-of-emergence",
         "the-generative-topology-of-free-variables",
         "the-mark-and-the-act",
@@ -9468,7 +9468,7 @@
       "slug": "the-open-question-is-determinisms-demand",
       "path": "content/posts/the-open-question-is-determinisms-demand.md",
       "title": "悬而未决是决定论的索求 / The Open Question Is Determinism's Demand",
-      "hash": "48656561f081",
+      "hash": "670d76055718",
       "in_degree": 5,
       "out_degree": 10,
       "links_out": [
@@ -10832,9 +10832,9 @@
       "slug": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "path": "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md",
       "title": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation",
-      "hash": "19431edf6cb8",
+      "hash": "124b8f97fc34",
       "in_degree": 23,
-      "out_degree": 24,
+      "out_degree": 25,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
@@ -10846,6 +10846,7 @@
         "the-invisible-observer-and-the-delusion-of-lossless-transmission",
         "observation-distinguishing-activity-and-the-open-ground-of-mind",
         "the-causal-overstep-of-observation-and-the-first-person-surplus",
+        "power-law-is-the-long-term-consequence-of-normal-distribution",
         "the-grammar-of-finding-and-the-fading-observer",
         "the-freedom-of-will-to-deny-itself",
         "the-causal-inversion-of-partnership",
@@ -12091,7 +12092,7 @@
       "slug": "zi-you-de-ce-bu-zhun",
       "path": "content/posts/zi-you-de-ce-bu-zhun.md",
       "title": "自由的测不准 / The Uncertainty of Freedom",
-      "hash": "e65d9e914390",
+      "hash": "b31126285afd",
       "in_degree": 21,
       "out_degree": 22,
       "links_out": [
@@ -62290,21 +62291,9 @@
     },
     {
       "from": "the-generative-atlas-of-macroscopic-phenomena",
-      "to": "guidance-is-not-ownership",
-      "rel": "points_to",
-      "label": "引导不是占有"
-    },
-    {
-      "from": "the-generative-atlas-of-macroscopic-phenomena",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
-    },
-    {
-      "from": "the-generative-atlas-of-macroscopic-phenomena",
-      "to": "guidance-is-not-ownership",
-      "rel": "points_to",
-      "label": "Guidance Is Not Ownership"
     },
     {
       "from": "the-generative-atlas-of-macroscopic-phenomena",
@@ -62416,9 +62405,21 @@
     },
     {
       "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "guidance-is-not-ownership",
+      "rel": "points_to",
+      "label": "引导不是占有"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
       "to": "the-geometry-of-emergence",
       "rel": "points_to",
       "label": "涌现的几何学"
+    },
+    {
+      "from": "the-generative-atlas-of-macroscopic-phenomena",
+      "to": "guidance-is-not-ownership",
+      "rel": "points_to",
+      "label": "Guidance Is Not Ownership"
     },
     {
       "from": "the-generative-atlas-of-macroscopic-phenomena",
@@ -81244,6 +81245,18 @@
     },
     {
       "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "rel": "points_to",
+      "label": "幂律是正态分布的长期后果"
+    },
+    {
+      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "to": "power-law-is-the-long-term-consequence-of-normal-distribution",
+      "rel": "points_to",
+      "label": "Power Law Is the Long-Term Consequence of Normal Distribution"
+    },
+    {
+      "from": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "to": "the-grammar-of-finding-and-the-fading-observer",
       "rel": "points_to",
       "label": "寻觅的语法与淡出的观察者"
@@ -90578,7 +90591,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "6908b38e719b",
+        "hash": "b89d4064aaa5",
         "out_degree": 426
       },
       {
@@ -91719,6 +91732,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "rel": "collects",
+        "label": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-unclosable-trace",
         "rel": "collects",
         "label": "无法闭合的痕迹 / The Unclosable Trace"
@@ -91854,6 +91873,12 @@
         "to": "a-new-deeper-look-at-antifragility",
         "rel": "collects",
         "label": "重新审视反脆弱 / A New Deeper Look at Antifragility"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+        "rel": "collects",
+        "label": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
       },
       {
         "from": "book:index-of-premises",
@@ -92739,6 +92764,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+        "rel": "collects",
+        "label": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-causal-overstep-of-observation-and-the-first-person-surplus",
         "rel": "collects",
         "label": "观察的因果僭越与第一人称的收益差 / The Causal Overstep of Observation and the First-Person Surplus"
@@ -92826,6 +92857,12 @@
         "to": "the-power-law-of-surrendered-agency",
         "rel": "collects",
         "label": "让渡主权的幂律法则 / The Power-Law of Surrendered Agency"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+        "rel": "collects",
+        "label": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
       },
       {
         "from": "book:index-of-premises",
@@ -93699,12 +93736,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
-        "rel": "collects",
-        "label": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "the-illusion-of-distance-and-the-dual-ruler",
         "rel": "collects",
         "label": "距离的幻觉与尺度的双向投影 / The Illusion of Distance and the Dual Projections of the Ruler"
@@ -94344,6 +94375,12 @@
         "to": "the-generative-atlas-of-macroscopic-phenomena",
         "rel": "collects",
         "label": "宏观现象的生成图谱 / The Generative Atlas of Macroscopic Phenomena"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+        "rel": "collects",
+        "label": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
       },
       {
         "from": "book:index-of-premises",
@@ -95934,6 +95971,12 @@
         "to": "tokens-and-the-observational-boundary",
         "rel": "collects",
         "label": "词元与观测边界 / Tokens and the Observational Boundary"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-boundary-crossing-of-choice",
+        "rel": "collects",
+        "label": "抉择的跨界 / The Boundary Crossing of Choice"
       },
       {
         "from": "book:index-of-premises",

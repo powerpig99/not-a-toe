@@ -30,15 +30,15 @@ Under these two premises—which are two faces of one coin, since the first-pers
 
 Determinists most often cite this argument: when the behavior of vast populations is measured statistically at the macro level, individual data often look like Brownian motion or an independent random walk, and from this they declare that so-called individual free will does not exist and all is a throw of the probabilistic dice. The inference makes a logical inversion: it equates "the absence of third-person observational information" with "the absence of first-person causation."
 
-从内部看，第一人称的确定性成立：当一个人做出不受强迫的自主选择时，活着的心智以自身独特的估值模型、留存的记忆痕迹与当下的目标作为生效的前提来划出决定，因此在微观的内部，这一步具有内在的自洽与因果必然，而非无序的抽搐。从外部看，第三人称的最大信息熵显现：外部观察者既无法获取这个主体脑海里全部的微观变量、隐性偏好、情绪权重与历史上下文，也无法占据在抉择行动中权衡并重绘这些要素的当下边缘。正如[确定性是微观不确定性的统计签名](../determinism-is-the-statistical-signature-of-micro-indeterminism/)所追溯，外部的不可预测并非只是对黑盒内某套预先写死的机械脚本缺乏了解，而是鲜活的第一人称切分在跨视界观测中的显现；因为没有任何外部系统能建立从“外部环境输入”到“个人行为输出”的机械确定的函数映射，所以在外部的统计观测上，这个自主的决策必然呈现出与纯随机过程（最大信息熵）一致的数学特征。
+从内部看，第一人称的确定性成立：当一个人做出不受强迫的自主选择时，活着的心智以自身独特的估值模型、留存的记忆痕迹与当下的目标作为生效的前提来划出决定，因此在微观的内部，这一步具有内在的自洽与因果必然，而非无序的抽搐。从外部看，第三人称的表观熵显现：外部观察者既无法获取这个主体脑海里全部的微观变量、隐性偏好、情绪权重与历史上下文，也无法占据在抉择行动中权衡并重绘这些要素的当下边缘。正如[确定性是微观不确定性的统计签名](../determinism-is-the-statistical-signature-of-micro-indeterminism/)所追溯，外部的不可预测并非只是对黑盒内某套预先写死的机械脚本缺乏了解，而是鲜活的第一人称切分在跨视界观测中的显现；因为没有任何外部系统能建立从“外部环境输入”到“个人行为输出”的机械确定的函数映射，所以在外部的统计观测上，这个自主的决策会留下一项无法闭合的残差，登记为表观的随机。
 
-From the inside, first-person determinacy holds: when a person exercises uncoerced autonomy, the living Mind draws the decision through its unique valuation model, retained traces of memory, and present objective as its active premise, so within the micro interior the step registers with full internal coherence and causal necessity rather than as an erratic spasm. From the outside, third-person maximal information entropy appears: an outside observer can neither obtain all the micro variables, hidden preferences, emotional weights, and historical context in this subject's head nor occupy the present edge that weighs and re-renders them in the act of choosing. As [Determinism is the Statistical Signature of Micro-Indeterminism](../determinism-is-the-statistical-signature-of-micro-indeterminism/) traces, external unpredictability is not mere ignorance of a pre-fixed mechanical script hidden inside a black box, but the across-horizon registration of a live first-person cut; because no outside system can build a mechanically determinate function from "outside environmental input" to "individual behavioral output," in outside statistical observation this autonomous decision necessarily shows mathematical features identical to a purely random process, maximal information entropy.
+From the inside, first-person determinacy holds: when a person exercises uncoerced autonomy, the living Mind draws the decision through its unique valuation model, retained traces of memory, and present objective as its active premise, so within the micro interior the step registers with full internal coherence and causal necessity rather than as an erratic spasm. From the outside, third-person apparent entropy appears: an outside observer can neither obtain all the micro variables, hidden preferences, emotional weights, and historical context in this subject's head nor occupy the present edge that weighs and re-renders them in the act of choosing. As [Determinism is the Statistical Signature of Micro-Indeterminism](../determinism-is-the-statistical-signature-of-micro-indeterminism/) traces, external unpredictability is not mere ignorance of a pre-fixed mechanical script hidden inside a black box, but the across-horizon registration of a live first-person cut; because no outside system can build a mechanically determinate function from "outside environmental input" to "individual behavioral output," in outside statistical observation this autonomous decision leaves an unclosed residual that registers as apparent randomness.
 
-外部表现为随机，正是微观自由意志存在的数学证明。如果一个人的行为在外部可以被公式十足精确地预测，恰恰证明其决策机制已被外部的环境变量焊死，成了没有自主心智的机械齿轮；只有当一个人拥有不可剥夺的微观主权、由自己的内部模型驱动决策时，外部系统才只能以“统计随机”的形式在宏观上度量它。[翻袋球与魔术戏法](../the-bank-shot-and-the-magic-trick/)用台球桌上的库边反弹与魔术戏法揭示了这道断层：外部学者统计成千上万次业余击球、画出正态的钟形曲线时，断言进球纯属随机运气；而真正站在球台前推演反射几何、经过千百小时第一人称训练的球手清楚，高难度的反弹进球，是内在精准的模型与身体刻意练习的确定因果。在外是随机，在内是抉择，[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)说明了这两面怎样属于同一个行动。
+外部表现为随机，并不否定微观的自由意志；那正是主权抉择跨越观测视界留下的数学签名。如果一个人的行为在外部仅凭环境变量的公式就能预测，其决策机制就成了被外部输入焊死的被动中继；当一个人行使微观主权、由内部模型驱动决策时，任何仅以环境输入为条件的外部模型都会留下一项残差，在宏观上只能登记为“统计随机”。[翻袋球与魔术戏法](../the-bank-shot-and-the-magic-trick/)用台球桌上的库边反弹与魔术戏法揭示了这道断层：外部学者统计成千上万次业余击球、画出正态的钟形曲线时，断言进球纯属随机运气；而真正站在球台前推演反射几何、经过千百小时第一人称训练的球手清楚，高难度的反弹进球，是内在精准的模型与身体刻意练习的确定因果。在外是随机，在内是抉择，[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)说明了这两面怎样属于同一个行动。
 
-Appearing random from outside is precisely the mathematical proof that micro free will exists. If a person's behavior could be predicted from outside by formula with full precision, that would prove their decision mechanism had been welded shut by outside environmental variables, a mechanical gear without an autonomous Mind; only when a person holds inalienable micro sovereignty, with decisions driven by their own inner model, can an outside system measure them at the macro level only in the form of "statistical randomness." [The Bank Shot and the Magic Trick](../the-bank-shot-and-the-magic-trick/) reveals this fault line with the cushion rebounds of the billiard table and the magician's trick: when outside scholars tally thousands of amateur strokes and draw a normal bell curve, they declare pocketing a ball pure chance; yet the player who really stands at the table working out the geometry of reflection, after thousands of hours of first-person practice, knows that a difficult bank shot is the determinate causality of a precise inner model and deliberate bodily practice. Random outside, choice inside, and [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) shows how both faces belong to one act.
+Appearing random from outside does not refute micro free will; it is the mathematical signature a sovereign choice leaves across an observational horizon. If a person's behavior could be predicted from outside by a formula of environmental variables alone, their decision mechanism would be a passive relay welded shut to outside inputs; when a person exercises micro sovereignty and drives decisions from an inner model, any outside model conditioned only on environmental inputs is left with a residual it can register at the macro level only as "statistical randomness." [The Bank Shot and the Magic Trick](../the-bank-shot-and-the-magic-trick/) reveals this fault line with the cushion rebounds of the billiard table and the magician's trick: when outside scholars tally thousands of amateur strokes and draw a normal bell curve, they declare pocketing a ball pure chance; yet the player who really stands at the table working out the geometry of reflection, after thousands of hours of first-person practice, knows that a difficult bank shot is the determinate causality of a precise inner model and deliberate bodily practice. Random outside, choice inside, and [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) shows how both faces belong to one act.
 
-这就是自由的测不准：内部主权的确定性越高，外部测量的表观熵值就越大。
+这就是自由的测不准：第一人称主权之内所经历的确定性，与外部测量所登记的表观熵，是同一个行动跨越观测视界的一体两面。
 
 ```mermaid
 flowchart TD
@@ -49,8 +49,8 @@ flowchart TD
     end
     subgraph S_Out["从外部看：第三人称"]
         direction TB
-        O1["外部无法触及内部变量与当下切分"]
-        O2["测得的是统计随机"]
+        O1["跨越观测视界，内部变量与当下切分不可触及"]
+        O2["外部测得的是表观的统计随机"]
     end
     I1 --> I2
     I2 ==> O1
@@ -63,7 +63,7 @@ flowchart TD
     style O2 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
 ```
 
-This is the uncertainty of freedom: the higher the determinacy of inner sovereignty, the greater the apparent entropy of outside measurement.
+This is the uncertainty of freedom: the determinacy lived within first-person sovereignty and the apparent entropy registered by outside measurement are two faces of one act across the horizon of observation.
 
 ```mermaid
 flowchart TD
@@ -74,8 +74,8 @@ flowchart TD
     end
     subgraph S_Out["Outside, in the third person"]
         direction TB
-        O1["Inner variables and live cut inaccessible from outside"]
-        O2["What is measured is statistical randomness"]
+        O1["Across the horizon, inner variables and live cut stay inaccessible"]
+        O2["What is measured outside is apparent statistical randomness"]
     end
     I1 --> I2
     I2 ==> O1
