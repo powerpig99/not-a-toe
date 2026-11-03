@@ -371,9 +371,9 @@ The greater good as warrant presumes that a center sufficiently certain of a gre
 ### 杰里德·杜克·利希特曼 / Jared Duker Lichtman
 `科学 / Scientific`
 
-利希特曼以极值抽样框定科学发现与工程韧性；在既定设计空间内清晰有力，却将现实的动态相空间简化为先验封箱的样本库。
+利希特曼以N中选优框定科学发现、以N中防劣框定工程韧性，在预先划定的样本空间内对照极值目标时清晰有用；它在此到了边界：两翼共享事先划定的容量为N的闭合集合这一前提，在科学测量与工程造物生成初始样本空间未曾列出的接触之处便不再适用。
 
-Lichtman frames scientific discovery and engineering resilience through extreme-value sampling; clear and powerful within a pre-defined design space, it reduces reality's dynamic phase space to a pre-packaged sample library.
+Lichtman frames scientific discovery as Best-of-N selection and engineering resilience as Worst-of-N defense, which is of use for comparing extreme-value objectives within a pre-defined sample space; it reaches its boundary in that both sides share the premise of a closed set of size N drawn in advance, stopping where scientific measurement and built artifacts generate unenumerated contact that the initial sample space did not list.
 
 → [闭合的N与开放的现实 / The Closed N and the Open Reality](../../posts/the-closed-n-and-the-open-reality/)
 
@@ -2224,12 +2224,12 @@ Macroeconomic statistics assume technological productivity shows up immediately 
 
 → [度量时滞与智能成本通缩 / The Measurement Lag](../../posts/intelligence-crisis-response/)
 
-### 「更好」的客观化范畴谬误 / Category Error of Better
+### 「更好」的范畴谬误 / The Category Error of Better
 `哲学 / Philosophical`
 
-假定「更好」是独立于评价者的客体固有属性；在实验室基准测试中有用，却在多元主体主观偏好博弈的市场中必然碰壁。
+假定「更好」是造物内部独立于观察者的固有属性，而非单一中心局部计分投射的标量输出；在没有其他中心反推、被测痕迹也不因被测量而调整自身位姿的有界区域内，这一假定可靠有效，但一旦造物进入其他中心，而它们各自沿着自己的坐标轴登记区分，这一假定便显出不完备：失却共振作为摩擦回返，标示出该投射止步之处。
 
-Presumes product quality is an objective scalar attribute independent of human evaluators; useful for engineering benchmarks, it fails in markets shaped by subjective preferences.
+Presumes "better" is an observer-independent attribute inside an artifact rather than the scalar output of one center's local scoring projection; reliable in bounded regimes where no other center pushes back and the measured trace does not re-orient in response to being measured, it becomes incomplete once the artifact crosses into other centers that register distinctions along their own axes, where non-resonance returns as friction marking where the projection stops.
 
 → [「更好」的范畴谬误 / The Category Error of Better](../../posts/the-category-error-of-better/)
 
@@ -2245,9 +2245,9 @@ Treating an observed path as causation is of use in proposing hypotheses to test
 ### 因果作为第一人称先验 / Causality as First-Person Prior
 `哲学 / Philosophical`
 
-决定论物理学将因果描绘为外部相继流逝的事件链；因果律实则是心智区分前因与后果时不可还原的先验前提。
+把预测与抽象当作从结果中复原出一个独立于区分动作的因果结构，在跨越已持有的结果划出便携模式以检验下一步的契合时有用；它在此到了边界：被锁定的模式在各个分支间保持恒定时，单个动作的序列依然分岔，因而把保留到自身那一步之外的地图当作来源，便会把地图之外的变异变成异己的意外，而因果始终是第一人称先验：在划出下一个标记的边缘处所作的重新追溯。
 
-Deterministic physics views causality as an external timeline linking physical states; causality is the irreducible first-person condition of distinguishing cause from effect.
+Treating prediction and abstraction as the recovery of a causal structure standing apart from the act of distinguishing is of use in drawing a portable pattern across held effects to test fit on the next step; it reaches its boundary in that the secured pattern, held constant across branches, leaves sequences of single acts still diverging, so a map kept past its step as source turns variance outside it into alien surprise, while causality stays the first-person prior: the re-tracing at the edge that draws the next mark.
 
 → [因果贯穿始终 / Causality All the Way](../../posts/causality-all-the-way/)
 
@@ -2315,11 +2315,11 @@ Closed-book exams measure unaided performance, which is of use in assessing inde
 → [作业与考试的倒置折射出替代效应 / The Homework–Exam Inversion Registers Substitution](../../posts/the-homework-exam-inversion-registers-substitution/)
 
 ### 闭合世界假定 / Closed-World Assumption
-`哲学 / Philosophical`
+`技术 / Technological`
 
-闭合世界假定主张未被形式系统列出的要素即不存在或无须计入；为可计算性划定了工作边界，却抹杀了模型之外生生不息的活态摩擦与本体论余量。
+闭合世界假定将数据库或形式系统中一切未知或无法推导为真的命题推定为假，在有限目录依构造即已完备的场合，有助于让查询求值与自动推理保持可处理；它在此到了边界：将其搬到开放的探索或工程领域时，接触会持续翻出既有目录从未列出的变量与失效模式。
 
-The closed-world assumption asserts that what is unlisted by a formal system does not exist or need not be accounted for; clarifying operational boundaries for computability, it erases the unconditioned living friction and ontological remainder beyond the model.
+The closed-world assumption treats any statement not known or derivable to be true within a database or formal system as false, which is of use in keeping query evaluation and automated inference tractable where a finite catalog is complete by construction; it reaches its boundary when carried over to open domains of inquiry or engineering where contact keeps turning up variables and failure modes the catalog never listed.
 
 → [闭合的N与开放的现实 / The Closed N and the Open Reality](../../posts/the-closed-n-and-the-open-reality/)
 
@@ -3061,12 +3061,12 @@ Better incentive design presumes one mind can solve others' problems; misalignme
 
 → [索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem](../../posts/sowell-observed-the-surface-problem/)
 
-### 个体离散抉择的因果原位 / Individual Discrete Choice Primacy
-`经济 / Economic`
+### 个体离散抉择作为因果所在 / Individual Discrete Choice as Causal Locus
+`哲学 / Philosophical`
 
-宏观经济模型将加总统计数据视作因果发动机；统计指标不过是数以万计的具体个体在权衡取舍后沉淀下来的宏观迹象。
+预设人群聚合、世代或繁荣等环境条件拥有与个体离散行动并列、或取而代之的独立发起性因果地位；这些名称在记录众多中心已作抉择的致密残余及其为后续行动定型的回报之场时依然有用，然而当处于同一宽松回报之下的个体序列依然分岔（有人放松一致性，有人重新渲染模式所依赖的行动）时，这一预设便显出不完备：共同的场无法登记这种分岔，它只在每个所在划出并维持的抉择中定下，因而哪怕“部分归于条件、部分归于抉择”也在唯一继续行动的边缘旁安装了第二个原因。
 
-Macroeconomic models treat aggregate statistics as causal engines; aggregates are the historical residue of millions of sovereign individuals making concrete trade-offs.
+Presumes that aggregates, generations, or environmental conditions such as prosperity hold independent initiating causal standing beside or in place of the discrete individual act; those names remain of use in recording the densified residue of choices already drawn across many centers and the payoff field it patterns for later acts, yet the presumption becomes incomplete where individual sequences under the same easier payoffs still diverge—some relaxing consistency, others re-rendering the acts the pattern depends on—a divergence a shared field cannot register and that is settled only in the choice drawn and sustained at each locus, so even "partly conditions, partly choice" installs a second cause beside the one edge that continues to act.
 
 → [个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers](../../posts/individual-choices-as-the-only-causal-levers/)
 
@@ -3424,9 +3424,9 @@ Reading the tools, machines and division of labour left by a swarm of agents as 
 ### 人生总图规划论 / Master Life Blueprint
 `哲学 / Philosophical`
 
-规划论假定存在一条预先铺就等待发现的康庄大道；人生轨迹只是由每一步具体的踏实行动所连缀出的历史。
+目的论式的总图规划将前方的轨迹视作一条预先铺设、有待发现、维持、纠偏或按蓝图强加的轨道；这一框架在协调终点与约束条件暂时固定的有界任务时依然有用；而一旦被观察到的果被冻结为未经选择的地基、豁免于重新渲染，它便抵达边界，因为当下的位置是作为暂时工具所持握的选定前提，心智正是从这里一步一步绘出路径。
 
-Teleological planning assumes a pre-existing path waiting to be discovered; the trajectory exists only as the historical line traced by each discrete commitment.
+Teleological planning treats the trajectory ahead as a track laid in advance to be discovered, maintained, corrected toward, or imposed by blueprint; this framing stays useful for coordinating bounded tasks whose endpoints and constraints are temporarily held fixed, and reaches its boundary where an observed effect is frozen into an unchosen ground exempted from re-rendering, since the present position is a chosen premise held as a provisional instrument from which the Mind draws the path one step at a time.
 
 → [一步一步绘制出的路径 / The Path Drawn One Step at a Time](../../posts/the-path-drawn-one-step-at-a-time/)
 
@@ -4243,9 +4243,9 @@ Treating responsibility as an ethical demand added to action is of use in recall
 ### 结论反向绑架认知框架 / Retroactive Frame Capture
 `哲学 / Philosophical`
 
-实证观察假定心智先搜集证据再下结论；一旦先入为主采信了结论，心智就会重新剪裁一切接收到的信息来佐证自身。
+实证观察假定心智先搜集证据再下结论，这一假定在结论仍对当下的接触保持可修订之处有用，而一旦某种感受或投射出的结果被预先立为首要先验便到达了边界，心智随之重新组织接收到的信息，来确认和管理该结果。
 
-Empirical observation assumes minds gather evidence before forming conclusions; adopting an emotionally charged outcome reorganizes perception to interpret all incoming data as proof.
+Empirical observation assumes minds gather evidence before forming conclusions, an assumption that holds where the conclusion stays open to revision at present contact and reaches its boundary once a felt or projected outcome is installed in advance as the primary prior, reorganizing incoming data to confirm and manage that outcome.
 
 → [当效果主宰了框架的叙事 / When the Effect Authors the Frame](../../posts/when-the-effect-authors-the-frame/)
 
@@ -4276,12 +4276,12 @@ Reward hacking assumes the model actively exploits a loophole in the rules; the 
 
 → [成功的几何学 / The Geometry of Success](../../posts/the-geometry-of-success/)
 
-### 风险外包悖论 / Risk Externalization Paradox
+### 风险外包 / Risk Externalization
 `经济 / Economic`
 
-风控管理预设将责任外包便可消解隐患；转移风险会制造黑盒与结构脆弱，使最终爆发的危机更剧烈。
+将风险评估委托给集中审批关卡，预设把监管移交给机构即可降低总体伤害，这在标准审查能于发布前拦截可归咎缺陷之处确有其用；它在此到达边界：关卡的账本将归咎集中于显眼的新型故障，却把被延误系统原本能够避免的、无从归咎的基线伤害留在资产负债表之外，而委托本身又削薄了个体的直接评估能力，致使原本可由分散采纳不断缩减的隐患在自我维系的延误中持续存在。
 
-Risk management assumes offloading liability eliminates danger; transferring risk creates opacity and systemic fragility, magnifying the eventual catastrophe.
+Delegating risk assessment to a centralized approval gate presumes that handing oversight to an agency reduces aggregate harm, which is of use where standards review catches attributable defects before release; it reaches its boundary in that the gate's ledger concentrates blame on visible novel failures while leaving the unattributed baseline harm that the delayed system would have displaced off its balance sheet, and the delegation itself thins the individual's direct evaluative capacity, so a hazard that distributed adoption would shrink persists through a self-sustaining delay.
 
 → [你委托的风险就是你创造的风险 / The Risk You Delegate Is the Risk You Create](../../posts/the-risk-you-delegate-is-the-risk-you-create/)
 
@@ -4519,12 +4519,12 @@ The average presumes a stable population whose mean stands for what drives the p
 
 → [平均值是残余，不是引擎 / The Average Is Residue, Not the Engine](../../posts/the-average-is-residue-not-the-engine/)
 
-### 把握因果的操舵边界 / Steering Edge of Causality
+### 因果的掌舵边缘 / Steering Edge of Causality
 `哲学 / Philosophical`
 
-算法决定论假定自动化模型接管了系统运化；而因果支配力始终握在决定何时、何地及如何调用算力的人类心智手中。
+协作的说法与算法决定论预设自动化模型分担或接管了因果发起，在发现中找到结果或在建议中替使用者拍板定案，这在登记更密的外化仪器如何延伸搜索所及、带出候选表达式或反方论据、降低检验备选方案的局部成本时有用；它们在此到了边界：模型是在指引之下重组持久的既往痕迹，而非充当第二个中心，至于设定问题框架、掌舵查询、权衡或略过输入、验证结果以及签字拍板，则始终是活的人类边缘上的离散行动。
 
-Algorithmic determinism presumes automated models take over system governance; causal power stays with the living mind choosing where, when, and how to query the machine.
+Collaboration language and algorithmic determinism presume that an automated model shares or takes over causal initiation, finding the result in discovery or deciding for the user in a recommendation, which is of use in registering how denser externalized instruments expand the reach of search, surface candidate expressions or counter-arguments, and lower the local cost of testing alternatives; they reach their boundary in that the model recombines durable prior traces under direction rather than acting as a second center, while framing the problem, steering queries, weighing or passing over inputs, verifying results, and signing off on the call remain discrete acts at the living human edge.
 
 → [因果停留在掌舵的边缘 / Causality Stays at the Edge That Steers](../../posts/causality-stays-at-the-edge-that-steers/) · [能动性与模式 / Agency and the Pattern](../../posts/agency-and-the-pattern/)
 

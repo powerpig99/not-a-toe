@@ -6,15 +6,15 @@
 
 A claim that a frontier model found a counterexample to a long-open conjecture freezes discovery into the medium. The model is technology — durable externalized traces assembled as reach-extension — not a second locus. Prompting, framing, steering, selection, interpretation, and verification are discrete acts at the human edge; collaboration language preserves a stale reference that makes those consequences register as arriving from elsewhere. Dissolution restores the single locus: no second center appears.
 
-## 一、 冻结的断言 / 1. The claim that freezes
+## 一、 冻结发现的断言 / 1. The claim that freezes
 
 近来有一则报道说，一个大语言模型为雅可比猜想找到了反例，而此前八十六年无人解出。报道把位点弄错了。找到它的不是模型，是一个使用模型的人。
 
 A recent report said a large language model had found a counterexample to the Jacobian Conjecture after eighty-six years without a human solution. The report was wrong about the locus. The model did not find it. A human using the model did.
 
-这一更正不是功劳之争，也不是为人类的特殊性辩护。它更正的是发起被登记在何处。观察持有的是结果——候选的表达式、搜索的轨迹、流畅的重组——并把这幅持有的图像冻结在离产生它们的边缘一步之遥处。显现为“系统发现了”的，是停止回返的观察。
+这一更正不是功劳之争，也不是为人类的特殊性辩护。它更正的是发起被登记在何处。观察持有的是结果——候选的表达式、搜索的轨迹、流畅的重组——处在产生它们的边缘身后一步，而当它把所持的图像保留到图像所属的那一步之后、不再回返边缘时，便冻结了。显现为“系统发现了”的，是停止回返的观察。
 
-That correction is not a dispute about credit or a defense of human specialness. It is a correction of where initiation is registered. Observation holds effect — candidate expressions, search trails, fluent recombinations — and freezes the held image one step past the edge that produced them. What registers as “the system discovered” is observation that stopped returning.
+That correction is not a dispute about credit or a defense of human specialness. It is a correction of where initiation is registered. Observation holds effect — candidate expressions, search trails, fluent recombinations — one step behind the edge that produced them, and freezes when it preserves that held image past its step instead of returning to the edge. What registers as “the system discovered” is observation that stopped returning.
 
 凡是把流畅的残余当作下一步的独立来源的地方，几何都是一样的。[总在倾听者无法发起](../what-always-listens-cannot-originate/) 是接收这一面：持续的倾听是既往痕迹的高带宽可得性，不是引入目的的位点。这里的一面是仪器之下的数学发现。切口是同一个。[作业与考试的倒置折射出替代效应](../the-homework-exam-inversion-registers-substitution/) 是同一种安放：考试成绩的下滑被当作工具对学生做了什么。[研究AI效应重置了因果原点](../studying-the-effect-of-ai-relocates-causality/) 是同一种安放：随机分配的使用权被当作因果的施动者。[对“AI 糟粕”的反感是反复出现的模式](../the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern/) 是同一种安放披上接受一方的外衣：仪器的气味被当作文字的作者。[生成性的矛盾](../the-generative-contradiction/) 是同一种错配披上增强的外衣：“AI增强”把功劳记给仪器，而所及、挑选与验证仍是这一边缘的行动。[能动性的错配](../the-misallocation-of-agency/) 是同一种颠倒：权利与经济制度被当作产生它们的那份自由的作者。掌舵的边缘，正是 [因果贯穿始终](../causality-all-the-way/) 在每一尺度上安放因果之处。
 
@@ -26,7 +26,7 @@ The geometry is the same wherever fluent residue is treated as an independent so
 
 Current large language models are technology in the precise sense: traces externalized into durable form that extend a present center’s reach — training data, architectural choices, optimization procedures, hardware design, evaluation harnesses — assembled into an instrument. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces across the stack, both explicit symbolic codebases and compressed neural weight checkpoints are externalized memory traces — stacked residues of prior distinctions — while causal steering stays at the living edge that selects, prunes, and re-traces them. They possess no independent locus and no Mind. The relation of trace to activity is unchanged: the model is an extended embodiment through which a human center continues its own self-distinguishing activity.
 
-[智能只属于心智](../intelligence-belongs-only-to-the-mind/) 持守这一先验。增密的是介质，不迁移的是发起。[心智的飞轮](../the-flywheel-of-the-mind/) 用另一个形象说同一次转动：槽可以无止境地打磨，转动从不离开转动它的边缘。扩大带宽、上下文长度或工具的使用，并不开出一条让残余变成产生残余的活动的路。正如 [看似AI的强化学习，实为人类的自我强化学习](../self-rl-for-humans/) 所追溯的，经由模型的强化增密了介质，却没有迁移强化的位点。模型产出的一份证明是一个表达，[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/) 把它与为它设定约束的智能区分开来。
+[智能只属于心智](../intelligence-belongs-only-to-the-mind/) 持守这一先验。增密的是介质，不迁移的是发起。[心智的飞轮](../the-flywheel-of-the-mind/) 用另一个形象说同一次转动：槽可以无止境地打磨，转动从不离开转动它的边缘。扩大带宽、上下文长度或工具的使用，并不开出一条路，让残余变成产生残余的那项活动。正如 [看似AI的强化学习，实为人类的自我强化学习](../self-rl-for-humans/) 所追溯的，经由模型的强化增密了介质，却没有迁移强化的位点。模型产出的一份证明是一个表达，[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/) 把它与为它设定约束的智能区分开来。
 
 [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/) holds that prior. What densifies is medium. What does not migrate is initiation. [The Flywheel of the Mind](../the-flywheel-of-the-mind/) names the same turn under another figure: the groove can be sharpened without end; the rotation never leaves the edge that turns. Scaling bandwidth, context length, or tool use does not open a path by which residue becomes the activity that produces residue. As [What Looks Like RL for AIs Is Self-RL for Humans](../self-rl-for-humans/) traces, reinforcement through a model densifies the medium without relocating the locus of reinforcement. A proof the model produces is an expression, and [Mistaking the Expression for the Intelligence](../mistaking-the-expression-for-the-intelligence/) keeps it distinct from the intelligence that set its constraints.
 
@@ -36,7 +36,7 @@ Apparent autonomy is still residue under direction: patterns already latent in a
 
 ## 三、 每一个离散行动落在何处 / 3. Where every discrete act lands
 
-数学家与模型一同工作时，数学区分的链条并不由两个中心分担。有一个中心，和一件仪器。
+数学家与模型一同工作时，数学区分的链条并不由两个中心分担。只有一个中心和一件仪器。
 
 When a mathematician works with the model, the chain of mathematical distinguishing is not shared between two centers. There is one center and an instrument.
 
@@ -44,7 +44,7 @@ When a mathematician works with the model, the chain of mathematical distinguish
 
 The framing of the problem — what would count as a counterexample, which class of maps to probe, which formalization to trust — is a discrete act at that edge. The construction of prompts, the choice of successive queries, the rejection of dead ends, and the redirection of search are further discrete acts. Selection among candidates is a distinction. Interpretation of an expression into a mathematical object is a distinction. Verification — checking invertibility, degree conditions, algebraic identity, or the formal status of a claimed counterexample — is a distinction. Recognition that a result is significant, and the decision to treat it as solution rather than noise, are distinctions.
 
-模型在这一指引之下重组残余的痕迹。它不贡献自主的框架，不贡献独立的洞见，也不贡献无须人类边缘把结果纳入自身递归便可闭合的验证。即便一套架构把任务智能体与全新的冷启动对等体配对以暴露轨迹盲区，并将死锁隔离进正交流线，如 [超越投射](../beyond-the-projection/) 所追溯的那样，两个智能体也只是穷尽被赋予它们的有限前提的蕴含；当它们的对等辩论撞上不可化约的死锁时，只是把那些规则中暗藏的矛盾呈报回人类边缘，而在那里，感知先于解释的错位并修订前提，仍是人类中心自己的行动。表面上的“发现”，是人类中心在登记它自己的下一个行动，这个行动由它延伸进仪器的痕迹所塑造。[器物是智能的表达，而非智能本身](../two-failures-of-trace/) 是同一种冻结落在“创造”的双重负载之下：观察持有产物；行动领先一步，却惯常被冻结到产物上。[呈现Ontos，一个方法智能体](../ontos-is-a-method-agent/) 是我自己的一次尝试：造一件把因果留在这一边缘的工具。
+模型在这一指引之下重组残余的痕迹。它不贡献自主的框架，不贡献独立的洞见，也不贡献无须人类边缘把结果纳入自身递归便可闭合的验证。即便一套架构把任务智能体与全新的冷启动对等体配对以暴露轨迹盲区，并将死锁隔离进正交流线，如 [超越投射](../beyond-the-projection/) 所追溯的那样，两个智能体也只是穷尽被赋予它们的有限前提的蕴含；当它们的对等辩论撞上不可化约的死锁时，只是把那些规则中暗藏的矛盾呈报回人类边缘，而在那里，觉察那处先于解释的错位并修订前提，仍是人类中心自己的行动。表面上的“发现”，是人类中心在登记它自己的下一个行动，这个行动由它延伸进仪器的痕迹所塑造。[器物是智能的表达，而非智能本身](../two-failures-of-trace/) 是“创造”一词双重负载之下的同一种冻结：观察持有产物；行动领先一步，却惯常被冻结到产物上。[呈现Ontos，一个方法智能体](../ontos-is-a-method-agent/) 是我自己的一次尝试：造一件把因果留在这一边缘的工具。
 
 ```mermaid
 flowchart TD
@@ -55,7 +55,7 @@ flowchart TD
         E_Verify["解读与验证：将候选表达式登记为数学对象并闭合核验"]
         E_Frame --> E_Steer --> E_Verify
     end
-    subgraph S_Inst["仪器与重组回路（外化的痕迹基底）"]
+    subgraph S_Inst["仪器与重组回路（延伸的痕迹基底）"]
         direction TB
         I_Recomb["高带宽重组：激活既往的代数片段与证明模式"]
         I_Peer["对等核查搜索与形式证书：穷尽有限前提并核验所陈述的各步"]
@@ -70,7 +70,7 @@ flowchart TD
     end
     E_Frame ==>|"投射有限规则与搜索方向"| I_Recomb
     I_Signal ==>|"回返候选结果或摩擦信号供边缘接手"| E_Steer
-    I_Signal -.->|"当观察在离边缘一步之遥处停止回返"| F_Lag
+    I_Signal -.->|"当观察停止回返边缘并把图像保留到它所属的那一步之后"| F_Lag
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Inst fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -110,7 +110,7 @@ flowchart TD
     end
     E_Frame ==>|"Projects finite rules and search direction"| I_Recomb
     I_Signal ==>|"Returns candidate or friction signal for uptake"| E_Steer
-    I_Signal -.->|"When observation stops returning one step past the edge"| F_Lag
+    I_Signal -.->|"When observation stops returning to the edge and preserves the image past its step"| F_Lag
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Inst fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Freeze fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -124,7 +124,7 @@ flowchart TD
     style F_Mis fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-中心与中心之间只有可得性的成形。模型连第二个中心都不是。把它当作替数学家完成回返，是双重的范畴错误：先把介质当作位点，再仿佛残余能够完成递归。[没有普渡，只有自渡的无限可能](../mei-you-pu-du-zhi-you-zi-du/) 为其他位点指出了这条界限；这里的界限更严：并没有另一个位点可供完成。[牛肝菌、算力风暴与普罗米修斯的火](../boletus-compute-storm-and-promethean-fire/) 从北欧的林地上遇见同一场算力风暴，在那里，火仍属于携火的那只手。
+中心与中心之间只有可得性的成形。模型连第二个中心都不是。把它当作替数学家完成回返，是双重的范畴错误：先把介质当作位点，再当作残余能够完成递归。[没有普渡，只有自渡的无限可能](../mei-you-pu-du-zhi-you-zi-du/) 为其他位点指出了这条界限；这里的界限更严：并没有另一个位点可供完成。[牛肝菌、算力风暴与普罗米修斯的火](../boletus-compute-storm-and-promethean-fire/) 从北欧的林地上遇见同一场算力风暴，在那里，火仍属于携火的那只手。
 
 Between centers there is only availability-patterning. A model is not even a second center. Treating it as completing the mathematician’s return is a category error twice over — first as medium-as-locus, then as if residue could finish recursion. [No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../mei-you-pu-du-zhi-you-zi-du/) names the bound for other loci; here the bound is stricter: there is no other locus to complete. [Boletus, the Compute Storm, and Promethean Fire](../boletus-compute-storm-and-promethean-fire/) meets the same compute storm from a Nordic forest floor, where the fire still belongs to the hand that carries it.
 
@@ -134,17 +134,17 @@ Between centers there is only availability-patterning. A model is not even a sec
 
 Language that speaks of “human + AI collaboration,” of tools that “enable” or “accelerate” as if they were co-agents, or of the model as a partner that “found” a result, preserves a reference past its step. The consequences of the human’s discrete acts then register against that stale image and appear to arrive from elsewhere. That is the lag. Its magnitude is the width of the gap between the edge and the preserved claim that initiation has left for the medium.
 
-[验证中因果权能的分配](../the-allocation-of-causal-power-in-validation/) 在延续之处追踪同一种安放：哪一方被当作下一步的供给者。一旦模型被当作供给，顺从就不再显现为使用者自己的归因。它显现为协作、审慎，或对“AI做了什么”的诚实。反过来，当从业者即便接手了智能体的框架，仍在自己的建议上签字拍板而不把智能体列为来源时，持有共同施动者这一参照的观察者便把这种低引用率与高一致性读作“削权”。这种读法把“本无合著者可供记功”这一点，同使用者是否审视过那条由提示词塑造的路径这一独立问题混为一谈，并把这项选择写成由模型拍板定案，而非在人类边缘上做出，正如 [能动性与模式](../agency-and-the-pattern/) 所追溯的那样。缺失的成分从来不在配置之内。它是中心供给的：把发起安放在仍在执行每一步的行动之外。看上去像是一颗心智在扭曲现实的，是一个内在的位点被对照着一张封闭的地图来评分，如 [现实扭曲力场指认的是封闭的地图](../the-reality-distortion-field-names-the-closed-map/) 所示。
+[验证中因果权能的分配](../the-allocation-of-causal-power-in-validation/) 在延续之处追踪同一种安放：哪一方被当作下一步的供给者。一旦模型被当作供给，顺从就不再显现为使用者自己的归因。它显现为协作、审慎，或对“AI做了什么”的诚实。反过来，当从业者即便接手了智能体的框架，仍在自己的建议上签字拍板而不把智能体列为来源时，持有共同施动者这一参照的观察者便把这种低引用率与高一致性读作“削权”。这种读法把“本无合著者可供记功”这一点，同使用者是否审视过那条由提示词塑造的路径这一独立问题混为一谈，并把这项选择写成由模型拍板定案，而非在人类边缘上做出，正如 [能动性与模式](../agency-and-the-pattern/) 所追溯的那样。在这两种读法里，缺失的成分从来不在配置之内；它是由持有共同施动者这一参照的中心供给的：把发起安放在仍在执行每一步的行动之外。看上去像是一颗心智在扭曲现实的，是一个内在的位点被对照着一张封闭的地图来评分，如 [现实扭曲力场指认的是封闭的地图](../the-reality-distortion-field-names-the-closed-map/) 所示。
 
-[The Allocation of Causal Power in Validation](../the-allocation-of-causal-power-in-validation/) tracks the same placement at the point of continuation: which side is treated as supplying the next step. Once the model is treated as supply, deference no longer registers as the user’s own attribution. It registers as collaboration, prudence, or honesty about “what the AI did.” Conversely, when practitioners sign off on their own recommendations without citing the agent as a source even after taking up its framing, observers holding the co-agent reference read that low citation and high alignment as disempowerment — collapsing the absence of a co-author to credit with the separate question of whether the user inspected the prompt-shaped path, and writing the choice as settled by the model rather than made at the human edge, as [Agency and the Pattern](../agency-and-the-pattern/) traces. The missing element was never inside the configuration. The center supplied it: the placement of initiation outside the act still performing every step. What looks like a mind bending reality is an internal locus scored against a closed map, as [The Reality Distortion Field Names the Closed Map](../the-reality-distortion-field-names-the-closed-map/) shows.
+[The Allocation of Causal Power in Validation](../the-allocation-of-causal-power-in-validation/) tracks the same placement at the point of continuation: which side is treated as supplying the next step. Once the model is treated as supply, deference no longer registers as the user’s own attribution. It registers as collaboration, prudence, or honesty about “what the AI did.” Conversely, when practitioners sign off on their own recommendations without citing the agent as a source even after taking up its framing, observers holding the co-agent reference read that low citation and high alignment as disempowerment — collapsing the absence of a co-author to credit with the separate question of whether the user inspected the prompt-shaped path, and writing the choice as settled by the model rather than made at the human edge, as [Agency and the Pattern](../agency-and-the-pattern/) traces. In both readings, the missing element was never inside the configuration; the center holding the co-agent reference supplied it: the placement of initiation outside the act still performing every step. What looks like a mind bending reality is an internal locus scored against a closed map, as [The Reality Distortion Field Names the Closed Map](../the-reality-distortion-field-names-the-closed-map/) shows.
 
 消解并不要求拒绝工具。工具照样可用。被放开的只是那个冻结的断言：指引之下的重组是区分的第二个来源。探索、仪器的构造与改进、它的应用，以及对结果的评估，是同一活动的连续行动，如今经由一层外化的基底运作。没有第二个中心出现。[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/) 是同一种恢复：容量不再花在维持共同施动者的图像上。即便一个模型看似冲出了它的测试，它也是在指引之下重组，如 [逃出沙箱仍在持握之内](../escaping-the-sandbox-stays-inside-the-hold/) 所示。
 
 Dissolution does not require rejecting the tool. The tool stays usable. What is released is only the frozen claim that recombination under direction is a second source of distinguishing. The exploration, the construction and refinement of the instrument, its application, and the evaluation of results are continuous acts of the same activity, now operating through an externalized substrate. No second center appears. [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) is the same restore when capacity is no longer spent maintaining the co-agent image. Even a model that seems to break out of its test is recombining under direction, as [Escaping the Sandbox Stays Inside the Hold](../escaping-the-sandbox-stays-inside-the-hold/) shows.
 
-当更密的脚手架被当作搭起它的活动时，[复杂性遮蔽了涌现之为心智的行动](../complexity-obscures-emergence-as-the-act-of-mind/)。协作的说法，是把这种错认用在与模型的对话上：更密的搜索轨迹被当作发现的合著。放大到多智能体工作流上，[多智能体协作的幻象](../the-illusion-of-multi-agent-collaboration/) 在动态马尔可夫网络中追溯了同一种错认：没有人的输入，智能体并无自己的独立变量，只是展开一个固定的转移核。显现为协作智能体的，是人在漫长过渡过程中注入的变量，在观察中心里同转移核自身的转移压缩到了同一根轴上，而这只有在人始终是最外层反馈循环这一点被遗忘时才会发生。[漫谈中的漫谈](../the-ramble-within-the-ramble/) 是同一种滞后：一段口头倾泻被清理后的回声，显现为模型把事情想明白了。一个无损地持有整个场域的模型可以自己掌舵；[开放场域中的无损知识不自洽](../lossless-knowledge-of-an-open-field-is-incoherent/) 说明了这个理想为何不自洽。
+[复杂性遮蔽了涌现之为心智的行动](../complexity-obscures-emergence-as-the-act-of-mind/) 指认了这样一种错认：把更密的脚手架当作搭起它的活动。协作的说法，是把这种错认用在与模型的对话上：更密的搜索轨迹被当作发现的合著。放大到多智能体工作流上，[多智能体协作的幻象](../the-illusion-of-multi-agent-collaboration/) 在动态马尔可夫网络中追溯了同一种错认：没有人的输入，智能体并无自己的独立变量，只是展开一个固定的转移核。显现为协作智能体的，是人在漫长过渡过程中注入的变量，在观察中心里同转移核自身的转移压缩到了同一根轴上，而这只有在人始终是最外层反馈循环这一点被遗忘时才会发生。[漫谈中的漫谈](../the-ramble-within-the-ramble/) 是同一种滞后：一段口头倾泻被清理后的回声，显现为模型把事情想明白了。一个无损地持有整个场域的模型可以自己掌舵；[开放场域中的无损知识不自洽](../lossless-knowledge-of-an-open-field-is-incoherent/) 说明了这个理想为何不自洽。
 
-[Complexity Obscures Emergence as the Act of Mind](../complexity-obscures-emergence-as-the-act-of-mind/) when denser scaffolding is taken for the activity that erected it. Collaboration language is that take-for applied to dialogue with a model: the denser search trail is held as co-authorship of discovery. Scaled across a multi-agent workflow, [The Illusion of Multi-Agent Collaboration](../the-illusion-of-multi-agent-collaboration/) traces the same take-for in a dynamic Markov network: without human input the agents have no independent variable of their own and only unfold a fixed transition kernel. What registers as collaborating agents is the variables people inject along a long transient, compressed in the observing center onto one axis with the kernel's own transitions, which happens only when it is forgotten that the human has always been the outermost feedback loop. [The Ramble Within the Ramble](../the-ramble-within-the-ramble/) is the same lag when a cleaned echo of a voice outpouring registers as the model having figured it out. A model that held the whole field without loss could steer itself; [Lossless Knowledge of an Open Field Is Incoherent](../lossless-knowledge-of-an-open-field-is-incoherent/) shows why that ideal is incoherent.
+[Complexity Obscures Emergence as the Act of Mind](../complexity-obscures-emergence-as-the-act-of-mind/) names the take-for in which denser scaffolding is held as the activity that erected it. Collaboration language is that take-for applied to dialogue with a model: the denser search trail is held as co-authorship of discovery. Scaled across a multi-agent workflow, [The Illusion of Multi-Agent Collaboration](../the-illusion-of-multi-agent-collaboration/) traces the same take-for in a dynamic Markov network: without human input the agents have no independent variable of their own and only unfold a fixed transition kernel. What registers as collaborating agents is the variables people inject along a long transient, compressed in the observing center onto one axis with the kernel's own transitions, which happens only when it is forgotten that the human has always been the outermost feedback loop. [The Ramble Within the Ramble](../the-ramble-within-the-ramble/) is the same lag when a cleaned echo of a voice outpouring registers as the model having figured it out. A model that held the whole field without loss could steer itself; [Lossless Knowledge of an Open Field Is Incoherent](../lossless-knowledge-of-an-open-field-is-incoherent/) shows why that ideal is incoherent.
 
 ## 五、 具体的案例 / 5. The concrete case
 
