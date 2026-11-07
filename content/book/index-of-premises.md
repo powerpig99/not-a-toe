@@ -240,7 +240,7 @@ Chalmers divides consciousness into easy problems open to functional explanation
 
 Hilbert takes as his premise that mathematics can be exhausted within a complete, consistent, and decidable axiomatic formal system, which gave modern formal logic and proof theory exact objects of study; it reaches its boundary in that, for any consistent, effectively axiomatized system strong enough for basic arithmetic, Gödel constructs sentences the system can neither prove nor refute from within and shows it cannot prove its own consistency from within, while the demand for axiomatic closure treats one finite hold as the whole field of distinguishing.
 
-→ [为何数学永远解不完 / Why Mathematics Can Never Be Solved](../../posts/why-mathematics-can-never-be-solved/) · [无穷总体的海市蜃楼 / The Mirage of the Infinite Totality](../../posts/the-mirage-of-the-infinite-totality/)
+→ [为何数学永远解不完 / Why Mathematics Can Never Be Solved](../../posts/why-mathematics-can-never-be-solved/) · [无穷总体的海市蜃楼 / The Mirage of the Infinite Totality](../../posts/the-mirage-of-the-infinite-totality/) · [没有系统能被保持封闭 / No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/)
 
 ### 大卫·森拉 / David Senra
 `成功学 / Self-Help`
@@ -1248,7 +1248,7 @@ The uncertainty principle bounds the precision with which conjugate micro variab
 
 Hilbert's program takes as its premise that all mathematical statements can be settled within a complete, consistent, and decidable formal system certified by finitary means, which is of use in establishing the formal axiomatic method and metamathematical proof theory; it reaches its boundary in that any consistent, effectively axiomatized system strong enough to express basic arithmetic contains sentences that hold in an intended interpretation yet can neither be proved nor refuted from within and cannot prove its own consistency from within, so that treating any single formal hold as exhaustive ground meets ongoing overflow as distinguishing continues.
 
-→ [为何数学永远解不完 / Why Mathematics Can Never Be Solved](../../posts/why-mathematics-can-never-be-solved/) · [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/)
+→ [为何数学永远解不完 / Why Mathematics Can Never Be Solved](../../posts/why-mathematics-can-never-be-solved/) · [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/) · [没有系统能被保持封闭 / No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/)
 
 ### 内在形而上学 / Immanent Metaphysics
 `哲学 / Philosophical`
@@ -1667,9 +1667,9 @@ Special relativity establishes that time and space vary between relative referen
 ### 自发物质涌现论 / Spontaneous Material Emergence
 `科学 / Scientific`
 
-涌现叙事声称底层繁复互动会自行生出新定律；宏观涌现机制实则是观察者心智划定的认知压缩层。
+自发物质涌现论以基底内部足够复杂的相互作用、非线性与不连续性会自行生成新能力与宏观定律为前提，这在选定持守之下组织密集的相互作用、跨尺度追踪不易预料的能力时有用；它在此到了边界：把复杂性当作生成之源，便使搭起这一持守的观察心智之前提择取与分辨率选择，连同在先前持守用尽余地之处被登记的开放继续，一并从叙述中脱落了。
 
-Emergence narratives claim complex interactions spontaneously generate novel laws; macro-level emergence is the cognitive compression chosen by an observing mind.
+Spontaneous material emergence takes as its premise that sufficiently complex interactions, nonlinearities, and discontinuities within a substrate generate novel capabilities and macro-level laws on their own, which is of use in organizing dense interactions under a chosen hold and tracking unanticipated capabilities across scales; it reaches its boundary in that treating complexity as the generative source drops out both the observing Mind's premise-selection and choice of resolution that erect the hold and the open continuation that registers where the prior hold runs out of room.
 
 → [复杂性遮蔽了涌现之为心智的行动 / Complexity Obscures Emergence as the Act of Mind](../../posts/complexity-obscures-emergence-as-the-act-of-mind/) · [涌现的几何学 / The Geometry of Emergence](../../posts/the-geometry-of-emergence/)
 
@@ -2938,9 +2938,9 @@ Treating "emergence" as the cause that generates complex patterns is of use in n
 ### 全局数学最优化 / Global Mathematical Optimality
 `数学 / Mathematical`
 
-最优化假定封闭的目标函数能完整涵盖现实成效；形式上的极值易受限于预设指标，生命系统则需在开放中保持适应。
+全局最优化假定其所寻求的极小值可以被计算出来，且一旦抵达便能被识别；对于复现某一行为的最短程序 `K(f)` 而言，这两点均不成立，因此该极小值的用处在于充当迭代保真度回路在已测轨迹上所朝向的界限，而非回路所能确证的终点。
 
-Optimization assumes a complete loss function captures real-world success; formal minima overfit to specified metrics, while living systems demand open-ended fidelity.
+Global optimization assumes the minimum it seeks can be computed and recognized once reached; for the shortest program reproducing a behavior, `K(f)`, neither holds, so the minimum stays useful as the bound that iterative fidelity loops move toward on tested traces, never as a destination they certify.
 
 → [保真度而非最优化 / Fidelity, Not Optimality](../../posts/fidelity-not-optimality/)
 

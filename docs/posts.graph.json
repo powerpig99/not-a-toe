@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-07T07:48:45.171Z",
+    "generated_at": "2026-11-07T08:30:00.576Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -47,7 +47,7 @@
       "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "49aeca1cd3f8",
       "content/posts/closed-reality-in-benchmark-maxing.md": "574180584456",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "fc0b4da31c80",
-      "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "b5b4e094da3d",
+      "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "9f3a3225b4c8",
       "content/posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback.md": "3173495002ec",
       "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "8469fbe3aa6c",
       "content/posts/cong-xing-shi-mi-si-dao-luo-ji-bi-huan.md": "4042a826b20d",
@@ -88,7 +88,7 @@
       "content/posts/failure-as-information.md": "11a236cd7faa",
       "content/posts/fate-loves-irony-refined.md": "4173eb2feff2",
       "content/posts/felt-resistance-and-the-speed-differential.md": "7c688ab6bc0e",
-      "content/posts/fidelity-not-optimality.md": "75472e76cc04",
+      "content/posts/fidelity-not-optimality.md": "43e087966933",
       "content/posts/fixed-by-nothing.md": "313cd55bcbb5",
       "content/posts/four-night-questions.md": "6a45de787c56",
       "content/posts/freedom-as-ground.md": "d6d090c65cde",
@@ -142,7 +142,7 @@
       "content/posts/no-genius-can-solve-the-knowledge-problem.md": "2b3ff94ab2fa",
       "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "088f1d7e09e0",
       "content/posts/no-outside-scorekeeper.md": "769d5a3c8dee",
-      "content/posts/no-system-can-be-kept-closed.md": "3af239cb12ec",
+      "content/posts/no-system-can-be-kept-closed.md": "95f8f98fd0ff",
       "content/posts/nobody-has-seen-anything-yet.md": "2b871aa62082",
       "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md": "9a865742b9bb",
       "content/posts/not-a-theory-of-everything.md": "2f86829af78d",
@@ -377,7 +377,7 @@
       "content/posts/the-strongest-belief-of-the-mind.md": "cffad4109dde",
       "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "01f3559f1033",
       "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "45683f1cde48",
-      "content/posts/the-surface-beneath.md": "cb6892bfdae1",
+      "content/posts/the-surface-beneath.md": "9b39ecd8b52a",
       "content/posts/the-surface-that-registers.md": "add37f7bdd58",
       "content/posts/the-three-shadows-of-the-cut.md": "fcb032465d92",
       "content/posts/the-tightening-loop.md": "be324f885a2f",
@@ -437,7 +437,7 @@
       "content/book/causality.md": "863b25c6333a",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "4484864e5d89",
-      "content/book/index-of-premises.md": "6f9cf26e86a9",
+      "content/book/index-of-premises.md": "b3161f3d1f82",
       "content/book/intelligence.md": "6234ae4579e1",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -453,14 +453,14 @@
     },
     "stats": {
       "posts": 426,
-      "edges": 13068,
-      "unique_directed": 6428,
+      "edges": 13080,
+      "unique_directed": 6434,
       "missing_targets": 0,
-      "one_way": 1194,
+      "one_way": 1188,
       "isolated": 0,
       "posts_with_outbound": 426,
       "book_pages": 16,
-      "book_edges": 1258,
+      "book_edges": 1260,
       "posts_reached_by_book": 426
     }
   },
@@ -530,11 +530,11 @@
       "in_degree": 38
     },
     {
-      "slug": "causality-all-the-way",
-      "in_degree": 37
+      "slug": "the-reversal-of-verification",
+      "in_degree": 38
     },
     {
-      "slug": "the-reversal-of-verification",
+      "slug": "causality-all-the-way",
       "in_degree": 37
     },
     {
@@ -565,7 +565,7 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "out_degree": 62
+      "out_degree": 68
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -1295,7 +1295,7 @@
       "path": "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md",
       "title": "递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems",
       "hash": "5918317b1cbf",
-      "in_degree": 20,
+      "in_degree": 21,
       "out_degree": 15,
       "links_out": [
         "no-system-can-be-kept-closed",
@@ -1792,7 +1792,7 @@
       "slug": "complexity-obscures-emergence-as-the-act-of-mind",
       "path": "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md",
       "title": "复杂性遮蔽了涌现之为心智的行动 / Complexity Obscures Emergence as the Act of Mind",
-      "hash": "b5b4e094da3d",
+      "hash": "9f3a3225b4c8",
       "in_degree": 32,
       "out_degree": 36,
       "links_out": [
@@ -2859,8 +2859,8 @@
       "slug": "fidelity-not-optimality",
       "path": "content/posts/fidelity-not-optimality.md",
       "title": "保真度而非最优化 / Fidelity, Not Optimality",
-      "hash": "75472e76cc04",
-      "in_degree": 5,
+      "hash": "43e087966933",
+      "in_degree": 6,
       "out_degree": 10,
       "links_out": [
         "minimizing-path",
@@ -3458,7 +3458,7 @@
       "path": "content/posts/incompleteness-exhibited-twice.md",
       "title": "两度显现的不完备性 / Incompleteness Exhibited Twice",
       "hash": "3d9138bc24b4",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 7,
       "links_out": [
         "no-system-can-be-kept-closed",
@@ -4362,9 +4362,9 @@
       "slug": "no-system-can-be-kept-closed",
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "没有系统能被保持封闭 / No System Can Be Kept Closed",
-      "hash": "3af239cb12ec",
+      "hash": "95f8f98fd0ff",
       "in_degree": 66,
-      "out_degree": 62,
+      "out_degree": 68,
       "links_out": [
         "openness-is-consistency",
         "what-works-is-the-belief",
@@ -4374,6 +4374,7 @@
         "the-twin-paradox-and-the-hidden-observer",
         "not-a-theory-of-everything",
         "the-unclosable-trace",
+        "the-carry-that-cannot-be-named-inside-the-register",
         "production-consumption-and-the-minds-distinction",
         "complexity-obscures-emergence-as-the-act-of-mind",
         "data-is-local-intelligence-is-allocated",
@@ -4386,11 +4387,13 @@
         "the-path-drawn-one-step-at-a-time",
         "the-reality-distortion-field-names-the-closed-map",
         "the-risk-is-the-belief-in-oversight-itself",
+        "incompleteness-exhibited-twice",
         "looping-and-graphing",
         "the-scaffolding-we-forget",
         "your-codebase-is-memory",
         "the-fixed-image-of-transcendence",
         "the-non-definitive-definition-of-intelligence",
+        "the-reversal-of-verification",
         "du-zhongwen-zhexue-jianshi-you-gan",
         "the-boundary-of-the-frame",
         "the-paradoxical-nature-of-bystander-insights",
@@ -4426,6 +4429,9 @@
         "abstraction-boundaries-and-the-moving-edge-of-reality",
         "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
         "on-closed-systems-open-minds-and-the-limits-of-proof",
+        "fidelity-not-optimality",
+        "the-surface-beneath",
+        "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
         "better-than-free-after-the-checklist-closes",
         "closed-reality-in-benchmark-maxing"
       ]
@@ -6815,7 +6821,7 @@
       "path": "content/posts/the-carry-that-cannot-be-named-inside-the-register.md",
       "title": "进位无法在寄存器之内被命名 / The Carry That Cannot Be Named Inside the Register",
       "hash": "042276f47daa",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 9,
       "links_out": [
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
@@ -10171,7 +10177,7 @@
       "path": "content/posts/the-reversal-of-verification.md",
       "title": "验证的倒置 / The Reversal of Verification",
       "hash": "d8eedc3f8076",
-      "in_degree": 37,
+      "in_degree": 38,
       "out_degree": 9,
       "links_out": [
         "openness-is-consistency",
@@ -10724,8 +10730,8 @@
       "slug": "the-surface-beneath",
       "path": "content/posts/the-surface-beneath.md",
       "title": "底层表面 / The Surface Beneath",
-      "hash": "cb6892bfdae1",
-      "in_degree": 3,
+      "hash": "9b39ecd8b52a",
+      "in_degree": 4,
       "out_degree": 8,
       "links_out": [
         "fidelity-not-optimality",
@@ -37951,6 +37957,12 @@
     },
     {
       "from": "no-system-can-be-kept-closed",
+      "to": "the-carry-that-cannot-be-named-inside-the-register",
+      "rel": "points_to",
+      "label": "进位无法在寄存器之内被命名"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
       "label": "生产、消费与心智的区分"
@@ -37978,6 +37990,12 @@
       "to": "the-generative-atlas-of-macroscopic-phenomena",
       "rel": "points_to",
       "label": "宏观现象的生成图谱"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-carry-that-cannot-be-named-inside-the-register",
+      "rel": "points_to",
+      "label": "The Carry That Cannot Be Named Inside the Register"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -38095,9 +38113,21 @@
     },
     {
       "from": "no-system-can-be-kept-closed",
+      "to": "incompleteness-exhibited-twice",
+      "rel": "points_to",
+      "label": "两度显现的不完备性"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
       "to": "looping-and-graphing",
       "rel": "points_to",
       "label": "回环与成图"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "incompleteness-exhibited-twice",
+      "rel": "points_to",
+      "label": "Incompleteness Exhibited Twice"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -38155,6 +38185,12 @@
     },
     {
       "from": "no-system-can-be-kept-closed",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "验证的倒置"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
       "to": "du-zhongwen-zhexue-jianshi-you-gan",
       "rel": "points_to",
       "label": "读《中文哲学简史》有感"
@@ -38170,6 +38206,12 @@
       "to": "the-paradoxical-nature-of-bystander-insights",
       "rel": "points_to",
       "label": "旁观者洞察的悖论"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-reversal-of-verification",
+      "rel": "points_to",
+      "label": "The Reversal of Verification"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -38485,6 +38527,24 @@
     },
     {
       "from": "no-system-can-be-kept-closed",
+      "to": "fidelity-not-optimality",
+      "rel": "points_to",
+      "label": "保真度而非最优化"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-surface-beneath",
+      "rel": "points_to",
+      "label": "底层表面"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+      "rel": "points_to",
+      "label": "递归形式系统中作为记忆与控制的边界条件图"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
       "to": "better-than-free-after-the-checklist-closes",
       "rel": "points_to",
       "label": "清单合上之后，胜过免费"
@@ -38584,6 +38644,24 @@
       "to": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "rel": "points_to",
       "label": "On Closed Systems, Open Minds, and the Limits of Proof"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "fidelity-not-optimality",
+      "rel": "points_to",
+      "label": "Fidelity, Not Optimality"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "the-surface-beneath",
+      "rel": "points_to",
+      "label": "The Surface Beneath"
+    },
+    {
+      "from": "no-system-can-be-kept-closed",
+      "to": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+      "rel": "points_to",
+      "label": "Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems"
     },
     {
       "from": "no-system-can-be-kept-closed",
@@ -90617,7 +90695,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "6f9cf26e86a9",
+        "hash": "b3161f3d1f82",
         "out_degree": 426
       },
       {
@@ -91539,6 +91617,12 @@
         "to": "the-mirage-of-the-infinite-totality",
         "rel": "collects",
         "label": "无穷总体的海市蜃楼 / The Mirage of the Infinite Totality"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "no-system-can-be-kept-closed",
+        "rel": "collects",
+        "label": "没有系统能被保持封闭 / No System Can Be Kept Closed"
       },
       {
         "from": "book:index-of-premises",
@@ -92619,6 +92703,12 @@
         "to": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
         "rel": "collects",
         "label": "递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "no-system-can-be-kept-closed",
+        "rel": "collects",
+        "label": "没有系统能被保持封闭 / No System Can Be Kept Closed"
       },
       {
         "from": "book:index-of-premises",
