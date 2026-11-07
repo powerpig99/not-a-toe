@@ -13,6 +13,7 @@
  *   node scripts/project-posts-graph.mjs --neighbors <slug>
  *   node scripts/project-posts-graph.mjs --catalog [--exclude <slug> [<slug> ...]]
  *   node scripts/project-posts-graph.mjs --interfaces <slug> [<slug> ...] [--exclude <slug> [<slug> ...]]
+ *   node scripts/project-posts-graph.mjs --next-batch [B] [--part <part>] [--dry-run]
  *   node scripts/project-posts-graph.mjs --diff   # compare hashes to existing docs/posts.graph.json
  */
 import fs from 'node:fs';
@@ -30,6 +31,14 @@ const wantMermaid = args.includes('--mermaid');
 const wantDiff = args.includes('--diff');
 const wantCatalog = args.includes('--catalog');
 const wantInterfaces = args.includes('--interfaces');
+const nextBatchIdx = args.indexOf('--next-batch');
+const wantNextBatch = nextBatchIdx >= 0;
+const nextBatchSizeArg = wantNextBatch && args[nextBatchIdx + 1] && !args[nextBatchIdx + 1].startsWith('--')
+  ? Number.parseInt(args[nextBatchIdx + 1], 10)
+  : 12;
+const partIdx = args.indexOf('--part');
+const filterPart = partIdx >= 0 && args[partIdx + 1] ? args[partIdx + 1].replace(/\.md$/, '') : null;
+const dryRun = args.includes('--dry-run');
 const neighborsIdx = args.indexOf('--neighbors');
 const neighborsSlug = neighborsIdx >= 0 ? args[neighborsIdx + 1] : null;
 
@@ -534,6 +543,254 @@ if (wantInterfaces) {
 }
 
 const graph = build();
+
+function readPartOrder() {
+  const buildMjs = path.join(root, 'build.mjs');
+  if (!fs.existsSync(buildMjs)) {
+    console.error('Error: Could not find build.mjs to read PART_ORDER');
+    process.exit(1);
+  }
+  const src = fs.readFileSync(buildMjs, 'utf8');
+  const m = src.match(/const\s+PART_ORDER\s*=\s*\[([\s\S]*?)\];/);
+  if (!m) {
+    console.error('Error: Could not parse PART_ORDER from build.mjs');
+    process.exit(1);
+  }
+  const parts = [...m[1].matchAll(/'([^']+)'|"([^"]+)"/g)].map((x) => x[1] || x[2]);
+  if (parts.length === 0) {
+    console.error('Error: Parsed PART_ORDER in build.mjs is empty');
+    process.exit(1);
+  }
+  return parts;
+}
+
+function deriveConcurrency(r) {
+  if (r <= 4) return r;
+  if (r <= 20) return 6;
+  if (r <= 60) return 8;
+  return 12;
+}
+
+function runNextBatch(builtGraph, batchSize, partFilter, isDryRun) {
+  const bSize = Number.isFinite(batchSize) && batchSize > 0 ? batchSize : 12;
+  if (!isDryRun) {
+    fs.mkdirSync(path.dirname(outJson), { recursive: true });
+    fs.writeFileSync(outJson, `${JSON.stringify(builtGraph, null, 2)}\n`);
+  }
+
+  const partOrder = readPartOrder();
+  const partBySlug = mapBookParts();
+  const bookDir = path.join(root, 'content', 'book');
+  const essaysHeadingRe = /^##\s+篇目\s*\/\s*Essays\s*$/;
+  const orderedEssays = [];
+  for (const part of partOrder) {
+    if (partFilter && part !== partFilter) continue;
+    const partFile = path.join(bookDir, `${part}.md`);
+    if (!fs.existsSync(partFile)) continue;
+    const lines = fs.readFileSync(partFile, 'utf8').split(/\r?\n/);
+    const essaysIdx = lines.findIndex((l) => essaysHeadingRe.test(l.trim()));
+    if (essaysIdx === -1) continue;
+    for (const link of extractMdLinks(lines.slice(essaysIdx + 1).join('\n'))) {
+      const href = link.href.split('#')[0].trim();
+      const m = href.match(/^\.\.\/\.\.\/posts\/([A-Za-z0-9][A-Za-z0-9_-]*)\/?$/);
+      if (m) orderedEssays.push({ slug: m[1], part: `content/book/${part}.md` });
+    }
+  }
+
+  const wavePath = path.join(root, 'work', 'wave.md');
+  const waveText = fs.existsSync(wavePath) ? fs.readFileSync(wavePath, 'utf8') : '';
+  const waveLines = waveText.split(/\r?\n/);
+
+  const visited = new Set();
+  const batched = new Set();
+  let lastBatchNum = 0;
+  let currentBatchSection = null;
+  const batches = new Map();
+
+  for (const line of waveLines) {
+    const bm = line.match(/^##\s+Deep Sleep Batch\s+(\d+)\b/);
+    if (bm) {
+      lastBatchNum = Math.max(lastBatchNum, Number.parseInt(bm[1], 10));
+      currentBatchSection = Number.parseInt(bm[1], 10);
+      batches.set(currentBatchSection, []);
+      continue;
+    }
+    if (/^##\s+/.test(line)) {
+      currentBatchSection = null;
+      continue;
+    }
+    const itemMatch = line.match(/^-\s+(?:\[([ xX]|HOLD[^\]]*)\]\s+)?`([^`]+)`/);
+    if (itemMatch) {
+      const status = itemMatch[1] ?? null;
+      const slug = itemMatch[2].trim();
+      visited.add(slug);
+      if (currentBatchSection !== null) {
+        batched.add(slug);
+        batches.get(currentBatchSection).push({ slug, checked: status === 'x' || status === 'X', rawStatus: status });
+      }
+    }
+  }
+
+  const todoPath = path.join(root, 'work', 'todo.md');
+  const todoLines = fs.existsSync(todoPath) ? fs.readFileSync(todoPath, 'utf8').split(/\r?\n/) : [];
+  const todoPostMeta = new Map();
+  const todoPostOrder = [];
+  const todoBookSurfaceSet = new Set();
+
+  for (let idx = 0; idx < todoLines.length; idx++) {
+    const line = todoLines[idx];
+    if (!/^-\s+\[\s\]\s+/.test(line)) continue;
+    const bookSurfMatch = line.match(/\(`(_book:[a-z0-9-]+)`/);
+    if (bookSurfMatch) {
+      todoBookSurfaceSet.add(bookSurfMatch[1]);
+      continue;
+    }
+    const evalIdx = line.indexOf('Evaluate fresh in `/deep-sleep`');
+    if (evalIdx === -1) continue;
+    const colonIdx = line.indexOf(':', evalIdx);
+    if (colonIdx === -1) continue;
+    const priorMatch = line.match(/with\s+`([^`]+@[0-9a-f]+)`\s+as related material/);
+    const prior = priorMatch ? priorMatch[1] : null;
+    const tail = line.slice(colonIdx + 1);
+    for (const m of tail.matchAll(/`([a-z0-9][a-z0-9-]*)`(?:\s*\(`([^`]+)`[^)]*\))?/g)) {
+      const candSlug = m[1];
+      const locator = m[2] || null;
+      if (!partBySlug.has(candSlug)) continue;
+      if (partFilter && partBySlug.get(candSlug) !== `${partFilter}.md`) continue;
+      if (!todoPostMeta.has(candSlug)) {
+        todoPostMeta.set(candSlug, {
+          source: `work/todo.md:${idx + 1}`,
+          related: prior ? `${prior}${locator ? ` (${locator})` : ''}` : 'none',
+        });
+        todoPostOrder.push(candSlug);
+      }
+    }
+  }
+
+  // Case A: resume unchecked nodes in the latest batch if any remain
+  const latestItems = batches.get(lastBatchNum) || [];
+  const uncheckedInLatest = latestItems.filter((it) => !it.checked && !(it.rawStatus || '').startsWith('HOLD'));
+  if (uncheckedInLatest.length > 0) {
+    const selected = uncheckedInLatest.map((it) => {
+      const pFile = partBySlug.get(it.slug);
+      const meta = todoPostMeta.get(it.slug);
+      return {
+        slug: it.slug,
+        part: it.slug.startsWith('_book:')
+          ? `content/book/${it.slug.slice(6)}.md`
+          : pFile
+            ? `content/book/${pFile}`
+            : 'unknown',
+        source: meta ? meta.source : 'book_order',
+        related: meta ? meta.related : 'none',
+      };
+    });
+    const unvisitedPosts = orderedEssays.filter((e) => !visited.has(e.slug)).length;
+    const bookAll = ['_book:preface', ...partOrder.map((p) => `_book:${p}`), '_book:index-of-premises'];
+    const unvisitedBook = partFilter ? 0 : bookAll.filter((b) => !visited.has(b)).length;
+    const w = deriveConcurrency(selected.length);
+    console.log(
+      `BATCH: ${lastBatchNum} (mode=resume, count=${selected.length}, concurrency=${w}, remaining_after=${unvisitedPosts + unvisitedBook})`,
+    );
+    selected.forEach((item, i) => {
+      console.log(`${i + 1}. ${item.slug} | part=${item.part} | source=${item.source} | related=${item.related}`);
+    });
+    return;
+  }
+
+  // Case B: build Queue 1 (leading todo post items + unvisited essays in book order) + Queue 2 (book surfaces)
+  const queue = [];
+  const queuedSet = new Set();
+
+  for (const slug of todoPostOrder) {
+    if (queuedSet.has(slug)) continue;
+    const pFile = partBySlug.get(slug);
+    const meta = todoPostMeta.get(slug);
+    queue.push({
+      slug,
+      part: pFile ? `content/book/${pFile}` : 'unknown',
+      source: meta.source,
+      related: meta.related,
+    });
+    queuedSet.add(slug);
+  }
+
+  for (const item of orderedEssays) {
+    if (visited.has(item.slug) || queuedSet.has(item.slug)) continue;
+    queue.push({
+      slug: item.slug,
+      part: item.part,
+      source: 'book_order',
+      related: 'none',
+    });
+    queuedSet.add(item.slug);
+  }
+
+  const bookSurfaces = ['_book:preface', ...partOrder.map((p) => `_book:${p}`), '_book:index-of-premises'];
+  if (!partFilter) {
+    for (const bNode of bookSurfaces) {
+      if ((visited.has(bNode) && !todoBookSurfaceSet.has(bNode)) || queuedSet.has(bNode)) {
+        continue;
+      }
+      queue.push({
+        slug: bNode,
+        part: `content/book/${bNode.slice(6)}.md`,
+        source: todoBookSurfaceSet.has(bNode) ? 'work/todo.md' : 'book_surface',
+        related: 'none',
+      });
+      queuedSet.add(bNode);
+    }
+  }
+
+  const nextNum = lastBatchNum + 1;
+  const selected = queue.slice(0, bSize);
+  const visitedAfter = new Set([...visited, ...selected.map((x) => x.slug)]);
+  const remPosts = orderedEssays.filter((e) => !visitedAfter.has(e.slug)).length;
+  const remBook = partFilter ? 0 : bookSurfaces.filter((b) => !visitedAfter.has(b)).length;
+  const remainingAfter = remPosts + remBook;
+  const w = deriveConcurrency(selected.length);
+
+  if (!isDryRun && selected.length > 0 && fs.existsSync(wavePath)) {
+    const newVisitedSlugs = selected.map((x) => x.slug).filter((s) => !visited.has(s));
+    for (const s of newVisitedSlugs) visited.add(s);
+
+    let updatedWave = waveText.trimEnd();
+    if (newVisitedSlugs.length > 0) {
+      const lines = updatedWave.split(/\r?\n/);
+      const visHeaderIdx = lines.findIndex((l) => /^##\s+Visited\b/.test(l));
+      if (visHeaderIdx !== -1) {
+        let insertAt = visHeaderIdx + 1;
+        while (insertAt < lines.length && lines[insertAt].startsWith('- ')) {
+          insertAt += 1;
+        }
+        const totalVis = (insertAt - (visHeaderIdx + 1)) + newVisitedSlugs.length;
+        lines[visHeaderIdx] = `## Visited (${totalVis})`;
+        lines.splice(insertAt, 0, ...newVisitedSlugs.map((s) => `- \`${s}\``));
+        updatedWave = lines.join('\n');
+      }
+    }
+
+    const batchLines = [
+      '',
+      `## Deep Sleep Batch ${nextNum} (${selected.length})`,
+      ...selected.map((x) => `- [ ] \`${x.slug}\``),
+      '',
+    ];
+    fs.writeFileSync(wavePath, updatedWave + '\n' + batchLines.join('\n'));
+  }
+
+  console.log(
+    `BATCH: ${nextNum} (mode=${isDryRun ? 'dry_run' : 'new'}, count=${selected.length}, concurrency=${w}, remaining_after=${remainingAfter})`,
+  );
+  selected.forEach((item, i) => {
+    console.log(`${i + 1}. ${item.slug} | part=${item.part} | source=${item.source} | related=${item.related}`);
+  });
+}
+
+if (wantNextBatch) {
+  runNextBatch(graph, nextBatchSizeArg, filterPart, dryRun);
+  process.exit(0);
+}
 
 if (neighborsSlug) {
   printNeighbors(graph, neighborsSlug);

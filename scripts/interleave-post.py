@@ -239,6 +239,54 @@ def check_slug(slug: str) -> None:
     interleave_blocks(slug, zh_blocks, en_blocks, strict=True)
 
 
+def sync_h1_change(slug: str, old_h1: str, new_h1: str) -> None:
+    if old_h1 == new_h1 or not (old_h1.startswith("# ") and new_h1.startswith("# ")):
+        return
+    old_inner, new_inner = old_h1[2:].strip(), new_h1[2:].strip()
+    if " / " not in old_inner or " / " not in new_inner:
+        return
+    old_zh, old_en = [p.strip() for p in old_inner.split(" / ", 1)]
+    new_zh, new_en = [p.strip() for p in new_inner.split(" / ", 1)]
+    updated_files = 0
+
+    book_dir = ROOT / "content" / "book"
+    if book_dir.is_dir():
+        old_book_link = f"[{old_inner}](../../posts/{slug}/)"
+        new_book_link = f"[{new_inner}](../../posts/{slug}/)"
+        for bf in sorted(book_dir.glob("*.md")):
+            txt = bf.read_text(encoding="utf-8")
+            if old_book_link in txt:
+                bf.write_text(txt.replace(old_book_link, new_book_link), encoding="utf-8")
+                updated_files += 1
+
+    post_targets: list[pathlib.Path] = sorted((ROOT / "content" / "posts").glob("*.md"))
+    work_root = ROOT / "work"
+    if work_root.is_dir():
+        for wf in sorted(work_root.glob("*/en.md")) + sorted(work_root.glob("*/zh.md")):
+            post_targets.append(wf)
+
+    old_zh_link = f"[{old_zh}](../{slug}/)"
+    new_zh_link = f"[{new_zh}](../{slug}/)"
+    old_en_link = f"[{old_en}](../{slug}/)"
+    new_en_link = f"[{new_en}](../{slug}/)"
+    for pf in post_targets:
+        if pf.name == "README.md" or pf == ROOT / "content" / "posts" / f"{slug}.md":
+            continue
+        txt = pf.read_text(encoding="utf-8")
+        new_txt = txt
+        if old_zh != new_zh and old_zh_link in new_txt:
+            new_txt = new_txt.replace(old_zh_link, new_zh_link)
+        if old_en != new_en and old_en_link in new_txt:
+            new_txt = new_txt.replace(old_en_link, new_en_link)
+        if new_txt != txt:
+            pf.write_text(new_txt, encoding="utf-8")
+            updated_files += 1
+
+    print(
+        f"Synced H1 change for {slug}: '{old_inner}' -> '{new_inner}' ({updated_files} file(s) updated)"
+    )
+
+
 def interleave_slug(slug: str) -> pathlib.Path:
     work_dir = ROOT / "work" / slug
     zh_path = work_dir / "zh.md"
@@ -250,10 +298,18 @@ def interleave_slug(slug: str) -> pathlib.Path:
     if not en_path.exists():
         raise FileNotFoundError(f"Missing {en_path}")
 
+    old_h1 = ""
+    if out_path.exists():
+        old_blocks = split_blocks(out_path.read_text(encoding="utf-8"))
+        if old_blocks and old_blocks[0].startswith("# "):
+            old_h1 = old_blocks[0]
+
     zh_blocks = split_blocks(zh_path.read_text(encoding="utf-8"))
     en_blocks = split_blocks(en_path.read_text(encoding="utf-8"))
     out = interleave_blocks(slug, zh_blocks, en_blocks)
     out_path.write_text("\n\n".join(out) + "\n", encoding="utf-8")
+    if old_h1 and out and out[0].startswith("# "):
+        sync_h1_change(slug, old_h1, out[0])
     return out_path
 
 

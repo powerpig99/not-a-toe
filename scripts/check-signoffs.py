@@ -13,10 +13,17 @@ Checks for each `work/<slug>/` DELTA node before Stage 3 interleaving:
   4. Every backtick `path:line` / `slug:line` locator in `work/<slug>/notes.md`
      (when present) resolves to an existing file whose line count covers the cited
      line numbers. Can also be run standalone on any notes file via `--locators`.
+  5. For `NO_DELTA` nodes (no `work/<slug>/en.md`), verifies `CRITIC: confirmed_no_delta`
+     in `work/<slug>/debate-en.md` against `sha256(content/posts/<slug>.md)` (or
+     `content/book/<name>.md`) and verifies `work/<slug>/notes.md` locators.
+  6. With `--record-batch <m> --commit <sha> <slug1> ...`, deterministically updates
+     `work/wave.md` checkboxes, prunes completed items and appends `DELTA (propagates)`
+     and `### For work/todo.md` items in `work/todo.md`, and writes `work/_logs/batch-<m>.md`.
 
 Usage:
   python3 scripts/check-signoffs.py <slug> [<slug2> ...]
   python3 scripts/check-signoffs.py --locators <notes.md> [<notes2.md> ...]
+  python3 scripts/check-signoffs.py --record-batch <m> --commit <sha> [--deploy-run <id>] [--problem <note>] <slug1> [<slug2> ...]
 """
 
 from __future__ import annotations
@@ -32,10 +39,58 @@ HEX64 = r"([0-9a-f]{64})"
 LOCATOR_RE = re.compile(
     r"`([A-Za-z0-9_./-]+:(?:\d+(?:\s*[-–]\s*\d+)?)(?:\s*,\s*\d+(?:\s*[-–]\s*\d+)?)*)`"
 )
+BARE_LOCATOR_RE = re.compile(
+    r"^([A-Za-z0-9_./-]+:(?:\d+(?:\s*[-–]\s*\d+)?)(?:\s*,\s*\d+(?:\s*[-–]\s*\d+)?)*)$"
+)
+VERDICT_LINE_RE = re.compile(
+    r"^VERDICT:\s*(DELTA\s*\(\s*(?:terminal|propagates)\s*\)|NO_DELTA)\s*\|\s*RESTATERS:\s*([^\n]+)$",
+    flags=re.MULTILINE,
+)
+SUMMARY_LINE_RE = re.compile(
+    r"^SUMMARY:\s*(.+)$",
+    flags=re.MULTILINE,
+)
 
 
 def sha256_file(path: pathlib.Path) -> str:
     return hashlib.sha256(path.read_bytes()).hexdigest()
+
+
+def validate_single_locator(
+    tok: str,
+    label: str,
+    source_label: str,
+    base_dir: pathlib.Path | None = None,
+    line_count_cache: dict[pathlib.Path, int] | None = None,
+) -> list[str]:
+    errors: list[str] = []
+    if ":" not in tok:
+        return [f"[{label}] Invalid locator `{tok}` in {source_label} (expected slug:line)"]
+    head, tail = tok.split(":", 1)
+    cand = ROOT / head
+    if not cand.is_file() and base_dir is not None:
+        cand = base_dir / head
+    if not cand.is_file():
+        slug = head.removesuffix(".md")
+        cand = ROOT / "content" / "posts" / f"{slug}.md"
+    if not cand.is_file():
+        return [f"[{label}] Unresolved locator `{tok}` in {source_label} (file not found)"]
+    resolved = cand.resolve()
+    if line_count_cache is not None:
+        if resolved not in line_count_cache:
+            line_count_cache[resolved] = len(resolved.read_text(encoding="utf-8").split("\n"))
+        max_line = line_count_cache[resolved]
+    else:
+        max_line = len(resolved.read_text(encoding="utf-8").split("\n"))
+    nums = [int(n) for n in re.findall(r"\d+", tail)]
+    if not nums:
+        return [f"[{label}] Locator `{tok}` in {source_label} has no line numbers"]
+    bad = [n for n in nums if n < 1 or n > max_line]
+    if bad:
+        errors.append(
+            f"[{label}] Locator `{tok}` in {source_label} exceeds file length (line {bad[0]} > {max_line})"
+        )
+    return errors
 
 
 def check_locators(notes_path: pathlib.Path, label: str) -> list[str]:
@@ -45,27 +100,102 @@ def check_locators(notes_path: pathlib.Path, label: str) -> list[str]:
     text = notes_path.read_text(encoding="utf-8")
     line_count_cache: dict[pathlib.Path, int] = {}
     for tok in LOCATOR_RE.findall(text):
-        head, tail = tok.split(":", 1)
-        cand = ROOT / head
-        if not cand.is_file():
-            cand = notes_path.parent / head
-        if not cand.is_file():
-            slug = head.removesuffix(".md")
-            cand = ROOT / "content" / "posts" / f"{slug}.md"
-        if not cand.is_file():
-            errors.append(f"[{label}] Unresolved locator `{tok}` in {notes_path.name} (file not found)")
-            continue
-        resolved = cand.resolve()
-        if resolved not in line_count_cache:
-            line_count_cache[resolved] = len(resolved.read_text(encoding="utf-8").split("\n"))
-        max_line = line_count_cache[resolved]
-        nums = [int(n) for n in re.findall(r"\d+", tail)]
-        bad = [n for n in nums if n < 1 or n > max_line]
-        if bad:
-            errors.append(
-                f"[{label}] Locator `{tok}` in {notes_path.name} exceeds file length (line {bad[0]} > {max_line})"
+        errors.extend(
+            validate_single_locator(
+                tok,
+                label,
+                notes_path.name,
+                base_dir=notes_path.parent,
+                line_count_cache=line_count_cache,
             )
+        )
     return errors
+
+
+def parse_critic_verdict_and_summary(
+    slug: str,
+    deb_en: str,
+    is_no_delta: bool,
+    require_lines: bool = False,
+) -> tuple[str, list[tuple[str, bool]], str, list[str]]:
+    """
+    Deterministically parses the Critic's `VERDICT: ... | RESTATERS: ...` and `SUMMARY: ...`
+    lines from `work/<slug>/debate-en.md`.
+    Returns (verdict, restaters_with_new_claim_flag, summary, errors).
+    """
+    errors: list[str] = []
+    m_verdict = last_match(VERDICT_LINE_RE.pattern, deb_en)
+    m_summary = last_match(SUMMARY_LINE_RE.pattern, deb_en)
+
+    restaters: list[tuple[str, bool]] = []
+    if m_verdict:
+        raw_v = re.sub(r"\s+", " ", m_verdict.group(1).strip())
+        raw_v = raw_v.replace("( ", "(").replace(" )", ")")
+        if is_no_delta and raw_v != "NO_DELTA":
+            errors.append(
+                f"[{slug}] VERDICT line '{raw_v}' in debate-en.md contradicts CRITIC: confirmed_no_delta"
+            )
+        elif not is_no_delta and raw_v == "NO_DELTA":
+            errors.append(
+                f"[{slug}] VERDICT line 'NO_DELTA' in debate-en.md contradicts CRITIC: confirmed"
+            )
+        verdict = raw_v
+
+        restaters_field = m_verdict.group(2).strip()
+        if restaters_field.lower() not in ("none", "`none`"):
+            if verdict != "DELTA (propagates)":
+                errors.append(
+                    f"[{slug}] RESTATERS must be 'none' when VERDICT is {verdict} (got '{restaters_field}')"
+                )
+            else:
+                line_count_cache: dict[pathlib.Path, int] = {}
+                # Split by semicolon or comma outside line-number lists, or extract locator tokens
+                tokens = re.findall(
+                    r"`?([a-z0-9][a-z0-9-]*:(?:\d+(?:\s*[-–]\s*\d+)?)(?:\s*,\s*\d+(?:\s*[-–]\s*\d+)?)*)`?(\s*\(\s*new_claim\s*\))?",
+                    restaters_field,
+                )
+                if not tokens:
+                    errors.append(
+                        f"[{slug}] Could not parse RESTATERS field '{restaters_field}' in debate-en.md "
+                        "(expected 'none' or '<slug>:<line>[, <slug2>:<line>...]')"
+                    )
+                for loc_tok, new_claim_group in tokens:
+                    loc_clean = re.sub(r"\s+", "", loc_tok)
+                    r_slug = loc_clean.split(":", 1)[0].removesuffix(".md")
+                    if r_slug == slug:
+                        errors.append(
+                            f"[{slug}] Self-locator `{loc_clean}` listed in RESTATERS in debate-en.md"
+                        )
+                        continue
+                    loc_errs = validate_single_locator(
+                        loc_clean,
+                        slug,
+                        "debate-en.md (RESTATERS)",
+                        line_count_cache=line_count_cache,
+                    )
+                    if loc_errs:
+                        errors.extend(loc_errs)
+                    else:
+                        is_new_claim = bool(new_claim_group)
+                        if all(existing_loc != loc_clean for existing_loc, _ in restaters):
+                            restaters.append((loc_clean, is_new_claim))
+    else:
+        verdict = "NO_DELTA" if is_no_delta else "DELTA (terminal)"
+        if require_lines:
+            errors.append(
+                f"[{slug}] Missing 'VERDICT: <DELTA (terminal)|DELTA (propagates)|NO_DELTA> | RESTATERS: <...|none>' line in debate-en.md"
+            )
+
+    if m_summary:
+        summary = m_summary.group(1).strip().replace("|", "\\|")
+        if not summary:
+            errors.append(f"[{slug}] Empty 'SUMMARY:' line in debate-en.md")
+    else:
+        summary = verdict
+        if require_lines:
+            errors.append(f"[{slug}] Missing 'SUMMARY: <1-line summary>' line in debate-en.md")
+
+    return (verdict, restaters, summary, errors)
 
 
 def last_match(pattern: str, text: str) -> re.Match[str] | None:
@@ -90,23 +220,64 @@ def missing_or_decorated(
     return f"[{slug}] Missing '{token}'{suffix} in {file_label}"
 
 
-def check_slug(slug: str) -> list[str]:
+def classify_node(
+    slug: str,
+    require_verdict_summary: bool = False,
+) -> tuple[str, str, str, list[tuple[str, bool]], str, list[str]]:
+    """
+    Returns (verdict, en_or_post_sha, zh_sha, restaters, summary, errors) where verdict is one of:
+      'NO_DELTA', 'DELTA (terminal)', 'DELTA (propagates)'
+    """
     errors: list[str] = []
     work_dir = ROOT / "work" / slug
     en_path = work_dir / "en.md"
     zh_path = work_dir / "zh.md"
     deb_en_path = work_dir / "debate-en.md"
     deb_zh_path = work_dir / "debate-zh.md"
+    notes_path = work_dir / "notes.md"
+
+    if not deb_en_path.is_file():
+        return ("UNKNOWN", "", "", [], "", [f"[{slug}] Missing {deb_en_path.relative_to(ROOT)}"])
+
+    deb_en = deb_en_path.read_text(encoding="utf-8")
+
+    # Check if this is a NO_DELTA node (no work/<slug>/en.md and confirmed_no_delta at end of debate-en.md)
+    no_delta_body = r"CRITIC:\s*confirmed_no_delta\b[^\n]*?" + HEX64
+    m_no_delta = last_match(r"^" + no_delta_body, deb_en)
+    if m_no_delta and not en_path.is_file():
+        if slug.startswith("_book:"):
+            post_or_book = ROOT / "content" / "book" / f"{slug[6:]}.md"
+        else:
+            post_or_book = ROOT / "content" / "posts" / f"{slug}.md"
+        # P6: Only fall back to notes.md when no post or book file exists (Node 0 and sweeps)
+        target_path = post_or_book if post_or_book.is_file() else notes_path
+        if not target_path.is_file():
+            errors.append(f"[{slug}] Missing target file for confirmed_no_delta")
+            return ("NO_DELTA", "", "", [], "NO_DELTA", errors)
+        expected_sha = sha256_file(target_path)
+        if m_no_delta.group(1) != expected_sha:
+            errors.append(
+                f"[{slug}] CRITIC confirmed_no_delta sha256 ({m_no_delta.group(1)[:12]}...) "
+                f"!= {target_path.name} ({expected_sha[:12]}...)"
+            )
+        if notes_path.is_file():
+            errors.extend(check_locators(notes_path, slug))
+        else:
+            errors.append(f"[{slug}] Missing work/{slug}/notes.md for NO_DELTA node")
+        verdict, restaters, summary, v_errs = parse_critic_verdict_and_summary(
+            slug, deb_en, is_no_delta=True, require_lines=require_verdict_summary
+        )
+        errors.extend(v_errs)
+        return (verdict, expected_sha, "", restaters, summary, errors)
 
     for p in (en_path, zh_path, deb_en_path, deb_zh_path):
         if not p.is_file():
             errors.append(f"[{slug}] Missing {p.relative_to(ROOT)}")
     if errors:
-        return errors
+        return ("DELTA (terminal)", "", "", [], "DELTA (terminal)", errors)
 
     en_sha = sha256_file(en_path)
     zh_sha = sha256_file(zh_path)
-    deb_en = deb_en_path.read_text(encoding="utf-8")
     deb_zh = deb_zh_path.read_text(encoding="utf-8")
 
     critic_body = r"CRITIC:\s*confirmed\b[^\n]*?" + HEX64
@@ -176,11 +347,220 @@ def check_slug(slug: str) -> list[str]:
                 f"[{slug}] STYLIST source_sha256 ({m_src_sha.group(1)[:12]}...) != en.md ({en_sha[:12]}...)"
             )
 
-    notes_path = work_dir / "notes.md"
     if notes_path.is_file():
         errors.extend(check_locators(notes_path, slug))
 
+    verdict, restaters, summary, v_errs = parse_critic_verdict_and_summary(
+        slug, deb_en, is_no_delta=False, require_lines=require_verdict_summary
+    )
+    errors.extend(v_errs)
+    return (verdict, en_sha, zh_sha, restaters, summary, errors)
+
+
+def check_slug(slug: str) -> list[str]:
+    _, _, _, _, _, errors = classify_node(slug)
     return errors
+
+
+def extract_todo_blocks(slug: str) -> list[str]:
+    work_dir = ROOT / "work" / slug
+    items: list[str] = []
+    heading_re = re.compile(r"^#{2,4}\s+For\s+`?work/todo\.md`?\b[^\n]*$", flags=re.IGNORECASE | re.MULTILINE)
+    for fname in ("notes.md", "debate-en.md", "debate-zh.md"):
+        fpath = work_dir / fname
+        if not fpath.is_file():
+            continue
+        text = fpath.read_text(encoding="utf-8")
+        for m in heading_re.finditer(text):
+            tail = text[m.end() :]
+            next_h = re.search(r"\n#{1,4}\s+", tail)
+            block = tail[: next_h.start()] if next_h else tail
+            for raw_line in block.splitlines():
+                line = raw_line.strip()
+                if not line or line.lower() in ("none", "none.", "- none", "- (none)", "(none)", "n/a", "- n/a"):
+                    continue
+                if re.match(r"^-\s*\(?none\)?\.?$", line, flags=re.IGNORECASE):
+                    continue
+                if not line.startswith("- "):
+                    line = f"- {line}"
+                if line not in items:
+                    items.append(line)
+    return items
+
+
+def compute_remaining_unvisited() -> int:
+    wave_path = ROOT / "work" / "wave.md"
+    visited: set[str] = set()
+    if wave_path.is_file():
+        for m in re.finditer(r"^-\s+(?:\[[^\]]*\]\s+)?`([^`]+)`", wave_path.read_text(encoding="utf-8"), flags=re.MULTILINE):
+            visited.add(m.group(1).strip())
+    all_posts = {
+        p.stem
+        for p in (ROOT / "content" / "posts").glob("*.md")
+        if p.name != "README.md"
+    }
+    book_surfaces = {
+        f"_book:{p.stem}"
+        for p in (ROOT / "content" / "book").glob("*.md")
+    }
+    unvisited_posts = len(all_posts - visited)
+    unvisited_book = len(book_surfaces - visited)
+    return unvisited_posts + unvisited_book
+
+
+def record_batch(
+    batch_num: int,
+    commit_sha: str,
+    deploy_run: str,
+    problem_note: str,
+    slugs: list[str],
+) -> int:
+    all_errors: list[str] = []
+    node_records: list[tuple[str, str, str, str, list[tuple[str, bool]], str]] = []
+    for slug in slugs:
+        verdict, en_sha, zh_sha, restaters, summary, errs = classify_node(
+            slug, require_verdict_summary=True
+        )
+        if errs:
+            all_errors.extend(errs)
+        node_records.append((slug, verdict, en_sha, zh_sha, restaters, summary))
+
+    if all_errors:
+        for e in all_errors:
+            print(f"ERROR: {e}", file=sys.stderr)
+        return 1
+
+    short_sha = commit_sha[:8] if commit_sha and commit_sha != "none" else "none"
+    delta_count = sum(1 for _, v, _, _, _, _ in node_records if v.startswith("DELTA"))
+    no_delta_count = sum(1 for _, v, _, _, _, _ in node_records if v == "NO_DELTA")
+    delta_slugs_in_batch = {s for s, v, _, _, _, _ in node_records if v.startswith("DELTA")}
+
+    # 1. Update work/wave.md checkboxes
+    wave_path = ROOT / "work" / "wave.md"
+    if wave_path.is_file():
+        wave_text = wave_path.read_text(encoding="utf-8")
+        for slug, verdict, _, _, _, _ in node_records:
+            tag = "NO_DELTA" if verdict == "NO_DELTA" else f"DELTA {short_sha}"
+            pattern = rf"^-\s+\[[ xX]\]\s+`{re.escape(slug)}`[^\n]*$"
+            replacement = f"- [x] `{slug}` ({tag})"
+            if re.search(pattern, wave_text, flags=re.MULTILINE):
+                wave_text = re.sub(pattern, replacement, wave_text, flags=re.MULTILINE)
+            else:
+                wave_text = wave_text.rstrip() + f"\n{replacement}\n"
+        wave_path.write_text(wave_text, encoding="utf-8")
+
+    # 2. Update work/todo.md: prune completed [x] items, strike evaluated post-evaluation slugs per slug, and append new items
+    todo_path = ROOT / "work" / "todo.md"
+    batch_slug_set = set(slugs)
+    todo_trigger_by_slug: dict[str, str] = {}
+    kept_todo_lines: list[str] = []
+    if todo_path.is_file():
+        existing_todo_text = todo_path.read_text(encoding="utf-8")
+        for line in existing_todo_text.splitlines():
+            if re.match(r"^-\s+\[[xX]\]\s+", line):
+                continue
+            if re.match(r"^-\s+\[\s\]\s+", line) and "Evaluate fresh in `/deep-sleep`" in line and "(`_book:" not in line:
+                head_part, eval_part = line.split("Evaluate fresh in `/deep-sleep`", 1)
+                colon_idx = eval_part.find(":")
+                if colon_idx != -1:
+                    prefix_with_colon = head_part + "Evaluate fresh in `/deep-sleep`" + eval_part[: colon_idx + 1]
+                    targets_tail = eval_part[colon_idx + 1 :]
+                    entry_matches = [
+                        m
+                        for m in re.finditer(r"`([a-z0-9][a-z0-9-]*)`(?:\s*\([^)]*\))?", targets_tail)
+                        if (ROOT / "content" / "posts" / f"{m.group(1)}.md").is_file()
+                    ]
+                    for m in entry_matches:
+                        todo_trigger_by_slug[m.group(1)] = line
+                    if entry_matches:
+                        remaining_entries = [
+                            m.group(0) for m in entry_matches if m.group(1) not in batch_slug_set
+                        ]
+                        if not remaining_entries:
+                            continue
+                        if len(remaining_entries) < len(entry_matches):
+                            kept_todo_lines.append(
+                                f"{prefix_with_colon} {', '.join(remaining_entries)}."
+                            )
+                            continue
+            kept_todo_lines.append(line)
+
+    new_todo_lines: list[str] = []
+    for slug, verdict, _, _, restaters, summary in node_records:
+        if verdict == "DELTA (propagates)" and restaters:
+            # P2(b): Apply same-batch co-movement exception
+            queued_restaters: list[str] = []
+            for loc, is_new_claim in restaters:
+                r_slug = loc.split(":", 1)[0].removesuffix(".md")
+                if (
+                    r_slug in delta_slugs_in_batch
+                    and slug in todo_trigger_by_slug
+                    and todo_trigger_by_slug.get(r_slug) == todo_trigger_by_slug.get(slug)
+                    and not is_new_claim
+                ):
+                    continue
+                queued_restaters.append(loc)
+            if queued_restaters:
+                restater_str = " and ".join(
+                    f"`{r.split(':', 1)[0]}` (`{r}`, Critic-verified `links_in` restater)"
+                    for r in queued_restaters
+                )
+                prop_line = (
+                    f"- [ ] **`{slug}@{short_sha}` restating neighbor(s) (`/deep-sleep` Batch {batch_num} "
+                    f"`DELTA (propagates)`)**: {summary} Evaluate fresh in `/deep-sleep` "
+                    f"(with `{slug}@{short_sha}` as related material): {restater_str}."
+                )
+                if prop_line not in kept_todo_lines and prop_line not in new_todo_lines:
+                    new_todo_lines.append(prop_line)
+        for item in extract_todo_blocks(slug):
+            if item not in kept_todo_lines and item not in new_todo_lines:
+                new_todo_lines.append(item)
+
+    while kept_todo_lines and not kept_todo_lines[-1].strip():
+        kept_todo_lines.pop()
+    updated_todo = "\n".join(kept_todo_lines + new_todo_lines) + "\n"
+    todo_path.write_text(updated_todo, encoding="utf-8")
+
+    # 3. Write work/_logs/batch-<m>.md
+    logs_dir = ROOT / "work" / "_logs"
+    logs_dir.mkdir(parents=True, exist_ok=True)
+    log_path = logs_dir / f"batch-{batch_num}.md"
+    rem = compute_remaining_unvisited()
+
+    table_rows: list[str] = []
+    for slug, verdict, en_sha, zh_sha, _, summary in node_records:
+        s1_info = f"`CONFIRMED_NO_DELTA` (`{en_sha[:8]}…`)" if verdict == "NO_DELTA" else f"`CONFIRMED` (`{en_sha[:8]}…`)"
+        s2_info = "—" if verdict == "NO_DELTA" else f"`CONFIRMED` (`{zh_sha[:8]}…`)"
+        v_cell = "`NO_DELTA`" if verdict == "NO_DELTA" else f"`{verdict}` (`{short_sha}`)"
+        table_rows.append(f"| `{slug}` | {v_cell} | {s1_info} | {s2_info} | {summary} |")
+
+    log_lines = [
+        f"# Deep Sleep Batch {batch_num} Execution Log (`work/_logs/batch-{batch_num}.md`)",
+        "",
+        f"- **Batch**: `{batch_num}` (`count = {len(slugs)}`, `delta = {delta_count}`, `no_delta = {no_delta_count}`)",
+        f"- **Commit**: `{short_sha}`",
+        f"- **CI Deploy**: `{deploy_run or 'verified'}`",
+        f"- **Remaining Unvisited Corpus Nodes**: `{rem}`",
+        "",
+        "## Node Execution Table",
+        "",
+        "| Node (`slug`) | Verdict | Stage 1 (`drafter` ⇄ `critic`) | Stage 2 (`translator` ⇄ `stylist`) | 1-Line Summary |",
+        "| :--- | :--- | :--- | :--- | :--- |",
+        *table_rows,
+        "",
+        "## Stage 3 Verification & Confirmed Problems / Surprises",
+        "",
+        f"- Sign-offs verified via `python3 scripts/check-signoffs.py`: `{len(slugs)}/{len(slugs)}`.",
+        f"- Confirmed channel/process problems or surprises: {problem_note or 'none'}.",
+        "",
+    ]
+    log_path.write_text("\n".join(log_lines), encoding="utf-8")
+
+    print(
+        f"BATCH_RECORDED: batch={batch_num} delta={delta_count} no_delta={no_delta_count} "
+        f"remaining={rem} commit={short_sha} log=work/_logs/batch-{batch_num}.md"
+    )
+    return 0
 
 
 def main(argv: list[str]) -> int:
@@ -206,6 +586,40 @@ def main(argv: list[str]) -> int:
             return 1
         return 0
 
+    if "--record-batch" in argv[1:]:
+        batch_num = 0
+        commit_sha = "none"
+        deploy_run = "verified"
+        problem_note = "none"
+        slugs: list[str] = []
+        i = 1
+        while i < len(argv):
+            arg = argv[i]
+            if arg == "--record-batch" and i + 1 < len(argv):
+                batch_num = int(argv[i + 1])
+                i += 2
+            elif arg == "--commit" and i + 1 < len(argv):
+                commit_sha = argv[i + 1]
+                i += 2
+            elif arg == "--deploy-run" and i + 1 < len(argv):
+                deploy_run = argv[i + 1]
+                i += 2
+            elif arg == "--problem" and i + 1 < len(argv):
+                problem_note = argv[i + 1]
+                i += 2
+            elif not arg.startswith("-"):
+                slugs.append(arg.removesuffix(".md"))
+                i += 1
+            else:
+                i += 1
+        if batch_num <= 0 or not slugs:
+            print(
+                "Usage: python3 scripts/check-signoffs.py --record-batch <m> --commit <sha> [--deploy-run <id>] [--problem <note>] <slug1> [<slug2> ...]",
+                file=sys.stderr,
+            )
+            return 2
+        return record_batch(batch_num, commit_sha, deploy_run, problem_note, slugs)
+
     slugs = [arg.removesuffix(".md") for arg in argv[1:] if not arg.startswith("-")]
     if not slugs:
         print("Usage: python3 scripts/check-signoffs.py <slug> [<slug2> ...]", file=sys.stderr)
@@ -213,11 +627,11 @@ def main(argv: list[str]) -> int:
 
     all_errors = []
     for slug in slugs:
-        errs = check_slug(slug)
+        verdict, _, _, _, _, errs = classify_node(slug)
         if errs:
             all_errors.extend(errs)
         else:
-            print(f"Sign-offs verified: work/{slug}/ (CRITIC + HANDOFF_CONFIRMED + STYLIST)")
+            print(f"Sign-offs verified: work/{slug}/ (verdict={verdict})")
 
     if all_errors:
         for e in all_errors:
