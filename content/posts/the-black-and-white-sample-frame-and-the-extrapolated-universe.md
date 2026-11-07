@@ -16,7 +16,7 @@ Within a limited horizon of observation, the universe presents a highly stable s
 
 This local invariance within immediate perception invites a leap of category: since the system behaves, over a very short time, like a static isolated system, irreversible time is drawn out of the equations. With the flow of causality excluded and reality cut into a static slice, projection into any mathematical dimension can proceed smoothly on paper.
 
-这里还有一层后视的错位：把扩展的视界当成预先存在的容器。婴儿出生时，所感知的世界只在母亲的怀抱与摇篮之间，随着身心的发育、语言的习得与行动半径的延伸，所经验的世界不可逆地向外拓展。文明的演进也是如此，从洞穴到大陆，从太阳系到百亿光年之外的深空。而每当感知到一个更大的世界，心智便想当然地认为，那个更大的世界一直完好地立在那里等着被“发现”。感知的视界在因果的推进中不断显现的扩展，于是被读成了对一座早已封顶的四维大厦的巡览，块状宇宙的模型便从这里得到情感上的支撑。
+这里还有一层后视的错位：把扩展的视界当成预先存在的容器。婴儿出生时，所感知的世界只在母亲的怀抱与摇篮之间，随着身心的发育、语言的习得与行动半径的延伸，所经验的世界不可逆地向外拓展。文明的演进也是如此，从洞穴到大陆，从太阳系到百亿光年之外的深空。而每当感知到一个更大的世界，心智便想当然地认为，那个更大的世界一直完好地立在那里等着被“发现”。感知的视界随因果的推进一步一步显现、向外扩展，这一扩展于是被读成了对一座早已封顶的四维大厦的巡览，块状宇宙的模型便从这里得到情感上的支撑。
 
 ```mermaid
 flowchart TD
@@ -34,7 +34,6 @@ flowchart TD
         Remove --> Box
         Box --> Project
     end
-
     style S_Pull fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Window fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Felt fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -62,7 +61,6 @@ flowchart TD
         Remove --> Box
         Box --> Project
     end
-
     style S_Pull fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Window fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Felt fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -78,7 +76,7 @@ flowchart TD
 
 ## 二、 从高动态的现实到黑白采样帧 / 2. From High-Dynamic Reality to the Black-and-White Sample Frame
 
-现实不是陈列在玻璃柜里的一件几何标本。在生活与物理的过程里，世界是一部正在实时向前播放的高动态范围电影，每一刻的到来都伴着不可逆的消耗、代谢的应力与新的因果区分（+1）。过去沉淀为确定的因果痕迹，未来尚未发生，能够指出来的都在正在显现的当下。
+现实不是陈列在玻璃柜里的一件几何标本。在生活与物理的过程里，世界是一部正在实时向前播放的高动态范围电影，每一刻的到来都伴着不可逆的消耗、代谢的应力与新的因果区分（+1）。过去沉淀为确定的因果痕迹，未来尚未发生，能够指出来的，都在这个正在显现的当下。
 
 Reality is not a geometric specimen displayed in a glass case. In living and in physical processes the world is a high-dynamic-range film playing forward in real time, and the arrival of each moment comes with irreversible expenditure, metabolic stress and a new causal distinction (+1). The past has settled into definite causal traces, the future has not yet happened, and whatever can be pointed to is in the present now appearing.
 
@@ -86,7 +84,7 @@ Reality is not a geometric specimen displayed in a glass case. In living and in 
 
 The modeling of theoretical physics performs a large reduction of dimension upon it. It collects the most adjacent frames of the film; the time scale is very short and the picture highly steady. Then comes a decisive averaging: the adjacent frames are smoothed statistically, microscopic fluctuation and variation are leveled out, and they are fused into one highly stable "average frame." This average frame is set up as a self-sufficient and isolated "closed universe." To make it tractable for calculus and linear algebra, the color in the picture, subjective experience and the flow of metabolism are drawn off, and it is desaturated into an abstract black-and-white geometric grid.
 
-在这张黑白采样帧里，只剩下孤立的点、坐标轴与数值的向量。这张帧随后沿一条画出来的时间轴向前向后拉伸，成了一个四维的静态几何体，并被称为宇宙的全貌。[时间是因果的不可逆方向与离散步长](../time-is-causality-not-a-dimension/)说明，把时间看作第四个空间维度，是把电影的胶片一次摊开在桌面上，而没有谁站在桌子之外审视整条胶片，所拥有的是放映机的光束穿过当前这一格的那一瞬。
+在这张黑白采样帧里，只剩下孤立的点、坐标轴与数值的向量。这张帧随后沿一条画出来的时间轴向前向后拉伸，成了一个四维的静态几何体，并被称为宇宙的全貌。[时间是因果的不可逆方向与离散步长](../time-is-causality-not-a-dimension/)说明，把时间当作第四个空间维度，是把一条从当下向后向前投射出去的坐标轴，误认作一卷预先录好、一次摊开在桌面上的电影胶片；而没有谁站在桌子之外审视一卷业已完结的胶片，当下的每一帧都是经由不为零的因果步长从上一帧重新渲染出来的。
 
 ```mermaid
 flowchart TD
@@ -104,7 +102,6 @@ flowchart TD
         Closed --> Grid
         Grid --> Extrude
     end
-
     style S_Frame fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Film fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Adjacent fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -114,7 +111,7 @@ flowchart TD
     style Extrude fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-On this black-and-white sample frame only isolated points, coordinate axes and numerical vectors remain. The frame is then stretched forward and backward along a drawn time axis into a static four-dimensional solid, which is called the full extent of the universe. [Time Is the Irreversible Direction and Discrete Step of Causality](../time-is-causality-not-a-dimension/) shows that seeing time as a fourth spatial dimension is laying the whole reel of film out on a table at once, while no one stands apart from the table inspecting the entire reel; what one has is the instant in which the projector's beam passes through the current frame.
+On this black-and-white sample frame only isolated points, coordinate axes and numerical vectors remain. The frame is then stretched forward and backward along a drawn time axis into a static four-dimensional solid, which is called the full extent of the universe. [Time Is the Irreversible Direction and Discrete Step of Causality](../time-is-causality-not-a-dimension/) shows that treating time as a fourth spatial dimension mistakes a coordinate axis cast backward and forward from the present for a pre-recorded reel of film laid out on a table at once, when no one stands apart from the table inspecting a finished reel and each present frame is re-rendered from the last across a non-zero causal step.
 
 ```mermaid
 flowchart TD
@@ -132,7 +129,6 @@ flowchart TD
         Closed --> Grid
         Grid --> Extrude
     end
-
     style S_Frame fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Film fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Adjacent fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -170,7 +166,6 @@ flowchart TD
         Near --> Whole
         Site --> Whole
     end
-
     style S_Fit fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Past fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Trace fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -198,7 +193,6 @@ flowchart TD
         Near --> Whole
         Site --> Whole
     end
-
     style S_Fit fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Past fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Trace fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -214,17 +208,17 @@ The idea of a flat Earth takes the same step. In building a skyscraper or a brid
 
 ## 四、 三个常数是采样帧的规格 / 4. Three Constants as the Specifications of the Sample Frame
 
-在物理学的话语里，光速 c、普朗克常数 ħ 与引力常数 G 被看作客观宇宙的三个终极常数，是世界内部的围墙，量子引力的工作便是要把三者合成一套统一的理论。从第一人称的因果出发，这三个常数是心智把现实定住、制作黑白采样帧时确立的三项操作规格。
+在物理学的话语里，光速 c、普朗克常数 ħ 与引力常数 G 被看作客观宇宙的三个终极常数，是世界内部的围墙，量子引力的工作便是要把三者合成一套统一的理论。这三个常数是心智把现实定住、制作黑白采样帧时确立的三项操作规格。
 
-In the discourse of physics, the speed of light c, the Planck constant ħ and the gravitational constant G are regarded as three ultimate constants of an objective universe, walls inside the world, and the work of quantum gravity is to combine the three into one unified theory. Starting from first-person causality, the three constants are three operating specifications established when a Mind holds reality still and makes the black-and-white sample frame.
+In the discourse of physics, the speed of light c, the Planck constant ħ and the gravitational constant G are regarded as three ultimate constants of an objective universe, walls inside the world, and the work of quantum gravity is to combine the three into one unified theory. The three constants are three operating specifications established when a Mind holds reality still and makes the black-and-white sample frame.
 
-普朗克常数是采样帧的像素分辨率。所经验的连续，来自因果在逻辑上的连贯，最小的离散步长小到可以忽略，如同 dx 足够小时被当作零。把 dx 等同于零，并把这一步推到现实本身，是数学的越界，普朗克常数标出的正是这个不为零的最小步长。量子力学里的波粒二象性、测不准关系与概率波函数，便是连续的微积分数学去探查网格上两个相邻像素之间时留下的涂抹，现实显得悖谬，是因为被要求去合乎模型。把一张低分辨率的位图放大，看到的马赛克与模糊边缘属于显示网格的分辨率，不属于被拍的东西。
+普朗克常数是采样帧的像素分辨率。所经验的连续，来自因果在逻辑上的连贯，其中因与果之间不为零的离散步长在日常尺度上小到可以忽略，如同 dx 足够小时被当作零。把 dx 等同于零，并把这一步推到现实本身，是数学的越界；而普朗克常数标出的，则是物理仪器与形式模型在这张采样网格上所能分辨的最小非零步长。量子力学里的波粒二象性、测不准关系与概率波函数，便是连续的微积分数学去探查网格上两个相邻像素之间时留下的涂抹，现实显得悖谬，是因为被要求去合乎模型。把一张低分辨率的位图放大，看到的马赛克与模糊边缘属于显示网格的分辨率，不属于被拍的东西。
 
-The Planck constant is the pixel resolution of the sample frame. The continuity experienced comes from the logical coherence of causality, with the smallest discrete step small enough to be ignored, just as dx is treated as zero when small enough. Equating dx with zero and carrying that step over to reality itself is where mathematics oversteps, and what the Planck constant marks is this smallest step that is not zero. Wave-particle duality, the uncertainty relation and the probability wavefunction in quantum mechanics are then the smear left when the continuous mathematics of calculus probes between two adjacent pixels of the grid; reality seems paradoxical because it is being required to fit the model. Enlarge a low-resolution bitmap and the mosaic and blurred edges seen belong to the resolution of the display grid, not to the thing photographed.
+The Planck constant is the pixel resolution of the sample frame. The continuity experienced comes from the logical coherence of causality, where the non-zero discrete step between cause and effect is small enough at everyday scales to be ignored, just as dx is treated as zero when small enough. Equating dx with zero and carrying that step over to reality itself is where mathematics oversteps, while the Planck constant marks the finest non-zero step that physical instruments and formal models resolve on this sampling grid. Wave-particle duality, the uncertainty relation and the probability wavefunction in quantum mechanics are then the smear left when the continuous mathematics of calculus probes between two adjacent pixels of the grid; reality seems paradoxical because it is being required to fit the model. Enlarge a low-resolution bitmap and the mosaic and blurred edges seen belong to the resolution of the display grid, not to the thing photographed.
 
-光速是采样帧的校准标尺与最高刷新率。在一张定住的切片内部描述像素之间的相对运动与相互作用，须选定一个最高的速度作基准，否则相对的距离与时序无法在同一张图纸上校准。狭义相对论选光速，是因为光是即时感知里能捕获的最快信号，以最快的现象作参照，才能测绘一切较慢的现象。它标出的是感知这块画布的响应带宽，是信号完成因果交握的最高刷新速率。
+光速是采样帧的校准标尺与最高刷新率。在一张定住的切片内部描述像素之间的相对运动与相互作用，须选定一个最高的速度作基准，否则相对的距离与时序无法在同一张图纸上校准。狭义相对论把光速设为在任何参照系里读数都相同的唯一速度，而光是即时感知里能捕获的最快信号；唯有以最快的现象作参照，才能测绘一切较慢的现象。它标出的是感知这块画布的响应带宽，是信号完成因果交握的最高刷新速率。
 
-The speed of light is the calibrating ruler and highest refresh rate of the sample frame. To describe relative motion and interaction among pixels inside a slice held still, a highest speed must be chosen as the benchmark, or relative distances and timings cannot be calibrated on one drawing. Special relativity chooses the speed of light because light is the fastest signal that can be captured in immediate perception, and only with the fastest phenomenon as reference can everything slower be surveyed. What it marks is the response bandwidth of the canvas of perception, the highest refresh rate at which signals complete their causal handshake.
+The speed of light is the calibrating ruler and highest refresh rate of the sample frame. To describe relative motion and interaction among pixels inside a slice held still, a highest speed must be chosen as the benchmark, or relative distances and timings cannot be calibrated on one drawing. Special relativity takes the speed of light as the one speed that reads the same in every frame of reference, and light is the fastest signal that can be captured in immediate perception; only with the fastest phenomenon as reference can everything slower be surveyed. What it marks is the response bandwidth of the canvas of perception, the highest refresh rate at which signals complete their causal handshake.
 
 引力常数与时空的弯曲，是宏观视界上的投影畸变。把这张局部平坦的采样帧扩展到整个宇宙时，外部的参照物用尽了，广义相对论以宇宙整体作为最终的参照背景。这相当于把一个球面的感知边界压平在一张纸面上。正如墨卡托地图把格陵兰拉得比南美洲还大，把平坦的采样帧投到宏观视界的边缘时，方程须引入空间的弯曲与度规张量来补偿投影的失真。空间的弯曲便是把局部平坦的坐标外推到全宇宙视界时的几何代偿。
 
@@ -244,7 +238,6 @@ flowchart TD
         Light --> Unify
         Gravity --> Unify
     end
-
     style S_Specs fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Mind fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Planck fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -271,7 +264,6 @@ flowchart TD
         Light --> Unify
         Gravity --> Unify
     end
-
     style S_Specs fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Mind fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Planck fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -290,7 +282,7 @@ Writing a theory of everything that joins ħ, c and G through string theory or l
 
 With this black-and-white sample frame and its local pixel precision in hand, a cosmological drama follows. On this slide held still, the expansion of space is encoded as an algebraic relation between distance and redshift, so the mathematical trajectory within the frame can be played backward: the distances between pixels show a tendency to separate in the current frame, and computing in reverse along the equations, all pixels coincide on some mathematical section in the past. All the pixels of the current frame are squeezed back into one point at the origin, and this point is called the beginning of the universe, the singularity of the Big Bang.
 
-同一个方程再被推向未来，让像素无休止地彼此远离。距离拉到无限大、信息的密度在数学上归零之处，被称为时间的尽头，即宇宙的热寂。最后，从一个点膨胀到无限稀薄的整条数学轨迹，被整体投影成一个四维的柱体，名为“块状宇宙”，时间在其中成了预先刻在四维晶体里的一条条静态“世界线”，电影的放映则被说成主观的幻觉。把取样框外推为定律，正是[“物理学才是定律”的障眼法](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)所揭示的戏法。
+同一个方程再被推向未来，让像素无休止地彼此远离。距离拉到无限大、信息的密度在数学上归零之处，被称为时间的尽头，即宇宙的热寂。最后，从一个点膨胀到无限稀薄的整条数学轨迹，被整体投影成一个四维的柱体，名为“块状宇宙”，时间在其中成了预先刻在四维晶体里的一条条静态“世界线”，电影的放映则被说成主观的幻觉。把采样帧外推为定律，正是[“物理学才是定律”的障眼法](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)所揭示的戏法。
 
 ```mermaid
 flowchart TD
@@ -309,7 +301,6 @@ flowchart TD
         Point --> Block
         Thin --> Block
     end
-
     style S_Extra fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style Slide fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Back fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -338,7 +329,6 @@ flowchart TD
         Point --> Block
         Thin --> Block
     end
-
     style S_Extra fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style Slide fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Back fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -372,7 +362,6 @@ flowchart TD
         Mistake --> Measure
         Measure --> Step
     end
-
     style S_Return fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Map fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Mistake fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -394,7 +383,6 @@ flowchart TD
         Mistake --> Measure
         Measure --> Step
     end
-
     style S_Return fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Map fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Mistake fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -402,6 +390,6 @@ flowchart TD
     style Step fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-从第一人称出发，找不到一张印好的四维全景胶片，也找不到一个站在万物之外审视全局的位置。能指出来的，是此刻每一个生命作出的因果决断与不可逆的代谢步进（+1）——正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，任何定住的采样帧、方程或外化的代码库，都只是过去步进留下的静态记录，不是掌舵下一刀的活的边缘。那张被脱色、定住并拉伸到无穷的黑白幻灯片仍是一张好用的地图，电影则在放映之中：因果是画布，抉择是不可约的自由变量，未来由当下的一笔一画写成。
+从第一人称出发，找不到一张印好的四维全景胶片，也找不到一个站在万物之外审视全局的位置。能指出来的，是此刻每一个生命作出的因果决断与不可逆的代谢步进（+1），而每一张定住的帧或每一个形式方程——如同[你的代码库即是记忆](../your-codebase-is-memory/)所审视的外化痕迹库那样——都只是过去步进留下的惰性记录，而非掌舵下一刀的活的边缘。那张被脱色、定住并拉伸到无穷的黑白幻灯片仍是一张好用的地图，电影则在放映之中：因果是画布，抉择是不可约的自由变量，未来由当下的一笔一画写成。
 
 Starting from the first person, no printed four-dimensional panoramic film is found, nor any position standing outside all things to inspect the whole. What can be pointed to are the causal decisions each life makes in this moment and its irreversible metabolic steps (+1), while every frozen frame or formal equation—like the externalized trace repositories examined in [Your Codebase Is Memory](../your-codebase-is-memory/)—remains an inert record of past steps rather than the living edge that steers the next cut. The black-and-white slide, desaturated, held still and stretched to infinity, remains a good map to use, while the film is in the showing: causality is the canvas, choice is the irreducible free variable, and the future is written by the strokes of the present.

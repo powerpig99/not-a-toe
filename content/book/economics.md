@@ -37,6 +37,6 @@ Proceeding from dispersed knowledge and subjective valuation, these essays exami
 - [投资决策的因果闭环 / The Causal Loop of Investment Decisions](../../posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui/)
 - [价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth](../../posts/the-generative-mechanics-of-value-money-and-wealth/)
 - [福利国家的幻象 / The Welfare State Illusion](../../posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy/)
-- [宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相 / Macro Parameters, Micro Choices, and the Command of Yields](../../posts/the-summary-first-reversal-and-the-command-of-yields/)
+- [宏观参数、微观抉择与利率的命令 / Macro Parameters, Micro Choices, and the Command of Yields](../../posts/the-summary-first-reversal-and-the-command-of-yields/)
 - [私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus](../../posts/the-causal-order-of-private-residuals-and-social-surplus/)
 - [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/)

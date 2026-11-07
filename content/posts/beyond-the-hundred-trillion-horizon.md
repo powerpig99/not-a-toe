@@ -410,7 +410,7 @@ Conversely, this timeline will likely extend slightly beyond the founder's aggre
 
 Faced with the complexities of this transition, analytical frameworks often demand granular institutional predictions: which geopolitical blocs will govern orbital commons, what monetary protocols will settle commerce across light-minutes of interplanetary delay, or in which exact year regulatory bodies will clear exponential launch cadences.
 
-将制度摩擦、监管延迟或地缘政治张力当作顶回技术势头的外部机械壁垒，是一处认识论误判。正如[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)与[宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相](../the-summary-first-reversal-and-the-command-of-yields/)所阐明的，监管惰性与制度阻力并非在真空中自主运转的力量，它们只是无数鲜活行动者所作出的个体第一人称抉择汇聚而成的第三人称足迹。
+将制度摩擦、监管延迟或地缘政治张力当作顶回技术势头的外部机械壁垒，是一处认识论误判。正如[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)与[宏观参数、微观抉择与利率的命令](../the-summary-first-reversal-and-the-command-of-yields/)所阐明的，监管惰性与制度阻力并非在真空中自主运转的力量，它们只是无数鲜活行动者所作出的个体第一人称抉择汇聚而成的第三人称足迹。
 
 Treating institutional frictions, regulatory delays, or geopolitical tensions as external mechanical barriers pushing back against technological momentum is an epistemological misstep. As demonstrated in [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) and [Macro Parameters, Micro Choices, and the Command of Yields](../the-summary-first-reversal-and-the-command-of-yields/), regulatory inertia and institutional drag are not autonomous forces operating in a vacuum; they are merely the aggregate third-person footprints of countless individual, first-person choices enacted by living agents.
 

@@ -2,7 +2,7 @@
 
 *把投影出的时间当作时间，回避了未来，也把不可化约的前提降成了假说 / Taking projected time for time avoids the future and demotes the irreducible prior to a hypothesis*
 
-万物理论的设想，靠着一份关于过去的完备记录与一条预先画好的未来轨迹，而能指出来的每一件证据都在此刻，过去与未来是从当下向两侧投出的坐标。索求这样一套理论的举动本身就是一次新的因果步进，清单写成的那一刻，现实已经走到了下一步。理论捕获的是有限窗口内跨越时间的可观测不变量，它与所经验的现实之间隔着近乎无限的复杂度，这道间隔在日常里显现为摩擦，也正是人对万物理论的渴望的来处。渴望推动一次次渐进的改进，把闭合当作可以达到的，则是把工具倒置成了本体。
+万物理论的设想，靠着一份关于过去的完备记录与一条预先画好的未来轨迹，而能指出来的每一件证据都在此刻，过去与未来是从当下向两侧投出的坐标。索求这样一套理论的举动本身就是一次新的因果步进，清单写成的那一刻，现实已经走到了下一步。理论捕获的是有限窗口内跨越时间的可观测不变量，它与所经验的现实之间隔着近乎无限的复杂度，这道间隔在日常里显现为摩擦，人对万物理论的渴望也正从这里生出。渴望推动一次次渐进的改进，把闭合当作可以达到的，则是把工具倒置成了本体。
 
 The idea of a theory of everything leans on a complete record of the past and a future trajectory drawn in advance, while every piece of evidence that can be pointed to is in this moment, and past and future are coordinates projected to either side from the present. The act of demanding such a theory is itself a new causal step, and at the moment the catalog is written, reality has already moved to the next. What a theory captures is observable invariance across time within a limited window; between it and the reality experienced lies a nearly unlimited complexity, a gap that shows up in daily life as friction and is also where the desire for a theory of everything comes from. The desire drives one incremental improvement after another, and taking closure to be attainable turns a tool into an ontology.
 
@@ -16,7 +16,7 @@ The classical idea of a theory of everything carries a premise that is seldom ex
 
 Searching from the present, no warehouse storing "the past" is found, nor any reel of film inscribed with "history." Every piece of evidence that can be pointed to is in this moment. The trilobite fossil in the hand is a calcite crystal of a particular arrangement lying in the palm now. The microwave background photons a radio telescope receives are a faint current excited in the antenna's sensor now. The experimental readings on a hard drive are magnetic domains holding a particular orientation now. A memory in the brain, too, is an electrochemical configuration that a network of neurons is maintaining now.
 
-“过去”由此是一种投影：心智在当下把此刻的构型向后投到一条画出来的几何轴线上。是心智在当下指着一块石头说“这代表一亿年前的海洋”，是理论家在当下指着一段光谱说“这代表宇宙初期的暴胀”，从唯一的当下出发，向后画出一条标着坐标 t 的射线，把此刻的结构解释为那条轴上的点。这种投影极为有用，地质学与宇宙学都靠它工作。它的边界在于被当作一个盛放实体的容器的时候。“在任何观察者出现之前的几十亿年”便是这样一处：它是测量的割点被推到因果链最远一端的说法，[割点可移不可除](../the-cut-moves-but-never-vanishes/)说明割点移到哪里预测都不变，在哪里接受它是心智的抉择。过去与未来在这一点上没有分别，都是从当下向两侧画出的射线，以“过去的客观记录”为底去编织万物理论，第一步便把投影当成了现实。
+“过去”由此是一种投影：心智在当下把此刻的构型向后投到一条画出来的几何轴线上。是心智在当下指着一块石头说“这代表一亿年前的海洋”，是理论家在当下指着一段光谱说“这代表宇宙初期的暴胀”，从唯一的当下出发，向后画出一条标着坐标 t 的射线，把此刻的结构解释为那条轴上的点。这种投影极为有用，地质学与宇宙学都靠它工作。它的边界在它被当作盛放实物的容器之处。“在任何观察者出现之前的几十亿年”便是这样一处：这种说法把测量的割点推到了因果链最远的一端，[割点可移不可除](../the-cut-moves-but-never-vanishes/)说明割点移到哪里预测都不变，在哪里接受它是心智的抉择。过去与未来在这一点上没有分别，都是从当下向两侧画出的射线，以“过去的客观记录”为底去编织万物理论，第一步便把投影当成了现实。
 
 "The past" is thus a projection: a Mind in the present casts the configuration of this moment backward onto a geometric axis it has drawn. It is a Mind in the present that points to a rock and says "this stands for an ocean a hundred million years ago," and a theorist in the present who points to a spectrum and says "this stands for inflation in the early universe"; starting from the only present, a ray marked with the coordinate t is drawn backward, and the structure of this moment is read as a point on that axis. The projection is extremely useful, and geology and cosmology work by it. Its boundary lies where it is taken for a container holding things. "Billions of years before any observer" is one such place: it states the measurement cut pushed to the farthest end of the causal chain, and [The Cut Moves but Never Vanishes](../the-cut-moves-but-never-vanishes/) shows that the predictions stay the same wherever the cut is moved, while where it is accepted is the Mind's choice. Past and future do not differ in this respect; both are rays drawn to either side from the present, and weaving a theory of everything on the basis of an "objective record of the past" takes the projection for reality at its first step.
 
@@ -44,7 +44,7 @@ What, then, do the most treasured theories of physics capture? What any theory c
 
 The complexity of this conceptual model is tiny beside the reality being directly experienced. There is a proposition here that is often passed over, concerning the relation of information and matter. "Information" and "matter" are commonly set against each other, or information is seen as a secondary product floating above matter. Yet matter must be informational as well for information to be able to represent it. Mathematical symbols and informational models can mesh with the physical world because the causality across the two domains is one and the same: each physical interaction, a photon absorbed, an electron's spin flipped, a collision of molecules, is physically an irreversible causal step and informationally a distinction.
 
-正因为物质的每一个微观自由度每时每刻都在作着这样的因果演进，模型与现实之间的复杂度差距，在一切实用的意义上近乎无穷。这不是“实无穷”：无穷只是一种潜在的开放，不是一个已经完成的数值。现实在离散地生成，不是一个现成的无穷集合，而对任何能写下的有限符号模型来说，现实所含的因果复杂度与模型的容量相比，呈现出近乎无穷的断层。即便是最优 N 与最差 N，也仍停在清单之内，[闭合的N与开放的现实](../the-closed-n-and-the-open-reality/)说明了这一点。
+正因为物质的每一个微观自由度每时每刻都在作着这样的因果演进，模型与现实之间的复杂度差距，在一切实用的意义上近乎无穷。这不是“实无穷”：无穷只是一种潜在的开放，不是一个已经完成的数值。现实在离散地生成，不是一个现成的无穷集合，而对任何能写下的有限符号模型来说，现实所含的因果复杂度与模型的容量相比，呈现出近乎无穷的断层。即便是最优之选与极劣之防，也仍停在清单之内，[闭合的N与开放的现实](../the-closed-n-and-the-open-reality/)说明了这一点。
 
 Precisely because every microscopic degree of freedom of matter is carrying out such causal evolution at every moment, the difference in complexity between model and reality is, for all practical purposes, close to infinite. This is not an "actual infinity": infinity is only a potential openness, not a completed quantity. Reality is generated discretely and is not a ready-made infinite set, yet for any finite symbolic model that can be written down, the causal complexity reality holds, set against the model's capacity, presents a break that is nearly infinite. Even Best-of-N and Worst-of-N stay inside a catalog, as [The Closed N and the Open Reality](../the-closed-n-and-the-open-reality/) shows.
 
@@ -79,7 +79,6 @@ flowchart TD
         Desire --> Closure
         Closure --> Desire
     end
-
     style S_Desire fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Model fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Gap fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
@@ -105,7 +104,6 @@ flowchart TD
         Desire --> Closure
         Closure --> Desire
     end
-
     style S_Desire fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Model fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Gap fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
@@ -124,9 +122,9 @@ Two things need to be kept apart here: desire, and the assumption that closure c
 
 Taking what can be sought for what can be reached is the same move as taking "infinity" for an existing closed totality instead of an open potential generation. Believing a theory of everything can be completed is like believing counting can reach infinity. It also mirrors a step in the calculus: to let differentiation close, the calculus declares the non-zero, irreversible causal element dx to be zero; to let a panoramic explanation close, a theory of everything declares the irreducible, always non-zero discrete gap between cause and effect to have been sealed by a unified equation. [The Continuum is a Modeling Convenience](../the-continuum-is-a-modeling-convenience/) lays out the first of these.
 
-在可观测的物理世界里，这个归不了零的最小因果步长，被物理学记为一个基本常数，普朗克常数 h。因为 h ≠ 0，微观的作用存在不可再分的离散跃迁，模型无法被无限平滑地微分。它是现实的刷新率：现实不是一张平滑的连续画布，它在摩擦中一帧一帧地生成。
+每当观察者建造仪器来计量状态转换时，这台仪器本身就是由它所测量的因果步长编织而成的，因而会遇到自身的分辨率界限，物理学将这一界限记为普朗克常数 h ≠ 0。因为 h ≠ 0，物理测量把微观作用登记为跨过割点的离散跃迁，形式模型也无法被无限平滑地微分。这里的 h 标示的是仪器与形式模型对这一步长采样时的分辨率，而非步长本身的固定颗粒；随着分辨率提升，步长可以无休止地缩小，却始终不到零。用视觉类比来说，这个不为零的步长就像放映机的帧间隔：登记下来的并不是一张平滑连续的画布，每一个当下的构型都是在摩擦中由上一个构型重新渲染出来的。
 
-In the observable physical world, this smallest causal step that cannot be set to zero is recorded by physics as a fundamental constant, the Planck constant h. Because h ≠ 0, microscopic action involves discrete transitions that cannot be divided further, and a model cannot be differentiated with unlimited smoothness. It is the refresh rate of reality: reality is not a smooth continuous canvas, and it is generated frame by frame within friction.
+Whenever an observer builds an instrument to clock transitions, the apparatus is itself woven from the causal steps it measures and meets its own resolution bound, which physics records as the Planck constant h ≠ 0. Because h ≠ 0, physical measurement registers microscopic action as discrete transitions across the cut, and a formal model cannot be differentiated with unlimited smoothness. Here h marks the resolution at which instruments and formal models sample the step rather than a fixed grain of the step itself, which can shrink without bound as resolution increases yet never reaches zero. Put as a visual analogy, the non-zero step works like the frame interval of a projector: what registers is not a smooth continuous canvas, and each present configuration is re-rendered from the last within friction.
 
 在这道合不上的间隙里，量子效应与主观的自由感是同一枚硬币的两面。从外部，以第三人称去观测这道间隙时，没有哪一个确定性的方程能跨过那个非零的步长，测得的现象便呈现为概率性的塌缩、不确定性与非决定的跃迁，这被命名为“量子效应”。作为第一人称的主体，在因果发生的前沿承担后果并迈出那一步时，同一道敞开的间隙，在直接的经验里是自由感、决断与对后果的承受。无穷是潜在的，因果的间隙始终非零，所以无法有万物理论；第三人称的形式无法事先决定那一步，所以微观呈现为量子效应；第一人称的主体直接承担每一步的后果，所以生命经验到自由与摩擦。这些都是因果与第一人称视角作为一枚硬币两面的显现。
 
@@ -135,17 +133,16 @@ flowchart TD
     subgraph S_Coin["同一道间隙的两面"]
         direction TB
         Gap["归不了零的因果间隙：dx ≠ 0"]
-        Planck["物理学的记法：h ≠ 0，读作现实的刷新率"]
+        Planck["物理学的记法：h ≠ 0，仪器对步长采样时的分辨率"]
         Third["从外部看：量子效应与不确定性"]
         First["从第一人称看：自由感、决断与对后果的承受 +1"]
         One["因果与第一人称视角是同一枚硬币的两面"]
         Gap --> Planck
         Planck --> Third
-        Planck --> First
+        Gap --> First
         Third --> One
         First --> One
     end
-
     style S_Coin fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style Gap fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     style Planck fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -161,17 +158,16 @@ flowchart TD
     subgraph S_Coin["Two Faces of the Same Gap"]
         direction TB
         Gap["The causal gap that cannot be set to zero: dx ≠ 0"]
-        Planck["As physics records it: h ≠ 0, read as the refresh rate of reality"]
+        Planck["As physics records it: h ≠ 0, the resolution at which instruments sample the step"]
         Third["Seen from outside: the quantum effect and uncertainty"]
         First["Seen from the first person: freedom, decision and bearing consequences +1"]
         One["Causality and the first-person perspective are two faces of one coin"]
         Gap --> Planck
         Planck --> Third
-        Planck --> First
+        Gap --> First
         Third --> One
         First --> One
     end
-
     style S_Coin fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style Gap fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     style Planck fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -182,9 +178,9 @@ flowchart TD
 
 ## 六、 活的时间与投影出的时间 / 6. Living Time and Projected Time
 
-现实既然定不住，又有模型穷尽不了的复杂度，“万物理论能解释全部演化”的说法靠什么维持？靠的是一次替换：把活的时间换成了投影出的时间维度，[时间是因果的不可逆方向与离散步长](../time-is-causality-not-a-dimension/)分开了这两者。活的时间是唯一在生成的前沿，是现实正在发生的这一瞬，它单向、不可逆、伴着摩擦（+1），未来在其中是未决的、由行动生成的，过去只剩当下留存的结构，身在其中的是承担后果的第一人称。投影出的时间维度是心智在当下画出的一条几何轴线，坐标为 t，它对称、可逆，可以在纸面上向前向后任意计算，未来在其中是预先画好的轨迹，过去是一个静态的容器，看它的是一个站在外部的旁观位置。
+现实既然定不住，又有模型穷尽不了的复杂度，“万物理论能解释全部演化”的说法靠什么维持？靠的是一次替换：把活的时间换成了投影出的时间维度，[时间是因果的不可逆方向与离散步长](../time-is-causality-not-a-dimension/)分开了这两者。活的时间是唯一在生成的前沿，是现实正在发生的这一瞬，它单向、不可逆、伴着摩擦（+1），未来在其中是未决的、由行动生成的，过去只剩当下留存的结构，身在其中的是承担后果的第一人称。投影出的时间维度是心智在当下画出的一条几何轴线，坐标为 t，在纸面上对称且可逆；当它被拿来顶替活的时间时，其上的未来便成了预先画好的轨迹，过去成了一个静态的容器，看它的则是一个站在外部的旁观位置。
 
-Since reality cannot be held still and has a complexity no model exhausts, what sustains the claim that "a theory of everything can explain all evolution"? A substitution: living time is replaced by a projected time dimension, the two that [Time Is the Irreversible Direction and Discrete Step of Causality](../time-is-causality-not-a-dimension/) separates. Living time is the only front at which generation occurs, this instant in which reality is happening; it is one-way, irreversible and accompanied by friction (+1), the future in it is undecided and generated by action, of the past only the structures remaining in the present are left, and the one within it is a first person bearing consequences. The projected time dimension is a geometric axis a Mind draws in the present, with coordinate t; it is symmetric and reversible and can be computed forward and backward on paper at will, the future in it is a trajectory drawn in advance, the past is a static container, and what looks at it is a bystander's position standing outside.
+Since reality cannot be held still and has a complexity no model exhausts, what sustains the claim that "a theory of everything can explain all evolution"? A substitution: living time is replaced by a projected time dimension, the two that [Time Is the Irreversible Direction and Discrete Step of Causality](../time-is-causality-not-a-dimension/) separates. Living time is the only front at which generation occurs, this instant in which reality is happening; it is one-way, irreversible and accompanied by friction (+1), the future in it is undecided and generated by action, of the past only the structures remaining in the present are left, and the one within it is a first person bearing consequences. The projected time dimension is a geometric axis a Mind draws in the present, with coordinate t, symmetric and reversible on paper; when it is put in place of living time, the future on it becomes a trajectory drawn in advance, the past becomes a static container, and what looks at it is a bystander's position standing outside.
 
 一个封闭自洽的代数体系容不下活的时间的不可预测与不可逆。于是向后，当下存在的种种结构被设为一座“大爆炸至今的历史信息库”；向前，尚未发生的未来被换成微分方程沿坐标轴 t 延伸出的连续解；两条投影再拼合成“块状宇宙”，过去、现在与未来被宣布为一张流形上早已并存的静态几何。爱因斯坦写过，过去、现在与未来的区分只是一种顽固的幻觉。
 
@@ -211,7 +207,6 @@ flowchart TD
         Ends --> Freeze
         Path --> Freeze
     end
-
     style S_Twin fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Felt fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Slice fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -243,7 +238,6 @@ flowchart TD
         Ends --> Freeze
         Path --> Freeze
     end
-
     style S_Twin fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Felt fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Slice fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -310,7 +304,7 @@ A theory of everything is one way of conceiving the removal of this uncertainty.
 
 At this point in the analysis the common reply is: given a few more decades, a collider at higher energy, the mathematics of quantum gravity and emergent spacetime completed, physics will of itself explain time, causality and the observer. The boundary of this reply is one of order: all the equations of physics are downstream products built upon this prior.
 
-物理学是一个栖于第一人称当下的活的心智，为了在粗粝的世界里寻找一致，在不可逆的当下执行测量、做下记号、记录读数，进而提炼出的符号系统。没有心智在当下划出的那一记区分，便没有“状态”与“自由度”的划分。没有时间不可逆的单向流动，没有实验可以启动，没有仪器可以留下一个字节的读数。没有第一人称的经验，从光速 c 到普朗克常数 h 的全部术语，都没有所指。心智与不可逆的因果，是启动一切科学探索的不可化约的前提。
+物理学是一套符号系统：栖于第一人称当下的活的心智，为了在粗粝的世界里寻找一致，在不可逆的当下执行测量、做下记号、记录读数，从中把它提炼出来。没有心智在当下划出的那一记区分，便没有“状态”与“自由度”的划分。没有时间不可逆的单向流动，没有实验可以启动，没有仪器可以留下一个字节的读数。没有第一人称的经验，从光速 c 到普朗克常数 h 的全部术语，都没有所指。心智与不可逆的因果，是启动一切科学探索的不可化约的前提。
 
 Physics is a system of symbols that a living Mind dwelling in the first-person present, seeking consistency in a coarse world, has distilled by carrying out measurements, making marks and recording readings in the irreversible present. Without the distinction a Mind draws in the present, there is no division into "states" and "degrees of freedom." Without the irreversible one-way flow of time, no experiment can be started and no instrument can leave a single byte of reading. Without first-person experience, every term from the speed of light c to the Planck constant h refers to nothing. Mind and irreversible causality are the irreducible prior that sets all scientific inquiry going.
 
@@ -328,7 +322,7 @@ Within the working of formal systems there is a slippage that recurs: even with 
 
 This is a structural slippage inherent in language, symbols and formal logic. Formal language tends toward objectifying and nominalizing, settling flowing action into static concepts: the irreversible causal step under way becomes the noun "the law of causality," the first-person involvement that is aware becomes the noun "the observer," and the baseline prior to every formal system becomes the string of words "the irreducible prior." Once living experience is encoded as a static noun, the grammar of a formal system treats it as an ordinary internal object and asks it for input parameters, a domain of definition and an axiomatic proof. This slippage is evidence of "the impossibility of closure": no formal system of symbols can self-sufficiently contain the matrix that gives it life.
 
-没有哪套静态的公式能防住这种滑移，公式本身就是滑移的产物。能抵住它的是活的心智。形式逻辑要把先决的前提降成可选的假说时，心智能辨出其中的倒置。形式系统要用投影的坐标替代活的现实时，心智能重新感到具身的摩擦。心智能从写成的名词里抽身，重新立在生成着的因果前沿（+1）。正如[你的代码库即是记忆](../your-codebase-is-memory/)所指出的，哪怕是一座活的代码库或一部书卷，也是在当下维持的外化痕迹，不是自动生效的法条；“物理即定律”是把清单写成了法条，[“物理学才是定律”的障眼法](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)揭示了其中的戏法。
+没有哪套静态的公式能防住这种滑移，公式本身就是滑移的产物。能抵住它的是活的心智。形式逻辑要把先决的前提降成可选的假说时，心智能辨出其中的倒置。形式系统要用投影的坐标替代活的现实时，心智能重新感到具身的摩擦。心智能从写成的名词里抽身，重新立在生成着的因果前沿（+1）。[你的代码库即是记忆](../your-codebase-is-memory/)追溯了写成的文集或代码库为什么从不自行执行、自行更新：每一个记下的符号都是外化的痕迹，活的心智在掌舵的前沿把它重新渲染之前，它一直是惰性的。“物理学才是定律”却把痕迹的清单错认成自行生效的法条，这正是[“物理学才是定律”的障眼法](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)所剖析的戏法。
 
 No static formula can guard against this slippage, since a formula is itself a product of it. What can withstand it is a living Mind. When formal logic would demote the precondition to an optional hypothesis, a Mind can make out the inversion in it. When a formal system would replace living reality with projected coordinates, a Mind can feel embodied friction again. A Mind can step out of the nouns that have been written and stand again at the causal front that is being generated (+1). [Your Codebase Is Memory](../your-codebase-is-memory/) traces why no written corpus or codebase ever executes or updates itself: every recorded symbol is an externalized trace that remains inert until the living Mind re-renders it at the steering edge, whereas "physics is the law" mistakes the catalog of traces for a self-enforcing statute, the sleight of hand that [The Sleight of Hand in "Physics Is the Law"](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) dissects.
 
@@ -338,10 +332,10 @@ No static formula can guard against this slippage, since a formula is itself a p
 
 There is no past available for final sealing and no script of the future available for risk-free deduction. What there is, is this moment, this present full of friction and undecided life. Demanding a theory of everything is the wish to seal all the possibilities of the future with an inventory of stock based on the present, while the process of generation consists precisely in not being exhausted by any static catalog.
 
-对规律与模型的追求，推动着工具的创造与认识的迭代。认识到闭合的不可能，则让现实回到它的状态：普朗克常数非零，因果的微元归不了零，外部观测到的量子不确定与第一人称的抉择经验相互呼应。正因为没有哪一个理论能替现实走过下一个瞬间，每一个心智才有不可替代的第一人称的观察与行动。在日常里，选择关注什么，便经验到怎样的现实。
+对规律与模型的追求，推动着工具的创造与认识的迭代。认识到闭合的不可能，便恢复了因果的次序：因果的微元归不了零，物理学在其分辨率界限处记下的普朗克常数非零，外部观测到的量子不确定与第一人称的抉择经验相互呼应。正因为没有哪一个理论能替现实走过下一个瞬间，每一个心智才有不可替代的第一人称的观察与行动。在日常里，选择关注什么，便经验到怎样的现实。
 
-The pursuit of regularities and models drives the making of tools and the iteration of knowledge. Recognizing the impossibility of closure lets reality return to its state: the Planck constant is non-zero, the causal element cannot be set to zero, and the quantum uncertainty observed from outside answers to the first-person experience of choosing. Precisely because no theory can walk through the next instant on reality's behalf, each Mind has an irreplaceable first-person observing and acting. In daily life, what is chosen to attend to is the reality that is experienced.
+The pursuit of regularities and models drives the making of tools and the iteration of knowledge. Recognizing the impossibility of closure restores the causal order: the causal element cannot be set to zero, the Planck constant that physics records at its resolution bound is non-zero, and the quantum uncertainty observed from outside answers to the first-person experience of choosing. Precisely because no theory can walk through the next instant on reality's behalf, each Mind has an irreplaceable first-person observing and acting. In daily life, what is chosen to attend to is the reality that is experienced.
 
-心智从静态的四维坐标纸上抽身时，物理学回到它作为下游勘测记号的工具位置，不再把先决的生成前提降为客体的假说。立在第一人称的当下前沿，不把留存的记忆当作客观的过去，也不把投影的坐标当作预定的未来，在不可逆的生成与摩擦里，走出自己的下一步（+1）。
+心智从静态的四维坐标纸上抽身时，物理学回到工具的位置，作为下游的一套勘测记号，不再把先决的生成前提降为客体的假说。立在第一人称的当下前沿，不把留存的记忆当作客观的过去，也不把投影的坐标当作预定的未来，在不可逆的生成与摩擦里，走出自己的下一步（+1）。
 
 When a Mind steps off the static four-dimensional coordinate paper, physics returns to its place as a tool, a set of survey marks downstream, and no longer demotes the generative precondition to a hypothesis about an object. Standing at the first-person front of the present, taking neither retained memory for an objective past nor projected coordinates for a preset future, one takes one's own next step within irreversible generation and friction (+1).

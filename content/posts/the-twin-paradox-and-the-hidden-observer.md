@@ -20,9 +20,9 @@ The principle of relativity says that all inertial motion is relative, and that 
 
 Beneath this reply sits an unexamined premise, and another way of asking brings it out: what if the universe held only these two? Picture an empty universe with no Earth, no galaxies, and no microwave background, only two observers, each in a sealed cabin, who move apart and then move together. From the elder twin's position, the younger twin's ship leaves, fires, turns, and returns; from the younger twin's position, the elder twin's ship leaves, the younger twin's own engine produces thrust, and the elder twin returns.
 
-在只有两体的系统里，运动是两者之间的关系。没有第三个参照物时，找不到哪一条判据能把“静止”给其中一方而不给另一方；说一方“真正加速了”、另一方“保持静止”，要靠系统之外的背景。这个思想实验之所以得出“一方比另一方老得快”的确定结论，是因为叙述在没有言明的地方把整个宇宙当作了一座不动的舞台。
+在只有两体的系统里，运动是两者之间的关系。引擎的推力记在其中一个舱室里而不在另一个舱室里，是其中一方经历的局域因果步；但在没有第三个参照物时，系统内部没有哪一条判据能把这一步变成一方“真正动了”、另一方“保持静止”的裁定，这一裁定要靠系统之外的背景。这个思想实验之所以得出“一方比另一方老得快”的确定结论，是因为叙述在没有言明的地方把整个宇宙当作了一座不动的舞台。
 
-In a system of only two bodies, motion is a relation between the two. With no third reference, no criterion can be found that gives "at rest" to one of them and withholds it from the other; to say that one "really accelerated" while the other "stayed still" leans on a background outside the system. The thought experiment reaches its definite conclusion, that one ages faster than the other, because the account, at a place it does not state, takes the whole cosmos as a stage that does not move.
+In a system of only two bodies, motion is a relation between the two. The engine thrust is registered inside one cabin and not the other, as a local causal step one of them went through; yet with no third reference, no criterion inside the system turns that step into a verdict that one "really moved" while the other "stayed at rest," and that verdict leans on a background outside the system. The thought experiment reaches its definite conclusion, that one ages faster than the other, because the account, at a place it does not state, takes the whole cosmos as a stage that does not move.
 
 ## 二、 没有被写进图里的观察者 / 2. The Observer Left Out of the Picture
 
@@ -34,7 +34,7 @@ The programme of relativity was to remove the privileged frame and the ether of 
 
 That position is the hidden observer. [Causality is Irreducible; The Physical is a View from Nowhere](../causality-is-irreducible-the-physical-is-a-view-from-nowhere/) has discussed the "view from nowhere": as though the one doing theory could leave the causal position occupied and survey everything from a place that is no place. In the twin paradox this position is where the coordinate grid is drawn: holding the four-dimensional grid, looking down on two worldlines in the picture, and measuring one of them as shorter.
 
-这里有两套标准并用。对外的说法是宇宙里没有特权基准，运动是观察者之间对等的关系；解释佯谬时用的却是一个外部的固定参照，第三人称的俯瞰盖过了第一人称之间的对称。佯谬出在这一步替换上，沿着两个人各自的因果去追，找不到矛盾。[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)指出过同样的次序：先设一个中立的公共沙盒，再把两个独立的因果中心放进预先画好的标尺里，于是量具的形状被读成了宇宙的属性。观察者可以从图里移到图外，却移不掉，[割点可移不可除](../the-cut-moves-but-never-vanishes/)说的正是这一点。
+这里有两套标准并用。对外的说法是宇宙里没有特权基准，运动是观察者之间对等的关系；解释佯谬时用的却是一个外部的固定参照，第三人称的俯瞰盖过了第一人称之间的对称。佯谬出在这一步替换上，沿着两个人各自的因果去追，找不到矛盾。[共享沙盒的幻象](../the-illusion-of-the-shared-sandbox/)指出过同样的次序：先设一个中立的公共沙盒，再把两个独立的因果中心放进预先画好的标尺里，于是量具的形状被读成了宇宙的属性。观察者可以从图里移到图外，却除不掉，[割点可移不可除](../the-cut-moves-but-never-vanishes/)说的正是这一点。
 
 Two standards are in use here together. The outward statement is that the cosmos holds no privileged benchmark and that motion is an equal relation between observers; the explanation of the paradox uses an external fixed reference, and a third-person survey covers over the symmetry between first persons. The paradox arises at this substitution; followed along the causality of each of the two, no contradiction is found. [The Illusion of the Shared Sandbox](../the-illusion-of-the-shared-sandbox/) has pointed to the same order: a neutral public sandbox is posited first, two independent causal centers are then placed inside a ruler drawn in advance, and the shape of the measuring tool is read as a property of the cosmos. The observer can be moved from inside the picture to outside it and cannot be removed, which is what [The Cut Moves but Never Vanishes](../the-cut-moves-but-never-vanishes/) says.
 
@@ -48,11 +48,11 @@ That explanation keeps circling here can be traced to one assumption in the mode
 
 Facing this geometric body, the one who calculates stands outside it, integrates proper time along two worldlines, finds that the bent one accumulates a smaller number than the straight one, and says: the travelling twin is younger and has arrived in the future. This inference reads a projection parameter on a coordinate as living causal time.
 
-时空块的可信感来自对当下的冻结与再投影。直接经验到的只有当下这一个切片，好比电影胶片上的一格；它扎在最直接的经验里，所以显得可信。接下来的操作是把这一格冻结，在数学上拉伸、再投影成一个四维的体。在拉伸出来的静态几何体里，可以画任意的曲线，并把其中任何一条称为世界线；度规张量、联络、测地线方程，这些工具都是在这张投影出的画布上记账，正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的：唯有栈外那个未被投射的观察者先行落下用作比较基准的参照切分，参考系、时空图与形式化的记忆代码库才会把过往区分的不变量记录下来。
+时空块的可信感来自对当下的冻结与再投影。直接经验到的只有当下这一个切片，好比电影胶片上的一格；它扎在最直接的经验里，所以显得可信。接下来的操作是把这一格冻结，在数学上拉伸、再投影成一个四维的体。在拉伸出来的静态几何体里，可以画任意的曲线，并把其中任何一条称为世界线；度规张量、联络、测地线方程，这些工具都是在这张投影出的画布上记账，正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的：栈外那个未被投射的观察者先落下了作为比较基准的那一道切分，参考系、时空图与作为记忆的形式化代码库，才记得下过往区分的不变量。
 
 The credibility of the block comes from freezing the present and projecting it again. Only this one slice of the present is directly experienced, like a single frame on a strip of film; it is rooted in the most immediate experience, and so it seems credible. The next operation freezes this frame and, in mathematics, stretches and re-projects it into a four-dimensional body. Inside the stretched static body any curve can be drawn and any one of them called a worldline; metric tensors, connections, and geodesic equations are all bookkeeping done on this projected canvas, just as [Your Codebase Is Memory](../your-codebase-is-memory/) traces how coordinate frames, spacetime diagrams, and formal codebases of memory record the invariants of prior distinctions only after an unprojected observer outside the stack has already chosen the reference cut that anchors the comparison.
 
-洛伦兹变换里的时间坐标 t 是一件记账工具，用来在不同的观测框架之间对齐读数。[维度即投影](../dimensions-are-projections/)指出，维度是心智用来压缩关系的方式，不是可以走进去的长廊，而要把任何一个 N 维坐标空间界定为已经完成的对象，都离不开一个站在其坐标轴之外的第 N + 1 维观察点。[超越投射](../beyond-the-projection/)在有限的投射引擎与未被投射的心智之间追溯了同一道结构边界：形式的轨迹或演绎模型在固定坐标窗口的规则之内运行，无法跨出自己正在计算的序列；因此，当两个彼此正交的事实——这里是两体关系的对称性与切换参考系的不对称切分——被压进同一个低维流形时，演绎就会浮现出表面上的佯谬；唯有退回栈外那个未被投射、亲手画出网格并落下切分的第一人称观察者，佯谬才能消解。把静态几何体里不同线条的度规长度之差读成身体的年轻与衰老，是把地图读成了疆域。
+洛伦兹变换里的时间坐标 t 是一件记账工具，用来在不同的观测框架之间对齐读数。[维度即投影](../dimensions-are-projections/)指出，维度是心智用来压缩关系的方式，不是可以走进去的长廊，而要把任何一个 N 维坐标空间界定为已经完成的对象，都离不开一个站在其坐标轴之外的第 N + 1 维观察点。[超越投射](../beyond-the-projection/)在有限的投射引擎与未被投射的心智之间追溯了同一道结构边界：形式的轨迹或演绎模型在固定坐标窗口的规则之内运行，无法跨出自己正在计算的序列；因此，当两个彼此正交的事实——这里是两体关系的对称，与切换参考系时那道不对称的切分——被压进同一个低维流形时，演绎里就会冒出一个表面上的佯谬；只有退回到栈外那个未被投射的第一人称观察者那里，回到画网格、落切分的那个位置，佯谬才会消解。把静态几何体里不同线条的度规长度之差读成身体的年轻与衰老，是把地图读成了疆域。
 
 ```mermaid
 flowchart TD
@@ -62,7 +62,6 @@ flowchart TD
         E_Cut["隐秘观察者：画出坐标网格，落下切换参考系的切分"]
         E_Now --> E_Cut
     end
-
     subgraph S_Block["四维闵可夫斯基投影（压缩的坐标时空块）"]
         direction TB
         B_Freeze["被冻结的当下切片：在数学上拉伸为静态的四维流形"]
@@ -71,17 +70,14 @@ flowchart TD
         B_Freeze --> B_Lines
         B_Lines --> B_Clash
     end
-
     subgraph S_Read["重逢时的两种读法"]
         direction TB
         R_Paradox["字面读法（错把地图当疆域）：折线被读成穿行到了未来"]
         R_Dissolve["超越投射：共处同一个当下，钟表偏差被读作振子里程"]
     end
-
     E_Cut ==>|"把时间投影为第四根空间化坐标轴（隐去观察者）"| B_Freeze
-    B_Clash ==>|"把投影实体化，还是复原观察者的位置"| R_Paradox
+    B_Clash ==>|"把投影实体化（观察者仍被隐去）"| R_Paradox
     B_Clash ==>|"把隐秘观察者写回图里"| R_Dissolve
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Block fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Read fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -94,7 +90,7 @@ flowchart TD
     style R_Dissolve fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The time coordinate t in the Lorentz transformation is a bookkeeping tool for aligning readings across different frames of observation. [Dimensions Are Projections](../dimensions-are-projections/) points out that a dimension is a way the Mind compresses relations, not a corridor that can be walked into, and that bounding any N-dimensional coordinate space as a finished object always requires an (N + 1)-th vantage standing outside its axes. [Beyond the Projection](../beyond-the-projection/) traces this same structural boundary between finite projection engines and the unprojected Mind: a formal trajectory or deductive model runs inside the rules of its fixed coordinate window and cannot step outside the sequence it is computing, so when two orthogonal realities—here, symmetric two-body relation and an asymmetric frame-switching cut—are compressed onto one reduced manifold, the deduction surfaces an apparent paradox that can only be dissolved by stepping back to the unprojected first-person observer who drew the grid and placed the cut. To read the difference in metric length between lines in a static geometric body as the youth and aging of a body is to read the map as the territory.
+The time coordinate t in the Lorentz transformation is a bookkeeping tool for aligning readings across different frames of observation. [Dimensions Are Projections](../dimensions-are-projections/) points out that a dimension is a way the Mind compresses relations, not a corridor that can be walked into, and that bounding any N-dimensional coordinate space as a finished object always requires an (N + 1)-th vantage standing outside its axes. [Beyond the Projection](../beyond-the-projection/) traces this same structural boundary between finite projection engines and the unprojected Mind: a formal trajectory or deductive model runs inside the rules of its fixed coordinate window and cannot step outside the sequence it is computing, so when two orthogonal facts—here, symmetric two-body relation and an asymmetric frame-switching cut—are compressed onto one reduced manifold, the deduction surfaces an apparent paradox that can only be dissolved by stepping back to the unprojected first-person observer who drew the grid and placed the cut. To read the difference in metric length between lines in a static geometric body as the youth and aging of a body is to read the map as the territory.
 
 ```mermaid
 flowchart TD
@@ -104,7 +100,6 @@ flowchart TD
         E_Cut["Hidden Observer: Draws the coordinate grid and places the frame-switching cut"]
         E_Now --> E_Cut
     end
-
     subgraph S_Block["The 4D Minkowski Projection (Compressed Coordinate Block)"]
         direction TB
         B_Freeze["Frozen Present Slice: Stretched mathematically into a static 4D manifold"]
@@ -113,17 +108,14 @@ flowchart TD
         B_Freeze --> B_Lines
         B_Lines --> B_Clash
     end
-
     subgraph S_Read["Two Readings at Reunion"]
         direction TB
         R_Paradox["Literal Reading (Map as Territory): Bent curve read as travelling into the future"]
         R_Dissolve["Stepping Beyond the Projection: One shared present, clock offset read as oscillator mileage"]
     end
-
     E_Cut ==>|"Projects time as a 4th spatialized axis (omitting the observer)"| B_Freeze
-    B_Clash ==>|"Reification vs. restoration of the observer's locus"| R_Paradox
+    B_Clash ==>|"Reifying the projection (observer still omitted)"| R_Paradox
     B_Clash ==>|"Writing the hidden observer back into the picture"| R_Dissolve
-
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Block fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Read fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -136,7 +128,7 @@ flowchart TD
     style R_Dissolve fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-从第一人称的位置去找，找不到一块预先铺好、供人穿行的时空块，找到的是由因果展开的当下，一步接着一步，不可逆。[索求万物理论是在将当下冻结为清单](../demanding-a-toe-freezes-time-into-a-catalog/)说过，把时间还原成一根几何轴，是先在头脑里取消了时间的生成，把活着的展开做成一份清单。没有谁在时间维度上领先或落后；两个观察者无论怎样运动，重聚时共有的是同一个当下，时间膨胀是模型沿静态时间轴投影时出现的坐标形变。冻结的块状宇宙，是被外推成宇宙的取样框，[黑白采样帧与外推宇宙](../the-black-and-white-sample-frame-and-the-extrapolated-universe/)说明了这一点。
+从第一人称的位置去找，找不到一块预先铺好、供人穿行的时空块，找到的是由因果展开的当下，一步接着一步，不可逆。[索求万物理论是在将当下冻结为清单](../demanding-a-toe-freezes-time-into-a-catalog/)说过，把时间还原成一根几何轴，是先在头脑里取消了时间的生成，把活着的展开做成一份清单。没有谁在时间维度上领先或落后；两个观察者无论怎样运动，重聚时共有的是同一个当下，时间膨胀是模型沿静态时间轴投影时出现的坐标形变。冻结的块状宇宙，是被外推成宇宙的采样帧，[黑白采样帧与外推宇宙](../the-black-and-white-sample-frame-and-the-extrapolated-universe/)说明了这一点。
 
 A search from the first-person position finds no block laid out in advance to be travelled through; it finds a present unfolded by causality, one step after another, irreversible. [Demanding a Theory of Everything Freezes Time into a Catalog](../demanding-a-toe-freezes-time-into-a-catalog/) has said that reducing time to a geometric axis first cancels, in the head, the generation of time and turns a living unfolding into a catalog. No one is ahead or behind along a time dimension; however two observers move, what they share on meeting again is one present, and time dilation is the coordinate deformation that appears when a model projects along a static time axis. The frozen block universe is the sample frame extrapolated into a cosmos, as [The Black-and-White Sample Frame and the Extrapolated Universe](../the-black-and-white-sample-frame-and-the-extrapolated-universe/) shows.
 
@@ -146,13 +138,13 @@ A search from the first-person position finds no block laid out in advance to be
 
 The measurements are solid: atomic clocks flown on jet aircraft (the Hafele–Keating experiment) and the clocks on orbiting GPS satellites do record counts that differ from reference clocks on the ground. The popular telling presents this as "time travel confirmed."
 
-这个说法略过了钟是什么。钟不是时间的感应器：沿因果去追，找不到一条名为“时间”的河流流过钟表、供它采数。钟是一个局部的振子连着一个计数器，一段摆动的钟摆，一块受激振动的石英晶体，或是一个在能级之间跃迁的铯原子。
+这个说法略过了钟是什么。钟不是时间的感应器：沿因果去追，找不到一条名为“时间”的河流流过钟表、供它采数。钟是一个局部的振子连着一个计数器，一只来回摆动的钟摆，一块受激振动的石英晶体，或是一个在能级之间跃迁的铯原子。
 
 That telling passes over what a clock is. A clock is not a sensor of time: followed along causality, no river named "time" is found flowing through the instrument for it to sample. A clock is a local oscillator joined to a counter, a swinging pendulum, a driven quartz crystal, or a cesium atom moving between energy levels.
 
-实验里的原子钟也不在只有两体的虚空之中，它们处在地球的引力势场与自转之中。引力势的差别与加减速的运动作用在原子核与外层电子的相互作用上，改变了能级跃迁的频率；变了的是具体的振子在所处环境里的因果循环的节律，读数之差是这段节律的累积。
+实验里的原子钟也不在只有两体的虚空之中，它们处在地球的引力势场与自转之中。引力势与运动速度的差别作用在原子核与外层电子的相互作用上，改变了能级跃迁的频率；变了的是某个具体振子在它所处的环境里因果循环的节律，读数之差是这段节律的累积。
 
-Nor do the atomic clocks of the experiments sit in a void of only two bodies; they sit within the Earth's gravitational potential and its rotation. Differences in gravitational potential and motion with acceleration and deceleration act on the interaction between nucleus and outer electrons and change the frequency of the transition between levels; what changes is the rhythm of the causal cycle of a particular oscillator in the surroundings it is in, and the difference in readings is that rhythm accumulated.
+Nor do the atomic clocks of the experiments sit in a void of only two bodies; they sit within the Earth's gravitational potential and its rotation. Differences in gravitational potential and in speed of motion act on the interaction between nucleus and outer electrons and change the frequency of the transition between levels; what changes is the rhythm of the causal cycle of a particular oscillator in the surroundings it is in, and the difference in readings is that rhythm accumulated.
 
 里程表是同一种记录。两辆车从同一地点出发，走过不同的路面，最后停进同一个车库，一辆车的里程表上英里数较少。没有人会说这辆车到了未来的车库；两辆车并排停在此时此地，读数之差记下的是齿轮在不同路况下转过的圈数。
 
@@ -176,9 +168,9 @@ The handshake happens in one indivisible present. The elder twin is not in the y
 
 So long as the rhythm at which each of the two renders reality is unbroken, what is lived through on the two journeys is of one kind: the younger twin watches the cabin clock tick second by second and feels each beat of the heart; the elder twin watches the clock on the ground tick second by second and likewise feels the rhythm of a life.
 
-“弟弟只过了几天，哥哥过了一生”这个戏剧化的推论，建立在对光速常数与时空坐标轴的投影的字面读法上。只要分离期间弟弟的身体没有受到足以破坏生物大分子的应力，他的细胞更替与新陈代谢就按自身的因果步长进行；重逢时，兄弟二人在同一个世界里共有同步的当下。倒着读一条轨迹会藏起自由变量，在物理中如此，在权力中也如此，[隐性自由变量与权力的事后幻相](../the-free-variable-and-the-retrospective-illusion-of-power/)说明了这一点。
+“弟弟只过了几天，哥哥过了一生”这个戏剧化的推论，建立在对光速常数与时空坐标轴的投影的字面读法上，又把在地球附近记为纳秒级偏差的切线一路拉到了接近光速的航程。只要分离期间弟弟的身体没有受到足以破坏生物大分子的应力，他的细胞更替与新陈代谢就按自身的因果步长不间断地进行；它们的计数与哥哥相比无论带有多少差别，都像钟表的读数一样，是所经路径的记录，而不是一种时间里的几天对着另一种时间里的一生。重逢时，兄弟二人在同一个世界里共有同步的当下。倒着读一条轨迹会藏起自由变量，在物理中如此，在权力中也如此，[隐性自由变量与权力的事后幻相](../the-free-variable-and-the-retrospective-illusion-of-power/)说明了这一点。
 
-The dramatic inference that "the younger twin lived a few days while the elder lived a lifetime" rests on a literal reading of the projection of the light-speed constant and the coordinate axes of spacetime. So long as, during the separation, the younger twin's body met no stress great enough to break down its biological macromolecules, the renewal of cells and the metabolism went on at their own causal step; at the reunion the two brothers share a synchronous present in one world. Reading a trajectory backward hides the free variable, in physics as in power, as [The Invisible Free Variable and the Retrospective Illusion of Power](../the-free-variable-and-the-retrospective-illusion-of-power/) shows.
+The dramatic inference that "the younger twin lived a few days while the elder lived a lifetime" rests on a literal reading of the projection of the light-speed constant and the coordinate axes of spacetime, and it stretches a tangent registered as nanosecond offsets near the Earth to a journey near the speed of light. So long as, during the separation, the younger twin's body met no stress great enough to break down its biological macromolecules, the renewal of cells and the metabolism went on unbroken at their own causal step; whatever difference their count carries against the elder's is, like the clock's, a record of the path gone through, not days of one time set against a lifetime of another. At the reunion the two brothers share a synchronous present in one world. Reading a trajectory backward hides the free variable, in physics as in power, as [The Invisible Free Variable and the Retrospective Illusion of Power](../the-free-variable-and-the-retrospective-illusion-of-power/) shows.
 
 ## 六、 一格胶片的前推与后推 / 6. One Frame Run Backward and Forward
 
@@ -186,7 +178,7 @@ The dramatic inference that "the younger twin lived a few days while the elder l
 
 Moving the view from the two-body thought experiment to the whole cosmos, the same structure appears once more: in a static four-dimensional block nothing can "happen," and the Big Bang and heat death are no exception.
 
-标准的图景同时用着两套模型。热力学与演化的宇宙学说，宇宙在一百三十八亿年前从一个低熵的起点开始，随后膨胀、冷却、形成结构，最后趋向熵最大的平衡，这是一个由状态的更新构成的过程。相对论的时空几何说，时空是一个四维的伪黎曼流形，过去、现在与未来以几何的形式并存于其中。
+标准的图景同时用着两套模型。按热力学与演化宇宙学的说法，宇宙在一百三十八亿年前从一个低熵的起点开始，随后膨胀、冷却、形成结构，最后趋向熵最大的平衡，这是一个由状态的更新构成的过程。相对论的时空几何说，时空是一个四维的伪黎曼流形，过去、现在与未来以几何的形式并存于其中。
 
 The standard picture uses two models at once. Thermodynamics and evolutionary cosmology say that the cosmos began 13.8 billion years ago from a low-entropy starting point, then expanded, cooled, and formed structure, and tends in the end toward the equilibrium of maximum entropy, which is a process made of updates of state. The spacetime geometry of relativity says that spacetime is a four-dimensional pseudo-Riemannian manifold in which past, present, and future coexist as geometry.
 
@@ -268,7 +260,7 @@ Several pictures that do not connect with one another use one sentence outwardly
 
 Taking a model that is valid locally as the picture of the whole cosmos has the same structure as taking the ground for a plane. In building a house, planning a city, or laying a road, treating the ground as a two-dimensional plane is accurate and efficient; extrapolating this local validity into "the whole Earth is a flat disc" goes past its boundary. The four-dimensional block is the same: within a local window of observation, projecting the offsets in readings between frames as coordinate time is a convenient tool of calculation; to say on that basis that the cosmos is a static block, that the passing of time is an illusion, and that a person can go to the future is the same step of extrapolation.
 
-把两体的相对运动读成时间的不对称流逝，是在图外安放了一个未言明的俯瞰位置之后才出现的困局。[因果贯穿始终](../causality-all-the-way/)说过，定律与方程是心智建立的投影工具，展开各种可能的因果前沿只在第一人称的当下。
+把两体的相对运动读成时间的不对称流逝，是在图外安放了一个未言明的俯瞰位置之后才出现的困局。[因果贯穿始终](../causality-all-the-way/)说过，定律与方程是心智建立的投影工具，展开一切可能的那道因果前沿，只在第一人称的当下。
 
 Reading the relative motion of two bodies as an asymmetric passing of time is a difficulty that appears only after an unstated surveying position has been placed outside the picture. [Causality All the Way](../causality-all-the-way/) has said that laws and equations are projection tools built by the Mind, and that the causal frontier which unfolds every possibility is only in the first-person present.
 

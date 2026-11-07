@@ -2,13 +2,13 @@
 
 *关系先于关系项，对象是在第一人称边缘被稳定化并记录的因果摩擦不变量。 / Relations precede relata, and objects are the invariants of causal friction stabilized and registered at the first-person edge.*
 
-日常直觉与经典物理学理所当然地假定“物体”比物体之间的“关系”更原初；然而关系量子力学颠覆了这一前提，揭示出物理变量唯有在交互之中才得以显现。当思维既越过把关系动态重新塞回独立实体的实体化惯性，也越过把持久痕迹消解为无界流变的过程修辞时，对象得以成立的机制便清晰浮现：对象是经由因果摩擦而稳定下来的关系——在物理系统中由守恒约束与热力学代价承载，在制度中由执行与持续的信任承载——而每一段稳定化的关系都在第一人称的交互边缘（`+1`）上被记录与承担。
+日常直觉与经典物理学理所当然地假定“物体”比物体之间的“关系”更原初；然而关系量子力学对这一前提提出挑战，主张物理变量唯有在交互之中才得以显现。当思维既越过把关系动态重新塞回独立实体的实体化惯性，也越过把持久痕迹消解为无界流变的过程修辞时，对象得以成立的机制便清晰浮现：对象是经由因果摩擦而稳定下来的关系——在物理系统中由守恒约束维系，在制度中由执行与持续的信任维系，并在每一次索取不可逆代价的接触中经受检验——而每一段稳定化的关系都在第一人称的交互边缘（`+1`）上被记录与承担。
 
-Everyday intuition and classical physics take it for granted that objects are more primary than the relationships between them, yet relational quantum mechanics upends that premise by showing that physical variables manifest only within interactions. When thought steps past both the reification that stuffs relational dynamics back into freestanding substances and the process rhetoric that dissolves durable traces into unbounded flux, the mechanism of objecthood comes into view: objects are relationships stabilized through causal friction—carried in physical systems by conservation constraints and thermodynamic cost, and in institutions by enforcement and continued trust—and every stabilized relationship is registered and borne at the first-person edge of interaction (`+1`).
+Everyday intuition and classical physics take it for granted that objects are more primary than the relationships between them, yet relational quantum mechanics challenges that premise by holding that physical variables manifest only within interactions. When thought steps past both the reification that stuffs relational dynamics back into freestanding substances and the process rhetoric that dissolves durable traces into unbounded flux, the mechanism of objecthood comes into view: objects are relationships stabilized through causal friction—held in physical systems by conservation constraints and in institutions by enforcement and continued trust, and tested wherever contact exacts an irreversible cost—with every stabilized relationship registered and borne at the first-person edge of interaction (`+1`).
 
 ## 一、 常识的假定与量子的颠覆 / 1. Common-Sense Intuition and the Quantum Inversion
 
-日常生活的直觉灌输了一套顽固的本体论图景，将**物体视作比物体之间的关系更为原初的存在。**
+日常生活的直觉植下了一幅根深蒂固的本体论图景，将**物体视作比物体之间的关系更为原初的存在。**
 
 Everyday intuition instills an obstinate ontological picture in which **objects are taken to be more fundamental than the relationships between them.**
 
@@ -16,31 +16,31 @@ Everyday intuition instills an obstinate ontological picture in which **objects 
 
 To common sense and classical physics, the world is assembled from freestanding, self-contained entities: microscopic billiard balls bouncing through an empty spatial container, macroscopic boulders, trees, and celestial bodies. Relationships (gravity, collision, electromagnetic repulsion, spatial distance) are treated as secondary bridges—provisional links established only after two independent substances happen to meet.
 
-然而，现代量子理论——尤其是卡洛·罗威利开创的**关系量子力学**——颠覆了这一直觉层级。
+然而，现代量子理论——尤其是卡洛·罗韦利开创的**关系量子力学**——颠覆了这一直觉层级。
 
 Yet modern quantum theory—most pointedly articulated in **Relational Quantum Mechanics (RQM)** pioneered by Carlo Rovelli—upends this intuitive hierarchy.
 
-在量子尺度上，“孤立系统拥有内禀、独立于观察者的属性”这一假定触及了它的失效边界。正如[算符的潜无限与记录的有限边界](../the-potential-infinity-of-operators-and-the-finite-horizon-of-records/)所追溯的，粒子的位置、动量或自旋在接触发生之前，并非作为已完结的自足事实预先存留在系统内部；物理属性唯有**在交互过程中相对于另一个系统**才得以显现。乔治·韦伯斯特等评论者指出：在量子图景中，对称性、干涉与纠缠这样的关系，比“粒子”本身更为原初。
+在量子尺度上，“孤立系统拥有内禀、独立于观察者的属性”这一假定触及了它的边界。正如[算符的潜无限与记录的有限边界](../the-potential-infinity-of-operators-and-the-finite-horizon-of-records/)所追溯的，粒子的位置、动量或自旋在接触发生之前，并非作为已完结的自足事实预先存留在系统内部；物理属性唯有**在交互过程中相对于另一个系统**才得以显现。在这一量子图景中，如乔治·韦伯斯特等评论者所注意到的，对称性、干涉与纠缠这样的关系被视作比“粒子”本身更为原初。
 
-At the quantum threshold, the assumption that an isolated system possesses intrinsic, observer-independent properties reaches its boundary. A particle’s position, momentum, or spin does not sit inside the system as a completed autonomous fact prior to contact, as [The Potential Infinity of Operators and the Finite Horizon of Records](../the-potential-infinity-of-operators-and-the-finite-horizon-of-records/) traces; physical properties register exclusively **relative to another system during an interaction**. Commentators such as George Webster point out that within the quantum landscape, relations such as symmetry, interference, and entanglement are more primary than the "particles" themselves.
+At the quantum threshold, the assumption that an isolated system possesses intrinsic, observer-independent properties reaches its boundary. A particle’s position, momentum, or spin does not sit inside the system as a completed autonomous fact prior to contact, as [The Potential Infinity of Operators and the Finite Horizon of Records](../the-potential-infinity-of-operators-and-the-finite-horizon-of-records/) traces; physical properties register exclusively **relative to another system during an interaction**. Within that quantum landscape, as commentators such as George Webster note, relations such as symmetry, interference, and entanglement are treated as more primary than the "particles" themselves.
 
-关系先于关系项：被记录为实体的，是关系动态得以维持的节点。
+因为任何属性唯有在接触发生之处才得以被记录，所以关系先于关系项：被记录为实体的，是关系动态得以维持的节点。
 
-Relations precede relata: what registers as an entity is a node where relational dynamics hold.
+Because any property registers only where contact occurs, relations precede relata: what registers as an entity is a node where relational dynamics hold.
 
-## 二、 双重陷阱：实体化与德勒兹式的消解 / 2. The Twin Traps: Substance Reification and Deleuzian Dissolution
+## 二、 双重陷阱：实体化与无界流变消解 / 2. The Twin Traps: Substance Reification and Unbounded-Flux Dissolution
 
-然而，当关系本体论被推向逻辑终点时，当代思想却频频跌入两个互为表里的陷阱。
+然而，当思维直面关系本体论时，却频频跌入两个相反的陷阱之一——要么退缩回静态实体，要么冲过头落入无边界的流变。
 
-Yet when relational ontology is pressed to its logical conclusion, contemporary thought frequently stumbles into two complementary traps.
+Yet when thought confronts a relational ontology, it frequently falls into one of two opposite traps—either recoiling into static substances or overshooting into boundaryless flux.
 
-**第一个陷阱是经典的实体化惯性。** 当内部结合力远大于外部扰动时，把稳定的复合体当作离散单元处理是一种有效的近似；然而经典思维习惯却将这一速记倒置，把一切关系现象重新塞回独立自足的台球盒子里：如果引力表现为相互弯曲，这段关系就被重铸为一颗机械粒子；如果时空展现出张力，就被想象成一张客观的橡皮膜。这种反应试图通过将动态交互冻结为安放在“无处之境”中的永恒积木，来换取脱离观察者的确定性。
+**第一个陷阱是经典的实体化惯性。** 当内部结合力远大于外部扰动时，把稳定的复合体当作离散单元处理是一种有效的近似；然而经典思维习惯却将这一速记倒置，把一切关系现象重新塞回独立自足的台球盒子里：如果引力表现为相互弯曲，这段关系就被重铸为一颗机械粒子；如果时空展现出张力，就被想象成一张客观的橡皮膜。这种反应试图通过将动态交互冻结为安放在“无源之见”中的永恒积木，来换取脱离观察者的确定性。
 
 **The first trap is classical substance reification.** Treating a stable composite as a discrete unit is an effective approximation whenever internal binding far exceeds external perturbation, yet classical habits of thought invert that shorthand by stuffing every relational phenomenon back into a freestanding billiard-ball box: if gravitation exhibits mutual curvature, the relation is re-cast as a mechanical particle; if spacetime displays tension, it is pictured as an objective rubber sheet. That reflex seeks an observerless certainty by freezing dynamic interaction into immutable building blocks situated in a view from nowhere.
 
-**第二个陷阱是德勒兹式的无界流变消解。** 乔治·韦伯斯特等评论者意识到，经典主谓语法在附加关系之前总是预先假定一个静态名词，于是转向吉尔·德勒兹的过程语汇——“生成”、“块茎”、“无限定差异”与“内在性平面”——以打破固定基质的语法冻结。当消解静态实体被混同于消解边界本身时，这一进路便触及了它的边界，使日常理解悬置在一片剥离了具体因果落点的无差别流变之中。
+**第二个陷阱是消解为无界流变。** 乔治·韦伯斯特等评论者意识到，经典主谓语法在附加关系之前总是预先假定一个静态名词，于是转向吉尔·德勒兹的过程语汇——“生成”、“块茎”、“差异本身”与“内在性平面”——以打破固定基质的语法冻结。当消解静态实体被混同于消解有界性本身时，这一进路便触及了它的边界，使日常理解悬在一片无差别的流变之中，失去了具体的因果落点。
 
-**The second trap is Deleuzian dissolution into unbounded flux.** Recognizing that classical subject-predicate grammar presupposes a static noun before attaching a relation, commentators such as George Webster turn to Gilles Deleuze's process vocabulary—"becoming," "rhizomes," "unbounded difference," and "planes of immanence"—to break the grammatical freeze of fixed essences. That move reaches its boundary when dissolving static substance is conflated with dissolving boundedness itself, leaving everyday comprehension suspended in an undifferentiated flux stripped of concrete causal footing.
+**The second trap is dissolution into unbounded flux.** Recognizing that classical subject-predicate grammar presupposes a static noun before attaching a relation, commentators such as George Webster turn to Gilles Deleuze's process vocabulary—"becoming," "rhizomes," "difference in itself," and "planes of immanence"—to break the grammatical freeze of fixed essences. That move reaches its boundary when dissolving static substance is conflated with dissolving boundedness itself, leaving everyday comprehension suspended in an undifferentiated flux stripped of concrete causal footing.
 
 这两种进路都错失了离散边界得以跨时间存续的机制：实体化通过在交互之前预设独立基质来确保恒常，而无界流变的解构则通过抹去稳定化痕迹的顽强阻力来礼赞变化。
 
@@ -60,9 +60,9 @@ The razor that resolves this impasse: **Objects are stabilized relationships.**
 
 This single formulation dissolves both substance reification and unbounded-flux dissolution: against substance reification, no self-existing, isolated essence stands outside relational interaction, since every entity labeled an "object" reveals itself under inspection to be a tightly coupled network of dynamic processes; against unbounded flux, relations are not ephemeral fictions, because a relational bundle registers as a solid macroscopic object whenever **it maintains dynamic equilibrium, structural invariance, and causal stability under external perturbation.**
 
-是什么稳定了一段关系？**因果摩擦**：接触所索取的代价，对岩石或电子而言由守恒定律与热力学代价承载，对纸币而言由法律执行与使用者持续的信任承载。
+是什么让一段关系显现为稳定？它在**因果摩擦**的反复考验中维系不散。对岩石或电子而言，关系由守恒定律约束下的内部结合力所维系；对纸币而言，关系由法律执行与使用者持续的信任所维系。因果摩擦，则是每一次接触在检验这种维系时所遭遇的阻力与不可逆代价。
 
-What stabilizes a relationship? **Causal friction**: the cost a contact exacts, carried for a rock or an electron by conservation laws and thermodynamic cost, and for a currency note by legal enforcement and the continued trust of those who use it.
+What makes a relationship register as stable? It holds together across repeated trials of **causal friction**. For a rock or an electron, the relation is held by internal binding under conservation laws; for a currency note, it is held by legal enforcement and the continued trust of those who use it. Causal friction is the resistance and irreversible cost that each contact meets when it tests that hold.
 
 山道上的一块花岗岩，并不是自存的形而上学实体，而是由电磁晶格、核力键合与引力耦合构成的**高密度稳定化关系簇**；当脚踢上去时，岩石之所以展现出毫不退让的坚硬，是因为其内部关系网络在受压时保持了结构不变性——地面向上回顶，分子键稳固持守，而脚承担了不可逆的能量后果（`+1`）。同样，一个电子并不是漂浮在真空中的微小坚硬球体，而是电荷、质量与场激发之间的一组**稳定化不变量关系**；一张纸币也不是带有内禀价值的纸片，而是由制度信用、法律执行与市场共识凝结而成的**稳定化经济关系**。
 
@@ -98,7 +98,7 @@ The Mind compresses the rigid electromagnetic lattice bearing a load and stamps 
 
 Nouns are functional cognitive scaffolding. They allow an active agent to treat a highly resilient, predictable cluster of relations as a single modular component, lowering cognitive drag so higher-order action can proceed.
 
-混淆始于**把认知脚手架误作本体论底座**：当思维把这些速记名词保留到锻造它们的步点之后，便忘记了名词只是不变量关系簇的操作标签，反而想象宇宙中住着“石头性”或“自在价值”之类脱离观察者的基质。名词也制造同一：它搁置每次接触发生的位置与时刻，让各自不同的接触都算作与同一个事物的接触，这与[论关于 P 与 NP 所能言说的边界](../on-the-boundaries-of-what-can-be-said-about-p-and-np/)所追溯的形式系统依规则把一枚符号的两次出现视为可互换如出一辙；一旦将这种同余读作在一切遭遇之外依然成立的同一，它便化作了“石头性”或“自在价值”。被记录为“对象”的，是对一段稳定化关系拍下的认知压缩快照。
+混淆始于**把认知脚手架误作本体论底座**：当思维把这些速记名词保留到锻造它们的步点之后，便忘记了名词只是不变量关系簇的操作标签，反而想象宇宙中住着“石头性”或“自在价值”之类脱离观察者的基质。名词也制造同一：它搁置每次接触发生的位置与时刻，让各自不同的接触都算作与同一个事物的接触，正如[论关于 P 与 NP 所能言说的边界](../on-the-boundaries-of-what-can-be-said-about-p-and-np/)所追溯的，形式系统依规则把一枚符号的两次出现视为可互换；一旦将这种同余读作在一切遭遇之外依然成立的同一，它便化作了“石头性”或“自在价值”。被记录为“对象”的，是对一段稳定化关系拍下的认知压缩快照。
 
 Confusion begins when **the cognitive scaffold is mistaken for an ontological ground**: preserving these shorthand nouns past the step that forged them, thought forgets that the noun is an operational tag for an invariant relational cluster and imagines instead that the cosmos is populated by observerless essences such as "rock-ness" or "value-in-itself." A noun also makes sameness: it lets each separate contact count as contact with one and the same thing by setting aside where and when each contact occurred, much as a formal system treats two occurrences of a symbol as interchangeable by rule, as [On the Boundaries of What Can Be Said about P and NP](../on-the-boundaries-of-what-can-be-said-about-p-and-np/) traces; read as a sameness that would hold outside every encounter, that congruence becomes rock-ness or value-in-itself. What registers as an "object" is a compressed cognitive snapshot taken of a stabilized relationship.
 
@@ -120,17 +120,17 @@ That floating web anchors only when traced back to its irreducible prior: **thir
 
 Relations do not hover in an observerless vacuum. **A relation is actualized, tested, and weighted only where a localized first-person center draws an operational cut and registers the contact**, as [The Cut Moves but Never Vanishes](../the-cut-moves-but-never-vanishes/) traces.
 
-当手掌按在桌面上时，由分子斥力显现出的“对象性”，并不是宇宙计算机在后台运行的一行抽象代码，而是活态意向与肌肉在切近当下遭遇不变量晶格时的直接触觉阻力。所谓“客观物理宇宙”，是不同第一人称中心在遭遇同一批稳定化关系时所记录到的跨主体不变性。并不存在“客观实在”与“主观实在”的二元割裂——第一人称视角就是实在得以显现的基底，而对象则是在其持续展开中沉淀出来的稳固岛屿。
+当手掌按在桌面上时，由分子斥力显现出的“对象性”，并不是宇宙计算机在后台运行的一行抽象代码，而是鲜活的意图与肌肉在切近当下遭遇不变量晶格时的直接触觉阻力。所谓“客观物理宇宙”，是不同第一人称中心在遭遇同一批稳定化关系时所记录到的跨主体不变性。并不存在“客观实在”与“主观实在”的二元割裂——第一人称视角就是实在得以显现的基底，而对象则是在其持续展开中沉淀出来的稳固岛屿。
 
 When a hand presses against a desk, the "objecthood" that registers from molecular repulsion is not an abstract line of code running in a cosmic computer, but the immediate tactile resistance where living intent and muscle meet an invariant lattice in the present. What is called the "objective physical universe" is the intersubjective invariance registered across distinct first-person centers encountering the same stabilized relationships. There is no split between "objective reality" and "subjective reality"—the first-person perspective is the ground where reality registers, and objects are the stable islands precipitated out of its continuous unfolding.
 
 因此，解释的终点站既不会迷失在关系定义关系的无限倒退里，也不会消散在无界的语词流变中。解释锚定于**第一人称行动者在切近当下所作出的不可逆介入与代价承担（`+1`）**：当一块巨石挡住山道时，单凭诉诸“生成”并不能移除这一约束，因为巨石是一段稳定化的因果关系——绕开它要消耗代谢能量，撞上它要承受躯体损伤。
 
-The terminal stop of explanation therefore neither wanders into an infinite regress of relations defining relations nor dissolves into unbounded verbal flux. Explanation anchors in **the immediate, irreversible intervention and cost-bearing of the first-person agent (`+1`)**: when a boulder blocks the trail, no appeal to pure "becoming" removes the constraint, because the boulder is a stabilized causal relationship—bypassing it expends metabolic energy, and colliding with it exacts physical damage.
+The terminal stop of explanation therefore neither wanders into an infinite regress of relations defining relations nor dissolves into unbounded verbal flux. Explanation anchors in **the immediate, irreversible intervention and cost-bearing of the first-person agent (`+1`)**: when a boulder blocks the trail, no appeal to "becoming" alone removes the constraint, because the boulder is a stabilized causal relationship—bypassing it expends metabolic energy, and colliding with it exacts physical damage.
 
-看清**对象是被稳定化的关系**，便同时在两个方向上归还了落点：它消解了实体化惯性——认清丰碑、僵化科层、规则与固化制度并非自存的永恒定数，而是由持续交互维系的临时构型，可以通过有意识的介入重新切分，也认清凡由各中心的持续对齐所维系的构型，如科层、规则或制度，对下一步行动都不具备独立的因果效力，只作为杠杆起作用，因此心智可以借用这一杠杆、对某次具体应用提出抗辩，或沿着正交轴线抽身离场，而无需事先就改变该结构达成一致，正如[正交的拒绝](../the-orthogonal-refusal/)所追溯的那样；它也消解了无摩擦的一厢情愿——认清无论要改变、绕开还是抽身离开任何一段稳定化的关系，都必须在鲜活的当下支付非零的能量与因果代价。
+看清**对象是被稳定化的关系**，便在两个方向上同时归还了落点。其一，它消解了实体化惯性：丰碑、科层、规则与制度并非自存的永恒定数，而是由持续交互维系的临时构型，可以通过有意识的介入重新切分。不仅如此，凡由各中心的持续对齐所维系的构型——正如科层、规则或制度那样，而不同于山道上的巨石——对下一步行动都不具备独立的因果效力，只作为杠杆起作用，因此心智可以借用这一杠杆、对某次具体应用提出抗辩，或沿着正交轴线抽身离场，而无需事先就改变该结构达成一致，正如[正交的拒绝](../the-orthogonal-refusal/)所追溯的那样。其二，它消解了无摩擦的一厢情愿：无论要改变、绕开还是抽身离开任何一段稳定化的关系，都必须在鲜活的当下支付非零的能量与因果代价。
 
-Seeing that **objects are stabilized relationships** restores locus on both fronts: it dissolves substance reification—recognizing that monuments, rigid hierarchies, rules, and ossified institutions are not self-existing absolutes, but provisional configurations sustained by ongoing interaction that deliberate intervention can re-cut, and that where a configuration is held by the continued alignment of centers, as a hierarchy, a rule, or an institution is, it carries no independent causal power over the next act and functions only as leverage, so a Mind can use that leverage, contest a specific application, or walk away onto an orthogonal axis without first securing agreement to change the structure, as [The Orthogonal Refusal](../the-orthogonal-refusal/) traces; and it dissolves frictionless wishful thinking—recognizing that altering, routing around, or stepping away from any stabilized relationship requires paying a non-zero energetic and causal cost in the living present.
+Seeing that **objects are stabilized relationships** restores locus on both fronts. First, it dissolves substance reification: monuments, hierarchies, rules, and institutions are not self-existing absolutes, but provisional configurations sustained by ongoing interaction that deliberate intervention can re-cut. Moreover, where a configuration is held by the continued alignment of centers—as a hierarchy, a rule, or an institution is, unlike the boulder on the trail—it carries no independent causal power over the next act and functions only as leverage, so a Mind can use that leverage, contest a specific application, or walk away onto an orthogonal axis without first securing agreement to change the structure, as [The Orthogonal Refusal](../the-orthogonal-refusal/) traces. Second, it dissolves frictionless wishful thinking: altering, routing around, or stepping away from any stabilized relationship requires paying a non-zero energetic and causal cost in the living present.
 
 在动态流变中看清稳定的不变量，在坚硬岩石内洞悉关系的架构，便修复了外化痕迹与操舵边缘之间的边界：正如[你的代码库即是记忆](../your-codebase-is-memory/)所揭示的，一切被封装为“对象”、名词或代码库的结构都是过往交互沉淀下来的外化记忆，唯有立足于鲜活的第一人称边缘（`+1`），心智才能在不向宏大万物理论俯首的前提下调用、检验、改写它们，或从中抽身离场。
 

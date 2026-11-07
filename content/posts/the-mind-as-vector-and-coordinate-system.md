@@ -216,7 +216,7 @@ When Mind A instead recognizes v_B · v̂_A < 0 as an endogenous cosine reading 
 
 ## 五、 正交展开与电磁共鸣 / 5. Orthogonal Expansion and Electromagnetic Resonance
 
-常规直觉将共情与共鸣等同于平行对齐（v̂_A ∥ v̂_B），要求两支向量将夹角压缩为零（θ → 0）。然而对平行对齐的追求依然运作在共享平面的第三人称幻象之下：试图在平坦表面上消除角度距离，中心要么压抑自身的意向主轴以求顺从，要么要求他者交出基底以迎合自己的标尺。每当投影被误认为外部指令时，同样的标量压扁便会跨领域重现：在人机系统中，问题从不在于如何让控制框架模仿同侪心智，而在于因果边缘由谁的坐标系掌舵，正如 [框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) 所确立的；在宏观经济学中，总量参数是事后投影，却被误当作支配微观抉择的因果命令，正如 [宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相](../the-summary-first-reversal-and-the-command-of-yields/) 所剖析的；在历史叙事中，“革命”之类的总体化标签将一段多维的生命历程投射到单一意识形态轴线上，正如 [革命之名把生活收成证据](../the-name-revolution-files-a-life-as-evidence/) 所展示的；而在教学或管理控制中，替他人调速则是把自身的坐标刻度强加于他人与地面摩擦的直接接触之上，正如 [调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) 所追溯的。
+常规直觉将共情与共鸣等同于平行对齐（v̂_A ∥ v̂_B），要求两支向量将夹角压缩为零（θ → 0）。然而对平行对齐的追求依然运作在共享平面的第三人称幻象之下：试图在平坦表面上消除角度距离，中心要么压抑自身的意向主轴以求顺从，要么要求他者交出基底以迎合自己的标尺。每当投影被误认为外部指令时，同样的标量压扁便会跨领域重现：在人机系统中，问题从不在于如何让控制框架模仿同侪心智，而在于因果边缘由谁的坐标系掌舵，正如 [框架的倒置与驾驶位的主权非对称](../the-inversion-of-the-harness-and-the-driver-seat-asymmetry/) 所确立的；在宏观经济学中，总量参数是事后投影，却被误当作支配微观抉择的因果命令，正如 [宏观参数、微观抉择与利率的命令](../the-summary-first-reversal-and-the-command-of-yields/) 所剖析的；在历史叙事中，“革命”之类的总体化标签将一段多维的生命历程投射到单一意识形态轴线上，正如 [革命之名把生活收成证据](../the-name-revolution-files-a-life-as-evidence/) 所展示的；而在教学或管理控制中，替他人调速则是把自身的坐标刻度强加于他人与地面摩擦的直接接触之上，正如 [调速者的幻觉与行动的活态摩擦](../the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth/) 所追溯的。
 
 ```mermaid
 flowchart TD

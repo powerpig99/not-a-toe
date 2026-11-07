@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-07T03:51:24.315Z",
+    "generated_at": "2026-11-07T06:18:00.488Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -29,7 +29,7 @@
       "content/posts/an-observation-by-its-own-standard.md": "1d44b8371330",
       "content/posts/architecture-of-recursive-distinction.md": "bc11baadb09a",
       "content/posts/better-than-free-after-the-checklist-closes.md": "d39b1b10df08",
-      "content/posts/beyond-the-hundred-trillion-horizon.md": "3c63e3e17823",
+      "content/posts/beyond-the-hundred-trillion-horizon.md": "e7843ab91c4c",
       "content/posts/beyond-the-projection.md": "78576807063b",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "db1b5db3be64",
       "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md": "5918317b1cbf",
@@ -38,7 +38,7 @@
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "064fb7c61926",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "aa3cabf727b3",
       "content/posts/cheng-gong-xue.md": "ac78a83205fd",
-      "content/posts/choice-itself-has-no-inherent-weight.md": "61c4cff8bfbf",
+      "content/posts/choice-itself-has-no-inherent-weight.md": "195ba4c6affc",
       "content/posts/chollet-intelligence-explosion-analysis.md": "c8c3e191336b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "b2def21d59e6",
       "content/posts/claudes-constitution-analysis.md": "58bd3d6c3edb",
@@ -65,8 +65,8 @@
       "content/posts/cybersecurity-arms-race.md": "148e05f366f1",
       "content/posts/data-is-local-intelligence-is-allocated.md": "94f7f326fb08",
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "6ef0fd1e62bc",
-      "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "434ad917ad64",
-      "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "b2e4aff56800",
+      "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "f146489c346f",
+      "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "c40dfd70273a",
       "content/posts/dimensions-are-projections.md": "1c8cf68b183b",
       "content/posts/distillation-compression-agency.md": "8be4ecf97ac2",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "b64fa4420bd4",
@@ -116,7 +116,7 @@
       "content/posts/incompleteness-exhibited-twice.md": "3d9138bc24b4",
       "content/posts/individual-choices-as-the-only-causal-levers.md": "915a3572d822",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "5656f412d172",
-      "content/posts/intelligence-crisis-response.md": "cac8520aa17d",
+      "content/posts/intelligence-crisis-response.md": "ff0c08053c60",
       "content/posts/intelligence-folding-back-on-itself.md": "f36f2690c329",
       "content/posts/intelligence-traps-itself.md": "533c6e1e356a",
       "content/posts/judgment-is-not-a-stock.md": "9526af861c78",
@@ -148,7 +148,7 @@
       "content/posts/not-a-theory-of-everything.md": "2f86829af78d",
       "content/posts/not-a-toe-rewrite.md": "378ff114d1ec",
       "content/posts/not-predicting-is-predicting-without-awareness.md": "750dd47f6c5b",
-      "content/posts/objects-are-stabilized-relationships.md": "74accfac1364",
+      "content/posts/objects-are-stabilized-relationships.md": "5c88afea080b",
       "content/posts/observation-distinguishing-activity-and-the-open-ground-of-mind.md": "e78f9a54eccc",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "8699e204b57f",
       "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "2e8a1140f57c",
@@ -174,8 +174,8 @@
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "4f2725e3fcd4",
       "content/posts/precision-and-resolution.md": "3a07d3cc0531",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "b11dea0379ff",
-      "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "2942b85de8aa",
-      "content/posts/price-as-utterance-understanding-as-trade.md": "74464ff48389",
+      "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "6adbcae9fc09",
+      "content/posts/price-as-utterance-understanding-as-trade.md": "11deadd7c5d2",
       "content/posts/production-consumption-and-the-minds-distinction.md": "fed20f3d69e9",
       "content/posts/public-spending-does-not-create-capital.md": "e3060a5f4121",
       "content/posts/qian-yin-hou-guo.md": "e9a138276212",
@@ -214,10 +214,10 @@
       "content/posts/the-artifacts-of-self-amplification.md": "92ff2ec8732a",
       "content/posts/the-asymmetry-of-understanding.md": "62d1edf084fd",
       "content/posts/the-average-is-residue-not-the-engine.md": "e0898b0230c6",
-      "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md": "7cf26b26a758",
+      "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md": "eaf1b6045bfa",
       "content/posts/the-bank-shot-and-the-magic-trick.md": "fc402ee12141",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "d76114e1c2e4",
-      "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "181a1e9ba371",
+      "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "097281281f11",
       "content/posts/the-blind-cut-and-the-naming-mind.md": "5d1da39f48d6",
       "content/posts/the-blind-spot-of-the-frame.md": "9f7a2066930e",
       "content/posts/the-boundary-crossing-of-choice.md": "f23183dd7dd7",
@@ -228,7 +228,7 @@
       "content/posts/the-carry-that-cannot-be-named-inside-the-register.md": "042276f47daa",
       "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "00c2640fef3e",
       "content/posts/the-category-error-of-better.md": "01832e3adff3",
-      "content/posts/the-causal-inversion-of-partnership.md": "893fa06d74ab",
+      "content/posts/the-causal-inversion-of-partnership.md": "5b985f8e2316",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "3ca599ffb0d9",
       "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "c3f7ea991be1",
       "content/posts/the-causal-overstep-of-observation-and-the-first-person-surplus.md": "1c8b2a59109f",
@@ -245,7 +245,7 @@
       "content/posts/the-coordinators-category-error.md": "cacce30b5e40",
       "content/posts/the-cut-moves-but-never-vanishes.md": "c718d57ca5a7",
       "content/posts/the-defining-seat.md": "19cac4ee1b14",
-      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "d9453ea37244",
+      "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "3205a7cd6a37",
       "content/posts/the-density-of-judgment.md": "824c87f92b0a",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "9bb0244423b3",
       "content/posts/the-deterministic-machine.md": "d279084d6516",
@@ -255,7 +255,7 @@
       "content/posts/the-dissolution-of-the-great-reversal.md": "cdf80ba3bcd7",
       "content/posts/the-distant-silhouette-and-the-inventory-from-nowhere.md": "cf61f9e9c832",
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "07819c219560",
-      "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "2bc09be901d9",
+      "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "f216dec3c5a4",
       "content/posts/the-extendable-horizon.md": "f5b2880f254c",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "7915aadc533b",
       "content/posts/the-fallacy-of-post-success-parenting.md": "a33a3eabb00c",
@@ -264,7 +264,7 @@
       "content/posts/the-fixed-map-and-the-repeated-trip.md": "ba553eb8af02",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "d3d47cfe2abd",
       "content/posts/the-flywheel-of-the-mind.md": "8023c6735d6f",
-      "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "9c8e728ed2cb",
+      "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "d245e5c4f9aa",
       "content/posts/the-frame-that-conceals-improvement.md": "e4fefad91788",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "1f120023244d",
       "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "5b3957b27316",
@@ -285,7 +285,7 @@
       "content/posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function.md": "dc4dc29b990d",
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "2bca56c2a965",
       "content/posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard.md": "6d4b7faef53e",
-      "content/posts/the-illusion-of-distance-and-the-dual-ruler.md": "6232766ba174",
+      "content/posts/the-illusion-of-distance-and-the-dual-ruler.md": "1c8cbce7ea8c",
       "content/posts/the-illusion-of-free-intelligence.md": "d744917714ec",
       "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "28d2c9ecb890",
       "content/posts/the-illusion-of-multi-agent-collaboration.md": "cc51c6bb6e4f",
@@ -294,13 +294,13 @@
       "content/posts/the-illusion-of-the-unmediated.md": "6167af604584",
       "content/posts/the-imagining-of-ai-risk.md": "06a93ab32a22",
       "content/posts/the-initial-distinction.md": "597771bb1303",
-      "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md": "3fc9c9d53f74",
+      "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md": "ccd573397924",
       "content/posts/the-interesting-case-of-rubin.md": "7e8d008c3655",
       "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "5db081fa7c26",
       "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "3a5779fc0793",
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "88664ef097a3",
       "content/posts/the-invisible-first-move.md": "2903f23cc112",
-      "content/posts/the-invisible-gods-eye.md": "6e94c762b120",
+      "content/posts/the-invisible-gods-eye.md": "d42b49792276",
       "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "09e1af17f8a8",
       "content/posts/the-irreducible-observer.md": "26a3b93de19e",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "8b9baa73bc04",
@@ -317,17 +317,17 @@
       "content/posts/the-map-after-the-territory.md": "7c4c6f4b27cf",
       "content/posts/the-mark-and-the-act.md": "8167eeddeeae",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "92771062e024",
-      "content/posts/the-mind-as-vector-and-coordinate-system.md": "a7f76c5db9fa",
+      "content/posts/the-mind-as-vector-and-coordinate-system.md": "50dc5c46c786",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "35d749b1bd01",
       "content/posts/the-mirage-of-the-infinite-totality.md": "befa5078c345",
-      "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "66816e477146",
+      "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md": "be31341abfbf",
       "content/posts/the-mirror-handshake-of-power.md": "ccc28b284e44",
       "content/posts/the-misallocation-of-agency.md": "b921b7fb3528",
       "content/posts/the-model-never-becomes-a-second-edge.md": "508ba7e870a3",
       "content/posts/the-moral-reversal-and-the-scripted-subject.md": "e1ac22ffc038",
       "content/posts/the-myth-of-population-collapse-explained.md": "6b8ecefdfc0f",
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "f72287238803",
-      "content/posts/the-name-revolution-files-a-life-as-evidence.md": "eb674dc02fb1",
+      "content/posts/the-name-revolution-files-a-life-as-evidence.md": "28675c00f6af",
       "content/posts/the-non-definitive-definition-of-intelligence.md": "65bdb70f81ba",
       "content/posts/the-npc-impression-is-structural.md": "4f7bc9fb76e2",
       "content/posts/the-observational-cut-in-ai-debates.md": "4ce3e6428502",
@@ -367,7 +367,7 @@
       "content/posts/the-scaling-loop.md": "59f678c43d21",
       "content/posts/the-self-portrait-in-the-projection.md": "2b51ab9fe625",
       "content/posts/the-shadow-and-the-infinite.md": "3ac1eba8a057",
-      "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "87a9e69d47f1",
+      "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "1a95242ef0c5",
       "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "5d21768fd3b6",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "dbddf9a0c7b1",
       "content/posts/the-source-of-all-harm.md": "67e9c861c682",
@@ -376,12 +376,12 @@
       "content/posts/the-strategy-that-wasnt.md": "619408944139",
       "content/posts/the-strongest-belief-of-the-mind.md": "cffad4109dde",
       "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "01f3559f1033",
-      "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "9c4edb44a2d5",
+      "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "45683f1cde48",
       "content/posts/the-surface-beneath.md": "cb6892bfdae1",
       "content/posts/the-surface-that-registers.md": "add37f7bdd58",
       "content/posts/the-three-shadows-of-the-cut.md": "fcb032465d92",
       "content/posts/the-tightening-loop.md": "be324f885a2f",
-      "content/posts/the-twin-paradox-and-the-hidden-observer.md": "ff11efe3625a",
+      "content/posts/the-twin-paradox-and-the-hidden-observer.md": "b22fa9212e4f",
       "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "124b8f97fc34",
       "content/posts/the-unclosable-trace.md": "12bf152789c6",
       "content/posts/the-unexamined-critic.md": "ffe36622f873",
@@ -389,7 +389,7 @@
       "content/posts/the-unobservable-driver-of-learning.md": "16338781295d",
       "content/posts/the-utility-men-of-progress.md": "b35b7ef21677",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "0b020391d9f5",
-      "content/posts/the-velocity-of-visibility.md": "9b6a4da9f120",
+      "content/posts/the-velocity-of-visibility.md": "2730ee2797d7",
       "content/posts/the-walking-tangent-and-the-stumbling-sphere.md": "6dd94a8b5246",
       "content/posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy.md": "4ee972fd065f",
       "content/posts/the_analogy_trap.md": "9f59f2c441b4",
@@ -414,7 +414,7 @@
       "content/posts/what-works-is-the-belief.md": "24296863de82",
       "content/posts/whatever-is-one-prompt-away.md": "4f83116ae3c6",
       "content/posts/when-abundance-looks-like-scarcity.md": "84b716cdac74",
-      "content/posts/when-electrons-think.md": "c3336f135244",
+      "content/posts/when-electrons-think.md": "828aea06a9d0",
       "content/posts/when-malfunction-is-scored-as-intelligence.md": "dfa53464d480",
       "content/posts/when-need-stops-being-the-measure.md": "193f5886b7bf",
       "content/posts/when-observation-becomes-performance.md": "038f9f625402",
@@ -436,8 +436,8 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b28d61994639",
       "content/book/causality.md": "863b25c6333a",
       "content/book/consciousness.md": "b913dc5b8170",
-      "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "fb5d1e6ecc7a",
+      "content/book/economics.md": "4484864e5d89",
+      "content/book/index-of-premises.md": "4ee5e79a2e76",
       "content/book/intelligence.md": "6234ae4579e1",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -453,14 +453,14 @@
     },
     "stats": {
       "posts": 426,
-      "edges": 13066,
-      "unique_directed": 6427,
+      "edges": 13068,
+      "unique_directed": 6428,
       "missing_targets": 0,
-      "one_way": 1195,
+      "one_way": 1194,
       "isolated": 0,
       "posts_with_outbound": 426,
       "book_pages": 16,
-      "book_edges": 1256,
+      "book_edges": 1258,
       "posts_reached_by_book": 426
     }
   },
@@ -1213,7 +1213,7 @@
       "slug": "beyond-the-hundred-trillion-horizon",
       "path": "content/posts/beyond-the-hundred-trillion-horizon.md",
       "title": "百万亿地平线之外 / Beyond the Hundred-Trillion Horizon",
-      "hash": "3c63e3e17823",
+      "hash": "e7843ab91c4c",
       "in_degree": 2,
       "out_degree": 11,
       "links_out": [
@@ -1516,7 +1516,7 @@
       "slug": "choice-itself-has-no-inherent-weight",
       "path": "content/posts/choice-itself-has-no-inherent-weight.md",
       "title": "抉择本身并不沉重 / Choice Itself Has No Inherent Weight",
-      "hash": "61c4cff8bfbf",
+      "hash": "195ba4c6affc",
       "in_degree": 12,
       "out_degree": 14,
       "links_out": [
@@ -2288,7 +2288,7 @@
       "slug": "demanding-a-toe-freezes-time-into-a-catalog",
       "path": "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md",
       "title": "索求万物理论是在将当下冻结为清单 / Demanding a Theory of Everything Freezes Time into a Catalog",
-      "hash": "434ad917ad64",
+      "hash": "f146489c346f",
       "in_degree": 11,
       "out_degree": 8,
       "links_out": [
@@ -2308,11 +2308,12 @@
       "slug": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "path": "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md",
       "title": "确定性是微观不确定性的统计签名 / Determinism is the Statistical Signature of Micro-Indeterminism",
-      "hash": "b2e4aff56800",
+      "hash": "c40dfd70273a",
       "in_degree": 15,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "fixed-by-nothing",
+        "the-cut-moves-but-never-vanishes",
         "the-boundary-crossing-of-choice",
         "the-explanatory-trap-of-the-ordinary-perspective",
         "the-open-question-is-determinisms-demand",
@@ -3672,7 +3673,7 @@
       "slug": "intelligence-crisis-response",
       "path": "content/posts/intelligence-crisis-response.md",
       "title": "度量时滞与智能成本通缩 / The Measurement Lag",
-      "hash": "cac8520aa17d",
+      "hash": "ff0c08053c60",
       "in_degree": 3,
       "out_degree": 8,
       "links_out": [
@@ -4556,7 +4557,7 @@
       "slug": "objects-are-stabilized-relationships",
       "path": "content/posts/objects-are-stabilized-relationships.md",
       "title": "对象是被稳定化的关系 / Objects Are Stabilized Relationships",
-      "hash": "74accfac1364",
+      "hash": "5c88afea080b",
       "in_degree": 9,
       "out_degree": 8,
       "links_out": [
@@ -5352,7 +5353,7 @@
       "slug": "present-contact-and-the-obscuration-of-desired-feeling",
       "path": "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md",
       "title": "现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling",
-      "hash": "2942b85de8aa",
+      "hash": "6adbcae9fc09",
       "in_degree": 3,
       "out_degree": 7,
       "links_out": [
@@ -5371,7 +5372,7 @@
       "slug": "price-as-utterance-understanding-as-trade",
       "path": "content/posts/price-as-utterance-understanding-as-trade.md",
       "title": "价格是言说，理解是交易 / Price as Utterance, Understanding as Trade",
-      "hash": "74464ff48389",
+      "hash": "11deadd7c5d2",
       "in_degree": 21,
       "out_degree": 21,
       "links_out": [
@@ -6540,7 +6541,7 @@
       "slug": "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
       "path": "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md",
       "title": "阳台视角的规训僭越与不可代理的未竟之行 / The Balcony Disciplinary Overstep and the Unproxyable Act",
-      "hash": "7cf26b26a758",
+      "hash": "eaf1b6045bfa",
       "in_degree": 10,
       "out_degree": 8,
       "links_out": [
@@ -6622,7 +6623,7 @@
       "slug": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
       "path": "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md",
       "title": "黑白采样帧与外推宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe",
-      "hash": "181a1e9ba371",
+      "hash": "097281281f11",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -6887,7 +6888,7 @@
       "slug": "the-causal-inversion-of-partnership",
       "path": "content/posts/the-causal-inversion-of-partnership.md",
       "title": "契约的因果倒置 / The Causal Inversion of Partnership",
-      "hash": "893fa06d74ab",
+      "hash": "5b985f8e2316",
       "in_degree": 12,
       "out_degree": 15,
       "links_out": [
@@ -7254,7 +7255,7 @@
       "path": "content/posts/the-cut-moves-but-never-vanishes.md",
       "title": "割点可移不可除 / The Cut Moves but Never Vanishes",
       "hash": "c718d57ca5a7",
-      "in_degree": 28,
+      "in_degree": 29,
       "out_degree": 9,
       "links_out": [
         "demanding-a-toe-freezes-time-into-a-catalog",
@@ -7295,7 +7296,7 @@
       "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences",
-      "hash": "d9453ea37244",
+      "hash": "3205a7cd6a37",
       "in_degree": 40,
       "out_degree": 34,
       "links_out": [
@@ -7564,7 +7565,7 @@
       "slug": "the-explanatory-trap-of-the-ordinary-perspective",
       "path": "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md",
       "title": "“普通人视角”的解释陷阱 / The Explanatory Trap of the \"Ordinary Perspective\"",
-      "hash": "2bc09be901d9",
+      "hash": "f216dec3c5a4",
       "in_degree": 17,
       "out_degree": 18,
       "links_out": [
@@ -7812,7 +7813,7 @@
       "slug": "the-form-of-enlightenment-and-the-inversion-of-gates",
       "path": "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md",
       "title": "开悟的相与门槛的倒置 / The Form of Enlightenment and the Inversion of Gates",
-      "hash": "9c8e728ed2cb",
+      "hash": "d245e5c4f9aa",
       "in_degree": 5,
       "out_degree": 13,
       "links_out": [
@@ -8322,7 +8323,7 @@
       "slug": "the-illusion-of-distance-and-the-dual-ruler",
       "path": "content/posts/the-illusion-of-distance-and-the-dual-ruler.md",
       "title": "距离的幻觉与尺度的双向投影 / The Illusion of Distance and the Dual Projections of the Ruler",
-      "hash": "6232766ba174",
+      "hash": "1c8cbce7ea8c",
       "in_degree": 2,
       "out_degree": 5,
       "links_out": [
@@ -8540,7 +8541,7 @@
       "slug": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
       "path": "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md",
       "title": "内部人假定与被动防护的因果倒置 / The Insider Presumption and the Causal Inversion of Reactive Containment",
-      "hash": "3fc9c9d53f74",
+      "hash": "ccd573397924",
       "in_degree": 3,
       "out_degree": 12,
       "links_out": [
@@ -8672,7 +8673,7 @@
       "slug": "the-invisible-gods-eye",
       "path": "content/posts/the-invisible-gods-eye.md",
       "title": "隐秘的上帝之眼 / The Invisible God's Eye",
-      "hash": "6e94c762b120",
+      "hash": "d42b49792276",
       "in_degree": 8,
       "out_degree": 14,
       "links_out": [
@@ -9059,7 +9060,7 @@
       "slug": "the-mind-as-vector-and-coordinate-system",
       "path": "content/posts/the-mind-as-vector-and-coordinate-system.md",
       "title": "向量、坐标系与自指心智 / The Mind as Vector and Coordinate System",
-      "hash": "a7f76c5db9fa",
+      "hash": "50dc5c46c786",
       "in_degree": 18,
       "out_degree": 15,
       "links_out": [
@@ -9128,7 +9129,7 @@
       "slug": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "path": "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md",
       "title": "时间之箭的伪悖论与对称模拟的边界 / The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation",
-      "hash": "66816e477146",
+      "hash": "be31341abfbf",
       "in_degree": 13,
       "out_degree": 20,
       "links_out": [
@@ -9344,7 +9345,7 @@
       "slug": "the-name-revolution-files-a-life-as-evidence",
       "path": "content/posts/the-name-revolution-files-a-life-as-evidence.md",
       "title": "革命之名把生活收成证据 / The Name Revolution Files a Life as Evidence",
-      "hash": "eb674dc02fb1",
+      "hash": "28675c00f6af",
       "in_degree": 11,
       "out_degree": 14,
       "links_out": [
@@ -10460,7 +10461,7 @@
       "slug": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "path": "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md",
       "title": "“物理学才是定律”的障眼法 / The Sleight of Hand in \"Physics Is the Law\"",
-      "hash": "87a9e69d47f1",
+      "hash": "1a95242ef0c5",
       "in_degree": 20,
       "out_degree": 19,
       "links_out": [
@@ -10700,8 +10701,8 @@
       "kind": "post",
       "slug": "the-summary-first-reversal-and-the-command-of-yields",
       "path": "content/posts/the-summary-first-reversal-and-the-command-of-yields.md",
-      "title": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相 / Macro Parameters, Micro Choices, and the Command of Yields",
-      "hash": "9c4edb44a2d5",
+      "title": "宏观参数、微观抉择与利率的命令 / Macro Parameters, Micro Choices, and the Command of Yields",
+      "hash": "45683f1cde48",
       "in_degree": 14,
       "out_degree": 10,
       "links_out": [
@@ -10805,7 +10806,7 @@
       "slug": "the-twin-paradox-and-the-hidden-observer",
       "path": "content/posts/the-twin-paradox-and-the-hidden-observer.md",
       "title": "双生子佯谬与隐秘观察者 / The Twin Paradox and the Hidden Observer",
-      "hash": "ff11efe3625a",
+      "hash": "b22fa9212e4f",
       "in_degree": 13,
       "out_degree": 15,
       "links_out": [
@@ -11036,7 +11037,7 @@
       "slug": "the-velocity-of-visibility",
       "path": "content/posts/the-velocity-of-visibility.md",
       "title": "可见性的速度差 / The Velocity of Visibility",
-      "hash": "9b6a4da9f120",
+      "hash": "2730ee2797d7",
       "in_degree": 2,
       "out_degree": 9,
       "links_out": [
@@ -11671,7 +11672,7 @@
       "slug": "when-electrons-think",
       "path": "content/posts/when-electrons-think.md",
       "title": "当电子开始思考 / When Electrons Think",
-      "hash": "c3336f135244",
+      "hash": "828aea06a9d0",
       "in_degree": 8,
       "out_degree": 7,
       "links_out": [
@@ -16178,7 +16179,7 @@
       "from": "beyond-the-hundred-trillion-horizon",
       "to": "the-summary-first-reversal-and-the-command-of-yields",
       "rel": "points_to",
-      "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相"
+      "label": "宏观参数、微观抉择与利率的命令"
     },
     {
       "from": "beyond-the-hundred-trillion-horizon",
@@ -18554,7 +18555,7 @@
       "from": "choice-itself-has-no-inherent-weight",
       "to": "the-summary-first-reversal-and-the-command-of-yields",
       "rel": "points_to",
-      "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相"
+      "label": "宏观参数、微观抉择与利率的命令"
     },
     {
       "from": "choice-itself-has-no-inherent-weight",
@@ -24048,6 +24049,12 @@
     },
     {
       "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "割点可移不可除"
+    },
+    {
+      "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "to": "the-boundary-crossing-of-choice",
       "rel": "points_to",
       "label": "抉择的跨界"
@@ -24057,6 +24064,12 @@
       "to": "fixed-by-nothing",
       "rel": "points_to",
       "label": "Fixed by Nothing"
+    },
+    {
+      "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "The Cut Moves but Never Vanishes"
     },
     {
       "from": "determinism-is-the-statistical-signature-of-micro-indeterminism",
@@ -33362,7 +33375,7 @@
       "from": "intelligence-crisis-response",
       "to": "the-summary-first-reversal-and-the-command-of-yields",
       "rel": "points_to",
-      "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相"
+      "label": "宏观参数、微观抉择与利率的命令"
     },
     {
       "from": "intelligence-crisis-response",
@@ -45320,7 +45333,7 @@
       "from": "present-contact-and-the-obscuration-of-desired-feeling",
       "to": "the-summary-first-reversal-and-the-command-of-yields",
       "rel": "points_to",
-      "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相"
+      "label": "宏观参数、微观抉择与利率的命令"
     },
     {
       "from": "present-contact-and-the-obscuration-of-desired-feeling",
@@ -45380,7 +45393,7 @@
       "from": "price-as-utterance-understanding-as-trade",
       "to": "the-summary-first-reversal-and-the-command-of-yields",
       "rel": "points_to",
-      "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相"
+      "label": "宏观参数、微观抉择与利率的命令"
     },
     {
       "from": "price-as-utterance-understanding-as-trade",
@@ -53192,7 +53205,7 @@
       "from": "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
       "to": "the-summary-first-reversal-and-the-command-of-yields",
       "rel": "points_to",
-      "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相"
+      "label": "宏观参数、微观抉择与利率的命令"
     },
     {
       "from": "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
@@ -55448,7 +55461,7 @@
       "from": "the-causal-inversion-of-partnership",
       "to": "the-summary-first-reversal-and-the-command-of-yields",
       "rel": "points_to",
-      "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相"
+      "label": "宏观参数、微观抉择与利率的命令"
     },
     {
       "from": "the-causal-inversion-of-partnership",
@@ -57824,7 +57837,7 @@
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "to": "the-summary-first-reversal-and-the-command-of-yields",
       "rel": "points_to",
-      "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相"
+      "label": "宏观参数、微观抉择与利率的命令"
     },
     {
       "from": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
@@ -59708,7 +59721,7 @@
       "from": "the-explanatory-trap-of-the-ordinary-perspective",
       "to": "the-summary-first-reversal-and-the-command-of-yields",
       "rel": "points_to",
-      "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相"
+      "label": "宏观参数、微观抉择与利率的命令"
     },
     {
       "from": "the-explanatory-trap-of-the-ordinary-perspective",
@@ -61412,7 +61425,7 @@
       "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
       "to": "the-summary-first-reversal-and-the-command-of-yields",
       "rel": "points_to",
-      "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相"
+      "label": "宏观参数、微观抉择与利率的命令"
     },
     {
       "from": "the-form-of-enlightenment-and-the-inversion-of-gates",
@@ -65966,7 +65979,7 @@
       "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
       "to": "the-summary-first-reversal-and-the-command-of-yields",
       "rel": "points_to",
-      "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相"
+      "label": "宏观参数、微观抉择与利率的命令"
     },
     {
       "from": "the-insider-presumption-and-the-causal-inversion-of-reactive-containment",
@@ -69062,7 +69075,7 @@
       "from": "the-mind-as-vector-and-coordinate-system",
       "to": "the-summary-first-reversal-and-the-command-of-yields",
       "rel": "points_to",
-      "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相"
+      "label": "宏观参数、微观抉择与利率的命令"
     },
     {
       "from": "the-mind-as-vector-and-coordinate-system",
@@ -69392,7 +69405,7 @@
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "to": "the-summary-first-reversal-and-the-command-of-yields",
       "rel": "points_to",
-      "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相"
+      "label": "宏观参数、微观抉择与利率的命令"
     },
     {
       "from": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
@@ -71084,7 +71097,7 @@
       "from": "the-name-revolution-files-a-life-as-evidence",
       "to": "the-summary-first-reversal-and-the-command-of-yields",
       "rel": "points_to",
-      "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相"
+      "label": "宏观参数、微观抉择与利率的命令"
     },
     {
       "from": "the-name-revolution-files-a-life-as-evidence",
@@ -90595,7 +90608,7 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "bfb8c8008c16",
+        "hash": "4484864e5d89",
         "out_degree": 28
       },
       {
@@ -90604,7 +90617,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "fb5d1e6ecc7a",
+        "hash": "4ee5e79a2e76",
         "out_degree": 426
       },
       {
@@ -91309,7 +91322,7 @@
         "from": "book:economics",
         "to": "the-summary-first-reversal-and-the-command-of-yields",
         "rel": "collects",
-        "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相 / Macro Parameters, Micro Choices, and the Command of Yields"
+        "label": "宏观参数、微观抉择与利率的命令 / Macro Parameters, Micro Choices, and the Command of Yields"
       },
       {
         "from": "book:economics",
@@ -92285,6 +92298,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
+        "rel": "collects",
+        "label": "黑白采样帧与外推宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-initial-distinction",
         "rel": "collects",
         "label": "最初的区分 / The Initial Distinction"
@@ -92846,6 +92865,12 @@
         "to": "time-is-causality-not-a-dimension",
         "rel": "collects",
         "label": "时间是因果的不可逆方向与离散步长 / Time Is the Irreversible Direction and Discrete Step of Causality"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
+        "rel": "collects",
+        "label": "黑白采样帧与外推宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe"
       },
       {
         "from": "book:index-of-premises",
@@ -95401,7 +95426,7 @@
         "from": "book:index-of-premises",
         "to": "the-summary-first-reversal-and-the-command-of-yields",
         "rel": "collects",
-        "label": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相 / Macro Parameters, Micro Choices, and the Command of Yields"
+        "label": "宏观参数、微观抉择与利率的命令 / Macro Parameters, Micro Choices, and the Command of Yields"
       },
       {
         "from": "book:index-of-premises",

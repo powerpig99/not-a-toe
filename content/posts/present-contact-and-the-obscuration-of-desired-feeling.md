@@ -188,7 +188,7 @@ In standard experimental paradigms, aggregate scores, group contrasts, and scale
 
 ## 四、 宏观残差的界限与第一人称的生成之源 / 4. The Boundary of Macro Residuals and the First-Person Source
 
-这种认识论倒置并不局限于情感心理学，每当下游聚合结果被转化为上游律令时，它便会重演。正如在[宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相](../the-summary-first-reversal-and-the-command-of-yields/)中所阐明的，宏观指标代表微观交换留下的事后残差，并不具备支配个体行动的因果主权。科学观察的第三人称姿态，依然是身处具体锚点的观察者所起草的辅助参考系。正如[不可还原的观察者](../the-irreducible-observer/)所证明的，观察心智无法借助精密的仪器将自身的首要地位从因果区分的源头中抹去。
+这种认识论倒置并不局限于情感心理学，每当下游聚合结果被转化为上游律令时，它便会重演。正如在[宏观参数、微观抉择与利率的命令](../the-summary-first-reversal-and-the-command-of-yields/)中所阐明的，宏观指标代表微观交换留下的事后残差，并不具备支配个体行动的因果主权。科学观察的第三人称姿态，依然是身处具体锚点的观察者所起草的辅助参考系。正如[不可还原的观察者](../the-irreducible-observer/)所证明的，观察心智无法借助精密的仪器将自身的首要地位从因果区分的源头中抹去。
 
 The epistemological inversion is not confined to the psychology of emotion; it recurs whenever downstream aggregations are converted into upstream mandates. As articulated in [Macro Parameters, Micro Choices, and the Command of Yields](../the-summary-first-reversal-and-the-command-of-yields/), macro indicators represent post-hoc residue left by micro-exchanges, possessing no sovereign mandate to dictate individual acts. The third-person posture of scientific observation remains an auxiliary coordinate frame drafted by an observer situated at a concrete anchor. As demonstrated in [The Irreducible Observer](../the-irreducible-observer/), an observing Mind cannot use sophisticated instrumentation to erase its own primacy from the origin of causal distinction.
 

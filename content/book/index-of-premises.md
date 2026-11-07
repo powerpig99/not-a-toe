@@ -996,7 +996,7 @@ Bitcoin began as an open medium for expressing agency outside the fiat system, o
 
 Presumes spacetime is an eternal four-dimensional block where past, present, and future coexist; mathematically powerful in relativity, it mistakes a static map for unfolding time.
 
-→ [四维长鹿的幻象与当下的模型 / The Myth of the Four-Dimensional Deer and the Present Model](../../posts/the-myth-of-the-four-dimensional-deer-and-the-present-model/) · [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/) · [时间是因果的不可逆方向与离散步长 / Time Is the Irreversible Direction and Discrete Step of Causality](../../posts/time-is-causality-not-a-dimension/)
+→ [四维长鹿的幻象与当下的模型 / The Myth of the Four-Dimensional Deer and the Present Model](../../posts/the-myth-of-the-four-dimensional-deer-and-the-present-model/) · [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/) · [时间是因果的不可逆方向与离散步长 / Time Is the Irreversible Direction and Discrete Step of Causality](../../posts/time-is-causality-not-a-dimension/) · [黑白采样帧与外推宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe](../../posts/the-black-and-white-sample-frame-and-the-extrapolated-universe/)
 
 ### 古典功利主义 / Classical Utilitarianism
 `哲学 / Philosophical`
@@ -1518,7 +1518,7 @@ The enshittification model attributes platform decline to executive greed; platf
 
 The Planck time and Planck length mark the scale where present models run out of resolution, and c = ℓ_P / t_P ties them to the speed of light, of use in calculation; reading them as a shortest duration and distance engraved on a cosmic container prior to observation is where they reach their boundary, since they describe the perceptual resolution of an observer whose own apparatus is woven from causal steps.
 
-→ [时间是因果的不可逆方向与离散步长 / Time Is the Irreversible Direction and Discrete Step of Causality](../../posts/time-is-causality-not-a-dimension/)
+→ [时间是因果的不可逆方向与离散步长 / Time Is the Irreversible Direction and Discrete Step of Causality](../../posts/time-is-causality-not-a-dimension/) · [黑白采样帧与外推宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe](../../posts/the-black-and-white-sample-frame-and-the-extrapolated-universe/)
 
 ### 幂律分布 / Power Law Distribution
 `科学 / Scientific`
@@ -2065,9 +2065,9 @@ Presumes algorithmic scaling autonomously achieves sovereign superhuman generali
 ### 黑白采样帧的外推宇宙 / Astronomical Sample Frame Extrapolation
 `科学 / Scientific`
 
-天体物理学假定拍下的星空切片即足以重构宇宙演化通史；将离散的观测帧盲目外推，容易把局部的探测数据误当作全景。
+宇宙学外推预设一张以常数 ħ、c 与 G 拟合出的局部不变观测帧，在全部时间与空间中都作为普适定律成立；在局部范围内，这一拟合在轨道力学、日月食预报与时钟同步中能给出高精度的预测，它的边界在于把这一局部切空间的拟合沿画出的时间轴拉伸为全局的块状宇宙、大爆炸奇点或终局热寂，将测量帧自身的分辨率、刷新率与视界补偿误认作无观察者的宇宙。
 
-Astrophysics assumes distant telescopic snapshots allow reconstructing cosmological history; freezing discrete observational time-slices extrapolates local sensor data into an imagined cosmic origin.
+Cosmological extrapolation presumes that a locally invariant observational frame fitted with the constants ħ, c, and G holds as a universal law across all space and time; within its local range the fit yields high-precision predictions in orbital mechanics, eclipse forecasting, and clock synchronization, and it reaches its boundary when that local tangent-space fit is stretched along a drawn time axis into a global block universe, a Big Bang singularity, or a final heat death, mistaking the resolution, refresh rate, and horizon compensation of the measuring frame for an observer-free cosmos.
 
 → [黑白采样帧与外推宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe](../../posts/the-black-and-white-sample-frame-and-the-extrapolated-universe/)
 
@@ -2598,7 +2598,7 @@ Disruption rhetoric treats current technological acceleration as unprecedented; 
 
 假定距离是脱离观察者的客体间隔；对几何测距有效，却遗忘了任何坐标系皆由第一人称原点与选定标尺所张成。
 
-Presumes distance is an observer-independent metric interval; effective for geometric calculations, it forgets that every coordinate system originates in an observer.
+Presumes distance is an observer-independent metric interval; effective for geometric calculations, it forgets that every coordinate system is spanned by a first-person origin and the ruler it chooses.
 
 → [距离的幻觉与尺度的双向投影 / The Illusion of Distance and the Dual Projections of the Ruler](../../posts/the-illusion-of-distance-and-the-dual-ruler/)
 
@@ -2803,9 +2803,9 @@ Fixed-pie thinking assumes a collective stock exists prior to the acts producing
 ### 形式定律与现实摩擦 / Formal Laws vs Lived Friction
 `科学 / Scientific`
 
-假定物理方程规定了现实的必然走向；对轨迹推演不可或缺，却忽略了真实系统必须经受未被方程包含的宏观摩擦。
+将物理方程当作支配现实运转的成文法典，在推算已采样工况区间内的轨迹、提醒实践者人为成规可协商而材料与热力学约束无法靠游说绕开时有用；它在此到了边界：“物理学才是定律”把心智写下的形式模型、系统运行时的宏观摩擦与开放的现实本身压在同一词下，把实际结果当成由纸面方程预先决定，而未建模的自由度持续在接触面上登记为摩擦。
 
-Presumes physical equations prescribe what reality must do; foundational for calculating trajectories, it obscures that real outcomes require empirical survival.
+Treating physical equations as a statute governing how reality runs is of use in calculating trajectories within sampled regimes and in reminding practitioners that human conventions are negotiable whereas material and thermodynamic constraints cannot be talked around; it reaches its boundary in that "physics is the law" compresses the formal model a Mind writes down, the macroscopic friction of a system in operation, and open reality itself under one word, taking actual outcomes as fixed in advance by written equations while unmodeled degrees of freedom continue to register as friction at the contact surface.
 
 → [“物理学才是定律”的障眼法 / The Sleight of Hand in "Physics Is the Law"](../../posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)
 
@@ -3358,12 +3358,12 @@ Gradient descent assumes continuous differentiability across solutions; stepping
 
 → [底层表面 / The Surface Beneath](../../posts/the-surface-beneath/)
 
-### 确定性作为微观不确定性的统计签名 / Macroscopic Determinism as Statistical Signature
+### 确定性作为微观不确定性的统计签名 / Determinism as the Statistical Signature of Micro-Indeterminism
 `科学 / Scientific`
 
-经典物理学将确定性预测奉为天地基准；宏观确定性实则是大数定律抹平了微观量子不确定性之后，沉淀出的宏观统计假象。
+经典物理学将确定性预测奉为自然的固有法则；宏观确定性实则是单步开放性的聚合签名——即不可逐一预测的跃迁与自由变量经 1/√N 平滑后投射出的低维系综轮廓——它在群体尺度上精确有效，却在单步抉择落下的现场失去着力点。
 
-Classical physics views deterministic predictability as nature's fundamental law; macroscopic determinism is a statistical law-of-large-numbers artifact smoothing over microscopic quantum indeterminacy.
+Classical physics takes deterministic predictability as nature's own law; macroscopic determinacy is the aggregate signature of single-step openness—the 1/√N smoothing of transitions and free variables into low-dimensional ensemble outlines—which stays precise for populations while losing purchase where a single step is taken.
 
 → [确定性是微观不确定性的统计签名 / Determinism is the Statistical Signature of Micro-Indeterminism](../../posts/determinism-is-the-statistical-signature-of-micro-indeterminism/) · [阴影与无限 / The Shadow and the Infinite](../../posts/the-shadow-and-the-infinite/)
 
@@ -4420,12 +4420,12 @@ AI replacement fear presumes created instruments can obsolete their originating 
 
 → [造物无法取代其源头 / A Creation Cannot Replace Its Source](../../posts/a-creation-cannot-replace-its-source/)
 
-### 光速作为现实渲染率 / Speed of Light as Rendering Velocity
+### 光速 / Speed of Light
 `科学 / Scientific`
 
-经典物理学将光速看作单纯的速度上限；光速实则是物理关系得以向观察者显现的最大渲染速率，界定了可见世界的边缘。
+将光速 c 视作对一切观察者皆恒定不变的速度上限，在相对论运动学、信号传播与因果次序中保持其效用；其边界在于遗漏了 c 同时也是离散因果步长的分辨率视界——即关系得以向观测心智登记的渲染节律；以此节律为对照，一处关系褶皱若其被登记的构型变动更慢，便登记为坚固而确定的对象。
 
-Standard physics treats the speed of light merely as an arbitrary physical velocity limit; light speed represents the maximum rendering rate at which physical relations can register for observation.
+Treating the speed of light c as an invariant velocity limit, the same for every observer, stays useful in relativistic kinematics, signal propagation, and causal ordering; it reaches its boundary in leaving out that c is also the resolution horizon of the discrete causal step, the rendering cadence at which relations register for an observing Mind, against which relational folds whose registered configuration changes more slowly register as solid, determinate objects.
 
 → [可见性的速度差 / The Velocity of Visibility](../../posts/the-velocity-of-visibility/)
 
@@ -4558,11 +4558,11 @@ Presumes empathy is an innate capability that must take precedence over personal
 ### 宏观统计参数的因果倒置 / Summary-First Macroeconomic Inversion
 `经济 / Economic`
 
-假定宏观利率参数是主导经济运行的命令中枢；对央行政策调控有效，却把微观个体已完成抉择的汇总指标颠倒为因。
+假定利率与收益率曲线是主导经济运行的命令中枢；对央行的政策监测有用，却把微观个体已完成抉择的汇总指标颠倒为因。
 
 Presumes interest rates and yield curves act as sovereign commanders of the economy; useful for central bank monitoring, it mistakes aggregate historical tallies for causes.
 
-→ [宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相 / Macro Parameters, Micro Choices, and the Command of Yields](../../posts/the-summary-first-reversal-and-the-command-of-yields/)
+→ [宏观参数、微观抉择与利率的命令 / Macro Parameters, Micro Choices, and the Command of Yields](../../posts/the-summary-first-reversal-and-the-command-of-yields/)
 
 ### 古汉语比现代汉语更适合承载思想 / Superiority of Classical over Modern Chinese for Thought
 `哲学 / Philosophical`
