@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-03T23:47:51.706Z",
+    "generated_at": "2026-11-07T03:51:24.315Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -18,7 +18,7 @@
       "content/posts/agency-and-the-pattern.md": "30029fcafb4b",
       "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "e855ba2097aa",
       "content/posts/agency-contradiction-and-the-relocation-of-power.md": "275043c4033b",
-      "content/posts/agency-does-not-arise.md": "2064c3c57645",
+      "content/posts/agency-does-not-arise.md": "9b991f48fb54",
       "content/posts/agency-relocated-into-the-formal-model.md": "3e1fa31e14a3",
       "content/posts/agents_leia_ontological_clarity.md": "332a8919b1e7",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "4d7f22ced380",
@@ -67,7 +67,7 @@
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "6ef0fd1e62bc",
       "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "434ad917ad64",
       "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "b2e4aff56800",
-      "content/posts/dimensions-are-projections.md": "b71f1f00cf54",
+      "content/posts/dimensions-are-projections.md": "1c8cf68b183b",
       "content/posts/distillation-compression-agency.md": "8be4ecf97ac2",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "b64fa4420bd4",
       "content/posts/dynamic-resnet-of-skill-loops.md": "baf38b64137d",
@@ -141,7 +141,7 @@
       "content/posts/naval-separation-analysis.md": "31aba4991f14",
       "content/posts/no-genius-can-solve-the-knowledge-problem.md": "2b3ff94ab2fa",
       "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "088f1d7e09e0",
-      "content/posts/no-outside-scorekeeper.md": "83a5ac5f437e",
+      "content/posts/no-outside-scorekeeper.md": "769d5a3c8dee",
       "content/posts/no-system-can-be-kept-closed.md": "3af239cb12ec",
       "content/posts/nobody-has-seen-anything-yet.md": "2b871aa62082",
       "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md": "9a865742b9bb",
@@ -197,14 +197,14 @@
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "effb27d0037a",
       "content/posts/shared-humanity-is-never-shared.md": "667dd03af694",
       "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "95b8cde4e1e7",
-      "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "624819801b58",
+      "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "169cdd97d0dd",
       "content/posts/simplicity-ultimate-sophistication.md": "9039597a8e48",
       "content/posts/sovereignty-belief-and-regulatory-structures.md": "9d04c6b1c923",
       "content/posts/sovereignty-essay.md": "94143b619076",
       "content/posts/sowell-observed-the-surface-problem.md": "2e05a3324cf6",
       "content/posts/stability-and-excess.md": "25b813029b34",
       "content/posts/studying-the-effect-of-ai-relocates-causality.md": "4df60d078da6",
-      "content/posts/subtracting-consciousness-at-the-source.md": "4a8be345f142",
+      "content/posts/subtracting-consciousness-at-the-source.md": "2068711d9676",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "8246023f9355",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "463e396e6297",
       "content/posts/technology-is-residual-of-human-compounding.md": "4ac742fad799",
@@ -248,7 +248,7 @@
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "d9453ea37244",
       "content/posts/the-density-of-judgment.md": "824c87f92b0a",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "9bb0244423b3",
-      "content/posts/the-deterministic-machine.md": "fbf2680f40d1",
+      "content/posts/the-deterministic-machine.md": "d279084d6516",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "57a85b713c5f",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "74e15da43c71",
       "content/posts/the-discount-on-agency.md": "d3feb5d425d6",
@@ -291,7 +291,7 @@
       "content/posts/the-illusion-of-multi-agent-collaboration.md": "cc51c6bb6e4f",
       "content/posts/the-illusion-of-the-shared-sandbox.md": "f20e733d6ceb",
       "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "d7248404a3e5",
-      "content/posts/the-illusion-of-the-unmediated.md": "66864d0c8594",
+      "content/posts/the-illusion-of-the-unmediated.md": "6167af604584",
       "content/posts/the-imagining-of-ai-risk.md": "06a93ab32a22",
       "content/posts/the-initial-distinction.md": "597771bb1303",
       "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md": "3fc9c9d53f74",
@@ -302,9 +302,9 @@
       "content/posts/the-invisible-first-move.md": "2903f23cc112",
       "content/posts/the-invisible-gods-eye.md": "6e94c762b120",
       "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "09e1af17f8a8",
-      "content/posts/the-irreducible-observer.md": "21f9ad761568",
+      "content/posts/the-irreducible-observer.md": "26a3b93de19e",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "8b9baa73bc04",
-      "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "ff064e746f65",
+      "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "f12b48ed8a70",
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "2eb5245e590b",
       "content/posts/the-ledger-of-the-unencountered.md": "ffcdbfc26a69",
       "content/posts/the-limitation-is-doing-work.md": "bdf4b71e4176",
@@ -369,14 +369,14 @@
       "content/posts/the-shadow-and-the-infinite.md": "3ac1eba8a057",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "87a9e69d47f1",
       "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "5d21768fd3b6",
-      "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "c2d1d681f444",
+      "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "dbddf9a0c7b1",
       "content/posts/the-source-of-all-harm.md": "67e9c861c682",
       "content/posts/the-source-of-shared-change.md": "96a5ac743fda",
       "content/posts/the-sovereign-blinding.md": "ed3ccd01b170",
       "content/posts/the-strategy-that-wasnt.md": "619408944139",
       "content/posts/the-strongest-belief-of-the-mind.md": "cffad4109dde",
       "content/posts/the-substrate-of-constraint-and-the-self-denial-of-freedom.md": "01f3559f1033",
-      "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "c663c4a8107a",
+      "content/posts/the-summary-first-reversal-and-the-command-of-yields.md": "9c4edb44a2d5",
       "content/posts/the-surface-beneath.md": "cb6892bfdae1",
       "content/posts/the-surface-that-registers.md": "add37f7bdd58",
       "content/posts/the-three-shadows-of-the-cut.md": "fcb032465d92",
@@ -396,7 +396,7 @@
       "content/posts/the_illegible_compound_retraced.md": "2564d83e131c",
       "content/posts/the_moving_ground.md": "5de734e74921",
       "content/posts/therapy-opens-the-feedback-loop.md": "fef94840ad77",
-      "content/posts/time-is-causality-not-a-dimension.md": "bcd28712180f",
+      "content/posts/time-is-causality-not-a-dimension.md": "666e7cab11af",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "8b7996bdb4d5",
       "content/posts/tokens-and-the-observational-boundary.md": "34db187b43af",
       "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "ad64f1388d7d",
@@ -437,7 +437,7 @@
       "content/book/causality.md": "863b25c6333a",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "bfb8c8008c16",
-      "content/book/index-of-premises.md": "b89d4064aaa5",
+      "content/book/index-of-premises.md": "fb5d1e6ecc7a",
       "content/book/intelligence.md": "6234ae4579e1",
       "content/book/knowledge-and-learning.md": "a74e36a2f575",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -453,14 +453,14 @@
     },
     "stats": {
       "posts": 426,
-      "edges": 13064,
-      "unique_directed": 6426,
+      "edges": 13066,
+      "unique_directed": 6427,
       "missing_targets": 0,
-      "one_way": 1196,
+      "one_way": 1195,
       "isolated": 0,
       "posts_with_outbound": 426,
       "book_pages": 16,
-      "book_edges": 1255,
+      "book_edges": 1256,
       "posts_reached_by_book": 426
     }
   },
@@ -925,7 +925,7 @@
       "slug": "agency-does-not-arise",
       "path": "content/posts/agency-does-not-arise.md",
       "title": "主体性不曾涌现 / Agency Does Not Arise",
-      "hash": "2064c3c57645",
+      "hash": "9b991f48fb54",
       "in_degree": 20,
       "out_degree": 20,
       "links_out": [
@@ -2331,7 +2331,7 @@
       "slug": "dimensions-are-projections",
       "path": "content/posts/dimensions-are-projections.md",
       "title": "维度即投影 / Dimensions Are Projections",
-      "hash": "b71f1f00cf54",
+      "hash": "1c8cf68b183b",
       "in_degree": 31,
       "out_degree": 23,
       "links_out": [
@@ -4338,7 +4338,7 @@
       "slug": "no-outside-scorekeeper",
       "path": "content/posts/no-outside-scorekeeper.md",
       "title": "没有外部记账员 / No Outside Scorekeeper",
-      "hash": "83a5ac5f437e",
+      "hash": "769d5a3c8dee",
       "in_degree": 9,
       "out_degree": 11,
       "links_out": [
@@ -5980,7 +5980,7 @@
       "slug": "silicon-oracles-and-the-asymmetry-of-consequence",
       "path": "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md",
       "title": "硅基神谕与后果的非对称性 / Silicon Oracles and the Asymmetry of Consequence",
-      "hash": "624819801b58",
+      "hash": "169cdd97d0dd",
       "in_degree": 9,
       "out_degree": 13,
       "links_out": [
@@ -6150,7 +6150,7 @@
       "slug": "subtracting-consciousness-at-the-source",
       "path": "content/posts/subtracting-consciousness-at-the-source.md",
       "title": "集聚与人造主体性 / Collective and Artificial Subjectivity",
-      "hash": "4a8be345f142",
+      "hash": "2068711d9676",
       "in_degree": 13,
       "out_degree": 14,
       "links_out": [
@@ -7385,7 +7385,7 @@
       "slug": "the-deterministic-machine",
       "path": "content/posts/the-deterministic-machine.md",
       "title": "决定论机器 / The Deterministic Machine",
-      "hash": "fbf2680f40d1",
+      "hash": "d279084d6516",
       "in_degree": 8,
       "out_degree": 9,
       "links_out": [
@@ -8466,7 +8466,7 @@
       "slug": "the-illusion-of-the-unmediated",
       "path": "content/posts/the-illusion-of-the-unmediated.md",
       "title": "“非中介化”的幻象 / The Illusion of the Unmediated",
-      "hash": "66864d0c8594",
+      "hash": "6167af604584",
       "in_degree": 6,
       "out_degree": 17,
       "links_out": [
@@ -8720,7 +8720,7 @@
       "slug": "the-irreducible-observer",
       "path": "content/posts/the-irreducible-observer.md",
       "title": "不可还原的观察者 / The Irreducible Observer",
-      "hash": "21f9ad761568",
+      "hash": "26a3b93de19e",
       "in_degree": 20,
       "out_degree": 18,
       "links_out": [
@@ -8769,7 +8769,7 @@
       "slug": "the-knowledge-problem-and-the-illusion-of-delegation",
       "path": "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md",
       "title": "知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation",
-      "hash": "ff064e746f65",
+      "hash": "f12b48ed8a70",
       "in_degree": 11,
       "out_degree": 12,
       "links_out": [
@@ -9129,7 +9129,7 @@
       "path": "content/posts/the-mirage-of-times-arrow-and-the-boundaries-of-simulation.md",
       "title": "时间之箭的伪悖论与对称模拟的边界 / The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation",
       "hash": "66816e477146",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 20,
       "links_out": [
         "choice-itself-has-no-inherent-weight",
@@ -10513,7 +10513,7 @@
       "slug": "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
       "path": "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md",
       "title": "造神的障眼法与隐秘阶序的说辞 / The Sleight of Hand of Synthesizing Gods and the Rhetoric of Unacknowledged Rank",
-      "hash": "c2d1d681f444",
+      "hash": "dbddf9a0c7b1",
       "in_degree": 10,
       "out_degree": 12,
       "links_out": [
@@ -10701,7 +10701,7 @@
       "slug": "the-summary-first-reversal-and-the-command-of-yields",
       "path": "content/posts/the-summary-first-reversal-and-the-command-of-yields.md",
       "title": "宏观现象及参数和个人微观选择的因果倒置与利率的命令幻相 / Macro Parameters, Micro Choices, and the Command of Yields",
-      "hash": "c663c4a8107a",
+      "hash": "9c4edb44a2d5",
       "in_degree": 14,
       "out_degree": 10,
       "links_out": [
@@ -11126,9 +11126,9 @@
       "slug": "time-is-causality-not-a-dimension",
       "path": "content/posts/time-is-causality-not-a-dimension.md",
       "title": "时间是因果的不可逆方向与离散步长 / Time Is the Irreversible Direction and Discrete Step of Causality",
-      "hash": "bcd28712180f",
+      "hash": "666e7cab11af",
       "in_degree": 16,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "dimensions-are-projections",
         "beyond-the-projection",
@@ -11141,6 +11141,7 @@
         "demanding-a-toe-freezes-time-into-a-catalog",
         "the-boundary-of-the-frame",
         "the-twin-paradox-and-the-hidden-observer",
+        "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
         "causality-all-the-way",
         "the-vector-and-the-puzzle-of-projections",
         "the-geometry-of-mind"
@@ -14431,7 +14432,7 @@
       "from": "agency-does-not-arise",
       "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
       "rel": "points_to",
-      "label": "Determinism Is the Statistical Signature of Micro-Indeterminism"
+      "label": "Determinism is the Statistical Signature of Micro-Indeterminism"
     },
     {
       "from": "agency-does-not-arise",
@@ -14485,7 +14486,7 @@
       "from": "agency-does-not-arise",
       "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "rel": "points_to",
-      "label": "Causality Is Irreducible; The Physical Is a View from Nowhere"
+      "label": "Causality is Irreducible; The Physical is a View from Nowhere"
     },
     {
       "from": "agency-does-not-arise",
@@ -83501,9 +83502,21 @@
     },
     {
       "from": "time-is-causality-not-a-dimension",
+      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "rel": "points_to",
+      "label": "时间之箭的伪悖论与对称模拟的边界"
+    },
+    {
+      "from": "time-is-causality-not-a-dimension",
       "to": "causality-all-the-way",
       "rel": "points_to",
       "label": "因果贯穿始终"
+    },
+    {
+      "from": "time-is-causality-not-a-dimension",
+      "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
+      "rel": "points_to",
+      "label": "The Mirage of Time's Arrow and the Boundaries of Symmetric Simulation"
     },
     {
       "from": "time-is-causality-not-a-dimension",
@@ -90591,7 +90604,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "b89d4064aaa5",
+        "hash": "fb5d1e6ecc7a",
         "out_degree": 426
       },
       {
@@ -92455,6 +92468,12 @@
         "to": "the-flight-analogy-leaves-the-mind-untouched",
         "rel": "collects",
         "label": "飞行的类比碰不到心智 / The Flight Analogy Leaves the Mind Untouched"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "subtracting-consciousness-at-the-source",
+        "rel": "collects",
+        "label": "集聚与人造主体性 / Collective and Artificial Subjectivity"
       },
       {
         "from": "book:index-of-premises",

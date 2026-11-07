@@ -6,7 +6,7 @@
 
 A 1977 argument over the case for private property treats the question as a contest between institutional designs. Friedrich Hayek's observation that knowledge is dispersed, local, and tacit holds as far as it reaches, yet his account still pictures what appears in public as scattered pieces of a single stock. Those marks are externalized traces—finite, lossy projections left by discrete acts of distinguishing—and they do not sit in the world as knowledge that a more complete mind or a better-designed mechanism could finish gathering.
 
-公有产权下的集中，是这种永久不完备较重的症状；私人的剩余索取权，则是较轻的症状。把较轻的那种形态升格为因果上的解决方案，就宣称了同一个认识约束所不允许的完备；而为了捍卫这一设计所层层加码的保护性叠加，最终又在私有产权的形式语言内部重造出集中。看起来像委托的安排——不论是交给计划委员会、法定地权、价格体系，还是自动化调度框架——从不转移决策的后果。制度化，是始于个体中心层面的能动性错置在集体层面的表达。
+公有产权下的集中，是这种永久不完备的较重症状；私人的剩余索取权，则是较轻的症状。把较轻的那种形态升格为因果上的解决方案，就宣称了同一个认识约束所不允许的完备；而为了捍卫这一设计所层层加码的保护性叠加，最终又在私有产权的形式语言内部重造出集中。看起来像委托的安排——不论是交给计划委员会、法定地权、价格体系，还是自动化调度框架——从不转移决策的后果。制度化，是始于个体中心层面的能动性错置在集体层面的表达。
 
 Concentration under public property is the more severe symptom of that permanent incompleteness, and private residual claimancy is the milder one. Elevating the milder form into the causal solution claims a completeness the same epistemic constraint forbids, and the protective overlays added to defend the design eventually recreate concentration inside the formal language of private property. What looks like delegation—whether to a planning committee, a legal title, a price system, or an automated harness—never transfers the consequence of a decision. Institutionalization is the collective expression of a misallocation of agency that begins at the level of the individual center.
 
@@ -16,7 +16,7 @@ Concentration under public property is the more severe symptom of that permanent
 
 In 1977 William F. Buckley brought Friedrich Hayek and George Roche onto *Firing Line*, with Jeff Greenfield serving as examiner, under the title *Is There a Case for Private Property?* Across the entire hour, the exchange operates as a contest over which institutional arrangement should govern human action.
 
-哈耶克的理由并不建立在所有者的天赋权利之上。关于特定时间与地点之具体事实的知识散落在碎片里，没有哪一个心智或委员会能够将其拼合持有。照他的说法，市场是一件未经设计的工具，借由价格信号协调这些碎片；而被设计出来的公正分配，则要求一个中央权威去占有那些永远分散的东西，把“社会正义”套在一个无人掌舵的非人格过程上也就成了空话。事后的再分配为了让结果均等而不平等地对待人们；一旦授权从一些人那里拿走、给予另一些人，一般性的规则便不复存在。然而哈耶克也点出了整场讨论从未离开的那个前提：照他自己的逻辑，相信社会制度能够在其完整运作中被设计出来，本身就是错的。
+哈耶克的理由并不建立在所有者的天赋权利之上。关于特定时间与地点之具体事实的知识散为碎片，没有哪一个心智或委员会能够将其拼合持有。照他的说法，市场是一件未经设计的工具，借由价格信号协调这些碎片；而被设计出来的公正分配，则要求一个中央权威去占有那些永远分散的东西，把“社会正义”套在一个无人掌舵的非人格过程上也就成了空话。事后的再分配为了让结果均等而不平等地对待人们；一旦授权从一些人那里拿走、给予另一些人，一般性的规则便不复存在。然而哈耶克也点出了整场讨论从未离开的那个前提：照他自己的逻辑，相信社会制度能够在其完整运作中被设计出来，本身就是错的。
 
 Hayek's case does not rest on a natural entitlement of owners. Knowledge of particular facts of time and place sits in fragments that no single mind or committee can hold together. The market, on his account, is an undesigned instrument that coordinates those fragments through price signals, whereas a designed just distribution would require a central authority to possess what remains permanently dispersed, rendering "social justice" empty when applied to an impersonal process nobody steers. Redistribution after the fact treats people unequally in order to equalize outcomes, and once taking from some to give to others is authorized, no general rule remains. Yet Hayek also names the premise that the panel itself never leaves: the belief that social institutions can be designed in their full working is, by his own logic, mistaken.
 
@@ -38,9 +38,9 @@ Throughout the exchange, all four participants argue over how the rules should b
 
 ## 二、 知识永远不完备 / 2. Knowledge Is Permanently Incomplete
 
-哈耶克的核心洞见——经济与社会的知识高度分散、不完备、局部，且常是默会的——仍是社会理论中后果最重的观察之一。自我区分的活动发生在无数离散而有界的中心，没有哪一个中心或由中心组成的委员会，能够持握调配资源或将社会设计为闭合整体所需的全部区分场域。哈耶克止步的地方，在于他仍将这些分散的登记称为知识的碎片，仿佛社会上本有一份被拆散的存量正等待协调。公开出现的东西——价格、契约、账本、成文法——并不是知识碎片的集合；那些印迹是先前行动外化出的持久痕迹，已经是压缩后的重构，每一个中心都必须在自身有限的容量之下对其加以诠释并重新描摹。[没有天才能够解决知识问题](../no-genius-can-solve-the-knowledge-problem/)在非凡个人才华被想象成占据了足以收齐整体的制高点时，追索了同一道界限：“全知天才”的人设，本身就已经预设了这一约束可以被克服。有限的中心只能作局部的登记，而开放的场域仍在继续演进。沿着这一认识约束回溯到前提，它所抵达的地方远不止于为某一种产权制度辩护。
+哈耶克的核心洞见——经济与社会的知识是分散的、不完备的、局部的，且常是默会的——凡是在设想由单一中心或委员会替整体作调配的地方都成立。自我区分的活动发生在无数离散而有界的中心，没有哪一个中心或由中心组成的委员会，能够持握调配资源或将社会设计为闭合整体所需的全部区分场域。哈耶克止步的地方，在于他仍将这些分散的登记称为知识的碎片，仿佛社会上本有一份被拆散的存量正等待协调。公开出现的东西——价格、契约、账本、成文法——并不是知识碎片的集合；那些印迹是先前行动外化出的持久痕迹，已经是压缩后的重构，每一个中心都必须在自身有限的容量之下对其加以诠释并重新描摹。[没有天才能够解决知识问题](../no-genius-can-solve-the-knowledge-problem/)在非凡个人才华被想象成占据了足以收齐整体的制高点时，追索了同一道界限：“全知天才”的人设，本身就已经预设了这一约束可以被克服。有限的中心只能作局部的登记，而开放的场域仍在继续演进。沿着这一认识约束回溯到前提，它所抵达的地方远不止于为某一种产权制度辩护。
 
-Hayek's central insight—that economic and social knowledge is dispersed, incomplete, local, and often tacit—remains one of the most consequential observations in social theory. Self-distinguishing activity occurs across countless discrete, bounded centers, and no single center or committee of centers can hold the full field of distinctions required to allocate resources or design society as a closed whole. Where Hayek stops short is in still speaking of those dispersed registrations as fragments of knowledge, as though a divided stock existed across society waiting to be coordinated. What appears in public—prices, contracts, ledgers, statutes—is not a collection of knowledge fragments; those marks are durable traces externalized by prior acts, already compressed reconstructions that each center must interpret and re-trace under its own finite capacity. [No Genius Can Solve the Knowledge Problem](../no-genius-can-solve-the-knowledge-problem/) traces the same bound when extraordinary individual brilliance is imagined as occupying the vantage that could gather the whole: the persona of the all-seeing genius is already the assumption that the constraint can be overcome. Finite centers register partially while the open field continues to move. Taken to its premise, this epistemic constraint reaches further than a defense of any particular property regime.
+Hayek's central insight—that economic and social knowledge is dispersed, incomplete, local, and often tacit—holds wherever a single center or committee is imagined as allocating for the whole. Self-distinguishing activity occurs across countless discrete, bounded centers, and no single center or committee of centers can hold the full field of distinctions required to allocate resources or design society as a closed whole. Where Hayek stops short is in still speaking of those dispersed registrations as fragments of knowledge, as though a divided stock existed across society waiting to be coordinated. What appears in public—prices, contracts, ledgers, statutes—is not a collection of knowledge fragments; those marks are durable traces externalized by prior acts, already compressed reconstructions that each center must interpret and re-trace under its own finite capacity. [No Genius Can Solve the Knowledge Problem](../no-genius-can-solve-the-knowledge-problem/) traces the same bound when extraordinary individual brilliance is imagined as occupying the vantage that could gather the whole: the persona of the all-seeing genius is already the assumption that the constraint can be overcome. Finite centers register partially while the open field continues to move. Taken to its premise, this epistemic constraint reaches further than a defense of any particular property regime.
 
 [开放场域中的无损知识不自洽](../lossless-knowledge-of-an-open-field-is-incoherent/)在“捕获”这一图式下析出了这道界限的结构基底：因为自我区分活动的每一个中心都是离散且受容量所限的，对进行中的场域所作的任何登记，都会把多条独立的轴线压缩到有限的坐标上，或是将它们外化为有损的残余。对正在进行的区分作完备无损的登记，与有中心的活动本身相矛盾。[超越投射](../beyond-the-projection/)进一步追索了每当活生生的心智将其多维感知外化为明文规则、法律条文或系统指令时，同一种压缩是如何运作的。每一条明文规则都是从极限分辨率的第一人称感知中投射出的有限低维投影。在规则制定者眼界所及的熟悉案例中，这一投影是好用的脚手架；然而正因为它把正交的自由度压缩进了固定的坐标空间，把任何固定规则推向其演绎极限，都不可避免地会在边缘产生轨迹盲区与维度坍缩。
 
@@ -58,13 +58,13 @@ Both the case for public or collective property and the case for private-propert
 
 A milder symptom remains a symptom. Once any fixed set of property rules is elevated from provisional scaffolding into the definitive answer, it does more than cope with bounded capacity. By institutionalizing one historical pattern of titles, boundaries, and enforcement and holding it up as the general solution to the knowledge problem, the doctrine implicitly claims to know which fixed projection best governs an open field—and that claim is itself an exercise of incomplete knowledge. The doctrine converts an open epistemic constraint into a closed institutional monument, asserting at the meta-level the exact completeness it just proved impossible at the operational level. The knowledge problem is not dissolved; it is displaced one level up into the design and defense of the institutional frame itself.
 
-讨论席上的几个人里，哈耶克错得最少，因为他拒绝中央计划；然而把一套成文的产权规则样式奉为应对分散知识的充足答案，仍然违背了他自己的前提。[没有系统能被保持封闭](../no-system-can-be-kept-closed/)将这一余数证明为一条形式不变量：凡是把有限的持守当作穷尽一切之基底的地方，使用这一持守的不息活动都会在其规则之外产生摩擦。
+讨论席上的几个人里，哈耶克最贴近他自己的前提，因为他拒绝中央计划；然而把一套成文的产权规则样式奉为应对分散知识的充足答案，仍然违背了这一前提。[没有系统能被保持封闭](../no-system-can-be-kept-closed/)将这处余留证明为一条形式不变量：凡是把有限的持守当作穷尽一切之基底的地方，使用这一持守的不息活动都会在其规则之外产生摩擦。
 
-Hayek is the least wrong among the panelists because he refuses central planning, yet holding one codified pattern of property rules as the sufficient answer to dispersed knowledge still runs against his own premise. [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) demonstrates this remainder as a formal invariant: wherever a finite hold is treated as an exhaustive ground, the unceasing activity that uses the hold generates friction outside its rules.
+Hayek comes closest to his own premise among the panelists because he refuses central planning, yet holding one codified pattern of property rules as the sufficient answer to dispersed knowledge still runs against that premise. [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) demonstrates this remainder as a formal invariant: wherever a finite hold is treated as an exhaustive ground, the unceasing activity that uses the hold generates friction outside its rules.
 
 ## 五、 较轻的症状变成较重的 / 5. The Milder Symptom Mutates into the More Severe One
 
-把私有产权规则当作因果上的解决方案，而非依附于具体情境、可随时修订的脚手架，会触发更深层的结构倒置。一旦制度形式被尊为秩序的首要原因，维护形式本身就成了压倒一切的头等大事，制度设计也被记上了解决任何固定投射都无法解决之事的功劳。那些把规则当作现成避难所的人，开始在规则周围层层加筑保护机制——法定特权、准入牌照壁垒、执行垄断与规制俘获——每一项都以捍卫或稳定产权秩序的名义自居。日积月累，这些保护性叠加逐步将决策权重新集中起来。个体守护原本分散的响应能力，被运作于私有产权形式词汇内部的集中控制或卡特尔化控制所取代。起初为了让局部判断得以呼吸的安排，异化成了它自身更沉重的版本，在私有地权的旗帜下重造出公有产权制度公开设立的那种集中。[前台的寓言与缺席的因果倒置](../the-receptionist-parable-and-the-causal-inversion-of-absence/)把同一种倒置落实到单一职场岗位的尺度上：可观测的任务可以照着规章手册拆分给旁人，而正式设计始终无法捕获的，是她在十一年无脚本摩擦中维系的那个活生生的接口。
+把私有产权规则当作因果上的解决方案，而非依附于具体情境、可随时修订的脚手架，会触发更深层的结构倒置。一旦制度形式被尊为秩序的首要原因，维护形式本身就成了压倒一切的头等大事，制度设计也被记上了解决任何固定投射都无法解决之事的功劳。那些把规则当作现成避难所的人，开始在规则周围层层加筑保护机制——法定特权、准入牌照壁垒、执行垄断与规制俘获——每一项都以捍卫或稳定产权秩序的名义自居。日积月累，这些保护性叠加逐步将决策权重新集中起来。个体各自看管时那种分散的响应能力，被运作于私有产权形式词汇内部的集中控制或卡特尔化控制所取代。起初为了让局部判断得以呼吸的安排，演变成了它自身更沉重的版本，在私有地权的旗帜下重造出公有产权制度公开设立的那种集中。[前台的寓言与缺席的因果倒置](../the-receptionist-parable-and-the-causal-inversion-of-absence/)把同一种倒置落实到单一职场岗位的尺度上：可观测的任务可以照着规章手册拆分给旁人，而正式设计始终无法捕获的，是她在十一年无脚本摩擦中维系的那个活生生的接口。
 
 Treating private-property rules as the causal solution rather than as contingent, revisable scaffolding triggers a deeper structural inversion. Once the institutional form is revered as the primary cause of order, preserving the form becomes paramount, and institutional design is credited with resolving what no fixed projection can resolve. Those who treat the rules as a finished refuge begin layering protective mechanisms around them—statutory privileges, licensing barriers, monopolies of enforcement, and regulatory capture—each justified as defending or stabilizing the property order. Over time, these protective overlays progressively concentrate decision rights. The dispersed responsiveness of individual stewardship is displaced by centralized or cartelized control operating inside the formal vocabulary of private property. What began as an arrangement to let local judgment breathe mutates into a heavier version of itself, recreating under the banner of private title the very concentration that public-property regimes institute openly. [The Receptionist Parable and the Causal Inversion of Absence](../the-receptionist-parable-and-the-causal-inversion-of-absence/) brings this same inversion down to the scale of a single workplace role: observable tasks can be parcelled out across a rulebook, while what remains uncaptured by the formal design is the living interface she sustained across eleven years of unscripted friction.
 
@@ -78,31 +78,27 @@ flowchart TD
         direction TB
         K["分散的公开印迹<br/>外化的痕迹与压缩投射，从不是可收齐的存量"]
     end
-
     subgraph S_Sym["2. 有限容量的两种制度症状"]
         direction TB
         P1["公有集中（严重错配）<br/>集中决策权并抹去局部区分"]
         P2["私人剩余索取（较轻错配）<br/>让局部错误留在行动者身边，但仍是有限的规则投射"]
         E["升格为因果解决方案<br/>把固定产权规则当作开放场域的闭合答案"]
-        O["保护性叠加<br/>特权、准入壁垒、执行垄断与规制俘获"]
+        O["保护性叠加<br/>特权、规制壁垒、执行垄断与俘获"]
         C["重造出的集中<br/>在私有产权语言内部运作的集中控制"]
         P2 --> E --> O --> C
     end
-
     subgraph S_Del["3. 委托的幻觉与主权统御"]
         direction TB
         D["错置的能动性（委托幻觉）<br/>把制度规则或自动调度器当作承担判断的主体"]
-        I["不可让渡的因果回响<br/>任务与信号向外路由；后果始终锁死在做决定的中心"]
-        S["边缘处的主权重新渲染<br/>当固定规则在坍缩轴线上死锁时，个体心智退后一步重审前提"]
+        I["不可让渡的因果回响<br/>任务与信号向外路由；没有任何后果会传给工具，做出抉择的回响留在做决定的中心"]
+        S["边缘处的主权重新渲染<br/>当固定规则在坍缩轴线上死锁时，个体心智退后一步"]
         D ==>|"任务向外分发；后果从不转移"| I
         I ==>|"认领返回的摩擦"| S
     end
-
     K ==> P1
     K ==> P2
     P1 ==> D
     C ==> D
-
     style S_Field fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Sym fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Del fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -125,7 +121,6 @@ flowchart TD
         direction TB
         K["Dispersed Public Marks<br/>Externalized traces and compressed projections, never a gatherable stock"]
     end
-
     subgraph S_Sym["2. Two Institutional Symptoms of Bounded Capacity"]
         direction TB
         P1["Public Concentration (Severe Mismatch)<br/>Centralizes decision rights and discards local distinctions"]
@@ -135,21 +130,18 @@ flowchart TD
         C["Recreated Concentration<br/>Centralized control operating inside private-property language"]
         P2 --> E --> O --> C
     end
-
     subgraph S_Del["3. The Illusion of Delegation vs Sovereign Orchestration"]
         direction TB
         D["Misallocated Agency (The Delegation Illusion)<br/>Treats institutional rules or automated dispatchers as bearing judgment"]
-        I["Inalienable Causal Return<br/>Tasks and signals route outward; consequence stays locked to the deciding center"]
+        I["Inalienable Causal Return<br/>Tasks and signals route outward; no consequence passes to the instrument, and the return of having chosen stays at the deciding center"]
         S["Sovereign Re-Rendering at the Edge<br/>When fixed rules deadlock on collapsed axes, the individual Mind steps back"]
         D ==>|"Tasks route; consequences never transfer"| I
         I ==>|"Claims returning friction"| S
     end
-
     K ==> P1
     K ==> P2
     P1 ==> D
     C ==> D
-
     style S_Field fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Sym fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Del fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -164,17 +156,17 @@ flowchart TD
     style S fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-[决策与后果的不可约先验](../the-irreducible-prior-of-decision-and-consequence/)将这种不可分离性握持为同一枚活生生的硬币：选择与承受之间看似裂开的缝隙，只是把同一个因果事件放进了两套滞后的描述。[主权、信念与规制结构的生成](../sovereignty-belief-and-regulatory-structures/)追索了当这种不可转移被装扮成委托时，规制大厦是如何竖立起来的：把权威交予外部规则，本身就是当下对主权的一次行使，其后果依然持续登记在做出让渡的那个中心。[索维尔的表象洞察与根因之偏](../sowell-observed-the-surface-problem/)审视了同一先验在激励层面的那一面，指出制度错位只是下游症状，其源头在于观看方式早已把决策与后果想象成坐在不同的席位上。
+[决策与后果的不可约先验](../the-irreducible-prior-of-decision-and-consequence/)把这种不可分离持守为同一枚亲历的硬币：选择与承受之间看似裂开的缝隙，只是把同一个因果事件放进了两套滞后的描述。[主权、信念与规制结构的生成](../sovereignty-belief-and-regulatory-structures/)追索了当这种不可转移被装扮成委托时，规制大厦是如何竖立起来的：把权威交予外部规则，本身就是当下对主权的一次行使，其后果依然持续登记在做出让渡的那个中心。[索维尔的表象洞察与根因之偏](../sowell-observed-the-surface-problem/)审视了同一先验在激励层面的那一面，指出制度错位只是下游症状，其源头在于观看方式早已把决策与后果想象成坐在不同的席位上。
 
 [The Irreducible Prior of Decision and Consequence](../the-irreducible-prior-of-decision-and-consequence/) holds this inseparability as a single lived coin: the apparent split between choosing and bearing only places one causal event under two lagging descriptions. [Sovereignty, Belief, and the Generation of Regulatory Structures](../sovereignty-belief-and-regulatory-structures/) traces how regulatory edifices form when that non-transfer is dressed as delegation: handing authority to an external rule is itself a present exercise of sovereignty whose consequences continue to register at the center that yielded. [Sowell Observed the Surface Problem](../sowell-observed-the-surface-problem/) examines the incentive face of the same prior, showing that institutional misalignment is the downstream symptom of a look that has already imagined decision and consequence as occupying separate seats.
 
-正如[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)在公司治理与人工智能领域所展示的，机械性的任务执行可以毫无预设上限地移交出去，然而主权裁决——损失函数的拟定，以及对法律、财务与生存回响的清算——依然单向度地锁死在活生生的委托人身上。[超越投射](../beyond-the-projection/)进一步厘清了可路由之物与不可路由之物之间的精确架构边界：一个有限的投射，不论是制度性的价格与产权框架，还是将子任务拆分至同行辩论流水线的智能体调度器，都可以路由语境、暴露局部盲区，并在正交要求被硬塞进同一条指令时隔离规则碰撞。然而没有任何调度器、法律法典或市场机制能够变成统御者。正如[你的代码库即是记忆](../your-codebase-is-memory/)针对数字制品与智能体调度框架所确立的，那些规则与轨迹皆是早先区分留下的层叠残余：它们自身并不延续区分，而围绕一个陈旧的检查点囤积保护层只会增厚引力井，直到下一步在累积的框架内部进行合理化，而不是跨出框架之外。当两条规则在投射的边缘陷入不可化约的死锁时，机制无法去请教未投射的活生生的意图；它要么放大扭曲，要么停机，把维度坍缩的精确坐标向上呈交回人类中心——唯有这个中心能够退后一步重审逻辑、拆开混同的轴线，并重切当下的前提。
+正如[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)在公司治理与人工智能领域所展示的，机械性的任务执行——包括以形式文本起草候选目标——可以毫无预设上限地移交出去，然而没有任何后果会转移给工具，而主权裁决——决定哪一损失函数算数，并清算做出抉择所带来的法律、财务与生存回响——依然不可让渡地留在活生生的委托人身上。[超越投射](../beyond-the-projection/)进一步厘清了可路由之物与不可路由之物之间的精确架构边界：一个有限的投射，不论是制度性的价格与产权框架，还是将子任务拆分至同行辩论流水线的智能体调度器，都可以路由语境、暴露局部盲区，并在正交要求被硬塞进同一条指令时隔离规则碰撞。然而没有任何调度器、法律法典或市场机制能够变成统御者。正如[你的代码库即是记忆](../your-codebase-is-memory/)针对数字制品与智能体调度框架所确立的，那些规则与轨迹皆是早先区分留下的层叠残余：它们自身并不延续区分，而围绕一个陈旧的检查点囤积保护层只会增厚引力井，直到下一步在累积的框架内部进行合理化，而不是跨出框架之外。当两条规则在投射的边缘陷入不可化约的死锁时，机制无法去请教未投射的活生生的意图；它要么放大扭曲，要么停机，把维度坍缩的精确坐标向上呈交回人类中心——唯有这个中心能够退后一步重审逻辑、拆开混同的轴线，并重切当下的前提。
 
-As [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) demonstrates across corporate governance and artificial intelligence, mechanical task execution can be delegated without a predetermined ceiling, yet sovereign judgment—the formulation of the loss function and the reckoning with legal, financial, and existential return—remains unidirectionally locked to the living principal. [Beyond the Projection](../beyond-the-projection/) clarifies the exact architectural boundary between what can be routed and what cannot: a finite projection, whether an institutional price-and-property harness or an agentic dispatcher splitting sub-tasks across peer-debate streamlines, can route contexts, expose local blind spots, and quarantine rule collisions when orthogonal requirements have been crammed into a single instruction. Yet no dispatcher, legal code, or market mechanism ever becomes the Orchestrator. As [Your Codebase Is Memory](../your-codebase-is-memory/) establishes for digital artifacts and agentic harnesses alike, those rules and trajectories are stacked residues of prior distinctions: they do not continue the distinguishing, and hoarding protective layers around a stale checkpoint only thickens the gravity well until the next step rationalizes inside the accumulated frame instead of stepping outside it. When two rules collide in an irreducible deadlock at the edge of a projection, the mechanism cannot consult unprojected living intent; it either compounds the distortion or halts, escalating the exact coordinate of dimensional collapse back to the human center, who alone can step further back logically, separate the conflated axes, and re-cut the present premise.
+As [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) demonstrates across corporate governance and artificial intelligence, mechanical task execution—including the formal drafting of candidate objectives—can be delegated without a predetermined ceiling, yet no consequence ever transfers to the tool, and sovereign judgment—deciding which loss function counts and reckoning with the legal, financial, and existential return of having chosen—stays inalienable at the living principal. [Beyond the Projection](../beyond-the-projection/) clarifies the exact architectural boundary between what can be routed and what cannot: a finite projection, whether an institutional price-and-property harness or an agentic dispatcher splitting sub-tasks across peer-debate streamlines, can route contexts, expose local blind spots, and quarantine rule collisions when orthogonal requirements have been crammed into a single instruction. Yet no dispatcher, legal code, or market mechanism ever becomes the Orchestrator. As [Your Codebase Is Memory](../your-codebase-is-memory/) establishes for digital artifacts and agentic harnesses alike, those rules and trajectories are stacked residues of prior distinctions: they do not continue the distinguishing, and hoarding protective layers around a stale checkpoint only thickens the gravity well until the next step rationalizes inside the accumulated frame instead of stepping outside it. When two rules collide in an irreducible deadlock at the edge of a projection, the mechanism cannot consult unprojected living intent; it either compounds the distortion or halts, escalating the exact coordinate of dimensional collapse back to the human center, who alone can step further back logically, separate the conflated axes, and re-cut the present premise.
 
 ## 七、 能动性从未离开个人 / 7. Agency Has Never Left the Individual
 
-每一种制度安排、产权体制与形式框架，都依然是次一层的、暂时的脚手架。区分与后果持久驻留的位点，始终是个体中心；其抉择与回响无法被外包，因为物理与社会的摩擦总是落在活生生的人身上，从不落在一本抽象的规章手册上。剩下的工夫，不是去设计一套终极的、自我执行的制度模板来免除心智掌舵的责任；对那个正在做决定的人而言，是在诠释的滞后中不断收窄裂隙，把能动性带回它唯一运作过的那个位点。
+每一种制度安排、产权体制与形式框架，都依然是次一层的、暂时的脚手架。区分与后果持久驻留的位点，始终是个体中心；其抉择与回响无法被外包，因为物理与社会的摩擦总是落在活生生的人身上，从不落在一本抽象的规章手册上。剩下的工夫，不是去设计一套终极的、自我执行的制度模板，让心智从此不必掌舵；对那个正在做决定的人而言，是在诠释的滞后中不断收窄裂隙，把能动性带回它唯一运作过的那个位点。
 
 Every institutional arrangement, property regime, and formal harness remains secondary and provisional scaffolding. The enduring locus of both distinguishing and consequence is the individual center, whose choices and their returns cannot be outsourced because physical and social friction lands on living persons, never on an abstract rulebook. The work that remains is not to engineer a final, self-enforcing institutional template that relieves the mind of steering; for the one deciding, it is to keep narrowing the lag of interpretation by bringing agency back to the only locus where it has ever operated.
 

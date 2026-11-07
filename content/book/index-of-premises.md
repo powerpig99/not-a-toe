@@ -308,9 +308,9 @@ Raymond treats software engineering as an enduring craft expanding across abstra
 ### 埃里克·施维茨格贝尔 / Eric Schwitzgebel
 `哲学 / Philosophical`
 
-施维茨格贝尔推演唯物功能主义会得出国家具备意识的结论；归谬论证精妙有力，指出了单纯行为判据的认识论破绽。
+施维茨格贝尔从唯物主义功能主义出发论证：如果意识不外乎物质排列、信息整合与目标导向的公共行为，且空间上的毗连并无特权，那么像美国这样分布式的集体本身大概便是一个有意识的主体；这一论证在撤除任意的解剖学限制之后把第三人称行为与组织清单所暗含的承诺挑明时依然有用，而其边界在于：这份清单先在源头减去了设计、维护并解释那些公共结构的活生生的第一人称观察者，继而把他们的残余痕迹物化为一个涌现的宏观主体，却并未为该集体推导出“是什么样子”。
 
-Schwitzgebel argued materialism implies that if functionalism holds, the United States is conscious; ingenious as a reductio, it highlights the absurdity of purely behavioral criteria.
+Schwitzgebel argues from materialist functionalism that if consciousness consists in material arrangement, informational integration, and goal-directed public behavior without privilege for spatial contiguity, a distributed collective such as the United States is probably a conscious subject in its own right; this is of use in making explicit what a third-person behavioral and organizational checklist commits to once arbitrary anatomical restrictions are dropped, and reaches its boundary in that the inventory first subtracts at the source the living first-person observers who design, maintain, and interpret those public structures and then reifies their residual traces into an emergent macro-subject without deriving a "what it is like" for the collective.
 
 → [集聚与人造主体性 / Collective and Artificial Subjectivity](../../posts/subtracting-consciousness-at-the-source/)
 
@@ -587,9 +587,9 @@ McShane grounds agent cognition in explicit linguistic microtheories; valuable f
 ### 迈克尔·莱文 / Michael Levin
 `科学 / Scientific`
 
-莱文揭示了跨越尺度的生物电模式与形态调控；开辟了再生医学新境，但其潜空间渗入模型依然试图从客体视角推导主体。
+莱文把解剖学形态发生与跨尺度可塑性建模为细胞集合体寻址目标形态的过程，这些目标形态从一个结构化的潜在形态空间渗入，这在再生医学与生物电重编程中有用；它在此到了边界：任何可复现的生物电—解剖学映射都会坍缩为扩展后的确定性规律，而任何不可复现的残余皆无法与噪声区分，因此二者均无法从外化的形式框架中推导出第一人称主体。
 
-Levin demonstrated developmental bioelectric agency across scales; groundbreaking for regenerative medicine, his model of agency ingression still assumes an externalized mechanistic frame.
+Levin models anatomical morphogenesis and multi-scale plasticity as cellular collectives addressing target forms that ingress from a structured latent morphospace, which is of use in regenerative medicine and bioelectric reprogramming; it reaches its boundary in that any reproducible bioelectric–anatomical mapping collapses into expanded deterministic regularity and any irreproducible residue is indistinguishable from noise, so neither derives the first-person subject from an externalized formal frame.
 
 → [主体性不曾涌现 / Agency Does Not Arise](../../posts/agency-does-not-arise/)
 
@@ -1073,9 +1073,9 @@ The Dunning–Kruger effect presumes that the gap between confidence and compete
 ### 意识涌现论 / Emergence of Consciousness
 `科学 / Scientific`
 
-假定主观体验能由无意识的物质复杂排列自发产生；推动了神经科学探索，却在范畴上试图用客体现象推导观察者本身。
+意识涌现论预设第一人称觉知与主体性会在粗粒化尺度上由无意识物质的复杂排列生成，这在组织神经与动力学相关物的第三人称模型时有用；它在此到了边界：对封闭确定性系统进行粗粒化只会改变描述长度，并不会生成新的独立变量，因此该理论无法从观察与抉择主体自身已划出的下游痕迹中反推出这一主体。
 
-Presumes conscious awareness arises mechanistically from non-conscious material interactions; helpful for cognitive neuroscience, it commits a category leap by trying to generate the subject.
+The emergence of consciousness presumes that first-person awareness and agency arise at coarser scales from complex arrangements of non-conscious matter, which is of use in organizing third-person models of neural and dynamical correlates; it reaches its boundary in that coarse-graining a closed deterministic system alters only description length without generating a new independent variable, so the theory cannot derive the observing and choosing subject from downstream traces that subject has already drawn.
 
 → [主体性不曾涌现 / Agency Does Not Arise](../../posts/agency-does-not-arise/)
 
@@ -1167,7 +1167,7 @@ Functional hierarchy presumes that rank precipitates from differences in capacit
 
 Functionalism defines mental states by causal role on the premise that the describer can stand outside the mind described; the premise fails once the theory is extended to the mind holding it, since both serious endorsement and the reduction of subjectivity must occupy the observer position it erases, while as a tool for describing multiply realizable information processing and guiding system design it remains sharp and useful.
 
-→ [功能主义者无法持有的功能主义 / The Functionalism No Functionalist Can Hold](../../posts/the-functionalism-no-functionalist-can-hold/) · [无法闭合的痕迹 / The Unclosable Trace](../../posts/the-unclosable-trace/) · [飞行的类比碰不到心智 / The Flight Analogy Leaves the Mind Untouched](../../posts/the-flight-analogy-leaves-the-mind-untouched/)
+→ [功能主义者无法持有的功能主义 / The Functionalism No Functionalist Can Hold](../../posts/the-functionalism-no-functionalist-can-hold/) · [无法闭合的痕迹 / The Unclosable Trace](../../posts/the-unclosable-trace/) · [飞行的类比碰不到心智 / The Flight Analogy Leaves the Mind Untouched](../../posts/the-flight-analogy-leaves-the-mind-untouched/) · [集聚与人造主体性 / Collective and Artificial Subjectivity](../../posts/subtracting-consciousness-at-the-source/)
 
 ### AGI功能主义理论 / Functionalist Theory of AGI
 `技术 / Technological`
