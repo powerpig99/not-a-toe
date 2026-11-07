@@ -70,3 +70,8 @@ The essays in this part trace the category boundaries of the Turing and Einstein
 - [递归区分的架构 / The Architecture of Recursive Distinction](../../posts/architecture-of-recursive-distinction/)
 - [冻结的切口与回环的余量 / The Frozen Cut and the Margin of the Loop](../../posts/the-frozen-cut-and-the-margin-of-the-loop/)
 - [盲目的切分与命名的心智 / The Blind Cut and the Naming Mind](../../posts/the-blind-cut-and-the-naming-mind/)
+- [抽象、决定，与主流机器学习的三大结构性症结 / Abstraction, Determination, and the Three Structural Flaws of Machine Learning](../../posts/abstraction-determination-and-the-three-structural-flaws-of-machine-learning/)
+- [超越卷积与注意力机制的决定漏斗 / The Determination Funnel Beyond Convolutions and Attention](../../posts/the-determination-funnel-beyond-convolutions-and-attention/)
+- [影子没有损失 / The Shadow Has No Loss](../../posts/the-shadow-has-no-loss/)
+- [离散的折叠 / The Discrete Fold](../../posts/the-discrete-fold/)
+- [指令与载荷的双重切分 / The Dual Cut of Command and Payload](../../posts/the-dual-cut/)

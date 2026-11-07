@@ -45,3 +45,4 @@ The essays in this part explore illegible long-term compounding, the difference 
 - [主体性的折现 / The Discount on Agency](../../posts/the-discount-on-agency/)
 - [未历摩擦的心智与借来的全能 / The Unfrictioned Mind and Borrowed Omnipotence](../../posts/the-unfrictioned-mind-and-borrowed-omnipotence/)
 - [隐性自由变量与权力的事后幻相 / The Invisible Free Variable and the Retrospective Illusion of Power](../../posts/the-free-variable-and-the-retrospective-illusion-of-power/)
+- [幸福是欲望与状态的关系 / Happiness Is the Relation of Desire to State](../../posts/happiness-is-the-relation-of-desire-to-state/)

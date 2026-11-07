@@ -362,11 +362,11 @@ Hinton's functionalist account equates mind and conscious experience with utilit
 ### 以更大之善为压过的依据 / The Greater Good as Warrant to Override
 `哲学 / Philosophical`
 
-以更大之善为依据的说法预设，一个对更大之善足够确信的中心，有权压过不同意者的判断，在一个中心私下持守关于善与威胁的判断、并让它与下一个动作连续可修订时有用；它在此到了边界：这一步需要一对确信，对自己道德可靠的确信与对异议者有所欠缺的确信，它只在别人的自由顺从中变密为容器，善一旦被视为理所当然，便让它自己的依据过期而走向反面，英雄被重新归类为恶人，而制度只是这笔交易的残余，唯一持久的打断，是每一个位置上对任何确信自动有权压过独立判断的一再拒绝。
+以更大之善为依据的说法预设，一个对更大之善足够确信的中心，有权压过不同意者的判断，在一个中心私下持守关于善与威胁的判断、并让它与下一个动作连续可修订时有用；它在此到了边界：这一步需要一对确信，对自己道德可靠的确信与对异议者有所欠缺的确信，它只在别人的自由顺从中变密为容器，善一旦被视为理所当然，便让它自己的依据过期而走向反面，英雄被重新归类为恶人，而制度只是这笔交易的残余，一项受目的约束的观察，无论由原初的言说者还是后来的诠释者重述为要求个体判断退让的权威要求，都同样离开了观察语域，唯一持久的打断，是每一个位置上对任何确信自动有权压过独立判断的一再拒绝。
 
-The greater good as warrant presumes that a center sufficiently certain of a greater good is entitled to override the judgment of those who disagree, which is of use where a center holds its judgment of good and threat privately, revisable and continuous with its next act; it reaches its boundary in that the move needs a dual certainty, of one's own moral reliability and of dissenters' deficiency, it densifies into a vessel only through others' free compliance, the good once taken for granted expires its own warrant and becomes its opposite, heroes are reclassified as villains, institutions are residue of the transaction, and the only durable interruption is repeated refusal at each locus to treat any conviction as automatically entitled to override independent judgment.
+The greater good as warrant presumes that a center sufficiently certain of a greater good is entitled to override the judgment of those who disagree, which is of use where a center holds its judgment of good and threat privately, revisable and continuous with its next act; it reaches its boundary in that the move needs a dual certainty, of one's own moral reliability and of dissenters' deficiency, it densifies into a vessel only through others' free compliance, the good once taken for granted expires its own warrant and becomes its opposite, heroes are reclassified as villains, institutions are residue of the transaction, restating a purpose-bound observation—by either the original speaker or a later interpreter—as an authoritative requirement that individual judgment yield leaves the observational register in the same way, and the only durable interruption is repeated refusal at each locus to treat any conviction as automatically entitled to override independent judgment.
 
-→ [外化善意走向其反面 / Externalized Virtue Becomes Its Opposite](../../posts/externalized-virtue-becomes-its-opposite/)
+→ [外化善意走向其反面 / Externalized Virtue Becomes Its Opposite](../../posts/externalized-virtue-becomes-its-opposite/) · [“共享”的两种读法与观察的边界 / The Two Readings of Shared and the Observational Bound](../../posts/the-two-readings-of-shared-and-the-observational-bound/)
 
 ### 杰里德·杜克·利希特曼 / Jared Duker Lichtman
 `科学 / Scientific`
@@ -560,11 +560,11 @@ Mises deduces economics from human action axioms; brilliant for dismantling soci
 ### 路德维希·维特根斯坦 / Ludwig Wittgenstein
 `哲学 / Philosophical`
 
-“哲学问题即语言问题”的立场把语言当作世界，在追查概念如何被语言塑形时有用；它在此到了边界：意义产生于意识对语言的解读，语言的框架是有用的仪器，却不是判定异同的地基。
+“哲学问题即语言问题”的立场把语言当作世界，在追查概念如何被语言塑形时有用；它在此到了边界：意义产生于意识对语言的解读，语言的框架是有用的仪器，却不是判定异同的地基，即便两分句撤回序列带有显式时间标记，标记也只是呈现先后次序而无法强迫接收者以何种方式跟随——模型输出何种建构由其先前的训练筛选，而读者把何种建构领会为意义则是从既定注意习惯中做出的自身行动。
 
-The stance that the problems of philosophy are problems of language treats language as the world, which is of use in tracing how concepts are shaped by language; it reaches its boundary in that meaning arises in consciousness's interpretation of language, so the frame of language is a useful instrument, not the ground for judging what is the same and what differs.
+The stance that the problems of philosophy are problems of language treats language as the world, which is of use in tracing how concepts are shaped by language; it reaches its boundary in that meaning arises in consciousness's interpretation of language, so the frame of language is a useful instrument, not the ground for judging what is the same and what differs, and even explicit temporal markers in a two-clause withdrawal only present an ordered passage without compelling how it is followed, since prior training selects which construction a model's output carries while the construction a reader takes up as sense is the reader's own act from within settled habits of attention.
 
-→ [读《中文哲学简史》有感 / Reflections on A Short History of Philosophy in Chinese](../../posts/du-zhongwen-zhexue-jianshi-you-gan/)
+→ [读《中文哲学简史》有感 / Reflections on A Short History of Philosophy in Chinese](../../posts/du-zhongwen-zhexue-jianshi-you-gan/) · [接续阅读与协商中的语言边界 / Successive Reading and the Negotiated Boundary of Language](../../posts/successive-reading-and-the-negotiated-boundary-of-language/)
 
 ### 马丁·海德格尔 / Martin Heidegger
 `哲学 / Philosophical`
@@ -1073,11 +1073,11 @@ The Dunning–Kruger effect presumes that the gap between confidence and compete
 ### 意识涌现论 / Emergence of Consciousness
 `科学 / Scientific`
 
-意识涌现论预设第一人称觉知与主体性会在粗粒化尺度上由无意识物质的复杂排列生成，这在组织神经与动力学相关物的第三人称模型时有用；它在此到了边界：对封闭确定性系统进行粗粒化只会改变描述长度，并不会生成新的独立变量，因此该理论无法从观察与抉择主体自身已划出的下游痕迹中反推出这一主体。
+意识涌现论预设第一人称觉知与主体性会在粗粒化尺度上由无意识物质的复杂排列生成，这在组织神经与动力学相关物的第三人称模型时有用；它在此到了边界：对封闭确定性系统进行粗粒化只会改变描述长度，并不会生成新的独立变量，因此该理论无法从观察与抉择主体自身已划出的下游痕迹中反推出这一主体，且由于所谓大脑或神经网络本就是一次观察之内登记到的中间尺度共同同一性，要求它生成观察本身无异于要求被观察的后验走在观察着的先验之前。
 
-The emergence of consciousness presumes that first-person awareness and agency arise at coarser scales from complex arrangements of non-conscious matter, which is of use in organizing third-person models of neural and dynamical correlates; it reaches its boundary in that coarse-graining a closed deterministic system alters only description length without generating a new independent variable, so the theory cannot derive the observing and choosing subject from downstream traces that subject has already drawn.
+The emergence of consciousness presumes that first-person awareness and agency arise at coarser scales from complex arrangements of non-conscious matter, which is of use in organizing third-person models of neural and dynamical correlates; it reaches its boundary in that coarse-graining a closed deterministic system alters only description length without generating a new independent variable, so the theory cannot derive the observing and choosing subject from downstream traces that subject has already drawn, and because what is called a brain or a neural network is already a mid-scale collective identity registered within an observation, asking it to generate the observing asks the observed posterior to precede the observing prior.
 
-→ [主体性不曾涌现 / Agency Does Not Arise](../../posts/agency-does-not-arise/)
+→ [主体性不曾涌现 / Agency Does Not Arise](../../posts/agency-does-not-arise/) · [抽象、决定，与主流机器学习的三大结构性症结 / Abstraction, Determination, and the Three Structural Flaws of Machine Learning](../../posts/abstraction-determination-and-the-three-structural-flaws-of-machine-learning/)
 
 ### 熵引力 / Entropic Gravity
 `科学 / Scientific`
@@ -1649,11 +1649,11 @@ Presumes physical reality is computational software running on an external compu
 ### 社会契约论 / Social Contract Theory
 `哲学 / Philosophical`
 
-社会契约论把社会呈现为一种需要被正当化的约束，在追问制度凭什么约束人时有用；它在此到了边界：社会契约描述的是个人为协调与承诺而自由做出的选择的聚合痕迹，这份痕迹成为后来的自由选择所依托的背景，而不是从外部压下的枷锁。
+社会契约论把社会呈现为一种需要被正当化的约束，在追问制度凭什么约束人时有用；它在此到了边界：主权由每一个行动着的心智依本性持有，而非由承认、选举或立约之时的让渡所授予，社会契约描述的是个人为协调与承诺而自由做出的选择的聚合痕迹，这份痕迹成为后来的自由选择所依托的背景，而不是从外部压下的枷锁，不同惯例之间变化的只是功劳、归责与下一步判断在行动边缘被登记的宽度。
 
-Social contract theory presents society as a constraint that must be justified, which is of use in asking by what right institutions bind people; it reaches its boundary in that the social contract describes the aggregated trace of choices freely made to coordinate and commit, a trace that becomes the background for later free choices rather than chains pressed on from outside.
+Social contract theory presents society as a constraint that must be justified, which is of use in asking by what right institutions bind people; it reaches its boundary in that sovereignty is held by nature at every acting Mind rather than conferred by recognition, election, or founding transfer, and the social contract describes the aggregated trace of choices freely made to coordinate and commit—a trace that becomes the background for later free choices rather than chains pressed on from outside, while what varies across conventions is only how widely credit, blame, and next-step judgment are registered at the acting edge.
 
-→ [自由即地基 / Freedom as Ground](../../posts/freedom-as-ground/)
+→ [自由即地基 / Freedom as Ground](../../posts/freedom-as-ground/) · [行使的残余与政治的稳定 / The Residue of Exercise and the Stabilization of Politics](../../posts/the-residue-of-exercise-and-the-stabilization-of-politics/)
 
 ### 狭义相对论 / Special Relativity
 `科学 / Scientific`
@@ -1861,6 +1861,15 @@ Presumes a chooser within evolution that picked out a species; the word "selecti
 Lauren Tan builds and dispatches agentic workflows through a personal skill stack, which is highly effective in externalizing task contexts and verification loops into modular execution streamlines; it reaches its boundary in that every explicit skill stack remains a finite projection, keeping the toolchain from freezing into dogma only while the human operator holds orchestration at the steering edge and steps back to revise premises whenever local loops deadlock.
 
 → [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/) · [按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step](../../posts/on-demand-contexts-keep-coherence-at-one-step/)
+
+### 杨立昆与联合嵌入预测架构 / Yann LeCun and Joint-Embedding Predictive Architectures (JEPA)
+`技术 / Technological`
+
+杨立昆的联合嵌入预测架构（JEPA）将训练评估从表层像素或词元空间移入抽象表征空间（ℰ(E_out) ≈ ℰ(E_ref)），这在舍弃与任务正交的表层变化、无需逐一重建表达细节时有其效用；当表征匹配与编码输入流残差惊奇的容量代价脱钩，使得 0 = 0 的表征坍缩只能靠外加方差惩罚或非对称停止梯度与指数移动平均工程、而非耦合预测容量预算来阻断时，这一架构便到达了边界。
+
+LeCun's Joint-Embedding Predictive Architecture (JEPA) moves training evaluation from surface pixel or token space into abstract representation space (ℰ(E_out) ≈ ℰ(E_ref)), which is of use in discarding surface variation orthogonal to a task instead of reconstructing every detail of an expression; it reaches its boundary when representation matching is decoupled from the capacity cost of coding residual stream surprise over the incoming stream, leaving 0 = 0 representation collapse to be blocked by external variance penalties or asymmetric stop-gradient and EMA engineering rather than by a coupled predictive capacity budget.
+
+→ [影子没有损失 / The Shadow Has No Loss](../../posts/the-shadow-has-no-loss/)
 
 ## 概念 / Concepts
 
@@ -2240,7 +2249,7 @@ Presumes "better" is an observer-independent attribute inside an artifact rather
 
 Treating an observed path as causation is of use in proposing hypotheses to test; it reaches its boundary in that counterfactuals can never be observed directly, salient nodes are contributing factors, and attribution error can be narrowed but never eliminated.
 
-→ [关于归因 / On Attribution](../../posts/guan-yu-gui-yin/)
+→ [关于归因 / On Attribution](../../posts/guan-yu-gui-yin/) · [幸福是欲望与状态的关系 / Happiness Is the Relation of Desire to State](../../posts/happiness-is-the-relation-of-desire-to-state/)
 
 ### 因果作为第一人称先验 / Causality as First-Person Prior
 `哲学 / Philosophical`
@@ -2344,11 +2353,11 @@ Cognitive scaffolding treats external prompts, tools, and wrapper code as a temp
 ### 共享即共同性 / Sharedness as Commonality
 `哲学 / Philosophical`
 
-把“共享”读作共同性的持守，预设共享意识、共享价值或共同信念是一池跨越心智而被持有的相同特质，于是统一可以靠制造同一来达成，在指认一群人确实能够协调行动时有用；它在此到了边界：共享是一个心智登记到的不同个体性之间不完整的交集，不需要另一边的互补登记，理解是暂时不去登记余下的差异，而把个体性逼成同一，就抹去了交集得以被登记的唯一条件。
+把“共享”读作共同性的持守，预设共享意识、共享价值或共同信念是一池跨越心智而被持有的相同特质，于是统一可以靠制造同一来达成，在指认一群人确实能够协调行动时有用；它在此到了边界：共享是一个心智登记到的不同个体性之间不完整的交集，不需要另一边的互补登记，理解是暂时不去登记余下的差异，把个体性逼成同一，就抹去了交集得以被登记的唯一条件，而在“共享”指称吸纳性单元之处，个体主权——决定、修正与退出的能力——早已被拿去换取归属的确定性。
 
-The hold that reads "shared" as commonality presumes that shared consciousness, shared value, or shared belief is a pool of identical traits held across Minds, so that unity can be reached by manufacturing identity, which is of use in naming that a group can indeed coordinate its action; it reaches its boundary in that sharedness is incomplete intersection of distinct individualities registered by one Mind, needing no complementary registration on the other side, understanding is the temporary non-registration of residual difference, and forcing individualities into identity erases the only condition under which intersection can register.
+The hold that reads "shared" as commonality presumes that shared consciousness, shared value, or shared belief is a pool of identical traits held across Minds, so that unity can be reached by manufacturing identity, which is of use in naming that a group can indeed coordinate its action; it reaches its boundary in that sharedness is incomplete intersection of distinct individualities registered by one Mind, needing no complementary registration on the other side, understanding is the temporary non-registration of residual difference, forcing individualities into identity erases the only condition under which intersection can register, and where "shared" names an absorptive unit, individual sovereignty—the capacity to decide, correct, and exit—has already been exchanged for the certainty of belonging.
 
-→ [共享意识是个体性的交集 / Shared Consciousness Is Intersecting Individualities](../../posts/shared-consciousness-is-intersecting-individualities/)
+→ [共享意识是个体性的交集 / Shared Consciousness Is Intersecting Individualities](../../posts/shared-consciousness-is-intersecting-individualities/) · [“共享”的两种读法与观察的边界 / The Two Readings of Shared and the Observational Bound](../../posts/the-two-readings-of-shared-and-the-observational-bound/)
 
 ### 集体责任均摊 / Collective Responsibility
 `意识形态 / Ideological`
@@ -2452,11 +2461,11 @@ Technological hubris views constraints as defects to be erased; structural bound
 ### 上下文工程 / Context Engineering
 `技术 / Technological`
 
-上下文工程预设填充Token窗口便等同于达成理解；对信息检索有效，却混淆了信息贴近度与语义根基。
+上下文工程预设填充Token窗口便等同于达成理解；对信息检索、以及对提供局部边界条件（C_local）以便从基座模型的无条件边际混合分布 P(E) = ∫ P(E|C)P(C)dC 中选出立场鲜明的条件模态 P(E|C_local) 有效，却混淆了信息贴近度与语义根基，在每次切换时付出重读数千个原始技能与模式定义词元的表层影子切换代价而非直接调用已编译的潜层算子或活生生的心智所持有的非符号先验，并且在保留原始键值档案仍有其效用的逐字精确复制之外，除非将先前的轮次整固为改写后的表层状态工件 Sₜ = f_{cmd(Pₜ)}(Sₜ₋₁, in(Pₜ)) 并由外环心智发出下一步的 Pₜ，否则每一步都将继续重扫不断膨胀的历史记录。
 
-Context engineering presumes token window stuffing replicates shared understanding; highly effective for retrieval, it confuses informational proximity with semantic grounding.
+Context engineering presumes token window stuffing replicates shared understanding; highly effective for retrieval and for supplying a local boundary condition (C_local) that selects a committed conditional mode P(E|C_local) out of a base model's unconditioned marginal mixture P(E) = ∫ P(E|C)P(C)dC, it confuses informational proximity with semantic grounding, pays the surface-shadow switching cost of re-reading thousands of raw skill and schema tokens on every switch rather than invoking a compiled latent operator or the living Mind's non-symbolic priors, and beyond verbatim recall, where the raw KV archive keeps its use, re-searches a growing transcript at every step unless prior turns are consolidated into a rewritten state artifact Sₜ = f_{cmd(Pₜ)}(Sₜ₋₁, in(Pₜ)) whose next Pₜ the outer-loop Mind issues.
 
-→ [层层皆是语境 / Context All the Way Down](../../posts/context-engineering-essay/) · [机器智能作为人类智能的组合反馈回路 / Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence](../../posts/machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/)
+→ [层层皆是语境 / Context All the Way Down](../../posts/context-engineering-essay/) · [机器智能作为人类智能的组合反馈回路 / Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence](../../posts/machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence/) · [影子没有损失 / The Shadow Has No Loss](../../posts/the-shadow-has-no-loss/) · [指令与载荷的双重切分 / The Dual Cut of Command and Payload](../../posts/the-dual-cut/)
 
 ### 相关与因果 / Correlation and Causation
 `科学 / Scientific`
@@ -2560,11 +2569,11 @@ Compressing many-dimensional reality into low-threshold slogans, conclusions and
 ### 维度作为坐标投影 / Dimensions as Coordinate Projections
 `科学 / Scientific`
 
-物理、宇宙学与日常常识把维度当成事先存在的容器，事件在其中展开；维度是心智为了索引区分而投出的压缩，关系生于压缩，次序生于投影，这一预设在投出维度的那一位那里到了边界，作为导航、计算与建模的坐标系，维度依然不可少。
+物理、宇宙学、机器学习与日常常识把维度当成事先存在的容器，事件在其中展开，或把为求线性可分而投射出的宽阔外在坐标向量（d = 4096）等同于高维潜空间，反倒将一维文本、二维图像与三维视频视作低维；维度是心智为了索引区分而投出的压缩，关系生于压缩，次序生于投影，在选定尺度上将各自独立的表层变化折叠收摄为共同同一性会将内在自由度收缩进更低维的潜层流形，这一预设在投出维度的那一位那里到了边界，作为导航、计算与建模的坐标系，维度依然不可少。
 
-Physics, cosmology and common sense treat dimensions as pre-existing containers in which events unfold; dimensions are compressions the Mind projects to index distinctions, relation arising through compression and order through projection, so the premise reaches its boundary at the one projecting the dimensions, while as coordinate systems for navigating, calculating and modelling, dimensions stay indispensable.
+Physics, cosmology, machine learning, and common sense treat dimensions as pre-existing containers in which events unfold or equate a wide ambient coordinate vector (d = 4096, projected for linear separability) with a high-dimensional latent space while treating 1D text, 2D images, and 3D video as low-dimensional; dimensions are compressions the Mind projects to index distinctions, relation arising through compression and order through projection, and folding independent surface variations into a collective identity at a chosen scale contracts intrinsic degrees of freedom into a lower-dimensional latent manifold, so the premise reaches its boundary at the one projecting the dimensions, while as coordinate systems for navigating, calculating, and modeling, dimensions stay indispensable.
 
-→ [维度即投影 / Dimensions Are Projections](../../posts/dimensions-are-projections/)
+→ [维度即投影 / Dimensions Are Projections](../../posts/dimensions-are-projections/) · [抽象、决定，与主流机器学习的三大结构性症结 / Abstraction, Determination, and the Three Structural Flaws of Machine Learning](../../posts/abstraction-determination-and-the-three-structural-flaws-of-machine-learning/)
 
 ### 生命成长的主体性折现 / Discounting Agency as Capital Return
 `经济 / Economic`
@@ -2578,11 +2587,11 @@ Presumes an individual's success is a quantifiable return on parental and instit
 ### 错置的因果归因 / Displaced Causal Attribution
 `哲学 / Philosophical`
 
-将能力、损害或受限感归因于外部器物、他人或制度结构，在日常协同中作为指认邻近触发条件与环境媒介的简写时有用；其边界在于：无论是把能力跃迁归功于工具、把萎缩归咎于工具，还是把回绝局部代价后随之而来的限制记在外部结构名下，都隐去了正在接纳、拒斥或等待的第一人称选择，而后果与校准只会在做出选择的那条回路内部登记。
+将能力、损害或受限感归因于外部器物、他人或制度结构，在日常协同中作为指认邻近触发条件与环境媒介的简写时有用；其边界在于：无论是把能力跃迁归功于工具、把萎缩归咎于工具、把“叛逆期”之类的语词标签谴责为自主运作的施害主体，还是把回绝局部代价后随之而来的限制记在外部结构名下，都隐去了正在接纳、拒斥或等待的第一人称选择，而后果与校准只会在做出选择的那条回路内部登记。
 
-Attributing capability, harm, or felt constraint to external instruments, other people, or institutional structures is of use as a shorthand for pointing out proximate triggers and environmental media in everyday coordination; it reaches its boundary in that crediting a tool with a leap or blaming it for atrophy, or crediting an outside structure with the limitation that follows from declining a local cost, omits the ongoing first-person choice that accepts, refuses, or waits, whereas consequences and calibration register only inside the loop that makes the choice.
+Attributing capability, harm, or felt constraint to external instruments, other people, or institutional structures is of use as a shorthand for pointing out proximate triggers and environmental media in everyday coordination; it reaches its boundary in that crediting a tool with a leap or blaming it for atrophy, condemning a linguistic label such as "rebellious period" as an autonomous agent of harm, or crediting an outside structure with the limitation that follows from declining a local cost, omits the ongoing first-person choice that accepts, refuses, or waits, whereas consequences and calibration register only inside the loop that makes the choice.
 
-→ [错置的因果与心智编译器 / Misplaced Causality and the Mind's Compiler](../../posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi/) · [能动性、矛盾与权力的移置 / Agency, Contradiction, and the Relocation of Power](../../posts/agency-contradiction-and-the-relocation-of-power/)
+→ [错置的因果与心智编译器 / Misplaced Causality and the Mind's Compiler](../../posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi/) · [能动性、矛盾与权力的移置 / Agency, Contradiction, and the Relocation of Power](../../posts/agency-contradiction-and-the-relocation-of-power/) · [叛逆是症状而非属性 / Rebellion as Symptom, Not Property](../../posts/rebellion-as-symptom-not-property/)
 
 ### 颠覆例外论 / Disruption Exceptionalism
 `哲学 / Philosophical`
@@ -2605,11 +2614,11 @@ Presumes distance is an observer-independent metric interval; effective for geom
 ### 恶由执念投射而生 / Egoic Origin of Malice
 `哲学 / Philosophical`
 
-神学教条把恶描绘为外来的邪灵污染；恶意实则源于自我执念为固守偏狭形象，对任何不合己意的现实施加敌意。
+神学教条把恶描绘为外来的邪灵污染；恶意实则源于自我执念为固守偏狭形象，对任何不合己意的现实施加敌意，在亲子边界重议中，只要中心执着于维护自身作为耐心监护者或清醒揭露者的善意自我形象，便需要把关系中的抵触投射为病态或蓄意伤害，置于可调整的互动之外。
 
-Theological dogmas project evil as an invasive demonic entity; malice originates when a center stubbornly defends a rigid self-image against external correction.
+Theological dogmas project evil as an invasive demonic entity; malice originates when a center stubbornly defends a rigid self-image against external correction, as when holding onto a benevolent self-image—whether as a patient guardian enduring a developmental stage or an enlightened critic unmasking a malicious word—requires casting relational pushback as pathology or deliberate harm outside the adjustable interaction.
 
-→ [恶是心智自己的造物 / Evil as the Mind's Own Creation](../../posts/evil-as-the-minds-own-creation/)
+→ [恶是心智自己的造物 / Evil as the Mind's Own Creation](../../posts/evil-as-the-minds-own-creation/) · [叛逆是症状而非属性 / Rebellion as Symptom, Not Property](../../posts/rebellion-as-symptom-not-property/)
 
 ### 共情作为道德灵丹 / Empathy as Moral Panacea
 `哲学 / Philosophical`
@@ -2794,11 +2803,11 @@ Being oneself is read as keeping a sealed, unchanging self, which is of use in w
 ### 固定蛋糕（零和）思维 / Fixed-Pie (Zero-Sum) Thinking
 `经济 / Economic`
 
-固定蛋糕思维假定一份集体存量先于产生它的行动而存在，在讨论既有资源的分配时有用；它在此到了边界：一旦以蛋糕为单位，分配与做大都把生产从离散的个人动作上挪开。
+固定蛋糕思维假定一份集体存量先于产生它的行动而存在，在讨论既有资源的分配时有用；它在此到了边界：一旦以蛋糕为单位，分配与做大都把生产从离散的个人动作上挪开，把经济分布的底部当作等待均分的静态存量忽略了绝对底线实则是处于前沿位置的心智不断生成并经由后续模仿、采纳与替代向下游扩散的产能后随边缘。
 
-Fixed-pie thinking assumes a collective stock exists prior to the acts producing it, which is of use in discussing the division of existing resources; it reaches its boundary in that once the pie is the unit, both division and expansion relocate production from discrete individual acts.
+Fixed-pie thinking assumes a collective stock exists prior to the acts producing it, which is of use in discussing the division of existing resources; it reaches its boundary in that once the pie is the unit, both division and expansion relocate production from discrete individual acts, and treating the bottom of an economic distribution as a static stock awaiting equalization misses that the absolute floor is the trailing edge of capacity generated by Minds at the frontier and diffused downstream through subsequent imitation, adoption, and substitution.
 
-→ [剩余个人主义 / Residual Individualism](../../posts/residual-individualism/) · [成功的几何学 / The Geometry of Success](../../posts/the-geometry-of-success/)
+→ [剩余个人主义 / Residual Individualism](../../posts/residual-individualism/) · [成功的几何学 / The Geometry of Success](../../posts/the-geometry-of-success/) · [前沿抬升底线 / The Frontier Lifts the Floor](../../posts/the-frontier-lifts-the-floor/)
 
 ### 形式定律与现实摩擦 / Formal Laws vs Lived Friction
 `科学 / Scientific`
@@ -3068,7 +3077,7 @@ Better incentive design presumes one mind can solve others' problems; misalignme
 
 Presumes that aggregates, generations, or environmental conditions such as prosperity hold independent initiating causal standing beside or in place of the discrete individual act; those names remain of use in recording the densified residue of choices already drawn across many centers and the payoff field it patterns for later acts, yet the presumption becomes incomplete where individual sequences under the same easier payoffs still diverge—some relaxing consistency, others re-rendering the acts the pattern depends on—a divergence a shared field cannot register and that is settled only in the choice drawn and sustained at each locus, so even "partly conditions, partly choice" installs a second cause beside the one edge that continues to act.
 
-→ [个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers](../../posts/individual-choices-as-the-only-causal-levers/)
+→ [个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers](../../posts/individual-choices-as-the-only-causal-levers/) · [行使的残余与政治的稳定 / The Residue of Exercise and the Stabilization of Politics](../../posts/the-residue-of-exercise-and-the-stabilization-of-politics/)
 
 ### 个人权利 / Individual Rights
 `哲学 / Philosophical`
@@ -3244,11 +3253,11 @@ Causality demands that effect is distinct from cause and follows cause; collapsi
 ### 知识蒸馏 / Knowledge Distillation
 `技术 / Technological`
 
-知识蒸馏假定压缩能完整继承通用推理；小模型保留了高频共现规律，却默默切断了长尾因果推断。
+知识蒸馏假定压缩能完整继承通用推理；小模型保留了高频共现规律，却默默切断了长尾因果推断，而模型在原始数据上依赖过参数化的鞍点逃逸余量（D ≫ d*）搜索之后，权重谱收缩为低秩的 d*，一旦把它静态、不可逆地裁剪掉，分布偏移时学生模型便失去了局部重开正交搜索维度的余地。
 
-Distillation treats model compression as transferring general reasoning into smaller networks; smaller models preserve high-density correlations while dropping long-tail reasoning.
+Distillation treats model compression as transferring general reasoning into smaller networks; smaller models preserve high-density correlations while dropping long-tail reasoning, and when the low-rank weight spectrum (d*) that settled after high-dimensional saddle-point search (D ≫ d*) is pruned statically and irreversibly, the compressed student loses the ambient slack needed to reopen orthogonal search dimensions when the distribution shifts.
 
-→ [蒸馏、压缩与能动性 / Distillation Chooses What to Lose](../../posts/distillation-compression-agency/)
+→ [蒸馏、压缩与能动性 / Distillation Chooses What to Lose](../../posts/distillation-compression-agency/) · [指令与载荷的双重切分 / The Dual Cut of Command and Payload](../../posts/the-dual-cut/)
 
 ### 知识问题 / Knowledge Problem
 `经济 / Economic`
@@ -3536,7 +3545,7 @@ Treating infinity as an already completed totality that can be gathered in one g
 
 Statist political theory locates sovereignty exclusively in legal institutions; sovereignty resides irreducibly in living minds choosing where to grant or withdraw compliance.
 
-→ [臣服作为错位的主权 / Surrender as Misaligned Sovereignty](../../posts/sovereignty-essay/)
+→ [臣服作为错位的主权 / Surrender as Misaligned Sovereignty](../../posts/sovereignty-essay/) · [行使的残余与政治的稳定 / The Residue of Exercise and the Stabilization of Politics](../../posts/the-residue-of-exercise-and-the-stabilization-of-politics/)
 
 ### 人工智能的神性错置 / Misallocated Sentience of AI
 `技术 / Technological`
@@ -3631,11 +3640,11 @@ Judgment language presumes that right and wrong are coordinates standing above a
 ### 下一词元预测 / Next-Token Prediction
 `技术 / Technological`
 
-下一词元预测预设，监督序列化表达的延续——并在推理时配以不断增长的词元链作为工作状态与固定的全局参数地图——是通往语言建模的路径；由于语言在同一媒介中同时承载所操作的材料与对材料的操作，这条绕圈的路径得以在大规模下闭合并产出流畅而能干的模型，因此在大规模下有其效用；其边界在于把这种有效性当作证据，认定这条路径是语言使用本身所要求的；此时，借表层延续绕圈还原功能、背负已累积的链条并在每次读取时在其上重新组合而非原地改写常驻任务表征（无论对这条链的搜寻有多稀疏或多廉价）、以及为局部任务携带全局容量等结构性代价依然存在。
+下一词元预测预设，监督序列化表达的延续——并在推理时配以不断增长的词元链作为工作状态与固定的全局参数地图——是通往语言建模的路径；由于把从文本中学习压缩为单一的下一词元代理目标提供了清晰的目标、并行前缀分解可在单次前向传递中同时训练全部步进、语料库层面的多种措辞分布无需防坍缩工程便可部分习得共享抽象，且语言在同一媒介中同时承载所操作的材料与对材料的操作，这条绕圈的路径得以在大规模下闭合并产出流畅而能干的模型，因此在大规模下有其效用；其边界在于把这种有效性当作证据，认定这条路径是语言使用本身所要求的，从而仅以单向的左条件步进链触及完整表达——训练时的上三角因果掩码阻断了前序位置（t₃）关注共存的后序位置（t₁₀）——同时混淆语言作为概念锚点与一维信号的双重角色，按单一表层措辞而非在选定尺度上由外环锚定的潜层抽象给每个训练样本计分，借惩罚每个训练样本落在所记录单一表层字符串之外的概率短路了提取抽象（Eᵢₙ → Aᵢₙ → A_target）并将其重新施用于表达（A_target → E_out）的两阶段循环，而非发出表达并在耦合容量预算下以重编码校验外在通道对齐（ℰ(E_out) ≈ ℰ(E_ref)）与以接收者为条件的内在自洽（ℰ(E_out | C_recv) ≈ A_target）；此时，借表层延续绕圈还原功能、背负已累积的链条并在每次读取时在其上重新组合而非原地改写常驻任务表征（无论对这条链的搜寻有多稀疏或多廉价）、以及为局部任务携带全局容量等结构性代价依然存在。
 
-Next-token prediction presumes that supervising the continuation of serialized expressions—paired with a growing token chain as working state and a fixed global parameter map at inference—is the route to modeling language, which is of use at scale because language carries both the material operated on and the operations over it in one medium so the circular route closes and yields fluent, capable models; it reaches its boundary where that effectiveness is taken to show the route is required by language use itself, while the structural costs of recovering function circularly through surface continuation, carrying the accumulated chain and composing across it again at each read instead of rewriting a resident task representation in place (however sparsely or cheaply that chain is searched), and carrying global capacity for local tasks remain.
+Next-token prediction presumes that supervising the continuation of serialized expressions—paired with a growing token chain as working state and a fixed global parameter map at inference—is the route to modeling language, which is of use at scale because compressing learning from text into a single next-token proxy provides a clean target, parallel prefix factorization trains all steps in one pass, corpus-level surface spread over multiple wordings partially learns shared abstractions without anti-collapse engineering, and language carries both the material operated on and the operations over it in one medium so the circular route closes and yields fluent, capable models; it reaches its boundary where that effectiveness is taken to show the route is required by language use itself, reaching the whole expression only as a one-way chain of left-conditioned steps—where a triangular causal mask blocks early positions (t₃) from attending to later co-existing positions (t₁₀) during training—conflating language's dual role as conceptual anchor and one-dimensional signal to score each training example against a single surface wording rather than an outer-loop anchored latent abstraction at the chosen scale, and short-circuiting the two-phase cycle of extracting the abstraction (Eᵢₙ → Aᵢₙ → A_target) and applying it back into expression (A_target → E_out) by penalizing per-example probability placed outside the single recorded surface string instead of emitting an expression and re-encoding it under a coupled capacity budget to verify external wire alignment (ℰ(E_out) ≈ ℰ(E_ref)) and receiver-conditioned internal consistency (ℰ(E_out | C_recv) ≈ A_target), while the structural costs of recovering function circularly through surface continuation, carrying the accumulated chain and composing across it again at each read instead of rewriting a resident task representation in place (however sparsely or cheaply that chain is searched), and carrying global capacity for local tasks remain.
 
-→ [固定地图与重复的行程 / The Fixed Map and the Repeated Trip](../../posts/the-fixed-map-and-the-repeated-trip/)
+→ [固定地图与重复的行程 / The Fixed Map and the Repeated Trip](../../posts/the-fixed-map-and-the-repeated-trip/) · [抽象、决定，与主流机器学习的三大结构性症结 / Abstraction, Determination, and the Three Structural Flaws of Machine Learning](../../posts/abstraction-determination-and-the-three-structural-flaws-of-machine-learning/) · [影子没有损失 / The Shadow Has No Loss](../../posts/the-shadow-has-no-loss/) · [指令与载荷的双重切分 / The Dual Cut of Command and Payload](../../posts/the-dual-cut/)
 
 ### 次词预测的被动回应性 / Next-Token Reactive Nature
 `技术 / Technological`
@@ -3748,11 +3757,11 @@ Presumes passive sequential consumption of non-fiction builds deep insight; effi
 ### 读者信任论 / Trusting the Reader
 `成功学 / Self-Help`
 
-创作者假定在思想深度上写作并信任读者终会接住它，便能守住被理解的可能；作为克服发布恐惧的心智启发法有用，但文本仅提供外部物理材料而无跨心智因果力，是否重构区分始终取决于接收者未被强迫的抉择。
+创作者假定在思想深度上写作并信任读者终会接住它，便能守住被理解的可能；作为克服发布恐惧的心智启发法有用，但文本仅提供外部物理材料而无跨心智因果力，是否重构区分始终取决于接收者未被强迫的抉择，因而即便两分句撤回序列带有显式时间标记，也只能呈现先后次序而无法担保它被按先后次序接续领会。
 
-Writers presume that setting down ideas at full depth while trusting readers to grow into them can secure the possibility of uptake; useful as an affective heuristic to overcome fear of release, text supplies only physical materials with zero cross-mind causal power, leaving any reconstruction of distinctions entirely to the recipient's uncompelled choice.
+Writers presume that setting down ideas at full depth while trusting readers to grow into them can secure the possibility of uptake; useful as an affective heuristic to overcome fear of release, text supplies only physical materials with zero cross-mind causal power, leaving any reconstruction of distinctions entirely to the recipient's uncompelled choice, so that even explicit temporal markers in a two-clause withdrawal present the order without securing that it is taken up in succession.
 
-→ [信任读者是最后的越界 / Trusting the Reader Is the Last Overstep](../../posts/trusting-the-reader-is-the-last-overstep/) · [登记共鸣的表面 / The Surface That Registers](../../posts/the-surface-that-registers/)
+→ [信任读者是最后的越界 / Trusting the Reader Is the Last Overstep](../../posts/trusting-the-reader-is-the-last-overstep/) · [登记共鸣的表面 / The Surface That Registers](../../posts/the-surface-that-registers/) · [接续阅读与协商中的语言边界 / Successive Reading and the Negotiated Boundary of Language](../../posts/successive-reading-and-the-negotiated-boundary-of-language/)
 
 ### AI智胜人类叙事 / Outsmarting Narrative of AI
 `技术 / Technological`
@@ -4117,11 +4126,11 @@ Reasoning token emulation and chain-of-thought distillation presume that generat
 ### 运行框架解锁潜在能力 / The Harness Unlocks Latent Capability
 `技术 / Technological`
 
-“涌现能力”的读法预设，模型越过了一道门槛，运行框架是一把钥匙，解锁本已潜藏在模型里的力量，而自主运行的内环是一种新的智能，在追踪模型与运行框架确实让可及与速度上升时有用；它在此到了边界：模型是先前区分的更密的残余，运行框架是那唯一掌舵的边缘的进一步动作，内环的目标、评估标准与什么算作进步的判断仍来自外环，看起来是模型变得更有能力的东西，是心智经由一张更细的图实现了更多的场，并在同一个动作里精炼这张图。
+“涌现能力”的读法预设，模型越过了一道门槛，运行框架是一把钥匙，解锁本已潜藏在模型里的力量，而自主运行的内环是一种新的智能，在追踪模型与运行框架确实让可及与速度上升时有用；它在此到了边界：模型是先前区分的更密的残余，运行框架是那唯一掌舵的边缘的进一步动作——提供局部边界条件（C_local）以在基座地图本已持有的条件分布 P(E|C_local) 之间作出选择，并允许预编程的元规则读取哪一项重编码残差仍未闭合——内环的目标、评估标准与什么算作进步的判断仍来自外环，看起来是模型变得更有能力的东西，是心智经由一张更细的图实现了更多的场，并在同一个动作里精炼这张图。
 
-The reading of "emergent capability" presumes that the model has crossed a threshold, that the harness is a key unlocking powers already latent in the model, and that inner loops running on their own are a new kind of intelligence, which is of use in tracking that models and harnesses do raise reach and velocity; it reaches its boundary in that the model is denser residue of prior distinguishing, the harness is further acts of the only edge that steers, the inner loops still take their objectives, evaluation criteria, and judgment of what counts as progress from the outer loop, and what looks like the model becoming more capable is the Mind realizing more of the field through a finer map while refining that map in the same motion.
+The reading of "emergent capability" presumes that the model has crossed a threshold, that the harness is a key unlocking powers already latent in the model, and that inner loops running on their own are a new kind of intelligence, which is of use in tracking that models and harnesses do raise reach and velocity; it reaches its boundary in that the model is denser residue of prior distinguishing, the harness is further acts of the only edge that steers—supplying local boundary conditions (C_local) that select among conditionals P(E|C_local) the base map already holds and allowing pre-programmed meta-rules to read which re-encoding residual stays open—the inner loops still take their objectives, evaluation criteria, and judgment of what counts as progress from the outer loop, and what looks like the model becoming more capable is the Mind realizing more of the field through a finer map while refining that map in the same motion.
 
-→ [智能向自身的回折 / Intelligence Folding Back on Itself](../../posts/intelligence-folding-back-on-itself/) · [呈现Ontos，一个方法智能体 / Presenting Ontos, a Method Agent](../../posts/ontos-is-a-method-agent/)
+→ [智能向自身的回折 / Intelligence Folding Back on Itself](../../posts/intelligence-folding-back-on-itself/) · [呈现Ontos，一个方法智能体 / Presenting Ontos, a Method Agent](../../posts/ontos-is-a-method-agent/) · [影子没有损失 / The Shadow Has No Loss](../../posts/the-shadow-has-no-loss/)
 
 ### 再分配作为授权 / Redistribution as Authorization
 `经济 / Economic`
@@ -4180,11 +4189,11 @@ Treating a partnership as a third entity above both parties, with causal claims 
 ### 相对贫困线 / Relative Poverty Line
 `经济 / Economic`
 
-以中位收入的百分之五十划线预设各国可比，在追踪一国之内的相对处境时有用；它在此到了边界：这条线随各自的中位数伸缩，基于它的跨国排名反映的是指标间的相互作用，而非单一的充足度尺度。
+以中位收入的百分之五十划线预设各国可比，在追踪一国之内的相对处境时有用；它在此到了边界：这条线随各自的中位数伸缩，基于它的跨国排名反映的是指标间的相互作用，而非单一的充足度尺度，且将局部相对位次抬升为全局标准会把转型摩擦误作决定底线高度的原因，而两百年固定阈值绝对贫困的下降与跨国增长期分解（平均产能位移解释短期约七成至长期高达九成七的减贫方差）均表明绝对底线主要随前沿驱动的产能扩张而上移。
 
-A line at 50 percent of median income presumes comparability across countries, which is of use in tracking relative standing within one country; it reaches its boundary in that the line scales with each median, so cross-country rankings built on it register instrument interactions rather than a single adequacy measure.
+A line at 50 percent of median income presumes comparability across countries, which is of use in tracking relative standing within one country; it reaches its boundary in that the line scales with each median, so cross-country rankings built on it register instrument interactions rather than a single adequacy measure, and elevating local relative standing into the global standard mistakes transition friction for the cause of the floor's level, whereas the two-century decline in fixed-threshold extreme poverty and cross-country growth-spell decompositions (where mean capacity shifts account for roughly 70 percent of poverty-change variance over short spells to 97 percent over long ones) show that the absolute floor rises primarily as frontier expansion lifts productive capacity.
 
-→ [工时排名把充足度冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard](../../posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard/)
+→ [工时排名把充足度冻结成一张记分牌 / The Hours Ranking Freezes Adequacy as One Scoreboard](../../posts/the-hours-ranking-freezes-adequacy-as-one-scoreboard/) · [前沿抬升底线 / The Frontier Lifts the Floor](../../posts/the-frontier-lifts-the-floor/)
 
 ### 代表性行为人与平均化 / Representative Agent and Averaging
 `经济 / Economic`
@@ -4441,11 +4450,11 @@ Treating the speed of light c as an invariant velocity limit, the same for every
 ### 国家保护权利 / State Protection of Rights
 `意识形态 / Ideological`
 
-要求国家保护权利，把自由的保障托付给宪法、国家或市场装置，在划定一个社会对强制的公开承诺时有用；它在此到了边界：这一托付把能动从内在的自我认出移交给外在的行政，扩散责任，招来以执行为名的强制，并削薄维系自由秩序的自我节制的不侵犯。
+要求国家保护权利，把自由的保障托付给宪法、国家或市场装置，在划定一个社会对强制的公开承诺时有用；它在此到了边界：这一托付把能动从内在的自我认出移交给外在的行政，扩散责任，招来以执行为名的强制，并削薄维系自由秩序的自我节制的不侵犯；协调成本、外部性以及与非互惠行动者接触产生的摩擦，原本留在行动边缘，作为下一次区分的回返信号，这一托付却把它们转化为常设的制度保护者。
 
-The demand that the state protect rights entrusts the guarantee of freedom to a constitution, a state or a market apparatus, which is of use in setting out a society's public commitments about force; it reaches its boundary in that the entrusting moves agency from inner self-recognition to outer administration, diffuses responsibility, invites force in the name of enforcement, and thins the self-governed non-aggression that sustains a free order.
+The demand that the state protect rights entrusts the guarantee of freedom to a constitution, a state or a market apparatus, which is of use in setting out a society's public commitments about force; it reaches its boundary in that the entrusting moves agency from inner self-recognition to outer administration, diffuses responsibility, invites force in the name of enforcement, and thins the self-governed non-aggression that sustains a free order, converting coordination costs, externalities, and contact friction from non-reciprocal actors—which otherwise remain returning signals for the next distinction at the acting edge—into a standing institutional protector.
 
-→ [能动性的错配 / The Misallocation of Agency](../../posts/the-misallocation-of-agency/)
+→ [能动性的错配 / The Misallocation of Agency](../../posts/the-misallocation-of-agency/) · [行使的残余与政治的稳定 / The Residue of Exercise and the Stabilization of Politics](../../posts/the-residue-of-exercise-and-the-stabilization-of-politics/)
 
 ### 静态AI基准测试 / Static AI Benchmarks
 `技术 / Technological`
@@ -4544,7 +4553,7 @@ The solipsistic NPC trope views others as unthinking automatons; this illusion a
 
 Success literature assumes survivors’ principles can generate future success, which is of use in explaining excellence already achieved; it reaches its boundary in that it is formalized after the outcome, travels as a status marker, and stays silent on renewing the edge.
 
-→ [成功学 / Theories After Success](../../posts/cheng-gong-xue/) · [隐性自由变量与权力的事后幻相 / The Invisible Free Variable and the Retrospective Illusion of Power](../../posts/the-free-variable-and-the-retrospective-illusion-of-power/)
+→ [成功学 / Theories After Success](../../posts/cheng-gong-xue/) · [隐性自由变量与权力的事后幻相 / The Invisible Free Variable and the Retrospective Illusion of Power](../../posts/the-free-variable-and-the-retrospective-illusion-of-power/) · [幸福是欲望与状态的关系 / Happiness Is the Relation of Desire to State](../../posts/happiness-is-the-relation-of-desire-to-state/)
 
 ### 共情的能力倒错与自毁陷阱 / Suicidal Empathy Inversion
 `哲学 / Philosophical`
@@ -4625,7 +4634,7 @@ Imagining synthetic data as a model feeding on itself is of use in describing ho
 
 Naming the pattern a system assumes decisive agency sits outside choosing minds, which is of use in pointing to the pattern many similar choices settle into; it reaches its boundary in that blaming politicians or designing new constraints continues the diffusion, while the load stays with each deciding individual.
 
-→ [政客是责任扩散的显性症状 / Politicians Are Visible Symptoms of Responsibility Diffusion](../../posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion/) · [能动性、矛盾与权力的移置 / Agency, Contradiction, and the Relocation of Power](../../posts/agency-contradiction-and-the-relocation-of-power/)
+→ [政客是责任扩散的显性症状 / Politicians Are Visible Symptoms of Responsibility Diffusion](../../posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion/) · [能动性、矛盾与权力的移置 / Agency, Contradiction, and the Relocation of Power](../../posts/agency-contradiction-and-the-relocation-of-power/) · [行使的残余与政治的稳定 / The Residue of Exercise and the Stabilization of Politics](../../posts/the-residue-of-exercise-and-the-stabilization-of-politics/)
 
 ### 系统改革与社会运动 / Systemic Reform and Activism
 `意识形态 / Ideological`
@@ -4684,11 +4693,11 @@ Presumes elite observers can impartially direct social progress from a detached 
 ### 连续性作为建模的权宜之计 / The Continuum as a Modeling Convenience
 `数学 / Mathematical`
 
-一旦因果步长小到可以忽略，在极限处令微分间距 dx 归零便将变化当作平滑的连续统来处理，这有助于让微分方程与解析梯度得以闭合；当这一形式闭合被当作现实预先存在的底座，略过那个非零的因果步长（+1）时，它便到达了边界，而所经验的连续正是这一步长的连贯。
+一旦因果步长小到可以忽略，在极限处令微分间距 dx 归零便将变化当作平滑的连续统来处理，这有助于让微分方程与解析梯度得以闭合；当这一形式闭合被当作现实预先存在的底座，略过那个非零的因果步长（+1）时，它便到达了边界，而所经验的连续正是这一步长的连贯，并且在神经网络中，当把有限比特晶格上的线性选择与离散激活折叠平滑为 ℝⁿ 上的微分运算这一做法跨出宽比特精度或批量平均的窗口、由低比特量化或单次非平均的阈值跨越显露出实现的有限粒度时，它也到达边界。
 
-Setting the differential interval dx to zero at the limit, once the causal step is small enough to ignore, treats change as a smooth continuum, which is of use in letting differential equations and analytical gradients close; it reaches its boundary when that formal closure is taken for a foundation of reality existing in advance, passing over the non-zero causal step (+1) whose coherence is the continuity experienced.
+Setting the differential interval dx to zero at the limit, once the causal step is small enough to ignore, treats change as a smooth continuum, which is of use in letting differential equations and analytical gradients close; it reaches its boundary when that formal closure is taken for a foundation of reality existing in advance, passing over the non-zero causal step (+1) whose coherence is the continuity experienced, and in neural networks when smoothing linear selection and discrete activation folding over a finite bit lattice into differential calculus over ℝⁿ steps outside the window of wide bit-widths or batch averaging, where low-bit quantization or unaveraged threshold crossings expose the realization's grain.
 
-→ [连续性作为建模的权宜之计 / The Continuum is a Modeling Convenience](../../posts/the-continuum-is-a-modeling-convenience/)
+→ [连续性作为建模的权宜之计 / The Continuum is a Modeling Convenience](../../posts/the-continuum-is-a-modeling-convenience/) · [离散的折叠 / The Discrete Fold](../../posts/the-discrete-fold/)
 
 ### 无为创作论 / The Creative Act as Non-Striving
 `成功学 / Self-Help`
@@ -4729,11 +4738,11 @@ The test assumes genuine scientific insight is an optimization problem over hypo
 ### 心智之间的直接沟通 / Direct Communication Between Minds
 `哲学 / Philosophical`
 
-人们设想想法与感受能借共鸣或亲密不经中介地从一个心智流到另一个；从第一人称的原点找不到这样的通道，另一个人只以痕迹到来，登记到的是自身重新合成的模型，这一设想在此到了边界，作为确认彼此模型重叠、协调个体之间行动的方式，同意与共识依然好用。
+人们设想想法与感受能借共鸣或亲密不经中介地从一个心智流到另一个；从第一人称的原点找不到这样的通道，另一个人只以痕迹到来，登记到的是自身重新合成的模型，这一设想在此到了边界，作为确认彼此模型重叠、协调个体之间行动的方式，同意与共识依然好用，而语言作为一道边界运作：反复使用在接收者的先验之间沉淀出的重叠使它稳定，先验分殊之处的每一次领会又重新协商它。
 
-The idea is that thoughts and feelings can flow unmediated from one mind to another through resonance or intimacy; from the first-person origin no such channel is found, since another person arrives only as traces and what registers is one's own re-synthesized model, which is where the idea reaches its boundary, while as a way of confirming overlapping models and coordinating action among individuals, agreement and consensus stay useful.
+The idea is that thoughts and feelings can flow unmediated from one mind to another through resonance or intimacy; from the first-person origin no such channel is found, since another person arrives only as traces and what registers is one's own re-synthesized model, which is where the idea reaches its boundary, while as a way of confirming overlapping models and coordinating action among individuals, agreement and consensus stay useful, with language functioning as a boundary stabilized by the overlap that repeated use sediments among receivers' priors and renegotiated at every uptake where those priors diverge.
 
-→ [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/)
+→ [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/) · [接续阅读与协商中的语言边界 / Successive Reading and the Negotiated Boundary of Language](../../posts/successive-reading-and-the-negotiated-boundary-of-language/)
 
 ### 苦涩的教训（理查德·萨顿） / The Bitter Lesson (Richard Sutton)
 `技术 / Technological`
@@ -4787,7 +4796,7 @@ Presumes objective facts exist without an observing consciousness; indispensable
 
 Political realism views state power as unilateral physical compulsion; sovereign institutions command obedience only because individual subjects reach out and complete the reciprocal handshake.
 
-→ [权力的镜像握手 / The Mirror Handshake of Power](../../posts/the-mirror-handshake-of-power/)
+→ [权力的镜像握手 / The Mirror Handshake of Power](../../posts/the-mirror-handshake-of-power/) · [行使的残余与政治的稳定 / The Residue of Exercise and the Stabilization of Politics](../../posts/the-residue-of-exercise-and-the-stabilization-of-politics/)
 
 ### 普通人视角的避风港 / The Ordinary Perspective Shelter
 `意识形态 / Ideological`
@@ -4810,11 +4819,11 @@ Presumes an external divine perspective sees and directs total reality; helpful 
 ### 跨心智无损传递假定 / The Premise of Lossless Cross-Mind Transmission
 `哲学 / Philosophical`
 
-该假定预设观察记录能脱离具体的具身观察者、在不同心智间实现无损复刻；抹杀观察者抽空了理论赖以立足的因果原点，但在工程化标准协议与低维信息传递中仍是高效率的协作简化。
+该假定预设观察记录能脱离具体的具身观察者、在不同心智间实现无损复刻；抹杀观察者抽空了理论赖以立足的因果原点，但在工程化标准协议与低维信息传递中仍是高效率的协作简化，而在两分句撤回序列中，该假定以为显式时间标记能把先后次序的意义原封不动地传递给接收者，从而使压平的读法看似接收者的失误，实则标记只呈现先后次序而无法强迫它，这一过渡究竟被按先后次序领会、被压平为同时断言，还是被读作平行的打发，是在接收者一侧决定的。
 
-This premise assumes observational records can be replicated losslessly across distinct minds detached from embodied observers; erasing the observer empties the causal origin upon which theory rests, yet it remains an efficient collaborative heuristic for standardized protocols and low-dimensional data transmission.
+This premise assumes observational records can be replicated losslessly across distinct minds detached from embodied observers; erasing the observer empties the causal origin upon which theory rests, yet it remains an efficient collaborative heuristic for standardized protocols and low-dimensional data transmission, and in a two-clause withdrawal the premise assumes explicit temporal markers carry the order's sense intact to the receiver, which makes a flattened reading look like the receiver's error, whereas the markers present the order without compelling it, and whether the passage is taken in succession, flattened into simultaneous assertions, or read as a parallel dismissal is settled on the receiver's side.
 
-→ [观察者的隐身与无损传递的妄念 / The Invisible Observer and the Delusion of Lossless Transmission](../../posts/the-invisible-observer-and-the-delusion-of-lossless-transmission/)
+→ [观察者的隐身与无损传递的妄念 / The Invisible Observer and the Delusion of Lossless Transmission](../../posts/the-invisible-observer-and-the-delusion-of-lossless-transmission/) · [接续阅读与协商中的语言边界 / Successive Reading and the Negotiated Boundary of Language](../../posts/successive-reading-and-the-negotiated-boundary-of-language/)
 
 ### 前台寓言的因果倒置 / The Receptionist Parable Inversion
 `成功学 / Self-Help`
@@ -5071,11 +5080,11 @@ Universal salvation presumes enlightened teachers can rescue other souls; awaren
 ### 抽象的共有普世人性 / Universal Shared Humanity Abstract
 `哲学 / Philosophical`
 
-共同人性的说法预设一个跨心智持有、个人只是在代表的人类实体，在描述诠释交叠之处协同如何成为可能时它仍有用；它的边界在于：每一份诠释留在维持它的所在，“共享”的标签是事后的，道德的“我们”在少得多的交叠上就能被援引，共识与制度是塑造代价却不带进一步依据的残余，而原因留在相继的个人选择里。
+共同人性的说法预设一个跨心智持有、个人只是在代表的人类实体，在描述诠释交叠之处协同如何成为可能时它仍有用；它的边界在于：每一份诠释留在维持它的所在，“共享”的标签是事后的，道德的“我们”在少得多的交叠上就能被援引，共识与制度是塑造代价却不带进一步依据的残余，而原因留在相继的个人选择里，同时“共享的人性”在同一个词中承载着两种读法：在协作进行之中，可由视野中的行动者是保有修正、异议或退出的能力，还是已经用个体主权换取了归属的确定性，来加以区分。
 
-Shared humanity presumes a human substance held across Minds that individuals merely represent, and it stays useful for describing how coordination becomes possible where interpretations overlap; its boundary is that each interpretation stays at the locus that sustains it, the shared label is retrospective, the moral “we” can be invoked on far less overlap, consensus and institutions are residue that patterns costs with no further warrant, and cause stays with successive individual choices.
+Shared humanity presumes a human substance held across Minds that individuals merely represent, and it stays useful for describing how coordination becomes possible where interpretations overlap; its boundary is that each interpretation stays at the locus that sustains it, the shared label is retrospective, the moral “we” can be invoked on far less overlap, consensus and institutions are residue that patterns costs with no further warrant, and cause stays with successive individual choices, while the phrase "shared humanity" carries two readings at once—distinguishable while cooperation is underway by whether the agents in view retain the capacity to revise, dissent, or leave, or have exchanged individual sovereignty for the certainty of belonging.
 
-→ [共同的人性从不共享 / Shared Humanity Is Never Shared](../../posts/shared-humanity-is-never-shared/)
+→ [共同的人性从不共享 / Shared Humanity Is Never Shared](../../posts/shared-humanity-is-never-shared/) · [“共享”的两种读法与观察的边界 / The Two Readings of Shared and the Observational Bound](../../posts/the-two-readings-of-shared-and-the-observational-bound/)
 
 ### 以差异排名寻求认可 / Validation through Ranking of Differences
 `哲学 / Philosophical`
@@ -5125,11 +5134,11 @@ A wealth tax presumes residual control over others’ assets can be directed tow
 ### 财富转移政策 / Wealth-Transfer Policies
 `经济 / Economic`
 
-转移支付以看得见的短期缓解为依据，在缓解眼前的困境时有用；它在此到了边界：以支付替代市场结果，压制了本可以弥合差距的相对信号，代价集中落在最不显眼的地方。
+转移支付以看得见的短期缓解为依据，在缓解眼前的困境时有用；它在此到了边界：以支付替代市场结果，压制了本可以弥合差距的相对信号，代价集中落在最不显眼的地方，且由于前沿扩张设定了生产性存量的上限、再分配与公共系统在该上限之内运作并起稳定作用，在低产能停滞经济体中压缩相对份额在抵达充足之前便撞上算术天花板，而将前沿选项压向静态均衡则会在更低的绝对上限内均等化。
 
-Transfers are justified by visible short-term relief, which is of use in easing immediate hardship; it reaches its boundary in that substituting payment for the market outcome suppresses the relative signal that would close the gap, with costs concentrated where they re-enter least visibly.
+Transfers are justified by visible short-term relief, which is of use in easing immediate hardship; it reaches its boundary in that substituting payment for the market outcome suppresses the relative signal that would close the gap, with costs concentrated where they re-enter least visibly, and because frontier expansion sets the ceiling of the productive stock while redistribution and public systems move and stabilize within that ceiling, compressing relative shares in stalled low-capacity economies hits an arithmetic ceiling before reaching adequacy while capping frontier options toward equilibrium equalizes within a lower absolute ceiling.
 
-→ [财富转移政策与价格下限中的原因错置 / The Misallocation of Cause in Wealth-Transfer Policies and Price Floors](../../posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors/)
+→ [财富转移政策与价格下限中的原因错置 / The Misallocation of Cause in Wealth-Transfer Policies and Price Floors](../../posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors/) · [前沿抬升底线 / The Frontier Lifts the Floor](../../posts/the-frontier-lifts-the-floor/)
 
 ### 世界政府 / World Government
 `意识形态 / Ideological`
@@ -5350,38 +5359,38 @@ Presumes that exhaustively mapping a generative model's architectural topology, 
 ### 分词与字节级建模 / Tokenization and Byte-Level Modeling
 `技术 / Technological`
 
-预设子词分词只是中性的效率压缩，或将基本单元下调为字节以至直接输出机器二进制码便能消解表征天花板、触底底层基底；在各自校准的算力与延迟区间内权衡序列长度与词元内部结构时有效，但当分词器、字节方案与编译器都被认出是落在观测边界近侧的人造脚手架、而切口远侧悬而未决的不确定性恰是任何进一步制造与言说得以展开的构成性条件时到达边界；按语境学到的分段让边界随片段的转折重划，即便在带正交旁路的架构中把外环给定的压缩尺度表述为窗口函数，其比率函数、下限与惊奇定义依然是在回环之外给定的界限；在此界限之内，已决的内部残差归零，切口处未决的余量则交予其外各层回环的边界条件。
+预设子词分词只是中性的效率压缩，或将基本单元下调为字节以至直接输出机器二进制码便能消解表征天花板、触底底层基底；在按固定比例缩短原始序列、并在各自校准的算力与延迟区间内权衡序列长度与词元内部结构时有效，但当预先固化的 BPE 子词与刚性像素块在层级结构尚未于语境中整合信号之前便锁死了无语境的底层部分边界，且分词器、字节方案与编译器都被认出是落在观测边界近侧的人造脚手架、而切口远侧悬而未决的不确定性恰是任何进一步制造与言说得以展开的构成性条件时到达边界；按语境学到的分段让边界随片段的转折重划，即便在带正交旁路的架构中把外环给定的压缩尺度表述为窗口函数，其比率函数、下限与惊奇定义依然是在回环之外给定的界限；在此界限之内，已决的内部残差归零，切口处未决的余量则交予其外各层回环的边界条件。
 
-Presumes either that subword tokenization is a neutral efficiency compression or that lowering the unit to bytes and direct machine binaries removes representational ceilings to exhaust the substrate; effective for trading sequence length against sub-token structure inside calibrated compute and latency regimes, it reaches its boundary because tokenizers, byte schemes, and compilers alike sit on the near side of an observational cut whose far-side indeterminism is the constitutive condition for any further making or talking; segmentation learned per context redraws boundaries where a span turns, and even when, in an architecture with orthogonal bypasses, the outer-given rate is expressed as a windowed function, the rate function, floor, and surprise definition remain bounds given outside the loop, within which settled inner residue drops to zero and the unsettled margin at the cut passes to the boundary conditions of the loops outside it.
+Presumes either that subword tokenization is a neutral efficiency compression or that lowering the unit to bytes and direct machine binaries removes representational ceilings to exhaust the substrate; effective for shortening raw sequences by a constant factor and trading sequence length against sub-token structure inside calibrated compute and latency regimes, it reaches its boundary because pre-frozen BPE subwords and rigid pixel patches settle a context-independent bottom part boundary before the hierarchy integrates the signal in context, and because tokenizers, byte schemes, and compilers alike sit on the near side of an observational cut whose far-side indeterminism is the constitutive condition for any further making or talking; segmentation learned per context redraws boundaries where a span turns, and even when, in an architecture with orthogonal bypasses, the outer-given rate is expressed as a windowed function, the rate function, floor, and surprise definition remain bounds given outside the loop, within which settled inner residue drops to zero and the unsettled margin at the cut passes to the boundary conditions of the loops outside it.
 
-→ [词元与观测边界 / Tokens and the Observational Boundary](../../posts/tokens-and-the-observational-boundary/) · [人、Token 与估值的范围 / Humans, Tokens, and the Scope of Valuation](../../posts/humans-tokens-and-the-scope-of-valuation/) · [抽象的阶梯与可执行的实体 / The Ladder of Abstraction and the Executable Entity](../../posts/the-ladder-of-abstraction-and-the-executable-entity/) · [学到的边界与给定的尺度 / Learned Boundaries and the Given Rate](../../posts/learned-boundaries-and-the-given-rate/) · [冻结的切口与回环的余量 / The Frozen Cut and the Margin of the Loop](../../posts/the-frozen-cut-and-the-margin-of-the-loop/) · [盲目的切分与命名的心智 / The Blind Cut and the Naming Mind](../../posts/the-blind-cut-and-the-naming-mind/)
+→ [词元与观测边界 / Tokens and the Observational Boundary](../../posts/tokens-and-the-observational-boundary/) · [人、Token 与估值的范围 / Humans, Tokens, and the Scope of Valuation](../../posts/humans-tokens-and-the-scope-of-valuation/) · [抽象的阶梯与可执行的实体 / The Ladder of Abstraction and the Executable Entity](../../posts/the-ladder-of-abstraction-and-the-executable-entity/) · [学到的边界与给定的尺度 / Learned Boundaries and the Given Rate](../../posts/learned-boundaries-and-the-given-rate/) · [冻结的切口与回环的余量 / The Frozen Cut and the Margin of the Loop](../../posts/the-frozen-cut-and-the-margin-of-the-loop/) · [盲目的切分与命名的心智 / The Blind Cut and the Naming Mind](../../posts/the-blind-cut-and-the-naming-mind/) · [抽象、决定，与主流机器学习的三大结构性症结 / Abstraction, Determination, and the Three Structural Flaws of Machine Learning](../../posts/abstraction-determination-and-the-three-structural-flaws-of-machine-learning/)
 
 ### 多模态学习 / Multimodal Learning
 `技术 / Technological`
 
-预设文本、图像、音频与生物序列是对称的“平级模态”，只需经由分词或转导为共享的二进制比特流（如 `CoBit` 中的 `x₀ ∈ {0, 1}^S`），便能汇入同一个扁平平面；在借由匹配滤波分数匹配省去领域专用编码器与词表输出头时有效；它之所以到达边界，是因为机器中的每一个比特都只是执行阈值后留下的同等盲目的印迹，而不同序列的差异在于产生它们的切分方式——感官与声学编解码器在工程阈值之下切分局部同位的物理扰动，语言则记录活生生的心智早已跨观察抽绎并命名的关系不变量。
+预设文本、图像、音频与生物序列是对称的“平级模态”，只需经由分词或转导为共享的二进制比特流（如 CoBit 中的 x₀ ∈ {0, 1}^S），便能汇入同一个扁平平面；在借由匹配滤波分数匹配省去领域专用编码器与词表输出头、以及在文生图中以压缩文本充当二维像素网格的抽象代理时有效；它之所以到达边界，是因为机器中的每一个比特都只是执行阈值后留下的同等盲目的印迹，而不同序列的差异在于产生它们的切分方式——感官与声学编解码器在工程阈值之下切分局部同位的物理扰动，语言则记录活生生的心智早已跨观察抽绎并命名的关系不变量，因此同一事件的跨语言与跨模态描绘在选定尺度上向共同的潜层不变量收缩其内在自由度，而在注意力层内部，每一个词元在机制尺度上都同样携带查询（Q）、键（K）与值（V），因而没有任何词元被预先固定为路由器或载荷，而是由语境在任务尺度上分配指令与材料的角色。
 
-Presumes that text, images, audio, and biological sequences are symmetric peer modalities that converge onto a single flat plane once tokenized or transduced into a shared binary bitstream (`x₀ ∈ {0, 1}^S` in `CoBit`); effective for eliminating domain-specific encoders and vocabulary projection heads through matched-filter score matching, it reaches its boundary because every bit in a machine is an equally blind mark left by an executed threshold while the sequences differ in the partition that produced them—sensory and acoustic codecs partition localized co-located physical perturbations under an engineered threshold, whereas language records relational invariants that living Minds have already abstracted across observations and named.
+Presumes that text, images, audio, and biological sequences are symmetric peer modalities that converge onto a single flat plane once tokenized or transduced into a shared binary bitstream (x₀ ∈ {0, 1}^S in CoBit); effective for eliminating domain-specific encoders and vocabulary projection heads through matched-filter score matching and for using compressed text as a proxy for the abstraction against two-dimensional pixel grids in text-to-image generation, it reaches its boundary because every bit in a machine is an equally blind mark left by an executed threshold while the sequences differ in the partition that produced them—sensory and acoustic codecs partition localized co-located physical perturbations under an engineered threshold, whereas language records relational invariants that living Minds have already abstracted across observations and named, so cross-lingual and cross-modal depictions of the same event contract in intrinsic degrees of freedom toward a shared latent invariant at the chosen scale, while within an attention layer every token carries Q, K, and V alike, so no token is fixed in advance as router or payload, and context assigns the task roles of instruction and material.
 
-→ [盲目的切分与命名的心智 / The Blind Cut and the Naming Mind](../../posts/the-blind-cut-and-the-naming-mind/)
+→ [盲目的切分与命名的心智 / The Blind Cut and the Naming Mind](../../posts/the-blind-cut-and-the-naming-mind/) · [抽象、决定，与主流机器学习的三大结构性症结 / Abstraction, Determination, and the Three Structural Flaws of Machine Learning](../../posts/abstraction-determination-and-the-three-structural-flaws-of-machine-learning/) · [指令与载荷的双重切分 / The Dual Cut of Command and Payload](../../posts/the-dual-cut/)
 
 ### 残差网络与前馈分类预设 / Residual Networks and the Feedforward Classification Premise
 `技术 / Technological`
 
-预设残差网络（`yₗ₊₁ = yₗ + F(yₗ, Wₗ)`）只是深度前馈堆叠上的梯度流数值技巧，或静态编译的计算图足以刻画一切多步推演；在解释反向传播中恒等捷径如何缓解梯度衰减与爆炸时有效，但当“前馈”标签遮蔽了恒等主干作为跨步保留参考（使单条脆弱的全局端到端反馈回路拆解为计算有界局部差值的模块化反馈回路）的因果几何，或忽视有界智能体技能回路在容量过载下提请有丝分裂拆分、在章程更新收敛（`Δθₗ → 0`）下提请零语境结晶并始终系于人类外环初始条件 `y₀` 与主权核准时到达边界；当分段粒度、路由与模块拓扑也在网络自身的回路内划定与分裂时，静态神经网络与动态技能回路之别便显出它从来不在神经与智能体之间，而在外环向内环开放了哪些自由度。
+预设残差网络（yₗ₊₁ = yₗ + F(yₗ, Wₗ)）只是深度前馈堆叠上的梯度流数值技巧，或静态编译的计算图足以刻画一切多步推演；在解释反向传播中恒等捷径如何缓解梯度衰减与爆炸时有效，但当“前馈”标签遮蔽了恒等主干作为跨步保留参考（使单条脆弱的全局端到端反馈回路拆解为计算有界局部差值的模块化反馈回路）的因果几何，或忽视有界智能体技能回路在容量过载下提请有丝分裂拆分、在章程更新收敛（Δθₗ → 0）下提请零语境结晶并始终系于人类外环初始条件 y₀ 与主权核准，或单次开环前馈传递面对移除了所需笔画的留出连续遮挡（此时在测试阶段按冲突混合规则把估计值投回画布并重新观察的回环，在权重固定不变的情况下将留出的 10 × 12 中心涂黑 MNIST 准确率从 69.47% 推升至 76.53%，高于在同一随机损坏流上训练的前馈基线的 68.53%）时到达边界；当分段粒度、路由与模块拓扑也在网络自身的回路内划定与分裂时，静态神经网络与动态技能回路之别便显出它从来不在神经与智能体之间，而在外环向内环开放了哪些自由度。
 
-Presumes that residual networks (`yₗ₊₁ = yₗ + F(yₗ, Wₗ)`) are merely a numerical gradient-flow trick inside a feedforward stack or that a statically compiled computation graph suffices for multi-step derivation; effective for explaining how identity shortcuts mitigate vanishing and exploding gradients during backpropagation, it reaches its boundary when the "feedforward" label obscures the causal geometry of the identity highway as a retained reference that decomposes one brittle global feedback loop into modular local feedback loops computing bounded differentials, and when static graphs miss how bounded skill loops propose mitosis under capacity overload and zero-context crystallization as charter updates converge (`Δθₗ → 0`) while remaining anchored to the human outer loop's initial condition `y₀` and sovereign ratification; once the grain of segmentation, the routing, and the module topology are drawn and split inside the network's own loop, the static-neural versus dynamic-skill contrast shows it was never neural against agentic but which degrees of freedom the outer loop opens to the inner loop.
+Presumes that residual networks (yₗ₊₁ = yₗ + F(yₗ, Wₗ)) are merely a numerical gradient-flow trick inside a feedforward stack or that a statically compiled computation graph suffices for multi-step derivation; effective for explaining how identity shortcuts mitigate vanishing and exploding gradients during backpropagation, it reaches its boundary when the "feedforward" label obscures the causal geometry of the identity highway as a retained reference that decomposes one brittle global feedback loop into modular local feedback loops computing bounded differentials, when static graphs miss how bounded skill loops propose mitosis under capacity overload and zero-context crystallization as charter updates converge (Δθₗ → 0) while remaining anchored to the human outer loop's initial condition y₀ and sovereign ratification, and when a single open-loop feedforward pass meets a held-out contiguous occlusion that removes the strokes it needs—where a test-time loop that projects its estimate back onto the canvas under a conflict-blend rule and re-observes it lifts held-out 10 × 12 Center-Blackout MNIST from 69.47% to 76.53% with weights fixed, against 68.53% for a feedforward baseline trained on the same corruption stream; once the grain of segmentation, the routing, and the module topology are drawn and split inside the network's own loop, the static-neural versus dynamic-skill contrast shows it was never neural against agentic but which degrees of freedom the outer loop opens to the inner loop.
 
-→ [模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks](../../posts/dynamic-resnet-of-skill-loops/) · [学到的边界与给定的尺度 / Learned Boundaries and the Given Rate](../../posts/learned-boundaries-and-the-given-rate/) · [递归区分的架构 / The Architecture of Recursive Distinction](../../posts/architecture-of-recursive-distinction/) · [冻结的切口与回环的余量 / The Frozen Cut and the Margin of the Loop](../../posts/the-frozen-cut-and-the-margin-of-the-loop/)
+→ [模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks](../../posts/dynamic-resnet-of-skill-loops/) · [学到的边界与给定的尺度 / Learned Boundaries and the Given Rate](../../posts/learned-boundaries-and-the-given-rate/) · [递归区分的架构 / The Architecture of Recursive Distinction](../../posts/architecture-of-recursive-distinction/) · [冻结的切口与回环的余量 / The Frozen Cut and the Margin of the Loop](../../posts/the-frozen-cut-and-the-margin-of-the-loop/) · [超越卷积与注意力机制的决定漏斗 / The Determination Funnel Beyond Convolutions and Attention](../../posts/the-determination-funnel-beyond-convolutions-and-attention/)
 
 ### 模型量化与二值神经网络 / Model Quantization and Binary Neural Networks
 `技术 / Technological`
 
-预设低比特或二值神经网络（sign()、XNOR-popcount）只是全精度原模型的有损硬件降级；在给定误差容限内压缩内存占用、加速推理时有效，而当全精度权重显出它只是又一张有限参考地图、数值精度显出它是在算力与能量代价下选定的截断深度时到达边界：堆叠的二元切分在每一次切分以前一次切分留下的余项为条件、每一个前缀都被训练得能够独立成立时，便能由粗到精地抵达这一深度，在共享信号下并行训练多条路径则不能。
+预设低比特或二值神经网络（sign()、XNOR-popcount）只是全精度原模型的有损硬件降级；在给定误差容限内压缩内存占用、加速推理时有效，而当全精度权重显出它只是又一张有限参考地图、数值精度显出它是在算力与能量代价下选定的截断深度时到达边界：堆叠的二元切分在每一次切分以前一次切分留下的余项为条件、每一个前缀都被训练得能够独立成立时，便能由粗到精地抵达这一深度，在共享信号下并行训练多条路径则不能；在每一层内部，无论处于何种精度，线性权重都对 d 个解码后的坐标值求和（这些坐标的可能状态横跨 d × b 二进制晶格）以筛选得以传递的组合，再由激活划分与有限比特舍入将其折叠并重编码为下一阶段的坐标。
 
-Presumes that a low-bit or binary neural network (sign(), XNOR-popcount) is only a lossy hardware degradation of a full-precision original; effective for shrinking memory and speeding inference within a given error tolerance, it reaches its boundary where the full-precision weight shows itself to be one more finite reference map and numerical precision a truncation depth chosen under a compute and energy price, a depth that stacked binary cuts reach coarse-to-fine where each cut is conditioned on the remainder the previous one left and every prefix is trained to stand on its own, rather than where parallel paths are trained on a shared signal.
+Presumes that a low-bit or binary neural network (sign(), XNOR-popcount) is only a lossy hardware degradation of a full-precision original; effective for shrinking memory and speeding inference within a given error tolerance, it reaches its boundary where the full-precision weight shows itself to be one more finite reference map and numerical precision a truncation depth chosen under a compute and energy price, a depth that stacked binary cuts reach coarse-to-fine where each cut is conditioned on the remainder the previous one left and every prefix is trained to stand on its own, rather than where parallel paths are trained on a shared signal; within each layer, at any precision, linear weights sum across the d decoded coordinates whose states range over the d × b binary lattice to select propagating combinations, and the activation partition and finite-bit rounding fold and re-encode them into the next stage's coordinates.
 
-→ [递归区分的架构 / The Architecture of Recursive Distinction](../../posts/architecture-of-recursive-distinction/)
+→ [递归区分的架构 / The Architecture of Recursive Distinction](../../posts/architecture-of-recursive-distinction/) · [离散的折叠 / The Discrete Fold](../../posts/the-discrete-fold/)
 
 ### 持续学习 / Continual Learning
 `技术 / Technological`
@@ -5400,3 +5409,49 @@ Continual learning presumes that a model can go on learning by itself from what 
 Presumes that interactions among multiple agents across a workflow constitute endogenously originating peer collaboration and emergent agency; useful where role-scoped agents with separate contexts decompose a complex task and expose each other's blind spots, it reaches its boundary once a multi-agent network is recognized as a dynamic Markov network evolving under a fixed transition kernel—settling into a stationary distribution, converging to a static fixed point, or diverging when no one injects—whose long transient hides the new variables people inject along the way and leads the observer to credit the trajectory's new distinctions to the agents.
 
 → [多智能体协作的幻象 / The Illusion of Multi-Agent Collaboration](../../posts/the-illusion-of-multi-agent-collaboration/) · [交接残余 / Handing Off Residue](../../posts/handing-off-residue/) · [按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step](../../posts/on-demand-contexts-keep-coherence-at-one-step/) · [当模型在表演一套框架而非从基底推演 / When an AI Performs a Framework Instead of Operating From It](../../posts/grok-420-framework-drift/) · [印迹与行动 / The Mark and the Act](../../posts/the-mark-and-the-act/) · [移动的基底与智能体委派的渐近线 / The Moving Ground](../../posts/the_moving_ground/)
+
+
+### 卷积神经网络 / Convolutional Neural Networks
+`技术 / Technological`
+
+卷积神经网络预设视觉的部分编组受局部空间相邻性支配，可在逐层收缩的空间金字塔中借由具备平移等变性的共享 k × k 权重模板加以捕捉，这在实现参数经济性以及跨二维网格提取局部边缘与纹理时有其效用；当空间邻近性在非局部部分关系或断裂、被遮挡的轮廓下被等同于共享同一性时，这一预设便到达了边界：单一固定尺度的模板无法同时将同一对象的远距部分编为一组，并将相邻的不同对象部分拆分开来。
+
+Convolutional neural networks presume that visual part-grouping is governed by local spatial adjacency captured through translation-equivariant shared k × k weight stencils across a shrinking spatial pyramid, which is of use in achieving parameter economy and extracting local edges and textures across two-dimensional grids; the premise reaches its boundary when spatial proximity is equated with shared identity under non-local part relations or broken and occluded contours, where a single fixed stencil size cannot simultaneously group distant parts of one object and separate adjacent parts of distinct objects.
+
+→ [超越卷积与注意力机制的决定漏斗 / The Determination Funnel Beyond Convolutions and Attention](../../posts/the-determination-funnel-beyond-convolutions-and-attention/)
+
+### 代议制投票 / Electoral Voting
+`意识形态 / Ideological`
+
+代议制投票预设周期性投下选票是政治能动性的首要行使方式，在个体运行狭窄回返环路的领域中，对于汇集事后信号与协调领导层的和平更替有其效用；它在此到了边界：选票是在任期结束后针对已然亲历的结果投下的，它将结果汇入总体，把功劳与归责转引至当选的位置，并将下一步判断向外移交，而未将下一步行动的作者身份带回选民自身的边缘。
+
+Electoral voting presumes that casting a periodic ballot is the primary exercise of political agency, which is of use in aggregating retrospective signals and coordinating peaceful leadership transitions across domains where individuals run narrow return loops; it reaches its boundary in that a ballot is cast after the term toward outcomes already lived, pools outcomes across the aggregate, routes credit and blame for them to an elected locus, and hands the next judgment outward without returning authorship of the next step to the voter's own edge.
+
+→ [行使的残余与政治的稳定 / The Residue of Exercise and the Stabilization of Politics](../../posts/the-residue-of-exercise-and-the-stabilization-of-politics/)
+
+### 享乐适应与幸福设定点理论 / Hedonic Adaptation and Set-Point Theory of Well-Being
+`科学 / Scientific`
+
+享乐适应与幸福设定点理论预设主观幸福感由一个基线设定点支配，外部生活事件（收入、婚姻、失业、伤残）会使之发生暂时或持久的偏移，这一预设在借助纵向追踪面板记录事件后的适应既非自动、亦非人人一致时有其效用；当测量到的满意度持久偏移被直接读作外部条件生成了感受本身、而关系中的欲望项（心智是接纳改变后的状态从而使欲望调整，还是让欲望继续固着在先前的状态上）被留在模型之外时，这一预设便到达了边界。
+
+Hedonic adaptation and set-point theory presume that subjective well-being is governed by a baseline set point that external life events (income, marriage, unemployment, disability) temporarily or permanently shift, which is of use in documenting across longitudinal panels that post-event adjustment is neither automatic nor uniform; the premise reaches its boundary when durable shifts in measured satisfaction are read as external conditions generating the feeling directly while the desire term of the relation (whether the Mind takes up the altered state so desire adjusts, or desire remains fixed on the prior state) is left unmodeled.
+
+→ [幸福是欲望与状态的关系 / Happiness Is the Relation of Desire to State](../../posts/happiness-is-the-relation-of-desire-to-state/)
+
+### 注意力机制 / Attention Mechanism
+`技术 / Technological`
+
+注意力机制通过将当前查询与每一个保留的历史键计算内积来决定过往信息的权重，从而把全部保留的键值序列当作工作状态，在并行训练以及需要逐字精确复制或上下文复制的场景（此时固定大小的状态受制于信息论复制容量上限）中有其效用；其边界在于：逐字复制之外的多轮状态演化仍被留作每一步都要携带并重新检索（O(t)）的不断膨胀的键值记录，而没有整固进递推状态交接 Sₜ = f_{cmd(Pₜ)}(Sₜ₋₁, in(Pₜ))——无论是在网络内部的快速权重尺度上（注意力在单次传递内分离了成对标量路由与向量载荷输运：前者以 QKᵀ / √d_k 匹配独立的键投影、把 d_k 收缩为每对位置一个权重，并与混合专家的路由调度相统一；后者即 OV 电路；这一分离使键得以寻址写入、值得以更新固定大小的状态），还是在外环智能体尺度上将改写后的表层状态工件交给全新的冷轮次。
+
+The attention mechanism resolves the relevant past by scoring the current query against every retained key so that the full archive of keys and values serves as the working state, which is of use for parallel training and for exact verbatim recall or in-context copying where any fixed-size state hits an information-theoretic copying capacity bound; it reaches its boundary when multi-turn state evolution beyond verbatim recall is left as an ever-growing KV transcript that every step carries and searches again in O(t) rather than consolidated into a recursive state handoff Sₜ = f_{cmd(Pₜ)}(Sₜ₋₁, in(Pₜ))—whether at the intra-network fast-weight scale, where attention's own intra-pass separation between scalar pairwise routing (QKᵀ / √d_k matching a separate key projection and contracting d_k to one weight per pair, unified with Mixture-of-Experts router dispatch) and vector payload transport (the OV circuit) lets keys address the write and values update a fixed-size state, or at the outer agentic scale where a rewritten state artifact is handed to a fresh cold turn.
+
+→ [指令与载荷的双重切分 / The Dual Cut of Command and Payload](../../posts/the-dual-cut/) · [固定地图与重复的行程 / The Fixed Map and the Repeated Trip](../../posts/the-fixed-map-and-the-repeated-trip/)
+
+### 叛逆期 / The Rebellious Phase
+`科学 / Scientific`
+
+“叛逆期”这一通行说法将青春期的对抗当作伴随年龄自然出现的阶段性特征，在提醒人们个人管辖与自主的诉求常在成熟过程中扩张加剧时作为粗略指称有用；其边界在于：抵触的烈度并非年龄固有的属性，而是尚未在范围与方式上收窄的父母控制压入孩子新认领的个人领域时所显现的可观察症状，把这一反馈信号固化为阶段属性或反过来把“叛逆期”一词谴责为致害元凶，都会把困境移出原本仍可调整的互动之外。
+
+The common designation of a "rebellious phase" treats adolescent opposition as a stage-bound feature of growing up, which is of use as a rough reminder that expanding claims to personal jurisdiction and autonomy commonly intensify during maturation; it reaches its boundary in that the intensity of pushback is not an intrinsic property of age but the observable symptom of unadjusted parental control pressing into a newly claimed personal domain, and either freezing that feedback signal into a stage property or condemning the word itself as the malicious cause relocates the difficulty outside the interaction that can still adjust.
+
+→ [叛逆是症状而非属性 / Rebellion as Symptom, Not Property](../../posts/rebellion-as-symptom-not-property/) · [引导不是占有 / Guidance Is Not Ownership](../../posts/guidance-is-not-ownership/)

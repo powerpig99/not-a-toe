@@ -47,3 +47,4 @@ The essays here examine curiosity as the unobservable driver of learning, the bo
 - [回返的信号与认领 / The Returning Signal and Its Claim](../../posts/the-returning-signal-and-its-claim/)
 - [作为职业的数学不是作为追求的数学 / Math as a Career Is Not Math as a Pursuit](../../posts/math-as-a-career-is-not-math-as-a-pursuit/)
 - [登记共鸣的表面 / The Surface That Registers](../../posts/the-surface-that-registers/)
+- [接续阅读与协商中的语言边界 / Successive Reading and the Negotiated Boundary of Language](../../posts/successive-reading-and-the-negotiated-boundary-of-language/)
