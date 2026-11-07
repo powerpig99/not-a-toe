@@ -22,25 +22,25 @@ What physics singles out as "wave-function collapse" is therefore not only an ex
 
 ## 二、 日常里的同一个边界 / 2. The Same Boundary in Daily Life
 
-潜能落定为确定，这个形式在日常的宏观生活里不停地出现。望向一条热浪蒸腾的长长的沙漠公路，地平线上空无一物；到了某个光学的门槛，一个形状突然从看不见越入可分辨，先前不确定的空处，落成一个走路的人。缩放一张高分辨率的数字图像或卫星地图，像素与地形轮廓并不在连续的无穷上平滑滑动，到了离散的门槛，特征就突然在感知里出现或消失。一个东西从视野里退去，并没有凭空消失，只是退到了测量框架的分辨边界之外。量子效应因此不只是微观领域另一套物理，它也标出一个观察者的分辨极限遇到一个未被预先计算的宇宙的那条操作边缘；这条边界登记在哪里，是心智做出的选择。
+潜能落定为确定，这个形式在日常的宏观生活里不停地出现。望向一条热浪蒸腾的漫长沙漠公路，地平线上空无一物；到了某个光学的门槛，一个形状突然从看不见越入可分辨，先前不确定的空处，落成一个走路的人。缩放一张高分辨率的数字图像或卫星地图，像素与地形轮廓并不在连续的无穷上平滑移动，到了离散的门槛，特征就突然在感知里出现或消失。一个东西从视野里退去，并没有凭空消失，只是退到了测量框架的分辨边界之外。量子效应因此不只是微观领域另一套物理，它也标出一个观察者的分辨极限遇到一个未被预先计算的宇宙的那条操作边缘；这条边界登记在哪里，是心智做出的选择。
 
 The form of potential settling into determinacy appears constantly in everyday macroscopic life. Looking down a long, heat-shimmering desert road, the horizon is empty; at a certain optical threshold a shape abruptly crosses from invisible to resolvable, and what was an indeterminate blank settles into a walking person. Zooming in or out on a high-resolution digital image or satellite map, pixels and contours do not slide smoothly across continuous infinities; at discrete thresholds, features abruptly appear in or drop out of perception. Something receding from view has not vanished into nothing; it has only moved past the resolution boundary of the measuring frame. Quantum effects are therefore not only a separate physics for the microscopic realm; they also mark the operating edge where an observer's resolution limit meets a universe not computed in advance, and where that boundary registers is a choice the Mind makes.
 
 ## 三、 量子的不确定与选择 / 3. Quantum Indeterminacy and Choice
 
-这个门槛事件被登记时，依观察者相对于切分站在哪一边，呈现出两面。从外部看，一件第三人称的仪器测量一个外部系统，越过被登记为一次不确定的量子塌缩，从叠加态向已实现本征值的概率转换；从内部经历，第一人称的主体活在行动的那一刻，同一件事被感到是自由的选择。当心智把自由变量注入这一步，被观察到的就是量子的不确定：正如[自由变量的同构与先验主权](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)所追溯的，二者并不在某个外部时钟上竞速，因为它们是同一次离散切分的内部生成前沿与外部观察边界；而在因果位阶上，第三人称的测量始终尾随它所捕获其痕迹的那个行动。
+这个门槛事件被登记时，依观察者相对于切分站在哪一边，呈现出两面。从外部看，一件第三人称的仪器测量一个外部系统，这次越过被登记为一次不确定的量子塌缩，从叠加态向已实现本征值的概率转换；从内部经历，第一人称的主体活在行动的那一刻，同一件事被感到是自由的选择。当心智把自由变量注入这一步，被观察到的就是量子的不确定：正如[自由变量的同构与先验主权](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)所追溯的，二者并不在某个外部时钟上竞速，因为它们是同一次离散切分的内部生成前沿与外部观察边界；而在因果位阶上，第三人称的测量始终尾随那个行动，它捕获的是那个行动留下的痕迹。
 
 When this threshold event is registered it shows two faces, depending on which side of the cut the observer stands. From outside, a third-person instrument measuring an outside system, the crossing registers as an indeterminate quantum collapse, a probabilistic transition from superposition to a realised eigenvalue; lived from inside, a first-person subject in the moment of action, the same event is felt as free choice. When the Mind injects the free variable into the step, what is observed is quantum indeterminacy: as [The Isomorphism of Free Variables and Prior Sovereignty](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/) traces, the two do not race each other on an external clock because they are the inner generating edge and the outer observational boundary of one discrete cut, while in causal rank third-person measurement always trails the act whose trace it captures.
 
-两种描述指向同一件事，可以从时间上的关系推出来。设塌缩速率为 R_塌缩，有意识感知的速率为 R_感知。如果感知比塌缩快，R_感知 > R_塌缩，心智就会直接感知到塌缩之前、未被测量的因果链，不确定就会消失，地平线也不复存在；如果塌缩比感知快，R_塌缩 > R_感知，状态就会在意识登记之前落定为确定的历史，观察者就无从察觉任何概率的叠加或不确定。这两个反事实之所以都不成立，是因为它们把塌缩当成了按自身时间表运转、独立于观察者的过程；人的感知之所以恰好到达地平线的前沿，R_感知 = R_塌缩，是因为“塌缩”不过是对感知划下其离散切分之边界的第三人称登记。未知变为已知的边界，同时就是潜能变为选择的边界；随机，是内部自由在外部观察中的影子。
+两种描述指向同一件事，可以从时间上的关系推出来。设塌缩速率为 R_塌缩，有意识感知的速率为 R_感知。如果感知比塌缩快，R_感知 > R_塌缩，心智就会直接感知到塌缩之前、未被测量的因果链，不确定就会消失，地平线也不复存在；如果塌缩比感知快，R_塌缩 > R_感知，状态就会在意识登记之前落定为确定的历史，观察者就无从察觉任何概率的叠加或不确定。这两个反事实之所以都不成立，是因为它们把塌缩当成了按自身时间表运转、独立于观察者的过程；人的感知之所以恰好到达地平线的前沿，R_感知 = R_塌缩，是因为“塌缩”不过是第三人称对一条边界的登记，感知正是在这条边界上划下它的离散切分。未知变为已知的边界，同时就是潜能变为选择的边界；随机，是内部自由在外部观察中的影子。
 
 That the two descriptions point at one event can be derived from timing. Let the rate of collapse be R_collapse and the rate of conscious perception R_perceive. If perception were faster than collapse, R_perceive > R_collapse, the Mind would perceive the pre-collapse, unmeasured causal chain directly, indeterminacy would vanish and the horizon would cease to exist; if collapse were faster than perception, R_collapse > R_perceive, the state would settle into determinate history before awareness could register it, and the observer could never detect probabilistic superposition or uncertainty at all. Both counterfactuals fail because they treat collapse as an observer-independent process running on its own schedule; human perception arrives right at the frontier of the horizon, R_perceive = R_collapse, because "collapse" is simply the third-person registration of the boundary where perception draws its discrete cut. The boundary where the unknown becomes known is at once the boundary where potential becomes choice; randomness is the shadow of inner freedom in outside observation.
 
 ## 四、 自由变量、惯性与互补 / 4. The Free Variable, Inertia and Complementarity
 
-一个因果节点越入实现的那一刻，在数学上作为一个自由变量 V 起作用。[唯一自洽的无因之果](../the-only-coherent-uncaused-effect/)把这一刻认作选择：意识借以打破确定的机械模拟、把一个推不出来的自由度引入现实的那一个光圈。每一个尺度上的意识都是这种反馈，[折叠的连续谱](../the-continuum-of-the-fold/)论证过这一点。自由变量被注入并实现为一个确定状态（比如二进制的 0 或 1）的那一瞬，它就在耦合场中转化为受缚状态——正如[残余与自由变量](../the-residue-and-the-free-variable/)所追溯的——并获得基本的惯性：除非与环境相互作用，它就保持不变。相互作用时，它服从严格的逻辑互补，ΔV + ΔE = 0：该变量经历的任何状态变化，都由与之相互作用的环境中一个互补的变换来对应；若不引起耦合场发生等量反向的变化，孤立变量便无法改变自身状态。
+一个因果节点越入实现的那一刻，在数学上作为一个自由变量 V 起作用。[唯一自洽的无因之果](../the-only-coherent-uncaused-effect/)把这一刻认作选择：意识借以打破确定的机械模拟、把一个推不出来的自由度引入现实的那一个光圈。自指的反馈回路在各个尺度上都观察得到，但把其中任何一个称作有意识的，都是一个心智在划下切分，[折叠的连续谱](../the-continuum-of-the-fold/)论证过这一点。自由变量被注入并实现为一个确定状态（比如二进制的 0 或 1）的那一瞬，它就在耦合场中转化为受缚状态——正如[残余与自由变量](../the-residue-and-the-free-variable/)所追溯的——并获得基本的惯性：除非与环境相互作用，它就保持不变。相互作用时，它服从严格的逻辑互补，ΔV + ΔE = 0：该变量经历的任何状态变化，都由与之相互作用的环境中一个互补的变换来对应；若不引起耦合场发生等量反向的变化，孤立变量便无法改变自身状态。
 
-At the moment a causal node crosses into realisation it works mathematically as a free variable V. [The Only Coherent Uncaused Effect](../the-only-coherent-uncaused-effect/) recognises this moment as choice: the one aperture through which awareness breaks deterministic mechanical simulation and brings an underivable degree of freedom into reality. Awareness at every scale is this feedback, as [The Continuum of the Fold](../the-continuum-of-the-fold/) argues. The instant the free variable is injected and realised as a determinate state, binary 0 or 1 for instance, it becomes bound within the coupled field—as [The Residue and the Free Variable](../the-residue-and-the-free-variable/) traces—and acquires basic inertia, staying unchanged unless it interacts with its environment. When it interacts, it obeys strict logical complementarity, ΔV + ΔE = 0: every state change the variable undergoes is matched by a complementary transformation in the environment it interacts with; an isolated variable cannot change its state without an equal and opposite shift in the field it couples to.
+At the moment a causal node crosses into realisation it works mathematically as a free variable V. [The Only Coherent Uncaused Effect](../the-only-coherent-uncaused-effect/) recognises this moment as choice: the one aperture through which awareness breaks deterministic mechanical simulation and brings an underivable degree of freedom into reality. Self-referring feedback loops are observed across scales, but calling any one of them conscious is a Mind placing the cut, as [The Continuum of the Fold](../the-continuum-of-the-fold/) argues. The instant the free variable is injected and realised as a determinate state, binary 0 or 1 for instance, it becomes bound within the coupled field—as [The Residue and the Free Variable](../the-residue-and-the-free-variable/) traces—and acquires basic inertia, staying unchanged unless it interacts with its environment. When it interacts, it obeys strict logical complementarity, ΔV + ΔE = 0: every state change the variable undergoes is matched by a complementary transformation in the environment it interacts with; an isolated variable cannot change its state without an equal and opposite shift in the field it couples to.
 
 许多自由变量持续地相互作用，它们互补的交换就闭合成反馈回路，V₁ ⇌ V₂ ⇌ V₃ ⇌ V₁。一个反馈回路稳定下来的那一刻，一个涌现的现象出现：这个回路成为一个新的宏观身份。在这个更高层级的粗粒化描述上，回路内部的整个循环退到背景里——正如[递归形式系统中作为记忆与控制的边界条件图](../boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/)在分析稳定的内层回路嵌套于更宽的外层回路时所追溯的——稳定的回路在这一层沿其剩余自由度表现为一个单一、统一的复合变量，尽管在人类制度中，任何新的不可推导之切分依然源自回路之内活生生的心智，而非源自宏观外壳本身。相互作用的夸克形成稳定的核子，核子与电子形成原子，原子形成稳定的分子，细胞的反馈回路形成生物体，相互作用的人形成制度、市场与文化结构。被认作“物质”、“能量”或“社会结构”的一切，都是稳定反馈回路在尚无扰动进入其界定区域时的持续保持；一个物体或一个制度消失，并没有蒸发成虚无，而是它内部的回路被外来的扰动变量打破，或退到了观察者的地平线之外。
 
@@ -57,7 +57,7 @@ flowchart TD
     end
     subgraph S_Macro["新的宏观身份"]
         direction TB
-        M1["在更高一层表现为单一的自由变量"]
+        M1["在更高一层表现为一个复合变量"]
         M2["夸克、原子、细胞、制度"]
     end
     V1 --> V2
@@ -89,7 +89,7 @@ flowchart TD
     end
     subgraph S_Macro["A new macro identity"]
         direction TB
-        M1["Behaves as one free variable a tier up"]
+        M1["A tier up, behaves as one composite variable"]
         M2["Quarks, atoms, cells, institutions"]
     end
     V1 --> V2
@@ -114,7 +114,7 @@ In human cognition this recursive bootstrapping takes the form of an adaptive le
 
 ## 六、 不对称的耦合 / 6. The Asymmetric Coupling
 
-两个有意识的自由变量在不对称的因果归属下相互作用时，一种断裂就发生了。甲把自己的因果能动性错置到外面，“你是我这个状态的原因”，交出了驾驶座；乙互补地承担起书写甲之结果的责任，“我必须来驾驶，吸收你的后果”；一个闭合的、自我加强的反馈回路形成，乙承担驾驶的负担，甲采取依赖的姿态。对甲内部的机制，后果是深的：甲相信改变的来源在自己之外，就停止更新自己的世界模型，损失函数被关掉；现实把与甲冻结的模型相矛盾的新因果节点放进甲的地平线时，甲适应不了，而是把差异当作“反常”打发掉，归咎于外部的恶意，或干脆不看。冻结模型，甲就在主动截短自己的感知地平线，感知自洽因果的能力系统地萎缩。两个人同时指向外面，就像两个吵架的孩子各自喊“是你的错”，就形成一个对称的僵局：双方都冻结内部的更新，都怪另一个变量，都退回发展上的停滞。
+两个有意识的自由变量在不对称的因果归属下相互作用时，一种断裂就发生了。甲把自己的因果能动性错置到外面，“你是我这个状态的原因”，交出了驾驶座；乙互补地承担起书写甲之结果的责任，“我必须来驾驶，吸收你的后果”；一个闭合的、自我加强的反馈回路形成，乙承担驾驶的负担，甲采取依赖的姿态。对甲内部的机制而言，后果很深：甲相信改变的来源在自己之外，就停止更新自己的世界模型，损失函数被关掉；现实把与甲冻结的模型相矛盾的新因果节点放进甲的地平线时，甲适应不了，而是把差异当作“反常”打发掉，归咎于外部的恶意，或干脆不看。冻结模型，甲就在主动截短自己的感知地平线，感知自洽因果的能力系统地萎缩。两个人同时指向外面，就像两个吵架的孩子各自喊“是你的错”，就形成一个对称的僵局：双方都冻结内部的更新，都怪另一个变量，都退回发展上的停滞。
 
 A break occurs when two conscious free variables interact under asymmetric causal attribution. A misplaces their own causal agency outward, "you are the cause of my state", and gives up the driver's seat; B complementarily takes on responsibility for writing A's outcomes, "I must drive and absorb your consequences"; a closed, self-reinforcing feedback loop forms, B carrying the burden of steering and A taking the posture of reliance. For A's inner machinery the consequence is deep: believing the source of change lies outside, A stops updating their own world model and the loss function is switched off; when reality puts new causal nodes into A's horizon that contradict the frozen model, A cannot adapt, and instead dismisses the discrepancies as "anomalies", blames outside malice, or does not look. Freezing the model, A actively shortens their own perceptual horizon, and the capacity to perceive coherent causality systematically atrophies. When two people point outward at once, like two quarrelling children each shouting "it's your fault", a symmetric deadlock forms: both freeze their inner updates, both blame the other variable, and both slip back into a developmental stall.
 

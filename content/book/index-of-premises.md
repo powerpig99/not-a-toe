@@ -1595,9 +1595,9 @@ Presumes time reversibility in microscopic equations challenges thermodynamic ir
 ### 黎曼猜想 / Riemann Hypothesis
 `数学 / Mathematical`
 
-临界线上零点所占比例的陈述，预设了一个无尽集合的总量，在一次设定的闭合之内推进可认证的下界时有用；它在此到了边界：从百分之四十一点六到六十七点二的下界，在那次闭合之内可靠，而不是对一个已清点整体的测量。
+关于 zeta 函数临界线上零点所占比例的陈述，从固定的解析起点出发，对所有高度 T 上的有限阶段比值 N₀(T)/N(T) 取极限，以此在一个无尽集合之上设定暂时的总测度，在那一闭合之内推进可认证的下界时有用；它在此到了边界：从百分之四十一点六到六十七点二的下界，在那次闭合之内可靠，而不是对一个已清点整体的测量。
 
-Statements of the proportion of zeta zeros on the critical line presuppose a total measure of an unending collection, which is of use in advancing certifiable bounds inside a posited closure; it reaches its boundary in that the 41.6 to 67.2 percent bound is reliable inside that closure, not a measurement over a surveyed whole.
+Statements of the proportion of zeta zeros on the critical line take the limit of finite stage-ratios N₀(T)/N(T) across all heights T from fixed analytic starting points to posit a provisional total measure over an unending collection, which is of use in advancing certifiable bounds inside that closure; it reaches its boundary in that the 41.6 to 67.2 percent bound is reliable inside that closure, not a measurement over a surveyed whole.
 
 → [潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [全息回声 / The Holographic Echo](../../posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function/)
 
@@ -1894,9 +1894,9 @@ The contest between acceleration and deceleration reads progress as a duel of tw
 ### 实无穷（完成的整体） / Actual Infinity (Completed Totality)
 `数学 / Mathematical`
 
-把无穷当作已完成的集合，是使渐近密度与证明成为可能的语境前提，在前提被握住时使认证有效；它在此到了边界：潜无限的过程本身从未完成，这个前提仍是一次暂时的闭合。
+把无尽的过程当作已完成的整体——无论是将一切阶段聚拢为一个无限集合，还是在连续统上设定固定的解析起点以使有限阶段比值的极限定义出渐近密度——是一项语境前提，在前提被握住时使认证有效；它在此到了边界：潜在的过程本身从未完成，这个前提仍是一次暂时的闭合。
 
-Treating infinity as a finished collection is a contextual premise enabling asymptotic densities and proofs, which is of use in that certification holds while the premise is held; it reaches its boundary in that the potential process itself never finishes, so the premise remains a temporary closure.
+Treating an unending process as a completed whole—whether by gathering all stages into an infinite set or by positing fixed analytic starting points over the continuum so that limits of finite stage-ratios define asymptotic densities—is a contextual premise, which is of use in that certification holds while the premise is held; it reaches its boundary in that the potential process itself never finishes, so the premise remains a temporary closure.
 
 → [潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/) · [无穷总体的海市蜃楼 / The Mirage of the Infinite Totality](../../posts/the-mirage-of-the-infinite-totality/)
 
@@ -2548,7 +2548,7 @@ Taking interpersonal contest to happen in one shared space, measured on a single
 
 → [阴影与无限 / The Shadow and the Infinite](../../posts/the-shadow-and-the-infinite/)
 
-### 认知维度的离散折射 / Dimensional Reduction in Cognition
+### 认知中的降维 / Dimensional Reduction in Cognition
 `数学 / Mathematical`
 
 为了覆盖最多的人，把多维的现实压成低门槛的口号、结论与捷径，在分发的效率上有用；它在此到了边界：被压平的信息承载不了因果的复杂度，迎合平均带宽让知识平台、公司与创作者把作为结果的规模当成原因，滑向均值，而不压缩的高维表达让每个人在自己的位置上各取所需。
@@ -4981,9 +4981,9 @@ Assuming that refining tools and workflows directly increases output is of use i
 ### 拓扑自由变量 / Topological Free Variables
 `数学 / Mathematical`
 
-把物质、制度与权力当作现成的、固定的结构，在描述已稳定的宏观身份时有用；它在此到了边界：每一个宏观身份都是相互作用的自由变量闭合并稳定下来的反馈回路，在更高一层表现为一个自由变量，把能动性交给集体去躲开摩擦，就关掉了纠错，滑向演化上的过时。
+把物质、制度与权力当作现成的、固定的结构，在描述已稳定的宏观身份时有用；它在此到了边界：每一个宏观身份都是相互作用的自由变量闭合并稳定下来的反馈回路，在更高一层表现为一个复合变量，而在人类制度中，其下一次不可推导的切分依然由回路之内活生生的心智作出，因而把能动性交给集体去躲开摩擦，就关掉了纠错，滑向演化上的过时。
 
-Treating matter, institutions and power as ready-made, fixed structures is of use in describing macro identities already stabilised; it reaches its boundary in that every macro identity is a feedback loop of interacting free variables closed and stabilised, behaving as one free variable a tier up, and handing agency to collectives to avoid friction switches off error correction and slides toward evolutionary obsolescence.
+Treating matter, institutions and power as ready-made, fixed structures is of use in describing macro identities already stabilised; it reaches its boundary in that every macro identity is a feedback loop of interacting free variables closed and stabilised, behaving a tier up as one composite variable whose next underivable cut, in a human institution, is still made by the living Minds within it, so handing agency to collectives to avoid friction switches off error correction and slides toward evolutionary obsolescence.
 
 → [自由变量的生成拓扑 / The Generative Topology of Free Variables](../../posts/the-generative-topology-of-free-variables/)
 

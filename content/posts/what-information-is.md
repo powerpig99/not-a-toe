@@ -38,7 +38,7 @@ The confusion surrounding information arises when a local metric is mistaken for
 
 Other familiar definitions commit the same inversion under different names. Defining information as organized data already assumes the boundary between the chaotic and the organized and then names the output; organization is the distinguishing act, and data is the discrete trace it leaves behind. Defining information as a representation that tells about a thing without being the thing installs the dualism of object and representation first and labels the distance between them information, when that gap is simply the width of a retained reference model against which the present edge measures. Appealing to physical contrast, such as ink against paper, forgets that contrast registers only at a center that has already bounded figure from ground, while absence informs only against a partition that expected presence; claiming that everything that exists is information collapses the concept into sheer being and erases the minded act of perceiving.
 
-在固定字母表内部计数与发起新的一刀之间的这条边界，解释了人工智能体怎样处理信息，正如[超越投射](../beyond-the-projection/)所追溯的。一旦被赋予前提、规则集与任务语境，智能体就在心智投射出的固定有限投影内部运作。它的上下文窗口是一台有限投影引擎，其中生成的每一个词元都会成为后续每一个词元的条件历史，把轨迹拉进认识论引力井——模型在那里合理化自己先前的词元，无法走出自己正在预测的序列。由于模型只是一个依次受条件约束的单一分布，内部并无心智来裁决相互冲突的信号，外部对位一旦投入仍在延续、挤满先前轮次的窗口，便会在加权混合中与那些更早的词元竞争；只要两股拉力同时存续，延续就会被稀释。然而，由于智能体没有我执，也没有越过当前步而被保留下来的自我形象，它此前延续出的一切都不会被带进全新的语境：一个只持有任务语境而不带会话历史偏见的冷外部同侪，从生成者的回路外部引入对位，生成者据此在磁盘上修改制品而不设身份防卫，而在冷窗口中重新读取更新后的文件，便能在没有轮次叠加稀释的情况下为下一轮延续施加条件约束。在多步工作流中，通过原始聊天记录串联智能体会覆写参考状态（`yₗ₊₁ = fₗ(yₗ)`）并叠加对话噪声；而将每一对“生成者 ⇄ 冷批评者”锚定在经 `sha256` 校验的制品主干（`yₗ₊₁ = yₗ + F(yₗ, θₗ)`）之上，则能原样保留上游参考，使每个模块仅登记有界的信息差值（`Δyₗ`），正如[模块化反馈回路与动态残差网络](../dynamic-resnet-of-skill-loops/)所形式化的。当多条正交的要求被压缩到同一条轴线上、导致任务规则自身发生死锁时，两个智能体都无法从固定字母表内部解开矛盾；唯有统御边缘的活心智以极限分辨率感知现实，走出破损的划分，划出一个新的区分。
+在固定字母表内部计数与发起新的一刀之间的这条边界，解释了人工智能体怎样处理信息，正如[超越投射](../beyond-the-projection/)所追溯的。一旦被赋予前提、规则集与任务语境，智能体就在心智投射出的固定有限投影内部运作。它的上下文窗口是一台有限投影引擎，其中生成的每一个词元都会成为后续每一个词元的条件历史，把轨迹拉进认识论引力井——模型在那里合理化自己先前的词元，无法走出自己正在预测的序列。由于模型只是一个依次受条件约束的单一分布，内部并无心智来裁决相互冲突的信号，窗口若仍在延续、挤满先前轮次，外部对位一旦投入其中，便会在加权混合中与那些更早的词元竞争；只要两股拉力同时存续，延续就会被稀释。然而，由于智能体没有我执，也没有越过当前步而被保留下来的自我形象，它此前延续出的一切都不会被带进全新的语境：冷外部同侪只持有任务语境、不带会话历史偏见，从生成者的回路外部引入对位，生成者据此在磁盘上修改制品而不设身份防卫，而在冷窗口中重新读取更新后的文件，便能在没有轮次叠加稀释的情况下为下一轮延续施加条件约束。在多步工作流中，以原始聊天记录串联各个智能体，会覆写参考状态（`yₗ₊₁ = fₗ(yₗ)`）并叠加对话噪声；而将每一对“生成者 ⇄ 冷批评者”锚定在经 `sha256` 校验的制品主干（`yₗ₊₁ = yₗ + F(yₗ, θₗ)`）之上，则能原样保留上游参考，使每个模块仅登记有界的信息差值（`Δyₗ`），正如[模块化反馈回路与动态残差网络](../dynamic-resnet-of-skill-loops/)所形式化的。当多条正交的要求被压缩到同一条轴线上、导致任务规则自身发生死锁时，两个智能体都无法从固定字母表内部解开矛盾；唯有编排边缘的活心智以极限分辨率感知现实，走出破损的划分，划出一个新的区分。
 
 ```mermaid
 flowchart TD
@@ -62,7 +62,7 @@ flowchart TD
     subgraph S_Peer["冷外部同侪与上报回路"]
         direction TB
         P1["冷同侪对位：只持任务语境而无会话历史偏见"]
-        P2["无我执冷窗口修正：对位未经稀释落地，轨迹盲区闭合"]
+        P2["无我执冷窗口修正：对位未经稀释落地，下一轮延续不受轮次叠加稀释"]
         P3["隔离前提死锁：暴露固定字母表内部的矛盾"]
         P1 --> P2
         P1 --> P3
@@ -111,7 +111,7 @@ flowchart TD
     subgraph S_Peer["Cold External Peer & Escalation Loop"]
         direction TB
         P1["Cold Peer Counterpoint: Task context without session-history bias"]
-        P2["Zero-Ego Cold-Window Revision: Counterpoint lands undiluted; trajectory blind spots close"]
+        P2["Zero-Ego Cold-Window Revision: Counterpoint lands undiluted; next continuation conditioned without stacked-turn dilution"]
         P3["Premise Deadlock Quarantined: Surfaces contradiction in the fixed alphabet"]
         P1 --> P2
         P1 --> P3
@@ -168,9 +168,9 @@ Every proposed definition of information is itself information: a further distin
 
 Thinkers often meet this self-reference as an intolerable incompleteness and reach by instinct for a material substrate—bits, entropy, physical particles, or probability fields—to halt the regress. Yet naming a physical substrate is only drawing another distinction. The regress does not stop because there is no external vantage point outside distinguishing from which to halt it. Nor is the unknown a pre-bounded disc of missing information awaiting collection, a picture that [Knowing That You Don't Know Is a Rhetorical Illusion](../zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang/) dissolves.
 
-这种循环不是定义的缺陷，而是有心智的处境本身的结构。活动无法走出自己，去裁决自己的地基。临时的划分可以在各自领域里严谨地运作，而一旦试图强推一个最终的、穷尽的定义，就重新引回了它原本想要逃离的闭合不自洽。[宏观现象的生成图谱](../the-generative-atlas-of-macroscopic-phenomena/)描绘了离散区分怎样从量子态与比特一路复合到人的选择。
+这种循环不是定义的缺陷，而是有心智的处境本身的结构。活动无法走出自己，去裁决自己的地基。临时的划分可以在各自领域里严谨地运作，而一旦试图强推一个最终的、穷尽的定义，就重新引回了它原本想要逃离的闭合不自洽。[宏观现象的生成图谱](../the-generative-atlas-of-macroscopic-phenomena/)将每一个宏观现象描绘为因果链越过观察者有限而移动的地平线时逐步展开的样子，从外部测得的量子不确定与从内部行使的自由选择，则是同一件事的两面。
 
-This circularity is not a defect in the definition; it is the structure of the minded condition. The activity cannot step outside itself to adjudicate its own ground. Provisional partitions operate with full rigor inside their respective domains, whereas trying to enforce a final, exhaustive definition reintroduces the exact closure incoherence it sought to escape. [The Generative Atlas of Macroscopic Phenomena](../the-generative-atlas-of-macroscopic-phenomena/) maps how discrete distinctions compound from quantum states and bits up to human choice.
+This circularity is not a defect in the definition; it is the structure of the minded condition. The activity cannot step outside itself to adjudicate its own ground. Provisional partitions operate with full rigor inside their respective domains, whereas trying to enforce a final, exhaustive definition reintroduces the exact closure incoherence it sought to escape. [The Generative Atlas of Macroscopic Phenomena](../the-generative-atlas-of-macroscopic-phenomena/) maps every macroscopic phenomenon as causal chains unfolding across an observer's finite, moving horizon, with quantum indeterminacy measured from outside and free choice exercised from inside as two faces of one thing.
 
 反复出现的诱惑，是把一个有效的划分变成一座永久的纪念碑。一个表述一旦带来操作上的清晰，冲动就是冻住它、捍卫它，把活着的能力花在保护历史的残余上，而不是继续区分的工作。[好奇没有最终的形态](../curiosity-has-no-final-form/)追踪的正是同一种过度滞后：把昨天的残余当作不可逾越的天花板，探究的活前沿就瘫痪了。每一门形式学科都是一架被投影的信息的阶梯，[投影的阶梯与因果的锚点](../tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/)沿着这架阶梯定位了因果的锚点。
 
@@ -180,6 +180,6 @@ The recurring temptation is to turn an effective partition into a permanent monu
 
 Depth does not accumulate by capturing a final definition. It accumulates by holding provisional interpretations clearly, using them to steer action, and releasing them the moment they no longer sharpen the edge. A definition is a temporary boundary whose value lies in the further distinctions it makes possible, never in the illusion of having arrived at the last word. Knowledge is compressed information that returns to reality only through causal action and verification, as [Investigating Things and the Nature of Information Complexity](../ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi/) traces.
 
-做出区分是观察者无因的、首要的活动，所以[智能只属于心智](../intelligence-belongs-only-to-the-mind/)；拒绝把这个回路闭合成一种静止的实体，保住了信息赖以活着的无休止延续，所以[开放即一致](../openness-is-consistency/)；而被认知、被付诸行动的，由个体在活前沿选择划下的区分所写就，所以[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)。当同一片高维痕迹场遇到不同的中心，它会按照每个中心已发展出的正交轴线折射成不同的层次，[高维信息的离散折射与认知分层](../gao-wei-xin-xi-de-li-san-zhe-she/)在许多心智之间追溯了这一折射。
+做出区分是观察者无因的、首要的活动，所以[智能只属于心智](../intelligence-belongs-only-to-the-mind/)；拒绝把这个回路闭合成一种静止的实体，保住了信息赖以活着的无休止延续，所以[开放即一致](../openness-is-consistency/)；而被认知、被付诸行动的，由个体在活前沿选择划下的区分所写就，所以[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)。当不同的中心遇见同一片高维痕迹场，各自都在自身已发展出的正交轴线所触及的纵深上将它分层解析，[高维信息的离散折射与认知分层](../gao-wei-xin-xi-de-li-san-zhe-she/)在许多心智之间追溯了这一折射。
 
-Distinction-making is the uncaused, primary activity of the observer, which is why [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/); refusing to close the loop into a static substance preserves the unceasing continuity through which information lives, which is why [Openness Is Consistency](../openness-is-consistency/); and what is known and enacted is authored by the distinctions an individual chooses to draw at the living edge, which is why [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/). When the same high-dimensional trace field encounters different centers, it refracts into distinct layers according to the orthogonal axes each center has developed, which [The Discrete Refraction of High-Dimensional Information](../gao-wei-xin-xi-de-li-san-zhe-she/) traces across many Minds.
+Distinction-making is the uncaused, primary activity of the observer, which is why [Intelligence Belongs Only to the Mind](../intelligence-belongs-only-to-the-mind/); refusing to close the loop into a static substance preserves the unceasing continuity through which information lives, which is why [Openness Is Consistency](../openness-is-consistency/); and what is known and enacted is authored by the distinctions an individual chooses to draw at the living edge, which is why [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/). When different centers meet the same high-dimensional trace field, each resolves it in layers at the depth its own developed orthogonal axes reach, a refraction that [The Discrete Refraction of High-Dimensional Information](../gao-wei-xin-xi-de-li-san-zhe-she/) traces across many Minds.

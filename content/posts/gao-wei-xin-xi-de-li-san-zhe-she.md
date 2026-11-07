@@ -1,12 +1,12 @@
 # 高维信息的离散折射与认知分层 / The Discrete Refraction of High-Dimensional Information
 
-*大众传播把多维现实压成单一捷径，在第一人称当下展开的沟通，让每位听者各取所需 / Mass communication flattens reality into one shortcut; first-person communication lets each listener take what fits.*
+*大众传播把多维现实压成单一捷径；在第一人称当下展开的沟通，让每位听者各取所需 / Mass communication flattens reality into one shortcut; first-person communication lets each listener take what fits.*
 
 在公共表达与大众媒介的场域里，内容传播面对一种结构性的张力：追求受众覆盖面最大化的传播者，把多维复杂的现实经验压成低门槛的口号、非黑即白的结论或可以直接套用的操作捷径。当一个人选择不做这种单向的降维压缩，而是在播客或公共对话里以第一人称展开高密度、多维度的第一性原理推演时，随之出现的是两极的分布：一边是击节赞赏的深度共鸣，一边是激烈抵触的全盘否定。
 
 In public expression and mass media, the spreading of content faces a structural tension: communicators seeking to maximise audience reach compress many-dimensional, complex lived reality into low-threshold slogans, black-and-white conclusions, or shortcuts ready to apply. When someone chooses not to perform this one-way compression and instead unfolds dense, many-dimensional first-principles reasoning in the first person on a podcast or in public conversation, a polarised distribution follows: deep resonance and applause on one side, fierce resistance and wholesale rejection on the other.
 
-这不是沟通策略的失灵，而是高维信息在不同认知坐标系里的离散折射。它揭示了信息匹配与视角错配的规律，也提供了一面观察心智怎样运行因果闭环的透镜。
+这不是沟通策略的失灵，而是高维信息在不同认知坐标系里的离散折射。它揭示了信息匹配与视角错配的机制，也提供了一面观察心智怎样运行因果回路的透镜。
 
 This is not a failure of communication strategy, but the discrete refraction of high-dimensional information through different cognitive coordinate systems. It reveals how information matching and mismatched views work, and offers a lens for watching how a Mind runs its causal loop.
 
@@ -31,10 +31,10 @@ flowchart TD
         P3["初次接触：感到视角的切换"]
         P4["索取捷径：无处安放而迷失"]
     end
-    L1 ==>|"折射"| P1
-    P1 --> P2
-    P2 --> P3
-    P3 --> P4
+    L1 ==>|"折射"| S_Prism
+    P1 ~~~ P2
+    P2 ~~~ P3
+    P3 ~~~ P4
     style S_Light fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Prism fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style L1 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
@@ -59,10 +59,10 @@ flowchart TD
         P3["First contact: feels the change of view"]
         P4["Asking for shortcuts: lost, nowhere to place it"]
     end
-    L1 ==>|"refracts"| P1
-    P1 --> P2
-    P2 --> P3
-    P3 --> P4
+    L1 ==>|"refracts"| S_Prism
+    P1 ~~~ P2
+    P2 ~~~ P3
+    P3 ~~~ P4
     style S_Light fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Prism fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style L1 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
@@ -72,7 +72,7 @@ flowchart TD
     style P4 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
 ```
 
-这种分层不是人为设立的高低等级，而是信息的维度与接收心智带宽之间的结构性匹配。正如[维度即投影](../dimensions-are-projections/)所追溯的，每一次新划出的区分都会增加一条独立的正交轴，而每个心智在遭遇他者的痕迹时，都是将其重新投射到自己已经稳固的坐标轴上：高维痕迹保留着跨越多个坐标轴的边界链条，不把它们压扁到少数几个轴上，每位听者便能在自己够得着的纵深上重新追溯出契合的部分；较窄的框架把原本独立的坐标轴压成扁平的二元对立，由此生出的困惑与反对，恰恰直接表明信息没有被压平成均质的形态。
+这种分层不是人为设立的高低等级，而是信息的维度与接收心智带宽之间的结构性匹配。正如[维度即投影](../dimensions-are-projections/)所追溯的，每一次新划出的区分都会增加一条独立的正交轴，而每个心智在遭遇他者的痕迹时，都是将其重新投射到自己已经稳固的坐标轴上：高维痕迹保留着跨越多个坐标轴的边界链条，不把它们压扁到少数几个轴上，每位听者便能在自己够得着的纵深上重新追溯出契合的部分；较窄的框架把原本独立的坐标轴压成扁平的二元对立，由此生出的困惑与反对，正是信息没有被压平成均质形态的直接标志。
 
 This layering is not an artificial hierarchy, but a structural match between the dimensions of the information and the bandwidth of the receiving Mind. As [Dimensions Are Projections](../dimensions-are-projections/) traces, each newly drawn distinction adds an independent orthogonal axis, and every Mind encounters another's trace by re-projecting it onto the coordinate axes it has already stabilized: a high-dimensional trace that keeps its chain of bounds across multiple axes instead of flattening them onto a few lets each listener re-trace what fits at the depth within reach, while the confusion and opposition that arise when a narrower frame compresses independent axes onto a flat binary are the direct sign of information not flattened into uniformity.
 
@@ -82,7 +82,7 @@ This layering is not an artificial hierarchy, but a structural match between the
 
 In live podcast conversations a request comes up: "if you are interested in some technology, why not just give a few concrete technical reasons instead of all this abstract logic and argument?" Behind it lies a misunderstanding of how information is supplied and how understanding is built. The geometry of views can be understood through the front and back of a statue: two people stand on either side of one statue, one at the front, one at the back; if one stays at the back, unwilling to move their own point of observation, yet asks the other to describe the front in enough detail to be understood from behind, that cannot be done informationally.
 
-更要紧的是，具体信息的输入并不自动带来理解，效果取决于双方初始视角的相对几何关系。正如[感知的界限与理解的无限](../the-boundary-of-perception-and-the-infinity-of-understanding/)所追溯的，任何具体的测量或参数，都只是一次指向先选定要解析哪些坐标轴、随后留下的局部痕迹；理解沿着为这次指向定向的因果模型展开，而不停留在孤立的读数里。两人的观察坐标系很接近时，输入具体的公开数据与技术参数，能提高对方画面的分辨率，起到细化与校准的作用；两人的坐标系相反或正交时，输入越多具体的技术细节，越不能促成视角的转变，反而会被既有的心智框架吸收并做反向合理化，进一步固化原来的看法。在复杂的动态系统与投资决策里，并没有脱离个人第一人称动态体系的静态判据；挑出一两个静态的技术参数当作“标准答案”，表面上迎合了对确定结论的渴望，实际上是用一张静态的局部切片替代了连续的动态校准。
+更要紧的是，具体信息的输入并不自动带来理解，效果取决于双方初始视角的相对几何关系。正如[感知的界限与理解的无限](../the-boundary-of-perception-and-the-infinity-of-understanding/)所追溯的，任何具体的测量或参数，都只是局部的痕迹：先有一次指向选定了要解析哪些坐标轴，读数才随之留下；理解沿着给这次指向定向的因果模型展开，而不停留在孤立的读数里。两人的观察坐标系很接近时，输入具体的公开数据与技术参数，能提高对方画面的分辨率，起到细化与校准的作用；两人的坐标系相反或正交时，输入越多具体的技术细节，越不能促成视角的转变，反而会被既有的心智框架吸收并做反向合理化，进一步固化原来的看法。在复杂的动态系统与投资决策里，并没有脱离个人第一人称动态体系的静态判据；挑出一两个静态的技术参数当作“标准答案”，表面上迎合了对确定结论的渴望，实际上是用一张静态的局部切片替代了连续的动态校准。
 
 More important, the input of concrete information does not automatically bring understanding; the effect depends on the relative geometry of the two starting views. As [The Boundary of Perception and the Infinity of Understanding](../the-boundary-of-perception-and-the-infinity-of-understanding/) traces, any concrete measurement or parameter is only the local trace left after an act of pointing has chosen which axes to resolve, and understanding unfolds along the causal model that oriented the pointing rather than inside the isolated reading. When the two coordinate systems are close, concrete public data and technical parameters raise the resolution of the other's picture, refining and calibrating it; when the two are opposite or orthogonal, the more concrete technical detail is fed in, the less it shifts the view, and instead it is absorbed by the existing mental frame and reverse-rationalised, hardening the original opinion further. In complex dynamic systems and investment decisions there is no static criterion detached from a person's first-person dynamic system; picking one or two static technical parameters as "the standard answer" seems to meet the craving for settled conclusions while in fact replacing continuous dynamic calibration with a static local slice.
 
@@ -102,25 +102,25 @@ The same causal mechanism runs through companies and artistic creation. An innov
 
 When the information exchanged traces causal mechanisms past consensus shortcuts, it sits ahead on that axis, and those who encounter it spread out in a lagging normal or long-tailed distribution along the time axis. It is like a long run: looking back from the front, one sees people at varying distances behind who have chosen on their own to move along the same path, and their presence is an uncompelled by-product rather than the reason for running. The trap is that, finding more and more people behind, one stops to enjoy the acclaim or slows the pace to suit the main pack, and the lead one held falls apart. Ahead and behind here name positions on one matter, not ranks of people.
 
-这正是电影《阿甘正传》里阿甘横跨美国奔跑的意象：阿甘奔跑是因为自己选择去跑，前面有人还是后面有人，与他的步伐没有因果上的关联；成百上千的人跟在他身后、把他奉为精神导师时，他既不放慢脚步去迎合追随者，也不停下来向人群布道；决定停下时，他只是转身回家。这种状态，就是第一人称自主定向的样子：做事出于把事情推到逻辑闭环的内在愿望，与是否有人跟随、外界的赞赏或抵触脱钩。
+这正是电影《阿甘正传》里阿甘横跨美国奔跑的意象：阿甘奔跑是因为自己选择去跑，前面有人还是后面有人，与他的步伐没有因果上的关联；成百上千的人跟在他身后、把他奉为精神导师时，他既不放慢脚步去迎合追随者，也不停下来向人群布道；决定停下时，他只是转身回家。这种状态，就是第一人称自主定向的样子：做事出于把事情推到底、直至逻辑自洽的内在愿望，与是否有人跟随、外界的赞赏或抵触脱钩。
 
-This is the image of Forrest Gump's run across America in the film: he runs because he chooses to run, and whether anyone is ahead or behind has no causal bearing on his stride; when hundreds follow him and hail him as a spiritual guide, he neither slows to suit his followers nor stops to preach to the crowd; and when he decides to stop, he simply turns and goes home. This is what first-person self-direction looks like: acting out of an inner wish to carry the matter to a closed logical loop, detached from whether anyone follows and from outside praise or resistance.
+This is the image of Forrest Gump's run across America in the film: he runs because he chooses to run, and whether anyone is ahead or behind has no causal bearing on his stride; when hundreds follow him and hail him as a spiritual guide, he neither slows to suit his followers nor stops to preach to the crowd; and when he decides to stop, he simply turns and goes home. This is what first-person self-direction looks like: acting out of an inner wish to carry the matter through until its logic holds, detached from whether anyone follows and from outside praise or resistance.
 
 ## 五、 沟通的因果锚点 / 5. The Causal Anchor of Communication
 
-要打破因果倒置的退化循环，关键在于重新校准沟通的第一自变量。[信息是什么](../what-information-is/)与[自由变量的同构与先验主权](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)确立了行动的因果位阶：因果现实里的一切建构，只有以第一人称在当下的微观选择为锚，才能保持逻辑的自洽。在有深度的现场对话里，沟通的第一锚点，是在与对话者的直接碰撞里，探测并弥合自己认知架构中未知的盲点。把注意力放在捕捉推演中的逻辑断点、诚实地校准自己的前提假设、当场完成思路的编译上，沟通就成了一个专注的、自我闭环的演化过程；听者的理解与共鸣，是这个过程自然溢出的副产品，而不是从一开始就设计好的迎合目标。
+要打破因果倒置的退化循环，关键在于重新校准沟通的第一自变量。[信息是什么](../what-information-is/)与[自由变量的同构与先验主权](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/)确立了行动的因果位阶：因果现实里的一切建构，只有以第一人称在当下的微观选择为锚，才能保持逻辑的自洽。在有深度的现场对话里，沟通的第一锚点，是在与对话者的直接碰撞里，探测并弥合自己认知架构中未知的盲点。把注意力放在捕捉推演中的逻辑断点、诚实地校准自己的前提假设、当场完成思路的编译上，沟通就成了一个专注的、自我校准的演化过程；听者的理解与共鸣，是这个过程自然溢出的副产品，而不是从一开始就设计好的迎合目标。
 
-Breaking the declining loop of causal inversion turns on recalibrating the first independent variable of communication. [What Information Is](../what-information-is/) and [The Isomorphism of Free Variables and Prior Sovereignty](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/) establish the causal rank of action: every construction in causal reality stays logically consistent only when anchored in a first-person micro choice in the present. In a live conversation of depth, the first anchor of communication is detecting and closing the unknown blind spots in one's own cognitive architecture through direct collision with the other speaker. With attention on catching logical breaks in the reasoning, honestly calibrating one's own premises, and compiling the line of thought on the spot, communication becomes a focused, self-closing process of evolution; the listener's understanding and resonance are by-products that spill naturally from it, not a target of catering designed from the start.
+Breaking the declining loop of causal inversion turns on recalibrating the first independent variable of communication. [What Information Is](../what-information-is/) and [The Isomorphism of Free Variables and Prior Sovereignty](../zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan/) establish the causal rank of action: every construction in causal reality stays logically consistent only when anchored in a first-person micro choice in the present. In a live conversation of depth, the first anchor of communication is detecting and closing the unknown blind spots in one's own cognitive architecture through direct collision with the other speaker. With attention on catching logical breaks in the reasoning, honestly calibrating one's own premises, and compiling the line of thought on the spot, communication becomes a focused, self-calibrating process of evolution; the listener's understanding and resonance are by-products that spill naturally from it, not a target of catering designed from the start.
 
-不妥协的高维表达，还把外界的反馈变成校准自身心智编译器的一面高分辨率透镜。[错置的因果与心智编译器](../cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi/)与[投影的阶梯与因果的锚点](../tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/)指出，一切认同与争议，都是不同心智坐标系之间投影截面的差异。对话建立在公开的事实与数据之上，听者如何解读这些痕迹，是在听者自己的心智模型内部设定的；从表达者这一侧看，共鸣与反对标出的是：表达中铺开的边界，在哪里与每位听者带来的框架相合，又在哪里错开；它们作为信号折返回来，用来检验自己的推演里是否有哪条前提尚未言明，或被压缩了。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，把这份不妥协的推演从当下的掌舵边缘外化进持久的文库，便能跨越不同会话留存那条未经压缩的边界链条，而不向人群均值稀释；像阿甘那样只管向前跑、不回头迎合追随者，则在[路口的转向与地平说的行动悖论](../lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun/)里有更完整的展开。
+不妥协的高维表达，还把外界的反馈变成校准自身心智编译器的一面高分辨率透镜。[错置的因果与心智编译器](../cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi/)与[投影的阶梯与因果的锚点](../tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/)指出，一切认同与争议，都登记在不同心智坐标系的投影截面相合或错开之处。对话建立在公开的事实与数据之上，听者如何解读这些痕迹，是在听者自己的心智模型内部设定的；从表达者这一侧看，共鸣与反对标出的是：表达中铺开的边界，在哪里与每位听者带来的框架相合，又在哪里错开；它们作为信号折返回来，用来检验自己的推演里是否有哪条前提尚未言明，或被压缩了。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，把这份不妥协的推演从当下掌舵的边缘外化进持久的文库，便能跨越不同会话留存那条未经压缩的边界链条，而不向人群均值稀释；像阿甘那样只管向前跑、不回头迎合追随者，则在[路口的转向与地平说的行动悖论](../lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun/)里有更完整的展开。
 
-Uncompromising high-dimensional expression also turns outside feedback into a high-resolution lens for calibrating one's own cognitive compiler. [Misplaced Causality and the Mind's Compiler](../cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi/) and [The Ladder of Projections and the Anchor of Causality](../tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/) point out that all agreement and dispute are differences between projection cross-sections of different mental coordinate systems. The conversation rests on public facts and data, and how a listener reads those traces is set inside the listener's own mental model; from the speaker's side, resonance and opposition show where the bounds laid out in the expression met or missed the frame each listener brought, returning as a signal to test whether any premise in one's own derivation was left unstated or compressed. Externalizing that uncompromised reasoning from the live steering edge into a durable repository preserves that uncompressed chain of bounds across sessions without diluting it toward a crowd mean, as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, while running forward like Forrest Gump without turning back to please followers is unfolded further in [Turning at the Crossroad and the Flat-Earth Action Paradox](../lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun/).
+Uncompromising high-dimensional expression also turns outside feedback into a high-resolution lens for calibrating one's own cognitive compiler. [Misplaced Causality and the Mind's Compiler](../cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi/) and [The Ladder of Projections and the Anchor of Causality](../tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian/) point out that all agreement and dispute register where the projection cross-sections of different mental coordinate systems coincide or diverge. The conversation rests on public facts and data, and how a listener reads those traces is set inside the listener's own mental model; from the speaker's side, resonance and opposition show where the bounds laid out in the expression met or missed the frame each listener brought, returning as a signal to test whether any premise in one's own derivation was left unstated or compressed. Externalizing that uncompromised reasoning from the live steering edge into a durable repository preserves that uncompressed chain of bounds across sessions without diluting it toward a crowd mean, as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, while running forward like Forrest Gump without turning back to please followers is unfolded further in [Turning at the Crossroad and the Flat-Earth Action Paradox](../lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun/).
 
 ## 六、 棱镜的光谱与不疾不徐的步履 / 6. The Spectrum of the Prism and the Unhurried Stride
 
-拒绝因果倒置，是对认知演化规律的尊重。为了迎合规模而稀释思路的维度，或为了他人的滞后而放慢脚步，都会折损当下的切分；每一次深度对话都是探测自己认知边界的试炼场，输出完整、自洽、不妥协的高维思考。就像穿过棱镜的光，它不要求所有介质都产生相同的折射，在它展开的光谱里，不同维度的听者各取所需。
+拒绝因果倒置，让表达始终随着自身理解的展开而推进。为了迎合规模而稀释思路的维度，或为了他人的滞后而放慢脚步，都会折损当下的切分；每一次深度对话都是探测自己认知边界的试炼场，表达者在其中不加保留地输出自洽、不妥协的高维思考。就像穿过棱镜的光，它不要求所有介质都产生相同的折射，在它展开的光谱里，不同准备度的听者在各自触及的纵深上各取所需。
 
-Refusing causal inversion respects how understanding evolves. Diluting the dimensions of thought to suit scale or slowing down for others' lag trades away the living cut; each deep conversation serves as a proving ground for probing the edges of one's own understanding, putting out complete, consistent, uncompromising high-dimensional thinking. Like light passing through a prism, it does not demand the same refraction from every medium, and in the spectrum it spreads, listeners across different dimensions each take what fits.
+Refusing causal inversion keeps expression moving with the unfolding of one's own understanding. Diluting the dimensions of thought to suit scale or slowing down for others' lag trades away the living cut; each deep conversation serves as a proving ground for probing the edges of one's own understanding, where the speaker puts out consistent, uncompromising high-dimensional thinking without holding back. Like light passing through a prism, it does not demand the same refraction from every medium, and in the spectrum it spreads, listeners of different readiness each take what fits at the depth they reach.
 
 听者各取所需，是他们自己的选择。[信任读者是最后的越界](../trusting-the-reader-is-the-last-overstep/)指出，连期待听者随时间跟上的信任本身，也是一种因果越界；信息超前于听者的分布，也是[成功的几何学](../the-geometry-of-success/)所描述的异步迁入尚未绘图的地带。
 
