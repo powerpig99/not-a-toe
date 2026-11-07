@@ -4999,9 +4999,9 @@ The self-image is taken for oneself, and so it is guarded, or one tries to extin
 ### 量子测量的拓扑刻痕 / Topological Trace of Measurement
 `科学 / Scientific`
 
-假定不确定性要么是自然本体的裂痕、要么是隐变量的欠缺；对学派争鸣有用，却忽略了任何测量动作本身即是观察者刻下的拓扑界限。
+假定量子不确定性要么是自然本体的故障，要么是对隐变量的无知，而这些隐变量原则上可由场外的认知者清点；它在按字面计算结果统计、为经受贝尔不等式检验的局域补全方案提供框架时有用，边界在于：每一次测量都是内嵌于世界的观察者发起指向的动作，其分辨率界限就是这一指向留下的刻痕。
 
-Presumes indeterminism is either an ontological flaw in nature or an ignorance of hidden variables; useful for debate, it misses that measurement acts etch limits into frames.
+Presumes quantum indeterminacy is either an ontological fault in nature or ignorance of hidden values that a knower outside the scene could in principle survey; useful for computing outcome statistics at face value and for framing the local completions that Bell's inequality put to test, it reaches its boundary in that every measurement is an embedded observer's act of pointing and its resolution limit is the trace that pointing leaves.
 
 → [感知的界限与理解的无限 / The Boundary of Perception and the Infinity of Understanding](../../posts/the-boundary-of-perception-and-the-infinity-of-understanding/) · [词元与观测边界 / Tokens and the Observational Boundary](../../posts/tokens-and-the-observational-boundary/)
 
