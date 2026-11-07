@@ -2506,9 +2506,9 @@ Handing money to professional institutions to lower the friction of management t
 ### 人口坍塌恐慌论 / Demographic Population Collapse Myth
 `科学 / Scientific`
 
-人口崩溃论预设生育率下降是由技术、资源或机会的稀缺造成的一个永久终局，在让代际的人口变化被注意到时有用；它在此到了边界：在盈余之下，生育率是外置的能动在转移中被一再强化之后的迟到登记，以更多转移回应这份警报只会加深同一个回路，而选择仍在继续，剩余的能动会重建盈余的条件。
+人口崩溃论预设生育率下降是由技术、资源或机会的稀缺造成的一个永久终局，在让代际的人口变化被注意到时有用；它在此到了边界：在盈余之下，生育率是外置的能动在转移中被一再强化之后的迟到登记，以更多转移回应这份警报只会加深同一个回路，而差异化的生育会让那些继续展示能动、或把回返的后果收归己有以重建盈余条件的边缘所占的份额不断复利。
 
-Population collapse theory presumes that falling fertility is a permanent terminus caused by scarcity of technology, resources, or opportunity, which is of use in drawing attention to generational change in population; it reaches its boundary in that, under surplus, fertility is the delayed registration of externalized agency reinforced through transfers, answering the alarm with more transfers deepens the same loop, and selection continues until residual agency rebuilds the conditions for surplus.
+Population collapse theory presumes that falling fertility is a permanent terminus caused by scarcity of technology, resources, or opportunity, which is of use in drawing attention to generational change in population; it reaches its boundary in that, under surplus, fertility is the delayed registration of externalized agency reinforced through transfers, answering the alarm with more transfers deepens the same loop, and differential reproduction compounds the share of edges that keep demonstrating agency or reclaim returning consequences to rebuild the conditions for surplus.
 
 → [人口崩溃神话的拆解 / The Myth of Population Collapse Explained](../../posts/the-myth-of-population-collapse-explained/)
 
@@ -3037,9 +3037,9 @@ Achievement metrics assume success can be decomposed into public variables; deci
 ### 移民造就美国例外论 / Immigration as Engine of American Exceptionalism
 `意识形态 / Ideological`
 
-该叙事预设移民是解释美国例外论的单一正向力量，在记录一种历史相关性时有用；它在此到了边界：它把早期高度筛选的群体与后来的规模流入塌缩进一个词，便分不清是哪一种筛选承载了生产的边缘。
+该叙事预设移民是解释美国例外论的单一正向力量，在记录一种历史相关性时有用；它在此到了边界：它把高度筛选的个人建立并放大回报场的行动，与大规模流入的人数，塌缩进一个词，于是将总体人数计为筛选边缘的共同作者。
 
-The narrative presumes immigration is a single positive force explaining American exceptionalism, which is of use in recording a historical correlation; it reaches its boundary in that it collapses early highly selected cohorts and later volume into one word, so it cannot say which selection carried the productive edge.
+The narrative presumes immigration is a single positive force explaining American exceptionalism, which is of use in recording a historical correlation; it reaches its boundary in that it collapses the acts of highly selected individuals that build and amplify the payoff field and the head count of mass-volume inflows into one word, scoring aggregate head count as co-author of the selective edge.
 
 → [平均值是残余，不是引擎 / The Average Is Residue, Not the Engine](../../posts/the-average-is-residue-not-the-engine/)
 
