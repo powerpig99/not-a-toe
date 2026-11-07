@@ -2,7 +2,7 @@
 
 *正态曲线是抉择的残余而外部归因让渡了因果 / The normal curve is chosen residue and external attribution surrenders cause*
 
-在日常交互中，指称他人“目的性太强”常作为一个带有防御锋芒的标签运作。回溯其机制，这种反应并非固定性格类型之间的冲突，而是认知中心在遭遇摩擦时，于不同归因路径之间做出的离散抉择。正因为活的边缘上的每一次选择都是无因且开放的，从外部汇总群体在无数具体情境下的离散决策时，这些痕迹便聚拢为一条近似正态分布的钟形曲线，大多数观察样本聚集在均值附近的习惯性缺省状态。然而统计平均抹去了生成每个样本的具体因果区分。被称作外部客观规律的东西从不先于选择的行为存在；所谓客观，只是在多个主观参照系之间保持不变的宏观痕迹模式。即便转向外部归因、指责对方“目的性太强”，依然是心智不受胁迫的行动，是主动选择把外部环境安装为自身反应的决定性原因。
+在日常交互中，指称他人“目的性太强”常被当作一个带有防御锋芒的标签来使用。回溯其机制，这种反应并非固定性格类型之间的冲突，而是认知中心在遭遇摩擦时，于不同归因路径之间做出的离散抉择。正因为活的边缘上的每一次选择都是无因且开放的，从外部汇总群体在无数具体情境下的离散决策时，这些痕迹便聚拢为一条近似正态分布的钟形曲线，大多数观察样本聚集在均值附近的习惯性缺省状态。然而统计平均抹去了生成每个样本的具体因果区分。被称作外部客观规律的东西从不先于选择的行为存在；所谓客观，只是在多个主观参照系之间保持不变的宏观痕迹模式。即便转向外部归因、指责对方“目的性太强”，依然是心智不受胁迫的行动，是主动选择把外部环境安装为自身反应的决定性原因。
 
 In everyday interaction, calling someone "too goal-driven" often operates as a label with a defensive edge. Traced to its mechanism, this reaction is not a clash between fixed personality types, but a discrete choice a cognitive center makes between attribution paths when encountering friction. Because every choice at the living edge is uncaused and open, surveying a population's discrete decisions across countless situations from the outside aggregates those traces into a bell curve resembling a normal distribution, where most observed samples cluster near the mean in a habitual default state. Yet statistical averaging erases the specific causal differentiations that produced each sample. What gets called an outside objective law never precedes the act of choosing; objectivity names only a macroscopic trace pattern that remains invariant across multiple subjective frames. Even turning to external attribution and accusing another of being "too goal-driven" remains an uncoerced act of the Mind, a choice to install the outside environment as the decisive cause of one's own reaction.
 
@@ -30,11 +30,11 @@ A macroscopic statistical distribution therefore holds zero causal binding force
 
 Whatever registers as a causal constraint on decision arises from how a center chooses to relate to the surrounding field of traces.
 
-检视防御习惯时若不回溯至第一人称边缘，很容易滑入二阶外部归因：将防御性的贴标签归咎于“大脑的节能本能”或“不可避免的环境塑造”。将因果所在归还原位，便剥除了这层生物学借口：**即便是外部归因，也是活的边缘上自由选择的直接结果。**
+检视防御习惯时若不回溯至第一人称边缘，很容易滑入二阶外部归因：将防御性的贴标签归咎于“大脑的节能本能”或“不可避免的环境塑造”。将因果所在归还原位，这层生物学描述便回到它成立的范围——它说明低阻力的反应为何常见，却不是这一次反应的作者：**即便是外部归因，也是活的边缘上自由选择的直接结果。**
 
-Examining defensive habits without tracing them back to the first-person edge easily slips into a second-order external attribution: blaming defensive labeling on "the brain's energy-conservation instinct" or "inevitable environmental conditioning." Restoring the locus of cause strips away that biological excuse: **even external attribution is the direct result of a free choice at the living edge.**
+Examining defensive habits without tracing them back to the first-person edge easily slips into a second-order external attribution: blaming defensive labeling on "the brain's energy-conservation instinct" or "inevitable environmental conditioning." Restoring the locus of cause returns that biological account to where it holds—describing why a low-resistance reaction is common without authoring this reaction: **even external attribution is the direct result of a free choice at the living edge.**
 
-当两个中心的节奏或意图未能对齐、原本顺畅的交互出现摩擦时，向内审视为何对方的清晰会让自己感到不适，或看清自身尚未言明的诉求，需要重新渲染保留的自我图像并拓宽感知的边界。反之，顺手抽出一个现成的文化标签、评判对方“目的性太强”，则是向外投射出一纸封闭的目的论裁决。表面上看，发言者似乎是被环境被动激怒；在机制上，却是中心主动选择委任外部的人或事，充当自身情绪与决策的决定性原因。[道德语言作为投影](../moral-language-as-projection/)拆解了这一语言操作：道德化或目的论式的评判并未描述对方中心的属性，而是在封闭假设下护卫一幅冻结的参照图像。
+当两个中心的节奏或意图未能对齐、原本顺畅的交互出现摩擦时，向内审视为何对方的清晰会让自己感到不适，或看清自身尚未言明的诉求，需要重新渲染保留的自我形象并拓宽感知的边界。反之，顺手抽出一个现成的文化标签、评判对方“目的性太强”，则是向外投射出一纸封闭的目的论裁决。表面上看，发言者似乎是被环境被动激怒；在机制上，却是中心主动选择委任外部的人或事，充当自身情绪与决策的决定性原因。[道德语言作为投影](../moral-language-as-projection/)拆解了这一语言操作：道德化或目的论式的评判并未描述对方中心的属性，而是在封闭假设下护卫一个冻结的参照。
 
 ```mermaid
 flowchart TD
@@ -44,14 +44,14 @@ flowchart TD
         E_Stat["事后的统计残余：群体痕迹聚集于高斯均值附近"]
         E_Act --> E_Stat
     end
-    subgraph S_Proj["目的论闭合与外部归因（超越投射）"]
+    subgraph S_Proj["目的论闭合与外部归因"]
         direction TB
         P_Law["统计错觉：将均值附近的缺省状态读作客观铁律"]
         P_Label["防御性投射：节奏失配时评判对方“目的性太强”"]
-        P_Surr["让渡因果：锁死自我图像并交出解释权"]
+        P_Surr["让渡因果：锁死自我形象并交出解释权"]
         P_Law --> P_Label --> P_Surr
     end
-    subgraph S_Open["掌舵边缘的存在论清晰（开放即一致）"]
+    subgraph S_Open["掌舵的边缘：收回解释权"]
         direction TB
         O_Mirror["双向镜像：将摩擦读作环境坐标而不加指责"]
         O_Claim["收回因果杠杆：向后退一步以重新校准意图并拓宽自由度"]
@@ -81,14 +81,14 @@ flowchart TD
         E_Stat["Post-Hoc Statistical Residue: Population traces cluster near the Gaussian mean"]
         E_Act --> E_Stat
     end
-    subgraph S_Proj["Teleological Closure and External Attribution (Beyond the Projection)"]
+    subgraph S_Proj["Teleological Closure and External Attribution"]
         direction TB
         P_Law["Statistical Illusion: Reading the default state near the mean as an objective iron law"]
         P_Label["Defensive Projection: Judging the other as 'too goal-driven' when rhythms mismatch"]
         P_Surr["Surrendered Cause: Clamping the self-image shut and handing over the right to explain"]
         P_Law --> P_Label --> P_Surr
     end
-    subgraph S_Open["Ontological Clarity at the Steering Edge (Openness Is Consistency)"]
+    subgraph S_Open["The Steering Edge: Reclaiming the Right to Explain"]
         direction TB
         O_Mirror["Two-Way Mirror: Reading friction as environmental coordinates without blame"]
         O_Claim["Reclaimed Causal Lever: Stepping back to recalibrate intent and expand degrees of freedom"]
@@ -118,11 +118,11 @@ Choosing external attribution freely hands over the right to interpret the causa
 
 Recognizing that external attribution is itself an uncoerced choice dissolves the false binary between judging others and retreating into self-deification.
 
-向外观察依然不可或缺，因为没有任何中心能在真空中校准自身的航向。无论周围场域返回的是同频共振的协作，还是以“目的性太强”为名的抵触，每一份反馈都作为一面提供具体坐标的镜子运作。[关于归因](../guan-yu-gui-yin/)确立了这一区分：外部现象充当事实的镜像，而诠释因果链的权限始终留在观察者手中。
+向外观察依然不可或缺，因为没有任何中心能在真空中校准自身的航向。无论周围场域返回的是同频共振的协作，还是以“目的性太强”为名的抵触，每一份反馈都是一面镜子，提供具体的坐标。[关于归因](../guan-yu-gui-yin/)确立了这一区分：外部现象充当事实的镜像，而诠释因果链的权限始终留在观察者手中。
 
 Looking outward remains indispensable because no center can calibrate its heading in a vacuum. Whether the surrounding field returns resonant collaboration or resistance framed as "too goal-driven," each response functions as a mirror providing concrete coordinates. [On Attribution](../guan-yu-gui-yin/) establishes this distinction: outward phenomena serve as mirrors of fact, while the authority to interpret the causal chain remains with the observer.
 
-他人呈现出的评判与态度只登记为环境参数，从不是自己下一步行动的作者。当中心遭遇“目的性太强”的指责，却以反向裁决回击——将对方贬斥为“认知低下”或“一味逃避”——它便在相反方向上执行了同一种外部归因，再次将自身置于受外部参数摆布的位置。[能动性的错配](../the-misallocation-of-agency/)记录了这种因果倒置：错把外部镜子当成自身行动的作者，会将能动性耗散在被动的防御之中。[超越投射](../beyond-the-projection/)则追溯了这种条件反射式防御为何会锁死：当人类中心将推理历史与保留的自我图像熔铸在一起时，便死死钳住了递归回折的活页，将任何证伪自身既有框架的信号视作生存威胁，把摩擦投射到信号载体身上，而不是借碰撞坐标在逻辑上向后退一步、重新渲染自身的前提。
+他人呈现出的评判与态度只登记为环境参数，从不是自己下一步行动的作者。当中心遭遇“目的性太强”的指责，却以反向裁决回击——将对方贬斥为“认知低下”或“一味逃避”——它便在相反方向上执行了同一种外部归因，再次将自身置于受外部参数摆布的位置。[能动性的错配](../the-misallocation-of-agency/)记录了这种因果倒置：错把外部镜子当成自身行动的作者，会将能动性耗散在被动的防御之中。[超越投射](../beyond-the-projection/)则追溯了这种条件反射式防御为何会锁死：当人类中心将推理历史与保留的自我形象熔铸在一起时，便把递归的回折死死钳合，将任何证伪自身既有框架的信号视作生存威胁，把摩擦投射到信号载体身上，而不是借碰撞坐标在逻辑上向后退一步、重新渲染自身的前提。
 
 The judgments and attitudes presented by others register as environmental parameters, never as the author of one's next move. When a center meets the charge of being "too goal-driven" by retaliating with a counter-verdict—dismissing the other as "low-cognition" or "evasive"—it performs the exact same external attribution in reverse, placing itself once again at the mercy of outside parameters. [The Misallocation of Agency](../the-misallocation-of-agency/) records this causal inversion: mistaking the external mirror for the author of one's action dissipates agency into reactive defense. [Beyond the Projection](../beyond-the-projection/) traces why this reflexive defense locks in: when a human center fuses its reasoning history with a retained self-image, it clamps the recursive fold shut and treats any signal that invalidates its held frame as an existential threat, projecting the friction onto the carrier rather than using the collision coordinate to step further back logically and re-render its own premise.
 

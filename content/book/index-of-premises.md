@@ -1921,9 +1921,9 @@ Pricing by lagged averages presumes that traditional premiums and repair costs r
 ### 青春期大脑缺陷论 / Adolescent Brain as Defect
 `科学 / Scientific`
 
-把亲子冲突诊断为青少年冲动、被激素劫持、神经发育不全，读神经影像的结果时有用；它在此到了边界：大约十三岁时转向陌生声音的反应，是感知地平线朝更广世界的扩展，不是故障，长期的冲突多出自父母升级控制的治理模型，而不是孩子固有的缺陷。
+把亲子冲突诊断为青少年冲动、被激素劫持、神经发育不全，读神经影像的结果时有用；它在此到了边界：大约十三岁时转向陌生声音的反应，是感知地平线朝更广世界的扩展，不是故障，长期的冲突由双方的持续选择所承载，而不是出自孩子固有的缺陷；父母的治理模型越过环境边界、升级控制去覆写孩子的选择回路，正是父母这一侧把一次孤立的分歧变成持久冲突的方式。
 
-Diagnosing parent–teen conflict as adolescents being impulsive, hormonally hijacked and neurologically incomplete is of use in reading neuroimaging results; it reaches its boundary in that the shift toward unfamiliar voices around age thirteen is the perceptual horizon widening toward a larger world, not a malfunction, and chronic conflict comes mostly from a parental model of governance that escalates control rather than from a defect inherent in the child.
+Diagnosing parent–teen conflict as adolescents being impulsive, hormonally hijacked and neurologically incomplete is of use in reading neuroimaging results; it reaches its boundary in that the shift toward unfamiliar voices around age thirteen is the perceptual horizon widening toward a larger world, not a malfunction, and chronic conflict is carried by the continuing choices on both sides rather than by a defect inherent in the child, a parental model of governance that steps past environmental boundaries and escalates control to overwrite the child's loop of choice being how the parent's side turns an isolated disagreement into a standing conflict.
 
 → [引导不是占有 / Guidance Is Not Ownership](../../posts/guidance-is-not-ownership/)
 
