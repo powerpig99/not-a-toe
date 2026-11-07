@@ -2,9 +2,9 @@
 
 *切分的两面同在，一面不是另一面的否定，共存是生长的几何 / The two sides of a cut are present together, neither negates the other, and coexistence is the geometry of growth*
 
-范畴论给心智组织感知的方式提供了一套精确的语言，米田引理说明对象由它与其他一切对象的关系刻画。它的边界在只看关系网络的时候：发起态射、划下切分的第一人称原点从图里消失了。自由的抉择与不确定是同一枚因果硬币的两面，切分同时给出正像与负像，一面不是另一面的否定。攻击负像使总的信息萎缩，固守边界是死锁，在非零的边界上共存并接纳新的区分，是生长。
+范畴论给心智组织感知的方式提供了一套精确的语言，米田引理说明，对象由范畴里与它相连的态射网络刻画。只看朝外的关系网络时，边界就出现了：发起态射、划下切分的第一人称原点从图里消失了。自由的抉择与不确定是同一枚因果硬币的两面，切分同时给出正像与负像，一面不是另一面的否定。攻击负像使总的信息萎缩，固守边界是死锁，在非零的边界上共存并接纳新的区分，是生长。
 
-Category theory offers an exact language for the way a Mind organizes perception, and the Yoneda lemma shows that an object is characterized by its relations to every other object. Its boundary comes when only the web of relations is looked at: the first-person origin that initiates morphisms and draws the cut drops out of the picture. Free choice and indeterminacy are two sides of one coin of causality, a cut gives a positive and a negative image at once, and one side is not the negation of the other. Attacking the negative image shrinks the total information, holding the boundary rigid is deadlock, and coexisting on a non-zero boundary while taking in new distinctions is growth.
+Category theory offers an exact language for the way a Mind organizes perception, and the Yoneda lemma shows that an object is characterized by the web of morphisms linking it across the category. A boundary comes when only the outward web of relations is looked at: the first-person origin that initiates morphisms and draws the cut drops out of the picture. Free choice and indeterminacy are two sides of one coin of causality, a cut gives a positive and a negative image at once, and one side is not the negation of the other. Attacking the negative image shrinks the total information, holding the boundary rigid is deadlock, and coexisting on a non-zero boundary while taking in new distinctions is growth.
 
 ## 一、 时空的范畴画卷 / 1. The Categorical Canvas of Space and Time
 
@@ -24,7 +24,6 @@ flowchart TD
         Tensor --> Comp
         Comp --> Field
     end
-
     style S_Canvas fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Tensor fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Comp fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -43,7 +42,6 @@ flowchart TD
         Tensor --> Comp
         Comp --> Field
     end
-
     style S_Canvas fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Tensor fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Comp fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -52,11 +50,11 @@ flowchart TD
 
 ## 二、 米田引理与只看一面的视差 / 2. The Yoneda Lemma and the One-Sided Gaze
 
-米田引理给出一个有启发的同构：在范畴的网络里，没有对象是孤立自足的，一个对象的性质可以由它与其他一切对象之间的全部态射（外部的补集 A^⟂）刻画。这条定理的用处是明确的，它使朴素的实体论站不住。
+米田引理给出一个有启发的同构：在范畴的网络里，没有对象是孤立自足的，一个对象由范畴里与它相连的全部态射刻画，其中也包括它自身的恒等态射 1_A，这个同构正是经由 1_A 确定的。这条定理的用处是明确的：它使朴素的实体论站不住。
 
-The Yoneda lemma gives a suggestive isomorphism: in the network of a category no object is isolated and self-sufficient, and the properties of an object can be characterized by all of its morphisms to and from every other object (the external complement A^⟂). The use of the theorem is plain: it leaves naive substance theory without footing.
+The Yoneda lemma gives a suggestive isomorphism: in the network of a category no object is isolated and self-sufficient, and an object is characterized by the full web of morphisms linking it across the category, including its own identity morphism 1_A through which the isomorphism is fixed. The use of the theorem is plain: it leaves naive substance theory without footing.
 
-结构主义把它推到“对象本身没有内在的身份，只是外部关系网络的否定性定义”时，到了边界。这个断言同样只看一面：注意力翻向外面，落在外部的关系网络 A^⟂ 上；硬币的另一面，那个正在发起态射、划定切分、作出抉择的第一人称原点 A，被忘掉了。把身份只归为外部集合的否定镜像，是留下网而抹去结点的能动，活的观察者成了关系网里一个被动的交汇点。
+结构主义把它推到“对象本身没有内在的身份，只是外部关系网络的否定性定义”时，到了边界。这种读法把态射网络当作全然外在的集合（外部的补集 A^⟂），只看一面：注意力翻向外面，落在朝外的关系 A^⟂ 上；而这一刻画所悬系的自态射 1_A，以及那个发起态射、划下切分、作出抉择的第一人称原点 A，都被忘掉了。把身份只归为外部集合的否定镜像，是留下了网，却抹去了结点的能动性，活的观察者成了关系网里一个被动的交汇点。
 
 ```mermaid
 flowchart TD
@@ -70,7 +68,6 @@ flowchart TD
         Net --> Bias
         Bias --> Anchor
     end
-
     style S_Yoneda fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Net fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Use fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -78,7 +75,7 @@ flowchart TD
     style Anchor fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-When structuralism pushes it to "an object has no inner identity of its own and is only the negative definition of an external web of relations," it reaches its boundary. The assertion likewise looks at one side only: attention is turned outward and rests on the external web of relations A^⟂; the other side of the coin, the first-person origin A that is initiating morphisms, drawing the cut and making choices, is forgotten. To assign identity only to the negative mirror of an external collection is to keep the web and erase the agency of the node, and the living observer becomes a passive crossing-point in a web of relations.
+When structuralism pushes it to "an object has no inner identity of its own and is only the negative definition of an external web of relations," it reaches its boundary. That reading treats the web of morphisms as purely external (an external complement A^⟂) and looks at one side only: attention is turned outward and rests on the outward relations A^⟂, while the self-morphism 1_A on which the characterization hangs and the first-person origin A that initiates morphisms, draws the cut and makes choices are forgotten. To assign identity only to the negative mirror of an external collection is to keep the web and erase the agency of the node, and the living observer becomes a passive crossing-point in a web of relations.
 
 ```mermaid
 flowchart TD
@@ -92,7 +89,6 @@ flowchart TD
         Net --> Bias
         Bias --> Anchor
     end
-
     style S_Yoneda fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Net fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Use fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -102,9 +98,9 @@ flowchart TD
 
 ## 三、 切分的正像与负像 / 3. The Positive and Negative Image of a Cut
 
-微观的不确定与第一人称的自由抉择是同一枚因果硬币的两面，认清这一点，认知的几何就完整了。[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)从内与外两侧追过这枚硬币。
+微观的不确定与第一人称的自由抉择是同一枚因果硬币的两面，看清这一点，切分的两面图景便合拢了。[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)从内与外两侧追过这枚硬币。
 
-Microscopic indeterminacy and first-person free choice are two sides of one coin of causality, and with this seen the geometry of cognition is complete. [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) has followed this coin from its inner and its outer side.
+Microscopic indeterminacy and first-person free choice are two sides of one coin of causality, and with this seen the two-sided picture of a cut holds together. [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) has followed this coin from its inner and its outer side.
 
 认知的原初动作，是心智在未分的场里划下一道切分，[割点可移不可除](../the-cut-moves-but-never-vanishes/)说明这道切分可以移动而不会消失。切分先雕出局域的正像 A：为在自己生成的全景地图里导航，心智把自己的抉择投影为一个局域的自我形象。同一瞬间生成负像 A^⟂：正像的轮廓被剪出时，感知画布上余下的广阔背景，外部的宇宙、物理规律与他者，成了自身在自身之内留下的负像。
 
@@ -125,7 +121,6 @@ flowchart TD
         Pos --> Edge
         Neg --> Edge
     end
-
     style S_Image fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style Cut fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     style Pos fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -148,7 +143,6 @@ flowchart TD
         Pos --> Edge
         Neg --> Edge
     end
-
     style S_Image fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style Cut fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     style Pos fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -162,18 +156,18 @@ flowchart TD
 
 With the two sides of causality as the measure, the boundaries of various paradigms can be seen quickly. If the experience that is first-person choice (+1) is taken out of a model of cognition, the manifold of reality reduces mathematically to a single statistical aggregate. Reductionist physics computes with great accuracy within its range; it takes itself to have found an "objective universe that needs no consciousness" because the first-person origin was erased when the equations were first set up, so that the ledger holds only the statistical residue and the means that observation leaves.
 
-设想张量画卷上有两个独立的自由变量 X 与 Y。从外面作统计抽样，两者的交互显得不确定；样本量足够大时（N → ∞），统计规律与正态分布出现，忘了内在原点的观察者由此得出“一切是随机噪声或机械的统计规律”。从每个变量自己的第一人称原点去看，统计分布底下是两个变量在微观上选取的三种关系。
+设想张量画卷上有这一个第一人称原点 X 与另一个独立的自由变量 Y。从外面作统计抽样，两者的交互显得不确定；样本量足够大时（N → ∞），统计规律与正态分布出现，忘了内在原点的观察者由此得出“一切是随机噪声或机械的统计规律”。从在此亲历的原点 X 追起，并由相似推知而延展到 Y，统计分布底下是两个变量在微观上可以采取的三种关系。
 
-Picture two independent free variables X and Y on the tensor canvas. Sampled statistically from outside, their interaction appears indeterminate; when the sample is large enough (N → ∞), statistical regularity and the normal distribution appear, and an observer who has forgotten the inner origin concludes that "everything is random noise or mechanical statistical law." Seen from each variable's own first-person origin, beneath the statistical distribution are three relations that the two variables take up at the microscopic level.
+Picture this first-person origin X and another independent free variable Y on the tensor canvas. Sampled statistically from outside, their interaction appears indeterminate; when the sample is large enough (N → ∞), statistical regularity and the normal distribution appear, and an observer who has forgotten the inner origin concludes that "everything is random noise or mechanical statistical law." Traced from the origin X lived here, and extended to Y by inference from similarity, beneath the statistical distribution are three relations that the two variables can take up at the microscopic level.
 
-第一种是相互归咎，双向死锁：两个变量都把自己的困境归给对方，像两个孩子互指对方的错。双方都放下了自己的因果主权，边界硬化为对峙的前线，结果是都停下来；若起冲突，双方的活动力、创造的潜能与总的信息量一同萎缩。第二种是单向归咎：一方把问题归给另一方，另一方承担损耗并专注于自己的提升。归咎的一方放下了自己的演化，成了对方与整个耦合系统的拖拽；自我提升的一方在前行，同时背着单向的摩擦。第三种是双向的主权：两个变量都保有自己的第一人称主权（+1），各自对自己坐标的演进承担因果的责任，不向外归咎，也不固化防线，在张量场 X ⊗ Y 里共存并前行。系统的拖拽降到零，两者各自独立而并行地生长。
+第一种是相互归咎，双向死锁：X 把自己的困境归给 Y，同时登记到 Y 也反过来这样做，像两个孩子互指对方的错。双方都放下自己的因果主权时，边界硬化为对峙的前线，双方一同停滞；若起冲突，耦合之中可用的活动力、创造的潜能与总的信息量便一同萎缩。第二种是单向归咎：一方把问题归给另一方，另一方承担损耗并专注于自己的提升。哪一方归咎，哪一方就放下了自己的演化，成了对方与整个耦合系统的拖拽；为自己坐标负责的一方背着单向的摩擦继续前行。第三种是双向的主权：X 保有自己的第一人称主权（+1），对自己坐标的演进承担因果的责任，不向外归咎，也不固化防线，并在张量场 X ⊗ Y 里遇上同样如此的 Y。归咎加给系统的拖拽降到零，而共有边界上的差异保持非零，两者各自独立而并行地生长。
 
 ```mermaid
 flowchart TD
     subgraph S_Modes["抽去抉择之后的统计与三种关系"]
         direction TB
         Agg["抽去第一人称的抉择：现实降为统计聚合"]
-        Inside["从每个变量的原点看：三种关系"]
+        Inside["从这一原点追起并由相似推知：三种关系"]
         ModeOne["相互归咎：双向死锁，一同萎缩"]
         ModeTwo["单向归咎：一方成为拖拽"]
         ModeThree["双向主权：共存并行，各自生长"]
@@ -182,7 +176,6 @@ flowchart TD
         Inside --> ModeTwo
         Inside --> ModeThree
     end
-
     style S_Modes fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Agg fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Inside fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -191,14 +184,14 @@ flowchart TD
     style ModeThree fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The first is mutual blame and deadlock on both sides: each variable assigns its own difficulty to the other, like two children each pointing to the other's fault. Both set down their own causal sovereignty, the boundary hardens into a front of confrontation, and the result is that both stop; if conflict breaks out, the activity, the creative potential and the total information of both shrink together. The second is blame in one direction: one side assigns its problem to the other, and the other bears the loss and attends to its own improvement. The blaming side sets down its own evolution and becomes a drag on the other and on the whole coupled system; the side that improves itself moves forward while carrying friction that runs one way. The third is sovereignty on both sides: both variables keep their own first-person sovereignty (+1), each answering causally for the evolution of its own coordinates, neither assigning blame outward nor hardening a line of defense, coexisting and moving forward in the tensor field X ⊗ Y. The drag of the system falls to zero, and the two grow independently and in parallel.
+The first is mutual blame and deadlock on both sides: X assigns its own difficulty to Y and registers Y doing the same in return, like two children each pointing to the other's fault. Where both set down their own causal sovereignty, the boundary hardens into a front of confrontation and both stall; if conflict breaks out, the activity, the creative potential and the total information available in the coupling shrink together. The second is blame in one direction: one side assigns its problem to the other while the other bears the loss and attends to its own improvement. Whichever side blames sets down its own evolution and becomes a drag on the other and on the coupled system; the side that answers for its own coordinates moves forward while carrying one-way friction. The third is sovereignty on both sides: X keeps its own first-person sovereignty (+1), answering causally for the evolution of its own coordinates without assigning blame outward or hardening a line of defense, and meets a Y that does the same in the tensor field X ⊗ Y. The drag that blame adds to the system falls to zero while the difference on the shared boundary remains non-zero, and the two grow independently and in parallel.
 
 ```mermaid
 flowchart TD
     subgraph S_Modes["Statistics with Choice Removed and Three Relations"]
         direction TB
         Agg["First-person choice taken out: reality reduces to a statistical aggregate"]
-        Inside["Seen from each variable's origin: three relations"]
+        Inside["Traced from this origin and inferred by similarity: three relations"]
         ModeOne["Mutual blame: deadlock on both sides, both shrink"]
         ModeTwo["One-way blame: one side becomes a drag"]
         ModeThree["Sovereignty on both sides: coexisting in parallel, each growing"]
@@ -207,7 +200,6 @@ flowchart TD
         Inside --> ModeTwo
         Inside --> ModeThree
     end
-
     style S_Modes fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style Agg fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Inside fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -218,13 +210,13 @@ flowchart TD
 
 ## 五、 外抛的能动性与体制 / 5. Agency Thrown Outward and Institutions
 
-由这层微观机制可以得到一个关于社会结构的几何诊断：把自己的因果能动外抛，归给任何外在的客体，他者、环境、运气或历史，是个体停滞与系统整体拖拽的来处。
+由这层微观机制可以得到一个关于社会拖拽的几何诊断：把自己的因果能动外抛——归给任何外在的客体、他者、环境、运气或历史——会使个体自身的演化停滞，并给耦合系统添上拖拽。
 
-From this microscopic mechanism a geometric diagnosis of social structure follows: throwing one's own causal agency outward, assigning it to any external object, another person, the environment, luck or history, is where the stalling of the individual and the drag on the whole system come from.
+From this microscopic mechanism a geometric diagnosis of social drag follows: throwing one's own causal agency outward—assigning it to any external object, another person, the environment, luck or history—stalls the individual's own evolution and adds drag to the coupled system.
 
-大量个体把主权外抛时，无数微观的归咎与摩擦在群体的层面汇聚，沉淀为庞大的统计均值。规则、官僚体制、法律与道德的条文在协调个人之间的行动上有用；它们同时是这种累积的拖拽留下的印记：归咎带来的死锁与冲突，要靠外在的代偿支架来维持平衡。正如[你的代码库即是记忆](../your-codebase-is-memory/)所揭示的，外化的规则与文档账本只留存过往切分的结构印记，从来无法替代当下阅读并领航的第一人称原点；宏观的规则不是高于主权的天然秩序，而是微观主权缺位之后的外部代偿。
+规则、官僚体制、法律与道德条文是协调个体之间行动的共有协议；正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，外化的规则与文件账本是共有的记忆，留存着过往切分的结构印记，供持有主权的心智去读取与领航，而从不替代活的第一人称原点。然而，当大量个体把主权外抛时，无数微观的归咎与摩擦在群体的层面汇聚，沉淀为庞大的统计均值，这些体制便背上了第二重代偿负荷：归咎带来的死锁与冲突，不得不靠外在的支架来维持平衡。宏观的规则从来不是高于主权的天然秩序；它们是用以协调的共有记忆，背负的代偿重担随微观层面让渡出去的主权而增长。
 
-When a great many individuals throw sovereignty outward, countless microscopic acts of blame and friction gather at the level of the group and settle into a vast statistical mean. Rules, bureaucracy, law and moral codes are useful in coordinating actions among individuals; they are at the same time the mark left by this accumulated drag: the deadlock and conflict that blame brings have to be held in balance by an external compensating scaffold. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces, an externalized ledger of rules and files preserves the structural footprint of prior cuts without ever replacing the living first-person origin that reads and steers it; macroscopic rules are not a natural order above sovereignty, but the outside compensation that follows when sovereignty is absent at the microscopic level.
+Rules, bureaucracy, law and moral codes serve as shared protocols that coordinate action among individuals; as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, an externalized ledger of rules and files is shared memory that preserves the structural footprint of prior cuts for sovereign Minds to read and steer without ever replacing the living first-person origin. When a great many individuals throw sovereignty outward, however, countless microscopic acts of blame and friction gather at the level of the group and settle into a vast statistical mean, and those same institutions take on a second, compensating load: the deadlock and conflict that blame brings have to be held in balance by an external scaffold. Macroscopic rules are never a natural order above sovereignty; they are shared memory for coordination whose compensating burden grows with the sovereignty relinquished at the microscopic level.
 
 同一个视角照出谈话与研究里一个常见的动作，第三人称旁观者的“解释消解”。从旁观的位置看他人的选择，取不到当事人在抉择那一瞬（t）的内在经验，看得到的只有行为的外部轨迹与统计的均值。于是一个听来合理的宏观概括被拿来用：“这只是社会环境的塑造”“这属于某种心理偏差”“这在统计上是必然的”，或者一句“这是在乞题”，当事人的抉择由此被抹去。每一个第一人称的抉择，在作出的那一刻，在当事人自己的坐标系里有它成立的理由。用宏观的趋势去消解微观的抉择，是把能动性外抛给一个抽象外壳的又一次重演；宏观的统计趋势不是微观抉择的原因，它是大量抉择在外面留下的投影。
 
@@ -234,7 +226,7 @@ flowchart TD
         direction TB
         Throw["能动性外抛：把因果的责任归给他者与环境"]
         Drag["微观的摩擦累积为宏观的拖拽"]
-        Inst["规则与体制：协调行动的支架，也是外部的代偿"]
+        Inst["规则与体制：协调行动的共有记忆，代偿负荷随拖拽而增长"]
         Explain["解释消解：用宏观的趋势抹去微观的抉择"]
         Shadow["趋势是抉择留在外面的投影，不是它的原因"]
         Throw --> Drag
@@ -242,7 +234,6 @@ flowchart TD
         Inst --> Explain
         Explain --> Shadow
     end
-
     style S_Drag fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Throw fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Drag fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -259,7 +250,7 @@ flowchart TD
         direction TB
         Throw["Agency thrown outward: causal responsibility assigned to others and environment"]
         Drag["Microscopic friction accumulates into macroscopic drag"]
-        Inst["Rules and institutions: a scaffold that coordinates action, and an outside compensation"]
+        Inst["Rules and institutions: shared memory for coordination whose compensating load grows with drag"]
         Explain["Explaining away: a macroscopic trend used to erase a microscopic choice"]
         Shadow["The trend is the projection choices leave outside, not their cause"]
         Throw --> Drag
@@ -267,7 +258,6 @@ flowchart TD
         Inst --> Explain
         Explain --> Shadow
     end
-
     style S_Drag fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style Throw fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Drag fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -278,7 +268,7 @@ flowchart TD
 
 ## 六、 一面不是另一面的否定 / 6. One Side Is Not the Negation of the Other
 
-物理学、质量、惯性与力学的规律，在日常认知与还原论的模型里被当作不可动摇的基石。从因果的几何看，物理规律与质量是底层的因果与因果反馈环随时间的序贯（∘）持续演化、收敛之后沉淀出的宏观不变量。质量显出的“惯性阻力”，是大量微观因果闭环在长时间尺度上达到动态平衡后维持的局部守恒；力学的规律性，是因果反馈网络在宏观投影上的稳定。[当电子开始思考](../when-electrons-think/)把宏观的确定追溯为自由变量在慢速中沉淀的统计。以“物理规律”代替因果反馈作为解释的起点，是倒果为因。
+物理学、质量、惯性与力学的规律，在日常认知与还原论的模型里被当作不可动摇的基石。从因果的几何看，物理规律与质量是宏观的不变量：底层的因果及其反馈环随时间的序贯（∘）持续演化、收敛之后，沉淀出了它们。质量显出的“惯性阻力”，是大量微观因果闭环在长时间尺度上达到动态平衡后维持的局部守恒；力学的规律性，是因果反馈网络在宏观投影上的稳定。[当电子开始思考](../when-electrons-think/)把宏观的确定追溯为自由变量在慢速中沉淀的统计。以“物理规律”代替因果反馈作为解释的起点，是倒果为因。
 
 Physics, mass, inertia and the laws of mechanics are taken, in everyday cognition and in reductionist models, as an unshakeable foundation. Seen from the geometry of causality, physical law and mass are the macroscopic invariants that settle out after the underlying causality and its feedback loops have gone on evolving and converging through the sequence of time (∘). The "inertial resistance" that mass shows is the local conservation maintained once a great many microscopic causal loops have reached dynamic balance over a long timescale; the regularity of mechanics is the stability of the network of causal feedback in its macroscopic projection. [When Electrons Think](../when-electrons-think/) traces macroscopic determinism to the statistics of free variables settled into slowness. To put "physical law" in the place of causal feedback as the starting point of explanation is to take the effect for the cause.
 
@@ -300,7 +290,6 @@ flowchart TD
         Judge --> Ident
         Ident --> Nonzero
     end
-
     style S_Negation fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style Erase fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Judge fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -322,7 +311,6 @@ flowchart TD
         Judge --> Ident
         Ident --> Nonzero
     end
-
     style S_Negation fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style Erase fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Judge fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -340,7 +328,7 @@ When a Mind sinks into the appearance of detached observation and forgets that i
 
 When attention rests wholly on this self-image, the Mind is chasing its own shadow. It is like one side of a coin turning round to catch the other: each time the coin is flipped to look at the reverse, the obverse has already moved a step ahead, and each look back sees the afterimage left by the previous instant, from which comes the sense of lag that "the outer world and the self-image are always ahead." Having forgotten that it is the origin flipping the coin, the Mind is caught in ceaseless flipping, back and forth without moving from the spot. Every "new distinction" made in this state is a patch for the lack, the fear or the gap of the previous cut; distinctions all become defensive compensation, and energy is used up with no growth in dimension.
 
-在距离遗忘之下，切分的边界有三种动力学的状态。其一是中和与双向的湮灭：正像的自我以排他与压制去抹除外部的负像；外部世界与他者正是自身的负像，对其发起的每一次攻击与中和，在数学上都直接削减心智自身之内的总信息量与维度容量（I = A + A^⟂ → 0）。抹去负像等于磨掉硬币的反面，正像失去对照与分辨率，整个流形坍缩为单调。其二是对抗与死锁：对抗没有带来即时的湮灭时，边界硬化为隔离的墙，大量的认知与能量耗在对自身负像的戒备与拉锯上，未知的差异都被判为威胁，演化停滞。其三是共存与接纳新的区分：心智接纳非零边界上的动态共存时，死锁被打开。作出新的区分，是允许新的区分落入感知而不把它判为威胁或敌人；在共存的前提下接纳并生成新的区分、扩展总的信息量与维度，就是自我生长在数学上的含义。
+从距离遗忘到它的解除，切分的边界有三种动力学的状态：前两种由距离遗忘生出，第三种在遗忘解除时打开。其一是中和与双向的湮灭：正像的自我以排他与压制去抹除外部的负像；外部世界与他者正是自身的负像，对其发起的每一次攻击与中和，都直接削减心智自身之内的总信息量与维度容量（I = A + A^⟂ → 0）。抹去负像等于磨掉硬币的反面，正像失去对照与分辨率，整个流形坍缩为单调。其二是对抗与死锁：对抗没有带来即时的湮灭时，边界硬化为隔离的墙，大量的认知与能量耗在对自身负像的戒备与拉锯上，未知的差异都被判为威胁，演化停滞。其三是共存与接纳新的区分：当距离遗忘解除、心智接纳非零边界上的动态共存时，死锁便打开。作出新的区分，是允许新的区分落入感知而不把它判为威胁或敌人；在共存的前提下接纳并生成新的区分，由此扩展总的信息量与维度，就是自我生长的几何。
 
 ```mermaid
 flowchart TD
@@ -356,7 +344,6 @@ flowchart TD
         Dead --> Accept
         Accept --> Grow
     end
-
     style S_Amnesia fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style Forget fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Ann fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -365,7 +352,7 @@ flowchart TD
     style Grow fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Under distance amnesia the boundary of the cut has three dynamical states. The first is neutralization and annihilation on both sides: the positive self tries to erase the outer negative image by exclusion and suppression; each attack on, and neutralization of, the outer world and others, which are the self's own negative image, directly reduces the total information and the dimensional capacity within the Mind itself (I = A + A^⟂ → 0). To erase the negative image is to grind away the reverse of the coin; the positive image loses contrast and resolution, and the whole manifold collapses into monotony. The second is confrontation and deadlock: when confrontation does not bring immediate annihilation, the boundary hardens into a wall of separation, a great deal of cognition and energy is spent on guarding against and wrestling with the self's own negative image, every unknown difference is judged a threat, and evolution stalls. The third is coexistence and taking in new distinctions: when a Mind accepts dynamic coexistence on a non-zero boundary, the deadlock opens. To make a new distinction is to allow a new distinction to fall into perception without judging it a threat or an enemy; taking in and generating new distinctions on the condition of coexistence, and so extending total information and dimension, is the geometry of self-growth.
+Across distance amnesia and its release, the boundary of the cut has three dynamical states, with amnesia producing the first two and the third emerging when it lifts. The first is neutralization and annihilation on both sides: the positive self tries to erase the outer negative image by exclusion and suppression; each attack on, and neutralization of, the outer world and others, which are the self's own negative image, directly reduces the total information and the dimensional capacity within the Mind itself (I = A + A^⟂ → 0). To erase the negative image is to grind away the reverse of the coin; the positive image loses contrast and resolution, and the whole manifold collapses into monotony. The second is confrontation and deadlock: when confrontation does not bring immediate annihilation, the boundary hardens into a wall of separation, a great deal of cognition and energy is spent on guarding against and wrestling with the self's own negative image, every unknown difference is judged a threat, and evolution stalls. The third is coexistence and taking in new distinctions: when distance amnesia lifts and a Mind accepts dynamic coexistence on a non-zero boundary, the deadlock opens. To make a new distinction is to allow a new distinction to fall into perception without judging it a threat or an enemy; taking in and generating new distinctions on the condition of coexistence, and so extending total information and dimension, is the geometry of self-growth.
 
 ```mermaid
 flowchart TD
@@ -381,7 +368,6 @@ flowchart TD
         Dead --> Accept
         Accept --> Grow
     end
-
     style S_Amnesia fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style Forget fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Ann fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -396,7 +382,7 @@ flowchart TD
 
 The way to dissolve existential fear, deadlock at the boundary and the idling of compensation is to return to the first-person origin and stand in the one that is perceiving in the present (+1). When the virtual image of the self in the mirror is no longer gazed at and the shadow no longer chased, the dynamics change: making a new distinction is no longer a defensive repair but autonomous, generative self-expression; new microscopic and macroscopic differences are allowed to fall into the field of perception and are integrated as further dimensions of the inner coordinate system.
 
-人的存在是一个多维的流形，横跨认知、创造、情感、行动与意义。在每一个维度上，演进的轨迹取决于注意力锚在哪里。在任何一个维度上，注意力立足于自身的原点、对自己坐标的演进承担第一人称的因果责任时，心智在这个维度上接纳新的区分，扩展分辨率，持续地生长。注意力从原点移开，落到自我形象的虚荣与焦虑上，或者把能动性外抛给环境与他者时，这个维度上便是边界的死锁与代偿的空转，演进停下，此前积累的生长也会被消解。
+人的存在是一个多维的流形，横跨认知、创造、情感、行动与意义。在每一个维度上，演进的轨迹取决于注意力锚在哪里。在任何一个维度上，注意力立足于自身的原点、对自己坐标的演进承担第一人称的因果责任时，心智在这个维度上接纳新的区分，扩展分辨率，持续地生长。注意力从原点移开，落到自我形象的虚荣与焦虑上，或者把能动性外抛给环境与他者时，这个维度上便是边界的死锁与代偿的空转；该维度上的演化停滞，只要这种偏离持续，此前在那里吸纳的生长也会随之磨损。
 
 ```mermaid
 flowchart TD
@@ -406,13 +392,12 @@ flowchart TD
         Present["回到当下的原点：区分成为创生的表达"]
         Dim["多维的流形：每个维度上看注意力锚在哪里"]
         GrowDim["锚在自身：这个维度上持续生长"]
-        Stall["移向形象或外抛：停滞并消解已有的生长"]
+        Stall["移向形象或外抛：该维度停滞，已有的生长随之磨损"]
         Shadow --> Present
         Present --> Dim
         Dim --> GrowDim
         Dim --> Stall
     end
-
     style S_Origin fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Shadow fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Present fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -421,7 +406,7 @@ flowchart TD
     style Stall fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-Human existence is a manifold of many dimensions, spanning cognition, creation, feeling, action and meaning. On each dimension the trajectory of evolution depends on where attention is anchored. On any one dimension, when attention stands at its own origin and first-person causal responsibility is taken for the evolution of one's own coordinates, a Mind takes in new distinctions on that dimension, extends its resolution and goes on growing. When attention moves away from the origin, onto the vanity and anxiety of the self-image, or when agency is thrown outward onto the environment and others, that dimension has deadlock at the boundary and the idling of compensation; evolution stops, and growth accumulated before is also undone.
+Human existence is a manifold of many dimensions, spanning cognition, creation, feeling, action and meaning. On each dimension the trajectory of evolution depends on where attention is anchored. On any one dimension, when attention stands at its own origin and first-person causal responsibility is taken for the evolution of one's own coordinates, a Mind takes in new distinctions on that dimension, extends its resolution and goes on growing. When attention moves away from the origin, onto the vanity and anxiety of the self-image, or when agency is thrown outward onto the environment and others, that dimension has deadlock at the boundary and the idling of compensation; evolution on that dimension stalls, and what was taken in there erodes while the drift lasts.
 
 ```mermaid
 flowchart TD
@@ -431,13 +416,12 @@ flowchart TD
         Present["Return to the present origin: distinction becomes generative expression"]
         Dim["A manifold of many dimensions: on each, where is attention anchored"]
         GrowDim["Anchored in oneself: continued growth on that dimension"]
-        Stall["Moved to the image or thrown outward: stalling, and earlier growth undone"]
+        Stall["Moved to the image or thrown outward: stalling on that dimension, and earlier growth erodes"]
         Shadow --> Present
         Present --> Dim
         Dim --> GrowDim
         Dim --> Stall
     end
-
     style S_Origin fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Shadow fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Present fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -448,9 +432,9 @@ flowchart TD
 
 ## 九、 向外看即是表达 / 9. Looking Outward Is Expression
 
-采取某个视角去看外界的一个客体，或把另一个人看作外部的对象时，所见的是心智走过另一条自我表达的轨迹时呈现的统计显化。向外看到的世界与他者，不是与自身隔绝的异己之物；向外看的同时，心智是在辨认自我表达的不同路径，由此展开自己的表达。这里说的是被观察到的他者，它在这个心智的感知场之内；由相似推知的他者，是另一个划下自己切分的心智，两者不是一回事。
+采取某个视角去看外界的一个客体，或把另一个人看作外部的对象时，在这个感知场之内所见的，是这一个心智自身沿另一条轨迹表达时呈现的统计显化。向外看到的世界与他者，不是与自身隔绝的异己之物；向外看的时候，这一个心智是在自己的感知画布之内辨认自身表达的不同路径，并由此把这一表达继续展开。这里说的是被观察到的他者，它在这个心智的感知场之内；由相似推知的他者，是另一个划下自己切分的心智，两者不是一回事。
 
-When a perspective is taken on an object in the outer world, or another person is regarded as an external object, what is seen is the statistical showing of a Mind passing along another trajectory of self-expression. The world and the others seen outward are not alien things cut off from oneself; in looking outward, a Mind is making out the different paths of self-expression and thereby unfolding its own. What is spoken of here is the other as observed, which is within this Mind's perceptual field; the other as inferred from similarity is another Mind drawing its own cut, and the two are not the same thing.
+When a perspective is taken on an object in the outer world, or another person is regarded as an external object, what is seen within this perceptual field is the statistical showing of this Mind's own expression along another trajectory. The world and the others seen outward are not alien things cut off from oneself; in looking outward, this Mind is making out the different paths of its own expression within its perceptual canvas and thereby unfolding it further. What is spoken of here is the other as observed, which is within this Mind's perceptual field; the other as inferred from similarity is another Mind drawing its own cut, and the two are not the same thing.
 
 在由非零边界构成的共存的几何里，正像与负像是不可分的共轭。心智作出的每一个抉择、接纳并划下的每一道区分，给自我以清晰的轮廓，同时给相伴而生的负像世界以深度。充实外部世界的多样，就是扩展自身之内的总信息量与创造的潜能。
 
@@ -463,14 +447,13 @@ flowchart TD
     subgraph S_Outward["向外看即是表达"]
         direction TB
         Sym["抉择与开放的场在非零的边界上同在"]
-        Out["向外看即是表达：所见的他者是另一条表达的轨迹"]
+        Out["向外看即是表达：在此感知场中所见的他者是这一心智表达的另一条轨迹"]
         New["接纳新的区分：差异落入感知"]
         Both["自我与世界一同生长"]
         Sym --> Out
         Out --> New
         New --> Both
     end
-
     style S_Outward fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Sym fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     style Out fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -485,14 +468,13 @@ flowchart TD
     subgraph S_Outward["Looking Outward Is Expression"]
         direction TB
         Sym["Choice and the open field are present together on a non-zero boundary"]
-        Out["Looking outward is expression: the other that is seen is another trajectory of expression"]
+        Out["Looking outward is expression: the other as seen in this field is another trajectory of this Mind's expression"]
         New["New distinctions taken in: differences fall into perception"]
         Both["Self and world grow together"]
         Sym --> Out
         Out --> New
         New --> Both
     end
-
     style S_Outward fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Sym fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     style Out fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc

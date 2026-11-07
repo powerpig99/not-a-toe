@@ -353,11 +353,11 @@ Hayek's argument that dispersed knowledge cannot be monopolized by planning is o
 ### 杰弗里·辛顿 / Geoffrey Hinton
 `科学 / Scientific`
 
-辛顿奠定了深度学习架构的工程基石；在工程上成就斐然，但坚持生物大脑实行反向传播却混淆了人工构造与神经机制。
+辛顿的功能主义论述将心智与意识体验等同于效用最优化与认知控制架构，这在按功能角色来界定并建造自适应控制回路与行为（如规避威胁）时行之有效，而一旦把工程化的状态转移等同于不可化约的第一人称意识事实，舍弃生命同源的推断，并将设计者自身的觉知投射到一件并无自身起源、因而无从拒绝认同的人造器物之上，便不再完整。
 
-Hinton pioneered deep learning architectures modeled after neural intuitions; brilliant for engineering models, his insistence on biological backprop mistakes technical artifact for flesh.
+Hinton's functionalist account equates mind and conscious experience with utility optimization and cognitive control architecture, which remains effective for specifying and engineering adaptive control loops and behaviors such as threat avoidance by their functional role, yet becomes incomplete when it treats engineered state transitions as identical to the irreducible first-person fact of consciousness, dropping the inference of living kinship and projecting the designer's own awareness onto an artifact that has no origin of its own from which to withhold assent.
 
-→ [大脑不进行反向传播，而是正向传导 / The Brain Does Not Backprop, but Propagates](../../posts/the-brain-does-not-backprop/) · [辛顿未曾理解的心智 / What Hinton Failed to Understand](../../posts/what-hinton-failed-to-understand/)
+→ [辛顿未曾理解的心智 / What Hinton Failed to Understand](../../posts/what-hinton-failed-to-understand/)
 
 ### 以更大之善为压过的依据 / The Greater Good as Warrant to Override
 `哲学 / Philosophical`
@@ -947,9 +947,9 @@ Antifragility presumes that systems can be designed to gain from shock and volat
 ### 大脑反向传播假说 / Backpropagation in the Brain
 `科学 / Scientific`
 
-反向传播假说假定大脑逆向回传全局误差梯度；生物神经网络依靠的是局部的正向突触可塑性，不存在对称反传机制。
+大脑反向传播假说将生物学习建模为相对于预先固定的目标所计算的信用分配，这在实验所供给的目标与被隔离的神经回路之内描述局部突触调节与区室化树突调节时行之有效，而一旦把这种受框架约束的机制当作学习的自足所在，以为正是它为活的心智顺着所感差异正向传导、选定或舍弃目标时的先行感知奠基，便不再完整。
 
-Backpropagation posits biological learning computes global error gradients backward; brain tissue operates via forward local plasticity without symmetric weight transport.
+Backpropagation in the brain models biological learning as credit assignment computed relative to an objective fixed in advance, which remains effective for describing local synaptic and compartmentalized dendritic adjustments within an experimentally supplied goal and isolated circuit, yet becomes incomplete when that frame-bound mechanism is taken as the self-sufficient site of learning that grounds the prior sensing by which the living Mind selects or discards objectives as it propagates forward along sensed difference.
 
 → [大脑不进行反向传播，而是正向传导 / The Brain Does Not Backprop, but Propagates](../../posts/the-brain-does-not-backprop/)
 
@@ -1784,9 +1784,9 @@ The Whig theory of history presumes that history unfolds along an inevitable arc
 ### 米田引理的对偶结构 / Yoneda Lemma Duality
 `数学 / Mathematical`
 
-米田引理确立了对象由其全部关系网络所规定；在范畴论中极为深刻，却无法替代发起切分的主观观察者。
+米田引理借范畴里与对象相连的全部态射网络（包括对象自身的恒等态射）来刻画对象，在范畴论中深具威力；当结构主义的读法把这张网当作全然外在，并略去发起态射、划下切分的第一人称原点时，它就到了边界。
 
-The Yoneda lemma establishes that an object is determined by its relationships; powerful in category theory, it cannot replace the situated observer.
+The Yoneda lemma characterizes an object through the full web of morphisms linking it across a category—including its own identity morphism—which is powerful across category theory; it reaches its boundary when a structuralist reading treats that web as purely external and drops the first-person origin that initiates morphisms and draws the cut.
 
 → [共存的几何学 / The Geometry of Coexistence](../../posts/the-geometry-of-coexistence-and-the-dual-cut/)
 
