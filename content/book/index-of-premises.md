@@ -74,11 +74,11 @@ Maddison reconstructed the thousand-fold expansion of the civilizational denomin
 ### 安德鲁·休伯曼 / Andrew Huberman
 `科学 / Scientific`
 
-休伯曼将人生斗志映射为神经递质调节方案；有益于生物机能维护，却把心智志向降解为多巴胺管理。
+休伯曼将实验室队列发现与人生斗志提炼为神经生物学日常规程，作为生物机能维护的定位参考时有益，而一旦把心智志向还原为多巴胺管理、或将群体均值奉为凌驾于第一人称躯体校准之上的规训清单，便到达了边界。
 
-Huberman maps human drive onto neurochemical protocols; invaluable for biological maintenance, it reduces sovereign purpose to mechanistic dopamine management.
+Huberman distills laboratory cohort findings and human drive into daily neurobiological protocols, which is of use as an orienting reference for biological maintenance, yet reaches its boundary when it reduces sovereign purpose to dopamine management or canonizes population averages into a prescriptive checklist that overrides first-person somatic calibration.
 
-→ [赢家与输家的转化框架 / Winners and Losers in the Transmutation Frame](../../posts/huberman-winners-losers/)
+→ [赢家与输家的转化框架 / Winners and Losers in the Transmutation Frame](../../posts/huberman-winners-losers/) · [规程的倒置与因果回路的消声 / The Inversion of the Protocol and the Silencing of the Causal Loop](../../posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop/)
 
 ### 安迪·克拉克 / Andy Clark
 `哲学 / Philosophical`
