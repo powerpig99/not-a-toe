@@ -128,7 +128,7 @@ The most durable advances keep their own boundaries provisional: large enough to
 
 The same pattern runs through intellectual and technological frontiers. Those ahead are faster, earlier, or better equipped. What others mainly see are the traces left behind: released databases, published methods, public benchmarks. By the time those traces are reached, the edge has moved farther out, often accelerating under compounding advantages. It resembles a race in which the leaders are also extending the track.
 
-因此，单单追赶先前的位置，便容易永远落在后面。这不是因为在一条固定路径上有芝诺式的无穷多离散步骤，而是因为追赶的对象正被那些已经在原先边界之外运作的人重新定义。[卓异、感知与自我设限的问题场域](../exceptionality-perception-and-the-self-limiting-field-of-problems/)在问题经济的场景里追溯了这条自我更新的边缘：解开一个前沿问题，照例会揭出下一个。[一个提示词之遥](../whatever-is-one-prompt-away/)追溯的是，先前的层级依然可用，却在一个扩张的场中占比越来越小。[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)追溯的是，每一道门槛都是被投射到划出它的那条边缘前方的一个坐标，又被划出它的那个递归所超过。
+因此，单单追赶先前的位置，便容易一直落在后面。这不是因为在一条固定路径上有芝诺式的无穷多离散步骤，而是因为追赶的对象正被那些已经在原先边界之外运作的人重新定义。[卓异、感知与自我设限的问题场域](../exceptionality-perception-and-the-self-limiting-field-of-problems/)在问题经济的场景里追溯了这条自我更新的边缘：解开一个前沿问题，照例会揭出下一个。[一个提示词之遥](../whatever-is-one-prompt-away/)追溯的是，先前的层级依然可用，却在一个扩张的场中占比越来越小。[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)追溯的是，每一道门槛都是被投射到划出它的那条边缘前方的一个坐标，又被划出它的那个递归所超过。
 
 Mere pursuit of previous positions therefore tends to stay behind. This is not because of a Zeno-style infinity of discrete steps on a fixed path, but because the object of pursuit is being redefined by those already operating beyond the prior boundary. [Exceptionality, Perception, and the Self-Limiting Field of Problems](../exceptionality-perception-and-the-self-limiting-field-of-problems/) traces that self-renewing edge in the economy of problems: solving one frontier problem characteristically discloses the next. [Whatever Is One Prompt Away](../whatever-is-one-prompt-away/) traces prior levels that stay available as a shrinking share of an expanding field. [AGI and ASI Are Temporary Goalposts](../agi-and-asi-are-temporary-goalposts/) traces each threshold as a coordinate projected ahead of the edge that draws it and overtaken by the recursion that drew it.
 
@@ -142,7 +142,7 @@ Invoking the mathematical solution as a direct refutation of the frontier dynami
 
 ## 五、 地图只在重绘时保有力量 / 5. Maps Stay Powerful Only While They Re-render
 
-数学与物理让这个难处更深一层。它们非凡的稳定性、预测力和在不同主体间的可靠，让人很自然地把它们体验为现实的客观陈设，而不是受到高度约束、为特定目的而造的地图。这一转换一旦发生，提醒它们仍是临时的，就会被登记为对严谨的攻击。可正是把这些工具放在它们该在的位置上，非常有用、可以修正、从不等同于它们追踪的整体，才同时保住了它们的力量和它们所描述之物的开放性。
+数学与物理让这个难处更深一层。它们非凡的稳定性、预测力和在不同主体间的可靠，让人很自然地把它们体验为现实的客观陈设，而不是受到高度约束、为特定目的而造的地图。这一转换一旦发生，提醒它们仍是临时的，就会被登记为对严谨的攻击。可正是让这些工具守在自己的位置上，即非常有用、可以修正、从不等同于它们追踪的整体，才同时保住了它们的力量和它们所描述之物的开放性。
 
 Mathematics and physics deepen the difficulty. Their extraordinary stability, predictive power, and intersubjective reliability make it natural to experience them as the objective furniture of reality rather than as highly constrained, purpose-built maps. Once that shift occurs, reminders that they remain provisional register as attacks on rigor. Yet it is keeping the tools in their role, highly useful, revisable, never identical with the whole they track, that preserves both their power and the open character of what they describe.
 

@@ -2011,9 +2011,9 @@ Presumes artificial intelligence represents the natural evolutionary successor t
 ### AlphaFold 蛋白质结构全库 / AlphaFold Protein Structure Catalogue
 `技术 / Technological`
 
-折叠全部已知序列，预设这份清单就是领域的完整结构，作为临时界限内的真实扩展时有用；它在此到了边界：界限一放大，动态折叠、相互作用与设计空间便重新显现为开放的生成连续体。
+把折叠全部已知序列所得的清单当作领域的完整结构，预设了一份由当前界限变得可数的清单便能穷尽生成的场；这份清单在折叠这些序列登记为临时界限之内的扩展时有用，它在此到了边界：界限一放大，动态折叠、相互作用与设计空间便重新显现为开放的生成连续体。
 
-Folding all known sequences presumes the catalogue is the domain's full structure, which is of use as real expansion inside a temporary bound; it reaches its boundary in that once the bound is enlarged, dynamic folding, interactions and design space reappear as an open generative continuum.
+Treating the catalogue of all known folded sequences as the domain's full structure presumes that an inventory the present bound made countable exhausts the field; the catalogue is of use where folding those sequences registers as expansion inside a temporary bound, and reaches its boundary in that once the bound is enlarged, dynamic folding, interactions, and design space reappear as an open generative continuum.
 
 → [抽象、边界与现实的移动边缘 / Abstraction Boundaries and the Moving Edge of Reality](../../posts/abstraction-boundaries-and-the-moving-edge-of-reality/)
 
