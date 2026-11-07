@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-07T17:40:53.604Z",
+    "generated_at": "2026-11-07T21:01:27.230Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -68,7 +68,7 @@
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "6ef0fd1e62bc",
       "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "f146489c346f",
       "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "c40dfd70273a",
-      "content/posts/dimensions-are-projections.md": "3efc5fcfbfd0",
+      "content/posts/dimensions-are-projections.md": "dd78fc90ba94",
       "content/posts/distillation-compression-agency.md": "8be4ecf97ac2",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "b64fa4420bd4",
       "content/posts/dynamic-resnet-of-skill-loops.md": "baf38b64137d",
@@ -100,7 +100,7 @@
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "e21403fb50ae",
       "content/posts/grok-420-framework-drift.md": "d52eb56b8746",
       "content/posts/guan-yu-gui-yin.md": "da039a5a5061",
-      "content/posts/guidance-is-not-ownership.md": "42f631246507",
+      "content/posts/guidance-is-not-ownership.md": "4bd9a73e2d08",
       "content/posts/handing-off-residue.md": "54641f5f6655",
       "content/posts/happiness-is-the-relation-of-desire-to-state.md": "cb2d29e8cb0d",
       "content/posts/hardness-is-not-inherent-in-the-action.md": "a3edf37fad3f",
@@ -176,9 +176,9 @@
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "48c6830926cc",
       "content/posts/precision-and-resolution.md": "3a07d3cc0531",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "b11dea0379ff",
-      "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "6adbcae9fc09",
+      "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "92cddbf1056e",
       "content/posts/price-as-utterance-understanding-as-trade.md": "11deadd7c5d2",
-      "content/posts/production-consumption-and-the-minds-distinction.md": "fed20f3d69e9",
+      "content/posts/production-consumption-and-the-minds-distinction.md": "b1107cb6a3e9",
       "content/posts/public-spending-does-not-create-capital.md": "ff04541bddf9",
       "content/posts/qian-yin-hou-guo.md": "e9a138276212",
       "content/posts/rationality-never-travels-across-the-mind.md": "3cb2e68dd3f2",
@@ -198,7 +198,7 @@
       "content/posts/self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success.md": "5bdf03fd7397",
       "content/posts/sensing-before-interpretation.md": "e85a0b081114",
       "content/posts/shared-consciousness-is-intersecting-individualities.md": "effb27d0037a",
-      "content/posts/shared-humanity-is-never-shared.md": "667dd03af694",
+      "content/posts/shared-humanity-is-never-shared.md": "d71f3294cfc1",
       "content/posts/shou-bu-hui-de-mu-guang-yu-zhi-shi-de-yin-guo-dao-zhi.md": "95b8cde4e1e7",
       "content/posts/silicon-oracles-and-the-asymmetry-of-consequence.md": "169cdd97d0dd",
       "content/posts/simplicity-ultimate-sophistication.md": "9039597a8e48",
@@ -218,7 +218,7 @@
       "content/posts/the-artifacts-of-self-amplification.md": "92ff2ec8732a",
       "content/posts/the-asymmetry-of-understanding.md": "62d1edf084fd",
       "content/posts/the-average-is-residue-not-the-engine.md": "b881dcae3e7d",
-      "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md": "eaf1b6045bfa",
+      "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md": "6804cff7b14a",
       "content/posts/the-bank-shot-and-the-magic-trick.md": "fc402ee12141",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "d76114e1c2e4",
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "097281281f11",
@@ -234,7 +234,7 @@
       "content/posts/the-category-error-of-better.md": "01832e3adff3",
       "content/posts/the-causal-inversion-of-partnership.md": "5b985f8e2316",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "3ca599ffb0d9",
-      "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "c3f7ea991be1",
+      "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "8483532cb194",
       "content/posts/the-causal-overstep-of-observation-and-the-first-person-surplus.md": "93565058d4b9",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "c138f1002466",
       "content/posts/the-closed-loop-of-representation.md": "e4e02efb1bdf",
@@ -268,7 +268,7 @@
       "content/posts/the-fallacy-of-post-success-parenting.md": "a33a3eabb00c",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "204ffca3c19c",
       "content/posts/the-fixed-image-of-transcendence.md": "c2123525af2c",
-      "content/posts/the-fixed-map-and-the-repeated-trip.md": "ba553eb8af02",
+      "content/posts/the-fixed-map-and-the-repeated-trip.md": "bebfd3a11d1a",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "d3d47cfe2abd",
       "content/posts/the-flywheel-of-the-mind.md": "8023c6735d6f",
       "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "d245e5c4f9aa",
@@ -288,7 +288,7 @@
       "content/posts/the-geometry-of-mind.md": "d11c9a9d9394",
       "content/posts/the-geometry-of-success.md": "7e595bd2dce9",
       "content/posts/the-geometry-of-the-cut.md": "1fc2cc0a5e0c",
-      "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "3d3447a6b6f0",
+      "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "2cb811198b30",
       "content/posts/the-hard-problem-of-consciousness-is-consistent-with-learning.md": "3de7d02051ad",
       "content/posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function.md": "3c6c5032ee3e",
       "content/posts/the-homework-exam-inversion-registers-substitution.md": "2bca56c2a965",
@@ -313,7 +313,7 @@
       "content/posts/the-irreducible-observer.md": "26a3b93de19e",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "8b9baa73bc04",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "f12b48ed8a70",
-      "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "2eb5245e590b",
+      "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "a0f7699171d8",
       "content/posts/the-ledger-of-the-unencountered.md": "ffcdbfc26a69",
       "content/posts/the-limitation-is-doing-work.md": "bdf4b71e4176",
       "content/posts/the-living-context.md": "8d42e5a0f3f0",
@@ -409,10 +409,10 @@
       "content/posts/therapy-opens-the-feedback-loop.md": "fef94840ad77",
       "content/posts/time-is-causality-not-a-dimension.md": "666e7cab11af",
       "content/posts/token-efficiency-emulation-and-the-unclosable-gap.md": "8b7996bdb4d5",
-      "content/posts/tokens-and-the-observational-boundary.md": "34db187b43af",
+      "content/posts/tokens-and-the-observational-boundary.md": "35ae2387b219",
       "content/posts/tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian.md": "ad64f1388d7d",
       "content/posts/tou-zi-jue-ce-de-yin-guo-yu-zhen-zi-fu-ying-kui.md": "91487ce48c58",
-      "content/posts/trusting-the-reader-is-the-last-overstep.md": "4fa6d46f4306",
+      "content/posts/trusting-the-reader-is-the-last-overstep.md": "797834a2a35a",
       "content/posts/two-failures-of-trace.md": "3ac21a2fda4a",
       "content/posts/two-phase-sleep-and-deep-sleep-continual-learning.md": "6ce604fb8a71",
       "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "1a6b64a4d111",
@@ -439,7 +439,7 @@
       "content/posts/you-tiao-jian-de-zi-you.md": "951537534f9e",
       "content/posts/you-wu-zhi-bian.md": "44d999fe6fb0",
       "content/posts/your-codebase-is-memory.md": "ea27ad8ecdfa",
-      "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "d2e6651a8bd3",
+      "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "3e72072e6737",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "85c32a43404f",
       "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "1308b0507c8e",
       "content/posts/zi-you-de-ce-bu-zhun.md": "b31126285afd",
@@ -464,10 +464,10 @@
     },
     "stats": {
       "posts": 437,
-      "edges": 13344,
-      "unique_directed": 6555,
+      "edges": 13378,
+      "unique_directed": 6572,
       "missing_targets": 0,
-      "one_way": 1309,
+      "one_way": 1292,
       "isolated": 0,
       "posts_with_outbound": 437,
       "book_pages": 16,
@@ -599,15 +599,15 @@
       "out_degree": 42
     },
     {
+      "slug": "production-consumption-and-the-minds-distinction",
+      "out_degree": 40
+    },
+    {
       "slug": "causality-all-the-way",
       "out_degree": 39
     },
     {
       "slug": "mistaking-the-expression-for-the-intelligence",
-      "out_degree": 39
-    },
-    {
-      "slug": "production-consumption-and-the-minds-distinction",
       "out_degree": 39
     },
     {
@@ -806,7 +806,7 @@
       "path": "content/posts/abstraction-determination-and-the-three-structural-flaws-of-machine-learning.md",
       "title": "抽象、决定，与主流机器学习的三大结构性症结 / Abstraction, Determination, and the Three Structural Flaws of Machine Learning",
       "hash": "ebd51c27bb8b",
-      "in_degree": 0,
+      "in_degree": 4,
       "out_degree": 22,
       "links_out": [
         "not-a-theory-of-everything",
@@ -2377,9 +2377,9 @@
       "slug": "dimensions-are-projections",
       "path": "content/posts/dimensions-are-projections.md",
       "title": "维度即投影 / Dimensions Are Projections",
-      "hash": "3efc5fcfbfd0",
+      "hash": "dd78fc90ba94",
       "in_degree": 33,
-      "out_degree": 23,
+      "out_degree": 25,
       "links_out": [
         "not-a-toe-rewrite",
         "what-information-is",
@@ -2390,6 +2390,7 @@
         "the-scaffolding-we-forget",
         "time-is-causality-not-a-dimension",
         "the-myth-of-the-four-dimensional-deer-and-the-present-model",
+        "abstraction-determination-and-the-three-structural-flaws-of-machine-learning",
         "the-boundary-of-the-frame",
         "individual-choices-as-the-only-causal-levers",
         "the-extendable-horizon",
@@ -2400,6 +2401,7 @@
         "the-model-never-becomes-a-second-edge",
         "your-codebase-is-memory",
         "the-fixed-map-and-the-repeated-trip",
+        "the-discrete-fold",
         "architecture-of-recursive-distinction",
         "the-vector-and-the-puzzle-of-projections",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
@@ -3172,9 +3174,9 @@
       "slug": "guidance-is-not-ownership",
       "path": "content/posts/guidance-is-not-ownership.md",
       "title": "引导不是占有 / Guidance Is Not Ownership",
-      "hash": "42f631246507",
+      "hash": "4bd9a73e2d08",
       "in_degree": 11,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "the-generative-atlas-of-macroscopic-phenomena",
         "sympathy-is-a-placeholder-for-lack-of-clarity",
@@ -3182,6 +3184,7 @@
         "individual-choices-as-the-only-causal-levers",
         "zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan",
         "emotional-support-as-causal-interference",
+        "rebellion-as-symptom-not-property",
         "agency-and-the-pattern",
         "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
         "ownership-and-self-worthiness",
@@ -3223,7 +3226,7 @@
       "path": "content/posts/happiness-is-the-relation-of-desire-to-state.md",
       "title": "幸福是欲望与状态的关系 / Happiness Is the Relation of Desire to State",
       "hash": "cb2d29e8cb0d",
-      "in_degree": 0,
+      "in_degree": 2,
       "out_degree": 10,
       "links_out": [
         "the-initial-distinction",
@@ -5426,13 +5429,14 @@
       "slug": "present-contact-and-the-obscuration-of-desired-feeling",
       "path": "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md",
       "title": "现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling",
-      "hash": "6adbcae9fc09",
+      "hash": "92cddbf1056e",
       "in_degree": 4,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
         "the-grammar-of-finding-and-the-fading-observer",
         "the-form-of-enlightenment-and-the-inversion-of-gates",
+        "happiness-is-the-relation-of-desire-to-state",
         "the-blind-spot-of-the-frame",
         "the-summary-first-reversal-and-the-command-of-yields",
         "the-irreducible-observer",
@@ -5478,9 +5482,9 @@
       "slug": "production-consumption-and-the-minds-distinction",
       "path": "content/posts/production-consumption-and-the-minds-distinction.md",
       "title": "生产、消费与心智的区分 / Production, Consumption, and the Mind's Distinction",
-      "hash": "fed20f3d69e9",
+      "hash": "b1107cb6a3e9",
       "in_degree": 39,
-      "out_degree": 39,
+      "out_degree": 40,
       "links_out": [
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -5500,6 +5504,7 @@
         "public-spending-does-not-create-capital",
         "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "the-causal-order-of-private-residuals-and-social-surplus",
+        "the-frontier-lifts-the-floor",
         "individual-choices-as-the-only-causal-levers",
         "residual-individualism",
         "self-rl-for-humans",
@@ -5667,7 +5672,7 @@
       "path": "content/posts/rebellion-as-symptom-not-property.md",
       "title": "叛逆是症状而非属性 / Rebellion as Symptom, Not Property",
       "hash": "811b3e0067c0",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 15,
       "links_out": [
         "objects-are-stabilized-relationships",
@@ -6033,9 +6038,9 @@
       "slug": "shared-humanity-is-never-shared",
       "path": "content/posts/shared-humanity-is-never-shared.md",
       "title": "共同的人性从不共享 / Shared Humanity Is Never Shared",
-      "hash": "667dd03af694",
+      "hash": "d71f3294cfc1",
       "in_degree": 15,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
         "the-source-of-shared-change",
@@ -6048,6 +6053,7 @@
         "externalized-virtue-becomes-its-opposite",
         "the-belief-in-utopia-is-the-path-to-dystopia",
         "exceptionality-perception-and-the-self-limiting-field-of-problems",
+        "the-two-readings-of-shared-and-the-observational-bound",
         "your-codebase-is-memory",
         "shared-consciousness-is-intersecting-individualities",
         "self-image-speaks-as-if-from-nowhere",
@@ -6278,7 +6284,7 @@
       "path": "content/posts/successive-reading-and-the-negotiated-boundary-of-language.md",
       "title": "接续阅读与协商中的语言边界 / Successive Reading and the Negotiated Boundary of Language",
       "hash": "cc20006213a8",
-      "in_degree": 0,
+      "in_degree": 2,
       "out_degree": 7,
       "links_out": [
         "self-image-speaks-as-if-from-nowhere",
@@ -6660,9 +6666,9 @@
       "slug": "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
       "path": "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md",
       "title": "阳台视角的规训僭越与不可代理的未竟之行 / The Balcony Disciplinary Overstep and the Unproxyable Act",
-      "hash": "eaf1b6045bfa",
+      "hash": "6804cff7b14a",
       "in_degree": 11,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "the-invisible-gods-eye",
         "beyond-the-projection",
@@ -6671,7 +6677,8 @@
         "the-summary-first-reversal-and-the-command-of-yields",
         "the-name-revolution-files-a-life-as-evidence",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
-        "your-codebase-is-memory"
+        "your-codebase-is-memory",
+        "the-two-readings-of-shared-and-the-observational-bound"
       ]
     },
     {
@@ -7051,11 +7058,12 @@
       "slug": "the-causal-order-of-private-residuals-and-social-surplus",
       "path": "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md",
       "title": "私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus",
-      "hash": "c3f7ea991be1",
+      "hash": "8483532cb194",
       "in_degree": 15,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "having-more-is-never-the-cause",
+        "the-frontier-lifts-the-floor",
         "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "order-surplus-and-the-moral-intercept",
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
@@ -7506,7 +7514,7 @@
       "path": "content/posts/the-determination-funnel-beyond-convolutions-and-attention.md",
       "title": "超越卷积与注意力机制的决定漏斗 / The Determination Funnel Beyond Convolutions and Attention",
       "hash": "21e596de887e",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 8,
       "links_out": [
         "the-fixed-map-and-the-repeated-trip",
@@ -7634,7 +7642,7 @@
       "path": "content/posts/the-discrete-fold.md",
       "title": "离散的折叠 / The Discrete Fold",
       "hash": "fe6b32be4932",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 10,
       "links_out": [
         "dimensions-are-projections",
@@ -7727,7 +7735,7 @@
       "path": "content/posts/the-dual-cut.md",
       "title": "指令与载荷的双重切分 / The Dual Cut of Command and Payload",
       "hash": "df8dbcf83218",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 7,
       "links_out": [
         "the-mark-and-the-act",
@@ -7911,17 +7919,21 @@
       "slug": "the-fixed-map-and-the-repeated-trip",
       "path": "content/posts/the-fixed-map-and-the-repeated-trip.md",
       "title": "固定地图与重复的行程 / The Fixed Map and the Repeated Trip",
-      "hash": "ba553eb8af02",
+      "hash": "bebfd3a11d1a",
       "in_degree": 17,
-      "out_degree": 14,
+      "out_degree": 18,
       "links_out": [
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "dimensions-are-projections",
         "learned-boundaries-and-the-given-rate",
+        "abstraction-determination-and-the-three-structural-flaws-of-machine-learning",
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+        "the-dual-cut",
         "what-information-is",
         "the-ladder-of-abstraction-and-the-executable-entity",
         "the-blind-cut-and-the-naming-mind",
+        "the-determination-funnel-beyond-convolutions-and-attention",
+        "the-shadow-has-no-loss",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
         "context-engineering-essay",
         "continuous-learning-as-expression-and-simulation",
@@ -8110,7 +8122,7 @@
       "path": "content/posts/the-frontier-lifts-the-floor.md",
       "title": "前沿抬升底线 / The Frontier Lifts the Floor",
       "hash": "440910956459",
-      "in_degree": 0,
+      "in_degree": 2,
       "out_degree": 14,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -8408,11 +8420,12 @@
       "slug": "the-grammar-of-finding-and-the-fading-observer",
       "path": "content/posts/the-grammar-of-finding-and-the-fading-observer.md",
       "title": "寻觅的语法与淡出的观察者 / The Grammar of Finding and the Fading Observer",
-      "hash": "3d3447a6b6f0",
+      "hash": "2cb811198b30",
       "in_degree": 12,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "on-closed-systems-open-minds-and-the-limits-of-proof",
+        "happiness-is-the-relation-of-desire-to-state",
         "the-aesthetic-escalator-and-the-melancholy-of-the-balcony",
         "the-irreducible-observer",
         "observation-distinguishing-activity-and-the-open-ground-of-mind",
@@ -9003,13 +9016,14 @@
       "slug": "the-ladder-of-abstraction-and-the-executable-entity",
       "path": "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md",
       "title": "抽象的阶梯与可执行的实体 / The Ladder of Abstraction and the Executable Entity",
-      "hash": "2eb5245e590b",
+      "hash": "a0f7699171d8",
       "in_degree": 11,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "climbing-does-not-leave-the-ground",
         "po-chu-gai-nian-de-jian-yue",
         "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+        "abstraction-determination-and-the-three-structural-flaws-of-machine-learning",
         "the-blind-cut-and-the-naming-mind",
         "the-fixed-map-and-the-repeated-trip",
         "boletus-compute-storm-and-promethean-fire",
@@ -10688,7 +10702,7 @@
       "path": "content/posts/the-shadow-has-no-loss.md",
       "title": "影子没有损失 / The Shadow Has No Loss",
       "hash": "d09668b8cea9",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 12,
       "links_out": [
         "the-fixed-map-and-the-repeated-trip",
@@ -11084,7 +11098,7 @@
       "path": "content/posts/the-two-readings-of-shared-and-the-observational-bound.md",
       "title": "“共享”的两种读法与观察的边界 / The Two Readings of Shared and the Observational Bound",
       "hash": "e94c3bf07d11",
-      "in_degree": 0,
+      "in_degree": 2,
       "out_degree": 8,
       "links_out": [
         "shared-humanity-is-never-shared",
@@ -11462,12 +11476,13 @@
       "slug": "tokens-and-the-observational-boundary",
       "path": "content/posts/tokens-and-the-observational-boundary.md",
       "title": "词元与观测边界 / Tokens and the Observational Boundary",
-      "hash": "34db187b43af",
+      "hash": "35ae2387b219",
       "in_degree": 5,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "the-scaffolding-we-forget",
         "humans-tokens-and-the-scope-of-valuation",
+        "abstraction-determination-and-the-three-structural-flaws-of-machine-learning",
         "the-ladder-of-abstraction-and-the-executable-entity",
         "learned-boundaries-and-the-given-rate",
         "the-blind-cut-and-the-naming-mind",
@@ -11538,9 +11553,9 @@
       "slug": "trusting-the-reader-is-the-last-overstep",
       "path": "content/posts/trusting-the-reader-is-the-last-overstep.md",
       "title": "信任读者是最后的越界 / Trusting the Reader Is the Last Overstep",
-      "hash": "4fa6d46f4306",
+      "hash": "797834a2a35a",
       "in_degree": 11,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "rationality-never-travels-across-the-mind",
         "price-as-utterance-understanding-as-trade",
@@ -11549,6 +11564,7 @@
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "self-image-speaks-as-if-from-nowhere",
         "the-boundary-of-the-frame",
+        "successive-reading-and-the-negotiated-boundary-of-language",
         "the-asymmetry-of-understanding",
         "one-cannot-escape-ones-own-mind",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
@@ -12286,9 +12302,9 @@
       "slug": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
       "path": "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md",
       "title": "止步于评判，是认知的歧途 / Stopping at Judgment Is a Wrong Turn of Cognition",
-      "hash": "d2e6651a8bd3",
+      "hash": "3e72072e6737",
       "in_degree": 10,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "the-paradoxical-nature-of-bystander-insights",
         "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
@@ -12300,6 +12316,7 @@
         "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
         "the-meaning-of-life-is-in-the-drafting",
         "the-unobservable-driver-of-learning",
+        "successive-reading-and-the-negotiated-boundary-of-language",
         "your-codebase-is-memory",
         "the-mark-and-the-act"
       ]
@@ -24853,6 +24870,18 @@
     },
     {
       "from": "dimensions-are-projections",
+      "to": "abstraction-determination-and-the-three-structural-flaws-of-machine-learning",
+      "rel": "points_to",
+      "label": "抽象、决定，与主流机器学习的三大结构性症结"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "abstraction-determination-and-the-three-structural-flaws-of-machine-learning",
+      "rel": "points_to",
+      "label": "Abstraction, Determination, and the Three Structural Flaws of Machine Learning"
+    },
+    {
+      "from": "dimensions-are-projections",
       "to": "the-boundary-of-the-frame",
       "rel": "points_to",
       "label": "框架的边界"
@@ -24955,6 +24984,12 @@
     },
     {
       "from": "dimensions-are-projections",
+      "to": "the-discrete-fold",
+      "rel": "points_to",
+      "label": "离散的折叠"
+    },
+    {
+      "from": "dimensions-are-projections",
       "to": "architecture-of-recursive-distinction",
       "rel": "points_to",
       "label": "递归区分的架构"
@@ -24976,6 +25011,12 @@
       "to": "the-fixed-map-and-the-repeated-trip",
       "rel": "points_to",
       "label": "The Fixed Map and the Repeated Trip"
+    },
+    {
+      "from": "dimensions-are-projections",
+      "to": "the-discrete-fold",
+      "rel": "points_to",
+      "label": "The Discrete Fold"
     },
     {
       "from": "dimensions-are-projections",
@@ -29779,9 +29820,21 @@
     },
     {
       "from": "guidance-is-not-ownership",
+      "to": "rebellion-as-symptom-not-property",
+      "rel": "points_to",
+      "label": "叛逆是症状而非属性"
+    },
+    {
+      "from": "guidance-is-not-ownership",
       "to": "emotional-support-as-causal-interference",
       "rel": "points_to",
       "label": "Emotional Support as Causal Interference"
+    },
+    {
+      "from": "guidance-is-not-ownership",
+      "to": "rebellion-as-symptom-not-property",
+      "rel": "points_to",
+      "label": "Rebellion as Symptom, Not Property"
     },
     {
       "from": "guidance-is-not-ownership",
@@ -46051,9 +46104,21 @@
     },
     {
       "from": "present-contact-and-the-obscuration-of-desired-feeling",
+      "to": "happiness-is-the-relation-of-desire-to-state",
+      "rel": "points_to",
+      "label": "幸福是欲望与状态的关系"
+    },
+    {
+      "from": "present-contact-and-the-obscuration-of-desired-feeling",
       "to": "the-form-of-enlightenment-and-the-inversion-of-gates",
       "rel": "points_to",
       "label": "The Form of Enlightenment and the Inversion of Gates"
+    },
+    {
+      "from": "present-contact-and-the-obscuration-of-desired-feeling",
+      "to": "happiness-is-the-relation-of-desire-to-state",
+      "rel": "points_to",
+      "label": "Happiness Is the Relation of Desire to State"
     },
     {
       "from": "present-contact-and-the-obscuration-of-desired-feeling",
@@ -46549,6 +46614,12 @@
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
+      "to": "the-frontier-lifts-the-floor",
+      "rel": "points_to",
+      "label": "前沿抬升底线"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
       "to": "fate-loves-irony-refined",
       "rel": "points_to",
       "label": "Production Creates Its Own Ideological Consumption"
@@ -46570,6 +46641,12 @@
       "to": "the-causal-order-of-private-residuals-and-social-surplus",
       "rel": "points_to",
       "label": "The Causal Order of Private Residuals and Social Surplus"
+    },
+    {
+      "from": "production-consumption-and-the-minds-distinction",
+      "to": "the-frontier-lifts-the-floor",
+      "rel": "points_to",
+      "label": "The Frontier Lifts the Floor"
     },
     {
       "from": "production-consumption-and-the-minds-distinction",
@@ -50293,6 +50370,12 @@
     },
     {
       "from": "shared-humanity-is-never-shared",
+      "to": "the-two-readings-of-shared-and-the-observational-bound",
+      "rel": "points_to",
+      "label": "“共享”的两种读法与观察的边界"
+    },
+    {
+      "from": "shared-humanity-is-never-shared",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
@@ -50314,6 +50397,12 @@
       "to": "the-real-lesson-from-the-consciousness-vector-paper",
       "rel": "points_to",
       "label": "意识向量论文的真正教训"
+    },
+    {
+      "from": "shared-humanity-is-never-shared",
+      "to": "the-two-readings-of-shared-and-the-observational-bound",
+      "rel": "points_to",
+      "label": "The Two Readings of Shared and the Observational Bound"
     },
     {
       "from": "shared-humanity-is-never-shared",
@@ -54264,6 +54353,18 @@
       "label": "Your Codebase Is Memory"
     },
     {
+      "from": "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
+      "to": "the-two-readings-of-shared-and-the-observational-bound",
+      "rel": "points_to",
+      "label": "“共享”的两种读法与观察的边界"
+    },
+    {
+      "from": "the-balcony-disciplinary-overstep-and-the-unproxyable-act",
+      "to": "the-two-readings-of-shared-and-the-observational-bound",
+      "rel": "points_to",
+      "label": "The Two Readings of Shared and the Observational Bound"
+    },
+    {
       "from": "the-bank-shot-and-the-magic-trick",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
@@ -56614,6 +56715,18 @@
       "to": "having-more-is-never-the-cause",
       "rel": "points_to",
       "label": "Having More Is Never the Cause"
+    },
+    {
+      "from": "the-causal-order-of-private-residuals-and-social-surplus",
+      "to": "the-frontier-lifts-the-floor",
+      "rel": "points_to",
+      "label": "前沿抬升底线"
+    },
+    {
+      "from": "the-causal-order-of-private-residuals-and-social-surplus",
+      "to": "the-frontier-lifts-the-floor",
+      "rel": "points_to",
+      "label": "The Frontier Lifts the Floor"
     },
     {
       "from": "the-causal-order-of-private-residuals-and-social-surplus",
@@ -62233,6 +62346,12 @@
     },
     {
       "from": "the-fixed-map-and-the-repeated-trip",
+      "to": "abstraction-determination-and-the-three-structural-flaws-of-machine-learning",
+      "rel": "points_to",
+      "label": "抽象、决定，与主流机器学习的三大结构性症结"
+    },
+    {
+      "from": "the-fixed-map-and-the-repeated-trip",
       "to": "dimensions-are-projections",
       "rel": "points_to",
       "label": "Dimensions Are Projections"
@@ -62245,15 +62364,33 @@
     },
     {
       "from": "the-fixed-map-and-the-repeated-trip",
+      "to": "abstraction-determination-and-the-three-structural-flaws-of-machine-learning",
+      "rel": "points_to",
+      "label": "Abstraction, Determination, and the Three Structural Flaws of Machine Learning"
+    },
+    {
+      "from": "the-fixed-map-and-the-repeated-trip",
       "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
       "rel": "points_to",
       "label": "机器智能作为人类智能的组合反馈回路"
     },
     {
       "from": "the-fixed-map-and-the-repeated-trip",
+      "to": "the-dual-cut",
+      "rel": "points_to",
+      "label": "指令与载荷的双重切分"
+    },
+    {
+      "from": "the-fixed-map-and-the-repeated-trip",
       "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
       "rel": "points_to",
       "label": "Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence"
+    },
+    {
+      "from": "the-fixed-map-and-the-repeated-trip",
+      "to": "the-dual-cut",
+      "rel": "points_to",
+      "label": "The Dual Cut of Command and Payload"
     },
     {
       "from": "the-fixed-map-and-the-repeated-trip",
@@ -62275,6 +62412,18 @@
     },
     {
       "from": "the-fixed-map-and-the-repeated-trip",
+      "to": "the-determination-funnel-beyond-convolutions-and-attention",
+      "rel": "points_to",
+      "label": "超越卷积与注意力机制的决定漏斗"
+    },
+    {
+      "from": "the-fixed-map-and-the-repeated-trip",
+      "to": "the-shadow-has-no-loss",
+      "rel": "points_to",
+      "label": "影子没有损失"
+    },
+    {
+      "from": "the-fixed-map-and-the-repeated-trip",
       "to": "what-information-is",
       "rel": "points_to",
       "label": "What Information Is"
@@ -62290,6 +62439,18 @@
       "to": "the-blind-cut-and-the-naming-mind",
       "rel": "points_to",
       "label": "The Blind Cut and the Naming Mind"
+    },
+    {
+      "from": "the-fixed-map-and-the-repeated-trip",
+      "to": "the-determination-funnel-beyond-convolutions-and-attention",
+      "rel": "points_to",
+      "label": "The Determination Funnel Beyond Convolutions and Attention"
+    },
+    {
+      "from": "the-fixed-map-and-the-repeated-trip",
+      "to": "the-shadow-has-no-loss",
+      "rel": "points_to",
+      "label": "The Shadow Has No Loss"
     },
     {
       "from": "the-fixed-map-and-the-repeated-trip",
@@ -65341,9 +65502,21 @@
     },
     {
       "from": "the-grammar-of-finding-and-the-fading-observer",
+      "to": "happiness-is-the-relation-of-desire-to-state",
+      "rel": "points_to",
+      "label": "幸福是欲望与状态的关系"
+    },
+    {
+      "from": "the-grammar-of-finding-and-the-fading-observer",
       "to": "the-aesthetic-escalator-and-the-melancholy-of-the-balcony",
       "rel": "points_to",
       "label": "审美的自动扶梯与阳台的忧郁"
+    },
+    {
+      "from": "the-grammar-of-finding-and-the-fading-observer",
+      "to": "happiness-is-the-relation-of-desire-to-state",
+      "rel": "points_to",
+      "label": "Happiness Is the Relation of Desire to State"
     },
     {
       "from": "the-grammar-of-finding-and-the-fading-observer",
@@ -69085,6 +69258,12 @@
     },
     {
       "from": "the-ladder-of-abstraction-and-the-executable-entity",
+      "to": "abstraction-determination-and-the-three-structural-flaws-of-machine-learning",
+      "rel": "points_to",
+      "label": "抽象、决定，与主流机器学习的三大结构性症结"
+    },
+    {
+      "from": "the-ladder-of-abstraction-and-the-executable-entity",
       "to": "the-blind-cut-and-the-naming-mind",
       "rel": "points_to",
       "label": "盲目的切分与命名的心智"
@@ -69094,6 +69273,12 @@
       "to": "the-fixed-map-and-the-repeated-trip",
       "rel": "points_to",
       "label": "固定地图与重复的行程"
+    },
+    {
+      "from": "the-ladder-of-abstraction-and-the-executable-entity",
+      "to": "abstraction-determination-and-the-three-structural-flaws-of-machine-learning",
+      "rel": "points_to",
+      "label": "Abstraction, Determination, and the Three Structural Flaws of Machine Learning"
     },
     {
       "from": "the-ladder-of-abstraction-and-the-executable-entity",
@@ -85819,9 +86004,21 @@
     },
     {
       "from": "tokens-and-the-observational-boundary",
+      "to": "abstraction-determination-and-the-three-structural-flaws-of-machine-learning",
+      "rel": "points_to",
+      "label": "抽象、决定，与主流机器学习的三大结构性症结"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
       "to": "humans-tokens-and-the-scope-of-valuation",
       "rel": "points_to",
       "label": "Humans, Tokens, and the Scope of Valuation"
+    },
+    {
+      "from": "tokens-and-the-observational-boundary",
+      "to": "abstraction-determination-and-the-three-structural-flaws-of-machine-learning",
+      "rel": "points_to",
+      "label": "Abstraction, Determination, and the Three Structural Flaws of Machine Learning"
     },
     {
       "from": "tokens-and-the-observational-boundary",
@@ -86365,6 +86562,12 @@
     },
     {
       "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "successive-reading-and-the-negotiated-boundary-of-language",
+      "rel": "points_to",
+      "label": "接续阅读与协商中的语言边界"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
       "to": "the-asymmetry-of-understanding",
       "rel": "points_to",
       "label": "理解的非对称性"
@@ -86374,6 +86577,12 @@
       "to": "one-cannot-escape-ones-own-mind",
       "rel": "points_to",
       "label": "无法逃逸的心智视界"
+    },
+    {
+      "from": "trusting-the-reader-is-the-last-overstep",
+      "to": "successive-reading-and-the-negotiated-boundary-of-language",
+      "rel": "points_to",
+      "label": "Successive Reading and the Negotiated Boundary of Language"
     },
     {
       "from": "trusting-the-reader-is-the-last-overstep",
@@ -91549,6 +91758,12 @@
     },
     {
       "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+      "to": "successive-reading-and-the-negotiated-boundary-of-language",
+      "rel": "points_to",
+      "label": "接续阅读与协商中的语言边界"
+    },
+    {
+      "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
@@ -91570,6 +91785,12 @@
       "to": "the-unobservable-driver-of-learning",
       "rel": "points_to",
       "label": "The Unobservable Driver of Learning"
+    },
+    {
+      "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+      "to": "successive-reading-and-the-negotiated-boundary-of-language",
+      "rel": "points_to",
+      "label": "Successive Reading and the Negotiated Boundary of Language"
     },
     {
       "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
