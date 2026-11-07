@@ -506,9 +506,9 @@ Popper’s asymmetry of suffering and happiness opens with ‘I believe’ and a
 ### 卡尔·魏尔施特拉斯 / Karl Weierstrass
 `数学 / Mathematical`
 
-魏尔施特拉斯用极限严格奠基了微积分并构造出处处不可微函数；有力证明了形式上的连续并不保障现实直觉中的平滑。
+魏尔施特拉斯用实数连续统上严格的 ε-δ 极限定义奠定了分析学，并构造出处处连续却处处不可导的函数，这有助于赋予微积分精确的算法基础并揭示普遍平滑假定在何处失效；当实直线上的极限闭合被推及现实本身时，它便到达了边界：在那里，每一次因果推进（+1）都保有一个非零的间距（dx ≠ 0）。
 
-Weierstrass formalized rigorous limits and discovered continuous nowhere-differentiable functions; his monsters proved mathematical continuity does not imply intuitive physical smoothness.
+Weierstrass grounded analysis in rigorous epsilon-delta limit definitions over the real-number continuum and constructed functions continuous everywhere yet differentiable nowhere, which is of use in giving the calculus an exact algorithmic foundation and in exposing where the assumption of universal smoothness fails; it reaches its boundary when limit closure over the real line is carried over to reality itself, where every causal advance (+1) retains a non-zero interval (dx ≠ 0).
 
 → [连续性作为建模的权宜之计 / The Continuum is a Modeling Convenience](../../posts/the-continuum-is-a-modeling-convenience/)
 
@@ -4681,12 +4681,12 @@ Presumes elite observers can impartially direct social progress from a detached 
 
 → [阳台视角的规训僭越与不可代理的未竟之行 / The Balcony Disciplinary Overstep and the Unproxyable Act](../../posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act/)
 
-### 连续性作为建模的权宜之计 / The Continuum as Modeling Fiction
+### 连续性作为建模的权宜之计 / The Continuum as a Modeling Convenience
 `数学 / Mathematical`
 
-微积分将光滑连续曲线等同于物理世界真貌；无限小量只是为了求解微分方程发明的形式工具，物理世界由离散量子构成。
+一旦因果步长小到可以忽略，在极限处令微分间距 dx 归零便将变化当作平滑的连续统来处理，这有助于让微分方程与解析梯度得以闭合；当这一形式闭合被当作现实预先存在的底座，略过那个非零的因果步长（+1）时，它便到达了边界，而所经验的连续正是这一步长的连贯。
 
-Calculus treats continuous smooth curves as physical reality; infinitesimals are formal approximations that make differential equations solvable, whereas physical matter manifests discretely.
+Setting the differential interval dx to zero at the limit, once the causal step is small enough to ignore, treats change as a smooth continuum, which is of use in letting differential equations and analytical gradients close; it reaches its boundary when that formal closure is taken for a foundation of reality existing in advance, passing over the non-zero causal step (+1) whose coherence is the continuity experienced.
 
 → [连续性作为建模的权宜之计 / The Continuum is a Modeling Convenience](../../posts/the-continuum-is-a-modeling-convenience/)
 
