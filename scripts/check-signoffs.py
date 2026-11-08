@@ -19,11 +19,18 @@ Checks for each `work/<slug>/` DELTA node before Stage 3 interleaving:
   6. With `--record-batch <m> --commit <sha> <slug1> ...`, deterministically updates
      `work/wave.md` checkboxes, prunes completed items and appends `DELTA (propagates)`
      and `### For work/todo.md` items in `work/todo.md`, and writes `work/_logs/batch-<m>.md`.
+  7. With `--clean-sleep [--dry-run]`, deterministically deletes ONLY the completed `[x]`
+     `/sleep` node and sweep directories recorded in `work/wave.md` (`_plan-consolidation`,
+     `_reverse-link-sweep`, `_post-wave-sweep`, `_logs`, and `[x]` node slugs in `work/wave.md`
+     whose post exists in `content/posts/<slug>.md` and that have no pending
+     `work/_wake/<slug>/handoff.md`), explicitly preserving `work/_wake/`, `work/plan/`,
+     and any concurrent `/first-draft` or `/scout` handoff directory.
 
 Usage:
   python3 scripts/check-signoffs.py <slug> [<slug2> ...]
   python3 scripts/check-signoffs.py --locators <notes.md> [<notes2.md> ...]
   python3 scripts/check-signoffs.py --record-batch <m> --commit <sha> [--deploy-run <id>] [--problem <note>] <slug1> [<slug2> ...]
+  python3 scripts/check-signoffs.py --clean-sleep [--dry-run]
 """
 
 from __future__ import annotations
@@ -31,6 +38,7 @@ from __future__ import annotations
 import hashlib
 import pathlib
 import re
+import shutil
 import sys
 
 
@@ -563,7 +571,113 @@ def record_batch(
     return 0
 
 
+def clean_sleep(dry_run: bool = False) -> int:
+    wave_path = ROOT / "work" / "wave.md"
+    if not wave_path.is_file():
+        print("ERROR: work/wave.md not found", file=sys.stderr)
+        return 1
+
+    wave_text = wave_path.read_text(encoding="utf-8")
+    special_sweeps = ("_plan-consolidation", "_reverse-link-sweep", "_post-wave-sweep")
+    checked_specials: list[str] = []
+    checked_slugs: list[str] = []
+
+    for m in re.finditer(r"^-\s+\[[xX]\]\s+(.+)$", wave_text, flags=re.MULTILINE):
+        tail = m.group(1)
+        matched_special = False
+        for sp in special_sweeps:
+            if sp in tail:
+                if sp not in checked_specials:
+                    checked_specials.append(sp)
+                matched_special = True
+        if matched_special:
+            continue
+        m_slug = re.match(r"^`([a-z0-9][a-z0-9-]*)`", tail.strip())
+        if m_slug:
+            slug = m_slug.group(1)
+            if slug not in checked_slugs:
+                checked_slugs.append(slug)
+
+    work_root = ROOT / "work"
+    eligible_names: list[str] = []
+    skipped_wave_slugs: list[str] = []
+
+    for sp in checked_specials:
+        eligible_names.append(sp)
+
+    for slug in checked_slugs:
+        post_exists = (ROOT / "content" / "posts" / f"{slug}.md").is_file()
+        handoff_exists = (work_root / "_wake" / slug / "handoff.md").exists()
+        if post_exists and not handoff_exists:
+            eligible_names.append(slug)
+            for layer_dir in sorted(work_root.glob(f"_l*-{slug}")):
+                if layer_dir.is_dir() and layer_dir.name not in eligible_names:
+                    eligible_names.append(layer_dir.name)
+        else:
+            skipped_wave_slugs.append(slug)
+
+    if "_logs" not in eligible_names:
+        eligible_names.append("_logs")
+
+    protected_names = {"_wake", "plan"}
+    dirs_to_delete: list[pathlib.Path] = []
+    for name in eligible_names:
+        if name in protected_names:
+            continue
+        if not name.startswith("_"):
+            if not (ROOT / "content" / "posts" / f"{name}.md").is_file():
+                continue
+            if (work_root / "_wake" / name / "handoff.md").exists():
+                continue
+        cand = work_root / name
+        if cand.is_dir() and not cand.is_symlink():
+            dirs_to_delete.append(cand)
+
+    delete_set = {d.resolve() for d in dirs_to_delete}
+    preserved_dirs: list[pathlib.Path] = []
+    if work_root.is_dir():
+        for entry in sorted(work_root.iterdir()):
+            if entry.is_dir() and not entry.is_symlink():
+                if entry.resolve() not in delete_set:
+                    preserved_dirs.append(entry)
+
+    del_rel = [str(d.relative_to(ROOT)) for d in dirs_to_delete]
+    pres_rel = [str(d.relative_to(ROOT)) for d in preserved_dirs]
+
+    if dry_run:
+        print(
+            f"CLEAN_SLEEP_DRY_RUN: wave_checked_nodes={len(checked_slugs)} "
+            f"wave_checked_sweeps={len(checked_specials)} "
+            f"existing_to_delete={len(dirs_to_delete)} "
+            f"preserved={len(preserved_dirs)}"
+        )
+        print(f"WOULD_DELETE: {', '.join(del_rel) if del_rel else 'none'}")
+        print(f"PRESERVED: {', '.join(pres_rel) if pres_rel else 'none'}")
+        if skipped_wave_slugs:
+            print(f"SKIPPED_WAVE_SLUGS: {', '.join(skipped_wave_slugs)}")
+        return 0
+
+    for d in dirs_to_delete:
+        shutil.rmtree(d)
+
+    print(
+        f"CLEAN_SLEEP_DONE: deleted={len(dirs_to_delete)} "
+        f"preserved={len(preserved_dirs)} "
+        f"deleted_dirs=[{', '.join(del_rel)}] "
+        f"preserved_dirs=[{', '.join(pres_rel)}]"
+    )
+    return 0
+
+
 def main(argv: list[str]) -> int:
+    if "--clean-sleep" in argv[1:]:
+        dry_run = "--dry-run" in argv[1:]
+        extra = [a for a in argv[1:] if a not in ("--clean-sleep", "--dry-run")]
+        if extra:
+            print("Usage: python3 scripts/check-signoffs.py --clean-sleep [--dry-run]", file=sys.stderr)
+            return 2
+        return clean_sleep(dry_run=dry_run)
+
     if "--locators" in argv[1:]:
         targets = [arg for arg in argv[1:] if arg != "--locators"]
         if not targets:
