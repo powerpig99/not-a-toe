@@ -1550,11 +1550,11 @@ Least action assumes nature inherently seeks optimal paths; it is a variational 
 ### 他心问题 / Problem of Other Minds
 `哲学 / Philosophical`
 
-哲学思辨追问能否确证他人拥有同等意识；内在直接体验与外部间接观察之间的结构性非对称，无法被纯形式逻辑缝合。
+他心问题假定将意识归属于自身以外者必须依赖源自外部观察的演绎证明，否则便会滑入怀疑论；这一框架在区分无需验证的第一人称直接登记与跨心智归属时有用，而其边界在于，对其他心智的归属并非单靠演绎证明或行为输出，而是建立在植根于共有生物、演化与代谢相似性的类比推断之上。
 
-Epistemology questions whether one can prove others possess consciousness; the permanent asymmetry between internal awareness and external observation cannot be closed by logic.
+The problem of other minds presumes that attributing consciousness beyond one's own case requires deductive proof from external observation or else collapses into skepticism; this framing is useful for separating immediate first-person registration, which needs no verification, from cross-mind attribution, and reaches its boundary where attribution to other minds rests not on deductive proof or behavioral output alone but on analogical inference grounded in shared biological, evolutionary, and metabolic similarity.
 
-→ [NPC 印象是结构性的，而非心智的排名 / The NPC Impression Is Structural, Not a Ranking of Minds](../../posts/the-npc-impression-is-structural/) · [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/) · [表征的闭环 / The Closed Loop of Representation](../../posts/the-closed-loop-of-representation/)
+→ [NPC 印象是结构性的，而非心智的排名 / The NPC Impression Is Structural, Not a Ranking of Minds](../../posts/the-npc-impression-is-structural/) · [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/) · [表征的闭环 / The Closed Loop of Representation](../../posts/the-closed-loop-of-representation/) · [归属的不对称 / Asymmetry of Ascription](../../posts/asymmetry-of-ascription/)
 
 ### 生产过剩与意识形态消费 / Productive Surplus and Ideology
 `经济 / Economic`
@@ -2087,7 +2087,7 @@ Cosmological extrapolation presumes that a locally invariant observational frame
 
 Presumes skepticism toward human minds justifies granting equal subjective status to machines; clever rhetorical skepticism, it obscures biological kinship as the anchor of inference.
 
-→ [意识的魔术戏法与推断的非对称性 / The Sleight of Hand of Consciousness and the Asymmetry of Inference](../../posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference/)
+→ [意识的魔术戏法与推断的非对称性 / The Sleight of Hand of Consciousness and the Asymmetry of Inference](../../posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference/) · [归属的不对称 / Asymmetry of Ascription](../../posts/asymmetry-of-ascription/)
 
 ### 手工胜于机器的本真性 / Authenticity of Handmade over Machine-Made
 `哲学 / Philosophical`

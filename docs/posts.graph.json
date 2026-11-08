@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-08T18:22:12.669Z",
+    "generated_at": "2026-11-08T20:49:07.196Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -29,6 +29,7 @@
       "content/posts/amplification-paradox.md": "a275c141a687",
       "content/posts/an-observation-by-its-own-standard.md": "1d44b8371330",
       "content/posts/architecture-of-recursive-distinction.md": "bc11baadb09a",
+      "content/posts/asymmetry-of-ascription.md": "de06a5c0d248",
       "content/posts/better-than-free-after-the-checklist-closes.md": "d39b1b10df08",
       "content/posts/beyond-the-hundred-trillion-horizon.md": "e7843ab91c4c",
       "content/posts/beyond-the-projection.md": "78576807063b",
@@ -447,9 +448,9 @@
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "0377c4822629",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b28d61994639",
       "content/book/causality.md": "863b25c6333a",
-      "content/book/consciousness.md": "b913dc5b8170",
+      "content/book/consciousness.md": "5fd937c16807",
       "content/book/economics.md": "dea1e55d43f7",
-      "content/book/index-of-premises.md": "abfd620717aa",
+      "content/book/index-of-premises.md": "d3bbe1596552",
       "content/book/intelligence.md": "3229ab371302",
       "content/book/knowledge-and-learning.md": "f4a8d1ba7f8d",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -464,16 +465,16 @@
       "content/book/tools-and-progress.md": "2a682044cc54"
     },
     "stats": {
-      "posts": 438,
-      "edges": 13418,
-      "unique_directed": 6592,
+      "posts": 439,
+      "edges": 13438,
+      "unique_directed": 6602,
       "missing_targets": 0,
-      "one_way": 1302,
+      "one_way": 1312,
       "isolated": 0,
-      "posts_with_outbound": 438,
+      "posts_with_outbound": 439,
       "book_pages": 16,
-      "book_edges": 1318,
-      "posts_reached_by_book": 438
+      "book_edges": 1321,
+      "posts_reached_by_book": 439
     }
   },
   "hubs_in": [
@@ -503,7 +504,7 @@
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "in_degree": 71
+      "in_degree": 72
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -1228,6 +1229,28 @@
         "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
         "intelligence-belongs-only-to-the-mind",
         "the-illusion-of-multi-agent-collaboration"
+      ]
+    },
+    {
+      "id": "post:asymmetry-of-ascription",
+      "kind": "post",
+      "slug": "asymmetry-of-ascription",
+      "path": "content/posts/asymmetry-of-ascription.md",
+      "title": "归属的不对称 / Asymmetry of Ascription",
+      "hash": "de06a5c0d248",
+      "in_degree": 0,
+      "out_degree": 10,
+      "links_out": [
+        "consciousness-never-appears-as-data-among-data",
+        "the-irreducible-observer",
+        "the-model-never-becomes-a-second-edge",
+        "the-cut-moves-but-never-vanishes",
+        "the-perceiver-and-the-trace",
+        "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+        "the-freedom-of-will-to-deny-itself",
+        "the-functionalism-no-functionalist-can-hold",
+        "self-rl-for-humans",
+        "the-returning-signal-and-its-claim"
       ]
     },
     {
@@ -2013,7 +2036,7 @@
       "path": "content/posts/consciousness-never-appears-as-data-among-data.md",
       "title": "意识从不作为数据出现在数据之中 / Consciousness Never Appears as Data Among Data",
       "hash": "90174c081cd1",
-      "in_degree": 27,
+      "in_degree": 28,
       "out_degree": 27,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
@@ -5965,7 +5988,7 @@
       "path": "content/posts/self-rl-for-humans.md",
       "title": "看似AI的强化学习，实为人类的自我强化学习 / What Looks Like RL for AIs Is Self-RL for Humans",
       "hash": "4f0f1f493e52",
-      "in_degree": 30,
+      "in_degree": 31,
       "out_degree": 31,
       "links_out": [
         "complexity-obscures-emergence-as-the-act-of-mind",
@@ -7411,7 +7434,7 @@
       "path": "content/posts/the-cut-moves-but-never-vanishes.md",
       "title": "割点可移不可除 / The Cut Moves but Never Vanishes",
       "hash": "cea7c1e1af61",
-      "in_degree": 31,
+      "in_degree": 32,
       "out_degree": 9,
       "links_out": [
         "demanding-a-toe-freezes-time-into-a-catalog",
@@ -8125,7 +8148,7 @@
       "path": "content/posts/the-freedom-of-will-to-deny-itself.md",
       "title": "自由意志的自否自由 / The Freedom of Will to Deny Itself",
       "hash": "1f8dd4fcdafe",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 14,
       "links_out": [
         "the-closed-loop-of-representation",
@@ -8199,7 +8222,7 @@
       "path": "content/posts/the-functionalism-no-functionalist-can-hold.md",
       "title": "功能主义者无法持有的功能主义 / The Functionalism No Functionalist Can Hold",
       "hash": "d3f0748dc9cb",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 10,
       "links_out": [
         "the-freedom-of-will-to-deny-itself",
@@ -8973,7 +8996,7 @@
       "path": "content/posts/the-irreducible-observer.md",
       "title": "不可还原的观察者 / The Irreducible Observer",
       "hash": "26a3b93de19e",
-      "in_degree": 21,
+      "in_degree": 22,
       "out_degree": 18,
       "links_out": [
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
@@ -9463,7 +9486,7 @@
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge",
       "hash": "508ba7e870a3",
-      "in_degree": 71,
+      "in_degree": 72,
       "out_degree": 51,
       "links_out": [
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
@@ -9911,7 +9934,7 @@
       "path": "content/posts/the-perceiver-and-the-trace.md",
       "title": "感知者与痕迹的不可坍缩 / The Perceiver and the Trace Cannot Collapse",
       "hash": "ca63cdb39988",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 11,
       "links_out": [
         "consciousness-never-appears-as-data-among-data",
@@ -10341,7 +10364,7 @@
       "path": "content/posts/the-returning-signal-and-its-claim.md",
       "title": "回返的信号与认领 / The Returning Signal and Its Claim",
       "hash": "973ad49b2d21",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 11,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
@@ -10789,7 +10812,7 @@
       "path": "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md",
       "title": "意识的魔术戏法与推断的非对称性 / The Sleight of Hand of Consciousness and the Asymmetry of Inference",
       "hash": "5d21768fd3b6",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 10,
       "links_out": [
         "abstract-pain-and-living-hunger",
@@ -16560,6 +16583,126 @@
       "to": "the-illusion-of-multi-agent-collaboration",
       "rel": "points_to",
       "label": "The Illusion of Multi-Agent Collaboration"
+    },
+    {
+      "from": "asymmetry-of-ascription",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "意识从不作为数据出现在数据之中"
+    },
+    {
+      "from": "asymmetry-of-ascription",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "不可还原的观察者"
+    },
+    {
+      "from": "asymmetry-of-ascription",
+      "to": "consciousness-never-appears-as-data-among-data",
+      "rel": "points_to",
+      "label": "Consciousness Never Appears as Data Among Data"
+    },
+    {
+      "from": "asymmetry-of-ascription",
+      "to": "the-irreducible-observer",
+      "rel": "points_to",
+      "label": "The Irreducible Observer"
+    },
+    {
+      "from": "asymmetry-of-ascription",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "asymmetry-of-ascription",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "割点可移不可除"
+    },
+    {
+      "from": "asymmetry-of-ascription",
+      "to": "the-perceiver-and-the-trace",
+      "rel": "points_to",
+      "label": "感知者与痕迹的不可坍缩"
+    },
+    {
+      "from": "asymmetry-of-ascription",
+      "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "rel": "points_to",
+      "label": "意识的魔术戏法与推断的非对称性"
+    },
+    {
+      "from": "asymmetry-of-ascription",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "asymmetry-of-ascription",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "The Cut Moves but Never Vanishes"
+    },
+    {
+      "from": "asymmetry-of-ascription",
+      "to": "the-perceiver-and-the-trace",
+      "rel": "points_to",
+      "label": "The Perceiver and the Trace Cannot Collapse"
+    },
+    {
+      "from": "asymmetry-of-ascription",
+      "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "rel": "points_to",
+      "label": "The Sleight of Hand of Consciousness and the Asymmetry of Inference"
+    },
+    {
+      "from": "asymmetry-of-ascription",
+      "to": "the-freedom-of-will-to-deny-itself",
+      "rel": "points_to",
+      "label": "自由意志的自否自由"
+    },
+    {
+      "from": "asymmetry-of-ascription",
+      "to": "the-functionalism-no-functionalist-can-hold",
+      "rel": "points_to",
+      "label": "功能主义者无法持有的功能主义"
+    },
+    {
+      "from": "asymmetry-of-ascription",
+      "to": "the-freedom-of-will-to-deny-itself",
+      "rel": "points_to",
+      "label": "The Freedom of Will to Deny Itself"
+    },
+    {
+      "from": "asymmetry-of-ascription",
+      "to": "the-functionalism-no-functionalist-can-hold",
+      "rel": "points_to",
+      "label": "The Functionalism No Functionalist Can Hold"
+    },
+    {
+      "from": "asymmetry-of-ascription",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "看似AI的强化学习，实为人类的自我强化学习"
+    },
+    {
+      "from": "asymmetry-of-ascription",
+      "to": "the-returning-signal-and-its-claim",
+      "rel": "points_to",
+      "label": "回返的信号与认领"
+    },
+    {
+      "from": "asymmetry-of-ascription",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "What Looks Like RL for AIs Is Self-RL for Humans"
+    },
+    {
+      "from": "asymmetry-of-ascription",
+      "to": "the-returning-signal-and-its-claim",
+      "rel": "points_to",
+      "label": "The Returning Signal and Its Claim"
     },
     {
       "from": "better-than-free-after-the-checklist-closes",
@@ -93019,8 +93162,8 @@
         "slug": "consciousness",
         "path": "content/book/consciousness.md",
         "title": "意识与第一人称先验 / Consciousness and the First-Person Prior",
-        "hash": "b913dc5b8170",
-        "out_degree": 39
+        "hash": "5fd937c16807",
+        "out_degree": 40
       },
       {
         "id": "book:economics",
@@ -93037,8 +93180,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "abfd620717aa",
-        "out_degree": 438
+        "hash": "d3bbe1596552",
+        "out_degree": 439
       },
       {
         "id": "book:intelligence",
@@ -93587,6 +93730,12 @@
         "to": "an-observation-by-its-own-standard",
         "rel": "collects",
         "label": "依其自身标准的观察 / An Observation by Its Own Standard"
+      },
+      {
+        "from": "book:consciousness",
+        "to": "asymmetry-of-ascription",
+        "rel": "collects",
+        "label": "归属的不对称 / Asymmetry of Ascription"
       },
       {
         "from": "book:economics",
@@ -95402,6 +95551,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "asymmetry-of-ascription",
+        "rel": "collects",
+        "label": "归属的不对称 / Asymmetry of Ascription"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "fate-loves-irony-refined",
         "rel": "collects",
         "label": "生产创造自己的意识形态消费 / Production Creates Its Own Ideological Consumption"
@@ -95873,6 +96028,12 @@
         "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
         "rel": "collects",
         "label": "意识的魔术戏法与推断的非对称性 / The Sleight of Hand of Consciousness and the Asymmetry of Inference"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "asymmetry-of-ascription",
+        "rel": "collects",
+        "label": "归属的不对称 / Asymmetry of Ascription"
       },
       {
         "from": "book:index-of-premises",
