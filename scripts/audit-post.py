@@ -325,17 +325,34 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
     # 6. Mermaid dark theme & styling
     mermaid_blocks = re.findall(r'```mermaid(.*?)```', content, re.DOTALL)
     if mermaid_blocks:
+        semantic_strokes = {'#3fb950', '#f85149', '#d29922', '#58a6ff', '#a371f7'}
         unformatted_diagrams = []
+        non_semantic_diagrams = []
         for i, block in enumerate(mermaid_blocks, 1):
             has_subgraph_style = 'fill:#161b22' in block
             has_node_style = 'fill:#0d1117' in block
             if not (has_subgraph_style and has_node_style):
                 unformatted_diagrams.append(i)
+            bad_strokes = []
+            for raw_line in block.splitlines():
+                s = raw_line.strip()
+                if s.startswith('style ') and ('fill:#161b22' in s or 'fill:#0d1117' in s):
+                    m = re.search(r'stroke:(#[0-9a-fA-F]{6})\b', s)
+                    stroke_hex = m.group(1).lower() if m else None
+                    if stroke_hex not in semantic_strokes:
+                        bad_strokes.append(stroke_hex or 'missing')
+            if bad_strokes:
+                non_semantic_diagrams.append(f"#{i} ({', '.join(sorted(set(bad_strokes)))})")
 
         if unformatted_diagrams:
             errors.append(f"Mermaid diagrams missing historical dark-theme inline styles (#161b22, #0d1117): Diagrams {unformatted_diagrams} of {len(mermaid_blocks)}")
-        else:
-            passes.append(f"Mermaid styling check ({len(mermaid_blocks)} diagrams adhere to historical dark palette)")
+        if non_semantic_diagrams:
+            errors.append(
+                "Mermaid diagrams with non-semantic stroke color on dark-palette style lines "
+                f"(expected stroke in {sorted(semantic_strokes)}): Diagrams {', '.join(non_semantic_diagrams)} of {len(mermaid_blocks)}"
+            )
+        if not unformatted_diagrams and not non_semantic_diagrams:
+            passes.append(f"Mermaid styling check ({len(mermaid_blocks)} diagrams adhere to historical dark palette & semantic strokes)")
 
         # Bilingual parallelism & strict language separation check
         first_line = lines[0] if lines else ""
