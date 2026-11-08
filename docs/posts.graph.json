@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-07T21:01:27.230Z",
+    "generated_at": "2026-11-08T17:20:01.588Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -120,6 +120,7 @@
       "content/posts/intelligence-belongs-only-to-the-mind.md": "5656f412d172",
       "content/posts/intelligence-crisis-response.md": "ff0c08053c60",
       "content/posts/intelligence-folding-back-on-itself.md": "f36f2690c329",
+      "content/posts/intelligence-in-observation-and-the-residual-gap.md": "6597f69963a6",
       "content/posts/intelligence-traps-itself.md": "533c6e1e356a",
       "content/posts/judgment-is-not-a-stock.md": "9526af861c78",
       "content/posts/learned-boundaries-and-the-given-rate.md": "f556b3f1d50b",
@@ -448,8 +449,8 @@
       "content/book/causality.md": "863b25c6333a",
       "content/book/consciousness.md": "b913dc5b8170",
       "content/book/economics.md": "dea1e55d43f7",
-      "content/book/index-of-premises.md": "3eea93309dca",
-      "content/book/intelligence.md": "d1273d3ccee3",
+      "content/book/index-of-premises.md": "abfd620717aa",
+      "content/book/intelligence.md": "3229ab371302",
       "content/book/knowledge-and-learning.md": "f4a8d1ba7f8d",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
       "content/book/mathematics.md": "8f6d273c0db8",
@@ -463,16 +464,16 @@
       "content/book/tools-and-progress.md": "2a682044cc54"
     },
     "stats": {
-      "posts": 437,
-      "edges": 13378,
-      "unique_directed": 6572,
+      "posts": 438,
+      "edges": 13408,
+      "unique_directed": 6587,
       "missing_targets": 0,
-      "one_way": 1292,
+      "one_way": 1307,
       "isolated": 0,
-      "posts_with_outbound": 437,
+      "posts_with_outbound": 438,
       "book_pages": 16,
-      "book_edges": 1314,
-      "posts_reached_by_book": 437
+      "book_edges": 1318,
+      "posts_reached_by_book": 438
     }
   },
   "hubs_in": [
@@ -494,7 +495,7 @@
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 87
+      "in_degree": 88
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -1049,7 +1050,7 @@
       "path": "content/posts/agi-and-asi-are-temporary-goalposts.md",
       "title": "AGI 与 ASI 是加速通用智能的暂时球门 / AGI and ASI Are Temporary Goalposts",
       "hash": "4d7f22ced380",
-      "in_degree": 28,
+      "in_degree": 29,
       "out_degree": 28,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1170,7 +1171,7 @@
       "path": "content/posts/an-observation-by-its-own-standard.md",
       "title": "依其自身标准的观察 / An Observation by Its Own Standard",
       "hash": "1d44b8371330",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 10,
       "links_out": [
         "the-reversal-from-defensible-claim-to-dogma",
@@ -3661,7 +3662,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "智能只属于心智 / Intelligence Belongs Only to the Mind",
       "hash": "5656f412d172",
-      "in_degree": 87,
+      "in_degree": 88,
       "out_degree": 71,
       "links_out": [
         "curiosity-has-no-final-form",
@@ -3791,6 +3792,33 @@
         "the-flywheel-of-the-mind",
         "a-creation-cannot-replace-its-source",
         "climbing-does-not-leave-the-ground"
+      ]
+    },
+    {
+      "id": "post:intelligence-in-observation-and-the-residual-gap",
+      "kind": "post",
+      "slug": "intelligence-in-observation-and-the-residual-gap",
+      "path": "content/posts/intelligence-in-observation-and-the-residual-gap.md",
+      "title": "观察中的智能与残余间隙 / Intelligence in Observation and the Residual Gap",
+      "hash": "6597f69963a6",
+      "in_degree": 0,
+      "out_degree": 15,
+      "links_out": [
+        "intelligence-belongs-only-to-the-mind",
+        "the-perceiver-and-the-trace",
+        "shared-consciousness-is-intersecting-individualities",
+        "objects-are-stabilized-relationships",
+        "shared-humanity-is-never-shared",
+        "no-genius-can-solve-the-knowledge-problem",
+        "price-as-utterance-understanding-as-trade",
+        "you-cant-benchmark-the-fluid",
+        "agi-and-asi-are-temporary-goalposts",
+        "an-observation-by-its-own-standard",
+        "the-presumption-of-agi-and-the-view-from-outside",
+        "the-observational-cut-in-ai-debates",
+        "the-scaling-loop",
+        "the-non-definitive-definition-of-intelligence",
+        "the-cut-moves-but-never-vanishes"
       ]
     },
     {
@@ -4353,7 +4381,7 @@
       "path": "content/posts/no-genius-can-solve-the-knowledge-problem.md",
       "title": "没有天才能够解决知识问题 / No Genius Can Solve the Knowledge Problem",
       "hash": "2b3ff94ab2fa",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 7,
       "links_out": [
         "consciousness-never-appears-as-data-among-data",
@@ -4634,7 +4662,7 @@
       "path": "content/posts/objects-are-stabilized-relationships.md",
       "title": "对象是被稳定化的关系 / Objects Are Stabilized Relationships",
       "hash": "5c88afea080b",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 8,
       "links_out": [
         "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
@@ -5450,7 +5478,7 @@
       "path": "content/posts/price-as-utterance-understanding-as-trade.md",
       "title": "价格是言说，理解是交易 / Price as Utterance, Understanding as Trade",
       "hash": "11deadd7c5d2",
-      "in_degree": 22,
+      "in_degree": 23,
       "out_degree": 21,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -6013,7 +6041,7 @@
       "path": "content/posts/shared-consciousness-is-intersecting-individualities.md",
       "title": "共享意识是个体性的交集 / Shared Consciousness Is Intersecting Individualities",
       "hash": "effb27d0037a",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 14,
       "links_out": [
         "shared-humanity-is-never-shared",
@@ -6039,7 +6067,7 @@
       "path": "content/posts/shared-humanity-is-never-shared.md",
       "title": "共同的人性从不共享 / Shared Humanity Is Never Shared",
       "hash": "d71f3294cfc1",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 16,
       "links_out": [
         "reality-is-the-minds-ongoing-realization",
@@ -7382,7 +7410,7 @@
       "path": "content/posts/the-cut-moves-but-never-vanishes.md",
       "title": "割点可移不可除 / The Cut Moves but Never Vanishes",
       "hash": "cea7c1e1af61",
-      "in_degree": 30,
+      "in_degree": 31,
       "out_degree": 9,
       "links_out": [
         "demanding-a-toe-freezes-time-into-a-catalog",
@@ -9595,7 +9623,7 @@
       "path": "content/posts/the-non-definitive-definition-of-intelligence.md",
       "title": "智能的非定论定义 / The Non-Definitive Definition of Intelligence",
       "hash": "65bdb70f81ba",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 13,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
@@ -9649,7 +9677,7 @@
       "path": "content/posts/the-observational-cut-in-ai-debates.md",
       "title": "AI 争论中的观察划界 / The Observational Cut in AI Debates",
       "hash": "4ce3e6428502",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 7,
       "links_out": [
         "the-question-that-installs-the-war",
@@ -9880,7 +9908,7 @@
       "path": "content/posts/the-perceiver-and-the-trace.md",
       "title": "感知者与痕迹的不可坍缩 / The Perceiver and the Trace Cannot Collapse",
       "hash": "ca63cdb39988",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 11,
       "links_out": [
         "consciousness-never-appears-as-data-among-data",
@@ -9940,7 +9968,7 @@
       "path": "content/posts/the-presumption-of-agi-and-the-view-from-outside.md",
       "title": "AGI的预设与来自外部的视角 / The Presumption of AGI and the View from Outside",
       "hash": "8b30e5923db4",
-      "in_degree": 25,
+      "in_degree": 26,
       "out_degree": 27,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -10635,7 +10663,7 @@
       "path": "content/posts/the-scaling-loop.md",
       "title": "规模化回路 / The Scaling Loop",
       "hash": "59f678c43d21",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 12,
       "links_out": [
         "lossless-knowledge-of-an-open-field-is-incoherent",
@@ -12220,7 +12248,7 @@
       "path": "content/posts/you-cant-benchmark-the-fluid.md",
       "title": "流动之物无法被基准衡量 / You Can't Benchmark the Fluid",
       "hash": "01847ccdd234",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 7,
       "links_out": [
         "your-codebase-is-memory",
@@ -34407,6 +34435,186 @@
       "to": "climbing-does-not-leave-the-ground",
       "rel": "points_to",
       "label": "Climbing Does Not Leave the Ground"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "the-perceiver-and-the-trace",
+      "rel": "points_to",
+      "label": "感知者与痕迹的不可坍缩"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "the-perceiver-and-the-trace",
+      "rel": "points_to",
+      "label": "The Perceiver and the Trace Cannot Collapse"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "shared-consciousness-is-intersecting-individualities",
+      "rel": "points_to",
+      "label": "共享意识是个体性的交集"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "objects-are-stabilized-relationships",
+      "rel": "points_to",
+      "label": "对象是被稳定化的关系"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "shared-humanity-is-never-shared",
+      "rel": "points_to",
+      "label": "共同的人性从不共享"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "no-genius-can-solve-the-knowledge-problem",
+      "rel": "points_to",
+      "label": "没有天才能够解决知识问题"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "价格是言说，理解是交易"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "shared-consciousness-is-intersecting-individualities",
+      "rel": "points_to",
+      "label": "Shared Consciousness Is Intersecting Individualities"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "objects-are-stabilized-relationships",
+      "rel": "points_to",
+      "label": "Objects Are Stabilized Relationships"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "shared-humanity-is-never-shared",
+      "rel": "points_to",
+      "label": "Shared Humanity Is Never Shared"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "no-genius-can-solve-the-knowledge-problem",
+      "rel": "points_to",
+      "label": "No Genius Can Solve the Knowledge Problem"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "Price as Utterance, Understanding as Trade"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "you-cant-benchmark-the-fluid",
+      "rel": "points_to",
+      "label": "流动之物无法被基准衡量"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI 与 ASI 是加速通用智能的暂时球门"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "you-cant-benchmark-the-fluid",
+      "rel": "points_to",
+      "label": "You Can't Benchmark the Fluid"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI Are Temporary Goalposts"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "an-observation-by-its-own-standard",
+      "rel": "points_to",
+      "label": "依其自身标准的观察"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "an-observation-by-its-own-standard",
+      "rel": "points_to",
+      "label": "An Observation by Its Own Standard"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "AGI的预设与来自外部的视角"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "the-presumption-of-agi-and-the-view-from-outside",
+      "rel": "points_to",
+      "label": "The Presumption of AGI and the View from Outside"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "the-observational-cut-in-ai-debates",
+      "rel": "points_to",
+      "label": "AI 争论中的观察划界"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "the-scaling-loop",
+      "rel": "points_to",
+      "label": "规模化回路"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "the-non-definitive-definition-of-intelligence",
+      "rel": "points_to",
+      "label": "智能的非定论定义"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "the-observational-cut-in-ai-debates",
+      "rel": "points_to",
+      "label": "The Observational Cut in AI Debates"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "the-scaling-loop",
+      "rel": "points_to",
+      "label": "The Scaling Loop"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "the-non-definitive-definition-of-intelligence",
+      "rel": "points_to",
+      "label": "The Non-Definitive Definition of Intelligence"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "割点可移不可除"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "The Cut Moves but Never Vanishes"
     },
     {
       "from": "intelligence-traps-itself",
@@ -92764,8 +92972,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "3eea93309dca",
-        "out_degree": 437
+        "hash": "abfd620717aa",
+        "out_degree": 438
       },
       {
         "id": "book:intelligence",
@@ -92773,8 +92981,8 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "d1273d3ccee3",
-        "out_degree": 63
+        "hash": "3229ab371302",
+        "out_degree": 64
       },
       {
         "id": "book:knowledge-and-learning",
@@ -94679,6 +94887,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "intelligence-in-observation-and-the-residual-gap",
+        "rel": "collects",
+        "label": "观察中的智能与残余间隙 / Intelligence in Observation and the Residual Gap"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "rationality-never-travels-across-the-mind",
         "rel": "collects",
         "label": "理性从不跨越心智 / Rationality Never Travels Across the Mind"
@@ -95570,6 +95784,12 @@
         "to": "dimensions-are-projections",
         "rel": "collects",
         "label": "维度即投影 / Dimensions Are Projections"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "intelligence-in-observation-and-the-residual-gap",
+        "rel": "collects",
+        "label": "观察中的智能与残余间隙 / Intelligence in Observation and the Residual Gap"
       },
       {
         "from": "book:index-of-premises",
@@ -97601,6 +97821,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "intelligence-in-observation-and-the-residual-gap",
+        "rel": "collects",
+        "label": "观察中的智能与残余间隙 / Intelligence in Observation and the Residual Gap"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the_moving_ground",
         "rel": "collects",
         "label": "移动的基底与智能体委派的渐近线 / The Moving Ground"
@@ -99104,6 +99330,12 @@
         "to": "the-dual-cut",
         "rel": "collects",
         "label": "指令与载荷的双重切分 / The Dual Cut of Command and Payload"
+      },
+      {
+        "from": "book:intelligence",
+        "to": "intelligence-in-observation-and-the-residual-gap",
+        "rel": "collects",
+        "label": "观察中的智能与残余间隙 / Intelligence in Observation and the Residual Gap"
       },
       {
         "from": "book:knowledge-and-learning",

@@ -75,3 +75,4 @@ The essays in this part trace the category boundaries of the Turing and Einstein
 - [影子没有损失 / The Shadow Has No Loss](../../posts/the-shadow-has-no-loss/)
 - [离散的折叠 / The Discrete Fold](../../posts/the-discrete-fold/)
 - [指令与载荷的双重切分 / The Dual Cut of Command and Payload](../../posts/the-dual-cut/)
+- [观察中的智能与残余间隙 / Intelligence in Observation and the Residual Gap](../../posts/intelligence-in-observation-and-the-residual-gap/)

@@ -1176,7 +1176,7 @@ AGI的功能主义参照预设，智能就是对抽象的占有与操作，因�
 
 The functionalist reference for AGI presumes that intelligence is the possession and manipulation of abstractions, so that enough scale, retrieval, and recombination amount to general intelligence; it stays useful for measuring and improving tools that store, retrieve, and recombine the products of abstraction, and reaches its boundary where evidence defined by the criteria the systems are optimized to satisfy is asked to examine that premise, and where the products of abstraction are taken for the capacity that draws and revises them.
 
-→ [AGI的预设与来自外部的视角 / The Presumption of AGI and the View from Outside](../../posts/the-presumption-of-agi-and-the-view-from-outside/)
+→ [AGI的预设与来自外部的视角 / The Presumption of AGI and the View from Outside](../../posts/the-presumption-of-agi-and-the-view-from-outside/) · [观察中的智能与残余间隙 / Intelligence in Observation and the Residual Gap](../../posts/intelligence-in-observation-and-the-residual-gap/)
 
 ### 博弈论 / Game Theory
 `数学 / Mathematical`
@@ -2060,7 +2060,7 @@ AGI 叙事把比肩人类智能设为一条固定的终点线，在为能力的�
 
 AGI narratives set parity with human intelligence as a fixed finish line, which is of use in marking stages of capability's progress; it reaches its boundary in that each benchmark crossed moves the reference forward, so the threshold is a receding horizon rather than a state that can be arrived at.
 
-→ [AGI 与 ASI 是加速通用智能的暂时球门 / AGI and ASI Are Temporary Goalposts](../../posts/agi-and-asi-are-temporary-goalposts/) · [AI 争论中的观察划界 / The Observational Cut in AI Debates](../../posts/the-observational-cut-in-ai-debates/) · [维度即投影 / Dimensions Are Projections](../../posts/dimensions-are-projections/)
+→ [AGI 与 ASI 是加速通用智能的暂时球门 / AGI and ASI Are Temporary Goalposts](../../posts/agi-and-asi-are-temporary-goalposts/) · [AI 争论中的观察划界 / The Observational Cut in AI Debates](../../posts/the-observational-cut-in-ai-debates/) · [维度即投影 / Dimensions Are Projections](../../posts/dimensions-are-projections/) · [观察中的智能与残余间隙 / Intelligence in Observation and the Residual Gap](../../posts/intelligence-in-observation-and-the-residual-gap/)
 
 ### 通用人工智能奇点神话 / Artificial General Intelligence Singularity
 `技术 / Technological`
@@ -4463,7 +4463,7 @@ The demand that the state protect rights entrusts the guarantee of freedom to a 
 
 Benchmark suites assume standardized question sets measure generalized fluid intellect; static tests measure pattern match against historical distributions.
 
-→ [流动之物无法被基准衡量 / You Can't Benchmark the Fluid](../../posts/you-cant-benchmark-the-fluid/) · [独见者的自反困境与必然性的后验投射 / The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity](../../posts/the-reflexive-dilemma-of-unique-insight/) · [转移原因的比较 / The Comparison That Relocates the Cause](../../posts/the-comparison-that-relocates-the-cause/)
+→ [流动之物无法被基准衡量 / You Can't Benchmark the Fluid](../../posts/you-cant-benchmark-the-fluid/) · [独见者的自反困境与必然性的后验投射 / The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity](../../posts/the-reflexive-dilemma-of-unique-insight/) · [转移原因的比较 / The Comparison That Relocates the Cause](../../posts/the-comparison-that-relocates-the-cause/) · [观察中的智能与残余间隙 / Intelligence in Observation and the Residual Gap](../../posts/intelligence-in-observation-and-the-residual-gap/)
 
 ### 静态AI代理分工框架 / Static AI Delegation Frame
 `技术 / Technological`
