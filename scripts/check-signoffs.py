@@ -19,12 +19,14 @@ Checks for each `work/<slug>/` DELTA node before Stage 3 interleaving:
   6. With `--record-batch <m> --commit <sha> <slug1> ...`, deterministically updates
      `work/wave.md` checkboxes, prunes completed items and appends `DELTA (propagates)`
      and `### For work/todo.md` items in `work/todo.md`, and writes `work/_logs/batch-<m>.md`.
-  7. With `--clean-sleep [--dry-run]`, deterministically deletes ONLY the completed `[x]`
-     `/sleep` node and sweep directories recorded in `work/wave.md` (`_plan-consolidation`,
-     `_reverse-link-sweep`, `_post-wave-sweep`, `_logs`, and `[x]` node slugs in `work/wave.md`
-     whose post exists in `content/posts/<slug>.md` and that have no pending
-     `work/_wake/<slug>/handoff.md`), explicitly preserving `work/_wake/`, `work/plan/`,
-     and any concurrent `/first-draft` or `/scout` handoff directory.
+  7. With `--clean-sleep [--dry-run]`, deterministically harvests any unrecorded
+     `### For work/todo.md` items from the directories to be deleted into `work/todo.md`
+     and deletes ONLY the completed `[x]` `/sleep` node and sweep directories recorded
+     in `work/wave.md` (`_plan-consolidation`, `_reverse-link-sweep`, `_post-wave-sweep`,
+     `_logs`, and `[x]` node slugs in `work/wave.md` whose post exists in
+     `content/posts/<slug>.md` and that have no pending `work/_wake/<slug>/handoff.md`),
+     explicitly preserving `work/_wake/`, `work/plan/`, and any concurrent `/first-draft`
+     or `/scout` handoff directory.
 
 Usage:
   python3 scripts/check-signoffs.py <slug> [<slug2> ...]
@@ -374,6 +376,10 @@ def extract_todo_blocks(slug: str) -> list[str]:
     work_dir = ROOT / "work" / slug
     items: list[str] = []
     heading_re = re.compile(r"^#{2,4}\s+For\s+`?work/todo\.md`?\b[^\n]*$", flags=re.IGNORECASE | re.MULTILINE)
+    stop_re = re.compile(
+        r"\n(?:#{1,4}\s+|(?:VERDICT|SUMMARY|CRITIC|STYLIST|HANDOFF_CONFIRMED):|---+\s*$)",
+        flags=re.MULTILINE,
+    )
     for fname in ("notes.md", "debate-en.md", "debate-zh.md"):
         fpath = work_dir / fname
         if not fpath.is_file():
@@ -381,13 +387,15 @@ def extract_todo_blocks(slug: str) -> list[str]:
         text = fpath.read_text(encoding="utf-8")
         for m in heading_re.finditer(text):
             tail = text[m.end() :]
-            next_h = re.search(r"\n#{1,4}\s+", tail)
-            block = tail[: next_h.start()] if next_h else tail
+            next_stop = stop_re.search(tail)
+            block = tail[: next_stop.start()] if next_stop else tail
             for raw_line in block.splitlines():
                 line = raw_line.strip()
                 if not line or line.lower() in ("none", "none.", "- none", "- (none)", "(none)", "n/a", "- n/a"):
                     continue
                 if re.match(r"^-\s*\(?none\)?\.?$", line, flags=re.IGNORECASE):
+                    continue
+                if re.match(r"^(?:VERDICT|SUMMARY|CRITIC|STYLIST|HANDOFF_CONFIRMED):", line):
                     continue
                 if not line.startswith("- "):
                     line = f"- {line}"
@@ -644,18 +652,41 @@ def clean_sleep(dry_run: bool = False) -> int:
     del_rel = [str(d.relative_to(ROOT)) for d in dirs_to_delete]
     pres_rel = [str(d.relative_to(ROOT)) for d in preserved_dirs]
 
+    todo_path = ROOT / "work" / "todo.md"
+    kept_todo_lines: list[str] = []
+    if todo_path.is_file():
+        kept_todo_lines = todo_path.read_text(encoding="utf-8").splitlines()
+    new_todo_lines: list[str] = []
+    for d in dirs_to_delete:
+        for item in extract_todo_blocks(d.name):
+            if item not in kept_todo_lines and item not in new_todo_lines:
+                new_todo_lines.append(item)
+
     if dry_run:
         print(
             f"CLEAN_SLEEP_DRY_RUN: wave_checked_nodes={len(checked_slugs)} "
             f"wave_checked_sweeps={len(checked_specials)} "
             f"existing_to_delete={len(dirs_to_delete)} "
-            f"preserved={len(preserved_dirs)}"
+            f"preserved={len(preserved_dirs)} "
+            f"todo_to_harvest={len(new_todo_lines)}"
         )
         print(f"WOULD_DELETE: {', '.join(del_rel) if del_rel else 'none'}")
         print(f"PRESERVED: {', '.join(pres_rel) if pres_rel else 'none'}")
+        if new_todo_lines:
+            print("WOULD_HARVEST_TODO:")
+            for item in new_todo_lines:
+                print(f"  {item}")
+        else:
+            print("WOULD_HARVEST_TODO: none")
         if skipped_wave_slugs:
             print(f"SKIPPED_WAVE_SLUGS: {', '.join(skipped_wave_slugs)}")
         return 0
+
+    if new_todo_lines:
+        while kept_todo_lines and not kept_todo_lines[-1].strip():
+            kept_todo_lines.pop()
+        updated_todo = "\n".join(kept_todo_lines + new_todo_lines) + "\n"
+        todo_path.write_text(updated_todo, encoding="utf-8")
 
     for d in dirs_to_delete:
         shutil.rmtree(d)
@@ -663,6 +694,7 @@ def clean_sleep(dry_run: bool = False) -> int:
     print(
         f"CLEAN_SLEEP_DONE: deleted={len(dirs_to_delete)} "
         f"preserved={len(preserved_dirs)} "
+        f"todo_harvested={len(new_todo_lines)} "
         f"deleted_dirs=[{', '.join(del_rel)}] "
         f"preserved_dirs=[{', '.join(pres_rel)}]"
     )
