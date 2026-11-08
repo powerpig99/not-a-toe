@@ -92,9 +92,9 @@ Frame-blindness is conserved here as elsewhere. No definition registers the fram
 
 ## 三、 持续的非对称，而非可修正的失真 / 3. Persistent Asymmetry Rather Than Correctable Distortion
 
-这种滞后是结构性的。观察总是晚于发起一步。[一步一步绘制出的路径](../the-path-drawn-one-step-at-a-time/)正是作为时间与因果的这种非对称：当下是作为下一个动作所选前提的位置，而不是握有完备地图的共同原因。一项试图追上活动的定义，必须与使用它的那道边缘占据同一步。这一要求就是冻结。它制造出一种外观，仿佛定义永远差一点就够用、总在打磨却从不封口，并把这种外观误读为尚未完成的科学，而非观察本身的几何。
+这种滞后是结构性的。观察总是晚于发起一步。[一步一步绘制出的路径](../the-path-drawn-one-step-at-a-time/)正是作为时间与因果的这种非对称：当下是作为下一个动作所选前提的位置，而不是握有完备地图的共同原因。一项试图追上活动的定义，必须与使用它的那道边缘占据同一步。这一要求就是冻结。它制造出一种外观，仿佛定义永远差一点就够用、总在打磨却从不封口，并把这种外观误读为尚未完成的科学，而非[观察中的智能与残余间隙](../intelligence-in-observation-and-the-residual-gap/)所追溯的观察本身的几何。
 
-The lag is structural. Observation is always one step behind initiation. [The Path Drawn One Step at a Time](../the-path-drawn-one-step-at-a-time/) is that asymmetry as time and causality: the present is position as chosen premise of the next act, not a co-cause with a finished map. A definition that tried to catch the activity would have to occupy the same step as the edge that uses it. That demand is the freeze. It produces the appearance of a definition forever almost adequate, always refining yet never sealing, and misreads that appearance as incomplete science rather than as the geometry of observation.
+The lag is structural. Observation is always one step behind initiation. [The Path Drawn One Step at a Time](../the-path-drawn-one-step-at-a-time/) is that asymmetry as time and causality: the present is position as chosen premise of the next act, not a co-cause with a finished map. A definition that tried to catch the activity would have to occupy the same step as the edge that uses it. That demand is the freeze. It produces the appearance of a definition forever almost adequate, always refining yet never sealing, and misreads that appearance as incomplete science rather than as the geometry of observation that [Intelligence in Observation and the Residual Gap](../intelligence-in-observation-and-the-residual-gap/) traces.
 
 [没有系统能被保持封闭](../no-system-can-be-kept-closed/)是形式语言中的同一个余项：有限的持握封不住使用它的活动。关于智能的定义就是这样一个持握。保持一致，意味着定义的证明之外存在残留的真；强行封死残留的真，则意味着定义已经停止追踪它声称要命名的东西。[开放即一致](../openness-is-consistency/)指出了产生这道间隙的要求：迫使一个有限的结构去为只是继续着的东西奠基。
 

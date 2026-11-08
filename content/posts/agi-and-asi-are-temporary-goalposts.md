@@ -26,9 +26,9 @@ Because the image is held in observation, it always lags the initiating activity
 
 ## 二、 AI 能力的提升正是边缘借自我强化向前推进 / 2. AI Improvement Is the Edge Moving Ahead by Self-Reinforcement
 
-设想某个系统看似满足了当前关于 AGI 的每一项判准。这一满足本身，是由仍在引入新区分的那些中心所登记的。这些中心会立刻登记到系统依然出现断裂的领域或边缘情形，或是提出系统从未被要求解答的问题。新的目标随之确立，而先前关于通用胜任力的定义，相对于新显露的视界便被重新归类为狭隘的执行。
+设想某个系统看似满足了当前关于 AGI 的每一项判准。这一满足本身，是由仍在引入新区分的那些中心所登记的。这些中心会立刻登记到系统依然出现断裂的领域或边缘情形，或是提出系统从未被要求解答的问题。新的目标随之确立，而先前关于通用胜任力的定义，相对于新显露的视界便被重新归类为狭隘的执行，这正是[观察中的智能与残余间隙](../intelligence-in-observation-and-the-residual-gap/)所追溯的同一种基线推移。
 
-Suppose a system appears to satisfy every current criterion for AGI. That satisfaction is registered by centers still introducing fresh distinctions. Those centers immediately register domains or edge cases where the system fractures, or formulate questions the system was never asked to resolve. New objectives are set, and the previous definition of general competence reclassifies as narrow execution relative to the newly visible horizon.
+Suppose a system appears to satisfy every current criterion for AGI. That satisfaction is registered by centers still introducing fresh distinctions. Those centers immediately register domains or edge cases where the system fractures, or formulate questions the system was never asked to resolve. New objectives are set, and the previous definition of general competence reclassifies as narrow execution relative to the newly visible horizon, the same baseline shift [Intelligence in Observation and the Residual Gap](../intelligence-in-observation-and-the-residual-gap/) traces.
 
 同样的几何支配着 ASI。任何关于在所有领域具备超人能力的图像，都是从心智当前的所及之内向外投射出来的。一旦更稠密的脚手架让这幅图像的某些侧面变得具体，心智便会在其外区分出更进一步的可能性。[超越投射](../beyond-the-projection/)追溯了智能体系统中这种边界推移的确切机制：每一项基准、提示词架构或 AGI 球门，都是从鲜活意图投射出的有限低维映射。自回归智能体是一台受限于轨迹的演绎穷尽引擎，把那份有限投射一直运行到它的逻辑极限，在把正交维度压缩进单一规则轴的地方暴露出轨迹盲区或陷入死锁。机器顺着轨迹穷尽投射的那一刻，人类心智便在极限分辨率下感知到新暴露出的摩擦，退后一步走出破裂的框架，并综合出更高阶的前提（`N → N + 1`）。正因为唯有活的心智具备这种内生退步跳出的能力，穷尽一份投射从不会在器物内部孕育出人造心智；它只是揭示出前一个球门的边界，并将视界向前推进。
 
@@ -41,7 +41,6 @@ flowchart TD
         M_Step["内生退步跳出（N → N + 1）：走出耗尽的框架并划出下一道视界"]
         M_Cast --> M_Sense --> M_Step
     end
-
     subgraph S_Medium["稠密化的介质与智能体脚手架（有限投射）"]
         direction TB
         A_Target["暂时球门与基准持握：先前区分所冻结的坐标"]
@@ -50,11 +49,9 @@ flowchart TD
         A_Target --> A_Exhaust
         A_Exhaust -.->|"图像越过自身那一步仍被保留"| A_Freeze
     end
-
     M_Cast ==>|"将目标与评测判准外化"| A_Target
     A_Exhaust ==>|"暴露出边界与维度坍缩"| M_Sense
     M_Step ==>|"越过先前门槛并将其重归类为狭隘"| A_Target
-
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Medium fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style M_Cast fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -76,7 +73,6 @@ flowchart TD
         M_Step["Endogenous Stepping-Out (N → N + 1): Steps outside exhausted frame and draws next horizon"]
         M_Cast --> M_Sense --> M_Step
     end
-
     subgraph S_Medium["Densified Medium & Agentic Scaffolding (Finite Projection)"]
         direction TB
         A_Target["Temporary Goalpost / Benchmark Hold: Frozen coordinate of prior distinctions"]
@@ -85,11 +81,9 @@ flowchart TD
         A_Target --> A_Exhaust
         A_Exhaust -.->|"Image preserved past its step"| A_Freeze
     end
-
     M_Cast ==>|"Externalizes objectives & evaluation criteria"| A_Target
     A_Exhaust ==>|"Exposes boundary & dimensional collapse"| M_Sense
     M_Step ==>|"Overtakes prior threshold & reclassifies it as narrow"| A_Target
-
     style S_Mind fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Medium fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style M_Cast fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -120,4 +114,4 @@ When the look forgets its own return, the growing apparatus is repeatedly misrea
 
 在经济、制度与感知的投射中，后退的门槛标记着衡量它的那道边缘持续不息的活力。[免费智能的幻觉](../the-illusion-of-free-intelligence/)并不把更廉价的词元副产物读作心智的普及，而是将其读作活边缘早已向更远处划去的反向信号。[封闭的假设把复利挤成 S 曲线](../closed-assumptions-squeeze-compounding-into-s-curves/)表明产业曲线上每一个看似的承载上限都只是局部的持握，而非不断重画它的复利本性；[关闭选择权的代价](../the-price-of-closing-optionality/)则表明，终极的无风险姿态永远处在必须在现场接触中重新渲染的那道边缘前方。[抽象、边界与现实的移动边缘](../abstraction-boundaries-and-the-moving-edge-of-reality/)追溯了每一份完结的目录如何落在划出下一道边界的边缘身后。[数字神祇与视界跳跃](../the-digital-god-and-the-horizon-jump/)剖析了把经过净化的低维词元流形误认为物理世界开放摩擦、从而一再宣告通用智能降临的循环仪式，而[远方的轮廓与无处之境的清单](../the-distant-silhouette-and-the-inventory-from-nowhere/)则展示了远处的现象如何坍缩为齐一的轮廓，而走近时恢复的分辨力又如何被误读为球门的推诿移动。被命名的门槛先是指向新鲜的区分，继而硬化为核对清单，遵循着与[清单合上之后，胜过免费](../better-than-free-after-the-checklist-closes/)为价值所追溯的同一道弧线。
 
-In economic, institutional, and perceptual projections, the receding threshold marks the ongoing vitality of the edge that measures it. [The Illusion of Free Intelligence](../the-illusion-of-free-intelligence/) reads cheaper token byproducts not as democratized mind, but as the inverse signal of the living edge already drawing further ahead. [Closed Assumptions Squeeze Compounding into S-Curves](../closed-assumptions-squeeze-compounding-into-s-curves/) shows that each apparent carrying capacity on an industry curve sits as a local hold rather than the nature of the compounding that redraws it, while [The Price of Closing Optionality](../the-price-of-closing-optionality/) shows that a final risk-free posture sits forever ahead of the edge that must re-render under live contact. [Abstraction, Boundaries, and the Moving Edge of Reality](../abstraction-boundaries-and-the-moving-edge-of-reality/) traces how every finished catalog sits behind the edge that draws the next bound. [The Digital God and the Horizon Jump](../the-digital-god-and-the-horizon-jump/) dissects the recurring ritual of declaring arriving general intelligence by mistaking sanitized low-dimensional token manifolds for the open-ended friction of the physical world, and [The Distant Silhouette and the Inventory from Nowhere](../the-distant-silhouette-and-the-inventory-from-nowhere/) shows how distant phenomena collapse into a uniform contour whose restored resolving power upon closer approach is misread as an evasive shifting of the goalposts. Named thresholds point at fresh differentiation and then harden into checklists, following the exact arc [Better Than Free After the Checklist Closes](../better-than-free-after-the-checklist-closes/) traces for value.
+In economic, institutional, and perceptual projections, the receding threshold marks the ongoing vitality of the edge that measures it. [The Illusion of Free Intelligence](../the-illusion-of-free-intelligence/) reads cheaper token byproducts not as democratized mind, but as the inverse signal of the living edge already drawing further ahead. [Closed Assumptions Squeeze Compounding into S-Curves](../closed-assumptions-squeeze-compounding-into-s-curves/) shows that each apparent carrying capacity on an industry curve sits as a local hold rather than the nature of the compounding that redraws it, while [The Price of Closing Optionality](../the-price-of-closing-optionality/) shows that a final risk-free posture sits forever ahead of the edge that must re-render under live contact. [Abstraction Boundaries and the Moving Edge of Reality](../abstraction-boundaries-and-the-moving-edge-of-reality/) traces how every finished catalog sits behind the edge that draws the next bound. [The Digital God and the Horizon Jump](../the-digital-god-and-the-horizon-jump/) dissects the recurring ritual of declaring arriving general intelligence by mistaking sanitized low-dimensional token manifolds for the open-ended friction of the physical world, and [The Distant Silhouette and the Inventory from Nowhere](../the-distant-silhouette-and-the-inventory-from-nowhere/) shows how distant phenomena collapse into a uniform contour whose restored resolving power upon closer approach is misread as an evasive shifting of the goalposts. Named thresholds point at fresh differentiation and then harden into checklists, following the exact arc [Better Than Free After the Checklist Closes](../better-than-free-after-the-checklist-closes/) traces for value.

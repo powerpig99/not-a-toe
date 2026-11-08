@@ -134,9 +134,9 @@ flowchart TD
 
 ## 八、 分歧是划界留下的印记 / 8. Variation Is the Signature of the Cut
 
-回答随年龄、职业、行业以及在话语中浸泡的时间而变化，这些分歧不是围绕某个正确立场的噪音，正是这一机制会留下的印记。不同的人在不同的承载负荷下、以不同宽度的保留图像，登记同一些序列，每个人都把自己的登记当作那个范畴性的立场。随后的各说各话，是彼此独立的区分被迫共用坐标时产生的干涉。
+回答随年龄、职业、行业以及在话语中浸泡的时间而变化，这些分歧不是围绕某个正确立场的噪音，正是这一机制会留下的印记。不同的人在不同的承载负荷下、以不同宽度的保留图像，登记同一些序列，每个人都把自己的登记当作那个范畴性的立场。随后的各说各话，是彼此独立的区分被迫共用坐标时产生的干涉；而[观察中的智能与残余间隙](../intelligence-in-observation-and-the-residual-gap/)追的则是：不同观察者各异的登记，一旦不再被要求证明某一种读法为终局，如何相对当前持有的标准显露出残余间隙，并把它转化为下一个共享的测量参照。
 
-The variation in answers by age, occupation, industry and time spent inside the discourse is not noise around one correct position; it is the signature this mechanism leaves. Different individuals register the same sequences under different loads of capacity and with retained images of different widths, and each treats its registration as the categorical position. The talking-past that follows is the interference produced when independent distinctions are forced to share coordinates.
+The variation in answers by age, occupation, industry and time spent inside the discourse is not noise around one correct position; it is the signature this mechanism leaves. Different individuals register the same sequences under different loads of capacity and with retained images of different widths, and each treats its registration as the categorical position. The talking-past that follows is the interference produced when independent distinctions are forced to share coordinates, whereas [Intelligence in Observation and the Residual Gap](../intelligence-in-observation-and-the-residual-gap/) traces how divergent observer registrations, once freed from the demand to prove one reading final, surface a residual gap relative to currently held standards and turn it into the next shared reference of measurement.
 
 ## 九、 二元本身就是那次选择 / 9. The Binaries Were the Choice
 

@@ -18,9 +18,9 @@ The freeze is ordinary observation held past return. Observation holds the effec
 
 ## 二、 功能性证据确认功能性假设 / 2. Functional Evidence Confirms the Functional Hypothesis
 
-这一参照在根上是功能主义的。可测量的表现，即基准分数、参数规模、检索速度、多步推理，被当作智能的相关证据。由于证据由这些系统被优化去满足的同一套标准来界定，每一次进展都被登记为确认。不足之处被重新归类为暂时的缺口，等待下一条规模定律或架构上的洞见。这一框架于是自我强化：它用自己提供的标准衡量自己的成功。
+这一参照在根上是功能主义的。可测量的表现，即基准分数、参数规模、检索速度、多步推理，被当作智能的相关证据。由于证据由这些系统被优化去满足的同一套标准来界定，每一次进展都被登记为确认。不足之处被重新归类为暂时的缺口，等待下一条规模定律或架构上的洞见。这一框架于是自我强化：它用自己提供的标准衡量自己的成功，尽管它当作暂时缺口的正是残余差异，而这一差异一旦在旧标准下收窄，观察者便把它提升为下一个衡量标准，正如[观察中的智能与残余间隙](../intelligence-in-observation-and-the-residual-gap/)所追溯的那样。
 
-The reference is functionalist at its root. Measurable performance—benchmark scores, parameter counts, retrieval speed, multi-step reasoning—is taken as the relevant evidence of intelligence. Because the evidence is defined by the same criteria the systems are optimized to satisfy, every advance registers as confirmation. Shortfalls are reclassified as temporary gaps awaiting the next scaling law or architectural insight. The framework is thus self-reinforcing: it measures its own success by the standards it supplies.
+The reference is functionalist at its root. Measurable performance—benchmark scores, parameter counts, retrieval speed, multi-step reasoning—is taken as the relevant evidence of intelligence. Because the evidence is defined by the same criteria the systems are optimized to satisfy, every advance registers as confirmation. Shortfalls are reclassified as temporary gaps awaiting the next scaling law or architectural insight. The framework is thus self-reinforcing: it measures its own success by the standards it supplies, even though what it treats as a temporary gap is the residual difference that observers promote into the next standard of measurement once it narrows under the old one, as [Intelligence in Observation and the Residual Gap](../intelligence-in-observation-and-the-residual-gap/) traces.
 
 在这一框架之内，声称AGI可能，就是声称功能上的完备可以达成。功能上的相似与其下的能力之间的区分，要么被压扁，要么被推迟。一个前提内部的证据并不审视这个前提。积累更好的功能结果，检验的是功能假设之内的表现；它不检验功能属性是否足以构成智能。[基准刷榜中的封闭实存](../closed-reality-in-benchmark-maxing/)是评测负载之下的同一冻结：基准把能力冻结为一个封闭的目标，一旦这个图像被当作整个场，开放负载之下的有用性就登记不足。[智能的非定论定义](../the-non-definitive-definition-of-intelligence/)为定义本身持守同一区分：在暂时封闭的切片里测量，是探索开放实在的方式，滞后在于把这个切片当作穷尽的地基。
 

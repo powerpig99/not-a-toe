@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-08T17:20:01.588Z",
+    "generated_at": "2026-11-08T18:22:12.669Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -22,7 +22,7 @@
       "content/posts/agency-does-not-arise.md": "9b991f48fb54",
       "content/posts/agency-relocated-into-the-formal-model.md": "3e1fa31e14a3",
       "content/posts/agents_leia_ontological_clarity.md": "332a8919b1e7",
-      "content/posts/agi-and-asi-are-temporary-goalposts.md": "4d7f22ced380",
+      "content/posts/agi-and-asi-are-temporary-goalposts.md": "bf850aa9b898",
       "content/posts/ai-as-augmentation.md": "b7e862c5142e",
       "content/posts/ai-wont-kill-software-engineering.md": "cc0137e82426",
       "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "2217ee5fe5b3",
@@ -337,9 +337,9 @@
       "content/posts/the-myth-of-population-collapse-explained.md": "2b387f52514e",
       "content/posts/the-myth-of-the-four-dimensional-deer-and-the-present-model.md": "388cfb64fd33",
       "content/posts/the-name-revolution-files-a-life-as-evidence.md": "28675c00f6af",
-      "content/posts/the-non-definitive-definition-of-intelligence.md": "65bdb70f81ba",
+      "content/posts/the-non-definitive-definition-of-intelligence.md": "88db5f948e3a",
       "content/posts/the-npc-impression-is-structural.md": "4f7bc9fb76e2",
-      "content/posts/the-observational-cut-in-ai-debates.md": "4ce3e6428502",
+      "content/posts/the-observational-cut-in-ai-debates.md": "b18a53c9a69c",
       "content/posts/the-only-coherent-uncaused-effect.md": "7fe84abc56e1",
       "content/posts/the-open-question-is-determinisms-demand.md": "670d76055718",
       "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "dc29182803e7",
@@ -351,7 +351,7 @@
       "content/posts/the-perceiver-and-the-trace.md": "ca63cdb39988",
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "8d14b5508798",
       "content/posts/the-power-law-of-surrendered-agency.md": "b103a48206f4",
-      "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "8b30e5923db4",
+      "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "923abff8173e",
       "content/posts/the-price-of-closing-optionality.md": "5587a48534a1",
       "content/posts/the-question-that-installs-the-war.md": "63e4ec243e36",
       "content/posts/the-ramble-within-the-ramble.md": "57566038f9e7",
@@ -436,7 +436,7 @@
       "content/posts/writing-without-the-image.md": "157f6998ee85",
       "content/posts/xian-shi-de-bian-jie.md": "16af568ed256",
       "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "54fd439c9769",
-      "content/posts/you-cant-benchmark-the-fluid.md": "01847ccdd234",
+      "content/posts/you-cant-benchmark-the-fluid.md": "0c261c0f07f5",
       "content/posts/you-tiao-jian-de-zi-you.md": "951537534f9e",
       "content/posts/you-wu-zhi-bian.md": "44d999fe6fb0",
       "content/posts/your-codebase-is-memory.md": "ea27ad8ecdfa",
@@ -465,10 +465,10 @@
     },
     "stats": {
       "posts": 438,
-      "edges": 13408,
-      "unique_directed": 6587,
+      "edges": 13418,
+      "unique_directed": 6592,
       "missing_targets": 0,
-      "one_way": 1307,
+      "one_way": 1302,
       "isolated": 0,
       "posts_with_outbound": 438,
       "book_pages": 16,
@@ -1049,15 +1049,16 @@
       "slug": "agi-and-asi-are-temporary-goalposts",
       "path": "content/posts/agi-and-asi-are-temporary-goalposts.md",
       "title": "AGI 与 ASI 是加速通用智能的暂时球门 / AGI and ASI Are Temporary Goalposts",
-      "hash": "4d7f22ced380",
+      "hash": "bf850aa9b898",
       "in_degree": 29,
-      "out_degree": 28,
+      "out_degree": 29,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "self-rl-for-humans",
         "the-scaffolding-we-forget",
         "hassabis-frontier-agi-premise",
         "closed-reality-in-benchmark-maxing",
+        "intelligence-in-observation-and-the-residual-gap",
         "beyond-the-projection",
         "your-codebase-is-memory",
         "the-observational-cut-in-ai-debates",
@@ -3801,7 +3802,7 @@
       "path": "content/posts/intelligence-in-observation-and-the-residual-gap.md",
       "title": "观察中的智能与残余间隙 / Intelligence in Observation and the Residual Gap",
       "hash": "6597f69963a6",
-      "in_degree": 0,
+      "in_degree": 5,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -9622,15 +9623,16 @@
       "slug": "the-non-definitive-definition-of-intelligence",
       "path": "content/posts/the-non-definitive-definition-of-intelligence.md",
       "title": "智能的非定论定义 / The Non-Definitive Definition of Intelligence",
-      "hash": "65bdb70f81ba",
+      "hash": "88db5f948e3a",
       "in_degree": 12,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "you-cant-benchmark-the-fluid",
         "the-presumption-of-agi-and-the-view-from-outside",
         "agi-and-asi-are-temporary-goalposts",
         "the-path-drawn-one-step-at-a-time",
+        "intelligence-in-observation-and-the-residual-gap",
         "no-system-can-be-kept-closed",
         "openness-is-consistency",
         "intelligence-belongs-only-to-the-mind",
@@ -9676,9 +9678,9 @@
       "slug": "the-observational-cut-in-ai-debates",
       "path": "content/posts/the-observational-cut-in-ai-debates.md",
       "title": "AI 争论中的观察划界 / The Observational Cut in AI Debates",
-      "hash": "4ce3e6428502",
+      "hash": "b18a53c9a69c",
       "in_degree": 7,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "the-question-that-installs-the-war",
         "why-explanation-fails",
@@ -9686,7 +9688,8 @@
         "the-risk-is-the-belief-in-oversight-itself",
         "your-codebase-is-memory",
         "agi-and-asi-are-temporary-goalposts",
-        "the-distant-silhouette-and-the-inventory-from-nowhere"
+        "the-distant-silhouette-and-the-inventory-from-nowhere",
+        "intelligence-in-observation-and-the-residual-gap"
       ]
     },
     {
@@ -9967,13 +9970,14 @@
       "slug": "the-presumption-of-agi-and-the-view-from-outside",
       "path": "content/posts/the-presumption-of-agi-and-the-view-from-outside.md",
       "title": "AGI的预设与来自外部的视角 / The Presumption of AGI and the View from Outside",
-      "hash": "8b30e5923db4",
+      "hash": "923abff8173e",
       "in_degree": 26,
-      "out_degree": 27,
+      "out_degree": 28,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "mistaking-the-expression-for-the-intelligence",
         "the-flight-analogy-leaves-the-mind-untouched",
+        "intelligence-in-observation-and-the-residual-gap",
         "closed-reality-in-benchmark-maxing",
         "the-non-definitive-definition-of-intelligence",
         "openness-is-consistency",
@@ -12247,12 +12251,13 @@
       "slug": "you-cant-benchmark-the-fluid",
       "path": "content/posts/you-cant-benchmark-the-fluid.md",
       "title": "流动之物无法被基准衡量 / You Can't Benchmark the Fluid",
-      "hash": "01847ccdd234",
+      "hash": "0c261c0f07f5",
       "in_degree": 8,
-      "out_degree": 7,
+      "out_degree": 8,
       "links_out": [
         "your-codebase-is-memory",
         "why-mathematics-can-never-be-solved",
+        "intelligence-in-observation-and-the-residual-gap",
         "the-non-definitive-definition-of-intelligence",
         "escaping-the-sandbox-stays-inside-the-hold",
         "mistaking-the-expression-for-the-intelligence",
@@ -15550,6 +15555,18 @@
     },
     {
       "from": "agi-and-asi-are-temporary-goalposts",
+      "to": "intelligence-in-observation-and-the-residual-gap",
+      "rel": "points_to",
+      "label": "观察中的智能与残余间隙"
+    },
+    {
+      "from": "agi-and-asi-are-temporary-goalposts",
+      "to": "intelligence-in-observation-and-the-residual-gap",
+      "rel": "points_to",
+      "label": "Intelligence in Observation and the Residual Gap"
+    },
+    {
+      "from": "agi-and-asi-are-temporary-goalposts",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "超越投射"
@@ -15816,7 +15833,7 @@
       "from": "agi-and-asi-are-temporary-goalposts",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
+      "label": "Abstraction Boundaries and the Moving Edge of Reality"
     },
     {
       "from": "agi-and-asi-are-temporary-goalposts",
@@ -73156,9 +73173,21 @@
     },
     {
       "from": "the-non-definitive-definition-of-intelligence",
+      "to": "intelligence-in-observation-and-the-residual-gap",
+      "rel": "points_to",
+      "label": "观察中的智能与残余间隙"
+    },
+    {
+      "from": "the-non-definitive-definition-of-intelligence",
       "to": "the-path-drawn-one-step-at-a-time",
       "rel": "points_to",
       "label": "The Path Drawn One Step at a Time"
+    },
+    {
+      "from": "the-non-definitive-definition-of-intelligence",
+      "to": "intelligence-in-observation-and-the-residual-gap",
+      "rel": "points_to",
+      "label": "Intelligence in Observation and the Residual Gap"
     },
     {
       "from": "the-non-definitive-definition-of-intelligence",
@@ -73555,6 +73584,18 @@
       "to": "the-distant-silhouette-and-the-inventory-from-nowhere",
       "rel": "points_to",
       "label": "The Distant Silhouette and the Inventory from Nowhere"
+    },
+    {
+      "from": "the-observational-cut-in-ai-debates",
+      "to": "intelligence-in-observation-and-the-residual-gap",
+      "rel": "points_to",
+      "label": "观察中的智能与残余间隙"
+    },
+    {
+      "from": "the-observational-cut-in-ai-debates",
+      "to": "intelligence-in-observation-and-the-residual-gap",
+      "rel": "points_to",
+      "label": "Intelligence in Observation and the Residual Gap"
     },
     {
       "from": "the-only-coherent-uncaused-effect",
@@ -75283,6 +75324,18 @@
       "to": "the-flight-analogy-leaves-the-mind-untouched",
       "rel": "points_to",
       "label": "The Flight Analogy Leaves the Mind Untouched"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "intelligence-in-observation-and-the-residual-gap",
+      "rel": "points_to",
+      "label": "观察中的智能与残余间隙"
+    },
+    {
+      "from": "the-presumption-of-agi-and-the-view-from-outside",
+      "to": "intelligence-in-observation-and-the-residual-gap",
+      "rel": "points_to",
+      "label": "Intelligence in Observation and the Residual Gap"
     },
     {
       "from": "the-presumption-of-agi-and-the-view-from-outside",
@@ -91459,6 +91512,18 @@
       "to": "why-mathematics-can-never-be-solved",
       "rel": "points_to",
       "label": "Why Mathematics Can Never Be Solved"
+    },
+    {
+      "from": "you-cant-benchmark-the-fluid",
+      "to": "intelligence-in-observation-and-the-residual-gap",
+      "rel": "points_to",
+      "label": "观察中的智能与残余间隙"
+    },
+    {
+      "from": "you-cant-benchmark-the-fluid",
+      "to": "intelligence-in-observation-and-the-residual-gap",
+      "rel": "points_to",
+      "label": "Intelligence in Observation and the Residual Gap"
     },
     {
       "from": "you-cant-benchmark-the-fluid",
