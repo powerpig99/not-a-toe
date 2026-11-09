@@ -3,19 +3,20 @@
 Deterministic Stage 3 sign-off and sha256 handoff verifier (`scripts/check-signoffs.py`).
 
 Checks for each `work/<slug>/` DELTA node before Stage 3 interleaving:
-  1. `work/<slug>/debate-en.md` ends with a `CRITIC: confirmed` line whose `sha256`
-     matches the current `sha256(work/<slug>/en.md)`.
-  2. `work/<slug>/debate-zh.md` (or `debate-en.md`) records `HANDOFF_CONFIRMED` with
+  1. `work/<slug>/notes.md` (or legacy `debate-en.md`) records `DRAFTER: confirmed`
+     (or `CRITIC: confirmed`) whose `sha256` matches `sha256(work/<slug>/en.md)`.
+  2. `work/<slug>/notes.md` (or legacy `debate-zh.md`) records `HANDOFF_CONFIRMED` with
      the same `en.md` `sha256`.
-  3. `work/<slug>/debate-zh.md` ends with a `STYLIST: confirmed` line whose `sha256`
-     matches `sha256(work/<slug>/zh.md)` and whose `source_sha256` matches
-     `sha256(work/<slug>/en.md)`.
+  3. `work/<slug>/notes.md` (or legacy `debate-zh.md`) ends with a `TRANSLATOR: confirmed`
+     (or `STYLIST: confirmed`) line whose `sha256` matches `sha256(work/<slug>/zh.md)`
+     and whose `source_sha256` matches `sha256(work/<slug>/en.md)`.
   4. Every backtick `path:line` / `slug:line` locator in `work/<slug>/notes.md`
      (when present) resolves to an existing file whose line count covers the cited
      line numbers. Can also be run standalone on any notes file via `--locators`.
-  5. For `NO_DELTA` nodes (no `work/<slug>/en.md`), verifies `CRITIC: confirmed_no_delta`
-     in `work/<slug>/debate-en.md` against `sha256(content/posts/<slug>.md)` (or
-     `content/book/<name>.md`) and verifies `work/<slug>/notes.md` locators.
+  5. For `NO_DELTA` nodes (no `work/<slug>/en.md`), verifies `DRAFTER: confirmed_no_delta`
+     (or `CRITIC: confirmed_no_delta`) in `work/<slug>/notes.md` (or `debate-en.md`)
+     against `sha256(content/posts/<slug>.md)` (or `content/book/<name>.md`) and
+     verifies `work/<slug>/notes.md` locators.
   6. With `--record-batch <m> --commit <sha> <slug1> ...`, deterministically updates
      `work/wave.md` checkboxes, prunes completed items and appends `DELTA (propagates)`
      and `### For work/todo.md` items in `work/todo.md`, and writes `work/_logs/batch-<m>.md`.
@@ -129,8 +130,8 @@ def parse_critic_verdict_and_summary(
     require_lines: bool = False,
 ) -> tuple[str, list[tuple[str, bool]], str, list[str]]:
     """
-    Deterministically parses the Critic's `VERDICT: ... | RESTATERS: ...` and `SUMMARY: ...`
-    lines from `work/<slug>/debate-en.md`.
+    Deterministically parses `VERDICT: ... | RESTATERS: ...` and `SUMMARY: ...`
+    lines from `work/<slug>/notes.md` (or legacy `debate-en.md`).
     Returns (verdict, restaters_with_new_claim_flag, summary, errors).
     """
     errors: list[str] = []
@@ -143,11 +144,11 @@ def parse_critic_verdict_and_summary(
         raw_v = raw_v.replace("( ", "(").replace(" )", ")")
         if is_no_delta and raw_v != "NO_DELTA":
             errors.append(
-                f"[{slug}] VERDICT line '{raw_v}' in debate-en.md contradicts CRITIC: confirmed_no_delta"
+                f"[{slug}] VERDICT line '{raw_v}' in notes.md contradicts confirmed_no_delta"
             )
         elif not is_no_delta and raw_v == "NO_DELTA":
             errors.append(
-                f"[{slug}] VERDICT line 'NO_DELTA' in debate-en.md contradicts CRITIC: confirmed"
+                f"[{slug}] VERDICT line 'NO_DELTA' in notes.md contradicts confirmed DELTA"
             )
         verdict = raw_v
 
@@ -166,7 +167,7 @@ def parse_critic_verdict_and_summary(
                 )
                 if not tokens:
                     errors.append(
-                        f"[{slug}] Could not parse RESTATERS field '{restaters_field}' in debate-en.md "
+                        f"[{slug}] Could not parse RESTATERS field '{restaters_field}' in notes.md "
                         "(expected 'none' or '<slug>:<line>[, <slug2>:<line>...]')"
                     )
                 for loc_tok, new_claim_group in tokens:
@@ -174,13 +175,13 @@ def parse_critic_verdict_and_summary(
                     r_slug = loc_clean.split(":", 1)[0].removesuffix(".md")
                     if r_slug == slug:
                         errors.append(
-                            f"[{slug}] Self-locator `{loc_clean}` listed in RESTATERS in debate-en.md"
+                            f"[{slug}] Self-locator `{loc_clean}` listed in RESTATERS in notes.md"
                         )
                         continue
                     loc_errs = validate_single_locator(
                         loc_clean,
                         slug,
-                        "debate-en.md (RESTATERS)",
+                        "notes.md (RESTATERS)",
                         line_count_cache=line_count_cache,
                     )
                     if loc_errs:
@@ -193,17 +194,17 @@ def parse_critic_verdict_and_summary(
         verdict = "NO_DELTA" if is_no_delta else "DELTA (terminal)"
         if require_lines:
             errors.append(
-                f"[{slug}] Missing 'VERDICT: <DELTA (terminal)|DELTA (propagates)|NO_DELTA> | RESTATERS: <...|none>' line in debate-en.md"
+                f"[{slug}] Missing 'VERDICT: <DELTA (terminal)|DELTA (propagates)|NO_DELTA> | RESTATERS: <...|none>' line in notes.md"
             )
 
     if m_summary:
         summary = m_summary.group(1).strip().replace("|", "\\|")
         if not summary:
-            errors.append(f"[{slug}] Empty 'SUMMARY:' line in debate-en.md")
+            errors.append(f"[{slug}] Empty 'SUMMARY:' line in notes.md")
     else:
         summary = verdict
         if require_lines:
-            errors.append(f"[{slug}] Missing 'SUMMARY: <1-line summary>' line in debate-en.md")
+            errors.append(f"[{slug}] Missing 'SUMMARY: <1-line summary>' line in notes.md")
 
     return (verdict, restaters, summary, errors)
 
@@ -246,28 +247,32 @@ def classify_node(
     deb_zh_path = work_dir / "debate-zh.md"
     notes_path = work_dir / "notes.md"
 
-    if not deb_en_path.is_file():
-        return ("UNKNOWN", "", "", [], "", [f"[{slug}] Missing {deb_en_path.relative_to(ROOT)}"])
+    if not notes_path.is_file() and not deb_en_path.is_file():
+        return ("UNKNOWN", "", "", [], "", [f"[{slug}] Missing {notes_path.relative_to(ROOT)}"])
 
-    deb_en = deb_en_path.read_text(encoding="utf-8")
+    notes_text = notes_path.read_text(encoding="utf-8") if notes_path.is_file() else ""
+    deb_en_text = deb_en_path.read_text(encoding="utf-8") if deb_en_path.is_file() else ""
+    deb_zh_text = deb_zh_path.read_text(encoding="utf-8") if deb_zh_path.is_file() else ""
+    stage1_log = (notes_text + "\n" + deb_en_text).strip()
+    stage2_log = (notes_text + "\n" + deb_zh_text).strip()
 
-    # Check if this is a NO_DELTA node (no work/<slug>/en.md and confirmed_no_delta at end of debate-en.md)
-    no_delta_body = r"CRITIC:\s*confirmed_no_delta\b[^\n]*?" + HEX64
-    m_no_delta = last_match(r"^" + no_delta_body, deb_en)
+    # Check if this is a NO_DELTA node (no work/<slug>/en.md and confirmed_no_delta at end of notes.md / debate-en.md)
+    no_delta_body = r"(?:DRAFTER|CRITIC):\s*confirmed_no_delta\b[^\n]*?" + HEX64
+    m_no_delta = last_match(r"^" + no_delta_body, stage1_log)
     if m_no_delta and not en_path.is_file():
         if slug.startswith("_book:"):
             post_or_book = ROOT / "content" / "book" / f"{slug[6:]}.md"
         else:
             post_or_book = ROOT / "content" / "posts" / f"{slug}.md"
-        # P6: Only fall back to notes.md when no post or book file exists (Node 0 and sweeps)
+        # Only fall back to notes.md when no post or book file exists (Node 0 and sweeps)
         target_path = post_or_book if post_or_book.is_file() else notes_path
         if not target_path.is_file():
             errors.append(f"[{slug}] Missing target file for confirmed_no_delta")
             return ("NO_DELTA", "", "", [], "NO_DELTA", errors)
         expected_sha = sha256_file(target_path)
-        if m_no_delta.group(1) != expected_sha:
+        if target_path != notes_path and m_no_delta.group(1) != expected_sha:
             errors.append(
-                f"[{slug}] CRITIC confirmed_no_delta sha256 ({m_no_delta.group(1)[:12]}...) "
+                f"[{slug}] DRAFTER confirmed_no_delta sha256 ({m_no_delta.group(1)[:12]}...) "
                 f"!= {target_path.name} ({expected_sha[:12]}...)"
             )
         if notes_path.is_file():
@@ -275,93 +280,94 @@ def classify_node(
         else:
             errors.append(f"[{slug}] Missing work/{slug}/notes.md for NO_DELTA node")
         verdict, restaters, summary, v_errs = parse_critic_verdict_and_summary(
-            slug, deb_en, is_no_delta=True, require_lines=require_verdict_summary
+            slug, stage1_log, is_no_delta=True, require_lines=require_verdict_summary
         )
         errors.extend(v_errs)
-        return (verdict, expected_sha, "", restaters, summary, errors)
+        return (verdict, m_no_delta.group(1) if target_path == notes_path else expected_sha, "", restaters, summary, errors)
 
-    for p in (en_path, zh_path, deb_en_path, deb_zh_path):
+    required_files = [en_path, notes_path] if slug == "_plan-consolidation" else [en_path, zh_path, notes_path]
+    for p in required_files:
         if not p.is_file():
             errors.append(f"[{slug}] Missing {p.relative_to(ROOT)}")
     if errors:
         return ("DELTA (terminal)", "", "", [], "DELTA (terminal)", errors)
 
     en_sha = sha256_file(en_path)
-    zh_sha = sha256_file(zh_path)
-    deb_zh = deb_zh_path.read_text(encoding="utf-8")
+    zh_sha = sha256_file(zh_path) if zh_path.is_file() else ""
 
-    critic_body = r"CRITIC:\s*confirmed\b[^\n]*?" + HEX64
-    m_critic = last_match(r"^" + critic_body, deb_en)
-    if not m_critic:
+    drafter_body = r"(?:DRAFTER|CRITIC):\s*confirmed\b[^\n]*?" + HEX64
+    m_drafter = last_match(r"^" + drafter_body, stage1_log)
+    if not m_drafter:
         errors.append(
             missing_or_decorated(
                 slug,
-                "CRITIC: confirmed",
-                critic_body,
-                "debate-en.md",
-                deb_en,
+                "DRAFTER: confirmed",
+                drafter_body,
+                "notes.md",
+                stage1_log,
             )
         )
-    elif m_critic.group(1) != en_sha:
+    elif m_drafter.group(1) != en_sha:
         errors.append(
-            f"[{slug}] CRITIC sha256 ({m_critic.group(1)[:12]}...) != en.md ({en_sha[:12]}...)"
+            f"[{slug}] DRAFTER sha256 ({m_drafter.group(1)[:12]}...) != en.md ({en_sha[:12]}...)"
         )
 
-    handoff_body = r"HANDOFF_CONFIRMED:[^\n]*?" + HEX64
-    m_handoff = last_match(r"^" + handoff_body, deb_zh) or last_match(
-        r"^" + handoff_body, deb_en
-    )
-    if not m_handoff:
-        errors.append(
-            missing_or_decorated(
-                slug,
-                "HANDOFF_CONFIRMED",
-                handoff_body,
-                "debate-zh.md (or debate-en.md)",
-                deb_zh + "\n" + deb_en,
+    if slug != "_plan-consolidation":
+        handoff_body = r"HANDOFF_CONFIRMED:[^\n]*?" + HEX64
+        m_handoff = last_match(r"^" + handoff_body, stage2_log) or last_match(
+            r"^" + handoff_body, stage1_log
+        )
+        if not m_handoff:
+            errors.append(
+                missing_or_decorated(
+                    slug,
+                    "HANDOFF_CONFIRMED",
+                    handoff_body,
+                    "notes.md",
+                    stage2_log + "\n" + stage1_log,
+                )
             )
-        )
-    elif m_handoff.group(1) != en_sha:
-        errors.append(
-            f"[{slug}] HANDOFF_CONFIRMED sha256 ({m_handoff.group(1)[:12]}...) != en.md ({en_sha[:12]}...)"
-        )
+        elif m_handoff.group(1) != en_sha:
+            errors.append(
+                f"[{slug}] HANDOFF_CONFIRMED sha256 ({m_handoff.group(1)[:12]}...) != en.md ({en_sha[:12]}...)"
+            )
 
-    m_stylist = last_match(r"^STYLIST:\s*confirmed\b([^\n]*)", deb_zh)
-    if not m_stylist:
-        errors.append(
-            missing_or_decorated(
-                slug,
-                "STYLIST: confirmed",
-                r"STYLIST:\s*confirmed\b[^\n]*?\bsha256:\s*" + HEX64,
-                "debate-zh.md",
-                deb_zh,
-                with_sha256=False,
-            )
-        )
-    else:
-        tail = m_stylist.group(1)
-        m_zh_sha = re.search(r"\bsha256:\s*" + HEX64, tail)
-        m_src_sha = re.search(r"\bsource_sha256:\s*" + HEX64, tail)
-        if not m_zh_sha:
-            errors.append(f"[{slug}] STYLIST: confirmed missing 'sha256: <64-hex>'")
-        elif m_zh_sha.group(1) != zh_sha:
+        m_translator = last_match(r"^(?:TRANSLATOR|STYLIST):\s*confirmed\b([^\n]*)", stage2_log)
+        if not m_translator:
             errors.append(
-                f"[{slug}] STYLIST sha256 ({m_zh_sha.group(1)[:12]}...) != zh.md ({zh_sha[:12]}...)"
+                missing_or_decorated(
+                    slug,
+                    "TRANSLATOR: confirmed",
+                    r"(?:TRANSLATOR|STYLIST):\s*confirmed\b[^\n]*?\bsha256:\s*" + HEX64,
+                    "notes.md",
+                    stage2_log,
+                    with_sha256=False,
+                )
             )
-        if not m_src_sha:
-            errors.append(
-                f"[{slug}] STYLIST: confirmed missing 'source_sha256: <en.md 64-hex>'"
-            )
-        elif m_src_sha.group(1) != en_sha:
-            errors.append(
-                f"[{slug}] STYLIST source_sha256 ({m_src_sha.group(1)[:12]}...) != en.md ({en_sha[:12]}...)"
-            )
+        else:
+            tail = m_translator.group(1)
+            m_zh_sha = re.search(r"\bsha256:\s*" + HEX64, tail)
+            m_src_sha = re.search(r"\bsource_sha256:\s*" + HEX64, tail)
+            if not m_zh_sha:
+                errors.append(f"[{slug}] TRANSLATOR: confirmed missing 'sha256: <64-hex>'")
+            elif m_zh_sha.group(1) != zh_sha:
+                errors.append(
+                    f"[{slug}] TRANSLATOR sha256 ({m_zh_sha.group(1)[:12]}...) != zh.md ({zh_sha[:12]}...)"
+                )
+            if not m_src_sha:
+                errors.append(
+                    f"[{slug}] TRANSLATOR: confirmed missing 'source_sha256: <en.md 64-hex>'"
+                )
+            elif m_src_sha.group(1) != en_sha:
+                errors.append(
+                    f"[{slug}] TRANSLATOR source_sha256 ({m_src_sha.group(1)[:12]}...) != en.md ({en_sha[:12]}...)"
+                )
 
     if notes_path.is_file():
         errors.extend(check_locators(notes_path, slug))
 
     verdict, restaters, summary, v_errs = parse_critic_verdict_and_summary(
-        slug, deb_en, is_no_delta=False, require_lines=require_verdict_summary
+        slug, stage1_log, is_no_delta=False, require_lines=require_verdict_summary
     )
     errors.extend(v_errs)
     return (verdict, en_sha, zh_sha, restaters, summary, errors)
@@ -377,7 +383,7 @@ def extract_todo_blocks(slug: str) -> list[str]:
     items: list[str] = []
     heading_re = re.compile(r"^#{2,4}\s+For\s+`?work/todo\.md`?\b[^\n]*$", flags=re.IGNORECASE | re.MULTILINE)
     stop_re = re.compile(
-        r"\n(?:#{1,4}\s+|(?:VERDICT|SUMMARY|CRITIC|STYLIST|HANDOFF_CONFIRMED):|---+\s*$)",
+        r"\n(?:#{1,4}\s+|(?:VERDICT|SUMMARY|DRAFTER|TRANSLATOR|CRITIC|STYLIST|HANDOFF_CONFIRMED):|---+\s*$)",
         flags=re.MULTILINE,
     )
     for fname in ("notes.md", "debate-en.md", "debate-zh.md"):
@@ -395,7 +401,7 @@ def extract_todo_blocks(slug: str) -> list[str]:
                     continue
                 if re.match(r"^-\s*\(?none\)?\.?$", line, flags=re.IGNORECASE):
                     continue
-                if re.match(r"^(?:VERDICT|SUMMARY|CRITIC|STYLIST|HANDOFF_CONFIRMED):", line):
+                if re.match(r"^(?:VERDICT|SUMMARY|DRAFTER|TRANSLATOR|CRITIC|STYLIST|HANDOFF_CONFIRMED):", line):
                     continue
                 if not line.startswith("- "):
                     line = f"- {line}"
@@ -518,7 +524,7 @@ def record_batch(
                 queued_restaters.append(loc)
             if queued_restaters:
                 restater_str = " and ".join(
-                    f"`{r.split(':', 1)[0]}` (`{r}`, Critic-verified `links_in` restater)"
+                    f"`{r.split(':', 1)[0]}` (`{r}`, `links_in` restater)"
                     for r in queued_restaters
                 )
                 prop_line = (
@@ -560,7 +566,7 @@ def record_batch(
         "",
         "## Node Execution Table",
         "",
-        "| Node (`slug`) | Verdict | Stage 1 (`drafter` ⇄ `critic`) | Stage 2 (`translator` ⇄ `stylist`) | 1-Line Summary |",
+        "| Node (`slug`) | Verdict | Stage 1 (`drafter`) | Stage 2 (`translator`) | 1-Line Summary |",
         "| :--- | :--- | :--- | :--- | :--- |",
         *table_rows,
         "",

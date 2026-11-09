@@ -9,11 +9,15 @@ Tool words each adapter maps: **the ontological-clarity skill** (the house-rule 
 
 ## Essay pipeline (plan §3, §4.3, §4.5)
 
-- [`drafter`](drafter.md), [`critic`](critic.md), [`translator`](translator.md), [`stylist`](stylist.md), [`recap`](recap.md), [`batch-dispatcher`](batch-dispatcher.md)
+- [`drafter`](drafter.md), [`translator`](translator.md), [`recap`](recap.md), [`batch-dispatcher`](batch-dispatcher.md)
 
 ## Orthogonal Planning Cycle (plan §6)
 
-- [`planner`](planner.md), [`scouter`](scouter.md), [`evaluator`](evaluator.md)
+- [`planner`](planner.md), [`scouter`](scouter.md)
+
+## Retired Cold Critic Charters (2026-11-09)
+
+Cold critic roles (`critic`, `stylist`, `evaluator`, and `recap-critic`) were retired on 2026-11-09 (`docs/wave-refinement-plan.md` §1) and remain in git history.
 
 ## Media (plan §8)
 
