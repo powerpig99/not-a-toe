@@ -86,9 +86,9 @@ Mechanical succession possesses no inherent semantic validity. A landslide, an e
 
 ## 四、 不可闭合的主体间性与第一人称的不可越俎代庖 / 4. The Unclosable Inter-Subjective Field and the Inalienability of the First Person
 
-思想家固然可以在其内部世界中建立一套模型，将自己所产生的念头认定为充分由外部先验因果所摆布，他有权将自身的心智体验解释为木偶式的被动受体。然而他断然无法跨出自身的认知边界，去占据一个凌驾于所有生命之上的法庭席位，向所有其他独立的第一人称心智发布剥夺自由意志的判决文书。宇宙中不存在任何超然的司法机构，能够穿透另一个心智的内部视界，并代其裁定选择的缺位。
+思想家固然可以在其内部世界中建立一套模型，将自己所产生的念头认定为充分由外部先验因果所摆布，他有权将自身的心智体验解释为木偶式的被动受体。然而他断然无法跨出自身的认知边界，去占据一个凌驾于所有生命之上的法庭席位，向所有其他独立的第一人称心智发布剥夺自由意志的判决文书。宇宙中不存在任何超然的司法机构，能够穿透另一个心智的内部视界，并代其裁定选择的缺位。对自身立场的主权切分与跨心智归属之间的这道分界，也正是[归属的不对称](../asymmetry-of-ascription/)所追溯的。
 
-A philosopher may apply that denial to the thoughts that arise as their own, modeling consciousness as an authorless spectator of prior determinants. What they cannot do is occupy a transcendent station from which the same verdict is issued as binding upon every other first-person Mind. There is no outside court equipped to inspect another Mind's choosing and declare agency absent.
+A philosopher may apply that denial to the thoughts that arise as their own, modeling consciousness as an authorless spectator of prior determinants. What they cannot do is occupy a transcendent station from which the same verdict is issued as binding upon every other first-person Mind. There is no outside court equipped to inspect another Mind's choosing and declare agency absent, the same divide between a sovereign cut over one's own standpoint and cross-mind attribution traced in [Asymmetry of Ascription](../asymmetry-of-ascription/).
 
 正如[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)与[自由的测不准](../zi-you-de-ce-bu-zhun/)所阐明的，外部观测所得的物理可预测性或统计噪声，不过是内部主权抉择在低维外部坐标系中的投影。其他人始终保有属于自己的开阔腹地：他们可以选择接纳这套否定意志的理论，可以选择将其当作荒谬之谈予以拒绝，可以选择对其进行更高维度的深化，甚至可以用同样的主权能力构建出反向的批判武器。这种他人永远保留的能动余地，绝非任何决定论者单凭言辞就能强行封闭的禁区。因为使他人得以反思和拒绝这套言论的先验敞开性，正是当初允许思想家写下否定自由意志文稿的原生土壤。
 

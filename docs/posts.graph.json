@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-08T20:49:07.196Z",
+    "generated_at": "2026-11-09T06:43:19.154Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -277,7 +277,7 @@
       "content/posts/the-frame-that-conceals-improvement.md": "e4fefad91788",
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "1f120023244d",
       "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "5b3957b27316",
-      "content/posts/the-freedom-of-will-to-deny-itself.md": "1f8dd4fcdafe",
+      "content/posts/the-freedom-of-will-to-deny-itself.md": "05df4843513d",
       "content/posts/the-frontier-lifts-the-floor.md": "440910956459",
       "content/posts/the-frozen-cut-and-the-margin-of-the-loop.md": "ec04dfa42dd6",
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "d3f0748dc9cb",
@@ -312,7 +312,7 @@
       "content/posts/the-invisible-first-move.md": "2903f23cc112",
       "content/posts/the-invisible-gods-eye.md": "d42b49792276",
       "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "09e1af17f8a8",
-      "content/posts/the-irreducible-observer.md": "26a3b93de19e",
+      "content/posts/the-irreducible-observer.md": "282eb0fafe38",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "8b9baa73bc04",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "f12b48ed8a70",
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "a0f7699171d8",
@@ -349,7 +349,7 @@
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "8a5dcab5164f",
       "content/posts/the-paradoxical-nature-of-bystander-insights.md": "4aff15eb74da",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "a0cf68102eb0",
-      "content/posts/the-perceiver-and-the-trace.md": "ca63cdb39988",
+      "content/posts/the-perceiver-and-the-trace.md": "3ef4ce6ab500",
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "8d14b5508798",
       "content/posts/the-power-law-of-surrendered-agency.md": "b103a48206f4",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "923abff8173e",
@@ -380,7 +380,7 @@
       "content/posts/the-shadow-and-the-infinite.md": "3ac1eba8a057",
       "content/posts/the-shadow-has-no-loss.md": "d09668b8cea9",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "1a95242ef0c5",
-      "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "5d21768fd3b6",
+      "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "c19048d88214",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "dbddf9a0c7b1",
       "content/posts/the-source-of-all-harm.md": "67e9c861c682",
       "content/posts/the-source-of-shared-change.md": "96a5ac743fda",
@@ -466,10 +466,10 @@
     },
     "stats": {
       "posts": 439,
-      "edges": 13438,
-      "unique_directed": 6602,
+      "edges": 13446,
+      "unique_directed": 6606,
       "missing_targets": 0,
-      "one_way": 1312,
+      "one_way": 1308,
       "isolated": 0,
       "posts_with_outbound": 439,
       "book_pages": 16,
@@ -1238,7 +1238,7 @@
       "path": "content/posts/asymmetry-of-ascription.md",
       "title": "归属的不对称 / Asymmetry of Ascription",
       "hash": "de06a5c0d248",
-      "in_degree": 0,
+      "in_degree": 4,
       "out_degree": 10,
       "links_out": [
         "consciousness-never-appears-as-data-among-data",
@@ -8147,9 +8147,9 @@
       "slug": "the-freedom-of-will-to-deny-itself",
       "path": "content/posts/the-freedom-of-will-to-deny-itself.md",
       "title": "自由意志的自否自由 / The Freedom of Will to Deny Itself",
-      "hash": "1f8dd4fcdafe",
+      "hash": "05df4843513d",
       "in_degree": 16,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "the-closed-loop-of-representation",
         "the-blind-spot-of-the-frame",
@@ -8163,6 +8163,7 @@
         "observation-distinguishing-activity-and-the-open-ground-of-mind",
         "the-substrate-of-constraint-and-the-self-denial-of-freedom",
         "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
+        "asymmetry-of-ascription",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "zi-you-de-ce-bu-zhun"
       ]
@@ -8995,15 +8996,16 @@
       "slug": "the-irreducible-observer",
       "path": "content/posts/the-irreducible-observer.md",
       "title": "不可还原的观察者 / The Irreducible Observer",
-      "hash": "26a3b93de19e",
+      "hash": "282eb0fafe38",
       "in_degree": 22,
-      "out_degree": 18,
+      "out_degree": 19,
       "links_out": [
         "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
         "the-twin-paradox-and-the-hidden-observer",
         "subtracting-consciousness-at-the-source",
         "what-hinton-failed-to-understand",
         "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+        "asymmetry-of-ascription",
         "the-functionalism-no-functionalist-can-hold",
         "the-boundary-crossing-of-choice",
         "the-scaffolding-we-forget",
@@ -9933,11 +9935,12 @@
       "slug": "the-perceiver-and-the-trace",
       "path": "content/posts/the-perceiver-and-the-trace.md",
       "title": "感知者与痕迹的不可坍缩 / The Perceiver and the Trace Cannot Collapse",
-      "hash": "ca63cdb39988",
+      "hash": "3ef4ce6ab500",
       "in_degree": 13,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "consciousness-never-appears-as-data-among-data",
+        "asymmetry-of-ascription",
         "subtracting-consciousness-at-the-source",
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
         "beyond-the-projection",
@@ -10811,14 +10814,15 @@
       "slug": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "path": "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md",
       "title": "意识的魔术戏法与推断的非对称性 / The Sleight of Hand of Consciousness and the Asymmetry of Inference",
-      "hash": "5d21768fd3b6",
+      "hash": "c19048d88214",
       "in_degree": 12,
-      "out_degree": 10,
+      "out_degree": 11,
       "links_out": [
         "abstract-pain-and-living-hunger",
         "subtracting-consciousness-at-the-source",
         "your-codebase-is-memory",
         "silicon-oracles-and-the-asymmetry-of-consequence",
+        "asymmetry-of-ascription",
         "the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank",
         "the-irreducible-observer",
         "consciousness-never-appears-as-data-among-data",
@@ -63938,6 +63942,18 @@
     },
     {
       "from": "the-freedom-of-will-to-deny-itself",
+      "to": "asymmetry-of-ascription",
+      "rel": "points_to",
+      "label": "归属的不对称"
+    },
+    {
+      "from": "the-freedom-of-will-to-deny-itself",
+      "to": "asymmetry-of-ascription",
+      "rel": "points_to",
+      "label": "Asymmetry of Ascription"
+    },
+    {
+      "from": "the-freedom-of-will-to-deny-itself",
       "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
       "rel": "points_to",
       "label": "主权抉择的双面性与观察的客体化"
@@ -69176,6 +69192,12 @@
     },
     {
       "from": "the-irreducible-observer",
+      "to": "asymmetry-of-ascription",
+      "rel": "points_to",
+      "label": "归属的不对称"
+    },
+    {
+      "from": "the-irreducible-observer",
       "to": "the-functionalism-no-functionalist-can-hold",
       "rel": "points_to",
       "label": "功能主义者无法持有的功能主义"
@@ -69197,6 +69219,12 @@
       "to": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
       "rel": "points_to",
       "label": "The Sleight of Hand of Consciousness and the Asymmetry of Inference"
+    },
+    {
+      "from": "the-irreducible-observer",
+      "to": "asymmetry-of-ascription",
+      "rel": "points_to",
+      "label": "Asymmetry of Ascription"
     },
     {
       "from": "the-irreducible-observer",
@@ -75155,6 +75183,18 @@
       "to": "consciousness-never-appears-as-data-among-data",
       "rel": "points_to",
       "label": "Consciousness Never Appears as Data Among Data"
+    },
+    {
+      "from": "the-perceiver-and-the-trace",
+      "to": "asymmetry-of-ascription",
+      "rel": "points_to",
+      "label": "归属的不对称"
+    },
+    {
+      "from": "the-perceiver-and-the-trace",
+      "to": "asymmetry-of-ascription",
+      "rel": "points_to",
+      "label": "Asymmetry of Ascription"
     },
     {
       "from": "the-perceiver-and-the-trace",
@@ -81467,6 +81507,18 @@
       "to": "silicon-oracles-and-the-asymmetry-of-consequence",
       "rel": "points_to",
       "label": "Silicon Oracles and the Asymmetry of Consequence"
+    },
+    {
+      "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "to": "asymmetry-of-ascription",
+      "rel": "points_to",
+      "label": "归属的不对称"
+    },
+    {
+      "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
+      "to": "asymmetry-of-ascription",
+      "rel": "points_to",
+      "label": "Asymmetry of Ascription"
     },
     {
       "from": "the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference",
