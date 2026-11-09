@@ -285,7 +285,7 @@ Sivers' method of adding only what need has proven is of use in guarding against
 
 Musk assumes the present model is partly wrong and treats an explosion as loss signal, which is of use in turning every outcome into the next engineering step and compounding iterations per unit of time; it reaches its boundary in that "physics is the law" joins the written model, the friction of operation and reality itself, so the prior of being wrong stops there and a model is taken as law.
 
-→ [失败即信息 / Failure as Information](../../posts/failure-as-information/) · [“物理学才是定律”的障眼法 / The Sleight of Hand in "Physics Is the Law"](../../posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) · [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/) · [关闭选择权的代价 / The Price of Closing Optionality](../../posts/the-price-of-closing-optionality/) · [词元与观测边界 / Tokens and the Observational Boundary](../../posts/tokens-and-the-observational-boundary/) · [最小化路径 / The Minimizing Path](../../posts/minimizing-path/) · [现实扭曲力场指认的是封闭的地图 / The Reality Distortion Field Names the Closed Map](../../posts/the-reality-distortion-field-names-the-closed-map/)
+→ [失败即信息 / Failure as Information](../../posts/failure-as-information/) · [“物理学才是定律”的障眼法 / The Sleight of Hand in "Physics Is the Law"](../../posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) · [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/) · [关闭选择权的代价 / The Price of Closing Optionality](../../posts/the-price-of-closing-optionality/) · [词元与观测边界 / Tokens and the Observational Boundary](../../posts/tokens-and-the-observational-boundary/) · [最小化路径 / The Minimizing Path](../../posts/minimizing-path/) · [现实扭曲力场指认的是封闭的地图 / The Reality Distortion Field Names the Closed Map](../../posts/the-reality-distortion-field-names-the-closed-map/) · [投诉的判定与即时回路的撤离 / The Judgment That Classifies the Complaint and the Withdrawal from the Immediate Loop](../../posts/the-judgment-that-classifies-the-complaint/)
 
 ### 认知谦逊 / Epistemic Humility
 `哲学 / Philosophical`
@@ -439,6 +439,15 @@ Rousseau opens with "Man is born free, and everywhere he is in chains" and asks 
 Sartre presumes sovereign choice precedes all predetermined designations and possesses unconditioned agency, diagnosing bad faith as agency fleeing responsibility by mimicking passive objects; this premise becomes incomplete without structural constraints to provide the differential substrate for action, while remaining profoundly useful for dissecting how minds exercise sovereignty to manufacture the illusion of their own helplessness.
 
 → [约束基底与自由自否 / The Substrate of Constraint and the Self-Denial of Freedom](../../posts/the-substrate-of-constraint-and-the-self-denial-of-freedom/) · [框架的盲区 / The Blind Spot of the Frame](../../posts/the-blind-spot-of-the-frame/) · [任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences](../../posts/the-delegation-of-the-task-and-the-inalienability-of-consequences/)
+
+### 杰夫·贝索斯 / Jeff Bezos
+`经济 / Economic`
+
+贝索斯在亚马逊的实践——阅读发往其公开邮箱的来信、仅附一个“?”转发单封投诉以触发根因调查、在会议中为客户预留空椅，并在内部指标声称客服等待时间不足六十秒时当场拨打客服热线，所依据的原则是：数据与轶事不符时轶事通常是对的，这意味着应当去检验数据，因为问题通常不在于数据收集有误，而在于测量的不是该测的东西——在将鲜活的人类判定保持在即时回路之内、使汇总仪表盘接受单次摩擦遭遇的检验时有用；它在此到了边界：轶事本身也只是一份陈述，并不自带裁决，仍有待阅读者凭自身的容量与标准去检验，并对照当前的行动阈值权衡轻重，而非充当自动生效的命令。
+
+Bezos's practice at Amazon—reading messages sent to his public email address, forwarding single complaints with "?" to trigger root-cause investigation, keeping an empty chair for the customer in meetings, and dialing the support line live in a review when internal metrics claimed wait times under sixty seconds under his principle that when the data and the anecdotes disagree the anecdotes are usually right, meaning that one should examine the data because it is usually not that the data is being miscollected but that the wrong thing is being measured—is of use in keeping live human judgment inside the immediate loop so summary dashboards are tested against single encounters with friction; it reaches its boundary in that an anecdote is itself an account that does not carry its own verdict and still depends on a person's capacity and criteria to examine and weigh against current thresholds for action rather than functioning as an automatic command.
+
+→ [投诉的判定与即时回路的撤离 / The Judgment That Classifies the Complaint and the Withdrawal from the Immediate Loop](../../posts/the-judgment-that-classifies-the-complaint/)
 
 ### 杰里·福多 / Jerry Fodor
 `哲学 / Philosophical`
@@ -3059,7 +3068,7 @@ The narrative presumes immigration is a single positive force explaining America
 
 Presumes that delegating a task to an automated system also transfers the consequences of its outcome; useful for contract mechanics and the division of labor, it reaches its boundary where outcomes hold invariant across centers (rulings, liquidations, insolvency), which land on the principal who set the bounds.
 
-→ [任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences](../../posts/the-delegation-of-the-task-and-the-inalienability-of-consequences/) · [判断的密度 / The Density of Judgment](../../posts/the-density-of-judgment/) · [能动性与模式 / Agency and the Pattern](../../posts/agency-and-the-pattern/)
+→ [任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences](../../posts/the-delegation-of-the-task-and-the-inalienability-of-consequences/) · [判断的密度 / The Density of Judgment](../../posts/the-density-of-judgment/) · [能动性与模式 / Agency and the Pattern](../../posts/agency-and-the-pattern/) · [投诉的判定与即时回路的撤离 / The Judgment That Classifies the Complaint and the Withdrawal from the Immediate Loop](../../posts/the-judgment-that-classifies-the-complaint/)
 
 ### 激励机制设计 / Incentive Design
 `经济 / Economic`
@@ -5300,7 +5309,7 @@ Presumes the truth lies in the world or the text and can be retrieved without th
 
 Presumes a returning signal carries its own uptake; the same signal rewrites the next formulation in one Mind and passes through another without trace, which is where the presumption runs out, and it still holds in engineered settings where the loss was chosen in advance by a designer.
 
-→ [回返的信号与认领 / The Returning Signal and Its Claim](../../posts/the-returning-signal-and-its-claim/)
+→ [回返的信号与认领 / The Returning Signal and Its Claim](../../posts/the-returning-signal-and-its-claim/) · [投诉的判定与即时回路的撤离 / The Judgment That Classifies the Complaint and the Withdrawal from the Immediate Loop](../../posts/the-judgment-that-classifies-the-complaint/)
 
 ### 注释等同于代码 / The Comment as Functionally the Code
 `技术 / Technological`

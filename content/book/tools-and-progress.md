@@ -55,3 +55,4 @@ The essays in this part trace the codebase as externalized memory, the asymmetry
 - [交接残余 / Handing Off Residue](../../posts/handing-off-residue/)
 - [模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks](../../posts/dynamic-resnet-of-skill-loops/)
 - [多智能体协作的幻象 / The Illusion of Multi-Agent Collaboration](../../posts/the-illusion-of-multi-agent-collaboration/)
+- [投诉的判定与即时回路的撤离 / The Judgment That Classifies the Complaint and the Withdrawal from the Immediate Loop](../../posts/the-judgment-that-classifies-the-complaint/)

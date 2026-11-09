@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-09T06:43:19.154Z",
+    "generated_at": "2026-11-09T19:34:09.612Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -314,6 +314,7 @@
       "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "09e1af17f8a8",
       "content/posts/the-irreducible-observer.md": "282eb0fafe38",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "8b9baa73bc04",
+      "content/posts/the-judgment-that-classifies-the-complaint.md": "b5ab329760ea",
       "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md": "f12b48ed8a70",
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "a0f7699171d8",
       "content/posts/the-ledger-of-the-unencountered.md": "ffcdbfc26a69",
@@ -450,7 +451,7 @@
       "content/book/causality.md": "863b25c6333a",
       "content/book/consciousness.md": "5fd937c16807",
       "content/book/economics.md": "dea1e55d43f7",
-      "content/book/index-of-premises.md": "d3bbe1596552",
+      "content/book/index-of-premises.md": "958d35de8e7c",
       "content/book/intelligence.md": "3229ab371302",
       "content/book/knowledge-and-learning.md": "f4a8d1ba7f8d",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -462,19 +463,19 @@
       "content/book/preface.md": "d0065384016a",
       "content/book/state-and-collective.md": "bfcfbd5dcdfd",
       "content/book/success-and-the-self.md": "f01dc28f5833",
-      "content/book/tools-and-progress.md": "2a682044cc54"
+      "content/book/tools-and-progress.md": "5309ef6cb79b"
     },
     "stats": {
-      "posts": 439,
-      "edges": 13446,
-      "unique_directed": 6606,
+      "posts": 440,
+      "edges": 13468,
+      "unique_directed": 6617,
       "missing_targets": 0,
-      "one_way": 1308,
+      "one_way": 1319,
       "isolated": 0,
-      "posts_with_outbound": 439,
+      "posts_with_outbound": 440,
       "book_pages": 16,
-      "book_edges": 1321,
-      "posts_reached_by_book": 439
+      "book_edges": 1326,
+      "posts_reached_by_book": 440
     }
   },
   "hubs_in": [
@@ -504,7 +505,7 @@
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "in_degree": 72
+      "in_degree": 73
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -515,12 +516,12 @@
       "in_degree": 57
     },
     {
-      "slug": "mistaking-the-expression-for-the-intelligence",
+      "slug": "causality-stays-at-the-edge-that-steers",
       "in_degree": 45
     },
     {
-      "slug": "causality-stays-at-the-edge-that-steers",
-      "in_degree": 44
+      "slug": "mistaking-the-expression-for-the-intelligence",
+      "in_degree": 45
     },
     {
       "slug": "mei-you-pu-du-zhi-you-zi-du",
@@ -531,11 +532,11 @@
       "in_degree": 42
     },
     {
-      "slug": "clarity-isnt-a-state-you-arrive-at",
-      "in_degree": 40
+      "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "in_degree": 41
     },
     {
-      "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "slug": "clarity-isnt-a-state-you-arrive-at",
       "in_degree": 40
     },
     {
@@ -552,7 +553,7 @@
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
-      "in_degree": 36
+      "in_degree": 37
     },
     {
       "slug": "not-a-theory-of-everything",
@@ -1501,7 +1502,7 @@
       "path": "content/posts/causality-stays-at-the-edge-that-steers.md",
       "title": "因果停留在掌舵的边缘 / Causality Stays at the Edge That Steers",
       "hash": "aa3cabf727b3",
-      "in_degree": 44,
+      "in_degree": 45,
       "out_degree": 42,
       "links_out": [
         "what-always-listens-cannot-originate",
@@ -1785,7 +1786,7 @@
       "path": "content/posts/closed-reality-in-benchmark-maxing.md",
       "title": "基准刷榜中的封闭实存 / Closed Reality in Benchmark Maxing",
       "hash": "574180584456",
-      "in_degree": 36,
+      "in_degree": 37,
       "out_degree": 38,
       "links_out": [
         "abstraction-boundaries-and-the-moving-edge-of-reality",
@@ -2868,7 +2869,7 @@
       "path": "content/posts/failure-as-information.md",
       "title": "失败即信息 / Failure as Information",
       "hash": "11a236cd7faa",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 13,
       "links_out": [
         "hardness-is-not-inherent-in-the-action",
@@ -6682,7 +6683,7 @@
       "path": "content/posts/the-average-is-residue-not-the-engine.md",
       "title": "平均值是残余，不是引擎 / The Average Is Residue, Not the Engine",
       "hash": "b881dcae3e7d",
-      "in_degree": 28,
+      "in_degree": 29,
       "out_degree": 25,
       "links_out": [
         "the-rational-choice-postulate-is-the-original-sin",
@@ -7476,7 +7477,7 @@
       "path": "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md",
       "title": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences",
       "hash": "3205a7cd6a37",
-      "in_degree": 40,
+      "in_degree": 41,
       "out_degree": 34,
       "links_out": [
         "the-summary-first-reversal-and-the-command-of-yields",
@@ -7522,7 +7523,7 @@
       "path": "content/posts/the-density-of-judgment.md",
       "title": "判断的密度 / The Density of Judgment",
       "hash": "824c87f92b0a",
-      "in_degree": 20,
+      "in_degree": 21,
       "out_degree": 13,
       "links_out": [
         "mistaking-the-expression-for-the-intelligence",
@@ -8872,7 +8873,7 @@
       "path": "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md",
       "title": "框架的倒置与驾驶位的主权非对称 / The Inversion of the Harness and the Sovereignty of the Driver's Seat",
       "hash": "3a5779fc0793",
-      "in_degree": 24,
+      "in_degree": 25,
       "out_degree": 20,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -8904,7 +8905,7 @@
       "path": "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md",
       "title": "规程的倒置与因果回路的消声 / The Inversion of the Protocol and the Silencing of the Causal Loop",
       "hash": "2219f4f28045",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 16,
       "links_out": [
         "the-causal-inversion-of-partnership",
@@ -9038,6 +9039,29 @@
         "individual-choices-as-the-only-causal-levers",
         "your-codebase-is-memory",
         "public-spending-does-not-create-capital"
+      ]
+    },
+    {
+      "id": "post:the-judgment-that-classifies-the-complaint",
+      "kind": "post",
+      "slug": "the-judgment-that-classifies-the-complaint",
+      "path": "content/posts/the-judgment-that-classifies-the-complaint.md",
+      "title": "投诉的判定与即时回路的撤离 / The Judgment That Classifies the Complaint and the Withdrawal from the Immediate Loop",
+      "hash": "b5ab329760ea",
+      "in_degree": 0,
+      "out_degree": 11,
+      "links_out": [
+        "what-information-is",
+        "the-returning-signal-and-its-claim",
+        "closed-reality-in-benchmark-maxing",
+        "the-model-never-becomes-a-second-edge",
+        "the-density-of-judgment",
+        "the-average-is-residue-not-the-engine",
+        "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+        "failure-as-information",
+        "causality-stays-at-the-edge-that-steers",
+        "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+        "the-delegation-of-the-task-and-the-inalienability-of-consequences"
       ]
     },
     {
@@ -9488,7 +9512,7 @@
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge",
       "hash": "508ba7e870a3",
-      "in_degree": 72,
+      "in_degree": 73,
       "out_degree": 51,
       "links_out": [
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
@@ -10367,7 +10391,7 @@
       "path": "content/posts/the-returning-signal-and-its-claim.md",
       "title": "回返的信号与认领 / The Returning Signal and Its Claim",
       "hash": "973ad49b2d21",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 11,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
@@ -11855,7 +11879,7 @@
       "path": "content/posts/what-information-is.md",
       "title": "信息是什么 / What Information Is",
       "hash": "fdbab5606789",
-      "in_degree": 27,
+      "in_degree": 28,
       "out_degree": 32,
       "links_out": [
         "the-mark-and-the-act",
@@ -69461,6 +69485,138 @@
       "label": "Public Spending Does Not Create Capital"
     },
     {
+      "from": "the-judgment-that-classifies-the-complaint",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "信息是什么"
+    },
+    {
+      "from": "the-judgment-that-classifies-the-complaint",
+      "to": "the-returning-signal-and-its-claim",
+      "rel": "points_to",
+      "label": "回返的信号与认领"
+    },
+    {
+      "from": "the-judgment-that-classifies-the-complaint",
+      "to": "what-information-is",
+      "rel": "points_to",
+      "label": "What Information Is"
+    },
+    {
+      "from": "the-judgment-that-classifies-the-complaint",
+      "to": "the-returning-signal-and-its-claim",
+      "rel": "points_to",
+      "label": "The Returning Signal and Its Claim"
+    },
+    {
+      "from": "the-judgment-that-classifies-the-complaint",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "基准刷榜中的封闭实存"
+    },
+    {
+      "from": "the-judgment-that-classifies-the-complaint",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing"
+    },
+    {
+      "from": "the-judgment-that-classifies-the-complaint",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "the-judgment-that-classifies-the-complaint",
+      "to": "the-density-of-judgment",
+      "rel": "points_to",
+      "label": "判断的密度"
+    },
+    {
+      "from": "the-judgment-that-classifies-the-complaint",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
+    },
+    {
+      "from": "the-judgment-that-classifies-the-complaint",
+      "to": "the-density-of-judgment",
+      "rel": "points_to",
+      "label": "The Density of Judgment"
+    },
+    {
+      "from": "the-judgment-that-classifies-the-complaint",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "平均值是残余，不是引擎"
+    },
+    {
+      "from": "the-judgment-that-classifies-the-complaint",
+      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "rel": "points_to",
+      "label": "规程的倒置与因果回路的消声"
+    },
+    {
+      "from": "the-judgment-that-classifies-the-complaint",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "The Average Is Residue, Not the Engine"
+    },
+    {
+      "from": "the-judgment-that-classifies-the-complaint",
+      "to": "the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop",
+      "rel": "points_to",
+      "label": "The Inversion of the Protocol and the Silencing of the Causal Loop"
+    },
+    {
+      "from": "the-judgment-that-classifies-the-complaint",
+      "to": "failure-as-information",
+      "rel": "points_to",
+      "label": "失败即信息"
+    },
+    {
+      "from": "the-judgment-that-classifies-the-complaint",
+      "to": "failure-as-information",
+      "rel": "points_to",
+      "label": "Failure as Information"
+    },
+    {
+      "from": "the-judgment-that-classifies-the-complaint",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "因果停留在掌舵的边缘"
+    },
+    {
+      "from": "the-judgment-that-classifies-the-complaint",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "框架的倒置与驾驶位的主权非对称"
+    },
+    {
+      "from": "the-judgment-that-classifies-the-complaint",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "任务的移交与后果的不可让渡"
+    },
+    {
+      "from": "the-judgment-that-classifies-the-complaint",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality Stays at the Edge That Steers"
+    },
+    {
+      "from": "the-judgment-that-classifies-the-complaint",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "The Inversion of the Harness and the Sovereignty of the Driver's Seat"
+    },
+    {
+      "from": "the-judgment-that-classifies-the-complaint",
+      "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "rel": "points_to",
+      "label": "The Delegation of the Task and the Inalienability of Consequences"
+    },
+    {
       "from": "the-knowledge-problem-and-the-illusion-of-delegation",
       "to": "no-genius-can-solve-the-knowledge-problem",
       "rel": "points_to",
@@ -93232,8 +93388,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "d3bbe1596552",
-        "out_degree": 439
+        "hash": "958d35de8e7c",
+        "out_degree": 440
       },
       {
         "id": "book:intelligence",
@@ -93340,8 +93496,8 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "2a682044cc54",
-        "out_degree": 43
+        "hash": "5309ef6cb79b",
+        "out_degree": 44
       }
     ],
     "edges": [
@@ -94253,6 +94409,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-judgment-that-classifies-the-complaint",
+        "rel": "collects",
+        "label": "投诉的判定与即时回路的撤离 / The Judgment That Classifies the Complaint and the Withdrawal from the Immediate Loop"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-reality-distortion-field-inverts-the-baseline",
         "rel": "collects",
         "label": "现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline"
@@ -94400,6 +94562,12 @@
         "to": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
         "rel": "collects",
         "label": "任务的移交与后果的不可让渡 / The Delegation of the Task and the Inalienability of Consequences"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-judgment-that-classifies-the-complaint",
+        "rel": "collects",
+        "label": "投诉的判定与即时回路的撤离 / The Judgment That Classifies the Complaint and the Withdrawal from the Immediate Loop"
       },
       {
         "from": "book:index-of-premises",
@@ -96899,6 +97067,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-judgment-that-classifies-the-complaint",
+        "rel": "collects",
+        "label": "投诉的判定与即时回路的撤离 / The Judgment That Classifies the Complaint and the Withdrawal from the Immediate Loop"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "sowell-observed-the-surface-problem",
         "rel": "collects",
         "label": "索维尔的表象洞察与根因之偏 / Sowell Observed the Surface Problem"
@@ -98936,6 +99110,12 @@
         "to": "the-returning-signal-and-its-claim",
         "rel": "collects",
         "label": "回返的信号与认领 / The Returning Signal and Its Claim"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-judgment-that-classifies-the-complaint",
+        "rel": "collects",
+        "label": "投诉的判定与即时回路的撤离 / The Judgment That Classifies the Complaint and the Withdrawal from the Immediate Loop"
       },
       {
         "from": "book:index-of-premises",
@@ -101270,6 +101450,12 @@
         "to": "the-illusion-of-multi-agent-collaboration",
         "rel": "collects",
         "label": "多智能体协作的幻象 / The Illusion of Multi-Agent Collaboration"
+      },
+      {
+        "from": "book:tools-and-progress",
+        "to": "the-judgment-that-classifies-the-complaint",
+        "rel": "collects",
+        "label": "投诉的判定与即时回路的撤离 / The Judgment That Classifies the Complaint and the Withdrawal from the Immediate Loop"
       }
     ]
   }
