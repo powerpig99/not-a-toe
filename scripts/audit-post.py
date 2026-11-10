@@ -651,13 +651,25 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
                 dim = get_image_size(found_cover)
                 dim_str = f"{dim[0]}x{dim[1]}" if dim else "unknown dimensions"
 
-                # Aspect ratio advisory
+                if file_size > 350 * 1024:
+                    errors.append(
+                        f"Cover image file size ({file_size_kb:.1f} KB) exceeds the 350 KB limit: "
+                        f"compress assets/covers/{found_cover.name} (target <= 300 KB, width <= 1344, JPEG quality=85) "
+                        f"to prevent GitHub Pages syncing_files deployment timeouts."
+                    )
+
+                # Aspect ratio & dimension gate
                 if dim:
                     w, h = dim
                     ratio = w / h
-                    if w < 1000 or h < 400:
+                    if w > 1344:
+                        errors.append(
+                            f"Cover image width ({w}x{h}) exceeds the 1344px limit: "
+                            f"resize assets/covers/{found_cover.name} to 1344x576 (21:9) or width <= 1344."
+                        )
+                    elif w < 1000 or h < 400:
                         warnings.append(f"Cover image resolution ({w}x{h}) is lower than standard. Recommended: 1344x576 (21:9) or 1280x576 (20:9).")
-                    elif not (1.7 <= ratio <= 2.5):
+                    if not (1.7 <= ratio <= 2.5):
                         warnings.append(f"Cover image aspect ratio ({ratio:.2f}:1) deviates from ultra-wide landscape standard (21:9 ~ 2.33:1 or 20:9 ~ 2.22:1).")
 
                 # STYLES.md registration check

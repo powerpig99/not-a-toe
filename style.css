@@ -1001,7 +1001,7 @@ html[data-lang="en"] .about-poem-body em {
 }
 
 
-/* The film and the infographic of a post */
+/* The film and the deep dive of a post */
 .post-media {
   margin: 1.4rem 0 1.8rem;
 }
@@ -1073,54 +1073,6 @@ html[data-lang="en"] .about-poem-body em {
 .media-links a {
   text-decoration: underline;
   text-underline-offset: 0.15em;
-}
-
-.infographic {
-  margin: 1.8rem 0 2.2rem;
-  padding: 0;
-}
-
-.infographic a {
-  display: block;
-  line-height: 0;
-  border: 1px solid var(--rule);
-  border-radius: 2px;
-  overflow: hidden;
-}
-
-.infographic-frame {
-  position: relative;
-  width: 100%;
-  aspect-ratio: 1;
-  overflow: hidden;
-  border: 1px solid var(--rule);
-  border-radius: 2px;
-}
-
-.infographic-frame iframe {
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 1024px;
-  height: 1024px;
-  border: 0;
-  transform-origin: 0 0;
-}
-
-.infographic-zoom {
-  position: absolute;
-  inset: 0;
-  width: 100%;
-  padding: 0;
-  border: 0;
-  background: transparent;
-  cursor: zoom-in;
-}
-
-.infographic img {
-  display: block;
-  width: 100%;
-  height: auto;
 }
 
 /* One language at a time on a bilingual post. With no data-lang (no scripts) or with "both", everything shows. */

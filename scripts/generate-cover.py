@@ -134,6 +134,10 @@ def main():
     )
     img = output.images[0]
 
+    if img.width > 1344:
+        new_h = int(round(img.height * (1344.0 / img.width)))
+        img = img.resize((1344, new_h), Image.Resampling.LANCZOS)
+
     # Convert RGBA to RGB if saving as JPEG
     if args.format == "jpg" or out_path.suffix.lower() in (".jpg", ".jpeg"):
         if img.mode != "RGB":
@@ -144,7 +148,14 @@ def main():
             else:
                 background.paste(img)
             img = background
-        img.save(out_path, format="JPEG", quality=95, optimize=True)
+        import io
+        for q in (85, 80, 75, 70, 65):
+            buf = io.BytesIO()
+            img.save(buf, format="JPEG", quality=q, optimize=True, progressive=True)
+            data = buf.getvalue()
+            if len(data) <= 300_000 or q == 65:
+                break
+        out_path.write_bytes(data)
     else:
         img.save(out_path, format="PNG", optimize=True)
 
