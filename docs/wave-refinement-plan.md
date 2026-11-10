@@ -539,9 +539,12 @@ When a step fails or produces weak work, ask which `SKILL` or charter allowed it
 
 ---
 
-## 8. Media: End-to-End Mac Studio Set, Selective Retry, Publishing & Site Embed (`/media <slug>`)
+## 8. Media & Publishing: End-to-End Mac Studio Set (`/media`) & Standalone Publishing (`/publish`)
 
-> **Scope:** Since 2026-11-10, the full media pipeline for a post—generating the NotebookLM Studio set (with selective retry of failed/stalled outputs via `studio_state.py`), downloading the 5 audio/video outputs, generating the 3 canonical covers, drafting copy (`drafts.md`), publishing to YouTube, Spotify, 小宇宙, 微信视频号, and X, verifying proofs, and embedding on the site—runs on the Mac in `studio/runs/<slug>/` via the `/media` skill (`~/.grok/skills/media/SKILL.md` and `~/.grok/skills/media/references/*.md`), backed by the deterministic checks and publishing scripts in `studio/kits/shared/checks/` and `studio/kits/shared/tools/`. Operating detail lives in `studio/kits/shared/library/workflow.md`. (Infographics are retired going forward as of 2026-11-08.)
+> **Scope:** Since 2026-11-10, the full media pipeline runs on the Mac in `studio/runs/<id>/` via two complementary skills:
+> - **`/media <slug>`** (`~/.grok/skills/media/SKILL.md`): End-to-end post workflow (Stage 1 NotebookLM Studio set + selective retry via `studio_state.py`, Stages 2–3 via `/publish <slug>`, Stage 4 site embed into `data/{youtube,spotify}.json` & deploy).
+> - **`/publish <slug-or-job-id>`** (`~/.grok/skills/publish/SKILL.md` + `references/{covers-and-copy.md,platform-publish.md}`): Dedicated multi-platform publishing skill for both `not-a-toe` posts (`/publish <slug>`) and **standalone / non-post media releases** (`/publish <job-id> --standalone [--platforms youtube,spotify,xiaoyuzhou,shipinhao,x]`, with `--allow-partial-covers` when only a subset of platforms/covers is needed).
+> Backed by the deterministic checks and publishing scripts in `studio/kits/shared/checks/` and `studio/kits/shared/tools/`. Operating detail lives in `studio/kits/shared/library/workflow.md`. (Infographics are removed completely.)
 
 ### 8.1 End-to-End Stages & Selective NotebookLM Retry (`studio/runs/<slug>/`)
 1. **Stage 1 — NotebookLM Studio Set & Selective Retry (`studio_state.py`):** Tracks `notebook_url` and each of the 6 standard Studio outputs (`deep_dive_en` Long, `deep_dive_zh` Default, `interactive_report` + `mind_map`/`flashcards`/`quiz`, `explainer_en`, `explainer_zh`, `cinematic_en`) in `studio/runs/<slug>/studio-state.json` across states `missing | generating | ready | failed | stalled | downloaded`. On `/media <slug> --retry`, completed (`ready`/`downloaded`) outputs are preserved untouched and only `failed` or `stalled` outputs are deleted and re-triggered in the NotebookLM Studio panel.
