@@ -281,7 +281,7 @@ gh workflow run deploy.yml --ref main
 gh run watch --exit-status
 ```
 
-Workflow: [`.github/workflows/deploy.yml`](../../.github/workflows/deploy.yml) — `push` to `main` and `workflow_dispatch`. Manual dispatch is the escape hatch when push webhooks lag or fail to start.
+Workflow: [`.github/workflows/deploy.yml`](../../.github/workflows/deploy.yml) — `push` to `main` and `workflow_dispatch`. Manual dispatch is the escape hatch when push webhooks lag or fail to start. Note: if a run times out inside `actions/deploy-pages`, GitHub Pages cancels that commit's `GITHUB_SHA` permanently (`Deployment cancelled` on re-run), so retry requires a fresh SHA (`git commit --allow-empty -m "chore(deploy): retry pages deploy" && git push origin main && gh workflow run deploy.yml --ref main`).
 
 ### 4. Verify live (required before “published”)
 
@@ -311,7 +311,7 @@ git add content/posts/"$SLUG".md assets/covers/"$SLUG".jpg assets/covers/STYLES.
 # plus neighbor reverse-link files and same-axis consistency nicks when edited
 git commit -m "Add <title> essay"
 git push origin main
-gh run watch --exit-status || { gh workflow run deploy.yml --ref main && gh run watch --exit-status; }
+bash scripts/watch-deploy.sh || { git commit --allow-empty -m "chore(deploy): retry pages deploy" && git push origin main && gh workflow run deploy.yml --ref main && bash scripts/watch-deploy.sh; }
 curl -sI "https://powerpig99.github.io/not-a-toe/posts/${SLUG}/" | head -1
 curl -sI "https://powerpig99.github.io/not-a-toe/covers/${SLUG}.jpg" | head -1
 ```
