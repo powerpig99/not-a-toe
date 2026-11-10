@@ -77,3 +77,4 @@ The essays in this part trace the category boundaries of the Turing and Einstein
 - [指令与载荷的双重切分 / The Dual Cut of Command and Payload](../../posts/the-dual-cut/)
 - [观察中的智能与残余间隙 / Intelligence in Observation and the Residual Gap](../../posts/intelligence-in-observation-and-the-residual-gap/)
 - [清洁的平均与残余的抉择 / Clean Averaging and Residual Choice](../../posts/clean-averaging-and-residual-choice/)
+- [限制即自我限制 / Every Limitation Is Self-Limitation](../../posts/every-limitation-is-self-limitation/)

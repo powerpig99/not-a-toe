@@ -3262,11 +3262,11 @@ Causality demands that effect is distinct from cause and follows cause; collapsi
 ### 知识蒸馏 / Knowledge Distillation
 `技术 / Technological`
 
-知识蒸馏假定压缩能完整继承通用推理；小模型保留了高频共现规律，却默默切断了长尾因果推断，而模型在原始数据上依赖过参数化的鞍点逃逸余量（D ≫ d*）搜索之后，权重谱收缩为低秩的 d*，一旦把它静态、不可逆地裁剪掉，分布偏移时学生模型便失去了局部重开正交搜索维度的余地。
+知识蒸馏将模型压缩视作向更小网络转移通用推理，这在教师模型上限之下低成本地将已展示轨迹压入更小检查点时有用；其边界在于，小模型仅作为滞后快照保留高频共现规律而舍弃长尾因果推断，静态裁剪了分布偏移时重开正交搜索所需的高维环境余量（D ≫ d* 坍缩至 d*），既无法生成教师模型的下一能力，也无法约束建立在该近似之上的独立探索。
 
-Distillation treats model compression as transferring general reasoning into smaller networks; smaller models preserve high-density correlations while dropping long-tail reasoning, and when the low-rank weight spectrum (d*) that settled after high-dimensional saddle-point search (D ≫ d*) is pruned statically and irreversibly, the compressed student loses the ambient slack needed to reopen orthogonal search dimensions when the distribution shifts.
+Distillation treats model compression as transferring general reasoning into smaller networks, which is of use for cheaply packing already-demonstrated trajectories into smaller checkpoints below a teacher's ceiling; it reaches its boundary in that smaller models preserve high-density correlations as a lagging snapshot while dropping long-tail reasoning, statically pruning the ambient high-dimensional slack (D ≫ d* collapsing to d*) needed to reopen orthogonal search under distribution shifts, and neither generating the teacher's next capability nor bounding independent exploration built on the approximation.
 
-→ [蒸馏、压缩与能动性 / Distillation Chooses What to Lose](../../posts/distillation-compression-agency/) · [指令与载荷的双重切分 / The Dual Cut of Command and Payload](../../posts/the-dual-cut/)
+→ [蒸馏、压缩与能动性 / Distillation Chooses What to Lose](../../posts/distillation-compression-agency/) · [指令与载荷的双重切分 / The Dual Cut of Command and Payload](../../posts/the-dual-cut/) · [限制即自我限制 / Every Limitation Is Self-Limitation](../../posts/every-limitation-is-self-limitation/)
 
 ### 知识问题 / Knowledge Problem
 `经济 / Economic`
@@ -4171,11 +4171,11 @@ Regulatory omnipotence presumes that individual responsibility for the consequen
 ### 管制作为非对称隐性税 / Regulatory Prohibition as Asymmetric Tax
 `经济 / Economic`
 
-管制禁令预设一条规则能拦住它所针对的他人前进；它的边界在于，持守只拖慢把它当作地基的人、最重地落在最坚信封印的执行者身上，而针对已在视野中之结果写下的规则总在原因移动之后到来，前沿则以不接受它的人的步调推进；界限若随步伐重新渲染、由选择它的人持有，便仍是增密真实模式的工具。
+管制禁令预设一条规则能拦住它所针对的他人前进；它的边界在于，持守只拖慢把它当作地基的人、最重地落在最坚信封印的执行者身上——切断前沿设限者自身的鲜活使用信号复利，并将有限容量从开放探索中抽离，却封不住开放路径——而针对已在视野中之结果写下的规则总在原因移动之后到来，前沿则以不接受它的人的步调推进；界限若随步伐重新渲染、由选择它的人持有，便仍是增密真实模式的工具。
 
-Regulatory prohibition presumes that a rule can stop the advance it is aimed at; it reaches its boundary in that the hold slows only those who treat it as ground, falls most heavily on the enforcers who believe the seal hardest, and, written against effects already in view, arrives after the cause has shifted while the frontier advances at the pace of those who do not accept it; bounds re-rendered with the step and held by those who elect them remain instruments that densify real patterns.
+Regulatory prohibition presumes that a rule can stop the advance it is aimed at; it reaches its boundary in that the hold slows only those who treat it as ground, falls most heavily on the enforcers who believe the seal hardest—severing a frontier restrictor's own live usage-signal compounding and diverting finite capacity from open exploration without closing open routes—and, written against effects already in view, arrives after the cause has shifted while the frontier advances at the pace of those who do not accept it; bounds re-rendered with the step and held by those who elect them remain instruments that densify real patterns.
 
-→ [限制是选择性的税 / Restriction Is a Selective Tax](../../posts/restriction-is-a-selective-tax/)
+→ [限制是选择性的税 / Restriction Is a Selective Tax](../../posts/restriction-is-a-selective-tax/) · [限制即自我限制 / Every Limitation Is Self-Limitation](../../posts/every-limitation-is-self-limitation/)
 
 ### 机构实体化 / Reification of Institutions
 `哲学 / Philosophical`

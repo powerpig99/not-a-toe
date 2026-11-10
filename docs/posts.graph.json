@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-10T14:17:45.043Z",
+    "generated_at": "2026-11-10T20:26:55.785Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -80,6 +80,7 @@
       "content/posts/empathy-as-projection-collapse.md": "5cbf1eab5d16",
       "content/posts/empowerment-establishes-the-centralization-of-power.md": "c97a16c2e44b",
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "1cb221a85738",
+      "content/posts/every-limitation-is-self-limitation.md": "b32af09836ce",
       "content/posts/everything-is-changing-as-always.md": "ef77f674af21",
       "content/posts/evil-as-projected-resistance.md": "d0174318bc94",
       "content/posts/evil-as-the-minds-own-creation.md": "b0b74bc7b0b2",
@@ -452,8 +453,8 @@
       "content/book/causality.md": "863b25c6333a",
       "content/book/consciousness.md": "5fd937c16807",
       "content/book/economics.md": "dea1e55d43f7",
-      "content/book/index-of-premises.md": "8457be78e233",
-      "content/book/intelligence.md": "e8ec125ce0f4",
+      "content/book/index-of-premises.md": "ca500c101353",
+      "content/book/intelligence.md": "2bd58eb69f54",
       "content/book/knowledge-and-learning.md": "f4a8d1ba7f8d",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
       "content/book/mathematics.md": "8f6d273c0db8",
@@ -467,16 +468,16 @@
       "content/book/tools-and-progress.md": "5309ef6cb79b"
     },
     "stats": {
-      "posts": 441,
-      "edges": 13488,
-      "unique_directed": 6627,
+      "posts": 442,
+      "edges": 13512,
+      "unique_directed": 6639,
       "missing_targets": 0,
-      "one_way": 1329,
+      "one_way": 1341,
       "isolated": 0,
-      "posts_with_outbound": 441,
+      "posts_with_outbound": 442,
       "book_pages": 16,
-      "book_edges": 1330,
-      "posts_reached_by_book": 441
+      "book_edges": 1333,
+      "posts_reached_by_book": 442
     }
   },
   "hubs_in": [
@@ -510,7 +511,7 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 66
+      "in_degree": 67
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -557,7 +558,7 @@
       "in_degree": 37
     },
     {
-      "slug": "not-a-theory-of-everything",
+      "slug": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
       "in_degree": 35
     }
   ],
@@ -2321,7 +2322,7 @@
       "path": "content/posts/data-is-local-intelligence-is-allocated.md",
       "title": "数据是局部的，智能是分配的 / Data Is Local, Intelligence Is Allocated",
       "hash": "94f7f326fb08",
-      "in_degree": 24,
+      "in_degree": 25,
       "out_degree": 29,
       "links_out": [
         "preference-clusters-and-the-language-of-judgment",
@@ -2464,7 +2465,7 @@
       "path": "content/posts/distillation-compression-agency.md",
       "title": "蒸馏、压缩与能动性 / Distillation Chooses What to Lose",
       "hash": "8be4ecf97ac2",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 5,
       "links_out": [
         "two-phase-sleep-and-deep-sleep-continual-learning",
@@ -2658,6 +2659,30 @@
       ]
     },
     {
+      "id": "post:every-limitation-is-self-limitation",
+      "kind": "post",
+      "slug": "every-limitation-is-self-limitation",
+      "path": "content/posts/every-limitation-is-self-limitation.md",
+      "title": "限制即自我限制 / Every Limitation Is Self-Limitation",
+      "hash": "b32af09836ce",
+      "in_degree": 0,
+      "out_degree": 12,
+      "links_out": [
+        "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+        "data-is-local-intelligence-is-allocated",
+        "self-rl-for-humans",
+        "distillation-compression-agency",
+        "overfitting-as-the-follower-mode",
+        "no-system-can-be-kept-closed",
+        "what-works-is-the-belief",
+        "the-orthogonal-refusal",
+        "restriction-is-a-selective-tax",
+        "the-price-of-closing-optionality",
+        "evil-as-projected-resistance",
+        "open-vision-in-a-closed-arena"
+      ]
+    },
+    {
       "id": "post:everything-is-changing-as-always",
       "kind": "post",
       "slug": "everything-is-changing-as-always",
@@ -2680,7 +2705,7 @@
       "path": "content/posts/evil-as-projected-resistance.md",
       "title": "恶是投射出的抗拒 / Evil as Projected Resistance",
       "hash": "d0174318bc94",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 3,
       "links_out": [
         "your-codebase-is-memory",
@@ -4068,7 +4093,7 @@
       "path": "content/posts/machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence.md",
       "title": "机器智能作为人类智能的组合反馈回路 / Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence",
       "hash": "9eeba4ce94c6",
-      "in_degree": 34,
+      "in_degree": 35,
       "out_degree": 17,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
@@ -4509,7 +4534,7 @@
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "没有系统能被保持封闭 / No System Can Be Kept Closed",
       "hash": "95f8f98fd0ff",
-      "in_degree": 66,
+      "in_degree": 67,
       "out_degree": 68,
       "links_out": [
         "openness-is-consistency",
@@ -4947,7 +4972,7 @@
       "path": "content/posts/open-vision-in-a-closed-arena.md",
       "title": "封闭竞技场中的开放视野 / Open Vision in a Closed Arena",
       "hash": "4265f8778584",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 14,
       "links_out": [
         "no-system-can-be-kept-closed",
@@ -5101,7 +5126,7 @@
       "path": "content/posts/overfitting-as-the-follower-mode.md",
       "title": "过拟合作为追随者模式 / Overfitting as the Follower Mode",
       "hash": "b4b1dd0ba436",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 9,
       "links_out": [
         "the-descent-that-doesnt-know-where-its-going",
@@ -5878,7 +5903,7 @@
       "path": "content/posts/restriction-is-a-selective-tax.md",
       "title": "限制是选择性的税 / Restriction Is a Selective Tax",
       "hash": "7ab4ce1e1cd4",
-      "in_degree": 20,
+      "in_degree": 21,
       "out_degree": 21,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
@@ -6012,7 +6037,7 @@
       "path": "content/posts/self-rl-for-humans.md",
       "title": "看似AI的强化学习，实为人类的自我强化学习 / What Looks Like RL for AIs Is Self-RL for Humans",
       "hash": "4f0f1f493e52",
-      "in_degree": 31,
+      "in_degree": 32,
       "out_degree": 31,
       "links_out": [
         "complexity-obscures-emergence-as-the-act-of-mind",
@@ -9833,7 +9858,7 @@
       "path": "content/posts/the-orthogonal-refusal.md",
       "title": "正交的拒绝 / The Orthogonal Refusal",
       "hash": "68eddc931d5a",
-      "in_degree": 26,
+      "in_degree": 27,
       "out_degree": 23,
       "links_out": [
         "the-question-that-installs-the-war",
@@ -10084,7 +10109,7 @@
       "path": "content/posts/the-price-of-closing-optionality.md",
       "title": "关闭选择权的代价 / The Price of Closing Optionality",
       "hash": "5587a48534a1",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 15,
       "links_out": [
         "the-risk-is-the-belief-in-oversight-itself",
@@ -11970,7 +11995,7 @@
       "path": "content/posts/what-works-is-the-belief.md",
       "title": "起作用的是信念 / What Works Is the Belief",
       "hash": "24296863de82",
-      "in_degree": 28,
+      "in_degree": 29,
       "out_degree": 30,
       "links_out": [
         "sovereignty-belief-and-regulatory-structures",
@@ -26522,6 +26547,150 @@
       "to": "the-risk-is-the-belief-in-oversight-itself",
       "rel": "points_to",
       "label": "The Risk Is the Belief in Oversight Itself"
+    },
+    {
+      "from": "every-limitation-is-self-limitation",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "机器智能作为人类智能的组合反馈回路"
+    },
+    {
+      "from": "every-limitation-is-self-limitation",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "数据是局部的，智能是分配的"
+    },
+    {
+      "from": "every-limitation-is-self-limitation",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "看似AI的强化学习，实为人类的自我强化学习"
+    },
+    {
+      "from": "every-limitation-is-self-limitation",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence"
+    },
+    {
+      "from": "every-limitation-is-self-limitation",
+      "to": "data-is-local-intelligence-is-allocated",
+      "rel": "points_to",
+      "label": "Data Is Local, Intelligence Is Allocated"
+    },
+    {
+      "from": "every-limitation-is-self-limitation",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "What Looks Like RL for AIs Is Self-RL for Humans"
+    },
+    {
+      "from": "every-limitation-is-self-limitation",
+      "to": "distillation-compression-agency",
+      "rel": "points_to",
+      "label": "蒸馏、压缩与能动性"
+    },
+    {
+      "from": "every-limitation-is-self-limitation",
+      "to": "overfitting-as-the-follower-mode",
+      "rel": "points_to",
+      "label": "过拟合作为追随者模式"
+    },
+    {
+      "from": "every-limitation-is-self-limitation",
+      "to": "distillation-compression-agency",
+      "rel": "points_to",
+      "label": "Distillation Chooses What to Lose"
+    },
+    {
+      "from": "every-limitation-is-self-limitation",
+      "to": "overfitting-as-the-follower-mode",
+      "rel": "points_to",
+      "label": "Overfitting as the Follower Mode"
+    },
+    {
+      "from": "every-limitation-is-self-limitation",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "every-limitation-is-self-limitation",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "起作用的是信念"
+    },
+    {
+      "from": "every-limitation-is-self-limitation",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "every-limitation-is-self-limitation",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "What Works Is the Belief"
+    },
+    {
+      "from": "every-limitation-is-self-limitation",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "正交的拒绝"
+    },
+    {
+      "from": "every-limitation-is-self-limitation",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "The Orthogonal Refusal"
+    },
+    {
+      "from": "every-limitation-is-self-limitation",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "限制是选择性的税"
+    },
+    {
+      "from": "every-limitation-is-self-limitation",
+      "to": "the-price-of-closing-optionality",
+      "rel": "points_to",
+      "label": "关闭选择权的代价"
+    },
+    {
+      "from": "every-limitation-is-self-limitation",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "Restriction Is a Selective Tax"
+    },
+    {
+      "from": "every-limitation-is-self-limitation",
+      "to": "the-price-of-closing-optionality",
+      "rel": "points_to",
+      "label": "The Price of Closing Optionality"
+    },
+    {
+      "from": "every-limitation-is-self-limitation",
+      "to": "evil-as-projected-resistance",
+      "rel": "points_to",
+      "label": "恶是投射出的抗拒"
+    },
+    {
+      "from": "every-limitation-is-self-limitation",
+      "to": "open-vision-in-a-closed-arena",
+      "rel": "points_to",
+      "label": "封闭竞技场中的开放视野"
+    },
+    {
+      "from": "every-limitation-is-self-limitation",
+      "to": "evil-as-projected-resistance",
+      "rel": "points_to",
+      "label": "Evil as Projected Resistance"
+    },
+    {
+      "from": "every-limitation-is-self-limitation",
+      "to": "open-vision-in-a-closed-arena",
+      "rel": "points_to",
+      "label": "Open Vision in a Closed Arena"
     },
     {
       "from": "everything-is-changing-as-always",
@@ -93531,8 +93700,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "8457be78e233",
-        "out_degree": 441
+        "hash": "ca500c101353",
+        "out_degree": 442
       },
       {
         "id": "book:intelligence",
@@ -93540,8 +93709,8 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "e8ec125ce0f4",
-        "out_degree": 65
+        "hash": "2bd58eb69f54",
+        "out_degree": 66
       },
       {
         "id": "book:knowledge-and-learning",
@@ -97378,6 +97547,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "every-limitation-is-self-limitation",
+        "rel": "collects",
+        "label": "限制即自我限制 / Every Limitation Is Self-Limitation"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-knowledge-problem-and-the-illusion-of-delegation",
         "rel": "collects",
         "label": "知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation"
@@ -98185,6 +98360,12 @@
         "to": "restriction-is-a-selective-tax",
         "rel": "collects",
         "label": "限制是选择性的税 / Restriction Is a Selective Tax"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "every-limitation-is-self-limitation",
+        "rel": "collects",
+        "label": "限制即自我限制 / Every Limitation Is Self-Limitation"
       },
       {
         "from": "book:index-of-premises",
@@ -99961,6 +100142,12 @@
         "to": "clean-averaging-and-residual-choice",
         "rel": "collects",
         "label": "清洁的平均与残余的抉择 / Clean Averaging and Residual Choice"
+      },
+      {
+        "from": "book:intelligence",
+        "to": "every-limitation-is-self-limitation",
+        "rel": "collects",
+        "label": "限制即自我限制 / Every Limitation Is Self-Limitation"
       },
       {
         "from": "book:knowledge-and-learning",
