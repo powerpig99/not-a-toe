@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-09T20:52:17.497Z",
+    "generated_at": "2026-11-10T14:17:45.043Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -44,6 +44,7 @@
       "content/posts/chollet-intelligence-explosion-analysis.md": "c8c3e191336b",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "b2def21d59e6",
       "content/posts/claudes-constitution-analysis.md": "58bd3d6c3edb",
+      "content/posts/clean-averaging-and-residual-choice.md": "b8f37599a129",
       "content/posts/cli-interface-stack.md": "8ce49c41c258",
       "content/posts/climbing-does-not-leave-the-ground.md": "a0be7e00b7db",
       "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "696247154b5d",
@@ -451,8 +452,8 @@
       "content/book/causality.md": "863b25c6333a",
       "content/book/consciousness.md": "5fd937c16807",
       "content/book/economics.md": "dea1e55d43f7",
-      "content/book/index-of-premises.md": "958d35de8e7c",
-      "content/book/intelligence.md": "3229ab371302",
+      "content/book/index-of-premises.md": "8457be78e233",
+      "content/book/intelligence.md": "e8ec125ce0f4",
       "content/book/knowledge-and-learning.md": "f4a8d1ba7f8d",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
       "content/book/mathematics.md": "8f6d273c0db8",
@@ -466,16 +467,16 @@
       "content/book/tools-and-progress.md": "5309ef6cb79b"
     },
     "stats": {
-      "posts": 440,
-      "edges": 13468,
-      "unique_directed": 6617,
+      "posts": 441,
+      "edges": 13488,
+      "unique_directed": 6627,
       "missing_targets": 0,
-      "one_way": 1319,
+      "one_way": 1329,
       "isolated": 0,
-      "posts_with_outbound": 440,
+      "posts_with_outbound": 441,
       "book_pages": 16,
-      "book_edges": 1326,
-      "posts_reached_by_book": 440
+      "book_edges": 1330,
+      "posts_reached_by_book": 441
     }
   },
   "hubs_in": [
@@ -505,7 +506,7 @@
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
-      "in_degree": 73
+      "in_degree": 74
     },
     {
       "slug": "no-system-can-be-kept-closed",
@@ -517,7 +518,7 @@
     },
     {
       "slug": "causality-stays-at-the-edge-that-steers",
-      "in_degree": 45
+      "in_degree": 46
     },
     {
       "slug": "mistaking-the-expression-for-the-intelligence",
@@ -870,7 +871,7 @@
       "path": "content/posts/agency-and-the-pattern.md",
       "title": "能动性与模式 / Agency and the Pattern",
       "hash": "dc840aca46bf",
-      "in_degree": 20,
+      "in_degree": 21,
       "out_degree": 27,
       "links_out": [
         "silicon-oracles-and-the-asymmetry-of-consequence",
@@ -1366,7 +1367,7 @@
       "path": "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md",
       "title": "递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems",
       "hash": "5918317b1cbf",
-      "in_degree": 21,
+      "in_degree": 22,
       "out_degree": 15,
       "links_out": [
         "no-system-can-be-kept-closed",
@@ -1502,7 +1503,7 @@
       "path": "content/posts/causality-stays-at-the-edge-that-steers.md",
       "title": "因果停留在掌舵的边缘 / Causality Stays at the Edge That Steers",
       "hash": "aa3cabf727b3",
-      "in_degree": 45,
+      "in_degree": 46,
       "out_degree": 42,
       "links_out": [
         "what-always-listens-cannot-originate",
@@ -1683,6 +1684,28 @@
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
         "your-codebase-is-memory",
         "the-orthogonal-refusal"
+      ]
+    },
+    {
+      "id": "post:clean-averaging-and-residual-choice",
+      "kind": "post",
+      "slug": "clean-averaging-and-residual-choice",
+      "path": "content/posts/clean-averaging-and-residual-choice.md",
+      "title": "清洁的平均与残余的抉择 / Clean Averaging and Residual Choice",
+      "hash": "b8f37599a129",
+      "in_degree": 0,
+      "out_degree": 10,
+      "links_out": [
+        "the-real-lesson-from-the-consciousness-vector-paper",
+        "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+        "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+        "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+        "intelligence-in-observation-and-the-residual-gap",
+        "the-density-of-judgment",
+        "the-average-is-residue-not-the-engine",
+        "agency-and-the-pattern",
+        "causality-stays-at-the-edge-that-steers",
+        "the-model-never-becomes-a-second-edge"
       ]
     },
     {
@@ -3826,7 +3849,7 @@
       "path": "content/posts/intelligence-in-observation-and-the-residual-gap.md",
       "title": "观察中的智能与残余间隙 / Intelligence in Observation and the Residual Gap",
       "hash": "6597f69963a6",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -4045,7 +4068,7 @@
       "path": "content/posts/machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence.md",
       "title": "机器智能作为人类智能的组合反馈回路 / Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence",
       "hash": "9eeba4ce94c6",
-      "in_degree": 33,
+      "in_degree": 34,
       "out_degree": 17,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
@@ -6683,7 +6706,7 @@
       "path": "content/posts/the-average-is-residue-not-the-engine.md",
       "title": "平均值是残余，不是引擎 / The Average Is Residue, Not the Engine",
       "hash": "b881dcae3e7d",
-      "in_degree": 29,
+      "in_degree": 30,
       "out_degree": 25,
       "links_out": [
         "the-rational-choice-postulate-is-the-original-sin",
@@ -7523,7 +7546,7 @@
       "path": "content/posts/the-density-of-judgment.md",
       "title": "判断的密度 / The Density of Judgment",
       "hash": "824c87f92b0a",
-      "in_degree": 21,
+      "in_degree": 22,
       "out_degree": 13,
       "links_out": [
         "mistaking-the-expression-for-the-intelligence",
@@ -8873,7 +8896,7 @@
       "path": "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md",
       "title": "框架的倒置与驾驶位的主权非对称 / The Inversion of the Harness and the Sovereignty of the Driver's Seat",
       "hash": "3a5779fc0793",
-      "in_degree": 25,
+      "in_degree": 26,
       "out_degree": 20,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -9512,7 +9535,7 @@
       "path": "content/posts/the-model-never-becomes-a-second-edge.md",
       "title": "模型永远无法成为第二重前沿 / The Model Never Becomes a Second Edge",
       "hash": "508ba7e870a3",
-      "in_degree": 73,
+      "in_degree": 74,
       "out_degree": 51,
       "links_out": [
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
@@ -10171,7 +10194,7 @@
       "path": "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md",
       "title": "意识向量论文的真正教训 / The Real Lesson from the Consciousness Vector Paper",
       "hash": "6036be35fe63",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 18,
       "links_out": [
         "what-works-is-the-belief",
@@ -19911,6 +19934,126 @@
       "to": "the-orthogonal-refusal",
       "rel": "points_to",
       "label": "The Orthogonal Refusal"
+    },
+    {
+      "from": "clean-averaging-and-residual-choice",
+      "to": "the-real-lesson-from-the-consciousness-vector-paper",
+      "rel": "points_to",
+      "label": "意识向量论文的真正教训"
+    },
+    {
+      "from": "clean-averaging-and-residual-choice",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "机器智能作为人类智能的组合反馈回路"
+    },
+    {
+      "from": "clean-averaging-and-residual-choice",
+      "to": "the-real-lesson-from-the-consciousness-vector-paper",
+      "rel": "points_to",
+      "label": "The Real Lesson from the Consciousness Vector Paper"
+    },
+    {
+      "from": "clean-averaging-and-residual-choice",
+      "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
+      "rel": "points_to",
+      "label": "Machine Intelligence as the Combinatorial Feedback Loop of Human Intelligence"
+    },
+    {
+      "from": "clean-averaging-and-residual-choice",
+      "to": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+      "rel": "points_to",
+      "label": "递归形式系统中作为记忆与控制的边界条件图"
+    },
+    {
+      "from": "clean-averaging-and-residual-choice",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "框架的倒置与驾驶位的主权非对称"
+    },
+    {
+      "from": "clean-averaging-and-residual-choice",
+      "to": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+      "rel": "points_to",
+      "label": "Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems"
+    },
+    {
+      "from": "clean-averaging-and-residual-choice",
+      "to": "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
+      "rel": "points_to",
+      "label": "The Inversion of the Harness and the Sovereignty of the Driver's Seat"
+    },
+    {
+      "from": "clean-averaging-and-residual-choice",
+      "to": "intelligence-in-observation-and-the-residual-gap",
+      "rel": "points_to",
+      "label": "观察中的智能与残余间隙"
+    },
+    {
+      "from": "clean-averaging-and-residual-choice",
+      "to": "intelligence-in-observation-and-the-residual-gap",
+      "rel": "points_to",
+      "label": "Intelligence in Observation and the Residual Gap"
+    },
+    {
+      "from": "clean-averaging-and-residual-choice",
+      "to": "the-density-of-judgment",
+      "rel": "points_to",
+      "label": "判断的密度"
+    },
+    {
+      "from": "clean-averaging-and-residual-choice",
+      "to": "the-density-of-judgment",
+      "rel": "points_to",
+      "label": "The Density of Judgment"
+    },
+    {
+      "from": "clean-averaging-and-residual-choice",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "平均值是残余，不是引擎"
+    },
+    {
+      "from": "clean-averaging-and-residual-choice",
+      "to": "agency-and-the-pattern",
+      "rel": "points_to",
+      "label": "能动性与模式"
+    },
+    {
+      "from": "clean-averaging-and-residual-choice",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "The Average Is Residue, Not the Engine"
+    },
+    {
+      "from": "clean-averaging-and-residual-choice",
+      "to": "agency-and-the-pattern",
+      "rel": "points_to",
+      "label": "Agency and the Pattern"
+    },
+    {
+      "from": "clean-averaging-and-residual-choice",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "因果停留在掌舵的边缘"
+    },
+    {
+      "from": "clean-averaging-and-residual-choice",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "模型永远无法成为第二重前沿"
+    },
+    {
+      "from": "clean-averaging-and-residual-choice",
+      "to": "causality-stays-at-the-edge-that-steers",
+      "rel": "points_to",
+      "label": "Causality Stays at the Edge That Steers"
+    },
+    {
+      "from": "clean-averaging-and-residual-choice",
+      "to": "the-model-never-becomes-a-second-edge",
+      "rel": "points_to",
+      "label": "The Model Never Becomes a Second Edge"
     },
     {
       "from": "cli-interface-stack",
@@ -93388,8 +93531,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "958d35de8e7c",
-        "out_degree": 440
+        "hash": "8457be78e233",
+        "out_degree": 441
       },
       {
         "id": "book:intelligence",
@@ -93397,8 +93540,8 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "3229ab371302",
-        "out_degree": 64
+        "hash": "e8ec125ce0f4",
+        "out_degree": 65
       },
       {
         "id": "book:knowledge-and-learning",
@@ -98327,6 +98470,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "clean-averaging-and-residual-choice",
+        "rel": "collects",
+        "label": "清洁的平均与残余的抉择 / Clean Averaging and Residual Choice"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "causality-stays-at-the-edge-that-steers",
         "rel": "collects",
         "label": "因果停留在掌舵的边缘 / Causality Stays at the Edge That Steers"
@@ -99209,9 +99358,21 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "clean-averaging-and-residual-choice",
+        "rel": "collects",
+        "label": "清洁的平均与残余的抉择 / Clean Averaging and Residual Choice"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
         "rel": "collects",
         "label": "递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "clean-averaging-and-residual-choice",
+        "rel": "collects",
+        "label": "清洁的平均与残余的抉择 / Clean Averaging and Residual Choice"
       },
       {
         "from": "book:index-of-premises",
@@ -99794,6 +99955,12 @@
         "to": "intelligence-in-observation-and-the-residual-gap",
         "rel": "collects",
         "label": "观察中的智能与残余间隙 / Intelligence in Observation and the Residual Gap"
+      },
+      {
+        "from": "book:intelligence",
+        "to": "clean-averaging-and-residual-choice",
+        "rel": "collects",
+        "label": "清洁的平均与残余的抉择 / Clean Averaging and Residual Choice"
       },
       {
         "from": "book:knowledge-and-learning",

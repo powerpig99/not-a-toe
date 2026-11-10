@@ -4513,11 +4513,11 @@ Statistical aggregates compress the choices of millions of Minds into a curve or
 ### 统计平均值作为原因 / Statistical Average as Cause
 `科学 / Scientific`
 
-平均值预设总体构成稳定、均值能代表推动模式的东西，在描述构成不变的总体时有用；它在此到了边界：构成与筛选一变，平均值登记的就是残余，说不出推动前沿的右尾行动。
+平均值预设总体构成稳定、均值或共振加权的统计核心能代表推动模式与下游产出的首要原因，在描述构成不变的总体以及说明编码了海量过往人类表达的模型参数何以在集体层面充当流通输出的近端来源时有用；它在此到了边界：构成与筛选一变，或当观察从集体流通转向个体因果结构时，统计核心登记的都只是先前区分活动的残余，说不出推动前沿的右尾抉择，也无法取代建造者在残留缺口处的上游决定与使用者在当前边缘是否重新引入局部结构的下游选择。
 
-The average presumes a stable population whose mean stands for what drives the pattern, which is of use in describing a population whose composition holds; it reaches its boundary in that once composition and selection shift, the average registers residue and is silent on the right-tail acts that move frontiers.
+The average presumes a stable population whose mean or resonance-weighted statistical core stands for the primary cause driving patterns and downstream outputs, which is of use in describing a population of fixed composition and in explaining how model parameters encoding vast prior human expressions function collectively as the proximate source of circulating outputs; it reaches its boundary in that once composition and selection shift, or once observation turns from collective circulation to individual causal structure, the statistical core registers only the residue of prior distinguishing acts, remaining silent on the right-tail choices that move frontiers and unable to replace either the builders' upstream decisions at residual gaps or the user's downstream choice at the current edge whether to reintroduce local structure.
 
-→ [平均值是残余，不是引擎 / The Average Is Residue, Not the Engine](../../posts/the-average-is-residue-not-the-engine/)
+→ [平均值是残余，不是引擎 / The Average Is Residue, Not the Engine](../../posts/the-average-is-residue-not-the-engine/) · [清洁的平均与残余的抉择 / Clean Averaging and Residual Choice](../../posts/clean-averaging-and-residual-choice/)
 
 ### 因果的掌舵边缘 / Steering Edge of Causality
 `哲学 / Philosophical`
@@ -5350,20 +5350,20 @@ Presumes that decades of accumulated practical judgment and taste form a stable 
 ### 无人类介入的自动化研究 / Automated Research Without Human Intervention
 `技术 / Technological`
 
-预设将提出假设、编码实现、运行测试与自我改写框架的回环自动化，便能走向零人类介入的自主演进；在登记有界搜索空间内常规实现吞吐量的跃升与内环执行稠密化时有用，但它漏计了起首锚定的核心规范、只读隔离的外部评测边界与收尾的晋升裁决，把被编译进内环这一形式化程度最高的介入读作介入的缺席，并忽略了内环自主性的提升恰恰依托于、也不断促成人类决断向外环层级的持续扩展。
+预设将提出假设、编码实现、运行测试与自我改写框架的回环自动化，或以极高比例由模型协助生成内部代码并提供低干预的用户路径，便能走向零人类介入的闭合自我更新；在登记有界搜索空间与平滑模态核心内常规实现吞吐量的跃升及内环执行稠密化时有用，但它漏计了起首锚定的核心规范、数据筛选、失败运行拒绝、外部评测设计与收尾的晋升裁决，把被编译进内环这一形式化程度最高的建造者介入读作介入的缺席，而实验室在内部代码高比例由模型协助的同时仍未放缓外部发布节奏，恰恰印证了自我更新回路尚未闭合、使模型显得近乎完备的残留缺口仍是集中的人类决定。
 
-Presumes that automating the loop of proposing, implementing, testing, and self-editing harnesses moves toward autonomous evolution without human intervention; useful in registering jumps in routine implementation throughput and inner-loop densification inside bounded search spaces, it reaches its boundary by omitting the core specification at the start, the read-only isolated evaluation boundary, and the promotion verdict at the end, reading the compiled inner middle—intervention in its most formalized form—as intervention's absence, while missing that greater inner-loop autonomy is enabled by and enables the continuous expansion of human decision-making into outer layers.
+Presumes that automating the loop of proposing, implementing, testing, and self-editing harnesses, or reaching high proportions of model-assisted internal code alongside low-intervention user paths, moves toward a closed self-updating loop without human intervention; useful in registering jumps in routine implementation throughput and inner-loop densification inside bounded search spaces and the smooth modal core, it reaches its boundary by omitting the core specification at the start, data filtering, rejection of failed runs, external evaluation design, and the promotion verdict at the end, reading the compiled inner middle—builder intervention in its most formalized form—as intervention's absence, while the coexistence of high model-assisted internal code shares with an un-slowed external release cadence confirms that the self-updating loop remains unclosed and that the residual gaps making models appear nearly complete are concentrated human decisions.
 
-→ [判断的密度 / The Density of Judgment](../../posts/the-density-of-judgment/) · [交接残余 / Handing Off Residue](../../posts/handing-off-residue/)
+→ [判断的密度 / The Density of Judgment](../../posts/the-density-of-judgment/) · [交接残余 / Handing Off Residue](../../posts/handing-off-residue/) · [清洁的平均与残余的抉择 / Clean Averaging and Residual Choice](../../posts/clean-averaging-and-residual-choice/)
 
 ### 机械可解释性与白盒还原论 / Mechanistic Interpretability and White-Box Reductionism
 `技术 / Technological`
 
-预设只要无遗漏地测绘出生成模型的架构拓扑、参数权重与内部特征回路，便能对具体生成轨迹给出完备的预测性解释与内生控制；在定位局部回路故障、提取特征方向与调试工具行为时有用，但当确定性规则在部分登记的初始条件下经由计算不可约的逐步推演放大微小分岔、使轨迹选择与约束更新始终依赖外部边界条件图与外环心智时到达边界。
+预设只要无遗漏地测绘出生成模型的架构拓扑、参数权重与原生神经元或稀疏字典特征回路，便能因神经网络“已经清洁”而对具体生成轨迹给出完备的预测性解释与内生控制；在定位局部回路故障、提取跨大量人类表达反复共振而形成的平滑模态方向与调试工具行为时有用，但当大规模统计平均将局部与专门的差异压缩或稀释、且确定性规则在部分登记的初始条件下经由计算不可约的逐步推演放大微小分岔，从而使重新引入局部结构、轨迹选择与约束更新始终依赖后训练、外部边界条件图与外环心智时到达边界。
 
-Presumes that exhaustively mapping a generative model's architectural topology, parameter weights, and internal feature circuits yields a complete predictive explanation and endogenous control of specific trajectories; useful for localizing circuit faults, extracting feature directions, and debugging model behavior, it reaches its boundary because deterministic rules amplify partially registered initial conditions across computationally irreducible rollouts, leaving trajectory selection and constraint updates dependent on the surrounding boundary-condition graph and the outer-loop Mind.
+Presumes that exhaustively mapping a generative model's architectural topology, parameter weights, and native-neuron or sparse-dictionary feature circuits yields a complete predictive explanation and endogenous control of specific trajectories because neural networks are already clean; useful for localizing circuit faults, extracting smooth modal directions formed where traces resonate across many human expressions, and debugging model behavior, it reaches its boundary because large-scale statistical averaging compresses or dilutes local and specialized differences while deterministic rules amplify partially registered initial conditions across computationally irreducible rollouts, leaving the reintroduction of local structure, trajectory selection, and constraint updates dependent on post-training, the surrounding boundary-condition graph, and the outer-loop Mind.
 
-→ [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/)
+→ [递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../../posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/) · [清洁的平均与残余的抉择 / Clean Averaging and Residual Choice](../../posts/clean-averaging-and-residual-choice/)
 
 ### 分词与字节级建模 / Tokenization and Byte-Level Modeling
 `技术 / Technological`
