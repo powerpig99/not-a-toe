@@ -91,7 +91,7 @@ Full title / subtitle / lead jobs, refinement workflow, and anti-repetition chec
 Place a landscape cover at `assets/covers/<slug>.jpg` (or `.jpeg` / `.png` / `.webp`), matching the markdown filename without extension. 
 Default generator is local **Qwen-Image-2.1** (`python3 scripts/generate-cover.py <slug> --prompt "..."`), targeting ultra-wide **21:9** at **1344×576** (or 20:9 at **1280×576**). The build:
 
-- copies it to `public/covers/`
+- serves it directly from `raw.githubusercontent.com` (`?v=<sha256_12>`, keeping `public/` text-only)
 - renders it above the essay title
 - uses it for `og:image` / Twitter large-image card when present
 

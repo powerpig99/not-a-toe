@@ -223,7 +223,7 @@ Optional but usual for new essays.
 1. Read [`assets/covers/STYLES.md`](../../assets/covers/STYLES.md). **Do not default to still life / craft-table stills** (recent lag). Prefer a **new** style family; if unused styles run thin, **randomly reuse** a used family — never converge on one fixed look.
 2. Generate landscape cover art using the default local pipeline: `python3 scripts/generate-cover.py <slug> --prompt "..."` at ultra-wide **21:9** (`1344×576`) or **20:9** (`1280×576`). Strictly zero text or logos. Automatically saved to `assets/covers/<slug>.jpg`.
 3. Update STYLES.md inventory and family tables.
-4. Build copies cover to `public/covers/` and uses it for `og:image` / X card when present.
+4. Build references `assets/covers/<slug>.jpg` via `raw.githubusercontent.com` (`?v=<sha256_12>`) for page `<img>`, index thumbnails, and `og:image` / X card without copying covers into `public/`.
 
 **Leave older covers as they are** unless the operator explicitly asks to regenerate that slug. Operator drop supersedes agent-gen.
 
@@ -289,7 +289,7 @@ Workflow: [`.github/workflows/deploy.yml`](../../.github/workflows/deploy.yml) �
 curl -sI "https://powerpig99.github.io/not-a-toe/posts/<slug>/" | head -1
 # expect: HTTP/2 200
 # cover when present
-curl -sI "https://powerpig99.github.io/not-a-toe/covers/<slug>.jpg" | head -1
+curl -sI "https://raw.githubusercontent.com/powerpig99/not-a-toe/main/assets/covers/<slug>.jpg" | head -1
 ```
 
 404 with a green local build almost always means **deploy has not finished** (or never started) — not a broken essay. Re-check step 3; do not re-architect the post.
@@ -313,7 +313,7 @@ git commit -m "Add <title> essay"
 git push origin main
 bash scripts/watch-deploy.sh || { git commit --allow-empty -m "chore(deploy): retry pages deploy" && git push origin main && gh workflow run deploy.yml --ref main && bash scripts/watch-deploy.sh; }
 curl -sI "https://powerpig99.github.io/not-a-toe/posts/${SLUG}/" | head -1
-curl -sI "https://powerpig99.github.io/not-a-toe/covers/${SLUG}.jpg" | head -1
+curl -sI "https://raw.githubusercontent.com/powerpig99/not-a-toe/main/assets/covers/${SLUG}.jpg" | head -1
 ```
 
 ## New essay checklist

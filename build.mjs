@@ -165,19 +165,18 @@ function findCoverForSlug(slug) {
       // when the cover bytes change. mtime alone is noisy across CI checkouts.
       const bytes = fs.readFileSync(fullPath);
       const hash = crypto.createHash('sha256').update(bytes).digest('hex').slice(0, 12);
-      const publicPath = `covers/${fileName}`;
-      // Content hash on every cover URL (page <img>, index thumbs, og/twitter). Path alone
-      // is long-cached by browsers/CDNs after a replace of the same filename.
-      const url = `${absoluteUrl(publicPath)}?v=${hash}`;
+      const sourceUrl = absoluteSourceUrl(relativeSourcePath);
+      // Served directly from sourceRawBaseUrl with content hash (same origin as SITE.socialImage)
+      // so public/ stays text-only and GitHub Pages never re-syncs all covers on each push.
+      const url = `${sourceUrl}?v=${hash}`;
       const size = readImageSize(bytes, ext) ?? { width: 1280, height: 576 };
       return {
         fileName,
         fullPath,
         sourcePath: relativeSourcePath,
-        publicPath,
         hash,
         url,
-        sourceUrl: absoluteSourceUrl(relativeSourcePath),
+        sourceUrl,
         mimeType: coverMimeType(fileName),
         width: size.width,
         height: size.height,
@@ -1434,7 +1433,7 @@ function renderAbout() {
 function renderPostCard(post, book) {
   const excerptHtml = post.excerpt ? `<p>${renderBilingualInline(post.excerpt)}</p>` : '';
   const coverHtml = post.cover
-    ? `<a class="post-item-cover" href="${withBase(post.outputPath)}"><img src="${withBase(post.cover.publicPath)}?v=${post.cover.hash}" alt="" loading="lazy" decoding="async"></a>`
+    ? `<a class="post-item-cover" href="${withBase(post.outputPath)}"><img src="${escapeHtml(post.cover.url)}" alt="" loading="lazy" decoding="async"></a>`
     : '';
   const placement = book?.partBySlug.get(post.slug);
   const pLabel = placement ? partLabel(placement.part) : null;
@@ -1892,7 +1891,7 @@ function renderPost(post, newerPost, olderPost, book = null) {
     : '';
   const coverHtml = post.cover
     ? `<figure class="title-image">
-        <img src="${withBase(post.cover.publicPath)}?v=${post.cover.hash}" alt="${escapeHtml(post.title)}" width="${post.cover.width}" height="${post.cover.height}" decoding="async">
+        <img src="${escapeHtml(post.cover.url)}" alt="${escapeHtml(post.title)}" width="${post.cover.width}" height="${post.cover.height}" decoding="async">
       </figure>`
     : '';
 
@@ -2046,18 +2045,6 @@ function copyStaticAssets() {
   const podcastCoverSource = path.join(scriptDir, 'assets', 'podcast-cover.jpg');
   if (fs.existsSync(podcastCoverSource)) {
     fs.copyFileSync(podcastCoverSource, path.join(outputDir, 'podcast-cover.jpg'));
-  }
-
-  if (fs.existsSync(coversDir)) {
-    const publicCoversDir = path.join(outputDir, 'covers');
-    fs.mkdirSync(publicCoversDir, { recursive: true });
-
-    for (const entry of fs.readdirSync(coversDir, { withFileTypes: true })) {
-      if (!entry.isFile()) continue;
-      const ext = path.extname(entry.name).toLowerCase();
-      if (!COVER_EXTENSIONS.includes(ext)) continue;
-      fs.copyFileSync(path.join(coversDir, entry.name), path.join(publicCoversDir, entry.name));
-    }
   }
 
   if (fs.existsSync(figuresDir)) {
