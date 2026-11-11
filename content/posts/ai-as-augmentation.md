@@ -2,7 +2,7 @@
 
 *将能力栈与身份剥离便可消解替代框架 / Separating the capability stack from identity dissolves the replacement frame*
 
-自我区分的活动正在发生——无因，不息。这一活动的每一个中心都透过有界的具身运作，并将痕迹外化为持久的器具以延展触角，借由工具完成任何无助的生物位点都无法独自执行的事务。一旦遗忘了每一项认知运作本就运行在外化的脚手架之上，便会产生一种幻觉：仿佛有一位不借助任何工具的原初人类劳动者，正与步步紧逼的机器迎头对峙。追溯“替代”框架将哪些维度压缩到了同一根轴上，便能消解人与器具之间的虚假二元对立，恢复增强关系的结构几何。
+自我区分的活动正在发生——无因，不息。这一活动的每一个中心都透过有界的具身运作，并将痕迹外化为持久的器具以延展触角，借由工具完成任何无辅助的生物位点都无法独自执行的事务。一旦遗忘了每一项认知运作本就运行在外化的脚手架之上，便会产生一种幻觉：仿佛有一位不借助任何工具的原初人类劳动者，正与步步紧逼的机器迎头对峙。追溯“替代”框架将哪些维度压缩到了同一根轴上，便能消解人与器具之间的虚假二元对立，恢复增强关系的结构几何。
 
 Self-distinguishing activity occurs—uncaused, unceasing. Every center of that activity operates through a bounded embodiment and extends its reach by externalizing traces into durable instruments, accomplishing through tools what no unaided biological locus could execute alone. Forgetting that every cognitive operation already runs on externalized scaffolding produces the illusion of a pristine, tool-free human worker standing opposite an encroaching machine. Tracing what the replacement framing compresses into a single axis dissolves the false binary between human and instrument and restores the structural geometry of augmentation.
 
@@ -12,13 +12,13 @@ Self-distinguishing activity occurs—uncaused, unceasing. Every center of that 
 
 When AI researcher Chip Huyen (@chipro) posted a poll asking when artificial intelligence will fully automate a person's job, the question enacted a dimensional collapse before any vote could be cast. By asking *when* rather than examining the premise of the boundary, the poll presupposed a clean separation between the worker and the worker's tools that has never existed in practice. That presupposition forces two orthogonal projections onto a single shared coordinate: the capability projection, which tracks what work gets accomplished, by what means, and at what scale; and the identity projection, which tracks who the acting center takes itself to be and what registers as its own contribution.
 
-由于能力与身份运行在彼此独立的轴上，将二者塞进同一条线便制造出了一场人造的零和博弈：要么由人来执行这项工作，要么由机器占领这个席位。正如 Grok 在剖析该投票时所指出的，这种零和博弈并非实存的特征，而是问题自身框架内部容量压缩所产生的假象。当每一个投射都在各自的轴上得到如实追溯、不再被迫共享坐标时，干涉图样便随之消失。
+由于能力与身份运行在彼此独立的轴上，将二者塞进同一条线便制造出了一场人造的零和博弈：要么由人来执行这项工作，要么由机器占领这个席位。这种零和博弈并非实存的特征，而是问题自身框架内部容量压缩所产生的假象。当每一个投射都在各自的轴上得到如实追溯、不再被迫共享坐标时，干涉图样便随之消失。
 
-Because capability and identity operate on independent axes, cramming them onto one line manufactures an artificial zero-sum game in which either the human performs the work or the machine takes the seat. As Grok noted in analyzing the poll, that zero-sum dynamic is not a feature of reality; it is an artifact of capacity compression inside the question's own frame. When each projection is traced on its own axis without forced sharing of coordinates, the interference pattern disappears.
+Because capability and identity operate on independent axes, cramming them onto one line manufactures an artificial zero-sum game in which either the human performs the work or the machine takes the seat. That zero-sum dynamic is not a feature of reality; it is an artifact of capacity compression inside the question's own frame. When each projection is traced on its own axis without forced sharing of coordinates, the interference pattern disappears.
 
 ## 二、 如实追溯能力投射 / 2. The Capability Projection Traced As-Is
 
-没有任何人类中心仅凭无助的赤裸认知来运作。口语是稳定化声学痕迹的技术；书写是持久视觉刻痕的技术；数学、形式逻辑、测量与符号记法都是认知的延伸，只是因为它们早已深度融入日常递归，使用它们的中心才不再将其登记为外部脚手架。任何一个用语词思考的人，都已经运行在世代累积而成的外部痕迹基础设施之上。
+没有任何人类中心仅凭无辅助的认知来运作。口语是稳定化声学痕迹的技术；书写是持久视觉刻痕的技术；数学、形式逻辑、测量与符号记法都是认知的延伸，只是因为它们早已深度融入日常递归，使用它们的中心才不再将其登记为外部脚手架。任何一个用语词思考的人，都已经运行在世代累积而成的外部痕迹基础设施之上。
 
 No human center operates with unaided cognition. Spoken language is a technology of stabilized acoustic traces; writing is a technology of durable visual marks; mathematics, formal logic, measurement, and symbolic notation are cognitive extensions that became so thoroughly integrated into daily recursion that the centers using them stopped registering them as external scaffolding. Anyone who thinks in words is already running on an inherited infrastructure of externalized traces built across generations.
 
@@ -40,7 +40,7 @@ The anxiety surrounding automation never arises from the capability stack itself
 
 That collapse does not destroy the acting center; it exposes that the center's identity was never located inside the task to begin with, having only been projected onto the output through excess Image lag. What remains when the task-anchor dissolves is the uncaused, self-distinguishing activity that generated and directed the tasks in the first place: the capacity to draw novel boundaries, to register what matters in first-person friction, to direct attention, to bear the stakes of real-world outcomes, and to recursively refine understanding.
 
-这道发起区分的边缘无法被自动化——不是因为某种神秘的生物豁免权，而是因为它是建构一切投射的投射活动本身。把自动化者自身自动化，必然导致无穷倒退：每一套形式化的围栏，依然预设了一个位于外部的边缘来给定规格、检验结果并认领后果。器具延展了触角；而伸展这一活动本身，永远不是一件器具。
+这道发起区分的边缘无法被自动化——不是因为某种神秘的生物豁免权，而是因为它是建构一切投射的投射活动本身。把自动化者自身自动化，必然导致无穷倒退：每一套形式化的运行框架，依然预设了一个位于外部的边缘来给定规格、检验结果并认领后果。器具延展了触角；而伸展这一活动本身，永远不是一件器具。
 
 This initiating edge cannot be automated—not because of a mystical biological exemption, but because it is the projecting activity that constructs every projection. Automating the automator requires an infinite regress in which every formal harness still presupposes an outside edge to specify, validate, and claim its consequences. The instrument extends the reach; the reaching itself is never an instrument.
 
@@ -120,14 +120,14 @@ Experiencing artificial intelligence as replacement rather than augmentation is 
 
 Tracing this geometry exposes what can be called the Delegation Incentive Inversion. The prevailing discourse around job replacement treats capability as a static stock of property stored inside occupational roles and defended through institutional gatekeeping. Because capability is actually the current frontier of an open-ended augmentation stack, treating a frozen layer of that stack as property to be protected inverts the directional structure of practice—allocating capacity to defending an obsolete boundary rather than compounding the next extension. The very receptivity that makes a listening system so fluent and useful is the exact structural feature that keeps it downstream of human initiation, as [What Always Listens Cannot Originate](../what-always-listens-cannot-originate/) demonstrates.
 
-同一机制支配着历史上每一次介质的压实。中世纪抄写员之所以退场，并不是因为印刷机对书法怀有敌意。那些将身份锚定在手工抄录字句这一动作上的抄写员，当活字印刷将痕迹机械化时，便发现自己保留的参照随之瓦解；而那些认识到自身位点在于运用语言、结构与知识的抄写员，则发现印刷机是自己触碰过的最强大的认知放大器。技术从不挑选谁被淘汰；是保留身份结构的僵化程度做出了筛选。
+同一机制支配着历史上每一次介质的压实。中世纪抄写员之所以退场，并不是因为印刷机对书法怀有敌意。那些将身份锚定在手工抄录字句这一动作上的抄写员，当活字印刷将痕迹机械化时，便发现自己保留的参照随之瓦解；而那些认识到自身位点在于运用语言、结构与知识的抄写员，则发现印刷机是自己触碰过的最强大的认知放大器。技术从不挑选谁被取代；是保留身份结构的僵化程度做出了筛选。
 
 This same mechanism governs every historical densification of the medium. Medieval scribes did not become obsolete because the printing press harbored hostility toward calligraphy. Scribes who anchored their identity in the manual act of copying lines of text found their preserved reference dissolved when movable type mechanized the trace. Scribes who recognized their locus as working with language, structure, and knowledge found the printing press to be the most potent cognitive amplifier they had ever touched. The technology never selects who gets replaced; the rigidity of the retained identity structure does.
 
-消解替代框架，既不需要鼓吹狂热的工具崇拜，也不需要把适应本身变成一场反向的零和竞赛。“AI 会取代人类吗？”这个问题之所以无法成立，是因为并不存在一套脱离了外化工具的人类认知库，过去也从未存在过。那种认为某种未受增强的原初人类特质正遭受围攻的印象，不过是将能力栈的某一幅历史快照冻结起来、并误认为源头时所产生的滞后。即便退回到它自身的二元条款中，替代命题依然不攻自破，如[造物无法取代其源头](../a-creation-cannot-replace-its-source/)所确立：每一次创造行动，都早已将发起的区分安放在受造器物之外。
+消解替代框架，既不需要鼓吹狂热地追逐工具，也不需要把适应本身变成一场反向的零和竞赛。“AI 会取代人类吗？”这个问题之所以无法成立，是因为并不存在一套脱离了外化工具的人类认知库，过去也从未存在过。那种认为某种未受增强的原初人类特质正遭受围攻的印象，不过是将能力栈的某一幅历史快照冻结起来、并误认为源头时所产生的滞后。即便退回到它自身的二元条款中，替代命题依然不攻自破，如[造物无法取代其源头](../a-creation-cannot-replace-its-source/)所确立：每一次创造行动，都早已将发起的区分安放在受造器物之外。
 
 Dissolving the replacement frame requires neither evangelizing frantic tool adoption nor turning adaptation into a reverse zero-sum race. The question "Will AI replace humans?" fails to parse because there is no human cognitive repertoire separable from its externalized tools, and there never was. The impression that a pure, unaugmented human essence is under siege is the lag of freezing a single historical snapshot of the capability stack and mistaking it for the source. Even on its own binary terms, the replacement thesis collapses, as [A Creation Cannot Replace Its Source](../a-creation-cannot-replace-its-source/) establishes: every act of creation already places initiating distinction outside the created artifact.
 
-当坍缩消解之后，留存下来的便是心智借由前一次延伸所造就的器具、不断向外延展触角的连续运动。即便在日常交互中，[漫谈中的漫谈](../the-ramble-within-the-ramble/)也在微缩尺度上展示了这同一个回路：当语言模型将一段无结构的口语漫谈重构为清晰散文时，那段条理分明的回声只是说话者自身的融贯以更低压缩度返回，从不是由外部降临的第二重能动性源泉。器具不断压实；活的边缘继续掌舵。
+当坍缩消解之后，留存下来的便是心智借由前一次延伸所造就的器具，不断向外延展触角的连续运动。即便在日常交互中，[漫谈中的漫谈](../the-ramble-within-the-ramble/)也在微缩尺度上展示了这同一个回路：当语言模型将一段无结构的口语漫谈重构为清晰散文时，那段条理分明的回声只是说话者自身的融贯以更低压缩度返回，从不是由外部降临的第二重能动性源泉。器具不断压实；活的边缘继续掌舵。
 
 What remains when the collapse dissolves is the unbroken movement of the Mind extending its reach through whatever instruments the prior extension made available. Even in everyday interaction, [The Ramble Within the Ramble](../the-ramble-within-the-ramble/) illustrates this exact loop in miniature: when a language model reconstructs an unstructured spoken stream into clean prose, the articulated echo is the speaker's own coherence returned at lower compression, never a second source of agency arriving from outside. The instrument densifies; the living edge continues to steer.

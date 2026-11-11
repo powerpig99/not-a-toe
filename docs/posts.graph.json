@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-11T14:16:43.483Z",
+    "generated_at": "2026-11-11T15:01:57.773Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -23,7 +23,7 @@
       "content/posts/agency-relocated-into-the-formal-model.md": "3e1fa31e14a3",
       "content/posts/agents_leia_ontological_clarity.md": "332a8919b1e7",
       "content/posts/agi-and-asi-are-temporary-goalposts.md": "bf850aa9b898",
-      "content/posts/ai-as-augmentation.md": "b7e862c5142e",
+      "content/posts/ai-as-augmentation.md": "b2d79fbb1120",
       "content/posts/ai-wont-kill-software-engineering.md": "cc0137e82426",
       "content/posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable.md": "2217ee5fe5b3",
       "content/posts/amplification-paradox.md": "a275c141a687",
@@ -124,7 +124,7 @@
       "content/posts/intelligence-crisis-response.md": "ff0c08053c60",
       "content/posts/intelligence-folding-back-on-itself.md": "f36f2690c329",
       "content/posts/intelligence-in-observation-and-the-residual-gap.md": "6597f69963a6",
-      "content/posts/intelligence-traps-itself.md": "533c6e1e356a",
+      "content/posts/intelligence-traps-itself.md": "bf8f67026fc6",
       "content/posts/judgment-is-not-a-stock.md": "9526af861c78",
       "content/posts/learned-boundaries-and-the-given-rate.md": "f556b3f1d50b",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "b5bfd1bca0dc",
@@ -139,11 +139,11 @@
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "303c79b009fa",
       "content/posts/minimizing-path.md": "c585ae74466b",
       "content/posts/mises-state-analysis.md": "fe24d656c147",
-      "content/posts/mistaking-the-expression-for-the-intelligence.md": "3992efdf6cad",
+      "content/posts/mistaking-the-expression-for-the-intelligence.md": "4020de9bf630",
       "content/posts/moral-language-as-projection.md": "06388db8d0ab",
       "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "116d97ed1a9a",
       "content/posts/munger-dumb-competition-refined.md": "b8ee8259c34d",
-      "content/posts/name-negation-tendency.md": "a67cfac7fc95",
+      "content/posts/name-negation-tendency.md": "c83ca7d9f4fa",
       "content/posts/naval-separation-analysis.md": "31aba4991f14",
       "content/posts/no-genius-can-solve-the-knowledge-problem.md": "2b3ff94ab2fa",
       "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "088f1d7e09e0",
@@ -469,10 +469,10 @@
     },
     "stats": {
       "posts": 442,
-      "edges": 13522,
-      "unique_directed": 6644,
+      "edges": 13526,
+      "unique_directed": 6646,
       "missing_targets": 0,
-      "one_way": 1340,
+      "one_way": 1342,
       "isolated": 0,
       "posts_with_outbound": 442,
       "book_pages": 16,
@@ -534,12 +534,12 @@
       "in_degree": 42
     },
     {
-      "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "slug": "clarity-isnt-a-state-you-arrive-at",
       "in_degree": 41
     },
     {
-      "slug": "clarity-isnt-a-state-you-arrive-at",
-      "in_degree": 40
+      "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "in_degree": 41
     },
     {
       "slug": "production-consumption-and-the-minds-distinction",
@@ -1094,7 +1094,7 @@
       "slug": "ai-as-augmentation",
       "path": "content/posts/ai-as-augmentation.md",
       "title": "AI 作为增强 / AI as Augmentation",
-      "hash": "b7e862c5142e",
+      "hash": "b2d79fbb1120",
       "in_degree": 4,
       "out_degree": 6,
       "links_out": [
@@ -1632,7 +1632,7 @@
       "path": "content/posts/clarity-isnt-a-state-you-arrive-at.md",
       "title": "清晰不是抵达的终点，而是运动本身 / Clarity Isn't a State You Arrive At. It's the Movement Itself.",
       "hash": "b2def21d59e6",
-      "in_degree": 40,
+      "in_degree": 41,
       "out_degree": 34,
       "links_out": [
         "why-mathematics-can-never-be-solved",
@@ -1678,7 +1678,7 @@
       "path": "content/posts/claudes-constitution-analysis.md",
       "title": "名为 Claude 的投射 / The Projection Called Claude",
       "hash": "58bd3d6c3edb",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 4,
       "links_out": [
         "the-model-never-becomes-a-second-edge",
@@ -3902,7 +3902,7 @@
       "slug": "intelligence-traps-itself",
       "path": "content/posts/intelligence-traps-itself.md",
       "title": "智能最容易困住的正是它自己 / Intelligence Is the Thing Most Likely to Trap Itself",
-      "hash": "533c6e1e356a",
+      "hash": "bf8f67026fc6",
       "in_degree": 2,
       "out_degree": 4,
       "links_out": [
@@ -4303,7 +4303,7 @@
       "slug": "mistaking-the-expression-for-the-intelligence",
       "path": "content/posts/mistaking-the-expression-for-the-intelligence.md",
       "title": "错把表达当成智能 / Mistaking the Expression for the Intelligence",
-      "hash": "3992efdf6cad",
+      "hash": "4020de9bf630",
       "in_degree": 45,
       "out_degree": 39,
       "links_out": [
@@ -4421,10 +4421,12 @@
       "slug": "name-negation-tendency",
       "path": "content/posts/name-negation-tendency.md",
       "title": "名称背反倾向 / The Name-Negation Tendency",
-      "hash": "a67cfac7fc95",
+      "hash": "c83ca7d9f4fa",
       "in_degree": 1,
-      "out_degree": 2,
+      "out_degree": 4,
       "links_out": [
+        "claudes-constitution-analysis",
+        "clarity-isnt-a-state-you-arrive-at",
         "what-works-is-the-belief",
         "your-codebase-is-memory"
       ]
@@ -38660,6 +38662,30 @@
       "to": "cheng-gong-xue",
       "rel": "points_to",
       "label": "Theories After Success"
+    },
+    {
+      "from": "name-negation-tendency",
+      "to": "claudes-constitution-analysis",
+      "rel": "points_to",
+      "label": "名为 Claude 的投射"
+    },
+    {
+      "from": "name-negation-tendency",
+      "to": "claudes-constitution-analysis",
+      "rel": "points_to",
+      "label": "The Projection Called Claude"
+    },
+    {
+      "from": "name-negation-tendency",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "清晰不是抵达的终点，而是运动本身"
+    },
+    {
+      "from": "name-negation-tendency",
+      "to": "clarity-isnt-a-state-you-arrive-at",
+      "rel": "points_to",
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
     },
     {
       "from": "name-negation-tendency",
