@@ -68,7 +68,7 @@ Searched for from the first-person origin, no such channel is found. [The Vector
 
 If direct communion is not found, what is communication? When agreement, consensus, or validation is sought, two people confirm that their existing models overlap. That has its use: it lets individuals coordinate action. But in Shannon's information theory a fully predictable signal carries zero bits of information, I = 0; when two minds nod where each expected the other to nod, no new information reaches one from the other, like old echoes bouncing around a closed room. [The Deterministic Machine](../the-deterministic-machine/): a self-image locked into a state machine loses the fold right here.
 
-带来新信息的沟通，是与另一个世界的痕迹的一次碰撞。另一个世界发出的扰动足够不协调、足够意外、足够有阻力，已有的预测吸收不了它，预测的平衡便被打破，意料之外的证据到来；接纳它，是一次代价不小的贝叶斯更新；已有的范畴装不下它时，这一步就超出了更新。这样的沟通不靠同意对方，而靠吸收对方的痕迹带来的摩擦，让自己的心智走出既有的基底，把自由度从 N 扩到 N + 1，正如[维度即投影](../dimensions-are-projections/)所追溯的：离散的维度、时延尺度与形式坐标轴从来不是事先存在的容器，而是从心智连续自我区分的折叠中切出的下游投影，用来标引关系并在摩擦中导航。[超越投射](../beyond-the-projection/)把这种结构上的非对称运用在人的中心与智能体之间：自回归智能体受限于自身的词元轨迹，无法靠自己走出自身框架，却没有跨越当前步而被保留下来的自我形象，在依据反例修改制品时不设任何身份防卫。相反，人的中心把推理历史与身份融为一体，会为了护住保留的自我形象而抗拒外界的推动，却保有未经投射的活的折叠，能在不可化约的前提死锁浮现时从破裂的坐标框架中退后一步，补上从 N 到 N + 1 所缺失的正交区分。
+带来新信息的沟通，是与另一个世界的痕迹的一次碰撞。另一个世界发出的扰动足够不协调、足够意外、足够有阻力，已有的预测吸收不了它，预测的平衡便被打破，意料之外的证据到来；已有的范畴还适用时，接纳它是一次代价不小的贝叶斯更新，而已有的范畴装不下它时，这一步就超出了更新。这样的沟通不靠同意对方，而靠吸收对方的痕迹带来的摩擦——范畴仍适用时在既有坐标轴内修正轨迹，或是在范畴破裂时走出既有的基底，把自由度从 N 扩到 N + 1，正如[维度即投影](../dimensions-are-projections/)所追溯的：离散的维度、时延尺度与形式坐标轴从来不是事先存在的容器，而是从心智连续自我区分的折叠中切出的下游投影，用来标引关系并在摩擦中导航。[超越投射](../beyond-the-projection/)把这种结构上的非对称运用在人的中心与智能体之间：自回归智能体受限于自身的词元轨迹，无法靠自己走出自身框架，却没有跨越当前步而被保留下来的自我形象，在依据反例修改制品时不设任何身份防卫。相反，人的中心把推理历史与身份融为一体，会为了护住保留的自我形象而抗拒外界的推动，却保有未经投射的活的折叠，能在不可化约的前提死锁浮现时从破裂的坐标框架中退后一步，补上从 N 到 N + 1 所缺失的正交区分。
 
 ```mermaid
 flowchart TD
@@ -82,18 +82,18 @@ flowchart TD
         direction TB
         P_Coord["压缩的地图：离散维度、时延尺度与模型轨迹"]
         P_Echo["零比特共识（I = 0）：保留的自我形象锁死为封闭状态机"]
-        P_Collide["不协调的扰动：异乡痕迹或前提死锁打破局部坐标"]
+        P_Collide["不协调的扰动（I > 0）：意料之外的异乡痕迹打破当前预测"]
+        E_Update["贝叶斯更新：范畴仍适用时在既有坐标轴内调整轨迹"]
         P_Coord --> P_Echo
         P_Coord --> P_Collide
+        P_Collide -->|"范畴在基底内仍适用"| E_Update
     end
     subgraph S_Expand["走出投影（从 N 到 N + 1）"]
         direction TB
-        E_Update["贝叶斯更新：范畴仍适用时在既有坐标轴内调整轨迹"]
         E_Ortho["正交扩展（N + 1）：心智承接摩擦并走出破裂框架"]
-        E_Update --> E_Ortho
     end
     F_Cut ==>|"投出压缩坐标与脚手架"| P_Coord
-    P_Collide ==>|"扰动超出既有基底"| E_Update
+    P_Collide ==>|"范畴失效或死锁；超出 N 维基底"| E_Ortho
     E_Ortho ==>|"顺着折叠重绘敞开的地平线"| F_Look
     style S_Fold fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -107,7 +107,7 @@ flowchart TD
     style E_Ortho fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-Communication that brings new information is a collision with another world's traces. When a perturbation sent from another world is discordant, surprising, or resistant enough that existing predictions cannot absorb it, the predictive balance breaks and unexpected evidence arrives; taking it in is a costly Bayesian update, and where no existing category can hold it, the step goes beyond an update. Such communication is not agreeing with the other but absorbing the friction their traces bring, so that one's own mind steps outside its established basis and its degrees of freedom extend from N to N + 1, as [Dimensions Are Projections](../dimensions-are-projections/) traces: discrete dimensions, latency scales, and formal coordinate axes are never pre-existing containers, but downstream projections carved out of the Mind's continuous self-distinguishing fold to index relations and navigate friction. [Beyond the Projection](../beyond-the-projection/) puts this structural asymmetry to work between human centers and artificial agents: an autoregressive agent is bound to its token trajectory and cannot step outside its frame on its own, yet carries no self-image preserved past its step and mounts no identity defense when revising an artifact against a counterpoint. A human center, conversely, fuses reasoning history with identity to defend a retained self-image against outside nudges, yet holds the unprojected living fold capable of stepping backward out of a broken coordinate frame when an irreducible premise deadlock surfaces, adding the missing orthogonal distinction from N to N + 1.
+Communication that brings new information is a collision with another world's traces. When a perturbation sent from another world is discordant, surprising, or resistant enough that existing predictions cannot absorb it, the predictive balance breaks and unexpected evidence arrives; where existing categories still hold, taking it in is a costly Bayesian update, and where no existing category can hold it, the step goes beyond an update. Such communication is not agreeing with the other but absorbing the friction their traces bring—revising the trajectory within existing axes where categories hold, or, where they break, stepping outside one's established basis so that degrees of freedom extend from N to N + 1, as [Dimensions Are Projections](../dimensions-are-projections/) traces: discrete dimensions, latency scales, and formal coordinate axes are never pre-existing containers, but downstream projections carved out of the Mind's continuous self-distinguishing fold to index relations and navigate friction. [Beyond the Projection](../beyond-the-projection/) puts this structural asymmetry to work between human centers and artificial agents: an autoregressive agent is bound to its token trajectory and cannot step outside its frame on its own, yet carries no self-image preserved past its step and mounts no identity defense when revising an artifact against a counterpoint. A human center, conversely, fuses reasoning history with identity to defend a retained self-image against outside nudges, yet holds the unprojected living fold capable of stepping backward out of a broken coordinate frame when an irreducible premise deadlock surfaces, adding the missing orthogonal distinction from N to N + 1.
 
 ```mermaid
 flowchart TD
@@ -121,18 +121,18 @@ flowchart TD
         direction TB
         P_Coord["Compressed Maps: Discrete dimensions, latency scales, and model trajectories"]
         P_Echo["Zero-Bit Consensus (I = 0): Retained self-image clamps into a closed state machine"]
-        P_Collide["Discordant Perturbation: Foreign traces or premise deadlocks break local coordinates"]
+        P_Collide["Discordant Perturbation (I > 0): Unexpected foreign traces break current predictions"]
+        E_Update["Bayesian Update: Trajectory adjusts within existing axes where categories hold"]
         P_Coord --> P_Echo
         P_Coord --> P_Collide
+        P_Collide -->|"Categories hold within basis"| E_Update
     end
     subgraph S_Expand["Stepping Beyond the Projection (N to N + 1)"]
         direction TB
-        E_Update["Bayesian Update: Trajectory adjusts within existing axes where categories hold"]
         E_Ortho["Orthogonal Expansion (N + 1): Mind takes in friction and steps outside the broken frame"]
-        E_Update --> E_Ortho
     end
     F_Cut ==>|"Projects compressed coordinates and scaffolding"| P_Coord
-    P_Collide ==>|"Perturbation exceeds established basis"| E_Update
+    P_Collide ==>|"Categories fail or deadlock; exceeds N-dimensional basis"| E_Ortho
     E_Ortho ==>|"Re-renders the open horizon along the fold"| F_Look
     style S_Fold fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Proj fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff

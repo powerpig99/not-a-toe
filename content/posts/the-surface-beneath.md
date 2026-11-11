@@ -8,9 +8,9 @@ Kolmogorov complexity, Turing completeness, and Solomonoff induction are themsel
 
 ## 一、 离散枚举的假定 / 1. The Enumeration Assumption
 
-这套经典形式框架共享着同一个结构承诺：在离散的程序空间中进行搜索。莱文的通用搜索按程序长度加运行时间的顺序枚举候选；索洛莫诺夫先验按程序长度分配概率；柯尔莫哥洛夫复杂度则被定义为离散编码下的最短字符串。每一步都是组合式的——从一个可数集合中挑选、评估、保留或丢弃。
+这套经典形式框架共享着同一个结构承诺：在离散的程序空间中进行搜索。莱文的通用搜索按程序长度与运行时间对数之和的顺序枚举候选；索洛莫诺夫先验按长度对无前缀程序加权；柯尔莫哥洛夫复杂度则被定义为离散编码下目标的最短程序长度。每一步都是组合式的——从一个可数集合中挑选、评估、保留或丢弃。
 
-The classical formal frameworks share a structural commitment: search over discrete program space. Levin's universal search enumerates candidates in order of length plus runtime; Solomonoff's prior assigns probability by program length; Kolmogorov complexity is defined as the shortest string in a discrete encoding. Every move is combinatorial—select from a countable set, evaluate, keep, or discard.
+The classical formal frameworks share a structural commitment: search over discrete program space. Levin's universal search enumerates candidates in order of length plus logarithmic runtime; Solomonoff's prior weights prefix-free programs by length; Kolmogorov complexity is defined as the length of a shortest program for the target in a discrete encoding. Every move is combinatorial—select from a countable set, evaluate, keep, or discard.
 
 在观察所登记的分辨率下，自然系统并不会去逐一枚举构型再加以挑选；所登记到的是沿着表面的运动、约束之下顺着梯度的下降，以及向沿途地形所塑造的吸引盆地的沉降。在这一分辨率下，收敛运作在比离散枚举所能模拟的更细腻的粒度上，且这一差异并非表面修饰。
 

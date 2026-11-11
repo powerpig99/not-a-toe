@@ -22,9 +22,9 @@ Continuity thus has two layers. The continuity experienced comes from the logica
 
 ## 二、 连续并不保证平滑 / 2. Continuity Does Not Guarantee Smoothness
 
-几个世纪里，数学家怀着一个没有审视过的信念：一条曲线只要连续，把局部放得足够大，令 dx 足够小，它就会展平为一条光滑的切线。高斯、安培与拉格朗日都把“连续函数处处可导”看作理所当然的几何直觉。
+几个世纪里，数学家怀着一个没有审视过的信念：一条曲线只要连续，除去孤立的角点或尖点，把局部放得足够大，令 dx 足够小，它就会展平为一条光滑的切线。高斯、安培与拉格朗日都把“连续函数除孤立点外处处可导”看作理所当然的几何直觉。
 
-For centuries mathematicians held a belief that had not been examined: if a curve is continuous, then with the local view enlarged enough and dx made small enough, it will flatten into a smooth tangent. Gauss, Ampère, and Lagrange all took "a continuous function is differentiable everywhere" for a self-evident geometric intuition.
+For centuries mathematicians held a belief that had not been examined: if a curve is continuous, then apart from isolated corners or cusps, with the local view enlarged enough and dx made small enough, it will flatten into a smooth tangent. Gauss, Ampère, and Lagrange all took "a continuous function is differentiable everywhere except at isolated points" for a self-evident geometric intuition.
 
 1872 年，卡尔·魏尔施特拉斯构造出一个处处连续、处处不可导的函数。不论把观察的窗口缩到多小，它都不趋近于一条平直的线，每一次放大露出的是更多层嵌套的锯齿与褶皱，割线的斜率一直在震荡，导数在任何一点上都不存在。后来的泛函分析经由贝尔纲定理说明，在全部连续函数构成的空间里，处处不可导的函数是典型的情形，教科书里那些平滑可微的曲线是为了代数上的可处理而挑出来的少数。
 
