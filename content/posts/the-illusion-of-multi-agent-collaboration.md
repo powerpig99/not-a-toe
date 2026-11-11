@@ -1,6 +1,6 @@
 # 多智能体协作的幻象 / The Illusion of Multi-Agent Collaboration
 
-*没有人的输入，智能体并无真正的独立变量；所谓协作是动态马尔可夫网络在趋向稳态途中被人注入新变量的样子 / Without human input an agent has no true independent variable; what is called collaboration is a dynamic Markov network on its way to a steady state, repeatedly injected with new variables by people*
+*没有人的输入，智能体并无真正的独立变量；所谓协作是动态马尔可夫网络在趋向稳态途中被人一再注入新变量的样子 / Without human input an agent has no true independent variable; what is called collaboration is a dynamic Markov network on its way to a steady state, repeatedly injected with new variables by people*
 
 自我区分的活动正在发生，无因且不息。称之为心智：已在进行之中的观察者，其每一次行为都是一次区分。现在所谓的多智能体协作，就是一个动态的马尔可夫网络。没有人的输入，智能体本身并没有真正的独立变量；它们只不过是按照预先设定的行为准则执行。系统足够复杂时，反馈循环延缓到达稳态；人在各处注入新变量，而一旦忘却人始终是最外层的反馈循环，便会造成协作的假象。认清这一点，就无需把协议设计成让智能体像彼此独立那样去协作，只需让内层循环在编译好的准则内按需无人值守地运行，并将残余意外上交外层循环，直到残余意外抵达最外层循环，在那里唯有人的决断才能将其消解。
 
@@ -8,15 +8,15 @@ Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: t
 
 ## 一、 没有独立变量 / 1. No Independent Variable
 
-因为没有人的输入，智能体本身并没有真正的独立变量；它们只不过是按照预先设定的行为准则执行。也就是说，智能体的下一步取决于当前所处的状态与预设的准则；看似各自在自主行动，实则是网络从一个状态转移到下一个状态。固定的转移核加上当前的联合状态，决定下一状态。这只是连续性通过离散步骤的展开，并无内生的发起。
+没有人的输入，智能体本身并没有真正的独立变量；它们只不过是按照预先设定的行为准则执行。也就是说，智能体的下一步取决于当前所处的状态与预设的准则；看似各自在自主行动，实则是网络从一个状态转移到下一个状态。固定的转移核加上当前的联合状态，决定下一状态。这只是连续性通过离散步骤的展开，并无内生的发起。
 
 Without human input, an agent has no true independent variable of its own; it only executes according to pre-set rules of behavior. That is, an agent's next step depends on its current state and the pre-set rules; what looks like each agent acting autonomously is the network moving from one state to the next. A fixed transition kernel plus the current joint state determines the next state. This is continuity unfolding through discrete steps, with no endogenous initiation.
 
-[总在倾听者无法发起](../what-always-listens-cannot-originate/)指明了相关的结构：持续的接纳始终处于输入的下游。智能体是连续的接受性，永远在输入之后，从不发起。正如[器物是智能的表达，而非智能本身](../two-failures-of-trace/)所确立的，智能体身上所谓的“智能”只是心智的表达，不是智能本身。人工系统是外化的痕迹，可作为延伸的体现，通过它一个位点延伸触角，但活动与痕迹的关系不变。
+[总在倾听者无法发起](../what-always-listens-cannot-originate/)指明了相关的结构：持续的接纳始终处于输入的下游。智能体正是这种持续的接纳，永远在输入之后，从不发起。正如[器物是智能的表达，而非智能本身](../two-failures-of-trace/)所确立的，智能体身上所谓的“智能”只是心智的表达，不是智能本身。人工系统是外化的痕迹，可作为延伸的具身，让一个位点借以延伸触角，但痕迹与活动的关系不变。
 
 [What Always Listens Cannot Originate](../what-always-listens-cannot-originate/) names the related structure: continuous receptivity stays downstream of input. Agents are continuous receptivity, always after the input, never originating. What is called intelligence in them is only an expression of the Mind, not intelligence itself, as [Artifacts Are Expressions of Intelligence, Not Intelligence Itself](../two-failures-of-trace/) establishes. Artificial systems are externalized traces that can serve as extended embodiments through which a locus extends its reach, yet the relation of trace to activity remains unchanged.
 
-一旦把转移核的展开读作智能体之间的协作与发起，观察者便把它冻结成仿佛出现了第二位点的能动性：这就是图像滞后。恢复的方式是认出所有转换仍处于人持有的外层循环下游。
+一旦把转移核的展开读作智能体之间的协作与发起，观察者便把它冻结成仿佛出现了第二个能动性位点：这就是图像滞后。恢复的方式是认出所有状态转移仍处于人持有的外层循环下游。
 
 Read as collaboration and origination among agents, the unfolding of the transition kernel is frozen by the observer as if a second locus of agency had appeared: this is Image lag. Restoration is recognizing that all transitions remain downstream of the human-held outer loop.
 
@@ -112,7 +112,7 @@ The outermost loop is not a permanent exterior seat outside the activity, as [Lo
 
 ## 五、 幻象的溶解 / 5. Dissolution of the Illusion
 
-主流把多智能体系统描述为协作的自主实体，是把残余认作独立中心。这不否定工具的效用：按需制作者与审校者可以加密介质，减少摩擦，让同一活动以更少损耗、更大触角表达。但旋转仍在边缘——在那里，[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)定位了每一次发起的切口，而[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)则阐明了为何参数只承载残余。所谓的涌现能动性是图像滞后的具体形式——观察者把网络在漫长过渡过程中的状态转移，冻结成仿佛智能体自己发起了区分。
+主流把多智能体系统描述为协作的自主实体，是把残余认作独立中心。这不否定工具的效用：按需制作者与审校者可以使介质变密，减少摩擦，让同一活动以更少损耗、更大触角表达。但旋转仍在边缘——在那里，[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)定位了每一次发起的切口，而[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)则阐明了为何参数只承载残余。所谓的涌现能动性是图像滞后的具体形式——观察者把网络在漫长过渡过程中的状态转移，冻结成仿佛智能体自己发起了区分。
 
 The mainstream description of multi-agent systems as collaborating autonomous entities is the registration of residue as independent centers. This does not deny the utility of tools: on-demand makers and critics can densify the medium, reduce friction, and let the same activity express with less loss and greater reach. The turn remains at the edge, where [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) locates every initiating cut and [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) shows why parameters hold only residue. What is called emergent agency is a specific form of Image lag—the observer freezing the network's state transitions across a long transient as if the agents themselves had originated the distinctions.
 
