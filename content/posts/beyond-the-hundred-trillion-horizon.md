@@ -150,7 +150,7 @@ flowchart TD
     style S_SPACE_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
 ```
 
-这种转变不是在既有航海图的边缘多画出一片大陆，而是类似于生命从海洋环境登上陆地的演化飞跃。正如[封闭的假设把复利挤成 S 曲线](../closed-assumptions-squeeze-compounding-into-s-curves/)所追踪的，固定的行星承载力会将工业复利挤压进逻辑斯蒂饱和；而迈入轨道空间则直接拓宽了标尺本身——这正是[生产、消费与心智的区分](../production-consumption-and-the-minds-distinction/)所揭示的从封闭边界向开放区分的转换。从能量与物质的热力学通量来建模，一个直接汲取无衰减恒星辐射与小行星物质的跨行星经济体，其吞吐容量足以超越当今地表产出数个数量级。
+这种转变不是在既有航海图的边缘多画出一片大陆，而是类似于生命从海洋环境登上陆地的演化飞跃。正如[封闭的假设把复利挤成 S 曲线](../closed-assumptions-squeeze-compounding-into-s-curves/)所追踪的，固定的行星承载力会将工业复利挤压进逻辑斯蒂饱和；而迈入轨道空间则直接拓宽了寄存器本身——这正是[生产、消费与心智的区分](../production-consumption-and-the-minds-distinction/)所揭示的从封闭边界向开放区分的转换。从能量与物质的热力学通量来建模，一个直接汲取无衰减恒星辐射与小行星物质的跨行星经济体，其吞吐容量足以超越当今地表产出数个数量级。
 
 This transition is not equivalent to drawing another continent along the perimeter of an existing nautical map; it resembles the evolutionary leap of life transitioning from marine environments onto dry land. Whereas a fixed planetary carrying capacity squeezes industrial compounding into logistic saturation, as traced in [Closed Assumptions Squeeze Compounding into S-Curves](../closed-assumptions-squeeze-compounding-into-s-curves/), stepping into orbital space widens the register itself—the shift from a sealed boundary to open differentiation traced in [Production, Consumption, and the Mind's Distinction](../production-consumption-and-the-minds-distinction/). When modeled through thermodynamic flows of energy and matter, an interplanetary economy drawing on unattenuated solar radiation and asteroidal mass possesses a throughput capacity that exceeds contemporary terrestrial output by multiple orders of magnitude.
 
@@ -226,7 +226,7 @@ flowchart TD
     style S_OUTCOME_EN fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
 ```
 
-更具欺骗性的是坊间对小行星采矿的估值测算。媒体报道常按当前大宗商品现货报价，断言灵神星等富金属小行星价值数万万亿美元，这犯下了基础性的认知谬误：正如[价格是言说，理解是交易](../price-as-utterance-understanding-as-trade/)所追踪的，价格刻度并非储存在金属原子内部的内禀标量，而是鲜活心智在特定稀缺条件下达成的局部出清痕迹。将数千万吨铂金或黄金直接抛入地球重力井，会瞬间饱和地表供给，使现货价格趋近于零。地外金属与能源唯有在太空中被就地消耗与加工——制造成在轨太阳能阵列、深空通信节点以及轨道栖息地——才能兑现生产与交换价值。唯有当经济代谢本身迁出大气层之外，这份财富才得以成立。
+更具欺骗性的是坊间对小行星采矿的估值测算。媒体报道常按当前大宗商品现货报价，断言灵神星等富金属小行星价值数百亿亿美元，这犯下了基础性的认知谬误：正如[价格是言说，理解是交易](../price-as-utterance-understanding-as-trade/)所追踪的，价格刻度并非储存在金属原子内部的内禀标量，而是鲜活心智在特定稀缺条件下达成的局部出清痕迹。将数百万吨铂金或黄金直接抛入地球重力井，会瞬间饱和地表供给，使现货价格趋近于零。地外金属与能源唯有在太空中被就地消耗与加工——制造成在轨太阳能阵列、深空通信节点以及轨道栖息地——才能兑现生产与交换价值。唯有当经济代谢本身迁出大气层之外，这份财富才得以成立。
 
 Even more deceptive are popular valuations of asteroid mining. Media reports asserting that metal-rich asteroids like 16 Psyche are worth thousands of quadrillions of dollars based on current spot commodity quotes commit an elementary fallacy: as [Price as Utterance, Understanding as Trade](../price-as-utterance-understanding-as-trade/) traces, a price print is not an intrinsic scalar stored inside metallic atoms, but a local clearing trace between living minds under specific scarcity conditions. Dropping millions of tons of platinum or gold down Earth's gravity well would instantly saturate terrestrial supply, driving spot prices toward zero. Off-world metals and energy realize productive and exchange value only when consumed and processed in space—manufactured into orbital solar arrays, deep-space communication nodes, and orbital habitats. The wealth exists only to the extent that the economic metabolism itself relocates beyond the atmosphere.
 
@@ -244,7 +244,7 @@ In his seminal empirical study on technological innovation within the postwar Un
 
 Deep historical macroeconomic telemetry provides a disciplined reference point for this projection. According to economic historiography, total planetary annual gross domestic product in 1500 AD stood at approximately 247 billion dollars, whereas global GDP today hovers around 100 trillion dollars—a roughly 400-fold expansion in annual productive flows. Concurrently, accumulated global wealth grew from roughly 250 billion dollars in 1500 AD to approximately 500 trillion dollars today—a 2,000-fold expansion in accumulated asset stocks. Taking the median between this 400-fold expansion in annual output and the 2,000-fold expansion in accumulated wealth reveals an approximate 1,000-fold historical expansion in the civilizational economic asset denominator. Calibrating Nordhaus's findings against this 1,000-fold historical median reveals a striking mathematical formulation: within a 1,000-fold expanded denominator, a pioneering enterprise capturing strictly 2.2 percent of the new surplus realizes an equity valuation equal to 22 times the size of the previous global economy (1,000 × 2.2% = 22). Grounding this multiplier in empirical history demonstrates its precision: twenty-two times the 1500 AD global economy yields approximately 5.4 trillion dollars; today, leading technology enterprises such as Apple, Microsoft, and NVIDIA command market valuations between 3.5 and 4 trillion dollars each—representing 14 to 16 times the entire 1500 AD planetary output, remarkably close to the theoretical 22-fold benchmark. This historical calibration demonstrates that envisioning a corporate capitalization orders of magnitude larger than a prior civilization's total economy is not wild hyperbole, but an established macroeconomic pattern governed by denominator expansion.
 
-具有决定性意义的是，当将这一历史数学关系投射至太空边疆时，一千倍的扩张仅仅构成保守的底线，而非上限。大西洋边疆的开启只是纳入了美洲——在地球封闭生物圈内部增加了百分之二十八的陆地面积。相比之下，迈向太阳系是一场开放式热力学相变：太阳辐射出3.8 × 10²⁶瓦的原生功率，小行星带储藏着数以千万亿吨计的工业矿石，宇宙真空则提供了无界的2.7开尔文热沉。面对这一开放的热力学上行空间，文明分母扩张一千倍只是一个保守的基准底线。将二十二倍的乘数应用于当今一百万亿美元的地表经济，即可得出两千二百万亿美元（2.2 × 10¹⁵美元）的企业市值底线。因此，先驱太空基础设施企业实现数千万亿美元的估值，是开放热力学扩张下具备数学支撑的下界，而非无根幻想。与此同时，人类社会承接其余百分之九十七点八的剩余，收获迈向九万七千八百万亿美元（9.78 × 10¹⁶美元）的普惠文明红利。
+具有决定性意义的是，当将这一历史数学关系投射至太空边疆时，一千倍的扩张仅仅构成保守的底线，而非上限。大西洋边疆的开启只是纳入了美洲——在地球封闭生物圈内部增加了百分之二十八的陆地面积。相比之下，迈向太阳系是一场开放式热力学相变：太阳辐射出3.8 × 10²⁶瓦的原生功率，小行星带储藏着数以千万亿吨计的工业矿石，宇宙真空则提供了无界的2.7开尔文热沉。面对这一开放的热力学上行空间，文明分母扩张一千倍只是一个保守的基准底线。将二十二倍的乘数应用于当今一百万亿美元的地表经济，即可得出两千二百万亿美元（2.2 × 10¹⁵美元）的企业市值底线。因此，先驱太空基础设施企业实现数千万亿美元的估值，是开放热力学扩张下具备数学支撑的下界，而非无根幻想。与此同时，人类社会承接其余百分之九十七点八的剩余，收获迈向九点七八亿亿美元（9.78 × 10¹⁶美元）的普惠文明红利。
 
 ```mermaid
 flowchart TD
@@ -274,7 +274,7 @@ flowchart TD
         INDIV["自然人个体财富留存<br/>创始人持股仅为有限份额，受稀释、税收与生物寿命约束"]:::model
         CORP["头部企业资本股权<br/>跨期贴现与机构资金汇聚，平均市值高于百分之二点二基准"]:::warn
         ECOSYS["生态系统总资本价值<br/>上游制造商与轨道基础设施以更大裕度超越基准"]:::warn
-        SURPLUS["文明社会总剩余<br/>百分之九十七点八普惠红利（约9.78万万亿美元，9.78 × 10¹⁶）"]:::mind
+        SURPLUS["文明社会总剩余<br/>百分之九十七点八普惠红利（约9.78亿亿美元，9.78 × 10¹⁶）"]:::mind
         INDIV --> CORP --> ECOSYS --> SURPLUS
     end
     S_DENOM_ZH ==> S_FORMULA_ZH
@@ -328,11 +328,11 @@ flowchart TD
     style S_LADDER_EN fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
 ```
 
-这正是分母扩容带来的结构性推论。若将太空经济仅仅建模为产出相当于今日地表十倍的边际领域，经典的百分之二点二诺德豪斯捕获率会将先驱企业的市值限制在二十万亿美元上下，无法触及千万亿美元门槛。然而那种静态测算低估了热力学相变的尺度。将一千倍的分母扩容确立为基准底线，意味着跨行星经济总分母将迈入十万万亿美元（10¹⁷美元）。在扩容后的分母之内，严格捕获百分之二点二价值的先驱企业自然达到两千二百万亿美元（2.2 × 10¹⁵美元）的市场估值。千万亿美元估值的数学自洽性，并不需要某家私人企业垄断全宇宙这种不可能的剧本；恰恰相反，它要求文明的其余部分收获约九万八千亿美元量级之上、达九万八千万亿美元（9.78 × 10¹⁶美元）的普惠社会剩余。先驱企业数千万亿美元的股权，只是十万万亿美元文明浪潮留下的尾部残差。
+这正是分母扩容带来的结构性推论。若将太空经济仅仅建模为产出相当于今日地表十倍的边际领域，经典的百分之二点二诺德豪斯捕获率会将先驱企业的市值限制在二十万亿美元上下，无法触及千万亿美元门槛。然而那种静态测算低估了热力学相变的尺度。将一千倍的分母扩容确立为基准底线，意味着跨行星经济总分母将迈入十亿亿美元（10¹⁷美元）。在扩容后的分母之内，严格捕获百分之二点二价值的先驱企业自然达到两千二百万亿美元（2.2 × 10¹⁵美元）的市场估值。千万亿美元估值的数学自洽性，并不需要某家私人企业垄断全宇宙这种不可能的剧本；恰恰相反，它要求文明的其余部分收获约九点八亿亿美元（9.78 × 10¹⁶美元）的普惠社会剩余。先驱企业数千万亿美元的股权，只是十亿亿美元文明浪潮留下的尾部残差。
 
 This is the structural consequence of denominator expansion. If one models the space economy as a marginal domain generating merely ten times today's terrestrial output, a classical 2.2 percent Nordhaus capture ratio would constrain the pioneer's capitalization to roughly twenty trillion dollars, falling short of the quadrillion-dollar threshold. Yet that static calculation underestimates the scale of a thermodynamic phase transition. Establishing a 1,000-fold denominator expansion as a baseline floor implies that the total interplanetary economic denominator will cross into one hundred quadrillion dollars (10¹⁷ dollars). Within that expanded denominator, a pioneer capturing strictly 2.2 percent of the value naturally achieves a market capitalization of 2.2 quadrillion dollars (2.2 × 10¹⁵ dollars). The mathematical coherence of the quadrillion-dollar valuation does not require the impossible scenario of a private corporation monopolizing the cosmos; rather, it requires that the rest of civilization receives roughly ninety-eight quadrillion dollars (9.78 × 10¹⁶ dollars) in diffusing social surplus. The pioneer's multi-quadrillion-dollar equity is merely the trailing residual of a hundred-quadrillion-dollar civilizational tide.
 
-在此还必须划定最后一重不可或缺的区分：自然人个体所留存的价值，与企业法人作为股权所留存的价值之间的结构性脱钩。大众评论极易将企业市值与创始人的个人净资产混为一谈，进而对单一自然人坐拥数千万亿美元的想象奇观产生条件反射式的恐慌。在现代资本结构中，鲜活的个体仅持有企业股权的一个局部份额——受到股权稀释、财政税收与生物寿命的严格约束。相反，企业法人充当着汇聚全球养老金体系、主权财富、指数基金以及数十年远期现金流贴现的制度性容器。诺德豪斯的百分之二点二基准衡量的是单一周期内的静态创新利润流；金融股权则对长期网络护城河、结构性协调权与跨期地租进行定价，这正是头部领军企业的平均估值系统性高于百分之二点二基准的原因。此外，当评估整个前沿企业生态系统——涵盖全部上游制造商、轨道物流网络与二级平台——所留存的资本总价值时，累积股权总值超越百分之二点二基准的幅度还要宽广得多。精确的实证百分比远不如这些粗粒度的尺度差异关键：具决定性的是看清数量级逐级放大的阶梯——从个人财富的局部切片，上升到前沿领军企业的资本化股权，再到产业生态系统的总资本存量，最终抵达浩瀚如海的文明总剩余。
+在此还必须划定最后一重不可或缺的区分：自然人个体所留存的价值，与企业法人作为股权所留存的价值之间的结构性脱钩。大众评论极易将企业市值与创始人的个人净资产混为一谈，进而对单一自然人坐拥数千万亿美元的想象奇观产生条件反射式的恐慌。在现代资本结构中，鲜活的个体仅持有企业股权的一个局部份额——受到股权稀释、财政税收与生物寿命的严格约束。相反，企业法人充当着汇聚全球养老金体系、主权财富、指数基金以及数十年远期现金流贴现的制度性容器。诺德豪斯的百分之二点二基准衡量的是单一周期内的静态创新利润流；金融股权则对长期网络护城河、结构性协调权与跨期租金进行定价，这正是头部领军企业的平均估值系统性高于百分之二点二基准的原因。此外，当评估整个前沿企业生态系统——涵盖全部上游制造商、轨道物流网络与二级平台——所留存的资本总价值时，累积股权总值超越百分之二点二基准的幅度还要宽广得多。精确的实证百分比远不如这些粗粒度的尺度差异关键：具决定性的是看清数量级逐级放大的阶梯——从个人财富的局部切片，上升到前沿领军企业的资本化股权，再到产业生态系统的总资本存量，最终抵达浩瀚如海的文明总剩余。
 
 A final, indispensable distinction must be delineated here: the structural decoupling between the value preserved by an individual human and the value preserved as the equity of a corporate entity. Popular commentary easily conflates corporate market capitalization with the personal net worth of a founder, triggering reflexive panic over the imaginary spectacle of a single individual commanding quadrillions of dollars. In modern capital structures, a living individual holds merely a fractional tranche of corporate equity—severely constrained by dilution, fiscal taxation, and biological lifespan. The corporation, conversely, serves as an institutional vessel pooling capital from global pension systems, sovereign wealth, index funds, and decades of capitalized forward cash flows. Nordhaus's 2.2 percent benchmark measures static innovation profit flows within a single period; financial equity prices long-term network moats, structural coordination authority, and intertemporal rents, which is precisely why the average valuation of top leading enterprises systematically exceeds that 2.2 percent baseline. Furthermore, when evaluating the total capital value preserved across the entire corporate frontier ecosystem—encompassing all upstream fabricators, orbital logistics networks, and secondary platforms—the total accumulated equity value exceeds the 2.2 percent baseline by an even wider margin. The precise empirical percentages matter far less than these rough scale differences: what is decisive is grasping the ladder of expanding orders of magnitude, rising from the fractional slice of individual wealth, to the capitalized equity of leading frontier firms, to the total capital stock of the industrial ecosystem, and ultimately to the oceanic expanse of civilizational surplus.
 
@@ -486,11 +486,11 @@ When millions of independent selections interact, accumulating path dependence a
 
 ## 七、 实体财富与纸面求索权的终极分野 / 7. The Ultimate Divergence Between Substantive Wealth and Paper Claims
 
-这一追问的最终解答，在于区分金融索取凭证与鲜活的生产性财富。正如[拥有更多从不是原因](../having-more-is-never-the-cause/)与[价值、货币与财富的生成机制](../the-generative-mechanics-of-value-money-and-wealth/)所阐明的，企业的市值规模只是一张针对未来预期分红与经济地租的法定索取凭证；无论纸面股权数字多么惊人，金融估值本身都无法被直接消费。
+这一追问的最终解答，在于区分金融索取凭证与鲜活的生产性财富。正如[拥有更多从不是原因](../having-more-is-never-the-cause/)与[价值、货币与财富的生成机制](../the-generative-mechanics-of-value-money-and-wealth/)所阐明的，企业的市值规模只是一张针对未来预期分红与经济租金的法定索取凭证；无论纸面股权数字多么惊人，金融估值本身都无法被直接消费。
 
 The final resolution of this inquiry rests upon distinguishing financial claim checks from living productive wealth. As articulated in [Having More Is Never the Cause](../having-more-is-never-the-cause/) and [The Generative Mechanics of Value, Money, and Wealth](../the-generative-mechanics-of-value-money-and-wealth/), a corporation's market capitalization is merely a legal claim check on anticipated future dividends and economic rents. Regardless of how astronomical paper equity values appear, financial valuations cannot be consumed directly.
 
-实体财富从来不是资产负债表上记载的纸面倍数，也不是漂浮在宇宙虚空中的死寂物质，而是鲜活心智通过物理交互抵御熵增、延展生命并维系自觉繁荣的鲜活能力。它由充沛的能源、高韧性的高速通信、无需破坏地表生态即可开采的原生矿产、离地计算容量，以及在宇宙中拓展开来的生存空间所构成。正如约翰·洛克菲勒经久不衰的历史遗产，并不是他个人峰值时期占美国国内生产总值百分之二的财富份额，而是平价煤油点亮了整片大陆无数普通家庭的夜晚；太空边疆的实体财富，也从不驻留在某家航天企业的股票代码之中。
+实体财富从来不是资产负债表上记载的纸面倍数，也不是漂浮在宇宙虚空中的死寂物质，而是心智通过物理交互抵御熵增、延展生命并维系自觉繁荣的鲜活能力。它由充沛的能源、高韧性的高速通信、无需破坏地表生态即可开采的原生矿产、离地计算容量，以及在宇宙中拓展开来的生存空间所构成。正如约翰·洛克菲勒经久不衰的历史遗产，并不是他个人峰值时期占美国国内生产总值百分之二的财富份额，而是平价煤油点亮了整片大陆无数普通家庭的夜晚；太空边疆的实体财富，也从不驻留在某家航天企业的股票代码之中。
 
 ```mermaid
 flowchart TD
@@ -501,7 +501,7 @@ flowchart TD
     classDef model fill:#0d1117,stroke:#58a6ff,stroke-width:1.5px,color:#f0f6fc;
     subgraph S_FINANCE_ZH ["金融资产估值（法定求索权）"]
         direction TB
-        EQUITY["企业市值：针对未来地租的纸面索取凭证"]:::warn
+        EQUITY["企业市值：针对未来租金的纸面索取凭证"]:::warn
     end
     subgraph S_REAL_ZH ["文明实体财富（抗熵能力）"]
         direction TB
