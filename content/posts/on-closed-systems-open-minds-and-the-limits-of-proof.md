@@ -8,9 +8,9 @@ No closed system can account for its own origin. Formal systems make that bounda
 
 ## 一、 封闭系统无法走出自身 / 1. A Closed System Cannot Step Out of Itself
 
-任何封闭系统，无论是形式公理结构还是经典计算轨迹，都在既定规则与初始前提的边界之内运作。它无法走出自身的条件作用历史，从内部为自身的存在奠基或核证自身的完备性。哥德尔不完备定理为形式系统确立了这道结构性界限：任何一致且足够强的形式系统，都会生成在其规则内部无法证明的命题，并且如果不诉诸超出自身的元系统，就无法证明自身的一致性。
+任何封闭系统，无论是形式公理结构还是经典计算轨迹，都在既定规则与初始前提的边界之内运作。它无法走出自身的条件作用历史，从内部为自身的存在奠基或核证自身的完备性。哥德尔不完备定理为形式系统确立了这道结构性界限：任何一致、可有效公理化且足以表达基本算术的形式系统，都会生成在其规则内部既无法证明也无法证伪的命题，并且如果不诉诸超出自身的元系统，就无法证明自身的一致性。
 
-Any closed system, whether a formal axiomatic structure or a classical computational trajectory, operates inside the boundaries of its given rules and initial premises. It cannot step outside its own conditioning history to ground its existence or certify its completeness from within. Gödel's incompleteness theorems establish this structural bound for formal systems: any consistent, sufficiently powerful formal system generates statements that cannot be proved inside its rules and cannot demonstrate its own consistency without appealing to a meta-system beyond itself.
+Any closed system, whether a formal axiomatic structure or a classical computational trajectory, operates inside the boundaries of its given rules and initial premises. It cannot step outside its own conditioning history to ground its existence or certify its completeness from within. Gödel's incompleteness theorems establish this structural bound for formal systems: any consistent, effectively axiomatized formal system strong enough for basic arithmetic generates statements that can neither be proved nor refuted inside its rules and cannot demonstrate its own consistency without appealing to a meta-system beyond itself.
 
 心智并不是形式系统目录里一个享有特权的客体。自我区分的活动发生着，无因，不息。称它为心智：已然在进行之中的观察者，它的每一个动作都在划出离散区分的同时跨越诸动作向前延续。每一个形式系统、规则手册与计算模型，都是这一活动为了延伸自身触角而画出的有限持守。由于画下封印的活动总是比它留下的任何产物领先一步，生成者无法被封入它自己的残余之中。[没有系统能被保持封闭](../no-system-can-be-kept-closed/)追踪的正是这一不可化约的余数——凡是把有限持守当作穷尽无遗的根据之处，它都会浮现；而[开放即一致](../openness-is-consistency/)则从融贯性的一侧追踪同一几何结构：唯有当一个有限结构被强行用来为投射出它的持续活动奠基时，不一致才会产生。
 
@@ -88,7 +88,7 @@ flowchart TD
         M1 --> D --> M2 --> L
     end
     Q ==>|"离开单系统框架"| P1
-    P3 ==>|"投射第三人称痕迹"| M1
+    P3 ==>|"面对另一个活的心智"| M1
     style S_Single fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Proj fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Inter fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -132,7 +132,7 @@ flowchart TD
         M1 --> D --> M2 --> L
     end
     Q ==>|"Leaves single-system frame"| P1
-    P3 ==>|"Projects third-person trace"| M1
+    P3 ==>|"Faces another living Mind"| M1
     style S_Single fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Proj fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style S_Inter fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950

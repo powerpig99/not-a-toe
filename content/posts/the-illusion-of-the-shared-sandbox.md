@@ -38,7 +38,6 @@ flowchart TD
         Circle --> Regress
         First --> Inside
     end
-
     style S_Define fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style Canvas fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style First fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -66,7 +65,6 @@ flowchart TD
         Circle --> Regress
         First --> Inside
     end
-
     style S_Define fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style Canvas fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style First fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -98,7 +96,6 @@ flowchart TD
         Token --> Sandbox
         Token --> Friction
     end
-
     style S_Price fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style MindA fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style MindB fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -123,7 +120,6 @@ flowchart TD
         Token --> Sandbox
         Token --> Friction
     end
-
     style S_Price fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style MindA fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style MindB fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -132,9 +128,9 @@ flowchart TD
     style Friction fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
 ```
 
-这一机制放到群体的协作上，生出两种构念。一种是作为多元无知的“常识”：公共的话语并不锚在具体心智的信念上，而是锚在一个设想出来的中位观察者上，交流的人用被认可的词汇来降低摩擦，由此加固了一套双方私下都不认同、公开却一同维持的规范。另一种是作为制度性停火的“既定科学”：对非专业的人而言，复杂的物理范式不是经由直接的经验或数学的推演而持有的，它是制度上的出清价，人们因下游的技术构件运转稳定而接受它的结论，工程上的操作性休战便被当成了对现实的最终阐释。[索求万物理论是在将当下冻结为清单](../demanding-a-toe-freezes-time-into-a-catalog/)说明，自称合上了现实的清单，是特定观测窗口下的局部投影；[你的代码库即是记忆](../your-codebase-is-memory/)在软件与知识库中定位了同一结构：跨会话与智能体共享的代码库，并非装载着相同内在理解的共享心智沙盒，而是一张由显式接口、不变量与核验检查构成的出清网络，让各条独立的流线在其中登记摩擦并校准下一步行动。
+这一机制放到群体的协作上，生出两种构念。一种是作为多元无知的“常识”：公共的话语并不锚在具体心智的信念上，而是锚在一个设想出来的中位观察者上，交流的人用被认可的词汇来降低摩擦，由此加固了一套双方私下都不认同、公开却一同维持的规范。另一种是作为制度性停火的“既定科学”：对非专业的人而言，复杂的物理范式不是经由直接的经验或数学的推演而持有的，它是制度上的出清价，人们因下游的技术构件运转稳定而接受它的结论，工程上的操作性休战便被当成了对现实的最终阐释。[索求万物理论是在将当下冻结为清单](../demanding-a-toe-freezes-time-into-a-catalog/)说明，自称合上了现实的清单，是特定观测窗口下的局部投影；[你的代码库即是记忆](../your-codebase-is-memory/)在软件与知识库中定位了同一结构：跨会话与智能体共享的代码库，并非装载着相同内在理解的共享心智沙盒，而是一座由持久痕迹、不变量与审计检查构成的外化晶格，有界轨迹以之为条件来落定可推导的步骤，同时将不可约的前提冲突交还掌舵前沿处活的心智，断裂在那里得以登记，边界也在那里重切。
 
-Carried over to cooperation in groups, the mechanism produces two constructs. One is "common sense" as pluralistic ignorance: public discourse is anchored not in the beliefs of particular Minds but in an imagined median observer, and those communicating use approved vocabulary to lower friction, thereby reinforcing a norm that neither side privately shares and both publicly maintain. The other is "settled science" as an institutional truce: for those who are not specialists, a complex physical paradigm is not held through direct experience or mathematical derivation; it is an institutional clearing price, its conclusions accepted because the technical components downstream run stably, and an operational armistice in engineering is taken for the final account of reality. [Demanding a Theory of Everything Freezes Time into a Catalog](../demanding-a-toe-freezes-time-into-a-catalog/) shows that a catalog claiming to have closed reality is a local projection under a particular window of observation, and [Your Codebase Is Memory](../your-codebase-is-memory/) locates the same structure in software and knowledge repositories: a codebase shared across sessions and agents is not a shared mental sandbox containing identical inner understanding, but an externalized lattice of durable traces, invariants, and audit checks where independent streamlines register friction to calibrate their next move and return irreducible premise conflicts to the living Mind at the steering edge.
+Carried over to cooperation in groups, the mechanism produces two constructs. One is "common sense" as pluralistic ignorance: public discourse is anchored not in the beliefs of particular Minds but in an imagined median observer, and those communicating use approved vocabulary to lower friction, thereby reinforcing a norm that neither side privately shares and both publicly maintain. The other is "settled science" as an institutional truce: for those who are not specialists, a complex physical paradigm is not held through direct experience or mathematical derivation; it is an institutional clearing price, its conclusions accepted because the technical components downstream run stably, and an operational armistice in engineering is taken for the final account of reality. [Demanding a Theory of Everything Freezes Time into a Catalog](../demanding-a-toe-freezes-time-into-a-catalog/) shows that a catalog claiming to have closed reality is a local projection under a particular window of observation, and [Your Codebase Is Memory](../your-codebase-is-memory/) locates the same structure in software and knowledge repositories: a codebase shared across sessions and agents is not a shared mental sandbox containing identical inner understanding, but an externalized lattice of durable traces, invariants, and audit checks that bounded trajectories condition on to settle derivable steps while returning irreducible premise conflicts to the living Mind at the steering edge, where the break registers and the boundary is re-cut.
 
 ## 三、 外部的摩擦是损失信号 / 3. Outer Friction as a Loss Signal
 

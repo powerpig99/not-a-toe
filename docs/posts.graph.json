@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-11T13:09:44.664Z",
+    "generated_at": "2026-11-11T13:46:06.217Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -61,7 +61,7 @@
       "content/posts/context-engineering-essay.md": "b551944fbba4",
       "content/posts/continuous-learning-as-expression-and-simulation.md": "9ce5608bf474",
       "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "d399e29f1ee7",
-      "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "6b2b7b30fcb5",
+      "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "b30bcd660aa1",
       "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "63bff49ee35f",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "de3299fb5449",
       "content/posts/curiosity-has-no-final-form.md": "100335def2de",
@@ -156,7 +156,7 @@
       "content/posts/not-predicting-is-predicting-without-awareness.md": "750dd47f6c5b",
       "content/posts/objects-are-stabilized-relationships.md": "5c88afea080b",
       "content/posts/observation-distinguishing-activity-and-the-open-ground-of-mind.md": "e78f9a54eccc",
-      "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "8699e204b57f",
+      "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "b42c528284b2",
       "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "2e8a1140f57c",
       "content/posts/on-education.md": "2506ab652440",
       "content/posts/on-the-boundaries-of-what-can-be-said-about-p-and-np.md": "2cb5a3dff94a",
@@ -289,7 +289,7 @@
       "content/posts/the-generative-topology-of-free-variables.md": "65e02375837f",
       "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "e5d814b55e4d",
       "content/posts/the-geometry-of-emergence.md": "2d50769c9847",
-      "content/posts/the-geometry-of-mind.md": "d11c9a9d9394",
+      "content/posts/the-geometry-of-mind.md": "1ea3326d5ade",
       "content/posts/the-geometry-of-success.md": "7e595bd2dce9",
       "content/posts/the-geometry-of-the-cut.md": "1fc2cc0a5e0c",
       "content/posts/the-grammar-of-finding-and-the-fading-observer.md": "2cb811198b30",
@@ -301,7 +301,7 @@
       "content/posts/the-illusion-of-free-intelligence.md": "d744917714ec",
       "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "28d2c9ecb890",
       "content/posts/the-illusion-of-multi-agent-collaboration.md": "cc51c6bb6e4f",
-      "content/posts/the-illusion-of-the-shared-sandbox.md": "f20e733d6ceb",
+      "content/posts/the-illusion-of-the-shared-sandbox.md": "bc033de6677c",
       "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "d7248404a3e5",
       "content/posts/the-illusion-of-the-unmediated.md": "6167af604584",
       "content/posts/the-imagining-of-ai-risk.md": "06a93ab32a22",
@@ -2195,7 +2195,7 @@
       "slug": "coordinates-in-flux-negation-and-self-anchoring",
       "path": "content/posts/coordinates-in-flux-negation-and-self-anchoring.md",
       "title": "流动中的坐标 / Coordinates in Flux",
-      "hash": "6b2b7b30fcb5",
+      "hash": "b30bcd660aa1",
       "in_degree": 9,
       "out_degree": 13,
       "links_out": [
@@ -4784,7 +4784,7 @@
       "slug": "on-closed-systems-open-minds-and-the-limits-of-proof",
       "path": "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md",
       "title": "论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof",
-      "hash": "8699e204b57f",
+      "hash": "b42c528284b2",
       "in_degree": 12,
       "out_degree": 13,
       "links_out": [
@@ -8449,7 +8449,7 @@
       "slug": "the-geometry-of-mind",
       "path": "content/posts/the-geometry-of-mind.md",
       "title": "心智的几何学 / The Geometry of Mind",
-      "hash": "d11c9a9d9394",
+      "hash": "1ea3326d5ade",
       "in_degree": 20,
       "out_degree": 22,
       "links_out": [
@@ -8461,7 +8461,6 @@
         "the-generative-topology-of-free-variables",
         "dimensions-are-projections",
         "the-mind-as-vector-and-coordinate-system",
-        "the-extendable-horizon",
         "the-scaffolding-we-forget",
         "your-codebase-is-memory",
         "beyond-the-projection",
@@ -8474,6 +8473,7 @@
         "the-deterministic-machine",
         "the-only-coherent-uncaused-effect",
         "the-arithmetic-of-the-register",
+        "the-extendable-horizon",
         "manifesto-of-not-a-theory-of-everything"
       ]
     },
@@ -8750,7 +8750,7 @@
       "slug": "the-illusion-of-the-shared-sandbox",
       "path": "content/posts/the-illusion-of-the-shared-sandbox.md",
       "title": "共享沙盒的幻象 / The Illusion of the Shared Sandbox",
-      "hash": "f20e733d6ceb",
+      "hash": "bc033de6677c",
       "in_degree": 11,
       "out_degree": 10,
       "links_out": [
@@ -65855,18 +65855,6 @@
     },
     {
       "from": "the-geometry-of-mind",
-      "to": "the-extendable-horizon",
-      "rel": "points_to",
-      "label": "可延展的地平线"
-    },
-    {
-      "from": "the-geometry-of-mind",
-      "to": "the-extendable-horizon",
-      "rel": "points_to",
-      "label": "The Extendable Horizon"
-    },
-    {
-      "from": "the-geometry-of-mind",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "遗忘的脚手架"
@@ -66011,6 +65999,12 @@
     },
     {
       "from": "the-geometry-of-mind",
+      "to": "the-extendable-horizon",
+      "rel": "points_to",
+      "label": "可延展的地平线"
+    },
+    {
+      "from": "the-geometry-of-mind",
       "to": "manifesto-of-not-a-theory-of-everything",
       "rel": "points_to",
       "label": "非万物之理"
@@ -66026,6 +66020,12 @@
       "to": "the-arithmetic-of-the-register",
       "rel": "points_to",
       "label": "The Arithmetic of the Register"
+    },
+    {
+      "from": "the-geometry-of-mind",
+      "to": "the-extendable-horizon",
+      "rel": "points_to",
+      "label": "The Extendable Horizon"
     },
     {
       "from": "the-geometry-of-mind",
