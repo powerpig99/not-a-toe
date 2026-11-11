@@ -1,8 +1,8 @@
 # 以本地模型为默认是被遗忘的脚手架 / Local Models as Default Is Forgotten Scaffolding
 
-*开放的能力竖起一个默认，竖起的过程退出视野，默认便显得有如既定。 / An open capacity erects a default that drops out of view and looks given.*
+*开放的能力竖起一个默认，竖起的过程退出视野，默认便显得有如既定。 / An open capacity erects a default, the act of erecting drops out of view, and the default looks given.*
 
-[阿拉温德·斯里尼瓦斯](https://x.com/AravSrinivas/status/2076179190198812831)指出人类擅长使用工具——包括在特定维度上算力与智能超越自身的工具——并认为这种能力表明，本地模型将控制前沿模型，并以极低的功耗与成本成为绝大多数任务的默认入口。第一句话让边缘保持开放。第二句话用一处确定的入口取代了那份开放：本地模型。[遗忘的脚手架](../the-scaffolding-we-forget/)在一般意义上指出了同样的几何结构。下文要追溯的，正是这两句话的运动，以及它们留下而未曾折返的切口。
+[阿拉温德·斯里尼瓦斯](https://x.com/AravSrinivas/status/2076179190198812831)指出人类擅长使用工具——包括在特定维度上力量与智能超越自身的工具——并认为这种能力表明，本地模型将控制前沿模型，并以极低的功耗与成本成为大多数任务的默认入口。第一句话让边缘保持开放。第二句话用一处确定的入口取代了那份开放：本地模型。[遗忘的脚手架](../the-scaffolding-we-forget/)在一般意义上指出了同样的几何结构。下文要追溯的，正是这两句话的运动，以及它们留下而未曾折返的切口。
 
 [Aravind Srinivas](https://x.com/AravSrinivas/status/2076179190198812831) notes that humans are good at tool use — including tools that exceed them in power and in intelligence along specific dimensions — and takes that capacity as suggesting that local models will control frontier models and become the default entry point for most tasks, at minimal power and cost. The first sentence holds the edge open. The second replaces that openness with a determinate entry: the local model. [The Scaffolding We Forget](../the-scaffolding-we-forget/) is the same geometry named in general. What follows is the movement of those two sentences, and the cut they leave unreturned.
 
@@ -14,9 +14,9 @@ Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: t
 
 ## 二、 保持开放的能力 / 2. Capacity Held Open
 
-那则X帖子的第一句话登记了这份开放的能力。人类——更准确地说，使用工具的心智——处在选用工具的位置上，包括在特定轴向上算力与智能超越当下具身的工具。这句话尚未绑定任何一种构型。它只是指出，选用并驾驭此类工具的能力业已存在。这正是边缘仍作为边缘而清晰可见的时刻：无论本地、直连还是其他方式都依然敞开，因为选择者尚未被某一件选定的器具所取代。
+那则X帖子的第一句话登记了这份开放的能力。人类——更准确地说，使用工具的心智——处在选用工具的位置上，包括沿特定轴向在算力与有界执行上超越当下具身的工具。这句话尚未绑定任何一种构型。它只是指出，选用并驾驭此类工具的能力业已存在。这正是边缘仍作为边缘而清晰可见的时刻：无论本地、直连还是其他方式都依然敞开，因为选择者尚未被某一件选定的器具所取代。
 
-The first sentence of the X post registers this open capacity. Humans — more precisely, the Mind that uses — stand in a position of choosing tools, including tools that exceed present embodiment in power and in intelligence along particular axes. The sentence does not yet commit to a configuration. It notes that the capacity to choose and employ such tools exists. That is the edge still visible as edge: local, direct, or otherwise remains available because the chooser has not been replaced by a chosen instrument.
+The first sentence of the X post registers this open capacity. Humans — more precisely, the Mind that uses — stand in a position of choosing tools, including tools that exceed present embodiment in compute and bounded execution along particular axes. The sentence does not yet commit to a configuration. It notes that the capacity to choose and employ such tools exists. That is the edge still visible as edge: local, direct, or otherwise remains available because the chooser has not been replaced by a chosen instrument.
 
 ## 三、 作为“情境所示”而竖起的脚手架 / 3. Scaffolding Erected as What the Situation Suggests
 
@@ -110,15 +110,15 @@ flowchart TD
 
 What recedes for the duration of the argument is not freedom. Freedom remains the prior activity — the Mind continuing to distinguish. What recedes is recognition that the particular default now treated as given was installed by that same activity. The scaffolding is no longer registered as scaffolding. It is registered as the way things are resolving.
 
-以本地模型作为前沿算力的低成本调度器，依然可以是一套可用的取向。成本、延迟、隐私与功耗，都是各个中心持续划定边界的真实轴向。这一刀切开的，并不是说这套安排空无一物，而是说它的默认地位并非从第一句话所指认的能力中发现出来的。第一句话所指认的能力，恰恰使一切安排保持临时性：边缘可以选择本地、直连、混合，或是尚未划出的构型。[硬件的本地性不是信息的边界](../hardware-locality-is-not-the-information-boundary/)作出的是同一道临时之切，针对的是本地开放系统被冻结为能动性或隐私的先决条件，而不是被持守为特定信息边界下选定的器具。
+以本地模型作为前沿算力的低成本调度器，依然可以是一套可用的取向。成本、延迟、离线运行与功耗，都是各个中心持续划定边界的轴向。这一刀切开的，并不是说这套安排空无一物，而是说它的默认地位并非从第一句话所指认的能力中发现出来的。第一句话所指认的能力，恰恰使一切安排保持临时性：边缘可以选择本地、直连、混合，或是尚未划出的构型。[硬件的本地性不是信息的边界](../hardware-locality-is-not-the-information-boundary/)作出的是同一道临时之切，针对的是本地开放系统被冻结为能动性或隐私的先决条件，而不是被持守为特定信息边界下选定的器具。
 
-Local models as low-cost dispatchers of frontier capacity can remain a usable orientation. Cost, latency, privacy, and power are real axes on which centers will keep drawing bounds. The cut is not that the arrangement is empty. The cut is that its default status is not discovered in the capacity named by the first sentence. The capacity named by the first sentence is what keeps every arrangement provisional: the edge can choose local, direct, hybrid, or a configuration not yet drawn. [Hardware Locality Is Not the Information Boundary](../hardware-locality-is-not-the-information-boundary/) is the same provisional cut when local open systems are frozen as the condition of agency or of privacy rather than as chosen instruments under a specified information boundary.
+Local models as low-cost dispatchers of frontier capacity can remain a usable orientation. Cost, latency, offline operation, and power are axes on which centers will keep drawing bounds. The cut is not that the arrangement is empty. The cut is that its default status is not discovered in the capacity named by the first sentence. The capacity named by the first sentence is what keeps every arrangement provisional: the edge can choose local, direct, hybrid, or a configuration not yet drawn. [Hardware Locality Is Not the Information Boundary](../hardware-locality-is-not-the-information-boundary/) is the same provisional cut when local open systems are frozen as the condition of agency or of privacy rather than as chosen instruments under a specified information boundary.
 
 ## 六、 向着一步之界收窄过剩滞后 / 6. Narrowing Excess Lag Toward the One-Step Bound
 
-当这一运动被觉察而非被演示时，原有的主张并不会消失，而是重获其器具地位：它是被选定的取向，可以使用、可以修订，也可以在完成当下这一步之后任其卸下。正如[你的代码库即是记忆](../your-codebase-is-memory/)跨越层叠的数字残余所追溯的那样，无论模型还是包裹其外的路由脚手架，都是早先区分压缩而成的痕迹，而非自行延续的中心；因此，让工作界面保持清明的关键，在于重切当下的检查点，而非任由昨日的脚手架伪装成今日的地面。本地模型的默认地位再次显现为心智可以择取的安排，而非自行选定自身之物。折返并不要求抛弃本地模型的部署方案，只要求将这套安排持守为选定的器具，而不是情境强加的定局。
+当这一运动得到觉察，而非在不知不觉中被执行时，原有的主张并不会消失，而是重获其器具地位：它是被选定的取向，可以使用、可以修订，也可以在完成当下这一步之后任其卸下。正如[你的代码库即是记忆](../your-codebase-is-memory/)跨越层叠的数字残余所追溯的那样，无论模型还是包裹其外的路由脚手架，都是早先区分压缩而成的痕迹，而非自行延续的中心；因此，让工作界面保持清明的关键，在于重切当下的检查点，而非任由昨日的脚手架伪装成今日的地面。本地模型的默认地位再次显现为心智可以择取的安排，而非自行选定自身之物。折返并不要求抛弃本地模型的部署方案，只要求将这套安排持守为选定的器具，而不是情境强加的定局。
 
-When the movement is noticed rather than performed, the claim does not disappear. It regains its instrumental status: a chosen orientation that can be used, revised, or allowed to drop once it has served its step. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces across stacked digital residues, both models and the routing scaffolds wrapped around them are compressed traces of prior distinctions rather than continuing centers, so keeping the working surface unclouded turns on re-cutting the present checkpoint rather than letting yesterday's scaffolding masquerade as today's ground. The default status of local models appears again as something the Mind can elect rather than something that elects itself. Return does not require abandoning the local-model arrangement. It requires that the arrangement be held as a chosen instrument rather than as the resolution the situation forced.
+When the movement is noticed rather than carried out unawares, the claim does not disappear. It regains its instrumental status: a chosen orientation that can be used, revised, or allowed to drop once it has served its step. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces across stacked digital residues, both models and the routing scaffolds wrapped around them are compressed traces of prior distinctions rather than continuing centers, so keeping the working surface unclouded turns on re-cutting the present checkpoint rather than letting yesterday's scaffolding masquerade as today's ground. The default status of local models appears again as something the Mind can elect rather than something that elects itself. Return does not require abandoning the local-model arrangement. It requires that the arrangement be held as a chosen instrument rather than as the resolution the situation forced.
 
 真正的入口始终是心智，它可以选择本地接入，也可以选择直接调用原生前沿模型——或者不将任何一方设为永久的默认。本地与前沿皆是这一入口之下的工具：为了承接后续区分而竖起的脚手架，只要参照随着步进向着一步之界持续重新渲染，它便保持可用。
 
