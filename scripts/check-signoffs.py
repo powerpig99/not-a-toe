@@ -12,10 +12,13 @@ Checks for each `work/<slug>/` DELTA node before Stage 3 interleaving:
      and whose `source_sha256` matches `sha256(work/<slug>/en.md)`.
   4. Every backtick `path:line` / `slug:line` locator in `work/<slug>/notes.md`
      (when present) resolves to an existing file whose line count covers the cited
-     line numbers. Can also be run standalone on any notes file via `--locators`.
+     line numbers (against the working tree pre-consolidation, and across both the
+     pre-consolidation `<commit>~1` baseline and consolidated tree when `--commit <sha>`
+     is supplied after Stage 3 interleaving). Can also be run standalone via `--locators`.
   5. For `NO_DELTA` nodes (no `work/<slug>/en.md`), verifies `DRAFTER: confirmed_no_delta`
      (or `CRITIC: confirmed_no_delta`) in `work/<slug>/notes.md` (or `debate-en.md`)
-     against `sha256(content/posts/<slug>.md)` (or `content/book/<name>.md`) and
+     against `sha256(content/posts/<slug>.md)` (or `content/book/<name>.md`, accepting
+     `<commit>~1` when `--commit <sha>` is supplied after Stage 3 H1 anchor sync) and
      verifies `work/<slug>/notes.md` locators.
   6. With `--record-batch <m> --commit <sha> <slug1> ...`, deterministically updates
      `work/wave.md` checkboxes, prunes completed items and appends `DELTA (propagates)`
@@ -30,8 +33,8 @@ Checks for each `work/<slug>/` DELTA node before Stage 3 interleaving:
      or `/scout` handoff directory.
 
 Usage:
-  python3 scripts/check-signoffs.py <slug> [<slug2> ...]
-  python3 scripts/check-signoffs.py --locators <notes.md> [<notes2.md> ...]
+  python3 scripts/check-signoffs.py [--commit <sha>] <slug> [<slug2> ...]
+  python3 scripts/check-signoffs.py --locators [--commit <sha>] <notes.md> [<notes2.md> ...]
   python3 scripts/check-signoffs.py --record-batch <m> --commit <sha> [--deploy-run <id>] [--problem <note>] <slug1> [<slug2> ...]
   python3 scripts/check-signoffs.py --clean-sleep [--dry-run]
 """
@@ -42,6 +45,7 @@ import hashlib
 import pathlib
 import re
 import shutil
+import subprocess
 import sys
 
 
@@ -63,8 +67,41 @@ SUMMARY_LINE_RE = re.compile(
 )
 
 
+_GIT_BLOB_CACHE: dict[tuple[str, str], bytes | None] = {}
+_SAFE_REV_RE = re.compile(r"^[0-9A-Za-z._~^/-]+$")
+
+
 def sha256_file(path: pathlib.Path) -> str:
     return hashlib.sha256(path.read_bytes()).hexdigest()
+
+
+def normalize_commit_sha(commit_sha: str | None) -> str | None:
+    if not commit_sha:
+        return None
+    cleaned = commit_sha.strip()
+    if not cleaned or cleaned.lower() == "none" or cleaned.startswith("-") or not _SAFE_REV_RE.match(cleaned):
+        return None
+    return cleaned
+
+
+def git_blob_bytes(rev: str, rel_posix: str) -> bytes | None:
+    if not rev or rev.startswith("-") or not _SAFE_REV_RE.match(rev):
+        return None
+    key = (rev, rel_posix)
+    if key in _GIT_BLOB_CACHE:
+        return _GIT_BLOB_CACHE[key]
+    try:
+        proc = subprocess.run(
+            ["git", "-C", str(ROOT), "show", f"{rev}:{rel_posix}"],
+            capture_output=True,
+            check=False,
+        )
+    except OSError:
+        _GIT_BLOB_CACHE[key] = None
+        return None
+    blob = proc.stdout if proc.returncode == 0 else None
+    _GIT_BLOB_CACHE[key] = blob
+    return blob
 
 
 def validate_single_locator(
@@ -73,30 +110,54 @@ def validate_single_locator(
     source_label: str,
     base_dir: pathlib.Path | None = None,
     line_count_cache: dict[pathlib.Path, int] | None = None,
+    commit_sha: str | None = None,
 ) -> list[str]:
     errors: list[str] = []
     if ":" not in tok:
         return [f"[{label}] Invalid locator `{tok}` in {source_label} (expected slug:line)"]
     head, tail = tok.split(":", 1)
+    sha = normalize_commit_sha(commit_sha)
     cand = ROOT / head
     if not cand.is_file() and base_dir is not None:
         cand = base_dir / head
     if not cand.is_file():
         slug = head.removesuffix(".md")
         cand = ROOT / "content" / "posts" / f"{slug}.md"
-    if not cand.is_file():
+
+    resolved: pathlib.Path | None = None
+    max_line: int | None = None
+    if cand.is_file():
+        resolved = cand.resolve()
+        if line_count_cache is not None:
+            if resolved not in line_count_cache:
+                line_count_cache[resolved] = len(resolved.read_text(encoding="utf-8").split("\n"))
+            max_line = line_count_cache[resolved]
+        else:
+            max_line = len(resolved.read_text(encoding="utf-8").split("\n"))
+    elif sha:
+        for raw_rel in (head, f"content/posts/{head.removesuffix('.md')}.md"):
+            cand_rel = (ROOT / raw_rel).resolve()
+            if not cand_rel.is_relative_to(ROOT):
+                continue
+            blob = git_blob_bytes(f"{sha}~1", cand_rel.relative_to(ROOT).as_posix())
+            if blob is not None:
+                max_line = len(blob.decode("utf-8", errors="replace").split("\n"))
+                break
+
+    if max_line is None:
         return [f"[{label}] Unresolved locator `{tok}` in {source_label} (file not found)"]
-    resolved = cand.resolve()
-    if line_count_cache is not None:
-        if resolved not in line_count_cache:
-            line_count_cache[resolved] = len(resolved.read_text(encoding="utf-8").split("\n"))
-        max_line = line_count_cache[resolved]
-    else:
-        max_line = len(resolved.read_text(encoding="utf-8").split("\n"))
+
     nums = [int(n) for n in re.findall(r"\d+", tail)]
     if not nums:
         return [f"[{label}] Locator `{tok}` in {source_label} has no line numbers"]
     bad = [n for n in nums if n < 1 or n > max_line]
+    if bad and sha and resolved is not None and resolved.is_relative_to(ROOT):
+        blob = git_blob_bytes(f"{sha}~1", resolved.relative_to(ROOT).as_posix())
+        if blob is not None:
+            baseline_max = len(blob.decode("utf-8", errors="replace").split("\n"))
+            if baseline_max > max_line:
+                max_line = baseline_max
+                bad = [n for n in nums if n < 1 or n > max_line]
     if bad:
         errors.append(
             f"[{label}] Locator `{tok}` in {source_label} exceeds file length (line {bad[0]} > {max_line})"
@@ -104,7 +165,11 @@ def validate_single_locator(
     return errors
 
 
-def check_locators(notes_path: pathlib.Path, label: str) -> list[str]:
+def check_locators(
+    notes_path: pathlib.Path,
+    label: str,
+    commit_sha: str | None = None,
+) -> list[str]:
     if not notes_path.is_file():
         return [f"[{label}] Missing {notes_path}"]
     errors: list[str] = []
@@ -118,6 +183,7 @@ def check_locators(notes_path: pathlib.Path, label: str) -> list[str]:
                 notes_path.name,
                 base_dir=notes_path.parent,
                 line_count_cache=line_count_cache,
+                commit_sha=commit_sha,
             )
         )
     return errors
@@ -128,6 +194,7 @@ def parse_critic_verdict_and_summary(
     deb_en: str,
     is_no_delta: bool,
     require_lines: bool = False,
+    commit_sha: str | None = None,
 ) -> tuple[str, list[tuple[str, bool]], str, list[str]]:
     """
     Deterministically parses `VERDICT: ... | RESTATERS: ...` and `SUMMARY: ...`
@@ -183,6 +250,7 @@ def parse_critic_verdict_and_summary(
                         slug,
                         "notes.md (RESTATERS)",
                         line_count_cache=line_count_cache,
+                        commit_sha=commit_sha,
                     )
                     if loc_errs:
                         errors.extend(loc_errs)
@@ -234,6 +302,7 @@ def missing_or_decorated(
 def classify_node(
     slug: str,
     require_verdict_summary: bool = False,
+    commit_sha: str | None = None,
 ) -> tuple[str, str, str, list[tuple[str, bool]], str, list[str]]:
     """
     Returns (verdict, en_or_post_sha, zh_sha, restaters, summary, errors) where verdict is one of:
@@ -270,20 +339,35 @@ def classify_node(
             errors.append(f"[{slug}] Missing target file for confirmed_no_delta")
             return ("NO_DELTA", "", "", [], "NO_DELTA", errors)
         expected_sha = sha256_file(target_path)
-        if target_path != notes_path and m_no_delta.group(1) != expected_sha:
-            errors.append(
-                f"[{slug}] DRAFTER confirmed_no_delta sha256 ({m_no_delta.group(1)[:12]}...) "
-                f"!= {target_path.name} ({expected_sha[:12]}...)"
-            )
+        recorded_sha = m_no_delta.group(1)
+        matched_sha = expected_sha
+        if target_path != notes_path and recorded_sha != expected_sha:
+            sha = normalize_commit_sha(commit_sha)
+            resolved_target = target_path.resolve()
+            baseline_matched = False
+            if sha and resolved_target.is_relative_to(ROOT):
+                blob = git_blob_bytes(f"{sha}~1", resolved_target.relative_to(ROOT).as_posix())
+                if blob is not None and hashlib.sha256(blob).hexdigest() == recorded_sha:
+                    baseline_matched = True
+                    matched_sha = recorded_sha
+            if not baseline_matched:
+                errors.append(
+                    f"[{slug}] DRAFTER confirmed_no_delta sha256 ({recorded_sha[:12]}...) "
+                    f"!= {target_path.name} ({expected_sha[:12]}...)"
+                )
         if notes_path.is_file():
-            errors.extend(check_locators(notes_path, slug))
+            errors.extend(check_locators(notes_path, slug, commit_sha=commit_sha))
         else:
             errors.append(f"[{slug}] Missing work/{slug}/notes.md for NO_DELTA node")
         verdict, restaters, summary, v_errs = parse_critic_verdict_and_summary(
-            slug, stage1_log, is_no_delta=True, require_lines=require_verdict_summary
+            slug,
+            stage1_log,
+            is_no_delta=True,
+            require_lines=require_verdict_summary,
+            commit_sha=commit_sha,
         )
         errors.extend(v_errs)
-        return (verdict, m_no_delta.group(1) if target_path == notes_path else expected_sha, "", restaters, summary, errors)
+        return (verdict, recorded_sha if target_path == notes_path else matched_sha, "", restaters, summary, errors)
 
     required_files = [en_path, notes_path] if slug == "_plan-consolidation" else [en_path, zh_path, notes_path]
     for p in required_files:
@@ -364,17 +448,21 @@ def classify_node(
                 )
 
     if notes_path.is_file():
-        errors.extend(check_locators(notes_path, slug))
+        errors.extend(check_locators(notes_path, slug, commit_sha=commit_sha))
 
     verdict, restaters, summary, v_errs = parse_critic_verdict_and_summary(
-        slug, stage1_log, is_no_delta=False, require_lines=require_verdict_summary
+        slug,
+        stage1_log,
+        is_no_delta=False,
+        require_lines=require_verdict_summary,
+        commit_sha=commit_sha,
     )
     errors.extend(v_errs)
     return (verdict, en_sha, zh_sha, restaters, summary, errors)
 
 
-def check_slug(slug: str) -> list[str]:
-    _, _, _, _, _, errors = classify_node(slug)
+def check_slug(slug: str, commit_sha: str | None = None) -> list[str]:
+    _, _, _, _, _, errors = classify_node(slug, commit_sha=commit_sha)
     return errors
 
 
@@ -441,7 +529,9 @@ def record_batch(
     node_records: list[tuple[str, str, str, str, list[tuple[str, bool]], str]] = []
     for slug in slugs:
         verdict, en_sha, zh_sha, restaters, summary, errs = classify_node(
-            slug, require_verdict_summary=True
+            slug,
+            require_verdict_summary=True,
+            commit_sha=commit_sha,
         )
         if errs:
             all_errors.extend(errs)
@@ -717,9 +807,33 @@ def main(argv: list[str]) -> int:
         return clean_sleep(dry_run=dry_run)
 
     if "--locators" in argv[1:]:
-        targets = [arg for arg in argv[1:] if arg != "--locators"]
+        commit_sha: str | None = None
+        targets: list[str] = []
+        i = 1
+        while i < len(argv):
+            arg = argv[i]
+            if arg == "--locators":
+                i += 1
+            elif arg == "--commit" and i + 1 < len(argv):
+                commit_sha = argv[i + 1]
+                i += 2
+            elif arg.startswith("--commit="):
+                commit_sha = arg.split("=", 1)[1]
+                i += 1
+            elif not arg.startswith("-"):
+                targets.append(arg)
+                i += 1
+            else:
+                print(
+                    "Usage: python3 scripts/check-signoffs.py --locators [--commit <sha>] <notes.md> [<notes2.md> ...]",
+                    file=sys.stderr,
+                )
+                return 2
         if not targets:
-            print("Usage: python3 scripts/check-signoffs.py --locators <notes.md> [<notes2.md> ...]", file=sys.stderr)
+            print(
+                "Usage: python3 scripts/check-signoffs.py --locators [--commit <sha>] <notes.md> [<notes2.md> ...]",
+                file=sys.stderr,
+            )
             return 2
         all_errors: list[str] = []
         for raw in targets:
@@ -727,7 +841,7 @@ def main(argv: list[str]) -> int:
             if not p.is_file() and (ROOT / "work" / raw.removesuffix(".md") / "notes.md").is_file():
                 p = ROOT / "work" / raw.removesuffix(".md") / "notes.md"
             label = p.parent.name if p.name == "notes.md" else str(p)
-            errs = check_locators(p, label)
+            errs = check_locators(p, label, commit_sha=commit_sha)
             if errs:
                 all_errors.extend(errs)
             else:
@@ -753,6 +867,9 @@ def main(argv: list[str]) -> int:
             elif arg == "--commit" and i + 1 < len(argv):
                 commit_sha = argv[i + 1]
                 i += 2
+            elif arg.startswith("--commit="):
+                commit_sha = arg.split("=", 1)[1]
+                i += 1
             elif arg == "--deploy-run" and i + 1 < len(argv):
                 deploy_run = argv[i + 1]
                 i += 2
@@ -772,14 +889,36 @@ def main(argv: list[str]) -> int:
             return 2
         return record_batch(batch_num, commit_sha, deploy_run, problem_note, slugs)
 
-    slugs = [arg.removesuffix(".md") for arg in argv[1:] if not arg.startswith("-")]
+    commit_sha = None
+    slugs = []
+    i = 1
+    while i < len(argv):
+        arg = argv[i]
+        if arg == "--commit" and i + 1 < len(argv):
+            commit_sha = argv[i + 1]
+            i += 2
+        elif arg.startswith("--commit="):
+            commit_sha = arg.split("=", 1)[1]
+            i += 1
+        elif not arg.startswith("-"):
+            slugs.append(arg.removesuffix(".md"))
+            i += 1
+        else:
+            print(
+                "Usage: python3 scripts/check-signoffs.py [--commit <sha>] <slug> [<slug2> ...]",
+                file=sys.stderr,
+            )
+            return 2
     if not slugs:
-        print("Usage: python3 scripts/check-signoffs.py <slug> [<slug2> ...]", file=sys.stderr)
+        print(
+            "Usage: python3 scripts/check-signoffs.py [--commit <sha>] <slug> [<slug2> ...]",
+            file=sys.stderr,
+        )
         return 2
 
     all_errors = []
     for slug in slugs:
-        verdict, _, _, _, _, errs = classify_node(slug)
+        verdict, _, _, _, _, errs = classify_node(slug, commit_sha=commit_sha)
         if errs:
             all_errors.extend(errs)
         else:
