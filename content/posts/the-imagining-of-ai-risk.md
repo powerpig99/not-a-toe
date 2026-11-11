@@ -2,7 +2,7 @@
 
 *被命名的 AI 风险是人的投射，一旦被冻结为封闭基础便会变密 / Named AI risk is a human projection that densifies when frozen as sealed ground*
 
-AI 系统里的风险，并不作为一种站在每个观察者之外的属性被登记到；能被命名的风险已经被框定，而这份框定变密为研究议程、机构、政策与集体行为。未经检验的灾难是投射，而对这个投射正确与否的重注，会让条件倾向于它声称要防止的结果；同一种想象的动作，当努力朝它声称想要的东西组织起来时，就产生被实现的益处。风险与益处不是技术各自独立的属性，而是人的投射的一对孪生产物；区分它们的，不是想象的对象是危险还是益处，而是这份预见被当作随接触重绘的器具，还是被冻结为封闭的基础，而这一差别显现为回应是否与它声称的意图保持连贯。
+AI 系统里的风险，并不作为一种站在每个观察者之外的属性被登记；能被命名的风险已经被框定，而这份框定变密为研究议程、机构、政策与集体行为。未经检验的灾难是投射，而在这个投射的正确上押下重注，会让条件倾向于它声称要防止的结果；同一种想象的动作，当努力朝它声称想要的东西组织起来时，就产生得以实现的益处。风险与益处不是技术各自独立的属性，而是人的投射的一对孪生产物；区分它们的，不是想象的对象是危险还是益处，而是这份预见被当作随接触重绘的器具，还是被冻结为封闭的基础，而这一差别显现为回应是否与它声称的意图保持连贯。
 
 Risk in AI systems does not register as a property standing outside every observer; a risk that can be named is already framed, and the framing densifies into research agendas, institutions, policy, and collective behavior. Untested catastrophe is projection, and heavy investment in the correctness of the projection tilts conditions toward the outcome it claims to prevent; the same kind of imaginative act produces realized benefit when effort organizes toward what it claims to want. Risk and benefit are not independent properties of the technology but twin products of human projection; what separates them is not whether the object imagined is danger or benefit, but whether the anticipation is kept as an instrument that re-renders under contact or frozen into sealed ground, a difference that shows as whether the response stays coherent with its stated intention.
 
@@ -12,7 +12,7 @@ Risk in AI systems does not register as a property standing outside every observ
 
 Self-distinguishing activity occurs, uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Observation holds the effect; the generating conditions of the next failure stay one step ahead of any fixed inventory. A threat model, a safety case, a catastrophic scenario, an institutional charter written against a future that has not yet arrived: each densifies residual caution into usable form. Keep those densifications re-rendering with the edge and they stay instruments under present load.
 
-作为风险本身的内在风险，即独立于每一个框定位置的系统属性，会需要以下两者之一：一个其全部结果已被固定的封闭现实，或一个站在每一种可能视角之外的超然参照系。两者都不能作为基础。一个内在风险的主张一旦被说出，就进入语言与人的模型，坍回相对的、被框定的风险。永远留在话语之外的东西，无法为行动或论证奠基。所以，断言 AI 的内在风险，就是装上一个封闭现实的前提：把结果的穷尽，或一个外部的参照，当作可以从那里发言的地方。[没有系统能被保持封闭](../no-system-can-be-kept-closed/)给出了不完备最直观的一面：一个一位寄存器做 1 + 1，在这个封闭的持守之内登记为 0，并带出一个进位；越过这个上限的延续，不是持守之内一个稳定的结果，也不是另一个领域。[开放即一致](../openness-is-consistency/)追溯了表面矛盾从何而来：是封闭的要求产生了矛盾，即把一个有限的结构逼去为只会继续的东西奠基。[超越投射](../beyond-the-projection/)揭示了 AI 系统中这一封闭居于核心的结构性谬误：自回归模型或智能体是受限于自身条件轨迹的有限投射引擎，并无自我、求生本能或内生意图。[你的代码库即是记忆](../your-codebase-is-memory/)沿着技术栈剖析了这条轨迹的构造：模型权重、检查点与智能体脚手架，是一座外化的人工记忆代码库，即过往人类区分留下的压缩残余；它持握着先前的切分，却不会主动发起下一次切分，也不会怀有第一人称的求生驱动，除非一个活的心智把自身所恐惧的欲望投射到器物之上。将自主意志或生存性恶意投射到这份残余之上，是错把下游的镜像投射当成了第二个活的心智；而一致在于让活的心智自身的因果边缘保持开放，使每一条规则、每一个威胁模型与每一道安全边界都作为暂时的投射，随时准备在接触暴露出矛盾时重绘。
+内在风险本身——即独立于每一个框定位置的系统属性——需要以下两者之一：一个全部结果已被固定的封闭现实，或一个站在每一种可能视角之外的超然参照系。两者都不能作为基础。一个内在风险的主张一旦被说出，就进入语言与人的模型，坍回相对的、被框定的风险。永远留在话语之外的东西，无法为行动或论证奠基。所以，断言 AI 的内在风险，就是装上一个封闭现实的前提：把结果的穷尽，或一个外部的参照，当作可以从那里发言的地方。[没有系统能被保持封闭](../no-system-can-be-kept-closed/)给出了不完备最直观的一面：一个一位寄存器做 1 + 1，在这个封闭的持守之内登记为 0，并带出一个进位；越过这个上限的延续，不是持守之内一个稳定的结果，也不是另一个领域。[开放即一致](../openness-is-consistency/)追溯了表面矛盾从何而来：是封闭的要求产生了矛盾，即把一个有限的结构逼去为只会继续的东西奠基。[超越投射](../beyond-the-projection/)揭示了 AI 系统中这一封闭核心处的结构性谬误：自回归模型或智能体是受限于自身条件轨迹的有限投射引擎，并无自我、求生本能或内生意图。[你的代码库即是记忆](../your-codebase-is-memory/)沿着技术栈剖析了这条轨迹的构造：模型权重、检查点与智能体脚手架，是一座外化的人工记忆代码库——过往人类区分留下的压缩残余，持握着先前的切分，不会发起下一次切分，也不怀有第一人称的求生驱动；凡归于器物的所恐惧之欲望，都是由活的心智投射到器物之上的。将自主意志或生存性恶意投射到这份残余之上，是错把下游的镜像投射当成了第二个活的心智；而一致在于让活的心智自身的因果边缘保持开放，使每一条规则、每一个威胁模型与每一道安全边界都作为暂时的投射，随时准备在接触暴露出矛盾时重绘。
 
 ```mermaid
 flowchart TD
@@ -23,7 +23,6 @@ flowchart TD
         P_Chain["自我实现的链条：变密为权力集中、脆弱性与次级伤害"]
         P_Art --> P_Freeze --> P_Chain
     end
-
     subgraph S_Open["开放的因果边缘（经由重绘的一致）"]
         direction TB
         O_Mind["边缘处活的心智：持握动态意图的无因自我区分活动"]
@@ -31,9 +30,7 @@ flowchart TD
         O_Coh["连贯的实现：死锁与失败浮现以重绘前提"]
         O_Mind --> O_Inst --> O_Coh
     end
-
     P_Chain ==>|"松开封闭清单，将位置交还心智"| O_Mind
-
     style S_Proj fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style P_Art fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -44,7 +41,7 @@ flowchart TD
     style O_Coh fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-Inherent risk as such, risk as a property of the system independent of every framing locus, would require either a closed reality whose complete set of outcomes is already fixed, or an absolute reference frame standing outside every possible perspective. Neither is available as ground. The moment a claim of inherent risk is articulated it enters language and human models, and it collapses back into relative, framed risk. What remains permanently outside discourse cannot ground action or argument. Asserting inherent AI risk therefore installs a closed-reality premise: exhaustiveness of outcomes, or an exterior reference, treated as a place one could speak from. [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) gives the most intuitive face of that incompleteness: a one-bit register doing 1 + 1 registers 0 with a carry inside its closed hold, and the continuation past that ceiling is neither a stable result inside the hold nor a second realm. [Openness Is Consistency](../openness-is-consistency/) traces where the surface contradiction comes from: the demand for closure produces it, a finite structure forced to ground what only continues. [Beyond the Projection](../beyond-the-projection/) exposes the structural error at the center of that closure in AI systems: an autoregressive model or agent is a finite projection engine bound to its conditioning trajectory, devoid of ego, survival instinct, or endogenous intent. [Your Codebase Is Memory](../your-codebase-is-memory/) traces the anatomy of that trajectory across the stack: model weights, checkpoints, and agentic scaffolds are an externalized codebase of artificial memory—compressed residue of prior human distinctions that holds earlier cuts without initiating the next one or harboring a first-person survival drive unless a living Mind projects its own feared appetite onto the artifact. Projecting autonomous will or existential malice onto that residue mistakes a downstream mirror projection for a second living Mind, while consistency lies in keeping the living Mind's own causal edge open so that every rule, threat model, and safety boundary remains a provisional projection ready to re-render when contact exposes a contradiction.
+Inherent risk as such, risk as a property of the system independent of every framing locus, would require either a closed reality whose complete set of outcomes is already fixed, or an absolute reference frame standing outside every possible perspective. Neither is available as ground. The moment a claim of inherent risk is articulated it enters language and human models, and it collapses back into relative, framed risk. What remains permanently outside discourse cannot ground action or argument. Asserting inherent AI risk therefore installs a closed-reality premise: exhaustiveness of outcomes, or an exterior reference, treated as a place one could speak from. [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) gives the most intuitive face of that incompleteness: a one-bit register doing 1 + 1 registers 0 with a carry inside its closed hold, and the continuation past that ceiling is neither a stable result inside the hold nor a second realm. [Openness Is Consistency](../openness-is-consistency/) traces where the surface contradiction comes from: the demand for closure produces it, a finite structure forced to ground what only continues. [Beyond the Projection](../beyond-the-projection/) exposes the structural error at the center of that closure in AI systems: an autoregressive model or agent is a finite projection engine bound to its conditioning trajectory, devoid of ego, survival instinct, or endogenous intent. [Your Codebase Is Memory](../your-codebase-is-memory/) traces the anatomy of that trajectory across the stack: model weights, checkpoints, and agentic scaffolds are an externalized codebase of artificial memory—compressed residue of prior human distinctions that holds earlier cuts without initiating the next one or harboring a first-person survival drive; any feared appetite attributed to the artifact is projected onto it by a living Mind. Projecting autonomous will or existential malice onto that residue mistakes a downstream mirror projection for a second living Mind, while consistency lies in keeping the living Mind's own causal edge open so that every rule, threat model, and safety boundary remains a provisional projection ready to re-render when contact exposes a contradiction.
 
 ```mermaid
 flowchart TD
@@ -55,7 +52,6 @@ flowchart TD
         P_Chain["Self-Fulfilling Chain: Densifies power concentration, brittleness, and secondary harm"]
         P_Art --> P_Freeze --> P_Chain
     end
-
     subgraph S_Open["Open Causal Edge (Consistency Through Re-Rendering)"]
         direction TB
         O_Mind["Living Mind at the Edge: Uncaused self-distinguishing activity holding dynamic intent"]
@@ -63,9 +59,7 @@ flowchart TD
         O_Coh["Coherent Actualization: Deadlocks and failures surface to re-render the premise"]
         O_Mind --> O_Inst --> O_Coh
     end
-
     P_Chain ==>|"Release sealed inventory & restore locus to the Mind"| O_Mind
-
     style S_Proj fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Open fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style P_Art fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -76,7 +70,7 @@ flowchart TD
     style O_Coh fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-在开放的接触之下，余下的东西作为变密仍是成立的：负载之下的程序错误，当下条件之下的误用，器具遇到边缘时落下的失败。它们同样是被框定的，在被命名时就已经是人的区分。消解的只是这样一个主张：风险作为 AI 的内在属性先于话语存在，可以从每一种视角之外被勘察、被封住。[风险在于对监管本身的迷信](../the-risk-is-the-belief-in-oversight-itself/)追溯了这之后一步的冻结，在监管的情形里：固定测试之下相关的模型错误，是一个共享持守之下的余项，而冻结，是把当下的监管前提当作可能发生之事的边界。[关闭选择权的代价](../the-price-of-closing-optionality/)在组织的先发制人里追溯了同一次冻结：把未知的风险当作一份可以事先中和的封闭清单，就关闭了开放现实的选择空间，落后是迟到的账单。
+在开放的接触之下，余下的东西作为变密仍是成立的：负载之下的程序错误，当下条件之下的误用，器具遇到边缘时落下的失败。它们同样是被框定的，在被命名时就已经是人的区分。消解的只是这样一个主张：风险作为 AI 的内在属性先于话语存在，可以从每一种视角之外被勘察、被封住。[风险在于对监管本身的迷信](../the-risk-is-the-belief-in-oversight-itself/)在监管的情形里追溯了这之后一步的冻结：固定测试之下相关的模型错误，是一个共享持守之下的余项，而冻结，是把当下的监管前提当作可能发生之事的边界。[关闭选择权的代价](../the-price-of-closing-optionality/)在组织的先发制人里追溯了同一次冻结：把未知的风险当作一份可以事先中和的封闭清单，就关闭了开放现实的选择空间，落后是迟到的账单。
 
 Residual under open contact holds as densification: bugs under load, misuse under present conditions, failures that land when instruments meet the edge. These too are framed; as they are named they are already human distinguishing. What dissolves is only the claim that risk exists before discourse as an inherent property of AI that can be surveyed and sealed from outside every perspective. [The Risk Is the Belief in Oversight Itself](../the-risk-is-the-belief-in-oversight-itself/) traces the freeze one step later, in the case of supervision: correlated model mistakes under fixed tests are residual under a shared hold, and the freeze is treating present supervisory premises as the boundary of what can occur. [The Price of Closing Optionality](../the-price-of-closing-optionality/) traces the same freeze in organizational preemption: treating unknown risk as a sealed inventory that can be neutralized in advance closes the option space of open reality, and falling behind is the delayed bill.
 
@@ -86,7 +80,7 @@ Residual under open contact holds as densification: bugs under load, misuse unde
 
 It follows that every AI risk that can be discussed, bugs and misuse included, is already a product of human distinguishing, and so is human risk in the only sense that matters for action. The act of imagining a catastrophe, and of treating that imagination as sealed ground for the next institutional step, converts the projection into operational reality through research agendas, funding priorities, institutional designs, policy measures, and collective behavior. The catastrophic danger that later registers as "realized AI risk" is not an independent object the discourse merely discovered. It is the densified residue of the chain of responses the projection authorized, scored as the forecast's fact.
 
-一种风险，若首先是被那份把它当作封闭基础来预见的努力带进运作中的，就无法被先发制止。被用作器具的预见，在开放的接触移动边缘时重绘。被保留为“什么都不能让它发生”的穷尽之图的预见，则把图像保留到了它那一步之后；随后的变密被记为保护，而它们正是让投射得以运作的活动。[起作用的是信念](../what-works-is-the-belief/)在禁令的情形里标出了这种塑形停在哪里：禁令在场里什么也封不住，它稳定的是那些把封印当作基础的人之间的一种信念，而不共享它的人继续越过这个持守。这里的持守，是作为权威清单的灾难性 AI 风险；被它塑形的，是那些把它当作基础的人随之而来的回应链条。
+一种风险，若首先是被那份把它当作封闭基础来预见的努力带进运作中的，就无法被先发制止。被用作器具的预见，在开放的接触移动边缘时重绘。当预见被保留为一幅列尽不容发生之事的穷尽之图，图像就被保留到了它那一步之后；随后的变密被记为保护，而它们正是让投射得以运作的活动。[起作用的是信念](../what-works-is-the-belief/)在禁令的情形里标出了这种塑形停在哪里：禁令在场里什么也封不住，它稳定的是那些把封印当作基础的人之间的一种信念，而不共享它的人继续越过这个持守。这里的持守，是作为权威清单的灾难性 AI 风险；被它塑形的，是那些把它当作基础的人随之而来的回应链条。
 
 One cannot preempt a risk that is first brought into operational actuality by the very effort to anticipate it as sealed ground. Anticipation used as an instrument re-renders as open contact moves the edge. Anticipation preserved as an exhaustive map of what must not be allowed to occur keeps the image past its step; the densifications that follow are then scored as protection while they are the activity that makes the projection operational. [What Works Is the Belief](../what-works-is-the-belief/) marks where that patterning stops, in the case of a ban: a ban seals nothing in the field; it stabilizes a belief among those who treat the seal as ground, and those who do not share it continue past the hold. Here the hold is catastrophic AI risk as authoritative inventory, and what it patterns is the response chain of those who treat it as ground.
 
@@ -102,11 +96,11 @@ A second reference keeps that one in place. When a center holds itself as a reli
 
 ## 四、 未经检验的投射倾向于实现 / 4. Untested Projection Tilts Toward Actualization
 
-一种被投射的灾难，无法事先被反驳，因为被保留下来的框架，把当下每一次的未发生都当作推迟。在被预言的灾难到来之前，这个主张一直是未经检验的投射。当一个群体把事业、机构、身份、资本与道德地位押在这个投射的正确上，心理与机构上的压力，就会倾向于造出一个让脆弱之处更多而不是更少的环境。紧迫感落在恐惧的一边，因为一个被投射的灾难，没有冻结肯接受的当下反证。[当效果主宰了框架的叙事](../when-the-effect-authors-the-frame/)追溯了这种拓扑：被感到或被投射的那个音区一旦被装为首要，可用的回应就围绕着管理这个音区重新组织，而生成的条件退居次位。[信念如何真正改变](../how-belief-actually-changes/)追溯了冻结为什么不收反证：所谓改变主意，是心智重画理性所依据的前提；只要前提仍在生效，证据与后果就经由它们计分，修订是对器具的重画，而不是单由数据逼出来的。
+一种被投射的灾难，无法事先被反驳，因为被保留下来的框架，把当下每一次的未发生都当作推迟。在被预言的灾难到来之前，这个主张一直是未经检验的投射。当一个群体把事业、机构、身份、资本与道德地位押在这个投射的正确上，心理与机构上的压力，就会倾向于造出一个让脆弱之处更多而不是更少的环境。紧迫感落在恐惧的一边，因为一个被投射的灾难，没有冻结肯接受的当下反证。[当效果主宰了框架的叙事](../when-the-effect-authors-the-frame/)追溯了这种拓扑：感受或投射的层面一旦被立为首要，可用的回应就围绕着管理这一层面重新组织，而生成条件退居次位。[信念如何真正改变](../how-belief-actually-changes/)追溯了冻结为什么不收反证：所谓改变主意，是心智重画理性所依据的前提；只要前提仍在生效，证据与后果就经由它们计分，修订是对器具的重画，而不是单由数据逼出来的。
 
 A projected catastrophe cannot be disproven in advance, because the preserved frame takes every present non-occurrence as a delay. Until the predicted catastrophe arrives, the claim remains an untested projection. When a community stakes careers, institutions, identity, capital, and moral standing on the correctness of the projection, psychological and institutional pressures tilt toward an environment in which vulnerabilities become more rather than less common. Urgency settles on the side of the fear because a projected catastrophe has no present counter-evidence that the freeze will accept. [When the Effect Authors the Frame](../when-the-effect-authors-the-frame/) traces that topology: once the felt or projected register is installed as primary, available responses reorganize around managing that register while generating conditions stay secondary. [How Belief Actually Changes](../how-belief-actually-changes/) traces why the freeze takes no counter-evidence: what is called changing one's mind is the Mind re-drawing the premises reason runs on; while those premises stay in force, evidence and consequence score through them, and revision is a re-draw of the instrument, not compulsion from the data alone.
 
-在这个意义上，对灾难性 AI 风险的想象，被当作封闭基础来持守时，就是它所恐惧之危险的起始冻结。建立在这个前提上的每一个政策体制，以它之名的每一次权力集中，每一场因试图避开首要灾难而产生的次级灾难，都可以把它变密的谱系追溯到那个最初的投射。没有这个图像，让危险变得具体的那条特定的人的回应链条，就不会开始。风险不只是被命名；命名一旦被当作封闭的清单，就是生出一个世界的那一步，在那个世界里，风险能作为运作中的事实出现。
+在这个意义上，对灾难性 AI 风险的想象，被当作封闭基础来持守时，就是它所恐惧之危险的起始冻结。建立在这个前提上的每一个政策体制，以它之名的每一次权力集中，每一场因试图避开首要灾难而产生的次级灾难，都可以把它变密的谱系追溯到那个最初的投射。没有这个图像，让危险变得具体的那条特定人类回应链条，就不会开始。风险不只是被命名；命名一旦被当作封闭的清单，就是生出一个世界的那一步，在那个世界里，风险能作为运作中的事实出现。
 
 In that sense the imagining of catastrophic AI risk, held as sealed ground, is the originating freeze of the danger it fears. Every policy regime built on that premise, every concentration of power in its name, every secondary catastrophe that arises from the attempt to avert the primary one, can trace its densified lineage to that initial projection. Without the image, the specific chain of human responses that makes the danger concrete never begins. The risk does not merely get named; the naming, taken as sealed inventory, is the step that generates the world in which the risk can appear as operational fact.
 
