@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-11T15:01:57.773Z",
+    "generated_at": "2026-11-11T15:32:21.691Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -48,7 +48,7 @@
       "content/posts/cli-interface-stack.md": "8ce49c41c258",
       "content/posts/climbing-does-not-leave-the-ground.md": "a0be7e00b7db",
       "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "804365b7e34a",
-      "content/posts/closed-reality-in-benchmark-maxing.md": "574180584456",
+      "content/posts/closed-reality-in-benchmark-maxing.md": "cb98face87ff",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "fc0b4da31c80",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "8ab6c7b85f1a",
       "content/posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback.md": "3173495002ec",
@@ -321,7 +321,7 @@
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "a0f7699171d8",
       "content/posts/the-ledger-of-the-unencountered.md": "ffcdbfc26a69",
       "content/posts/the-limitation-is-doing-work.md": "bdf4b71e4176",
-      "content/posts/the-living-context.md": "8d42e5a0f3f0",
+      "content/posts/the-living-context.md": "007b6786593c",
       "content/posts/the-local-trap-of-technological-change.md": "90573245bd77",
       "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "de2035120bb7",
       "content/posts/the-loop-accelerates.md": "60608a02a0ed",
@@ -395,7 +395,7 @@
       "content/posts/the-surface-beneath.md": "4dee6c86e196",
       "content/posts/the-surface-that-registers.md": "add37f7bdd58",
       "content/posts/the-three-shadows-of-the-cut.md": "fcb032465d92",
-      "content/posts/the-tightening-loop.md": "be324f885a2f",
+      "content/posts/the-tightening-loop.md": "9db5757dfb72",
       "content/posts/the-twin-paradox-and-the-hidden-observer.md": "b22fa9212e4f",
       "content/posts/the-two-readings-of-shared-and-the-observational-bound.md": "e94c3bf07d11",
       "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md": "124b8f97fc34",
@@ -469,10 +469,10 @@
     },
     "stats": {
       "posts": 442,
-      "edges": 13526,
-      "unique_directed": 6646,
+      "edges": 13532,
+      "unique_directed": 6649,
       "missing_targets": 0,
-      "one_way": 1342,
+      "one_way": 1343,
       "isolated": 0,
       "posts_with_outbound": 442,
       "book_pages": 16,
@@ -494,12 +494,12 @@
       "in_degree": 110
     },
     {
-      "slug": "openness-is-consistency",
+      "slug": "intelligence-belongs-only-to-the-mind",
       "in_degree": 89
     },
     {
-      "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 88
+      "slug": "openness-is-consistency",
+      "in_degree": 89
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -1809,7 +1809,7 @@
       "slug": "closed-reality-in-benchmark-maxing",
       "path": "content/posts/closed-reality-in-benchmark-maxing.md",
       "title": "基准刷榜中的封闭实存 / Closed Reality in Benchmark Maxing",
-      "hash": "574180584456",
+      "hash": "cb98face87ff",
       "in_degree": 37,
       "out_degree": 38,
       "links_out": [
@@ -2116,7 +2116,7 @@
       "path": "content/posts/context-engineering-essay.md",
       "title": "层层皆是语境 / Context All the Way Down",
       "hash": "b551944fbba4",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 8,
       "links_out": [
         "the-fixed-map-and-the-repeated-trip",
@@ -3737,7 +3737,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "智能只属于心智 / Intelligence Belongs Only to the Mind",
       "hash": "5656f412d172",
-      "in_degree": 88,
+      "in_degree": 89,
       "out_degree": 71,
       "links_out": [
         "curiosity-has-no-final-form",
@@ -3840,7 +3840,7 @@
       "path": "content/posts/intelligence-folding-back-on-itself.md",
       "title": "智能向自身的回折 / Intelligence Folding Back on Itself",
       "hash": "f36f2690c329",
-      "in_degree": 23,
+      "in_degree": 24,
       "out_degree": 24,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -9211,14 +9211,15 @@
       "slug": "the-living-context",
       "path": "content/posts/the-living-context.md",
       "title": "活的语境 / The Living Context",
-      "hash": "8d42e5a0f3f0",
+      "hash": "007b6786593c",
       "in_degree": 7,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "a-living-external-cortex",
         "precision-and-resolution",
         "trusting-the-reader-is-the-last-overstep",
         "the-comment-is-not-the-code",
+        "context-engineering-essay",
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
         "the-density-of-judgment",
         "looping-and-graphing",
@@ -11188,10 +11189,11 @@
       "slug": "the-tightening-loop",
       "path": "content/posts/the-tightening-loop.md",
       "title": "不断收紧的回环 / The Tightening Loop",
-      "hash": "be324f885a2f",
+      "hash": "9db5757dfb72",
       "in_degree": 4,
-      "out_degree": 8,
+      "out_degree": 10,
       "links_out": [
+        "intelligence-belongs-only-to-the-mind",
         "your-codebase-is-memory",
         "the-scaffolding-we-forget",
         "judgment-is-not-a-stock",
@@ -11199,7 +11201,8 @@
         "the_moving_ground",
         "the-loop-accelerates",
         "the-interesting-case-of-rubin",
-        "the-strategy-that-wasnt"
+        "the-strategy-that-wasnt",
+        "intelligence-folding-back-on-itself"
       ]
     },
     {
@@ -70549,9 +70552,21 @@
     },
     {
       "from": "the-living-context",
+      "to": "context-engineering-essay",
+      "rel": "points_to",
+      "label": "层层皆是语境"
+    },
+    {
+      "from": "the-living-context",
       "to": "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
       "rel": "points_to",
       "label": "机器智能作为人类智能的组合反馈回路"
+    },
+    {
+      "from": "the-living-context",
+      "to": "context-engineering-essay",
+      "rel": "points_to",
+      "label": "Context All the Way Down"
     },
     {
       "from": "the-living-context",
@@ -83881,9 +83896,21 @@
     },
     {
       "from": "the-tightening-loop",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "the-tightening-loop",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-tightening-loop",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
     },
     {
       "from": "the-tightening-loop",
@@ -83974,6 +84001,18 @@
       "to": "the-strategy-that-wasnt",
       "rel": "points_to",
       "label": "The Strategy That Wasn't"
+    },
+    {
+      "from": "the-tightening-loop",
+      "to": "intelligence-folding-back-on-itself",
+      "rel": "points_to",
+      "label": "智能向自身的回折"
+    },
+    {
+      "from": "the-tightening-loop",
+      "to": "intelligence-folding-back-on-itself",
+      "rel": "points_to",
+      "label": "Intelligence Folding Back on Itself"
     },
     {
       "from": "the-twin-paradox-and-the-hidden-observer",
