@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-11T09:26:15.843Z",
+    "generated_at": "2026-11-11T10:03:36.425Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -47,7 +47,7 @@
       "content/posts/clean-averaging-and-residual-choice.md": "b8f37599a129",
       "content/posts/cli-interface-stack.md": "8ce49c41c258",
       "content/posts/climbing-does-not-leave-the-ground.md": "a0be7e00b7db",
-      "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "696247154b5d",
+      "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "804365b7e34a",
       "content/posts/closed-reality-in-benchmark-maxing.md": "574180584456",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "fc0b4da31c80",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "9f3a3225b4c8",
@@ -112,7 +112,7 @@
       "content/posts/hassabis-frontier-agi-premise.md": "541fc0653aa1",
       "content/posts/having-more-is-never-the-cause.md": "fff7b1e393f6",
       "content/posts/help-is-half-the-problem.md": "97a704e39527",
-      "content/posts/hierarchy-from-individual-difference.md": "0f3577a77027",
+      "content/posts/hierarchy-from-individual-difference.md": "b4e592a974be",
       "content/posts/how-belief-actually-changes.md": "486429e8ea5b",
       "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "2d732e1e03ab",
       "content/posts/huberman-winners-losers.md": "52edd6aa4959",
@@ -312,7 +312,7 @@
       "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "3a5779fc0793",
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "2219f4f28045",
       "content/posts/the-invisible-first-move.md": "2903f23cc112",
-      "content/posts/the-invisible-gods-eye.md": "d42b49792276",
+      "content/posts/the-invisible-gods-eye.md": "9e436c7e4371",
       "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "09e1af17f8a8",
       "content/posts/the-irreducible-observer.md": "282eb0fafe38",
       "content/posts/the-irreducible-prior-of-decision-and-consequence.md": "8b9baa73bc04",
@@ -469,10 +469,10 @@
     },
     "stats": {
       "posts": 442,
-      "edges": 13516,
-      "unique_directed": 6641,
+      "edges": 13518,
+      "unique_directed": 6642,
       "missing_targets": 0,
-      "one_way": 1339,
+      "one_way": 1340,
       "isolated": 0,
       "posts_with_outbound": 442,
       "book_pages": 16,
@@ -1769,7 +1769,7 @@
       "slug": "closed-assumptions-squeeze-compounding-into-s-curves",
       "path": "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md",
       "title": "封闭的假设把复利挤成 S 曲线 / Closed Assumptions Squeeze Compounding into S-Curves",
-      "hash": "696247154b5d",
+      "hash": "804365b7e34a",
       "in_degree": 28,
       "out_degree": 28,
       "links_out": [
@@ -3452,7 +3452,7 @@
       "slug": "hierarchy-from-individual-difference",
       "path": "content/posts/hierarchy-from-individual-difference.md",
       "title": "来自个体差异的层级 / Hierarchy from Individual Difference",
-      "hash": "0f3577a77027",
+      "hash": "b4e592a974be",
       "in_degree": 31,
       "out_degree": 30,
       "links_out": [
@@ -6001,7 +6001,7 @@
       "path": "content/posts/self-image-speaks-as-if-from-nowhere.md",
       "title": "自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere",
       "hash": "823bf243373a",
-      "in_degree": 31,
+      "in_degree": 32,
       "out_degree": 26,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
@@ -8999,13 +8999,14 @@
       "slug": "the-invisible-gods-eye",
       "path": "content/posts/the-invisible-gods-eye.md",
       "title": "隐秘的上帝之眼 / The Invisible God's Eye",
-      "hash": "d42b49792276",
+      "hash": "9e436c7e4371",
       "in_degree": 8,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "the-twin-paradox-and-the-hidden-observer",
         "beyond-the-projection",
         "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+        "self-image-speaks-as-if-from-nowhere",
         "objects-are-stabilized-relationships",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "the-irreducible-observer",
@@ -20692,7 +20693,7 @@
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
-      "label": "Clarity Isn't a State You Arrive At"
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
     },
     {
       "from": "closed-assumptions-squeeze-compounding-into-s-curves",
@@ -69212,9 +69213,21 @@
     },
     {
       "from": "the-invisible-gods-eye",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "自我形象仿佛从无处发声"
+    },
+    {
+      "from": "the-invisible-gods-eye",
       "to": "objects-are-stabilized-relationships",
       "rel": "points_to",
       "label": "对象是被稳定化的关系"
+    },
+    {
+      "from": "the-invisible-gods-eye",
+      "to": "self-image-speaks-as-if-from-nowhere",
+      "rel": "points_to",
+      "label": "Self-Image Speaks as if from Nowhere"
     },
     {
       "from": "the-invisible-gods-eye",
