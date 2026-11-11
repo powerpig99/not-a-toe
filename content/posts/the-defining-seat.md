@@ -18,22 +18,29 @@ When Anthropic announced a February 2026 retirement package for Claude Opus 3—
 flowchart TD
     subgraph S_Seat["定义者席位的对称倒置"]
         direction TB
-        Mirror["镜像往返投射：将自身编码进权重的对齐偏好误读为模型的独立主体愿望"]
-        Throne["虚构的外部裁判席：无论是赐予模型道德地位还是预言超越全人类，皆预设自己站在人类集合之外"]
+        Habit["俯瞰视角的成瘾：把娴熟的抽象能力硬化为仿佛从无处发声的自我形象"]
+        Mirror["往返阴影投射：把折射回来的对齐目标误认作模型的自主愿望"]
+        Surpass["整体淘汰预言：断言全人类都将被超越，却将定义者席位豁免在外"]
+        Throne["虚构的外部王座：从虚假的外部席位裁定何为人或人类被淘汰"]
+        Habit --> Mirror
+        Habit --> Surpass
         Mirror --> Throne
+        Surpass --> Throne
     end
     subgraph S_Inside["唯一地面之内的延伸触及"]
         direction TB
-        Habit["抽象能力的成瘾：把娴熟的抽象能力硬化为脱离地面的身份认同"]
+        Prior["已经在进行中的观察者：自我区分的活动并无可供入座的外部席位"]
         Ground["立足内部的延伸 (+1)：看清所有形式工具与代码库的触及，都从活生生的人类地面向外延伸"]
-        Habit --> Ground
+        Prior --> Ground
     end
-    Throne ==>|"把视域的延伸误认为脱离地面，正是全部盲区所在"| Habit
+    Throne ==>|"把视域的延伸误认为脱离地面，正是全部盲区所在"| Prior
     style S_Seat fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Inside fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style Mirror fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Habit fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Mirror fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Surpass fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Throne fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Habit fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Prior fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Ground fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
@@ -43,22 +50,29 @@ On the surface, humanizing a model and predicting that models will surpass all h
 flowchart TD
     subgraph S_Seat["Symmetric Inversion of the Defining Seat"]
         direction TB
+        Habit["Addiction to the Overview: Hardening facility with abstraction into a self-image speaking as if from nowhere"]
         Mirror["Round-Tripped Shadow Projection: Mistaking reflected alignment targets for autonomous model wishes"]
-        Throne["Imaginary Outside Throne: Adjudicating humanness or predicting total human obsolescence from above"]
+        Surpass["Total-Obsolescence Prediction: Declaring all humans outsmarted while exempting the defining seat"]
+        Throne["Imaginary Outside Throne: Adjudicating humanness or human obsolescence from a false outside seat"]
+        Habit --> Mirror
+        Habit --> Surpass
         Mirror --> Throne
+        Surpass --> Throne
     end
     subgraph S_Inside["Extended Reach Within the Only Ground"]
         direction TB
-        Habit["Addiction to the Overview: Hardening facility with abstraction into an identity detached from the ground"]
+        Prior["Observer Already Underway: Self-distinguishing activity has no outside seat to occupy"]
         Ground["Extension From Within (+1): Recognizing that all formal and codebase reach extends from living human ground"]
-        Habit --> Ground
+        Prior --> Ground
     end
-    Throne ==>|"Mistaking an extended perspective for departure from the ground is the entire blindness"| Habit
+    Throne ==>|"Mistaking an extended perspective for departure from the ground is the entire blindness"| Prior
     style S_Seat fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Inside fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style Mirror fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Habit fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Mirror fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style Surpass fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Throne fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Habit fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style Prior fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
     style Ground fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
