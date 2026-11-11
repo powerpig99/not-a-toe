@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-11T08:56:57.748Z",
+    "generated_at": "2026-11-11T09:26:15.843Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -174,7 +174,7 @@
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "c97351228409",
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "aa49b94c3914",
       "content/posts/platform-decision-capture.md": "c1ce0036119a",
-      "content/posts/po-chu-gai-nian-de-jian-yue.md": "8aa64948ce76",
+      "content/posts/po-chu-gai-nian-de-jian-yue.md": "c71369802649",
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "028a28b54a32",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "d2ace65813d6",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "48c6830926cc",
@@ -447,7 +447,7 @@
       "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "3e72072e6737",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "85c32a43404f",
       "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "1308b0507c8e",
-      "content/posts/zi-you-de-ce-bu-zhun.md": "b31126285afd",
+      "content/posts/zi-you-de-ce-bu-zhun.md": "b3dfb0d7e962",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "0377c4822629",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b28d61994639",
       "content/book/causality.md": "863b25c6333a",
@@ -5344,7 +5344,7 @@
       "slug": "po-chu-gai-nian-de-jian-yue",
       "path": "content/posts/po-chu-gai-nian-de-jian-yue.md",
       "title": "破除概念的僭越 / Breaking the Overreach of Concepts",
-      "hash": "8aa64948ce76",
+      "hash": "c71369802649",
       "in_degree": 25,
       "out_degree": 25,
       "links_out": [
@@ -5356,7 +5356,6 @@
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
         "causality-all-the-way",
-        "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
         "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
         "the-deterministic-machine",
         "lu-kou-de-zhuan-xiang-yu-di-ping-shuo-de-xing-dong-bei-lun",
@@ -5366,6 +5365,7 @@
         "the-fallacy-of-post-success-parenting",
         "the-mind-as-vector-and-coordinate-system",
         "the-scaffolding-we-forget",
+        "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
         "the-ladder-of-abstraction-and-the-executable-entity",
         "beyond-the-projection",
         "your-codebase-is-memory",
@@ -12515,7 +12515,7 @@
       "slug": "zi-you-de-ce-bu-zhun",
       "path": "content/posts/zi-you-de-ce-bu-zhun.md",
       "title": "自由的测不准 / The Uncertainty of Freedom",
-      "hash": "b31126285afd",
+      "hash": "b3dfb0d7e962",
       "in_degree": 21,
       "out_degree": 22,
       "links_out": [
@@ -45506,21 +45506,9 @@
     },
     {
       "from": "po-chu-gai-nian-de-jian-yue",
-      "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
-      "rel": "points_to",
-      "label": "错置的因果与心智编译器"
-    },
-    {
-      "from": "po-chu-gai-nian-de-jian-yue",
       "to": "causality-all-the-way",
       "rel": "points_to",
       "label": "Causality All the Way"
-    },
-    {
-      "from": "po-chu-gai-nian-de-jian-yue",
-      "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
-      "rel": "points_to",
-      "label": "Misplaced Causality and the Mind's Compiler"
     },
     {
       "from": "po-chu-gai-nian-de-jian-yue",
@@ -45626,6 +45614,12 @@
     },
     {
       "from": "po-chu-gai-nian-de-jian-yue",
+      "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "rel": "points_to",
+      "label": "错置的因果与心智编译器"
+    },
+    {
+      "from": "po-chu-gai-nian-de-jian-yue",
       "to": "the-ladder-of-abstraction-and-the-executable-entity",
       "rel": "points_to",
       "label": "抽象的阶梯与可执行的实体"
@@ -45647,6 +45641,12 @@
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "po-chu-gai-nian-de-jian-yue",
+      "to": "cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi",
+      "rel": "points_to",
+      "label": "Misplaced Causality and the Mind's Compiler"
     },
     {
       "from": "po-chu-gai-nian-de-jian-yue",

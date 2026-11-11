@@ -1,6 +1,6 @@
 # 自由的测不准 / The Uncertainty of Freedom
 
-*外部观察到的统计随机，是内部决策主权的投影，宏观规律是离散选择在时间里的沉淀 / Randomness seen from outside projects decision sovereignty within; macro laws are the sediment of discrete choices.*
+*外部观察到的统计随机，是内部决策主权的投影，宏观规律是离散选择在时间里的沉淀 / Statistical randomness seen from outside is the projection of decision sovereignty within; macro laws are the sediment of discrete choices over time.*
 
 长久以来，关于自由意志、个人成败与社会演进的讨论，在两种看似不可调和的极端之间摇摆：一端是机械决定论，认为宏观的统计规律支配一切，个人的意志与选择只是微不足道的幻觉；另一端是虚无主义，把世间的一切差距归于不可捉摸的运气、随机或天命。这两种表面对立的立场，共享同一个认知盲区：它们都在宏观现象之间寻找原生的因果，把统计聚合之后的投影表象误认为支配系统的动力源头。
 
