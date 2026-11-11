@@ -2,42 +2,42 @@
 
 *否定意志的雄辩，正是自由行使主权以区分意义与荒谬的当场展演。 / The eloquence denying will is freedom exercising its sovereign capacity to distinguish sense from nonsense.*
 
-公共哲学讨论中频繁出现一种宣称终结自由意志的裁决：认为自由意志毫无意义，因为个体的念头与决断皆由意识未曾参与编写的先在因果链条所催生。这种宣判看似站在现代脑科学与物理决定论的高地上俯视众生，实则在发出宣告的瞬间便陷入了深刻的施演矛盾。宣称自由意志不存在的整套理论建构，从一开始就运行在它试图消解的区分能力之中。能够将一套论证判定为合乎逻辑或荒谬悖谬，本身就是自由心智在当下行使的主权行为；正是因为自由拥有连自身都可以全盘否定的自否空间，世间才存在意义与荒谬的界限，才容得下这种自相矛盾的高谈阔论。
+公共哲学讨论中频繁给出一种针对人类能动性的终局裁决：自由意志毫无意义，因为念头与决断皆源于意识未曾参与编写的先在原因。这一断言以源自现代神经科学与物理决定论的冷静科学推论自居，却在说出口的瞬间陷入深刻的施演矛盾。宣称自由意志不存在的整套概念建构，恰恰整体运行在它试图抹除的区分能力之内。将一套论证评判为合乎情理而非荒谬无稽，本身就需要心智在当下直接行使能动主权。正因自由涵括了否定自身存在的能力，意义与荒谬之间的界限才得以成立，也为这类精巧繁复的自驳主张留出了空间。
 
 Public philosophical debates frequently deliver a finished verdict on human agency: free will makes no sense, because thoughts and decisions arise from prior causes that consciousness does not author. This assertion presents itself as a dispassionate scientific deduction from modern neuroscience and physical determinism, yet it collapses into a profound performative contradiction the moment it is uttered. The conceptual architecture that declares free will nonexistent operates entirely within the very capacity for discrimination it seeks to erase. Evaluating an argument as sensible rather than nonsensical requires the active sovereignty of mind in the immediate present. Because freedom encompasses the capacity to deny its own existence, the boundary between sense and nonsense exists at all, leaving room for such elaborate self-refuting claims.
 
-## 一、 裁决的内置性与虚构的俯瞰视点 / 1. The Immanence of Verdict and the Fictional Vantage from Nowhere
+## 一、 裁决的内在性与虚构的无处视点 / 1. The Immanence of Verdict and the Fictional Vantage from Nowhere
 
-决定论者对自由意志的经典反驳，习惯于勾勒一条清晰的时间单向序列：脑神经元放电、无意识的生化反应、潜意识记忆的涌动，构成了意识觉察之前的漫长暗区，随后的念头只是这片暗区推向前台的既定产物。事件在物理时间中展开的因果叙事大可悉数承认；无论经验科学以何等精度记录神经准备电位与生物基底，这些描摹本身皆属平实的经验记录。然而真正的越界，始于观察者以为这份描述已经跳出了作出描述的那个视点。
+决定论对自由意志的经典反驳，仰赖一条清晰的时间序列：神经前驱信号、无意识决定因素与电化学级联构成了暗区，下一个念头便从中浮现。事件在物理时间中展开的因果叙事大可悉数承认；无论经验科学以何等精度记录神经准备活动与生物基底，皆无异议。真正的越界，始于把这份描述当成已经跳出了作出描述的那个视角。
 
 The standard deterministic refutation of free will relies on a clean temporal sequence: neural precursors, unconscious determinants, and electrochemical cascades generate the darkness from which the next thought appears. A causal narrative of how events unfold across physical time can be granted without objection; neural preparations and biological substrates may be documented with whatever precision empirical science attains. The overshoot begins when the description is treated as having stepped outside the perspective in which it is being made.
 
-在本体论的坐标系中，断然不存在一个漂浮于经验之外的客观法庭，能够独立于第一人称视角为上述论断颁发终极认证证书。所有的理论断言、实验读数与逻辑推导，全都在此时此刻的第一人称心智内部发生。[表征的闭环](../the-closed-loop-of-representation/)早已揭示，人类从来无法脱离自身认知模型的投影去窥见毫无杂质的裸露真相。理论家可以说得好像自己正置身于无何有之乡，从上帝视角俯瞰整个宇宙的因果发条，但他断然无法真正肉身入住那个虚构的终极视点。第一人称视角与因果律本就是一枚硬币的两面：因果并不是独立于主体的机械碰撞，而是心智确认自身行动与外部世界产生摩擦的历史刻痕。当思想家试图割裂第一人称原点去宣称意志是幻觉时，他只是用语言假装自己退出了世界。而在[框架的盲区](../the-blind-spot-of-the-frame/)中，这种退出的戏法被进一步暴露为方法论操作与本体论缺席的范畴混淆：研究者为了建立客观模型而主动隐去主体，随后却将模型中主体的空缺当成了意志不存在的铁证。同样的自否结构也出现在心灵哲学中：[功能主义者无法持有的功能主义](../the-functionalism-no-functionalist-can-hold/)剖析了功能主义者如何以认真持有的姿态宣称认真不过是因果角色，在占据观察者之位的同时抹去观察者。正如[道德倒错与被脚本化的主体](../the-moral-reversal-and-the-scripted-subject/)所揭示，意识形态正是通过说服自由否定自身，来为主体写定剧本。[寻觅的语法与淡出的观察者](../the-grammar-of-finding-and-the-fading-observer/)则将同一操作追溯至观察者本身：否认观察者，恰是从观察者之位作出的选择。
+不存在任何外部视点，能够将这些陈述核准为客观实情。断言就发生在此处。人可以说得仿佛从无处发声，却无法真正占据那个无处。正如[表征的闭环](../the-closed-loop-of-representation/)所论证的，一切理论、仪器与解释都始终内在于构建它们的第一人称心智之中。第一人称视角与因果本就是同一枚硬币的两面：因果并非在幕后自行运转的独立机器，而是有意识的能动性介入局域摩擦时所登记下的非对称痕迹。当理论家试图将第一人称中心与因果割裂开来、借此宣称意志是幻觉时，他不过是在模拟一次退出自身觉知场域的离场。在[框架的盲区](../the-blind-spot-of-the-frame/)中，这一障眼法被进一步揭破为方法论省略与本体论缺席之间的混淆：研究者为了勾勒客观蓝图而在方法论上悬置主体，随后却将蓝图中主体的缺席误当成能动性不存在的证明。同样的自否结构也反复出现在心灵哲学中：[功能主义者无法持有的功能主义](../the-functionalism-no-functionalist-can-hold/)剖析了功能主义者如何以认真持有的姿态宣称认真不过是因果角色，在占据观察者之位的同时抹去观察者。正如[道德倒错与被脚本化的主体](../the-moral-reversal-and-the-scripted-subject/)所揭示，意识形态正是通过说服自由否定自身，来为主体写定剧本。[寻觅的语法与淡出的观察者](../the-grammar-of-finding-and-the-fading-observer/)则将同一操作追溯至观察者本身：否认观察者，恰是从观察者之位作出的选择。
 
 There is no external vantage from which those statements can be certified as the objective case. The claiming happens here. One can speak as if from nowhere, but one cannot occupy that nowhere. As demonstrated in [The Closed Loop of Representation](../the-closed-loop-of-representation/), all theories, instruments, and interpretations remain immanent to the first-person Mind that formulates them. The first-person perspective and causality are two sides of the same coin: causality is not an autonomous machine operating behind the scenes, but the asymmetrical trace registered when conscious agency engages local friction. When a theorist attempts to sever the first-person center from causality to declare will an illusion, they merely simulate an exit from the field of their own awareness. In [The Blind Spot of the Frame](../the-blind-spot-of-the-frame/), this sleight of hand is further unmasked as a confusion between methodological omission and ontological absence: the investigator methodologically brackets the subject to articulate an objective blueprint, only to mistake the subject's absence from the blueprint for proof that agency does not exist. The same self-denying structure recurs in the philosophy of mind: [The Functionalism No Functionalist Can Hold](../the-functionalism-no-functionalist-can-hold/) dissects how the functionalist, holding the view seriously, declares seriousness to be nothing but causal role, occupying the observer position while erasing the observer. Ideology scripts the subject by persuading freedom to deny itself, as [The Moral Reversal and the Scripted Subject](../the-moral-reversal-and-the-scripted-subject/) shows. [The Grammar of Finding and the Fading Observer](../the-grammar-of-finding-and-the-fading-observer/) traces the same move to the observer itself: denying the observer is a choice made from the observing position.
 
 ## 二、 跨越时差的维持劳作与被掩盖的框架抉择 / 2. The Maintenance of Stances Across Time and the Concealed Choice of Framing
 
-一旦否定自由意志的著作被印刷出版，或者那段犀利的演讲片段被录制传播，它便不再只是意识中转瞬即逝的又一个浮动念头。它凝固成了一个必须在时间流逝中被反复维护连贯性的理论客体。在此后的数年甚至数十年里，学者需要耗费大量的智力与修辞，去向公众解释为何多年前写下的论调依然合理，去回应各路批评者的反驳，去修补逻辑防线上的每一处裂隙。这段跨越漫长时差的辩护劳作，恰恰构成了否定自由意志学说最具讽刺意味的实证样本。
+一旦这套论述被出版传播，它便不再只是掠过觉知的又一个转瞬即逝的浮动念头，而成为一个必须在流逝的时间里被主动捍卫其连贯性的客体。此后，大量的智力劳作与修辞雄辩被投入其中，用以证明当初的主张在时隔多日之后依然成立。这段持续不断的维护劳作，本身就是实证样本。后一个立场被有意采纳来审视前一个立场，核验前后一致性、回应各方反驳，并修补结构上的含混之处。
 
 Once the account is published and distributed, it ceases to be only another transient thought drifting across awareness. It becomes an object whose coherence must be actively defended across elapsed time. Substantial intellectual labor and rhetorical eloquence are subsequently spent demonstrating that the original claim remains valid after intervals have passed. That ongoing maintenance is the empirical exhibit. A later stance is deliberately taken toward an earlier one, evaluating consistency, addressing objections, and repairing structural ambiguities.
 
-这种对立场的维系，清晰展现了后一个时空截面的行动者正在对前一个时空截面的自身采纳积极的反思姿态。意识从来不是端坐于影院包厢内、被动观赏念头流淌的受控旁观者；意识是在每一个当下觉知到某种认知框架的拣选已经发生，并主动投入生理与认知代谢能量去维系其稳定性的动态活动。[翻袋球与魔术戏法](../the-bank-shot-and-the-magic-trick/)表明，外部观察者容易将娴熟的技艺误判为机械必然，却遗忘了维持轨迹连贯所需付出的持续修正成本。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，无论先在条件沉淀在生物神经通路里，还是凝固为外化记忆代码库中层层累加的检查点，留存的余迹都只保有过往切分的形态，从不自行发起下一次区分；决定论指着那堆叠的余迹，动用自身在当下前沿的自由切分，反过来宣告是既存痕迹写下了这一刀。那些用来辩护宿命论的滔滔雄辩，并未证明自由抉择已被历史甩在身后，相反，它无可辩驳地展示出：自由抉择的主权能力依然在全负荷运转，只不过它此刻接到的特定指令，是竭尽所能去隐匿它自己的存在。
+由此观之，意识并非置身于事件机械传送带之外的被动旁观者；意识是觉知到某项特定的框架抉择已经发生，并投入代谢承诺以顶住阻力维系这一框架。正如[翻袋球与魔术戏法](../the-bank-shot-and-the-magic-trick/)所阐明的，目睹举重若轻之执行的外部旁观者，常把不见吃力当成第一人称因果劳作的缺席——抑或将下游痕迹抬升为规定下一杆的定律——却遗忘了要驾驭路线，就必须顶着阻力持续校准。又如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，无论先在条件沉淀在生物神经通路里，还是凝固为外化记忆代码库中层层累加的检查点，留存的余迹都只保有过往切分的形态，从不自行发起下一次区分；决定论指着那堆叠的余迹，动用自身在当下前沿的自由切分，反过来宣告是既存痕迹写下了这一刀。那些用来为决定论辩护的滔滔雄辩，并未表明主权能力已被超越；相反，它揭示出这一能力正以满负荷强度运转，只是领受了一项反讽的差事——掩盖它自身。
 
 ```mermaid
 graph TD
     subgraph S_LivingEdge ["当下的第一人称因果前沿"]
         direction TB
-        LE1["未受拘束的区分活动<br/>在当下实时裁决意义与荒谬之别"] --> LE2["反思性框架抉择<br/>能动地对前一瞬状态采取审视立场"]
-        LE2 --> LE3["跨时差的维持劳作<br/>消耗能量与注意力维系命题连贯"]
+        LE1["无因的区分活动<br/>在当下实时甄别意义与荒谬"] --> LE2["反思性框架立场<br/>主动对先前状态采取审视姿态"]
+        LE2 --> LE3["跨时间的连贯性维护<br/>消耗代谢注意力以维系命题秩序"]
     end
     subgraph S_TraceReification ["决定论的事后痕迹实体化"]
         direction TB
-        TR1["回顾性神经电信号<br/>意识产生前数百毫秒的物理准备电位"] --> TR2["虚构的虚空俯瞰视点<br/>假想脱离第一人称原点的上帝视角"]
-        TR2 --> TR3["因果施演矛盾<br/>动用断定意义的权力宣称该权力不存在"]
+        TR1["回溯性神经痕迹<br/>数毫秒前记录到的准备电位"] --> TR2["虚构的无处视点<br/>假想脱离第一人称视角的上帝视角"]
+        TR2 --> TR3["施演矛盾<br/>动用语义评判宣称能动性是幻觉"]
     end
-    LE2 -.->|"将事后痕迹误置为原生始因"| TR2
-    TR3 ==>|"截断第一人称生成机制"| LE1
+    LE2 -.->|"将回溯性痕迹误认作运作中的原因"| TR2
+    TR3 -.->|"声称抹除却暗中依赖"| LE1
     style S_LivingEdge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_TraceReification fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style LE1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -48,7 +48,7 @@ graph TD
     style TR3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-Consciousness, in this light, is not a passive spectator standing apart from a mechanical conveyor belt of events. It is the awareness that a specific choice of framing has occurred, coupled with the metabolic commitment to sustain that frame against resistance. As articulated in [The Bank Shot and the Magic Trick](../the-bank-shot-and-the-magic-trick/), an external onlooker routinely mistakes calibrated mastery for mechanical necessity, forgetting the continuous first-person adjustments required to steer the path. And as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, whether prior conditioning lives in biological neural pathways or in the accumulated checkpoints of an externalized codebase of memory, stored residue holds only the shape of earlier cuts and never initiates the next distinction; determinism points to that stacked residue and uses its own free cut at the living edge to declare that the stored trace authored the cut. The eloquence deployed to defend determinism does not show that sovereign capacity has been transcended. It reveals that capacity operating at full intensity, tasked with the ironic duty of concealing itself.
+Consciousness, in this light, is not a passive spectator standing apart from a mechanical conveyor belt of events. It is the awareness that a specific choice of framing has occurred, coupled with the metabolic commitment to sustain that frame against resistance. As articulated in [The Bank Shot and the Magic Trick](../the-bank-shot-and-the-magic-trick/), an external onlooker who sees effortless execution takes the absence of visible strain for the absence of first-person causal work—or elevates downstream traces into a law dictating the next stroke—forgetting the continuous calibration against resistance required to steer the path. And as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, whether prior conditioning lives in biological neural pathways or in the accumulated checkpoints of an externalized codebase of memory, stored residue holds only the shape of earlier cuts and never initiates the next distinction; determinism points to that stacked residue and uses its own free cut at the living edge to declare that the stored trace authored the cut. The eloquence deployed to defend determinism does not show that sovereign capacity has been transcended. It reveals that capacity operating at full intensity, tasked with the ironic duty of concealing itself.
 
 ```mermaid
 graph TD
@@ -63,7 +63,7 @@ graph TD
         TR2 --> TR3["Performative Contradiction<br/>Employs semantic judgment to declare agency an illusion"]
     end
     LE2 -.->|"Misidentifies retrospective trace as operating cause"| TR2
-    TR3 ==>|"Truncates living first-person generative ground"| LE1
+    TR3 -.->|"Claims to erase while covertly relying on"| LE1
     style S_LivingEdge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_TraceReification fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style LE1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -74,40 +74,41 @@ graph TD
     style TR3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-## 三、 第一因的活动机理与区分意义的主权能力 / 3. The Uncaused Cause as Distinguishing Activity and the Sovereign Threshold of Sense
+## 三、 作为区分活动的无因之因与意义的主权阈限 / 3. The Uncaused Cause as Distinguishing Activity and the Sovereign Threshold of Sense
 
-所谓不可再被归因的第一因，从来不是古典神学中那个高居天外、放射万物的僵死始基，也不是额外塞进机器里的幽灵机关。第一因正是区分活动本身：它的敞开性在当下的直接感知中呈现为无尽的潜在规定之域，而它的离散行动则拣选出哪些规定被显化到台前、哪些隐入背景之中。这一行动就是此刻正在发生的抉择。正是它从相继序列中切分出意义，被登记为物理过程的相继也不例外；也正是它能同样轻易地将意义翻转为对自身的否定。将这一源头想象成上游的某个固定点，本身就又落入了决定论的前提：源头不是静止的点，而是不息展开的区分动作，是生成分布的能力；[悬而未决是决定论的索求](../the-open-question-is-determinisms-demand/)由此进一步追出，哪怕看似中立地宣称抉择“是否被决定尚无定论”，也已经先行预设了决定论的索求。
+无因之因并非驻守在现实之外的神话第一推动者，也不是额外塞进机器里的幽灵机关。无因之因正是区分活动本身：它的敞开性在当下的直接感知中呈现为无尽的潜在规定之域，而它的离散行动则拣选出哪些规定被显化到台前、哪些隐入背景之中。这一行动就是此刻正在发生的抉择。正是它从相继序列中切分出意义，被登记为物理过程的相继也不例外；也正是它能同样轻易地将意义翻转为对自身的否定。将这一源头想象成上游的某个固定点，本身就又落入了决定论的前提：源头不是静止的点，而是不息展开的区分动作，是生成分布的能力；[悬而未决是决定论的索求](../the-open-question-is-determinisms-demand/)由此进一步追出，哪怕看似中立地宣称抉择“被决定与否尚无定论”，也已经先行预设了决定论的索求。
 
 The uncaused cause is not a mythological prime mover stationed outside reality, nor an extra ghostly mechanism inserted into the machine. It is the distinguishing activity itself: its openness arrives as the inexhaustible field of potential determinations in the immediate perceptual present, and its discrete act selects which determinations are brought into the open and which remain concealed. That act is the choice occurring now. It is what draws sense out of succession, the succession registered as physical included, and what can just as easily turn sense into a denial of itself. To picture this source as a fixed point upstream is again a deterministic premise: it is the differentiating as ongoing action, the ability to make a distribution, and from here [The Open Question Is Determinism's Demand](../the-open-question-is-determinisms-demand/) traces how the neutral statement that a choice is "not yet settled as determined or not" has already demanded determinism.
 
-机械的相继序列本身并不自带语义上的有效性。山体滑坡、恒星爆发或沿轴突传导的动作电位，作为被登记的事件，既非合乎情理也非荒谬悖谬；意义与荒谬是在它们之上作出的进一步区分。“意义”与“荒谬”之所以存在，只因能动的主体在二者之间作出了区分。决定论者写书批判自由意志，本身就是将这种区分意义与荒谬的主权能力，调集起来为一套宣称该能力不存在的假说服务。同一个结构也落在实在论者自己的论证上：若主张物质先于并独立于意识的人与否认这一点的人只是同一个被全然决定的进程中的两个点，“对”与“错”之间就没有可以立足的差别，这个论证取消意识的同时也取消了自己的资格。更进一步，正如[抉择的跨界](../the-boundary-crossing-of-choice/)所深入解构的，这种宣称试图将可重复的非物理抽象凌驾于鲜活的具身行动之上，却遗忘了发声言说这一动作本身就是一次不可逆的单次物理刻写。这正是运作中的自由：能动主权如此完整，以至于自由到连自身都可以否定。若没有这种划定边界并否定自身敞开性的能力，成立之物与排除之物之间便无从划出任何离散界限，评判、真伪与论证也就失去了容身的概念空间。正如[观察、区分活动与心智的开放地基](../observation-distinguishing-activity-and-the-open-ground-of-mind/)所追溯的，同样的自我否定在每一次区分中都在运作：划定边界，就是将边界由以生出的敞开性搁置一旁，任何离散之物——包括意义与荒谬之间的界限——正是借此显入视野。唯有当某一个特定立场——决定论模型也在其列——在跨出自身那一步后仍被执守为心智的全部，矛盾才由此产生；被它搁置一旁的敞开性，在该立场内部便被登记为必由某条外部先在因果链条所编写的东西，而宣称意志是幻觉的裁决，正是那个立场在发声。这种自否结构不仅在形而上学层面体现为理论家构筑决定论模型，更在微观存在层面体现为个体将注意力锁定于不可得选项并宣称毫无选择；[约束基底与自由自否](../the-substrate-of-constraint-and-the-self-denial-of-freedom/)进一步将这种自否机制拓展到了行动哲学中：约束从来不是剥夺自由的牢笼，而是赋予选择以差异化维度的操作基底，一个人感到被困住的时刻，正是自由以自我否定的姿态在全力运转。正如[共情的能力倒错与边界的排序之争](../the-capability-reversal-of-empathy-and-the-contest-of-boundaries/)所阐明的，卸下自卫的共情，同样是自由在关系场域中对自身的否定。
+机械的相继序列本身并不自带语义上的有效性。山体滑坡、恒星爆发或沿轴突传导的动作电位，作为被登记的事件，既非合乎情理也非荒谬悖谬；意义与荒谬是在它们之上作出的进一步区分。“意义”与“荒谬”之所以存在，只因能动的主体在二者之间作出了区分。决定论反驳自由意志的论证正是这样一种显现：将连贯推理与荒谬区分开来的能力本身，被调集去产出“该能力只是幻觉”的主张。同一个结构也落在实在论者自己的论证上：若主张物质先于并独立于意识的人与否认这一点的人只是同一个被全然决定的进程中的两个点，“对”与“错”之间就没有可以立足的差别，这个论证取消意识的同时也取消了自己的资格。更进一步，正如[抉择的跨界](../the-boundary-crossing-of-choice/)所深入解构的，这种宣称试图将可重复的非物理抽象凌驾于鲜活的具身行动之上，却遗忘了发声言说这一物理动作本身就是一次不可逆的单次物理刻写。这正是运作中的自由：能动主权如此完整，以至于自由到连自身都可以否定。若没有这种划定边界并否定自身敞开性的能力，成立之物与排除之物之间便无从划出任何离散界限，评判、真伪与论证也就失去了容身的概念空间。正如[观察、区分活动与心智的开放地基](../observation-distinguishing-activity-and-the-open-ground-of-mind/)所追溯的，同样的自我否定在每一次区分中都在运作：划定边界，就是将边界由以生出的敞开性搁置一旁，任何离散之物——包括意义与荒谬之间的界限——正是借此显入视野。唯有当某一个确定立场——决定论模型也在其列——在跨出自身那一步后仍被执守为心智的全部，矛盾才由此产生；被它搁置一旁的敞开性，在该立场内部便被登记为必由某条外部先在因果链条所编写的东西，而宣称意志是幻觉的裁决，正是那个立场在发声。这种自否动态不仅在形而上学层面体现为理论家构筑决定论模型，也在微观生存层面体现为行动者将注意力锁定于不可得选项以裁定自身的无助；正如[约束基底与自由自否](../the-substrate-of-constraint-and-the-self-denial-of-freedom/)将其进一步拓展至行动哲学中：约束并非囚笼，而是不可或缺的物理基底，选择唯有借此才能获得因果抓地力；受困的切身体验，恰恰是自由的主权在自我否定中运作。正如[共情的能力倒错与边界的排序之争](../the-capability-reversal-of-empathy-and-the-contest-of-boundaries/)所阐明的，卸下自卫的共情，同样是自由在关系场域中对自身的否定。
 
 Mechanical succession possesses no inherent semantic validity. A landslide, an exploding star, or an action potential propagating down an axon, registered as events, are neither sensible nor nonsensical; sense and nonsense are a further distinction drawn upon them. "Sense" and "nonsense" exist only because an active agency discriminates between them. The deterministic argument against free will is one such manifestation: the very capacity that distinguishes coherent reasoning from absurdity is deployed to produce the claim that the capacity is an illusion. The same structure falls on the realist's own argument: if the one who asserts matter prior to and independent of consciousness and the one who denies it are two points within one fully determined process, nothing is left for a difference between true and false to stand on, and the argument that dismisses consciousness disqualifies itself along with it. Furthermore, as dismantled in [The Boundary Crossing of Choice](../the-boundary-crossing-of-choice/), this argument attempts to elevate repeatable non-physical abstractions above living action, ignoring that the physical act of vocalization is itself an irreversible, singular physical inscription. This is freedom at work: agency is so sovereign that it is free even to deny itself. Without that capacity to bound and deny its own openness, no discrete boundary between what holds and what is excluded could be drawn at all, leaving no conceptual space for evaluation, truth, or argument. As [Observation, Distinguishing Activity, and the Open Ground of Mind](../observation-distinguishing-activity-and-the-open-ground-of-mind/) traces, the same self-denial works at every distinction: to bound is to set aside the openness the bound came from, and that is how anything discrete comes into view, the line between sense and nonsense included. The contradiction begins only when one determinate stance, the deterministic model among them, is held past its step as the whole of the Mind; the openness it set aside then registers from inside that stance as something a chain of prior causes must have authored from outside, and the verdict that will is an illusion is that stance speaking. This self-denying dynamic operates not only at the metaphysical level where theorists construct deterministic models, but also at the microscopic existential level where agents fixate on unavailable options to decree their own helplessness. As extended into the philosophy of action in [The Substrate of Constraint and the Self-Denial of Freedom](../the-substrate-of-constraint-and-the-self-denial-of-freedom/), constraints function not as prisons, but as the indispensable physical substrate through which choice acquires causal traction; the felt experience of captivity is the very sovereignty of freedom operating in self-denial. Empathy that disarms self-defense is freedom denying itself in relationships, as [The Capability Reversal of Empathy and the Contest of Boundaries](../the-capability-reversal-of-empathy-and-the-contest-of-boundaries/) shows.
 
 ## 四、 不可闭合的主体间性与第一人称的不可越俎代庖 / 4. The Unclosable Inter-Subjective Field and the Inalienability of the First Person
 
-思想家固然可以在其内部世界中建立一套模型，将自己所产生的念头认定为充分由外部先验因果所摆布，他有权将自身的心智体验解释为木偶式的被动受体。然而他断然无法跨出自身的认知边界，去占据一个凌驾于所有生命之上的法庭席位，向所有其他独立的第一人称心智发布剥夺自由意志的判决文书。宇宙中不存在任何超然的司法机构，能够穿透另一个心智的内部视界，并代其裁定选择的缺位。对自身立场的主权切分与跨心智归属之间的这道分界，也正是[归属的不对称](../asymmetry-of-ascription/)所追溯的。
+哲学家固然可以将这一否定施加于自身浮现的念头之上，把意识建模为对先在决定因素毫无编写权的旁观者。然而他无法占据一个超然席位，从中向所有其他第一人称心智发布具有同等约束力的裁决。不存在任何外部法庭能够审察另一个心智的抉择并宣告其能动性缺席——对自身立场的主权切分与跨心智归属之间的这道分界，也正是[归属的不对称](../asymmetry-of-ascription/)所追溯的。
 
 A philosopher may apply that denial to the thoughts that arise as their own, modeling consciousness as an authorless spectator of prior determinants. What they cannot do is occupy a transcendent station from which the same verdict is issued as binding upon every other first-person Mind. There is no outside court equipped to inspect another Mind's choosing and declare agency absent, the same divide between a sovereign cut over one's own standpoint and cross-mind attribution traced in [Asymmetry of Ascription](../asymmetry-of-ascription/).
 
-正如[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)与[自由的测不准](../zi-you-de-ce-bu-zhun/)所阐明的，外部观测所得的物理可预测性或统计噪声，不过是内部主权抉择在低维外部坐标系中的投影。其他人始终保有属于自己的开阔腹地：他们可以选择接纳这套否定意志的理论，可以选择将其当作荒谬之谈予以拒绝，可以选择对其进行更高维度的深化，甚至可以用同样的主权能力构建出反向的批判武器。这种他人永远保留的能动余地，绝非任何决定论者单凭言辞就能强行封闭的禁区。因为使他人得以反思和拒绝这套言论的先验敞开性，正是当初允许思想家写下否定自由意志文稿的原生土壤。
+正如[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)与[自由的测不准](../zi-you-de-ce-bu-zhun/)所详述的，外部测得的物理可预测性或统计噪声，皆是内部主权导航的低维投影。其他心智依然自由：自由地接纳这套决定论否定，拒绝它，校准它的边界，或将同样的区分能力反过来指向它的前提。这份留存的敞开性无法单凭宣告予以封闭；它正是当初使这一否定得以成型的同一份无因自由。
 
 ```mermaid
 graph TD
-    subgraph S_SelfDenial ["自由意志的自否拓扑架构"]
+    subgraph S_SelfDenial ["自由的自否拓扑结构"]
         direction TB
-        SD1["自由作为生成地基<br/>展开无尽的感知之域"] --> SD2["意义的语义阈限<br/>从被登记的相继序列中切分出意义的有效性"]
+        SD1["自由作为生成地基<br/>展开无尽的感知场域"] --> SD2["语义意义的阈限<br/>从被登记的相继序列中切分出有效性"]
         SD2 --> SD3["递归自我否定模型<br/>动用区分能力否定自身"]
     end
-    subgraph S_InterSubjective ["不可代庖的主体间性开放域"]
+    subgraph S_InterSubjective ["开放的主体间场域"]
         direction TB
-        IS1["内在自我建模<br/>思想家将自身心智构想为被动旁观者"] --> IS2["越界外推的法庭幻觉<br/>企图裁定其他心智的抉择缺位"]
-        IS3["独立的第一人称心智<br/>其他主体依然自由接纳、拒绝或深化"]
+        IS1["内在自我建模<br/>作者将自身心智构想为被动旁观者"]
+        IS2["越界法庭的幻象<br/>企图裁定其他主体的抉择缺席"]
+        IS3["独立的第一人称心智<br/>其他主体依然自由地接纳、拒绝或校准"]
     end
-    SD3 -->|"形成看似闭合的决定论学说"| IS1
+    SD3 -->|"构建封闭的决定论学说"| IS1
     IS1 -.->|"对自身心智之外不具本体论管辖权"| IS2
-    IS2 ==>|"遭遇主体间性不可消除的屏障"| IS3
-    IS3 -.->|"确认基底自由不可闭合"| SD1
+    IS2 ==>|"撞上不可闭合的主体间壁垒"| IS3
+    IS3 -.->|"印证不可化约的自由基线"| SD1
     style S_SelfDenial fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_InterSubjective fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
     style SD1 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -129,8 +130,9 @@ graph TD
     end
     subgraph S_InterSubjective ["Open Inter-Subjective Field"]
         direction TB
-        IS1["Internal Self-Modeling<br/>Author conceptualizes own mind as passive spectator"] --> IS2["Imperial Tribunal Illusion<br/>Attempts to decree other agents' choosing absent"]
-        IS3["Independent First-Person Minds<br/>Other agents remain free to accept refuse or refine"]
+        IS1["Internal Self-Modeling<br/>Author conceptualizes own mind as passive spectator"]
+        IS2["Imperial Tribunal Illusion<br/>Attempts to decree other agents' choosing absent"]
+        IS3["Independent First-Person Minds<br/>Other agents remain free to accept, refuse, or refine"]
     end
     SD3 -->|"Constructs closed deterministic doctrine"| IS1
     IS1 -.->|"Lacks ontological jurisdiction beyond one's own Mind"| IS2
