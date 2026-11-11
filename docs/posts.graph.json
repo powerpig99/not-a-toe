@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-10T20:26:55.785Z",
+    "generated_at": "2026-11-11T04:21:27.172Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -82,7 +82,7 @@
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "1cb221a85738",
       "content/posts/every-limitation-is-self-limitation.md": "b32af09836ce",
       "content/posts/everything-is-changing-as-always.md": "ef77f674af21",
-      "content/posts/evil-as-projected-resistance.md": "d0174318bc94",
+      "content/posts/evil-as-projected-resistance.md": "c84026a0d2e2",
       "content/posts/evil-as-the-minds-own-creation.md": "b0b74bc7b0b2",
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "cb3ba6791a63",
       "content/posts/expertise-as-reference-not-replacement.md": "bc7d7364b559",
@@ -193,7 +193,7 @@
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "a8f8212b9511",
       "content/posts/residual-control-recedes-to-the-edge.md": "3de7bf12eb33",
       "content/posts/residual-individualism.md": "ce5cf1738f1e",
-      "content/posts/restriction-is-a-selective-tax.md": "7ab4ce1e1cd4",
+      "content/posts/restriction-is-a-selective-tax.md": "014f812a6322",
       "content/posts/scaffolds-or-specialized-contexts.md": "594b21b4d06e",
       "content/posts/school_essay_final.md": "f18cabb10f9c",
       "content/posts/selection-contradiction-and-open-reality.md": "1101972968c9",
@@ -469,10 +469,10 @@
     },
     "stats": {
       "posts": 442,
-      "edges": 13512,
-      "unique_directed": 6639,
+      "edges": 13516,
+      "unique_directed": 6641,
       "missing_targets": 0,
-      "one_way": 1341,
+      "one_way": 1339,
       "isolated": 0,
       "posts_with_outbound": 442,
       "book_pages": 16,
@@ -2665,7 +2665,7 @@
       "path": "content/posts/every-limitation-is-self-limitation.md",
       "title": "限制即自我限制 / Every Limitation Is Self-Limitation",
       "hash": "b32af09836ce",
-      "in_degree": 0,
+      "in_degree": 2,
       "out_degree": 12,
       "links_out": [
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
@@ -2704,11 +2704,12 @@
       "slug": "evil-as-projected-resistance",
       "path": "content/posts/evil-as-projected-resistance.md",
       "title": "恶是投射出的抗拒 / Evil as Projected Resistance",
-      "hash": "d0174318bc94",
+      "hash": "c84026a0d2e2",
       "in_degree": 5,
-      "out_degree": 3,
+      "out_degree": 4,
       "links_out": [
         "your-codebase-is-memory",
+        "every-limitation-is-self-limitation",
         "not-a-theory-of-everything",
         "evil-as-the-minds-own-creation"
       ]
@@ -5902,9 +5903,9 @@
       "slug": "restriction-is-a-selective-tax",
       "path": "content/posts/restriction-is-a-selective-tax.md",
       "title": "限制是选择性的税 / Restriction Is a Selective Tax",
-      "hash": "7ab4ce1e1cd4",
+      "hash": "014f812a6322",
       "in_degree": 21,
-      "out_degree": 21,
+      "out_degree": 22,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
         "hierarchy-from-individual-difference",
@@ -5922,6 +5923,7 @@
         "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "the-risk-you-delegate-is-the-risk-you-create",
         "your-codebase-is-memory",
+        "every-limitation-is-self-limitation",
         "preference-clusters-and-the-language-of-judgment",
         "advocating-openness-of-others-is-a-desire-for-closure-of-the-self",
         "the-real-lesson-from-the-consciousness-vector-paper",
@@ -26748,6 +26750,12 @@
     },
     {
       "from": "evil-as-projected-resistance",
+      "to": "every-limitation-is-self-limitation",
+      "rel": "points_to",
+      "label": "限制即自我限制"
+    },
+    {
+      "from": "evil-as-projected-resistance",
       "to": "not-a-theory-of-everything",
       "rel": "points_to",
       "label": "非万物之理"
@@ -26757,6 +26765,12 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "evil-as-projected-resistance",
+      "to": "every-limitation-is-self-limitation",
+      "rel": "points_to",
+      "label": "Every Limitation Is Self-Limitation"
     },
     {
       "from": "evil-as-projected-resistance",
@@ -49575,6 +49589,18 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "every-limitation-is-self-limitation",
+      "rel": "points_to",
+      "label": "限制即自我限制"
+    },
+    {
+      "from": "restriction-is-a-selective-tax",
+      "to": "every-limitation-is-self-limitation",
+      "rel": "points_to",
+      "label": "Every Limitation Is Self-Limitation"
     },
     {
       "from": "restriction-is-a-selective-tax",
