@@ -132,9 +132,9 @@ flowchart TD
     style C5 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-只要这个范畴混淆不被看见，能力乐观就会不断转化为价值的定论，价值的定论又不断生产出拒绝重新打开自身的姿态。极端主义不是额外贴上的标签，而是这条链运行到末端时的形态。[恶是心智自己的造物](../evil-as-the-minds-own-creation/)是同一冻结的另一面：那里，恶是对保留善之表象的失配所作的命名；这里，恶是善自身的封闭。
+只要这个范畴混淆不被看见，能力乐观就会不断转化为价值的定论，价值的定论又不断生产出拒绝重新打开自身的姿态。极端主义不是额外贴上的标签，而是这条链运行到末端时的形态。[恶是心智自己的造物](../evil-as-the-minds-own-creation/)是同一冻结的另一面：那里，善的自我形象被保留下来，恶命名的是与它的失配；这里，恶是善自身的封闭。
 
-As long as this category confusion goes unseen, capability optimism keeps turning into settled verdicts of value, and settled verdicts of value keep producing a stance that refuses to reopen itself. Extremism is not a label stuck on from outside; it is the shape this chain takes when it runs to its end. [Evil as the Mind's Own Creation](../evil-as-the-minds-own-creation/) is the other face of the same freeze: there, evil names a mismatch that keeps the appearance of good; here, evil is good's own closure.
+As long as this category confusion goes unseen, capability optimism keeps turning into settled verdicts of value, and settled verdicts of value keep producing a stance that refuses to reopen itself. Extremism is not a label stuck on from outside; it is the shape this chain takes when it runs to its end. [Evil as the Mind's Own Creation](../evil-as-the-minds-own-creation/) is the other face of the same freeze: there, evil names mismatch with a preserved self-image of good; here, evil is good's own closure.
 
 恶是封闭的善，是善的教条化。
 
