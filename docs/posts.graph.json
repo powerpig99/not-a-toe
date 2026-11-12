@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-12T09:20:21.283Z",
+    "generated_at": "2026-11-12T09:54:03.854Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -420,7 +420,7 @@
       "content/posts/trusting-the-reader-is-the-last-overstep.md": "797834a2a35a",
       "content/posts/two-failures-of-trace.md": "3ac21a2fda4a",
       "content/posts/two-phase-sleep-and-deep-sleep-continual-learning.md": "6ce604fb8a71",
-      "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "1a6b64a4d111",
+      "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "6118e1876156",
       "content/posts/war-revolution-and-the-fall-of-empires.md": "964c92de37bd",
       "content/posts/what-always-listens-cannot-originate.md": "ba33a730c065",
       "content/posts/what-cannot-be-kept.md": "71103f772ff6",
@@ -11797,7 +11797,7 @@
       "slug": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "path": "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md",
       "title": "外部归因是个人进步的障碍 / External Attribution Is the Obstacle to Personal Growth",
-      "hash": "1a6b64a4d111",
+      "hash": "6118e1876156",
       "in_degree": 15,
       "out_degree": 15,
       "links_out": [
@@ -88398,7 +88398,7 @@
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "Individual Choices as the Only Causal Levers"
     },
     {
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
@@ -88422,13 +88422,13 @@
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "to": "emotional-support-as-causal-interference",
       "rel": "points_to",
-      "label": "情感支持作为因果干扰"
+      "label": "作为因果干扰的情感支持"
     },
     {
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "to": "emotional-support-as-causal-interference",
       "rel": "points_to",
-      "label": "Emotional support as causal interference"
+      "label": "Emotional Support as Causal Interference"
     },
     {
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
@@ -88440,7 +88440,7 @@
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "to": "when-the-effect-authors-the-frame",
       "rel": "points_to",
-      "label": "When the effect authors the frame"
+      "label": "When the Effect Authors the Frame"
     },
     {
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
@@ -88464,13 +88464,13 @@
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
-      "label": "The average is residue, not the engine"
+      "label": "The Average Is Residue, Not the Engine"
     },
     {
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "to": "curiosity-first-the-hidden-engine-of-talent-and-development",
       "rel": "points_to",
-      "label": "Curiosity First: The Hidden Engine of Talent and Development"
+      "label": "Curiosity First"
     },
     {
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
@@ -88482,7 +88482,7 @@
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "没有普渡，只有自渡"
+      "label": "没有普渡，只有自渡的无限可能"
     },
     {
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
@@ -88494,7 +88494,7 @@
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "No Universal Salvation, Only Self-Deliverance"
+      "label": "No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
     },
     {
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",

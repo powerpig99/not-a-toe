@@ -2,7 +2,7 @@
 
 *行动的抓手只在内部；差距一旦归于外部，就失去被自己改变的可能 / The grip for action is only inside; a gap attributed outside loses the chance of being changed from within.*
 
-人的进步，更准确地说是自我迭代，不是卡在能力、资源、环境或运气上。它卡在一处：外部归因。把条件升格为命运，抓手就从内部移走了。育儿把同一个机制做成对孩子内部归因的扰乱：替孩子承担他本可以承担的，或让他承担本不属于他的。父母真正能给的，只有更多的选择，以及不徒增干扰；用力管好自己，孩子才有机会把解释权也收回到自己手里。
+人的进步，更准确地说是自我迭代，不是卡在能力、资源、环境或运气上。它卡在一处：外部归因。把条件升格为命运，抓手就从内部移走了。育儿把同一个机制做成对孩子内部归因的扰乱：替孩子承担他本可以承担的，或让他承担本不属于他的。父母真正能给的，只有更多的选择，以及不徒增干扰；用力管好自己，给孩子机会把解释权也收回到自己手里。
 
 Human progress, or more exactly self-iteration, does not get stuck on ability, resources, environment or luck. It gets stuck in one place: external attribution. Once conditions are raised into destiny, the grip is moved out of the inside. Parenting turns the same mechanism into a disturbance of a child’s inner attribution: carrying for the child what they could carry themselves, or making them carry what was never theirs. What parents can really give is only more options and no added interference; by working hard at managing themselves, they give the child a chance to take the right to interpret back into the child’s own hands as well.
 
@@ -55,7 +55,7 @@ flowchart TD
     style I2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-[Individual choices as the only causal levers](../individual-choices-as-the-only-causal-levers/) is the same return to place: conditions are field, not a second author supplying the cause of the next step. [Life as a Continuous Process of Self-Iteration](../ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/) is the same cut-off: the error stops at “externally given” and never returns to the weights that can be updated. [Your Codebase Is Memory](../your-codebase-is-memory/) extends the same distinction to every accumulated trace: internal attribution treats one’s present habits, skills, and externalized codebase of memory as checkpoints left by one’s own prior cuts—and therefore open to re-tracing, pruning, and revision whenever reality pushes back—whereas external attribution locks the checkpoint as someone else’s fault and leaves the stale framing untouched. [On Attribution](../guan-yu-gui-yin/) is the same externalizing as it comes to rest on a conspicuous node.
+[Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) is the same return to place: conditions are field, not a second author supplying the cause of the next step. [Life as a Continuous Process of Self-Iteration](../ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng/) is the same cut-off: the error stops at “externally given” and never returns to the weights that can be updated. [Your Codebase Is Memory](../your-codebase-is-memory/) extends the same distinction to every accumulated trace: internal attribution treats one’s present habits, skills, and externalized codebase of memory as checkpoints left by one’s own prior cuts—and therefore open to re-tracing, pruning, and revision whenever reality pushes back—whereas external attribution locks the checkpoint as someone else’s fault and leaves the stale framing untouched. [On Attribution](../guan-yu-gui-yin/) is the same externalizing as it comes to rest on a conspicuous node.
 
 ```mermaid
 flowchart TD
@@ -84,23 +84,23 @@ flowchart TD
     style I2 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-## 三、 育儿是在扰乱孩子的内部归因 / 3. Parenting That Disturbs a Child’s Inner Attribution
+## 三、 扰乱孩子内部归因的育儿 / 3. Parenting That Disturbs a Child’s Inner Attribution
 
 育儿的困境，不在方法不够先进，而在父母反复扰乱孩子的内部归因。
 
 The trouble in parenting lies not in methods that are not advanced enough, but in parents repeatedly disturbing a child’s inner attribution.
 
-最常见的操作有两种。
+常见的操作有两种。
 
 There are two common ways of doing it.
 
-一是替孩子承担他本可以自己承担的。过度保护、包办、抢先解决，等于在反复告诉孩子：“你做不到，也不需要做到。”他的行动与结果之间的因果链被切断，内部归因就无法生长。[情感支持作为因果干扰](../emotional-support-as-causal-interference/)是同一种替换：外部的调节替掉了孩子自己与后果的接触。
+一是替孩子承担他本可以自己承担的。过度保护、包办、抢先解决，等于在反复告诉孩子：“你做不到，也不需要做到。”他的行动与结果之间的因果链被切断，内部归因就无法生长。[作为因果干扰的情感支持](../emotional-support-as-causal-interference/)是同一种替换：外部的调节替掉了孩子自己与后果的接触。
 
-The first is carrying for the child what they could carry themselves. Overprotecting, doing everything for them, solving problems before they arise, all keep telling the child: “You can’t do it, and you don’t need to.” The causal chain between their actions and the results is cut, and inner attribution cannot grow. [Emotional support as causal interference](../emotional-support-as-causal-interference/) is the same replacement: outside regulation takes the place of the child’s own contact with consequence.
+The first is carrying for the child what they could carry themselves. Overprotecting, doing everything for them, solving problems before they arise, all keep telling the child: “You can’t do it, and you don’t need to.” The causal chain between their actions and the results is cut, and inner attribution cannot grow. [Emotional Support as Causal Interference](../emotional-support-as-causal-interference/) is the same replacement: outside regulation takes the place of the child’s own contact with consequence.
 
 二是让孩子承担本不属于他的。把父母的焦虑、情绪与未完成的欲望投射过去，等于在告诉他：“你的价值取决于别人的心情和期待。”他开始用外部的标准定义自己，内在的驱力逐渐萎缩。[当效果主宰了框架的叙事](../when-the-effect-authors-the-frame/)是同一个先验：把登记到的东西当成下一步的作者。
 
-The second is making the child carry what was never theirs. Projecting the parents’ anxiety, moods and unfinished desires onto the child amounts to telling them: “Your worth depends on other people’s moods and expectations.” The child begins to define themselves by outside standards, and the inner drive slowly withers. [When the effect authors the frame](../when-the-effect-authors-the-frame/) is the same prior: what registers is taken for the author of the next step.
+The second is making the child carry what was never theirs. Projecting the parents’ anxiety, moods and unfinished desires onto the child amounts to telling them: “Your worth depends on other people’s moods and expectations.” The child begins to define themselves by outside standards, and the inner drive slowly withers. [When the Effect Authors the Frame](../when-the-effect-authors-the-frame/) is the same prior: what registers is taken for the author of the next step.
 
 这两种操作，把孩子原本微弱却真实的自驱力，一点一点磨平。
 
@@ -108,13 +108,13 @@ These two ways grind down, bit by bit, the child’s self-drive, faint at first 
 
 ## 四、 个体的自驱力经不起平均 / 4. Individual Self-Drive Cannot Be Averaged
 
-畅销书里的教育方法，多在研究现象、总结规律、平均经验，却看不见真正重要的东西：那个具体的孩子此刻内心真正在驱动什么。个体的自驱力既看不见，也经不起平均。只有近距离观察、将心比心，才能体会到其中的真谛。体会发生在观察的这一边，而不是进入他的内心。
+畅销书里的教育方法，多在研究现象、总结规律、平均经验，却看不见真正重要的东西：那个具体的孩子此刻内心真正在驱动什么。个体的自驱力既看不见，也经不起平均。只有近距离观察、将心比心，才能体会到是什么在其中起作用。体会发生在观察的这一边，而不是进入他的内心。
 
 The parenting methods in bestselling books mostly study phenomena, sum up patterns and average experience, and miss what really matters: what is actually driving that particular child inside, right now. Individual self-drive can neither be seen nor averaged. Only close observation and putting oneself in the child’s place can sense what is at work in it. That sensing happens on the observer’s side; it is not an entry into the child’s mind.
 
 [平均值是残余，不是引擎](../the-average-is-residue-not-the-engine/)是同一份冻结：把平均的痕迹当成引擎。[好奇先行](../curiosity-first-the-hidden-engine-of-talent-and-development/)是那份具体驱动的一面：好奇的回路，不是可以平均的天赋库存。成功的父母把自己的路径当作公式，孩子的差距便被归于外部，[成功之后的育儿谬误](../the-fallacy-of-post-success-parenting/)对此有所剖析。
 
-[The average is residue, not the engine](../the-average-is-residue-not-the-engine/) is the same freeze: averaged residue taken for the engine. [Curiosity First: The Hidden Engine of Talent and Development](../curiosity-first-the-hidden-engine-of-talent-and-development/) is the face of that particular drive: the loop of curiosity, not an averageable stock of talent. Successful parents take their own path as a formula, and the child’s gap is then attributed outside, as [The Fallacy of Post-Success Parenting](../the-fallacy-of-post-success-parenting/) dissects.
+[The Average Is Residue, Not the Engine](../the-average-is-residue-not-the-engine/) is the same freeze: averaged residue taken for the engine. [Curiosity First](../curiosity-first-the-hidden-engine-of-talent-and-development/) is the face of that particular drive: the loop of curiosity, not an averageable stock of talent. Successful parents take their own path as a formula, and the child’s gap is then attributed outside, as [The Fallacy of Post-Success Parenting](../the-fallacy-of-post-success-parenting/) dissects.
 
 ## 五、 提供更多选择，不徒增干扰 / 5. More Options, No Added Interference
 
@@ -126,12 +126,12 @@ The child’s future belongs to the child, not to the parents’ plan.
 
 The old saying that children and grandchildren have fortunes of their own is not passivity but clarity, not indulgence but self-discipline. Parents can really give only two things: more options, and no added interference. The rest of the road the child must walk. The most effective parenting looks the most relaxed, because the parents no longer strain to “shape” the child but strain to manage themselves: their own anxiety, their own projections, the part of their desire that wants to prove something through the child. That is where the work of understanding is most needed.
 
-父母把归因全部收回到自己手里，孩子才有机会把归因也收回到自己手里。收回的是父母这一边的解释权，不是把内部归因做成礼物交过去。父母不再把外部当作命运，孩子才可能学会把条件当作条件。[没有普渡，只有自渡](../mei-you-pu-du-zhi-you-zi-du/)是同一道边界：没有任何内心能替另一个内心完成回归。用“革命”这样的大词解释一段人生，同样把抓手放在了外部，[革命之名把生活收成证据](../the-name-revolution-files-a-life-as-evidence/)说明了这一点。
+父母把归因全部收回到自己手里，孩子就有机会把归因也收回到自己手里。收回的是父母这一边的解释权，不是把内部归因做成礼物交过去。父母不再把外部当作命运，便给孩子留出空间，去学会把条件当作条件。[没有普渡，只有自渡的无限可能](../mei-you-pu-du-zhi-you-zi-du/)是同一道边界：没有任何内心能替另一个内心完成回归。用“革命”这样的大词解释一段人生，同样把抓手放在了外部，[革命之名把生活收成证据](../the-name-revolution-files-a-life-as-evidence/)说明了这一点。
 
-When parents take attribution wholly back into their own hands, the child has a chance to take attribution back into theirs. What is taken back is the parents’ own right to interpret, not inner attribution wrapped as a gift and handed over. Only when parents stop treating the outside as destiny can the child learn to treat conditions as conditions. [No Universal Salvation, Only Self-Deliverance](../mei-you-pu-du-zhi-you-zi-du/) is the same boundary: no mind can complete the return for another. Explaining a life with a word as large as “revolution” likewise puts the grip outside, as [The Name Revolution Files a Life as Evidence](../the-name-revolution-files-a-life-as-evidence/) shows.
+When parents take attribution wholly back into their own hands, the child has a chance to take attribution back into theirs. What is taken back is the parents’ own right to interpret, not inner attribution wrapped as a gift and handed over. When parents stop treating the outside as destiny, they leave room for the child to learn to treat conditions as conditions. [No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../mei-you-pu-du-zhi-you-zi-du/) is the same boundary: no mind can complete the return for another. Explaining a life with a word as large as “revolution” likewise puts the grip outside, as [The Name Revolution Files a Life as Evidence](../the-name-revolution-files-a-life-as-evidence/) shows.
 
 ## 六、 解释权只在自己手里 / 6. The Right to Interpret Rests Only with Oneself
 
 进步从不是被外界批准的。它只发生在一个地方：一个人决定把所有的解释权，重新握回自己手中。收回不是一次就结束；向外投射与收回，仍是同一个无法消解的运动，[生成性的矛盾](../the-generative-contradiction/)把这一对看作生成的源头，而不是收回就能了结的缺陷。[如何在一瞬间修正你的整个人生](../how-to-fix-your-whole-life-in-one-split-second/)是那一握作为瞬间的认领：剩下的，就是搞明白怎么做。[目的性的评判与认知的缺省状态](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/)剖析了人际往来中，拿“目的性太强”这个文化标签作为省力的防御、逃开自我迭代的细微机制。父母替孩子归因，也是一种外部归因，[引导不是占有](../guidance-is-not-ownership/)说明了这一点。
 
-Progress is never approved from outside. It happens in only one place: a person deciding to take every right of interpretation back into their own hands. Taking it back does not end at once; projecting outward and taking back remain the same irresolvable movement, which [The Generative Contradiction](../the-generative-contradiction/) holds as the generative source rather than a defect the reclaiming finishes. [How to Fix Your Whole Life in One Split Second](../how-to-fix-your-whole-life-in-one-split-second/) is that grip as an instantaneous claim of ownership: the rest is figuring out how. [Judging by Purpose and the Default State of Cognition](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) dissects the fine mechanism in human dealings of taking up the cultural label “too purpose-driven” as an economical defense that escapes self-iteration. Parents attributing on a child’s behalf is also external attribution, as [Guidance Is Not Ownership](../guidance-is-not-ownership/) shows.
+Progress is never approved from outside. It happens in only one place: a person deciding to take every right of interpretation back into their own hands. Taking it back does not end at once; projecting outward and taking back remain the same irresolvable movement, which [The Generative Contradiction](../the-generative-contradiction/) holds as the generative source rather than a defect the reclaiming finishes. [How to Fix Your Whole Life in One Split Second](../how-to-fix-your-whole-life-in-one-split-second/) is that grip as an instantaneous claim of ownership: the rest is figuring out how. [Judging by Purpose and the Default State of Cognition](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) dissects the fine mechanism in human dealings of taking up the cultural label “too goal-driven” as an economical defense that escapes self-iteration. Parents attributing on a child’s behalf is also external attribution, as [Guidance Is Not Ownership](../guidance-is-not-ownership/) shows.
