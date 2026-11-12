@@ -10,9 +10,9 @@ Every season of starting or finishing school, the talk about "socialization" war
 
 The usual readings split easily into two poles. One pushes "being oneself" toward isolation and defiance, trying to step outside social rules and even taking the rules as a deprivation of freedom; the other holds "socialization" up as an iron law of survival that cannot be disobeyed, so that one must adapt with full effort and file down one's edges to fit the existing frame. The two views, opposed on the surface, share one premise: both take "society" as an outside object that exists before the individual and stands apart from individual acts, and the direction of causation is thereby inverted.
 
-从选择者自身的位置追溯下去，社会化与做自己从来不是非此即彼的对立，而是因果相生的统一。
+从选择者自身的位置追溯下去，社会化与做自己从来不是非此即彼的对立，而是同一场持续运动中的果与因：先前的选择沉淀为地形，下一次选择踏入其中并加以改写。
 
-Traced from where the chooser stands, socialization and being oneself have never been an either-or opposition; they are one unity in which cause and effect give rise to each other.
+Traced from where the chooser stands, socialization and being oneself have never been an either-or opposition; they are effect and cause within one ongoing movement, where earlier choices settle into the terrain that the next choice steps into and rewrites.
 
 ## 一、 个人选择是因，互补回路是社会的表象 / 1. Choice Is the Cause, Complementary Loops the Social Appearance
 

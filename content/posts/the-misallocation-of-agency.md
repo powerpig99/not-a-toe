@@ -12,7 +12,7 @@ Economic freedom is not the application of individual rights to production and t
 
 Self-distinguishing activity occurs, uncaused and unceasing. Call it the Mind: the observer already under way, every act of which is a distinction. It occurs at discrete loci. What is called freedom is the individual Mind recognizing itself as the origin of its own judgments and actions. That recognition precedes every legal, economic, and institutional form.
 
-一个人在自己所在之处认出能动，这份认出就带着自愿的克制：对另一个中心发起强制，是一次跨越所在的越权，否认了双方的能动。许多人在反复的行动中维持这份自我认出与克制，一片稳定的、自愿生产、交易与不侵犯的场域便涌现出来。
+一个人在自己所在之处认出能动，这份认出就带着自愿的克制：对另一个中心发起强制，是试图实施跨越所在的越权，否认了双方的能动。许多人在反复的行动中维持这份自我认出与克制，一片稳定的、自愿生产、交易与不侵犯的场域便涌现出来。
 
 When an individual recognizes agency at their own locus, that recognition entails voluntary restraint: initiating force against another center attempts a cross-locus override that denies the agency of both. When many individuals sustain that self-recognition and restraint across repeated acts, a stable field of voluntary production, trade, and non-aggression emerges.
 
@@ -30,7 +30,7 @@ Any belief that one Mind can directly determine the actions of another has alrea
 
 No direct causal transfer registers between Minds; treating influence as direct cause reduces the receiving center to an effect rather than an origin of action. Agency cannot survive that reduction. Persuasion, teaching, and commerce work only as reference. [Expertise as Reference, Not Replacement](../expertise-as-reference-not-replacement/) is that boundary in the costume of care: another's map densifies the available options, but the lever of the next act stays only at the locus living the consequences. [What Always Listens Cannot Originate](../what-always-listens-cannot-originate/) is that boundary in the costume of receptivity: receptivity cannot be turned into a second source of ends.
 
-因为影响以参考为界，任何集体秩序都无法从上方设计出来。秩序只在独立的中心彼此遇见不侵犯、并自愿对齐各自的生产时形成。[价格是言说，理解是交易](../price-as-utterance-understanding-as-trade/)是这道边界在市场上的一面：订单以局部的重叠撮合，而不是以共享的内在；成交价是那次接触的痕迹，下一步在每一道边沿上重新生成。
+因为影响以参考为界，任何集体秩序都无法从上方设计出来。唯有独立的中心在互不侵犯中相遇、自愿对齐各自的生产，秩序才会形成。[价格是言说，理解是交易](../price-as-utterance-understanding-as-trade/)是这道边界在市场上的一面：订单以局部的重叠撮合，而不是以共享的内在；成交价是那次接触的痕迹，下一步在每一道边沿上重新生成。
 
 Because influence is bounded by reference, no collective order can be engineered from above. Order forms only when independent centers meet in mutual non-aggression and voluntarily align their production. [Price as Utterance, Understanding as Trade](../price-as-utterance-understanding-as-trade/) is the market face of this boundary: orders match by regional overlap, not by shared interiority; the transaction print is the residue of that contact, and the next step is generated fresh at each edge.
 
@@ -69,14 +69,12 @@ flowchart TD
         G3["涌现的协作场域：自愿生产与交易在反复行动中稳定下来"]
         G1 --> G2 --> G3
     end
-
     subgraph S_Name["下游痕迹与事后投射"]
         direction TB
         N1["被命名的规律：观察者将涌现的痕迹样式标为“权利”与“制度”"]
         N2["有限的投射基底：宪章、制度与模型持有先前的痕迹却无所在"]
         N1 --> N2
     end
-
     subgraph S_Rev["因果倒置与制度性侵蚀"]
         direction TB
         R1["形象滞后的范畴错误：将被命名的样式保留为自由的能动引擎"]
@@ -84,10 +82,8 @@ flowchart TD
         R3["责任扩散与强制扩张：自我节制的克制萎缩而执行力量扩张"]
         R1 --> R2 --> R3
     end
-
     G3 ==>|"沉积为持久的痕迹样式"| N1
     N2 ==>|"当观察将痕迹冻结为原因"| R1
-
     style S_Gen fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Name fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Rev fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -112,14 +108,12 @@ flowchart TD
         G3["Emergent Coordination Field: Voluntary production and trade stabilize across repeated acts"]
         G1 --> G2 --> G3
     end
-
     subgraph S_Name["Downstream Residue & Post-Hoc Projection"]
         direction TB
         N1["Named Regularities: Observers label the emergent trace-pattern 'rights' and 'the system'"]
         N2["Finite Projection Substrate: Charters, institutions, and models hold prior residue without a locus"]
         N1 --> N2
     end
-
     subgraph S_Rev["Causal Inversion & Systemic Erosion"]
         direction TB
         R1["Image Lag Category Error: Retaining the named pattern as the active engine of freedom"]
@@ -127,10 +121,8 @@ flowchart TD
         R3["Diffusion & Coercive Expansion: Enforcement expands as self-governed restraint atrophies"]
         R1 --> R2 --> R3
     end
-
     G3 ==>|"Deposits durable trace-patterns"| N1
     N2 ==>|"When observation freezes residue as cause"| R1
-
     style S_Gen fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Name fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Rev fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -154,6 +146,6 @@ Agency cannot be transferred, delegated, or stored in a collective container. It
 
 Laissez-faire capitalism does not produce free individuals. Free individuals, by recognizing their own agency and refusing to initiate force against others, produce the pattern of relations later labeled laissez-faire capitalism.
 
-“经济自由就是把个人权利应用到生产与交易上”这一说法，把马车套在了马前。权利话语描述的是脚印的形状；生成的一步是那只踩下去的脚。一切自由活着的源头，始终在那道选择、行动并克制强制的个体边沿上。[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)是底下的几何：无论一个中心是借由数学工具、智能体外骨骼还是一纸法律宪章在运作，掌舵的边沿都无法把自己的因果移进它身后留下的尾迹。[道德语言作为投影](../moral-language-as-projection/)追踪这次位移在语言上的机制：把制度的摩擦道德化为审慎或病态，是把已经从个人身上移走、转进集体控制结构的能动投射出来。交出解释的权利，本身也是一次自由的抉择，[目的性的评判与认知的缺省状态](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/)说明了这一点。
+“经济自由就是把个人权利应用到生产与交易上”这一说法，把马车套在了马前。权利话语描述的是脚印的形状；生成的一步是那只踩下去的脚。一切自由活着的源头，始终在那道选择、行动并克制强制的个体边沿上。[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)是底下的几何：无论一个中心是借由数学工具、智能体外骨骼还是一纸法律宪章在运作，掌舵的边沿都无法把自己的因果移进它身后留下的尾迹。[道德语言作为投影](../moral-language-as-projection/)追踪这次位移在语言上的机制：在制度摩擦中被道德化为审慎或病态的，是个人在归因上推卸自身能动、并将其投射到集体控制结构之上所留下的残余。交出解释的权利，本身也是一次自由的抉择，[目的性的评判与认知的缺省状态](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/)说明了这一点。
 
-The claim that "economic freedom is simply individual rights applied to production and trade" puts the cart before the horse. Rights-talk describes the shape of the footprint; the generative step is the foot pressing down. The living origin of all freedom stays at the individual edge that chooses, acts, and refrains from force. [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) is the geometry underneath: whether a center works through a mathematical instrument, an agentic harness, or a legal charter, the steering edge cannot relocate its causality into the wake it leaves behind. [Moral Language as Projection](../moral-language-as-projection/) tracks the linguistic mechanism of this displacement: moralizing institutional friction as prudence or pathology projects agency already removed from individuals and transferred into collective control structures. Handing over the right to explain is itself a free choice, as [Judging by Purpose and the Default State of Cognition](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) shows.
+The claim that "economic freedom is simply individual rights applied to production and trade" puts the cart before the horse. Rights-talk describes the shape of the footprint; the generative step is the foot pressing down. The living origin of all freedom stays at the individual edge that chooses, acts, and refrains from force. [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) is the geometry underneath: whether a center works through a mathematical instrument, an agentic harness, or a legal charter, the steering edge cannot relocate its causality into the wake it leaves behind. [Moral Language as Projection](../moral-language-as-projection/) tracks the linguistic mechanism of this displacement: what is moralized in institutional friction as prudence or pathology is the residue of agency disowned in attribution by individuals and projected onto collective control structures. Handing over the right to explain is itself a free choice, as [Judging by Purpose and the Default State of Cognition](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) shows.
