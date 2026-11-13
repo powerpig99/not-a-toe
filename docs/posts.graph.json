@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-12T09:54:03.854Z",
+    "generated_at": "2026-11-13T07:21:42.592Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -256,7 +256,6 @@
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "3205a7cd6a37",
       "content/posts/the-density-of-judgment.md": "824c87f92b0a",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "9bb0244423b3",
-      "content/posts/the-determination-funnel-beyond-convolutions-and-attention.md": "21e596de887e",
       "content/posts/the-deterministic-machine.md": "d279084d6516",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "57a85b713c5f",
       "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md": "74e15da43c71",
@@ -272,7 +271,7 @@
       "content/posts/the-fallacy-of-post-success-parenting.md": "a33a3eabb00c",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "204ffca3c19c",
       "content/posts/the-fixed-image-of-transcendence.md": "6e3a37a477e6",
-      "content/posts/the-fixed-map-and-the-repeated-trip.md": "bebfd3a11d1a",
+      "content/posts/the-fixed-map-and-the-repeated-trip.md": "513269847c19",
       "content/posts/the-flight-analogy-leaves-the-mind-untouched.md": "ed38d0706640",
       "content/posts/the-flywheel-of-the-mind.md": "8023c6735d6f",
       "content/posts/the-form-of-enlightenment-and-the-inversion-of-gates.md": "d245e5c4f9aa",
@@ -453,8 +452,8 @@
       "content/book/causality.md": "863b25c6333a",
       "content/book/consciousness.md": "5fd937c16807",
       "content/book/economics.md": "dea1e55d43f7",
-      "content/book/index-of-premises.md": "ca500c101353",
-      "content/book/intelligence.md": "2bd58eb69f54",
+      "content/book/index-of-premises.md": "c7889bc05a93",
+      "content/book/intelligence.md": "b49084869c8a",
       "content/book/knowledge-and-learning.md": "f4a8d1ba7f8d",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
       "content/book/mathematics.md": "8f6d273c0db8",
@@ -468,16 +467,16 @@
       "content/book/tools-and-progress.md": "5309ef6cb79b"
     },
     "stats": {
-      "posts": 442,
-      "edges": 13532,
-      "unique_directed": 6649,
+      "posts": 441,
+      "edges": 13514,
+      "unique_directed": 6640,
       "missing_targets": 0,
-      "one_way": 1343,
+      "one_way": 1336,
       "isolated": 0,
-      "posts_with_outbound": 442,
+      "posts_with_outbound": 441,
       "book_pages": 16,
-      "book_edges": 1333,
-      "posts_reached_by_book": 442
+      "book_edges": 1330,
+      "posts_reached_by_book": 441
     }
   },
   "hubs_in": [
@@ -522,11 +521,11 @@
       "in_degree": 46
     },
     {
-      "slug": "mistaking-the-expression-for-the-intelligence",
-      "in_degree": 45
+      "slug": "mei-you-pu-du-zhi-you-zi-du",
+      "in_degree": 44
     },
     {
-      "slug": "mei-you-pu-du-zhi-you-zi-du",
+      "slug": "mistaking-the-expression-for-the-intelligence",
       "in_degree": 44
     },
     {
@@ -1214,7 +1213,7 @@
       "path": "content/posts/architecture-of-recursive-distinction.md",
       "title": "递归区分的架构 / The Architecture of Recursive Distinction",
       "hash": "bc11baadb09a",
-      "in_degree": 18,
+      "in_degree": 17,
       "out_degree": 15,
       "links_out": [
         "the-continuum-is-a-modeling-convenience",
@@ -2466,7 +2465,7 @@
       "path": "content/posts/distillation-compression-agency.md",
       "title": "蒸馏、压缩与能动性 / Distillation Chooses What to Lose",
       "hash": "8be4ecf97ac2",
-      "in_degree": 9,
+      "in_degree": 8,
       "out_degree": 5,
       "links_out": [
         "two-phase-sleep-and-deep-sleep-continual-learning",
@@ -4304,7 +4303,7 @@
       "path": "content/posts/mistaking-the-expression-for-the-intelligence.md",
       "title": "错把表达当成智能 / Mistaking the Expression for the Intelligence",
       "hash": "4020de9bf630",
-      "in_degree": 45,
+      "in_degree": 44,
       "out_degree": 39,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -4477,7 +4476,7 @@
       "path": "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md",
       "title": "没有外部 / No Outside",
       "hash": "088f1d7e09e0",
-      "in_degree": 30,
+      "in_degree": 29,
       "out_degree": 26,
       "links_out": [
         "data-is-local-intelligence-is-allocated",
@@ -5470,7 +5469,7 @@
       "path": "content/posts/precision-and-resolution.md",
       "title": "精度与分辨率 / Precision and Resolution",
       "hash": "3a07d3cc0531",
-      "in_degree": 20,
+      "in_degree": 19,
       "out_degree": 14,
       "links_out": [
         "the-comment-is-not-the-code",
@@ -6875,7 +6874,7 @@
       "path": "content/posts/the-blind-cut-and-the-naming-mind.md",
       "title": "盲目的切分与命名的心智 / The Blind Cut and the Naming Mind",
       "hash": "5d1da39f48d6",
-      "in_degree": 14,
+      "in_degree": 13,
       "out_degree": 14,
       "links_out": [
         "tokens-and-the-observational-boundary",
@@ -7614,26 +7613,6 @@
       ]
     },
     {
-      "id": "post:the-determination-funnel-beyond-convolutions-and-attention",
-      "kind": "post",
-      "slug": "the-determination-funnel-beyond-convolutions-and-attention",
-      "path": "content/posts/the-determination-funnel-beyond-convolutions-and-attention.md",
-      "title": "超越卷积与注意力机制的决定漏斗 / The Determination Funnel Beyond Convolutions and Attention",
-      "hash": "21e596de887e",
-      "in_degree": 1,
-      "out_degree": 8,
-      "links_out": [
-        "the-fixed-map-and-the-repeated-trip",
-        "the-blind-cut-and-the-naming-mind",
-        "the-perceiver-and-the-trace",
-        "mistaking-the-expression-for-the-intelligence",
-        "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
-        "precision-and-resolution",
-        "distillation-compression-agency",
-        "architecture-of-recursive-distinction"
-      ]
-    },
-    {
       "id": "post:the-deterministic-machine",
       "kind": "post",
       "slug": "the-deterministic-machine",
@@ -8025,9 +8004,9 @@
       "slug": "the-fixed-map-and-the-repeated-trip",
       "path": "content/posts/the-fixed-map-and-the-repeated-trip.md",
       "title": "固定地图与重复的行程 / The Fixed Map and the Repeated Trip",
-      "hash": "bebfd3a11d1a",
-      "in_degree": 17,
-      "out_degree": 18,
+      "hash": "513269847c19",
+      "in_degree": 16,
+      "out_degree": 17,
       "links_out": [
         "lossless-knowledge-of-an-open-field-is-incoherent",
         "dimensions-are-projections",
@@ -8038,7 +8017,6 @@
         "what-information-is",
         "the-ladder-of-abstraction-and-the-executable-entity",
         "the-blind-cut-and-the-naming-mind",
-        "the-determination-funnel-beyond-convolutions-and-attention",
         "the-shadow-has-no-loss",
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
         "context-engineering-essay",
@@ -10015,7 +9993,7 @@
       "path": "content/posts/the-perceiver-and-the-trace.md",
       "title": "感知者与痕迹的不可坍缩 / The Perceiver and the Trace Cannot Collapse",
       "hash": "3ef4ce6ab500",
-      "in_degree": 13,
+      "in_degree": 12,
       "out_degree": 12,
       "links_out": [
         "consciousness-never-appears-as-data-among-data",
@@ -60387,102 +60365,6 @@
       "label": "Your Codebase Is Memory"
     },
     {
-      "from": "the-determination-funnel-beyond-convolutions-and-attention",
-      "to": "the-fixed-map-and-the-repeated-trip",
-      "rel": "points_to",
-      "label": "固定地图与重复的行程"
-    },
-    {
-      "from": "the-determination-funnel-beyond-convolutions-and-attention",
-      "to": "the-blind-cut-and-the-naming-mind",
-      "rel": "points_to",
-      "label": "盲目的切分与命名的心智"
-    },
-    {
-      "from": "the-determination-funnel-beyond-convolutions-and-attention",
-      "to": "the-fixed-map-and-the-repeated-trip",
-      "rel": "points_to",
-      "label": "The Fixed Map and the Repeated Trip"
-    },
-    {
-      "from": "the-determination-funnel-beyond-convolutions-and-attention",
-      "to": "the-blind-cut-and-the-naming-mind",
-      "rel": "points_to",
-      "label": "The Blind Cut and the Naming Mind"
-    },
-    {
-      "from": "the-determination-funnel-beyond-convolutions-and-attention",
-      "to": "the-perceiver-and-the-trace",
-      "rel": "points_to",
-      "label": "感知者与痕迹的不可坍缩"
-    },
-    {
-      "from": "the-determination-funnel-beyond-convolutions-and-attention",
-      "to": "mistaking-the-expression-for-the-intelligence",
-      "rel": "points_to",
-      "label": "错把表达当成智能"
-    },
-    {
-      "from": "the-determination-funnel-beyond-convolutions-and-attention",
-      "to": "the-perceiver-and-the-trace",
-      "rel": "points_to",
-      "label": "The Perceiver and the Trace Cannot Collapse"
-    },
-    {
-      "from": "the-determination-funnel-beyond-convolutions-and-attention",
-      "to": "mistaking-the-expression-for-the-intelligence",
-      "rel": "points_to",
-      "label": "Mistaking the Expression for the Intelligence"
-    },
-    {
-      "from": "the-determination-funnel-beyond-convolutions-and-attention",
-      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
-      "rel": "points_to",
-      "label": "没有外部"
-    },
-    {
-      "from": "the-determination-funnel-beyond-convolutions-and-attention",
-      "to": "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind",
-      "rel": "points_to",
-      "label": "No Outside"
-    },
-    {
-      "from": "the-determination-funnel-beyond-convolutions-and-attention",
-      "to": "precision-and-resolution",
-      "rel": "points_to",
-      "label": "精度与分辨率"
-    },
-    {
-      "from": "the-determination-funnel-beyond-convolutions-and-attention",
-      "to": "precision-and-resolution",
-      "rel": "points_to",
-      "label": "Precision and Resolution"
-    },
-    {
-      "from": "the-determination-funnel-beyond-convolutions-and-attention",
-      "to": "distillation-compression-agency",
-      "rel": "points_to",
-      "label": "蒸馏、压缩与能动性"
-    },
-    {
-      "from": "the-determination-funnel-beyond-convolutions-and-attention",
-      "to": "distillation-compression-agency",
-      "rel": "points_to",
-      "label": "Distillation Chooses What to Lose"
-    },
-    {
-      "from": "the-determination-funnel-beyond-convolutions-and-attention",
-      "to": "architecture-of-recursive-distinction",
-      "rel": "points_to",
-      "label": "递归区分的架构"
-    },
-    {
-      "from": "the-determination-funnel-beyond-convolutions-and-attention",
-      "to": "architecture-of-recursive-distinction",
-      "rel": "points_to",
-      "label": "The Architecture of Recursive Distinction"
-    },
-    {
       "from": "the-deterministic-machine",
       "to": "the-continuum-of-the-fold",
       "rel": "points_to",
@@ -63190,12 +63072,6 @@
     },
     {
       "from": "the-fixed-map-and-the-repeated-trip",
-      "to": "the-determination-funnel-beyond-convolutions-and-attention",
-      "rel": "points_to",
-      "label": "超越卷积与注意力机制的决定漏斗"
-    },
-    {
-      "from": "the-fixed-map-and-the-repeated-trip",
       "to": "the-shadow-has-no-loss",
       "rel": "points_to",
       "label": "影子没有损失"
@@ -63217,12 +63093,6 @@
       "to": "the-blind-cut-and-the-naming-mind",
       "rel": "points_to",
       "label": "The Blind Cut and the Naming Mind"
-    },
-    {
-      "from": "the-fixed-map-and-the-repeated-trip",
-      "to": "the-determination-funnel-beyond-convolutions-and-attention",
-      "rel": "points_to",
-      "label": "The Determination Funnel Beyond Convolutions and Attention"
     },
     {
       "from": "the-fixed-map-and-the-repeated-trip",
@@ -93830,8 +93700,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "ca500c101353",
-        "out_degree": 442
+        "hash": "c7889bc05a93",
+        "out_degree": 441
       },
       {
         "id": "book:intelligence",
@@ -93839,8 +93709,8 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "2bd58eb69f54",
-        "out_degree": 66
+        "hash": "b49084869c8a",
+        "out_degree": 65
       },
       {
         "id": "book:knowledge-and-learning",
@@ -99771,12 +99641,6 @@
       },
       {
         "from": "book:index-of-premises",
-        "to": "the-determination-funnel-beyond-convolutions-and-attention",
-        "rel": "collects",
-        "label": "超越卷积与注意力机制的决定漏斗 / The Determination Funnel Beyond Convolutions and Attention"
-      },
-      {
-        "from": "book:index-of-premises",
         "to": "architecture-of-recursive-distinction",
         "rel": "collects",
         "label": "递归区分的架构 / The Architecture of Recursive Distinction"
@@ -99840,12 +99704,6 @@
         "to": "the_moving_ground",
         "rel": "collects",
         "label": "移动的基底与智能体委派的渐近线 / The Moving Ground"
-      },
-      {
-        "from": "book:index-of-premises",
-        "to": "the-determination-funnel-beyond-convolutions-and-attention",
-        "rel": "collects",
-        "label": "超越卷积与注意力机制的决定漏斗 / The Determination Funnel Beyond Convolutions and Attention"
       },
       {
         "from": "book:index-of-premises",
@@ -100236,12 +100094,6 @@
         "to": "abstraction-determination-and-the-three-structural-flaws-of-machine-learning",
         "rel": "collects",
         "label": "抽象、决定，与主流机器学习的三大结构性症结 / Abstraction, Determination, and the Three Structural Flaws of Machine Learning"
-      },
-      {
-        "from": "book:intelligence",
-        "to": "the-determination-funnel-beyond-convolutions-and-attention",
-        "rel": "collects",
-        "label": "超越卷积与注意力机制的决定漏斗 / The Determination Funnel Beyond Convolutions and Attention"
       },
       {
         "from": "book:intelligence",
