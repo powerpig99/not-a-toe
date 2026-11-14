@@ -150,13 +150,13 @@ flowchart TD
     style DE_Emerge fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#f0f6fc
 ```
 
-## 三、 认知仿真与控制接管的分野：跳出均值的自由变量注入 / 3. The Chasm Between Cognitive Empathy and Operational Control: Injecting the Free Variable to Transcend the Mean
+## 三、 认知仿真与控制接管的分野：跳出均值的自由变量注入 / 3. The Chasm Between Cognitive Simulation and Operational Control: Injecting the Free Variable to Transcend the Mean
 
 指明普通人视角的局限，并不意味着自主心智应当居高临下地拒绝理解它。事实恰恰相反：具备高度因果自觉的观察者能够进入普通行动者的视界，以极高保真度仿真其感知流。这样的观察者能体察不确定性所唤起的本能战栗，能把握现成确定性的诱惑，并能精准预判基态心智会在何处、因何妥协。尤为关键的是，观察者清晰洞见到：普通人并非一台损坏的机械钟表，而是一个正在主动行使其主权能动性去背书“自己别无选择”这一信念的鲜活心智。对这一回路的高保真仿真，是测绘系统摩擦拓扑不可或缺的前提。
 
 Demonstrating the limitations of the ordinary perspective does not imply that an autonomous mind should superciliously refuse to comprehend it. The reality is precisely the opposite: an observer possessing rigorous causal awareness can enter the horizon of the ordinary agent, emulating its perceptual streams with clinical fidelity. Such an observer perceives the visceral dread evoked by uncertainty, grasps the seduction of prefabricated certainties, and accurately predicts where and why the baseline mind will compromise. Crucially, the observer recognizes that the ordinary person is not a broken mechanical clockwork, but a living mind actively exercising its sovereign agency to ratify the belief that it has no choice. High-fidelity simulation of this loop is indispensable for mapping systemic friction.
 
-分水岭在于，是将这一视角作为诊断的对象，还是允许它夺取自身控制总线的操作指挥权。正因为能够仿真普通人的视角——追踪其弃权启发式算法中内嵌的确定性死胡同——才会得出不容置疑的认知：一旦采纳这套启发式规则来统御自身的具身行动，就等于主动交出了自由度，注定将自身锁死在均值之中。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，过往描述与记忆痕迹所累积的代码库，只是早期切分留下的残余形态，从来不是能够发起下一步行动的自维持因果引擎；在不断加厚的残余痕迹内部反复合理化，而非在当下的鲜活前沿重新切分边界，正是将轨迹锁死在既有框架中的机制。亦如[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)与[抉择本身并不沉重](../choice-itself-has-no-inherent-weight/)所阐明的，冲出势阱从不是通过在基态算法内部做渐进微调实现的。它要求主动注入自由变量：通过第一人称主权抉择收回操作指挥权。当封闭的确定性网络催促退缩、外推责任与寻求群体庇护时，唯有主权的反惯性做功，才能提供冲破势阱所需的逃逸速度。
+分水岭在于，是将这一视角作为诊断的对象，还是允许它夺取自身控制总线的操作指挥权。正因为能够仿真普通人的视角——追踪其弃权启发式算法中内嵌的确定性死胡同——才会得出不容置疑的认知：一旦采纳这套启发式规则来统御自身的具身行动，就等于主动交出了自由度，注定将自身锁死在均值之中。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，累积的过往痕迹——无论是外化于由描述构成的代码库，还是留存于活的记忆之中——都只是早期切分留下的残余形态，从来不是能够发起下一步行动的自维持因果引擎；在不断加厚的残余痕迹内部反复合理化，而非在当下的鲜活前沿重新切分边界，正是将轨迹锁死在既有框架中的机制。亦如[主权抉择的双面性与观察的客体化](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/)与[抉择本身并不沉重](../choice-itself-has-no-inherent-weight/)所阐明的，冲出势阱从不是通过在基态算法内部做渐进微调实现的。它要求主动注入自由变量：通过第一人称主权抉择收回操作指挥权。当封闭的确定性网络催促退缩、外推责任与寻求群体庇护时，唯有主权的反惯性做功，才能提供冲破势阱所需的逃逸速度。
 
 ```mermaid
 flowchart TD
@@ -183,7 +183,7 @@ flowchart TD
     style O_Escape fill:#0d1117,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
 ```
 
-The watershed lies in whether one deploys this perspective as an object of diagnosis or permits it to seize operational command of one's own control bus. It is precisely because one can simulate the ordinary person's perspective—tracing the deterministic dead ends embedded in its heuristics of abdication—that one arrives at the unyielding realization: if you adopt these heuristics to govern your own embodied actions, you actively surrender your degree of freedom and ensure permanent confinement to the mean. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces, the accumulated codebase of past descriptions and memory traces is only residual shape left by earlier cuts, never a self-sustaining causal engine that initiates the next step; rationalizing inside that thickened residue instead of re-cutting the boundary at the living edge is what keeps a trajectory locked in its prior frame. As demonstrated in [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) and [Choice Itself Has No Inherent Weight](../choice-itself-has-no-inherent-weight/), breaking out of the basin is never achieved through incremental adjustments within the baseline algorithm. It demands the active injection of a free variable: reclaiming operational command through first-person sovereign choice. When the closed deterministic network clamors for retreat, external blame, and herd safety, only sovereign counter-inertia provides the escape velocity needed to rupture the basin.
+The watershed lies in whether one deploys this perspective as an object of diagnosis or permits it to seize operational command of one's own control bus. It is precisely because one can simulate the ordinary person's perspective—tracing the deterministic dead ends embedded in its heuristics of abdication—that one arrives at the unyielding realization: if you adopt these heuristics to govern your own embodied actions, you actively surrender your degree of freedom and ensure permanent confinement to the mean. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces, accumulated prior traces—whether externalized in a codebase of descriptions or held in living memory—are only residual shape left by earlier cuts, never a self-sustaining causal engine that initiates the next step; rationalizing inside that thickened residue instead of re-cutting the boundary at the living edge is what keeps a trajectory locked in its prior frame. As demonstrated in [The Two-Sided Nature of Sovereign Choice and the Objectification of Observation](../the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation/) and [Choice Itself Has No Inherent Weight](../choice-itself-has-no-inherent-weight/), breaking out of the basin is never achieved through incremental adjustments within the baseline algorithm. It demands the active injection of a free variable: reclaiming operational command through first-person sovereign choice. When the closed deterministic network clamors for retreat, external blame, and herd safety, only sovereign counter-inertia provides the escape velocity needed to rupture the basin.
 
 ```mermaid
 flowchart TD
@@ -280,9 +280,9 @@ flowchart TD
 
 ## 五、 标量投影的破魅：单一维度的排位迷思与多元主权的立足 / 5. Demystifying the Scalar Projection: The Myth of Single-Dimensional Rank and the Sovereignty of Multidimensional Aliveness
 
-围绕普通人视角最具颠覆性的澄清，直指度量架构本身。无论是被大众推崇的优秀、被当作情感庇护所的普通，还是被边缘抛弃的落后，这些范畴都不是鲜活行动者内在固有的形而上学属性。它们无一例外，都是当无限维度的具身生机被压缩到某根任意的社会坐标轴上时所生成的低维标量投影。
+围绕普通人视角最具颠覆性的澄清，直指度量架构本身。无论是被大众推崇的优秀、被当作情感庇护所的普通，还是被边缘抛弃的落后，这些范畴都不是鲜活行动者内在固有的形而上学属性。它们无一例外，都是当开放的潜无穷维具身生机被压缩到某根任意的社会坐标轴上时所生成的低维标量投影。
 
-The most subversive clarification regarding the ordinary perspective strikes at the architecture of measurement itself. Whether it is the excellence lauded by the masses, the ordinariness claimed as an emotional shelter, or the backwardness discarded at the margins, none of these categories represent intrinsic metaphysical properties of living agents. They are without exception low-dimensional scalar projections generated when infinite-dimensional embodied aliveness is compressed onto an arbitrary societal coordinate axis.
+The most subversive clarification regarding the ordinary perspective strikes at the architecture of measurement itself. Whether it is the excellence lauded by the masses, the ordinariness claimed as an emotional shelter, or the backwardness discarded at the margins, none of these categories represent intrinsic metaphysical properties of living agents. They are without exception low-dimensional scalar projections generated when open, potentially infinite-dimensional embodied aliveness is compressed onto an arbitrary societal coordinate axis.
 
 为了协调大众吞吐量与社会治理，制度系统必然会竖立起标准化的标尺——无论是财富净值、科层资历、标准化考试指标，还是对文化规程的服从度。正如[坐标系、心智与自由度](../coordinate-systems-mind-and-degrees-of-freedom/)、[切分的几何学](../the-geometry-of-the-cut/)、[无法逃逸的心智视界](../one-cannot-escape-ones-own-mind/)以及[造神的障眼法与隐秘阶序的说辞](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/)所阐明的，将高维认知压平到一维直线上——无论是沿着社会均值对个体排位，还是编造从生物有机体到工程造物的线性演化天梯——都必然生成降维压缩的标量阶序：中段聚拢的群体被标定为普通，两端则被贴上卓越或落后的标签。当个体沿着自主的正交维度行使主权时，其深度的内在自洽在社会共有标尺上可能投影为零，被外部旁观者轻率地贴上“失败”或“崩溃”的标签。反之，那些终生焦虑地拴在共有标尺中位数上的人，却在不知不觉中滑向系统性的整体崩溃。退缩在普通旗帜之后的人以为自己是在反抗精英主义压迫，然而他们的辩护却在无形中将那根借来的标尺奉为了神明。这不仅在世俗阶序中成立，在灵修话语中亦然：将极端特质的事后统计稀缺性误作觉醒的先验门槛，同样是将多维生机锁死在标量轴的两极；正如[开悟的相与门槛的倒置](../the-form-of-enlightenment-and-the-inversion-of-gates/)所辨明的，执着于苦修清单，恰恰构成了筑起精神壁垒的著相本身。主权觉醒不仅要求看清基态算法如何瘫痪能动性，更要求对标尺本身破除迷思。主权能动性既不在于疯狂竞逐某根人造数轴的尾部读数，也不在于蜷缩在中位数的温吞停滞中自我麻痹。超越均值，意味着整体跨出标量排位的游戏，在开放的多维相空间中航行，并对自身的演化轨迹承担第一人称责任。正如[感知的界限与理解的无限](../the-boundary-of-perception-and-the-infinity-of-understanding/)所揭示的，每一次度量与指向在几何上都刻下了一道局域区分与拓扑边界；感知的有限边界并非认知的缺陷，而是使心智得以在未感知的留白中建构生成模型、推演因果几何并施展第一人称主权的生机沃土。
 
@@ -290,7 +290,7 @@ The most subversive clarification regarding the ordinary perspective strikes at 
 flowchart TD
     subgraph S_ScalarTrap ["一维标量投影的排位迷思"]
         direction TB
-        P_HighDim["无限维度的鲜活具身心智"] --> P_Project["压平投影至任意的一维社会度量轴"]
+        P_HighDim["开放的超高维具身心智"] --> P_Project["压平投影至任意的一维社会度量轴"]
         P_Project --> P_Bell["机械生成正态分布截面读数"]
         P_Bell --> P_Rank["衍生优秀、普通、落后的价值阶序"]
         P_Rank --> P_Validate["对普通的辩护在无形中奉单一标尺为圭臬"]
@@ -321,7 +321,7 @@ To coordinate mass throughput and social administration, institutional systems i
 flowchart TD
     subgraph S_ScalarTrap_EN ["The Ranking Trap of the Scalar Projection"]
         direction TB
-        PE_HighDim["Infinite-Dimensional Living Embodied Mind"] --> PE_Project["Flattened onto Arbitrary Unidimensional Societal Metric"]
+        PE_HighDim["Open Ultra-High-Dimensional Embodied Mind"] --> PE_Project["Flattened onto Arbitrary Unidimensional Societal Metric"]
         PE_Project --> PE_Bell["Mechanical Emergence of Bell Curve Cross-Section"]
         PE_Bell --> PE_Rank["Generating Superior, Ordinary, and Lagging Value Tiers"]
         PE_Rank --> PE_Validate["Defense of Ordinariness Implicitly Consecrates the Ruler"]

@@ -6,7 +6,7 @@
 
 A workplace parable circulates endlessly across digital networks, inviting immediate identification from anyone who has ever felt overlooked inside an institution. After eleven years at the front desk, a receptionist hands in her notice, and her manager dismisses the departure without looking up, remarking that anyone can learn to answer phones in a week. She compiles a thorough handover binder covering contacts, scheduling quirks, and unwritten exceptions before walking out; once she is gone, the office stumbles over the tacit coordination that never fit onto the page. The company eventually splits her former workload across three roles while she steps into a better title elsewhere, yet years later her former manager still refers to her in public as the person who answered phones. The story endures because it promises the unseen contributor that silent endurance will be vindicated by downstream collapse, yet that consolation inverts the direction of causality.
 
-自我区分的活动发生在鲜活的边缘，第一人称视界与因果律在那里作为同一枚硬币的两面运作：每一次划出或撤回的区分都会留下痕迹，塑造后续行动的场域。当个体耗费十年光阴无偿吸纳摩擦、只等未来的缺席来证明自身价值时，她便切断了当下行动权能与因果回响之间的联结，错把滞后的自我形象当成了真实的筹码。
+自我区分的活动发生在鲜活的边缘，第一人称视界与因果律在那里作为同一枚硬币的两面运作：每一次划出或隐而不发的区分都会留下痕迹，塑造后续行动的场域。当个体耗费十年光阴无偿吸纳摩擦、只等未来的缺席来证明自身价值时，她便切断了当下行动权能与因果回响之间的联结，错把滞后的自我形象当成了真实的筹码。
 
 Self-distinguishing activity occurs at the living edge, where the first-person perspective and causality operate as two sides of one coin: every distinction drawn or withheld leaves a trace that shapes the field of subsequent acts. When an individual spends a decade absorbing unpriced friction while waiting for future absence to prove her worth, she severs her present agency from its causal return and mistakes a lagging self-image for real leverage.
 
@@ -16,9 +16,9 @@ Self-distinguishing activity occurs at the living edge, where the first-person p
 
 The viral pull of this parable rests on a double emotional compensation. Readers project themselves into the diligent, unappreciated protagonist because the framing flatters two impulses at once: internally, the center savors a quiet fantasy of indispensability, imagining that an entire organization rests on its unacknowledged shoulders; externally, the manager's dismissal supplies the blameless posture of having been wronged. Yet across the entire interaction, the employee's overestimation of her own irreplaceability and the manager's undervaluation of her labor are symmetrical projections born of the same lag. The manager compresses eleven years of multi-axis coordination into a mechanical routine trainable in seven days, while the employee and her sympathetic audience mistake the ordinary transition cost of unbundling habits for proof of personal irreplaceability.
 
-将离职后的混乱视为自我昭雪，是在心智内部搭建了一座单向度的复仇剧场。在这出内部排演中，中心在当下无需支付任何实时博弈成本，只指望单凭抽身退场就能对冷漠的层级体系降下决定性的裁决。寄望于借缺席来倒逼事后认可，是自我形象滞后的典型表现。一个锚定于自身运作容量的中心，不会用十一年压抑的怨怼去换取一幕戏剧化的退场，也不需要靠旧办公室的停摆来核验自身的立足点。当环境的回馈与付出的能量发生结构性背离时，主权行动者要么当场重谈边界，要么干脆利落地离开。幻想行政上的手忙脚乱能够事后追认沉默的牺牲，抚慰的只是那些在场时回避了正面摩擦的人。正如在[“普通人视角”的解释陷阱](../the-explanatory-trap-of-the-ordinary-perspective/)中所追溯的，流行叙事惯于将退缩与沉默装扮成悲壮的隐忍，借共同的受害者身份逃避当下行动的代价。经历短暂的摩擦间隔后，几乎所有团队都会通过重新分配任务与吸纳临时冗余而恢复稳定。从外部看去像是不可替代的权威，唯有在事后回看时才显得属于那个角色的结构性耦合，正如[隐性自由变量与权力的事后幻相](../the-free-variable-and-the-retrospective-illusion-of-power/)所展示的。
+将离职后的混乱视为自我昭雪，是在心智内部搭建了一座单向度的复仇剧场。在这出内部排演中，中心在当下无需支付任何实时博弈成本，只指望单凭抽身退场就能对冷漠的层级体系降下决定性的裁决。寄望于借缺席来倒逼事后认可，是自我形象滞后的典型表现。一个锚定于自身运作容量的中心，不会用十一年压抑的怨怼去换取一幕戏剧化的退场，也不需要靠旧办公室的停摆来核验自身的立足点。当环境的回馈与付出的能量发生结构性背离时，主权行动者要么当场重谈边界，要么干脆利落地离开。幻想行政上的手忙脚乱能够事后追认沉默的牺牲，抚慰的只是那些在场时回避了正面摩擦的人。正如在[“普通人视角”的解释陷阱](../the-explanatory-trap-of-the-ordinary-perspective/)中所追溯的，流行叙事惯于将退缩与沉默装扮成悲壮的隐忍，借共同的受害者身份逃避当下行动的代价。经历短暂的摩擦间隔后，几乎所有团队都会通过重新分配任务与吸纳临时冗余而恢复稳定。事后回看时看似不可替代的个人权威，原本只属于那个角色的结构性耦合——这与[隐性自由变量与权力的事后幻相](../the-free-variable-and-the-retrospective-illusion-of-power/)中错把环环咬合的席位当成生成性权力，正是同一种事后幻相。
 
-Treating post-departure disorder as vindication erects a one-directional theatre of revenge inside the mind. Within that internal staging, the center pays zero real-time bargaining cost in the present, expecting mere withdrawal to deliver a decisive verdict against an indifferent hierarchy. Counting on absence to force retrospective recognition is an acute form of image lag. A center anchored in its own operational capacity does not trade eleven years of unvoiced resentment for a dramatic exit scene, nor does it need an old office to stall in order to verify its standing. When the return from an environment diverges structurally from the energy expended, a sovereign agent either renegotiates the boundary on the spot or leaves cleanly. Fantasizing that administrative scramble retroactively certifies silent sacrifice consoles those who avoided direct friction while they were still in the room. As traced in [The Explanatory Trap of the "Ordinary Perspective"](../the-explanatory-trap-of-the-ordinary-perspective/), popular narratives routinely dress passivity and silence in the costume of noble endurance, using shared victimhood to evade the cost of present action. After a brief interval of friction, nearly every team re-stabilizes by redistributing tasks and absorbing temporary slack. What looks from the outside like irreplaceable authority belongs to the structural coupling of the role only in hindsight, as [The Invisible Free Variable and the Retrospective Illusion of Power](../the-free-variable-and-the-retrospective-illusion-of-power/) demonstrates.
+Treating post-departure disorder as vindication erects a one-directional theatre of revenge inside the mind. Within that internal staging, the center pays zero real-time bargaining cost in the present, expecting mere withdrawal to deliver a decisive verdict against an indifferent hierarchy. Counting on absence to force retrospective recognition is an acute form of image lag. A center anchored in its own operational capacity does not trade eleven years of unvoiced resentment for a dramatic exit scene, nor does it need an old office to stall in order to verify its standing. When the return from an environment diverges structurally from the energy expended, a sovereign agent either renegotiates the boundary on the spot or leaves cleanly. Fantasizing that administrative scramble retroactively certifies silent sacrifice consoles those who avoided direct friction while they were still in the room. As traced in [The Explanatory Trap of the "Ordinary Perspective"](../the-explanatory-trap-of-the-ordinary-perspective/), popular narratives routinely dress passivity and silence in the costume of noble endurance, using shared victimhood to evade the cost of present action. After a brief interval of friction, nearly every team re-stabilizes by redistributing tasks and absorbing temporary slack. What looks in hindsight like irreplaceable personal authority belonged only to the structural coupling of the role—the same retrospective illusion that mistakes an interlocked seat for generative power in [The Invisible Free Variable and the Retrospective Illusion of Power](../the-free-variable-and-the-retrospective-illusion-of-power/).
 
 ## 二、 沉默的接口与低维投射的固化 / 2. The Silent Interface and the Stabilization of Low-Dimensional Projections
 
@@ -36,16 +36,13 @@ flowchart TD
         F2 --> F3["我执捆绑的殉道者自我形象<br/>指望突然离职引发系统瘫痪"]
         F3 --> F4["不可穿透的事后视角与岗位有丝分裂<br/>职责拆给三个岗位而旧标签依旧延续"]
     end
-
     subgraph S_Sovereign ["鲜活边缘的第一人称因果回路"]
         direction TB
         R1["对摩擦的预解释感知<br/>登记默会负荷超出角色投射的切口"] --> R2["升级前提死锁<br/>显化隐蔽轴线以重谈条件或拆分岗位"]
         R2 --> R3["清晰划界或直接离开<br/>无需戏剧化拖延即迈入共振场域"]
         R3 --> R4["认领不可让渡的后果<br/>当下行动与因果回响在同一位点对齐"]
     end
-
     F4 ==> R1
-
     style S_Fantasy fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Sovereign fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style F1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
@@ -68,16 +65,13 @@ flowchart TD
         F2 --> F3["Ego-Bound Martyr Self-Image<br/>Counting on sudden departure to trigger collapse"]
         F3 --> F4["Impermeable Hindsight & Mechanical Mitosis<br/>Duties split across three roles while the old label persists"]
     end
-
     subgraph S_Sovereign ["First-Person Causal Loop at the Living Edge"]
         direction TB
         R1["Pre-Interpretive Sensing of Friction<br/>Registering where tacit load exceeds the role projection"] --> R2["Escalating the Premise Deadlock<br/>Surfacing hidden axes to renegotiate terms or split the role"]
         R2 --> R3["Clean Boundary or Direct Departure<br/>Stepping into a resonant field without theatrical delay"]
         R3 --> R4["Inalienable Consequence Claimed<br/>Present action and causal return aligned in one locus"]
     end
-
     F4 ==> R1
-
     style S_Fantasy fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Sovereign fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style F1 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
