@@ -636,13 +636,18 @@ function runNextBatch(builtGraph, batchSize, partFilter, isDryRun) {
   const todoPostMeta = new Map();
   const todoPostOrder = [];
   const todoBookSurfaceSet = new Set();
+  const validBookSurfaces = new Set(['_book:preface', ...partOrder.map((p) => `_book:${p}`), '_book:index-of-premises']);
 
   for (let idx = 0; idx < todoLines.length; idx++) {
     const line = todoLines[idx];
     if (!/^-\s+\[\s\]\s+/.test(line)) continue;
-    const bookSurfMatch = line.match(/\(`(_book:[a-z0-9-]+)`/);
-    if (bookSurfMatch) {
-      todoBookSurfaceSet.add(bookSurfMatch[1]);
+    const bookSurfMatches = [...line.matchAll(/`(_book:[a-z0-9-]+)`/g)]
+      .map((m) => m[1])
+      .filter((b) => validBookSurfaces.has(b));
+    if (bookSurfMatches.length > 0) {
+      for (const bNode of bookSurfMatches) {
+        todoBookSurfaceSet.add(bNode);
+      }
       continue;
     }
     const evalIdx = line.indexOf('Evaluate fresh in `/deep-sleep`');

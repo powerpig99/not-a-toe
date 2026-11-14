@@ -152,12 +152,16 @@ def validate_single_locator(
         return [f"[{label}] Locator `{tok}` in {source_label} has no line numbers"]
     bad = [n for n in nums if n < 1 or n > max_line]
     if bad and sha and resolved is not None and resolved.is_relative_to(ROOT):
-        blob = git_blob_bytes(f"{sha}~1", resolved.relative_to(ROOT).as_posix())
+        rel_posix = resolved.relative_to(ROOT).as_posix()
+        blob = git_blob_bytes(f"{sha}~1", rel_posix)
         if blob is not None:
             baseline_max = len(blob.decode("utf-8", errors="replace").split("\n"))
             if baseline_max > max_line:
                 max_line = baseline_max
                 bad = [n for n in nums if n < 1 or n > max_line]
+        elif rel_posix == "work/todo.md":
+            # work/todo.md is gitignored and pruned in-place by --record-batch
+            bad = [n for n in nums if n < 1]
     if bad:
         errors.append(
             f"[{label}] Locator `{tok}` in {source_label} exceeds file length (line {bad[0]} > {max_line})"
@@ -571,30 +575,51 @@ def record_batch(
         for line in existing_todo_text.splitlines():
             if re.match(r"^-\s+\[[xX]\]\s+", line):
                 continue
-            if re.match(r"^-\s+\[\s\]\s+", line) and "Evaluate fresh in `/deep-sleep`" in line and "(`_book:" not in line:
-                head_part, eval_part = line.split("Evaluate fresh in `/deep-sleep`", 1)
-                colon_idx = eval_part.find(":")
-                if colon_idx != -1:
-                    prefix_with_colon = head_part + "Evaluate fresh in `/deep-sleep`" + eval_part[: colon_idx + 1]
-                    targets_tail = eval_part[colon_idx + 1 :]
-                    entry_matches = [
-                        m
-                        for m in re.finditer(r"`([a-z0-9][a-z0-9-]*)`(?:\s*\([^)]*\))?", targets_tail)
-                        if (ROOT / "content" / "posts" / f"{m.group(1)}.md").is_file()
-                    ]
-                    for m in entry_matches:
-                        todo_trigger_by_slug[m.group(1)] = line
-                    if entry_matches:
-                        remaining_entries = [
-                            m.group(0) for m in entry_matches if m.group(1) not in batch_slug_set
+            if re.match(r"^-\s+\[\s\]\s+", line):
+                book_targets = [
+                    m.group(1)
+                    for m in re.finditer(r"`(_book:[a-z0-9-]+)`", line)
+                    if (ROOT / "content" / "book" / f"{m.group(1)[6:]}.md").is_file()
+                ]
+                if book_targets:
+                    unique_books = list(dict.fromkeys(book_targets))
+                    unresolved_books = [b for b in unique_books if b not in batch_slug_set]
+                    if not unresolved_books:
+                        continue
+                    if len(unresolved_books) < len(unique_books):
+                        updated_line = re.sub(
+                            r"`(_book:[a-z0-9-]+)`",
+                            lambda m: f"{m.group(1)} [evaluated]" if m.group(1) in batch_slug_set else m.group(0),
+                            line,
+                        )
+                        kept_todo_lines.append(updated_line)
+                        continue
+                    kept_todo_lines.append(line)
+                    continue
+                if "Evaluate fresh in `/deep-sleep`" in line:
+                    head_part, eval_part = line.split("Evaluate fresh in `/deep-sleep`", 1)
+                    colon_idx = eval_part.find(":")
+                    if colon_idx != -1:
+                        prefix_with_colon = head_part + "Evaluate fresh in `/deep-sleep`" + eval_part[: colon_idx + 1]
+                        targets_tail = eval_part[colon_idx + 1 :]
+                        entry_matches = [
+                            m
+                            for m in re.finditer(r"`([a-z0-9][a-z0-9-]*)`(?:\s*\([^)]*\))?", targets_tail)
+                            if (ROOT / "content" / "posts" / f"{m.group(1)}.md").is_file()
                         ]
-                        if not remaining_entries:
-                            continue
-                        if len(remaining_entries) < len(entry_matches):
-                            kept_todo_lines.append(
-                                f"{prefix_with_colon} {', '.join(remaining_entries)}."
-                            )
-                            continue
+                        for m in entry_matches:
+                            todo_trigger_by_slug[m.group(1)] = line
+                        if entry_matches:
+                            remaining_entries = [
+                                m.group(0) for m in entry_matches if m.group(1) not in batch_slug_set
+                            ]
+                            if not remaining_entries:
+                                continue
+                            if len(remaining_entries) < len(entry_matches):
+                                kept_todo_lines.append(
+                                    f"{prefix_with_colon} {', '.join(remaining_entries)}."
+                                )
+                                continue
             kept_todo_lines.append(line)
 
     new_todo_lines: list[str] = []
