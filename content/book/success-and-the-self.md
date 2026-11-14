@@ -6,9 +6,9 @@
 
 Biographical retrospectives, business case studies, and self-improvement summaries offer useful heuristics when reviewing past experience. Their incompleteness begins with the retrospective inversion of "the map drawn after the territory": looking back from a known outcome, the narrator trims a path full of contingency and trial-and-error into a clean linear recipe, as if copying the checklist could reproduce the result, or as if accumulated wealth and reputation were the source of power itself.
 
-本部文章探讨了不可读的长期复利、现实扭曲力场与封闭地图的差异、过去成功的陷阱，以及把失败当作信息而非身份判决的认知视角。自我的重塑不靠向外索求致胜秘籍，也不靠固守昨日的存量，而在于每次反馈到来时直接认领自身那份自由变量，在持续的自我迭代中走出均值吸引子。
+本部文章探讨了不可读的长期复利、封闭地图如何将未入图的行动记作“现实扭曲力场”、过去成功的陷阱，以及把失败当作信息而非身份判决的认知视角。自我的重塑不靠向外索求致胜秘籍，也不靠固守昨日的存量，而在于每次反馈到来时直接认领自身那份自由变量，在持续的自我迭代中走出均值吸引子。
 
-The essays in this part explore illegible long-term compounding, the difference between a reality distortion field and a closed map, the trap of past success, and reading failure as information rather than an identity verdict. Self-reconstruction relies neither on hunting for external formulas nor on guarding yesterday's stock, but on claiming one's own free variable at each feedback loop and stepping out of mean attractors through continuous self-iteration.
+The essays in this part explore illegible long-term compounding, how a closed map scores unmapped action as a "reality distortion field," the trap of past success, and reading failure as information rather than an identity verdict. Self-reconstruction relies neither on hunting for external formulas nor on guarding yesterday's stock, but on claiming one's own free variable at each feedback loop and stepping out of mean attractors through continuous self-iteration.
 
 ## 篇目 / Essays
 

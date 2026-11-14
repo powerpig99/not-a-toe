@@ -1,14 +1,14 @@
 # 国家集体与权力的镜像 / The State, Collectives, and the Mirror of Power
 
-*体制并非独立实体，威权运作依托于受支配者让渡因果的镜像握手 / Institutions are not entities; authority relies on the subject's mirror handshake*
+*制度并非独立实体，权威依托于交出判断与认领号令权的镜像握手 / Institutions are not independent entities; authority relies on the mirror handshake of handing over judgment and claiming command*
 
-国家、机构与法律规章作为跨个体的协调约定，在降低交易摩擦、稳定预期与划定公共契约边界时具有现实效用。它们的不完备始于把这套协调约定实体化为拥有独立意志与知觉的巨灵——任何机构自身既不思考也不承受痛感，它的全部运转都依托于具体个体在当下交出判断、共同维持那个信念的镜像握手。
+国家、机构与法律规章作为跨个体的协调约定，在降低交易摩擦、稳定预期与划定公共契约边界时具有现实效用。它们的不完备始于把这套协调约定实体化为拥有独立意志与知觉的巨灵——任何机构自身既不思考也不承受痛感；它的运转是个体在当下行动的稳定痕迹，而它看似对个体握有的权威，则依托于一场镜像握手：交出判断、认领号令权，以及维持“主权可以转移”的信念。
 
-States, institutions, and regulatory codes serve as coordinating conventions across individuals, reducing friction, stabilizing expectations, and marking public contractual boundaries. Their incompleteness begins when these coordinating conventions are reified into leviathans endowed with independent will and sentience — no institution thinks or feels pain on its own, and its entire operation rests on concrete individuals handing over judgment and sustaining the shared belief in a reciprocal mirror handshake.
+States, institutions, and regulatory codes serve as coordinating conventions across individuals, reducing transaction friction, stabilizing expectations, and marking public contractual boundaries. Their incompleteness begins when these coordinating conventions are reified into leviathans endowed with independent will and sentience — no institution thinks or feels pain on its own; its operation is the stabilized trace of individuals acting in the present, and the authority it appears to hold over them rests on a mirror handshake of handing over judgment, claiming command, and sustaining the belief that sovereignty can transfer.
 
-本部随笔考察了强制力的向量叠加、监管迷信与责任扩散、乌托邦构想的封闭前提，以及集体名称如何把鲜活的个体经历收编为意识形态证据。看清集体结构的衍生性质，心智便无需在盲目顺从与符号对抗之间二选一，而是在具体的管辖边界内守住自己的判断与担当。
+本部随笔考察了强制力的向量叠加、对监管的迷信、责任扩散、乌托邦构想的封闭前提，以及集体标签如何把鲜活的个体归档为意识形态证据。看清集体结构的衍生性质，心智便无需在盲目顺从与符号对抗之间二选一，而是在具体的边界内守住自己的判断与担当。
 
-The essays in this part examine the vector sum of coercion, the belief in oversight and responsibility diffusion, the closed premises of utopian designs, and how collective labels file living individuals as ideological evidence. Discerning the derived nature of institutional structures frees the mind from choosing between blind compliance and symbolic revolt, holding its own judgment and accountability within concrete boundaries.
+The essays in this part examine the vector sum of coercion, the belief in oversight, responsibility diffusion, the closed premises of utopian designs, and how collective labels file living individuals as ideological evidence. Seeing the derived nature of collective structures, the mind need not choose between blind compliance and symbolic revolt, but holds its own judgment and accountability within concrete boundaries.
 
 ## 篇目 / Essays
 

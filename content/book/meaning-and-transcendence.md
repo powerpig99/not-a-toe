@@ -1,14 +1,14 @@
 # 意义追寻与超越之境 / The Search for Meaning and Transcendence
 
-*终极答案不在别处的彼岸，超验体验唯在当下具体的实存受力中显现 / Ultimate answers lie not on distant shores; transcendence reveals itself in lived friction*
+*并无终极答案在彼岸等待，超越在当下的切身摩擦中显现 / No ultimate answer waits on a distant shore; transcendence reveals itself in present lived friction*
 
-宗教传统、神学体系与灵修叙事用象征性的语言记录了人类心智面对有限性、孤独与未知时的深层体验，在提供精神慰藉与审视日常执念时有其功用。它们的不完备始于把心智自身的区分活动投射为外部的彼岸实体——无论是把“我们”的局部交集奉为全知全能的上帝，把潜无限的延展混同于肉身永生，还是把“开悟”冻结成一道可以一劳永逸跨过的门槛。
+宗教传统、神学体系与观修叙事用象征性的语言记录了人类心智如何直面有限性、孤独与未知，起着提供慰藉与松动日常执念的作用。它们的不完备始于把心智自身的区分活动投射为外部实体，或冻结为已完成的状态——无论是把未被认领的第一人称俯瞰视角向外安放为上帝或“我们”，混淆不可投射的先验与开放潜能去想象无边界的永生，还是把“开悟”冻结成一道可以一劳永逸跨过的门槛。
 
-Religious traditions, theological systems, and contemplative narratives use symbolic language to record how human minds confront finitude, solitude, and the unknown, serving to comfort and to loosen everyday fixations. Their incompleteness begins when the mind's own differentiating activity is projected into an external, otherworldly entity — whether elevating the intersection of "we" into an omniscient God, conflating potential infinity with bodily immortality, or freezing "enlightenment" into a gate crossed once and for all.
+Religious traditions, theological systems, and contemplative narratives use symbolic language to record how human minds confront finitude, solitude, and the unknown, serving to comfort and to loosen everyday fixations. Their incompleteness begins when the mind's own distinguishing activity is projected into an external entity or frozen into a completed state — whether lodging an unclaimed first-person overview outside as God or as "we," confusing the unprojectable prior with open potentiality to imagine a boundless immortality, or freezing "enlightenment" into a gate crossed once and for all.
 
-本部文章追溯了神圣观念的生成结构、不可言说之物与言说产物的关系，以及为何没有脱离个体自渡的普遍普渡。意义不是事先藏在远方等待被发现的静态答案，而是在每一个当下直面具体约束、亲手起草下一步时同步生成的回响。
+本部文章追溯了神圣观念的生成结构、凡可言说如何皆为不可言说的产物，以及为何没有任何普渡能替代每个心智的自渡。意义不是藏在远方等待被发现的静态答案，而是在当下直面具体约束、起草下一步这一行动中生成的共振。
 
-The essays in this part trace the generative structure of the sacred, the relation between the unspeakable and what can be spoken, and why no universal salvation can substitute for each mind's own crossing. Meaning is not a static answer hidden in the distance waiting to be found, but the resonance generated in the act of confronting concrete constraints and drafting the next step in the present.
+The essays in this part trace the generative structure of conceptions of the sacred, how all that can be spoken is the product of the unspeakable, and why no universal salvation can substitute for each mind's own crossing. Meaning is not a static answer hidden in the distance waiting to be found, but the resonance generated in the act of confronting concrete constraints and drafting the next step in the present.
 
 ## 篇目 / Essays
 
