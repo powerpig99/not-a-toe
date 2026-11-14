@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-14T08:07:16.832Z",
+    "generated_at": "2026-11-14T08:33:26.549Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -84,7 +84,7 @@
       "content/posts/everything-is-changing-as-always.md": "ef77f674af21",
       "content/posts/evil-as-projected-resistance.md": "c84026a0d2e2",
       "content/posts/evil-as-the-minds-own-creation.md": "b0b74bc7b0b2",
-      "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "cb3ba6791a63",
+      "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "a513381c9055",
       "content/posts/expertise-as-reference-not-replacement.md": "bc7d7364b559",
       "content/posts/extended-cognition-refined.md": "f8c078179a21",
       "content/posts/extension-and-shift.md": "bb2e831f3d62",
@@ -106,7 +106,7 @@
       "content/posts/guidance-is-not-ownership.md": "4bd9a73e2d08",
       "content/posts/handing-off-residue.md": "54641f5f6655",
       "content/posts/happiness-is-the-relation-of-desire-to-state.md": "cb2d29e8cb0d",
-      "content/posts/hardness-is-not-inherent-in-the-action.md": "a3edf37fad3f",
+      "content/posts/hardness-is-not-inherent-in-the-action.md": "792b74a81ed5",
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "e145bfea5ec3",
       "content/posts/hassabis-einstein-test.md": "a19b4afc58f5",
       "content/posts/hassabis-frontier-agi-premise.md": "541fc0653aa1",
@@ -2753,7 +2753,7 @@
       "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "path": "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md",
       "title": "卓异、感知与自我设限的问题场域 / Exceptionality, Perception, and the Self-Limiting Field of Problems",
-      "hash": "cb3ba6791a63",
+      "hash": "a513381c9055",
       "in_degree": 25,
       "out_degree": 28,
       "links_out": [
@@ -3322,7 +3322,7 @@
       "slug": "hardness-is-not-inherent-in-the-action",
       "path": "content/posts/hardness-is-not-inherent-in-the-action.md",
       "title": "难度不在行动本身 / Hardness Is Not Inherent in the Action",
-      "hash": "a3edf37fad3f",
+      "hash": "792b74a81ed5",
       "in_degree": 6,
       "out_degree": 6,
       "links_out": [
@@ -27314,7 +27314,7 @@
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "data-is-local-intelligence-is-allocated",
       "rel": "points_to",
-      "label": "Data Is Local; Intelligence Is Allocated"
+      "label": "Data Is Local, Intelligence Is Allocated"
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
@@ -27386,7 +27386,7 @@
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
-      "label": "Abstraction, Boundaries, and the Moving Edge of Reality"
+      "label": "Abstraction Boundaries and the Moving Edge of Reality"
     },
     {
       "from": "expertise-as-reference-not-replacement",
