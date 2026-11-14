@@ -2307,6 +2307,15 @@ Empirical physicalism presumes consciousness can appear as an observable variabl
 
 → [意识从不作为数据出现在数据之中 / Consciousness Never Appears as Data Among Data](../../posts/consciousness-never-appears-as-data-among-data/) · [依其自身标准的观察 / An Observation by Its Own Standard](../../posts/an-observation-by-its-own-standard/)
 
+### 炫耀性消费 / Conspicuous Consumption
+`经济 / Economic`
+
+托斯丹·凡勃伦提出的炫耀性消费概念预设，一旦社群规模超出面对面的熟人交往，个体便通过公开支出与脱离劳作来展示地位，这在解释陌生人为何按可即时广播的标识而非依赖具体语境的生产能力来排定同侪位次时有用；一旦它被当作某个有闲阶级孤立的病症，而非横跨地位排序与选举政治的结构性落差——即固定边界消费与开放边界生产在可见性与时序上的落差——的一面，便到达了边界。
+
+Thorstein Veblen's concept of conspicuous consumption presumes that once communities scale beyond face-to-face acquaintance, individuals display standing through public expenditure and abstention from labor, which is of use in explaining why strangers rank peers by immediately broadcastable markers rather than context-bound productive competence; it reaches its boundary when treated as an isolated pathology of a leisure class rather than one face of the structural visibility and timing gap between fixed-bound consumption and open-bound production across status rankings and electoral politics.
+
+→ [生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption](../../posts/the-opacity-of-production-and-the-weight-of-consumption/)
+
 ### 多边主义与委员会共识 / Multilateralism and Committee Consensus
 `哲学 / Philosophical`
 
@@ -3831,11 +3840,11 @@ Private property keeps the residual claim with the one who decides, which is of 
 ### 产销二元分立 / Production-Consumption Dichotomy
 `经济 / Economic`
 
-古典与现代经济学将活动划分为彼此分立的生产与消费两个领域，在国民核算、市场交换与追踪资源流向时有用；当这种两分被当成两种截然不同的人类行为，而非同一个自我区分的活动在扩展容量的开放持守与耗尽痕迹的固定持守下所作的登记时，便到达了边界。
+古典与现代经济学将活动划分为彼此分立的生产与消费两个领域，在国民核算、市场交换与追踪资源流向时有用；一旦这种两分被当成两种截然不同的人类行为，或被冻结为永久的生产阶级与非生产阶级，而非同一个自我区分的活动在扩展容量的开放持守与耗尽痕迹的固定持守下沿着连续光谱所作的登记——在这条光谱上，消费的即时可辨性与人数权重使个体心力向两端分化——便到达了边界。
 
-Classical and modern economics partition activity into separate spheres of production and consumption, which is of use for national accounting, market exchange, and tracking resource flows; the dichotomy reaches its boundary when treated as two distinct kinds of human act rather than one self-distinguishing activity registered under an open, capacity-expanding hold versus a fixed, trace-exhausting hold.
+Classical and modern economics partition activity into separate spheres of production and consumption, which is of use for national accounting, market exchange, and tracking resource flows; the dichotomy reaches its boundary when treated as two distinct kinds of human act—or frozen into permanent productive and unproductive classes—rather than one self-distinguishing activity registered under an open, capacity-expanding hold versus a fixed, trace-exhausting hold along a continuous spectrum where immediate consumptive legibility and numerical weight polarize individual effort.
 
-→ [生产、消费与心智的区分 / Production, Consumption, and the Mind's Distinction](../../posts/production-consumption-and-the-minds-distinction/)
+→ [生产、消费与心智的区分 / Production, Consumption, and the Mind's Distinction](../../posts/production-consumption-and-the-minds-distinction/) · [生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption](../../posts/the-opacity-of-production-and-the-weight-of-consumption/)
 
 ### 进步即共识的展开 / Progress as the Unfolding of Consensus
 `意识形态 / Ideological`
@@ -3975,11 +3984,11 @@ The reading of "emergent capability" presumes that the model has crossed a thres
 ### 再分配作为授权 / Redistribution as Authorization
 `经济 / Economic`
 
-把转移视为回路所需，在安排后来的、对残差的拾取时有用；它在此到了边界：它把因果权能放在消费上，而后来的登记无法为先前的生产授权，以转移为依据会削弱本可磨利生产的回报。
+把转移视为回路所需，在安排后来的、对残差的拾取时有用；它在此到了边界：它把因果权能放在消费上，而后来的登记无法为先前的生产授权——在剩余增长时将少数人持续进行的生产误作环境里现成的存量，一旦索取跑赢尚存的生产能力，又把缺口归咎于生产者、将其定性为榨取者而非修订索取——以转移为依据便削弱了本可磨利生产的回报。
 
-Treating transfer as what the loop requires is of use in arranging a later pickup of residue; it reaches its boundary in that it places causal power on consumption, while later registration cannot authorize earlier making, so transfer as justification thins the return that would sharpen production.
+Treating transfer as what the loop requires is of use in arranging a later pickup of residue; it reaches its boundary in that it places causal power on consumption, while later registration cannot authorize earlier making—mistaking ongoing minority production for an ambient stock while surplus grows, and, once claims outrun remaining capacity, attributing the shortfall to producers as extractors rather than revising the claims—so transfer as justification thins the return that would sharpen production.
 
-→ [秩序、剩余与道德拦截 / Order, Surplus, and the Moral Intercept](../../posts/order-surplus-and-the-moral-intercept/) · [价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth](../../posts/the-generative-mechanics-of-value-money-and-wealth/)
+→ [秩序、剩余与道德拦截 / Order, Surplus, and the Moral Intercept](../../posts/order-surplus-and-the-moral-intercept/) · [价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth](../../posts/the-generative-mechanics-of-value-money-and-wealth/) · [生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption](../../posts/the-opacity-of-production-and-the-weight-of-consumption/)
 
 ### 丰裕会平息零和之争 / Abundance Will Quiet Zero-Sum Contest
 `经济 / Economic`

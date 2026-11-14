@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-14T13:31:45.660Z",
+    "generated_at": "2026-11-14T15:27:18.461Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -344,6 +344,7 @@
       "content/posts/the-npc-impression-is-structural.md": "cd677ff828e2",
       "content/posts/the-observational-cut-in-ai-debates.md": "b18a53c9a69c",
       "content/posts/the-only-coherent-uncaused-effect.md": "7fe84abc56e1",
+      "content/posts/the-opacity-of-production-and-the-weight-of-consumption.md": "4d0e2fdff308",
       "content/posts/the-open-question-is-determinisms-demand.md": "670d76055718",
       "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "dc29182803e7",
       "content/posts/the-orthogonal-refusal.md": "68eddc931d5a",
@@ -451,8 +452,8 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b28d61994639",
       "content/book/causality.md": "d2de779193c1",
       "content/book/consciousness.md": "5fd937c16807",
-      "content/book/economics.md": "a62cb7e232a6",
-      "content/book/index-of-premises.md": "caef261c2b83",
+      "content/book/economics.md": "4f4f531791d1",
+      "content/book/index-of-premises.md": "a2f1e35cc0eb",
       "content/book/intelligence.md": "b49084869c8a",
       "content/book/knowledge-and-learning.md": "60b558ba8715",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -467,16 +468,16 @@
       "content/book/tools-and-progress.md": "0d170609c508"
     },
     "stats": {
-      "posts": 441,
-      "edges": 13518,
-      "unique_directed": 6642,
+      "posts": 442,
+      "edges": 13540,
+      "unique_directed": 6653,
       "missing_targets": 0,
-      "one_way": 1338,
+      "one_way": 1349,
       "isolated": 0,
-      "posts_with_outbound": 441,
+      "posts_with_outbound": 442,
       "book_pages": 16,
-      "book_edges": 1408,
-      "posts_reached_by_book": 441
+      "book_edges": 1412,
+      "posts_reached_by_book": 442
     }
   },
   "hubs_in": [
@@ -490,7 +491,7 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 110
+      "in_degree": 111
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -514,7 +515,7 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "in_degree": 57
+      "in_degree": 58
     },
     {
       "slug": "causality-stays-at-the-edge-that-steers",
@@ -542,7 +543,7 @@
     },
     {
       "slug": "production-consumption-and-the-minds-distinction",
-      "in_degree": 39
+      "in_degree": 40
     },
     {
       "slug": "the-reversal-of-verification",
@@ -2943,7 +2944,7 @@
       "path": "content/posts/fate-loves-irony-refined.md",
       "title": "生产创造自己的意识形态消费 / Production Creates Its Own Ideological Consumption",
       "hash": "4173eb2feff2",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 6,
       "links_out": [
         "your-codebase-is-memory",
@@ -3622,7 +3623,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers",
       "hash": "915a3572d822",
-      "in_degree": 110,
+      "in_degree": 111,
       "out_degree": 102,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -5105,7 +5106,7 @@
       "path": "content/posts/order-surplus-and-the-moral-intercept.md",
       "title": "秩序、剩余与道德拦截 / Order, Surplus, and the Moral Intercept",
       "hash": "2c05f2c13447",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 14,
       "links_out": [
         "symptom-and-cause-in-the-narratives-of-progress",
@@ -5152,7 +5153,7 @@
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "自我价值感与所有权 / Ownership and Self-Worthiness",
       "hash": "7f7c75e93785",
-      "in_degree": 57,
+      "in_degree": 58,
       "out_degree": 57,
       "links_out": [
         "the-meaning-of-life-is-in-the-drafting",
@@ -5386,7 +5387,7 @@
       "path": "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md",
       "title": "政客是责任扩散的显性症状 / Politicians Are Visible Symptoms of Responsibility Diffusion",
       "hash": "028a28b54a32",
-      "in_degree": 20,
+      "in_degree": 21,
       "out_degree": 19,
       "links_out": [
         "ownership-and-self-worthiness",
@@ -5589,7 +5590,7 @@
       "path": "content/posts/production-consumption-and-the-minds-distinction.md",
       "title": "生产、消费与心智的区分 / Production, Consumption, and the Mind's Distinction",
       "hash": "b1107cb6a3e9",
-      "in_degree": 39,
+      "in_degree": 40,
       "out_degree": 40,
       "links_out": [
         "openness-is-consistency",
@@ -5641,7 +5642,7 @@
       "path": "content/posts/public-spending-does-not-create-capital.md",
       "title": "公共支出不创造资本 / Public Spending Does Not Create Capital",
       "hash": "ff04541bddf9",
-      "in_degree": 19,
+      "in_degree": 20,
       "out_degree": 19,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -6434,7 +6435,7 @@
       "path": "content/posts/symptom-and-cause-in-the-narratives-of-progress.md",
       "title": "进步叙事中的症候与原因 / Symptom and Cause in the Narratives of Progress",
       "hash": "463e396e6297",
-      "in_degree": 33,
+      "in_degree": 34,
       "out_degree": 33,
       "links_out": [
         "when-the-effect-authors-the-frame",
@@ -7166,7 +7167,7 @@
       "path": "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md",
       "title": "私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus",
       "hash": "8483532cb194",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 11,
       "links_out": [
         "having-more-is-never-the-cause",
@@ -8209,7 +8210,7 @@
       "path": "content/posts/the-frontier-lifts-the-floor.md",
       "title": "前沿抬升底线 / The Frontier Lifts the Floor",
       "hash": "440910956459",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 14,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -9799,6 +9800,29 @@
         "individual-choices-as-the-only-causal-levers",
         "your-codebase-is-memory",
         "ownership-and-self-worthiness"
+      ]
+    },
+    {
+      "id": "post:the-opacity-of-production-and-the-weight-of-consumption",
+      "kind": "post",
+      "slug": "the-opacity-of-production-and-the-weight-of-consumption",
+      "path": "content/posts/the-opacity-of-production-and-the-weight-of-consumption.md",
+      "title": "生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption",
+      "hash": "4d0e2fdff308",
+      "in_degree": 0,
+      "out_degree": 11,
+      "links_out": [
+        "the-frontier-lifts-the-floor",
+        "production-consumption-and-the-minds-distinction",
+        "individual-choices-as-the-only-causal-levers",
+        "the-causal-order-of-private-residuals-and-social-surplus",
+        "ownership-and-self-worthiness",
+        "public-spending-does-not-create-capital",
+        "order-surplus-and-the-moral-intercept",
+        "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+        "fate-loves-irony-refined",
+        "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+        "symptom-and-cause-in-the-narratives-of-progress"
       ]
     },
     {
@@ -11486,7 +11510,7 @@
       "path": "content/posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy.md",
       "title": "福利国家的幻象 / The Welfare State Illusion",
       "hash": "4ee972fd065f",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 11,
       "links_out": [
         "residual-individualism",
@@ -74395,6 +74419,138 @@
       "label": "Ownership and Self-Worthiness"
     },
     {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "the-frontier-lifts-the-floor",
+      "rel": "points_to",
+      "label": "前沿抬升底线"
+    },
+    {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "生产、消费与心智的区分"
+    },
+    {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "the-frontier-lifts-the-floor",
+      "rel": "points_to",
+      "label": "The Frontier Lifts the Floor"
+    },
+    {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, Consumption, and the Mind's Distinction"
+    },
+    {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "the-causal-order-of-private-residuals-and-social-surplus",
+      "rel": "points_to",
+      "label": "私人残差与社会剩余的因果次序"
+    },
+    {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "the-causal-order-of-private-residuals-and-social-surplus",
+      "rel": "points_to",
+      "label": "The Causal Order of Private Residuals and Social Surplus"
+    },
+    {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
+    },
+    {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "公共支出不创造资本"
+    },
+    {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "秩序、剩余与道德拦截"
+    },
+    {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+      "rel": "points_to",
+      "label": "福利国家的幻象"
+    },
+    {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "fate-loves-irony-refined",
+      "rel": "points_to",
+      "label": "生产创造自己的意识形态消费"
+    },
+    {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public Spending Does Not Create Capital"
+    },
+    {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "order-surplus-and-the-moral-intercept",
+      "rel": "points_to",
+      "label": "Order, Surplus, and the Moral Intercept"
+    },
+    {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+      "rel": "points_to",
+      "label": "The Welfare State Illusion"
+    },
+    {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "fate-loves-irony-refined",
+      "rel": "points_to",
+      "label": "Production Creates Its Own Ideological Consumption"
+    },
+    {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "政客是责任扩散的显性症状"
+    },
+    {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "进步叙事中的症候与原因"
+    },
+    {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "Politicians Are Visible Symptoms of Responsibility Diffusion"
+    },
+    {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and Cause in the Narratives of Progress"
+    },
+    {
       "from": "the-open-question-is-determinisms-demand",
       "to": "agency-does-not-arise",
       "rel": "points_to",
@@ -93717,8 +93873,8 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "a62cb7e232a6",
-        "out_degree": 29
+        "hash": "4f4f531791d1",
+        "out_degree": 30
       },
       {
         "id": "book:index-of-premises",
@@ -93726,8 +93882,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "caef261c2b83",
-        "out_degree": 441
+        "hash": "a2f1e35cc0eb",
+        "out_degree": 442
       },
       {
         "id": "book:intelligence",
@@ -94456,6 +94612,12 @@
         "to": "the-frontier-lifts-the-floor",
         "rel": "collects",
         "label": "前沿抬升底线 / The Frontier Lifts the Floor"
+      },
+      {
+        "from": "book:economics",
+        "to": "the-opacity-of-production-and-the-weight-of-consumption",
+        "rel": "collects",
+        "label": "生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption"
       },
       {
         "from": "book:index-of-premises",
@@ -97105,6 +97267,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-opacity-of-production-and-the-weight-of-consumption",
+        "rel": "collects",
+        "label": "生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "reality-doesnt-invoice-by-committee",
         "rel": "collects",
         "label": "现实不按委员会开账单 / Reality Doesn't Invoice by Committee"
@@ -98587,6 +98755,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-opacity-of-production-and-the-weight-of-consumption",
+        "rel": "collects",
+        "label": "生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-utility-men-of-progress",
         "rel": "collects",
         "label": "进步的多面手 / The Utility Men of Progress"
@@ -98752,6 +98926,12 @@
         "to": "the-generative-mechanics-of-value-money-and-wealth",
         "rel": "collects",
         "label": "价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-opacity-of-production-and-the-weight-of-consumption",
+        "rel": "collects",
+        "label": "生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption"
       },
       {
         "from": "book:index-of-premises",
