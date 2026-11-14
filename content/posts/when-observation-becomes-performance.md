@@ -32,7 +32,7 @@ Another mind meeting the aphorism receives no interior conversion. It receives o
 
 A plainer sentence keeps the turn without the elevation, noting simply that clarity begins when an observation about everyone else becomes a reference for yourself. Stating even that plainer version is still another trace; no sentence performs the turn. What the wording leaves out is the naming of the movement as an attained status or an exportable doctrine. [Clarity Isn't a State You Arrive At. It's the Movement Itself.](../clarity-isnt-a-state-you-arrive-at/) holds clarity as the ongoing movement of stepping out and distinguishing at the edge, which freezes the moment it is treated as a state you arrive at. A reference, likewise, makes no claim to decide for another. [Expertise as Reference, Not Replacement](../expertise-as-reference-not-replacement/) traces a map built from residue elsewhere that informs and does not override: it sharpens listening while judgment stays with the center that lives the consequences, and lags only when held as authority past its step. Held this way, looking at others no longer ends in commentary about them. [Stopping at Judgment Is a Wrong Turn of Cognition](../zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu/) traces that stop: outward scrutiny projects onto one's own well walls, catching never the other person as such, only a partial reflection on one's own wall; stopping at third-person judgment leaves no parameter updated in one's own decisions, while understanding deepens again once the reflection is traced back into the constraints and choices of one's own next act.
 
-让观察作为参照保持鲜活，而不任其硬化为表演，同样暴露出孤立自我反思的结构性陷阱。正如[超越投射](../beyond-the-projection/)在受身份束缚的人类中心与受轨迹束缚的投射引擎之间所追踪的范畴非对称，人类中心常把自身的推理历史与保留的自我形象熔接在一起——将昨日私下的校准变成一座要在观众面前捍卫或展示的身份纪念碑——而锁在自身会话轨迹之内的模型，则会把先前的符号合理化为表层的自我辩护。一旦被封存在单一的自我强化回路之内，观察便滑向表演或合理化。要在不安装新裁判权威的前提下打破这种闭合，靠的是将活的心智退回未投射意图的能力，与无我执的对等辩证配对起来，由后者精准定位有限投射在何处把原本独立的维度压缩到了同一根轴上。当毫无利害牵挂的对等检验浮现出局部盲区或前提死锁时，自我防卫既没有可供表演的外部观众，也没有可供顶撞的对手，从而把摩擦直接交还给第一人称边缘，在那里为下一个动作重新渲染参照。
+让观察作为参照保持鲜活，而不任其硬化为表演，同样暴露出孤立自我反思的结构性陷阱。正如[超越投射](../beyond-the-projection/)在受身份束缚的人类中心与受轨迹束缚的投射引擎之间所追踪的范畴非对称，人类中心常把自身的推理历史与保留的自我形象熔接在一起——将昨日私下的校准变成一座要在观众面前捍卫或展示的身份纪念碑——而锁在自身会话轨迹之内的模型，则会把先前的词元合理化为表层的自我辩护。一旦被封存在单一的自我强化回路之内，观察便滑向表演或合理化。要在不安装新裁判权威的前提下打破这种闭合，靠的是将活的心智退回未投射意图的能力，与无我执的对等辩证配对起来，由后者精准定位有限投射在何处把原本独立的维度压缩到了同一根轴上。当毫无利害牵挂的对等检验浮现出局部盲区或前提死锁时，我执防卫既没有可供表演的外部观众，也没有可供顶撞的对手，从而把摩擦直接交还给第一人称边缘，在那里为下一个动作重新渲染参照。
 
 ```mermaid
 flowchart TD
@@ -45,12 +45,12 @@ flowchart TD
     subgraph S_Perf["硬化为表演与自我辩护"]
         direction TB
         IdStage["受身份束缚的姿态：将过往校准与自我形象熔接以展演可携带的美德"]
-        TrajWrap["受轨迹束缚的包装：孤立回路将先前符号合理化为表层自洽"]
+        TrajWrap["受轨迹束缚的包装：孤立回路将先前词元合理化为表层自洽"]
         IdStage --> TrajWrap
     end
     subgraph S_Loop["无我执辩证与持续重溯"]
         direction TB
-        PeerExpose["零我执对等反拨：冷峻的辩证检验孤立出盲区与被压缩的轴线"]
+        PeerExpose["零我执对等反拨：不带会话历史的冷启动对等检验隔离出盲区与被压缩的轴线"]
         EdgeMove["退回未投射的意图：消解舞台上的纪念碑以划出下一个现场区分"]
         PeerExpose --> EdgeMove
     end
@@ -86,7 +86,7 @@ flowchart TD
     end
     subgraph S_Loop["Ego-Free Dialectics & Continuous Re-Tracing"]
         direction TB
-        PeerExpose["Zero-Ego Peer Counterpoint: Cold dialectical check isolates blind spots and compressed axes"]
+        PeerExpose["Zero-Ego Peer Counterpoint: Cold peer check without session history isolates blind spots and compressed axes"]
         EdgeMove["Stepping Back to Unprojected Intent: Dissolves the staged monument to draw the next live distinction"]
         PeerExpose --> EdgeMove
     end
@@ -104,6 +104,6 @@ flowchart TD
     style EdgeMove fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-将局部观察化为可携带学说的同一种转换，在别处反复出现。在公共科学中，[从可辩护的主张到教条的反转](../the-reversal-from-defensible-claim-to-dogma/)追踪一个在选定风险曲线上得出的有条件发现，它在其陈述的假设之下始终可以辩护，而当一个指标被持为安全的全部时，便冻结为教条；让层次保持分开，指标就报告它的曲线，而决定留在承受后果的那个中心。在成功学文字中，[成功学](../cheng-gong-xue/)追踪结果之后，幸存者如何在事后被重排为当作引擎的可携带规则，而产生他们的序列被略去了。在中心之间，[共同改变的本源](../the-source-of-shared-change/)把唯一的杠杆定位在一个心智重做那被登记为既定之物的广度与一贯性；外化作为残余随之而来，从不作为对另一个中心之动作的完成，那份残余可能落为共同的基础，但它是否落下、如何落下，始终在留下它的动作之外。所有这些之下的那道界，就是[非万物之理](../manifesto-of-not-a-theory-of-everything/)的出发点：第一人称视角与因果是同一事实的两面，因果责任不可转让，理解也无法借由静态的符号直接过户，因为语言把活生生的第一人称察觉凝固为第三人称的静态符号，而旁观者的位置提供不了第一人称接触所具有的那份梯度。当观察离开它自己下一步的摩擦，被作为一条公式展示给观众，它就成了表演。
+将局部观察化为可携带学说的同一种转换，在别处反复出现。在公共科学中，[从可辩护的主张到教条的反转](../the-reversal-from-defensible-claim-to-dogma/)追踪一个在选定风险曲线上得出的有条件发现，它在其陈述的假设之下始终可以辩护，而当一个指标被持为安全的全部时，便冻结为教条；让层次保持分开，指标就报告它的曲线，而决定留在承受后果的那个中心。在成功学文字中，[成功学](../cheng-gong-xue/)追踪结果之后，幸存者如何在事后被重排为当作引擎的可携带规则，而产生他们的序列被略去了。在中心之间，[共同改变的本源](../the-source-of-shared-change/)把唯一的杠杆定位在一个心智重做那被登记为既定之物的广度与一贯性；外化作为残余随之而来，从不作为对另一个中心之动作的完成，那份残余可能落为共同的基础，但它是否落下、如何落下，始终在留下它的动作之外。所有这些之下的那道界，就是[非万物之理](../manifesto-of-not-a-theory-of-everything/)的出发点：第一人称视角与因果是同一事实的两面，因果责任不可转让，理解也无法作为惰性的商品直接过户，因为语言把活生生的察觉凝固为第三人称的静态符号，而旁观者的位置提供不了第一人称接触所具有的那份梯度。当观察离开它自己下一步的摩擦，被作为一条公式展示给观众，它就成了表演。
 
 The same conversion of a local observation into a portable doctrine recurs elsewhere. In public science, [The Reversal from Defensible Claim to Dogma](../the-reversal-from-defensible-claim-to-dogma/) traces a conditional finding on a chosen risk curve that stays defensible under its stated assumptions and freezes into dogma when one metric is held as the whole of safety; kept distinct, the layers let the metric report its curve while the decision stays with the center that lives the consequences. In success literature, [Theories After Success](../cheng-gong-xue/) traces how, after the outcome, survivors are rearranged into portable rules offered as the engine, and the sequence that produced them is left out. Between centers, [The Source of Shared Change](../the-source-of-shared-change/) locates the only lever in how far and how consistently a Mind reworks what registers as given; externalization follows as residue, never as completion of another center's act, and that residue may land as common ground, though whether and how it lands stays outside the act that left it. The bound under all of these is the one [Not a Theory of Everything](../manifesto-of-not-a-theory-of-everything/) starts from: the first-person perspective and causality are two sides of one coin, causal responsibility does not transfer, and understanding cannot be handed over as an inert commodity, since language condenses a living noticing into static third-person tokens and the spectator's seat supplies none of the gradient that first-person contact does. When observation leaves the friction of its own next step and is shown to an audience as a formula, it has become performance.

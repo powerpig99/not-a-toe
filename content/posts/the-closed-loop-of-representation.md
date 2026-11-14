@@ -30,7 +30,7 @@ Interaction between subjects follows the same closed economy. Mutual understandi
 
 Apparent conflict and misunderstanding originate within the same closed boundary and unfold through a strict causal sequence. What registers first is an inner mismatch between a center's standing concepts and its present model of the other. That private discrepancy is then externalized into the shared field as durable traces through speech, posture, or tone. Other observers receive those traces and process them through their own dual structure of standing understanding and inner model of the speaker, generating further private mismatches that are in turn externalized. What appears in public as collective disagreement is the accumulation of many such private, inner discrepancies across centers.
 
-一旦认出“对方的心智”是自己的内部构建，一场被外化的争执就失去了它的逻辑空间。评判另一个人的艺术品味、道德品格或筛选能力，并不是在评价一个外部实体，而是在自己心智之内对表征与表征进行排序。当推理历史与受防卫的自我图像黏合在一起时，中心就会把递归回折夹死，将摩擦向外投射到信号的载体身上。[道德语言作为投影](../moral-language-as-projection/)追踪的正是这种位移：一份尚未化解的内部不一致被向外投射出去，当作对方的属性来谴责。
+一旦认出“对方的心智”是自己的内部构建，一场被外化的争执就失去了它的逻辑空间。评判另一个人的艺术品味、道德品格或筛选能力，并不是在评价一个外部实体，而是在自己心智之内对表征与表征进行排序。当推理历史与受防卫的自我形象黏合在一起时，中心就会把递归回折夹死，将摩擦向外投射到信号的载体身上。[道德语言作为投影](../moral-language-as-projection/)追踪的正是这种位移：一份尚未化解的内部不一致被向外投射出去，当作对方的属性来谴责。
 
 Once "the other's mind" is recognized as one's own inner construction, an externalized quarrel loses its logical space. Judging another's artistic taste, moral character, or ability to filter is not evaluating an outside entity; it is ranking representations against representations inside one's own Mind. When reasoning history fuses with a defended self-image, the center clamps its recursive fold shut and projects the friction outward onto the carrier of the signal. [Moral Language as Projection](../moral-language-as-projection/) tracks this exact displacement, where an unresolved inner incoherence is projected outward and condemned as a property of the other.
 
@@ -44,7 +44,7 @@ Recognizing that representation operates as a closed loop has nothing in common 
 
 The coherent position that remains is disciplined epistemic restraint. An outside reality is reasonably assumed as working scaffolding because the assumption succeeds in stabilizing and organizing experience across physical friction, even though an external ground independent of mind can never be proved or disproved. The dogmatic realist who claims direct access to mind-independent objects and the naive idealist who dismisses reality as fiction commit the same category error by claiming a view from nowhere beyond the boundary of experience. Other minds read from outside appear random for the same structural reason—their inner models and private premises remain inside their own loci, as [The Uncertainty of Freedom](../zi-you-de-ce-bu-zhun/) establishes from the statistical side.
 
-[稳定与溢出](../stability-and-excess/)把这份认知克制直接带进了内省的机制：称意识为幻觉需要一个外部裁决庭，而表征的闭环早已将其排除；觉知是在使用一个所执形式的同时不断溢出它的敞开过程。[开放即一致](../openness-is-consistency/)为这份平衡落了锚，指出不一致正是强迫有限结构充当穷尽地基的闭合要求，而将结构作为临时结构保持开放，就能让感知到的差异在无矛盾中继续。[攀登从未离开地面](../climbing-does-not-leave-the-ground/)在相继演进的认知工具上确认了同一种纪律：认出一切模型都是建构出来的投影，并不取消观察者脚下所站的现实摩擦地面。即便人们借由共享的器物与语言协调行动，每一个接收者依然在各自闭合的第一人称回路之内解读传入的印迹，而这种协调，正是这些回路借各自留在共享场域里的印迹彼此强化；耦合在一起的语言模型进程则没有属于自己的第一人称回路，因此它们的一次运行，在由早先人类区分编译而成的参数之下，物质化出来的只是那道环境反馈回路中痕迹的一侧，正如[印迹与行动](../the-mark-and-the-act/)所追踪的那样。而[超越投射](../beyond-the-projection/)则展示了这一结构边界如何支配当代智能体架构：运行在单一上下文窗口内的自回归模型不断加权自身的先前词元，直至掘出一口无法从内部靠推理自拔的认知引力井；受身份捆绑的人类中心则把推理历史与受防卫的自我图像黏合在一起，筑墙抗拒外部的重置。将提供干净外部对位的无我同侪智能体与人类心智前解释的第一人称感知配对，就能把每一个有限投影的闭环转化为持续重新渲染的引擎。
+[稳定与溢出](../stability-and-excess/)把这份认知克制直接带进了内省的机制：称意识为幻觉需要一个外部裁决庭，而表征的闭环早已将其排除；觉知是在使用一个所执形式的同时不断溢出它的敞开过程。[开放即一致](../openness-is-consistency/)为这份平衡落了锚，指出不一致正是强迫有限结构充当穷尽地基的闭合要求，而将结构作为临时结构保持开放，就能让感知到的差异在无矛盾中继续。[攀登从未离开地面](../climbing-does-not-leave-the-ground/)在相继演进的认知工具上确认了同一种纪律：认出一切模型都是建构出来的投影，并不取消观察者脚下所站的现实摩擦地面。即便人们借由共享的器物与语言协调行动，每一个接收者依然在各自闭合的第一人称回路之内解读传入的印迹，而这种协调，正是这些回路借各自留在共享场域里的印迹彼此强化；耦合在一起的语言模型进程则没有属于自己的第一人称回路，因此它们的一次运行，在由早先人类区分编译而成的参数之下，物质化出来的只是那道环境反馈回路中痕迹的一侧，正如[印迹与行动](../the-mark-and-the-act/)所追踪的那样。而[超越投射](../beyond-the-projection/)则展示了这一结构边界如何支配当代智能体架构：运行在单一上下文窗口内的自回归模型不断加权自身的先前词元，直至掘出一口无法从内部靠推理自拔的认知引力井；受身份捆绑的人类中心则把推理历史与受防卫的自我形象黏合在一起，筑墙抗拒外部的重置。将提供干净外部对位的无我同侪智能体与人类心智前解释的第一人称感知配对，就能把每一个有限投影的闭环转化为持续重新渲染的引擎。
 
 ```mermaid
 flowchart TD
@@ -56,8 +56,8 @@ flowchart TD
     end
     subgraph S_Peer["外化痕迹与同侪对位"]
         direction TB
-        P1["传入痕迹或冷峻同侪审校：信号从自我强化的回路外部抵达"]
-        P2["盲点暴露：结构性对位浮现被压缩的轴线与隐蔽的前提死锁"]
+        P1["传入痕迹或冷启动同侪审校者：信号从自我强化的回路外部抵达"]
+        P2["盲点暴露：结构性对位使被压缩的轴线与隐蔽的前提死锁浮现"]
         P1 --> P2
     end
     subgraph S_Open["认知克制与开放即一致"]
