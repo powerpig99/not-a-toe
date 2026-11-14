@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-14T10:15:06.756Z",
+    "generated_at": "2026-11-14T11:17:46.818Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -449,22 +449,22 @@
       "content/posts/zi-you-de-ce-bu-zhun.md": "b3dfb0d7e962",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "0377c4822629",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b28d61994639",
-      "content/book/causality.md": "863b25c6333a",
+      "content/book/causality.md": "d2de779193c1",
       "content/book/consciousness.md": "5fd937c16807",
-      "content/book/economics.md": "dea1e55d43f7",
+      "content/book/economics.md": "a62cb7e232a6",
       "content/book/index-of-premises.md": "c7889bc05a93",
       "content/book/intelligence.md": "b49084869c8a",
       "content/book/knowledge-and-learning.md": "f4a8d1ba7f8d",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
       "content/book/mathematics.md": "8f6d273c0db8",
       "content/book/meaning-and-transcendence.md": "872032a1b2e9",
-      "content/book/method.md": "fa3cff406c60",
+      "content/book/method.md": "fcc04a32ce2f",
       "content/book/morality.md": "74e5662f2868",
-      "content/book/physics.md": "4671c42b6627",
-      "content/book/preface.md": "d0065384016a",
+      "content/book/physics.md": "c9d233b55433",
+      "content/book/preface.md": "09791dd76ace",
       "content/book/state-and-collective.md": "bfcfbd5dcdfd",
       "content/book/success-and-the-self.md": "f01dc28f5833",
-      "content/book/tools-and-progress.md": "5309ef6cb79b"
+      "content/book/tools-and-progress.md": "0d170609c508"
     },
     "stats": {
       "posts": 441,
@@ -93699,7 +93699,7 @@
         "slug": "causality",
         "path": "content/book/causality.md",
         "title": "因果的内外视界 / Inner and Outer Horizons of Causality",
-        "hash": "863b25c6333a",
+        "hash": "d2de779193c1",
         "out_degree": 34
       },
       {
@@ -93717,7 +93717,7 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "dea1e55d43f7",
+        "hash": "a62cb7e232a6",
         "out_degree": 29
       },
       {
@@ -93780,7 +93780,7 @@
         "slug": "method",
         "path": "content/book/method.md",
         "title": "非万物之理 / Not a Theory of Everything",
-        "hash": "fa3cff406c60",
+        "hash": "fcc04a32ce2f",
         "out_degree": 28
       },
       {
@@ -93798,8 +93798,8 @@
         "slug": "physics",
         "path": "content/book/physics.md",
         "title": "物理即定律的迷思 / The Myth of Physics Is the Law",
-        "hash": "4671c42b6627",
-        "out_degree": 22
+        "hash": "c9d233b55433",
+        "out_degree": 21
       },
       {
         "id": "book:preface",
@@ -93807,7 +93807,7 @@
         "slug": "preface",
         "path": "content/book/preface.md",
         "title": "非定论的心智指南 / A Non-Definitive Guide for the Mind",
-        "hash": "d0065384016a",
+        "hash": "09791dd76ace",
         "out_degree": 2
       },
       {
@@ -93834,8 +93834,8 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "5309ef6cb79b",
-        "out_degree": 44
+        "hash": "0d170609c508",
+        "out_degree": 45
       }
     ],
     "edges": [
@@ -100993,12 +100993,6 @@
       },
       {
         "from": "book:physics",
-        "to": "minimizing-path",
-        "rel": "collects",
-        "label": "最小化路径 / The Minimizing Path"
-      },
-      {
-        "from": "book:physics",
         "to": "selection-contradiction-and-open-reality",
         "rel": "collects",
         "label": "选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality"
@@ -101608,6 +101602,12 @@
         "to": "the-loop-accelerates",
         "rel": "collects",
         "label": "加速的自指回环与自我实现的终结叙事 / The Loop Accelerates"
+      },
+      {
+        "from": "book:tools-and-progress",
+        "to": "minimizing-path",
+        "rel": "collects",
+        "label": "最小化路径 / The Minimizing Path"
       },
       {
         "from": "book:tools-and-progress",

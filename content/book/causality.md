@@ -1,10 +1,10 @@
 # 因果的内外视界 / Inner and Outer Horizons of Causality
 
-*内在是主权抉择，外显为统计规律，因果从非外在之物的单向施加 / Sovereign choice within, statistical law without; causality is never unilateral force*
+*内在是主权抉择，外显为统计规律，因果从非外在之物的单向施加 / Sovereign choice within, statistical law without; causality is never unilateral external force*
 
-因果不是悬置于观察者之外的机械发条，而是第一人称视角与行动留痕的同一枚硬币的两面。在可控的局部系统里，把原因与结果整理为外在的传递链条，有助于预测和工程设计；然而一旦越出这一边界，把全部变化都归结为先存状态的被动推演，解释就会抹去那个正在划定边界、发起区分并承受后果的行动中心。
+因果不是悬置于观察者之外的机械发条，而是与第一人称视角同属一枚硬币的另一面——即区分活动登记先前的行动如何经由其留下的痕迹塑造后来的行动。在可控的局部系统里，把原因与结果整理为外在的传递链条，有助于预测和工程设计；然而一旦越出这一边界，把全部变化都归结为先存状态的被动推演，解释就会抹去那个正在划定边界、发起区分并承受后果的行动中心。
 
-Causality is not a mechanical clockwork suspended outside the observer, but the other face of the first-person perspective and the trace left by action. Inside bounded, controllable systems, organizing causes and effects into external chains serves prediction and engineering design; yet once that premise is carried past its boundary to treat all change as the passive unrolling of prior states, the explanation erases the acting center that draws boundaries, initiates distinctions, and bears consequences.
+Causality is not a mechanical clockwork suspended outside the observer, but the other side of the same coin as the first-person perspective—the distinguishing activity registering how earlier acts shape later ones through the traces they leave. Inside bounded, controllable systems, organizing causes and effects into external chains serves prediction and engineering design; yet once that premise is carried past its boundary to treat all change as the passive unrolling of prior states, the explanation erases the acting center that draws boundaries, initiates distinctions, and bears consequences.
 
 这一部的篇目追溯了决定论、外部归因与责任委托各自所依赖的前提，考察微观的自由变量如何在宏观层面沉积为统计规律，又如何在具体的决策点上保持敞开。看清个体抉择是自己唯一直接支配的因果杠杆，心智便不再把过往或外境当成决定当下的终审法庭，而在每一次介入中直接认领后果与修正。
 

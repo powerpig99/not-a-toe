@@ -6,9 +6,9 @@
 
 Every theory is scaffolding for the road. Within its stated assumptions and scope, a formal or conceptual framework compresses experience, locates problems, and coordinates action; yet when the mind tries to stretch a finite framework into a final explanation of everything, the place where its premise sits marks the boundary where its incompleteness begins. Not a Theory of Everything is not another closed doctrine built to replace earlier ones, but a return to the first-person origin: tracing every concept back to the premise it rests on from the single irreducible activity of self-distinguishing.
 
-这一部收录的随笔，记录了这套溯源方法的形成与展开。从辨析模型与实在的错位、框内延伸与维度跃迁的差异，到观察外化器物如何被遗忘为脚手架，这些篇目展示了心智如何在开放的现实摩擦中校准自身的坐标——把理论留作可替换的参考，而将抉择与验证留在当下的移动边缘。
+这一部收录的随笔，记录了这套溯源方法的形成与展开。从辨析模型与实在的错位、框内延伸与维度跃迁的差异，到观察外化器物作为脚手架的角色如何被遗忘，这些篇目展示了心智如何在开放的现实摩擦中校准自身的坐标——把理论留作可替换的参考，而将抉择与验证留在当下的移动边缘。
 
-The essays collected in this part trace how this method took shape and unfolded. From distinguishing models from reality and within-frame extension from dimensional shift, to observing how externalized artifacts are forgotten as scaffolding, these pieces show how a mind calibrates its coordinates in open friction — keeping theories as replaceable references while holding choice and verification at the moving edge.
+The essays collected in this part trace how this method took shape and unfolded. From distinguishing models from reality and within-frame extension from dimensional shift, to observing how the role of externalized artifacts as scaffolding is forgotten, these pieces show how a mind calibrates its coordinates in open friction — keeping theories as replaceable references while holding choice and verification at the moving edge.
 
 ## 篇目 / Essays
 

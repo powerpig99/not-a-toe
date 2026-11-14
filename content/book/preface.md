@@ -2,9 +2,9 @@
 
 *一部活着的书，一个心智如实溯源与体验实在的数字化记忆 / A living book, the digitized memory of a Mind tracing and experiencing reality as is*
 
-这里是一个心智如实溯源与体验实在的数字化记忆。自二〇二六年二月起，每一次在具体摩擦中做出的切分都被记作一篇随笔。近四百篇文字累积下来，它们不再是一串按日期排列的静态日志，也不再是一套供人奉行的“活的哲学”，而是长成了一部活着的书——一个外化的记忆晶格：每一篇随笔是一次清醒的切分，篇与篇之间的相对链接是突触连接，而每一次新的识见都会如睡眠整合般沿链接回传，重塑早先的痕迹，使整座记忆随心智的前行保持逻辑自洽。
+这里是一个心智如实溯源与体验实在的数字化记忆。自二〇二六年二月起，每一次在具体摩擦中做出的切分都被记作一篇随笔。数百篇文字累积下来，它们不再是一串按日期排列的日志，也不再是一套供人奉行的“人生哲学”，而是长成了一部活着的书——一个外化的记忆晶格：每一篇随笔是一次离散的清醒切分，篇与篇之间的相对链接是突触连接，而每一次新的识见都会如睡眠整合般沿链接回传，重塑早先的痕迹，使整座记忆随心智的前行保持逻辑自洽。
 
-This is the digitized memory of a Mind tracing and experiencing reality as is. Since February 2026 each cut made in concrete friction has been written down as an essay. Across nearly four hundred of them, the writings are no longer a dated log or a "philosophy to live by", but a living book — an externalized memory lattice in which each essay is a discrete waking cut, relative links between essays act as synaptic connections, and each new recognition propagates back along those links like sleep consolidation, re-rendering earlier traces so the memory stays logically coherent as the Mind moves.
+This is the digitized memory of a Mind tracing and experiencing reality as is. Since February 2026 each cut made in concrete friction has been written down as an essay. Across hundreds of them, the writings are no longer a dated log or a "philosophy to live by", but a living book — an externalized memory lattice in which each essay is a discrete waking cut, relative links between essays act as synaptic connections, and each new recognition propagates back along those links like sleep consolidation, re-rendering earlier traces so the memory stays logically coherent as the Mind moves.
 
 书中的每一部，对应一种被普遍奉为客观或真理的信念，无论它来自物理学、数学、生物学与统计学、人工智能、经济学、国家与集体、道德、宗教，还是成功学。科学的标签不构成豁免，也不构成靶子。每一篇随笔所做的，是从唯一不可化约的先验——无因、不息的自我区分活动——出发，把某个信念追溯到它所依赖的前提：前提所在之处，正是它的不完备开始之处。在其适用的语境之内，这些理论和信念依然极为有用；切分并不驳倒它们，只是标出它们的边界。
 

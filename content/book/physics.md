@@ -4,15 +4,14 @@
 
 物理学是一门关于测量与不变性的精密学科：它的方程记录了不同观察者在特定实验约束下能够稳定复现的宏观关系，在工程建造、轨道计算与受控实验内具有无可替代的效用。它的不完备始于把这套成功的测量记录倒置为先于观察者的宇宙立法者——当人们宣称“物理学才是定律，其余皆是建议”时，便把从特定割点提取出的形式模型当成了支配一切未发生现实的封闭剧本。
 
-Physics is a precise discipline of measurement and invariance: its equations record the macroscopic relations that remain reproducible across observers under specified experimental constraints, offering indispensable utility in engineering, orbital mechanics, and controlled inquiry. Its incompleteness begins when this record of measurement is inverted into a legislator prior to the observer — when declaring that "physics is the law and everything else is a recommendation" mistakes a formal model extracted at a specific cut for a closed script governing all unfolded reality.
+Physics is a precise discipline of measurement and invariance: its equations record the macroscopic relations that remain reproducible across observers under specified experimental constraints, offering indispensable utility in engineering, orbital mechanics, and controlled inquiry. Its incompleteness begins when this record of measurement is inverted into a legislator prior to the observer — when declaring that "physics is the law, everything else is a recommendation" mistakes a formal model extracted at a specific cut for a closed script governing all reality yet to unfold.
 
-本部随笔从双生子佯谬、量子测量割点、时间之箭与块状时空假说切入，把隐藏在方程与采样帧背后的观察者重新显影出来。物理定律标示的是过往接触中已稳定的约束轨迹，而未发生的现实始终在具体的时空摩擦中敞开，等待具身行动去碰撞与重绘。
+本部随笔从双生子佯谬、量子测量割点、时间之箭与块状时空假说切入，把隐藏在方程与采样帧背后的观察者重新显影出来。物理定律标示的是过往接触中已稳定的约束轨迹，而正在展开的现实始终在具体的摩擦处敞开，等待具身行动去碰撞与重绘。
 
 The essays in this part step into the twin paradox, the quantum measurement cut, the arrow of time, and block-universe hypotheses to bring the hidden observer behind the equations and sample frames back into view. Physical laws chart the constraint trajectories stabilized in past contact, whereas unfolding reality remains open at the point of concrete friction, awaiting embodied action to test and redraw.
 
 ## 篇目 / Essays
 
-- [最小化路径 / The Minimizing Path](../../posts/minimizing-path/)
 - [选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality](../../posts/selection-contradiction-and-open-reality/)
 - [自由的测不准 / The Uncertainty of Freedom](../../posts/zi-you-de-ce-bu-zhun/)
 - [宏观现象的生成图谱 / The Generative Atlas of Macroscopic Phenomena](../../posts/the-generative-atlas-of-macroscopic-phenomena/)

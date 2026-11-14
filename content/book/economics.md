@@ -6,9 +6,9 @@
 
 Macroeconomics and econometric models tally completed transactions through aggregate demand, yield curves, hours rankings, and output accounting, offering clear utility for retrospective bookkeeping, historical comparison, and bounded policy evaluation. Their incompleteness begins when a settled invoice is inverted into the prior cause driving economic life — every macro parameter is a lagged summary of countless individuals weighing tradeoffs in concrete situations, and treating it as a top-down engine reverses the order between summary and choice.
 
-这里的文章从分散知识与主观价值评估的视角出发，审视了理性选择公设的封闭边界、价格作为跨心智言说的机制、公共支出与转移支付中的因果错位，以及智能通缩时代的估值时滞。价值的生成始终扎根于微观心智在未知边界上的区分、涉险与自负盈亏。
+本部随笔考察了理性选择公设的封闭前提、知识问题中的委托幻觉、作为跨心智言说的价格、智能成本通缩下的度量时滞，以及公共支出、财富转移与价格下限中的原因错置。价值的生成始终扎根于微观心智在未知边界上的区分、涉险与自负盈亏。
 
-Proceeding from dispersed knowledge and subjective valuation, these essays examine the closed premises of the rational choice postulate, price as utterance across minds, causal misallocation in public spending and price floors, and measurement lag amid intelligence deflation. Value generation remains anchored in microscopic minds making distinctions, taking risks, and bearing their own profit and loss at the unknown edge.
+The essays in this part examine the closed premises of the rational choice postulate, the illusion of delegation in the knowledge problem, price as utterance across minds, measurement lag amid intelligence-cost deflation, and the misallocation of cause in public spending, wealth transfers, and price floors. Value generation remains anchored in microscopic minds making distinctions, taking risks, and bearing their own profit and loss at the unknown edge.
 
 ## 篇目 / Essays
 

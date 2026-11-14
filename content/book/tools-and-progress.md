@@ -21,6 +21,7 @@ The essays in this part trace the codebase as externalized memory, the asymmetry
 - [界面栈与命令行基底 / The Interface Stack](../../posts/cli-interface-stack/)
 - [平台并未漂移，它只是走到了终点 / The Platform Doesn't Drift, It Completes](../../posts/platform-decision-capture/)
 - [加速的自指回环与自我实现的终结叙事 / The Loop Accelerates](../../posts/the-loop-accelerates/)
+- [最小化路径 / The Minimizing Path](../../posts/minimizing-path/)
 - [重新审视反脆弱 / A New Deeper Look at Antifragility](../../posts/a-new-deeper-look-at-antifragility/)
 - [活的外部皮层 / A Living External Cortex](../../posts/a-living-external-cortex/)
 - [一个提示词之遥 / Whatever Is One Prompt Away](../../posts/whatever-is-one-prompt-away/)
