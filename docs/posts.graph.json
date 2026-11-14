@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-14T09:07:09.915Z",
+    "generated_at": "2026-11-14T09:41:44.039Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -149,7 +149,7 @@
       "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "088f1d7e09e0",
       "content/posts/no-outside-scorekeeper.md": "769d5a3c8dee",
       "content/posts/no-system-can-be-kept-closed.md": "95f8f98fd0ff",
-      "content/posts/nobody-has-seen-anything-yet.md": "2b871aa62082",
+      "content/posts/nobody-has-seen-anything-yet.md": "dfdd1876eb25",
       "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md": "9a865742b9bb",
       "content/posts/not-a-theory-of-everything.md": "2f86829af78d",
       "content/posts/not-a-toe-rewrite.md": "378ff114d1ec",
@@ -468,10 +468,10 @@
     },
     "stats": {
       "posts": 441,
-      "edges": 13514,
-      "unique_directed": 6640,
+      "edges": 13518,
+      "unique_directed": 6642,
       "missing_targets": 0,
-      "one_way": 1336,
+      "one_way": 1338,
       "isolated": 0,
       "posts_with_outbound": 441,
       "book_pages": 16,
@@ -2403,7 +2403,7 @@
       "path": "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md",
       "title": "确定性是微观不确定性的统计签名 / Determinism is the Statistical Signature of Micro-Indeterminism",
       "hash": "53c91884d044",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 13,
       "links_out": [
         "fixed-by-nothing",
@@ -4616,11 +4616,13 @@
       "slug": "nobody-has-seen-anything-yet",
       "path": "content/posts/nobody-has-seen-anything-yet.md",
       "title": "还没有人见过任何东西 / Nobody Has Seen Anything Yet",
-      "hash": "2b871aa62082",
+      "hash": "dfdd1876eb25",
       "in_degree": 1,
-      "out_degree": 2,
+      "out_degree": 4,
       "links_out": [
         "selection-contradiction-and-open-reality",
+        "determinism-is-the-statistical-signature-of-micro-indeterminism",
+        "shared-consciousness-is-intersecting-individualities",
         "your-codebase-is-memory"
       ]
     },
@@ -6118,7 +6120,7 @@
       "path": "content/posts/shared-consciousness-is-intersecting-individualities.md",
       "title": "共享意识是个体性的交集 / Shared Consciousness Is Intersecting Individualities",
       "hash": "effb27d0037a",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 14,
       "links_out": [
         "shared-humanity-is-never-shared",
@@ -40136,13 +40138,37 @@
       "from": "nobody-has-seen-anything-yet",
       "to": "selection-contradiction-and-open-reality",
       "rel": "points_to",
-      "label": "选择、矛盾与敞开的实在"
+      "label": "选择、矛盾与开放的现实"
     },
     {
       "from": "nobody-has-seen-anything-yet",
       "to": "selection-contradiction-and-open-reality",
       "rel": "points_to",
       "label": "Selection, Contradiction, and Open Reality"
+    },
+    {
+      "from": "nobody-has-seen-anything-yet",
+      "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "rel": "points_to",
+      "label": "确定性是微观不确定性的统计签名"
+    },
+    {
+      "from": "nobody-has-seen-anything-yet",
+      "to": "determinism-is-the-statistical-signature-of-micro-indeterminism",
+      "rel": "points_to",
+      "label": "Determinism is the Statistical Signature of Micro-Indeterminism"
+    },
+    {
+      "from": "nobody-has-seen-anything-yet",
+      "to": "shared-consciousness-is-intersecting-individualities",
+      "rel": "points_to",
+      "label": "共享意识是个体性的交集"
+    },
+    {
+      "from": "nobody-has-seen-anything-yet",
+      "to": "shared-consciousness-is-intersecting-individualities",
+      "rel": "points_to",
+      "label": "Shared Consciousness Is Intersecting Individualities"
     },
     {
       "from": "nobody-has-seen-anything-yet",
