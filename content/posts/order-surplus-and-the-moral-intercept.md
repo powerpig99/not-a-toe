@@ -48,7 +48,7 @@ The difference is where causal power is located, and the moral language around t
 
 Production is the source; consumption is the feedback that returns on the next round. Locate causal power on consumption, and the direction inverts: later registration is asked to authorize what has already occurred, the return is diluted, and the registered direction is contraction. A further step makes transfer necessary as if transfer were what the loop required. The mass is already overconsuming the few's surplus. That compensation is the loop. Transfer as authorization is extra ground on the return.
 
-[验证中因果权能的分配](../the-allocation-of-causal-power-in-validation/)讲的是哪一边被当作提供下一步的一方。[剩余个人主义](../residual-individualism/)把因果权能留在剩余的行为上；作为集体道德语言的个人主义与集体主义，是罩在这个位置上的外衣。[公共支出不创造资本](../public-spending-does-not-create-capital/)是再分配被记作创造之源时，集体主义的那一面。
+[验证中因果权能的分配](../the-allocation-of-causal-power-in-validation/)讲的是哪一边被当作提供下一步的一方。[剩余个人主义](../residual-individualism/)把因果权能留在剩余的行为上；作为集体道德语言的个人主义与集体主义，是罩在这个位置上的外衣。[公共支出不创造资本](../public-spending-does-not-create-capital/)是再分配被记作创造之源时，集体主义的那一面。[生产的不透明与消费的权重](../the-opacity-of-production-and-the-weight-of-consumption/)追溯了同侪与选民为何赋予后一极更大的权重：集中的生产从外部看滞后且不透明，弥散的消费却在更庞大的人群中即时登记下来。
 
 ```mermaid
 flowchart TD
@@ -76,7 +76,7 @@ flowchart TD
     style I3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-[The Allocation of Causal Power in Validation](../the-allocation-of-causal-power-in-validation/) asks which side is treated as supplying the next step. [Residual Individualism](../residual-individualism/) keeps causal power at residual acts; individualism and collectivism as collective moral language are the overlay on that location. [Public Spending Does Not Create Capital](../public-spending-does-not-create-capital/) is the collectivist face when reallocation is scored as the origin of creation.
+[The Allocation of Causal Power in Validation](../the-allocation-of-causal-power-in-validation/) asks which side is treated as supplying the next step. [Residual Individualism](../residual-individualism/) keeps causal power at residual acts; individualism and collectivism as collective moral language are the overlay on that location. [Public Spending Does Not Create Capital](../public-spending-does-not-create-capital/) is the collectivist face when reallocation is scored as the origin of creation. [The Opacity of Production and the Weight of Consumption](../the-opacity-of-production-and-the-weight-of-consumption/) traces why peers and voters weight that later pole more heavily: concentrated production stays delayed and opaque from outside while diffuse consumption registers at once across the wider number.
 
 ```mermaid
 flowchart TD
