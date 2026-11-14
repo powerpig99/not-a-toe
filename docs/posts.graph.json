@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-14T09:41:44.039Z",
+    "generated_at": "2026-11-14T10:15:06.756Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -46,7 +46,7 @@
       "content/posts/claudes-constitution-analysis.md": "58bd3d6c3edb",
       "content/posts/clean-averaging-and-residual-choice.md": "b8f37599a129",
       "content/posts/cli-interface-stack.md": "8ce49c41c258",
-      "content/posts/climbing-does-not-leave-the-ground.md": "a0be7e00b7db",
+      "content/posts/climbing-does-not-leave-the-ground.md": "1c2abe2271a4",
       "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "07456c3a7776",
       "content/posts/closed-reality-in-benchmark-maxing.md": "cb98face87ff",
       "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "fc0b4da31c80",
@@ -67,7 +67,7 @@
       "content/posts/curiosity-has-no-final-form.md": "100335def2de",
       "content/posts/cybersecurity-arms-race.md": "148e05f366f1",
       "content/posts/data-is-local-intelligence-is-allocated.md": "94f7f326fb08",
-      "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "6ef0fd1e62bc",
+      "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "1629b8d67b12",
       "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "f146489c346f",
       "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "53c91884d044",
       "content/posts/dimensions-are-projections.md": "dd78fc90ba94",
@@ -402,7 +402,7 @@
       "content/posts/the-unexamined-critic.md": "ffe36622f873",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "ea55420c80e9",
       "content/posts/the-unobservable-driver-of-learning.md": "16338781295d",
-      "content/posts/the-utility-men-of-progress.md": "b35b7ef21677",
+      "content/posts/the-utility-men-of-progress.md": "dc2e64396c6d",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "c27f517e060b",
       "content/posts/the-velocity-of-visibility.md": "2730ee2797d7",
       "content/posts/the-walking-tangent-and-the-stumbling-sphere.md": "2e6b2a5bd8dc",
@@ -1730,7 +1730,7 @@
       "slug": "climbing-does-not-leave-the-ground",
       "path": "content/posts/climbing-does-not-leave-the-ground.md",
       "title": "攀登从未离开地面 / Climbing Does Not Leave the Ground",
-      "hash": "a0be7e00b7db",
+      "hash": "1c2abe2271a4",
       "in_degree": 24,
       "out_degree": 26,
       "links_out": [
@@ -2361,7 +2361,7 @@
       "slug": "deceleration-is-the-drag-felt-when-accelerating",
       "path": "content/posts/deceleration-is-the-drag-felt-when-accelerating.md",
       "title": "减速是加速时感受到的阻力 / Deceleration Is the Drag Felt When Accelerating",
-      "hash": "6ef0fd1e62bc",
+      "hash": "1629b8d67b12",
       "in_degree": 9,
       "out_degree": 9,
       "links_out": [
@@ -11376,7 +11376,7 @@
       "slug": "the-utility-men-of-progress",
       "path": "content/posts/the-utility-men-of-progress.md",
       "title": "进步的多面手 / The Utility Men of Progress",
-      "hash": "b35b7ef21677",
+      "hash": "dc2e64396c6d",
       "in_degree": 17,
       "out_degree": 20,
       "links_out": [
@@ -20374,7 +20374,7 @@
       "from": "climbing-does-not-leave-the-ground",
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
-      "label": "Clarity Isn't a State You Arrive At"
+      "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
     },
     {
       "from": "climbing-does-not-leave-the-ground",
@@ -24784,7 +24784,7 @@
       "from": "deceleration-is-the-drag-felt-when-accelerating",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
-      "label": "Symptom and cause in the narratives of progress"
+      "label": "Symptom and Cause in the Narratives of Progress"
     },
     {
       "from": "deceleration-is-the-drag-felt-when-accelerating",
@@ -24820,7 +24820,7 @@
       "from": "deceleration-is-the-drag-felt-when-accelerating",
       "to": "restriction-is-a-selective-tax",
       "rel": "points_to",
-      "label": "Restriction is a selective tax"
+      "label": "Restriction Is a Selective Tax"
     },
     {
       "from": "deceleration-is-the-drag-felt-when-accelerating",
@@ -24838,7 +24838,7 @@
       "from": "deceleration-is-the-drag-felt-when-accelerating",
       "to": "the-scaffolding-that-keeps-growing",
       "rel": "points_to",
-      "label": "The scaffolding that keeps growing"
+      "label": "The Scaffolding That Keeps Growing"
     },
     {
       "from": "deceleration-is-the-drag-felt-when-accelerating",
@@ -24862,7 +24862,7 @@
       "from": "deceleration-is-the-drag-felt-when-accelerating",
       "to": "failure-as-information",
       "rel": "points_to",
-      "label": "Failure as information"
+      "label": "Failure as Information"
     },
     {
       "from": "deceleration-is-the-drag-felt-when-accelerating",
@@ -24880,7 +24880,7 @@
       "from": "deceleration-is-the-drag-felt-when-accelerating",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
-      "label": "Individual choices as the only causal levers"
+      "label": "Individual Choices as the Only Causal Levers"
     },
     {
       "from": "demanding-a-toe-freezes-time-into-a-catalog",
