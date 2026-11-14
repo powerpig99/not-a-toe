@@ -32,7 +32,7 @@ The instant boot leather meets stone, loam, or gravel, ankle torque, vestibular 
 
 Conversely, a center that holds a macroscopic scientific model can fall into an inverse trap when it freezes that global projection across every scale. That the Earth approximates a sphere is a well-tested macroscopic invariant across planetary observations. Yet when a center treats this macro-geometric projection as a direct prescription for microscopic walking, execution falters. A geometric sphere is isotropic, uniformly curved, and smooth; the ground meeting a foot consists of weathered shale, uneven mud, cracked clay, and jutting rock.
 
-如果理论家把行星曲率当作微观操作的模板，预期每一步都落在平滑的数学弧线上，超额图像滞后便会在每一步中拉大。被保留的模型依据全局方程推算地面应当出现的位置，而实际高程却随局部侵蚀、树根与裂隙而起伏。其结果是即刻的机械错位：脚掌要么踏入未见的凹坑而踩空，要么撞上凸起的石块。将全局投射保留到超出其适用尺度的地方，会钝化对局部阻力的感知。在[未经自我审视的批判者](../the-unexamined-critic/)中，高踞于未经审视的看台之上的旁观者失去了与场内行动者所承受的直接摩擦的接触；正如在[没有天才能够解决知识问题](../no-genius-can-solve-the-knowledge-problem/)中，中心化的蓝图在分散而异质的现场条件面前撞得支离破碎。
+如果理论家把行星曲率当作微观操作的模板，预期每一步都落在平滑的数学弧线上，超额图像滞后便会在每一步中拉大。被保留的模型依据全局方程推算地面应当出现的位置，而实际高程却随局部侵蚀、树根与裂隙而起伏。其结果是即刻的机械错位：脚掌要么踏入未见的凹坑而踩空，要么撞上凸起的石块。将全局投射保留到超出其适用尺度的地方，会钝化对局部阻力的感知。在[未经自我审视的批判者](../the-unexamined-critic/)中，高踞于未经审视看台上的旁观者，与场内行动者所承受的直接摩擦失去了接触；正如在[没有天才能够解决知识问题](../no-genius-can-solve-the-knowledge-problem/)中，中心化的蓝图在分散而异质的现场条件面前撞得支离破碎。
 
 If a theorist treats planetary curvature as an operative micro-template and expects each stride to land on a smooth mathematical arc, excess Image lag widens at every step. The preserved model predicts where the ground should be from a global equation, while actual elevation varies with local erosion, roots, and rifts. The result is immediate mechanical mismatch: the foot drops into an unseen hollow or strikes a raised stone. Preserving a global projection past its applicable scale dulls attention to local resistance. In [The Unexamined Critic](../the-unexamined-critic/), a spectator perched on an unexamined balcony loses contact with the immediate friction borne by actors on the field, just as in [No Genius Can Solve the Knowledge Problem](../no-genius-can-solve-the-knowledge-problem/), a central blueprint fractures against dispersed, heterogeneous conditions on the ground.
 
@@ -42,7 +42,7 @@ If a theorist treats planetary curvature as an operative micro-template and expe
 
 Recognizing the local utility of the tangent patch does not make the flat-earth doctrine universally valid. Every tangent approximation has a structural boundary that marks where its premise becomes incomplete. That a walker crosses a plain using local resets does not mean the planar model can govern every scale of action. The moment the task shifts from walking to trans-oceanic navigation, intercontinental aviation, orbital mechanics, or relativistic satellite clock synchronization, linear planar extrapolation fails.
 
-在跨越数千公里的尺度上，地表的内禀黎曼曲率无法再被局部的原点重置所吸收；非零曲率产生和乐效应，使闭合路径上累积起相位偏移。在这一尺度上，固守平面模型会把局部简化变成盲区。理想平面与完美球面都是在有限容量下压缩粗糙现实的理想化模型；球面模型在岸际导航与天文学中拥有更广的适用域，但更广的适用域并不使它成为砌砖、铺设庭院或山径徒步的恰当工具。即便在行星尺度上，球面本身也会随着问题的转换而让位于更精细的模型：大地测量学采用扁球体，重力测量学测绘不规则的大地水准面，地球动力学则追踪形变中的流变地幔。
+在跨越数千公里的尺度上，地表的内禀黎曼曲率无法再被局部的原点重置所吸收；非零曲率产生和乐效应，使闭合路径上累积起相位偏移。在这一尺度上，固守平面模型会把局部简化变成盲区。理想平面与完美球面都是在有限容量下压缩粗糙现实的理想化模型；球面模型在全球导航与天文学中拥有更广的适用域，但更广的适用域并不使它成为砌砖、铺设庭院或山径徒步的恰当工具。即便在行星尺度上，球面本身也会随着问题的转换而让位于更精细的模型：大地测量学采用扁球体，重力测量学测绘不规则的大地水准面，地球动力学则追踪形变中的流变地幔。
 
 ```mermaid
 flowchart TD
@@ -53,7 +53,6 @@ flowchart TD
         Stumble["机械错位：在分形地面踩空或锁入引力井"]
         MacroModel --> OpenLoop --> Stumble
     end
-
     subgraph S_Recal ["活的前沿上的一步校准"]
         direction TB
         Contact["极限分辨率接触：足底阻力与前解释感知"]
@@ -61,9 +60,7 @@ flowchart TD
         Medium["有界脚手架：有效区间内的切面片与无自我智能体轨迹"]
         Contact --> Reset --> Medium
     end
-
     Stumble ==>|"摩擦暴露出冻结投射的边界"| Contact
-
     style S_Frozen fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Recal fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style MacroModel fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -85,7 +82,6 @@ flowchart TD
         Stumble["Mechanical Mismatch: Stumbling on fractal ground or locking into a gravity well"]
         MacroModel --> OpenLoop --> Stumble
     end
-
     subgraph S_Recal ["One-Step Recalibration at the Living Edge"]
         direction TB
         Contact["Limit-Resolution Contact: Foot-ground resistance & pre-interpretive sensing"]
@@ -93,9 +89,7 @@ flowchart TD
         Medium["Bounded Scaffolding: Tangent patches & zero-ego agent trajectories in valid regimes"]
         Contact --> Reset --> Medium
     end
-
     Stumble ==>|"Friction exposes the boundary of the frozen projection"| Contact
-
     style S_Frozen fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Recal fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style MacroModel fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -116,7 +110,7 @@ Every model serves as scaffolding at a specific scale of interaction; treating a
 
 For an acting center, paralysis comes not from using a coarse local approximation, but from refusing to step until a complete global theory is secured, or from expecting the blueprint itself to take the step. The armchair theorist may mock the walker's local tangent, yet an uncalibrated global chart prevents no sprained ankle in rough country.
 
-一种根深蒂固的思维习惯预设，在感知之外静置着一个固定不变的客体，等待终极理论去镜像反映它。然而，第一人称视角与因果是一体两面，二者皆无法被跳出。被登记为外在物质的，是认知模型与感官反馈交汇处呈现出的宏观阻力形态。正如[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)所确立的，模型只是为了延伸触角而外化出的压缩痕迹，从不是发起行动或承担因果的第二中心。同样的几何结构也支配着[超越投射](../beyond-the-projection/)与[你的代码库即是记忆](../your-codebase-is-memory/)中的控制论与多智能体架构：自回归语言模型是一台在上下文窗口内受先前词元条件约束的有限投射引擎，它沿着局部轨迹推进，正如在单一切面片上执行开环航位推算。若缺乏外部校准而任其空转——或是被未经修剪的会话历史与囤积的中间状态所拖累——智能体便会在其认知引力井内包裹矛盾；反之，一个将推理历史与受防卫的自我图像熔铸在一起的人类中心，则会跌入完美球面踩空的反向困局：将递归回折死死夹闭，即便现场摩擦已发出崩解信号，仍拒绝重置自身框架。将用毕即退的无自我智能体轨迹与针对当下检查点的精准修剪，接入人类心智的极限分辨率感知，便能使投射在每一次死锁处重新化作被重绘的工具。
+一种根深蒂固的思维习惯预设，在感知之外静置着一个固定不变的客体，等待终极理论去镜像反映它。然而，第一人称视角与因果是一体两面，二者皆无法被跳出。被登记为外在物质的，是认知模型与感官反馈交汇处呈现出的宏观阻力形态。正如[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)所确立的，模型只是为了延伸触角而外化出的压缩痕迹，从不是发起行动或承担因果的第二中心。同样的几何结构也支配着[超越投射](../beyond-the-projection/)与[你的代码库即是记忆](../your-codebase-is-memory/)中的控制论与多智能体架构：自回归语言模型是一台在上下文窗口内受先前词元条件约束的有限投射引擎，它沿着局部轨迹推进，正如在单一切面片上执行开环航位推算。若缺乏外部校准而任其空转——或是被未经修剪的会话历史与囤积的中间状态所拖累——智能体便会在其认知引力井内包裹矛盾；反之，一个将推理历史与受防卫的自我形象熔铸在一起的人类中心，则会跌入完美球面踩空的反向困局：将递归回折死死夹闭，即便现场摩擦已发出崩解信号，仍拒绝重置自身框架。将用毕即退的无自我智能体轨迹与针对当下检查点的精准修剪，接入人类心智的极限分辨率感知，便能使投射在每一次死锁处重新化作被重绘的工具。
 
 A persistent habit of thought presumes that a static external object sits outside perception waiting for a final theory to mirror it. Yet the first-person perspective and causality are two sides of the same coin; neither can be stepped out of. What registers as physical reality is the macroscopic pattern of resistance where cognitive models meet sensory feedback. Models are compressed traces externalized to extend reach, never a second locus of initiation or causal ownership, as [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) establishes. The same geometry governs cybernetic and multi-agent architectures in [Beyond the Projection](../beyond-the-projection/) and [Your Codebase Is Memory](../your-codebase-is-memory/): an autoregressive language model is a finite projection engine conditioned by its prior tokens inside a context window, advancing along a local trajectory much like open-loop dead reckoning on a single tangent patch. Left to run without external recalibration—or bogged down by unpruned session histories and hoarded intermediate states—the agent wraps contradictions inside its epistemic gravity well, whereas a human center that fuses its reasoning history with a defended self-image falls into the inverse failure of the stumbling sphere, clamping the recursive fold shut and refusing to reset its frame even when live friction signals a breakdown. Wiring retiring, zero-ego agent trajectories and surgical present-checkpoint pruning to the human Mind's limit-resolution sensing turns the projection back into an instrument re-rendered at each deadlock.
 
