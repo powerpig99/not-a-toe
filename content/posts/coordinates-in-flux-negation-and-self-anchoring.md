@@ -22,9 +22,9 @@ This nested recursion exposes a foundational question: why, whenever evaluation 
 
 ## 二、 封闭容器与自我的削减 / 2. The Closed Container and the Reduction of Self
 
-靠否定来立足的冲动，建立在一个未经审视的前提之上：现实被暗中物化成了一个容积恒定的固定封闭容器。在一个零和的器皿内部，当下的存在要想为自己腾出空间，就只能靠挤走另一个占据者——要么把“他者”推出画面，要么把“过去的形态”从账本上抹除。在争夺固定存量的预设下，否定成了宣示坐标最省力的方式。
+靠否定来立足的冲动，建立在一个未经审视的前提之上：正如[区分活动与否定的显现](../differentiation-and-the-appearance-of-negation/)所追溯的，现实被暗中物化成了一个容积恒定的固定封闭容器。在一个零和的器皿内部，当下的存在要想为自己腾出空间，就只能靠挤走另一个占据者——要么把“他者”推出画面，要么把“过去的形态”从账本上抹除。在争夺固定存量的预设下，否定成了宣示坐标最省力的方式。
 
-The compulsion to stand by negation rests on an unexamined premise: reality has been tacitly reified into a fixed, closed container of constant volume. Inside a zero-sum vessel, present existence can carve out room for itself only by displacing an occupant—either shoving "the other" out of the frame or erasing "past forms" from the ledger. Negation becomes the least effortful way to claim coordinates under the assumption of competition over a fixed stock.
+The compulsion to stand by negation rests on the unexamined premise traced in [Differentiation and the Appearance of Negation](../differentiation-and-the-appearance-of-negation/): reality has been tacitly reified into a fixed, closed container of constant volume. Inside a zero-sum vessel, present existence can carve out room for itself only by displacing an occupant—either shoving "the other" out of the frame or erasing "past forms" from the ledger. Negation becomes the least effortful way to claim coordinates under the assumption of competition over a fixed stock.
 
 自我区分的活动无因、不息地发生，并没有外部的地板或围墙，第一人称视角与因果性作为同一枚硬币的两面运作。如[向量、坐标系与自指心智](../the-mind-as-vector-and-coordinate-system/)所确立的，心智同时是一个有向的状态向量 v_A，以及其自身正交坐标基底 S_A = {e₁, e₂, ..., eₙ} 的递归生成源。觉知中所登记的“他人”，并不是在中立的第三人称容器里彼此碰撞的孤岛；当心智 A 遭遇心智 B 时，在心智 A 内部登记下来的，是投射在心智 A 自身参考系上的向内点积投影 Proj_A(v_B) = (v_B · v̂_A) v̂_A，并伴随着心智 A 当前基底尚未解析的正交残差 v_B - Proj_A(v_B)。一个中心所能感知、体验与解析的边界，正是它自身认知活动的展开疆域。
 

@@ -102,7 +102,7 @@ This denial is generative. [The Freedom of Will to Deny Itself](../the-freedom-o
 
 The difficulty appears only when a determinate bound is held past its step as absolute, hardening a working boundary into a prison in the manner of [The Scaffolding We Forget](../the-scaffolding-we-forget/). While the uncaused activity itself never ceases or closes, taking the closed, determinate stance as the complete and final condition of the Mind renders the openness from which the denial issues unavailable within that registration, forgetting the open ground from which the question itself arises in [What Is Metaphysics? As the Cut That Names the Seeking as Destination](../what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination/). Within that closed stance, the bound's own excluded openness registers from inside as a lack that stands without remainder: the open demand for further account hardens into the requirement that an external ground must be supplied from elsewhere, and the activity registers there only as the explanatory problem its own bound has produced.
 
-对开放性的认出，并不会消除每一次离散行动借以划定其场域的生成性否定。它松开了将这一否定钉死为心智唯一品格的穷尽式执持，如[只要它不被保持为空](../only-if-it-is-not-kept-empty/)所展开的那样，让有限的确定性继续运作而不封闭地基。存在依然通过这一否定不断生起，但被留存的姿态不再遮蔽那使之可能的、永不止息的开放性。
+对开放性的认出，并不会消除每一次离散行动借以划定其场域的生成性否定。它松开了将这一否定钉死为心智唯一品格的穷尽式执持，如[只要它不被保持为空](../only-if-it-is-not-kept-empty/)所展开的那样，让有限的确定性继续运作而不封闭地基。存在依然通过这一否定不断生起，但被留存的姿态不再遮蔽那使之可能的、永不止息的开放性，未择取的余量由此保持可得，而非硬化为[区分活动与否定的显现](../differentiation-and-the-appearance-of-negation/)所追溯的常设排斥。
 
 ```mermaid
 flowchart TD
@@ -138,7 +138,7 @@ flowchart TD
     style R_Open fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Recognition of openness does not eliminate the generative denial through which each discrete act bounds its field. It releases the exhaustive hold that fixes that denial as the sole character of the Mind, keeping finite determinations operative without closing the ground as in [Only If It Is Not Kept Empty](../only-if-it-is-not-kept-empty/). Existence continues to arise through the denial, yet the retained stance no longer obscures the unceasing openness that makes it possible.
+Recognition of openness does not eliminate the generative denial through which each discrete act bounds its field. It releases the exhaustive hold that fixes that denial as the sole character of the Mind, keeping finite determinations operative without closing the ground as in [Only If It Is Not Kept Empty](../only-if-it-is-not-kept-empty/). Existence continues to arise through the denial, yet the retained stance no longer obscures the unceasing openness that makes it possible, leaving the unchosen remainder available rather than hardened into the standing exclusion traced in [Differentiation and the Appearance of Negation](../differentiation-and-the-appearance-of-negation/).
 
 ```mermaid
 flowchart TD

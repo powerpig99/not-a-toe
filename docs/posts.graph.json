@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-15T12:12:22.178Z",
+    "generated_at": "2026-11-15T15:59:30.375Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -61,7 +61,7 @@
       "content/posts/context-engineering-essay.md": "b551944fbba4",
       "content/posts/continuous-learning-as-expression-and-simulation.md": "9ce5608bf474",
       "content/posts/coordinate-systems-mind-and-degrees-of-freedom.md": "d399e29f1ee7",
-      "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "b30bcd660aa1",
+      "content/posts/coordinates-in-flux-negation-and-self-anchoring.md": "a305cbdeb8dd",
       "content/posts/cuo-zhi-de-yin-guo-yu-xin-zhi-bian-yi-qi.md": "63bff49ee35f",
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "de3299fb5449",
       "content/posts/curiosity-has-no-final-form.md": "100335def2de",
@@ -76,7 +76,7 @@
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "b64fa4420bd4",
       "content/posts/dynamic-resnet-of-skill-loops.md": "baf38b64137d",
       "content/posts/e-shi-feng-bi-de-shan.md": "035dbeba3f38",
-      "content/posts/efficiency-without-differentiation.md": "3240d0296338",
+      "content/posts/efficiency-without-differentiation.md": "970b7f818642",
       "content/posts/emotional-support-as-causal-interference.md": "37673ac9a9a2",
       "content/posts/empathy-as-projection-collapse.md": "5cbf1eab5d16",
       "content/posts/empowerment-establishes-the-centralization-of-power.md": "c97a16c2e44b",
@@ -144,7 +144,7 @@
       "content/posts/moral-language-as-projection.md": "06388db8d0ab",
       "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "116d97ed1a9a",
       "content/posts/munger-dumb-competition-refined.md": "f6029f76de26",
-      "content/posts/name-negation-tendency.md": "c83ca7d9f4fa",
+      "content/posts/name-negation-tendency.md": "b41eab911376",
       "content/posts/naval-separation-analysis.md": "31aba4991f14",
       "content/posts/no-genius-can-solve-the-knowledge-problem.md": "2b3ff94ab2fa",
       "content/posts/no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind.md": "088f1d7e09e0",
@@ -156,7 +156,7 @@
       "content/posts/not-a-toe-rewrite.md": "378ff114d1ec",
       "content/posts/not-predicting-is-predicting-without-awareness.md": "750dd47f6c5b",
       "content/posts/objects-are-stabilized-relationships.md": "5c88afea080b",
-      "content/posts/observation-distinguishing-activity-and-the-open-ground-of-mind.md": "e78f9a54eccc",
+      "content/posts/observation-distinguishing-activity-and-the-open-ground-of-mind.md": "39117b90bc28",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "b42c528284b2",
       "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "2e8a1140f57c",
       "content/posts/on-education.md": "2506ab652440",
@@ -181,7 +181,7 @@
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "48c6830926cc",
       "content/posts/precision-and-resolution.md": "3a07d3cc0531",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "b11dea0379ff",
-      "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "92cddbf1056e",
+      "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md": "1269873794ba",
       "content/posts/price-as-utterance-understanding-as-trade.md": "11deadd7c5d2",
       "content/posts/production-consumption-and-the-minds-distinction.md": "a4228e0e32b6",
       "content/posts/public-spending-does-not-create-capital.md": "ff04541bddf9",
@@ -287,7 +287,7 @@
       "content/posts/the-generative-contradiction.md": "3b39d0a43e8c",
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "64c173931963",
       "content/posts/the-generative-topology-of-free-variables.md": "65e02375837f",
-      "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "e5d814b55e4d",
+      "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "0713bf612f10",
       "content/posts/the-geometry-of-emergence.md": "2d50769c9847",
       "content/posts/the-geometry-of-mind.md": "1ea3326d5ade",
       "content/posts/the-geometry-of-success.md": "7e595bd2dce9",
@@ -470,10 +470,10 @@
     },
     "stats": {
       "posts": 443,
-      "edges": 13582,
-      "unique_directed": 6674,
+      "edges": 13594,
+      "unique_directed": 6680,
       "missing_targets": 0,
-      "one_way": 1362,
+      "one_way": 1358,
       "isolated": 0,
       "posts_with_outbound": 443,
       "book_pages": 16,
@@ -2196,14 +2196,15 @@
       "slug": "coordinates-in-flux-negation-and-self-anchoring",
       "path": "content/posts/coordinates-in-flux-negation-and-self-anchoring.md",
       "title": "流动中的坐标 / Coordinates in Flux",
-      "hash": "b30bcd660aa1",
+      "hash": "a305cbdeb8dd",
       "in_degree": 10,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "self-image-speaks-as-if-from-nowhere",
         "pessimism-is-the-shadow-of-optimism",
         "the-dissolution-of-the-great-reversal",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+        "differentiation-and-the-appearance-of-negation",
         "the-mind-as-vector-and-coordinate-system",
         "po-chu-gai-nian-de-jian-yue",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
@@ -2430,7 +2431,7 @@
       "path": "content/posts/differentiation-and-the-appearance-of-negation.md",
       "title": "区分活动与否定的显现 / Differentiation and the Appearance of Negation",
       "hash": "5771150f1be1",
-      "in_degree": 0,
+      "in_degree": 6,
       "out_degree": 17,
       "links_out": [
         "observation-distinguishing-activity-and-the-open-ground-of-mind",
@@ -2576,14 +2577,15 @@
       "slug": "efficiency-without-differentiation",
       "path": "content/posts/efficiency-without-differentiation.md",
       "title": "没有区分的效率是没有存在的运动 / Efficiency Without Differentiation Is Movement Without Existence",
-      "hash": "3240d0296338",
+      "hash": "970b7f818642",
       "in_degree": 5,
-      "out_degree": 4,
+      "out_degree": 5,
       "links_out": [
         "your-codebase-is-memory",
         "better-than-free-after-the-checklist-closes",
         "production-consumption-and-the-minds-distinction",
-        "token-efficiency-emulation-and-the-unclosable-gap"
+        "token-efficiency-emulation-and-the-unclosable-gap",
+        "differentiation-and-the-appearance-of-negation"
       ]
     },
     {
@@ -4451,10 +4453,11 @@
       "slug": "name-negation-tendency",
       "path": "content/posts/name-negation-tendency.md",
       "title": "名称背反倾向 / The Name-Negation Tendency",
-      "hash": "c83ca7d9f4fa",
+      "hash": "b41eab911376",
       "in_degree": 2,
-      "out_degree": 4,
+      "out_degree": 5,
       "links_out": [
+        "differentiation-and-the-appearance-of-negation",
         "claudes-constitution-analysis",
         "clarity-isnt-a-state-you-arrive-at",
         "what-works-is-the-belief",
@@ -4790,9 +4793,9 @@
       "slug": "observation-distinguishing-activity-and-the-open-ground-of-mind",
       "path": "content/posts/observation-distinguishing-activity-and-the-open-ground-of-mind.md",
       "title": "观察、区分活动与心智的开放地基 / Observation, Distinguishing Activity, and the Open Ground of Mind",
-      "hash": "e78f9a54eccc",
+      "hash": "39117b90bc28",
       "in_degree": 19,
-      "out_degree": 16,
+      "out_degree": 17,
       "links_out": [
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "consciousness-never-appears-as-data-among-data",
@@ -4809,6 +4812,7 @@
         "the-scaffolding-we-forget",
         "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
         "only-if-it-is-not-kept-empty",
+        "differentiation-and-the-appearance-of-negation",
         "clarity-isnt-a-state-you-arrive-at"
       ]
     },
@@ -5567,12 +5571,13 @@
       "slug": "present-contact-and-the-obscuration-of-desired-feeling",
       "path": "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md",
       "title": "现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling",
-      "hash": "92cddbf1056e",
+      "hash": "1269873794ba",
       "in_degree": 5,
-      "out_degree": 8,
+      "out_degree": 9,
       "links_out": [
         "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
         "the-grammar-of-finding-and-the-fading-observer",
+        "differentiation-and-the-appearance-of-negation",
         "the-form-of-enlightenment-and-the-inversion-of-gates",
         "happiness-is-the-relation-of-desire-to-state",
         "the-blind-spot-of-the-frame",
@@ -8424,14 +8429,15 @@
       "slug": "the-geometry-of-coexistence-and-the-dual-cut",
       "path": "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md",
       "title": "共存的几何学 / The Geometry of Coexistence",
-      "hash": "e5d814b55e4d",
+      "hash": "0713bf612f10",
       "in_degree": 3,
-      "out_degree": 5,
+      "out_degree": 6,
       "links_out": [
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
         "the-cut-moves-but-never-vanishes",
         "your-codebase-is-memory",
         "when-electrons-think",
+        "differentiation-and-the-appearance-of-negation",
         "the-illusion-of-distance-and-the-dual-ruler"
       ]
     },
@@ -23706,6 +23712,18 @@
     },
     {
       "from": "coordinates-in-flux-negation-and-self-anchoring",
+      "to": "differentiation-and-the-appearance-of-negation",
+      "rel": "points_to",
+      "label": "区分活动与否定的显现"
+    },
+    {
+      "from": "coordinates-in-flux-negation-and-self-anchoring",
+      "to": "differentiation-and-the-appearance-of-negation",
+      "rel": "points_to",
+      "label": "Differentiation and the Appearance of Negation"
+    },
+    {
+      "from": "coordinates-in-flux-negation-and-self-anchoring",
       "to": "the-mind-as-vector-and-coordinate-system",
       "rel": "points_to",
       "label": "向量、坐标系与自指心智"
@@ -26151,6 +26169,18 @@
       "to": "token-efficiency-emulation-and-the-unclosable-gap",
       "rel": "points_to",
       "label": "Token Efficiency, Emulation, and the Unclosable Gap"
+    },
+    {
+      "from": "efficiency-without-differentiation",
+      "to": "differentiation-and-the-appearance-of-negation",
+      "rel": "points_to",
+      "label": "区分活动与否定的显现"
+    },
+    {
+      "from": "efficiency-without-differentiation",
+      "to": "differentiation-and-the-appearance-of-negation",
+      "rel": "points_to",
+      "label": "Differentiation and the Appearance of Negation"
     },
     {
       "from": "emotional-support-as-causal-interference",
@@ -38910,6 +38940,18 @@
     },
     {
       "from": "name-negation-tendency",
+      "to": "differentiation-and-the-appearance-of-negation",
+      "rel": "points_to",
+      "label": "区分活动与否定的显现"
+    },
+    {
+      "from": "name-negation-tendency",
+      "to": "differentiation-and-the-appearance-of-negation",
+      "rel": "points_to",
+      "label": "Differentiation and the Appearance of Negation"
+    },
+    {
+      "from": "name-negation-tendency",
       "to": "claudes-constitution-analysis",
       "rel": "points_to",
       "label": "名为 Claude 的投射"
@@ -41484,9 +41526,21 @@
     },
     {
       "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "differentiation-and-the-appearance-of-negation",
+      "rel": "points_to",
+      "label": "区分活动与否定的显现"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
       "to": "only-if-it-is-not-kept-empty",
       "rel": "points_to",
       "label": "Only If It Is Not Kept Empty"
+    },
+    {
+      "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "to": "differentiation-and-the-appearance-of-negation",
+      "rel": "points_to",
+      "label": "Differentiation and the Appearance of Negation"
     },
     {
       "from": "observation-distinguishing-activity-and-the-open-ground-of-mind",
@@ -47142,6 +47196,12 @@
     },
     {
       "from": "present-contact-and-the-obscuration-of-desired-feeling",
+      "to": "differentiation-and-the-appearance-of-negation",
+      "rel": "points_to",
+      "label": "区分活动与否定的显现"
+    },
+    {
+      "from": "present-contact-and-the-obscuration-of-desired-feeling",
       "to": "the-form-of-enlightenment-and-the-inversion-of-gates",
       "rel": "points_to",
       "label": "开悟的相与门槛的倒置"
@@ -47151,6 +47211,12 @@
       "to": "happiness-is-the-relation-of-desire-to-state",
       "rel": "points_to",
       "label": "幸福是欲望与状态的关系"
+    },
+    {
+      "from": "present-contact-and-the-obscuration-of-desired-feeling",
+      "to": "differentiation-and-the-appearance-of-negation",
+      "rel": "points_to",
+      "label": "Differentiation and the Appearance of Negation"
     },
     {
       "from": "present-contact-and-the-obscuration-of-desired-feeling",
@@ -65823,6 +65889,18 @@
       "to": "when-electrons-think",
       "rel": "points_to",
       "label": "When Electrons Think"
+    },
+    {
+      "from": "the-geometry-of-coexistence-and-the-dual-cut",
+      "to": "differentiation-and-the-appearance-of-negation",
+      "rel": "points_to",
+      "label": "区分活动与否定的显现"
+    },
+    {
+      "from": "the-geometry-of-coexistence-and-the-dual-cut",
+      "to": "differentiation-and-the-appearance-of-negation",
+      "rel": "points_to",
+      "label": "Differentiation and the Appearance of Negation"
     },
     {
       "from": "the-geometry-of-coexistence-and-the-dual-cut",

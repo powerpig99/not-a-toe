@@ -45,7 +45,6 @@ flowchart TD
         M_Loop["封闭重复：以更低开销运行同一划分而不产生新边界"]
         M_Fix --> M_Switch --> M_Loop
     end
-
     subgraph S_Diff["生产与区分（成本追随价值）"]
         direction TB
         D_Open["敞开的分子：拓展此前未曾开启的可能"]
@@ -53,9 +52,7 @@ flowchart TD
         D_Cut["全新划分：向未测绘的空间划出新边界"]
         D_Open --> D_Context --> D_Cut
     end
-
     M_Loop ==>|"解除固定产出前提；恢复分子项"| D_Open
-
     style S_Min fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Diff fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style M_Fix fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -77,7 +74,6 @@ flowchart TD
         M_Loop["Closed Repetition: Running the same partition cheaper without new boundaries"]
         M_Fix --> M_Switch --> M_Loop
     end
-
     subgraph S_Diff["Production & Differentiation (Cost Follows Value)"]
         direction TB
         D_Open["Open Numerator: Expanding what was not possible before"]
@@ -85,9 +81,7 @@ flowchart TD
         D_Cut["New Partition: Drawing fresh boundaries into unmapped space"]
         D_Open --> D_Context --> D_Cut
     end
-
     M_Loop ==>|"Release fixed-output premise; restore the numerator"| D_Open
-
     style S_Min fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Diff fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style M_Fix fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -120,14 +114,14 @@ Cost optimization is a mature use pattern—you optimize cost when you already k
 
 ## 五、 存在即区分 / 5. To Be Is to Be Different
 
-一个存在者并非仅由其内部属性所定义，而是由“它是什么”与“它不是什么”之间的整道边界所共同界定。负空间承担着同等的本体论做功。一旦抹去负空间，事物本身也会随之坍缩——因为不再有任何背景可供将它区分出来。
+界定一个存在者的，并非仅是其内部属性，而是在越过它继续延展的场域内划出的离散边界。若没有向切分之外延伸的开放场域，事物本身便会坍缩——因为没有什么可供将它从中区分出来。
 
-A being is defined not by its internal properties alone, but by the entire boundary between what it is and what it is not. The negative space does equal ontological work. Remove it and the thing collapses—there is nothing to distinguish it from.
+A being is defined not by its internal properties alone, but by the discrete boundary drawn within a field that continues past it. Without an open field extending beyond the cut, the thing collapses—there is nothing to distinguish it from.
 
 倘若你使用工具只是为了以更低廉的成本产出与从前相同的东西，那你便什么也没有创造出来。在任何起效的操作意义上，工具都没有让你变得更丰沛。你还是原来的你，只是转得更快了。没有新的划分，没有新的边界，也就没有新的存在。
 
 If your use of a tool produces the same outputs as before, just cheaper, you have not created anything. The tool has not made you more in any operative sense. You are the same, faster. No new partition, no new boundary, no new existence.
 
-定义“是”的，是一切“是”加上一切“不是”。同一性并非静态的肯定断言，而是一次主动的划分。事物与其补集相伴而生。区分是基底性的操作：存在即区分，这并非既有事物身上的一项可选属性，而是存在本身的运作机制。存在得更充沛，就意味着做出更深远的区分，而非更高效地重复既有图式。没有区分的效率，只是没有存在的运动。
+同一性并非静态的肯定断言，而是一次主动的切分。唯有在预先固定论域的封闭规格之内，事物与其补集才相伴而生；而在前沿敞开之处，正如[区分活动与否定的显现](../differentiation-and-the-appearance-of-negation/)所追溯的，划定“一物是什么”，便将“它不是什么”留作敞开的可得空间，而非密封的总体。区分是基底性的操作：存在即区分，这并非既有事物身上的一项可选属性，而是存在本身的运作机制。存在得更充沛，就意味着做出更深远的区分，而非更高效地重复既有图式。没有区分的效率，只是没有存在的运动。
 
-What defines "is" is everything that is, plus everything that is not. Identity is not a static positive claim—it is an active partition. The thing and its complement co-arise. Distinction is the foundational operation: existence is differentiation, not as an optional attribute of existing things, but as the mechanism of existence itself. To exist more is to differentiate more, not to repeat the existing pattern more efficiently. Efficiency without differentiation is movement without existence.
+Identity is not a static positive claim—it is an active cut. A thing and its complement co-arise only inside a closed specification that fixes the domain in advance; where the frontier is open, as [Differentiation and the Appearance of Negation](../differentiation-and-the-appearance-of-negation/) traces, bounding what a thing is leaves what it is not as open availability rather than a sealed totality. Distinction is the foundational operation: existence is differentiation, not as an optional attribute of existing things, but as the mechanism of existence itself. To exist more is to differentiate more, not to repeat the existing pattern more efficiently. Efficiency without differentiation is movement without existence.
