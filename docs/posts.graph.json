@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-14T19:16:15.415Z",
+    "generated_at": "2026-11-15T12:12:22.178Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -70,6 +70,7 @@
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "1629b8d67b12",
       "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "f146489c346f",
       "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "53c91884d044",
+      "content/posts/differentiation-and-the-appearance-of-negation.md": "5771150f1be1",
       "content/posts/dimensions-are-projections.md": "dd78fc90ba94",
       "content/posts/distillation-compression-agency.md": "8be4ecf97ac2",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "b64fa4420bd4",
@@ -453,13 +454,13 @@
       "content/book/causality.md": "d2de779193c1",
       "content/book/consciousness.md": "5fd937c16807",
       "content/book/economics.md": "4f4f531791d1",
-      "content/book/index-of-premises.md": "a2f1e35cc0eb",
+      "content/book/index-of-premises.md": "61ad86bfd8c7",
       "content/book/intelligence.md": "b49084869c8a",
       "content/book/knowledge-and-learning.md": "60b558ba8715",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
       "content/book/mathematics.md": "8f6d273c0db8",
       "content/book/meaning-and-transcendence.md": "6a1e8d623959",
-      "content/book/method.md": "fcc04a32ce2f",
+      "content/book/method.md": "2f0a174477dc",
       "content/book/morality.md": "74e5662f2868",
       "content/book/physics.md": "c9d233b55433",
       "content/book/preface.md": "09791dd76ace",
@@ -468,22 +469,22 @@
       "content/book/tools-and-progress.md": "0d170609c508"
     },
     "stats": {
-      "posts": 442,
-      "edges": 13548,
-      "unique_directed": 6657,
+      "posts": 443,
+      "edges": 13582,
+      "unique_directed": 6674,
       "missing_targets": 0,
-      "one_way": 1345,
+      "one_way": 1362,
       "isolated": 0,
-      "posts_with_outbound": 442,
+      "posts_with_outbound": 443,
       "book_pages": 16,
-      "book_edges": 1412,
-      "posts_reached_by_book": 442
+      "book_edges": 1420,
+      "posts_reached_by_book": 443
     }
   },
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 407
+      "in_degree": 408
     },
     {
       "slug": "beyond-the-projection",
@@ -494,11 +495,11 @@
       "in_degree": 111
     },
     {
-      "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 89
+      "slug": "openness-is-consistency",
+      "in_degree": 90
     },
     {
-      "slug": "openness-is-consistency",
+      "slug": "intelligence-belongs-only-to-the-mind",
       "in_degree": 89
     },
     {
@@ -1770,7 +1771,7 @@
       "path": "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md",
       "title": "封闭的假设把复利挤成 S 曲线 / Closed Assumptions Squeeze Compounding into S-Curves",
       "hash": "07456c3a7776",
-      "in_degree": 28,
+      "in_degree": 29,
       "out_degree": 28,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -2196,7 +2197,7 @@
       "path": "content/posts/coordinates-in-flux-negation-and-self-anchoring.md",
       "title": "流动中的坐标 / Coordinates in Flux",
       "hash": "b30bcd660aa1",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 13,
       "links_out": [
         "self-image-speaks-as-if-from-nowhere",
@@ -2420,6 +2421,35 @@
         "the-illusion-of-the-shared-sandbox",
         "the-residue-and-the-free-variable",
         "your-codebase-is-memory"
+      ]
+    },
+    {
+      "id": "post:differentiation-and-the-appearance-of-negation",
+      "kind": "post",
+      "slug": "differentiation-and-the-appearance-of-negation",
+      "path": "content/posts/differentiation-and-the-appearance-of-negation.md",
+      "title": "区分活动与否定的显现 / Differentiation and the Appearance of Negation",
+      "hash": "5771150f1be1",
+      "in_degree": 0,
+      "out_degree": 17,
+      "links_out": [
+        "observation-distinguishing-activity-and-the-open-ground-of-mind",
+        "you-wu-zhi-bian",
+        "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
+        "the-mark-and-the-act",
+        "present-contact-and-the-obscuration-of-desired-feeling",
+        "coordinates-in-flux-negation-and-self-anchoring",
+        "name-negation-tendency",
+        "the-geometry-of-coexistence-and-the-dual-cut",
+        "naval-separation-analysis",
+        "the-closed-n-and-the-open-reality",
+        "the-mirage-of-the-infinite-totality",
+        "objects-are-stabilized-relationships",
+        "closed-assumptions-squeeze-compounding-into-s-curves",
+        "the-boundary-crossing-of-choice",
+        "your-codebase-is-memory",
+        "selection-contradiction-and-open-reality",
+        "openness-is-consistency"
       ]
     },
     {
@@ -4422,7 +4452,7 @@
       "path": "content/posts/name-negation-tendency.md",
       "title": "名称背反倾向 / The Name-Negation Tendency",
       "hash": "c83ca7d9f4fa",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 4,
       "links_out": [
         "claudes-constitution-analysis",
@@ -4438,7 +4468,7 @@
       "path": "content/posts/naval-separation-analysis.md",
       "title": "分离不是病 / Separation Isn't the Disease",
       "hash": "31aba4991f14",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 8,
       "links_out": [
         "not-a-theory-of-everything",
@@ -4741,7 +4771,7 @@
       "path": "content/posts/objects-are-stabilized-relationships.md",
       "title": "对象是被稳定化的关系 / Objects Are Stabilized Relationships",
       "hash": "5c88afea080b",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 8,
       "links_out": [
         "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
@@ -4761,7 +4791,7 @@
       "path": "content/posts/observation-distinguishing-activity-and-the-open-ground-of-mind.md",
       "title": "观察、区分活动与心智的开放地基 / Observation, Distinguishing Activity, and the Open Ground of Mind",
       "hash": "e78f9a54eccc",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 16,
       "links_out": [
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
@@ -5004,7 +5034,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "开放即一致 / Openness Is Consistency",
       "hash": "de9e7ea03986",
-      "in_degree": 89,
+      "in_degree": 90,
       "out_degree": 90,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -5538,7 +5568,7 @@
       "path": "content/posts/present-contact-and-the-obscuration-of-desired-feeling.md",
       "title": "现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling",
       "hash": "92cddbf1056e",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 8,
       "links_out": [
         "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
@@ -5984,7 +6014,7 @@
       "path": "content/posts/selection-contradiction-and-open-reality.md",
       "title": "选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality",
       "hash": "1101972968c9",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 12,
       "links_out": [
         "abstraction-boundaries-and-the-moving-edge-of-reality",
@@ -6926,7 +6956,7 @@
       "path": "content/posts/the-boundary-crossing-of-choice.md",
       "title": "抉择的跨界 / The Boundary Crossing of Choice",
       "hash": "f23183dd7dd7",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 8,
       "links_out": [
         "the-freedom-of-will-to-deny-itself",
@@ -7270,7 +7300,7 @@
       "path": "content/posts/the-closed-n-and-the-open-reality.md",
       "title": "闭合的N与开放的现实 / The Closed N and the Open Reality",
       "hash": "ec2c3d7936cc",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 11,
       "links_out": [
         "the-category-error-of-better",
@@ -8395,7 +8425,7 @@
       "path": "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md",
       "title": "共存的几何学 / The Geometry of Coexistence",
       "hash": "e5d814b55e4d",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 5,
       "links_out": [
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
@@ -9335,7 +9365,7 @@
       "path": "content/posts/the-mark-and-the-act.md",
       "title": "印迹与行动 / The Mark and the Act",
       "hash": "8167eeddeeae",
-      "in_degree": 19,
+      "in_degree": 20,
       "out_degree": 18,
       "links_out": [
         "complexity-obscures-emergence-as-the-act-of-mind",
@@ -9451,7 +9481,7 @@
       "path": "content/posts/the-mirage-of-the-infinite-totality.md",
       "title": "无穷总体的海市蜃楼 / The Mirage of the Infinite Totality",
       "hash": "befa5078c345",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 7,
       "links_out": [
         "the-geometry-of-mind",
@@ -11989,7 +12019,7 @@
       "path": "content/posts/what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination.md",
       "title": "何谓形而上学？作为将追寻命名为目的的一刀 / What Is Metaphysics? As the Cut That Names the Seeking as Destination",
       "hash": "5d4b60d35ef9",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 12,
       "links_out": [
         "you-wu-zhi-bian",
@@ -12409,7 +12439,7 @@
       "path": "content/posts/you-wu-zhi-bian.md",
       "title": "有无之边 / The Edge of Being and Non-Being",
       "hash": "44d999fe6fb0",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 6,
       "links_out": [
         "zuo-jian-bu-shi-zi-fu",
@@ -12427,7 +12457,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "ea27ad8ecdfa",
-      "in_degree": 407,
+      "in_degree": 408,
       "out_degree": 14,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -25173,6 +25203,210 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "rel": "points_to",
+      "label": "观察、区分活动与心智的开放地基"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "observation-distinguishing-activity-and-the-open-ground-of-mind",
+      "rel": "points_to",
+      "label": "Observation, Distinguishing Activity, and the Open Ground of Mind"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "you-wu-zhi-bian",
+      "rel": "points_to",
+      "label": "有无之边"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
+      "rel": "points_to",
+      "label": "何谓形而上学？作为将追寻命名为目的的一刀"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "you-wu-zhi-bian",
+      "rel": "points_to",
+      "label": "The Edge of Being and Non-Being"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination",
+      "rel": "points_to",
+      "label": "What Is Metaphysics? As the Cut That Names the Seeking as Destination"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "the-mark-and-the-act",
+      "rel": "points_to",
+      "label": "印迹与行动"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "the-mark-and-the-act",
+      "rel": "points_to",
+      "label": "The Mark and the Act"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "present-contact-and-the-obscuration-of-desired-feeling",
+      "rel": "points_to",
+      "label": "现成接触的因果先验与期望感受的倒置遮蔽"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "coordinates-in-flux-negation-and-self-anchoring",
+      "rel": "points_to",
+      "label": "流动中的坐标"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "name-negation-tendency",
+      "rel": "points_to",
+      "label": "名称背反倾向"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "present-contact-and-the-obscuration-of-desired-feeling",
+      "rel": "points_to",
+      "label": "Present Contact as Causal Prior and the Obscuration of Desired Feeling"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "coordinates-in-flux-negation-and-self-anchoring",
+      "rel": "points_to",
+      "label": "Coordinates in Flux"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "name-negation-tendency",
+      "rel": "points_to",
+      "label": "The Name-Negation Tendency"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "the-geometry-of-coexistence-and-the-dual-cut",
+      "rel": "points_to",
+      "label": "共存的几何学"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "naval-separation-analysis",
+      "rel": "points_to",
+      "label": "分离不是病"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "the-geometry-of-coexistence-and-the-dual-cut",
+      "rel": "points_to",
+      "label": "The Geometry of Coexistence"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "naval-separation-analysis",
+      "rel": "points_to",
+      "label": "Separation Isn't the Disease"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "the-closed-n-and-the-open-reality",
+      "rel": "points_to",
+      "label": "闭合的N与开放的现实"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "the-mirage-of-the-infinite-totality",
+      "rel": "points_to",
+      "label": "无穷总体的海市蜃楼"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "the-closed-n-and-the-open-reality",
+      "rel": "points_to",
+      "label": "The Closed N and the Open Reality"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "the-mirage-of-the-infinite-totality",
+      "rel": "points_to",
+      "label": "The Mirage of the Infinite Totality"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "objects-are-stabilized-relationships",
+      "rel": "points_to",
+      "label": "对象是被稳定化的关系"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "objects-are-stabilized-relationships",
+      "rel": "points_to",
+      "label": "Objects Are Stabilized Relationships"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "rel": "points_to",
+      "label": "封闭的假设把复利挤成 S 曲线"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "closed-assumptions-squeeze-compounding-into-s-curves",
+      "rel": "points_to",
+      "label": "Closed Assumptions Squeeze Compounding into S-Curves"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "the-boundary-crossing-of-choice",
+      "rel": "points_to",
+      "label": "抉择的跨界"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "the-boundary-crossing-of-choice",
+      "rel": "points_to",
+      "label": "The Boundary Crossing of Choice"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "selection-contradiction-and-open-reality",
+      "rel": "points_to",
+      "label": "选择、矛盾与开放的现实"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "selection-contradiction-and-open-reality",
+      "rel": "points_to",
+      "label": "Selection, Contradiction, and Open Reality"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "dimensions-are-projections",
@@ -93934,8 +94168,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "a2f1e35cc0eb",
-        "out_degree": 442
+        "hash": "61ad86bfd8c7",
+        "out_degree": 443
       },
       {
         "id": "book:intelligence",
@@ -93988,8 +94222,8 @@
         "slug": "method",
         "path": "content/book/method.md",
         "title": "非万物之理 / Not a Theory of Everything",
-        "hash": "fcc04a32ce2f",
-        "out_degree": 28
+        "hash": "2f0a174477dc",
+        "out_degree": 29
       },
       {
         "id": "book:morality",
@@ -94775,6 +95009,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "differentiation-and-the-appearance-of-negation",
+        "rel": "collects",
+        "label": "区分活动与否定的显现 / Differentiation and the Appearance of Negation"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-reality-distortion-field-inverts-the-baseline",
         "rel": "collects",
         "label": "现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline"
@@ -94850,6 +95090,12 @@
         "to": "present-contact-and-the-obscuration-of-desired-feeling",
         "rel": "collects",
         "label": "现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "differentiation-and-the-appearance-of-negation",
+        "rel": "collects",
+        "label": "区分活动与否定的显现 / Differentiation and the Appearance of Negation"
       },
       {
         "from": "book:index-of-premises",
@@ -95069,6 +95315,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "differentiation-and-the-appearance-of-negation",
+        "rel": "collects",
+        "label": "区分活动与否定的显现 / Differentiation and the Appearance of Negation"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "objects-are-stabilized-relationships",
         "rel": "collects",
         "label": "对象是被稳定化的关系 / Objects Are Stabilized Relationships"
@@ -95090,6 +95342,12 @@
         "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
         "rel": "collects",
         "label": "涌现的伪因果 / The Pseudo-Causality of Emergence"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "differentiation-and-the-appearance-of-negation",
+        "rel": "collects",
+        "label": "区分活动与否定的显现 / Differentiation and the Appearance of Negation"
       },
       {
         "from": "book:index-of-premises",
@@ -95222,6 +95480,12 @@
         "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
         "rel": "collects",
         "label": "论关于 P 与 NP 所能言说的边界 / On the Boundaries of What Can Be Said about P and NP"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "differentiation-and-the-appearance-of-negation",
+        "rel": "collects",
+        "label": "区分活动与否定的显现 / Differentiation and the Appearance of Negation"
       },
       {
         "from": "book:index-of-premises",
@@ -95378,6 +95642,12 @@
         "to": "the-shadow-and-the-infinite",
         "rel": "collects",
         "label": "阴影与无限 / The Shadow and the Infinite"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "differentiation-and-the-appearance-of-negation",
+        "rel": "collects",
+        "label": "区分活动与否定的显现 / Differentiation and the Appearance of Negation"
       },
       {
         "from": "book:index-of-premises",
@@ -97094,6 +97364,12 @@
         "to": "mei-you-pu-du-zhi-you-zi-du",
         "rel": "collects",
         "label": "没有普渡，只有自渡的无限可能 / No Universal Salvation, Only Boundless Possibilities of Self-Salvation"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "differentiation-and-the-appearance-of-negation",
+        "rel": "collects",
+        "label": "区分活动与否定的显现 / Differentiation and the Appearance of Negation"
       },
       {
         "from": "book:index-of-premises",
@@ -101510,6 +101786,12 @@
         "to": "precision-and-resolution",
         "rel": "collects",
         "label": "精度与分辨率 / Precision and Resolution"
+      },
+      {
+        "from": "book:method",
+        "to": "differentiation-and-the-appearance-of-negation",
+        "rel": "collects",
+        "label": "区分活动与否定的显现 / Differentiation and the Appearance of Negation"
       },
       {
         "from": "book:morality",

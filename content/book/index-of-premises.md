@@ -107,6 +107,15 @@ Rand defends rational self-interest and the productive prime mover against colle
 
 → [隐秘的上帝之眼 / The Invisible God's Eye](../../posts/the-invisible-gods-eye/)
 
+### 巴鲁赫·斯宾诺莎 / Baruch Spinoza
+`哲学 / Philosophical`
+
+斯宾诺莎的一元论主张有限物体与样态是唯一无限实体内部的有界限定——他在第 50 号信中针对有限形状写下“规定即否定”（determinatio negatio est），同时把无限实体自身持为肯定的——在消解笛卡尔二元实体论并阐明局部边界如何依赖更宽广场域时有用；当它把无限实体设定为已完结、决定论式的形而上学充盈整体，使有限个体性在其映衬下登记为存在的阙失而非开放现实中发起行动的第一人称切分时，便到达了边界。
+
+Spinoza's monism holds that finite bodies and modes are bounded limitations within one infinite substance—writing in Letter 50 that determination is negation (determinatio negatio est) for finite figure while treating infinite substance itself as affirmative—which is of use in dissolving Cartesian two-substance dualism and showing how local boundaries depend on a wider field; it reaches its boundary in positing infinite substance as a completed, deterministic metaphysical plenum against which finite individuality registers as a privation of being rather than an initiating first-person cut in an open reality.
+
+→ [区分活动与否定的显现 / Differentiation and the Appearance of Negation](../../posts/differentiation-and-the-appearance-of-negation/)
+
 ### 本华·曼德博 / Benoit Mandelbrot
 `数学 / Mathematical`
 
@@ -191,11 +200,11 @@ Dennett posited competence without comprehension in evolution and machines; illu
 ### 丹尼尔·韦格纳 / Daniel Wegner
 `科学 / Scientific`
 
-韦格纳的讽刺性加工理论刻画了意向性的心理压抑如何调动自动搜寻进程并在认知负荷下反而放大所排斥的状态，在解释强求的感受与强迫性的思绪控制为何适得其反时有用；一旦把实验中的控制受挫外推为有意识意志本身只是副现象，而非认出按指令强索情绪本是一道错位的第一人称切分，该理论便到达了边界。
+韦格纳的讽刺性加工理论刻画了意向性的心理压抑如何调动自动监控搜寻进程，在工作记忆中持续重描被禁目标并在认知负荷下反而将其放大，在解释巡守常设排斥、强求的感受与强迫性的思绪控制为何适得其反时有用；一旦把实验中的控制受挫外推为有意识意志本身只是副现象，而非认出按指令强索情绪或维系封闭排斥本是一道错位的第一人称切分，该理论便到达了边界。
 
-Wegner's ironic process theory models how intentional mental suppression recruits an automatic monitoring search that amplifies the unwanted state under cognitive load, which is of use in explaining why commanded feelings and forced thought-control backfire; it reaches its boundary when experimental control failure is extrapolated into the claim that conscious will itself is epiphenomenal rather than recognizing that demanding an affect on cue is a misplaced first-person cut.
+Wegner's ironic process theory models how intentional mental suppression recruits an automatic monitoring search that continually re-traces the forbidden target in working memory and amplifies it under cognitive load, which is of use in explaining why policing a standing exclusion, commanded feelings, and forced thought-control backfire; it reaches its boundary when experimental control failure is extrapolated into the claim that conscious will itself is epiphenomenal rather than recognizing that demanding an affect on cue or maintaining a closed exclusion is a misplaced first-person cut.
 
-→ [现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling](../../posts/present-contact-and-the-obscuration-of-desired-feeling/)
+→ [现成接触的因果先验与期望感受的倒置遮蔽 / Present Contact as Causal Prior and the Obscuration of Desired Feeling](../../posts/present-contact-and-the-obscuration-of-desired-feeling/) · [区分活动与否定的显现 / Differentiation and the Appearance of Negation](../../posts/differentiation-and-the-appearance-of-negation/)
 
 ### 达里奥·阿莫迪 / Dario Amodei
 `技术 / Technological`
@@ -341,6 +350,15 @@ Ryle placed mind in dispositions to behave observable from outside, to exorcise 
 
 → [无法闭合的痕迹 / The Unclosable Trace](../../posts/the-unclosable-trace/)
 
+### 格奥尔格·威廉·弗里德里希·黑格尔 / G. W. F. Hegel
+`哲学 / Philosophical`
+
+黑格尔把规定普遍化为“一切规定皆是否定”（omnis determinatio est negatio）的格言，并将确定的否定（bestimmte Negation）铸为取消先前环节又将其保存下来的扬弃运动（Aufhebung），在追踪局促的概念框架如何在内部张力下碎裂并把早先区分带入更宽框架时有用；其辩证法把每一个被否定环节都收容进自我闭合的“圆圈的圆圈”之内，错将密封总体中对排斥的事后重描当作现实自主运转的引擎，在此到达了边界。
+
+Hegel universalizes determination into the maxim that all determination is negation (omnis determinatio est negatio) and casts determinate negation (bestimmte Negation) as a sublating movement (Aufhebung) that cancels while preserving prior moments, which is of use in tracking how cramped conceptual frames fracture under internal strain and carry earlier distinctions into wider ones; his dialectic reaches its boundary in housing every negated moment inside a self-closing circle of circles, mistaking the retrospective re-tracing of exclusions inside a sealed totality for an autonomous engine of reality.
+
+→ [区分活动与否定的显现 / Differentiation and the Appearance of Negation](../../posts/differentiation-and-the-appearance-of-negation/)
+
 ### 吉尔·德勒兹 / Gilles Deleuze
 `哲学 / Philosophical`
 
@@ -367,6 +385,15 @@ Leibniz formulated the indiscernibility of identicals and the identity of indisc
 In Eichmann in Jerusalem, Arendt described with the "banality of evil" how unthinking people take part in great evil, without relieving Eichmann of responsibility, a description of use; read in popular usage as assigning wrongdoing to the system's cogs, it reaches its boundary, since no cog turns by itself and each wrong called banal is a choice a particular person makes in the present.
 
 → [涌现的伪因果 / The Pseudo-Causality of Emergence](../../posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/)
+
+### 亨利·柏格森 / Henri Bergson
+`哲学 / Philosophical`
+
+柏格森在《创造进化论》中对否定的分析表明，思考“非 A”是在表征 A 之上再叠加第二道排斥操作，以对着被整块看待的现实校正某项预期，在消解空无一物的伪问题并揭示否定的教化与社会功能时有用；一旦把离散的概念划界本身当作空间化的扭曲而同活态绵延对立起来，而非认出它是活的心智借以登记现实的原初操作，其论述便到达了边界。
+
+Bergson's analysis of negation in Creative Evolution demonstrates that thinking 'not-A' adds a second exclusionary operation atop representing A in order to correct an expectation against reality taken as a block, which is of use in dissolving pseudo-problems of sheer nothingness and exposing negation's pedagogical and social role; his account reaches its boundary when discrete conceptual bounding itself is opposed to lived duration as a spatializing distortion rather than recognized as the primary operation through which a living Mind registers reality.
+
+→ [区分活动与否定的显现 / Differentiation and the Appearance of Negation](../../posts/differentiation-and-the-appearance-of-negation/)
 
 ### 让-雅克·卢梭 / Jean-Jacques Rousseau
 `哲学 / Philosophical`
@@ -484,6 +511,15 @@ Kelly's network economics holds that as digital reproduction drives marginal cop
 Gödel takes as his premise a consistent, effectively axiomatized formal hold strong enough to encode basic arithmetic, which is useful for stating with exactness what such a hold cannot derive from within about its own sentences and consistency; it reaches its boundary when "truth beyond proof" is read as truth held from nowhere rather than as a truth value that registers only under an intended standard model posited in the metatheory.
 
 → [没有系统能被保持封闭 / No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/) · [进位无法在寄存器之内被命名 / The Carry That Cannot Be Named Inside the Register](../../posts/the-carry-that-cannot-be-named-inside-the-register/) · [论关于 P 与 NP 所能言说的边界 / On the Boundaries of What Can Be Said about P and NP](../../posts/on-the-boundaries-of-what-can-be-said-about-p-and-np/)
+
+### 鲁伊兹·布劳威尔 / L. E. J. Brouwer
+`数学 / Mathematical`
+
+布劳威尔的直觉主义借由选择序列阐明，经典排中律（P ∨ ¬P）与双重否定消去律（¬¬P → P）预设了已完成的有限集合，若不额外强加闭包算子便在尚未完结的地平线上失效，在将有限而开放过程中的验证加以形式化时有用；当数学构造被撤回私密的、无语言的内在直觉之中，脱离了共享的符号与物理摩擦时，其纲领便到达了边界。
+
+Brouwer's intuitionism shows through choice sequences that classical excluded middle (P ∨ ¬P) and double-negation elimination (¬¬P → P) presuppose a completed finite collection and fail across unfinished horizons without an added closure operator, which is of use in formalizing verification across finite-yet-open processes; his program reaches its boundary when mathematical construction is withdrawn into a private, language-free inner intuition detached from shared symbolic and physical friction.
+
+→ [区分活动与否定的显现 / Differentiation and the Appearance of Negation](../../posts/differentiation-and-the-appearance-of-negation/)
 
 ### 老子 / Laozi
 `哲学 / Philosophical`
@@ -614,11 +650,11 @@ Spencer-Brown's Laws of Form grounds formal structure in the primordial injuncti
 ### 柏拉图 / Plato
 `哲学 / Philosophical`
 
-柏拉图的洞穴寓言描绘囚徒把投射在石壁上的阴影当成实在本身、争相角逐预测掠过剪影的荣誉，在揭示争执如何执着于压缩投影而非开放场域时有用；该寓言把石壁安放在共享的第三人称洞穴之内、又在洞外设定静态永恒的“理型”，在此到达了边界，因为屏幕与阴影皆生于每个心智自身的参照系之内，而未经投射的场域是持续展开的正交区分，并非已完成的理型王国。
+柏拉图的洞穴寓言描绘囚徒把投射在石壁上的阴影当成实在本身，其《智者篇》则将非是者（to mē on）解析为关系性的相异（heteron）而非两极对立的湮灭，在揭示争执如何执着于压缩投影、以及将非同一与空无一物区分开来时有用；这两种论述把石壁安放在共享的第三人称洞穴之内、又将关系性差异收容于永恒且已完成的静态理型（eidē）清单之中，在此一并到达了边界，因为屏幕、阴影与差异皆生于每个心智持续展开的正交区分，而非预先给定的理型王国。
 
-Plato's Allegory of the Cave depicts prisoners mistaking projected shadows on a stone wall for reality itself and contesting honors over predicting passing silhouettes, which is of use in exposing how contention fixates on compressed projections rather than the open field; the allegory reaches its boundary in placing the wall inside a shared third-person cave and positing static eternal Forms outside it, whereas both screen and shadow arise inside each mind's own reference frame and the unprojected field is ongoing orthogonal distinguishing rather than a completed realm of Forms.
+Plato's Allegory of the Cave depicts prisoners mistaking projected shadows on a stone wall for reality itself while his Sophist resolves non-being (to mē on) as relational difference (heteron) rather than polar annihilation, which is of use in exposing how contention fixates on compressed projections and in separating non-identity from sheer nothingness; both accounts reach their boundary in situating the wall inside a shared third-person cave and housing relational difference inside an eternal, completed inventory of static Forms (eidē), whereas screen, shadow, and difference arise through each Mind's ongoing orthogonal distinguishing rather than a pre-given realm of Forms.
 
-→ [阴影与无限 / The Shadow and the Infinite](../../posts/the-shadow-and-the-infinite/)
+→ [阴影与无限 / The Shadow and the Infinite](../../posts/the-shadow-and-the-infinite/) · [区分活动与否定的显现 / Differentiation and the Appearance of Negation](../../posts/differentiation-and-the-appearance-of-negation/)
 
 ### 瑞·达利欧 / Ray Dalio
 `成功学 / Self-Help`
@@ -2018,6 +2054,15 @@ Big data omniscience presumes that once enough data is gathered, intelligence an
 The Bodhisattva vow presumes deferring personal liberation until all beings are saved; useful for cultivating boundless compassion, it reifies an external world of others.
 
 → [没有普渡，只有自渡的无限可能 / No Universal Salvation, Only Boundless Possibilities of Self-Salvation](../../posts/mei-you-pu-du-zhi-you-zi-du/)
+
+### 布尔补集 / Boolean Complementation
+`数学 / Mathematical`
+
+布尔补集通过切分预先指定的论域 U 来定义否定（Aᶜ = U \ A），使集合及其补集不留余地地穷尽顶元，在数字逻辑门、有限概率空间与有界数据库模式中有用；一旦将其投射到缺乏已完成全域容器的开放现实之上，无限制补集便坍缩为悖论，并让位于暂时工作集内部的局部相对差集（B \ A），在此到达了边界。
+
+Boolean complementation defines negation (Aᶜ = U \ A) by partitioning a pre-assigned Universe of Discourse U so that a set and its complement exhaust the top element without remainder, which is of use across digital logic gates, finite probability spaces, and bounded database schemas; it reaches its boundary when projected onto an open reality that lacks a completed universal container, where unrestricted complementation collapses into paradox and gives way to local relative difference (B \ A) inside provisional working sets.
+
+→ [区分活动与否定的显现 / Differentiation and the Appearance of Negation](../../posts/differentiation-and-the-appearance-of-negation/)
 
 ### 未历摩擦的心智与借来的全能 / Borrowed Omnipotence without Friction
 `成功学 / Self-Help`
