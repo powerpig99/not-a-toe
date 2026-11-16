@@ -46,3 +46,4 @@ The essays in this part explore illegible long-term compounding, how a closed ma
 - [未历摩擦的心智与借来的全能 / The Unfrictioned Mind and Borrowed Omnipotence](../../posts/the-unfrictioned-mind-and-borrowed-omnipotence/)
 - [隐性自由变量与权力的事后幻相 / The Invisible Free Variable and the Retrospective Illusion of Power](../../posts/the-free-variable-and-the-retrospective-illusion-of-power/)
 - [幸福是欲望与状态的关系 / Happiness Is the Relation of Desire to State](../../posts/happiness-is-the-relation-of-desire-to-state/)
+- [封闭框定与选择权的缩减 / Closed Framing and the Reduction of Optionality](../../posts/closed-framing-and-the-reduction-of-optionality/)

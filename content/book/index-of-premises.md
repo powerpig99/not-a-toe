@@ -1160,7 +1160,7 @@ Gödel proves that any consistent, effectively axiomatized formal system strong 
 
 The growth mindset holds that ability grows through effort rather than being a fixed endowment; it reaches its boundary when used as an after-the-fact label for those ahead and a way of ranking others, since outcomes also hold what fell to someone, while as an orientation that refuses to treat the present position as a conserved, closed box it stays useful.
 
-→ [可延展的地平线 / The Extendable Horizon](../../posts/the-extendable-horizon/)
+→ [可延展的地平线 / The Extendable Horizon](../../posts/the-extendable-horizon/) · [封闭框定与选择权的缩减 / Closed Framing and the Reduction of Optionality](../../posts/closed-framing-and-the-reduction-of-optionality/)
 
 ### 哈耶克价格机制 / Hayekian Price Mechanism
 `经济 / Economic`
@@ -4224,6 +4224,15 @@ Selective immigration presumes that a filter which reads source-country outcomes
 
 → [卓异、感知与自我设限的问题场域 / Exceptionality, Perception, and the Self-Limiting Field of Problems](../../posts/exceptionality-perception-and-the-self-limiting-field-of-problems/)
 
+### 自我实现的预言 / Self-Fulfilling Prophecy
+`科学 / Scientific`
+
+罗伯特·默顿在威廉·托马斯“情境定义”之上提出的自我实现的预言预设，对情境的初始错误设想会唤起相应行为，使后果令该设想成真，这在追踪解释边界如何组织具体行动、并由下游记录印证起始前提时有用；它在此到了边界：它设定了一条独立于观察者的基线，据以判定初始定义在行动之前客观上为假，而封闭框定与开放框定无需外部测量便作用于同一组有限起始条件，二者的分岔在于心智是把力气花在记录封闭上，还是继续在条件之内作出区分。
+
+The self-fulfilling prophecy, formulated by Robert K. Merton on W. I. Thomas's definition of the situation, presumes that an initially false conception of a situation evokes behavior whose consequences make that conception come true, which is of use in tracking how an interpretive boundary organizes concrete actions whose downstream record confirms the starting premise; it reaches its boundary in positing an observer-independent baseline against which the initial definition is objectively false prior to action, whereas closed and open framings operate on the same finite starting conditions without outside measurement, diverging by whether the Mind spends effort documenting closure or continuing to distinguish within them.
+
+→ [封闭框定与选择权的缩减 / Closed Framing and the Reduction of Optionality](../../posts/closed-framing-and-the-reduction-of-optionality/)
+
 ### 自我提升读物 / Self-Help Literature
 `成功学 / Self-Help`
 
@@ -4537,7 +4546,7 @@ Activism assumes patterns like regulations hold independent causal power, which 
 
 Taking talent, circumstance, opportunity or systems as destiny is of use in gauging where a path starts and how hard it is; it reaches its boundary in that these are only conditions, to be used, bypassed, waited out or even created, and once raised to decisive causes they become an insurmountable fate, while the lever stays in how what happens is interpreted and what is chosen now on that basis.
 
-→ [外部归因是个人进步的障碍 / External Attribution Is the Obstacle to Personal Growth](../../posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/) · [翻袋球与魔术戏法 / The Bank Shot and the Magic Trick](../../posts/the-bank-shot-and-the-magic-trick/) · [好奇先行 / Curiosity First](../../posts/curiosity-first-the-hidden-engine-of-talent-and-development/)
+→ [外部归因是个人进步的障碍 / External Attribution Is the Obstacle to Personal Growth](../../posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/) · [翻袋球与魔术戏法 / The Bank Shot and the Magic Trick](../../posts/the-bank-shot-and-the-magic-trick/) · [好奇先行 / Curiosity First](../../posts/curiosity-first-the-hidden-engine-of-talent-and-development/) · [封闭框定与选择权的缩减 / Closed Framing and the Reduction of Optionality](../../posts/closed-framing-and-the-reduction-of-optionality/)
 
 ### 专家治国论权威 / Technocratic Expert Authority
 `哲学 / Philosophical`
