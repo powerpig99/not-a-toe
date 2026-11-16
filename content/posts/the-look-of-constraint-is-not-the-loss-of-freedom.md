@@ -32,7 +32,7 @@ Under this continuous recapture the broad middle of the adult population looks q
 
 ## 三、 能动性指向哪里 / 3. Where Agency Is Pointed
 
-被回收进一个公共盆地，并不毁掉、耗尽或减少心智区分的能力。人生中一个已实现的位置，可以用作两种不同的东西：一种是发射台，当下的坐标只是下一次新区分投向敞开地平线的平台；另一种是被保存的参照与天花板，当下的坐标被抬成一条规定什么可以被区分的边界。这是同一份能力的两个方向。
+被回收进一个公共盆地，并不毁掉、耗尽或减少心智区分的能力。人生中一个已实现的位置，可以用作两种不同的东西：一种是发射台，当下的坐标只是下一次新区分投向敞开地平线的平台；另一种是被保存的参照与天花板，当下的坐标被抬成一条规定什么可以被区分的边界，如[封闭框定与选择权的缩减](../closed-framing-and-the-reduction-of-optionality/)所追溯，使选择权随之收缩。这是同一份能力的两个方向。
 
 ```mermaid
 flowchart TD
@@ -61,7 +61,7 @@ flowchart TD
     style B2 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-Recapture into a common basin does not destroy, exhaust or diminish the Mind's capacity to distinguish. A realised position in life can serve as one of two things: a launchpad, where the present coordinate is only the platform from which the next fresh distinction is cast into the open horizon; or a preserved reference and ceiling, where the present coordinate is raised into a boundary that dictates what may be distinguished. These are two directions of the same capacity.
+Recapture into a common basin does not destroy, exhaust or diminish the Mind's capacity to distinguish. A realised position in life can serve as one of two things: a launchpad, where the present coordinate is only the platform from which the next fresh distinction is cast into the open horizon; or a preserved reference and ceiling, where the present coordinate is raised into a boundary that dictates what may be distinguished, contracting optionality as traced in [Closed Framing and the Reduction of Optionality](../closed-framing-and-the-reduction-of-optionality/). These are two directions of the same capacity.
 
 ```mermaid
 flowchart TD

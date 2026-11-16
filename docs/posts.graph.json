@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-16T07:58:40.583Z",
+    "generated_at": "2026-11-16T14:23:15.248Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -71,7 +71,7 @@
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "1629b8d67b12",
       "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "f146489c346f",
       "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "53c91884d044",
-      "content/posts/differentiation-and-the-appearance-of-negation.md": "5771150f1be1",
+      "content/posts/differentiation-and-the-appearance-of-negation.md": "c6702a36c75e",
       "content/posts/dimensions-are-projections.md": "dd78fc90ba94",
       "content/posts/distillation-compression-agency.md": "8be4ecf97ac2",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "b64fa4420bd4",
@@ -108,7 +108,7 @@
       "content/posts/guidance-is-not-ownership.md": "4bd9a73e2d08",
       "content/posts/handing-off-residue.md": "54641f5f6655",
       "content/posts/happiness-is-the-relation-of-desire-to-state.md": "cb2d29e8cb0d",
-      "content/posts/hardness-is-not-inherent-in-the-action.md": "792b74a81ed5",
+      "content/posts/hardness-is-not-inherent-in-the-action.md": "e941416bc90e",
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "e145bfea5ec3",
       "content/posts/hassabis-einstein-test.md": "a19b4afc58f5",
       "content/posts/hassabis-frontier-agi-premise.md": "541fc0653aa1",
@@ -268,7 +268,7 @@
       "content/posts/the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern.md": "14eea56f6141",
       "content/posts/the-dual-cut.md": "df8dbcf83218",
       "content/posts/the-explanatory-trap-of-the-ordinary-perspective.md": "3d257b603889",
-      "content/posts/the-extendable-horizon.md": "f5b2880f254c",
+      "content/posts/the-extendable-horizon.md": "b2ada327f796",
       "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md": "7915aadc533b",
       "content/posts/the-fallacy-of-post-success-parenting.md": "a0bdd1ab093d",
       "content/posts/the-fermi-paradox-reified-agency-and-the-great-filter.md": "204ffca3c19c",
@@ -324,7 +324,7 @@
       "content/posts/the-limitation-is-doing-work.md": "bdf4b71e4176",
       "content/posts/the-living-context.md": "007b6786593c",
       "content/posts/the-local-trap-of-technological-change.md": "90573245bd77",
-      "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "de2035120bb7",
+      "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "a4b2df46f59c",
       "content/posts/the-loop-accelerates.md": "60608a02a0ed",
       "content/posts/the-loop-that-cant-see-itself.md": "b9a6ed83a832",
       "content/posts/the-maintenance-paradox.md": "1d92c151aa07",
@@ -422,7 +422,7 @@
       "content/posts/trusting-the-reader-is-the-last-overstep.md": "797834a2a35a",
       "content/posts/two-failures-of-trace.md": "3ac21a2fda4a",
       "content/posts/two-phase-sleep-and-deep-sleep-continual-learning.md": "6ce604fb8a71",
-      "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "6118e1876156",
+      "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "fe621a27cbe8",
       "content/posts/war-revolution-and-the-fall-of-empires.md": "964c92de37bd",
       "content/posts/what-always-listens-cannot-originate.md": "ba33a730c065",
       "content/posts/what-cannot-be-kept.md": "71103f772ff6",
@@ -471,10 +471,10 @@
     },
     "stats": {
       "posts": 444,
-      "edges": 13624,
-      "unique_directed": 6695,
+      "edges": 13634,
+      "unique_directed": 6700,
       "missing_targets": 0,
-      "one_way": 1373,
+      "one_way": 1368,
       "isolated": 0,
       "posts_with_outbound": 444,
       "book_pages": 16,
@@ -1812,7 +1812,7 @@
       "path": "content/posts/closed-framing-and-the-reduction-of-optionality.md",
       "title": "封闭框定与选择权的缩减 / Closed Framing and the Reduction of Optionality",
       "hash": "ec49869d75c7",
-      "in_degree": 0,
+      "in_degree": 5,
       "out_degree": 15,
       "links_out": [
         "differentiation-and-the-appearance-of-negation",
@@ -2458,9 +2458,9 @@
       "slug": "differentiation-and-the-appearance-of-negation",
       "path": "content/posts/differentiation-and-the-appearance-of-negation.md",
       "title": "区分活动与否定的显现 / Differentiation and the Appearance of Negation",
-      "hash": "5771150f1be1",
+      "hash": "c6702a36c75e",
       "in_degree": 7,
-      "out_degree": 17,
+      "out_degree": 18,
       "links_out": [
         "observation-distinguishing-activity-and-the-open-ground-of-mind",
         "you-wu-zhi-bian",
@@ -2474,6 +2474,7 @@
         "the-closed-n-and-the-open-reality",
         "the-mirage-of-the-infinite-totality",
         "objects-are-stabilized-relationships",
+        "closed-framing-and-the-reduction-of-optionality",
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "the-boundary-crossing-of-choice",
         "your-codebase-is-memory",
@@ -3383,11 +3384,12 @@
       "slug": "hardness-is-not-inherent-in-the-action",
       "path": "content/posts/hardness-is-not-inherent-in-the-action.md",
       "title": "难度不在行动本身 / Hardness Is Not Inherent in the Action",
-      "hash": "792b74a81ed5",
+      "hash": "e941416bc90e",
       "in_degree": 7,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "how-belief-actually-changes",
+        "closed-framing-and-the-reduction-of-optionality",
         "failure-as-information",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "individual-choices-as-the-only-causal-levers",
@@ -7937,11 +7939,12 @@
       "slug": "the-extendable-horizon",
       "path": "content/posts/the-extendable-horizon.md",
       "title": "可延展的地平线 / The Extendable Horizon",
-      "hash": "f5b2880f254c",
+      "hash": "b2ada327f796",
       "in_degree": 15,
-      "out_degree": 17,
+      "out_degree": 18,
       "links_out": [
         "the-arithmetic-of-the-register",
+        "closed-framing-and-the-reduction-of-optionality",
         "the-deterministic-machine",
         "the-geometry-of-mind",
         "the-only-coherent-uncaused-effect",
@@ -9302,11 +9305,12 @@
       "slug": "the-look-of-constraint-is-not-the-loss-of-freedom",
       "path": "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md",
       "title": "约束的样子不是自由的失去 / The Look of Constraint Is Not the Loss of Freedom",
-      "hash": "de2035120bb7",
+      "hash": "a4b2df46f59c",
       "in_degree": 6,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "the-bank-shot-and-the-magic-trick",
+        "closed-framing-and-the-reduction-of-optionality",
         "agency-contradiction-and-the-relocation-of-power",
         "the-average-is-residue-not-the-engine",
         "the-fallacy-of-post-success-parenting",
@@ -11869,14 +11873,15 @@
       "slug": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "path": "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md",
       "title": "外部归因是个人进步的障碍 / External Attribution Is the Obstacle to Personal Growth",
-      "hash": "6118e1876156",
+      "hash": "fe621a27cbe8",
       "in_degree": 16,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
         "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
         "your-codebase-is-memory",
         "guan-yu-gui-yin",
+        "closed-framing-and-the-reduction-of-optionality",
         "emotional-support-as-causal-interference",
         "when-the-effect-authors-the-frame",
         "the-average-is-residue-not-the-engine",
@@ -25576,9 +25581,21 @@
     },
     {
       "from": "differentiation-and-the-appearance-of-negation",
+      "to": "closed-framing-and-the-reduction-of-optionality",
+      "rel": "points_to",
+      "label": "封闭框定与选择权的缩减"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
       "to": "closed-assumptions-squeeze-compounding-into-s-curves",
       "rel": "points_to",
       "label": "封闭的假设把复利挤成 S 曲线"
+    },
+    {
+      "from": "differentiation-and-the-appearance-of-negation",
+      "to": "closed-framing-and-the-reduction-of-optionality",
+      "rel": "points_to",
+      "label": "Closed Framing and the Reduction of Optionality"
     },
     {
       "from": "differentiation-and-the-appearance-of-negation",
@@ -31252,9 +31269,21 @@
     },
     {
       "from": "hardness-is-not-inherent-in-the-action",
+      "to": "closed-framing-and-the-reduction-of-optionality",
+      "rel": "points_to",
+      "label": "封闭框定与选择权的缩减"
+    },
+    {
+      "from": "hardness-is-not-inherent-in-the-action",
       "to": "failure-as-information",
       "rel": "points_to",
       "label": "失败即信息"
+    },
+    {
+      "from": "hardness-is-not-inherent-in-the-action",
+      "to": "closed-framing-and-the-reduction-of-optionality",
+      "rel": "points_to",
+      "label": "Closed Framing and the Reduction of Optionality"
     },
     {
       "from": "hardness-is-not-inherent-in-the-action",
@@ -62656,6 +62685,12 @@
     },
     {
       "from": "the-extendable-horizon",
+      "to": "closed-framing-and-the-reduction-of-optionality",
+      "rel": "points_to",
+      "label": "封闭框定与选择权的缩减"
+    },
+    {
+      "from": "the-extendable-horizon",
       "to": "the-deterministic-machine",
       "rel": "points_to",
       "label": "决定论机器"
@@ -62665,6 +62700,12 @@
       "to": "the-geometry-of-mind",
       "rel": "points_to",
       "label": "心智的几何学"
+    },
+    {
+      "from": "the-extendable-horizon",
+      "to": "closed-framing-and-the-reduction-of-optionality",
+      "rel": "points_to",
+      "label": "Closed Framing and the Reduction of Optionality"
     },
     {
       "from": "the-extendable-horizon",
@@ -71221,6 +71262,18 @@
       "to": "the-bank-shot-and-the-magic-trick",
       "rel": "points_to",
       "label": "The Bank Shot and the Magic Trick"
+    },
+    {
+      "from": "the-look-of-constraint-is-not-the-loss-of-freedom",
+      "to": "closed-framing-and-the-reduction-of-optionality",
+      "rel": "points_to",
+      "label": "封闭框定与选择权的缩减"
+    },
+    {
+      "from": "the-look-of-constraint-is-not-the-loss-of-freedom",
+      "to": "closed-framing-and-the-reduction-of-optionality",
+      "rel": "points_to",
+      "label": "Closed Framing and the Reduction of Optionality"
     },
     {
       "from": "the-look-of-constraint-is-not-the-loss-of-freedom",
@@ -89020,6 +89073,12 @@
     },
     {
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "to": "closed-framing-and-the-reduction-of-optionality",
+      "rel": "points_to",
+      "label": "封闭框定与选择权的缩减"
+    },
+    {
+      "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual Choices as the Only Causal Levers"
@@ -89041,6 +89100,12 @@
       "to": "guan-yu-gui-yin",
       "rel": "points_to",
       "label": "On Attribution"
+    },
+    {
+      "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
+      "to": "closed-framing-and-the-reduction-of-optionality",
+      "rel": "points_to",
+      "label": "Closed Framing and the Reduction of Optionality"
     },
     {
       "from": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
