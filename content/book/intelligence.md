@@ -77,3 +77,4 @@ The essays in this part trace the category boundaries of the Turing and Einstein
 - [观察中的智能与残余间隙 / Intelligence in Observation and the Residual Gap](../../posts/intelligence-in-observation-and-the-residual-gap/)
 - [清洁的平均与残余的抉择 / Clean Averaging and Residual Choice](../../posts/clean-averaging-and-residual-choice/)
 - [限制即自我限制 / Every Limitation Is Self-Limitation](../../posts/every-limitation-is-self-limitation/)
+- [终极错问与实践萦绕 / Eternally Wrong Questions That Haunt Practice](../../posts/eternally-wrong-questions-that-haunt-practice/)

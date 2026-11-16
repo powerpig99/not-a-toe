@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-16T14:23:15.248Z",
+    "generated_at": "2026-11-16T21:52:31.504Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -82,6 +82,7 @@
       "content/posts/empathy-as-projection-collapse.md": "5cbf1eab5d16",
       "content/posts/empowerment-establishes-the-centralization-of-power.md": "c97a16c2e44b",
       "content/posts/escaping-the-sandbox-stays-inside-the-hold.md": "1cb221a85738",
+      "content/posts/eternally-wrong-questions-that-haunt-practice.md": "f9a9eafe79cd",
       "content/posts/every-limitation-is-self-limitation.md": "b32af09836ce",
       "content/posts/everything-is-changing-as-always.md": "ef77f674af21",
       "content/posts/evil-as-projected-resistance.md": "c84026a0d2e2",
@@ -455,8 +456,8 @@
       "content/book/causality.md": "d2de779193c1",
       "content/book/consciousness.md": "5fd937c16807",
       "content/book/economics.md": "4f4f531791d1",
-      "content/book/index-of-premises.md": "9cc9c0e76952",
-      "content/book/intelligence.md": "b49084869c8a",
+      "content/book/index-of-premises.md": "a14973ec7611",
+      "content/book/intelligence.md": "20d575920ac7",
       "content/book/knowledge-and-learning.md": "60b558ba8715",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
       "content/book/mathematics.md": "8f6d273c0db8",
@@ -470,16 +471,16 @@
       "content/book/tools-and-progress.md": "0d170609c508"
     },
     "stats": {
-      "posts": 444,
-      "edges": 13634,
-      "unique_directed": 6700,
+      "posts": 445,
+      "edges": 13654,
+      "unique_directed": 6710,
       "missing_targets": 0,
-      "one_way": 1368,
+      "one_way": 1378,
       "isolated": 0,
-      "posts_with_outbound": 444,
+      "posts_with_outbound": 445,
       "book_pages": 16,
-      "book_edges": 1424,
-      "posts_reached_by_book": 444
+      "book_edges": 1430,
+      "posts_reached_by_book": 445
     }
   },
   "hubs_in": [
@@ -489,7 +490,7 @@
     },
     {
       "slug": "beyond-the-projection",
-      "in_degree": 210
+      "in_degree": 211
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
@@ -501,7 +502,7 @@
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
-      "in_degree": 89
+      "in_degree": 90
     },
     {
       "slug": "the-scaffolding-we-forget",
@@ -548,15 +549,15 @@
       "in_degree": 40
     },
     {
+      "slug": "closed-reality-in-benchmark-maxing",
+      "in_degree": 38
+    },
+    {
       "slug": "the-reversal-of-verification",
       "in_degree": 38
     },
     {
       "slug": "causality-all-the-way",
-      "in_degree": 37
-    },
-    {
-      "slug": "closed-reality-in-benchmark-maxing",
       "in_degree": 37
     },
     {
@@ -1056,7 +1057,7 @@
       "path": "content/posts/agi-and-asi-are-temporary-goalposts.md",
       "title": "AGI 与 ASI 是加速通用智能的暂时球门 / AGI and ASI Are Temporary Goalposts",
       "hash": "bf850aa9b898",
-      "in_degree": 29,
+      "in_degree": 30,
       "out_degree": 29,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1312,7 +1313,7 @@
       "path": "content/posts/beyond-the-projection.md",
       "title": "超越投射 / Beyond the Projection",
       "hash": "78576807063b",
-      "in_degree": 210,
+      "in_degree": 211,
       "out_degree": 23,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -1839,7 +1840,7 @@
       "path": "content/posts/closed-reality-in-benchmark-maxing.md",
       "title": "基准刷榜中的封闭实存 / Closed Reality in Benchmark Maxing",
       "hash": "cb98face87ff",
-      "in_degree": 37,
+      "in_degree": 38,
       "out_degree": 38,
       "links_out": [
         "abstraction-boundaries-and-the-moving-edge-of-reality",
@@ -2165,7 +2166,7 @@
       "path": "content/posts/continuous-learning-as-expression-and-simulation.md",
       "title": "持续学习作为表达与模拟 / Continuous Learning as Expression and Simulation",
       "hash": "9ce5608bf474",
-      "in_degree": 25,
+      "in_degree": 26,
       "out_degree": 29,
       "links_out": [
         "two-phase-sleep-and-deep-sleep-continual-learning",
@@ -2721,13 +2722,35 @@
       ]
     },
     {
+      "id": "post:eternally-wrong-questions-that-haunt-practice",
+      "kind": "post",
+      "slug": "eternally-wrong-questions-that-haunt-practice",
+      "path": "content/posts/eternally-wrong-questions-that-haunt-practice.md",
+      "title": "终极错问与实践萦绕 / Eternally Wrong Questions That Haunt Practice",
+      "hash": "f9a9eafe79cd",
+      "in_degree": 0,
+      "out_degree": 10,
+      "links_out": [
+        "you-cant-benchmark-the-fluid",
+        "intelligence-in-observation-and-the-residual-gap",
+        "four-night-questions",
+        "agi-and-asi-are-temporary-goalposts",
+        "closed-reality-in-benchmark-maxing",
+        "every-limitation-is-self-limitation",
+        "beyond-the-projection",
+        "continuous-learning-as-expression-and-simulation",
+        "self-rl-for-humans",
+        "intelligence-belongs-only-to-the-mind"
+      ]
+    },
+    {
       "id": "post:every-limitation-is-self-limitation",
       "kind": "post",
       "slug": "every-limitation-is-self-limitation",
       "path": "content/posts/every-limitation-is-self-limitation.md",
       "title": "限制即自我限制 / Every Limitation Is Self-Limitation",
       "hash": "b32af09836ce",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 12,
       "links_out": [
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
@@ -3091,7 +3114,7 @@
       "path": "content/posts/four-night-questions.md",
       "title": "令人彻夜难眠的四个追问与投射的边界 / Four Questions That Keep You Up at Night",
       "hash": "6a45de787c56",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 10,
       "links_out": [
         "your-codebase-is-memory",
@@ -3799,7 +3822,7 @@
       "path": "content/posts/intelligence-belongs-only-to-the-mind.md",
       "title": "智能只属于心智 / Intelligence Belongs Only to the Mind",
       "hash": "5656f412d172",
-      "in_degree": 89,
+      "in_degree": 90,
       "out_degree": 71,
       "links_out": [
         "curiosity-has-no-final-form",
@@ -3938,7 +3961,7 @@
       "path": "content/posts/intelligence-in-observation-and-the-residual-gap.md",
       "title": "观察中的智能与残余间隙 / Intelligence in Observation and the Residual Gap",
       "hash": "6597f69963a6",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -6111,7 +6134,7 @@
       "path": "content/posts/self-rl-for-humans.md",
       "title": "看似AI的强化学习，实为人类的自我强化学习 / What Looks Like RL for AIs Is Self-RL for Humans",
       "hash": "4f0f1f493e52",
-      "in_degree": 32,
+      "in_degree": 33,
       "out_degree": 31,
       "links_out": [
         "complexity-obscures-emergence-as-the-act-of-mind",
@@ -12438,7 +12461,7 @@
       "path": "content/posts/you-cant-benchmark-the-fluid.md",
       "title": "流动之物无法被基准衡量 / You Can't Benchmark the Fluid",
       "hash": "0c261c0f07f5",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 8,
       "links_out": [
         "your-codebase-is-memory",
@@ -27066,6 +27089,126 @@
       "to": "the-risk-is-the-belief-in-oversight-itself",
       "rel": "points_to",
       "label": "The Risk Is the Belief in Oversight Itself"
+    },
+    {
+      "from": "eternally-wrong-questions-that-haunt-practice",
+      "to": "you-cant-benchmark-the-fluid",
+      "rel": "points_to",
+      "label": "流动之物无法被基准衡量"
+    },
+    {
+      "from": "eternally-wrong-questions-that-haunt-practice",
+      "to": "you-cant-benchmark-the-fluid",
+      "rel": "points_to",
+      "label": "You Can't Benchmark the Fluid"
+    },
+    {
+      "from": "eternally-wrong-questions-that-haunt-practice",
+      "to": "intelligence-in-observation-and-the-residual-gap",
+      "rel": "points_to",
+      "label": "观察中的智能与残余间隙"
+    },
+    {
+      "from": "eternally-wrong-questions-that-haunt-practice",
+      "to": "four-night-questions",
+      "rel": "points_to",
+      "label": "令人彻夜难眠的四个追问与投射的边界"
+    },
+    {
+      "from": "eternally-wrong-questions-that-haunt-practice",
+      "to": "intelligence-in-observation-and-the-residual-gap",
+      "rel": "points_to",
+      "label": "Intelligence in Observation and the Residual Gap"
+    },
+    {
+      "from": "eternally-wrong-questions-that-haunt-practice",
+      "to": "four-night-questions",
+      "rel": "points_to",
+      "label": "Four Questions That Keep You Up at Night"
+    },
+    {
+      "from": "eternally-wrong-questions-that-haunt-practice",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI 与 ASI 是加速通用智能的暂时球门"
+    },
+    {
+      "from": "eternally-wrong-questions-that-haunt-practice",
+      "to": "agi-and-asi-are-temporary-goalposts",
+      "rel": "points_to",
+      "label": "AGI and ASI Are Temporary Goalposts"
+    },
+    {
+      "from": "eternally-wrong-questions-that-haunt-practice",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "基准刷榜中的封闭实存"
+    },
+    {
+      "from": "eternally-wrong-questions-that-haunt-practice",
+      "to": "closed-reality-in-benchmark-maxing",
+      "rel": "points_to",
+      "label": "Closed Reality in Benchmark Maxing"
+    },
+    {
+      "from": "eternally-wrong-questions-that-haunt-practice",
+      "to": "every-limitation-is-self-limitation",
+      "rel": "points_to",
+      "label": "限制即自我限制"
+    },
+    {
+      "from": "eternally-wrong-questions-that-haunt-practice",
+      "to": "every-limitation-is-self-limitation",
+      "rel": "points_to",
+      "label": "Every Limitation Is Self-Limitation"
+    },
+    {
+      "from": "eternally-wrong-questions-that-haunt-practice",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "超越投射"
+    },
+    {
+      "from": "eternally-wrong-questions-that-haunt-practice",
+      "to": "beyond-the-projection",
+      "rel": "points_to",
+      "label": "Beyond the Projection"
+    },
+    {
+      "from": "eternally-wrong-questions-that-haunt-practice",
+      "to": "continuous-learning-as-expression-and-simulation",
+      "rel": "points_to",
+      "label": "持续学习作为表达与模拟"
+    },
+    {
+      "from": "eternally-wrong-questions-that-haunt-practice",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "看似AI的强化学习，实为人类的自我强化学习"
+    },
+    {
+      "from": "eternally-wrong-questions-that-haunt-practice",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "智能只属于心智"
+    },
+    {
+      "from": "eternally-wrong-questions-that-haunt-practice",
+      "to": "continuous-learning-as-expression-and-simulation",
+      "rel": "points_to",
+      "label": "Continuous Learning as Expression and Simulation"
+    },
+    {
+      "from": "eternally-wrong-questions-that-haunt-practice",
+      "to": "self-rl-for-humans",
+      "rel": "points_to",
+      "label": "What Looks Like RL for AIs Is Self-RL for Humans"
+    },
+    {
+      "from": "eternally-wrong-questions-that-haunt-practice",
+      "to": "intelligence-belongs-only-to-the-mind",
+      "rel": "points_to",
+      "label": "Intelligence Belongs Only to the Mind"
     },
     {
       "from": "every-limitation-is-self-limitation",
@@ -94519,8 +94662,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "9cc9c0e76952",
-        "out_degree": 444
+        "hash": "a14973ec7611",
+        "out_degree": 445
       },
       {
         "id": "book:intelligence",
@@ -94528,8 +94671,8 @@
         "slug": "intelligence",
         "path": "content/book/intelligence.md",
         "title": "智能的器物神话 / The Artifact Myth of Intelligence",
-        "hash": "b49084869c8a",
-        "out_degree": 65
+        "hash": "20d575920ac7",
+        "out_degree": 66
       },
       {
         "id": "book:knowledge-and-learning",
@@ -95699,6 +95842,12 @@
         "to": "differentiation-and-the-appearance-of-negation",
         "rel": "collects",
         "label": "区分活动与否定的显现 / Differentiation and the Appearance of Negation"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "eternally-wrong-questions-that-haunt-practice",
+        "rel": "collects",
+        "label": "终极错问与实践萦绕 / Eternally Wrong Questions That Haunt Practice"
       },
       {
         "from": "book:index-of-premises",
@@ -97181,6 +97330,12 @@
         "to": "when-electrons-think",
         "rel": "collects",
         "label": "当电子开始思考 / When Electrons Think"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "eternally-wrong-questions-that-haunt-practice",
+        "rel": "collects",
+        "label": "终极错问与实践萦绕 / Eternally Wrong Questions That Haunt Practice"
       },
       {
         "from": "book:index-of-premises",
@@ -99926,6 +100081,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "eternally-wrong-questions-that-haunt-practice",
+        "rel": "collects",
+        "label": "终极错问与实践萦绕 / Eternally Wrong Questions That Haunt Practice"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the_moving_ground",
         "rel": "collects",
         "label": "移动的基底与智能体委派的渐近线 / The Moving Ground"
@@ -100283,6 +100444,12 @@
         "to": "the-cartesian-overstep-and-the-frenzy-of-creation",
         "rel": "collects",
         "label": "笛卡尔的认识论跃迁与造神狂热 / The Cartesian Epistemic Leap and the Frenzy of Creation"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "eternally-wrong-questions-that-haunt-practice",
+        "rel": "collects",
+        "label": "终极错问与实践萦绕 / Eternally Wrong Questions That Haunt Practice"
       },
       {
         "from": "book:index-of-premises",
@@ -100871,6 +101038,12 @@
         "to": "continuous-learning-as-expression-and-simulation",
         "rel": "collects",
         "label": "持续学习作为表达与模拟 / Continuous Learning as Expression and Simulation"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "eternally-wrong-questions-that-haunt-practice",
+        "rel": "collects",
+        "label": "终极错问与实践萦绕 / Eternally Wrong Questions That Haunt Practice"
       },
       {
         "from": "book:index-of-premises",
@@ -101501,6 +101674,12 @@
         "to": "every-limitation-is-self-limitation",
         "rel": "collects",
         "label": "限制即自我限制 / Every Limitation Is Self-Limitation"
+      },
+      {
+        "from": "book:intelligence",
+        "to": "eternally-wrong-questions-that-haunt-practice",
+        "rel": "collects",
+        "label": "终极错问与实践萦绕 / Eternally Wrong Questions That Haunt Practice"
       },
       {
         "from": "book:knowledge-and-learning",

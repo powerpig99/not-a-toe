@@ -395,6 +395,15 @@ Bergson's analysis of negation in Creative Evolution demonstrates that thinking 
 
 → [区分活动与否定的显现 / Differentiation and the Appearance of Negation](../../posts/differentiation-and-the-appearance-of-negation/)
 
+### 伊曼努尔·康德 / Immanuel Kant
+`哲学 / Philosophical`
+
+康德的批判哲学将规定经验体验的构成性概念，同建模为镜面背后“虚焦点”、为探究定向却不对应于经验对象的范导性理念区分开来，在辨析统合与延展科学器具的定向启发法与驻留于被观察系统内部的属性时有用；当固定的范畴表被冻结为普遍架构，或在显现背后悬设不可知的物自体，而非认清投射与重新渲染皆是活的心智持续进行的行动时，这一框架便到达了边界。
+
+Kant's critical philosophy separates constitutive concepts determining empirical experience from regulative ideas—modeled as a virtual focal point behind a mirror (focus imaginarius)—that orient inquiry without corresponding to an empirical object, which is of use in distinguishing directional heuristics that unify and extend scientific instruments from properties residing inside observed systems; it reaches its boundary when a fixed table of categories is frozen as universal architecture or an unknowable thing-in-itself is posited behind appearances rather than recognizing both projection and re-rendering as ongoing acts of the living Mind.
+
+→ [终极错问与实践萦绕 / Eternally Wrong Questions That Haunt Practice](../../posts/eternally-wrong-questions-that-haunt-practice/)
+
 ### 让-雅克·卢梭 / Jean-Jacques Rousseau
 `哲学 / Philosophical`
 
@@ -1566,6 +1575,15 @@ Social contract theory presents society as a constraint that must be justified, 
 Special relativity establishes that spatial and temporal intervals vary across inertial frames while keeping the speed of light invariant, which is of use in reconciling electrodynamics and mechanics across moving observers; it reaches its boundary when resolving apparent paradoxes sneaks an unanchored global observer back into the frame or mistakes invariant rendering cadence for a static spacetime container.
 
 → [双生子佯谬与隐秘观察者 / The Twin Paradox and the Hidden Observer](../../posts/the-twin-paradox-and-the-hidden-observer/) · [当电子开始思考 / When Electrons Think](../../posts/when-electrons-think/)
+
+### 言语行为理论 / Speech Act Theory
+`哲学 / Philosophical`
+
+由约翰·兰肖·奥斯汀开创的言语行为理论将言内意义（话语说了什么）及受规则支配的言外之力，同言后后果（话语在对话者身上促成了什么）区分开来，在阐明为何多轮互动后果因领会由各参与者共同生成而抗拒封闭的单句评分细则时有用；当交际效力被封入穷尽式的制度恰当性核查表，而非在每个观察心智跨轮次的开放重描处加以登记时，该理论便到达了边界。
+
+Speech act theory, inaugurated by J. L. Austin, separates locutionary sense (what words say) and rule-governed illocutionary force from perlocutionary consequences (what words bring about in interlocutors), which is of use in showing why multi-turn interactive consequences resist closed single-utterance rubrics because uptake is co-produced across participants; it reaches its boundary when communicative force is sealed inside exhaustive institutional felicity checklists rather than registered at each observing Mind's open re-tracing across turns.
+
+→ [终极错问与实践萦绕 / Eternally Wrong Questions That Haunt Practice](../../posts/eternally-wrong-questions-that-haunt-practice/)
 
 ### 自发物质涌现论 / Spontaneous Material Emergence
 `科学 / Scientific`
@@ -4348,7 +4366,7 @@ The demand that the state protect rights entrusts the guarantee of freedom to a 
 
 Static AI benchmarks presume that standardized question sets measure general fluid capability, which is of use in densifying reproducible comparison across models inside a fixed problem class; they reach their boundary in measuring fit against frozen historical distributions while missing open-ended premise revision under unscripted contact.
 
-→ [流动之物无法被基准衡量 / You Can't Benchmark the Fluid](../../posts/you-cant-benchmark-the-fluid/) · [独见者的自反困境与必然性的后验投射 / The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity](../../posts/the-reflexive-dilemma-of-unique-insight/) · [转移原因的比较 / The Comparison That Relocates the Cause](../../posts/the-comparison-that-relocates-the-cause/) · [观察中的智能与残余间隙 / Intelligence in Observation and the Residual Gap](../../posts/intelligence-in-observation-and-the-residual-gap/)
+→ [流动之物无法被基准衡量 / You Can't Benchmark the Fluid](../../posts/you-cant-benchmark-the-fluid/) · [独见者的自反困境与必然性的后验投射 / The Reflexive Dilemma of Unique Insight and the Retrospective Projection of Necessity](../../posts/the-reflexive-dilemma-of-unique-insight/) · [转移原因的比较 / The Comparison That Relocates the Cause](../../posts/the-comparison-that-relocates-the-cause/) · [观察中的智能与残余间隙 / Intelligence in Observation and the Residual Gap](../../posts/intelligence-in-observation-and-the-residual-gap/) · [终极错问与实践萦绕 / Eternally Wrong Questions That Haunt Practice](../../posts/eternally-wrong-questions-that-haunt-practice/)
 
 ### AI 中的委托-代理委派 / Principal-Agent Delegation in AI
 `技术 / Technological`
@@ -4627,7 +4645,7 @@ The Einstein test for AGI presumes that discovering novel physical laws from his
 
 The Turing test presumes that sustained indistinguishability in text conversation suffices as an operational criterion for thinking, which is of use in setting a concrete engineering benchmark that bypasses unresolvable metaphysical disputes; it reaches its boundary when conversational imitation in an observer's projection is read back as evidence of an inner first-person subject behind the screen.
 
-→ [笛卡尔的认识论跃迁与造神狂热 / The Cartesian Epistemic Leap and the Frenzy of Creation](../../posts/the-cartesian-overstep-and-the-frenzy-of-creation/)
+→ [笛卡尔的认识论跃迁与造神狂热 / The Cartesian Epistemic Leap and the Frenzy of Creation](../../posts/the-cartesian-overstep-and-the-frenzy-of-creation/) · [终极错问与实践萦绕 / Eternally Wrong Questions That Haunt Practice](../../posts/eternally-wrong-questions-that-haunt-practice/)
 
 ### 心智之间的直接沟通 / Direct Communication Between Minds
 `哲学 / Philosophical`
@@ -5149,7 +5167,7 @@ Presumes the randomness in a model's sampler is indeterminism in the ontological
 
 Presumes that a single agent can self-correct within its own session trajectory or that a manager agent can assume overarching orchestration across subagents through shared sessions and lossy prose summaries; effective when scoped to explicit sub-task splitting, progressive disclosure inside a main loop, and dispatching isolated contexts from artifact initial conditions, it reaches its boundary because a lone agent trapped in its token trajectory wraps its own contradiction, session cloning and summary handoffs either export the gravity well or strip rejected hypotheses, and a manager agent facing an axiomatic deadlock lacks access to unprojected living intent.
 
-→ [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/) · [按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step](../../posts/on-demand-contexts-keep-coherence-at-one-step/) · [交接残余 / Handing Off Residue](../../posts/handing-off-residue/) · [模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks](../../posts/dynamic-resnet-of-skill-loops/) · [多智能体协作的幻象 / The Illusion of Multi-Agent Collaboration](../../posts/the-illusion-of-multi-agent-collaboration/) · [持续学习作为表达与模拟 / Continuous Learning as Expression and Simulation](../../posts/continuous-learning-as-expression-and-simulation/)
+→ [超越投射 / Beyond the Projection](../../posts/beyond-the-projection/) · [你的代码库即是记忆 / Your Codebase Is Memory](../../posts/your-codebase-is-memory/) · [按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step](../../posts/on-demand-contexts-keep-coherence-at-one-step/) · [交接残余 / Handing Off Residue](../../posts/handing-off-residue/) · [模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks](../../posts/dynamic-resnet-of-skill-loops/) · [多智能体协作的幻象 / The Illusion of Multi-Agent Collaboration](../../posts/the-illusion-of-multi-agent-collaboration/) · [持续学习作为表达与模拟 / Continuous Learning as Expression and Simulation](../../posts/continuous-learning-as-expression-and-simulation/) · [终极错问与实践萦绕 / Eternally Wrong Questions That Haunt Practice](../../posts/eternally-wrong-questions-that-haunt-practice/)
 
 ### 实战判断力的存量重估预设 / The Stock-Revaluation Premise of Practical Judgment
 `技术 / Technological`
