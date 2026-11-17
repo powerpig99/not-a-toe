@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-17T11:03:08.065Z",
+    "generated_at": "2026-11-17T23:43:31.780Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -242,7 +242,7 @@
       "content/posts/the-category-error-of-better.md": "01832e3adff3",
       "content/posts/the-causal-inversion-of-partnership.md": "5b985f8e2316",
       "content/posts/the-causal-inversion-of-philosophical-agency.md": "3ca599ffb0d9",
-      "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "1df00fe604cc",
+      "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md": "b66f0ac30209",
       "content/posts/the-causal-overstep-of-observation-and-the-first-person-surplus.md": "93565058d4b9",
       "content/posts/the-climate-problem-registers-only-as-perception.md": "c138f1002466",
       "content/posts/the-closed-loop-of-representation.md": "1256f973bc1b",
@@ -348,7 +348,7 @@
       "content/posts/the-npc-impression-is-structural.md": "cd677ff828e2",
       "content/posts/the-observational-cut-in-ai-debates.md": "b18a53c9a69c",
       "content/posts/the-only-coherent-uncaused-effect.md": "7fe84abc56e1",
-      "content/posts/the-opacity-of-production-and-the-weight-of-consumption.md": "4d0e2fdff308",
+      "content/posts/the-opacity-of-production-and-the-weight-of-consumption.md": "a68f03478942",
       "content/posts/the-open-question-is-determinisms-demand.md": "670d76055718",
       "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "dc29182803e7",
       "content/posts/the-orthogonal-refusal.md": "68eddc931d5a",
@@ -473,10 +473,10 @@
     },
     "stats": {
       "posts": 446,
-      "edges": 13686,
-      "unique_directed": 6726,
+      "edges": 13690,
+      "unique_directed": 6728,
       "missing_targets": 0,
-      "one_way": 1392,
+      "one_way": 1390,
       "isolated": 0,
       "posts_with_outbound": 446,
       "book_pages": 16,
@@ -3823,7 +3823,7 @@
       "path": "content/posts/inheritance-as-residue-and-the-need-for-extraction.md",
       "title": "继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction",
       "hash": "0c7ba216c8ac",
-      "in_degree": 0,
+      "in_degree": 2,
       "out_degree": 15,
       "links_out": [
         "your-codebase-is-memory",
@@ -7285,15 +7285,16 @@
       "slug": "the-causal-order-of-private-residuals-and-social-surplus",
       "path": "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md",
       "title": "私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus",
-      "hash": "1df00fe604cc",
+      "hash": "b66f0ac30209",
       "in_degree": 17,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "having-more-is-never-the-cause",
         "the-frontier-lifts-the-floor",
         "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "order-surplus-and-the-moral-intercept",
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+        "inheritance-as-residue-and-the-need-for-extraction",
         "production-consumption-and-the-minds-distinction",
         "abstract-pain-and-living-hunger",
         "the-opacity-of-production-and-the-weight-of-consumption",
@@ -9931,9 +9932,9 @@
       "slug": "the-opacity-of-production-and-the-weight-of-consumption",
       "path": "content/posts/the-opacity-of-production-and-the-weight-of-consumption.md",
       "title": "生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption",
-      "hash": "4d0e2fdff308",
+      "hash": "a68f03478942",
       "in_degree": 5,
-      "out_degree": 11,
+      "out_degree": 12,
       "links_out": [
         "the-frontier-lifts-the-floor",
         "production-consumption-and-the-minds-distinction",
@@ -9945,7 +9946,8 @@
         "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
         "fate-loves-irony-refined",
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
-        "symptom-and-cause-in-the-narratives-of-progress"
+        "symptom-and-cause-in-the-narratives-of-progress",
+        "inheritance-as-residue-and-the-need-for-extraction"
       ]
     },
     {
@@ -58501,6 +58503,12 @@
     },
     {
       "from": "the-causal-order-of-private-residuals-and-social-surplus",
+      "to": "inheritance-as-residue-and-the-need-for-extraction",
+      "rel": "points_to",
+      "label": "继承的残余与索取的必要"
+    },
+    {
+      "from": "the-causal-order-of-private-residuals-and-social-surplus",
       "to": "production-consumption-and-the-minds-distinction",
       "rel": "points_to",
       "label": "生产、消费与心智的区分"
@@ -58510,6 +58518,12 @@
       "to": "abstract-pain-and-living-hunger",
       "rel": "points_to",
       "label": "抽象的苦难与真实的饥饿"
+    },
+    {
+      "from": "the-causal-order-of-private-residuals-and-social-surplus",
+      "to": "inheritance-as-residue-and-the-need-for-extraction",
+      "rel": "points_to",
+      "label": "Inheritance as Residue and the Need for Extraction"
     },
     {
       "from": "the-causal-order-of-private-residuals-and-social-surplus",
@@ -75517,6 +75531,12 @@
     },
     {
       "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "inheritance-as-residue-and-the-need-for-extraction",
+      "rel": "points_to",
+      "label": "继承的残余与索取的必要"
+    },
+    {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
       "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
       "rel": "points_to",
       "label": "Politicians Are Visible Symptoms of Responsibility Diffusion"
@@ -75526,6 +75546,12 @@
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
       "label": "Symptom and Cause in the Narratives of Progress"
+    },
+    {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "inheritance-as-residue-and-the-need-for-extraction",
+      "rel": "points_to",
+      "label": "Inheritance as Residue and the Need for Extraction"
     },
     {
       "from": "the-open-question-is-determinisms-demand",
