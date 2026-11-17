@@ -398,9 +398,9 @@ Bergson's analysis of negation in Creative Evolution demonstrates that thinking 
 ### 伊曼努尔·康德 / Immanuel Kant
 `哲学 / Philosophical`
 
-康德的批判哲学将规定经验体验的构成性概念，同建模为镜面背后“虚焦点”、为探究定向却不对应于经验对象的范导性理念区分开来，在辨析统合与延展科学器具的定向启发法与驻留于被观察系统内部的属性时有用；当固定的范畴表被冻结为普遍架构，或在显现背后悬设不可知的物自体，而非认清投射与重新渲染皆是活的心智持续进行的行动时，这一框架便到达了边界。
+康德的批判哲学将规定经验体验的构成性概念，同建模为镜面背后“虚焦点”、为探究定向却不对应于经验对象的范导性理念区分开来，在辨析投射出的探究视界与驻留于被观察系统内部的属性时有用；当它假定富有成效的开放性有赖于自觉的范导性克制，而非即便实践者满怀确信追逐闭合时开放性依然无条件成立——且其操作进展反过来维系着那份确信——以及当固定的范畴表被冻结为普遍架构，或在显现背后悬设不可知的物自体，而非认清投射与重新渲染皆是活的心智持续进行的行动时，这一框架便到达了边界。
 
-Kant's critical philosophy separates constitutive concepts determining empirical experience from regulative ideas—modeled as a virtual focal point behind a mirror (focus imaginarius)—that orient inquiry without corresponding to an empirical object, which is of use in distinguishing directional heuristics that unify and extend scientific instruments from properties residing inside observed systems; it reaches its boundary when a fixed table of categories is frozen as universal architecture or an unknowable thing-in-itself is posited behind appearances rather than recognizing both projection and re-rendering as ongoing acts of the living Mind.
+Kant's critical philosophy separates constitutive concepts determining empirical experience from regulative ideas—modeled as a virtual focal point behind a mirror (focus imaginarius)—that orient inquiry without corresponding to an empirical object, which is of use in distinguishing projected horizons of inquiry from properties residing inside observed systems; it reaches its boundary in supposing that productive openness depends on conscious regulative restraint rather than holding unconditionally even when practitioners pursue closure with full conviction—whose operational advances in turn sustain that conviction—and when a fixed table of categories is frozen as universal architecture or an unknowable thing-in-itself is posited behind appearances rather than recognizing both projection and re-rendering as ongoing acts of the living Mind.
 
 → [终极错问与实践萦绕 / Eternally Wrong Questions That Haunt Practice](../../posts/eternally-wrong-questions-that-haunt-practice/)
 
