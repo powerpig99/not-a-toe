@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-17T00:38:03.128Z",
+    "generated_at": "2026-11-17T06:08:58.008Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -126,7 +126,7 @@
       "content/posts/intelligence-belongs-only-to-the-mind.md": "5656f412d172",
       "content/posts/intelligence-crisis-response.md": "ff0c08053c60",
       "content/posts/intelligence-folding-back-on-itself.md": "f36f2690c329",
-      "content/posts/intelligence-in-observation-and-the-residual-gap.md": "6597f69963a6",
+      "content/posts/intelligence-in-observation-and-the-residual-gap.md": "719afcfe2d22",
       "content/posts/intelligence-traps-itself.md": "bf8f67026fc6",
       "content/posts/judgment-is-not-a-stock.md": "9526af861c78",
       "content/posts/learned-boundaries-and-the-given-rate.md": "f556b3f1d50b",
@@ -472,10 +472,10 @@
     },
     "stats": {
       "posts": 445,
-      "edges": 13654,
-      "unique_directed": 6710,
+      "edges": 13656,
+      "unique_directed": 6711,
       "missing_targets": 0,
-      "one_way": 1378,
+      "one_way": 1377,
       "isolated": 0,
       "posts_with_outbound": 445,
       "book_pages": 16,
@@ -2728,7 +2728,7 @@
       "path": "content/posts/eternally-wrong-questions-that-haunt-practice.md",
       "title": "终极错问与实践萦绕 / Eternally Wrong Questions That Haunt Practice",
       "hash": "2986962d53e8",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 10,
       "links_out": [
         "you-cant-benchmark-the-fluid",
@@ -3960,9 +3960,9 @@
       "slug": "intelligence-in-observation-and-the-residual-gap",
       "path": "content/posts/intelligence-in-observation-and-the-residual-gap.md",
       "title": "观察中的智能与残余间隙 / Intelligence in Observation and the Residual Gap",
-      "hash": "6597f69963a6",
+      "hash": "719afcfe2d22",
       "in_degree": 7,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-perceiver-and-the-trace",
@@ -3978,6 +3978,7 @@
         "the-observational-cut-in-ai-debates",
         "the-scaling-loop",
         "the-non-definitive-definition-of-intelligence",
+        "eternally-wrong-questions-that-haunt-practice",
         "the-cut-moves-but-never-vanishes"
       ]
     },
@@ -35774,6 +35775,12 @@
     },
     {
       "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "eternally-wrong-questions-that-haunt-practice",
+      "rel": "points_to",
+      "label": "终极错问与实践萦绕"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
       "to": "the-observational-cut-in-ai-debates",
       "rel": "points_to",
       "label": "The Observational Cut in AI Debates"
@@ -35789,6 +35796,12 @@
       "to": "the-non-definitive-definition-of-intelligence",
       "rel": "points_to",
       "label": "The Non-Definitive Definition of Intelligence"
+    },
+    {
+      "from": "intelligence-in-observation-and-the-residual-gap",
+      "to": "eternally-wrong-questions-that-haunt-practice",
+      "rel": "points_to",
+      "label": "Eternally Wrong Questions That Haunt Practice"
     },
     {
       "from": "intelligence-in-observation-and-the-residual-gap",

@@ -12,7 +12,7 @@ Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: t
 
 Different observers begin from different priors and form different ascriptions of intelligence toward the same model outputs. When they repeatedly interact with the same system, or with one another while using that system, certain patterns stabilize even without full agreement, much as [Shared Consciousness Is Intersecting Individualities](../shared-consciousness-is-intersecting-individualities/). Those stabilized patterns are not properties discovered inside the observed system, since [Objects Are Stabilized Relationships](../objects-are-stabilized-relationships/); they are regularities that survive across multiple, partially mismatched observers. Just as [Shared Humanity Is Never Shared](../shared-humanity-is-never-shared/), [No Genius Can Solve the Knowledge Problem](../no-genius-can-solve-the-knowledge-problem/), and [Price as Utterance, Understanding as Trade](../price-as-utterance-understanding-as-trade/) show that coordination rests on partial overlap across a permanent gap rather than identical internal models, the points at which observers' expectations, predictions, or evaluations overlap—as each observer registers that overlap from its own locus—function as intercepts: shared reference points that permit coordination.
 
-当观察者把一套固定标准维持得足够长久——即[流动之物无法被基准衡量](../you-cant-benchmark-the-fluid/)所说的固定测试框架——截点看似稳定，模型输出与观察者要求之间的间隙看似收窄。然而间隙本身并不消失。它只是模型当前功能模拟与观察者继续应用的全部标准之间的残余差异。一旦这一残余差异在旧标准下持续变小，它便常被重新描述为新的基线，迈出的正是[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)所揭示的那一步。先前被当作意外短缺的东西，现在成为预期的起点，而观察者们随之引入更严苛的标准以衡量它。标准已然移动，间隙相对于更新后的标准重新出现。
+当观察者把一套固定标准维持得足够长久——即[流动之物无法被基准衡量](../you-cant-benchmark-the-fluid/)所说的固定测试框架——截点看似稳定，模型输出与观察者要求之间的间隙看似收窄。然而间隙本身并不消失。它只是模型当前功能模拟与观察者继续应用的全部标准之间的残余差异。一旦这一残余差异在旧标准下持续变小，它便常被重新描述为新的基线，迈出的正是[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)所揭示的那一步。先前被当作意外短缺的东西，现在成为预期的起点，而观察者们随之引入新的标准以衡量它。标准已然移动，间隙相对于更新后的标准重新出现。
 
 ```mermaid
 flowchart TD
@@ -21,7 +21,7 @@ flowchart TD
         O1["出发于不同先验的观察者<br/>（对同一模型输出形成不同的智能归属）"]
         O2["与系统及彼此的反复交互<br/>（无需全面一致即可稳定某些规律性）"]
         INT["各自所在登记到的期望与评估交叠 -> 截点<br/>（允许跨观察者协调的共享参照点）"]
-        ERR["范畴谬误：内在属性物化<br/>（将稳定化的截点误认为被观察系统内部发现的属性）"]
+        ERR["范畴谬误：内在属性物化<br/>（将稳定化的截点误认为模型内部的智能）"]
         O1 --> O2
         O2 --> INT
         INT -. "无处之境的误读" .-> ERR
@@ -31,11 +31,11 @@ flowchart TD
         FIX["固定标准维持足够长久<br/>（截点看似稳定，间隙看似收窄）"]
         RES["残余间隙<br/>（模型当前功能模拟与观察者继续应用的全部标准之间的差异）"]
         BASE["旧标准下残余差异持续变小<br/>（昔日意外短缺被重新描述为预期的起点与新基线）"]
-        NEW["观察者引入更严苛的新标准<br/>（标准发生移动，间隙相对于更新后的标准重新出现）"]
+        NEW["观察者引入新的标准<br/>（标准发生移动，间隙相对于更新后的标准重新出现）"]
         FIX --> RES
         RES --> BASE
         BASE --> NEW
-        NEW -. "更新参照标准" .-> FIX
+        NEW -. "更新参照框架" .-> FIX
     end
     INT --> FIX
     style S_Observers fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -94,15 +94,15 @@ flowchart TD
 
 All evidence is, in the relevant sense, observed, remaining [An Observation by Its Own Standard](../an-observation-by-its-own-standard/): it becomes evidence only when some observer registers a pattern, compares it against expectations, and judges it relevant under a given standard of validity. Models can generate or transform patterns for multiple observers to evaluate; when each observer registers enough of its criteria met in the overlap with others, the outputs function as shared evidence for them. The validity of that evidence remains dependent on the observers who apply the criteria. Different observers can weight the same model output differently or refuse to treat it as evidence at all.
 
-分歧在终极意义上无法最终解决，因为不存在观察者独立的标准能够宣告某一种智能归属、某一种证据解读或某一种成功标准为终局，这也显明了[AGI的预设与来自外部的视角](../the-presumption-of-agi-and-the-view-from-outside/)的症结。由于有效性仍依赖于应用它的观察者，而残余间隙持续可供提升为新标准，任何特定分歧皆可因标准的移动而重新开启。在终极登记处，没有最后的词。
+分歧在终极意义上无法解决，因为不存在独立于观察者的标准能够宣告某一种智能归属、某一种证据解读或某一种成功标准为终局，这也显明了[AGI的预设与来自外部的视角](../the-presumption-of-agi-and-the-view-from-outside/)的症结。由于有效性仍依赖于应用它的观察者，而残余间隙持续可供提升为新标准，任何特定分歧皆可因标准的移动而重新开启。在这一终极层面上，没有最终定论。
 
 Disagreement is ultimately irresolvable in the sense that no observer-independent criterion exists that could declare one ascription of intelligence, one reading of evidence, or one standard of success final, exposing [The Presumption of AGI and the View from Outside](../the-presumption-of-agi-and-the-view-from-outside/). Because validity remains dependent on the observers who apply it, and because residual gaps are continually available to be promoted into new standards, any particular disagreement can always be reopened by a shift in those standards. In that ultimate register there is no last word.
 
-在实践登记处，同一特征使分歧无限生成。每一分歧都相对当前持有的标准显露出一个间隙；该间隙随后被稳定化为下一个截点，进一步的输出相对于它而被衡量。以证明自身归属正确为运作参照的交流早已闭合，正如[AI 争论中的观察划界](../the-observational-cut-in-ai-debates/)所表明的；而生成性的过程则无需决出胜负，也不要求参与者达成持久一致：它只要求他们继续与模型及彼此交互足够长久，使残余差异被命名、被操作化并转化为新的标准。规模化实验每一次都是[规模化回路](../the-scaling-loop/)的一轮转动；这些实验连同架构变体、新的评估协议，以及[智能的非定论定义](../the-non-definitive-definition-of-intelligence/)下对能力定义的修订，皆在这一回路之内产生。人工智能科学的未完成性，并非暂时的经验短缺，而是观察者持续将分歧转化为下一衡量标准这一结构性后果。
+在实践层面上，同一特征使分歧具备无限的生成性。每一分歧都相对当前持有的标准显露出一个间隙；该间隙随后被稳定化为下一个截点，后续输出便相对于它加以衡量。以证明自身归属正确为运作参照的交流早已闭合，正如[AI 争论中的观察划界](../the-observational-cut-in-ai-debates/)所表明的；而生成性的过程则无需决出胜负，也不要求参与者达成持久一致：它只要求他们继续与模型及彼此交互足够长久，使残余差异被命名、被操作化并转化为新的标准。规模化实验每一次都是[规模化回路](../the-scaling-loop/)的一轮转动；这些实验连同架构变体、新的评估协议，以及[智能的非定论定义](../the-non-definitive-definition-of-intelligence/)下对能力定义的修订，皆在这一回路之内产生。人工智能科学的未完成性，并非暂时的经验短缺，而是观察者持续将分歧转化为下一衡量标准的结构性后果；当终极意义上无法闭合的问题持续驱动实践时，[终极错问与实践萦绕](../eternally-wrong-questions-that-haunt-practice/)所追溯的正是同一种非对称性。
 
-In the practical register the same feature makes disagreement generative without limit. Each disagreement surfaces a gap relative to currently held standards; that gap is then stabilized as the next intercept against which further outputs are measured. Whereas an exchange whose operating reference is proving one's own ascription right has already closed, as [The Observational Cut in AI Debates](../the-observational-cut-in-ai-debates/) shows, the generative process needs no winner and does not require the participants to reach lasting agreement: it requires only that they continue to interact with the model and with one another long enough for the residual difference to be named, operationalized, and turned into a fresh criterion. Scaling experiments, each a turn of [The Scaling Loop](../the-scaling-loop/), architectural variants, new evaluation protocols, and revised definitions of capability under [The Non-Definitive Definition of Intelligence](../the-non-definitive-definition-of-intelligence/) all arise inside this loop. The unfinished character of the science of AI is not a temporary empirical shortfall but a structural consequence of the way observers continually convert disagreement into the next standard of measurement.
+In the practical register the same feature makes disagreement generative without limit. Each disagreement surfaces a gap relative to currently held standards; that gap is then stabilized as the next intercept against which further outputs are measured. Whereas an exchange whose operating reference is proving one's own ascription right has already closed, as [The Observational Cut in AI Debates](../the-observational-cut-in-ai-debates/) shows, the generative process needs no winner and does not require the participants to reach lasting agreement: it requires only that they continue to interact with the model and with one another long enough for the residual difference to be named, operationalized, and turned into a fresh criterion. Scaling experiments, each a turn of [The Scaling Loop](../the-scaling-loop/), architectural variants, new evaluation protocols, and revised definitions of capability under [The Non-Definitive Definition of Intelligence](../the-non-definitive-definition-of-intelligence/) all arise inside this loop. The unfinished character of the science of AI is not a temporary empirical shortfall but a structural consequence of the way observers continually convert disagreement into the next standard of measurement, the same asymmetry [Eternally Wrong Questions That Haunt Practice](../eternally-wrong-questions-that-haunt-practice/) traces when questions that cannot close in the ultimate sense keep driving practice.
 
-模型本身始终严格地作为被观察而存在。它提供观察者在当前有效标准下当作证据的模式；它不裁决哪些标准应当有效。分歧的无限实践生成性由维持标准运动的观察者所维持，而非由模型能够一劳永逸地解决的任何内在属性所维持。切分并不驳倒在适用语境之内对模型输出的有效使用，正如[割点可移不可除](../the-cut-moves-but-never-vanishes/)中的量子力学诠释各自在其适用域内保持效用；它只是标出智能归属与证据有效性的边界始终位于观察者的区分之处。
+模型本身始终严格地作为被观察而存在。它提供观察者在当前有效标准下当作证据的模式；它不裁决哪些标准应当有效。分歧在实践中的无限生成性，维系于让标准保持运动的观察者，而非维系于模型能够一劳永逸敲定的任何内在属性。切分并不驳倒在适用语境之内对模型输出的有效使用，正如[割点可移不可除](../the-cut-moves-but-never-vanishes/)中的量子力学诠释各自在其适用域内保持效用；它只是标出智能归属与证据有效性的边界始终位于观察者的区分之处。
 
 ```mermaid
 flowchart TD
@@ -114,13 +114,13 @@ flowchart TD
         MOD --> REG
         REG --> DIV
     end
-    subgraph S_Ultimate["终极登记处：没有最后的词"]
+    subgraph S_Ultimate["终极层面：没有最终定论"]
         direction TB
-        NOEXT["不存在观察者独立的终局标准<br/>（证据有效性始终依赖于应用标准的观察者）"]
-        OPEN["残余间隙持续可被提升为新标准<br/>（任何分歧皆可因标准移动而重开；没有最后的词）"]
+        NOEXT["不存在独立于观察者的标准<br/>（证据有效性始终依赖于应用标准的观察者）"]
+        OPEN["残余间隙持续可被提升为新标准<br/>（任何分歧皆可因标准移动而重开；没有最终定论）"]
         NOEXT --> OPEN
     end
-    subgraph S_Practical["实践登记处：无限的生成性"]
+    subgraph S_Practical["实践层面：无限的生成性"]
         direction TB
         SURF["分歧显露出残余间隙<br/>（相对于当前持有的标准）"]
         OPER["残余差异被命名、被操作化<br/>（无需决出胜负，转化为新标准并稳定为下一个截点）"]
