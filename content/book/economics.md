@@ -42,3 +42,4 @@ The essays in this part examine the closed premises of the rational choice postu
 - [百万亿地平线之外 / Beyond the Hundred-Trillion Horizon](../../posts/beyond-the-hundred-trillion-horizon/)
 - [前沿抬升底线 / The Frontier Lifts the Floor](../../posts/the-frontier-lifts-the-floor/)
 - [生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption](../../posts/the-opacity-of-production-and-the-weight-of-consumption/)
+- [继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction](../../posts/inheritance-as-residue-and-the-need-for-extraction/)

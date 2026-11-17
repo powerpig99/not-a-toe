@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-17T06:08:58.008Z",
+    "generated_at": "2026-11-17T11:03:08.065Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -123,6 +123,7 @@
       "content/posts/immortality-final.md": "2bbeb6b8ed55",
       "content/posts/incompleteness-exhibited-twice.md": "9b8460b798af",
       "content/posts/individual-choices-as-the-only-causal-levers.md": "915a3572d822",
+      "content/posts/inheritance-as-residue-and-the-need-for-extraction.md": "0c7ba216c8ac",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "5656f412d172",
       "content/posts/intelligence-crisis-response.md": "ff0c08053c60",
       "content/posts/intelligence-folding-back-on-itself.md": "f36f2690c329",
@@ -455,8 +456,8 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b28d61994639",
       "content/book/causality.md": "d2de779193c1",
       "content/book/consciousness.md": "5fd937c16807",
-      "content/book/economics.md": "4f4f531791d1",
-      "content/book/index-of-premises.md": "918076d28424",
+      "content/book/economics.md": "44ed93af3ad8",
+      "content/book/index-of-premises.md": "5b83ae86e563",
       "content/book/intelligence.md": "20d575920ac7",
       "content/book/knowledge-and-learning.md": "60b558ba8715",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -471,22 +472,22 @@
       "content/book/tools-and-progress.md": "0d170609c508"
     },
     "stats": {
-      "posts": 445,
-      "edges": 13656,
-      "unique_directed": 6711,
+      "posts": 446,
+      "edges": 13686,
+      "unique_directed": 6726,
       "missing_targets": 0,
-      "one_way": 1377,
+      "one_way": 1392,
       "isolated": 0,
-      "posts_with_outbound": 445,
+      "posts_with_outbound": 446,
       "book_pages": 16,
-      "book_edges": 1430,
-      "posts_reached_by_book": 445
+      "book_edges": 1436,
+      "posts_reached_by_book": 446
     }
   },
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 408
+      "in_degree": 409
     },
     {
       "slug": "beyond-the-projection",
@@ -518,7 +519,7 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "in_degree": 58
+      "in_degree": 59
     },
     {
       "slug": "causality-stays-at-the-edge-that-steers",
@@ -541,12 +542,12 @@
       "in_degree": 41
     },
     {
-      "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "slug": "production-consumption-and-the-minds-distinction",
       "in_degree": 41
     },
     {
-      "slug": "production-consumption-and-the-minds-distinction",
-      "in_degree": 40
+      "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "in_degree": 41
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
@@ -914,7 +915,7 @@
       "path": "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md",
       "title": "能动性、复利与 AI 封建之争 / Agency, Compounding, and the Argument Over AI Feudalism",
       "hash": "e855ba2097aa",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 17,
       "links_out": [
         "beyond-the-projection",
@@ -3482,7 +3483,7 @@
       "path": "content/posts/having-more-is-never-the-cause.md",
       "title": "拥有更多从不是原因 / Having More Is Never the Cause",
       "hash": "fff7b1e393f6",
-      "in_degree": 25,
+      "in_degree": 26,
       "out_degree": 22,
       "links_out": [
         "not-predicting-is-predicting-without-awareness",
@@ -3539,7 +3540,7 @@
       "path": "content/posts/hierarchy-from-individual-difference.md",
       "title": "来自个体差异的层级 / Hierarchy from Individual Difference",
       "hash": "b2d76939f515",
-      "in_degree": 31,
+      "in_degree": 32,
       "out_degree": 30,
       "links_out": [
         "the-generative-contradiction",
@@ -3813,6 +3814,33 @@
         "cheng-gong-xue",
         "cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng",
         "the-mind-that-statistics-cannot-reveal"
+      ]
+    },
+    {
+      "id": "post:inheritance-as-residue-and-the-need-for-extraction",
+      "kind": "post",
+      "slug": "inheritance-as-residue-and-the-need-for-extraction",
+      "path": "content/posts/inheritance-as-residue-and-the-need-for-extraction.md",
+      "title": "继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction",
+      "hash": "0c7ba216c8ac",
+      "in_degree": 0,
+      "out_degree": 15,
+      "links_out": [
+        "your-codebase-is-memory",
+        "having-more-is-never-the-cause",
+        "the-discount-on-agency",
+        "hierarchy-from-individual-difference",
+        "ones-potential-as-threat-or-inspiration",
+        "price-as-utterance-understanding-as-trade",
+        "production-consumption-and-the-minds-distinction",
+        "the-knowledge-problem-and-the-illusion-of-delegation",
+        "the-causal-order-of-private-residuals-and-social-surplus",
+        "public-spending-does-not-create-capital",
+        "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+        "the-opacity-of-production-and-the-weight-of-consumption",
+        "agency-compounding-and-the-argument-over-ai-feudalism",
+        "the-frontier-lifts-the-floor",
+        "ownership-and-self-worthiness"
       ]
     },
     {
@@ -4997,7 +5025,7 @@
       "path": "content/posts/ones-potential-as-threat-or-inspiration.md",
       "title": "潜能作为威胁或启发 / One’s Potential as Threat or Inspiration",
       "hash": "b68e2cc6fd51",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 7,
       "links_out": [
         "the-arithmetic-of-the-register",
@@ -5242,7 +5270,7 @@
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "自我价值感与所有权 / Ownership and Self-Worthiness",
       "hash": "7f7c75e93785",
-      "in_degree": 58,
+      "in_degree": 59,
       "out_degree": 57,
       "links_out": [
         "the-meaning-of-life-is-in-the-drafting",
@@ -5476,7 +5504,7 @@
       "path": "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md",
       "title": "政客是责任扩散的显性症状 / Politicians Are Visible Symptoms of Responsibility Diffusion",
       "hash": "028a28b54a32",
-      "in_degree": 21,
+      "in_degree": 22,
       "out_degree": 19,
       "links_out": [
         "ownership-and-self-worthiness",
@@ -5647,7 +5675,7 @@
       "path": "content/posts/price-as-utterance-understanding-as-trade.md",
       "title": "价格是言说，理解是交易 / Price as Utterance, Understanding as Trade",
       "hash": "11deadd7c5d2",
-      "in_degree": 23,
+      "in_degree": 24,
       "out_degree": 21,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -5680,7 +5708,7 @@
       "path": "content/posts/production-consumption-and-the-minds-distinction.md",
       "title": "生产、消费与心智的区分 / Production, Consumption, and the Mind's Distinction",
       "hash": "a4228e0e32b6",
-      "in_degree": 40,
+      "in_degree": 41,
       "out_degree": 41,
       "links_out": [
         "openness-is-consistency",
@@ -5733,7 +5761,7 @@
       "path": "content/posts/public-spending-does-not-create-capital.md",
       "title": "公共支出不创造资本 / Public Spending Does Not Create Capital",
       "hash": "ff04541bddf9",
-      "in_degree": 20,
+      "in_degree": 21,
       "out_degree": 19,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -7258,7 +7286,7 @@
       "path": "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md",
       "title": "私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus",
       "hash": "1df00fe604cc",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 12,
       "links_out": [
         "having-more-is-never-the-cause",
@@ -7800,7 +7828,7 @@
       "path": "content/posts/the-discount-on-agency.md",
       "title": "主体性的折现 / The Discount on Agency",
       "hash": "d3feb5d425d6",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 10,
       "links_out": [
         "having-more-is-never-the-cause",
@@ -8303,7 +8331,7 @@
       "path": "content/posts/the-frontier-lifts-the-floor.md",
       "title": "前沿抬升底线 / The Frontier Lifts the Floor",
       "hash": "440910956459",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 14,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -9200,7 +9228,7 @@
       "path": "content/posts/the-knowledge-problem-and-the-illusion-of-delegation.md",
       "title": "知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation",
       "hash": "f12b48ed8a70",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 12,
       "links_out": [
         "no-genius-can-solve-the-knowledge-problem",
@@ -9904,7 +9932,7 @@
       "path": "content/posts/the-opacity-of-production-and-the-weight-of-consumption.md",
       "title": "生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption",
       "hash": "4d0e2fdff308",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 11,
       "links_out": [
         "the-frontier-lifts-the-floor",
@@ -12520,7 +12548,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "ea27ad8ecdfa",
-      "in_degree": 408,
+      "in_degree": 409,
       "out_degree": 14,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -34374,6 +34402,186 @@
       "to": "the-mind-that-statistics-cannot-reveal",
       "rel": "points_to",
       "label": "The Mind That Statistics Cannot Reveal"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "拥有更多从不是原因"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having More Is Never the Cause"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "the-discount-on-agency",
+      "rel": "points_to",
+      "label": "主体性的折现"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "the-discount-on-agency",
+      "rel": "points_to",
+      "label": "The Discount on Agency"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "来自个体差异的层级"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "ones-potential-as-threat-or-inspiration",
+      "rel": "points_to",
+      "label": "潜能作为威胁或启发"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from Individual Difference"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "ones-potential-as-threat-or-inspiration",
+      "rel": "points_to",
+      "label": "One’s Potential as Threat or Inspiration"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "价格是言说，理解是交易"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "生产、消费与心智的区分"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "price-as-utterance-understanding-as-trade",
+      "rel": "points_to",
+      "label": "Price as Utterance, Understanding as Trade"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, Consumption, and the Mind's Distinction"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "rel": "points_to",
+      "label": "知识问题与委托的幻觉"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "the-causal-order-of-private-residuals-and-social-surplus",
+      "rel": "points_to",
+      "label": "私人残差与社会剩余的因果次序"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "the-knowledge-problem-and-the-illusion-of-delegation",
+      "rel": "points_to",
+      "label": "The Knowledge Problem and the Illusion of Delegation"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "the-causal-order-of-private-residuals-and-social-surplus",
+      "rel": "points_to",
+      "label": "The Causal Order of Private Residuals and Social Surplus"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "公共支出不创造资本"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "政客是责任扩散的显性症状"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "the-opacity-of-production-and-the-weight-of-consumption",
+      "rel": "points_to",
+      "label": "生产的不透明与消费的权重"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "public-spending-does-not-create-capital",
+      "rel": "points_to",
+      "label": "Public Spending Does Not Create Capital"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "Politicians Are Visible Symptoms of Responsibility Diffusion"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "the-opacity-of-production-and-the-weight-of-consumption",
+      "rel": "points_to",
+      "label": "The Opacity of Production and the Weight of Consumption"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "rel": "points_to",
+      "label": "能动性、复利与 AI 封建之争"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "rel": "points_to",
+      "label": "Agency, Compounding, and the Argument Over AI Feudalism"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "the-frontier-lifts-the-floor",
+      "rel": "points_to",
+      "label": "前沿抬升底线"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "the-frontier-lifts-the-floor",
+      "rel": "points_to",
+      "label": "The Frontier Lifts the Floor"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "inheritance-as-residue-and-the-need-for-extraction",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "intelligence-belongs-only-to-the-mind",
@@ -94666,8 +94874,8 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "4f4f531791d1",
-        "out_degree": 30
+        "hash": "44ed93af3ad8",
+        "out_degree": 31
       },
       {
         "id": "book:index-of-premises",
@@ -94675,8 +94883,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "918076d28424",
-        "out_degree": 445
+        "hash": "5b83ae86e563",
+        "out_degree": 446
       },
       {
         "id": "book:intelligence",
@@ -95411,6 +95619,12 @@
         "to": "the-opacity-of-production-and-the-weight-of-consumption",
         "rel": "collects",
         "label": "生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption"
+      },
+      {
+        "from": "book:economics",
+        "to": "inheritance-as-residue-and-the-need-for-extraction",
+        "rel": "collects",
+        "label": "继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction"
       },
       {
         "from": "book:index-of-premises",
@@ -97574,6 +97788,18 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "inheritance-as-residue-and-the-need-for-extraction",
+        "rel": "collects",
+        "label": "继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "inheritance-as-residue-and-the-need-for-extraction",
+        "rel": "collects",
+        "label": "继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
         "rel": "collects",
         "label": "自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution"
@@ -99602,6 +99828,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "inheritance-as-residue-and-the-need-for-extraction",
+        "rel": "collects",
+        "label": "继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "production-consumption-and-the-minds-distinction",
         "rel": "collects",
         "label": "生产、消费与心智的区分 / Production, Consumption, and the Mind's Distinction"
@@ -99788,6 +100020,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "inheritance-as-residue-and-the-need-for-extraction",
+        "rel": "collects",
+        "label": "继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-arithmetic-of-the-register",
         "rel": "collects",
         "label": "寄存器的算术 / The Arithmetic of the Register"
@@ -99863,6 +100101,12 @@
         "to": "having-more-is-never-the-cause",
         "rel": "collects",
         "label": "拥有更多从不是原因 / Having More Is Never the Cause"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "inheritance-as-residue-and-the-need-for-extraction",
+        "rel": "collects",
+        "label": "继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction"
       },
       {
         "from": "book:index-of-premises",

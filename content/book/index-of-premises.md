@@ -1783,6 +1783,24 @@ Yann LeCun's Joint-Embedding Predictive Architecture (JEPA) moves training evalu
 
 → [影子没有损失 / The Shadow Has No Loss](../../posts/the-shadow-has-no-loss/)
 
+### 社会债务与共同遗产论 / Social Debt and Common Patrimony
+`哲学 / Philosophical`
+
+从莱昂·布尔茹瓦的“社会债务”学说到约翰·罗尔斯的共同资产汇集与赫伯特·西蒙的社会资本归因，这类表述预设：既然每个个体都建立在累积的语言、科学与公民秩序之上，已实现的产出便代表着一笔可由领土国家收缴的集体遗产或起源债务，这在登记没有任何心智从零开始、数千年共享痕迹倍增了当下生产率时有用；该前提将非竞争性的人类残余——重溯时损耗为零，且在同一辖区数百万人面前于边际上对称敞开——以及有界的本地教育成本，混同为国家对特定中心所作边际区分享有的无上限股权留置权，在此到达了边界。
+
+Formulations from Léon Bourgeois's *dette sociale* to John Rawls's common-asset pooling and Herbert Simon's social-capital attribution presume that because every individual builds upon accumulated language, science, and civic order, realized output represents a collective patrimony or origin debt collectible by the territorial state, which is of use in registering that no Mind acts from nothing and that millennia of shared traces multiply present productivity; the premise reaches its boundary in conflating non-rivalrous human residue—depleted by zero upon re-tracing and symmetric at the margin across millions in the same jurisdiction—and bounded local schooling costs with an open-ended state equity lien over the marginal distinctions particular centers draw.
+
+→ [继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction](../../posts/inheritance-as-residue-and-the-need-for-extraction/)
+
+### 寻租理论 / Rent-Seeking Theory
+`经济 / Economic`
+
+戈登·塔洛克与安妮·克鲁格的寻租理论预设，使既有财富、牌照或市场准入变为政治上可争夺的对象，会将生产性努力与资本引向捕获与防御，从而使被争夺的存量本身遭到耗散而非无摩擦地转移，这在核算配额、关税与强制股权交割超出行政开支之外的资源损耗时有用；当总产出被当作有待自上而下优化的外部社会目标，而非个体中心选择在开放还是固定边界下解读相对度量所留下的下游残余时，该前提便到达了边界。
+
+Gordon Tullock and Anne Krueger's rent-seeking theory presumes that making existing wealth, licenses, or market entry politically contestable diverts productive effort and capital into capture and defense so the contested stock itself is dissipated rather than frictionlessly transferred, which is of use in accounting for the resource losses of quotas, tariffs, and mandatory equity handovers beyond administrative overhead; it reaches its boundary when aggregate output is treated as an external social objective to be optimized from above rather than the downstream residue of individual centers choosing whether to read relative measures under an open or fixed bound.
+
+→ [继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction](../../posts/inheritance-as-residue-and-the-need-for-extraction/)
+
 ## 概念 / Concepts
 
 ### 心理特质与防御机制分类学 / Psychological Trait and Defense Taxonomies
@@ -3894,11 +3912,11 @@ Car ownership is taken as the natural form of personal mobility, which is of use
 ### 私有产权 / Private Property Rights
 `经济 / Economic`
 
-私有产权把剩余索取留在做决定的人身上，在让所决之事与所用印迹之间的错配小于公有集中时有用；它在此到了边界：一旦被升格为因果上的解决方案，它就宣称了它没有的完备，并招来保护性的叠加，在私有的名义下重新集中控制。
+私有产权把剩余索取留在做决定的人身上，在让所决之事与所用印迹之间的错配小于公有集中，并使私人增量回报贴近社会回报、令资本投入使用而非因索取权削弱压低等待的机会成本而转入闲置时有用；它在此到了边界：一旦被升格为因果上的解决方案，它就宣称了它没有的完备，并招来保护性的叠加，在私有的名义下重新集中控制。
 
-Private property keeps the residual claim with the one who decides, which is of use in keeping the mismatch between what is decided and the marks used there smaller than under public concentration; it reaches its boundary in that, once elevated into the causal solution, it claims a completeness it lacks and attracts protective overlays that recentralize control under the name of private property.
+Private property keeps the residual claim with the one who decides, which is of use in keeping the mismatch between what is decided and the marks used there smaller than under public concentration and in keeping incremental private return aligned with social return so capital is deployed rather than held idle as attenuation lowers the opportunity cost of waiting; it reaches its boundary in that, once elevated into the causal solution, it claims a completeness it lacks and attracts protective overlays that recentralize control under the name of private property.
 
-→ [知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation](../../posts/the-knowledge-problem-and-the-illusion-of-delegation/)
+→ [知识问题与委托的幻觉 / The Knowledge Problem and the Illusion of Delegation](../../posts/the-knowledge-problem-and-the-illusion-of-delegation/) · [继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction](../../posts/inheritance-as-residue-and-the-need-for-extraction/)
 
 ### 产销二元分立 / Production-Consumption Dichotomy
 `经济 / Economic`
@@ -4047,11 +4065,11 @@ The reading of "emergent capability" presumes that the model has crossed a thres
 ### 再分配作为授权 / Redistribution as Authorization
 `经济 / Economic`
 
-把转移视为回路所需，在安排后来的、对残差的拾取时有用；它在此到了边界：它把因果权能放在消费上，而后来的登记无法为先前的生产授权——在剩余增长时将少数人持续进行的生产误作环境里现成的存量，一旦索取跑赢尚存的生产能力，又把缺口归咎于生产者、将其定性为榨取者而非修订索取——以转移为依据便削弱了本可磨利生产的回报。
+把转移视为回路所需，在安排后来的、对残差的拾取时有用；它在此到了边界：它把因果权能放在消费上，而后来的登记无法为先前的生产授权——将共享的文化残余冻结成私人的起源债务，在剩余增长时将少数人持续进行的生产误作环境里现成的存量，一旦索取跑赢尚存的生产能力，又把缺口归咎于生产者、将其定性为榨取者而非修订索取——以转移为依据便削薄了增量回报、压低了闲置的机会成本，并使持续的索取压力本身成为资本使用正在递减的标志。
 
-Treating transfer as what the loop requires is of use in arranging a later pickup of residue; it reaches its boundary in that it places causal power on consumption, while later registration cannot authorize earlier making—mistaking ongoing minority production for an ambient stock while surplus grows, and, once claims outrun remaining capacity, attributing the shortfall to producers as extractors rather than revising the claims—so transfer as justification thins the return that would sharpen production.
+Treating transfer as what the loop requires is of use in arranging a later pickup of residue; it reaches its boundary in that it places causal power on consumption, while later registration cannot authorize earlier making—freezing shared cultural residue into a private origin debt, mistaking ongoing minority production for an ambient stock while surplus grows, and, once claims outrun remaining capacity, attributing the shortfall to producers as extractors rather than revising the claims—so transfer as justification thins incremental returns, lowers the opportunity cost of idleness, and makes sustained pressure for extraction itself the mark of diminishing capital use.
 
-→ [秩序、剩余与道德拦截 / Order, Surplus, and the Moral Intercept](../../posts/order-surplus-and-the-moral-intercept/) · [价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth](../../posts/the-generative-mechanics-of-value-money-and-wealth/) · [生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption](../../posts/the-opacity-of-production-and-the-weight-of-consumption/)
+→ [秩序、剩余与道德拦截 / Order, Surplus, and the Moral Intercept](../../posts/order-surplus-and-the-moral-intercept/) · [价值、货币与财富的生成机制 / The Generative Mechanics of Value, Money, and Wealth](../../posts/the-generative-mechanics-of-value-money-and-wealth/) · [生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption](../../posts/the-opacity-of-production-and-the-weight-of-consumption/) · [继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction](../../posts/inheritance-as-residue-and-the-need-for-extraction/)
 
 ### 丰裕会平息零和之争 / Abundance Will Quiet Zero-Sum Contest
 `经济 / Economic`
@@ -4128,11 +4146,11 @@ The premise takes hands-on ownership of the substrate stack as the primary seat 
 ### 资源丰裕作为因果源头 / Resource Abundance as Cause
 `哲学 / Philosophical`
 
-这种叙事预设，拥有更多的资本、注意或资源，本身就是取得更多的原因，在描述可得性如何被定型、已经可见者为何持续得到最多注意时有用；它在此到了边界：拥有是先前一连串离散区分的当下渲染，只在那些动作继续时被更新、并保持可得供别的中心选取，一旦它们停下便变薄，所以把下一次偏好归给占有，是把渲染冻结成了它的作者。
+这种叙事预设，拥有更多的资本、注意或起始资源，本身就是取得更多的原因，在描述初始可得性如何被定型、已经可见者为何持续得到最多注意时有用；它在此到了边界：拥有是先前一连串离散区分的当下渲染——只在那些动作继续时被更新、并保持可得供别的中心选取，一旦它们停下便变薄——且起点的相对排名并不决定一个中心从自身基线出发所作区分的幅度，所以把成就或下一次偏好归给占有，是把渲染冻结成了它的作者。
 
-The narrative presumes that having more capital, attention or resources is itself the cause of gaining more, which is of use in describing how availability is patterned and why the already-visible keep receiving the most attention; it reaches its boundary in that having is the present rendering of successive discrete acts of distinguishing, renewed and kept available for other centers to elect only while those acts continue and thinning once they stop, so assigning the next preference to possession freezes the rendering as its author.
+The narrative presumes that having more capital, attention, or starting resources is itself the cause of gaining more, which is of use in describing how initial availability is patterned and why the already-visible keep receiving the most attention; it reaches its boundary in that having is the present rendering of successive discrete acts of distinguishing—renewed and kept available for other centers to elect only while those acts continue and thinning once they stop—and relative starting rank does not determine the amplitude of distinctions a center draws from its own baseline, so assigning achievement or the next preference to possession freezes the rendering as its author.
 
-→ [拥有更多从不是原因 / Having More Is Never the Cause](../../posts/having-more-is-never-the-cause/)
+→ [拥有更多从不是原因 / Having More Is Never the Cause](../../posts/having-more-is-never-the-cause/) · [继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction](../../posts/inheritance-as-residue-and-the-need-for-extraction/)
 
 ### 责任是附加的伦理要求 / Responsibility as Ethical Add-On
 `成功学 / Self-Help`
