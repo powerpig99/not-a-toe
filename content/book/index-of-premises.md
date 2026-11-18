@@ -1219,11 +1219,11 @@ Taking information or matter as primary, or both as dual aspects, is of use in d
 ### 制度决定论 / Institutional Determinism
 `经济 / Economic`
 
-制度解释预设好制度造就能人，在描述约束、比较不同环境时有用；它在此到了边界：制度是先前自我选择稳定下来的残余，因果次序仍在做选择的个人一侧。
+从道格拉斯·诺斯的产权框架到达龙·阿西莫格鲁、西蒙·约翰逊与詹姆斯·罗宾逊的比较解释，制度解释预设政治与法律制度决定了能干的行动者及长期经济轨迹，在描述局部约束、比较不同环境以及指明具体处境中成文法形式、速度与成本的中介通道时有用；它在此到达边界：制度只是先前自我选择与执行抉择稳定下来的残余，而非站在抉择个体前方的外部作者，将某一种局部制度安排拔高为跨时代自足的主导原因，便无法解释开放边界剩余、反应性压力与选择性退出的序列为何在迥异的法律传统间一再重现。
 
-Institutional explanation presumes good institutions produce capable people, which is of use in describing constraints and comparing environments; it reaches its boundary in that institutions are the stabilized residue of prior self-selection, so the causal order stays with choosing individuals.
+Institutional explanation—from Douglass North's property-rights framework to Daron Acemoglu, Simon Johnson, and James Robinson's comparative accounts—presumes that political and legal institutions determine capable actors and long-run economic trajectories, which is of use in describing local constraints, comparing environments, and specifying the mediating channels of statutory form, speed, and cost inside a concrete setting; it reaches its boundary in that institutions are the stabilized residue of prior self-selection and enforcement choices rather than exterior authors ahead of choosing individuals, and elevating one local institutional arrangement into a self-sufficient master cause across eras leaves unexplained why the sequence of open-bound surplus, reactive pressure, and selective exit recurs across disparate legal traditions.
 
-→ [平均值是残余，不是引擎 / The Average Is Residue, Not the Engine](../../posts/the-average-is-residue-not-the-engine/)
+→ [平均值是残余，不是引擎 / The Average Is Residue, Not the Engine](../../posts/the-average-is-residue-not-the-engine/) · [扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts](../../posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts/)
 
 ### 软件领域的杰文斯悖论 / Jevons Paradox in Software
 `经济 / Economic`
@@ -1800,6 +1800,24 @@ Formulations from Léon Bourgeois's *dette sociale* to John Rawls's common-asset
 Gordon Tullock and Anne Krueger's rent-seeking theory presumes that making existing wealth, licenses, or market entry politically contestable diverts productive effort and capital into capture and defense so the contested stock itself is dissipated rather than frictionlessly transferred, which is of use in accounting for the resource losses of quotas, tariffs, and mandatory equity handovers beyond administrative overhead; it reaches its boundary when aggregate output is treated as an external social objective to be optimized from above rather than the downstream residue of individual centers choosing whether to read relative measures under an open or fixed bound.
 
 → [继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction](../../posts/inheritance-as-residue-and-the-need-for-extraction/)
+
+### 边疆假说 / Frontier Thesis
+`经济 / Economic`
+
+弗雷德里克·杰克逊·特纳的边疆安全阀论点与沃尔特·普雷斯科特·韦布的“大边疆”繁荣假说，将现代制度开放与繁荣建模为新可及土地抬升资源相对人口比率的产物，这在登记尚无羁绊的资源边际如何在利益联盟重新闭合之前松动沿袭的法团僵化并生成可争夺剩余时有用；当该前提被当作一段已闭合的十九世纪地理插曲或均质的人口安全阀，而非具备流动能力的残余承担中心跨越物理、技术与管辖边际持续展开开放边界区分与选择性退出的一次空间实例时，便到达了边界。
+
+Frederick Jackson Turner's frontier safety-valve thesis and Walter Prescott Webb's Great Frontier boom hypothesis model modern institutional openness and prosperity as products of newly accessible land raising the resource-to-population ratio, which is of use in registering how unencumbered resource margins loosen inherited corporate rigidities and generate contestable surplus before coalition closure sets back in; the premise reaches its boundary when treated either as a closed nineteenth-century geographic episode or as a uniform demographic safety valve rather than one spatial instance of ongoing open-bound differentiation and selective exit by mobile residual-bearing centers across physical, technical, and jurisdictional margins.
+
+→ [扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts](../../posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts/)
+
+### 因果排他性 / Causal Exclusion
+`哲学 / Philosophical`
+
+由金在权在心灵哲学与解释哲学中系统阐述的因果排他性预设，一旦针对某一结果指明了充足的低层级局部机制，高层级的结构性解释便沦为冗余或必须被取代，这在防范同一解释粒度上对相同机制重复计入时有用；当它被跨不同粒度套用、将结构序列与局部中介规则视作互斥的竞争者，并把跨域规律同局部制度差异的相容——即它在局部边界内的不予驳斥——误认作对该序列本身的驳倒时，便到达了边界。
+
+Formulated by Jaegwon Kim in the philosophy of mind and explanation, causal exclusion presumes that once a sufficient lower-level local mechanism is specified for an outcome, higher-level structural accounts become redundant or must be displaced, which is of use in guarding against double-counting identical mechanisms at a single explanatory grain; it reaches its boundary when applied across distinct grains to treat structural sequences and local mediating rules as mutually exclusive competitors, mistaking a cross-domain regularity's compatibility with local institutional variation—its non-refutation inside local bounds—for a refutation of the sequence itself.
+
+→ [扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts](../../posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts/)
 
 ## 概念 / Concepts
 

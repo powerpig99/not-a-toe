@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-17T23:43:31.780Z",
+    "generated_at": "2026-11-18T08:52:00.207Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -384,6 +384,7 @@
       "content/posts/the-scaffolding-we-forget.md": "c1628ffd356a",
       "content/posts/the-scaling-loop.md": "59f678c43d21",
       "content/posts/the-self-portrait-in-the-projection.md": "2b51ab9fe625",
+      "content/posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts.md": "b37c3a884247",
       "content/posts/the-shadow-and-the-infinite.md": "3ac1eba8a057",
       "content/posts/the-shadow-has-no-loss.md": "d09668b8cea9",
       "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "1a95242ef0c5",
@@ -456,8 +457,8 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b28d61994639",
       "content/book/causality.md": "d2de779193c1",
       "content/book/consciousness.md": "5fd937c16807",
-      "content/book/economics.md": "44ed93af3ad8",
-      "content/book/index-of-premises.md": "5b83ae86e563",
+      "content/book/economics.md": "a925ce70621d",
+      "content/book/index-of-premises.md": "74e38206192f",
       "content/book/intelligence.md": "20d575920ac7",
       "content/book/knowledge-and-learning.md": "60b558ba8715",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -472,16 +473,16 @@
       "content/book/tools-and-progress.md": "0d170609c508"
     },
     "stats": {
-      "posts": 446,
-      "edges": 13690,
-      "unique_directed": 6728,
+      "posts": 447,
+      "edges": 13710,
+      "unique_directed": 6738,
       "missing_targets": 0,
-      "one_way": 1390,
+      "one_way": 1400,
       "isolated": 0,
-      "posts_with_outbound": 446,
+      "posts_with_outbound": 447,
       "book_pages": 16,
-      "book_edges": 1436,
-      "posts_reached_by_book": 446
+      "book_edges": 1440,
+      "posts_reached_by_book": 447
     }
   },
   "hubs_in": [
@@ -499,7 +500,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 91
+      "in_degree": 92
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -534,15 +535,15 @@
       "in_degree": 44
     },
     {
+      "slug": "production-consumption-and-the-minds-distinction",
+      "in_degree": 42
+    },
+    {
       "slug": "the-allocation-of-causal-power-in-validation",
       "in_degree": 42
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
-      "in_degree": 41
-    },
-    {
-      "slug": "production-consumption-and-the-minds-distinction",
       "in_degree": 41
     },
     {
@@ -3823,7 +3824,7 @@
       "path": "content/posts/inheritance-as-residue-and-the-need-for-extraction.md",
       "title": "继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction",
       "hash": "0c7ba216c8ac",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 15,
       "links_out": [
         "your-codebase-is-memory",
@@ -5120,7 +5121,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "开放即一致 / Openness Is Consistency",
       "hash": "de9e7ea03986",
-      "in_degree": 91,
+      "in_degree": 92,
       "out_degree": 90,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -5589,7 +5590,7 @@
       "path": "content/posts/precision-and-resolution.md",
       "title": "精度与分辨率 / Precision and Resolution",
       "hash": "3a07d3cc0531",
-      "in_degree": 19,
+      "in_degree": 20,
       "out_degree": 14,
       "links_out": [
         "the-comment-is-not-the-code",
@@ -5708,7 +5709,7 @@
       "path": "content/posts/production-consumption-and-the-minds-distinction.md",
       "title": "生产、消费与心智的区分 / Production, Consumption, and the Mind's Distinction",
       "hash": "a4228e0e32b6",
-      "in_degree": 41,
+      "in_degree": 42,
       "out_degree": 41,
       "links_out": [
         "openness-is-consistency",
@@ -6857,7 +6858,7 @@
       "path": "content/posts/the-average-is-residue-not-the-engine.md",
       "title": "平均值是残余，不是引擎 / The Average Is Residue, Not the Engine",
       "hash": "b881dcae3e7d",
-      "in_degree": 30,
+      "in_degree": 31,
       "out_degree": 25,
       "links_out": [
         "the-rational-choice-postulate-is-the-original-sin",
@@ -7286,7 +7287,7 @@
       "path": "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md",
       "title": "私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus",
       "hash": "b66f0ac30209",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 13,
       "links_out": [
         "having-more-is-never-the-cause",
@@ -8332,7 +8333,7 @@
       "path": "content/posts/the-frontier-lifts-the-floor.md",
       "title": "前沿抬升底线 / The Frontier Lifts the Floor",
       "hash": "440910956459",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 14,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -9933,7 +9934,7 @@
       "path": "content/posts/the-opacity-of-production-and-the-weight-of-consumption.md",
       "title": "生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption",
       "hash": "a68f03478942",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 12,
       "links_out": [
         "the-frontier-lifts-the-floor",
@@ -9994,7 +9995,7 @@
       "path": "content/posts/the-orthogonal-refusal.md",
       "title": "正交的拒绝 / The Orthogonal Refusal",
       "hash": "68eddc931d5a",
-      "in_degree": 27,
+      "in_degree": 28,
       "out_degree": 23,
       "links_out": [
         "the-question-that-installs-the-war",
@@ -10938,6 +10939,28 @@
         "the-discount-on-agency",
         "what-hinton-failed-to-understand",
         "your-codebase-is-memory"
+      ]
+    },
+    {
+      "id": "post:the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "kind": "post",
+      "slug": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "path": "content/posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts.md",
+      "title": "扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts",
+      "hash": "b37c3a884247",
+      "in_degree": 0,
+      "out_degree": 10,
+      "links_out": [
+        "production-consumption-and-the-minds-distinction",
+        "the-frontier-lifts-the-floor",
+        "the-average-is-residue-not-the-engine",
+        "inheritance-as-residue-and-the-need-for-extraction",
+        "the-orthogonal-refusal",
+        "the-causal-order-of-private-residuals-and-social-surplus",
+        "the-opacity-of-production-and-the-weight-of-consumption",
+        "war-revolution-and-the-fall-of-empires",
+        "openness-is-consistency",
+        "precision-and-resolution"
       ]
     },
     {
@@ -11956,7 +11979,7 @@
       "path": "content/posts/war-revolution-and-the-fall-of-empires.md",
       "title": "战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires",
       "hash": "964c92de37bd",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 13,
       "links_out": [
         "the-mirror-handshake-of-power",
@@ -82538,6 +82561,126 @@
       "label": "Your Codebase Is Memory"
     },
     {
+      "from": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "生产、消费与心智的区分"
+    },
+    {
+      "from": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "to": "the-frontier-lifts-the-floor",
+      "rel": "points_to",
+      "label": "前沿抬升底线"
+    },
+    {
+      "from": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, Consumption, and the Mind's Distinction"
+    },
+    {
+      "from": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "to": "the-frontier-lifts-the-floor",
+      "rel": "points_to",
+      "label": "The Frontier Lifts the Floor"
+    },
+    {
+      "from": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "平均值是残余，不是引擎"
+    },
+    {
+      "from": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "to": "inheritance-as-residue-and-the-need-for-extraction",
+      "rel": "points_to",
+      "label": "继承的残余与索取的必要"
+    },
+    {
+      "from": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "正交的拒绝"
+    },
+    {
+      "from": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "The Average Is Residue, Not the Engine"
+    },
+    {
+      "from": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "to": "inheritance-as-residue-and-the-need-for-extraction",
+      "rel": "points_to",
+      "label": "Inheritance as Residue and the Need for Extraction"
+    },
+    {
+      "from": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "to": "the-orthogonal-refusal",
+      "rel": "points_to",
+      "label": "The Orthogonal Refusal"
+    },
+    {
+      "from": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "to": "the-causal-order-of-private-residuals-and-social-surplus",
+      "rel": "points_to",
+      "label": "私人残差与社会剩余的因果次序"
+    },
+    {
+      "from": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "to": "the-causal-order-of-private-residuals-and-social-surplus",
+      "rel": "points_to",
+      "label": "The Causal Order of Private Residuals and Social Surplus"
+    },
+    {
+      "from": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "to": "the-opacity-of-production-and-the-weight-of-consumption",
+      "rel": "points_to",
+      "label": "生产的不透明与消费的权重"
+    },
+    {
+      "from": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "to": "war-revolution-and-the-fall-of-empires",
+      "rel": "points_to",
+      "label": "战争、革命与帝国的衰落"
+    },
+    {
+      "from": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "to": "the-opacity-of-production-and-the-weight-of-consumption",
+      "rel": "points_to",
+      "label": "The Opacity of Production and the Weight of Consumption"
+    },
+    {
+      "from": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "to": "war-revolution-and-the-fall-of-empires",
+      "rel": "points_to",
+      "label": "War, Revolution, and the Fall of Empires"
+    },
+    {
+      "from": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "to": "precision-and-resolution",
+      "rel": "points_to",
+      "label": "精度与分辨率"
+    },
+    {
+      "from": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "to": "precision-and-resolution",
+      "rel": "points_to",
+      "label": "Precision and Resolution"
+    },
+    {
       "from": "the-shadow-and-the-infinite",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
@@ -94900,8 +95043,8 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "44ed93af3ad8",
-        "out_degree": 31
+        "hash": "a925ce70621d",
+        "out_degree": 32
       },
       {
         "id": "book:index-of-premises",
@@ -94909,8 +95052,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "5b83ae86e563",
-        "out_degree": 446
+        "hash": "74e38206192f",
+        "out_degree": 447
       },
       {
         "id": "book:intelligence",
@@ -95651,6 +95794,12 @@
         "to": "inheritance-as-residue-and-the-need-for-extraction",
         "rel": "collects",
         "label": "继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction"
+      },
+      {
+        "from": "book:economics",
+        "to": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+        "rel": "collects",
+        "label": "扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts"
       },
       {
         "from": "book:index-of-premises",
@@ -97124,6 +97273,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+        "rel": "collects",
+        "label": "扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "ai-wont-kill-software-engineering",
         "rel": "collects",
         "label": "AI 不会终结软件工程，而是将其扩展 / AI Won't Kill Software Engineering, It Will Expand It"
@@ -97823,6 +97978,18 @@
         "to": "inheritance-as-residue-and-the-need-for-extraction",
         "rel": "collects",
         "label": "继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+        "rel": "collects",
+        "label": "扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+        "rel": "collects",
+        "label": "扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts"
       },
       {
         "from": "book:index-of-premises",
