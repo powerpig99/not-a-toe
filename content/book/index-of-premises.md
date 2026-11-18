@@ -240,7 +240,7 @@ Deutsch's critical-rationalist universalism models human minds as universal expl
 
 Hilbert takes as his premise that mathematics can be exhausted within a complete, consistent, and decidable axiomatic formal system, which gave modern formal logic and proof theory exact objects of study; it reaches its boundary in that, for any consistent, effectively axiomatized system strong enough for basic arithmetic, Gödel constructs sentences the system can neither prove nor refute from within and shows it cannot prove its own consistency from within, while the demand for axiomatic closure treats one finite hold as the whole field of distinguishing.
 
-→ [为何数学永远解不完 / Why Mathematics Can Never Be Solved](../../posts/why-mathematics-can-never-be-solved/) · [无穷总体的海市蜃楼 / The Mirage of the Infinite Totality](../../posts/the-mirage-of-the-infinite-totality/) · [没有系统能被保持封闭 / No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/)
+→ [为何数学永远解不完 / Why Mathematics Can Never Be Solved](../../posts/why-mathematics-can-never-be-solved/) · [无穷总体的海市蜃楼 / The Mirage of the Infinite Totality](../../posts/the-mirage-of-the-infinite-totality/) · [没有系统能被保持封闭 / No System Can Be Kept Closed](../../posts/no-system-can-be-kept-closed/) · [整数的内建无限与背景化的选择 / The Built-in Infinity of Integers and the Backgrounded Choice](../../posts/the-built-in-infinity-of-integers-and-the-backgrounded-choice/)
 
 ### 德米斯·哈萨比斯 / Demis Hassabis
 `技术 / Technological`
@@ -501,7 +501,7 @@ Popper replaces inductivist verification with conjecture, refutation, and piecem
 
 Weierstrass grounded analysis in rigorous epsilon-delta limit definitions over the real-number continuum and constructed functions continuous everywhere yet differentiable nowhere, which is of use in giving the calculus an exact algorithmic foundation and in exposing where the assumption of universal smoothness fails; it reaches its boundary when limit closure over the real line is carried over to reality itself, where every causal advance (+1) retains a non-zero interval (dx ≠ 0).
 
-→ [连续性作为建模的权宜之计 / The Continuum is a Modeling Convenience](../../posts/the-continuum-is-a-modeling-convenience/)
+→ [连续性作为建模的权宜之计 / The Continuum is a Modeling Convenience](../../posts/the-continuum-is-a-modeling-convenience/) · [整数的内建无限与背景化的选择 / The Built-in Infinity of Integers and the Backgrounded Choice](../../posts/the-built-in-infinity-of-integers-and-the-backgrounded-choice/)
 
 ### 凯文·凯利 / Kevin Kelly
 `技术 / Technological`
@@ -528,7 +528,7 @@ Gödel takes as his premise a consistent, effectively axiomatized formal hold st
 
 Brouwer's intuitionism shows through choice sequences that classical excluded middle (P ∨ ¬P) and double-negation elimination (¬¬P → P) presuppose a completed finite collection and fail across unfinished horizons without an added closure operator, which is of use in formalizing verification across finite-yet-open processes; his program reaches its boundary when mathematical construction is withdrawn into a private, language-free inner intuition detached from shared symbolic and physical friction.
 
-→ [区分活动与否定的显现 / Differentiation and the Appearance of Negation](../../posts/differentiation-and-the-appearance-of-negation/)
+→ [区分活动与否定的显现 / Differentiation and the Appearance of Negation](../../posts/differentiation-and-the-appearance-of-negation/) · [整数的内建无限与背景化的选择 / The Built-in Infinity of Integers and the Backgrounded Choice](../../posts/the-built-in-infinity-of-integers-and-the-backgrounded-choice/)
 
 ### 老子 / Laozi
 `哲学 / Philosophical`
@@ -1860,11 +1860,11 @@ The contest between acceleration and deceleration reads progress as a duel of tw
 ### 实无穷（完成的整体） / Actual Infinity (Completed Totality)
 `数学 / Mathematical`
 
-把无尽的过程当作已完成的整体——无论是将一切阶段聚拢为一个无限集合，还是在连续统上设定固定的解析起点以使有限阶段比值的极限定义出渐近密度——是一项语境前提，在前提被握住时使认证有效；它的边界在于潜无穷刻画的是无法完结的步进过程而非可封存的对象，把暂时的形式闭合误认作已清点完毕的宇宙或实存整体，便将有界模型投射到了其视界之外。
+把无尽的过程当作已完成的整体——无论是将精确值（5.000…）那串开放的尾零转化为背景化的对象、将一切阶段聚拢为一个无限集合，还是在连续统上设定固定的解析起点以使有限阶段比值的极限定义出渐近密度——是一项语境前提，在转化保持背景化时使算术、分析与演绎认证得以稳定推进；它的边界在于潜无穷刻画的是无法完结的步进过程而非可封存的对象，因此当被背景化的实无穷以与有限工作假设相冲突的方式重现、或被误认作已清点完毕的宇宙整体时，没有任何内部规则能在缺乏观察者进一步选择的情况下消解这一冲突。
 
-Treating an unending process as a completed whole—whether by gathering all stages into an infinite set or by positing fixed analytic starting points over the continuum so that limits of finite stage-ratios define asymptotic densities—is a contextual premise, which is of use in that certification holds while the premise is held; it reaches its boundary in that potential infinity describes an unfinishable step-by-step process rather than a storable object, so mistaking temporary formal closure for a surveyed cosmic or existential totality projects a bounded model past its horizon.
+Treating an unending process as a completed whole—whether by converting the open trailing zeros of an exact value (5.000…) into a backgrounded object, gathering all stages into an infinite set, or positing fixed analytic starting points over the continuum so that limits of finite stage-ratios define asymptotic densities—is a contextual premise, which is of use in that arithmetic, analysis, and deductive certification proceed stably while the conversion stays backgrounded; it reaches its boundary in that potential infinity describes an unfinishable step-by-step process rather than a storable object, so when backgrounded actual infinity returns in conflict with finite working assumptions or is mistaken for a surveyed cosmic totality, no internal rule resolves the clash without a further choice by the observer.
 
-→ [潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/) · [无穷总体的海市蜃楼 / The Mirage of the Infinite Totality](../../posts/the-mirage-of-the-infinite-totality/) · [永生与两种无限的混淆 / Immortality and the Two-Infinity Confusion](../../posts/immortality-final/) · [算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records](../../posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records/) · [全息回声 / The Holographic Echo](../../posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function/) · [无法逃逸的心智视界 / One Cannot Escape One's Own Mind](../../posts/one-cannot-escape-ones-own-mind/)
+→ [潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought](../../posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought/) · [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/) · [无穷总体的海市蜃楼 / The Mirage of the Infinite Totality](../../posts/the-mirage-of-the-infinite-totality/) · [永生与两种无限的混淆 / Immortality and the Two-Infinity Confusion](../../posts/immortality-final/) · [算符的潜无限与记录的有限边界 / The Potential Infinity of Operators and the Finite Horizon of Records](../../posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records/) · [全息回声 / The Holographic Echo](../../posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function/) · [无法逃逸的心智视界 / One Cannot Escape One's Own Mind](../../posts/one-cannot-escape-ones-own-mind/) · [整数的内建无限与背景化的选择 / The Built-in Infinity of Integers and the Backgrounded Choice](../../posts/the-built-in-infinity-of-integers-and-the-backgrounded-choice/)
 
 ### 精算滞后均值定价 / Actuarial Lagged Average Pricing
 `经济 / Economic`
@@ -2072,6 +2072,15 @@ The authorial persona presumes that the work is evidence of who the writer is, w
 Averaged parenting methods distil patterns from many children, which is of use in knowing what is common at a given age; they reach their boundary in that individual self-drive can neither be seen nor averaged, what actually drives a particular child now can only be sensed through close observation and putting oneself in the child's place, and what parents can give is more options and no added interference.
 
 → [外部归因是个人进步的障碍 / External Attribution Is the Obstacle to Personal Growth](../../posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai/)
+
+### 选择公理与巴拿赫-塔斯基分球悖论 / Axiom of Choice and the Banach–Tarski Paradox
+`数学 / Mathematical`
+
+选择公理在不给出构造性规则的情况下，设定可从任意（包括不可数的）非空集合族中同时选出精确元素，在保障代数、拓扑与泛函分析中跨无限结构的统一存在性结果时有用；当它与连续统上的零宽度点结合，生出与普遍测度及体积守恒相冲突的维塔利不可测集与巴拿赫-塔斯基刚体运动倍球构造时便到达了边界，暴露出一种可观察现实中并不存在的设定的实无限，其处置要求观察者做出进一步的形式外选择。
+
+The Axiom of Choice posits simultaneous selection of exact elements across arbitrary—including uncountable—collections of non-empty sets without a constructive rule, which is of use in securing uniform existence results across infinite structures in algebra, topology, and functional analysis; it reaches its boundary when combined with zero-width continuum points to produce Vitali non-measurable sets and Banach–Tarski rigid-motion ball duplications that collide with universal measure and volume conservation, exposing a posited actual infinity absent from observable reality whose disposal requires a further extra-formal choice by the observer.
+
+→ [整数的内建无限与背景化的选择 / The Built-in Infinity of Integers and the Backgrounded Choice](../../posts/the-built-in-infinity-of-integers-and-the-backgrounded-choice/)
 
 ### 贝叶斯更新作为中立发现 / Bayesian Updating as Neutral Discovery
 `数学 / Mathematical`

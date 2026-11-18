@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-18T20:21:24.919Z",
+    "generated_at": "2026-11-18T21:17:35.289Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -236,6 +236,7 @@
       "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "02ed5c71691c",
       "content/posts/the-boundary-of-the-frame.md": "d379a51837b8",
       "content/posts/the-brain-does-not-backprop.md": "d3980f4bb6ab",
+      "content/posts/the-built-in-infinity-of-integers-and-the-backgrounded-choice.md": "c5729e23bdf4",
       "content/posts/the-capability-reversal-of-empathy-and-the-contest-of-boundaries.md": "a8a4ce29b72b",
       "content/posts/the-carry-that-cannot-be-named-inside-the-register.md": "c9d4f62e603a",
       "content/posts/the-cartesian-overstep-and-the-frenzy-of-creation.md": "b6bc0c00f0f4",
@@ -458,11 +459,11 @@
       "content/book/causality.md": "d2de779193c1",
       "content/book/consciousness.md": "5fd937c16807",
       "content/book/economics.md": "a925ce70621d",
-      "content/book/index-of-premises.md": "74e38206192f",
+      "content/book/index-of-premises.md": "763c8fadd26a",
       "content/book/intelligence.md": "20d575920ac7",
       "content/book/knowledge-and-learning.md": "60b558ba8715",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
-      "content/book/mathematics.md": "8f6d273c0db8",
+      "content/book/mathematics.md": "d0b4c00d2823",
       "content/book/meaning-and-transcendence.md": "6a1e8d623959",
       "content/book/method.md": "2f0a174477dc",
       "content/book/morality.md": "74e5662f2868",
@@ -473,16 +474,16 @@
       "content/book/tools-and-progress.md": "0d170609c508"
     },
     "stats": {
-      "posts": 447,
-      "edges": 13712,
-      "unique_directed": 6739,
+      "posts": 448,
+      "edges": 13732,
+      "unique_directed": 6749,
       "missing_targets": 0,
-      "one_way": 1399,
+      "one_way": 1409,
       "isolated": 0,
-      "posts_with_outbound": 447,
+      "posts_with_outbound": 448,
       "book_pages": 16,
-      "book_edges": 1440,
-      "posts_reached_by_book": 447
+      "book_edges": 1446,
+      "posts_reached_by_book": 448
     }
   },
   "hubs_in": [
@@ -500,7 +501,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 92
+      "in_degree": 93
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -508,7 +509,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 75
+      "in_degree": 76
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
@@ -516,7 +517,7 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 67
+      "in_degree": 68
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -3091,7 +3092,7 @@
       "path": "content/posts/fixed-by-nothing.md",
       "title": "没有固定者的固定 / Fixed by Nothing",
       "hash": "313cd55bcbb5",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 13,
       "links_out": [
         "the-deterministic-machine",
@@ -3691,7 +3692,7 @@
       "path": "content/posts/incompleteness-exhibited-twice.md",
       "title": "两度显现的不完备性 / Incompleteness Exhibited Twice",
       "hash": "9b8460b798af",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 7,
       "links_out": [
         "no-system-can-be-kept-closed",
@@ -4654,7 +4655,7 @@
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "没有系统能被保持封闭 / No System Can Be Kept Closed",
       "hash": "95f8f98fd0ff",
-      "in_degree": 67,
+      "in_degree": 68,
       "out_degree": 68,
       "links_out": [
         "openness-is-consistency",
@@ -4975,7 +4976,7 @@
       "path": "content/posts/on-the-boundaries-of-what-can-be-said-about-p-and-np.md",
       "title": "论关于 P 与 NP 所能言说的边界 / On the Boundaries of What Can Be Said about P and NP",
       "hash": "2cb5a3dff94a",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 10,
       "links_out": [
         "the-illusion-of-the-tool-and-the-inversion-of-time",
@@ -5121,7 +5122,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "开放即一致 / Openness Is Consistency",
       "hash": "de9e7ea03986",
-      "in_degree": 92,
+      "in_degree": 93,
       "out_degree": 90,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -5536,7 +5537,7 @@
       "path": "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md",
       "title": "潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought",
       "hash": "d2ace65813d6",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 20,
       "links_out": [
         "the-mirage-of-the-infinite-totality",
@@ -5590,7 +5591,7 @@
       "path": "content/posts/precision-and-resolution.md",
       "title": "精度与分辨率 / Precision and Resolution",
       "hash": "3a07d3cc0531",
-      "in_degree": 20,
+      "in_degree": 21,
       "out_degree": 14,
       "links_out": [
         "the-comment-is-not-the-code",
@@ -7141,6 +7142,28 @@
       ]
     },
     {
+      "id": "post:the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "kind": "post",
+      "slug": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "path": "content/posts/the-built-in-infinity-of-integers-and-the-backgrounded-choice.md",
+      "title": "整数的内建无限与背景化的选择 / The Built-in Infinity of Integers and the Backgrounded Choice",
+      "hash": "c5729e23bdf4",
+      "in_degree": 0,
+      "out_degree": 10,
+      "links_out": [
+        "precision-and-resolution",
+        "the-mirage-of-the-infinite-totality",
+        "the-continuum-is-a-modeling-convenience",
+        "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+        "the-scaffolding-we-forget",
+        "fixed-by-nothing",
+        "openness-is-consistency",
+        "no-system-can-be-kept-closed",
+        "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+        "incompleteness-exhibited-twice"
+      ]
+    },
+    {
       "id": "post:the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
       "kind": "post",
       "slug": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
@@ -7528,7 +7551,7 @@
       "path": "content/posts/the-continuum-is-a-modeling-convenience.md",
       "title": "连续性作为建模的权宜之计 / The Continuum is a Modeling Convenience",
       "hash": "73d5986ffc82",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 10,
       "links_out": [
         "demanding-a-toe-freezes-time-into-a-catalog",
@@ -9573,7 +9596,7 @@
       "path": "content/posts/the-mirage-of-the-infinite-totality.md",
       "title": "无穷总体的海市蜃楼 / The Mirage of the Infinite Totality",
       "hash": "befa5078c345",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 7,
       "links_out": [
         "the-geometry-of-mind",
@@ -10802,7 +10825,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "遗忘的脚手架 / The Scaffolding We Forget",
       "hash": "c1628ffd356a",
-      "in_degree": 75,
+      "in_degree": 76,
       "out_degree": 71,
       "links_out": [
         "the-extendable-horizon",
@@ -57638,6 +57661,126 @@
       "label": "What Hinton Failed to Understand"
     },
     {
+      "from": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "to": "precision-and-resolution",
+      "rel": "points_to",
+      "label": "精度与分辨率"
+    },
+    {
+      "from": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "to": "the-mirage-of-the-infinite-totality",
+      "rel": "points_to",
+      "label": "无穷总体的海市蜃楼"
+    },
+    {
+      "from": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "to": "precision-and-resolution",
+      "rel": "points_to",
+      "label": "Precision and Resolution"
+    },
+    {
+      "from": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "to": "the-mirage-of-the-infinite-totality",
+      "rel": "points_to",
+      "label": "The Mirage of the Infinite Totality"
+    },
+    {
+      "from": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "to": "the-continuum-is-a-modeling-convenience",
+      "rel": "points_to",
+      "label": "连续性作为建模的权宜之计"
+    },
+    {
+      "from": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "潜无限与数学思维的暂时闭合"
+    },
+    {
+      "from": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "to": "the-continuum-is-a-modeling-convenience",
+      "rel": "points_to",
+      "label": "The Continuum is a Modeling Convenience"
+    },
+    {
+      "from": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "to": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "rel": "points_to",
+      "label": "Potential Infinity and the Temporary Closures of Mathematical Thought"
+    },
+    {
+      "from": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "to": "fixed-by-nothing",
+      "rel": "points_to",
+      "label": "没有固定者的固定"
+    },
+    {
+      "from": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "to": "fixed-by-nothing",
+      "rel": "points_to",
+      "label": "Fixed by Nothing"
+    },
+    {
+      "from": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
+      "from": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "rel": "points_to",
+      "label": "论关于 P 与 NP 所能言说的边界"
+    },
+    {
+      "from": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "to": "incompleteness-exhibited-twice",
+      "rel": "points_to",
+      "label": "两度显现的不完备性"
+    },
+    {
+      "from": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
+      "rel": "points_to",
+      "label": "On the Boundaries of What Can Be Said about P and NP"
+    },
+    {
+      "from": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "to": "incompleteness-exhibited-twice",
+      "rel": "points_to",
+      "label": "Incompleteness Exhibited Twice"
+    },
+    {
       "from": "the-capability-reversal-of-empathy-and-the-contest-of-boundaries",
       "to": "empathy-as-projection-collapse",
       "rel": "points_to",
@@ -95065,8 +95208,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "74e38206192f",
-        "out_degree": 447
+        "hash": "763c8fadd26a",
+        "out_degree": 448
       },
       {
         "id": "book:intelligence",
@@ -95101,8 +95244,8 @@
         "slug": "mathematics",
         "path": "content/book/mathematics.md",
         "title": "数学与逻辑的边界 / The Boundaries of Mathematics and Logic",
-        "hash": "8f6d273c0db8",
-        "out_degree": 22
+        "hash": "d0b4c00d2823",
+        "out_degree": 23
       },
       {
         "id": "book:meaning-and-transcendence",
@@ -96062,6 +96205,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+        "rel": "collects",
+        "label": "整数的内建无限与背景化的选择 / The Built-in Infinity of Integers and the Backgrounded Choice"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "hassabis-einstein-test",
         "rel": "collects",
         "label": "爱因斯坦测试与通用人工智能的范畴谬误 / The Einstein Test and the AGI Category Error"
@@ -96374,6 +96523,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+        "rel": "collects",
+        "label": "整数的内建无限与背景化的选择 / The Built-in Infinity of Integers and the Backgrounded Choice"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "better-than-free-after-the-checklist-closes",
         "rel": "collects",
         "label": "清单合上之后，胜过免费 / Better Than Free After the Checklist Closes"
@@ -96401,6 +96556,12 @@
         "to": "differentiation-and-the-appearance-of-negation",
         "rel": "collects",
         "label": "区分活动与否定的显现 / Differentiation and the Appearance of Negation"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+        "rel": "collects",
+        "label": "整数的内建无限与背景化的选择 / The Built-in Infinity of Integers and the Backgrounded Choice"
       },
       {
         "from": "book:index-of-premises",
@@ -98078,6 +98239,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+        "rel": "collects",
+        "label": "整数的内建无限与背景化的选择 / The Built-in Infinity of Integers and the Backgrounded Choice"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "ownership-cost-freezes-lagged-averages-as-vehicle-property",
         "rel": "collects",
         "label": "拥有成本把滞后的平均值冻结为车辆属性 / Ownership Cost Freezes Lagged Averages as Vehicle Property"
@@ -98285,6 +98452,12 @@
         "to": "wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai",
         "rel": "collects",
         "label": "外部归因是个人进步的障碍 / External Attribution Is the Obstacle to Personal Growth"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+        "rel": "collects",
+        "label": "整数的内建无限与背景化的选择 / The Built-in Infinity of Integers and the Backgrounded Choice"
       },
       {
         "from": "book:index-of-premises",
@@ -102557,6 +102730,12 @@
         "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
         "rel": "collects",
         "label": "论关于 P 与 NP 所能言说的边界 / On the Boundaries of What Can Be Said about P and NP"
+      },
+      {
+        "from": "book:mathematics",
+        "to": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+        "rel": "collects",
+        "label": "整数的内建无限与背景化的选择 / The Built-in Infinity of Integers and the Backgrounded Choice"
       },
       {
         "from": "book:meaning-and-transcendence",
