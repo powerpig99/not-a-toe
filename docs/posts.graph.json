@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-18T11:48:13.820Z",
+    "generated_at": "2026-11-18T20:21:24.919Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -348,7 +348,7 @@
       "content/posts/the-npc-impression-is-structural.md": "cd677ff828e2",
       "content/posts/the-observational-cut-in-ai-debates.md": "b18a53c9a69c",
       "content/posts/the-only-coherent-uncaused-effect.md": "7fe84abc56e1",
-      "content/posts/the-opacity-of-production-and-the-weight-of-consumption.md": "a68f03478942",
+      "content/posts/the-opacity-of-production-and-the-weight-of-consumption.md": "9d5edc313265",
       "content/posts/the-open-question-is-determinisms-demand.md": "670d76055718",
       "content/posts/the-origin-of-god-and-the-flattening-of-we.md": "dc29182803e7",
       "content/posts/the-orthogonal-refusal.md": "68eddc931d5a",
@@ -474,10 +474,10 @@
     },
     "stats": {
       "posts": 447,
-      "edges": 13710,
-      "unique_directed": 6738,
+      "edges": 13712,
+      "unique_directed": 6739,
       "missing_targets": 0,
-      "one_way": 1400,
+      "one_way": 1399,
       "isolated": 0,
       "posts_with_outbound": 447,
       "book_pages": 16,
@@ -9933,9 +9933,9 @@
       "slug": "the-opacity-of-production-and-the-weight-of-consumption",
       "path": "content/posts/the-opacity-of-production-and-the-weight-of-consumption.md",
       "title": "生产的不透明与消费的权重 / The Opacity of Production and the Weight of Consumption",
-      "hash": "a68f03478942",
+      "hash": "9d5edc313265",
       "in_degree": 6,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "the-frontier-lifts-the-floor",
         "production-consumption-and-the-minds-distinction",
@@ -9948,6 +9948,7 @@
         "fate-loves-irony-refined",
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "symptom-and-cause-in-the-narratives-of-progress",
+        "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
         "inheritance-as-residue-and-the-need-for-extraction"
       ]
     },
@@ -10948,7 +10949,7 @@
       "path": "content/posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts.md",
       "title": "扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts",
       "hash": "97fa53f31ce5",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 10,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -75554,6 +75555,12 @@
     },
     {
       "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "rel": "points_to",
+      "label": "扩张的序列与局部解释的边界"
+    },
+    {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
       "to": "inheritance-as-residue-and-the-need-for-extraction",
       "rel": "points_to",
       "label": "继承的残余与索取的必要"
@@ -75569,6 +75576,12 @@
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
       "label": "Symptom and Cause in the Narratives of Progress"
+    },
+    {
+      "from": "the-opacity-of-production-and-the-weight-of-consumption",
+      "to": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "rel": "points_to",
+      "label": "The Sequence of Expansion and the Boundary of Local Accounts"
     },
     {
       "from": "the-opacity-of-production-and-the-weight-of-consumption",
