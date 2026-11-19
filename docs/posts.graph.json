@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-19T16:28:15.252Z",
+    "generated_at": "2026-11-19T16:42:10.828Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -130,7 +130,7 @@
       "content/posts/intelligence-in-observation-and-the-residual-gap.md": "719afcfe2d22",
       "content/posts/intelligence-traps-itself.md": "bf8f67026fc6",
       "content/posts/judgment-is-not-a-stock.md": "9526af861c78",
-      "content/posts/learned-boundaries-and-the-given-rate.md": "f556b3f1d50b",
+      "content/posts/learned-boundaries-and-the-given-rate.md": "7d1044bd75be",
       "content/posts/liberation-rhetoric-begins-by-defining-captivity.md": "b5bfd1bca0dc",
       "content/posts/looping-and-graphing.md": "84a49b152718",
       "content/posts/lossless-knowledge-of-an-open-field-is-incoherent.md": "e03ae51209c7",
@@ -326,7 +326,7 @@
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "a0f7699171d8",
       "content/posts/the-ledger-of-the-unencountered.md": "ffcdbfc26a69",
       "content/posts/the-limitation-is-doing-work.md": "bdf4b71e4176",
-      "content/posts/the-living-context.md": "133d0b321f30",
+      "content/posts/the-living-context.md": "f48e41a1b31f",
       "content/posts/the-local-trap-of-technological-change.md": "90573245bd77",
       "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "a4b2df46f59c",
       "content/posts/the-loop-accelerates.md": "60608a02a0ed",
@@ -356,7 +356,7 @@
       "content/posts/the-orthogonal-refusal.md": "68eddc931d5a",
       "content/posts/the-other-coherence.md": "8dac9149aa79",
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "8a5dcab5164f",
-      "content/posts/the-paradoxical-nature-of-bystander-insights.md": "4aff15eb74da",
+      "content/posts/the-paradoxical-nature-of-bystander-insights.md": "bcf79f9d0dc1",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "233ee9b4ead4",
       "content/posts/the-perceiver-and-the-trace.md": "3ef4ce6ab500",
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "8d14b5508798",
@@ -477,10 +477,10 @@
     },
     "stats": {
       "posts": 450,
-      "edges": 13804,
-      "unique_directed": 6785,
+      "edges": 13806,
+      "unique_directed": 6786,
       "missing_targets": 0,
-      "one_way": 1437,
+      "one_way": 1436,
       "isolated": 0,
       "posts_with_outbound": 450,
       "book_pages": 16,
@@ -4063,7 +4063,7 @@
       "slug": "learned-boundaries-and-the-given-rate",
       "path": "content/posts/learned-boundaries-and-the-given-rate.md",
       "title": "学到的边界与给定的尺度 / Learned Boundaries and the Given Rate",
-      "hash": "f556b3f1d50b",
+      "hash": "7d1044bd75be",
       "in_degree": 19,
       "out_degree": 16,
       "links_out": [
@@ -4479,7 +4479,7 @@
       "path": "content/posts/mistaking-the-symptom-of-stability-for-its-source.md",
       "title": "把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source",
       "hash": "c016f68c2992",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 11,
       "links_out": [
         "when-the-effect-authors-the-frame",
@@ -9374,7 +9374,7 @@
       "slug": "the-living-context",
       "path": "content/posts/the-living-context.md",
       "title": "活的语境 / The Living Context",
-      "hash": "133d0b321f30",
+      "hash": "f48e41a1b31f",
       "in_degree": 7,
       "out_degree": 14,
       "links_out": [
@@ -10128,9 +10128,9 @@
       "slug": "the-paradoxical-nature-of-bystander-insights",
       "path": "content/posts/the-paradoxical-nature-of-bystander-insights.md",
       "title": "旁观者洞察的悖论 / The Paradoxical Nature of Bystander Insights",
-      "hash": "4aff15eb74da",
+      "hash": "bcf79f9d0dc1",
       "in_degree": 24,
-      "out_degree": 26,
+      "out_degree": 27,
       "links_out": [
         "not-predicting-is-predicting-without-awareness",
         "the-path-drawn-one-step-at-a-time",
@@ -10152,6 +10152,7 @@
         "beyond-the-projection",
         "your-codebase-is-memory",
         "dynamic-resnet-of-skill-loops",
+        "mistaking-the-symptom-of-stability-for-its-source",
         "the-scaffolding-we-forget",
         "when-observation-becomes-performance",
         "liberation-rhetoric-begins-by-defining-captivity",
@@ -76894,6 +76895,12 @@
     },
     {
       "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "把稳定的症状当作稳定的来源"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
       "label": "遗忘的脚手架"
@@ -76927,6 +76934,12 @@
       "to": "dynamic-resnet-of-skill-loops",
       "rel": "points_to",
       "label": "Modular Feedback Loops and Dynamic Residual Networks"
+    },
+    {
+      "from": "the-paradoxical-nature-of-bystander-insights",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "Mistaking the Symptom of Stability for Its Source"
     },
     {
       "from": "the-paradoxical-nature-of-bystander-insights",
