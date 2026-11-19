@@ -3,13 +3,13 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-19T13:55:06.889Z",
+    "generated_at": "2026-11-19T16:28:15.252Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
     "sources": {
       "content/posts/Analysis_Adolescence_of_Technology.md": "17ccf2b9ca9a",
-      "content/posts/a-creation-cannot-replace-its-source.md": "23b609f239e0",
+      "content/posts/a-creation-cannot-replace-its-source.md": "ad2368cc5f68",
       "content/posts/a-living-external-cortex.md": "83fdc6202c48",
       "content/posts/a-new-deeper-look-at-antifragility.md": "e5ed06c9658d",
       "content/posts/abstract-pain-and-living-hunger.md": "aedc3cbddfaa",
@@ -34,7 +34,7 @@
       "content/posts/beyond-the-hundred-trillion-horizon.md": "efe4f919f7cd",
       "content/posts/beyond-the-projection.md": "78576807063b",
       "content/posts/boletus-compute-storm-and-promethean-fire.md": "db1b5db3be64",
-      "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md": "5918317b1cbf",
+      "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md": "b9dd99668de7",
       "content/posts/causality-all-the-way.md": "08b98022c4d7",
       "content/posts/causality-and-the-irreducible-prior.md": "23039b57892e",
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "064fb7c61926",
@@ -67,7 +67,7 @@
       "content/posts/curiosity-first-the-hidden-engine-of-talent-and-development.md": "de3299fb5449",
       "content/posts/curiosity-has-no-final-form.md": "100335def2de",
       "content/posts/cybersecurity-arms-race.md": "148e05f366f1",
-      "content/posts/data-is-local-intelligence-is-allocated.md": "94f7f326fb08",
+      "content/posts/data-is-local-intelligence-is-allocated.md": "020cfd693da3",
       "content/posts/deceleration-is-the-drag-felt-when-accelerating.md": "1629b8d67b12",
       "content/posts/demanding-a-toe-freezes-time-into-a-catalog.md": "f146489c346f",
       "content/posts/determinism-is-the-statistical-signature-of-micro-indeterminism.md": "53c91884d044",
@@ -75,7 +75,7 @@
       "content/posts/dimensions-are-projections.md": "dd78fc90ba94",
       "content/posts/distillation-compression-agency.md": "8be4ecf97ac2",
       "content/posts/du-zhongwen-zhexue-jianshi-you-gan.md": "b64fa4420bd4",
-      "content/posts/dynamic-resnet-of-skill-loops.md": "baf38b64137d",
+      "content/posts/dynamic-resnet-of-skill-loops.md": "04d7cda3949b",
       "content/posts/e-shi-feng-bi-de-shan.md": "035dbeba3f38",
       "content/posts/efficiency-without-differentiation.md": "970b7f818642",
       "content/posts/emotional-support-as-causal-interference.md": "37673ac9a9a2",
@@ -107,7 +107,7 @@
       "content/posts/grok-420-framework-drift.md": "8bdca7e537fb",
       "content/posts/guan-yu-gui-yin.md": "da039a5a5061",
       "content/posts/guidance-is-not-ownership.md": "4bd9a73e2d08",
-      "content/posts/handing-off-residue.md": "54641f5f6655",
+      "content/posts/handing-off-residue.md": "edecd6cd7fd4",
       "content/posts/happiness-is-the-relation-of-desire-to-state.md": "cb2d29e8cb0d",
       "content/posts/hardness-is-not-inherent-in-the-action.md": "e941416bc90e",
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "e145bfea5ec3",
@@ -162,7 +162,7 @@
       "content/posts/objects-are-stabilized-relationships.md": "5c88afea080b",
       "content/posts/observation-distinguishing-activity-and-the-open-ground-of-mind.md": "39117b90bc28",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "b42c528284b2",
-      "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "2e8a1140f57c",
+      "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "26d16a70093f",
       "content/posts/on-education.md": "2506ab652440",
       "content/posts/on-the-boundaries-of-what-can-be-said-about-p-and-np.md": "2cb5a3dff94a",
       "content/posts/one-cannot-escape-ones-own-mind.md": "474dad0e12f2",
@@ -199,7 +199,7 @@
       "content/posts/residual-control-recedes-to-the-edge.md": "3de7bf12eb33",
       "content/posts/residual-individualism.md": "ce5cf1738f1e",
       "content/posts/restriction-is-a-selective-tax.md": "014f812a6322",
-      "content/posts/scaffolds-or-specialized-contexts.md": "594b21b4d06e",
+      "content/posts/scaffolds-or-specialized-contexts.md": "2b7375e218aa",
       "content/posts/school_essay_final.md": "f18cabb10f9c",
       "content/posts/selection-contradiction-and-open-reality.md": "1101972968c9",
       "content/posts/self-image-speaks-as-if-from-nowhere.md": "d54f33e1f49f",
@@ -260,7 +260,7 @@
       "content/posts/the-cut-moves-but-never-vanishes.md": "cea7c1e1af61",
       "content/posts/the-defining-seat.md": "45b6527255eb",
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "3205a7cd6a37",
-      "content/posts/the-density-of-judgment.md": "824c87f92b0a",
+      "content/posts/the-density-of-judgment.md": "617d36bce730",
       "content/posts/the-descent-that-doesnt-know-where-its-going.md": "9bb0244423b3",
       "content/posts/the-deterministic-machine.md": "d279084d6516",
       "content/posts/the-digital-god-and-the-horizon-jump.md": "57a85b713c5f",
@@ -326,7 +326,7 @@
       "content/posts/the-ladder-of-abstraction-and-the-executable-entity.md": "a0f7699171d8",
       "content/posts/the-ledger-of-the-unencountered.md": "ffcdbfc26a69",
       "content/posts/the-limitation-is-doing-work.md": "bdf4b71e4176",
-      "content/posts/the-living-context.md": "007b6786593c",
+      "content/posts/the-living-context.md": "133d0b321f30",
       "content/posts/the-local-trap-of-technological-change.md": "90573245bd77",
       "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "a4b2df46f59c",
       "content/posts/the-loop-accelerates.md": "60608a02a0ed",
@@ -362,7 +362,7 @@
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "8d14b5508798",
       "content/posts/the-power-law-of-surrendered-agency.md": "b103a48206f4",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "923abff8173e",
-      "content/posts/the-price-of-closing-optionality.md": "c81e464a3b6c",
+      "content/posts/the-price-of-closing-optionality.md": "d0b37dcf9c83",
       "content/posts/the-question-that-installs-the-war.md": "63e4ec243e36",
       "content/posts/the-ramble-within-the-ramble.md": "57566038f9e7",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "e7860ba6a7fd",
@@ -382,7 +382,7 @@
       "content/posts/the-reversal-of-verification.md": "d8eedc3f8076",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "6aad1717e99c",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "b9b1f9d77eb2",
-      "content/posts/the-scaffolding-that-keeps-growing.md": "83aeae90c027",
+      "content/posts/the-scaffolding-that-keeps-growing.md": "e869212fb4d5",
       "content/posts/the-scaffolding-we-forget-local-models-as-default.md": "784859b75696",
       "content/posts/the-scaffolding-we-forget.md": "c1628ffd356a",
       "content/posts/the-scaling-loop.md": "59f678c43d21",
@@ -413,7 +413,7 @@
       "content/posts/the-unobservable-driver-of-learning.md": "16338781295d",
       "content/posts/the-utility-men-of-progress.md": "dc2e64396c6d",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "c27f517e060b",
-      "content/posts/the-velocity-of-visibility.md": "2730ee2797d7",
+      "content/posts/the-velocity-of-visibility.md": "9666216b2850",
       "content/posts/the-walking-tangent-and-the-stumbling-sphere.md": "2e6b2a5bd8dc",
       "content/posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy.md": "e9b13d45153e",
       "content/posts/the_analogy_trap.md": "c3f0060b5f76",
@@ -451,7 +451,7 @@
       "content/posts/you-cant-benchmark-the-fluid.md": "0c261c0f07f5",
       "content/posts/you-tiao-jian-de-zi-you.md": "951537534f9e",
       "content/posts/you-wu-zhi-bian.md": "44d999fe6fb0",
-      "content/posts/your-codebase-is-memory.md": "ea27ad8ecdfa",
+      "content/posts/your-codebase-is-memory.md": "3be591f7871f",
       "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "3e72072e6737",
       "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "85c32a43404f",
       "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "81aebb7d0bf3",
@@ -461,7 +461,7 @@
       "content/book/causality.md": "5d2f4bc3ae3f",
       "content/book/consciousness.md": "5fd937c16807",
       "content/book/economics.md": "a925ce70621d",
-      "content/book/index-of-premises.md": "b7d5d7a05701",
+      "content/book/index-of-premises.md": "1e6b811fdb74",
       "content/book/intelligence.md": "20d575920ac7",
       "content/book/knowledge-and-learning.md": "60b558ba8715",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -477,10 +477,10 @@
     },
     "stats": {
       "posts": 450,
-      "edges": 13778,
-      "unique_directed": 6772,
+      "edges": 13804,
+      "unique_directed": 6785,
       "missing_targets": 0,
-      "one_way": 1428,
+      "one_way": 1437,
       "isolated": 0,
       "posts_with_outbound": 450,
       "book_pages": 16,
@@ -616,16 +616,16 @@
       "out_degree": 41
     },
     {
+      "slug": "a-creation-cannot-replace-its-source",
+      "out_degree": 39
+    },
+    {
       "slug": "causality-all-the-way",
       "out_degree": 39
     },
     {
       "slug": "mistaking-the-expression-for-the-intelligence",
       "out_degree": 39
-    },
-    {
-      "slug": "a-creation-cannot-replace-its-source",
-      "out_degree": 38
     },
     {
       "slug": "closed-reality-in-benchmark-maxing",
@@ -661,9 +661,9 @@
       "slug": "a-creation-cannot-replace-its-source",
       "path": "content/posts/a-creation-cannot-replace-its-source.md",
       "title": "造物无法取代其源头 / A Creation Cannot Replace Its Source",
-      "hash": "23b609f239e0",
+      "hash": "ad2368cc5f68",
       "in_degree": 33,
-      "out_degree": 38,
+      "out_degree": 39,
       "links_out": [
         "closed-reality-in-benchmark-maxing",
         "intelligence-belongs-only-to-the-mind",
@@ -678,6 +678,7 @@
         "beyond-the-projection",
         "on-demand-contexts-keep-coherence-at-one-step",
         "dynamic-resnet-of-skill-loops",
+        "mistaking-the-symptom-of-stability-for-its-source",
         "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
         "the-fixed-image-of-transcendence",
         "two-failures-of-trace",
@@ -1375,9 +1376,9 @@
       "slug": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
       "path": "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md",
       "title": "递归形式系统中作为记忆与控制的边界条件图 / Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems",
-      "hash": "5918317b1cbf",
+      "hash": "b9dd99668de7",
       "in_degree": 22,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "no-system-can-be-kept-closed",
         "residual-control-recedes-to-the-edge",
@@ -1386,6 +1387,7 @@
         "looping-and-graphing",
         "on-demand-contexts-keep-coherence-at-one-step",
         "dynamic-resnet-of-skill-loops",
+        "mistaking-the-symptom-of-stability-for-its-source",
         "learned-boundaries-and-the-given-rate",
         "your-codebase-is-memory",
         "the-residue-and-the-free-variable",
@@ -2357,9 +2359,9 @@
       "slug": "data-is-local-intelligence-is-allocated",
       "path": "content/posts/data-is-local-intelligence-is-allocated.md",
       "title": "数据是局部的，智能是分配的 / Data Is Local, Intelligence Is Allocated",
-      "hash": "94f7f326fb08",
+      "hash": "020cfd693da3",
       "in_degree": 25,
-      "out_degree": 29,
+      "out_degree": 30,
       "links_out": [
         "preference-clusters-and-the-language-of-judgment",
         "hierarchy-from-individual-difference",
@@ -2375,6 +2377,7 @@
         "the-fixed-map-and-the-repeated-trip",
         "on-demand-contexts-keep-coherence-at-one-step",
         "dynamic-resnet-of-skill-loops",
+        "mistaking-the-symptom-of-stability-for-its-source",
         "production-consumption-and-the-minds-distinction",
         "no-system-can-be-kept-closed",
         "the-scaling-loop",
@@ -2568,9 +2571,9 @@
       "slug": "dynamic-resnet-of-skill-loops",
       "path": "content/posts/dynamic-resnet-of-skill-loops.md",
       "title": "模块化反馈回路与动态残差网络 / Modular Feedback Loops and Dynamic Residual Networks",
-      "hash": "baf38b64137d",
+      "hash": "04d7cda3949b",
       "in_degree": 31,
-      "out_degree": 12,
+      "out_degree": 13,
       "links_out": [
         "the-descent-that-doesnt-know-where-its-going",
         "beyond-the-projection",
@@ -2581,6 +2584,7 @@
         "learned-boundaries-and-the-given-rate",
         "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
         "architecture-of-recursive-distinction",
+        "mistaking-the-symptom-of-stability-for-its-source",
         "continuous-learning-as-expression-and-simulation",
         "the-illusion-of-multi-agent-collaboration",
         "the-density-of-judgment"
@@ -3365,9 +3369,9 @@
       "slug": "handing-off-residue",
       "path": "content/posts/handing-off-residue.md",
       "title": "交接残余 / Handing Off Residue",
-      "hash": "54641f5f6655",
+      "hash": "edecd6cd7fd4",
       "in_degree": 11,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "beyond-the-projection",
         "on-demand-contexts-keep-coherence-at-one-step",
@@ -3382,6 +3386,7 @@
         "learned-boundaries-and-the-given-rate",
         "two-phase-sleep-and-deep-sleep-continual-learning",
         "architecture-of-recursive-distinction",
+        "mistaking-the-symptom-of-stability-for-its-source",
         "no-outside-jumps-closed-loops-and-the-unreplicable-autonomy-of-mind"
       ]
     },
@@ -4474,7 +4479,7 @@
       "path": "content/posts/mistaking-the-symptom-of-stability-for-its-source.md",
       "title": "把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source",
       "hash": "c016f68c2992",
-      "in_degree": 0,
+      "in_degree": 13,
       "out_degree": 11,
       "links_out": [
         "when-the-effect-authors-the-frame",
@@ -4957,9 +4962,9 @@
       "slug": "on-demand-contexts-keep-coherence-at-one-step",
       "path": "content/posts/on-demand-contexts-keep-coherence-at-one-step.md",
       "title": "按需语境将融贯保持在一步 / On-Demand Contexts Keep Coherence at One Step",
-      "hash": "2e8a1140f57c",
+      "hash": "26d16a70093f",
       "in_degree": 23,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "your-codebase-is-memory",
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
@@ -4970,6 +4975,7 @@
         "handing-off-residue",
         "the-density-of-judgment",
         "dynamic-resnet-of-skill-loops",
+        "mistaking-the-symptom-of-stability-for-its-source",
         "learned-boundaries-and-the-given-rate",
         "continuous-learning-as-expression-and-simulation",
         "two-phase-sleep-and-deep-sleep-continual-learning",
@@ -6090,9 +6096,9 @@
       "slug": "scaffolds-or-specialized-contexts",
       "path": "content/posts/scaffolds-or-specialized-contexts.md",
       "title": "是脚手架还是特化语境 / Scaffolds or Specialized Contexts",
-      "hash": "594b21b4d06e",
+      "hash": "2b7375e218aa",
       "in_degree": 3,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "the-scaffolding-we-forget",
         "platform-decision-capture",
@@ -6101,6 +6107,7 @@
         "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
         "handing-off-residue",
         "dynamic-resnet-of-skill-loops",
+        "mistaking-the-symptom-of-stability-for-its-source",
         "two-phase-sleep-and-deep-sleep-continual-learning",
         "the-comparison-that-relocates-the-cause"
       ]
@@ -7749,9 +7756,9 @@
       "slug": "the-density-of-judgment",
       "path": "content/posts/the-density-of-judgment.md",
       "title": "判断的密度 / The Density of Judgment",
-      "hash": "824c87f92b0a",
+      "hash": "617d36bce730",
       "in_degree": 22,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "mistaking-the-expression-for-the-intelligence",
         "the-model-never-becomes-a-second-edge",
@@ -7764,6 +7771,7 @@
         "the-residue-and-the-free-variable",
         "on-demand-contexts-keep-coherence-at-one-step",
         "dynamic-resnet-of-skill-loops",
+        "mistaking-the-symptom-of-stability-for-its-source",
         "the-scaffolding-that-keeps-growing",
         "intelligence-folding-back-on-itself"
       ]
@@ -9366,9 +9374,9 @@
       "slug": "the-living-context",
       "path": "content/posts/the-living-context.md",
       "title": "活的语境 / The Living Context",
-      "hash": "007b6786593c",
+      "hash": "133d0b321f30",
       "in_degree": 7,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "a-living-external-cortex",
         "precision-and-resolution",
@@ -9381,6 +9389,7 @@
         "beyond-the-projection",
         "on-demand-contexts-keep-coherence-at-one-step",
         "dynamic-resnet-of-skill-loops",
+        "mistaking-the-symptom-of-stability-for-its-source",
         "the-surface-that-registers",
         "your-codebase-is-memory"
       ]
@@ -10296,9 +10305,9 @@
       "slug": "the-price-of-closing-optionality",
       "path": "content/posts/the-price-of-closing-optionality.md",
       "title": "关闭选择权的代价 / The Price of Closing Optionality",
-      "hash": "c81e464a3b6c",
+      "hash": "d0b37dcf9c83",
       "in_degree": 15,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "the-risk-is-the-belief-in-oversight-itself",
         "openness-is-consistency",
@@ -10307,6 +10316,7 @@
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "the-reality-distortion-field-names-the-closed-map",
         "the-reality-distortion-field-inverts-the-baseline",
+        "mistaking-the-symptom-of-stability-for-its-source",
         "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
         "restriction-is-a-selective-tax",
         "what-works-is-the-belief",
@@ -10829,9 +10839,9 @@
       "slug": "the-scaffolding-that-keeps-growing",
       "path": "content/posts/the-scaffolding-that-keeps-growing.md",
       "title": "持续生长的脚手架 / The Scaffolding That Keeps Growing",
-      "hash": "83aeae90c027",
+      "hash": "e869212fb4d5",
       "in_degree": 29,
-      "out_degree": 32,
+      "out_degree": 33,
       "links_out": [
         "openness-is-consistency",
         "the-scaffolding-we-forget",
@@ -10850,6 +10860,7 @@
         "handing-off-residue",
         "your-codebase-is-memory",
         "dynamic-resnet-of-skill-loops",
+        "mistaking-the-symptom-of-stability-for-its-source",
         "why-mathematics-can-never-be-solved",
         "deceleration-is-the-drag-felt-when-accelerating",
         "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
@@ -11687,9 +11698,9 @@
       "slug": "the-velocity-of-visibility",
       "path": "content/posts/the-velocity-of-visibility.md",
       "title": "可见性的速度差 / The Velocity of Visibility",
-      "hash": "2730ee2797d7",
+      "hash": "9666216b2850",
       "in_degree": 3,
-      "out_degree": 9,
+      "out_degree": 10,
       "links_out": [
         "objects-are-stabilized-relationships",
         "the-black-and-white-sample-frame-and-the-extrapolated-universe",
@@ -11699,7 +11710,8 @@
         "when-electrons-think",
         "the-continuum-of-the-fold",
         "the-cut-moves-but-never-vanishes",
-        "felt-resistance-and-the-speed-differential"
+        "felt-resistance-and-the-speed-differential",
+        "mistaking-the-symptom-of-stability-for-its-source"
       ]
     },
     {
@@ -12645,9 +12657,9 @@
       "slug": "your-codebase-is-memory",
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
-      "hash": "ea27ad8ecdfa",
+      "hash": "3be591f7871f",
       "in_degree": 410,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
         "the-model-never-becomes-a-second-edge",
@@ -12662,7 +12674,8 @@
         "the-real-scarcity-is-not-memory-but-continuous-re-tracing",
         "two-phase-sleep-and-deep-sleep-continual-learning",
         "continuous-learning-as-expression-and-simulation",
-        "judgment-is-not-a-stock"
+        "judgment-is-not-a-stock",
+        "mistaking-the-symptom-of-stability-for-its-source"
       ]
     },
     {
@@ -12999,6 +13012,12 @@
     },
     {
       "from": "a-creation-cannot-replace-its-source",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "把稳定的症状当作稳定的来源"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
       "to": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
       "rel": "points_to",
       "label": "递归形式系统中作为记忆与控制的边界条件图"
@@ -13044,6 +13063,12 @@
       "to": "dynamic-resnet-of-skill-loops",
       "rel": "points_to",
       "label": "Modular Feedback Loops and Dynamic Residual Networks"
+    },
+    {
+      "from": "a-creation-cannot-replace-its-source",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "Mistaking the Symptom of Stability for Its Source"
     },
     {
       "from": "a-creation-cannot-replace-its-source",
@@ -17787,6 +17812,12 @@
     },
     {
       "from": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "把稳定的症状当作稳定的来源"
+    },
+    {
+      "from": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
       "to": "learned-boundaries-and-the-given-rate",
       "rel": "points_to",
       "label": "学到的边界与给定的尺度"
@@ -17802,6 +17833,12 @@
       "to": "dynamic-resnet-of-skill-loops",
       "rel": "points_to",
       "label": "Modular Feedback Loops and Dynamic Residual Networks"
+    },
+    {
+      "from": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "Mistaking the Symptom of Stability for Its Source"
     },
     {
       "from": "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
@@ -25011,6 +25048,12 @@
     },
     {
       "from": "data-is-local-intelligence-is-allocated",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "把稳定的症状当作稳定的来源"
+    },
+    {
+      "from": "data-is-local-intelligence-is-allocated",
       "to": "beyond-the-projection",
       "rel": "points_to",
       "label": "Beyond the Projection"
@@ -25032,6 +25075,12 @@
       "to": "dynamic-resnet-of-skill-loops",
       "rel": "points_to",
       "label": "Modular Feedback Loops and Dynamic Residual Networks"
+    },
+    {
+      "from": "data-is-local-intelligence-is-allocated",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "Mistaking the Symptom of Stability for Its Source"
     },
     {
       "from": "data-is-local-intelligence-is-allocated",
@@ -26364,6 +26413,18 @@
       "to": "architecture-of-recursive-distinction",
       "rel": "points_to",
       "label": "The Architecture of Recursive Distinction"
+    },
+    {
+      "from": "dynamic-resnet-of-skill-loops",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "把稳定的症状当作稳定的来源"
+    },
+    {
+      "from": "dynamic-resnet-of-skill-loops",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "Mistaking the Symptom of Stability for Its Source"
     },
     {
       "from": "dynamic-resnet-of-skill-loops",
@@ -31401,9 +31462,21 @@
     },
     {
       "from": "handing-off-residue",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "把稳定的症状当作稳定的来源"
+    },
+    {
+      "from": "handing-off-residue",
       "to": "architecture-of-recursive-distinction",
       "rel": "points_to",
       "label": "The Architecture of Recursive Distinction"
+    },
+    {
+      "from": "handing-off-residue",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "Mistaking the Symptom of Stability for Its Source"
     },
     {
       "from": "handing-off-residue",
@@ -42675,6 +42748,12 @@
     },
     {
       "from": "on-demand-contexts-keep-coherence-at-one-step",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "把稳定的症状当作稳定的来源"
+    },
+    {
+      "from": "on-demand-contexts-keep-coherence-at-one-step",
       "to": "learned-boundaries-and-the-given-rate",
       "rel": "points_to",
       "label": "学到的边界与给定的尺度"
@@ -42702,6 +42781,12 @@
       "to": "dynamic-resnet-of-skill-loops",
       "rel": "points_to",
       "label": "Modular Feedback Loops and Dynamic Residual Networks"
+    },
+    {
+      "from": "on-demand-contexts-keep-coherence-at-one-step",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "Mistaking the Symptom of Stability for Its Source"
     },
     {
       "from": "on-demand-contexts-keep-coherence-at-one-step",
@@ -51003,6 +51088,12 @@
     },
     {
       "from": "scaffolds-or-specialized-contexts",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "把稳定的症状当作稳定的来源"
+    },
+    {
+      "from": "scaffolds-or-specialized-contexts",
       "to": "two-phase-sleep-and-deep-sleep-continual-learning",
       "rel": "points_to",
       "label": "睡眠与深度睡眠的双阶段持续学习"
@@ -51012,6 +51103,12 @@
       "to": "the-comparison-that-relocates-the-cause",
       "rel": "points_to",
       "label": "转移原因的比较"
+    },
+    {
+      "from": "scaffolds-or-specialized-contexts",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "Mistaking the Symptom of Stability for Its Source"
     },
     {
       "from": "scaffolds-or-specialized-contexts",
@@ -61623,6 +61720,12 @@
     },
     {
       "from": "the-density-of-judgment",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "把稳定的症状当作稳定的来源"
+    },
+    {
+      "from": "the-density-of-judgment",
       "to": "on-demand-contexts-keep-coherence-at-one-step",
       "rel": "points_to",
       "label": "On-Demand Contexts Keep Coherence at One Step"
@@ -61632,6 +61735,12 @@
       "to": "dynamic-resnet-of-skill-loops",
       "rel": "points_to",
       "label": "Modular Feedback Loops and Dynamic Residual Networks"
+    },
+    {
+      "from": "the-density-of-judgment",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "Mistaking the Symptom of Stability for Its Source"
     },
     {
       "from": "the-density-of-judgment",
@@ -71907,6 +72016,18 @@
     },
     {
       "from": "the-living-context",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "把稳定的症状当作稳定的来源"
+    },
+    {
+      "from": "the-living-context",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "Mistaking the Symptom of Stability for Its Source"
+    },
+    {
+      "from": "the-living-context",
       "to": "the-surface-that-registers",
       "rel": "points_to",
       "label": "登记共鸣的表面"
@@ -77913,6 +78034,12 @@
     },
     {
       "from": "the-price-of-closing-optionality",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "把稳定的症状当作稳定的来源"
+    },
+    {
+      "from": "the-price-of-closing-optionality",
       "to": "closed-assumptions-squeeze-compounding-into-s-curves",
       "rel": "points_to",
       "label": "Closed Assumptions Squeeze Compounding into S-Curves"
@@ -77928,6 +78055,12 @@
       "to": "the-reality-distortion-field-inverts-the-baseline",
       "rel": "points_to",
       "label": "The Reality Distortion Field Inverts the Baseline"
+    },
+    {
+      "from": "the-price-of-closing-optionality",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "Mistaking the Symptom of Stability for Its Source"
     },
     {
       "from": "the-price-of-closing-optionality",
@@ -81627,6 +81760,12 @@
     },
     {
       "from": "the-scaffolding-that-keeps-growing",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "把稳定的症状当作稳定的来源"
+    },
+    {
+      "from": "the-scaffolding-that-keeps-growing",
       "to": "the-comparison-that-relocates-the-cause",
       "rel": "points_to",
       "label": "The Comparison That Relocates the Cause"
@@ -81660,6 +81799,12 @@
       "to": "dynamic-resnet-of-skill-loops",
       "rel": "points_to",
       "label": "Modular Feedback Loops and Dynamic Residual Networks"
+    },
+    {
+      "from": "the-scaffolding-that-keeps-growing",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "Mistaking the Symptom of Stability for Its Source"
     },
     {
       "from": "the-scaffolding-that-keeps-growing",
@@ -87540,6 +87685,18 @@
       "to": "felt-resistance-and-the-speed-differential",
       "rel": "points_to",
       "label": "Felt Resistance and the Speed Differential"
+    },
+    {
+      "from": "the-velocity-of-visibility",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "把稳定的症状当作稳定的来源"
+    },
+    {
+      "from": "the-velocity-of-visibility",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "Mistaking the Symptom of Stability for Its Source"
     },
     {
       "from": "the-walking-tangent-and-the-stumbling-sphere",
@@ -94418,6 +94575,18 @@
       "label": "Judgment Is Not a Stock"
     },
     {
+      "from": "your-codebase-is-memory",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "把稳定的症状当作稳定的来源"
+    },
+    {
+      "from": "your-codebase-is-memory",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "Mistaking the Symptom of Stability for Its Source"
+    },
+    {
       "from": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
       "to": "the-paradoxical-nature-of-bystander-insights",
       "rel": "points_to",
@@ -95533,7 +95702,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "b7d5d7a05701",
+        "hash": "1e6b811fdb74",
         "out_degree": 450
       },
       {

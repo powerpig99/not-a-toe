@@ -320,9 +320,9 @@ Within this topological map, biological rhythms (neural action potentials, heart
 
 ## 六、 在前沿边缘触摸现实 / 6. Touching Reality from the Leading Edge
 
-这消解了经典物理主义的宿命论。当慢速褶皱的下游规律性被倒置为先在的宇宙立法者时，心智便被描绘成预先写定的发条宇宙中的偶然旁观者，仿佛初始参数早已锁死了一切结局。
+这消解了经典物理主义的宿命论。当慢速褶皱的下游规律性被倒置为先在的宇宙立法者时——这同样颠倒了可见残余与本源，正如[把稳定的症状当作稳定的来源](../mistaking-the-symptom-of-stability-for-its-source/)所追溯的那样——心智便被描绘成预先写定的发条宇宙中的偶然旁观者，仿佛初始参数早已锁死了一切结局。
 
-This dissolves the fatalism of classical physicalism. When the downstream regularity of slow-motion folds is inverted into a prior cosmic legislator, the Mind is pictured as an accidental bystander inside a pre-written clockwork universe whose initial parameters locked every outcome in advance.
+This dissolves the fatalism of classical physicalism. When the downstream regularity of slow-motion folds is inverted into a prior cosmic legislator—the same reversal of visible residue and source traced in [Mistaking the Symptom of Stability for Its Source](../mistaking-the-symptom-of-stability-for-its-source/)—the Mind is pictured as an accidental bystander inside a pre-written clockwork universe whose initial parameters locked every outcome in advance.
 
 认清可见性即速度差，便归还了因果的位点：心智并非被困在三维机械箱体中的被动乘客，而是现实在当下向自身折叠时**最高频、最灵敏的前沿边缘**；致密的花岗岩、大陆板块与遥远星场并非外部的囚笼高墙，而是在脚下托起稳定根基的慢速关系褶皱，使活生生的中心得以发起下一次不可逆的切分（+1）。现实并非封存在形式方程中的惰性标本，而是在当下边缘持续推进的因果运算。一切可见之物之所以显得坚固而确定，皆因观测对它所登记的变化慢于观测它的心智，从而将尚未渲染的视界向着下一次切分敞开。
 
