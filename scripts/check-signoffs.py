@@ -24,8 +24,8 @@ Checks for each `work/<slug>/` DELTA node before Stage 3 interleaving:
      `work/wave.md` checkboxes, prunes completed items and appends `DELTA (propagates)`
      and `### For work/todo.md` items in `work/todo.md`, and writes `work/_logs/batch-<m>.md`.
   7. With `--clean-sleep [--dry-run]`, deterministically harvests any unrecorded
-     `### For work/todo.md` items from the directories to be deleted into `work/todo.md`
-     and deletes ONLY the completed `[x]` `/sleep` node and sweep directories recorded
+     open `### For work/todo.md` items (skipping `- [x]` resolved items) from the
+     directories to be deleted into `work/todo.md` and deletes ONLY the completed `[x]` `/sleep` node and sweep directories recorded
      in `work/wave.md` (`_plan-consolidation`, `_reverse-link-sweep`, `_post-wave-sweep`,
      `_logs`, and `[x]` node slugs in `work/wave.md` whose post exists in
      `content/posts/<slug>.md` and that have no pending `work/_wake/<slug>/handoff.md`),
@@ -492,6 +492,8 @@ def extract_todo_blocks(slug: str) -> list[str]:
                 if not line or line.lower() in ("none", "none.", "- none", "- (none)", "(none)", "n/a", "- n/a"):
                     continue
                 if re.match(r"^-\s*\(?none\)?\.?$", line, flags=re.IGNORECASE):
+                    continue
+                if re.match(r"^(?:-\s+)?\[[xX]\](?:\s+|$)", line):
                     continue
                 if re.match(r"^(?:VERDICT|SUMMARY|DRAFTER|TRANSLATOR|CRITIC|STYLIST|HANDOFF_CONFIRMED):", line):
                     continue
