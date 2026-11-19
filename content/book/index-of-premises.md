@@ -1063,6 +1063,15 @@ The Fermi paradox presumes extraterrestrial intelligence would appear in a time 
 
 → [折叠的连续谱 / The Continuum of the Fold](../../posts/the-continuum-of-the-fold/) · [费米悖论、主体性错配与大过滤器的投射 / The Fermi Paradox, Reified Agency, and the Projection of the Great Filter](../../posts/the-fermi-paradox-reified-agency-and-the-great-filter/)
 
+### 金融不稳定假说 / Financial Instability Hypothesis
+`经济 / Economic`
+
+海曼·明斯基的金融不稳定假说以历史时间中的信贷网络为前提，假定其从对冲性融资经投机性融资滑向庞氏融资的内生杠杆迁移可由外部的财政与央行配重加以约束，在追溯平静期如何促使参与者将表面平静读作结构恒久并削薄安全边际时有用；它在此到达边界：该假说把制度兜底视作立于周期之外的外部稳定器，而央行与财政部门的干预身处同一条因果回路之中，每当它们借压制可见波动来制造持久平静，便会加厚恒久不变的幻象。
+
+Hyman Minsky's Financial Instability Hypothesis premises historical-time credit networks whose endogenous leverage migration from hedge through speculative to Ponzi finance can be bounded by external fiscal and central-bank counter-weights, which is of use in tracing how tranquil intervals lead participants to read surface calm as structural permanence and thin safety margins; it reaches its boundary in treating institutional backstops as external stabilizers outside the cycle, whereas central-bank and treasury interventions sit inside the same causal loop and thicken the illusion of permanence whenever they suppress visible volatility to manufacture prolonged calm.
+
+→ [把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source](../../posts/mistaking-the-symptom-of-stability-for-its-source/)
+
 ### 有限游戏与无限游戏 / Finite and Infinite Games
 `哲学 / Philosophical`
 
@@ -1269,6 +1278,15 @@ Laplacian determinism presumes that complete knowledge of present positions, vel
 The Law of Large Numbers establishes that sample averages converge toward ensemble expectations at rate 1/√N as independent trials accumulate, which is of use in insurance, thermodynamics, and macroscopic forecasting; it reaches its boundary when aggregate smoothing is read back as deterministic command over individual trials or used to dismiss single-locus variance as causally inert noise.
 
 → [确定性是微观不确定性的统计签名 / Determinism is the Statistical Signature of Micro-Indeterminism](../../posts/determinism-is-the-statistical-signature-of-micro-indeterminism/) · [阴影与无限 / The Shadow and the Infinite](../../posts/the-shadow-and-the-infinite/) · [当电子开始思考 / When Electrons Think](../../posts/when-electrons-think/) · [可见性的速度差 / The Velocity of Visibility](../../posts/the-velocity-of-visibility/) · [全息回声 / The Holographic Echo](../../posts/the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function/)
+
+### 必要多样性定律 / Law of Requisite Variety
+`科学 / Scientific`
+
+W. 罗斯·艾什比的必要多样性定律（V_O ≥ V_D − V_R）以一套由外部划定的耦合关系为前提，预设其中的扰动集、调节器动作与关键变量均已预先固定，在为反馈控制、通信信道与动态稳定确立精确带宽界限时有用；它在此到达边界：当所持守的目标本身是活的心智或演进制度随新轴线敞开而重新渲染的暂时痕迹时，把高强度修正多样性耗费在将过时参照钳定不动上，只会加深滞后。
+
+W. Ross Ashby's Law of Requisite Variety (V_O ≥ V_D − V_R) premises an externally partitioned coupling with pre-assigned disturbance alphabets, regulator actions, and fixed essential variables, which is of use in setting exact bandwidth bounds across feedback control, communications channels, and dynamic stabilization; it reaches its boundary where the held target itself is a provisional trace of a living Mind or evolving institution that re-renders as new axes open, so high corrective variety spent clamping an obsolete reference steady merely deepens lag.
+
+→ [把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source](../../posts/mistaking-the-symptom-of-stability-for-its-source/)
 
 ### 差异制造与因果解释决定论 / Difference-Making and Deterministic Explanation
 `科学 / Scientific`
@@ -3133,7 +3151,7 @@ Psychometric and educational studies treat stable differences in learning speed 
 
 Whether told as benevolent guardianship or bureaucratic capture, institutional causality treats institutions as the authors of outcomes, which is of use in describing how collective structures coordinate action; it reaches its boundary in that institutions are records of distributed choices, granted causal priority because agency has been displaced outward, while technology and the individuals who adopt it are written out of the ledger.
 
-→ [道德语言作为投影 / Moral Language as Projection](../../posts/moral-language-as-projection/) · [外化善意走向其反面 / Externalized Virtue Becomes Its Opposite](../../posts/externalized-virtue-becomes-its-opposite/)
+→ [道德语言作为投影 / Moral Language as Projection](../../posts/moral-language-as-projection/) · [外化善意走向其反面 / Externalized Virtue Becomes Its Opposite](../../posts/externalized-virtue-becomes-its-opposite/) · [把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source](../../posts/mistaking-the-symptom-of-stability-for-its-source/)
 
 ### 教育与科学的建制化倒置 / Institutional Inversion of Education and Science
 `哲学 / Philosophical`
@@ -3907,7 +3925,7 @@ An FDA-style licensing gate presumes present threat models bound what open proce
 
 Preempting unknown risk presumes that unknown risk is already a closed set of cases that present premises can survey, enumerate, and neutralize before it appears, which is of use in letting threat models, safety protocols, and release gates bound present load as instruments; it reaches its boundary in that exempting the inventory from re-tracing scores what is left unexplored as safety gained, shrinks the futures an organization is willing to explore, and slows reaction under the name of preemption, while the buffer of prior dominance makes the lag affordable for longer, so falling behind is the freeze's delayed bill.
 
-→ [关闭选择权的代价 / The Price of Closing Optionality](../../posts/the-price-of-closing-optionality/)
+→ [关闭选择权的代价 / The Price of Closing Optionality](../../posts/the-price-of-closing-optionality/) · [把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source](../../posts/mistaking-the-symptom-of-stability-for-its-source/)
 
 ### 预测模型作为历史残差 / Predictive Model as Residue
 `技术 / Technological`

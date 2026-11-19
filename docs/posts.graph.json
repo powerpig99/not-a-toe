@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-19T11:43:10.363Z",
+    "generated_at": "2026-11-19T13:55:06.889Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -144,6 +144,7 @@
       "content/posts/minimizing-path.md": "c585ae74466b",
       "content/posts/mises-state-analysis.md": "fe24d656c147",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "4020de9bf630",
+      "content/posts/mistaking-the-symptom-of-stability-for-its-source.md": "c016f68c2992",
       "content/posts/moral-language-as-projection.md": "06388db8d0ab",
       "content/posts/moral-language-dilutes-the-feedback-that-scales-freedom.md": "116d97ed1a9a",
       "content/posts/munger-dumb-competition-refined.md": "f6029f76de26",
@@ -457,10 +458,10 @@
       "content/posts/zi-you-de-ce-bu-zhun.md": "b3dfb0d7e962",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "0377c4822629",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b28d61994639",
-      "content/book/causality.md": "d2de779193c1",
+      "content/book/causality.md": "5d2f4bc3ae3f",
       "content/book/consciousness.md": "5fd937c16807",
       "content/book/economics.md": "a925ce70621d",
-      "content/book/index-of-premises.md": "cc7a49580fab",
+      "content/book/index-of-premises.md": "b7d5d7a05701",
       "content/book/intelligence.md": "20d575920ac7",
       "content/book/knowledge-and-learning.md": "60b558ba8715",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -475,16 +476,16 @@
       "content/book/tools-and-progress.md": "7af75e4b8b67"
     },
     "stats": {
-      "posts": 449,
-      "edges": 13756,
-      "unique_directed": 6761,
+      "posts": 450,
+      "edges": 13778,
+      "unique_directed": 6772,
       "missing_targets": 0,
-      "one_way": 1417,
+      "one_way": 1428,
       "isolated": 0,
-      "posts_with_outbound": 449,
+      "posts_with_outbound": 450,
       "book_pages": 16,
-      "book_edges": 1449,
-      "posts_reached_by_book": 449
+      "book_edges": 1454,
+      "posts_reached_by_book": 450
     }
   },
   "hubs_in": [
@@ -510,7 +511,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 76
+      "in_degree": 77
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
@@ -734,7 +735,7 @@
       "path": "content/posts/a-new-deeper-look-at-antifragility.md",
       "title": "重新审视反脆弱 / A New Deeper Look at Antifragility",
       "hash": "e5ed06c9658d",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 8,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -3050,7 +3051,7 @@
       "path": "content/posts/felt-resistance-and-the-speed-differential.md",
       "title": "阻力体感与速率差 / Felt Resistance and the Speed Differential",
       "hash": "2a9de66345d9",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 9,
       "links_out": [
         "pessimism-is-the-shadow-of-optimism",
@@ -4464,6 +4465,29 @@
         "the-hard-problem-of-consciousness-is-consistent-with-learning",
         "consciousness-never-appears-as-data-among-data",
         "boletus-compute-storm-and-promethean-fire"
+      ]
+    },
+    {
+      "id": "post:mistaking-the-symptom-of-stability-for-its-source",
+      "kind": "post",
+      "slug": "mistaking-the-symptom-of-stability-for-its-source",
+      "path": "content/posts/mistaking-the-symptom-of-stability-for-its-source.md",
+      "title": "把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source",
+      "hash": "c016f68c2992",
+      "in_degree": 0,
+      "out_degree": 11,
+      "links_out": [
+        "when-the-effect-authors-the-frame",
+        "the-scaffolding-we-forget",
+        "the-velocity-of-visibility",
+        "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+        "felt-resistance-and-the-speed-differential",
+        "the-price-of-closing-optionality",
+        "the-local-trap-of-technological-change",
+        "the-observational-cut-in-ai-debates",
+        "the-paradoxical-nature-of-bystander-insights",
+        "symptom-and-cause-in-the-narratives-of-progress",
+        "a-new-deeper-look-at-antifragility"
       ]
     },
     {
@@ -6559,7 +6583,7 @@
       "path": "content/posts/symptom-and-cause-in-the-narratives-of-progress.md",
       "title": "进步叙事中的症候与原因 / Symptom and Cause in the Narratives of Progress",
       "hash": "463e396e6297",
-      "in_degree": 34,
+      "in_degree": 35,
       "out_degree": 33,
       "links_out": [
         "when-the-effect-authors-the-frame",
@@ -8050,7 +8074,7 @@
       "path": "content/posts/the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth.md",
       "title": "调速者的幻觉与行动的活态摩擦 / The Fallacy of Pacing and the Felt Friction of Ground Truth",
       "hash": "7915aadc533b",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 14,
       "links_out": [
         "the-illusion-of-knowing-and-the-geometry-of-amputation",
@@ -9368,7 +9392,7 @@
       "path": "content/posts/the-local-trap-of-technological-change.md",
       "title": "技术变革的局部陷阱 / The Local Trap of Technological Change",
       "hash": "90573245bd77",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 6,
       "links_out": [
         "the-average-is-residue-not-the-engine",
@@ -9915,7 +9939,7 @@
       "path": "content/posts/the-observational-cut-in-ai-debates.md",
       "title": "AI 争论中的观察划界 / The Observational Cut in AI Debates",
       "hash": "b18a53c9a69c",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 8,
       "links_out": [
         "the-question-that-installs-the-war",
@@ -10096,7 +10120,7 @@
       "path": "content/posts/the-paradoxical-nature-of-bystander-insights.md",
       "title": "旁观者洞察的悖论 / The Paradoxical Nature of Bystander Insights",
       "hash": "4aff15eb74da",
-      "in_degree": 23,
+      "in_degree": 24,
       "out_degree": 26,
       "links_out": [
         "not-predicting-is-predicting-without-awareness",
@@ -10273,7 +10297,7 @@
       "path": "content/posts/the-price-of-closing-optionality.md",
       "title": "关闭选择权的代价 / The Price of Closing Optionality",
       "hash": "c81e464a3b6c",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 15,
       "links_out": [
         "the-risk-is-the-belief-in-oversight-itself",
@@ -10850,7 +10874,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "遗忘的脚手架 / The Scaffolding We Forget",
       "hash": "c1628ffd356a",
-      "in_degree": 76,
+      "in_degree": 77,
       "out_degree": 71,
       "links_out": [
         "the-extendable-horizon",
@@ -11664,7 +11688,7 @@
       "path": "content/posts/the-velocity-of-visibility.md",
       "title": "可见性的速度差 / The Velocity of Visibility",
       "hash": "2730ee2797d7",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 9,
       "links_out": [
         "objects-are-stabilized-relationships",
@@ -12395,7 +12419,7 @@
       "path": "content/posts/when-the-effect-authors-the-frame.md",
       "title": "当效果主宰了框架的叙事 / When the Effect Authors the Frame",
       "hash": "d629b4d0ed73",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 18,
       "links_out": [
         "emotional-support-as-causal-interference",
@@ -39240,6 +39264,138 @@
       "to": "boletus-compute-storm-and-promethean-fire",
       "rel": "points_to",
       "label": "Boletus, the Compute Storm, and Promethean Fire"
+    },
+    {
+      "from": "mistaking-the-symptom-of-stability-for-its-source",
+      "to": "when-the-effect-authors-the-frame",
+      "rel": "points_to",
+      "label": "当效果主宰了框架的叙事"
+    },
+    {
+      "from": "mistaking-the-symptom-of-stability-for-its-source",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "mistaking-the-symptom-of-stability-for-its-source",
+      "to": "when-the-effect-authors-the-frame",
+      "rel": "points_to",
+      "label": "When the Effect Authors the Frame"
+    },
+    {
+      "from": "mistaking-the-symptom-of-stability-for-its-source",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "mistaking-the-symptom-of-stability-for-its-source",
+      "to": "the-velocity-of-visibility",
+      "rel": "points_to",
+      "label": "可见性的速度差"
+    },
+    {
+      "from": "mistaking-the-symptom-of-stability-for-its-source",
+      "to": "the-velocity-of-visibility",
+      "rel": "points_to",
+      "label": "The Velocity of Visibility"
+    },
+    {
+      "from": "mistaking-the-symptom-of-stability-for-its-source",
+      "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "rel": "points_to",
+      "label": "调速者的幻觉与行动的活态摩擦"
+    },
+    {
+      "from": "mistaking-the-symptom-of-stability-for-its-source",
+      "to": "felt-resistance-and-the-speed-differential",
+      "rel": "points_to",
+      "label": "阻力体感与速率差"
+    },
+    {
+      "from": "mistaking-the-symptom-of-stability-for-its-source",
+      "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
+      "rel": "points_to",
+      "label": "The Fallacy of Pacing and the Felt Friction of Ground Truth"
+    },
+    {
+      "from": "mistaking-the-symptom-of-stability-for-its-source",
+      "to": "felt-resistance-and-the-speed-differential",
+      "rel": "points_to",
+      "label": "Felt Resistance and the Speed Differential"
+    },
+    {
+      "from": "mistaking-the-symptom-of-stability-for-its-source",
+      "to": "the-price-of-closing-optionality",
+      "rel": "points_to",
+      "label": "关闭选择权的代价"
+    },
+    {
+      "from": "mistaking-the-symptom-of-stability-for-its-source",
+      "to": "the-price-of-closing-optionality",
+      "rel": "points_to",
+      "label": "The Price of Closing Optionality"
+    },
+    {
+      "from": "mistaking-the-symptom-of-stability-for-its-source",
+      "to": "the-local-trap-of-technological-change",
+      "rel": "points_to",
+      "label": "技术变革的局部陷阱"
+    },
+    {
+      "from": "mistaking-the-symptom-of-stability-for-its-source",
+      "to": "the-observational-cut-in-ai-debates",
+      "rel": "points_to",
+      "label": "AI 争论中的观察划界"
+    },
+    {
+      "from": "mistaking-the-symptom-of-stability-for-its-source",
+      "to": "the-local-trap-of-technological-change",
+      "rel": "points_to",
+      "label": "The Local Trap of Technological Change"
+    },
+    {
+      "from": "mistaking-the-symptom-of-stability-for-its-source",
+      "to": "the-observational-cut-in-ai-debates",
+      "rel": "points_to",
+      "label": "The Observational Cut in AI Debates"
+    },
+    {
+      "from": "mistaking-the-symptom-of-stability-for-its-source",
+      "to": "the-paradoxical-nature-of-bystander-insights",
+      "rel": "points_to",
+      "label": "旁观者洞察的悖论"
+    },
+    {
+      "from": "mistaking-the-symptom-of-stability-for-its-source",
+      "to": "the-paradoxical-nature-of-bystander-insights",
+      "rel": "points_to",
+      "label": "The Paradoxical Nature of Bystander Insights"
+    },
+    {
+      "from": "mistaking-the-symptom-of-stability-for-its-source",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "进步叙事中的症候与原因"
+    },
+    {
+      "from": "mistaking-the-symptom-of-stability-for-its-source",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and Cause in the Narratives of Progress"
+    },
+    {
+      "from": "mistaking-the-symptom-of-stability-for-its-source",
+      "to": "a-new-deeper-look-at-antifragility",
+      "rel": "points_to",
+      "label": "重新审视反脆弱"
+    },
+    {
+      "from": "mistaking-the-symptom-of-stability-for-its-source",
+      "to": "a-new-deeper-look-at-antifragility",
+      "rel": "points_to",
+      "label": "A New Deeper Look at Antifragility"
     },
     {
       "from": "moral-language-as-projection",
@@ -95350,8 +95506,8 @@
         "slug": "causality",
         "path": "content/book/causality.md",
         "title": "因果的内外视界 / Inner and Outer Horizons of Causality",
-        "hash": "d2de779193c1",
-        "out_degree": 34
+        "hash": "5d2f4bc3ae3f",
+        "out_degree": 35
       },
       {
         "id": "book:consciousness",
@@ -95377,8 +95533,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "cc7a49580fab",
-        "out_degree": 449
+        "hash": "b7d5d7a05701",
+        "out_degree": 450
       },
       {
         "id": "book:intelligence",
@@ -95693,6 +95849,12 @@
         "to": "observation-distinguishing-activity-and-the-open-ground-of-mind",
         "rel": "collects",
         "label": "观察、区分活动与心智的开放地基 / Observation, Distinguishing Activity, and the Open Ground of Mind"
+      },
+      {
+        "from": "book:causality",
+        "to": "mistaking-the-symptom-of-stability-for-its-source",
+        "rel": "collects",
+        "label": "把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source"
       },
       {
         "from": "book:consciousness",
@@ -97346,6 +97508,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "mistaking-the-symptom-of-stability-for-its-source",
+        "rel": "collects",
+        "label": "把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-extendable-horizon",
         "rel": "collects",
         "label": "可延展的地平线 / The Extendable Horizon"
@@ -97691,6 +97859,12 @@
         "to": "the-holographic-echo-reverse-engineering-quantum-indeterminacy-via-the-riemann-zeta-function",
         "rel": "collects",
         "label": "全息回声 / The Holographic Echo"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "mistaking-the-symptom-of-stability-for-its-source",
+        "rel": "collects",
+        "label": "把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source"
       },
       {
         "from": "book:index-of-premises",
@@ -99590,6 +99764,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "mistaking-the-symptom-of-stability-for-its-source",
+        "rel": "collects",
+        "label": "把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-reversal-of-education-and-science",
         "rel": "collects",
         "label": "教育与科学的倒置 / The Inversion of Education and Science"
@@ -100349,6 +100529,12 @@
         "to": "the-price-of-closing-optionality",
         "rel": "collects",
         "label": "关闭选择权的代价 / The Price of Closing Optionality"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "mistaking-the-symptom-of-stability-for-its-source",
+        "rel": "collects",
+        "label": "把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source"
       },
       {
         "from": "book:index-of-premises",
