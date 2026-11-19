@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-19T05:18:50.522Z",
+    "generated_at": "2026-11-19T06:37:47.872Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -377,6 +377,7 @@
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "eac491539bc9",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "fd92ab3e1f13",
       "content/posts/the-reversal-of-education-and-science.md": "79d30fed4db1",
+      "content/posts/the-reversal-of-the-bystander-commentators.md": "1a8690f2607c",
       "content/posts/the-reversal-of-verification.md": "d8eedc3f8076",
       "content/posts/the-risk-is-the-belief-in-oversight-itself.md": "6aad1717e99c",
       "content/posts/the-risk-you-delegate-is-the-risk-you-create.md": "b9b1f9d77eb2",
@@ -459,7 +460,7 @@
       "content/book/causality.md": "d2de779193c1",
       "content/book/consciousness.md": "5fd937c16807",
       "content/book/economics.md": "a925ce70621d",
-      "content/book/index-of-premises.md": "763c8fadd26a",
+      "content/book/index-of-premises.md": "cc7a49580fab",
       "content/book/intelligence.md": "20d575920ac7",
       "content/book/knowledge-and-learning.md": "60b558ba8715",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -471,25 +472,25 @@
       "content/book/preface.md": "09791dd76ace",
       "content/book/state-and-collective.md": "bc3f42203ebd",
       "content/book/success-and-the-self.md": "fcb69cfb1854",
-      "content/book/tools-and-progress.md": "0d170609c508"
+      "content/book/tools-and-progress.md": "7af75e4b8b67"
     },
     "stats": {
-      "posts": 448,
-      "edges": 13736,
-      "unique_directed": 6751,
+      "posts": 449,
+      "edges": 13758,
+      "unique_directed": 6762,
       "missing_targets": 0,
-      "one_way": 1407,
+      "one_way": 1418,
       "isolated": 0,
-      "posts_with_outbound": 448,
+      "posts_with_outbound": 449,
       "book_pages": 16,
-      "book_edges": 1446,
-      "posts_reached_by_book": 448
+      "book_edges": 1449,
+      "posts_reached_by_book": 449
     }
   },
   "hubs_in": [
     {
       "slug": "your-codebase-is-memory",
-      "in_degree": 409
+      "in_degree": 410
     },
     {
       "slug": "beyond-the-projection",
@@ -536,11 +537,11 @@
       "in_degree": 44
     },
     {
-      "slug": "production-consumption-and-the-minds-distinction",
-      "in_degree": 42
+      "slug": "the-allocation-of-causal-power-in-validation",
+      "in_degree": 43
     },
     {
-      "slug": "the-allocation-of-causal-power-in-validation",
+      "slug": "production-consumption-and-the-minds-distinction",
       "in_degree": 42
     },
     {
@@ -3486,7 +3487,7 @@
       "path": "content/posts/having-more-is-never-the-cause.md",
       "title": "拥有更多从不是原因 / Having More Is Never the Cause",
       "hash": "fff7b1e393f6",
-      "in_degree": 26,
+      "in_degree": 27,
       "out_degree": 22,
       "links_out": [
         "not-predicting-is-predicting-without-awareness",
@@ -4036,7 +4037,7 @@
       "path": "content/posts/judgment-is-not-a-stock.md",
       "title": "判断力不是可囤积的存量 / Judgment Is Not a Stock",
       "hash": "9526af861c78",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 9,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -4633,7 +4634,7 @@
       "path": "content/posts/no-outside-scorekeeper.md",
       "title": "没有外部记账员 / No Outside Scorekeeper",
       "hash": "769d5a3c8dee",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 11,
       "links_out": [
         "the-ledger-of-the-unencountered",
@@ -6721,7 +6722,7 @@
       "path": "content/posts/the-allocation-of-causal-power-in-validation.md",
       "title": "验证中因果权能的分配 / The Allocation of Causal Power in Validation",
       "hash": "fba55b46dcbd",
-      "in_degree": 42,
+      "in_degree": 43,
       "out_degree": 43,
       "links_out": [
         "the-reality-distortion-field-names-the-closed-map",
@@ -7816,7 +7817,7 @@
       "path": "content/posts/the-dilution-of-the-causal-loop-and-the-misallocation-of-agency.md",
       "title": "数字火箭、同行审查与因果闭环的稀释 / Digital Rockets, Peer Review, and the Dilution of the Causal Loop",
       "hash": "74e15da43c71",
-      "in_degree": 22,
+      "in_degree": 23,
       "out_degree": 27,
       "links_out": [
         "from-the-misallocated-sentience-of-agi-to-human-realignment",
@@ -9482,7 +9483,7 @@
       "path": "content/posts/the-mark-and-the-act.md",
       "title": "印迹与行动 / The Mark and the Act",
       "hash": "8167eeddeeae",
-      "in_degree": 20,
+      "in_degree": 21,
       "out_degree": 18,
       "links_out": [
         "complexity-obscures-emergence-as-the-act-of-mind",
@@ -10095,7 +10096,7 @@
       "path": "content/posts/the-paradoxical-nature-of-bystander-insights.md",
       "title": "旁观者洞察的悖论 / The Paradoxical Nature of Bystander Insights",
       "hash": "4aff15eb74da",
-      "in_degree": 22,
+      "in_degree": 23,
       "out_degree": 26,
       "links_out": [
         "not-predicting-is-predicting-without-awareness",
@@ -10695,6 +10696,29 @@
         "the-shadow-and-the-infinite",
         "the-asymmetry-of-understanding",
         "your-codebase-is-memory"
+      ]
+    },
+    {
+      "id": "post:the-reversal-of-the-bystander-commentators",
+      "kind": "post",
+      "slug": "the-reversal-of-the-bystander-commentators",
+      "path": "content/posts/the-reversal-of-the-bystander-commentators.md",
+      "title": "旁观评论者的倒置 / The Reversal of the Bystander Commentators",
+      "hash": "1a8690f2607c",
+      "in_degree": 0,
+      "out_degree": 11,
+      "links_out": [
+        "your-codebase-is-memory",
+        "the-mark-and-the-act",
+        "judgment-is-not-a-stock",
+        "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+        "no-outside-scorekeeper",
+        "having-more-is-never-the-cause",
+        "the-unexamined-critic",
+        "the-paradoxical-nature-of-bystander-insights",
+        "the-allocation-of-causal-power-in-validation",
+        "the-surface-that-registers",
+        "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu"
       ]
     },
     {
@@ -11326,7 +11350,7 @@
       "path": "content/posts/the-surface-that-registers.md",
       "title": "登记共鸣的表面 / The Surface That Registers",
       "hash": "add37f7bdd58",
-      "in_degree": 11,
+      "in_degree": 12,
       "out_degree": 11,
       "links_out": [
         "sowell-observed-the-surface-problem",
@@ -11503,7 +11527,7 @@
       "path": "content/posts/the-unexamined-critic.md",
       "title": "未经自我审视的批判者 / The Unexamined Critic",
       "hash": "ffe36622f873",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 12,
       "links_out": [
         "po-chu-gai-nian-de-jian-yue",
@@ -12599,7 +12623,7 @@
       "path": "content/posts/your-codebase-is-memory.md",
       "title": "你的代码库即是记忆 / Your Codebase Is Memory",
       "hash": "ea27ad8ecdfa",
-      "in_degree": 409,
+      "in_degree": 410,
       "out_degree": 14,
       "links_out": [
         "intelligence-belongs-only-to-the-mind",
@@ -12625,7 +12649,7 @@
       "path": "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md",
       "title": "止步于评判，是认知的歧途 / Stopping at Judgment Is a Wrong Turn of Cognition",
       "hash": "3e72072e6737",
-      "in_degree": 10,
+      "in_degree": 11,
       "out_degree": 13,
       "links_out": [
         "the-paradoxical-nature-of-bystander-insights",
@@ -80643,6 +80667,138 @@
       "label": "Your Codebase Is Memory"
     },
     {
+      "from": "the-reversal-of-the-bystander-commentators",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-reversal-of-the-bystander-commentators",
+      "to": "the-mark-and-the-act",
+      "rel": "points_to",
+      "label": "印迹与行动"
+    },
+    {
+      "from": "the-reversal-of-the-bystander-commentators",
+      "to": "judgment-is-not-a-stock",
+      "rel": "points_to",
+      "label": "判断力不是可囤积的存量"
+    },
+    {
+      "from": "the-reversal-of-the-bystander-commentators",
+      "to": "your-codebase-is-memory",
+      "rel": "points_to",
+      "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-reversal-of-the-bystander-commentators",
+      "to": "the-mark-and-the-act",
+      "rel": "points_to",
+      "label": "The Mark and the Act"
+    },
+    {
+      "from": "the-reversal-of-the-bystander-commentators",
+      "to": "judgment-is-not-a-stock",
+      "rel": "points_to",
+      "label": "Judgment Is Not a Stock"
+    },
+    {
+      "from": "the-reversal-of-the-bystander-commentators",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "数字火箭、同行审查与因果闭环的稀释"
+    },
+    {
+      "from": "the-reversal-of-the-bystander-commentators",
+      "to": "no-outside-scorekeeper",
+      "rel": "points_to",
+      "label": "没有外部记账员"
+    },
+    {
+      "from": "the-reversal-of-the-bystander-commentators",
+      "to": "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
+      "rel": "points_to",
+      "label": "Digital Rockets, Peer Review, and the Dilution of the Causal Loop"
+    },
+    {
+      "from": "the-reversal-of-the-bystander-commentators",
+      "to": "no-outside-scorekeeper",
+      "rel": "points_to",
+      "label": "No Outside Scorekeeper"
+    },
+    {
+      "from": "the-reversal-of-the-bystander-commentators",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "拥有更多从不是原因"
+    },
+    {
+      "from": "the-reversal-of-the-bystander-commentators",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having More Is Never the Cause"
+    },
+    {
+      "from": "the-reversal-of-the-bystander-commentators",
+      "to": "the-unexamined-critic",
+      "rel": "points_to",
+      "label": "未经自我审视的批判者"
+    },
+    {
+      "from": "the-reversal-of-the-bystander-commentators",
+      "to": "the-paradoxical-nature-of-bystander-insights",
+      "rel": "points_to",
+      "label": "旁观者洞察的悖论"
+    },
+    {
+      "from": "the-reversal-of-the-bystander-commentators",
+      "to": "the-unexamined-critic",
+      "rel": "points_to",
+      "label": "The Unexamined Critic"
+    },
+    {
+      "from": "the-reversal-of-the-bystander-commentators",
+      "to": "the-paradoxical-nature-of-bystander-insights",
+      "rel": "points_to",
+      "label": "The Paradoxical Nature of Bystander Insights"
+    },
+    {
+      "from": "the-reversal-of-the-bystander-commentators",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "验证中因果权能的分配"
+    },
+    {
+      "from": "the-reversal-of-the-bystander-commentators",
+      "to": "the-allocation-of-causal-power-in-validation",
+      "rel": "points_to",
+      "label": "The Allocation of Causal Power in Validation"
+    },
+    {
+      "from": "the-reversal-of-the-bystander-commentators",
+      "to": "the-surface-that-registers",
+      "rel": "points_to",
+      "label": "登记共鸣的表面"
+    },
+    {
+      "from": "the-reversal-of-the-bystander-commentators",
+      "to": "the-surface-that-registers",
+      "rel": "points_to",
+      "label": "The Surface That Registers"
+    },
+    {
+      "from": "the-reversal-of-the-bystander-commentators",
+      "to": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+      "rel": "points_to",
+      "label": "止步于评判，是认知的歧途"
+    },
+    {
+      "from": "the-reversal-of-the-bystander-commentators",
+      "to": "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
+      "rel": "points_to",
+      "label": "Stopping at Judgment Is a Wrong Turn of Cognition"
+    },
+    {
       "from": "the-reversal-of-verification",
       "to": "openness-is-consistency",
       "rel": "points_to",
@@ -95234,8 +95390,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "763c8fadd26a",
-        "out_degree": 448
+        "hash": "cc7a49580fab",
+        "out_degree": 449
       },
       {
         "id": "book:intelligence",
@@ -95342,8 +95498,8 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "0d170609c508",
-        "out_degree": 45
+        "hash": "7af75e4b8b67",
+        "out_degree": 46
       }
     ],
     "edges": [
@@ -97947,6 +98103,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-reversal-of-the-bystander-commentators",
+        "rel": "collects",
+        "label": "旁观评论者的倒置 / The Reversal of the Bystander Commentators"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "complexity-obscures-emergence-as-the-act-of-mind",
         "rel": "collects",
         "label": "复杂性遮蔽了涌现之为心智的行动 / Complexity Obscures Emergence as the Act of Mind"
@@ -101948,6 +102110,12 @@
         "label": "引导不是占有 / Guidance Is Not Ownership"
       },
       {
+        "from": "book:index-of-premises",
+        "to": "the-reversal-of-the-bystander-commentators",
+        "rel": "collects",
+        "label": "旁观评论者的倒置 / The Reversal of the Bystander Commentators"
+      },
+      {
         "from": "book:intelligence",
         "to": "agents_leia_ontological_clarity",
         "rel": "collects",
@@ -104022,6 +104190,12 @@
         "to": "the-judgment-that-classifies-the-complaint",
         "rel": "collects",
         "label": "投诉的判定与即时回路的撤离 / The Judgment That Classifies the Complaint and the Withdrawal from the Immediate Loop"
+      },
+      {
+        "from": "book:tools-and-progress",
+        "to": "the-reversal-of-the-bystander-commentators",
+        "rel": "collects",
+        "label": "旁观评论者的倒置 / The Reversal of the Bystander Commentators"
       }
     ]
   }

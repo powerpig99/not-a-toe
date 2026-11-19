@@ -1579,11 +1579,11 @@ Special relativity establishes that spatial and temporal intervals vary across i
 ### 言语行为理论 / Speech Act Theory
 `哲学 / Philosophical`
 
-由约翰·兰肖·奥斯汀开创的言语行为理论将言内意义（话语说了什么）及受规则支配的言外之力，同言后后果（话语在对话者身上促成了什么）区分开来，在阐明为何多轮互动后果因领会由各参与者共同生成而抗拒封闭的单句评分细则时有用；当交际效力被封入穷尽式的制度恰当性核查表，而非在每个观察心智跨轮次的开放重描处加以登记时，该理论便到达了边界。
+由约翰·兰肖·奥斯汀开创的言语行为理论将言内意义（话语说了什么）及受规则支配的言外之力，同言后后果（话语在对话者身上促成了什么）区分开来，在阐明为何多轮互动后果因领会由各参与者共同生成而抗拒封闭的单句评分细则，以及为何表达态度的表态型话语在约定规约管辖权之外作为裁定型宣判说出时会失灵这两点上皆有用；当交际效力被封入穷尽式的制度恰当性核查表而非在每个观察心智跨轮次的开放重描处加以登记，或当回顾性言语行为被当作维持历史成就并构成非规约性前沿推进的要素时，该理论便到达了边界。
 
-Speech act theory, inaugurated by J. L. Austin, separates locutionary sense (what words say) and rule-governed illocutionary force from perlocutionary consequences (what words bring about in interlocutors), which is of use in showing why multi-turn interactive consequences resist closed single-utterance rubrics because uptake is co-produced across participants; it reaches its boundary when communicative force is sealed inside exhaustive institutional felicity checklists rather than registered at each observing Mind's open re-tracing across turns.
+Speech act theory, inaugurated by J. L. Austin, separates locutionary sense (what words say) and rule-governed illocutionary force from perlocutionary consequences (what words bring about in interlocutors), which is of use in showing both why multi-turn interactive consequences resist closed single-utterance rubrics because uptake is co-produced across participants and why attitudinal behabitives misfire when uttered as verdictive rulings outside agreed conventional jurisdiction; it reaches its boundary when communicative force is sealed inside exhaustive institutional felicity checklists rather than registered at each observing Mind's open re-tracing across turns, or when retrospective verbal acts are treated as sustaining historical achievements and constituting non-conventional frontier advances.
 
-→ [终极错问与实践萦绕 / Eternally Wrong Questions That Haunt Practice](../../posts/eternally-wrong-questions-that-haunt-practice/)
+→ [终极错问与实践萦绕 / Eternally Wrong Questions That Haunt Practice](../../posts/eternally-wrong-questions-that-haunt-practice/) · [旁观评论者的倒置 / The Reversal of the Bystander Commentators](../../posts/the-reversal-of-the-bystander-commentators/)
 
 ### 自发物质涌现论 / Spontaneous Material Emergence
 `科学 / Scientific`
@@ -5330,3 +5330,12 @@ The attention mechanism resolves the relevant past by scoring the current query 
 The common designation of a "rebellious phase" treats adolescent opposition as a stage-bound feature of growing up, which is of use as a rough reminder that expanding claims to personal jurisdiction and autonomy commonly intensify during maturation; it reaches its boundary in that the intensity of pushback is not an intrinsic property of age but the observable symptom of unadjusted parental control pressing into a newly claimed personal domain, and either freezing that feedback signal into a stage property or condemning the word itself as the malicious cause relocates the difficulty outside the interaction that can still adjust.
 
 → [叛逆是症状而非属性 / Rebellion as Symptom, Not Property](../../posts/rebellion-as-symptom-not-property/) · [引导不是占有 / Guidance Is Not Ownership](../../posts/guidance-is-not-ownership/)
+
+### 站在巨人的肩膀上 / Standing on the Shoulders of Giants
+`科学 / Scientific`
+
+经索尔兹伯里的约翰归于沙特尔的伯纳德名下、并因艾萨克·牛顿而广为人知的这句格言，将累积性探究视为后来实践者站上前人已完成的边界记录以看得更远的实操抬升，这在标示承接而来的约束如何抬高起始基线、直至进入罗伯特·默顿所称的“并入性湮没”时有用；当旁观评论者把实操延展倒置为回顾性的言语行为要求，将口头致敬而非后续的前沿使用当作维持过往成就并验证新推进的所在时，这一格言便到达了边界。
+
+Attributed to Bernard of Chartres via John of Salisbury and made famous by Isaac Newton, the aphorism takes cumulative inquiry as an operational elevation in which later practitioners stand on predecessors' completed boundary records to see further, which is of use in indexing how inherited constraints raise the starting baseline up to what Robert K. Merton termed obliteration by incorporation; it reaches its boundary when bystander commentators invert operational extension into a retrospective speech-act requirement, treating verbal homage rather than subsequent frontier use as what sustains past achievements and validates new advances.
+
+→ [旁观评论者的倒置 / The Reversal of the Bystander Commentators](../../posts/the-reversal-of-the-bystander-commentators/)
