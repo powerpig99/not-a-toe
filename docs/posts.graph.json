@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-18T21:17:35.289Z",
+    "generated_at": "2026-11-19T05:18:50.522Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -96,7 +96,7 @@
       "content/posts/fate-loves-irony-refined.md": "4173eb2feff2",
       "content/posts/felt-resistance-and-the-speed-differential.md": "2a9de66345d9",
       "content/posts/fidelity-not-optimality.md": "84fdc763c7f0",
-      "content/posts/fixed-by-nothing.md": "313cd55bcbb5",
+      "content/posts/fixed-by-nothing.md": "307bb2bbbe73",
       "content/posts/four-night-questions.md": "6a45de787c56",
       "content/posts/freedom-as-ground.md": "d6d090c65cde",
       "content/posts/from-the-misallocated-sentience-of-agi-to-human-realignment.md": "234ce1feb90a",
@@ -180,7 +180,7 @@
       "content/posts/platform-decision-capture.md": "c1ce0036119a",
       "content/posts/po-chu-gai-nian-de-jian-yue.md": "c71369802649",
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "028a28b54a32",
-      "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "d2ace65813d6",
+      "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "cb1f469a0671",
       "content/posts/power-law-is-the-long-term-consequence-of-normal-distribution.md": "48c6830926cc",
       "content/posts/precision-and-resolution.md": "3a07d3cc0531",
       "content/posts/preference-clusters-and-the-language-of-judgment.md": "b11dea0379ff",
@@ -475,10 +475,10 @@
     },
     "stats": {
       "posts": 448,
-      "edges": 13732,
-      "unique_directed": 6749,
+      "edges": 13736,
+      "unique_directed": 6751,
       "missing_targets": 0,
-      "one_way": 1409,
+      "one_way": 1407,
       "isolated": 0,
       "posts_with_outbound": 448,
       "book_pages": 16,
@@ -3091,13 +3091,14 @@
       "slug": "fixed-by-nothing",
       "path": "content/posts/fixed-by-nothing.md",
       "title": "没有固定者的固定 / Fixed by Nothing",
-      "hash": "313cd55bcbb5",
+      "hash": "307bb2bbbe73",
       "in_degree": 14,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "the-deterministic-machine",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "the-boundary-of-perception-and-the-infinity-of-understanding",
+        "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
         "on-the-boundaries-of-what-can-be-said-about-p-and-np",
         "the-open-question-is-determinisms-demand",
         "observation-distinguishing-activity-and-the-open-ground-of-mind",
@@ -5536,9 +5537,9 @@
       "slug": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "path": "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md",
       "title": "潜无限与数学思维的暂时闭合 / Potential Infinity and the Temporary Closures of Mathematical Thought",
-      "hash": "d2ace65813d6",
+      "hash": "cb1f469a0671",
       "in_degree": 18,
-      "out_degree": 20,
+      "out_degree": 21,
       "links_out": [
         "the-mirage-of-the-infinite-totality",
         "the-geometry-of-mind",
@@ -5555,6 +5556,7 @@
         "your-codebase-is-memory",
         "dynamic-resnet-of-skill-loops",
         "lossless-knowledge-of-an-open-field-is-incoherent",
+        "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
         "abstraction-boundaries-and-the-moving-edge-of-reality",
         "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
         "e-shi-feng-bi-de-shan",
@@ -7148,7 +7150,7 @@
       "path": "content/posts/the-built-in-infinity-of-integers-and-the-backgrounded-choice.md",
       "title": "整数的内建无限与背景化的选择 / The Built-in Infinity of Integers and the Backgrounded Choice",
       "hash": "c5729e23bdf4",
-      "in_degree": 0,
+      "in_degree": 2,
       "out_degree": 10,
       "links_out": [
         "precision-and-resolution",
@@ -29546,6 +29548,18 @@
     },
     {
       "from": "fixed-by-nothing",
+      "to": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "rel": "points_to",
+      "label": "整数的内建无限与背景化的选择"
+    },
+    {
+      "from": "fixed-by-nothing",
+      "to": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "rel": "points_to",
+      "label": "The Built-in Infinity of Integers and the Backgrounded Choice"
+    },
+    {
+      "from": "fixed-by-nothing",
       "to": "on-the-boundaries-of-what-can-be-said-about-p-and-np",
       "rel": "points_to",
       "label": "论关于 P 与 NP 所能言说的边界"
@@ -47150,6 +47164,12 @@
     },
     {
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "rel": "points_to",
+      "label": "整数的内建无限与背景化的选择"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
       "to": "abstraction-boundaries-and-the-moving-edge-of-reality",
       "rel": "points_to",
       "label": "抽象、边界与现实的移动边缘"
@@ -47165,6 +47185,12 @@
       "to": "e-shi-feng-bi-de-shan",
       "rel": "points_to",
       "label": "恶是封闭的善"
+    },
+    {
+      "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",
+      "to": "the-built-in-infinity-of-integers-and-the-backgrounded-choice",
+      "rel": "points_to",
+      "label": "The Built-in Infinity of Integers and the Backgrounded Choice"
     },
     {
       "from": "potential-infinity-and-the-temporary-closures-of-mathematical-thought",

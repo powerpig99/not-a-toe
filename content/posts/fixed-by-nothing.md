@@ -74,7 +74,7 @@ The counterexample determinism invokes most often is deterministic chaos: the ev
 
 But look at what the chaotic model actually requires. Take the simplest case, the doubling map: xₙ₊₁ = 2xₙ mod 1. Write x as a binary fraction, and each iteration simply deletes the first digit after the point and shifts all remaining digits one place to the left. The leading digit of the state at step n is the (n+1)-th binary digit of the initial value x₀. The entire "deterministic" trajectory is nothing but a digit-by-digit reading of x₀; the rule generates no new information at all, and its only work is to carry ever deeper digits of the initial condition up to the macroscopically visible scale.
 
-这些数位从哪里来？规则不产生它们，任何观察者也提取不到它们，它们被直接装载在起点之中，作为“给定”。更尖锐的是，在实数的标准测度下，几乎每一个实数的数位序列都是算法随机的，即不可压缩、不服从任何比它自身更短的规则。所以一条典型的确定性混沌轨迹，在输入端要求的恰恰是一条无穷长且不可压缩的随机序列。决定论没有消除开放，它只是把开放整块搬进了初始条件，然后称之为给定。Nicolas Gisin 从物理一侧提出的论证与此呼应：有限的空间区域只能容纳有限的信息，携带无限精度的实数初始条件本身就不是一个可以在世界中实现的对象。
+这些数位从哪里来？规则不产生它们，任何观察者也提取不到它们，它们被直接装载在起点之中，作为“给定”。更尖锐的是，在实数的标准测度下，几乎每一个实数的数位序列都是算法随机的，即不可压缩、不服从任何比它自身更短的规则。所以一条典型的确定性混沌轨迹，在输入端要求的恰恰是一条无穷长且不可压缩的随机序列。决定论没有消除开放，它只是把开放整块搬进了初始条件，然后称之为给定。Nicolas Gisin 从物理一侧提出的论证与此呼应：有限的空间区域只能容纳有限的信息，携带无限精度的实数初始条件本身就不是一个可以在世界中实现的对象；正如 [整数的内建无限与背景化的选择](../the-built-in-infinity-of-integers-and-the-backgrounded-choice/) 所追溯的，哪怕只是在数轴上固定一个精确的整数，也已经将其尾零未完成的潜无限转化为被背景化的实无限。
 
 ```mermaid
 flowchart TD
@@ -92,7 +92,7 @@ flowchart TD
     style K4 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-Where do these digits come from? The rule does not produce them, and no observer can extract them; they are loaded directly into the starting point as a "given." More sharply still, under the standard measure on the real numbers, the digit sequence of almost every real number is algorithmically random, meaning incompressible and obedient to no rule shorter than itself. A typical deterministic chaotic trajectory therefore requires, at its input, precisely an infinitely long and incompressible random sequence. Determinism does not remove openness; it moves the openness wholesale into the initial condition and then calls it given. Nicolas Gisin's argument from the side of physics echoes this: a finite region of space can hold only finite information, so a real-valued initial condition carrying infinite precision is not an object the world can realize.
+Where do these digits come from? The rule does not produce them, and no observer can extract them; they are loaded directly into the starting point as a "given." More sharply still, under the standard measure on the real numbers, the digit sequence of almost every real number is algorithmically random, meaning incompressible and obedient to no rule shorter than itself. A typical deterministic chaotic trajectory therefore requires, at its input, precisely an infinitely long and incompressible random sequence. Determinism does not remove openness; it moves the openness wholesale into the initial condition and then calls it given. Nicolas Gisin's argument from the side of physics echoes this: a finite region of space can hold only finite information, so a real-valued initial condition carrying infinite precision is not an object the world can realize; even fixing an exact integer on the line already converts an unfinished potential infinity of trailing zeros into a backgrounded actual infinity, as [The Built-in Infinity of Integers and the Backgrounded Choice](../the-built-in-infinity-of-integers-and-the-backgrounded-choice/) traces.
 
 ```mermaid
 flowchart TD
