@@ -737,6 +737,15 @@ Hameroff's treatment of understanding as an act outside rules, supplied by quant
 
 → [论封闭系统、开放心智与证明的界限 / On Closed Systems, Open Minds, and the Limits of Proof](../../posts/on-closed-systems-open-minds-and-the-limits-of-proof/) · [另一种相干 / The Other Coherence](../../posts/the-other-coherence/)
 
+### 托马斯·霍布斯 / Thomas Hobbes
+`哲学 / Philosophical`
+
+霍布斯的《利维坦》从一项立国契约推导出政治秩序，个体为摆脱相互冲突而向共同主权者让渡自治权，这在建模具备执行力的第三方规则如何于有界争端中降低协调摩擦时有用；它在其自身的对称与终止条款之内到达了边界，因为臣民收窄了自身选择集，值守执行机构的官员却在观察滞后之内保留了自由裁量速度，致使臣民每逢保护失灵时便迎面撞上执行滞后。
+
+Hobbes's *Leviathan* derives political order from a founding covenant in which individuals surrender self-governance to a common sovereign to escape mutual conflict, which is of use in modeling how enforceable third-party rules lower coordination friction inside bounded disputes; it reaches its boundary inside his own symmetry and termination clauses, since subjects narrow their option set while officials staffing enforcement retain discretionary speed inside the observation lag, leaving subjects facing an execution lag whenever protection fails.
+
+→ [观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality](../../posts/observation-lag-and-the-inversion-of-optionality/)
+
 ### 托马斯·库恩 / Thomas Kuhn
 `哲学 / Philosophical`
 
@@ -1579,11 +1588,11 @@ The Second Law of Thermodynamics and the Past Hypothesis model macroscopic time 
 ### 社会契约论 / Social Contract Theory
 `哲学 / Philosophical`
 
-社会契约论把社会呈现为一种需要被正当化的约束，在追问制度凭什么约束人时有用；它在此到了边界：主权由每一个行动着的心智依本性持有，而非由承认、选举或立约之时的让渡所授予，社会契约描述的是个人为协调与承诺而自由做出的选择的聚合痕迹，这份痕迹成为后来的自由选择所依托的背景，而不是从外部压下的枷锁，不同惯例之间变化的只是功劳、归责与下一步判断在行动边缘被登记的宽度。
+社会契约论把社会呈现为一种需要被正当化的约束，在追问制度凭什么约束人时有用；它在此到了边界：主权由每一个行动着的心智依本性持有，而非由承认、选举或立约之时的让渡所授予，社会契约描述的是个人为协调与承诺而自由做出的选择的聚合痕迹，而不是从外部压下的枷锁，而把选项交予执行机构会把臣民的回应时间推到观察时间之后、同时让官员在滞后之内的自由裁量不受约束，因此不同惯例之间变化的，是功劳、归责与下一步调整在行动前沿保持活跃的宽度。
 
-Social contract theory presents society as a constraint that must be justified, which is of use in asking by what right institutions bind people; it reaches its boundary in that sovereignty is held by nature at every acting Mind rather than conferred by recognition, election, or founding transfer, and the social contract describes the aggregated trace of choices freely made to coordinate and commit—a trace that becomes the background for later free choices rather than chains pressed on from outside, while what varies across conventions is only how widely credit, blame, and next-step judgment are registered at the acting edge.
+Social contract theory presents society as a constraint that must be justified, which is of use in asking by what right institutions bind people; it reaches its boundary in that sovereignty is held by nature at every acting Mind rather than conferred by recognition, election, or founding transfer, the social contract describes the aggregated trace of choices freely made to coordinate and commit rather than chains pressed on from outside, and surrendering options to an enforcing apparatus pushes subjects' response time past observation time while leaving officials' discretion unconstrained inside the lag, so what varies across conventions is how widely credit, blame, and next-step adjustment remain active at the acting edge.
 
-→ [自由即地基 / Freedom as Ground](../../posts/freedom-as-ground/) · [行使的残余与政治的稳定 / The Residue of Exercise and the Stabilization of Politics](../../posts/the-residue-of-exercise-and-the-stabilization-of-politics/) · [良知、委托与管辖权错位 / Conscience, Delegation, and the Jurisdiction Error](../../posts/conscience-power-delegation/)
+→ [自由即地基 / Freedom as Ground](../../posts/freedom-as-ground/) · [行使的残余与政治的稳定 / The Residue of Exercise and the Stabilization of Politics](../../posts/the-residue-of-exercise-and-the-stabilization-of-politics/) · [良知、委托与管辖权错位 / Conscience, Delegation, and the Jurisdiction Error](../../posts/conscience-power-delegation/) · [观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality](../../posts/observation-lag-and-the-inversion-of-optionality/)
 
 ### 狭义相对论 / Special Relativity
 `科学 / Scientific`
@@ -1836,6 +1845,24 @@ Frederick Jackson Turner's frontier safety-valve thesis and Walter Prescott Webb
 Formulated by Jaegwon Kim in the philosophy of mind and explanation, causal exclusion presumes that once a sufficient lower-level local mechanism is specified for an outcome, higher-level structural accounts become redundant or must be displaced, which is of use in guarding against double-counting identical mechanisms at a single explanatory grain; it reaches its boundary when applied across distinct grains to treat structural sequences and local mediating rules as mutually exclusive competitors, mistaking a cross-domain regularity's compatibility with local institutional variation—its non-refutation inside local bounds—for a refutation of the sequence itself.
 
 → [扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts](../../posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts/)
+
+### 退出、呼吁与忠诚 / Exit, Voice, and Loyalty
+`经济 / Economic`
+
+阿尔伯特·O·赫希曼的《退出、呼吁与忠诚》刻画了可信的退出选项如何在衰败破裂入目之前悄然支撑内部呼吁并约束对手方，这在诊断企业与国家内部的反馈通道以及受困者与流动者之间的不对称时有用；它在“机构复原”这一前提处到达了边界，因为行动心智处的活的选择权是为了让调整保持快于观察滞后，而非为了修复一个正在失效的容器。
+
+Albert O. Hirschman's *Exit, Voice, and Loyalty* maps how credible exit options quietly back internal voice and discipline counterparties before decline ruptures into view, which is of use in diagnosing feedback channels and captive-versus-mobile asymmetries inside firms and states; it reaches its boundary in its premise of institutional recuperation, since live optionality at the acting Mind serves to keep adjustment faster than observation lag rather than to rehabilitate a failing vessel.
+
+→ [观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality](../../posts/observation-lag-and-the-inversion-of-optionality/)
+
+### OODA 循环 / OODA Loop
+`技术 / Technological`
+
+约翰·博伊德的观察—定向—决策—行动循环以持续重新定向为核心，使行动者能在较慢一方完成更新之前改变正在展开的场域，这在分析对抗性行动环境中的机动节律时有用；它在其达尔文式的对抗出发前提处到达了边界，因为一旦一方将自身回应时间放慢到观察时间之后，寻常自利的对手方便会在随之产生的滞后之内调整、退出或重新定价，并不需要任何敌对对手。
+
+John Boyd's Observation–Orientation–Decision–Action loop centers on continuous re-orientation so an actor shifts the unfolding field faster than a slower party can update, which is of use in analyzing maneuver tempo in contested operational settings; it reaches its boundary in its Darwinian, adversarial starting premise, since no hostile opponent is required when one party slows its own response time past observation time and ordinary self-interested counterparties adjust, exit, or reprice inside the resulting lag.
+
+→ [观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality](../../posts/observation-lag-and-the-inversion-of-optionality/)
 
 ## 概念 / Concepts
 
@@ -3997,7 +4024,7 @@ The claim of inherent risk presumes that AI risk is a property of the system, in
 
 Many individualists assume designed legal or cultural systems make freedom possible, which is of use as coordination; it reaches its boundary in that it relocates causal power onto the system, which stays secondary to the choosing acts it summarizes.
 
-→ [剩余个人主义 / Residual Individualism](../../posts/residual-individualism/)
+→ [剩余个人主义 / Residual Individualism](../../posts/residual-individualism/) · [观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality](../../posts/observation-lag-and-the-inversion-of-optionality/)
 
 ### 涌现的伪因果倒错 / Pseudo-Causality of Emergence
 `科学 / Scientific`
@@ -5357,3 +5384,12 @@ The common designation of a "rebellious phase" treats adolescent opposition as a
 Attributed to Bernard of Chartres via John of Salisbury and made famous by Isaac Newton, the aphorism takes cumulative inquiry as an operational elevation in which later practitioners stand on predecessors' completed boundary records to see further, which is of use in indexing how inherited constraints raise the starting baseline up to what Robert K. Merton termed obliteration by incorporation; it reaches its boundary when bystander commentators invert operational extension into a retrospective speech-act requirement, treating verbal homage rather than subsequent frontier use as what sustains past achievements and validates new advances.
 
 → [旁观评论者的倒置 / The Reversal of the Bystander Commentators](../../posts/the-reversal-of-the-bystander-commentators/)
+
+### 自由与安全的权衡 / The Liberty–Security Trade-Off
+`意识形态 / Ideological`
+
+自由与安全的权衡从霍布斯契约一路形式化到波斯纳与弗缪尔的安全—自由前沿，把自由与安全建模为沿一条曲线相互交换的两项独立标量商品，这在固定短周期场景里比较有界核查摩擦与检出覆盖率时有用；它在颠倒原因与残余之处到达了边界，因为安全感生于活的选择权快于观察地消解摩擦之时，而收窄一方的选项只会把它的回应时间推到观察时间之后，将剩余滞后交给仍保有自由的对手方。
+
+The liberty–security trade-off, formalized from Hobbesian compacts to Posner and Vermeule's security–liberty frontier, models freedom and security as two independent scalar goods exchanged along a curve, which is of use for comparing bounded inspection friction against detection coverage inside a fixed short-horizon venue; it reaches its boundary in inverting cause and residue, since felt security arises while live optionality resolves friction faster than observation, whereas narrowing one side's options pushes its response time past observation time and hands the remaining lag to counterparties who stay free.
+
+→ [观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality](../../posts/observation-lag-and-the-inversion-of-optionality/)

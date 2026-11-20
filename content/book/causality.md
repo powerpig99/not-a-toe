@@ -47,3 +47,4 @@ The essays in this part trace the premises beneath determinism, external attribu
 - [悬而未决是决定论的索求 / The Open Question Is Determinism's Demand](../../posts/the-open-question-is-determinisms-demand/)
 - [观察、区分活动与心智的开放地基 / Observation, Distinguishing Activity, and the Open Ground of Mind](../../posts/observation-distinguishing-activity-and-the-open-ground-of-mind/)
 - [把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source](../../posts/mistaking-the-symptom-of-stability-for-its-source/)
+- [观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality](../../posts/observation-lag-and-the-inversion-of-optionality/)

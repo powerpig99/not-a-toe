@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-19T17:11:22.475Z",
+    "generated_at": "2026-11-20T01:53:34.578Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -161,6 +161,7 @@
       "content/posts/not-predicting-is-predicting-without-awareness.md": "750dd47f6c5b",
       "content/posts/objects-are-stabilized-relationships.md": "5c88afea080b",
       "content/posts/observation-distinguishing-activity-and-the-open-ground-of-mind.md": "39117b90bc28",
+      "content/posts/observation-lag-and-the-inversion-of-optionality.md": "2b95a87d4ca9",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "b42c528284b2",
       "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "26d16a70093f",
       "content/posts/on-education.md": "2506ab652440",
@@ -458,10 +459,10 @@
       "content/posts/zi-you-de-ce-bu-zhun.md": "b3dfb0d7e962",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "0377c4822629",
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b28d61994639",
-      "content/book/causality.md": "5d2f4bc3ae3f",
+      "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "5fd937c16807",
       "content/book/economics.md": "a925ce70621d",
-      "content/book/index-of-premises.md": "1e6b811fdb74",
+      "content/book/index-of-premises.md": "3036c288f80f",
       "content/book/intelligence.md": "20d575920ac7",
       "content/book/knowledge-and-learning.md": "60b558ba8715",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -476,16 +477,16 @@
       "content/book/tools-and-progress.md": "7af75e4b8b67"
     },
     "stats": {
-      "posts": 450,
-      "edges": 13806,
-      "unique_directed": 6786,
+      "posts": 451,
+      "edges": 13836,
+      "unique_directed": 6801,
       "missing_targets": 0,
-      "one_way": 1436,
+      "one_way": 1451,
       "isolated": 0,
-      "posts_with_outbound": 450,
+      "posts_with_outbound": 451,
       "book_pages": 16,
-      "book_edges": 1454,
-      "posts_reached_by_book": 450
+      "book_edges": 1461,
+      "posts_reached_by_book": 451
     }
   },
   "hubs_in": [
@@ -503,7 +504,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 93
+      "in_degree": 94
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -519,7 +520,7 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 68
+      "in_degree": 69
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -1820,7 +1821,7 @@
       "path": "content/posts/closed-framing-and-the-reduction-of-optionality.md",
       "title": "封闭框定与选择权的缩减 / Closed Framing and the Reduction of Optionality",
       "hash": "ec49869d75c7",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 15,
       "links_out": [
         "differentiation-and-the-appearance-of-negation",
@@ -3146,7 +3147,7 @@
       "path": "content/posts/freedom-as-ground.md",
       "title": "自由即地基 / Freedom as Ground",
       "hash": "d6d090c65cde",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 16,
       "links_out": [
         "zuo-jian-bu-shi-zi-fu",
@@ -4479,7 +4480,7 @@
       "path": "content/posts/mistaking-the-symptom-of-stability-for-its-source.md",
       "title": "把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source",
       "hash": "c016f68c2992",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 11,
       "links_out": [
         "when-the-effect-authors-the-frame",
@@ -4686,7 +4687,7 @@
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "没有系统能被保持封闭 / No System Can Be Kept Closed",
       "hash": "95f8f98fd0ff",
-      "in_degree": 68,
+      "in_degree": 69,
       "out_degree": 68,
       "links_out": [
         "openness-is-consistency",
@@ -4932,6 +4933,33 @@
       ]
     },
     {
+      "id": "post:observation-lag-and-the-inversion-of-optionality",
+      "kind": "post",
+      "slug": "observation-lag-and-the-inversion-of-optionality",
+      "path": "content/posts/observation-lag-and-the-inversion-of-optionality.md",
+      "title": "观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality",
+      "hash": "2b95a87d4ca9",
+      "in_degree": 0,
+      "out_degree": 15,
+      "links_out": [
+        "mistaking-the-symptom-of-stability-for-its-source",
+        "closed-framing-and-the-reduction-of-optionality",
+        "the-price-of-closing-optionality",
+        "when-the-effect-authors-the-frame",
+        "the-velocity-of-visibility",
+        "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+        "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+        "the-risk-you-delegate-is-the-risk-you-create",
+        "no-system-can-be-kept-closed",
+        "restriction-is-a-selective-tax",
+        "the-power-law-of-surrendered-agency",
+        "sovereignty-essay",
+        "freedom-as-ground",
+        "the-residue-of-exercise-and-the-stabilization-of-politics",
+        "openness-is-consistency"
+      ]
+    },
+    {
       "id": "post:on-closed-systems-open-minds-and-the-limits-of-proof",
       "kind": "post",
       "slug": "on-closed-systems-open-minds-and-the-limits-of-proof",
@@ -5154,7 +5182,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "开放即一致 / Openness Is Consistency",
       "hash": "de9e7ea03986",
-      "in_degree": 93,
+      "in_degree": 94,
       "out_degree": 90,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -6063,7 +6091,7 @@
       "path": "content/posts/restriction-is-a-selective-tax.md",
       "title": "限制是选择性的税 / Restriction Is a Selective Tax",
       "hash": "014f812a6322",
-      "in_degree": 21,
+      "in_degree": 22,
       "out_degree": 22,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
@@ -6435,7 +6463,7 @@
       "path": "content/posts/sovereignty-essay.md",
       "title": "臣服作为错位的主权 / Surrender as Misaligned Sovereignty",
       "hash": "94143b619076",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 3,
       "links_out": [
         "sovereignty-belief-and-regulatory-structures",
@@ -8319,7 +8347,7 @@
       "path": "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md",
       "title": "自由的心智被声称保护它的东西取代 / The Free Mind Is Displaced by What Claims to Protect It",
       "hash": "1f120023244d",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 9,
       "links_out": [
         "the-generative-topology-of-free-variables",
@@ -10249,7 +10277,7 @@
       "path": "content/posts/the-power-law-of-surrendered-agency.md",
       "title": "让渡主权的幂律法则 / The Power-Law of Surrendered Agency",
       "hash": "b103a48206f4",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 6,
       "links_out": [
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
@@ -10307,7 +10335,7 @@
       "path": "content/posts/the-price-of-closing-optionality.md",
       "title": "关闭选择权的代价 / The Price of Closing Optionality",
       "hash": "d0b37dcf9c83",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 16,
       "links_out": [
         "the-risk-is-the-belief-in-oversight-itself",
@@ -10621,7 +10649,7 @@
       "path": "content/posts/the-residue-of-exercise-and-the-stabilization-of-politics.md",
       "title": "行使的残余与政治的稳定 / The Residue of Exercise and the Stabilization of Politics",
       "hash": "f05119489494",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 5,
       "links_out": [
         "sovereignty-essay",
@@ -10821,7 +10849,7 @@
       "path": "content/posts/the-risk-you-delegate-is-the-risk-you-create.md",
       "title": "你委托的风险就是你创造的风险 / The Risk You Delegate Is the Risk You Create",
       "hash": "b9b1f9d77eb2",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 8,
       "links_out": [
         "sovereignty-belief-and-regulatory-structures",
@@ -11496,7 +11524,7 @@
       "path": "content/posts/the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation.md",
       "title": "主权抉择的双面性与观察的客体化 / The Two-Sided Nature of Sovereign Choice and the Objectification of Observation",
       "hash": "124b8f97fc34",
-      "in_degree": 23,
+      "in_degree": 24,
       "out_degree": 25,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -11700,7 +11728,7 @@
       "path": "content/posts/the-velocity-of-visibility.md",
       "title": "可见性的速度差 / The Velocity of Visibility",
       "hash": "9666216b2850",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 10,
       "links_out": [
         "objects-are-stabilized-relationships",
@@ -12432,7 +12460,7 @@
       "path": "content/posts/when-the-effect-authors-the-frame.md",
       "title": "当效果主宰了框架的叙事 / When the Effect Authors the Frame",
       "hash": "d629b4d0ed73",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 18,
       "links_out": [
         "emotional-support-as-causal-interference",
@@ -42470,6 +42498,186 @@
       "to": "clarity-isnt-a-state-you-arrive-at",
       "rel": "points_to",
       "label": "Clarity Isn't a State You Arrive At. It's the Movement Itself."
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "把稳定的症状当作稳定的来源"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "closed-framing-and-the-reduction-of-optionality",
+      "rel": "points_to",
+      "label": "封闭框定与选择权的缩减"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "the-price-of-closing-optionality",
+      "rel": "points_to",
+      "label": "关闭选择权的代价"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "Mistaking the Symptom of Stability for Its Source"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "closed-framing-and-the-reduction-of-optionality",
+      "rel": "points_to",
+      "label": "Closed Framing and the Reduction of Optionality"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "the-price-of-closing-optionality",
+      "rel": "points_to",
+      "label": "The Price of Closing Optionality"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "when-the-effect-authors-the-frame",
+      "rel": "points_to",
+      "label": "当效果主宰了框架的叙事"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "when-the-effect-authors-the-frame",
+      "rel": "points_to",
+      "label": "When the Effect Authors the Frame"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "the-velocity-of-visibility",
+      "rel": "points_to",
+      "label": "可见性的速度差"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "主权抉择的双面性与观察的客体化"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "the-velocity-of-visibility",
+      "rel": "points_to",
+      "label": "The Velocity of Visibility"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
+      "rel": "points_to",
+      "label": "The Two-Sided Nature of Sovereign Choice and the Objectification of Observation"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+      "rel": "points_to",
+      "label": "自由的心智被声称保护它的东西取代"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "the-risk-you-delegate-is-the-risk-you-create",
+      "rel": "points_to",
+      "label": "你委托的风险就是你创造的风险"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
+      "rel": "points_to",
+      "label": "The Free Mind Is Displaced by What Claims to Protect It"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "the-risk-you-delegate-is-the-risk-you-create",
+      "rel": "points_to",
+      "label": "The Risk You Delegate Is the Risk You Create"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "限制是选择性的税"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "Restriction Is a Selective Tax"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "the-power-law-of-surrendered-agency",
+      "rel": "points_to",
+      "label": "让渡主权的幂律法则"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "the-power-law-of-surrendered-agency",
+      "rel": "points_to",
+      "label": "The Power-Law of Surrendered Agency"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "sovereignty-essay",
+      "rel": "points_to",
+      "label": "臣服作为错位的主权"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "freedom-as-ground",
+      "rel": "points_to",
+      "label": "自由即地基"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "the-residue-of-exercise-and-the-stabilization-of-politics",
+      "rel": "points_to",
+      "label": "行使的残余与政治的稳定"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "sovereignty-essay",
+      "rel": "points_to",
+      "label": "Surrender as Misaligned Sovereignty"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "freedom-as-ground",
+      "rel": "points_to",
+      "label": "Freedom as Ground"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "the-residue-of-exercise-and-the-stabilization-of-politics",
+      "rel": "points_to",
+      "label": "The Residue of Exercise and the Stabilization of Politics"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "on-closed-systems-open-minds-and-the-limits-of-proof",
@@ -95688,8 +95896,8 @@
         "slug": "causality",
         "path": "content/book/causality.md",
         "title": "因果的内外视界 / Inner and Outer Horizons of Causality",
-        "hash": "5d2f4bc3ae3f",
-        "out_degree": 35
+        "hash": "2cf0bbb6cb82",
+        "out_degree": 36
       },
       {
         "id": "book:consciousness",
@@ -95715,8 +95923,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "1e6b811fdb74",
-        "out_degree": 450
+        "hash": "3036c288f80f",
+        "out_degree": 451
       },
       {
         "id": "book:intelligence",
@@ -96037,6 +96245,12 @@
         "to": "mistaking-the-symptom-of-stability-for-its-source",
         "rel": "collects",
         "label": "把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source"
+      },
+      {
+        "from": "book:causality",
+        "to": "observation-lag-and-the-inversion-of-optionality",
+        "rel": "collects",
+        "label": "观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality"
       },
       {
         "from": "book:consciousness",
@@ -97306,6 +97520,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "observation-lag-and-the-inversion-of-optionality",
+        "rel": "collects",
+        "label": "观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-reality-distortion-field-inverts-the-baseline",
         "rel": "collects",
         "label": "现实扭曲力场颠倒了基线 / The Reality Distortion Field Inverts the Baseline"
@@ -98428,6 +98648,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "observation-lag-and-the-inversion-of-optionality",
+        "rel": "collects",
+        "label": "观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-twin-paradox-and-the-hidden-observer",
         "rel": "collects",
         "label": "双生子佯谬与隐秘观察者 / The Twin Paradox and the Hidden Observer"
@@ -98695,6 +98921,18 @@
         "to": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
         "rel": "collects",
         "label": "扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "observation-lag-and-the-inversion-of-optionality",
+        "rel": "collects",
+        "label": "观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "observation-lag-and-the-inversion-of-optionality",
+        "rel": "collects",
+        "label": "观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality"
       },
       {
         "from": "book:index-of-premises",
@@ -100792,6 +101030,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "observation-lag-and-the-inversion-of-optionality",
+        "rel": "collects",
+        "label": "观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
         "rel": "collects",
         "label": "涌现的伪因果 / The Pseudo-Causality of Emergence"
@@ -102469,6 +102713,12 @@
         "to": "the-reversal-of-the-bystander-commentators",
         "rel": "collects",
         "label": "旁观评论者的倒置 / The Reversal of the Bystander Commentators"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "observation-lag-and-the-inversion-of-optionality",
+        "rel": "collects",
+        "label": "观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality"
       },
       {
         "from": "book:intelligence",
