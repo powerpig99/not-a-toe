@@ -22,7 +22,7 @@ The price geometry of coalitions is the same recursion under another face. Secur
 
 ## 二、 鸡与蛋的表象是类型的塌缩 / 2. The Chicken-and-Egg Appearance Is Type Collapse
 
-“先有制度，还是先有卓异的人？”只有当每一个具体的个案都被抽象成抹去个体差异的类型时，才被计为悖论。被逼进一个封闭之相互必然的“那只”鸡与“那颗”蛋，生成一个没有第一项的循环。没有哪一个具体的个案提供这个循环。
+“先有制度，还是先有卓异的人？”只有当每一个具体的个案都被抽象成抹去个体差异的类型时，才被计为悖论。“那只”鸡与“那颗”蛋被逼进封闭的相互必然里，便生成一个没有第一项的循环。没有哪一个具体的个案提供这个循环。
 
 "Which comes first, systems or exceptional people?" scores as paradox only when every particular case is abstracted into types that erase individual difference. *The* chicken and *the* egg, forced into a closed mutual necessity, generate a loop with no first term. No concrete case supplies that loop.
 
@@ -140,9 +140,9 @@ These two orientations are not two unmixed kinds. Actual behavior occupies a spe
 
 ## 五、 规律是累计的总数；条件是被感知的场 / 5. Regularities Are Running Totals; Conditions Are the Perceived Field
 
-即便是那些看似驱动这一过程的更高阶规律，选择压力、网络效应、路径依赖，本身也在下游。它们是先前选择的累计总数，被读得好像总数写下了下一步：在递归的滞后之下，同一次对因果方向的反向读法。唯一的杠杆，是在决定那一刻所在的条件之下，自由作出的个人选择，每一个选择都是它自己的一根杠杆。
+即便是那些看似驱动这一过程的更高阶规律，选择压力、网络效应、路径依赖，本身也在下游。它们是先前选择的累计总数，被读得好像总数写下了下一步：在递归的滞后之下，同一次对因果方向的反向读法。[排序的残余与解释的非等效](../the-residue-of-sorting-and-the-non-equivalence-of-interpretations/)在退出情形下的集体心态里追溯了这种反向读法：将稳定下来的残余当作独立宏观力量，是排序残余解释所包含的滞后速记，而非等效描述。唯一的杠杆，是在决定那一刻所在的条件之下，自由作出的个人选择，每一个选择都是它自己的一根杠杆。
 
-Even the higher-order regularities that seem to drive the process, selection pressures, network effects, path dependence, are themselves downstream. They are running totals of prior choices, read as if the totals authored the next step: the same reverse reading of causal direction under recursive lag. The only lever is the freely made individual choice exercised under the conditions present at the moment of decision, each choice its own lever.
+Even the higher-order regularities that seem to drive the process, selection pressures, network effects, path dependence, are themselves downstream. They are running totals of prior choices, read as if the totals authored the next step: the same reverse reading of causal direction under recursive lag. [The Residue of Sorting and the Non-Equivalence of Interpretations](../the-residue-of-sorting-and-the-non-equivalence-of-interpretations/) traces that reverse reading in collective mindsets under exit: treating the stabilized residue as an independent macro power is a lagged shorthand contained by the sorting-residue account, not an equivalent description. The only lever is the freely made individual choice exercised under the conditions present at the moment of decision, each choice its own lever.
 
 那些条件不是立在心智之外的具体约束。它们就是被感知的场本身。一个心智登记为不可逾越之障碍的东西，另一个心智可以登记为决定性的动力。行动总是在感知之内作出；任何处境的运作意义，在感知的动作中被赋予。[气候问题只作为感知被登记](../the-climate-problem-registers-only-as-perception/)在环境的情形里作出这一刀：问题的地位，是那些装上它的中心上的一次持守，不是大气为了继续下去所需要的一种属性。[数据是局部的，智能是分配的](../data-is-local-intelligence-is-allocated/)是同一种几何之下的质量与信号：信号、糟粕与智能，命名的是心智所画出的关系，汇总让残余变密，却不搬动这份画出。
 

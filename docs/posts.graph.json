@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-20T18:32:17.775Z",
+    "generated_at": "2026-11-20T22:25:21.435Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -87,7 +87,7 @@
       "content/posts/everything-is-changing-as-always.md": "ef77f674af21",
       "content/posts/evil-as-projected-resistance.md": "c84026a0d2e2",
       "content/posts/evil-as-the-minds-own-creation.md": "b0b74bc7b0b2",
-      "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "a513381c9055",
+      "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "48aa30d0dd92",
       "content/posts/expertise-as-reference-not-replacement.md": "bc7d7364b559",
       "content/posts/extended-cognition-refined.md": "f8c078179a21",
       "content/posts/extension-and-shift.md": "bb2e831f3d62",
@@ -161,7 +161,7 @@
       "content/posts/not-predicting-is-predicting-without-awareness.md": "750dd47f6c5b",
       "content/posts/objects-are-stabilized-relationships.md": "5c88afea080b",
       "content/posts/observation-distinguishing-activity-and-the-open-ground-of-mind.md": "39117b90bc28",
-      "content/posts/observation-lag-and-the-inversion-of-optionality.md": "2b95a87d4ca9",
+      "content/posts/observation-lag-and-the-inversion-of-optionality.md": "48ca1f4b438f",
       "content/posts/on-closed-systems-open-minds-and-the-limits-of-proof.md": "b42c528284b2",
       "content/posts/on-demand-contexts-keep-coherence-at-one-step.md": "26d16a70093f",
       "content/posts/on-education.md": "2506ab652440",
@@ -335,7 +335,7 @@
       "content/posts/the-loop-that-cant-see-itself.md": "b9a6ed83a832",
       "content/posts/the-maintenance-paradox.md": "1d92c151aa07",
       "content/posts/the-map-after-the-territory.md": "7c4c6f4b27cf",
-      "content/posts/the-mark-and-the-act.md": "8167eeddeeae",
+      "content/posts/the-mark-and-the-act.md": "98b48747d562",
       "content/posts/the-meaning-of-life-is-in-the-drafting.md": "104d4d3b68bc",
       "content/posts/the-mind-as-vector-and-coordinate-system.md": "50dc5c46c786",
       "content/posts/the-mind-that-statistics-cannot-reveal.md": "af784b26392a",
@@ -450,7 +450,7 @@
       "content/posts/why-mathematics-can-never-be-solved.md": "7555a99c651d",
       "content/posts/writing-without-the-image.md": "157f6998ee85",
       "content/posts/xian-shi-de-bian-jie.md": "4ced2122a338",
-      "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "dc46fd8019d7",
+      "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md": "7db3bb77e177",
       "content/posts/you-cant-benchmark-the-fluid.md": "0c261c0f07f5",
       "content/posts/you-tiao-jian-de-zi-you.md": "951537534f9e",
       "content/posts/you-wu-zhi-bian.md": "44d999fe6fb0",
@@ -480,10 +480,10 @@
     },
     "stats": {
       "posts": 453,
-      "edges": 13896,
-      "unique_directed": 6831,
+      "edges": 13904,
+      "unique_directed": 6835,
       "missing_targets": 0,
-      "one_way": 1479,
+      "one_way": 1475,
       "isolated": 0,
       "posts_with_outbound": 453,
       "book_pages": 16,
@@ -2850,9 +2850,9 @@
       "slug": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "path": "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md",
       "title": "卓异、感知与自我设限的问题场域 / Exceptionality, Perception, and the Self-Limiting Field of Problems",
-      "hash": "a513381c9055",
+      "hash": "48aa30d0dd92",
       "in_degree": 26,
-      "out_degree": 28,
+      "out_degree": 29,
       "links_out": [
         "causality-all-the-way",
         "causality-stays-at-the-edge-that-steers",
@@ -2874,6 +2874,7 @@
         "the-reversal-of-verification",
         "empowerment-establishes-the-centralization-of-power",
         "preference-clusters-and-the-language-of-judgment",
+        "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
         "the-climate-problem-registers-only-as-perception",
         "data-is-local-intelligence-is-allocated",
         "the-coordinators-category-error",
@@ -4940,13 +4941,14 @@
       "slug": "observation-lag-and-the-inversion-of-optionality",
       "path": "content/posts/observation-lag-and-the-inversion-of-optionality.md",
       "title": "观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality",
-      "hash": "2b95a87d4ca9",
+      "hash": "48ca1f4b438f",
       "in_degree": 3,
-      "out_degree": 15,
+      "out_degree": 16,
       "links_out": [
         "mistaking-the-symptom-of-stability-for-its-source",
         "closed-framing-and-the-reduction-of-optionality",
         "the-price-of-closing-optionality",
+        "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
         "when-the-effect-authors-the-frame",
         "the-velocity-of-visibility",
         "the-two-sided-nature-of-sovereign-choice-and-the-objectification-of-observation",
@@ -9574,9 +9576,9 @@
       "slug": "the-mark-and-the-act",
       "path": "content/posts/the-mark-and-the-act.md",
       "title": "印迹与行动 / The Mark and the Act",
-      "hash": "8167eeddeeae",
+      "hash": "98b48747d562",
       "in_degree": 22,
-      "out_degree": 18,
+      "out_degree": 19,
       "links_out": [
         "complexity-obscures-emergence-as-the-act-of-mind",
         "your-codebase-is-memory",
@@ -9587,6 +9589,7 @@
         "the-geometry-of-success",
         "zi-you-de-ce-bu-zhun",
         "when-observation-becomes-performance",
+        "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
         "the-generative-atlas-of-macroscopic-phenomena",
         "rationality-never-travels-across-the-mind",
         "zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu",
@@ -10698,7 +10701,7 @@
       "path": "content/posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations.md",
       "title": "排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations",
       "hash": "af7bc733c8fe",
-      "in_degree": 0,
+      "in_degree": 4,
       "out_degree": 12,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -12650,9 +12653,9 @@
       "slug": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
       "path": "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md",
       "title": "涌现的伪因果 / The Pseudo-Causality of Emergence",
-      "hash": "dc46fd8019d7",
+      "hash": "7db3bb77e177",
       "in_degree": 22,
-      "out_degree": 22,
+      "out_degree": 23,
       "links_out": [
         "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
         "the-mark-and-the-act",
@@ -12674,6 +12677,7 @@
         "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
         "ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi",
         "your-codebase-is-memory",
+        "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
         "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
         "the-fallacy-of-post-success-parenting"
       ]
@@ -28229,6 +28233,18 @@
     },
     {
       "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "rel": "points_to",
+      "label": "排序的残余与解释的非等效"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "rel": "points_to",
+      "label": "The Residue of Sorting and the Non-Equivalence of Interpretations"
+    },
+    {
+      "from": "exceptionality-perception-and-the-self-limiting-field-of-problems",
       "to": "the-climate-problem-registers-only-as-perception",
       "rel": "points_to",
       "label": "气候问题只作为感知被登记"
@@ -42590,6 +42606,18 @@
       "to": "the-price-of-closing-optionality",
       "rel": "points_to",
       "label": "The Price of Closing Optionality"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "rel": "points_to",
+      "label": "排序的残余与解释的非等效"
+    },
+    {
+      "from": "observation-lag-and-the-inversion-of-optionality",
+      "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "rel": "points_to",
+      "label": "The Residue of Sorting and the Non-Equivalence of Interpretations"
     },
     {
       "from": "observation-lag-and-the-inversion-of-optionality",
@@ -73145,9 +73173,21 @@
     },
     {
       "from": "the-mark-and-the-act",
+      "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "rel": "points_to",
+      "label": "排序的残余与解释的非等效"
+    },
+    {
+      "from": "the-mark-and-the-act",
       "to": "the-generative-atlas-of-macroscopic-phenomena",
       "rel": "points_to",
       "label": "宏观现象的生成图谱"
+    },
+    {
+      "from": "the-mark-and-the-act",
+      "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "rel": "points_to",
+      "label": "The Residue of Sorting and the Non-Equivalence of Interpretations"
     },
     {
       "from": "the-mark-and-the-act",
@@ -94739,6 +94779,12 @@
     },
     {
       "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "rel": "points_to",
+      "label": "排序的残余与解释的非等效"
+    },
+    {
+      "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
       "to": "the-fallacy-of-pacing-and-the-felt-friction-of-ground-truth",
       "rel": "points_to",
       "label": "调速者的幻觉与行动的活态摩擦"
@@ -94760,6 +94806,12 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "rel": "points_to",
+      "label": "The Residue of Sorting and the Non-Equivalence of Interpretations"
     },
     {
       "from": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
