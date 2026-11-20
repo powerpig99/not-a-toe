@@ -571,11 +571,34 @@ function deriveConcurrency(r) {
   return 12;
 }
 
+/** Write docs/posts.graph.json only when content beyond meta.generated_at changed. */
+function writeGraphIfChanged(builtGraph) {
+  if (fs.existsSync(outJson)) {
+    const existing = fs.readFileSync(outJson, 'utf8');
+    try {
+      const prev = JSON.parse(existing);
+      if (typeof prev?.meta?.generated_at === 'string') {
+        const candidate = {
+          ...builtGraph,
+          meta: { ...builtGraph.meta, generated_at: prev.meta.generated_at },
+        };
+        if (`${JSON.stringify(candidate, null, 2)}\n` === existing) {
+          return false;
+        }
+      }
+    } catch {
+      // Rewrite if existing projection is not valid JSON.
+    }
+  }
+  fs.mkdirSync(path.dirname(outJson), { recursive: true });
+  fs.writeFileSync(outJson, `${JSON.stringify(builtGraph, null, 2)}\n`);
+  return true;
+}
+
 function runNextBatch(builtGraph, batchSize, partFilter, isDryRun) {
   const bSize = Number.isFinite(batchSize) && batchSize > 0 ? batchSize : 12;
   if (!isDryRun) {
-    fs.mkdirSync(path.dirname(outJson), { recursive: true });
-    fs.writeFileSync(outJson, `${JSON.stringify(builtGraph, null, 2)}\n`);
+    writeGraphIfChanged(builtGraph);
   }
 
   const partOrder = readPartOrder();
@@ -818,14 +841,15 @@ if (wantDiff) {
   process.exit(0);
 }
 
-const json = `${JSON.stringify(graph, null, 2)}\n`;
-
 if (stdout) {
-  process.stdout.write(json);
+  process.stdout.write(`${JSON.stringify(graph, null, 2)}\n`);
 } else {
-  fs.mkdirSync(path.dirname(outJson), { recursive: true });
-  fs.writeFileSync(outJson, json);
-  console.log(`Wrote ${path.relative(root, outJson)}`);
+  const wrote = writeGraphIfChanged(graph);
+  console.log(
+    wrote
+      ? `Wrote ${path.relative(root, outJson)}`
+      : `Unchanged ${path.relative(root, outJson)} (already current)`,
+  );
   const s = graph.meta.stats;
   console.log(
     `  posts=${s.posts} edges=${s.edges} unique=${s.unique_directed} missing=${s.missing_targets} one_way=${s.one_way} isolated=${s.isolated} with_out=${s.posts_with_outbound}`,
