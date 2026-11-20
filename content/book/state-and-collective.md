@@ -46,3 +46,4 @@ The essays in this part examine the vector sum of coercion, the belief in oversi
 - [能动性、矛盾与权力的移置 / Agency, Contradiction, and the Relocation of Power](../../posts/agency-contradiction-and-the-relocation-of-power/)
 - [行使的残余与政治的稳定 / The Residue of Exercise and the Stabilization of Politics](../../posts/the-residue-of-exercise-and-the-stabilization-of-politics/)
 - [“共享”的两种读法与观察的边界 / The Two Readings of Shared and the Observational Bound](../../posts/the-two-readings-of-shared-and-the-observational-bound/)
+- [排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations](../../posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations/)

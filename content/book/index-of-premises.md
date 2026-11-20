@@ -1250,7 +1250,7 @@ Taking information or matter as primary, or both as dual aspects, is of use in d
 
 Institutional explanation—from Douglass North's property-rights framework to Daron Acemoglu, Simon Johnson, and James Robinson's comparative accounts—presumes that political and legal institutions determine capable actors and long-run economic trajectories, which is of use in describing local constraints, comparing environments, and specifying the mediating channels of statutory form, speed, and cost inside a concrete setting; it reaches its boundary in that institutions are the stabilized residue of prior self-selection and enforcement choices rather than exterior authors ahead of choosing individuals, and elevating one local institutional arrangement into a self-sufficient master cause across eras leaves unexplained why the sequence of open-bound surplus, reactive pressure, and selective exit recurs across disparate legal traditions.
 
-→ [平均值是残余，不是引擎 / The Average Is Residue, Not the Engine](../../posts/the-average-is-residue-not-the-engine/) · [扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts](../../posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts/)
+→ [平均值是残余，不是引擎 / The Average Is Residue, Not the Engine](../../posts/the-average-is-residue-not-the-engine/) · [扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts](../../posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts/) · [排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations](../../posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations/)
 
 ### 软件领域的杰文斯悖论 / Jevons Paradox in Software
 `经济 / Economic`
@@ -1862,7 +1862,7 @@ Formulated by Jaegwon Kim in the philosophy of mind and explanation, causal excl
 
 Albert O. Hirschman's *Exit, Voice, and Loyalty* maps how credible exit options quietly back internal voice and discipline counterparties before decline ruptures into view, which is of use in diagnosing feedback channels and captive-versus-mobile asymmetries inside firms and states; it reaches its boundary in its premise of institutional recuperation, since live optionality at the acting Mind serves to keep adjustment faster than observation lag rather than to rehabilitate a failing vessel.
 
-→ [观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality](../../posts/observation-lag-and-the-inversion-of-optionality/)
+→ [观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality](../../posts/observation-lag-and-the-inversion-of-optionality/) · [排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations](../../posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations/)
 
 ### OODA 循环 / OODA Loop
 `技术 / Technological`
@@ -1872,6 +1872,33 @@ Albert O. Hirschman's *Exit, Voice, and Loyalty* maps how credible exit options 
 John Boyd's Observation–Orientation–Decision–Action loop centers on continuous re-orientation so an actor shifts the unfolding field faster than a slower party can update, which is of use in analyzing maneuver tempo in contested operational settings; it reaches its boundary in its Darwinian, adversarial starting premise, since no hostile opponent is required when one party slows its own response time past observation time and ordinary self-interested counterparties adjust, exit, or reprice inside the resulting lag.
 
 → [观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality](../../posts/observation-lag-and-the-inversion-of-optionality/)
+
+### 蒂布特排序 / Tiebout Sorting
+`经济 / Economic`
+
+查尔斯·蒂布特于 1956 年提出的“用脚投票”模型在个体偏好与社区菜单双双固定的前提下，将可流动家庭刻画为在相互竞争的管辖区之间显露偏好的行动者，这在流动成本低廉且菜单保持静止之处用于刻画借退出显露偏好时有用；一旦每一次离开都递归地改写留守者所面对的规范、地位层级、同侪预期与地方规则，使看似外生的地点菜单实为先前排序的累积残余，该模型便到达了边界。
+
+Charles Tiebout's 1956 model of "voting with one's feet" treats mobile households as revealing preferences across competing jurisdictions under fixed individual preferences and fixed community menus, which is of use in modeling preference revelation through exit where mobility is inexpensive and menus stay stationary; it reaches its boundary once each exit recursively alters the remaining norms, status hierarchies, peer expectations, and local rules confronting those who stay, turning what appears as an exogenous place menu into the accumulated residue of prior sorting.
+
+→ [排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations](../../posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations/)
+
+### 文化决定论与社会事实 / Cultural Determinism and Social Facts
+`哲学 / Philosophical`
+
+埃米尔·涂尔干将“社会事实”界定为自成一类的强制实体、吉尔特·霍夫斯泰德以国家文化维度刻画文化，二者皆将集体心智视为塑形个体行为的自主宏观基底，这在静止的高退出成本体制内作为低带宽速记时有用；一旦这一前提被拔高为独立因果力，便被迫按尺度特设分裂的实体——例如恒定不变的国家“价值观”与可塑的组织“实践”——同时无法解释为何国家内部变异占主导、国家指数每隔十年便会漂移，以及为何退出壁垒一旦下降、看似恒常的表象便随之瓦解，在此到达了边界。
+
+Émile Durkheim's framing of *faits sociaux* as coercive entities *sui generis* and Geert Hofstede's national cultural dimensions treat collective mindset as an autonomous macro substrate shaping individual conduct, which is of use as a low-bandwidth shorthand inside a stationary high-exit-cost regime; the premise reaches its boundary when elevated into an independent causal force, forcing ad-hoc splits into separate entities by scale—such as immutable national "values" versus malleable organizational "practices"—while leaving unexplained why within-country variance dominates, why national indices drift across decades, and why apparent permanence breaks down once exit barriers drop.
+
+→ [排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations](../../posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations/)
+
+### 卢卡斯批判 / The Lucas Critique
+`经济 / Economic`
+
+小罗伯特·E·卢卡斯在 1976 年的批判中指出，从历史快照估算出的简约式宏观参数仅在固定政策体制内保持稳健，一遇体制转换便告失效，因为它们是底层决策规则的均衡残余而非自主常量，这在揭示为何被动数据上的静态观测一致从不证明因果等效时有用；每当形式化模型仍将底层行动者的决策规则视作封闭固定的函数类，而非活的心智在约束变动时持续重新渲染的开放偏好表达，这一批判的建构便到达了边界。
+
+Robert E. Lucas Jr.'s 1976 critique shows that reduced-form macroeconomic parameters estimated from historical snapshots hold steady only inside a fixed policy regime and break down upon a regime shift because they are equilibrium residues of underlying decision rules rather than autonomous constants, which is of use in exposing why static observational agreement across passive data never proves causal equivalence; it reaches its boundary whenever a formal model still treats the underlying agent decision rules as a closed, fixed functional class rather than open-ended preference expressions at living Minds that re-render whenever constraints change.
+
+→ [排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations](../../posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations/)
 
 ## 概念 / Concepts
 
@@ -3124,7 +3151,7 @@ Better incentive design presumes one mind can solve others' problems, which is o
 
 Environmental and generational determinism presume that aggregates, generations, or environmental conditions such as prosperity hold independent initiating causal standing beside or in place of the discrete individual act; those names remain of use in recording the densified residue of choices already drawn across many centers and the payoff field it patterns for later acts, yet the presumption becomes incomplete where individual sequences under the same easier payoffs still diverge—some relaxing consistency, others re-rendering the acts the pattern depends on—a divergence a shared field cannot register and that is settled only in the choice drawn and sustained at each locus, so even "partly conditions, partly choice" installs a second cause beside the one edge that continues to act.
 
-→ [个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers](../../posts/individual-choices-as-the-only-causal-levers/) · [行使的残余与政治的稳定 / The Residue of Exercise and the Stabilization of Politics](../../posts/the-residue-of-exercise-and-the-stabilization-of-politics/)
+→ [个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers](../../posts/individual-choices-as-the-only-causal-levers/) · [行使的残余与政治的稳定 / The Residue of Exercise and the Stabilization of Politics](../../posts/the-residue-of-exercise-and-the-stabilization-of-politics/) · [排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations](../../posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations/)
 
 ### 个人权利 / Individual Rights
 `哲学 / Philosophical`
@@ -4042,7 +4069,7 @@ Many individualists assume designed legal or cultural systems make freedom possi
 
 Treating the tide of the times, the institution, collective will or collective intelligence as causes governing individuals is of use as a description of macro patterns; it reaches its boundary in that macro phenomena are statistical by-products gathered from micro choices which, once read as causes, enter the next choice and form a self-loop, and the feeling of being swept along is attribution moved outward after the fact while individual choice never lost its causal place.
 
-→ [涌现的伪因果 / The Pseudo-Causality of Emergence](../../posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/) · [涌现的几何学 / The Geometry of Emergence](../../posts/the-geometry-of-emergence/)
+→ [涌现的伪因果 / The Pseudo-Causality of Emergence](../../posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo/) · [涌现的几何学 / The Geometry of Emergence](../../posts/the-geometry-of-emergence/) · [排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations](../../posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations/)
 
 ### 量子脑之争 / The Quantum Brain Debate
 `科学 / Scientific`
@@ -4510,7 +4537,7 @@ Upfront software specification presumes that comprehensive documentation can ful
 
 Statistical aggregates compress the choices of millions of Minds into a curve or summary metric, which is of use in setting baselines, mapping environmental friction and summarizing historical frequencies; they reach their boundary in that a distribution describes what many centers have done and authors no center's next step, so treating an average or trendline as a force pushing individuals takes the smoothed summary for the source.
 
-→ [统计学无法揭示的心智 / The Mind That Statistics Cannot Reveal](../../posts/the-mind-that-statistics-cannot-reveal/) · [能动性与模式 / Agency and the Pattern](../../posts/agency-and-the-pattern/)
+→ [统计学无法揭示的心智 / The Mind That Statistics Cannot Reveal](../../posts/the-mind-that-statistics-cannot-reveal/) · [能动性与模式 / Agency and the Pattern](../../posts/agency-and-the-pattern/) · [排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations](../../posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations/)
 
 ### 统计平均值作为原因 / Statistical Average as Cause
 `科学 / Scientific`

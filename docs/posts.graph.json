@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-20T13:01:51.471Z",
+    "generated_at": "2026-11-20T18:32:17.775Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -376,6 +376,7 @@
       "content/posts/the-reflexive-dilemma-of-unique-insight.md": "d836ec0d3431",
       "content/posts/the-residue-and-the-free-variable.md": "2d2ce0360330",
       "content/posts/the-residue-of-exercise-and-the-stabilization-of-politics.md": "f05119489494",
+      "content/posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations.md": "af7bc733c8fe",
       "content/posts/the-returning-signal-and-its-claim.md": "973ad49b2d21",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "eac491539bc9",
       "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "fd92ab3e1f13",
@@ -463,7 +464,7 @@
       "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "5fd937c16807",
       "content/book/economics.md": "0252a0c728cf",
-      "content/book/index-of-premises.md": "6e7026095e05",
+      "content/book/index-of-premises.md": "c16ed30f43b8",
       "content/book/intelligence.md": "20d575920ac7",
       "content/book/knowledge-and-learning.md": "60b558ba8715",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -473,21 +474,21 @@
       "content/book/morality.md": "74e5662f2868",
       "content/book/physics.md": "c9d233b55433",
       "content/book/preface.md": "09791dd76ace",
-      "content/book/state-and-collective.md": "bc3f42203ebd",
+      "content/book/state-and-collective.md": "a1b57a68703f",
       "content/book/success-and-the-self.md": "fcb69cfb1854",
       "content/book/tools-and-progress.md": "7af75e4b8b67"
     },
     "stats": {
-      "posts": 452,
-      "edges": 13872,
-      "unique_directed": 6819,
+      "posts": 453,
+      "edges": 13896,
+      "unique_directed": 6831,
       "missing_targets": 0,
-      "one_way": 1467,
+      "one_way": 1479,
       "isolated": 0,
-      "posts_with_outbound": 452,
+      "posts_with_outbound": 453,
       "book_pages": 16,
-      "book_edges": 1468,
-      "posts_reached_by_book": 452
+      "book_edges": 1477,
+      "posts_reached_by_book": 453
     }
   },
   "hubs_in": [
@@ -501,11 +502,11 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 112
+      "in_degree": 113
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 95
+      "in_degree": 96
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -951,7 +952,7 @@
       "path": "content/posts/agency-contradiction-and-the-relocation-of-power.md",
       "title": "能动性、矛盾与权力的移置 / Agency, Contradiction, and the Relocation of Power",
       "hash": "275043c4033b",
-      "in_degree": 28,
+      "in_degree": 29,
       "out_degree": 24,
       "links_out": [
         "the-substrate-of-constraint-and-the-self-denial-of-freedom",
@@ -2850,7 +2851,7 @@
       "path": "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md",
       "title": "卓异、感知与自我设限的问题场域 / Exceptionality, Perception, and the Self-Limiting Field of Problems",
       "hash": "a513381c9055",
-      "in_degree": 25,
+      "in_degree": 26,
       "out_degree": 28,
       "links_out": [
         "causality-all-the-way",
@@ -3224,7 +3225,7 @@
       "path": "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md",
       "title": "个人选择、社会化与做自己 / Individual Choice, Socialization and Being Oneself",
       "hash": "65e04ccfde33",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 9,
       "links_out": [
         "the-name-revolution-files-a-life-as-evidence",
@@ -3721,7 +3722,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers",
       "hash": "915a3572d822",
-      "in_degree": 112,
+      "in_degree": 113,
       "out_degree": 102,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -4940,7 +4941,7 @@
       "path": "content/posts/observation-lag-and-the-inversion-of-optionality.md",
       "title": "观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality",
       "hash": "2b95a87d4ca9",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 15,
       "links_out": [
         "mistaking-the-symptom-of-stability-for-its-source",
@@ -5183,7 +5184,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "开放即一致 / Openness Is Consistency",
       "hash": "de9e7ea03986",
-      "in_degree": 95,
+      "in_degree": 96,
       "out_degree": 90,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -6922,7 +6923,7 @@
       "path": "content/posts/the-average-is-residue-not-the-engine.md",
       "title": "平均值是残余，不是引擎 / The Average Is Residue, Not the Engine",
       "hash": "b881dcae3e7d",
-      "in_degree": 31,
+      "in_degree": 32,
       "out_degree": 25,
       "links_out": [
         "the-rational-choice-postulate-is-the-original-sin",
@@ -9574,7 +9575,7 @@
       "path": "content/posts/the-mark-and-the-act.md",
       "title": "印迹与行动 / The Mark and the Act",
       "hash": "8167eeddeeae",
-      "in_degree": 21,
+      "in_degree": 22,
       "out_degree": 18,
       "links_out": [
         "complexity-obscures-emergence-as-the-act-of-mind",
@@ -10680,7 +10681,7 @@
       "path": "content/posts/the-residue-of-exercise-and-the-stabilization-of-politics.md",
       "title": "行使的残余与政治的稳定 / The Residue of Exercise and the Stabilization of Politics",
       "hash": "f05119489494",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 5,
       "links_out": [
         "sovereignty-essay",
@@ -10688,6 +10689,30 @@
         "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
         "residual-individualism",
         "individual-choices-as-the-only-causal-levers"
+      ]
+    },
+    {
+      "id": "post:the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "kind": "post",
+      "slug": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "path": "content/posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations.md",
+      "title": "排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations",
+      "hash": "af7bc733c8fe",
+      "in_degree": 0,
+      "out_degree": 12,
+      "links_out": [
+        "individual-choices-as-the-only-causal-levers",
+        "the-mark-and-the-act",
+        "the-average-is-residue-not-the-engine",
+        "exceptionality-perception-and-the-self-limiting-field-of-problems",
+        "the-summary-first-reversal-and-the-command-of-yields",
+        "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+        "the-residue-of-exercise-and-the-stabilization-of-politics",
+        "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+        "observation-lag-and-the-inversion-of-optionality",
+        "agency-contradiction-and-the-relocation-of-power",
+        "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+        "openness-is-consistency"
       ]
     },
     {
@@ -11092,7 +11117,7 @@
       "path": "content/posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts.md",
       "title": "扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts",
       "hash": "97fa53f31ce5",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 10,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -11402,7 +11427,7 @@
       "path": "content/posts/the-summary-first-reversal-and-the-command-of-yields.md",
       "title": "宏观参数、微观抉择与利率的命令 / Macro Parameters, Micro Choices, and the Command of Yields",
       "hash": "45683f1cde48",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 10,
       "links_out": [
         "the-causal-inversion-of-partnership",
@@ -12626,7 +12651,7 @@
       "path": "content/posts/yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo.md",
       "title": "涌现的伪因果 / The Pseudo-Causality of Emergence",
       "hash": "dc46fd8019d7",
-      "in_degree": 21,
+      "in_degree": 22,
       "out_degree": 22,
       "links_out": [
         "tou-ying-de-jie-ti-yu-yin-guo-de-mao-dian",
@@ -80775,6 +80800,150 @@
       "label": "Individual Choices as the Only Causal Levers"
     },
     {
+      "from": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "to": "the-mark-and-the-act",
+      "rel": "points_to",
+      "label": "印迹与行动"
+    },
+    {
+      "from": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "to": "the-mark-and-the-act",
+      "rel": "points_to",
+      "label": "The Mark and the Act"
+    },
+    {
+      "from": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "平均值是残余，不是引擎"
+    },
+    {
+      "from": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "卓异、感知与自我设限的问题场域"
+    },
+    {
+      "from": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "to": "the-average-is-residue-not-the-engine",
+      "rel": "points_to",
+      "label": "The Average Is Residue, Not the Engine"
+    },
+    {
+      "from": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "to": "exceptionality-perception-and-the-self-limiting-field-of-problems",
+      "rel": "points_to",
+      "label": "Exceptionality, Perception, and the Self-Limiting Field of Problems"
+    },
+    {
+      "from": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "to": "the-summary-first-reversal-and-the-command-of-yields",
+      "rel": "points_to",
+      "label": "宏观参数、微观抉择与利率的命令"
+    },
+    {
+      "from": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "rel": "points_to",
+      "label": "涌现的伪因果"
+    },
+    {
+      "from": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "to": "the-summary-first-reversal-and-the-command-of-yields",
+      "rel": "points_to",
+      "label": "Macro Parameters, Micro Choices, and the Command of Yields"
+    },
+    {
+      "from": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "to": "yong-xian-de-wei-yin-guo-yu-ji-ti-gui-yin-dao-cuo",
+      "rel": "points_to",
+      "label": "The Pseudo-Causality of Emergence"
+    },
+    {
+      "from": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "to": "the-residue-of-exercise-and-the-stabilization-of-politics",
+      "rel": "points_to",
+      "label": "行使的残余与政治的稳定"
+    },
+    {
+      "from": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "rel": "points_to",
+      "label": "个人选择、社会化与做自己"
+    },
+    {
+      "from": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "to": "observation-lag-and-the-inversion-of-optionality",
+      "rel": "points_to",
+      "label": "观察滞后与选择权的倒置"
+    },
+    {
+      "from": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "to": "the-residue-of-exercise-and-the-stabilization-of-politics",
+      "rel": "points_to",
+      "label": "The Residue of Exercise and the Stabilization of Politics"
+    },
+    {
+      "from": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "to": "ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao",
+      "rel": "points_to",
+      "label": "Individual Choice, Socialization and Being Oneself"
+    },
+    {
+      "from": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "to": "observation-lag-and-the-inversion-of-optionality",
+      "rel": "points_to",
+      "label": "Observation Lag and the Inversion of Optionality"
+    },
+    {
+      "from": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "能动性、矛盾与权力的移置"
+    },
+    {
+      "from": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "to": "agency-contradiction-and-the-relocation-of-power",
+      "rel": "points_to",
+      "label": "Agency, Contradiction, and the Relocation of Power"
+    },
+    {
+      "from": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "to": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "rel": "points_to",
+      "label": "扩张的序列与局部解释的边界"
+    },
+    {
+      "from": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "to": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "rel": "points_to",
+      "label": "The Sequence of Expansion and the Boundary of Local Accounts"
+    },
+    {
+      "from": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
       "from": "the-returning-signal-and-its-claim",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
@@ -96170,8 +96339,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "6e7026095e05",
-        "out_degree": 452
+        "hash": "c16ed30f43b8",
+        "out_degree": 453
       },
       {
         "id": "book:intelligence",
@@ -96260,8 +96429,8 @@
         "slug": "state-and-collective",
         "path": "content/book/state-and-collective.md",
         "title": "国家集体与权力的镜像 / The State, Collectives, and the Mirror of Power",
-        "hash": "bc3f42203ebd",
-        "out_degree": 34
+        "hash": "a1b57a68703f",
+        "out_degree": 35
       },
       {
         "id": "book:success-and-the-self",
@@ -98451,6 +98620,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+        "rel": "collects",
+        "label": "排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "ai-wont-kill-software-engineering",
         "rel": "collects",
         "label": "AI 不会终结软件工程，而是将其扩展 / AI Won't Kill Software Engineering, It Will Expand It"
@@ -99195,9 +99370,33 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+        "rel": "collects",
+        "label": "排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "observation-lag-and-the-inversion-of-optionality",
         "rel": "collects",
         "label": "观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+        "rel": "collects",
+        "label": "排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+        "rel": "collects",
+        "label": "排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+        "rel": "collects",
+        "label": "排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations"
       },
       {
         "from": "book:index-of-premises",
@@ -100395,6 +100594,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+        "rel": "collects",
+        "label": "排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-misallocation-of-agency",
         "rel": "collects",
         "label": "能动性的错配 / The Misallocation of Agency"
@@ -101313,6 +101518,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+        "rel": "collects",
+        "label": "排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-other-coherence",
         "rel": "collects",
         "label": "另一种相干 / The Other Coherence"
@@ -101832,6 +102043,12 @@
         "to": "agency-and-the-pattern",
         "rel": "collects",
         "label": "能动性与模式 / Agency and the Pattern"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+        "rel": "collects",
+        "label": "排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations"
       },
       {
         "from": "book:index-of-premises",
@@ -104604,6 +104821,12 @@
         "to": "the-two-readings-of-shared-and-the-observational-bound",
         "rel": "collects",
         "label": "“共享”的两种读法与观察的边界 / The Two Readings of Shared and the Observational Bound"
+      },
+      {
+        "from": "book:state-and-collective",
+        "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+        "rel": "collects",
+        "label": "排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations"
       },
       {
         "from": "book:success-and-the-self",
