@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-20T01:53:34.578Z",
+    "generated_at": "2026-11-20T11:49:30.826Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -363,7 +363,7 @@
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "8d14b5508798",
       "content/posts/the-power-law-of-surrendered-agency.md": "b103a48206f4",
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "923abff8173e",
-      "content/posts/the-price-of-closing-optionality.md": "d0b37dcf9c83",
+      "content/posts/the-price-of-closing-optionality.md": "ec0f4b9935cc",
       "content/posts/the-question-that-installs-the-war.md": "63e4ec243e36",
       "content/posts/the-ramble-within-the-ramble.md": "57566038f9e7",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "e7860ba6a7fd",
@@ -478,10 +478,10 @@
     },
     "stats": {
       "posts": 451,
-      "edges": 13836,
-      "unique_directed": 6801,
+      "edges": 13838,
+      "unique_directed": 6802,
       "missing_targets": 0,
-      "one_way": 1451,
+      "one_way": 1450,
       "isolated": 0,
       "posts_with_outbound": 451,
       "book_pages": 16,
@@ -4939,7 +4939,7 @@
       "path": "content/posts/observation-lag-and-the-inversion-of-optionality.md",
       "title": "观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality",
       "hash": "2b95a87d4ca9",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 15,
       "links_out": [
         "mistaking-the-symptom-of-stability-for-its-source",
@@ -10334,14 +10334,15 @@
       "slug": "the-price-of-closing-optionality",
       "path": "content/posts/the-price-of-closing-optionality.md",
       "title": "关闭选择权的代价 / The Price of Closing Optionality",
-      "hash": "d0b37dcf9c83",
+      "hash": "ec0f4b9935cc",
       "in_degree": 16,
-      "out_degree": 16,
+      "out_degree": 17,
       "links_out": [
         "the-risk-is-the-belief-in-oversight-itself",
         "openness-is-consistency",
         "beyond-the-projection",
         "your-codebase-is-memory",
+        "observation-lag-and-the-inversion-of-optionality",
         "closed-assumptions-squeeze-compounding-into-s-curves",
         "the-reality-distortion-field-names-the-closed-map",
         "the-reality-distortion-field-inverts-the-baseline",
@@ -78234,6 +78235,18 @@
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "Your Codebase Is Memory"
+    },
+    {
+      "from": "the-price-of-closing-optionality",
+      "to": "observation-lag-and-the-inversion-of-optionality",
+      "rel": "points_to",
+      "label": "观察滞后与选择权的倒置"
+    },
+    {
+      "from": "the-price-of-closing-optionality",
+      "to": "observation-lag-and-the-inversion-of-optionality",
+      "rel": "points_to",
+      "label": "Observation Lag and the Inversion of Optionality"
     },
     {
       "from": "the-price-of-closing-optionality",
