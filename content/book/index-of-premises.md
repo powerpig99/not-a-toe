@@ -1225,6 +1225,15 @@ Treating overstretch, fiscal exhaustion and institutional decay as lawlike cause
 
 → [战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires](../../posts/war-revolution-and-the-fall-of-empires/) · [维度即投影 / Dimensions Are Projections](../../posts/dimensions-are-projections/)
 
+### 幼稚产业保护与进口替代 / Infant-Industry Protection and Import Substitution
+`经济 / Economic`
+
+幼稚产业保护与进口替代预设以准入壁垒庇护本土进入者便能生出独立的产业能力，在短期内确实有助于降低即时竞争压力、为本地运营商筹措融资、铺设渠道与对接合规留出空间；这一前提在把隔绝当作生成前沿能力的引擎而非临时缓冲时到达边界——它把已测绘的前沿留在边界之外，并抽走了迫使内部能力持续重绘的直接接触信号。
+
+Infant-industry protection and import substitution presume that shielding domestic entrants behind entry barriers generates independent industrial capability, which is of use in the short run for lowering immediate competitive pressure while local operators assemble financing, distribution, and compliance; the premise reaches its boundary when insulation is held as the engine of frontier capability rather than a temporary buffer, leaving the already-mapped frontier outside the perimeter and stripping away the direct contact signal that forces internal capacity to re-render.
+
+→ [本地屏障与残余滞后 / The Local Shield and the Residual Lag](../../posts/the-local-shield-and-the-residual-lag/)
+
 ### 信息本体优先论 / Information as Ontologically Primary
 `哲学 / Philosophical`
 
@@ -1556,7 +1565,7 @@ Realism assumes mind-independent reality precedes and produces the mind; every d
 
 The second-mover story says the patient follower waits for the market to clear and then collects the spoils, which is of use in describing how some latecomers do lower their costs on the pioneers' trial and error; it reaches its boundary in that it reads history by launch dates and misses that the winners committed to a higher-leverage architecture while consensus still dismissed the direction, so the unvalidated compounding only surfaces late, a reading that is itself taken backward from the outcome.
 
-→ [看不见的第一步 / The Invisible First Move](../../posts/the-invisible-first-move/)
+→ [看不见的第一步 / The Invisible First Move](../../posts/the-invisible-first-move/) · [本地屏障与残余滞后 / The Local Shield and the Residual Lag](../../posts/the-local-shield-and-the-residual-lag/)
 
 ### 香农信息论 / Shannon Information Theory
 `数学 / Mathematical`
@@ -4152,6 +4161,15 @@ The expectation is that material abundance will quiet zero-sum contest, and when
 
 → [寄存器的算术 / The Arithmetic of the Register](../../posts/the-arithmetic-of-the-register/)
 
+### 规制俘获 / Regulatory Capture
+`经济 / Economic`
+
+规制俘获预设在位企业扭曲了原本中立的公共监管机构以筑起牌照护城河，在描述逐城许可与排他性试点关卡如何使落后运营商免于直面前沿对照时颇为有用；这一前提在把监管者当作只需更好隔绝游说便能履职的外部守护者时到达边界——它忽略了规制结构实为个体把判断委托给幽灵集体后所稳定下来的残余，使屏障背后的具体决策者得以替他人收窄选择权，却不直接承担后果。
+
+Regulatory capture presumes that incumbent firms distort an otherwise neutral public regulator into erecting licensing moats, which is of use in describing how city-by-city permits and exclusive pilot gates insulate lagging operators from direct frontier comparison; the premise reaches its boundary when the regulator is treated as an exterior guardian awaiting better insulation from lobbying, overlooking that regulatory structures are the stabilized residue of individuals delegating judgment to a phantom collective, leaving specific decision-makers behind the barrier to narrow options for others without bearing direct consequences.
+
+→ [本地屏障与残余滞后 / The Local Shield and the Residual Lag](../../posts/the-local-shield-and-the-residual-lag/)
+
 ### 监管万能论 / Regulatory Omnipotence
 `意识形态 / Ideological`
 
@@ -4159,7 +4177,7 @@ The expectation is that material abundance will quiet zero-sum contest, and when
 
 Regulatory omnipotence presumes that individual responsibility for the consequences of choice can be delegated to an industry self-regulatory organization or a state regulator, substituting approval gates for personal judgment; the procedure stays usable on its own axes of cost, redundancy, incentive alignment and jurisdictional friction, where it may reduce certain failures and produce others, yet reaches its boundary when hardened rules and dual gates are treated as having relocated sovereignty from the choosing Mind—regulations remain the stabilized residue of prior selections and refusals, functioning as boundary conditions from which later acts take leverage or walk away.
 
-→ [主权、信念与规制结构的生成 / Sovereignty, Belief, and the Generation of Regulatory Structures](../../posts/sovereignty-belief-and-regulatory-structures/) · [正交的拒绝 / The Orthogonal Refusal](../../posts/the-orthogonal-refusal/)
+→ [主权、信念与规制结构的生成 / Sovereignty, Belief, and the Generation of Regulatory Structures](../../posts/sovereignty-belief-and-regulatory-structures/) · [正交的拒绝 / The Orthogonal Refusal](../../posts/the-orthogonal-refusal/) · [本地屏障与残余滞后 / The Local Shield and the Residual Lag](../../posts/the-local-shield-and-the-residual-lag/)
 
 ### 规制禁令 / Regulatory Prohibition
 `经济 / Economic`
@@ -4168,7 +4186,7 @@ Regulatory omnipotence presumes that individual responsibility for the consequen
 
 Regulatory and technical prohibition presume that a ban or guardrail seals the field of action and stops the advance it targets, which is of use among the centers that share the belief, where terms of service, export rules, and bounds re-rendered with the step coordinate shared restraint; the premise reaches its boundary at centers that do not share it, operating as a selective tax that slows those who hold the seal hardest—severing a frontier restrictor's own live usage-signal compounding and thinning capacity along refused axes—while activity continues along open routes until its accumulated residue returns as a competitive and defensive deficit.
 
-→ [限制是选择性的税 / Restriction Is a Selective Tax](../../posts/restriction-is-a-selective-tax/) · [限制即自我限制 / Every Limitation Is Self-Limitation](../../posts/every-limitation-is-self-limitation/) · [起作用的是信念 / What Works Is the Belief](../../posts/what-works-is-the-belief/)
+→ [限制是选择性的税 / Restriction Is a Selective Tax](../../posts/restriction-is-a-selective-tax/) · [限制即自我限制 / Every Limitation Is Self-Limitation](../../posts/every-limitation-is-self-limitation/) · [起作用的是信念 / What Works Is the Belief](../../posts/what-works-is-the-belief/) · [本地屏障与残余滞后 / The Local Shield and the Residual Lag](../../posts/the-local-shield-and-the-residual-lag/)
 
 ### 机构实体化 / Reification of Institutions
 `哲学 / Philosophical`
@@ -4673,6 +4691,15 @@ Expert authority presumes that findings densified from populations can decide fo
 Technological solutionism presumes that social and coordination problems are gaps for technology to fill, and that a shared, verifiable substrate can install the agency and coordination others lack, which is of use in describing how denser media close the seams in information and lower the cost of mutual inspection; it reaches its boundary in that coordination already operates as each center's withholding, assent and refusal, that boundedness is not a scarce good a protocol can distribute or return, and allocating the builders' own agency onto the scaffolding, then reading it back as a deficit in others, is how that deficit is sustained.
 
 → [协调者的范畴错误 / The Coordinator's Category Error](../../posts/the-coordinators-category-error/)
+
+### 技术主权 / Technological Sovereignty
+`意识形态 / Ideological`
+
+技术主权预设在技术基础设施之上冠以领土管辖权或区域标签便能确保独立能力，在限定于避免单一供应商锁定、维持可替换接口或对本地数据施以明确信息边界等具体设计抉择时依然有用；这一前提在本地被俘获的规制边界内将次级、追赶中的外部技术栈重包装为区域自主时到达边界——它既放弃了对原始前沿基线的直接借力，也放弃了独立建造前沿技术栈所需的工程投入。
+
+Technological sovereignty presumes that placing territorial jurisdiction or a regional label over technical infrastructure secures independent capability, which is of use when bounded to concrete design choices such as avoiding single-supplier lock-in, keeping substitutable interfaces, or enforcing an explicit information boundary over local data; the premise reaches its boundary when a locally captured regulatory perimeter repackages secondary, catching-up external stacks as regional autonomy, forfeiting both direct leverage of the raw frontier baseline and the engineering commitment required to build an independent frontier stack.
+
+→ [本地屏障与残余滞后 / The Local Shield and the Residual Lag](../../posts/the-local-shield-and-the-residual-lag/)
 
 ### 以知为刃的截肢机制 / The Amputation of Knowing
 `哲学 / Philosophical`

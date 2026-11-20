@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-20T11:49:30.826Z",
+    "generated_at": "2026-11-20T13:01:51.471Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -328,6 +328,7 @@
       "content/posts/the-ledger-of-the-unencountered.md": "ffcdbfc26a69",
       "content/posts/the-limitation-is-doing-work.md": "bdf4b71e4176",
       "content/posts/the-living-context.md": "f48e41a1b31f",
+      "content/posts/the-local-shield-and-the-residual-lag.md": "344110f3b769",
       "content/posts/the-local-trap-of-technological-change.md": "90573245bd77",
       "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "a4b2df46f59c",
       "content/posts/the-loop-accelerates.md": "60608a02a0ed",
@@ -461,8 +462,8 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b28d61994639",
       "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "5fd937c16807",
-      "content/book/economics.md": "a925ce70621d",
-      "content/book/index-of-premises.md": "3036c288f80f",
+      "content/book/economics.md": "0252a0c728cf",
+      "content/book/index-of-premises.md": "6e7026095e05",
       "content/book/intelligence.md": "20d575920ac7",
       "content/book/knowledge-and-learning.md": "60b558ba8715",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -477,16 +478,16 @@
       "content/book/tools-and-progress.md": "7af75e4b8b67"
     },
     "stats": {
-      "posts": 451,
-      "edges": 13838,
-      "unique_directed": 6802,
+      "posts": 452,
+      "edges": 13872,
+      "unique_directed": 6819,
       "missing_targets": 0,
-      "one_way": 1450,
+      "one_way": 1467,
       "isolated": 0,
-      "posts_with_outbound": 451,
+      "posts_with_outbound": 452,
       "book_pages": 16,
-      "book_edges": 1461,
-      "posts_reached_by_book": 451
+      "book_edges": 1468,
+      "posts_reached_by_book": 452
     }
   },
   "hubs_in": [
@@ -504,7 +505,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 94
+      "in_degree": 95
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -520,7 +521,7 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 69
+      "in_degree": 70
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -1821,7 +1822,7 @@
       "path": "content/posts/closed-framing-and-the-reduction-of-optionality.md",
       "title": "封闭框定与选择权的缩减 / Closed Framing and the Reduction of Optionality",
       "hash": "ec49869d75c7",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 15,
       "links_out": [
         "differentiation-and-the-appearance-of-negation",
@@ -2760,7 +2761,7 @@
       "path": "content/posts/every-limitation-is-self-limitation.md",
       "title": "限制即自我限制 / Every Limitation Is Self-Limitation",
       "hash": "b32af09836ce",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 12,
       "links_out": [
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
@@ -3439,7 +3440,7 @@
       "path": "content/posts/hardware-locality-is-not-the-information-boundary.md",
       "title": "硬件的本地性不是信息的边界 / Hardware Locality Is Not the Information Boundary",
       "hash": "e145bfea5ec3",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 10,
       "links_out": [
         "residual-control-recedes-to-the-edge",
@@ -4480,7 +4481,7 @@
       "path": "content/posts/mistaking-the-symptom-of-stability-for-its-source.md",
       "title": "把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source",
       "hash": "c016f68c2992",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 11,
       "links_out": [
         "when-the-effect-authors-the-frame",
@@ -4687,7 +4688,7 @@
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "没有系统能被保持封闭 / No System Can Be Kept Closed",
       "hash": "95f8f98fd0ff",
-      "in_degree": 69,
+      "in_degree": 70,
       "out_degree": 68,
       "links_out": [
         "openness-is-consistency",
@@ -4783,7 +4784,7 @@
       "path": "content/posts/non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future.md",
       "title": "一个可能的全自动交通未来的非定论预测 / Non-Definitive Forecast of a Possible Fully Autonomous Transportation Future",
       "hash": "9a865742b9bb",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 8,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -4939,7 +4940,7 @@
       "path": "content/posts/observation-lag-and-the-inversion-of-optionality.md",
       "title": "观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality",
       "hash": "2b95a87d4ca9",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 15,
       "links_out": [
         "mistaking-the-symptom-of-stability-for-its-source",
@@ -5182,7 +5183,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "开放即一致 / Openness Is Consistency",
       "hash": "de9e7ea03986",
-      "in_degree": 94,
+      "in_degree": 95,
       "out_degree": 90,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -5566,7 +5567,7 @@
       "path": "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md",
       "title": "政客是责任扩散的显性症状 / Politicians Are Visible Symptoms of Responsibility Diffusion",
       "hash": "028a28b54a32",
-      "in_degree": 22,
+      "in_degree": 23,
       "out_degree": 19,
       "links_out": [
         "ownership-and-self-worthiness",
@@ -6025,7 +6026,7 @@
       "path": "content/posts/residual-control-recedes-to-the-edge.md",
       "title": "要紧的控制迁往边缘 / Essential Control Moves to the Edge",
       "hash": "3de7bf12eb33",
-      "in_degree": 14,
+      "in_degree": 15,
       "out_degree": 14,
       "links_out": [
         "beyond-the-projection",
@@ -6091,7 +6092,7 @@
       "path": "content/posts/restriction-is-a-selective-tax.md",
       "title": "限制是选择性的税 / Restriction Is a Selective Tax",
       "hash": "014f812a6322",
-      "in_degree": 22,
+      "in_degree": 23,
       "out_degree": 22,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
@@ -6421,7 +6422,7 @@
       "path": "content/posts/sovereignty-belief-and-regulatory-structures.md",
       "title": "主权、信念与规制结构的生成 / Sovereignty, Belief, and the Generation of Regulatory Structures",
       "hash": "9d04c6b1c923",
-      "in_degree": 30,
+      "in_degree": 31,
       "out_degree": 30,
       "links_out": [
         "hassabis-frontier-agi-premise",
@@ -8419,7 +8420,7 @@
       "path": "content/posts/the-frontier-lifts-the-floor.md",
       "title": "前沿抬升底线 / The Frontier Lifts the Floor",
       "hash": "440910956459",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 14,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -9177,7 +9178,7 @@
       "path": "content/posts/the-invisible-first-move.md",
       "title": "看不见的第一步 / The Invisible First Move",
       "hash": "2903f23cc112",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 5,
       "links_out": [
         "symptom-and-cause-in-the-narratives-of-progress",
@@ -9420,6 +9421,35 @@
         "mistaking-the-symptom-of-stability-for-its-source",
         "the-surface-that-registers",
         "your-codebase-is-memory"
+      ]
+    },
+    {
+      "id": "post:the-local-shield-and-the-residual-lag",
+      "kind": "post",
+      "slug": "the-local-shield-and-the-residual-lag",
+      "path": "content/posts/the-local-shield-and-the-residual-lag.md",
+      "title": "本地屏障与残余滞后 / The Local Shield and the Residual Lag",
+      "hash": "344110f3b769",
+      "in_degree": 0,
+      "out_degree": 17,
+      "links_out": [
+        "the-invisible-first-move",
+        "the-frontier-lifts-the-floor",
+        "restriction-is-a-selective-tax",
+        "hardware-locality-is-not-the-information-boundary",
+        "sovereignty-belief-and-regulatory-structures",
+        "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+        "the-power-law-of-surrendered-agency",
+        "closed-framing-and-the-reduction-of-optionality",
+        "mistaking-the-symptom-of-stability-for-its-source",
+        "observation-lag-and-the-inversion-of-optionality",
+        "the-price-of-closing-optionality",
+        "every-limitation-is-self-limitation",
+        "no-system-can-be-kept-closed",
+        "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
+        "residual-control-recedes-to-the-edge",
+        "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+        "openness-is-consistency"
       ]
     },
     {
@@ -10277,7 +10307,7 @@
       "path": "content/posts/the-power-law-of-surrendered-agency.md",
       "title": "让渡主权的幂律法则 / The Power-Law of Surrendered Agency",
       "hash": "b103a48206f4",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 6,
       "links_out": [
         "determinism-is-the-statistical-signature-of-micro-indeterminism",
@@ -10335,7 +10365,7 @@
       "path": "content/posts/the-price-of-closing-optionality.md",
       "title": "关闭选择权的代价 / The Price of Closing Optionality",
       "hash": "ec0f4b9935cc",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 17,
       "links_out": [
         "the-risk-is-the-belief-in-oversight-itself",
@@ -11062,7 +11092,7 @@
       "path": "content/posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts.md",
       "title": "扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts",
       "hash": "97fa53f31ce5",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 10,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -72261,6 +72291,210 @@
       "label": "Your Codebase Is Memory"
     },
     {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "the-invisible-first-move",
+      "rel": "points_to",
+      "label": "看不见的第一步"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "the-invisible-first-move",
+      "rel": "points_to",
+      "label": "The Invisible First Move"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "the-frontier-lifts-the-floor",
+      "rel": "points_to",
+      "label": "前沿抬升底线"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "限制是选择性的税"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "the-frontier-lifts-the-floor",
+      "rel": "points_to",
+      "label": "The Frontier Lifts the Floor"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "Restriction Is a Selective Tax"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "hardware-locality-is-not-the-information-boundary",
+      "rel": "points_to",
+      "label": "硬件的本地性不是信息的边界"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "hardware-locality-is-not-the-information-boundary",
+      "rel": "points_to",
+      "label": "Hardware Locality Is Not the Information Boundary"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "主权、信念与规制结构的生成"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "政客是责任扩散的显性症状"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "the-power-law-of-surrendered-agency",
+      "rel": "points_to",
+      "label": "让渡主权的幂律法则"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "sovereignty-belief-and-regulatory-structures",
+      "rel": "points_to",
+      "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "politicians-appear-as-visible-symptoms-of-responsibility-diffusion",
+      "rel": "points_to",
+      "label": "Politicians Are Visible Symptoms of Responsibility Diffusion"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "the-power-law-of-surrendered-agency",
+      "rel": "points_to",
+      "label": "The Power-Law of Surrendered Agency"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "closed-framing-and-the-reduction-of-optionality",
+      "rel": "points_to",
+      "label": "封闭框定与选择权的缩减"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "closed-framing-and-the-reduction-of-optionality",
+      "rel": "points_to",
+      "label": "Closed Framing and the Reduction of Optionality"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "把稳定的症状当作稳定的来源"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "Mistaking the Symptom of Stability for Its Source"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "observation-lag-and-the-inversion-of-optionality",
+      "rel": "points_to",
+      "label": "观察滞后与选择权的倒置"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "the-price-of-closing-optionality",
+      "rel": "points_to",
+      "label": "关闭选择权的代价"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "every-limitation-is-self-limitation",
+      "rel": "points_to",
+      "label": "限制即自我限制"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "observation-lag-and-the-inversion-of-optionality",
+      "rel": "points_to",
+      "label": "Observation Lag and the Inversion of Optionality"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "the-price-of-closing-optionality",
+      "rel": "points_to",
+      "label": "The Price of Closing Optionality"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "every-limitation-is-self-limitation",
+      "rel": "points_to",
+      "label": "Every Limitation Is Self-Limitation"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
+      "rel": "points_to",
+      "label": "一个可能的全自动交通未来的非定论预测"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "residual-control-recedes-to-the-edge",
+      "rel": "points_to",
+      "label": "要紧的控制迁往边缘"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "non-definitive-forecast-of-a-possible-fully-autonomous-transportation-future",
+      "rel": "points_to",
+      "label": "Non-Definitive Forecast of a Possible Fully Autonomous Transportation Future"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "residual-control-recedes-to-the-edge",
+      "rel": "points_to",
+      "label": "Essential Control Moves to the Edge"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "rel": "points_to",
+      "label": "扩张的序列与局部解释的边界"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "rel": "points_to",
+      "label": "The Sequence of Expansion and the Boundary of Local Accounts"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "the-local-shield-and-the-residual-lag",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
+    },
+    {
       "from": "the-local-trap-of-technological-change",
       "to": "the-average-is-residue-not-the-engine",
       "rel": "points_to",
@@ -95927,8 +96161,8 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "a925ce70621d",
-        "out_degree": 32
+        "hash": "0252a0c728cf",
+        "out_degree": 33
       },
       {
         "id": "book:index-of-premises",
@@ -95936,8 +96170,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "3036c288f80f",
-        "out_degree": 451
+        "hash": "6e7026095e05",
+        "out_degree": 452
       },
       {
         "id": "book:intelligence",
@@ -96696,6 +96930,12 @@
         "to": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
         "rel": "collects",
         "label": "扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts"
+      },
+      {
+        "from": "book:economics",
+        "to": "the-local-shield-and-the-residual-lag",
+        "rel": "collects",
+        "label": "本地屏障与残余滞后 / The Local Shield and the Residual Lag"
       },
       {
         "from": "book:index-of-premises",
@@ -98181,6 +98421,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-local-shield-and-the-residual-lag",
+        "rel": "collects",
+        "label": "本地屏障与残余滞后 / The Local Shield and the Residual Lag"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "selection-contradiction-and-open-reality",
         "rel": "collects",
         "label": "选择、矛盾与开放的现实 / Selection, Contradiction, and Open Reality"
@@ -98592,6 +98838,12 @@
         "to": "the-invisible-first-move",
         "rel": "collects",
         "label": "看不见的第一步 / The Invisible First Move"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-local-shield-and-the-residual-lag",
+        "rel": "collects",
+        "label": "本地屏障与残余滞后 / The Local Shield and the Residual Lag"
       },
       {
         "from": "book:index-of-premises",
@@ -101211,6 +101463,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-local-shield-and-the-residual-lag",
+        "rel": "collects",
+        "label": "本地屏障与残余滞后 / The Local Shield and the Residual Lag"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "sovereignty-belief-and-regulatory-structures",
         "rel": "collects",
         "label": "主权、信念与规制结构的生成 / Sovereignty, Belief, and the Generation of Regulatory Structures"
@@ -101220,6 +101478,12 @@
         "to": "the-orthogonal-refusal",
         "rel": "collects",
         "label": "正交的拒绝 / The Orthogonal Refusal"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-local-shield-and-the-residual-lag",
+        "rel": "collects",
+        "label": "本地屏障与残余滞后 / The Local Shield and the Residual Lag"
       },
       {
         "from": "book:index-of-premises",
@@ -101238,6 +101502,12 @@
         "to": "what-works-is-the-belief",
         "rel": "collects",
         "label": "起作用的是信念 / What Works Is the Belief"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-local-shield-and-the-residual-lag",
+        "rel": "collects",
+        "label": "本地屏障与残余滞后 / The Local Shield and the Residual Lag"
       },
       {
         "from": "book:index-of-premises",
@@ -101814,6 +102084,12 @@
         "to": "the-coordinators-category-error",
         "rel": "collects",
         "label": "协调者的范畴错误 / The Coordinator's Category Error"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-local-shield-and-the-residual-lag",
+        "rel": "collects",
+        "label": "本地屏障与残余滞后 / The Local Shield and the Residual Lag"
       },
       {
         "from": "book:index-of-premises",
