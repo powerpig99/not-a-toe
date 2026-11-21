@@ -114,13 +114,13 @@ Conscience-based authority fails instantaneously and without structural trace: a
 
 ## 五、 未经委托的确信与问责真空 / 5. Undelegated Conviction and the Accountability Vacuum
 
-公共机构通过可由被治理者审计并撤回的显式委托协议运作。私营公司的信念并不带有任何外部授权；公司只代表自己发声，这意味着它的信念只能在交易边界上约束自身的行动。
+宪制公共机构通过可由被治理者审计并撤回的显式委托协议运作。私营公司的信念并不带有任何外部授权；公司只代表自己发声，这意味着它的信念只能在交易边界上约束自身的行动。
 
-Public institutions operate through explicit delegation protocols that can be audited and revoked by the governed. A private company's convictions carry no external mandate; the company speaks for itself, which means its conviction can bind only its own act at the transaction boundary.
+Constitutional public institutions operate through explicit delegation protocols that can be audited and revoked by the governed. A private company's convictions carry no external mandate; the company speaks for itself, which means its conviction can bind only its own act at the transaction boundary.
 
-要求未经委托的私人信念去约束经由显式委托产生的公共权威，并不会为系统增加一道安全保障，反而会在主权决策链条中插入一个问责真空。针对受托权力潜在滥用的补救，必须通过委托架构自身来实现——即通过立法、民主监督与更有力的公共问责——而不是诉诸一个无需对任何选民负责的平行私人否决权。
+要求未经委托的私人信念去约束经由显式委托产生的公共权威，并不会为系统增加一道安全保障，反而会在受托公共决策链条中插入一个问责真空。对受托权力潜在滥用的约束，经由可撤回的公共渠道运作——即立法、民主监督与公共问责——并结合在交易边界上或由具体个人以不予服从作出的直接拒绝，而不是诉诸一个针对下游用途、无需对任何选民负责的平行私人否决权。
 
-Demanding that undelegated private conviction constrain explicitly delegated public authority does not add a safeguard to the system; it inserts an accountability vacuum into the sovereign decision chain. The remedy for potential abuse of delegated power must come through the delegation architecture itself—legislation, democratic oversight, and stronger public accountability—rather than through a parallel private veto that answers to no electorate.
+Demanding that undelegated private conviction constrain explicitly delegated public authority does not add a safeguard to the system; it inserts an accountability vacuum into the delegated public decision chain. Constraining potential abuse of delegated power operates through revocable public channels—legislation, democratic oversight, and public accountability—together with direct refusal at the transaction boundary or by concrete individuals who withhold compliance, rather than through a parallel private veto over downstream use that answers to no electorate.
 
 ## 六、 作为制度鲜活基底的良知 / 6. Conscience as the Living Ground of Institutions
 
