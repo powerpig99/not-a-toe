@@ -7,7 +7,11 @@ set -euo pipefail
 
 export GH_PROMPT_DISABLED=1
 
-COMMIT="${1:-$(git rev-parse HEAD)}"
+TARGET_REF="${1:-HEAD}"
+if ! COMMIT="$(git rev-parse --verify --end-of-options "${TARGET_REF}^{commit}" 2>/dev/null)"; then
+  echo "Error: Unable to resolve commit '$TARGET_REF'." >&2
+  exit 1
+fi
 SITE_PATHS_RE='^(content/|data/|assets/|build\.mjs$|style\.css$|package.*\.json$|\.github/workflows/deploy\.yml$)'
 
 if ! git diff-tree --no-commit-id --name-only -r "$COMMIT" | grep -qE "$SITE_PATHS_RE"; then
