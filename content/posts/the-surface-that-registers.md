@@ -22,7 +22,7 @@ Public travel extends the same mechanism. Once extracted, the formulation sheds 
 
 ## 二、 低维表面与高维模型的稀疏重叠 / 2. Low-Dimensional Surfaces and Sparse Overlap of High-Dimensional Models
 
-表面之所以奏效，是因为它是低维的。它只约束寥寥几个轴向，而将周围的结构留白。一个高维模型可以投射到这几个轴向上，并将这次投射体验为彼此契合。就其所及的范围而言，这种体验是准确的：受约束的维度确实对齐了。但每个模型推理的主体部分——前提、边界、会在何处修正这一主张——都留在了共享通道之外。因此，这一信号在众多心智那里登记为意味深长，却无需这些心智持有相同的结构。共鸣，是对稀疏重叠的登记；信息密度，则是不随之流转的那部分。
+表面之所以奏效，是因为它是低维的。它只约束寥寥几个轴向，而将周围的结构留白。一个心智可以把高维模型投射到这几个轴向上，并将这次投射体验为彼此契合。就其所及的范围而言，这种体验是准确的：受约束的维度确实对齐了。但每个心智推理的主体部分——前提、边界、会在何处修正这一主张——都留在了共享通道之外。因此，这一信号在众多心智那里登记为意味深长，却无需这些心智持有相同的结构。表面共鸣，是对稀疏重叠的登记；在一枚流转的符号里，信息密度则是不随之传递的那部分。
 
 ```mermaid
 flowchart TD
@@ -38,17 +38,17 @@ flowchart TD
         Surf_Zero["脱离链条的孤立印迹：满足感登记在发布位点，而印迹本身不承载路径"]
         Surf_Axes --> Surf_Zero
     end
-    subgraph S_Read["接收心智（各异的高维模型）"]
+    subgraph S_Read["接收心智（经由各异的高维模型）"]
         direction TB
-        R_MapA["读者模型甲：将私人关切投射至受约束轴向"]
-        R_MapB["读者模型乙：将正交前提投射至同一组轴向"]
+        R_MapA["读者甲：经由自身模型将私人关切投射至受约束轴向"]
+        R_MapB["读者乙：经由自身模型将正交前提投射至同一组轴向"]
         R_Res["稀疏重叠的登记：在不共享结构的情况下体验到相互认出"]
         R_MapA --> R_Res
         R_MapB --> R_Res
     end
     O_Drop ==>|"释放出薄表面"| Surf_Axes
-    Surf_Zero ==>|"投射至模型甲"| R_MapA
-    Surf_Zero ==>|"投射至模型乙"| R_MapB
+    Surf_Zero ==>|"抵达读者甲"| R_MapA
+    Surf_Zero ==>|"抵达读者乙"| R_MapB
     style S_Orig fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Surf fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Read fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -61,7 +61,7 @@ flowchart TD
     style R_Res fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-The surface succeeds because it is low-dimensional. It constrains a few axes and leaves the surrounding structure free. A higher-dimensional model can project onto those axes and experience the projection as agreement. The experience is accurate as far as it goes: the constrained dimensions do align. The bulk of each model’s reasoning—its premises, its boundaries, the points at which it would revise the claim—remains outside the shared channel. The signal therefore registers as meaningful to many without those many holding the same structure. Resonance is the registration of sparse overlap. Informational density is the portion that does not travel.
+The surface succeeds because it is low-dimensional. It constrains a few axes and leaves the surrounding structure free. A Mind can project a higher-dimensional model onto those axes and experience the projection as agreement. The experience is accurate as far as it goes: the constrained dimensions do align. The bulk of each Mind’s reasoning—its premises, its boundaries, the points at which it would revise the claim—remains outside the shared channel. The signal therefore registers as meaningful to many without those many holding the same structure. Surface resonance is the registration of sparse overlap; in a circulating token, informational density is the portion that does not travel.
 
 ```mermaid
 flowchart TD
@@ -77,17 +77,17 @@ flowchart TD
         Surf_Zero["Detached Mark Without the Chain: Satisfaction registers at the posting locus while the mark carries no path"]
         Surf_Axes --> Surf_Zero
     end
-    subgraph S_Read["Receiving Minds (Distinct High-Dimensional Models)"]
+    subgraph S_Read["Receiving Minds (Via Distinct High-Dimensional Models)"]
         direction TB
-        R_MapA["Reader Model A: Projects private concerns onto the constrained axes"]
-        R_MapB["Reader Model B: Projects orthogonal premises onto the same axes"]
+        R_MapA["Reader A: Projects private concerns via its model onto the constrained axes"]
+        R_MapB["Reader B: Projects orthogonal premises via its model onto the same axes"]
         R_Res["Registration of Sparse Overlap: Mutual recognition experienced without shared structure"]
         R_MapA --> R_Res
         R_MapB --> R_Res
     end
     O_Drop ==>|"Releases thin surface"| Surf_Axes
-    Surf_Zero ==>|"Projects onto Model A"| R_MapA
-    Surf_Zero ==>|"Projects onto Model B"| R_MapB
+    Surf_Zero ==>|"Reaches Reader A"| R_MapA
+    Surf_Zero ==>|"Reaches Reader B"| R_MapB
     style S_Orig fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Surf fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Read fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
@@ -178,7 +178,7 @@ flowchart TD
     style C_Confuse fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-在一次次转发流转中，每一个位点都向外传递契合自身先验的内容，公共语言由此形成的格局便筛选出了这种倒置。在那些足以把一个心智的推理与另一个心智区分开来的边界中，把跨心智交集最大化的表述放进通道的最少。传得最远、唤起最强认出感的句子，正是其印迹保留特定边界最少的那一句。符号的高效，是以其印迹只保留链条中极少一部分为代价换来的。在“无评注引文”这一具体案例中，整套机制在第一步就已齐备：这次发布可以在言说者一端登记为对齐，在读者一端登记为认出，而无论当初是什么样的高维意图促成了这一挑选，都依然停留在持有它的那个位点上。表面在继续流转，路径却未曾延伸。
+在一次次转发流转中，每一个位点都向外传递契合自身先验的内容，公共语言由此形成的格局便筛选出了这种倒置。凡是将跨心智交集最大化的表述，在足以将一个心智的推理与另一个心智区分开来的边界中，放进通道的恰恰最少。传得最远、唤起最强认出感的句子，正是其印迹保留特定边界最少的那一句。符号的高效，是以其印迹只保留链条中极少一部分为代价换来的。在“无评注引文”这一具体案例中，整套机制在第一步就已齐备：这次发布可以在言说者一端登记为对齐，在读者一端登记为认出，而无论当初是什么样的高维意图促成了这一挑选，都依然停留在持有它的那个位点上。表面在继续流转，路径却未曾延伸。
 
 Across repeated passings-on, each locus forwards what fits its own priors, and the resulting pattern in public language selects for this reversal. Formulations that maximize intersections across minds put into the channel the fewest of the bounds that would distinguish one mind’s reasoning from another. The sentence that travels farthest and produces the strongest sense of recognition is the one whose marks keep the fewest particular bounds. The efficiency of the token is purchased by how little of the chain its marks retain. In the concrete case of the unaccompanied quote, the mechanism is already complete at the first step: the posting can register as alignment at the speaker's end and as recognition at the reader's end, while whatever higher-dimensional intention prompted the selection stays at the locus that held it. The surface continues. The path does not.
 
