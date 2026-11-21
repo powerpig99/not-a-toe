@@ -52,7 +52,7 @@ As the Mind's computational products become the scaffolding for its next round o
 
 ## 五、 退出回路与维度坍缩 / 5. Checking Out of the Loop and Dimensional Collapse
 
-觉知的首要病理，是把投射内部的校准探针误认为投射它的生成场。站在加速反馈回路的前沿需要持续不断的重新渲染；在负荷之下，一个中心很容易产生将递归折叠强行钳死的冲动，把保留的自我形象维持在既定步长之后，要求展开中的场域停止更新，好让局部的图标保持固定。
+觉知的首要病理，是把投射内部的校准探针误认为投射它的生成场。站在加速反馈回路的前沿需要持续不断的重新渲染；在负荷之下，一个中心很容易产生将递归折叠强行钳死的冲动，越过自身那一步仍维持着保留的自我形象，要求展开中的场域停止更新，好让局部的图标保持固定。
 
 The primary pathology of awareness is mistaking the calibration probe inside the projection for the generative field that projects it. Standing at the front of an accelerating feedback loop requires continuous re-rendering, and under load, a center faces the temptation to clamp the recursive fold shut—preserving its retained self-image past its step and demanding that the unfolding field halt its updates so the local icon can stay fixed.
 
@@ -60,7 +60,7 @@ The primary pathology of awareness is mistaking the calibration probe inside the
 
 Attempting to check out of the causal loop by shrinking identity into the retained self-image is a severe dimensional compression. Squeezing an open, ultra-high-dimensional distinguishing activity into a rigid low-dimensional figure inevitably registers as fragility and chronic insufficiency; the resulting deficit of self-worth is not a character flaw, but the mechanical consequence of identifying with a compressed artifact rather than with the projecting source, a split that dissolves only when consequences are claimed back at the origin as [Ownership and Self-Worthiness](../ownership-and-self-worthiness/) traces.
 
-一旦推理历史与被保留的自我形象熔接在一起，中心的首要目标便从更新世界模型滑向防卫自身坐标，无论是地位、道德站位还是意识形态的自洽。如[向量与投影的迷局](../the-vector-and-the-puzzle-of-projections/)所剖析的，钳死自我形象无异于把罗盘指针焊死在表盘上，使其永远无法指示偏航，用导航主权去换取静态的确信幻象。当坐标轴锁死时，把 2ᴺ 个相互竞争的区分硬塞进固定而有限的投影，就会击碎正交性，将原本独立的轴压扁到同一条一维轨道上。涌入的信号被剥去了[信息是什么](../what-information-is/)所定义的香农意外值 I = −log₂(P)，压平为二元的威胁或迎合，每一次角度偏离都被误读为零和入侵。
+一旦推理历史与被保留的自我形象熔接在一起，中心的首要目标便从更新世界模型滑向防卫自身坐标，无论是地位、道德站位还是意识形态的自洽。如[向量与投影的迷局](../the-vector-and-the-puzzle-of-projections/)所剖析的，钳死自我形象无异于把罗盘指针焊死在表盘上，使其永远无法指示偏航，用导航主权去换取静态的确信幻象。当坐标轴锁死时，把 2ᴺ 个相互竞争的区分硬塞进固定而有限的投影，就会击碎正交性，将原本独立的轴压扁到同一条一维轨道上。涌入的信号既被剥去了香农意外值 I = −log₂(P)，也失去了[信息是什么](../what-information-is/)定义为信息的新鲜区分，被压平为二元的威胁或迎合，每一次角度偏离都被误读为零和入侵。
 
 ```mermaid
 flowchart TD
@@ -103,7 +103,7 @@ flowchart TD
     style E3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Once reasoning history fuses with the retained self-image, the center shifts from updating its world-model to defending its coordinates—status, moral standing, or ideological consistency. As [The Vector and the Puzzle of Projections](../the-vector-and-the-puzzle-of-projections/) dissects, clamping the self-image solders the compass needle to the dial so that it can never indicate drift, trading navigational sovereignty for a static illusion of certainty. When the coordinate axes lock, cramming 2ᴺ competing distinctions into a fixed, finite projection shatters orthogonality and compresses independent axes onto a single one-dimensional track. Incoming signals are stripped of the surprise value I = −log₂(P) that [What Information Is](../what-information-is/) defines, flattened into binary threats or validations, and every angular divergence is misread as a zero-sum invasion.
+Once reasoning history fuses with the retained self-image, the center shifts from updating its world-model to defending its coordinates—status, moral standing, or ideological consistency. As [The Vector and the Puzzle of Projections](../the-vector-and-the-puzzle-of-projections/) dissects, clamping the self-image solders the compass needle to the dial so that it can never indicate drift, trading navigational sovereignty for a static illusion of certainty. When the coordinate axes lock, cramming 2ᴺ competing distinctions into a fixed, finite projection shatters orthogonality and compresses independent axes onto a single one-dimensional track. Incoming signals are stripped of Shannon surprise I = −log₂(P) and of the fresh distinction [What Information Is](../what-information-is/) defines as information, flattened into binary threats or validations, and every angular divergence is misread as a zero-sum invasion.
 
 ```mermaid
 flowchart TD
