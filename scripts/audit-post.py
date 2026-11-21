@@ -40,6 +40,84 @@ BANNED_WORDS = [
     '物理现实', '平庸', '物理意志'
 ]
 
+ZH_CHAR_RE = re.compile(r'[\u4e00-\u9fff]')
+EN_WORD_RE = re.compile(r'[a-zA-Z]{2,}')
+ALLOWED_TECH_TERMS = {
+    'AI', 'AGI', 'ASI', 'LLM', 'RL', 'RLHF', 'API', 'DNA',
+    'CPU', 'GPU', 'TOE', 'VR', 'MOE', 'NPC',
+}
+
+
+def is_acronym_token(word):
+    """Recognize standard uppercase acronyms/technical terms without a closed per-essay whitelist."""
+    return word.upper() in ALLOWED_TECH_TERMS or (word.isupper() and 2 <= len(word) <= 8)
+
+
+def strip_link_targets(text):
+    """Strip markdown link URLs so English post slugs do not skew prose language counts."""
+    return re.sub(r'\]\([^)]*\)', ']', text)
+
+
+def check_single_lang_text(text, lang):
+    """Verify single-language header text matches lang ('zh' or 'en') without bilingual ' / ' split."""
+    if ' / ' in text:
+        return f"must not contain bilingual ' / ' split: '{text}'"
+    has_zh = bool(ZH_CHAR_RE.search(text))
+    has_en = bool(re.search(r'[a-zA-Z]', text))
+    if lang == 'zh' and not has_zh:
+        return f"must be in Chinese: '{text}'"
+    if lang == 'en' and (has_zh or not has_en):
+        return f"must be pure English without Chinese characters: '{text}'"
+    return None
+
+
+def check_bilingual_pair_text(text):
+    """Verify bilingual header text pairs Chinese on the left and pure English on the right of ' / '."""
+    if ' / ' not in text:
+        return f"must separate Chinese and English with ' / ': '{text}'"
+    zh_part, en_part = [p.strip() for p in text.split(' / ', 1)]
+    if not ZH_CHAR_RE.search(zh_part) or ZH_CHAR_RE.search(en_part) or not re.search(r'[a-zA-Z]', en_part):
+        return f"must pair Chinese on the left and English on the right of ' / ': '{text}'"
+    return None
+
+
+def check_link_anchor_lang(anchor, url, expected_lang):
+    """Verify internal cross-link anchor matches expected language ('zh' or 'en')."""
+    has_zh_anchor = bool(ZH_CHAR_RE.search(anchor))
+    if expected_lang == 'zh':
+        if not has_zh_anchor:
+            words = re.findall(r'[a-zA-Z]+', anchor)
+            if not words or not all(is_acronym_token(w) for w in words):
+                return f"Chinese paragraph has English link anchor: '[{anchor}]({url})'"
+        elif ' / ' in anchor or ('/' in anchor and re.search(r'\b[a-z]{2,}\b', anchor.split('/', 1)[1])):
+            return f"Chinese paragraph has compound bilingual link anchor: '[{anchor}]({url})'"
+    elif expected_lang == 'en' and has_zh_anchor:
+        return f"English paragraph has Chinese link anchor: '[{anchor}]({url})'"
+    return None
+
+
+def diagram_is_zh(block):
+    """Classify a Mermaid diagram as Chinese vs. English from its label text."""
+    labels = re.findall(r'"([^"]*)"|\[([^\]"]+)\]|\|([^|\n]+)\|', block)
+    flat = ' '.join(a or b or c for a, b, c in labels) or block
+    zh_chars = len(ZH_CHAR_RE.findall(flat))
+    en_words = len(EN_WORD_RE.findall(flat))
+    return zh_chars > 0 and zh_chars >= en_words
+
+
+def check_zh_diagram_subtitles(block):
+    """Find residual English <br/> subtitle lines in a Chinese Mermaid diagram, allowing acronyms."""
+    en_subs = re.findall(r'<br/>\s*([A-Za-z][A-Za-z0-9\s\-_/\'\.,:;]{2,})', block)
+    disallowed = []
+    for raw_sub in en_subs:
+        s = raw_sub.strip()
+        if not s:
+            continue
+        if re.fullmatch(r'[A-Z0-9][A-Z0-9/\-]{1,11}', s) or s.upper() in ALLOWED_TECH_TERMS:
+            continue
+        disallowed.append(s)
+    return disallowed
+
 def get_image_size(file_path):
     """Pure-Python image dimension extraction for JPEG and PNG without external dependencies."""
     try:
@@ -119,7 +197,25 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
         resolved_path.name in ('en.md', 'zh.md')
         and resolved_path.parent.parent == (root / 'work').resolve()
     )
+    draft_lang = resolved_path.stem if is_work_draft else None
     slug = resolved_path.parent.name if is_work_draft else file_path.stem
+
+    clean_prose_raw = re.sub(r'```.*?```', '', content, flags=re.DOTALL)
+    has_zh_body = bool(ZH_CHAR_RE.search(clean_prose_raw))
+    en_paragraphs = [
+        p for p in clean_prose_raw.split('\n\n')
+        if len(p.strip()) > 80
+        and not p.strip().startswith(('#', '|', '*', '-'))
+        and len(re.findall(r'[a-zA-Z]', strip_link_targets(p))) > 0.7 * len(strip_link_targets(p).strip())
+    ]
+    has_en_prose = len(en_paragraphs) >= 3
+    first_line_strip = lines[0].strip() if lines else ""
+    has_bilingual_marker = ' / ' in first_line_strip or any(
+        ' / ' in ln for ln in lines[1:30] if ln.strip().startswith(('*', '## ', '### '))
+    )
+    is_bilingual_post = (not is_work_draft) and (
+        has_bilingual_marker or (has_zh_body and has_en_prose)
+    )
 
     warnings = []
     errors = []
@@ -148,12 +244,21 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
                 )
                 title_sub_clean = False
 
-            # Check bilingual title symmetry if bilingual prose is present
-            has_zh_title = bool(re.search(r'[\u4e00-\u9fff]', title_text))
-            has_en_title = bool(re.search(r'[a-zA-Z]{3,}', title_text))
-            if has_zh_title and has_en_title and '/' not in title_text:
-                errors.append(f"Bilingual title must separate Chinese and English titles with ' / ': '{title_text}'")
-                title_sub_clean = False
+            # Check title language mode: single-language work drafts vs. bilingual published posts
+            if is_work_draft:
+                title_err = check_single_lang_text(title_text, draft_lang)
+                if title_err:
+                    errors.append(f"Single-language work draft ({file_path.name}) title {title_err}")
+                    title_sub_clean = False
+            elif is_bilingual_post:
+                if ' / ' not in title_text:
+                    errors.append(f"Bilingual title must separate Chinese and English titles with ' / ': '{title_text}'")
+                    title_sub_clean = False
+                else:
+                    title_err = check_bilingual_pair_text(title_text)
+                    if title_err:
+                        errors.append(f"Bilingual title {title_err}")
+                        title_sub_clean = False
 
         # Subtitle check (Line 3 or first non-empty line after title)
         sub_line_idx = -1
@@ -179,6 +284,21 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
                 title_sub_clean = False
             else:
                 clean_sub = re.sub(r'^[*_]+|[*_]+$', '', sub_line).strip()
+                if is_work_draft:
+                    sub_err = check_single_lang_text(clean_sub, draft_lang)
+                    if sub_err:
+                        errors.append(f"Single-language work draft ({file_path.name}) subtitle {sub_err}")
+                        title_sub_clean = False
+                elif is_bilingual_post:
+                    if ' / ' not in clean_sub:
+                        errors.append(f"Bilingual subtitle must separate Chinese and English subtitles with ' / ': '{clean_sub}'")
+                        title_sub_clean = False
+                    else:
+                        sub_err = check_bilingual_pair_text(clean_sub)
+                        if sub_err:
+                            errors.append(f"Bilingual subtitle {sub_err}")
+                            title_sub_clean = False
+
                 # Check for bloated wall-of-text synopsis in subtitle
                 # Length (140-160 chars) is a default reference, not a strict rule: report it as an advisory.
                 if len(clean_sub) > 160:
@@ -282,7 +402,7 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
                 if target_first.startswith('# ') and ' / ' in target_first:
                     t_zh, t_en = [part.strip() for part in target_first[2:].split(' / ', 1)]
                     norm_anchor = re.sub(r'\s+', ' ', anchor.strip())
-                    is_zh_anchor = bool(re.search(r'[\u4e00-\u9fff]', norm_anchor))
+                    is_zh_anchor = (draft_lang == 'zh') if is_work_draft else bool(ZH_CHAR_RE.search(norm_anchor))
                     expected = re.sub(r'\s+', ' ', t_zh if is_zh_anchor else t_en)
                     if norm_anchor != expected:
                         anchor_h1_mismatches.append(f"[{norm_anchor}](../{target_slug}/) vs H1 '{expected}'")
@@ -322,7 +442,7 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
     else:
         passes.append("Prose structure check (0 bulleted/numbered lists outside Mermaid)")
 
-    # 6. Mermaid dark theme & styling
+    # 6. Mermaid dark theme, vertical flow & language/layout separation
     mermaid_blocks = re.findall(r'```mermaid(.*?)```', content, re.DOTALL)
     if mermaid_blocks:
         semantic_strokes = {'#3fb950', '#f85149', '#d29922', '#58a6ff', '#a371f7'}
@@ -354,162 +474,258 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
         if not unformatted_diagrams and not non_semantic_diagrams:
             passes.append(f"Mermaid styling check ({len(mermaid_blocks)} diagrams adhere to historical dark palette & semantic strokes)")
 
-        # Bilingual parallelism & strict language separation check
-        first_line = lines[0] if lines else ""
-        is_bilingual_title = bool(re.search(r'[\u4e00-\u9fff]', first_line) and '/' in first_line and re.search(r'[a-zA-Z]{3,}', first_line))
-        has_zh = bool(re.search(r'[\u4e00-\u9fff]', content))
-        # Detect presence of substantive English prose paragraphs
-        en_paragraphs = [p for p in content.split('\n\n') if len(p.strip()) > 80 and not p.strip().startswith(('```', '#', '|', '*', '-')) and len(re.findall(r'[a-zA-Z]', p)) > 0.7 * len(p.strip())]
-        has_en_prose = len(en_paragraphs) >= 3
-        
-        if is_bilingual_title or (has_zh and has_en_prose):
+        # Strictly vertical layout check (prevent horizontal side-by-side subgraphs)
+        horizontal_layout_issues = []
+        for idx, block in enumerate(mermaid_blocks, 1):
+            if re.search(r'\bgraph\s+LR\b', block, re.IGNORECASE):
+                horizontal_layout_issues.append(f"Diagram {idx} uses horizontal flow ('graph LR'). Rule: use strictly vertical 'graph TD' / 'flowchart TD'.")
+
+            # Check for root-level direction TB/TD (outside subgraphs) which renders an orphaned node
+            first_subgraph = re.search(r'\bsubgraph\b', block)
+            if first_subgraph:
+                pre_subgraph = block[:first_subgraph.start()]
+                if re.search(r'^\s*direction\s+T[BD]\b', pre_subgraph, re.MULTILINE):
+                    horizontal_layout_issues.append(f"Diagram {idx} has root-level 'direction TB' outside subgraphs, causing Mermaid to render an orphaned box labeled 'direction'. Move 'direction TB' inside subgraph blocks.")
+
+            subgraphs = re.findall(r'\bsubgraph\s+([A-Za-z0-9_-]+)', block)
+            if len(subgraphs) >= 2:
+                if 'direction TB' not in block and 'direction TD' not in block:
+                    horizontal_layout_issues.append(f"Diagram {idx} has {len(subgraphs)} subgraphs but lacks 'direction TB'. Subgraphs must enforce vertical node flow.")
+
+                has_inter_subgraph_edge = bool(re.search(r'==+>|-->|-\.->', block.split('end')[-1])) or bool(re.search(r'==+>', block))
+                if not has_inter_subgraph_edge:
+                    horizontal_layout_issues.append(f"Diagram {idx} has {len(subgraphs)} disconnected subgraphs without vertical connecting arrow (e.g. UpperNode ==> LowerNode), which causes horizontal side-by-side layout.")
+
+        if horizontal_layout_issues:
+            errors.append(f"Mermaid horizontal layout violations: {'; '.join(horizontal_layout_issues)}")
+        else:
+            passes.append(f"Mermaid vertical layout check ({len(mermaid_blocks)} diagrams adhere to strictly vertical mobile-friendly top-down flow)")
+    else:
+        passes.append("Mermaid check (no diagrams in this post)")
+
+    # Collect ## / ### headings outside fenced code blocks
+    heading_lines = []
+    in_fence = False
+    for ln in lines:
+        if ln.strip().startswith('```'):
+            in_fence = not in_fence
+            continue
+        if not in_fence and (ln.startswith('## ') or ln.startswith('### ')):
+            heading_lines.append(ln.strip())
+
+    if is_work_draft:
+        # Single-language work draft checks (work/<slug>/{en,zh}.md)
+        bad_headings = []
+        for h in heading_lines:
+            h_body = h.split(' ', 1)[1].strip()
+            h_err = check_single_lang_text(h_body, draft_lang)
+            if h_err:
+                bad_headings.append(f"'{h}' ({h_err})")
+        if bad_headings:
+            errors.append(f"Heading language issues in work draft ({file_path.name}): {'; '.join(bad_headings[:5])}")
+        elif heading_lines:
+            passes.append(f"Single-language heading check ({len(heading_lines)} {draft_lang.upper()} headings without bilingual ' / ' split)")
+
+        prose_lang_issues = []
+        link_lang_issues = []
+        for p in clean_prose_raw.split('\n\n'):
+            p_str = p.strip()
+            if not p_str or p_str.startswith(('#', '*', '---', '***', '>', '![', '|')):
+                continue
+            p_scan = strip_link_targets(p_str)
+            zh_chars = len(ZH_CHAR_RE.findall(p_scan))
+            en_words = len(EN_WORD_RE.findall(p_scan))
+            if draft_lang == 'zh':
+                if zh_chars == 0 and en_words >= 3:
+                    prose_lang_issues.append(f"untranslated English paragraph in zh.md: '{p_str[:60]}...'")
+                elif en_words > zh_chars * 2 and en_words >= 8:
+                    prose_lang_issues.append(f"English-dominated paragraph in zh.md: '{p_str[:60]}...'")
+            elif draft_lang == 'en' and zh_chars > 0:
+                prose_lang_issues.append(f"Chinese characters found in en.md paragraph: '{p_str[:60]}...'")
+
+            for anchor, url in re.findall(r'\[([^\]]+)\]\(([^)]+)\)', p_str):
+                if not (url.startswith('../') or url.startswith('./') or url.startswith('/posts/')):
+                    continue
+                issue = check_link_anchor_lang(anchor, url, draft_lang)
+                if issue:
+                    link_lang_issues.append(issue)
+
+        if prose_lang_issues:
+            errors.append(f"Single-language prose separation issues in {file_path.name}: {'; '.join(prose_lang_issues[:5])}")
+        else:
+            passes.append(f"Single-language prose check ({draft_lang.upper()} prose only)")
+
+        if link_lang_issues:
+            errors.append(f"Link anchor language separation issues in {file_path.name}: {'; '.join(link_lang_issues[:5])}")
+        else:
+            passes.append(f"Link anchor language separation check ({draft_lang.upper()} links only)")
+
+        if mermaid_blocks:
+            diagram_lang_errors = []
+            diagram_lang_warnings = []
+            for idx, block in enumerate(mermaid_blocks, 1):
+                if draft_lang == 'zh':
+                    if not ZH_CHAR_RE.search(block):
+                        diagram_lang_errors.append(f"Diagram {idx} in zh.md contains no Chinese labels (untranslated English diagram)")
+                    else:
+                        disallowed = check_zh_diagram_subtitles(block)
+                        if disallowed:
+                            diagram_lang_warnings.append(f"Diagram {idx} (Chinese) has residual English subtitles: {disallowed[:3]}")
+                elif draft_lang == 'en' and ZH_CHAR_RE.search(block):
+                    diagram_lang_errors.append(f"Diagram {idx} in en.md contains Chinese characters")
+
+            if diagram_lang_errors:
+                errors.append(f"Diagram language separation errors in {file_path.name}: {'; '.join(diagram_lang_errors)}")
+            if diagram_lang_warnings:
+                warnings.append(f"Strict language separation in diagrams ('中文的归中文，英文的归英文'): {'; '.join(diagram_lang_warnings)}")
+            if not diagram_lang_errors and not diagram_lang_warnings:
+                passes.append(f"Strict language separation in diagrams ({len(mermaid_blocks)} {draft_lang.upper()} draft diagram(s))")
+
+    elif is_bilingual_post:
+        if not has_en_prose:
+            errors.append("Bilingual post has bilingual title/headings but lacks English prose paragraphs.")
+        else:
+            passes.append("Bilingual prose check (both Chinese and English prose present)")
+
+        # Check for split-half language segregation headings
+        split_half_headings = re.findall(r'^##\s+(?:English\s+Version|English\s+Translation|英文版|英文翻译)\b', content, re.IGNORECASE | re.MULTILINE)
+        if split_half_headings:
+            errors.append(f"Split-half bilingual segregation detected ({split_half_headings}). Standard rule: interleave sections with unified '## CN / EN' headings with alternating CN and EN paragraphs.")
+
+        # Check that ## / ### headings in bilingual posts are unified bilingual headings
+        h2_headings = [h for h in heading_lines if h.startswith('## ')]
+        if h2_headings:
+            pure_zh_h2 = [h for h in h2_headings if ' / ' not in h and ZH_CHAR_RE.search(h)]
+            pure_en_h2 = [h for h in h2_headings if ' / ' not in h and not ZH_CHAR_RE.search(h) and EN_WORD_RE.search(h)]
+            if pure_zh_h2 and pure_en_h2:
+                errors.append(f"Split-half bilingual heading segregation detected: found {len(pure_zh_h2)} pure Chinese headings and {len(pure_en_h2)} pure English headings. Standard rule: unify headings as '## 一、 中文 / 1. English' with alternating CN and EN paragraphs.")
+        bad_bilingual_headings = []
+        for h in heading_lines:
+            h_body = h.split(' ', 1)[1].strip()
+            h_err = check_bilingual_pair_text(h_body)
+            if h_err:
+                bad_bilingual_headings.append(f"'{h}' ({h_err})")
+        if bad_bilingual_headings:
+            errors.append(f"Bilingual heading symmetry issues: {'; '.join(bad_bilingual_headings[:5])}")
+
+        # Check for alternating paragraphs (prevent monolithic language blocks)
+        prose_paragraphs = []
+        for p in clean_prose_raw.split('\n\n'):
+            p_str = p.strip()
+            if not p_str or p_str.startswith(('#', '*', '---', '***')):
+                continue
+            p_scan = strip_link_targets(p_str)
+            has_zh = bool(ZH_CHAR_RE.search(p_scan))
+            has_en = bool(EN_WORD_RE.search(p_scan))
+            if has_zh and not has_en:
+                prose_paragraphs.append('ZH')
+            elif has_en and not has_zh:
+                prose_paragraphs.append('EN')
+            elif has_zh and has_en:
+                zh_chars = len(ZH_CHAR_RE.findall(p_scan))
+                en_words = len(EN_WORD_RE.findall(p_scan))
+                if zh_chars > en_words * 2:
+                    prose_paragraphs.append('ZH')
+                elif en_words > zh_chars * 2:
+                    prose_paragraphs.append('EN')
+
+        max_zh_run = 0
+        max_en_run = 0
+        current_zh_run = 0
+        current_en_run = 0
+        for lang in prose_paragraphs:
+            if lang == 'ZH':
+                current_zh_run += 1
+                current_en_run = 0
+                if current_zh_run > max_zh_run:
+                    max_zh_run = current_zh_run
+            elif lang == 'EN':
+                current_en_run += 1
+                current_zh_run = 0
+                if current_en_run > max_en_run:
+                    max_en_run = current_en_run
+
+        if max_zh_run > 4 or max_en_run > 4:
+            warnings.append(f"Monolithic language cluster detected (max consecutive ZH paragraphs: {max_zh_run}, EN: {max_en_run}). Standard rule: alternate Chinese and English paragraph-by-paragraph.")
+        else:
+            passes.append(f"Alternating bilingual paragraph layout check passed (consecutive max ZH: {max_zh_run}, EN: {max_en_run})")
+
+        # Check link anchor language separation ("中文段落用中文链接，英文段落用英文链接")
+        link_lang_issues = []
+        for p in clean_prose_raw.split('\n\n'):
+            p_str = p.strip()
+            if not p_str or p_str.startswith(('#', '*', '---', '***', '>')):
+                continue
+            p_scan = strip_link_targets(p_str)
+            zh_chars = len(ZH_CHAR_RE.findall(p_scan))
+            en_words = len(EN_WORD_RE.findall(p_scan))
+            is_zh_p = zh_chars > en_words
+            is_en_p = en_words > zh_chars * 2
+
+            for anchor, url in re.findall(r'\[([^\]]+)\]\(([^)]+)\)', p_str):
+                if not (url.startswith('../') or url.startswith('./') or url.startswith('/posts/')):
+                    continue
+                if is_zh_p:
+                    issue = check_link_anchor_lang(anchor, url, 'zh')
+                    if issue:
+                        link_lang_issues.append(issue)
+                elif is_en_p:
+                    issue = check_link_anchor_lang(anchor, url, 'en')
+                    if issue:
+                        link_lang_issues.append(issue)
+
+        if link_lang_issues:
+            errors.append(f"Link anchor language separation issues detected: {'; '.join(link_lang_issues[:5])}. Rule: Translate link titles into Chinese for Chinese paragraphs, use English for English paragraphs ('中文的归中文，英文的归英文').")
+        else:
+            passes.append("Link anchor language separation check (Chinese links in Chinese paragraphs, English links in English paragraphs)")
+
+        if mermaid_blocks:
             if len(mermaid_blocks) % 2 != 0:
                 warnings.append(f"Bilingual diagram count is odd ({len(mermaid_blocks)}). Ensure every Chinese diagram has its exact English parallel counterpart.")
             else:
                 passes.append(f"Bilingual diagram parallelism ({len(mermaid_blocks) // 2} paired diagrams)")
 
-            if not has_en_prose:
-                errors.append("Bilingual post has bilingual title/headings but lacks English prose paragraphs.")
-            else:
-                passes.append("Bilingual prose check (both Chinese and English prose present)")
-
-            # Check for split-half language segregation headings
-            split_half_headings = re.findall(r'^##\s+(?:English\s+Version|English\s+Translation|英文版|英文翻译)\b', content, re.IGNORECASE | re.MULTILINE)
-            if split_half_headings:
-                errors.append(f"Split-half bilingual segregation detected ({split_half_headings}). Standard rule: interleave sections with unified '## CN / EN' headings with alternating CN and EN paragraphs.")
-
-            # Check that ## headings in bilingual posts are unified bilingual headings
-            h2_headings = [l.strip() for l in content.splitlines() if l.startswith('## ')]
-            if h2_headings:
-                pure_zh_h2 = [h for h in h2_headings if re.search(r'[\u4e00-\u9fff]', h) and not re.search(r'[a-zA-Z]{3,}', h)]
-                pure_en_h2 = [h for h in h2_headings if not re.search(r'[\u4e00-\u9fff]', h) and re.search(r'[a-zA-Z]{3,}', h)]
-                if pure_zh_h2 and pure_en_h2:
-                    errors.append(f"Split-half bilingual heading segregation detected: found {len(pure_zh_h2)} pure Chinese headings and {len(pure_en_h2)} pure English headings. Standard rule: unify headings as '## 一、 中文 / 1. English' with alternating CN and EN paragraphs.")
-
-            # Check for alternating paragraphs (prevent monolithic language blocks)
-            clean_prose = re.sub(r'```.*?```', '', content, flags=re.DOTALL)
-            prose_paragraphs = []
-            for p in clean_prose.split('\n\n'):
-                p_str = p.strip()
-                if not p_str or p_str.startswith('#') or p_str.startswith('*') or p_str.startswith('---') or p_str.startswith('***'):
-                    continue
-                has_zh = bool(re.search(r'[\u4e00-\u9fff]', p_str))
-                has_en = bool(re.search(r'[a-zA-Z]{2,}', p_str))
-                if has_zh and not has_en:
-                    prose_paragraphs.append('ZH')
-                elif has_en and not has_zh:
-                    prose_paragraphs.append('EN')
-                elif has_zh and has_en:
-                    zh_chars = len(re.findall(r'[\u4e00-\u9fff]', p_str))
-                    en_words = len(re.findall(r'[a-zA-Z]{2,}', p_str))
-                    if zh_chars > en_words * 2:
-                        prose_paragraphs.append('ZH')
-                    elif en_words > zh_chars * 2:
-                        prose_paragraphs.append('EN')
-
-            max_zh_run = 0
-            max_en_run = 0
-            current_zh_run = 0
-            current_en_run = 0
-            for lang in prose_paragraphs:
-                if lang == 'ZH':
-                    current_zh_run += 1
-                    current_en_run = 0
-                    if current_zh_run > max_zh_run:
-                        max_zh_run = current_zh_run
-                elif lang == 'EN':
-                    current_en_run += 1
-                    current_zh_run = 0
-                    if current_en_run > max_en_run:
-                        max_en_run = current_en_run
-            
-            if max_zh_run > 4 or max_en_run > 4:
-                warnings.append(f"Monolithic language cluster detected (max consecutive ZH paragraphs: {max_zh_run}, EN: {max_en_run}). Standard rule: alternate Chinese and English paragraph-by-paragraph.")
-            else:
-                passes.append(f"Alternating bilingual paragraph layout check passed (consecutive max ZH: {max_zh_run}, EN: {max_en_run})")
-
             # Check strict language separation in diagrams ("中文的归中文，英文的归英文")
-            allowed_acronyms = {'DNA', 'API', 'AI', 'LLM', 'CPU', 'GPU', 'TOE', 'VR'}
             diagram_lang_issues = []
             for idx, block in enumerate(mermaid_blocks, 1):
-                block_has_zh = bool(re.search(r'[\u4e00-\u9fff]', block))
-                if block_has_zh:
-                    # In Chinese diagram, flag residual English subtitles like <br/>English Words
-                    en_subs = re.findall(r'<br/>\s*([A-Za-z][A-Za-z0-9\s\-_/\'\.,:;]{3,})', block)
-                    disallowed = [s.strip() for s in en_subs if s.strip().upper() not in allowed_acronyms]
+                if diagram_is_zh(block):
+                    disallowed = check_zh_diagram_subtitles(block)
                     if disallowed:
                         diagram_lang_issues.append(f"Diagram {idx} (Chinese) has residual English subtitles: {disallowed[:3]}")
-                else:
-                    # In English diagram, must have no Chinese
-                    if re.search(r'[\u4e00-\u9fff]', block):
-                        diagram_lang_issues.append(f"Diagram {idx} (English) contains Chinese characters")
+                elif ZH_CHAR_RE.search(block):
+                    diagram_lang_issues.append(f"Diagram {idx} (English) contains Chinese characters")
 
             if diagram_lang_issues:
                 warnings.append(f"Strict language separation in diagrams ('中文的归中文，英文的归英文'): {'; '.join(diagram_lang_issues)}")
             else:
                 passes.append("Strict language separation in diagrams (pure Chinese in Chinese diagrams, pure English in English diagrams)")
 
-            # Check link anchor language separation ("中文段落用中文链接，英文段落用英文链接")
-            allowed_link_terms = {'AI', 'AGI', 'ASI', 'LLM', 'RL', 'API', 'DNA', 'CPU', 'GPU', 'TOE', 'VR', 'MOE'}
-            link_lang_issues = []
-            clean_prose_for_links = re.sub(r'```.*?```', '', content, flags=re.DOTALL)
-            for p in clean_prose_for_links.split('\n\n'):
-                p_str = p.strip()
-                if not p_str or p_str.startswith(('#', '*', '---', '***', '>')):
-                    continue
-                zh_chars = len(re.findall(r'[\u4e00-\u9fff]', p_str))
-                en_words = len(re.findall(r'[a-zA-Z]{2,}', p_str))
-                is_zh_p = zh_chars > en_words
-                is_en_p = en_words > zh_chars * 2
-
-                p_links = re.findall(r'\[([^\]]+)\]\(([^)]+)\)', p_str)
-                for anchor, url in p_links:
-                    if not (url.startswith('../') or url.startswith('./') or url.startswith('/posts/')):
-                        continue
-                    has_zh_anchor = bool(re.search(r'[\u4e00-\u9fff]', anchor))
-                    if is_zh_p:
-                        if not has_zh_anchor:
-                            words = re.findall(r'[a-zA-Z]+', anchor)
-                            if not all(w.upper() in allowed_link_terms for w in words):
-                                link_lang_issues.append(f"Chinese paragraph has English link anchor: '[{anchor}]({url})'")
-                        elif '/' in anchor and bool(re.search(r'[a-zA-Z]{3,}', anchor)):
-                            link_lang_issues.append(f"Chinese paragraph has compound bilingual link anchor: '[{anchor}]({url})'")
-                    elif is_en_p:
-                        if has_zh_anchor:
-                            link_lang_issues.append(f"English paragraph has Chinese link anchor: '[{anchor}]({url})'")
-
-            if link_lang_issues:
-                errors.append(f"Link anchor language separation issues detected: {'; '.join(link_lang_issues[:5])}. Rule: Translate link titles into Chinese for Chinese paragraphs, use English for English paragraphs ('中文的归中文，英文的归英文').")
-            else:
-                passes.append("Link anchor language separation check (Chinese links in Chinese paragraphs, English links in English paragraphs)")
-
             # Check diagrams attached to corresponding language contents (prevent stacked bilingual diagrams & enforce strict interleaving)
             # Rule: CN Paragraph -> CN Diagram -> EN Paragraph -> EN Diagram
             mermaid_matches = list(re.finditer(r'```mermaid\s*\n(.*?)\n```', content, re.DOTALL))
             diagram_interleaving_issues = []
             for i in range(len(mermaid_matches) - 1):
-                m1, m2 = mermaid_matches[i], mermaid_matches[i+1]
-                m1_zh = bool(re.search(r'[\u4e00-\u9fff]', m1.group(1)))
-                m2_zh = bool(re.search(r'[\u4e00-\u9fff]', m2.group(1)))
-                intervening = content[m1.end():m2.start()].strip()
+                m1, m2 = mermaid_matches[i], mermaid_matches[i + 1]
+                m1_zh = diagram_is_zh(m1.group(1))
+                m2_zh = diagram_is_zh(m2.group(1))
+                intervening = strip_link_targets(content[m1.end():m2.start()].strip())
                 if m1_zh and not m2_zh:
-                    en_words = len(re.findall(r'[a-zA-Z]{2,}', intervening))
+                    en_words = len(EN_WORD_RE.findall(intervening))
                     if en_words < 15:
                         diagram_interleaving_issues.append(
                             f"Diagram {i+1} (Chinese) and Diagram {i+2} (English) are stacked consecutively with insufficient intervening English prose ({en_words} words). "
                             f"Rule: Schematics must not be stacked together. Attach diagrams to corresponding language contents (CN Paragraph -> CN Diagram -> EN Paragraph -> EN Diagram)."
                         )
                 elif not m1_zh and m2_zh:
-                    zh_chars = len(re.findall(r'[\u4e00-\u9fff]', intervening))
+                    zh_chars = len(ZH_CHAR_RE.findall(intervening))
                     if zh_chars < 15:
                         diagram_interleaving_issues.append(
                             f"Diagram {i+1} (English) and Diagram {i+2} (Chinese) are stacked consecutively with insufficient intervening Chinese prose ({zh_chars} chars)."
                         )
 
-            # Check that each diagram is immediately preceded by the prose of its matching language
             for idx, match in enumerate(mermaid_matches, 1):
                 block = match.group(1)
-                is_zh_diagram = bool(re.search(r'[\u4e00-\u9fff]', block))
+                is_zh_diagram = diagram_is_zh(block)
                 pre_content = content[:match.start()].strip()
                 pre_paragraphs = [p.strip() for p in pre_content.split('\n\n') if p.strip()]
                 pre_prose = None
@@ -519,8 +735,9 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
                         break
 
                 if pre_prose:
-                    zh_chars = len(re.findall(r'[\u4e00-\u9fff]', pre_prose))
-                    en_words = len(re.findall(r'[a-zA-Z]{2,}', pre_prose))
+                    pre_scan = strip_link_targets(pre_prose)
+                    zh_chars = len(ZH_CHAR_RE.findall(pre_scan))
+                    en_words = len(EN_WORD_RE.findall(pre_scan))
                     is_pre_zh = zh_chars > en_words
                     is_pre_en = en_words > zh_chars * 2
 
@@ -535,7 +752,6 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
                             f"Rule: Schematics must immediately follow the prose they illustrate (CN Paragraph -> CN Diagram -> EN Paragraph -> EN Diagram)."
                         )
 
-                # For Chinese diagrams, verify that the following prose paragraph is English
                 if is_zh_diagram:
                     post_content = content[match.end():].strip()
                     post_paragraphs = [p.strip() for p in post_content.split('\n\n') if p.strip()]
@@ -545,8 +761,9 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
                             post_prose = p
                             break
                     if post_prose:
-                        zh_chars = len(re.findall(r'[\u4e00-\u9fff]', post_prose))
-                        en_words = len(re.findall(r'[a-zA-Z]{2,}', post_prose))
+                        post_scan = strip_link_targets(post_prose)
+                        zh_chars = len(ZH_CHAR_RE.findall(post_scan))
+                        en_words = len(EN_WORD_RE.findall(post_scan))
                         is_post_zh = zh_chars > en_words
                         if is_post_zh:
                             diagram_interleaving_issues.append(
@@ -558,37 +775,6 @@ def audit_post(file_path, allow_lists=False, walkthrough_path=None):
                 errors.append(f"Diagram interleaving issues detected: {'; '.join(diagram_interleaving_issues)}")
             else:
                 passes.append("Bilingual diagram interleaving check (diagrams attached to corresponding language contents: CN Paragraph -> CN Diagram -> EN Paragraph -> EN Diagram)")
-
-        # Strictly vertical layout check (prevent horizontal side-by-side subgraphs)
-        horizontal_layout_issues = []
-        for idx, block in enumerate(mermaid_blocks, 1):
-            if re.search(r'\bgraph\s+LR\b', block, re.IGNORECASE):
-                horizontal_layout_issues.append(f"Diagram {idx} uses horizontal flow ('graph LR'). Rule: use strictly vertical 'graph TD' / 'flowchart TD'.")
-            
-            # Check for root-level direction TB/TD (outside subgraphs) which renders an orphaned node
-            first_subgraph = re.search(r'\bsubgraph\b', block)
-            if first_subgraph:
-                pre_subgraph = block[:first_subgraph.start()]
-                if re.search(r'^\s*direction\s+T[BD]\b', pre_subgraph, re.MULTILINE):
-                    horizontal_layout_issues.append(f"Diagram {idx} has root-level 'direction TB' outside subgraphs, causing Mermaid to render an orphaned box labeled 'direction'. Move 'direction TB' inside subgraph blocks.")
-
-            subgraphs = re.findall(r'\bsubgraph\s+([A-Za-z0-9_-]+)', block)
-            if len(subgraphs) >= 2:
-                # Check for direction TB
-                if 'direction TB' not in block and 'direction TD' not in block:
-                    horizontal_layout_issues.append(f"Diagram {idx} has {len(subgraphs)} subgraphs but lacks 'direction TB'. Subgraphs must enforce vertical node flow.")
-                
-                # Check for inter-subgraph vertical connection (e.g. Node1 ==> Node2 or Subgraph link)
-                has_inter_subgraph_edge = bool(re.search(r'==+>|-->|-\.->', block.split('end')[-1])) or bool(re.search(r'==+>', block))
-                if not has_inter_subgraph_edge:
-                    horizontal_layout_issues.append(f"Diagram {idx} has {len(subgraphs)} disconnected subgraphs without vertical connecting arrow (e.g. UpperNode ==> LowerNode), which causes horizontal side-by-side layout.")
-
-        if horizontal_layout_issues:
-            errors.append(f"Mermaid horizontal layout violations: {'; '.join(horizontal_layout_issues)}")
-        else:
-            passes.append(f"Mermaid vertical layout check ({len(mermaid_blocks)} diagrams adhere to strictly vertical mobile-friendly top-down flow)")
-    else:
-        passes.append("Mermaid check (no diagrams in this post)")
 
     # 7. Walkthrough copy check (if walkthrough provided or discovered; skipped on work/<slug>/{en,zh}.md drafts unless --walkthrough is explicit)
     explicit_walkthrough = bool(walkthrough_path)
