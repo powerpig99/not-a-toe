@@ -142,5 +142,5 @@ Always execute the complete verification sequence before finalizing:
 3. `node build.mjs` — Compiles the static site into `public/`.
 4. `node scripts/project-posts-graph.mjs` — Re-projects lattice graph; ensures `missing_targets: 0`.
 5. `git add ... && git commit -m "Publish Post #XXX: <Title>" && git push origin main`.
-6. `bash scripts/watch-deploy.sh` — Polls until the GitHub Actions deployment run for `HEAD` is registered and watches it to completion (`GH_PROMPT_DISABLED=1`, `</dev/null`, `--exit-status`).
+6. `bash scripts/watch-deploy.sh` — Polls until the GitHub Actions deployment run for `HEAD` is registered and polls run `status`/`conclusion` to completion with bounded retries on transient GitHub API errors (`GH_PROMPT_DISABLED=1`, `</dev/null`, non-zero exit on non-`success` conclusion).
 7. `curl -sI https://powerpig99.github.io/not-a-toe/posts/<slug>/` — Confirms live HTTP 200.
