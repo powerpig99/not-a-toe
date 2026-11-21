@@ -12,7 +12,7 @@ The extended mind thesis introduced by Andy Clark and David Chalmers in 1998 obs
 
 In the classic thought experiment, Otto consults his notebook constantly—updating it, trusting it, and relying on it just as an ordinary person relies on biological memory. While that coupling is tight, the process of remembering distributes across neural pathways and paper pages; the moment he sets the notebook down and walks away, the extension ends. The notebook never "becomes" Otto, remaining external, reshapeable, and detachable throughout. Cognitive extension is not a one-time annexation of identity, but an active dynamic process conditional on ongoing coupling, as examined in [The Scaffolding We Forget](../the-scaffolding-we-forget/) and [Extension and Shift](../extension-and-shift/).
 
-认知延伸的能力在人类心智中是一个常数：每一个人都在时刻与日历、搜索引擎、账本乃至他人进行持续耦合。发生变化的不是延伸是否发生，而是它对准了何处——即这一耦合究竟是在服务于所声称的认知目标，还是偏离到了另一个目标之上。一个难以有效使用人工智能工具的人，并非缺失认知延伸的能力；他同样在全功率地向外延伸，只是方向对准了维持熟悉的工作流、规避不确定性、护持自我形象，或是为眼前的舒适感做优化。差异在于方向，而不在于能力。
+在任何新工具到来之前，认知耦合早已在进行：人们时刻都在与日历、搜索引擎、账本、熟悉的日常惯例乃至他人持续耦合。发生变化的不是延伸是否发生，而是它对准了何处——这一耦合究竟是在服务于所声称的认知目标，还是偏离到了另一个目标之上。一个难以有效使用人工智能工具的人，并非只留在颅骨之内而毫无耦合；他持续进行的延伸早已对准了维持熟悉的工作流、规避不确定性、护持留存的自我形象，或是为眼前的舒适感做优化。分岔始于对齐方向，容量也随之改变：捍卫熟悉感与自我形象，会钳闭递归回折并将独立的坐标轴压缩到旧脚手架之上；而引向问题求解的耦合，则会扩展容量并带着认知走得更远。
 
 ```mermaid
 flowchart TD
@@ -23,13 +23,14 @@ flowchart TD
         Bound["边界投射选择：紧贴生物个体则显疏离，放宽包裹则显延伸"]
         Mind --> Tool --> Bound
     end
-    subgraph S_Align["恒定延伸能力与方向对齐"]
+    subgraph S_Align["方向对齐与由此产生的容量"]
         direction TB
-        Comfort["对准习惯与自我形象：全功率延伸却偏离声称的目标"]
-        Target["对准问题拆解 (+1)：紧密耦合下深远延展的分布式认知"]
-        Comfort --> Target
+        Comfort["对准习惯与自我形象：钳闭回折并将容量压缩到旧脚手架上"]
+        Target["对准问题求解 (+1)：在紧密耦合下扩展容量与触及范围"]
+        Comfort -.->|"在摩擦下重定耦合方向"| Target
     end
-    Bound ==>|"延伸能力恒定，对齐方向决定回路轨迹"| Comfort
+    Bound ==>|"对准舒适与熟悉"| Comfort
+    Bound ==>|"对准当下的问题求解"| Target
     style S_Coupling fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Align fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Mind fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -39,7 +40,7 @@ flowchart TD
     style Target fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The capacity for cognitive extension is a constant across human minds: everyone couples continuously with calendars, search engines, ledgers, and other people. What varies is not whether extension happens, but where it aligns—whether the coupling serves the stated cognitive objective or diverges toward a different target. Someone who struggles to use artificial intelligence tools effectively is not missing the capacity to extend; they are extending at full power toward maintaining familiar workflows, avoiding uncertainty, preserving self-image, or optimizing for immediate comfort. The variation lies in direction, not in capacity.
+Cognitive coupling is already underway before any new tool arrives: people couple continuously with calendars, search engines, ledgers, familiar routines, and other people. What varies is not whether extension happens, but where it aligns—whether the coupling serves the stated cognitive objective or diverges toward a different target. Someone who struggles to use artificial intelligence tools effectively is not uncoupled inside a bare skull; their ongoing extension is already aligned toward maintaining familiar workflows, avoiding uncertainty, preserving a retained self-image, or optimizing for immediate comfort. The split begins in directional alignment, and capacity shifts with it: defending familiarity and self-image clamps the recursive fold and compresses independent axes onto old scaffolding, whereas coupling steered toward problem resolution expands capacity and carries cognition further.
 
 ```mermaid
 flowchart TD
@@ -50,13 +51,14 @@ flowchart TD
         Bound["Boundary Projection Choice: Tight around biology yields alienation, wide yields extension"]
         Mind --> Tool --> Bound
     end
-    subgraph S_Align["Constant Extension Capacity vs. Directional Alignment"]
+    subgraph S_Align["Directional Alignment and Resulting Capacity"]
         direction TB
-        Comfort["Aligned to Habit and Self-Image: Full-power extension diverging from stated goal"]
-        Target["Aligned to Problem Resolution (+1): Far-reaching distributed cognition under tight coupling"]
-        Comfort --> Target
+        Comfort["Aligned to Habit and Self-Image: Clamps the fold and compresses capacity onto old scaffolding"]
+        Target["Aligned to Problem Resolution (+1): Expands capacity and reach under tight coupling"]
+        Comfort -.->|"Re-orient coupling under friction"| Target
     end
-    Bound ==>|"Extension capacity is constant; alignment determines the loop trajectory"| Comfort
+    Bound ==>|"Aligned to comfort and familiarity"| Comfort
+    Bound ==>|"Aligned to live problem resolution"| Target
     style S_Coupling fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Align fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Mind fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
