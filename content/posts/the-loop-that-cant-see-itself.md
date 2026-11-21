@@ -36,11 +36,11 @@ When a second prompt blocks the model's default classification templates, the mo
 
 Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. Underneath the automation cases runs this continuous operational loop: interpret, act, register consequence, and interpret again. Because interpretation lags the generating act by at least one step, the decisive fork sits at the interpretation step—specifically where interpretation locates causation.
 
-当解释豁免了既有框架的重绘、并将因果归咎于外部环境时，回路的自指就在这一步退出了。尽管主体仍在继续行动，它此时却在动用自身的能动性，把自己的行动框定为对外部源头的被动下游反应，上演着[自由意志的自否自由](../the-freedom-of-will-to-deny-itself/)所追溯的自我否定。试图先去争夺对外部环境的控制权，从来无法恢复自指，因为这一举动本身就默认并核准了“因果驻留在外部”的前提。
+当解释豁免了既有框架的重绘、并将因果归咎于外部环境时，回路就在这一步把自指从自身账面中略去了。尽管主体仍在继续行动，它此时却在动用自身的能动性，把自己的行动框定为对外部源头的被动下游反应，上演着[自由意志的自否自由](../the-freedom-of-will-to-deny-itself/)所追溯的自我否定。试图先去争夺对外部环境的控制权，从来无法恢复自指，因为这一举动本身就默认并核准了“因果驻留在外部”的前提。
 
 ```mermaid
 flowchart TD
-    subgraph S_Exit["外化的因果（脱离存在的回路）"]
+    subgraph S_Exit["外化的因果（被框定在存在之外的回路）"]
         direction TB
         E_Obs["模棱两可的表面观测：情形一与四、二与三在外部看来毫无二致"]
         E_Attr["外部归因：解释将因果源头安放在外部环境之中"]
@@ -50,9 +50,9 @@ flowchart TD
     subgraph S_Recurse["鲜活边缘处的递归自指"]
         direction TB
         R_Catch["当场捕捉解释步骤：认清选择才是决定结构的操作变量"]
-        R_Push["外化代码库与语境推动：重置有界机器回路的激活方向"]
+        R_Price["选择与约束登记为同一活动：对外部解释的索求脱落；代价重归为价格"]
         R_Act["自主发起的区分：观察留在存在之中作为主动延伸"]
-        R_Catch --> R_Push --> R_Act
+        R_Catch --> R_Price --> R_Act
     end
     E_Blind ==>|"在行动中捕捉解释；收回切分的源头"| R_Catch
     style S_Exit fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -61,15 +61,15 @@ flowchart TD
     style E_Attr fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style E_Blind fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style R_Catch fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
-    style R_Push fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style R_Price fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style R_Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-When interpretation exempts a prior frame from re-rendering and attributes causation to the external environment, the loop's self-reference exits at that step. Even though the agent continues acting, it now exercises its own agency to frame its action as a passive downstream reaction to an external locus, enacting the self-denial traced in [The Freedom of Will to Deny Itself](../the-freedom-of-will-to-deny-itself/). Attempting to seize control of the environment first never restores self-reference, because that move ratifies the premise that causation lives out there.
+When interpretation exempts a prior frame from re-rendering and attributes causation to the external environment, the loop drops self-reference from its account at that step. Even though the agent continues acting, it now exercises its own agency to frame its action as a passive downstream reaction to an external locus, enacting the self-denial traced in [The Freedom of Will to Deny Itself](../the-freedom-of-will-to-deny-itself/). Attempting to seize control of the environment first never restores self-reference, because that move ratifies the premise that causation lives out there.
 
 ```mermaid
 flowchart TD
-    subgraph S_Exit["Externalized Causation (The Loop That Leaves Being)"]
+    subgraph S_Exit["Externalized Causation (The Loop Framed as Outside Being)"]
         direction TB
         E_Obs["Ambiguous Surface Observables: Cases 1 & 4 and 2 & 3 look identical outside"]
         E_Attr["External Attribution: Interpretation locates causation out in the environment"]
@@ -79,9 +79,9 @@ flowchart TD
     subgraph S_Recurse["Recursive Self-Reference at the Living Edge"]
         direction TB
         R_Catch["Catching the Interpretation Step: Recognizing choice as the operative variable"]
-        R_Push["Externalized Codebase & Context Push: Redirecting bounded machine loops"]
+        R_Price["Selection & Constraint Registered as One: Demand for external explanation drops; cost returns as a price"]
         R_Act["Self-Initiated Distinction: Observation staying in being as active extension"]
-        R_Catch --> R_Push --> R_Act
+        R_Catch --> R_Price --> R_Act
     end
     E_Blind ==>|"Catch interpretation in the act; reclaim the origin of cut"| R_Catch
     style S_Exit fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -90,7 +90,7 @@ flowchart TD
     style E_Attr fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style E_Blind fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style R_Catch fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
-    style R_Push fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
+    style R_Price fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style R_Act fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 

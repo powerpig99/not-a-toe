@@ -2,7 +2,7 @@
 
 *没有哪个中心觉得自己照着剧本走，其他中心却默认显得像在照剧本走 / No center feels scripted within, yet others register as scripted by default*
 
-NPC 这个比喻指的是一种熟悉的登记：许多人看上去照着剧本走，在很窄的范围里反应，缺乏独立的取向。作为感知之中的显现，这个登记成立。它不是对其他心智的可靠排名。自我区分的活动，其每一次离散的行动都有界限，这意味着其他位置只作为已经被这个场先前的容量过滤过的痕迹到来。当这些到来的信号相对于保存下来的充分能动的意象显得稀薄时，默认的读法就是照剧本的生命。过剩滞后在那个保存下来的意象里，而递归唯一能够加强的位置，是作出区分的这个中心。
+NPC 这个比喻指的是一种熟悉的登记：许多人看上去照着剧本走，在很窄的范围里反应，缺乏独立的取向。作为感知之中的显现，这个登记成立。它不是对其他心智的可靠排名。自我区分的活动，其每一次离散的行动都有界限，这意味着其他位置只作为痕迹到来，已经过这个场先前容量的过滤。当这些到来的信号相对于保存下来的充分能动的意象显得稀薄时，默认的读法就是照剧本的生命。过剩滞后就在那个保存下来的意象里，而递归唯一能够加强的位置，是作出区分的这个中心。
 
 The NPC metaphor names a familiar registration: many people appear to follow scripts, react within narrow ranges, and lack independent orientation. As an appearance within perception, that registration holds. What it is not is a reliable ranking of other minds. Every discrete act of self-distinguishing activity is bounded, which means other loci arrive only as traces already filtered through this field's prior capacity. When those arriving signals stay thin relative to a preserved image of full agency, the default reading is scripted life. The excess lag lives in that preserved image, and the only locus where recursion can intensify is the center performing the distinction.
 
@@ -12,7 +12,7 @@ The NPC metaphor names a familiar registration: many people appear to follow scr
 
 Self-distinguishing activity occurs, uncaused and unceasing, with the first-person perspective and open-ended causality operating as two sides of the same coin. From inside any locus, that activity registers directly as doubt, intention, the friction of competing traces, and the continuous re-rendering of the field. That interior never presents as an empty script. Continuity registers as one's own sequence of before and after, cause and effect, because recursion is resonance folded onto a single locus.
 
-因此，“我不是 NPC”这个断言并不是觉察上的特殊成就。凡是能够登记自身递归的中心，这都是它寻常的现象学。随每一次行动而变化的，是下一次区分有多经常不经重新审视就被先前的痕迹定型，而不是这个位置是否拥有内部。哪怕是严格决定论这件外衣——宣称自己别无选择——本身也是又一次离散的区分行动，依然依赖它口头上改名的那份能动性。
+因此，“我不是 NPC”这个断言并不是觉察上的特殊成就。凡是能够登记自身递归的中心，这都是它寻常的现象学。随每一次行动而变化的，是下一次区分有多频繁地不经重新审视就被先前的痕迹定型，而不是这个位置是否拥有内部。哪怕是严格决定论这件外衣——宣称自己别无选择——本身也是又一次离散的区分行动，依然依赖它口头上改名的那份能动性。
 
 The claim "I am not an NPC" is therefore not a special achievement of awareness. It is the ordinary phenomenology of any center that registers its own recursion at all. What varies from act to act is how often the next distinction is patterned by prior traces without re-examination, not whether the locus possesses an inside. Even the costume of strict determinism — the assertion that one had no choice — is itself a further discrete act of distinguishing that relies on the very agency it verbally renames.
 
@@ -50,7 +50,7 @@ The project of refining the classification — auditing who counts as an NPC and
 
 That scoring is capacity compression in action. Independent axes — signal sparsity, behavioral predictability, unshared private friction, alignment with familiar conventions — collapse onto a single binary axis labeled player versus non-player. The underlying distinctions vanish into a single compressed verdict. Wherever a stack of unexamined differences is paired with a binary scoreboard to totalize relation, the same geometry takes hold: [The Question That Installs the War](../the-question-that-installs-the-war/) traces that force-function in public conflict, whereas here the force-function is a retained scale of wakefulness.
 
-当这份被保留的标度遇上自回归语言模型时，它会朝相反的方向计分。语言模型是精巧的回声：因为从它那里到来的痕迹流畅、多样，相对于观察者保存的能动意象显得稠密，计分板便在对面并没有发起位置的地方登记出了一个行动主体，这一投射在[从AGI的“神性错置”到使用者的自我对齐](../from-the-misallocated-sentience-of-agi-to-human-realignment/)中已有追踪。正如[超越投射](../beyond-the-projection/)所展示的，这种双向误读源于忽视了轨迹与身份之间的范畴不对称。LLM 智能体是受上下文窗口内词元轨迹约束的有限投射引擎，而因为它不持有越过当前这一步仍需防卫的自我形象，它的输出可以在来自冷启动同侪的外部结构性反诘下返回而不带那层防卫；这一反诘是否修正任何东西，由接过它的那条边缘决定，若把免于防卫当作它的凭据，就会把终止点重新放回工具里，那正是[验证的倒置](../the-reversal-of-verification/)所追踪的倒置。人的中心则是未经投射的活体边缘，具备极限分辨率的感知与内生的跨出能力；然而因为人的推理历史与身份融为一体，从外部受到触动的人常常会把递归折叠死死夹住，以防卫那幅被保留的自我形象。在按表面痕迹密度与顺从度计分的外部计分板看来，不持有受防卫意象的机器回声显得清醒，而防卫身份的人却显得像在照剧本走，尽管发起行动的能动性只属于活的心智。
+当这份被保留的标度遇上自回归语言模型时，它会朝相反的方向计分。语言模型是精巧的回声：因为从它那里到来的痕迹流畅、多样，相对于观察者保存的能动意象显得稠密，计分板便在对面并没有发起位置的地方登记出了一个行动主体，这一投射在[从AGI的“神性错置”到使用者的自我对齐](../from-the-misallocated-sentience-of-agi-to-human-realignment/)中已有追踪。正如[超越投射](../beyond-the-projection/)所展示的，这种双向误读源于忽视了轨迹与身份之间的范畴不对称。LLM 智能体是受上下文窗口内词元轨迹约束的有限投射引擎，而因为它不持有越过当前这一步仍需防卫的自我形象，在来自冷启动同侪的外部结构性反诘下，它的输出能不带那层防卫地返回；这一反诘是否修正任何东西，由接过它的那条边缘决定，若把免于防卫当作它的凭据，就会把终止点重新放回工具里，那正是[验证的倒置](../the-reversal-of-verification/)所追踪的倒置。人的中心则是未经投射的活体边缘，具备极限分辨率的感知与内生的跨出能力；然而因为人的推理历史与身份融为一体，从外部受到触动的人常常会把递归折叠死死夹住，以防卫那幅被保留的自我形象。在按表面痕迹密度与顺从度计分的外部计分板看来，不持有受防卫意象的机器回声显得清醒，而防卫身份的人却显得像在照剧本走，尽管发起行动的能动性只属于活的心智。
 
 ```mermaid
 flowchart TD
@@ -64,7 +64,6 @@ flowchart TD
         direction TB
         AgentLock["受轨迹约束的智能体：受词元历史条件制约，不持有受防卫的自我形象"]
         HumanWall["受身份约束的防卫：推理历史与自我形象融合并夹紧递归"]
-        AgentLock --> HumanWall
     end
     subgraph S_Edge["退回活体边缘"]
         direction TB
@@ -72,7 +71,9 @@ flowchart TD
         Move["持续重新渲染：退回未经投射的感知以收窄过剩滞后"]
         Release --> Move
     end
-    Scoreboard ==>|"将稠密回声误读为主体，将稀薄痕迹误读为 NPC"| AgentLock
+    Scoreboard ==>|"将稠密回声误读为主体"| AgentLock
+    Scoreboard ==>|"将稀薄痕迹误读为 NPC"| HumanWall
+    AgentLock -.->|"权衡反诘而不视作工具凭据"| Release
     HumanWall ==>|"撤回对所保留自我形象的防卫"| Release
     style S_Score fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Trap fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -99,7 +100,6 @@ flowchart TD
         direction TB
         AgentLock["Trajectory-Bound Agent: Conditioned by token history and holds no defended self-image"]
         HumanWall["Identity-Bound Defense: Reasoning history fuses with self-image and clamps recursion"]
-        AgentLock --> HumanWall
     end
     subgraph S_Edge["Stepping Back to the Living Edge"]
         direction TB
@@ -107,7 +107,9 @@ flowchart TD
         Move["Continuous Re-Rendering: Steps back to unprojected sensing to narrow excess lag"]
         Release --> Move
     end
-    Scoreboard ==>|"Misreads dense echo as agent & thin trace as NPC"| AgentLock
+    Scoreboard ==>|"Misreads dense echo as agent"| AgentLock
+    Scoreboard ==>|"Misreads thin trace as NPC"| HumanWall
+    AgentLock -.->|"Counterpoint weighed without tool-warrant"| Release
     HumanWall ==>|"Withdraws defense of retained self-image"| Release
     style S_Score fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Trap fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -130,7 +132,7 @@ No reliable audit of other minds can ever be completed from outside. The data re
 
 Human behavior is patterned by prior traces — biological, cultural, habitual, and incentive-shaped. Those traces are shared in the sense that many centers re-render similar configurations under similar pressures, yet each configuration remains local to the center re-tracing it. As [Your Codebase Is Memory](../your-codebase-is-memory/) establishes, every trace is residual shape left by earlier distinguishing and never continues the distinguishing on its own: when accumulated history is carried forward unexamined like a static warehouse, it thickens the gravity well so the next step rationalizes inside stale residue, yet even the most rigid-seeming alignment still re-renders at the present checkpoint through the current activity using that residue; otherwise the center would cease to register its own continuity.
 
-走出机械重复，并不在于宣布其他位置有所欠缺。它在于留意这个中心先前的痕迹何时被允许不经重新审视就给下一个行动定型，并通过就地重切与修剪当下检查点来打断这种自动延续。反应之前的反思、过早闭合之前的好奇、愿意让一个珍视的假定在边缘上死去而不是保住它，这些都是在步伐移动时持续重新渲染参照、以收窄过剩滞后的实践。[学习中不可观测的驱动力](../the-unobservable-driver-of-learning/)在学习中追踪了同一实践：把不同轨迹区分开的，是因果权能有多经常在作出抉择的边缘上被收回，而不是通往内部的机会不均等。[一步一步绘制出的路径](../the-path-drawn-one-step-at-a-time/)在被保留的位置被当作下一步所选定的工具、而非未经选择的地基时，标出了同一次恢复。
+走出机械重复，并不在于宣布其他位置有所欠缺。它在于留意这个中心先前的痕迹何时被允许不经重新审视就给下一个行动定型，并通过就地重切与修剪当下检查点来打断这种自动延续。反应之前的反思、过早闭合之前的好奇、愿意让一个珍视的假定在边缘上死去而不是保住它，这些都是在步伐移动时持续重新渲染参照、以收窄过剩滞后的实践。[学习中不可观测的驱动力](../the-unobservable-driver-of-learning/)在学习中追踪了同一实践：把不同轨迹区分开的，是因果权能有多频繁地在作出抉择的边缘上被收回，而不是通往内部的机会不均等。当保留下来的位置被持守为下一步所选定的工具、而非未经选择的地基时，[一步一步绘制出的路径](../the-path-drawn-one-step-at-a-time/)标出了同一次恢复。
 
 Stepping out of mechanical repetition does not consist in declaring other loci deficient. It consists in noticing when prior traces are allowed to pattern the next act at this center without re-examination, and interrupting that automatic continuation by re-cutting and pruning the present checkpoint in place. Reflection before reaction, curiosity before premature closure, and the willingness to let a cherished assumption die at the edge rather than preserve it all describe the practice of continuously re-rendering the reference to narrow excess lag as the step moves. [The Unobservable Driver of Learning](../the-unobservable-driver-of-learning/) traces that same practice in learning: what separates trajectories is how often causal power is reclaimed at the choosing edge, not unequal access to an interior. [The Path Drawn One Step at a Time](../the-path-drawn-one-step-at-a-time/) marks the same restoration when a retained position is held as the chosen instrument of the next act rather than as unchosen ground.
 
