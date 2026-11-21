@@ -51,6 +51,7 @@ import sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 HEX64 = r"([0-9a-f]{64})"
+POST_SLUG_PAT = r"[A-Za-z0-9][A-Za-z0-9_-]*"
 LOCATOR_RE = re.compile(
     r"`([A-Za-z0-9_./-]+:(?:\d+(?:\s*[-–]\s*\d+)?)(?:\s*,\s*\d+(?:\s*[-–]\s*\d+)?)*)`"
 )
@@ -233,7 +234,7 @@ def parse_critic_verdict_and_summary(
                 line_count_cache: dict[pathlib.Path, int] = {}
                 # Split by semicolon or comma outside line-number lists, or extract locator tokens
                 tokens = re.findall(
-                    r"`?([a-z0-9][a-z0-9-]*:(?:\d+(?:\s*[-–]\s*\d+)?)(?:\s*,\s*\d+(?:\s*[-–]\s*\d+)?)*)`?(\s*\(\s*new_claim\s*\))?",
+                    rf"(?<![A-Za-z0-9_-])`?({POST_SLUG_PAT}:(?:\d+(?:\s*[-–]\s*\d+)?)(?:\s*,\s*\d+(?:\s*[-–]\s*\d+)?)*)`?(\s*\(\s*new_claim\s*\))?",
                     restaters_field,
                 )
                 if not tokens:
@@ -606,7 +607,7 @@ def record_batch(
                         targets_tail = eval_part[colon_idx + 1 :]
                         entry_matches = [
                             m
-                            for m in re.finditer(r"`([a-z0-9][a-z0-9-]*)`(?:\s*\([^)]*\))?", targets_tail)
+                            for m in re.finditer(rf"`({POST_SLUG_PAT})`(?:\s*\([^)]*\))?", targets_tail)
                             if (ROOT / "content" / "posts" / f"{m.group(1)}.md").is_file()
                         ]
                         for m in entry_matches:
@@ -723,9 +724,12 @@ def clean_sleep(dry_run: bool = False) -> int:
                 matched_special = True
         if matched_special:
             continue
-        m_slug = re.match(r"^`([a-z0-9][a-z0-9-]*)`", tail.strip())
+        m_slug = re.match(
+            rf"^(?:`({POST_SLUG_PAT})`|({POST_SLUG_PAT})(?=\s|$))",
+            tail.strip(),
+        )
         if m_slug:
-            slug = m_slug.group(1)
+            slug = m_slug.group(1) or m_slug.group(2)
             if slug not in checked_slugs:
                 checked_slugs.append(slug)
 

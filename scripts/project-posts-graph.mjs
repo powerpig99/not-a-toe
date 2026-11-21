@@ -680,7 +680,7 @@ function runNextBatch(builtGraph, batchSize, partFilter, isDryRun) {
     const priorMatch = line.match(/with\s+`([^`]+@[0-9a-f]+)`\s+as related material/);
     const prior = priorMatch ? priorMatch[1] : null;
     const tail = line.slice(colonIdx + 1);
-    for (const m of tail.matchAll(/`([a-z0-9][a-z0-9-]*)`(?:\s*\(`([^`]+)`[^)]*\))?/g)) {
+    for (const m of tail.matchAll(/`([A-Za-z0-9][A-Za-z0-9_-]*)`(?:\s*\(`([^`]+)`[^)]*\))?/g)) {
       const candSlug = m[1];
       const locator = m[2] || null;
       if (!partBySlug.has(candSlug)) continue;
