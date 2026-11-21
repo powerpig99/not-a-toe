@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-21T17:12:24.750Z",
+    "generated_at": "2026-11-21T17:31:35.340Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -120,13 +120,13 @@
       "content/posts/how-belief-actually-changes.md": "486429e8ea5b",
       "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "7eea92222314",
       "content/posts/huberman-winners-losers.md": "4ebe1677ca5b",
-      "content/posts/humans-tokens-and-the-scope-of-valuation.md": "2740c5400321",
+      "content/posts/humans-tokens-and-the-scope-of-valuation.md": "e39cb92ef63a",
       "content/posts/immortality-final.md": "2bbeb6b8ed55",
       "content/posts/incompleteness-exhibited-twice.md": "9b8460b798af",
       "content/posts/individual-choices-as-the-only-causal-levers.md": "915a3572d822",
       "content/posts/inheritance-as-residue-and-the-need-for-extraction.md": "0c7ba216c8ac",
       "content/posts/intelligence-belongs-only-to-the-mind.md": "5656f412d172",
-      "content/posts/intelligence-crisis-response.md": "ff0c08053c60",
+      "content/posts/intelligence-crisis-response.md": "ae3e106cc101",
       "content/posts/intelligence-folding-back-on-itself.md": "2b275af40326",
       "content/posts/intelligence-in-observation-and-the-residual-gap.md": "eb38ddf77c2e",
       "content/posts/intelligence-traps-itself.md": "39bc773f79e9",
@@ -381,7 +381,7 @@
       "content/posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations.md": "af7bc733c8fe",
       "content/posts/the-returning-signal-and-its-claim.md": "973ad49b2d21",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "eac491539bc9",
-      "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "fd92ab3e1f13",
+      "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md": "c8f2a7bc8d03",
       "content/posts/the-reversal-of-education-and-science.md": "79d30fed4db1",
       "content/posts/the-reversal-of-the-bystander-commentators.md": "db74aaeec163",
       "content/posts/the-reversal-of-verification.md": "d8eedc3f8076",
@@ -442,7 +442,7 @@
       "content/posts/what-is-metaphysics-as-the-cut-that-names-the-seeking-as-destination.md": "8f2888118a92",
       "content/posts/what-works-is-the-belief.md": "24d16f3231ec",
       "content/posts/whatever-is-one-prompt-away.md": "4f83116ae3c6",
-      "content/posts/when-abundance-looks-like-scarcity.md": "84b716cdac74",
+      "content/posts/when-abundance-looks-like-scarcity.md": "e9da391398e9",
       "content/posts/when-electrons-think.md": "828aea06a9d0",
       "content/posts/when-malfunction-is-scored-as-intelligence.md": "dfa53464d480",
       "content/posts/when-need-stops-being-the-measure.md": "b7e4ec30d0fe",
@@ -482,10 +482,10 @@
     },
     "stats": {
       "posts": 455,
-      "edges": 13986,
-      "unique_directed": 6874,
+      "edges": 13988,
+      "unique_directed": 6875,
       "missing_targets": 0,
-      "one_way": 1506,
+      "one_way": 1507,
       "isolated": 0,
       "posts_with_outbound": 455,
       "book_pages": 16,
@@ -3704,7 +3704,7 @@
       "slug": "humans-tokens-and-the-scope-of-valuation",
       "path": "content/posts/humans-tokens-and-the-scope-of-valuation.md",
       "title": "人、Token 与估值的范围 / Humans, Tokens, and the Scope of Valuation",
-      "hash": "2740c5400321",
+      "hash": "e39cb92ef63a",
       "in_degree": 3,
       "out_degree": 3,
       "links_out": [
@@ -3976,7 +3976,7 @@
       "slug": "intelligence-crisis-response",
       "path": "content/posts/intelligence-crisis-response.md",
       "title": "度量时滞与智能成本通缩 / The Measurement Lag",
-      "hash": "ff0c08053c60",
+      "hash": "ae3e106cc101",
       "in_degree": 3,
       "out_degree": 8,
       "links_out": [
@@ -7438,7 +7438,7 @@
       "path": "content/posts/the-causal-order-of-private-residuals-and-social-surplus.md",
       "title": "私人残差与社会剩余的因果次序 / The Causal Order of Private Residuals and Social Surplus",
       "hash": "b66f0ac30209",
-      "in_degree": 18,
+      "in_degree": 19,
       "out_degree": 13,
       "links_out": [
         "having-more-is-never-the-cause",
@@ -10843,7 +10843,7 @@
       "slug": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "path": "content/posts/the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors.md",
       "title": "财富转移政策与价格下限中的原因错置 / The Misallocation of Cause in Wealth-Transfer Policies and Price Floors",
-      "hash": "fd92ab3e1f13",
+      "hash": "c8f2a7bc8d03",
       "in_degree": 18,
       "out_degree": 17,
       "links_out": [
@@ -12473,16 +12473,17 @@
       "slug": "when-abundance-looks-like-scarcity",
       "path": "content/posts/when-abundance-looks-like-scarcity.md",
       "title": "当丰裕看起来像稀缺 / When Abundance Looks Like Scarcity",
-      "hash": "84b716cdac74",
+      "hash": "e9da391398e9",
       "in_degree": 6,
-      "out_degree": 6,
+      "out_degree": 7,
       "links_out": [
         "residual-individualism",
         "your-codebase-is-memory",
         "ai-wont-kill-software-engineering",
         "the-myth-of-population-collapse-explained",
         "better-than-free-after-the-checklist-closes",
-        "intelligence-crisis-response"
+        "intelligence-crisis-response",
+        "the-causal-order-of-private-residuals-and-social-surplus"
       ]
     },
     {
@@ -93656,9 +93657,21 @@
     },
     {
       "from": "when-abundance-looks-like-scarcity",
+      "to": "the-causal-order-of-private-residuals-and-social-surplus",
+      "rel": "points_to",
+      "label": "私人残差与社会剩余的因果次序"
+    },
+    {
+      "from": "when-abundance-looks-like-scarcity",
       "to": "intelligence-crisis-response",
       "rel": "points_to",
       "label": "The Measurement Lag"
+    },
+    {
+      "from": "when-abundance-looks-like-scarcity",
+      "to": "the-causal-order-of-private-residuals-and-social-surplus",
+      "rel": "points_to",
+      "label": "The Causal Order of Private Residuals and Social Surplus"
     },
     {
       "from": "when-electrons-think",

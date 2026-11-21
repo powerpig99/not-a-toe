@@ -4,7 +4,7 @@
 
 “人有史以来第一次比软件更便宜”的说法，记录了在当前管理与规模化条件下，两项运作投入之间相对成本的真实转移。这一判断唯有在规则与成功标准已经固定的生产博弈内部才成立。人以有限宽度的抽象运作，却依然能够生发出新的抽象；Token 则是人所选定的固定宽度抽象，用来延展已经划定边界的事物。将“人”与“Token”按集体抽象进行比价的估值方式，抹去了个体差异，也抹去了超出任何特定角色的能力。成本核算依然可用；失误在于把核算当成了关于价值的形而上学。
 
-The claim that humans are cheaper than software for the first time registers a real shift in relative cost between two inputs under present management and scaling. That claim holds only inside a production game whose rules and success criteria are already fixed. Humans operate as finite-width abstractions that can still originate new ones; tokens are human-selected fixed-width abstractions that extend what has already been bounded. Collective valuation that prices "humans" against "tokens" erases both individual difference and the capacity that exceeds any role. Cost accounting remains usable; the error is letting the accounting become a metaphysics of worth.
+The claim that humans are cheaper than software for the first time registers a real shift in relative cost between two inputs under present management and scaling. That claim holds only inside a production game whose rules and success criteria are already fixed. Humans operate through finite-width abstractions yet can still originate new ones; tokens are human-selected fixed-width abstractions that extend what has already been bounded. Collective valuation that prices "humans" against "tokens" erases both individual difference and the capacity that exceeds any role. Cost accounting remains usable; the error is letting the accounting become a metaphysics of worth.
 
 ## 一、 比较是局部的 / 1. The Comparison Is Local
 
@@ -43,7 +43,6 @@ flowchart TD
         T_Lock["固定坐标宽度：无法跨出自身去重画博弈规则"]
         T_Dist --> T_Mem --> T_Lock
     end
-
     subgraph S_Human["具身心智（有限宽度与敞开的潜能）"]
         direction TB
         H_Finite["当下的有限注意力：为当前行动划界以作出区分"]
@@ -51,9 +50,7 @@ flowchart TD
         H_Redraw["生发新抽象：重画价目表与博弈本身"]
         H_Finite --> H_Suspend --> H_Redraw
     end
-
     T_Lock ==>|"由活生生的前沿所统摄并重新划界"| H_Suspend
-
     style S_Token fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Human fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style T_Dist fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -75,7 +72,6 @@ flowchart TD
         T_Lock["Fixed Coordinate Width: Cannot step outside to redraw the game"]
         T_Dist --> T_Mem --> T_Lock
     end
-
     subgraph S_Human["Embodied Mind (Finite Width, Open Potentiality)"]
         direction TB
         H_Finite["Momentary Finite Attention: Bounds the current act to distinguish"]
@@ -83,9 +79,7 @@ flowchart TD
         H_Redraw["Originating New Abstractions: Redraws the price list & the game itself"]
         H_Finite --> H_Suspend --> H_Redraw
     end
-
     T_Lock ==>|"Governed and re-bounded by the living edge"| H_Suspend
-
     style S_Token fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Human fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style T_Dist fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc

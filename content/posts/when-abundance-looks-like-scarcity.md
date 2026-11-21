@@ -30,7 +30,7 @@ AI 让认知执行的成本变得更低。替代框架追问的是谁会失去�
 
 AI makes cognitive execution cheaper. The replacement frame asks who loses their existing slice, whereas the expansion frame asks what becomes feasible that was never feasible before. When building software costs nearly nothing, every organization, community, and individual becomes a potential creator: externalizing prior distinctions into a durable repository, as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, frees the living steering edge from manual upkeep so a single mind can compound architectural depth across domains that previously required entire departments to coordinate. When analysis, translation, legal review, and financial planning cost nearly nothing, billions of people gain access to capabilities previously reserved for a few, generating needs and roles that do not yet have names—just as "software engineer" had no name before computers existed, and for the same reason [AI Won't Kill Software Engineering, It Will Expand It](../ai-wont-kill-software-engineering/) traces why cheaper syntax implementation shifts the feasibility boundary outward around upstream specification and verification rather than shrinking the field.
 
-末日推演之所以看不到这一点，是因为它的框架在构造之初就将其排除在外：一旦你设定蛋糕总量固定，扩张就会变得不可表征。[人口崩溃神话的拆解](../the-myth-of-population-collapse-explained/)追踪了同一转换在人口问题上的面相，即把发展带来的盈余当成封闭存量来计分；而当复制品变得免费时，价值便会迁移向[清单合上之后，胜过免费](../better-than-free-after-the-checklist-closes/)所描述的那个不可复制的前沿。
+末日推演之所以看不到这一点，是因为它的框架在构造之初就将其排除在外：一旦你设定蛋糕总量固定，扩张就会变得不可表征。[人口崩溃神话的拆解](../the-myth-of-population-collapse-explained/)追踪了同一转换在人口问题上的面相，即把发展带来的盈余当成封闭存量来计分；而当复制品变得免费时，持久的稀缺依然留在[清单合上之后，胜过免费](../better-than-free-after-the-checklist-closes/)所描述的鲜活区分前沿上。
 
 ```mermaid
 flowchart TD
@@ -38,7 +38,7 @@ flowchart TD
         direction TB
         F_Hold["静态活动集合：把当下任务当成完整的经济全集"]
         F_Sub["零和减法：将 AI 能力增长从人类份额中直接扣减"]
-        F_Panic["机械危机叙事：用繁复细节掩盖通缩与传染推演"]
+        F_Panic["机械危机叙事：通缩与传染细节掩盖初始切分"]
         F_Hold --> F_Sub --> F_Panic
     end
     subgraph S_Expand["敞开的前沿（扩张与分化）"]
@@ -59,7 +59,7 @@ flowchart TD
     style E_New fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The doom scenario cannot see this because its frame excludes it by construction: once you posit a fixed pie, expansion becomes unrepresentable. [The Myth of Population Collapse Explained](../the-myth-of-population-collapse-explained/) traces the demographic face of that same conversion, where advanced surplus is scored as a closed stock, and when copies become free, value moves to the uncopied frontier that [Better Than Free After the Checklist Closes](../better-than-free-after-the-checklist-closes/) describes.
+The doom scenario cannot see this because its frame excludes it by construction: once you posit a fixed pie, expansion becomes unrepresentable. [The Myth of Population Collapse Explained](../the-myth-of-population-collapse-explained/) traces the demographic face of that same conversion, where advanced surplus is scored as a closed stock, and when copies become free, durable scarcity stays with the living differentiating frontier that [Better Than Free After the Checklist Closes](../better-than-free-after-the-checklist-closes/) describes.
 
 ```mermaid
 flowchart TD
@@ -67,7 +67,7 @@ flowchart TD
         direction TB
         F_Hold["Static Activity Set: Present tasks treated as the complete economy"]
         F_Sub["Zero-Sum Subtraction: AI capability growth deducted from human share"]
-        F_Panic["Mechanical Crisis Narrative: Deflation & contagion camouflaged by detail"]
+        F_Panic["Mechanical Crisis Narrative: Deflation & contagion detail camouflages the initial cut"]
         F_Hold --> F_Sub --> F_Panic
     end
     subgraph S_Expand["The Open Frontier (Expansion & Differentiation)"]
@@ -90,13 +90,13 @@ flowchart TD
 
 ## 三、 真正发生的事 / 3. What's Actually There
 
-一旦消解掉总量固定的前提，铁板一块的危机就会分化为三重各自独立的运行张力。第一重是转型摩擦：人们确实会失去特定的岗位，房贷会面临局部压力，各个行业也会以不均衡的速度重组——正如[度量时滞与智能成本通缩](../intelligence-crisis-response/)针对同一推演场景所追踪的，快速演进的知识行业比缓慢且受监管的行业更早卸下名义收入溢价，而后者的实际生活成本通缩尚未传导到位，这使得压力表现为跨行业的重定价时滞与协同挑战，而非生存绝境。第二重是分配张力：生产力收益沿着被 AI 加速的轨迹先流向资本再流向劳动，但这属于财政分配问题，而非结构上的无解死局。第三重是身份迷失：一个以常规白领服务任务来定义自身的经济体，正在经历这一标签的消解，正如农业与制造业的身份认同曾先它一步消解一样；这揭示出经济从来就不是那些瓶颈任务本身，而是当瓶颈被移除之后依然持续进行的人类组织活动。
+一旦消解掉总量固定的前提，铁板一块的危机就会分化为三重各自独立的运行张力。第一重是转型摩擦：人们确实会失去特定的岗位，房贷会面临局部压力，各个行业也会以不均衡的速度重组——正如[度量时滞与智能成本通缩](../intelligence-crisis-response/)针对同一推演场景所追踪的，快速演进的知识行业比缓慢且受监管的行业更早卸下名义收入溢价，而后者的实际生活成本通缩尚未传导到位，这使得压力表现为跨行业的重定价时滞与协同挑战，而非生存绝境。第二重是分配张力：股权回报显眼地集中于承担风险的节点，而竞争性模仿、单价下行与更广泛的工具采纳则将绝大部分剩余向下游扩散——这正是[私人残差与社会剩余的因果次序](../the-causal-order-of-private-residuals-and-social-surplus/)所追溯的生成序列，而非等待财政分配的静态池，也非结构上的无解死局。第三重是身份迷失：以常规白领服务任务界定自身生计的参与者，正在经历这一标签的消解，正如农业与制造业的身份认同曾先一步消解一样；这揭示出经济从来就不是那些瓶颈任务本身，而是当瓶颈被移除之后依然持续进行的人类组织活动。
 
-Dissolve the fixed-pie premise and the monolithic crisis differentiates into three independent operational tensions. The first is transition friction: people do lose specific roles, mortgages face local stress, and sectors reorganize at uneven speeds—as [The Measurement Lag](../intelligence-crisis-response/) traces across this same scenario, fast-moving knowledge sectors shed nominal income premiums before slower, regulated sectors finish deflating real living costs, making the stress a cross-sector repricing lag and coordination challenge rather than an existential dead end. The second is distribution tension: productivity gains flow to capital before labor along a trajectory AI accelerates, which is a fiscal allocation question rather than a structural impossibility. The third is identity disorientation: an economy that defined itself by routine white-collar service tasks experiences the dissolution of that label just as agricultural and manufacturing identities dissolved before it, revealing that the economy was never the bottleneck tasks themselves, but the human organizing that continues once the bottleneck is removed.
+Dissolve the fixed-pie premise and the monolithic crisis differentiates into three independent operational tensions. The first is transition friction: people do lose specific roles, mortgages face local stress, and sectors reorganize at uneven speeds—as [The Measurement Lag](../intelligence-crisis-response/) traces across this same scenario, fast-moving knowledge sectors shed nominal income premiums before slower, regulated sectors finish deflating real living costs, making the stress a cross-sector repricing lag and coordination challenge rather than an existential dead end. The second is distribution tension: equity returns concentrate visibly at risk-bearing nodes while competitive imitation, falling unit prices, and wider tool adoption diffuse most of the surplus downstream—the generative sequence traced in [The Causal Order of Private Residuals and Social Surplus](../the-causal-order-of-private-residuals-and-social-surplus/), rather than a static pool awaiting fiscal allocation or a structural impossibility. The third is identity disorientation: participants who defined their livelihoods by routine white-collar service tasks experience the dissolution of that label just as agricultural and manufacturing identities dissolved before it, revealing that the economy was never the bottleneck tasks themselves, but the human organizing that continues once the bottleneck is removed.
 
-这三重张力每一重都是真实的，各自在独立的轴线上运作，也各自容许具体的应对方案。只有当这三者被同时坍缩到一块人为固定住的蛋糕内部的单一轴线上时，末日般的“危机”才会显现出来。
+这三重张力各自在独立的轴线上运作，并各自通过自身的机制进行调整。只有当这三者被同时坍缩到一块人为固定住的蛋糕内部的单一轴线上时，末日般的“危机”才会显现出来。
 
-Each of these three tensions is real, each operates on its own axis, and each admits a concrete response. The apocalyptic "crisis" appears only when all three are collapsed onto a single axis inside a pie held artificially fixed.
+Each of these three tensions operates on its own axis and adjusts through its own mechanism. The apocalyptic "crisis" appears only when all three are collapsed onto a single axis inside a pie held artificially fixed.
 
 ## 四、 这一模式 / 4. The Pattern
 
