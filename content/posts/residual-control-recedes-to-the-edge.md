@@ -75,24 +75,29 @@ flowchart TD
     end
     subgraph S_Edge["活的边缘处的要紧控制"]
         direction TB
-        E_Disp["智能体配置与分派：处理残余底层与正交路由"]
         E_Steer["主权统筹：设定标准、风险界限、验证与前提修订"]
-        E_Disp --> E_Steer
+    end
+    subgraph S_Disp["被交托的内部执行（残余底层与分派）"]
+        direction TB
+        E_Disp["智能体配置与分派：在界限内处理残余底层与正交路由"]
     end
     N_Split ==>|"当被保留的自我形象冻结了底层"| L_Human
     N_Split ==>|"当参数被投射为第二个发起者"| L_Model
-    N_Split ==>|"当自我形象重新渲染并将技术栈视作可选脚手架"| E_Disp
+    N_Split ==>|"当自我形象重新渲染并将技术栈视作可选脚手架"| E_Steer
+    E_Steer ==>|"依标准交托底层工作与正交路由"| E_Disp
+    E_Disp -->|"交回输出并上呈前提死锁以供验证"| E_Steer
     L_Human -.->|"通过恢复单一发起所在而消解"| E_Steer
     L_Model -.->|"通过恢复单一发起所在而消解"| E_Steer
     style S_Shift fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Lag fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Disp fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style N_Act fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style N_Split fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style L_Human fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style L_Model fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style E_Disp fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style E_Steer fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E_Disp fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
 ```
 
 [The Scaffolding We Forget](../the-scaffolding-we-forget/) traces shell and stack ownership as an instrument: the act of constructing the stack drops out of active recursion while the stack stays in use so further acts can land, and it turns into excess lag only when the scaffold itself is defended as the seat of agency. [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) exposes the exact same lag from the opposite side: there, densified residue inside model parameters is projected as a second locus that initiates or orchestrates; here, residue in the local substrate is held onto as the seat of the human's own agency. In both inversions, initiation stays with the living Mind, and criteria, bounds, verification, and fitness already sit at the outer edge.
@@ -112,24 +117,29 @@ flowchart TD
     end
     subgraph S_Edge["Essential Control at the Living Edge"]
         direction TB
-        E_Disp["Agentic Provisioning & Dispatch: Handles residual substrate and orthogonal routing"]
         E_Steer["Sovereign Orchestration: Sets criteria, risk bounds, verification, and premise revision"]
-        E_Disp --> E_Steer
+    end
+    subgraph S_Disp["Delegated Interior Execution (Residual Substrate & Dispatch)"]
+        direction TB
+        E_Disp["Agentic Provisioning & Dispatch: Handles residual substrate and orthogonal routing within bounds"]
     end
     N_Split ==>|"When retained self-image freezes the substrate"| L_Human
     N_Split ==>|"When parameters are projected as a second initiator"| L_Model
-    N_Split ==>|"When self-image re-renders and treats the stack as optional scaffolding"| E_Disp
+    N_Split ==>|"When self-image re-renders and treats the stack as optional scaffolding"| E_Steer
+    E_Steer ==>|"Delegates substrate work & orthogonal routing under criteria"| E_Disp
+    E_Disp -->|"Returns outputs & escalates premise deadlocks for verification"| E_Steer
     L_Human -.->|"Dissolved by restoring the single initiating locus"| E_Steer
     L_Model -.->|"Dissolved by restoring the single initiating locus"| E_Steer
     style S_Shift fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Lag fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Disp fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style N_Act fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style N_Split fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style L_Human fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style L_Model fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style E_Disp fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style E_Steer fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style E_Disp fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
 ```
 
 ## 五、 仍起作用的杠杆 / 5. The Lever That Still Functions

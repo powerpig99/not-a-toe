@@ -8,11 +8,11 @@ Andrej Karpathy observes that command-line interfaces are exciting for the era o
 
 ## 一、 三层界面栈与“遗产”一词的遮蔽 / 1. The Three-Layer Interface Stack and What "Legacy" Obscures
 
-人机交互建立在三层界面栈之上，每一上层都是由紧邻的下层投射生成的。最底层是物理操控层——拨动开关、继电器、穿孔卡片与直接的机电动作，其间没有任何符号中介；中间层是符号命令层，即命令行界面，交互在此首次将连续的硬件状态折叠为离散的形式化文本，此后的一切运算皆是符号对符号的操作；悬浮在最上层的是图形用户界面，它将底层的符号指令重新投射为空间隐喻、像素排布与鼠标点击目标，以迎合人类的视觉与运动习惯。
+人机交互建立在三层界面栈之上，每一上层都是由紧邻的下层投射生成的。最底层是物理操控层——模拟式控制装置、拨动开关、继电器与直接的机电动作，其间没有符号命令中介；位于其上的是符号命令层，即命令行界面，交互在此首次将机器执行与离散的形式化文本带入同一操作表面，此后的一切运算皆是符号对符号的操作；悬浮在最上层的是图形用户界面，它将底层的符号指令重新投射为空间隐喻、像素排布与鼠标点击目标，以迎合人类的视觉与运动习惯。
 
-Human-machine interaction rests on a three-layer stack in which each upper layer is a projection generated from the one beneath it. At the base sits physical manipulation—switches, relays, punch cards, and direct electromechanical actuation without symbolic mediation. Above that sits the symbolic command layer—the command-line interface—where interaction first collapses continuous hardware states into discrete formal text and everything thereafter is symbol operating on symbol. Floating above the command line sits the graphical user interface, which re-projects symbolic operations into spatial metaphors, pixel layouts, and mouse targets tailored to human visual-motor habits.
+Human-machine interaction rests on a three-layer stack in which each upper layer is a projection generated from the one beneath it. At the base sits physical manipulation—analog controls, switches, relays, and direct electromechanical actuation without symbolic command mediation. Above that sits the symbolic command layer—the command-line interface—where interaction first brings machine execution and discrete formal text onto a single operational surface and everything thereafter is symbol operating on symbol. Floating above the command line sits the graphical user interface, which re-projects symbolic operations into spatial metaphors, pixel layouts, and mouse targets tailored to human visual-motor habits.
 
-把命令行称为“遗产”，是将结构上的层级关系压扁成了时间上的先后顺序，仿佛计算技术只是单纯地从命令行进化到图形窗口，而今天的智能体又怀旧地退回了过去。命令行并非靠历史侥幸才留存至今；它之所以长存，是因为它正处在机器执行与形式语言首次共享同一表面的基底位置，而图形界面只是架设在其上方的一层可选感官迁就——正如[我们遗忘的脚手架](../the-scaffolding-we-forget/)、[AI 不会终结软件工程，而是将其扩展](../ai-wont-kill-software-engineering/)与[万物一如既往地流变](../everything-is-changing-as-always/)所剖析的那样，上层投射的普及掩盖了底层支点的结构必然性。
+把命令行称为“遗产”，是将结构上的层级关系压扁成了时间上的先后顺序，仿佛计算技术只是单纯地从命令行进化到图形窗口，而今天的智能体又怀旧地退回了过去。命令行并非靠历史侥幸才留存至今；它之所以长存，是因为它正处在机器执行与形式语言首次共享同一表面的基底位置，而图形界面只是架设在其上方的一层可选感官迁就——正如[遗忘的脚手架](../the-scaffolding-we-forget/)、[AI 不会终结软件工程，而是将其扩展](../ai-wont-kill-software-engineering/)与[万物一如既往地流变](../everything-is-changing-as-always/)所剖析的那样，上层投射的普及掩盖了底层支点的结构必然性。
 
 ```mermaid
 flowchart TD
@@ -72,9 +72,9 @@ flowchart TD
 
 A graphical desktop takes symbolic file and process operations and wraps them in folders, drag-and-drop gestures, and buttons because human perception navigates space more fluently than raw syntax. Language-model agents already live inside symbol space, where their context windows, tool calls, and externalized repositories operate as text on text, as [Your Codebase Is Memory](../your-codebase-is-memory/) traces. Agents do not "prefer" command-line interfaces out of taste; they simply bypass a visual accommodation layer that was never built for them, and generate visual dashboards on demand as a downstream rendering pass whenever a human observer asks to inspect the state.
 
-顺着命令行向下看，同样能看清为何具身机器人比纯软件自动化困难得多。命令行与图形界面之间的跨步依然留在符号空间内部，只是把文本指令转译为文本指令的视觉呈现；而从物理硬件到命令行的跨步，则横跨了从连续的前语言物质世界到离散符号词元的断层。在尚未建立稳固符号底座的物理界面上，单靠堆叠上层文本包装无法凭空跨过这道鸿沟。
+顺着命令行向下看，同样能看清为何具身机器人比纯软件自动化困难得多。命令行与图形界面之间的跨步依然留在符号空间内部，只是把文本指令转译为文本指令的视觉呈现；而从物理硬件到命令行的跨步，则越过边界，从未形式化的物理摩擦与模拟式硬件动力学进入离散符号词元。在尚未建立稳固符号底座的物理界面上，单靠堆叠上层文本包装无法凭空跨过这道鸿沟。
 
-Looking downward from the command line also clarifies why robotics remains structurally harder than software automation. The step between a command line and a graphical window stays inside symbol space, translating text commands into visual representations of text commands; the step between physical hardware and the command line crosses the boundary from continuous, pre-linguistic matter into discrete symbolic tokens. Where no clean symbolic floor exists, adding more textual wrappers cannot bridge the gap on its own.
+Looking downward from the command line also clarifies why robotics remains structurally harder than software automation. The step between a command line and a graphical window stays inside symbol space, translating text commands into visual representations of text commands; the step between physical hardware and the command line crosses the boundary from unformalized physical friction and analog hardware dynamics into discrete symbolic tokens. Where no clean symbolic floor exists, adding more textual wrappers cannot bridge the gap on its own.
 
 ## 三、 传播广度与清晰度的权衡及倒置的消解 / 3. The Reach-Clarity Tradeoff and Dissolving the Inversion
 

@@ -3,14 +3,14 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-21T22:55:01.563Z",
+    "generated_at": "2026-11-21T23:32:25.908Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
     "sources": {
       "content/posts/Analysis_Adolescence_of_Technology.md": "17ccf2b9ca9a",
       "content/posts/a-creation-cannot-replace-its-source.md": "dc2a6138f565",
-      "content/posts/a-living-external-cortex.md": "83fdc6202c48",
+      "content/posts/a-living-external-cortex.md": "900ecb1415c7",
       "content/posts/a-new-deeper-look-at-antifragility.md": "e5ed06c9658d",
       "content/posts/abstract-pain-and-living-hunger.md": "521edf2dc946",
       "content/posts/abstraction-boundaries-and-the-moving-edge-of-reality.md": "c52d6149ba98",
@@ -45,7 +45,7 @@
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "b2def21d59e6",
       "content/posts/claudes-constitution-analysis.md": "58bd3d6c3edb",
       "content/posts/clean-averaging-and-residual-choice.md": "b8f37599a129",
-      "content/posts/cli-interface-stack.md": "8ce49c41c258",
+      "content/posts/cli-interface-stack.md": "434ef2a6fde5",
       "content/posts/climbing-does-not-leave-the-ground.md": "1c2abe2271a4",
       "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "8379c3e264d9",
       "content/posts/closed-framing-and-the-reduction-of-optionality.md": "ec49869d75c7",
@@ -142,7 +142,7 @@
       "content/posts/meaning-of-life-refined.md": "4d7d52d18cca",
       "content/posts/mei-you-pu-du-zhi-you-zi-du.md": "1a34f9ee3e60",
       "content/posts/mi-lv-shi-jie-guo-de-biao-xiang.md": "303c79b009fa",
-      "content/posts/minimizing-path.md": "c585ae74466b",
+      "content/posts/minimizing-path.md": "818c9dd4041e",
       "content/posts/mises-state-analysis.md": "bad1b8f579b1",
       "content/posts/mistaking-the-expression-for-the-intelligence.md": "525ef81069b4",
       "content/posts/mistaking-the-symptom-of-stability-for-its-source.md": "c016f68c2992",
@@ -180,7 +180,7 @@
       "content/posts/perception-perspective-refined.md": "d9484330c5b9",
       "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "f54eeadec188",
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "aa49b94c3914",
-      "content/posts/platform-decision-capture.md": "c1ce0036119a",
+      "content/posts/platform-decision-capture.md": "0ee6b04aa27a",
       "content/posts/po-chu-gai-nian-de-jian-yue.md": "c71369802649",
       "content/posts/politicians-appear-as-visible-symptoms-of-responsibility-diffusion.md": "028a28b54a32",
       "content/posts/potential-infinity-and-the-temporary-closures-of-mathematical-thought.md": "cb1f469a0671",
@@ -199,7 +199,7 @@
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "c12a17f1cc71",
       "content/posts/relative-differentials-and-the-compounding-of-comparison.md": "a5e6c9f1628d",
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "ad5983b40282",
-      "content/posts/residual-control-recedes-to-the-edge.md": "3de7bf12eb33",
+      "content/posts/residual-control-recedes-to-the-edge.md": "1e41f477d826",
       "content/posts/residual-individualism.md": "07993abeddee",
       "content/posts/restriction-is-a-selective-tax.md": "67892b4c8271",
       "content/posts/scaffolds-or-specialized-contexts.md": "2b7375e218aa",
@@ -223,7 +223,7 @@
       "content/posts/successive-reading-and-the-negotiated-boundary-of-language.md": "cc20006213a8",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "e20330f1108c",
       "content/posts/symptom-and-cause-in-the-narratives-of-progress.md": "463e396e6297",
-      "content/posts/technology-is-residual-of-human-compounding.md": "4ac742fad799",
+      "content/posts/technology-is-residual-of-human-compounding.md": "4877c4cef76d",
       "content/posts/the-aesthetic-escalator-and-the-melancholy-of-the-balcony.md": "8c529cbcbda1",
       "content/posts/the-allocation-of-causal-power-in-validation.md": "8a6e7dfe1ffa",
       "content/posts/the-arithmetic-of-the-register.md": "1b6cd7839dcc",
@@ -333,7 +333,7 @@
       "content/posts/the-local-shield-and-the-residual-lag.md": "344110f3b769",
       "content/posts/the-local-trap-of-technological-change.md": "90573245bd77",
       "content/posts/the-look-of-constraint-is-not-the-loss-of-freedom.md": "a4b2df46f59c",
-      "content/posts/the-loop-accelerates.md": "60608a02a0ed",
+      "content/posts/the-loop-accelerates.md": "e148a32baf20",
       "content/posts/the-loop-that-cant-see-itself.md": "93b89204c643",
       "content/posts/the-maintenance-paradox.md": "4c881db056f0",
       "content/posts/the-map-after-the-territory.md": "7c4c6f4b27cf",
@@ -717,7 +717,7 @@
       "slug": "a-living-external-cortex",
       "path": "content/posts/a-living-external-cortex.md",
       "title": "活的外部皮层 / A Living External Cortex",
-      "hash": "83fdc6202c48",
+      "hash": "900ecb1415c7",
       "in_degree": 12,
       "out_degree": 11,
       "links_out": [
@@ -1731,7 +1731,7 @@
       "slug": "cli-interface-stack",
       "path": "content/posts/cli-interface-stack.md",
       "title": "界面栈与命令行基底 / The Interface Stack",
-      "hash": "8ce49c41c258",
+      "hash": "434ef2a6fde5",
       "in_degree": 3,
       "out_degree": 4,
       "links_out": [
@@ -4430,7 +4430,7 @@
       "slug": "minimizing-path",
       "path": "content/posts/minimizing-path.md",
       "title": "最小化路径 / The Minimizing Path",
-      "hash": "c585ae74466b",
+      "hash": "818c9dd4041e",
       "in_degree": 3,
       "out_degree": 6,
       "links_out": [
@@ -5548,16 +5548,16 @@
       "slug": "platform-decision-capture",
       "path": "content/posts/platform-decision-capture.md",
       "title": "平台并未漂移，它只是走到了终点 / The Platform Doesn't Drift, It Completes",
-      "hash": "c1ce0036119a",
+      "hash": "0ee6b04aa27a",
       "in_degree": 3,
       "out_degree": 7,
       "links_out": [
-        "cli-interface-stack",
-        "scaffolds-or-specialized-contexts",
-        "school_essay_final",
         "the-collapsed-debate",
         "sensing-before-interpretation",
+        "school_essay_final",
         "your-codebase-is-memory",
+        "scaffolds-or-specialized-contexts",
+        "cli-interface-stack",
         "simplicity-ultimate-sophistication"
       ]
     },
@@ -6090,7 +6090,7 @@
       "slug": "residual-control-recedes-to-the-edge",
       "path": "content/posts/residual-control-recedes-to-the-edge.md",
       "title": "要紧的控制迁往边缘 / Essential Control Moves to the Edge",
-      "hash": "3de7bf12eb33",
+      "hash": "1e41f477d826",
       "in_degree": 15,
       "out_degree": 14,
       "links_out": [
@@ -6729,7 +6729,7 @@
       "slug": "technology-is-residual-of-human-compounding",
       "path": "content/posts/technology-is-residual-of-human-compounding.md",
       "title": "技术是人类复利的残差 / Technology Is Residual of Human Compounding",
-      "hash": "4ac742fad799",
+      "hash": "4877c4cef76d",
       "in_degree": 19,
       "out_degree": 21,
       "links_out": [
@@ -9563,7 +9563,7 @@
       "slug": "the-loop-accelerates",
       "path": "content/posts/the-loop-accelerates.md",
       "title": "加速的自指回环与自我实现的终结叙事 / The Loop Accelerates",
-      "hash": "60608a02a0ed",
+      "hash": "e148a32baf20",
       "in_degree": 3,
       "out_degree": 3,
       "links_out": [
@@ -20527,7 +20527,7 @@
       "from": "cli-interface-stack",
       "to": "the-scaffolding-we-forget",
       "rel": "points_to",
-      "label": "我们遗忘的脚手架"
+      "label": "遗忘的脚手架"
     },
     {
       "from": "cli-interface-stack",
@@ -47273,24 +47273,6 @@
     },
     {
       "from": "platform-decision-capture",
-      "to": "cli-interface-stack",
-      "rel": "points_to",
-      "label": "界面栈与命令行基底"
-    },
-    {
-      "from": "platform-decision-capture",
-      "to": "scaffolds-or-specialized-contexts",
-      "rel": "points_to",
-      "label": "是脚手架还是特化语境"
-    },
-    {
-      "from": "platform-decision-capture",
-      "to": "school_essay_final",
-      "rel": "points_to",
-      "label": "人工智能为何正在暴露现代学校教育的致命缺陷"
-    },
-    {
-      "from": "platform-decision-capture",
       "to": "the-collapsed-debate",
       "rel": "points_to",
       "label": "坍缩的辩论与正交的生存风险轴"
@@ -47303,21 +47285,9 @@
     },
     {
       "from": "platform-decision-capture",
-      "to": "cli-interface-stack",
-      "rel": "points_to",
-      "label": "The Interface Stack"
-    },
-    {
-      "from": "platform-decision-capture",
-      "to": "scaffolds-or-specialized-contexts",
-      "rel": "points_to",
-      "label": "Scaffolds or Specialized Contexts"
-    },
-    {
-      "from": "platform-decision-capture",
       "to": "school_essay_final",
       "rel": "points_to",
-      "label": "Why AI Is Exposing the Fatal Flaw in Modern Schooling"
+      "label": "人工智能为何正在暴露现代学校教育的致命缺陷"
     },
     {
       "from": "platform-decision-capture",
@@ -47333,9 +47303,21 @@
     },
     {
       "from": "platform-decision-capture",
+      "to": "school_essay_final",
+      "rel": "points_to",
+      "label": "Why AI Is Exposing the Fatal Flaw in Modern Schooling"
+    },
+    {
+      "from": "platform-decision-capture",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "platform-decision-capture",
+      "to": "scaffolds-or-specialized-contexts",
+      "rel": "points_to",
+      "label": "是脚手架还是特化语境"
     },
     {
       "from": "platform-decision-capture",
@@ -47345,9 +47327,27 @@
     },
     {
       "from": "platform-decision-capture",
+      "to": "scaffolds-or-specialized-contexts",
+      "rel": "points_to",
+      "label": "Scaffolds or Specialized Contexts"
+    },
+    {
+      "from": "platform-decision-capture",
+      "to": "cli-interface-stack",
+      "rel": "points_to",
+      "label": "界面栈与命令行基底"
+    },
+    {
+      "from": "platform-decision-capture",
       "to": "simplicity-ultimate-sophistication",
       "rel": "points_to",
       "label": "至简即至繁"
+    },
+    {
+      "from": "platform-decision-capture",
+      "to": "cli-interface-stack",
+      "rel": "points_to",
+      "label": "The Interface Stack"
     },
     {
       "from": "platform-decision-capture",
