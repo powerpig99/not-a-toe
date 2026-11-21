@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-21T20:21:46.253Z",
+    "generated_at": "2026-11-21T20:40:49.582Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -88,7 +88,7 @@
       "content/posts/evil-as-projected-resistance.md": "c84026a0d2e2",
       "content/posts/evil-as-the-minds-own-creation.md": "b0b74bc7b0b2",
       "content/posts/exceptionality-perception-and-the-self-limiting-field-of-problems.md": "48aa30d0dd92",
-      "content/posts/expertise-as-reference-not-replacement.md": "bc7d7364b559",
+      "content/posts/expertise-as-reference-not-replacement.md": "10eeb6dd208b",
       "content/posts/extended-cognition-refined.md": "8663360999f2",
       "content/posts/extension-and-shift.md": "bdb72c646856",
       "content/posts/externalized-virtue-becomes-its-opposite.md": "a0c1f4787547",
@@ -178,7 +178,7 @@
       "content/posts/ownership-and-self-worthiness.md": "7f7c75e93785",
       "content/posts/ownership-cost-freezes-lagged-averages-as-vehicle-property.md": "203f6367f923",
       "content/posts/perception-perspective-refined.md": "d9484330c5b9",
-      "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "c97351228409",
+      "content/posts/performative-hindsight-that-pretends-to-be-foresight.md": "f54eeadec188",
       "content/posts/pessimism-is-the-shadow-of-optimism.md": "aa49b94c3914",
       "content/posts/platform-decision-capture.md": "c1ce0036119a",
       "content/posts/po-chu-gai-nian-de-jian-yue.md": "c71369802649",
@@ -360,7 +360,7 @@
       "content/posts/the-orthogonal-refusal.md": "68eddc931d5a",
       "content/posts/the-other-coherence.md": "8dac9149aa79",
       "content/posts/the-paradox-of-fundamentals-is-the-unaware-switch-of-reference.md": "8a5dcab5164f",
-      "content/posts/the-paradoxical-nature-of-bystander-insights.md": "bcf79f9d0dc1",
+      "content/posts/the-paradoxical-nature-of-bystander-insights.md": "0bf0f5ca41bb",
       "content/posts/the-path-drawn-one-step-at-a-time.md": "96f964736bd4",
       "content/posts/the-perceiver-and-the-trace.md": "2f32c17041cd",
       "content/posts/the-potential-infinity-of-operators-and-the-finite-horizon-of-records.md": "8d14b5508798",
@@ -368,7 +368,7 @@
       "content/posts/the-presumption-of-agi-and-the-view-from-outside.md": "ece261d40134",
       "content/posts/the-price-of-closing-optionality.md": "6de4077a2517",
       "content/posts/the-question-that-installs-the-war.md": "63e4ec243e36",
-      "content/posts/the-ramble-within-the-ramble.md": "57566038f9e7",
+      "content/posts/the-ramble-within-the-ramble.md": "0fc8e5f33d89",
       "content/posts/the-rational-choice-postulate-is-the-original-sin.md": "e7860ba6a7fd",
       "content/posts/the-real-lesson-from-the-consciousness-vector-paper.md": "6036be35fe63",
       "content/posts/the-real-scarcity-is-not-memory-but-continuous-re-tracing.md": "e5b4c6a665d6",
@@ -482,10 +482,10 @@
     },
     "stats": {
       "posts": 455,
-      "edges": 13990,
-      "unique_directed": 6876,
+      "edges": 13992,
+      "unique_directed": 6877,
       "missing_targets": 0,
-      "one_way": 1508,
+      "one_way": 1509,
       "isolated": 0,
       "posts_with_outbound": 455,
       "book_pages": 16,
@@ -649,11 +649,11 @@
       "out_degree": 34
     },
     {
-      "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
+      "slug": "expertise-as-reference-not-replacement",
       "out_degree": 34
     },
     {
-      "slug": "two-failures-of-trace",
+      "slug": "the-delegation-of-the-task-and-the-inalienability-of-consequences",
       "out_degree": 34
     }
   ],
@@ -2895,9 +2895,9 @@
       "slug": "expertise-as-reference-not-replacement",
       "path": "content/posts/expertise-as-reference-not-replacement.md",
       "title": "专家经验作为参考而非替代 / Expertise as Reference, Not Replacement",
-      "hash": "bc7d7364b559",
+      "hash": "10eeb6dd208b",
       "in_degree": 28,
-      "out_degree": 33,
+      "out_degree": 34,
       "links_out": [
         "the-reality-distortion-field-names-the-closed-map",
         "ownership-cost-freezes-lagged-averages-as-vehicle-property",
@@ -2925,6 +2925,7 @@
         "how-belief-actually-changes",
         "machine-intelligence-as-the-combinatorial-feedback-loop-of-human-intelligence",
         "dynamic-resnet-of-skill-loops",
+        "mistaking-the-symptom-of-stability-for-its-source",
         "your-codebase-is-memory",
         "the-map-after-the-territory",
         "cheng-gong-xue",
@@ -4515,7 +4516,7 @@
       "path": "content/posts/mistaking-the-symptom-of-stability-for-its-source.md",
       "title": "把稳定的症状当作稳定的来源 / Mistaking the Symptom of Stability for Its Source",
       "hash": "c016f68c2992",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 11,
       "links_out": [
         "when-the-effect-authors-the-frame",
@@ -5474,7 +5475,7 @@
       "slug": "performative-hindsight-that-pretends-to-be-foresight",
       "path": "content/posts/performative-hindsight-that-pretends-to-be-foresight.md",
       "title": "伪装成远见的表演性后见 / Performative Hindsight That Pretends to Be Foresight",
-      "hash": "c97351228409",
+      "hash": "f54eeadec188",
       "in_degree": 21,
       "out_degree": 22,
       "links_out": [
@@ -10254,7 +10255,7 @@
       "slug": "the-paradoxical-nature-of-bystander-insights",
       "path": "content/posts/the-paradoxical-nature-of-bystander-insights.md",
       "title": "旁观者洞察的悖论 / The Paradoxical Nature of Bystander Insights",
-      "hash": "bcf79f9d0dc1",
+      "hash": "0bf0f5ca41bb",
       "in_degree": 24,
       "out_degree": 27,
       "links_out": [
@@ -10487,7 +10488,7 @@
       "slug": "the-ramble-within-the-ramble",
       "path": "content/posts/the-ramble-within-the-ramble.md",
       "title": "漫谈中的漫谈 / The Ramble Within the Ramble",
-      "hash": "57566038f9e7",
+      "hash": "0fc8e5f33d89",
       "in_degree": 10,
       "out_degree": 12,
       "links_out": [
@@ -28726,6 +28727,12 @@
     },
     {
       "from": "expertise-as-reference-not-replacement",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "把稳定的症状当作稳定的来源"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
@@ -28759,6 +28766,12 @@
       "to": "dynamic-resnet-of-skill-loops",
       "rel": "points_to",
       "label": "Modular Feedback Loops and Dynamic Residual Networks"
+    },
+    {
+      "from": "expertise-as-reference-not-replacement",
+      "to": "mistaking-the-symptom-of-stability-for-its-source",
+      "rel": "points_to",
+      "label": "Mistaking the Symptom of Stability for Its Source"
     },
     {
       "from": "expertise-as-reference-not-replacement",

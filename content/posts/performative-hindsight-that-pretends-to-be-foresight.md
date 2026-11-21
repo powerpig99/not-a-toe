@@ -2,17 +2,17 @@
 
 *被登记为远见的，是已经公开的成功，对照一幅被保留的早先不在意的图像重新描摹 / What gets registered as foresight is already-public success retraced against an earlier image of unconcern that was kept*
 
-社交媒体信息流里反复出现一种熟悉的形式：把一项如今已公开的成功，标记为早先被低估或无人看见的帖子。它在结果已经广为人知之后才抵达。这套模板重新描摹那段默默推进的工作序列、早先相对缺乏的关注，以及当下摆在台面上的表现证据，同时持守一个“早先便已看穿”的参照，好让事后的印证落在上头。冻结的正是那个参照；消解的是帖子仿佛完成了或传递了早期区分的表象；留存下来的，只是把现成可得的证据转化为共享对齐的当下行动。
+社交媒体信息流里反复出现一种熟悉的形式：这类帖子将如今已公开的成功，标记为早先被低估或无人看见。它在结果已经广为人知之后才抵达。这套模板重新描摹那段默默推进的工作序列、早先相对缺乏的关注，以及当下摆在台面上的表现证据，同时持守一个“早先便已看穿”的参照，好让事后的印证落在上头。冻结的正是那个参照；消解的是帖子仿佛完成了或传递了早期区分的表象；留存下来的，是把现成可得的证据转化为共享对齐的当下行动。
 
 In the scroll of social media a familiar form recurs: the post that marks a now-public success as previously underrated or invisible. It arrives after the outcome is already widely available. The template re-traces the quiet sequence of work, the earlier relative non-attention, and the current evidence of performance, holding a reference of early perception against which vindication lands. What freezes is that reference. What dissolves is the appearance that the post completes or transfers early distinguishing. What remains is a present conversion of already-available evidence into shared alignment.
 
 ## 一、 形式 / 1. The Form
 
-近期围绕杨植麟与月之暗面 Kimi K3 的赞誉便契合这一模板：接连迭代的模型发布汇聚成一个数万亿参数的开源权重系统，在独立基准测试中逼近前沿，随后被包装成“西方无人知晓”的创始人故事。这种框定并未捏造技术演进的序列；它植入了一个被保留的项——早先的未被识别——使得同一批公开痕迹读起来像是对先前区分的证实，而不再是场域自身的更新。
+近期围绕杨植麟与月之暗面 Kimi K3 的赞誉便契合这一模板：接连迭代的模型发布汇聚成一个数万亿参数的开源权重系统，在独立基准测试中逼近前沿，被框定为“西方无人知晓”的创始人故事。这种框定并未捏造技术演进的序列；它植入了一个被保留的项——早先的未被识别——使得同一批公开痕迹读起来像是对先前区分的证实，而不再是场域自身的更新。
 
 The recent celebration of Yang Zhilin and Moonshot AI’s Kimi K3 fits the template: successive model releases culminating in a multi-trillion-parameter open-weight system ranking near the frontier on independent benchmarks, framed as the founder “nobody in the West knew.” The framing does not invent the technical sequence. It installs a retained term—early non-recognition—so that the same public traces read as confirmation of prior distinction rather than as the field’s own update.
 
-这一行动发生在当下，运作于已经公开的痕迹之上。唯有当“无人看见”或“早先识出”的参照被持守着越过了那些痕迹已经公开的那一步，远见的结构才会显现。当下的证据对照那个被保留的参照登记下来，由此呈现出沉冤得雪或先见之明的样貌。观察持有结果，原因则始终领先一步——这正是[一步一步绘制出的路径](../the-path-drawn-one-step-at-a-time/)所追踪的同一种非对称。滞后在于把场域早先的一幅图像保留下来，好让结果作为启示落地。
+这一行动发生在当下，运作于已经公开的痕迹之上。唯有当“无人看见”或“早先识出”的参照被持守着越过了那些痕迹已经公开的那一步，远见的结构才会显现。当下的证据对照那个被保留的参照登记下来，由此呈现出先见终获印证的样貌。观察持有结果，原因则始终领先一步——这正是[一步一步绘制出的路径](../the-path-drawn-one-step-at-a-time/)所追踪的同一种非对称。滞后在于把场域早先的一幅图像保留下来，好让结果作为启示落地。
 
 The act is present. It operates on traces that are already public. The structure of foresight appears only while a reference of invisibility or early spotting is held past the step at which those traces became available. Current evidence registers against that retained reference and therefore appears as vindication. Observation holds effect; the cause remains one step ahead—the same asymmetry [The Path Drawn One Step at a Time](../the-path-drawn-one-step-at-a-time/) tracks. The lag is preservation of an earlier image of the field so the outcome can land as revelation.
 
@@ -28,7 +28,7 @@ Nothing is exact even at the moment of action. External tracing long past those 
 
 ## 三、 凝密为平台的相互强化 / 3. Mutual Reinforcement Densified as Platforms
 
-表现为平台的东西，是建造者、维护者与使用者之间一层已经稳定的、彼此强化的模式之模式。这一模式正是试图影响他人或受他人影响的公开表达，经由一轮又一轮的回返与再回返，直到排名、信息流与指标稳固为承载回返的媒介。高反差且已经稳妥的“揭秘”，正是这种强化最容易重新描摹的对象：一旦结果变得可测量，从相对无人问津走向聚光灯下的运动，便已经是寻求证实与供给证实的公开表达所采取的现成形式。在独立的证实抵达之前，对潜能的早期区分多半留在局部，共振也很低。迟来的帖子，只是围绕“重新找回的看见”所展开的同一种相互强化在凝密媒介上的一张面孔，而原本的工作仍在它一贯推进之处继续。[拥有更多从不是原因](../having-more-is-never-the-cause/)剖析的正是已经弥散在环境中的残余在这层凝密媒介上的现场攀升：占有被冻结为算术的唯一输入，而每一次关注仍是一次离散的偏好行动。超级智能的预言家则把一幅冻结的图像投向未来，那正是[超越的定相](../the-fixed-image-of-transcendence/)所审视的动作。
+表现为平台的东西，是建造者、维护者与使用者之间一层已经稳定的、彼此强化的模式之模式。这一模式正是试图影响他人或受他人影响的公开表达，经由一轮又一轮的回返与再回返，直到排名、信息流与指标稳固为承载回返的媒介。高反差且已经稳妥的“揭秘”，正是这种强化最容易重新描摹的对象：一旦结果变得可测量，从相对无人问津走向聚光灯下的这一段转向，原本就是公开表达寻求证实并供给证实的形式。在独立的证实抵达之前，对潜能的早期区分多半留在局部，共振也很低。迟来的帖子，是围绕“重新找回的看见”所形成的同一种相互强化凝密而成的一张面孔，而原本的工作仍在它一贯推进之处继续。[拥有更多从不是原因](../having-more-is-never-the-cause/)剖析的正是已经弥散在环境中的残余在这层凝密媒介上的现场攀升：占有被冻结为算术的唯一输入，而每一次关注仍是一次离散的偏好行动。超级智能的预言家则把一幅冻结的图像投向未来，那正是[超越的定相](../the-fixed-image-of-transcendence/)所审视的动作。
 
 What gets expressed as platforms is a stabilized pattern of reinforcing patterns among builders, maintainers, and users. That pattern is public expression trying to influence others, or to be influenced, returned and re-returned until ranking, feed, and metric hold as the medium of the return. High-contrast, already-safe revelation is what that reinforcement finds easy to re-trace: the movement from relative non-attention to spotlight once outcomes are measurable is already the form of public expression seeking confirmation and supply of confirmation. Early distinction of potentials tends to remain local and low-resonance until independent confirmation arrives. The late post is one densified face of the same mutual reinforcement around recovered noticing, while the original work continues where it always did. [Having More Is Never the Cause](../having-more-is-never-the-cause/) is the live climb of already-ambient residue on that densified medium: possession freezes as arithmetic’s sole input while every follow remains a discrete act of preference. The prophet of superintelligence projects a frozen image forward, the move [The Fixed Image of Transcendence](../the-fixed-image-of-transcendence/) examines.
 
@@ -38,17 +38,17 @@ Under that load, multiple axes press through the single post or retweet: curatio
 
 ## 四、 两种模式 / 4. Two Modes
 
-面对同一件器物，可以采取两种接触模式。一种模式强化那个被保留的参照以及伴随它的地位共振。延续从印证结构中汲取：下一步由“自己早就看准了”的感觉，或由加入这场“重新看见”的合唱来供给。[验证中因果权能的分配](../the-allocation-of-causal-power-in-validation/)精准指明的正是这一安放——究竟把哪一侧当作下一步的供给源。远见是在结果尚且开放时沿着路径迈出的下一步，也即[因果贯穿始终](../causality-all-the-way/)在每一个尺度上所追踪的进程。
+面对同一件器物，可以采取两种接触模式。一种模式强化那个被保留的参照以及伴随它的地位共振。延续从印证结构中汲取：下一步由“自己早就看准了”的感觉，或由加入这场“重新看见”的行列来供给。[验证中因果权能的分配](../the-allocation-of-causal-power-in-validation/)精准指明的正是这一安放——究竟把哪一侧当作下一步的供给源。远见是在结果尚且开放时沿着路径迈出的下一步，也即[因果贯穿始终](../causality-all-the-way/)在每一个尺度上所追踪的进程。
 
 The same artifact can be engaged in two modes. One mode reinforces the retained reference and the status resonance that accompanies it. Continuation is drawn from the vindication structure: the next step is supplied by the feeling of having been right, or of joining the recovery of noticing. [The Allocation of Causal Power in Validation](../the-allocation-of-causal-power-in-validation/) is that placement named precisely—which side is treated as supplying the next step. Foresight is the next step taken along the path while the outcome remains open, which [Causality All the Way](../causality-all-the-way/) follows at every scale.
 
-另一种模式则把帖子当作指向更多残余的残余——早先的访谈、跨迭代的架构取舍、模型发布的序列——并在自己当下的场域里重新渲染这些痕迹。这次重新渲染的价值，只存在于执行它的那道边缘所扩展开的区分之中。一旦这份区分反过来被持守并表达为一条可供分享的经验教训，运动便已经离开了在摩擦中检验它的心智；留下的只是残余，而接收残余并不会自动执行同一次递归。[生命的意义在起草之中](../the-meaning-of-life-is-in-the-drafting/)正是同一记切口在另一张面孔下的展开：向外看提供素材，唯有当回返迟迟不归家时，草稿才会变薄。正如[你的代码库即是记忆](../your-codebase-is-memory/)跨数字器物所追踪的，囤积未经修剪的历史快照、死分支或归档备份，只为防备其中某一个日后显得有先见之明，正是表演性后见在架构上的孪生形态：它用已被取代的旧状态加厚引力井，好让日后的公开结果可以事后匹配上某块被保存下来的碎片。活的记忆则向相反的方向整合，修剪低概率的过往残余，主动更新当下的工作检查点，只留下融贯的模型。
+另一种模式则把帖子当作指向更多残余的残余——早先的访谈、跨迭代的架构取舍、模型发布的序列——并在自己当下的场域里重新渲染这些痕迹。这次重新渲染的价值，只存在于执行它的那道边缘所扩展开的区分之中。一旦这份区分反过来被持守并表达为一条可供分享的经验教训，运动便已经离开了在摩擦中检验它的心智；留下的只是残余，而接收残余并不会自动执行同一次递归。[生命的意义在起草之中](../the-meaning-of-life-is-in-the-drafting/)正是同一记切口在另一张面孔下的展开：向外看提供素材，唯有当回返迟迟不归家时，草稿才会变薄。正如[你的代码库即是记忆](../your-codebase-is-memory/)跨数字器物所追踪的，囤积未经修剪的历史快照、死分支或归档备份，只为万一其中某一个日后显得有先见之明，正是表演性后见在架构上的孪生形态：它用已被取代的旧状态加厚引力井，好让日后的公开结果可以事后匹配上某块被保存下来的碎片。活的记忆则向相反的方向整合，修剪低概率的过往残余，主动更新当下的工作检查点，只留下融贯的模型。
 
 ```mermaid
 flowchart TD
     subgraph S_Hindsight["表演性后见（囤积过往快照以求事后印证）"]
         direction TB
-        Hoard["未修剪的快照囤积：被保留的早先不在意图像与过期归档"]
+        Hoard["未修剪的快照囤积：被保留的早先不在意图像与被取代的归档"]
         Public["已公开的结果：基准测试、模型发布与已验证的外部痕迹"]
         Retained["事后回溯匹配：把公开成功对照被保留的过往参照来衡量"]
         Vindication["模拟出的远见：用地位共振与事后印证替代下一次开放切割"]
@@ -60,11 +60,11 @@ flowchart TD
         direction TB
         OpenEdge["边缘处的区分：在当下场域中把公开痕迹读作残余"]
         ReRender["主动更新模型：将架构与发布痕迹重渲染进当下容量"]
-        Prune["定向修剪：丢弃低概率过往残余、死分支与印证框架"]
+        Prune["精准修剪：丢弃低概率过往残余、死分支与印证框架"]
         PresentCut["融贯的当下检查点：准备迈出下一步的澄明工作面"]
         OpenEdge --> ReRender --> Prune --> PresentCut
     end
-    Vindication ==> OpenEdge
+    Vindication ==>|"当被保留的参照松开时"| OpenEdge
     style S_Hindsight fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Living fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Hoard fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -99,7 +99,7 @@ flowchart TD
         PresentCut["Coherent Present Checkpoint: Unclouded surface ready for the next open step"]
         OpenEdge --> ReRender --> Prune --> PresentCut
     end
-    Vindication ==> OpenEdge
+    Vindication ==>|"When the preserved reference is released"| OpenEdge
     style S_Hindsight fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Living fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Hoard fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -118,16 +118,16 @@ flowchart TD
 
 Distinguishing potentials before their public actualization remains scarce because later resonance cannot install it. The abundant form—retrospective capitalization of public traces—is what mutual reinforcement among public expressions naturally carries when outcomes are already measurable. Distinguishing while the outcome is still open continues at the Minds that perform it, without waiting for confirming resonance. Any expression of the distinction, once packaged for sharing, follows the same structure: the live differentiation is left behind, and the form that circulates is residue. [When Observation Becomes Performance](../when-observation-becomes-performance/) is that packaging in aphoristic form: private conversion restated as wisdom and discipline so the form lands as transferable advice. Collective belief in a trend arrives after the trend, as [Symptom and Cause in the Narratives of Progress](../symptom-and-cause-in-the-narratives-of-progress/) shows.
 
-早期区分是在开放负荷之下的当下行动；晚期重描则是在结果已可测量之下的当下行动。二者各自在不同的条件下运作：前者在结果尚未存世前检验一记未经证实的切口，后者则在事后组织公开的痕迹。把二者混为一谈，就会把晚期的行动冻结得仿佛它是早期的那一次，并把信息流里的证实当作在证实尚未可得之前便已运作的容量，重演了[器物是智能的表达，而非智能本身](../two-failures-of-trace/)所追踪的那种偏误——即每当把残余持守为生成行动本身时所发生的冻结。转向内部时，后来的自我会在封闭前提下把一次亲历决断的某个解释切面冻结为整体，从而把同一种滞后强加给自身的历史，正如[旁观者洞察的悖论](../the-paradoxical-nature-of-bystander-insights/)所审视的那样。一旦化作可携带的教条，已告完成的卓越便如[成功学](../cheng-gong-xue/)所剖析的那样被逆向重排为法则，兜售为驱动下一个开放结果的引擎；先天禀赋如[好奇先行](../curiosity-first-the-hidden-engine-of-talent-and-development/)所指出的那样从成年后的成就倒推出来；而经济理论则在选择已经作出之后重构偏好排序，给出光鲜的表面可解释性，却对下一个私人前提毫无触及，正如[理性选择公设是原罪](../the-rational-choice-postulate-is-the-original-sin/)所追踪的那样。
+早期区分是在开放负荷之下的当下行动；晚期重描则是在结果已可测量之下的当下行动。二者各自在不同的条件下运作：前者在结果尚未存世前检验一记未经证实的切口，后者则在事后组织公开的痕迹。把二者混为一谈，就会把晚期的行动冻结得仿佛它是早期的那一次，并把信息流里的证实当作在证实尚未可得之前便已运作的容量，重演了[器物是智能的表达，而非智能本身](../two-failures-of-trace/)所追踪的那种偏误——即每当把残余持守为生成行动本身时所发生的冻结。转向内部时，后来的自我会在封闭前提下把一次亲历决断的某个解释切面冻结为整体，从而把同一种滞后强加给自身的历史，正如[旁观者洞察的悖论](../the-paradoxical-nature-of-bystander-insights/)所审视的那样。一旦化作可携带的教条，已告完成的卓越便如[成功学](../cheng-gong-xue/)所剖析的那样被逆向重排为法则，兜售为驱动下一个开放结果的引擎；先天禀赋如[好奇先行](../curiosity-first-the-hidden-engine-of-talent-and-development/)所指出的那样从成年后的成就倒推出来；而经济理论则在选择已经作出之后重构偏好排序，给出表面可解释性，却对下一个私人前提毫无触及，正如[理性选择公设是原罪](../the-rational-choice-postulate-is-the-original-sin/)所追踪的那样。
 
 Early distinction is a present act under open load; late re-tracing is a present act under already-measurable outcomes. Each operates under its own conditions: the first tests an unverified cut before results exist, while the second organizes public traces after the fact. Confusing them freezes the late act as if it were the early one and treats feed confirmation as the capacity that operated before confirmation was available, repeating the error traced in [Artifacts Are Expressions of Intelligence, Not Intelligence Itself](../two-failures-of-trace/) whenever residue is held as the generating act. Turned inward, a later self imposes the same lag on its own history by freezing one interpretive slice of a lived decision as the whole under closed premises, as [The Paradoxical Nature of Bystander Insights](../the-paradoxical-nature-of-bystander-insights/) examines. Turned into portable doctrine, finished excellence is rearranged backward into principles offered as engines of the next open outcome in [Theories After Success](../cheng-gong-xue/), innate gift is read backward from adult achievement in [Curiosity First](../curiosity-first-the-hidden-engine-of-talent-and-development/), and economic theory reconstructs preference orderings after choices have already been made, yielding surface explainability with zero reach into the next private premise, as [The Rational Choice Postulate Is the Original Sin](../the-rational-choice-postulate-is-the-original-sin/) traces.
 
-在范式与制度的尺度上，每当一项未入图的突破强行撕开专家共识，同一种事后封闭便会改写基线。当结果仍在争议之中时，在不完备专家残余之下持续推进的执行，被神秘化为一种扭曲封闭世界的特殊魔力，正如[现实扭曲力场指认的是封闭的地图](../the-reality-distortion-field-names-the-closed-map/)所指出的；一旦突破站稳脚跟，历史便如[现实扭曲力场颠倒了基线](../the-reality-distortion-field-inverts-the-baseline/)所追踪的那样被重写，使得先前的共识显得只是一段温和的预备阶段，而非它当初所声称的不可撼动的地基；而当否认再也无法维持时，成就便如[进步的多面手](../the-utility-men-of-progress/)所刻画的那样被吸纳进集体智慧，发起者的署名则随之隐退。跨越社会冲突与面向未来的框定，把一幅图像持守着越过它自己那一步，同样会生出平行的颠倒：早先协作留下的残余效应被逆向误读成必须加以讨伐的首要阻力，如[共同改变的本源](../the-source-of-shared-change/)所剖析；又或者当直接接触变薄时，靠重新命名把任何未来的天气预先划归给一幅被保存的危机图像，如[气候问题只作为感知被登记](../the-climate-problem-registers-only-as-perception/)所揭示。
+在范式与制度的尺度上，每当一项未入图的突破强行撕开专家共识，同一种事后封闭便会改写基线。当结果仍在争议之中时，在不完备专家残余之下持续推进的执行，被神秘化为一种扭曲封闭世界的特殊魔力，正如[现实扭曲力场指认的是封闭的地图](../the-reality-distortion-field-names-the-closed-map/)所指出的；一旦突破站稳脚跟，历史便如[现实扭曲力场颠倒了基线](../the-reality-distortion-field-inverts-the-baseline/)所追踪的那样被重写，使得先前的共识显得只是一段温和的预备阶段，而非它当初所声称的不可撼动的地基；而当否认再也无法维持时，成就便如[进步的多面手](../the-utility-men-of-progress/)所刻画的那样被吸纳进集体智慧，发起的作者身份则随之隐退。跨越社会冲突与面向未来的框定，把一幅图像持守着越过它自己那一步，同样会生出平行的颠倒：早先协作留下的残余效应被逆向误读成必须加以对抗的首要阻力，如[共同改变的本源](../the-source-of-shared-change/)所剖析；又或者当直接接触变薄时，靠重新命名把任何未来的天气预先划归给一幅被保存的危机图像，如[气候问题只作为感知被登记](../the-climate-problem-registers-only-as-perception/)所揭示。
 
 At the scale of paradigms and institutions, the same retrospective closure rewrites the baseline whenever an unmapped breakthrough forces open an expert consensus. While the outcome is still contested, sustained execution under incomplete expert residue is mystified as a charismatic power to warp a closed world ([The Reality Distortion Field Names the Closed Map](../the-reality-distortion-field-names-the-closed-map/)); once the breakthrough holds, history is rewritten so prior consensus appears as a modest preliminary stage rather than the unshakeable ground it once claimed ([The Reality Distortion Field Inverts the Baseline](../the-reality-distortion-field-inverts-the-baseline/)), and once denial fails completely, the achievement is absorbed into collective wisdom while the initiating authorship recedes ([The Utility Men of Progress](../the-utility-men-of-progress/)). Across social conflict and prospective framing, preserving an image past its step produces the parallel inversions: residual effects of earlier collaboration are misread backward as primary resistance that must be fought ([The Source of Shared Change](../the-source-of-shared-change/)), or any future weather is pre-allocated by renaming to a preserved crisis image once direct contact thins ([The Climate Problem Registers Only as Perception](../the-climate-problem-registers-only-as-perception/)).
 
 ## 六、 当下行动 / 6. Present Act
 
-公开表达仍会更容易在对成功的优雅重描中找到相互强化，而不是在对可能性的未定表达中找到。这正是试图影响他人与受他人影响的各个心智之间的共振结构——也即在建造者、维护者与使用者之间稳定为平台的同一结构。那篇帖子只是把现成可得的证据转化为共享对齐的当下行动。接触可以扩展当下的分化；扩展之后，具体的形式便可以消解。早期的边缘从不在帖子里。它留在了当结果尚且开放时便作出区分的心智之中——并且只在过剩滞后得以收窄、趁证实尚未抵达便划出下一道区分的地方继续推进。正如[前因，后果](../qian-yin-hou-guo/)所言，观察始终站在结果这一侧，因此后见无法变成远见。
+公开表达仍会更容易在对成功的优雅重描中找到相互强化，而不是在对可能性的未定表达中找到。这正是试图影响他人与受他人影响的各个心智之间的共振结构——也即在建造者、维护者与使用者之间稳定为平台的同一结构。那篇帖子是把现成可得的证据转化为共享对齐的当下行动。接触可以扩展当下的分化；扩展之后，具体的形式便可以消解。早期的边缘从不在帖子里。它留在了当结果尚且开放时便作出区分的心智之中——并且只在过剩滞后得以收窄、趁证实尚未抵达便划出下一道区分的地方继续推进。正如[前因，后果](../qian-yin-hou-guo/)所言，观察始终站在结果这一侧，因此后见无法变成远见。
 
 Public expression will continue to find mutual reinforcement more readily in the elegant re-tracing of success than in the uncertain articulation of possibility. That is the structure of resonance among Minds trying to influence and to be influenced—the same structure that stabilizes as platforms among builders, maintainers, and users. The post is a present conversion of already-available evidence into shared alignment. Contact can expand present differentiation. After that expansion, the specific form can dissolve. The early edge was never in the post. It stayed with the Mind that distinguished while the outcome was still open—and it continues only where excess lag is narrowed and the next distinction is drawn before confirmation arrives. Observation always stands on the side of the effect, as [Cause Before, Effect After](../qian-yin-hou-guo/) says, so hindsight cannot become foresight.
