@@ -45,3 +45,4 @@ The essays in this part examine the closed premises of the rational choice postu
 - [继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction](../../posts/inheritance-as-residue-and-the-need-for-extraction/)
 - [扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts](../../posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts/)
 - [本地屏障与残余滞后 / The Local Shield and the Residual Lag](../../posts/the-local-shield-and-the-residual-lag/)
+- [边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement](../../posts/generation-beyond-the-boundary-and-internal-rearrangement/)

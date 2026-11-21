@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-21T05:23:45.858Z",
+    "generated_at": "2026-11-21T07:24:00.834Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -103,6 +103,7 @@
       "content/posts/gao-wei-xin-xi-de-li-san-zhe-she.md": "7a391cf44a4d",
       "content/posts/ge-ren-xuan-ze-she-hui-hua-yu-zuo-zi-ji-de-zhen-zheng-zuo-biao.md": "65e04ccfde33",
       "content/posts/ge-wu-zhi-zhi-yu-xin-xi-fu-za-du-de-ben-zhi.md": "f2777f5600d2",
+      "content/posts/generation-beyond-the-boundary-and-internal-rearrangement.md": "8b4073939ec1",
       "content/posts/good-and-evil-are-the-two-sides-of-the-coin-and-the-cut.md": "e21403fb50ae",
       "content/posts/grok-420-framework-drift.md": "8bdca7e537fb",
       "content/posts/guan-yu-gui-yin.md": "da039a5a5061",
@@ -464,8 +465,8 @@
       "content/posts/zuo-jian-bu-shi-zi-fu.md": "b28d61994639",
       "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "5fd937c16807",
-      "content/book/economics.md": "0252a0c728cf",
-      "content/book/index-of-premises.md": "fe6d524909ba",
+      "content/book/economics.md": "6a10f39cef21",
+      "content/book/index-of-premises.md": "3af53c16f0e3",
       "content/book/intelligence.md": "20d575920ac7",
       "content/book/knowledge-and-learning.md": "60b558ba8715",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -480,16 +481,16 @@
       "content/book/tools-and-progress.md": "7af75e4b8b67"
     },
     "stats": {
-      "posts": 454,
-      "edges": 13938,
-      "unique_directed": 6852,
+      "posts": 455,
+      "edges": 13968,
+      "unique_directed": 6865,
       "missing_targets": 0,
-      "one_way": 1486,
+      "one_way": 1499,
       "isolated": 0,
-      "posts_with_outbound": 454,
+      "posts_with_outbound": 455,
       "book_pages": 16,
-      "book_edges": 1486,
-      "posts_reached_by_book": 454
+      "book_edges": 1497,
+      "posts_reached_by_book": 455
     }
   },
   "hubs_in": [
@@ -507,7 +508,7 @@
     },
     {
       "slug": "openness-is-consistency",
-      "in_degree": 96
+      "in_degree": 97
     },
     {
       "slug": "intelligence-belongs-only-to-the-mind",
@@ -515,7 +516,7 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 77
+      "in_degree": 78
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
@@ -523,7 +524,7 @@
     },
     {
       "slug": "no-system-can-be-kept-closed",
-      "in_degree": 70
+      "in_degree": 71
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -542,12 +543,12 @@
       "in_degree": 44
     },
     {
-      "slug": "the-allocation-of-causal-power-in-validation",
+      "slug": "production-consumption-and-the-minds-distinction",
       "in_degree": 43
     },
     {
-      "slug": "production-consumption-and-the-minds-distinction",
-      "in_degree": 42
+      "slug": "the-allocation-of-causal-power-in-validation",
+      "in_degree": 43
     },
     {
       "slug": "clarity-isnt-a-state-you-arrive-at",
@@ -3267,6 +3268,31 @@
       ]
     },
     {
+      "id": "post:generation-beyond-the-boundary-and-internal-rearrangement",
+      "kind": "post",
+      "slug": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "path": "content/posts/generation-beyond-the-boundary-and-internal-rearrangement.md",
+      "title": "边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement",
+      "hash": "8b4073939ec1",
+      "in_degree": 0,
+      "out_degree": 13,
+      "links_out": [
+        "the-scaffolding-we-forget",
+        "the-local-shield-and-the-residual-lag",
+        "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+        "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+        "inheritance-as-residue-and-the-need-for-extraction",
+        "relative-differentials-and-the-compounding-of-comparison",
+        "production-consumption-and-the-minds-distinction",
+        "no-system-can-be-kept-closed",
+        "war-revolution-and-the-fall-of-empires",
+        "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+        "the-frontier-lifts-the-floor",
+        "the-extendable-horizon",
+        "openness-is-consistency"
+      ]
+    },
+    {
       "id": "post:good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
       "kind": "post",
       "slug": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
@@ -3840,7 +3866,7 @@
       "path": "content/posts/inheritance-as-residue-and-the-need-for-extraction.md",
       "title": "继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction",
       "hash": "0c7ba216c8ac",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 15,
       "links_out": [
         "your-codebase-is-memory",
@@ -4693,7 +4719,7 @@
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "没有系统能被保持封闭 / No System Can Be Kept Closed",
       "hash": "95f8f98fd0ff",
-      "in_degree": 70,
+      "in_degree": 71,
       "out_degree": 68,
       "links_out": [
         "openness-is-consistency",
@@ -5189,7 +5215,7 @@
       "path": "content/posts/openness-is-consistency.md",
       "title": "开放即一致 / Openness Is Consistency",
       "hash": "de9e7ea03986",
-      "in_degree": 96,
+      "in_degree": 97,
       "out_degree": 90,
       "links_out": [
         "the-path-drawn-one-step-at-a-time",
@@ -5778,7 +5804,7 @@
       "path": "content/posts/production-consumption-and-the-minds-distinction.md",
       "title": "生产、消费与心智的区分 / Production, Consumption, and the Mind's Distinction",
       "hash": "a4228e0e32b6",
-      "in_degree": 42,
+      "in_degree": 43,
       "out_degree": 41,
       "links_out": [
         "openness-is-consistency",
@@ -6014,7 +6040,7 @@
       "path": "content/posts/relative-differentials-and-the-compounding-of-comparison.md",
       "title": "相对差异与复利比较 / Relative Differentials and the Comparison of Compounding",
       "hash": "f8158105eaa9",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 14,
       "links_out": [
         "agency-compounding-and-the-argument-over-ai-feudalism",
@@ -8113,7 +8139,7 @@
       "path": "content/posts/the-extendable-horizon.md",
       "title": "可延展的地平线 / The Extendable Horizon",
       "hash": "b2ada327f796",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 18,
       "links_out": [
         "the-arithmetic-of-the-register",
@@ -8452,7 +8478,7 @@
       "path": "content/posts/the-frontier-lifts-the-floor.md",
       "title": "前沿抬升底线 / The Frontier Lifts the Floor",
       "hash": "8247d376babf",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 15,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -9463,7 +9489,7 @@
       "path": "content/posts/the-local-shield-and-the-residual-lag.md",
       "title": "本地屏障与残余滞后 / The Local Shield and the Residual Lag",
       "hash": "344110f3b769",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 17,
       "links_out": [
         "the-invisible-first-move",
@@ -10731,7 +10757,7 @@
       "path": "content/posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations.md",
       "title": "排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations",
       "hash": "af7bc733c8fe",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 12,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -11003,7 +11029,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "遗忘的脚手架 / The Scaffolding We Forget",
       "hash": "c1628ffd356a",
-      "in_degree": 77,
+      "in_degree": 78,
       "out_degree": 71,
       "links_out": [
         "the-extendable-horizon",
@@ -11150,7 +11176,7 @@
       "path": "content/posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts.md",
       "title": "扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts",
       "hash": "97fa53f31ce5",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 10,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -11861,7 +11887,7 @@
       "path": "content/posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy.md",
       "title": "福利国家的幻象 / The Welfare State Illusion",
       "hash": "e9b13d45153e",
-      "in_degree": 8,
+      "in_degree": 9,
       "out_degree": 12,
       "links_out": [
         "residual-individualism",
@@ -12182,7 +12208,7 @@
       "path": "content/posts/war-revolution-and-the-fall-of-empires.md",
       "title": "战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires",
       "hash": "964c92de37bd",
-      "in_degree": 5,
+      "in_degree": 6,
       "out_degree": 13,
       "links_out": [
         "the-mirror-handshake-of-power",
@@ -30792,6 +30818,186 @@
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
       "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "the-local-shield-and-the-residual-lag",
+      "rel": "points_to",
+      "label": "本地屏障与残余滞后"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "the-local-shield-and-the-residual-lag",
+      "rel": "points_to",
+      "label": "The Local Shield and the Residual Lag"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+      "rel": "points_to",
+      "label": "福利国家的幻象"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "the-welfare-state-illusion-cost-diffusion-and-agency-atrophy",
+      "rel": "points_to",
+      "label": "The Welfare State Illusion"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "the-local-shield-and-the-residual-lag",
+      "rel": "points_to",
+      "label": "本地屏障与残余滞后"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "the-local-shield-and-the-residual-lag",
+      "rel": "points_to",
+      "label": "The Local Shield and the Residual Lag"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "rel": "points_to",
+      "label": "排序的残余与解释的非等效"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "inheritance-as-residue-and-the-need-for-extraction",
+      "rel": "points_to",
+      "label": "继承的残余与索取的必要"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
+      "rel": "points_to",
+      "label": "The Residue of Sorting and the Non-Equivalence of Interpretations"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "inheritance-as-residue-and-the-need-for-extraction",
+      "rel": "points_to",
+      "label": "Inheritance as Residue and the Need for Extraction"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "relative-differentials-and-the-compounding-of-comparison",
+      "rel": "points_to",
+      "label": "相对差异与复利比较"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "relative-differentials-and-the-compounding-of-comparison",
+      "rel": "points_to",
+      "label": "Relative Differentials and the Comparison of Compounding"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "生产、消费与心智的区分"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "production-consumption-and-the-minds-distinction",
+      "rel": "points_to",
+      "label": "Production, Consumption, and the Mind's Distinction"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "war-revolution-and-the-fall-of-empires",
+      "rel": "points_to",
+      "label": "战争、革命与帝国的衰落"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "rel": "points_to",
+      "label": "扩张的序列与局部解释的边界"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "war-revolution-and-the-fall-of-empires",
+      "rel": "points_to",
+      "label": "War, Revolution, and the Fall of Empires"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+      "rel": "points_to",
+      "label": "The Sequence of Expansion and the Boundary of Local Accounts"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "the-frontier-lifts-the-floor",
+      "rel": "points_to",
+      "label": "前沿抬升底线"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "the-frontier-lifts-the-floor",
+      "rel": "points_to",
+      "label": "The Frontier Lifts the Floor"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "the-extendable-horizon",
+      "rel": "points_to",
+      "label": "可延展的地平线"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "开放即一致"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "the-extendable-horizon",
+      "rel": "points_to",
+      "label": "The Extendable Horizon"
+    },
+    {
+      "from": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "to": "openness-is-consistency",
+      "rel": "points_to",
+      "label": "Openness Is Consistency"
     },
     {
       "from": "good-and-evil-are-the-two-sides-of-the-coin-and-the-cut",
@@ -96616,8 +96822,8 @@
         "slug": "economics",
         "path": "content/book/economics.md",
         "title": "经济秩序与微观选择 / Economic Order and Microscopic Choices",
-        "hash": "0252a0c728cf",
-        "out_degree": 33
+        "hash": "6a10f39cef21",
+        "out_degree": 34
       },
       {
         "id": "book:index-of-premises",
@@ -96625,8 +96831,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "fe6d524909ba",
-        "out_degree": 454
+        "hash": "3af53c16f0e3",
+        "out_degree": 455
       },
       {
         "id": "book:intelligence",
@@ -97393,6 +97599,12 @@
         "label": "本地屏障与残余滞后 / The Local Shield and the Residual Lag"
       },
       {
+        "from": "book:economics",
+        "to": "generation-beyond-the-boundary-and-internal-rearrangement",
+        "rel": "collects",
+        "label": "边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement"
+      },
+      {
         "from": "book:index-of-premises",
         "to": "the-twin-paradox-and-the-hidden-observer",
         "rel": "collects",
@@ -98045,6 +98257,30 @@
         "to": "all-that-can-be-spoken-is-the-product-of-the-unspeakable",
         "rel": "collects",
         "label": "凡可言说皆不可言说之产物 / All That Can Be Spoken Is the Product of the Unspeakable"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "war-revolution-and-the-fall-of-empires",
+        "rel": "collects",
+        "label": "战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
+        "rel": "collects",
+        "label": "扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "relative-differentials-and-the-compounding-of-comparison",
+        "rel": "collects",
+        "label": "相对差异与复利比较 / Relative Differentials and the Comparison of Compounding"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "generation-beyond-the-boundary-and-internal-rearrangement",
+        "rel": "collects",
+        "label": "边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement"
       },
       {
         "from": "book:index-of-premises",
@@ -99554,6 +99790,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "generation-beyond-the-boundary-and-internal-rearrangement",
+        "rel": "collects",
+        "label": "边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "symptom-and-cause-in-the-narratives-of-progress",
         "rel": "collects",
         "label": "进步叙事中的症候与原因 / Symptom and Cause in the Narratives of Progress"
@@ -99674,6 +99916,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "generation-beyond-the-boundary-and-internal-rearrangement",
+        "rel": "collects",
+        "label": "边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "observation-lag-and-the-inversion-of-optionality",
         "rel": "collects",
         "label": "观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality"
@@ -99683,6 +99931,12 @@
         "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
         "rel": "collects",
         "label": "排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "generation-beyond-the-boundary-and-internal-rearrangement",
+        "rel": "collects",
+        "label": "边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement"
       },
       {
         "from": "book:index-of-premises",
@@ -102146,6 +102400,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "generation-beyond-the-boundary-and-internal-rearrangement",
+        "rel": "collects",
+        "label": "边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "coordinate-systems-mind-and-degrees-of-freedom",
         "rel": "collects",
         "label": "坐标系、心智与自由度 / Coordinate Systems, the Mind, and Degrees of Freedom"
@@ -103124,6 +103384,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "generation-beyond-the-boundary-and-internal-rearrangement",
+        "rel": "collects",
+        "label": "边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-free-mind-is-displaced-by-what-claims-to-protect-it",
         "rel": "collects",
         "label": "自由的心智被声称保护它的东西取代 / The Free Mind Is Displaced by What Claims to Protect It"
@@ -103559,6 +103825,12 @@
         "to": "observation-lag-and-the-inversion-of-optionality",
         "rel": "collects",
         "label": "观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "generation-beyond-the-boundary-and-internal-rearrangement",
+        "rel": "collects",
+        "label": "边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement"
       },
       {
         "from": "book:intelligence",

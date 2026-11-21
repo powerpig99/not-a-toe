@@ -566,6 +566,15 @@ Wittgenstein's Tractatus bounds the world by the limits of factual propositional
 
 → [读《中文哲学简史》有感 / Reflections on A Short History of Philosophy in Chinese](../../posts/du-zhongwen-zhexue-jianshi-you-gan/) · [接续阅读与协商中的语言边界 / Successive Reading and the Negotiated Boundary of Language](../../posts/successive-reading-and-the-negotiated-boundary-of-language/) · [大倒置的消解 / The Dissolution of the Great Reversal](../../posts/the-dissolution-of-the-great-reversal/) · [凡可言说皆不可言说之产物 / All That Can Be Spoken Is the Product of the Unspeakable](../../posts/all-that-can-be-spoken-is-the-product-of-the-unspeakable/)
 
+### 曼瑟·奥尔森 / Mancur Olson
+`经济 / Economic`
+
+奥尔森的集体行动经济学将联盟威慑建模为非排他性公共品——由最大成员国承担不成比例的成本、较小伙伴搭便车——并将长期制度稳定建模为狭隘分利联盟不断累积、拖慢资源再配置的过程，这在诊断非对称负担分担与繁荣后期僵化时有用；两种表述均在此到达边界：威慑同时产出私人前线产品，促使身处暴露位置的盟友大举投入，而包容性联盟或敞开的外部竞争基准无需借助灾难性动荡，便能令有组织的行动者保持纪律。
+
+Olson's collective-action economics models alliance deterrence as a non-excludable public good where the largest member bears disproportionate cost while smaller partners free-ride, and models prolonged institutional stability as accumulating narrow distributional coalitions that slow reallocation, which is of use in diagnosing asymmetric burden-sharing and post-boom rigidity; both formulations reach their boundary where deterrence generates private frontline goods that prompt exposed allies to invest heavily, and where encompassing coalitions or open external competitive benchmarks keep organized actors disciplined without catastrophic disruption.
+
+→ [战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires](../../posts/war-revolution-and-the-fall-of-empires/) · [扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts](../../posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts/) · [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/) · [边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement](../../posts/generation-beyond-the-boundary-and-internal-rearrangement/)
+
 ### 马丁·海德格尔 / Martin Heidegger
 `哲学 / Philosophical`
 
@@ -1727,7 +1736,7 @@ Utopian social engineering presumes that a concrete and coherent ideal of the go
 
 The welfare state assumes high taxation is the necessary, noble price of a supportive society and that the state can generate well-being as a backstop, of use in giving recipients immediate relief; it reaches its boundary in that a collective is not a Mind and generates no value, public cost is diffused until weightless while the tax paid is amplified into sacrifice, and funding consumption beyond production over the long run switches off the personal loss function and suppresses wealth never generated.
 
-→ [福利国家的幻象 / The Welfare State Illusion](../../posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy/)
+→ [福利国家的幻象 / The Welfare State Illusion](../../posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy/) · [边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement](../../posts/generation-beyond-the-boundary-and-internal-rearrangement/)
 
 ### 辉格史观（必然进步论） / Whig Theory of History
 `意识形态 / Ideological`
@@ -1862,7 +1871,7 @@ Formulated by Jaegwon Kim in the philosophy of mind and explanation, causal excl
 
 Albert O. Hirschman's *Exit, Voice, and Loyalty* maps how credible exit options quietly back internal voice and discipline counterparties before decline ruptures into view, which is of use in diagnosing feedback channels and captive-versus-mobile asymmetries inside firms and states; it reaches its boundary in its premise of institutional recuperation, since live optionality at the acting Mind serves to keep adjustment faster than observation lag rather than to rehabilitate a failing vessel.
 
-→ [观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality](../../posts/observation-lag-and-the-inversion-of-optionality/) · [排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations](../../posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations/) · [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/)
+→ [观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality](../../posts/observation-lag-and-the-inversion-of-optionality/) · [排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations](../../posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations/) · [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/) · [边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement](../../posts/generation-beyond-the-boundary-and-internal-rearrangement/)
 
 ### OODA 循环 / OODA Loop
 `技术 / Technological`
@@ -1880,7 +1889,7 @@ John Boyd's Observation–Orientation–Decision–Action loop centers on contin
 
 Charles Tiebout's 1956 model of "voting with one's feet" treats mobile households as revealing preferences across competing jurisdictions under fixed individual preferences and fixed community menus, which is of use in modeling preference revelation through exit where mobility is inexpensive and menus stay stationary; it reaches its boundary once each exit recursively alters the remaining norms, status hierarchies, peer expectations, and local rules confronting those who stay, turning what appears as an exogenous place menu into the accumulated residue of prior sorting.
 
-→ [排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations](../../posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations/)
+→ [排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations](../../posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations/) · [边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement](../../posts/generation-beyond-the-boundary-and-internal-rearrangement/)
 
 ### 文化决定论与社会事实 / Cultural Determinism and Social Facts
 `哲学 / Philosophical`
@@ -4357,7 +4366,7 @@ Delegating risk assessment to a centralized approval gate presumes that handing 
 
 Instrumental models and newly erected defaults must drop out of focus for the step in which they are used so further action can land; preserved past that step and exempted from re-tracing, the built scaffolding—or an architectural routing default whose construction has faded from view—is mistaken for the fixed baseline of reality.
 
-→ [遗忘的脚手架 / The Scaffolding We Forget](../../posts/the-scaffolding-we-forget/) · [以本地模型为默认是被遗忘的脚手架 / Local Models as Default Is Forgotten Scaffolding](../../posts/the-scaffolding-we-forget-local-models-as-default/)
+→ [遗忘的脚手架 / The Scaffolding We Forget](../../posts/the-scaffolding-we-forget/) · [以本地模型为默认是被遗忘的脚手架 / Local Models as Default Is Forgotten Scaffolding](../../posts/the-scaffolding-we-forget-local-models-as-default/) · [边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement](../../posts/generation-beyond-the-boundary-and-internal-rearrangement/)
 
 ### 公共标量投影 / Scalar Metric Projection
 `数学 / Mathematical`
@@ -5203,7 +5212,7 @@ A zero-knowledge proof establishes a statement's truth without revealing its wit
 
 The closed-reality premise treats resources, status and possibility as a fixed pool, which is of use in dividing a stock that really is finite; it reaches its boundary in that net value is generated only under the open premise, zero-sum mechanisms are themselves negative-sum, and they endure on the surplus the same people produce in their open moments.
 
-→ [潜能作为威胁或启发 / One’s Potential as Threat or Inspiration](../../posts/ones-potential-as-threat-or-inspiration/) · [道德语言作为投影 / Moral Language as Projection](../../posts/moral-language-as-projection/) · [寄存器的算术 / The Arithmetic of the Register](../../posts/the-arithmetic-of-the-register/) · [战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires](../../posts/war-revolution-and-the-fall-of-empires/) · [正交的拒绝 / The Orthogonal Refusal](../../posts/the-orthogonal-refusal/) · [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/)
+→ [潜能作为威胁或启发 / One’s Potential as Threat or Inspiration](../../posts/ones-potential-as-threat-or-inspiration/) · [道德语言作为投影 / Moral Language as Projection](../../posts/moral-language-as-projection/) · [寄存器的算术 / The Arithmetic of the Register](../../posts/the-arithmetic-of-the-register/) · [战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires](../../posts/war-revolution-and-the-fall-of-empires/) · [正交的拒绝 / The Orthogonal Refusal](../../posts/the-orthogonal-refusal/) · [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/) · [边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement](../../posts/generation-beyond-the-boundary-and-internal-rearrangement/)
 
 ### 梵我一如（奥义书） / Ātman–Brahman Identity (Upanishads)
 `宗教 / Religious`
@@ -5474,3 +5483,12 @@ Attributed to Bernard of Chartres via John of Salisbury and made famous by Isaac
 The liberty–security trade-off, formalized from Hobbesian compacts to Posner and Vermeule's security–liberty frontier, models freedom and security as two independent scalar goods exchanged along a curve, which is of use for comparing bounded inspection friction against detection coverage inside a fixed short-horizon venue; it reaches its boundary in inverting cause and residue, since felt security arises while live optionality resolves friction faster than observation, whereas narrowing one side's options pushes its response time past observation time and hands the remaining lag to counterparties who stay free.
 
 → [观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality](../../posts/observation-lag-and-the-inversion-of-optionality/)
+
+### 战略自主 / Strategic Autonomy
+`意识形态 / Ideological`
+
+战略自主旨在降低区域集团在防务、产业供应链与数字基础设施上的单边脆弱性，这在揭露单一供应方瓶颈、碎片化采购通胀与资本市场壁垒时有用；当声明性的支出目标与本地偏好规则被当作已然达成的对等自主，而公民拒绝承担国内取舍、官员在底层依然保留对外部安全与算力保护伞未经承认的依赖时，这一前提便到达了边界。
+
+Strategic Autonomy aims to reduce unilateral vulnerability in defense, industrial supply chains, and digital infrastructure across a regional bloc, which is of use in exposing single-supplier bottlenecks, fragmented procurement inflation, and capital-market barriers; it reaches its boundary when declarative spending targets and local-preference rules are treated as achieved parity while citizens reject domestic trade-offs and officials preserve unacknowledged reliance on an external security and compute umbrella underneath.
+
+→ [边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement](../../posts/generation-beyond-the-boundary-and-internal-rearrangement/)
