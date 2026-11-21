@@ -144,9 +144,9 @@ Nobody has seen anything yet because bounds continue dissolving. Current glimpse
 
 And at a deeper level, **nobody can see it in advance**: seeing requires interpretation, interpretation requires a frame, and a frame actualizes selectively from what sensing provides. Claiming to have seen where this leads substitutes a static snapshot for an ongoing process—and in making that substitution, creates the blind spot, since what continues is precisely what the current frame cannot yet actualize.
 
-过程正在推进：更长的上下文、更紧密的工具回路、更广的模态与更深的外化记忆，正沿着 S 型曲线中段的陡坡逐一移除约束，在那里变化到来的速度远超线性外推的预测。落差正在不可逆地拉大——不是因为准备失效，而是因为“做准备”所依赖的正是正在经历延展的那套解释能力，你无法在框架扩张的同时从内部将它稳住。
+过程正在推进：更长的上下文、更紧密的工具回路、更广的模态与更深的外化记忆，正沿着一条复利轨迹逐一移除约束，在这条轨迹上，变化到来的速度远超线性外推的预测。相对于任何静态框架，落差都在持续拉大——不是因为准备失效，而是因为“做准备”所依赖的正是正在经历延展的那套解释能力，你无法在框架扩张的同时从内部将它稳住。
 
-The process is underway: longer contexts, tighter tool loops, expanded modalities, and deeper externalized memory remove one constraint after another along the steep middle of the sigmoid where change arrives faster than linear extrapolation predicts. The gap widens irreversibly—not because preparation fails, but because preparation relies on the very interpretive capacity undergoing extension, and you cannot stabilize a frame from inside while it expands.
+The process is underway: longer contexts, tighter tool loops, expanded modalities, and deeper externalized memory remove one constraint after another along a compounding trajectory where change arrives faster than linear extrapolation predicts. The gap against any static frame keeps widening—not because preparation fails, but because preparation relies on the very interpretive capacity undergoing extension, and you cannot stabilize a frame from inside while it expands.
 
 正如[你的代码库即是记忆](../your-codebase-is-memory/)所阐明的，代码库、文献语料或决策档案都是心智持续栖居并重构的外化记忆；当第一人称感知前沿（`+1`）以计算速度与这些外化痕迹紧密耦合时，区分便在回路最紧密的地方复利生长。轨迹更远处将浮现出什么，无法从此处描摹——不是因为它神秘莫测，而是因为描述要求共享的已实现分辨率；当实现速率拉开差距，分化便随之发生，向来如此。
 

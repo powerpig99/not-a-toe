@@ -19,23 +19,23 @@ flowchart TD
     subgraph S_Loop["防务委派与声明—否定耦合闭环"]
         direction TB
         Delegate["委派分离：问题承受者付费雇佣独立实体，后者的营收取决于问题的存续"]
-        Blind["感知范畴极限：商业财务指标将威胁的根除登记为可触达市场的萎缩"]
+        Blind["感知范畴极限：营收指标将威胁根除登记为市场萎缩"]
         Couple["声明与否定的耦合：“我们保护你”的声明依赖并放大被感知威胁的持续存在"]
+        Preempt["先发成本倒置：无上界的预期支出远超有界的事后恢复"]
         Delegate --> Blind --> Couple
+        Couple ==>|"放大被感知的风险以证成不断扩张的防务开销"| Preempt
     end
-    subgraph S_Invert["先发成本倒置与主权归位"]
+    subgraph S_Direct["活的前沿上的主权所有权"]
         direction TB
-        Preempt["无上界的先发防御支出：由恐惧驱动的预防开销远超有界的事后恢复成本"]
-        Direct["收回因果所有权 (+1)：将验证留在委托人手中，并越过工具保持开放"]
-        Preempt --> Direct
+        Direct["收回因果所有权 (+1)：保持系统可恢复，把验证留在委托人手中，并越过工具保持开放"]
     end
-    Couple ==>|"持续通胀风险感知以证成不断膨胀的防务预算"| Preempt
+    Preempt -.->|"退回委托人所在的边缘而消解"| Direct
     style S_Loop fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style S_Invert fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Direct fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Delegate fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Blind fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Couple fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Preempt fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Preempt fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Direct fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
@@ -48,21 +48,21 @@ flowchart TD
         Delegate["Delegation Split: The problem-holder pays a separate entity whose revenue depends on the problem"]
         Blind["Categorical Perception Limit: Revenue metrics register threat eradication as market contraction"]
         Couple["Claim-Negation Coupling: 'We protect you' requires and amplifies perceived threat persistence"]
+        Preempt["Preemptive Cost Inversion: Unbounded anticipatory spend dwarfs bounded post-hoc recovery"]
         Delegate --> Blind --> Couple
+        Couple ==>|"Inflates perceived risk to justify expanding defensive overhead"| Preempt
     end
-    subgraph S_Invert["Preemptive Cost Inversion vs. Direct Ownership"]
+    subgraph S_Direct["Sovereign Ownership at the Living Edge"]
         direction TB
-        Preempt["Unbounded Preemptive Spend: Anticipatory fear dwarfs bounded post-hoc recovery costs"]
-        Direct["Reclaiming Causal Ownership (+1): Keep verification with the principal, held open past the tool"]
-        Preempt --> Direct
+        Direct["Reclaiming Causal Ownership (+1): Keep systems recoverable and verification with the principal, held open past the tool"]
     end
-    Couple ==>|"Inflates perceived risk to justify expanding defensive overhead"| Preempt
+    Preempt -.->|"Dissolved by stepping back to the principal's edge"| Direct
     style S_Loop fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
-    style S_Invert fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Direct fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Delegate fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Blind fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Couple fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Preempt fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
+    style Preempt fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
     style Direct fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
@@ -80,7 +80,7 @@ This exposes the preemptive cost inversion at the core of threat-dependent indus
 
 同一几何结构同样贯穿于商业保险、合规官僚体系与防务同盟等一切以威胁存续为生存底座的机构。在保险公司的资产负债表上，保费高出预期赔付额的每一分钱——包括精算行政、理赔核查、营销渠道与利润留存——都是消费者为规避低概率波动而向中介支付的纯摩擦溢价，而中介的商业模式恰恰要求被感知的风险高于实际赔付。
 
-The same structural geometry generalizes across insurance, compliance bureaucracies, and defense alliances whose institutional survival depends on the hazard they were chartered to address. On an insurance balance sheet, every dollar of premium above expected payouts—all actuarial overhead, claims administration, marketing, and profit—is the surcharge paid to an intermediary whose business model requires risk perception to exceed actual loss.
+The same structural geometry generalizes across insurance, compliance bureaucracies, and defense alliances whose institutional survival depends on the hazard they were chartered to address. On an insurance balance sheet, every dollar of premium above expected payouts—all actuarial overhead, claims administration, marketing, and profit—is the pure friction surcharge consumers pay to hedge low-probability volatility, paid to an intermediary whose business model requires perceived risk to exceed actual payouts.
 
 在所有这些现象底下运转的都是同一条根源算术：一旦问题的承受者把解决问题的任务委派给一个按持续维护收费的外部实体，代理者的感知器官就会把问题的延续登记为稳定，把问题的恶化登记为增长。正如[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)与[你的代码库即是记忆](../your-codebase-is-memory/)所确立的，外部厂商与智能体可以代为执行具体流程，但架构后果的主权从不曾离开第一人称的承受者；唯有把代码库与系统的可恢复性、精简度与直接验证留在活生生的心智边缘，优化地貌上才会真正出现“问题解决”这一吸引盆。
 
