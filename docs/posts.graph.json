@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-21T09:21:44.159Z",
+    "generated_at": "2026-11-21T09:56:28.206Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -197,7 +197,7 @@
       "content/posts/reality-is-the-minds-ongoing-realization.md": "812768c94db5",
       "content/posts/rebellion-as-symptom-not-property.md": "ed414a5f0b75",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "c12a17f1cc71",
-      "content/posts/relative-differentials-and-the-compounding-of-comparison.md": "f8158105eaa9",
+      "content/posts/relative-differentials-and-the-compounding-of-comparison.md": "a5e6c9f1628d",
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "a8f8212b9511",
       "content/posts/residual-control-recedes-to-the-edge.md": "3de7bf12eb33",
       "content/posts/residual-individualism.md": "ce5cf1738f1e",
@@ -434,7 +434,7 @@
       "content/posts/two-failures-of-trace.md": "3ac21a2fda4a",
       "content/posts/two-phase-sleep-and-deep-sleep-continual-learning.md": "6ce604fb8a71",
       "content/posts/wai-bu-gui-yin-ge-ren-jin-bu-de-zhang-ai.md": "fe621a27cbe8",
-      "content/posts/war-revolution-and-the-fall-of-empires.md": "964c92de37bd",
+      "content/posts/war-revolution-and-the-fall-of-empires.md": "5efb7733070b",
       "content/posts/what-always-listens-cannot-originate.md": "ba33a730c065",
       "content/posts/what-cannot-be-kept.md": "71103f772ff6",
       "content/posts/what-hinton-failed-to-understand.md": "5b9aba9df3f3",
@@ -482,10 +482,10 @@
     },
     "stats": {
       "posts": 455,
-      "edges": 13968,
-      "unique_directed": 6865,
+      "edges": 13970,
+      "unique_directed": 6866,
       "missing_targets": 0,
-      "one_way": 1499,
+      "one_way": 1498,
       "isolated": 0,
       "posts_with_outbound": 455,
       "book_pages": 16,
@@ -3274,7 +3274,7 @@
       "path": "content/posts/generation-beyond-the-boundary-and-internal-rearrangement.md",
       "title": "边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement",
       "hash": "b3038ee28ac4",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 13,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -6039,7 +6039,7 @@
       "slug": "relative-differentials-and-the-compounding-of-comparison",
       "path": "content/posts/relative-differentials-and-the-compounding-of-comparison.md",
       "title": "相对差异与复利比较 / Relative Differentials and the Comparison of Compounding",
-      "hash": "f8158105eaa9",
+      "hash": "a5e6c9f1628d",
       "in_degree": 4,
       "out_degree": 14,
       "links_out": [
@@ -12207,9 +12207,9 @@
       "slug": "war-revolution-and-the-fall-of-empires",
       "path": "content/posts/war-revolution-and-the-fall-of-empires.md",
       "title": "战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires",
-      "hash": "964c92de37bd",
+      "hash": "5efb7733070b",
       "in_degree": 6,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "the-mirror-handshake-of-power",
         "the-name-revolution-files-a-life-as-evidence",
@@ -12222,6 +12222,7 @@
         "boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems",
         "your-codebase-is-memory",
         "agency-compounding-and-the-argument-over-ai-feudalism",
+        "generation-beyond-the-boundary-and-internal-rearrangement",
         "self-worthiness-reverse-wealth-transfer-and-the-trap-of-past-success",
         "the-scaffolding-we-forget"
       ]
@@ -91655,9 +91656,21 @@
     },
     {
       "from": "war-revolution-and-the-fall-of-empires",
+      "to": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "rel": "points_to",
+      "label": "边界之外的生成与内部重排"
+    },
+    {
+      "from": "war-revolution-and-the-fall-of-empires",
       "to": "agency-compounding-and-the-argument-over-ai-feudalism",
       "rel": "points_to",
       "label": "Agency, Compounding, and the Argument Over AI Feudalism"
+    },
+    {
+      "from": "war-revolution-and-the-fall-of-empires",
+      "to": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "rel": "points_to",
+      "label": "Generation Beyond the Boundary and Internal Rearrangement"
     },
     {
       "from": "war-revolution-and-the-fall-of-empires",
