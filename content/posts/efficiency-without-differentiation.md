@@ -6,7 +6,7 @@
 
 There is a growing discourse around AI tools that centers on cost: how to switch models to save tokens, how to do the same task cheaper, how to optimize workflows for speed. None of this is wrong inside a closed specification, yet it mistakes the denominator for the equation.
 
-当一个人把成本当作独立自变量来优化时，他便切断了成本与成本本该服务之物——产出——之间的关联。成本本身成了终极目标。投入与生产之间的反馈回路就此断裂，剩下的只是电子表格管理，而非真正的作业。
+当一个人把成本当作独立自变量来优化时，便切断了成本与成本本该服务之物——产出——之间的关联。成本本身成了目标。投入与生产之间的反馈回路就此断裂，剩下的只是电子表格管理，而非真正的作业。
 
 When someone optimizes cost as an independent variable, they sever it from what cost is supposed to serve—output. Cost becomes its own objective. The feedback loop between input and production breaks. What remains is spreadsheet management, not work.
 
@@ -14,23 +14,23 @@ When someone optimizes cost as an independent variable, they sever it from what 
 
 The confusion persists because optimization and minimization produce identical observables when output is held stable. Not when output actually *is* stable—output is rarely stable. The environment shifts, possibilities expand, requirements evolve. But the minimizer holds output as stable because that is the condition under which cost makes sense as an independent variable. The stability is not observed—it is imposed to preserve the frame.
 
-这种假象靠主动压制来维持。新的可能性被归档为噪声，不断延展的前沿被压平为“同样的活，干得更便宜”，异常现象则被塞进既有的分类抽屉里。产出之所以显得稳定，是因为最小化者预先划定了语境边界，把一切会戳破这种稳定假象的因素都排除在外。一旦这种压制失效——当外部条件发生无可回避的剧变时——真正的优化者会顺应工作的需求果断上调投入；而最小化者则会顽抗到底，因为他们早已锁死了错误的不变量。到了那时，他们围绕削减成本建立起了习惯、身份认同乃至组织架构，原本必要的动态调整反而被读取为系统的溃败，而非系统的正常运作。
+这种假象靠主动压制来维持。新的可能性被归档为噪声，不断延展的前沿被压平为“同样的活，干得更便宜”，异常现象则被塞进既有的分类抽屉里。产出之所以显得稳定，是因为最小化者预先划定了语境边界，把一切会戳破这种稳定假象的因素都排除在外。一旦这种压制失效——当条件发生无可回避的变化时——优化者会顺应工作的需求上调投入；而最小化者则会顽抗到底，因为他们早已锁死了错误的不变量。到了那时，他们围绕削减成本建立起了习惯、身份认同乃至组织架构，原本必要的动态调整反而被读取为系统的溃败，而非系统的正常运作。
 
 This is actively maintained. New possibilities get filed as noise, the expanding frontier gets flattened into "same task, do it cheaper," and anomalies get wrapped into existing categories. Output looks stable because the minimizer has defined their context to exclude everything that would reveal it is not. The moment that suppression fails—when conditions shift undeniably—the optimizer scales input upward because the work demands it. The minimizer resists, because they have locked onto the wrong invariant. And by then they have built habits, identity, and organizational structure around cost reduction. The necessary adjustment registers as failure rather than as the system working properly.
 
 ## 一、 语境损毁问题 / 1. The Context Destruction Problem
 
-每一次模型切换都会摧毁累积的语境。共同的工作记忆、校准过的沟通默契、多轮交互建立起来的隐性理解——这一切都会瞬间归零。这并非无足轻重的损耗。语境累积正是这些工具产出实际价值的核心机制：正如[你的代码库即是记忆](../your-codebase-is-memory/)所确立的，代码库或工作会话中外化的痕迹构成了结构性脚手架，使鲜活的领航边缘得以做出更高阶的区分，而不必每次都从零开始重新推导此前的每一道边界。在摧毁语境纵深的同时优化 token 成本，是在优化一个显眼的分母，同时却在清算那个使复合生产成为可能的累积痕迹基底。
+在任务中途切换模型，会摧毁尚未折入检查点的工作语境。共同的工作记忆、校准过的沟通默契，以及多轮交互间在区分落定前建立的隐性对齐——这一切都会瞬间归零。这并非无足轻重的损耗。正如[你的代码库即是记忆](../your-codebase-is-memory/)所确立的，折叠进代码库或当下检查点的外化痕迹构成了结构性脚手架，使鲜活的领航边缘得以跨步骤——乃至跨模型切换——做出更高阶的区分，而不必从零重新推导此前的每一道边界；反之，越过自身那一步仍囤积原始会话历史，只会增厚滞后。在区分尚未落定进那层持久基底之前，便在遍历中途切断活跃的工作会话，是在优化一个显眼的分母，同时却在清算复合生产所需的活态痕迹。
 
-Every model switch destroys accumulated context. The shared working memory, the calibrated communication patterns, the implicit understanding built over turns—all of it resets. This is not a minor inefficiency. Context accumulation is the mechanism through which these tools generate their actual value: as [Your Codebase Is Memory](../your-codebase-is-memory/) establishes, externalized traces in a repository or working session form the structural scaffolding that lets the living steering edge draw higher-order distinctions without re-deriving every prior boundary from scratch. Optimizing token cost while destroying contextual depth optimizes a visible denominator while liquidating the accumulated trace substrate that makes compound production possible.
+Switching models mid-task destroys un-checkpointed working context. The shared working memory, the calibrated communication patterns, the implicit alignment built over turns before a distinction settles—all of it resets. This is not a minor inefficiency. As [Your Codebase Is Memory](../your-codebase-is-memory/) establishes, externalized traces folded into a repository or present checkpoint form the structural scaffolding that lets the living steering edge draw higher-order distinctions across steps—and across model switches—without re-deriving every prior boundary from scratch, whereas hoarding raw session history past its step only thickens lag. Severing an active working session mid-traversal before its distinctions settle into that durable substrate optimizes a visible denominator while liquidating the live trace needed for compound production.
 
-讽刺之处还在叠加：只要工作跨越单轮交互，脱离产出的成本最小化反而会推高实际总成本。丢失语境后，不得不额外耗费三轮交互去重建它，账面上省下的那点余额便荡然无存——无论以 token 计价，还是以远为昂贵的注意力与推进势能计价，皆是如此。
+讽刺之处还在叠加：只要工作跨越单轮交互，脱离产出的成本最小化反而会推高实际总成本。丢掉那条工作线索后，不得不额外耗费三轮交互去重建它，账面上省下的那点余额便荡然无存——无论以 token 计价，还是以远为昂贵的注意力与推进势能计价，皆是如此。
 
-The irony compounds: detached minimization increases effective cost whenever work spans more than a single turn. Lose context, spend three extra rounds rebuilding it, and the "savings" evaporate—measured in tokens and in the far more expensive currency of attention and momentum.
+The irony compounds: detached minimization increases effective cost whenever work spans more than a single turn. Lose that working thread, spend three extra rounds rebuilding it, and the "savings" evaporate—measured in tokens and in the far more expensive currency of attention and momentum.
 
 ## 二、 作为涌现属性的效率与作为强加约束的效率 / 2. Efficiency as Emergent Property vs. Imposed Constraint
 
-从专注生产中自然涌现的效率，与作为前置约束强加的效率，在结构上截然不同。当你专注于自己真正想要创造的产出时，成本会自我组织。你会自然而然地为特定的任务选用趁手的工具——不是因为你在算计开销，而是因为手头的活计本身指定了工具。成本曲线会追随价值曲线。正如[清单合上之后，胜过免费](../better-than-free-after-the-checklist-closes/)所阐明的，一旦既定清单合上，唯有持续的区分才能让价值保持鲜活。
+从专注生产中自然涌现的效率，与作为约束强加的效率，在结构上截然不同。当你专注于自己真正想要创造的产出时，成本会自我组织。你会自然而然地为特定的任务选用趁手的工具——不是因为你在算计开销，而是因为手头的活计本身指定了工具。成本曲线会追随价值曲线。正如[清单合上之后，胜过免费](../better-than-free-after-the-checklist-closes/)所阐明的，一旦清单合上，唯有区分才能让价值保持鲜活。
 
 There is a structural difference between efficiency that emerges from focused production and efficiency imposed as a constraint. When you are focused on what you are actually trying to produce, cost self-organizes. You naturally use the right tool for the right task—not because you are managing cost, but because the work itself dictates the tool. The cost curve follows the value curve. Once the checklist closes, only differentiation keeps value alive, as [Better Than Free After the Checklist Closes](../better-than-free-after-the-checklist-closes/) lays out.
 
@@ -41,14 +41,14 @@ flowchart TD
     subgraph S_Min["脱离产出的成本最小化（没有存在的运动）"]
         direction TB
         M_Fix["强加的稳定：将产出冻结为常量以孤立成本"]
-        M_Switch["语境损毁：切换工具重置累积的工作记忆"]
+        M_Switch["语境损毁：中途切换工具重置未折入检查点的工作记忆"]
         M_Loop["封闭重复：以更低开销运行同一划分而不产生新边界"]
         M_Fix --> M_Switch --> M_Loop
     end
     subgraph S_Diff["生产与区分（成本追随价值）"]
         direction TB
         D_Open["敞开的分子：拓展此前未曾开启的可能"]
-        D_Context["累积语境：在多轮交互间存续外化记忆"]
+        D_Context["检查点语境：将挣得的区分折叠进外化记忆"]
         D_Cut["全新划分：向未测绘的空间划出新边界"]
         D_Open --> D_Context --> D_Cut
     end
@@ -70,14 +70,14 @@ flowchart TD
     subgraph S_Min["Detached Cost Minimization (Movement Without Existence)"]
         direction TB
         M_Fix["Imposed Stability: Output frozen as a constant to isolate cost"]
-        M_Switch["Context Destruction: Switching tools resets accumulated working memory"]
+        M_Switch["Context Destruction: Switching tools mid-task resets un-checkpointed working memory"]
         M_Loop["Closed Repetition: Running the same partition cheaper without new boundaries"]
         M_Fix --> M_Switch --> M_Loop
     end
     subgraph S_Diff["Production & Differentiation (Cost Follows Value)"]
         direction TB
         D_Open["Open Numerator: Expanding what was not possible before"]
-        D_Context["Accumulated Context: Preserving externalized memory across turns"]
+        D_Context["Checkpointed Context: Folding earned distinctions into externalized memory"]
         D_Cut["New Partition: Drawing fresh boundaries into unmapped space"]
         D_Open --> D_Context --> D_Cut
     end
