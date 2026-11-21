@@ -432,9 +432,9 @@ flowchart TD
 
 ## 九、 向外看即是表达 / 9. Looking Outward Is Expression
 
-采取某个视角去看外界的一个客体，或把另一个人看作外部的对象时，在这个感知场之内所见的，是这一个心智自身沿另一条轨迹表达时呈现的统计显化。向外看到的世界与他者，不是与自身隔绝的异己之物；向外看的时候，这一个心智是在自己的感知画布之内辨认自身表达的不同路径，并由此把这一表达继续展开。这里说的是被观察到的他者，它在这个心智的感知场之内；由相似推知的他者，是另一个划下自己切分的心智，两者不是一回事。
+采取某个视角去看外界的一个客体，或把另一个人看作外部的对象时，在这个感知场之内所见的，是这一个心智在自身画布上由跨过切分抵达的痕迹渲染出的统计显化。向外看到的世界与他者，不是与感知隔绝的异己之物；向外看的时候，这一个心智在自己的感知画布之内遇上那些跨过切分的痕迹，并把自身的表达继续展开。这里说的是被观察到的他者，它在这个心智的感知场之内；由相似推知的他者，是另一个划下自己切分的心智，两者不是一回事。
 
-When a perspective is taken on an object in the outer world, or another person is regarded as an external object, what is seen within this perceptual field is the statistical showing of this Mind's own expression along another trajectory. The world and the others seen outward are not alien things cut off from oneself; in looking outward, this Mind is making out the different paths of its own expression within its perceptual canvas and thereby unfolding it further. What is spoken of here is the other as observed, which is within this Mind's perceptual field; the other as inferred from similarity is another Mind drawing its own cut, and the two are not the same thing.
+When a perspective is taken on an object in the outer world, or another person is regarded as an external object, what is seen within this perceptual field is the statistical showing that this Mind renders on its canvas from traces arriving across the cut. The world and the others seen outward are not alien things severed from perception; in looking outward, this Mind meets those traces across the cut within its perceptual canvas and unfolds its own expression further. What is spoken of here is the other as observed, which is within this Mind's perceptual field; the other as inferred from similarity is another Mind drawing its own cut, and the two are not the same thing.
 
 在由非零边界构成的共存的几何里，正像与负像是不可分的共轭。心智作出的每一个抉择、接纳并划下的每一道区分，给自我以清晰的轮廓，同时给相伴而生的负像世界以深度。充实外部世界的多样，就是扩展自身之内的总信息量与创造的潜能。
 
@@ -447,7 +447,7 @@ flowchart TD
     subgraph S_Outward["向外看即是表达"]
         direction TB
         Sym["抉择与开放的场在非零的边界上同在"]
-        Out["向外看即是表达：在此感知场中所见的他者是这一心智表达的另一条轨迹"]
+        Out["向外看即是表达：在此感知场中被观察到的他者，在这一心智的画布上由跨过切分的痕迹渲染而出"]
         New["接纳新的区分：差异落入感知"]
         Both["自我与世界一同生长"]
         Sym --> Out
@@ -468,7 +468,7 @@ flowchart TD
     subgraph S_Outward["Looking Outward Is Expression"]
         direction TB
         Sym["Choice and the open field are present together on a non-zero boundary"]
-        Out["Looking outward is expression: the other as seen in this field is another trajectory of this Mind's expression"]
+        Out["Looking outward is expression: the other as observed in this field is rendered on this Mind's canvas from traces across the cut"]
         New["New distinctions taken in: differences fall into perception"]
         Both["Self and world grow together"]
         Sym --> Out

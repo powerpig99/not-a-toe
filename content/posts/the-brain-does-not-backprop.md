@@ -2,9 +2,9 @@
 
 *大脑是心智顺着所感差异正向传导时的具身 / The brain is embodiment as the Mind propagates forward by sensed difference*
 
-大脑不进行反向传播，因为它没有预设的目标。它借由心智，沿着所感知的梯度正向传导，而这一梯度登记着因与果之间鲜活的差异。那些把智能定位于神经组织内部、并将其中发现的机制视为自足解释的论述，都始于心智已经把大脑认作自身形态之后。这一认同作为工作器具行之有效，却从不标示心智所在的位置。
+大脑不进行反向传播，因为它没有预设的目标。心智借由大脑，沿着所感知的梯度正向传导，而这一梯度登记着因与果之间鲜活的差异。那些把智能定位于神经组织内部、并将其中发现的机制视为自足解释的论述，都始于心智已经把大脑认作自身形态之后。这一认同作为工作器具行之有效，却从不标示心智所在的位置。
 
-The brain does not backpropagate because it has no preset goal. It propagates forward through the Mind along the sensed gradient, which registers the living difference between cause and effect. Accounts that locate intelligence inside neural tissue and treat the mechanisms discovered there as self-sufficient begin only after the Mind has already taken the brain as its form. That identification is effective as a working instrument, yet it never marks the location of the Mind.
+The brain does not backpropagate because it has no preset goal. Through the brain, the Mind propagates forward along the sensed gradient, which registers the living difference between cause and effect. Accounts that locate intelligence inside neural tissue and treat the mechanisms discovered there as self-sufficient begin only after the Mind has already taken the brain as its form. That identification is effective as a working instrument, yet it never marks the location of the Mind.
 
 ## 一、 具身不是心智 / 1. Embodiment Is Not the Mind
 
