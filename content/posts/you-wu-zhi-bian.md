@@ -14,9 +14,9 @@ The world encountered in experience is this inner world: within it there is an "
 
 ## 二、 纠结 / 2. Entanglement
 
-纠结发生在两条线之间：“我是因”——活在自我世界的主动；“他是因”——活在他人世界的被动。两者各自成立，被压成一条：必须二选一。不是改选边，是解除共用坐标——每个中心保留自己的边界，共振发生，但不交出位置。
+纠结发生在两条线之间：“我是因”——在自身边界发起区分；“他是因”——另一个中心在它的边界发起自己的行动，其痕迹作为条件抵达，却不替这个中心写下这一步。两者在各自轴线上成立，然而把二者压进同一个共用坐标，就变成强迫二选一：要么宣称自己是两边的作者，要么在投射出的他人世界里将自己登记为被动承受作用的一方。出路不是改选边，而是解除强行共用的坐标——每个中心保留自己的边界，共振发生，但不交出位置。
 
-Entanglement happens between two lines: "I am the cause"—acting within the self-world; and "they are the cause"—being acted upon within the other-world. Each holds on its own axis, yet both get compressed into one: a forced choice between the two. The way out is not switching sides, but releasing the forced sharing of coordinates—each center keeps its own boundary, resonance occurs, and no locus is surrendered.
+Entanglement happens between two lines: "I am the cause"—initiating distinctions at one's own boundary—and "they are the cause"—another center initiating its own acts at its boundary, whose traces arrive as conditions without authoring this center's step. Each holds on its own axis, yet compressing both onto one shared coordinate turns them into a forced choice: either claiming to author both sides, or registering oneself as passively acted upon inside a projected other-world. The way out is not switching sides, but releasing the forced sharing of coordinates—each center keeps its own boundary, resonance occurs, and no locus is surrendered.
 
 ## 三、 有无 / 3. Being and Non-Being
 

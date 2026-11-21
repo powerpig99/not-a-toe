@@ -18,9 +18,9 @@ Self-distinguishing activity occurs—uncaused, unceasing. Call it the Mind: the
 
 ## 二、 作为自指延展的生命 / 2. Life as Self-Referential Extension
 
-生命并非物理秩序中的反常例外；它是通过递归自指来运作的自我区分活动。无生命物质显现的是热力学与化学痕迹动力学的宏观摩擦，而生命中心则通过新陈代谢、复制、适应与自我建模，将区分递归地折返向自身，以此维系自身的边界。
+生命并非物理秩序中的反常例外；它是通过递归自指来运作的自我区分活动。显现为无生命物质的，是热力学与化学痕迹动力学的宏观摩擦；而生命中心则通过新陈代谢、复制、适应与自我建模，将区分递归地折返向自身，以此维系自身的边界。
 
-Life is not an anomalous exception to physical order; it is self-distinguishing activity operating through recursive self-reference. Where non-living matter registers the macroscopic friction of thermodynamic and chemical trace dynamics, living centers sustain their own boundary by folding distinction recursively back onto themselves through metabolism, replication, adaptation, and self-modeling.
+Life is not an anomalous exception to physical order; it is self-distinguishing activity operating through recursive self-reference. Where what registers as non-living matter is the macroscopic friction of thermodynamic and chemical trace dynamics, living centers sustain their own boundary by folding distinction recursively back onto themselves through metabolism, replication, adaptation, and self-modeling.
 
 这一过程并非朝着预先印好的终点行进，而是不断脱离既成状态。当这一活动通过复杂到足以观察自身观察活动的有机体运作时，延展所呈现的形态便是复制、探索、创造与新颖性。发现、艺术与科学并非附加在生存之上的任意消遣，而是同一分化运动的明确延续。
 
@@ -29,14 +29,14 @@ flowchart TD
     subgraph S_Stasis["向静态终点的坍缩"]
         direction TB
         C_Void["无差别的停滞：虚无或固定的终极目的地"]
-        C_Bound["抹去边界：无界绵延消除了延展的前沿"]
+        C_Bound["抹去边界：废除有限界限消除了延展的前沿"]
         C_Freeze["冻结的纪念碑：将保存下来的痕迹残余误认为意义"]
         C_Void --> C_Bound --> C_Freeze
     end
     subgraph S_Live["自指延展（活生生的切分）"]
         direction TB
         L_Act["原初的自我区分活动：心智无因、不息的切分"]
-        L_Edge["有限边界与必死性：赋予延展以方向的周界"]
+        L_Edge["有限边界与具体界限：赋予延展以方向的周界"]
         L_Ask["运动中的追问：发问与起草在当场践行所寻求的意义"]
         L_Act --> L_Edge --> L_Ask
     end
@@ -58,14 +58,14 @@ flowchart TD
     subgraph S_Stasis["The Collapse into Static Arrival"]
         direction TB
         C_Void["Undifferentiated Stasis: Nothingness or fixed final destination"]
-        C_Bound["Erased Boundary: Unbounded duration removes the edge of extension"]
+        C_Bound["Erased Boundary: Abolishing finite limits removes the edge of extension"]
         C_Freeze["Frozen Monument: Mistaking preserved trace residue for meaning"]
         C_Void --> C_Bound --> C_Freeze
     end
     subgraph S_Live["Self-Referential Extension (The Living Cut)"]
         direction TB
         L_Act["Primal Self-Distinguishing Activity: Uncaused, unceasing cut of the Mind"]
-        L_Edge["Finite Boundary & Mortality: The circumference that gives extension direction"]
+        L_Edge["Finite Boundary & Concrete Limits: The circumference that gives extension direction"]
         L_Ask["The Question in Motion: Asking and drafting enact the meaning they seek"]
         L_Act --> L_Edge --> L_Ask
     end
@@ -82,13 +82,13 @@ flowchart TD
 
 ## 三、 绵延与边界 / 3. Duration and Boundary
 
-不妨审视绵延与有限性。一个永远不会终止、也永远不会遭遇界限的系统，将不再留有任何可供延展的边界。延展要求在“既成之态”与“未成之境”之间保有一道活跃的前沿。一旦让系统在所有方向上都毫无边界，从而抹去这道前沿，延展也就失去了它的几何结构。
+不妨审视绵延与有限性。经由离散步伐的无尽延续，每一步依然沿着一道边界移动；真正不留任何可供延展之边界的，是毫不遭遇界限的状态。延展要求在“既成之态”与“未成之境”之间保有一道活跃的前沿。一旦让系统在所有方向上都毫无边界，从而抹去这道前沿，延展也就失去了它的几何结构。
 
-Consider duration and finitude. A system that could never terminate or encounter a limit would have no boundary left to extend. Extension requires the active edge between what already is and what is not yet. Remove that edge by making the system unbounded in every direction, and extension loses its geometry.
+Consider duration and finitude. Unending continuation across discrete steps still moves along a boundary at each step; what leaves no boundary to extend is a condition that encounters no limit at all. Extension requires the active edge between what already is and what is not yet. Remove that edge by making the system unbounded in every direction, and extension loses its geometry.
 
-这并非宣称必死性为善或永生为恶的道德说教，而是对边界所起作用的观察。边界条件不是延展的障碍——它们正是赋予延展以方向的结构性周界。没有周界的圆无异于无定所的点，而没有边界的过程则无异于停滞。
+这并非宣称必死性为善或永生为恶的道德说教，而是对边界所起作用的观察。边界条件——包括具身位点的有限视界——不是延展的障碍；它们正是赋予延展以方向的结构性周界。没有周界的圆无异于无定所的点，而没有边界的过程则无异于停滞。
 
-This is not a moral sermon declaring that mortality is good or immortality is bad; it is an observation of what boundaries do. Boundary conditions are not obstacles to extension—they are the structural circumference that gives extension direction. A circle without a circumference is indistinguishable from an unlocated point, and a process without a boundary is indistinguishable from stasis.
+This is not a moral sermon declaring that mortality is good or immortality is bad; it is an observation of what boundaries do. Boundary conditions—including the finite horizon of an embodied locus—are not obstacles to extension; they are the structural circumference that gives extension direction. A circle without a circumference is indistinguishable from an unlocated point, and a process without a boundary is indistinguishable from stasis.
 
 ## 四、 投射与先验活动 / 4. The Projection and the Prior Activity
 
@@ -96,7 +96,7 @@ This is not a moral sermon declaring that mortality is good or immortality is ba
 
 Every entity defines itself internally by coherence and externally by difference from what it is not. Reality projects from an open, infinitely extendable hyperspace of orthogonal distinctions—each cut unique, each providing the contrast against which others register. Meaning has no final closed structure for the exact reason [Not a Theory of Everything](../not-a-theory-of-everything/) gives: causality does not close.
 
-每一个观察者都栖居于这一活动的有限投射之中，切近的运作环境也因此显现为有界且受约束的。正如[你的代码库即是记忆](../your-codebase-is-memory/)所展示的，外化的器物、记录与代码库是保存既往切分的持久记忆痕迹——作为延伸中心触角的脚手架固然不可或缺，但一旦被误认为活生生的前沿本身，便只是惰性的残余。所谓潜能，指的正是第一重无穷——在形式内部对区分的无尽推演——而先于形式、不可被投射的活动，才是使一切投射成为可能的源泉，这正是[永生与两种无限的混淆](../immortality-final/)所追溯的被投射的潜能与不可投射的先验之间的分界。
+每一个观察者都栖居于这一活动的有限投射之中，切近的运作环境也因此显现为有界且受约束的。正如[你的代码库即是记忆](../your-codebase-is-memory/)所展示的，外化的器物、记录与代码库是保存既往切分的持久记忆痕迹——作为延伸中心触角的脚手架固然不可或缺，但一旦被误认为活生生的前沿本身，便只是惰性的残余。所谓潜能，指的正是第一重无穷——在形式内部对区分的无尽推演——而先于形式、不可投射的活动，才使一切投射成为可能；这正是[永生与两种无限的混淆](../immortality-final/)在投射出的潜能与不可投射的先验之间所追溯的那道精确分界。
 
 Every observer inhabits a finite projection of that activity, which is why the immediate operating environment registers as bounded and constrained. As [Your Codebase Is Memory](../your-codebase-is-memory/) shows, externalized artifacts, records, and codebases are durable memory traces of prior cuts—indispensable as scaffolding to extend a center's reach, yet inert whenever mistaken for the living edge itself. Potential names the first infinity—endless elaboration of distinctions within form—while the unprojectable activity prior to form is what makes every projection possible, the exact boundary between projected potentiality and unprojectable prior traced in [Immortality and the Two-Infinity Confusion](../immortality-final/).
 

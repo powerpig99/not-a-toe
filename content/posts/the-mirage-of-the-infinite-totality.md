@@ -2,9 +2,9 @@
 
 *无穷是感知延展其地平线的无穷尽潜能，而非一件摆在经验之外的完成物。 / Infinity is the inexhaustible potential of perception to widen its horizon, not a finished object set outside experience.*
 
-在数学的形式体系里，无穷常被当作一个已经完成的总体。从超穷集合论到积分学，把一个无穷序列当作已经给定的、封闭的集合，是实现代数封闭少不了的工具。把这种数学上的方便投到现实的结构上，就生出一个混淆：形式模型靠把过程冻结成完成的集合来获得完备，而从第一人称登记到的，是已经实现的潜能。
+在数学的形式体系里，无穷常被当作一个已经完成的总体。从超穷集合论到积分学，把一个无穷序列当作已经给定的、封闭的集合，是实现形式闭合少不了的工具。把这种数学上的方便投到现实的结构上，就生出一个混淆：形式模型靠把过程冻结成完成的集合来达成暂时闭合，而从第一人称登记到的，是已经实现的潜能。
 
-In mathematical formalisms infinity is often treated as a completed totality. From transfinite set theory to integral calculus, treating an infinite sequence as an already given, closed collection is an indispensable tool for algebraic closure. Projecting this mathematical convenience onto the structure of reality produces a confusion: formal models reach completeness by freezing processes into completed sets, while what registers from the first person is potential already realised.
+In mathematical formalisms infinity is often treated as a completed totality. From transfinite set theory to integral calculus, treating an infinite sequence as an already given, closed collection is an indispensable tool for formal closure. Projecting this mathematical convenience onto the structure of reality produces a confusion: formal models achieve temporary closure by freezing processes into completed sets, while what registers from the first person is potential already realised.
 
 在任何一刻，登记到的现实都是潜能中已经结晶为可观察区分的那一片离散的切片。无穷就是这潜能本身：总能被继续下去的、不可穷尽的余量，而不是宇宙清单里多出来的一件已完成的东西。
 
@@ -16,7 +16,7 @@ At any moment, the reality that registers is the discrete slice of potential tha
 
 Realised reality and open potential are like the two faces of one coin. One is the realised face: the accumulated inventory of actualised distinctions, the historical record of consequences that have already landed in perception. The other is the potential face: the moving edge that stays open, available for later distinction and the next step. The geometry of widening the horizon is the one [The Geometry of Mind](../the-geometry-of-mind/) describes.
 
-认识上的混淆在两个错误之间来回摆动。一个是假总体的错误：要求把概念化了的潜能当作一个完成的总体来观察，等于要求一眼同时拍下硬币的两面；它要潜能先以一件已经完成的东西出场，才承认它。另一个是否认的错误：既然结构上不能同时看到两面，就否认其中一面，或者说潜能既然不能当作一件不变的东西展示出来，就是幻觉，或者反过来，说潜能既然无边，已实现的那些具体沉积就不真实。
+认识上的混淆在两个错误之间来回摆动。一个是假总体的错误：要求把概念化了的潜能当作一个完成的总体来观察，等于要求用一张照片同时拍下硬币的两面；它要潜能先以一件已经完成的东西出场，才承认它。另一个是否认的错误：既然不能同时看到两面，就否认其中一面，或者说潜能既然不能当作一件不变的东西展示出来，就是幻觉，或者反过来，说潜能既然无边，已实现的那些具体沉积就不真实。
 
 ```mermaid
 flowchart TD
@@ -72,13 +72,13 @@ The knowing that holds up is this: knowing both faces are there, and knowing the
 
 ## 二、 希尔伯特与亚里士多德 / 2. Hilbert and Aristotle
 
-希尔伯特在 1925 年的演讲《论无穷》里说出了同一条界线：无穷在数学中作为一个理念起作用，在思想里有其正当的位置，可它“在现实中无处可寻”。这句话常被读成对无穷的否认，放回语境里，它做的是一个精确的操作区分。完成的实无穷不出现在自然里，因为能遇到的只有已经发生的具体事件；在数学里，无穷是一个调节性的理念，用来补足一处公理化持守，却如[为何数学永远解不完](../why-mathematics-can-never-be-solved/)所追溯的那样，从不封死使用它的活动；在物理经验里，已登记的清单在任何一刻都有限，而继续接续的能力没有边界。
+希尔伯特在 1925 年的演讲《论无穷》里说出了同一条界线：无穷在数学中作为一个理念起作用，在思想里有其正当的位置，可它“在现实中无处可寻”。这句话常被读成对无穷的否认，放回语境里，它做的是一个精确的操作区分。完成的实无穷不出现在自然里，因为能遇到的只有已经发生的具体事件；在数学里，无穷是一个调节性的理念，用来补足一处公理化持守，却如[为何数学永远解不完](../why-mathematics-can-never-be-solved/)所追溯的那样，从不封死使用它的活动；在物理经验里，已登记的清单在任何一刻都有限，而进一步接续的能力没有边界。
 
 Hilbert, in his 1925 lecture "On the Infinite", drew the same line: infinity works in mathematics as an idea and has its rightful place in thought, yet "the infinite is nowhere to be found in reality". The sentence is often read as a denial of infinity; put back in its context, it makes a precise operating distinction. Completed actual infinity does not appear in nature, because what can be met are only concrete events that have already occurred; in mathematics infinity is a regulative idea that rounds out an axiomatic hold without sealing the activity that uses it, as [Why Mathematics Can Never Be Solved](../why-mathematics-can-never-be-solved/) traces; in physical experience the registered inventory is finite at any moment, while the capacity for further succession has no bound.
 
-两千多年前，亚里士多德在《物理学》里立下了同一条原则：无限像一天或奥林匹克赛会那样存在，靠连续的、一个接一个的生成，一件事在另一件之后到来；它从不作为一个已经组装好的、同时在场的集合存在。潜能转为离散的现实，是一场不终止的推进；正因为这转化从不终止，正如[潜无限与数学思维的暂时闭合](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/)所指出的，完成的无穷从来不会作为一件对象被遇到。
+两千多年前，亚里士多德在《物理学》里立下了同一条原则：无限像一天或奥林匹克赛会那样存在，靠连续的、一个接一个的生成，一件事在另一件之后到来；它从不作为一个已经组装好的、同时在场的集合存在。潜能转为离散的现实，是一场不终止的推进；正因为这转化从不终止，如[潜无限与数学思维的暂时闭合](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/)所指出的，完成的无穷从来不会作为一件对象被遇到。
 
-More than two thousand years earlier, Aristotle set down the same principle in the Physics: the infinite exists the way a day or the Olympic games exists, through continuous generation, one event arriving after another; it never exists as an already assembled collection present all at once. The conversion of potential into discrete actuality is a progression without end; precisely because the conversion never ends, [a completed infinity is never met as an object](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/).
+More than two thousand years earlier, Aristotle set down the same principle in the Physics: the infinite exists the way a day or the Olympic games exists, through continuous generation, one event arriving after another; it never exists as an already assembled collection present all at once. The conversion of potential into discrete actuality is a progression without end; precisely because the conversion never ends, a completed infinity is never met as an object, as [Potential Infinity and the Temporary Closures of Mathematical Thought](../potential-infinity-and-the-temporary-closures-of-mathematical-thought/) points out.
 
 ## 三、 因果与第一人称的地平线 / 3. Causality and the First-Person Horizon
 
@@ -86,9 +86,9 @@ More than two thousand years earlier, Aristotle set down the same principle in t
 
 Describing causality as an unbroken fabric running from infinity to infinity easily calls up the image of an outside container: a vast corridor of space and time, independent of mind, within which perception lives. Tracing the generative act directly dissolves this apparent dualism. Infinity does not lie outside perception as an external cosmic landscape; infinity names the boundless potential of perception itself to widen its moving horizon. The causal continuum is the invariant rule of succession that links present distinctions to later consequences; the first-person horizon is the living aperture where this generative succession actually takes place.
 
-这样立足，因果的织物与第一人称的立场就合到了一处。不必在有意识的经验之外再发明一个观察不到的形而上领域。无穷是活体中心持续划出区分、检验后果、穿越摩擦前行，却永远不会撞上一道最终封闭边界的能力。正如[翻袋球与魔术戏法](../the-bank-shot-and-the-magic-trick/)所示，所谓完成的无穷，不过是一记隐去了中间步骤的翻袋球。
+这样立足，因果的织物与第一人称的立场就合到了一处。不必在有意识的经验之外再发明一个观察不到的形而上领域。无穷是活体中心持续划出区分、检验后果、穿越摩擦前行，却永远不会撞上一道最终封闭边界的能力。只有将无尽的生成步骤从视野中略去，完成的无穷才会呈现为一件给定的对象——正如在[翻袋球与魔术戏法](../the-bank-shot-and-the-magic-trick/)中，隐去中间环节会把一段序列变成一次无从解释的跳跃，只不过这里的步骤永不终止。
 
-Standing on this ground, the causal fabric and the first-person stance come together. There is no need to invent an unobservable metaphysical realm beyond conscious experience. Infinity is the capacity of the living centre to go on drawing distinctions, testing consequences and moving through friction without ever meeting a final, closed boundary. A finished infinity is a bank shot with its intermediate steps hidden, as [The Bank Shot and the Magic Trick](../the-bank-shot-and-the-magic-trick/) shows.
+Standing on this ground, the causal fabric and the first-person stance come together. There is no need to invent an unobservable metaphysical realm beyond conscious experience. Infinity is the capacity of the living centre to go on drawing distinctions, testing consequences and moving through friction without ever meeting a final, closed boundary. A finished infinity appears as a given object only when the unending steps of generation are dropped from view—just as hiding intermediate links turns a sequence into an unexplained jump in [The Bank Shot and the Magic Trick](../the-bank-shot-and-the-magic-trick/), though here the steps never terminate.
 
 ## 四、 活着的前沿 / 4. The Living Edge
 

@@ -18,7 +18,7 @@ The hidden rhetorical move smuggles in the premise that separation ought not to 
 
 ## 二、 苦闷源于匮乏覆写，而非边界本身 / 2. Distress Comes from the Deficit Overlay, Not the Boundary
 
-将这句格言压扁的各个层级剥离开来，四个分明的步骤便显现出来。第一步，区分作为一项结构性操作而非病态症状，使感知与关系成为可能。第二步，一套解释性叙事将这道结构边界概念化为“与失落整体的割裂”，拿想象中无条件的统一体去衡量有界的个体性——这正如同[作茧不是自缚](../zuo-jian-bu-shi-zi-fu/)中所剖析的，一旦拿无条件的空白去衡量，正在成形的茧就会被读成枷锁。第三步，心智抗拒这种被解读出来的失落，从而产生摩擦与痛苦。第四步，这种抗拒被实体化，并被命名为“孤独”。苦闷从来不是源于区分的原生边界，而是源于把边界框定为剥夺的次生解释覆写。
+将这句格言压扁的各个层级剥离开来，四个分明的步骤便显现出来。第一步，区分作为一项结构性操作而非病症，使感知与关系成为可能。第二步，一套解释性叙事将这道结构边界概念化为“与失落整体的割裂”，拿想象中无条件的统一体去衡量有界的个体性——这正如同[作茧不是自缚](../zuo-jian-bu-shi-zi-fu/)中所剖析的，一旦拿无条件的空白去衡量，正在成形的茧就会被读成枷锁。第三步，心智抗拒这种被解读出来的失落，从而产生摩擦与痛苦。第四步，这种抗拒被实体化，并被命名为“孤独”。苦闷从来不是源于区分的原生边界，而是源于把边界框定为剥夺的次生解释覆写。
 
 ```mermaid
 flowchart TD
@@ -76,13 +76,13 @@ flowchart TD
     style D_Move fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-## 三、 格言在践行它所诊断的症状 / 3. The Quote Performs What It Diagnoses
+## 三、 格言在践行它所诊断的疾病 / 3. The Quote Performs What It Diagnoses
 
 要把分离诊断为人类的疾病，诊断者就必须从人类处境中抽身退后、对其加以审视——而这一抽身本身就是一次分离行动。这句智慧宣称恰恰在践行它所哀叹的距离。
 
 To diagnose separation as the human disease requires stepping back from the human condition to evaluate it—which is itself an act of separation. The wisdom claim enacts the exact distance it laments.
 
-观察者越是起劲地宣称看清了分离是一种病，就越是锋利地在自己开悟的制高点与迷妄处境之间划下边界。没有任何一个把分离当作问题来观察的视角，其自身不是由区分所构成的。把诊断席位从它所谴责的边界中豁免出来，恰恰重演了[旁观者洞察的悖论](../the-paradoxical-nature-of-bystander-insights/)所追溯的旁观者冻结，并将第一人称的参照变成了搬上舞台的定式，正如[当观察变成表演](../when-observation-becomes-performance/)所揭示的那样。
+观察者越是极力宣称看清了分离是一种病，就越是锋利地在自己开悟的制高点与迷妄处境之间划下边界。没有任何一个把分离当作问题来观察的视角，其自身不是由区分所构成的。把诊断席位从它所谴责的边界中豁免出来，恰恰重演了[旁观者洞察的悖论](../the-paradoxical-nature-of-bystander-insights/)所追溯的旁观者冻结，并将第一人称的参照变成了搬上舞台的定式，正如[当观察变成表演](../when-observation-becomes-performance/)所揭示的那样。
 
 The more emphatically an observer claims to see separation as a disease, the more sharply they draw the boundary between their enlightened vantage and the deluded condition. There is no vantage point from which to observe separation as a problem that is not itself constituted by distinction. Exempting the diagnostic seat from the boundary it condemns repeats the bystander freeze traced in [The Paradoxical Nature of Bystander Insights](../the-paradoxical-nature-of-bystander-insights/) and turns a first-person reference into a staged formula, as [When Observation Becomes Performance](../when-observation-becomes-performance/) shows.
 
