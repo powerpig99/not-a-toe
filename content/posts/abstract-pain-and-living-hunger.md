@@ -12,7 +12,7 @@ When minds attempt to comprehend a complex world, abstraction serves as an indis
 
 Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. An embodiment is the trace-configuration through which one locus of that noticing sustains its recursion across further discrete acts, whereas a concept or symbol is a compressed reference trace held to orient navigation. Within a symbolic architecture, the conceptual apple possesses an exhaustive set of defining attributes—spherical geometry, fructose sweetness, and dietary fiber—and can be duplicated across millions of minds at near-zero marginal cost. Retrieving the mental image of ten thousand apples requires virtually the same negligible expenditure as retrieving one, because on paper `1 + 1 = 2` is a static, symmetric, zero-cost tautology. Yet when a starving organism must sustain its recursion at the living edge, the sublime concept of every apple in the universe yields zero calories. Sustaining an embodiment requires the irreversible, energy-consuming intervention of `+1`: an actual apple entering the digestive tract, undergoing mastication, acid breakdown, and biochemical assimilation to secure a precarious increment of negative entropy.
 
-零成本符号痕迹与不可逆具身 `+1` 之间的这种结构性非对称，在常规道德论辩中遭到了系统性的抹杀。远方的报道与眼前的遭遇同样登记在观察者的第一人称场域之内，但二者沿着正交的痕迹轴线抵达：远方陌生人的痛楚是经由电讯或印刷术编码后抵达的信息序列，属于与概念苹果同级的表征层级，而非直接挤压在局域具身之上。将符号推演误认为实在的兑现，正是披着道德外衣的“意象滞后”。要求一个人像响应家门口正在流血的邻人那样，以同等的肉身紧迫感去响应远方的语义记号，无异于勒令饥饿者以纸上写着的果字充饥；当饥肠辘辘的行动者指出概念无法吞咽时，道德说教者反过来指责其对普遍的苹果怀有伦理缺陷。正如在[寄存器的算术](../the-arithmetic-of-the-register/)与[你的代码库即是记忆](../your-codebase-is-memory/)中所阐明的，落盘的外化符号账本或文件痕迹虽能为读取它的活态心智提供定向坐标，记账账本上的对称性却无法替代活体中心自身的不可逆状态跃迁与代谢承担。
+零成本符号痕迹与不可逆具身 `+1` 之间的这种结构性非对称，在常规道德论辩中遭到了系统性的抹杀。远方的报道与眼前的遭遇同样登记在观察者的第一人称场域之内，但二者沿着正交的痕迹轴线抵达：远方陌生人的痛楚是经由电讯或印刷术编码后抵达的信息序列，属于与概念苹果同级的表征层级，而非直接挤压在局域具身之上。将符号推演误认为实在的兑现，正是披着道德外衣的图像滞后。要求一个人像响应家门口正在流血的邻人那样，以同等的肉身紧迫感去响应远方的语义记号，无异于勒令饥饿者以纸上写着的果字充饥；当饥肠辘辘的行动者指出概念无法吞咽时，道德说教者反过来指责其对普遍的苹果怀有伦理缺陷。正如在[寄存器的算术](../the-arithmetic-of-the-register/)与[你的代码库即是记忆](../your-codebase-is-memory/)中所阐明的，落盘的外化符号账本或文件痕迹虽能为读取它的活态心智提供定向坐标，记账账本上的对称性却无法替代活体中心自身的不可逆状态跃迁与代谢承担。
 
 ```mermaid
 flowchart TD
@@ -30,7 +30,7 @@ flowchart TD
     end
     C1 --> C2 --> C3
     M1 --> M2 --> M3
-    C3 -. "意象滞后：将符号痕迹误认为具身 +1" .-> M3
+    C3 -. "图像滞后：将符号痕迹误认为具身 +1" .-> M3
     style S_Concept fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Metabolism fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style C1 fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
@@ -76,7 +76,7 @@ flowchart TD
 
 Within a central banking settlement architecture or macroeconomic statistical ledger, currency units across different accounts exhibit total mathematical isomorphism. Ten thousand tokens in Account A obey the identical arithmetic rules and compounding formulas as ten thousand tokens in Account B, and this algebraic uniformity generates a persistent macro-illusion that wealth and purchasing power are homogeneous fluids circulating through an unowned ether. Guided by utilitarian global calculus, because marginal utility diminishes, transferring numbers from a surplus ledger to a deficit coordinate appears as an indisputable imperative of optimal efficiency.
 
-然而，由于第一人称视角与因果性是同一枚硬币的两面，活生生的存续反驳了这种算术平均主义。存放在个人账户中的余额并非抽象的数学标量，而是特定位点用来缓冲未知波动、保障生物安全并践行主权抉择的操作支点。存放在他人账本中的资产无论多么庞大，都是由另一中心的抉择所管辖的外部坐标；你既无法对其行使直接的调配能动性，也无需在他人余额蒸发时承担露宿寒夜的肉身后果。要求行动者将外部账本与自身账本同等估值，实则暗中从无何有之乡偷运了一个全知中央总管，预先将一切私人的因果能动性收缴进统一的资金池——却遗忘了正如[没有外部记账员](../no-outside-scorekeeper/)所确立的，活体中心之上并不存在汇集各方后果的外部清算所，唯有做出抉择的那个位点自身承担其轨迹的复利或崩塌。正如[能动性被转置入形式模型](../agency-relocated-into-the-formal-model/)所指出的，一旦活体行动者的因果权能被让渡给抽象装置，具身生存的属地边界便随之熄灭。
+然而，由于第一人称视角与因果性是同一枚硬币的两面，活生生的存续反驳了这种算术平均主义。存放在个人账户中的余额并非抽象的数学标量，而是特定位点用来缓冲未知波动、保障生物安全并践行主权抉择的操作支点。存放在他人账本中的资产无论多么庞大，都是由另一中心的抉择所管辖的外部坐标；你既无法对其行使直接的调配能动性，也无需在他人余额蒸发时承担露宿寒夜的肉身后果。要求行动者将外部账本与自身账本同等估值，实则暗中从无何有之乡偷运了一个全知中央总管，预先将一切私人的因果能动性收缴进统一的资金池——却遗忘了正如[没有外部记账员](../no-outside-scorekeeper/)所确立的，活体中心之上并不存在汇集各方后果的外部清算所，唯有做出抉择的那个位点自身承担其轨迹的复利或崩塌。正如[能动性被转置入形式模型](../agency-relocated-into-the-formal-model/)所追溯的，将活体行动者的因果权能视作已转置入抽象装置，会在账本上抹去具身生存的属地边界，却把代谢耗竭留给活体位点独自承担。
 
 ```mermaid
 flowchart TD
@@ -105,7 +105,7 @@ flowchart TD
     style A3 fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Yet because the first-person perspective and causality are two sides of the same coin, lived continuation refutes this arithmetic egalitarianism. The balance residing in an individual account is not an abstract mathematical scalar, but a locus's operational fulcrum for buffering against physical unpredictability, securing biological safety, and enacting sovereign choices. Assets residing in another person's ledger, no matter how immense, represent external coordinates governed by another center's choices; you exercise zero direct allocation agency over them, nor do you bear the somatic consequence of sleeping in the cold when another's balance evaporates. Demanding that an agent value an external ledger identically to their own covertly smuggles an omniscient central overseer who has already confiscated all private agency into a unified pool from nowhere—forgetting, as [No Outside Scorekeeper](../no-outside-scorekeeper/) establishes, that no external clearinghouse stands above living centers to pool their consequences, and only the choosing locus bears the compounding or collapse of its own trajectory. As argued in [Agency Relocated into the Formal Model](../agency-relocated-into-the-formal-model/), once the causal power of living actors is transferred to an abstract apparatus, the territorial boundaries of embodied survival are extinguished.
+Yet because the first-person perspective and causality are two sides of the same coin, lived continuation refutes this arithmetic egalitarianism. The balance residing in an individual account is not an abstract mathematical scalar, but a locus's operational fulcrum for buffering against physical unpredictability, securing biological safety, and enacting sovereign choices. Assets residing in another person's ledger, no matter how immense, represent external coordinates governed by another center's choices; you exercise zero direct allocation agency over them, nor do you bear the somatic consequence of sleeping in the cold when another's balance evaporates. Demanding that an agent value an external ledger identically to their own covertly smuggles an omniscient central overseer who has already confiscated all private agency into a unified pool from nowhere—forgetting, as [No Outside Scorekeeper](../no-outside-scorekeeper/) establishes, that no external clearinghouse stands above living centers to pool their consequences, and only the choosing locus bears the compounding or collapse of its own trajectory. As [Agency Relocated into the Formal Model](../agency-relocated-into-the-formal-model/) traces, treating the causal power of living actors as relocated into an abstract apparatus erases the territorial boundaries of embodied survival on the ledger while leaving the living locus alone to bear metabolic depletion.
 
 ```mermaid
 flowchart TD

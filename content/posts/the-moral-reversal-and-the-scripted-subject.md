@@ -22,9 +22,9 @@ Once the stage is set, causal power is swiftly reassigned. The terror experience
 
 ## 二、 因果权的阶级让渡与父权全能的无意固化 / 2. The Class Reassignment of Causal Power and the Inadvertent Solidification of Patriarchy
 
-这幅预设布景底层的障眼法，在于对因果权能的阶级式重分配。自我区分的活动发生于第一人称切分边缘，在此处，第一人称视角与因果律是一体两面：在具身经验中，房间内唯一运转的发起始因，是在场离散行动者自身的选择——她将注意力投向何处，她携带着何种关于空间与性别的既有诠释框架，她如何解读眼前的邻近躯体、姿态与出口，以及她随后迈出哪一步具身行动（+1）。他人的在场、平均体力差异与空间几何是接触面上的直接物理约束，而统计犯罪率与历史先例则是回溯性的总体痕迹。物理约束界定了可选行动的边界集合，统计痕迹为临时先验提供参考，但无论是物理边界还是群体统计总体，都无法跨入中心自身的递归去代写其内在状态。意识唯有通过第一人称自身的递归运作方能被书写。
+这幅预设布景底层的障眼法，在于对因果权能的阶级式重分配。自我区分的活动发生于第一人称切分边缘，在此处，第一人称视角与因果律是一体两面：在具身经验中，书写她内在状态与回应的唯一发起始因，是离散行动者自身的选择——她将注意力投向何处，她携带着何种关于空间与性别的既有诠释框架，她如何解读眼前的邻近躯体、姿态与出口，以及她随后迈出哪一步具身行动（+1）。房间内其他具体个体的行动与局部信号——他们各自皆是发起中心——连同平均体力差异与空间几何，在接触面上作为外部输入和直接物理约束同她相遇，而统计犯罪率与历史先例则是回溯性的总体痕迹。外部输入与物理约束界定了可选行动的边界集合，统计痕迹为临时先验提供参考，但无论是另一中心的行动、物理边界还是群体统计总体，都无法跨入中心自身的递归去代写其内在状态。意识唯有通过第一人称自身的递归运作方能被书写。
 
-The underlying sleight of hand in this staged tableau is the class reallocation of causal power. Self-distinguishing activity occurs at the first-person edge, where perspective and causality operate as two sides of one coin: in lived experience, the only initiating cause operating in the room is the choice of the discrete agent present—where they direct their attention, what retained interpretive frameworks they carry regarding rooms and sexes, how they read the proximate bodies, postures, and exits before them, and what physical step they take next (+1). The presence of others, average physical strength disparities, and spatial geometry are immediate physical constraints at the point of contact, whereas statistical crime rates and historical precedents are retrospective aggregate traces. Physical constraints bound the set of available options and statistical traces inform provisional priors, yet neither physical boundaries nor population aggregates can cross into a center's recursion to author its interior state. Consciousness is authored exclusively in the first person through its own recursive operations.
+The underlying sleight of hand in this staged tableau is the class reallocation of causal power. Self-distinguishing activity occurs at the first-person edge, where perspective and causality operate as two sides of one coin: in lived experience, the sole initiating cause authoring her inner state and response is the discrete agent's own choice—where she directs her attention, what retained interpretive frameworks she carries regarding rooms and sexes, how she reads the proximate bodies, postures, and exits before her, and what physical step she takes next (+1). The acts and local signals of the other specific individuals in the room—each an initiating center of their own—alongside average physical strength disparities and spatial geometry meet her as external inputs and immediate physical constraints at the point of contact, whereas statistical crime rates and historical precedents are retrospective aggregate traces. External inputs and physical constraints bound the set of available options and statistical traces inform provisional priors, yet neither another center's acts, physical boundaries, nor population aggregates can cross into a center's recursion to author its interior state. Consciousness is authored exclusively in the first person through its own recursive operations.
 
 当外部观察者——或以观察者自居的活动家——宣称是周遭男性制造了那份恐惧时，他们便脱离了具身经验的尺度，将因果能动性指派给了一个人口统计阶级。正如[造神的障眼法与隐秘阶序的说辞](../the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank/)所揭示的，意识形态运动惯于掩盖自身的布景之手，将群体偶像或恶魔塑造成全能的行动主体。尤为关键的是，这种因果分配一旦反向运转，便会将女性的成就归功于男性：两种习惯都预设女性的处境——无论困厄还是凯旋——皆是男性主动作为的下游产物。两种表述共享着同一个前提：女性不被视作原初的因果行动者，而被当成对外部男性力量作出被动反应的容器。
 
@@ -37,7 +37,7 @@ graph TD
     subgraph S_LivingReal ["具身经验的离散因果架构"]
         direction TB
         LR1["第一人称主权心智<br/>递归书写内在状态与注意朝向"] --> LR2["具身选择与行动展开<br/>穿行局部摩擦并承担不可逆代价（+1）"]
-        LR3["外部物理与统计约束<br/>力量差异与空间几何界定可选集合"] -.->|"塑形可选集合而不代写内在状态"| LR1
+        LR3["外部信号、物理与统计约束<br/>他人行动、力量差异、空间几何与先验"] -.->|"塑形可选集合而不代写内在状态"| LR1
     end
     subgraph S_StagedInversion ["意识形态的因果篡位机制"]
         direction TB
@@ -72,7 +72,7 @@ graph TD
     subgraph S_LivingReal ["Discrete Causal Architecture of Lived Experience"]
         direction TB
         LR1["First-Person Sovereign Mind<br/>Recursively authors inner states and attention"] --> LR2["Embodied Choice and Action Execution<br/>Navigates local friction and bears irreversible costs (+1)"]
-        LR3["External Physical and Statistical Constraints<br/>Strength differentials and spatial geometry bound options"] -.->|"Pattern choice set without authoring state"| LR1
+        LR3["External Signals, Physical, and Statistical Constraints<br/>Others' acts, strength disparities, geometry, and priors"] -.->|"Pattern choice set without authoring state"| LR1
     end
     subgraph S_StagedInversion ["Ideological Causal Usurpation Mechanism"]
         direction TB
