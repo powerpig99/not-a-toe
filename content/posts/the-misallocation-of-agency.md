@@ -1,28 +1,28 @@
 # 能动性的错配 / The Misallocation of Agency
 
-*自由始于每个心智，把权利当作它的引擎则颠倒了因果 / Freedom begins in each Mind while treating rights as its engine reverses cause*
+*自由秩序始于每个心智，把权利当作它的引擎则颠倒了因果 / A free order begins in each Mind while treating rights as its engine reverses cause*
 
-经济自由不是把个人权利应用到生产与交易上。权利话语是在事后描述不侵犯的样式，把集体的痕迹当作发起的原因。自由只起于个体所在之处，作为它对自身能动的认出，以及不发起强制的自愿克制。这个起点一旦被移进一套外在的安排，对制度性保障的要求，就取代了生成这一样式的那些自我认出的行动。
+经济自由不是把个人权利应用到生产与交易上。权利话语是在事后描述不侵犯的样式，把集体的痕迹当作发起的原因。自由秩序只起于个体各自的所在之处，即每个心智认出自身的能动，并选择不发起强制的自愿克制。这个起点一旦被归因于一套外在的安排，对制度性保障的要求，就取代了生成这一样式的那些自我认出与克制的行动。
 
-Economic freedom is not the application of individual rights to production and trade. Rights-talk describes the pattern of non-aggression after the fact, treating collective residue as if it were the initiating cause. Freedom begins only at the individual locus, as the recognition of its own agency and the voluntary restraint from initiating force. When that origin is relocated into an external arrangement, the demand for systemic guarantees replaces the very acts of self-recognition that generate the pattern.
+Economic freedom is not the application of individual rights to production and trade. Rights-talk describes the pattern of non-aggression after the fact, treating collective residue as if it were the initiating cause. A free order begins only at individual loci, in each Mind's recognition of its own agency and its choice of voluntary restraint from initiating force. When that origin is attributed to an external arrangement, the demand for systemic guarantees replaces the very acts of self-recognition and restraint that generate the pattern.
 
 ## 一、 生成的次序先于权利话语 / 1. The Generative Sequence Precedes Rights-Talk
 
-自我区分的活动在发生，无因、不息。称之为心智：观察者早已在途中，每一次行动皆是一次区分。它发生在各个离散的所在之处。所谓自由，是个体心智认出自己是自身判断与行动的源头。这份认出先于一切法律、经济与制度的形式。
+自我区分的活动在发生，无因、不息。称之为心智：观察者早已在途中，每一次行动皆是一次区分。它发生在各个离散的所在之处。所谓政治与经济自由，始于个体心智认出自己是自身判断与行动的源头。这份认出先于一切法律、经济与制度的形式。
 
-Self-distinguishing activity occurs, uncaused and unceasing. Call it the Mind: the observer already under way, every act of which is a distinction. It occurs at discrete loci. What is called freedom is the individual Mind recognizing itself as the origin of its own judgments and actions. That recognition precedes every legal, economic, and institutional form.
+Self-distinguishing activity occurs, uncaused and unceasing. Call it the Mind: the observer already under way, every act of which is a distinction. It occurs at discrete loci. What is called political and economic freedom begins with the individual Mind recognizing itself as the origin of its own judgments and actions. That recognition precedes every legal, economic, and institutional form.
 
-一个人在自己所在之处认出能动，这份认出就带着自愿的克制：对另一个中心发起强制，是试图实施跨越所在的越权，否认了双方的能动。许多人在反复的行动中维持这份自我认出与克制，一片稳定的、自愿生产、交易与不侵犯的场域便涌现出来。
+当一个人认出能动以离散的所在为界——既落在自己的所在之处，也落在其他每一个中心——自愿的克制便由此可以理解：对另一个中心发起强制，是在这一所在行使能动，试图实施跨越所在的越权，把对方当作可以强迫的材料，而不是一个只能自愿形成对齐的独立源头。许多人在反复的行动中维持这份认出并选择克制，一片稳定的、自愿生产、交易与不侵犯的场域便涌现出来。
 
-When an individual recognizes agency at their own locus, that recognition entails voluntary restraint: initiating force against another center attempts a cross-locus override that denies the agency of both. When many individuals sustain that self-recognition and restraint across repeated acts, a stable field of voluntary production, trade, and non-aggression emerges.
+When an individual recognizes agency as bounded to discrete loci—both at their own locus and at every other center—voluntary restraint becomes intelligible: initiating force against another center exercises agency at this locus to attempt a cross-locus override, treating the other center as material to compel rather than an independent origin whose alignment only forms voluntarily. When many individuals sustain that recognition and choose restraint across repeated acts, a stable field of voluntary production, trade, and non-aggression emerges.
 
-后来的观察者看到这个涌现的样式，把它的规律命名为“个人权利”，把整体的协作标为“自由放任资本主义”。生成的次序只朝一个方向运行：个体所在之处对能动的自我认出带来不发起强制的自愿克制，各个中心反复维持这份克制生出生产与交易的稳定样式，观察者只是在事后才把这一样式命名为“权利”与“制度”。命名样式是描述上的方便。把名称当作行为的引擎，就颠倒了因果的箭头。自由不是从一纸宪章、一套经济制度或一种权利哲学降下来的；这些人造物，是此前种种自我认出沉积下来的痕迹。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)在社会进步被当作环境的属性、而不是一连串独立抉择时，做的是同一刀切分。
+后来的观察者看到这个涌现的样式，把它的规律命名为“个人权利”，把整体的协作标为“自由放任资本主义”。生成的次序只朝一个方向运行：个体在各自离散的所在之处认出能动，并选择不发起强制的自愿克制，各个中心反复维持这份克制生出生产与交易的稳定样式，观察者只是在事后才把这一样式命名为“权利”与“制度”。命名样式是描述上的方便。把名称当作行为的引擎，就颠倒了因果的箭头。自由秩序不是从一纸宪章、一套经济制度或一种权利哲学降下来的；这些人造物，是此前种种自我认出与克制抉择沉积下来的痕迹。[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)在社会进步被当作环境的属性、而不是一连串独立抉择时，做的是同一刀切分。
 
-Later observers see that emergent pattern, name its regularities "individual rights," and label the overall coordination "laissez-faire capitalism." The generative sequence runs in one direction only: self-recognition of agency at the individual locus entails voluntary restraint from initiating force, repeated restraint across centers yields a stable pattern of production and trade, and only afterward do observers name that pattern "rights" and "the system." Naming the pattern is a descriptive convenience. Treating the name as the engine of the behavior reverses the arrow of causality. Freedom does not descend from a charter, an economic system, or a philosophy of rights; those artifacts are the sedimented residue of earlier self-recognitions. [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) makes the same cut where social progress is treated as an environmental property rather than as successive independent choices.
+Later observers see that emergent pattern, name its regularities "individual rights," and label the overall coordination "laissez-faire capitalism." The generative sequence runs in one direction only: individuals at their discrete loci recognize agency and choose voluntary restraint from initiating force, repeated restraint across centers yields a stable pattern of production and trade, and only afterward do observers name that pattern "rights" and "the system." Naming the pattern is a descriptive convenience. Treating the name as the engine of the behavior reverses the arrow of causality. A free order does not descend from a charter, an economic system, or a philosophy of rights; those artifacts are the sedimented residue of earlier self-recognitions and choices of restraint. [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) makes the same cut where social progress is treated as an environmental property rather than as successive independent choices.
 
 ## 二、 心智之间的影响是参考，不是直接的因果 / 2. Influence Between Minds Is Reference, Not Direct Causation
 
-相信一个心智能直接决定另一个心智的行动，就已经放错了能动的位置。不同的中心之间，只有可得性的样式：一个心智可以把自己的行为、言语或产物，作为可供检视的数据摆出来。只有接收的心智去解释、评估这些数据，并把它们整合进自己递归的更新。
+相信一个心智能直接决定另一个心智的行动，就已经放错了能动的位置。不同的中心之间，只有可得性的样式：一个心智可以把自己的行为、言语或产物，作为可供检视的数据摆出来。只有接收的心智去解释、评估这些数据，并把它们整合进自身的递归更新。
 
 Any belief that one Mind can directly determine the actions of another has already misplaced where agency is. Between distinct centers there is only availability-patterning: one Mind may present its conduct, words, or products as data available for inspection. The receiving Mind alone interprets and evaluates that data and integrates it into its own recursive updates.
 
@@ -30,9 +30,9 @@ Any belief that one Mind can directly determine the actions of another has alrea
 
 No direct causal transfer registers between Minds; treating influence as direct cause reduces the receiving center to an effect rather than an origin of action. Agency cannot survive that reduction. Persuasion, teaching, and commerce work only as reference. [Expertise as Reference, Not Replacement](../expertise-as-reference-not-replacement/) is that boundary in the costume of care: another's map densifies the available options, but the lever of the next act stays only at the locus living the consequences. [What Always Listens Cannot Originate](../what-always-listens-cannot-originate/) is that boundary in the costume of receptivity: receptivity cannot be turned into a second source of ends.
 
-因为影响以参考为界，任何集体秩序都无法从上方设计出来。唯有独立的中心在互不侵犯中相遇、自愿对齐各自的生产，秩序才会形成。[价格是言说，理解是交易](../price-as-utterance-understanding-as-trade/)是这道边界在市场上的一面：订单以局部的重叠撮合，而不是以共享的内在；成交价是那次接触的痕迹，下一步在每一道边沿上重新生成。
+因为影响以参考为界，任何集体秩序都无法从上方设计出来。唯有独立的中心在互不侵犯中相遇、自愿对齐各自的生产，自愿的生产秩序才会形成。[价格是言说，理解是交易](../price-as-utterance-understanding-as-trade/)是这道边界在市场上的一面：订单以局部的重叠撮合，而不是以共享的内在；成交价是那次接触的痕迹，下一步在每一道边沿上重新生成。
 
-Because influence is bounded by reference, no collective order can be engineered from above. Order forms only when independent centers meet in mutual non-aggression and voluntarily align their production. [Price as Utterance, Understanding as Trade](../price-as-utterance-understanding-as-trade/) is the market face of this boundary: orders match by regional overlap, not by shared interiority; the transaction print is the residue of that contact, and the next step is generated fresh at each edge.
+Because influence is bounded by reference, no collective order can be engineered from above. Voluntary productive order forms only when independent centers meet in mutual non-aggression and voluntarily align their production. [Price as Utterance, Understanding as Trade](../price-as-utterance-understanding-as-trade/) is the market face of this boundary: orders match by regional overlap, not by shared interiority; the transaction print is the residue of that contact, and the next step is generated fresh at each edge.
 
 ## 三、 把样式当作主体是范畴错误 / 3. Treating a Pattern as a Subject Is a Category Error
 
@@ -44,21 +44,21 @@ A system has no agency, no will, and no capacity to act. It is a stabilized conf
 
 This treatment is a category error of Image lag: a retained mental model of collective interaction is kept past its step and endowed with causal powers that belong only to the living Mind. Even when millions share the conviction that the system holds protective power, that shared belief does not create agency in the pattern. It only misdescribes where causal initiation lies. [The Coordinator's Category Error](../the-coordinators-category-error/) is that freeze when a densified shared record is held as co-author of the next assent. [A Creation Cannot Replace Its Source](../a-creation-cannot-replace-its-source/) is that freeze when an externalized mechanism is raised above the living agency that sustains it. [The Mind That Statistics Cannot Reveal](../the-mind-that-statistics-cannot-reveal/) is that category error in statistics: confusing correlation with causation is an act of agency that at once disowns its own agency.
 
-无论外化的痕迹是一纸宪章、一本制度账本、一个 AI 模型，还是一套算法外骨骼，把主权投射到下游的人造物上，都是把一台有限的投射引擎同为其掌舵的活的中心混为一谈。正如[超越投射](../beyond-the-projection/)所追溯的，显式的规则与形式系统都是低维投射，只能在有界的轨迹之内穷尽交到它们手中的前提所包含的推论；它们没有内在性去感知前解释阶段的摩擦，也没有跳出破碎框架的观察支点。[你的代码库即是记忆](../your-codebase-is-memory/)在层叠的数字痕迹上划出了同一道边界：代码库、模型权重与智能体脚手架保存着此前切分被清晰压缩后的形状，可若是把这份累积的记忆当作人造物自身担着第一人称的作者身份或因果责任，便是把惰性的痕迹错认成了发起的活动。制度不作用于个体；个体在一片被此前抉择塑形的场域里行动。样式一旦被当作自由的作者，真实的因果所在就被遮住了。
+无论外化的痕迹是一纸宪章、一本制度账本、一个 AI 模型，还是一套算法外骨骼，把主权投射到下游的人造物上，都是把一台有限的投射引擎同为其掌舵的活的中心混为一谈。正如[超越投射](../beyond-the-projection/)所追溯的，显式的规则与形式系统都是低维投射，只能在有界的轨迹之内穷尽交到它们手中的前提所包含的推论；它们没有内在性去感知前解释阶段的摩擦，也没有跳出破碎框架的观察支点。[你的代码库即是记忆](../your-codebase-is-memory/)在层叠的数字痕迹上划出了同一道边界：代码库、模型权重与智能体脚手架保存着此前切分被清晰压缩后的形状，可若是把这份累积的记忆当作人造物自身担着第一人称的作者身份或因果责任，便是把惰性的痕迹错认成了发起的活动。制度不作用于个体；个体在一片被此前抉择塑形的场域里行动。样式一旦被当作自由的作者，实际的因果所在就被遮住了。
 
 Whether the externalized trace is a constitutional charter, an institutional ledger, an AI model, or an algorithmic harness, projecting sovereignty onto a downstream artifact confuses a finite projection engine with the living center that steers it. As [Beyond the Projection](../beyond-the-projection/) traces, explicit rules and formal systems are low-dimensional projections that can only exhaust the implications of the premises handed to them within a bounded trajectory; they possess no interiority to sense pre-interpretive friction and no vantage point to step outside a broken frame. [Your Codebase Is Memory](../your-codebase-is-memory/) establishes the same boundary across stacked digital residue: codebases, model weights, and agentic scaffolds hold the legibly compressed shapes of earlier cuts, yet treating that accumulated memory as if the artifact itself bore first-person authorship or accountability mistakes inert residue for the initiating activity. The system does not act on individuals; individuals act within a field patterned by earlier choices. When the pattern is treated as the author of freedom, the actual site of causation is hidden.
 
 ## 四、 对保护的要求侵蚀了生成的行动 / 4. The Demand for Protection Erodes the Generative Act
 
-认为个人权利需要一套外在制度来保护，是这次错配中起决定作用的一例。它把能动的所在，从内在的自我认出，移到一个外在的行政结构上。
+认为个人权利需要一套外在制度来保护，是这次错配中起决定作用的一例。它把能动错归于一个外在的行政结构，并把依赖从每个心智自身的自我认出那里挪开。
 
-The belief that individual rights need protection by an external system is the decisive instance of this misallocation. It moves the locus of agency from inner self-recognition to an outer administrative structure.
+The belief that individual rights need protection by an external system is the decisive instance of this misallocation. It misattributes agency to an external administrative structure and shifts reliance away from each Mind's own self-recognition.
 
-人们一旦相信自己的自由由一部宪法、一个国家或一套市场装置来保障，就开始向这套外在安排去要那份只有自己持续的判断才能维持的东西。这次外化在实践中顺着三道相连的偏移展开：责任随之扩散，个人不再把不侵犯与彼此的尊重看作自己的行动当下就要的纪律，而把它们看作制度送来的服务；执行随之扩张，指望一股外在的力量来保障权利，就请这股力量为执行保障而发起强制，引入的恰是这一样式本来要排除的强迫；自我认出也随之萎缩，对外在保障的依赖越深，自发的、自我节制的不侵犯出现的频率就越低。
+人们一旦相信自己的自由由一部宪法、一个国家或一套市场装置来保障，就开始向这套外在安排去要那份只有自己持续的判断才能维持的东西。这次外化在实践中顺着三道相连的偏移展开：责任随之扩散，个人不再把不侵犯与彼此的尊重看作自己的行动当下就要的纪律，而把它们看作制度送来的服务；执行随之扩张，指望一套外在安排来保障权利，就招来其中声称握有执行权威的人为执行保障而发起强制，引入的恰是这样一种强迫，而正是它的缺席构成了这一样式；自我认出也随之萎缩，对外在保障的依赖越深，自发的、自我节制的不侵犯出现的频率就越低。
 
-Once people come to believe that their freedom is secured by a constitution, a state, or a market apparatus, they begin looking to the external arrangement for what only their own continuous judgment can sustain. This externalization unfolds through three linked shifts in practice: responsibility diffuses as individuals stop seeing non-aggression and mutual respect as immediate disciplines their own actions require and treat them instead as services delivered by the system; enforcement expands because looking to an external power to guarantee rights invites that power to initiate force in order to enforce the guarantee, bringing in the very coercion the pattern exists to exclude; and self-recognition atrophies as deepening reliance on external guarantees lowers the frequency of spontaneous, self-governed non-aggression.
+Once people come to believe that their freedom is secured by a constitution, a state, or a market apparatus, they begin looking to the external arrangement for what only their own continuous judgment can sustain. This externalization unfolds through three linked shifts in practice: responsibility diffuses as individuals stop seeing non-aggression and mutual respect as immediate disciplines their own actions require and treat them instead as services delivered by the system; enforcement expands because looking to an external arrangement to guarantee rights invites those claiming enforcement authority inside it to initiate force in order to enforce the guarantee, bringing in the very coercion whose absence constitutes the pattern; and self-recognition atrophies as deepening reliance on external guarantees lowers the frequency of spontaneous, self-governed non-aggression.
 
-把自由安放在它唯一能存在之处——个体心智——之外，对制度性保护的要求便削薄了最初创造这一自由样式的生成行动。对制度性保障的要求，让自由的持续实现变得更不可能，而不是更可能。[赋权确立权力的集中](../empowerment-establishes-the-centralization-of-power/)是这次位移以授予为装束的一面：能力被框定为来自一个被授权源头的礼物，而接连的抉择仍是唯一的杠杆。[剩余个人主义](../residual-individualism/)是这次位移以保护性设计为装束的一面：保障仍是痕迹，杠杆仍在当下约束之下剩余的行动。自由不需要任何制度的保护，因为它就是地基，[自由即地基](../freedom-as-ground/)说明了这一点。
+把自由秩序的起源归因于个体心智之外的一套装置，对制度性保护的要求便削薄了最初创造这一自由样式的生成行动。对制度性保障的要求，让这一自由秩序的持续实现变得更不可能，而不是更可能。[赋权确立权力的集中](../empowerment-establishes-the-centralization-of-power/)是这次位移以授予为装束的一面：能力被框定为来自一个被授权源头的礼物，而接连的抉择仍是唯一的杠杆。[剩余个人主义](../residual-individualism/)是这次位移以保护性设计为装束的一面：保障仍是痕迹，杠杆仍留在当下约束之下的剩余行动上。能动本身不需要任何制度的保护，因为自由早已是地基，[自由即地基](../freedom-as-ground/)说明了这一点。
 
 ```mermaid
 flowchart TD
@@ -79,7 +79,7 @@ flowchart TD
         direction TB
         R1["形象滞后的范畴错误：将被命名的样式保留为自由的能动引擎"]
         R2["外化的保护要求：把自由托付给行政安排或形式规则"]
-        R3["责任扩散与强制扩张：自我节制的克制萎缩而执行力量扩张"]
+        R3["责任扩散与强制扩张：自我主导的克制萎缩而执行力量扩张"]
         R1 --> R2 --> R3
     end
     G3 ==>|"沉积为持久的痕迹样式"| N1
@@ -97,7 +97,7 @@ flowchart TD
     style R3 fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-By placing freedom outside the only place it can exist—the individual Mind—the demand for systemic protection thins the generative acts that create the free pattern in the first place. The demand for systemic guarantees makes the sustained realization of freedom less likely, not more. [Empowerment Establishes the Centralization of Power](../empowerment-establishes-the-centralization-of-power/) is that displacement in the costume of bestowal: capacity framed as a gift from an authorized source while successive choosing remains the only lever. [Residual Individualism](../residual-individualism/) is that displacement in the costume of protective design: safeguards remain residue, while the lever stays with the residual act under present constraints. Freedom needs no system's protection because it is the ground, as [Freedom as Ground](../freedom-as-ground/) shows.
+By attributing the origin of a free order to an apparatus outside the individual Mind, the demand for systemic protection thins the generative acts that create the free pattern in the first place. The demand for systemic guarantees makes the sustained realization of that free order less likely, not more. [Empowerment Establishes the Centralization of Power](../empowerment-establishes-the-centralization-of-power/) is that displacement in the costume of bestowal: capacity framed as a gift from an authorized source while successive choosing remains the only lever. [Residual Individualism](../residual-individualism/) is that displacement in the costume of protective design: safeguards remain residue, while the lever stays with the residual act under present constraints. Agency itself needs no system's protection because freedom is already the ground, as [Freedom as Ground](../freedom-as-ground/) shows.
 
 ```mermaid
 flowchart TD
@@ -138,14 +138,14 @@ flowchart TD
 
 ## 五、 因果的箭头从不从痕迹倒回源头 / 5. The Causal Arrow Never Reverses from Residue to Origin
 
-能动无法被转让、委托，或存进一个集体的容器。它只作为个体心智能动的、自我区分的运作而存在。每一次把自由锚定在外在框架里的尝试，都放错了它的位置，削弱了它持续的实践。
+能动无法被转让、委托，或存进一个集体的容器。它只作为个体心智能动的、自我区分的运作而存在。每一次把自由秩序锚定在外在框架里的尝试，都放错了能动的位置，并削弱了维系这一秩序的持续实践。
 
-Agency cannot be transferred, delegated, or stored in a collective container. It exists only as the active, self-distinguishing operation of individual Minds. Every attempt to anchor freedom in an external framework misplaces its location and weakens its ongoing practice.
+Agency cannot be transferred, delegated, or stored in a collective container. It exists only as the active, self-distinguishing operation of individual Minds. Every attempt to anchor a free order in an external framework misplaces where agency sits and weakens the ongoing practice that sustains it.
 
 自由放任资本主义不产生自由的个人。自由的个人认出自身的能动、不对他人发起强制，产生了后来被标为自由放任资本主义的那种关系样式。
 
 Laissez-faire capitalism does not produce free individuals. Free individuals, by recognizing their own agency and refusing to initiate force against others, produce the pattern of relations later labeled laissez-faire capitalism.
 
-“经济自由就是把个人权利应用到生产与交易上”这一说法，把马车套在了马前。权利话语描述的是脚印的形状；生成的一步是那只踩下去的脚。一切自由活着的源头，始终在那道选择、行动并克制强制的个体边沿上。[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)是底下的几何：无论一个中心是借由数学工具、智能体外骨骼还是一纸法律宪章在运作，掌舵的边沿都无法把自己的因果移进它身后留下的尾迹。[道德语言作为投影](../moral-language-as-projection/)追踪这次位移在语言上的机制：在制度摩擦中被道德化为审慎或病态的，是个人在归因上推卸自身能动、并将其投射到集体控制结构之上所留下的残余。交出解释的权利，本身也是一次自由的抉择，[目的性的评判与认知的缺省状态](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/)说明了这一点。
+“经济自由就是把个人权利应用到生产与交易上”这一说法，把马车套在了马前。权利话语描述的是脚印的形状；生成的一步是那只踩下去的脚。自由秩序活着的源头，始终在那道选择、行动并克制强制的个体边沿上。[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)是底下的几何：无论一个中心是借由数学工具、智能体外骨骼还是一纸法律宪章在运作，掌舵的边沿都无法把自己的因果移进它身后留下的尾迹。[道德语言作为投影](../moral-language-as-projection/)追踪这次位移在语言上的机制：在制度摩擦中被道德化为审慎或病态的，是个人在归因上推卸自身能动、并将其投射到集体控制结构之上所留下的残余。抉择本身在每一步中都留在自己这一侧——就连交出解释的权利，本身也是一次自由的抉择，[目的性的评判与认知的缺省状态](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/)说明了这一点。
 
-The claim that "economic freedom is simply individual rights applied to production and trade" puts the cart before the horse. Rights-talk describes the shape of the footprint; the generative step is the foot pressing down. The living origin of all freedom stays at the individual edge that chooses, acts, and refrains from force. [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) is the geometry underneath: whether a center works through a mathematical instrument, an agentic harness, or a legal charter, the steering edge cannot relocate its causality into the wake it leaves behind. [Moral Language as Projection](../moral-language-as-projection/) tracks the linguistic mechanism of this displacement: what is moralized in institutional friction as prudence or pathology is the residue of agency disowned in attribution by individuals and projected onto collective control structures. Handing over the right to explain is itself a free choice, as [Judging by Purpose and the Default State of Cognition](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) shows.
+The claim that "economic freedom is simply individual rights applied to production and trade" puts the cart before the horse. Rights-talk describes the shape of the footprint; the generative step is the foot pressing down. The living origin of a free order stays at the individual edge that chooses, acts, and refrains from force. [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) is the geometry underneath: whether a center works through a mathematical instrument, an agentic harness, or a legal charter, the steering edge cannot relocate its causality into the wake it leaves behind. [Moral Language as Projection](../moral-language-as-projection/) tracks the linguistic mechanism of this displacement: what is moralized in institutional friction as prudence or pathology is the residue of agency disowned in attribution by individuals and projected onto collective control structures. Choosing itself stays at home in every move—even handing over the right to explain is itself a free choice, as [Judging by Purpose and the Default State of Cognition](../cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng/) shows.
