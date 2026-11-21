@@ -1,22 +1,22 @@
 # 百万亿地平线之外 / Beyond the Hundred-Trillion Horizon
 
-*热力学相变为文明撑开无界空间，而企业股权从来无法垄断全域外溢的社会剩余 / Thermodynamics unlocks an open horizon, yet equity never monopolizes the diffusing social surplus.*
+*迈出地球的封闭包络开启更宽广的热力学视界，而股权从不垄断外溢的社会剩余 / Stepping past Earth's closed envelope opens a wider thermodynamic horizon, yet equity never monopolizes the diffusing social surplus.*
 
-当技术先锋断言商业航天企业的市值终将数个数量级超越当今人类整体经济产出时，舆论习惯将其归为狂想或创始人修辞。这种轻率的否定，源于将地球当前的一百万亿美元产出当作封闭、静止的分母，再将单一企业的扩张投射其中。要使数千万亿美元的估值在逻辑上自洽成立，文明的经济总分母本身必须伴随鲜活心智走出封闭的行星边界、迈向开放的太阳系视界而实现数个数量级的跃迁。从封闭生物圈跨入开放太阳系，会将可调动的能量通量、物质存量与热沉空间拓宽数个数量级；与此同时，竞争模仿与市场耗散会将由此生成的绝大部分剩余转化为日常生活的普遍水准，而私人企业股权所能留存的仅仅是相伴而生的尾部残差。
+当技术先锋断言一家太空探索企业有朝一日的估值可能比当今地球整体经济高出数个数量级时，公共舆论便会条件反射般地将其斥为创始人夸大之辞。这种否定，源于将地球当前的一百万亿美元产出当作封闭、静止的分母，再将单一企业的扩张投射其中。要使数千万亿美元的估值在逻辑上自洽成立，文明的经济总分母本身必须伴随鲜活心智走出封闭的行星边界、迈向开放的太阳系视界而实现数个数量级的跃迁。从封闭生物圈跨入开放太阳系，会将可调动的能量通量、物质存量与热沉空间拓宽数个数量级；与此同时，竞争模仿与市场耗散会将由此生成的绝大部分剩余传入日常生活的普遍水准，留下私人企业股权作为一道后随残差。
 
 When a technological pioneer asserts that a space exploration firm could eventually achieve a valuation orders of magnitude larger than Earth's contemporary economy, public commentary reflexively dismisses the claim as founder hyperbole. That dismissal rests on holding Earth's present 100-trillion-dollar output as a sealed, static denominator while projecting a single enterprise's expansion inside it. For a multi-quadrillion-dollar valuation to materialize coherently, the civilizational economic denominator must itself expand by multiple orders of magnitude as living minds step out of a closed planetary boundary into an open solar horizon. Crossing from a closed biosphere into an open solar system widens the available energy flux, material stock, and thermal sink by orders of magnitude, while competitive imitation and market dissipation pass the vast preponderance of the resulting surplus into everyday living standards, leaving private corporate equity as a trailing residual.
 
 ## 一、 千万亿美元命题与历史分母的扩容 / 1. The Quadrillion-Dollar Premise and the Expanding Historical Denominator
 
-评估这一断言的首要步骤，是审视当下基准数据的量级约束。当前人类全体社会的年度国内生产总值约为一百万亿至一百零五万亿美元，而全球累积的全部土地建筑、机器设备、基础设施以及金融工具总财富，测算规模大约在四百五十万亿至五百万亿美元之间。声称单一商业实体的市值能够数个数量级凌驾于该基准之上，意味着其资本定价必须跨入千万亿美元的阶梯，即达到10¹⁵美元的数学量级。在传统金融话语与贴现现金流建模中，此类投射显得荒诞不经，常被当作投机噱头弃置一旁。
+评估这一断言，需要对当今行星基准进行严谨审视。当前人类全体社会的年度国内生产总值约为一百万亿至一百零五万亿美元，而全球累积的全部土地建筑、机器设备、基础设施以及金融工具总财富，测算规模大约在四百五十万亿至五百万亿美元之间。声称单一商业实体的市值能够数个数量级凌驾于该基准之上，意味着其资本定价必须跨入千万亿美元的阶梯，即达到10¹⁵美元的数学量级。在传统金融话语与贴现现金流建模中，此类投射显得数学上无从成立，常被当作投机噱头弃置一旁。
 
 Assessing this assertion requires a disciplined examination of contemporary planetary baselines. Humanity's total annual gross domestic product presently hovers between 100 and 105 trillion dollars, while total global wealth—the accumulated stock of land and buildings, machinery, infrastructure, and financial instruments—is estimated around 450 to 500 trillion dollars. Suggesting that a single corporate enterprise could achieve a valuation orders of magnitude larger than that benchmark implies a market capitalization measured in quadrillions of dollars, scaling into the regime of 10¹⁵ dollars. Within conventional financial discourse and discounted cash flow modeling, such a projection appears mathematically nonsensical, routinely discarded as speculative theatre.
 
-然而，若将观察窗口拉长五个世纪，回溯人类上一次跨越重大地理边界的历史时刻——即大西洋航线的开拓，便会发现那种表面上的不可能，源于把当下的基准分母当成了固定不变的存量蛋糕，这正是[当丰裕看起来像稀缺](../when-abundance-looks-like-scarcity/)所剖析的封闭假设。根据经济史学家安格斯·麦迪森的历史重构，在公元1500年，以1990年国际元计量的全球年度总产出仅约为二千四百七十亿美元，其中整个西半球的产出仅占全球总额的百分之三至百分之四，而由中国、印度次大陆以及西欧主导的旧大陆占据了几乎全部有记载的经济活动。那时的全球人均收入维持在数百美元的低位区间，死死锚定在维持温饱的自给农业之上。
+然而，若将观察窗口拉长五个世纪，回溯人类上一次跨越重大地理边界的历史时刻——即大西洋航线的开拓，便会发现那种表面上的不可能，源于把当下的基准分母当成了固定、穷尽的存量蛋糕，这正是[当丰裕看起来像稀缺](../when-abundance-looks-like-scarcity/)所剖析的封闭假设。根据经济史学家安格斯·麦迪森的历史重构，在公元1500年，以1990年吉尔里-哈米斯国际元计量的全球年度总产出仅约为二千四百七十亿美元，其中整个西半球的产出仅占全球总额的百分之三至百分之四，而由中国、印度次大陆以及西欧主导的旧大陆占据了几乎全部有记载的经济活动。那时的全球人均收入维持在数百美元的低位区间，死死锚定在维持温饱的自给农业之上。
 
 Yet expanding the observation window across five centuries to humanity's prior geographical leap—the opening of the Atlantic frontier—reveals that the apparent impossibility stems from treating the present baseline denominator as a fixed, exhaustive pie, the same closure dissected in [When Abundance Looks Like Scarcity](../when-abundance-looks-like-scarcity/). According to economic historian Angus Maddison's historical reconstructions, total planetary output in 1500 AD measured approximately 247 billion dollars in 1990 international Geary-Khamis dollars. The entire Western Hemisphere contributed merely 3 to 4 percent of that aggregate, with the Old World—dominated by China, the Indian subcontinent, and Western Europe—accounting for virtually the entirety of recorded economic activity. Average per-capita incomes hovered in the low hundreds of dollars, rigidly pinned to subsistence agriculture.
 
-时隔五百年，当今诸如苹果、微软或英伟达等头部科技企业，各自的股权市值已稳定在三万五千亿美元上下。单一现代企业的市值，已经是公元1500年全人类年度经济总产出的十倍以上。如果有人在公元1500年的塞维利亚或威尼斯港口向商人与金融家预言，未来会出现一家私人实体的资本价值超过当时整个已知世界年产出的整整一个数量级，这一断言在当时的日常经验下定会被斥为天方夜谭。在公元1500年的分母刻度内，这样的规模无从显影；它之所以在随后几个世纪里化作跨越不同观察者皆可一致确认的宏观事实，正是因为文明总分母实现了数百倍的扩张。
+时隔五百年，当今诸如苹果、微软或英伟达等头部科技企业，各自的股权市值徘徊在三万五千亿美元上下。单一现代企业的市值，已经是公元1500年全人类年度经济总产出的十倍以上。如果有人在公元1500年的塞维利亚或威尼斯港口向商人与金融家预言，未来会出现一家私人实体的资本价值超过当时整个已知世界年产出的整整一个数量级，这一断言在当时的日常经验下定会被斥为天方夜谭。在公元1500年的分母刻度内，这样的规模无从显影；唯有随着鲜活心智不断拓宽经济体中的生产性产能、直至文明总分母自身达到数百倍之巨，这一规模才化作跨越不同观察者保持不变的宏观事实。
 
 ```mermaid
 flowchart TD
@@ -50,7 +50,7 @@ flowchart TD
     style S_SHIFT_ZH fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
 ```
 
-Five centuries later, leading technology enterprises such as Apple, Microsoft, and NVIDIA command individual market capitalizations hovering around 3.5 trillion dollars each. A single contemporary corporate firm is valued at more than ten times the entire annual economic output of 1500 AD humanity combined. Had an observer approached a merchant in Seville or a financier in Venice in 1500 AD and prophesied the existence of a private entity whose capital worth surpassed the annual throughput of the entire known world by an order of magnitude, the claim would have been dismissed as impossible under common experience. Within the 1500 AD denominator, such a scale could not register; it materialized into an invariant macroscopic reality across observers only because the civilizational denominator expanded by hundreds of times over the ensuing centuries.
+Five centuries later, leading technology enterprises such as Apple, Microsoft, and NVIDIA command individual market capitalizations hovering around 3.5 trillion dollars each. A single contemporary corporate firm is valued at more than ten times the entire annual economic output of 1500 AD humanity combined. Had an observer approached a merchant in Seville or a financier in Venice in 1500 AD and prophesied the existence of a private entity whose capital worth surpassed the annual throughput of the entire known world by an order of magnitude, the claim would have been dismissed as impossible under common experience. Within the 1500 AD denominator, such a scale could not register; it materialized into an invariant macroscopic reality across observers only as living minds widened productive capacity across the economy until the civilizational denominator itself stood hundreds of times larger.
 
 ```mermaid
 flowchart TD
@@ -84,11 +84,11 @@ flowchart TD
     style S_SHIFT_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
 ```
 
-不过，这面历史镜子同样引入了一重关键的审慎校正。美洲新大陆的开拓从未被任何单一商业企业垄断。西班牙的西印度贸易署与王室特许垄断确立了早期的贸易漏斗，但后续复利累积的庞大财富，却分散在相互竞争的主权王室、商人财团与去中心化的开拓定居者手中。即便是常因巅峰投机估值折合数万亿现代美元而被引用的荷兰东印度公司，其主导的也是东南亚香料航线而非大西洋西半球，最终也在高昂的行政管理负荷与贸易转向中解体。此外，波托西银矿流入的新大陆白银，在早期引发的是价格革命期间长达数十年的欧洲通货膨胀；切身可感的人均繁荣复利，直到几个世纪后随着制度成熟与工业机械化才得以兑现。
+不过，这面历史镜子同样引入了一重关键校正。美洲新大陆的开拓从未被任何单一商业企业垄断。西班牙的西印度贸易署与王室特许垄断确立了早期的贸易漏斗，但后续复利累积的庞大财富，却分散在相互竞争的主权王室、商人财团与去中心化的开拓定居者手中。即便是荷兰东印度公司——常因其折合数万亿现代美元的巅峰投机估值而被援引——它主导的也是东南亚香料航线而非大西洋西半球，最终也在高昂的行政管理负荷与贸易转向中解体。此外，波托西银矿流入的新大陆白银，在早期引发的是价格革命期间长达数十年的欧洲通货膨胀；切身可感的人均繁荣复利，直到几个世纪后随着制度成熟与工业机械化才得以兑现。
 
 However, this historical mirror also introduces a vital corrective. The opening of the Americas was never captured or monopolized by a single corporate enterprise. Spain's Casa de Contratación and royal monopolies established early trade funnels, yet the vast compounding of wealth was distributed among competing sovereign crowns, merchant syndicates, and decentralized settlers. Even the Dutch East India Company, frequently cited for its peak speculative valuation reaching trillions of modern dollars, dominated Southeast Asian spice routes rather than the Atlantic hemisphere, eventually dissolving under administrative overhead and shifting trade. Furthermore, New World silver from Potosí initially triggered decades of European inflation during the Price Revolution; tangible compounding of per-capita prosperity arrived centuries later through institutional maturation and industrial mechanization.
 
-## 二、 封闭系统与开放视界的热力学相变 / 2. The Thermodynamic Phase Shift from Closed Systems to Open Horizons
+## 二、 从封闭系统迈向开放视界的热力学相变 / 2. The Thermodynamic Phase Shift from Closed Systems to Open Horizons
 
 尽管大西洋边疆的比喻极具启发性，但若从认知模型所映射的物质与能量宏观摩擦来审视，它依然低估了太空边疆的量级。历史上的美洲地理大发现，只是对一个既有封闭行星系统的有限算术加法。美洲大陆将当时已知的陆地面积扩大了约百分之二十八，但人类文明依然被锁在地球的封闭热力学包络之内，受制于稀薄的大气层、脆弱的表层土壤、稀缺的地壳矿产，以及环境废热耗散所面临的严苛生态约束。
 
@@ -236,15 +236,15 @@ Even more deceptive are popular valuations of asteroid mining. Media reports ass
 
 The foundational key to resolving this valuation paradox lies in distinguishing the total social surplus unleashed by a major technological rupture from the private financial equity captured by the pioneer. As explored in [The Causal Order of Private Residuals and Social Surplus](../the-causal-order-of-private-residuals-and-social-surplus/), any surplus must physically be brought into being by living minds placing speculative wagers under intense environmental friction before it can exist; yet once operational channels are proven, competitive imitation and market dissipation transfer the overwhelming bulk of that bounty to downstream participants.
 
-诺贝尔经济学奖得主威廉·诺德豪斯在对战后美国经济技术创新的里程碑式实证研究中，给出了量化经济剩余如何跨创新周期分配的宏观统计遥测。实证数据表明，先驱创新者通过利润与企业股权仅能捕获社会总剩余的约百分之二点二，其余百分之九十七点八尽数通过更低的价格、更强的性能与更高的生活水准传递给消费者与下游产业。这一比例并非凭空降临的形而上学铁律，而是下游心智持续模仿与竞争套利所涌现出的结构性不变量：在生产者捕获与社会剩余之间确立了约一比四十五的基准比例，即百分之二点二除以百分之九十七点八约等于四十五分之一。在对数尺度下，以10为底45的对数约为1.65，意味着四十五倍的落差恰巧对应着一点五至两个数量级。
+诺贝尔经济学奖得主威廉·诺德豪斯在对战后美国经济技术创新的开创性实证研究中，提供了严整的宏观统计遥测，量化了经济剩余如何在创新周期中分配。实证数据表明，先驱创新者通过利润与企业股权仅能捕获社会总剩余的约百分之二点二，其余百分之九十七点八尽数通过更低的价格、更强的性能与更高的生活水准传递给消费者与下游产业。这一比例并非凭空降临的形而上学铁律，而是下游心智持续模仿与竞争套利所涌现出的结构性不变量：在生产者捕获与社会剩余之间确立了约一比四十五的基准比例，即百分之二点二除以百分之九十七点八约等于四十五分之一。在对数尺度下，以10为底45的对数约为1.65，意味着四十五倍的落差恰巧对应着一点五至两个数量级。
 
 In his seminal empirical study on technological innovation within the postwar United States economy, Nobel laureate William Nordhaus provided rigorous macroeconomic telemetry quantifying how economic surplus distributes across innovation cycles. The empirical data demonstrated that pioneering innovators captured only roughly 2.2 percent of total social surplus in profits and corporate equity, with the remaining 97.8 percent passed through to consumers and downstream industries via lower prices, superior capabilities, and enhanced living standards. This ratio is not a metaphysical law from nowhere, but the emergent structural invariant of continuous imitation and competitive arbitrage by downstream minds: establishing a baseline ratio of roughly 1:45 between producer capture and social surplus, where 2.2 percent divided by 97.8 percent yields approximately 1 over 45. In logarithmic terms, the base-10 logarithm of 45 is approximately 1.65, meaning that a 45-fold factor corresponds precisely to 1.5 to 2 orders of magnitude.
 
-纵深的历史宏观统计遥测为这一投射提供了严整的参照系。根据经济史学测算，公元1500年全球年度国内生产总值约为二千四百七十亿美元，而当今全球国内生产总值徘徊在一百万亿美元上下——年度产出流扩张了约四百倍。与此同时，全球累积财富从公元1500年的约二千五百亿美元增长至今日的约五百万亿美元——累积资产存量扩张了两千倍。取年度产出四百倍扩张与累积财富两千倍扩张之间的中位数，可以看到文明经济资产分母在历史上实现了约一千倍的扩张。将诺德豪斯的发现与这一千倍的历史中位数加以校准，会浮现出一个鲜明的数学关系：在扩张了一千倍的分母之内，严格捕获新剩余百分之二点二的先驱企业，其实现的股权估值等于前一个全球经济总量的二十二倍（1,000 × 2.2% = 22）。将这一乘数锚定在实证历史中即可印证其精度：公元1500年全球经济总量的二十二倍约为五万四千亿美元；如今，苹果、微软与英伟达等头部科技企业各自拥有三万五千亿至四万亿美元的市场估值——相当于公元1500年整个行星产出的十四至十六倍，与二十二倍的理论基准高度吻合。这一历史校准表明，设想一家企业的资本市值超越前代文明整体经济规模数个数量级，并非凭空狂想，而是受分母扩容支配的既有宏观经济规律。
+纵深的历史宏观统计遥测为这一投射提供了严整的参照系。根据经济史学测算，公元1500年全球年度国内生产总值约为二千四百七十亿美元，而当今全球国内生产总值徘徊在一百万亿美元上下——年度产出流扩张了约四百倍。与此同时，全球累积财富从公元1500年的约二千五百亿美元增长至今日的约五百万亿美元——累积资产存量扩张了两千倍。取年度产出四百倍扩张与累积财富两千倍扩张之间的中位数，可以看到文明经济资产分母在历史上实现了约一千倍的扩张。将诺德豪斯的发现与这一千倍的历史中位数加以校准，会浮现出一个鲜明的数学关系：在扩张了一千倍的分母之内，严格捕获新剩余百分之二点二的先驱企业，其实现的股权估值等于前一个全球经济总量的二十二倍（1,000 × 2.2% = 22）。将这一乘数锚定在实证历史中即可印证其精度：公元1500年全球经济总量的二十二倍约为五万四千亿美元；如今，苹果、微软与英伟达等头部科技企业各自拥有三万五千亿至四万亿美元的市场估值——相当于公元1500年整个行星产出的十四至十六倍，与二十二倍的理论基准高度吻合。这一历史校准表明，设想一家企业的资本市值超越前代文明整体经济规模数个数量级，并非凭空狂想，而是一种一贯成立的尺度比例——每当鲜活心智在更宽广的经济分母上扩张生产性产能时，它便随之成立。
 
-Deep historical macroeconomic telemetry provides a disciplined reference point for this projection. According to economic historiography, total planetary annual gross domestic product in 1500 AD stood at approximately 247 billion dollars, whereas global GDP today hovers around 100 trillion dollars—a roughly 400-fold expansion in annual productive flows. Concurrently, accumulated global wealth grew from roughly 250 billion dollars in 1500 AD to approximately 500 trillion dollars today—a 2,000-fold expansion in accumulated asset stocks. Taking the median between this 400-fold expansion in annual output and the 2,000-fold expansion in accumulated wealth reveals an approximate 1,000-fold historical expansion in the civilizational economic asset denominator. Calibrating Nordhaus's findings against this 1,000-fold historical median reveals a striking mathematical formulation: within a 1,000-fold expanded denominator, a pioneering enterprise capturing strictly 2.2 percent of the new surplus realizes an equity valuation equal to 22 times the size of the previous global economy (1,000 × 2.2% = 22). Grounding this multiplier in empirical history demonstrates its precision: twenty-two times the 1500 AD global economy yields approximately 5.4 trillion dollars; today, leading technology enterprises such as Apple, Microsoft, and NVIDIA command market valuations between 3.5 and 4 trillion dollars each—representing 14 to 16 times the entire 1500 AD planetary output, remarkably close to the theoretical 22-fold benchmark. This historical calibration demonstrates that envisioning a corporate capitalization orders of magnitude larger than a prior civilization's total economy is not wild hyperbole, but an established macroeconomic pattern governed by denominator expansion.
+Deep historical macroeconomic telemetry provides a disciplined reference point for this projection. According to economic historiography, total planetary annual gross domestic product in 1500 AD stood at approximately 247 billion dollars, whereas global GDP today hovers around 100 trillion dollars—a roughly 400-fold expansion in annual productive flows. Concurrently, accumulated global wealth grew from roughly 250 billion dollars in 1500 AD to approximately 500 trillion dollars today—a 2,000-fold expansion in accumulated asset stocks. Taking the median between this 400-fold expansion in annual output and the 2,000-fold expansion in accumulated wealth reveals an approximate 1,000-fold historical expansion in the civilizational economic asset denominator. Calibrating Nordhaus's findings against this 1,000-fold historical median reveals a striking mathematical formulation: within a 1,000-fold expanded denominator, a pioneering enterprise capturing strictly 2.2 percent of the new surplus realizes an equity valuation equal to 22 times the size of the previous global economy (1,000 × 2.2% = 22). Grounding this multiplier in empirical history demonstrates its precision: twenty-two times the 1500 AD global economy yields approximately 5.4 trillion dollars; today, leading technology enterprises such as Apple, Microsoft, and NVIDIA command market valuations between 3.5 and 4 trillion dollars each—representing 14 to 16 times the entire 1500 AD planetary output, remarkably close to the theoretical 22-fold benchmark. This historical calibration demonstrates that envisioning a corporate capitalization orders of magnitude larger than a prior civilization's total economy is not wild hyperbole, but a scaling proportion that holds consistently whenever living minds expand productive capacity across a wider economic denominator.
 
-具有决定性意义的是，当将这一历史数学关系投射至太空边疆时，一千倍的扩张仅仅构成保守的底线，而非上限。大西洋边疆的开启只是纳入了美洲——在地球封闭生物圈内部增加了百分之二十八的陆地面积。相比之下，迈向太阳系是一场开放式热力学相变：太阳辐射出3.8 × 10²⁶瓦的原生功率，小行星带储藏着数以千万亿吨计的工业矿石，宇宙真空则提供了无界的2.7开尔文热沉。面对这一开放的热力学上行空间，文明分母扩张一千倍只是一个保守的基准底线。将二十二倍的乘数应用于当今一百万亿美元的地表经济，即可得出两千二百万亿美元（2.2 × 10¹⁵美元）的企业市值底线。因此，先驱太空基础设施企业实现数千万亿美元的估值，是开放热力学扩张下具备数学支撑的下界，而非无根幻想。与此同时，人类社会承接其余百分之九十七点八的剩余，收获迈向九点七八亿亿美元（9.78 × 10¹⁶美元）的普惠文明红利。
+具有决定性意义的是，当把这一历史数学关系投射至太空边疆时，一千倍的扩张仅仅构成保守的底线，而非上限。大西洋边疆的开启只是纳入了美洲——在地球封闭生物圈内部增加了百分之二十八的陆地面积。相比之下，迈向太阳系是一场开放式热力学相变：太阳辐射出3.8 × 10²⁶瓦的原生功率，小行星带储藏着数以千万亿吨计的工业矿石，宇宙真空则提供了无界的2.7开尔文热沉。面对这一开放的热力学上行空间，文明分母扩张一千倍只是一个保守的基准底线。将二十二倍的乘数应用于当今一百万亿美元的地表经济，即可得出两千二百万亿美元（2.2 × 10¹⁵美元）的企业市值底线。因此，先驱太空基础设施企业实现数千万亿美元的估值，是开放热力学扩张下具备数学支撑的下界，而非无根幻想。与此同时，人类社会承接其余百分之九十七点八的剩余，收获迈向九点七八亿亿美元（9.78 × 10¹⁶美元）的普惠文明红利。
 
 ```mermaid
 flowchart TD
@@ -328,21 +328,21 @@ flowchart TD
     style S_LADDER_EN fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
 ```
 
-这正是分母扩容带来的结构性推论。若将太空经济仅仅建模为产出相当于今日地表十倍的边际领域，经典的百分之二点二诺德豪斯捕获率会将先驱企业的市值限制在二十万亿美元上下，无法触及千万亿美元门槛。然而那种静态测算低估了热力学相变的尺度。将一千倍的分母扩容确立为基准底线，意味着跨行星经济总分母将迈入十亿亿美元（10¹⁷美元）。在扩容后的分母之内，严格捕获百分之二点二价值的先驱企业自然达到两千二百万亿美元（2.2 × 10¹⁵美元）的市场估值。千万亿美元估值的数学自洽性，并不需要某家私人企业垄断全宇宙这种不可能的剧本；恰恰相反，它要求文明的其余部分收获约九点八亿亿美元（9.78 × 10¹⁶美元）的普惠社会剩余。先驱企业数千万亿美元的股权，只是十亿亿美元文明浪潮留下的尾部残差。
+这正是分母扩容带来的结构性推论。若将太空经济仅仅建模为产出相当于今日地表十倍的边际领域，经典的百分之二点二诺德豪斯捕获率会将先驱企业的市值限制在二十万亿美元上下，无法触及千万亿美元门槛。然而那种静态测算低估了热力学相变的尺度。将一千倍的分母扩容确立为基准底线，意味着跨行星经济总分母将迈入十亿亿美元（10¹⁷美元）。在扩容后的分母之内，严格捕获百分之二点二价值的先驱企业自然达到两千二百万亿美元（2.2 × 10¹⁵美元）的市场估值。千万亿美元估值的数学自洽性，并不需要某家私人企业垄断全宇宙这种不可能的剧本；恰恰相反，它要求文明的其余部分收获约九点八亿亿美元（9.78 × 10¹⁶美元）的普惠社会剩余。先驱企业数千万亿美元的股权，只是十亿亿美元文明浪潮留下的后随残差。
 
 This is the structural consequence of denominator expansion. If one models the space economy as a marginal domain generating merely ten times today's terrestrial output, a classical 2.2 percent Nordhaus capture ratio would constrain the pioneer's capitalization to roughly twenty trillion dollars, falling short of the quadrillion-dollar threshold. Yet that static calculation underestimates the scale of a thermodynamic phase transition. Establishing a 1,000-fold denominator expansion as a baseline floor implies that the total interplanetary economic denominator will cross into one hundred quadrillion dollars (10¹⁷ dollars). Within that expanded denominator, a pioneer capturing strictly 2.2 percent of the value naturally achieves a market capitalization of 2.2 quadrillion dollars (2.2 × 10¹⁵ dollars). The mathematical coherence of the quadrillion-dollar valuation does not require the impossible scenario of a private corporation monopolizing the cosmos; rather, it requires that the rest of civilization receives roughly ninety-eight quadrillion dollars (9.78 × 10¹⁶ dollars) in diffusing social surplus. The pioneer's multi-quadrillion-dollar equity is merely the trailing residual of a hundred-quadrillion-dollar civilizational tide.
 
-在此还必须划定最后一重不可或缺的区分：自然人个体所留存的价值，与企业法人作为股权所留存的价值之间的结构性脱钩。大众评论极易将企业市值与创始人的个人净资产混为一谈，进而对单一自然人坐拥数千万亿美元的想象奇观产生条件反射式的恐慌。在现代资本结构中，鲜活的个体仅持有企业股权的一个局部份额——受到股权稀释、财政税收与生物寿命的严格约束。相反，企业法人充当着汇聚全球养老金体系、主权财富、指数基金以及数十年远期现金流贴现的制度性容器。诺德豪斯的百分之二点二基准衡量的是单一周期内的静态创新利润流；金融股权则对长期网络护城河、结构性协调权与跨期租金进行定价，这正是头部领军企业的平均估值系统性高于百分之二点二基准的原因。此外，当评估整个前沿企业生态系统——涵盖全部上游制造商、轨道物流网络与二级平台——所留存的资本总价值时，累积股权总值超越百分之二点二基准的幅度还要宽广得多。精确的实证百分比远不如这些粗粒度的尺度差异关键：具决定性的是看清数量级逐级放大的阶梯——从个人财富的局部切片，上升到前沿领军企业的资本化股权，再到产业生态系统的总资本存量，最终抵达浩瀚如海的文明总剩余。
+在此还必须划定最后一重不可或缺的区分：个体自然人留存的价值与企业法人股权留存的价值之间的结构性脱钩。大众评论极易将企业市值与创始人的个人净资产混为一谈，进而对单一自然人坐拥数千万亿美元的想象奇观产生条件反射式的恐慌。在现代资本结构中，鲜活的个体仅持有企业股权的一个局部份额——受到股权稀释、财政税收与生物寿命的严格约束。相反，企业法人充当着汇聚全球养老金体系、主权财富、指数基金以及数十年远期现金流贴现的制度性容器。诺德豪斯的百分之二点二基准衡量的是单一周期内的静态创新利润流；金融股权则对长期网络护城河、结构性协调权与跨期租金进行定价，这正是头部领军企业的平均估值系统性高于百分之二点二基准的原因。此外，当评估整个前沿企业生态系统——涵盖全部上游制造商、轨道物流网络与二级平台——所留存的资本总价值时，累积股权总值超越百分之二点二基准的幅度还要宽广得多。精确的实证百分比远不如这些粗粒度的尺度差异关键：具有决定意义的是看清数量级逐级放大的阶梯——从个人财富的局部切片，上升到前沿领军企业的资本化股权，再到产业生态系统的总资本存量，最终抵达浩瀚如海的文明总剩余。
 
 A final, indispensable distinction must be delineated here: the structural decoupling between the value preserved by an individual human and the value preserved as the equity of a corporate entity. Popular commentary easily conflates corporate market capitalization with the personal net worth of a founder, triggering reflexive panic over the imaginary spectacle of a single individual commanding quadrillions of dollars. In modern capital structures, a living individual holds merely a fractional tranche of corporate equity—severely constrained by dilution, fiscal taxation, and biological lifespan. The corporation, conversely, serves as an institutional vessel pooling capital from global pension systems, sovereign wealth, index funds, and decades of capitalized forward cash flows. Nordhaus's 2.2 percent benchmark measures static innovation profit flows within a single period; financial equity prices long-term network moats, structural coordination authority, and intertemporal rents, which is precisely why the average valuation of top leading enterprises systematically exceeds that 2.2 percent baseline. Furthermore, when evaluating the total capital value preserved across the entire corporate frontier ecosystem—encompassing all upstream fabricators, orbital logistics networks, and secondary platforms—the total accumulated equity value exceeds the 2.2 percent baseline by an even wider margin. The precise empirical percentages matter far less than these rough scale differences: what is decisive is grasping the ladder of expanding orders of magnitude, rising from the fractional slice of individual wealth, to the capitalized equity of leading frontier firms, to the total capital stock of the industrial ecosystem, and ultimately to the oceanic expanse of civilizational surplus.
 
-## 五、 时间压缩的演进弧度：五十年内的加速收敛 / 5. The Operational Arc of Temporal Compression: Accelerated Convergence Under Fifty Years
+## 五、 时间压缩的运作弧度：五十年内的有条件可行性 / 5. The Operational Arc of Temporal Compression: Conditional Feasibility Inside Fifty Years
 
 在确立了价值捕获的结构边界之后，这一转型的速率构成了下一个关键追问。历史投射常常在两个偏颇的极端之间摇摆：一端是以创始人为中心的极度乐观，要求在十五至二十年内建成自给自足的火星文明；另一端则是历史字面主义，断言这一转型必须重演大西洋风帆船队耗费三至五个世纪的缓慢爬行。
 
 Having established the structural boundaries of value capture, the velocity of this transition forms the next critical inquiry. Historical projections oscillate between two flawed poles: founder-centric hyper-optimism demanding a self-sustaining Martian civilization within fifteen to twenty years, and historical literalism arguing that the transition must replicate the three-to-five-century crawl of Atlantic sailing fleets.
 
-实际的演进弧度展开于这两极之间。要求五个世纪的投射忽视了现代技术系统相比木制卡拉维尔帆船的质变飞跃。在公元1500年，横跨大西洋需要在无常风向下航行数月，造成严重的协调滞后。如今，地月无线电通信仅需1.3秒，地火信号传递以分钟计，行动协调以光速展开。更为关键的是，大西洋殖民严重受制于生物脆弱性——坏血病、疫病与高死亡率锁死了劳动力供给。而在太空前沿，具身机器系统、采矿机器人与自动化工装充当着鲜活心智的延伸器具，使心智得以在真空与高辐射环境中持续投射行动，免受生物睡眠、营养补给与维生脆弱性的束缚。在非线性复合技术加速的推动下，现代机器工装与信息路由大幅压缩了学习曲线。因此，昔日需要五个世纪走完的跃迁，具备充分理由在五十年以内实现收敛，将演化视界确立在三十至四十五年之间。
+只要鲜活心智持续推进前沿部署，实际运作弧度便会在这两极之间急剧压缩。要求五个世纪的投射忽视了现代技术系统相比木制卡拉维尔帆船的质变飞跃。在公元1500年，横跨大西洋需要在无常风向下航行数月，造成严重的协调滞后。如今，地月无线电通信仅需1.3秒，地火信号传递以分钟计，行动协调以光速展开。更为关键的是，大西洋殖民严重受制于生物脆弱性——坏血病、疫病与高死亡率锁死了劳动力供给。而在太空前沿，具身机器系统、采矿机器人与自动化工装充当着鲜活心智的延伸器具，使心智得以在真空与高辐射环境中持续投射行动，免受生物睡眠、营养补给与维生脆弱性的束缚。随着鲜活心智迎着实时摩擦将这些器具与信息路由逐轮复利叠加，学习曲线便会大幅压缩。以持续投入为前提，昔日需历经数个世纪远洋帆船航行方能完成的作业转型，能够压缩一个数量级，落入五十年以内的数十年窗口——大约三十至四十五年的量级——而不必耗费五个世纪。
 
 ```mermaid
 flowchart TD
@@ -351,18 +351,18 @@ flowchart TD
     classDef warn fill:#0d1117,stroke:#d29922,stroke-width:1.5px,color:#f0f6fc;
     classDef fail fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f0f6fc;
     classDef model fill:#0d1117,stroke:#58a6ff,stroke-width:1.5px,color:#f0f6fc;
-    subgraph S_EXTREMES_ZH ["两极认知偏差"]
+    subgraph S_EXTREMES_ZH ["认知两极"]
         direction TB
         SPRINT["创始人冲刺（15至20年）：受制于会合窗口与资本周期"]:::fail
         SAIL["风帆时代字面主义（300至500年）：忽视机器人与光速通信"]:::warn
     end
-    subgraph S_DRIVERS_ZH ["加速演进驱动力"]
+    subgraph S_DRIVERS_ZH ["作业压缩器具"]
         direction TB
-        ACCEL["具身机器人（绕开生物脆弱性） + 光速通信 + 复合技术加速"]:::model
+        ACCEL["具身机器人（绕开生物脆弱性） + 光速通信 + 复利工装"]:::model
     end
-    subgraph S_REALITY_ZH ["加速演进收敛弧度"]
+    subgraph S_REALITY_ZH ["有条件的运作弧度"]
         direction TB
-        WINDOW["五十年内收敛（30至45年）：数量级时间压缩"]:::mind
+        WINDOW["五十年内的条件窗口（30至45年）：数量级时间压缩"]:::mind
     end
     S_EXTREMES_ZH ==> S_DRIVERS_ZH
     S_DRIVERS_ZH ==> S_REALITY_ZH
@@ -371,7 +371,7 @@ flowchart TD
     style S_REALITY_ZH fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
 ```
 
-The operational arc unfolds between these extremes. Projections demanding five centuries overlook the qualitative leaps separating modern technological systems from wooden caravels. In 1500 AD, crossing the Atlantic required months under erratic winds, imposing crippling coordination lags. Today, cislunar radio requires 1.3 seconds, while Earth-Mars signals travel in minutes, coordinating action at the speed of light. Crucially, Atlantic colonization was severely bottlenecked by biological vulnerability—scurvy, disease, and high mortality constrained labor supply. On the space frontier, embodied machine systems, robotic miners, and automated tooling serve as extended instruments through which living minds project action continuously in vacuum and radiation without biological sleep, nutrition, or life-support vulnerabilities. Propelled by compounding, non-linear technological acceleration, modern machine tooling and information routing compress the learning curve dramatically. Consequently, a transition that once required five centuries has every reason to converge in under fifty years, establishing an evolutionary horizon between thirty and forty-five years.
+Where living minds sustain frontier deployment, the operational arc compresses sharply between these extremes. Projections demanding five centuries overlook the qualitative leaps separating modern technological systems from wooden caravels. In 1500 AD, crossing the Atlantic required months under erratic winds, imposing crippling coordination lags. Today, cislunar radio requires 1.3 seconds, while Earth-Mars signals travel in minutes, coordinating action at the speed of light. Crucially, Atlantic colonization was severely bottlenecked by biological vulnerability—scurvy, disease, and high mortality constrained labor supply. On the space frontier, embodied machine systems, robotic miners, and automated tooling serve as extended instruments through which living minds project action continuously in vacuum and radiation without biological sleep, nutrition, or life-support vulnerabilities. As living minds iteratively compound these instruments and information routing against live friction, the learning curve compresses dramatically. Conditional on sustained commitment, an operational transition that once required centuries of oceanic sail can compress by an order of magnitude into a multi-decade window inside fifty years—on the order of thirty to forty-five years—rather than requiring five centuries.
 
 ```mermaid
 flowchart TD
@@ -385,13 +385,13 @@ flowchart TD
         SPRINT["Founder Sprint (15 to 20 Years): Constrained by Synodic Windows and Capital"]:::fail
         SAIL["Sail-Era Literalism (300 to 500 Years): Ignores Robotics and Speed of Light"]:::warn
     end
-    subgraph S_DRIVERS_EN ["Accelerating Progress Drivers"]
+    subgraph S_DRIVERS_EN ["Operational Compression Instruments"]
         direction TB
-        ACCEL["Embodied Robotics (Bypassing Biology) + Light-Speed Comms + Compounding Tech"]:::model
+        ACCEL["Embodied Robotics (Bypassing Biology) + Light-Speed Comms + Compounded Tooling"]:::model
     end
-    subgraph S_REALITY_EN ["Operational Accelerated Arc"]
+    subgraph S_REALITY_EN ["Conditional Operational Arc"]
         direction TB
-        WINDOW["Convergence Under Fifty Years (30 to 45 Years): Order of Magnitude Compression"]:::mind
+        WINDOW["Conditional Window Inside Fifty Years (30 to 45 Years): Order-of-Magnitude Compression"]:::mind
     end
     S_EXTREMES_EN ==> S_DRIVERS_EN
     S_DRIVERS_EN ==> S_REALITY_EN
@@ -400,9 +400,9 @@ flowchart TD
     style S_REALITY_EN fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
 ```
 
-反过来，这一时间线很可能会略微超出创始人激进的十五至二十年冲刺。行星运动的轨道几何维持着对人类急迫感无动于衷的刚性宏观不变量：地火会合转移窗口每隔二十六个月才开启一次，在二十年间仅提供不到十次作业飞行窗口。闭环生态生命保障系统尚未在跨越数年的长期部署中验证无需补给的自维持平衡。此外，重型冶炼基础设施与行星铸造厂的部署，需要跨越数十年的资本投入周期，无法靠零成本的软件冲刺绕过——正如[“物理学才是定律”的障眼法](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)所追踪的，纸面方程不会在真空中自我执行，每一项工程假说都必须支付宏观接触摩擦中不可逆的能量与时间代价。将演化视界标定在三十至四十五年——稳妥处于五十年以内——既尊重了技术加速驱动的时间压缩，也正视了天体力学与重资产建设所固有的接触摩擦。
+反过来，即便保持持续投入，物理基建的落成依然很可能会超出创始人激进的十五至二十年冲刺。行星运动的轨道几何维持着对人类急迫感无动于衷的刚性宏观不变量：地火会合转移窗口每隔二十六个月才开启一次，在二十年间仅提供不到十次作业飞行窗口。闭环生态生命保障系统尚未在跨越数年的长期部署中验证无需补给的自维持平衡。此外，重型冶炼基础设施与行星铸造厂的部署，需要跨越数十年的资本投入周期，无法靠零成本的软件冲刺绕过——正如[“物理学才是定律”的障眼法](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/)所追踪的，纸面方程不会在真空中自我执行，每一项工程假说都必须支付宏观接触摩擦中不可逆的能量与时间代价。将这一条件视界校准至大致三十至四十五年——留在五十年以内而非数个世纪，且不锁死保证兑现的日历日期——既计入了迭代复利工装所释放的时间压缩，也正视了天体力学与重资产建设所固有的接触摩擦。
 
-Conversely, this timeline will likely extend slightly beyond the founder's aggressive fifteen-to-twenty-year sprint. The orbital geometry of planetary motion maintains rigid macroscopic invariants indifferent to human haste: Earth-Mars synodic transfer windows open only once every twenty-six months, offering fewer than ten operational flight windows across two decades. Closed-loop ecological life support has yet to demonstrate self-sustaining balance without resupply over extended multi-year deployments. Furthermore, deploying heavy smelting infrastructure and planetary foundries requires multi-decade capital deployment cycles that cannot be bypassed by zero-cost software sprints—for as [The Sleight of Hand in "Physics Is the Law"](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) traces, written equations do not execute themselves in vacuum, and every engineering hypothesis must pay the irreversible energy and time costs of macroscopic contact friction. Calibrating the horizon to thirty to forty-five years—comfortably under fifty years—honors the compression driven by accelerating technology while respecting the contact frictions of celestial mechanics and heavy capital buildout.
+Conversely, even under sustained commitment, physical buildout will likely extend beyond the founder's aggressive fifteen-to-twenty-year sprint. The orbital geometry of planetary motion maintains rigid macroscopic invariants indifferent to human haste: Earth-Mars synodic transfer windows open only once every twenty-six months, offering fewer than ten operational flight windows across two decades. Closed-loop ecological life support has yet to demonstrate self-sustaining balance without resupply over extended multi-year deployments. Furthermore, deploying heavy smelting infrastructure and planetary foundries requires multi-decade capital deployment cycles that cannot be bypassed by zero-cost software sprints—for as [The Sleight of Hand in "Physics Is the Law"](../the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality/) traces, written equations do not execute themselves in vacuum, and every engineering hypothesis must pay the irreversible energy and time costs of macroscopic contact friction. Calibrating that conditional horizon to roughly thirty to forty-five years—inside fifty years rather than centuries, without fixing a guaranteed calendar date—accounts for the compression unlocked by iteratively compounded tooling while respecting the contact frictions of celestial mechanics and heavy capital buildout.
 
 ## 六、 第一人称抉择与宏观阻力的涌现本相 / 6. First-Person Choices and the Emergent Nature of Macro Frictions
 
@@ -414,7 +414,7 @@ Faced with the complexities of this transition, analytical frameworks often dema
 
 Treating institutional frictions, regulatory delays, or geopolitical tensions as external mechanical barriers pushing back against technological momentum is an epistemological misstep. As demonstrated in [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) and [Macro Parameters, Micro Choices, and the Command of Yields](../the-summary-first-reversal-and-the-command-of-yields/), regulatory inertia and institutional drag are not autonomous forces operating in a vacuum; they are merely the aggregate third-person footprints of countless individual, first-person choices enacted by living agents.
 
-每一位在发射频次与安全裕度之间做校准的监管者、每一位决定是否离开老牌承包商加入前沿初创公司的航天工程师，以及每一位在行星探索与地表社会预算之间做权衡的政策制定者，都在从各自的主观视角出发，作出内部自洽的选择。正因为每一项选择都源自不可透视的内部价值权衡，任何第三人称模型都无法预先伸入那些选择内部去钦定一条决定论的时间线。
+每一位在发射频次与安全裕度之间作校准的监管者、每一位决定是否离开老牌承包商加入前沿初创公司的航天工程师，以及每一位在行星探索与地表社会预算之间权衡取舍的政策制定者，都在从各自的主观视角出发，作出内部自洽的选择。正因为每一项选择都源自不可透视的内部价值权衡，任何第三人称模型都无法预先伸入那些选择内部去钦定一条决定论的时间线。
 
 ```mermaid
 flowchart TD
@@ -484,13 +484,13 @@ flowchart TD
 
 When millions of independent selections interact, accumulating path dependence and positive feedback, heavy-tailed distributions and power laws naturally emerge on a macroscopic scale, manifesting as concentrated launch shares and non-linear adoption curves. Yet just as [Your Codebase Is Memory](../your-codebase-is-memory/) traces how an externalized repository holds only the settled residue of prior cuts while active comprehension and steering remain at the living edge of the Mind, these statistical footprints and valuation ledgers merely record historical aggregations after the fact; they never become an autonomous engine dictating the first-person agency that produced them. Demanding granular forecasts of future treaties or exact market shares trades structural clarity for short-term speculative noise. What holds across scales are the structural invariants: the thermodynamic phase shift of an open horizon, the competitive dissipation of social surplus, and the irreducible first-person agency of living minds stepping onto the frontier.
 
-## 七、 实体财富与纸面求索权的终极分野 / 7. The Ultimate Divergence Between Substantive Wealth and Paper Claims
+## 七、 实体财富与纸面索取权的终极分野 / 7. The Ultimate Divergence Between Substantive Wealth and Paper Claims
 
 这一追问的最终解答，在于区分金融索取凭证与鲜活的生产性财富。正如[拥有更多从不是原因](../having-more-is-never-the-cause/)与[价值、货币与财富的生成机制](../the-generative-mechanics-of-value-money-and-wealth/)所阐明的，企业的市值规模只是一张针对未来预期分红与经济租金的法定索取凭证；无论纸面股权数字多么惊人，金融估值本身都无法被直接消费。
 
 The final resolution of this inquiry rests upon distinguishing financial claim checks from living productive wealth. As articulated in [Having More Is Never the Cause](../having-more-is-never-the-cause/) and [The Generative Mechanics of Value, Money, and Wealth](../the-generative-mechanics-of-value-money-and-wealth/), a corporation's market capitalization is merely a legal claim check on anticipated future dividends and economic rents. Regardless of how astronomical paper equity values appear, financial valuations cannot be consumed directly.
 
-实体财富从来不是资产负债表上记载的纸面倍数，也不是漂浮在宇宙虚空中的死寂物质，而是心智通过物理交互抵御熵增、延展生命并维系自觉繁荣的鲜活能力。它由充沛的能源、高韧性的高速通信、无需破坏地表生态即可开采的原生矿产、离地计算容量，以及在宇宙中拓展开来的生存空间所构成。正如约翰·洛克菲勒经久不衰的历史遗产，并不是他个人峰值时期占美国国内生产总值百分之二的财富份额，而是平价煤油点亮了整片大陆无数普通家庭的夜晚；太空边疆的实体财富，也从不驻留在某家航天企业的股票代码之中。
+实体财富从来不是资产负债表上记载的纸面倍数，也不是漂浮在宇宙虚空中的死寂物质，而是心智通过物理交互抵御熵增、延展生命并维系自觉繁荣的鲜活能力。它由充沛的能源、高韧性的高速通信、无需破坏生态即可开采的原生矿产、离地计算容量，以及在宇宙中拓展开来的栖居空间所构成。正如约翰·洛克菲勒经久不衰的历史遗产，并不是他个人峰值时期占美国国内生产总值百分之二的财富份额，而是平价煤油点亮了整片大陆无数普通家庭的夜晚；太空边疆的实体财富，也从不驻留在某家航天企业的股票代码之中。
 
 ```mermaid
 flowchart TD
@@ -499,13 +499,13 @@ flowchart TD
     classDef warn fill:#0d1117,stroke:#d29922,stroke-width:1.5px,color:#f0f6fc;
     classDef fail fill:#0d1117,stroke:#f85149,stroke-width:1.5px,color:#f0f6fc;
     classDef model fill:#0d1117,stroke:#58a6ff,stroke-width:1.5px,color:#f0f6fc;
-    subgraph S_FINANCE_ZH ["金融资产估值（法定求索权）"]
+    subgraph S_FINANCE_ZH ["金融资产估值（法定索取权）"]
         direction TB
         EQUITY["企业市值：针对未来租金的纸面索取凭证"]:::warn
     end
     subgraph S_REAL_ZH ["文明实体财富（抗熵能力）"]
         direction TB
-        WEALTH["恒星能源丰沛供给 + 拓展生存空间 + 缓解生物圈负荷"]:::mind
+        WEALTH["恒星能源丰沛供给 + 拓展栖居空间 + 缓解生物圈负荷"]:::mind
     end
     subgraph S_DESTINY_ZH ["财富的终极归宿"]
         direction TB
