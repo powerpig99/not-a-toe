@@ -18,9 +18,9 @@ Understanding the universe simplifies greatly once it is recognised that time is
 
 ## 二、 有限而不固定的地平线 / 2. The Finite, Unfixed Horizon
 
-“不确定”或“自由变量”从哪里来？因果无尽地延伸，可任何第一人称的视角，都必然被一条有限而不固定的认识地平线所界定。它是有限的：在任何一刻，观察者都感知或计算不了无穷因果网的全体，地平线之外的一切都无法预先计算，带着无尽的潜能。它又是不固定的：这条地平线不是一堵静止的墙，行动者在行动、观察、与物质的摩擦周旋之中，地平线的边界随之移动、扩展。所谓的“自由变量”，因此不是对因果的任意破坏，而是未被观察的因果链越过移动着的地平线时的下游显现；这条边界登记在哪里，是心智做出的选择。
+“不确定”或“自由变量”从哪里来？因果无尽地延伸，可任何第一人称的视角，都必然被一条有限而不固定的认识地平线所界定。它是有限的：在任何一刻，观察者登记到的只是有界的区分切片，从不是无穷因果网已完成的总体，而地平线之外是敞开的潜能，并非预先算好的剧本。它又是不固定的：这条地平线不是一堵静止的墙，行动者在行动、观察、与物质的摩擦周旋之中，地平线的边界随之移动、扩展。所谓的“自由变量”，因此既不是对因果的任意破坏，也并非只是隐藏的先前链条的下游显现：相对于每一条已经实现的序列，在移动的边缘上发起的那次切分不由先前的痕迹固定，而这条边界登记在哪里，是心智做出的选择。
 
-Where does "indeterminacy" or the "free variable" come from? Causality extends without end, yet any first-person view is necessarily bounded by a finite but unfixed horizon of knowing. It is finite: at any moment an observer cannot perceive or compute the whole of the endless causal web, and everything beyond the horizon cannot be computed in advance and carries endless potential. It is unfixed: the horizon is not a static wall, and as an agent acts, observes and deals with material friction, its boundary moves and widens. The so-called "free variable" is therefore not an arbitrary breach of causality but the downstream appearance of unobserved causal chains crossing the moving horizon; where that boundary registers is a choice the Mind makes.
+Where does "indeterminacy" or the "free variable" come from? Causality extends without end, yet any first-person view is necessarily bounded by a finite but unfixed horizon of knowing. It is finite: at any moment an observer registers only a bounded slice of distinctions, never a completed totality of an endless causal web, and what lies beyond the horizon is open potential rather than a pre-computed script. It is unfixed: the horizon is not a static wall, and as an agent acts, observes and deals with material friction, its boundary moves and widens. The so-called "free variable" is therefore neither an arbitrary breach of causality nor a mere downstream appearance of hidden prior chains: relative to every already-realised sequence, the initiating cut at the moving edge is not fixed by prior traces, and where that boundary registers is a choice the Mind makes.
 
 ## 三、 观察者的切分 / 3. The Observer's Cut
 
