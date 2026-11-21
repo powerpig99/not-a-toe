@@ -2,9 +2,9 @@
 
 *只要行动者仍能修正、异议或离开，协作便始终是主权的表面模式，而记下这一点的观察不要求任何人采纳。 / Cooperation stays the surface of sovereignty while agents can still revise, dissent, or leave, and the observation that notes this requires uptake from no one.*
 
-自我区分的活动发生着——无因，不息。称之为心智：观察者早已在途，它的每一个行动都是一次区分。“共享”一词同时承载着两种并存的读法。在一种读法中，共享的人性是指诸多独特个体持续在场，他们依然行使判断与能动性，依然保有修正或退出的能力。在另一种读法中，同一个短语所指称的却是一个单元：在其中，个体主权早已被拿去换取归属的确定性。一位观察者若以让这一区分保持可见为目的，便可以把两种读法一并登记下来。无论哪一种读法，都不因被登记这一事实，就决定其他任何言说者必须得出什么结论、采取什么行动。
+自我区分的活动发生着——无因，不息。称之为心智：观察者早已在途，它的每一个行动都是一次区分。“共享”一词同时承载着两种并存的读法。在一种读法中，共享的人性是指诸多独特个体持续在场，他们依然行使判断与能动性，依然保有修正或退出的能力。在另一种读法中，同一个短语所指称的却是一个单元：在其中，个体主权被当作早已拿去换取了归属的确定性。一位观察者若以让这一区分保持可见为目的，便可以把两种读法一并登记下来。无论哪一种读法，都不因被登记这一事实，就决定其他任何言说者必须得出什么结论、采取什么行动。
 
-Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. The word “shared” carries two readings that remain available at once. In one, a shared humanity is the maintained presence of distinct individuals who continue to exercise judgment, agency, and the capacity to revise or withdraw. In the other, the same phrase names a unit in which individual sovereignty has already been exchanged for the certainty of belonging. Both readings can be registered by an observer who holds the purpose of keeping the distinction visible. Neither reading, by the fact of being registered, settles what any other speaker must conclude or do.
+Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: the observer already underway, every act of which is a distinction. The word “shared” carries two readings that remain available at once. In one, a shared humanity is the maintained presence of distinct individuals who continue to exercise judgment, agency, and the capacity to revise or withdraw. In the other, the same phrase names a unit in which individual sovereignty is treated as already exchanged for the certainty of belonging. Both readings can be registered by an observer who holds the purpose of keeping the distinction visible. Neither reading, by the fact of being registered, settles what any other speaker must conclude or do.
 
 ## 一、 协作是持续主权的表面模式 / 1. Cooperation as the Surface of Ongoing Sovereignty
 
@@ -27,7 +27,7 @@ flowchart TD
     subgraph S_Readings["2. “共享”的两种并存读法"]
         direction TB
         R1["读法甲（持续的复数性）：保有判断、修正与退出能力的诸多独立行动者"]
-        R2["读法乙（吸纳性单元）：个体主权被拿去换取归属的确定性"]
+        R2["读法乙（吸纳性单元）：个体主权被当作拿去换取了归属的确定性"]
     end
     subgraph S_Uptake["3. 采纳的非对称性"]
         direction TB
@@ -65,7 +65,7 @@ flowchart TD
     subgraph S_Readings["2. Two Simultaneous Readings of 'Shared'"]
         direction TB
         R1["Reading A (Maintained Plurality): Distinct Agents Retaining Judgment, Revision, and Exit"]
-        R2["Reading B (Absorptive Unit): Individual Sovereignty Exchanged for Certainty of Belonging"]
+        R2["Reading B (Absorptive Unit): Individual Sovereignty Treated as Exchanged for Certainty of Belonging"]
     end
     subgraph S_Uptake["3. Asymmetry of Uptake"]
         direction TB
@@ -98,7 +98,7 @@ The inversion occurs when the observation is restated as a claim about what othe
 
 ## 四、 修正、异议或退出的能力 / 4. The Capacity to Revise, Dissent, or Leave
 
-一旦倒置就位，关于共享人性或集体目的的语言，便既可以用来描述一个仍由判断着的行动者所构成的复数群体，也可以用来为“个体判断应当退让”的主张背书。这两种用法依然可以通过“视野中的行动者是否继续持有修正、异议或退出的能力”来加以区分——即[正交的拒绝](../the-orthogonal-refusal/)与[剩余个人主义](../residual-individualism/)所追溯的那根活的抉择杠杆。有了这一能力，协作才始终是主权的表面模式，而不是主权的替代品。观察记下了这一条件。若一位言说者尚未自己选定那个让这一条件变得相干的目的，观察并不为其规定结果。
+即便倒置已经就位，关于共享人性或集体目的的语言，依然既可以指向仍由作判断的行动者构成的复数群体，也可以指向“个体判断应当退让”的主张。这两种用法依然可以通过“视野中的行动者是否让修正、异议或退出的能力保持敞开”来加以区分——这正是在动用[正交的拒绝](../the-orthogonal-refusal/)与[剩余个人主义](../residual-individualism/)所追溯的那根活的抉择杠杆；即便暂缓动用，这根杠杆也依然留在每一个所在。有了这一敞开的能力，协作才始终是持续主权的表面模式，而不致呈现为一个吸纳性单元：在其中，归属被当作压过了个体判断。观察记下了这一条件。若一位言说者尚未自己选定那个让这一条件变得相干的目的，观察并不为其规定结果。
 
 ```mermaid
 flowchart TD
@@ -106,15 +106,15 @@ flowchart TD
         direction TB
         I1["言说者一侧的越界：将受目的约束的切分重述为他人必须看见的事实"]
         I2["诠释者一侧的越界：将观察读作已经颁布的规范要求"]
-        I3["所得主张：援引集体目的要求个体判断退让"]
+        I3["所得主张：将“共享”或集体目的强推为权威标准"]
         I1 --> I3
         I2 --> I3
     end
     subgraph S_Test["2. 针对“共享”的诊断检验"]
         direction TB
-        T1["参与其中的行动者是否仍保有修正、异议或离开的能力？"]
+        T1["参与其中的行动者是否让修正、异议或离开的能力保持敞开？"]
         T2["是：协作作为持续个体主权的表面模式"]
-        T3["否：在吸纳性单元之内，归属已取代个体主权"]
+        T3["否：归属压过判断的吸纳性单元（主权并未移置）"]
         T4["自我施用：这一诊断依然是一次不要求任何人采纳的观察"]
         T1 --> T2
         T1 --> T3
@@ -133,7 +133,7 @@ flowchart TD
     style T4 fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-Once the inversion is in place, the language of shared humanity or collective purpose can be used either to describe a plurality that remains composed of judging agents or to underwrite a claim that individual judgment should yield. The two uses remain distinguishable by whether the agents in view continue to hold the capacity to revise, dissent, or leave—the live choosing lever traced in [The Orthogonal Refusal](../the-orthogonal-refusal/) and [Residual Individualism](../residual-individualism/). That capacity is the condition under which cooperation stays the surface of sovereignty rather than its replacement. The observation notes the condition. It does not prescribe the outcome for any speaker who has not already chosen the purpose that makes the condition relevant.
+Even once the inversion is in place, the language of shared humanity or collective purpose can still point either to a plurality that remains composed of judging agents or to a claim that individual judgment should yield. The two uses remain distinguishable by whether the agents in view keep open the capacity to revise, dissent, or leave—exercising the live choosing lever traced in [The Orthogonal Refusal](../the-orthogonal-refusal/) and [Residual Individualism](../residual-individualism/), which remains at each locus even when deferred. That open capacity is the condition under which cooperation stays the surface of ongoing sovereignty rather than presenting as an absorptive unit in which belonging is treated as overriding individual judgment. The observation notes the condition. It does not prescribe the outcome for any speaker who has not already chosen the purpose that makes the condition relevant.
 
 ```mermaid
 flowchart TD
@@ -141,15 +141,15 @@ flowchart TD
         direction TB
         I1["Speaker-Side Overstep: Restating a Purpose-Bound Cut as What Others Must See"]
         I2["Interpreter-Side Overstep: Reading the Observation as an Issued Requirement"]
-        I3["Resulting Claim: Collective Purpose Invoked to Demand Individual Judgment Yield"]
+        I3["Resulting Claim: 'Shared' or Collective Purpose Pressed as an Authoritative Standard"]
         I1 --> I3
         I2 --> I3
     end
     subgraph S_Test["2. The Diagnostic Test on 'Shared'"]
         direction TB
-        T1["Do the Participating Agents Retain the Capacity to Revise, Dissent, or Leave?"]
+        T1["Do the Participating Agents Keep Open the Capacity to Revise, Dissent, or Leave?"]
         T2["Yes: Cooperation as the Surface of Ongoing Individual Sovereignty"]
-        T3["No: Belonging Has Replaced Individual Sovereignty Within an Absorptive Unit"]
+        T3["No: Absorptive Unit Where Belonging Overrides Judgment (Sovereignty Unrelocated)"]
         T4["Self-Application: This Diagnostic Remains an Observation Requiring Uptake from No One"]
         T1 --> T2
         T1 --> T3

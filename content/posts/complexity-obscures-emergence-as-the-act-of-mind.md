@@ -42,14 +42,14 @@ flowchart TD
     subgraph S_Open["作为越过持守之开放的涌现"]
         direction TB
         Carry["进位与跨出：先前持守封不住的继续"]
-        Mitosis["正交分裂：沿并行流线拆分投射"]
+        Mitosis["正交分裂：心智将坍缩的轴线拆开到更宽的持守或并行流线"]
         Error["范畴谬误：把进位归因于脚手架的复杂性"]
         Carry --> Mitosis
         Carry -.->|"当前提择取从视野中脱落"| Error
     end
     Select -->|"搭建并致密化"| Scaffold
     Ceiling ==>|"边缘越过界限继续"| Carry
-    Mitosis ==>|"重新渲染高阶前提"| Select
+    Mitosis ==>|"心智退后一步重新渲染前提"| Select
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Hold fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Open fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -83,14 +83,14 @@ flowchart TD
     subgraph S_Open["Emergence as Openness Past the Hold"]
         direction TB
         Carry["The Carry / Step-Out: Continuation the prior hold cannot seal"]
-        Mitosis["Orthogonal Mitosis: Splitting projections across parallel streamlines"]
+        Mitosis["Orthogonal Mitosis: Mind separates collapsed axes across wider holds or parallel streamlines"]
         Error["Category Error: Attributing the carry to the complexity of the scaffold"]
         Carry --> Mitosis
         Carry -.->|"When premise-selection drops out of view"| Error
     end
     Select -->|"Erects & densifies"| Scaffold
     Ceiling ==>|"Edge continues past the bound"| Carry
-    Mitosis ==>|"Re-renders higher-order premise"| Select
+    Mitosis ==>|"Mind steps back to re-render premise"| Select
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Hold fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
     style S_Open fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -110,9 +110,9 @@ flowchart TD
 
 The simplest illustration is binary addition under a one-bit hold. Adding 1 to 1 inside a closed one-bit register yields 0 and drops the overflow. Once that dropped overflow is read from a wider hold as a carry while the one-bit register is still taken as the frame, the carry can register as novelty produced by the system, as if the rules of one-bit arithmetic had generated something they did not contain. The carry is real as registration, yet its source is not the operations inside the hold. The hold itself is what makes continuation past the ceiling appear as an extra term because the register does not open itself. The 2 is the act that widens the hold—a further distinction made and paid for at the edge, not a surplus extracted from one-bit law. The carry is not produced by the one-bit rules; it is the activity continuing once those rules are no longer treated as exhaustive, which is why [The Carry That Cannot Be Named Inside the Register](../the-carry-that-cannot-be-named-inside-the-register/) shows that inside any fixed-width register an overflow is indistinguishable from a modular wrap-around until a mind steps outside the bit space to name the carry. Complexity, held as the closed assumption of what counts, is that one-bit ceiling elaborated. What is called emergence is the carry: continuation that the definition cannot seal, registered against the definition as if it had arisen from within it. No amount of complexity captures the open field without loss, as [Lossless Knowledge of an Open Field Is Incoherent](../lossless-knowledge-of-an-open-field-is-incoherent/) demonstrates.
 
-这是[哥德尔不完备定理](https://grokipedia.com/page/G%C3%B6del's_incompleteness_theorems)之形状最简单的图景，尽管并非它的形式化实例：哥德尔表明，任何一致、可有效公理化且强到足以表达自然数算术的形式系统，都包含它无法从内部证明的真命题。一位寄存器弱得太多，这条定理无法直接适用于它，但两者共有同样的结构几何——一个在持守之内发起的运算，其封不住的继续跨出了持守之外。这种不完备既不是算术的缺陷，也不是藏在比特里的第二种力。它是活动的开放——即心智继续区分时实在的开放——在任何把封闭寄存器当作穷尽地基的地方表达自身。[生产、消费与心智的区分](../production-consumption-and-the-minds-distinction/)把同一种一位坍缩作为抹除与扩展来处理；这里呈现的那一面，则是进位被错当成复杂性的涌现产物。脚手架保持开放的理由，正是[没有系统能被保持封闭](../no-system-can-be-kept-closed/)在一位寄存器这一最小形式中所确立的那一条。
+这是[哥德尔不完备定理](https://grokipedia.com/page/G%C3%B6del's_incompleteness_theorems)之形状最简单的图景，尽管并非它的形式化实例：哥德尔表明，任何一致、可有效公理化且强到足以表达自然数算术的形式系统，都包含一些命题，它们在元理论所设定的预期解释下成立，却无法从内部证明。一位寄存器弱得太多，这条定理无法直接适用于它，但两者共有同样的结构几何——一个在持守之内发起的运算，其封不住的继续跨出了持守之外。这种不完备既不是算术的缺陷，也不是藏在比特里的第二种力。它是活动的开放——即心智继续区分时实在的开放——在任何把封闭寄存器当作穷尽地基的地方表达自身。[生产、消费与心智的区分](../production-consumption-and-the-minds-distinction/)把同一种一位坍缩作为抹除与扩展来处理；这里呈现的那一面，则是进位被错当成复杂性的涌现产物。脚手架保持开放的理由，正是[没有系统能被保持封闭](../no-system-can-be-kept-closed/)在一位寄存器这一最小形式中所确立的那一条。
 
-This is the simplest picture of the shape of [Gödel's incompleteness theorems](https://grokipedia.com/page/G%C3%B6del's_incompleteness_theorems), though not a formal instance of them: Gödel showed that any consistent, effectively axiomatized formal system strong enough to express the arithmetic of natural numbers contains true statements it cannot prove from within. A one-bit register is far too weak for the theorem to apply directly, yet what it shares is the exact structural geometry—an operation initiated inside the hold whose unsealed continuation steps outside it. The incompleteness is neither a defect in the arithmetic nor a second force hidden inside the bits. It is the openness of the activity—of reality as the Mind continues to distinguish—expressing itself wherever a closed register is treated as an exhaustive ground. [Production, Consumption, and the Mind's Distinction](../production-consumption-and-the-minds-distinction/) works the same one-bit collapse as erasure versus expansion; here the face is the carry mistaken for an emergent product of complexity. The scaffolding stays open for the exact reason [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) establishes in its smallest form, a one-bit register.
+This is the simplest picture of the shape of [Gödel's incompleteness theorems](https://grokipedia.com/page/G%C3%B6del's_incompleteness_theorems), though not a formal instance of them: Gödel showed that any consistent, effectively axiomatized formal system strong enough to express the arithmetic of natural numbers contains statements that hold under an intended interpretation posited in the metatheory yet cannot be proved from within. A one-bit register is far too weak for the theorem to apply directly, yet what it shares is the exact structural geometry—an operation initiated inside the hold whose unsealed continuation steps outside it. The incompleteness is neither a defect in the arithmetic nor a second force hidden inside the bits. It is the openness of the activity—of reality as the Mind continues to distinguish—expressing itself wherever a closed register is treated as an exhaustive ground. [Production, Consumption, and the Mind's Distinction](../production-consumption-and-the-minds-distinction/) works the same one-bit collapse as erasure versus expansion; here the face is the carry mistaken for an emergent product of complexity. The scaffolding stays open for the exact reason [No System Can Be Kept Closed](../no-system-can-be-kept-closed/) establishes in its smallest form, a one-bit register.
 
 ## 四、 量子的几何 / 4. The Quantum Geometry
 

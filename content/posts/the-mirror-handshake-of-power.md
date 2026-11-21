@@ -54,7 +54,7 @@ flowchart TD
     style Power fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-指令传来时，是接到指令的心智在自己的原点上估量违抗的代价、独自承担的沉重与未知的风险，然后作出“交出决定、退为执行”的判定。代价可以极重，这份重量是登记到的摩擦，不因这里的分析而减轻，分析指出的只是判定发生的位置。没有这一步让渡，指令是一串在空气中震颤的声波。
+指令传来时，是接到指令的心智在自己的原点上估量违抗的代价、独自承担的沉重与未知的风险，然后作出“交出决定、退为执行”的判定。代价可以极重，这份重量是在原点登记到的摩擦，不因这里的分析而减轻，分析指出的只是判定发生的位置。没有这一步让渡，指令是一串在空气中震颤的声波。
 
 When a command arrives, it is the mind receiving it that, at its own origin, estimates the cost of defiance, the weight of carrying things alone and the unknown risk, and then makes the call to hand over the decision and fall back to carrying it out. The cost can be extremely heavy; that weight is friction registered at the origin, and this analysis does not lighten it. The analysis only points to where the call is made. Without that step of handing over, a command is a string of sound waves trembling in the air.
 
@@ -68,7 +68,7 @@ The pull of a center can be read the same way. Whoever sits at the top of a pyra
 
 Treating autonomy as an either-or switch is adequate when the only question is who decides this one thing. Its boundary is that choices do not take the same stance in every direction. Borrowing the language of vectors as scaffolding, a mind sits in a many-dimensional state space and has its own projection on each mutually orthogonal axis.
 
-驱动一段生命的始终是抉择，而这些抉择在心智内部未必彼此一致。用一个耦合系数 c 来记：c = 0 是自己行动、自己承受后果；c > 0 是把别人的后果揽到自己身上；c < 0 是把自己的判断交给别处。同一个心智可以在一条轴上取 c = 0，同时在另一条轴上把权能交出。
+驱动一段生命的始终是抉择，而这些抉择在心智内部未必彼此一致。用一个耦合系数 c 来记：c = 0 是自己行动、直面自身的后果与反馈；c > 0 是介入认领他人的决定并缓冲其误差信号；c < 0 是把自己的判断交给别处。同一个心智可以在一条轴上取 c = 0，同时在另一条轴上把权能交出。
 
 ```mermaid
 flowchart TD
@@ -76,7 +76,7 @@ flowchart TD
         direction TB
         Mind["第一人称原点：抉择的源头 +1"]
         Tech["技术与创业：c = 0，自己承受后果"]
-        Org["团队与组织：c > 0，揽下他人的后果"]
+        Org["团队与组织：c > 0，认领他人的决定并缓冲其误差信号"]
         Idea["公共话语与信念：c < 0，交出自己的判断"]
         Mind --> Tech
         Mind --> Org
@@ -89,7 +89,7 @@ flowchart TD
     style Idea fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-What drives a life is always choice, yet these choices need not agree with one another inside a mind. Let a coupling coefficient c keep the record: c = 0 is acting and bearing the consequences oneself; c > 0 is taking another's consequences onto oneself; c < 0 is handing one's own judgment elsewhere. The same mind can hold c = 0 on one axis while giving its capacity away on another.
+What drives a life is always choice, yet these choices need not agree with one another inside a mind. Let a coupling coefficient c keep the record: c = 0 is acting and meeting one's own consequences and feedback directly; c > 0 is stepping in to claim another's decisions and buffer their error signal; c < 0 is handing one's own judgment elsewhere. The same mind can hold c = 0 on one axis while giving its capacity away on another.
 
 ```mermaid
 flowchart TD
@@ -97,7 +97,7 @@ flowchart TD
         direction TB
         Mind["First-person origin: the source of choice +1"]
         Tech["Technology and venture: c = 0, bearing one's own consequences"]
-        Org["Team and organization: c > 0, taking on others' consequences"]
+        Org["Team and organization: c > 0, claiming others' decisions and buffering their error signals"]
         Idea["Public discourse and belief: c < 0, handing over one's judgment"]
         Mind --> Tech
         Mind --> Org
@@ -110,9 +110,9 @@ flowchart TD
     style Idea fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-设想一位创业者。在技术研发与商业决策上，这个人不找借口，直面市场的摩擦与代码的报错，学得很快。在组织管理中，同一个人出于保护或控制的愿望，揽下团队成员的决策后果，成为这条轴上的小中枢。在政治信念上，同一个人又可能把判断交给某个党派的标语。三种姿态并存于一身，向自身看去，也是同样的不一致。如[能动性、复利与 AI 封建之争](../agency-compounding-and-the-argument-over-ai-feudalism/)所追溯的，人工智能之类的高带宽工具继而会把人在特定轴上所持的姿态成倍放大——在自己承受后果之处（c = 0）加速复利，在交出判断之处（c < 0）加深依附。
+设想一位创业者。在技术研发与商业决策上，这个人不找借口，直面市场的摩擦与代码的报错，学得很快。在组织管理中，同一个人出于保护或控制的愿望，介入认领团队成员的决定，缓冲其即时误差信号，成为这条轴上的小中枢。在政治信念上，同一个人又可能把判断交给某个党派的标语。三种姿态并存于一身，向自身看去，也是同样的不一致。如[能动性、复利与 AI 封建之争](../agency-compounding-and-the-argument-over-ai-feudalism/)所追溯的，人工智能之类的高带宽工具继而会把人在特定轴上所持的姿态成倍放大——在自己直接承受后果之处（c = 0）加速复利，在交出判断之处（c < 0）加深依附。
 
-Picture a founder. In engineering and business decisions this person makes no excuses, meets the friction of the market and the errors in the code head-on, and learns fast. In managing the organization, the same person, out of a wish to protect or to control, takes on the consequences of the team's decisions and becomes a small center on that axis. In political belief, the same person may hand judgment to a party slogan. Three stances live in one person, and a look at oneself turns up the same inconsistency. High-bandwidth tools such as artificial intelligence then multiply whichever stance is held on a given axis—accelerating compounding where consequences are borne directly (c = 0) and deepening dependence where judgment is handed over (c < 0), as [Agency, Compounding, and the Argument Over AI Feudalism](../agency-compounding-and-the-argument-over-ai-feudalism/) traces.
+Picture a founder. In engineering and business decisions this person makes no excuses, meets the friction of the market and the errors in the code head-on, and learns fast. In managing the organization, the same person, out of a wish to protect or to control, steps in to claim the team's decisions and buffer their immediate error signals, becoming a small center on that axis. In political belief, the same person may hand judgment to a party slogan. Three stances live in one person, and a look at oneself turns up the same inconsistency. High-bandwidth tools such as artificial intelligence then multiply whichever stance is held on a given axis—accelerating compounding where consequences are borne directly (c = 0) and deepening dependence where judgment is handed over (c < 0), as [Agency, Compounding, and the Argument Over AI Feudalism](../agency-compounding-and-the-argument-over-ai-feudalism/) traces.
 
 这也说明了为什么社会读起来不像一座单一的金字塔。它更像许多层叠在一起的网络：在生产这一层，甲吸收乙与丙的决定；在文化叙事这一层，甲反过来依附于乙；在宏观治理这一层，三人又一同把向量交给更远的中枢。同一个心智在某一处是引力的中心，在另一处是依附的一环，在第三处独自探索。
 
@@ -131,7 +131,7 @@ flowchart TD
     subgraph S_Bystander["离开原点后的两种构型"]
         direction TB
         Leave["离开第一人称原点，站到旁观的位置"]
-        Take["向下看：揽取他人的因果"]
+        Take["向下看：试图接管他人的因果"]
         Push["从外部看自己：把自己的因果推出去"]
         Lock["揽取与推出彼此咬合"]
         Leave --> Take
@@ -153,7 +153,7 @@ flowchart TD
     subgraph S_Bystander["Two Configurations After Leaving the Origin"]
         direction TB
         Leave["Leaving the first-person origin for the bystander's position"]
-        Take["Looking down: taking on another's causality"]
+        Take["Looking down: trying to take over another's causality"]
         Push["Looking at oneself from outside: pushing one's own causality away"]
         Lock["Taking on and pushing away fit each other"]
         Leave --> Take
@@ -242,7 +242,7 @@ Pointing out these mechanisms is not for judging altruism, centralization or mar
 
 Sacrificial altruism absorbs the other's error signal in one direction, and the one being helped stops adjusting. Political centralization gathers handed-over vectors through preferential attachment, and the distribution of connections follows a power law, P(k) ~ k⁻ᵞ, as [The Power-Law of Surrendered Agency](../the-power-law-of-surrendered-agency/) derives across scales. Market lock-in raises the cost of switching through network effects, and the surrounding paths narrow. Interpersonal deadlock is two strongly coupled oscillators, each tying the change of its state to the other. What the four share is an external routing inserted between action and feedback.
 
-于是这些结构的差别归结为反馈回路的形状。在直接闭合的回路里，行动撞上摩擦，后果不经中介衰减地回到原点，判断得以校准，学习保持陡峭。在经由代理的回路里，行动的后果被国家、施救者、党派或平台过滤、吸收或转移。代理让一个人做到独自做不到的事，分工与委托都靠它；它的边界在于误差信号不再回到作出抉择的地方，调整停下，整个系统的拖累增加。如[共情的能力倒错与边界的排序之争](../the-capability-reversal-of-empathy-and-the-contest-of-boundaries/)所揭示的，放弃自卫的共情正是把这场握手一路延续了下去。
+于是这些结构的差别归结为反馈回路的形状。在直接闭合的回路里，行动撞上摩擦，带来校准的回返不经中介衰减地抵达原点，判断得以校准，学习保持陡峭。在经由代理的回路里，即时的操作余波与误差信号在通过国家、施救者、党派或平台时被过滤、缓冲或转移，但选择这一代理的亲历后果依然落在选择者的原点。代理让一个人做到独自做不到的事，分工与委托都靠它；它的边界在于误差信号不再回到作出抉择的地方，调整停下，整个系统的拖累增加。如[共情的能力倒错与边界的排序之争](../the-capability-reversal-of-empathy-and-the-contest-of-boundaries/)所揭示的，放弃自卫的共情正是把这场握手一路延续了下去。
 
 ```mermaid
 flowchart TD
@@ -251,7 +251,7 @@ flowchart TD
         Act["原点上的行动 +1"]
         Friction["直接撞上摩擦"]
         Return["误差信号回到原点，判断得以校准"]
-        Proxy["后果经由代理过滤、吸收或转移"]
+        Proxy["即时余波与误差信号经由代理过滤、缓冲或引向他处"]
         Frozen["误差信号不再返回，调整停下"]
         Act --> Friction
         Friction --> Return
@@ -266,7 +266,7 @@ flowchart TD
     style Frozen fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
 ```
 
-The difference among these structures thus comes down to the shape of the feedback loop. In a directly closed loop, action strikes friction, the consequence returns to the origin without being attenuated by an intermediary, judgment is calibrated, and learning stays steep. In a loop routed through a proxy, the consequences of action are filtered, absorbed or shifted by a state, a rescuer, a party or a platform. A proxy lets a person do what could not be done alone, and division of labor and delegation depend on it; its boundary is that the error signal no longer returns to where the choice was made, adjustment stops, and the drag on the whole system grows. Empathy that gives up self-defense extends the handshake, as [The Capability Reversal of Empathy and the Contest of Boundaries](../the-capability-reversal-of-empathy-and-the-contest-of-boundaries/) shows.
+The difference among these structures thus comes down to the shape of the feedback loop. In a directly closed loop, action strikes friction, the calibrating return reaches the origin without being attenuated by an intermediary, judgment is calibrated, and learning stays steep. In a loop routed through a proxy, immediate operational fallout and error signals are filtered, buffered, or shifted through a state, a rescuer, a party, or a platform, even while the lived consequence of choosing that proxy still lands at the chooser's origin. A proxy lets a person do what could not be done alone, and division of labor and delegation depend on it; its boundary is that the error signal no longer returns to where the choice was made, adjustment stops, and the drag on the whole system grows. Empathy that gives up self-defense extends the handshake, as [The Capability Reversal of Empathy and the Contest of Boundaries](../the-capability-reversal-of-empathy-and-the-contest-of-boundaries/) shows.
 
 ```mermaid
 flowchart TD
@@ -275,7 +275,7 @@ flowchart TD
         Act["Action at the origin +1"]
         Friction["Strikes friction directly"]
         Return["The error signal returns to the origin and judgment is calibrated"]
-        Proxy["Consequences are filtered, absorbed or shifted by a proxy"]
+        Proxy["Immediate fallout and error signals are filtered, buffered, or redirected through a proxy"]
         Frozen["The error signal no longer returns and adjustment stops"]
         Act --> Friction
         Friction --> Return
@@ -296,7 +296,7 @@ flowchart TD
 
 The reasoning above gathers at one place: everything registered begins with Mind, stays with Mind and ends with Mind. So there is no need to launch a movement to overthrow an external center, since the center's mass is what many people, oneself included, have handed over. There is no need to persuade those who take on to let go, to remake those who push away, or to retreat to the stand to comment.
 
-支点是在自己的第一人称原点上作出的单方面抉择：把各个维度上不曾留意就伸出的那只手收回来，既不把怨恨推出去，也不替别人揽下因果，耦合系数回到零（c = 0）。这里的零不是让渡与揽取之间的中点，也不是耦合之内的第三种姿态；它是耦合项本身的缺席，即自己行动、自己承受后果。因此，如[正交的拒绝](../the-orthogonal-refusal/)所追溯的，这里并不向另一方要求什么：每一方继续设定各自推进的条件。
+支点是在自己的第一人称原点上作出的单方面抉择：把各个维度上不曾留意就伸出的那只手收回来，既不把怨恨推出去，也不介入认领他人的因果，耦合系数回到零（c = 0）。这里的零不是让渡与揽取之间的中点，也不是耦合之内的第三种姿态；它是耦合项本身的缺席，即自己行动、直面自身的后果与反馈。因此，如[正交的拒绝](../the-orthogonal-refusal/)所追溯的，这里并不向另一方要求什么：每一方继续设定各自推进的条件。
 
 ```mermaid
 flowchart TD
@@ -317,7 +317,7 @@ flowchart TD
     style Direct fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The fulcrum is a unilateral choice made at one's own first-person origin: to take back the hand extended on each dimension without noticing, neither pushing resentment outward nor taking on another's causality, with the coupling coefficient back at zero (c = 0). Zero here is not a midpoint between handing over and taking on, a third stance inside the coupling; it is the absence of the coupled term itself, acting and bearing the consequences oneself. So, as [The Orthogonal Refusal](../the-orthogonal-refusal/) traces, nothing is asked of the other side: each goes on setting the conditions under which it will proceed.
+The fulcrum is a unilateral choice made at one's own first-person origin: to take back the hand extended on each dimension without noticing, neither pushing resentment outward nor stepping in to claim another's causality, with the coupling coefficient back at zero (c = 0). Zero here is not a midpoint between handing over and taking on, a third stance inside the coupling; it is the absence of the coupled term itself, acting and meeting one's own consequences and feedback directly. So, as [The Orthogonal Refusal](../the-orthogonal-refusal/) traces, nothing is asked of the other side: each goes on setting the conditions under which it will proceed.
 
 ```mermaid
 flowchart TD
@@ -338,9 +338,9 @@ flowchart TD
     style Direct fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-在技术的维度上，直面报错与规律。在团队的维度上，把承担后果的位置还给对方。在价值的维度上，收回自己的思考与评判。在个人的维度上，把遇到的一切认作自己因果的起点。
+在技术的维度上，直面报错与规律。在团队的维度上，让对方的决定与直接误差信号不加缓冲地留在他们自己的原点。在价值的维度上，收回自己的思考与评判。在个人的维度上，把遇到的一切认作自己因果的起点。
 
-On the technical dimension this means facing the errors and the regularities directly; on the dimension of the team, returning to the other the place of bearing their consequences; on the dimension of values, taking back one's own thinking and judging; on the personal dimension, taking whatever is met as the starting point of one's own causality.
+On the technical dimension this means facing the errors and the regularities directly; on the dimension of the team, leaving the other's decisions and direct error signals unbuffered at their own origin; on the dimension of values, taking back one's own thinking and judging; on the personal dimension, taking whatever is met as the starting point of one's own causality.
 
 当耦合系数回到零，不再向外投出期待，也不认领外来的绑定，伸来的那只手便握不到东西。代价并不因此消失；它们从无法另作他选的理由，重新变为附着在可见替代选项上的标价，摩擦也直接回到原点，成为校准的来源。行动者由此重新作为一个自由变量出手，以摩擦为师，走出自己的轨迹（+1）。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，期待与绑定的旧脚本只是存留的记忆痕迹；一旦第一人称的活态前沿停止重新执行它们，它们对下一步便再无抓手。
 
