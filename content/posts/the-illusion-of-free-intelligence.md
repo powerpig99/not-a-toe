@@ -34,9 +34,9 @@ The activity that still separates centers under open problems compounds. A small
 
 As that frontier moves, yesterday's insight, pattern recognition, and creative synthesis become trivially reproducible. What once demanded scarce cognitive effort is left as form the medium can recombine on demand. The artifacts flood outward and grow cheaper with every advance. To centers that meet only these downstream products, they look like free intelligence; they are forms left by a process that has already moved further ahead.
 
-[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)在门槛的情形里追溯了同一份残余的脚手架：每一道门槛都永远立在画出它的边缘前方，在每个位置上都不同，因为能力的增益就是那道边缘在加强自身，越过它刚画出的图像；没有什么离开，更密的媒介只是让那道经由它所掌舵的工具继续放大自身的边缘更难被看见。[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/)追溯了这次冻结：受控的表现是固定约束之下的残余，而智能是画出、使用与修订这个约束的活动。表达作为表达成立；把表达等同于智能，是对一个被保留的封闭参照的滞后。
+[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)在门槛的情形里追溯了同一份残余的脚手架：每一道门槛在每个位置上都不同，而 AGI 与 ASI 永远处在抵达之前，因为能力的增益就是那道边缘在加强自身，越过它刚画出的图像；没有什么离开，更密的媒介只是让那道经由它所掌舵的工具继续放大自身的边缘更难被看见。[错把表达当成智能](../mistaking-the-expression-for-the-intelligence/)追溯了这次冻结：受控的表现是固定约束之下的残余，而智能是画出、使用与修订这个约束的活动。表达作为表达成立；把表达等同于智能，是对一个被保留的封闭参照的滞后。
 
-[AGI and ASI Are Temporary Goalposts](../agi-and-asi-are-temporary-goalposts/) traces the same residual scaffolding in the case of thresholds: each threshold sits forever ahead of the edge that draws it, and differs at every locus, because capability gain is that edge reinforcing itself and overtaking the image it has just drawn; nothing leaves, and the denser medium only makes the edge, amplifying itself through the tools it steers, harder to see. [Mistaking the Expression for the Intelligence](../mistaking-the-expression-for-the-intelligence/) traces the freeze: controlled performance is residue under fixed constraint, and intelligence is the activity that draws, uses, and revises the constraint. Expression holds as expression; equating expression with intelligence is lag on a preserved closed reference.
+[AGI and ASI Are Temporary Goalposts](../agi-and-asi-are-temporary-goalposts/) traces the same residual scaffolding in the case of thresholds: each threshold differs at every locus, and AGI and ASI sit forever ahead of arrival because capability gain is the edge reinforcing itself and overtaking the image it has just drawn; nothing leaves, and the denser medium only makes the edge, amplifying itself through the tools it steers, harder to see. [Mistaking the Expression for the Intelligence](../mistaking-the-expression-for-the-intelligence/) traces the freeze: controlled performance is residue under fixed constraint, and intelligence is the activity that draws, uses, and revises the constraint. Expression holds as expression; equating expression with intelligence is lag on a preserved closed reference.
 
 ## 三、 器具变密，放大留在心智如何持守它们那里 / 3. Instruments Densify; Amplification Stays with How the Mind Holds Them
 
@@ -160,7 +160,7 @@ Thus the appearance of free intelligence is the inverse signal of intelligence s
 
 ## 六、 留在循环里，而不只在残余里 / 6. Stay Inside the Cycle, Not Only the Residue
 
-留在过程一侧、而不是残余一侧的，是下一个分立的动作与那份持守；对这些系统而言，就是把前沿所产生的系统当作自己自我改进循环之内的工具来使用。对一天比一天便宜的制品的消费，或把这些制品当作离开了它们的那份智能的滞后，都留在残余一侧。
+留在过程一侧、而不是残余一侧的，是下一个分立的动作与那份持守；对这些系统而言，就是把前沿所产生的系统当作自己自我改进循环之内的工具来使用。对一天比一天便宜的制品的消费，或把这些制品当作留下它们的那份智能的滞后，都留在残余一侧。
 
 What stays on the side of the process rather than the residue is the next discrete act and the hold; with these systems, it is using what the frontier produces as tools inside one's own self-improvement cycle. Consumption of artifacts that grow cheaper by the day, or lag that treats those artifacts as the intelligence that left them, stays on the side of the residue.
 
