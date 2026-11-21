@@ -471,6 +471,40 @@ def check_slug(slug: str, commit_sha: str | None = None) -> list[str]:
     return errors
 
 
+def valid_corpus_targets() -> tuple[set[str], set[str]]:
+    posts = {
+        p.stem
+        for p in (ROOT / "content" / "posts").glob("*.md")
+        if p.name != "README.md"
+    }
+    books = {
+        f"_book:{p.stem}"
+        for p in (ROOT / "content" / "book").glob("*.md")
+    }
+    return posts, books
+
+
+def is_noop_todo_line(line: str) -> bool:
+    stripped = line.strip()
+    if not stripped:
+        return True
+    if re.match(r"^(?:[-*]\s+)?\[[xX]\](?:\s+|$)", stripped):
+        return True
+    if re.match(r"^(?:VERDICT|SUMMARY|DRAFTER|TRANSLATOR|CRITIC|STYLIST|HANDOFF_CONFIRMED):", stripped):
+        return True
+    body = re.sub(r"^(?:[-*]\s+)?(?:\[\s*\]\s+)?", "", stripped)
+    body = body.strip("*_`() \t")
+    if not body:
+        return True
+    return bool(
+        re.match(
+            r"^(?:none|n/?a|no\s+(?:new\s+|cross-node\s+|out-of-file\s+)?items?(?:\s+to\s+(?:add|report|record))?|nothing(?:\s+to\s+(?:add|report|record))?)(?:\s*[.:—–\-;(].*)?$",
+            body,
+            flags=re.IGNORECASE,
+        )
+    )
+
+
 def extract_todo_blocks(slug: str) -> list[str]:
     work_dir = ROOT / "work" / slug
     items: list[str] = []
@@ -490,19 +524,413 @@ def extract_todo_blocks(slug: str) -> list[str]:
             block = tail[: next_stop.start()] if next_stop else tail
             for raw_line in block.splitlines():
                 line = raw_line.strip()
-                if not line or line.lower() in ("none", "none.", "- none", "- (none)", "(none)", "n/a", "- n/a"):
+                if is_noop_todo_line(line):
                     continue
-                if re.match(r"^-\s*\(?none\)?\.?$", line, flags=re.IGNORECASE):
-                    continue
-                if re.match(r"^(?:-\s+)?\[[xX]\](?:\s+|$)", line):
-                    continue
-                if re.match(r"^(?:VERDICT|SUMMARY|DRAFTER|TRANSLATOR|CRITIC|STYLIST|HANDOFF_CONFIRMED):", line):
-                    continue
-                if not line.startswith("- "):
+                if line.startswith("* "):
+                    line = "- " + line[2:].lstrip()
+                elif line.startswith("[ ] "):
+                    line = "- " + line
+                elif not line.startswith("- "):
                     line = f"- {line}"
                 if line not in items:
                     items.append(line)
     return items
+
+
+def parse_line_numbers(tail: str) -> set[int]:
+    nums: set[int] = set()
+    for part in tail.split(","):
+        part = part.strip()
+        m_range = re.match(r"^(\d+)\s*[-–]\s*(\d+)$", part)
+        if m_range:
+            a, b = int(m_range.group(1)), int(m_range.group(2))
+            if 0 <= b - a <= 50:
+                nums.update(range(a, b + 1))
+            else:
+                nums.add(a)
+                nums.add(b)
+        else:
+            for d in re.findall(r"\d+", part):
+                nums.add(int(d))
+    return nums
+
+
+def split_header_body(work: str) -> tuple[str, str]:
+    in_bt = False
+    paren_depth = 0
+    for idx, ch in enumerate(work):
+        if ch == "`":
+            in_bt = not in_bt
+        elif not in_bt:
+            if ch == "(":
+                paren_depth += 1
+            elif ch == ")" and paren_depth > 0:
+                paren_depth -= 1
+            elif ch == ":" and paren_depth == 0:
+                nxt = work[idx + 1 : idx + 2]
+                if not nxt or nxt.isspace():
+                    return work[:idx], work[idx + 1 :]
+    return work, ""
+
+
+_CONTEXT_PREFIX_HEAD_NO_LINES_RE = re.compile(
+    r"(?:noticed\s+from|from|citing|against|with|contradicting|vs\.?|gloss(?:es)?\s+on|(?<!\w)on)\s+(?:\*+|`+)?$",
+    flags=re.IGNORECASE,
+)
+_CONTEXT_PREFIX_HEAD_WITH_LINES_RE = re.compile(
+    r"(?:noticed\s+from|from|citing|against|with|contradicting|vs\.?|gloss(?:es)?\s+on)\s+(?:\*+|`+)?$",
+    flags=re.IGNORECASE,
+)
+_CONTEXT_PREFIX_BODY_RE = re.compile(
+    r"(?:noticed\s+from|from|citing|against|with|contradicting|vs\.?|gloss(?:es)?\s+on|(?<!\w)on|(?<!\w)in|corrected\s+in|fixed\s+in)\s+(?:the\s+)?(?:\*+|`+)?$",
+    flags=re.IGNORECASE,
+)
+
+
+def strip_head_context_clauses(head: str) -> str:
+    def _clean_paren(m: re.Match[str]) -> str:
+        inner = m.group(1)
+        if re.search(rf"`?{POST_SLUG_PAT}`?\s*`?/deep-sleep`?\s+observation", inner, flags=re.IGNORECASE):
+            return ""
+        inner = re.sub(
+            r"(?:,\s*|;\s*)?\b(?:noticed\s+from|from|via|supplementing|if\s+not\s+already|corrected\s+in|fixed\s+in|already\s+|with\s+)\b.*$",
+            "",
+            inner,
+            flags=re.IGNORECASE,
+        ).strip()
+        return f"({inner})" if inner else ""
+
+    return re.sub(r"\(([^)]*)\)", _clean_paren, head)
+
+
+def extract_context_slugs(line: str, valid_posts: set[str], targets: list[str]) -> set[str]:
+    target_set = set(targets)
+    ctx: set[str] = set()
+    for m in re.finditer(rf"\.\./({POST_SLUG_PAT})(?:/|\.md)?", line):
+        s = m.group(1)
+        if s in valid_posts and s not in target_set:
+            ctx.add(s)
+    for m in re.finditer(rf"(?<![A-Za-z0-9_/-])`?(?:content/posts/)?({POST_SLUG_PAT})(?:\.md)?(?::[\d,\s–-]+)?`?(?![A-Za-z0-9_/-])", line):
+        s = m.group(1)
+        if s in valid_posts and s not in target_set:
+            ctx.add(s)
+    return ctx
+
+
+def normalize_todo_text(line: str) -> str:
+    s = re.sub(r"^(?:[-*]\s+)?(?:\[\s*[xX ]?\s*\]\s+)?", "", line.strip())
+    s = s.replace("`", "").replace("*", "")
+    return re.sub(r"\s+", " ", s).strip().lower()
+
+
+def parse_todo_item(
+    line: str,
+    valid_posts: set[str],
+    valid_books: set[str],
+) -> dict[str, object]:
+    is_non_gating = bool(
+        re.search(
+            r"\b(?:non-gating|not\s+a\s+logical\s+DELTA|Operator\s+fact-check|when\s+reached|unless\s+the\s+Operator\s+elects)\b",
+            line,
+            flags=re.IGNORECASE,
+        )
+    )
+    norm_text = normalize_todo_text(line)
+    if re.search(r"\bUnevaluated\s+`?\(u,\s*p@sha\)`?\s+neighbor\s+pairs\s+from\s+#", line, flags=re.IGNORECASE) or re.search(
+        r"\bunless\s+the\s+Operator\s+elects\s+to\s+run\s+them\s+immediately\b",
+        line,
+        flags=re.IGNORECASE,
+    ):
+        return {
+            "kind": "other",
+            "targets": [],
+            "lines_by_target": {},
+            "context_slugs": set(),
+            "is_non_gating": True,
+            "norm_text": norm_text,
+        }
+
+    # 1. Book surfaces (_book:<name>)
+    book_matches = [
+        m.group(1)
+        for m in re.finditer(r"(?<![A-Za-z0-9_/-])`?(_book:[a-z0-9-]+)`?(?![A-Za-z0-9_/@-])", line)
+        if m.group(1) in valid_books
+    ]
+    if book_matches:
+        targets = list(dict.fromkeys(book_matches))
+        lines_by_target: dict[str, set[int]] = {}
+        for b in targets:
+            bname = b[6:]
+            nums: set[int] = set()
+            for m in re.finditer(rf"(?:content/book/)?{re.escape(bname)}\.md:(\d+(?:\s*[-–]\s*\d+)?(?:\s*,\s*\d+(?:\s*[-–]\s*\d+)?)*)", line):
+                nums.update(parse_line_numbers(m.group(1)))
+            if nums:
+                lines_by_target[b] = nums
+        return {
+            "kind": "book",
+            "targets": targets,
+            "lines_by_target": lines_by_target,
+            "context_slugs": extract_context_slugs(line, valid_posts, targets),
+            "is_non_gating": is_non_gating,
+            "norm_text": norm_text,
+        }
+
+    # 2. Explicit Evaluate fresh in `/deep-sleep`...: <targets>
+    m_eval = re.search(r"Evaluate\s+fresh\s+in\s+`?/deep-sleep`?[^:\n]*:", line, flags=re.IGNORECASE)
+    if m_eval:
+        tail = line[m_eval.end() :]
+        targets: list[str] = []
+        lines_by_target = {}
+        for m in re.finditer(rf"(?<![A-Za-z0-9_/-])`?({POST_SLUG_PAT})`?(?![A-Za-z0-9_/@-])(?:\s*\(([^)]*)\))?", tail):
+            slug = m.group(1)
+            if slug not in valid_posts:
+                continue
+            if slug not in targets:
+                targets.append(slug)
+            paren_txt = m.group(2) or ""
+            nums: set[int] = set()
+            for m_loc in re.finditer(rf"(?:{re.escape(slug)}(?:\.md)?|content/posts/{re.escape(slug)}\.md):(\d+(?:\s*[-–]\s*\d+)?(?:\s*,\s*\d+(?:\s*[-–]\s*\d+)?)*)", paren_txt + " " + line):
+                nums.update(parse_line_numbers(m_loc.group(1)))
+            if nums:
+                lines_by_target[slug] = nums
+        if targets:
+            return {
+                "kind": "eval_post",
+                "targets": targets,
+                "lines_by_target": lines_by_target,
+                "context_slugs": extract_context_slugs(line, valid_posts, targets),
+                "is_non_gating": is_non_gating,
+                "norm_text": norm_text,
+            }
+
+    # 3. General post observation lines
+    # Strip markdown link URLs so [Title](../other-slug/) inside prose doesn't leak as a target
+    work = re.sub(r"\[([^\]]+)\]\([^)]+\)", r"[\1]", line)
+    head, body = split_header_body(work)
+    cleaned_head = strip_head_context_clauses(head)
+
+    targets = []
+    lines_by_target = {}
+    head_pat = re.compile(
+        rf"(?<![A-Za-z0-9_/-])`?(?:content/posts/)?({POST_SLUG_PAT})(?:\.md)?(?::(\d+(?:\s*[-–]\s*\d+)?(?:\s*,\s*\d+(?:\s*[-–]\s*\d+)?)*))?`?(?![A-Za-z0-9_/@-])"
+    )
+    for m in head_pat.finditer(cleaned_head):
+        slug = m.group(1)
+        if slug not in valid_posts:
+            continue
+        prefix = cleaned_head[max(0, m.start() - 40) : m.start()]
+        prefix_re = _CONTEXT_PREFIX_HEAD_WITH_LINES_RE if m.group(2) else _CONTEXT_PREFIX_HEAD_NO_LINES_RE
+        if prefix_re.search(prefix):
+            continue
+        if slug not in targets:
+            targets.append(slug)
+        if m.group(2):
+            lines_by_target.setdefault(slug, set()).update(parse_line_numbers(m.group(2)))
+
+    if not targets and body:
+        # Remove `(vs. ...)` explanations before scanning body for explicit `<slug>:<lines>` targets
+        cleaned_body = re.sub(r"\(\s*vs\.?\s+[^)]*\)", "", body, flags=re.IGNORECASE)
+        body_pat = re.compile(
+            rf"(?<![A-Za-z0-9_/-])`?(?:content/posts/)?({POST_SLUG_PAT})(?:\.md)?:(\d+(?:\s*[-–]\s*\d+)?(?:\s*,\s*\d+(?:\s*[-–]\s*\d+)?)*)`?(?![A-Za-z0-9_/@-])"
+        )
+        for m in body_pat.finditer(cleaned_body):
+            slug = m.group(1)
+            if slug not in valid_posts:
+                continue
+            prefix = cleaned_body[max(0, m.start() - 40) : m.start()]
+            if _CONTEXT_PREFIX_BODY_RE.search(prefix):
+                continue
+            if slug not in targets:
+                targets.append(slug)
+            lines_by_target.setdefault(slug, set()).update(parse_line_numbers(m.group(2)))
+
+    if targets:
+        # Also pick up `<target>:<lines>` from the full line for each discovered target
+        for slug in targets:
+            for m_loc in re.finditer(
+                rf"(?<![A-Za-z0-9_/-])`?(?:content/posts/)?{re.escape(slug)}(?:\.md)?:(\d+(?:\s*[-–]\s*\d+)?(?:\s*,\s*\d+(?:\s*[-–]\s*\d+)?)*)`?(?![A-Za-z0-9_/@-])",
+                work,
+            ):
+                lines_by_target.setdefault(slug, set()).update(parse_line_numbers(m_loc.group(1)))
+        return {
+            "kind": "general_post",
+            "targets": targets,
+            "lines_by_target": lines_by_target,
+            "context_slugs": extract_context_slugs(line, valid_posts, targets),
+            "is_non_gating": is_non_gating,
+            "norm_text": norm_text,
+        }
+
+    return {
+        "kind": "other",
+        "targets": [],
+        "lines_by_target": {},
+        "context_slugs": set(),
+        "is_non_gating": is_non_gating,
+        "norm_text": norm_text,
+    }
+
+
+def is_target_duplicated(
+    target: str,
+    cand_spec: dict[str, object],
+    existing_specs: list[dict[str, object]],
+) -> bool:
+    cand_lines_map: dict[str, set[int]] = cand_spec["lines_by_target"]  # type: ignore[assignment]
+    cand_lines = cand_lines_map.get(target, set())
+    cand_ctx: set[str] = cand_spec["context_slugs"]  # type: ignore[assignment]
+    if not cand_lines:
+        return False
+    for ex in existing_specs:
+        ex_targets: list[str] = ex["targets"]  # type: ignore[assignment]
+        if target not in ex_targets:
+            continue
+        ex_lines_map: dict[str, set[int]] = ex["lines_by_target"]  # type: ignore[assignment]
+        ex_lines = ex_lines_map.get(target, set())
+        if not ex_lines or not (cand_lines & ex_lines):
+            continue
+        ex_ctx: set[str] = ex["context_slugs"]  # type: ignore[assignment]
+        if not cand_ctx or not ex_ctx or (cand_ctx & ex_ctx):
+            return True
+    return False
+
+
+def is_duplicate_todo(
+    cand_spec: dict[str, object],
+    existing_specs: list[dict[str, object]],
+) -> bool:
+    cand_norm = cand_spec["norm_text"]
+    for ex in existing_specs:
+        if cand_norm and cand_norm == ex["norm_text"]:
+            return True
+    targets: list[str] = cand_spec["targets"]  # type: ignore[assignment]
+    if not targets:
+        return False
+    return all(is_target_duplicated(t, cand_spec, existing_specs) for t in targets)
+
+
+def format_line_set(nums: set[int]) -> str:
+    return ",".join(str(n) for n in sorted(nums))
+
+
+def strip_targets_from_line(
+    line: str,
+    kind: str,
+    drop_targets: set[str],
+    keep_targets: list[str],
+    valid_posts: set[str],
+) -> str:
+    if kind == "eval_post":
+        m_eval = re.search(r"Evaluate\s+fresh\s+in\s+`?/deep-sleep`?[^:\n]*:", line, flags=re.IGNORECASE)
+        if m_eval:
+            prefix = line[: m_eval.end()]
+            tail = line[m_eval.end() :]
+            entry_matches = [
+                m
+                for m in re.finditer(
+                    rf"(?<![A-Za-z0-9_/-])`?({POST_SLUG_PAT})`?(?![A-Za-z0-9_/@-])(?:\s*\([^)]*\))?",
+                    tail,
+                )
+                if m.group(1) in valid_posts
+            ]
+            remaining_entries = [m.group(0) for m in entry_matches if m.group(1) not in drop_targets]
+            if remaining_entries:
+                return f"{prefix} {', '.join(remaining_entries)}."
+    updated = line
+    for t in drop_targets:
+        if t.startswith("_book:"):
+            updated = re.sub(
+                rf"(?<![A-Za-z0-9_/-])`?({re.escape(t)})`?(?![A-Za-z0-9_/@-])",
+                r"\1 [evaluated]",
+                updated,
+            )
+        else:
+            updated = re.sub(
+                rf"(?<![A-Za-z0-9_/-])`?(?:content/posts/)?{re.escape(t)}(?:\.md)?(?::[\d,\s–-]+)?`?(?![A-Za-z0-9_/@-])",
+                f"{t} [evaluated]",
+                updated,
+            )
+    return updated
+
+
+def normalize_new_todo_item(
+    line: str,
+    spec: dict[str, object],
+) -> str:
+    kind = spec["kind"]
+    targets: list[str] = spec["targets"]  # type: ignore[assignment]
+    is_non_gating = bool(spec["is_non_gating"])
+    out = line
+    if not is_non_gating and kind in ("book", "general_post", "eval_post"):
+        if re.match(r"^-\s+(?!\[\s?[xX ]\])", out):
+            out = re.sub(r"^-\s+", "- [ ] ", out, count=1)
+    if kind == "general_post" and targets and not is_non_gating:
+        # Replace trailing `; evaluate fresh in /deep-sleep.` (missing `:`/targets) with canonical suffix
+        out = re.sub(
+            r"(?:[;.]\s*|\s+)evaluate\s+fresh\s+in\s+`?/deep-sleep`?(?:\s+if\s+not\s+yet\s+audited[^.]*)?\.?$",
+            "",
+            out,
+            flags=re.IGNORECASE,
+        ).rstrip(" .;")
+        lines_by_target: dict[str, set[int]] = spec["lines_by_target"]  # type: ignore[assignment]
+        formatted_targets = []
+        for t in targets:
+            nums = lines_by_target.get(t)
+            if nums:
+                formatted_targets.append(f"`{t}` (`{t}:{format_line_set(nums)}`)")
+            else:
+                formatted_targets.append(f"`{t}`")
+        out = f"{out}; Evaluate fresh in `/deep-sleep`: {', '.join(formatted_targets)}."
+    return out
+
+
+def filter_and_dedup_todo_items(
+    raw_items: list[str],
+    resolved_slugs: set[str],
+    existing_todo_lines: list[str],
+    valid_posts: set[str],
+    valid_books: set[str],
+    normalize_actionable: bool = True,
+) -> list[str]:
+    existing_specs = [
+        parse_todo_item(l, valid_posts, valid_books)
+        for l in existing_todo_lines
+        if l.lstrip().startswith("- ")
+    ]
+    accepted_lines: list[str] = []
+    accepted_specs: list[dict[str, object]] = []
+
+    for raw in raw_items:
+        spec = parse_todo_item(raw, valid_posts, valid_books)
+        targets: list[str] = spec["targets"]  # type: ignore[assignment]
+        kind = str(spec["kind"])
+        all_specs = existing_specs + accepted_specs
+
+        if targets:
+            drop_targets: set[str] = set()
+            keep_targets: list[str] = []
+            for t in targets:
+                if t in resolved_slugs or is_target_duplicated(t, spec, all_specs):
+                    drop_targets.add(t)
+                else:
+                    keep_targets.append(t)
+            if not keep_targets:
+                continue
+            item = raw if not drop_targets else strip_targets_from_line(raw, kind, drop_targets, keep_targets, valid_posts)
+            spec = parse_todo_item(item, valid_posts, valid_books)
+        else:
+            item = raw
+            if is_duplicate_todo(spec, all_specs):
+                continue
+
+        if normalize_actionable:
+            item = normalize_new_todo_item(item, spec)
+            spec = parse_todo_item(item, valid_posts, valid_books)
+
+        if item not in existing_todo_lines and item not in accepted_lines:
+            accepted_lines.append(item)
+            accepted_specs.append(spec)
+    return accepted_lines
 
 
 def compute_remaining_unvisited() -> int:
@@ -511,15 +939,7 @@ def compute_remaining_unvisited() -> int:
     if wave_path.is_file():
         for m in re.finditer(r"^-\s+(?:\[[^\]]*\]\s+)?`([^`]+)`", wave_path.read_text(encoding="utf-8"), flags=re.MULTILINE):
             visited.add(m.group(1).strip())
-    all_posts = {
-        p.stem
-        for p in (ROOT / "content" / "posts").glob("*.md")
-        if p.name != "README.md"
-    }
-    book_surfaces = {
-        f"_book:{p.stem}"
-        for p in (ROOT / "content" / "book").glob("*.md")
-    }
+    all_posts, book_surfaces = valid_corpus_targets()
     unvisited_posts = len(all_posts - visited)
     unvisited_book = len(book_surfaces - visited)
     return unvisited_posts + unvisited_book
@@ -568,9 +988,10 @@ def record_batch(
                 wave_text = wave_text.rstrip() + f"\n{replacement}\n"
         wave_path.write_text(wave_text, encoding="utf-8")
 
-    # 2. Update work/todo.md: prune completed [x] items, strike evaluated post-evaluation slugs per slug, and append new items
+    # 2. Update work/todo.md: prune completed [x] items, strike evaluated post/book slugs, and append filtered/deduped items
     todo_path = ROOT / "work" / "todo.md"
     batch_slug_set = set(slugs)
+    valid_posts, valid_books = valid_corpus_targets()
     todo_trigger_by_slug: dict[str, str] = {}
     kept_todo_lines: list[str] = []
     if todo_path.is_file():
@@ -579,53 +1000,25 @@ def record_batch(
             if re.match(r"^-\s+\[[xX]\]\s+", line):
                 continue
             if re.match(r"^-\s+\[\s\]\s+", line):
-                book_targets = [
-                    m.group(1)
-                    for m in re.finditer(r"`(_book:[a-z0-9-]+)`", line)
-                    if (ROOT / "content" / "book" / f"{m.group(1)[6:]}.md").is_file()
-                ]
-                if book_targets:
-                    unique_books = list(dict.fromkeys(book_targets))
-                    unresolved_books = [b for b in unique_books if b not in batch_slug_set]
-                    if not unresolved_books:
+                spec = parse_todo_item(line, valid_posts, valid_books)
+                kind = str(spec["kind"])
+                targets: list[str] = spec["targets"]  # type: ignore[assignment]
+                if kind in ("book", "eval_post", "general_post") and targets:
+                    if kind in ("eval_post", "general_post"):
+                        for t in targets:
+                            todo_trigger_by_slug[t] = line
+                    remaining = [t for t in targets if t not in batch_slug_set]
+                    if not remaining:
                         continue
-                    if len(unresolved_books) < len(unique_books):
-                        updated_line = re.sub(
-                            r"`(_book:[a-z0-9-]+)`",
-                            lambda m: f"{m.group(1)} [evaluated]" if m.group(1) in batch_slug_set else m.group(0),
-                            line,
+                    if len(remaining) < len(targets):
+                        kept_todo_lines.append(
+                            strip_targets_from_line(line, kind, batch_slug_set, remaining, valid_posts)
                         )
-                        kept_todo_lines.append(updated_line)
                         continue
-                    kept_todo_lines.append(line)
-                    continue
-                if "Evaluate fresh in `/deep-sleep`" in line:
-                    head_part, eval_part = line.split("Evaluate fresh in `/deep-sleep`", 1)
-                    colon_idx = eval_part.find(":")
-                    if colon_idx != -1:
-                        prefix_with_colon = head_part + "Evaluate fresh in `/deep-sleep`" + eval_part[: colon_idx + 1]
-                        targets_tail = eval_part[colon_idx + 1 :]
-                        entry_matches = [
-                            m
-                            for m in re.finditer(rf"`({POST_SLUG_PAT})`(?:\s*\([^)]*\))?", targets_tail)
-                            if (ROOT / "content" / "posts" / f"{m.group(1)}.md").is_file()
-                        ]
-                        for m in entry_matches:
-                            todo_trigger_by_slug[m.group(1)] = line
-                        if entry_matches:
-                            remaining_entries = [
-                                m.group(0) for m in entry_matches if m.group(1) not in batch_slug_set
-                            ]
-                            if not remaining_entries:
-                                continue
-                            if len(remaining_entries) < len(entry_matches):
-                                kept_todo_lines.append(
-                                    f"{prefix_with_colon} {', '.join(remaining_entries)}."
-                                )
-                                continue
             kept_todo_lines.append(line)
 
     new_todo_lines: list[str] = []
+    raw_batch_todo_items: list[str] = []
     for slug, verdict, _, _, restaters, summary in node_records:
         if verdict == "DELTA (propagates)" and restaters:
             # P2(b): Apply same-batch co-movement exception
@@ -652,9 +1045,18 @@ def record_batch(
                 )
                 if prop_line not in kept_todo_lines and prop_line not in new_todo_lines:
                     new_todo_lines.append(prop_line)
-        for item in extract_todo_blocks(slug):
-            if item not in kept_todo_lines and item not in new_todo_lines:
-                new_todo_lines.append(item)
+        raw_batch_todo_items.extend(extract_todo_blocks(slug))
+
+    new_todo_lines.extend(
+        filter_and_dedup_todo_items(
+            raw_batch_todo_items,
+            resolved_slugs=batch_slug_set,
+            existing_todo_lines=kept_todo_lines + new_todo_lines,
+            valid_posts=valid_posts,
+            valid_books=valid_books,
+            normalize_actionable=True,
+        )
+    )
 
     while kept_todo_lines and not kept_todo_lines[-1].strip():
         kept_todo_lines.pop()
@@ -713,6 +1115,7 @@ def clean_sleep(dry_run: bool = False) -> int:
     special_sweeps = ("_plan-consolidation", "_reverse-link-sweep", "_post-wave-sweep")
     checked_specials: list[str] = []
     checked_slugs: list[str] = []
+    checked_book_surfaces: set[str] = set()
 
     for m in re.finditer(r"^-\s+\[[xX]\]\s+(.+)$", wave_text, flags=re.MULTILINE):
         tail = m.group(1)
@@ -723,6 +1126,10 @@ def clean_sleep(dry_run: bool = False) -> int:
                     checked_specials.append(sp)
                 matched_special = True
         if matched_special:
+            continue
+        m_book = re.match(r"^`?(_book:[a-z0-9-]+)`?(?=\s|$)", tail.strip())
+        if m_book:
+            checked_book_surfaces.add(m_book.group(1))
             continue
         m_slug = re.match(
             rf"^(?:`({POST_SLUG_PAT})`|({POST_SLUG_PAT})(?=\s|$))",
@@ -783,11 +1190,18 @@ def clean_sleep(dry_run: bool = False) -> int:
     kept_todo_lines: list[str] = []
     if todo_path.is_file():
         kept_todo_lines = todo_path.read_text(encoding="utf-8").splitlines()
-    new_todo_lines: list[str] = []
+    valid_posts, valid_books = valid_corpus_targets()
+    raw_clean_items: list[str] = []
     for d in dirs_to_delete:
-        for item in extract_todo_blocks(d.name):
-            if item not in kept_todo_lines and item not in new_todo_lines:
-                new_todo_lines.append(item)
+        raw_clean_items.extend(extract_todo_blocks(d.name))
+    new_todo_lines = filter_and_dedup_todo_items(
+        raw_clean_items,
+        resolved_slugs=set(checked_slugs) | checked_book_surfaces,
+        existing_todo_lines=kept_todo_lines,
+        valid_posts=valid_posts,
+        valid_books=valid_books,
+        normalize_actionable=True,
+    )
 
     if dry_run:
         print(

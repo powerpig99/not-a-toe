@@ -664,7 +664,7 @@ function runNextBatch(builtGraph, batchSize, partFilter, isDryRun) {
   for (let idx = 0; idx < todoLines.length; idx++) {
     const line = todoLines[idx];
     if (!/^-\s+\[\s\]\s+/.test(line)) continue;
-    const bookSurfMatches = [...line.matchAll(/`(_book:[a-z0-9-]+)`/g)]
+    const bookSurfMatches = [...line.matchAll(/(?<![A-Za-z0-9_/-])`?(_book:[a-z0-9-]+)`?(?![A-Za-z0-9_/@-])/g)]
       .map((m) => m[1])
       .filter((b) => validBookSurfaces.has(b));
     if (bookSurfMatches.length > 0) {
@@ -673,13 +673,11 @@ function runNextBatch(builtGraph, batchSize, partFilter, isDryRun) {
       }
       continue;
     }
-    const evalIdx = line.indexOf('Evaluate fresh in `/deep-sleep`');
-    if (evalIdx === -1) continue;
-    const colonIdx = line.indexOf(':', evalIdx);
-    if (colonIdx === -1) continue;
+    const evalMatch = line.match(/Evaluate\s+fresh\s+in\s+`?\/deep-sleep`?[^:\n]*:/i);
+    if (!evalMatch || evalMatch.index === undefined) continue;
     const priorMatch = line.match(/with\s+`([^`]+@[0-9a-f]+)`\s+as related material/);
     const prior = priorMatch ? priorMatch[1] : null;
-    const tail = line.slice(colonIdx + 1);
+    const tail = line.slice(evalMatch.index + evalMatch[0].length);
     for (const m of tail.matchAll(/`([A-Za-z0-9][A-Za-z0-9_-]*)`(?:\s*\(`([^`]+)`[^)]*\))?/g)) {
       const candSlug = m[1];
       const locator = m[2] || null;
@@ -688,7 +686,7 @@ function runNextBatch(builtGraph, batchSize, partFilter, isDryRun) {
       if (!todoPostMeta.has(candSlug)) {
         todoPostMeta.set(candSlug, {
           source: `work/todo.md:${idx + 1}`,
-          related: prior ? `${prior}${locator ? ` (${locator})` : ''}` : 'none',
+          related: prior ? `${prior}${locator ? ` (${locator})` : ''}` : (locator || 'none'),
         });
         todoPostOrder.push(candSlug);
       }
