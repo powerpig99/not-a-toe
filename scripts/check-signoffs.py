@@ -1,29 +1,24 @@
 #!/usr/bin/env python3
 """
-Deterministic Stage 3 sign-off and sha256 handoff verifier (`scripts/check-signoffs.py`).
+Deterministic Stage 1 / Stage 3 sign-off and sha256 handoff verifier (`scripts/check-signoffs.py`).
 
-Checks for each `work/<slug>/` DELTA node before Stage 3 interleaving:
-  1. `work/<slug>/notes.md` (or legacy `debate-en.md`) records `DRAFTER: confirmed`
-     (or `CRITIC: confirmed`) whose `sha256` matches `sha256(work/<slug>/en.md)`.
-  2. `work/<slug>/notes.md` (or legacy `debate-zh.md`) records `HANDOFF_CONFIRMED` with
-     the same `en.md` `sha256`.
-  3. `work/<slug>/notes.md` (or legacy `debate-zh.md`) ends with a `TRANSLATOR: confirmed`
-     (or `STYLIST: confirmed`) line whose `sha256` matches `sha256(work/<slug>/zh.md)`
-     and whose `source_sha256` matches `sha256(work/<slug>/en.md)`.
-  4. Every backtick `path:line` / `slug:line` locator in `work/<slug>/notes.md`
-     (when present) resolves to an existing file whose line count covers the cited
-     line numbers (against the working tree pre-consolidation, and across both the
-     pre-consolidation `<commit>~1` baseline and consolidated tree when `--commit <sha>`
-     is supplied after Stage 3 interleaving). Can also be run standalone via `--locators`.
-  5. For `NO_DELTA` nodes (no `work/<slug>/en.md`), verifies `DRAFTER: confirmed_no_delta`
-     (or `CRITIC: confirmed_no_delta`) in `work/<slug>/notes.md` (or `debate-en.md`)
-     against `sha256(content/posts/<slug>.md)` (or `content/book/<name>.md`, accepting
-     `<commit>~1` when `--commit <sha>` is supplied after Stage 3 H1 anchor sync) and
-     verifies `work/<slug>/notes.md` locators.
-  6. With `--record-batch <m> --commit <sha> <slug1> ...`, deterministically updates
+Checks for each `work/<slug>/` node:
+  1. Stage 1 (`--stage1 <slug>`): `work/<slug>/notes.md` records `VERDICT:`, `SUMMARY:`,
+     and `DRAFTER: confirmed` (with valid 64-hex `sha256` matching `work/<slug>/en.md`,
+     or `draft.md` for `_plan-consolidation`) or `DRAFTER: confirmed_no_delta` (with valid
+     64-hex `sha256` matching `content/posts/<slug>.md` or `content/book/<name>.md`, or
+     `notes.md` for sweep nodes), plus valid `notes.md` and `RESTATERS` locators.
+  2. Stage 3 (`<slug>`): verifies all Stage 1 checks above, plus `HANDOFF_CONFIRMED` with
+     the same `en.md` `sha256` and `TRANSLATOR: confirmed` (or `STYLIST: confirmed`) whose
+     `sha256` matches `sha256(work/<slug>/zh.md)` and `source_sha256` matches `sha256(en.md)`.
+  3. `--locators <notes.md>`: verifies every backtick `path:line` / `slug:line` locator
+     in `notes.md` (against the working tree pre-consolidation, and across `<commit>~1`
+     when `--commit <sha>` is supplied), AND validates any Stage 1 / Stage 2 sign-off
+     or `VERDICT:` lines already present in `notes.md`.
+  4. With `--record-batch <m> --commit <sha> <slug1> ...`, deterministically updates
      `work/wave.md` checkboxes, prunes completed items and appends `DELTA (propagates)`
      and `### For work/todo.md` items in `work/todo.md`, and writes `work/_logs/batch-<m>.md`.
-  7. With `--clean-sleep [--dry-run]`, deterministically harvests any unrecorded
+  5. With `--clean-sleep [--dry-run]`, deterministically harvests any unrecorded
      open `### For work/todo.md` items (skipping `- [x]` resolved items) from the
      directories to be deleted into `work/todo.md` and deletes ONLY the completed `[x]` `/sleep` node and sweep directories recorded
      in `work/wave.md` (`_plan-consolidation`, `_reverse-link-sweep`, `_post-wave-sweep`,
@@ -34,6 +29,7 @@ Checks for each `work/<slug>/` DELTA node before Stage 3 interleaving:
 
 Usage:
   python3 scripts/check-signoffs.py [--commit <sha>] <slug> [<slug2> ...]
+  python3 scripts/check-signoffs.py --stage1 [--commit <sha>] <slug> [<slug2> ...]
   python3 scripts/check-signoffs.py --locators [--commit <sha>] <notes.md> [<notes2.md> ...]
   python3 scripts/check-signoffs.py --record-batch <m> --commit <sha> [--deploy-run <id>] [--problem <note>] <slug1> [<slug2> ...]
   python3 scripts/check-signoffs.py --clean-sleep [--dry-run]
@@ -50,7 +46,8 @@ import sys
 
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
-HEX64 = r"([0-9a-f]{64})"
+HEX64_RE = re.compile(r"^[0-9a-f]{64}$")
+SWEEP_SLUGS = {"_plan-consolidation", "_reverse-link-sweep", "_post-wave-sweep"}
 POST_SLUG_PAT = r"[A-Za-z0-9][A-Za-z0-9_-]*"
 LOCATOR_RE = re.compile(
     r"`([A-Za-z0-9_./-]+:(?:\d+(?:\s*[-–]\s*\d+)?)(?:\s*,\s*\d+(?:\s*[-–]\s*\d+)?)*)`"
@@ -170,7 +167,7 @@ def validate_single_locator(
     return errors
 
 
-def check_locators(
+def check_locators_only(
     notes_path: pathlib.Path,
     label: str,
     commit_sha: str | None = None,
@@ -194,10 +191,56 @@ def check_locators(
     return errors
 
 
+def check_locators(
+    notes_path: pathlib.Path,
+    label: str,
+    commit_sha: str | None = None,
+) -> list[str]:
+    errors = check_locators_only(notes_path, label, commit_sha=commit_sha)
+    if not notes_path.is_file():
+        return errors
+
+    resolved_notes = notes_path.resolve()
+    work_dir = resolved_notes.parent
+    is_work_slug_dir = (
+        resolved_notes.name == "notes.md"
+        and work_dir.parent == (ROOT / "work").resolve()
+    )
+    slug = work_dir.name if is_work_slug_dir else label
+    notes_text = notes_path.read_text(encoding="utf-8")
+
+    is_no_delta, _, _, _, _, s1_errs = verify_stage1_signoffs(
+        slug,
+        work_dir,
+        notes_path,
+        notes_text,
+        require_signoff=False,
+        require_verdict_summary=False,
+        commit_sha=commit_sha,
+        is_work_slug_dir=is_work_slug_dir,
+    )
+    errors.extend(s1_errs)
+
+    en_path, _ = resolve_delta_primary_path(slug, work_dir)
+    zh_path = work_dir / "zh.md"
+    en_sha = "" if is_no_delta else (sha256_file(en_path) if en_path.is_file() else "")
+    _, s2_errs = verify_stage2_signoffs(
+        slug,
+        en_path,
+        en_sha,
+        zh_path,
+        notes_text,
+        notes_text,
+        require_signoffs=False,
+    )
+    errors.extend(s2_errs)
+    return errors
+
+
 def parse_critic_verdict_and_summary(
     slug: str,
     deb_en: str,
-    is_no_delta: bool,
+    is_no_delta: bool | None,
     require_lines: bool = False,
     commit_sha: str | None = None,
 ) -> tuple[str, list[tuple[str, bool]], str, list[str]]:
@@ -214,11 +257,11 @@ def parse_critic_verdict_and_summary(
     if m_verdict:
         raw_v = re.sub(r"\s+", " ", m_verdict.group(1).strip())
         raw_v = raw_v.replace("( ", "(").replace(" )", ")")
-        if is_no_delta and raw_v != "NO_DELTA":
+        if is_no_delta is True and raw_v != "NO_DELTA":
             errors.append(
                 f"[{slug}] VERDICT line '{raw_v}' in notes.md contradicts confirmed_no_delta"
             )
-        elif not is_no_delta and raw_v == "NO_DELTA":
+        elif is_no_delta is False and raw_v == "NO_DELTA":
             errors.append(
                 f"[{slug}] VERDICT line 'NO_DELTA' in notes.md contradicts confirmed DELTA"
             )
@@ -287,21 +330,305 @@ def last_match(pattern: str, text: str) -> re.Match[str] | None:
     return matches[-1] if matches else None
 
 
-def missing_or_decorated(
+def decorated_signoff_error(
     slug: str,
     token: str,
-    signoff_body_pattern: str,
+    decorated_body_pattern: str,
     file_label: str,
     text: str,
-    with_sha256: bool = True,
-) -> str:
-    if re.search(r"^[^\S\n]*\S[^\n]*?" + signoff_body_pattern, text, flags=re.MULTILINE):
+) -> str | None:
+    if re.search(r"^[^\S\n]*\S[^\n]*?" + decorated_body_pattern, text, flags=re.MULTILINE):
         return (
             f"[{slug}] Found '{token}' in {file_label} but not at a line start "
             "(list marker, quote or backtick before it); write it as its own line"
         )
-    suffix = " with sha256" if with_sha256 else ""
-    return f"[{slug}] Missing '{token}'{suffix} in {file_label}"
+    return None
+
+
+def parse_digest_token(tail: str, key: str = "sha256") -> tuple[str | None, str | None]:
+    m_key = re.search(rf"\b{re.escape(key)}:\s*[`\"']?([^\s,)\]`\"']+)[`\"']?", tail)
+    if m_key:
+        tok = m_key.group(1)
+        if HEX64_RE.fullmatch(tok):
+            return tok, None
+        return None, f"invalid {key} '{tok}' (expected 64 lowercase hex chars, got {len(tok)})"
+    if key == "sha256":
+        m_bare = re.search(r"\b([0-9a-f]{64})\b", tail)
+        if m_bare:
+            return m_bare.group(1), None
+    return None, f"missing '{key}: <64-hex>'"
+
+
+def resolve_delta_primary_path(slug: str, work_dir: pathlib.Path) -> tuple[pathlib.Path, bool]:
+    en_path = work_dir / "en.md"
+    draft_path = work_dir / "draft.md"
+    if slug == "_plan-consolidation" and draft_path.is_file() and not en_path.is_file():
+        return draft_path, True
+    return en_path, False
+
+
+def _display_rel(path: pathlib.Path) -> str:
+    resolved = path.resolve()
+    root_resolved = ROOT.resolve()
+    if resolved.is_relative_to(root_resolved):
+        return resolved.relative_to(root_resolved).as_posix()
+    return str(path)
+
+
+def verify_stage1_signoffs(
+    slug: str,
+    work_dir: pathlib.Path,
+    notes_path: pathlib.Path,
+    stage1_log: str,
+    *,
+    require_signoff: bool,
+    require_verdict_summary: bool,
+    commit_sha: str | None = None,
+    is_work_slug_dir: bool = True,
+) -> tuple[bool, str, str, list[tuple[str, bool]], str, list[str]]:
+    errors: list[str] = []
+    primary_path, _ = resolve_delta_primary_path(slug, work_dir)
+    m_drafter = last_match(
+        r"^(?:DRAFTER|CRITIC):\s*(confirmed_no_delta|confirmed)\b([^\n]*)$",
+        stage1_log,
+    )
+    decorated_pat = (
+        r"(?:DRAFTER|CRITIC):\s*(?:confirmed_no_delta|confirmed)\b[^\n]*?(?:\bsha256:|\(file:)"
+    )
+
+    if not m_drafter:
+        dec_err = decorated_signoff_error(
+            slug,
+            "DRAFTER: confirmed",
+            decorated_pat,
+            "notes.md",
+            stage1_log,
+        )
+        if dec_err:
+            errors.append(dec_err)
+        elif require_signoff:
+            expected_tok = "DRAFTER: confirmed" if primary_path.is_file() else "DRAFTER: confirmed / confirmed_no_delta"
+            errors.append(f"[{slug}] Missing '{expected_tok}' with sha256 in notes.md")
+
+        if errors or require_signoff:
+            verdict, restaters, summary, v_errs = parse_critic_verdict_and_summary(
+                slug,
+                stage1_log,
+                is_no_delta=(not primary_path.is_file()),
+                require_lines=require_verdict_summary,
+                commit_sha=commit_sha,
+            )
+            errors.extend(v_errs)
+            return (not primary_path.is_file(), "", verdict, restaters, summary, errors)
+
+        # --locators mode with no DRAFTER signoff yet: still validate VERDICT/RESTATERS if written
+        verdict, restaters, summary, v_errs = parse_critic_verdict_and_summary(
+            slug,
+            stage1_log,
+            is_no_delta=None,
+            require_lines=False,
+            commit_sha=commit_sha,
+        )
+        errors.extend(v_errs)
+        return (False, "", verdict, restaters, summary, errors)
+
+    kind = m_drafter.group(1)
+    tail = m_drafter.group(2)
+    is_no_delta = kind == "confirmed_no_delta"
+    m_file = re.search(r"\bfile:\s*[`\"']?([^\s,)\]`\"']+)[`\"']?", tail)
+    file_tok = m_file.group(1) if m_file else None
+
+    target_path: pathlib.Path | None = None
+    if is_no_delta:
+        if primary_path.is_file():
+            errors.append(
+                f"[{slug}] DRAFTER: confirmed_no_delta contradicts existing {_display_rel(primary_path)}"
+            )
+        if is_work_slug_dir:
+            if slug.startswith("_book:"):
+                post_or_book = ROOT / "content" / "book" / f"{slug[6:]}.md"
+            else:
+                post_or_book = ROOT / "content" / "posts" / f"{slug}.md"
+            if post_or_book.is_file():
+                target_path = post_or_book
+            elif slug in SWEEP_SLUGS:
+                target_path = notes_path
+            else:
+                errors.append(f"[{slug}] Missing target file for confirmed_no_delta")
+        elif file_tok:
+            cand = ROOT / file_tok
+            if not cand.is_file() and (work_dir / file_tok).is_file():
+                cand = work_dir / file_tok
+            if cand.is_file():
+                target_path = cand
+            else:
+                errors.append(f"[{slug}] Missing DRAFTER file target '{file_tok}'")
+    else:
+        if is_work_slug_dir:
+            if slug in ("_reverse-link-sweep", "_post-wave-sweep") and not primary_path.is_file():
+                target_path = notes_path
+            else:
+                target_path = primary_path
+                if not target_path.is_file():
+                    errors.append(f"[{slug}] Missing {_display_rel(target_path)}")
+        elif file_tok:
+            cand = ROOT / file_tok
+            if not cand.is_file() and (work_dir / file_tok).is_file():
+                cand = work_dir / file_tok
+            if cand.is_file():
+                target_path = cand
+            else:
+                errors.append(f"[{slug}] Missing DRAFTER file target '{file_tok}'")
+        elif primary_path.is_file():
+            target_path = primary_path
+
+    if file_tok and target_path is not None and is_work_slug_dir:
+        cand_file = ROOT / file_tok
+        if cand_file.resolve() != target_path.resolve():
+            errors.append(
+                f"[{slug}] DRAFTER: {kind} file '{file_tok}' != expected '{_display_rel(target_path)}'"
+            )
+
+    recorded_sha, sha_err = parse_digest_token(tail, "sha256")
+    matched_sha = ""
+    if sha_err:
+        errors.append(f"[{slug}] DRAFTER: {kind} {sha_err} in notes.md")
+    elif target_path is not None and target_path.is_file():
+        if target_path.resolve() == notes_path.resolve():
+            matched_sha = recorded_sha or ""
+        else:
+            expected_sha = sha256_file(target_path)
+            matched_sha = expected_sha
+            if recorded_sha != expected_sha:
+                baseline_matched = False
+                if is_no_delta:
+                    sha = normalize_commit_sha(commit_sha)
+                    resolved_target = target_path.resolve()
+                    if sha and resolved_target.is_relative_to(ROOT.resolve()):
+                        blob = git_blob_bytes(
+                            f"{sha}~1",
+                            resolved_target.relative_to(ROOT.resolve()).as_posix(),
+                        )
+                        if blob is not None and hashlib.sha256(blob).hexdigest() == recorded_sha:
+                            baseline_matched = True
+                            matched_sha = recorded_sha or ""
+                if not baseline_matched:
+                    tag = "confirmed_no_delta " if is_no_delta else ""
+                    errors.append(
+                        f"[{slug}] DRAFTER {tag}sha256 ({recorded_sha[:12]}...) "
+                        f"!= {target_path.name} ({expected_sha[:12]}...)"
+                    )
+
+    verdict, restaters, summary, v_errs = parse_critic_verdict_and_summary(
+        slug,
+        stage1_log,
+        is_no_delta=is_no_delta,
+        require_lines=require_verdict_summary,
+        commit_sha=commit_sha,
+    )
+    errors.extend(v_errs)
+    return (is_no_delta, matched_sha, verdict, restaters, summary, errors)
+
+
+def verify_stage2_signoffs(
+    slug: str,
+    en_path: pathlib.Path,
+    en_sha: str,
+    zh_path: pathlib.Path,
+    stage1_log: str,
+    stage2_log: str,
+    *,
+    require_signoffs: bool,
+) -> tuple[str, list[str]]:
+    errors: list[str] = []
+    zh_sha = sha256_file(zh_path) if zh_path.is_file() else ""
+
+    combined_handoff_log = (stage2_log + "\n" + stage1_log).strip()
+    m_handoff = last_match(r"^HANDOFF_CONFIRMED:([^\n]*)$", stage2_log) or last_match(
+        r"^HANDOFF_CONFIRMED:([^\n]*)$", stage1_log
+    )
+    if not m_handoff:
+        dec_err = decorated_signoff_error(
+            slug,
+            "HANDOFF_CONFIRMED",
+            r"HANDOFF_CONFIRMED:[^\n]*?(?:\bsha256:|work/)",
+            "notes.md",
+            combined_handoff_log,
+        )
+        if dec_err:
+            errors.append(dec_err)
+        elif require_signoffs:
+            errors.append(f"[{slug}] Missing 'HANDOFF_CONFIRMED' with sha256 in notes.md")
+    else:
+        recorded_h, h_err = parse_digest_token(m_handoff.group(1), "sha256")
+        if h_err:
+            errors.append(f"[{slug}] HANDOFF_CONFIRMED {h_err} in notes.md")
+        elif not en_sha:
+            errors.append(f"[{slug}] HANDOFF_CONFIRMED present but {_display_rel(en_path)} missing")
+        elif recorded_h != en_sha:
+            errors.append(
+                f"[{slug}] HANDOFF_CONFIRMED sha256 ({recorded_h[:12]}...) != {en_path.name} ({en_sha[:12]}...)"
+            )
+
+    m_translator = last_match(r"^(?:TRANSLATOR|STYLIST):\s*confirmed\b([^\n]*)$", stage2_log)
+    if not m_translator:
+        dec_err = decorated_signoff_error(
+            slug,
+            "TRANSLATOR: confirmed",
+            r"(?:TRANSLATOR|STYLIST):\s*confirmed\b[^\n]*?(?:\bsha256:|\(file:)",
+            "notes.md",
+            stage2_log,
+        )
+        if dec_err:
+            errors.append(dec_err)
+        elif require_signoffs:
+            errors.append(f"[{slug}] Missing 'TRANSLATOR: confirmed' in notes.md")
+    else:
+        tail = m_translator.group(1)
+        recorded_zh, zh_err = parse_digest_token(tail, "sha256")
+        recorded_src, src_err = parse_digest_token(tail, "source_sha256")
+        if zh_err:
+            errors.append(f"[{slug}] TRANSLATOR: confirmed {zh_err}")
+        elif not zh_sha:
+            errors.append(f"[{slug}] TRANSLATOR: confirmed present but {_display_rel(zh_path)} missing")
+        elif recorded_zh != zh_sha:
+            errors.append(
+                f"[{slug}] TRANSLATOR sha256 ({recorded_zh[:12]}...) != {zh_path.name} ({zh_sha[:12]}...)"
+            )
+        if src_err:
+            errors.append(f"[{slug}] TRANSLATOR: confirmed {src_err}")
+        elif not en_sha:
+            errors.append(f"[{slug}] TRANSLATOR: confirmed present but {_display_rel(en_path)} missing")
+        elif recorded_src != en_sha:
+            errors.append(
+                f"[{slug}] TRANSLATOR source_sha256 ({recorded_src[:12]}...) != {en_path.name} ({en_sha[:12]}...)"
+            )
+
+    return zh_sha, errors
+
+
+def verify_stage1_node(
+    slug: str,
+    commit_sha: str | None = None,
+) -> tuple[str, str, list[str]]:
+    work_dir = ROOT / "work" / slug
+    notes_path = work_dir / "notes.md"
+    if not notes_path.is_file():
+        return ("UNKNOWN", "", [f"[{slug}] Missing {_display_rel(notes_path)}"])
+    notes_text = notes_path.read_text(encoding="utf-8")
+    require_vs = not (slug in SWEEP_SLUGS)
+    _, stage1_sha, verdict, _, _, errors = verify_stage1_signoffs(
+        slug,
+        work_dir,
+        notes_path,
+        notes_text,
+        require_signoff=True,
+        require_verdict_summary=require_vs,
+        commit_sha=commit_sha,
+        is_work_slug_dir=True,
+    )
+    errors.extend(check_locators_only(notes_path, slug, commit_sha=commit_sha))
+    return (verdict, stage1_sha, errors)
 
 
 def classify_node(
@@ -315,14 +642,14 @@ def classify_node(
     """
     errors: list[str] = []
     work_dir = ROOT / "work" / slug
-    en_path = work_dir / "en.md"
+    en_path, _ = resolve_delta_primary_path(slug, work_dir)
     zh_path = work_dir / "zh.md"
     deb_en_path = work_dir / "debate-en.md"
     deb_zh_path = work_dir / "debate-zh.md"
     notes_path = work_dir / "notes.md"
 
     if not notes_path.is_file() and not deb_en_path.is_file():
-        return ("UNKNOWN", "", "", [], "", [f"[{slug}] Missing {notes_path.relative_to(ROOT)}"])
+        return ("UNKNOWN", "", "", [], "", [f"[{slug}] Missing {_display_rel(notes_path)}"])
 
     notes_text = notes_path.read_text(encoding="utf-8") if notes_path.is_file() else ""
     deb_en_text = deb_en_path.read_text(encoding="utf-8") if deb_en_path.is_file() else ""
@@ -330,140 +657,42 @@ def classify_node(
     stage1_log = (notes_text + "\n" + deb_en_text).strip()
     stage2_log = (notes_text + "\n" + deb_zh_text).strip()
 
-    # Check if this is a NO_DELTA node (no work/<slug>/en.md and confirmed_no_delta at end of notes.md / debate-en.md)
-    no_delta_body = r"(?:DRAFTER|CRITIC):\s*confirmed_no_delta\b[^\n]*?" + HEX64
-    m_no_delta = last_match(r"^" + no_delta_body, stage1_log)
-    if m_no_delta and not en_path.is_file():
-        if slug.startswith("_book:"):
-            post_or_book = ROOT / "content" / "book" / f"{slug[6:]}.md"
-        else:
-            post_or_book = ROOT / "content" / "posts" / f"{slug}.md"
-        # Only fall back to notes.md when no post or book file exists (Node 0 and sweeps)
-        target_path = post_or_book if post_or_book.is_file() else notes_path
-        if not target_path.is_file():
-            errors.append(f"[{slug}] Missing target file for confirmed_no_delta")
-            return ("NO_DELTA", "", "", [], "NO_DELTA", errors)
-        expected_sha = sha256_file(target_path)
-        recorded_sha = m_no_delta.group(1)
-        matched_sha = expected_sha
-        if target_path != notes_path and recorded_sha != expected_sha:
-            sha = normalize_commit_sha(commit_sha)
-            resolved_target = target_path.resolve()
-            baseline_matched = False
-            if sha and resolved_target.is_relative_to(ROOT):
-                blob = git_blob_bytes(f"{sha}~1", resolved_target.relative_to(ROOT).as_posix())
-                if blob is not None and hashlib.sha256(blob).hexdigest() == recorded_sha:
-                    baseline_matched = True
-                    matched_sha = recorded_sha
-            if not baseline_matched:
-                errors.append(
-                    f"[{slug}] DRAFTER confirmed_no_delta sha256 ({recorded_sha[:12]}...) "
-                    f"!= {target_path.name} ({expected_sha[:12]}...)"
-                )
-        if notes_path.is_file():
-            errors.extend(check_locators(notes_path, slug, commit_sha=commit_sha))
-        else:
-            errors.append(f"[{slug}] Missing work/{slug}/notes.md for NO_DELTA node")
-        verdict, restaters, summary, v_errs = parse_critic_verdict_and_summary(
-            slug,
-            stage1_log,
-            is_no_delta=True,
-            require_lines=require_verdict_summary,
-            commit_sha=commit_sha,
-        )
-        errors.extend(v_errs)
-        return (verdict, recorded_sha if target_path == notes_path else matched_sha, "", restaters, summary, errors)
-
-    required_files = [en_path, notes_path] if slug == "_plan-consolidation" else [en_path, zh_path, notes_path]
-    for p in required_files:
-        if not p.is_file():
-            errors.append(f"[{slug}] Missing {p.relative_to(ROOT)}")
-    if errors:
-        return ("DELTA (terminal)", "", "", [], "DELTA (terminal)", errors)
-
-    en_sha = sha256_file(en_path)
-    zh_sha = sha256_file(zh_path) if zh_path.is_file() else ""
-
-    drafter_body = r"(?:DRAFTER|CRITIC):\s*confirmed\b[^\n]*?" + HEX64
-    m_drafter = last_match(r"^" + drafter_body, stage1_log)
-    if not m_drafter:
-        errors.append(
-            missing_or_decorated(
-                slug,
-                "DRAFTER: confirmed",
-                drafter_body,
-                "notes.md",
-                stage1_log,
-            )
-        )
-    elif m_drafter.group(1) != en_sha:
-        errors.append(
-            f"[{slug}] DRAFTER sha256 ({m_drafter.group(1)[:12]}...) != en.md ({en_sha[:12]}...)"
-        )
-
-    if slug != "_plan-consolidation":
-        handoff_body = r"HANDOFF_CONFIRMED:[^\n]*?" + HEX64
-        m_handoff = last_match(r"^" + handoff_body, stage2_log) or last_match(
-            r"^" + handoff_body, stage1_log
-        )
-        if not m_handoff:
-            errors.append(
-                missing_or_decorated(
-                    slug,
-                    "HANDOFF_CONFIRMED",
-                    handoff_body,
-                    "notes.md",
-                    stage2_log + "\n" + stage1_log,
-                )
-            )
-        elif m_handoff.group(1) != en_sha:
-            errors.append(
-                f"[{slug}] HANDOFF_CONFIRMED sha256 ({m_handoff.group(1)[:12]}...) != en.md ({en_sha[:12]}...)"
-            )
-
-        m_translator = last_match(r"^(?:TRANSLATOR|STYLIST):\s*confirmed\b([^\n]*)", stage2_log)
-        if not m_translator:
-            errors.append(
-                missing_or_decorated(
-                    slug,
-                    "TRANSLATOR: confirmed",
-                    r"(?:TRANSLATOR|STYLIST):\s*confirmed\b[^\n]*?\bsha256:\s*" + HEX64,
-                    "notes.md",
-                    stage2_log,
-                    with_sha256=False,
-                )
-            )
-        else:
-            tail = m_translator.group(1)
-            m_zh_sha = re.search(r"\bsha256:\s*" + HEX64, tail)
-            m_src_sha = re.search(r"\bsource_sha256:\s*" + HEX64, tail)
-            if not m_zh_sha:
-                errors.append(f"[{slug}] TRANSLATOR: confirmed missing 'sha256: <64-hex>'")
-            elif m_zh_sha.group(1) != zh_sha:
-                errors.append(
-                    f"[{slug}] TRANSLATOR sha256 ({m_zh_sha.group(1)[:12]}...) != zh.md ({zh_sha[:12]}...)"
-                )
-            if not m_src_sha:
-                errors.append(
-                    f"[{slug}] TRANSLATOR: confirmed missing 'source_sha256: <en.md 64-hex>'"
-                )
-            elif m_src_sha.group(1) != en_sha:
-                errors.append(
-                    f"[{slug}] TRANSLATOR source_sha256 ({m_src_sha.group(1)[:12]}...) != en.md ({en_sha[:12]}...)"
-                )
+    is_no_delta, stage1_sha, verdict, restaters, summary, s1_errs = verify_stage1_signoffs(
+        slug,
+        work_dir,
+        notes_path,
+        stage1_log,
+        require_signoff=True,
+        require_verdict_summary=require_verdict_summary,
+        commit_sha=commit_sha,
+        is_work_slug_dir=True,
+    )
+    errors.extend(s1_errs)
 
     if notes_path.is_file():
-        errors.extend(check_locators(notes_path, slug, commit_sha=commit_sha))
+        errors.extend(check_locators_only(notes_path, slug, commit_sha=commit_sha))
+    elif is_no_delta:
+        errors.append(f"[{slug}] Missing work/{slug}/notes.md for NO_DELTA node")
 
-    verdict, restaters, summary, v_errs = parse_critic_verdict_and_summary(
-        slug,
-        stage1_log,
-        is_no_delta=False,
-        require_lines=require_verdict_summary,
-        commit_sha=commit_sha,
-    )
-    errors.extend(v_errs)
-    return (verdict, en_sha, zh_sha, restaters, summary, errors)
+    zh_sha = ""
+    if not is_no_delta:
+        if not notes_path.is_file():
+            errors.append(f"[{slug}] Missing {_display_rel(notes_path)}")
+        if slug not in SWEEP_SLUGS:
+            if not zh_path.is_file():
+                errors.append(f"[{slug}] Missing {_display_rel(zh_path)}")
+            zh_sha, s2_errs = verify_stage2_signoffs(
+                slug,
+                en_path,
+                stage1_sha,
+                zh_path,
+                stage1_log,
+                stage2_log,
+                require_signoffs=True,
+            )
+            errors.extend(s2_errs)
+
+    return (verdict, stage1_sha, zh_sha, restaters, summary, errors)
 
 
 def check_slug(slug: str, commit_sha: str | None = None) -> list[str]:
@@ -1242,6 +1471,40 @@ def clean_sleep(dry_run: bool = False) -> int:
     return 0
 
 
+def parse_commit_and_targets(
+    args: list[str],
+    skip_flag: str | None = None,
+) -> tuple[str | None, list[str]] | None:
+    commit_sha: str | None = None
+    targets: list[str] = []
+    i = 0
+    while i < len(args):
+        arg = args[i]
+        if skip_flag and arg == skip_flag:
+            i += 1
+        elif arg == "--commit" and i + 1 < len(args):
+            commit_sha = args[i + 1]
+            i += 2
+        elif arg.startswith("--commit="):
+            commit_sha = arg.split("=", 1)[1]
+            i += 1
+        elif not arg.startswith("-"):
+            targets.append(arg)
+            i += 1
+        else:
+            return None
+    if not targets:
+        return None
+    return commit_sha, targets
+
+
+def normalize_slug_arg(raw: str) -> str:
+    p = pathlib.Path(raw)
+    if p.name == "notes.md" and p.parent.name and p.parent.parent.name == "work":
+        return p.parent.name
+    return raw.removesuffix(".md")
+
+
 def main(argv: list[str]) -> int:
     if "--clean-sleep" in argv[1:]:
         dry_run = "--dry-run" in argv[1:]
@@ -1252,34 +1515,12 @@ def main(argv: list[str]) -> int:
         return clean_sleep(dry_run=dry_run)
 
     if "--locators" in argv[1:]:
-        commit_sha: str | None = None
-        targets: list[str] = []
-        i = 1
-        while i < len(argv):
-            arg = argv[i]
-            if arg == "--locators":
-                i += 1
-            elif arg == "--commit" and i + 1 < len(argv):
-                commit_sha = argv[i + 1]
-                i += 2
-            elif arg.startswith("--commit="):
-                commit_sha = arg.split("=", 1)[1]
-                i += 1
-            elif not arg.startswith("-"):
-                targets.append(arg)
-                i += 1
-            else:
-                print(
-                    "Usage: python3 scripts/check-signoffs.py --locators [--commit <sha>] <notes.md> [<notes2.md> ...]",
-                    file=sys.stderr,
-                )
-                return 2
-        if not targets:
-            print(
-                "Usage: python3 scripts/check-signoffs.py --locators [--commit <sha>] <notes.md> [<notes2.md> ...]",
-                file=sys.stderr,
-            )
+        usage = "Usage: python3 scripts/check-signoffs.py --locators [--commit <sha>] <notes.md> [<notes2.md> ...]"
+        parsed = parse_commit_and_targets(argv[1:], skip_flag="--locators")
+        if parsed is None:
+            print(usage, file=sys.stderr)
             return 2
+        commit_sha, targets = parsed
         all_errors: list[str] = []
         for raw in targets:
             p = pathlib.Path(raw)
@@ -1290,7 +1531,28 @@ def main(argv: list[str]) -> int:
             if errs:
                 all_errors.extend(errs)
             else:
-                print(f"Locators verified: {p.relative_to(ROOT) if p.is_relative_to(ROOT) else p}")
+                print(f"Locators verified: {_display_rel(p)}")
+        if all_errors:
+            for e in all_errors:
+                print(f"ERROR: {e}", file=sys.stderr)
+            return 1
+        return 0
+
+    if "--stage1" in argv[1:]:
+        usage = "Usage: python3 scripts/check-signoffs.py --stage1 [--commit <sha>] <slug> [<slug2> ...]"
+        parsed = parse_commit_and_targets(argv[1:], skip_flag="--stage1")
+        if parsed is None:
+            print(usage, file=sys.stderr)
+            return 2
+        commit_sha, raw_targets = parsed
+        slugs = [normalize_slug_arg(raw) for raw in raw_targets]
+        all_errors = []
+        for slug in slugs:
+            verdict, _, errs = verify_stage1_node(slug, commit_sha=commit_sha)
+            if errs:
+                all_errors.extend(errs)
+            else:
+                print(f"Stage 1 verified: work/{slug}/ (verdict={verdict})")
         if all_errors:
             for e in all_errors:
                 print(f"ERROR: {e}", file=sys.stderr)
@@ -1334,32 +1596,13 @@ def main(argv: list[str]) -> int:
             return 2
         return record_batch(batch_num, commit_sha, deploy_run, problem_note, slugs)
 
-    commit_sha = None
-    slugs = []
-    i = 1
-    while i < len(argv):
-        arg = argv[i]
-        if arg == "--commit" and i + 1 < len(argv):
-            commit_sha = argv[i + 1]
-            i += 2
-        elif arg.startswith("--commit="):
-            commit_sha = arg.split("=", 1)[1]
-            i += 1
-        elif not arg.startswith("-"):
-            slugs.append(arg.removesuffix(".md"))
-            i += 1
-        else:
-            print(
-                "Usage: python3 scripts/check-signoffs.py [--commit <sha>] <slug> [<slug2> ...]",
-                file=sys.stderr,
-            )
-            return 2
-    if not slugs:
-        print(
-            "Usage: python3 scripts/check-signoffs.py [--commit <sha>] <slug> [<slug2> ...]",
-            file=sys.stderr,
-        )
+    usage = "Usage: python3 scripts/check-signoffs.py [--commit <sha>] <slug> [<slug2> ...]"
+    parsed = parse_commit_and_targets(argv[1:])
+    if parsed is None:
+        print(usage, file=sys.stderr)
         return 2
+    commit_sha, raw_targets = parsed
+    slugs = [normalize_slug_arg(raw) for raw in raw_targets]
 
     all_errors = []
     for slug in slugs:
