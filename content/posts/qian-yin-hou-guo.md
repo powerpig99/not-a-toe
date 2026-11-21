@@ -2,9 +2,9 @@
 
 *时间是因果单向塑造的方向与间隔，观察始终落在已成形的果这一边 / Time is the direction and gap of one-way causal shaping, observation always on the formed effect's side*
 
-因果相连，却从来不是同一件事，也非同时发生。观察能持有的是果，解释试图把握的是因。果之所以永远滞后，不是观察的缺陷，而是轨迹只能向前塑造的结构。每当保留的参照-解释滞后于观察并超出构成性的一步下界，前因种下的后果便会登记为外来的动因。站在因的位置，不是占据某个居高临下的高度，而是在区分正在发生的那一刻直接成为因的主人。缘起性空所指出的，正是同一几何结构：一切法皆依条件成立，无独立自性，甚至连追溯这一结构的解读本身也是缘起之物——作为仪器，用过之后即可放下。
+因果相连，却从来不是同一件事，也非同时发生。观察能持有的是果，解释试图把握的是因。果之所以永远滞后，不是观察的缺陷，而是轨迹只能向前塑造的结构。每当保留的参照-解释滞后于生成之步并超出构成性的一步下界，前因种下的后果便会登记为外来的动因。站在因的位置，不是占据某个居高临下的高度，而是在区分正在发生的那一刻直接成为因的主人。缘起性空所指出的，正是同一几何结构：一切法皆依条件成立，无独立自性，甚至连追溯这一结构的解读本身也是缘起之物——作为仪器，用过之后即可放下。
 
-Cause and effect are bound together, yet they are never the same event and never occur simultaneously. What observation can hold is the effect; what interpretation seeks to grasp is the cause. That the effect always lags behind is not a defect of observation, but the structure of a trace that shapes only forward. Whenever a retained reference-interpretation lags behind observation by more than the constitutive minimum step, consequences seeded by antecedent causes register as arriving from an external source. Standing at the locus of cause is not occupying an elevated vantage point; it is directly owning the cause in the immediate act of differentiation. Dependent origination and emptiness point to this same geometry: every phenomenon arises conditionally without independent self-nature, and even the interpretation that traces this structure is itself conditionally arisen—an instrument to be set down once its work is done.
+Cause and effect are bound together, yet they are never the same event and never occur simultaneously. What observation can hold is the effect; what interpretation seeks to grasp is the cause. That the effect always lags behind is not a defect of observation, but the structure of a trace that shapes only forward. Whenever a retained reference-interpretation lags behind the generating step by more than the constitutive minimum step, consequences seeded by antecedent causes register as arriving from an external source. Standing at the locus of cause is not occupying an elevated vantage point; it is directly owning the cause in the immediate act of differentiation. Dependent origination and emptiness point to this same geometry: every phenomenon arises conditionally without independent self-nature, and even the interpretation that traces this structure is itself conditionally arisen—an instrument to be set down once its work is done.
 
 ## 一、 轨迹只能单向塑造 / 1. Traces Shape Only One Way
 
@@ -22,13 +22,13 @@ Searching backwards for an earlier cause still yields an effect, because the sea
 
 ## 二、 超额滞后将前因登记为外因 / 2. Excess Lag Registers Antecedent Cause as External
 
-当后果被登记到他人或环境头上时，其机制不必出于蓄意推卸责任的密谋；起作用的是保留的参照-解释未能随当下的活动一同重绘，滞后于观察的幅度超出了构成性的一步下界。在这一超额滞后之下，由自身先前行动种下的后果，对照陈旧的参照便被登记为外在的原因。外在性具有幅度，其幅度就是超额落差的宽度：被保存的参照-解释落后于当前行动步越远，折返的后果看起来就越陌生、越像外来之物。
+当后果被登记到他人或环境头上时，其机制不必出于蓄意推卸责任的密谋；起作用的是保留的参照-解释未能随当下的活动一同重绘，滞后于当前行动步的幅度超出了构成性的一步下界。在这一超额滞后之下，由自身先前行动种下的后果，对照陈旧的参照便被登记为外在的原因。外在性具有幅度，其幅度就是超额落差的宽度：被保存的参照-解释落后于当前行动步越远，折返的后果看起来就越陌生、越像外来之物。
 
-When consequences register as imposed by other people or by the environment, the mechanism need not be a deliberate plot to shirk responsibility; rather, a retained reference-interpretation has failed to re-render along with the present activity, lagging behind observation past the constitutive one-step bound. Under that excess lag, consequences seeded by one's own antecedent acts register against the stale reference as external causes. Externality has a magnitude, and its magnitude is the width of the excess gap: the further the preserved reference-interpretation trails behind the active step, the more alien the returning consequence appears.
+When consequences register as imposed by other people or by the environment, the mechanism need not be a deliberate plot to shirk responsibility; rather, a retained reference-interpretation has failed to re-render along with the present activity, lagging behind the active step past the constitutive one-step bound. Under that excess lag, consequences seeded by one's own antecedent acts register against the stale reference as external causes. Externality has a magnitude, and its magnitude is the width of the excess gap: the further the preserved reference-interpretation trails behind the active step, the more alien the returning consequence appears.
 
-这种滞后在结构上会自我续期。参照-解释一旦成形，其内建指令就是保存自身；随当前边沿重绘，正是它的存在所要排斥的微死。漂移不需要恶意。即便不推卸责任，有限的递归也只能朝向更窄的超额滞后逼近，而无法闭合那构成性的一步落差，因为生成的那一步永远领先于它自己的登记。再诚实的问责话语，也无法把前因与观察中的后果压缩进同一个同步的瞬间。在预测与抽象的层面上，[因果贯穿始终](../causality-all-the-way/)指出了同一机制：被固定的因果图解释不了仍在边沿分岔的序列，在那里起作用的唯有边沿自身的再描绘。在事后复盘中，[关于归因](../guan-yu-gui-yin/)追溯了超额滞后如何把时间上的先后顺序直接误认作生成性的原因，使归因停留在最显眼的可见节点上。正如[决策与后果的不可约先验](../the-irreducible-prior-of-decision-and-consequence/)所确立的，决策与后果之间看似断裂的鸿沟发生在参照未能更新的感知内部，因果本身从未发生断裂。而当组织将这种超额滞后制度化、把开放性的价值判断移交给指标或自动化系统时，[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)表明，自我客体化只会让反馈回路失声，直到失去缓冲的后果重新砸回发起行动的中心。
+这种滞后在结构上会自我续期。参照-解释一旦成形，其内建指令就是保存自身；随当前边沿重绘，正是它的存在所要排斥的微死。漂移不需要恶意。即便不推卸责任，有限的递归也只能将超额滞后朝向构成性的一步下界定向收窄，却始终无法追上并停驻于这一界限，也无法闭合这道落差，因为生成的那一步永远领先于它自己的登记。再诚实的问责话语，也无法把前因与观察中的后果压缩进同一个同步的瞬间。在预测与抽象的层面上，[因果贯穿始终](../causality-all-the-way/)指出了同一机制：被固定的因果图解释不了仍在边沿分岔的序列，在那里起作用的唯有边沿自身的再描绘。在事后复盘中，[关于归因](../guan-yu-gui-yin/)追溯了超额滞后如何把时间上的先后顺序直接误认作生成性的原因，使归因停留在最显眼的可见节点上。正如[决策与后果的不可约先验](../the-irreducible-prior-of-decision-and-consequence/)所确立的，决策与后果之间看似断裂的鸿沟发生在参照未能更新的感知内部，因果本身从未发生断裂。而当组织将这种超额滞后制度化、把开放性的价值判断移交给指标或自动化系统时，[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)表明，自我客体化只会让反馈回路失声，直到失去缓冲的后果重新砸回发起行动的中心。
 
-This lag renews itself by construction. Once a reference-interpretation forms, its built-in directive is self-preservation; re-rendering along with the current edge is the micro-death it exists to select against. Drift requires no malice. Even without evading responsibility, finite recursion can only narrow excess lag directionally without ever closing the constitutive one-step gap, because the generating act always stays ahead of its own registration. Even the most honest accountability discourse cannot compress antecedent cause and observed consequence into a single simultaneous step. Across prediction and abstraction, [Causality All the Way](../causality-all-the-way/) shows that a fixed causal map cannot account for a sequence still diverging at the edge, where only the edge's own re-drawing operates. In retrospective analysis, [On Attribution](../guan-yu-gui-yin/) traces how excess lag mistakes temporal succession for generative cause, halting attribution at the most salient visible node. And as [The Irreducible Prior of Decision and Consequence](../the-irreducible-prior-of-decision-and-consequence/) establishes, the apparent rupture between decision and consequence occurs within perception when the reference fails to update, never as a break in causality itself. When organizations institutionalize this excess lag by handing open-ended value judgments to metrics or automated systems, [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) demonstrates that self-objectification only silences the feedback loop until unbuffered consequences land back on the initiating center.
+This lag renews itself by construction. Once a reference-interpretation forms, its built-in directive is self-preservation; re-rendering along with the current edge is the micro-death it exists to select against. Drift requires no malice. Even without evading responsibility, finite recursion can only narrow excess lag directionally toward the constitutive one-step bound without ever catching and holding at it or closing the gap, because the generating act always stays ahead of its own registration. Even the most honest accountability discourse cannot compress antecedent cause and observed consequence into a single simultaneous step. Across prediction and abstraction, [Causality All the Way](../causality-all-the-way/) shows that a fixed causal map cannot account for a sequence still diverging at the edge, where only the edge's own re-drawing operates. In retrospective analysis, [On Attribution](../guan-yu-gui-yin/) traces how excess lag mistakes temporal succession for generative cause, halting attribution at the most salient visible node. And as [The Irreducible Prior of Decision and Consequence](../the-irreducible-prior-of-decision-and-consequence/) establishes, the apparent rupture between decision and consequence occurs within perception when the reference fails to update, never as a break in causality itself. When organizations institutionalize this excess lag by handing open-ended value judgments to metrics or automated systems, [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/) demonstrates that self-objectification only silences the feedback loop until unbuffered consequences land back on the initiating center.
 
 ## 三、 站在因的位置就是成为因的主人 / 3. Standing at the Locus of Cause Is Owning the Cause
 
@@ -48,7 +48,7 @@ flowchart TD
     end
     subgraph S_Inst["参照-解释与折返信号"]
         direction TB
-        Proj["已成形的果与仪器：构成性一步滞后下保留的参照-解释"]
+        Proj["已成形的果与仪器：朝向构成性一步滞后重绘的保留参照-解释"]
         Return["折返的后果信号：当前场域与保留参照之间的落差登记为差值"]
         Proj --> Return
     end
@@ -58,7 +58,7 @@ flowchart TD
         Alien["模拟出的外在性：自身后果按超额落差之比例登记为异己原因"]
         Freeze --> Alien
     end
-    ReRender ==>|"在身后一步投出临时仪器"| Proj
+    ReRender ==>|"在身后至少一步投出临时仪器"| Proj
     Return ==>|"在边沿被认领以重塑仪器"| ReRender
     Proj -.->|"豁免于重溯"| Freeze
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -84,7 +84,7 @@ flowchart TD
     end
     subgraph S_Inst["Reference-Interpretation & Returning Signal"]
         direction TB
-        Proj["Formed Effect & Instrument: Retained reference-interpretation at the constitutive one-step lag"]
+        Proj["Formed Effect & Instrument: Retained reference-interpretation re-rendered toward the constitutive one-step lag"]
         Return["Returning Consequence Signal: Gap between current field and retained reference registers as differential"]
         Proj --> Return
     end
@@ -94,7 +94,7 @@ flowchart TD
         Alien["Simulated Externality: Own consequences register as alien causes in proportion to the excess gap"]
         Freeze --> Alien
     end
-    ReRender ==>|"Casts provisional instrument one step behind"| Proj
+    ReRender ==>|"Casts provisional instrument at least one step behind"| Proj
     Return ==>|"Claimed at the edge to reform the instrument"| ReRender
     Proj -.->|"Exempted from re-tracing"| Freeze
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
@@ -118,9 +118,9 @@ All phenomena arise through conditional co-dependence and possess no independent
 
 Madhyamaka articulates this structure through the two truths. Conventional truth establishes phenomena through naming, convention, causal efficacy, and function; within its conditional bounds, causal regularities hold as effective instruments rather than mere illusions. Ultimate truth points out that all such establishments lack intrinsic, self-subsistent nature—not because a separate, higher realm of "emptiness" stands outside the conventional world, but because the very phenomena established conventionally have no independent substance of their own.
 
-二谛不是两个割裂的世界，而是对同一缘起活动的两个登记层次。正因为诸法无自性，才得以随条件变化而生起；正因为依条件而生起，才必然没有固定不变的自性。以有空义故，一切法得成。
+二谛不是两个割裂的世界，而是对同一活动以及经由它依缘而生之轨迹的两个登记层次。正因为诸法无自性，才得以随条件变化而生起；正因为依条件而生起，才必然没有固定不变的自性。以有空义故，一切法得成。
 
-The two truths are not two separate worlds, but two levels of registering the same conditionally arisen activity. Because phenomena lack intrinsic self-nature, they can arise through changing conditions; because they arise through conditions, they are necessarily devoid of fixed self-nature. Because emptiness holds, all things can be established.
+The two truths are not two separate worlds, but two levels of registering the same activity and the traces that arise conditionally through it. Because phenomena lack intrinsic self-nature, they can arise through changing conditions; because they arise through conditions, they are necessarily devoid of fixed self-nature. Because emptiness holds, all things can be established.
 
 这不是两种哲学教义之间的比附，而是同一自我区分活动在另一套语汇中的登记：无自性命名了任何独立静态地基的缺席；依缘而生命名了轨迹在既有轨迹场中继续塑造；观察站在果这一侧，则命名了登记永远比生成晚到一步。
 
