@@ -12,11 +12,11 @@ Derek Sivers' account of building a home by living first in bare cabins and addi
 
 Sivers begins with undeveloped land in a New Zealand forest valley, lives in used cabins through the seasons, and adds only what actual use proves: an outdoor kitchen once rain has spoken, a composting toilet after a month of peeing outside, a sauna for a cold dark valley, fiber internet once the trench is already dug. The maxim that guides him is clear, all buildings are predictions and all predictions are wrong, so the only reliable method is to defer every decision until reality itself has spoken. The result, he reports, feels custom-tailored, almost inevitable.
 
-这个方法从来不是没有预测，它仍是预测。决定在需要被证明之前什么都不添，本身就是在预测：与条件的直接接触，会比事先的推想得出更准确的模型。在这些前提之下，这个方法对任何接受它们的人都成立。它不是的，是选择的停止。[因果贯穿始终](../causality-all-the-way/)从另一面讲作为工具的预测：推测在已经握住的结果之间画出模式，生成的那一步始终走在每一张已确认的地图前面。在这里，已确认的地图是“所有预测都是错的”这条准则，它被当作许可，把推迟当成了没有预测。
+这个方法从来不是没有预测，它仍是预测。决定在需要被证明之前什么都不添，本身就是在预测：与条件的直接接触，会比事先的推想得出更准确的模型。在这些前提之下，这个方法对任何接受它们的人都成立。它并非选择的停止。[因果贯穿始终](../causality-all-the-way/)从另一面讲作为工具的预测：推测在已经握住的结果之间画出模式，生成的那一步始终走在每一张已确认的地图前面。在这里，已确认的地图是“所有预测都是错的”这条准则，它被当作许可，把推迟当成了没有预测。
 
 The method is never the absence of prediction. It is still prediction. To decide that one will add nothing until need is demonstrated is already to predict that direct contact with conditions will yield a more accurate model than prior speculation. Under those premises the method is valid, for anyone who accepts them. What it is not is the stopping of choosing. [Causality All the Way](../causality-all-the-way/) shows prediction as an instrument from another side: conjecture draws patterns across effects already held, and the generating step stays ahead of every secured map. Here the secured map is the maxim that all predictions are wrong, held as license to treat deferral as the absence of predicting.
 
-## 二、 他添加的东西，早有人愿意犯错地预测过 / 2. What He Adds Was Already Predicted by Someone Willing to Be Wrong
+## 二、 他添加的东西，早已被愿意犯错的人预测过 / 2. What He Adds Was Already Predicted by Someone Willing to Be Wrong
 
 他后来发现需要的每一种形式，早已是别人的一次预测。那些小屋是作为预测被造出来的，二手、清仓，预测有人会想要一个保温良好的四乘八的盒子。光纤早已通到路边，因为有人预测这片地方会承载数据。堆肥马桶、加热软管淋浴、另一个人设计的双人桑拿、那本提醒他水会从浴室开始毁掉一栋房子的书，每一样都是在结果仍未定时做出的一次区分留下的余留。那些人预测了，并且愿意为此犯错。
 
@@ -40,13 +40,13 @@ Others keep predicting. Cabins are still manufactured. Fiber is still laid. Appl
 
 His own previous predictions compound in the same field. CD Baby, built while it was still open whether independent musicians would want a store; books; a public sequence other centers now read as success. Time, money and an audience that asks how the house is going are not a second engine sitting beside the method. They are fruit of earlier predicting, re-entering as the field in which deferral is affordable and the story circulates. [Having More Is Never the Cause](../having-more-is-never-the-cause/) traces the same return: possession names the current rendering, not an independent force that awards further supply. [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) is the same one-way shaping: earlier acts pattern what later acts can inhabit; they do not relocate the next lever.
 
-被记作不预测之自由的东西，是一种后来的风格，走在预测的余留之上：别人仍在继续的，别人已经做成的，还有他自己已被读作成功的。目光握住的是后来的风格，果实始终领先一步。
+被记作不预测之自由的东西，是一种后来的风格，走在预测的余留之上：别人仍在继续的，别人已经做成的，还有他自己已被读作成功的。目光握住的是后来的风格，而建造并仍在维系那片场的预测，则留在阴影里。
 
-What registers as the freedom of not predicting is a later style walking on residue of predicting: others' continuing, others' already made, and his own already read as success. What is seen holds the later style. The fruit stays one step ahead.
+What registers as the freedom of not predicting is a later style walking on residue of predicting: others' continuing, others' already made, and his own already read as success. What is seen holds the later style, while the predicting that built and still sustains that field stays in shadow.
 
 ## 四、 毫不费力是不再自我宣告的掌控 / 4. Effortlessness Is Mastery That No Longer Announces Itself
 
-心智并没有停止选择，它改变的是选择的风格。费力的强求，让位给一种更安静、持续地选择让什么发生。当这种选择足够完备、毫无摩擦，体验便成了只是在发生。掌控近乎全面，却不再把自己宣告为掌控。同一枚硬币的两面，毫不费力与掌控，始终都在，只是多半只有一面被展示。[旁观者洞察的悖论](../the-paradoxical-nature-of-bystander-insights/)讲的是这枚硬币装扮成观察的样子：一次注视握住一面，把它冻结成了整体。
+心智并没有停止选择，它改变的是选择的风格。费力的强求，让位给更安静、持续地选择让什么发生。当这种选择足够完备、毫无摩擦，体验便成了只是在发生。掌控近乎全面，却不再把自己宣告为掌控。同一枚硬币的两面，毫不费力与掌控，始终都在，只是多半只有一面被展示。[旁观者洞察的悖论](../the-paradoxical-nature-of-bystander-insights/)讲的是这枚硬币装扮成观察的样子：一次注视握住一面，把它冻结成了整体。
 
 The Mind does not stop choosing. It changes the style of its choosing. Effortful forcing gives way to a quieter, continuous selection of what is allowed to happen. When that selection becomes sufficiently complete and frictionless, the experience registers as pure happening. The control is near-total, yet it no longer announces itself as control. The two faces of the same coin, effortlessness and mastery, are always present; only one is usually shown. [The Paradoxical Nature of Bystander Insights](../the-paradoxical-nature-of-bystander-insights/) is that coin dressed as observation: a single look holds one face and freezes it as the whole.
 
@@ -146,6 +146,6 @@ Intent and awareness cannot be proven across the boundary of another mind. What 
 
 ## 九、 看似的不完整，在于诠释的那一层 / 9. Apparent Incompleteness Lives in the Interpretive Layer
 
-现实登记为连贯而开放的。看似的不完整，产生于诠释的那一层，它在完整的运动不可见时形成。在那道间隙里，观察与诠释分开，无法被强行调和。痕迹显现出来，所描绘的自由也显现出来；至于持续的选择、自我设限的空、塑造了可用之场的他人预测，以及让这份自由得以成行的早先预测（无论是别人仍在继续的，还是他自己已被读作成功的），则都可以由此推断出来。这些都不必被抬到诠释之上。[看不见的第一步](../the-invisible-first-move/)追溯的是这种推迟在竞争中的后果：等到清楚了才去预测，就注定了早动的人已在复利中积下无法逾越的优势。
+现实登记为连贯而开放的。看似的不完整，产生于诠释的那一层，它在完整的运动不可见时形成。在那道间隙里，观察与诠释分开，无法被强行调和。痕迹显现出来，所描绘的自由也显现出来；至于持续的选择、自我设限的空、塑造了可用之场的他人预测，以及让这份自由得以成行的早先预测（包括别人仍在继续的，以及他自己已被读作成功的），则都可以由此推断出来。这些都不必被抬到诠释之上。[看不见的第一步](../the-invisible-first-move/)追溯的是这种推迟在竞争中的后果：等到清楚了才去预测，会把跟随者绑在日渐过时的假设上，而早动的人已在复利中筑起难以逾越的护城河。
 
-Reality registers as coherent and open. Apparent incompleteness arises in the interpretive layer that forms when the complete movement is not available to view. In that gap, observation and interpretation diverge and cannot be forced into reconciliation. The traces appear; the described freedom appears. The continuous choosing, the self-limiting emptiness, the others' predictions that patterned the available field, and the prior predicting (others' still continuing and his own already read as success) that made the freedom available can be inferred. None of these need be elevated beyond interpretation. [The Invisible First Move](../the-invisible-first-move/) tracks the competitive consequence of this deferral: waiting for clarity before predicting guarantees that early movers have already compounded an insurmountable advantage.
+Reality registers as coherent and open. Apparent incompleteness arises in the interpretive layer that forms when the complete movement is not available to view. In that gap, observation and interpretation diverge and cannot be forced into reconciliation. The traces appear; the described freedom appears. The continuous choosing, the self-limiting emptiness, the others' predictions that patterned the available field, and the prior predicting (others' still continuing and his own already read as success) that made the freedom available can be inferred. None of these need be elevated beyond interpretation. [The Invisible First Move](../the-invisible-first-move/) tracks the competitive consequence of this deferral: waiting for clarity before predicting binds the follower to aging assumptions while early movers have already compounded moats that are hard to cross.
