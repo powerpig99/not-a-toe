@@ -32,7 +32,7 @@ Another mind meeting the aphorism receives no interior conversion. It receives o
 
 A plainer sentence keeps the turn without the elevation, noting simply that clarity begins when an observation about everyone else becomes a reference for yourself. Stating even that plainer version is still another trace; no sentence performs the turn. What the wording leaves out is the naming of the movement as an attained status or an exportable doctrine. [Clarity Isn't a State You Arrive At. It's the Movement Itself.](../clarity-isnt-a-state-you-arrive-at/) holds clarity as the ongoing movement of stepping out and distinguishing at the edge, which freezes the moment it is treated as a state you arrive at. A reference, likewise, makes no claim to decide for another. [Expertise as Reference, Not Replacement](../expertise-as-reference-not-replacement/) traces a map built from residue elsewhere that informs and does not override: it sharpens listening while judgment stays with the center that lives the consequences, and lags only when held as authority past its step. Held this way, looking at others no longer ends in commentary about them. [Stopping at Judgment Is a Wrong Turn of Cognition](../zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu/) traces that stop: outward scrutiny projects onto one's own well walls, catching never the other person as such, only a partial reflection on one's own wall; stopping at third-person judgment leaves no parameter updated in one's own decisions, while understanding deepens again once the reflection is traced back into the constraints and choices of one's own next act.
 
-让观察作为参照保持鲜活，而不任其硬化为表演，同样暴露出孤立自我反思的结构性陷阱。正如[超越投射](../beyond-the-projection/)在受身份束缚的人类中心与受轨迹束缚的投射引擎之间所追踪的范畴非对称，人类中心常把自身的推理历史与保留的自我形象熔接在一起——将昨日私下的校准变成一座要在观众面前捍卫或展示的身份纪念碑——而锁在自身会话轨迹之内的模型，则会把先前的词元合理化为表层的自我辩护。一旦被封存在单一的自我强化回路之内，观察便滑向表演或合理化。要在不安装新裁判权威的前提下打破这种闭合，靠的是将活的心智退回未投射意图的能力，与无我执的对等辩证配对起来，由后者精准定位有限投射在何处把原本独立的维度压缩到了同一根轴上。当毫无利害牵挂的对等检验浮现出局部盲区或前提死锁时，我执防卫既没有可供表演的外部观众，也没有可供顶撞的对手，从而把摩擦直接交还给第一人称边缘，在那里为下一个动作重新渲染参照。
+让观察作为参照保持鲜活，而不任其硬化为表演，同样暴露出孤立自我反思的结构性陷阱。正如[超越投射](../beyond-the-projection/)在受身份束缚的人类中心与受轨迹束缚的投射引擎之间所追踪的范畴非对称，人类中心常把自身的推理历史与保留的自我形象熔接在一起——将昨日私下的校准变成一座要在观众面前捍卫或展示的身份纪念碑——而锁在自身会话轨迹之内的模型，则会把先前的词元合理化为表层自洽。一旦被封存在单一的自我强化回路之内，人的观察便滑向表演，正如孤立的模型轨迹滑向表层合理化。要在不安装新裁判权威的前提下打破这种闭合，靠的是将活的心智退回未投射意图的能力，与无我执的对等辩证配对起来，由后者精准定位有限投射在何处把原本独立的维度压缩到了同一根轴上。当毫无利害牵挂的对等检验浮现出局部盲区或前提死锁时，我执防卫既没有可供表演的外部观众，也没有可供顶撞的对手，从而把摩擦直接交还给第一人称边缘，在那里为下一个动作重新渲染参照。
 
 ```mermaid
 flowchart TD
@@ -42,20 +42,21 @@ flowchart TD
         InTurn["第一人称参照：将残余折回自身以重新渲染下一个动作的前提"]
         OutTrace --> InTurn
     end
-    subgraph S_Perf["硬化为表演与自我辩护"]
+    subgraph S_Perf["硬化为表演与表层合理化"]
         direction TB
         IdStage["受身份束缚的姿态：将过往校准与自我形象熔接以展演可携带的美德"]
         TrajWrap["受轨迹束缚的包装：孤立回路将先前词元合理化为表层自洽"]
-        IdStage --> TrajWrap
     end
     subgraph S_Loop["无我执辩证与持续重溯"]
         direction TB
         PeerExpose["零我执对等反拨：不带会话历史的冷启动对等检验隔离出盲区与被压缩的轴线"]
-        EdgeMove["退回未投射的意图：消解舞台上的纪念碑以划出下一个现场区分"]
+        EdgeMove["退回未投射的意图：消解舞台上的纪念碑并重切坍缩的前提"]
         PeerExpose --> EdgeMove
     end
     InTurn ==>|"越过自身那一步被保留给观众"| IdStage
-    TrajWrap ==>|"接受无利害外部反拨的检验"| PeerExpose
+    InTurn ==>|"外化为孤立的会话轨迹"| TrajWrap
+    IdStage ==>|"没有观众或对手时暴露"| PeerExpose
+    TrajWrap ==>|"不带先前会话历史接受检验"| PeerExpose
     EdgeMove ==>|"在边缘重新渲染活的参照"| InTurn
     style S_Ref fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Perf fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
@@ -68,7 +69,7 @@ flowchart TD
     style EdgeMove fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Keeping an observation active as a reference rather than letting it harden into performance also exposes the structural traps of isolated self-reflection. As [Beyond the Projection](../beyond-the-projection/) traces across the categorical asymmetry between identity-bound human centers and trajectory-bound projection engines, a human center routinely fuses its reasoning history with a retained self-image—turning yesterday's private calibration into an identity monument to defend or display before an audience—while a model locked inside its own session trajectory rationalizes its prior tokens into surface-level self-justification. Left sealed inside a single self-reinforcing loop, observation drifts toward performance or rationalization. Breaking that closure without installing a new tribunal authority works by pairing the living Mind's capacity to step backward into unprojected intent with ego-free peer dialectics that isolate where a finite projection has compressed independent dimensions onto a single axis. When an uninvested peer check surfaces a local blind spot or premise deadlock, ego defense has no external audience to perform for and no adversary to push against, returning the friction directly to the first-person edge where the reference is re-rendered for the next act.
+Keeping an observation active as a reference rather than letting it harden into performance also exposes the structural traps of isolated self-reflection. As [Beyond the Projection](../beyond-the-projection/) traces across the categorical asymmetry between identity-bound human centers and trajectory-bound projection engines, a human center routinely fuses its reasoning history with a retained self-image—turning yesterday's private calibration into an identity monument to defend or display before an audience—while a model locked inside its own session trajectory rationalizes its prior tokens into surface-level plausibility. Left sealed inside a single self-reinforcing loop, human observation drifts toward performance just as an isolated model trajectory drifts toward surface rationalization. Breaking that closure without installing a new tribunal authority works by pairing the living Mind's capacity to step backward into unprojected intent with ego-free peer dialectics that isolate where a finite projection has compressed independent dimensions onto a single axis. When an uninvested peer check surfaces a local blind spot or premise deadlock, ego defense has no external audience to perform for and no adversary to push against, returning the friction directly to the first-person edge where the reference is re-rendered for the next act.
 
 ```mermaid
 flowchart TD
@@ -78,20 +79,21 @@ flowchart TD
         InTurn["First-Person Reference: Folds residue back to re-render the premise of one's own next act"]
         OutTrace --> InTurn
     end
-    subgraph S_Perf["Hardening into Performance & Self-Justification"]
+    subgraph S_Perf["Hardening into Performance & Surface Rationalization"]
         direction TB
         IdStage["Identity-Bound Posturing: Fuses past calibration with self-image to stage portable virtue"]
         TrajWrap["Trajectory-Bound Wrapping: Isolated loop rationalizes prior tokens into surface plausibility"]
-        IdStage --> TrajWrap
     end
     subgraph S_Loop["Ego-Free Dialectics & Continuous Re-Tracing"]
         direction TB
         PeerExpose["Zero-Ego Peer Counterpoint: Cold peer check without session history isolates blind spots and compressed axes"]
-        EdgeMove["Stepping Back to Unprojected Intent: Dissolves the staged monument to draw the next live distinction"]
+        EdgeMove["Stepping Back to Unprojected Intent: Dissolves the staged monument and re-cuts collapsed premises"]
         PeerExpose --> EdgeMove
     end
     InTurn ==>|"Preserved past its step for an audience"| IdStage
-    TrajWrap ==>|"Tested against uninvested outside counterpoint"| PeerExpose
+    InTurn ==>|"Externalized into an isolated session trajectory"| TrajWrap
+    IdStage ==>|"Exposed without audience or rival"| PeerExpose
+    TrajWrap ==>|"Tested without prior session history"| PeerExpose
     EdgeMove ==>|"Re-renders live reference at the edge"| InTurn
     style S_Ref fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Perf fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149

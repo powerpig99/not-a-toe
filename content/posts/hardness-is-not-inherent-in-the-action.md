@@ -2,9 +2,9 @@
 
 *难与易不是行动的属性，而是对行动所需与所得之假设的属性。 / Hardness and ease are not properties of action but of assumptions about what an action requires and yields.*
 
-每个人都在行动那一刻最令自己信服的理论下行动。“难”与“易”这样的标签是事后才有的，那是用这套理论给已经走过的一串动作估算负荷。这个估算本身可用；问题出在它越过某个门槛、被说成“太难”之后，被拿来当作推迟下一步的许可，而随之而来的不行动又被读作难的进一步证据。挡住想要的结果的，不是所需步骤的固有属性，而是这个评分有多少次被用来批准不行动；换掉起作用的理论，让同样的观察不再被登记为需要克服的东西，这个许可便站不住了。
+每个人都在行动那一刻最令自己信服的理论下行动。“难”与“易”这样的标签是事后才有的，那是用这套理论给已经走过的一串动作估算负荷。这个估算本身可用；问题出在它越过某个门槛、被说成“太难”之后，被拿来当作推迟下一步的许可，而随之而来的不行动又被读作难的进一步证据。只要所需步骤依然可走，让这些步骤一直没有迈出的，不是步骤本身的固有属性，而是用这个评分来批准不行动；换掉起作用的理论，让同样的观察不再被登记为需要克服的东西，这个许可便站不住了。
 
-Everyone acts under the most convincing theory at the moment of action. Labels such as "hard" and "easy" come afterward, as that theory's estimate of the load of a sequence already walked. The estimate itself is usable; the trouble comes when it crosses a threshold, is called "too hard," and is taken as a license to defer the next step, after which the inaction reads as further evidence of difficulty. What blocks a desired outcome is not an intrinsic property of the required steps but how often that score is used to authorize inaction; change the operating theory so the same observations no longer register as something to be overcome, and the license no longer holds.
+Everyone acts under the most convincing theory at the moment of action. Labels such as "hard" and "easy" come afterward, as that theory's estimate of the load of a sequence already walked. The estimate itself is usable; the trouble comes when it crosses a threshold, is called "too hard," and is taken as a license to defer the next step, after which the inaction reads as further evidence of difficulty. Where the required steps remain available, what keeps them untaken is not an intrinsic property of those steps but using that score to authorize inaction; change the operating theory so the same observations no longer register as something to be overcome, and the license no longer holds.
 
 ## 一、 行动发生在当下的理论之下 / 1. Action Occurs Under the Current Theory
 
@@ -36,11 +36,11 @@ A score of the step already taken becomes a premise of the next: the heading is 
 
 [Curiosity First](../curiosity-first-the-hidden-engine-of-talent-and-development/) traces the same self-sealing in the case of talent: the gap is attributed to a fixed ranking of endowment, so the loop that would keep compounding is not reopened. Here the same role is played by a score of load, frozen as a property the step had in advance rather than held as an estimate under the present theory, and the loop that would carry on is likewise not reopened. [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) puts the lever back: conditions and felt load reshape the field of payoffs, but they do not become a second engine that authors the next act or its deferral; using the score as a license to defer is itself a discrete choice made by the one acting, in that moment.
 
-## 四、 差距量出的是“难”被用来推迟的次数 / 4. The Gap Measures How Often "Hard" Is Used to Defer
+## 四、 换掉理论消除的是许可，不是负荷 / 4. Changing the Theory Removes the License, Not the Load
 
-挡住想要的结果的，不是所需行动的固有属性，而是那个反复出现、被用来把这些行动变成可以推迟之事的解释。一个人想要的结果与实际得到的结果之间的距离，量出的是“难”这个评分被用来批准不行动的次数。换掉起作用的理论，让同样的观察不再被登记为需要克服的东西，这个许可便站不住了；负荷还在，那段距离也不会因此当场合拢，它是在随后的一个个行动里缩短的。
+只要所需行动依然可做，挡住采取这些行动的，不是行动本身的固有属性，而是那个反复出现、被用来把这些行动变成可以推迟之事的解释。一个人想要的结果与实际得到的结果之间的距离，还反映着尚未走过的负荷、起始位置以及起作用之理论中的错误；每用一次“难”这个评分来批准不行动，就会留下可走的一步未迈，使那段距离继续敞着。换掉起作用的理论，让同样的观察不再被登记为需要克服的东西，这个许可便站不住了；负荷还在，那段距离也不会因此当场合拢，它是在随后的一个个行动里缩短的。
 
-Desired outcomes are not blocked by intrinsic properties of the required actions. They are blocked by a recurring interpretation that is used to turn those actions into something to defer. The distance between the results a person wants and the results actually reached measures how often the "hard" score is used to authorize inaction. Change the operating theory, so that the same observations no longer register as something to be overcome, and the license no longer holds; the load remains, and the distance does not close on the spot, but shortens through the acts that follow.
+Where the required actions remain available, taking them is not blocked by intrinsic properties of the actions themselves, but by a recurring interpretation used to turn them into something to defer. The distance between the results a person wants and the results actually reached also reflects unwalked load, starting position, and errors in the operating theory; each use of the "hard" score to authorize inaction leaves an available step untaken and keeps that distance open. Change the operating theory, so that the same observations no longer register as something to be overcome, and the license no longer holds; the load remains, and the distance does not close on the spot, but shortens through the acts that follow.
 
 [起作用的是信念](../what-works-is-the-belief/)在另一个尺度上追溯了同一个机制：一道禁令在场域里什么也封不住，它稳定的是那些把封印当作根据的人所持的信念。这里被当作根据的，是“需要克服”这个前提。它同样封不住这一步：这一步始终可走，只是这个前提仍在一次次被重新描画，并不会一劳永逸地完成。正如[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，先前的地图——无论留存在习惯中还是外化在代码库里——都是早先区分留下的残余，有待在活边缘重新追溯；随着过剩滞后向当下这一步收窄，行动连同它的负荷，便登记为仍在修订之地图下的寻常延续，而非活边缘必须先行击败的永久外障。
 

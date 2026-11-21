@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-21T21:47:24.145Z",
+    "generated_at": "2026-11-21T22:09:28.100Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -39,7 +39,7 @@
       "content/posts/causality-and-the-irreducible-prior.md": "23039b57892e",
       "content/posts/causality-is-irreducible-the-physical-is-a-view-from-nowhere.md": "064fb7c61926",
       "content/posts/causality-stays-at-the-edge-that-steers.md": "aa3cabf727b3",
-      "content/posts/cheng-gong-xue.md": "ac78a83205fd",
+      "content/posts/cheng-gong-xue.md": "05f6794abfe4",
       "content/posts/choice-itself-has-no-inherent-weight.md": "195ba4c6affc",
       "content/posts/chollet-intelligence-explosion-analysis.md": "35675f123c70",
       "content/posts/clarity-isnt-a-state-you-arrive-at.md": "b2def21d59e6",
@@ -50,7 +50,7 @@
       "content/posts/closed-assumptions-squeeze-compounding-into-s-curves.md": "8379c3e264d9",
       "content/posts/closed-framing-and-the-reduction-of-optionality.md": "ec49869d75c7",
       "content/posts/closed-reality-in-benchmark-maxing.md": "d48f8bf1d450",
-      "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "fc0b4da31c80",
+      "content/posts/closed-reality-in-the-pursuit-of-serendipity.md": "96ee1ec0a944",
       "content/posts/complexity-obscures-emergence-as-the-act-of-mind.md": "cc404c54ab5b",
       "content/posts/compulsory-kindness-and-the-obscuration-of-categorical-feedback.md": "4123dcb54c8e",
       "content/posts/cong-mu-di-xing-de-ping-pan-kan-ren-zhi-que-sheng.md": "40dc83513705",
@@ -110,7 +110,7 @@
       "content/posts/guidance-is-not-ownership.md": "4bd9a73e2d08",
       "content/posts/handing-off-residue.md": "edecd6cd7fd4",
       "content/posts/happiness-is-the-relation-of-desire-to-state.md": "cb2d29e8cb0d",
-      "content/posts/hardness-is-not-inherent-in-the-action.md": "e941416bc90e",
+      "content/posts/hardness-is-not-inherent-in-the-action.md": "327b78ac3374",
       "content/posts/hardware-locality-is-not-the-information-boundary.md": "227726d75809",
       "content/posts/hassabis-einstein-test.md": "1981264d4571",
       "content/posts/hassabis-frontier-agi-premise.md": "541fc0653aa1",
@@ -315,7 +315,7 @@
       "content/posts/the-imagining-of-ai-risk.md": "94a3c0af210d",
       "content/posts/the-initial-distinction.md": "597771bb1303",
       "content/posts/the-insider-presumption-and-the-causal-inversion-of-reactive-containment.md": "ccd573397924",
-      "content/posts/the-interesting-case-of-rubin.md": "7e8d008c3655",
+      "content/posts/the-interesting-case-of-rubin.md": "cea2f09826d9",
       "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "5db081fa7c26",
       "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "3a5779fc0793",
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "2219f4f28045",
@@ -422,7 +422,7 @@
       "content/posts/the-walking-tangent-and-the-stumbling-sphere.md": "2e6b2a5bd8dc",
       "content/posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy.md": "e9b13d45153e",
       "content/posts/the_analogy_trap.md": "c3f0060b5f76",
-      "content/posts/the_illegible_compound_retraced.md": "2564d83e131c",
+      "content/posts/the_illegible_compound_retraced.md": "e88070b6705a",
       "content/posts/the_moving_ground.md": "ba570ac9a2ab",
       "content/posts/therapy-opens-the-feedback-loop.md": "fef94840ad77",
       "content/posts/time-is-causality-not-a-dimension.md": "666e7cab11af",
@@ -446,7 +446,7 @@
       "content/posts/when-electrons-think.md": "828aea06a9d0",
       "content/posts/when-malfunction-is-scored-as-intelligence.md": "dfa53464d480",
       "content/posts/when-need-stops-being-the-measure.md": "b7e4ec30d0fe",
-      "content/posts/when-observation-becomes-performance.md": "520d10c722be",
+      "content/posts/when-observation-becomes-performance.md": "dfaf6fac81d1",
       "content/posts/when-the-effect-authors-the-frame.md": "d629b4d0ed73",
       "content/posts/why-explanation-fails.md": "7983bb8f8771",
       "content/posts/why-mathematics-can-never-be-solved.md": "7555a99c651d",
@@ -1573,7 +1573,7 @@
       "slug": "cheng-gong-xue",
       "path": "content/posts/cheng-gong-xue.md",
       "title": "成功学 / Theories After Success",
-      "hash": "ac78a83205fd",
+      "hash": "05f6794abfe4",
       "in_degree": 23,
       "out_degree": 20,
       "links_out": [
@@ -1902,7 +1902,7 @@
       "slug": "closed-reality-in-the-pursuit-of-serendipity",
       "path": "content/posts/closed-reality-in-the-pursuit-of-serendipity.md",
       "title": "追求机缘中的封闭现实 / Closed Reality in the Pursuit of Serendipity",
-      "hash": "fc0b4da31c80",
+      "hash": "96ee1ec0a944",
       "in_degree": 14,
       "out_degree": 16,
       "links_out": [
@@ -3453,7 +3453,7 @@
       "slug": "hardness-is-not-inherent-in-the-action",
       "path": "content/posts/hardness-is-not-inherent-in-the-action.md",
       "title": "难度不在行动本身 / Hardness Is Not Inherent in the Action",
-      "hash": "e941416bc90e",
+      "hash": "327b78ac3374",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -6783,7 +6783,7 @@
       "slug": "the_illegible_compound_retraced",
       "path": "content/posts/the_illegible_compound_retraced.md",
       "title": "不可读的复利重溯 / The Illegible Compound Retraced",
-      "hash": "2564d83e131c",
+      "hash": "e88070b6705a",
       "in_degree": 4,
       "out_degree": 5,
       "links_out": [
@@ -9151,12 +9151,12 @@
       "slug": "the-interesting-case-of-rubin",
       "path": "content/posts/the-interesting-case-of-rubin.md",
       "title": "里克·鲁宾的奇特案例与不可瞄准的乐趣 / The Interesting Case of Rubin",
-      "hash": "7e8d008c3655",
+      "hash": "cea2f09826d9",
       "in_degree": 4,
       "out_degree": 4,
       "links_out": [
-        "extension-and-shift",
         "the-strategy-that-wasnt",
+        "extension-and-shift",
         "the-maintenance-paradox",
         "your-codebase-is-memory"
       ]
@@ -12556,7 +12556,7 @@
       "slug": "when-observation-becomes-performance",
       "path": "content/posts/when-observation-becomes-performance.md",
       "title": "当观察变成表演 / When Observation Becomes Performance",
-      "hash": "520d10c722be",
+      "hash": "dfaf6fac81d1",
       "in_degree": 19,
       "out_degree": 18,
       "links_out": [
@@ -22021,7 +22021,7 @@
       "from": "closed-reality-in-the-pursuit-of-serendipity",
       "to": "a-new-deeper-look-at-antifragility",
       "rel": "points_to",
-      "label": "A New Deeper Look at Antifragility: Prosthesis, Not Driver"
+      "label": "A New Deeper Look at Antifragility"
     },
     {
       "from": "closed-reality-in-the-pursuit-of-serendipity",
@@ -70829,21 +70829,9 @@
     },
     {
       "from": "the-interesting-case-of-rubin",
-      "to": "extension-and-shift",
-      "rel": "points_to",
-      "label": "框内延伸与维度跃迁"
-    },
-    {
-      "from": "the-interesting-case-of-rubin",
       "to": "the-strategy-that-wasnt",
       "rel": "points_to",
       "label": "从未作为战略的副业与被观察扼杀的自发性"
-    },
-    {
-      "from": "the-interesting-case-of-rubin",
-      "to": "extension-and-shift",
-      "rel": "points_to",
-      "label": "Extension and Shift"
     },
     {
       "from": "the-interesting-case-of-rubin",
@@ -70853,9 +70841,21 @@
     },
     {
       "from": "the-interesting-case-of-rubin",
+      "to": "extension-and-shift",
+      "rel": "points_to",
+      "label": "框内延伸与维度跃迁"
+    },
+    {
+      "from": "the-interesting-case-of-rubin",
       "to": "the-maintenance-paradox",
       "rel": "points_to",
       "label": "自我模型维护悖论"
+    },
+    {
+      "from": "the-interesting-case-of-rubin",
+      "to": "extension-and-shift",
+      "rel": "points_to",
+      "label": "Extension and Shift"
     },
     {
       "from": "the-interesting-case-of-rubin",
