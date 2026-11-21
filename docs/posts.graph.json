@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-20T22:25:21.435Z",
+    "generated_at": "2026-11-21T04:13:04.189Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -196,6 +196,7 @@
       "content/posts/reality-is-the-minds-ongoing-realization.md": "812768c94db5",
       "content/posts/rebellion-as-symptom-not-property.md": "ed414a5f0b75",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "c12a17f1cc71",
+      "content/posts/relative-differentials-and-the-compounding-of-comparison.md": "d84ae96d9d11",
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "a8f8212b9511",
       "content/posts/residual-control-recedes-to-the-edge.md": "3de7bf12eb33",
       "content/posts/residual-individualism.md": "ce5cf1738f1e",
@@ -464,7 +465,7 @@
       "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "5fd937c16807",
       "content/book/economics.md": "0252a0c728cf",
-      "content/book/index-of-premises.md": "c16ed30f43b8",
+      "content/book/index-of-premises.md": "b4d32eb9f954",
       "content/book/intelligence.md": "20d575920ac7",
       "content/book/knowledge-and-learning.md": "60b558ba8715",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -475,20 +476,20 @@
       "content/book/physics.md": "c9d233b55433",
       "content/book/preface.md": "09791dd76ace",
       "content/book/state-and-collective.md": "a1b57a68703f",
-      "content/book/success-and-the-self.md": "fcb69cfb1854",
+      "content/book/success-and-the-self.md": "26b0eeff3e03",
       "content/book/tools-and-progress.md": "7af75e4b8b67"
     },
     "stats": {
-      "posts": 453,
-      "edges": 13904,
-      "unique_directed": 6835,
+      "posts": 454,
+      "edges": 13930,
+      "unique_directed": 6848,
       "missing_targets": 0,
-      "one_way": 1475,
+      "one_way": 1488,
       "isolated": 0,
-      "posts_with_outbound": 453,
+      "posts_with_outbound": 454,
       "book_pages": 16,
-      "book_edges": 1477,
-      "posts_reached_by_book": 453
+      "book_edges": 1486,
+      "posts_reached_by_book": 454
     }
   },
   "hubs_in": [
@@ -526,7 +527,7 @@
     },
     {
       "slug": "ownership-and-self-worthiness",
-      "in_degree": 59
+      "in_degree": 60
     },
     {
       "slug": "causality-stays-at-the-edge-that-steers",
@@ -923,7 +924,7 @@
       "path": "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md",
       "title": "能动性、复利与 AI 封建之争 / Agency, Compounding, and the Argument Over AI Feudalism",
       "hash": "e855ba2097aa",
-      "in_degree": 15,
+      "in_degree": 16,
       "out_degree": 17,
       "links_out": [
         "beyond-the-projection",
@@ -1210,7 +1211,7 @@
       "path": "content/posts/Analysis_Adolescence_of_Technology.md",
       "title": "指数级进程与线性之眼 / The Exponential and the Linear Eye",
       "hash": "17ccf2b9ca9a",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 4,
       "links_out": [
         "the-artifacts-of-self-amplification",
@@ -3401,7 +3402,7 @@
       "path": "content/posts/happiness-is-the-relation-of-desire-to-state.md",
       "title": "幸福是欲望与状态的关系 / Happiness Is the Relation of Desire to State",
       "hash": "cb2d29e8cb0d",
-      "in_degree": 2,
+      "in_degree": 3,
       "out_degree": 10,
       "links_out": [
         "the-initial-distinction",
@@ -3554,7 +3555,7 @@
       "path": "content/posts/hierarchy-from-individual-difference.md",
       "title": "来自个体差异的层级 / Hierarchy from Individual Difference",
       "hash": "b2d76939f515",
-      "in_degree": 32,
+      "in_degree": 33,
       "out_degree": 30,
       "links_out": [
         "the-generative-contradiction",
@@ -3837,7 +3838,7 @@
       "path": "content/posts/inheritance-as-residue-and-the-need-for-extraction.md",
       "title": "继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction",
       "hash": "0c7ba216c8ac",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 15,
       "links_out": [
         "your-codebase-is-memory",
@@ -5091,7 +5092,7 @@
       "path": "content/posts/ones-potential-as-threat-or-inspiration.md",
       "title": "潜能作为威胁或启发 / One’s Potential as Threat or Inspiration",
       "hash": "b68e2cc6fd51",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 7,
       "links_out": [
         "the-arithmetic-of-the-register",
@@ -5336,7 +5337,7 @@
       "path": "content/posts/ownership-and-self-worthiness.md",
       "title": "自我价值感与所有权 / Ownership and Self-Worthiness",
       "hash": "7f7c75e93785",
-      "in_degree": 59,
+      "in_degree": 60,
       "out_degree": 57,
       "links_out": [
         "the-meaning-of-life-is-in-the-drafting",
@@ -6002,6 +6003,31 @@
         "moral-language-dilutes-the-feedback-that-scales-freedom",
         "the-source-of-all-harm",
         "sovereignty-belief-and-regulatory-structures"
+      ]
+    },
+    {
+      "id": "post:relative-differentials-and-the-compounding-of-comparison",
+      "kind": "post",
+      "slug": "relative-differentials-and-the-compounding-of-comparison",
+      "path": "content/posts/relative-differentials-and-the-compounding-of-comparison.md",
+      "title": "相对差异与复利比较 / Relative Differentials and the Compounding of Comparison",
+      "hash": "d84ae96d9d11",
+      "in_degree": 0,
+      "out_degree": 13,
+      "links_out": [
+        "agency-compounding-and-the-argument-over-ai-feudalism",
+        "the_illegible_compound_retraced",
+        "Analysis_Adolescence_of_Technology",
+        "hierarchy-from-individual-difference",
+        "the-frame-that-conceals-improvement",
+        "ones-potential-as-threat-or-inspiration",
+        "happiness-is-the-relation-of-desire-to-state",
+        "the-maintenance-paradox",
+        "the-judgment-that-classifies-the-complaint",
+        "the-arithmetic-of-the-register",
+        "inheritance-as-residue-and-the-need-for-extraction",
+        "the-frontier-lifts-the-floor",
+        "ownership-and-self-worthiness"
       ]
     },
     {
@@ -6721,7 +6747,7 @@
       "path": "content/posts/the_illegible_compound_retraced.md",
       "title": "不可读的复利重溯 / The Illegible Compound Retraced",
       "hash": "2564d83e131c",
-      "in_degree": 3,
+      "in_degree": 4,
       "out_degree": 5,
       "links_out": [
         "your-codebase-is-memory",
@@ -6840,7 +6866,7 @@
       "path": "content/posts/the-arithmetic-of-the-register.md",
       "title": "寄存器的算术 / The Arithmetic of the Register",
       "hash": "1b6cd7839dcc",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 17,
       "links_out": [
         "your-codebase-is-memory",
@@ -8331,7 +8357,7 @@
       "path": "content/posts/the-frame-that-conceals-improvement.md",
       "title": "遮蔽进步的框架 / The Frame That Conceals Improvement",
       "hash": "e4fefad91788",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 8,
       "links_out": [
         "the-distaste-for-ai-slop-is-no-different-from-the-recurring-historical-pattern",
@@ -8423,7 +8449,7 @@
       "path": "content/posts/the-frontier-lifts-the-floor.md",
       "title": "前沿抬升底线 / The Frontier Lifts the Floor",
       "hash": "440910956459",
-      "in_degree": 6,
+      "in_degree": 7,
       "out_degree": 14,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
@@ -9297,7 +9323,7 @@
       "path": "content/posts/the-judgment-that-classifies-the-complaint.md",
       "title": "投诉的判定与即时回路的撤离 / The Judgment That Classifies the Complaint and the Withdrawal from the Immediate Loop",
       "hash": "53487c26c31e",
-      "in_degree": 0,
+      "in_degree": 1,
       "out_degree": 11,
       "links_out": [
         "what-information-is",
@@ -9540,7 +9566,7 @@
       "path": "content/posts/the-maintenance-paradox.md",
       "title": "自我模型维护悖论 / The Maintenance Paradox",
       "hash": "1d92c151aa07",
-      "in_degree": 4,
+      "in_degree": 5,
       "out_degree": 8,
       "links_out": [
         "self-image-speaks-as-if-from-nowhere",
@@ -50442,6 +50468,162 @@
       "to": "sovereignty-belief-and-regulatory-structures",
       "rel": "points_to",
       "label": "Sovereignty, Belief, and the Generation of Regulatory Structures"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "rel": "points_to",
+      "label": "能动性、复利与 AI 封建之争"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "the_illegible_compound_retraced",
+      "rel": "points_to",
+      "label": "不可读的复利重溯"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "rel": "points_to",
+      "label": "Agency, Compounding, and the Argument Over AI Feudalism"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "the_illegible_compound_retraced",
+      "rel": "points_to",
+      "label": "The Illegible Compound Retraced"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "Analysis_Adolescence_of_Technology",
+      "rel": "points_to",
+      "label": "指数级进程与线性之眼"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "Analysis_Adolescence_of_Technology",
+      "rel": "points_to",
+      "label": "The Exponential and the Linear Eye"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "来自个体差异的层级"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "the-frame-that-conceals-improvement",
+      "rel": "points_to",
+      "label": "遮蔽进步的框架"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "hierarchy-from-individual-difference",
+      "rel": "points_to",
+      "label": "Hierarchy from Individual Difference"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "the-frame-that-conceals-improvement",
+      "rel": "points_to",
+      "label": "The Frame That Conceals Improvement"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "ones-potential-as-threat-or-inspiration",
+      "rel": "points_to",
+      "label": "潜能作为威胁或启发"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "ones-potential-as-threat-or-inspiration",
+      "rel": "points_to",
+      "label": "One’s Potential as Threat or Inspiration"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "happiness-is-the-relation-of-desire-to-state",
+      "rel": "points_to",
+      "label": "幸福是欲望与状态的关系"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "happiness-is-the-relation-of-desire-to-state",
+      "rel": "points_to",
+      "label": "Happiness Is the Relation of Desire to State"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "the-maintenance-paradox",
+      "rel": "points_to",
+      "label": "自我模型维护悖论"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "the-maintenance-paradox",
+      "rel": "points_to",
+      "label": "The Maintenance Paradox"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "the-judgment-that-classifies-the-complaint",
+      "rel": "points_to",
+      "label": "投诉的判定与即时回路的撤离"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "the-arithmetic-of-the-register",
+      "rel": "points_to",
+      "label": "寄存器的算术"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "the-judgment-that-classifies-the-complaint",
+      "rel": "points_to",
+      "label": "The Judgment That Classifies the Complaint and the Withdrawal from the Immediate Loop"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "the-arithmetic-of-the-register",
+      "rel": "points_to",
+      "label": "The Arithmetic of the Register"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "inheritance-as-residue-and-the-need-for-extraction",
+      "rel": "points_to",
+      "label": "继承的残余与索取的必要"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "inheritance-as-residue-and-the-need-for-extraction",
+      "rel": "points_to",
+      "label": "Inheritance as Residue and the Need for Extraction"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "the-frontier-lifts-the-floor",
+      "rel": "points_to",
+      "label": "前沿抬升底线"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "the-frontier-lifts-the-floor",
+      "rel": "points_to",
+      "label": "The Frontier Lifts the Floor"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "自我价值感与所有权"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "ownership-and-self-worthiness",
+      "rel": "points_to",
+      "label": "Ownership and Self-Worthiness"
     },
     {
       "from": "ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng",
@@ -96391,8 +96573,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "c16ed30f43b8",
-        "out_degree": 453
+        "hash": "b4d32eb9f954",
+        "out_degree": 454
       },
       {
         "id": "book:intelligence",
@@ -96490,8 +96672,8 @@
         "slug": "success-and-the-self",
         "path": "content/book/success-and-the-self.md",
         "title": "成功学公式与自我重塑 / The Formula of Success and Self-Reconstruction",
-        "hash": "fcb69cfb1854",
-        "out_degree": 35
+        "hash": "26b0eeff3e03",
+        "out_degree": 36
       },
       {
         "id": "book:tools-and-progress",
@@ -99404,6 +99586,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "relative-differentials-and-the-compounding-of-comparison",
+        "rel": "collects",
+        "label": "相对差异与复利比较 / Relative Differentials and the Compounding of Comparison"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-sequence-of-expansion-and-the-boundary-of-local-accounts",
         "rel": "collects",
         "label": "扩张的序列与局部解释的边界 / The Sequence of Expansion and the Boundary of Local Accounts"
@@ -99428,6 +99616,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "relative-differentials-and-the-compounding-of-comparison",
+        "rel": "collects",
+        "label": "相对差异与复利比较 / Relative Differentials and the Compounding of Comparison"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "observation-lag-and-the-inversion-of-optionality",
         "rel": "collects",
         "label": "观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality"
@@ -99449,6 +99643,24 @@
         "to": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
         "rel": "collects",
         "label": "排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "relative-differentials-and-the-compounding-of-comparison",
+        "rel": "collects",
+        "label": "相对差异与复利比较 / Relative Differentials and the Compounding of Comparison"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "relative-differentials-and-the-compounding-of-comparison",
+        "rel": "collects",
+        "label": "相对差异与复利比较 / Relative Differentials and the Compounding of Comparison"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "relative-differentials-and-the-compounding-of-comparison",
+        "rel": "collects",
+        "label": "相对差异与复利比较 / Relative Differentials and the Compounding of Comparison"
       },
       {
         "from": "book:index-of-premises",
@@ -102692,6 +102904,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "relative-differentials-and-the-compounding-of-comparison",
+        "rel": "collects",
+        "label": "相对差异与复利比较 / Relative Differentials and the Compounding of Comparison"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-boundary-of-perception-and-the-infinity-of-understanding",
         "rel": "collects",
         "label": "感知的界限与理解的无限 / The Boundary of Perception and the Infinity of Understanding"
@@ -102845,6 +103063,12 @@
         "to": "the-orthogonal-refusal",
         "rel": "collects",
         "label": "正交的拒绝 / The Orthogonal Refusal"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "relative-differentials-and-the-compounding-of-comparison",
+        "rel": "collects",
+        "label": "相对差异与复利比较 / Relative Differentials and the Compounding of Comparison"
       },
       {
         "from": "book:index-of-premises",
@@ -103241,6 +103465,12 @@
         "to": "happiness-is-the-relation-of-desire-to-state",
         "rel": "collects",
         "label": "幸福是欲望与状态的关系 / Happiness Is the Relation of Desire to State"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "relative-differentials-and-the-compounding-of-comparison",
+        "rel": "collects",
+        "label": "相对差异与复利比较 / Relative Differentials and the Compounding of Comparison"
       },
       {
         "from": "book:index-of-premises",
@@ -105089,6 +105319,12 @@
         "to": "closed-framing-and-the-reduction-of-optionality",
         "rel": "collects",
         "label": "封闭框定与选择权的缩减 / Closed Framing and the Reduction of Optionality"
+      },
+      {
+        "from": "book:success-and-the-self",
+        "to": "relative-differentials-and-the-compounding-of-comparison",
+        "rel": "collects",
+        "label": "相对差异与复利比较 / Relative Differentials and the Compounding of Comparison"
       },
       {
         "from": "book:tools-and-progress",
