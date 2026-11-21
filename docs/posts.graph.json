@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-21T04:13:04.189Z",
+    "generated_at": "2026-11-21T04:43:03.626Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -196,7 +196,7 @@
       "content/posts/reality-is-the-minds-ongoing-realization.md": "812768c94db5",
       "content/posts/rebellion-as-symptom-not-property.md": "ed414a5f0b75",
       "content/posts/recursive-contradiction-of-entrusted-morality.md": "c12a17f1cc71",
-      "content/posts/relative-differentials-and-the-compounding-of-comparison.md": "d84ae96d9d11",
+      "content/posts/relative-differentials-and-the-compounding-of-comparison.md": "f8158105eaa9",
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "a8f8212b9511",
       "content/posts/residual-control-recedes-to-the-edge.md": "3de7bf12eb33",
       "content/posts/residual-individualism.md": "ce5cf1738f1e",
@@ -465,7 +465,7 @@
       "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "5fd937c16807",
       "content/book/economics.md": "0252a0c728cf",
-      "content/book/index-of-premises.md": "b4d32eb9f954",
+      "content/book/index-of-premises.md": "fe6d524909ba",
       "content/book/intelligence.md": "20d575920ac7",
       "content/book/knowledge-and-learning.md": "60b558ba8715",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -476,15 +476,15 @@
       "content/book/physics.md": "c9d233b55433",
       "content/book/preface.md": "09791dd76ace",
       "content/book/state-and-collective.md": "a1b57a68703f",
-      "content/book/success-and-the-self.md": "26b0eeff3e03",
+      "content/book/success-and-the-self.md": "dee4b8680f14",
       "content/book/tools-and-progress.md": "7af75e4b8b67"
     },
     "stats": {
       "posts": 454,
-      "edges": 13930,
-      "unique_directed": 6848,
+      "edges": 13932,
+      "unique_directed": 6849,
       "missing_targets": 0,
-      "one_way": 1488,
+      "one_way": 1489,
       "isolated": 0,
       "posts_with_outbound": 454,
       "book_pages": 16,
@@ -3498,7 +3498,7 @@
       "path": "content/posts/having-more-is-never-the-cause.md",
       "title": "拥有更多从不是原因 / Having More Is Never the Cause",
       "hash": "fff7b1e393f6",
-      "in_degree": 27,
+      "in_degree": 28,
       "out_degree": 22,
       "links_out": [
         "not-predicting-is-predicting-without-awareness",
@@ -6010,12 +6010,13 @@
       "kind": "post",
       "slug": "relative-differentials-and-the-compounding-of-comparison",
       "path": "content/posts/relative-differentials-and-the-compounding-of-comparison.md",
-      "title": "相对差异与复利比较 / Relative Differentials and the Compounding of Comparison",
-      "hash": "d84ae96d9d11",
+      "title": "相对差异与复利比较 / Relative Differentials and the Comparison of Compounding",
+      "hash": "f8158105eaa9",
       "in_degree": 0,
-      "out_degree": 13,
+      "out_degree": 14,
       "links_out": [
         "agency-compounding-and-the-argument-over-ai-feudalism",
+        "having-more-is-never-the-cause",
         "the_illegible_compound_retraced",
         "Analysis_Adolescence_of_Technology",
         "hierarchy-from-individual-difference",
@@ -50477,6 +50478,12 @@
     },
     {
       "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "拥有更多从不是原因"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
       "to": "the_illegible_compound_retraced",
       "rel": "points_to",
       "label": "不可读的复利重溯"
@@ -50486,6 +50493,12 @@
       "to": "agency-compounding-and-the-argument-over-ai-feudalism",
       "rel": "points_to",
       "label": "Agency, Compounding, and the Argument Over AI Feudalism"
+    },
+    {
+      "from": "relative-differentials-and-the-compounding-of-comparison",
+      "to": "having-more-is-never-the-cause",
+      "rel": "points_to",
+      "label": "Having More Is Never the Cause"
     },
     {
       "from": "relative-differentials-and-the-compounding-of-comparison",
@@ -96573,7 +96586,7 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "b4d32eb9f954",
+        "hash": "fe6d524909ba",
         "out_degree": 454
       },
       {
@@ -96672,7 +96685,7 @@
         "slug": "success-and-the-self",
         "path": "content/book/success-and-the-self.md",
         "title": "成功学公式与自我重塑 / The Formula of Success and Self-Reconstruction",
-        "hash": "26b0eeff3e03",
+        "hash": "dee4b8680f14",
         "out_degree": 36
       },
       {
@@ -99588,7 +99601,7 @@
         "from": "book:index-of-premises",
         "to": "relative-differentials-and-the-compounding-of-comparison",
         "rel": "collects",
-        "label": "相对差异与复利比较 / Relative Differentials and the Compounding of Comparison"
+        "label": "相对差异与复利比较 / Relative Differentials and the Comparison of Compounding"
       },
       {
         "from": "book:index-of-premises",
@@ -99618,7 +99631,7 @@
         "from": "book:index-of-premises",
         "to": "relative-differentials-and-the-compounding-of-comparison",
         "rel": "collects",
-        "label": "相对差异与复利比较 / Relative Differentials and the Compounding of Comparison"
+        "label": "相对差异与复利比较 / Relative Differentials and the Comparison of Compounding"
       },
       {
         "from": "book:index-of-premises",
@@ -99648,19 +99661,19 @@
         "from": "book:index-of-premises",
         "to": "relative-differentials-and-the-compounding-of-comparison",
         "rel": "collects",
-        "label": "相对差异与复利比较 / Relative Differentials and the Compounding of Comparison"
+        "label": "相对差异与复利比较 / Relative Differentials and the Comparison of Compounding"
       },
       {
         "from": "book:index-of-premises",
         "to": "relative-differentials-and-the-compounding-of-comparison",
         "rel": "collects",
-        "label": "相对差异与复利比较 / Relative Differentials and the Compounding of Comparison"
+        "label": "相对差异与复利比较 / Relative Differentials and the Comparison of Compounding"
       },
       {
         "from": "book:index-of-premises",
         "to": "relative-differentials-and-the-compounding-of-comparison",
         "rel": "collects",
-        "label": "相对差异与复利比较 / Relative Differentials and the Compounding of Comparison"
+        "label": "相对差异与复利比较 / Relative Differentials and the Comparison of Compounding"
       },
       {
         "from": "book:index-of-premises",
@@ -102906,7 +102919,7 @@
         "from": "book:index-of-premises",
         "to": "relative-differentials-and-the-compounding-of-comparison",
         "rel": "collects",
-        "label": "相对差异与复利比较 / Relative Differentials and the Compounding of Comparison"
+        "label": "相对差异与复利比较 / Relative Differentials and the Comparison of Compounding"
       },
       {
         "from": "book:index-of-premises",
@@ -103068,7 +103081,7 @@
         "from": "book:index-of-premises",
         "to": "relative-differentials-and-the-compounding-of-comparison",
         "rel": "collects",
-        "label": "相对差异与复利比较 / Relative Differentials and the Compounding of Comparison"
+        "label": "相对差异与复利比较 / Relative Differentials and the Comparison of Compounding"
       },
       {
         "from": "book:index-of-premises",
@@ -103470,7 +103483,7 @@
         "from": "book:index-of-premises",
         "to": "relative-differentials-and-the-compounding-of-comparison",
         "rel": "collects",
-        "label": "相对差异与复利比较 / Relative Differentials and the Compounding of Comparison"
+        "label": "相对差异与复利比较 / Relative Differentials and the Comparison of Compounding"
       },
       {
         "from": "book:index-of-premises",
@@ -105324,7 +105337,7 @@
         "from": "book:success-and-the-self",
         "to": "relative-differentials-and-the-compounding-of-comparison",
         "rel": "collects",
-        "label": "相对差异与复利比较 / Relative Differentials and the Compounding of Comparison"
+        "label": "相对差异与复利比较 / Relative Differentials and the Comparison of Compounding"
       },
       {
         "from": "book:tools-and-progress",

@@ -1835,7 +1835,7 @@ Formulations from Léon Bourgeois's *dette sociale* to John Rawls's common-asset
 
 Gordon Tullock and Anne Krueger's rent-seeking theory presumes that making existing wealth, licenses, or market entry politically contestable diverts productive effort and capital into capture and defense so the contested stock itself is dissipated rather than frictionlessly transferred, which is of use in accounting for the resource losses of quotas, tariffs, and mandatory equity handovers beyond administrative overhead; it reaches its boundary when aggregate output is treated as an external social objective to be optimized from above rather than the downstream residue of individual centers choosing whether to read relative measures under an open or fixed bound.
 
-→ [继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction](../../posts/inheritance-as-residue-and-the-need-for-extraction/) · [相对差异与复利比较 / Relative Differentials and the Compounding of Comparison](../../posts/relative-differentials-and-the-compounding-of-comparison/)
+→ [继承的残余与索取的必要 / Inheritance as Residue and the Need for Extraction](../../posts/inheritance-as-residue-and-the-need-for-extraction/) · [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/)
 
 ### 边疆假说 / Frontier Thesis
 `经济 / Economic`
@@ -1862,7 +1862,7 @@ Formulated by Jaegwon Kim in the philosophy of mind and explanation, causal excl
 
 Albert O. Hirschman's *Exit, Voice, and Loyalty* maps how credible exit options quietly back internal voice and discipline counterparties before decline ruptures into view, which is of use in diagnosing feedback channels and captive-versus-mobile asymmetries inside firms and states; it reaches its boundary in its premise of institutional recuperation, since live optionality at the acting Mind serves to keep adjustment faster than observation lag rather than to rehabilitate a failing vessel.
 
-→ [观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality](../../posts/observation-lag-and-the-inversion-of-optionality/) · [排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations](../../posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations/) · [相对差异与复利比较 / Relative Differentials and the Compounding of Comparison](../../posts/relative-differentials-and-the-compounding-of-comparison/)
+→ [观察滞后与选择权的倒置 / Observation Lag and the Inversion of Optionality](../../posts/observation-lag-and-the-inversion-of-optionality/) · [排序的残余与解释的非等效 / The Residue of Sorting and the Non-Equivalence of Interpretations](../../posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations/) · [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/)
 
 ### OODA 循环 / OODA Loop
 `技术 / Technological`
@@ -1907,7 +1907,7 @@ Robert E. Lucas Jr.'s 1976 critique shows that reduced-form macroeconomic parame
 
 Richard Easterlin's paradox (alongside James Duesenberry's relative income hypothesis and Alexis de Tocqueville's observation on rising expectations during amelioration) notes that rising long-run absolute material output coincides with flat or falling subjective satisfaction once peer reference points move alongside income, which is of use in documenting why cross-sectional income differences track reported well-being more closely than multi-decade aggregate growth; the premise reaches its boundary in treating peer comparison and rising reference points as passive, exogenous parameters of a fixed utility function rather than an active comparative hold whose sustained low contentment is required to keep relative-grievance leverage coherent.
 
-→ [相对差异与复利比较 / Relative Differentials and the Compounding of Comparison](../../posts/relative-differentials-and-the-compounding-of-comparison/)
+→ [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/)
 
 ### 相对剥夺理论 / Relative Deprivation Theory
 `科学 / Scientific`
@@ -1916,7 +1916,7 @@ Richard Easterlin's paradox (alongside James Duesenberry's relative income hypot
 
 Formulated across Samuel Stouffer, W. G. Runciman, and Ted Gurr, relative deprivation theory models subjective dissatisfaction and social protest as the perceived discrepancy between expectations anchored to visible peers and realized attainment, which is of use in registering why accelerated advancement inside a peer group can heighten rather than ease local discontent; the premise reaches its boundary in treating perceived discrepancy as an automatic affective overflow from passive comparison rather than tracing how a short observation window converts differing compounding rates into static shortfalls and how maintaining dissatisfaction operates as an internally coherent condition for extracting relative concessions.
 
-→ [相对差异与复利比较 / Relative Differentials and the Compounding of Comparison](../../posts/relative-differentials-and-the-compounding-of-comparison/)
+→ [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/)
 
 ### 指数增长偏差 / Exponential Growth Bias
 `科学 / Scientific`
@@ -1925,7 +1925,7 @@ Formulated across Samuel Stouffer, W. G. Runciman, and Ted Gurr, relative depriv
 
 Documented by Willem Wagenaar and Sabato Sagaria, Victor Stango and Jonathan Zinman, and Matthew Levy and Joshua Tasoff, exponential growth bias models the tendency to extrapolate compounding sequences linearly over short horizons, which is of use in accounting for systematic under-estimation in household borrowing, saving, and lifecycle accumulation; the premise reaches its boundary when framed strictly as an isolated intrapersonal calculation error rather than the short-window perception that hides multi-step personal compounding and converts another individual's faster or longer compounding trajectory into an unexplained static surplus.
 
-→ [相对差异与复利比较 / Relative Differentials and the Compounding of Comparison](../../posts/relative-differentials-and-the-compounding-of-comparison/)
+→ [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/)
 
 ## 概念 / Concepts
 
@@ -5050,7 +5050,7 @@ Assuming that refining tools and workflows directly increases output is of use i
 
 The self-image is taken for oneself, and so it is guarded, curated as a preferred portrait, or armoured, or one tries to extinguish it; as a passing reference point for computing orientation and error at the current step the self-image stays indispensable, and the premise reaches its boundary where any of these postures takes the low-dimensional probe for the generative Mind itself, turning disconfirming contact into a threat that must be filtered out to maintain the model.
 
-→ [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/) · [自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere](../../posts/self-image-speaks-as-if-from-nowhere/) · [自我模型维护悖论 / The Maintenance Paradox](../../posts/the-maintenance-paradox/) · [相对差异与复利比较 / Relative Differentials and the Compounding of Comparison](../../posts/relative-differentials-and-the-compounding-of-comparison/)
+→ [心智的几何学 / The Geometry of Mind](../../posts/the-geometry-of-mind/) · [自我形象仿佛从无处发声 / Self-Image Speaks as if from Nowhere](../../posts/self-image-speaks-as-if-from-nowhere/) · [自我模型维护悖论 / The Maintenance Paradox](../../posts/the-maintenance-paradox/) · [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/)
 
 ### 量子不确定性与隐变量 / Quantum Indeterminacy and Hidden Variables
 `科学 / Scientific`
@@ -5203,7 +5203,7 @@ A zero-knowledge proof establishes a statement's truth without revealing its wit
 
 The closed-reality premise treats resources, status and possibility as a fixed pool, which is of use in dividing a stock that really is finite; it reaches its boundary in that net value is generated only under the open premise, zero-sum mechanisms are themselves negative-sum, and they endure on the surplus the same people produce in their open moments.
 
-→ [潜能作为威胁或启发 / One’s Potential as Threat or Inspiration](../../posts/ones-potential-as-threat-or-inspiration/) · [道德语言作为投影 / Moral Language as Projection](../../posts/moral-language-as-projection/) · [寄存器的算术 / The Arithmetic of the Register](../../posts/the-arithmetic-of-the-register/) · [战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires](../../posts/war-revolution-and-the-fall-of-empires/) · [正交的拒绝 / The Orthogonal Refusal](../../posts/the-orthogonal-refusal/) · [相对差异与复利比较 / Relative Differentials and the Compounding of Comparison](../../posts/relative-differentials-and-the-compounding-of-comparison/)
+→ [潜能作为威胁或启发 / One’s Potential as Threat or Inspiration](../../posts/ones-potential-as-threat-or-inspiration/) · [道德语言作为投影 / Moral Language as Projection](../../posts/moral-language-as-projection/) · [寄存器的算术 / The Arithmetic of the Register](../../posts/the-arithmetic-of-the-register/) · [战争、革命与帝国的衰落 / War, Revolution, and the Fall of Empires](../../posts/war-revolution-and-the-fall-of-empires/) · [正交的拒绝 / The Orthogonal Refusal](../../posts/the-orthogonal-refusal/) · [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/)
 
 ### 梵我一如（奥义书） / Ātman–Brahman Identity (Upanishads)
 `宗教 / Religious`
@@ -5437,7 +5437,7 @@ Electoral voting presumes that casting a periodic ballot is the primary exercise
 
 Hedonic adaptation and set-point theory presume that subjective well-being is governed by a baseline set point that external life events (income, marriage, unemployment, disability) temporarily or permanently shift, which is of use in documenting across longitudinal panels that post-event adjustment is neither automatic nor uniform; the premise reaches its boundary when durable shifts in measured satisfaction are read as external conditions generating the feeling directly while the desire term of the relation (whether the Mind takes up the altered state so desire adjusts, or desire remains fixed on the prior state) is left unmodeled.
 
-→ [幸福是欲望与状态的关系 / Happiness Is the Relation of Desire to State](../../posts/happiness-is-the-relation-of-desire-to-state/) · [相对差异与复利比较 / Relative Differentials and the Compounding of Comparison](../../posts/relative-differentials-and-the-compounding-of-comparison/)
+→ [幸福是欲望与状态的关系 / Happiness Is the Relation of Desire to State](../../posts/happiness-is-the-relation-of-desire-to-state/) · [相对差异与复利比较 / Relative Differentials and the Comparison of Compounding](../../posts/relative-differentials-and-the-compounding-of-comparison/)
 
 ### 注意力机制 / Attention Mechanism
 `技术 / Technological`
