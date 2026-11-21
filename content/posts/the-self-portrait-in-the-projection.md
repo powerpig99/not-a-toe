@@ -70,9 +70,9 @@ flowchart TD
 
 ## 二、 审美特权与客观化的自欺 / 2. Aesthetic Privilege and the Self-Deception of Objectivity
 
-这种诊断的结构性倒置，在于它在指责他人将主观欲望混同于客观现实的同时，自身却将特定的形式偏好奉为客观标准。审美鉴赏是一种高维的、个性化的能力；只要观察者投以足够深度的审视，便能在任何现象与任何情境中辨识出美，然而没有任何两颗心智拥有相同的审美流形或经验权重。强行在不同的感知取向之间排出“高低优劣”的标量等级，正是将丰富的流形压缩进粗糙的共享低维子空间。这在审美领域呈现出邓宁-克鲁格效应：受困于低维认知模型的观察者，由于在结构上无从感知其他鲜活心智所体会到的细腻维度，便将自身贫瘠的坐标误认作客观法庭，用低维标尺去给高维的审美共鸣打分。将对骨骼轮廓、颧骨几何角度或肌肉对称性的品评当作审美鉴赏力的唯一标志，同时把对长发流动感或身体生命力的响应贬低为粗糙的局限，正是这种低维裁决的典型特征。试图将形式结构的鉴赏从具身的生命力中剥离出来，并宣称它是唯一有效的尺度，并未超越主观经验，而只是反映了另一套受文化规训的偏好。把个人品味实体化为美学的最高法庭，站在抽离的阳台上对他人下达“品味低劣”、认知受损或道德盲区的第三人称判决——即[审美的自动扶梯与阳台的忧郁](../the-aesthetic-escalator-and-the-melancholy-of-the-balcony/)所拆解的同一五轴压缩——画出的只是发言者自身受护卫的坐标系的自画像。
+这种诊断的结构性倒置，在于它在指责他人将主观欲望混同于客观现实的同时，自身却将特定的形式偏好奉为客观标准。审美鉴赏是一种高维的、个性化的能力；只要观察者投以足够深度的审视，便能在任何现象与任何情境中辨识出美，然而没有任何两颗心智拥有相同的审美流形或经验权重。强行在不同的感知取向之间排出“高低优劣”的标量等级，正是将丰富的流形压缩进粗糙的共享低维子空间。由于没有任何心智能够直接跨入他人的感知流形，观察者一旦将某一坐标子集冻结为客观法庭，便会预先排除任何陌生的共鸣，透过这一压缩后的投射去给相异的感知取向打分。将对骨骼轮廓、颧骨几何角度或肌肉对称性的品评当作审美鉴赏力的唯一标志，同时把对长发流动感或身体生命力的响应贬低为粗糙的局限，正是这种低维裁决的典型特征。试图将形式结构的鉴赏从具身的生命力中剥离出来，并宣称它是唯一有效的尺度，并未超越主观经验，而只是反映了另一套受文化规训的偏好。把个人品味实体化为美学的最高法庭，站在抽离的阳台上对他人下达“品味低劣”、认知受损或道德盲区的第三人称判决——即[审美的自动扶梯与阳台的忧郁](../the-aesthetic-escalator-and-the-melancholy-of-the-balcony/)所拆解的同一五轴压缩——画出的只是发言者自身受护卫的坐标系的自画像。
 
-The structural inversion of this diagnosis lies in accusing others of mistaking subjective desire for objective reality, while simultaneously enshrining one's own formal preferences as an objective standard. Aesthetic appreciation is a high-dimensional, individualized capacity; when an observer looks with sufficient depth, beauty can be discerned in any phenomenon and any situation, yet no two minds possess identical aesthetic manifolds or experiential weightings. Forcing a scalar hierarchy of 'superior' and 'inferior' upon divergent sensibilities compresses a rich manifold onto a crude, shared low-dimensional subspace. This manifests the Dunning-Kruger effect in the aesthetic domain: an observer confined to a low-dimensional cognitive model, structurally blind to the nuanced dimensions perceived by other living minds, mistakes their own impoverished coordinates for an objective tribunal, using low-dimensional metrics to grade high-dimensional aesthetic resonance. Treating the appraisal of bone contours, cheekbone geometry, or muscular symmetry as the sole mark of aesthetic discernment, while dismissing responsiveness to flowing hair or physical vitality as a crude limitation, is the textbook signature of this low-dimensional adjudication. Attempting to detach formal structural appreciation from embodied vitality and declaring it the sole valid measure does not transcend subjective experience; it reflects another set of culturally conditioned preferences. Reifying personal taste into a supreme court of aesthetics and issuing third-person verdicts of "bad taste," cognitive impairment, or moral blindness from a detached balcony—the same five-axis compression dissected in [The Aesthetic Escalator and the Melancholy of the Balcony](../the-aesthetic-escalator-and-the-melancholy-of-the-balcony/)—draws only a self-portrait of the speaker's own guarded coordinate system.
+The structural inversion of this diagnosis lies in accusing others of mistaking subjective desire for objective reality, while simultaneously enshrining one's own formal preferences as an objective standard. Aesthetic appreciation is a high-dimensional, individualized capacity; when an observer looks with sufficient depth, beauty can be discerned in any phenomenon and any situation, yet no two minds possess identical aesthetic manifolds or experiential weightings. Forcing a scalar hierarchy of 'superior' and 'inferior' upon divergent sensibilities compresses a rich manifold onto a crude, shared low-dimensional subspace. Because no mind can step directly into another's perceptual manifold, an observer who freezes one subset of coordinates as an objective tribunal excludes any unfamiliar resonance in advance, grading divergent sensibilities through that compressed projection. Treating the appraisal of bone contours, cheekbone geometry, or muscular symmetry as the sole mark of aesthetic discernment, while dismissing responsiveness to flowing hair or physical vitality as a crude limitation, is the textbook signature of this low-dimensional adjudication. Attempting to detach formal structural appreciation from embodied vitality and declaring it the sole valid measure does not transcend subjective experience; it reflects another set of culturally conditioned preferences. Reifying personal taste into a supreme court of aesthetics and issuing third-person verdicts of "bad taste," cognitive impairment, or moral blindness from a detached balcony—the same five-axis compression dissected in [The Aesthetic Escalator and the Melancholy of the Balcony](../the-aesthetic-escalator-and-the-melancholy-of-the-balcony/)—draws only a self-portrait of the speaker's own guarded coordinate system.
 
 若以这一断言自身的前提加以检验，它便会在自身的因果推论下坍塌。既然该诊断将审美判断等同于性欲，那么按照其自身的定义，任何偏离这一狭隘标准的女性表型都无法唤起性欲，进而无法繁衍后代。倘若这种单变量冲动果真构成了欲望的唯一引擎，那么在数十万年的自然选择中，任何偏离这一任意模板的血脉都早已被淘汰，今日的人类也早已沦为单一表型的同质种群。各大洲鲜活人类所展现出的蓬勃形态多样性，以及无数各异祖先血脉的绵延存续，在活生生的演化痕迹中表明：人类的审美共鸣与情欲亲和并非由铁板一块的二元开关所支配，而是植根于不可化约的个体主权之上的高维多中心流形。将局部、人工制造的社交媒体漫画式刻板印象倒推为整个群体的先天演化常数，不仅误读了鲜活的心智，更使观察者的模型无力解释摆在眼前的整个人类多样性。
 
@@ -81,7 +81,7 @@ flowchart TD
   subgraph S_HIER["虚构的审美等级体系"]
     direction TB
     H_PROJ["强行划分高低<br/>高维流形被压平至低维子空间"]
-    H_DK["审美邓宁-克鲁格效应<br/>以低维模型度量高维感知"]
+    H_FREEZE["冻结的坐标法庭<br/>以单一压缩滤镜给相异感知取向打分"]
     H_HIGH["特权化形式标尺<br/>骨骼轮廓与几何角度"]
     H_STIGMA["诊断式裁决输出<br/>判定他者心智存在审美盲区"]
   end
@@ -92,15 +92,15 @@ flowchart TD
     L_SOV["第一人称主权评价<br/>无任何心智拥有裁决他者之权威"]
   end
   L_HIGH -.->|"标量维度压缩"| H_PROJ
-  H_PROJ --> H_DK
-  H_DK --> H_HIGH
+  H_PROJ --> H_FREEZE
+  H_FREEZE --> H_HIGH
   H_HIGH --> H_STIGMA
   L_HIGH --> L_FIELD --> L_SOV
   H_STIGMA ==>|"遮蔽多中心场域"| L_FIELD
   style S_HIER fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
   style S_LOCUS fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
   style H_PROJ fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-  style H_DK fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+  style H_FREEZE fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
   style H_HIGH fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
   style H_STIGMA fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
   style L_HIGH fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -115,7 +115,7 @@ flowchart TD
   subgraph S_HIER["Fabricated Aesthetic Hierarchy"]
     direction TB
     H_PROJ["Forced Hierarchical Ranking<br/>High-Dimensional Manifold Flattened to Low-Dimensional Subspace"]
-    H_DK["Aesthetic Dunning-Kruger Effect<br/>Using Low-Dimensional Model to Grade High-Dimensional Perception"]
+    H_FREEZE["Frozen Coordinate Tribunal<br/>Grading Divergent Sensibilities Through One Compressed Filter"]
     H_HIGH["Privileged Formal Metric<br/>Bone Contours and Geometric Angles"]
     H_STIGMA["Diagnostic Output<br/>Diagnosing Other Minds with Aesthetic Blindness"]
   end
@@ -126,15 +126,15 @@ flowchart TD
     L_SOV["First-Person Sovereign Valuation<br/>No Mind Possesses Authority to Judge"]
   end
   L_HIGH -.->|"Scalar Dimensional Compression"| H_PROJ
-  H_PROJ --> H_DK
-  H_DK --> H_HIGH
+  H_PROJ --> H_FREEZE
+  H_FREEZE --> H_HIGH
   H_HIGH --> H_STIGMA
   L_HIGH --> L_FIELD --> L_SOV
   H_STIGMA ==>|"Occludes Polycentric Field"| L_FIELD
   style S_HIER fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
   style S_LOCUS fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
   style H_PROJ fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
-  style H_DK fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+  style H_FREEZE fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
   style H_HIGH fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
   style H_STIGMA fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
   style L_HIGH fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
@@ -144,7 +144,7 @@ flowchart TD
 
 ## 三、 归因不对称与心智防卫 / 3. Asymmetric Attribution and Cognitive Defense
 
-面对超出预期的分歧时，心智最便捷的防卫手段就是不对称的因果归因。观察者将自身的选择叙述为细腻的感知、结构的洞察与高雅的品味，却将他人相异的反应贬低为生理反射的无脑宣泄。正如[道德语言作为投影](../moral-language-as-projection/)与[共情的投射坍缩](../empathy-as-projection-collapse/)所揭示的，投射以预先包装好的因果脚本取代了与鲜活主体的直接接触。宣称全知地洞悉他人为何产生某种反应，并不会拓展理解；它只是将他者矮化为卡通式的机械装置，借此护住观察者所固守的自我图像，使其免受真实心智间令人生畏的摩擦。
+面对超出预期的分歧时，心智最便捷的防卫手段就是不对称的因果归因。观察者将自身的选择叙述为细腻的感知、结构的洞察与高雅的品味，却将他人相异的反应贬低为生理反射的无脑宣泄。正如[道德语言作为投影](../moral-language-as-projection/)与[共情的投射坍缩](../empathy-as-projection-collapse/)所揭示的，投射以预先包装好的因果脚本取代了与鲜活主体的直接接触。宣称全知地洞悉他人为何产生某种反应，并不会拓展理解；它只是将他者矮化为卡通式的机械装置，借此护住观察者所固守的自我形象，使其免受真实心智间令人生畏的摩擦。
 
 ```mermaid
 flowchart TD
