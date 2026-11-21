@@ -1,6 +1,6 @@
 # 投影的阶梯与因果的锚点 / The Ladder of Projections and the Anchor of Causality
 
-*逻辑、公理、物理极限、成败与道德审判都是投影，锚定在第一人称里才看得穿 / Logic, axioms, physical limits, success and moral judgment are projections, seen through only from the first person.*
+*形式逻辑、公理、物理极限、成败与道德审判都是投影，锚定在第一人称里才看得穿 / Formal logic, axioms, physical limits, success and moral judgment are projections, seen through only from the first person.*
 
 在人的认知体系里，“客观事实”与“科学理论”长久被当作脱离观察者而独立存在的真理；在社会协作与日常互动里，“对错优劣”与“道德高下”被塑造成衡量一切行为的普适法庭。这两套话语表面上分属自然科学与人文伦理，在认识论的底层却共享同一个范畴错乱：预设一个脱离第一人称观察视界的上帝视角，把人在有限视界之内为了理解世界而建的低维抽象投影，当成了现实本身。
 

@@ -8,11 +8,11 @@ Jean-Jacques Rousseau opened *The Social Contract* with the famous observation t
 
 ## 一、 有条件抵达的虚幻阶梯 / 1. The Illusory Ladder of Conditional Attainment
 
-日常谈论习惯于把自由拆成一套层层递进的发展关卡。在这套熟悉的分类里，一个人要先取得财务自由以解锁选择的能力，再取得精神自由以看清自己为何选择，最后取得存在自由以面对失去与死亡的必然。这套阶梯被当作一张自我超越的地图递出来，却在悄然间于中心与其自身的主权之间制造出一段人为的距离。它安装了一本外部的前提账簿，暗示自由是一份未来的奖赏，只留给那些已经跨过底下几层的人。
+日常谈论习惯于把自由拆成一套层层递进的发展关卡。在这套熟悉的分类里，一个人要先取得财务自由以解锁选择的能力，再取得精神自由以看清自己为何选择，最后取得存在自由以面对失去与死亡的必然。这套阶梯被当作一张自我超越的地图递出来，却悄然在中心与自身主权之间制造出一段人为的距离。它安装了一本外部的前提账簿，暗示自由是一份未来的奖赏，只留给那些已经跨过底下几层的人。
 
 Common talk habitually breaks freedom into a hierarchy of developmental hurdles. In this familiar taxonomy, one must first reach financial freedom to unlock the capacity to choose, then spiritual freedom to see why one chooses, and finally existential freedom to face the inevitability of loss and death. Offered as a map of self-transcendence, this ladder quietly manufactures an artificial distance between the center and its own sovereignty. It installs an outside ledger of prerequisites, implying that freedom is a future reward reserved for those who have cleared the lower tiers.
 
-[超越的定相](../the-fixed-image-of-transcendence/)捕捉到的正是这个陷阱：把超越当作阶梯上一座遥远的里程碑，会把鲜活的行动者冻结成永远的寻求者，把对抵达的表征错认作脚下的地基。[持续生长的脚手架](../the-scaffolding-that-keeps-growing/)从结构一侧追溯了同一种倒置，阐明把拉开距离当作通往某个永久外部、从那里俯瞰固定框架的出口，并找不到任何敞开，因为敞开正是让每一个框架保持未完成的持续活动。把自由当作序列末端的一个结果去寻求，就是否认了朝它迈出的每一步早已在运用所寻求的那份自由。
+[超越的定相](../the-fixed-image-of-transcendence/)捕捉到的正是这个陷阱：把超越当作阶梯上一座遥远的里程碑，会把鲜活的行动者冻结成永远的寻求者，把对抵达的表征错认作脚下的地基。[持续生长的脚手架](../the-scaffolding-that-keeps-growing/)从结构一侧追溯了同一种倒置，阐明若把拉开距离当作出口、退往一个俯瞰固定框架的永久外部，便找不到任何敞开，因为敞开正是让每一个框架保持未完成的持续活动。把自由当作序列末端的一个结果去寻求，就是否认了朝它迈出的每一步早已在运用所寻求的那份自由。
 
 ```mermaid
 flowchart TD
@@ -22,7 +22,7 @@ flowchart TD
         G_Trace["选定的轮廓：承诺、制度与社会契约"]
         G_Act --> G_Trace
     end
-    subgraph S_Closure["阶梯幻象（超越投射）"]
+    subgraph S_Closure["阶梯幻象（超越的定相）"]
         direction TB
         C_Invert["把投射安装为地基：将自由系于财务、精神或存在的层级条件"]
         C_Loop["封闭的寻求者回路：被保留的自我形象把能动性困在前提账簿内"]
@@ -57,7 +57,7 @@ flowchart TD
         G_Trace["Chosen Contours: Commitments, institutions, and the social contract"]
         G_Act --> G_Trace
     end
-    subgraph S_Closure["The Ladder Illusion (Beyond the Projection)"]
+    subgraph S_Closure["The Ladder Illusion (The Fixed Image of Transcendence)"]
         direction TB
         C_Invert["Projection Installed as Ground: Conditioning freedom on financial, spiritual, or existential tiers"]
         C_Loop["Closed Seeker Loop: Retained self-image traps agency inside a prerequisite ledger"]
@@ -102,7 +102,7 @@ When these traces are regarded only as oppressive limits to be eradicated, freed
 
 Because freedom was never absent, there is no mandatory path that must be walked in order to arrive at it, and no journey can close a distance that does not exist. Any path taken is already freedom realizing itself in a particular, finite configuration. Material striving, the acquisition of skills, philosophical inquiry, the shedding of illusions, and the meeting with mortality all take place as freedom operating, never outside it.
 
-自由不会离开它的地基去踏上一条道路，也不会在道路尽头才回到自身；整场运动都是它不间断的自我实现。[能动性的错配](../the-misallocation-of-agency/)追踪了遗忘这份连续性时会发生什么：中心开始把道路、制度或技艺当作自由的作者，将发起行动的边缘与其下游的记录倒置过来。[超越投射](../beyond-the-projection/)揭示了这种倒置的结构机制：任何外显的发展阶梯、规则手册或阶段体系，都是心智投射出的有限低维投影。当一个人类中心把自身身份与自己在该投影中的当前坐标熔接在一起时，它就把自己锁进了认识论的引力井——让那不曾被投射、正在掌舵的活的边缘，从属于一张静态的前提地图。[你的代码库即是记忆](../your-codebase-is-memory/)在一切外化造物中追踪了同一种非对称性：无论是规则手册、模型权重，还是充当记忆的代码库，都只是先前自由区分所铭刻并堆叠下来的残余——一个可供活的边缘重新切分或修剪的检查点——从不是授予或派生出自由的地基。站在投射之上从它旁边挪开半步——不是作为通往某个永久外部的出口，而是作为生长之内的又一个离散行动——便恢复了有限痕迹与书写它的心智之间的非对称性。
+自由不会离开它的地基去踏上一条道路，也不会在道路尽头才回到自身；整场运动都是它不间断的自我实现。[能动性的错配](../the-misallocation-of-agency/)追踪了遗忘这份连续性时会发生什么：中心开始把道路、制度或技艺当作自由的作者，将发起行动的边缘与其下游的记录倒置过来。[超越投射](../beyond-the-projection/)揭示了这种倒置的结构机制：任何外显的发展阶梯、规则手册或阶段体系，都是心智投射出的有限低维投影。当一个人类中心把自身身份与自己在该投影中的当前坐标熔接在一起时，它就把自己锁进了认识论的引力井——让那不曾被投射、正在掌舵的活的边缘，从属于一张静态的前提地图。[你的代码库即是记忆](../your-codebase-is-memory/)在一切外化造物中追踪了同一种非对称性：无论是规则手册、模型权重，还是充当记忆的代码库，都只是先前自由区分所铭刻并堆叠下来的残余——一个可供活的边缘重新切分或修剪的检查点——从不是授予或派生出自由的地基。仍站在投射之上，向旁挪开半步——不是作为通往某个永久外部的出口，而是作为生长之内的又一个离散行动——便恢复了有限痕迹与书写它的心智之间的非对称性。
 
 Freedom does not leave its ground to set out on a path, nor does it return to itself when the path ends; the whole movement is its uninterrupted self-realization. [The Misallocation of Agency](../the-misallocation-of-agency/) tracks what happens when this continuity is forgotten and the center begins to treat the path, the institution, or the technique as the author of freedom, inverting the initiating edge and its downstream record. [Beyond the Projection](../beyond-the-projection/) exposes the structural mechanics of this inversion: any explicit developmental ladder, rulebook, or system of stages is a finite, low-dimensional projection cast by the Mind. When a human center fuses its identity with its current coordinate inside that projection, it locks itself into an epistemic gravity well—subordinating the unprojected living edge that steers to a static map of prerequisites. [Your Codebase Is Memory](../your-codebase-is-memory/) traces the same asymmetry across every externalized artifact: a rulebook, a set of model weights, or a codebase of memory is only the stacked residue inscribed by prior free distinctions—a checkpoint that the living edge can re-cut or prune—never the ground from which freedom is granted or derived. Taking half a pace aside from the projection while still standing on it—not as an exit into a permanent exterior, but as a further discrete act inside the growth—restores the asymmetry between the finite trace and the Mind that authors it.
 
