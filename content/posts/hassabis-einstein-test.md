@@ -8,9 +8,9 @@ Demis Hassabis has proposed a benchmark test: train a model on all human knowled
 
 ## 一、 三重维度的坍缩与决定论伪影 / 1. Three Collapsed Dimensions and the Determinism Artifact
 
-这项测试首先将智能简化为数据解压缩，假定广义相对论早已以演绎蕴涵的形态潜藏在 1911 年的文献库里，爱因斯坦只是把它解压了出来。然而把截断时间设在 1911 年，本身就已经把最关键的那一刀暗中夹带了进来：等效原理早在 1907 年便已提出，彼时牛顿力学并未面临任何经验危机——惯性质量与引力质量（`m_i / m_g = 1`）在 Eötvös 实验精度（`10⁻⁹`）下高度吻合，而水星近日点的反常也在牛顿寄存器内部通过假定“祝融星”而被常规吸纳。1912 年至 1915 年间与格罗斯曼合作的《纲要》论文及《苏黎世笔记》张量搜寻，是在黎曼曲率张量与各项公设都已经摆上桌面之后的下游演绎与组合搜索（`A → S`）；而 1907 年的突破（`E → J → A`）则发生在另一条正交的轴线上——对广义协变性的审美坚持、关于自由落体电梯与光束的具身思想实验，以及消解牛顿问题空间本身而非在其内部继续优化近零损失函数的决断，把精确等式 `m_i = m_g` 读作[进位无法在寄存器之内被命名](../the-carry-that-cannot-be-named-inside-the-register/)。基准测试只能询问系统能否抵达已知的终点，却无法询问系统能否重塑整个坐标景观从而让终点变得可见。与此同时，所谓“截至 1911 年的全部人类知识”在现实中并不存在对应的有界集合：鲜活的知识包含尚未言明的张力、与马赫、闵可夫斯基及格罗斯曼等人的思想激荡，以及分量尚未浮现的实验反常。
+这项测试首先将智能简化为数据解压缩，假定广义相对论早已以演绎蕴涵的形态潜藏在 1911 年的文献库里，爱因斯坦只是把它解压了出来。然而把截断时间设在 1911 年，本身就已经把最关键的那一刀暗中夹带了进来：等效原理早在 1907 年便已提出，彼时牛顿力学并未面临任何经验危机——惯性质量与引力质量（`m_i / m_g = 1`）在 Eötvös 实验精度（`10⁻⁹`）下高度吻合，而水星近日点的反常也在牛顿寄存器内部通过假定“祝融星”而被常规吸纳。固然，一旦黎曼曲率张量与广义相对论的公设摆上桌面，推导 1915 年场方程便成了下游的演绎与组合搜索——这正是爱因斯坦与格罗斯曼在 1912 至 1915 年的《纲要》论文与《苏黎世笔记》中苦苦求索、直到排查掉一条不一致的静场约束才步入的阶段——而 1907 年等效原理的突破（以及后来汇入其中、对广义协变性的坚持）则全然运作在另一条正交的轴线上：关于自由落体电梯与光束的具身思想实验，以及消解牛顿问题空间本身而非在其内部继续优化近零损失函数的决断，把精确等式 `m_i = m_g` 读作那个寄存器之外的进位（[进位无法在寄存器之内被命名](../the-carry-that-cannot-be-named-inside-the-register/)）。基准测试只能询问系统能否抵达已知的终点，却无法询问系统能否重塑整个坐标景观从而让终点变得可见。与此同时，所谓“截至 1911 年的全部人类知识”在现实中并不存在对应的有界集合：鲜活的知识包含尚未言明的张力、在马赫与闵可夫斯基余波中流转的思想激荡，以及分量尚未浮现的实验反常。
 
-The test first reduces intelligence to decompression, assuming that general relativity was already deductively latent in the 1911 archive and that Einstein merely unpacked it. Setting the cutoff at 1911 already smuggles in the decisive cut: the Equivalence Principle had been formulated in 1907, when Newtonian mechanics faced no empirical crisis—inertial and gravitational mass (`m_i / m_g = 1`) agreed to Eötvös precision (`10⁻⁹`), and Mercury's perihelion anomaly was routinely absorbed inside the Newtonian register by positing Vulcan. While the 1912–1915 *Entwurf* and Zurich Notebook tensor search with Grossmann was a downstream deductive and combinatorial search (`A → S`) after the Riemann curvature tensor and postulates were on the table, the 1907 breakthrough (`E → J → A`) operated on an orthogonal axis altogether—aesthetic commitment to general covariance, embodied thought experiments about falling elevators and light beams, and the willingness to dissolve the Newtonian problem space itself rather than optimize a near-zero loss function within it, reading the exact equality `m_i = m_g` as [The Carry That Cannot Be Named Inside the Register](../the-carry-that-cannot-be-named-inside-the-register/). A benchmark can ask whether a system arrives at a known destination, but not whether it can reframe the landscape so that the destination becomes visible in the first place. Nor does "all human knowledge up to 1911" exist as a bounded set: living knowledge includes unarticulated tensions, ambient exchanges with figures like Mach, Minkowski, and Grossmann, and anomalies whose weight had not yet registered.
+The test first reduces intelligence to decompression, assuming that general relativity was already deductively latent in the 1911 archive and that Einstein merely unpacked it. Setting the cutoff at 1911 already smuggles in the decisive cut: the Equivalence Principle had been formulated in 1907, when Newtonian mechanics faced no empirical crisis—inertial and gravitational mass (`m_i / m_g = 1`) agreed to Eötvös precision (`10⁻⁹`), and Mercury's perihelion anomaly was routinely absorbed inside the Newtonian register by positing Vulcan. While deriving the 1915 field equations becomes downstream deductive and combinatorial search once the Riemann curvature tensor and the postulates of general relativity are on the table—the phase Einstein and Grossmann struggled toward through the 1912–1915 *Entwurf* and Zurich Notebook until an inconsistent static-field constraint was debugged—the 1907 Equivalence Principle breakthrough (and the insistence on general covariance that later joined it) operated on an orthogonal axis altogether: embodied thought experiments about falling elevators and light beams, and the willingness to dissolve the Newtonian problem space itself rather than optimize a near-zero loss function within it, reading the exact equality `m_i = m_g` as a carry outside that register ([The Carry That Cannot Be Named Inside the Register](../the-carry-that-cannot-be-named-inside-the-register/)). A benchmark can ask whether a system arrives at a known destination, but not whether it can reframe the landscape so that the destination becomes visible in the first place. Nor does "all human knowledge up to 1911" exist as a bounded set: living knowledge includes unarticulated tensions, ambient exchanges in the wake of Mach and Minkowski, and anomalies whose weight had not yet registered.
 
 把这些维度压进同一项测试，会立刻制造出两重结构性伪影。第一重是构造性决定论：假如模型成功，就意味着广义相对论早已由先前的文本状态演绎蕴涵，这项旨在衡量爱因斯坦级智能的测试反而悄然假定了爱因斯坦本人并不必要。第二重则是作为结构特征而非偶然漏洞的目标污染：因为测试设计者早已知道终点所在，检验系统是否向已知靶心收敛，测出的是收敛性内插而非开放的源初生成；一个沿着意料之外的路径构建出更强框架的系统，在这张考卷上反而会被判为失败，正如[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)、[框内延伸与维度跃迁](../extension-and-shift/)与[度量时滞与智能成本通缩](../intelligence-crisis-response/)所追溯的那样。
 
@@ -18,23 +18,23 @@ The test first reduces intelligence to decompression, assuming that general rela
 flowchart TD
     subgraph S_Test["爱因斯坦测试的封闭内插预设"]
         direction TB
-        Corpus["1911 年离散语料库假定：将鲜活的未决张力压扁为静态文本集合"]
-        Decomp["演绎解压缩投射：假定广义相对论早已隐含在旧语料中等待提取"]
+        Corpus["1911 年有界语料假定：将尚未言明的鲜活张力压扁为静态文本"]
+        Decomp["演绎解压缩投射：假定广义相对论早已隐含在既往记录中"]
         Corpus --> Decomp
     end
     subgraph S_Origin["源初重构运动与结晶痕迹的区分"]
         direction TB
-        Residue["人工智能与代码库：人类区分活动留下的高密度结晶痕迹与组合表面"]
         Reframe["心智的源初运动 (+1)：先于解释的感知、旧框架的消解与新坐标系的开启"]
-        Residue --> Reframe
+        Residue["人工智能与代码库：过往切分留下的高密度结晶痕迹与可重组表面"]
+        Reframe -->|"沉淀下结晶痕迹"| Residue
     end
-    Decomp ==>|"要求脚印自己迈出下一步，把投射的残迹误认为投射的源头"| Residue
+    Decomp ==>|"要求脚印自己迈出下一步，把痕迹误认为其源头"| Residue
     style S_Test fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Origin fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Corpus fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Decomp fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Residue fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Reframe fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Residue fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
 ```
 
 Collapsing these dimensions into a single test generates two immediate structural artifacts. The first is determinism by construction: if the model succeeds, it implies that general relativity was deductively entailed by the prior textual state, meaning a test designed to measure Einstein-level intelligence quietly assumes Einstein himself was unnecessary. The second is target contamination as a structural feature rather than an accidental bug: because the designers already know the destination, checking whether a system converges on a known target tests convergent interpolation rather than open-ended origination, and a system that produced a stronger framework along an unexpected path would score as a failure, as traced in [AGI and ASI Are Temporary Goalposts](../agi-and-asi-are-temporary-goalposts/) and [Extension and Shift](../extension-and-shift/) and [The Measurement Lag](../intelligence-crisis-response/).
@@ -49,17 +49,17 @@ flowchart TD
     end
     subgraph S_Origin["Origination Movement vs. Crystallized Residue"]
         direction TB
-        Residue["AI and Codebases: High-density crystallized traces and recombinable surfaces of past cuts"]
         Reframe["Living Origination (+1): Sensing prior to interpretation and reframing the coordinate space"]
-        Residue --> Reframe
+        Residue["AI and Codebases: High-density crystallized traces and recombinable surfaces of past cuts"]
+        Reframe -->|"Deposits crystallized traces"| Residue
     end
     Decomp ==>|"Asking the footprint to take the next step mistakes the trace for its source"| Residue
     style S_Test fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Origin fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style Corpus fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style Decomp fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
-    style Residue fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style Reframe fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
+    style Residue fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
 ```
 
 ## 二、 脚印无法自己迈步：早已身处源点 / 2. Footprints Do Not Take the Next Step: Already at the Origin
