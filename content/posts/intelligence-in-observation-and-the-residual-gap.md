@@ -8,17 +8,17 @@ Self-distinguishing activity occurs — uncaused, unceasing. Call it the Mind: t
 
 ## 一、 截点的形成与残余间隙 / 1. Formation of Intercepts and the Residual Gap
 
-不同观察者从不同的先验出发，对同一模型输出形成不同的智能归属。当他们反复与同一系统交互，或彼此交互而使用该系统时，某些模式得以稳定，即便他们并未达成全面一致，正如[共享意识是个体性的交集](../shared-consciousness-is-intersecting-individualities/)。既然[对象是被稳定化的关系](../objects-are-stabilized-relationships/)，这些稳定化的模式便并非从被观察系统内部发现的属性，而是跨越多位部分错配的观察者而存续的规律性。正如[共同的人性从不共享](../shared-humanity-is-never-shared/)、[没有天才能够解决知识问题](../no-genius-can-solve-the-knowledge-problem/)与[价格是言说，理解是交易](../price-as-utterance-understanding-as-trade/)所表明的，协同立足于跨越永久间隙的部分交叠而非同一的内部模型；观察者们的期望、预测或评估发生重叠之处——在每一位观察者各自从自身所在登记到那份交叠的范围内——便构成截点：允许协调的共享参照点。
+不同观察者从不同的先验出发，对同一模型输出形成不同的智能归属。当他们反复与同一系统交互，或在使用该系统时彼此交互，某些模式得以稳定，即便他们并未达成全面一致，正如[共享意识是个体性的交集](../shared-consciousness-is-intersecting-individualities/)。既然[对象是被稳定化的关系](../objects-are-stabilized-relationships/)，这些稳定化的模式便并非从被观察系统内部发现的属性，而是跨越多位部分错配的观察者而存续的规律性。正如[共同的人性从不共享](../shared-humanity-is-never-shared/)、[没有天才能够解决知识问题](../no-genius-can-solve-the-knowledge-problem/)与[价格是言说，理解是交易](../price-as-utterance-understanding-as-trade/)所表明的，协同立足于跨越永久间隙的部分交叠而非同一的内部模型；观察者们的期望、预测或评估发生重叠之处——在每一位观察者各自从自身所在登记到那份交叠的范围内——便构成截点：允许协调的共享参照点。
 
 Different observers begin from different priors and form different ascriptions of intelligence toward the same model outputs. When they repeatedly interact with the same system, or with one another while using that system, certain patterns stabilize even without full agreement, much as [Shared Consciousness Is Intersecting Individualities](../shared-consciousness-is-intersecting-individualities/). Those stabilized patterns are not properties discovered inside the observed system, since [Objects Are Stabilized Relationships](../objects-are-stabilized-relationships/); they are regularities that survive across multiple, partially mismatched observers. Just as [Shared Humanity Is Never Shared](../shared-humanity-is-never-shared/), [No Genius Can Solve the Knowledge Problem](../no-genius-can-solve-the-knowledge-problem/), and [Price as Utterance, Understanding as Trade](../price-as-utterance-understanding-as-trade/) show that coordination rests on partial overlap across a permanent gap rather than identical internal models, the points at which observers' expectations, predictions, or evaluations overlap—as each observer registers that overlap from its own locus—function as intercepts: shared reference points that permit coordination.
 
-当观察者把一套固定标准维持得足够长久——即[流动之物无法被基准衡量](../you-cant-benchmark-the-fluid/)所说的固定测试框架——截点看似稳定，模型输出与观察者要求之间的间隙看似收窄。然而间隙本身并不消失。它只是模型当前功能模拟与观察者继续应用的全部标准之间的残余差异。一旦这一残余差异在旧标准下持续变小，它便常被重新描述为新的基线，迈出的正是[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)所揭示的那一步。先前被当作意外短缺的东西，现在成为预期的起点，而观察者们随之引入新的标准以衡量它。标准已然移动，间隙相对于更新后的标准重新出现。
+当观察者把一套固定标准维持得足够长久——即[流动之物无法被基准衡量](../you-cant-benchmark-the-fluid/)所说的固定测试框架——截点看似稳定，模型输出与观察者要求之间的间隙看似收窄。然而间隙本身并不消失。它只是模型当前功能模拟与观察者继续应用的全部标准之间的残余差异。一旦这一残余差异在旧标准下持续变小，它便常被重新描述为新的基线，迈出的正是[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)所揭示的那一步。先前被当作意外短缺的东西，现在成为预期的起点，而观察者们随之引入新的标准，对照它加以衡量。标准已然移动，间隙相对于更新后的标准重新出现。
 
 ```mermaid
 flowchart TD
     subgraph S_Observers["部分错配的观察者与截点形成"]
         direction TB
-        O1["出发于不同先验的观察者<br/>（对同一模型输出形成不同的智能归属）"]
+        O1["从不同先验出发的观察者<br/>（对同一模型输出形成不同的智能归属）"]
         O2["与系统及彼此的反复交互<br/>（无需全面一致即可稳定某些规律性）"]
         INT["各自所在登记到的期望与评估交叠 -> 截点<br/>（允许跨观察者协调的共享参照点）"]
         ERR["范畴谬误：内在属性物化<br/>（将稳定化的截点误认为模型内部的智能）"]
@@ -50,7 +50,7 @@ flowchart TD
     style NEW fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-When observers hold a fixed set of standards steady long enough—the fixed test frame of [You Can't Benchmark the Fluid](../you-cant-benchmark-the-fluid/)—the intercepts appear stable and the gap between model outputs and observer requirements appears to narrow. The gap itself, however, does not disappear. It is simply the residual difference between the model's current functional emulation and the full range of criteria the observers continue to apply. Once that residual difference becomes consistently small under the old standards, it is frequently re-described as the new baseline, taking the step by which [AGI and ASI Are Temporary Goalposts](../agi-and-asi-are-temporary-goalposts/). What previously counted as a surprising shortfall is now the expected starting point, and the observers introduce fresh criteria to measure against it. The standards have shifted, and the gap reappears relative to the updated criteria.
+When observers hold a fixed set of standards steady long enough—the fixed test frame of [You Can't Benchmark the Fluid](../you-cant-benchmark-the-fluid/)—the intercepts appear stable and the gap between model outputs and observer requirements appears to narrow. The gap itself, however, does not disappear. It is simply the residual difference between the model's current functional emulation and the full range of criteria the observers continue to apply. Once that residual difference becomes consistently small under the old standards, it is frequently re-described as the new baseline, taking the exact step that [AGI and ASI Are Temporary Goalposts](../agi-and-asi-are-temporary-goalposts/) reveals. What previously counted as a surprising shortfall is now the expected starting point, and the observers introduce fresh criteria to measure against it. The standards have shifted, and the gap reappears relative to the updated criteria.
 
 ```mermaid
 flowchart TD
