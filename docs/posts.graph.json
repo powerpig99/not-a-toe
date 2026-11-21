@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-21T04:43:03.626Z",
+    "generated_at": "2026-11-21T05:23:45.858Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -17,7 +17,7 @@
       "content/posts/abstraction-determination-and-the-three-structural-flaws-of-machine-learning.md": "ebd51c27bb8b",
       "content/posts/advocating-openness-of-others-is-a-desire-for-closure-of-the-self.md": "5928998f445d",
       "content/posts/agency-and-the-pattern.md": "dc840aca46bf",
-      "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "e855ba2097aa",
+      "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md": "1d2073291565",
       "content/posts/agency-contradiction-and-the-relocation-of-power.md": "275043c4033b",
       "content/posts/agency-does-not-arise.md": "9b991f48fb54",
       "content/posts/agency-relocated-into-the-formal-model.md": "3e1fa31e14a3",
@@ -115,7 +115,7 @@
       "content/posts/hassabis-frontier-agi-premise.md": "541fc0653aa1",
       "content/posts/having-more-is-never-the-cause.md": "fff7b1e393f6",
       "content/posts/help-is-half-the-problem.md": "204c162cb834",
-      "content/posts/hierarchy-from-individual-difference.md": "b2d76939f515",
+      "content/posts/hierarchy-from-individual-difference.md": "50640e722169",
       "content/posts/how-belief-actually-changes.md": "486429e8ea5b",
       "content/posts/how-to-fix-your-whole-life-in-one-split-second.md": "2d732e1e03ab",
       "content/posts/huberman-winners-losers.md": "52edd6aa4959",
@@ -287,7 +287,7 @@
       "content/posts/the-free-mind-is-displaced-by-what-claims-to-protect-it.md": "1f120023244d",
       "content/posts/the-free-variable-and-the-retrospective-illusion-of-power.md": "fc14c3de534d",
       "content/posts/the-freedom-of-will-to-deny-itself.md": "24aae37b4569",
-      "content/posts/the-frontier-lifts-the-floor.md": "440910956459",
+      "content/posts/the-frontier-lifts-the-floor.md": "8247d376babf",
       "content/posts/the-frozen-cut-and-the-margin-of-the-loop.md": "ec04dfa42dd6",
       "content/posts/the-functionalism-no-functionalist-can-hold.md": "d3f0748dc9cb",
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "cd896911bd86",
@@ -481,10 +481,10 @@
     },
     "stats": {
       "posts": 454,
-      "edges": 13932,
-      "unique_directed": 6849,
+      "edges": 13938,
+      "unique_directed": 6852,
       "missing_targets": 0,
-      "one_way": 1489,
+      "one_way": 1486,
       "isolated": 0,
       "posts_with_outbound": 454,
       "book_pages": 16,
@@ -923,9 +923,9 @@
       "slug": "agency-compounding-and-the-argument-over-ai-feudalism",
       "path": "content/posts/agency-compounding-and-the-argument-over-ai-feudalism.md",
       "title": "能动性、复利与 AI 封建之争 / Agency, Compounding, and the Argument Over AI Feudalism",
-      "hash": "e855ba2097aa",
+      "hash": "1d2073291565",
       "in_degree": 16,
-      "out_degree": 17,
+      "out_degree": 18,
       "links_out": [
         "beyond-the-projection",
         "dynamic-resnet-of-skill-loops",
@@ -937,6 +937,7 @@
         "having-more-is-never-the-cause",
         "the-generative-mechanics-of-value-money-and-wealth",
         "hierarchy-from-individual-difference",
+        "relative-differentials-and-the-compounding-of-comparison",
         "the-model-never-becomes-a-second-edge",
         "causality-all-the-way",
         "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
@@ -3554,9 +3555,9 @@
       "slug": "hierarchy-from-individual-difference",
       "path": "content/posts/hierarchy-from-individual-difference.md",
       "title": "来自个体差异的层级 / Hierarchy from Individual Difference",
-      "hash": "b2d76939f515",
+      "hash": "50640e722169",
       "in_degree": 33,
-      "out_degree": 30,
+      "out_degree": 31,
       "links_out": [
         "the-generative-contradiction",
         "data-is-local-intelligence-is-allocated",
@@ -3577,6 +3578,7 @@
         "the-fixed-image-of-transcendence",
         "curiosity-first-the-hidden-engine-of-talent-and-development",
         "your-codebase-is-memory",
+        "relative-differentials-and-the-compounding-of-comparison",
         "symptom-and-cause-in-the-narratives-of-progress",
         "the-allocation-of-causal-power-in-validation",
         "preference-clusters-and-the-language-of-judgment",
@@ -6012,7 +6014,7 @@
       "path": "content/posts/relative-differentials-and-the-compounding-of-comparison.md",
       "title": "相对差异与复利比较 / Relative Differentials and the Comparison of Compounding",
       "hash": "f8158105eaa9",
-      "in_degree": 0,
+      "in_degree": 3,
       "out_degree": 14,
       "links_out": [
         "agency-compounding-and-the-argument-over-ai-feudalism",
@@ -8449,9 +8451,9 @@
       "slug": "the-frontier-lifts-the-floor",
       "path": "content/posts/the-frontier-lifts-the-floor.md",
       "title": "前沿抬升底线 / The Frontier Lifts the Floor",
-      "hash": "440910956459",
+      "hash": "8247d376babf",
       "in_degree": 7,
-      "out_degree": 14,
+      "out_degree": 15,
       "links_out": [
         "production-consumption-and-the-minds-distinction",
         "the-causal-order-of-private-residuals-and-social-surplus",
@@ -8461,6 +8463,7 @@
         "the-average-is-residue-not-the-engine",
         "the-local-trap-of-technological-change",
         "symptom-and-cause-in-the-narratives-of-progress",
+        "relative-differentials-and-the-compounding-of-comparison",
         "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
         "the-generative-mechanics-of-value-money-and-wealth",
         "public-spending-does-not-create-capital",
@@ -15090,6 +15093,12 @@
     },
     {
       "from": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "to": "relative-differentials-and-the-compounding-of-comparison",
+      "rel": "points_to",
+      "label": "相对差异与复利比较"
+    },
+    {
+      "from": "agency-compounding-and-the-argument-over-ai-feudalism",
       "to": "the-model-never-becomes-a-second-edge",
       "rel": "points_to",
       "label": "模型永远无法成为第二重前沿"
@@ -15105,6 +15114,12 @@
       "to": "hierarchy-from-individual-difference",
       "rel": "points_to",
       "label": "Hierarchy from Individual Difference"
+    },
+    {
+      "from": "agency-compounding-and-the-argument-over-ai-feudalism",
+      "to": "relative-differentials-and-the-compounding-of-comparison",
+      "rel": "points_to",
+      "label": "Relative Differentials and the Comparison of Compounding"
     },
     {
       "from": "agency-compounding-and-the-argument-over-ai-feudalism",
@@ -32688,9 +32703,21 @@
     },
     {
       "from": "hierarchy-from-individual-difference",
+      "to": "relative-differentials-and-the-compounding-of-comparison",
+      "rel": "points_to",
+      "label": "相对差异与复利比较"
+    },
+    {
+      "from": "hierarchy-from-individual-difference",
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
       "label": "进步叙事中的症候与原因"
+    },
+    {
+      "from": "hierarchy-from-individual-difference",
+      "to": "relative-differentials-and-the-compounding-of-comparison",
+      "rel": "points_to",
+      "label": "Relative Differentials and the Comparison of Compounding"
     },
     {
       "from": "hierarchy-from-individual-difference",
@@ -66324,6 +66351,12 @@
     },
     {
       "from": "the-frontier-lifts-the-floor",
+      "to": "relative-differentials-and-the-compounding-of-comparison",
+      "rel": "points_to",
+      "label": "相对差异与复利比较"
+    },
+    {
+      "from": "the-frontier-lifts-the-floor",
       "to": "the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors",
       "rel": "points_to",
       "label": "财富转移政策与价格下限中的原因错置"
@@ -66339,6 +66372,12 @@
       "to": "symptom-and-cause-in-the-narratives-of-progress",
       "rel": "points_to",
       "label": "Symptom and Cause in the Narratives of Progress"
+    },
+    {
+      "from": "the-frontier-lifts-the-floor",
+      "to": "relative-differentials-and-the-compounding-of-comparison",
+      "rel": "points_to",
+      "label": "Relative Differentials and the Comparison of Compounding"
     },
     {
       "from": "the-frontier-lifts-the-floor",
