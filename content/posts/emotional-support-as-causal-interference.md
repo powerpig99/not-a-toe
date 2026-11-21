@@ -16,7 +16,7 @@ Emotional support targets the recipient’s felt state — distress, emotion, th
 
 When discomfort arises from a mismatch between capacity and reality, that discomfort is part of the chain. It presses back on habits, models, skills, and decisions. Reducing the felt state from outside removes or weakens that pressure. The original conditions are more likely to persist, because one of the forces acting on them has been dampened or redirected. Emotional support does not leave causes untouched. It changes the topology by managing the effect in place of resolution at the source. As [Your Codebase Is Memory](../your-codebase-is-memory/) traces across stacked residues of prior distinctions, what alters the next trajectory is re-cutting the active configuration of habits and skills in place where it no longer coheres with live sensing; buffering or soothing the felt registration while leaving the load-bearing checkpoint untouched preserves the constraints that generated the friction.
 
-这种替代并非偶然。干预一旦把感受状态抬升为注意力的首要对象，就是把结果当成了核心问题。经过反复强化，双方都会习得通过调节感受来维系关系，而非直接切入产生这些感受的成因。提供支持的一方同样处于这枚硬币的正面：他人在这一场域中的苦恼，登记为一种要求——似乎必须由一方心智去完成唯有另一方心智才能闭合的回路。安抚的冲动正是这种要求：它不是溢出的关怀，而是试图跨越一道无法以此方式逾越的边界，去替他人完成闭环。
+这种替代并非偶然。干预一旦把感受状态抬升为注意力的首要对象，就是把结果当成了核心问题。经过反复强化，双方都会习得通过调节感受来维系关系，而非直接切入产生这些感受的成因。提供支持的一方同样处于原发一侧：他人在这一场域中的苦恼，登记为一种要求——似乎必须由一方心智去完成唯有另一方心智才能闭合的回路。安抚的冲动正是这种要求：它不是溢出的关怀，而是试图跨越一道无法以此方式逾越的边界，去替他人完成闭环。
 
 ```mermaid
 flowchart TD
@@ -33,7 +33,7 @@ flowchart TD
         D2 --> R2["第一人称重切<br/>（更新习惯、模型与技能）"]
         R2 --> C2["扩展独立承载力<br/>与主动选择的互赖"]
     end
-    P1 ==> M2
+    P1 ==>|"可承载时拒绝外部缓冲"| M2
     style S_Interference fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_NonReplacement fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style M1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -63,7 +63,7 @@ flowchart TD
         D2 --> R2["First-Person Re-Cutting<br/>(Habits, Models & Skills Updated)"]
         R2 --> C2["Expanded Independent Capacity<br/>& Chosen Interdependence"]
     end
-    P1 ==> M2
+    P1 ==>|"Declining external buffering when carryable"| M2
     style S_Interference fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_NonReplacement fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style M1 fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -100,7 +100,7 @@ When management of the felt state is installed as the prior that reorganizes the
 
 The same pattern appears between adults. When emotional support functions as ongoing regulation of one person’s felt state by the other, structural dependence forms. One party becomes accustomed to external management of internal experience; the other becomes accustomed to providing it. The relationship organizes around mutual effect-regulation rather than around two individuals who keep their own updates and choose to relate.
 
-在这个意义上，共生依赖并非戏剧性的功能失调，而是用外部调节稳定地替代了独立承载的能力——这正是[帮助是问题的一半](../help-is-half-the-problem/)所追踪的双输入均衡：一方围绕另一方的固着点提供外在运动，使当下的交互在净位移为零处维持平衡。关系的韧性并不源于对彼此情绪更敏锐的迎合，也不源于更卖力地替对方管控状态；它源于建立在独立之上的互赖：每个人保有承载自身大部分因果反馈的能力，并在共同的志趣、事业与现实切面上展开协作。
+在这个意义上，共生依赖并非戏剧性的功能失调，而是用外部调节稳定地替代了独立承载的能力——这正是[帮助是问题的一半](../help-is-half-the-problem/)所追踪的双输入均衡：一方围绕另一方的固着点提供外在运动，使当下的交互在净位移为零处维持平衡。关系的韧性并不源于对彼此感受更敏锐的体察，也不源于更愿意替对方管控状态；它源于建立在独立之上的互赖：每个人保有承载自身大部分因果反馈的能力，并在共同的志趣、事业与现实切面上展开协作。
 
 Codependency, in this sense, is not dramatic dysfunction. It is stable substitution of external regulation for independent capacity, the two-input equilibrium [Help Is Half the Problem](../help-is-half-the-problem/) traces when one party supplies motion around the other’s fixed point so the immediate exchange balances at zero net displacement. Strength in relationships does not arise from increased attunement to feelings or greater willingness to manage each other’s states. It arises from interdependence grounded in independence: each person retains capacity to carry most of their own effects, and collaborates on shared interests, projects, and realities.
 
@@ -128,7 +128,7 @@ The strongest objection is experiential: declining emotional support in the mome
 
 ## 五、 实践过程 / 5. The Process
 
-没有任何通用标准或外部方法能够预先划定准备度与边界。这类标准一旦确立，本身就会变成另一层干预——变成一个游离于当下具体情境与具体当事人之外的僵化框架。审辨只发生在直接的照面之中。
+没有任何通用标准或外部方法能够预先划定准备度与边界。这类标准一旦确立，本身就会变成另一层干预——变成一个游离于当下具体情境与具体当事人之外的框架。审辨只发生在直接的照面之中。
 
 No general criteria or external method can fix readiness or boundaries in advance. Such criteria would be another layer of intervention — a framework standing apart from this situation with these people. Discernment occurs only in the direct encounter.
 
@@ -136,6 +136,6 @@ No general criteria or external method can fix readiness or boundaries in advanc
 
 What is practiced is non-replacement: not installing a technique of non-interference as a new standing identity, but continuing to leave with the other what they can carry. Across repeated instances, what becomes observable is strengthening of sensed agency in the other and weakening of the automatic urge to regulate effects that do not require regulation. That shift does not come from better methods. It comes from consistent refusal to substitute external management for the other’s contact with reality.
 
-无论在育儿还是成人关系中，情感支持依然可以作为偶发的行动而存在。改变的是它的地位：它不再是关系中默认的或结构性的连接方式，充其量只是当负荷超出容量过远、当事人自身的心智尚无法自行运转处理时的一种临时举措。如此一来，关系或成长过程便围绕着独立承载力与主动选择的互赖来展开，而非围绕着对感受的持续调节。[疗愈打开反馈回路](../therapy-opens-the-feedback-loop/)剖析的正是同一拓扑结构的职业化形态——一个付费引入的第三方，专门用来让内部登记变得更容易忍受，而生成摩擦的源头条件却大多未被重新回溯。[财富转移政策与价格下限中的原因错置](../the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors/)则是同一几何结构在薪资与转移支付外衣下的翻版：把测得的结果装作杠杆，压制相对信号，从而摊薄了技能的积累。[同情是缺乏清晰时的占位符](../sympathy-is-a-placeholder-for-lack-of-clarity/)揭示的是其安慰性标签的一面：提供者将自身强烈的情绪反应误作已经完成的接触，而非尚未走完的观察。一旦把结果当成先于原因的东西来对待，因果干扰便开始了；而[非万物之理](../not-a-theory-of-everything/)从源头上排除了这种倒置。
+无论在育儿还是成人关系中，情感支持依然可以作为偶发的行动而存在。改变的是它的地位：它不再是关系中默认的或结构性的连接方式，充其量只是当负荷超出容量过远、当事人自身的心智尚无法自行运转处理时的一种临时举措。如此一来，关系或成长过程便围绕着独立承载力与主动选择的互赖来展开，而非围绕着对感受的持续调节。[疗愈打开反馈回路](../therapy-opens-the-feedback-loop/)剖析的正是同一拓扑结构的职业化形态——一个付费引入的第三方，专门用来让内部登记变得更容易忍受，而生成摩擦的源头条件却大多未被重新回溯。[财富转移政策与价格下限中的原因错置](../the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors/)则是同一几何结构在薪资与转移支付外衣下的翻版：把测得的结果立为杠杆，压制相对信号，从而摊薄了技能的积累。[同情是缺乏清晰时的占位符](../sympathy-is-a-placeholder-for-lack-of-clarity/)揭示的是其安慰性标签的一面：提供者将自身强烈的情绪反应误作已经完成的接触，而非尚未走完的观察。一旦把结果当成先于原因的东西来对待，因果干扰便开始了；而[非万物之理](../not-a-theory-of-everything/)从源头上排除了这种倒置。
 
 In both parenting and adult relationships, emotional support remains available as an occasional act. What changes is its status. It ceases to be the default or structural mode of relating and becomes, at most, a temporary measure when capacity is exceeded so far that processing cannot yet run through that person’s own mind. The relationship or the developmental process then organizes around independent capacity and chosen interdependence rather than around ongoing regulation of feelings. [Therapy Opens the Feedback Loop](../therapy-opens-the-feedback-loop/) is the professionalized form of the same topology — a paid third party optimized to make registration more tolerable while the generating conditions remain largely un-re-traced. [The Misallocation of Cause in Wealth-Transfer Policies and Price Floors](../the-reversal-of-causality-in-wealth-transfer-policies-and-price-floors/) is the same geometry under wage and transfer costume: the measured effect installed as lever, the relative signal suppressed, skill accumulation thinned. [Sympathy Is a Placeholder for Lack of Clarity](../sympathy-is-a-placeholder-for-lack-of-clarity/) is the consoling-label face when the provider’s intensity is taken as completed contact rather than unfinished observation. The interference starts when the effect is treated as if it came before the cause, which [Not a Theory of Everything](../not-a-theory-of-everything/) rules out at the root.
