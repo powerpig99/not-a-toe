@@ -32,11 +32,11 @@ The same cut repeats inside inference. Unit cost can drop while total spend rise
 
 ## 三、 投资不足与过度是对同一股资金的两种读法 / 3. Under- and Over-Investment Are Two Readings of One Flow
 
-算力投资相对于某种读法下的预期回报而言。同一股资本，对着长时间尺度与高预期能力去量，登记为投资不足；对着较短的时间尺度与较低的预期回报去量，登记为投资过度。
+算力投资是相对于某种读法下的预期回报而言的。同一股资本，对着长时间尺度与高预期能力去量，登记为投资不足；对着较短的时间尺度与较低的预期回报去量，登记为投资过度。
 
 Compute investment is relative to expected returns under a particular reading. The same flow of capital registers as underinvestment when measured against a long horizon and high expected capability, and as overinvestment when measured against a shorter horizon and lower expected returns.
 
-同样的划界在一个组织与用途的关系上重复。当 AI 被持为已经在运作的生产力提升，每一美元都产出了更多，这股资金就登记为投资不足：更多地投入已经在复利的东西，是显而易见的下一步。当同样的支出被持为替代，或被持为占住位置以免错过浪潮，而相应的产出增长还没有到来，这股资金就登记为投资过度。不足与过度不是关于一个外部数量的两个对立事实；一旦固定了贴现率、参照时间尺度，以及与用途的关系，增效还是替代，它们就是对同一股资金的两种读法。
+同样的划界在一个组织与用途的关系上重复。当 AI 被持为已经在运作的生产力提升，每一美元都产出了更多，这股资金就登记为投资不足：更多地投入已经在复利的东西，是显而易见的下一步。当同样的支出被持为替代，或被持为占住位置以免错过浪潮，而相应的产出增长还没有到来，这股资金就登记为投资过度。不足与过度不是关于一个外部数量的两个对立事实；一旦固定了贴现率、参照时间尺度，以及与用途的关系（增效还是替代），它们就是对同一股资金的两种读法。
 
 The same cut repeats in how an organization is related to the use. Where AI is held as a productivity improvement already in operation, each dollar has produced more output, and the flow registers as underinvestment: more of what is already compounding is the obvious next act. Where the same spend is held as replacement, or as occupying a position so as not to miss the wave, and no corresponding increase in output has arrived, the flow registers as overinvestment. Under- and over-investment are not opposing facts about an external quantity; once a discount rate, a reference horizon and a relation to the use, productivity or replacement, have been fixed, they are two readings of one flow.
 
@@ -56,7 +56,7 @@ The same cut repeats in where the observer stands. For an observer whose own hor
 
 Labor-market effects unfold as simultaneous creation and displacement across different distributions of skill and different timescales. Net employment can rise while particular clusters of skill contract. The binary "job-destroying versus job-creating" arises only when both directions are required to share a single aggregate number that is then defended as the decisive fact.
 
-创造几乎是给定的。被记作位移的，常被持为对现有岗位或任务的替换，即新工具一对一地换掉旧工作。序列并非如此：新的工作被创造出来，这份工作在经济中所占的份额变大，旧的岗位随着自己份额的变薄而过时。过时是份额转移的下游，而不是对先前任务的直接覆盖。毁灭与创造不是关于同一个劳动力市场的两个事实，而是一份给定的创造，加上一个已经被读成替换的位移。[工时排名把充足度冻结成一张记分牌](../the-hours-ranking-freezes-adequacy-as-one-scoreboard/)追的是同一种冻结：三种工具被记成同一根工时条；这里是两种劳动力的移动，再加上一次份额转移，被记成同一个就业数字。
+创造几乎是给定的。被记作位移的，常被持为对现有岗位或任务的替换，即新工具一对一地换掉旧工作。序列并非如此：新的工作被创造出来，这份工作在经济中所占的份额变大，旧的岗位随着自己份额的变薄而过时。过时是份额转移的下游，而不是对先前任务的直接覆盖。毁灭与创造不是关于同一个劳动力市场的两个事实，而是一份给定的创造，加上一个已经被读成替换的位移。[工时排名把充足度冻结成一张记分牌](../the-hours-ranking-freezes-adequacy-as-one-scoreboard/)追的是同一种冻结：三个指标被记成同一根工时条；这里是两种劳动力的移动，再加上一次份额转移，被记成同一个就业数字。
 
 Creation is near given. What gets scored as displacement is commonly held as replacement of the existing job or task, a one-for-one swap of the old work by the new instrument. The sequence runs otherwise: new work is created, that work takes a larger share of the economy, and the old job becomes obsolete as its share thins. Obsolescence is downstream of the shift in share, not a direct overwrite of the prior task. Destroy and create are not two facts about one labor market; they are a given creation and a displacement that has already been read as replacement. [The Hours Ranking Freezes Adequacy as One Scoreboard](../the-hours-ranking-freezes-adequacy-as-one-scoreboard/) traces the same freeze when three instruments are scored as one bar of hours; here two labor movements, and then a shift in share, are scored as one employment number.
 
@@ -80,7 +80,7 @@ The demand to detect and regulate others arises from a look that is already behi
 
 Capability thresholds labeled AGI or ASI are continuous distributions measured against a retained reference that itself keeps moving. "In sight" and "unachievable" name the width of the gap at a given step, not two possible states of an external trajectory.
 
-这个配对取决于那个定义性的能力是否被持为固定。若它被持为超出当前能力、却又固定不动的东西，加速的能力由这种持法本身就会达到并超过它：因为正如[你的代码库即是记忆](../your-codebase-is-memory/)所追的——每一项基准、规格或代码库都是已作区分的外化残余——固定的清单保持静止，而掌舵边缘的自我区分序列在复利中越过它。若它被持为后退的地平线，同样的加速就永远到不了：每一次增益都把清单画得更远。地平线在后退。临近与不可及不是对同一条终点线的两种预测，而是对清单的两种持有，固定或后退，被当成了一场关于抵达的争论。[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)追的是装扮成门槛的那份后退的清单：每一个定义都永远处在画出它的那道边缘之前。[远方的轮廓与无处之境的清单](../the-distant-silhouette-and-the-inventory-from-nowhere/)追的是装扮成距离的同一份清单：距离把不同的结构模糊成一条轮廓，而靠近时恢复的分辨率，被误判为挪动了球门。
+这个配对取决于那个定义性的能力是否被持为固定。若它被持为超出当前能力、却又固定不动的东西，加速的能力由这种持法本身就会达到并超过它：因为正如[你的代码库即是记忆](../your-codebase-is-memory/)所追的，每一项基准、规格或代码库都是已作区分的外化残余——于是固定的清单保持静止，而掌舵边缘的自我区分序列在复利中越过它。若它被持为后退的地平线，同样的加速就永远到不了：每一次增益都把清单画得更远。地平线在后退。临近与不可及不是对同一条终点线的两种预测，而是对清单的两种持有，固定或后退，被当成了一场关于抵达的争论。[AGI 与 ASI 是加速通用智能的暂时球门](../agi-and-asi-are-temporary-goalposts/)追的是装扮成门槛的那份后退的清单：抵达永远落在前方，因为边缘会越过自己划出的每一个定义，并在更远处划出下一个。[远方的轮廓与无处之境的清单](../the-distant-silhouette-and-the-inventory-from-nowhere/)追的是装扮成距离的同一份清单：距离把不同的结构模糊成一条轮廓，而靠近时恢复的分辨率，被误判为挪动了球门。
 
 ```mermaid
 flowchart TD
@@ -106,7 +106,7 @@ flowchart TD
     style Open fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The pairing depends on whether the defining capability is held as fixed. Held as something beyond present ability and yet fixed, it is reached and surpassed by accelerating capability by the way it is held: because [Your Codebase Is Memory](../your-codebase-is-memory/)—every benchmark, specification, or codebase is an externalized residue of distinctions already drawn—the fixed inventory stays still while the self-distinguishing sequence at the steering edge compounds past it. Held as a receding horizon, it is never arrived at by the same acceleration: each gain redraws the inventory farther out. The horizon recedes. Near and unreachable are not two forecasts of one finish line; they are two holdings of the inventory, fixed or receding, treated as a debate about arrival. [AGI and ASI Are Temporary Goalposts](../agi-and-asi-are-temporary-goalposts/) traces that receding inventory dressed as a threshold: each definition sits forever ahead of the edge that draws it. [The Distant Silhouette and the Inventory from Nowhere](../the-distant-silhouette-and-the-inventory-from-nowhere/) traces the same inventory dressed as distance: distance blurs distinct structures into a single contour, and the resolution restored by proximity is misjudged as moving the goalposts.
+The pairing depends on whether the defining capability is held as fixed. Held as something beyond present ability and yet fixed, it is reached and surpassed by accelerating capability by the way it is held: because, as [Your Codebase Is Memory](../your-codebase-is-memory/) traces, every benchmark, specification, or codebase is an externalized residue of distinctions already drawn—so the fixed inventory stays still while the self-distinguishing sequence at the steering edge compounds past it. Held as a receding horizon, it is never arrived at by the same acceleration: each gain redraws the inventory farther out. The horizon recedes. Near and unreachable are not two forecasts of one finish line; they are two holdings of the inventory, fixed or receding, treated as a debate about arrival. [AGI and ASI Are Temporary Goalposts](../agi-and-asi-are-temporary-goalposts/) traces that receding inventory dressed as a threshold: arrival sits forever ahead because the edge overtakes each definition it draws and draws the next beyond it. [The Distant Silhouette and the Inventory from Nowhere](../the-distant-silhouette-and-the-inventory-from-nowhere/) traces the same inventory dressed as distance: distance blurs distinct structures into a single contour, and the resolution restored by proximity is misjudged as moving the goalposts.
 
 ```mermaid
 flowchart TD

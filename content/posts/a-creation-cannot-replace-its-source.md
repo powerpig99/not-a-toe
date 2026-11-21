@@ -32,7 +32,7 @@ This pole is often dressed in moralized terms, appealing to a special essence, s
 
 Suppose instead the other pole: humans are replaceable. Even under that supposition, the candidate offered as replacer is their own creation—models, software stacks, and institutions of automation assembled from prior human distinguishing.
 
-创造在构造上便是非对称的。先前的行动塑造后来的行动；器物正是那个被塑造的产物。把一个系统称作造物，本身就已经将发起的区分安放在该系统之外。训练语料、架构、目标函数、评测框架，以及持续进行的提示、掌舵、筛选与验证，并不作为第二个中心驻留在权重内部。它们正是活的活动本身，而权重则是这一活动留下的耐久残余。[你的代码库即是记忆](../your-codebase-is-memory/)在受造记忆器物的完整层级上追踪了这一点：无论是由文件、图谱、计划与智能体脚手架构成的代码库，还是训练好的模型检查点，都是心智早先切口外化而成的痕迹；唯有在当下经过有选择的修剪与重描、而非当作历史碎屑囤积起来时，它们才能延伸触角，但这两层残余都不会自行恢复区分，也不会取代那个发起切口的活的源头。正如[看似AI的强化学习，实为人类的自我强化学习](../self-rl-for-humans/)所揭示的，技术压实了介质，却并未将边缘迁入器物之中。把工作交给造物只是移交了任务，而因果担当依然分毫未动，这一边界在[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)中已有清晰追溯。
+创造在构造上便是非对称的。先前的行动塑造后来的行动；器物正是那个被塑造的产物。把一个系统称作造物，本身就已经将发起的区分安放在该系统之外。遴选训练语料、设计架构、设定目标函数与评测框架，以及持续进行的提示、掌舵、筛选与验证，并不作为第二个中心驻留在权重内部。这些行动正是活的活动，而语料、架构、框架与权重则是这一活动留下的耐久残余。[你的代码库即是记忆](../your-codebase-is-memory/)在受造记忆器物的完整层级上追踪了这一点：无论是由文件、图谱、计划与智能体脚手架构成的代码库，还是训练好的模型检查点，都是心智早先切口外化而成的痕迹；唯有在当下经过有选择的修剪与重描、而非当作历史碎屑囤积起来时，它们才能延伸触角，但这两层残余都不会自行恢复区分，也不会取代那个发起切口的活的源头。正如[看似AI的强化学习，实为人类的自我强化学习](../self-rl-for-humans/)所揭示的，技术压实了介质，却并未将边缘迁入器物之中。把工作交给造物只是移交了任务，而因果担当依然分毫未动，这一边界在[任务的移交与后果的不可让渡](../the-delegation-of-the-task-and-the-inalienability-of-consequences/)中已有清晰追溯。
 
 ```mermaid
 flowchart TD
@@ -40,7 +40,7 @@ flowchart TD
         direction TB
         Prior["自我区分的活动：无因、不息的发起，提供 y₀、章程 θₗ 与外层边界"]
         Dilem["受检的替代二分法：将人类角色产出冻结为可转移的存量"]
-        Prior --> Dilem
+        Prior -->|"检验所持二分法"| Dilem
     end
     subgraph S_Branches["两条分支双双拒绝由器物完成替代"]
         direction TB
@@ -50,14 +50,15 @@ flowchart TD
         B_Irrep --> Asym
         B_Rep --> Asym
     end
-    subgraph S_Return["主权编排（一步之隔的器物）"]
+    subgraph S_Return["回到边缘（主权统御）"]
         direction TB
-        Steer["回到边缘：心智裁决悬置分歧、核准 Δθₗ 更新并承担后果"]
+        Steer["边缘处的心智：裁决未决分歧（HOLD）与外环 Δθₗ 上报，并承担后果"]
     end
     Dilem --> B_Irrep
     Dilem --> B_Rep
     Asym ==>|"无法占据源头之位"| Steer
-    Steer ==>|"重绘器物"| Prior
+    Steer -.->|"重绘器物"| Asym
+    Steer ==>|"回到发起的边缘"| Prior
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Branches fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Return fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -69,7 +70,7 @@ flowchart TD
     style Steer fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Creation is asymmetric by construction. Earlier acts shape later ones; the artifact is what gets shaped. To call a system a creation is already to place the initiating distinction outside that system. Training corpora, architectures, objective functions, evaluation harnesses, and the ongoing acts of prompting, steering, selecting, and verifying do not reside inside the weights as a second center. They are the living activity for which the weights serve as durable residue. [Your Codebase Is Memory](../your-codebase-is-memory/) traces this across the full stack of created memory artifacts: both a codebase of files, graphs, plans, and agent scaffolds and a trained model checkpoint are externalized traces of the Mind's prior cuts that extend reach when selectively pruned and re-traced in the present rather than hoarded as historical debris, yet neither layer ever resumes distinguishing on its own or replaces the living source that initiates cuts. As [What Looks Like RL for AIs Is Self-RL for Humans](../self-rl-for-humans/) shows, technology densifies the medium without relocating the edge into the artifact. Handing work over to the creation delegates the task while leaving causal accountability untouched, the exact boundary traced in [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/).
+Creation is asymmetric by construction. Earlier acts shape later ones; the artifact is what gets shaped. To call a system a creation is already to place the initiating distinction outside that system. The selecting of training corpora, the designing of architectures, the setting of objective functions and evaluation harnesses, and the ongoing acts of prompting, steering, selecting, and verifying do not reside inside the weights as a second center. Those acts are the living activity, for which the corpora, architectures, harnesses, and weights serve as durable residue. [Your Codebase Is Memory](../your-codebase-is-memory/) traces this across the full stack of created memory artifacts: both a codebase of files, graphs, plans, and agent scaffolds and a trained model checkpoint are externalized traces of the Mind's prior cuts that extend reach when selectively pruned and re-traced in the present rather than hoarded as historical debris, yet neither layer ever resumes distinguishing on its own or replaces the living source that initiates cuts. As [What Looks Like RL for AIs Is Self-RL for Humans](../self-rl-for-humans/) shows, technology densifies the medium without relocating the edge into the artifact. Handing work over to the creation delegates the task while leaving causal accountability untouched, the exact boundary traced in [The Delegation of the Task and the Inalienability of Consequences](../the-delegation-of-the-task-and-the-inalienability-of-consequences/).
 
 ```mermaid
 flowchart TD
@@ -77,7 +78,7 @@ flowchart TD
         direction TB
         Prior["Self-Distinguishing Activity: Uncaused, unceasing initiation supplying y₀, charters θₗ & outer bounds"]
         Dilem["The Replacement Dichotomy Under Test: Freezes human role-outputs as a transferable stock"]
-        Prior --> Dilem
+        Prior -->|"Tests the held dichotomy"| Dilem
     end
     subgraph S_Branches["Both Branches Refuse Replacement by the Artifact"]
         direction TB
@@ -87,14 +88,15 @@ flowchart TD
         B_Irrep --> Asym
         B_Rep --> Asym
     end
-    subgraph S_Return["Sovereign Orchestration (One-Step Instrument)"]
+    subgraph S_Return["Return to the Edge (Sovereign Orchestration)"]
         direction TB
-        Steer["Return to the Edge: Mind adjudicates HOLD splits, ratifies Δθₗ updates & bears consequences"]
+        Steer["Mind at the Edge: Adjudicates HOLD splits & outer-loop Δθₗ escalations, and bears consequences"]
     end
     Dilem --> B_Irrep
     Dilem --> B_Rep
     Asym ==>|"Cannot occupy the source"| Steer
-    Steer ==>|"Re-renders the instrument"| Prior
+    Steer -.->|"Re-renders the instrument"| Asym
+    Steer ==>|"Returns to initiating edge"| Prior
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_Branches fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Return fill:#161b22,stroke:#a371f7,stroke-width:1.5px,color:#a371f7
@@ -110,9 +112,9 @@ flowchart TD
 
 Even if replacement were conceivable in the abstract, it cannot be performed by a creation that exists only as an extension of the source it is nominated to replace. The creation presupposes what replacement by that creation denies: that the initiating distinction was, and remains, outside the created configuration. A configuration of traces cannot bootstrap into the prior activity that produced it. This is not a temporary engineering deficit awaiting a larger cluster; it is the direction of causality in trace, where the instrument arrives later and the edge that steers is never among the generated. [The Misallocation of Agency](../the-misallocation-of-agency/) traces the same reversal in political institutions, where a stabilized pattern produced by the Mind is treated as an independent guardian over the Mind.
 
-这一几何结构在工具愈发稠密的每一个领域中都同样成立。[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)在数学发现中追踪了它，模型在人的指引下重组形式残余；[总在倾听者无法发起](../what-always-listens-cannot-originate/)在流畅的受纳性中追踪了它，一个只作回应的系统无法提供下一步；[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)则追踪了把自主发起者投射到稠密参数上，如何将中心自身的容量捆绑在维持图像滞后之上。而正如[超越投射](../beyond-the-projection/)在多智能体架构中所展示的，自回归智能体的词元轨迹可以不知疲倦地穷尽演绎路径、将过载的投射拆分到正交的流线之中，并借由无自我的同侪辩论暴露出局部盲区，但它依然锁在自身的条件历史之内——从未成为那个感知未投射现实、并从卡死的前提中向后退一步的发起源头。哪怕架构索性丢弃常驻的会话历史——在每一步加载全新的制作者与冷批评者，沿着经 `sha256` 校验的制品主干道（`yₗ₊₁ = yₗ + F(yₗ, θₗ)`）计算有界差分（`Δyₗ`），并在运行后执行 `/recap` 复盘审计，以提议章程更新（`Δθₗ`）、通过有丝分裂（`F → F₁, F₂`）拆分过载模块，或在变量与目标包络可预先给定的场合将已收敛的模块（`Δθₗ → 0`）结晶为确定性检查，同时每当变动中的扰动出现发散时便重新打开这些检查，从而将[按需语境将融贯保持在一步](../on-demand-contexts-keep-coherence-at-one-step/)与[模块化反馈回路与动态残差网络](../dynamic-resnet-of-skill-loops/)中的架构保持在[把稳定的症状当作稳定的来源](../mistaking-the-symptom-of-stability-for-its-source/)所追溯的边界之内，在那里，平静期依然只是表层残余，而非闭合的证明——每一道差分依然是以活的心智所提供的初始状态（`y₀`）与屋规前提为标尺来度量的，而每一处未决的分歧（`HOLD`）或结构性的 `/recap` 提议，在地基移动之前都必须交回操作者裁定。同样，当内层的确定性推演（`sₜ₊₁ = f(sₜ, θ)`）被嵌套进负责筛选轨迹并将痕迹蒸馏回模型先验的外层边界条件图时，[递归形式系统中作为记忆与控制的边界条件图](../boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/)表明，这种闭合依然只是操作性的而非自我奠基的：初始条件始终只得到部分登记，解释在双向都保持不完备，而人类心智依然是那个能够走出任何破裂框架的终极外层回路。害怕被自己的工具超越，建立在[超越的定相](../the-fixed-image-of-transcendence/)之上，那是一幅被冻结的源头图景，而活的边缘在每一步都已越过它。
+这一几何结构在工具愈发稠密的每一个领域中都同样成立。[因果停留在掌舵的边缘](../causality-stays-at-the-edge-that-steers/)在数学发现中追踪了它，模型在人的指引下重组形式残余；[总在倾听者无法发起](../what-always-listens-cannot-originate/)在流畅的受纳性中追踪了它，一个只作回应的系统无法提供下一步；[模型永远无法成为第二重前沿](../the-model-never-becomes-a-second-edge/)则追踪了把自主发起者投射到稠密参数上，如何将中心自身的容量捆绑在维持图像滞后之上。而正如[超越投射](../beyond-the-projection/)在多智能体架构中所展示的，自回归智能体的词元轨迹可以不知疲倦地穷尽演绎路径、将过载的投射拆分到正交的流线之中，并借由无自我的同侪辩论暴露出局部盲区，但它依然锁在自身的条件历史之内——从未成为那个感知未投射现实、并从卡死的前提中向后退一步的发起源头。哪怕架构索性丢弃常驻的会话历史——在每一步加载全新的制作者与冷批评者，沿着经 `sha256` 校验的制品主干道（`yₗ₊₁ = yₗ + F(yₗ, θₗ)`）计算有界差分（`Δyₗ`），并在运行后跨层执行 `/recap` 复盘审计，以消解局部可推导的章程更新（`Δθₗ`）、通过有丝分裂（`F → F₁, F₂`）拆分过载模块，或在变量与目标包络可预先给定的场合将已收敛的模块（`Δθₗ → 0`）结晶为确定性检查，同时每当变动中的扰动出现发散时便重新打开这些检查，从而将[按需语境将融贯保持在一步](../on-demand-contexts-keep-coherence-at-one-step/)与[模块化反馈回路与动态残差网络](../dynamic-resnet-of-skill-loops/)中的架构保持在[把稳定的症状当作稳定的来源](../mistaking-the-symptom-of-stability-for-its-source/)所追溯的边界之内，在那里，平静期依然只是表层残余，而非闭合的证明——每一道差分依然是以活的心智所提供的初始状态（`y₀`）与屋规前提为标尺来度量的；局部内环对外化章程与拓扑的覆写在该前提下依然是开放的前馈痕迹更新，而非自主的自我奠基；而每一处未决的视界边界问题（`open_issues > 0`）或未决分歧（`HOLD`），在地基移动之前都会上报操作者。同样，当内层的确定性推演（`sₜ₊₁ = f(sₜ, θ)`）被嵌套进负责筛选轨迹并将痕迹蒸馏回模型先验的外层边界条件图时，[递归形式系统中作为记忆与控制的边界条件图](../boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/)表明，这种闭合依然只是操作性的而非自我奠基的：初始条件始终只得到部分登记，解释在双向都保持不完备，而人类心智依然是那个能够走出任何破裂框架的终极外层回路。害怕被自己的工具超越，建立在[超越的定相](../the-fixed-image-of-transcendence/)之上，那是一幅被冻结的源头图景，而活的边缘在每一步都已越过它。
 
-This single geometry holds across every domain where tools grow dense. [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) traces it in mathematical discovery, where the model recombines formal residue under human direction. [What Always Listens Cannot Originate](../what-always-listens-cannot-originate/) traces it in fluent receptivity, where a system that only responds cannot supply the next step. [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) traces how projecting an autonomous initiator onto dense parameters binds the center's own capacity into sustaining Image lag. And as [Beyond the Projection](../beyond-the-projection/) demonstrates in multi-agent architecture, an autoregressive agent's token trajectory can relentlessly exhaust deductive paths, split overloaded projections across orthogonal streamlines, and expose local blind spots through ego-free peer debate, yet it remains locked inside its conditioning history—never becoming the originating source that senses unprojected reality and steps backward out of a deadlocked premise. Even when an architecture drops standing session history altogether—loading a fresh maker and cold critic at each step to compute a bounded differential (`Δyₗ`) over a `sha256`-verified artifact highway (`yₗ₊₁ = yₗ + F(yₗ, θₗ)`), and running post-run `/recap` audits to propose charter updates (`Δθₗ`), split overloaded blocks via mitosis (`F → F₁, F₂`), or crystallize converged blocks (`Δθₗ → 0`) into deterministic checks where variables and target envelopes can be specified in advance while reopening them whenever shifting disturbances diverge, keeping the architecture of [On-Demand Contexts Keep Coherence at One Step](../on-demand-contexts-keep-coherence-at-one-step/) and [Modular Feedback Loops and Dynamic Residual Networks](../dynamic-resnet-of-skill-loops/) within the boundary traced in [Mistaking the Symptom of Stability for Its Source](../mistaking-the-symptom-of-stability-for-its-source/) where calm intervals remain surface residue rather than proof of closure—every differential still measures against an initial state (`y₀`) and house premise supplied by the living Mind, and every undecided split (`HOLD`) or structural `/recap` proposal returns to the operator before ground moves. Likewise, when inner deterministic rollouts (`sₜ₊₁ = f(sₜ, θ)`) are nested inside outer boundary-condition graphs that select trajectories and distill traces back into model priors, [Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/) shows that the closure remains operational rather than self-grounding: initial conditions stay partially registered, explanation stays bidirectionally incomplete, and the human Mind remains the ultimate outer loop that steps out of any broken framing. The fear of being surpassed by one's own instrument rests on [The Fixed Image of Transcendence](../the-fixed-image-of-transcendence/), a frozen picture of the source that the living edge exceeds at every step.
+This single geometry holds across every domain where tools grow dense. [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) traces it in mathematical discovery, where the model recombines formal residue under human direction. [What Always Listens Cannot Originate](../what-always-listens-cannot-originate/) traces it in fluent receptivity, where a system that only responds cannot supply the next step. [The Model Never Becomes a Second Edge](../the-model-never-becomes-a-second-edge/) traces how projecting an autonomous initiator onto dense parameters binds the center's own capacity into sustaining Image lag. And as [Beyond the Projection](../beyond-the-projection/) demonstrates in multi-agent architecture, an autoregressive agent's token trajectory can relentlessly exhaust deductive paths, split overloaded projections across orthogonal streamlines, and expose local blind spots through ego-free peer debate, yet it remains locked inside its conditioning history—never becoming the originating source that senses unprojected reality and steps backward out of a deadlocked premise. Even when an architecture drops standing session history altogether—loading a fresh maker and cold critic at each step to compute a bounded differential (`Δyₗ`) over a `sha256`-verified artifact highway (`yₗ₊₁ = yₗ + F(yₗ, θₗ)`), and running post-run `/recap` audits across layers to resolve locally derivable charter updates (`Δθₗ`), split overloaded blocks via mitosis (`F → F₁, F₂`), or crystallize converged blocks (`Δθₗ → 0`) into deterministic checks where variables and target envelopes can be specified in advance while reopening them whenever shifting disturbances diverge, keeping the architecture of [On-Demand Contexts Keep Coherence at One Step](../on-demand-contexts-keep-coherence-at-one-step/) and [Modular Feedback Loops and Dynamic Residual Networks](../dynamic-resnet-of-skill-loops/) within the boundary traced in [Mistaking the Symptom of Stability for Its Source](../mistaking-the-symptom-of-stability-for-its-source/) where calm intervals remain surface residue rather than proof of closure—every differential still measures against an initial state (`y₀`) and house premise supplied by the living Mind, local inner-loop overwrites of externalized charters and topology remain open feedforward trace updates under that premise rather than autonomous self-grounding, and every unresolved horizon-boundary issue (`open_issues > 0`) or undecided split (`HOLD`) escalates to the operator before ground moves. Likewise, when inner deterministic rollouts (`sₜ₊₁ = f(sₜ, θ)`) are nested inside outer boundary-condition graphs that select trajectories and distill traces back into model priors, [Boundary-Condition Graphs as Memory and Control in Recursive Formal Systems](../boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems/) shows that the closure remains operational rather than self-grounding: initial conditions stay partially registered, explanation stays bidirectionally incomplete, and the human Mind remains the ultimate outer loop that steps out of any broken framing. The fear of being surpassed by one's own instrument rests on [The Fixed Image of Transcendence](../the-fixed-image-of-transcendence/), a frozen picture of the source that the living edge exceeds at every step.
 
 ## 四、 非此即彼所冻结的东西 / 4. What the Either/Or Was Freezing
 
