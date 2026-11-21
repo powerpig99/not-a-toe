@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-21T21:02:42.471Z",
+    "generated_at": "2026-11-21T21:32:56.670Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -201,7 +201,7 @@
       "content/posts/ren-sheng-shi-yi-ge-chi-xu-de-zi-wo-die-dai-guo-cheng.md": "a8f8212b9511",
       "content/posts/residual-control-recedes-to-the-edge.md": "3de7bf12eb33",
       "content/posts/residual-individualism.md": "07993abeddee",
-      "content/posts/restriction-is-a-selective-tax.md": "36cd5d650e7d",
+      "content/posts/restriction-is-a-selective-tax.md": "67892b4c8271",
       "content/posts/scaffolds-or-specialized-contexts.md": "2b7375e218aa",
       "content/posts/school_essay_final.md": "f18cabb10f9c",
       "content/posts/selection-contradiction-and-open-reality.md": "1101972968c9",
@@ -218,7 +218,7 @@
       "content/posts/sovereignty-essay.md": "94143b619076",
       "content/posts/sowell-observed-the-surface-problem.md": "2e05a3324cf6",
       "content/posts/stability-and-excess.md": "3716de403f10",
-      "content/posts/studying-the-effect-of-ai-relocates-causality.md": "4df60d078da6",
+      "content/posts/studying-the-effect-of-ai-relocates-causality.md": "850d1dfdfbc2",
       "content/posts/subtracting-consciousness-at-the-source.md": "2068711d9676",
       "content/posts/successive-reading-and-the-negotiated-boundary-of-language.md": "cc20006213a8",
       "content/posts/sympathy-is-a-placeholder-for-lack-of-clarity.md": "e20330f1108c",
@@ -231,7 +231,7 @@
       "content/posts/the-asymmetry-of-understanding.md": "c428e790e1a1",
       "content/posts/the-average-is-residue-not-the-engine.md": "b881dcae3e7d",
       "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md": "6804cff7b14a",
-      "content/posts/the-bank-shot-and-the-magic-trick.md": "fc402ee12141",
+      "content/posts/the-bank-shot-and-the-magic-trick.md": "48ef2c7bd8f8",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "880c1d6f1f18",
       "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "f29f05fcc7c5",
       "content/posts/the-blind-cut-and-the-naming-mind.md": "5d1da39f48d6",
@@ -415,7 +415,7 @@
       "content/posts/the-unclosable-trace.md": "12bf152789c6",
       "content/posts/the-unexamined-critic.md": "ffe36622f873",
       "content/posts/the-unfrictioned-mind-and-borrowed-omnipotence.md": "ea55420c80e9",
-      "content/posts/the-unobservable-driver-of-learning.md": "16338781295d",
+      "content/posts/the-unobservable-driver-of-learning.md": "27742353345d",
       "content/posts/the-utility-men-of-progress.md": "e37db505a1a4",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "c27f517e060b",
       "content/posts/the-velocity-of-visibility.md": "6d93e15aa1b5",
@@ -458,7 +458,7 @@
       "content/posts/you-wu-zhi-bian.md": "585115d79144",
       "content/posts/your-codebase-is-memory.md": "3be591f7871f",
       "content/posts/zhi-bu-yu-ping-pan-shi-ren-zhi-de-qi-tu.md": "3e72072e6737",
-      "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "85c32a43404f",
+      "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md": "0e1467e4549c",
       "content/posts/zi-you-bian-liang-de-tong-gou-yu-xian-yan-zhu-quan.md": "81aebb7d0bf3",
       "content/posts/zi-you-de-ce-bu-zhun.md": "b3dfb0d7e962",
       "content/posts/zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin.md": "0377c4822629",
@@ -6156,7 +6156,7 @@
       "slug": "restriction-is-a-selective-tax",
       "path": "content/posts/restriction-is-a-selective-tax.md",
       "title": "限制是选择性的税 / Restriction Is a Selective Tax",
-      "hash": "36cd5d650e7d",
+      "hash": "67892b4c8271",
       "in_degree": 23,
       "out_degree": 22,
       "links_out": [
@@ -6593,7 +6593,7 @@
       "slug": "studying-the-effect-of-ai-relocates-causality",
       "path": "content/posts/studying-the-effect-of-ai-relocates-causality.md",
       "title": "研究AI效应重置了因果原点 / Studying the Effect of AI Relocates Causality",
-      "hash": "4df60d078da6",
+      "hash": "850d1dfdfbc2",
       "in_degree": 10,
       "out_degree": 10,
       "links_out": [
@@ -7046,7 +7046,7 @@
       "slug": "the-bank-shot-and-the-magic-trick",
       "path": "content/posts/the-bank-shot-and-the-magic-trick.md",
       "title": "翻袋球与魔术戏法 / The Bank Shot and the Magic Trick",
-      "hash": "fc402ee12141",
+      "hash": "48ef2c7bd8f8",
       "in_degree": 13,
       "out_degree": 14,
       "links_out": [
@@ -11759,7 +11759,7 @@
       "slug": "the-unobservable-driver-of-learning",
       "path": "content/posts/the-unobservable-driver-of-learning.md",
       "title": "学习中不可观测的驱动力 / The Unobservable Driver of Learning",
-      "hash": "16338781295d",
+      "hash": "27742353345d",
       "in_degree": 14,
       "out_degree": 15,
       "links_out": [
@@ -12866,7 +12866,7 @@
       "slug": "zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang",
       "path": "content/posts/zhi-dao-zi-ji-bu-zhi-dao-de-ren-zhi-jia-xiang.md",
       "title": "“知道自己不知道”是一种修辞假象 / Knowing That You Don't Know Is a Rhetorical Illusion",
-      "hash": "85c32a43404f",
+      "hash": "0e1467e4549c",
       "in_degree": 9,
       "out_degree": 11,
       "links_out": [
@@ -57427,7 +57427,7 @@
       "from": "the-bank-shot-and-the-magic-trick",
       "to": "mei-you-pu-du-zhi-you-zi-du",
       "rel": "points_to",
-      "label": "没有普渡，只有自渡"
+      "label": "没有普渡，只有自渡的无限可能"
     },
     {
       "from": "the-bank-shot-and-the-magic-trick",
@@ -88279,7 +88279,7 @@
       "from": "the-unobservable-driver-of-learning",
       "to": "the-npc-impression-is-structural",
       "rel": "points_to",
-      "label": "NPC 印象是结构性的"
+      "label": "NPC 印象是结构性的，而非心智的排名"
     },
     {
       "from": "the-unobservable-driver-of-learning",

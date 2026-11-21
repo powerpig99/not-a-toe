@@ -12,7 +12,7 @@ A growing body of randomized trials and field experiments has examined what happ
 
 The data themselves are revealing. They make visible a consistent pattern of short-term assistance followed by thinner independent performance once the tool is withdrawn. Because the studies were conducted under a shared premise, they generate the conclusion that premise already contained. Both the experimental designs and the popular interpretation rest on the same allocation: the AI itself is the causal agent that either helps or harms learning. Access is treated as the independent variable and test performance as the dependent variable. The circulating test of the claim runs: if AI helped students learn, a randomly assigned group using it would score better on unaided tests. In the unrestricted condition, they do not.
 
-在这一共同的假定下，这些发现几乎不言自明。一旦相信做功的是工具，人就会减少自己的投入。认知负荷被卸下，挣扎被避开，独立表现所需的能力随之变薄。等到工具被撤走，分数就掉下来。数据揭示的不是这项技术某种出人意料的属性，而是把工具当作施动者的可预见的后果。
+在这一共同的假定下，这些发现几乎不言自明。一旦相信做功的是工具，人就会减少自己的投入。认知负荷被卸下，挣扎被避开，独立表现所需的能力随之变薄。等到工具被撤走，分数就掉下来。数据揭示的不是这项技术某种出人意料的属性，而是把工具当作施动者的可预见后果。
 
 Under that shared assumption the findings become almost self-explanatory. Once individuals believe the tool is what does the work, they reduce their own effort. Cognitive load is off-loaded, struggle is avoided, and the capacities required for independent performance thin. When the tool is later removed, scores fall. The data do not reveal a surprising property of the technology. They reveal the predictable consequence of treating a tool as an agent.
 
@@ -26,7 +26,7 @@ The premise itself is where the deeper misallocation sits. The studies do not is
 
 Conversely, when an individual uses the same tool as a lever, requesting explanations, testing understanding, and deliberately confronting difficulty before consulting it, the identical technology amplifies improvement. The difference is not located in the model weights. It is located in the relationship the person chooses to form with the instrument. [The Amplification Paradox](../amplification-paradox/) is that geometry as tools densify: the same instrument in different hands produces radically different outcomes because selection stays with the user. [Causality Stays at the Edge That Steers](../causality-stays-at-the-edge-that-steers/) is the same placement dressed as discovery: the model recombines residue under direction, and every initiating distinction remains the user's own act.
 
-同一项实验里的带护栏辅导工具，仍是这层几何，只是晚了一步。交互日志显示，不受限的使用者索要并照抄答案，而辅导工具的使用者则请求帮助，或自己尝试作答。论文把考试成绩的差别读作护栏的属性。然而正如[超越投射](../beyond-the-projection/)与[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，任何显式的提示词、护栏、外化记忆网格或智能体套具，都只是磁盘上的有限痕迹配置，它在固定规则内调度词元轨迹，却从不会成为那个自我区分并掌舵的中心；它不具有第一人称的递归，也无法在框架失效时替学生本人完成那一步向外的跳出。护栏塑造的是哪些对齐方式可用，就像调度器分派工作流一样，但它们既不替人写出下一步行动，也不替人承受理解得以生长的先于解释的摩擦。把解方放在设计得更好的工具上，是错把受约束的投射当成了第二个中心，把原先的前提作为政策重走了一遍。
+同一项实验里的带护栏辅导工具，仍是这层几何，只是晚了一步。交互日志显示，不受限的使用者索要并照抄答案，而辅导工具的使用者则请求帮助，或自己尝试作答。论文把考试成绩的差别读作护栏的属性。然而正如[超越投射](../beyond-the-projection/)与[你的代码库即是记忆](../your-codebase-is-memory/)所追溯的，任何显式的提示词、护栏、外化记忆网格或智能体套具，都只是磁盘上的有限痕迹配置，它在固定规则内调度词元轨迹，却从不会成为那个自我区分并掌舵的中心；它不具有第一人称的递归，也无法在框架失效时替学生本人完成那一步向外的跳出。护栏塑造的是哪些对齐方式可用，就像调度器分派工作流一样，但它们既不替人写出下一步行动，也不替人承受先于解释、让理解得以生长的摩擦。把解方放在设计得更好的工具上，是错把受约束的投射当成了第二个中心，把原先的前提作为政策重走了一遍。
 
 The guarded tutor in the same experiment is still this geometry, one step later. Interaction logs showed unrestricted users asking for and copying solutions, while tutor users asked for help or attempted answers themselves. The paper reads the exam difference as a property of guardrails. Yet as [Beyond the Projection](../beyond-the-projection/) and [Your Codebase Is Memory](../your-codebase-is-memory/) trace, any explicit prompt, guardrail, externalized memory lattice, or agent harness is a finite trace-configuration on disk that routes token trajectories within fixed rules without ever becoming the self-distinguishing center that steers; it holds no first-person recursion and cannot perform the student's own stepping-out when a frame breaks down. Guardrails pattern which alignments are available, just as a dispatcher routes a workflow, but they do not author the next act or absorb the pre-interpretive friction by which understanding grows. Locating the remedy in a better-designed tool mistakes a constrained projection for a second center and retraces the original premise as policy.
 
@@ -39,8 +39,10 @@ flowchart TD
     subgraph S_Edge["掌舵的人类边缘（发起姿态与统御）"]
         direction TB
         E_Posture["学生发起的抉择：面对问题所采取的姿态"]
-        E_Tool["AI 界面或带护栏辅导工具：有限投射与重组的残余"]
-        E_Posture --> E_Tool
+    end
+    subgraph S_Inst["场中的器具（有限投射与残余）"]
+        direction TB
+        E_Tool["AI 界面或带护栏辅导工具：有限投射，塑造对齐方式而不掌舵"]
     end
     subgraph S_Sub["姿态一：自我施加的替代"]
         direction TB
@@ -62,11 +64,14 @@ flowchart TD
         M2["把总体均值重新标作 AI 或护栏的效应"]
         M1 --> M2
     end
-    E_Tool ==> A1
-    E_Tool ==> B1
+    E_Posture ==>|"发起替代姿态"| A1
+    E_Posture ==>|"发起杠杆姿态"| B1
+    E_Tool -.->|"接收并放大姿态"| A1
+    E_Tool -.->|"接收并放大姿态"| B1
     A3 ==> M1
     B3 ==> M1
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Inst fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Sub fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Lev fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_RCT fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
@@ -89,8 +94,10 @@ flowchart TD
     subgraph S_Edge["Steering Human Edge (Initiating Posture & Orchestration)"]
         direction TB
         E_Posture["Student's Initiating Choice: Posture adopted toward the problem"]
-        E_Tool["AI Interface or Guardrailed Tutor: Finite projection & recombined residue"]
-        E_Posture --> E_Tool
+    end
+    subgraph S_Inst["Instrument in the Field (Finite Projection & Residue)"]
+        direction TB
+        E_Tool["AI Interface or Guardrailed Tutor: Finite projection patterning alignments without steering"]
     end
     subgraph S_Sub["Posture A: Self-Imposed Substitute"]
         direction TB
@@ -112,11 +119,14 @@ flowchart TD
         M2["Re-labels the aggregate mean as the effect of AI or guardrails"]
         M1 --> M2
     end
-    E_Tool ==> A1
-    E_Tool ==> B1
+    E_Posture ==>|"Initiates substitute posture"| A1
+    E_Posture ==>|"Initiates lever posture"| B1
+    E_Tool -.->|"Receives & magnifies posture"| A1
+    E_Tool -.->|"Receives & magnifies posture"| B1
     A3 ==> M1
     B3 ==> M1
     style S_Edge fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
+    style S_Inst fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style S_Sub fill:#161b22,stroke:#f85149,stroke-width:1.5px,color:#f85149
     style S_Lev fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
     style S_RCT fill:#161b22,stroke:#d29922,stroke-width:1.5px,color:#d29922
