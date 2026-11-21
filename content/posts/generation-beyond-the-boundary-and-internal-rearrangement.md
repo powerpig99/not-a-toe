@@ -134,7 +134,7 @@ flowchart TD
     subgraph S_Int["封闭尺度内的内部重排（相对于更大场域为零和或负和）"]
         direction TB
         R1["有界开放耗尽：内部贸易整合止步于外部前沿流动之前"]
-        R2["分利联盟锁定：规则捍卫已固化的索取权并压低方差"]
+        R2["分利联盟锁定：将资源从高生产率挪向低生产率，拖慢本地前沿"]
         R3["选择性退出与摩擦：建设者离去，内部洗牌丧失相对生成能力"]
         R1 --> R2 --> R3
     end
@@ -164,7 +164,7 @@ flowchart TD
     subgraph S_Int["Closed-Scale Internal Rearrangement (Zero / Negative Sum vs. Larger Field)"]
         direction TB
         R1["Bounded Opening Exhausted: Internal trade integration stops short of outer frontier mobility"]
-        R2["Distributional Coalition Lock: Rules defend stabilized claims and suppress variance"]
+        R2["Distributional Coalition Lock: Shifts resources from higher to lower productivity, slowing the local frontier"]
         R3["Selective Exit & Friction: Builders depart; internal reshuffling loses relative generative capacity"]
         R1 --> R2 --> R3
     end
@@ -184,9 +184,9 @@ flowchart TD
 
 East Asian catch-up history confirms the identical causal accounting across another continent. Japan, South Korea, and Taiwan generated rapid multi-decade gains while sheltering domestic firms inside the American security umbrella and state-directed credit precisely because subsidies stayed strictly conditioned on **export discipline**: industrial conglomerates had to clear relentless price and quality benchmarks in open global consumer markets rather than merely dividing protected domestic rents. Yet once Japan closed the catch-up gap by 1990 and preserved ministry-bank-*keiretsu* coordination, lifetime employment guarantees, and support for non-viable incumbents after its asset bubble burst, the very arrangements that stabilized catch-up locked capital and talent inside legacy shells while missing software and digital disruption. As [The Frontier Lifts the Floor](../the-frontier-lifts-the-floor/) demonstrates across two centuries of economic records, even the material floor of an internal distribution rises as the trailing edge of active frontier gradients diffusing outward, never by capping the source or reshuffling domestic shares inside a static envelope.
 
-贯穿所有这些实例的区辨，是因果记账，而非道德裁决：若无新的分化跨越边界进入，对既有索取权的重排便无法扩大总容量，并会在行政摩擦与排序损耗中耗散剩余。封闭或半封闭的重组能够在一时之内稳住围墙内部的方差，却无法相对于那些边界依然向高方差流入与无缓冲前沿竞争敞开的环境，生成净新增的能力。由此产生的并非相对于一个政体自身过往的停滞，也非境内价值归零，而是对照不断推进的全球边界时复利累积的相对滞后。在全球条件之下，任何停止从自身周界之外汲取分化的局部尺度，相对于敞开的场域而言，都在进行零和或负和的重排——这并非出于言辞裁定，而是因为被锁入无新输入之再分配的参与者会把余力耗在守护既有位置上，而生成新能力的建设者则迁往依然向差异敞开的地平线。
+贯穿所有这些实例的区辨，是因果记账，而非道德裁决：若无新的分化跨越边界进入，对既有索取权的重排便无法扩大总容量，并会在行政摩擦与排序损耗中耗散剩余。在封闭或半封闭周界之内登记为方差收窄的，并非以可控代价换来的生产性收益，而是为修辞慰藉付出的代价本身：将生产性资源从生产率更高的用途挪向生产率更低的用途，会拖慢本地前沿，造成进步更为均衡的印象——把本地前沿放慢误认作追赶上了这道前沿——而以短期内整体进步慢得多、长期内所有人的进步更慢为代价，同时相对于那些边界依然向高方差流入与无缓冲前沿竞争敞开的环境，并不生成净新增的能力。由此产生的并非相对于一个政体自身过往的停滞，也非境内价值归零，而是对照不断推进的全球边界时复利累积的相对滞后。在全球条件之下，任何停止从自身周界之外汲取分化的局部尺度，相对于敞开的场域而言，都在进行零和或负和的重排——这并非出于言辞裁定，而是因为被锁入无新输入之再分配的参与者会把余力耗在守护既有位置上，而生成新能力的建设者则迁往依然向差异敞开的地平线。
 
-The distinction across all these episodes is causal accounting, not moral verdict: without fresh differentiation entering across the boundary, rearranging existing claims cannot expand total capacity and dissipates surplus through administrative friction and sorting loss. Closed or semi-closed reorganization can stabilize variance inside its walls for a season, yet cannot generate net new capacity relative to environments whose boundaries stay open to high-variance inflows and unbuffered frontier competition. The result is not stagnation against a polity's own past, nor zero value inside its borders, but compounding relative lag measured against the advancing global boundary. Under global conditions, any localized scale that stops drawing differentiation from beyond its perimeter performs zero- or negative-sum rearrangement relative to open fields—not by verbal decree, but because participants locked into unreplenished reallocation spend slack guarding prior positions while the builders who generate new capacity relocate toward horizons still open to difference.
+The distinction across all these episodes is causal accounting, not moral verdict: without fresh differentiation entering across the boundary, rearranging existing claims cannot expand total capacity and dissipates surplus through administrative friction and sorting loss. What registers inside a closed or semi-closed perimeter as narrowed variance is not a productive benefit bought at a manageable cost, but the cost itself paid for rhetorical comfort: shifting productive resources from higher-productivity uses to lower-productivity uses slows the local frontier, creating an impression of more even progress—mistaking the slowing down of the local frontier for catching up with it—at the expense of much slower overall progress in the short term and slower progress for all in the long term, while generating no net new capacity relative to environments whose boundaries stay open to high-variance inflows and unbuffered frontier competition. The result is not stagnation against a polity's own past, nor zero value inside its borders, but compounding relative lag measured against the advancing global boundary. Under global conditions, any localized scale that stops drawing differentiation from beyond its perimeter performs zero- or negative-sum rearrangement relative to open fields—not by verbal decree, but because participants locked into unreplenished reallocation spend slack guarding prior positions while the builders who generate new capacity relocate toward horizons still open to difference.
 
 这本账本里的任何一笔，都不要求先等待大陆尺度的条约改革、集体共识或外部地缘格局变动才开始行动。正如[可延展的地平线](../the-extendable-horizon/)所确立的，正和的能动性是在寄存器任意坐标上皆敞开的取向，而非专属于国家元首或前沿都城的特权；正如[开放即一致](../openness-is-consistency/)所澄明的，一致性从不要求迫使一个有限的社会或制度结构去为仅仅继续着之物奠基。就在划出下一次区分的活的边缘上，每一个心智都直接分辨自己究竟把既有的安排——一项安全保障、一道监管周界、一份福利缓冲，或一纸制度资历——视作可供建构并超越的临时脚手架，还是视作他人理当供应的基线权利，并将下一次投入指向当下边界之外不设缓冲的接触，而非在封闭尺度之内重排既有份额。
 
