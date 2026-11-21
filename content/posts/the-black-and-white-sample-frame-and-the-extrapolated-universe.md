@@ -348,7 +348,7 @@ flowchart TD
 
 The practical use of science needs no denying. Relativity and quantum mechanics are like two-dimensional maps drawn with great accuracy. The Mercator projection stretches the poles to infinity and distorts the comparison of land areas, yet a navigator who sails by the angles on the map reaches the far shore, because the map keeps the relative relations that navigation needs. The boundary appears when it is forgotten that this is a map: pointing to the endlessly extended northern edge of the map and saying the end of the Earth is an infinitely wide wall of ice, or pointing to the origin stretched into a point and saying time was born in an infinitesimal pixel.
 
-宇宙一直是用心智在测量的。一切测量始于心智，留于心智，终于心智。被称为客观世界的“物理常数”的，是心智展开感知与理性的探查时，测量仪器自身的分辨率与带宽：光速是感知现实的最高刷新率，普朗克尺度是数字化的网格像素，引力场与时空的弯曲是把有限的视界投到全局背景时的几何补偿。[当电子开始思考](../when-electrons-think/)在电子的尺度上展示了同一张被定住的画面。
+宇宙一直是用心智在测量的。一切测量始于心智，留于心智，终于心智。被称为客观世界的“物理常数”的，是心智展开感知与理性的探查时，测量仪器自身的分辨率与带宽：光速是感知现实的最高刷新率，普朗克尺度是数字化的网格像素，引力场与时空的弯曲是把有限的视界投到全局背景时的几何补偿。[当电子开始思考](../when-electrons-think/)在电子的尺度上追溯了同一渲染速率与观测边界：慢速的宏观结构显得平稳，而结果只在接触时才被登记。
 
 ```mermaid
 flowchart TD
@@ -369,7 +369,7 @@ flowchart TD
     style Step fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-The universe has been measured with Mind all along. All measurement begins with Mind, stays with Mind and ends with Mind. What are called the "physical constants" of an objective world are the resolution and bandwidth of the measuring instrument itself as a Mind unfolds perception and rational inquiry: the speed of light is the highest refresh rate of perceiving reality, the Planck scale is the grid pixel of digitization, and the gravitational field and the curvature of spacetime are the geometric compensation for casting a finite horizon onto a global background. [When Electrons Think](../when-electrons-think/) shows the same picture held still at the scale of electrons.
+The universe has been measured with Mind all along. All measurement begins with Mind, stays with Mind and ends with Mind. What are called the "physical constants" of an objective world are the resolution and bandwidth of the measuring instrument itself as a Mind unfolds perception and rational inquiry: the speed of light is the highest refresh rate of perceiving reality, the Planck scale is the grid pixel of digitization, and the gravitational field and the curvature of spacetime are the geometric compensation for casting a finite horizon onto a global background. [When Electrons Think](../when-electrons-think/) traces that same rendering rate and observational boundary at the scale of electrons, where slow macroscopic structures appear steady while outcomes register only at contact.
 
 ```mermaid
 flowchart TD

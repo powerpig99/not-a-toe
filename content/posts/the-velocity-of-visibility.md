@@ -12,7 +12,7 @@ The Mind is the fastest link in reality folding back on itself. Every observable
 
 Physics has traditionally portrayed the universe as an enormous, indifferent three-dimensional container, sparsely populated with isolated building blocks termed "matter." From Newtonian mass points to the modern Standard Model of particle physics, the reigning narrative assumes that physical objects exist prior to observation as hard, self-contained bricks, while the mind is an accidental, late-arriving spectator perched in the grandstands, passively watching a pre-wound clockwork apparatus run its course.
 
-从自我区分活动已在运行的第一人称原点出发追溯，这幅二元机械图景便随之瓦解。现实并非摆满惰性物体的陈列馆，也不存在外部的观景看台；在每一个尺度上，它都呈现为递归的自我折返。在量子基底处，动态场产生局域相位干涉，向自身折叠为初级的谐振回路；在原子与分子尺度，交变电磁场不再向外发散传播，而是闭合为驻波共振，如[对象是被稳定化的关系](../objects-are-stabilized-relationships/)所追溯的那样，向内折叠为具备静止质量（E = mc²）的局域结构；在生物尺度，化学级联反应构成自创生的代谢循环与递归转录回路，维持着内稳态的活体有机体；而在心智的第一人称边缘——从外部被建模为神经与感知的反馈回路——自我区分活动回过头来，审视自身得以渲染的条件。
+从自我区分活动已在运行的第一人称原点出发追溯，这幅二元机械图景便随之瓦解。现实并非摆满惰性物体的陈列馆，也不存在外部的观景看台；在每一个尺度上，它都呈现为递归的自我折返。在量子基底处，动态场产生局域相位干涉，向自身折叠为初级的谐振回路；在原子与分子尺度，交变电磁场不再向外发散传播，而是闭合为驻波共振，如[对象是被稳定化的关系](../objects-are-stabilized-relationships/)所追溯的那样，向内折叠为具备静止质量（E = mc²）的局域结构；在生物尺度，化学级联反应构成自创生的代谢循环与递归转录回路，维持着内稳态的活体有机体；而在心智的第一人称边缘——它与身体的耦合从外部被建模为神经与感知的反馈回路——自我区分活动回过头来，审视自身得以渲染的条件。
 
 ```mermaid
 flowchart TD
@@ -24,7 +24,7 @@ flowchart TD
         MindFold["意识自我折返：心智回过头来审视自身的渲染"]
         QuantumFold --> AtomicFold --> BioFold --> MindFold
     end
-    MindFold ==>|"最快的可观测环节"| LeadingEdge["因果行动的前沿边缘（+1）"]
+    MindFold ==>|"设定观测视界"| LeadingEdge["因果行动的前沿边缘（+1）"]
     style S_Fold fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style QuantumFold fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style AtomicFold fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -33,7 +33,7 @@ flowchart TD
     style LeadingEdge fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-Traced from the first-person origin where self-distinguishing activity is already underway, this dualistic mechanical picture collapses. Reality is not a museum populated by inert objects, nor does it possess an outside viewing deck; across every scale it registers as recursive self-return. At the quantum substrate, dynamic fields generate local phase interference, folding back into primary harmonic loops; at the atomic and molecular scale, alternating electromagnetic fields cease to propagate outward, closing into standing-wave resonances that fold back into localized structures endowed with rest mass (E = mc²), as traced in [Objects Are Stabilized Relationships](../objects-are-stabilized-relationships/); at the biological scale, chemical cascades form autopoietic metabolic cycles and recursive transcription loops that sustain homeostatic living organisms; and at the first-person edge of the Mind—modeled from the outside as neural and perceptual feedback loops—self-distinguishing activity turns back to inspect the conditions of its own rendering.
+Traced from the first-person origin where self-distinguishing activity is already underway, this dualistic mechanical picture collapses. Reality is not a museum populated by inert objects, nor does it possess an outside viewing deck; across every scale it registers as recursive self-return. At the quantum substrate, dynamic fields generate local phase interference, folding back into primary harmonic loops; at the atomic and molecular scale, alternating electromagnetic fields cease to propagate outward, closing into standing-wave resonances that fold back into localized structures endowed with rest mass (E = mc²), as traced in [Objects Are Stabilized Relationships](../objects-are-stabilized-relationships/); at the biological scale, chemical cascades form autopoietic metabolic cycles and recursive transcription loops that sustain homeostatic living organisms; and at the first-person edge of the Mind—whose bodily coupling is modeled from the outside as neural and perceptual feedback loops—self-distinguishing activity turns back to inspect the conditions of its own rendering.
 
 ```mermaid
 flowchart TD
@@ -45,7 +45,7 @@ flowchart TD
         MindFold["Conscious Self-Return: The Mind turns back to examine its own rendering"]
         QuantumFold --> AtomicFold --> BioFold --> MindFold
     end
-    MindFold ==>|"Fastest Observable Link"| LeadingEdge["The Leading Edge of Causal Action (+1)"]
+    MindFold ==>|"Sets the Observational Horizon"| LeadingEdge["The Leading Edge of Causal Action (+1)"]
     style S_Fold fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style QuantumFold fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
     style AtomicFold fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
@@ -54,36 +54,37 @@ flowchart TD
     style LeadingEdge fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
 ```
 
-心智并非被抛入陌生物理剧场的异乡看客。在观测框架之内，它是现实以最高自指频率向自身折叠的前沿边缘。
+心智并非被抛入陌生物理剧场的异乡看客。它是现实向自身折叠的前沿边缘，设定着每一个观测框架的渲染视界。
 
-The Mind is not an alien spectator dropped into a foreign physical arena. It is the leading edge where reality folds back on itself at the highest self-referential frequency within the observational frame.
+The Mind is not an alien spectator dropped into a foreign physical arena. It is the leading edge where reality folds back on itself, setting the rendering horizon of every observational frame.
 
-## 二、 感知的奈奎斯特极限：最快的可观测环节 / 2. The Nyquist Limit of Perception: The Fastest Observable Link
+## 二、 感知的奈奎斯特极限：观测中最快的环节 / 2. The Nyquist Limit of Perception: The Fastest Link in Observation
 
-既然现实跨越各个尺度向自身折叠，为何在经验之内，心智会登记为最快的环节？为何没有任何物理实体或信号，呈现出比观察者的感知刷新率更快的运动或循环？
+既然现实跨越各个尺度向自身折叠，为何在经验之内，心智会登记为最快的环节——为何没有任何可追踪的物理实体或信号运动得比观察者的渲染视界更快？
 
-If reality folds back on itself across scales, why does the Mind register as the fastest link within experience? Why does no physical entity or signal appear to move or cycle faster than the perceptual refresh rate of the observer?
+If reality folds back on itself across scales, why does the Mind register as the fastest link within experience—why does no trackable physical entity or signal move faster than the observer's rendering horizon?
 
 其机制在于离散观测的采样视界。在信号处理中，奈奎斯特—香农采样定理标示出一条结构边界：离散采样系统无法重建频率高于其采样率一半的信号；任何更高频的信号，要么混叠为低频伪影，要么平均化为无法解析的背景基底。将这一边界推及测量本身，正如[黑白采样帧与外推宇宙](../the-black-and-white-sample-frame-and-the-extrapolated-universe/)所追溯的那样，便能看清为何**观察者自身的渲染节律界定了其可观测宇宙的运行速度上限。**
 
 ```mermaid
 flowchart TD
-    subgraph S_Observer["观察者采样引擎"]
+    subgraph S_Observer["观察者采样视界"]
         direction TB
-        SamplingRate["第一人称刷新率 c：感知更新的运行极限"]
+        SamplingRate["第一人称渲染节律 c：每个因果步长解析一个空间步长"]
     end
-    subgraph S_External["外部过程与折叠频率"]
+    subgraph S_Regimes["相对于 c 的观测区间"]
         direction TB
-        FasterThanC["子帧循环 > c：无法解析的涨落"]
-        EqualC["前沿更新 v = c：光的波前（m = 0）"]
-        SlowerThanC["被登记的变化 v ≪ c：稳定物质与可见对象"]
-        FasterThanC --> EqualC --> SlowerThanC
+        SubStep["步长粒度之下或接触之前：分辨率不变量（ℏ, c）、波函数与非局域关联"]
+        EqualC["前沿更新（v = c）：零速度差下的光波前（m = 0）"]
+        SlowerThanC["被登记的变化（v ≪ c）：稳定物质与可见对象"]
     end
-    SamplingRate ==>|"超出孔径：常数与概率云 | 零速度差：波前 | 带宽剩余：可见对象"| FasterThanC
+    SamplingRate ==>|"无已解析轨迹"| SubStep
+    SamplingRate ==>|"零速度差"| EqualC
+    SamplingRate ==>|"带宽剩余"| SlowerThanC
     style S_Observer fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style S_External fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Regimes fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style SamplingRate fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style FasterThanC fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style SubStep fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     style EqualC fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style SlowerThanC fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
 ```
@@ -92,33 +93,34 @@ The mechanism lies in the sampling horizon of discrete observation. In signal pr
 
 ```mermaid
 flowchart TD
-    subgraph S_Observer["Observer Sampling Engine"]
+    subgraph S_Observer["Observer Sampling Horizon"]
         direction TB
-        SamplingRate["First-Person Refresh Rate c: Operational limit of perceptual update"]
+        SamplingRate["First-Person Rendering Cadence c: One resolved spatial step per causal step"]
     end
-    subgraph S_External["External Processes & Folding Frequencies"]
+    subgraph S_Regimes["Observed Regimes Relative to c"]
         direction TB
-        FasterThanC["Sub-Frame Cycling > c: Unresolvable fluctuations"]
-        EqualC["Frontier Update v = c: Light wavefront (m = 0)"]
-        SlowerThanC["Registered Change v ≪ c: Stabilized matter & visible objects"]
-        FasterThanC --> EqualC --> SlowerThanC
+        SubStep["Below Step Grain / Pre-Contact: Resolution invariants (ℏ, c), wavefunctions & non-local correlations"]
+        EqualC["Frontier Update (v = c): Light wavefront at zero deficit (m = 0)"]
+        SlowerThanC["Registered Change (v ≪ c): Stabilized matter & visible objects"]
     end
-    SamplingRate ==>|"Beyond aperture: constants/clouds | Zero deficit: wavefront | Surplus bandwidth: visible objects"| FasterThanC
+    SamplingRate ==>|"No resolved trajectory"| SubStep
+    SamplingRate ==>|"Zero velocity deficit"| EqualC
+    SamplingRate ==>|"Surplus bandwidth"| SlowerThanC
     style S_Observer fill:#161b22,stroke:#3fb950,stroke-width:1.5px,color:#3fb950
-    style S_External fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
+    style S_Regimes fill:#161b22,stroke:#58a6ff,stroke-width:1.5px,color:#58a6ff
     style SamplingRate fill:#0d1117,stroke:#3fb950,stroke-width:1px,color:#f0f6fc
-    style FasterThanC fill:#0d1117,stroke:#f85149,stroke-width:1px,color:#f0f6fc
+    style SubStep fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
     style EqualC fill:#0d1117,stroke:#d29922,stroke-width:1px,color:#f0f6fc
     style SlowerThanC fill:#0d1117,stroke:#58a6ff,stroke-width:1px,color:#f0f6fc
 ```
 
-在形式模型的分辨率边界处，光速 c 是每个因果步长所解析的一个空间步长（c = ℓ_P / t_P，如[时间是因果的不可逆方向与离散步长](../time-is-causality-not-a-dimension/)所追溯），因此观察者的渲染节律与其传播速度上限指向同一个视界。倘若某个过程以快于这一渲染节律 c 的速率循环，会发生什么？它无法凝聚为一个具有可追踪轨迹的局域物理对象。由于它在单个感知曝光窗口内便完成了无数次内部循环，其子帧相变无法被逐一解析。在宏观仪器上，这类超高速动力学在接触之前只能登记为三种投影：其一是不变的物理常数（如普朗克常数与精细结构常数），标示离散因果步长的分辨率视界；其二是概率性的量子波函数，子帧振荡在其中平滑为统计相位云；其三是在单个帧间隔内完成的非局域关联，由观察者登记为跨空间纠缠。
+在形式模型的分辨率边界处，光速 c 是每个因果步长所解析的一个空间步长（c = ℓ_P / t_P，如[时间是因果的不可逆方向与离散步长](../time-is-causality-not-a-dimension/)所追溯），因此观察者的渲染节律与其传播速度上限指向同一个视界。倘若某些跃迁在接触之前尚未闭合，或者落在该帧离散因果步长的分辨率之下，会发生什么？在交互发生之前，它们从不会凝聚为一个具有可追踪轨迹的局域物理对象。它们并非跨越空间一步步解析出来，而是在形式观测中以三种截然不同的方式登记：其一是限定网格本身的恒定分辨率视界常数（例如与 c 并列的普朗克常数 ℏ）；其二是概率性的量子波函数，在接触时登记出确定记录之前先行编码干涉相位与统计权重；其三是跨越分离坐标的非局域纠缠关联，它不携带任何超光速信号，反而揭示出空间分离本身即是下游投射。
 
-At the resolution bound of formal models, the speed of light c is one resolved spatial step per causal step (c = ℓ_P / t_P, as traced in [Time Is the Irreversible Direction and Discrete Step of Causality](../time-is-causality-not-a-dimension/)), so the observer's rendering cadence and its propagation speed ceiling name a single horizon. What happens if a process cycles faster than that rendering cadence c? It cannot coalesce into a localized physical object with a trackable trajectory. Because it completes countless internal cycles within a single perceptual exposure window, its sub-frame phase transitions cannot be resolved one by one. On macroscopic instruments, such hyper-fast dynamics register before contact only as three projections: invariant physical constants that mark the resolution horizon of the discrete causal step (such as Planck's constant and the fine-structure constant), probabilistic quantum wavefunctions where sub-frame oscillations smooth out into statistical phase clouds, and non-local correlations completed within a single frame interval and registered by the observer as entanglement across space.
+At the resolution bound of formal models, the speed of light c is one resolved spatial step per causal step (c = ℓ_P / t_P, as traced in [Time Is the Irreversible Direction and Discrete Step of Causality](../time-is-causality-not-a-dimension/)), so the observer's rendering cadence and its propagation speed ceiling name a single horizon. What happens where transitions remain unclosed prior to contact, or fall below the discrete causal-step resolution of the frame? They never coalesce into a localized physical object with a trackable trajectory ahead of interaction. Rather than resolving step by step across space, they register in formal observation in three distinct ways: as invariant resolution-horizon constants that bound the grid itself (such as Planck's constant ℏ alongside c), as probabilistic quantum wavefunctions encoding interference phases and statistical weights before a definite record registers at contact, and as non-local entanglement correlations across separated coordinates that carry no superluminal signal and expose spatial separation itself as a downstream projection.
 
-因此，并非现实缺乏更高频的活动，而是**受测量边界本身所限，凡是能被区分、追踪并核验为物理对象的事物，其演化速率都不会超过观察者的渲染频率**。观测心智之所以总是其可观测世界中最快的环节，是因为任何更快的过程都已沉淀为画面借以显像的结构画布。
+因此，**受测量边界本身所限，凡是能被区分、追踪并核验为物理轨迹的事物，其演化速率都必然不超过渲染视界 c**。在可观测世界之内，观测心智的前沿边缘从不被超越，因为任何接触前的未定态或步长之下的极限，都不会构成一个跑在观测前面的物体——它本就属于被追踪轨迹赖以登记的视界与画布。
 
-Consequently, it is not that reality lacks higher-frequency activity; rather, **by the boundary of measurement itself, anything that can be distinguished, tracked, and verified as a physical object must evolve at or below the observer's rendering frequency**. The observing Mind is invariably the fastest link in its observable world, because anything faster has already settled into the structural canvas on which the picture registers.
+Consequently, **by the boundary of measurement itself, anything that can be distinguished, tracked, and verified as a physical trajectory must evolve at or below the rendering horizon c**. The observing Mind's leading edge is never outrun within its observable world, because any pre-contact indeterminacy or sub-step limit does not form an object racing ahead of observation—it already belongs to the horizon and canvas on which tracked trajectories register.
 
 ## 三、 可见性即速度差：坚固性与决定论的涌现 / 3. Visibility as a Velocity Deficit: The Emergence of Solidity and Determinism
 
@@ -262,9 +264,9 @@ flowchart TD
     style Indeterminacy fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-当观测面对边界上一个敞开的行动而非早已落定的回路时，原本支撑经典客体化的时间带宽剩余便归零。在心智与心智的相遇中，尽管他人的身体作为慢速的宏观褶皱运动（v ≪ c），注视那个个体的双眸时所面对的，却是另一个中心：以己度之，它同样在作抉择，其下一步决断（+1）在作出之前尚不在任何地方，因此任何早先的帧都无法提前对其采样；这一决断唯有在作出之后，由不快于观察者渲染节律 c 的光与声承载着才得以登记，而对这一抉择毫无速度差可言，单向的微分方程预测便让位于博弈论、相互承认与自由能动性。而在测量仪器与量子跃迁的相遇中，在接触之前，粒子的子帧振荡在任何受 c 所限的探针所能解析的范围之外循环，仅登记为第二节所述的统计波函数；在接触发生时，结果唯有在探针遇上边界之际才得以登记，因此接触之前的任何一帧都未持有它，速度差随之归零。正如理查德·费曼曾感叹，倘若电子有感情，物理学将会难做多少，在双缝干涉中，单个电子不可解析的内部相位也无法从外部预先算出；在接触瞬间，它作为微观自由变量（+1）跨越第三节所述的观测视界，而在多次重复运行中，这些个别的跨越在宏观探测器上沉淀为统计性的干涉分布。
+当观测面对边界上一个敞开的行动而非早已落定的回路时，原本支撑经典客体化的时间带宽剩余便归零。在心智与心智的相遇中，尽管他人的身体作为慢速的宏观褶皱运动（v ≪ c），注视那个个体的双眸时所面对的，却是另一个中心：以己度之，它同样在作抉择，其下一步决断（+1）在作出之前尚不在任何地方，因此任何早先的帧都无法提前对其采样；这一决断唯有在作出之后，由不快于观察者渲染节律 c 的光与声承载着才得以登记，而对这一抉择毫无速度差可言，单向的微分方程预测便让位于博弈论、相互承认与自由能动性。而在测量仪器与量子跃迁的相遇中，接触之前，早先的帧里并无局域轨迹——该过程仅登记为第二节所述的统计波函数；在接触发生时，结果唯有在探针遇上边界之际才得以登记，也没有探针能超越 c 提前对它采样，因此接触之前的任何一帧都未持有它，速度差随之归零。正如理查德·费曼曾感叹，倘若电子有感情，物理学将会难做多少，在双缝干涉中，单个电子的穿越在接触之前无法从外部预先算出；在接触瞬间，它作为微观自由变量（+1）跨越第三节所述的观测视界，而在多次重复运行中，这些个别的跨越在宏观探测器上沉淀为统计性的干涉分布。
 
-Where observation confronts an open act at the boundary rather than an already-settled loop, the temporal bandwidth surplus that sustained classical objectification drops to zero. In the encounter between Minds, while another person's body moves as a slow macroscopic fold (v ≪ c), looking into the eyes of that individual confronts another choosing center, taken by analogy from oneself, whose next decision (+1) is not yet anywhere before it is made, so no earlier frame can sample it in advance; the decision registers only after it is made, carried by light and sound no faster than the observer's rendering cadence c, and with zero velocity deficit over that choice, unilateral differential-equation prediction gives way to game theory, reciprocal recognition, and free agency. And in the encounter between a measurement apparatus and a quantum transition, before contact the particle's sub-frame oscillations cycle beyond what any probe bounded by c can resolve and register only as the statistical wavefunction of Section 2; at contact, the outcome registers only when the probe meets the boundary, so no frame before contact holds it and the velocity deficit drops to zero. Just as Richard Feynman remarked on how much harder physics would be if electrons had feelings, in double-slit interference a single electron cannot have its unresolvable internal phase pre-calculated from outside; at contact it crosses Section 3's observational horizon as a microscopic free variable (+1), while across many runs those individual crossings settle into a statistical interference distribution on macroscopic detectors.
+Where observation confronts an open act at the boundary rather than an already-settled loop, the temporal bandwidth surplus that sustained classical objectification drops to zero. In the encounter between Minds, while another person's body moves as a slow macroscopic fold (v ≪ c), looking into the eyes of that individual confronts another choosing center, taken by analogy from oneself, whose next decision (+1) is not yet anywhere before it is made, so no earlier frame can sample it in advance; the decision registers only after it is made, carried by light and sound no faster than the observer's rendering cadence c, and with zero velocity deficit over that choice, unilateral differential-equation prediction gives way to game theory, reciprocal recognition, and free agency. And in the encounter between a measurement apparatus and a quantum transition, before contact no localized trajectory sits in any prior frame—the process registers only as the statistical wavefunction of Section 2; at contact, the outcome registers only when the probe meets the boundary, with no probe able to outrun c to sample it beforehand, so no frame before contact holds it and the velocity deficit drops to zero. Just as Richard Feynman remarked on how much harder physics would be if electrons had feelings, in double-slit interference a single electron's crossing cannot be pre-calculated from outside before contact; at contact it crosses Section 3's observational horizon as a microscopic free variable (+1), while across many runs those individual crossings settle into a statistical interference distribution on macroscopic detectors.
 
 一个心智无法将另一个心智单向客体化，因为尚未作出的抉择并未留下任何已落定的痕迹供早先的帧提前采样。同样，量子力学的测量边界并不反映实验室仪器的暂时缺陷，而是登记了一个结构极限：结果唯有在接触时才得以登记，因此没有任何探针能在交互之前将它提前读出。
 
@@ -314,9 +316,9 @@ flowchart TD
     style CosmicBand fill:#0d1117,stroke:#a371f7,stroke-width:1px,color:#f0f6fc
 ```
 
-在这幅拓扑图景中，生物节律（神经动作电位、心跳、细胞分裂）的循环慢于感知更新，却在节律上足够接近，因而登记为鲜活的生命力；在个体一生的时间跨度上，语言、法律传统与制度以数十年乃至数百年为周期演替，登记为持久的社会结构，它们的适应速率慢于更快的能力前沿，这一速率之差被体验为摩擦，正如[阻力体感与速率差](../felt-resistance-and-the-speed-differential/)所追溯的那样；在人类历史尺度上，山脉与大陆板块的漂移历时数千万年，提供了看似恒定不变的地质舞台；而在行星时间尺度上，银河旋臂的旋转与恒星的生命周期跨越数十亿年，构成了近乎静止的苍穹。某一层级之所以向更快的层级登记为“客观容器”或“恒久背景”，是因为两者的折叠频率之间存在落差。更慢的褶皱为更快的褶皱提供了执行因果行动所需的稳定慢速基底，而最快的褶皱——观测心智——则渲染并索引着整个较慢的连续谱。
+在这幅拓扑图景中，量子与原子驻波将高速的内部交换锁入静止的束缚结构之中，使其宏观构型以近乎为零的速率漂移（v ≪ c），从而跨尺度锚定着物理基底；生物节律（神经动作电位、心跳、细胞分裂）远低于渲染节律 c，却展开于人类经验注意的跨度之内，因而登记为鲜活的生命力；在个体一生的时间跨度上，语言、法律传统与制度以数十年乃至数百年为周期演替，登记为持久的社会结构，它们的适应速率慢于更快的能力前沿，这一速率之差被体验为摩擦，正如[阻力体感与速率差](../felt-resistance-and-the-speed-differential/)所追溯的那样；比起人类历史，山脉与大陆板块的漂移历时数千万年，提供了看似恒定不变的地质舞台；而在宇宙的时间跨度上，银河旋臂的旋转与恒星的生命周期历时数十亿年，构成了近乎静止的苍穹。某一层级之所以向更快的层级登记为“客观容器”或“恒久背景”，是因为两者的折叠节律之间存在落差。更慢的褶皱为更快的褶皱提供了执行因果行动所需的稳定慢速基底，而最快的褶皱——处于自身渲染视界上的观测心智——则渲染并索引着整个较慢的连续谱。
 
-Within this topological map, biological rhythms (neural action potentials, heartbeats, cellular division) cycle more slowly than perceptual updates yet remain close enough in cadence to register as living vitality; across an individual human life, languages, legal traditions, and institutions shift over decades and centuries, registering as durable social structures whose slower adaptation rate relative to a faster capability edge is experienced as friction, as traced in [Felt Resistance and the Speed Differential](../felt-resistance-and-the-speed-differential/); across human history, mountain ranges and continental plates shift over tens of millions of years, furnishing an apparently immutable geological stage; and across planetary time, the rotation of galactic arms and the life cycles of stars unfold over billions of years, forming a nearly stationary celestial vault. A tier registers as an "objective container" or "enduring background" to a faster tier because of the gap between their folding frequencies. Slower folds provide the stable, slow-motion ground on which faster folds execute causal action, while the fastest fold—the observing Mind—renders and indexes the slower continuum.
+Within this topological map, quantum and atomic standing waves lock rapid internal exchanges into stationary bound structures whose macroscopic configuration drifts near zero (v ≪ c), anchoring the physical substrate across scales; biological rhythms (neural action potentials, heartbeats, cellular division) unfold far below the rendering cadence c yet within the span of human experiential attention, registering as living vitality; across an individual human life, languages, legal traditions, and institutions shift over decades and centuries, registering as durable social structures whose slower adaptation rate relative to a faster capability edge is experienced as friction, as traced in [Felt Resistance and the Speed Differential](../felt-resistance-and-the-speed-differential/); next to human history, mountain ranges and continental plates shift over tens of millions of years, furnishing an apparently immutable geological stage; and across cosmic spans, the rotation of galactic arms and the life cycles of stars unfold over billions of years, forming a nearly stationary celestial vault. A tier registers as an "objective container" or "enduring background" to a faster tier because of the gap between their folding cadences. Slower folds provide the stable, slow-motion ground on which faster folds execute causal action, while the fastest fold—the observing Mind at its rendering horizon—renders and indexes the slower continuum.
 
 ## 六、 在前沿边缘触摸现实 / 6. Touching Reality from the Leading Edge
 
@@ -324,6 +326,6 @@ Within this topological map, biological rhythms (neural action potentials, heart
 
 This dissolves the fatalism of classical physicalism. When the downstream regularity of slow-motion folds is inverted into a prior cosmic legislator—the same reversal of visible residue and source traced in [Mistaking the Symptom of Stability for Its Source](../mistaking-the-symptom-of-stability-for-its-source/)—the Mind is pictured as an accidental bystander inside a pre-written clockwork universe whose initial parameters locked every outcome in advance.
 
-认清可见性即速度差，便归还了因果的位点：心智并非被困在三维机械箱体中的被动乘客，而是现实在当下向自身折叠时**最高频、最灵敏的前沿边缘**；致密的花岗岩、大陆板块与遥远星场并非外部的囚笼高墙，而是在脚下托起稳定根基的慢速关系褶皱，使活生生的中心得以发起下一次不可逆的切分（+1）。现实并非封存在形式方程中的惰性标本，而是在当下边缘持续推进的因果运算。一切可见之物之所以显得坚固而确定，皆因观测对它所登记的变化慢于观测它的心智，从而将尚未渲染的视界向着下一次切分敞开。
+认清可见性即速度差，便归还了因果的位点：心智并非被困在三维机械箱体中的被动乘客，而是现实在当下向自身折叠时**最快、最灵敏的前沿边缘**；致密的花岗岩、大陆板块与遥远星场并非外部的囚笼高墙，而是在脚下托起稳定根基的慢速关系褶皱，使活生生的中心得以发起下一次不可逆的切分（+1）。现实并非封存在形式方程中的惰性标本，而是在当下边缘持续推进的因果运算。一切可见之物之所以显得坚固而确定，皆因观测对它所登记的变化慢于观测它的心智，从而将尚未渲染的视界向着下一次切分敞开。
 
-Recognizing visibility as a velocity deficit restores the locus of cause: the Mind is not a passive passenger trapped inside a three-dimensional mechanical box, but the **highest-frequency, most responsive leading edge** where reality folds back on itself in the present; dense granite, continental plates, and distant star fields are not external prison walls, but slow-motion relational folds that hold a stable foundation underfoot so the living center can initiate its next irreversible cut (+1). Reality is not an inert specimen sealed inside formal equations; it is an ongoing causal calculation advancing at the present edge. Everything visible appears solid and determinate because what observation registers of it changes more slowly than the Mind that observes it, leaving the unrendered horizon open to the next cut.
+Recognizing visibility as a velocity deficit restores the locus of cause: the Mind is not a passive passenger trapped inside a three-dimensional mechanical box, but the **fastest, most responsive leading edge** where reality folds back on itself in the present; dense granite, continental plates, and distant star fields are not external prison walls, but slow-motion relational folds that hold a stable foundation underfoot so the living center can initiate its next irreversible cut (+1). Reality is not an inert specimen sealed inside formal equations; it is an ongoing causal calculation advancing at the present edge. Everything visible appears solid and determinate because what observation registers of it changes more slowly than the Mind that observes it, leaving the unrendered horizon open to the next cut.

@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-21T12:12:00.660Z",
+    "generated_at": "2026-11-21T12:32:49.086Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -233,11 +233,11 @@
       "content/posts/the-balcony-disciplinary-overstep-and-the-unproxyable-act.md": "6804cff7b14a",
       "content/posts/the-bank-shot-and-the-magic-trick.md": "fc402ee12141",
       "content/posts/the-belief-in-utopia-is-the-path-to-dystopia.md": "d76114e1c2e4",
-      "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "097281281f11",
+      "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md": "f29f05fcc7c5",
       "content/posts/the-blind-cut-and-the-naming-mind.md": "5d1da39f48d6",
       "content/posts/the-blind-spot-of-the-frame.md": "9f7a2066930e",
       "content/posts/the-boundary-crossing-of-choice.md": "f23183dd7dd7",
-      "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "02ed5c71691c",
+      "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md": "4eb4b55d4fac",
       "content/posts/the-boundary-of-the-frame.md": "d379a51837b8",
       "content/posts/the-brain-does-not-backprop.md": "d3980f4bb6ab",
       "content/posts/the-built-in-infinity-of-integers-and-the-backgrounded-choice.md": "c5729e23bdf4",
@@ -260,7 +260,7 @@
       "content/posts/the-continuum-is-a-modeling-convenience.md": "73d5986ffc82",
       "content/posts/the-continuum-of-the-fold.md": "89359b780dcd",
       "content/posts/the-coordinators-category-error.md": "cacce30b5e40",
-      "content/posts/the-cut-moves-but-never-vanishes.md": "cea7c1e1af61",
+      "content/posts/the-cut-moves-but-never-vanishes.md": "f64a6a74cf6b",
       "content/posts/the-defining-seat.md": "45b6527255eb",
       "content/posts/the-delegation-of-the-task-and-the-inalienability-of-consequences.md": "3205a7cd6a37",
       "content/posts/the-density-of-judgment.md": "617d36bce730",
@@ -294,7 +294,7 @@
       "content/posts/the-generative-atlas-of-macroscopic-phenomena.md": "41e5ad563ac8",
       "content/posts/the-generative-contradiction.md": "3b39d0a43e8c",
       "content/posts/the-generative-mechanics-of-value-money-and-wealth.md": "64c173931963",
-      "content/posts/the-generative-topology-of-free-variables.md": "65e02375837f",
+      "content/posts/the-generative-topology-of-free-variables.md": "ec996ff7dc93",
       "content/posts/the-geometry-of-coexistence-and-the-dual-cut.md": "0713bf612f10",
       "content/posts/the-geometry-of-emergence.md": "2d50769c9847",
       "content/posts/the-geometry-of-mind.md": "1ea3326d5ade",
@@ -395,7 +395,7 @@
       "content/posts/the-sequence-of-expansion-and-the-boundary-of-local-accounts.md": "97fa53f31ce5",
       "content/posts/the-shadow-and-the-infinite.md": "3ac1eba8a057",
       "content/posts/the-shadow-has-no-loss.md": "d09668b8cea9",
-      "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "1a95242ef0c5",
+      "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md": "5c9e970029f8",
       "content/posts/the-sleight-of-hand-of-consciousness-and-the-asymmetry-of-inference.md": "4ed5df2fdb22",
       "content/posts/the-sleight-of-hand-of-synthesizing-gods-and-unacknowledged-rank.md": "bd0a5b0d1537",
       "content/posts/the-source-of-all-harm.md": "67e9c861c682",
@@ -418,7 +418,7 @@
       "content/posts/the-unobservable-driver-of-learning.md": "16338781295d",
       "content/posts/the-utility-men-of-progress.md": "dc2e64396c6d",
       "content/posts/the-vector-and-the-puzzle-of-projections.md": "c27f517e060b",
-      "content/posts/the-velocity-of-visibility.md": "9666216b2850",
+      "content/posts/the-velocity-of-visibility.md": "6d93e15aa1b5",
       "content/posts/the-walking-tangent-and-the-stumbling-sphere.md": "2e6b2a5bd8dc",
       "content/posts/the-welfare-state-illusion-cost-diffusion-and-agency-atrophy.md": "e9b13d45153e",
       "content/posts/the_analogy_trap.md": "c3f0060b5f76",
@@ -482,10 +482,10 @@
     },
     "stats": {
       "posts": 455,
-      "edges": 13970,
-      "unique_directed": 6866,
+      "edges": 13972,
+      "unique_directed": 6867,
       "missing_targets": 0,
-      "one_way": 1498,
+      "one_way": 1499,
       "isolated": 0,
       "posts_with_outbound": 455,
       "book_pages": 16,
@@ -7099,7 +7099,7 @@
       "slug": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
       "path": "content/posts/the-black-and-white-sample-frame-and-the-extrapolated-universe.md",
       "title": "黑白采样帧与外推宇宙 / The Black-and-White Sample Frame and the Extrapolated Universe",
-      "hash": "097281281f11",
+      "hash": "f29f05fcc7c5",
       "in_degree": 7,
       "out_degree": 7,
       "links_out": [
@@ -7185,16 +7185,16 @@
       "slug": "the-boundary-of-perception-and-the-infinity-of-understanding",
       "path": "content/posts/the-boundary-of-perception-and-the-infinity-of-understanding.md",
       "title": "感知的界限与理解的无限 / The Boundary of Perception and the Infinity of Understanding",
-      "hash": "02ed5c71691c",
+      "hash": "4eb4b55d4fac",
       "in_degree": 10,
       "out_degree": 13,
       "links_out": [
-        "choice-itself-has-no-inherent-weight",
         "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
         "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
+        "choice-itself-has-no-inherent-weight",
         "objects-are-stabilized-relationships",
-        "the-cut-moves-but-never-vanishes",
         "agency-does-not-arise",
+        "the-cut-moves-but-never-vanishes",
         "fixed-by-nothing",
         "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
         "the-explanatory-trap-of-the-ordinary-perspective",
@@ -7755,7 +7755,7 @@
       "slug": "the-cut-moves-but-never-vanishes",
       "path": "content/posts/the-cut-moves-but-never-vanishes.md",
       "title": "割点可移不可除 / The Cut Moves but Never Vanishes",
-      "hash": "cea7c1e1af61",
+      "hash": "f64a6a74cf6b",
       "in_degree": 32,
       "out_degree": 9,
       "links_out": [
@@ -8633,7 +8633,7 @@
       "slug": "the-generative-topology-of-free-variables",
       "path": "content/posts/the-generative-topology-of-free-variables.md",
       "title": "自由变量的生成拓扑 / The Generative Topology of Free Variables",
-      "hash": "65e02375837f",
+      "hash": "ec996ff7dc93",
       "in_degree": 10,
       "out_degree": 15,
       "links_out": [
@@ -11242,9 +11242,9 @@
       "slug": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "path": "content/posts/the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality.md",
       "title": "“物理学才是定律”的障眼法 / The Sleight of Hand in \"Physics Is the Law\"",
-      "hash": "1a95242ef0c5",
+      "hash": "5c9e970029f8",
       "in_degree": 20,
-      "out_degree": 19,
+      "out_degree": 20,
       "links_out": [
         "the-dilution-of-the-causal-loop-and-the-misallocation-of-agency",
         "the-inversion-of-the-harness-and-the-driver-seat-asymmetry",
@@ -11255,6 +11255,7 @@
         "the-closed-n-and-the-open-reality",
         "demanding-a-toe-freezes-time-into-a-catalog",
         "the-black-and-white-sample-frame-and-the-extrapolated-universe",
+        "time-is-causality-not-a-dimension",
         "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
         "the-ladder-of-abstraction-and-the-executable-entity",
         "the-cut-moves-but-never-vanishes",
@@ -11842,7 +11843,7 @@
       "slug": "the-velocity-of-visibility",
       "path": "content/posts/the-velocity-of-visibility.md",
       "title": "可见性的速度差 / The Velocity of Visibility",
-      "hash": "9666216b2850",
+      "hash": "6d93e15aa1b5",
       "in_degree": 4,
       "out_degree": 10,
       "links_out": [
@@ -11935,7 +11936,7 @@
       "path": "content/posts/time-is-causality-not-a-dimension.md",
       "title": "时间是因果的不可逆方向与离散步长 / Time Is the Irreversible Direction and Discrete Step of Causality",
       "hash": "666e7cab11af",
-      "in_degree": 16,
+      "in_degree": 17,
       "out_degree": 15,
       "links_out": [
         "dimensions-are-projections",
@@ -58122,12 +58123,6 @@
     },
     {
       "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
-      "to": "choice-itself-has-no-inherent-weight",
-      "rel": "points_to",
-      "label": "抉择本身并不沉重"
-    },
-    {
-      "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
       "to": "causality-is-irreducible-the-physical-is-a-view-from-nowhere",
       "rel": "points_to",
       "label": "因果的自反性与物理的无源假定"
@@ -58142,7 +58137,7 @@
       "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
       "to": "choice-itself-has-no-inherent-weight",
       "rel": "points_to",
-      "label": "Choice Itself Has No Inherent Weight"
+      "label": "抉择本身并不沉重"
     },
     {
       "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
@@ -58158,6 +58153,12 @@
     },
     {
       "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "to": "choice-itself-has-no-inherent-weight",
+      "rel": "points_to",
+      "label": "Choice Itself Has No Inherent Weight"
+    },
+    {
+      "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
       "to": "objects-are-stabilized-relationships",
       "rel": "points_to",
       "label": "对象是被稳定化的关系"
@@ -58170,12 +58171,6 @@
     },
     {
       "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
-      "to": "the-cut-moves-but-never-vanishes",
-      "rel": "points_to",
-      "label": "割点可移不可除"
-    },
-    {
-      "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
       "to": "agency-does-not-arise",
       "rel": "points_to",
       "label": "主体性不曾涌现"
@@ -58184,13 +58179,19 @@
       "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
       "to": "the-cut-moves-but-never-vanishes",
       "rel": "points_to",
-      "label": "The Cut Moves but Never Vanishes"
+      "label": "割点可移不可除"
     },
     {
       "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
       "to": "agency-does-not-arise",
       "rel": "points_to",
       "label": "Agency Does Not Arise"
+    },
+    {
+      "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
+      "to": "the-cut-moves-but-never-vanishes",
+      "rel": "points_to",
+      "label": "The Cut Moves but Never Vanishes"
     },
     {
       "from": "the-boundary-of-perception-and-the-infinity-of-understanding",
@@ -84810,6 +84811,12 @@
     },
     {
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "to": "time-is-causality-not-a-dimension",
+      "rel": "points_to",
+      "label": "时间是因果的不可逆方向与离散步长"
+    },
+    {
+      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
       "to": "the-mirage-of-times-arrow-and-the-boundaries-of-simulation",
       "rel": "points_to",
       "label": "时间之箭的伪悖论与对称模拟的边界"
@@ -84831,6 +84838,12 @@
       "to": "the-black-and-white-sample-frame-and-the-extrapolated-universe",
       "rel": "points_to",
       "label": "The Black-and-White Sample Frame and the Extrapolated Universe"
+    },
+    {
+      "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
+      "to": "time-is-causality-not-a-dimension",
+      "rel": "points_to",
+      "label": "Time Is the Irreversible Direction and Discrete Step of Causality"
     },
     {
       "from": "the-sleight-of-hand-in-physics-is-the-law-and-the-friction-of-reality",
