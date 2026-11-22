@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-22T15:57:25.703Z",
+    "generated_at": "2026-11-22T17:58:15.054Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -382,6 +382,7 @@
       "content/posts/the-reflexive-dilemma-of-unique-insight.md": "d836ec0d3431",
       "content/posts/the-residue-and-the-free-variable.md": "2d2ce0360330",
       "content/posts/the-residue-of-exercise-and-the-stabilization-of-politics.md": "f05119489494",
+      "content/posts/the-residue-of-progress-and-the-reactivity-of-resistance.md": "0f8da7de5cb1",
       "content/posts/the-residue-of-sorting-and-the-non-equivalence-of-interpretations.md": "af7bc733c8fe",
       "content/posts/the-returning-signal-and-its-claim.md": "973ad49b2d21",
       "content/posts/the-reversal-from-defensible-claim-to-dogma.md": "eac491539bc9",
@@ -470,7 +471,7 @@
       "content/book/causality.md": "2cf0bbb6cb82",
       "content/book/consciousness.md": "5fd937c16807",
       "content/book/economics.md": "e8fb281d2646",
-      "content/book/index-of-premises.md": "a1ca40a2ccc1",
+      "content/book/index-of-premises.md": "cf0a09e59615",
       "content/book/intelligence.md": "aff9cd828dad",
       "content/book/knowledge-and-learning.md": "da0efd75ca7e",
       "content/book/life-and-statistics.md": "fdd0ff7d143a",
@@ -482,19 +483,19 @@
       "content/book/preface.md": "09791dd76ace",
       "content/book/state-and-collective.md": "a1b57a68703f",
       "content/book/success-and-the-self.md": "86fbf2c1128a",
-      "content/book/tools-and-progress.md": "e534b5466f36"
+      "content/book/tools-and-progress.md": "dad2507ca407"
     },
     "stats": {
-      "posts": 459,
-      "edges": 14112,
-      "unique_directed": 6937,
+      "posts": 460,
+      "edges": 14140,
+      "unique_directed": 6951,
       "missing_targets": 0,
-      "one_way": 1561,
+      "one_way": 1575,
       "isolated": 0,
-      "posts_with_outbound": 459,
+      "posts_with_outbound": 460,
       "book_pages": 16,
-      "book_edges": 1568,
-      "posts_reached_by_book": 459
+      "book_edges": 1576,
+      "posts_reached_by_book": 460
     }
   },
   "hubs_in": [
@@ -508,7 +509,7 @@
     },
     {
       "slug": "individual-choices-as-the-only-causal-levers",
-      "in_degree": 113
+      "in_degree": 114
     },
     {
       "slug": "openness-is-consistency",
@@ -520,15 +521,15 @@
     },
     {
       "slug": "the-scaffolding-we-forget",
-      "in_degree": 80
+      "in_degree": 81
+    },
+    {
+      "slug": "no-system-can-be-kept-closed",
+      "in_degree": 74
     },
     {
       "slug": "the-model-never-becomes-a-second-edge",
       "in_degree": 74
-    },
-    {
-      "slug": "no-system-can-be-kept-closed",
-      "in_degree": 73
     },
     {
       "slug": "ownership-and-self-worthiness",
@@ -2439,7 +2440,7 @@
       "path": "content/posts/deceleration-is-the-drag-felt-when-accelerating.md",
       "title": "减速是加速时感受到的阻力 / Deceleration Is the Drag Felt When Accelerating",
       "hash": "1629b8d67b12",
-      "in_degree": 9,
+      "in_degree": 10,
       "out_degree": 9,
       "links_out": [
         "symptom-and-cause-in-the-narratives-of-progress",
@@ -2506,7 +2507,7 @@
       "path": "content/posts/differentiation-and-the-appearance-of-negation.md",
       "title": "区分活动与否定的显现 / Differentiation and the Appearance of Negation",
       "hash": "0a7d8d3c7a5a",
-      "in_degree": 7,
+      "in_degree": 8,
       "out_degree": 18,
       "links_out": [
         "observation-distinguishing-activity-and-the-open-ground-of-mind",
@@ -3145,7 +3146,7 @@
       "path": "content/posts/felt-resistance-and-the-speed-differential.md",
       "title": "阻力体感与速率差 / Felt Resistance and the Speed Differential",
       "hash": "a65ccd0b204a",
-      "in_degree": 12,
+      "in_degree": 13,
       "out_degree": 9,
       "links_out": [
         "pessimism-is-the-shadow-of-optimism",
@@ -3358,7 +3359,7 @@
       "path": "content/posts/generation-beyond-the-boundary-and-internal-rearrangement.md",
       "title": "边界之外的生成与内部重排 / Generation Beyond the Boundary and Internal Rearrangement",
       "hash": "b3038ee28ac4",
-      "in_degree": 1,
+      "in_degree": 2,
       "out_degree": 13,
       "links_out": [
         "the-scaffolding-we-forget",
@@ -3836,7 +3837,7 @@
       "path": "content/posts/individual-choices-as-the-only-causal-levers.md",
       "title": "个体抉择是唯一的因果杠杆 / Individual Choices as the Only Causal Levers",
       "hash": "915a3572d822",
-      "in_degree": 113,
+      "in_degree": 114,
       "out_degree": 102,
       "links_out": [
         "the-homework-exam-inversion-registers-substitution",
@@ -4804,7 +4805,7 @@
       "path": "content/posts/no-system-can-be-kept-closed.md",
       "title": "没有系统能被保持封闭 / No System Can Be Kept Closed",
       "hash": "3fb19f23ec71",
-      "in_degree": 73,
+      "in_degree": 74,
       "out_degree": 68,
       "links_out": [
         "openness-is-consistency",
@@ -5007,7 +5008,7 @@
       "path": "content/posts/objects-are-stabilized-relationships.md",
       "title": "对象是被稳定化的关系 / Objects Are Stabilized Relationships",
       "hash": "5c88afea080b",
-      "in_degree": 13,
+      "in_degree": 14,
       "out_degree": 8,
       "links_out": [
         "the-potential-infinity-of-operators-and-the-finite-horizon-of-records",
@@ -5593,7 +5594,7 @@
       "path": "content/posts/pessimism-is-the-shadow-of-optimism.md",
       "title": "悲观是乐观的阴影 / Pessimism Is the Shadow of Optimism",
       "hash": "aa49b94c3914",
-      "in_degree": 22,
+      "in_degree": 23,
       "out_degree": 27,
       "links_out": [
         "causality-all-the-way",
@@ -6241,7 +6242,7 @@
       "path": "content/posts/restriction-is-a-selective-tax.md",
       "title": "限制是选择性的税 / Restriction Is a Selective Tax",
       "hash": "67892b4c8271",
-      "in_degree": 23,
+      "in_degree": 24,
       "out_degree": 22,
       "links_out": [
         "the-allocation-of-causal-power-in-validation",
@@ -6795,7 +6796,7 @@
       "path": "content/posts/symptom-and-cause-in-the-narratives-of-progress.md",
       "title": "进步叙事中的症候与原因 / Symptom and Cause in the Narratives of Progress",
       "hash": "463e396e6297",
-      "in_degree": 35,
+      "in_degree": 36,
       "out_degree": 33,
       "links_out": [
         "when-the-effect-authors-the-frame",
@@ -10871,6 +10872,32 @@
       ]
     },
     {
+      "id": "post:the-residue-of-progress-and-the-reactivity-of-resistance",
+      "kind": "post",
+      "slug": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "path": "content/posts/the-residue-of-progress-and-the-reactivity-of-resistance.md",
+      "title": "进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance",
+      "hash": "0f8da7de5cb1",
+      "in_degree": 0,
+      "out_degree": 14,
+      "links_out": [
+        "generation-beyond-the-boundary-and-internal-rearrangement",
+        "deceleration-is-the-drag-felt-when-accelerating",
+        "pessimism-is-the-shadow-of-optimism",
+        "felt-resistance-and-the-speed-differential",
+        "individual-choices-as-the-only-causal-levers",
+        "no-system-can-be-kept-closed",
+        "what-works-is-the-belief",
+        "restriction-is-a-selective-tax",
+        "differentiation-and-the-appearance-of-negation",
+        "objects-are-stabilized-relationships",
+        "symptom-and-cause-in-the-narratives-of-progress",
+        "the-utility-men-of-progress",
+        "the-scaffolding-that-keeps-growing",
+        "the-scaffolding-we-forget"
+      ]
+    },
+    {
       "id": "post:the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
       "kind": "post",
       "slug": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
@@ -11104,7 +11131,7 @@
       "path": "content/posts/the-scaffolding-that-keeps-growing.md",
       "title": "持续生长的脚手架 / The Scaffolding That Keeps Growing",
       "hash": "a40b4bf95dec",
-      "in_degree": 29,
+      "in_degree": 30,
       "out_degree": 33,
       "links_out": [
         "openness-is-consistency",
@@ -11149,7 +11176,7 @@
       "path": "content/posts/the-scaffolding-we-forget.md",
       "title": "遗忘的脚手架 / The Scaffolding We Forget",
       "hash": "c1628ffd356a",
-      "in_degree": 80,
+      "in_degree": 81,
       "out_degree": 71,
       "links_out": [
         "the-extendable-horizon",
@@ -11899,7 +11926,7 @@
       "path": "content/posts/the-utility-men-of-progress.md",
       "title": "进步的多面手 / The Utility Men of Progress",
       "hash": "e37db505a1a4",
-      "in_degree": 17,
+      "in_degree": 18,
       "out_degree": 20,
       "links_out": [
         "individual-choices-as-the-only-causal-levers",
@@ -12511,7 +12538,7 @@
       "path": "content/posts/what-works-is-the-belief.md",
       "title": "起作用的是信念 / What Works Is the Belief",
       "hash": "5d3c5becf051",
-      "in_degree": 29,
+      "in_degree": 30,
       "out_degree": 30,
       "links_out": [
         "sovereignty-belief-and-regulatory-structures",
@@ -82208,6 +82235,174 @@
       "label": "Individual Choices as the Only Causal Levers"
     },
     {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "rel": "points_to",
+      "label": "边界之外的生成与内部重排"
+    },
+    {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "generation-beyond-the-boundary-and-internal-rearrangement",
+      "rel": "points_to",
+      "label": "Generation Beyond the Boundary and Internal Rearrangement"
+    },
+    {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "deceleration-is-the-drag-felt-when-accelerating",
+      "rel": "points_to",
+      "label": "减速是加速时感受到的阻力"
+    },
+    {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "悲观是乐观的阴影"
+    },
+    {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "deceleration-is-the-drag-felt-when-accelerating",
+      "rel": "points_to",
+      "label": "Deceleration Is the Drag Felt When Accelerating"
+    },
+    {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "pessimism-is-the-shadow-of-optimism",
+      "rel": "points_to",
+      "label": "Pessimism Is the Shadow of Optimism"
+    },
+    {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "felt-resistance-and-the-speed-differential",
+      "rel": "points_to",
+      "label": "阻力体感与速率差"
+    },
+    {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
+    },
+    {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "felt-resistance-and-the-speed-differential",
+      "rel": "points_to",
+      "label": "Felt Resistance and the Speed Differential"
+    },
+    {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "Individual Choices as the Only Causal Levers"
+    },
+    {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "没有系统能被保持封闭"
+    },
+    {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "起作用的是信念"
+    },
+    {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "限制是选择性的税"
+    },
+    {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "no-system-can-be-kept-closed",
+      "rel": "points_to",
+      "label": "No System Can Be Kept Closed"
+    },
+    {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "what-works-is-the-belief",
+      "rel": "points_to",
+      "label": "What Works Is the Belief"
+    },
+    {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "restriction-is-a-selective-tax",
+      "rel": "points_to",
+      "label": "Restriction Is a Selective Tax"
+    },
+    {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "differentiation-and-the-appearance-of-negation",
+      "rel": "points_to",
+      "label": "区分活动与否定的显现"
+    },
+    {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "objects-are-stabilized-relationships",
+      "rel": "points_to",
+      "label": "对象是被稳定化的关系"
+    },
+    {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "differentiation-and-the-appearance-of-negation",
+      "rel": "points_to",
+      "label": "Differentiation and the Appearance of Negation"
+    },
+    {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "objects-are-stabilized-relationships",
+      "rel": "points_to",
+      "label": "Objects Are Stabilized Relationships"
+    },
+    {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "进步叙事中的症候与原因"
+    },
+    {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "the-utility-men-of-progress",
+      "rel": "points_to",
+      "label": "进步的多面手"
+    },
+    {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "symptom-and-cause-in-the-narratives-of-progress",
+      "rel": "points_to",
+      "label": "Symptom and Cause in the Narratives of Progress"
+    },
+    {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "the-utility-men-of-progress",
+      "rel": "points_to",
+      "label": "The Utility Men of Progress"
+    },
+    {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "持续生长的脚手架"
+    },
+    {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "遗忘的脚手架"
+    },
+    {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "the-scaffolding-that-keeps-growing",
+      "rel": "points_to",
+      "label": "The Scaffolding That Keeps Growing"
+    },
+    {
+      "from": "the-residue-of-progress-and-the-reactivity-of-resistance",
+      "to": "the-scaffolding-we-forget",
+      "rel": "points_to",
+      "label": "The Scaffolding We Forget"
+    },
+    {
       "from": "the-residue-of-sorting-and-the-non-equivalence-of-interpretations",
       "to": "individual-choices-as-the-only-causal-levers",
       "rel": "points_to",
@@ -97819,8 +98014,8 @@
         "slug": "index-of-premises",
         "path": "content/book/index-of-premises.md",
         "title": "前提索引 / Index of Premises",
-        "hash": "a1ca40a2ccc1",
-        "out_degree": 459
+        "hash": "cf0a09e59615",
+        "out_degree": 460
       },
       {
         "id": "book:intelligence",
@@ -97927,8 +98122,8 @@
         "slug": "tools-and-progress",
         "path": "content/book/tools-and-progress.md",
         "title": "工具演进与进步叙事 / Tool Evolution and the Narrative of Progress",
-        "hash": "e534b5466f36",
-        "out_degree": 47
+        "hash": "dad2507ca407",
+        "out_degree": 48
       }
     ],
     "edges": [
@@ -99050,9 +99245,21 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-residue-of-progress-and-the-reactivity-of-resistance",
+        "rel": "collects",
+        "label": "进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "objects-are-stabilized-relationships",
         "rel": "collects",
         "label": "对象是被稳定化的关系 / Objects Are Stabilized Relationships"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-residue-of-progress-and-the-reactivity-of-resistance",
+        "rel": "collects",
+        "label": "进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance"
       },
       {
         "from": "book:index-of-premises",
@@ -100958,6 +101165,12 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-residue-of-progress-and-the-reactivity-of-resistance",
+        "rel": "collects",
+        "label": "进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "the-geometry-of-coexistence-and-the-dual-cut",
         "rel": "collects",
         "label": "共存的几何学 / The Geometry of Coexistence"
@@ -101144,6 +101357,18 @@
       },
       {
         "from": "book:index-of-premises",
+        "to": "the-residue-of-progress-and-the-reactivity-of-resistance",
+        "rel": "collects",
+        "label": "进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-residue-of-progress-and-the-reactivity-of-resistance",
+        "rel": "collects",
+        "label": "进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance"
+      },
+      {
+        "from": "book:index-of-premises",
         "to": "zi-zun-de-gang-xing-wai-ke-yu-yin-xing-wai-bu-gui-yin",
         "rel": "collects",
         "label": "自尊的刚性外壳与隐性外部归因 / The Rigid Shell of Self-Esteem and Hidden External Attribution"
@@ -101165,6 +101390,12 @@
         "to": "deceleration-is-the-drag-felt-when-accelerating",
         "rel": "collects",
         "label": "减速是加速时感受到的阻力 / Deceleration Is the Drag Felt When Accelerating"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-residue-of-progress-and-the-reactivity-of-resistance",
+        "rel": "collects",
+        "label": "进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance"
       },
       {
         "from": "book:index-of-premises",
@@ -103289,6 +103520,12 @@
         "to": "symptom-and-cause-in-the-narratives-of-progress",
         "rel": "collects",
         "label": "进步叙事中的症候与原因 / Symptom and Cause in the Narratives of Progress"
+      },
+      {
+        "from": "book:index-of-premises",
+        "to": "the-residue-of-progress-and-the-reactivity-of-resistance",
+        "rel": "collects",
+        "label": "进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance"
       },
       {
         "from": "book:index-of-premises",
@@ -107339,6 +107576,12 @@
         "to": "shared-boundaries-not-shared-context",
         "rel": "collects",
         "label": "共享的边界，而非共享的语境 / Shared Boundaries, Not Shared Context"
+      },
+      {
+        "from": "book:tools-and-progress",
+        "to": "the-residue-of-progress-and-the-reactivity-of-resistance",
+        "rel": "collects",
+        "label": "进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance"
       }
     ]
   }

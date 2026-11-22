@@ -375,7 +375,7 @@ Ryle placed mind in dispositions to behave observable from outside, to exorcise 
 
 Hegel universalizes determination into the maxim that all determination is negation (omnis determinatio est negatio) and casts determinate negation (bestimmte Negation) as a sublating movement (Aufhebung) that cancels while preserving prior moments, which is of use in tracking how cramped conceptual frames fracture under internal strain and carry earlier distinctions into wider ones; his dialectic reaches its boundary in housing every negated moment inside a self-closing circle of circles, mistaking the retrospective re-tracing of exclusions inside a sealed totality for an autonomous engine of reality.
 
-→ [区分活动与否定的显现 / Differentiation and the Appearance of Negation](../../posts/differentiation-and-the-appearance-of-negation/)
+→ [区分活动与否定的显现 / Differentiation and the Appearance of Negation](../../posts/differentiation-and-the-appearance-of-negation/) · [进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance](../../posts/the-residue-of-progress-and-the-reactivity-of-resistance/)
 
 ### 吉尔·德勒兹 / Gilles Deleuze
 `哲学 / Philosophical`
@@ -384,7 +384,7 @@ Hegel universalizes determination into the maxim that all determination is negat
 
 Deleuze replaces static substances with difference, becoming, and planes of immanence, which is of use in breaking the grammatical habit that freezes dynamic processes into fixed essences; it reaches its boundary when dissolving static substance is conflated with dissolving discrete boundaries themselves, erasing the resistance that stabilized traces exert under causal friction.
 
-→ [对象是被稳定化的关系 / Objects Are Stabilized Relationships](../../posts/objects-are-stabilized-relationships/)
+→ [对象是被稳定化的关系 / Objects Are Stabilized Relationships](../../posts/objects-are-stabilized-relationships/) · [进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance](../../posts/the-residue-of-progress-and-the-reactivity-of-resistance/)
 
 ### 戈特弗里德·威廉·莱布尼茨 / Gottfried Wilhelm Leibniz
 `哲学 / Philosophical`
@@ -1817,7 +1817,7 @@ The welfare state assumes high taxation is the necessary, noble price of a suppo
 
 The Whig theory of history presumes that history unfolds along an inevitable arc toward progress, with prosperity as that arc's own product, which is of use in lining up a run of improvements in retrospect; it reaches its boundary in that progress is a run of discrete acts initiated by thin minorities, prosperity figures and shared mood are delayed registrations of those acts, and when the initiating loci thin there is less to register later, since no arc initiates in their place.
 
-→ [进步叙事中的症候与原因 / Symptom and Cause in the Narratives of Progress](../../posts/symptom-and-cause-in-the-narratives-of-progress/)
+→ [进步叙事中的症候与原因 / Symptom and Cause in the Narratives of Progress](../../posts/symptom-and-cause-in-the-narratives-of-progress/) · [进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance](../../posts/the-residue-of-progress-and-the-reactivity-of-resistance/)
 
 ### 米田引理的对偶结构 / Yoneda Lemma Duality
 `数学 / Mathematical`
@@ -2026,6 +2026,24 @@ Developed from Herman Daly’s biophysical distinction between quantitative thro
 
 → [外部化未竟驱力为增长的病理 / Externalizing Unmet Drive as the Pathology of Growth](../../posts/externalizing-unmet-drive-as-the-pathology-of-growth/)
 
+### 勒温力场分析 / Kurt Lewin's Force-Field Analysis
+`科学 / Scientific`
+
+勒温力场分析将稳定与变化建模为相互对立的驱动向量与约束向量之间的准静止均衡，在诊断为何加大驱动压力会陡增系统张力而削减约束能减轻张力、以及将摩擦置入整体关系场中考察时有用；它在此到达边界：将驱动力与约束力设定为线性标尺上各自独立起源的对等双方，而非认出约束力只是推进的区分扰动既定保留基线后才在下游登记的反应性痕迹。
+
+Kurt Lewin's Force-Field Analysis models stability and change as a quasi-stationary equilibrium of opposing driving and restraining vectors, which is of use in diagnosing why raising driving pressure spikes tension while lowering restraints reduces it and in placing friction inside the total relational field; it reaches its boundary in positing driving and restraining forces as independently originating co-equals on a linear scale rather than recognizing restraining force as a downstream reactive trace registered only after advancing distinction unsettles a preserved baseline.
+
+→ [进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance](../../posts/the-residue-of-progress-and-the-reactivity-of-resistance/)
+
+### 波兰尼双向运动 / Polanyi's Double Movement
+`经济 / Economic`
+
+卡尔·波兰尼的“双向运动”将现代经济转型框定为市场脱嵌与社会自发保护性反向运动的双重进程，在揭示社会失序与反弹随变化步速而非单随方向缩放时有用；它在此到达边界：将保护性举措归因于“社会”这一聚合行动者的自动有机反射，而非有界中心在受扰基线与变化后回报下作出的抉择，从而未能解释为何由步速触发的反向运动会同时呈现出可调适的缓冲与刚性的排斥。
+
+Karl Polanyi's Double Movement frames modern economic transformation as market disembedding paired with society's spontaneous protective countermovement, which is of use in showing that social dislocation and pushback scale with the pace of change rather than its direction alone; it reaches its boundary in attributing protection to an automatic organic reflex of society as an aggregate agent rather than bounded centers choosing under altered payoffs against disturbed baselines, leaving unexplained why pace-triggered countermovements span adaptable buffers and rigid exclusions alike.
+
+→ [进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance](../../posts/the-residue-of-progress-and-the-reactivity-of-resistance/)
+
 ## 概念 / Concepts
 
 ### 心理特质与防御机制分类学 / Psychological Trait and Defense Taxonomies
@@ -2062,7 +2080,7 @@ Acceleration narratives presume that compressing tool and market feedback cycles
 
 The contest between acceleration and deceleration reads progress as a duel of two ideologies, which is of use in identifying the positions and demands of the parties to a change; it reaches its boundary in that deceleration is no self-originating force but the reactive drag acceleration produces moving through an existing medium, and reifying it as an enemy widens the frontal surface and stabilizes passing friction into lasting institutions of opposition.
 
-→ [减速是加速时感受到的阻力 / Deceleration Is the Drag Felt When Accelerating](../../posts/deceleration-is-the-drag-felt-when-accelerating/)
+→ [减速是加速时感受到的阻力 / Deceleration Is the Drag Felt When Accelerating](../../posts/deceleration-is-the-drag-felt-when-accelerating/) · [进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance](../../posts/the-residue-of-progress-and-the-reactivity-of-resistance/)
 
 ### 实无穷（完成的整体） / Actual Infinity (Completed Totality)
 `数学 / Mathematical`
@@ -4150,7 +4168,7 @@ Classical and modern economics partition activity into separate spheres of produ
 
 Progress as the unfolding of consensus presumes that advance is the smooth unfolding of a shared consensus and that absorbed achievement is collective wisdom, which is of use in registering how an achievement, once locked in, becomes infrastructure and standards available to everyone; it reaches its boundary in that initiation sits with thin, rotating minorities, the majority is delayed registration rather than a co-author, recognition, resistance, and absorption are lag on an open field, and taking the absorbed residue as proof that the field had been the engine is the freeze.
 
-→ [进步的多面手 / The Utility Men of Progress](../../posts/the-utility-men-of-progress/) · [进步叙事中的症候与原因 / Symptom and Cause in the Narratives of Progress](../../posts/symptom-and-cause-in-the-narratives-of-progress/)
+→ [进步的多面手 / The Utility Men of Progress](../../posts/the-utility-men-of-progress/) · [进步叙事中的症候与原因 / Symptom and Cause in the Narratives of Progress](../../posts/symptom-and-cause-in-the-narratives-of-progress/) · [进步的残余与抵抗的反应性 / The Residue of Progress and the Reactivity of Resistance](../../posts/the-residue-of-progress-and-the-reactivity-of-resistance/)
 
 ### AI 的内在风险 / Inherent AI Risk
 `技术 / Technological`
