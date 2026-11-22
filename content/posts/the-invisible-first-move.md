@@ -2,7 +2,7 @@
 
 *事后被称作恰逢其时的后来居上，是早期未经验证的复利延迟显形 / What hindsight celebrates as a well-timed late entrance is the delayed visibility of early, unvalidated compounding.*
 
-技术的民间传说常常颂扬后来者：耐心的跟随者让早期的先驱先挨箭，等市场明朗，再一举入场收割战果。这个叙事让旁观者安心，从第一人称的因果追下去却站不住。事后看来是一次晚到的入场，只是一条更早、更安静的复利曲线越过公共可见门槛的那一刻。技术上的超越不是从等待明朗里生出来的；它是一个看不见的第一步在结构上的结果：在一条更高杠杆的轨迹仍有争议、资源不足、被共识打发的时候，选中它。
+技术的民间传说常常颂扬后来者：耐心的跟随者让早期的先驱先挨箭，等市场明朗，再一举入场收割战果。这个叙事让旁观者安心，从第一人称把因果追下去却站不住。事后看似晚到的入场，只是一条更早、更安静的复利曲线越过公共可见门槛的那一刻。技术上的超越不是从等待明朗里生出来的；它是看不见的第一步在结构上的结果：在一条更高杠杆的轨迹仍有争议、资源不足、被共识打发的时候，选中它。
 
 Technological folklore often celebrates the latecomer: the patient follower who lets the early pioneers take the first arrows, waits for the market to clear, and sweeps in to collect the spoils. The story comforts spectators, but it does not hold when the causation is followed from the first person. What looks in retrospect like a late entrance is only the moment an earlier, quieter compounding curve crosses the threshold of public visibility. Technological overtaking is not born from waiting for clarity; it is the structural consequence of an invisible first move: choosing a higher-leverage trajectory while it is still contested, under-resourced and dismissed by consensus.
 
@@ -30,7 +30,7 @@ What looks from outside like a sudden overtake is the mathematical consequence o
 
 While the visible incumbent scales an established, lower-leverage architecture to meet existing demand, the eventual challenger works on a steeper slope from a lower base. The challenger's early iteration happens in relative obscurity: internal prototypes, foundational refactors and architectural bets that win no outside applause.
 
-在这段区间里，挑战者的工作在随意的观察者眼中，像是无关紧要的试验，甚至是失败。可因为其轨迹底下的杠杆更高，每一次迭代都带来更深的结构性复利。等公众终于注意到挑战者，交叉点已经到了。这次超越不是靠更好的时机取得的；它是多年安静的功夫累积下的优势浮出水面。这是从结果倒着读回去的一种看法：并不是每一条安静的曲线都会浮出水面，结果里也有落到各人身上的那一份。[平均值是残余，不是引擎](../the-average-is-residue-not-the-engine/)守着这一点：大众采用的指标度量的是滞后的残余，而决定性的转变，是由在未经验证的边缘上复利的薄薄的少数写成的。
+在这段区间里，挑战者的工作在随意的观察者眼中，像是无关紧要的试验，甚至是失败。可因为其轨迹底下的杠杆更高，每一次迭代都带来更深的结构性复利。等公众终于注意到挑战者，交叉点已经到了。这次超越不是靠更好的时机取得的，而是多年安静的功夫累积下的优势浮出了水面。这是从结果倒着读回去的一种看法：并不是每一条安静的曲线都会浮出水面，结果里也有落到各人身上的那一份。[平均值是残余，不是引擎](../the-average-is-residue-not-the-engine/)守着这一点：大众采用的指标度量的是滞后的残余，而决定性的转变，是由薄薄的少数在未经验证的边缘上复利写成的。
 
 ```mermaid
 flowchart TD
@@ -130,10 +130,10 @@ This structural asymmetry explains why the history of technological overtaking i
 
 Passive observation delivers only the visible aftermath: the finished product, the market-share graph, the triumphant press release. It erases the hard, ambiguous interval where the actual causal work took place. Observers who study only the residue absorb the inverse lesson: they prize tactical patience and market consensus, the very postures that leave one behind.
 
-在人工智能这样快速变化的领域，这个错误代价很高。未来几十年里领先的组织与个人，未必是今天声音最大、资本最雄厚的那些。它们是已经投入一个更高杠杆的技术前提、从看似不利的位置高效迭代的安静中心。
+在人工智能这样快速变化的领域，这个错误代价很高。未来几十年里领先的组织与个人，未必是今天声音最大、资本最雄厚的那些。走在任何可见品牌或资产负债表之前的，是安静的个体——无论独自行动，还是在组织内部协同——他们早已投入一个更高杠杆的技术前提，正从看似不利的位置高效迭代。
 
-In fast-moving fields like artificial intelligence, this error is costly. The organizations and individuals that lead the coming decades are not necessarily today's loudest or best-capitalized. They are the quiet centres that have already committed to a higher-leverage technical premise and are iterating efficiently from a position of apparent disadvantage.
+In fast-moving fields like artificial intelligence, this error is costly. The organizations and individuals that lead the coming decades are not necessarily today's loudest or best-capitalized. Ahead of any visible brand or balance sheet sit quiet individuals—acting alone or coordinating inside an organization—who have already committed to a higher-leverage technical premise and are iterating efficiently from a position of apparent disadvantage.
 
-真正的教训无法从回顾里提取出来。它要在有心智的前沿上被活出来，在那里信号微弱，外部的许可缺席，第一步要在黑暗中划下。后来者从来没有晚到；他们只是在任何人想到去看之前很久就开始移动了，所以[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)。事后出现在公共回顾里的，只是已成之步的提交档案；如[你的代码库即是记忆](../your-codebase-is-memory/)所指出的，外化的痕迹只在活的前沿迈出那一步之后，才记下轨迹。
+任何起作用的教训都无法从回顾里提取出来，因为公共历史所检视的——就像[你的代码库即是记忆](../your-codebase-is-memory/)里已提交的代码库一样——只是活的前沿已经迈出一步之后留下的外化痕迹。那道前沿必须以第一人称活出来，在那里信号微弱，外部许可缺席，第一步在黑暗中划下。后来者从来没有晚到；他们在任何人想到去看之前很久就已经开始移动了，在记分牌登记到任何变化之前，便已印证了[个体抉择是唯一的因果杠杆](../individual-choices-as-the-only-causal-levers/)。
 
-The real lesson cannot be extracted from retrospectives, because what public history inspects—much like the committed repository in [Your Codebase Is Memory](../your-codebase-is-memory/)—is only the externalized trace left after the living edge has already stepped. That edge has to be lived in the first person, where the signal is faint, outside permission is absent, and the first move is drawn in the dark. The latecomer was never late; they started moving long before anyone thought to look, demonstrating [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) before the scoreboard ever registered a shift.
+No operative lesson can be extracted from retrospectives, because what public history inspects—much like the committed repository in [Your Codebase Is Memory](../your-codebase-is-memory/)—is only the externalized trace left after the living edge has already stepped. That edge has to be lived in the first person, where the signal is faint, outside permission is absent, and the first move is drawn in the dark. The latecomer was never late; they started moving long before anyone thought to look, demonstrating [Individual Choices as the Only Causal Levers](../individual-choices-as-the-only-causal-levers/) before the scoreboard ever registered a shift.

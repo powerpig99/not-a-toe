@@ -3,7 +3,7 @@
     "projection": "disposable",
     "not_source_of_truth": true,
     "regenerate": "node scripts/project-posts-graph.mjs",
-    "generated_at": "2026-11-21T23:32:25.908Z",
+    "generated_at": "2026-11-22T00:16:16.452Z",
     "project": "not-a-toe",
     "source_glob": "content/posts/*.md + content/book/*.md",
     "link_pattern": "](../slug/) in posts · ](../../posts/slug/) in book",
@@ -33,7 +33,7 @@
       "content/posts/better-than-free-after-the-checklist-closes.md": "d39b1b10df08",
       "content/posts/beyond-the-hundred-trillion-horizon.md": "243174a770ad",
       "content/posts/beyond-the-projection.md": "78576807063b",
-      "content/posts/boletus-compute-storm-and-promethean-fire.md": "db1b5db3be64",
+      "content/posts/boletus-compute-storm-and-promethean-fire.md": "bc4af4be9924",
       "content/posts/boundary-condition-graphs-as-memory-and-control-in-recursive-formal-systems.md": "b9dd99668de7",
       "content/posts/causality-all-the-way.md": "08b98022c4d7",
       "content/posts/causality-and-the-irreducible-prior.md": "23039b57892e",
@@ -94,7 +94,7 @@
       "content/posts/externalized-virtue-becomes-its-opposite.md": "a0c1f4787547",
       "content/posts/failure-as-information.md": "11a236cd7faa",
       "content/posts/fate-loves-irony-refined.md": "4173eb2feff2",
-      "content/posts/felt-resistance-and-the-speed-differential.md": "2a9de66345d9",
+      "content/posts/felt-resistance-and-the-speed-differential.md": "a65ccd0b204a",
       "content/posts/fidelity-not-optimality.md": "84fdc763c7f0",
       "content/posts/fixed-by-nothing.md": "307bb2bbbe73",
       "content/posts/four-night-questions.md": "6011fb84be91",
@@ -310,7 +310,7 @@
       "content/posts/the-illusion-of-knowing-and-the-geometry-of-amputation.md": "28d2c9ecb890",
       "content/posts/the-illusion-of-multi-agent-collaboration.md": "861aa47fe3ce",
       "content/posts/the-illusion-of-the-shared-sandbox.md": "bc033de6677c",
-      "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "d7248404a3e5",
+      "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md": "5fcb9da98a3d",
       "content/posts/the-illusion-of-the-unmediated.md": "6167af604584",
       "content/posts/the-imagining-of-ai-risk.md": "94a3c0af210d",
       "content/posts/the-initial-distinction.md": "597771bb1303",
@@ -319,7 +319,7 @@
       "content/posts/the-inversion-of-reading-and-the-order-of-inference.md": "5db081fa7c26",
       "content/posts/the-inversion-of-the-harness-and-the-driver-seat-asymmetry.md": "3a5779fc0793",
       "content/posts/the-inversion-of-the-protocol-and-the-silencing-of-the-causal-loop.md": "2219f4f28045",
-      "content/posts/the-invisible-first-move.md": "2903f23cc112",
+      "content/posts/the-invisible-first-move.md": "cbbee4c61be0",
       "content/posts/the-invisible-gods-eye.md": "9e436c7e4371",
       "content/posts/the-invisible-observer-and-the-delusion-of-lossless-transmission.md": "79820c8908a0",
       "content/posts/the-irreducible-observer.md": "52e6ccd57980",
@@ -1359,7 +1359,7 @@
       "slug": "boletus-compute-storm-and-promethean-fire",
       "path": "content/posts/boletus-compute-storm-and-promethean-fire.md",
       "title": "牛肝菌、算力风暴与普罗米修斯的火 / Boletus, the Compute Storm, and Promethean Fire",
-      "hash": "db1b5db3be64",
+      "hash": "bc4af4be9924",
       "in_degree": 7,
       "out_degree": 11,
       "links_out": [
@@ -3063,7 +3063,7 @@
       "slug": "felt-resistance-and-the-speed-differential",
       "path": "content/posts/felt-resistance-and-the-speed-differential.md",
       "title": "阻力体感与速率差 / Felt Resistance and the Speed Differential",
-      "hash": "2a9de66345d9",
+      "hash": "a65ccd0b204a",
       "in_degree": 12,
       "out_degree": 9,
       "links_out": [
@@ -9034,7 +9034,7 @@
       "slug": "the-illusion-of-the-tool-and-the-inversion-of-time",
       "path": "content/posts/the-illusion-of-the-tool-and-the-inversion-of-time.md",
       "title": "工具的幻觉与时间的倒置 / The Illusion of the Tool and the Inversion of Time",
-      "hash": "d7248404a3e5",
+      "hash": "5fcb9da98a3d",
       "in_degree": 3,
       "out_degree": 7,
       "links_out": [
@@ -9245,15 +9245,15 @@
       "slug": "the-invisible-first-move",
       "path": "content/posts/the-invisible-first-move.md",
       "title": "看不见的第一步 / The Invisible First Move",
-      "hash": "2903f23cc112",
+      "hash": "cbbee4c61be0",
       "in_degree": 5,
       "out_degree": 5,
       "links_out": [
         "symptom-and-cause-in-the-narratives-of-progress",
         "the-average-is-residue-not-the-engine",
         "not-predicting-is-predicting-without-awareness",
-        "individual-choices-as-the-only-causal-levers",
-        "your-codebase-is-memory"
+        "your-codebase-is-memory",
+        "individual-choices-as-the-only-causal-levers"
       ]
     },
     {
@@ -71417,15 +71417,15 @@
     },
     {
       "from": "the-invisible-first-move",
-      "to": "individual-choices-as-the-only-causal-levers",
-      "rel": "points_to",
-      "label": "个体抉择是唯一的因果杠杆"
-    },
-    {
-      "from": "the-invisible-first-move",
       "to": "your-codebase-is-memory",
       "rel": "points_to",
       "label": "你的代码库即是记忆"
+    },
+    {
+      "from": "the-invisible-first-move",
+      "to": "individual-choices-as-the-only-causal-levers",
+      "rel": "points_to",
+      "label": "个体抉择是唯一的因果杠杆"
     },
     {
       "from": "the-invisible-first-move",
